@@ -1,1 +1,1 @@
-4. Sēklas, kuras ievestas līdz 2004.gada 30.aprīlim un kuras neatbilst šā likuma 13.1 panta pirmajā daļā minētajām prasībām, var tirgot tikai Latvijas teritorijā līdz krājumu beigām vai līdz sēklu kvalitāti apliecinošā dokumentā norādītā derīguma termiņa beigām.
+4. Sēklas, kuras ievestas līdz 2004.gada 30.aprīlim un kuras neatbilst šā likuma 13.¹ panta pirmajā daļā minētajām prasībām, var tirgot tikai Latvijas teritorijā līdz krājumu beigām, veicot atkārtotu dīgtspējas pārbaudi, vai līdz sēklu kvalitāti apliecinošajā dokumentā norādītā derīguma termiņa beigām.

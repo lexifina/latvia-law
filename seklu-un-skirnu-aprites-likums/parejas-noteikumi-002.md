@@ -1,1 +1,1 @@
-2. To šķirņu sēklu sertifikāciju, kas neatbilst Eiropas Savienības direktīvās noteiktajām prasībām, Valsts augu aizsardzības dienests veic līdz 2009.gada 30.aprīlim, un šo sēklu tirdzniecība ir atļauta tikai Latvijas teritorijā.
+2. Saskaņā ar Pievienošanās līgumu Eiropas Savienībai to šķirņu sēklu sertifikāciju, kuras neatbilst Eiropas Savienības direktīvās noteiktajām prasībām, Valsts augu aizsardzības dienests veic līdz 2009.gada 30.aprīlim un šo sēklu tirdzniecība ir atļauta tikai Latvijas teritorijā.

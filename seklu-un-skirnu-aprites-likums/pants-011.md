@@ -1,7 +1,7 @@
 11.pants. Latvijas augu šķirņu katalogs
 (1) Latvijas augu šķirņu katalogs ir augu šķirņu saraksts, kurā iekļauto šķirņu sēklas drīkst sertificēt un pārdot saskaņā ar sēklaudzēšanas un sēklu tirdzniecības noteikumiem.
 (2) Katalogā iekļauj labības, lopbarības augu, eļļas augu un šķiedraugu, biešu, kartupeļu un dārzeņu šķirnes.
-(3) Katalogā ietver šādu informāciju:
+(3) Katalogā norāda šādu informāciju:
 1) šķirnes nosaukums;
 2) laiks, uz kuru šķirne iekļauta katalogā;
 3) valsts, kurā šķirne selekcionēta;
