@@ -8,6 +8,6 @@
 2) nodrošina plānošanas reģiona attīstības koordināciju atbilstoši reģionālās attīstības plānošanas dokumentos noteiktajiem galvenajiem pamatprincipiem, mērķiem un prioritātēm;
 3) vada un uzrauga plānošanas reģiona attīstības programmas un teritorijas plānojuma izstrādi un ieviešanu;
 4) nodrošina pašvaldību sadarbību un plānošanas reģiona sadarbību ar nacionālā līmeņa institūcijām reģionālās attīstības atbalsta pasākumu īstenošanā;
-5) izvērtē nacionālā plānojuma, nacionālā attīstības plāna, nacionālo un nozaru attīstības programmu atbilstību plānošanas reģiona attīstības programmai un teritorijas plānojumam un neatbilstības gadījumos lemj par ierosinājumu grozīt nacionālā līmeņa attīstības plānošanas dokumentus vai par grozījumiem plānošanas reģiona plānošanas dokumentos;
+5) izvērtē nacionālā plānojuma, nacionālā attīstības plāna un nozaru attīstības programmu atbilstību plānošanas reģiona attīstības programmai un teritorijas plānojumam un neatbilstības gadījumos lemj par ierosinājumu grozīt nacionālā līmeņa attīstības plānošanas dokumentus vai par grozījumiem plānošanas reģiona plānošanas dokumentos;
 6) apstiprina Plānošanas reģiona attīstības padomes un Plānošanas reģiona attīstības aģentūras nolikumu;
 7) veic citas normatīvajos aktos noteiktās funkcijas.
