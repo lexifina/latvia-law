@@ -1,0 +1,1 @@
+2.pants. Šā likuma mērķis ir regulēt sabiedriskās attiecības ārstniecībā, lai nodrošinātu slimību vai traumu kvalificētu profilaksi un diagnostiku, kā arī kvalificētu pacienta ārstēšanu un rehabilitāciju.

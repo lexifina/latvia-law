@@ -1,0 +1,1 @@
+42.pants. Gadījumos, kad pacienta dzīvība nav apdraudēta, bet pacients neievēro noteikto režīmu, nepilda ārstniecības personu norādījumus vai apzināti kaitē savai veselībai un šādā veidā tieši ietekmē konkrētās slimības ārstēšanu, ārstam ir tiesības atteikties no turpmākās pacienta ārstēšanas.

@@ -1,0 +1,1 @@
+14.pants. Medicīnas ētikas komitejas izveido ārstniecības iestādes un ārstniecības personu profesionālās biedrības. Šīs komitejas izskata ētikas jautājumus, kas saistīti ar ārstniecības personu darbību un jaunām medicīniskajām tehnoloģijām.

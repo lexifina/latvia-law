@@ -1,0 +1,1 @@
+64.pants. Nosacīti notiesājot, tiesa var uzlikt notiesātajam, kas izdarījis noziegumu alkoholisma, narkomānijas vai toksikomānijas ietekmē, ar viņa piekrišanu par pienākumu ārstēties no alkoholisma, narkomānijas vai toksikomānijas sociālās un psiholoģiskās rehabilitācijas iestādē.

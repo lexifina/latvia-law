@@ -1,0 +1,1 @@
+4.pants. Veselības aprūpes finansēšanas kārtību, to ārstniecības pakalpojumu veidus un apjomu, kuri tiek apmaksāti no valsts pamatbudžeta un pakalpojumu saņēmēju līdzekļiem, kā arī šīs samaksas kārtību nosaka Ministru kabinets.

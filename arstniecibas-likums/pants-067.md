@@ -1,0 +1,1 @@
+67.pants. Psihiatriskā palīdzība balstās uz brīvprātības principu. Stacionāro palīdzību sniedz psihiatriskajās ārstniecības iestādēs (nodaļās), ja slimnieka veselības stāvokļa dēļ to nav iespējams veikt ambulatoriski vai dzīvesvietā.

@@ -1,0 +1,1 @@
+3.pants. Veselība ir fiziska, garīga un sociāla labklājība, valsts un tautas pastāvēšanas un izdzīvošanas dabiskais pamats. Veselības aprūpe ir pasākumu komplekss veselības nodrošināšanai un uzturēšanai.

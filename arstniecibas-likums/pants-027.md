@@ -1,0 +1,1 @@
+27.pants. Ārstniecības personu specialitāšu nosaukumus un to klasifikāciju nosaka Ministru kabineta apstiprināts Latvijas Republikas profesiju klasifikators, bet ārstniecības personu darbību noteiktās specialitātēs ārstniecībā reglamentē attiecīgo specialitāšu nolikumi, kurus izstrādā ārstniecības personu profesionālās biedrības un apstiprina Labklājības ministrija.

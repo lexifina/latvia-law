@@ -1,0 +1,1 @@
+9.pants. Veselībai kaitīgo darba vides faktoru un to darbu sarakstu, kuros nodarbinātās personas pirms stāšanās darbā un periodiski ir pakļaujamas obligātām veselības pārbaudēm, apstiprina Ministru kabinets.

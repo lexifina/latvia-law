@@ -1,0 +1,1 @@
+1. Ārstniecības personas, kuras ieguvušas kvalifikācijas kategoriju vai sertifikātu kādā no apakšspecialitātēm vai papildspecialitātēm un praktizējušas tajā vairāk nekā piecus gadus, drīkst turpināt savu praksi bez pamatspecialitātes sertifikāta iegūšanas. Sertifikācija šiem speciālistiem notiek iegūtajā apakšspecialitātē vai papildspecialitātē.

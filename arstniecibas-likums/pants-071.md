@@ -1,0 +1,1 @@
+71.pants. Ilgstošu vai pastāvīgu fizisko vai psihisko spēju ierobežojuma gadījumos veselības un darbspējas ekspertīzi veic un invaliditāti nosaka valsts pilnvarota Veselības un darbspējas ekspertīzes ārstu komisija (VDEĀK), kuras darbību reglamentē normatīvie akti.

@@ -1,0 +1,1 @@
+47.pants. Ārstniecības personai ir tiesības atteikt pirmo un neatliekamo medicīnisko palīdzību apstākļos, kas apdraud ārstniecības personas pašas dzīvību, kā arī tad, ja ārstniecības persona to nespēj veselības stāvokļa dēļ.

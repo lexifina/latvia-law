@@ -1,0 +1,1 @@
+25.pants. Pacienta pienākums ir ārstniecības procesā ievērot ārstniecības personu norādījumus un ārstniecības iestādes iekšējās kārtības noteikumus. Ārstēšanās laikā pacients nedrīkst veikt darbības, kas varētu kaitēt viņa veselībai.

@@ -1,0 +1,1 @@
+70.pants. Personām, kuras likumā noteiktajā kārtībā atzītas par rīcībnespējīgām, psihiatrisko palīdzību sniedz pēc to aizgādņu rakstveida lūguma vai ar viņu piekrišanu, izņemot gadījumus, kuri paredzēti šā likuma 68.pantā.

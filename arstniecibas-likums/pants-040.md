@@ -1,0 +1,1 @@
+40.pants. Ārsts ir atbildīgs par nedzimušas dzīvības saglabāšanu, un viņa pienākums ir mēģināt atrunāt pacienti no grūtniecības pārtraukšanas, ja grūtniecība nav pretrunā ar sievietes veselības stāvokli un nepastāv draudi, ka jaundzimušajam būs pārmantojama vai iegūta slimība. Ārstam ir tiesības atteikties izdarīt grūtniecības pārtraukšanu, ja tam nav medicīnisku iemeslu.

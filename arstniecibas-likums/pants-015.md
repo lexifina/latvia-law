@@ -1,0 +1,1 @@
+15.pants. Centrālā medicīnas ētikas komiteja darbojas saskaņā ar Ministru kabineta noteikumiem, un tā izskata uz sociālajām problēmām attiecināmos biomedicīniskā progresa ētikas jautājumus. Centrālās medicīnas ētikas komitejas personālsastāvu apstiprina Ministru kabinets pēc Labklājības ministrijas priekšlikuma.

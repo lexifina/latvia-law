@@ -1,0 +1,1 @@
+32.pants. Ārvalstu ārstniecības personas, kas ierodas Latvijā, lai apmācītu ārstniecības personas, celtu to kvalifikāciju, konsultētu slimniekus, var nodarboties ar ārstniecību Latvijā bez ārstniecības personas sertifikāta, saņemot Latvijas Ārstu biedrības izsniegtu termiņatļauju, ko izsniedz uz laiku līdz vienam gadam.

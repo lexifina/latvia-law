@@ -1,0 +1,1 @@
+6.pants. Pacientam, viņa tuvākajiem radiniekiem vai likumīgajiem pārstāvjiem (aizgādņiem, aizbildņiem) ir tiesības izvēlēties Latvijā esošu ārstniecības iestādi un ārstniecības personu slimību un traumu diagnostikai, ārstēšanai un pacienta rehabilitācijai. Pacientam ir tiesības uz kvalitatīvu, laipnu un cieņpilnu ārstēšanu un aprūpi.

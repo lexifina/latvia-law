@@ -1,0 +1,1 @@
+65.pants. Personām ar psihiskiem traucējumiem un psihiskām slimībām ir jānodrošina visas pilsoņa, politiskās, ekonomiskās un sociālās tiesības, kuras paredz likums. Psihiskie traucējumi vai psihiskā slimība nedrīkst būt par iemeslu cilvēka diskriminācijai.

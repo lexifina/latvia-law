@@ -1,0 +1,5 @@
+68.pants. (1) Ambulatorisku vai stacionāru izmeklēšanu un ārstēšanu pret slimnieka gribu drīkst veikt tikai šādos gadījumos:
+1) ja psihisko traucējumu dēļ slimnieka uzvedība ir bīstama viņa paša vai citu personu veselībai vai dzīvībai;
+2) ja psihisko traucējumu un to klīniskās dinamikas dēļ psihiatrs prognozē tādu slimnieka uzvedību, kas ir bīstama viņa paša vai citu personu veselībai vai dzīvībai;
+3) ja slimnieka psihiskie traucējumi ir tādi, kas liedz viņam pieņemt apzinātus lēmumus, un atsacīšanās no ārstēšanas var radīt nopietnu veselības un sociālā stāvokļa pasliktināšanos, kā arī sabiedriskās kārtības traucējumus.
+(2) Ja veikta stacionēšana pret slimnieka gribu, psihiatru konsīlijam 72 stundu laikā ir jāizmeklē slimnieks un jāpieņem lēmums par turpmāko ārstēšanu. Konsīlijs nekavējoties paziņo savu lēmumu slimniekam, viņa ģimenes locekļiem, bet, ja tādu nav, - tuvākajiem radiniekiem vai likumīgajiem pārstāvjiem (aizgādņiem, aizbildņiem). Ja to nav iespējams izdarīt nekavējoties, tiekoties ar kādu no šiem cilvēkiem, viņiem nosūta rakstveida paziņojumu, izdarot par to ierakstu slimnieka reģistrācijas kartē.

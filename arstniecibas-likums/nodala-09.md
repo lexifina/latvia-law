@@ -1,0 +1,2 @@
+IX nodaļa
+Ārstniecības iestādes
