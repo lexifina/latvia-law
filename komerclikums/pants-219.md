@@ -1,5 +1,2 @@
-219.pants. Dalībnieku lēmums, ja samazinājusies sabiedrības manta
-Ja sabiedrības pašu kapitāls ir mazāks par trim ceturtdaļām no sabiedrības pamatkapitāla, dalībnieki lemj par pašu kapitāla palielināšanu līdz pamatkapitāla apmēram vai pieņem vienu no šādiem lēmumiem:
-1) par pamatkapitāla samazināšanu;
-2) par sabiedrības darbības izbeigšanu un likvidāciju vai reorganizāciju;
-3) par maksātnespējas pieteikuma iesniegšanu (ja konstatētas maksātnespējas pazīmes).
+219.pants. Dalībnieku sapulces sasaukšana, ja sabiedrība cietusi zaudējumus
+Ja sabiedrības zaudējumi pārsniedz pusi no sabiedrības pamatkapitāla, valde par to ziņo padomei (ja tāda ir izveidota) un sasauc dalībnieku sapulci, kurā sniedz paskaidrojumus.

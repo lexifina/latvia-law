@@ -1,5 +1,5 @@
 171.pants. Konkurences aizliegums attiecībā uz sabiedrības valdes locekļiem
-(1) Valdes loceklis bez padomes piekrišanas, bet, ja tāda nav izveidota, - bez dalībnieku piekrišanas nedrīkst:
+(1) Valdes loceklis bez padomes piekrišanas, bet, ja tāda nav izveidota, - bez dalībnieku sapulces piekrišanas nedrīkst:
 1) būt par komplementāru personālsabiedrībā vai dalībnieku ar papildu atbildību kapitālsabiedrībā, kas darbojas sabiedrības komercdarbības jomā;
 2) savā vai trešās personas vārdā vai labā slēgt darījumus sabiedrības komercdarbības jomā;
 3) būt par citas sabiedrības valdes locekli, kura darbojas sabiedrības komercdarbības jomā, izņemot gadījumus, kad sabiedrība ar šo citu sabiedrību ietilpst vienā koncernā.

@@ -7,5 +7,5 @@
 3) dokumentus, kas apliecina katra mantiskā ieguldījuma vērtību (ja tiek izdarīts mantiskais ieguldījums);
 4) katra padomes locekļa rakstveida piekrišanu būt par padomes locekli (ja sabiedrībai ir padome);
 5) katra valdes locekļa rakstveida piekrišanu būt par valdes locekli;
-6) to valdes locekļu notariāli apliecinātus parakstu paraugus, kuriem ir pārstāvības tiesības;
+6) valdes locekļu notariāli apliecinātu paraksta paraugu;
 7) valdes paziņojumu par sabiedrības juridisko adresi.

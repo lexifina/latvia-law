@@ -4,5 +4,5 @@
 1) viņš ir padomes vai valdes loceklis vai likvidators, - pieņemot lēmumu par viņa atsaukšanu, neuzticības izteikšanu viņam vai prasības celšanu pret viņu;
 2) tiek pieņemts lēmums attiecībā uz tiesībām, kuras sabiedrība var izmantot pret viņu;
 3) tiek pieņemts lēmums par viņa atbrīvošanu no saistībām vai atbildības pret sabiedrību;
-4) tiek apstiprināts darījums starp viņu un sabiedrību.
+4) (izslēgts ar 14.02.2002. likumu).
 (3) Akcionāru balsstiesības ir ierobežojamas arī citos likumā noteiktajos gadījumos.

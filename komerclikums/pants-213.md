@@ -4,7 +4,7 @@
 1) padome (ja tāda ir izveidota);
 2) komercreģistra iestāde.
 (3) Valdei ir pienākums sasaukt dalībnieku sapulci statūtos paredzētajos gadījumos, kā arī tad, ja:
-1) sabiedrības pašu kapitāls ir mazāks par trim ceturtdaļām no sabiedrības pamatkapitāla;
+1) sabiedrības zaudējumi pārsniedz pusi no sabiedrības pamatkapitāla;
 2) to pieprasa padome;
 3) to pieprasa dalībnieki, kas pārstāv ne mazāk kā vienu desmitdaļu no sabiedrības pamatkapitāla.
 (4) Ja valde nesasauc dalībnieku sapulci mēneša laikā no padomes vai dalībnieku pieprasījuma saņemšanas dienas, sapulci sasauc attiecīgi padome vai dalībnieki. Ja dalībnieki nav vienojušies par dalībnieku sapulces sasaukšanas kārtību, pēc jebkura dalībnieka lūguma dalībnieku sapulci sasauc komercreģistra iestāde.

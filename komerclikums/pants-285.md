@@ -9,6 +9,6 @@
 7) darba kārtības jautājumu apspriešanas gaitu un saturu;
 8) pieņemtos lēmumus, atzīmējot par katru lēmumu nodoto "par" un "pret" balsu skaitu;
 9) padomes un valdes locekļu, revidenta, likvidatora vai akcionāru iebildumus.
-(2) Protokolu paraksta akcionāru sapulces vadītājs un sekretārs, kā arī divi sapulces ievēlētie akcionāri - protokola pareizības apliecinātāji.
-(3) Protokolam pievieno akcionāru sarakstu, kas sastādīts saskaņā ar šā likuma 278.pantu, un dokumentus, kuri attiecas uz akcionāru sapulces sasaukšanu.
+(2) Protokolu paraksta akcionāru sapulces vadītājs un sekretārs, kā arī vismaz divi sapulces ievēlētie akcionāri - protokola pareizības apliecinātāji.
+(3) Protokolam pievieno akcionāru sarakstu, kas sastādīts saskaņā ar šā likuma 278.pantu, un dokumentus, kuri attiecas uz akcionāru sapulci.
 (4) Akcionāriem ir tiesības iepazīties ar protokolu un tam pievienotajiem dokumentiem un bez maksas saņemt to kopiju vai izrakstu.

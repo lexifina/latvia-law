@@ -5,4 +5,4 @@
 2) akcionāram piederošo akciju kategoriju, skaitu un nominālvērtību;
 3) no akcionāram piederošajām akcijām izrietošo balsu skaitu.
 (3) Pirms akcionāru sapulces atklāšanas valde sastāda to akcionāru sarakstu, kuri piedalās sapulcē, norādot šā panta otrajā daļā minētās ziņas.
-(4) Valdes pilnvarota persona paraksta akcionāru sarakstu un pirms pirmā balsojuma iepazīstina ar to akcionārus.
+(4) Valdes pilnvarota persona paraksta šā panta trešajā daļā minēto akcionāru sarakstu un pirms pirmā balsojuma iepazīstina ar to akcionārus.

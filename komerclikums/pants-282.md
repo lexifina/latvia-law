@@ -4,4 +4,4 @@
 (3) Pēc akcionāru sapulces vadītāja priekšlikuma sapulce ievēlē balsu skaitītājus.
 (4) Pēc akcionāru sapulces vadītāja priekšlikuma sapulce ievēlē sapulces sekretāru (protokolētāju).
 (5) Akcionāru sapulce ievēlē arī divus balsstiesīgus akcionārus, kuri apliecinās sapulces protokola pareizību.
-(6) Akcionāru sapulcē balsošana notiek atklāti, izņemot gadījumus, kad aizklātu balsošanu pieprasa balsstiesīgie akcionāri, kuri pārstāv vismaz vienu desmitdaļu no balsstiesīgā pamatkapitāla.
+(6) Akcionāru sapulcē balsošana notiek atklāti, izņemot gadījumus, kad aizklātu balsošanu pieprasa balsstiesīgie akcionāri, kuri pārstāv vismaz vienu desmitdaļu no pamatkapitāla.

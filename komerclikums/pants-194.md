@@ -1,2 +1,2 @@
 194.pants. Dalībnieka tiesības uz informāciju
-Dalībniekam ir tiesības saņemt no valdes informāciju par sabiedrības darbību un iepazīties ar visiem sabiedrības dokumentiem.
+Dalībniekam ir tiesības saņemt no valdes informāciju par sabiedrības darbību un iepazīties ar visiem sabiedrības dokumentiem. Šīs tiesības var ierobežot katrā konkrētajā gadījumā ar dalībnieku sapulces lēmumu, ja ir pamatotas aizdomas, ka dalībnieks iegūtās ziņas varētu izmantot pretēji sabiedrības mērķim, nodarot sabiedrībai vai ar to vienā koncernā ietilpstošajam subjektam, vai trešajām personām būtisku kaitējumu vai zaudējumus.

@@ -6,7 +6,7 @@
 4) likumā noteiktajos gadījumos - reorganizācijas atļauju;
 5) prospektu (ja likumā noteikta prospekta sagatavošana);
 6) revidenta atzinumu (ja likumā noteikta revidenta pārbaude);
-7) pievienojamās vai sašķelšanas ceļā sadalāmās sabiedrības slēguma bilanci (ja iesniegumu iesniedz pievienojamā vai sadalāmā sabiedrība);
+7) pievienojamās vai sašķelšanas ceļā sadalāmās sabiedrības slēguma finansu pārskatu (ja iesniegumu iesniedz pievienojamā vai sadalāmā sabiedrība);
 8) iegūstošās kapitālsabiedrības statūtus (ja reorganizācijas rezultātā tiek izveidota jauna sabiedrība vai ja sabiedrība tiek pārveidota);
 9) iegūstošās kapitālsabiedrības valdes locekļu vai personālsabiedrības to dalībnieku sarakstu, kuriem ir tiesības pārstāvēt sabiedrību, un notariāli apliecinātus viņu parakstu paraugus (ja reorganizācijas rezultātā tiek izveidota jauna sabiedrība vai ja sabiedrība tiek pārveidota);
 10) iegūstošās kapitālsabiedrības padomes locekļu sarakstu (ja reorganizācijas rezultātā tiek izveidota jauna sabiedrība vai ja sabiedrība tiek pārveidota un ja iegūstošajai sabiedrībai paredzēta padome).

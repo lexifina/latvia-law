@@ -1,2 +1,2 @@
-326.pants. Likvidācijas sākuma bilance
-Pēc kreditoru prasījumu pieteikšanas termiņa beigām likvidators sastāda sabiedrības likvidācijas sākuma bilanci.
+326.pants. Likvidācijas sākuma finansu pārskats
+Pēc kreditoru prasījumu pieteikšanas termiņa beigām likvidators sastāda sabiedrības likvidācijas sākuma finansu pārskatu.

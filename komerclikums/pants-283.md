@@ -6,5 +6,6 @@
 (3) Arī tad, ja pastāv šā panta otrajā daļā minētie apstākļi, valde nedrīkst atteikties sniegt ziņas par:
 1) sabiedrības peļņu un zaudējumiem;
 2) sabiedrības maksātspēju;
-3) sabiedrības turpmākās attīstības stratēģiju un perspektīvām.
-(4) Strīdus par valdes atteikumu izpaust ziņas izšķir akcionāru sapulce.
+3) sabiedrības attīstības perspektīvām;
+4) noslēgtajiem darījumiem starp sabiedrību un akcionāru, padomes locekli vai valdes locekli.
+(4) Strīdus par valdes atteikumu izpaust ziņas izšķir tiesa.

@@ -12,6 +12,6 @@
 6) statūtu noteikumus par akcionāru pārstāvju piedalīšanos sapulcē (ja statūti šādus nosacījumus paredz);
 7) darba kārtību;
 8) vietu un laiku, kur un kad akcionāri var iepazīties ar lēmumu projektiem sapulces darba kārtībā iekļautajos jautājumos, kā arī ar citiem sapulcē izskatāmajiem jautājumiem.
-(4) Paziņojumā, kuru nosūta akcionāriem, norāda šā panta trešās daļas 1. - 7.punktā minētās ziņas un tam pievieno lēmumu projektus sapulces darba kārtībā iekļautajos jautājumos.
-(5) Akcionāriem ir tiesības saņemt lēmumu projektus bez maksas.
+(4) Paziņojumā, kuru nosūta akcionāriem, norāda šā panta trešās daļas 1. - 7.punktā minētās ziņas un tam pievieno lēmumu projektus par grozījumiem sabiedrības statūtos (šā panta sestā daļa);
+(5) Akcionāriem ir tiesības saņemt lēmumu projektus bez maksas vismaz 14 dienas pirms sapulces.
 (6) Ja akcionāru sapulcē paredzēts grozīt sabiedrības statūtus, sapulces lēmuma projektā norāda, kurus statūtu punktus ierosināts atzīt par spēku zaudējušiem vai grozīt, un šo punktu jauno redakciju.

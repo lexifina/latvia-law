@@ -1,2 +1,2 @@
-246.pants. Konvertējamo obligāciju pirmpirkuma tiesības
-Konvertējamo obligāciju emisijas gadījumā sabiedrības akcionāriem ir pirmpirkuma tiesības iegādāties šīs obligācijas.
+246.pants. Konvertējamo obligāciju pirmtiesības
+Konvertējamo obligāciju emisijas gadījumā sabiedrības akcionāriem ir pirmtiesības iegādāties šīs obligācijas.

@@ -2,9 +2,9 @@
 (1) Tikai akcionāru sapulcei ir tiesības pieņemt lēmumus par:
 1) sabiedrības gada pārskatu;
 2) aizvadītā darbības gada peļņas izlietošanu;
-3) padomes locekļu, revidentu un likvidatoru ievēlēšanu un atsaukšanu vai atcelšanu;
+3) padomes locekļu, revidentu, sabiedrības kontrolieru un likvidatoru ievēlēšanu un atsaukšanu;
 4) prasības celšanu pret valdes un padomes locekļiem un revidentu vai par atteikšanos no prasības pret viņiem, kā arī par sabiedrības pārstāvja iecelšanu prasības uzturēšanai pret padomes locekļiem;
-5) tāda darījuma apstiprināšanu, ko sabiedrība slēdz ar padomes locekli;
+5) (izslēgts ar 14.02.2002. likumu);
 6) sabiedrības statūtu grozīšanu;
 7) pamatkapitāla palielināšanu vai samazināšanu;
 8) sabiedrības vērtspapīru emisiju un konversiju;

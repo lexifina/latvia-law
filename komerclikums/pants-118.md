@@ -1,3 +1,3 @@
-118.pants. Komanditsabiedrības jēdziens
-(1) Komanditsabiedrība ir personālsabiedrība (turpmāk šīs sadaļas ietvaros - sabiedrība), kuras mērķis ir komercdarbības veikšana, izmantojot kopēju firmu, un kurā uz sabiedrības līguma pamata apvienojušās divas vai vairākas personas (biedri), ja vismaz viena sabiedrības biedra (komandita) atbildība attiecībā uz sabiedrības kreditoriem ir ierobežota ar viņa ieguldījuma apmēru, bet pārējo personiski atbildīgo sabiedrības biedru (komplementāru) atbildība nav ierobežota.
-(2) Komanditsabiedrībai piemērojami šā likuma noteikumi par pilnsabiedrību, ja šajā sadaļā nav noteikts citādi.
+118.pants. Komandītsabiedrības jēdziens
+(1) Komandītsabiedrība ir personālsabiedrība (turpmāk šīs sadaļas ietvaros - sabiedrība), kuras mērķis ir komercdarbības veikšana, izmantojot kopēju firmu, un kurā uz sabiedrības līguma pamata apvienojušās divas vai vairākas personas (biedri), ja vismaz viena sabiedrības biedra (komandīta) atbildība attiecībā uz sabiedrības kreditoriem ir ierobežota ar viņa ieguldījuma apmēru, bet pārējo personiski atbildīgo sabiedrības biedru (komplementāru) atbildība nav ierobežota.
+(2) Komandītsabiedrībai piemērojami šā likuma noteikumi par pilnsabiedrību, ja šajā sadaļā nav noteikts citādi.

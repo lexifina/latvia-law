@@ -4,7 +4,7 @@
 2) komercdarbības veidus;
 3) sabiedrības darbības termiņu vai mērķi (ja sabiedrība tiek dibināta uz noteiktu laiku vai noteikta mērķa sasniegšanai);
 4) pamatkapitāla lielumu, daļu skaitu un nominālvērtību;
-5) obligātās rezerves lielumu, tās veidošanas un izlietošanas kārtību;
+5) (izslēgts ar 14.02.2002. likumu);
 6) sabiedrības valdes skaitlisko sastāvu, nosakot valdes locekļu tiesības pārstāvēt sabiedrību atsevišķi vai kopīgi;
 7) sabiedrības padomes skaitlisko sastāvu (ja sabiedrībai paredzēta padome);
 8) īpašus daļu atsavināšanas noteikumus (ja tādi paredzēti);
@@ -13,4 +13,4 @@
 1) ja sabiedrībai ir dažādas akciju kategorijas, - akciju kategorijas (norādot tiesības, kuras izriet no katras akciju kategorijas) un katras kategorijas akciju skaitu un nominālvērtību;
 2) vai akcijas ir vārda vai uzrādītāja akcijas un, ja statūti paredz vārda akciju konversiju par uzrādītāja akcijām un otrādi, - konversijas noteikumus;
 3) vai akcijas ir papīra formā vai dematerializētas un, ja statūti paredz papīra formas akciju konversiju par dematerializētām akcijām un otrādi, - konversijas noteikumus.
-(3) Statūtus paraksta visi dibinātāji, norādot parakstīšanas datumu.
+(3) Dibinot sabiedrību, statūtus paraksta visi dibinātāji, norādot parakstīšanas datumu. Dibinātāju paraksti publiski apliecināmi pie notāra vai pagasttiesā.

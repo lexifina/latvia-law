@@ -7,9 +7,9 @@
 (2) Par personālsabiedrību komercreģistrā ierakstāmas šādas ziņas:
 1) firma;
 2) personālsabiedrības veids;
-3) katra komandita ieguldījuma summa un komanditu ieguldījumu kopsumma;
-4) personālsabiedrības personiski atbildīgo biedru un komanditu vārds, uzvārds, personas kods un dzīvesvieta, bet juridiskajai personai - nosaukums, reģistrācijas numurs un juridiskā adrese;
-5) to personālsabiedrības biedru vārds, uzvārds, personas kods un dzīvesvieta, bet juridiskajai personai - nosaukums, reģistrācijas numurs un juridiskā adrese, kuri īpaši pilnvaroti pārstāvēt personālsabiedrību, norādot, vai viņiem ir tiesības pārstāvēt personālsabiedrību atsevišķi vai kopīgi;
+3) katra komandīta ieguldījuma summa un komandītu ieguldījumu kopsumma;
+4) personālsabiedrības personiski atbildīgo biedru un komandītu vārds, uzvārds, personas kods un dzīvesvieta, bet juridiskajai personai - nosaukums, reģistrācijas numurs un juridiskā adrese;
+5) to personālsabiedrības biedru vārds, uzvārds, personas kods un dzīvesvieta, bet juridiskajai personai - nosaukums, reģistrācijas numurs un juridiskā adrese, kuri ir īpaši pilnvaroti pārstāvēt personālsabiedrību, norādot, vai viņiem ir tiesības pārstāvēt personālsabiedrību atsevišķi, kopīgi vai kopīgi ar prokūristu, vai kuri ir izslēgti no pārstāvības;
 6) juridiskā adrese;
 7) ja personālsabiedrība nodibināta uz noteiktu laiku, - laiks, uz kādu tā nodibināta;
 8) filiāles firma, ja tā atšķiras no personālsabiedrības firmas, un tās juridiskā adrese.
@@ -17,9 +17,9 @@
 1) firma;
 2) kapitālsabiedrības veids;
 3) kapitālsabiedrības valdes locekļu, padomes locekļu (ja kapitālsabiedrībai ir izveidota padome) un revidenta vārds, uzvārds, personas kods, dzīvesvieta un ieņemamais amats;
-4) viena vai vairāku valdes locekļu tiesības pārstāvēt sabiedrību atsevišķi vai kopīgi;
+4) to kapitālsabiedrības valdes locekļu vārds, uzvārds, personas kods un dzīvesvieta, kuri saskaņā ar statūtiem ir īpaši pilnvaroti pārstāvēt kapitālsabiedrību, norādot, vai viņiem ir tiesības pārstāvēt kapitālsabiedrību atsevišķi, kopīgi vai kopīgi ar prokūristu;
 5) pamatkapitāla lielums, atsevišķi norādot parakstītā un apmaksātā pamatkapitāla lielumu;
-6) obligātās rezerves lielums;
+6) (izslēgts ar 14.02.2002. likumu);
 7) juridiskā adrese;
 8) ja kapitālsabiedrība nodibināta uz noteiktu laiku, - laiks, uz kādu tā nodibināta;
 9) filiāles firma, ja tā atšķiras no kapitālsabiedrības firmas, un tās juridiskā adrese.
@@ -30,7 +30,7 @@
 4) ārvalsts komersanta veids;
 5) ārvalsts komersanta pamatkapitāla lielums, atsevišķi norādot parakstītā un apmaksātā pamatkapitāla lielumu, ja ārvalsts komersants ir kapitālsabiedrība un šīs ziņas ir ierakstītas tās valsts reģistrā, kurā ierakstīts ārvalsts komersants.
 (5) Papildus šā panta pirmajā, otrajā, trešajā un ceturtajā daļā minētajām ziņām komercreģistrā ierakstāmas šādas ziņas:
-1) prokūrista vārds, uzvārds un personas kods, kā arī norāde uz kopprokūru vai filiāles prokūru, ja tāda izdota;
+1) prokūrista vārds, uzvārds un personas kods, kā arī norāde uz kopprokūru vai filiāles prokūru, ja tāda izdota, un norāde uz šā likuma 34.panta otrajā daļā minēto tiesību piešķiršanu, ja tādas piešķirtas;
 2) to personu vārds, uzvārds, personas kods, dzīvesvieta un pilnvarojuma apjoms, kuras pilnvarotas pārstāvēt komersantu (ārvalsts komersantu) darbībās, kas saistītas ar filiāli;
 3) ziņas par komersanta (ārvalsts komersanta) darbības izbeigšanu, maksātnespēju, likvidāciju un reorganizāciju;
 4) ziņas par administratora vai likvidatora iecelšanu, norādot administratora (likvidatora) vārdu, uzvārdu, personas kodu un dzīvesvietu;
