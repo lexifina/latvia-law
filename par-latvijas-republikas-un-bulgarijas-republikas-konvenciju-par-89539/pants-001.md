@@ -1,0 +1,1 @@
+1.pants. 2003.gada 4.decembrī parakstītā Latvijas Republikas un Bulgārijas Republikas konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma nodokļiem (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
