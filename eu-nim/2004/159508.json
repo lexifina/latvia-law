@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "MK 08.04.2004. noteikumi Nr.274 „Noteikumi par zirgu pārraudzību, zirgu darba spēju novērtēšanu un dalību zirgu sporta sacensībās” ar pēdējiem grozījumiem 04.08.2008.",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "64",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-23",
+  "entry_into_force": "2004-04-24",
+  "notification_date": "2008-12-05",
+  "commission_reference": "MNE(2008)56517",
+  "nim_celex": "72008L0073LVA_159508",
+  "nim_id": "159508",
+  "transposes_celex": [
+    "32008L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/820fe462-32b9-4a1b-a9c8-8808c3321acd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
