@@ -1,0 +1,3 @@
+12. pants. Zveja īpašos nolūkos un zinātniskās izpētes nolūkos
+(1) Zveju īpašos nolūkos (zivkopība, aklimatizācija, kontrolzveja, melioratīvā un cita veida zveja) un zinātniskās izpētes nolūkos veic, pamatojoties uz zinātniskām programmām vai citiem materiāliem, kas nosaka šādas zvejas nepieciešamību, pēc zvejas atļaujas (licences) saņemšanas Vides valsts inspekcijā.
+(2) Šāda zveja publiskajos ūdeņos un ūdeņos, kuros zvejas tiesības pieder valstij, veicama, pamatojoties uz darbu grafiku, kas saskaņots ar attiecīgo ūdeņu zivju resursu pārzinātāju, bet privātajos ūdeņos - pamatojoties uz darbu grafiku, kas saskaņots ar ūdeņu īpašnieku.

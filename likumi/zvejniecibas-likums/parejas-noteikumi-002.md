@@ -1,0 +1,1 @@
+2. Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta noteikumi nr.156 "Par zvejniecību" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 17.nr.).
