@@ -1,0 +1,1 @@
+1.pants. 2002.gada 17.aprīlī Ļubļanā parakstītā Latvijas Republikas valdības un Slovēnijas Republikas valdības konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem (turpmāk - Konvencija) un tās 2002.gada 17.aprīlī Ļubļanā parakstītais protokols (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.
