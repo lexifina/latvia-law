@@ -1,1 +1,1 @@
-5.pants. Zemkopības ministrijas rajonu lauksaimniecības departamenti ir tiesīgi saņemt no uzņēmumiem informāciju par piegādāto un termiņā nesamaksāto produkciju un iesniegt tiesā prasību produkcijas ražotāju (piegādātāju) interešu aizstāvībai.
+5.pants. Zemkopības ministrijas Lauku atbalsta dienests ir tiesīgs saņemt no uzņēmumiem informāciju par piegādāto un termiņā nesamaksāto produkciju un iesniegt tiesā prasību produkcijas ražotāju (piegādātāju) interešu aizstāvībai.
