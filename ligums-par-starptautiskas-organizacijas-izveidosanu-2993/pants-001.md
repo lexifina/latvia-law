@@ -1,0 +1,1 @@
+1.pants. 2000.gada 23.maijā Kopenhāgenā parakstītais Līgums par starptautiskas organizācijas izveidošanu zivsaimniecības attīstībai Austrumu un Centrālajā Eiropā (EUROFISH) (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
