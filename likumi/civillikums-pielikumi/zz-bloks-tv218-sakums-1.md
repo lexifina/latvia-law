@@ -1,1 +1,1 @@
-I PIELIKUMS (pie 1102. panta)
+I PIELIKUMS (1102.pantam)
