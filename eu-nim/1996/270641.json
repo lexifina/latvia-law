@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Par narkotisko un psihotropo vielu un zāļu likumīgās aprites kārtību",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "89 (574)",
+  "official_journal_page": null,
+  "official_journal_date": "1996-05-23",
+  "entry_into_force": "1996-06-06",
+  "notification_date": "2019-03-14",
+  "commission_reference": "MNE(2019)51570",
+  "nim_celex": "72017L2103LVA_270641",
+  "nim_id": "270641",
+  "transposes_celex": [
+    "32017L2103"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2f3f21be-5807-48f7-9b45-d588bd2c20f2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
