@@ -1,0 +1,1 @@
+1.pants. 2002.gada 17.jūlijā Bratislavā parakstītais Latvijas Republikas un Slovākijas Republikas brīvās tirdzniecības līguma Apvienotās komitejas lēmums nr. 1/2002 (turpmāk - Lēmums) ar šo likumu tiek pieņemts un apstiprināts.
