@@ -1,0 +1,1 @@
+1.pants. 1969.gada Starptautiskā konvencija par iejaukšanās tiesībām atklātā jūrā naftas piesārņojuma gadījumā (turpmāk - Konvencija) un tās Pielikums un 1973.gada Protokols par iejaukšanās tiesībām atklātā jūrā citu vielu, kas nav nafta, izraisīta piesārņojuma gadījumā (turpmāk - Protokols) un tā Pielikums ar šo likumu tiek pieņemti un apstiprināti.
