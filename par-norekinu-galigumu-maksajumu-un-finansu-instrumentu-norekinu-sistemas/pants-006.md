@@ -1,0 +1,2 @@
+6.pants. (1) Latvijas Republika vai Eiropas Savienības vai Eiropas Ekonomikas zonas dalībvalsts par dalībnieku šā likuma 1.panta 6.punkta izpratnē var noteikt arī netiešo dalībnieku, ja minētais netiešais dalībnieks sistēmā ir identificēts un atpazīstams un ja šādu lēmumu pamato sistēmiskais risks.
+(2) Latvijas Republikā lēmumu par šā panta pirmajā daļā minētā netiešā dalībnieka noteikšanu par dalībnieku pieņem Komisija.

@@ -1,0 +1,2 @@
+VI nodaļa
+Sistēmas noteikumi

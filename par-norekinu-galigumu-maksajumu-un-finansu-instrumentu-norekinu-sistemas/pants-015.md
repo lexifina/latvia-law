@@ -1,0 +1,1 @@
+15.pants. Pēc maksātnespējas procedūras sākšanas pret dalībnieku tā tiesības un saistības, kas radušās, piedaloties sistēmā, tiek noteiktas atbilstoši tās valsts likumiem, saskaņā ar kuriem darbojas attiecīgā sistēma.

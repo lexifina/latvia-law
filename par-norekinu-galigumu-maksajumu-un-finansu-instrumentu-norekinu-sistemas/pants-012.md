@@ -1,0 +1,1 @@
+12.pants. Maksātnespējas procedūra neietekmē dalībnieka tiesības un saistības, kuras izriet no dalības sistēmā vai ir saistītas ar to un ir radušās pirms maksātnespējas procedūras sākšanas. Šādas dalībnieka tiesības un saistības nevar atzīt par spēkā neesošām.
