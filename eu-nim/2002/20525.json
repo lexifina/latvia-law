@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru Kabineta 19.02.2002. noteikumi Nr.68",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "32",
+  "official_journal_page": null,
+  "official_journal_date": "2002-02-27",
+  "entry_into_force": null,
+  "notification_date": "2004-03-16",
+  "commission_reference": "MNE(2003)50525",
+  "nim_celex": "71977L0453LVA_20525",
+  "nim_id": "20525",
+  "transposes_celex": [
+    "31977L0453",
+    "31978L0687",
+    "31980L0155",
+    "31985L0432",
+    "31989L0595"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/98f03885-02bd-4750-b30d-2044322a8592",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
