@@ -1,0 +1,1 @@
+1.pants. 2000.gada 19.decembrī Budapeštā parakstītais Latvijas Republikas un Ungārijas Republikas papildprotokols "Par grozījumiem Latvijas Republikas un Ungārijas Republikas brīvās tirdzniecības līguma 3.protokolā par preču izcelsmi" (turpmāk - Papildprotokols) ar šo likumu tiek pieņemts un apstiprināts.
