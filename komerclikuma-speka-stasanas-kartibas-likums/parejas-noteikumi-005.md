@@ -1,0 +1,1 @@
+5. Ministru kabinets līdz 2004.gada 31.maijam sagatavo un iesniedz Saeimai nepieciešamos grozījumus likumā "Par uzņēmumu ienākuma nodokli" un likumā "Par iedzīvotāju ienākuma nodokli", kuros noteikta šā likuma 25.⁴ panta pirmajā daļā paredzētā nodokļa maksāšanas kārtība.

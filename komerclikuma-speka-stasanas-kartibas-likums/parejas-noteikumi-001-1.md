@@ -1,0 +1,1 @@
+1.¹ 2005.gada 1.septembrī spēku zaudē likums "Par bezpeļņas organizāciju" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 6./7.nr.; 1993, 20./21.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 1.nr.; 1997, 15.nr.; 2003, 23.nr.).

@@ -4,3 +4,4 @@
 1) izbeidzies lēmumā norādītais termiņš, ja šajā termiņā nav iesniegti precizētie dokumenti;
 2) pieņemts lēmums par atteikumu, ja iesniegtie dokumenti atkārtoti neatbilst likuma noteikumiem.
 (3) Šā panta otrajā daļā minētajos gadījumos atkārtots lēmums par ieraksta izdarīšanas atlikšanu nav atļauts.
+(4) Šā panta pirmās, otrās un trešās daļas noteikumi attiecināmi arī uz pieteikumu par valsts vai pašvaldības bezpeļņas uzņēmuma (statūtsabiedrības) ierakstīšanu biedrību un nodibinājumu reģistrā, kas iesniegts šā likuma 12.pantā noteiktajā termiņā, un uz pieteikumu par bezpeļņas uzņēmuma (uzņēmējsabiedrības) ierakstīšanu biedrību un nodibinājumu reģistrā, kas iesniegts šā likuma 25.pantā noteiktajā termiņā, ja attiecīgais termiņš ir beidzies, bet pieteikums vēl nav izskatīts.

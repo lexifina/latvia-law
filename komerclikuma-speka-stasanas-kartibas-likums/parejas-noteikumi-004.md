@@ -1,1 +1,1 @@
-4. Ministru kabinets līdz 2002.gada 31.decembrim izstrādā un iesniedz Saeimai likumprojektus par biedrībām un nodibinājumiem, aroddarbību, maksātnespēju, valsts un pašvaldību kapitāla daļu pārvaldi kapitālsabiedrībās, kā arī izstrādā un iesniedz projektus par nepieciešamajiem grozījumiem citos likumos.
+4. Ministru kabinets līdz 2004.gada 31.decembrim izstrādā un iesniedz Saeimai likumprojektu par aroddarbību un līdz 2004.gada 1.septembrim izstrādā un iesniedz projektus par nepieciešamajiem grozījumiem citos likumos.

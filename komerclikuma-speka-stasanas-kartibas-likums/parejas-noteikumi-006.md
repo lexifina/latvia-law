@@ -1,0 +1,1 @@
+6. Līdz attiecīgu normatīvo aktu pieņemšanai valsts bezpeļņas sabiedrība ar ierobežotu atbildību "Latvijas Radio" un valsts bezpeļņas sabiedrība ar ierobežotu atbildību "Latvijas Televīzija" darbojas atbilstoši tiem likumiem, saskaņā ar kuriem tās darbojas līdz 2004.gada 31.decembrim.
