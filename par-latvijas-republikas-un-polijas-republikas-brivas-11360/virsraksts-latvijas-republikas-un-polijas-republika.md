@@ -1,0 +1,1 @@
+Latvijas Republikas un Polijas Republikas brīvas tirdzniecības līguma Apvienotās komitejas lēmums Nr. 1/1999 par izmaiņām Latvijas Republikas un Polijas Republikas brīvās tirdzniecības līguma 3.protokolā

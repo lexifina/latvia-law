@@ -1,0 +1,1 @@
+1.pants. 1999.gada 1.jūlijā Rīgā parakstītais Latvijas Republikas un Polijas Republikas brīvās tirdzniecības līguma Apvienotās komitejas lēmums nr. 1/1999 "Par izmaiņām Latvijas Republikas un Polijas Republikas brīvās tirdzniecības līguma 3.protokolā" (turpmāk - Lēmums) ar šo likumu tiek pieņemts un apstiprināts.
