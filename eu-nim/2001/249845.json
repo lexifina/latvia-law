@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2001. gada 30. maija rīkojums Nr. 279 “Par Latvijas Republikas valdības un Ukrainas Ministru kabineta līgumu par kodolnegadījumu operatīvu izziņošanu, par informācijas apmaiņu un sadarbību kodoldrošības un aizsardzības pret radiāciju jomā”",
+  "type_of_act": "Ministru kabineta rīkojums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "85(2472)",
+  "official_journal_page": null,
+  "official_journal_date": "2001-06-01",
+  "entry_into_force": "2001-05-30",
+  "notification_date": "2017-08-03",
+  "commission_reference": "MNE(2017)54397",
+  "nim_celex": "72014L0087LVA_249845",
+  "nim_id": "249845",
+  "transposes_celex": [
+    "32014L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a91e9540-d264-4ec8-a552-6cd38c550143",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
