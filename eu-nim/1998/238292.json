@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums \"Par valsts sociālo apdrošināšanu\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "274/276",
+  "official_journal_page": null,
+  "official_journal_date": "1997-10-21",
+  "entry_into_force": "1998-01-01",
+  "notification_date": "2016-06-08",
+  "commission_reference": "MNE(2016)53885",
+  "nim_celex": "72014L0066LVA_238292",
+  "nim_id": "238292",
+  "transposes_celex": [
+    "32014L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4c6d2675-890a-40e4-951b-c4d88bed9f3a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
