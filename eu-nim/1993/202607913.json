@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums \"Par īpaši aizsargājamām dabas teritorijām\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "5",
+  "official_journal_page": null,
+  "official_journal_date": "1993-03-25",
+  "entry_into_force": "1993-04-07",
+  "notification_date": "2026-10-16",
+  "commission_reference": "MNE(2026)07913",
+  "nim_celex": "72024L1203LVA_202607913",
+  "nim_id": "202607913",
+  "transposes_celex": [
+    "32024L1203"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f3d8e671-4c22-4c5e-bf21-c99a40f3bec8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
