@@ -1,0 +1,1 @@
+1.pants. 2001.gada 6.novembrī Erevānā parakstītais Latvijas Republikas valdības un Armēnijas Republikas valdības nolīgums par starptautiskajiem pārvadājumiem ar autotransportu (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
