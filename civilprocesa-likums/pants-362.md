@@ -1,10 +1,12 @@
 362.pants. Lēmums par administratora atkāpšanos vai viņa atcelšanu
 (1) Tiesa pieņem administratora atkāpšanos, ja administrators iesniedz motivētu iesniegumu, kuram pievienots viņa darbības pārskats.
-(2) Tiesa izskata kreditoru sapulces vai kreditoru komitejas lēmumu par neuzticības izteikšanu administratoram un atceļ administratoru, ja konstatē, ka viņš:
-1) nevar pildīt pienākumus likumā noteikto ierobežojumu dēļ;
-2) nav kompetents;
-3) ļaunprātīgi izmanto savas pilnvaras.
-(3) Tiesa var izskatīt jautājumu par administratora atcelšanu pēc savas iniciatīvas, ja:
-1) administrators nesasauc kreditoru sapulci, kuras darba kārtībā paredzēts jautājums par neuzticības izteikšanu viņam vai par kuras sasaukšanu ir lēmusi tiesa;
-2) tiesas rīcībā ir pierādījumi, ka administrators, pildot savus pienākumus, pārkāpj likumu.
-(4) Pieņemot administratora atkāpšanos vai viņu atceļot, tiesa šajā likumā noteiktajā kārtībā uzaicina pieteikties administratora amata kandidātus, ja kreditoru sapulce nav ieteikusi savu administratora amata kandidātu.
+(2) Tiesa lemj par administratora atcelšanu, pamatojoties uz kreditoru sapulces lēmumu vai pēc aģentūras pieteikuma, ja:
+1) administrators neatbilst likuma nosacījumiem vai uz viņu attiecināmi likumā noteiktie ierobežojumi;
+2) administrators nav kompetents savu pienākumu veikšanā;
+3) kreditoru sapulce ir izteikusi administratoram neuzticību;
+4) administrators pārkāpj likumu;
+5) administrators ļaunprātīgi izmanto savas pilnvaras;
+6) ar aģentūras lēmumu administratoram anulēts sertifikāts vai apturēta sertifikāta darbība.
+(3) Tiesa lemj par administratora atcelšanu pēc savas iniciatīvas, ja administrators:
+1) pārkāpj likumu;
+2) nepilda tiesas nolēmumus.

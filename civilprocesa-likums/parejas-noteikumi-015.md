@@ -1,0 +1,1 @@
+15. Pieteikumu par mutiska testamenta konstatēšanu, kas nepieciešams iesniegšanai notāram mantojuma lietā, tiesa izskata šā likuma 309.pantā noteiktajā kārtībā, pieaicinot kā ieinteresētās personas mantiniekus.

@@ -1,4 +1,4 @@
-14.pants. Civillietas iztiesāšanas nepārtrauktība
-(1) Tiesas sēde katrā lietā, kuru izskata pēc būtības, noris nepārtraukti, izņemot atpūtai paredzēto laiku, un nemainīgā tiesnešu sastāvā.
-(2) Ja lietas iztiesāšanas gaitā kādu no tiesnešiem aizstāj cits tiesnesis, lietas iztiesāšana jāsāk no jauna.
-(3) Neviens no tiesas sastāva tiesnešiem nav tiesīgs izskatīt citu lietu, iekams iesāktās lietas iztiesāšana nav pabeigta vai atlikta vai tiesvedība apturēta.
+14.pants. Tiesas sastāva nemainīgums
+(1) Lietas izskatīšana pēc būtības noris nemainīgā tiesas sastāvā.
+(2) Tiesneša aizstāšana lietas iztiesāšanas gaitā pieļaujama tikai tad, ja viņš sakarā ar pāriešanu citā darbā, slimības vai citu objektīvu iemeslu dēļ nevar pabeigt lietas izskatīšanu.
+(3) Ja lietas iztiesāšanas gaitā kādu no tiesnešiem aizstāj cits tiesnesis, lietas iztiesāšana jāsāk no jauna.

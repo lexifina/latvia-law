@@ -1,5 +1,11 @@
-555.pants. Priekšlikums labprātīgi izpildīt spriedumu
-(1) Tiesu izpildītājs, stājoties pie izpildes, nosūta parādniekam priekšlikumu izpildīt spriedumu labprātīgi 10 dienu laikā.
-(2) Priekšlikumu nogādā un izsniedz parādniekam saskaņā ar šā likuma 6.nodaļas noteikumiem. Vienlaikus ar priekšlikuma izsniegšanu par labprātīgu izpildi tiesu izpildītājs var:
-1) pieprasīt, lai parādnieks deklarē savu mantisko stāvokli un pārmaiņas tajā pēdējā gada laikā;
-2) apķīlāt parādnieka mantu.
+555.pants. Priekšlikums izpildīt nolēmumu labprātīgi
+(1) Tiesu izpildītājs, stājoties pie izpildes, paziņo parādniekam, nosūtot vai izsniedzot priekšlikumu, par pienākumu izpildīt nolēmumu labprātīgi 10 dienu laikā. Ja nolēmums izpildāms nekavējoties, termiņš labprātīgai izpildei nosakāms ne īsāks par trim dienām. Lietās par darba samaksas piedziņu, atjaunošanu darbā (amatā), atlīdzību par sakropļojumu vai citu veselības bojājumu, kā arī uzturlīdzekļu piedziņu sakarā ar tādas personas nāvi, kuras pienākums bijis kādu uzturēt, priekšlikums labprātīgi izpildīt spriedumu netiek sūtīts.
+(2) Ja parādnieks ir fiziskā persona, tiesu izpildītājs nosūta parādniekam priekšlikumu ierakstītā sūtījumā uz viņa pēdējo zināmo dzīvesvietu vai izsniedz parādniekam personiski pret parakstu. Ja tiesu izpildītājs nesastop parādnieku tā dzīvesvietā, viņš izsniedz priekšlikumu kādam no kopā ar parādnieku dzīvojošiem pieaugušajiem ģimenes locekļiem.
+(3) Ja parādnieka - fiziskās personas - dzīvesvieta nav zināma, priekšlikums izpildīt nolēmumu labprātīgi tiek publicēts laikrakstā "Latvijas Vēstnesis".
+(4) Ja parādnieks ir juridiskā persona, tiesu izpildītājs nosūta priekšlikumu ierakstītā sūtījumā uz parādnieka atrašanās vietu vai juridisko adresi, ja parādnieka atrašanās vieta nav zināma, vai izsniedz personiski pret parakstu parādnieka izpildinstitūcijas pārstāvim.
+(5) Ja parādnieks vai parādnieka izpildinstitūcijas pārstāvis atsakās priekšlikumu pieņemt vai parakstīt, tiesu izpildītājs vai priekšlikuma piegādātājs divu pieaicinātu personu klātbūtnē sastāda par to aktu. Atteikšanās pieņemt vai parakstīt priekšlikumu nav šķērslis nolēmuma piespiedu izpildei.
+(6) Ja priekšlikums piegādāts šajā pantā noteiktajā kārtībā, uzskatāms, ka parādniekam ir paziņots par nolēmuma labprātīgas izpildes termiņu.
+(7) Vienlaikus ar priekšlikuma izsniegšanu par labprātīgu izpildi tiesu izpildītājs var:
+1) pieprasīt, lai parādnieks deklarē savu mantisko stāvokli un pārmaiņas tajā pēdējā gada laikā, brīdinot parādnieku par kriminālatbildību;
+2) apķīlāt parādnieka mantu;
+3) paziņot par piedziņu zemesgrāmatu nodaļai piedziņas atzīmes ierakstīšanai zemesgrāmatā vai citam publiskam reģistram atsavināšanas aizlieguma ierakstīšanai.

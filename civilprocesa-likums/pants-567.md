@@ -1,5 +1,9 @@
-567.pants. Sprieduma izpildes izdevumu maksāšanas kārtība
-(1) Piedzinējs, iesniedzot izpildu rakstu izpildei, norāda sprieduma piespiedu izpildes līdzekli (557.pants) un samaksā tiesu izpildītājam sprieduma izpildes izdevumus tādā apmērā, kāds nepieciešams sprieduma izpildes uzsākšanai piedzinēja norādītajā veidā. No sprieduma izpildes izdevumu samaksas ir atbrīvotas personas, kas saskaņā ar šā likuma 43.panta noteikumiem ir atbrīvotas no tiesas izdevumu samaksas. Šajā gadījumā izdevumi sedzami no Tieslietu ministrijas budžetā paredzētajiem līdzekļiem.
-(2) Kārtību, kādā aprēķināmi tiesu izpildītāja ceļa izdevumi, ekspertam izmaksājamās summas un maksa par parādnieka mantas glabāšanu un pārvadāšanu, nosaka Ministru kabinets.
-(3) Atlīdzība par sprieduma izpildi maksājama gadījumos, kad sprieduma izpilde saistīta ar parādnieka mantas aprakstīšanu un pārdošanu. Atlīdzības apmērs nedrīkst pārsniegt piecus procentus no piedzenamās summas, bet, ja mantas pārdošanā saņemtā summa ir mazāka par piedzenamo summu, - no mantas pārdošanā saņemtās summas. Atlīdzības takses par sprieduma izpildi nosaka Ministru kabinets.
-(4) Atlīdzību par sprieduma izpildi ieskaita Tieslietu ministrijas speciālā budžeta kontā, un tās izlietošanas kārtību nosaka tieslietu ministrs.
+567.pants. Sprieduma izpildes izdevumu maksāšanas kārtība izpildes procesā
+(1) Piedzinējs, iesniedzot izpildu dokumentu izpildei, norāda piespiedu izpildes līdzekli, ievērojot šā likuma 570. un 572.panta noteikumus, samaksā valsts nodevu un sedz citus sprieduma izpildes izdevumus tādā apmērā, kāds nepieciešams izpildes uzsākšanai piedzinēja norādītajā veidā. Sprieduma izpildes laikā piedzinējs pēc tiesu izpildītāja norādījuma iemaksā papildus nepieciešamos sprieduma izpildes izdevumus. Likumā norādītajos gadījumos sprieduma izpildes laikā sprieduma izpildes izdevumus par atsevišķām procesuālajām darbībām maksā parādnieks.
+(2) No sprieduma izpildes izdevumu samaksas tiesu izpildītājam ir atbrīvoti piedzinēji:
+1) prasībās par darba samaksas piedziņu un citiem prasījumiem, kas izriet no darba vai dienesta tiesiskajām attiecībām vai ir ar tām saistīti;
+2) prasībās, kas izriet no personiskiem aizskārumiem, kuru dēļ radies sakropļojums vai cits veselības bojājums vai iestājusies personas nāve;
+3) prasībās par uzturlīdzekļu piedziņu;
+4) gadījumos, kad piedziņa izdarāma valsts ienākumos.
+(3) Gadījumos, kad piedzinējs ir atbrīvots no sprieduma izpildes izdevumu samaksas, ar tiesas sprieduma izpildi saistītie izdevumi tiek segti no valsts budžeta līdzekļiem.
+(4) Izpildu darbību veikšanai nepieciešamo izdevumu apmēru un to maksāšanas kārtību nosaka Ministru kabinets.

@@ -6,3 +6,4 @@
 4) ar šā nekustamā īpašuma ķīlu nodrošinātie prasījumi pēc to pirmtiesības;
 5) pārējie prasījumi šajā likumā noteiktajā secībā.
 (2) Apmierinot hipotekāros prasījumus pēc to pirmtiesības, vienlaikus apmierināmi arī to blakus prasījumi - procenti par pēdējiem trim gadiem līdz izsoles dienai, piespriestie tiesas izdevumi un ar lietas vešanu saistītie izdevumi.
+(3) Ja izsolē ir pārdots nekustamais īpašums, attiecībā uz kuru zemesgrāmatā ierakstīta ķīlas tiesības atzīme, nauda prasījuma apmērā atbilstoši prasījuma prioritātei ieskaitāma tiesu izpildītāja depozīta kontā un uzglabājama līdz nodrošinātās prasības izskatīšanai tiesā.

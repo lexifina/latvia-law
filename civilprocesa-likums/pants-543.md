@@ -4,7 +4,7 @@
 2) lietu, kurā izsniegts izpildu raksts;
 3) nolēmuma taisīšanas laiku;
 4) nolēmuma rezolutīvo daļu;
-5) laiku, kad nolēmums stājas likumīgā spēkā, vai norādi, ka spriedums izpildāms nekavējoties;
+5) laiku, kad nolēmums stājas likumīgā spēkā, vai norādi, ka nolēmums izpildāms nekavējoties;
 6) izpildu raksta izsniegšanas laiku;
 7) ziņas par piedzinēju un parādnieku: fiziskajām personām - vārdu, uzvārdu, personas kodu un dzīvesvietu, bet juridiskajām personām - nosaukumu, atrašanās vietu (juridisko adresi) un reģistrācijas numuru.
 (2) Izpildu rakstu paraksta tiesnesis, un to apstiprina ar tiesas zīmogu.

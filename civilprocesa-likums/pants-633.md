@@ -1,5 +1,5 @@
-633.pants. Citu personu tiesību aizsardzība, izpildot spriedumu
-(1) Ja tiesu izpildītājs, apķīlājot mantu, pieļauj likuma pārkāpumu, neatkarīgi no tā, vai manta pieder parādniekam vai citām personām, parādnieka un šo personu pieteikumu par mantas izslēgšanu no aprakstes akta izskata tiesa šā likuma 632.pantā noteiktajā kārtībā.
-(2) Citu personu pieteiktais civiltiesiskais strīds, kas saistīts ar tās mantas piederību, uz kuru vērsta piedziņa, tiek izskatīts tiesā saskaņā ar prasības tiesvedības noteikumiem (prasības par mantas izslēgšanu no aprakstes akta).
-(3) Prasības par mantas izslēgšanu no aprakstes akta tiek iesniegtas pret parādnieku un piedzinēju. Ja manta aprakstīta, pamatojoties uz krimināllietas spriedumu daļā par mantas konfiskāciju, kā atbildētājus pieaicina notiesāto un finansu iestādi.
-(4) Ja aprakstītā manta jau pārdota, prasība iesniedzama arī pret personām, kurām manta nodota. Ja prasība par jau pārdotas mantas atdošanu atpakaļ natūrā ir apmierināta, strīdus starp mantas ieguvēju, piedzinējiem un parādnieku izskata tiesa prasības kārtībā.
+633.pants. Citu personu tiesību aizsardzība, izpildot nolēmumu
+(1) Personai, kura uzskata, ka tai ir kādas tiesības uz aprakstīto kustamo mantu vai nekustamo īpašumu, uz kuru tiek vērsta piedziņa, vai tā daļu, jāceļ prasība tiesā pēc vispārējās lietu piekritības.
+(2) Prasība par mantas izslēgšanu no aprakstes akta, piedziņas atzīmes dzēšanu zemesgrāmatā vai cita prasība ceļama pret parādnieku un piedzinēju. Ja manta aprakstīta, pamatojoties uz krimināllietas spriedumu daļā par mantas konfiskāciju, kā atbildētājus pieaicina notiesāto un finanšu iestādi.
+(3) Ja manta jau pārdota, prasība iesniedzama arī pret personām, kurām manta nodota. Ja tiesa apmierina prasību attiecībā uz nekustamo īpašumu, atzīstams par spēkā neesošu ieraksts zemesgrāmatā par īpašuma tiesību pāreju tā ieguvējam.
+(4) Strīdus starp ieguvēju, piedzinēju un parādnieku, ja prasība par pārdotas mantas atdošanu atpakaļ natūrā ir apmierināta, izskata tiesa prasības kārtībā.

@@ -1,7 +1,8 @@
 549.pants. Tiesu izpildītāja darbības vispārīgie noteikumi
-(1) Tiesu izpildītājs uzsāk izpildu darbības pēc piedzinēja rakstveida pieteikuma vai pēc tiesas iniciatīvas, pamatojoties uz izpildu dokumentu.
-(2) Ja parādnieks ir fiziskā persona, spriedumus un citus nolēmumus izpilda tiesu izpildītājs pēc šīs personas dzīvesvietas, tās mantas atrašanās vietas vai darbavietas, bet, ja parādnieks ir juridiskā persona, spriedumu izpilda pēc šīs personas atrašanās vietas (juridiskās adreses) vai tās mantas atrašanās vietas.
-(3) Tiesu izpildītājs izpildi veic sava apkalpojamā rajona robežās. Tiesu izpildītājs var turpināt izpildu darbības ārpus apkalpojamā rajona robežām, ja šādu darbību veikšanai ir saņēmis Tieslietu ministrijas rakstveida atļauju.
-(4) Svētdienās un svētku dienās sprieduma izpilde tiek pieļauta tikai neatliekamos gadījumos ar vecākā tiesu izpildītāja atļauju.
+(1) Tiesu izpildītājs uzsāk izpildu darbības pēc piedzinēja rakstveida pieteikuma un likumā noteiktajos gadījumos pēc Latvijas Zvērinātu tiesu izpildītāju padomes vai pēc tiesas iniciatīvas, pamatojoties uz izpildu dokumentu.
+(2) Izpildu dokumentu piedzinējs var iesniegt jebkuram tiesu izpildītājam apgabaltiesas darbības teritorijā pēc parādnieka dzīvesvietas (juridiskajām personām - pēc to atrašanās vietas), mantas atrašanās vietas vai darba vietas.
+(3) Tiesu izpildītājs spriedumu izpildi veic savas amata vietas iecirkņa robežās, bet pēc piedzinēja lūguma - arī cita tiesu izpildītāja amata vietas iecirknī tās pašas apgabaltiesas darbības teritorijā. Ārpus sava iecirkņa robežām tiesu izpildītājs spriedumu izpildi veic saziņā ar attiecīgā iecirkņa tiesu izpildītāju tieslietu ministra noteiktajā kārtībā.
+(4) Svētdienās un svētku dienās sprieduma izpilde tiek pieļauta tikai neatliekamos gadījumos.
 (5) Sprieduma izpilde laikā no pulksten 24 līdz pulksten 6 netiek pieļauta.
 (6) Piedzinējam un parādniekam ir tiesības būt klāt pie izpildu darbībām un saņemt ziņas, kas saistītas ar sprieduma izpildi.
+(7) Tiesu izpildītājs pēc savas iniciatīvas vai ieinteresētās personas lūguma, pieņemot attiecīgu lēmumu, var izlabot pārrakstīšanās kļūdas viņa lietvedībā esošajās izpildu lietās sastādītajos procesuālajos dokumentos. Pirms kļūdu labošanas viņš pieprasa atsauksmi no personām, kas piedalījušās akta sastādīšanā. Acīmredzamas kļūdas var izlabot, nepieprasot atsauksmi. Tiesu izpildītāja lēmumam, saskaņā ar kuru tiek izlabotas kļūdas, nav nekādu seku attiecībā uz personām, kuru tiesības vai pienākumi izriet no procesuālā dokumenta.

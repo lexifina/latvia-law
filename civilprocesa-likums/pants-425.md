@@ -1,6 +1,6 @@
 425.pants. Apelācijas tiesvedības ierosināšana
 (1) Pārliecinājies, ka ir ievērota apelācijas sūdzības iesniegšanas kārtība, tiesnesis pēc paskaidrojuma saņemšanas vai pēc tā iesniegšanai noteiktā termiņa notecēšanas pieņem lēmumu par apelācijas tiesvedības ierosināšanu un noliek lietu izskatīšanai apelācijas instances tiesas sēdē.
 (2) Konstatējis, ka apelācijas sūdzība nosūtīta apelācijas instances tiesai, pārkāpjot šajā likumā noteikto apelācijas sūdzību iesniegšanas kārtību, tiesnesis pieņem vienu no šādiem lēmumiem:
-1) par atteikšanos ierosināt apelācijas tiesvedību, ja nokavēts apelācijas sūdzības iesniegšanai noteiktais termiņš vai ja apelācijas sūdzību iesniegusi persona, kas nav lietas dalībnieks vai viņa pilnvarots pārstāvis; šajā gadījumā sūdzību kopā ar lietu nosūta pirmās instances tiesai, kura sūdzību atdod iesniedzējam;
+1) par atteikšanos ierosināt apelācijas tiesvedību, ja nokavēts apelācijas sūdzības iesniegšanai noteiktais termiņš vai ja apelācijas sūdzību iesniegusi persona, kas nav pilnvarota pārsūdzēt tiesas spriedumu; šajā gadījumā sūdzību kopā ar lietu nosūta pirmās instances tiesai, kura sūdzību atdod iesniedzējam;
 2) par lietas nosūtīšanu pirmās instances tiesai likumā noteikto darbību izpildei, ja, iesniedzot apelācijas sūdzību, pieļauti šā likuma 416.panta pirmajā daļā norādītie trūkumi vai nav samaksāta valsts nodeva.
 (3) Ja šā panta otrās daļas 1.punktā norādītie apstākļi konstatēti apelācijas instances tiesas sēdē, tiesa pieņem lēmumu par apelācijas sūdzības atstāšanu bez izskatīšanas.

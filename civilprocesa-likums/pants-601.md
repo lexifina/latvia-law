@@ -4,3 +4,4 @@
 2) cirst tajā mežu, izņemot saimniecības uzturēšanai nepieciešamo;
 3) atsavināt vai bojāt nekustamā īpašuma piederumus.
 (2) Līgumi, kurus par nekustamo īpašumu parādnieks noslēdzis pēc tam, kad zemesgrāmatā izdarīta piedziņas atzīme, nav spēkā attiecībā uz piedzinēju un nekustamā īpašuma pircēju izsolē.
+(3) To līgumu spēks, kurus attiecībā uz nekustamo īpašumu parādnieks noslēdzis, pirms zemesgrāmatā ierakstīta piedziņas atzīme, nosakāms kā attiecībā uz pusēm, kas piedalījušās šajos līgumos, tā arī attiecībā uz nekustamā īpašuma pircēju izsolē, saskaņā ar Civillikumu.

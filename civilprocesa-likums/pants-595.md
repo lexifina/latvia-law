@@ -3,4 +3,4 @@
 1) mācību iestādes audzēkņa stipendiju;
 2) summas zaudējumu atlīdzināšanai par personisku aizskārumu, kura rezultātā radies sakropļojums vai cits veselības bojājums vai iestājusies personas nāve;
 3) slimības vai bezdarbnieka pabalstu.
-(2) Piedziņas vēršanu uz pensijām izdara saskaņā ar likumiem par pensijām.
+(2) Vēršot piedziņu uz pensijām un sociālajiem pabalstiem, piemērojami noteikumi par piedziņas vēršanu uz darba samaksu, ievērojot pensiju likumos un citos likumos noteiktos ieturējumu ierobežojumus.

@@ -1,5 +1,6 @@
-579.pants. Mantas glabāšana
-(1) Lēmumu par mantas glabātāja iecelšanu pieņem tiesu izpildītājs. Aprakstīto parādnieka mantu tiesu izpildītājs nodod glabāšanā parādniekam, piedzinēja ieteiktai personai vai citai personai pret parakstu. Tiesu izpildītājs ir tiesīgs pieņemt lēmumu par mantas glabātāja nomaiņu, ja glabātājs nevar turpināt savu pienākumu pildīšanu.
+579.pants. Mantas apsardzība
+(1) Lai nodrošinātu apķīlātās mantas apsardzību, tiesu izpildītājs ieceļ mantas glabātāju. Apķīlāto parādnieka mantu tiesu izpildītājs nodod glabāšanā fiziskajai personai pret parakstu. Ja mantas glabātājs nevar nodrošināt apķīlātās mantas apsardzību tajā adresē, kur tā apķīlāta, tiesu izpildītājs mantu izņem un nodod mantas glabātājam. Tiesu izpildītājs jebkurā nolēmuma izpildes stadijā ir tiesīgs pieņemt lēmumu par mantas glabātāja nomaiņu, ja glabātājs nevar turpināt savu pienākumu pildīšanu vai nenodrošina pienācīgu mantas glabāšanu.
 (2) Parādnieks vai viņa ģimenes locekļi var lietot viņu glabāšanā atstāto mantu, ja šīs mantas īpašību dēļ tās lietošana mantu neiznīcina vai būtiski nesamazina tās vērtību.
 (3) Ja glabātājs nav parādnieks vai parādnieka ģimenes loceklis, viņš par glabāšanu saņem atlīdzību.
-(4) Aprakstot kustamo mantu, no parādnieka vai glabātāja ņemams paraksts, ka viņš to neatsavinās, neieķīlās un neizlietos citam uzdevumam vai nolūkam un ka par tās izšķērdēšanu, atsavināšanu, noslēpšanu vai apmainīšanu viņu var saukt pie kriminālatbildības.
+(4) Apķīlājot kustamo mantu, no parādnieka vai glabātāja ņemams paraksts, ka viņš to neatsavinās, neieķīlās un neizlietos citam uzdevumam vai nolūkam un ka par tās izšķērdēšanu, atsavināšanu, noslēpšanu vai apmainīšanu viņu var saukt pie kriminālatbildības.
+(5) Mantas glabātājs pēc tiesu izpildītāja pieprasījuma uzrāda apķīlāto un viņam glabāšanā nodoto mantu.

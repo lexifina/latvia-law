@@ -1,3 +1,3 @@
-597.pants. Kārtība piedziņas vēršanai uz parādnieka darba samaksu un citiem ienākumiem
+597.pants. Kārtība piedziņas vēršanai uz parādnieka darba samaksu, tai pielīdzinātajiem maksājumiem un citiem ienākumiem
 (1) Tiesu izpildītājs piedziņas izpildu dokumentu nosūta darba devējam vai attiecīgajai juridiskajai personai ar norādi - izdarīt ieturējumus no parādnieka darba samaksas vai citas atlīdzības, pensijas, stipendijas, pabalsta, pamatojoties uz saņemto izpil d u dokumentu, un uz parādnieka rēķina nosūtīt ieturētās summas piedzinējam.
 (2) Izbeidzot darba attiecības ar parādnieku, izpildu dokumentu ar atzīmi par izdarītajiem ieturējumiem, par parāda atlikumu, ja tāds ir, un par parādnieka jauno darbavietu, ja tā ir zināma, darba devējs nosūta atpakaļ tiesu izpildītājam. Šie noteikumi attiecināmi arī uz juridiskajām personām, kas ir izdarījušas ieturējumus no parādniekam izmaksājamās pensijas, stipendijas vai pabalsta, ja šo maksājumu izdarīšana tiek pārtraukta.

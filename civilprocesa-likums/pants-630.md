@@ -1,3 +1,3 @@
 630.pants. Piedziņas secība gadījumos, kad parādniekam manta konfiscēta ar spriedumu krimināllietā
-(1) Izpildot krimināllietas spriedumu par mantas konfiskāciju, parādnieka mantu nodod finansu iestādēm pēc tam, kad apmierināti visi parādniekam iesniegtie prasījumi, kādi radušies, pirms notiesātā mantai uzlikušas arestu vai to apķīlājušas iepriekšējās izmeklēšanas iestādes vai tiesa.
+(1) Izpildot krimināllietas spriedumu par mantas konfiskāciju, parādnieka mantu tiesu izpildītājs nodod finansu iestādēm pēc tam, kad apmierināti visi parādniekam iesniegtie prasījumi, kādi radušies, pirms notiesātā mantai uzlikušas arestu vai to apķīlājušas iepriekšējās izmeklēšanas iestādes vai tiesa.
 (2) Prasījumus par uzturlīdzekļiem un prasījumus personisku aizskārumu dēļ, kuru rezultātā radies sakropļojums vai cits veselības bojājums vai iestājusies personas nāve, apmierina arī tad, ja tie radušies pēc aresta uzlikšanas notiesātā mantai vai tās apķīlāšanas.

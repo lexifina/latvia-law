@@ -4,3 +4,4 @@
 (3) Aprakstot dārgmetālus, norāda provi (raudzi), ja tā ir zināma. Ja apraksta dārgakmeņiem izgreznotas lietas, norāda šo akmeņu skaitu, lielumu un nosaukumu.
 (4) Aprakstot preces, kā arī preču iesaiņojumos esošos izstrādājumus un materiālus, norāda uz iesaiņojumiem esošos numurus vai zīmes un šajos iesaiņojumos glabājamo preču nosaukumu un aprakstu.
 (5) Aprakstot vērtspapīrus, norāda to skaitu, šķiru, nominālvērtību un numurus.
+(6) Aprakstot kustamo mantu, tiesu izpildītājs var atsevišķus priekšmetus sasaiņot pakās, norādot uz iesaiņojuma aprakstīto priekšmetu nosaukumus.

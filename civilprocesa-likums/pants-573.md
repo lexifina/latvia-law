@@ -1,2 +1,4 @@
 573.pants. Parādnieka kustamās mantas apķīlāšana
-Parādnieka kustamās mantas apķīlāšana izpaužas šīs mantas aprakstīšanā un apsardzībā.
+(1) Parādnieka kustamās mantas apķīlāšana izpaužas šīs mantas aprakstīšanā, apzīmogošanā (norādot, kas un kādā lietā mantu apķīlājis) un apsardzībā. Mantas apzīmogošanu var neveikt, ja tas var bojāt mantu vai būtiski ietekmēt tās vērtību. Kustamo lietu reģistros iekļautās mantas nav apzīmogojamas. Instrukciju par apķīlāto kustamo lietu apzīmogošanas kārtību izdod tieslietu ministrs.
+(2) Tiesu izpildītājs, ja rodas šaubas par mantas piederību, pieprasa ziņas no kustamo lietu reģistriem par šādu lietu piederību parādniekam, kā arī noskaidro komercķīlu reģistrā, vai parādniekam piederošās kustamās lietas nav ieķīlātas.
+(3) Tiesu izpildītājs kustamās lietas neapķīlā, ja varētu būt neiespējami tās pārdot un sprieduma izpildes izdevumi varētu pārsniegt no pārdošanas iegūstamo naudas summu.

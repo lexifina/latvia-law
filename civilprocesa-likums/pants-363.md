@@ -5,4 +5,4 @@
 1) parādnieks nokārtojis visas savas saistības;
 2) parādnieks nokārtojis visas savas saistības, kurām iestājies izpildes termiņš, un pēc šo saistību nokārtošanas tā aktīvi pārsniedz atlikušo parādu summu;
 3) līdz izsludinātā kreditoru prasījumu pieteikšanas termiņa beigām nav pieteicies neviens kreditors.
-(4) Izbeidzot maksātnespējas procesu, tiesa saņem no administratora viņa apliecību un zīmogu un iznīcina tos.
+(4) (Izslēgta ar 31.10.2002. likumu.)

@@ -12,4 +12,5 @@ Sevišķā tiesāšanas kārtībā tiesa izskata lietas:
 10) par nekustam ā īpašuma izpirkšanu;
 11) par uzņēmumu un uzņēmējsabiedrību maksātnespēju;
 12) par kredītiestāžu likvidāciju vai maksātnespēju;
-13) par streika vai streika pieteikuma atzīšanu par nelikumīgu.
+13) par streika vai streika pieteikuma atzīšanu par nelikumīgu;
+14) par lokauta vai lokauta pieteikuma atzīšanu par nelikumīgu.

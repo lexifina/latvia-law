@@ -1,2 +1,2 @@
 260.pants. Pieteikuma saturs
-Pieteikumā norāda Civillikuma 162. - 174.pantā minētos apstākļus, un tam pievieno šos apstākļus apstiprinošus pierādījumus, kā arī bāriņtiesas atzinumu.
+Pieteikumā norāda Civillikuma 162.-169.pantā minētos apstākļus, pievieno šos apstākļus apstiprinošus pierādījumus un bāriņtiesas lēmumu.

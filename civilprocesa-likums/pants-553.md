@@ -1,2 +1,2 @@
-553.pants. Izpildāmā sprieduma izskaidrošana
-Ja izpildāmais spriedums nav skaidrs, tiesu izpildītājs ir tiesīgs lūgt tiesu, kura taisījusi spriedumu, to izskaidrot. Sprieduma izskaidrošana notiek saskaņā ar šā likuma 202. vai 437.panta noteikumiem.
+553.pants. Izpildāmā tiesas nolēmuma izskaidrošana
+Ja izpildāmais tiesas nolēmums nav skaidrs, tiesu izpildītājs ir tiesīgs lūgt tiesu, kura pieņēmusi nolēmumu, to izskaidrot. Nolēmuma izskaidrošana notiek šā likuma 202. vai 437.pantā noteiktajā kārtībā.

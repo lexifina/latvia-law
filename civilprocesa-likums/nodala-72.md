@@ -1,2 +1,4 @@
 72.nodaļa
-Piedziņas vēršana uz darba samaksu un citām naudas izmaksām
+Piedziņas vēršana uz darba samaksu,
+tai pielīdzinātajiem maksājumiem un citiem
+parādnieka ienākumiem ārpus darba samaksas

@@ -3,3 +3,4 @@
 (2) Ierosinot lietu, tiesa apķīlā parādnieka naudas līdzekļus, kas atrodas kredītiestādēs parādnieka kontos, publiskā apgrozībā esošos vērtspapīrus un pamatlīdzekļus.
 (3) Pēc pieteikuma iesniedzēja lūguma tiesa apķīlā arī citu parādnieka mantu, ja tas nepieciešams un ja apķīlāšana būtiski netraucē turpināt uzņēmējdarbību.
 (4) Ja maksātnespējas pieteikums iesniegts par tādu uzņēmumu, par kura saistībām atbild uzņēmuma īpašnieks ar savu mantu, tiesa apķīlā īpašnieka mantu.
+(5) Tiesneša lēmumu par atteikšanos pieņemt pieteikumu un pieteikuma atdošanu pieteikuma iesniedzējam var pārsūdzēt, pamatojoties uz Civilprocesa likuma 441.panta pirmās daļas 2.punktu.

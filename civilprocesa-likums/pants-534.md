@@ -3,7 +3,7 @@
 1) trīs dienas pirms pieteikuma iesniegšanas tiesai, ja paziņojums tiek nodots personīgi vai izmantojot telekomunikācijas līdzekļus;
 2) piecas dienas pirms pieteikuma iesniegšanas, ja paziņojums tiek sūtīts pa pastu.
 (2) Pieteikumam par izpildu raksta izsniegšanu pievieno:
-1) šķīrējtiesas nolēmumu;
+1) šķīrējtiesas nolēmumu, bet, ja lietu izskatījusi pastāvīgā šķīrējtiesa, - tās apliecinātu nolēmuma norakstu;
 2) dokumentu, kas apliecina pušu rakstveida vienošanos par strīda nodošanu izskatīšanai šķīrējtiesā, vai notariāli apliecinātu tā norakstu;
 3) pierādījumus, ka pusei, pret kuru tiek prasīta šķīrējtiesas nolēmuma piespiedu izpilde, par to ir paziņots;
 4) dokumentu par valsts nodevas samaksu.

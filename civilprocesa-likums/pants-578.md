@@ -1,4 +1,4 @@
-578.pants. Parādnieka mantas novērtēšana
-(1) Parādnieka mantas novērtēšanu izdara tiesu izpildītājs pēc šai apvidū esošajām cenām, ievērojot tās nolietojuma pakāpi.
-(2) Pēc piedzinēja vai parādnieka lūguma mantas novērtēšanai pieaicina ekspertu.
-(3) Ekspertu tiesu izpildītāja noteiktajā termiņā izraugās piedzinējs un parādnieks, savstarpēji vienojoties, bet, ja viņi nevienojas, - pēc tiesu izpildītāja ieskata. Novērtēšanas izdevumus maksā persona, pēc kuras lūguma eksperts pieaicināts.
+578.pants. Apķīlājamās mantas novērtēšana
+(1) Parādnieka mantas novērtēšanu izdara tiesu izpildītājs pēc šai apvidū esošajām cenām, ievērojot tās nolietojuma pakāpi. Kuģa novērtēšanai pieaicināms eksperts.
+(2) Līdz apķīlātās mantas izsoles izziņošanai vai komisijas līguma noslēgšanai piedzinējs vai parādnieks rakstveidā var lūgt tiesu izpildītāju pieaicināt ekspertu atkārtotai mantas novērtēšanai. Pirms eksperta pieaicināšanas tiesu izpildītājs rakstveidā paziņo personai, kura lūgusi pieaicināt ekspertu, par novērtēšanas izdevumu apmēru. Novērtēšanas izdevumus sedz persona, kura lūgusi pieaicināt ekspertu, iemaksājot nepieciešamo naudas summu tiesu izpildītāja kontā piecu dienu laikā pēc paziņojuma saņemšanas. Ja novērtēšanai nepieciešamā naudas summa nav iemaksāta, tiesu izpildītājs lūgumu pieaicināt ekspertu noraida.
+(3) Ja nav iespējams pēc puses lūguma ekspertu pieaicināt mantas aprakstes dienā, tiesu izpildītājs mantas aprakstes aktā norāda paša noteikto mantas vērtību.

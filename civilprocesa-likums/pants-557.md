@@ -1,7 +1,9 @@
 557.pants. Piespiedu izpildes līdzekļi
 Piespiedu izpildes līdzekļi ir:
-1) piedziņas vēršana uz parādnieka mantu, to pārdodot;
-2) piedziņas vēršana uz parādnieka darba algu un citiem ienākuma veidiem;
-3) piedziņas vēršana uz parādnieka mantu, kas atrodas pie citām personām, kā arī naudu, kas pienākas no citām personām;
-4) tiesas spriedumā norādīto priekšmetu izņemšana parādniekam un nodošana piedzinējam;
-5) citi līdzekļi, kas norādīti spriedumā.
+1) piedziņas vēršana uz parādnieka kustamo mantu, tai skaitā mantu, kas atrodas pie citām personām, un bezķermeniskām lietām, tās pārdodot;
+2) piedziņas vēršana uz naudu, kas parādniekam pienākas no citām personām (darba samaksu, tai pielīdzinātiem maksājumiem, citiem parādnieka ienākumiem, noguldījumiem kredītiestādēs);
+3) piedziņas vēršana uz parādnieka nekustamo īpašumu, to pārdodot;
+4) tiesas piespriestās mantas nodošana piedzinējam un ar tiesas spriedumu uzlikto darbību izpildīšana;
+5) spriedumā norādīto personu un mantu izlikšana no telpām;
+6) ievešana valdījumā;
+7) citi līdzekļi, kas norādīti spriedumā.

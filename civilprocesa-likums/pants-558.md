@@ -1,3 +1,4 @@
 558.pants. Parādnieka telpu apskate
 (1) Tiesu izpildītājs ir tiesīgs, ja tas nepieciešams piedziņas izdarīšanai, izdarīt parādnieka telpu un viņa glabātavu apskati. Telpu un glabātavu apskate izdarāma liecinieku klātbūtnē.
 (2) Ja parādnieks atsakās ielaist tiesu izpildītāju telpā, kuru viņš aizņēmis, vai mantas atrašanās vietā vai arī atsakās atvērt glabātavu, tiesu izpildītājs pieaicina policijas pārstāvi, kura klātbūtnē atver telpu vai glabātavu un veic to apskati.
+(3) Ja parādniekam piederošā nekustamā īpašuma pārvaldnieks nolēmuma piespiedu izpildes laikā izvairās vai atsakās ielaist tiesu izpildītāju nekustamajā īpašumā un par nekustamā īpašuma apskates laiku pārvaldniekam rakstveidā paziņots ne mazāk kā piecas dienas iepriekš, nekustamā īpašuma apskati tiesu izpildītājs var veikt policijas pārstāvja klātbūtnē bez pārvaldnieka piedalīšanās.

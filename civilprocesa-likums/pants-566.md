@@ -1,5 +1,5 @@
 566.pants. Sprieduma izpildes izdevumi
-(1) Sprieduma izpildes izdevumos ietilpst atlīdzība tiesu izpildītājam, kā arī izdevumi, kas radušies, tiesu izpildītājam veicot tiesu nolēmumu un citu institūciju lēmumu izpildi. Tie ir:
+(1) Sprieduma izpildes izdevumos ietilpst valsts nodeva un ar tiesas sprieduma izpildi saistītie izdevumi (39.pants): tiesu izpildītāja amata atlīdzība takses apmērā un izpildu darbību veikšanai nepieciešamie izdevumi. Tie ir:
 1) ar pavēstes un citu dokumentu piegādāšanu un izsniegšanu saistītie izdevumi;
 2) izdevumi sakarā ar izpildu lietā nepieciešamās informācijas saņemšanu;
 3) izdevumi sakarā ar bankas un citu iestāžu pakalpojumiem;

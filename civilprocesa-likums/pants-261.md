@@ -1,5 +1,5 @@
 261.pants. Pieteikuma izskatīšana
-(1) Lietas izskatīšanā pieaicina Civillikuma 164. un 169.pantā norādītās personas.
-(2) Lieta izskatāma slēgtā tiesas sēdē, piedaloties prokuroram.
-(3) Pēc pieteicēja vai adoptējamā bērna vecāku lūguma tiesa veic nepieciešamos pasākumus, lai pieteicējs un adoptējamā bērna vecāki lietas izskatīšanas procesā neuzzinātu viens otra identitāti.
-(4) Ja adoptētājs mirst, līdz tiesa adopciju apstiprinājusi, tas nav par šķērsli tās apstiprināšanai, bet, ja pirms apstiprināšanas mirst adoptējamais, lieta izbeidzama.
+(1) Lieta izskatāma, piedaloties adoptētājam personiski un prokuroram.
+(2) Lietas izskatīšanā pieaicina Civillikuma 169.pantā norādītās personas.
+(3) Pēc adoptētāja lūguma tiesa nodrošina, lai adoptējamā bērna vecāki neuzzinātu adoptētāja identitāti. Ja tas nav iespējams, adoptējamā vecākus noklausās atsevišķā tiesas sēdē.
+(4) Ja adoptētājs mirst, līdz tiesa adopciju apstiprinājusi, tas nav šķērslis adopcijas apstiprināšanai, bet, ja pirms apstiprināšanas mirst adoptējamais, lieta izbeidzama.

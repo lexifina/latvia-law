@@ -1,7 +1,5 @@
 550.pants. Tiesu izpildītāja atstatīšana vai noraidīšana
-(1) Tiesu izpildītājs nevar piedalīties sprieduma vai cita nolēmuma izpildē, ja viņš:
-1) ir radniecības attiecībās līdz trešajai pakāpei vai svainības attiecībās līdz otrajai pakāpei ar piedzinēju vai parādnieku, vai viņu pārstāvjiem;
-2) ir personīgi tieši vai netieši ieinteresēts lietas iznākumā, vai tad, ja tiek konstatēti citi apstākļi, kas rada šaubas par tiesu izpildītāja objektivitāti.
-(2) Tiesu izpildītājs paziņo par savu atstatīšanu vecākajam tiesu izpildītājam, kurš nodod izpildu dokumentu izpildīšanai citam tiesu izpildītājam, bet, ja attiecīgajā tiesu izpildītāju kantorī strādā tikai viens tiesu izpildītājs, - izpildu dokumentu nosūta izpildei citam tā paša tiesu apgabala tiesu izpildītāju kantorim.
-(3) Noraidījumu tiesu izpildītājam var pieteikt piedzinējs vai parādnieks, iesniedzot pieteikumu vecākajam tiesu izpildītājam. Vecākā tiesu izpildītāja lēmumu, ar kuru pieteikums atstāts bez apmierinājuma, var pārsūdzēt rajona (pilsētas) tiesā.
-(4) Par tiesas lēmumu atteikt tiesu izpildītāja noraidījumu var iesniegt blakus sūdzību. Sūdzības iesniegšana neaptur izpildu darbības.
+(1) Tiesu izpildītājam aizliegts veikt izpildu darbības lietās, kurās viena no pusēm ir viņš pats, viņa laulātais, arī bijušais laulātais, viņa vai viņa laulātā radinieks taisnā līnijā visās pakāpēs, sānu līnijā - līdz ceturtajai pakāpei un svainības attiecībās - līdz trešajai pakāpei, kā arī viņa vai viņa laulātā aizbildnībā vai aizgādnībā esošas personas vai viņa vai viņa laulātā adoptētāji vai adoptētie.
+(2) Noraidījumu tiesu izpildītājam, iesniedzot viņam rakstveida pieteikumu, var pieteikt piedzinējs vai parādnieks, ja ir apstākļi, kas rada pamatotas šaubas par tiesu izpildītāja objektivitāti. Pieteikumu tiesu izpildītājs izlemj nekavējoties. Lēmumu, ar kuru pieteikums atstāts bez apmierinājuma, var pārsūdzēt rajona (pilsētas) tiesā pēc tiesu izpildītāja amata vietas. Sūdzības iesniegšana neaptur izpildu darbības.
+(3) Par tiesas lēmumu atteikt tiesu izpildītāja noraidījumu var iesniegt blakus sūdzību.
+(4) Ja tiesu izpildītājs sevi atstatījis vai ir noraidīts, viņš izpildu dokumentu nodod tālākai izpildīšanai citam tiesu izpildītājam Latvijas Zvērinātu tiesu izpildītāju padomes noteiktajā kārtībā.
