@@ -1,8 +1,0 @@
-77.pants. Kārtība, kādā dzīvokļi nododami īpašumā līdz dzīvojamās mājas privatizācijai
-(1) Izīrētu pašvaldības daudzdzīvokļu mājas dzīvokli pēc īrnieka lūguma līdz dzīvojamās mājas privatizācijai nodod īpašumā pašvaldības dome (padome), ja īrnieks apņemas samaksāt pašvaldības domes (padomes) noteikto maksu par dzīvokļa nodošanu īpašumā līdz dzīvojamās mājas privatizācijai (dzīvokļa cena sertifikātos un latos iemaksājamā summa par dzīvojamās mājas sagatavošanu privatizācijai).
-(2) Lai iegūtu īpašuma tiesības uz dzīvokli, dzīvokļa īrnieks iesniedz iesniegumu pašvaldībai. Iesniegumu paraksta īrnieks un viņa pilngadīgie ģimenes locekļi.
-(3) Pašvaldības dome (padome) mēneša laikā no iesnieguma saņemšanas dienas pieņem lēmumu par dzīvokļa nodošanu īpašumā līdz dzīvojamās mājas privatizācijai, ja iesnieguma iesniegšanas brīdī ir pilnībā samaksāta dzīvojamās telpas īres maksa un maksa par saņemtajiem komunālajiem pakalpojumiem.
-(4) Pašvaldības domes (padomes) lēmumā jānorāda dzīvokļa cena sertifikātos un latos iemaksājamā summa par dzīvojamās mājas sagatavošanu privatizācijai.
-(5) Pamatojoties uz pašvaldības domes (padomes) lēmumu par dzīvokļa nodošanu īpašumā līdz dzīvojamās mājas privatizācijai, īrnieks izdara domes (padomes) noteiktos maksājumus. Pēc tam, kad Valsts zemes dienestā iesniegti atbilstoši dokumenti par šo maksājumu nokārtošanu, īrnieks divu nedēļu laikā saņem apliecību par īpašuma tiesībām uz dzīvokli līdz dzīvojamās mājas privatizācijai.
-(6) Dzīvokļu īpašumi līdz dzīvojamās mājas privatizācijai tiek reģistrēti Valsts zemes dienesta kadastra reģistrā (turpmāk - kadastra reģistrs).
-(7) Valsts zemes dienests ne retāk kā reizi mēnesī ziņo attiecīgajām pašvaldībām par reģistrētajiem dzīvokļa īpašumiem līdz dzīvojamās mājas privatizācijai.
