@@ -1,2 +1,0 @@
-9. pants. Tiesas spriešana konstitucionālās uzraudzības jautājumos
-Konstitucionālās uzraudzības jautājumos tiesu spriež Augstākā Tiesa, izskatot un izlemjot tiesas sēdēs lietas par Latvijas Republikas likumu, Saeimas, pašvaldību, valsts pārvaldes iestāžu un citu organizāciju normatīvo aktu atbilstību Satversmei, konstitucionālajiem likumiem un Latvijas Republikas noslēgtajiem starpvalstu līgumiem, kā arī lietas par Satversmes pārkāpumiem, ko pieļāvušas valsts augstākās amatpersonas.
