@@ -1,0 +1,1 @@
+7.pants. Saskaņā ar Konvencijas 32.panta otro daļu noteikt, ka pieprasītājas puses institūcijas bez Latvijas Republikas pilnvaroto institūciju iepriekšējas piekrišanas nedrīkst izmantot vai nodot tām sniegto informāciju vai pierādījumus tādu lietu izmeklēšanai vai tiesvedībai, kas nav minētas līgumā, un par to Ārlietu ministrija paziņo Eiropas Pado m es ģenerālsekretāram.

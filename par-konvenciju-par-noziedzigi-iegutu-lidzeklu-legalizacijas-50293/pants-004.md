@@ -1,0 +1,1 @@
+4.pants. Saskaņā ar Konvencijas 21.panta otro daļu noteikt, ka Latvijas Republikā tiesas dokumentu oficiālo izsniegšanu pirmstiesas izmeklēšanas stadijā veic Ģenerālprokuratūra un iztiesāšanas stadijā - Tieslietu ministrija, un par to Ārlietu ministrija paziņo Eiropas Padomes ģenerālsekretāram.

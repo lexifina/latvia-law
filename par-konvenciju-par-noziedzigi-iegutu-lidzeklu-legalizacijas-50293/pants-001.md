@@ -1,0 +1,1 @@
+1.pants. 1990.gada 8.novembra Konvencija par n oziedzīgi iegūtu līdzekļu legalizācijas novēršanu, meklēšanu, izņemšanu un konfiskāciju (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.

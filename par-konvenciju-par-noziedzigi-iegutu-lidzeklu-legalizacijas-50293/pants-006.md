@@ -1,0 +1,1 @@
+6.pants. Saskaņā ar Konvencijas 25.panta trešo daļu šā likuma 5.pantā minētās Latvijas Republikas pilnvarotās institūcijas ir tiesīgas pieprasīt, lai tām adresētajiem lūgumiem un tiem pievienotajiem dokumentiem būtu nodrošināts tulkojums latviešu vai angļu valodā, un par to Ārlietu ministrija paziņo Eiropas Padomes ģenerālsekretāram.

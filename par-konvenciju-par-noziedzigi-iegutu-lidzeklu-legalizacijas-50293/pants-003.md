@@ -1,0 +1,1 @@
+3.pants. Saskaņā ar Konvencijas 14.panta trešo daļu noteikt, ka Konvencijas 14.panta otrā daļa ir piemērojama tikai saskaņā ar Latvijas Republikas konstitucionālajiem principiem un tiesiskās sistēmas pamatnostādnēm, un par to Ārlietu ministrija paziņo Eiropas Padomes ģenerālsekretāram.
