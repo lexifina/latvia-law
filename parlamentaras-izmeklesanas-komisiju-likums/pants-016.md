@@ -1,0 +1,1 @@
+16.pants. Tiesām un tiesu varas amatpersonām parlamentārās izmeklēšanas komisijas galaziņojums vai starpziņojums nav saistošs, un tās brīvi izskata un novērtē apstākļus, kas ir bijuši izmeklēšanas priekšmets.

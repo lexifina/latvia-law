@@ -1,0 +1,1 @@
+10.pants. Parlamentārās izmeklēšanas komisijas locekļiem un prokuroram ir tiesības likumā noteiktajā kārtībā iepazīties ar valsts noslēpumiem. Parlamentārās izmeklēšanas komisijas locekļiem un prokuroram ir tiesības iepazīties ar operatīvās izstrādes lietām tādā apjomā, kādā to uzskata par iespējamu operatīvās iestādes vadītājs.

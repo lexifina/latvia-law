@@ -1,0 +1,2 @@
+3.pants. (1) Parlamentārās izmeklēšanas komisija izveidojama uz noteiktu laiku, kas norādīts priekšlikumā par parlamentārās izmeklēšanas komisijas izveidošanu. Ja priekšlikumā komisijas darbības laiks nav norādīts, tā izveidojama uz trim mēnešiem. Saeima ir tiesīga pagarināt komisijas darbības laiku.
+(2) Saeima parlamentārās izmeklēšanas komisijai var dot uzdevumu, kas nosakāms saskaņā ar to deputātu priekšlikumu, kuri pieprasījuši izveidot parlamentārās izmeklēšanas komisiju.

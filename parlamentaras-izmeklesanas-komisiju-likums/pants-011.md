@@ -1,0 +1,1 @@
+11.pants. Persona par apzināti nepatiesu paskaidrojumu vai apzināti nepatiesu atzinumu, vai apzināti nepatiesu tulkojumu, kā arī par atteikšanos dot paskaidrojumu, atzinumu vai tulkojumu parlamentārās izmeklēšanas komisijai, kā arī par piespiešanu dot nepatiesu paskaidrojumu, atzinumu vai tulkojumu saucama pie kriminālatbildības.
