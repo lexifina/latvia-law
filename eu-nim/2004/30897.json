@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Veterināro zāļu marķēšanas, izplatīšanas un kontroles noteikumi",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "49",
+  "official_journal_page": null,
+  "official_journal_date": "2004-03-30",
+  "entry_into_force": null,
+  "notification_date": "2004-09-15",
+  "commission_reference": "MNE(2004)50897",
+  "nim_celex": "72001L0082LVA_30897",
+  "nim_id": "30897",
+  "transposes_celex": [
+    "32001L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6c1d94b1-50e8-44f3-958c-4399854814d4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
