@@ -1,20 +1,20 @@
 52. pants. Prokurora darba samaksa
-(1) Samaksu par prokurora darbu veido amatalga, piemaksa par amata pakāpi un citas piemaksas.
-(2) Atkarībā no ieņemamā amata prokuroriem noteikta šāda amatalga:
-1) ģenerālprokurora amatalga ir 95 procenti no Augstākās tiesas priekšsēdētāja amatalgas un piemaksas par priekšsēdētāja pienākumu pildīšanu;
-2) Ģenerālprokuratūras departamenta virsprokurora amatalga ir 95 procenti no Augstākās tiesas priekšsēdētāja vietnieka amatalgas un piemaksas par priekšsēdētāja vietnieka pienākumu pildīšanu;
-3) Ģenerālprokuratūras nodaļas virsprokurora amatalga ir 90 procenti no Augstākās tiesas priekšsēdētāja vietnieka amatalgas un piemaksas par priekšsēdētāja vietnieka pienākumu pildīšanu;
-4) Ģenerālprokuratūras prokurora amatalga ir 90 procenti no Augstākās tiesas tiesneša amatalgas;
-5) tiesas apgabala virsprokurora amatalga ir 95 procenti no apgabaltiesas priekšsēdētāja amatalgas;
-6) tiesas apgabala virsprokurora vietnieka amatalga ir 95 procenti no apgabaltiesas priekšsēdētāja vietnieka amatalgas;
-7) tiesas apgabala prokurora amatalga ir 90 procenti no apgabaltiesas tiesneša amatalgas;
-8) rajona (republikas pilsētas) prokuratūras virsprokurora, amatalga ir 95 procenti no rajona (pilsētas) tiesas priekšsēdētāja amatalgas;
-9) rajona (republikas pilsētas) prokuratūras virsprokurora vietnieka amatalga ir 95 procenti no rajona (pilsētas) tiesas priekšsēdētāja vietnieka amatalgas; 10) rajona (republikas pilsētas) prokurora amatalga ir 95 procenti no rajona (pilsētas) tiesas tiesneša amatalgas.
-(3) Piemaksa par prokurora amata pakāpi tiek pielīdzināta piemaksai par tiesneša kvalifikācijas klasi ievērojot šādu attiecību:
-1) tieslietu padomnieka kandidāts - 5. kvalifikācijas klase;
-2) jaunākais tieslietu padomnieks - 4. kvalifikācijas klase;
-3) tieslietu padomnieks - 3. kvalifikācijas klase;
-4) vecākais tieslietu padomnieks - 2. kvalifikācijas klase;
-5) valsts tieslietu padomnieks - 1. kvalifikācijas klase;
-6) galvenais valsts tieslietu padomnieks - augstākā kvalifikācijas klase.
-(4) Prokurora amata kandidāts stažēšanās laikā saņem darba algu 80 procentu apmērā no rajona (republikas pilsētas) prokurora amatalgas.
+(1) Prokurora darba samaksa ietver mēneša amatalgu, piemaksas un prēmijas.
+(2) Atkarībā no ieņemamā amata prokuroriem ir noteikta šāda mēneša amatalga:
+1) ģenerālprokurora mēneša amatalga ir 98 procenti no Augstākās tiesas priekšsēdētāja mēneša amatalgas;
+2) Ģenerālprokuratūras departamenta virsprokurora mēneša amatalga ir 95 procenti no Augstākās tiesas priekšsēdētāja vietnieka mēneša amatalgas;
+3) Ģenerālprokuratūras nodaļas virsprokurora mēneša amatalga ir pielīdzināta Augstākās tiesas senatora mēneša amatalgai;
+4) Ģenerālprokuratūras prokurora mēneša amatalga ir 90 procentu no Augstākās tiesas tiesneša mēneša amatalgas;
+5) tiesas apgabala virsprokurora mēneša amatalga ir 90 procentu no apgabaltiesas priekšsēdētāja mēneša amatalgas;
+6) tiesas apgabala virsprokurora vietnieka mēneša amatalga ir 90 procentu no apgabaltiesas priekšsēdētāja vietnieka mēneša amatalgas;
+7) tiesas apgabala prokurora mēneša amatalga ir 90 procentu no apgabaltiesas tiesneša mēneša amatalgas;
+8) rajona (republikas pilsētas) prokuratūras virsprokurora mēneša amatalga ir 95 procenti no rajona (pilsētas) tiesas priekšsēdētāja mēneša amatalgas;
+9) rajona (republikas pilsētas) prokuratūras virsprokurora vietnieka mēneša amatalga ir 95 procenti no rajona (pilsētas) tiesas priekšsēdētāja vietnieka mēneša amatalgas;
+10) rajona (republikas pilsētas) prokurora mēneša amatalga ir 98 procenti no rajona (pilsētas) tiesas tiesneša mēneša amatalgas.
+(3) Piemaksu par prokurora amata pakāpi nosaka šādā apmērā:
+1) jaunākajam tieslietu padomniekam - 7 procenti no mēneša amatalgas;
+2) tieslietu padomniekam - 14 procenti no mēneša amatalgas;
+3) vecākajam tieslietu padomniekam - 21 procents no mēneša amatalgas;
+4) valsts tieslietu padomniekam - 28 procenti no mēneša amatalgas;
+5) vecākajam valsts tieslietu padomniekam - 35 procenti no mēneša amatalgas.
+(4) Prokurora amata kandidāts stažēšanās laikā saņem darba algu 80 procentu apmērā no rajona (republikas pilsētas) prokurora mēneša amatalgas.

@@ -1,4 +1,4 @@
 46. pants. Prokuratūras administratīvais direktors
-(1) Prokuratūras administratīvo direktoru pieņem darbā un atbrīvo vai atlaiž no darba ģenerālprokurors. Administratīvais direktors vada prokuratūras finansiālo un saimniecisko darbību un nodrošina prokuratūras iestāžu materiālo apgādi.
-(2) Administratīvais direktors pieņem darbā, atbrīvo vai atlaiž no darba prokuratūras apkalpojošo personālu un organizē tā darbu.
-(3) Administratīvā direktora dienests atbilstoši prokuratūras pārraudzībā esošo valsts iestāžu izdevumu tāmei, noteiktajām darbinieku algām un vadītāju norādījumiem nodrošina šo valsts iestāžu finansiālo un saimniecisko darbību.
+(1) Prokuratūras administratīvo direktoru pieņem darbā un atbrīvo no darba ģenerālprokurors. Administratīvais direktors vada prokuratūras administratīvā direktora dienestu.
+(2) Prokuratūras administratīvā direktora dienests ir prokuratūras struktūrvienība, kas nodrošina prokuratūras un tās pārraudzībā esošo iestāžu finansiālo un saimniecisko darbību.
+(3) Prokuratūras administratīvais direktors pieņem darbā un atbrīvo no darba savu vietnieku, prokuratūras apkalpojošo personālu un konsultatīvo personālu.

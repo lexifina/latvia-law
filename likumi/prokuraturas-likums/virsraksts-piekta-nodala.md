@@ -1,2 +1,2 @@
 Piektā nodaļa
-Prokuratūras palīgpersonāls
+Prokuratūras darbinieki
