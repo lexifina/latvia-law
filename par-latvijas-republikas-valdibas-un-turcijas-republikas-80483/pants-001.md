@@ -1,0 +1,1 @@
+1.pants. 2003.gada 5.maijā parakstītais Latvijas Republikas valdības un Turcijas Republikas valdības līgums par sadarbību un savstarpēju palīdzību muitas lietās (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
