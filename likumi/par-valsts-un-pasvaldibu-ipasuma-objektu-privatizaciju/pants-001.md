@@ -6,4 +6,4 @@ tos valsts īpašuma objektus, kas privatizējami saskaņā ar likumu «Par pien
 2) pašvaldību īpašuma objektiem.
 2. Privatizējot valsts cukura pārstrādes uzņēmumus, jāievēro Augstākās padomes lēmuma «Par Latvijas Republikas likuma «Par cukuru» spēkā stāšanās kārtību» 5. punkta noteikumi.
 3. Valsts un pašvaldību īpašumā esošā dzīvojamā fonda privatizāciju nosaka citi likumi.
-4. Kārtību, kādā piešķirams lietošanā vai privatizējams zemesgabals, uz kura atrodas privatizējamais valsts vai pašvaldības īpašuma objekts, regulē citi likumi.
+4. Kārtību, kādā piešķirams lietošanā vai privatizējams zemesgabals, uz kura atrodas privatizējamais valsts vai pašvaldības īpašuma objekts, regulē šā likuma 57. un 58. pants un citi likumi.

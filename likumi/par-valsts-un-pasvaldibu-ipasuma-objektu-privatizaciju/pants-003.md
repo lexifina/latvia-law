@@ -15,7 +15,7 @@
 6. Kārtību, kādā pārdodamas kapitāla daļas, kas pieder valstij vai pašvaldībām statūtsabiedrībās, kurās ir privātais kapitāls, regulē šā likuma V daļas noteikumi.
 7. Tādas valsts īpašumā esošas nekustamās mantas privatizācijas īpatnības, kura nav valsts uzņēmuma vai valsts statūtsabiedrības sastāvā, nosaka šā likuma V daļas noteikumi.
 8. Kopīpašumā esošas valsts vai pašvaldību mantas privatizācijas īpatnības nosaka šā likuma V daļas noteikumi.
-9. Valsts vai pašvaldības uzņēmumu vai uzņēmējsabiedrību likvidē un atsevišķi pārdod šā uzņēmuma vai uzņēmējsabiedrības kustamo un nekustamo mantu, ja:
+9. Valsts vai pašvaldības uzņēmumu vai uzņēmējsabiedrību likvidē, ja:
 1) valsts uzņēmuma vai uzņēmējsabiedrības privatizācija saskaņā ar vismaz divas reizes apstiprinātiem privatizācijas noteikumiem nav bijusi sekmīga;
 2) Privatizācijas aģentūra vai pašvaldība atzīst, ka uzņēmuma vai uzņēmējsabiedrības mantas pārdošana ir izdevīgāka nekā citi privatizācijas paņēmieni vai metodes;
 3) lēmumu par uzņēmuma vai uzņēmējsabiedrības likvidāciju ir pieņēmusi institūcija, kurai saskaņā ar likumu «Par uzņēmējdarbību» ir dotas šādas tiesības.

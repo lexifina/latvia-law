@@ -1,2 +1,5 @@
-18. pants. Privatizējamā valsts īpašuma objekta novērtēšana
-Privatizējamais valsts īpašuma objekts jānovērtē saskaņā ar likumu «Par privatizējamo valsts un pašvaldību īpašuma objektu novērtēšanas kārtību».
+18. pants. Privatizējamā valsts īpašuma objekta novērtēšana un kreditoru saistību ievērošana
+1. Privatizējamais valsts īpašuma objekts jānovērtē saskaņā ar likumu "Par privatizējamo valsts un pašvaldību īpašuma objektu novērtēšanas kārtību".
+2. Privatizējamo valsts īpašuma objektu vērtē Privatizācijas aģentūra vai tās pilnvarotas juridiskās personas, kuras konkursa kārtībā noteikusi Privatizācijas aģentūra. Konkursā var piedalīties juridiskās personas, kuru darbiniekiem ir zvērināta revidenta licence un (vai) Valsts zemes dienesta izsniegta licence.
+3. Pēc šā likuma 16.panta otrajā daļā minētā termiņa beigām savas pretenzijas nepieteikušie kreditori, to skaitā valsts un pašvaldību institūcijas, kas ir atbildīgas par valsts un pašvaldību nodokļu un nodevu samaksas uzskaiti un kontroli, nevar prasīt, lai tiktu grozīta valsts īpašuma objekta privatizācijas noteikumos noteiktā privatizējamā objekta nosacītā cena un jaunajam objekta īpašniekam nododamo tiesību un saistību kopums.
+4. Privatizējamā valsts uzņēmuma vai statūtsabiedrības grāmatvedības reģistros fiksētie parādi Privatizācijas aģentūrai, veicot privatizējamā objekta novērtēšanu un nosakot tā nosacīto cenu, kā arī nosakot jaunajam objekta īpašniekam nododamo tiesību un saistību kopumu, jāņem vērā neatkarīgi no tā, vai kreditori savas pretenzijas ir pieteikuši vai nav pieteikuši.
