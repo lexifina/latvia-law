@@ -1,0 +1,1 @@
+2. Līdz šo pārejas noteikumu 1.punktā minēto Ministru kabineta noteikumu spēkā stāšanās dienai izveidotās valsts informācijas sistēmas reģistrējamas valsts informācijas sistēmu reģistrā sešu mēnešu laikā no minēto Ministru kabineta noteikumu spēkā stāšanās dienas.
