@@ -1,0 +1,1 @@
+1.pants. 2000.gada 22.maijā Rīgā parakstītā Latvijas Republikas valdības un Maltas valdības konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma nodokļiem (turpmāk - Konvencija) un tās 2000.gada 22.maijā Rīgā parakstītais protokols (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.

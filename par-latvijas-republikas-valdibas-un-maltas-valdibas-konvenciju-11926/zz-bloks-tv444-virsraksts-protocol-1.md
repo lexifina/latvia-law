@@ -1,0 +1,18 @@
+At the signing of the Convention between the Government of the Republic of Latvia and the Government of Malta for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income (hereinafter referred to as "the Convention") the undersigned have agreed upon the following provisions which form an integral part of the Convention.
+1. With reference to paragraph 3 of Article 4
+It is understood that under the domestic legislation in Latvia, a company may only be considered resident for tax purposes if it is incorporated in Latvia. Should such legislation be changed to provide for tax residence to be established also on the basis of the place of effective management of a company, then where a company is considered to be a resident of both Contracting States, it shall be deemed to be a resident only of the Contracting State in which its place of effective management is situated. This provision shall be applicable from the date from which the said change in legislation shall have effect.
+2. With reference to paragraph 1 of Article 7
+It is understood that profits of an enterprise of a Contracting State derived from the sale of goods or merchandise in the other Contracting State of the same or similar kind as those sold, or from other business activities carried on in the other Contracting State of the same or similar kind as those effected, through a permanent establishment situated in that other State may be considered attributable to that permanent establishment if it is established that such sales or activities were structured in a manner intended to avoid taxation in that other State.
+3. With reference to paragraph 3 of Article 7
+It is understood that the expenses to be allowed as deductions by a Contracting State shall include only expenses that are deductible under the domestic laws of that State.
+4. With reference to paragraph 2 of Article 27 it is understood that:
+a) in the case of Latvia, there is no legislation or administrative practice under which persons may enjoy special fiscal treatment;
+b) in the case of Malta, the persons who enjoy a special fiscal treatment are the following:
+(i) persons entitled to a special tax benefit under the Malta Financial Services Centre Act, 1994, except for those persons who opt to be subject to the normal provisions of the Income Tax Act (Cap. 123) and of the Income Tax Management Act, 1994; or
+(ii) persons who and to the extent to which under the provisions of the Merchant Shipping Act, 1973 are not subject to tax on the profits derived from the operation of ships in international traffic; or
+(iii) persons entitled to any special tax benefit in respect of distributions by a trust subject to the provisions of the Trusts Act given that a trust as laid down in that Act is not vested with legal personality and therefore cannot benefit under this Convention in its own right;
+c) if any law substantially similar to those indicated in sub-paragraph b) of this paragraph is enacted by either Contracting State and it is agreed by the competent authorities of the Contracting States that it be included within the terms of paragraph 2 of Article 27, persons entitled to any special tax benefit thereunder shall likewise be excluded from the provisions of this Convention.
+In witness whereof, the undersigned, duly authorised thereto, have signed this Protocol.
+Done in duplicate at Riga this 22 day of May 2000, in the Latvian and English languages, both texts being equally authentic. In the case of divergence of interpretation the English text shall prevail.
+For the Government of the Republic of LatviaFor the Government of Malta
+Gundars BērziņšJohn Dalli
