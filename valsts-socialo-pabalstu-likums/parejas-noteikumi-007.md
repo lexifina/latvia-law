@@ -1,0 +1,1 @@
+7. Personām, kurām bērna kopšanas pabalsts par bērna kopšanu vecumā līdz vienam gadam piešķirts līdz 2004.gada 31.decembrim, par bērna kopšanas periodu, kas nepārtraukti turpinās pēc 2005.gada 1.janvāra, pabalstu izmaksā arī gadījumā, ja persona Ministru kabineta noteiktajā kārtībā strādā nepilnu darba laiku

@@ -1,0 +1,7 @@
+8. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2005.gada 30.jūnijam piemērojami šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:
+1) Ministru kabineta 2003.gada 1.jūlija noteikumi Nr.355 "Noteikumi par ģimenes valsts pabalsta un piemaksas pie ģimenes valsts pabalsta par bērnu invalīdu apmēru, tā pārskatīšanas kārtību un pabalsta un piemaksas piešķiršanas un izmaksas kārtību";
+2) Ministru kabineta 2003.gada 8.jūlija noteikumi Nr.381 "Noteikumi par bērna piedzimšanas pabalsta apmēru, tā pārskatīšanas kārtību un pabalsta piešķiršanas un izmaksas kārtību";
+3) Ministru kabineta 2003.gada 29.jūlija noteikumi Nr.430 "Noteikumi par valsts sociālā nodrošinājuma pabalsta un apbedīšanas pabalsta apmēru, tā pārskatīšanas kārtību un pabalstu piešķiršanas un izmaksas kārtību";
+4) Ministru kabineta 2003.gada 1.jūlija noteikumi Nr.454 "Noteikumi par pabalsta apmēru transporta izdevumu kompensēšanai invalīdiem, kuriem ir apgrūtināta pārvietošanās, pabalsta apmēra pārskatīšanas kārtību un pabalsta piešķiršanas un izmaksas kārtību";
+5) Ministru kabineta 2003.gada 1.jūlija noteikumi Nr.367 "Noteikumi par atlīdzības par aizbildņa pienākumu pildīšanu apmēru, tā pārskatīšanas kārtību, kā arī atlīdzības piešķiršanas un izmaksas kārtību";
+6) Ministru kabineta 2003.gada 8.jūlija noteikumi Nr.380 "Noteikumi par pabalsta aizbildnim par bērna uzturēšanu apmēru, tā pārskatīšanas kārtību un pabalsta piešķiršanas un izmaksas kārtību".
