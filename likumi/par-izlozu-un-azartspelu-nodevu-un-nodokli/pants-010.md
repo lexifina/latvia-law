@@ -1,2 +1,2 @@
-10. pants. Azartspēļu nodoklis ir jāmaksā par katru ceturksni atbilstoši ceturkšņa pārskatā uzrādītajiem azartspēļu veidiem, spēļu galdu un automātu skaitam un proporcionāli noteiktajām gada likmēm kā viena ceturtā daļa no aprēķinātās gada kopējās nodokļa likmes.
-Azartspēļu nodoklis ir jāmaksā par iepriekšējo ceturksni 15 dienu laikā pēc ceturkšņa beigām.
+10. pants. Azartspēļu nodoklis ir jāmaksā par katru mēnesi atbilstoši uzņēmuma (uzņēmējsabiedrības) operatīvās uzskaites datos norādītajiem azartspēļu veidiem, spēļu galdu un automātu skaitam un proporcionāli noteiktajām gada likmēm kā viena divpadsmitā daļa no gada kopējās nodokļa likmes. Ceturkšņa pēdējā mēnesī papildus veicams nodokļa maksājuma izlīdzinājums par ceturksni kopumā atbilstoši ceturkšņa pārskatā apstiprinātajam iekārtu skaitam.
+Izložu un azartspēļu nodoklis ir jāmaksā par iepriekšējo mēnesi līdz nākamā mēneša 15.datumam (ieskaitot).
