@@ -11,4 +11,4 @@ Uzņēmumu reģistrs veic šādas funkcijas:
 9) izslēdz no Uzņēmumu reģistra uzņēmumus (uzņēmējsabiedrības), to filiāles, nodaļas vai pārstāvniecības, izdarot par to attiecīgu ierakstu Uzņēmumu reģistra žurnālā;
 10) publicē presē par uzņēmumu (uzņēmējsabiedrību) līdzekļiem likumos paredzētās ziņas par uzņēmumiem (uzņēmējsabiedrībām);
 11) veic savstarpēju informācijas apmaiņu ar valsts un pašvaldību institūcijām Ministru kabineta noteiktajā kārtībā un veidā;
-12) reģistrē masu informācijas līdzekļus, koncesiju līgumus, saskaņā ar Koncernu likumu - izšķirošo ietekmi un līdzdalību, ved sabiedrisko organizāciju reģistru, laulāto mantisko attiecību reģistru, komercķīlu reģistru, komercreģistru un citus reģistrus, kuri nodoti Uzņēmumu reģistram, kā arī veic citas likumos noteiktās funkcijas.
+12) reģistrē masu informācijas līdzekļus, koncesiju līgumus, saskaņā ar Koncernu likumu - izšķirošo ietekmi un līdzdalību, ved sabiedrisko organizāciju reģistru, arodbiedrību reģistru, laulāto mantisko attiecību reģistru, komercķīlu reģistru, komercreģistru un citus reģistrus, kuri nodoti Uzņēmumu reģistram, kā arī veic citas likumos noteiktās funkcijas.
