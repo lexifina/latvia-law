@@ -1,1 +1,1 @@
-21. Alfabētiskie rādītāji var būt arī kartotēkas veidā.
+21. Alfabētiskie rādītāji ir kartotēkas veidā.

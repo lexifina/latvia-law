@@ -4,4 +4,4 @@
 3) apliecinājums par trešās personas piekrišanu, kad pēc likuma šāda piekrišana ir nepieciešama nostiprinājumam;
 4) 106. panta 2. punktā paredzētās nodevas atkarībā no izdarāmā nostiprinājuma un pierādījumi par tā paša panta 1. punktā minēto nodevu samaksu;
 5) noraksti no uzrakstiem uz zemesgrāmatu aktiem (91. p.), ar kuriem personas, kam pieder jau nostiprinātas tiesības, tās kādā daļā pārgroza vai dzēš.
-Pievienotos dokumentus uzskaita nostiprinājuma lūgumā.
+Pievienotos dokumentus norāda nostiprinājuma lūgumā.

@@ -1,10 +1,10 @@
-62. Bez iepriekšējā (61.) pantā paredzētiem pielikumiem, iesniedzot nostiprinājuma lūgumu, jāuzrāda noteiktā kārtībā izgatavoti un reģistrēti plāni ar oriģināliem reģistrācijas uzrakstiem, kā arī tehniskās inventarizācijas dokumenti:
+62. Bez iepriekšējā (61.) pantā paredzētiem pielikumiem, iesniedzot nostiprinājuma lūgumu, pievienojami noteiktā kārtībā izgatavoti un reģistrēti zemes robežu plāni ar oriģināliem reģistrācijas uzrakstiem, kā arī uzrādāmi tehniskās inventarizācijas dokumenti:
 1) atklājot zemesgrāmatā nodalījumu nekustamam īpašumam, kas agrāk nemaz nav bijis ierakstīts zemesgrāmatā vai kam nodalījumi iznīcināti vai gājuši zudumā;
 2) sadalot nekustamu īpašumu, kuram atklāts atsevišķs nodalījums, vairākos patstāvīgos nekustamos īpašumos (36. p.);
 3) atdalot no nekustama īpašuma daļu, lai pievienotu to citam īpašumam (36. p.);
 4) savienojot vairākus vienam īpašniekam piederošus nekustamus īpašumus (37. p.);
 5) nostiprinot lietu tiesības uz nekustama īpašuma neatdalītu reālu daļu (34.p. 2.pk.).
-Plāni arī jāuzrāda:
+Plāni arī pievienojami:
 1) sadalot lauku nekustamu īpašumu par to daļu, kas patur agrāko nodalījumu, ja lietā jau atrodas visa sadalāmā īpašuma plāns;
 2) par nekustamu īpašumu, kuram pievieno cita īpašuma daļu, ja lietā jau ir šā nekustamā īpašuma plāns;
 3) par savienojamiem lauku nekustamiem īpašumiem, ja katra savienojamā īpašuma plāns jau ir zemesgrāmatu nodaļā; ja nodaļai ir dažu savienojamo īpašumu plāni, tad jāiesniedz tikai iztrūkstošie īpašumu plāni;
