@@ -1,2 +1,4 @@
-13.pants. Atsevišķu norēķinu kontu kārtošana
-Ja publiskās lietošanas dzelzceļa infrastruktūras pārvaldītājs ir arī pārvadātājs, tam jānodrošina atsevišķa grāmatvedības uzskaite un atsevišķu norēķinu kontu atvēršana un kārtošana.
+13.pants. Infrastruktūras pārvaldītāja funkciju nodalīšana
+(1) Ja publiskās lietošanas dzelzceļa infrastruktūras pārvaldītājs ir arī pārvadātājs, tam jānodrošina atsevišķa grāmatvedības uzskaite (finanšu pārskats) un publicēšana, kā arī atsevišķu norēķinu kontu atvēršana un kārtošana. Līdzekļus, ko valsts vai pašvaldības piešķir attiecīgajam dzelzceļa infrastruktūras pārvaldītājam, nedrīkst nodot pārvadātājam un otrādi.
+(2) Ja publiskās lietošanas dzelzceļa infrastruktūras pārvaldītājs ir arī pārvadātājs, tam jānodrošina, ka šos komercdarbības veidus veic atsevišķas struktūrvienības.
+(3) Ja publiskās lietošanas dzelzceļa infrastruktūras pārvaldītājs sniedz arī dzelzceļa pārvadājumu pakalpojumus, maksu par dzelzceļa infrastruktūras izmantošanu nosaka Sabiedrisko pakalpojumu regulēšanas komisija saskaņā ar likumu "Par sabiedrisko pakalpojumu regulatoriem".
