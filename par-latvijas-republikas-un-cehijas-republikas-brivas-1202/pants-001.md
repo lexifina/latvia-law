@@ -1,0 +1,1 @@
+1.pants. 2000.gada 14.decembrī Prāgā parakstītais Latvijas Republikas un Čehijas Republikas brīvās tirdzniecības līguma Apvienotās komitejas lēmums Nr. 1/2000 (turpmāk - Lēmums) ar šo likumu tiek pieņemts un apstiprināts.
