@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par informācijas institūcijām attiecībā uz reglamentētajām profesijām",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "107",
+  "official_journal_page": null,
+  "official_journal_date": "2002-07-19",
+  "entry_into_force": "2003-01-01",
+  "notification_date": "2008-01-16",
+  "commission_reference": "MNE(2008)50456",
+  "nim_celex": "72005L0036LVA_152828",
+  "nim_id": "152828",
+  "transposes_celex": [
+    "32005L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c6372c0f-29b6-4b8a-90d0-75ea2f3cbd42",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
