@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par higiēnas prasībām gaļas un gaļas produktu uzglabāšanai un transportēšanai",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "244/246",
+  "official_journal_page": null,
+  "official_journal_date": "2000-06-30",
+  "entry_into_force": null,
+  "notification_date": "2004-07-21",
+  "commission_reference": "MNE(2004)50013",
+  "nim_celex": "71995L0068LVA_30013",
+  "nim_id": "30013",
+  "transposes_celex": [
+    "31995L0068"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3987c4da-f8d0-4805-a4dc-b44c3f0d0ce0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
