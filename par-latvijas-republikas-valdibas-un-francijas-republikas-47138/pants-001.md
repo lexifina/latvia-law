@@ -1,0 +1,1 @@
+1.pants. 1997.gada 5.decembrī Rīgā parakstītais Latvijas Republikas valdības un Francijas Republikas valdības nolīgums jūrniecības jomā (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
