@@ -1,0 +1,1 @@
+1.pants. 1998.gada 29.jūnijā Rīgā parakstītais Latvijas Republikas un Apvienoto Nāciju Izglītības, zinātnes un kultūras organizācijas (UNESCO) sadarbības memorands (turpmāk - Memorands) ar šo likumu tiek pieņemts un apstiprināts.

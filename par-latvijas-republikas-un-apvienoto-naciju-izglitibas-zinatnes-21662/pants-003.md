@@ -1,0 +1,1 @@
+3.pants. Memorands stājas spēkā dienā, kad Latvijas Republika paziņo UNESCO par visu to valsts iekšējo procedūru izpildi, kādas nepieciešamas, lai tas stātos spēkā, un par Memoranda stāšanos spēkā Ārlietu ministrija paziņo laikrakstā "Latvijas Vēstnesis".
