@@ -1,14 +1,14 @@
 1. 2005.gada 1.janvārī spēku zaudē:
-1) likums "Par uzņēmējdarbību" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1990, 42.nr.; 1991, 27./28.nr; 1992, 22./23.nr.; 1993, 3./4., 12./13., 18./19., 20./21., 22./23.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 6., 14.nr.; 1995, 10., 24.nr.; 1996, 21.nr.; 1997, 13.nr.; 1998, 1.nr.; 2000, 10.nr., 13.nr.);
+1) (izslēgts ar 04.11.2004. likumu);
 2) likums "Par līgumsabiedrībām" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 11./12.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 22.nr.);
-3) likums "Par sabiedrībām ar ierobežotu atbildību" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 9./10., 23./24.nr.; 1992, 22./23.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 3.nr.; 1996, 21.nr.; 1997, 13.nr.; 2000, 10.nr.; 2001, 14.nr.);
-4) likums "Par akciju sabiedrībām" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1993, 24./25.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 17.nr.; 1995, 3., 20.nr.; 1996, 21.nr.; 1997, 13.nr.; 1998, 7.nr.; 1999, 18.nr.; 2000, 2., 10.,13.nr.; 2001, 14.nr.);
+3) (izslēgts ar 04.11.2004. likumu);
+4) (izslēgts ar 04.11.2004. likumu);
 5) likums "Par ārvalstu ieguldījumiem Latvijas Republikā" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 46.nr.; 1993, 10./11.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 13.nr.; 1995, 9.nr.; 1996, 19.nr.);
-6) likums "Par valsts un pašvaldību uzņēmumu pārveidošanu statūtsabiedrībās" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 16.nr.; 2000, 2.nr.);
+6) (izslēgts ar 04.11.2004. likumu);
 7) likums "Par valsts un pašvaldību kapitāla daļu pārvaldi uzņēmējsabiedrībās" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 16.nr.; 1997, 3., 22.nr.; 1998, 15.nr.; 2001, 1.nr.);
 8) likums "Par paju sabiedrībām" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 22.nr.; 2000, 10.nr.);
-9) likums "Par valsts uzņēmumu" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 29./31.nr.; 1993, 22./23.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 17.nr.; 1996, 1., 13.nr.; 2001, 14.nr.);
-10) likums "Par pašvaldības uzņēmumu" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 17./18.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 3.nr.; 1996, 22.nr.);
+9) (izslēgts ar 04.11.2004. likumu);
+10) (izslēgts ar 04.11.2004. likumu);
 11) likums "Par valsts un pašvaldību uzņēmumu nomu un nomu ar izpirkumu" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1993, 8./9.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 21.nr.);
 12) likums "Par lauksaimniecības uzņēmumu un zvejnieku kolhozu privatizāciju" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 31./32.nr.; 1992, 39./40./41.nr.; 1993, 5./6.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 1., 22.nr.; 1998, 1.nr.);
 13) Augstākās padomes Prezidija 1992.gada 5.marta lēmums "Par valsts kapitāla daļas apstiprināšanu specializētajos lauksaimniecības uzņēmumos" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 13.nr.);
@@ -22,4 +22,4 @@
 21) Augstākās padomes Prezidija 1993.gada 11.februāra lēmums "Par Latvijas Republikas 1991.gada 21.jūnija likuma "Par lauksaimniecības uzņēmumu un zvejnieku kolhozu privatizāciju" atsevišķu pantu piemērošanu" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1993, 8.nr.);
 22) Augstākās padomes Prezidija 1993.gada 9.jūnija lēmums "Par grozījumiem Latvijas Republikas Augstākās padomes Prezidija 1991.gada 9.maija lēmumā "Par selekcijas, izmēģinājumu, zinātniskās pētniecības, mācību un atsevišķu specializēto valsts saimniecību saraksta apstiprināšanu"" (Latvijas Vēstnesis, 1993, 45.nr.);
 23) Augstākās padomes Prezidija 1991.gada 12.decembra lēmums "Par lauksaimniecības uzņēmumu privatizācijas komisiju" (nav publicēts);
-24) Augstākas padomes 1991.gada 17.decembra lēmums "Par kārtību, kādā no Latvijas Republikas budžeta dzēšami privatizēto lauksaimniecības uzņēmumu un zvejnieku kolhozu kredīti" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 4.nr.).
+24) Augstākās padomes 1991.gada 17.decembra lēmums "Par kārtību, kādā no Latvijas Republikas budžeta dzēšami privatizēto lauksaimniecības uzņēmumu un zvejnieku kolhozu kredīti" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 4.nr.).
