@@ -1,0 +1,1 @@
+3. Līdz 2002.gada 31.martam pašvaldību domes (padomes) izskata jautājumu par iespējām sniegt iedzīvotājiem šā likuma 23., 24., 26. un 27.pantā paredzēto pašvaldības palīdzību un pieņem lēmumu par attiecīgā veida pašvaldības palīdzības sniegšanu tās administratīvajā teritorijā.

@@ -1,0 +1,1 @@
+5. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par valsts un pašvaldību palīdzību dzīvokļa jautājumu risināšanā" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs,1993, 20./21.nr.; 1994, 12.nr.; 1996, 1.nr.; 1997, 23.nr.; 1999, 11.nr.).

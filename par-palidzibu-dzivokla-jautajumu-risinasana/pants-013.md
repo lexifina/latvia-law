@@ -1,0 +1,3 @@
+13.pants. Personas, kurām neatliekami sniedzama pašvaldības palīdzība
+(1) Ja stihiskas nelaimes vai avārijas rezultātā personas īrētā vai īpašumā esošā dzīvojamā telpa vai dzīvojamā māja ir gājusi bojā vai daļēji sagruvusi un attiecīgā persona ir iesniegusi pašvaldībai iesniegumu palīdzības saņemšanai, šai personai neatliekami sniedzama pašvaldības palīdzība, izīrējot tai dzīvojamo telpu šā likuma III nodaļā noteiktajā kārtībā vai piešķirot vienreizēju pabalstu šā likuma 26.pantā noteiktajā kārtībā.
+(2) Lēmumu par palīdzības sniegšanu attiecīgajai personai pašvaldības dome (padome) vai tās deleģēta institūcija pieņem 24 stundu laikā pēc personas iesnieguma saņemšanas, neveicot šā likuma 7.pantā paredzēto šīs personas reģistrāciju pašvaldības palīdzības saņemšanai.

@@ -1,0 +1,3 @@
+4.pants. Pašvaldība, kura sniedz palīdzību
+(1) Pašvaldības palīdzību personai sniedz tā pašvaldība, kuras administratīvajā teritorijā attiecīgā persona deklarējusi savu dzīvesvietu, izņemot šā likuma 14.panta pirmās daļas 3., 4. un 5.punktā, kā arī šā panta otrajā daļā minēto gadījumu.
+(2) Pašvaldībai ir tiesības sniegt palīdzību arī tām šā likuma 13. un 14.pantā minētajām personām, kuras nav deklarējušas savu dzīvesvietu tās administratīvajā teritorijā, ja vien šī pašvaldība ir sniegusi attiecīgā veida palīdzību visām personām, kuras deklarējušas savu dzīvesvietu tās teritorijā un ir reģistrētas pašvaldības palīdzības saņemšanai vai kuras deklarējušas savu dzīvesvietu tās teritorijā un kurām neatliekami sniedzama pašvaldības palīdzība.
