@@ -2,6 +2,7 @@
 1. janvāri - Jaungada dienu;
 Lielo Piektdienu un Pirmās Lieldienas un otro Lieldienu dienu;
 1. maiju - Darba svētkus, Latvijas Republikas Satversmes sapulces sasaukšanas dienu;
+4. maiju - Latvijas Republikas Neatkarības deklarācijas pasludināšanas dienu;
 maija otro svētdienu - Mātes dienu;
 Vasarsvētkus;
 23. jūniju - Līgo dienu;
