@@ -1,1 +1,1 @@
-Šis likums nosaka nacionālas drošības jēdzienu un saturu, valsts drošības iestāžu darbības tiesisko pamatu, mērķus un uzdevumus, pienākumus un atbildību, kā arī reglamentē šo iestāžu darbības finansēšanas, uzraudzības un kontroles kārtību.
+(Preambula izslēgta ar 27.06.2002. likumu, kas stājas spēkā 24.07.2002.)
