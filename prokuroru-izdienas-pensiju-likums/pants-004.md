@@ -1,0 +1,7 @@
+4.pants. Izdienas pensijas aprēķināšana un līdzekļi izdienas pensijas izmaksai
+(1) Prokuroram, kurš sasniedzis 50 gadu vecumu, un ģenerālprokuroram neatkarīgi no vecuma izdienas pensiju piešķir 55 procentu apmērā no vidējās mēneša darba algas un par katru izdienas stāža gadu virs 20 gadiem to palielina par diviem procentiem no šā likuma 5.pantā minētās darba samaksas.
+(2) Prokuroram, kurš neatkarīgi no vecuma atbilstoši Veselības un darbspēju ekspertīzes ārstu valsts komisijas slēdzienam atbrīvots no amata veselības stāvokļa dēļ, izdienas pensiju piešķir 40 procentu apmērā no vidējās mēneša darba algas un par katru izdienas stāža gadu virs 20 gadiem to palielina par diviem procentiem no šā likuma 5.pantā minētās darba samaksas.
+(3) Maksimālais izdienas pensijas apmērs nedrīkst pārsniegt 80 procentus no šā likuma 5.pantā minētās darba samaksas.
+(4) Minimālais izdienas pensijas apmērs nedrīkst būt mazāks par valsts sociālā nodrošinājuma pabalsta apmēru.
+(5) Izdienas pensiju izmaksā no valsts pamatbudžeta līdzekļiem, kas piešķirti prokuratūrai saskaņā ar gadskārtējā valsts budžeta likuma apropriāciju.
+(6) Izdienas pensijas saņēmējam vecuma pensija tiek piešķirta saskaņā ar likumu "Par valsts pensijām". No likumā "Par valsts pensijām" vecuma pensijas piešķiršanai noteiktā vecuma sasniegšanas līdz vecuma pensijas piešķiršanai tiek pārtraukta izdienas pensijas izmaksa. Pēc vecuma pensijas piešķiršanas atjauno izdienas pensijas izmaksu, samazinot to par piešķirtās vecuma pensijas apmēru.

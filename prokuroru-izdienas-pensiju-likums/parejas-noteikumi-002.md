@@ -1,0 +1,1 @@
+2. Prokuroriem, kuri atbrīvoti no amata laikā no 1994.gada 1.jūlija līdz 1999.gada 31.decembrim, izdienas pensiju aprēķina no vidējās mēneša darba algas par pēdējo gadu pirms atbrīvošanas no prokurora amata. Darba samaksā par nostrādāto laiku no 1993.gada 1.jūlija līdz 1994.gada 1.jūlijam ietilpst amatalga, piemaksa par dienesta pakāpi, piemaksa par izdienu un prēmija.
