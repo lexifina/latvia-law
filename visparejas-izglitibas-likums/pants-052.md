@@ -1,4 +1,2 @@
-52.pants. Izglītojamo uzņemšana speciālās izglītības iestādēs
-(1) Valsts speciālās izglītības iestādēs un citās valsts izglītības iestādēs izglītojamos ar speciālām vajadzībām uzņem, pamatojoties uz Valsts pedagoģiski medicīniskās komisijas norīkojumu. Izglītojamos atskaita no valsts speciālās izglītības iestādēm un citām valsts izglītības iestādēm, pamatojoties uz Valsts pedagoģiski medicīniskās komisijas atzinumu un vecāku iesniegumu.
-(2) Pašvaldību speciālās izglītības iestādēs un citās pašvaldību izglītības iestādēs izglītojamos ar speciālām vajadzībām uzņem, pamatojoties uz valsts vai pašvaldības pedagoģiski medicīniskās komisijas norīkojumu. Izglītojamos atskaita no pašvaldību speciālās izglītības iestādēm un citām pašvaldību izglītības iestādēm, pamatojoties uz valsts vai pašvaldības pedagoģiski medicīniskās komisijas atzinumu un vecāku iesniegumu.
-(3) Privātās speciālās izglītības iestādēs un citās privātās izglītības iestādēs izglītojamos ar speciālām vajadzībām uzņem un no tām atskaita, pamatojoties uz valsts vai pašvaldības pedagoģiski medicīniskās komisijas ieteikumu un vecāku iesniegumu.
+52.pants. Izglītojamo uzņemšana un atskaitīšana speciālajās izglītības iestādēs
+Izglītojamo uzņemšana speciālajās izglītības iestādēs un atskaitīšana no tām notiek Ministru kabineta noteiktajā kārtībā.

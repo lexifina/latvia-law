@@ -5,4 +5,4 @@
 2) pašvaldību speciālās izglītības iestādes. Tās ir speciālās internātskolas (skolas), attīstības vai rehabilitācijas centri, kuros mācās lielākoties attiecīgās pašvaldības administratīvajā teritorijā dzīvojoši izglītojamie ar speciālām vajadzībām;
 3) privātās speciālās izglītības iestādes.
 (3) Speciālās izglītības klase ir vispārējās izglītības iestādes klase, kurā mācās izglītojamie ar speciālām vajadzībām. Speciālās izglītības klasi var atvērt arī izglītības iestādē, kas īsteno profesionālās izglītības programmas.
-(4) Izglītības un zinātnes ministrija var piešķirt speciālās izglītības iestādei attīstības centra statusu, ja šī iestāde veic metodiskā darba funkcijas vispārējās un profesionālās izglītības iestādēs un sniedz speciālu palīdzību izglītojamajiem, vecākiem un pedagogiem.
+(4) Speciālās izglītības iestādei speciālās izglītības attīstības centra statusu var piešķirt Ministru kabineta noteiktajā kārtībā.
