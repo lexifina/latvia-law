@@ -1,0 +1,2 @@
+II nodaļa
+Dizainparaugu tiesiskās aizsardzības priekšnoteikumi

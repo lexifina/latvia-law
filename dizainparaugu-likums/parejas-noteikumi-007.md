@@ -1,0 +1,1 @@
+7. Dizainparaugu patentiem, kuri šā likuma spēkā stāšanās dienā ir spēkā vai kuru darbības termiņš beidzies ne agrāk kā sešus mēnešus pirms šā likuma stāšanās spēkā, darbības termiņu var pagarināt līdz šajā likumā noteiktajam 25 gadu periodam, ar nepieciešamajām izmaiņām piemērojot šā likuma 31.pantā noteikto kārtību.

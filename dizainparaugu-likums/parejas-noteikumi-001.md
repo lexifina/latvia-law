@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta noteikumi Nr.252 "Dizainparaugu noteikumi" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2004, 13.nr.).

@@ -1,0 +1,1 @@
+4. Šā likuma 16.panta pirmo daļu, kas vienā kompleksā pieteikumā ļauj ietvert tikai tādus dizainparaugus, kuri attiecas uz vienu un to pašu Dizainparaugu starptautiskās klasifikācijas (Lokarno klasifikācijas) klasi, piemēro ar dienu, kad Latvijā stājas spēkā 1968.gada 8.oktobra Lokarno nolīgums par dizainparaugu starptautiskās klasifikācijas izveidošanu.

@@ -1,0 +1,3 @@
+47.pants. Brīdinājuma marķējums
+(1) Reģistrēta dizainparauga īpašniekam un licenciātam ir tiesības marķēt izstrādājumus, kuros šis dizainparaugs īstenots vai iekļauts, ar brīdinājuma marķējumu (apzīmējumu) - aplī ietvertu burtu D - vai tekstu, kas brīdina par dizainparauga reģistrāciju. Brīdinājuma marķējumā var ietvert dizainparauga īpašnieka vārdu (nosaukumu) vai zīmi un norādīt reģistrācijas vai pieteikuma datumu.
+(2) Brīdinājuma marķējumu nedrīkst izvietot uz izstrādājumiem, uz kuriem neattiecas vai vairs neattiecas dizainparauga aizsardzība. Ja šis nosacījums netiek ievērots, piemērojami normatīvo aktu noteikumi par negodīgu konkurenci.

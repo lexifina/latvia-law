@@ -1,0 +1,5 @@
+7.pants. Izpaušana
+(1) Dizainparaugs uzskatāms par izpaustu sabiedrībai, ja tas publicēts sakarā ar reģistrāciju, demonstrēts izstādē, lietots komercdarbībā vai citādi kļuvis pieejams sabiedrībai.
+(2) Dizainparaugs nav uzskatāms par izpaustu sabiedrībai, ja šā panta pirmajā daļā minētās darbības, izņemot publicēšanu sakarā ar reģistrāciju, parastā notikumu gaitā nevarēja kļūt zināmas attiecīgās nozares speciālistiem, kas darbojas Eiropas Kopienā.
+(3) Dizainparaugs nav uzskatāms par izpaustu sabiedrībai, ja tas trešajai personai izpausts ar tieši izteiktiem vai netiešiem konfidencialitātes nosacījumiem.
+(4) Dizainparauga izpaušana sabiedrībai nekaitē dizainparauga novitātei un individuālajam raksturam, ja dizainparaugu izpaudis pats dizainers vai viņa tiesību pārņēmējs, vai trešā persona, izmantojot informāciju, kas tieši vai netieši iegūta no dizainera vai viņa tiesību pārņēmēja, un ja izpaušana notikusi 12 mēnešu laikposmā pirms reģistrācijas pieteikuma datuma vai prioritātes datuma. Šis noteikums attiecināms arī uz tiem gadījumiem, kad dizainparaugs darīts zināms sabiedrībai, apzināti neievērojot dizainera vai viņa tiesību pārņēmēja tiesības.

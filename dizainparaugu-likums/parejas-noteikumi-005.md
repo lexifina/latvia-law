@@ -1,0 +1,1 @@
+5. Dizainparaugiem, kuri Patentu valdē pieteikti pirms šā likuma spēkā stāšanās, piemēro dizainparaugu patentu izdošanas vai dizainparaugu reģistrācijas kārtību, patentspējas noteikumus vai tiesiskās aizsardzības priekšnoteikumus un apstrīdēšanas noteikumus, kas bija spēkā dienā, kurā tika iesniegts dizainparauga pieteikums.

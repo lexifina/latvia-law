@@ -1,0 +1,5 @@
+8.pants. Dizainparauga tiesiskās aizsardzības apjoms
+(1) Reģistrēta dizainparauga tiesiskās aizsardzības apjoms aptver jebkuru dizainparaugu (izstrādājuma vai tā daļas ārējo veidolu), kurš uz informētu lietotāju neatstāj citādu kopiespaidu.
+(2) Dizainparauga tiesiskās aizsardzības apjomu vērtē, pamatojoties uz reģistrācijā un oficiālajā publikācijā ietvertajos attēlos redzamajām dizainparauga īpatnībām, uz kurām saskaņā ar šo likumu attiecas tiesiskā aizsardzība. Ja dizainparauga reģistrācijas pieteikumam pievienots izstrādājuma paraugs, vienlaikus ar attēliem ņem vērā arī izstrādājuma parauga īpatnības, ciktāl tās nav pretrunā ar attēliem.
+(3) Novērtējot dizainparauga tiesiskās aizsardzības apjomu, ņem vērā to, cik lielā mērā dizainers dizainparauga izstrādāšanā bijis atkarīgs no izstrādājuma iedabas un rūpniecības vai amatniecības nozares īpatnībām.
+(4) Dizainparauga tiesiskās aizsardzības apjomu neietekmē tā izstrādājuma nosaukums, kurā dizainparaugu paredzēts īstenot vai iekļaut, Dizainparaugu starptautiskās klasifikācijas (Lokarno klasifikācijas) indekss, kā arī dizainparauga apraksts (ja tas pievienots dizainparauga reģistrācijas pieteikumam).

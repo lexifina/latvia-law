@@ -1,0 +1,3 @@
+21.pants. Lēmums par dizainparauga reģistrācijas atteikumu
+(1) Patentu valde pieņem lēmumu par dizainparauga reģistrācijas atteikumu, ja pieteikuma formālo prasību pārbaudes gaitā kļūst acīmredzams, ka pieteiktais dizainparaugs neatbilst dizainparauga definīcijai (1.panta 1.punkts) vai saskaņā ar šā likuma 9.panta pirmo daļu nav aizsargājams.
+(2) Pirms lēmuma pieņemšanas Patentu valde rakstveidā iepazīstina pieteicēju ar paredzamā reģistrācijas atteikuma pamatojumiem, sniedzot pieteicējam iespēju triju mēnešu laikā izteikt savus apsvērumus, atsaukt pieteikumu vai to grozīt (uzturēt spēkā mainītā formā), ievērojot šā likuma 39.panta otrās daļas noteikumus.

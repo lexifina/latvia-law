@@ -1,0 +1,4 @@
+41.pants. Ar dizainparaugiem saistīto īpašuma tiesību būtība
+(1) Tiesības uz dizainparaugu, kas pamatojas uz reģistrāciju vai tās pieteikumu, tiesiskā režīma ziņā pielīdzināmas tiesībām uz kustamu mantu Civillikuma izpratnē, bet nevar būt par īpašuma prasības objektu.
+(2) Dizainparaugus, kas ietverti kompleksā pieteikumā vai kompleksā reģistrācijā, var nodot, arī noslēdzot licences līgumu, vai citādi iekļaut civiltiesiskajā apritē neatkarīgi citu no cita.
+(3) Dizainparauga nodošana citai personai (42.pants) un licences izdošana (43.pants) neskar licences, kas pirms tam izdotas trešajām personām. Taču, ja persona tiesā ceļ prasību par tiesību atzīšanu uz dizainparaugu, tā var arī prasīt, lai iepriekš piešķirtās licences un dizainparauga apgrūtinājumi tiktu atzīti par spēku zaudējušiem, ciktāl tie neattiecas uz tiesību pārņēmēju vai uzliek tam nepamatotus pienākumus.

@@ -1,0 +1,7 @@
+30.pants. Dizainparaugu reģistrācijas sadalīšana
+(1) Kompleksu reģistrāciju var sadalīt divās vai vairākās atsevišķās reģistrācijās, sadalot starp tām sākotnējā reģistrācijā ietvertos dizainparaugus. Nodalītā reģistrācija saglabā sākotnējās reģistrācijas pieteikuma datumu un prioritāti.
+(2) Lūgumu par reģistrācijas sadalīšanu var iesniegt tikai pēc šā likuma 28.panta pirmajā daļā paredzētā iebildumu iesniegšanas termiņa (iebildumu perioda) beigām.
+(3) Iesniedzot lūgumu par reģistrācijas sadalīšanu, dizainparauga īpašnieks norāda, kuri dizainparaugi atstājami sākotnējā reģistrācijā un kuri ietverami nodalītajā reģistrācijā (reģistrācijās), kā arī attiecībā uz katru nodalīto reģistrāciju samaksā valsts nodevu par dizainparauga reģistrāciju un publikāciju.
+(4) Ja mēneša laikā no dienas, kad Patentu valde saņēmusi lūgumu par reģistrācijas sadalīšanu, noteiktā valsts nodeva nav samaksāta, lūgumu uzskata par atsauktu un par to rakstveidā paziņo dizainparauga īpašniekam.
+(5) Patentu valde iespējami īsā laikposmā reģistrā iekļauj nodalīto reģistrāciju un grozījumus attiecībā uz sākotnējo reģistrāciju, publicē Patentu valdes oficiālajā izdevumā attiecīgus paziņojumus, kā arī izsniedz reģistrācijas apliecību par nodalīto reģistrāciju un papildina sākotnējās reģistrācijas apliecību saskaņā ar šā likuma 25.panta ceturto daļu un 33.panta otro daļu.
+(6) Pēc tam, kad nodalītās reģistrācijas ziņas sagatavotas reģistrācijai un publikācijai, lūgumu par reģistrācijas sadalīšanu nevar atsaukt.

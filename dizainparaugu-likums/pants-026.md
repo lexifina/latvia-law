@@ -1,0 +1,2 @@
+26.pants. Apelācijas iesniegšana
+Pieteicējs vai cits Patentu valdes lēmuma adresāts (dizainparauga īpašnieks, bijušais īpašnieks, īpašumtiesību pārņēmējs, licenciāts), kas pilnībā vai daļēji nepiekrīt pieteikuma izskatīšanas rezultātiem vai citā ar dizainparauga reģistrāciju saistītas procedūras posmā pieņemtajam Patentu valdes lēmumam, ir tiesīgs triju mēnešu laikā no lēmuma saņemšanas dienas, samaksājot attiecīgu valsts nodevu, iesniegt Patentu valdei motivētu rakstveida apelāciju. Apelācijas iesniegšana aptur Patentu valdes lēmuma izpildi.

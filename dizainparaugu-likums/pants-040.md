@@ -1,0 +1,3 @@
+40.pants. Dizainparauga izslēgšana no reģistra pēc reģistrācijas termiņa beigām
+(1) Patentu valde izslēdz dizainparaugu no reģistra, ja beidzies kārtējais dizainparauga reģistrācijas piecu gadu termiņš, bet reģistrācija nav atjaunota šā likuma 31.pantā noteiktajā kārtībā vai ja ir beidzies dizainparauga reģistrācijas galīgais 25 gadu termiņš.
+(2) Šā panta pirmajā daļā noteiktajos gadījumos dizainparaugu izslēdz no reģistra nākamajā dienā pēc tam, kad beidzies dizainparauga reģistrācijas termiņš. Patentu valde publicē Patentu valdes oficiālajā izdevumā attiecīgu paziņojumu un nosūta to dizainparauga īpašniekam.

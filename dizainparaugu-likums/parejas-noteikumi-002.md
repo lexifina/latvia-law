@@ -1,0 +1,1 @@
+2. Nosakot novitāti un individuālo raksturu dizainparaugam, kas pieteikts Patentu valdē laikā no 2004.gada 15.aprīļa līdz 30.aprīlim, uzskata, ka dizainparaugs nav izpausts sabiedrībai, ja tas nav bijis zināms no atklātām publikācijām Latvijā vai ārvalstīs vai no atklātas izmantošanas faktiem Latvijā.

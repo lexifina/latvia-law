@@ -1,0 +1,5 @@
+14.pants. Iepriekšlietojuma tiesības
+(1) Iepriekšlietojuma tiesības saglabā persona, kas pirms dizainparauga reģistrācijas pieteikuma datuma vai prioritātes datuma labā ticībā uzsākusi Latvijā izmantot dizainparaugu (izstrādājuma vai tā daļas ārējo veidolu), kurš ietilpst minētā aizsargājamā dizainparauga tiesiskās aizsardzības apjomā, bet nav kopēts no tā (atdarināts), vai veikusi šādai izmantošanai nepieciešamus nopietnus un efektīvus priekšdarbus.
+(2) Iepriekšlietojuma tiesības ļauj šā panta pirmajā daļā minētajai personai izmantot dizainparaugu tiem nolūkiem, kuriem pirms dizainparauga reģistrācijas pieteikuma datuma vai attiecīgi prioritātes datuma tika uzsākta tā izmantošana vai veikti nopietni un efektīvi priekšdarbi.
+(3) Iepriekšlietojuma tiesības neietver tiesības piešķirt citai personai dizainparauga izmantošanas licenci.
+(4) Iepriekšlietojuma tiesības citai personai var nodot tikai kopā ar to uzņēmumu vai uzņēmuma daļu, kura darbībā dizainparauga izmantošana tika uzsākta vai veikti minētie priekšdarbi.
