@@ -1,0 +1,1 @@
+1.pants. 1999.gada 20.maijā Varšavā parakstītais Latvijas Republikas un Portugāles Republikas nolīgums par pasažieru un kravu starptautiskajiem pārvadājumiem ar autotransportu (turpmāk - Nolīgums) un tā protokols (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.
