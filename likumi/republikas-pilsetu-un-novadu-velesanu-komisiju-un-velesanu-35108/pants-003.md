@@ -2,4 +2,4 @@
 (2) Vēlēšanu komisiju un iecirkņu komisiju darbība domes (padomes) vēlēšanu sagatavošanā un sarīkošanā tiek finansēta attiecīgi no pilsētas, novada vai pagasta budžeta.
 (3) (Izslēgta ar 19.06.1998. likumu.)
 (4) (Izslēgta ar 19.06.1998. likumu.)
-(5) Vēlēšanu (balsošanas) sarīkošanai nepieciešamās materiālās vērtības ir pašvaldības manta.
+(5) Vēlēšanu (balsošanas) sarīkošanai nepieciešamās materiālās vērtības ir pašvaldības manta. Ja vēlēšanu (balsošanas) sarīkošanai nepieciešamas pašvaldības īpašumā (valdījumā) esošās telpas, tās ierādāmas bez maksas.
