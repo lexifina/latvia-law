@@ -2,4 +2,4 @@
 1) šā likuma 23.panta pirmajā daļā noteiktā apbedīšanas pabalsta apmērs nedrīkst būt mazāks par 150 latiem;
 2) šā likuma 23.panta otrajā daļā noteiktā apbedīšanas pabalsta apmērs ir 100 latu;
 3) šā likuma 31.panta otrajā daļā noteiktajos gadījumos valsts sociālās apdrošināšanas pabalstu aprēķina no 50 latiem;
-4) šā likuma 31.panta ceturtajā daļā noteiktā kalendāra dienas vidējā apdrošināšanas iemaksu alga pabalstu aprēķināšanai nedrīkst pārsniegt 50 procentus no 1/365 no valsts sociālās apdrošināšanas obligāto iemaksu objekta gada maksimālā apmēra, kas bija spēkā apdrošināšanas gadījuma iestāšanās dienā.
+4) (izslēgts ar 30.10.2003. likumu).
