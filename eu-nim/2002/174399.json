@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Teritorijas plānošanas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "88 (2663)",
+  "official_journal_page": null,
+  "official_journal_date": "2002-06-12",
+  "entry_into_force": "2002-06-26",
+  "notification_date": "2010-12-14",
+  "commission_reference": "MNE(2010)57463",
+  "nim_celex": "72009L0028LVA_174399",
+  "nim_id": "174399",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/3949e7c1-244d-4ded-9a1f-56668c698074",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
