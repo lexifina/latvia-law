@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Par Latvijas Republikas Uzņēmumu reģistru ar grozījumiem, kas izsludināti līdz 26.03.2008",
+  "type_of_act": "Likums",
+  "official_journal": "LR Augstākās Padomes un Valdības Ziņotājs",
+  "official_journal_reference": "49",
+  "official_journal_page": null,
+  "official_journal_date": "1990-12-06",
+  "entry_into_force": "1990-12-01",
+  "notification_date": "2008-06-26",
+  "commission_reference": "MNE(2008)53686",
+  "nim_celex": "72003L0058LVA_156610",
+  "nim_id": "156610",
+  "transposes_celex": [
+    "32003L0058"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cae8c963-5d80-48fa-8ea9-5e78f4173864",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
