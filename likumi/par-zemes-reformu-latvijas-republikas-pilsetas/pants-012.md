@@ -12,7 +12,10 @@ Piezīme. Ja bijušajiem zemes īpašniekiem vai viņu mantiniekiem pieder dzīv
 - vai saņemt kompensāciju likumā noteiktajā kārtībā.
 (4) Ar pilsētas pašvaldības lēmumu var noteikt, ka līdzvērtīga zemes gabala vietā piešķirama tikai kompensācija, ja pilsētas administratīvajās robežās nav pietiekamu zemes platību, lai apmierinātu visus pieprasītājus. Šādu pašvaldības lēmumu var pārsūdzēt tiesā.
 (5) Dzīvojamās ēkas īpašniekam - Latvijas Republikas pilsonim, kurš zemes pieprasījumu iesniedzis pēc 1992. gada 20. jūnija, ir tiesības saņemt apbūves zemes gabalu īpašumā par maksu šā panta pirmās daļas 1. un 2. punktā noteiktajā kārtībā, ja šo zemes gabalu nav pieprasījuši bijušie zemes īpašnieki vai viņu mantinieki vai viņi pieprasījuši par to kompensāciju likumā noteiktajā kārtībā.
-(6) Bijušajiem zemes īpašniekiem vai viņu mantiniekiem, kuri nav iesnieguši pieprasījumus šā likuma 6. panta 1. punktā noteiktajā termiņā, ir tiesības pieprasīt zemes īpašuma tiesību atjaunošanu līdz 1994. gada 1. jūnijam. Šā termiņa nokavēšanas gadījumā īpašuma tiesības var atjaunot tiesa, ja prasības pieteikums tiesā iesniegts līdz 1999.gada 1.jūnijam.
+(6) Bijušajiem zemes īpašniekiem vai viņu mantiniekiem, kuri nav iesnieguši pieprasījumus šā likuma 6. panta 1. punktā noteiktajā termiņā, ir tiesības pieprasīt zemes īpašuma tiesību atjaunošanu līdz 1994. gada 1. jūnijam. Šā termiņa nokavēšanas gadījumā zemes īpašuma tiesības var atjaunot tiesa, izņemot gadījumus, kad:
+1) zemes īpašuma tiesības likumā noteiktajā kārtībā ir atjaunojusi vai ieguvusi cita persona;
+2) pilsētas zemes komisija pieņēmusi attiecīgus atzinumus par zemes nodošanu īpašumā par maksu vai par fizisko personu pieteikumiem zemes gabala pirkšanai;
+3) zeme kā apbūvēts vai neapbūvēts īpašuma objekts ir nodots privatizācijai.
 (7) Pēc bijušo zemes īpašnieku vai viņu_ mantinieku pieprasījuma apmierināšanas zeme likumā noteiktajā kārtībā tiek nodota īpašumā vai piešķirta lietošanā šā likuma 9. pantā minētajām personām šādā secībā:
 - zeme, kura šā likuma spēkā stāšanās brīdī atrodas to lietošanā;
 - zeme, kura no jauna tiek pieprasīta dzīvojamo ēku un apkalpojošās sfēras objektu celtniecībai.
