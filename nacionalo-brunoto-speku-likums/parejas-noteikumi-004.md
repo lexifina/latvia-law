@@ -1,0 +1,1 @@
+4. Speciālo operāciju spēku sastāvā ietilpst Speciālo uzdevumu vienība, Saeimas un Valsts prezidenta drošības dienests, Zemessardzes speciālā vienība "Vanags", bet kara un izņēmuma stāvokļa laikā - arī Latvijas Bankas Aizsardzības pārvalde.
