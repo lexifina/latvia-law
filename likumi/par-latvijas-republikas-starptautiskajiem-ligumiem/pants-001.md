@@ -1,0 +1,1 @@
+1. pants. Starptautiskie līgumi ir vienošanās - neatkarīgi no tā, kā nosauktas šīs vienošanās -, ko Latvijas Republika rakstveidā atbilstoši starptautisko publisko tiesību normām noslēgusi ar ārvalstīm vai citiem starptautisko tiesību subjektiem.

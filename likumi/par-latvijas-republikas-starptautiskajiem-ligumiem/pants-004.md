@@ -1,0 +1,1 @@
+4. pants. Valsts prezidents, Ministru prezidents un ārlietu ministrs bez īpaša pilnvarojuma var vest sarunas par starptautisko līgumu noslēgšanu, saskaņot to tekstu un parakstīt šos līgumus, ievērojot šā likuma 3. panta noteikumus.

@@ -1,0 +1,1 @@
+8. pants. Starpvalstu līgumi tiek apstiprināti ar Saeimas pieņemtu likumu, uz kura pamata Ārlietu ministrija sagatavo ratifikācijas rakstu, ko paraksta Valsts prezidents un līdzparaksta ārlietu ministrs.
