@@ -1,0 +1,1 @@
+1.pants. 2003.gada 19.novembrī parakstītais Latvijas Republikas valdības un Ungārijas Republikas valdības līgums par sadarbību un savstarpējo palīdzību katastrofu un citos plaša mēroga nelaimes gadījumos (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
