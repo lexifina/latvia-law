@@ -30,4 +30,5 @@
 19) par muitas iestāžu pakalpojumiem;
 20) par komercķīlas reģistrāciju, kā arī par komercķīlas pārjaunojuma, grozījumu un dzēšanas reģistrāciju;
 21) par īpašuma tiesību nostiprināšanu zemesgrāmatā;
-22) par vērtspapīru reģistrāciju un laišanu publiskajā apgrozībā.
+22) par vērtspapīru reģistrāciju un laišanu publiskajā apgrozībā;
+23) par būvprakses sertifikātu reģistrāciju.

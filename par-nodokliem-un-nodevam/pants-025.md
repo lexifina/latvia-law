@@ -8,3 +8,5 @@
 (2) Finansu ministrija laikrakstā "Latvijas Vēstnesis" publicē informāciju par dzēstajiem valsts nodokļu un nodevu parādiem.
 (3) Pašvaldību budžetos ieskaitāmo nodokļu un nodevu parādus šā panta pirmajā daļā minētajos gadījumos dzēš pašvaldības.
 (4) (Izslēgta ar 04.12.1998. likumu.)
+(5) Kapitalizēto zemes nodokļa maksājumu pamatparādu, kā arī ar to saistīto nokavējuma naudu un soda naudu pašvaldības dzēš Ministru kabineta noteiktajā kārtībā.
+(6) Kapitalizētos īpašuma nodokļa un iedzīvotāju ienākuma nodokļa maksājumu pamatparādus, kā arī ar tiem saistītās nokavējuma naudas un soda naudas finansu ministrs dzēš pēc kapitalizāciju veicošās institūcijas priekšlikuma Ministru kabineta noteiktajā kārtībā.
