@@ -1,0 +1,1 @@
+1.pants. 1998.gada 9.aprīlī Rīgā parakstītais Latvijas Republikas valdības un Slovākijas Republikas valdības nolīgums par starptautiskajiem pārvadājumiem ar autotransportu (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
