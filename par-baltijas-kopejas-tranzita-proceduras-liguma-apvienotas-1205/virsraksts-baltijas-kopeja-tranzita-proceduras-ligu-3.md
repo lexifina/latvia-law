@@ -1,0 +1,1 @@
+Baltijas kopējā tranzīta procedūras līguma Apvienotās komitejas 2000.gada 7.decembra lēmums Nr. 5/2000 par labojumiem 1998.gada 10.jūlija līguma par Baltijas kopējā tranzīta procedūru I, II un III pielikumos

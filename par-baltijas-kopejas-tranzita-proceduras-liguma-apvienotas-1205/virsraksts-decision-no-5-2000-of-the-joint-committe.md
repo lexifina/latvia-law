@@ -1,0 +1,1 @@
+Decision No 5/2000 of the Joint Committee on the Baltic Common Transit of 7 December 2000 on Amendment of Appendices I, II and III of the Agreement of 10 July 1998 on the Baltic Common Transit Procedure

@@ -1,0 +1,1 @@
+Recomendation No.1/2000 of the Joint Committee on the Baltic Common Transit of 27 September 2000 Replacement of the Sign of the Monetary Unit "ECU" by "EUR" in the Text of the Agreement of 10 July 1998 on the Baltic Common Transit Procedure
