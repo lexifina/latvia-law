@@ -1,0 +1,1 @@
+1.pants. 1994.gada 23.februārī Rīgā parakstītais Latvijas Republikas un Polijas Republikas līgums par tiesisko palīdzību un tiesiskajām attiecībām civilajās, ģimenes, darba lietās un krimināllietās (turpmāk - Līgums) ar šo likumu tiek apstiprināts un pieņemts.
