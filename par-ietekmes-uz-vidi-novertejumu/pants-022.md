@@ -1,3 +1,4 @@
 22.pants. Paredzētās darbības akceptēšana
 (1) Lai saņemtu atļauju uzsākt paredzēto darbību, ierosinātājs iesniedz attiecīgajai valsts vai pašvaldības institūcijai noslēguma ziņojumu un kompetentās institūcijas atzinumu par noslēguma ziņojumu kopā ar citos normatīvajos aktos noteiktajiem dokumentiem.
 (2) Attiecīgā valsts vai pašvaldības institūcija, vispusīgi izvērtējusi noslēguma ziņojumu un kompetentās institūcijas atzinumu par noslēguma ziņojumu, kā arī ņemot vērā ieinteresēto valsts pārvaldes institūciju, pašvaldību un sabiedrības pārstāvju viedokli, normatīvajos aktos noteiktajā kārtībā pieņem lēmumu akceptēt vai neakceptēt paredzēto darbību.
+(3) Ja paredzētajai darbībai ir pārrobežu ietekme, attiecīgā valsts vai pašvaldības institūcija, pieņemot lēmumu akceptēt vai neakceptēt paredzēto darbību, ņem vērā ietekmētās valsts ieinteresēto institūciju un sabiedrības pārstāvju viedokli, kā arī konsultāciju rezultātus.

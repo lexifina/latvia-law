@@ -10,7 +10,7 @@ f) avāriju risks (tehnoloģijas vai izmantojamās vielas);
 2) paredzētās darbības vietu un šīs vietas ģeogrāfiskās īpatnības raksturojošie faktori:
 a) līdzšinējais zemes izmantošanas veids,
 b) attiecīgajā teritorijā esošo dabas resursu relatīvais daudzums, kvalitāte un atjaunošanās iespējas,
-c) dabiskās vides absorbcijas spēja, pievēršot īpašu uzmanību mitrājiem, piekrastes joslai, augstieņu un mežu rajoniem, īpaši aizsargājamām dabas teritorijām,
+c) dabiskās vides absorbcijas spēja, pievēršot sevišķu uzmanību īpaši aizsargājamām dabas teritorijām, īpaši aizsargājamām sugām un biotopiem, starptautiskas nozīmes mitrājiem, vides un dabas resursu aizsardzības aizsargjoslām un putniem nozīmīgām vietām,
 d) teritorijas, kurās piesārņojuma līmenis ir augstāks, nekā paredz vides kvalitātes kritēriji un standarti,
 e) iedzīvotāju blīvums attiecīgajā teritorijā,
 f) vēsturiski, arheoloģiski un kultūrvēsturiski nozīmīgas ainavas;
