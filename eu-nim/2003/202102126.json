@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Finanšu instrumentu tirgus likums. Latvijas Vēstnesis, 175, 11.12.2003.",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "175",
+  "official_journal_page": null,
+  "official_journal_date": "2003-12-10",
+  "entry_into_force": "2003-12-31",
+  "notification_date": "2021-03-24",
+  "commission_reference": "MNE(2021)02126",
+  "nim_celex": "72019L0944LVA_202102126",
+  "nim_id": "202102126",
+  "transposes_celex": [
+    "32019L0944"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cedb9227-9058-11eb-b85c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
