@@ -1,0 +1,1 @@
+2.pants. Saskaņā ar Konvencijas 16.panta pirmās daļas "a" punkta "iii" apakšpunktu noteikt, ka Latvijas Republika neievēros 12.panta nosacījumus attiecībā uz fonogrammām, kuru producenti nav kādas dalībvalsts pilsoņi.
