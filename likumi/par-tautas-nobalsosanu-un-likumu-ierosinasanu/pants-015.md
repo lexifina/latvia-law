@@ -1,3 +1,3 @@
-15. pants. (1) Balsošana notiek no pulksten 8 rītā līdz pulksten 8 vakarā pēc vietējā laika.
-(2) Pulksten 8 no rīta vēlēšanu iecirkņa komisijas priekšsēdētājs vai sekretārs komisijas klātbūtnē pārliecinās par to, vai balsošanas kastes, kurās paredzēts iemest balsošanas zīmes, ir tukšas. Pēc tam balsošanas kastes aizzīmogo.
+15. pants. (1) Balsošana notiek no pulksten 7 rītā līdz pulksten 10 vakarā pēc vietējā laika.
+(2) Pulksten 7 no rīta vēlēšanu iecirkņa komisijas priekšsēdētājs vai sekretārs komisijas klātbūtnē pārliecinās par to, vai balsošanas kastes, kurās paredzēts iemest balsošanas zīmes, ir tukšas. Pēc tam balsošanas kastes aizzīmogo.
 (3) Netraucējot komisijas darbu, balsošanas norisi vēlēšanu iecirknī vienlaikus var novērot ne vairāk kā divi pilnvaroti novērotāji no katras politiskās organizācijas (partijas) vai politisko organizāciju (partiju) apvienības, kā arī Centrālās vēlēšanu komisijas un attiecīgā rajona vēlēšanu komisijas locekļi un šo komisiju pilnvarotas personas, attiecīgās pilsētas, novada vai pagasta vēlēšanu komisijas locekļi, plašsaziņas līdzekļu pārstāvji.
