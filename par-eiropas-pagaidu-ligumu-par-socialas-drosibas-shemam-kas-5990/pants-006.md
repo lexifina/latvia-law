@@ -1,0 +1,1 @@
+6.pants. Saskaņā ar Līguma 9.panta otro daļu Latvijas Republikā Līgums un tā protokols neattiecas uz likuma "Par valsts pensijām" pārejas noteikumu 1.punktu - par laikposmā līdz 1991.gadam uzkrāto darba periodu un tiem pielīdzināto periodu ieskaitīšanu apdrošināšanas stāžā.
