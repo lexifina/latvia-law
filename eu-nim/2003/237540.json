@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Valsts pārvaldes iekārtas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "94",
+  "official_journal_page": null,
+  "official_journal_date": "2002-06-21",
+  "entry_into_force": "2003-01-01",
+  "notification_date": "2016-05-17",
+  "commission_reference": "MNE(2016)53208",
+  "nim_celex": "72014L0054LVA_237540",
+  "nim_id": "237540",
+  "transposes_celex": [
+    "32014L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/accb15c9-d0ca-4dd9-8c42-697e694ae1d5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
