@@ -1,0 +1,1 @@
+43.¹ pants. Valsts kontrolieris, Valsts kontroles padomes loceklis un revīzijas departamenta kolēģijas loceklis, atstājot amatu pēc pilnvaru termiņa izbeigšanās, saņem vienreizēju pabalstu triju vidējo mēnešalgu apmērā.
