@@ -1,6 +1,6 @@
 61.pants. Nosacīta pirmstermiņa atbrīvošana no soda
 (1) Personu, kas notiesāta ar brīvības atņemšanu vai arestu, var nosacīti pirms termiņa atbrīvot no pamatsoda.
-(2) Nosacītu pirmstermiņa atbrīvošanu no soda var noteikt, ja notiesātais nav izdarījis pārkāpumus un iespēju robežās labprātīgi atlīdzinājis ar noziedzīgo nodarījumu nodarīto materiālo zaudējumu, bet gadījumā, kad notiesātais noziedzīgo nodarījumu izdarījis uz alkoholisma, narkomānijas vai toksikomānijas pamata, - ja viņš piekritis ārstēties no alkoholisma, narkomānijas vai toksikomānijas.
+(2) Nosacītu pirmstermiņa atbrīvošanu no soda var noteikt, ja notiesātais nav izdarījis pārkāpumus un atbilstoši iespējām ir labprātīgi atlīdzinājis ar noziedzīgo nodarījumu nodarīto materiālo zaudējumu, bet gadījumā, kad notiesātais noziedzīgo nodarījumu izdarījis alkohola, narkotisko, psihotropo vai toksisko vielu atkarības dēļ, - ja viņš piekritis ārstēties no alkohola, narkotisko, psihotropo vai toksisko vielu atkarības.
 (3) Nosacītu pirmstermiņa atbrīvošanu no soda var noteikt, kad notiesātais faktiski ir izcietis:
 1) ne mazāk kā pusi no noteiktā soda par izdarīto kriminālpārkāpumu vai mazāk smagu noziegumu;
 2) ne mazāk kā divas trešdaļas no noteiktā soda, ja tas piespriests par smagu noziegumu, kā arī ja notiesātais ir persona, kas agrāk bijusi notiesāta ar brīvības atņemšanu par tīšu noziegumu, un sodāmība par šo noziegumu nav noņemta vai dzēsta;
