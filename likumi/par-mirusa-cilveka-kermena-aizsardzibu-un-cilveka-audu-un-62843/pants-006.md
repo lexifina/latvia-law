@@ -1,6 +1,8 @@
-6. pants. Patologanatomiskā izmeklēšana, neņemot vērā mirušā cilvēka vai viņa tuvāko piederīgo gribu
-Neņemot vērā mirušā cilvēka dzīves laikā izteikto gribu vai viņa tuvāko piederīgo gribu, patologanatomiskā izmeklēšana obligāti izdarāma šādos gadījumos:
-- ja iespējamais nāves cēlonis ir infekcijas slimība;
-- ja nāves cēlonis ir dzīves laikā nediagnosticēta slimība vai nediagnosticēti profilaktisko pasākumu, ārstēšanas vai slimības sarežģījumi;
-- ja nedzīvi dzimuša bērna svars pārsniedz 800 gramus;
-- ja patologanatomisko izmeklēšanu pieprasa izziņas izdarītājs, izmeklētājs vai prokurors.
+6. pants. Patologanatomiskā un tiesu medicīniskā izmeklēšana, neņemot vērā miruša cilvēka vai viņa tuvāko piederīgo gribu
+Neņemot vērā miruša cilvēka dzīves laikā izteikto gribu vai viņa tuvāko piederīgo gribu, patologanatomiskā izmeklēšana obligāti izdarāma, ja:
+- iespējamais nāves cēlonis ir infekcijas slimība;
+- nāves cēlonis ir dzīves laikā nediagnosticēta slimība vai nediagnosticēti profilaktisko pasākumu, ārstēšanas vai slimības sarežģījumi;
+- nedzīvi dzimuša bērna svars pārsniedz 500 gramus.
+Neņemot vērā miruša cilvēka dzīves laikā izteikto gribu vai viņa tuvāko piederīgo gribu, tiesu medicīniskā izmeklēšana obligāti izdarāma, ja:
+- nedzīvi dzimuša bērna svars pārsniedz 500 gramus;
+- tiesu medicīnisko izmeklēšanu pieprasa izziņas izdarītājs, izmeklētājs vai prokurors.
