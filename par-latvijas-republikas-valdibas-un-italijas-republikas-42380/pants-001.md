@@ -1,0 +1,1 @@
+1.pants. 1996.gada 23.oktobrī Rīgā parakstītais Latvijas Republikas valdības un Itālijas Republikas valdības līgums par sadarbību kultūrā, zinātnē un tehnoloģijā (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
