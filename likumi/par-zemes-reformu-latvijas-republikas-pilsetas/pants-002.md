@@ -1,0 +1,2 @@
+2. pants. Zemes reformas mērķis
+Zemes reformas mērķis ir pakāpeniskas valsts īpašuma denacionalizācijas, konversijas, privatizācijas un nelikumīgi atsavinātu zemes īpašumu atdošanas gaitā pārkārtot zemes īpašuma un zemes lietošanas tiesiskās, sociālās un ekonomiskās attiecības pilsētās, lai veicinātu sabiedrības interesēm atbilstošas pilsētu apbūves veidošanos, zemes aizsardzību un racionālu izmantošanu.
