@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Prasības darbībām ar radioaktīvajiem atkritumiem un ar tiem saistītajiem materiāliem",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "51(2626)",
+  "official_journal_page": null,
+  "official_journal_date": "2002-04-04",
+  "entry_into_force": "2002-04-05",
+  "notification_date": "2013-08-29",
+  "commission_reference": "MNE(2013)57585",
+  "nim_celex": "72011L0070LVA_208747",
+  "nim_id": "208747",
+  "transposes_celex": [
+    "32011L0070"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c9410504-130f-4b34-90f9-e473e1d47547",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
