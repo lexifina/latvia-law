@@ -8,6 +8,8 @@
 5) pašvaldības domi (padomi) - jautājumos par pašvaldības ieņēmumu nodrošināšanu;
 6) ārvalsts pilnvaroto pārstāvi - saskaņā ar starptautisko līgumu noteikumiem, informējot par to nodokļu maksātāju. Ja nodokļu administrācijai ir aizdomas par apliekamo objektu slēpšanu vai izvairīšanos no nodokļu maksāšanas, tā nodokļu maksātāju var informēt 90 dienas pēc ārvalsts pilnvarotā pārstāvja informēšanas;
 7) Naturalizācijas pārvaldi - par to, vai nodokļu maksātāji, kuri atsakās no Latvijas pilsonības, ir izpildījuši valsts nodokļu, nodevu un citu valsts noteikto obligāto maksājumu saistības pret valsti;
-7¹) Centrālo statistikas pārvaldi - jautājumos, kas attiecas uz statistiskās informācijas valsts programmas izpildi;
-7²) Eiropas Savienības dalībvalstu kompetentās iestādes - saskaņā ar Eiropas Savienības normatīvajiem aktiem;
-8) citas personas - saskaņā ar šā likuma 18. panta 8.,12., 13., 14. un 15.punktu, 23.panta trīspadsmito daļu, 24.panta otro daļu un 25.panta pirmo daļu.
+8) Centrālo statistikas pārvaldi - jautājumos, kas attiecas uz statistiskās informācijas valsts programmas izpildi;
+9) Eiropas Savienības dalībvalstu kompetentās iestādes - saskaņā ar Eiropas Savienības normatīvajiem aktiem;
+10) valsts aģentūru "Maksātnespējas administrācija" - jautājumos, kas saistīti ar darbinieku aizsardzību darba devēja maksātnespējas gadījumā, un jautājumos, kas saistīti ar nodokļu maksātājiem, par kuriem ir ierosināta maksātnespējas lieta;
+11) Valsts civildienesta pārvaldi - jautājumos, kas saistīti ar nodokļu administrācijas ierēdņu disciplinārlietu ierosināšanu un izmeklēšanu;
+12) citas personas - saskaņā ar šā likuma 18. panta 8.,12., 13., 14. un 15.punktu, 23.panta trīspadsmito daļu, 24.panta otro daļu un 25.panta pirmo daļu.

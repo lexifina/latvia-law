@@ -10,7 +10,7 @@
 3) ierosināt noslēgt vienošanās līgumu šajā likumā noteiktajā kārtībā.
 (4) Izskatot nodokļu maksātāja iesniegumu, šā panta otrajā daļā minētās amatpersonas var pieņemt šādu lēmumu:
 1) atstāt apstrīdēto lēmumu negrozītu;
-2) atcelt apstrīdēto lēmumu;
+2) atcelt apstrīdēto lēmumu pilnīgi vai kādā tā daļā;
 3) pieņemt jaunu lēmumu nodokļu maksātāja lietā.
 (5) Valsts ieņēmumu dienests izskata iesniegumu un 30 dienu laikā atbild tā iesniedzējam. Finanšu ministram ir tiesības pagarināt minētā iesnieguma izskatīšanas laiku līdz 60 dienām.
 (6) Ja nodokļu maksātājs nepiekrīt Valsts ieņēmumu dienesta ģenerāldirektora lēmumam, viņam ir tiesības to pārsūdzēt tiesā.

@@ -1,1 +1,1 @@
-64. Likuma 22.panta otrās daļas 7.2 punkts stājas spēkā ar īpašu likumu.
+64. Likuma 22.panta otrās daļas 9.punkts stājas spēkā 2004.gada 1.maijā.

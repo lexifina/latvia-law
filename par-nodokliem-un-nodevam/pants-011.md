@@ -11,11 +11,11 @@
 9) (izslēgts ar 13.04.2000. likumu);
 10) preču vai pakalpojumu loterijas organizēšanas valsts nodeva - Preču un pakalpojumu loteriju likums.
 (2) Valsts nodevas ir maksājamas par valsts sniegto nodrošinājumu, šādiem juridiskajiem pakalpojumiem un likumos paredzētajiem speciāliem mērķiem:
-l) (izslēgts ar 20.12.2001. likumu);
+1) (izslēgts ar 20.12.2001. likumu);
 2) par notariālo darbību izpildi;
 3) par civilstāvokļa aktu reģistrēšanu, grozīšanu un papildināšanu;
 4) par izdevējdarbības un masu informācijas līdzekļu reģistrēšanu;
-5) par uzņēmējdarbības reģistrēšanu, kā arī par ierakstu izdarīšanu komercreģistrā un dibināšanas dokumentu grozījumu reģistrēšanu;
+5) par uzņēmējdarbības reģistrēšanu, par ierakstu izdarīšanu komercreģistrā un dibināšanas dokumentu grozījumu reģistrēšanu, kā arī ierakstu izdarīšanu Eiropas ekonomisko interešu grupu reģistrā;
 6) par informācijas sniegšanu no Latvijas Republikas Uzņēmumu reģistra reģistriem;
 7) par informācijas sniegšanu no Iedzīvotāju reģistra;
 8) par sabiedrisko organizāciju un to apvienību, reliģisko organizāciju un to iestāžu, arodbiedrību reģistrāciju, kā arī ierakstu izdarīšanu biedrību un nodibinājumu reģistrā;
@@ -42,9 +42,9 @@ l) (izslēgts ar 20.12.2001. likumu);
 29) par transportlīdzekļu, gaisa kuģu, kuģu, mazo kuģu un jahtu reģistrāciju (transportlīdzekļu reģistra nodeva);
 30) par dzelzceļa infrastruktūras reģistrāciju;
 31) par pasažieru izlidošanu;
-32) par dārgmetālu izstrādājumu provēšanu un zīmogošanu;
-33) par dārgakmeņu provēšanu un kvalitātes apliecības izsniegšanu;
-34) par dārgmetālu izstrādājumu izgatavotāja personiskā zīmoga reģistrāciju;
+32) par valsts proves uzraudzības īstenošanu;
+33) (izslēgts ar 31.03.2004. likumu);
+34) (izslēgts ar 31.03.2004. likumu);
 35) par filmu producētāju (ražotāju) un izplatītāju, filmu izplatīšanas vietu un filmu reģistrāciju;
 36) par izziņu izsniegšanu par nekustamo īpašumu piederību un sastāvu;
 37) (izslēgts ar 09.10.2002. likumu);
