@@ -1,0 +1,33 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "MK 2004.gada 20.aprīļa noteikumi nr.365",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "66",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-28",
+  "entry_into_force": "2004-04-29",
+  "notification_date": "2005-06-27",
+  "commission_reference": "MNE(2005)52107",
+  "nim_celex": "71975L0439LVA_122107",
+  "nim_id": "122107",
+  "transposes_celex": [
+    "31975L0439",
+    "31975L0442",
+    "31978L0176",
+    "31982L0883",
+    "31983L0029",
+    "31987L0101",
+    "31991L0156",
+    "31991L0157",
+    "31996L0059",
+    "31998L0101",
+    "32000L0053",
+    "32006L0012"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/02c84e7f-33e8-4b34-b79d-b3bc230819db",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
