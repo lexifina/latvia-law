@@ -1,0 +1,1 @@
+1.pants. 1997.gada 18.februārī Ankarā parakstītais Latvijas Republikas un Turcijas Republikas līgums par ieguldījumu savstarpēju veicināšanu un aizsardzību (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
