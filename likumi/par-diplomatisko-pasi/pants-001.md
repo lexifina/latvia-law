@@ -1,0 +1,1 @@
+1. pants. Diplomātiskā pase apliecina, ka tās uzrādītājs ir oficiāls Latvijas Republikas pārstāvis ārvalstīs. Diplomātisko pasi izsniedz Latvijas Republikas pilsoņiem, un tā ir Latvijas Republikas īpašums.
