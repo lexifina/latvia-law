@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2002.gada 3.septembra noteikumi Nr.400 \"Darba aizsardzības prasības drošības zīmju lietošanā\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "127 (2702)",
+  "official_journal_page": null,
+  "official_journal_date": "2002-09-06",
+  "entry_into_force": "2002-09-07",
+  "notification_date": "2015-07-29",
+  "commission_reference": "MNE(2015)55583",
+  "nim_celex": "72014L0027LVA_228759",
+  "nim_id": "228759",
+  "transposes_celex": [
+    "32014L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4df91d45-5d4a-4ab7-96f2-646ed023275d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
