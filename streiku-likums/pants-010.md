@@ -1,1 +1,0 @@
-10.pants. Ja pirmsstreika sarunu laikā vienas kolektīvā darba strīda puses iebildumu dēļ vienošanos par streika novēršanu panākt nav iespējams, arodbiedrībai vai darbiniekiem ir tiesības pieteikt streiku šā likuma 11. un 12.pantā noteiktajā kārtībā.
