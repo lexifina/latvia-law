@@ -22,6 +22,9 @@ Par individuālo uzņēmumu un zemnieku saimniecību Uzņēmumu reģistra žurn�
 3) uzņēmuma darbības veids;
 4) zemnieku saimniecības zemes platība un tās atrašanās vieta;
 5) zemes īpašuma vai lietošanas akta numurs un izdošanas datums.
+Par kooperatīvajām sabiedrībām papildus šā panta pirmās daļas 1.-8.punktā norādītajam Uzņēmumu reģistra žurnālā ierakstāmas šādas ziņas:
+1) valdes locekļu tiesības pārstāvēt kooperatīvo sabiedrību atsevišķi, kopīgi vai kopīgi ar prokūristu;
+2) prokūrista vārds, uzvārds un personas kods, kā arī norāde uz kopprokūru vai filiāles prokūru, ja tāda izdota, un norāde uz Komerclikuma 34.panta otrajā daļā minēto tiesību piešķiršanu, ja tādas piešķirtas.
 Par uzņēmuma (uzņēmējsabiedrības) darbības izbeigšanos Uzņēmumu reģistra žurnālā ieraksta:
 1) tiesas lēmums par administratora iecelšanu un atcelšanu, kā arī administratora vārds, uzvārds, personas kods, adrese, darbības vieta, bet, ja administrators ir juridiskā persona, - nosaukums, reģistrācijas numurs un juridiskā adrese, kā arī iepriekš minētā informācija par administratora pārstāvjiem maksātnespējas procesā;
 2) tiesas spriedums par uzņēmuma (uzņēmējsabiedrības) maksātnespējas pasludināšanu, kreditoru sapulces lēmums par uzņēmuma (uzņēmējsabiedrības) bankrota procedūras uzsākšanu, sanācijas plāna pieņemšanu, par grozījumiem sanācijas plānā, par sanācijas termiņa pagarināšanu, tiesas lēmums par uzņēmuma (uzņēmējsabiedrības) bankrota procedūras pabeigšanu, par maksātnespējas procesa izbeigšanu;
