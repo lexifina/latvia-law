@@ -4,7 +4,7 @@
 3) pēc ārsta receptes saņemšanas izsniegt pret ārsta recepti izsniedzamo zāļu sarakstā iekļautās zāles;
 4) izplatīt medikamentus ārstniecības iestādēm un sociālās aprūpes institūcijām;
 5) izplatīt medikamentus fiziskajām personām.
-(2) Šā panta pirmās daļas 1., 2. un 3.punktā minētās darbības nav atļautas aptieku filiālēs, kurās nav farmaceita.
+(2) Šā panta pirmās daļas 1. un 2.punktā minētās darbības nav atļautas aptieku filiālēs, kurās nav farmaceita.
 (3) Slēgta tipa jeb ārstniecības iestāžu aptiekās atļauts:
 1) fasēt zāles atbilstoši tehnisko normatīvu prasībām;
 2) izgatavot zāles pēc ārstniecības iestāžu pieprasījumiem;

@@ -5,6 +5,7 @@
 4) reglamentē atsevišķu zāļu vai zāļu grupu izgatavošanas, uzglabāšanas, kontroles un izplatīšanas nosacījumus;
 5) gādā, lai tiktu izsniegtas Ministru kabineta noteikumos paredzētās speciālās atļaujas (licences);
 6) (zaudējis spēku 02.01.2000. Skat. Pārejas noteikumus);
-7) apstiprina medikamentu klīniskās izpētes ētikas komiteju paraugnolikumu un saskaņo šo komiteju personālsastāvu;
-8) nosaka zāļu labas ražošanas prakses, labas izplatīšanas prakses, labas klīniskās prakses, zāļu lietošanas izraisīto blakusparādību uzraudzības prasības, kā arī zāļu reklāmas saskaņošanas kārtību;
-9) nosaka zāļu marķējumā un lietošanas instrukcijā norādāmās palīgvielas un prasības zāļu marķējuma un lietošanas instrukcijas salasāmībai.
+7) apstiprina zāļu un farmaceitisko produktu klīniskās izpētes ētikas komiteju paraugnolikumu un šo komiteju personālsastāvu;
+8) nosaka zāļu labas ražošanas prakses, labas izplatīšanas prakses, labas klīniskās prakses, zāļu lietošanas izraisīto blakusparādību uzraudzības un zāļu reklāmas saskaņošanas prasības;
+9) nosaka zāļu marķējumā un lietošanas instrukcijā norādāmās palīgvielas un prasības zāļu marķējuma un lietošanas instrukcijas salasāmībai;
+10) nosaka farmaceitiskās aprūpes prasības.

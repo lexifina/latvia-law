@@ -1,0 +1,1 @@
+14. Aptiekām, kuras ir saņēmušas licenci aptiekas atvēršanai (darbībai) un kuru darbība neatbilst šā likuma 36.panta pirmajā daļā noteiktajām prasībām, jāpārkārto sava darbība atbilstoši šīm prasībām līdz 2010.gada 31.decembrim. Minētajām aptiekām ir tiesības saņemt licences pagarinājumu līdz 2010.gada 31.decembrim.

@@ -24,4 +24,5 @@
 23) medikamenti - gatavās zāles un farmaceitiskie produkti;
 24) farmaceitiskā aprūpe - veselības aprūpes sastāvdaļa, ko savas kompetences ietvaros veic farmaceits, sniedzot informāciju par zālēm, to lietošanu un veicot zāļu izgatavošanu;
 25) recepšu zāles - zāles, kuras saskaņā ar Ministru kabineta noteikto zāļu klasifikāciju ir kvalificētas kā recepšu zāles un pacientu ambulatorai ārstniecībai izsniedzamas tikai pret normatīvajos aktos noteiktajā kārtībā izrakstītu ārsta vai ārsta palīga recepti;
-26) bezrecepšu zāles - zāles, kuras saskaņā ar Ministru kabineta noteikto zāļu klasifikāciju nav kvalificētas kā recepšu zāles.
+26) bezrecepšu zāles - zāles, kuras saskaņā ar Ministru kabineta noteikto zāļu klasifikāciju nav kvalificētas kā recepšu zāles;
+27) farmaceita prakse - farmaceitiskā darbība, kuru veic farmaceits individuāli vai kopīgi ar aptiekas darbiniekiem, lai nodrošinātu farmaceitisko aprūpi likumā noteiktajā kārtībā iekārtotā un licencētā aptiekā.

@@ -1,6 +1,6 @@
 10.pants. Aģentūra veic šādas funkcijas:
 1) organizē informācijas vākšanu par aktualitātēm zāļu un farmaceitisko produktu kvalitātes kontroles jomā, šīs informācijas apkopošanu un izplatīšanu;
-2) veido un regulāri aktualizē Latvijas zāļu reģistru, veido un uztur datu bāzi par novērotajām zāļu lietošanas izraisītajām blakusparādībām, kā arī par Latvijā veikto zāļu un farmaceitisko produktu klīnisko izpēti;
+2) veido un regulāri aktualizē Latvijas zāļu reģistru, veido un uztur datu bāzi par novērotajām zāļu lietošanas izraisītajām blakusparādībām, kā arī par Latvijā veikto zāļu un farmaceitisko produktu klīnisko izpēti un zāļu un farmaceitisko produktu lietošanas novērojumiem;
 3) novērtē un reģistrē zāles un reģistrācijai pakļautos farmaceitiskos produktus;
 4) veic zāļu un farmaceitisko produktu kvalitātes kontroli, arī pēc Valsts farmācijas inspekcijas pieprasījuma;
 5) organizē sadarbību ar citu valstu zāļu kvalitātes kontroles institūcijām zāļu un farmaceitisko produktu kvalitātes kontroles jomā;
@@ -11,4 +11,5 @@ b) ja medikaments ir nepieciešams konkrētas slimības ārstēšanai vai ārstn
 c) ja medikaments ir nepieciešams medicīniskās palīdzības sniegšanai katastrofas, dabas stihijas vai epidēmijas gadījumā un Latvijas Republikā nav reģistrēts, - saskaņā ar labklājības ministra rīkojumu;
 8) sagatavo un iesniedz Labklājības ministrijai priekšlikumus par laboratoriju, institūtu un citu institūciju iekļaušanu to institūciju sarakstā, kuras ir tiesīgas dot oficiālu atzinumu zāļu un farmaceitisko produktu kvalitātes jautājumos;
 9) izsniedz atļaujas zāļu klīniskās izpētes veikšanai un uzrauga tās norisi;
-10) pirms zāļu reklāmas izplatīšanas novērtē reklāmas devēja iesniegto reklāmas materiālu atbilstību normatīvo aktu prasībām.
+10) pirms zāļu reklāmas izplatīšanas novērtē reklāmas devēja iesniegto reklāmas materiālu atbilstību normatīvo aktu prasībām;
+11) uzraudzības nolūkā apmeklē zāļu klīniskās izpētes un lietošanas novērojumu vietas, pārbauda ar zāļu klīnisko izpēti un lietošanas novērojumiem saistīto dokumentāciju.
