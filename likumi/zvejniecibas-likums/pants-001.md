@@ -5,6 +5,6 @@ Likumā ir lietoti šādi termini:
 3) zivju resursi - visas zivis, kuras sastopamas Latvijas Republikas iekšējos ūdeņos un teritoriālajos jūras ūdeņos, kā arī visas zivis Latvijas Republikas ekonomiskās zonas ūdeņos, kur Latvijas Republikai ir suverēnas tiesības tās iegūt, izmantot, pētīt, saglabāt un pavairot;
 4) zveja - darbība nolūkā iegūt zivis, izmantojot zvejas rīkus un paņēmienus;
 5) zvejnieks - fiziskā persona, kas tieši veic zveju, tas ir, rīkojas ar zvejas rīkiem, vai juridiskā persona, kuras vārdā un uzdevumā tiek veikta zveja;
-6) tauvas josla - sauszemes josla gar ūdeņu krastu, kas paredzēta ar zveju vai kuģošanu saistītām darbībām;
-7) amatierzveja - makšķerēšana - rekreācijas vai sporta nolūkā veikta darbība, lai ar makšķerēšanas rīkiem iegūtu zivis;
+6) tauvas josla - sauszemes josla gar ūdeņu krastu, kas paredzēta ar zveju vai kuģošanu saistītām darbībām un kājāmgājējiem;
+7) amatierzveja - makšķerēšana un zemūdens medības - rekreācijas vai sporta nolūkā veikta darbība, lai ar makšķerēšanas rīkiem iegūtu zivis;
 8) rūpnieciskā zveja - darbība nolūkā iegūt zivis, izmantojot rūpnieciskus zvejas rīkus.

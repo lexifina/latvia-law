@@ -12,7 +12,8 @@
 (7) Tikai vides aizsardzības institūciju speciāli norādītās vietās un pēc saskaņošanas ar zemes īpašnieku tauvas joslā ir atļauta:
 1) laivu un kuģu piestāšana, to kravu izkraušana un pagaidu uzglabāšana;
 2) laivu un kuģu pārziemošana, būve un remonts;
-3) zvejnieku apmetņu ierīkošana, atpūta, zvejas rīku žāvēšana un citas ar zveju saistītas darbības.
+3) zvejnieku apmetņu ierīkošana, atpūta, zvejas rīku žāvēšana un citas ar zveju saistītas darbības;
+4) ūdenstūristu apmetņu ierīkošana.
 (8) Šā panta sestajā un septītajā daļā minētās darbības drīkst veikt, ievērojot vides aizsardzības normas, bet pie robežas ūdenstilpēm - arī valsts robežas režīma prasības.
 (9) Dabiskās tauvas joslas platums ir:
 1) gar privāto ūdeņu krastiem - 4 metri;
