@@ -1,7 +1,7 @@
 10.pants. Konsultēšanās, nodarbināto informēšana un līdzdalība darba aizsardzībā
 (1) Darba devēja pienākums ir darba aizsardzības jomā konsultēties ar nodarbinātajiem vai uzticības personām, kā arī nodrošināt uzticības personām iespēju piedalīties apspriedēs par jautājumiem, kas attiecas uz:
 1) pasākumiem, kuri var ietekmēt nodarbināto drošību un veselību;
-2) darba aizsardzības dienestu izveidošanu un darbību;
+2) darba aizsardzības organizatoriskās struktūras izveidošanu un darbību;
 3) to nodarbināto norīkošanu, kuriem uzticēta pirmās palīdzības sniegšana, ugunsdzēsības un nodarbināto evakuācijas pasākumu veikšana;
 4) darba vides iekšējo uzraudzību, nodarbināto informēšanu par darba aizsardzību, arī gadījumos, kad darbs ir pie cita darba devēja vai vairākiem darba devējiem;
 5) instruktāžas un apmācības plānošanu un organizēšanu darba aizsardzības jomā;

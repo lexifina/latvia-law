@@ -1,0 +1,1 @@
+7. Labklājības ministrija izstrādā un Ministru kabinets izdod šā likuma 13.pantā minētos noteikumus. Līdz to spēkā stāšanās dienai, bet ne ilgāk kā līdz 2005.gada 30.jūnijam piemērojami Ministru kabineta 2002.gada 9.jūlija noteikumi Nr.293 "Nelaimes gadījumu darbā izmeklēšanas un uzskaites kārtība", ciktāl tie nav pretrunā ar šo likumu.

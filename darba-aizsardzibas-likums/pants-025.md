@@ -17,4 +17,5 @@ Ministru kabinets izdod noteikumus par darba aizsardzības prasībām:
 15) attiecībā uz medicīnisko aprūpi uz kuģiem;
 16) saskaroties ar kancerogēnām vielām;
 17) strādājot augstumā;
-18) attiecībā uz citām prasībām, ko regulē Eiropas Savienības direktīvas darba aizsardzībā.
+18) attiecībā uz citām prasībām, ko regulē Eiropas Savienības direktīvas darba aizsardzībā;
+19) veicot darbus mežsaimniecībā.

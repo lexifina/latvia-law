@@ -9,7 +9,7 @@ Likumā ir lietoti šādi termini:
 7) darba vides iekšējā uzraudzība - uzņēmuma darbības plānošana, organizēšana, īstenošana un vadīšana tādā veidā, lai garantētu drošu un veselībai nekaitīgu darba vidi;
 8) darba vides risks - varbūtība, ka nodarbināto drošībai vai veselībai darba vidē var rasties kaitējums, un šā kaitējuma iespējamā smaguma pakāpe;
 9) darba vieta - vieta, kurā nodarbinātais veic savu darbu, kā arī uzņēmuma ietvaros jebkura cita vieta, kura nodarbinātajam ir pieejama darba gaitā vai kur nodarbinātais strādā ar darba devēja atļauju vai rīkojumu;
-10) kompetenta institūcija - institūcija, kura ir pilnvarota veikt darba vides iekšējo uzraudzību uzņēmumā un kuras kompetence darba aizsardzības jautājumos novērtēta Ministru kabineta noteiktajā kārtībā;
+10) kompetenta institūcija - institūcija, kura uz attiecīga līguma pamata veic darba vides iekšējo uzraudzību uzņēmumā un kuras kompetence darba aizsardzības jautājumos novērtēta Ministru kabineta noteiktajā kārtībā;
 11) kompetents speciālists - speciālists, kurš ir kompetents veikt darba vides iekšējo uzraudzību uzņēmumā un kura kompetence novērtēta Ministru kabineta noteiktajā kārtībā;
 12) konsultēšanās - viedokļu apmaiņa un dialoga veidošana starp nodarbināto pārstāvjiem un darba devēju, lai panāktu vienošanos;
 13) nodarbinātais - jebkura fiziskā persona, kuru nodarbina darba devējs, arī valsts civildienesta ierēdņi un personas, kuras nodarbinātas ražošanas vai mācību prakses laikā;

@@ -1,6 +1,6 @@
 7.pants. Darba vides iekšējā uzraudzība
 (1) Darba devējs nodrošina darba vides iekšējo uzraudzību uzņēmumā.
-(2) Darba devējs dokumentē darba vides riska novērtēšanas rezultātus un sastāda to profesiju (amatu) vai darba vietu sarakstu, kurās:
+(2) Darba devējs dokumentē darba vides riska novērtēšanas rezultātus un sastāda to personu vai profesiju (amatu) vai darba vietu sarakstu, kurās:
 1) nodarbināto veselības stāvokli ietekmē vai var ietekmēt veselībai kaitīgie darba vides faktori;
 2) nodarbinātajiem darbā ir īpaši apstākļi;
 3) nodarbināto darbs ir saistīts ar iespējamu risku citu cilvēku veselībai.

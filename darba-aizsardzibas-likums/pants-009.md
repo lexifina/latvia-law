@@ -1,10 +1,10 @@
 9.pants. Darba aizsardzības organizatoriskā struktūra
 (1) Lai veiktu darba aizsardzības pasākumus un darba vides iekšējo uzraudzību, darba devējs:
-1) pats var veikt darba aizsardzības speciālista pienākumus - ja uzņēmumā ir ne vairāk kā pieci nodarbinātie un darba devējs ir apmācīts Ministru kabineta noteiktajā kārtībā;
-2) norīko darba aizsardzības speciālistu - ja uzņēmumā ir mazāk nekā 50, bet vairāk nekā pieci nodarbinātie;
+1) pats var veikt darba aizsardzības speciālista pienākumus - ja uzņēmumā ir ne vairāk kā desmit nodarbinātie un darba devējs ir apmācīts Ministru kabineta noteiktajā kārtībā;
+2) norīko darba aizsardzības speciālistu - ja uzņēmumā ir mazāk nekā 50, bet vairāk nekā desmit nodarbinātie;
 3) norīko vairākus darba aizsardzības speciālistus vai izveido darba aizsardzības organizatorisko struktūrvienību - ja uzņēmumā ir 50 vai vairāk nodarbināto.
-(2) Darba devējs piešķir darba aizsardzības speciālistam nepieciešamos līdzekļus un laiku (darba laika ietvaros), lai viņš varētu veikt savus pienākumus.
+(2) Darba devējs piešķir darba aizsardzības speciālistam nepieciešamos līdzekļus un laiku (darba laika ietvaros), lai viņš varētu veikt savus pienākumus. Nodarbinātā norīkošana par darba aizsardzības speciālistu nedrīkst radīt viņam nelabvēlīgas sekas vai kā citādi ierobežot viņa tiesības.
 (3) Ja šā panta pirmajā daļā un 5.panta pirmajā daļā noteikto darba aizsardzības organizatorisko struktūru nav iespējams izveidot, darba devējs darba aizsardzības sistēmas izveidē un uzturēšanā (izņemot nodarbināto informēšanu) iesaista kompetentu institūciju vai kompetentu speciālistu.
 (4) Darba devējs informē kompetentu institūciju vai kompetentu speciālistu par darba aizsardzības pasākumiem uzņēmumā un darba vietās, kā arī par darba vides faktoriem, kuri rada vai var radīt risku nodarbināto drošībai un veselībai.
-(5) Tos komercdarbības veidus, kuros darba devējs iesaista kompetentu institūciju, kā arī šīs institūcijas iesaistīšanas kārtību nosaka Ministru kabinets.
-(6) Ministru kabinets nosaka prasības kompetentām institūcijām un kompetentiem speciālistiem darba aizsardzības jautājumos.
+(5) Tos komercdarbības veidus, kuros darba devējs iesaista kompetentu institūciju, šīs institūcijas iesaistīšanas kārtību, kā arī gadījumus, kad darba devējs, veicot minēto komercdarbību, drīkst neiesaistīt kompetentu institūciju, nosaka Ministru kabinets. Tas attiecas arī uz tiem darba devējiem, kuri nekomerciālos nolūkos vai sava uzņēmuma vajadzībām veic darbības, kas atbilst minētajiem komercdarbības veidiem.
+(6) Ministru kabinets nosaka prasības kompetentām institūcijām un kompetentiem speciālistiem darba aizsardzības jautājumos, kā arī kārtību, kādā tiek novērtēta šo institūciju un speciālistu kompetence.

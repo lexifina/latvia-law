@@ -4,3 +4,4 @@
 1) nodrošina sazināšanos ar ārējiem dienestiem, īpaši ar dienestu, kas sniedz neatliekamo medicīnisko palīdzību un veic ugunsdzēsības un glābšanas darbus;
 2) norīko nodarbinātos, kuri apmācīti pirmās palīdzības sniegšanā, ugunsdzēsības un nodarbināto evakuācijas pasākumu veikšanā, un nodrošina, lai šie nodarbinātie būtu pietiekamā skaitā, attiecīgi instruēti un apgādāti ar nepieciešamo aprīkojumu.
 (3) Kārtību, kādā nodrošināma apmācība pirmās palīdzības sniegšanā, nosaka Ministru kabinets.
+(4) Pirmās palīdzības sniegšanai nepieciešamo medicīnisko materiālu minimumu nosaka Ministru kabinets.
