@@ -1,0 +1,18 @@
+Līguma pielikums Nr.1
+Valstu saraksts saskaņā ar II panta 28.punktu
+Āfrika
+Alžīrija, Angola, Benina, Botsvana, Burkinafaso, Burundi, Kamerūna, Zaļā Raga salas, Centrālāfrikas Republika, Čada, Komora, Kongo, Kotdivuāra, Džibuti, Ēģipte, Ekvatoriālā Gvineja, Eritreja, Etiopija, Gabona, Gambija, Gvineja, Gvineja-Bisava, Kenija, Lesoto, Libērija, Lībijas, Madagaskara, Malāvi, Mali, Mauritānija, Maurīcija, Maroka, Mozambika, Namībija, Nigēra, Nigērija, Ruanda, Santomē un Prinsipi, Senegāla, Seišelu salas, Sjerraleone, Somālija, Dienvidāfrika Republika, Sudāna, Svazilenda, Togo, Tunisija, Uganda, Apvienotā Tanzānijas Republika, Zaira, Zambija, Zimbabve.
+Austrumeiropa
+Albānija, Armēnija, Azerbaidžāna, Baltkrievija, Bosnija un Hercegovina, Bulgārija, Horvātija, Čehijas Republika, Igaunija, Gruzija, Ungārija, Latvija, Lietuva, Polija, Moldovas Republika, Rumānija, Krievijas Federācija, Slovākija, Slovēnija, bijusī Dienvidslāvijas Republika Maķedonija, Ukraina, Dienvidslāvija.
+Latīņamerika un Karību jūras valstis
+Antigva un Barbuda, Argentīna, Bahamu salas, Barbadosa, Beliza, Bolīvija, Brazīlija, Čīle, Kolumbija, Kostarika, Kuba, Dominika, Dominika, Ekvadora, Salvadora, Grenada, Gvatemala, Gajana, Haiti, Hondurasa, Jamaika, Meksika, Nikaragva, Panama, Paragvaja, Peru, Sentkitsa un Nevisa, Sentlūsija, Sentvinsenta un Grenadīnas, Surinama, Trinidada un Tobago, Urugvaja, Venecuēla.
+Vidējie Austrumi un Dienvidāzija
+Afganistāna, Bahreina, Bangladeša, Butāna, Indija, Irāna (Islama Republika), Irāka, Izraēla, Jordānija, Kazahstāna, Kuveita, Kirgizstāna, Libāna, Maldivija, Nepāla, Omāna, Pakistāna, Katara, Sauda Arābija, Šrilanka, Sīrijas Arābu Republika, Tadžikistāna, Turkmenistāna, Apvienotie Arābu Emirāti, Uzbekistāna, Jemena.
+Ziemeļamerika un Rietumeiropa
+Andora, Austrija, Beļģija, Kanāda, Kipra, Dānija, Somija, Francija, Vācija, Grieķija, Vatikāns, Islande, Īrija, Itālija, Lihtenšteina, Luksemburga, Malta, Monako, Nīderlande, Norvēģija, Portugāle, Sanmarīno, Spānija, Zviedrija, Šveice, Turcija, Lielbritānijas un Ziemeļīrijas Apvienotā Karaliste, Amerikas Savienotās Valstis.
+Dienvidaustrumāzija, Okeānija un Tālie Austrumi
+Austrālija, Bruneja Daresalama, Kambodža, Ķīna, Kuka salas, Korejas Tautas Republika, Fidži, Indonēzija, Japāna, Kiribati, Laosas Demokrātiskā Tautas Republika, Malaizija, Māršala salas, Mikronēzija, Mongolija, Mjanma, Nauru, Jaunzēlande, Niue, Palau, Papua-Jaungvineja, Filipīnas, Korejas Republika, Samoa, Singapūra, Zālamana salas, Taizeme, Tonga, Tuvalu, Vanuatu, Vjetnama.
+Līguma pielikums Nr. 2
+Valstu saraksts saskaņā ar XIV pantu
+Atbruņošanās konferences Dalībvalstu saraksts uz 1996. gada 18. jūniju, kuras formāli piedalījās 1996. gada konferences darba sēdē, kuras uzrādītas Starptautiskās Atomenerģijas Aģentūras 1996. gada aprīļa publikācijā "Enerģētiskie kodolreaktori pasaulē" un Atbruņošanās konferences Dalībvalstu saraksts uz 1996.gada 18. jūniju, kuras formāli piedalījās 1996. gada konferences darba sēdē, kuras uzrādītas Starptautiskās Atomenerģijas Aģentūras 1995. gada decembra publikācijā "Pētnieciskie kodolreaktori pasaulē":
+Alžīrija, Argentīna, Austrālija, Austrija, Bangladeša, Beļģija, Brazīlija, Bulgārija, Kanāda, Čīle, Ķīna, Kolumbija, Korejas Demokrātiskā Tautas Republika, Ēģipte, Somija, Francija, Vācija, Ungārija, Indija, Indonēzija, Irāna (Islama Republika), Izraēla, Itālija, Japāna, Meksika, Nīderlande, Norvēģija, Pakistāna, Peru, Polija, Rumānija, Korejas Republika, Krievijas Federācija, Slovākija, Dienvidāfrika, Spānija, Zviedrija, Šveice, Turcija, Ukraina, Lielbritānijas un Ziemeļīrijas Apvienotā Karaliste, Amerikas Savienotās Valstis, Vjetnama, Zaira.

@@ -1,0 +1,1 @@
+Vispārējais līgums par kodolizmēģinājumu aizliegšanu

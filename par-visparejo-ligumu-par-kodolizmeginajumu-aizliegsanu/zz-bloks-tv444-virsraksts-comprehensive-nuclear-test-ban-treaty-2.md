@@ -1,0 +1,18 @@
+Annex 1 to the Treaty
+List of States Pursuant to Article II, Paragraph 28
+Africa
+Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Cape Verde, Central African Republic, Chad, Comoros, Congo, Cote d'Ivoire, Djibouti, Egypt, Equatorial Guinea, Eritrea, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Libyan Arab Jamahiriya, Madagascar, Malawi, Mali, Mauritania, Mauritius, Morocco, Mozambique, Namibia, Niger, Nigeria, Rwanda, Sao Tome & Principe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, Sudan, Swaziland, Togo, Tunisia, Uganda, United Republic of Tanzania, Zaire, Zambia, Zimbabwe.
+Eastern Europe
+Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Bulgaria, Croatia, Czech Republic, Estonia, Georgia, Hungary, Latvia, Lithuania, Moldova, Poland, Romania, Russian Federation, Slovakia, Slovenia, The former Yugoslav Republic of Macedonia, Ukraine, Yugoslavia.
+Latin America and the Caribbean
+Antigua and Barbuda, Argentina, Bahamas, Barbados, Belize, Bolivia, Brazil, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, Grenada, Guatemala, Guyana, Haiti, Honduras, Jamaica, Mexico, Nicaragua, Panama, Paraguay, Peru, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Suriname, Trinidad and Tobago, Uruguay, Venezuela.
+Middle East and South Asia
+Afghanistan, Bahrain, Bangladesh, Bhutan, India, Iran (Islamic Republic of), Iraq, Israel, Jordan, Kazakhstan, Kuwait, Kyrgyzstan, Lebanon, Maldives, Nepal, Oman, Pakistan, Qatar, Saudi Arabia, Sri Lanka, Syrian Arab Republic, Tajikistan, Turkmenistan, United Arab Emirates, Uzbekistan, Yemen.
+North America and Western Europe
+Andorra, Austria, Belgium, Canada, Cyprus, Denmark, Finland, France, Germany, Greece, Holy See, Iceland, Ireland, Italy, Liechtenstein, Luxembourg, Malta, Monaco, Netherlands, Norway, Portugal, San Marino, Spain, Sweden, Switzerland, Turkey, United Kingdom of Great Britain and Northern Ireland, United States of America.
+South East Asia, the Pacific and the Far East
+Australia, Brunei Darussalam, Cambodia, China, Cook Islands, Democratic People's Republic of Korea, Fiji, Indonesia, Japan, Kiribati, Lao People's Democratic Republic, Malaysia, Marshall Islands, Micronesia (Federated States of), Mongolia, Myanmar, Nauru, New Zealand, Niue, Palau, Papua New Guinea, Philippines, Republic of Korea, Samoa, Singapore, Solomon Islands, Thailand, Tonga, Tuvalu, Vanuatu, Viet Nam.
+Annex 2 to the Treaty
+List of States Pursuant to Article XIV
+List of States members of the Conference on Disarmament as at 18 June 1996 which formally participated in the work of the 1996 session of the Conference and which appear in Table 1 of the International Atomic Energy Agency's April 1996 edition of "Nuclear Power Reactors in the World", and of States members of the Conference on Disarmament as at 18 June 1996 which formally participated in the work of the 1996 session of the Conference and which appear in Table 1 of the International Atomic Energy Agency's December 1995 edition of "Nuclear Research Reactors in the World":
+Algeria, Argentina, Australia, Austria, Bangladesh, Belgium, Brazil, Bulgaria, Canada, Chile, China, Colombia, Democratic People's Republic of Korea, Egypt, Finland, France, Germany, Hungary, India, Indonesia, Iran (Islamic Republic of), Israel, Italy, Japan, Mexico, Netherlands, Norway, Pakistan, Peru, Poland, Romania, Republic of Korea, Russian Federation, Slovakia, South Africa, Spain, Sweden, Switzerland, Turkey, Ukraine, United Kingdom of Great Britain and Northern Ireland, United States of America, Viet Nam, Zaire.
