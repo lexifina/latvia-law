@@ -1,0 +1,1 @@
+1.pants. 1964.gada 22.jūlija konvencija par Eiropas farmakopejas izveidi ar grozījumiem, kas izdarīti ar tās 1989.gada 16.novembra protokolu (turpmāk - Konvencija), ar šo likumu tiek pieņemta un apstiprināta.
