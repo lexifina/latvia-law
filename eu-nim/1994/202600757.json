@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums par budžetu un finanšu vadību",
+  "type_of_act": "Likums",
+  "official_journal": null,
+  "official_journal_reference": "41",
+  "official_journal_page": null,
+  "official_journal_date": "1994-04-06",
+  "entry_into_force": "1994-04-26",
+  "notification_date": "2026-01-27",
+  "commission_reference": "MNE(2026)00757",
+  "nim_celex": "72024L1265LVA_202600757",
+  "nim_id": "202600757",
+  "transposes_celex": [
+    "32024L1265"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e0622212-5269-4220-b47a-7f8bc88acede",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
