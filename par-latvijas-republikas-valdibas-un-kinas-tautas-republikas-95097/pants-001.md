@@ -1,0 +1,1 @@
+1.pants. 2004.gada 15.aprīlī Pekinā parakstītais Latvijas Republikas valdības un Ķīnas Tautas Republikas valdības nolīgums par jūras transportu (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
