@@ -1,0 +1,1 @@
+1.pants. 1995.gada 24.maijā Rīgā parakstītais Latvijas Republikas un Ukrainas līgums par tiesisko palīdzību un tiesiskajām attiecībām civilajās, ģimenes, darba un krimināllietās (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
