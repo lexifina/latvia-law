@@ -1,0 +1,30 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Prasības darbībām ar biocīdiem",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "83",
+  "official_journal_page": null,
+  "official_journal_date": "2003-06-04",
+  "entry_into_force": "2003-07-01",
+  "notification_date": "2009-04-28",
+  "commission_reference": "MNE(2009)51818",
+  "nim_celex": "72006L0123LVA_161684",
+  "nim_id": "161684",
+  "transposes_celex": [
+    "32006L0123",
+    "32008L0075",
+    "32008L0077",
+    "32008L0078",
+    "32008L0079",
+    "32008L0080",
+    "32008L0081",
+    "32008L0085",
+    "32008L0086"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/45f76973-619a-4fae-80f5-168345b22547",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
