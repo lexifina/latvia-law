@@ -1,2 +1,2 @@
-2.² pants. Sabiedrisko organizāciju un to apvienību reģistrācija
-Uzņēmumu reģistra valsts notāri sabiedrisko organizāciju un to apvienību reģistrāciju veic saskaņā ar likumu "Par sabiedriskajām organizācijām un to apvienībām" un citiem normatīvajiem aktiem.
+2.² pants. Sabiedrisko organizāciju un to apvienību pamatdokumentu grozījumu un citu izmaiņu reģistrācija
+Uzņēmumu reģistra valsts notāri sabiedrisko organizāciju un to apvienību pamatdokumentu grozījumu un citu izmaiņu reģistrāciju veic saskaņā ar likumu "Par sabiedriskajām organizācijām un to apvienībām", ievērojot Biedrību un nodibinājumu likuma spēkā stāšanās kārtības likumā noteiktos termiņus.
