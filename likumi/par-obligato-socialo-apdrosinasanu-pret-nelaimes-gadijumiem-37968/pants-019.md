@@ -1,0 +1,9 @@
+19. pants. Pārejošas darba nespējas pabalsts
+(1) Ja pārejošas darba nespējas cēlonis ir nelaimes gadījums darbā vai arodslimība, pabalsta izmaksas pamats apdrošinātajai personai ir Ministru kabineta noteiktajā kārtībā izsniegta darba nespējas lapa un apdrošinājuma ņēmēja apstiprinājums par apdrošinātās personas neierašanos darbā.
+(2) Apdrošinātajai personai pārejošas darba nespējas pabalstu izmaksā par periodu, kas nav ilgāks par 52 kalendārajām nedēļām. Ja darbspēju atgūšanas periods apdrošinātajai personai ilgst vairāk par 16 kalendārajām nedēļām, lēmumu par šīs personas turpmāko ārstēšanu pieņem vai darbspēju zaudējumu nosaka VDEĀK.
+(3) Pārejošas darba nespējas pabalstu apdrošinātajai personai piešķir 100 procentu apmērā, ņemot par pamatu mēneša vidējo izpeļņu, un izmaksā:
+1) apdrošinātajām personām, kas minētas šā likuma 3. panta 1. punkta "a" un "c" apakšpunktā, šādā kārtībā:
+a) ja noticis nelaimes gadījums darbā: par pirmajām 14 darba nespējas dienām - apdrošinājuma ņēmējs no saviem līdzekļiem; par turpmāko pārejošas darba nespējas periodu līdz darbspēju atgūšanai vai līdz laikam, ar kuru sāk izmaksāt atlīdzību par darbspēju zaudējuma pakāpi, - Valsts sociālās apdrošināšanas fonds no Darba negadījumu fonda līdzekļiem,
+b) ja apdrošinātā persona saslimusi ar arodslimību: sākot ar to darba nespējas dienu, kad speciāla ārstu komisija konstatējusi arodslimību, līdz izveseļošanās vai darbspēju zaudējuma pakāpes noteikšanas dienai - Valsts sociālās apdrošināšanas fonds no Darba negadījumu fonda līdzekļiem;
+2) apdrošinātajām personām, kas minētas šā likuma 3. panta 1. punkta "b" apakšpunktā, - Valsts sociālās apdrošināšanas fonds no Darba negadījumu fonda līdzekļiem.
+(4) Pārejošas darba nespējas pabalstu par periodu līdz arodslimības konstatēšanas dienai maksā saskaņā ar spēkā esošajiem slimības (pārejošas darba nespējas) pabalsta piešķiršanas un izmaksāšanas noteikumiem.

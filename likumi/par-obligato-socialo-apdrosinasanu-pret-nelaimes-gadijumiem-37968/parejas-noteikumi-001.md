@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanās dienu sakropļojuma vai arodslimības dēļ nodarītā kaitējuma atlīdzināšanas pienākums pāriet no uzņēmuma (uzņēmējsabiedrības), iestādes vai organizācijas Darba negadījumu fondam Ministru kabineta noteiktajā kārtībā.

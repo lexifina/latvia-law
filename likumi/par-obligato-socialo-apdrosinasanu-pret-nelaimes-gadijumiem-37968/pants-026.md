@@ -1,0 +1,2 @@
+26. pants. Apdrošinātās personas atbildība
+Ja apdrošinātā persona apzināti nav pildījusi šā likuma 18. pantā noteiktos pienākumus, Darba negadījumu fonds pārtrauc apdrošināšanas atlīdzības izmaksas, bet, ja apdrošināšanas atlīdzības izmaksu cēlonis ir apdrošinātās personas vai trešās personas apzinātas ļaunprātīgas rīcības sekas, Darba negadījumu fonds tiesas ceļā piedzen no šīm personām tām nepamatoti izmaksātās summas.

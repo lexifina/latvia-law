@@ -1,0 +1,6 @@
+25. pants. Atbildība par ziņu slēpšanu un nepatiesu ziņu sniegšanu
+(1) Par ziņu slēpšanu, nepatiesu ziņu sniegšanu vai par šo ziņu iesniegšanas termiņa nokavējumu, ja tas saistīts ar apdrošināšanas maksājumu apmēra samazināšanu, no apdrošinājuma ņēmēja tiek piedzīts apdrošināšanas maksājuma parāds un soda nauda maksājuma parāda apmērā, bet gada laikā katra atkārtota pārkāpuma gadījumā - parāds un soda nauda divkāršā maksājuma parāda apmērā.
+(2) Par informācijas, uzskaites vai kontroles dokumentu savlaicīgu neiesniegšanu vai izvairīšanos tos iesniegt, kā arī par nepatiesu ziņu sniegšanu Darba negadījumu fondam apdrošinājuma ņēmējs tiek saukts pie atbildības likumā noteiktajā kārtībā.
+(3) Ja apdrošinātā persona ir cietusi nelaimes gadījumā darbā vai saslimusi ar arodslimību, bet apdrošinājuma ņēmējs likumā noteiktajā kārtībā par to nav veicis pirmos vai kārtējos apdrošināšanas maksājumus, visas izmaksas, kas saistītas ar apdrošināšanas atlīdzību, kura šai personai pienākas, sedz Darba negadījumu fonds un regresa kārtībā piedzen šo izmaksu summas no:
+1) darba devēja, ja cietusī ir šā likuma 3. panta 1. punkta "a" vai "c" apakšpunktā minētā persona;
+2) mācību un audzināšanas iestādes, ja cietusī ir šā likuma 3. panta 1. punkta "b" apakšpunktā minētā persona.

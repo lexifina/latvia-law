@@ -1,0 +1,1 @@
+4. Ja kaitējuma atlīdzība par sakropļojumu vai arodslimību bija noteikta pirms šā likuma spēkā stāšanās, apdrošināšanas atlīdzību pārrēķina saskaņā ar šo likumu un Ministru kabineta noteikumiem, ievērojot proporciju starp personas mēneša vidējo izpeļņu un mēneša vidējo darba samaksu valstī.
