@@ -1,0 +1,1 @@
+Šis likums attiecas uz rajonu (pilsētu) tiesu, apgabaltiesu un Augstākās tiesas tiesnešiem, apgabaltiesu zemesgrāmatu nodaļu priekšniekiem un viņu vietniekiem (turpmāk - arī tiesneši), nosaka viņu disciplinārās atbildības pamatu un regulē disciplinārlietu ierosināšanas un izskatīšanas kārtību.

@@ -1,0 +1,1 @@
+1. Noteikt, ka līdz Apgabaltiesu tiesnešu kvalifikācijas kolēģijas ievēlēšanai likumā paredzētās Apgabaltiesu tiesnešu kvalifikācijas kolēģijas funkcijas veic Augstākās tiesas tiesnešu kvalifikācijas kolēģija.

@@ -1,0 +1,3 @@
+5. pants. Disciplinārlietas sagatavošana izskatīšanai tiesnešu kvalifikācijas kolēģijā
+(1) Līdz disciplinārlietas izskatīšanas sākumam tiesnešu kvalifikācijas kolēģijas priekšsēdētājs var uzdot vienam no kolēģijas locekļiem papildus pārbaudīt, vai ir pamats saukt tiesnesi pie disciplinārās atbildības. Ja nepieciešams, pieprasāmi papildu dokumenti un materiāli, tāpat arī tiesu lietas, kuru izskatīšanā tiesnesis pieļāvis likuma pārkāpumu.
+(2) Laiks un vieta, kad un kur disciplinārlieta tiks izskatīta tiesnešu kvalifikācijas kolēģijas sēdē, ne vēlāk kā septiņas dienas pirms lietas izskatīšanas jāpaziņo personai, kas ierosinājusi disciplinārlietu, un tiesnesim, par kuru tā ierosināta.

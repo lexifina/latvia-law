@@ -1,0 +1,1 @@
+2. Ar šā likuma spēkā stāšanos spēku zaudē 1990. gada l. marta likums «Par nolikuma «Par Latvijas PSR tiesnešu disciplināro atbildību, tiesnešu un tautas piesēdētāju atsaukšanu un pirmstermiņa atbrīvošanu» apstiprināšanu» (Latvijas PSR Augstākās Padomes un Valdības Ziņotājs, 1990, 12).

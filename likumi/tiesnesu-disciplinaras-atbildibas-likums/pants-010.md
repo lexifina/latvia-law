@@ -1,0 +1,5 @@
+10. pants. Lēmuma pārsūdzēšana
+(1) Rajonu (pilsētu) tiesu tiesnešu kvalifikācijas kolēģijas lēmumu tiesnesis, par kuru ierosināta disciplinārlieta, kā arī persona, kas ierosinājusi šo lietu, var pārsūdzēt Apgabaltiesu tiesnešu kvalifikācijas kolēģijā septiņu dienu laikā no kolēģijas lēmuma noraksta saņemšanas dienas.
+(2) Apgabaltiesu tiesnešu kvalifikācijas kolēģijas lēmumu tiesnesis, par kuru ierosināta disciplinārlieta, kā arī persona, kas ierosinājusi šo lietu, var pārsūdzēt Augstākās tiesas tiesnešu kvalifikācijas kolēģijā septiņu dienu laikā no kolēģijas lēmuma noraksta saņemšanas dienas.
+(3) Augstākās tiesas tiesnešu kvalifikācijas kolēģijas lēmumu tiesnesis, par kuru ierosināta disciplinārlieta, kā arī persona, kas ierosinājusi šo lietu, var pārsūdzēt Augstākās tiesas plēnumā septiņu dienu laikā no kolēģijas lēmuma noraksta saņemšanas dienas.
+(4) Augstākās tiesas plēnuma lēmums jautājumā par Augstākās tiesas tiesnešu kvalifikācijas kolēģijā ievēlēto tiesnešu disciplināro atbildību ir galīgs.

@@ -1,0 +1,11 @@
+3. pants. Disciplinārlietas ierosināšana
+(1) Ierosināt disciplinārlietu ir tiesīgi:
+1) Augstākās tiesas priekšsēdētājs - par Augstākās tiesas tiesnešiem un senatoriem (Senāta tiesnešiem) visos šā likuma 1. pantā norādītajos gadījumos, bet par rajonu (pilsētu) tiesu un apgabaltiesu tiesnešiem, kā arī apgabaltiesu zemesgrāmatu nodaļu priekšniekiem un viņu vietniekiem - šā likuma 1. panta pirmās daļas 1. punktā norādītajos gadījumos;
+2) tieslietu ministrs - par rajonu (pilsētu) tiesu un apgabaltiesu tiesnešiem, apgabaltiesu zemesgrāmatu nodaļu priekšniekiem un viņu vietniekiem - visos šā likuma 1. pantā norādītajos gadījumos;
+3) apgabaltiesu priekšsēdētāji - par rajonu (pilsētu) tiesu tiesnešiem un apgabaltiesu zemesgrāmatu nodaļu priekšniekiem un viņu vietniekiem - šā likuma 1. panta pirmās daļas 1. punktā norādītajos gadījumos, bet par apgabaltiesu tiesnešiem - visos šā likuma 1. pantā norādītajos gadījumos;
+4) rajonu (pilsētu) tiesu priekšsēdētāji - par rajonu (pilsētu) tiesu tiesnešiem - visos šā likuma 1. pantā norādītajos gadījumos.
+(2) Persona, kas tiesīga ierosināt disciplinārlietu, ja ir pamats ierosināt šādu lietu, organizē saņemto materiālu vispusīgu iepriekšējo pārbaudi un pieprasa tiesneša rakstveida paskaidrojumu.
+(3) Par disciplinārlietas ierosināšanu Augstākās tiesas priekšsēdētājs, apgabaltiesas priekšsēdētājs un rajona (pilsētas) tiesas priekšsēdētājs pieņem lēmumu, bet tieslietu ministrs izdod pavēli. Lēmumā vai pavēlē jānorāda iepriekšējā pārbaudē konstatētie disciplinārā vai administratīvā pārkāpuma izdarīšanas apstākļi un disciplinārlietas ierosināšanas pamats. Lēmumu vai pavēli kopā ar iepriekšējā pārbaudē savāktajiem materiāliem nosūta pēc piekritības izskatīšanai attiecīgajai tiesnešu kvalifikācijas kolēģijai.
+(4) Pirms disciplinārlietas materiālu nosūtīšanas tiesnešu kvalifikācijas kolēģijai tiesnesim, par kuru ierosināta disciplinārlieta, tiek paziņots par to, ka iepriekšējā pārbaude ir pabeigta, un par laiku, kad viņš var iepazīties ar pārbaudes materiāliem.
+(5) Tiesnesis, par kuru ierosināta disciplinārlieta, ir tiesīgs iepazīties ar attiecīgās lietas materiāliem, sniegt paskaidrojumus un iesniegt lūgumus.
+(6) Līdz lietas izskatīšanai tiesnešu kvalifikācijas kolēģijā lēmumu vai pavēli par disciplinārlietas ierosināšanu persona, kas to ir ierosinājusi, var atsaukt ar motivētu lēmumu vai pavēli.
