@@ -1,0 +1,2 @@
+15. pants. Objekta izslēgšana no valsts aizsargājamo kultūras pieminekļu saraksta
+Objekta izslēgšana no valsts aizsargājamo kultūras pieminekļu saraksta pieļaujama, ja objekts pilnībā zaudējis savu kultūras pieminekļa vērtību. Objektus no valsts aizsargājamo kultūras pieminekļu saraksta izslēdz Latvijas Republikas Kultūras ministrija. Tā informē sabiedrību par priekšlikumu izslēgt kultūras pieminekli no valsts aizsargājamo kultūras pieminekļu saraksta, publicējot priekšlikumu, tā motivāciju un īsas ziņas par attiecīgo objektu.

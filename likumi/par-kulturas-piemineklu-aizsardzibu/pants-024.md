@@ -1,0 +1,3 @@
+24. pants. Kultūras pieminekļu saglabāšanas finansēšana
+Kultūras pieminekļa konservāciju, restaurāciju un remontu veic kultūras pieminekļa īpašnieks par saviem līdzekļiem.
+Pēc Latvijas Republikas Kultūras ministrijas ierosinājuma no valsts budžeta iedala līdzekļus kultūras pieminekļu izpētei un saimnieciski neizmantojamu valsts nozīmes kultūras pieminekļu konservācijai un restaurācijai, bet no pašvaldību budžetiem - līdzekļus saimnieciski neizmantojamu vietējās nozīmes kultūras pieminekļu konservācijai un restaurācijai. Izpētes darbus, kuri nepieciešami sakarā ar celtniecības, meliorācijas, ceļu būves un citas saimnieciskās darbības veikšanu, finansē darbu izpildītājs. uz pasūtītāja rēķina.

@@ -1,0 +1,2 @@
+1. pants. Likuma objekts
+Kultūras pieminekļi ir kultūrvēsturiskā mantojuma daļa - kultūrvēsturiskas ainavas un atsevišķas teritorijas (senkapi, kapsētas, parki, vēsturisko notikumu norises un ievērojamu personu darbības vietas), kā arī atsevišķi kapi, ēku grupas un atsevišķas ēkas, mākslas darbi, iekārtas un priekšmeti, kuriem ir vēsturiska, zinātniska, mākslinieciska vai citāda kultūras vērtība un kuru saglabāšana nākamajām paaudzēm atbilst Latvijas valsts un tautas, kā arī starptautiskajām interesēm.

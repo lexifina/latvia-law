@@ -1,0 +1,2 @@
+17. pants. Jaunatklāto kultūras pieminekļu aizsardzība
+Jaunatklātie objekti, kuriem ir vēsturiska, zinātniska, mākslinieciska vai citāda kultūras vērtība, neatkarīgi no tā, kā īpašumā tie atrodas, līdz jautājuma izlemšanai par šo objektu iekļaušanu valsts aizsargājamo kultūras pieminekļu sarakstā, bet ne ilgāk kā sešus mēnešus no dienas, kad par to ticis informēts objekta īpašnieks, atrodas valsts aizsardzībā.

@@ -1,0 +1,1 @@
+Kultūras pieminekļu aizsardzība ir pasākumu sistēma, kas nodrošina kultūrvēsturiskā mantojuma saglabāšanu un ietver tā uzskaiti, izpēti, praktisko saglabāšanu, kultūras pieminekļu izmantošanu un to popularizēšanu.

@@ -1,0 +1,2 @@
+12. pants. Kultūras pieminekļu valsts uzskaites organizācija
+Kultūras vērtības, kuras pretendē uz iekļaušanu valsts aizsargājamo kultūras pieminekļu sarakstā, ir pakļautas valsts uzskaitei neatkarīgi no tā, kā īpašumā, valdījumā vai izmantošanā tās atrodas. Pieminekļu valsts uzskaite aptver pieminekļu apzināšanu un apsekošanu, to vēsturiskās, zinātniskās, mākslinieciskās, arhitektoniskās, arheoloģiskās, etnogrāfiskās vai citādas kultūras vērtības noteikšanu, to fiksāciju un izpēti, uzskaites dokumentu sagatavošanu.

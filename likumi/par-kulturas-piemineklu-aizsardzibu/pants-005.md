@@ -1,0 +1,2 @@
+5. pants. Valsts pārvalde kultūras pieminekļu aizsardzībā un izmantošanā
+Valsts pārvaldi kultūras pieminekļu aizsardzībā un izmantošanā nodrošina Latvijas Republikas valdība un pašvaldības, to realizē Latvijas Republikas Kultūras ministrija un Latvijas Republikas Kultūras ministrijas Valsts kultūras pieminekļu aizsardzības inspekcija (turpmāk - Valsts kultūras pieminekļu aizsardzības inspekcija), un to noteikumi, instrukcijas un norādījumi kultūras pieminekļu aizsardzības, izmantošanas, uzskaites un restaurācijas jautājumos ir obligāti fiziskajām un juridiskajām personām.

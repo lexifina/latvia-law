@@ -1,0 +1,2 @@
+29. pants. Sabiedriskā kontrole pār kultūras pieminekļu aizsardzību
+Sabiedrisko kontroli pār kultūras pieminekļu aizsardzību un izmantošanu realizē sabiedriskās organizācijas, kustības un iedzīvotāji. Šīs kontroles mērķis ir sekot, kā fiziskās un juridiskās personas ievēro kultūras pieminekļu aizsardzības normatīvo aktu prasības un pilda kultūras pieminekļu aizsardzības un izmantošanas programmas.
