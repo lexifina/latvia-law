@@ -5,4 +5,4 @@
 4) ne mazāk kā pieci deputāti,
 5) viena desmitā daļa vēlētāju (Satversmes 65. p.). Tiem jābūt noformētiem likumprojektu veidā.
 (2) Valsts prezidentam ir tiesības iesniegt arī likuma ierosinājumus, kuri var nebūt noformēti kā likumprojekti.
-(3) Ministru kabinets likumprojektam pievieno anotāciju.
+(3) Ministru kabinets likumprojektam pievieno anotāciju, likumprojekta un anotācijas tekstu elektroniskā formā.
