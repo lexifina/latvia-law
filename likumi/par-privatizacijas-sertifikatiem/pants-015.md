@@ -1,0 +1,5 @@
+15.pants. Kompensācija par politiski represētajām personām atņemto mantu
+(1) Politiski represētās personas vai to mantinieki pēc savas vēlēšanās kompensāciju par atņemto mantu var saņemt īpašuma kompensācijas sertifikātos.
+(2) Lēmumu par īpašuma kompensācijas sertifikātu piešķiršanu Ministru kabineta noteiktajā kārtībā pieņem tā rajona padome vai republikas pilsētas dome, kuras teritorijā politiski represētā persona dzīvojusi pirms represēšanas.
+(3) Par atņemto mantu piešķiramo sertifikātu daudzumu nosaka institūcija, kura pieņem lēmumu par kompensāciju, atbilstoši pirms represēšanas sastādītajiem dokumentiem, kuros norādīts mantas sastāvs un stāvoklis.
+(4) Kompensējamās mantas vērtību, ņemot vērā agrāk kompensēto daļu, atbilstoši minētajos dokumentos norādītajam mantas sastāvam un stāvoklim nosaka pēc dokumentiem, kurus iesniedz mantas īpašnieks vai viņa mantinieki un kuros norādīta mantas vai tās sastāvdaļu vērtība. Šie dokumenti var būt sastādīti jebkurā laikā. Ja dokumenti nav saglabājušies, mantas vērtību nosaka tiesa. Koeficientu šīs vērtības pārrēķinam īpašuma kompensācijas sertifikātos atkarībā no dokumentu sastādīšanas datuma nosaka Ministru kabinets.

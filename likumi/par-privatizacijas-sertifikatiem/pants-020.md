@@ -1,0 +1,4 @@
+20.pants. Strīdu izskatīšana
+(1) Strīdus, kas rodas sakarā ar sertifikātu piešķiršanu par Latvijā nodzīvoto laiku un to daudzuma noteikšanu, privatizācijas sertifikātu kontu atvēršanu un sertifikātu grāmatiņu izsniegšanu, izskata pagasta padome vai pilsētas dome. Padomes vai domes lēmumu var pārsūdzēt tiesā.
+(2) Strīdi, kas rodas sakarā ar kompensējamā īpašuma novērtēšanu un sertifikātu daudzuma noteikšanu īpašuma kompensācijai, izskatāmi kārtībā, kādu nosaka likumi par attiecīgo īpašuma veidu denacionalizāciju un atdošanu bijušajiem īpašniekiem.
+(3) Strīdi, kas rodas par sertifikātu piešķiršanu un anulēšanu un tādu darījumu atzīšanu par spēkā neesošiem, kas veikti ar anulētajiem sertifikātiem, kā arī par sertifikātu kā maksāšanas līdzekļa izmantošanu, izskatāmi tiesā likumos noteiktajā kārtībā.

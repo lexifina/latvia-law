@@ -1,0 +1,1 @@
+4. Normatīvos aktus, kas nepieciešami, lai nodrošinātu šā likuma izpildi, Ministru kabinets izstrādā līdz 1995.gada 1.maijam. Līdz jaunu Ministru kabineta normatīvo aktu pieņemšanai piemērojami līdzšinējie normatīvie akti, ja tie nav pretrunā ar šo likumu.

@@ -1,0 +1,2 @@
+21.pants. Atbildība par šā likuma pārkāpšanu
+Par nepatiesu ierakstu izdarīšanu privatizācijas sertifikātu kontos, sertifikātu grāmatiņās un dokumentos, kas iesniegti sertifikātu saņemšanai, par nepatiesas informācijas sniegšanu vai informācijas nesniegšanu par privatizējamiem īpašuma objektiem, par sertifikātu kā maksāšanas līdzekļa nepieņemšanu un citiem šā likuma pārkāpumiem vainīgās personas saucamas pie atbildības saskaņā ar likumdošanas aktiem.
