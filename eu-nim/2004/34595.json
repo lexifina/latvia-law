@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2002.gada 18.jūnija noteikumos Nr.234 \"Noteikumi par transportējamām spiedieniekārtām\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "209",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-29",
+  "entry_into_force": "2004-12-30",
+  "notification_date": "2005-01-24",
+  "commission_reference": "MNE(2005)54595",
+  "nim_celex": "71984L0525LVA_34595",
+  "nim_id": "34595",
+  "transposes_celex": [
+    "31984L0525",
+    "31984L0526",
+    "31984L0527"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/956db633-ad58-4302-ad7e-bc3b3b108b68",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
