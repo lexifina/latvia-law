@@ -1,0 +1,1 @@
+1.pants. 1997.gada 18.decembra Konvencija, kas izstrādāta, pamatojoties uz Līguma par Eiropas Savienību K.3 pantu, par savstarpēju palīdzību un sadarbību muitas pārvalžu starpā (Neapoles II Konvencija) (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
