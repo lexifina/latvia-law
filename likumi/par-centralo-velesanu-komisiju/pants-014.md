@@ -1,0 +1,1 @@
+14. pants. Centrālā vēlēšanu komisija par savu darbību un pieņemtajiem lēmumiem informē sabiedrību ar preses izdevumu, televīzijas un radio palīdzību. Tās sēdēs var būt klāt valsts institūciju un Centrālajā vēlēšanu komisijā akreditēto masu informācijas līdzekju pārstāvji.

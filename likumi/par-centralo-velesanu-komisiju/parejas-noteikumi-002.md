@@ -1,0 +1,1 @@
+2. Ar šā likuma spēkā stāšanās dienu spēku zaudē ar Latvijas Republikas Augstākās Padomes 1992. gada 2. decembra lēmumu apstiprinātais Latvijas Republikas Centrālās vēlēšanu komisijas nolikums (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 51/52).

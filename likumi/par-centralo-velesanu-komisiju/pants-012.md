@@ -1,0 +1,1 @@
+12. pants. Ja Saeimas vēlēšanās, tautas nobalsošanā vai ari pilsētas domes, rajona padomes un pagasta padomes vēlēšanās atsevišķos vēlēšanu iecirkņos pieļauti rupji likuma pārkāpumi un tie ietekmējuši vēlēšanu rezultātus, Centrālā vēlēšanu komisija lemj par attiecīgā vēlēšanu iecirkņa balsošanas rezultātu anulēšanu.

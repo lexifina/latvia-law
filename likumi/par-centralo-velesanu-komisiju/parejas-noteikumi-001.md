@@ -1,0 +1,1 @@
+1. Līdz tā likuma pieņemšanai, kas reglamentēs valsts civildienesta attiecības un noteiks valsts ierēdņu amatalgas, Centrālās vēlēšanu komisijas priekšsēdētāja, viņa vietnieka, sekretāra, komisijas locekļu, kā arī Centrālās vēlēšanu komisijas sekretariāta darbinieku algas nosaka Ministru kabinets.

@@ -1,0 +1,1 @@
+4. pants. Centrālā vēlēšanu komisija nodrošina Saeimas vēlēšanu likuma, pilsētas domes, rajona padomes un pagasta padomes vēlēšanu likuma un likuma par tautas nobalsošanu un likumu ierosināšanu izpildi, kā arī šo likumu vienveidīgu un pareizu piemērošanu.

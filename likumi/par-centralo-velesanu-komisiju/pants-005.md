@@ -1,0 +1,1 @@
+5. pants. Centrālā vēlēšanu komisija likumu ietvaros izdod nepieciešamos rīkojumus un instrukcijas, kas tiek publicētas oficiālā laikrakstā. Rīkojumi un instrukcijas stājas spēkā ar to publicēšanas dienu un ir jāievēro visām vēlēšanu komisijām, kā arī valsts un pašvaldību iestādēm.

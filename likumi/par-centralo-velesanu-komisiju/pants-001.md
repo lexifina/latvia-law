@@ -1,0 +1,1 @@
+1. pants. Saeimas vēlēšanu, tautas nobalsošanas, kā arī pilsētas domes, rajona padomes un pagasta padomes vēlēšanu sagatavošanai un vadīšanai Saeima ne vēlāk kā sešus mēnešus pēc tās sanākšanas izveido Centrālo vēlēšanu komisiju.
