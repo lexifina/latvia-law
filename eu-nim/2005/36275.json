@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Kārtība, kādā Pārtikas un veterinārais dienests, Ciltsdarba valsts inspekcija un valsts aģentūra \"Lauksaimniecības datu centrs\" sadarbojas ar Eiropas Savienības institūcijām un citu Eiropas Savienības dalībvalstu kompetentajām iestādēm",
+  "type_of_act": "Ministrijas instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "39",
+  "official_journal_page": null,
+  "official_journal_date": "2005-03-08",
+  "entry_into_force": null,
+  "notification_date": "2005-03-23",
+  "commission_reference": "MNE(2005)56275",
+  "nim_celex": "71989L0608LVA_36275",
+  "nim_id": "36275",
+  "transposes_celex": [
+    "31989L0608"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5900520b-ade1-49e9-be5e-ce7eeb30433e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
