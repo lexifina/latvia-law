@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par rajona, pilsētas, pilsētas rajona un pagasta padomes tautas deputāta statusu" un Augstākās Padomes lēmums "Par Latvijas Republikas likuma "Par rajona, pilsētas, pilsētas rajona un pagasta padomes tautas deputāta statusu" spēkā stāšanās kārtību" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991,19./20.nr.).
