@@ -1,0 +1,2 @@
+22.pants. (1) Speciālajā mācību literatūrā, tehniskajā un lietvedības dokumentācijā lietojama vienota terminoloģija. Terminu veidošanu un lietošanu nosaka Latvijas Zinātņu akadēmijas Terminoloģijas komisija (turpmāk - Terminoloģijas komisija). Jauni termini un to definīciju standarti lietojami oficiālajā saziņā tikai pēc apstiprināšanas Terminoloģijas komisijā un publicēšanas laikrakstā "Latvijas Vēstnesis".
+(2) Terminoloģijas komisijas nolikumu apstiprina Ministru kabinets.

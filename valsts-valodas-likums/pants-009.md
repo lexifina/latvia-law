@@ -1,0 +1,1 @@
+9.pants. Fizisko un juridisko personu līgumi par ārstniecības, veselības aprūpes, sabiedriskās drošības un citu sabiedrisku pakalpojumu sniegšanu Latvijas teritorijā slēdzami valsts valodā. Ja līgumi ir svešvalodā, tiem pievienojams tulkojums valsts valodā.

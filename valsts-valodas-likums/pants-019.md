@@ -1,0 +1,3 @@
+19.pants. (1) Personvārdus atveido saskaņā ar latviešu valodas tradīcijām un raksta atbilstoši spēkā esošajām literārās valodas normām, ievērojot šā panta otrās daļas noteikumus.
+(2) Personas pasē vai dzimšanas apliecībā papildus personas vārdam un uzvārdam, kas atveidots atbilstoši spēkā esošajām latviešu valodas normām, norādāma šīs personas dzimtas uzvārda vēsturiskā forma vai citas valodas personvārda oriģinālforma latīņalfabētiskajā transliterācijā, ja persona vai nepilngadīgas personas vecāki to vēlas un var to apliecināt dokumentāri.
+(3) Vārdu un uzvārdu rakstību un identifikāciju, kā arī citu valodu personvārdu rakstību un lietošanu latviešu valodā reglamentē Ministru kabineta noteikumi.

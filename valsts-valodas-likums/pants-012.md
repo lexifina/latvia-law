@@ -1,0 +1,1 @@
+12.pants. Nacionālo bruņoto spēku struktūrvienībās lietojama tikai valsts valoda, izņemot gadījumus, kad citos likumos vai Latvijas Republikas starptautiskajos līgumos, kā arī starptautiskajos līgumos par Nacionālo bruņoto spēku piedalīšanos starptautiskajās operācijās vai mācībās paredzēts citādi.

@@ -1,0 +1,2 @@
+17.pants. (1) Publiski demonstrējamās kinofilmas, videofilmas un to fragmenti ieskaņojami vai dublējami valsts valodā vai arī līdztekus oriģinālajam skaņas pavadījumam nodrošināmi ar subtitriem valsts valodā, ievērojot spēkā esošās literārās valodas normas.
+(2) Šajā pantā minētajos gadījumos līdztekus ir pieļaujami arī subtitri svešvalodā. Subtitriem valsts valodā ierādāma galvenā vieta, un formas vai satura ziņā tie nedrīkst būt mazāki vai šaurāki par subtitriem svešvalodā.

@@ -1,0 +1,2 @@
+7.pants. (1) Valsts un pašvaldību iestādēs, tiesās un tiesu sistēmai piederīgās iestādēs, valsts vai pašvaldību uzņēmumos, kā arī uzņēmējsabiedrībās, kurās lielākā kapitāla daļa pieder valstij vai pašvaldībai, sēžu un citu darba sanāksmju valoda ir valsts valoda. Ja rīkotājs uzskata par nepieciešamu sanāksmes laikā lietot svešvalodu, tas nodrošina tulkojumu valsts valodā.
+(2) Visos citos gadījumos sēdēs un citās darba sanāksmēs, lietojot svešvalodu, rīkotājs nodrošina tulkojumu valsts valodā, ja to pieprasa kaut viens no sanāksmes dalībniekiem.

@@ -1,0 +1,1 @@
+15.pants. Zinātnisko grādu iegūšanai nepieciešamie darbi iesniedzami valsts valodā vai svešvalodā ar pievienotu izvērsta kopsavilkuma tulkojumu valsts valodā. Publiskā aizstāvēšana var notikt valsts valodā vai svešvalodā - pēc vienošanās ar autoru un ar attiecīgās zinātnisko grādu piešķiršanas padomes akceptu.

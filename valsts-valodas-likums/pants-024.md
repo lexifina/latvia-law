@@ -1,0 +1,2 @@
+24.pants. (1) Valsts un pašvaldību institūcijām ir pienākums nodrošināt materiālo bāzi latviešu valodas izpētei, kopšanai un attīstīšanai.
+(2) Valsts nodrošina valsts valodas politikas izstrādi, ietverot tajā latviešu valodas zinātnisku izpēti, aizsardzību un mācīšanu, sekmējot latviešu valodas lomas palielināšanu tautsaimniecībā, kā arī veicinot indivīda un sabiedrības izpratni par valodu kā nacionālu vērtību.
