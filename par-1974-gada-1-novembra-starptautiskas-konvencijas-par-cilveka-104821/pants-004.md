@@ -1,0 +1,1 @@
+4.pants. Satiksmes ministrija informē Ārlietu ministriju par iecelto inspektoru vai atzīto organizāciju sarakstu un to pilnvaru apjomu saskaņā ar Protokola III panta prasībām, un Ārlietu ministrija informē Starptautiskās jūras organizācijas ģenerālsekretāru atbilstoši Protokola III panta prasībām.
