@@ -1,6 +1,9 @@
-37.pants. Pārcelšana citā amatā valsts interesēs
-(1) Ierēdni valsts interesēs var pārcelt citā atbilstošas kvalifikācijas kategorijas amatā uz noteiktu vai nenoteiktu laiku, nosakot atalgojumu atbilstoši amata kvalifikācijas kategorijai un pakāpei, tajā pašā iestādē ar iestādes vadītāja lēmumu, bet citā iestādē - ar Pārvaldes lēmumu Ministru kabineta noteiktajā kārtībā.
-(2) Pārceļot ierēdni uz noteiktu laiku, viņam tiek saglabātas tiesības atgriezties iepriekšējā vai līdzvērtīgā amatā.
-(3) Pārceļot ierēdni uz citu apdzīvotu vietu, viņam Ministru kabineta noteiktajā kārtībā un apjomā tiek atlīdzināti pārcelšanās izdevumi.
-(4) Ierēdnis var atteikties no pārcelšanas uz citu iestādi vai uz citu apdzīvotu vietu, ja viņam ir svarīgi iemesli, kurus katrā atsevišķā gadījumā izvērtē un par kuriem atzinumu sniedz Pārvalde.
-(5) Ierēdņus, kuriem ir bērni līdz triju gadu vecumam, un grūtnieces nav atļauts pārcelt uz citu apdzīvotu vietu bez viņu piekrišanas.
+37.pants. Pārcelšana citā ierēdņa amatā
+(1) Lai nodrošinātu labu pārvaldību, civildienesta uzdevumu efektīvu izpildi, sabiedrības uzticību civildienestam, kā arī veicinātu ierēdņa kvalifikācijas izaugsmi, ierēdni, neizsludinot atklātu pretendentu konkursu, var pārcelt citā augstākas, atbilstošas vai zemākas kvalifikācijas kategorijas ierēdņa amatā uz noteiktu vai nenoteiktu laiku tajā pašā vai citā iestādē. Pārcelšanas pamatojums var būt arī ierēdņa motivēts lūgums.
+(2) Ierēdni citā amatā pārceļ ar attiecīgā iestādes vadītāja, ministra, Pārvaldes vai Ministru prezidenta lēmumu atbilstoši to pilnvarām, ievērojot attiecīgā ierēdņa institucionālo vai funkcionālo padotību.
+(3) Pārceļot ierēdni, tiek izvērtēts viņa viedoklis. Pārceļot ierēdni uz citu iestādi, tiek izvērtēts arī iestādes vadītāja, ministra un Pārvaldes viedoklis. Pārceļot ierēdni uz zemākas kvalifikācijas kategorijas amatu, tiek izvērtēts Pārvaldes viedoklis.
+(4) Pārceļot ierēdni citā atbilstošas vai zemākas kvalifikācijas kategorijas amatā, ierēdnim saglabā iepriekšējo amata mēnešalgu, sociālās garantijas, normatīvajos aktos noteiktās pastāvīgās piemaksas, kas saistītas ar dienestu, kā arī specializētajā civildienestā noteiktās dienesta pakāpes.
+(5) Pārceļot ierēdni citā amatā uz noteiktu laiku, viņam saglabā tiesības atgriezties iepriekšējā vai līdzvērtīgā amatā.
+(6) Pārceļot ierēdni uz citu apdzīvotu vietu, viņam Ministru kabineta noteiktajā kārtībā un apmērā tiek atlīdzināti izdevumi, kas saistīti ar pārcelšanos.
+(7) Ierēdņus, kuriem ir bērni līdz triju gadu vecumam, un grūtnieces nav atļauts pārcelt uz citu apdzīvotu vietu bez viņu piekrišanas.
+(8) Ierēdnim, kurš ir pārcelts citā amatā tajā pašā vai citā iestādē, ir tiesības piemērot disciplinārsodu par disciplinārpārkāpumu, kas ir izdarīts iepriekšējos ierēdņa amatos.
