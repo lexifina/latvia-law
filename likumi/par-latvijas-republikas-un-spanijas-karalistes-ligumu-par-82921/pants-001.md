@@ -1,0 +1,1 @@
+1.pants. 1995.gada 26.jūnijā Rīgā parakstītais Latvijas Republikas un Spānijas Karalistes līgums par starptautiskajiem pārvadājumiem ar autotransportu (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
