@@ -1,0 +1,3 @@
+2.pants. Eiropas ekonomisko interešu grupu darbības tiesiskais pamats
+(1) Eiropas ekonomisko interešu grupu (turpmāk - grupa) dibināšanas tiesiskais pamats ir dibināšanas līgums, un šo grupu reģistrācijai un darbībai tiek piemēroti normatīvie akti, kuri regulē pilnsabiedrību reģistrāciju un darbību, ciktāl Padomes 1985.gada 25.jūlija regulā (EEK) Nr. 2137/85 par Eiropas ekonomisko interešu grupām (turpmāk - regula), šajā likumā un citos normatīvajos aktos nav noteikts citādi.
+(2) Ja grupa reģistrēta citā Eiropas Savienības dalībvalstī un Latvijā tiek atvērta grupas filiāle, tās reģistrācijai un darbībai tiek piemēroti normatīvie akti, kuri attiecas uz ārvalsts komersanta filiāli.
