@@ -1,0 +1,3 @@
+11.pants. Principi, pēc kuriem nosakāma publiskās lietošanas dzelzceļa infrastruktūras izmantošanas maksa
+(1) Maksu par publiskās lietošanas dzelzceļa infrastruktūras izmantošanu nosaka dzelzceļa infrastruktūras īpašnieks vai valsts publiskās lietošanas dzelzceļa infrastruktūras pārvaldītājs (6.panta otrā daļa), pamatojoties uz šā likuma 12.pantā minētās publiskās lietošanas dzelzceļa infrastruktūras izmantošanas maksas aprēķināšanas metodiku.
+(2) Nedrīkst pieprasīt atšķirīgu maksu par dzelzceļa infrastruktūras izmantošanu no pārvadātājiem, kas ar vienādiem nosacījumiem sniedz ekvivalentus dzelzceļa pārvadājumu pakalpojumus.

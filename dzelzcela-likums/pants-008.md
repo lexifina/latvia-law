@@ -1,0 +1,3 @@
+8.pants. Reģistrācija un uzskaite
+(1) Visa dzelzceļa infrastruktūra Latvijā ir pakļauta valsts reģistrācijai un uzskaitei.
+(2) Dzelzceļa infrastruktūras reģistrs un uzskaite atbilstoši attiecīgajam infrastruktūras iedalījumam tiek nodrošināta Ministru kabineta noteiktajā kārtībā.

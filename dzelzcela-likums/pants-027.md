@@ -1,0 +1,4 @@
+27.pants. Dzelzceļa infrastruktūras jaudas sadalīšanas pamatprincipi
+(1) Publiskās lietošanas dzelzceļa infrastruktūras pārvaldītājs ir atbildīgs par dzelzceļa infrastruktūras jaudas sadalīšanu starp pārvadātājiem.
+(2) Dzelzceļa infrastruktūras jauda sadalāma tā, lai attiecībā uz pārvadātājiem tiktu ievērots vienlīdzības princips, kā arī nodrošināta optimāla dzelzceļa infrastruktūras izmantošana.
+(3) Satiksmes ministrs valsts publiskās lietošanas dzelzceļa infrastruktūras jaudas sadalīšanā ir tiesīgs piešķirt prioritāti tiem dzelzceļa pārvadājumu pakalpojumiem, kas tiek sniegti uz dzelzceļa pārvadājumu pasūtījuma līguma pamata, un pakalpojumiem, kas pilnīgi vai daļēji tiek sniegti, izmantojot īpašiem nolūkiem (ātrsatiksmes, kravas un tamlīdzīgiem pārvadājumiem) paredzētas vai būvētas valsts publiskās lietošanas dzelzceļa infrastruktūras.
