@@ -1,0 +1,30 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Kārtība, kādā Latvijas Republikā ieceļo un uzturas Eiropas Savienības dalībvalstu un Eiropas Ekonomikas zonas valstu pilsoņi un viņu ģimenes locekļi",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "180",
+  "official_journal_page": null,
+  "official_journal_date": "2004-11-12",
+  "entry_into_force": "2004-11-13",
+  "notification_date": "2005-01-20",
+  "commission_reference": "MNE(2005)54485",
+  "nim_celex": "71964L0221LVA_34485",
+  "nim_id": "34485",
+  "transposes_celex": [
+    "31964L0221",
+    "31968L0360",
+    "31972L0194",
+    "31973L0148",
+    "31975L0034",
+    "31975L0035",
+    "31990L0364",
+    "31990L0365",
+    "31993L0096"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/52a0f188-fe5f-441e-9c59-1ba5525cdee5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
