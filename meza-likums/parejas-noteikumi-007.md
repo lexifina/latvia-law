@@ -1,0 +1,1 @@
+7. Šā likuma 12.panta trešā daļa un 29.panta otrā daļa attiecībā uz valsts mežiem stājas spēkā 2008.gada 1.janvārī. Līdz tam izmantojama aktualizētajā datu bāzē "Meža fonds" esošā meža inventarizācijas informācija.

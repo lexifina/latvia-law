@@ -1,0 +1,2 @@
+13.pants
+Galvenās cirtes un kopšanas cirtes kritērijus - mežaudzes minimālo un kritisko šķērslaukumu, galvenās cirtes caurmēru pēc valdošās sugas un bonitātes, kailcirtes maksimālo platību vai platumu, kārtību mežaudzes atzīšanai par neproduktīvu, slimību inficēto vai kaitēkļu invadēto koku ciršanas kārtību, cirsmu izveidošanas kārtību un dabas aizsardzības prasības galvenajā un kopšanas cirtē, kā arī koku ciršanas kārtību šā likuma 12.panta otrajā daļā minētajos gadījumos nosaka Ministru kabinets.
