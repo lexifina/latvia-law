@@ -1,1 +1,1 @@
-16. Nostiprinot īpašuma tiesības sakarā ar atsavināšanas līgumiem, mantojuma, kopmantas vai kopīpašuma dalīšanas līgumiem, kuri nav notariāli apliecināti (Zemesgrāmatu likuma 44.panta pirmā daļa un 107.panta 2.punkts), ņemama valsts nodeva tādā apmērā, kāds ir paredzēts par attiecīgo notariālo darbību izpildīšanu.
+16. (Svītrots ar MK 09.04.1996. noteikumiem Nr.117, kas stājas spēkā 01.05.1996.)

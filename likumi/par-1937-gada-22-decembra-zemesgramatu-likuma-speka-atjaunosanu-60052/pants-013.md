@@ -1,3 +1,1 @@
-13. Ja tehniskās inventarizācijas dienestā vai pašvaldībā ēkas (būves) ir reģistrētas kā piederošas citai personai, nostiprinājuma lūgums atstājams bez ievērības (Zemesgrāmatu likuma 79.pants) līdz tam laikam, kamēr vienošanās ceļā vai tiesas ceļa nav izšķirts strīds par īpašuma tiesībām.
-Gadījumos, kad tehniskās inventarizācijas dienestā vai pašvaldībā ēkas (būves) nav reģistrētas, zemesgrāmatu nodaļas priekšnieks atliek nostiprinājuma lūguma izlemšanu un uz nostiprinājuma lūguma iesniedzēja rēķina ievieto oficiālā laikrakstā sludinājumu, uzaicinot personas, kuras apstrīd īpašuma pāriešanu pašreizējam valdītājam, trīs mēnešu laikā iesniegt prasību tiesā, par to paziņojot zemesgrāmatu nodaļai.
-Ja uzaicinājuma termiņā prasība nav iesniegta vai arī tiesa to noraidījusi, īpašuma tiesības nostiprināmas personai, kura iesniegusi nostiprinājuma lūgumu.
+13. (Svītrots ar MK 09.04.1996. noteikumiem Nr.117, kas stājas spēkā 01.05.1996.)

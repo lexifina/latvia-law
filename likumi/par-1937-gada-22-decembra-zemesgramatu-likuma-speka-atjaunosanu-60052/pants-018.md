@@ -1,1 +1,1 @@
-18. Zemesgrāmatu likuma 16.panta 1.punkta "a" apakšpunktā minēto Civillikuma pantu noteikumi nav piemērojami līdz laikam, kamēr nav noteikta Civillikuma ģimenes tiesību daļas spēkā stāšanās kārtība, un, nostiprinot īpašuma tiesības, jāievēro Latvijas laulības un ģimenes kodeksa 20.panta noteikumi.
+18. (Svītrots ar MK 09.04.1996. noteikumiem Nr.117, kas stājas spēkā 01.05.1996.)

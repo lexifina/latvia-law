@@ -1,4 +1,1 @@
-6. Atbilstoši Civillikuma 968.pantam ēku (būvju) tiesisko reģistrāciju var izdarīt tikai pēc zemes reģistrācijas zemesgrāmatā, izņemot šā likuma 7.pantā minētos gadījumus. Ja zeme un ēkas (būves) pieder vienai un tai pašai personai, zemes un ēku (būvju) reģistrācija un īpašuma tiesību nostiprināšana izdarāma vienlaikus.
-Ja uz zemes atrodas citai personai piederošas ēkas (būves), zemesgrāmatas nodalījuma (folijas) pirmās daļas pirmajā iedaļā ierakstāma īpaša atzīme.
-Zemes reformas laikā pieļaujama ēku (būvju) tiesiskā reģistrācija pirms zemes ierakstīšanas zemesgrāmatā atbilstoši šā likuma 7.panta noteikumiem.
-Nostiprinot īpašuma tiesības uz tādām ēkām (būvēm), kas atrodas uz svešas zemes, nostiprinājuma uzrakstā norādāms zemes īpašnieks vai izdarāma atzīme, ka zemes īpašuma tiesības nav noskaidrotas.
+6. (Svītrots ar MK 09.04.1996. noteikumiem Nr.117, kas stājas spēkā 01.05.1996.)
