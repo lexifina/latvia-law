@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Kārtība, kādā tiek veikts siltumnīcefekta gāzu emisiju monitorings, kā arī pārbaudīti un apstiprināti ikgadējie pārskati  par siltumnīcefekta gāzu emisiju",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "144",
+  "official_journal_page": null,
+  "official_journal_date": "2004-09-10",
+  "entry_into_force": "2004-09-11",
+  "notification_date": "2004-10-14",
+  "commission_reference": "MNE(2004)51848",
+  "nim_celex": "72003L0087LVA_31848",
+  "nim_id": "31848",
+  "transposes_celex": [
+    "32003L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cde9ccac-e007-43a2-8472-769c75dd8b6d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
