@@ -1,7 +1,7 @@
 4.pants. Zemes tiesiskās attiecības Brīvostas teritorijā
 (1) Valsts zemi Brīvostas teritorijā nevar pārdot, dāvināt vai citādi atsavināt.
 (2) Brīvostas teritorijas ūdeņu daļa (akvatorija) ir valsts īpašums.
-(3) Brīvostas zemi, kas pieder fiziskajai vai juridiskajai personai, var pārdot, dāvināt, mainīt vai citādi atsavināt tikai par labu valstij vai pašvaldībai.
+(3) Brīvostas zemi, kas pieder fiziskajai vai juridiskajai personai, var pārdot, dāvināt, mainīt vai citādi atsavināt likumā "Par ostām" noteiktajā kārtībā.
 (4) Ar šo likumu par labu Brīvostas pārvaldei tiek nodibināts personālservitūts uz fizisko un juridisko personu zemi, kuru atbilstoši šim pantam aizņem Brīvosta. Brīvostas pārvaldei ir tiesības tās teritorijā esošo fizisko un juridisko personu zemi izmantot ostas vajadzībām, kā arī iznomāt to uzņēmējsabiedrībām (uzņēmumiem), kas darbojas brīvostas teritorijā, bez tiesībām nodot to apakšnomā.
 (5) Servitūta lietotājs var būvēt uz tā teritorijā esošās zemes ostas darbībai nepieciešamās ēkas un būves, kā arī atļaut tās būvēt uzņēmējsabiedrībām (uzņēmumiem), kurām zeme nodota nomā, nosakot līgumā rīcību ar šīm ēkām un būvēm zemes nomas līguma izbeigšanas gadījumā.
 (6) Izbeidzoties servitūta tiesībām, zemes īpašnieks nevar pieprasīt, lai viņam tiktu atdota zeme, iekams viņš nav samaksājis atlīdzību par ēkām un būvēm.
