@@ -1,0 +1,1 @@
+Likumā iekļauta atsauce uz Komisijas 2004.gada 14.janvāra regulu (EK) Nr. 60/2004, ar ko nosaka pārejas posma pasākumus cukura nozarē sakarā ar Čehijas, Igaunijas, Kipras, Latvijas, Lietuvas, Ungārijas, Maltas, Polijas, Slovēnijas un Slovākijas pievienošanos (publicēta "Eiropas Savienības Oficiālajā Vēstnesī" L9, 15.01.2004. P.0008-0012).

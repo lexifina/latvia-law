@@ -1,0 +1,1 @@
+17.pants. Cukurbiešu audzētāju un cukura ražotāju attiecību tiesiski ekonomiskais pamats ir cukura nozares līgums, kas noslēdzams katru gadu līdz 15.februārim. Ja cukura nozares līgums šajā termiņā nav noslēgts, cukurbiešu audzētāju un cukura ražotāju savstarpējās saistības nosaka Ministru kabinets.

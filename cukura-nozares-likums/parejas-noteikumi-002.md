@@ -1,0 +1,1 @@
+2. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par cukuru" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1993, 20./21.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 22.nr.; 1995, 20.nr.; 1996, 24.nr.; 1999, 19.nr.; 2000, 4.nr.; 2002, 7., 22.nr.; 2003, 9.nr.; 2004, 7.nr.).

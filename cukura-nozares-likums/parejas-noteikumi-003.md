@@ -1,0 +1,1 @@
+3. Līdz jaunu Ministru kabineta rīkojumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2005.gada 15.februārim ir spēkā Ministru kabineta 2004.gada 18.februāra rīkojums Nr.111 "Par cukura ražošanas kvotas 2004.gadam sadali starp cukura ražošanas uzņēmumiem (uzņēmējsabiedrībām)".

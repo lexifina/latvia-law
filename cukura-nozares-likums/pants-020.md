@@ -1,0 +1,1 @@
+20.pants. Cukura un tā pārstrādes produktu, izoglikozes un fruktozes ražotāji, tirgotāji, importētāji un eksportētāji sniedz Valsts ieņēmumu dienestam lieko cukura krājumu konstatēšanai nepieciešamo informāciju Komisijas regulā Nr. 60/2004 noteikto pasākumu nodrošināšanai. Informācijas iesniegšanas kārtību un tajā ietveramās ziņas nosaka Ministru kabinets.

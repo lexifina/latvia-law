@@ -1,0 +1,1 @@
+11.pants. Ja cukura ražotājam kārtējā gadā atbilstoši piešķirtajai cukura ražošanas kvotai nepieciešamais cukurbiešu piegādes apjoms ir mazāks par kopējo cukurbiešu piegādes pamatapjomu, kārtējā gada cukurbiešu piegādes apjoms proporcionāli tiek samazināts visiem cukurbiešu audzētājiem.

@@ -1,0 +1,1 @@
+19.pants. Cukura ražotājs sniedz Lauku atbalsta dienestam cukura tirgus analīzei un bilances sagatavošanai nepieciešamo informāciju. Informācijas iesniegšanas kārtību un šīs informācijas saturu nosaka Ministru kabinets.
