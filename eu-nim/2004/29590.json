@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi likumā \"Par atbildību par preces un pakalpojuma trūkumiem\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "66 (3014)",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-28",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-07-06",
+  "commission_reference": "MNE(2004)59590",
+  "nim_celex": "71999L0034LVA_29590",
+  "nim_id": "29590",
+  "transposes_celex": [
+    "31999L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b0383d28-eb8d-49bb-b7cc-788f7a00090c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
