@@ -1,0 +1,1 @@
+1.pants. 1951.gada 20.septembra Līgums par Ziemeļatlantijas līguma organizācijas, tās dalībvalstu pārstāvju un starptautiskā štāba statusu (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
