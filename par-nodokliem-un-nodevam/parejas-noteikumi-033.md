@@ -1,0 +1,1 @@
+33. Ministru kabinets līdz 2001.gada 31.martam izdod likuma "Par nodokļiem un nodevām" 15.¹ panta septītajā daļā paredzētos Ministru kabineta noteikumus par nodokļu maksātāju reģistrāciju Valsts ieņēmumu dienestā.

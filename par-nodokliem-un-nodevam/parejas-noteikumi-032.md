@@ -1,0 +1,1 @@
+32. Visas valsts institūcijas, kuras juridisko personu identifikācijai lieto deviņzīmju kodu, līdz pārejas noteikumu 31.punktā minētajam termiņam veic nepieciešamos pārkārtojumus, lai no 2003.gada 1.janvāra varētu lietot vienoto vienpadsmitzīmju reģistrācijas kodu.

@@ -1,0 +1,1 @@
+31. Līdz 2003.gada 1.janvārim Uzņēmumu reģistrs piešķir vienoto vienpadsmitzīmju reģistrācijas kodu un Uzņēmumu reģistra deviņzīmju kodu. Izsniegtajās reģistrācijas apliecībās norāda abus kodus. Attiecīgo juridisko personu identifikācijai minētajā laikposmā var izmantot abus piešķirtos kodus.

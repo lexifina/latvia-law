@@ -44,7 +44,7 @@
 32) par dārgmetālu izstrādājumu provēšanu un zīmogošanu;
 33) par dārgakmeņu provēšanu un kvalitātes apliecības izsniegšanu;
 34) par dārgmetālu izstrādājumu izgatavotāja personiskā zīmoga reģistrāciju;
-35) par filmu reģistrācijas apliecību izsniegšanu;
+35) par filmu producētāju (ražotāju) un izplatītāju, filmu izplatīšanas vietu un filmu reģistrāciju;
 36) par izziņu izsniegšanu par nekustamo īpašumu piederību un sastāvu;
 37) par jūras navigācijas pakalpojumiem (bāku nodeva);
 38) par dokumentu īstuma apliecināšanu (legalizāciju);

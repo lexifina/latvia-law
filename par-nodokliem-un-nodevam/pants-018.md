@@ -10,4 +10,5 @@ Nodokļu administrācijas pienākumi ir šādi:
 8) nodrošināt nodokļu (nodevu) iekasēšanas publiskumu, regulāri publicējot informāciju par atsevišķu nodokļu (nodevu) kopieņēmumiem un par nodokļu maksātājiem, kuriem ir lielākie nodokļu (nodevu) parādi;
 9) publicēt ziņas par nodokļu un nodevu likmju, soda naudas un nokavējuma naudas noteikšanas kārtības grozīšanu;
 10) veikt nodokļu (nodevu) kontroli (pārbaudi, revīziju), pamatojoties uz nodokļu administrācijas tiešās vadības rakstveida lēmumu, kurā uzrādīts kontroles (pārbaudes, revīzijas) termiņš;
-11) piedzīt bezstrīda kārtībā termiņā nenomaksātos nodokļus, soda naudas un nokavējuma naudas no nodokļu maksātāja finansu līdzekļiem vai no cita viņam piederoša īpašuma.
+11) piedzīt bezstrīda kārtībā termiņā nenomaksātos nodokļus, soda naudas un nokavējuma naudas no nodokļu maksātāja finansu līdzekļiem vai no cita viņam piederoša īpašuma;
+12) nodrošināt publiski pieejamu pievienotās vērtības nodokļa maksātāju reģistru.
