@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par elektronisko sakaru komersantu reģistrācijas paziņojumu nosūtīšanu",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "37",
+  "official_journal_page": null,
+  "official_journal_date": "2005-03-03",
+  "entry_into_force": "2005-03-04",
+  "notification_date": "2006-02-22",
+  "commission_reference": "MNE(2006)51164",
+  "nim_celex": "72002L0020LVA_128625",
+  "nim_id": "128625",
+  "transposes_celex": [
+    "32002L0020"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4f648a02-aeb0-46f7-94ba-face115952eb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
