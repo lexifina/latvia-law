@@ -1,0 +1,3 @@
+32. pants. Līdzdarbības pienākuma nepildīšanas sekas
+(1) Ja persona, kura vēlas saņemt vai saņem sociālos pakalpojumus, ļaunticīgi nepilda šā likuma 26. - 30.pantā noteiktos līdzdarbības pienākumus, sociālo pakalpojumu sniedzējs pilnīgi vai daļēji var pārtraukt sociālo pakalpojumu sniegšanu līdz šo pienākumu izpildīšanas brīdim.
+(2) Ja līdzdarbības pienākums netiek pildīts, sociālo pakalpojumu sniegšanu var pārtraukt vai atteikt tikai tad, ja persona, kas pieprasījusi vai saņem sociālos pakalpojumus, ir iepriekš rakstveidā par to brīdināta un brīdinājumā noteiktajā laikā nav izpildījusi savu līdzdarbības pienākumu.

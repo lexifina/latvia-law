@@ -1,0 +1,2 @@
+30. pants. Iesaistīšanās nodarbinātību veicinošos pasākumos
+Personai, kura vēlas saņemt vai saņem sociālos pakalpojumus sakarā ar pelnītspējas samazināšanos vai bezdarbu, pēc sociālo pakalpojumu sniedzēja pieprasījuma jāpiedalās profesionālo iemaņu apgūšanas vai pilnveidošanas pasākumos, ja, spriežot pēc šīs personas profesionālās noslieces un spējām, ir paredzams, ka tie veicinās vai uzturēs šīs personas pelnītspēju vai iespēju iekārtoties darbā.
