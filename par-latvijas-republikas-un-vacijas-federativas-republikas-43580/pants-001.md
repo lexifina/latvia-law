@@ -1,0 +1,1 @@
+1.pants. 1997.gada 21.februārī Rīgā parakstītais Latvijas Republikas un Vācijas Federatīvās Republikas līgums par nodokļu dubultās uzlikšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem (turpmāk - Līgums) un tā protokols (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.
