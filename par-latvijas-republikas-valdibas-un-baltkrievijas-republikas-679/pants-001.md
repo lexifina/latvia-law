@@ -1,0 +1,1 @@
+1.pants. 1999.gada 9.novembrī Minskā parakstītais Latvijas Republikas valdības un Baltkrievijas Republikas valdības nolīgums par nosacījumiem Baltkrievijas Republikas kravu tranzītam, izmantojot Latvijas Republikas ostas un citu transporta infrastruktūru (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.

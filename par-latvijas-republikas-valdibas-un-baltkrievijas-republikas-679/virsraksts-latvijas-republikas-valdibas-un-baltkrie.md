@@ -1,0 +1,1 @@
+Latvijas Republikas valdības un Baltkrievijas Republikas valdības nolīgums par nosacījumiem Baltkrievijas Republikas kravu tranzītam, izmantojot Latvijas Republikas ostas un citu transporta infrastruktūru
