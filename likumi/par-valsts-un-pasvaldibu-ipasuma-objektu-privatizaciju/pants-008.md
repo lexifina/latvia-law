@@ -28,7 +28,8 @@
 3) lauzt ar privatizējamo valsts uzņēmumu direktoriem un valsts pilnvarniekiem uzņēmējsabiedrībās noslēgtos darba līgumus darba likumdošanas aktos paredzētajā kārtībā;
 4) lauzt jebkurus privatizējamā valsts īpašuma objekta nomas līgumus, ja tie nav noslēgti un reģistrēti likumā noteiktajā kārtībā;
 5) slēgt līgumus ar ekspertiem, uzņēmumiem un uzņēmējsabiedrībām par valsts īpašuma objektu novērtēšanu un citu ar privatizāciju saistītu darbību veikšanu;
-6) pārņemt un nodot vai pārdot privatizējamo valsts uzņēmumu un uzņēmējsabiedrību debitoru un kreditoru parādus vai kapitalizēt kreditoru parādus.
+6) pārņemt un nodot vai pārdot privatizējamo valsts uzņēmumu un uzņēmējsabiedrību debitoru un kreditoru parādus vai kapitalizēt kreditoru parādus;
+7) valsts vārdā dibināt statūtsabiedrības, ieguldot to dibināšanas pamatkapitālā privatizācijai nodoto valsts mantu. Dibinot statūtsabiedrības, jāievēro likuma "Par valsts un pašvaldību uzņēmumu pārveidošanu statūtsabiedrībās" otrās nodaļas noteikumi.
 5. Privatizācijas aģentūrai ir arī citas likumos paredzētās tiesības.
 6. Privatizācijas aģentūras pienākums ir:
 1) nodrošināt privatizācijas procesa un savas darbības atklātumu un publiskumu;

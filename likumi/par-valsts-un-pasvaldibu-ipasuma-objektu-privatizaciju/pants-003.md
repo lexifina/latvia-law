@@ -20,3 +20,4 @@
 2) Privatizācijas aģentūra vai pašvaldība atzīst, ka uzņēmuma vai uzņēmējsabiedrības mantas pārdošana ir izdevīgāka nekā citi privatizācijas paņēmieni vai metodes;
 3) lēmumu par uzņēmuma vai uzņēmējsabiedrības likvidāciju ir pieņēmusi institūcija, kurai saskaņā ar likumu «Par uzņēmējdarbību» ir dotas šādas tiesības.
 10. Valsts vai pašvaldības uzņēmuma vai uzņēmējsabiedrības likvidācija notiek likumā «Par uzņēmējdarbību» noteiktajā kārtībā. Objekta kustamā un nekustamā manta, kas palikusi pēc kreditoru prasību apmierināšanas un izmaksām darbiniekiem, tiek pārdota ar vienu no šajā pantā minētajiem privatizācijas paņēmieniem.
+11. Ja privatizējamais valsts vai pašvaldības uzņēmums vai uzņēmēj-sabiedrība ir atzīta par bankrotējušu, tad, likvidācijas procesā pārdodot šā uzņēmuma vai uzņēmējsabiedrības nekustamo īpašumu, minimālais izsoles izsludināšanas termiņš ir viens mēnesis.
