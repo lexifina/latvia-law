@@ -13,7 +13,7 @@
 1.7.3. citām vajadzībām:
 1.7.3.1. speciālie benzīni [lakbenzīns (baltais spirts) un pārējie],
 1.7.3.2. motorbenzīni (izņemot aviācijas benzīnu) ar svina saturu ne vairāk kā 0,013 g/l,
-1.7.3.3. spirta tipa reaktīvā degviela,
+1.7.3.3. benzīna tipa reaktīvo dzinēju degviela,
 1.7.3.4. pārējās vieglās eļļas,
 1.7.3.5. naftas produkti ar svina saturu ne vairāk kā 0,013 g/l, kuriem pievienots etilspirts, kas iegūts no lauksaimniecības izejvielām, dehidratēts (ar spirta saturu vismaz 99,5 tilpumprocenti) un denaturēts, vai etilspirta atvasinājums ETBE (atsevišķi vai kopā ar etilspirtu);
 1.8. metanols (metilspirts);

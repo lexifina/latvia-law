@@ -1,0 +1,1 @@
+13. Grozījums likuma 2.panta septītās daļas 1.punktā attiecībā uz deleģējumu Ministru kabinetam noteikt valsts nodevas likmi un maksāšanas kārtību par speciālas atļaujas (licences) izsniegšanu un pārreģistrāciju stājas spēkā 2005.gada 1.septembrī.

@@ -1,5 +1,5 @@
 10.pants. Pārsūtītājtirgotājs
 (1) Pārsūtītājtirgotājs, kas no citas dalībvalsts nosūta akcīzes preces uz Latvijas Republiku, ieceļ nodokļa maksātāja pārstāvi. Pārsūtītājtirgotāja ieceltais nodokļa maksātāja pārstāvis pārsūtītājtirgotāja vietā atbild par nodokļa samaksu Latvijas Republikā un citām prasībām saskaņā ar šo likumu. Pārsūtītājtirgotājs nemaksā nodokli, ja tā vietā visas prasības izpilda ieceltais nodokļa maksātāja pārstāvis. Pārsūtītājtirgotājs atbild par nodokļa samaksu, ja tā ieceltais nodokļa maksātāja pārstāvis nesamaksā nodokli saskaņā ar šo likumu.
 (2) Pārsūtītājtirgotājs, kas no Latvijas Republikas nosūta akcīzes preces uz citām dalībvalstīm, atbild par nodokļa samaksu attiecīgajā dalībvalstī.
-(3) Pārsūtītājtirgotājs pirms akcīzes preču nosūtīšanas uz citām dalībvalstīm iesniedz nodrošinājumu.
+(3) Pārsūtītājtirgotājs pirms akcīzes preču nosūtīšanas uz citām dalībvalstīm iesniedz šā likuma 26.panta trešās daļas 4.punktā minēto dokumentu.
 (4) Pārsūtītājtirgotājs uzskaita akcīzes preces, kā arī iesniedz attiecīgos dokumentus nodokļa administrācijai vai informē to par citām nepieciešamajām ziņām saskaņā ar šo likumu.
