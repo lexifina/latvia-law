@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums \"Par maternitātes un slimības apdrošināšanu\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "182",
+  "official_journal_page": null,
+  "official_journal_date": "1995-11-23",
+  "entry_into_force": "1997-01-01",
+  "notification_date": "2024-08-01",
+  "commission_reference": "MNE(2024)03466",
+  "nim_celex": "72019L1158LVA_202403466",
+  "nim_id": "202403466",
+  "transposes_celex": [
+    "32019L1158"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/225de8d3-8fe0-4d87-8e70-c2e0b303c082",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
