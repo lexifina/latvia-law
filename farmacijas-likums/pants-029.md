@@ -1,1 +1,1 @@
-29.pants. Zāļu novērtēšanas un reģistrācijas izdevumus sedz reģistrācijas pieprasītājs saskaņā ar labklājības ministra, bet - attiecībā uz veterinārajām zālēm - zemkopības ministra apstiprinātu cenrādi.
+29.pants. Medikamentu novērtēšanas, reģistrācijas, pārreģistrācijas un ikgadējos ar zāļu reģistrāciju saistītos izdevumus sedz reģistrācijas pieprasītājs saskaņā ar labklājības ministra, bet attiecībā uz veterinārajām zālēm - ar zemkopības ministra apstiprinātu cenrādi.

@@ -20,4 +20,5 @@
 19) zāles - gatavās zāles un zāļu līdzekļi;
 20) zāļu līdzekļi - vielas, augu un dzīvnieku valsts produkti apstrādātā vai neapstrādātā veidā, mikroorganismi (arī vīrusi) vai no tiem iegūti produkti, kurus lieto cilvēku un dzīvnieku slimību profilaksei un diagnostikai, saslimušo ārstēšanai un to stāvokļa atvieglošanai, kā arī izmanto, lai iedarbotos uz ķermeņa anatomiju vai fizioloģiskajiem procesiem;
 21) zāļu un farmaceitisko produktu klīniskā izpēte - zāļu un farmaceitisko produktu lietošana, kuras mērķis ir iegūt noteiktā kārtībā dokumentētus datus par zāļu un farmaceitisko produktu profilaktisko, terapeitisko vai diagnostisko iedarbību;
-22) zāļu un farmaceitisko produktu lietošanas novērojumi - Latvijas zāļu reģistrā iekļauto zāļu un farmaceitisko produktu iedarbības novērojumu dokumentēšana, kas neietekmē to lietošanas plānošanu un norisi.
+22) zāļu un farmaceitisko produktu lietošanas novērojumi - Latvijas zāļu reģistrā iekļauto zāļu un farmaceitisko produktu iedarbības novērojumu dokumentēšana, kas neietekmē to lietošanas plānošanu un norisi;
+23) medikamenti - gatavās zāles un farmaceitiskie produkti.

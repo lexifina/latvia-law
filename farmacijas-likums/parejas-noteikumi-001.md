@@ -1,1 +1,0 @@
-1. Līdz Valsts zāļu aģentūras un Valsts farmācijas inspekcijas izveidošanai tām paredzētos uzdevumus un funkcijas atbilstoši šim likumam pilda Labklājības ministrijas Farmācijas departaments, Farmācijas inspekcija, Zāļu kvalitātes kontroles un sertifikācijas laboratorija un Farmakopejas un farmakoloģijas komiteja saskaņā ar Labklājības ministrijas nolikumu.

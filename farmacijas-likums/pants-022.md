@@ -1,1 +1,2 @@
-22.pants. Izplatot gatavās zāles, tām līdzi dodama Labklājības ministrijas noteiktajā kārtībā apstiprināta lietošanas instrukcija valsts valodā, bet, izplatot veterinārās zāles, tām līdzi dodama Valsts veterinārā departamenta apstiprināta lietošanas pamācība valsts valodā.
+22.pants. (1) Izplatot gatavās zāles, tām jāpievieno Valsts zāļu aģentūras apstiprināta lietošanas instrukcija valsts valodā, bet, izplatot veterinārās zāles, tām līdzi jādod Valsts veterinārā departamenta apstiprināta lietošanas pamācība valsts valodā.
+(2) Ja zāles noteiktas kā recepšu zāles, aptiekā tās drīkst izsniegt tikai pret attiecīgu ārsta recepti, kas noformēta atbilstoši Ministru kabineta noteikumiem.
