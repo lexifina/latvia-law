@@ -1,0 +1,1 @@
+1.pants. 2003.gada 7.novembrī Druskininkos parakstītais Latvijas Republikas valdības un Igaunijas Republikas valdības nolīgums par sadarbību dzelzceļa transporta jomā (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
