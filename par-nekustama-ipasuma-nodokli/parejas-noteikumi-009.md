@@ -1,4 +1,4 @@
-9. Līdz 2002.gada 31.decembrim attiecībā uz ēkām un būvēm:
+9. Līdz 2003.gada 31.decembrim attiecībā uz ēkām un būvēm:
 1) ar nekustamā īpašuma nodokli tiek apliktas saimnieciskajā darbībā izmantojamās ēkas un būves. Ja saimnieciskajā darbībā tiek izmantota ēkas vai būves daļa, ar nodokli apliekamajā vērtībā ieskaita ēkas vai būves vērtību atbilstoši saimnieciskajā darbībā izmantojamajai daļai;
 1¹) pašvaldībai ir tiesības pieprasīt, lai nodokļa maksātāji iesniedz bilanci vai dokumentu, kurā ir uzrādīta Valsts zemes dienesta noteiktā ēku vai būvju inventarizācijas vērtība;
 2) ar nodokli papildus šā likuma 1.panta otrajā daļā minētajiem objektiem neapliek:
