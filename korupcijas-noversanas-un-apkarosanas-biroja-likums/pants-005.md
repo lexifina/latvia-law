@@ -1,5 +1,5 @@
 5.pants. Biroja amatpersonas, to iecelšana amatā un atbrīvošana no amata
-(1) Biroja amatpersonas, kas nodrošina Biroja funkciju izpildi un atbild par to, ir Biroja priekšnieks, viņa vietnieks, centrālā aparāta nodaļu un teritoriālo nodaļu vadītāji, izziņas izdarītāji un speciālisti.
+(1) Biroja amatpersonas, kas nodrošina Biroja funkciju izpildi un atbild par to, ir Biroja priekšnieks, viņa vietnieki, centrālā aparāta nodaļu un teritoriālo nodaļu vadītāji, izziņas izdarītāji un speciālisti.
 (2) Biroja amatpersonu darba tiesiskajās attiecībās piemērojamas darba tiesiskās attiecības regulējošo normatīvo aktu normas, ciktāl šis likums nenosaka citādi.
 (3) Par Biroja amatpersonu nevar būt persona, kura neatbilst likumā noteiktajām prasībām, lai saņemtu speciālo atļauju pieejai valsts noslēpumam.
 (4) Biroja centrālā aparāta amatpersonas un teritoriālo nodaļu vadītājus ieceļ amatā un atbrīvo no amata Biroja priekšnieks.

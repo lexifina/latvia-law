@@ -15,4 +15,5 @@ Biroja amatpersonai atbilstoši tās kompetencei ir tiesības:
 13) izsaukt uz Biroju jebkuru personu saistībā ar lietu un materiālu izskatīšanu, bet, ja šī persona pēc izsaukuma saņemšanas bez attaisnojoša iemesla neierodas, atvest to piespiedu kārtā;
 14) prasīt, lai persona pārtrauc likumpārkāpumus un citu rīcību, kas traucē Biroja amatpersonu un darbinieku pilnvaru izpildi, kā arī lietot pret likumpārkāpēju paredzētos piespiedu līdzekļus;
 15) pildot korupcijas apkarošanas un politisko organizāciju (partiju) un to apvienību finansēšanas kontroles funkcijas, pārbaudīt personu apliecinošus dokumentus;
-16) izsludināt un izmaksāt atlīdzību par palīdzību noziedzīga nodarījuma atklāšanā un noziedzīgu nodarījumu izdarījušas personas aizturēšanā.
+16) izsludināt un izmaksāt atlīdzību par palīdzību noziedzīga nodarījuma atklāšanā un noziedzīgu nodarījumu izdarījušas personas aizturēšanā;
+17) ar ģenerālprokurora vai viņa pilnvarota prokurora starpniecību izziņas turpināšanai nodot citām izziņas iestādēm savā lietvedībā esošās krimināllietas vai pārbaudes materiālus vai izziņas turpināšanai pārņemt no citām izziņas iestādēm Biroja kompetencei atbilstošas krimināllietas vai pārbaudes materiālus.

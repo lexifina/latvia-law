@@ -12,7 +12,7 @@
 1) vada Biroja darbu;
 2) ir atbildīgs par Birojam noteikto funkciju izpildi;
 3) sasauc un vada Biroja padomes sēdes;
-4) ir Biroja finansu līdzekļu rīkotājs un atbild par to izlietošanu;
+4) ir Biroja finanšu līdzekļu rīkotājs un atbild par to izlietošanu;
 5) atbilstoši finansējumam apstiprina Biroja centrālā aparāta un teritoriālo nodaļu darbinieku sarakstu (štatu sarakstu) un atbilstoši normatīvajiem aktiem nosaka viņu atalgojumu;
 6) nosaka Biroja centrālā aparāta amatpersonu un darbinieku, kā arī teritoriālo nodaļu vadītāju pienākumus, tiesības un uzdevumus;
 7) izskata fizisko un juridisko personu sūdzības par Biroja amatpersonu un darbinieku rīcību;

@@ -1,6 +1,6 @@
 3.pants. Biroja struktūra un Biroja padome
 (1) Biroja sastāvā ietilpst centrālais aparāts un teritoriālās nodaļas. Biroja teritoriālajām nodaļām nav juridiskās personas statusa.
-(2) Biroja priekšnieks, viņa vietnieks un Biroja centrālā aparāta nodaļu vadītāji ietilpst Biroja padomes sastāvā. Padomes uzdevumi ir šādi:
+(2) Biroja priekšnieks, viņa vietnieki un Biroja centrālā aparāta nodaļu vadītāji ietilpst Biroja padomes sastāvā. Padomes uzdevumi ir šādi:
 1) apstiprināt Biroja darbības plānu šajā likumā paredzēto funkciju izpildei;
 2) apstiprināt Biroja centrālā aparāta struktūru un tā nolikumu;
 3) pieņemt lēmumu par Biroja teritoriālo nodaļu izveidi, noteikt to darbības teritoriju un struktūru un apstiprināt to nolikumus;
