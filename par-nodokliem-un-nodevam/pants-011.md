@@ -10,12 +10,12 @@
 8) (izslēgts ar 25.11.1999. likumu);
 9) (izslēgts ar 13.04.2000. likumu).
 (2) Valsts nodevas ir maksājamas par valsts sniegto nodrošinājumu, šādiem juridiskajiem pakalpojumiem un likumos paredzētajiem speciāliem mērķiem:
-1) par dokumentu izsniegšanu izbraukšanai uz pastāvīgu dzīvi ārvalstīs;
+1) (izslēgts ar 20.12.2001. likumu);
 2) par notariālo darbību izpildi;
 3) par civilstāvokļa aktu reģistrēšanu, grozīšanu un papildināšanu;
 4) par izdevējdarbības un masu informācijas līdzekļu reģistrēšanu;
-5) par uzņēmējdarbības reģistrēšanu;
-6) par informācijas sniegšanu no Latvijas Republikas Uzņēmumu reģistra;
+5) par uzņēmējdarbības reģistrēšanu, kā arī par ierakstu izdarīšanu komercreģistrā un dibināšanas dokumentu grozījumu reģistrēšanu;
+6) par informācijas sniegšanu no Latvijas Republikas Uzņēmumu reģistra reģistriem;
 7) par informācijas sniegšanu no Iedzīvotāju reģistra;
 8) par sabiedrisko organizāciju un to apvienību, reliģisko organizāciju un to iestāžu, kā arī arodbiedrību reģistrāciju;
 9) par speciālu atļauju (licenču) izsniegšanu atsevišķiem uzņēmējdarbības veidiem;
@@ -52,4 +52,8 @@
 40) par valsts valodas prasmes atestāciju profesionālo un amata pienākumu veikšanai;
 41) par atteikšanās no Latvijas pilsonības dokumentēšanu;
 42) par Latvijas pilsonības atjaunošanas dokumentēšanu;
-43) par sertifikāta izsniegšanu un darbības laika pagarināšanu detektīvdarbības veikšanai.
+43) par sertifikāta izsniegšanu un darbības laika pagarināšanu detektīvdarbības veikšanai;
+44) par mēslošanas līdzekļa reģistrāciju;
+45) par informācijas sniegšanu no Sodu reģistra;
+46) par ārvalstu komersantu pārstāvniecību un ārvalstu organizāciju pārstāvniecību reģistrāciju;
+47) par laulāto mantisko attiecību reģistrāciju.
