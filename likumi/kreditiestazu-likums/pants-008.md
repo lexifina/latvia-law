@@ -1,1 +1,1 @@
-8.pants. Kredītiestādes pienākums ir Latvijas Bankas noteiktajos termiņos iesniegt Latvijas Bankai visu tās pieprasīto informāciju, kas nepieciešama Latvijas Bankas funkciju veikšanai.
+8.pants. Kredītiestādes pienākums ir Finansu un kapitāla tirgus komisijas un Latvijas Bankas noteiktajos termiņos iesniegt tām visu pieprasīto informāciju, kas nepieciešama likumos noteikto Finansu un kapitāla tirgus komisijas un Latvijas Bankas funkciju pildīšanai.

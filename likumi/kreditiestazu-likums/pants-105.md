@@ -1,1 +1,1 @@
-105.pants. Latvijas Banka ir atbildīga par zaudējumiem, kuri radušies Latvijas Bankas pilnvarnieka vainas dēļ.
+105.pants. Finansu un kapitāla tirgus komisija ir atbildīga par zaudējumiem, kuri radušies Finansu un kapitāla tirgus komisijas pilnvarnieka vainas dēļ.

@@ -1,1 +1,0 @@
-110.pants. Latvijas Banka un Latvijas finansu iestāžu uzraudzības institūcijas saskaņā ar savstarpēju vienošanos apmainās ar informāciju, kura nepieciešama uzraudzības veikšanai un uzskatāma par tālāk neizpaužamu.

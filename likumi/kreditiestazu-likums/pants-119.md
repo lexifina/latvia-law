@@ -1,1 +1,1 @@
-119.pants. Latvijas Bankas pilnvarnieks novērtē kredītiestādes stāvokli, paziņo par to Latvijas Bankai un veic nepieciešamos pasākumus, lai stabilizētu kredītiestādes darbību.
+119.pants. Finansu un kapitāla tirgus komisijas pilnvarnieks novērtē kredītiestādes stāvokli, paziņo par to Finansu un kapitāla tirgus komisijai un veic nepieciešamos pasākumus, lai stabilizētu kredītiestādes darbību.

@@ -1,1 +1,1 @@
-11.pants. Kredītiestādes, to nodaļas (filiāles) un pārstāvniecības savu darbību Latvijā var uzsākt tikai pēc Latvijas Bankas izsniegtas licences (atļaujas) saņemšanas un reģistrācijas likumos noteiktajā kārtībā.
+11.pants. Kredītiestādes, to nodaļas (filiāles) un pārstāvniecības savu darbību Latvijā var uzsākt tikai pēc Finansu un kapitāla tirgus komisijas izsniegtas licences (atļaujas) saņemšanas un reģistrācijas likumos noteiktajā kārtībā.

@@ -1,1 +1,1 @@
-109.pants. Latvijas Banka var pieprasīt kredītiestādes akcionāru (biedru) pilnsapulces vai padomes sasaukšanu un noteikt izskatāmos jautājumus. Latvijas Bankas pilnvarotām personām ir tiesības piedalīties šādās sapulcēs.
+109.pants. Finansu un kapitāla tirgus komisija var pieprasīt kredītiestādes akcionāru (biedru) pilnsapulces vai padomes sasaukšanu un noteikt izskatāmos jautājumus. Finansu un kapitāla tirgus komisijas pilnvarotām personām ir tiesības piedalīties šādās sapulcēs.
