@@ -1,0 +1,1 @@
+4. Pašvaldību iemaksas Pašvaldību finansu izlīdzināšanas fondā un dotācijas no šā fonda sakarā ar pašvaldību administratīvo teritoriju pārveidošanu vai to administratīvo robežu grozīšanu Pašvaldību finansu izlīdzināšanas fonda padome pārrēķina nākamajā finansu gadā pēc administratīvi teritoriālo grozījumu izdarīšanas.
