@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2005.gada 1.februāra noteikumi Nr.85 „Grozījumi Ministru kabineta 1998.gada 9.jūnija noteikumos Nr.217 „Obligātās nekaitīguma prasības materiāliem un priekšmetiem, kas nonāk saskarē ar pārtiku””",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "20",
+  "official_journal_page": null,
+  "official_journal_date": "2005-02-04",
+  "entry_into_force": "2005-02-05",
+  "notification_date": "2005-03-17",
+  "commission_reference": "MNE(2005)56200",
+  "nim_celex": "72004L0013LVA_36200",
+  "nim_id": "36200",
+  "transposes_celex": [
+    "32004L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3e168e54-c8ab-4f16-ad8c-abc0ad31aad5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
