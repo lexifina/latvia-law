@@ -1,0 +1,1 @@
+1.pants. 2002.gada 27.martā Atēnās parakstītais Latvijas Republikas valdības un Grieķijas Republikas valdības nolīgums par jūras transportu (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
