@@ -1,1 +1,1 @@
-34.pants. Zvērināta tiesu izpildītāja profesionālās darbības riska apdrošināšana nodrošina prasījumus, kas var rasties sakarā ar viņa profesionālo darbību un viņa palīga, arī zvērināta tiesu izpildītāja kandidāta, darbību, aizvietojot zvērinātu tiesu izpildītāju.
+34.pants. Zvērināta tiesu izpildītāja profesionālās darbības riska apdrošināšana nodrošina prasījumus, kas var rasties sakarā ar viņa profesionālo darbību un viņa palīga, arī zvērināta tiesu izpildītāja kandidāta, darbību.

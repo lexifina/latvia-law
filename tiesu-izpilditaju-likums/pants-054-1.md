@@ -1,0 +1,1 @@
+54.¹ pants. Ja persona iesniegusi sūdzību tiesā Civilprocesa likuma 632.panta kārtībā, jautājums par zvērināta tiesu izpildītāja saukšanu pie disciplināratbildības izskatāms pēc tam, kad likumīgā spēkā stājies tiesas nolēmums par attiecīgas zvērināta tiesu izpildītāja darbības atzīšanu par prettiesisku.

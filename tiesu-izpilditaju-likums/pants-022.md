@@ -1,1 +1,1 @@
-22.pants. Eksāmena vietu un laiku Latvijas Zvērinātu tiesu izpildītāju padome paziņo personām, kuras ir pieteikušās kārtot zvērināta tiesu izpildītāja eksāmenu.
+22.pants. Eksāmena vietu un laiku Latvijas Zvērinātu tiesu izpildītāju padome vismaz piecas dienas pirms eksāmena paziņo personām, kuras ir pieteikušās kārtot zvērināta tiesu izpildītāja eksāmenu.

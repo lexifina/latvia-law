@@ -1,1 +1,1 @@
-58.pants. Latvijas Zvērinātu tiesu izpildītāju padome lēmumu par disciplinārsoda uzlikšanu zvērinātam tiesu izpildītājam nosūta tieslietu ministram.
+58.pants. Latvijas Zvērinātu tiesu izpildītāju padome disciplinārlietā pieņemto lēmumu septiņu dienu laikā no tā pieņemšanas nosūta tieslietu ministram un zvērinātam tiesu izpildītājam, par kura darbību ierosināta disciplinārlieta.
