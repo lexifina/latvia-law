@@ -1,0 +1,1 @@
+4.pants. Kārtību, kādā līdz apstiprināšanai Saeimā piemērojama Nolīguma ietvaros izveidotās Apvienotās komitejas rezolūcija par grozījumiem Nolīguma A protokolā, nosaka Ministru kabinets, un ar šo likumu minētā rezolūcija tiek pieņemta un apstiprināta.
