@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Izglītības programmu minimālās prasības arhitekta profesionālās kvalifikācijas iegūšanai",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "91",
+  "official_journal_page": null,
+  "official_journal_date": "2002-06-18",
+  "entry_into_force": "2002-06-19",
+  "notification_date": "2004-08-02",
+  "commission_reference": "MNE(2004)50198",
+  "nim_celex": "71985L0384LVA_30198",
+  "nim_id": "30198",
+  "transposes_celex": [
+    "31985L0384"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/451f15a8-8432-432c-a60b-4e6b83ace9a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
