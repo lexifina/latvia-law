@@ -1,0 +1,6 @@
+25.pants. Bezpeļņas organizācijas
+(1) Uzņēmumu reģistrā reģistrēts uzņēmums (uzņēmējsabiedrība), kas dibināts kā bezpeļņas organizācija, pēc Komerclikuma spēkā stāšanās līdz attiecīgu likumu pieņemšanai turpina darboties atbilstoši likumiem, saskaņā ar kuriem tas nodibināts.
+(2) Šā panta pirmajā daļā minēto subjektu var pārveidot par sabiedrisko organizāciju, neatsavinot rezerves fondu.
+(3) Valsts uzņēmumu (uzņēmējsabiedrību), kas dibināts kā bezpeļņas organizācija, līdz 2003.gada 31.decembrim ar Ministru kabineta rīkojumu noteiktā kārtībā var pārveidot par valsts iestādi. Šādā gadījumā viss valsts bezpeļņas organizācijas īpašums pāriet valstij. Izveidotā valsts iestāde ir valsts bezpeļņas organizācijas tiesību un saistību pārņēmēja.
+(4) Pašvaldības uzņēmumu (uzņēmējsabiedrību), kas dibināts kā bezpeļņas organizācija, līdz 2003.gada 31.decembrim ar pašvaldības domes (padomes) lēmumu noteiktā kārtībā var pārveidot par pašvaldības iestādi. Šādā gadījumā viss pašvaldības bezpeļņas organizācijas īpašums pāriet attiecīgajai pašvaldībai. Izveidotā pašvaldības iestāde ir pašvaldības bezpeļņas organizācijas tiesību un saistību pārņēmēja.
+(5) Bezpeļņas organizācijas statusa piešķiršana komercreģistrā ierakstītiem komersantiem nav atļauta.

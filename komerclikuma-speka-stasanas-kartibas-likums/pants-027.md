@@ -1,0 +1,11 @@
+27.pants. Valsts un pašvaldību īpašuma objektu privatizācija
+(1) Ja valsts vai pašvaldības īpašuma objekts tiek privatizēts ar likuma "Par valsts un pašvaldību īpašuma objektu privatizāciju" 2.panta otrās daļas 5.punktā minēto reorganizācijas metodi, tad:
+1) šajā privatizācijas procesā var iesaistīt tikai sabiedrības ar ierobežotu atbildību, akciju sabiedrības un sabiedrības ar papildu atbildību;
+2) reorganizācija veicama saskaņā ar Komerclikuma noteikumiem;
+3) šajā privatizācijas procesā iesaistītās sabiedrības ierakstāmas komercreģistrā, pirms tiek pieņemts Komerclikuma 343.pantā minētais lēmums par reorganizāciju.
+(2) Ja valsts vai pašvaldības īpašuma objekts tiek privatizēts ar likuma "Par valsts un pašvaldību īpašuma objektu privatizāciju" 3.panta trešās daļas 5.punktā minēto privatizācijas paņēmienu, tad:
+1) valsts vai pašvaldības uzņēmumu var pārveidot tikai par sabiedrību ar ierobežotu atbildību vai akciju sabiedrību, kas darbojas saskaņā ar Komerclikuma noteikumiem;
+2) valsts vai pašvaldības uzņēmuma pārveidošana notiek likuma "Par valsts un pašvaldību uzņēmumu pārveidošanu statūtsabiedrībās" 2.nodaļā paredzētajā kārtībā.
+(3) Ja valsts uzņēmuma privatizācijas noteikumi vai pašvaldības uzņēmuma privatizācijas projekts, kurā paredzēts, ka statūtsabiedrība tiek privatizēta ar šā panta otrajā daļā minēto privatizācijas paņēmienu, ir apstiprināti līdz Komerclikuma spēkā stāšanās dienai, šo privatizāciju var veikt, piemērojot to likumu noteikumus, kuri bija spēkā privatizācijas noteikumu vai privatizācijas projekta apstiprināšanas dienā, ja sabiedrība, kas izveidota privatizācijas rezultātā, tiek reģistrēta uzņēmumu reģistrā līdz 2003.gada 1.oktobrim.
+(4) Ja valsts kapitāla daļa ir nodota privatizācijai līdz Komerclikuma spēkā stāšanās dienai un šā objekta privatizācijas nosacījumos, kurus saskaņā ar likuma "Par valsts un pašvaldību īpašuma objektu privatizāciju" 12.pantu reglamentē Ministru kabinets, tiek paredzēta sabiedrības ar ierobežotu atbildību reorganizācija par akciju sabiedrību, šī reorganizācija notiek atbilstoši likuma "Par uzņēmējdarbību" un likuma "Par sabiedrībām ar ierobežotu atbildību" prasībām.
+(5) Ja līgums, ar kuru tika pārdots privatizējamais valsts vai pašvaldības uzņēmums, tiek izbeigts, šā uzņēmuma darbība netiek atjaunota, bet uz tā bāzes izveido kapitālsabiedrību.

@@ -1,0 +1,4 @@
+7.pants. Valsts nodeva par pārreģistrāciju
+(1) Valsts nodevu par uzņēmumu reģistrā reģistrēta uzņēmuma (uzņēmējsabiedrības), filiāles, nodaļas vai pārstāvniecības ierakstīšanu komercreģistrā nosaka Ministru kabinets.
+(2) Valsts nodevu par grozījumu ierakstīšanu citos reģistros un jaunu, ar uzņēmumu reģistrā reģistrēta uzņēmuma (uzņēmējsabiedrības), filiāles, nodaļas vai pārstāvniecības ierakstīšanu komercreģistrā saistītu dokumentu [to skaitā speciālas atļaujas (licences)] izsniegšanu nosaka Ministru kabinets.
+(3) Šā panta pirmajā un otrajā daļā noteiktās valsts nodevas apmērs nedrīkst pārsniegt administratīvos izdevumus, kas saistīti ar attiecīgā ieraksta izdarīšanu un dokumentu izsniegšanu, kā arī valsts nodevas apmēru, kāds noteikts par attiecīgu grozījumu reģistrēšanu līdz Komerclikuma spēkā stāšanās dienai.

@@ -1,0 +1,4 @@
+22.pants. Kooperatīvās sabiedrības un to savienības
+(1) Kooperatīvo sabiedrību var pārveidot par kapitālsabiedrību. Šādā gadījumā piemēro šā likuma 13.panta otrās daļas noteikumus.
+(2) Kooperatīvās sabiedrības biedru kopsapulce (pilnvaroto sapulce), pieņemot lēmumu par reorganizāciju, apstiprina arī attiecīgās kapitālsabiedrības (iegūstošās sabiedrības) statūtus. Tos paraksta iegūstošās sabiedrības valde.
+(3) Ja kooperatīvās sabiedrības statūtos paredzēts, ka lēmumu par reorganizāciju pieņem pilnvaroto sapulce, šis lēmums aizstāj biedru kopsapulces lēmumu. Šādā gadījumā mēneša laikā pēc Komerclikuma 345.panta otrajā daļā paredzētās publikācijas kooperatīvās sabiedrības biedrs ir tiesīgs rakstveidā paziņot kooperatīvajai sabiedrībai par to, ka nepiekrīt reorganizācijai. Šādā gadījumā kooperatīvās sabiedrības biedrs iegūst Komerclikuma 353.pantā paredzētās tiesības.

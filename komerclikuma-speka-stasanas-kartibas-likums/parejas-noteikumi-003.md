@@ -1,0 +1,1 @@
+3. Tieslietu ministrija izstrādā un līdz 2002.gada 1.februārim publicē laikrakstā "Latvijas Vēstnesis" kapitālsabiedrību statūtu paraugus, kas izmantojami komersantu statūtu sagatavošanai reģistrācijai komercreģistrā.

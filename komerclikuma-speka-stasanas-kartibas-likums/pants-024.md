@@ -1,0 +1,3 @@
+24.pants. Uzsāktie maksātnespējas procesi
+(1) Uzņēmumu reģistrā reģistrēts uzņēmums (uzņēmējsabiedrība), kas pēc formas neatbilst Komerclikuma noteikumiem un atzīts par maksātnespējīgu līdz 2004.gada 31.decembrim, visu maksātnespējas procesa laiku līdz bankrota procedūras pabeigšanai ir tiesīgs saglabāt savu līdzšinējo uzņēmējdarbības formu, izņemot šā panta otrajā daļā paredzēto gadījumu.
+(2) Šā panta pirmajā daļā minētā uzņēmuma (uzņēmējsabiedrības) maksātnespējas procesu var izbeigt citādi, nevis ar bankrota procedūras pabeigšanu, tikai tādā gadījumā, ja attiecīgais uzņēmums (uzņēmējsabiedrība) iepriekš ir pārveidots par Komerclikumā paredzēta veida komersantu. Šādai pārveidošanai piemēro Komerclikuma noteikumus.

@@ -1,0 +1,5 @@
+23.pants. Nepabeigtie likvidācijas procesi
+(1) Līdz Komerclikuma spēkā stāšanās dienai uzsāktie un uzņēmumu reģistrā pieteiktie uzņēmumu (uzņēmējsabiedrību), filiāļu, nodaļu un pārstāvniecību likvidācijas procesi jāpabeidz līdz 2004.gada 31.decembrim, piesakot to reģistrāciju uzņēmumu reģistrā.
+(2) Saskaņā ar šā likuma II nodaļu uzsāktais likvidācijas process uz dalībnieku (akcionāru) sapulces (pilnsapulces) vai īpašnieka lēmuma pamata jāpabeidz līdz 2005.gada 31.decembrim, piesakot to reģistrācijai uzņēmumu reģistrā.
+(3) Šā panta pirmajā un otrajā daļā minētajiem likvidācijas procesiem piemēro tos likumu un statūtu noteikumus, kuri bija spēkā dienā, kad tika pieņemts lēmums par likvidāciju.
+(4) Ja šā panta pirmajā un otrajā daļā minētajos termiņos likvidācijas process nav pabeigts, ar nākamo dienu pēc termiņa izbeigšanās šādam uzņēmumam (uzņēmējsabiedrībai), filiālei, nodaļai vai pārstāvniecībai nav tiesību veikt saimniecisko darbību un par šo noteikumu pārkāpumiem to sauc pie likumā noteiktās atbildības par saimniecisko darbību bez reģistrācijas.

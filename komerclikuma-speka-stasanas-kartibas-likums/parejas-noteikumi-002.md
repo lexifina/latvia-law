@@ -1,0 +1,5 @@
+2. Šādi Ministru kabineta noteikumi, kuri izdoti uz likuma "Par uzņēmējdarbību" 32.panta pamata, ir spēkā līdz 2004.gada 31.decembrim, ja to vietā nav pieņemti jauni Ministru kabineta noteikumi:
+1) Ministru kabineta 1995.gada 31.oktobra noteikumi nr.312 "Filmu izplatīšanas un publiskas demonstrēšanas noteikumi" (Latvijas Vēstnesis, 1995, 172.nr.; 1996, 330.nr.);
+2) Ministru kabineta 1996.gada 16.jūlija noteikumi nr.261 "Kārtība, kādā tiek iepirkti, realizēti un eksportēti melno un krāsaino metālu atgriezumi un lūžņi" (Latvijas Vēstnesis, 1996, 123.nr.; 1998, 265.nr.);
+3) Ministru kabineta 1996.gada 3.decembra noteikumi nr.444 "Noteikumi par licences maksas aprēķināšanu energoapgādes uzņēmumiem (uzņēmējsabiedrībām)" (Latvijas Vēstnesis, 1996, 211.nr.; 1998, 265./266.nr.);
+4) Ministru kabineta 1997.gada 7.oktobra noteikumi nr.348 "Atsevišķu uzņēmējdarbības veidu licencēšanas noteikumi" (Latvijas Vēstnesis, 1997, 260./262., 334./335.nr.; 1998, 58./59., 147./149., 289./290., 367./368.nr.; 1999, 1., 64./65., 75./78., 167./168., 198./199.nr.; 2000, 109./110., 180./181., 307./309.nr.).
