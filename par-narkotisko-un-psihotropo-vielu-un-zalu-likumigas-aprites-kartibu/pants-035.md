@@ -1,0 +1,1 @@
+35.pants. II un III sarakstā iekļautās vielas un zāles iepirkt profesionālai darbībai saskaņā ar šā likuma noteikumiem drīkst tikai no tādas juridiskās personas, kurai izsniegta šā likuma 9.pantā minētā licence.

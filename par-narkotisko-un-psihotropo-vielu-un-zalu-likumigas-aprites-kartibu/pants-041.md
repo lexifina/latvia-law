@@ -1,0 +1,1 @@
+41.pants. Ja kravā ir II sarakstā iekļautās vielas vai zāles, uz nosūtīšanai paredzēto saiņu ārējā iepakojuma drīkst būt vienīgi nosūtītāja un saņēmēja vārds, uzvārds un adrese. Sūtījumi aizzīmogojami ar nosūtītāja zīmogu.

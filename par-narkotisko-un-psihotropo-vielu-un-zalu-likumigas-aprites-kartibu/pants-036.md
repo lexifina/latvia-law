@@ -1,0 +1,1 @@
+36.pants. II un III sarakstā iekļautās vielas un zāles pacientiem drīkst izsniegt tikai pret recepti, kurā norādīta to terapeitiskā lietošana. Recepšu izrakstīšanas kārtību nosaka Ministru kabinets. Ja zāļu izsniedzējam receptes iesniedzējs nav personiski pazīstams, viņam ir tiesības pieprasīt, lai tiktu uzrādīts personu apliecinošs dokuments.

@@ -1,0 +1,1 @@
+5.pants. Aizliegts audzēt, ražot, importēt, eksportēt, izplatīt, transportēt, glabāt, nodot par atlīdzību vai bez tās, iegādāties un lietot, kā arī sūtīt cauri Latvijas teritorijai I sarakstā iekļautos augus, vielas un zāles.

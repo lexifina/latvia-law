@@ -1,0 +1,1 @@
+16.pants. Saskaņā ar ANO noteiktajām kvotām Labklājības ministrijas Narkotiku kontroles komiteja ik gadu var noteikt atsevišķu II un III sarakstā iekļauto vielu un zāļu maksimālo daudzumu, kādu katra juridiskā persona drīkst saražot vai kāds drīkst atrasties katras juridiskās personas noliktavā. Ja nepieciešams, gada ietvaros šo daudzumu var mainīt.

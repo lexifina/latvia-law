@@ -1,0 +1,1 @@
+40.pants. Labklājības ministrijas Narkotiku kontroles komiteja izsniedz atļaujas izmantot II un III sarakstā iekļautās vielas un zāles dzīvnieku sagūstīšanai, kā arī apstiprina to lietošanas noteikumus.

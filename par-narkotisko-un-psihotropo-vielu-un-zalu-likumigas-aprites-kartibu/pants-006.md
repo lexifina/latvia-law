@@ -1,0 +1,2 @@
+6.pants. (1) Latvijā aizliegts audzēt opija magones, eļļas magones, kokas krūmus un kaņepes. Lauksaimnieciski vai citādi izmantojamās zemes īpašnieka vai nomnieka pienākums ir iznīcināt savas zemes platībās augošās opija magones, eļļas magones, kokas krūmus.
+(2) Ierobežotiem rūpniecības un dārzkopības mērķiem paredzēto kaņepju (šķiedru un sēklu iegūšana) un magoņu audzēšanas kārtību nosaka Ministru kabinets.

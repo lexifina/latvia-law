@@ -1,0 +1,1 @@
+20.pants. Importa vai eksporta atļaujā norādāmas tās pašas ziņas, kas minētas attiecīgajā pieteikumā, un atļaujas derīguma termiņš. Importa atļaujā norādāms, vai importa sūtījumā ir viena krava vai vairākas kravu partijas. Eksporta atļaujā, ja nepieciešams, norāda arī attiecīgās importa atļaujas numuru un izsniegšanas datumu, tādējādi apstiprinot vielu vai zāļu importa atļauju.

@@ -1,0 +1,1 @@
+24.pants. Komercdokumentos (rēķinos, kravas pavadzīmēs, muitas, transporta un citos pavaddokumentos) norādāmi ANO konvenciju sarakstiem atbilstošie vielu un zāļu nosaukumi, no Latvijas teritorijas eksportējamo vai uz to importējamo vielu un zāļu daudzums, eksportētājs un importētājs, to adreses, kravas saņēmējs un tā adrese.

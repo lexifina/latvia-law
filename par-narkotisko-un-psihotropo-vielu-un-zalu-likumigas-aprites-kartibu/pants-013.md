@@ -1,0 +1,1 @@
+13.pants. Licencētās juridiskās personas operācijas ar II un III sarakstā iekļautajām vielām vai zālēm Latvijas teritorijā drīkst veikt tikai ar tām fiziskajām vai juridiskajām personām, kurām ir attiecīgai darbībai izsniegta licence vai atļauja.

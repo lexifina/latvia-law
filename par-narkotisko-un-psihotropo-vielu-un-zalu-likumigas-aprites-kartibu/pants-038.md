@@ -1,0 +1,1 @@
+38.pants. Labklājības ministrija nosaka, kāds II un III sarakstā iekļauto zāļu daudzums drīkst būt Latvijas teritorijā reģistrēto starptautiskajos pārvadājumos iesaistīto transportlīdzekļu neatliekamās medicīniskās palīdzības komplektos, kā arī minēto komplektu aprites kārtību.

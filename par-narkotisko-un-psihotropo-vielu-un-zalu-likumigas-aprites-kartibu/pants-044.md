@@ -1,0 +1,1 @@
+44.pants. Labklājības ministrijas Farmācijas inspekcijas un Medicīniskās aprūpes un darbspēju ekspertīzes kvalitātes kontroles inspekcijas ierēdņiem, pildot dienesta pienākumus, ir tiesības apmeklēt licencēto juridisko personu telpas un izdarīt pārbaudi, kā arī savas kompetences ietvaros veikt nepieciešamos pasākumus nelikumīgo darbību novēršanai.

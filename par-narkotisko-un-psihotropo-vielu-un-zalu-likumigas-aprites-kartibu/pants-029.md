@@ -1,0 +1,1 @@
+29.pants. II un III sarakstā iekļauto vielu un zāļu tranzīta pārvadājumus cauri Latvijas teritorijai drīkst veikt tikai tad, ja ir saņemta Labklājības ministrijas Narkotiku kontroles komitejas izsniegta tranzīta atļauja, neatkarīgi no tā, vai krava tiek vai netiek noņemta no transportlīdzekļa, kas to pārvadā.

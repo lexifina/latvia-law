@@ -1,0 +1,1 @@
+37.pants. II un III sarakstā iekļauto zāļu saņemšanas, iepirkšanas, izplatīšanas, izsniegšanas, uzglabāšanas un uzskaites kārtību zāļu lieltirgotavās, zāļu ražošanas uzņēmumos, aptiekās un ārstniecības iestādēs nosaka Ministru kabinets.

@@ -1,0 +1,1 @@
+26.pants. Aizliegts II un III sarakstā iekļauto vielu un zāļu eksports uz konsignācijas noliktavu, izņemot gadījumus, kad šāds piegādes veids ir apstiprināts importētājas valsts kompetentās institūcijas izsniegtajā importa atļaujā. Aizliegts arī šo vielu un zāļu imports uz konsignācijas noliktavu Latvijas teritorijā.

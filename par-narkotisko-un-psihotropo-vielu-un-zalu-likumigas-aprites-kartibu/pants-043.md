@@ -1,0 +1,1 @@
+43.pants. Visas fiziskās un juridiskās personas, kas darbojas ar šajā likumā minētajām vielām un zālēm, ir pakļautas Labklājības ministrijas Narkotiku kontroles komitejas uzraudzībai. Šīs komitejas uzdevumā tiek veiktas attiecīgo personu darbības pārbaudes. To kārtību nosaka Labklājības ministrija.
