@@ -1,0 +1,1 @@
+1.pants. 2000.gada 15.decembrī Nikosijā parakstītais Latvijas Republikas valdības un Kipras Republikas valdības nolīgums par pasažieru un kravu starptautiskajiem pārvadājumiem ar autotransportu (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
