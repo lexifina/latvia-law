@@ -7,4 +7,4 @@
 (3) Diploma ekspertīzes rezultātā tā īpašniekam tiek izsniegta izziņa par to, kādam Latvijā piešķirtam akadēmiskajam grādam vai diplomam atbilst ārvalstīs iegūtais diploms. Latvijas izglītības dokumenti pēc ārvalstīs iegūtā diploma atzīšanas netiek izsniegti.
 (4) Izdevumus, kas saistīti ar ārvalstīs iegūtā diploma, akadēmiskā vai zinātniskā grāda atzīšanu, sedz diploma īpašnieks.
 (5) Ja izglītība tiek turpināta Latvijā, attiecīgā augstskola var veikt papildu ekspertīzi un noteikt papildu prasības.
-(6) Zinātnisko grādu ekspertīzi veic nozares profesoru padome.
+(6) Zinātnisko grādu ekspertīzi veic habilitācijas padome.
