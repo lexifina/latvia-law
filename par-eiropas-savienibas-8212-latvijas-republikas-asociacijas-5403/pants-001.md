@@ -1,0 +1,1 @@
+1.pants. 2000.gada 26.janvārī Briselē parakstītais Eiropas Savienības - Latvijas Republikas Asociācijas Padomes lēmums nr. 1/2000 par grozījumiem Eiropas līguma 3.protokolā (turpmāk - Lēmums) ar šo likumu tiek pieņemts un apstiprināts.

@@ -1,0 +1,1 @@
+Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta noteikumi nr.431 "Par Eiropas Savienības - Latvijas Republikas Asociācijas Padomes lēmuma par grozījumiem Eiropas Līguma 3.protokolā pagaidu piemērošanu" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2000, 2.nr.).

@@ -1,0 +1,1 @@
+Eiropas Savienības-Latvijas Republikas Asociācijas padomes lēmums Nr. 1/2000 par grozījumiem Eiropas Savienības un Latvijas Republikas Eiropas līguma 3.Protokolā par jēdziena "izcelsmes produkcija" definīciju un administratīvas sadarbības metodēm

@@ -1,0 +1,1 @@
+Decision No 1/2000 of the EU-Latvia Association Council of amending Protocol 3 on the Definition of the Concept of "originating products" and Methods of Administrative Cooperation to the EU-Latvia Europe Agreement
