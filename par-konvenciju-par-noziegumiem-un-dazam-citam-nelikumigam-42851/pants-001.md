@@ -1,0 +1,1 @@
+1. pants. 1963. gada 14. septembrī Tokijā parakstītā Konvencija par noziegumiem un dažām citām nelikumīgām darbībām, kas izdarītas gaisakuģos (turpmāk - Konvencija), ar šo likumu tiek pieņemta un apstiprināta.
