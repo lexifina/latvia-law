@@ -1,0 +1,1 @@
+1.pants. 1999.gada 30.septembrī Ankarā parakstītā Latvijas Republikas valdības un Turcijas Republikas valdības vienošanās par sadarbību militāro mācību jomā (turpmāk - vienošanās) ar šo likumu tiek pieņemta un apstiprināta.
