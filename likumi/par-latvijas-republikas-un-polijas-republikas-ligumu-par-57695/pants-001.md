@@ -1,0 +1,1 @@
+1. pants. 1993. gada 17. novembrī Varšavā parakstītais Latvijas Republikas un Polijas Republikas līgums par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu ar šo likumu tiek pieņemts un apstiprināts.
