@@ -1,0 +1,1 @@
+2. Šajā likumā minēto valsts īpašuma objekta novērtēšanu organizē un valsts īpašuma objekta nosacīto cenu nosaka Privatizācijas aģentūra līdz brīdim, kad ar Ministru kabineta rīkojumu šīs funkcijas tiek nodotas citām institūcijām.
