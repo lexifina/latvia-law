@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par sabiedrisko pakalpojumu sniedzēju iepirkumu paziņojumiem",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-01",
+  "entry_into_force": "2004-05-02",
+  "notification_date": "2004-09-27",
+  "commission_reference": "MNE(2004)51232",
+  "nim_celex": "72001L0078LVA_31232",
+  "nim_id": "31232",
+  "transposes_celex": [
+    "32001L0078",
+    "32004L0017"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/df9601e5-c8cf-4afd-b9cf-6943562b3dbd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
