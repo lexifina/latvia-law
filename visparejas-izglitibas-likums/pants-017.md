@@ -6,4 +6,4 @@
 4) prasības attiecībā uz iepriekš iegūto izglītību;
 5) iegūtās izglītības vērtēšanas kritēriji un kārtība;
 6) izglītības programmas īstenošanai nepieciešamā personāla, finansu un materiālo līdzekļu izvērtējums un pamatojums.
-(2) Vispārējās izglītības programmas izstrādā to īstenotāji, ievērojot izglītības programmu klasifikāciju.
+(2) Vispārējās izglītības programmas var izstrādāt to īstenotāji, ievērojot izglītības programmu klasifikāciju.

@@ -14,4 +14,7 @@ Izglītības un zinātnes ministrija:
 12) apstiprina Valsts pirmsskolas izglītības centra nolikumu un organizē šā centra darbību;
 13) apstiprina Valsts speciālās izglītības centra nolikumu un organizē šā centra darbību;
 14) sadala valsts budžeta papildu finansējumu valsts ģimnāzijām;
-15) veic citas šajā likumā un Izglītības likumā noteiktās funkcijas.
+15) apstiprina vispārējās izglītības iestāžu izglītības procesa organizācijai nepieciešamo dokumentu (izglītojamo personu lietu, klases žurnālu, mācību sasniegumu kopsavilkuma žurnālu, valsts atzītu izglītības dokumentu uzskaites žurnālu u.c.) saturu un uzbūvi, to noformēšanas prasības, uzskaites kārtību;
+16) apstiprina obligātās prasības izglītojamo uzņemšanai vispārējās izglītības iestādēs, izņemot internātskolas un speciālās izglītības iestādes;
+17) apstiprina prasības izglītojamo pārcelšanai nākamajā klasē vispārējās izglītības iestādēs;
+18) veic citas šajā likumā un Izglītības likumā noteiktās funkcijas.

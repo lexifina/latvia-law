@@ -8,4 +8,5 @@ Ministru kabinets:
 6) nosaka kritērijus un kārtību, kādā izglītojamie tiek uzņemti internātskolās un speciālajās izglītības iestādēs;
 7) nosaka kritērijus un kārtību, kādā speciālajām izglītības iestādēm tiek piešķirts speciālās izglītības attīstības centra statuss;
 8) nosaka valsts un pašvaldību pedagoģiski medicīnisko komisiju kompetenci;
-9) veic citas šajā likumā un Izglītības likumā noteiktās ar vispārējo izglītību saistītās funkcijas.
+9) nosaka kārtību, kādā izglītojamie atbrīvojami no noteiktajiem valsts pārbaudījumiem;
+10) veic citas šajā likumā un Izglītības likumā noteiktās ar vispārējo izglītību saistītās funkcijas.
