@@ -1,0 +1,1 @@
+10. Pārtikas uzņēmumi, kuri nav iesaistījušies pārtikas apritē līdz šā likuma 5.panta ceturtajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, darbību drīkst uzsākt tikai pēc pārtikas uzņēmuma atzīšanas vai reģistrācijas numura saņemšanas Ministru kabineta noteiktajā kārtībā.

@@ -1,0 +1,1 @@
+9. Pārtikas uzņēmumi, kuri vēlas iesaistīties pārtikas apritē līdz šā likuma 5.panta ceturtajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, darbību drīkst uzsākt tikai pēc tam, kad saņemta Pārtikas un veterinārā dienesta atļauja.

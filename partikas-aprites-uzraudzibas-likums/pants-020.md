@@ -5,4 +5,5 @@
 4) veikt konsultatīvās uztura padomes sekretariāta funkcijas;
 5) informēt sabiedrību par aktuālajiem pārtikas nekaitīguma un uztura jautājumiem;
 6) informēt pārtikas uzņēmumus un patērētājus par pārtikas nekaitīgumu un uzturu reglamentējošiem normatīvajiem aktiem;
-7) atbilstoši savai kompetencei sadarboties ar starptautiskajām organizācijām.
+7) atbilstoši savai kompetencei sadarboties ar starptautiskajām organizācijām;
+8) sagatavot priekšlikumus un normatīvo aktu projektus ar ģenētiski modificēto organismu, tajā skaitā jaunās pārtikas, izplatību saistīto problēmu risināšanai.

@@ -1,1 +1,2 @@
-7.pants. Pārtikas uzņēmums savā darbībā ir atbildīgs par pārtikas kvalitāti un nekaitīgumu, kā arī par izplatāmās pārtikas atbilstību normatīvajos aktos noteiktajām un uzņēmuma deklarētajām prasībām.
+7.pants. (1) Pārtikas uzņēmums savā darbībā ir atbildīgs par pārtikas kvalitāti un nekaitīgumu, kā arī par izplatāmās pārtikas atbilstību normatīvajos aktos noteiktajām un uzņēmuma deklarētajām prasībām.
+(2) Persona, kura veic saimniecisko darbību un iesaistījusies kādā no pārtikas aprites posmiem, ir atbildīga par to, lai tiktu izpildītas visas pārtikas apriti reglamentējošās normatīvo aktu prasības.

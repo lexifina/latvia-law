@@ -1,3 +1,4 @@
 10.pants. (1) Materiāliem un priekšmetiem, pārtikas piedevām, tehnoloģiskajām iekārtām, inventāram, tarai un iesaiņojumam, mazgāšanas, dezinfekcijas un citiem līdzekļiem, darba un tehnoloģiskajiem procesiem, kas nonāk saskarē ar pārtiku, jāatbilst Ministru kabineta noteiktajām obligātajām nekaitīguma prasībām.
 (2) Pārtikas apritē izmantojamām telpām un citām platībām ēkās vai transportlīdzekļos, kā arī palīgtelpām, kas nepieciešamas personāla higiēnas nodrošināšanai, ir jāatbilst normatīvajos aktos noteiktajām pārtikas uzņēmumu higiēnas prasībām.
 (3) Piesārņojums pārtikā nedrīkst pārsniegt normatīvajos aktos paredzētajā kārtībā noteiktās maksimāli pieļaujamās normas.
+(4) Transportlīdzekļiem, kas iesaistīti pārtikas apritē, jāatbilst valstī noteiktajām normatīvo aktu prasībām, un ir jābūt Pārtikas un veterinārā dienesta izsniegtai atļaujai pārtikas pārvadāšanai ar tiem.

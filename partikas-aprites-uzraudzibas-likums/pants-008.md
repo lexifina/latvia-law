@@ -2,3 +2,6 @@
 (2) Pārtikas apritei jānotiek atbilstoši Ministru kabineta noteiktajām pārtikas higiēnas prasībām.
 (3) Pārtikas apritē iesaistītajām personām jāievēro normatīvajos aktos noteiktās personāla higiēnas prasības.
 (4) Pārtikas uzņēmuma pienākums ir reģistrēt pārtikas piegādātājus, pārtiku, pārtikas izejvielas un citas vielas, ko paredzēts tajā iekļaut, kā arī uzņēmumus (uzņēmējsabiedrības), kuriem uzņēmums piegādājis pārtiku. Reģistrētā informācija pēc pieprasījuma iesniedzama Pārtikas un veterinārajam dienestam.
+(5) Pārtikas uzņēmuma vadītājs ir atbildīgs par savā uzņēmumā pārtikas apritē nodarbināto fizisko personu profesionālo kvalifikāciju. Šīm personām izvirzāmās prasības reglamentē Ministru kabineta noteikumi.
+(6) Paškontroles sistēmas ietvaros konstatējis pārtikas neatbilstību obligātajām nekaitīguma prasībām, uzņēmums informē par to Pārtikas un veterināro dienestu Ministru kabineta noteiktajā kārtībā.
+(7) Pārtikas uzņēmumiem ir jāievēro dokumentēts pasākumu komplekss, kas nodrošina higiēnas un ražošanas atbilstību ražotāja noteiktajām kvalitātes prasībām.
