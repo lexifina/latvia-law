@@ -1,0 +1,1 @@
+1.pants. 2002.gada 27.martā Atēnās parakstītā Latvijas Republikas valdības un Grieķijas Republikas valdības konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem (turpmāk -Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
