@@ -1,0 +1,4 @@
+31.pants. Personas tiesību ierobežojumi ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijā
+(1) Lai nepieļautu personas atstāšanu bez uzraudzības un aizsargātu citu personu tiesības un brīvības, ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijas vadītājs vai viņa pilnvarota persona var pieņemt lēmumu par nepieciešamību ierobežot personas tiesības brīvi pārvietoties.
+(2) Ja persona ar savu rīcību apdraud savu vai citu personu veselību vai dzīvību, attiecīgās institūcijas vadītājs vai viņa pilnvarota persona var pieņemt lēmumu, izdarot atzīmi personas lietā, par personas izolēšanu uz laiku, ne ilgāku par 24 stundām, īpaši šim nolūkam iekārtotā telpā, kur personai tiek nodrošināta nepieciešamā aprūpe un nepārtraukta uzraudzība.
+(3) Ja nepieciešams ierobežot ilgstošas aprūpes institūcijās esošo bērnu tiesības, piemērojamas Bērnu tiesību aizsardzības likuma normas.

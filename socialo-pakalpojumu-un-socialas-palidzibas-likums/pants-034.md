@@ -1,0 +1,4 @@
+34.pants. Sociālās palīdzības piešķiršana un sociālās palīdzības pabalstu izmaksas veids
+(1) Pašvaldības sociālais dienests pēc personas un tās ģimenes locekļu ienākumu un citu materiālo resursu izvērtēšanas lemj par sociālās palīdzības pabalsta piešķiršanu personai, kas pabalstu pieprasījusi.
+(2) Piešķirto sociālās palīdzības pabalstu personai var izmaksāt naudā vai par pabalsta summu apmaksāt preces vai pakalpojumus, kas nepieciešami personas vai tās ģimenes locekļu pamatvajadzību apmierināšanai.
+(3) Ja persona, kas pieprasījusi sociālo palīdzību, pēdējo triju mēnešu laikā mainījusi dzīvesvietu, pašvaldībai ir tiesības pieprasīt no personas iepriekšējās dzīvesvietas izziņu par saņemtās sociālās palīdzības apmēru un ņemt to vērā, nosakot nepieciešamās palīdzības apmēru.

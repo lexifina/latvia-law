@@ -1,0 +1,11 @@
+11.pants. Pašvaldības sociālā dienesta uzdevumi
+Pašvaldības sociālā dienesta uzdevumi ir šādi:
+1) veikt sociālo darbu ar personām, ģimenēm un personu grupām;
+2) sniegt sociālos pakalpojumus vai organizēt to sniegšanu ģimenēm ar bērniem, kurās ir bērna attīstībai nelabvēlīgi apstākļi, audžuģimenēm, aizbildņiem, personām, kuras aprūpē kādu no ģimenes locekļiem, invalīdiem, pensijas vecuma personām, personām ar garīga rakstura traucējumiem un citām personu grupām, kurām tas nepieciešams;
+3) novērtēt klientu vajadzības, materiālos un personiskos (motivācija, nepieciešamās zināšanas un prasmes, izglītība, profesija u.c.) resursus;
+4) noteikt klientu līdzdarbības pienākumus;
+5) sniegt sociālo palīdzību;
+6) administrēt pašvaldības budžeta līdzekļus, kas novirzīti sociālo pakalpojumu un sociālās palīdzības sniegšanai;
+7) novērtēt sociālā dienesta administrēto un pašvaldības finansēto sociālo pakalpojumu un sociālās palīdzības kvalitāti;
+8) izstrādāt sociālo pakalpojumu attīstības koncepcijas, mērķprogrammas un priekšlikumus jaunu pakalpojumu ieviešanai;
+9) informēt iedzīvotājus par sociālajiem pakalpojumiem un sociālo palīdzību.

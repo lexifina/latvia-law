@@ -1,0 +1,1 @@
+5. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par sociālo palīdzību" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 24.nr.; 1996, 14.nr.; 1997, 2.nr.; 1998, 1., 23.nr.; 1999, 2., 24.nr.; 2001, 1.nr.).
