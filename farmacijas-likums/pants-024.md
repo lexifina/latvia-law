@@ -1,1 +1,1 @@
-24.pants. Ārpus aptiekām atļauts izplatīt tikai labklājības ministra apstiprinātajā sarakstā iekļautos bezrecepšu medikamentus. Valsts veterinārais departaments apstiprina to veterināro zāļu un veterinārfarmaceitisko produktu sarakstu, kurus atļauts izplatīt ārpus aptiekām.
+24.pants. Ārpus aptiekām atļauts izplatīt tikai labklājības ministra apstiprinātajā sarakstā iekļautos bezrecepšu medikamentus. Valsts veterinārais dienests apstiprina to veterināro zāļu un veterinārfarmaceitisko produktu sarakstu, kurus atļauts izplatīt ārpus aptiekām.

@@ -1,6 +1,12 @@
-12.pants. Valsts veterinārais departaments veic šādas veterinārfarmaceitiskās darbības uzraudzības un kontroles funkcijas:
+12.pants. Valsts veterinārais dienests veic šādas veterinārfarmaceitiskās darbības uzraudzības un kontroles funkcijas:
 1) organizē veterinārfarmaceitiskās darbības normatīvo dokumentu izstrādi, publicēšanu un izskaidrošanu, kā arī sadarbojas ar Labklājības ministrijas Farmācijas departamentu farmaceitisko darbību reglamentējošo normatīvo dokumentu izstrādē un to izpildes kontrolēšanā;
 2) organizē veterināro zāļu novērtēšanu un reģistrāciju;
 3) organizē veterinārfarmaceitiskās darbības licencēšanu;
 4) veic valsts uzraudzību un kontroli attiecībā uz veterinārajām aptiekām, veterināro zāļu lieltirgotavām un veterināro zāļu ražošanas uzņēmumiem, kā arī citām fiziskajām un juridiskajām personām, kas ražo un izplata veterinārās zāles un veterinārfarmaceitiskos produktus, neatkarīgi no šo personu pakļautības, uzņēmējdarbības veida un rakstura;
-5) organizē veterināro zāļu kvalitātes kontroli.
+5) organizē veterināro zāļu kvalitātes kontroli
+6) izsniedz atļaujas licencētiem uzņēmumiem Latvijas Republikā reģistrēto veterināro zāļu un veterinārfarmaceitisko produktu ievešanai Latvijas Republikā un izvešanai no Latvijas Republikas;
+7) izsniedz atļaujas licencētiem uzņēmumiem ārvalstīs reģistrētu un lietotu veterināro zāļu un veterinārfarmaceitisko produktu konkrētas ražošanas sērijas un apjoma ievešanai Latvijas Republikā šādos gadījumos:
+a) veterinārās zāles vai veterinārfarmaceitiskais produkts nepieciešams konkrēta dzīvnieka ārstēšanai un Latvijas veterināro zāļu reģistrā iekļautās veterinārās zāles vai veterinārfarmaceitiskos produktus medicīnisku indikāciju dēļ konkrētā dzīvnieka ārstēšanai nevar izmantot. Ievešanas nepieciešamību apliecina licencēta veterinārārsta izrakstīta recepte,
+b) veterinārās zāles vai veterinārfarmaceitiskais produkts nepieciešams konkrētas slimības ārstēšanai vai ārstnieciskās manipulācijas veikšanai un Latvijas veterināro zāļu reģistrā iekļautās veterinārās zāles vai veterinārfarmaceitiskos produktus medicīnisku indikāciju dēļ ārstēšanai nevar izmantot vai to izmantošana ir ierobežota. Ievešanas nepieciešamību apliecina licencēta veterinārārsta rakstveida pieprasījums un Latvijas Veterinārārstu biedrības profesionālās sekcijas atzinums,
+c) veterinārās zāles vai veterinārfarmaceitiskais produkts nepieciešams veterinārmedicīniskās palīdzības sniegšanai katastrofas, dabas stihijas vai dzīvnieku infekcijas slimību uzliesmojuma gadījumā;
+8) izsniedz atļaujas Valsts veterinārmedicīnas diagnostikas centram ārvalstīs reģistrētu un lietotu konkrētas ražošanas sērijas un apjoma diagnostikumu ievešanai Latvijas Republikā aprobācijas un jaunu metožu apgūšanas un ieviešanas vajadzībām.

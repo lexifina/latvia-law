@@ -4,8 +4,8 @@
 3) ārstniecības līdzekļi - visas zāles, instrumenti, aparāti un priekšmeti, kurus lieto cilvēku un dzīvnieku slimību profilaksei un diagnostikai, saslimušo ārstēšanai un to stāvokļa atvieglošanai, kā arī izmanto, lai iedarbotos uz ķermeņa anatomiju vai fizioloģiskajiem procesiem. Ārstniecības līdzekļi šā likuma izpratnē nav pārtikas produkti, tabakas izstrādājumi, kosmētika un ķermeņa kopšanas līdzekļi, kuru sastāvā nav aktīvo vielu to terapeitiskā koncentrācijā;
 4) farmācija - zāļu pētniecība, izstrādāšana, ražošana, standartizācija, kvalitātes kontrole un izplatīšana;
 5) farmaceitiskie produkti - ārstniecības palīglīdzekļi, ārstnieciskie minerālūdeņi, ārstnieciskās zobu pastas, mehāniskie pretapaugļošanās līdzekļi, ārstnieciskā kosmētika, pārtikas piedevas un cita produkcija, kas pakļauta reģistrācijai Valsts zāļu aģentūrā;
-6) veterinārfarmaceitiskie produkti - ārstniecības palīglīdzekļi, dzīvnieku barība un barības piedevas; ārstnieciskā dzīvnieku barība un barības piedevas, ārstnieciskie dzīvnieku kopšanas līdzekļi un cita produkcija, kas pakļauta reģistrācijai Valsts veterinārajā departamentā;
-7) farmaceitiskā darbība - uzņēmējdarbības veids farmācijas jomā, kurš saistīts ar zāļu ražošanu, standartizāciju, kvalitātes kontroli un izplatīšanu un kura veikšanai nepieciešama speciāla atļauja (licence);
+6) veterinārfarmaceitiskie produkti - ārstniecības palīglīdzekļi, dzīvnieku barība un barības piedevas; ārstnieciskā dzīvnieku barība un barības piedevas, ārstnieciskie dzīvnieku kopšanas līdzekļi un cita produkcija, kas pakļauta reģistrācijai Valsts veterinārajā dienestā;
+7) farmaceitiskā un veterinārfarmaceitiskā darbība - uzņēmējdarbības veids farmācijas jomā, kurš saistīts ar zāļu ražošanu, standartizāciju, kvalitātes kontroli un izplatīšanu un kura veikšanai nepieciešama speciāla atļauja (licence);
 8) farmaceita darbība - farmaceitisko izglītību ieguvuša speciālista darbība farmācijas jomā;
 9) gatavās zāles (gatavās zāļu formas) - zāļu līdzekļi konkrētā formā (noteiktam ievadīšanas veidam sagatavoti zāļu līdzekļi vai to maisījumi), kuri tiek ražoti un izplatīti noteiktā fasējumā;
 10) homeopātiskās zāles - zāles, kas pagatavotas atbilstoši homeopātijas farmakopejas prasībām un homeopātijas priekšrakstiem;
@@ -15,10 +15,13 @@
 14) prekursori - vielas, augu un dzīvnieku valsts produkti, kas par tādiem klasificēti atbilstoši likumam "Par prekursoriem";
 15) psihotropās zāles - zāles, kas par tādām klasificētas atbilstoši likumam "Par narkotisko un psihotropo vielu likumīgās aprites kārtību";
 16) ražošana - zāļu (zāļu līdzekļu vai gatavo zāļu) vai reģistrācijai pakļauto farmaceitisko produktu izgatavošana, savienošana, apstrādāšana, pārstrādāšana, fasēšana, iepakošana un marķēšana;
-17) speciālisti - šā likuma izpratnē: personas, kuras, pildot savus amata pienākumus, darbojas farmācijas jomā;
+17) (izslēgts ar 01.06.2000. likumu);
 18) veterinārās zāles - zāles, kas paredzētas tikai dzīvnieku slimību profilaksei, diagnostikai vai ārstēšanai;
 19) zāles - gatavās zāles un zāļu līdzekļi;
 20) zāļu līdzekļi - vielas, augu un dzīvnieku valsts produkti apstrādātā vai neapstrādātā veidā, mikroorganismi (arī vīrusi) vai no tiem iegūti produkti, kurus lieto cilvēku un dzīvnieku slimību profilaksei un diagnostikai, saslimušo ārstēšanai un to stāvokļa atvieglošanai, kā arī izmanto, lai iedarbotos uz ķermeņa anatomiju vai fizioloģiskajiem procesiem;
-21) zāļu un farmaceitisko produktu klīniskā izpēte - zāļu un farmaceitisko produktu lietošana, kuras mērķis ir iegūt noteiktā kārtībā dokumentētus datus par zāļu un farmaceitisko produktu profilaktisko, terapeitisko vai diagnostisko iedarbību;
+21) zāļu un farmaceitisko produktu klīniskā izpēte - visi ar cilvēkiem (veterināro zāļu un veterinārfarmaceitisko produktu gadījumā - ar dzīvniekiem) veiktie pētījumi, kuru mērķis ir atklāt vai pārbaudīt zāļu un farmaceitisko produktu klīnisko, farmakoloģisko un citu farmakodinamisko darbību, konstatēt to lietošanas izraisītās blakusparādības, pētīt to farmakokinētiku, lai noteiktu zāļu un farmaceitisko produktu lietošanas drošību un efektivitāti;
 22) zāļu un farmaceitisko produktu lietošanas novērojumi - Latvijas zāļu reģistrā iekļauto zāļu un farmaceitisko produktu iedarbības novērojumu dokumentēšana, kas neietekmē to lietošanas plānošanu un norisi;
-23) medikamenti - gatavās zāles un farmaceitiskie produkti.
+23) medikamenti - gatavās zāles un farmaceitiskie produkti;
+24) farmaceitiskā aprūpe - veselības aprūpes sastāvdaļa, ko savas kompetences ietvaros veic farmaceits, sniedzot informāciju par zālēm, to lietošanu un veicot zāļu izgatavošanu;
+25) recepšu zāles - zāles, kuras saskaņā ar Ministru kabineta noteikto zāļu klasifikāciju ir kvalificētas kā recepšu zāles un pacientu ambulatorai ārstniecībai izsniedzamas tikai pret normatīvajos aktos noteiktajā kārtībā izrakstītu ārsta vai ārsta palīga recepti;
+26) bezrecepšu zāles - zāles, kuras saskaņā ar Ministru kabineta noteikto zāļu klasifikāciju nav kvalificētas kā recepšu zāles.

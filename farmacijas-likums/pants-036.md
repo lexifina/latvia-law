@@ -1,1 +1,1 @@
-36.pants. Aptieka drīkst atvērt ne vairāk kā divas filiāles, kas darbojas kā aptiekas struktūrvienības tajā pašā administratīvajā teritorijā, kurā darbojas aptieka. Filiāles nosaukumā norādāma aptieka, kura filiāli atvērusi.
+36.pants. Aptieka drīkst atvērt ne vairāk kā divas filiāles. Filiāles drīkst atvērt tikai ārpus pilsētas, kur piecu kilometru rādiusā nav citas aptiekas vai aptiekas filiāles. Aptiekas filiāle darbojas kā aptiekas struktūrvienība. Filiāles nosaukumā norādāma aptieka, kura filiāli atvērusi.
