@@ -1,4 +1,4 @@
 38.pants. Satversmes tiesas tiesnešu atalgojums
-(1) Satversmes tiesas tiesneša, Satversmes tiesas priekšsēdētāja un viņa vietnieka amatalga atbilst attiecīgi Augstākās tiesas tiesneša, Augstākās tiesas priekšsēdētāja un viņa vietnieka amatalgai.
-(2) Satversmes tiesas priekšsēdētājs par priekšsēdētāja pienākumu pildīšanu saņem piemaksu, kas atbilst piemaksai, kāda noteikta Augstākās tiesas priekšsēdētājam par priekšsēdētāja pienākumu pildīšanu, bet Satversmes tiesas priekšsēdētāja vietnieks par priekšsēdētāja vietnieka pienākumu pildīšanu - piemaksu, kas atbilst piemaksai, kāda noteikta Augstākās tiesas priekšsēdētāja vietniekam par priekšsēdētāja vietnieka pienākumu pildīšanu.
-(3) Satversmes tiesas tiesneši papildus amatalgai saņem piemaksas, kas spēkā esošajos normatīvajos aktos noteiktas Augstākās tiesas tiesnešiem, kuriem ir augstākā kvalifikācijas klase.
+(1) Satversmes tiesas tiesneša mēneša amatalga ir par 15 procentiem lielāka nekā Augstākās tiesas tiesneša mēneša amatalga ar piemaksu par 1. kvalifikācijas klasi.
+(2) Satversmes tiesas priekšsēdētāja vietnieka mēneša amatalga ir par 10 procentiem lielāka nekā Satversmes tiesas tiesneša mēneša amatalga.
+(3) Satversmes tiesas priekšsēdētāja mēneša amatalga ir par 25 procentiem lielāka nekā Satversmes tiesas tiesneša mēneša amatalga.
