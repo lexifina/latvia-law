@@ -1,3 +1,5 @@
 6. pants. Reliģiskās organizācijas un izglītība
 (1) Ikvienam ir tiesības apgūt ticības mācību gan individuāli, gan kopā ar citiem reliģisko organizāciju mācību iestādēs.
-(2) Jautājumu par ticības mācības pasniegšanu valsts un pašvaldību izglītības iestādēs regulē Latvijas Republikas Izglītības likums.
+(2) Valsts un pašvaldību skolās kristīgās ticības mācību var mācīt personām, kuras rakstveidā izteikušas vēlēšanos to apgūt. Nepilngadīgās personas iesniegumu par vēlēšanos apgūt kristīgās ticības mācību iesniedz ar vecāku vai aizbildņu rakstveida piekrišanu. Ja nepilngadīgā persona ir jaunāka par 14 gadiem, tās vietā iesniegumu iesniedz šīs personas vecāki vai aizbildņi.
+(3) Kristīgās ticības mācību māca pēc Izglītības un zinātnes ministrijas apstiprinātas mācību programmas evaņģēliski luteriskās, Romas katoļu, pareizticīgo, vecticībnieku un baptistu konfesiju pedagogi, ja skolā ir vismaz 10 skolēnu, kuri vēlas apgūt attiecīgās kristīgās konfesijas mācību. Pedagogus izvirza konfesijas vadība, un tos atestē Izglītības un zinātnes ministrija.
+(4) Valsts un pašvaldību pārziņā esošajās nacionālo minoritāšu skolās, ievērojot skolēnu un viņu vecāku vai aizbildņu vēlēšanos, Izglītības un zinātnes ministrijas noteiktajā kārtībā var pasniegt arī attiecīgajai nacionālajai minoritātei raksturīgās ticības mācību.
