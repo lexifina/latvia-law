@@ -1,0 +1,1 @@
+1.pants. 1998.gada 16.aprīlī Rīgā parakstītais Latvijas Republikas valdības, Igaunijas Republikas valdības un Lietuvas Republikas valdības protokols par Baltijas bataljona štāba un Baltijas bataljona personāla statusu (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
