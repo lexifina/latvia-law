@@ -1,0 +1,3 @@
+1. Ekosistēmas un dzīvesvides: raksturīgas ar lielu daudzveidību, lielu skaitu endēmisku vai apdraudētu sugu; nepieciešamas migrējošām sugām; sociāli, saimnieciski, kulturāli vai zinātniski nozīmīgas vai arī tipiskas, unikālas vai saistītas ar galvenajām evolūcijas vai citām bioloģiskām norisēm.
+2. Sugas un organismu sabiedrības, kuras ir: apdraudētas; radniecīgas domesticētām jeb kultivētām sugām; medicīniski, lauksaimnieciski vai citādi saimnieciski vērtīgas; sociāli, zinātniski vai kulturāli nozīmīgas vai arī nozīmīgas pētījumiem saistībā ar bioloģiskās daudzveidības saglabāšanu un dzīvās dabas ilgtspējīgu izmantošanu, piemēram, kā indikatorsugas.
+3. Aprakstīti genomi un gēni ar sociālu, zinātnisku vai saimniecisku nozīmi.
