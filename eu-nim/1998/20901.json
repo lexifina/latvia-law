@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Par noziedzīgi iegūtu līdzekļu legalizācijas novēršanu",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "3",
+  "official_journal_page": null,
+  "official_journal_date": "1998-01-06",
+  "entry_into_force": null,
+  "notification_date": "2004-04-19",
+  "commission_reference": "MNE(2003)50901",
+  "nim_celex": "71991L0308LVA_20901",
+  "nim_id": "20901",
+  "transposes_celex": [
+    "31991L0308",
+    "32001L0097"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ace96475-a4fa-4f42-848e-a3ae60e4f1ae",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
