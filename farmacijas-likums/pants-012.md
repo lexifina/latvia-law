@@ -1,4 +1,4 @@
-12.pants. Valsts veterinārais dienests veic šādas veterinārfarmaceitiskās darbības uzraudzības un kontroles funkcijas:
+12.pants. Pārtikas un veterinārais dienests veic šādas veterinārfarmaceitiskās darbības uzraudzības un kontroles funkcijas:
 1) organizē veterinārfarmaceitiskās darbības normatīvo dokumentu izstrādi, publicēšanu un izskaidrošanu, kā arī sadarbojas ar Veselības ministrijas Farmācijas departamentu farmaceitisko darbību reglamentējošo normatīvo dokumentu izstrādē un to izpildes kontrolēšanā;
 2) organizē veterināro zāļu novērtēšanu un reģistrāciju;
 3) organizē veterinārfarmaceitiskās darbības licencēšanu;

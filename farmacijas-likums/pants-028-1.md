@@ -1,0 +1,1 @@
+28.¹ pants. Dokumentus, ko pievieno reģistrācijas pieprasījumam, iesniedz saskaņā ar Ministru kabineta noteiktajām prasībām par zāļu reģistrāciju un ņemot vērā Eiropas Komisijas ieteikumus par dokumentāciju un prasības par zāļu kvalitāti, drošumu un efektivitāti.

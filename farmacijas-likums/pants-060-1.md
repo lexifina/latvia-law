@@ -1,0 +1,1 @@
+60.¹pants. Speciālo atļauju (licenci) zāļu lieltirgotavas atvēršanai (darbībai) var saņemt juridiskās personas, ja to pamatdarbība ir zāļu izplatīšana un ja par zāļu labas izplatīšanas prakses ievērošanu atbildīgā amatpersona atbilst šā likuma 46.¹ pantā noteiktajām prasībām.

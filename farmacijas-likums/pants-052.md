@@ -1,1 +1,1 @@
-52.pants. Zāļu ražošanas un zāļu kontroles dienestu vadītājiem zāļu ražošanas uzņēmumā jābūt personām, kurām ir atbilstoša izglītība. Zāļu ražošanas un zāļu kontroles dienestu vadītāji vienlaikus nedrīkst būt atbildīgie farmaceiti vai viņu vietnieki zāļu lieltirgotavās vai aptieku vadītāji vai viņu vietnieki.
+52.pants. Zāļu ražošanas uzņēmumā par zāļu ražošanu tiek noteikta atbildīgā amatpersona, kuras kvalifikācijai un profesionālajai pieredzei izvirzāmās prasības nosaka Ministru kabinets.

@@ -1,0 +1,1 @@
+20. Farmaceita asistents, kas saņēmis Veselības ministrijas izsniegto atļauju aptiekas vadīšanai, bet neatbilst prasībām, kuras saskaņā ar šā likuma 39.pantu aptiekas vadītājam tiek izvirzītas no 2004.gada 1.jūlija, var vadīt aptieku līdz atļaujā minētā termiņa beigām.

@@ -1,1 +1,2 @@
-17.pants. Latvijas Republikas teritorijā atļauts izplatīt tikai Latvijas Republikā reģistrētās un Latvijas zāļu reģistrā vai Latvijas veterināro zāļu reģistrā iekļautās zāles, farmaceitiskos produktus, veterinārās zāles un veterinārfarmaceitiskos produktus, izņemot šā likuma 10.panta 7.punktā, 12.panta 7. un 8.punktā vai 20.pantā minētos gadījumus.
+17.pants. (1) Atļauts izplatīt tikai Latvijas Republikā reģistrētās un Latvijas zāļu reģistrā vai Latvijas veterināro zāļu reģistrā iekļautās zāles, izņemot šā likuma 10.panta 7.punktā, 12.panta 7. un 8.punktā un 20.pantā minētos gadījumus.
+(2) Eiropas Zāļu novērtēšanas aģentūras centralizētajā zāļu reģistrācijas procedūrā reģistrētās zāles drīkst izplatīt bez šo zāļu reģistrācijas.

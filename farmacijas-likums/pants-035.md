@@ -10,4 +10,4 @@
 2) izgatavot zāles pēc ārstniecības iestāžu pieprasījumiem;
 3) izplatīt medikamentus ārstniecības iestādēm.
 (4) Slēgta tipa jeb ārstniecības iestāžu aptiekās aizliegts izplatīt medikamentus fiziskajām personām.
-(5) Veterinārajās aptiekās atļauts izplatīt tikai dzīvniekiem paredzētos ārstniecības līdzekļus, to skaitā zāles un veterinārfarmaceitiskos produktus, kā arī dzīvnieku aprūpei paredzētās preces. Zālēm un veterinārfarmaceitiskajiem produktiem jābūt marķētiem ar uzrakstu "Lietošanai dzīvniekiem".
+(5) Veterinārajās aptiekās atļauts izplatīt tikai dzīvniekiem paredzētos ārstniecības līdzekļus, to skaitā veterinārās zāles un veterinārfarmaceitiskos produktus, kā arī dzīvnieku aprūpei paredzētās preces. Zālēm un veterinārfarmaceitiskajiem produktiem jābūt marķētiem ar uzrakstu "Lietošanai dzīvniekiem".

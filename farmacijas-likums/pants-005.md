@@ -1,11 +1,11 @@
 5.pants. Ministru kabinets nosaka:
 1) kārtību, kādā izsniedzamas, apturamas, pārreģistrējamas un anulējamas speciālas atļaujas (licences) farmaceitiskajai darbībai un farmaceitu profesionālās kvalifikācijas sertifikāti, aptieku, zāļu lieltirgotavu un zāļu ražošanas uzņēmumu atvēršanas un darbības prasības, kā arī atbilstības novērtēšanas kārtību;
-2) un pēc Veselības ministrijas ieteikuma apstiprina to laboratoriju, institūtu un citu institūciju sarakstu, kuras ir tiesīgas dot oficiālu atzinumu par zāļu, farmaceitisko produktu, asins pagatavojumu un imunoloģisko preparātu pārbaudes un novērtēšanas rezultātiem;
+2) un pēc Veselības ministrijas ieteikuma apstiprina to zāļu kvalitātes kontroles institūciju sarakstu, kuras ir tiesīgas dot oficiālu atzinumu par zāļu, tajā skaitā arī no cilvēka asinīm un plazmas iegūto zāļu un homeopātisko zāļu, kvalitātes kontroles rezultātiem;
 3) zāļu ražošanas, marķēšanas, reģistrēšanas, kontroles, izplatīšanas, ievešanas un izvešanas kārtību;
-4) zāļu un farmaceitisko produktu cenu veidošanas principus;
+4) zāļu cenu veidošanas principus;
 5) zāļu reklamēšanas kārtību;
-6) zāļu un farmaceitisko produktu klīniskās izpētes un lietošanas novērojumu veikšanas kārtību, kā arī zāļu lietošanas izraisīto blakusparādību uzraudzību;
-7) kārtību, kādā ārstniecības iestādes, veterinārmedicīniskās aprūpes iestādes un sociālās aprūpes institūcijas iegādājas, uzglabā un izlieto zāles;
+6) zāļu klīniskās izpētes un lietošanas novērojumu veikšanas kārtību, kā arī zāļu lietošanas izraisīto blakusparādību uzraudzību;
+7) kārtību, kādā ārstniecības iestādes un sociālās aprūpes institūcijas iegādājas, uzglabā un izlieto zāles;
 8) minimālā zāļu sortimenta noteikšanas kārtību vispārēja (atvērta) tipa aptiekām;
 9) (izslēgts ar 19.03.1998. likumu);
 10) zāļu klasifikāciju recepšu un bezrecepšu zālēs;
@@ -14,4 +14,6 @@
 13) kārtību, kādā zāļu ražošanas uzņēmumiem tiek izsniegts labas ražošanas prakses sertifikāts;
 14) kārtību, kādā tiek vērtēta atbilstība labas izplatīšanas prakses prasībām;
 15) kārtību, kādā tiek vērtēta atbilstība labas klīniskās prakses prasībām;
-16) aptieku un aptieku filiāļu izvietojuma kritērijus.
+16) aptieku un aptieku filiāļu izvietojuma kritērijus;
+17) farmaceitu un farmaceitu asistentu reģistrēšanas kārtību;
+18) kārtību, kādā veterinārmedicīniskās aprūpes iestādes un personas, kas nodarbojas ar veterinārmedicīnisko praksi, iegādājas, uzglabā un izlieto veterinārās zāles.

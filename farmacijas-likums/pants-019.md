@@ -1,1 +1,1 @@
-19.pants. Zāļu un farmaceitisko produktu kvalitātes kontroles kārtību reglamentē Ministru kabineta noteikumi. Kontroles izdevumus sedz persona, kuras darbība tiek kontrolēta, ja Ministru kabineta noteikumos nav paredzēts citādi.
+19.pants. Zāļu kvalitātes kontroles kārtību reglamentē Ministru kabineta noteikumi. Kontroles izdevumus sedz persona, kuras darbība tiek kontrolēta, ja Ministru kabineta noteikumos nav paredzēts citādi.
