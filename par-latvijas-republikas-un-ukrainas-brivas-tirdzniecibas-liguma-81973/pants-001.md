@@ -1,0 +1,1 @@
+1.pants. 1995.gada 22.novembrī Kijevā parakstītais Latvijas Republikas un Ukrainas brīvās tirdzniecības līgums (turpmāk - Līgums) (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 13.nr.) ar šo likumu tiek denonsēts.
