@@ -1,0 +1,1 @@
+1.pants. 1993.gada 6.decembrī Londonā parakstītais Latvijas Republikas valdības un Lielbritānijas un Ziemeļīrijas Apvienotās Karalistes valdības līgums par starptautiskajiem pārvadājumiem ar autotransportu (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
