@@ -1,0 +1,2 @@
+VII nodaļa
+Finansēšana
