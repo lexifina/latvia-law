@@ -1,0 +1,1 @@
+1.pants. 1999.gada 2.decembrī Bratislavā parakstītais Latvijas Republikas un Slovākijas Republikas līgums par izmaiņām Latvijas Republikas un Slovākijas Republikas brīvās tirdzniecības līguma 3.protokolā (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
