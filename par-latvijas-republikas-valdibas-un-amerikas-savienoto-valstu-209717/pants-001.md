@@ -1,0 +1,1 @@
+1. pants. 1997.gada 13.jūnijā Vašingtonā parakstītais Latvijas Republikas valdības un Amerikas Savienoto Valstu valdības līgums par savstarpējo tiesisko palīdzību krimināllietās (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
