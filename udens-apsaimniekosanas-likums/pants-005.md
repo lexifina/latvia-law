@@ -12,4 +12,5 @@
 1) virszemes ūdensobjektu tipu raksturojumu un tam atbilstošu virszemes ūdensobjektu klasifikāciju, kā arī antropogēno slodžu noteikšanas kārtību;
 2) pazemes ūdensobjektu klases un klasificēšanas kritērijus, antropogēno slodžu noteikšanas kārtību, kā arī pazemes ūdens resursu apzināšanas kārtību;
 3) virszemes ūdeņu augstas, labas, vidējas, sliktas un ļoti sliktas ekoloģiskās kvalitātes kritērijus un labas un sliktas ķīmiskās kvalitātes kritērijus, kā arī pazemes ūdeņu labas un sliktas ķīmiskās kvalitātes kritērijus;
-4) prioritāro vielu sarakstu un to emisijas ierobežošanas kārtību.
+4) prioritāro vielu sarakstu un to emisijas ierobežošanas kārtību;
+5) ūdens objektu ekspluatācijas (apsaimniekošanas) noteikumu izstrādāšanas kārtību un virszemes ūdens objektu un ostu akvatoriju tīrīšanas un padziļināšanas kārtību.

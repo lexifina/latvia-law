@@ -1,7 +1,7 @@
 23.pants. Informācijas sniegšana sabiedrībai
-(1) Valsts ģeoloģijas dienests, izstrādājot, pārskatot un atjaunojot apsaimniekošanas plānus, veicina aktīvu sabiedrības iesaistīšanos šā likuma īstenošanā, nodrošinot, lai par katru upju baseinu apgabalu tiktu publicēta un nodota sabiedrībai, tai skaitā ūdens lietotājiem, apspriešanai šāda informācija:
+(1) Latvijas Vides, ģeoloģijas un meteoroloģijas aģentūra, izstrādājot, pārskatot un atjaunojot apsaimniekošanas plānus, veicina aktīvu sabiedrības iesaistīšanos šā likuma īstenošanā, nodrošinot, lai par katru upju baseinu apgabalu tiktu publicēta un nodota sabiedrībai, tai skaitā ūdens lietotājiem, apspriešanai šāda informācija:
 1) plāna izstrādes laika grafiks un programma, arī informācija par paredzamajiem sabiedrības iesaistīšanas pasākumiem - vismaz trīs gadus pirms tā laika perioda sākuma, uz kuru plāns attiecas;
 2) pārskats par būtiskiem ūdenssaimniecības jautājumiem upju baseinu apgabalā - vismaz divus gadus pirms tā laika perioda sākuma, uz kuru plāns attiecas;
 3) apsaimniekošanas plāna projekts - vismaz gadu pirms tā laika perioda sākuma, uz kuru plāns attiecas.
-(2) Pēc jebkuras fiziskās vai juridiskās personas pieprasījuma Valsts ģeoloģijas dienests un citas iesaistītās institūcijas nodrošina pieeju pamatdokumentiem un informācijai, kuru izmanto apsaimniekošanas plāna projekta izstrādē.
+(2) Pēc jebkuras fiziskās vai juridiskās personas pieprasījuma Latvijas Vides, ģeoloģijas un meteoroloģijas aģentūra un citas iesaistītās institūcijas nodrošina pieeju pamatdokumentiem un informācijai, kuru izmanto apsaimniekošanas plāna projekta izstrādē.
 (3) Lai nodrošinātu aktīvu sabiedrības līdzdalību un iesaistīšanos apspriešanā, viedokļa izteikšanai par šā panta pirmajā daļā minētajiem dokumentiem paredz vismaz sešus mēnešus ilgu termiņu.
