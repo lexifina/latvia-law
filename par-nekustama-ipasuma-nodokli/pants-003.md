@@ -6,3 +6,4 @@
 (3) Nekustamā īpašuma nodokli aprēķina pašvaldība no pēdējās noteiktās nekustamā īpašuma kadastrālās vērtības.
 (4) Ja nekustamais īpašums atrodas vairāku pašvaldību administratīvajā teritorijā, nekustamā īpašuma nodokli aprēķina un iekasē katra pašvaldība atbilstoši savā teritorijā esošajai nekustamā īpašuma daļai.
 (5) Ja šā likuma 1.panta otrajā daļā paredzētais atbrīvojums no nekustamā īpašuma nodokļa maksāšanas attiecināms tikai uz nekustamā īpašuma daļu, tad par to īpašuma daļu, uz kuru atbrīvojums nav attiecināms, nodoklis aprēķināms šajā likumā noteiktajā vispārējā kārtībā.
+(6) Nekustamā īpašuma īpašniekam, pieprasot sava īpašuma pārvērtēšanu taksācijas perioda laikā, individuāli noteiktā nekustamā īpašuma kadastrālā vērtība ir piemērojama nodokļa aprēķinam par visu taksācijas periodu.

@@ -8,8 +8,8 @@
 2) ārvalstij piederošo nekustamo īpašumu, kurš tiek izmantots tās diplomātisko vai konsulāro pārstāvniecību vajadzībām, ja Latvijas Republika saskaņā ar attiecīgās ārvalsts likumiem bauda tādas pašas tiesības attiecībā uz Latvijai piederošo nekustamo īpašumu šajā ārvalstī;
 3) koplietošanas satiksmes ceļus, ielas, gaisa un ūdens navigācijas būves un publiskos ūdeņus;
 4) reliģisko organizāciju nekustamo īpašumu;
-5) līdz 1998.gada 31.decembrim - zemi, uz kuras saimnieciskā darbība aizliegta likumā noteiktajā kārtībā;
-5¹) no 1999.gada 1.janvāra - zemi, uz kuras saimnieciskā darbība aizliegta likumā noteiktajā kārtībā, tajā skaitā Baltijas jūras un Rīgas jūras līča krasta kāpu aizsargjoslas neapbūvēto meža zemi;
+5) līdz 1999.gada 31.decembrim - zemi, uz kuras saimnieciskā darbība aizliegta likumā noteiktajā kārtībā;
+5¹) no 2000.gada 1.janvāra - zemi, uz kuras saimnieciskā darbība aizliegta likumā noteiktajā kārtībā, tajā skaitā Baltijas jūras un Rīgas jūras līča krasta kāpu aizsargjoslas neapbūvēto meža zemi;
 6) nekustamo īpašumu, kas atzīts par Latvijas Republikas kultūras pieminekli, un zemi tā uzturēšanai, izņemot dzīvojamās mājas un zemi to uzturēšanai, kā arī saimnieciski izmantojamo nekustamo īpašumu;
 7) līdz 1998.gada 31.decembrim - Ministru kabineta noteiktajā kārtībā zemi, kuru aizņem krūmāji vai mežaudzes līdz 40 gadu vecumam, ja tajās atbilstoši meža apsaimniekošanas projektam tiek veikti plānotie mežsaimnieciskie pasākumi;
 7¹) no 1999.gada 1.janvāra - Ministru kabineta noteiktajā kārtībā zemi, kuru aizņem jaunaudzes un apmežojumi jaunaudžu vecumā;
