@@ -7,9 +7,10 @@ Zemes grāmata - zemes īpašnieku un zemes lietotāju reģistrs, zemes kadastra
 Zemes ierīcības projekts - zemes izmantošanas plāns, kurā norādītas katra zemes gabala robežas, platība un inženierlabiekārtojums, kā arī šo teritoriju perspektīvie grozījumi sabiedrībai svarīgu objektu realizēšanai.
 Zemes paraugvērtība - pēc vienotas metodikas aprēķināta zemes vērtība nodokļu un nomas maksas noteikšanai.
 Bijušais zemes īpašnieks - fiziskā vai juridiskā persona, kurai piederēja zemes īpašums Latvijas Republikā 1940. gada 21. jūlijā.
+(Devītā un desmitā rindkopa izslēgta ar 31.03.1994. likumu.)
 Zemes nomas lietojums - fiziskās vai juridiskās personas zemes izmantošana par maksu uz noteiktu laiku.
-Zemes daļējais lietojums - citas fiziskās vai juridiskās personas īpašumā vai lietošanā esoša zemes gabala daļas izmantošana pazemes vai virszemes inženiertīklu apkalpošanai, remontam un izbūvei bez zemes pamatizmantotāja īpašas atļaujas, atlīdzinot tam visus zaudējumus, kas radušies daļējā zemes lietojuma dēļ.
-Plānojuma projekts - noteiktai teritorijai izstrādāts projekts, kas nosaka tās izmantošanas veidus un prasības saskaņā ar šīs teritorijas pašvaldības ekonomiskās un sociālās attīstības programmu tuvākam laika posmam un perspektīvai; parasti pilsētas izbūves ģenerālplāns un rajona plānojuma detaļprojekts.
 Apbūves projekts - projekts, pēc kura realizējama zemes gabala apbūve.
 Pilsētas apbūves noteikumi - katrai pilsētai individuāli noteikumi, kas izstrādāti, pamatojoties uz apstiprinātu pilsētas izbūves ģenerālplānu.
-Sabiedrībai svarīgi objekti - katrā konkrētā gadījumā valsts vai pašvaldības noteikti objekti, kuru celtniecība nepieciešama sabiedrības interesēs.
+(Četrpadsmitā rindkopa izslēgta ar 31.03.1994. likumu.)
+Dzīvojamā ēka - dzīvojamā māja, vasarnīca vai cita ēka, kas paredzēta dzīvošanai un uzcelta saskaņā ar attiecīga arhitekta apstiprinātu projektu.
+Kompensācija - valsts un pašvaldības garantēta atlīdzība naudā vai vērtspapīros par bijušajam zemes īpašniekam neatdoto zemi Ministru kabineta noteiktajā kārtībā un termiņos.

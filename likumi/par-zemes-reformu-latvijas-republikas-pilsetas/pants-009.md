@@ -1,8 +1,5 @@
 9. pants. Zemes īpašuma tiesību subjekti
-(1) Atjaunot zemes īpašuma tiesības var:
-1) bijušie zemes īpašnieki vai viņu mantinieki (fiziskās personas) uz viņiem 1940. gada 21. jūlijā piederējušajiem zemes gabaliem neatkarīgi no pieprasītāju pilsonības;
-2) bijušie zemes īpašnieki (juridiskās personas) uz tiem 1940. gada 21. jūlijā piederējušajiem zemes gabaliem tikai pēc tam, kad likumā noteiktajā kārtībā tiesa konstatē tiesību pārmantošanas faktu.
-(2) Iegūt zemi īpašumā var:
-1) Latvijas Republikas pilsoņi;
-2) zemes īpašuma tiesību subjekti saskaņā ar Latvijas Republikas Augstākajā Padomē ratificētajiem starpvalstu līgumiem.
-(3) Saņemt zemi lietošanā var fiziskās un juridiskās personas saskaņā ar Latvijas Republikas likumu "Par zemes lietošanu un zemes ierīcību".
+(1) Zemes īpašuma tiesību subjekti Latvijas Republikas pilsētās var būt valsts, ārvalstis (to diplomātisko vai konsulāro misiju vajadzībām), pašvaldības, Latvijas Republikas pilsoņi, kā arī citas personas saskaņā ar Latvijas Republikas likumiem un Saeimas apstiprinātiem starptautiskajiem līgumiem.
+(2) Zemes īpašuma tiesības tiek atjaunotas:
+1) fiziskajām personām - bijušajiem zemes īpašniekiem vai viņu mantiniekiem - uz zemes gabaliem, kas viņiem piederēja 1940.gada 21.jūlija pilsētu pašreizējas administratīvajās robežas neatkarīgi no pieprasītāju pilsonības;
+2) juridiskajām personām - bijušajām zemes īpašniecēm - uz zemes gabaliem, kas tām piederēja 1940.gada 21.jūlijā, ja likumā noteiktajā kārtībā tiesa konstatē tiesību pārmantošanas faktu. Minētie noteikumi neattiecas uz juridiskajām personām, kurām Latvijas Republikas likumos ir paredzēta cita īpašumu atgūšanas kārtība.
