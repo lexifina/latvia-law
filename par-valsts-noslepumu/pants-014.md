@@ -1,0 +1,4 @@
+14.pants. Personas pienākumi attiecībā uz valsts noslēpumu
+(1) Persona, kura ir tiesīga veikt darbu, kas saistīts ar valsts noslēpumu vai tā aizsardzību, ir personīgi atbildīga par likumā un Ministru kabineta noteikumos paredzēto valsts noslēpuma aizsardzības prasību izpildi, noteiktā slepenības režīma un sevišķās lietvedības noteikumu ievērošanu.
+(2) Ja ir radušies šā likuma 9.panta trešajā daļā minētie apstākļi, kas liedz personai pieeju valsts noslēpumam, tās pienākums ir nekavējoties ziņot par to institūcijai, kura izsniegusi speciālo atļauju.
+(3) Par valsts noslēpuma objektu nozaudēšanas gadījumiem valsts noslēpuma subjekts nekavējoties ziņo attiecīgajai valsts drošības iestādei un sadarbībā ar to veic nozaudēto objektu meklēšanu, kā arī nepieciešamos pasākumus, lai novērstu vai mazinātu kaitējumu, kas var rasties sakarā ar valsts noslēpuma izpaušanu.

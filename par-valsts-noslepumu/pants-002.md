@@ -1,0 +1,4 @@
+2.pants. Valsts noslēpuma jēdziens
+(1) Valsts noslēpums ir tāda militāra, politiska, ekonomiska, zinātniska, tehniska vai cita rakstura informācija, kura iekļauta Ministru kabineta apstiprinātā sarakstā un kuras nozaudēšana vai nelikumīga izpaušana var nodarīt kaitējumu valsts drošībai, ekonomiskajām vai politiskajām interesēm.
+(2) Valsts noslēpuma subjekti ir valsts institūcijas, to amatpersonas un darbinieki, kā arī citas personas, kuras sakarā ar amata (dienesta) vai darba pienākumu veikšanu rada, iegūst, uzglabā vai izmanto valsts noslēpuma objektus.
+(3) Valsts noslēpuma objekts ir informācija (ziņa, ziņu kopums) jebkurā tehniski iespējamā tās fiksēšanas veidā, kura saskaņā ar šo likumu ir atzīta vai var tikt atzīta par valsts noslēpumu, kā arī materiāls objekts, priekšmets, viela vai elektromagnētiskais lauks, kas ietver, uzglabā, uzkrāj vai atspoguļo informāciju, kura likumā noteiktajā kārtībā atzīta par valsts noslēpumu.

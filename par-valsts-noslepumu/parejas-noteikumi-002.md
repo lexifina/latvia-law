@@ -1,0 +1,1 @@
+2. Personām, kuras pašreiz ieņem amatus, kas saistīti ar valsts noslēpuma izmantošanu un aizsardzību, triju mēnešu laikā pēc likuma spēkā stāšanās jāsaņem speciālās atļaujas pieejai valsts noslēpumam, ievērojot šā likuma nosacījumus, vai arī tās ir pārceļamas darbā, kas nav saistīts ar valsts noslēpumu.

@@ -1,0 +1,5 @@
+10.pants. Personu pārbaude
+(1) Ja tiek lemts jautājums par speciālo atļauju izsniegšanu konkrētām personām, likumā noteiktajā kārtībā šo personu pārbaudi veic valsts drošības iestādes, kuras noskaidro un sniedz atzinumu par to, vai nepastāv šā likuma 9.panta trešajā daļā noteiktie ierobežojumi.
+(2) Šā likuma 9.panta ceturtajā daļā paredzētajos gadījumos personu pārbaudes kārtību nosaka Satversmes aizsardzības biroja direktors.
+(3) Saeimā, Valsts prezidenta kancelejā, Valsts kancelejā, Valsts kontrolē, Latvijas Bankā, Ārlietu ministrijā, Finansu ministrijā, Ekonomikas ministrijā un prokuratūrā personu pārbaudi veic Satversmes aizsardzības birojs. Satversmes aizsardzības birojs veic arī slepenības režīma nodrošināšanas struktūrvienību vadītāju pārbaudi visās institūcijās.
+(4) Aizsardzības ministrijā un Nacionālajos bruņotajos spēkos (izņemot Zemessardzi) personu pārbaudi veic Aizsardzības ministrijas Militārās pretizlūkošanas dienests, bet Zemessardzē - Zemessardzes štāba Informācijas dienests. Citās institūcijās personu pārbaudi veic Iekšlietu ministrijas Drošības policija.
