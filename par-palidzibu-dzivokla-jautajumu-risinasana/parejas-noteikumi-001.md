@@ -1,1 +1,1 @@
-1. Līdz dzīvesvietas deklarēšanas likuma spēkā stāšanās dienai par administratīvo teritoriju, kurā persona deklarējusi savu dzīvesvietu, uzskatāma tā administratīvā teritorija, kurā attiecīgā persona dzīvo vai kurā tai bija pēdējā dzīvesvieta.
+1. Līdz dzīvesvietas deklarēšanas likuma spēkā stāšanās dienai par administratīvo teritoriju, kurā persona deklarējusi savu dzīvesvietu, uzskatāma tā administratīvā teritorija, kurā attiecīgā persona bija pierakstīta.

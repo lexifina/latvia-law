@@ -1,0 +1,3 @@
+28.pants. Pašvaldības palīdzības finansiālais nodrošinājums
+(1) Pašvaldība ik gadu pirms valsts budžeta projekta izstrādāšanas apkopo pašvaldības palīdzības reģistra datus, pašvaldībai piederošo dzīvojamo telpu uzskaites datus un pašvaldības palīdzības sniegšanas projektus, veicot nepieciešamos aprēķinus, un sastāda budžeta pieprasījumu izdevumu daļējai segšanai no valsts budžeta līdzekļiem mērķdotāciju veidā pašvaldībām.
+(2) Atbildīgā ministrija ik gadu apkopo šā panta pirmajā daļā minētos budžeta pieprasījumus un iesniedz tos iekļaušanai valsts budžeta projektā. Valsts budžeta mērķdotāciju piešķiršanas nosacījumus un pašvaldību pieprasījumu izvērtēšanas kārtību nosaka Ministru kabinets.
