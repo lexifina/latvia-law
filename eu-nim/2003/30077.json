@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par vīnogulāju pavairojamo materiālu",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "33",
+  "official_journal_page": null,
+  "official_journal_date": "2003-02-28",
+  "entry_into_force": null,
+  "notification_date": "2004-07-22",
+  "commission_reference": "MNE(2004)50077",
+  "nim_celex": "71977L0629LVA_30077",
+  "nim_id": "30077",
+  "transposes_celex": [
+    "31977L0629"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ec21955e-c7d4-4936-af18-70baae814a5b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
