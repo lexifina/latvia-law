@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Latvijas administratīvo pārkāpumu kodekss",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "52",
+  "official_journal_page": null,
+  "official_journal_date": "2005-04-01",
+  "entry_into_force": null,
+  "notification_date": "2005-06-16",
+  "commission_reference": "MNE(2005)51812",
+  "nim_celex": "72002L0014LVA_121812",
+  "nim_id": "121812",
+  "transposes_celex": [
+    "32002L0014"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/29b39b7f-1f61-45ab-8f0d-f3e11ad67cca",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
