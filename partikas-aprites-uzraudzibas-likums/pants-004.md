@@ -6,4 +6,6 @@
 (6) Prasības attiecībā uz mājas apstākļos ražotas pārtikas ražošanu un izplatīšanu nosaka Ministru kabinets.
 (7) Pārtikas apritei nepieciešamos pavaddokumentus nosaka Ministru kabinets.
 (8) Pārtiku, kura satur ģenētiski modificētus organismus vai ir ražota no tiem, Latvijā drīkst izplatīt tikai pēc attiecīgas atļaujas saņemšanas normatīvajos aktos noteiktajā kārtībā.
-(9) Pārtikai, kura satur ģenētiski modificētus organismus vai ir ražota no tiem, marķējumā Ministru kabineta noteiktajā kārtībā un gadījumos norāda informāciju par tās ģenētiski modificētajām sastāvdaļām vai to, ka šī pārtika ražota no ģenētiski modificētiem organismiem.
+(9) Pārtikai, kura satur ģenētiski modificētus organismus vai ir ražota no tiem, marķējumā Ministru kabineta noteiktajā kārtībā un gadījumos norāda informāciju par tās ģenētiski modificētajām sastāvdaļām vai to, ka šī pārtika ražota no ģenētiski modificētiem organismiem;
+(10) Ministru kabinets nosaka vispārīgās prasības diētiskajai pārtikai.
+(11) Ātrās reaģēšanas sistēmas darbību, kas ir pārtikas apritē iesaistīto personu un kompetento institūciju saskaņota un organizēta informācijas apmaiņa un rīcība, gadījumos, kad pastāv tiešs vai netiešs pārtikas radīts risks cilvēku veselībai un dzīvībai, nosaka Ministru kabinets.

@@ -1,12 +1,14 @@
 3. Ministru kabinets:
-1) līdz 2002.gada 31.decembrim izdod noteikumus, kas reglamentē prasības pārtikas ievešanai valstī, izvešanai no tās un tranzīta pārvadājumiem, kontroles kārtību uz valsts robežas kontroles punktos, brīvajās zonās, brīvajās noliktavās un muitas noliktavās un kontrolei pakļauto preču sarakstu;
-2) līdz 2002.gada 31.decembrim izdod noteikumus, kas reglamentē prasības iekārtojumam kontroles punktos, kuros veic pārtikas sanitāro robežkontroli, un kontroles punktu atzīšanas kārtību;
-3) līdz 2002.gada 31.decembrim izdod noteikumus, kas reglamentē kārtību, kādā maksā par šajā likumā noteiktajām valsts uzraudzības un kontroles darbībām, un Pārtikas un veterinārā dienesta sniegto maksas pakalpojumu veidus;
-4) līdz 2002.gada 31.decembrim izdod noteikumus, kas reglamentē kvalitātes un klasifikācijas prasības atsevišķām pārtikas produktu grupām un kārtību, kādā novērtējama attiecīgo produktu atbilstība šīm prasībām;
-5) līdz 2002.gada 31.decembrim izdod noteikumus, kas reglamentē prasības references laboratorijām un references laboratoriju pilnvarošanas kārtību;
-6) līdz 2002.gada 31.decembrim izdod noteikumus, kas reglamentē dzeramā ūdens monitoringa un kontroles kārtību;
-7) līdz 2002.gada 31.martam izdod noteikumus "Pārtikas uzņēmumu novērtēšanas, atzīšanas un reģistrācijas kārtība";
-8) līdz 2003.gada 1.martam izdod noteikumus, kas reglamentē prasības attiecībā uz mājas apstākļos ražotas pārtikas ražošanu un izplatīšanu;
-9) līdz 2003.gada 1.martam izdod noteikumus, kas reglamentē pārtikas apritei nepieciešamos pavaddokumentus;
-10) līdz 2003.gada 1.jūnijam izdod noteikumus, kas reglamentē prasības attiecībā uz pārtikas apriti;
-11) līdz 2003.gada 1.jūnijam nosaka kārtību, kādā paškontroles sistēmas ietvaros konstatējis pārtikas neatbilstību obligātajām nekaitīguma prasībām, uzņēmums informē par to Pārtikas un veterināro dienestu.
+1) līdz 2003.gada 31.decembrim izdod noteikumus, kas reglamentē prasības pārtikas ievešanai valstī, izvešanai no tās un tranzīta pārvadājumiem, kontroles kārtību uz valsts robežas kontroles punktos, brīvajās zonās, brīvajās noliktavās un muitas noliktavās un kontrolei pakļauto preču sarakstu;
+2) līdz 2003.gada 31.decembrim izdod noteikumus, kas reglamentē prasības iekārtojumam kontroles punktos, kuros veic pārtikas sanitāro robežkontroli, un kontroles punktu atzīšanas kārtību;
+3) līdz 2003.gada 31.decembrim izdod noteikumus, kas reglamentē kārtību, kādā maksā par šajā likumā noteiktajām valsts uzraudzības un kontroles darbībām, un Pārtikas un veterinārā dienesta sniegto maksas pakalpojumu veidus;
+4) (izslēgts ar 06.11.2003. likumu);
+5) līdz 2004.gada 1.jūlijam izdod noteikumus, kas reglamentē prasības references laboratorijām un references laboratoriju pilnvarošanas kārtību;
+6) (izslēgts ar 06.11.2003. likumu);
+7) (izslēgts ar 06.11.2003. likumu);
+8) līdz 2004.gada 1.janvārim izdod noteikumus, kas reglamentē prasības attiecībā uz mājas apstākļos ražotas pārtikas ražošanu un izplatīšanu;
+9) līdz 2004.gada 1.maijam izdod noteikumus, kas reglamentē pārtikas apritei nepieciešamos pavaddokumentus;
+10) (izslēgts ar 06.11.2003. likumu);
+11) līdz 2004.gada 1.maijam izdod noteikumus, kas reglamentē ātrās reaģēšanas sistēmas darbību;
+12) līdz 2004.gada 1.martam izdod noteikumus, kas reglamentē prasības attiecībā uz pārtikas apritē nodarbināto personu profesionālo kvalifikāciju;
+13) līdz 2004.gada 1.martam izdod noteikumus, kas reglamentē kārtību, kādā izplata jodēto sāli, un nosaka gadījumus, kad šo sāli izmanto pārtikas ražošanā.

@@ -6,16 +6,16 @@ b) atzīt un reģistrēt pārtikas uzņēmumu darbību, kā arī anulēt to atz�
 c) visos pārtikas aprites posmos uzraudzīt un kontrolēt pārtikas uzņēmumu darbību un pārtikas aprites procesu atbilstību normatīvajos aktos noteiktajām prasībām,
 d) visos pārtikas aprites posmos veikt riska faktoru izpēti un analīzi;
 2) sanitārajā robežkontrolē - normatīvajos aktos noteiktajā kārtībā uzraudzīt un kontrolēt valsts robežas kontroles punktos, kā arī brīvajās zonās, brīvajās noliktavās un muitas noliktavās pārtikas ievešanu valstī, veterinārajai uzraudzībai pakļauto produktu, kā arī citu preču un produktu ievešanu, izvešanu vai pārvadāšanu tranzītā;
-3) laboratoriskā izmeklēšana (tajā skaitā references funkcijas noteiktās jomās saskaņā ar normatīvajos aktos noteikto kārtību). Obligāti veicama vispusīga laboratoriskā pārbaude importētai pārtikai, kuras cena ir zemāka par attiecīgā ražotāja attiecīgās produkcijas vairumcenu savā valstī;
+3) laboratoriskā izmeklēšana (tajā skaitā references funkcijas noteiktās jomās saskaņā ar normatīvajos aktos noteikto kārtību). Obligāti veicama vispusīga laboratoriskā pārbaude importētai pārtikai, kuras cena ir zemāka par attiecīgā ražotāja attiecīgās produkcijas vairumcenu savā valstī.
 4) bioloģiskās lauksaimniecības produktu apritē:
 a) uzraudzīt un kontrolēt bioloģiskās lauksaimniecības produktu un procesu atzīšanas kārtību un bioloģiskās lauksaimniecības produktu apriti atbilstoši normatīvajos aktos noteiktajām prasībām,
 b) reģistrēt bioloģisko lauksaimniecības produktu apritē iesaistītās personas;
-5) pēc eksportētājuzņēmuma (uzņēmējsabiedrības) pieprasījuma apliecināt atbilstību savas kompetences ietvaros;
+5) pēc kompetentas valsts institūcijas vai eksportētājuzņēmuma (uzņēmējsabiedrības) pieprasījuma apliecināt atbilstību savas kompetences ietvaros;
 6) pārtikas produktu valsts intervencē:
 a) kontrolēt valsts intervencē iepērkamo pārtikas produktu atbilstību obligātajām kvalitātes un nekaitīguma prasībām,
 b) veikt intervences noliktavu uzraudzību atbilstoši normatīvo aktu prasībām;
 7) nodrošināt savas kompetences ietvaros sadarbību ar starptautiskajām organizācijām, kā arī starptautisko pārtikas kontroles sistēmu darbību. Riska faktoru izpētes un riska samazināšanas nolūkā noskaidrot obligātajām nekaitīguma prasībām neatbilstošas pārtikas ražotājus un izplatītājus;
-8) uzraudzīt un kontrolēt ģeogrāfiskās izcelsmes norāžu un cilmes vietu nosaukumu aizsardzību;
+8) uzraudzīt un kontrolēt ģeogrāfiskas izcelsmes norāžu un cilmes vietu nosaukumu, kā arī īpaša rakstura sertifikāta aizsardzību;
 9) veikt veterināro uzraudzību un kontroli saskaņā ar normatīvajiem aktiem;
 10) noteikt riska vadības pagaidu pasākumus bīstamības samazināšanai līdz riska novērtēšanai un riska vadības izstrādāšanai, ja ir konstatēts iespējamais apdraudējums cilvēku vai dzīvnieku veselībai un nav veikta riska analīze;
 11) veikt citas normatīvajos aktos noteiktās funkcijas;
