@@ -1,2 +1,2 @@
 2.pants. Likums nosaka kārtību, kādā tiek veikti norēķini starp nepārstrādātās lauksaimniecības produkcijas (turpmāk - produkcija) ražotājiem (piegādātājiem) un pārstrādes un tirdzniecības uzņēmumiem vai uzņēmējsabiedrībām (turpmāk - uzņēmums), ja šo kārtību nenosaka likums "Par cukuru" vai noslēgtie līgumi.
-Noslēgtajos līgumos paredzamais samaksas termiņš nedrīkst pārsniegt vienu mēnesi no produkcijas piegādes dienas.
+Noslēgtajos līgumos paredzamais samaksas termiņš nedrīkst pārsniegt vienu mēnesi no produkcijas piegādes dienas. Šis samaksas termiņš neattiecas uz graudu piegādes līgumiem.
