@@ -1,1 +1,1 @@
-4.pants. Šis likums attiecas uz visiem uzņēmumiem, uzņēmējsabiedrībām un valsts institūcijām, kas pretendē uz produktu, procesu vai pakalpojumu atbilstības novērtēšanu, kā arī uz šajā novērtēšanas procesā iesaistītajām testēšanas un kalibrēšanas laboratorijām un sertificēšanas un inspicēšanas institūcijām.
+4.pants. Šis likums attiecas uz visām juridiskajām un fiziskajām personām, kas pretendē uz produktu, procesu vai pakalpojumu atbilstības novērtēšanu.

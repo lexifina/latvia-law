@@ -1,1 +1,1 @@
-2.pants. Šis likums nosaka atbilstības novērtēšanas vispārīgos principus reglamentētajā un nereglamentētajā sfērā.
+2.pants. Šis likums nosaka atbilstības novērtēšanas vispārīgos principus reglamentētajā sfērā un akreditācijas sistēmu reglamentētajā un nereglamentētajā sfērā.

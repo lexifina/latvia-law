@@ -1,1 +1,1 @@
-16.pants. Ārvalstīs izdotie atbilstības novērtēšanas apliecinājumi un apstiprinājumi Latvijas Republikā tiek oficiāli atzīti, ja starp Latviju un attiecīgo valsti pastāv savstarpēja vienošanās par atbilstības novērtēšanas sistēmu atzīšanu.
+16.pants. Ārvalstīs izdotie atbilstības novērtēšanas apliecinājumi un apstiprinājumi, kā arī ārvalstu atbilstības novērtēšanas sistēmas Latvijā tiek oficiāli atzītas, ja starp Latviju un attiecīgo valsti vai valstīm pastāv savstarpēja vienošanās par atbilstības novērtēšanas sistēmu atzīšanu.

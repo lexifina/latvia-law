@@ -1,1 +1,1 @@
-III nodaļa. Atbilstības novērtēšana reglamentētajā un nereglamentētajā sfērā
+III nodaļa. Atbilstības novērtēšana reglamentētajā sfērā
