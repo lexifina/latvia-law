@@ -1,6 +1,6 @@
 13. pants. Atvieglojumi maksātājam
 1. Maksātājam paredzēti šādi atvieglojumi:
-1) par katras šādas personas uzturēšanu, ja tā nesaņem šā likuma 9.panta pirmās daļas 6.punktā noteiktos ienākumus, izņemot apgādnieka zaudējuma pensiju un sociālo pensiju bērniem invalīdiem līdz 16 gadu vecumam, - puses apmērā no maksātāja gada neapliekamā minimuma vienam no apgādniekiem:
+1) par katras šajā punktā minētās personas uzturēšanu, ja šai personai nav piešķirta pensija un tā nesaņem pensiju saskaņā ar likumu "Par valsts pensijām", izņemot apgādnieka zaudējuma pensiju - puses apmērā no šā likuma 12.panta pirmajā daļā noteiktā maksātāja gada neapliekamā minimuma vienam no apgādniekiem:
 a) par nepilngadīgu bērnu,
 b) par bērnu, kamēr viņš turpina vispārējās vai speciālās izglītības iegūšanu, bet ne ilgāk kā līdz 24 gadu vecuma sasniegšanai,
 c) par nestrādājošu laulāto,
@@ -11,7 +11,7 @@ g) par apgādībā esošu personu apgādājamiem,
 h) par personu, kuras labā pēc tiesas sprieduma no maksātāja tiek piedzīta uzturnauda (alimenti),
 i) par maksātāju aizbildnībā vai aizgādnībā esošu personu;
 2) personām, kurām pensija piešķirta līdz 1996.gada 1.janvārim atbilstoši likumam "Par valsts pensijām", neapliekamais minimums ir šīs pensijas apmērā;
-3) personām, kurām pensija piešķirta pēc 1996.gada 1.janvāra atbilstoši likumam "Par valsts pensijām", neapliekamais minimums šīm pensijām ir 1200 latu gadā;
+3) personām, kurām pensija piešķirta pēc 1996.gada 1.janvāra atbilstoši likumam "Par valsts pensijām" un likumam par izdienas pensijām militārpersonām un Iekšlietu ministrijas sistēmas darbiniekiem, neapliekamais minimums šīm pensijām ir 1200 latu gadā;
 4) personām, kuras saskaņā ar likumiem ir atzītas par invalīdiem vai politiski represētām personām, nodokļu papildu atvieglojumu apmēru un to piemērošanas kārtību nosaka Ministru kabinets.
 2. Ja šā panta pirmajā daļā minētās personas gūst ienākumus, maksātājs tos uzrāda savā deklarācijā, izņemot šā panta trešajā daļā paredzētos gadījumus.
 3. Šā panta pirmās daļas 1. punktā noteiktie atvieglojumi nav piemērojami, ja šajā punktā minētās personas patstāvīgi saņem ar nodokli apliekamos ienākumus, kas pārsniedz pusi no noteiktā neapliekamā minimuma, vai bezdarbnieka pabalstu (stipendiju) vai tās uztur kāda cita persona.

@@ -6,7 +6,7 @@
 4) apdrošināšanas atlīdzības, izņemot tās apdrošināšanas atlīdzības, kas izmaksātas pēc dzīvības, veselības un negadījuma apdrošināšanas līguma, kuru apdrošinātā interesēs noslēdzis darba devējs (vai cits apdrošinājuma ņēmējs - juridiskā persona), pienākot apdrošināšanas līgumā paredzētajam līguma beigu termiņam vai laužot līgumu pirms termiņa;
 5) izložu un azartspēļu laimesti, kuri nepārsniedz izdevumus, kas saistīti ar to iegūšanu, - Ministru kabineta noteiktajā kārtībā;
 6) ienākumi no valsts un pašvaldību parādzīmēm;
-7) normatīvajos aktos noteiktie pabalsti, kas izmaksāti no budžeta un Ministru kabineta noteiktajiem fondiem, izņemot pārejošas darba nespējas pabalstus, un normatīvajos aktos noteiktā atlīdzība par aizbildņa pienākumu pildīšanu;
+7) normatīvajos aktos noteiktie no budžeta izmaksājamie pabalsti, izņemot pārejošas darba nespējas pabalstus, normatīvajos aktos noteiktā atlīdzība par aizbildņa pienākumu pildīšanu un atlīdzība par audžuģimenes pienākumu veikšanu, kas izmaksājama no budžeta, kā arī citi pabalsti, kas izmaksājami no Ministru kabineta noteiktajiem fondiem;
 8) mācību iestāžu un Ministru kabineta apstiprināto fondu izmaksātās stipendijas;
 9) mantojuma rezultātā gūtais ienākums, izņemot autoratlīdzību (honorāru), kuru izmaksā autortiesību mantiniekiem, un no fiziskajām personām saņemtais dāvinājums;
 10) konkursos un sacensībās saņemtās mantiskās un naudas balvas (prēmijas), kuru kopējā vērtība taksācijas gadā nepārsniedz 150 latu, un publiskos starptautiskos konkursos gūtās balvas un prēmijas, kuru kopējā vērtība gadā nepārsniedz 3000 latu, kā arī Baltijas asamblejas balvu laureātiem izmaksātā naudas prēmija;

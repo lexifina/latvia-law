@@ -4,7 +4,7 @@
 1) ieņēmumi no preču, darbu un pakalpojumu pārdošanas;
 2) ieņēmumi no īpašuma un telpu iznomāšanas vai izīrēšanas;
 3) summas, kas saņemtas soda naudas veidā.
-3. Izdevumos, ja tie saistīti ar šā ienākuma gūšanu no saimnieciskās darbības, tiek ieskaitīti:
+3. Izdevumos, ja tie saistīti ar taksācijas gada ienākuma gūšanu no saimnieciskās darbības, tiek ieskaitīti:
 1) izdevumi par iegādātām izejvielām, materiāliem, pusfabrikātiem, izstrādājumiem, par inventāru, kura vērtība nepārsniedz 100 latu, par precēm, kurināmo un enerģiju;
 2) izdevumi, kas saistīti ar algotā darbaspēka izmantošanu likumdošanas aktos atļautajos gadījumos;
 3) komandējumu, reklāmas, kancelejas, pasta, telegrāfa, teleksa, telefaksa, mārketinga un mākslas darbu taksācijas izdevumi;
@@ -24,3 +24,5 @@
 6. Zemnieku un zvejnieku saimniecību apliekamajā ienākumā netiek ietverti produkti (pašpatēriņš), ko savām vajadzībām izlietojis saimniecības īpašnieks un viņa ģimenes locekļi, kā arī personas, kuras ar saimniecības īpašnieku ir radniecībā līdz trešajai pakāpei vai svainībā līdz otrajai pakāpei.
 7. Ieturot nodokli no metāllūžņu pārdošanas ienākumiem, pirms nodokļa aprēķināšanas no izmaksājamās summas atskaitāmi ar metāllūžņu sagatavošanu un pārdošanu saistītie izdevumi, piemērojot normu 15 procentu apmērā no izmaksājamās summas.
 8. Kārtību, kādā kokmateriālu un augoša meža pārdošanas ienākumi apliekami ar nodokli, nosaka Ministru kabinets.
+9. Fiziskās personas taksācijas gada saimnieciskās darbības zaudējumi, kas radušies sakarā ar to, ka taksācijas gada ieņēmumi ir mazāki nekā izdevumi un izmaksas, sedzami hronoloģiskā secībā no nākamo triju taksācijas gadu saimnieciskās darbības apliekamā ienākuma. Ieņēmumu, kā arī izdevumu un izmaksu lielumu nosaka atbilstoši šā panta noteikumiem.
+10. Ja fiziskās personas individuālais uzņēmums (arī zemnieka un zvejnieka saimniecība) ir reģistrēts un atrodas saskaņā ar likumu "Par īpaši atbalstāmajiem reģioniem" noteiktā īpaši atbalstāmajā reģionā un par tā attīstības projekta atbilstību attiecīgā reģiona attīstības programmai ir pieņemts lēmums Ministru kabineta noteiktajā kārtībā, šādas fiziskās personas taksācijas gada saimnieciskās darbības zaudējumi, kas radušies laika posmā, kad attiecīgajam reģionam ir īpaši atbalstāmā reģiona statuss, sedzami hronoloģiskā secībā no nākamo sešu taksācijas gadu saimnieciskās darbības apliekamā ienākuma. Ieņēmumu, kā arī izdevumu un izmaksu lielumu nosaka atbilstoši šā panta noteikumiem.
