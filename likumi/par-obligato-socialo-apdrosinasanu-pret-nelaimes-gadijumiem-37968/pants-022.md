@@ -1,5 +1,5 @@
 22. pants. Apbedīšanas pabalsts
 (1) Ja sakarā ar nelaimes gadījumu darbā, slimību, ko izraisījis nelaimes gadījums darbā, vai arodslimības dēļ ir iestājusies apdrošinātās personas nāve, piešķir apbedīšanas pabalstu.
 (2) Apbedīšanas pabalstu piešķir un izmaksā apdrošinātās personas vecākiem, pārdzīvojušajam laulātajam un bērniem vai citai fiziskajai vai juridiskajai personai, kura uzņēmusies apbedīšanu.
-(3) Apbedīšanas pabalstu piešķir un izmaksā mirušās personas divkāršas mēneša vidējās apdrošināšanas iemaksu algas apmērā, bet ne mazāku par trīskāršu valstī noteikto minimālo mēnešalgu (amatalgu), kāda bija spēkā apdrošinātās personas nāves dienā.
+(3) Apbedīšanas pabalstu piešķir un izmaksā mirušās personas divkāršas mēneša vidējās apdrošināšanas iemaksu algas apmērā, bet ne mazāku par valsts sociālā nodrošinājuma pabalsta pieckāršu apmēru.
 (4) Ja apdrošinātās personas nāve ir iestājusies ārzemēs šā panta pirmajā daļā minēto iemeslu dēļ sakarā ar tur notikušu nelaimes gadījumu darbā vai arodslimības dēļ un apbedīšanas izdevumi pārsniedz šajā pantā noteikto summu, Valsts sociālās apdrošināšanas aģentūra ir tiesīgs apbedīšanas pabalstu palielināt par apbedīšanai nepieciešamo trūkstošo summu, pamatojoties uz rēķiniem un čekiem, kas apliecina minētos izdevumus.
