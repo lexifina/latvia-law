@@ -17,8 +17,8 @@
 15) (izslēgts ar 07.04.2004. likumu);
 16) likumā noteiktajos gadījumos izskata administratīvo pārkāpumu lietas un uzliek administratīvos sodus;
 17) īsteno intervences pasākumus lauksaimniecības produktu tirgū un Ministru kabineta noteiktajā kārtībā pieprasa no fiziskajām un juridiskajām personām ražošanas un patēriņa bilances sastādīšanai nepieciešamo informāciju par saražoto, iepirkto, pārstrādāto un realizēto lauksaimniecības produktu daudzumu un atlikumu;
-18) Ministru kabineta noteiktajā kārtībā un apmērā administrē nodrošinājumu lauksaimniecības preču importa vai eksporta speciālo atļauju (licenču) izsniegšanai;
-19) normatīvajos aktos noteiktajā kārtībā administrē eksporta izdevumus;
+18) normatīvajos aktos noteiktajā kārtībā administrē lauksaimniecības produktu un pārstrādāto lauksaimniecības produktu ārējās tirdzniecības režīmu;
+19) (izslēgts ar 16.12.2004. likumu);
 20) normatīvajos aktos noteiktajā kārtībā administrē soda naudas par valstij piešķirtās piena ražošanas kvotas pārsniegšanu;
 21) normatīvajos aktos noteiktajā kārtībā administrē augkopības produkcijas kvotas;
 22) veic ražotāju grupu atzīšanu un to atzīšanas kontroli;
