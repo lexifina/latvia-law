@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Krimināllikums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "199/200",
+  "official_journal_page": null,
+  "official_journal_date": "1998-07-08",
+  "entry_into_force": "1999-04-01",
+  "notification_date": "2009-04-23",
+  "commission_reference": "MNE(2009)51798",
+  "nim_celex": "72006L0024LVA_161664",
+  "nim_id": "161664",
+  "transposes_celex": [
+    "32006L0024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c154cd4d-aac5-403a-9f7c-651f09e4626f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
