@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Par grozījumiem \"Banku un ieguldījumu brokeru sabiedrību kapitāla pieteikamības aprēķināšanas noteikumos\"",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "97",
+  "official_journal_page": null,
+  "official_journal_date": "2004-06-17",
+  "entry_into_force": "2004-06-18",
+  "notification_date": "2004-07-27",
+  "commission_reference": "MNE(2004)50089",
+  "nim_celex": "72004L0069LVA_30089",
+  "nim_id": "30089",
+  "transposes_celex": [
+    "32004L0069"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/62bc45e1-f77a-452c-82f0-12684a5ac3a3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
