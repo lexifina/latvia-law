@@ -1,4 +1,6 @@
 70. pants. Latvijas Republikas teritorijā notikušo aviācijas nelaimes gadījumu un incidentu izmeklēšana
 Latvijas Republikas teritorijā notikušos aviācijas nelaimes gadījumus un incidentus Ministru kabineta noteiktajā kārtībā izmeklē Satiksmes ministrijas Aviācijas nelaimes gadījumu un incidentu izmeklēšanas nodaļa.
-Ja aviācijas nelaimes gadījumā vismaz viena persona ir guvusi miesas bojājumus, kuru rezultātā iestājusies nāve, vai smagus miesas bojājumus, satiksmes ministrs izveido aviācijas nelaimes gadījuma izmeklēšanas komisiju.
-Ja civilās aviācijas nelaimes gadījumā vai incidentā iesaistīti Latvijas Republikas Nacionālie bruņotie spēki vai citu valstu militāro spēku gaisa kuģi, satiksmes ministrs un aizsardzības ministrs izveido kopīgu izmeklēšanas komisiju.
+Ja aviācijas nelaimes gadījumā vismaz viena persona ir guvusi miesas bojājumus, kuru dēļ iestājusies nāve, vai smagus miesas bojājumus, satiksmes ministrs izmeklēšanā var pieaicināt papildu speciālistus.
+Ja civilās aviācijas nelaimes gadījumā vai incidentā iesaistīti Latvijas Republikas Nacionālie bruņotie spēki vai citu valstu militāro spēku gaisa kuģi, satiksmes ministrs un aizsardzības ministrs pēc savstarpējas vienošanās izmeklēšanā var pieaicināt papildu speciālistus.
+Aviācijas nelaimes gadījumu un incidentu izmeklēšanā iesaista Latvijas Republikas iestāžu, uzņēmumu un organizāciju speciālistus administratīvā kārtā un ārvalstu ekspertus - uz līguma pamata.
+Šā panta otrajā un trešajā daļā minētajos gadījumos izmeklēšanu vada Aviācijas nelaimes gadījumu un incidentu izmeklēšanas nodaļa.
