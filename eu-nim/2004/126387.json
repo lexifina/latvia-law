@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Pasta likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "180",
+  "official_journal_page": null,
+  "official_journal_date": "2004-11-12",
+  "entry_into_force": "2004-11-26",
+  "notification_date": "2005-12-08",
+  "commission_reference": "MNE(2005)60406",
+  "nim_celex": "71997L0067LVA_126387",
+  "nim_id": "126387",
+  "transposes_celex": [
+    "31997L0067",
+    "32002L0039"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ddcc8fd5-5b04-4c7d-a8a8-e3bcd5e28e85",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
