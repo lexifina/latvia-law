@@ -1,0 +1,2 @@
+6. pants. Latvijas Republikas Finansu ministrija ir finansu starpniece, kā prasīts Fonda Vienošanās līguma 5. panta pirmajā daļā, un tiek pilnvarota Latvijas Republikas vārdā veikt visas finansu operācijas un darījumus, kurus pieļauj Vienošanās līguma noteikumi. Finansu ministrijai ir tiesības saņemt jebkuru summu, kura var tikt samaksāta vai pārskaitīta uz Latvijas Republiku tādu finansu operāciju un darījumu veikšanai, ko pieļauj Fonda Vienošanās līguma noteikumi.
+Latvijas Banka būs Starptautiskā valūtas fonda depozitārijs Latvijas Republikas valūtas avuāriem.

@@ -1,0 +1,1 @@
+1. pants. Latvijas Republikas valdība tiek pilnvarota Latvijas Republikas vārdā piedalīties Starptautiskajā valūtas fondā (turpmāk - Fondā), akceptēt Fonda Vienošanās līgumu (kura teksts sniegts šā likuma 1. pielikumā) un maksājumus, kas konkretizēti Fonda Pilnvaroto valdes rezolūcijā, kura attiecas uz Latvijas Republikas dalību šajā organizācijā.

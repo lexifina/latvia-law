@@ -1,0 +1,1 @@
+5. pants. Latvijas Republikas Finansu ministrija tiek pilnvarota aizņemties vai citādi iegūt līdzekļus, kas nepieciešami, lai izdarītu iemaksas Fondā saskaņā ar Fonda Vienošanās līgumu, rīkoties ar šiem naudas līdzekļiem, kā arī izdot šim nolūkam bezprocentu parādzīmes bez tiesībām laist tās apgrozībā.

@@ -1,0 +1,1 @@
+2. pants. Ar Latvijas Republikas uzņemšanu Starptautiskajā valūtas fondā valdība tiek pilnvarota Latvijas Republikas vārdā uzņemties visus Fonda Speciālo aizņēmuma tiesību departamenta dalībnieces pienākumus.

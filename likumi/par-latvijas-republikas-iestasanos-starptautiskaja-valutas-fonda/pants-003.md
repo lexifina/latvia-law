@@ -1,0 +1,1 @@
+3. pants. Ar Latvijas Republikas uzņemšanu Starptautiskajā valūtas fondā valdība tiek pilnvarota Latvijas Republikas vārdā akceptēt Fonda Vienošanās līguma trešo labojumu, kas ir apstiprināts ar Fonda Pilnvaroto valdes rezolūciju Nr. 45-3.

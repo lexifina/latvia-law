@@ -1,0 +1,1 @@
+8. pants. Latvijas Republikas valdība izdod norādījumus, kas būs nepieciešami, lai izpildītu Latvijas Republikas pienākumus, ko paredz šā likuma 1. pantā minētais Fonda Vienošanās līgums un rezolūcija, un lai nodrošinātu šā likuma nosacījumu stāšanos spēkā un tā izpildi.

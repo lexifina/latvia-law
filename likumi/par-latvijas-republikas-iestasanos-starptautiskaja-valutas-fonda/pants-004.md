@@ -1,0 +1,1 @@
+4. pants. Latvijas Republikas finansu ministrs tiek pilnvarots parakstīt Fonda Vienošanās līguma oriģinālu, izpildīt un nodot glabāšanā jebkuru uzņemšanas aktu vai dalības aktu, kā arī citus dokumentus, kas nepieciešami šā likuma 1., 2. un 3. panta realizācijai.
