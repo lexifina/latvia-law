@@ -1,0 +1,1 @@
+1.pants. Hāgas 1961.gada 5.oktobra Konvencija par iestāžu pilnvarām un tiesību aktiem, kas piemērojami attiecībā uz bērnu aizsardzību (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
