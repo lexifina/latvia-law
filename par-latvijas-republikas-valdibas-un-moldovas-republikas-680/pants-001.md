@@ -1,0 +1,1 @@
+1.pants. 1999.gada 22.septembrī Rīgā parakstītais Latvijas Republikas valdības un Moldovas Republikas valdības nolīgums par Latvijas Republikas ostu izmantošanu Moldovas Republikas kravu apstrādei un transportēšanai (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
