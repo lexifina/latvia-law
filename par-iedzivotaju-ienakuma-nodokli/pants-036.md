@@ -1,2 +1,2 @@
-36. pants. Valsts finansu inspekcijas kompetence
-Valsts finansu inspekcijas tiesības, pienākumus un atbildību regulē Latvijas Republikas 1990. gada 3. decembra likums «Par valsts finansu inspekciju» (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 7/8).
+36. pants. Rajonu (republikas pilsētu) nodokļu inspekcijas kompetence
+Rajonu (republikas pilsētu) nodokļu inspekcijas, kā ari šo iestāžu ierēdņu tiesības, pienākumus un atbildību regulē likums «Par Valsts ieņēmumu dienestu» (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1993, 34).
