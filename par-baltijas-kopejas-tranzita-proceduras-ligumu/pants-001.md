@@ -1,0 +1,1 @@
+1.pants. 1998.gada 10.jūlijā Siguldā parakstītais Baltijas kopējās tranzīta procedūras līgums (turpmāk - Līgums) un tā I, II, III un IV pielikums (turpmāk - Pielikumi) ar šo likumu tiek pieņemti un apstiprināti.

@@ -1,0 +1,1 @@
+Savstarpēja palīdzība prasību atlīdzināšanai
