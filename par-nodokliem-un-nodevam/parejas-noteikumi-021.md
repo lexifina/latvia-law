@@ -1,1 +1,0 @@
-21. Finansu ministrs sociālā nodokļa parādus, kā arī ar tiem saistītās pamatparāda palielinājuma naudas, nokavējuma naudas un soda naudas Ministru kabineta noteiktajā kārtībā dzēš tiem darba devējiem, kuri pēc stāvokļa uz 1998.gada 1.janvāri nav bijuši tiesību subjekti šā likuma izpratnē.

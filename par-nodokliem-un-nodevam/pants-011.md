@@ -51,4 +51,5 @@
 39) par atļaujas izsniegšanu veikt darbības, kuras nav uzņēmējdarbība, ar jonizējošā starojuma avotiem vai arī iegūt īpašumā jonizējošā starojuma avotus;
 40) par valsts valodas prasmes atestāciju profesionālo un amata pienākumu veikšanai;
 41) par atteikšanās no Latvijas pilsonības dokumentēšanu;
-42) par Latvijas pilsonības atjaunošanas dokumentēšanu.
+42) par Latvijas pilsonības atjaunošanas dokumentēšanu;
+43) par sertifikāta izsniegšanu un darbības laika pagarināšanu detektīvdarbības veikšanai.
