@@ -1,0 +1,1 @@
+1.pants. 1996.gada 22.aprīlī Rīgā parakstītais Latvijas Republikas un Slovēnijas Republikas brīvās tirdzniecības līgums (turpmāk - Līgums) un šā Līguma pielikumi un protokoli (turpmāk - Pielikumi un Protokoli) ar šo likumu tiek pieņemti un apstiprināti.
