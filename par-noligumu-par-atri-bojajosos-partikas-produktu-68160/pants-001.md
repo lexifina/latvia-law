@@ -1,0 +1,1 @@
+1.pants. 1970.gada 1.septembrī Ženēvā parakstītais Nolīgums par ātri bojājošos pārtikas produktu starptautiskajiem pārvadājumiem un par speciālām iekārtām, kas izmantojamas šajos pārvadājumos (ATP) (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.
