@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Bērnu tiesību aizsardzības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "199/200 (1260/1261)",
+  "official_journal_page": null,
+  "official_journal_date": "1998-07-08",
+  "entry_into_force": "1998-07-22",
+  "notification_date": "2018-08-20",
+  "commission_reference": "MNE(2018)54406",
+  "nim_celex": "72017L0541LVA_261994",
+  "nim_id": "261994",
+  "transposes_celex": [
+    "32017L0541"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f1da043a-4acb-4545-b414-439be16d3fd6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
