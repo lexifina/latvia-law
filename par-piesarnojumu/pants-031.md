@@ -5,7 +5,7 @@
 3) pasākumus, kas saistīti ar iekārtai netipiskiem darbības apstākļiem, arī ar iekārtas darbības uzsākšanu, iespējamām noplūdēm, nepareizu darbību, pēkšņu apstāšanos un darbības pārtraukšanu;
 3¹) vides kvalitātes mērķus konkrētajai teritorijai vai saskaņā ar upju baseinu apgabalu apsaimniekošanas plānu veicamos pasākumus un to īstenošanas termiņus;
 4) citus pasākumus, kas veicami, lai nodrošinātu šā likuma II nodaļā noteikto prasību izpildi;
-5) prasības attiecībā uz iekārtas energoefektivitāti, kuras operators šā likuma 2.pielikumā minētajām iekārtām drīkst nepiemērot gadījumos, kad citādi nav iespējams ievērot siltumnīcefekta gāzu emisijas atļaujā noteikto oglekļa dioksīda emisijas limitu.
+5) prasības attiecībā uz iekārtas energoefektivitāti, kuras operators šā likuma 2.pielikumā minētajām iekārtām drīkst nepiemērot gadījumos, kad citādi nav iespējams ievērot siltumnīcefekta gāzu emisijas atļaujas nosacījumus.
 (2) A kategorijas atļaujas nosacījumus pamato ar labāko pieejamo tehnisko paņēmienu lietošanu, nenosakot konkrētu izmantojamās tehnoloģijas veidu, bet ņemot vērā attiecīgās iekārtas tehniskos raksturlielumus, tās ģeogrāfisko izvietojumu un vides apstākļus.
 (3) Ja vides kvalitātes normatīvi paredz stingrākus nosacījumus, nekā tas izriet no prasības lietot labākos pieejamos tehniskos paņēmienus, A kategorijas atļaujā ietver citus nosacījumus, lai sasniegtu noteiktos vides kvalitātes normatīvus.
 (4) B kategorijas atļaujas nosacījumus pamato ar attiecīgās piesārņojošās darbības raksturlielumiem, tās ģeogrāfisko izvietojumu un vides apstākļiem. Normatīvajos aktos noteiktajos gadījumos B kategorijas atļaujā ietver konkrētās iekārtas tehniskos raksturlielumus.

@@ -3,4 +3,4 @@
 (2) Ja piesārņota vai potenciāli piesārņota vieta var radīt draudus cilvēku veselībai vai videi, reģionālā vides pārvalde par to informē attiecīgo pašvaldību, citas institūcijas, kā arī fiziskās un juridiskās personas, katrā gadījumā ievērojot konkrētos apstākļus.
 (3) Ja piesārņotā vai potenciāli piesārņotā vietā atrodas vai, pēc nepārbaudītas informācijas, var atrasties sprādzienbīstami priekšmeti, materiāli vai militāriem mērķiem izmantojamas toksiskas vai citādi bīstamas vielas, pašvaldība vai reģionālā vides pārvalde par to informē Aizsardzības ministriju atzinuma saņemšanai.
 (4) Zemes īpašnieku un lietotāju pienākums ir informēt iespējamos tiesību un pienākumu pārņēmējus par piesārņotām vai potenciāli piesārņotām vietām attiecīgajā īpašumā vai lietojumā esošajā teritorijā un tās apkārtnē.
-(5) Latvijas Vides aģentūra apkopo ziņas par piesārņotām un potenciāli piesārņotām vietām valstī.
+(5) Latvijas Vides, ģeoloģijas un meteoroloģijas aģentūra apkopo ziņas par piesārņotām un potenciāli piesārņotām vietām valstī.

@@ -1,0 +1,1 @@
+17. Ministru kabinets līdz 2005.gada 1.novembrim izdod šā likuma 11.panta otrās daļas 12.punktā minētos noteikumus, bet līdz 2006.gada 1.jūlijam - šā likuma 11.panta otrās daļas 9., 10., 11. un 13.punktā minētos noteikumus.

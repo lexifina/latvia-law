@@ -12,5 +12,10 @@
 5) noteikumus par satiksmē neizmantojamo pārvietojamo mehānismu iekšdedzes dzinēju radīto piesārņojošu vielu emisiju gaisā;
 6) noteikumus par azbesta un azbesta izstrādājumu ražošanas radīto vides piesārņojumu;
 7) noteikumus par atkritumu sadedzināšanai un atkritumu sadedzināšanas iekārtu darbībai izvirzāmajām prasībām;
-8) kārtību, kādā ierobežojama piesārņojošas darbības izraisīto smaku izplatīšanās, un šo smaku noteikšanas metodes.
+8) kārtību, kādā ierobežojama piesārņojošas darbības izraisīto smaku izplatīšanās, un šo smaku noteikšanas metodes;
+9) vides aizsardzības prasības degvielas uzpildes stacijām, naftas bāzēm un pārvietojamām cisternām;
+10) noteikumus par atsevišķu dzelzceļa un upju satiksmē izmantojamo iekšdedzes dzinēju radīto piesārņojošo vielu emisiju gaisā;
+11) noteikumus par notekūdeņu dūņu un to kompostu izmantošanu, monitoringu un kontroli;
+12) kārtību, kādā ierobežojama piesārņojošo vielu emisija no noteiktiem produktiem;
+13) atsevišķas bīstamas ķīmiskās vielas saturošu iekārtu un produktu lietošanas un marķēšanas prasības un videi kaitīgo preču sarakstu.
 (3) Ministru kabinets nosaka kopējo valstī maksimāli pieļaujamo emisiju gaisā konkrētā laikposmā un konkrētiem piesārņojuma veidiem.

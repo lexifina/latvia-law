@@ -11,4 +11,4 @@
 7) šā likuma 50. un 51.pantā noteiktajos gadījumos;
 8) ja iekārtas radītais piesārņojums ir tik būtisks, ka atļaujas nosacījumus vai tajā noteiktos emisijas limitus nepieciešams pārskatīt vai noteikt atļaujā jaunus emisijas limitus.
 (3¹) Atļaujas nosacījumus šā panta trešās daļas 1. - 6. un 8.punktā un šā likuma 50.panta trešajā daļā minētajos gadījumos var pārskatīt, atjaunot vai papildināt visā atļaujas darbības laikā.
-(4) Operators pieteikumu jaunas atļaujas saņemšanai vai būtiskas izmaiņas ieviešanai piesārņojošā darbībā iesniedz attiecīgajā reģionālajā vides pārvaldē tādos termiņos un kārtībā, kādi paredzēti normatīvajos aktos, kuri nosaka atļauju izsniegšanu piesārņojošas darbības veikšanai, vai mēneša laikā pēc šā panta trešās daļas 1. - 4. vai 8.punktā minēto apstākļu atklāšanas.
+(4) Operators iesniegumu jaunas atļaujas saņemšanai vai būtiskas izmaiņas ieviešanai piesārņojošā darbībā iesniedz attiecīgajā reģionālajā vides pārvaldē tādos termiņos un kārtībā, kādi paredzēti normatīvajos aktos, kuri nosaka atļauju izsniegšanu piesārņojošas darbības veikšanai, vai mēneša laikā pēc šā panta trešās daļas 1. - 4. vai 8.punktā minēto apstākļu atklāšanas.
