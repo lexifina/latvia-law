@@ -1,1 +1,0 @@
-3. Ministru kabinets nosaka nelegālā apritē esošo narkotisko un psihotropo vielu un zāļu iedalījumu apmērus, sākot ar kuriem persona ir saucama pie kriminālatbildības vai kuri atzīstami par lieliem apmēriem.
