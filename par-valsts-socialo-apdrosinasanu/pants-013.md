@@ -1,0 +1,7 @@
+13.pants. Sociālajai apdrošināšanai pakļauto personu un darba devēju reģistrācija
+(1) Darba devēji, pašnodarbinātie, 15 gadu vecumu sasniegušie darba ņēmēji - ārvalstnieki, kurus nodarbina darba devējs - ārvalstu nodokļu maksātājs, ja šo personu pastāvīgā dzīvesvieta nav Latvijas Republikā un tās uzturas Latvijas Republikā 183 dienas vai ilgāk jebkurā 12 mēnešu periodā, kas sākas vai beidzas taksācijas gadā, tiek reģistrēti Valsts ieņēmumu dienesta Nodokļu maksātāju reģistrā. Reģistrācijas vietu un kārtību nosaka Ministru kabinets.
+(2) Darba devējs reģistrē katru darba ņēmēju Valsts ieņēmumu dienestā pēc darba devēja reģistrācijas vietas līdz tā mēneša pēdējai dienai, kurā persona atbilstoši šā likuma 1. panta 2.punktam ieguvusi darba ņēmēja statusu.
+(3) Personas, kuras brīvprātīgi pievienojušās pensiju apdrošināšanai, tiek reģistrētas Valsts sociālās apdrošināšanas aģentūrā Ministru kabineta noteiktajā kārtībā.
+(4) Pašnodarbinātie reģistrējas Valsts ieņēmumu dienestā pēc savas dzīvesvietas adreses līdz tā mēneša pēdējai dienai, kurā viņi guvuši ienākumu, kas ir obligāto iemaksu objekts. Reģistrācijas kārtību nosaka Ministru kabinets.
+(5) Šā likuma 6.panta ceturtajā un piektajā daļā minētās personas tiek reģistrētas Ministru kabineta noteiktajā kārtībā.
+(6) Valsts ieņēmumu dienests vai Valsts sociālās apdrošināšanas aģentūra pēc reģistrācijas izsniedz iemaksu veicējam paziņojumu, kura formu nosaka Ministru kabinets.

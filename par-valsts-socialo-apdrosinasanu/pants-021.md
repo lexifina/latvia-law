@@ -1,0 +1,7 @@
+21.pants. Iemaksu veikšanas kārtība un termiņi
+(1) Darba devējs iemaksā speciālā budžeta kontā obligātās iemaksas par katru darba ņēmēju reizi mēnesī termiņos, kādi norādīti Valsts ieņēmumu dienesta izsniegtajā paziņojumā.
+(2) Darba ņēmējs veic obligātās iemaksas ar darba devēja starpniecību. Darba devējs ietur iemaksas, kas jāveic darba ņēmējam, un iemaksā tās speciālā budžeta kontā šā panta pirmajā daļā noteiktajos termiņos.
+(3) Pašnodarbinātais veic obligātās iemaksas kārtībā, kāda noteikta no saimnieciskās darbības gūtā iedzīvotāju ienākuma nodokļa nomaksai.
+(4) 15 gadu vecumu sasniegušie darba ņēmēji - ārvalstnieki, kurus nodarbina darba devējs - ārvalstu nodokļu maksātājs, ja šo personu pastāvīgā dzīvesvieta nav Latvijas Republikā un tās uzturas Latvijas Republikā 183 dienas vai ilgāk jebkurā 12 mēnešu periodā, kas sākas vai beidzas taksācijas gadā, veic obligātās iemaksas speciālā budžeta kontā līdz katra mēneša pēdējai dienai.
+(5) Personas, kuras brīvprātīgi pievienojušās pensiju apdrošināšanai, veic brīvprātīgās iemaksas līdz katra mēneša pēdējai dienai.
+(6) Par iemaksas veikšanas dienu uzskatāma diena, kurā kredītiestāde norakstījusi obligātās iemaksas summu no maksātāja konta vai obligātā iemaksa veikta kredītiestādē vai pastā tās pārskaitīšanai speciālā budžeta kontā. Ja maksāšanas termiņš beidzas brīvdienā vai svētku dienā, iemaksa jāveic ne vēlāk kā šai dienai sekojošā darbdienā.

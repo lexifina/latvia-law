@@ -1,0 +1,1 @@
+1. Šā likuma 5.panta ceturtā daļa stājas spēkā 2002.gada 1.janvārī. No 1998. gada 1.janvāra līdz 2002.gada 1.janvārim sociāli apdrošinātais ir persona, par kuru faktiski ir veiktas obligātās iemaksas. Šis nosacījums neattiecas uz personām, kas pakļautas darba negadījumu apdrošināšanai.
