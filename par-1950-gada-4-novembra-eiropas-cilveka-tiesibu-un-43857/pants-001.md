@@ -1,0 +1,1 @@
+1.pants. 1950.gada 4.novembra Eiropas Cilvēka tiesību un pamatbrīvību aizsardzības konvencija (turpmāk - Konvencija) un tās 1., 2., 4., 7. un 11.protokols (turpmāk - Protokoli) ar šo likumu tiek pieņemti un apstiprināti.
