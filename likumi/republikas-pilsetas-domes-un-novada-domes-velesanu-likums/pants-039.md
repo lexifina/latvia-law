@@ -1,5 +1,6 @@
-39. pants. Pēc neizmantoto un sabojāto vēlēšanu zīmju dzēšanas izdarāma balsu skaitīšana.
-Vispirms atver vēlēšanu kastes, saskaita vēlēšanu zīmes un pārliecinās, vai to skaits saskan ar vēlēšanās piedalījušos vēlētāju skaitu. Pēc tam nošķir un atsevišķi saskaita derīgās un nederīgās vēlēšanu zīmes. Ja rodas domstarpības par vēlēšanu zīmju derīgumu, vēlēšanu komisija jautājumu izšķir ar balsu vairākumu. Balsīm sadaloties līdzīgi, izšķirošā ir vēlēšanu komisijas priekšsēdētāja balss.
-Ja attiecīgajā vēlēšanu iecirknī vienlaikus ir vēlēta rajona pilsētas dome (pagasta padome) un rajona padome, vispirms nošķir un pēc tam atsevišķi saskaita par rajona pilsētas domes (pagasta padomes) deputātu kandidātiem nodotās vēlēšanu zīmes un par rajona padomes deputātu kandidātiem nodotās vēlēšanu zīmes.
-Tālāk saskaita, cik pilno balsu ir ieguvis katrs atsevišķais kandidātu saraksts. Tad saskaita, cik individuālo balsu ieguvis katrs atsevišķais kandidātu saraksts. Šo skaitli izdala ar attiecīgās domes (padomes) deputātu vietu skaitu. Iegūtais skaitlis rāda, cik pilno balsu papildus ir ieguvis attiecīgais kandidātu saraksts. Pēc tam summē par katru atsevišķo kandidātu sarakstu nodotās pilnās balsis.
-Tad saskaita, cik individuālo balsu ir ieguvis katrs kandidātu sarakstos ietvertais kandidāts.
+39. pants. Pēc vēlēšanu kastes atvēršanas vēlēšanu iecirkņa komisija:
+1) saskaita vēlēšanu kastēs esošās ar attiecīgās iecirkņa komisijas zīmogu apzīmogotās aploksnes;
+2) aploksnes, kas nav apzīmogotas ar attiecīgās iecirkņa komisijas zīmogu un tāpēc uzskatāmas par nederīgām, neatver, saskaita, iesaiņo un par to izdara atzīmi balsu skaitīšanas protokolā;
+3) pēc derīgo aplokšņu saskaitīšanas tās atver un no tām izņem vēlēšanu zīmes, vienlaikus pārbaudot, vai kādā aploksnē to nav vairāk par vienu;
+4) nodotās vēlēšanu zīmes sagrupē pēc kandidātu sarakstu nosaukumiem, šķirojot derīgās zīmes no nederīgajām, kā arī saskaita par katru kandidātu sarakstu nodotās balsis.
+Rajona pilsētu un pagastu vēlēšanu iecirkņos atsevišķi tiek skaitītas rajona padomes vēlēšanu zīmes un pilsētas domes vai pagasta padomes vēlēšanu zīmes.

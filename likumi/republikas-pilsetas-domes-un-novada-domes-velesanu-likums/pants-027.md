@@ -1,1 +1,1 @@
-27. pants. Vēlēšanās katrs vēlētājs drīkst balsot tikai personiski. Vēlētājs pēc savas izvēles var balsot jebkurā attiecīgās pašvaldības administratīvajā teritorijā izveidotajā vēlēšanu iecirknī.
+27. pants. Izņemot šā likuma 33.pantā paredzētos gadījumus, vēlētājs var balsot tikai personiski. Vēlētājs pēc savas izvēles var balsot jebkurā attiecīgās pašvaldības administratīvajā teritorijā izveidotajā vēlēšanu iecirknī.

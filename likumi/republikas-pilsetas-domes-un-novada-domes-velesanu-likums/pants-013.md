@@ -1,1 +1,0 @@
-13. pants. Ar attiecīgās domes (padomes) lēmumu pašvaldības administratīvo teritoriju var sadalīt vēlēšanu iecirkņos. Tādā gadījumā izveido arī iecirkņu vēlēšanu komisijas piecu līdz piecpadsmit vēlētāju sastāvā. Iecirkņu vēlēšanu komisijas ievēlē un tās darbojas šā likuma 12. pantā noteiktajā kārtībā.

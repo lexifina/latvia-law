@@ -1,3 +1,5 @@
-28. pants. Balsošana vēlēšanās ir aizklāta. Vēlēšanu telpās komisijas loceklis vēlētājam izsniedz vienu vēlēšanu zīmi, uz kuras iesniegtie kandidātu saraksti ir sakārtoti tādā secībā, kādā tie reģistrēti vēlēšanu komisijā. Pirms katra kandidātu saraksta norādīts šā saraksta nosaukums, bet zem tā - sarakstā ietverto kandidātu vārdi un uzvārdi.
-Pēc vēlēšanu zīmes izsniegšanas vēlēšanu komisijas loceklis balsotāju sarakstā ieraksta vēlētāja vārdu, uzvārdu un personas kodu un atzīmē pasē, ka vēlētājs piedalījies vēlēšanās. Vēlētājs to apliecina, parakstoties balsotāju sarakstā.
-Iecirkņu vēlēšanu komisiju locekļiem ir aizliegts aģitēt par vai pret kandidātiem, vēlētāju apvienībām, politiskajām organizācijām vai to apvienībām.
+28. pants. Balsošana vēlēšanās ir aizklāta.
+Vēlēšanu telpās vēlēšanu iecirkņa komisijas loceklis balsotāju sarakstā pēc Latvijas Republikas pilsoņa pases ieraksta vēlētāja vārdu, uzvārdu, personas kodu un izdara vēlētāja pasē atzīmi par attiecīgās pašvaldības vēlēšanām. Vēlētājs parakstās balsotāju sarakstā.
+Katram vēlētājam izsniedz visu vēlēšanu apgabalā pieteikto kandidātu sarakstu vēlēšanu zīmes un īpašu vēlēšanu aploksni, kura apzīmogota ar attiecīgās iecirkņa komisijas zīmogu. Šajā aploksnē vēlētājam jāieliek vēlēšanu zīme, kas atbilst tam kandidātu sarakstam, par kuru viņš balso. Atsevišķu vēlēšanu zīmju izsniegšana ir aizliegta.
+Rajona pilsētās un pagastos vēlētājam tiek izsniegtas rajona padomes un attiecīgi pilsētas domes vai pagasta padomes vēlēšanu zīmes un viena vēlēšanu aploksne, kurā vēlētājam jāieliek abas vēlēšanu zīmes.
+Vēlēšanu komisijas locekļiem ir aizliegts aģitēt par vai pret kandidātiem vai kandidātu sarakstiem.

@@ -1,7 +1,9 @@
-15. pants. Republikas pilsētas domes un rajona padomes deputātu kandidātu sarakstus var iesniegt reģistrētas politiskās organizācijas vai to reģistrētas apvienības.
-Rajona pilsētas domes un pagasta padomes deputātu kandidātu sarakstus var iesniegt gan reģistrētas politiskās organizācijas vai to reģistrētas apvienības, gan arī vēlētāju apvienības.
-Pilsētas domes, rajona padomes vai pagasta padomes vēlēšanām apvienotus kandidātu sarakstus, ievērojot šās nodaļas noteikumus, var iesniegt arī divas vai vairākas reģistrētas politiskās organizācijas, kuras nav apvienojušās reģistrētā politisko organizāciju apvienībā.
+15. pants. Republikas pilsētas domes un rajona padomes deputātu kandidātu sarakstus var iesniegt reģistrētas politiskās organizācijas (partijas) vai to reģistrētas apvienības.
+Rajona pilsētas domes un pagasta padomes deputātu kandidātu sarakstus var iesniegt gan reģistrētas politiskās organizācijas (partijas) vai to reģistrētas apvienības, gan arī vēlētāju apvienības.
+Pilsētas domes, rajona padomes vai pagasta padomes vēlēšanām apvienotus kandidātu sarakstus, ievērojot šās nodaļas noteikumus, var iesniegt arī divas vai vairākas reģistrētas politiskās organizācijas (partijas), kuras nav apvienojušās reģistrētā politisko organizāciju (partiju) apvienībā.
 Vēlētāju apvienību veido tās personas, kuras ir parakstījušas attiecīgo kandidātu sarakstu, kā arī šajā kandidātu sarakstā pieteiktās personas. Par vēlētāju apvienības darbības likumību atbild attiecīgā kandidātu saraksta iesniedzēji.
-Kandidātu saraksti iesniedzami, sākot ar četrdesmito dienu pirms vēlēšanu dienas, bet ne vēlāk kā 30 dienas pirms vēlēšanu dienas. Kandidātu saraksts iesniedzams attiecīgajai pilsētas, rajona vai pagasta vēlēšanu komisijai.
-Kandidātu sarakstā norādāms katra kandidāta vārds, uzvārds, personas kods, dzimšanas gads, pieraksta vieta, izglītība, pamatdarba vieta un ieņemamais amats.
+Kandidātu saraksti iesniedzami, sākot ar piecdesmito dienu pirms vēlēšanu dienas, bet ne vēlāk kā 40 dienas pirms vēlēšanu dienas. Kandidātu saraksts iesniedzams attiecīgajai pilsētas, rajona vai pagasta vēlēšanu komisijai.
+Kandidātu sarakstā norādāms katra kandidāta vārds, uzvārds, personas kods, dzimšanas gads, pastāvīgā pieraksta vieta, izglītība, pamatdarba vieta un ieņemamais amats, citas valsts pilsonība (pavalstniecība), ja tāda ir.
 Sarakstā pieteikto kandidātu skaits nedrīkst būt lielāks par ievēlējamo domes (padomes) deputātu skaitu. Persona drīkst dot piekrišanu sevi pieteikt par kandidātu tikai vienā kandidātu sarakstā. Ja kāds kandidāts pieteikts vairākos sarakstos, viņa kandidatūra svītrojama visos sarakstos.
+Kandidātu sarakstiem jābūt skaidri salasāmiem, bez svītrojumiem un labojumiem.
+Tieslietu ministrija ne vēlāk kā piecdesmitajā dienā pirms vēlēšanu dienas publicē laikrakstā "Latvijas Vēstnesis" visu reģistrēto politisko organizāciju (partiju) un to apvienību sarakstu.
