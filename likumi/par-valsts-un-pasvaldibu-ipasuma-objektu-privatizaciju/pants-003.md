@@ -13,7 +13,7 @@
 4. Kārtību, kādā īpašuma objekts pārveidojams statūtsabiedrībā, un šīs statūtsabiedrības daļu pārdošanas kārtību nosaka likums «Par valsts un pašvaldību uzņēmumu pārveidošanu statūtsabiedrībās».
 5. Valsts un pašvaldību statūtsabiedrību kapitāla daļu pārdošanas kārtību nosaka likums «Par valsts un pašvaldību uzņēmumu pārveidošanu statūtsabiedrībās».
 6. Kārtību, kādā pārdodamas kapitāla daļas, kas pieder valstij vai pašvaldībām statūtsabiedrībās, kurās ir privātais kapitāls, regulē šā likuma V daļas noteikumi.
-7. Tādas valsts īpašumā esošas nekustamās mantas privatizācijas īpatnības, kura nav valsts uzņēmuma vai valsts statūtsabiedrības sastāvā, nosaka šā likuma V daļas noteikumi.
+7. (Izslēgta ar 31.01.2002. likumu.)
 8. Kopīpašumā esošas valsts vai pašvaldību mantas privatizācijas īpatnības nosaka šā likuma V daļas noteikumi.
 9. Valsts vai pašvaldības uzņēmumu vai uzņēmējsabiedrību likvidē, ja:
 1) valsts uzņēmuma vai uzņēmējsabiedrības privatizācija saskaņā ar vismaz divas reizes apstiprinātiem privatizācijas noteikumiem nav bijusi sekmīga;

@@ -1,5 +1,5 @@
 Privatizācija - vienveidīgu darbību kopums, kuru rezultātā mainās privatizējamā valsts vai pašvaldības īpašuma objekta īpašnieks. Privatizācijas metodes minētas šā likuma 2. pantā.
-Valsts vai pašvaldības īpašuma objekts - uzņēmums, uzņēmējsabiedrība, nekustamais īpašums, šā uzņēmuma, uzņēmējsabiedrības, nekustamā īpašuma daļa, manta vai kapitāla daļas, kas ir valsts vai pašvaldības īpašumā.
+Valsts vai pašvaldības īpašuma objekts - uzņēmums, uzņēmējsabiedrība, šā uzņēmuma, uzņēmējsabiedrības mantas sastāvā esošs nekustamais īpašums vai nekustamā īpašuma daļa, manta vai kapitāla daļa, kas ir valsts vai pašvaldības īpašumā.
 Privatizācijas subjekts - šā likuma izpratnē: noteikta fiziskā vai juridiskā persona, kurai ir tiesības iegūt valsts vai pašvaldību īpašumu privatizācijas procesā.
 Kapitāls - šā likuma izpratnē: mantisku un nemantisku lietu kopums, kuram var noteikt cenu un kuru izmanto uzņēmējdarbībā.
 Privātais kapitāls - kapitāls, kas pieder fiziskajām vai juridiskajām personām, izņemot valsts un pašvaldību uzņēmumus vai valsts un pašvaldību uzņēmējsabiedrības.

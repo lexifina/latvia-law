@@ -4,3 +4,4 @@
 3. Privatizācijas aģentūra ir juridiskā persona, tai ir savi norēķinu konti bankās un zīmogs.
 4. Privatizācijas aģentūras ietvaros tiek izveidota šķīrējtiesa, kas darbojas saskaņā ar nolikumu. Šķīrējtiesa izskata strīdus, kas radušies no civiltiesiskajām attiecībām starp privatizētiem uzņēmumiem, privatizējamiem uzņēmumiem, kā arī jebkurus citus strīdus, ja strīdā iesaistītās puses tā ir pielīgušas.
 5. Privatizācijas aģentūras valdes un tās pilnvarotu institūciju lēmumus, kas aizskar kādas personas intereses, šī persona var pārsūdzēt tiesā.
+6. Lēmumu par Privatizācijas aģentūras likvidāciju pieņem Ministru kabinets, izdodot par to rīkojumu. Privatizācijas aģentūras likvidāciju veic likvidācijas komisija triju likvidatoru sastāvā, kurus pēc Privatizācijas aģentūras valsts pilnvarnieka priekšlikuma ieceļ Ministru kabinets. Ministru kabinets var jebkurā laikā likvidatoru atcelt vai atstādināt no viņam uzticēto pienākumu pildīšanas.

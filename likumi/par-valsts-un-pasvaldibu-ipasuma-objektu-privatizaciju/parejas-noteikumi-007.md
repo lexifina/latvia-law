@@ -1,0 +1,1 @@
+7. Šajā likumā noteikto Privatizācijas aģentūras funkciju nodošana citām institūcijām noformējama ar Privatizācijas aģentūras un attiecīgās institūcijas parakstītu lietu pieņemšanas un nodošanas aktu.
