@@ -1,0 +1,1 @@
+21.pants. Iepakojuma ražotāja (importētāja), iepakotāja un iepakojuma apsaimniekošanas uzņēmuma (uzņēmējsabiedrības) darbību atbilstoši šajā likumā noteiktajām prasībām kontrolē Vides valsts inspekcija un reģionālās vides pārvaldes.

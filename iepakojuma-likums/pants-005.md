@@ -1,0 +1,4 @@
+5.pants. Iepakojumu iedala šādos veidos:
+1) primārais (tirdzniecības) iepakojums - tirdzniecības vajadzībām izmantojams iepakojums, kas nonāk pie iepakotāja vai patērētāja tirdzniecības vietā un ir tiešā saskarē ar preci vai produktu;
+2) sekundārais iepakojums - iepakojums, ko izmanto noteikta daudzuma tirdzniecībai paredzētu preču vai produktu vienību kopīgai iepakošanai. Tas var nonākt pie iepakotāja vai patērētāja neizsaiņots vai arī to atdala no preces tirdzniecības vietā. Sekundārā iepakojuma noņemšana neietekmē produkta raksturlielumus;
+3) terciārais (transporta) iepakojums - iepakojums, ko izmanto, lai pārvadātu tirdzniecībai un ražošanai paredzētas preces vai produktus vai sekundārā iepakojuma vienības un izvairītos no produktu bojāšanas pārvadājuma laikā. Terciārais (transporta) iepakojums nav konteineri, ko izmanto sauszemes, ūdens un gaisa pārvadājumiem.

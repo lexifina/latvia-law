@@ -1,0 +1,1 @@
+11.pants. Iepakojumam, kuru ražo vai kurā iepako preces un produktus Latvijā, piemēro Latvijas Republikas nacionālo standartu un šā standarta statusā adaptēto starptautisko standartizācijas organizāciju standartu prasības.
