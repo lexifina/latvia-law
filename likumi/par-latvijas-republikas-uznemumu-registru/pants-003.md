@@ -1,2 +1,3 @@
-3. pants. Latvijas Republikas Uzņēmumu reģistra darbības tiesiskais pamats
-Latvijas Republikas Uzņēmumu reģistrs savā darbībā vadās pēc šā likuma, Latvijas Republikas likuma «Par uzņēmējdarbību», civilkodeksa, likumiem, kuri reglamentē uzņēmējdarbības formas un veidus, kā arī pēc citiem normatīviem aktiem.
+3. pants. Uzņēmumu reģistra darbības tiesiskais pamats
+(1) Uzņēmumu reģistra darbību nosaka un regulē šis likums, Uzņēmumu reģistra nolikums un citi tiesību akti.
+(2) Uzņēmumu reģistram ir zīmogs ar papildinātā Latvijas Republikas valsts mazā ģerboņa attēlu.
