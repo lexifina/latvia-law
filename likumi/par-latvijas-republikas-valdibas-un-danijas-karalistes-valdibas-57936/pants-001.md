@@ -1,0 +1,1 @@
+1. pants. 1993. gada 10. decembrī Rīgā parakstītā Latvijas Republikas valdības un Dānijas Karalistes valdības konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu un tai pievienotais protokols ar šo likumu pieņemti un apstiprināti.
