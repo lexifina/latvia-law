@@ -1,9 +1,10 @@
-4.pants. Ierobežojumi piešķirt kredītus, izsniegt aizdevumus, dot galvojumus un garantijas
+4. pants. Ierobežojumi piešķirt kredītus, izsniegt aizdevumus, dot galvojumus un garantijas
 (1) Pašvaldības, valsts un pašvaldību iestādes, uzņēmumi, statūtsabiedrības un uzņēmējsabiedrības kredītus var izsniegt Kredītiestāžu likumā un citos likumos noteiktajā kārtībā.
 (2) Pašvaldībām, valsts un pašvaldību iestādēm, uzņēmumiem, statūtsabiedrībām un uzņēmējsabiedrībām, kurās valsts vai pašvaldības daļa pamatkapitālā atsevišķi vai kopsummā pārsniedz 50 procentus, izņemot šā panta trešajā, ceturtajā un piektajā daļā un citos likumos paredzētos gadījumus, ir aizliegts izsniegt jebkāda veida aizdevumus un dot galvojumus vai garantijas.
 (3) Šā panta otrās daļas noteikumi neattiecas uz:
 1) uzņēmējsabiedrībām, kurās valsts vai pašvaldības daļa pamatkapitālā atsevišķi vai kopsummā pārsniedz 50 procentus un kuras iepriekš ir saņēmušas rakstveida atļauju no valsts vai pašvaldības kapitāla daļas turētāja;
-2) gadījumiem, kad valsts vai pašvaldības statūtsabiedrība izsniedz aizdevumus un dod galvojumus un garantijas, iepriekš saņemot rakstveida atļauju no tās valsts institūcijas vai pašvaldības, kuras pārziņā ir attiecīgā statūtsabiedrība.
+2) gadījumiem, kad valsts vai pašvaldības statūtsabiedrība izsniedz aizdevumus un dod galvojumus un garantijas, iepriekš saņemot rakstveida atļauju no tās valsts institūcijas vai pašvaldības, kuras pārziņā ir attiecīgā statūtsabiedrība;
+3) galvojumiem, kurus pašvaldība dod par tām parāda saistībām, ko studējošais uzņemas Augstskolu likumā noteiktā studiju kredīta un studējošo kredīta saņemšanai no kredītiestādes.
 (4) Ja šā panta otrajā daļā minētā statūtsabiedrība tiek privatizēta vai arī ja uzņēmējsabiedrībā tiek privatizētas vai atsavinātas valsts vai pašvaldības kapitāla daļas, minētā atļauja jāsaņem no institūcijas, kas veic valsts vai pašvaldības īpašuma atsavināšanu.
 (5) Institūcija, kuras pārziņā ir statūtsabiedrība, valsts vai pašvaldības kapitāla daļas turētājs uzņēmējsabiedrībā un institūcija, kas veic privatizāciju vai atsavināšanu, izveido galvojumu un garantiju reģistru, kā arī glabā katra galvojuma vai garantijas vienu oriģināleksemplāru. Galvojumi un garantijas nav spēkā, ja nav reģistrēti attiecīgajā reģistrā.
 (6) Ja valsts uzņēmums vai statūtsabiedrība tiek nodota privatizācijai vai atsavināšanai, institūcija, kuras pārziņā ir privatizējamais vai atsavināmais objekts, nodod attiecīgo reģistru institūcijai, kas veic valsts īpašuma atsavināšanu.
