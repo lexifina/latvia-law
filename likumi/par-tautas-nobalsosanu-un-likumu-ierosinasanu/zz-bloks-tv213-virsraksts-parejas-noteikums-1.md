@@ -1,0 +1,1 @@
+Ārvalstīs dzīvojošie balsotāji, kuri līdz balsošanas dienai nav saņēmuši Latvijas pilsoņa pasi, iecirkņa komisijai uzrāda vai nosūta Pilsonības un migrācijas lietu pārvaldes izdotu reģistrācijas lapu ar šā balsotāja personas kodu.
