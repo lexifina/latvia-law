@@ -1,0 +1,4 @@
+21.pants. Sabiedrības līdzdalība izglītībā
+(1) Sabiedrība piedalās izglītības organizēšanā un attīstībā, popularizējot visu veidu izglītību, veicot izglītošanu un sekmējot izglītības kvalitātes uzlabošanu, veidojot izglītības programmas, aizsargājot izglītojamo un pedagogu tiesības un intereses izglītības ieguves un darba procesā, veidojot izglītības un izglītības atbalsta iestādes un sabiedriskās organizācijas.
+(2) Valsts un pašvaldību izglītības pārvaldes iestādes nodrošina šā panta pirmajā daļā minēto uzdevumu veikšanai nepieciešamo informāciju, konsultācijas un metodisko palīdzību.
+(3) Valsts un pašvaldības atsevišķu tām noteikto izglītības pārvaldes un izglītības atbalsta funkciju veikšanu likumā noteiktajā kārtībā var deleģēt sabiedriskajām organizācijām, nodrošinot attiecīgu finansējumu.

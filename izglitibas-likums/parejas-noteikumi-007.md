@@ -1,0 +1,1 @@
+7. Privātā izglītības iestāde, kas līdz šā likuma spēkā stāšanās dienai ir saņēmusi licenci izglītības iestādes atvēršanai, ir tiesīga turpināt attiecīgās izglītības programmas īstenošanu līdz licences termiņa beigām.

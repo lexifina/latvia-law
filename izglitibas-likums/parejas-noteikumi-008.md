@@ -1,0 +1,1 @@
+8. Līdz šā likuma spēkā stāšanās dienai akreditēta izglītības iestāde, ja tai nav akreditētas izglītības programmas, ir tiesīga līdz akreditācijas termiņa beigām izsniegt valsts atzītus izglītības dokumentus par izglītības programmām atbilstošas izglītības ieguvi.

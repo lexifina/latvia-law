@@ -1,0 +1,1 @@
+2. Līdz ar šā likuma spēkā stāšanos spēku zaudē Latvijas Republikas Izglītības likums (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 31./32.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 18.nr.; 1997, 3.nr.).

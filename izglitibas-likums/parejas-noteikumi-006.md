@@ -1,0 +1,1 @@
+6. Valsts vai pašvaldību izglītības iestādes, kas uzsākušas izglītības iestādes veidam un profilam atbilstošu izglītības programmu īstenošanu līdz šā likuma spēkā stāšanās dienai, var turpināt šo programmu īstenošanu, triju gadu laikā saņemot licenci attiecīgās izglītības programmas īstenošanai.

@@ -1,0 +1,1 @@
+12. Izglītības iestādes, kas nodibinātas pirms šā likuma spēkā stāšanās dienas un turpina darboties, līdz 1999.gada 1.martam reģistrējamas Izglītības iestāžu reģistrā, ievērojot šā likuma 24. un 39.panta noteikumus.

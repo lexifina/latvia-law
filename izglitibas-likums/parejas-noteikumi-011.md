@@ -1,0 +1,1 @@
+11. Ārpusskolas iestādes, kas nodibinātas pirms šā likuma spēkā stāšanās dienas, saglabā savu statusu, un to darbība gada laikā tiek saskaņota ar 47.panta noteikumiem, kas atbilst interešu izglītībai.

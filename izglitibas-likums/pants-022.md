@@ -1,0 +1,4 @@
+22.pants. Izglītības iestāžu darbības tiesiskais pamats
+(1) Valsts, pašvaldību un privātās izglītības iestādes, izņemot uzņēmumus (uzņēmējsabiedrības) un augstskolas, darbojas, pamatojoties uz šo likumu, citiem likumiem un normatīvajiem aktiem, kā arī attiecīgās iestādes nolikumu, kuru apstiprina iestādes dibinātājs.
+(2) Valsts, pašvaldību un privātie uzņēmumi (uzņēmējsabiedrības), izņemot augstskolas, izglītojošo darbību veic, pamatojoties uz šo likumu, citiem likumiem un normatīvajiem aktiem, kā arī uz to dibinātāju apstiprinātu nolikumu par izglītojošo darbību.
+(3) Augstskolas darbojas, pamatojoties uz šo likumu, Augstskolu likumu, citiem likumiem un normatīvajiem aktiem, kā arī uz attiecīgās augstskolas satversmi. Universitāšu satversmes apstiprina Saeima. Pārējo augstskolu satversmes apstiprina Ministru kabinets.

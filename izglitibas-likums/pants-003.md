@@ -1,0 +1,2 @@
+3.pants. Tiesības uz izglītību
+Katram Latvijas Republikas pilsonim un personai, kurai ir tiesības uz Latvijas Republikas izdotu nepilsoņa pasi, personai, kurai ir izsniegta pastāvīgās uzturēšanās atļauja, kā arī Eiropas Savienības valstu pilsoņiem, kam izsniegta termiņuzturēšanās atļauja, un viņu bērniem ir vienlīdzīgas tiesības iegūt izglītību neatkarīgi no mantiskā un sociālā stāvokļa, rases, tautības, dzimuma, reliģiskās un politiskās pārliecības, veselības stāvokļa, nodarbošanās un dzīvesvietas.

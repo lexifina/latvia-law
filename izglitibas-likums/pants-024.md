@@ -1,0 +1,12 @@
+24.pants. Izglītības iestāžu reģistrs un reģistrācijai nepieciešamie dokumenti
+(1) Ikviena izglītības iestāde reģistrējama Izglītības iestāžu reģistrā mēneša laikā no tās dibināšanas dienas. Izglītības iestāžu reģistru kārto Izglītības un zinātnes ministrija.
+(2) Izglītības iestādes reģistrāciju nodrošina iestādes dibinātājs. Iesniegumu par izglītības iestādes reģistrāciju iesniedz dibinātāja pilnvarota persona, un tajā iekļaujamas šādas ziņas:
+1) izglītības iestādes nosaukums, tās juridiskā adrese;
+2) izglītības iestādes dibinātājs, iestādes juridiskais statuss;
+3) lēmums par izglītības iestādes dibināšanu;
+4) izglītības iestādes telpu platība, tehniskais aprīkojums;
+5) finansējuma avoti un kārtība.
+(3) Iesniegumam par izglītības iestādes reģistrāciju pievienojams izglītības iestādes dibinātāja apstiprināts izglītības iestādes darbības nolikums (satversme).
+(4) Mēneša laikā no šā panta otrajā un trešajā daļā minēto dokumentu iesniegšanas dienas izglītības iestāde tiek iekļauta reģistrā un tai izsniedz reģistrācijas apliecību.
+(5) Lēmums par izglītības iestādes reorganizāciju vai likvidāciju 10 dienu laikā paziņojams Izglītības iestāžu reģistram.
+(6) Ikvienam ir pieejamas Izglītības iestāžu reģistrā iekļautās ziņas.
