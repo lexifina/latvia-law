@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2004.gada 22.aprīļa noteikumi Nr. 425 \"Par Ministru kabineta noteikumu vai atsevišķu to normu spēkā esību saistībā ar Latvijas pievienošanos Eiropas Savienībai\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-01",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2005-07-29",
+  "commission_reference": "MNE(2005)52986",
+  "nim_celex": "71989L0618LVA_122986",
+  "nim_id": "122986",
+  "transposes_celex": [
+    "31989L0618",
+    "31990L0641",
+    "31992L0003",
+    "31996L0029",
+    "31997L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a5cbcbcd-8ac0-4104-923a-1c0789acaaf7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
