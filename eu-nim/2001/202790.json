@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums \"Par piesārņojumu\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "51 (2438)",
+  "official_journal_page": null,
+  "official_journal_date": "2001-03-29",
+  "entry_into_force": "2001-07-01",
+  "notification_date": "2013-04-04",
+  "commission_reference": "MNE(2013)52456",
+  "nim_celex": "72009L0028LVA_202790",
+  "nim_id": "202790",
+  "transposes_celex": [
+    "32009L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/17c03a18-b27a-44e3-aa0d-f7bc52aa96f0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
