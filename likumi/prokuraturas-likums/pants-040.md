@@ -1,7 +1,7 @@
 40. pants. Prokurora atlaišana no amata
 (1) Prokurors ir jāatlaiž no amata:
 1) ja ģenerālprokurors ir konstatējis faktu, ka nav ievērots kāds no šā likuma 37. pantā minētajiem nosacījumiem;
-2) ja prokurors atsakās pārtraukt savu darbību banku, uzņēmējsabiedrību vai uzņēmumu pārvaldē vai citā algotā darbā;
+2) ja ģenerālprokurors ir konstatējis faktu, ka nav ievērots kāds no Korupcijas novēršanas likumā paredzētajiem ierobežojumiem;
 3) ja prokurors atsakās pārtraukt savu piederību pie partijām vai politiskajām organizācijām;
 4) ja prokurors notiesāts un tiesas spriedums stājies likumīgā spēkā.
 (2) Prokuroru var atlaist no amata:
