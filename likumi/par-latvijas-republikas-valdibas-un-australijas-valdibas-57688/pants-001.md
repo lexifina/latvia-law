@@ -1,0 +1,1 @@
+1. pants. 1993. gada 23. novembrī Kanberā parakstītais Latvijas Republikas valdības un Austrālijas valdības nolīgums par tirdzniecību un ekonomisko sadarbību (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
