@@ -1,0 +1,1 @@
+5. pants. Izslēgt no Konvencijas par darba attiecību pārtraukšanu pēc uzņēmēja iniciatīvas (konvencija Nr. 158) noteikumu pielietošanas sfēras šīs konvencijas 2. panta 2. punktā minētās strādājošo kategorijas.

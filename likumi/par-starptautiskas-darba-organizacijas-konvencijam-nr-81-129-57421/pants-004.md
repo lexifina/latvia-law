@@ -1,0 +1,1 @@
+4. pants. Piemērot darba inspekcijas sistēmu attiecībā uz Konvencijas par darba inspekciju lauksaimniecībā (konvencija Nr. 129) 5. panta 1. punkta "b" apakšpunktā minētajām lauksaimniecības uzņēmumos strādājošām personām.

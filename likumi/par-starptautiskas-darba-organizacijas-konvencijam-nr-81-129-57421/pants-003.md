@@ -1,0 +1,1 @@
+3. pants. Neizmantot Konvencijas par darba inspekciju ražošanā un tirdzniecībā (konvencija Nr. 81) 2. panta 2. punktā paredzēto iespēju nepiemērot šo konvenciju attiecībā uz kalnrūpniecības un transporta uzņēmumiem vai to daļām Latvijas Republikā.
