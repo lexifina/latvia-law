@@ -1,0 +1,1 @@
+1.pants. 1997.gada 21.februārī Rīgā parakstītais Latvijas Republikas valdības un Vācijas Federatīvās Republikas valdības nolīgums par savstarpēju atbrīvošanu no nodokļiem starptautiskajos pārvadājumos ar autotransportu (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
