@@ -1,1 +1,1 @@
-187. Frakciju darbinieki tiek algoti no valsts budžeta, viņus pieņem darbā un atlaiž no tā pēc frakcijas vadītāja priekšlikuma un saskaņā ar Latvijas Darba likumu kodeksa noteikumiem.
+187. Frakciju darbiniekus pieņem darbā uz frakcijas darbības laiku un atlaiž no darba Saeimas Kanceleja pēc frakcijas vadītāja ierosinājuma Darba likumā noteiktajā kārtībā. Uz viņiem neattiecas Darba likuma 45.panta pirmajā daļā noteiktais darba līguma termiņa ierobežojums.

@@ -1,1 +1,1 @@
-110. Trešajā lasījumā balsojami tikai tie priekšlikumi (arī priekšlikumi par pārejas noteikumiem), kas noteiktā termiņā (104. p.) iesniegti atbildīgajai komisijai vai Saeimas Kancelejai un līdz balsošanai nav atsaukti.
+110. Trešajā lasījumā balsojami tikai atbildīgās komisijas priekšlikumi, kā arī tie priekšlikumi (arī priekšlikumi par pārejas noteikumiem), kas noteiktā termiņā (104. p.) iesniegti atbildīgajai komisijai vai Saeimas Kancelejai un līdz balsošanai nav atsaukti.
