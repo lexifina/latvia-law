@@ -1,0 +1,1 @@
+134. Priekšlikumi balsojami 101. pantā noteiktajā secībā pirms tā panta, uz kuru tie attiecas. Priekšlikumi, kas var papildināt citu priekšlikumu, balsojami pirms tā. Pēc priekšlikumu, kā arī atsevišķu panta daļu nobalsošanas pants balsojams kopumā.

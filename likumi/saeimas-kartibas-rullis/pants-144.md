@@ -1,0 +1,1 @@
+144. Katram deputātam, kā arī Saeimas frakcijas vai politiskā bloka pārstāvim ir tiesības par balsošanas motīviem rakstveidā iesniegt attiecīgu ziņojumu, kas pievienojams Saeimas sēdes stenogrammai; ziņojuma iesniedzējs var arī sniegt mutvārdu paskaidrojumu ne ilgāk kā piecas minūtes.

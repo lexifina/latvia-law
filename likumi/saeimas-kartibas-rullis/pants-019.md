@@ -1,0 +1,1 @@
+19. Ja deputāts uz 17. panta pamata atstādināts no piedalīšanās Saeimas darbā, atstādināšanas laikā viņš zaudē tiesības uz algas saņemšanu. Attaisnošanas gadījumā deputāts saņem visu viņam par atstādināšanas laiku neizmaksāto algu.

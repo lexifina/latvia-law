@@ -1,0 +1,4 @@
+38. (1) Saeimas ārkārtas sesiju vai ārkārtas sēdi sasauc Prezidijs pēc sava ierosinājuma, kā arī pēc Valsts prezidenta, Ministru prezidenta vai ne mazāk kā vienas trešdaļas Saeimas deputātu prasības (Satversmes 19. un 20. p.), kurā jānorāda apspriežamā darba kārtība.
+(2) Pēc šādas prasības saņemšanas Prezidijs sasauc ārkārtas sesiju ne vēlāk kā 48 stundu laikā, bet ārkārtas sēdi kārtējās sesijas laikā - ne vēlāk kā 24 stundu laikā.
+(3) Par ārkārtas sesijas vai ārkārtas sēdes sasaukšanu jāpaziņo ar radio un televīzijas palīdzību un, ja iespējams, katram deputātam individuāli.
+(4) Ārkārtas sesijā vai ārkārtas sēdē izskatāmi tikai tie darba kārtības jautājumi, kuri norādīti ierosinājumā vai prasībā par ārkārtas sesijas vai ārkārtas sēdes sasaukšanu, un pēc šo jautājumu izskatīšanas sesiju vai sēdi slēdz.

@@ -1,0 +1,1 @@
+190. Prezidijs, frakcijas un politiskie bloki izveido Frakciju padomi, kura noskaidro un saskaņo frakciju un politisko bloku darbību un taktiku Saeimā un komisijās, kā arī nokārto kopā ar Prezidiju 23. panta 4. punktā minētās lietas.

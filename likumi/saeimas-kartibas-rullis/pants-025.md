@@ -1,0 +1,1 @@
+25. Kandidatūras Prezidija locekļu, Valsts prezidenta un valsts kontroliera amatiem deputāti iesniedz Prezidijam rakstveidā. Kandidatūras iesniedzēja paraksts nozīmē, ka izvirzītais kandidāts piekritis savas kandidatūras izvirzīšanai.

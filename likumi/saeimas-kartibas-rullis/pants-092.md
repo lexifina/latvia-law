@@ -1,0 +1,2 @@
+92. (1) Likumprojekti, kas pēc atbildīgās komisijas vai desmit deputātu priekšlikuma ar Saeimas lēmumu atzīti par steidzamiem, apspriežami tikai divos lasījumos. Lēmums par steidzamību jāpieņem pirms debatēm pirmajā lasījumā (54. p.).
+(2) Ja likumprojekts, kas atzīts par steidzamu, pieņemts pirmajā lasījumā, Saeima lemj (54. p.), kad tas tiks izskatīts otrajā lasījumā, dodot iespēju iesniegt priekšlikumus.

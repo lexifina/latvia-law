@@ -1,0 +1,1 @@
+113. Ja Saeima likumprojektu trešajā lasījumā nepieņem, to nodod atpakaļ atbildīgajai komisijai un tas var tikt no jauna iesniegts izskatīšanai trešajā lasījumā, ievērojot 107. un 108. panta noteikumus.

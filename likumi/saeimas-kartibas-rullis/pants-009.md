@@ -1,0 +1,1 @@
+9. Katrs deputāts paziņo Saeimas Kancelejai savu adresi, telefona numuru un saņem Prezidija izdotu deputāta apliecību. Jauno adresi vai telefona numuru, ja tie tiek mainīti, kā arī savu adresi sesiju starplaikā deputāts paziņo Saeimas Kancelejai.

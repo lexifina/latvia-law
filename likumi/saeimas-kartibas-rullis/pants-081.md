@@ -1,0 +1,1 @@
+81. Likumprojekts, kas Saeimai iesniegts likumā «Par tautas nobalsošanu un likumu ierosināšanu» noteiktajā kārtībā, ir nododams tautas nobalsošanai, ja Saeima noraida tā nodošanu komisijām, noraida to kopumā vai pieņem ar satura grozījumiem.

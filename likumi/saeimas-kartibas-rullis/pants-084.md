@@ -1,0 +1,1 @@
+84. Nododot vienu un to pašu likumprojektu divām vai vairākām komisijām, Saeima var noteikt termiņu (54. p.), kādā komisijām likumprojekts jāizskata un jāiesniedz atbildīgajai komisijai vai Prezidijam savi priekšlikumi.

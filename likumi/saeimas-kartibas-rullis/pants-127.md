@@ -1,0 +1,2 @@
+127. (1) Saeima lemj, vai pieprasījums atzīstams par steidzamu (54. p.), ja iesniedzēji to atzinuši par steidzamu un tas iesniegts Saeimas Kancelejai līdz pulksten 12.00 iepriekšējā dienā pirms Saeimas sēdes un bijis pieejams frakcijām un deputātiem ne vēlāk kā līdz pulksten 14.00 šajā pašā dienā.
+(2) Ja Saeima atzīst pieprasījumu par steidzamu, tā nekavējoties uzsāk šā pieprasījuma apspriešanu pēc būtības un balso par tā pieņemšanu. Ja steidzamība tiek noraidīta, pieprasījums nododams Pieprasījumu komisijai (149. p.).

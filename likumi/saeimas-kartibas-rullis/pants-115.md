@@ -1,0 +1,1 @@
+115. Ja Valsts prezidents Satversmes 71. panta kārtībā ir prasījis likuma otrreizēju caurlūkošanu, Saeima nākamajā sēdē lemj par Valsts prezidenta motivēto iebildumu nodošanu komisijām, nosakot atbildīgo komisiju un termiņu, kādā likums izskatāms. Atkārtoti izskatot likumu, piemērojami noteikumi par likumprojekta izskatīšanu trešajā lasījumā.

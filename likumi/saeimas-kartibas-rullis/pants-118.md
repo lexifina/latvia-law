@@ -1,0 +1,1 @@
+118. Patstāvīgā priekšlikuma iesniedzēji var ņemt to atpakaļ, tomēr katram deputātam ir tiesības šo priekšlikumu uzturēt, ja to atbalsta vismaz desmit deputāti. Atbalsts priekšlikumam izsakāms balsojot.

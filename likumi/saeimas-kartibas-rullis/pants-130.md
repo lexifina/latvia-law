@@ -1,0 +1,2 @@
+130. (1) Ne mazāk kā desmit deputāti vai Pieprasījumu komisija var iesniegt lēmuma projektu sakarā ar pieprasījumu, arī par neuzticības izteikšanu Ministru kabinetam, atsevišķam ministram vai valsts ministram. Šajā gadījumā nav piemērojams 117. panta noteikums par lēmuma projekta apspriešanas atlikšanu uz nākamo sēdi vai nodošanu komisijām.
+(2) Ja nepieciešams, Saeima nosaka laiku priekšlikumu iesniegšanai.

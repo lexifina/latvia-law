@@ -1,0 +1,1 @@
+107. Priekšlikumi pēc likumprojekta izskatīšanas otrajā lasījumā iesniedzami 95. pantā noteiktajā kārtībā. Priekšlikumus, kas otrajā lasījumā, balsojot par tiem atsevišķi, tika noraidīti, nevar atkārtoti iesniegt pēc otrā lasījuma. Šādus priekšlikumus atbildīgā komisija neizskata un nepievieno projektam, virzot to izskatīšanai trešajā lasījumā.

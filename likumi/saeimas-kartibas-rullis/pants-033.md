@@ -1,0 +1,1 @@
+33. Saeimas komisiju locekļu, balsu skaitītāju, Centrālās vēlēšanu komisijas un Centrālās zemes komisijas locekļu kandidatūras deputāti iesniedz Prezidijam 25. pantā noteiktajā kārtībā. Kārtību, kādā ievēlējamas šajā pantā minētās amatpersonas, nosaka Saeima.

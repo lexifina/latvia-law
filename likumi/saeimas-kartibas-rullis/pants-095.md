@@ -1,0 +1,2 @@
+95. (1) Priekšlikumus par grozījumiem un papildinājumiem likumprojektā vai lēmuma projektā var iesniegt Valsts prezidents, Ministru prezidents, komisija, frakcija vai politiskais bloks, deputāts, ministrs un ministra pilnvarota valsts amatpersona. Priekšlikumi iesniedzami rakstveidā atbildīgajai komisijai vai Saeimas Kancelejai, kas tos nekavējoties nodod atbildīgajai komisijai.
+(2) Priekšlikumus, kas attiecas uz likumdošanas tehniku un kodifikāciju, var iesniegt arī Saeimas juridiskais dienests.

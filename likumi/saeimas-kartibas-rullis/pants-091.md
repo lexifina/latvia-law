@@ -1,0 +1,2 @@
+91. (1) Ja likumprojekts nav pieņemts pirmajā lasījumā, tas uzskatāms par noraidītu un to var atkārtoti iesniegt izskatīšanai šajā sesijā tikai tad, ja likumprojektu parakstījis vismaz 51 deputāts vai arī tajā izdarīti grozījumi.
+(2) Ja pirmajā lasījumā tiek noraidīts likumprojekts, kas iesniegts kā Satversmes 81. panta kārtībā Ministru kabineta izdotie noteikumi, tad šie noteikumi uzskatāmi par atceltiem no šā brīža, ja Saeima nav nolēmusi citādi.

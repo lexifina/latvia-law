@@ -1,0 +1,1 @@
+52. Pirms vienas lietas izskatīšana nav pabeigta, nedrīkst pāriet uz citu lietu, izņemot gadījumus, kad debašu pārtraukumu un pāreju uz citu lietu prasa Saeimas komisija vai vismaz 20 deputāti un Saeima tam piekrīt (54. p.).

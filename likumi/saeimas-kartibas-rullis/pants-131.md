@@ -1,0 +1,1 @@
+131. Ja jautājumi vai pieprasījumi saņemti tādā skaitā, ka traucē Saeimas likumdošanas darbību, Prezidijs to izskatīšanai nosaka atsevišķu sēdi, bet ne biežāk kā reizi nedēļā. Par šādu sēdi paziņo deputātiem vismaz 24 stundas iepriekš.

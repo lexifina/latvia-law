@@ -1,0 +1,2 @@
+62. (1) Neviens deputāts, izņemot referentu, Ministru prezidentu un Ministru kabineta pārstāvi apspriežamajā lietā, nedrīkst runāt vienā un tajā pašā lietā vairāk par divām reizēm.
+(2) Šis noteikums neattiecas uz likumprojektu apspriešanu otrajā un trešajā lasījumā, kad katrs deputāts drīkst runāt ne vairāk kā divas reizes par katra balsojuma priekšmetu: panta punktu vai daļu, pantu kopumā vai pantu grupu.

@@ -1,0 +1,1 @@
+90. Ja likumprojekts pieņemts pirmajā lasījumā, Saeima lemj (54. p.) par termiņu, kādā iesniedzami priekšlikumi. Šo termiņu nedrīkst noteikt īsāku par piecām dienām. Šis noteikums neattiecas uz likumprojektiem, kurus Saeima atzinusi par steidzamiem.

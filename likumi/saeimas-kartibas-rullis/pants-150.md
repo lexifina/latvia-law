@@ -1,0 +1,1 @@
+150. Atsevišķu likumdošanas uzdevumu veikšanai Saeima var izveidot speciālas komisijas. Saeimai jāieceļ noteiktiem gadījumiem parlamentārās izmeklēšanas komisijas, ja to pieprasa ne mazāk kā viena trešdaļa deputātu (Satversmes 26. p.). Priekšlikumi par šādas komisijas izveidošanu izskatāmi tuvākajā Saeimas kārtējā sēdē.

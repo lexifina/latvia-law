@@ -1,0 +1,3 @@
+169. (1) Komisijas sēdēs var piedalīties ar padomdevēja tiesībām Prezidija locekļi un viens no deputātiem, kas parakstījuši attiecīgo likumprojektu vai citu iesniegumu, kā arī citu komisiju izraudzītie ziņotāji par apspriežamo likumprojektu. Komisijai ir tiesības pieaicināt lietpratējus - gan pastāvīgus, gan atsevišķiem gadījumiem. Viņiem ir padomdevēja tiesības.
+(2) Komisijas sēdē var būt klāt arī citi deputāti, bet padomdevēja tiesības viņi bauda tikai uz īpaša komisijas lēmuma pamata.
+(3) Komisijas atklātajās sēdēs var būt klāt frakcijas vai politiskā bloka pilnvarota persona, kā arī deputāta palīgs.

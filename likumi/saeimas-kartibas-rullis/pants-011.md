@@ -1,0 +1,1 @@
+11. Ja par deputātu ievēlēta persona, kura ieņem ar deputāta mandātu nesavienojamu amatu (10. p.), tai mēneša laikā, skaitot no pilnvaru apstiprināšanas dienas, jāatstāj šis amats vai jānoliek deputāta mandāts.

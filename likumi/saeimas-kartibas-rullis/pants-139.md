@@ -1,0 +1,1 @@
+139. Balsošana Saeimas sēdēs notiek atklāti ar elektroniskās balsošanas iekārtas palīdzību, izņemot gadījumus, kad noteikta cita kārtība. Par klātesošiem balsošanā uzskatāmi tie deputāti, kas balsojuši "par", "pret" vai "atturas".

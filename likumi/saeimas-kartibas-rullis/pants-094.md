@@ -1,0 +1,1 @@
+94. Likumprojektu otrajam lasījumam, pieaicinot Saeimas juridiskā dienesta un valsts valodas speciālistus, sagatavo atbildīgā komisija, dodot atzinumus par iesniegtajiem priekšlikumiem un, ja nepieciešams, pievienojot savus priekšlikumus.

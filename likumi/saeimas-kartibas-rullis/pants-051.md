@@ -1,0 +1,2 @@
+51. (1) Pēc sēdes atklāšanas sēdes vadītājs paziņo Saeimai pieņemšanai izsludināto darba kārtību, kurā Saeima pēc Valsts prezidenta, Ministru kabineta pārstāvja, Saeimas komisiju vai ne mazāk kā piecu deputātu priekšlikuma var izdarīt grozījumus. Lietas izskata noteiktā secībā, bet Saeima pēc Valsts prezidenta, Ministru kabineta pārstāvja, Saeimas komisiju vai ne mazāk kā piecu deputātu priekšlikuma var grozīt to arī sēdes laikā (54. p.).
+(2) Ja iepriekšējā sēdē kādas lietas izskatīšana ir iesākta, bet nav pabeigta, darba kārtību paziņo pēc šīs lietas izskatīšanas.

@@ -1,0 +1,1 @@
+165. Ja kāds komisijas loceklis bez svarīga iemesla izlaidis trīs sēdes pēc kārtas, komisijas priekšsēdētājs to paziņo viņa frakcijai vai politiskajam blokam. Ja arī pēc tam komisijas loceklis neierodas sēdēs, pēc komisijas priekšlikuma Saeima 34. pantā noteiktajā kārtībā var viņu atsaukt un ievēlēt citu.

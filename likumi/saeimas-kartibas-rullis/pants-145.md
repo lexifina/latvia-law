@@ -1,0 +1,1 @@
+145. Saeimas sēžu norisi fiksē fonogrammā, pēc kuras sagatavo stenogrammu. Par stenogrammas atbilstību fonogrammai atbild Stenogrammu nodaļas vadītājs. Fonogramma tiek saglabāta. Valodas speciālisti novērš kļūdas stenogrammā, precizē personvārdu, svešvārdu, ģeogrāfisko nosaukumu rakstību, uzņēmumu, iestāžu un organizāciju, likumu, lēmumu un starptautisko līgumu nosaukumus.

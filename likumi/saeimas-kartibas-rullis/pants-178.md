@@ -1,0 +1,1 @@
+178. Komisijas var rīkot kopējas sēdes. Lēmumus katra komisija pieņem atsevišķi, izņemot lēmumus par kopējās sēdes darba kārtību un darba gaitu. Kopējās sēdēs par sēdes vadību vienojas komisiju priekšsēdētāji.

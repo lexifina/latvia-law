@@ -1,0 +1,1 @@
+29. Ja vēlēšanu pēdējā kārtā neviens nav ieguvis ievēlēšanai nepieciešamo balsu skaitu, jārīko jaunas vēlēšanas 25.-28. pantā noteiktajā kārtībā. Katrās jaunās vēlēšanās var izvirzīt arī iepriekšējās vēlēšanās neievēlētos kandidātus.

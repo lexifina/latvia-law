@@ -1,0 +1,3 @@
+82. (1) Par saņemtajiem likumprojektiem līdz ar savu atzinumu par to tālākvirzīšanu Prezidijs ziņo Saeimai, kas lemj par likumprojektu nodošanu komisijām, nosakot atbildīgo komisiju, vai par to noraidīšanu.
+(2) Deputātiem jānodrošina iespēja saņemt iesniegtos likumprojektus un Prezidija atzinumu vismaz septiņas dienas pirms Prezidija ziņojuma. Ja nepieciešams, Prezidijs šo termiņu var saīsināt.
+(3) Visi iesniegtie likumprojekti, pirmajam lasījumam izstrādātie alternatīvie likumprojekti (85. p.), izskatīšanai otrajā vai trešajā lasījumā sagatavotie likumprojekti, kā arī Prezidija un komisiju atzinumi par tiem nosūtāmi Valsts prezidentam un Ministru prezidentam.

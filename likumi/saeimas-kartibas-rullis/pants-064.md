@@ -1,0 +1,1 @@
+64. Runas laiks referentam, Ministru prezidentam un Ministru kabineta pārstāvim apspriežamajā lietā nedrīkst pārsniegt vienu stundu, bet pārējiem runātājiem - piecpadsmit minūtes, bet, runājot otro reizi, - piecas minūtes. Izņēmuma gadījumos Saeima bez debatēm lemj par runas laika pagarināšanu.
