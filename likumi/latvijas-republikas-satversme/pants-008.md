@@ -1,1 +1,1 @@
-8. Vēlēšanu tiesības ir abu dzimumu pilntiesīgiem Latvijas pilsoņiem, kuri vēlēšanu pirmajā dienā ir vecāki par 21 gadu.
+8. Tiesības vēlēt ir pilntiesīgiem Latvijas pilsoņiem, kuri vēlēšanu dienā ir sasnieguši astoņpadsmit gadu vecumu.
