@@ -20,5 +20,6 @@
 18) atlīdzība par asiņu nodošanu un cita veida donorpalīdzību;
 19) ienākumi no sava īpašuma pārdošanas, izņemot ienākumus no pārdošanai izgatavotu un iegādātu izstrādājumu pārdošanas;
 20) palīdzība, kas sniegta, pamatojoties uz arodbiedrības institūcijas lēmumu, no arodbiedrības naudas līdzekļiem, kuri veidojas no arodbiedrības biedru naudas maksājumiem un ārvalstu arodbiedrību ziedojumiem (dāvinājumiem);
-21) kompensācija naudā, ko fiziskajai personai izmaksā uzņēmumi (uzņēmējsabiedrības), pamatojoties uz nosacījumu, ka šī fiziskā persona taksācijas perioda (kalendārā gada) laikā iegādājas zināmu daudzumu preču attiecīgajā uzņēmumā (uzņēmējsabiedrībā). Šis noteikums nav piemērojams gadījumos, kad fiziskā persona nav iegādāto preču galīgais patērētājs (veic šo preču tālākpārdošanu),
+21) kompensācija naudā, ko fiziskajai personai izmaksā uzņēmumi (uzņēmējsabiedrības), pamatojoties uz nosacījumu, ka šī fiziskā persona taksācijas perioda (kalendārā gada) laikā iegādājas zināmu daudzumu preču attiecīgajā uzņēmumā (uzņēmējsabiedrībā). Šis noteikums nav piemērojams gadījumos, kad fiziskā persona nav iegādāto preču galīgais patērētājs (veic šo preču tālākpārdošanu);
+22) subsīdijas lauksaimniecības produkcijas ražotājiem.
 2. Šā panta pirmās daļas 1., 10., 14. un 16.punktā minēto ienākumu, ja tie pārsniedz attiecīgās šajos punktos noteiktās summas (normas) lielumu, pārsnieguma summa tiek aplikta ar nodokli.
