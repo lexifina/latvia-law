@@ -1,1 +1,1 @@
-6. Šā likuma 5.pantā minētās plānošanas reģionu padomes divu mēnešu laikā pēc tam, kad plānošanas reģiona robežas apstiprinātas Ministru kabinetā, izvirza savu pārstāvi darbam Nacionālajā reģionālās attīstības padomē.
+6. Šā likuma 5.pantā minētās plānošanas reģionu attīstības padomes divu mēnešu laikā pēc tam, kad plānošanas reģiona robežas apstiprinātas Ministru kabinetā, izvirza savu pārstāvi darbam Nacionālajā reģionālās attīstības padomē.

@@ -1,7 +1,6 @@
 15.pants. Nacionālā reģionālās attīstības padome
-(1) Reģionālās attīstības un teritorijas plānošanas koordinācijai valstī Ministru kabinets izveido Nacionālo reģionālās attīstības
-padomi.
-(2) Nacionālās reģionālās attīstības padomes priekšsēdētājs ir par reģionālo attīstību atbildīgais ministrs, un padomes sastāvā ir ekonomikas ministrs, finansu ministrs, labklājības ministrs, satiksmes ministrs, izglītības ministrs, zemkopības ministrs, vides aizsardzības un reģionālās attīstības ministrs un plānošanas reģionu padomju priekšsēdētāji vai viņu norīkotie pārstāvji.
+(1) Reģionālās attīstības un teritorijas plānošanas koordinācijai valstī Ministru kabinets izveido Nacionālo reģionālās attīstības padomi.
+(2) Nacionālās reģionālās attīstības padomes priekšsēdētājs ir reģionālās attīstības un pašvaldību lietu ministrs. Padomes sastāvā ir ekonomikas ministrs, finanšu ministrs, labklājības ministrs, izglītības un zinātnes ministrs, satiksmes ministrs, zemkopības ministrs, vides ministrs un plānošanas reģionu attīstības padomju priekšsēdētāji vai viņu norīkotie pārstāvji.
 (3) Nacionālās reģionālās attīstības padomes nolikumu apstiprina Ministru kabinets.
 (4) Nacionālā reģionālās attīstības padome attiecībā uz reģionālo attīstību veic šādas funkcijas:
 1) izvērtē reģionālās politikas pamatnostādnes pirms apstiprināšanas Ministru kabinetā;
