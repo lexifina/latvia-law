@@ -1,0 +1,1 @@
+2.pants. Atbildības konvencijas denonsēšana stājas spēkā 1971.gada 18.decembrī Briselē parakstītās Starptautiskās konvencijas par starptautiskā fonda nodibināšanu zaudējumu no piesārņojuma ar naftu kompensācijai 1992.gada protokola 31.pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo laikrakstā "Latvijas Vēstnesis".

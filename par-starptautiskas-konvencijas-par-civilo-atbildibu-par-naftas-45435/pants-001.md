@@ -1,0 +1,1 @@
+1.pants. Saskaņā ar 1971.gada 18.decembrī Briselē parakstītās Starptautiskās konvencijas par starptautiskā fonda nodibināšanu zaudējumu no piesārņojuma ar naftu kompensācijai 1992.gada protokola 31.pantu denonsēt 1969.gada Starptautisko konvenciju par civilo atbildību par naftas piesārņojuma radītajiem zaudējumiem (turpmāk - Atbildības konvencija).
