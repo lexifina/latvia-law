@@ -1,0 +1,7 @@
+50.pants. Īslaicīgu pakalpojumu sniegšana medicīnas, veterinārmedicīnas vai arhitektūras jomā
+(1) Ja kādā no Eiropas Savienības dalībvalstīm praktizējošs ārsts, zobārsts, māsa (medicīnas māsa), vecmāte vai veterinārārsts īslaicīgi uzturas Latvijas Republikas teritorijā un šajā laikā sniedz savai kvalifikācijai atbilstošus pakalpojumus vai arhitekts ir iesaistīts projekta realizācijā Latvijas Republikas teritorijā, šī persona laikus iesniedz šā likuma 56.pantā noteiktajai informācijas institūcijai:
+1) deklarāciju par šo pakalpojumu veikšanu, to saturu un apmēru;
+2) sertifikātu, kas apliecina, ka tā savā mītnes valstī likumīgi darbojas attiecīgajā profesijā;
+3) attiecīgi šā likuma 48. vai 49.pantā minētos dokumentus, kas apliecina tās profesionālo kvalifikāciju attiecīgajā profesionālās darbības jomā.
+(2) Informācijas institūcija sagatavo izziņu par pretendenta iesniegto profesionālo kvalifikāciju apliecinošo dokumentu atbilstību Ministru kabineta noteiktajām minimālajām prasībām attiecīgajai reglamentētajai profesijai un kopā ar pretendenta iesniegtajiem dokumentiem to nosūta šā likuma 57.pantā noteiktajai institūcijai, kas reģistrē pretendentu attiecīgajā profesiju reģistrā. Ar šo reģistrāciju tiek apliecinātas arī pretendenta tiesības sniegt īslaicīgus pakalpojumus šajā profesijā.
+(3) Veterinārārstam šā panta pirmajā daļā minētajos gadījumos nav tiesību veikt dzīvnieku pārbaudi, ja tā ir valsts veterinārās uzraudzības institūciju funkcija.

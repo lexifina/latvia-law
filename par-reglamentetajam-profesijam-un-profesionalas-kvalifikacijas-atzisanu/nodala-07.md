@@ -1,0 +1,3 @@
+VII nodaļa
+Ārvalstnieku profesionālās kvalifikācijas
+atzīšanas vispārīgie noteikumi

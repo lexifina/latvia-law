@@ -1,0 +1,3 @@
+24.pants. Prasības reglamentētajām profesijām lidostu darba jomā
+(1) Atbilstība profesionālās kvalifikācijas prasībām, kas saskaņotas ar 1944.gada Konvencijai par starptautisko civilo aviāciju atbilstošajiem personāla licencēšanas standartiem un ieteicamo praksi, ir obligāts priekšnoteikums tam, lai persona būtu tiesīga veikt darbību gaisa satiksmes vadības dispečera vai gaisakuģu tehniskās apkopes personāla profesijās.
+(2) Atbilstība profesionālās kvalifikācijas prasībām, kas saskaņotas ar Starptautiskās civilās aviācijas organizācijas (ICAO) noteiktajām prasībām, ir obligāts priekšnoteikums tam, lai persona būtu tiesīga veikt darbību starptautiskas lidostas aviodrošības dienesta darbinieka profesijā.

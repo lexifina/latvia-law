@@ -1,0 +1,2 @@
+5.pants. Reglamentēto profesiju un profesionālās specializācijas nosaukumu aizsardzība
+Šajā likumā noteikto reglamentēto profesiju un to specialitāšu, apakšspecialitāšu vai papildspecialitāšu nosaukumu izmantošana ir atļauta tikai gadījumos, kad attiecīgajai personai ir atbilstošs likumā noteikts izglītību un profesionālo kvalifikāciju apliecinošs dokuments. Šis noteikums attiecas arī uz amatu nosaukumiem, ja tie ir identiski ar šajā pantā minētajiem nosaukumiem.

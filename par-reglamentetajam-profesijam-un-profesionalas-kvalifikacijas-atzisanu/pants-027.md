@@ -1,0 +1,7 @@
+27.pants. Vispārīgās prasības veterinārārsta izglītībai
+(1) Personas tiesības veikt darbību veterinārārsta profesijā apliecina augstākās veterinārmedicīniskās izglītības diploms par akreditētas studiju programmas apguvi.
+(2) Veterinārārsta izglītības diploms apliecina, ka tā īpašnieks universitātes tipa augstskolā ir apguvis vismaz piecus gadus ilgu pilna laika studiju programmu, kura ietver teorētiskās un praktiskās zināšanas.
+(3) Veterināro studiju programmā uzņem personas ar vidējo izglītību, kas dod tiesības studēt universitātes tipa augstskolā.
+(4) Veterināro studiju programma ietver profesijai atbilstošas teorētiskās un praktiskās zināšanas tajās zinātņu nozarēs, uz kurām ir pamatota veterinārārsta darbība, zināšanas par dzīvnieku anatomiju un fizioloģiju, slimību cēloņiem, diagnostiku un ārstēšanu, par higiēnu un tehnoloģiju, kas attiecas uz cilvēku patēriņam paredzētiem dzīvnieku izcelsmes pārtikas produktiem, zināšanas par normatīvajiem dokumentiem profesionālās darbības jomā, kā arī atbilstošu klīnisko un cita veida praktisko pieredzi kvalificētu speciālistu uzraudzībā.
+(5) Praktisko izglītību var apgūt pilna laika studijās Ministru kabineta noteikto institūciju tiešā kontrolē. Kopējā piecu gadu studiju periodā praktiskās izglītības apguve nedrīkst pārsniegt sešus mēnešus.
+(6) Lai iegūtu veterinārmedicīniskās prakses tiesības, attiecīgajai personai papildus šā panta pirmajā daļā minētajam diplomam nepieciešams arī veterinārmedicīniskās prakses sertifikāts.

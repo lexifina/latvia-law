@@ -1,0 +1,2 @@
+B sadaļa
+Ārvalstnieku profesionālās kvalifikācijas atzīšana

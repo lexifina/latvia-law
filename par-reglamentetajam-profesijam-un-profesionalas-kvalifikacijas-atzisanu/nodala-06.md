@@ -1,0 +1,3 @@
+VI nodaļa
+Prasības izglītībai un profesionālajai
+kvalifikācijai pārējās reglamentētajās profesijās
