@@ -1,4 +1,4 @@
 48.pants. Dokumenti par vispārējās vidējās izglītības programmas apguvi
 (1) Par vispārējās vidējās izglītības programmas apguvi izglītojamie Ministru kabineta noteiktajā kārtībā saņem atestātu par vispārējo vidējo izglītību un sekmju izrakstu.
-(2) Ja izglītojamais nav ieguvis vērtējumu kādā no mācību priekšmetiem vai kādā no valsts pārbaudījumiem, viņam tiek izsniegta liecība.
+(2) Ja izglītojamais nav ieguvis vērtējumu kādā no mācību priekšmetiem gadā vai kādā no valsts pārbaudījumiem vai arī vairāk kā divos no tiem saņēmis vērtējumu, kas atbilstoši valsts izglītības standartā noteiktajai izglītojamā mācību sasniegumu vērtēšanas kārtībai ir zemāks par 4 ballēm, viņam tiek izsniegta liecība.
 (3) Vērtējumu mācību priekšmetos, kuros ir organizēts centralizētais eksāmens, apliecina vispārējās vidējās izglītības sertifikāts. Vispārējās vidējās izglītības sertifikātā uzrādītais vērtējums šajos mācību priekšmetos kalpo kā konkursa atlases kritērijs izglītojamo uzņemšanai augstākās pakāpes izglītības programmās.

@@ -1,4 +1,4 @@
 39.pants. Dokumenti par pamatizglītības programmas apguvi
 (1) Par vispārējās pamatizglītības programmas apguvi izglītojamie Ministru kabineta noteiktajā kārtībā saņem apliecību par vispārējo pamatizglītību un sekmju izrakstu.
 (2) Vērtējumu mācību priekšmetos, kuros ir organizēts centralizētais eksāmens, apliecina pamatizglītības sertifikāts. Pamatizglītības sertifikātā uzrādītais mācību sasniegumu vērtējums attiecīgajos mācību priekšmetos kalpo kā konkursa atlases kritērijs izglītojamo uzņemšanai vidējās pakāpes izglītības programmās, ja tajās tiek organizēti iestājpārbaudījumi.
-(3) Ja izglītojamais nav ieguvis vērtējumu kādā no mācību priekšmetiem vai kādā no valsts pārbaudījumiem, viņam tiek izsniegta liecība.
+(3) Ja izglītojamais nav ieguvis vērtējumu kādā no mācību priekšmetiem gadā vai kādā no valsts pārbaudījumiem vai arī vairāk kā trijos no tiem saņēmis vērtējumu, kas atbilstoši valsts izglītības standartā noteiktajai izglītojamā mācību sasniegumu vērtēšanas kārtībai ir zemāks par 4 ballēm, viņam tiek izsniegta liecība.
