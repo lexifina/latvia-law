@@ -7,4 +7,4 @@
 6) Rīgas pilsētas Vidzemes priekšpilsēta,
 7) Rīgas pilsētas Zemgales priekšpilsēta,
 8) Rīgas pilsētas Ziemeļu rajons,
-9) Rīgas rajons (izņemot Siguldas tiesas darbības teritoriju).
+9) Rīgas rajons.
