@@ -1,0 +1,5 @@
+83.pants. Privatizācijas pieteikuma iesniegšanas termiņi un kārtība
+(1) Pēc tam, kad zuduši dzīvojamās mājas privatizāciju kavējošie iemesli, persona, kura privatizācijas ierosinājumu iesniegusi līdz 2005.gada 31.decembrim, attiecīgo dzīvokli, mākslinieka darbnīcu vai viendzīvokļa māju privatizē šajā likumā noteiktajā kārtībā, iesniedzot privatizācijas pieteikumu ne vēlāk kā:
+1) līdz 2006.gada 1.jūlijam, ja privatizācijas komisija vai valsts aģentūra "Mājokļu aģentūra" pieņēmusi lēmumu par dzīvojamās mājas privatizācijas uzsākšanu līdz 2005.gada 31.decembrim;
+2) sešu mēnešu laikā pēc tam, kad privatizācijas komisija vai valsts aģentūra "Mājokļu aģentūra" pieņēmusi lēmumu par dzīvojamās mājas privatizācijas uzsākšanu, ja tas pieņemts pēc 2005.gada 31.decembra.
+(2) Ja privatizācijas pieteikums netiek iesniegts šā panta pirmajā daļā paredzētajos termiņos vai ir kļuvis zināms, ka objekts nav nododams privatizācijai šajā likumā noteiktajā kārtībā, reģistrētais privatizācijas ierosinājums tiek dzēsts un par to paziņo šā ierosinājuma iesniedzējam.

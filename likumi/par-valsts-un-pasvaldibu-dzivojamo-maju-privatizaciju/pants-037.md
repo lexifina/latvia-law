@@ -9,4 +9,4 @@
 7) vieta, kur iesniedzams privatizācijas pieteikums un saņemama informācija par privatizācijas objektu;
 8) privatizācijas objekta izsoles vieta un laiks.
 (2) Šā likuma 15., 16., 17., 18., 21., 22., 23. vai 24.pantā minēto privatizācijas objektu izsoles noteikumos privatizācijas komisija norāda to personu loku, kurām ir tiesības pirkt attiecīgo objektu un kurām vispirms ir tiesības piedalīties izsolē.
-(3) Šā likuma 21.panta ceturtajā daļā minētajā gadījumā publiskajā piedāvājumā norādāms zemes gabala īpašnieks un termiņš, līdz kuram šim zemes īpašniekam jāiesniedz privatizācijas pieteikums. Citas personas privatizācijas pieteikumu var iesniegt, ja noteiktajā termiņā privatizācijas pieteikumu nav iesniedzis zemes īpašnieks.
+(3) Šā likuma 21.panta septītajā daļā minētajā gadījumā publiskajā piedāvājumā norādāms zemes gabala īpašnieks un termiņš, līdz kuram šim zemes īpašniekam jāiesniedz privatizācijas pieteikums. Citas personas privatizācijas pieteikumu var iesniegt, ja noteiktajā termiņā privatizācijas pieteikumu nav iesniedzis zemes īpašnieks.

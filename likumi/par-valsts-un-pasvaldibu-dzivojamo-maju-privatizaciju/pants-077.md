@@ -1,5 +1,5 @@
-77.pants. Ierobežojumi rīcībai ar neprivatizētām dzīvojamām mājām, dzīvojamās mājās esošiem dzīvokļiem, mākslinieku darbnīcām un neapdzīvojamām telpām
+77.pants. Rīcība ar neprivatizētām dzīvojamām mājām, dzīvojamās mājās esošiem dzīvokļiem, mākslinieku darbnīcām un neapdzīvojamām telpām
 (1) Viendzīvokļa vai daudzdzīvokļu mājas, kā arī dzīvojamās mājās esošus dzīvokļus, mākslinieku darbnīcas un neapdzīvojamās telpas, kuras piedāvātas privatizācijai un par kuru privatizēšanu līdz privatizācijas sertifikātu lietošanas termiņa beigām nav noslēgti pirkuma līgumi vai arī kuras nav nodotas īpašumā līdz dzīvojamās mājas privatizācijai, var atsavināt saskaņā ar likumu "Par valsts un pašvaldību mantas atsavināšanas kārtību" un šajā pantā noteikto kārtību.
-(2) Atsavināmo dzīvokli, mākslinieka darbnīcu vai viendzīvokļa māju vispirms piedāvā pirkt dzīvokļa vai viendzīvokļa mājas īrniekam un viņa ģimenes locekļiem vai arī mākslinieka darbnīcas nomniekam. Piekrišana pirkšanai iesniedzama mēneša laikā no piedāvājuma izsūtīšanas dienas.
-(3) Izīrētu dzīvokli, izīrētu viendzīvokļa māju vai iznomātu mākslinieka darbnīcu var atsavināt citām personām tikai tad, ja ir saņemta īrnieka un viņa pilngadīgo ģimenes locekļu vai arī mākslinieka darbnīcas nomnieka rakstveida piekrišana.
-(4) Atsavināšanai paredzēto dzīvojamās mājās esošo dzīvokļu, mākslinieku darbnīcu un neapdzīvojamo telpu un neprivatizēto dzīvojamo māju novērtēšanu organizē šajā likumā noteiktajā kārtībā.
+(2) (Izslēgta ar 07.04.2004. likumu.)
+(3) Izīrētu dzīvokli vai izīrētu viendzīvokļa māju var atsavināt citām personām tikai tad, ja ir saņemta īrnieka un viņa pilngadīgo ģimenes locekļu rakstveida piekrišana.
+(4) (Izslēgta ar 07.04.2004. likumu.)

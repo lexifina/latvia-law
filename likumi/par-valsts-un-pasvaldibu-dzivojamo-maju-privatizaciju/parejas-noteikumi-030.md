@@ -1,0 +1,1 @@
+30. No 2006.gada 1.janvāra dzīvojamās mājas un tajās esošie privatizācijas objekti tiek atsavināti Valsts un pašvaldību mantas atsavināšanas likumā noteiktajā kārtībā, izņemot šā likuma 83.pantā paredzētos gadījumus.

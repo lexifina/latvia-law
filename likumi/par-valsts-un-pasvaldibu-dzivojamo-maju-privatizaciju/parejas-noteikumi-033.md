@@ -1,0 +1,1 @@
+33. Valsts vai pašvaldības īpašumā esoša zemes gabala privatizācija, kas uzsākta līdz 2004.gada 1.jūlijam saskaņā ar šo pārejas noteikumu 27.punkta noteikumiem, tiek pabeigta atbilstoši minētajiem noteikumiem.

@@ -4,16 +4,17 @@
 2) (izslēgts ar 20.11.2003. likumu);
 3) izstrādāt privatizācijas nodrošināšanai nepieciešamo normatīvo aktu projektus;
 4) sniegt bezmaksas konsultācijas;
-5) ne retāk kā reizi ceturksnī sniegt pārskatu Ministru kabinetam par privatizācijas norisi;
+5) ne retāk kā reizi pusgadā sniegt pārskatu Ministru kabinetam par privatizācijas norisi;
 6) nodot valsts daudzdzīvokļu mājās esošos dzīvokļus, mākslinieku darbnīcas un neapdzīvojamās telpas īpašumā līdz dzīvojamās mājas privatizācijai;
 7) izstrādāt normatīvo aktu projektus par valsts dzīvojamo māju nodošanu pašvaldībām un par dzīvojamo māju saglabāšanu valsts īpašumā;
 8) koordinēt valsts dzīvojamo māju nodošanu pašvaldībām;
 9) veikt valsts dzīvojamo māju privatizāciju;
 10) nodot valsts dzīvojamās mājās esošos neprivatizētos dzīvokļus, mākslinieku darbnīcas, neapdzīvojamās telpas un neprivatizētās valsts dzīvojamās mājas pašvaldībām;
-11) veidot un uzturēt dzīvojamo māju privatizācijas elektronisko datu bāzi, nodrošinot bezmaksas sadarbību ar citām valsts informācijas sistēmām;
+11) uzturēt, aktualizēt un pilnveidot dzīvojamo māju privatizācijas elektronisko datu bāzi, nodrošinot bezmaksas sadarbību ar citu valsts un pašvaldību institūciju informācijas sistēmām (reģistriem), un uz tās pamata Ministru kabineta noteiktajā kārtībā izveidot, uzturēt un attīstīt situācijas novērošanas, analīzes, prognozēšanas un kontroles informācijas sistēmu un datu bāzi mājokļu jomā (mājokļu monitoringa sistēmu);
 12) apkopot un uzturēt informāciju par valsts un pašvaldību dzīvojamo māju nodošanu dzīvokļu īpašnieku pārvaldīšanā un apsaimniekošanā;
 13) veikt dzīvojamās mājās esošo valsts daļu pārvaldīšanas un apsaimniekošanas uzraudzību;
-14) pārvaldīt tās valdījumā esošās valsts dzīvojamās mājas līdz to nodošanai dzīvokļu īpašnieku pārvaldīšanā un apsaimniekošanā, ievērojot Civillikuma un citu likumu noteikumus.
+14) pārvaldīt tās valdījumā esošās valsts dzīvojamās mājas līdz to nodošanai dzīvokļu īpašnieku pārvaldīšanā un apsaimniekošanā, ievērojot Civillikuma un citu likumu noteikumus;
+15) izstrādāt un likumos noteiktajā kārtībā saskaņot namu pārvaldnieku izglītības programmu paraugus namu pārvaldīšanas un apsaimniekošanas jomā.
 (2) Valsts aģentūrai "Mājokļu aģentūra" ir tiesības:
 1) (izslēgts ar 20.11.2003. likumu);
 2) (izslēgts ar 20.11.2003. likumu);
