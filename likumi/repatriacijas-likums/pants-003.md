@@ -1,5 +1,5 @@
 3.pants. Repatrianta ģimenes locekļi
-(1) Tiesības iebraukt Latvijā kopā ar repatriantu ir:
+(1) Tiesības ieceļot Latvijā kopā ar repatriantu ir šādiem viņa ģimenes locekļiem:
 1) repatrianta laulātajam;
 2) repatrianta un viņa laulātā nepilngadīgajiem un apgādībā esošajiem bērniem (arī adoptētajiem);
 3) repatrianta vecākiem, kuri ir viņa apgādībā.

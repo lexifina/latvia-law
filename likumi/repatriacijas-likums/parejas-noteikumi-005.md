@@ -1,0 +1,1 @@
+5. Pieteikumi par repatrianta statusa piešķiršanu, uzturēšanās atļaujas un materiālās palīdzības saņemšanu, kā arī pieteikumi palīdzības saņemšanai sociālo jautājumu risināšanā, kuri iesniegti līdz 2002.gada 1.novembrim un par kuriem nav pieņemts lēmums, izskatāmi šajā likumā noteiktajā kārtībā.

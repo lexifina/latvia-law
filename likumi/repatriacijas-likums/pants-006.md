@@ -1,11 +1,10 @@
-6.pants. Repatriācijas centra izveidošana un tā funkcijas
-(1) Praktiskai repatriācijas veikšanai Iekšlietu ministrijas Pilsonības un migrācijas lietu pārvaldes (turpmāk - Pilsonības un migrācijas lietu pārvalde) sastāvā izveido Repatriācijas centru.
-(2) Repatriācijas centrs strādā saskaņā ar iekšlietu ministra apstiprinātu nolikumu.
-(3) Repatriācijas centru finansē no valsts budžeta.
-(4) Repatriācijas centrs veic šādas funkcijas:
-1) izveido repatriantu datu bāzi;
-2) nodrošina repatriantus ar informāciju par nepieciešamajiem dokumentiem un to iesniegšanas kārtību, par iespējām apgūt piemērotu profesiju, iegūt izglītību un pilnveidot latviešu valodas prasmi, saņemt medicīnisko aprūpi, risināt dzīvokļa jautājumu, atrast piemērotu darbu, par tiesībām uz pensijām un pabalstiem un citiem jautājumiem;
-3) pieņem repatriācijas dokumentus, lemj par atļaujas izsniegšanu iebraukšanai Latvijā un repatrianta statusa piešķiršanu un izsniedz dokumentus, kas apliecina repatrianta statusu;
-4) (izslēgts ar 11.03.1999. likumu);
-5) veic ar repatriantu integrāciju saistītos pasākumus;
-6) veic to personu uzskaiti un kontroli, kuras vēlas izceļot no Latvijas, kā arī uz kompetentu institūciju sniegto ziņu pamata pieņem galīgo lēmumu par to, ka nav šķēršļu personas izbraukšanai no valsts.
+6.pants. Pilsonības un migrācijas lietu pārvaldes funkcijas repatriācijas un izceļošanas jautājumos
+Pilsonības un migrācijas lietu pārvalde (turpmāk - Pārvalde):
+1) veic repatriantu uzskaiti;
+2) informē repatriantus par dokumentiem, kas nepieciešami repatrianta statusa iegūšanai, un to iesniegšanas kārtību;
+3) informē repatriantus par viņu sociālajām tiesībām un garantijām;
+4) izskata repatriācijas dokumentus un pieņem lēmumu par repatrianta statusa piešķiršanu vai lēmumu par atteikumu piešķirt personai repatrianta statusu, izsniedz repatrianta statusu apliecinošu dokumentu;
+5) pieņem lēmumu par repatrianta statusa zaudēšanu šajā likumā noteiktajos gadījumos;
+6) pieņem lēmumu par uzturēšanās atļaujas izsniegšanu repatriantam, kurš nav Latvijas pilsonis, un viņa ģimenes locekļiem, kā arī lēmumu par šīs atļaujas anulēšanu;
+7) veic ar repatriantu integrāciju saistītos pasākumus;
+8) veic to personu uzskaiti, kuras vēlas izceļot un kuras izceļo no Latvijas, kā arī uz kompetentu institūciju sniegto ziņu pamata pieņem lēmumu par to, ka nav šķēršļu personas izceļošanai no valsts.

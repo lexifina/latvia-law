@@ -6,5 +6,5 @@ Ministru kabinets:
 4) nosaka Repatriācijas fonda līdzekļu pārvaldīšanas un izlietošanas kārtību;
 5) nosaka repatriantam izsniedzamo pabalstu piešķiršanas un aprēķināšanas kārtību;
 6) izstrādā repatriācijas programmu;
-7) izstrādā repatriācijas vajadzībām nepieciešamo ikgadējo budžeta līdzekļu pieprasījuma projektu;
+7) izstrādā repatriācijas vajadzībām, tajā skaitā repatriantu integrācijai, nepieciešamo ikgadējo budžeta līdzekļu pieprasījuma projektu;
 8) apstiprina ikgadējās kvotas attiecībā uz repatriantu nodrošināšanu ar dzīvojamo platību, kā arī materiālās palīdzības sniegšanu repatriantiem.

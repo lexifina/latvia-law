@@ -1,5 +1,5 @@
 7.pants. Repatriācijas fonds
-(1) Repatriācijas fonda līdzekļu turētājs ir Repatriācijas centrs.
+(1) Repatriācijas fonda līdzekļu turētājs ir Pārvalde.
 (2) Repatriācijas fonda līdzekļus veido:
 1) valsts budžeta līdzekļi;
 2) juridisko vai fizisko personu ziedojumi, arī citu valstu un starptautisko organizāciju ziedojumi, tajā skaitā mērķa ziedojumi, kuri tiek izmantoti saskaņā ar ziedotāja norādījumiem;
