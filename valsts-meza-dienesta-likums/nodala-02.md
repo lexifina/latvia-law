@@ -1,2 +1,2 @@
 II nodaļa
-Dienesta amatpersonas, to pienākumi un tiesības
+Dienesta amatpersonu tiesības un tiesiskā aizsardzība

@@ -1,5 +1,5 @@
 12.pants. Dienesta nodrošinājums
-(1) Dienesta finansu līdzekļus veido:
+(1) Dienesta finanšu līdzekļus veido:
 1) dotācija no valsts budžeta vispārējiem ieņēmumiem;
 2) ieņēmumi par Dienesta sniegtajiem maksas pakalpojumiem.
 (2) Savu uzdevumu veikšanai Dienests tiek nodrošināts ar nepieciešamajiem tehniskajiem līdzekļiem (transports, sakari), bet Dienesta amatpersonas - ar dienesta šaujamieroci.
