@@ -1,0 +1,1 @@
+1.pants. 1996.gada 23.maijā Taškentā parakstītais Latvijas Republikas valdības un Uzbekistānas Republikas valdības nolīgums par automobiļu starptautisko satiksmi (turpmāk - Nolīgums) un tā Izpildes protokols (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.
