@@ -1,0 +1,1 @@
+1. pants. 2000.gada 29.decembrī Varšavā parakstītais Latvijas Republikas un Polijas Republikas brīvās tirdzniecības līguma Apvienotās komitejas lēmums Nr. 1/2000 "Par grozījumiem Latvijas Republikas un Polijas Republikas brīvās tirdzniecības līguma 3.protokolā par preču izcelsmes noteikumiem" (turpmāk - Lēmums) ar šo likumu tiek pieņemts un apstiprināts.
