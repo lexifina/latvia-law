@@ -4,5 +4,6 @@
 1) izskata aktuālus tiesu prakses jautājumus;
 2) iesniedz Augstākās Tiesas priekšsēdētājam iesniegumus par jautājumiem, kuros Augstākās Tiesas plēnumam būtu jādod izskaidrojumi, kā piemērojami likumdošanas akti;
 3) apspriež materiālās un sociālās nodrošināšanas un citus būtiskus tiesnešu darba jautājumus;
-4) ievēlē rajonu (pilsētu) tiesu, apgabaltiesu un zemesgrāmatu nodaļu tiesnešu kvalifikācijas kolēģijas.
+4) aizklāti balsojot, ievēlē tiesnešu kvalifikācijas kolēģiju un tās priekšsēdētāju;
+5) ievēlē tiesnešu disciplinārkolēģiju.
 (3) Nekustamo īpašumu reģistrēšanas un ar tiem saistīto tiesību nostiprināšanas prakses aktuālu jautājumu izskatīšanai var sasaukt zemesgrāmatu nodaļu tiesnešu konferenci.

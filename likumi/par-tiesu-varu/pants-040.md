@@ -1,5 +1,5 @@
 40. pants. Apgabaltiesas priekšsēdētājs
-(1) Apgabaltiesas priekšsēdētaju no šīs tiesas tiesnešu vidus ieceļ Saeima uz pieciem gadiem pēc tieslietu ministra un Augstākās tiesas priekšsēdētāja kopīga priekšlikuma.
+(1) Apgabaltiesas priekšsēdētāju no šīs tiesas tiesnešu vidus ieceļ Saeima uz pieciem gadiem pēc tieslietu ministra un Augstākās tiesas priekšsēdētāja kopīga priekšlikuma, pamatojoties uz tiesnešu kvalifikācijas kolēģijas atzinumu. Apgabaltiesas priekšsēdētāju atbrīvo no amata pēc paša lūguma Saeima. Apgabaltiesas priekšsēdētāju atceļ no amata Saeima pēc tieslietu ministra vai Augstākās tiesas priekšsēdētāja priekšlikuma, pamatojoties uz tiesnešu disciplinārkolēģijas atzinumu.
 (2) Apgabaltiesas priekšsēdētājs:
 1) vada un kontrolē tiesas darbu;
 2) sadala pienākumus starp saviem vietniekiem un citiem tiesnešiem;

@@ -1,5 +1,4 @@
 60. pants. Rajona (pilsētas) tiesas tiesneša iecelšanas un apstiprināšanas kārtība
-(1) Rajona (pilsētas) tiesas tiesnesi pēc tieslietu ministra ieteikuma ieceļ amatā Saeima uz diviem gadiem.
-(2} Pēc divu gadu darba rajona (pilsētas) tiesas tiesnesi apstiprina amatā Saeima bez pilnvaru termiņa ierobežojuma.
-(3) Ja šajā laikā tiesneša darbība ir neapmierinoša, tieslietu ministrs pēc attiecīgās tiesnešu kvalifikācijas kolēģijas atzinuma šādu tiesnesi neizvirza apstiprināšanai.
-(4) Administratīvos tiesnešus pēc tieslietu ministra ieteikuma ieceļ amatā Saeima uz pieciem gadiem.
+(1) Rajona (pilsētas) tiesas tiesnesi pēc tieslietu ministra priekšlikuma ieceļ amatā Saeima uz trim gadiem.
+(2) Pēc trim amatā nostrādātiem gadiem rajona (pilsētas) tiesas tiesnesi Saeima pēc tieslietu ministra priekšlikuma, pamatojoties uz tiesnešu kvalifikācijas kolēģijas atzinumu, apstiprina amatā bez pilnvaru termiņa ierobežojuma vai ieceļ amatā atkārtoti uz laiku līdz diviem gadiem. Pēc atkārtotā pilnvaru termiņa izbeigšanās rajona (pilsētas) tiesas tiesnesi Saeima pēc tieslietu ministra priekšlikuma apstiprina amatā bez pilnvaru termiņa ierobežojuma.
+(3) Ja tiesneša darbība ir neapmierinoša, tieslietu ministrs saskaņā ar tiesnešu kvalifikācijas kolēģijas atzinumu tiesneša kandidatūru atkārtotai iecelšanai vai apstiprināšanai amatā neizvirza.
