@@ -1,0 +1,1 @@
+1. pants. 1973. gada 1. martā Ženēvā parakstītā Konvencija par pasažieru un bagāžas starptautisko autopārvadājumu līgumu (CVR) un šīs konvencijas 1978. gada 5. jūlija protokols ar šo likumu pieņemti un apstiprināti.
