@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Darba aizsardzības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "105",
+  "official_journal_page": null,
+  "official_journal_date": "2001-07-06",
+  "entry_into_force": "2002-01-01",
+  "notification_date": "2010-12-30",
+  "commission_reference": "MNE(2010)58149",
+  "nim_celex": "71989L0391LVA_175227",
+  "nim_id": "175227",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/354d17b4-3d40-4e96-811a-e9f697c00f7f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
