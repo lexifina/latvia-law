@@ -6,4 +6,4 @@
 3) maksa par neapdzīvojamās telpas novērtēšanu.
 (3) Neapdzīvojamās telpas nomnieks pirkuma maksu var maksāt pa daļām, izdarot periodiskus maksājumus ne ilgāk kā piecu gadu laikā.
 (4) Pirkuma maksas nodrošināšanai valstij vai pašvaldībai par labu ar šo likumu tiek piešķirtas ķīlas tiesības uz neapdzīvojamām telpām, kuras nodotas īpašumā līdz dzīvojamās mājas privatizācijai. Reģistrējot neapdzīvojamo telpu Valsts zemes dienesta Kadastra reģistrā (turpmāk - Kadastra reģistrs), vienlaikus nostiprināmas ķīlas tiesības valsts vai pašvaldības labā nenomaksātās summas apmērā.
-(5) Līdzekļi, kas iegūti, nododot neapdzīvojamās telpas īpašumā līdz dzīvojamās mājas privatizācijai, ieskaitāmi privatizācijas fondos šā likuma 67.pantā noteiktajā kārtībā, izņemot maksu par neapdzīvojamās telpas novērtēšanu, kuru nomnieks ieskaita attiecīgās privatizācijas komisijas norādītajā kontā.
+(5) Līdzekļi, kas iegūti, nododot neapdzīvojamās telpas īpašumā līdz dzīvojamās mājas privatizācijai, izlietojami šā likuma 67.pantā noteiktajā kārtībā, izņemot maksu par neapdzīvojamās telpas novērtēšanu, kuru nomnieks ieskaita attiecīgās privatizācijas komisijas norādītajā kontā.
