@@ -1,0 +1,1 @@
+1.pants. 1999.gada 10.maijā Prāgā parakstītais Latvijas Republikas valdības un Čehijas Republikas valdības nolīgums par gaisa satiksmi (turpmāk - Nolīgums) un tā pielikums (turpmāk - Pielikums) ar šo likumu tiek pieņemti un apstiprināti.
