@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums Par ietekmes uz vidi novērtējumu",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "322/325 (1383/1386)",
+  "official_journal_page": null,
+  "official_journal_date": "1998-10-30",
+  "entry_into_force": "1998-11-13",
+  "notification_date": "2017-05-23",
+  "commission_reference": "MNE(2017)52727",
+  "nim_celex": "72014L0052LVA_247801",
+  "nim_id": "247801",
+  "transposes_celex": [
+    "32014L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e8e1dfcd-ffb4-4700-b0a9-c46dd759bc02",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
