@@ -1,14 +1,14 @@
 7.pants. Augu aizsardzības līdzekļi
-(1) Latvijā drīkst ievest, izplatīt un lietot tikai augu aizsardzības līdzekļu reģistrā iekļautos augu aizsardzības līdzekļus. Šī kārtība neattiecas uz augu aizsardzības līdzekļiem, kas paredzēti:
-1) izvešanai vai atrodas muitas kontrolē kā ārvalstu prece;
-2) izmantošanai par griezto dekoratīvo augu augšanas regulatoriem;
-3) koksnes antiseptiskai apstrādei.
-(2) Nereģistrētos augu aizsardzības līdzekļus ar Valsts augu aizsardzības dienesta atļauju var ievest un izmantot:
-1) pētījumiem un izmēģinājumiem;
-2) ja ir apdraudēta konkrētu kaitīgo organismu apkarošana, ko nevar veikt ar reģistrētajiem augu aizsardzības līdzekļiem.
-(3) Augu aizsardzības līdzekļus iedala trijās reģistrācijas klasēs:
+(1) Latvijā atļauts izplatīt vai lietot reģistrētus augu aizsardzības līdzekļus.
+(2) Iesniegumu augu aizsardzības līdzekļa iekļaušanai reģistrā iesniedz persona, kura ir atbildīga par augu aizsardzības līdzekļa pirmreizēju izplatīšanu Latvijā, vai tās pilnvarota persona (turpmāk - reģistrācijas pieteicējs). Reģistrācijas pieteicējam ir juridiskā adrese Eiropas Savienības teritorijā.
+(3) Lēmumu par augu aizsardzības līdzekļa iekļaušanu reģistrā Valsts augu aizsardzības dienests pieņem viena gada laikā no dienas, kad reģistrācijas pieteicējs iesniedzis dokumentus, kas nodrošina augu aizsardzības līdzekļa novērtējuma sagatavošanu.
+(4) Nereģistrētus augu aizsardzības līdzekļus, kas paredzēti izplatīšanai vai lietošanai kādā no Eiropas Savienības dalībvalstīm vai izvešanai ārpus Eiropas Savienības teritorijas, drīkst ievest, ražot, uzglabāt vai pārvadāt kārtībā, kādu Ministru kabinets noteicis augu aizsardzības līdzekļu izplatīšanai.
+(5) Augu aizsardzības līdzekļus iekļauj reģistrā uz desmit gadiem. Lai nodrošinātu iespēju pakāpeniski novērtēt jauno darbīgo vielu īpašības un paātrinātu jaunas darbīgās vielas saturošu augu aizsardzības līdzekļu pieejamību lietotājiem, Valsts augu aizsardzības dienests var iekļaut augu aizsardzības līdzekli reģistrā uz laiku līdz trim gadiem normatīvajos aktos par augu aizsardzības līdzekļu reģistrāciju noteiktajā kārtībā.
+(6) Zinātniskus pētījumus un augu aizsardzības līdzekļu pilnveidošanai paredzētus eksperimentus un izmēģinājumus, kas saistīti ar reģistrā neesošu augu aizsardzības līdzekļu izplatīšanu un lietošanu vidē, atļauts veikt tikai tad, ja saņemta Valsts augu aizsardzības dienesta atļauja pētījumu un eksperimentu veikšanai. Šos augu aizsardzības līdzekļus atļauts lietot tikai kontrolējamos apstākļos, ierobežotā daudzumā un ierobežotās platībās. Ģenētiski modificētus organismus saturošo augu aizsardzības līdzekļu izplatīšanai vidē nepieciešama arī atļauja, ko izsniedz saskaņā ar normatīvajiem aktiem par ģenētiski modificēto organismu izmantošanu un izplatīšanu.
+(7) Ja konkrēta kaitīgā organisma izplatība nenovēršami apdraud kultūraugus un šo kaitīgo organismu nav iespējams apkarot ar reģistrā esošajiem augu aizsardzības līdzekļiem vai citiem augu aizsardzības pasākumiem, Valsts augu aizsardzības dienests uz laiku līdz 120 dienām saskaņā ar normatīvajiem aktiem par augu aizsardzības līdzekļu reģistrāciju var izsniegt atļauju tādu augu aizsardzības līdzekļu ierobežotai izplatīšanai un lietošanai (kontrolējamos apstākļos), kas neatbilst reģistrācijas nosacījumiem.
+(8) Iekļaujot reģistrā augu aizsardzības līdzekļus, tiem nosaka šādas reģistrācijas klases:
 1) pirmā klase - augu aizsardzības līdzekļi, kurus lieto augu aizsardzības speciālista vadībā;
 2) otrā klase - augu aizsardzības līdzekļi, kurus drīkst lietot personas, kas saņēmušas apliecību par augu aizsardzības zināšanu minimuma apgūšanu;
 3) trešā klase - augu aizsardzības līdzekļi, kurus drīkst lietot visas personas.
-(4) Sēklas un substrātus, kuru sastāvā ir augu aizsardzības līdzekļi vai uz kuriem tie nokļuvuši, drīkst ievest un realizēt, ja šie līdzekļi ir reģistrēti vai arī ja darbīgā viela vai tās iedarbība atbilst kādam no reģistrēto augu aizsardzības līdzekļu veidiem. Augu aizsardzības līdzekļa vai darbīgās vielas nosaukumu norāda uz sēklu un substrātu iesaiņojuma.
-(5) Valsts augu aizsardzības dienests nodrošina iespēju visām ieinteresētajām personām saņemt informāciju par augu aizsardzības līdzekļu reģistru un tajā iekļauto līdzekļu lietošanu, kā arī reizi gadā izdod reģistrēto augu aizsardzības līdzekļu sarakstu.
+(9) Sēklas un substrātus, kuru sastāvā ir augu aizsardzības līdzekļi vai uz kuriem tie nokļuvuši, drīkst ievest un izplatīt, ja šie līdzekļi ir iekļauti reģistrā vai reģistrēti kādā no Eiropas Savienības dalībvalstīm. Darbīgās vielas nosaukumu un devu norāda uz sēklu un substrātu iepakojuma.
+(10) Valsts augu aizsardzības dienests nodrošina iespēju visām ieinteresētajām personām saņemt informāciju par augu aizsardzības līdzekļu reģistru un tajā iekļauto līdzekļu lietošanu, kā arī reizi gadā izdod reģistrēto augu aizsardzības līdzekļu sarakstu.

@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no direktīvām 91/414/EEC, 95/44/EEC, 2000/29/EC, 93/71/EEC, 92/90/EEC, 92/105/EEC, 92/76/EEC, 94/3/EC, 93/51/EEC, 98/22/EEC, 79/117/EEC, 2001/60/EC, 2002/89/EC, 2003/82/EC.

@@ -1,1 +1,0 @@
-4. Augu aizsardzības līdzekļu lietotājiem un konsultantiem izsniegtās apliecības par tiesībām iegādāties un lietot augu aizsardzības līdzekļus vai sniegt konsultācijas ir spēkā līdz tajās noteiktā derīguma termiņa beigām.
