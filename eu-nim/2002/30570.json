@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Izglītības programmu minimālās prasības ārsta profesionālās kvalifikācijas iegūšanai",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "109",
+  "official_journal_page": null,
+  "official_journal_date": "2002-07-26",
+  "entry_into_force": "2002-07-27",
+  "notification_date": "2004-08-25",
+  "commission_reference": "MNE(2004)50570",
+  "nim_celex": "71993L0016LVA_30570",
+  "nim_id": "30570",
+  "transposes_celex": [
+    "31993L0016"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/74dc3272-7e81-4ca9-a193-4be0ef997acf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
