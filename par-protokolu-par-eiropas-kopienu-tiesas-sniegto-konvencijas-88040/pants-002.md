@@ -1,0 +1,1 @@
+2.pants. Konvencijas par Eiropas Kopienu finanšu interešu aizsardzību Otrais protokols, kas izstrādāts, pamatojoties uz Līguma par Eiropas Savienību K 3.pantu (turpmāk - Otrais protokols), Kopējā deklarācija par Otrā protokola 13.panta 2.daļu un Komisijas deklarācija par Otrā protokola 7.pantu (turpmāk - Otrā protokola deklarācijas) ar šo likumu tiek pieņemta un apstiprināta.
