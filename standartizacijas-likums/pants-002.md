@@ -1,0 +1,1 @@
+2.pants. Standartizācija ir darbību kopums, kuru mērķis ir noteikt vispārīgus un daudzkārt piemērojamus principus esošo vai perspektīvo uzdevumu risināšanai un tādējādi radīt nosacījumus optimālai sakārtotībai noteiktā jomā.
