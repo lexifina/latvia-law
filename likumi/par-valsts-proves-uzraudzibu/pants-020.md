@@ -2,6 +2,6 @@
 1) lai veiktu pārbaudes šajā likumā noteiktās kompetences ietvaros, uzrādot dienesta apliecību, brīvi apmeklēt Latvijas Republikas teritorijā esošās ražošanas, tirdzniecības un citas nedzīvojamās telpas, kas pieder vai ir iznomātas juridiskajām vai fiziskajām personām, kuras veic operācijas ar dārgmetāliem, dārgakmeņiem un to izstrādājumiem;
 2) veikt dārgmetālu un to izstrādājumu pārbaudes un analīzes;
 3) pieprasīt un saņemt no pārbaudāmajiem uzņēmumiem, uzņēmējsabiedrībām, iestādēm un organizācijām visu ar dārgmetālu, dārgakmeņu un to izstrādājumu saņemšanu, izlietošanu, realizāciju, uzskaiti un glabāšanu saistīto dokumentāciju, kā arī izziņas un paskaidrojumus par jautājumiem, kas radušies pārbaudes procesā;
-4) sastādīt aktus par pārbaužu laikā konstatētajiem pārkāpumiem un nelikumīgajām darbībām operācijās ar dārgmetāliem, dārgakmeņiem un to izstrādājumiem;
+4) sastādīt aktus par pārbaužu laikā konstatētajiem pārkāpumiem un nelikumīgajām darbībām operācijās ar dārgmetāliem, dārgakmeņiem un to izstrādājumiem, kā arī atbilstoši savai kompetencei uzlikt likumos noteiktos sodus;
 5) dot kontrolēto uzņēmumu, uzņēmējsabiedrību, iestāžu un organizāciju vadītājiem obligāti izpildāmus norādījumus noteiktā termiņā novērst atklātos trūkumus un pārkāpumus, kā arī apturēt operācijas ar dārgmetāliem, dārgakmeņiem un to izstrādājumiem līdz pārkāpumu novēršanai. Operāciju apturēšanas kārtību nosaka likums "Par uzņēmumu, iestāžu un organizāciju darbības apturēšanas kārtību";
 6) iesniegt inspekcijas priekšniekam materiālus par konstatētajiem likuma pārkāpumiem.
