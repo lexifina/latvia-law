@@ -11,7 +11,7 @@
 4) kura ir vai ir bijusi PSRS, Latvijas PSR vai kādas ārvalsts, kas nav Eiropas Savienības vai Ziemeļatlantijas līguma organizācijas dalībvalsts, drošības dienesta (izlūkdienesta vai pretizlūkošanas dienesta) štata vai ārštata darbinieks, aģents, rezidents vai konspiratīvā dzīvokļa turētājs;
 5) kura pēc 1991.gada 13.janvāra darbojusies PSKP (LKP), Latvijas PSR Darbaļaužu internacionālajā frontē, Darba kolektīvu apvienotajā padomē, Kara un darba veterānu organizācijā vai Vislatvijas sabiedrības glābšanas komitejā;
 6) par kuru pārbaudes gaitā ir konstatēti fakti, kas dod pamatu apšaubīt tās uzticamību un spēju saglabāt valsts noslēpumu;
-7) kura ir medicīnas iestāžu uzskaitē sakarā ar alkoholismu, toksikomāniju, narkomāniju vai gara slimību;
+7) kura ir ārstniecības iestāžu uzskaitē sakarā ar alkohola, narkotisko, psihotropo vai toksisko vielu atkarību vai gara slimību;
 8) (izslēgts ar 18.12.2003. likumu).
 (3¹) (Izslēgta ar 18.12.2003. likumu.)
 (4) Pamatojoties uz valsts noslēpuma subjekta priekšlikumu, Satversmes aizsardzības biroja direktors pēc pārbaudes izdarīšanas var atļaut pieeju valsts noslēpumam atsevišķām personām, kurām to ierobežo šā panta trešās daļas 3.punkta nosacījumi, ja nav izdarīts smags vai sevišķi smags noziegums un sodāmība ir dzēsta vai noņemta.

@@ -12,7 +12,7 @@
 8) valsts kontrolierim;
 9) Nacionālo bruņoto spēku virspavēlniekam un komandierim;
 10) Zemessardzes komandierim;
-11) Satversmes aizsardzības biroja direktoram, Militārās pretizlūkošanas dienesta priekšniekam, Drošības policijas priekšniekam;
+11) Satversmes aizsardzības biroja direktoram, Militārās izlūkošanas un drošības dienesta priekšniekam, Drošības policijas priekšniekam;
 12) Latvijas Bankas prezidentam.
 (4) Pieeja valsts noslēpumam un tiesības to izmantot savu pienākumu veikšanai ir Saeimas ieceltajām parlamentārās izmeklēšanas komisijām.
 (5) Pieeja valsts noslēpumam un tiesības to izmantot savas kompetences ietvaros ir kriminālprocesa virzītājam (izziņas izdarītājam, prokuroram, tiesnesim), veicot pirmstiesas izmeklēšanu un tiesvedību konkrētā krimināllietā, kas saistīta ar valsts noslēpumu. Personas, kuras piedalās šādas lietas izmeklēšanas un tiesvedības procesā un kurām ir tiesības iepazīties ar visiem lietas materiāliem, tiek rakstveidā brīdinātas par pienākumu glabāt valsts noslēpumu un par atbildību, kas paredzēta par valsts noslēpuma nelikumīgu izpaušanu. Šāda kārtība attiecināma arī uz personām, kuras piedalās tiesvedības procesā civillietā, ja tā ir saistīta ar valsts noslēpumu.
