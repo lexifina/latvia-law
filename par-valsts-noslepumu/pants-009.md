@@ -7,7 +7,7 @@
 (3) Pieeja valsts noslēpumam tiek liegta personai:
 1) kura iesniegusi atteikumu no Latvijas pilsonības;
 2) kuras rīcībspēja ir ierobežota likumā noteiktajā kārtībā;
-3) kura saukta pie kriminālatbildības un bijusi sodīta par tīšu noziegumu, izņemot gadījumu, ja tā ir reabilitēta;
+3) kura saukta pie kriminālatbildības un bijusi notiesāta par tīšu noziedzīgu nodarījumu, kā arī par valsts noslēpuma izpaušanu aiz neuzmanības, izņemot gadījumu, ja persona reabilitēta;
 4) kura ir vai ir bijusi PSRS, Latvijas PSR vai kādas ārvalsts drošības dienesta (izlūkdienesta vai pretizlūkošanas dienesta) štata vai ārštata darbinieks, aģents, rezidents vai konspiratīvā dzīvokļa turētājs;
 5) kura pēc 1991.gada 13.janvāra darbojusies PSKP (LKP), Latvijas PSR Darbaļaužu internacionālajā frontē, Darba kolektīvu apvienotajā padomē, Kara un darba veterānu organizācijā vai Vislatvijas sabiedrības glābšanas komitejā;
 6) kura ir medicīnas iestāžu uzskaitē sakarā ar alkoholismu, toksikomāniju, narkomāniju vai gara slimību vai kuras personiskās un profesionālās īpašības pamatoti liek apšaubīt tās spēju ievērot slepenības režīma prasības;
