@@ -1,0 +1,1 @@
+1.pants. 1997.gada 10.februārī Varšavā parakstītā Vienošanās starp Latvijas Republiku un Polijas Republiku par 1922.-1938.gados noslēgtajiem divpusējiem līgumiem (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.
