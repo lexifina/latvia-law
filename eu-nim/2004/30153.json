@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Akcīzes preču aprites kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "59",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-15",
+  "entry_into_force": "2004-04-16",
+  "notification_date": "2004-07-28",
+  "commission_reference": "MNE(2004)50153",
+  "nim_celex": "71985L0347LVA_30153",
+  "nim_id": "30153",
+  "transposes_celex": [
+    "31985L0347"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/febfdb7b-e656-4e5e-9881-34c7e54fddfa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
