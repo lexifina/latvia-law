@@ -1,1 +1,2 @@
-127.pants. Pieteikumu tiesā par kredītiestādes atzīšanu par bankrotējušu var iesniegt Latvijas Banka vai vismaz divi šīs kredītiestādes kreditori, vienlaikus ar pieteikuma iesniegšanu tiesā iesniedzot par to rakstveida informāciju kredītiestādei. Pieteikuma iesniedzēji var pieprasīt, lai tiesa pārbauda, vai nav konstatējams kredītiestādes ļaunprātīgs bankrots.
+127.pants. (1) Kredītiestādes akcionāru (biedru) pilnsapulce ir tiesīga pieņemt lēmumu par kredītiestādes pašlikvidāciju tikai pēc tam, kad kredītiestāde ir izpildījusi visas kredītiestādes grāmatvedības reģistros fiksētās saistības pret kreditoriem.
+(2) Ar akcionāru (biedru) pilnsapulces lēmumu uzsāktais kredītiestādes pašlikvidācijas process nav pārtraucams vai apturams.

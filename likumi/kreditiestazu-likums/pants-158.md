@@ -1,0 +1,1 @@
+158.pants. No maksātnespējas lietas ierosināšanas dienas nav pieļaujama kredītiestādes prasījumu vai parādu pilnīga vai daļēja dzēšana ar ieskaitu, izņemot gadījumus, kad tas paredzēts Latvijas Bankas apstiprinātajā sanācijas plānā.

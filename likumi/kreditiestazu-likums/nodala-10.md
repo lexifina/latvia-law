@@ -1,2 +1,2 @@
 X nodaļa
-Atbildība
+Kredītiestādes maksātnespēja

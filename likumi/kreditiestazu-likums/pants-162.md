@@ -1,0 +1,3 @@
+162.pants. (1) Personām ir pienākums sniegt administratoram to rīcībā esošo informāciju, kura ir būtiska maksātnespējas procesā.
+(2) Kredītiestādes pārstāvjiem un personām, kuru piedalīšanās maksātnespējas procesā vai kredītiestādes likvidācijā ir obligāta, ir pienākums sniegt administratora pieprasīto informāciju piecpadsmit dienu laikā no pieprasījuma nosūtīšanas dienas. Pieprasījums nododams kredītiestādes pārstāvim vai personām, kuru piedalīšanās maksātnespējas procesā vai kredītiestādes likvidācijā ir obligāta, personiski vai nosūtāms ierakstītā vēstulē.
+(3) Kredītiestādes pārstāvji un personas, kuru piedalīšanās maksātnespējas procesā vai kredītiestādes likvidācijā ir obligāta, iesniedz pieprasīto informāciju rakstveidā, apliecinot tās pareizību ar savu parakstu.

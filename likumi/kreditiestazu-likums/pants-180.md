@@ -1,0 +1,3 @@
+180.pants. (1) Kredītiestādes sanāciju vada administrators saskaņā ar sanācijas plānu.
+(2) Papildus šā likuma 161.panta ceturtajā daļā noteiktajām administratora tiesībām un pilnvarām sanācijas gaitā administrators saskaņā ar sanācijas plānu ir tiesīgs kredītiestādes vārdā iegūt vai aizņemties naudas līdzekļus un ieķīlāt kredītiestādes mantu.
+(3) Ja mainījušies būtiski apstākļi, kuri ietekmē vai var ietekmēt sanācijas plāna izpildi, administrators ar Latvijas Bankas piekrišanu izdara grozījumus sanācijas plānā vai pieņem lēmumu par sanācijas atcelšanu vai sanācijas pārtraukšanu un iesniedz to Latvijas Bankai apstiprināšanai.

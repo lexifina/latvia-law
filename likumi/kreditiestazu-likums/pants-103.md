@@ -6,4 +6,4 @@
 5) ierobežot noguldījumu pieņemšanu vai kredītiestādei aizliegt pieņemt noguldījumus;
 6) ierobežot kredītu izsniegšanu vai kredītiestādei aizliegt izsniegt kredītus;
 7) apturēt kredītiestādes norēķinus, kuros tiek izmantoti korespondentkonti;
-8) daļēji vai pilnīgi apturēt citas banku operācijas (darījumus).
+8) daļēji vai pilnīgi apturēt citu finansu pakalpojumu sniegšanu.

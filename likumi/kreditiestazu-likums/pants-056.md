@@ -1,1 +1,1 @@
-56.pants. Kredītiestāde visus tās izsniegtos galvojumus reģistrē Latvijas Bankā. Galvojumi, kas nav reģistrēti Latvijas Bankā, uzskatāmi par spēkā neesošiem.
+56.pants. Kredītiestāde visus tās izsniegtos galvojumus un citus saistību aktus, izņemot ķīlas, ar kuriem uzņemts pienākums atbildēt kreditoram par trešās personas parādu, reģistrē Latvijas Bankā. Galvojumi un citi saistību akti, ar kuriem uzņemts pienākums atbildēt kreditoram par trešās personas parādu un kuri nav reģistrēti Latvijas Bankā, uzskatāmi par spēkā neesošiem.

@@ -1,1 +1,1 @@
-112.pants. Kredītiestādes iekšējā revīzijas dienesta uzdevums ir atklāt trūkumus un kļūdas kredītiestādes darbinieku rīcībā, kā arī uzdevumu nepildīšanas, darba noteikumu neievērošanas un pilnvaru pārsniegšanas gadījumus.
+112.pants. Kredītiestāde nodrošina efektīvas iekšējās kontroles sistēmas izveidi un darbību, lai nodrošinātu bankas risku pārvaldīšanu un bankas aktīvu aizsardzību, vadībai sniegtās informācijas patiesumu un savlaicīgumu, likumu, Latvijas Bankas normatīvo norādījumu un noteikumu, kredītiestādes politikas un procedūru ievērošanu.

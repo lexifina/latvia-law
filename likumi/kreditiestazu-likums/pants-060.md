@@ -1,4 +1,4 @@
 60.pants. (1) Kredītiestādes un klienta attiecības regulē likumi un noslēgtie līgumi.
-(2) Nevienai kredītiestādei nav tiesību atvērt kontu, nepieprasot klienta identifikācijas datus: juridiskajai personai (rezidentam) - nosaukumu, juridisko adresi, reģistrācijas numuru; fiziskajai personai (rezidentam) - vārdu, uzvārdu, personas kodu.
-(3) Nevienai kredītiestādei nav tiesību atvērt kontu, nepieprasot klienta identifikācijas datus: nerezidentam - attiecīgās valsts izdota personas identifikācijas dokumenta datus: juridiskajai personai - nosaukumu, juridisko adresi, reģistrācijas numuru; fiziskajai personai - vārdu, uzvārdu, dokumenta izdošanas datumu, institūciju, kas dokumentu izdevusi, un dokumenta numuru.
-(4) Dokumentu kopijas, kuras pierāda klienta identitāti, kredītiestādei jāuzglabā vēl piecus gadus pēc darījuma attiecību pārtraukšanas ar klientu.
+(2) (Izslēgta ar 21.05.1998. likumu.)
+(3) (Izslēgta ar 21.05.1998. likumu.)
+(4) (Izslēgta ar 21.05.1998. likumu.)

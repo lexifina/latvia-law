@@ -1,0 +1,7 @@
+157.pants. (1) Pēc iecelšanas līdz lietas izskatīšanai tiesā administrators veic šādas darbības:
+1) sagatavo kredītiestādes darbinieku, akcionāru (biedru) un citu personu sarakstu, kuru piedalīšanās maksātnespējas lietā ir nepieciešama, un iesniedz šo sarakstu tiesā;
+2) sag atavo pārskatu par kredītiestādes aktīviem (mantu) atbilstoši to reālajai (tirgus) vērtībai un iesniedz to tiesā;
+3) apzina kredītiestādes valdījumā vai turējumā esošo trešajām personām piederošo mantu;
+4) sagatavo kreditoru sarakstu pēc kredītiestādes grāmatvedības reģistros esošajiem datiem, norādot informāciju par kreditoriem, parādu saistību apmēriem un izpildes termiņiem.
+(2) Triju dienu laikā pēc maksātnespējas lietas ierosināšanas un administratora iecelšanas administrators un kredītiestādes valdes priekšsēdētājs kopīgi uzsāk kredītiestādes dokumentu un mantas inventarizāciju. Ja valdes priekšsēdētājs atrodas pagaidu prombūtnē vai viņa atrašanās vieta nav zināma, inventarizāciju veic administrators un valdes locekļi. Pēc inventarizācijas pabeigšanas tiek sagatavots un parakstīts inventarizācijas akts un lietu (dokumentu, mantas u.tml.) pieņemšanas un nodošanas akts.
+(3) Ja visi valdes locekļi atrodas pagaidu prombūtnē vai viņu atrašanās vieta nav zināma, administrators par to rakstveidā informē Latvijas Banku un pats veic inventarizāciju. Pēc inventarizācijas pabeigšanas administrators sagatavo un paraksta inventarizācijas aktu, un tas tiek uzskatīts arī par lietu (dokumentu, mantas u.tml.) pieņemšanas un nodošanas aktu.

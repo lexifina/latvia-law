@@ -1,0 +1,4 @@
+190.pants. (1) Kredītiestādes ieķīlātās mantas labprātīgas izsoles noteikumus un sākumcenu nodrošinātais kreditors saskaņo ar administratoru. Administrators izsolē pārstāv kredītiestādes intereses, un viņam ir tiesības pieprasīt no izsoles organizētāja izsoles aktu (izsoles lapu, izsoles protokolu).
+(2) Pārdodot kredītiestādes ieķīlāto mantu par brīvu cenu atbilstoši Civillikuma 1321.pantam, mantas atsavināšanas līgums slēdzams rakstveidā un saskaņojams ar administratoru.
+(3) Ja nav ievēroti šā panta pirmās un otrās daļas noteikumi, kredītiestādes ieķīlātās mantas atsavināšanas līgumu ir pamats apstrīdēt.
+(4) Ja par kredītiestādes ieķīlāto mantu saņemta naudas summa, kas pārsniedz nodrošināto prasījumu un izsoles izdevumus, administrators gādā par pārpalikuma ieskaitīšanu kredītiestādes kontā Latvijas Bankā.

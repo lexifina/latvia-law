@@ -1,0 +1,1 @@
+165.pants. Administrators var rakstveidā pilnvarot savu palīgu vai jebkuru kredītiestādes darbinieku veikt atsevišķas darbības, kuras saskaņā ar šo likumu ietilpst administratora pilnvarās. Par zaudējumiem, ko nodara administratora palīgs vai darbinieks, rīkodamies uz šādas pilnvaras pamata, atbildīgs ir administrators.

@@ -1,3 +1,4 @@
-147.pants. Par citām darbībām, kuru rezultātā ir pārkāptas šā likuma vai no tā izrietošo normatīvo aktu prasības:
-1) juridiskajai personai Latvijas Banka uzliek soda naudu līdz 5 000 latu;
-2) fiziskā persona tiek saukta pie administratīvās atbildības vai pie kriminālatbildības.
+147.pants. (1) Saņēmusi maksātnespējas pieteikumu, Latvijas Banka lemj par pastiprinātās uzraudzības kārtības noteikšanu kredītiestādei un pilnvarnieka iecelšanu. Ja Latvijas Banka pati pieņem lēmumu par kredītiestādes maksātnespējas pieteikuma iesniegšanu tiesā, tā piemēro pastiprinātās uzraudzības kārtību un ieceļ pilnvarnieku.
+(2) Ja pilnvarnieks ir iecelts šā panta pirmajā daļā paredzētajos gadījumos, jebkuras darbības ar kredītiestādes mantu, kā arī trešo personu mantu, kas atrodas kredītiestādes valdījumā vai turējumā, kredītiestādes pārvaldes institūcijas var veikt vienīgi ar pilnvarnieka rakstveida atļauju. Ja šādas darbības tiek veiktas bez pilnvarnieka rakstveida atļaujas un ja šādu darbību rezultātā nodarīts būtisks kaitējums, vainīgās personas saucamas pie kriminālatbildības.
+(3) Ja kredītiestādei jebkuru citu iemeslu dēļ pilnvarnieks jau ir iecelts, no maksātnespējas pieteikuma saņemšanas dienas vai no dienas, kad pieņemts Latvijas Bankas lēmums par maksātnespējas pieteikuma iesniegšanu, pilnvarnieka tiesības paplašinās saskaņā ar šā panta otrās daļas noteikumiem.
+(4) Latvijas Bankas ieceltais pilnvarnieks darbojas līdz dienai, kad tiesa pieņem nolēmumu par maksātnespējas pieteikuma noraidīšanu vai kredītiestādes atzīšanu par maksātnespējīgu.

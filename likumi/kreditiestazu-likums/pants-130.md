@@ -1,1 +1,1 @@
-130.pants. Pēc tam, kad stājies spēkā lēmums par kredītiestādes likvidāciju, tās nosaukumā tiek iekļauts vārds "likvidējamā".
+130.pants. Kredītiestādes likvidāciju bankrota gadījumā veic administrators saskaņā ar šā likuma XIV nodaļas prasībām.

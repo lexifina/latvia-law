@@ -1,0 +1,2 @@
+182.pants. (1) Sanācijas termiņš parasti nevar pārsniegt trīs mēnešus no dienas, kad lēmumu par sanācijas piemērošanu un sanācijas plānu apstiprinājusi Latvijas Banka. Pēc sākotnējā sanācijas termiņa beigām administrators ar Latvijas Bankas piekrišanu var pagarināt sanācijas termiņu vēl ik pa trim mēnešiem, skaitot no dienas, kad lēmumu par sanācijas termiņa pagarināšanu un grozījumiem sanācijas plānā apstiprinājusi Latvijas Banka.
+(2) Kopējais sanācijas termiņš nedrīkst būt garāks par diviem gadiem.

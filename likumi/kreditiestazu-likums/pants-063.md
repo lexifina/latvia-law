@@ -1,4 +1,4 @@
-63.pants. (1) Ziņas par fizisko un juridisko personu kontiem un veiktajām banku operācijām (darījumiem) sniedzamas tādā apjomā, kāds nepieciešams attiecīgo funkciju veikšanai, vienīgi šādām valsts institūcijām likumos noteiktajā kārtībā:
+63.pants. (1) Ziņas par fizisko un juridisko personu kontiem un veiktajiem darījumiem sniedzamas tādā apjomā, kāds nepieciešams attiecīgo funkciju veikšanai, vienīgi šādām valsts institūcijām likumos noteiktajā kārtībā:
 1) tiesai un prokuratūrai, ja ziņas nepieciešamas:
 a) krimināllietā vai lietā, kurā likumā noteiktajos gadījumos var piemērot mantas konfiskāciju,
 b) civillietā, ar kuru apmierina civilprasību, kas radusies no krimināllietas,

@@ -1,0 +1,1 @@
+176.pants. Par sanāciju atzīstams plānveidīgs likumīgu pasākumu kopums nolūkā novērst kredītiestādes iespējamo bankrotu, atjaunot maksātspēju un apmierināt likumīgos kreditoru prasījumus. Kredītiestādes sanācija notiek saskaņā ar šajā likumā noteiktajā kārtībā pieņemtu sanācijas plānu.

@@ -1,3 +1,3 @@
-143.pants. (1) Ja kredītiestādes likvidācijas gaitā atgūtās summas nepietiek, lai apmierinātu visus prasījumus, šī summa sadalāma starp kreditoriem šā likuma 142.panta noteiktajā secībā.
-(2) Katras nākamās kārtas prasījumi tiek apmierināti pēc iepriekšējās kārtas prasījumu pilnīgas apmierināšanas.
-(3) Ja piedzītās summas nepietiek, lai pilnīgi apmierinātu visus vienas kārtas prasījumus, šie prasījumi apmierināmi proporcionāli summai, kas pienākas katram kreditoram.
+143.pants. Kreditors vai kreditoru grupa var iesniegt maksātnespējas pieteikumu, ja pastāv vismaz viens no šādiem apstākļiem:
+1) piecu dienu laikā pēc tam, kad kreditors kredītiestādei iesniedzis pretenziju, prasījums nav ne apmierināts, ne celti iebildumi pret to, un pēc šā termiņa izbeigšanās kreditors savu nodomu iesniegt maksātnespējas pieteikumu rakstveidā darījis zināmu kredītiestādei vismaz trīs dienas pirms tā iesniegšanas, turklāt kredītiestāde nav varējusi parādu nokārtot arī šajā termiņā;
+2) kredītiestāde ir kreditoram rakstveidā paziņojusi par savu faktisko maksātnespēju.

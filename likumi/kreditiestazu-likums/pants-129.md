@@ -1,1 +1,2 @@
-129.pants. Kredītiestāde septiņu dienu laikā pēc tam, kad tiesā iesniegts pieteikums par tās atzīšanu par bankrotējušu, var lūgt tiesu atturēties no kredītiestādes atzīšanas par bankrotējušu, ja tā var pierādīt savu spēju pilnā mērā apmierināt visas kreditoru likumīgās prasības.
+129.pants. (1) Latvijas Banka, ja tā saskaņā ar šā likuma 27.panta 1.-4.punkta noteikumiem atsauc kredītiestādei izsniegto licenci kredītiestādes darbībai, piemēro pastiprinātās uzraudzības kārtību, ieceļ pilnvarnieku un iesniedz tiesā pieteikumu par šīs kredītiestādes likvidāciju un likvidatora iecelšanu, vienlaikus izvirzot likvidatora kandidatūru.
+(2) Pēc licences atsaukšanas kredītiestādes akcionāru (biedru) pilnsapulce nav tiesīga lemt par pašlikvidācijas uzsākšanu un likvidatora iecelšanu.

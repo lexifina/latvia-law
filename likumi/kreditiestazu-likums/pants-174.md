@@ -1,0 +1,3 @@
+174.pants. (1) Kredītiestādes mantas dāvinājuma līgums var tikt atzīts par spēkā neesošu atbilstoši Civillikuma 1927. panta noteikumiem.
+(2) Par spēkā neesošiem var tikt atzīti piecu gadu laikā pirms maksātnespējas iestāšanās dienas vai pēc tās noslēgtie darījumi, kuros pušu savstarpējo saistību nevienlīdzīgums norāda, ka faktiski izdarīts dāvinājums.
+(3) Nevar atzīt par spēkā neesošiem ziedojumus Latvijā reģistrētām sabiedriskajām organizācijām, kuras nodarbojas ar kultūras, zinātnes, izglītības, sporta, veselības aizsardzības vai sociālās palīdzības veicināšanu. Ziedojumu šādai organizācijai var atzīt par spēkā neesošu un atprasīt, ja ir pierādījumi, ka šis ziedojums ir fiktīvs vai netiek izmantots paredzētajiem mērķiem.

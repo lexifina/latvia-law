@@ -1,2 +1,2 @@
 IX nodaļa
-Kredītiestāžu likvidācija un bankrots
+Kredītiestādes likvidācija

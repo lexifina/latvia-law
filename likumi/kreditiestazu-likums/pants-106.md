@@ -1,2 +1,6 @@
 106.pants. (1) Latvijas Bankas pilnvarota persona ne retāk kā reizi gadā pārbauda kredītiestādes darbību.
 (2) Latvijas Bankas pilnvarotai personai ir tiesības iepazīties ar visu kredītiestādes dokumentāciju, aktīviem un pasīviem un saņemt no kredītiestādes atbildīgajām personām paskaidrojumus un informāciju par uzņēmumiem (uzņēmējsabiedrībām), kuros kredītiestādei ir ieguldījumi.
+(3) Lai samazinātu kredītiestāžu darbības risku:
+1) kredītiestāžu parādnieku reģistra izveidošanai un funkcionēšanai kredītiestāde saskaņā ar Latvijas Bankas normatīvajiem norādījumiem un noteikumiem sniedz Latvijas Bankai ziņas par kredītiestādes parādniekiem, viņu saistību izpildes gaitu, kā arī par visiem gadījumiem, kad klients pilnīgi vai daļēji nepilda šā likuma 73. panta prasības;
+2) Latvijas Bankai ir tiesības Latvijas Bankas normatīvajos norādījumos un noteikumos paredzētajā kārtībā sniegt šā panta trešās daļas 1. punktā minētās ziņas kredītiestādēm;
+3) kredītiestādēm ir tiesības tieši vai ar īpaši šim mērķim izveidotas institūcijas starpniecību savstarpēji apmainīties ar ziņām par parādniekiem, viņu saistību izpildes gaitu, kā arī par visiem gadījumiem, kad klients pilnīgi vai daļēji nepilda šā likuma 73. panta prasības.

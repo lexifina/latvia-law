@@ -1,0 +1,6 @@
+173.pants. (1) Pēc administratora prasības var tikt atzīti par spēkā neesošiem kredītiestādes darījumi neatkarīgi no šo darījumu veida, ja:
+1) tie noslēgti pēc maksātnespējas iestāšanās dienas un kredītiestāde ar tiem ir nodarījusi zaudējumus kreditoriem;
+2) tie noslēgti piecu gadu laikā pirms maksātnespējas iestāšanās dienas, kredītiestāde ar tiem apzināti nodarījusi zaudējumus kreditoriem un persona, ar kuru vai kurai par labu noslēgts darījums, ir zinājusi par šādu zaudējumu nodarīšanu;
+3) tie noslēgti piecu gadu laikā pirms maksātnespējas iestāšanās dienas un tiesa ir konstatējusi, ka kredītiestāde novesta līdz maksātnespējai ar kriminālsodāmu nodarījumu un persona, ar kuru vai kurai par labu darījums slēgts, ir zinājusi par šo nodarījumu.
+(2) Ja darījumus, ar kuriem nodarīti zaudējumi kreditoriem, kredītiestāde noslēgusi ar ieinteresētajām personām attiecībā uz kredītiestādi vai šo personu labā, uzskatāms, ka šīs personas ir zinājušas par zaudējumu nodarīšanu vai kriminālsodāmu nodarījumu, ja tās nepierāda pretējo.
+(3) Nodrošinātais kreditors var iesniegt tiesā prasību par administratora noslēgta darījuma atzīšanu par spēkā neesošu, ja darījums attiecas uz prasījuma nodrošināšanai ieķīlāto mantu un ir aizskartas nodrošinātā kreditora tiesības.

@@ -1,0 +1,6 @@
+166.pants. (1) Administratora un administratora palīga kopējās atlīdzības apjoms ir 15 procenti no atgūtajiem aktīviem (mantas). Par atgūtajiem aktīviem atlīdzības noteikšanai nav uzskatāma nauda kredītiestādes kasē, naudas līdzekļi, kas iegūti, pārdodot vērtspapīrus, kuri tiek kotēti biržā, un naudas līdzekļi, kas iegūti, izmantojot prasījuma tiesības pret Latvijas Banku, Latvijas un ārvalstu kredītiestādēm, kuru darbība nav apturēta vai pārtraukta, Latvijas valsti vai ārvalsti.
+(2) Ja nekādi aktīvi (manta) netiek atgūti, administratora un administratora palīga kopējā atlīdzība mēnesī ir 30 minimālās mēnešalgas.
+(3) Ja kredītiestādei nepietiek līdzekļu, lai nodrošinātu šā panta otrajā daļā noteikto atlīdzību, administrators pēc saskaņošanas ar Latvijas Banku:
+1) pieņem lēmumu par bankrota procedūras uzsākšanu;
+2) iesniedz tiesā pieteikumus par administrācijas izmaksu un parādu segšanas kārtības apstiprināšanu, izmaksu un parādu segšanas termiņa noteikšanu, bankrota procedūras pabeigšanu un maksātnespējas procesa izbeigšanu.
+(4) Šā panta trešajā daļā minētajā gadījumā administratora un administratora palīga atlīdzības izdevumus sedz Latvijas Banka. Izdevumu segšanas un to atmaksāšanas kārtību nosaka, administratoram un Latvijas Bankai savstarpēji vienojoties.
