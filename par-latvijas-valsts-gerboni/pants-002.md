@@ -1,1 +1,1 @@
-2.pants. Latvijas Republikā tiek lietots lielais valsts ģerbonis, vidējais valsts ģerbonis un mazais valsts ģerbonis.
+2.pants. Latvijas Republikā tiek lietots lielais valsts ģerbonis, mazais valsts ģerbonis un papildinātais mazais valsts ģerbonis.

@@ -1,0 +1,1 @@
+Papildinātais mazais valsts ģerbonis
