@@ -1,0 +1,1 @@
+3.pants. Nolīgums stājas spēkā tā X pantā noteiktajā laikā un kārtībā, Protokols stājas spēkā tā 17.punktā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo laikrakstā "Latvijas Vēstnesis".

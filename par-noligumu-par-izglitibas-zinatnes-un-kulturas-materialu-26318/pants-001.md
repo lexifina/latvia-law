@@ -1,0 +1,1 @@
+1.pants. 1950.gada 22.novembra Nolīgums par izglītības, zinātnes un kultūras materiālu ievešanu (turpmāk - Nolīgums) un tā 1976.gada 26.novembra Protokols (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
