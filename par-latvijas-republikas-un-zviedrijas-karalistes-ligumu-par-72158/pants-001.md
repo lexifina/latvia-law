@@ -1,0 +1,1 @@
+1.pants. 2002.gada 22.oktobrī Stokholmā parakstītais Latvijas Republikas un Zviedrijas Karalistes līgums par militāro sadarbību un personāla statusu (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
