@@ -4,5 +4,5 @@
 3) organizē Valsts farmācijas inspekcijas inspektoru atestēšanu un koordinē farmācijas speciālistu sagatavošanu, izsniedz atļaujas augstskolu studentu vai vidējo speciālo mācību iestāžu audzēkņu apmācības procesa veikšanai aptiekās, zāļu lieltirgotavās un zāļu ražošanas uzņēmumos (uzņēmējsabiedrībās), pamatojoties uz augstskolu vai vidējo speciālo mācību iestāžu priekšlikumiem;
 4) reglamentē atsevišķu zāļu vai zāļu grupu uzglabāšanas, kontroles un izplatīšanas nosacījumus;
 5) gādā, lai tiktu izsniegtas Ministru kabineta noteikumos paredzētās speciālās atļaujas (licences);
-6) izsniedz atļauju licencētiem uzņēmumiem (uzņēmējsabiedrībām) ārvalstīs reģistrētu un lietotu, bet Latvijā nereģistrētu zāļu un farmaceitisko produktu izplatīšanai, ja tie būtiski nepieciešami ārstniecības procesa nodrošināšanai, paredzēti retu slimību ārstēšanai un izplatāmi ierobežotā daudzumā vai lietojami katastrofu vai dabas stihiju gadījumā;
+6) (zaudējis spēku 02.01.2000. Skat. Pārejas noteikumus);
 7) apstiprina medikamentu klīniskās izpētes ētikas komiteju paraugnolikumu un saskaņo šo komiteju personālsastāvu.
