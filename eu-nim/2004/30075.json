@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par veterinārajām prasībām un kontroles un uzraudzības kārtību dzīvnieku izcelsmes produktu tirdzniecībai ar Eiropas Savienības dalībvalstīm",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "66",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-28",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-07-22",
+  "commission_reference": "MNE(2004)50075",
+  "nim_celex": "71989L0662LVA_30075",
+  "nim_id": "30075",
+  "transposes_celex": [
+    "31989L0662"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/91a939b0-1a99-49f6-800f-c6fb5d9be9a0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
