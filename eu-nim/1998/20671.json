@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums \"Par ieguldījumu sabiedrībām\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "342/346",
+  "official_journal_page": null,
+  "official_journal_date": "1997-12-30",
+  "entry_into_force": "1998-07-01",
+  "notification_date": "2004-03-22",
+  "commission_reference": "MNE(2003)50671",
+  "nim_celex": "71985L0611LVA_20671",
+  "nim_id": "20671",
+  "transposes_celex": [
+    "31985L0611",
+    "31988L0220",
+    "32000L0064",
+    "32001L0107",
+    "32001L0108"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b2250525-c751-4ff5-9e7e-9e71c06d6fb3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
