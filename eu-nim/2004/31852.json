@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Latvijas Administratīvo pārkāpumu kodeksā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "153",
+  "official_journal_page": null,
+  "official_journal_date": "2004-09-28",
+  "entry_into_force": "2004-10-12",
+  "notification_date": "2004-10-14",
+  "commission_reference": "MNE(2004)51852",
+  "nim_celex": "72003L0087LVA_31852",
+  "nim_id": "31852",
+  "transposes_celex": [
+    "32003L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/333ce1d4-ff5a-4914-9260-8e0034dc7d68",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
