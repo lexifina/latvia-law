@@ -1,0 +1,1 @@
+1.pants. 2003.gada 17.oktobra Apvienoto Nāciju izglītības, zinātnes un kultūras organizācijas konvencija par nemateriālā kultūras mantojuma saglabāšanu (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
