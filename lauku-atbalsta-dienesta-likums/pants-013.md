@@ -1,5 +1,5 @@
-13.pants. Dienesta amatpersonu lēmumu un rīkojumu pārsūdzēšanas kārtība
-Dienesta amatpersonu pieņemtos lēmumus un izdotos rīkojumus var pārsūdzēt rakstveidā 30 kalendāra dienu laikā pēc šo lēmumu vai rīkojumu saņemšanas šādā kārtībā:
-1) pārvaldes amatpersonu pieņemtie lēmumi un izdotie rīkojumi pārsūdzami attiecīgās pārvaldes vadītājam;
-2) pārvalžu vadītāju pieņemtie lēmumi un izdotie rīkojumi pārsūdzami Dienesta direktoram;
-3) Dienesta direktora pieņemtie lēmumi un izdotie rīkojumi pārsūdzami tiesā.
+13.pants. Dienesta amatpersonu izdoto administratīvo aktu apstrīdēšanas un pārsūdzēšanas kārtība
+Dienesta amatpersonu izdotos administratīvos aktus var apstrīdēt un pārsūdzēt saskaņā ar Administratīvā procesa likumu šādā kārtībā:
+1) pārvaldes struktūrvienību vadītāju izdotos administratīvos aktus var apstrīdēt, iesniedzot attiecīgās pārvaldes vadītājam iesniegumu;
+2) Dienesta centrālā aparāta struktūrvienību amatpersonu un pārvalžu vadītāju izdotos administratīvos aktus var apstrīdēt, iesniedzot Dienesta direktoram attiecīgu iesniegumu;
+3) Dienesta direktora izdotos administratīvos aktus var pārsūdzēt tiesā.

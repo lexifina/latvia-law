@@ -1,0 +1,1 @@
+5. Bezpeļņas organizācijas valsts akciju sabiedrības "Lauksaimniecības tirgus intervences aģentūra" izsniegtās speciālās atļaujas (licences) eksportam un importam ir derīgas līdz tajās norādītā termiņa beigām.

@@ -1,0 +1,1 @@
+7. Ar 2003.gada 1.maiju spēku zaudē likums "Par Latvijas labības tirgu un valsts labības rezervi" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1993, 22./23.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 5., 20.nr.; 1997, 16.nr.; 1998, 6.nr.; 1999, 19., 22.nr.; 2000, 12.nr.; 2002, 2.nr.).

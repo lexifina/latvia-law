@@ -7,7 +7,7 @@ Dienesta direktors:
 5) apstiprina Dienesta struktūru un centrālā aparāta amatu sarakstu;
 6) bez īpaša pilnvarojuma pārstāv Dienestu citās institūcijās;
 7) izstrādā un noteiktā kārtībā iesniedz Zemkopības ministrijai valsts budžeta pieprasījuma projektu un administrē Dienesta budžetu;
-8) izskata sūdzības par Dienesta centrālā aparāta struktūrvienību amatpersonu un pārvalžu vadītāju pieņemtajiem lēmumiem un izdotajiem rīkojumiem un atceļ minēto amatpersonu nepamatoti pieņemtos lēmumus un izdotos rīkojumus;
+8) izskata iesniegumus un pieņem lēmumus lietās par Dienesta centrālā aparāta struktūrvienību amatpersonu un pārvalžu vadītāju izdoto administratīvo aktu apstrīdēšanu;
 9) nosaka pārvalžu darbības teritoriju un apstiprina to nolikumus;
 10) pieņem lēmumu par valsts atbalsta un Eiropas Savienības atbalsta piešķiršanu vai atteikumu to piešķirt;
 11) ir atbildīgs par valsts atbalsta un Eiropas Savienības atbalsta maksājumu pieprasījumu savlaicīgu izskatīšanu, likumīgu izmaksu un uzskaiti;

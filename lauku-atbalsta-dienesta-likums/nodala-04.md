@@ -1,3 +1,3 @@
 IV nodaļa
 Dienesta amatpersonu lēmumu izpilde
-un to pārsūdzēšanas kārtība
+un to apstrīdēšanas un pārsūdzēšanas kārtība
