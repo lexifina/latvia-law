@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Par miruša cilvēka ķermeņa aizsardzību un cilvēka audu un orgānu izmantošanu medicīnā",
+  "type_of_act": "Likums",
+  "official_journal": "LR Saeimas un Ministru Kabineta Ziņotājs",
+  "official_journal_reference": "1",
+  "official_journal_page": null,
+  "official_journal_date": "1993-01-14",
+  "entry_into_force": "1993-01-01",
+  "notification_date": "2012-08-27",
+  "commission_reference": "MNE(2012)53947",
+  "nim_celex": "72010L0053LVA_195190",
+  "nim_id": "195190",
+  "transposes_celex": [
+    "32010L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/506040c5-363b-456e-85ba-c9dc05b6146a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
