@@ -1,4 +1,4 @@
-20.pants. (1) Dzīvnieku sacensības, tirgus, izsoles, izstādes un citus pasākumus ar dzīvnieku piedalīšanos drīkst rīkot ar attiecīgās teritorijas valsts vecākā veterinārā inspektora atļauju, bet starptautiska mēroga pasākumus - tikai ar valsts galvenā pārtikas un veterinārā inspektora atļauju.
+20.pants. (1) Dzīvnieku sacensību, tirgu, izsoļu, izstāžu un citu publisku pasākumu ar dzīvnieku piedalīšanos organizētājs informē Pārtikas un veterinārā dienesta attiecīgo teritoriālo struktūrvienību par pasākuma norises vietu un laiku.
 (2) Ministru kabinets nosaka kārtību, kādā organizējamas dzīvnieku sacensības, tirgi, izsoles, izstādes un citi pasākumi ar dzīvnieku piedalīšanos.
 (3) Dzīvnieku, dzīvnieku spermas, olšūnu un embriju ievešanai nepieciešams veterinārais (veselības) sertifikāts, kura formu nosaka ar Eiropas Komisijas lēmumu. Līdz dienai, kad stājas spēkā Eiropas Komisijas lēmums par veterinārā (veselības) sertifikāta formu, izmantojama attiecīgā Pārtikas un veterinārā dienesta apstiprinātā forma.
 (4) (Izslēgta ar 01.04.2004. likumu)

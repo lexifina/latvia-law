@@ -4,6 +4,6 @@
 3) (izslēgts ar 13.12.2001. likumu);
 4) veterinārās un higiēnas prasības zvejas kuģiem, zvejas saldētājkuģiem, zvejas produktu apstrādes kuģiem un zvejas laivām;
 5) kārtību, kādā tiek veikta veterinārā ekspertīze, un veterinārās ekspertīzes veikšanai nepieciešamos darba apstākļus;
-6) ierobežojumus dzīvnieku izcelsmes pārtikas jēlproduktu un mājas apstākļos ražoto dzīvnieku izcelsmes pārtikas produktu tirdzniecībai;
+6) (izslēgts ar MK 17.08.2004. noteikumiem Nr. 712);
 7) atliekvielu kontroles un tās finansēšanas kārtību;
 8) prasības dzīvnieku izcelsmes produktu ievešanai valstī, izvešanai no tās un tranzīta pārvadājumiem.
