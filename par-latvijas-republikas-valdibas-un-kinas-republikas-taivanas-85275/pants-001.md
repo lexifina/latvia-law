@@ -1,0 +1,1 @@
+1.pants. Denonsēt 1992.gada 17.septembrī Taipejā parakstīto Latvijas Republikas valdības un Ķīnas Republikas (Taivānas) valdības līgumu par savstarpēju investīciju veicināšanu un aizsargāšanu (Latvijas Vēstnesis, 1993, 109.nr.).
