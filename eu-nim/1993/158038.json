@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Par grāmatvedību",
+  "type_of_act": "Likums",
+  "official_journal": "LR Augstākās Padomes un Valdības Ziņotājs",
+  "official_journal_reference": "44",
+  "official_journal_page": null,
+  "official_journal_date": "1992-11-12",
+  "entry_into_force": "1993-01-01",
+  "notification_date": "2008-09-12",
+  "commission_reference": "MNE(2008)55087",
+  "nim_celex": "72003L0058LVA_158038",
+  "nim_id": "158038",
+  "transposes_celex": [
+    "32003L0058"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b04889aa-2cce-46c0-be39-46a83f8fc4e4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
