@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums \"Par Eiropas Savienības mēroga komercsabiedrību un Eiropas Savienības mēroga komercsabiedrību grupu darbinieku informēšanu un konsultēšanos ar šiem darbiniekiem\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "60",
+  "official_journal_page": null,
+  "official_journal_date": "2001-04-18",
+  "entry_into_force": "2002-01-01",
+  "notification_date": "2008-03-04",
+  "commission_reference": "MNE(2008)51510",
+  "nim_celex": "72006L0109LVA_154203",
+  "nim_id": "154203",
+  "transposes_celex": [
+    "32006L0109"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9cd4463e-6e02-4459-80ea-bdce8f4e6017",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
