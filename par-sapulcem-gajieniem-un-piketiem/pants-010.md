@@ -1,0 +1,2 @@
+10.pants. (1) Sapulču, gājienu un piketu laikā ir jāievēro normatīvie akti, kas reglamentē sabiedrisko kārtību.
+(2) Minēto pasākumu laikā aizliegts vērsties pret Latvijas Republikas neatkarību, izteikt priekšlikumus par Latvijas valsts iekārtas vardarbīgu grozīšanu, aicināt nepildīt likumus, sludināt vardarbību, nacionālo un rasu naidu, klaju fašisma vai komunisma ideoloģiju, veikt kara propagandu, kā arī slavēt vai aicināt izdarīt noziedzīgus nodarījumus un citus likumpārkāpumus.

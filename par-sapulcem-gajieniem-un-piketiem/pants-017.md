@@ -1,0 +1,1 @@
+17.pants. Pašvaldības amatpersonas izsniegto rakstveida atteikumu var pārsūdzēt tiesā. Tāpat tiesā var pārsūdzēt pašvaldības amatpersonas rīcību, ja tā neizskata pieteikumus šā likuma 15.panta noteiktajā laikā un kārtībā. Tiesa izskata šīs lietas triju dienu laikā Latvijas Civilprocesa kodeksa 24-A nodaļā paredzētajā kārtībā.

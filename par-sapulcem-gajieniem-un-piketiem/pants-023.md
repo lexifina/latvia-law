@@ -1,0 +1,2 @@
+23.pants. (1) Ja sapulcē, gājienā vai piketā tā dalībnieki pārkāpj šā likuma noteikumus un nepakļaujas pasākuma vadītāja, viņa palīgu vai kārtības uzturētāju norādījumiem, vadītājs vai nu paziņo pasākumu par slēgtu, vai griežas pie policijas darbinieka vai pašvaldības pārstāvja ar lūgumu atjaunot kārtību.
+(2) Ja pasākuma dalībnieki nepakļaujas policijas darbinieka vai pašvaldības pārstāvja norādījumiem par šā likuma prasību ievērošanu, policijas darbinieks vai pašvaldības pārstāvis paziņo pasākumu par slēgtu un pieprasa, lai tā dalībnieki nekavējoties atstāj pasākuma vietu.

@@ -1,0 +1,3 @@
+9.pants. (1) Sapulces un piketus aizliegts rīkot tuvāk par 50 metriem no Valsts prezidenta rezidences, Saeimas, Ministru kabineta, tiesām, prokuratūras un ārvalstu diplomātisko un konsulāro pārstāvniecību ēkām. Sapulču un piketu rīkošanai šo ēku tuvumā attiecīgās institūcijas, izņemot diplomātiskās un konsulārās pārstāvniecības, var ierādīt īpašas vietas arī tuvāk par 50 metriem.
+(2) Sapulču, gājienu un piketu laikā ir jānodrošina brīva pieeja un piebraukšana valsts un pašvaldību iestādēm, kuru tuvumā notiek attiecīgie pasākumi.
+(3) Sapulces, gājienus un piketus nedrīkst rīkot privātā īpašumā esošās ēkās vai uz privātā īpašumā vai privātā lietošanā esošiem zemes gabaliem bez to īpašnieku vai pārvaldnieku rakstveida piekrišanas.
