@@ -1,0 +1,1 @@
+1.pants. 2000.gada 17.martā Tallinā parakstītā Latvijas Republikas valdības, Igaunijas Republikas valdības un Lietuvas Republikas valdības vienošanās par sadarbību liecinieku un cietušo aizsardzībā (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.
