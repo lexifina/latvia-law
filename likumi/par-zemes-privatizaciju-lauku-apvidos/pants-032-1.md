@@ -1,3 +1,0 @@
-32.¹ pants. Juridisko personu dāvinājumu un citu ar zemes īpašuma tiesībām saistītu darījumu izskatīšanas kārtība
-Šā likuma 27., 28., 29., 30. un 32.pantā minētie noteikumi attiecināmi arī uz gadījumiem, kad juridiskās personas zemi iegūst īpašumā dāvinājuma vai maiņas rezultātā vai arī kā mantisko ieguldījumu, zemes īpašniekam iestājoties uzņēmējsabiedrībā.
-Šādos gadījumos pirms zemes īpašuma tiesību nostiprināšanas zemesgrāmatā Centrālajā zemes komisijā jāiesniedz dāvinājuma vai maiņas līguma noraksts vai attiecīgās uzņēmējsabiedrības pārvaldes institūcijas lēmums par pamatkapitāla palielināšanu un ziņojums par mantisko ieguldījumu.
