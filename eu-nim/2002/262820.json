@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Revīzijas pakalpojumu likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "78",
+  "official_journal_page": null,
+  "official_journal_date": "2001-05-22",
+  "entry_into_force": "2002-01-01",
+  "notification_date": "2018-09-07",
+  "commission_reference": "MNE(2018)54825",
+  "nim_celex": "72015L0849LVA_262820",
+  "nim_id": "262820",
+  "transposes_celex": [
+    "32015L0849"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1187ed3b-8a54-44f3-918d-447059a5c87c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
