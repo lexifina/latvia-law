@@ -1,0 +1,3 @@
+34.pants. Ierobežojumi strādāt citu algotu darbu un piedalīties sabiedriskajā darbībā
+(1) Satversmes tiesas tiesnesis nedrīkst vienlaikus ieņemt jebkādu citu amatu vai strādāt citu algotu darbu, izņemot pedagoģisko darbu. Viņš nedrīkst būt Saeimas vai pašvaldības domes (padomes) deputāts.
+(2) Satversmes tiesas tiesneša amats nav savienojams ar piederību pie politiskajām organizācijām (partijām) vai to apvienībām. Satversmes tiesas tiesnesis var būt sabiedrisko organizāciju vai to apvienību biedrs, bet šīs tiesības viņam jāizmanto tā, lai neciestu tiesneša cieņa un gods, objektivitāte un tiesas neatkarība.
