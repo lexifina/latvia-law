@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par Latvijā kontrolējamo narkotisko vielu, psihotropo vielu un prekursoru sarakstiem",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "12",
+  "official_journal_page": null,
+  "official_journal_date": "2004-01-23",
+  "entry_into_force": "2004-01-24",
+  "notification_date": "2004-05-24",
+  "commission_reference": "MNE(2004)58269",
+  "nim_celex": "72003L0101LVA_28269",
+  "nim_id": "28269",
+  "transposes_celex": [
+    "32003L0101"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ebf44ba0-671f-4ced-a061-ac4c53739c31",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
