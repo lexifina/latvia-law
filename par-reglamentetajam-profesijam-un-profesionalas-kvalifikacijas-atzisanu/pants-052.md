@@ -5,8 +5,8 @@
 3) iekšzemes pasažieru autopārvadājumu vadītājs (administrators);
 4) iekšzemes kravu autopārvadājumu vadītājs (administrators);
 5) bīstamu kravu pārvadāšanas transportlīdzekļa vadītājs;
-6) bīstamu kravu pārvadājumu (visās transporta jomās) drošības konsultants (padomnieks);
-7) kravu pārvadātājs pa iekšzemes ūdensceļiem;
-8) iekšzemes ūdensceļu kravu un pasažieru maztonnāžas kuģa (kravnesība nepārsniedz 200 tonnas) vadītājs.
+6) bīstamu kravu pārvadājumu drošības konsultants (padomnieks);
+7) (izslēgts ar 23.10.2003. likumu);
+8) (izslēgts ar 23.10.2003. likumu).
 (2) Šā likuma 40.pantā un šā panta pirmajā daļā minētie dokumenti pēc attiecīgās atzīšanas procedūras, ko veic institūcijas, kas izsniedz kvalifikācijas atzīšanas apliecības attiecīgajās reglamentētajās profesijās, un pēc kvalifikācijas atzīšanas apliecības saņemšanas dod Eiropas Savienības dalībvalsts pilsoņiem tādas pašas tiesības veikt darbību šā panta pirmajā daļā noteiktajās profesijās kā Latvijas pilsoņiem.
 (3) Eiropas Savienības dalībvalsts pilsonim izsniegtā mehāniskā transportlīdzekļa vadītāja apliecība ir izmantojama, neveicot šā panta otrajā daļā minētās atzīšanas procedūras, bet ievērojot Ceļu satiksmes likumā noteiktās prasības.

@@ -1,17 +1,11 @@
 23.pants. Prasības reglamentētajām profesijām civilās aviācijas jomā
-(1) Atbilstība profesionālās kvalifikācijas prasībām, kas saskaņotas ar 1944.gada Konvencijai par starptautisko civilo aviāciju atbilstošajiem personāla licencēšanas standartiem un ieteicamo praksi un Apvienoto aviācijas institūciju (JAA) Lidojumu apkalpju kvalifikācijas prasībām (JAR-FCL), ir obligāts priekšnoteikums tam, lai persona būtu tiesīga veikt darbību šādās profesijās civilās aviācijas jomā:
-1) lidmašīnas pilots amatieris;
-2) lidmašīnas komercpilots;
-3) aviolīniju transportlidmašīnas pilots;
-4) lidmašīnas pilots instruktors;
-5) helikoptera pilots amatieris;
-6) helikoptera komercpilots;
-7) aviolīniju transporthelikoptera pilots;
-8) helikoptera pilots instruktors;
-9) planiera pilots;
-10) planiera pilots instruktors;
-11) gaisa balona pilots;
-12) gaisa balona pilots instruktors;
-13) stūrmanis;
-14) lidotājs inženieris.
-(2) Lai nodrošinātu iespēju Latvijas Republikā izsniegtos izglītības dokumentus un piešķirto profesionālo kvalifikāciju atzīt ārvalstīs, atbilstošās izglītības programmas un profesionālās sertifikācijas un licencēšanas kārtība atbilst starptautiskajos līgumos noteiktajām prasībām.
+(1) Atbilstība profesionālās kvalifikācijas prasībām, kas saskaņotas ar 1944.gada Konvencijai par starptautisko civilo aviāciju atbilstošajiem personāla sertificēšanas standartiem un ieteicamo praksi, Apvienoto aviācijas institūciju (JAA) Lidojumu apkalpju kvalifikācijas prasībām (JAR - FCL) un gaisa kuģu tehniskās apkopes speciālistu kvalifikācijas prasībām (JAR - 66), ir obligāts priekšnoteikums tam, lai persona būtu tiesīga veikt darbību šādās profesijās civilās aviācijas jomā:
+1) pilots;
+2) stūrmanis;
+3) lidotājs radiotelefona operators;
+4) lidotājs inženieris;
+5) gaisa kuģu tehniskās apkopes speciālists.
+(2) Atbilstība profesionālās kvalifikācijas prasībām, kas saskaņotas ar 1944.gada Konvencijai par starptautisko civilo aviāciju atbilstošajiem personāla sertificēšanas standartiem un ieteicamo praksi, ir obligāts priekšnoteikums tam, lai persona būtu tiesīga veikt darbību gaisa satiksmes vadības dispečera profesijā.
+(3) Atbilstība profesionālās kvalifikācijas prasībām, kas saskaņotas ar Starptautiskās civilās aviācijas organizācijas (ICAO) noteiktajām prasībām, ir obligāts priekšnoteikums tam, lai persona būtu tiesīga veikt darbību lidostas aviodrošības dienesta darbinieka profesijā.
+(4) Atbilstība profesionālās kvalifikācijas prasībām, kas saskaņotas ar Starptautiskās civilās aviācijas organizācijas (ICAO) noteiktajām prasībām, ir obligāts priekšnoteikums tam, lai persona būtu tiesīga veikt darbību civilās aviācijas drošības uzraudzības inspektora profesijā.
+(5) Lai Latvijas Republikā izsniegtos izglītības dokumentus un piešķirto profesionālo kvalifikāciju atzītu ārvalstīs, nodrošināma attiecīgās izglītības programmas un profesionālās sertifikācijas un licencēšanas kārtības atbilstība starptautiskajos līgumos noteiktajām prasībām.

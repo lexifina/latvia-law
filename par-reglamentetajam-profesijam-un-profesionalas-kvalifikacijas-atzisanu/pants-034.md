@@ -13,7 +13,7 @@ f) vecmāte,
 g) veterinārārsts,
 h) mehāniskā transportlīdzekļa vadītājs,
 i) autopārvadājumu vadītājs (administrators),
-j) kravu un pasažieru pārvadātājs pa iekšzemes ūdensceļiem,
+j) (izslēgts ar 23.10.2003. likumu),
 k) bīstamo kravu pārvadājumu drošības konsultants (padomnieks);
 3) advokāta prakses tiesību atzīšanā.
 (2) Ja ārvalstnieka mītnes valsts nav pievienojusies šā panta pirmajā daļā minētajiem starptautiskajiem līgumiem, pretendenta profesionālo kvalifikāciju atzīst tikai tad, ja viņa izglītība un profesionālā pieredze līmeņa, satura un ilguma ziņā būtiski neatšķiras no Latvijas Republikā attiecīgajai profesijai noteiktajām prasībām.

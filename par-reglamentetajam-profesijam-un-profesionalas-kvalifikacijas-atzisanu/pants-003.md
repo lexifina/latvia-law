@@ -8,7 +8,7 @@
 (5) Darba uzsākšanai, patstāvīgai darbībai profesijā vai darbībai pašnodarbinātas personas statusā likumā vai Ministru kabineta noteikumos atsevišķām reglamentētajām profesijām var izvirzīt šādas papildu prasības:
 1) zvēresta vai svinīga solījuma nodošana;
 2) profesionālās ētikas kodeksa ievērošana;
-3) atbilstoša reputācija, iepriekšējās darbības laikā persona nav krimināli sodīta, tai nav uzlikti administratīvie sodi vai disciplinārsodi;
+3) atbilstoša reputācija, persona nav krimināli sodīta, tai nav uzlikti administratīvie sodi vai disciplinārsodi saistībā ar attiecīgās profesionālās darbības normu pārkāpumiem;
 4) atbilstoša veselība;
 5) civiltiesiskās atbildības vai finansiālā riska apdrošināšana;
 6) atbilstošs valsts valodas zināšanu līmenis;
