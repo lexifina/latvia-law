@@ -1,0 +1,1 @@
+1.pants. 2002.gada 5.aprīlī Viļņā parakstītais Protokols par grozījumiem un papildinājumiem Latvijas Republikas valdības un Lietuvas Republikas valdības nolīgumā par sadarbību, veicot kontroli valsts robežas apvienotajos kontrolpunktos (turpmāk - Protokols), ar šo likumu tiek pieņemts un apstiprināts.
