@@ -1,2 +1,2 @@
-34. pants. Zemes valdījuma un lietojuma ierobežojumi pierobežas joslā
-Aizliegts pierobežas joslā nodot zemi. uz kuru īpašuma tiesības nostiprinātas zemesgrāmatā, tālākā valdījumā un lietojumā, kā arī valdīt un lietot zemi un citu nekustamo īpašumu uz zemes pirkuma priekš līguma pamata.
+34. pants. Zemes iegūšanas apmēru ierobežojumi
+Ministru kabinets var noteikt atsevišķos pagastos turpmāko zemes īpašumu apmēru ierobežojumus šā likuma 28.panta otrajā daļā minētajām personām.

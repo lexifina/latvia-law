@@ -1,3 +1,4 @@
-24. pants. Zemes pirkšanas un pārdošanas kārtība zemes privatizācijas gaitā
-Pašvaldībai ir pirmpirkuma tiesības uz privatizācijas gaitā pārdodamo zemes īpašumu, ja šīs tiesības netiek izmantotas šā likuma 10.pantā noteiktajā kārtībā.
-Zemes privatizācijas gaitā Latvijas Republikas pilsonim valsts piešķir zemi īpašumā zemnieka un piemājas saimniecībai tikai vienreiz.
+24. pants. Zemes privatizācijas īpašie nosacījumi
+Zemes privatizācijas gaitā Latvijas Republikas pilsonim valsts piešķir zemi īpašumā tikai vienai zemnieku un piemājas saimniecībai pret samaksu sertifikātos. Zemnieku un piemājas saimniecību paplašināšana zemes reformas laikā nav uzskatāma par jaunas zemnieku vai piemājas saimniecības izveidošanu, un līdz 1996.gada 1.novembrim pastāvīgā lietošanā piešķirtā zeme privatizējama saskaņā ar šā likuma noteikumiem.
+Zemes īpašuma tiesību noformēšanu attiecībā uz valstij un pašvaldībām piederošām un piekrītošām zemēm, kā arī valstij un pašvaldībām piederošās un piekrītošās zemes īpašuma tiesību sadales un noformēšanas kārtību regulē likums "Par valsts un pašvaldību zemes īpašuma tiesībām un to nostiprināšanu zemesgrāmatās".
+Kārtību, kādā veicami darījumi ar zemesgrāmatās nostiprinātiem zemes īpašumiem, regulē šā likuma VI nodaļa.
