@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Vakcinācijas noteikumi",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "341/343 (2252/2254)",
+  "official_journal_page": null,
+  "official_journal_date": "2000-09-29",
+  "entry_into_force": "2000-09-30",
+  "notification_date": "2013-05-08",
+  "commission_reference": "MNE(2013)53366",
+  "nim_celex": "72010L0032LVA_203922",
+  "nim_id": "203922",
+  "transposes_celex": [
+    "32010L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/de9bc518-3f99-463b-aeb7-f7bb642e3032",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
