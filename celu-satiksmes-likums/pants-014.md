@@ -1,8 +1,9 @@
-14.pants. Transportlīdzekļa atsavināšanas aizlieguma un ķīlas tiesības reģistrācija
-(1) Transportlīdzekļa atsavināšanas aizliegumu un ķīlas tiesību reģistrē attiecīgi Ceļu satiksmes drošības direkcija vai Valsts tehniskās uzraudzības inspekcija.
-(2) Transportlīdzekļa atsavināšanas aizliegums reģistrējams un dzēšams uz likumā noteiktu amatpersonu lēmuma vai tiesas nolēmuma pamata.
-(3) Ja ir reģistrēts transportlīdzekļa atsavināšanas aizliegums, transportlīdzekli nevar noņemt no uzskaites, nevar reģistrēt ķīlas tiesību un īpašnieka maiņu.
-(4) Transportlīdzekļa ieķīlāšana reģistrējama uz pieteikuma pamata, ko kopīgi iesniedz ķīlas devējs un ķīlas ņēmējs, neatkarīgi no tā, vai transportlīdzekļa ieķīlāšana paredzēta, nododot ķīlas priekšmetu ķīlas ņēmēja valdījumā vai bez nodošanas. Parakstus uz pieteikuma apliecina notariāli. Pieteikumam pievienojams dokuments, uz kura pamata nodibināta ķīlas tiesība. Ķīlas tiesība reģistrējama arī uz attiecīga tiesas nolēmuma pamata.
-(5) Ķīlas tiesība dzēšama tikai uz ķīlas ņēmēja pieteikuma vai tiesas nolēmuma pamata.
-(6) Ieķīlāto transportlīdzekli aizliegts noņemt no uzskaites vai reģistrēt transportlīdzekļa īpašnieka maiņu bez ķīlas ņēmēja piekrišanas.
-(7) Ziņas par reģistrā iekļautajām ķīlām ir publiski pieejamas.
+14.pants. Transportlīdzekļa atsavināšanas aizlieguma un komercķīlas atzīmes reģistrācija
+(1) Transportlīdzekļa atsavināšanas aizliegumu un komercķīlas atzīmi reģistrē un dzēš attiecīgi Ceļu satiksmes drošības direkcija vai Valsts tehniskās uzraudzības inspekcija.
+(2) Transportlīdzekļa atsavināšanas aizliegumu reģistrē, pamatojoties uz transportlīdzekļa īpašnieka pieteikumu vai likumā noteikto amatpersonu lēmumu, vai tiesas nolēmumu. Aizliegumu dzēš, pamatojoties uz tās personas lūgumu, pēc kuras iniciatīvas aizliegums reģistrēts, likumā noteikto amatpersonu lēmumu vai tiesas nolēmumu.
+(3) Ja ir reģistrēts transportlīdzekļa atsavināšanas aizliegums, transportlīdzekli pēc tā īpašnieka lūguma nevar noņemt no uzskaites, nevar reģistrēt komercķīlas atzīmi un īpašnieka maiņu.
+(4) Komercķīlas atzīmi attiecīgajā transportlīdzekļu reģistrā ieraksta, pamatojoties uz komercķīlas devēja un komercķīlas ņēmēja pieteikuma norakstu, izrakstu vai kopiju, kas saņemta no Komercķīlu reģistra turētāja. Atzīmi reģistrē, ja nav juridisku šķēršļu attiecīgā transportlīdzekļa ieķīlāšanai. Par atzīmes reģistrēšanu vai reģistrācijas atteikumu paziņo Komercķīlu reģistra turētājam.
+(5) Ja komercķīlas devējam, ieķīlājot transportlīdzekli, ir noteikts aizliegums izvest to vai izbraukt ar to ārpus Latvijas, attiecīgajā transportlīdzekļu reģistrā norāda arī šo aizliegumu. Pēc transportlīdzekļa īpašnieka lūguma viņam izsniedzama jauna transportlīdzekļa reģistrācijas apliecība ar aizlieguma atzīmi.
+(6) Ieķīlāto transportlīdzekli aizliegts pēc tā īpašnieka lūguma noņemt no uzskaites vai reģistrēt tā īpašnieka maiņu bez komercķīlas ņēmēja piekrišanas, par ko pieprasāma informācija no Komercķīlu reģistra turētāja.
+(7) Komercķīlas tiesības izlietošanas gadījumā pieteikumu transportlīdzekļa noņemšanai no uzskaites vai pārreģistrācijai īpašnieka vietā iesniedz komercķīlas ņēmējs. Pieteikumam papildus pievienojams Komercķīlu reģistra turētājam iesniegtā paziņojuma noraksts ar atzīmi, ka nav saņemts tiesas nolēmums par aizliegumu komercķīlas ņēmējam pārdot ieķīlāto mantu.
+(8) Komercķīlas atzīme dzēšama, pamatojoties uz Komercķīlu reģistra turētāja paziņojumu.
