@@ -1,1 +1,1 @@
-118.pants. Ja kredītiestādei tiek noteikti saistību izpildes ierobežojumi, Finansu un kapitāla tirgus komisija triju dienu laikā ieceļ šai kredītiestādē savu pilnvarnieku, par kuru var būt arī juridiskā persona.
+118.pants. Ja kredītiestādei tiek noteikti saistību izpildes ierobežojumi, Finanšu un kapitāla tirgus komisija triju dienu laikā ieceļ šai kredītiestādē savu pilnvarnieku, par kuru var būt arī juridiskā persona.

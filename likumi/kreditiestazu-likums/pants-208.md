@@ -1,1 +1,1 @@
-208.pants. Finansu un kapitāla tirgus komisijas izdotos administratīvos aktus attiecībā uz konkrētu kredītiestādi vai tās amatpersonu var pārsūdzēt tiesā mēneša laikā pēc attiecīgā administratīvā akta spēkā stāšanās dienas.
+208.pants. Finanšu un kapitāla tirgus komisijas izdotos administratīvos aktus attiecībā uz konkrētu kredītiestādi vai tās amatpersonu var pārsūdzēt tiesā mēneša laikā pēc attiecīgā administratīvā akta spēkā stāšanās dienas.
