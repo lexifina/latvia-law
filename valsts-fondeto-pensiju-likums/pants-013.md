@@ -1,9 +1,9 @@
 13.pants. Fondēto pensiju shēmas līdzekļu pārvaldītāju darbības uzraudzība
-(1) Komisija uzrauga ieguldījumu sabiedrību darbību, tām pārvaldot fondēto pensiju shēmas līdzekļus.
+(1) Komisija uzrauga ieguldījumu pārvaldes sabiedrību darbību, tām pārvaldot fondēto pensiju shēmas līdzekļus.
 (2) Komisijai ir pienākums:
-1) uzraudzīt, lai ieguldījumu sabiedrības, pārvaldot fondēto pensiju shēmas līdzekļus, ievēro normatīvo aktu prasības;
+1) uzraudzīt, lai ieguldījumu pārvaldes sabiedrības, pārvaldot fondēto pensiju shēmas līdzekļus, ievēro normatīvo aktu prasības;
 2) reģistrēt likumu prasībām atbilstošo ieguldījumu plānu prospektu;
-3) izdot noteikumus par ieguldījumu sabiedrību licencēšanu fondēto pensiju shēmas līdzekļu pārvaldīšanai.
+3) izdot noteikumus par ieguldījumu pārvaldes sabiedrību licencēšanu fondēto pensiju shēmas līdzekļu pārvaldīšanai.
 (3) Komisija par visiem lēmumiem līdzekļu pārvaldītāju licencēšanas jautājumos ziņo Aģentūrai.
 (4) Komisijai un tās apstiprinātiem zvērinātiem revidentiem ir tiesības veikt fondēto pensiju shēmas līdzekļu pārvaldītāju un līdzekļu turētāju darbības pārbaudes un pieprasīt dokumentus un informāciju par to darbību un fondēto pensiju shēmas līdzekļu pārvaldīšanu. Šādās pārbaudēs līdzekļu pārvaldītāju un līdzekļu turētāju pienākums ir sniegt visu nepieciešamo informāciju un uzrādīt visus dokumentus.
 (5) Komisija, pamatojoties uz iesniegtajiem pārskatiem un veiktajām pārbaudēm, novērtē līdzekļu pārvaldītāja un līdzekļu turētāja finansiālā stāvokļa stabilitāti un maksātspēju un, ja nepieciešams, dod norādījumus par stāvokļa uzlabošanu attiecībā uz fondēto pensiju shēmas aktīviem, kā arī nosaka norādījumu izpildes laiku.
