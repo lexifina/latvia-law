@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Satiksmes ministrijas 2003. gada 25. augusta noteikumi Nr. 19 \"Latvijas jūrnieku sagatavošanas, sertificēšanas un sardzes pildīšanas noteikumi\"",
+  "type_of_act": "Ministra noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "15",
+  "official_journal_page": null,
+  "official_journal_date": "2005-01-27",
+  "entry_into_force": "2003-08-25",
+  "notification_date": "2005-02-04",
+  "commission_reference": "MNE(2005)55039",
+  "nim_celex": "72001L0025LVA_35039",
+  "nim_id": "35039",
+  "transposes_celex": [
+    "32001L0025"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7df57307-1e86-487f-b8e1-8c81a40d709e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
