@@ -1,0 +1,1 @@
+1.pants. 1969.gada 23.jūnijā Londonā parakstītā Starptautiskā konvencija par kuģu tilpības mērīšanu (turpmāk - Konvencija) un tās 1. un 2.pielikums (turpmāk - Pielikumi) ar šo likumu tiek pieņemti un apstiprināti.
