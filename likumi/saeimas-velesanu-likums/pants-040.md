@@ -1,0 +1,1 @@
+40. pants. Ja viens un tas pats kandidāts saskaņā ar šā likuma 38.pantu ievēlēts par deputātu vairākos vēlēšanu apgabalos, viņš uzskatāms par ievēlētu tajā vēlēšanu apgabalā, kurā saņēmis visvairāk balsu, bet pārējos vēlēšanu apgabalos no attiecīgā kandidātu saraksta par ievēlētu uzskatāms nākamais kandidāts, kas saņēmis lielāko balsu skaitu.

@@ -1,0 +1,2 @@
+34. pants. (1) Iecirkņa komisijas iepriekšējās balsu skaitīšanas protokolā atzīmējams no rajona (republikas pilsētas) vēlēšanu komisijas saņemto aplokšņu skaits, pāri palikušo aplokšņu skaits, iecirkņa komisijas izsniegto aplokšņu skaits, aplokšņu skaits vēlēšanu kastēs pēc to atvēršanas, nodoto vēlēšanu zīmju skaits, nederīgo zīmju skaits, kā arī šā likuma 31.pantā minētās ziņas.
+(2) Nederīgās vēlēšanu zīmes numurējamas, un par katru no tām protokolā ierakstāms, kāpēc zīme uzskatīta par nederīgu.

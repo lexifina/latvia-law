@@ -1,0 +1,4 @@
+12. pants. (1) Centrālā vēlēšanu komisija reģistrē tikai tādus kandidātu sarakstus, kuru iesniedzēji ir iemaksājuši Centrālās vēlēšanu komisijas depozītā 1000 latu drošības naudu.
+(2) Banka drošības naudas iemaksātājam izsniedz kvīti, kurā norādīts, kas naudu iemaksājis, kad tā iemaksāta un kāds nosaukums ir kandidātu sarakstam, par kuru drošības nauda iemaksāta. Šī kvīts iesniedzama Centrālajai vēlēšanu komisijai.
+(3) Iemaksātā drošības nauda dod tiesības iesniegt viena nosaukuma kandidātu sarakstus visos vēlēšanu apgabalos, un tā atdodama iemaksātājam, ja no šā nosaukuma kandidātu saraksta kaut vienā vēlēšanu apgabalā ievēlēts vismaz viens deputāts.
+(4) Drošības naudu, kas iemaksāta par tāda nosaukuma kandidātu sarakstu, no kura neviens deputāts nav ievēlēts, Centrālā vēlēšanu komisija iemaksā valsts budžetā.

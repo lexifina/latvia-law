@@ -1,0 +1,1 @@
+43. pants. Vēlētāji, kas vēlēšanu laikā uzturas ārvalstīs, balso vai nu personiski ierodoties vēlēšanu iecirkņos, kurus pēc Ārlietu ministrijas priekšlikuma Centrālā vēlēšanu komisija izveido Latvijas Republikas konsulārajās iestādēs, vai arī pa pastu.

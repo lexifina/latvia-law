@@ -1,0 +1,1 @@
+49. pants. Pilnīgie vēlēšanu rezultāti, arī rezultāti par katra kandidātu saraksta katra kandidāta saņemto balsu skaitu katrā vēlēšanu iecirknī, sešu mēnešu laikā apkopojami un publicējami atsevišķā izdevumā, kas ir brīvi pieejams valsts bibliotēkās.

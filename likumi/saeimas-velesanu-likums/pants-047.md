@@ -1,0 +1,2 @@
+47. pants. (1) Iecirkņa komisija atver tikai tās pasta aploksnes, uz kurām ir atzīme, ka šajā aploksnē ir vēlēšanu aploksne, un kuras tā saņēmusi līdz balsu skaitīšanas uzsākšanai attiecīgajā iecirknī.
+(2) Pasta aploksnes, uz kurām ir atzīme, ka šajā aploksnē ir vēlēšanu aploksne, un kuras saņemtas pēc balsu skaitīšanas uzsākšanas attiecīgajā iecirknī, iecirkņa komisija neatver. Šīs aploksnes numurē un par katru protokolā ieraksta, kad tā saņemta.

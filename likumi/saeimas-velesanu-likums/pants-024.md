@@ -1,0 +1,2 @@
+24. pants. (1) Ja atsevišķi vēlētāji veselības stāvokļa dēļ nevar ierasties vēlēšanu telpās, iecirkņa komisija pēc šo vēlētāju vai viņu pilnvarotas personas rakstveida iesnieguma, kas reģistrēts īpašā žurnālā, uzdod diviem komisijas locekļiem organizēt balsošanu šo vēlētāju atrašanās vietā. Citu vēlētāju balsošana ārpus vēlēšanu telpām nav pieļaujama.
+(2) Vēlētāji, kuri saskaņā ar šā panta pirmo daļu balso savā atrašanās vietā, tiek ierakstīti atsevišķā balsotāju sarakstā, un aizlīmētās aploksnes tiek iemestas atsevišķā aizzīmogotā vēlēšanu kastē.

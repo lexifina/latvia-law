@@ -1,0 +1,2 @@
+6. pants. (1) Ja par deputāta kandidātu ir pieteikts Valsts prezidents, valsts kontrolieris, Valsts kontroles padomes vai revīzijas departamenta kolēģijas loceklis, tiesnesis, prokurors vai militārpersona, viņiem viena mēneša laikā pēc deputātu kandidātu saraksta (turpmāk - kandidātu saraksts) reģistrēšanas ir jāatstāj ieņemamais amats (dienests) un jāpaziņo par to Centrālajai vēlēšanu komisijai.
+(2) Pilsētas domes, rajona padomes vai pagasta padomes deputātu var pieteikt par Saeimas deputāta kandidātu, taču ievēlēšanas gadījumā viņš zaudē domes (padomes) deputāta mandātu.

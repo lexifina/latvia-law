@@ -1,0 +1,5 @@
+15. pants. Centrālā vēlēšanu komisija nodrošina, lai ne vēlāk kā desmit dienas pirms vēlēšanu pirmās dienas laikrakstā "Latvijas Vēstnesis" tiktu publicētas:
+1) priekšvēlēšanu programmas;
+2) visi kandidātu saraksti [norādot kandidāta vārdu, uzvārdu, dzimšanas gadu, ārvalsts pilsonību (pavalstniecību), ja tāda ir, dzīvesvietu (rajonu vai pilsētu), izglītību, pamatdarba vietu un ieņemamo amatu];
+3) šā likuma 11.panta 4.punkta "a" un "c" - "i" apakšpunktā minētās ziņas par katru kandidātu;
+4) to kandidātu vārdi un uzvārdi, attiecībā uz kuriem Totalitārisma seku dokumentēšanas centram ir ziņas, ka tā rīcībā, Valsts arhīvā vai citās valsts glabātavās ir dokumenti, kas liecina, ka šie kandidāti varētu būt sadarbojušies ar PSRS, Latvijas PSR vai ārvalstu valsts drošības dienestiem, izlūkdienestiem vai pretizlūkošanas dienestiem kā šo dienestu ārštata darbinieki, aģenti, rezidenti vai konspiratīvā dzīvokļa turētāji.

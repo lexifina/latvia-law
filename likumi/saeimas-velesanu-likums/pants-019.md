@@ -1,0 +1,1 @@
+19. pants. Vēlēšanu laikā uzraudzību pār kārtību vēlēšanu telpās veic vēlēšanu komisijas priekšsēdētājs. Viņš raugās, lai vēlēšanu telpās un tuvāk par 50 metriem no to ieejas nenotiktu vēlēšanu brīvības ierobežošana un kārtības traucēšana, kā arī aģitācija.
