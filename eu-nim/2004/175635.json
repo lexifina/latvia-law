@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Elektronisko sakaru likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "183",
+  "official_journal_page": null,
+  "official_journal_date": "2004-11-17",
+  "entry_into_force": "2004-12-01",
+  "notification_date": "2011-01-05",
+  "commission_reference": "MNE(2011)50060",
+  "nim_celex": "72002L0021LVA_175635",
+  "nim_id": "175635",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/ac83f215-2d12-4fd0-ac6f-da805410842b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
