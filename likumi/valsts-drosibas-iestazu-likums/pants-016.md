@@ -1,5 +1,5 @@
 16. pants. Zemessardzes štāba Informācijas dienests
-(1) Zemessardzes štāba Informācijas dienests (turpmāk - Informācijas dienests) ir Zemessardzes pretizlūkošanas institūcija. Tas darbojas saskaņā ar Zemessardzes priekšnieka apstiprinātu nolikumu un ir pakļauts Zemessardzes štāba priekšniekam.
+(1) Zemessardzes štāba Informācijas dienests (turpmāk - Informācijas dienests) ir Zemessardzes pretizlūkošanas institūcija. Tas darbojas saskaņā ar Zemessardzes komandiera apstiprinātu nolikumu.
 (2) Informācijas dienests:
 1) veic Zemessardzes darbības informatīvo nodrošināšanu;
 2) veic Zemessardzes struktūru aizsardzībai nepieciešamos pretizlūkošanas pasākumus;
