@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Komerclikums ar grozījumiem, kas izsludināti līdz 14.05.2008",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "158/160",
+  "official_journal_page": null,
+  "official_journal_date": "2000-05-04",
+  "entry_into_force": "2002-01-01",
+  "notification_date": "2008-06-10",
+  "commission_reference": "MNE(2008)53342",
+  "nim_celex": "71978L0855LVA_156233",
+  "nim_id": "156233",
+  "transposes_celex": [
+    "31978L0855"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/23c1dede-5b4d-4809-ac72-02858b1d1328",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
