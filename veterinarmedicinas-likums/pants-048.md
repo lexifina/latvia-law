@@ -1,1 +1,1 @@
-48.pants. Dzīvnieku izcelsmes pārtikas jēlproduktus (olas, medu, pienu) un mājas apstākļos ražotos dzīvnieku izcelsmes pārtikas produktus izplata tikai tādos tirgos, kurus ir atzinis Pārtikas un veterinārais dienests un kuri ir iekļauti Pārtikas un veterinārā dienesta uzraudzības uzņēmumu (uzņēmējsabiedrību) sarakstā.
+48.pants. Dzīvnieku izcelsmes pārtikas jēlproduktus (olas, medu, pienu) un mājas apstākļos ražotos dzīvnieku izcelsmes pārtikas produktus izplata tikai tādos tirgos, kuri ir novērtēti un atzīti Pārtikas aprites uzraudzības likumā noteiktajā kārtībā.

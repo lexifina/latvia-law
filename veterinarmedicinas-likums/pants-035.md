@@ -1,4 +1,4 @@
-35.pants. (1) Epizootijas uzliesmojuma gadījumā dzīvnieku īpašniekam, ja viņš izpildījis visas prasības, ir tiesības saskaņā ar šā likuma 33.pantu saņemt kompensāciju par:
+35.pants. (1) Epizootijas uzliesmojuma gadījumā dzīvnieku īpašniekam, ja viņš izpildījis attiecīgajos Ministru kabineta noteikumos reglamentētās prasības, ir tiesības saskaņā ar šā likuma 33.pantu saņemt kompensāciju par:
 1) piespiedu kārtā nokautajiem un iznīcinātajiem dzīvniekiem;
 2) iznīcinātajiem kautķermeņiem un dzīvnieku izcelsmes produktiem;
 3) iznīcināto dzīvnieku barību un inventāru;
