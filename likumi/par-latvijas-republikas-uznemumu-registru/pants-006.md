@@ -9,7 +9,7 @@ Uzņēmumu reģistra žurnālā par katru uzņēmumu (uzņēmējsabiedrību) ier
 7) statūtsabiedrības pamatkapitāls (statūtu fonds), akciju vai līdzdalības daļu (paju) skaits un to nominālā vērtība;
 8) statūtsabiedrības padomes un valdes locekļu, kā arī direktoru rīkotāju (prezidentu) vārds, uzvārds, adrese un pilsonība;
 9) to amatpersonu un līgumsabiedrības dalībnieku vārds, uzvārds un ieņemamais amats, kam piešķirtas paraksta tiesības;
-10) atļaujas izsniegšanas datums un tās termiņš, ja uzņēmuma (uzņēmējsabiedrības) dibināšanai saskaņā ar Latvijas Republikas likumdošanu nepieciešama atļauja.
+10) (izslēgts ar 14.05.1991. likumu).
 Reģistrējamiem ārvalstu (arī PSRS) uzņēmumiem (uzņēmējsabiedrībām), to filiālēm un pārstāvniecībām papildus vēl jānorāda:
 1) galvenā uzņēmuma (uzņēmējsabiedrības) adrese ārpus Latvijas;
 2) kapitāla daļa, kas paredzēta uzņēmējdarbības veikšanai Latvijā;

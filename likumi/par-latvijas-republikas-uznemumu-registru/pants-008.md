@@ -3,8 +3,8 @@ Latvijas Republikas Uzņēmumu reģistra valsts notārs pārbauda:
 1) vai reģistrēšanas pieteikums iesniegts tieši tai Latvijas Republikas Uzņēmumu reģistra iestādei, kurai tas jāreģistrē;
 2) vai reģistrējamais uzņēmums (uzņēmējsabiedrība) nodibināts saskaņā ar spēkā esošo likumdošanu;
 3) vai uzņēmējsabiedrības vadošās amatpersonas ievēlētas likumam un statūtiem atbilstošā kārtībā.
-Jautājumu par reģistrācijas pieteikuma pieņemšanu reģistra notārs izlemj 7 dienu laikā pēc pieteikuma saņemšanas.
 Par katru pieteikumu reģistra notārs lemj atsevišķi un lēmumu ieraksta Uzņēmumu reģistra žurnālā, datē un paraksta to.
+Pieņemot pieteikumu (dokumentus) reģistrēšanai, Uzņēmumu reģistrs paraksta pieteikuma norakstu, tādējādi apliecinot dokumentu pieņemšanu.
 Ja reģistra valsts notārs konstatē kļūdu, kas notikusi reģistrācijas procesā, viņš paziņo pieteikuma iesniedzējam par nepareizību un nosaka 7 dienu termiņu iebildumu celšanai. Ja šajā laikā iebildumi nav celti vai ja reģistra notārs atzīst iebildumus par nepamatotiem, viņš pieņem lēmumu par ieraksta vai lēmuma izlabošanu.
 Ja Latvijas Republikas Uzņēmumu reģistra valsts notāram ir dibinātas ziņas, ka Uzņēmumu reģistra žurnālā ierakstītais uzņēmums (uzņēmējsabiedrība) gada laikā nekādu uzņēmējdarbību nav uzsācis, viņš pieprasa no uzņēmēja (uzņēmuma, uzņēmējsabiedrības vadītāja) vai pilnvarotas personas paskaidrojumu par uzņēmuma (uzņēmējsabiedrības) stāvokli.
 Ja Latvijas Republikas Uzņēmumu reģistrs 30 dienu laikā nesaņem pieprasīto paskaidrojumu vai saņem paskaidrojumu, kas minētās ziņas apstiprina, vai ja šo paskaidrojumu reģistra valsts notārs atzīst par nepamatotu, Latvijas Republikas Uzņēmumu reģistra valsts notārs pieņem lēmumu par uzņēmuma (uzņēmējsabiedrības) likvidēšanu, bet attiecībā uz statūtsabiedrībām - ieceļ arī likvidatorus.
