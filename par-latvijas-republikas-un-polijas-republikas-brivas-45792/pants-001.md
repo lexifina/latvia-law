@@ -1,0 +1,1 @@
+1.pants. 1997.gada 28.aprīlī Varšavā parakstītais Latvijas Republikas un Polijas Republikas brīvās tirdzniecības līgums (turpmāk - Līgums), tā I, II, III, IV un V pielikums (turpmāk - Pielikumi), 1., 2. un 3.protokols (turpmāk - Protokoli) un saprašanās memorands (turpmāk - Memorands) ar šo likumu tiek pieņemti un apstiprināti.
