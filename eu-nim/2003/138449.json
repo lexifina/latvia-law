@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Komercdarbības atbalsta kontroles likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "189",
+  "official_journal_page": null,
+  "official_journal_date": "2002-12-28",
+  "entry_into_force": "2003-01-01",
+  "notification_date": "2006-12-07",
+  "commission_reference": "MNE(2006)58231",
+  "nim_celex": "71980L0723LVA_138449",
+  "nim_id": "138449",
+  "transposes_celex": [
+    "31980L0723",
+    "31993L0084",
+    "32000L0052",
+    "32005L0081",
+    "32006L0111"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/928ce6fb-0c14-48c6-9b76-2167c8162041",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
