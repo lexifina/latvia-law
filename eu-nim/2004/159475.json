@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums \"Par akcīzes nodokli\" ar grozījumiem, kas pieņemti līdz 14.11.2008.",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "161",
+  "official_journal_page": null,
+  "official_journal_date": "2003-11-14",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2008-12-04",
+  "commission_reference": "MNE(2008)56484",
+  "nim_celex": "72007L0074LVA_159475",
+  "nim_id": "159475",
+  "transposes_celex": [
+    "32007L0074"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1b32be85-db7a-4706-84d4-39717a7ef0db",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
