@@ -1,0 +1,1 @@
+1.pants. 1994.gada 14.septembrī Briselē parakstītais Līgums par trešo valstu pārstāvniecību un pārstāvju Ziemeļatlantijas līguma organizācijā statusu (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
