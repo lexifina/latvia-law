@@ -1,4 +1,4 @@
 23.pants. Pārstāvība Satversmes tiesā
-(1) Lietas dalībnieku - pieteikuma iesniedzēju, kā arī institūciju vai amatpersonu, kas izdevusi aktu, kurš tiek apstrīdēts, - var pārstāvēt tā pārstāvis.
-(2) Ja pieteikumu iesniedz ne mazāk kā viena trešdaļa Saeimas deputātu, viņi ir uzskatāmi par vienu procesuālo personu. Procesuālās darbības viņi var izdarīt tikai ar viena pilnvarotā pārstāvja starpniecību. Šādu pilnvarojumu apstiprina Saeimas Kanceleja.
-(3) Lietas dalībnieki var izmantot zvērināta advokāta palīdzību.
+(1) Lietas dalībnieks - pieteikuma iesniedzējs, kā arī institūcija vai amatpersona, kas izdevusi aktu, kurš tiek apstrīdēts, - var procesuālās darbības Satversmes tiesā veikt pats vai ar pilnvarota pārstāvja starpniecību.
+(2) Ja pieteikumu iesniedz ne mazāk kā divdesmit Saeimas deputātu, viņi ir uzskatāmi par vienu procesuālo personu. Procesuālās darbības viņi var izdarīt tikai ar viena pilnvarotā pārstāvja starpniecību. Pirmais, kas parakstījis pieteikumu, uzskatāms par pilnvaroto pārstāvi, ja Saeimas deputāti nav vienojušies citādi. Šādu pilnvarojumu apliecina Saeimas Kanceleja.
+(3) Lietas dalībnieki var izmantot zvērināta advokāta palīdzību. Zvērinātam advokātam tiesas sēdē ir visas lietas dalībnieka tiesības, izņemot tiesības atsaukt pieteikumu. Zvērināta advokāta pilnvaras apliecina orderis. Lietas dalībnieks var uzticēt zvērinātam advokātam arī pilnvarotā pārstāvja pienākumus. Šāds pilnvarojums apliecināms ar rakstveida pilnvaru.
