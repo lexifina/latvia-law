@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2003.gada 29.aprīļa noteikumi Nr.242 \"Satiksmes ministrijas nolikums\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "70",
+  "official_journal_page": null,
+  "official_journal_date": "2003-05-13",
+  "entry_into_force": "2003-05-14",
+  "notification_date": "2020-09-29",
+  "commission_reference": "MNE(2020)57181",
+  "nim_celex": "72018L1972LVA_288938",
+  "nim_id": "288938",
+  "transposes_celex": [
+    "32018L1972"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3d9ef982-0477-11eb-a511-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
