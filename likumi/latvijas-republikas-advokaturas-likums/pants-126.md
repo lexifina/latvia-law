@@ -1,0 +1,1 @@
+126. Eiropas Savienības dalībvalstu advokāti var veidot savu mītnes valstu advokātu apvienību filiāles Latvijā, kā arī izmantot mītnes valstu advokātu apvienību nosaukumus, ja mītnes valsts advokātu apvienībā apvienojušies pilntiesīgi Eiropas Savienības dalībvalstu advokāti.

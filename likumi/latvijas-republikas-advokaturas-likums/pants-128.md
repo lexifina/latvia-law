@@ -1,0 +1,1 @@
+128. Ja Eiropas Savienības dalībvalsts advokāta mītnes valsts kompetentā institūcija aizliedz advokātam praktizēt savas valsts teritorijā, Eiropas Savienības dalībvalsts advokāts Latvijā nevar praktizēt ar savas mītnes valsts profesijas nosaukumu.

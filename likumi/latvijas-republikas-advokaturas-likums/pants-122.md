@@ -1,0 +1,1 @@
+122. Latvijas Zvērinātu advokātu padome informē advokāta mītnes valsts kompetento institūciju par advokāta reģistrāciju un reģistrētā advokāta vārdu un uzvārdu publicē laikrakstā "Latvijas Vēstnesis".

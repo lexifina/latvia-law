@@ -1,0 +1,1 @@
+125. Eiropas Savienības dalībvalstu advokāti, kuri Latvijā praktizē ar savas mītnes valsts profesijas nosaukumu, var veidot apvienotu praksi ar tādiem pašiem nosacījumiem kā Latvijas zvērināti advokāti.

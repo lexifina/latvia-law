@@ -1,0 +1,1 @@
+130. Ja Eiropas Savienības dalībvalsts advokāts apliecina valsts valodas prasmi un zināšanas Latvijas tiesībās un Latvijas Zvērinātu advokātu padome atzīst Eiropas Savienības dalībvalsts advokāta profesionālo kvalifikāciju par atbilstošu pastāvīgai darbībai, viņam ir tādas pašas tiesības uz profesionālo darbību un pienākumi kā Latvijas zvērinātam advokātam.

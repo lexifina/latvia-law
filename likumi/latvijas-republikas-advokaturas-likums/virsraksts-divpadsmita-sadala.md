@@ -1,0 +1,3 @@
+Divpadsmitā sadaļa
+Eiropas Savienības dalībvalsts advokāta
+profesionālās kvalifikācijas atzīšana par atbilstošu pastāvīgai darbībai

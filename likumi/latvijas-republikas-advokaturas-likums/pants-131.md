@@ -1,0 +1,1 @@
+131. Ja Eiropas Savienības dalībvalsts advokāts Latvijā vismaz trīs gadus nepārtraukti ir veicis profesionālo darbību ar savas mītnes valsts profesijas nosaukumu un ja viņš Latvijas Zvērinātu advokātu padomei apliecina nepieciešamās zināšanas un iegūto praksi Latvijas tiesību jomā, viņam izsniedz profesionālās kvalifikācijas atzīšanas apliecību.
