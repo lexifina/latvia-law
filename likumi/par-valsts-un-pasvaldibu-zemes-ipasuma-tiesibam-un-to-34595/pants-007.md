@@ -1,1 +1,1 @@
-7.pants. Pēc Ministru kabineta rīkojuma izdošanas par zemes reformas pabeigšanu attiecīgās pašvaldības teritorijā tā zeme, kura zemes reformas gaitā nav nodota īpašumā fiziskajām vai juridiskajām personām un kura Ministru kabineta noteiktajā kārtībā nav nodota īpašumā attiecīgajai pašvaldībai, piekrīt valstij un zemesgrāmatā ierakstāma uz valsts vārda.
+7.pants. Pēc zemes reformas pabeigšanas bezīpašnieka zeme piekrīt valstij un ierakstāma zemesgrāmatā uz valsts vārda.
