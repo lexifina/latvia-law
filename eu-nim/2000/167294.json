@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Reklāmas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "7",
+  "official_journal_page": null,
+  "official_journal_date": "2000-01-10",
+  "entry_into_force": "2000-01-24",
+  "notification_date": "2010-03-02",
+  "commission_reference": "MNE(2010)51536",
+  "nim_celex": "72006L0123LVA_167294",
+  "nim_id": "167294",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/8e666b12-62ef-44f8-8f30-de65e49ad779",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
