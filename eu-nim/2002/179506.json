@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums \"Par zvērinātiem revidentiem\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "78",
+  "official_journal_page": null,
+  "official_journal_date": "2001-05-22",
+  "entry_into_force": "2002-01-01",
+  "notification_date": "2011-03-25",
+  "commission_reference": "MNE(2011)52522",
+  "nim_celex": "72009L0110LVA_179506",
+  "nim_id": "179506",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/44520bd6-8a31-4deb-9763-24e6089c250a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
