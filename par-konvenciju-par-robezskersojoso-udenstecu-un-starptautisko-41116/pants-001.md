@@ -1,0 +1,1 @@
+1.pants. 1992.gada 17.martā Helsinkos parakstītā Konvencija par robežšķērsojošo ūdensteču un starptautisko ezeru aizsardzību un izmantošanu (turpmāk - Konvencija) un tās 1., 2., 3. un 4.pielikums (turpmāk - Pielikumi) ar šo likumu tiek pieņemti un apstiprināti.
