@@ -1,1 +1,1 @@
-6.pants. Pašvaldības līdz 1998.gada 15.septembrim saskaņā ar šā likuma pielikumu iesniedz Latvijas Attīstības aģentūras Privatizācijas un sertifikācijas informatīvā nodrošinājuma centram (turpmāk - Informācijas centrs) to personu sarakstus, kurām dzēšami sertifikāti (turpmāk -saraksts).
+6.pants. Pašvaldības ne vēlāk kā līdz 2004.gada 31.decembrim saskaņā ar šā likuma pielikumu iesniedz Ministru kabineta noteiktā institūcijā (turpmāk - Informācijas centrs) to personu sarakstus, kurām dzēšami sertifikāti (turpmāk - saraksts).

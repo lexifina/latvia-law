@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta noteikumi nr. 295 "Kārtība, kādā dzēšami administratīvi nepamatoti izsūtītajām personām par atņemto mantu piešķirtie īpašuma kompensācijas sertifikāti" (Latvijas Vēstnesis, 1998, 235./236.nr.).

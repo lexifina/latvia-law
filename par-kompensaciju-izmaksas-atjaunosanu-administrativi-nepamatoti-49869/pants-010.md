@@ -1,1 +1,1 @@
-10.pants. Pārbaudīto sarakstu Informācijas centrs nosūta attiecīgajai kredītiestādei un informē par to Valsts kasi.
+10.pants. Pārbaudīto sarakstu Informācijas centrs nosūta attiecīgajai kredītiestādei un informē par to Valsts kasi. Informācijas centrs neiekļauj sarakstā personas, kurām tiesības dzēst sertifikātus piešķirtas nepamatoti.

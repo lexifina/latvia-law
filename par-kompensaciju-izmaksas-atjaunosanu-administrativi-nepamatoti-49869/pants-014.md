@@ -1,1 +1,1 @@
-14.pants. Pēc pārskaitījumu apliecinošo dokumentu saņemšanas Valsts kase pārskaita valsts budžeta līdzekļus kompensācijas saņēmēja atvērtajā norēķinu kontā tajā kredītiestādē, kurā atvērts kompensācijas saņēmēja privatizācijas sertifikātu konts.
+14.pants. Pēc pārskaitījumu apliecinošo dokumentu saņemšanas Ministru kabineta noteiktā institūcija pārskaita valsts īpašuma privatizācijas līdzekļus kompensācijas saņēmēja atvērtajā norēķinu kontā tajā kredītiestādē, kurā atvērts kompensācijas saņēmēja privatizācijas sertifikātu konts.
