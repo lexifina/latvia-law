@@ -6,7 +6,7 @@
 3) par valsts drošībai un aizsardzībai nozīmīgu būvju, iekārtu, ražotņu un citu objektu plānojumu, aizsardzības un evakuācijas plāniem;
 4) par valsts drošības un aizsardzības vajadzībām ražotās produkcijas veidiem un daudzumu, kā arī ražotņu potenciālu;
 5) par šifriem (kodiem), šifrēšanas sistēmām un aparatūru;
-6) par operatīvās darbības, izlūkošanas un pretizlūkošanas organizāciju, saturu, taktiku un metodēm, kā arī par personām, kas iesaistītas operatīvās darbības pasākumu veikšanā;
+6) par operatīvās darbības, izlūkošanas un pretizlūkošanas organizāciju, saturu, taktiku un metodēm, kā arī par personām, kas iesaistītas operatīvās darbības pasākumu veikšanā, un personām, kas iesaistītas speciālajā procesuālajā aizsardzībā;
 7) par valsts drošības iestāžu struktūru un atsevišķu struktūrvienību dislokāciju;
 8) par Iekšlietu ministrijas struktūrvienību, valsts drošības un aizsardzības iestāžu rīcības un darbības plāniem izņēmuma stāvokļa, masu nekārtību gadījumā vai par speciālajām operācijām cīņā pret organizēto noziedzību;
 9) par valsts materiālo rezervju apjomu, izvietojumu un to turētājiem (glabātājiem);
