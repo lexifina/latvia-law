@@ -1,0 +1,1 @@
+4. Valsts probācijas dienests to personu uzvedības kontroli, par kurām līdz 2009.gada jūnija grozījumu likumā "Par valsts budžetu 2009.gadam" spēkā stāšanas dienai pieņemts lēmums par kriminālprocesa izbeigšanu, nosacīti atbrīvojot no kriminālatbildības, turpina un pabeidz šajā lēmumā un normatīvajos aktos noteiktajā kārtībā.

@@ -1,0 +1,1 @@
+5. Valsts probācijas dienests šā likuma 17.panta pirmās daļas 2. un 3.punktā noteikto neīsteno no 2009.gada jūnija grozījumu likumā "Par valsts budžetu 2009.gadam" spēkā stāšanās dienas līdz 2012.gada 31.decembrim.
