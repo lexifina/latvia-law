@@ -1,1 +1,1 @@
-4. Šā likuma 53.panta otrā daļa stājas spēkā 2000.gada 1.janvārī.
+4. Šā likuma 53.panta otrās daļas noteikumu izpilde pilnā apjomā tiek nodrošināta pakāpeniski līdz 2002.gada 1.janvārim. Ministru kabinets līdz 2000.gada 1.martam izstrādā pedagogu darba samaksas palielinājuma grafiku un nosaka precīzus termiņus tā īstenošanai, kā arī apstiprina plānu izglītības sistēmas reformas pasākumiem, kuru mērķis ir nodrošināt izglītības finansēšanas efektivitātes paaugstināšanu.
