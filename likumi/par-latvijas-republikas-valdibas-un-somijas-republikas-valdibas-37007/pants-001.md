@@ -1,0 +1,1 @@
+1.pants. 1994.gada 14.aprīlī Helsinkos parakstītais Latvijas Republikas valdības un Somijas Republikas valdības līgums par savstarpējo palīdzību muitas jautājumos (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
