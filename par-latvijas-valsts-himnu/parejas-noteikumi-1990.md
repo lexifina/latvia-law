@@ -1,0 +1,1 @@
+Ar šā likuma spēkā stāšanos spēku zaudē likums "Par Latvijas Republikas valsts himnu" (Latvijas PSR Augstākās Padomes un Valdības Ziņotājs, 1990, 9.nr.; Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 5./6.nr.).
