@@ -1,0 +1,1 @@
+1.pants. 2003.gada 9.septembrī parakstītais Latvijas Republikas un Turcijas Republikas brīvās tirdzniecības līguma Papildprotokols nr.2 "Par grozījumiem C protokolā" (turpmāk - Papildprotokols) ar šo likumu tiek pieņemts un apstiprināts.

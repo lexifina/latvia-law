@@ -1,0 +1,4 @@
+Printing instructions
+1. Each form shall measure 210 x 297 mm; a tolerance of up to minus 5 mm or plus 8 mm in the length may be allowed. The paper used must be white, sized for writing, not containing mechanical pulp and weighing not less than 25 g/m2. It shall have a printed green guilloche pattern background making any falsification by mechanical or chemical means apparent to the eye.
+2. The competent authorities of the Turkey and of Latvia may reserve the right to print the forms themselves or may have them printed by approved printers. In the latter case, each form must include a reference to such approval. Each form must bear the name and address of the printer or a mark by which the printer can be identified. It shall also bear a serial number, either printed or not, by which it can be identified.
+Annex IV to Protocol C
