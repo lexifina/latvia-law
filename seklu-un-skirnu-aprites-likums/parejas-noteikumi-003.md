@@ -1,0 +1,1 @@
+3. Līdz attiecīgu grozījumu izdarīšanai Administratīvo pārkāpumu kodeksā Sēklu valsts inspekcijai un Valsts augu šķirņu salīdzināšanas centram paredzētās tiesības realizē Valsts augu aizsardzības dienests.

@@ -1,0 +1,1 @@
+2. Ministru kabinets līdz 2000.gada 1.jūlijam apstiprina Latvijas augu šķirņu katalogu. Līdz šā kataloga ieviešanai tiek piemērots audzēšanai Latvijā ieteicamo un perspektīvo šķirņu saraksts, kuru apstiprina Nacionālā augu šķirņu padome.
