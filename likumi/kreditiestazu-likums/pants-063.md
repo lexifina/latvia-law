@@ -14,4 +14,5 @@ c) nodokļu maksātājs neveic nodokļu maksājumus atbilstoši nodokļu likumu 
 4) (izslēgts ar 30.10.1997. likumu);
 5) noziedzīgi iegūtu līdzekļu legalizācijas novēršanas dienestam - likumā "Par noziedzīgi iegūtu līdzekļu legalizācijas novēršanu" paredzētajos gadījumos un kārtībā;
 6) valsts drošības iestādēm pēc ģenerālprokurora vai īpaši pilnvarota prokurora akceptēta pieprasījuma, ja ziņas nepieciešamas, lai pārbaudītu personu vai finansu līdzekļu saistību ar terorismu.
-(2) Kredītiestāde ziņas sniedz, pamatojoties uz valsts institūcijas rakstveida pieprasījumu, kurā norādīta konkrētā pārbaudāmā persona un pamatota ziņu nepieciešamība atbilstoši konkrētā likuma prasībām.
+(2) Tiesu izpildītājam izpildu lietā par naudas summu piedziņu ziņas sniedzamas par fizisko un juridisko personu kontiem tādā apjomā, kāds nepieciešams attiecīgo funkciju veikšanai likumos noteiktajā kārtībā.
+(3) Kredītiestāde ziņas sniedz, pamatojoties uz valsts institūcijas vai amatpersonas rakstveida pieprasījumu, kurā norādīta konkrētā pārbaudāmā persona un pamatota ziņu nepieciešamība atbilstoši konkrētā likuma prasībām.
