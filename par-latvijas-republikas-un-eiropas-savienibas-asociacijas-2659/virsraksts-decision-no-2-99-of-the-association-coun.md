@@ -1,0 +1,1 @@
+Decision No 2 /99 Of The Association Council Of The European Union And The Republic Of Latvia Of 08/12/1999 amending Protocol 3 to the Europe Agreement establishing an association between the European Communities and their Member States, of the one part, and the Republic of Latvia, of the other part

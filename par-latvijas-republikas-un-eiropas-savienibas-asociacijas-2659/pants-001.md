@@ -1,0 +1,1 @@
+1.pants. 1999.gada 8.decembrī Briselē parakstītais Latvijas Republikas un Eiropas Savienības Asociācijas Padomes lēmums nr. 2/99 par izmaiņām Eiropas līguma, kas izveido asociāciju starp Eiropas Kopienām un to dalībvalstīm, no vienas puses, un Latvijas Republiku, no otras puses, 3.protokolā (turpmāk - Lēmums) ar šo likumu tiek pieņemts un apstiprināts.

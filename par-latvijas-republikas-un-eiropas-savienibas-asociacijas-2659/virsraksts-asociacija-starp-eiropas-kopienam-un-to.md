@@ -1,0 +1,1 @@
+Asociācija starp Eiropas Kopienām un to dalībvalstīm, no vienas puses, un Latvijas Republiku, no otras puses, Asociācijas Padomes lēmums Nr. 2/99 08/12/1999 par izmaiņām Eiropas Līguma, kas izveido asociāciju starp Eiropas Kopienām un to Dalībvalstīm, no vienas puses, un Latvijas Republiku, no otras puses, 3. Protokolā
