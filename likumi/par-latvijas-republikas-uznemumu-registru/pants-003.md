@@ -1,3 +1,2 @@
-3. pants. Uzņēmumu reģistra darbības tiesiskais pamats
-(1) Uzņēmumu reģistra darbību nosaka un regulē šis likums, Uzņēmumu reģistra nolikums un citi tiesību akti.
-(2) Uzņēmumu reģistram ir zīmogs ar papildinātā Latvijas Republikas valsts mazā ģerboņa attēlu.
+3. pants. Latvijas Republikas Uzņēmumu reģistra darbības tiesiskais pamats
+Latvijas Republikas Uzņēmumu reģistra darbību regulē šis likums, Ministru kabineta apstiprināts Uzņēmumu reģistra nolikums un citi normatīvie akti.
