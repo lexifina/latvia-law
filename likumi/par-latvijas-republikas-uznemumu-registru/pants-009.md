@@ -1,0 +1,2 @@
+9. pants. Personu tiesības izmantot Latvijas Republikas Uzņēmumu reģistra informāciju
+Katrai fiziskajai vai juridiskajai personai ir tiesības saņemt informāciju no Latvijas Republikas Uzņēmumu reģistra un pārliecināties par to personu parakstu pareizību, kurām ir paraksta tiesības. Dokumentu norakstus var izsniegt tikai ar attiecīgās firmas īpašnieka rakstveida piekrišanu vai pēc izmeklēšanas, prokuratūras, tiesas iestāžu, kā arī likumdošanā noteikto iestāžu amatpersonu pieprasījuma.
