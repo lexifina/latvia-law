@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Veterinārās prasības svaigas gaļas apritei starp Latviju un citām Eiropas Savienības dalībvalstīm",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "64",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-23",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-07-21",
+  "commission_reference": "MNE(2004)50034",
+  "nim_celex": "71972L0461LVA_30034",
+  "nim_id": "30034",
+  "transposes_celex": [
+    "31972L0461",
+    "31980L0213",
+    "31980L1099",
+    "31991L0266"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/016bd7f2-a020-44bb-bdc5-7a8f72904741",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
