@@ -1,0 +1,32 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Gada pārskatu likums",
+  "type_of_act": "Likums",
+  "official_journal": "LR Augstākās Padomes un Valdības Ziņotājs",
+  "official_journal_reference": "44",
+  "official_journal_page": null,
+  "official_journal_date": "1992-11-12",
+  "entry_into_force": "1992-10-14",
+  "notification_date": "2006-12-07",
+  "commission_reference": "MNE(2006)58232",
+  "nim_celex": "71978L0660LVA_138450",
+  "nim_id": "138450",
+  "transposes_celex": [
+    "31978L0660",
+    "31983L0349",
+    "31989L0666",
+    "31990L0604",
+    "31990L0605",
+    "31999L0060",
+    "32001L0065",
+    "32003L0038",
+    "32003L0051",
+    "32006L0043",
+    "32006L0046"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2248acd5-dcae-4c1f-a69f-3342fc4eaa77",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
