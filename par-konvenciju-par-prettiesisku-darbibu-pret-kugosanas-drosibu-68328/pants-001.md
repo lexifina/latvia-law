@@ -1,0 +1,1 @@
+1.pants. 1988.gada 10.marta Konvencija par prettiesisku darbību pret kuģošanas drošību apkarošanu (turpmāk - Konvencija) un tās 1988.gada 10.marta Protokols par prettiesisku darbību pret nostiprinātu platformu drošību kontinentālajā šelfā apkarošanu (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.
