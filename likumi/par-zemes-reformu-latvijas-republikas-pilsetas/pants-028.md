@@ -1,0 +1,9 @@
+28.pants. Valsts un pašvaldību zemes privatizācijas un atsavināšanas kārtība
+(1) Saskaņā ar šīs nodaļas noteikumiem privatizēt vai atsavināt var tikai to zemi, uz kuru valsts vai pašvaldības īpašuma tiesības ir nostiprinātas zemesgrāmatā.
+(2) Zemes privatizāciju gadījumos, kad uz tās atrodas privatizācijai nodotie valsts vai pašvaldību īpašuma objekti, veic tā institūcija, kura veic uz attiecīgās zemes esošā īpašuma objekta privatizāciju.
+(3) Zemes privatizāciju gadījumos, kad uz tās atrodas privatizētie pašvaldību īpašuma objekti, veic tā pašvaldība, kuras īpašumā ir attiecīgā zeme.
+(4) Zemi, uz kuras atrodas valsts īpašuma objekti, kas nodoti atsavināšanai vai kas atsavināti saskaņā ar likumu "Par valsts un pašvaldību mantas atsavināšanas kārtību", atsavina valsts akciju sabiedrība "Valsts nekustamā īpašuma aģentūra" (turpmāk - Valsts nekustamā īpašuma aģentūra).
+(5) Pārējos gadījumos, kuri nav minēti šā panta otrajā, trešajā un ceturtajā daļā, valsts zemes privatizāciju veic bezpeļņas organizācija valsts akciju sabiedrība "Privatizācijas aģentūra" (turpmāk - Privatizācijas aģentūra).
+(6) Lai varētu privatizēt vai atsavināt zemi šā panta otrajā, trešajā, ceturtajā un piektajā daļā paredzētajos gadījumos, Ministru kabinets izdod rīkojumu vai attiecīgā pašvaldība pieņem lēmumu par zemes nodošanu privatizācijai vai atsavināšanai, izņemot šā panta septītajā daļā paredzēto gadījumu.
+(7) Valsts īpašuma objektus, kuri tiek nodoti privatizācijai pēc 1997.gada 17.janvāra, var privatizēt vai atsavināt kopā ar zemi, uz kuras atrodas privatizācijai vai atsavināšanai nodotais īpašuma objekts, pamatojoties uz lēmumu, kuru pieņem institūcija, kas veic attiecīgā objekta privatizāciju vai atsavināšanu.
+(8) Pašvaldību īpašuma objektus, kuri tiek nodoti privatizācijai pēc 1997.gada 17.janvāra, var privatizēt vai atsavināt kopā ar zemi, pamatojoties uz attiecīgās pašvaldības lēmumu.

@@ -1,3 +1,8 @@
-27. pants. Zemes pirkšanas un pārdošanas ierobežojumu izbeigšanās
-(1) Zemes pirkšanas un pārdošanas ierobežojumi, izņemot šā likuma 26. panta noteiktos ierobežojumus, izbeidzas ar zemes reformas pabeigšanas dienu katras attiecīgās pašvaldības teritorijā.
-(2) Pēc pašvaldības iesnieguma saņemšanas lēmumu par zemes reformas pabeigšanu attiecīgās pašvaldības teritorijā pieņem Saeima.
+27.pants. Valsts un pašvaldību zemes privatizācijas un atsavināšanas pamatnosacījumi
+(1) Šī nodaļa nosaka:
+1) tās zemes privatizācijas kārtību un nosacījumus, uz kuras atrodas saskaņā ar likumu "Par valsts un pašvaldību īpašuma objektu privatizāciju" privatizācijai nodotie valsts un pašvaldību īpašuma objekti, kā arī jau privatizētie valsts un pašvaldību īpašuma objekti;
+2) tās zemes atsavināšanas kārtību un nosacījumus, uz kuras atrodas valsts un pašvaldību īpašuma objekti, kuru atsavināšana notiek saskaņā ar likumu "Par valsts un pašvaldību mantas atsavināšanas kārtību" vai kuri jau ir atsavināti saskaņā ar minēto likumu;
+3) tās valsts vai pašvaldības zemes privatizācijas kārtību un nosacījumus, uz kuras atrodas objekti, kurus to īpašnieks ieguvis citos likumos un normatīvajos aktos paredzētajos gadījumos;
+4) neapbūvētās valsts vai pašvaldību zemes privatizācijas kārtību un nosacījumus.
+(2) Šīs nodaļas nosacījumi nav piemērojami gadījumos, kad tiek privatizēta vai atsavināta valsts vai pašvaldību zeme, uz kuras atrodas dzīvojamās mājas, kas tiek privatizētas saskaņā ar likumu "Par valsts un pašvaldību dzīvojamo māju privatizāciju", kā arī gadījumos, kad denacionalizētā namīpašuma īpašnieks kā attiecīgā apbūves gabala pastāvīgais lietotājs ir tiesīgs saņemt zemi īpašumā par maksu šā likuma IV nodaļā noteiktajā kārtībā.
+(3) Zemes privatizācijas procedūras, metodes, paņēmienus un citus jautājumus, kas nav reglamentēti šajā likumā, nosaka likums "Par valsts un pašvaldību īpašuma objektu privatizāciju", bet zemes atsavināšanas procedūras, veidus un citus jautājumus, kas nav reglamentēti šajā likumā, nosaka likums "Par valsts un pašvaldību mantas atsavināšanas kārtību".

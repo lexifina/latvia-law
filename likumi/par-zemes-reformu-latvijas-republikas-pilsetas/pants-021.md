@@ -1,3 +1,6 @@
-21. pants. Zemes pirkšanas kārtība attiecībā uz pilsoņiem un juridiskajām personām
-(1) Attiecībā uz Latvijas Republikas pilsoņiem kārtību, kādā pērkama zeme, uz kuru īpašuma tiesības nostiprinātas zemesgrāmatā, regulē Civillikums.
-(2) Attiecībā uz Latvijā reģistrētajām juridiskajām personām kārtību, kāda zemes reformas laikā pērkama zeme, uz kuru īpašuma tiesības nostiprinātas zemesgrāmatā, regulē šīs nodaļas noteikumi, bet attiecībās, kuras šī nodaļa neregulē, piemērojami Civillikuma noteikumi.
+21. pants. Ierobežojumi darījumiem ar zemes īpašumiem
+(1) Šā likuma 20.panta otrajā daļā minētās personas zemi var iegūt īpašumā šā likuma 22.pantā noteiktajā kārtībā.
+(2) Šā likuma 20.panta otrajā daļā minētās personas nevar iegūt īpašumā:
+1) zemi valsts pierobežas joslās;
+2) zemi Baltijas jūras un Rīgas jūras līča kāpu aizsargjoslās un citu publisko ūdenstilpju un ūdensteču aizsargjoslās, izņemot gadījumus, kad tās paredzētas apbūvei atbilstoši pilsētas ģenerālplānam;
+3) lauksaimniecībā un mežsaimniecībā izmantojamo zemi atbilstoši pilsētas ģenerālplānam.

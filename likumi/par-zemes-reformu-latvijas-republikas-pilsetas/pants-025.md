@@ -1,2 +1,4 @@
-25. pants. Zemes valdījuma un lietojuma ierobežojumi pierobežas joslā
-Aizliegts pierobežas joslā nodot zemi, uz kuru īpašuma tiesības nostiprinātas zemesgrāmatā, tālākā valdījumā un lietojumā, kā arī valdīt un lietot zemi un citu nekustamo īpašumu uz zemes pirkuma prīekšlīguma pamata.
+25. pants. Fizisko un juridisko personu zemes īpašuma tiesību saglabāšana vai izbeigšana
+(1) Ja šā likuma 20.panta pirmās daļas 3.punktā minēto statūtsabiedrību pamatkapitālā notikušas izmaiņas, kuru rezultātā statūtsabiedrība vairs neatbilst šā likuma 20.panta pirmās daļas 3.punkta nosacījumiem, šai statūtsabiedrībai zemes īpašuma turpmākai saglabāšanai mēneša laikā ir jāsaņem pilsētas domes priekšsēdētāja piekrišana šā likuma 22.pantā noteiktajā kārtībā. Ja pilsētas domes priekšsēdētājs piekrišanu nedod, juridiskās personas pienākums ir divu gadu laikā zemes īpašumu atsavināt.
+(2) Ja šā likuma 20.panta otrajā daļā minētās fiziskās vai juridiskās personas darījumu rezultātā iegūto zemes īpašumu neizmanto norādītiem mērķiem, šāds īpašums divu gadu laikā ir jāatsavina.
+(3) Neatsavinātā zemes īpašuma turpmākas izmantošanas un atsavināšanas kārtību nosaka Ministru kabinets.

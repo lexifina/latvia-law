@@ -1,9 +1,3 @@
-22. pants. Juridisko personu tiesības iegūt zemi īpašumā
-(1) Latvijā reģistrētajām juridiskajām personām ir tiesības pirkt zemi zem ēkām un būvēm, ko tās ieguvušas privatizācijas rezultātā, un ēku un būvju uzturēšanai vai citiem mērķiem nepieciešamo zemi.
-(2) Pašvaldības nosaka pārdodamās vai izsolē iegūstamās zemes izmantošanas mērķus, kā arī uzņēmējdarbības veikšanai izmantojamās zemes platības.
-(3) Latvijā reģistrētās juridiskās personas nevar iegūt īpašumā:
-1) pilsētu ģenerālplānos noteiktās lauksaimniecības un meža zemes (pilsētas zemes transformāciju var atļaut pilsētas dome sakarā ar grozījumiem pilsētas ģenerālplānā);
-2) valsts īpaši aizsargājamo dabas objektu aizņemtas pilsētu zemes;
-3) zemes, ko aizņem ūdenstilpes, kuru platība pārsniedz vienu hektāru;
-4) jūras un citu publisko ūdeņu piekrastes aizsargjoslās ietilpstošās zemes;
-5) valsts pierobežas joslas zemes.
+22. pants. Darījumu izskatīšanas kārtība
+(1) Šā likuma 20.panta otrajā daļā minētās personas, kas vēlas iegūt zemi īpašumā, iesniedz tās pilsētas domei, kuras teritorijā atrodas attiecīgā zeme, iesniegumu, kurā norāda šīs zemes turpmākās izmantošanas mērķi. Iesniegumam pievienojams darījuma akta noraksts.
+(2) Pilsētas domes priekšsēdētājs izskata iesniegumu. Ja zemes turpmākās izmantošanas mērķis, kas norādīts iesniegumā, nav pretrunā ar pilsētas ģenerālplānu, kas apstiprināts un ieguvis likumīgu spēku atbilstoši Ministru kabineta izdotajiem Teritoriālplānošanas noteikumiem, un ievēroti šā likuma 21.pantā minētie ierobežojumi, pilsētas domes priekšsēdētājs 20 dienu laikā dod piekrišanu zemes iegūšanai īpašumā. Ja pilsētas ģenerālplāns nav apstiprināts vai vēl nav ieguvis likumīgu spēku, pirms jautājuma izlemšanas pilsētas domes priekšsēdētājs izprasa Vides aizsardzības un reģionālās attīstības ministrijas atzinumu, kuru ministrija dod divu nedēļu laikā. Piekrišana noformējama izziņas veidā, un to paraksta pilsētas domes priekšsēdētājs. Izziņā norādāms arī darījuma rezultātā īpašumā iegūstamās zemes izmantošanas mērķis. Darījuma akts ir derīgs ierakstīšanai zemesgrāmatā tikai tad, ja tam ir pievienota minētā izziņa. Vienu izziņas eksemplāru pilsētas pašvaldība triju dienu laikā pēc izziņas parakstīšanas nosūta Valsts zemes dienesta attiecīgajai nodaļai. Piekrišanas atteikumu darījuma pusēm ir tiesības pārsūdzēt tiesā.

@@ -1,4 +1,3 @@
-24. pants. Juridisko personu zemes pirkuma līguma izskatīšanas kārtība
-(1) Pārdodot zemi Latvijā reģistrētajām juridiskajām personām, pirkuma līguma noraksts pirms zemes īpašuma tiesību nostiprināšanas zemesgrāmatā iesniedzams Centrālajai zemes komisijai.
-(2) Centrālajai zemes komisijai ne vēlāk kā 20 dienu laikā no pirkuma līguma saņemšanas dienas ir tiesības apturēt šā pirkuma līguma galīgo noslēgšanu, ja nav ievērotas šā likuma prasības.
-(3) Centrālās zemes komisijas lēmumu var pārsūdzēt tiesā.
+24. pants. Zemes īpašuma tiesību saglabāšana vai izbeigšana fiziskajām personām, kuras zemi ieguvušas īpašumā mantošanas ceļā
+(1) Ja fiziskā persona, kas nav Latvijas Republikas pilsonis, iegūst zemi īpašumā mantošanas ceļā, šai personai mēneša laikā zemes īpašuma tiesību turpmākai saglabāšanai ir jāsaņem pilsētas domes priekšsēdētāja piekrišana šā likuma 22.pantā noteiktajā kārtībā. Iesniegumam pievienojams tiesas spriedums par apstiprināšanu mantojuma tiesībās vai testaments ar atzīmi par tā stāšanos likumīgā spēkā. Ja, ievērojot šā likuma 21.pantā minētos ierobežojumus, pilsētas domes priekšsēdētājs savu piekrišanu nedod, zemes īpašums divu gadu laikā ir jāatsavina.
+(2) Neatsavinātā zemes īpašuma turpmākās izmantošanas un atsavināšanas kārtību nosaka Ministru kabinets.

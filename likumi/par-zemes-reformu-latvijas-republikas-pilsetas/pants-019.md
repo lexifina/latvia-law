@@ -1,2 +1,3 @@
-19. pants. Zemes pirkšanas un pārdošanas objekts
-Zemes reformas laikā pirkt un pārdot var tikai to zemi, uz kuru atjaunotas īpašuma tiesības vai kura iegūta īpašumā, pamatojoties uz šo likumu, un šīs īpašuma tiesības ir nostiprinātas zemesgrāmatā.
+19. pants. Darījumu objekts
+(1) Darījumus var veikt tikai ar to zemi, uz kuru īpašuma tiesības ir nostiprinātas zemesgrāmatā.
+(2) Par darījumiem ar zemes īpašumiem šīs nodaļas izpratnē uzskatāmi jebkuri darījumi, kuru rezultātā mainās zemes īpašnieks, kā arī testamentārā mantošana, ieķīlātās zemes atsavināšana un zemes ieguldīšana statūtsabiedrību pamatkapitālā.
