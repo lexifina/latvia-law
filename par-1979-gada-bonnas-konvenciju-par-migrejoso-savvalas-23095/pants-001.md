@@ -1,0 +1,1 @@
+1.pants. 1979.gada 23.jūnija Bonnas konvencija par migrējošo savvaļas dzīvnieku sugu aizsardzību (turpmāk - Konvencija) un tās I un II pielikums (turpmāk - Pielikumi) ar šo likumu tiek pieņemti un apstiprināti.
