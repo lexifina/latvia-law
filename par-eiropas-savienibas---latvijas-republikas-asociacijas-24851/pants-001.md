@@ -1,0 +1,1 @@
+1.pants. 2001.gada 23.janvārī Briselē parakstītais Eiropas Savienības - Latvijas Republikas Asociācijas padomes lēmums Nr. 1/2001 par grozījumiem Eiropas Līguma 3.protokolā (turpmāk - Lēmums) ar šo likumu tiek pieņemts un apstiprināts.
