@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par kontroles kārtību autopārvadājumu jomā",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "110",
+  "official_journal_page": null,
+  "official_journal_date": "1996-06-28",
+  "entry_into_force": null,
+  "notification_date": "2004-10-15",
+  "commission_reference": "MNE(2004)51866",
+  "nim_celex": "72001L0026LVA_31866",
+  "nim_id": "31866",
+  "transposes_celex": [
+    "32001L0026"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3668a0ed-42f5-4c7e-adea-129f6ee16ba7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
