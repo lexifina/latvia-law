@@ -1,2 +1,4 @@
-119. pants. Tiesnešu amatalga
-Tiesnešu amatalgu nosaka saskaņā ar likumu, ņemot par pamatu minimālo mēneša amatalgu, kā arī amatu un profesiju kvalifikācijas kategorijām noteiktos minimālos mēneša amatalgu aprēķināšanas koeficientus.
+119. pants. Tiesnešu atalgojums
+(1) Augstākās tiesas priekšsēdētāja, viņa vietnieku un Augstākās tiesas tiesneša amatalga tiek pielīdzināta I kategorijas valsts ierēdņu amatalgai. Augstākās tiesas priekšsēdētājs par priekšsēdētāja pienākumu pildīšanu saņem arī piemaksu 50 procentu apmērā no amatalgas. Augstākās tiesas priekšsēdētāju vietnieki par priekšsēdētāja vietnieka pienākumu pildīšanu saņem arī piemaksu 25 procentu apmērā no amatalgas.
+(2) Apgabaltiesas priekšsēdētāja amatalga tiek pielīdzināta Augstākās tiesas tiesneša amatalgai. Apgabaltiesas priekšsēdētāja vietnieka amatalga ir 90 procenti no apgabaltiesas priekšsēdētāja amatalgas. Apgabaltiesas tiesneša amatalga ir 85 procenti no apgabaltiesas priekšsēdētāja amatalgas.
+(3) Rajona (pilsētas) tiesas priekšsēdētāja amatalga tiek pielīdzināta apgabaltiesas tiesneša amatalgai. Rajona (pilsētas) tiesas priekšsēdētāja vietnieka amatalga ir 90 procenti no rajona (pilsētas) tiesas priekšsēdētāja amatalgas. Rajona (pilsētas) tiesas tiesneša amatalga ir 85 procenti no rajona (pilsētas) tiesas priekšsēdētāja amatalgas.

@@ -1,8 +1,8 @@
-120. pants. Samaksā par tiesneša kvalifikācijas klasi un darba stāžu
-(1) Tiesnešiem, kuriem piešķirta kvalifikācijas klase, pie amatalgas tiek noteikta piemaksa atkarībā no tiesneša amatā nostrādātā darba stāža. Kvalifikācijas klase tiek ņemta vērā, nosakot katra tiesneša personisko amatalgu.
-(2) Noteikta šāda piemaksa par tiesneša amatā nostrādāto darba stāžu:
-1) no 3 līdz 5 gadiem - 5 procenti;
-2) no 5 līdz 10 gadiem - 10 procenti;
-3) no 10 līdz 15 gadiem - 15 procenti;
-4) no 15 līdz 20 gadiem - 20 procenti;
-5) vairāk par 20 gadiem - 25 procenti.
+120. pants. Piemaksas pie tiesnešu amatalgas
+(1) Noteikt šādu piemaksu par tiesneša kvalifikācijas klasi:
+1) 5. kvalifikācijas klase - 15-30 procenti no amatalgas;
+2) 4. kvalifikācijas klase - 30-35 procenti no amatalgas;
+3) 3. kvalifikācijas klase - 35-40 procenti no amatalgas;
+4) 2. kvalifikācijas klase - 40-45 procenti no amatalgas;
+5) 1. un augstākā kvalifikācijas klase - 45-50 procenti no amatalgas.
+(2) Ministru kabinets var noteikt tiesnešiem arī citas piemaksas pie amatalgas.
