@@ -6,4 +6,4 @@
 - zemes reformas pirmajā kārtā nesadalītās zemes inventarizāciju, tās apgūšanas programmu izstrādi un realizāciju;
 - piešķirtās zemes robežu un teritoriju uzmērīšanu un zemes lietojuma vienību plānu izgatavošanu;
 - zemes un citu dabas resursu kadastrēšanu un nekustamā īpašuma novērtēšanu.
-(4) Zemes piešķiršana lietošanā un zemes lietošanas tiesību izbeigšana zemes reformas otrajā kārtā izpildāma vispārīgā kārtībā atbilstoši Latvijas Republikas zemes kodeksam un citiem zemes likumdošanas aktiem.
+(4) Zemes piešķiršana lietošanā un zemes lietošanas tiesību izbeigšana zemes reformas otrajā kārtā izpildāma vispārīgā kārtībā atbilstoši Latvijas Republikas likumam «Par zemes lietošanu un zemes ierīcību» un citiem zemes likumdošanas aktiem.
