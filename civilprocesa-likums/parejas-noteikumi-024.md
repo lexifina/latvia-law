@@ -1,0 +1,1 @@
+24. Jaunizveidotās šķīrējtiesas nosaukumam skaidri un noteikti jāatšķiras no Tieslietu ministrijas sarakstā esošo šķīrējtiesu nosaukumiem. Pirmtiesības uz šķīrējtiesas nosaukumu šķīrējtiesu reģistrā ir šķīrējtiesai, kura pirmā ar šādu nosaukumu ierakstīta Tieslietu ministrijas sarakstā.

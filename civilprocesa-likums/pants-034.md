@@ -14,7 +14,7 @@ g) vairāk par 500 000 latiem - 2490 latu plus 0,05 procenti no prasības summas
 5) par prasības nodrošinājuma pieteikumu - 20 latu, bet par prasības nodrošinājuma pieteikumu lietās, kurās prasības summa ir lielāka par 4000 latiem, - 0,5 procenti no prasības summas;
 6) par pierādījumu nodrošināšanas pieteikumu, ja tas iesniegts pirms lietas ierosināšanas, - 10 latu;
 7) par pieteikumu par bezstrīdus piespiedu izpildīšanu, par saistību piespiedu izpildīšanu brīdinājuma kārtībā, par nekustamā īpašuma labprātīgu pārdošanu izsolē tiesas ceļā vai saistības priekšmeta iesniegšanu tiesai glabājumā - 1 procents no parāda summas, atdodamās vai labprātīgā izsolē pārdodamās mantas vērtības vai glabājumā nododamā priekšmeta vērtības, bet ne vairāk par 100 latiem;
-8) par pieteikumu par izpildu raksta izdošanu uz šķīrējtiesas sprieduma pamata vai ārvalsts šķīrējtiesas nolēmuma atzīšanu un izpildīšanu - 1 procents no parāda summas, bet ne vairāk par 100 latiem;
+8) par pieteikumu par izpildu raksta izdošanu uz pastāvīgās šķīrējtiesas sprieduma pamata vai ārvalsts šķīrējtiesas nolēmuma atzīšanu un izpildīšanu - 1 procents no parāda summas, bet ne vairāk par 100 latiem;
 9) par pieteikumu par tiesvedības atjaunošanu un lietas jaunu izskatīšanu lietā, kurā taisīts aizmugurisks spriedums, - tādā pašā apmērā kā par prasības pieteikumu;
 10) par prasības pieteikumu par kopīgas mantas dalīšanu - 50 procenti no likmes, kas būtu jāmaksā par prasības pieteikumu vispārējā kārtībā no dalāmās mantas vērtības;
 11) par sūdzībām maksātnespējas lietās sakarā ar kreditoru sapulces vai kreditoru komitejas lēmumiem, kā arī par sūdzībām sakarā ar administratora vai likvidatora rīcību - 10 latu.
@@ -28,7 +28,8 @@ d) ceturtās šķiras mantiniekiem - 10 procenti no mantojamās mantas vērtība
 10 minimālās mēnešalgas:
 a) laulātajam un pirmās, otrās un trešās šķiras mantiniekiem - 50 procenti no šā panta otrās daļas 1.punktā noteiktā valsts nodevas apmēra,
 b) ceturtās šķiras mantiniekiem - 8 procenti no mantojamās mantas vērtības,
-c) pārējiem testamentārajiem vai līgumiskajiem mantiniekiem - 15 procenti no mantojamās mantas vērtības;
+c) pārējiem testamentārajiem vai līgumiskajiem mantiniekiem - 15 procenti no mantojamās mantas vērtības,
+d) testamentārajiem vai līgumiskajiem mantiniekiem, ja tie ir sabiedriskā labuma organizācijas, - 3 procenti no mantojamās mantas vērtības;
 3) (izslēgts ar 31.10.2002. likumu).
 (3) Lietās par apstiprināšanu mantojuma tiesībās un pēdējās gribas rīkojuma akta vai mantojuma līguma spēkā stāšanos šā panta otrajā daļā noteiktā valsts nodeva maksājama, saņemot sprieduma norakstu pēc sprieduma stāšanās likumīgā spēkā vai arī saņemot pēdējās gribas rīkojuma aktu vai mantojuma līgumu ar uzrakstu par tā stāšanos likumīgā spēkā.
 (4) Par apelācijas sūdzību valsts nodeva ir 50 procenti no likmes, kas jāmaksā, iesniedzot prasības pieteikumu (pieteikumu sevišķās tiesāšanas kārtības lietā), bet mantiska rakstura strīdos - no likmes, ko aprēķina atbilstoši strīda summai.

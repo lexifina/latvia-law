@@ -1,0 +1,1 @@
+25. Ja līdz 2005.gada 10.martam ir uzsākts šķīrējtiesas process šā likuma 487.panta 6. un 7.punktā minētajos strīdos (par personas izlikšanu no dzīvojamām telpām un individuālo darba tiesību strīdu), to izšķiršana pabeidzama attiecīgajā šķīrējtiesā.

@@ -12,7 +12,7 @@
 9) kam, kādas darbības un kādā termiņā jāizpilda, ja spriedums uzliek par pienākumu izpildīt noteiktas darbības;
 10) kāda sprieduma daļa attiecas uz katru no prasītājiem, ja spriedums taisīts vairāku prasītāju labā, vai kāda sprieduma daļa jāizpilda katram no atbildētājiem, ja spriedums taisīts pret vairākiem atbildētājiem;
 11) šķīrējtiesas procesa izdevumus, kā arī šo izdevumu un izdevumu par juridisko palīdzību sadalījumu starp pusēm.
-(3) Šķīrējtiesas sprieduma norakstu nosūta pusēm.
+(3) Šķīrējtiesas sprieduma norakstu nosūta pusēm. Rakstveida procesa gadījumā šķīrējtiesa sprieduma norakstu pusēm nosūta triju dienu laikā.
 (4) Katra puse, paziņojot par to otrai pusei, līdz sprieduma izpildei var lūgt šķīrējtiesu:
 1) izlabot jebkuru spriedumā pieļauto kļūdu aprēķinos, gramatisko vai drukas kļūdu. Šādas kļūdas šķīrējtiesa var izlabot arī pēc savas iniciatīvas;
 2) izskaidrot spriedumu. Sprieduma izskaidrojums no tā pieņemšanas brīža kļūst par sprieduma neatņemamu sastāvdaļu;

@@ -1,0 +1,1 @@
+23. Ja puses vienojušās par strīda nodošanu izšķiršanai pastāvīgajā šķīrējtiesā un šī šķīrējtiesa nav reģistrējusies likumā noteiktajā kārtībā līdz 2005.gada 30.septembrim vai izbeigusi savu darbību, puses vienojas par strīda nodošanu izšķiršanai citā šķīrējtiesā. Ja vienošanās netiek panākta, strīds izskatāms tiesā.

@@ -1,0 +1,1 @@
+21. Šķīrējtiesa, kura izveidota un par kuras izveidošanu paziņots Tieslietu ministrijai līdz 2005.gada 31.martam, ne vēlāk kā līdz 2005.gada 15.augustam iesniedz pieteikumu Uzņēmumu reģistram šķīrējtiesas reģistrācijai, ievērojot šajā likumā un citos normatīvajos aktos noteikto kārtību.
