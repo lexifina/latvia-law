@@ -1,0 +1,1 @@
+13. Valsts vai pašvaldību uzņēmējsabiedrību pamatkapitālā iekļautās dzīvojamās mājas izslēdzamas no uzņēmējsabiedrības pamatkapitāla un nododamas attiecīgo administratīvo teritoriju pašvaldībām pēc tam, kad ir segti visi izdevumi par dzīvojamās mājas sagatavošanu privatizācijai līdz 1997.gada 31.decembrim.

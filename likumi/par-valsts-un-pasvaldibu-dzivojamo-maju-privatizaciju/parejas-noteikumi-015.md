@@ -1,0 +1,1 @@
+15. Ar šā likuma spēkā stāšanos spēku zaudē Ministru kabineta noteikumi nr.119 "Grozījumi likumā "Par valsts un pašvaldību dzīvojamo māju privatizāciju"" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 10.nr.).

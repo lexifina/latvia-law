@@ -1,6 +1,6 @@
 74.pants. Valsts un pašvaldību dzīvojamo māju nodošana privatizācijai
-(1) Visas valsts un pašvaldību dzīvojamās mājas, kuras līdz šā likuma spēkā stāšanās dienai nodotas ekspluatācijā, nododamas privatizācijai, izņemot šajā likumā minētos gadījumus.
-(2) Privatizācijai netiek nodotas dienesta viesnīcas un dienesta dzīvokļi.
-(3) Privatizācijai netiek nodotas neapdzīvojamās telpas, ja tajās izvietoti valsts vai pašvaldību uzņēmumi vai iestādes.
-(4) Privatizācijai netiek nodotas dzīvojamās mājas, par kuru saglabāšanu valsts īpašumā Ministru kabinets ir pieņēmis lēmumu.
-(5) Nedzīvojamās ēkās (skolās, stacijās un citās tamlīdzīgās ēkās) esošie dzīvokļi tiek privatizēti saskaņā ar citiem likumiem.
+(1) Visas valsts un pašvaldību dzīvojamās mājas, kuras līdz šā likuma spēkā stāšanās dienai nodotas ekspluatācijā, nododamas privatizācijai, izņemot šajā likumā minētos gadījumus. Dzīvojamās mājas, kuras iekļautas valsts vai pašvaldību uzņēmējsabiedrību pamatkapitālā, privatizējamas šajā likumā noteiktajā kārtībā tikai pēc tam, kad izslēgtas no valsts vai pašvaldību uzņēmējsabiedrību pamatkapitāla.
+(2) Privatizācijai netiek nodotas dienesta viesnīcas un dienesta dzīvokļi, kā arī sociālās dzīvojamās mājas.
+(3) Privatizācijai netiek nodotas neapdzīvojamās telpas, ja tajās izvietoti valsts un pašvaldību uzņēmumi (uzņēmējsabiedrības) vai iestādes. Ja pašvaldībai privatizācijai tiek nodota valsts dzīvojamā māja, tās neapdzīvojamās telpas, kurās izvietoti valsts uzņēmumi vai iestādes, saglabājamas valsts īpašumā un ierakstāmas zemesgrāmatā uz valsts vārda. Šis noteikums attiecas arī uz pašvaldībai privatizācijai nododamā valsts dzīvojamā mājā esošajām neapdzīvojamām telpām, kurās izvietotas valsts uzņēmējsabiedrības, ja attiecīgās neapdzīvojamās telpas nav iekļautas šo uzņēmējsabiedrību pamatkapitālā.
+(4) Privatizācijai netiek nodotas dzīvojamās mājas, par kuru saglabāšanu valsts īpašumā Ministru kabinets ir pieņēmis lēmumu. Šis noteikums neattiecas uz tām valsts dzīvojamām mājām, kurās dzīvokļi nodoti īpašumā līdz dzīvojamās mājas privatizācijai.
+(5) Neapdzīvojamās ēkās (skolās, stacijās un citās tamlīdzīgās ēkās) esošie dzīvokļi tiek privatizēti saskaņā ar citiem likumiem.

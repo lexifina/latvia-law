@@ -1,0 +1,4 @@
+73.³ pants. Maksa par dzīvokļa nodošanu īpašumā līdz dzīvojamās mājas privatizācijai
+(1) Maksu par dzīvokļa nodošanu īpašumā līdz dzīvojamās mājas privatizācijai veido privatizācijas sertifikātos noteikta maksa par dzīvokli un latos noteikta maksa par dzīvojamās mājas sagatavošanu privatizācijai. Ja dzīvoklis tiek nodots īpašumā līdz dzīvojamās mājas privatizācijai, īrniekam nav jāmaksā privatizācijas sertifikātos noteiktā maksa par dzīvokli šā likuma 47.panta pirmajā un otrajā daļā noteiktajos gadījumos.
+(2) Kārtību un apmērus, kādos nosakāma maksa par dzīvokļa nodošanu īpašumā līdz dzīvojamās mājas privatizācijai, nosaka Ministru kabinets.
+(3) Līdzekļi, kas iegūti, nododot dzīvokļus īpašumā līdz dzīvojamo māju privatizācijai, ieskaitāmi privatizācijas fondos šā likuma 67.pantā noteiktajā kārtībā.

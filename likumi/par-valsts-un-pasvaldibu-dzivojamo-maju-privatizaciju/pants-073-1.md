@@ -1,0 +1,6 @@
+73.¹ pants. Gadījumi, kad piemērojama dzīvokļu nodošana īpašumā līdz dzīvojamās mājas privatizācijai
+(1) Šīs nodaļas noteikumi piemērojami gadījumos, kad pašvaldība nav uzsākusi dzīvojamās mājas privatizāciju šajā likumā noteiktajā kārtībā un valsts vai pašvaldības daudzdzīvokļu mājā esošo dzīvokļu īrnieki vēlas iegūt īpašumā savus īrētos dzīvokļus līdz dzīvojamās mājas privatizācijai.
+(2) Šīs nodaļas noteikumi piemērojami attiecībā uz pašvaldības pārziņā esošajiem neprivatizētajiem dzīvokļiem daudzdzīvokļu mājās, kurās dzīvokļi privatizēti saskaņā ar likumu "Par lauksaimniecības uzņēmumu un zvejnieku kolhozu privatizāciju".
+(3) Šīs nodaļas noteikumi neattiecas uz viendzīvokļa mājām un kopējiem dzīvokļiem daudzdzīvokļu mājās.
+(4) Dzīvojamās mājās, kuras pēc 1940.gada 21.jūlija tika nacionalizētas vai citādi nelikumīgi atsavinātas un attiecībā uz kurām ir saņemti bijušo īpašnieku vai viņu mantinieku pieteikumi par to atdošanu, dzīvokļus var nodot īpašumā līdz dzīvojamās mājas privatizācijai tikai pēc pieteikumu izskatīšanas likumā noteiktajā kārtībā.
+(5) Pēc dzīvojamās mājas privatizācijas uzsākšanas dzīvokļi, kuri nodoti īpašumā līdz dzīvojamās mājas privatizācijai, privatizējami šajā likumā noteiktajā kārtībā.

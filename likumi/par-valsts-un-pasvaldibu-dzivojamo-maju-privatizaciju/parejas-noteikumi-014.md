@@ -1,0 +1,1 @@
+14. Ministru kabinetam līdz 1996.gada 31.decembrim noteikt kārtību, kādā fiziskajai personai (personām) bez atlīdzības tiek nodots īpašumā neizīrēts pašvaldības dzīvoklis saskaņā ar šā likuma 47.panta piekto daļu.
