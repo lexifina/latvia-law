@@ -1,0 +1,1 @@
+4.pants. Saskaņā ar Konvencijas 7.panta trešo daļu Ārlietu ministrija informē Apvienoto Nāciju Organizācijas ģenerālsekretāru par to, ka Latvijas Republika var nodibināt jurisdikciju pār visiem 7.panta otrajā daļā paredzētajiem noziedzīgajiem nodarījumiem.

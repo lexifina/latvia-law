@@ -1,0 +1,1 @@
+3.pants. Saskaņā ar Konvencijas 2.panta otro daļu Ārlietu ministrija informē Apvienoto Nāciju Organizācijas ģenerālsekretāru par starptautiskajiem līgumiem, kas attiecībā uz Latvijas Republiku netiek uzskatīti par iekļautiem Konvencijas pielikumā.
