@@ -1,0 +1,1 @@
+1. pants. 1994. gada 21. februārī Minskā parakstītais līgums par valsts robežas noteikšanu starp Latvijas Republiku un Baltkrievijas Republiku (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
