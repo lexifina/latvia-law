@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ieroču, munīcijas, speciālo līdzekļu, sprāgstvielu, spridzināšanas ietaišu un pirotehnisko izstrādājumu komerciālās aprites, pirotehnisko izstrādājumu klasificēšanas un izmantošanas noteikumi",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "137",
+  "official_journal_page": null,
+  "official_journal_date": "2003-10-03",
+  "entry_into_force": "2003-10-04",
+  "notification_date": "2004-10-21",
+  "commission_reference": "MNE(2004)52066",
+  "nim_celex": "72004L0057LVA_32066",
+  "nim_id": "32066",
+  "transposes_celex": [
+    "32004L0057"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/50d57099-9c90-45b7-969a-e37484a6254e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
