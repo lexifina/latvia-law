@@ -1,0 +1,1 @@
+1.pants. 2001.gada 5.oktobrī Rīgā parakstītais Latvijas Republikas valdības un Kuveitas Valsts valdības līgums par ieguldījumu veicināšanu un savstarpēju aizsardzību (turpmāk - līgums) ar šo likumu tiek pieņemts un apstiprināts.
