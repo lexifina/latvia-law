@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2002.gada 19.marta noteikumi Nr.121 \"Būtiskās prasības aerosola flakoniem un to marķēšanas kārtība\" ar pēdējiem grozījumiem, kas pieņemti līdz 06.05.2008.",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "47",
+  "official_journal_page": null,
+  "official_journal_date": "2002-03-26",
+  "entry_into_force": "2002-05-01",
+  "notification_date": "2008-09-03",
+  "commission_reference": "MNE(2008)54929",
+  "nim_celex": "72007L0045LVA_157879",
+  "nim_id": "157879",
+  "transposes_celex": [
+    "32007L0045"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/55956051-9a3c-480b-a4a1-36fff1822ea7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
