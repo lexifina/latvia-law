@@ -1,0 +1,1 @@
+1.pants. Nodot Latviešu virsnieku apvienībai īpašumā bez atlīdzības zemes gabalu Rīgas rajona Carnikavas pagastā, apdzīvotajā vietā Gauja, Uzvaras ielā 7, 21088 kvadrātmetru platībā, kurš 1940.gada 20.jūlijā piederēja Virsnieku ģimeņu apvienībai un bija ierakstīts Rīgas-Valmieras zemesgrāmatu 24538.nodalījumā ar reģistra numuru 252F.
