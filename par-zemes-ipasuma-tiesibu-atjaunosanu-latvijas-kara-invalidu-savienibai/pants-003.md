@@ -1,0 +1,1 @@
+3.pants. Latvijas Kara invalīdu savienība vai tās tiesību pārņēmēji attiecībā uz nekustamo īpašumu (lit.2) un sabiedrisko būvi Jūrmalā, Tukuma ielā 29 nedrīkst liegt iebraukšanas, izbraukšanas un pieejas tiesības.
