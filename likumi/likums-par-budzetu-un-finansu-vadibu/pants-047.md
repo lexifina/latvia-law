@@ -5,9 +5,9 @@
 2) likumā noteiktajā kārtībā nav reģistrēti budžeta līdzekļi un darījumi ar šiem līdzekļiem, kā arī nav ziņots par tiem;
 3) uzskaite neatbilst noteiktajai kārtībai un tādējādi tiek slēpti budžetam pienākošies līdzekļi;
 4) budžeta iestādes vadītājs ir pārkāpis šā likuma 24.panta nosacījumus un uzņēmies saistības, pārsniedzot Valsts kases sniegto asignējumu.
-(3) Ja ir pārkāpti finansu vadības noteikumi, saskaņā ar šo likumu finansu ministrs, kā arī Valsts kase un resori attiecībā uz budžeta izpildītājiem, kuriem tie piešķīruši asignējumus, var veikt šādus pasākumus:
+(3) Ja ir pārkāpti finansu vadības noteikumi, arī finansēšanas plānu izstrādāšanas kārtība, saskaņā ar šo likumu finansu ministrs, kā arī Valsts kases pārvaldnieks un resoru vadītāji attiecībā uz budžeta izpildītājiem, kuriem viņi piešķīruši asignējumus, var veikt šādus pasākumus:
 1) uz laiku atņemt pilnvarojumu asignēt vai rīkot budžeta ieņēmumus vai izdevumus;
-2) noteikt budžeta kontu lietošanas ierobežojumus;
+2) noteikt budžeta kontu lietošanas ierobežo jumus;
 3) atsaukt vai apturēt asignējumus, lai tiktu atlīdzināti nelikumīgi izlietotie līdzekļi, vai arī pieprasīt nelikumīgi izlietoto līdzekļu atmaksāšanu;
 4) iesniegt tiesā civilprasību vai nodot materiālus krimināllietas ierosināšanai.
-(4) Ja likumā noteiktās pašvaldību finansu izlīdzināšanas fondam pienākošās summas pašvaldības savlaicīgi vai pilnā apmērā nav ieskaitījušas fonda kontā, Valsts kase atbilstoši likumā noteiktajām tiesībām tās var norakstīt no attiecīgās pašvaldības budžeta konta.
+(4) Valsts kasei atbilstoši likumam par pašvaldību finansu izlīdzināšanu ir tiesības bezstrīdus kārtībā piedzīt no pašvaldības budžeta līdzekļiem naudas summas, ko attiecīgā pašvaldība nav savlaicīgi vai pilnā apmērā ieskaitījusi pašvaldību finansu izlīdzināšanas fondā, norakstot šīs summas no attiecīgās pašvaldības budžeta konta.
