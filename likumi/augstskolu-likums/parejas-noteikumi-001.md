@@ -1,1 +1,1 @@
-1. Augstskolas triju mēnešu laikā no šā likuma spēkā stāšanās dienas saskaņo savas satversmes (statūtus) ar šā likuma prasībām un iesniedz tās Izglītības un zinātnes ministrijai.
+1. Augstskolas saskaņo savas satversmes ar Augstskolu likuma prasībām un iesniedz tās Izglītības un zinātnes ministrijai līdz 2001.gada 1.oktobrim. Šā noteikuma neizpildes gadījumā tiek piemērotas Augstskolu likuma 10.panta ceturtās daļas vai 11.panta normas.

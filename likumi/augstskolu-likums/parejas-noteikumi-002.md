@@ -1,1 +1,1 @@
-2. Augstskolas sešu mēnešu laikā no šā likuma spēkā stāšanās dienas saskaņo visus normatīvos aktus (nolikumus, noteikumus, reglamentus u.c.) ar savām satversmēm un šo likumu.
+2. Augstskolas triju mēnešu laikā no augstskolas satversmes apstiprināšanas Saeimā vai Ministru kabinetā saskaņo visus savus normatīvos aktus (nolikumus, noteikumus, reglamentus u.c.) ar savām satversmēm un šo likumu.

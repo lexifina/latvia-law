@@ -5,4 +5,5 @@
 3) rektors;
 4) revīzijas komisija;
 5) šķīrējtiesa.
-(2) Augstskolas pārstāvības un vadības institūciju un lēmējinstitūciju ievēlēšanas kārtību, tiesības un funkcijas, kā arī pieņemto lēmumu pārsūdzības kārtību nosaka augstskolas satversme.
+(2) Augstskolā augstākā vadības institūcija un lēmējinstitūcija stratēģiskajos, finansu un saimnieciskajos jautājumos ir tās dibinātājs, bet augstākā pārstāvības un vadības institūcija un lēmējinstitūcija akadēmiskajos un zinātniskajos jautājumos - augstskolas satversmes sapulce.
+(3) Augstskolas pārstāvības un vadības institūciju un lēmējinstitūciju ievēlēšanas kārtību, tiesības un pienākumus, kā arī to pieņemto lēmumu pārsūdzēšanas kārtību nosaka augstskolas satversme.

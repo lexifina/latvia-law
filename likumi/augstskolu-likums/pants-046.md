@@ -1,11 +1,7 @@
 46. pants. Uzņemšana un imatrikulācija
-(1) Imatrikulācija augstskolā notiek saskaņā ar uzņemšanas noteikumiem, kuri izziņojami ne vēlāk kā piecus mēnešus pirms attiecīgo studiju sākuma.
-(2) Uzņemšanas noteikumi sastāv no divām daļām:
-1) no Izglītības un zinātnes ministrijas noteikumiem, kas attiecas uz visām Latvijas augstskolām;
-2) no augstskolas senāta noteikumiem, kas nosaka:
-a) kādi mācību priekšmeti un kādā apjomā ir jāapgūst, lai varētu uzsākt studijas katrā no studiju programmām,
-b) iestājpārbaudījumu apjomu un sekmīgām studijām nepieciešamo zināšanu un spēju pārbaudes kārtību,
-c) ja nepieciešams, papildu prasības attiecībā uz speciālu iepriekšējo izglītību, īpašu piemērotību un sagatavotību vai arī citu iepriekšēju nosacījumu izpildi.
-(3) Ja reflektantu skaits ir lielāks par augstskolas izsludināto studiju vietu skaitu, studējošo atlasi veic konkursa kārtībā.
-(4) Jau esošajām augstskolām trīs gadus iepriekš, bet jaundibinātajām augstskolām - tās dibinot, jāpaziņo, kādi mācību priekšmeti reflektantiem jāapgūst vidējās izglītības apjomā, lai iestātos konkrētajā augstskolā.
-(5) Valodu lietojumu augstākās izglītības ieguvē nosaka Latvijas Republikas Valodu likums.
+(1) Augstskola ir tiesīga uzņemt studējošos noteiktā studiju programmā tikai pēc tam, kad saņemta licence attiecīgās studiju programmas īstenošanai.
+(2) Uzņemšanu studiju programmā regulē uzņemšanas noteikumi, kurus izstrādā Izglītības un zinātnes ministrija un augstskolas, ievērojot šā likuma un Vispārējās izglītības likuma noteikumus.
+(3) Uzņemšana studiju programmā notiek konkursa kārtībā, pamatojoties uz centralizēto eksāmenu rezultātiem. Centralizēto eksāmenu saturu un norises kārtību izstrādā Izglītības un zinātnes ministrija, saskaņojot ar Augstākās izglītības padomi, un apstiprina Ministru kabinets.
+(4) Augstskola, saskaņojot ar Augstākās izglītības padomi, var noteikt papildu prasības attiecībā uz speciālu iepriekšējo izglītību, īpašu piemērotību un sagatavotību vai citu nosacījumu izpildi.
+(5) Par to, kādas vidējās izglītības programmas atbilst konkrētās studiju programmas profilam, kādi centralizētie eksāmeni vidējās izglītības apjomā jākārto, kā arī to, kādas ir papildu prasības, lai iestātos konkrētā studiju programmā, augstskolas paziņo trīs gadus pirms uzņemšanas uzsākšanas, bet attiecībā uz studiju programmām, kurās uzņemšana notiek pirmo reizi, - piecus mēnešus pirms uzņemšanas uzsākšanas.
+(6) Reflektantu reģistrācija un uzņemšana studiju programmās uzsākama ne vēlāk kā divas nedēļas pēc tam, kad vidējās izglītības iestādēs beidzies mācību gads, un precīzu uzņemšanas sākuma termiņu katru gadu nosaka izglītības un zinātnes ministrs.

@@ -1,0 +1,1 @@
+13. Līdz 2001.gada 1.aprīlim augstskolas paziņo uzņemšanas noteikumus tajās studiju programmās, kuras šīs normas spēkā stāšanās dienā jau tiek īstenotas un kurās uzņemšana paredzēta arī laikā līdz 2004.gadam.

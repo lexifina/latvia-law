@@ -1,0 +1,1 @@
+14. Likuma 55.panta otrā daļa par pilna laika studējošo skaitu akadēmiskās izglītības studiju programmās neattiecas uz tām studiju programmām, kuras šīs normas spēkā stāšanās dienā jau tiek īstenotas, - līdz brīdim, kad attiecīgā studiju programma akreditējama atbilstoši šā likuma prasībām.

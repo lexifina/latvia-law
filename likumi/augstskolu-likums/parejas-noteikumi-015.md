@@ -1,0 +1,1 @@
+15. Likuma 55.panta sestā daļa par ikvienas studiju programmas licencēšanu neattiecas uz tām studiju programmām, kuras šīs normas spēkā stāšanās dienā jau tiek īstenotas. Šīs studiju programmas pielīdzināmas licencētām studiju programmām.

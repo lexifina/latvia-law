@@ -1,4 +1,4 @@
-40. pants. Viesprofesori, viesdocenti un vieslektori
-(1) Ja augstskolā ir brīva vai uz laiku brīva attiecīga štata vieta, senāts pēc fakultātes domes ierosinājuma var nolemt neizsludināt konkursu, bet uz laiku līdz diviem gadiem pieņemt darbā viesprofesoru, viesdocentu vai vieslektoru (katru vienu reizi).
+40.pants. Viesprofesori, viesdocenti un vieslektori
+(1) Ja augstskolā ir brīvs vai uz laiku brīvs amats, senāts pēc fakultātes domes ierosinājuma var nolemt neizsludināt konkursu, bet uz laiku līdz diviem gadiem pieņemt darbā viesprofesoru, viesdocentu vai vieslektoru (katru vienu reizi).
 (2) Viesprofesoriem, viesdocentiem un vieslektoriem ir tādas pašas tiesības, pienākumi un atalgojums kā profesoriem, asociētajiem profesoriem, docentiem un lektoriem, bet viņi nevar piedalīties vēlēto vadības institūciju darbā.
 (3) Augstskolas uzaicinātie ārvalstu mācībspēki Latvijā maksā nodokļus, ir atbrīvoti no valsts nodevām par vīzām, kā arī saņem atļauju dzīvot un strādāt Latvijā darba līgumā paredzētajā laikā saskaņā ar spēkā esošajiem likumdošanas aktiem un Saeimas apstiprinātajiem starptautiskajiem līgumiem.

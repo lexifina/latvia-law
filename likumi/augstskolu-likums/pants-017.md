@@ -1,9 +1,8 @@
 17.pants. Rektors
-(1) Rektors īsteno augstskolas vispārējo administratīvo vadību un bez īpaša pilnvarojuma pārstāv augstskolu. Rektoru ievēlē augstskolas satversmes sapulce uz termiņu, kas nepārsniedz piecus gadus, turklāt ne vairāk kā divas reizes pēc kārtas.
-(2) Augstskolas ievēlēto rektoru pēc izglītības un zinātnes ministra ierosinājuma apstiprina Ministru kabinets.
-(3) Rektora atcelšanu var ierosināt senāts vai padomnieku konvents. Rektora atcelšanai nepieciešams vairāk nekā 50 procentu balsu no augstskolas satversmes sapulces pārstāvju kopskaita. Jautājumu izlemj Ministru kabinets pēc izglītības un zinātnes ministra atzinuma noklausīšanās.
-(4) Augstskolas rektors personiski atbild Latvijas valdībai par:
-1) šā likuma un citu likumdošanas aktu izpildīšanu;
-2) augstskolas finansiālo darbību;
-3) augstskolas izsniegto izglītības dokumentu atbilstību izglītības kvalitātei;
-4) augstskolas darbības atbilstību augstskolas satversmei.
+(1) Rektors ir augstskolas augstākā amatpersona, kas īsteno augstskolas vispārējo administratīvo vadību un bez īpaša pilnvarojuma pārstāv augstskolu.
+(2) Rektoru augstskolas satversmes sapulce ievēlē uz termiņu, kas nepārsniedz piecus gadus, turklāt ne vairāk kā divas reizes pēc kārtas. Universitātes tipa augstskolās par rektoru ievēlē profesoru, neuniversitātes tipa augstskolās - profesoru vai personu, kurai ir doktora grāds.
+(3) Dibinot augstskolu, Ministru kabinets ieceļ augstskolas dibinātāja izvirzītu rektora vietas izpildītāju, kas pilda rektora pienākumus līdz augstskolas satversmes sapulcē ievēlēta rektora apstiprināšanai.
+(4) Kārtējās rektora vēlēšanas augstskola rīko vismaz vienu mēnesi pirms rektora pilnvaru izbeigšanās. Līdz jaunievēlētā rektora apstiprināšanai Ministru kabinetā rektora pienākumus pilda iepriekšējais rektors.
+(5) Augstskolas ievēlēto rektoru apstiprina Ministru kabinets pēc augstskolas dibinātāja ierosinājuma. Rektors amata pienākumus sāk pildīt pēc apstiprināšanas Ministru kabinetā. Ministru kabinets var neapstiprināt rektoru amatā, ja viņš ievēlēts, pārkāpjot šā likuma un augstskolas satversmes noteikumus. Ja rektors netiek apstiprināts, augstskola divu mēnešu laikā atkārtoti organizē rektora vēlēšanas. Līdz atkārtotajās vēlēšanās ievēlēta rektora apstiprināšanai Ministru kabinets ieceļ augstskolas dibinātāja izvirzītu rektora vietas izpildītāju. Ministru kabinetā neapstiprinātais rektora amata kandidāts atkārtotajās rektora vēlēšanās nepiedalās.
+(6) Rektoru atceļ no amata Ministru kabinets pēc augstskolas senāta vai attiecīgās ministrijas ierosinājuma, ja rektora darbībā konstatēti likuma vai citu normatīvo aktu pārkāpumi.
+(7) Rektora atcelšanas gadījumā Ministru kabinets ieceļ augstskolas dibinātāja izvirzītu rektora vietas izpildītāju, kas pilda rektora pienākumus līdz jaunievēlēta rektora apstiprināšanai.

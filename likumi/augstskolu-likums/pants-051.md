@@ -1,2 +1,2 @@
-51. pants. Studējošo skaita noteikšana
-No valsts budžeta līdzekļiem finansējamo studējošo skaitu katrā augstskolā nosaka Augstākās izglītības padome, saskaņojot to ar izglītības un zinātnes ministru. Studējošo skaitu juridisko personu dibinātajās augstskolās nosaka šo augstskolu dibinātāji.
+51.pants. Studiju vietu skaita noteikšana
+No valsts budžeta līdzekļiem finansējamo studiju vietu skaitu augstskolā nosaka izglītības un zinātnes ministrs pēc Augstākās izglītības padomes priekšlikuma. Studiju vietu skaitu pašvaldību un citu juridisko un fizisko personu dibinātajās augstskolās nosaka šo augstskolu dibinātāji.

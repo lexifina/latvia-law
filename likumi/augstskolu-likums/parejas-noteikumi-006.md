@@ -1,1 +1,1 @@
-6. Izglītības un zinātnes ministrs divu mēnešu laikā no šā likuma spēkā stāšanās dienas iesniedz Saeimai Augstākās izglītības padomes personālsastāva kandidatūras.
+6. Ne vēlāk kā divu mēnešu laikā pēc tam, kad stājušies spēkā grozījumi likuma 66.panta pirmajā daļā (par Augstākās izglītības padomes 12 locekļu sastāva ierosināšanu apstiprināšanai Saeimā), izglītības un zinātnes ministrs iesniedz Saeimai Augstākās izglītības padomes personālsastāva kandidatūras.
