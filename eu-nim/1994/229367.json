@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Prokuratūras likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "65 (196)",
+  "official_journal_page": null,
+  "official_journal_date": "1994-06-02",
+  "entry_into_force": "1994-07-01",
+  "notification_date": "2015-08-31",
+  "commission_reference": "MNE(2015)56142",
+  "nim_celex": "72002D0187LVA_229367",
+  "nim_id": "229367",
+  "transposes_celex": [
+    "32002D0187"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d2005812-aa01-44a9-9b93-cd2fe2ef5d8e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
