@@ -1,0 +1,1 @@
+12. Turpināt tāda apdrošināšanas stāža noteikšanu, kas dod tiesības uz izdienas pensiju saskaņā ar nolikumu "Par izdienas pensijām" un nolikumu "Par iekšlietu iestāžu ierindas un komandējošā sastāva darbinieku pensijām (darba devēja pensijām)", līdz tam laikam, kad Ministru kabinets būs noteicis citu kārtību.

@@ -1,0 +1,2 @@
+33.pants. Avansi
+Ja apdrošinātajai personai ir tiesības uz pensiju, bet ir paredzams, ka tās apmēra noteikšanai būs nepieciešams ilgs laiks (arhīva izziņu saņemšanai par apdrošināšanas stāžu), pensijas pieprasītājam var piešķirt un izmaksāt pensiju avansa veidā, nepārsniedzot paredzamās pensijas mēneša apmēru. Avansu izmaksā, ja apdrošinātā persona, kurai ir tiesības uz pensiju, to pieprasa. Avansa izmaksu uzsāk ne vēlāk kā nākamajā mēnesī pēc pensijas pieprasījuma saņemšanas dienas un turpina izmaksāt ne ilgāk par sešiem mēnešiem.

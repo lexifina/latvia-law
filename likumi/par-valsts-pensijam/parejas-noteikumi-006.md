@@ -1,0 +1,1 @@
+6. Par apdrošināto personu iemaksu periodos, kas minēti šā likuma 9.panta trešajā daļā, apdrošināšanas iemaksas līdz 1997.gadam tiek izdarītas no sociālās apdrošināšanas budžeta līdzekļiem, bet no 1997.gada - no valsts pamatbudžeta līdzekļiem.

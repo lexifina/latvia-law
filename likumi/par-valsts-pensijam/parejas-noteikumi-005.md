@@ -1,0 +1,1 @@
+5. Līdz Darba negadījumu un arodslimību apdrošināšanas fonda izveidošanai personai, kas atzīta par invalīdu sakarā ar nelaimes gadījumu darbā vai arodslimību, pensija piešķirama un izmaksājama saskaņā ar šo likumu.

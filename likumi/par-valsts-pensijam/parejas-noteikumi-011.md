@@ -1,0 +1,1 @@
+11. Nosakot tiesības uz koeficientu pensijai par darbu sevišķi kaitīgos un sevišķi smagos darba apstākļos vai kaitīgos un smagos darba apstākļos Latvijas teritorijā, piemērojami saraksti, kas līdz šā likuma spēkā stāšanās dienai noteica ražotņu, darbu un profesiju atbilstību darbam, kas dod tiesības uz pensiju ar atvieglotiem noteikumiem.

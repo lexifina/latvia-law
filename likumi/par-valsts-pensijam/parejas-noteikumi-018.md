@@ -1,0 +1,3 @@
+18. Personām, kurām invaliditāte noteikta pirms šā likuma spēkā stāšanās, bet kuras šajā likumā noteikto vecuma pensijas piešķiršanai nepieciešamo vecumu sasniegušas pēc šā likuma spēkā stāšanās, invaliditātes pensijas vietā aprēķināma vecuma pensija šādā kārtībā:
+1) ja invalīds strādājis pēc šā likuma spēkā stāšanās, - saskaņā ar šā likuma 12.panta noteikumiem, piemērojot šo pārejas noteikumu 13.punktu;
+2) ja invalīds nav strādājis pēc šā likuma spēkā stāšanās, - saskaņā ar šā likuma 12.panta noteikumiem, piemērojot šo pārejas noteikumu 13.punktu, ņemot vērā vidējo apdrošināšanas iemaksu algu 1995.gadā.
