@@ -1,1 +1,1 @@
-9. Jaunbūvējamas vai rekonstruējamas publiskās lietošanas dzelzceļa līnijas.
+9. Jaunbūvējamas publiskās lietošanas dzelzceļa līnijas.

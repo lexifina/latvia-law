@@ -1,0 +1,1 @@
+8. Ja izstrādātājs piemēro plānošanas dokumentam stratēģisko novērtējumu pirms šo pārejas noteikumu 6. vai 7.punktā minēto termiņu beigām, stratēģiskais novērtējums piemērojams atbilstoši šā likuma noteikumiem.

@@ -1,1 +1,0 @@
-3. Šis likums netiek piemērots tām paredzētajām darbībām, kurām saskaņā ar likumu "Par valsts ekoloģisko ekspertīzi" ir izdots pozitīvs Vides valsts ekspertīzes pārvaldes atzinums, kā arī tām darbībām, kuru projektēšanas ekoloģiskais uzdevums ir izsniegts pirms šā likuma stāšanās spēkā.

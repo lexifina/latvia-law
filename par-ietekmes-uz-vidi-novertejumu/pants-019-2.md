@@ -1,1 +1,1 @@
-19. Notekūdeņu attīrīšanas iekārtas ar jaudu, kas pārsniedz 30 000 cilvēkekvivalentu.
+19. Notekūdeņu attīrīšanas iekārtas ar jaudu, kas pārsniedz 150 000 cilvēkekvivalentu.

@@ -1,2 +1,2 @@
 VI nodaļa
-Ierosinātāja un ekspertu atbildība
+Atbildība un lēmumu pārskatīšana

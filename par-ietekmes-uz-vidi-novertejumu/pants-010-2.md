@@ -1,1 +1,1 @@
-10. Starptautiskas lidostas.
+10. Jaunbūvējamas lidostas ar 2,1 kilometru garu vai vēl garāku skrejceļu.

@@ -1,0 +1,1 @@
+11.¹ Jaunbūvējami četru vai vairāku joslu ceļi vai esošie divu vai mazāk joslu ceļi, kas iztaisnoti un/vai paplašināti par četru vai vairāku joslu ceļiem, ja šāda būvētā, iztaisnotā un/vai paplašinātā autoceļa posms ir 10 kilometrus garš vai vēl garāks.

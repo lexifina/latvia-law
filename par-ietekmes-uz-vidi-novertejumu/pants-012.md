@@ -1,2 +1,2 @@
 12.pants. Sākotnējā izvērtējuma veikšanas kārtība
-Sākotnējo izvērtējumu veic attiecīgā reģionālā vides pārvalde saskaņā ar Ministru kabineta noteikumiem par ietekmes novērtējuma veikšanu.
+Sākotnējo izvērtējumu veic attiecīgā reģionālā vides pārvalde Ministru kabineta noteiktajā kārtībā.

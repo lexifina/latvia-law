@@ -1,0 +1,1 @@
+13. Jebkuras pārmaiņas akceptētās, notiekošās vai pabeigtās darbībās, kuras saistītas ar šā likuma 1.pielikumā un šajā pielikumā minētajiem objektiem un var izraisīt būtisku nelabvēlīgu ietekmi uz vidi.

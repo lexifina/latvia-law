@@ -2,7 +2,7 @@
 Paredzētās darbības ietekme uz vidi novērtējama pēc šādiem kritērijiem:
 1) paredzēto darbību raksturojošie faktori:
 a) apjoms,
-b) paredzēto darbību un citu darbību savstarpējā ietekme,
+b) paredzētās darbības un citu pašreizējo vai kompetentā institūcijā pieteiktu plānoto darbību savstarpējā ietekme,
 c) dabas resursu izmantošana,
 d) atkritumu rašanās,
 e) piesārņojums un traucējumi,
@@ -10,11 +10,14 @@ f) avāriju risks (tehnoloģijas vai izmantojamās vielas);
 2) paredzētās darbības vietu un šīs vietas ģeogrāfiskās īpatnības raksturojošie faktori:
 a) līdzšinējais zemes izmantošanas veids,
 b) attiecīgajā teritorijā esošo dabas resursu relatīvais daudzums, kvalitāte un atjaunošanās iespējas,
-c) dabiskās vides absorbcijas spēja, pievēršot sevišķu uzmanību īpaši aizsargājamām dabas teritorijām, īpaši aizsargājamām sugām un biotopiem, starptautiskas nozīmes mitrājiem, vides un dabas resursu aizsardzības aizsargjoslām un putniem nozīmīgām vietām,
-d) teritorijas, kurās piesārņojuma līmenis ir augstāks, nekā paredz vides kvalitātes kritēriji un standarti,
+c) dabiskās vides absorbcijas spēja, pievēršot īpašu uzmanību ar mežu klātajām teritorijām,
+d) teritorijas, kurās piesārņojuma līmenis ir augstāks, nekā paredz vides kvalitātes normatīvi,
 e) iedzīvotāju blīvums attiecīgajā teritorijā,
 f) vēsturiski, arheoloģiski un kultūrvēsturiski nozīmīgas ainavas;
-3) paredzētās darbības iespējamā ietekme uz vidi, ko vērtē atbilstoši šā panta 1. un 2.punktā noteiktajiem kritērijiem un ņemot vērā paredzētās darbības:
+2¹) paredzētās darbības ietekme uz:
+a) īpaši aizsargājamām dabas teritorijām, starptautiskas nozīmes mitrājiem, mikroliegumiem, Baltijas jūras un Rīgas jūras līča piekrastes aizsargjoslu, virszemes ūdensobjektu aizsargjoslām,
+b) īpaši aizsargājamām sugām, to dzīvotnēm un īpaši aizsargājamiem biotopiem;
+3) paredzētās darbības iespējamā ietekme uz vidi, ko vērtē atbilstoši šā panta 1., 2. un 2.¹ punktā noteiktajiem kritērijiem un ņemot vērā paredzētās darbības:
 a) apjomu (ietekmei pakļautās teritorijas lielumu un cilvēku daudzumu tajā),
 b) iespējamo pārrobežu ietekmi,
 c) ietekmes nozīmīgumu un kompleksumu,

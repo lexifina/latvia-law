@@ -1,1 +1,1 @@
-25. Atklātas derīgo izrakteņu ieguves vietas, kuru platība ir lielāka par 10 hektāriem, vai kūdras ieguves vietas, ja to teritorija ir lielāka par 100 hektāriem.
+25. Projekti, kas paredz derīgo izrakteņu ieguvi agrāk neizmantotās derīgo izrakteņu atradnēs, kuru platība ir lielāka par 10 hektāriem, vai agrāk neizmantotās kūdras atradnēs, kuru platība ir lielāka par 100 hektāriem, neatkarīgi no izstrādei paredzētās platības.
