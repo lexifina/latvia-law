@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2001.gada 18.septembra Ministru kabineta noteikumi Nr.406 \nJonizējošā starojuma avotu iepakošanas un marķēšanas kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "135 (2522), 25.09.2001.",
+  "official_journal_page": null,
+  "official_journal_date": "2001-09-25",
+  "entry_into_force": "2001-09-26",
+  "notification_date": "2018-01-23",
+  "commission_reference": "MNE(2018)50523",
+  "nim_celex": "72013L0059LVA_255032",
+  "nim_id": "255032",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2f31ca91-88d9-4395-af90-fd241052536a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
