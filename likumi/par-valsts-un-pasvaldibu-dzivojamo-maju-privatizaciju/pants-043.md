@@ -5,3 +5,4 @@
 (4) Nosakot pirkuma maksu, privatizācijas komisija ņem vērā šādus apstākļus:
 1) ja persona privatizē dzīvokli dzīvojamā mājā, kuras celtniecībā vai kapitālremontā tā ir ieguldījusi līdzekļus vai darbu un var to dokumentāri pierādīt, attiecīgais ieguldījums ieskaitāms pirkuma maksā;
 2) ja persona pēc 1992.gada 1.septembra saskaņā ar pašvaldības lēmumu ir pirkusi no pašvaldības dzīvokļa īres tiesības, pirkuma maksā ieskaitāma maksa par dzīvokļa īres tiesībām.
+(5) Ja saskaņā ar šā likuma XVII nodaļā noteikto dzīvoklis nodots īpašumā līdz dzīvojamās mājas privatizācijai, pirkuma maksa ir atbilstoša pašvaldības domes (padomes) lēmumā noteiktajai maksai par dzīvokļa nodošanu īpašumā līdz dzīvojamās mājas privatizācijai.
