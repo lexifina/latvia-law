@@ -15,4 +15,4 @@
 5) svarīgu operatīvās darbības pasākumu plānu vai šajā darbībā iesaistīto personu identitātes atklāšanu;
 6) ar valsts aizsardzību un drošību vai noteiktas tautsaimniecības nozares attīstību saistīto zinātnisko vai tehnoloģisko atklājumu izpaušanu.
 (4) Par konfidenciālu atzīstama tāda informācija, kura attiecas uz militāro, politisko, ekonomisko, zinātnisko, tehnisko, izlūkošanas (pretizlūkošanas) un operatīvo darbību un kuras nozaudēšana vai nelikumīga izpaušana var apdraudēt valsts intereses, nodarot kaitējumu konkrētai valsts institūcijai.
-(5) (Izslēgta ar MK 05.08.2003. noteikumiem Nr.432.)
+(5) (Izslēgta ar 18.12.2003. likumu.)

@@ -1,5 +1,5 @@
 9.pants. Valsts noslēpuma pieejamība
-(1) Pieeja valsts noslēpumam ir atļauta tikai tām personām, kurām saskaņā ar amata (dienesta) pienākumiem vai konkrētu darba (dienesta) uzdevumu ir nepieciešams veikt darbu, kas saistīts ar valsts noslēpuma izmantošanu vai tā aizsardzību, un kuras saskaņā ar šo likumu ir saņēmušas speciālas atļaujas.
+(1) Pieeja valsts noslēpumam ir atļauta tikai tām personām, kurām saskaņā ar amata (dienesta) pienākumiem vai konkrētu darba (dienesta) uzdevumu ir nepieciešams veikt darbu, kas saistīts ar valsts noslēpuma izmantošanu vai tā aizsardzību, un kuras saskaņā ar šo likumu ir saņēmušas speciālas atļaujas. Personas pārbaude veicama pirms darba (dienesta) attiecību uzsākšanas.
 (2) Speciālo atļauju pieejai valsts noslēpumam (turpmāk - speciālā atļauja) var izsniegt personai, kura ir:
 1) rīcībspējīga un nav jaunāka par 18 gadiem;
 2) Latvijas pilsonis;
@@ -12,8 +12,8 @@
 5) kura pēc 1991.gada 13.janvāra darbojusies PSKP (LKP), Latvijas PSR Darbaļaužu internacionālajā frontē, Darba kolektīvu apvienotajā padomē, Kara un darba veterānu organizācijā vai Vislatvijas sabiedrības glābšanas komitejā;
 6) kuras personiskās vai profesionālās īpašības pamatoti liek apšaubīt tās spēju ievērot slepenības režīma prasības;
 7) kura ir medicīnas iestāžu uzskaitē sakarā ar alkoholismu, toksikomāniju, narkomāniju vai gara slimību;
-8) kura ir ņemta operatīvajā uzskaitē sakarā ar operatīvās izstrādes lietu.
-(3¹) (Izslēgta ar MK 05.08.2003. noteikumiem Nr.432.)
+8) (izslēgts ar 18.12.2003. likumu).
+(3¹) (Izslēgta ar 18.12.2003. likumu.)
 (4) Pamatojoties uz valsts noslēpuma subjekta priekšlikumu, Satversmes aizsardzības biroja direktors pēc pārbaudes izdarīšanas var atļaut pieeju valsts noslēpumam atsevišķām personām, kurām to ierobežo šā panta trešās daļas 3.punkta nosacījumi, ja nav izdarīts smags vai sevišķi smags noziegums un sodāmība ir dzēsta vai noņemta.
 (5) Pamatojoties uz valsts noslēpuma subjekta priekšlikumu, Satversmes aizsardzības biroja direktors pēc pārbaudes izdarīšanas var atļaut pieeju valsts noslēpumam atsevišķām personām, kurām to ierobežo šā panta trešās daļas 4.punkta nosacījumi.
 (6) Ja personai netiek izsniegta speciālā atļauja, tas ir pietiekams pamats, lai atteiktu tai pieņemšanu darbā, kas saistīts ar valsts noslēpuma izmantošanu vai aizsardzību.
