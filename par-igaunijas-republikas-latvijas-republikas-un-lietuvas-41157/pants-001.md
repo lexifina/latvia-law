@@ -1,0 +1,1 @@
+1.pants. 1996.gada 12.jūlijā parakstītā Igaunijas Republikas, Latvijas Republikas un Lietuvas Republikas Apvienotās komitejas rezolūcija nr.2/96 "Par grozījumiem Igaunijas Republikas, Latvijas Republikas un Lietuvas Republikas nolīguma par brīvo tirdzniecību 4.pantā un A protokolā" (turpmāk - Rezolūcija) ar šo likumu tiek pieņemta un apstiprināta.
