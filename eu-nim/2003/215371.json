@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2001. gada 27. novembra noteikumi Nr. 495  „Noteikumi par Latvijas būvnormatīvu LBN 002-01 \"Ēku norobežojošo konstrukciju siltumtehnika\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "174 (2561)",
+  "official_journal_page": null,
+  "official_journal_date": "2001-11-30",
+  "entry_into_force": "2003-01-01",
+  "notification_date": "2014-04-23",
+  "commission_reference": "MNE(2014)52522",
+  "nim_celex": "72010L0031LVA_215371",
+  "nim_id": "215371",
+  "transposes_celex": [
+    "32010L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ec1471d2-a7fc-4d1e-871d-38d6b312157a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
