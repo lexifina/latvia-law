@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Latvijas Zvērinātu advokātu Ētikas kodekss",
+  "type_of_act": "Administratīvie pasākumi",
+  "official_journal": "Obsolete",
+  "official_journal_reference": ".",
+  "official_journal_page": null,
+  "official_journal_date": "1993-05-21",
+  "entry_into_force": "1993-05-21",
+  "notification_date": "2018-07-19",
+  "commission_reference": "MNE(2018)53862",
+  "nim_celex": "72016L0343LVA_261024",
+  "nim_id": "261024",
+  "transposes_celex": [
+    "32016L0343"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ac1eb889-1735-4023-b3c5-69b6ebe8195f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
