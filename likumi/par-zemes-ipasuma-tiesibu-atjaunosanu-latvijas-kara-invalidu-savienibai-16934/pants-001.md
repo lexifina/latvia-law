@@ -1,0 +1,1 @@
+1.pants. Ar šo likumu Latvijas Kara invalīdu savienībai tiek atjaunotas īpašuma tiesības uz zemes īpašumiem, kuri tai piederēja 1940.gada 22.jūlijā Jūrmalā, Tukuma ielā 29 (zemes kadastra nr.1300-026-5402) un Emīla Dārziņa ielā 13 (zemes kadastra nr. 1300-026-5403).
