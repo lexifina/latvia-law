@@ -1,3 +1,4 @@
 7.pants. (1) Pārtikas uzņēmums savā darbībā ir atbildīgs par pārtikas kvalitāti un nekaitīgumu, kā arī par izplatāmās pārtikas atbilstību normatīvajos aktos noteiktajām un uzņēmuma deklarētajām prasībām.
 (2) Persona, kura veic saimniecisko darbību un iesaistījusies kādā no pārtikas aprites posmiem, ir atbildīga par to, lai tiktu izpildītas visas pārtikas apriti reglamentējošās normatīvo aktu prasības.
 (3) Pārtikas uzņēmums savā darbībā var ievērot labas higiēnas prakses vadlīnijas, kuras izstrādā pārtikas nozaru profesionālās asociācijas un biedrības, konsultējoties ar patērētāju grupu pārstāvjiem un kompetentām valsts institūcijām. Labas higiēnas prakses vadlīnijas saskaņo ar Pārtikas un veterināro dienestu.
+(4) Šā panta trešajā daļā minētās labas higiēnas prakses vadlīnijas neattiecas uz primāro ražošanu un augu valsts izcelsmes produktu pirmapstrādi.

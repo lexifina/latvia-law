@@ -6,4 +6,7 @@
 5) informēt sabiedrību par aktuālajiem pārtikas nekaitīguma un uztura jautājumiem;
 6) informēt pārtikas uzņēmumus un patērētājus par pārtikas nekaitīgumu un uzturu reglamentējošiem normatīvajiem aktiem;
 7) atbilstoši savai kompetencei sadarboties ar starptautiskajām organizācijām;
-8) sagatavot priekšlikumus un normatīvo aktu projektus ar ģenētiski modificēto organismu, tajā skaitā jaunās pārtikas, izplatību saistīto problēmu risināšanai.
+8) sagatavot priekšlikumus un normatīvo aktu projektus ar ģenētiski modificēto organismu, tajā skaitā jaunās pārtikas, izplatību saistīto problēmu risināšanai;
+9) Ministru kabineta noteiktajos gadījumos izvērtēt diētiskās pārtikas un uztura bagātinātāju atbilstību normatīvajos aktos noteiktajām prasībām, kā arī mātes piena aizstājēju reklāmas atbilstību normatīvajos aktos noteiktajām prasībām;
+10) izveidot, aktualizēt un uzturēt šā likuma 4.panta 10.¹ daļā minētās datu bāzes;
+11) nodrošināt Ģenētiski modificēto organismu un jaunās pārtikas uzraudzības padomes darbu.

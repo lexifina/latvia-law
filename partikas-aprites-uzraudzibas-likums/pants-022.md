@@ -1,8 +1,10 @@
 22.pants. (1) (Izslēgta ar 13.12.2001. likumu.)
-(2) Pārtikas un veterinārā dienesta amatpersonām savas kompetences ietvaros, uzrādot dienesta apliecību, ir tiesības:
+(2) Veicot plānveida vai ārpuskārtas kontroli, Pārtikas un veterinārā dienesta amatpersonām savas kompetences ietvaros, uzrādot dienesta apliecību, ir tiesības:
 1) bez iepriekšēja brīdinājuma apmeklēt jebkuru pārtikas uzņēmumu, pieprasīt dokumentus un informāciju, iepazīties ar materiāliem, ņemt dokumentu kopijas un izrakstus no dokumentiem, kā arī veikt nepieciešamos pasākumus, lai nodrošinātu pārtikas aprites valsts uzraudzību un kontroli;
-2) saskaņā ar normatīvajiem aktiem ņemt paraugus un nosūtīt tos pārbaudei uz attiecīgu akreditētu laboratoriju. Ja ir konstatēta neatbilstība normatīvajos aktos noteiktajām prasībām, pārtikas uzņēmums sedz visus pārbaudes izdevumus;
+2) saskaņā ar normatīvajiem aktiem ņemt šā likuma 23.panta 2. un 4.punktā minēto objektu paraugus un nosūtīt tos pārbaudei uz attiecīgi akreditētu vai pilnvarotu laboratoriju. Ja ir konstatēta neatbilstība normatīvajos aktos noteiktajām prasībām, pārtikas uzņēmums sedz visus pārbaudes izdevumus;
 3) uzraudzīt un kontrolēt personāla obligāto veselības pārbaužu periodiskumu un apjomu un to, kā personāls ievēro higiēnas prasības, mērinstrumentu uzrādīto lielumu nolasīšanu pārtikas uzņēmumā, kā arī šā likuma 23.pantā minētos objektus;
+3¹) veikt pārrunas ar pārtikas uzņēmuma vadītāju vai pārtikas uzņēmumā nodarbinātajām fiziskajām personām par jautājumiem, kas skar pārtikas aprites posmu, kurā attiecīgā persona ir iesaistīta;
+3²) nolasīt pārtikas uzņēmuma mērinstrumentu rādījumus, kā arī, izmantojot kontroles aprīkojumu, veikt mērījumus;
 4) saskaņā ar spēkā esošajiem normatīvajiem aktiem līdz apstākļu pilnīgai noskaidrošanai apturēt pārtikas uzņēmuma darbību vai pārtikas izplatīšanu, atzīt pārtiku par izplatīšanai nederīgu un izņemt no apgrozības, ja radušās pamatotas aizdomas par tās kaitīgumu cilvēka veselībai, dzīvībai vai videi;
 5) ja nepieciešams, sagatavot tiesībaizsardzības iestādēm materiālus vainīgo personu saukšanai pie kriminālatbildības;
 6) ja nepieciešams, savu uzdevumu veikšanas nodrošināšanai pieaicināt tiesībaizsardzības iestāžu darbiniekus;

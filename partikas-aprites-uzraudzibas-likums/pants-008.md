@@ -5,3 +5,5 @@
 (5) Pārtikas uzņēmuma vadītājs ir atbildīgs par savā uzņēmumā pārtikas apritē nodarbināto fizisko personu profesionālo kvalifikāciju. Šīm personām izvirzāmās prasības reglamentē Ministru kabineta noteikumi.
 (6) (Izslēgta ar 06.11.2003. likumu.)
 (7) Pārtikas uzņēmumiem ir jāievēro dokumentēts pasākumu komplekss, kas nodrošina higiēnas un ražošanas atbilstību ražotāja noteiktajām kvalitātes prasībām.
+(8) Pārtikas uzņēmums sniedz nepieciešamo atbalstu un nodrošina, lai Pārtikas un veterinārais dienests varētu veikt kontroli.
+(9) Pārtikas uzņēmumam ir tiesības pieprasīt Pārtikas un veterinārā dienesta inspektoram paņemt paralēlo paraugu šā likuma 23.panta 2. un 4.punktā minētajiem objektiem, lai varētu veikt šī parauga neatkarīgu testēšanu.
