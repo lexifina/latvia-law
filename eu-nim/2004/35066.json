@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Satiksmes ministrijas 2004. gada 20. aprīļa noteikumi Nr. 7",
+  "type_of_act": "Ministra noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "20",
+  "official_journal_page": null,
+  "official_journal_date": "2005-02-04",
+  "entry_into_force": "2004-04-20",
+  "notification_date": "2005-02-04",
+  "commission_reference": "MNE(2005)55066",
+  "nim_celex": "71998L0085LVA_35066",
+  "nim_id": "35066",
+  "transposes_celex": [
+    "31998L0085",
+    "32002L0075"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5c54bb5b-a17f-4fd3-b250-0b4e018feed8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
