@@ -1,0 +1,1 @@
+1.pants. 1995.gada 19.jūnijā Briselē parakstītais Ziemeļatlantijas līguma organizācijas dalībvalstu un valstu, kas piedalās programmā "Partnerattiecības - mieram", līgums par to bruņoto spēku statusu (turpmāk - Līgums) un Līguma protokols (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.
