@@ -1,0 +1,1 @@
+1.pants. 1995.gada 23.maijā Rīgā parakstītais Latvijas Republikas valdības un Ukrainas valdības nolīgums par automobiļu starptautisko satiksmi (turpmāk - Nolīgums) un izpildes protokols ar šo likumu tiek pieņemts un apstiprināts.
