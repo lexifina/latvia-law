@@ -1,0 +1,1 @@
+1.pants. 2003.gada 1.jūlijā Rīgā parakstītais Latvijas Republikas valdības un Mongolijas valdības līgums par sadarbību kultūrā, izglītībā un zinātnē (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
