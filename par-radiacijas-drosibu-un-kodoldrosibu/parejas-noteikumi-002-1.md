@@ -1,0 +1,1 @@
+2.¹ Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2005.gada 1.aprīlim piemērojami Ministru kabineta 2002.gada 25.jūnija noteikumi Nr.260 "Kārtība, kādā uz valsts robežas veicama preču un transportlīdzekļu radiometriskā kontrole un atklājami nedeklarēti jonizējošā starojuma avoti", ciktāl tie nav pretrunā ar šo likumu.

@@ -9,7 +9,7 @@ Centra galvenās funkcijas ir šādas:
 7) nodrošināt valsts teritorijā atklāto nezināmo jonizējošā starojuma avotu vai uz valsts robežas atklāto nedeklarēto jonizējošā starojuma avotu identifikāciju, izpēti, novērtējumu un organizēt to apglabāšanu, ja starojuma avota lietotāju vai īpašnieku nav iespējams noteikt;
 8) veicināt jaunu tehnoloģiju ieviešanu, lai samazinātu jonizējošā starojuma avotu lietošanas iespējamo kaitīgo ietekmi;
 9) koordinēt tehniskās palīdzības programmas radiācijas drošības jomā;
-10) sagatavot ziņojumus starptautiskajām organizācijām, konvenciju un līgumu sekretariātiem un Eiropas Savienības Komisijai par jautājumiem, kas ir Centra kompetencē, piedalīties šo jautājumu apspriešanā attiecīgajās starptautiskajās organizācijās;
+10) sagatavot ziņojumus starptautiskajām organizācijām, konvenciju un līgumu sekretariātiem un Eiropas Komisijai par jautājumiem, kas ir Centra kompetencē, piedalīties šo jautājumu apspriešanā attiecīgajās starptautiskajās organizācijās;
 11) izvērtēt starptautisko institūciju prasību un rekomendāciju ievērošanu Latvijā un sagatavot priekšlikumus par grozījumiem attiecīgajos normatīvajos aktos vai par jaunu normatīvo aktu izstrādi;
 12) lai paaugstinātu radiācijas drošības līmeni valstī, organizēt un koordinēt to inspektoru un darbu vadītāju apmācību, kuru darbs saistīts ar radiācijas drošību, kā arī veicināt šo darbu izpildītāju apmācību;
 13) veidot un aktualizēt datu bāzes par to darbinieku apstarošanu, kuru darbs saistīts ar jonizējošā starojuma avotiem, un iedzīvotāju apstarošanu;
