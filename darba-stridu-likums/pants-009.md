@@ -1,0 +1,2 @@
+9.pants. Kolektīvs tiesību strīds
+Kolektīvs tiesību strīds ir tādas domstarpības starp darbiniekiem (darbinieku grupu) vai darbinieku pārstāvjiem un darba devēju, darba devējiem (darba devēju grupu), darba devēju organizāciju vai šādu organizāciju apvienību, vai nozares pārvaldes institūciju, kuras rodas, slēdzot, grozot, izbeidzot vai pildot darba koplīgumu, kā arī piemērojot vai tulkojot normatīvo aktu noteikumus, darba koplīguma vai darba kārtības noteikumus.

@@ -1,0 +1,4 @@
+11.pants. Kolektīva tiesību strīda izšķiršana izlīgšanas komisijā
+(1) Kolektīvus tiesību strīdus izšķir izlīgšanas komisijā. Izlīgšanas komisiju ne vēlāk kā triju dienu laikā pēc šā likuma 10.panta otrajā daļā minētā termiņa izveido kolektīva tiesību strīda puses, pilnvarojot vienādu skaitu pārstāvju.
+(2) Kolektīva tiesību strīda gadījumā puses raksta domstarpību protokolu un ne vēlāk kā triju dienu laikā pēc šā likuma 10.panta otrajā daļā minētā termiņa iesniedz to izlīgšanas komisijai. Izlīgšanas komisija izskata minēto protokolu un septiņu dienu laikā pēc protokola saņemšanas pieņem lēmumu. Izlīgšanas komisijas sēdes tiek protokolētas. Ja kolektīva tiesību strīda puses par to vienojas, izlīgšanas komisija kolektīvu tiesību strīdu var izšķirt un lēmumu pieņemt arī pēc šajā daļā minētā termiņa izbeigšanās.
+(3) Izlīgšanas komisija lēmumu pieņem, komisijas locekļiem vienojoties. Lēmums ir saistošs abām kolektīva tiesību strīda pusēm, un tam ir darba koplīguma spēks.

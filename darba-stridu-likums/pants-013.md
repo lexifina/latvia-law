@@ -1,0 +1,2 @@
+13.pants. Kolektīvs interešu strīds
+Kolektīvs interešu strīds ir tādas domstarpības starp darbiniekiem (darbinieku grupu) vai darbinieku pārstāvjiem un darba devēju, darba devējiem (darba devēju grupu), darba devēju organizāciju vai šādu organizāciju apvienību, vai nozares pārvaldes institūciju, kuras rodas saistībā ar kolektīvo pārrunu procesu, nosakot jaunus darba apstākļus vai nodarbinātības noteikumus.

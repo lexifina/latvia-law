@@ -1,0 +1,1 @@
+Ar šā likuma spēkā stāšanos spēku zaudē Latvijas Republikas Augstākās padomes Prezidija 1992.gada 2.aprīļa lēmums "Par "Nolikuma par darba strīdu komisiju" apstiprināšanu" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 17.nr.).
