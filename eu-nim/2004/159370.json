@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Nolietotu transportlīdzekļu apsaimniekošanas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "25",
+  "official_journal_page": null,
+  "official_journal_date": "2004-02-17",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2008-11-27",
+  "commission_reference": "MNE(2008)56380",
+  "nim_celex": "72000L0053LVA_159370",
+  "nim_id": "159370",
+  "transposes_celex": [
+    "32000L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/434ab5a9-e7b4-4a64-b370-0313c856fe0d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
