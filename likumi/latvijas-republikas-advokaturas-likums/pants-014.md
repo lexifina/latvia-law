@@ -1,7 +1,7 @@
 14. Par zvērinātiem advokātiem var uzņemt personas, kas:
 1) ir Latvijas Republikas pilsoņi;
 2) sasnieguši divdesmit piecu gadu vecumu;
-3) ieguvušas augstāko juridisko izglītību Latvijas Universitātē vai kādā citā augstskolā, kura pēc Latvijas Universitātes Juridiskās fakultātes atzinuma pielīdzināma Latvijas Universitātei;
+3) ieguvušas augstāko juridisko izglītību;
 4) prot valsts valodu;
 5) vismaz piecus gadus Latvijā bijušas:
 a) par tiesnešiem, izmeklētājiem, prokuroriem vai citos tiesu sistēmas amatos, kuros tās ieguvušas praktiskās iemaņas juridisko zināšanu izmantošanā; vai
