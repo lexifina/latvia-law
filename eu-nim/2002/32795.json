@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Dzīvnieku barības aprites likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "149",
+  "official_journal_page": null,
+  "official_journal_date": "2002-10-16",
+  "entry_into_force": null,
+  "notification_date": "2004-11-17",
+  "commission_reference": "MNE(2004)52795",
+  "nim_celex": "72000L0077LVA_32795",
+  "nim_id": "32795",
+  "transposes_celex": [
+    "32000L0077"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/06934fd7-bfbe-4ebe-b139-8272e37f89da",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
