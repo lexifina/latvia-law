@@ -1,4 +1,4 @@
 57.pants. Bērna atbildība par likumpārkāpumiem
-(1) Saskaņā ar likumu pie administratīvās atbildības var saukt bērnu (turpmāk arī - nepilngadīgo), kurš likumpārkāpumu izdarījis pēc 16 gadu vecuma sasniegšanas, bet pie kriminālatbildības - nepilngadīgo, kurš noziedzīgu nodarījumu izdarījis pēc 14 gadu vecuma sasniegšanas.
+(1) Saskaņā ar likumu pie administratīvās atbildības var saukt bērnu (turpmāk arī - nepilngadīgo), kurš administratīvo pārkāpumu izdarījis pēc 14 gadu vecuma sasniegšanas, bet pie kriminālatbildības - nepilngadīgo, kurš noziedzīgu nodarījumu izdarījis pēc 14 gadu vecuma sasniegšanas.
 (2) Bērna tiesību garantijas laikā, kad viņš ir aizturēts par administratīvo pārkāpumu vai noziedzīgu nodarījumu, apcietināts, arestēts vai atrodas brīvības atņemšanas vietā, nosaka likumi, kas paredz administratīvo atbildību un reglamentē kriminālprocesu vai soda izciešanu.
 (3) Par bērnu iesaistīšanu noziegumā vai citās prettiesiskās darbībās vainīgās personas saucamas pie likumā noteiktās atbildības.
