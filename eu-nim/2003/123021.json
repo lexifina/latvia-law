@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2003.gada 4.novembra noteikumi Nr. 629 Grozījumi Ministru kabineta 2002.gada 9.aprīļa noteikumos Nr.149 \"Noteikumi par aizsardzību pret jonizējošo starojumu\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "157",
+  "official_journal_page": null,
+  "official_journal_date": "2003-11-07",
+  "entry_into_force": "2003-11-08",
+  "notification_date": "2005-07-29",
+  "commission_reference": "MNE(2005)53021",
+  "nim_celex": "71989L0618LVA_123021",
+  "nim_id": "123021",
+  "transposes_celex": [
+    "31989L0618",
+    "31990L0641",
+    "31992L0003",
+    "31996L0029",
+    "31997L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ce1f3032-d8a4-48f7-8ce7-45a41d188e36",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
