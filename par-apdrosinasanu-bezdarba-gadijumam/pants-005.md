@@ -4,4 +4,4 @@
 (3) Bezdarbniekam, par kuru pēdējo 12 mēnešu periodā pirms bezdarbnieka statusa iegūšanas dienas iemaksas bezdarba gadījumam nav veiktas vai ir veiktas mazāk nekā deviņus mēnešus, ir tiesības uz bezdarbnieka pabalstu, ja attiecīgajā periodā viņš ir piederējis pie vienas no šādām personu kategorijām:
 1) pēc invaliditātes ir atguvis darbspējas;
 2) ir kopis bērnu invalīdu līdz 16 gadu vecumam.
-(4) Šā panta trešajā daļā noteiktajai personai bezdarbnieka pabalstu piešķir, ja tā bezdarbnieka statusa iegūšanai reģistrējusies Nodarbinātības valsts dienestā viena mēneša laikā no dienas, kad atguvusi darbspējas, vai no dienas, kad personas kopjamais bērns invalīds ir sasniedzis 16 gadu vecumu vai miris, nesasniedzot 16 gadu vecumu.
+(4) Šā panta trešajā daļā noteiktajai personai bezdarbnieka pabalstu piešķir, ja tā bezdarbnieka statusa iegūšanai reģistrējusies Nodarbinātības valsts aģentūrā viena mēneša laikā no dienas, kad atguvusi darbspējas, vai no dienas, kad personas kopjamais bērns invalīds ir sasniedzis 16 gadu vecumu vai miris, nesasniedzot 16 gadu vecumu.
