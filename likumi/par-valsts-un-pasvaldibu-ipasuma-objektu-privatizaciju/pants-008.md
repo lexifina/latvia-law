@@ -7,7 +7,7 @@
 5) saskaņā ar likumu «Par īpašuma tiesību atjaunošanu uz uzņēmumiem un citiem īpašuma objektiem» sagatavo un iesniedz priekšlikumus Ekonomikas ministrijai lēmuma pieņemšanai par īpašuma tiesību atjaunošanu bijušajiem īpašniekiem uz īpašuma objektiem, kuri atrodas Privatizācijas aģentūras valdījumā, vai to daļām, kā arī veic citas darbības saskaņā ar minēto likumu;
 6) nosaka jaunajam īpašniekam nododamo privatizējamā valsts īpašuma objekta tiesību un saistību kopumu;
 7) izstrādā un apstiprina valsts īpašuma objekta privatizācijas noteikumus, kā arī izdara izmaiņas apstiprinātajos privatizācijas noteikumos pēc objekta pirkuma līguma noslēgšanas;
-8) organizē privatizējamo valsts īpašuma objektu piedāvājumus, valsts īpašuma objektu pārdošanu, ieguldīšanu un privātā kapitāla piesaistīšanu, kā arī reorganizē vai likvidē valsts uzņēmumus un uzņēmējsabiedrības to privatizācijas gaitā;
+8) organizē privatizējamo valsts īpašuma objektu piedāvājumus, valsts īpašuma objektu pārdošanu, ieguldīšanu un privātā kapitāla piesaistīšanu, kā arī reorganizē vai likvidē valsts uzņēmumus un uzņēmējsabiedrības to privatizācijas gaitā un kapitalizē privatizējamo un privatizēto valsts uzņēmumu un uzņēmējsabiedrību valsts budžetā ieskaitāmo nodokļu maksājumu pamatparādus;
 9) izvērtē potenciālo valsts īpašuma objektu pircēju piedāvājumus, ved pārrunas ar viņiem un pieņem lēmumu par to, ka objektu privatizē noteikts pretendents vai pretendentu grupa;
 10) valsts vārdā slēdz līgumus par Privatizācijas aģentūrai nodoto valsts īpašuma objektu pārdošanu un citus ar valsts īpašuma objektu privatizāciju saistītos juridiskos aktus;
 11) kontrolē noslēgto (arī pirms Privatizācijas aģentūras izveidošanas noslēgto) līgumu izpildi, veic likumos un līgumos noteiktās darbības līgumu izpildes nodrošināšanai un var lauzt līgumus, ja privatizācijas subjekts nepilda līguma noteikumus;
@@ -35,3 +35,4 @@
 2) nodrošināt privatizācijas subjekta iesniegto dokumentu konfidencialitāti likumā noteiktajā apjomā;
 3) savlaicīgi veikt tās rīcībā esošo privatizācijas rezultātā iegūto līdzekļu ieskaitīšanu valsts un pašvaldību īpašuma privatizācijas fondos saskaņā ar likumu «Par valsts un pašvaldību īpašuma privatizācijas fondiem»;
 4) piedāvāt privatizācijas subjektiem, kuriem ir pirmpirkuma tiesības, noslēgt privatizējamā objekta pirkuma līgumu.
+7. Attiecībā uz dokumentiem, kurus saskaņā ar šo likumu un valsts īpašuma objekta privatizācijas noteikumiem valsts īpašuma objekta privatizācijas procesa laikā iesniedz Privatizācijas aģentūrā, netiek piemērotas likuma "Iesniegumu, sūdzību un priekšlikumu izskatīšanas kārtība valsts un pašvaldību institūcijās" (Latvijas Vēstnesis, 1994, 130.nr.) normas.
