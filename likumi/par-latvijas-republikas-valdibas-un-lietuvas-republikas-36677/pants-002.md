@@ -1,0 +1,1 @@
+2.pants. 1995.gada 9.jūnijā Rīgā parakstītais Latvijas Republikas valdības un Lietuvas Republikas valdības nolīgums par sadarbību, veicot kontroli valsts robežas apvienotajos kontrolpunktos, ar šo likumu tiek apstiprināts un pieņemts.
