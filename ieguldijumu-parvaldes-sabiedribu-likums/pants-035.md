@@ -1,9 +1,9 @@
 35.pants. Fonda likvidācija
 (1) Fonda likvidāciju veic likvidators. Likvidators var būt sabiedrība, turētājbanka vai Komisijas iecelta persona.
 (2) Sabiedrība veic fonda likvidāciju ja:
-1) mēneša laikā pēc turētājbankas līguma izbeigšanās nav noslēgts jauns turētājbankas līgums;
+1) nākamajā dienā pēc turētājbankas līguma izbeigšanās nav stājies spēkā jauns turētājbankas līgums;
 2) gada laikā pēc fonda nodibināšanas nav laista apgrozībā neviena ieguldījumu apliecība;
-3) visi atvērtā fonda ieguldītāji ir izmantojuši atpakaļpārdošanas tiesības.
+3) visi atvērtā fonda ieguldītāji ir izmantojuši atpakaļpārdošanas tiesības un sabiedrība pieņem lēmumu par fonda likvidāciju.
 (3) Šā panta otrās daļas 3.punktā minētie noteikumi netiek piemēroti sešu mēnešu laikā pēc fonda nodibināšanas.
 (4) Sabiedrība veic slēgtā fonda likvidāciju, ja šā fonda ieguldītāju pilnsapulce pieņem lēmumu par fonda likvidāciju.
 (5) Turētājbanka veic fonda likvidāciju, ja tā nenodod fonda pārvaldi ieguldījumu sabiedrībai šā likuma 16.panta septītajā daļā noteiktajā termiņā.

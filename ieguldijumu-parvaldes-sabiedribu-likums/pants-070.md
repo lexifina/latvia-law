@@ -4,9 +4,9 @@
 (3) Nākotnes darījums ir darījums, kurā ir paredzēts pienākums pirkt vai pārdot vērtspapīrus vai valūtu līgumā noteiktajā termiņā par līgumā noteikto cenu.
 (4) Darījumus ar atvasinātiem vērtspapīriem uz fonda rēķina drīkst veikt vienīgi nolūkā nodrošināties pret risku, kas rodas no fonda aktīvu vērtības svārstībām, turklāt vienlaikus jāievēro šādi nosacījumi:
 1) šādu darījumu veikšana ir paredzēta fonda prospektā;
-2) ir atļauta šo vērtspapīru publiskā apgrozība;
+2) (izslēgts ar 01.06.2000. likumu);
 3) ir iespējama precīza un objektīva atvasināto vērtspapīru novērtēšana.
 (5) Ieguldījumu sabiedrība uz fonda rēķina nedrīkst:
-1) būt pārdevējs pārdošanas iespējas un pirkšanas iespējas darījumos;
+1) (izslēgts ar 01.06.2000. likumu);
 2) veikt darījumus par atvasinātiem vērtspapīriem, ja to izpildes rezultātā var tikt pārkāpti šajā likumā noteiktie ieguldījumu ierobežojumi;
 3) veikt darījumus par atvasinātiem vērtspapīriem, ja to izpilde nav segta ar fondam piederošiem vērtspapīriem vai valūtu.

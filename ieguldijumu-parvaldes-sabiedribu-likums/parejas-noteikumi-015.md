@@ -1,0 +1,1 @@
+15. Grozījumi likuma 6.panta trešajā daļā, 40.panta otrajā daļā, 76.panta pirmajā daļā un 77.panta otrajā daļā (attiecībā uz Vērtspapīru tirgus komisijas nosaukuma maiņu) stājas spēkā 2001.gada 1.jūlijā.

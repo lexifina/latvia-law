@@ -6,6 +6,6 @@
 4) izpildīt sabiedrības rīkojumus, ja tie nav pretrunā ar likumu, Komisijas noteikumiem, fonda prospektu, fonda pārvaldes nolikumu un turētājbankas līgumu;
 5) nodrošināt, lai fonda ienākumi tiktu izlietoti saskaņā ar likumu, fonda prospektu un fonda pārvaldes nolikumu;
 6) sekot, lai pienācīgi tiktu veikti darījumos ar fonda mantu noteiktie maksājumi.
-(2) Turētājbanka rīkojas neatkarīgi no sabiedrības un vienīgi fonda ieguldītāju interesēs, izņemot šā panta pirmās daļas 4. punktā noteiktos gadījumus.
+(2) (Izslēgta ar 01.06.2000. likumu.)
 (3) Turētājbankai ir pienākums savā vārdā celt fonda ieguldītāju prasības pret sabiedrību, ja attiecīgie apstākļi to prasa. Tas neierobežo fonda ieguldītāju tiesības celt šādas prasības savā vārdā.
 (4) Turētājbankai ir pienākums celt pretprasību gadījumā, ja sakarā ar tās saistībām tiek vērsta piedziņa pret fonda mantu.
