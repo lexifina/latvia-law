@@ -2,7 +2,9 @@
 (2) Ziņas par pacientu var sniegt:
 1) citām ārstniecības personām ārstniecības mērķu sasniegšanai;
 2) Veselības un darbspējas ekspertīzes ārstu komisijai (VDEĀK);
-3) Medicīniskās aprūpes un darbspējas ekspertīzes kvalitātes kontroles inspekcijai.
+3) Medicīniskās aprūpes un darbspējas ekspertīzes kvalitātes kontroles inspekcijai;
+4) Veselības obligātās apdrošināšanas valsts aģentūrai un slimokasēm veselības aprūpes pakalpojumu administrēšanai.
 (3) Tiesai, prokuratūrai, policijai, Valsts bērnu tiesību aizsardzības inspekcijai (inspektoriem), bāriņtiesai (pagasttiesai), kā arī institūcijām, kuras veic izziņu, ziņas par pacientu sniedzamas tikai pēc šo institūciju rakstveida pieprasījuma, ja ir ārstniecības iestādes vadītāja parakstīta atļauja.
 (4) Zinātniskos pētījumos ziņas par pacientu var izmantot, ja ir garantēta pacienta anonimitāte vai saņemta viņa piekrišana.
 (5) Aizsardzības ministrijas valsts militārā dienesta pārvaldes ir tiesīgas pieprasīt no ārstniecības iestādēm informāciju par iesaucamo, rezerves karavīru un rezervistu veselības stāvokli Ministru kabineta noteiktajā kārtībā.
+(6) Valsts ugunsdzēsības dienests ir tiesīgs pieprasīt no ārstniecības iestādēm statistikas ziņas par kaitējumu personu veselībai, kas nodarīts ugunsgrēka bīstamo faktoru iedarbības rezultātā, un statistikas ziņas par gadījumiem, kad ugunsgrēka bīstamo faktoru nodarītā kaitējuma iedarbības rezultātā iestājusies personas nāve. Ārstniecības iestādes Valsts ugunsdzēsības dienestam nedrīkst izpaust personas datus.

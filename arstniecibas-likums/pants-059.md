@@ -1,1 +1,1 @@
-59.pants. Medicīniskās dokumentācijas lietvedības kārtību ārstniecības iestādēs nosaka Labklājības ministrija.
+59.pants. Medicīniskās dokumentācijas lietvedības kārtību ārstniecības iestādēs nosaka Veselības ministrija.

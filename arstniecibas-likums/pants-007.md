@@ -1,1 +1,1 @@
-7.pants. Ārstniecības uzraudzību valstī veic Labklājības ministrija un citas normatīvajos aktos noteiktās institūcijas.
+7.pants. Ārstniecības uzraudzību valstī veic Veselības ministrija un citas normatīvajos aktos noteiktās institūcijas.
