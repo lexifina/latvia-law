@@ -1,0 +1,1 @@
+1. pants. 1993. gada 19. jūlijā Rīgā parakstītā Latvijas Republikas un Norvēģijas Karalistes konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu ar šo likumu pieņemta un apstiprināta.
