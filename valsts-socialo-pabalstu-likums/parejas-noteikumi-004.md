@@ -1,0 +1,1 @@
+4. Personām, kurām bērna kopšanas pabalsts piešķirts līdz šā likuma spēkā stāšanās dienai, par bērna kopšanas periodu, kas nepārtraukti turpinās pēc šā likuma stāšanās spēkā, pabalstu izmaksā saskaņā ar 1995.gada 26.oktobra likumu "Par sociālo palīdzību".
