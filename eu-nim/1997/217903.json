@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ārstniecības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "167/168 (882/883)",
+  "official_journal_page": null,
+  "official_journal_date": "1997-07-01",
+  "entry_into_force": "1997-10-01",
+  "notification_date": "2014-06-27",
+  "commission_reference": "MNE(2014)53928",
+  "nim_celex": "72011L0093LVA_217903",
+  "nim_id": "217903",
+  "transposes_celex": [
+    "32011L0093"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1f4d6180-fe0b-4b19-9818-4970ecf3bead",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
