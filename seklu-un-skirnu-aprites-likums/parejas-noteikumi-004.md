@@ -1,1 +1,1 @@
-4. Līdz pārejas noteikumu 3.punktā minētā nolikuma apstiprināšanai ir spēkā Ministru kabineta 2001.gada 13.marta noteikumi nr.121 "Nacionālās augu šķirņu padomes nolikums", ciktāl tie nav pretrunā ar šo likumu.
+4. Sēklas, kuras ievestas līdz 2004.gada 30.aprīlim un kuras neatbilst šā likuma 13.1 panta pirmajā daļā minētajām prasībām, var tirgot tikai Latvijas teritorijā līdz krājumu beigām vai līdz sēklu kvalitāti apliecinošā dokumentā norādītā derīguma termiņa beigām.

@@ -1,12 +1,11 @@
-17.pants. Sēklu eksports un imports
-(1) Sēklas eksportēt un importēt atļauts Sēklaudzētāju un sēklu tirgotāju reģistrā reģistrētām fiziskajām un juridiskajām personām.
-(2) Sēklu kvalitāti apstiprinošus dokumentus eksportējamām sēklām izsniedz Valsts augu aizsardzības dienests.
-(3) Sēklu importētājs ir atbildīgs par ievesto sēklu kvalitāti un atbilstību Latvijas sēklaudzēšanas un sēklu tirdzniecības noteikumiem.
-(4) Sēklas ir tiesības importēt:
-1) sēklaudzēšanai, ja šķirne iekļauta Latvijas augu šķirņu katalogā un par to ir nokārtoti visi nepieciešamie dokumenti un maksājumi;
-2) pārdošanai galējam lietotājam, ja šķirne iekļauta Eiropas Savienības lauksaimniecības kultūraugu šķirņu kopējā katalogā vai citas valsts katalogā un par to ir nokārtoti visi nepieciešamie dokumenti un maksājumi;
-3) izmēģinājumu un pārbaudes veikšanai, zinātniskiem vai izstādes mērķiem;
-4) šķirošanai un pārfasēšanai vai cita veida apstrādei un eksportam, ko apstiprina attiecīgs līgums.
-(5) Importētām sēklām ir nepieciešams Ekonomiskās sadarbības un attīstības organizācijas un Starptautiskās sēklu kontroles asociācijas (ISTA) izsniegts sēklu kvalitāti apliecinošs dokuments. Ja minētā dokumenta nav, importētājs par to ziņo Valsts augu aizsardzības dienestam. Ja nepieciešams, Valsts augu aizsardzības dienests noņem paraugu un pārbauda sēklu kvalitātes atbilstību Latvijas sēklaudzēšanas un sēklu tirdzniecības noteikumiem, un pieņem lēmumu par turpmāko darbību ar sēklām.
-(6) Valsts augu aizsardzības dienestam ir tiesības bez maksas noņemt importēto sēklu kontrolparaugus. Ja importētās sēklas neatbilst dokumentā norādītajai kvalitātei, šis dienests izsniedz jaunu sēklu kvalitāti apstiprinošu dokumentu.
-(7) Valsts augu aizsardzības dienestam ir tiesības pieprasīt, lai importētājs importētās sēklas iznīcina vai nosūta atpakaļ piegādātājam, ja to izmantošana var radīt kaitējumu apkārtējai videi vai izraisīt bīstamu augu slimību vai kaitēkļu izplatīšanos.
+17.pants. Sēklu ievešana no valstīm, kuras nav Eiropas Savienības dalībvalstis
+(1) Sēklas ievest atļauts fiziskām un juridiskām personām, kuras Ministru kabineta noteiktajā kārtībā ir saņēmušas Valsts augu aizsardzības dienesta atļauju.
+(2) Sēklu ievedējs ir atbildīgs par ievesto sēklu kvalitāti un atbilstību Latvijas sēklaudzēšanas un sēklu tirdzniecības noteikumiem.
+(3) Sēklas var ievest:
+1) ja tās ir sertificētas vai nav līdz galam sertificētas valstīs, kurām ar Eiropas Savienības padomes lēmumu ir piešķirta ekvivalence lauku apskatē un sēklu ražošanā, un ja šķirne ir iekļauta Eiropas Savienības kopējos šķirņu katalogos vai Latvijas augu šķirņu katalogā;
+2) izmēģinājumiem, pārbaudēm un zinātniskiem mērķiem;
+3) sagatavošanai šķirošanai, pārfasēšanai vai citu veidu sēklu apstrādei, ja tās paredzētas izvešanai, ko apstiprina attiecīgs līgums;
+4) ja augu suga nav minēta normatīvajos aktos par sēklaudzēšanu un sēklu tirdzniecību;
+5) ja normatīvajos aktos par sēklaudzēšanu un sēklu tirdzniecību konkrētajai augu sugai ir paredzēti izņēmumi sēklu tirdzniecībā.
+(4) Šā panta trešās daļas 1.punktā minētajām sēklām ir nepieciešams Ekonomiskās sadarbības un attīstības organizācijas (OECD) un Starptautiskās sēklu kontroles asociācijas (ISTA) izsniegts sēklu kvalitāti apliecinošs dokuments.
+(5) Ja konstatē, ka ievesto sēklu izmantošana var radīt kaitējumu apkārtējai videi vai izraisīt bīstamu augu slimību vai kaitēkļu izplatīšanos, turpmākās darbības veic normatīvajos aktos par augu aizsardzību paredzētajā kārtībā.

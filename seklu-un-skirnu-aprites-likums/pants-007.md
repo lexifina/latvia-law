@@ -1,9 +1,10 @@
 7.pants. Sēklu sertifikācija
-(1) Sēklu sertifikācija ir šķirņu identifikācija, audzēšanas apstākļu un sēklu kvalitāti raksturojošo īpašību pārbaude, kas ietver lauku apskati un sēklu kvalitātes novērtēšanu un ko apstiprina ar attiecīgu dokumentu.
+(1) Sēklu sertifikācija ir šķirņu identifikācija, audzēšanas apstākļu un sēklu kvalitāti raksturojošo īpašību pārbaude, kas ietver lauku apskati, sēklu kvalitātes novērtēšanu un pēcpārbaudi un ko apstiprina attiecīgs dokuments.
 (2) Sēklas drīkst sertificēt, ja:
 1) šķirne atbilst vienam no šādiem nosacījumiem:
-a) tā ir iekļauta Latvijas augu šķirņu kārtējā vai nākamā gada katalogā,
-b) tā ir iekļauta Ekonomiskās sadarbības un attīstības organizācijas šķirņu sarakstā, Eiropas Savienības lauksaimniecisko kultūraugu kopējā katalogā vai Eiropas Savienības kopējā dārzeņu šķirņu katalogā, bet Latvijā šo šķirni pavairo;
+a) tā ir iekļauta Latvijas augu šķirņu katalogā,
+b) tā ir iekļauta Eiropas Savienības kopējos šķirņu katalogos un saskaņā ar šā likuma 6.panta sesto daļu Valsts augu aizsardzības dienestā ir iesniegts oficiālais šķirnes apraksts,
+c) tā ir iekļauta Ekonomiskās sadarbības un attīstības organizācijas sēklu shēmu (kurās piedalās Latvija) šķirņu sarakstā, un šīs šķirnes sēklas paredzētas eksportam;
 2) lauks, kurā sēklas audzē, atbilst sēklaudzēšanas un sēklu tirdzniecības noteikumu prasībām;
 3) sēklu kvalitāte atbilst sēklaudzēšanas un sēklu tirdzniecības noteikumu prasībām;
 4) ir nokārtoti ar sēklu sertificēšanu saistītie maksājumi.

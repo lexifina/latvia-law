@@ -1,1 +1,1 @@
-2. Ministru kabinets līdz 2002.gada 1.septembrim izdara attiecīgus grozījumus katras kultūraugu grupas sēklaudzēšanas un sēklu tirdzniecības noteikumos.
+2. To šķirņu sēklu sertifikāciju, kas neatbilst Eiropas Savienības direktīvās noteiktajām prasībām, Valsts augu aizsardzības dienests veic līdz 2009.gada 30.aprīlim, un šo sēklu tirdzniecība ir atļauta tikai Latvijas teritorijā.
