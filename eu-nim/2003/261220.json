@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Imigrācijas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "169 (2744)",
+  "official_journal_page": null,
+  "official_journal_date": "2002-11-20",
+  "entry_into_force": "2003-05-01",
+  "notification_date": "2018-07-24",
+  "commission_reference": "MNE(2018)53988",
+  "nim_celex": "72016L0801LVA_261220",
+  "nim_id": "261220",
+  "transposes_celex": [
+    "32016L0801"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7cc630ce-aa7c-4fee-b60a-c64d19f05589",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
