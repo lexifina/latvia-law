@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums \"Par prekusoriem\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "89",
+  "official_journal_page": null,
+  "official_journal_date": "1996-05-23",
+  "entry_into_force": null,
+  "notification_date": "2004-03-01",
+  "commission_reference": "MNE(2003)50342",
+  "nim_celex": "71992L0109LVA_20342",
+  "nim_id": "20342",
+  "transposes_celex": [
+    "31992L0109",
+    "32003L0101"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d4894b4d-39e1-424b-ab33-effffc4e40c0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
