@@ -1,0 +1,6 @@
+11.pants
+(1) Pirms tiek izmaksātas apstiprinātās darbinieku prasījumu summas, Maksātnespējas administrācija no tām aprēķina un ietur valsts sociālās apdrošināšanas obligātās iemaksas un iedzīvotāju ienākuma nodokli, ieskaita attiecīgās summas normatīvajos aktos noteiktajos budžetos, kā arī ietur pēc izpildu dokumentiem piedzenamās summas un pārskaita tās administratoram tālākai samaksai šajos dokumentos paredzētajām personām.
+(2) Pēc tam, kad izmaksātas apstiprinātās darbinieku prasījumu summas, Maksātnespējas administrācija iegūst prioritārā kreditora tiesības.
+(3) Maksātnespējīgā darba devēja administratoram ir pienākums atmaksāt Maksātnespējas administrācijai naudas līdzekļus, kurus tā izmaksājusi darbiniekiem viņu prasījumu apmierināšanai. Šie maksājumi uzskatāmi par prioritāro kreditoru pirmās kreditoru grupas prasījumiem, kas apmierināmi tūlīt pēc maksātnespējas administrēšanas izdevumu segšanas.
+(4) No maksātnespējīgā darba devēja administratora saņemtos līdzekļus Maksātnespējas administrācija ieskaita darbinieku prasījumu garantiju fonda līdzekļos.
+(5) Ja par maksātnespējas risinājumu tiek apstiprināts mierizlīgums vai sanācija, Maksātnespējas administrācijas izmaksāto summu atmaksāšana jāparedz mierizlīgumā vai sanācijas plānā.

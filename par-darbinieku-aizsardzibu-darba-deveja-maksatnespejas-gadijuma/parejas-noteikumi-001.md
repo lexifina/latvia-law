@@ -1,0 +1,1 @@
+1. Līdz 2003.gada 31.decembrim šā likuma 5.panta pirmajā daļā minēto darbinieku prasījumu kopsumma, kuru apmierina no darbinieku prasījumu garantiju fonda līdzekļiem, nedrīkst pārsniegt 400 latus vienam darbiniekam. Šajā kopsummā netiek ieskaitīta no apmierinātās darbinieka prasījumu summas aprēķinātā valsts sociālās apdrošināšanas obligāto iemaksu darba devēja daļa.
