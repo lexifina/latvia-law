@@ -61,7 +61,7 @@ l) (izslēgts ar 20.12.2001. likumu);
 48) par nodrošinājumu darbinieku prasījumu apmierināšanai no darbinieku prasījumu garantiju fonda līdzekļiem un citiem likumā paredzētiem speciāliem mērķiem (uzņēmējdarbības riska valsts nodeva);
 49) par būvprojektēšanai nepieciešamo tehnisko un īpašo noteikumu saņemšanu valsts un pašvaldību institūcijās;
 50) par apsardzes darbības kvalifikācijas pārbaudījuma kārtošanu un apsardzes sertifikāta izsniegšanu;
-51) par medību atļauju un atļauju izvest medību trofejas no Latvijas Republikas;
+51) par mednieka apliecības, mednieka sezonas kartes un medību atļaujas izsniegšanu, par atļaujas izsniegšanu ārvalstu medniekam medīt Latvijas Republikā un atļaujas izsniegšanu izvest medību trofejas no Latvijas Republikas;
 52) par personas datu apstrādes sistēmas reģistrēšanu vai Fizisko personu datu aizsardzības likumā noteikto reģistrējamo izmaiņu izdarīšanu;
 53) par sertifikācijas pakalpojumu sniedzēja akreditāciju un akreditācijas atjaunošanu (šo akreditāciju un akreditācijas atjaunošanu veic Datu valsts inspekcija);
 54) par informācijas sniegšanu no Valsts adrešu reģistra.
