@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Augstskolu likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "179 (462)",
+  "official_journal_page": null,
+  "official_journal_date": "1995-11-17",
+  "entry_into_force": "1995-12-01",
+  "notification_date": "2017-07-07",
+  "commission_reference": "MNE(2017)53731",
+  "nim_celex": "72016L0801LVA_248964",
+  "nim_id": "248964",
+  "transposes_celex": [
+    "32016L0801"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b5f5bc51-33cc-487f-9f5e-1ecd203b1f80",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
