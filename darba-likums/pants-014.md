@@ -12,7 +12,7 @@
 5) drošību, veselības aizsardzību un higiēnu darbā;
 6) aizsardzības pasākumus personām, kuras ir jaunākas par 18 gadiem, grūtniecēm, sievietēm pēcdzemdību periodā, kā arī šo personu darba un nodarbinātības noteikumus;
 7) vienlīdzīgu attieksmi pret vīriešiem un sievietēm, kā arī cita veida diskriminācijas aizliegumu.
-(4) Darba devējam, kurš nosūta darbinieku veikt darbu Latvijā, ir pienākums pirms darbinieka nosūtīšanas rakstveidā informēt Nodarbinātības valsts dienestu par šo nosūtīto darbinieku, norādot:
+(4) Darba devējam, kurš nosūta darbinieku veikt darbu Latvijā, ir pienākums pirms darbinieka nosūtīšanas rakstveidā informēt Valsts robežsardzi un Valsts darba inspekciju par šo nosūtīto darbinieku, norādot:
 1) darbinieka vārdu un uzvārdu;
 2) darba uzsākšanas laiku;
 3) paredzamo nodarbināšanas ilgumu;

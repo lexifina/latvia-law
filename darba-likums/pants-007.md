@@ -1,3 +1,4 @@
 7.pants. Vienlīdzīgu tiesību princips
 (1) Ikvienam ir vienlīdzīgas tiesības uz darbu, taisnīgiem, drošiem un veselībai nekaitīgiem darba apstākļiem, kā arī uz taisnīgu darba samaksu.
 (2) Šā panta pirmajā daļā paredzētās tiesības nodrošināmas bez jebkādas tiešas vai netiešas diskriminācijas - neatkarīgi no personas rases, ādas krāsas, dzimuma, vecuma, invaliditātes, reliģiskās, politiskās vai citas pārliecības, nacionālās vai sociālās izcelsmes, mantiskā vai ģimenes stāvokļa vai citiem apstākļiem.
+(3) Lai veicinātu vienlīdzīgu tiesību principa ieviešanu attiecībā uz invalīdiem, darba devēja pienākums ir veikt pasākumus, kas atbilstoši apstākļiem nepieciešami, lai pielāgotu darba vidi, sekmētu invalīdu iespējas nodibināt darba tiesiskās attiecības, pildīt darba pienākumus, tikt paaugstinātiem amatā vai nosūtītiem uz profesionālo apmācību, ciktāl šādi pasākumi neuzliek darba devējam nesamērīgu slogu.
