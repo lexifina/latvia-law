@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ciltsdarba likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "106",
+  "official_journal_page": null,
+  "official_journal_date": "1998-04-21",
+  "entry_into_force": null,
+  "notification_date": "2004-07-22",
+  "commission_reference": "MNE(2004)50074",
+  "nim_celex": "71990L0425LVA_30074",
+  "nim_id": "30074",
+  "transposes_celex": [
+    "31990L0425"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6e8c3e2b-5414-464f-a8a0-e68c15af139f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
