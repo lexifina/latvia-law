@@ -1,1 +1,0 @@
-2. Zemes gabala cenas noteikšanai šā likuma 30.panta ceturto daļu piemēro, ja konkrētais zemes gabals nodots atsavināšanai vai tā privatizācijas noteikumi (projekts) apstiprināti pēc 2003.gada 21.augusta.

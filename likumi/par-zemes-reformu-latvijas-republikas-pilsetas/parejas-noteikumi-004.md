@@ -1,1 +1,0 @@
-4. Neapbūvētu valsts zemes gabalu, kā arī valsts nekustamā īpašuma sastāvā esošu zemi, kas privatizācijai vai atsavināšanai nodota kopā ar ēkām (būvēm) pēc 2003.gada 15.aprīļa, privatizē vai atsavina tikai par naudu.
