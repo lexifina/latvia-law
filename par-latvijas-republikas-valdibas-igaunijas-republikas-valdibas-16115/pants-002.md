@@ -1,0 +1,1 @@
+2.pants. Preces, ko Latvijas Republikā ieved Baltijas Aizsardzības koledža vai kas tiek ievestas tās vajadzībām, Latvijas Republikas teritorijā netiek apliktas ar muitas nodokli, pievienotās vērtības nodokli un akcīzes nodokli naftas produktiem.

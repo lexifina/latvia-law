@@ -1,0 +1,1 @@
+1.pants. 1999.gada 14.jūnijā Rīgā parakstītais Latvijas Republikas valdības, Igaunijas Republikas valdības un Lietuvas Republikas valdības protokols par Baltijas Aizsardzības koledžas un tās personāla statusu (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
