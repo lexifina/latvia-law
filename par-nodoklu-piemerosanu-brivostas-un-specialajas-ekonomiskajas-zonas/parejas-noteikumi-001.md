@@ -1,0 +1,1 @@
+1. Būvniecības pakalpojumiem, kurus ar pievienotās vērtības nodokli apliekamā persona ārpus brīvo zonu teritorijām sniedz brīvostas pārvaldei vai zonas pārvaldei, līdz 2003.gada 31.decembrim piemērojama pievienotās vērtības nodokļa 0 procentu likme.
