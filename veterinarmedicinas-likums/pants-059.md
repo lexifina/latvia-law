@@ -3,7 +3,7 @@
 2) nodrošināt dzīvnieku labturībai nepieciešamos apstākļus, bet saslimušajiem dzīvniekiem - savlaicīgu veterinārmedicīnisko aprūpi, kā arī nodrošināt praktizējošam veterinārārstam nepieciešamos darba apstākļus un dzīvnieku fiksēšanu veterinārmedicīnisko procedūru laikā;
 3) pārvadājot dzīvniekus, ievērot Ministru kabineta noteikto kārtību;
 4) uzrādīt un nodot nākamajam dzīvnieku īpašniekam dokumentus par dzīvnieku veselības stāvokli un veiktajiem dzīvnieku infekcijas slimību profilaktiskajiem pasākumiem (piemēram, vakcinācijas apliecību, veterināro apliecību);
-5) nodrošināt dzīvnieku reģistrēšanu un apzīmēšanu Ministru kabineta noteiktajā kārtībā;
+5) nodrošināt dzīvnieku, ganāmpulku un novietņu reģistrēšanu Ministru kabineta noteiktajā kārtībā;
 6) ierobežot nepiederošu personu saskarsmi ar dzīvniekiem;
 7) nodrošināt ar valsts uzraudzībā esošajām dzīvnieku infekcijas slimībām saistīto profilaktisko pasākumu izpildi noteiktajos termiņos;
 8) nekavējoties ziņot praktizējošam veterinārārstam par dzīvnieka pēkšņas nobeigšanās vai vairāku dzīvnieku vienlaicīgas saslimšanas gadījumiem vai jebkuru gadījumu, kas rada aizdomas par dzīvnieka saslimšanu ar infekcijas slimību;
