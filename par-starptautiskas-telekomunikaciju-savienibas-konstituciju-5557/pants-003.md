@@ -1,0 +1,1 @@
+3.pants. Konstitūcija un Konvencija stājas spēkā Konstitūcijas 53.pantā noteiktajā laikā un kārtībā, Papildprotokols - tā 3.pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo laikrakstā " Latvijas Vēstnesis ".
