@@ -1,2 +1,2 @@
-9. pants. Policijas darbības pamatprincipi
+9. pants. Policijas darbinieka vispārīgie pienākumi
 Jebkura policijas darbinieka pienākums ir visā Latvijas Republikas teritorijā neatkarīgi no viņa ieņemamā amata, atrašanās vietas un laika gadījumā, ja pie viņa griežas personas ar pieteikumu vai ziņojumu par notikumu, kurš apdraud personu un sabiedrības drošību, kā arī pašam konstatējot tādu notikumu, veikt iespējamos pasākumus, lai novērstu likumpārkāpumu, glābtu cilvēkus un sniegtu viņiem palīdzību likumpārkāpumu izdarījušo personu konstatēšanā un aizturēšanā, noskaidrot aculieciniekus, apsargāt notikuma vietu, kā arī paziņot par notikušo tuvākajai policijas iestādei.

@@ -5,7 +5,7 @@ Pašvaldības policijas pienākumos ietilpst:
 2) palīdzības sniegšana sociālajā reabilitācijā personām, kuras atbrīvotas no brīvības atņemšanas un ierobežošanas vietām vai kuras ārstējas no alkoholisma, toksikomānijas vai narkomānijas;
 3) par administratīvajiem pārkāpumiem aizturētu un arestētu personu apsargāšana un konvojēšana;
 4) kontrole pār to, kā tiek izpildīti pašvaldību apstiprinātie noteikumi, par kuru pārkāpšanu paredzēta administratīvā atbildība, kā arī naudas sodu uzlikšana par šo noteikumu pārkāpšanu un to piedzīšana;
-5) Valsts policijas atbalstīšana sabiedrības drošības garantēšanā un noziedzības apkarošanā.
+5) Valsts policijas un Drošības policijas atbalstīšana sabiedrības drošības garantēšanā un noziedzības apkarošanā.
 Ja pašvaldība neveido savu policiju, šā panta 1.-4. punktā minētos pienākumus izpilda Valsts policija.
 Ja ienāk ziņas par to, ka tiek gatavots vai ir izdarīts likumpārkāpums, kura izskatīšana ir Valsts policijas kompetencē, pašvaldības policija veic nepieciešamos pasākumus tā novēršanai, pārkāpēja aizturēšanai, notikuma vietas apsargāšanai un nekavējoties par to paziņo attiecīgajai Valsts policijas iestādei (amatpersonai), kā arī nodod tai likumpārkāpēju un attiecīgos dokumentus par viņu. Šajos jautājumos Valsts policijas amatpersonu norādījumi ir saistoši pašvaldības policijas darbiniekiem.
 Pašvaldības policijas darbinieku skaitu nosaka attiecīgā pašvaldība. Pašvaldības policijas sastāvā var būt tās priekšnieks, viņa vietnieki, vecākie inspektori, inspektori un jaunākie inspektori, kā arī vecākie kārtībnieki, kārtībnieki un jaunākie kārtībnieki. Pašvaldības policisti savus pienākumus pilda iekšlietu ministra apstiprinātajā vienota parauga formas tērpā.

@@ -1,6 +1,6 @@
 31. pants. Policijas darbinieka pieņemšana dienestā un atbrīvošana no dienesta. Dienesta pildīšanas kārtība un noteikumi
-Policijas dienestā parasti ieskaita personas, kuras beigušas Latvijas Republikas Iekšlietu ministrijas akadēmiju.
-Personas, kuras pieņemtas policijas dienestā un nav ieguvušas profesionālo izglītību akadēmijā, obligāti nosūta uz mācībām Latvijas Republikas Iekšlietu ministrijas mācību iestādēs, kur tas iziet elementāro tiesisko, fizisko, tehnisko un kaujas apmācību.
+Policijas dienestā parasti pieņem personas, kuras beigušas Iekšlietu ministrijas izglītības iestādes vai Latvijas Policijas akadēmiju.
+Personas, kuras pieņemtas dienestā policijā un nav apguvušas pamata profesionālo sagatavošanu, nav pielaižamas pie dienesta pienākumu pildīšanas, bet obligāti norīkojamas uz mācībām Iekšlietu ministrijas izglītības iestādēs, kur tās iziet dienestam nepieciešamo tiesisko un profesionālo sagatavošanu.
 Policijas darbinieku elementāro apmācību, pārkvalifikāciju un kvalifikācijas celšanu var veikt uz līguma pamata arī citu valstu policijas mācību iestādēs.
 Policijas dienesta pildīšanas kārtību, arī speciālo dienesta pakāpju nosaukumus, to piešķiršanas un atņemšanas kārtību nosaka Ministru kabinets.
 Policijas darbinieks parasti var atrasties policijas dienestā līdz 50 gadu vecuma sasniegšanai. Policijas vidējā, vecākā un augstākā komandējošā sastāva personām pēc to vēlēšanās, ņemot vērā šo darbinieku fiziskās un profesionālās spējas, dienesta laiku policijā var pagarināt ar Latvijas Republikas iekšlietu ministra lēmumu, bet ierindas un jaunākā komandējošā sastāva personām - ar attiecīgās policijas pārvaldes vai nodaļas priekšnieka lēmumu.
