@@ -1,0 +1,1 @@
+1.pants. 1994.gada 30.augustā Palangā parakstītais Igaunijas Republikas valdības, Latvijas Republikas valdības un Lietuvas Republikas valdības līgums par savstarpējo palīdzību muitas jautājumos (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
