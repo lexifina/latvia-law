@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Klasifikācijas sabiedrību (atzīto organizāciju) uzraudzības kārtība",
+  "type_of_act": "Ministra noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "67",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-29",
+  "entry_into_force": "2003-10-01",
+  "notification_date": "2005-02-03",
+  "commission_reference": "MNE(2005)54954",
+  "nim_celex": "71994L0057LVA_34954",
+  "nim_id": "34954",
+  "transposes_celex": [
+    "31994L0057",
+    "31997L0058",
+    "32001L0105"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/72ed10b2-2140-421a-94bf-ad34eec88564",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
