@@ -1,4 +1,4 @@
 17.pants
-(1) Uzraudzības institūcijas lēmums ir spēkā no tā pieņemšanas brīža.
-(2) Uzraudzības institūcijas lēmumu var pārsūdzēt tiesā viena mēneša laikā no lēmuma pieņemšanas dienas. Lēmuma pārsūdzēšana neaptur lēmuma izpildi.
-(3) Lai novērstu aizliegtās reklāmas izplatīšanu, Uzraudzības institūcija, ja nepieciešams, ir tiesīga pieņemto lēmumu publicēt laikrakstā "Latvijas Vēstnesis". Pieņemtā lēmuma publicēšanas izdevumus maksā reklāmas devējs.
+(1) Uzraudzības iestādes lēmums ir spēkā no tā paziņošanas brīža.
+(2) Uzraudzības iestādes lēmumu var pārsūdzēt tiesā viena mēneša laikā no dienas, kad lēmums stājies spēkā. Lēmuma pārsūdzēšana neaptur lēmuma izpildi.
+(3) Lai novērstu normatīvo aktu prasībām neatbilstošas reklāmas izplatīšanu vai mazinātu tās sekas, Uzraudzības iestāde ir tiesīga reklāmas devējam uzlikt par pienākumu pilnībā vai daļēji publicēt pieņemto lēmumu laikrakstā "Latvijas Vēstnesis".
