@@ -1,0 +1,1 @@
+3. Līdz šo pārejas noteikumu 2.punktā minēto Ministru kabineta noteikumu spēkā stāšanās dienai ir spēkā Ministru kabineta 1998.gada 28.aprīļa noteikumi nr.160 "Valsts bezpeļņas akciju sabiedrības "Kultūrkapitāla fonds" statūti", ciktāl tie nav pretrunā ar šo likumu, bet ne ilgāk kā līdz 2004.gada 1.martam.

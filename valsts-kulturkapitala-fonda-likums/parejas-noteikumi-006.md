@@ -1,0 +1,1 @@
+6. Ne ilgāk kā mēneša laikā pēc šā likuma spēkā stāšanās Kultūras ministrija sagatavo un iesniedz Latvijas Republikas Uzņēmumu reģistram nepieciešamos dokumentus, lai izslēgtu valsts bezpeļņas akciju sabiedrību "Kultūrkapitāla fonds" no Latvijas Republikas Uzņēmumu reģistra.
