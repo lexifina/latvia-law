@@ -1,0 +1,1 @@
+5.pants. Konvencija un Pielikums stājas spēkā Konvencijas 9.pantā paredzētajā laikā un kārtībā, Papildprotokols stājas spēkā tā 11.pantā noteiktajā laikā un kārtībā, un par to Ārlietu ministrija paziņo laikrakstā "Latvijas Vēstnesis".
