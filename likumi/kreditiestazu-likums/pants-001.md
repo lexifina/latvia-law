@@ -7,14 +7,14 @@ a) noguldījumu un citu atmaksājamo līdzekļu piesaistīšana;
 b) kreditēšana, arī saskaņā ar finansu līzinga noteikumiem;
 c) skaidras un bezskaidras naudas maksājumu veikšana;
 d) bezskaidras naudas maksāšanas līdzekļu (visu maksāšanas līdzekļu, izņemot banknotes un monētas jebkurā valūtā) izlaišana un apkalpošana;
-e) tirdzniecība savā vai klienta vārdā ar naudas tirgus instrumentiem (čekiem, vekseļiem, depozītu sertifikātiem u.c.), valūtu, finansu līgumiem, vērtspapīriem;
+e) tirdzniecība savā vai klienta vārdā ar valūtu;
 f) uzticības operācijas (trasts);
-g) vērtspapīru glabāšana un pārvaldīšana;
+g) ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšana;
 h) galvojumu un citu tādu saistību aktu izsniegšana, ar kuriem uzņemts pienākums atbildēt kreditoram par trešās personas parādu;
 i) vērtību glabāšana;
-j) piedalīšanās akciju emisijā un ar to saistīto pakalpojumu sniegšana;
+j) (izslēgts ar 20.11.2003. likumu);
 k) konsultācijas klientiem finansiāla rakstura jautājumos;
-l) starpniecības pakalpojumi naudas instrumentu tirgū;
+l) (izslēgts ar 20.11.2003. likumu);
 m) tādas informācijas sniegšana, kas saistīta ar klienta parādu saistību kārtošanu;
 n) citi darījumi, kuri pēc būtības ir līdzīgi iepriekšminētajiem finansu pakalpojumiem;
 5) kredīts - atlīdzības darījums, kurā kredītiestāde uz rakstveida līguma pamata nodod klientam naudu vai citas lietas un kurš klientam rada tiesības rīkoties ar tām un pienākumu noteiktā laikā un kārtībā atdot kredītiestādei naudu vai citas lietas;
@@ -25,7 +25,7 @@ b) samazinājums par kredītiestādes īpašumā esošajām pašas akcijām, nem
 c) subordinētais kapitāls saskaņā ar šā likuma 36.panta prasībām;
 d) samazinājums par kredītiestādes būtisku līdzdalību citu kredītiestāžu un finansu iestāžu pamatkapitālā, kā arī ieguldījumiem to kredītiestāžu un finansu iestāžu subordinētajā kapitālā, kurās kredītiestādei ir būtiska līdzdalība, un saskaņā ar Finansu un kapitāla tirgus komisijas normatīvajiem norādījumiem un noteikumiem - citos finansu instrumentos;
 e) samazinājums par citās kredītiestādēs un finansu iestādēs (pamatkapitālā, subordinētajā kapitālā un saskaņā ar Finansu un kapitāla tirgus komisijas normatīvajiem norādījumiem un noteikumiem - citos finansu instrumentos) izdarīto kredītiestādes ieguldījumu daļu, kura pārsniedz 10 procentus no kredītiestādes pašu kapitāla, kas aprēķināts saskaņā ar šā punkta "a"-"c" apakšpunktu. Ieguldījumu kopsummu aprēķina tikai tajās kredītiestādēs un finansu iestādēs, kurās kredītiestādei nav būtiskas līdzdalības;
-8) subordinētais kapitāls - naudas līdzekļi, kurus kredītiestāde aizņemas uz laiku, kas nav īsāks par septiņiem gadiem, turklāt aizņēmuma līgums paredz, ka aizdevējs var atprasīt aizdevumu pirms termiņa vienīgi kredītiestādes likvidācijas gadījumā un viņa prasība tiek apmierināta pēc visu citu kreditoru prasību, bet pirms akcionāru prasību apmierināšanas;
+8) subordinētais kapitāls - naudas līdzekļi, kurus kredītiestāde aizņemas uz laiku, kas nav īsāks par pieciem gadiem, turklāt aizņēmuma līgums paredz, ka aizdevējs var atprasīt aizdevumu pirms termiņa vienīgi kredītiestādes likvidācijas gadījumā un viņa prasība tiek apmierināta pēc visu citu kreditoru prasību, bet pirms akcionāru prasību apmierināšanas;
 9) klients - persona, kurai kredītiestāde sniedz finansu pakalpojumus;
 10) mātes sabiedrība - komercsabiedrība, kura kontrolē citu komercsabiedrību;
 11) meitas sabiedrība - komercsabiedrība, kuru kontrolē cita komercsabiedrība;
@@ -38,9 +38,9 @@ c) starp šo personu un komercsabiedrību pastāv jebkādas citas šā punkta "a
 15) būtiska līdzdalība - tiešā vai netiešā ceļā iegūta līdzdalība, kas aptver 10 un vairāk procentus no uzņēmuma (uzņēmējsabiedrības) pamatkapitāla vai balsstiesīgo akciju skaita, vai dod iespēju būtiski ietekmēt uzņēmuma (uzņēmējsabiedrības) darbību;
 16) riska darījumi - kredītiestādes bilances aktīva un ārpusbilances posteņos uzrādītās operācijas, kurām noteikta paaugstināta riska pakāpe;
 17)(izslēgts ar 11.04.2002. likumu.);
-18) savstarpēji saistītu klientu grupa - divas vai vairākas personas, kuras veido kredītiestādei vienu kopīgu risku:
-a) jo viena no šīm personām tieši vai netieši kontrolē citu personu vai citas personas vai tai ir būtiska ietekme uz tām;
-b) jo tās ir saistītas tādā veidā, ka vienas personas finansiālās problēmas var radīt citai personai vai citām personām parādu nomaksas grūtības;
+18) savstarpēji saistītu klientu grupa - divas vai vairākas personas:
+a) kuras veido kredītiestādei vienu kopīgu risku, jo viena no šīm personām tieši vai netieši kontrolē citu personu vai citas personas, izņemot gadījumus, kad personas, kuras tieši vai netieši kontrolē citu personu vai citas personas, ir Latvijas valsts un pašvaldības, Eiropas Savienības dalībvalstis, Eiropas Ekonomiskās sadarbības un attīstības organizācijas un Eiropas Ekonomikas zonas valstis, Eiropas Savienības dalībvalstu un Eiropas Ekonomikas zonas valstu pašvaldības,
+b) starp kurām nepastāv kontroles attiecības, bet kuras veido kredītiestādei kopīgu risku, jo ir saistītas tādā veidā, ka vienas personas finansiālās problēmas var radīt citai personai vai citām personām parādu nomaksas grūtības;
 19) personas, kuras saistītas ar kredītiestādi - personas, kas ir:
 a) kredītiestādes akcionāri, kuriem kredītiestādē ir būtiska līdzdalība, un šo akcionāru - fizisko personu - laulātie, vecāki un bērni;
 b) kredītiestādes meitas sabiedrības un uzņēmumi (uzņēmējsabiedrības), kuros kredītiestādei ir būtiska ietekme;
