@@ -2,3 +2,4 @@
 (1) Šā likuma 5.panta pirmajā daļā noteiktajos gadījumos vidējo apdrošināšanas iemaksu algu bezdarbnieka pabalsta apmēra noteikšanai aprēķina no apdrošinātās personas apdrošināšanas iemaksu algas par sešu kalendāra mēnešu periodu, šo periodu beidzot divus kalendāra mēnešus pirms mēneša, kurā persona ieguvusi bezdarbnieka statusu.
 (2) Šā likuma 5.panta otrajā daļā noteiktajos gadījumos vidējo apdrošināšanas iemaksu algu bezdarbnieka pabalsta apmēra noteikšanai aprēķina no apdrošinātās personas apdrošināšanas iemaksu algas par sešu kalendāra mēnešu periodu, šo periodu beidzot divus kalendāra mēnešus pirms mēneša, kurā persona pieprasījusi bezdarbnieka pabalstu.
 (3) Kārtību, kādā aprēķināma vidējā apdrošināšanas iemaksu alga bezdarbnieka pabalsta apmēra noteikšanai, nosaka Ministru kabinets.
+(4) Vidējo apdrošināšanas iemaksu algu valstī nosaka Labklājības ministrija.
