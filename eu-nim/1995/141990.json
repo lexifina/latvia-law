@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Par pievienotās vērtības nodokli",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "1995-03-30",
+  "entry_into_force": "1995-05-01",
+  "notification_date": "2007-03-08",
+  "commission_reference": "MNE(2007)51714",
+  "nim_celex": "72006L0112LVA_141990",
+  "nim_id": "141990",
+  "transposes_celex": [
+    "32006L0112"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2aded9ed-2936-4933-884f-ff1b8f197470",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
