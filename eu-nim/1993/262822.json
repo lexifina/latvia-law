@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Latvijas Republikas Advokatūras likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "28",
+  "official_journal_page": null,
+  "official_journal_date": "1993-08-19",
+  "entry_into_force": "1993-05-21",
+  "notification_date": "2018-09-07",
+  "commission_reference": "MNE(2018)54827",
+  "nim_celex": "72015L0849LVA_262822",
+  "nim_id": "262822",
+  "transposes_celex": [
+    "32015L0849"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0eea4149-b753-4c46-9147-f6f3b5beadc7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
