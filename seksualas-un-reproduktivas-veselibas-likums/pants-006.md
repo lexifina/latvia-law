@@ -1,0 +1,4 @@
+6.pants. Personas tiesības un pienākumi seksuālās un reproduktīvās veselības jomā
+(1) Personai ir tiesības no ārstniecības personas saņemt informāciju par seksuālās un reproduktīvās veselības veicināšanas un aprūpes pamatprincipiem, dzimstības plānošanu un kontracepciju.
+(2) Personas pienākums seksuālās un reproduktīvās veselības jomā ir apgūt pamatzināšanas par seksuālās un reproduktīvās veselības veicināšanu un aprūpi, rūpēties par savu un savas ģimenes locekļu seksuālo un reproduktīvo veselību, plānot dzimstību, pārbaudīt veselību pirms bērna ieņemšanas, izvairīties no grūtniecības pārtraukšanas un izvēlēties reproduktīvo veselību neapdraudošus dzimstības regulēšanas līdzekļus.
+(3) Ar seksuāli transmisīvu slimību inficētas personas pienākums ir informēt savu dzimumpartneri par inficēšanās risku.

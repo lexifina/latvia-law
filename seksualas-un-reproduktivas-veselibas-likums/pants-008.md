@@ -1,0 +1,2 @@
+8.pants. Dzemdībpalīdzība
+Dzemdībpalīdzība ir ģimenes reproduktīvās veselības veicināšanas, sievietes veselības veicināšanas un veselības aprūpes pasākumu kopums grūtniecības, dzemdību un pēcdzemdību periodā (42 kalendāra dienas pēc dzemdībām), kā arī nedzimuša bērna klīniskā novērošana, izmeklēšana, veselības veicināšana un ārstniecības pasākumi līdz dzemdībām, dzemdību laikā un zīdaiņa aprūpe pēcdzemdību periodā.
