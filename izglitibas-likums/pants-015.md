@@ -23,6 +23,6 @@ Izglītības un zinātnes ministrija:
 21) izstrādā valsts izglītības standartu prasībām atbilstošus izglītības programmu paraugus;
 22) apstiprina izglītības iestāžu, izglītības programmu un pedagogu reģistru klasifikāciju;
 23) iesniedz Ministru kabinetam priekšlikumus par valsts izglītības iestāžu un izglītības atbalsta iestāžu dibināšanu, reorganizēšanu vai likvidēšanu, saskaņojot ar attiecīgajām pašvaldībām;
-24) apstiprina valsts izglītības iestāžu un izglītības atbalsta iestāžu nolikumus;
+24) apstiprina koledžu, kā arī Izglītības un zinātnes ministrijas pārziņā esošo valsts izglītības iestāžu un izglītības atbalsta iestāžu nolikumus;
 25) pieņem darbā un atbrīvo no darba Izglītības un zinātnes ministrijas pārziņā esošo izglītības iestāžu (izņemot augstskolu) vadītājus;
 26) ierosina pašvaldību izglītības iestāžu vadītāju atbrīvošanu no darba. Saskaņo pašvaldību izglītības pārvalžu vadītāju pieņemšanu darbā un atbrīvošanu no darba.

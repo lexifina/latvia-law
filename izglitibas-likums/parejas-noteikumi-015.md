@@ -1,0 +1,1 @@
+15. Grozījumi likuma 4.pantā par piecgadīgo un sešgadīgo bērnu sagatavošanu pamatizglītības apguvei un 60.panta trešajā daļā par pedagogu darba samaksas nodrošinājumu no valsts budžeta līdzekļiem un valsts budžeta mērķdotācijām valsts vai pašvaldību izglītības iestādēs piecgadīgo un sešgadīgo bērnu apmācībai stājas spēkā 2002.gada 1.septembrī.

@@ -6,4 +6,4 @@
 4) izglītības programmas īstenošanas plāns;
 5) izglītības programmas īstenošanai nepieciešamā personāla, finansu un materiālo līdzekļu izvērtējums atbilstoši Ministru kabineta noteikumiem par izglītības programmu īstenošanas izmaksu minimumu uz vienu izglītojamo.
 (2) Izglītības programmas atbilstoši valsts izglītības standartiem un normatīviem izstrādā izglītības iestāde, saskaņojot ar tās dibinātāju.
-(3) Ikviena izglītības programma akreditējama Ministru kabineta noteiktajā kārtībā divu gadu laikā no tās īstenošanas uzsākšanas dienas un ne retāk kā reizi sešos gados.
+(3) Izglītības programma akreditējama Ministru kabineta noteiktajā kārtībā divu gadu laikā no tās īstenošanas uzsākšanas dienas un ne retāk kā reizi sešos gados.

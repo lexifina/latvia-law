@@ -9,5 +9,6 @@
 1) mazākumtautību izglītības programmas;
 2) speciālās izglītības programmas;
 3) sociālās korekcijas izglītības programmas;
-4) pieaugušo izglītības programmas.
+4) pieaugušo izglītības programmas;
+5) profesionālās ievirzes izglītības programmas.
 (3) Detalizētu izglītības programmu iedalījumu nosaka Izglītības un zinātnes ministrijas apstiprināts Izglītības programmu klasifikators.

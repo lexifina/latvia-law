@@ -8,5 +8,6 @@
 5) finansējuma avoti un kārtība.
 (3) Iesniegumam par izglītības iestādes reģistrāciju pievienojams izglītības iestādes dibinātāja apstiprināts izglītības iestādes darbības nolikums (satversme).
 (4) Mēneša laikā no šā panta otrajā un trešajā daļā minēto dokumentu iesniegšanas dienas izglītības iestāde tiek iekļauta reģistrā un tai izsniedz reģistrācijas apliecību.
-(5) Lēmums par izglītības iestādes reorganizāciju vai likvidāciju 10 dienu laikā paziņojams Izglītības iestāžu reģistram.
-(6) Ikvienam ir pieejamas Izglītības iestāžu reģistrā iekļautās ziņas.
+(5) Mēneša laikā no šā panta otrajā un trešajā daļā minēto dokumentu iesniegšanas dienas Izglītības un zinātnes ministrija apstiprina koledžas nolikumu, iekļauj koledžu Izglītības iestāžu reģistrā un izsniedz tai reģistrācijas apliecību.
+(6) Lēmums par izglītības iestādes reorganizāciju vai likvidāciju 10 dienu laikā paziņojams Izglītības iestāžu reģistram.
+(7) Ikvienam ir pieejamas Izglītības iestāžu reģistrā iekļautās ziņas.
