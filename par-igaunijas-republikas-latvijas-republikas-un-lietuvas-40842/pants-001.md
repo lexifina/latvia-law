@@ -1,0 +1,1 @@
+1.pants. 1996.gada 16.jūnijā Viļņā parakstītais Igaunijas Republikas, Latvijas Republikas un Lietuvas Republikas līgums par brīvo tirdzniecību ar lauksaimniecības precēm (turpmāk - Līgums) un Līgumam pievienotais Saprašanās protokols (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.
