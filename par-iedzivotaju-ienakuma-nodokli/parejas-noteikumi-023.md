@@ -1,0 +1,1 @@
+23. Ministru kabinets izvērtē šā likuma pārejas noteikumu 21.punktā paredzētās normas ietekmi uz pašvaldību ieņēmumiem 2005.gadā un, ja tas nepieciešams, sagatavo grozījumus likumā "Par valsts budžetu 2005.gadam", lai segtu pašvaldību ieņēmumu samazinājumu.
