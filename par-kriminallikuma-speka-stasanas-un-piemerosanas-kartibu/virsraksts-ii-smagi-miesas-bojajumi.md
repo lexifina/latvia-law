@@ -1,0 +1,1 @@
+II. Smagi miesas bojājumi

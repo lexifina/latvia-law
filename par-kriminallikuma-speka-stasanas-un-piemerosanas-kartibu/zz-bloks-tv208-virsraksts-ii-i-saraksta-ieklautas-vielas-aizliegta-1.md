@@ -1,0 +1,1 @@
+4. Vielas, kas klasificētas atbilstoši 1961.gada 30.marta Vienotās konvencijas par narkotiskajām vielām IV sarakstam un grozījumiem, kuri izdarīti saskaņā ar 1972.gada Protokolu par grozījumiem 1961.gada 30.marta Vienotajā konvencijā par narkotiskajām vielām:

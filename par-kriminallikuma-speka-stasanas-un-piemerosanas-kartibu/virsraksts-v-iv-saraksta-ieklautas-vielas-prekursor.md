@@ -1,0 +1,1 @@
+V. IV sarakstā iekļautās vielas (prekursori - vielas, kas var tikt izmantotas neatļautai narkotisko vai psihotropo vielu izgatavošanai un kas klasificētas atbilstoši 1988.gada 19.decembra Konvencijai pret narkotiku un psihotropo vielu nelegālu apgrozījumu)

@@ -1,0 +1,1 @@
+I. Miesas bojājumu novērtēšana
