@@ -2,7 +2,7 @@
 (1) Bijušajiem zemes īpašniekiem (pēc stāvokļa uz 1940. gada 21. jūliju) vai viņu mantiniekiem ir prioritātes zemes saņemšanai lietošanā visā agrāk piederējušajā platībā neatkarīgi no tā, vai šā likuma spēkā stāšanās brīdī zeme ir vai nav viņiem piešķirta mūžīgā vai pastāvīgā lietošanā, izņemot gadījumus, ja uz viņiem agrāk piederējušās zemes platības vai tās daļas likumīgi ir:
 - izveidotas zemnieku vai piemājas saimniecības, ja to robežās nav bijušajiem šīs zemes īpašniekiem piederošu ēku;
 - iegādātas vai uzbūvētas dzīvojamās mājas vai arī uzsākta to celtniecība, saglabājot šo māju īpašniekiem zemi piemājas saimniecībai;
-- izvietoti republikas nozīmes dabas aizsardzības objekti, kuru zeme nodota dabas aizsardzības iestāžu lietošanā;
+- izvietoti republikas nozīmes dabas aizsardzības objekti, kuru zeme nodota dabas aizsardzības iestāžu lietošanā un citi valsts īpaši aizsargājamie dabas objekti (vai to daļas), kuru sarakstu, pamatojoties uz Latvijas Republikas Vides aizsardzības komitejas pieprasījumu, apstiprina Latvijas Republikas Augstākās Padomes Prezidijs;
 - izvietoti vēstures, kultūras un arheoloģijas pieminekļi;
 - rūpnieciskas nozīmes derīgo izrakteņu atradnes, kuru sarakstu apstiprina Latvijas Republikas Ministru Padome;
 - pašvaldību pieprasītā zeme;
