@@ -1,5 +1,5 @@
 6. pants. Ostas noteikumi
-(1) Ostas noteikumus apstiprina Satiksmes ministrija, saskaņojot ar pašvaldību. Ostas noteikumos jānorāda:
+(1) Ostas noteikumus izstrādā ostas pārvalde un apstiprina satiksmes ministrs. Ostas noteikumos jānorāda:
 1) apstiprinātās ostas zemes un akvatorijas robežas;
 2) kuģu pieņemšanas tehniskās iespējas sadalījumā pa ostas rajoniem (piestātnēm);
 3) noteikumi par kuģu satiksmi akvatorijā - kārtība, kādā sniedzama informācija par kuģu ienākšanu ostā un iziešanu no ostas, noformējami dokumenti, izmantojama sakaru sistēma, noteikumi attiecībā uz loču pakalpojumiem, kustības ātrumu, manevrēšanas rajoniem;

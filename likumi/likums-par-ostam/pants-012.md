@@ -6,5 +6,5 @@
 4) investīcijas;
 5) maksa par ostas pārvaldes sniegtajiem pakalpojumiem.
 (2) Ostas pārvaldes finansu līdzekļi tiek izmantoti, ievērojot bezpeļņas organizācijas principus: ostas pārvaldes rīcībā esošos finansu līdzekļus var izmantot tikai ostas un tās infrastruktūras apsaimniekošanai un attīstīšanai un šā likuma 7. pantā noteikto funkciju izpildei.
-(3) Ostas pārvalde nedrīkst ar saviem finansu līdzekļiem piedalīties uzņēmējsabiedrību darbībā.
+(3) Ostas pārvalde nedrīkst ar saviem finansu līdzekļiem piedalīties uzņēmējsabiedrību darbībā. Ostas pārvalde var nodot savus finansu līdzekļus citas ostas pārvaldei, savstarpēji vienojoties, vai uzkrāt kopējo projektu realizācijai, ievērojot šā panta otrās daļas nosacījumus.
 (4) Ostas pārvalde kārto saimnieciskas darbības un finansu operāciju uzskaiti saskaņā ar likumu «Par grāmatvedību» un iesniedz pārskatus saskaņā ar likumu «Par uzņēmumu gada pārskatiem».

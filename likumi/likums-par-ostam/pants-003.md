@@ -1,2 +1,2 @@
 3. pants. Ostas robežu noteikšana
-Ostas robežas, iekļaujot tajās arī teritorijas, kuras, ņemot vērā ģeogrāfisko stāvokli, varētu izmantot ostas perspektīvajai attīstībai, nosaka Ministru kabinets pēc attiecīgās pašvaldības un ostas pārvaldes ieteikuma.
+Ostas robežas, iekļaujot tajās teritorijas, kuras, ņemot vērā ģeogrāfisko stāvokli, varētu izmantot ostas perspektīvai attīstībai, tai skaitā valsts publiskās lietošanas dzelzceļa infrastruktūras zemes nodalījuma joslas platības, nosaka Ministru kabinets pēc attiecīgās pašvaldības, ostas pārvaldes un valsts publiskās lietošanas dzelzceļa infrastruktūras pārvaldītāja ieteikuma.

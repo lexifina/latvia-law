@@ -1,2 +1,2 @@
 Piektā nodaļa
-KUĢOŠANAS DROŠĪBAS KONTROLE OSTĀ
+KUĢOŠANA OSTĀ
