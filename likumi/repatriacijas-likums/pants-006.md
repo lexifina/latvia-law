@@ -6,6 +6,6 @@
 1) izveido repatriantu datu bāzi;
 2) nodrošina repatriantus ar informāciju par nepieciešamajiem dokumentiem un to iesniegšanas kārtību, par iespējām apgūt piemērotu profesiju, iegūt izglītību un pilnveidot latviešu valodas prasmi, saņemt medicīnisko aprūpi, risināt dzīvokļa jautājumu, atrast piemērotu darbu, par tiesībām uz pensijām un pabalstiem un citiem jautājumiem;
 3) pieņem repatriācijas dokumentus, lemj par atļaujas izsniegšanu iebraukšanai Latvijā un repatrianta statusa piešķiršanu un izsniedz dokumentus, kas apliecina repatrianta statusu;
-4) izstrādā priekšlikumus par ikgadējām kvotām attiecībā uz materiālās palīdzības sniegšanu repatriantiem;
+4) (izslēgts ar 11.03.1999. likumu);
 5) veic ar repatriantu integrāciju saistītos pasākumus;
 6) veic to personu uzskaiti un kontroli, kuras vēlas izceļot no Latvijas, kā arī uz kompetentu institūciju sniegto ziņu pamata pieņem galīgo lēmumu par to, ka nav šķēršļu personas izbraukšanai no valsts.

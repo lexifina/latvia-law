@@ -3,7 +3,7 @@ Ministru kabinets:
 1) ierosina noslēgt starpvalstu līgumus repatriācijas jautājumos un izstrādā šo līgumu projektus;
 2) izstrādā ar repatriāciju saistīto likumu un citu normatīvo aktu projektus;
 3) koordinē valsts un pašvaldību institūciju darbību;
-4) izveido Repatriācijas fondu un pieņem tā nolikumu;
+4) nosaka Repatriācijas fonda līdzekļu pārvaldīšanas un izlietošanas kārtību;
 5) nosaka repatriantam izsniedzamo pabalstu piešķiršanas un aprēķināšanas kārtību;
 6) izstrādā repatriācijas programmu;
 7) izstrādā repatriācijas vajadzībām nepieciešamo ikgadējo budžeta līdzekļu pieprasījuma projektu;
