@@ -1,0 +1,1 @@
+6. Ja tiek apvienotas divas vai vairākas administratīvās teritorijas, tad apvienotajās administratīvajās teritorijās vēlētās domes un padomes līdz kārtējām pašvaldību vēlēšanām no visiem vēlētajiem deputātiem izveido vienotu lēmējinstitūciju - domi vai padomi.
