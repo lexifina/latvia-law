@@ -1,5 +1,5 @@
 7.pants. Saeimas Nacionālās drošības komisijas kompetence
-(1) Saeimas Nacionālās drošības komisijas sastāvā ir viens deputāts no katras Saeimas frakcijas. Šajā komisijā ievēlē tikai tos deputātus, kuri ir saņēmuši pirmās kategorijas speciālo atļauju pieejai valsts noslēpumam.
+(1) Saeimas Nacionālās drošības komisijā ievēlē tikai tos deputātus, kuri ir saņēmuši pirmās kategorijas speciālo atļauju pieejai valsts noslēpumam.
 (2) Saeimas Nacionālās drošības komisija:
 1) nosaka valsts drošības iestāžu pamatstruktūru un apjomu;
 2) izvērtē un akceptē valsts drošības iestāžu budžetu projektus;
