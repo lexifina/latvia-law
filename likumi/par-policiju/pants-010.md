@@ -13,7 +13,7 @@ Saskaņā ar policijas uzdevumiem policijas darbinieka pamatpienākumi atbilsto�
 11) regulēt transportlīdzekļu un gājēju kustību, veikt satiksmes uzraudzību, kontrolēt ceļu un ielu stāvokli, kā arī tehnisko regulēšanas līdzekļu un satiksmes līdzekļu tehnisko stāvokli;
 12) kontrolēt noteikumu ievērošanu to objektu atvēršanā un funkcionēšanā, pār kuru darbību noteikta policijas uzraudzība, kā arī ieroču, munīcijas, sprāgstvielu un citu likumā minēto materiālu, priekšmetu un vielu iegādes, glabāšanas, nēsāšanas un transportēšanas noteikumu ievērošanu;
 13) kontrolēt, kā personas ievēro pasu sistēmas noteikumus;
-14) kontrolēt, kā tiek ievēroti noteikumi par ārvalstu pilsoņu un bezpavalstnieku iebraukšanu, uzturēšanos un tranzītu Latvijas Republikas teritorijā;
+14) (izslēgts ar 06.12.2001. likumu);
 15) (izslēgts ar 15.06.2000. likumu);
 16) gādāt par liecinieku, cietušo, citu personu un to ģimenes locekļu drošību, kā arī par viņu mantas apsardzību, ja apdraudēta šo personu dzīvība, veselība vai manta sakarā ar palīdzību, ko tās sniegušas tiesībaizsardzības iestādēm noziedzīgu nodarījumu atklāšanā un novēršanā;
 17) izpildīt tiesu (tiesnešu), prokuroru lēmumus par to personu piespiedu atvešanu, kuras izvairās no ierašanās pēc izsaukuma, kā arī izpildīt tiesu lēmumus par apcietinājumu.
