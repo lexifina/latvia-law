@@ -1,0 +1,1 @@
+1.pants. 1998.gada 16.jūnijā Ankarā parakstītais Latvijas Republikas un Turcijas Republikas brīvās tirdzniecības līgums (turpmāk - Līgums) (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1999, 8.nr.; 2001, 11., 12.nr.) ar šo likumu tiek denonsēts.
