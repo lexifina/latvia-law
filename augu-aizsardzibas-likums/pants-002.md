@@ -1,0 +1,2 @@
+2.pants. Likuma mērķis
+Šā likuma mērķis ir reglamentēt fizisko un juridisko personu darbību augu aizsardzības jomā, lai nepieļautu kaitīgo organismu ievešanu, ieviešanos un izplatīšanos valsts teritorijā, kā arī panākt, lai augu aizsardzības pasākumi un augu aizsardzības līdzekļi neatstātu nelabvēlīgu ietekmi uz cilvēku veselību, dzīvniekiem un vidi, novērst pesticīdu atlieku uzkrāšanos saražotajā produkcijā, augsnē un ūdenī virs pieļautajām normām.

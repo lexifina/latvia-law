@@ -1,0 +1,5 @@
+16.pants. Augu un augu produktu izvešana (eksports) un atpakaļizvešana (reeksports)
+(1) Izvedamiem un atpakaļizvedamiem augiem, augu produktiem un ar tiem saskarē nonākušiem priekšmetiem jāatbilst saņēmējas valsts fitosanitārajiem noteikumiem.
+(2) Personas, kas nodarbojas ar augu, augu produktu un ar tiem saskarē nonākušo priekšmetu izvešanu un atpakaļizvešanu, vismaz 48 stundas pirms nosūtīšanai paredzētās kravas sagatavošanas informē Valsts augu aizsardzības dienestu par fitosanitārās kontroles nepieciešamību.
+(3) Pēc fitosanitārās kontroles veikšanas Valsts augu aizsardzības dienests izsniedz fitosanitāro sertifikātu izvešanai vai fitosanitāro sertifikātu atpakaļizvešanai, ja augu, augu produktu vai ar tiem saskarē nonākušo priekšmetu krava atbilst saņēmējas valsts vai tranzītvalsts fitosanitārajiem noteikumiem.
+(4) Aizliegts izvest augus, augu produktus un ar tiem saskarē nonākušos priekšmetus bez fitosanitārajiem dokumentiem, ja to nepieciešamību paredz saņēmējas valsts fitosanitārie noteikumi.

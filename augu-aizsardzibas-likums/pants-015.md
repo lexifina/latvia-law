@@ -1,0 +1,3 @@
+15.pants. Augu un augu produktu tranzīts
+(1) Ja augu, augu produktu un ar tiem saskarē nonākušo priekšmetu krava tiek vesta tranzītā cauri valsts teritorijai, šo kravu nesadalot, nepārsaiņojot, neuzglabājot un nodrošinot, ka nerodas iespēja ar to inficēt valsts teritoriju vai tai valsts teritorijā inficēties ar augu karantīnas organismiem, attiecīgo kravu nepakļauj fitosanitārajai kontrolei.
+(2) Fitosanitārā kontrole tiek veikta, ja pastāv pamatotas aizdomas, ka tranzītkrava ir inficēta ar augu karantīnas organismiem un ir iespējama to izplatīšanās, kā arī tad, ja netiek ievēroti šā panta pirmās daļas noteikumi.

@@ -1,0 +1,4 @@
+12.pants. Augu karantīna
+(1) Augu karantīna jeb fitosanitārija ir valsts organizētu pasākumu kopums, kas veicams, lai nodrošinātu augu aizsardzību, neļaujot ievest un izplatīt augu karantīnas organismus un citus augiem sevišķi bīstamus organismus, kuri nav sastopami vai ir ierobežoti izplatīti un kuriem piemērojami fitosanitārie pasākumi.
+(2) Valsts augu aizsardzības dienests veic fitosanitāro kontroli vai tā uzraudzībā tiek veikta šī kontrole, lai noskaidrotu augu, augu produktu un ar tiem saskarē nonākušo priekšmetu atbilstību fitosanitārajām normām, un, ja nepieciešams, nosaka fitosanitāros pasākumus, lai novērstu augu karantīnas organismu ievešanu, ieviešanos un izplatīšanos.
+(3) Ja rodas augu karantīnas organismu izplatīšanās risks, Valsts augu aizsardzības dienests var ierosināt, lai augu un augu produktu ievešanai un pārvietošanai tiktu noteikti aizliegumi un ierobežojumi uz laiku līdz trim mēnešiem.
