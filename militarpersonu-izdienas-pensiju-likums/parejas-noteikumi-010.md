@@ -1,0 +1,1 @@
+10. Obligāti sociāli apdrošināmajām personām (darba ņēmējiem vai pašnodarbinātajiem), kurām ir tiesības gan uz vecuma pensiju, gan uz izdienas pensijas daļu (starpība starp izdienas pensijas apmēru un vecuma pensijas apmēru), izmaksājamās izdienas pensijas daļas apmēra noteikšanai tiek ņemts vērā vecuma pensijas un izdienas pensijas daļas kopējais apmērs.
