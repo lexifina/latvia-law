@@ -1,0 +1,1 @@
+1.pants. 1993.gada 14.aprīlī Rīgā parakstītais Latvijas Republikas un Moldovas Republikas līgums par tiesisko palīdzību un tiesiskajām attiecībām civilajās, ģimenes un krimināllietās (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
