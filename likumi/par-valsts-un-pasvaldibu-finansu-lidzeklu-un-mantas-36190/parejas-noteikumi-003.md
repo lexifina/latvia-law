@@ -1,0 +1,1 @@
+3. Šā likuma 4.pantā minētās funkcijas attiecībā uz valsts uzņēmumiem un uzņēmējsabiedrībām veic bezpeļņas organizācija valsts akciju sabiedrība "Privatizācijas aģentūra" līdz brīdim, kad Ministru kabinets ir izdevis rīkojumu par valsts īpašuma atsavināšanu veicošo institūciju un šīs funkcijas nodotas attiecīgajai institūcijai.
