@@ -1,0 +1,1 @@
+3. Militārpersonām, kuras atvaļinātas no aktīvā militārā dienesta vai ierindas dienesta līdz 1997.gada 31.decembrim un izdienas pensiju pieprasījušas pēc 1998.gada 31.marta, izdienas pensiju piešķir no pieprasījuma iesniegšanas dienas saskaņā ar šo likumu.
