@@ -1,2 +1,0 @@
-12.pants. Uzņēmuma atdošana, ja pieteikums iesniegts pēc 1992. gada 20. jūlija
-Ja bijušais īpašnieks vai viņa mantinieki iesnieguši pieteikumu pēc tam, kad pieņemts Ministru kabineta lēmums par tā īpašuma objekta nodošanu privatizācijai, kura sastāvā ir uzņēmums, un ir apstiprināti īpašuma objekta privatizācijas noteikumi (privatizācijas projekts), bijušajam īpašniekam vai viņa mantiniekiem piešķirama kompensācija šā likuma 22. pantā noteiktajā termiņā.
