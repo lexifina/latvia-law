@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2003.gada 16.septembra noteikumi Nr.526 “Nelikumīgi izvesto mākslas un antikvāro priekšmetu atdošanas kārtība”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "129 (2894)",
+  "official_journal_page": null,
+  "official_journal_date": "2003-09-19",
+  "entry_into_force": "2003-09-20",
+  "notification_date": "2015-12-22",
+  "commission_reference": "MNE(2015)59638",
+  "nim_celex": "72014L0060LVA_233100",
+  "nim_id": "233100",
+  "transposes_celex": [
+    "32014L0060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bd88bef7-5722-4a9d-a8fb-e53c92449225",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
