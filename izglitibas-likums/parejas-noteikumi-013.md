@@ -1,1 +1,1 @@
-13. Grozījums 59.panta otrajā daļā stājas spēkā 2001.gada 1.septembrī.
+13. Grozījumi likuma 59.panta otrajā daļā par privāto izglītības iestāžu (kuras īsteno akreditētas pamatizglītības un vispārējās vidējās izglītības programmas valsts valodā) finansēšanu atbilstoši Ministru kabineta noteiktajam izglītības programmu īstenošanas izmaksu minimumam uz vienu izglītojamo stājas spēkā 2001.gada 1.septembrī.

@@ -7,4 +7,4 @@
 5) nodrošināt izglītojamo iespējas īstenot savas tiesības izglītības iestādē;
 6) ievērot bērna tiesības;
 7) īstenot izglītības programmu sadarbībā ar izglītojamā ģimeni.
-(2) Izglītības iestāžu direktori, pedagogi un audzinātāji ir atbildīgi par savu darbu, tā metodēm, paņēmieniem un rezultātiem.
+(2) Izglītības iestāžu pedagogi ir atbildīgi par savu darbu, tā metodēm, paņēmieniem un rezultātiem.

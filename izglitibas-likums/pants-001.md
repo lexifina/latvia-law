@@ -1,7 +1,7 @@
 1.pants. Likumā lietotie termini
 Likumā ir lietoti šādi termini:
 1) akadēmiskā izglītība - zinātņu teorētisko pamatu studijas un to rezultāts;
-2) augstākā izglītība - izglītības pakāpe, kurā pēc vispārējās vidējās izglītības iegūšanas notiek zinātnē vai mākslā, vai arī zinātnē un mākslā sakņota personības attīstība izraudzītajā akadēmisko vai profesionālo, vai arī akadēmisko un profesionālo studiju virzienā, sagatavošanās zinātniskai vai profesionālai darbībai;
+2) augstākā izglītība - izglītības pakāpe, kurā pēc vidējās izglītības iegūšanas notiek zinātnē vai mākslā, vai arī zinātnē un mākslā sakņota personības attīstība izraudzītajā akadēmisko vai profesionālo, vai arī akadēmisko un profesionālo studiju virzienā, sagatavošanās zinātniskai vai profesionālai darbībai;
 3) interešu izglītība - personas individuālo izglītības vajadzību un vēlmju īstenošana neatkarīgi no vecuma un iepriekš iegūtās izglītības;
 4) izglītība - sistematizētu zināšanu un prasmju apguves un attieksmju veidošanas process un tā rezultāts. Izglītības process ietver mācību un audzināšanas darbību. Izglītības rezultāts ir personas zināšanu, prasmju un attieksmju kopums;
 5) izglītības atbalsta iestāde - valsts, pašvaldību un citu juridisko vai fizisko personu dibināta iestāde, kas nodrošina metodisko, psiholoģisko, zinātnisko, informatīvo un citu intelektuālo atbalstu pedagogiem, izglītojamajiem, izglītojamo vecākiem un izglītības iestādēm;
@@ -11,11 +11,13 @@ Likumā ir lietoti šādi termini:
 9) izglītības pārvaldes iestāde - valsts vai pašvaldību iestāde, kas pilda izglītības pārvaldes funkcijas;
 10) izglītības programmas akreditācija - tiesību iegūšana izglītības iestādei izsniegt valsts atzītu izglītības dokumentu par konkrētai izglītības programmai atbilstošas izglītības ieguvi. Akreditācijas gaitā vērtē attiecīgās izglītības programmas īstenošanas kvalitāti;
 11) izglītības programmas licencēšana - tiesību piešķiršana izglītības iestādei īstenot noteiktu izglītības programmu;
-12) izglītojamais - skolēns, audzēknis, students vai klausītājs, kas apgūst izglītības programmu izglītības iestādē vai pie privātpraksē strādājoša pedagog a;
+12) izglītojamais - skolēns, audzēknis, students vai klausītājs, kas apgūst izglītības programmu izglītības iestādē vai pie privātpraksē strādājoša pedagoga;
+12¹) mācību līdzekļi - izglītības programmu īstenošanai nepieciešamā literatūra, uzskates un tehniskie līdzekļi, materiāli un iekārtas;
 13) mācību priekšmeta vai kursa programma - izglītības programmas sastāvdaļa, kas ietver mācību priekšmeta vai kursa mērķus un uzdevumus, saturu, satura apguves plānojumu, iegūtās izglītības vērtēšanas kritērijus un kārtību, kā arī programmas īstenošanai nepieciešamo metožu un līdzekļu uzskaitījumu;
 14) mācību priekšmeta vai kursa standarts - valsts izglītības standarta sastāvdaļa, kas nosaka mācību priekšmeta vai kursa galvenos mērķus un uzdevumus, mācību priekšmeta vai kursa obligāto saturu, izglītības sasniegumu novērtēšanas formas un kārtību;
 15) pamatizglītība - izglītības pakāpe, kurā notiek sagatavošanās izglītībai vidējā pakāpē vai profesionālajai darbībai, sabiedrības un cilvēka individuālajā dzīvē nepieciešamo pamatzināšanu un pamatprasmju apguve, vērtīborientācijas veidošanās un iesaiste sabiedrības dzīvē;
 16) pašizglītība - ārpus izglītības iestādes iegūta izglītība;
+16¹) pedagogs - fiziskā persona, kurai ir šajā vai citā izglītību reglamentējošā likumā noteiktā izglītība un profesionālā kvalifikācija un kura piedalās izglītības programmas īstenošanā izglītības iestādē vai sertificētā privātpraksē;
 17) pieaugušo izglītība - personu daudzveidīgs izglītošanas process, kas cilvēka mūža garumā nodrošina personības attīstību un konkurētspēju darba tirgū;
 18) pirmsskolas izglītība - izglītības pakāpe, kurā notiek bērna personības daudzpusīga veidošanās, veselības stiprināšana, sagatavošanās pamatizglītības ieguvei;
 19) privātā izglītības iestāde - juridiskās vai fiziskās personas dibināta izglītības iestāde, izņemot valsts vai pašvaldības izglītības iestādi, kā arī uzņēmums (uzņēmējsabiedrība) ar valsts vai pašvaldības kapitāla daļu, kuram viens no nodarbošanās veidiem ir izglītības programmu īstenošana;

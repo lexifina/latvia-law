@@ -14,7 +14,8 @@
 10) organizē pedagogu profesionālās meistarības pilnveidi, koordinē un nodrošina metodisko darbu;
 11) koordinē obligāto izglītības vecumu sasniegušo bērnu uzskaiti Ministru kabineta noteiktajā kārtībā;
 12) veido un uztur izglītības informācijas bāzi;
-13) nosaka no pašvaldības budžeta līdzekļiem apmaksāto vietu skaitu augstākās izglītības iestādēs.
+13) nosaka no pašvaldības budžeta līdzekļiem apmaksāto vietu skaitu augstākās izglītības iestādēs;
+14) koordinē bērna tiesību aizsardzību izglītības jomā.
 (4) Vietējā pašvaldība:
 1) saskaņojot ar Izglītības un zinātnes ministriju, dibina, reorganizē un likvidē pirmsskolas izglītības iestādes, sākumskolas, pamatskolas un vidusskolas;
 2) nodrošina savā administratīvajā teritorijā dzīvojošos izglītības vecumu sasniegušos bērnus ar vietām izglītības iestādēs pirmsskolas izglītības, vispārējās pamatizglītības un vidējās izglītības iegūšanai;
@@ -28,5 +29,6 @@
 10) nodrošina bērnu tiesību aizsardzību izglītības jomā;
 11) sniedz konsultatīvu palīdzību ģimenēm bērnu audzināšanā;
 12) sekmē jauniešu interešu izglītību un profesionālo orientāciju, izsniedz licences interešu izglītības programmu īstenošanai;
-13) veic obligātā izglītības vecuma bērnu uzskaiti Ministru kabineta noteiktajā kārtībā.
+13) veic obligātā izglītības vecuma bērnu uzskaiti Ministru kabineta noteiktajā kārtībā;
+14) nosaka pabalstu un cita veida materiālās palīdzības apmērus un piešķiršanas kārtību izglītojamajiem tās pārziņā esošās izglītības iestādēs.
 (5) Republikas pilsētas pašvaldība pilda šā panta trešajā un ceturtajā daļā pašvaldībām noteiktās funkcijas.
