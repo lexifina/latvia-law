@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Gaļas produktu ražošanas noteikumi",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "144",
+  "official_journal_page": null,
+  "official_journal_date": "2001-10-10",
+  "entry_into_force": null,
+  "notification_date": "2004-07-21",
+  "commission_reference": "MNE(2004)50012",
+  "nim_celex": "71995L0068LVA_30012",
+  "nim_id": "30012",
+  "transposes_celex": [
+    "31995L0068"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3d70e920-51a2-4cf5-8d82-5c8a2f15633a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
