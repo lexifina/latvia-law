@@ -1,1 +1,2 @@
 20. Noteikt, ka zemesgrāmatu nodaļu iekasētā kancelejas nodeva ieskaitāma Tieslietu ministrijas atsevišķā kontā un izlietojama zemesgrāmatu nodaļu materiāltehniskās bāzes nostiprināšanai.
+Fiziskās personas - bijušie zemes īpašnieki, kuriem 1940.gada 21.jūlijā piederēja zemes īpašums Latvijas Republikā, viņu laulātie un pirmās šķiras likumiskie mantinieki, politiski represētie un I grupas invalīdi, kuriem zemes reformas gaitā tiek atjaunotas zemes īpašuma tiesības, - ir atbrīvotas no Zemesgrāmatu likuma 107.pantā noteikto kancelejas nodevu maksāšanas.
