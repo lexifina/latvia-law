@@ -1,0 +1,33 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2003.gada 16.decembra noteikumi Nr. 732 \"Noteikumi par Statistiskās informācijas valsts programmu 2004.gadam\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "182",
+  "official_journal_page": null,
+  "official_journal_date": "2003-12-24",
+  "entry_into_force": null,
+  "notification_date": "2004-01-20",
+  "commission_reference": "MNE(2003)59611",
+  "nim_celex": "71973L0358LVA_19611",
+  "nim_id": "19611",
+  "transposes_celex": [
+    "31973L0358",
+    "31986L0084",
+    "31989L0391",
+    "31993L0023",
+    "31993L0024",
+    "31993L0025",
+    "31995L0057",
+    "31995L0064",
+    "31996L0016",
+    "31997L0077",
+    "32001L0109",
+    "32003L0107"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f8b90596-82b4-4cda-b2be-96397541706d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
