@@ -1,0 +1,1 @@
+1.pants. 1998.gada 19.augustā Rīgā parakstītais Latvijas Republikas un Ziemeļvalstu Vides finansu korporācijas (NEFCO) līgums par NEFCO juridisko statusu Latvijā (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
