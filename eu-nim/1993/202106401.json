@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums \"Par tiesu varu\"",
+  "type_of_act": "Likums",
+  "official_journal": "LR Augstākās Padomes un Valdības Ziņotājs",
+  "official_journal_reference": "1/2",
+  "official_journal_page": null,
+  "official_journal_date": "1993-01-14",
+  "entry_into_force": "1993-01-01",
+  "notification_date": "2021-09-08",
+  "commission_reference": "MNE(2021)06401",
+  "nim_celex": "72018L0958LVA_202106401",
+  "nim_id": "202106401",
+  "transposes_celex": [
+    "32018L0958"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/67e3e499-1298-11ec-b4fe-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
