@@ -1,0 +1,3 @@
+30.pants. Prasības nelikumīgi izmantoto jonizējošā starojuma avotu apsaimniekošanai
+(1) Jonizējošā starojuma avotus, kuri izmantoti, pārkāpjot šā likuma un citu normatīvo aktu prasības, kopā ar aizsardzības iekārtām, kas tieši saistītas ar jonizējošā starojuma avotiem, operators nodod radioaktīvo atkritumu apglabāšanas vai pārvaldības uzņēmumam, nodrošinot, lai netiktu apdraudēti cilvēki un vide.
+(2) Jonizējošā starojuma avotus, kuru lietotājs vai īpašnieks nav zināms, radioaktīvo atkritumu apglabāšanas vai pārvaldības uzņēmumam, ievērojot radiācijas drošības prasības, nodod tā iestāde, kas atklājusi šādus jonizējošā starojuma avotus.

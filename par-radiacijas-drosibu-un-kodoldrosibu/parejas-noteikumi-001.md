@@ -1,0 +1,1 @@
+1. Ministru kabineta noteikumi, kas izdoti saskaņā ar likuma "Par radiācijas drošību un kodoldrošību" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 3.nr.; 1997, 11.nr.) 4., 6., 7., 9., 23., 25. un 27.pantu, ir spēkā līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā 12 mēnešus pēc šā likuma stāšanās spēkā.

@@ -1,0 +1,6 @@
+12.pants. Kārtība, kādā saskaņojama valsts nozīmes jonizējošā starojuma objektu izveidošana vai būtisku pārmaiņu veikšana tajos
+(1) Lai izsniegtu speciālo atļauju (licenci) tādas uzņēmējdarbības uzsākšanai, kurā izmanto kodoliekārtas, radioaktīvās vielas, kuru kopējā radioaktivitāte vairāk nekā vienu miljardu reižu pārsniedz Ministru kabineta noteiktos limitus, kuriem nepieciešama speciālā atļauja (licence) vai atļauja, vai radioaktīvos atkritumus, vai speciālo atļauju (licenci) būtisku pārmaiņu veikšanai valsts nozīmes jonizējošā starojuma objektos, Centrs:
+1) konsultējas ar Padomi par šādu uzņēmumu izveidošanas lietderīgumu, analizē plānoto pārmaiņu iespējamo ietekmi uz radiācijas drošību un kodoldrošību, izvērtē, vai pozitīvais rezultāts, ko sasniegs operators, pārsniegs kopējo negatīvo ietekmi;
+2) konceptuāli saskaņo iespēju piešķirt speciālo atļauju (licenci) attiecīgajai uzņēmējdarbībai ar to pašvaldību, kuras teritorijā atrodas vai ir ieplānots izveidot valsts nozīmes jonizējošā starojuma objektu;
+3) informē iedzīvotājus par speciālās atļaujas (licences) pieprasījumu, publicējot paziņojumu laikrakstā "Latvijas Vēstnesis".
+(2) Ministru kabinets nosaka kārtību, kādā publiski apspriežama valsts nozīmes jonizējošā starojuma objektu izveidošana vai būtisku pārmaiņu veikšana tajos.

@@ -1,0 +1,6 @@
+13.pants. Operatora pamatpienākumi
+(1) Pirms tiek uzsāktas darbības ar jonizējošā starojuma avotiem, fiziskā vai juridiskā persona norīko darbu vadītāju un pilnvaro viņu sagatavot un likumā noteiktajā kārtībā iesniegt pieprasījumu speciālās atļaujas (licences) vai atļaujas saņemšanai. Pēc speciālās atļaujas (licences) vai atļaujas saņemšanas tās pieprasītājs tiek atzīts par operatoru un ir atbildīgs par radiācijas drošību un kodoldrošību tā kontrolētajā zonā.
+(2) Operators nodrošina, lai tie jonizējošā starojuma avoti, kuri nav nepieciešami turpmākām darbībām vai kuru drošība vairs neatbilst normatīvajos aktos noteiktajām prasībām, tiktu padarīti nekaitīgi.
+(3) Operators nodrošina, lai darbinieki, kas strādā ar jonizējošā starojuma avotiem (pastāvīgi nodarbinātie strādnieki un viesstrādnieki, kas attiecīgās darbības veic īslaicīgi) tā kontrolētajā zonā, ir aizsargāti pret jonizējošā starojuma iedarbību.
+(4) Darbinieku apstarošanas kontroles un uzskaites kārtību nosaka Ministru kabinets, nodrošinot, lai informāciju par viesstrādnieku apstarošanu varētu izmantot arī viņu mītnes valstīs.
+(5) Lai aizsargātu darbiniekus pret jonizējošo starojumu, operators viņus nodrošina ar individuālajiem un kolektīvajiem aizsardzības līdzekļiem.

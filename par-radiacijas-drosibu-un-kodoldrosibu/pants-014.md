@@ -1,0 +1,10 @@
+14.pants. Darbu vadītāja pamatpienākumi
+(1) Darbus ar jonizējošā starojuma avotiem vada operatora pilnvarots darbu vadītājs, kuram ir atbilstošs zināšanu līmenis, lai veiktu fizikālos, tehniskos vai radioķīmiskos mērījumus, novērtētu jonizējošā starojuma dozas un efektīvi aizsargātu darbiniekus un iedzīvotājus pret jonizējošo starojumu, pareizi izmantojot aizsardzības līdzekļus.
+(2) Darbu vadītājs:
+1) nodrošina radioaktīvo vielu, kodolmateriālu un citu jonizējošā starojuma avotu uzskaiti;
+2) veic drošības pasākumus, lai aizsargātu darbiniekus, iedzīvotājus un vidi no jonizējošā starojuma kaitīgās iedarbības un nepieļautu kodoliekārtu avārijas un citas radiācijas avārijas;
+3) nekavējoties informē operatoru un Centru par jebkurām avārijām un negadījumiem, kas var ietekmēt radiācijas drošību un kodoldrošību;
+4) nodrošina, lai visi radioaktīvie atkritumi tiktu savākti, izolēti, uzglabāti, apstrādāti un, ja nepieciešams, apglabāti, neradot risku darbiniekiem, iedzīvotājiem un videi;
+5) nodrošina, lai darbinieki, kuri veic darbības ar jonizējošā starojuma avotiem, būtu pietiekami apmācīti aizsardzības pasākumu veikšanai, pārzinātu apstākļus un normatīvo aktu prasības, kā arī būtu informēti par iespējamo risku, kas saistīts ar šiem darbiem;
+6) atbilstoši radiācijas drošības prasībām uzrauga un uztur attiecīgā stāvoklī mērinstrumentus un aizsardzības līdzekļus pret jonizējošo starojumu darba vietās un citās jonizējošā starojuma avotu ietekmes zonās, veic attiecīgu uzskaiti un reģistrāciju;
+7) nodrošina, lai ar jonizējošā starojuma avotiem strādātu tikai tie darbinieki, kuriem pēc obligātās veselības pārbaudes atļauts ar tiem strādāt.
