@@ -1,2 +1,2 @@
-15. pants. Objekta izslēgšana no valsts aizsargājamo kultūras pieminekļu saraksta
-Objekta izslēgšana no valsts aizsargājamo kultūras pieminekļu saraksta pieļaujama, ja objekts pilnībā zaudējis savu kultūras pieminekļa vērtību. Objektus no valsts aizsargājamo kultūras pieminekļu saraksta izslēdz Ministru kabinets pēc Valsts kultūras pieminekļu aizsardzības inspekcijas ierosinājuma.
+15. pants. Valsts aizsargājamo kultūras pieminekļu statusa zaudēšana
+Ja objekts pilnībā zaudējis savu kultūras pieminekļa vērtību, Valsts kultūras pieminekļu aizsardzības inspekcija iesniedz kultūras ministram apstiprināšanai priekšlikumus par attiecīgā objekta izslēgšanu no valsts aizsargājamo kultūras pieminekļu saraksta. Objekts zaudē valsts aizsargājamā kultūras pieminekļa statusu ar nākamo dienu pēc attiecīgās informācijas publicēšanas laikrakstā "Latvijas Vēstnesis".
