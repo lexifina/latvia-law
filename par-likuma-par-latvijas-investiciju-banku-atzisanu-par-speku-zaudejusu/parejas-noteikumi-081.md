@@ -1,0 +1,1 @@
+Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta noteikumi nr.1 "Par likuma "Par Latvijas Investīciju banku" atzīšanu par spēku zaudējušu" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1997, 4.nr.).

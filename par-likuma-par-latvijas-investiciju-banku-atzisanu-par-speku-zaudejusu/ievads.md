@@ -1,0 +1,1 @@
+Atzīt par spēku zaudējušu likumu "Par Latvijas Investīciju banku" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1993, 14./15.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 4.nr.).
