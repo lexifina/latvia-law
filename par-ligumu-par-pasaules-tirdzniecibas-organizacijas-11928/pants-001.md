@@ -1,0 +1,1 @@
+1.pants. 1999.gada 30.novembrī Sietlā parakstītais Līgums par Pasaules tirdzniecības organizācijas likumdošanas konsultatīvā centra izveidi (turpmāk - Līgums) un tā 1., 2., 3. un 4.pielikums (turpmāk - Pielikumi) ar šo likumu tiek pieņemti un apstiprināti.
