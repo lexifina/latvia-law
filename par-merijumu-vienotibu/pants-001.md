@@ -1,7 +1,7 @@
 1.pants. Likumā lietotie termini
 Likumā ir lietoti šādi termini:
 1) atsauces materiāls - materiāls (viela) vai substance, kurai vienas īpašības vai vairāku īpašību vērtības ir pietiekami viendabīgas un labi konstatējamas, lai lietotu mērīšanas līdzekļu kalibrēšanai, mērīšanas metožu novērtēšanai vai materiālu vērtību noteikšanai;
-2) fasētas preces - noteikts preču daudzums, kas atbilstoši tehnisko noteikumu vai standartu prasībām ir pārbaudīts, izmērīts vai nosvērts, iesaiņots slēgtā marķētā iesaiņojumā (tarā) un sagatavots izplatīšanai;
+2) fasēta prece - patēriņam paredzēts produkts jebkura veida atsevišķā iepakojumā, kurš aptver preci tā, ka tās saturam nevar piekļūt, neatverot vai nemainot iepakojumu;
 3) kalibrēšana - operāciju kopums, kas nosacītos apstākļos konstatē sakarību starp mērīšanas līdzekļu vai mērīšanas sistēmas uzrādīto lielumu vērtībām, materiālā mēra vai atsauces materiāla esošajām vērtībām un vērtībām, kas reproducētas no atbilstošā mērvienības etalona;
 4) materiāls mērs - mērs, ar kura palīdzību reproducē vai aizvieto viena vai vairāku konkrēto lielumu zināmo vērtību, kas ir pastāvīga mēra lietošanas laikā;
 5) mērījumu izsekojamība - mērījumu rezultāta vai mērvienības etalona vērtības saistība ar nacionālo vai starptautisko mērvienības etalonu;
