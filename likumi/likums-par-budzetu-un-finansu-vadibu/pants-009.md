@@ -8,5 +8,6 @@
 2) Eiropas Kopienas pašu resursu palielināšanai;
 3) norēķiniem ar Eiropas Savienību;
 4) starptautisko tiesu spriedumu izpildei;
-5) valsts parāda saistību dzēšanai.
+5) valsts parāda saistību dzēšanai;
+6) Eiropas Savienības politiku instrumentu līdzfinansēto projektu īstenošanai.
 (6) Par apropriācijas palielināšanu šā panta piektajā daļā minētajiem mērķiem finanšu ministrs nekavējoties informē Ministru kabinetu un Saeimu. Izdevumus minētajiem mērķiem finanšu ministrs ir tiesīgs veikt, ja Saeimas Budžeta un finanšu (nodokļu) komisija piecu dienu laikā no attiecīgās informācijas saņemšanas nav iebildusi pret apropriācijas palielinājumu.

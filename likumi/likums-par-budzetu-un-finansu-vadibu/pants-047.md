@@ -5,7 +5,7 @@
 2) likumā noteiktajā kārtībā nav reģistrēti budžeta līdzekļi un darījumi ar šiem līdzekļiem, kā arī nav ziņots par tiem;
 3) uzskaite neatbilst noteiktajai kārtībai un tādējādi tiek slēpti budžetam pienākošies līdzekļi;
 4) no budžeta finansētas institūcijas vadītājs ir pārkāpis šā likuma 24.panta nosacījumus un uzņēmies saistības, pārsniedzot Valsts kases sniegto asignējumu.
-(3) Ja ir pārkāpti finanšu vadības noteikumi, arī finansēšanas plānu izstrādāšanas kārtība, saskaņā ar šo likumu finanšu ministrs, kā arī Valsts kases pārvaldnieks un ministriju un citu centrālo valsts iestāžu vadītāji attiecībā uz budžeta izpildītājiem, kuriem viņi piešķīruši asignējumus, var veikt šādus pasākumus:
+(3) Ja ir pārkāpti finanšu vadības noteikumi, arī finansēšanas plānu izstrādāšanas kārtība, pārskatu iesniegšanas termiņi, saskaņā ar šo likumu finanšu ministrs, kā arī Valsts kases pārvaldnieks un ministriju un citu centrālo valsts iestāžu vadītāji attiecībā uz budžeta izpildītājiem, kuriem viņi piešķīruši asignējumus, var veikt šādus pasākumus:
 1) uz laiku atņemt pilnvarojumu asignēt vai rīkot budžeta ieņēmumus vai izdevumus;
 2) noteikt budžeta kontu lietošanas ierobežo jumus;
 3) atsaukt vai apturēt asignējumus, lai tiktu atlīdzināti nelikumīgi izlietotie līdzekļi, vai arī pieprasīt nelikumīgi izlietoto līdzekļu atmaksāšanu;
