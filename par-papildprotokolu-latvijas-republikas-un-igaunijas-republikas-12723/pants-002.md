@@ -1,0 +1,1 @@
+2.pants. Likums stājas spēkā nākamajā dienā pēc tā izsludināšanas. Līdz ar likumu izsludināms Papildprotokols un Valsts robežas starp Latvijas Republiku un Igaunijas Republiku redemarkācijai un nospraušanai dabā izveidotās jauktās komisijas instrukcija latviešu valodā.

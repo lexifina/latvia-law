@@ -1,0 +1,1 @@
+1.pants. 2000.gada 31.maijā Rīgā parakstītais Papildprotokols Latvijas Republikas un Igaunijas Republikas līgumam par valsts robežas atjaunošanu (turpmāk - Papildprotokols) ar šo likumu tiek pieņemts un apstiprināts.
