@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Gaļas un gaļas produktu marķēšanas noteikumi",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "82",
+  "official_journal_page": null,
+  "official_journal_date": "2002-05-31",
+  "entry_into_force": null,
+  "notification_date": "2004-07-21",
+  "commission_reference": "MNE(2004)50014",
+  "nim_celex": "71995L0068LVA_30014",
+  "nim_id": "30014",
+  "transposes_celex": [
+    "31995L0068"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6faff91f-ca03-4255-8f22-ebaf15d91867",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
