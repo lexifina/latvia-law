@@ -1,0 +1,1 @@
+1. pants. 1993. gada 29. novembrī Helsinkos parakstītais Latvijas Republikas valdības un Somijas Republikas valdības līgums par gaisa satiksmi (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
