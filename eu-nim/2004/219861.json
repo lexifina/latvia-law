@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2004.gada 29.jūnija  noteikumi Nr.571 \"Ceļu satiksmes noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "103 (3051)",
+  "official_journal_page": null,
+  "official_journal_date": "2004-07-01",
+  "entry_into_force": "2004-07-01",
+  "notification_date": "2014-09-16",
+  "commission_reference": "MNE(2014)55453",
+  "nim_celex": "72014L0037LVA_219861",
+  "nim_id": "219861",
+  "transposes_celex": [
+    "32014L0037"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f362a864-0f75-4493-9223-90d3b149c1a9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
