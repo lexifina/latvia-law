@@ -1,6 +1,6 @@
 83. (1) Ja Satversmes 81.panta kārtībā izdotie Ministru kabineta noteikumi iesniegti Saeimā ne vēlāk kā trīs dienas pēc Saeimas nākamās sesijas atklāšanas, Prezidijs:
 1) dod atzinumu par šo noteikumu tālākvirzīšanu;
-2) iekļauj ziņojumu par minētajiem noteikumiem Saeimas sēdes darba kārtībā, ja šie noteikumi ir bijuši pieejami deputātiem vismaz septiņas dienas pēc iesniegšanas Saeimā.
+2) iekļauj ziņojumu par minētajiem noteikumiem Saeimas sēdes darba kārtībā, ja šie noteikumi un Prezidija atzinums par tiem bijuši pieejami deputātiem vismaz septiņas dienas pirms sēdes.
 (2) Ja Satversmes 81.panta kārtībā izdotie Ministru kabineta noteikumi iesniegti Saeimā vēlāk nekā trīs dienas pēc Saeimas nākamās sesijas atklāšanas, Prezidijs atdod šos noteikumus Ministru kabinetam atpakaļ.
 (3) Pēc Prezidija ziņojuma atklājamas debates, kurās vārdu vispirms dod Ministru kabineta pārstāvim.
 (4) Pirms balsošanas par Prezidija atzinumā ietverto Saeimas lēmuma projektu Saeima lemj (54.p.) par priekšlikumiem izdarīt tajā šādus grozījumus:

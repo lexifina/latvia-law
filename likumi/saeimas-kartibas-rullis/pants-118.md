@@ -14,3 +14,4 @@
 (11) Saeimas komisija, kas iesniegusi patstāvīgo priekšlikumu, vai katrs no deputātiem, kas parakstījis patstāvīgo priekšlikumu, var atsaukt savu atbalstu tam. Atsaukšana pieļaujama līdz balsošanai par patstāvīgā priekšlikuma pieņemšanu pirmajā lasījumā.
 (12) Atsauktu priekšlikumu var uzturēt komisija, kurai tas nodots.
 (13) Ja atsaukts patstāvīgais priekšlikums, kuram komisija izstrādājusi alternatīvu patstāvīgo priekšlikumu, alternatīvais patstāvīgais priekšlikums izskatāms, ievērojot šā panta trešās daļas noteikumu.
+(14) Patstāvīgais priekšlikums, kuru atbildīgā komisija ir noraidījusi, uzskatāms par noraidītu, ja desmit dienu laikā no dienas, kad atbildīgās komisijas atzinums ir bijis pieejams deputātiem, iesniedzējs rakstveidā neprasa Prezidijam šā patstāvīgā priekšlikuma izskatīšanu Saeimas sēdē.

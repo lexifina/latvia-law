@@ -1,4 +1,4 @@
-90. (1) Ja likumprojekts pieņemts pirmajā lasījumā, Saeima lemj (54.p.) par termiņu, kādā iesniedzami priekšlikumi.
+90. (1) Ja likumprojekts pieņemts pirmajā lasījumā, Saeima lemj (54.p.) par termiņu, kādā iesniedzami priekšlikumi. Ja pirmajā lasījumā pieņemts likumprojekts par valsts budžetu vai grozījumiem tajā (turpmāk - likumprojekts par budžetu) un 90.¹ pantā noteiktajā kārtībā iesniegts Saeimas lēmuma projekts par priekšlikumu iesniegšanas kārtību (formu) šādam likumprojektam, par termiņu, kādā iesniedzami priekšlikumi likumprojekta par budžetu otrajam lasījumam, Saeima lemj pēc minētā lēmuma projekta izskatīšanas.
 (2) Šo termiņu nedrīkst noteikt īsāku par piecām dienām, izņemot gadījumus, kad likumprojekts atzīts par steidzamu.
 (3) Ja Saeima nodevusi komisijām Satversmes 81.panta kārtībā izdotos Ministru kabineta noteikumus, priekšlikumu iesniegšanas termiņu nedrīkst noteikt garāku par piecpadsmit dienām.
 (4) Pēc Saeimas komisijas vai ne mazāk kā desmit deputātu priekšlikuma Saeima lemj (54.p.) par priekšlikumu iesniegšanas termiņa pagarināšanu.
