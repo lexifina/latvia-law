@@ -4,7 +4,7 @@
 (3) Rajona pašvaldība:
 1) saskaņojot ar Izglītības un zinātnes ministriju, dibina, reorganizē un likvidē internātskolas, speciālās izglītības iestādes un klases bērniem ar speciālām vajadzībām, profesionālās izglītības iestādes un interešu izglītības iestādes, izņemot valsts un privātās izglītības iestādes. Rajona pašvaldības dibinātās izglītības iestādes ir tās pārziņā;
 2) pieņem darbā un atbrīvo no darba tās pārziņā esošo izglītības iestāžu vadītājus, saskaņojot ar Izglītības un zinātnes ministriju;
-3) uztur tās pārziņā esošās izglītības iestādes ne mazāk kā Ministru kabineta noteiktajā apmērā un kontrolē finansu līdzekļu izmantošanu;
+3) uztur tās pārziņā esošās izglītības iestādes ne mazāk kā Ministru kabineta noteiktajā apmērā un kontrolē finanšu līdzekļu izmantošanu;
 4) nodrošina tās pārziņā esošo izglītības iestāžu un izglītības atbalsta iestāžu pedagogu algām piešķirto valsts budžeta līdzekļu ieskaitīšanu izglītības iestāžu kontos;
 5) nodrošina ēdināšanu speciālās izglītības iestādēs un internātskolās Ministru kabineta noteiktajā kārtībā un apmērā;
 6) nodrošina izglītojamajiem profilaktisko veselības aprūpi un pirmās palīdzības pieejamību tās pārziņā esošajās izglītības iestādēs Ministru kabineta noteiktajā kārtībā;
