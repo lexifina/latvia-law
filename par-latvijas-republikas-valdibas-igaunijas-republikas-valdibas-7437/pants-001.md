@@ -1,0 +1,1 @@
+1.pants. 2000.gada 18.februārī Tallinā parakstītais Latvijas Republikas valdības, Igaunijas Republikas valdības un Lietuvas Republikas valdības līgums par izglītības kvalifikāciju akadēmisko atzīšanu Baltijas kopējā izglītības telpā (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
