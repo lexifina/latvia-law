@@ -1,0 +1,1 @@
+9. Līdz 2003.gada 31.decembrim zonas uzņēmējsabiedrības vai licencētas uzņēmējsabiedrības, kuras maksā nekustamā īpašuma nodokli par ēkām un būvēm, taksācijas gadā budžetā maksājamo nodokļa summu aprēķina, ņemot vērā šā likuma 6.panta pirmajā un otrajā daļā noteikto atlaidi, kā arī šā likuma 10.pantā noteikto nekustamā īpašuma nodokļa atlaides piemērošanas kārtību.

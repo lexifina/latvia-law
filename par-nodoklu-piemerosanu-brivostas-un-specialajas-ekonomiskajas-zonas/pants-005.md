@@ -2,7 +2,7 @@
 (1) Atļauju piemērot tiešo nodokļu atvieglojumus piešķir zonas pārvalde vai brīvostas pārvalde likumā noteiktajā kārtībā.
 (2) Atļauju piemērot tiešo nodokļu atvieglojumus var piešķirt zonas uzņēmējsabiedrībai vai licencētai uzņēmējsabiedrībai, kura atbilst abiem turpmāk minētajiem nosacījumiem:
 1) atrodas speciālās ekonomiskās zonas vai brīvostas teritorijā;
-2) veic uzņēmējdarbību tikai speciālās ekonomiskās zonas vai brīvostas teritorijā ietilpstošajā brīvās zonas teritorijā. Par uzņēmējdarbību ārpus speciālās ekonomiskās zonas vai brīvostas teritorijas nav uzskatāma:
+2) veic uzņēmējdarbību tikai speciālās ekonomiskās zonas vai brīvostas teritorijā. Par uzņēmējdarbību ārpus speciālās ekonomiskās zonas vai brīvostas teritorijas nav uzskatāma:
 a) zonas uzņēmējsabiedrības vai licencētas uzņēmējsabiedrības pārvaldes institūcijas vai pārstāvniecības atrašanās ārpus speciālās ekonomiskās zonas vai brīvostas teritorijas,
 b) darījuma sarunu vešana un līgumu noslēgšana ārpus speciālās ekonomiskās zonas vai brīvostas teritorijas,
 c) preču tranzīts no speciālās ekonomiskās zonas vai brīvostas teritorijas vai uz to,
