@@ -1,0 +1,1 @@
+1.pants. 2000.gada 15.martā Rīgā parakstītā Latvijas Republikas un Armēnijas Republikas konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem (turpmāk - Konvencija) un 2000.gada 15.martā Rīgā parakstītais tās protokols (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.
