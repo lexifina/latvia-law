@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "MK 2004.gada 31.augusta noteikumi nr.753",
+  "type_of_act": "Ministrijas instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "140",
+  "official_journal_page": null,
+  "official_journal_date": "2004-09-03",
+  "entry_into_force": "2004-09-04",
+  "notification_date": "2005-06-06",
+  "commission_reference": "MNE(2005)51545",
+  "nim_celex": "71990L0641LVA_121545",
+  "nim_id": "121545",
+  "transposes_celex": [
+    "31990L0641",
+    "31997L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/66b8c70e-f2d7-4274-8a76-43e956850741",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
