@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Apdrošināšanas sabiedrību un to uzraudzības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "188/189",
+  "official_journal_page": null,
+  "official_journal_date": "1998-06-30",
+  "entry_into_force": "1998-09-01",
+  "notification_date": "2004-11-12",
+  "commission_reference": "MNE(2004)52661",
+  "nim_celex": "71990L0618LVA_32661",
+  "nim_id": "32661",
+  "transposes_celex": [
+    "31990L0618"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/492bac69-f87d-4b29-ae88-495f59f99ae1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
