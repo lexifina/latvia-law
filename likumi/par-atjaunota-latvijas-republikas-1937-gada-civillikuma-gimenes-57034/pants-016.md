@@ -1,0 +1,1 @@
+16. pants. Lietas par personas atzīšanu par rīcības nespējīgu vai rīcībspējas ierobežošanu (Latvijas civilkodeksa 15. un 16. p.), kas līdz 1993. gada 31. augustam nav izskatītas tiesā, ar 1993. gada 1. septembri apspriežamas pēc Civillikuma noteikumiem.

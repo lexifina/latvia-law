@@ -1,0 +1,1 @@
+17. pants. Lietas par personas atzīšanu par bezvēsts promesošu, kuras atrodas tiesas lietvedībā un nav izskatītas līdz 1993. gada 31. augustam, izbeidzamas, bet lietas par personas izsludināšanu par mirušu ar 1993. gada 1. septembri apspriežamas pēc Civillikuma 377. un 378. panta noteikumiem.

@@ -1,0 +1,2 @@
+4. pants. Lietas par laulības atzīšanu par spēkā neesošu, kuras līdz 1993. gada 31. augustam atrodas tiesas lietvedībā, ar 1993. gada 1. septembri apspriežamas pēc Civillikumā paredzētajiem laulības neesamības pamatiem. Ja pēc Civillikuma noteikumiem laulība nav atzīstama par neesošu, prasība noraidāma.
+Tiesa laulību var atzīt par neesošu neatkarīgi no tā, vai tā noslēgta dzimtsarakstu nodaļā vai pie attiecīgās konfesijas garīdznieka.

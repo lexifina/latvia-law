@@ -1,0 +1,2 @@
+10. pants. Civillikuma noteikumi par laulībā un ārlaulībā dzimušu bērnu izcelšanās noteikšanu (Civillikuma 146.-161. p.) piemērojami arī attiecībā uz bērniem, kuri dzimuši līdz 1993. gada 31. augustam, ja viņu dzimšanu reģistrē pēc šā datuma.
+Noteikumi par ārlaulības bērna paternitātes brīvprātīgu atzīšanu vai tās noteikšanu tiesā attiecas arī uz bērniem, kuru dzimšana jau reģistrēta pirms 1993. gada 1. septembra.

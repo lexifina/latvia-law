@@ -1,0 +1,2 @@
+1. pants. Noteikt, ka atjaunotā Latvijas Republikas 1937. gada Civillikuma ģimenes tiesību daļa, ievada 11.-15. pants un šis likums stājas spēkā ar 1993. gada 1. septembri.
+Ģimenes tiesiskās attiecības, kā arī aizbildnības un aizgādnības attiecības, kas radušās pirms 1993. gada 1. septembra, apspriežamas pēc tiem likumiem, kuri bija spēkā līdz 1993. gada 31. augustam, ciktāl šis likums nenosaka citādi.

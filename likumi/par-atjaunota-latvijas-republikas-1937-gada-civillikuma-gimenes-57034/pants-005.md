@@ -1,0 +1,2 @@
+5. pants. Pieteikumi laulības šķiršanai pēc Latvijas laulības un ģimenes kodeksa 39. un 40. panta, kuri līdz 1993. gada 31. augustam bija iesniegti dzimtsarakstu nodaļā, bet līdz šim datumam nav izskatīti, ar 1993. gada 1. septembri zaudē spēku.
+Laulības šķiršanas lietas, kas līdz 1993. gada 31. augustam nav izskatītas tiesā, ar 1993. gada 1. septembri apspriežamas pēc Civillikuma noteikumiem par laulības šķiršanu.

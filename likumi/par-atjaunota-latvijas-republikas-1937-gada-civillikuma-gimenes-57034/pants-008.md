@@ -1,0 +1,1 @@
+8. pants. Civillikuma noteikumi par laulāto mantiskajām attiecībām ar 1993. gada 1. septembri attiecas arī uz tiem laulātajiem, kuri laulībā stājušies pirms 1993. gada 1. septembra. Apspriežot strīdus par mantu, piemērojams likums, kas bija spēkā laulāto attiecību izbeigšanās brīdī. Noilgums šādām prasībām iestājas pēc Civillikuma noteikumiem.

@@ -1,0 +1,3 @@
+15. pants. No vecāku varas, aizbildnības vai aizgādnības izrietošās attiecības, kas radušās līdz 1993. gada 31. augustam un turpinās pēc šā datuma, ar 1993. gada 1. septembri apspriežamas pēc Civillikuma noteikumiem.
+Nepilngadīgajiem jau ieceltie aizbildņi un aizgādņi turpina pildīt aizbildņa pienākumus atbilstoši Civillikuma prasībām.
+Lietas par alimentu piedziņu bērnu uzturēšanai, alimentu apmēra grozīšanu vai atbrīvošanu no to maksāšanas, kā arī lietas par alimentu piedziņu vecāku un vecvecāku uzturēšanai ar 1993. gada 1. septembri apspriežamas pēc Civillikuma (179. un 188. p.) noteikumiem.

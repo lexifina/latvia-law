@@ -1,0 +1,1 @@
+12. pants. Adopcijas lietas, kas atrodas aizbildnības un aizgādnības iestāžu lietvedībā un nav izlemtas līdz 1993. gada 31. augustam, ar 1993. gada 1. septembri apspriežamas pēc Civillikuma 162.- 171. panta noteikumiem.

@@ -1,0 +1,1 @@
+13. pants. Lietas par adopcijas atzīšanu par spēkā neesošu vai tās atcelšanu, kuras līdz 1993. gada 31. augustam nav izskatītas tiesā, ar 1993. gada 1. septembri apspriežamas pēc Civillikuma noteikumiem par adopcijas atcelšanu.
