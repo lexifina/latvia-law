@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Prekursoru operatoru reģistrēšanas un licencēšanas kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "164",
+  "official_journal_page": null,
+  "official_journal_date": "1996-10-01",
+  "entry_into_force": null,
+  "notification_date": "2004-03-01",
+  "commission_reference": "MNE(2003)50343",
+  "nim_celex": "71992L0109LVA_20343",
+  "nim_id": "20343",
+  "transposes_celex": [
+    "31992L0109",
+    "32003L0101"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d859a2af-822b-49d3-8a09-66e544e62503",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
