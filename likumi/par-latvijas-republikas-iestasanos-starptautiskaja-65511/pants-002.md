@@ -1,0 +1,1 @@
+2. pants. Latvijas Republikas ekonomisko reformu ministrs tiek pilnvarots parakstīt Pasaules bankas, Korporācijas, Asociācijas un Bankas Vienošanās līguma un Aģentūras un Centra konvencijas oriģinālus, izpildīt un nodot glabāšanā jebkuru uzņemšanas aktu vai dalības aktu, kā arī jebkuru citu dokumentu, kas nepieciešams šā likuma 1. panta realizācijai.

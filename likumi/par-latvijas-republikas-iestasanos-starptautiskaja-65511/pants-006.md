@@ -1,0 +1,1 @@
+6. pants. Latvijas Republikas valdība izdod norādījumus, kas būs nepieciešami, lai izpildītu Latvijas Republikas pienākumus, ko paredz šā likuma 1. pantā minētie vienošanās līgumi, konvencijas un rezolūcijas, un lai nodrošinātu šā likuma nosacījumu stāšanos spēkā un tā izpildi.
