@@ -5,7 +5,8 @@
 1) pieteikums noformēts atbilstoši likuma prasībām;
 2) komercķīlas devējs nav pasludināts par maksātnespējīgu;
 3) dokumentos, uz kuriem pamatots pieteikums, nav nekā acīmredzami pretlikumīga;
-4) ir samaksāta valsts nodeva.
+4) pieteikumā iekļautā informācija atbilst Uzņēmumu reģistrā un kustamo lietu reģistros iekļautajai informācijai;
+5) ir samaksāta valsts nodeva.
 (4) Pārliecinoties, vai iesniegtajos dokumentos nav nekā acīmredzami pretlikumīga, komercķīlu reģistra turētājs noskaidro, vai līgumos ir:
 1) norādīts līguma parakstīšanas datums un pušu paraksti;
 2) fiksēta skaidri izteikta pušu vienošanās;

@@ -12,4 +12,5 @@
 1) saņemts attiecīgs komercķīlas ņēmēja pieteikums, kas noformēts šā likuma 12.pantā noteiktajā kārtībā;
 2) saņemts tiesas nolēmums;
 3) pagājuši pieci gadi kopš komercķīlas reģistrācijas dienas un nav saņemts rakstveida paziņojums no komercķīlas ņēmēja par komercķīlas tiesības termiņa pagarināšanu, norādot pagarinājuma termiņu.
-(3) Komercķīlas ņēmējam ir pienākums piecu dienu laikā no komercķīlas izbeigšanās dienas iesniegt komercķīlu reģistra turētājam pieteikumu par komercķīlas dzēšanu. Ja bijusi ieķīlāta reģistrācijai pakļauta kustamā lieta, komercķīlu reģistra turētājs pieteikuma norakstu nekavējoties nosūta attiecīgajam kustamo lietu reģistra turētājam ķīlas atzīmes dzēšanai.
+(3) Komercķīlas ņēmējam ir pienākums piecu dienu laikā no komercķīlas izbeigšanās dienas iesniegt komercķīlu reģistra turētājam pieteikumu par komercķīlas dzēšanu.
+(4) Dzēšot komercķīlu attiecībā uz reģistrācijai pakļautām kustamām lietām, komercķīlu reģistra turētājs par to paziņo attiecīgā kustamo lietu reģistra turētājam komercķīlas atzīmes dzēšanai. Paziņojumā norādāms komercķīlas reģistrācijas numurs, informācija par ieķīlāto mantu un komercķīlas dzēšanas pamatu.
