@@ -1,0 +1,1 @@
+110. Valsts aizsargā un atbalsta laulību, ģimeni, vecāku un bērna tiesības. Valsts īpaši palīdz bērniem invalīdiem, bērniem, kas palikuši bez vecāku gādības vai cietuši no varmācības.

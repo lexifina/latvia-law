@@ -1,0 +1,1 @@
+106. Ikvienam ir tiesības brīvi izvēlēties nodarbošanos un darbavietu atbilstoši savām spējām un kvalifikācijai. Piespiedu darbs ir aizliegts. Par piespiedu darbu netiek uzskatīta iesaistīšana katastrofu un to seku likvidēšanā un nodarbināšana saskaņā ar tiesas nolēmumu.
