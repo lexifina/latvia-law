@@ -1,0 +1,1 @@
+1.pants. 1980.gada 20.maija Eiropas konvencija par nolēmumu atzīšanu un izpildi par bērnu aizbildnību un bērnu aizbildnības atjaunošanu (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
