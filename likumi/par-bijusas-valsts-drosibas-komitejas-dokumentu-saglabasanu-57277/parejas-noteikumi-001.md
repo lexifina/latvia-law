@@ -1,0 +1,1 @@
+1. Līdz brīdim, kad stājas spēkā Ministru kabineta apstiprināts Totalitārisma seku dokumentēšanas centra nolikums, Totalitārisma seku dokumentēšanas centra darbību reglamentē šis likums un citi likumi, kā arī ar Latvijas Republikas Augstākās padomes Prezidija lēmumu apstiprinātais Totalitārisma seku dokumentēšanas centra nolikums.
