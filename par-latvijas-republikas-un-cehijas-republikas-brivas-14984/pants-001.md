@@ -1,0 +1,1 @@
+1.pants. 1999.gada 13.decembrī pieņemtais Latvijas Republikas un Čehijas Republikas brīvās tirdzniecības līguma Apvienotās komitejas lēmums Nr. 1/1999 (turpmāk - Lēmums) ar šo likumu tiek pieņemts un apstiprināts.
