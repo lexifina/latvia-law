@@ -4,7 +4,7 @@
 1) slimības pabalsts;
 2) atlīdzība par darbspēju zaudējumu;
 3) vienreizējs pabalsts, ar ko var aizstāt atlīdzību par darbspēju zaudējumu, ja VDEĀK noteikusi apdrošinātajai personai nepārejošu darbspēju zaudējumu 10 līdz 24 procentu robežās;
-4) atlīdzība par protezēšanu, maksa par rehabilitācijas līdzekļu iegādi un to remontu, pavadoņa apmaksa, ārstniecības iestāžu apmeklēšanai paredzēto ceļa izdevumu apmaksa, kā arī personas izdevumu apmaksa par ārstēšanu, aprūpi, medicīnisko un profesionālo rehabilitāciju, ja šie izdevumi pārsniedz veselības aprūpes bāzes programmā un rehabilitācijai sociālās aprūpes bāzes programmā vai veselības aprūpes bāzes programmā vai rehabilitācijai sociālās aprūpes bāzes programmā paredzēto.
+4) papildu izdevumu kompensācija.
 (3) Apdrošinātajai personai paredzēti šādi pakalpojumi:
 1) ārstēšana, aprūpe un medicīniskā rehabilitācija;
 2) pārkvalifikācija;
