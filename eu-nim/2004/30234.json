@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par vecmātes izglītību un profesionālo kvalifikāciju apliecinošiem dokumentiem, kurus atzīst, piemērojot speciālo profesionālās kvalifikācijas atzīšanas sistēmu",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-01",
+  "entry_into_force": "2004-05-02",
+  "notification_date": "2004-08-02",
+  "commission_reference": "MNE(2004)50234",
+  "nim_celex": "71980L0154LVA_30234",
+  "nim_id": "30234",
+  "transposes_celex": [
+    "31980L0154",
+    "31980L1273",
+    "31989L0594",
+    "31990L0658"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7c35bf41-e2e8-4240-bf93-0af5cc000c55",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
