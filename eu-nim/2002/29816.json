@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "MK Noteikumi Nr.234 ''Noteikumi par transportējamām spiedieniekārtām''",
+  "type_of_act": "Ministra noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2002-06-21",
+  "entry_into_force": "2002-07-01",
+  "notification_date": "2004-07-29",
+  "commission_reference": "MNE(2004)59816",
+  "nim_celex": "71984L0527LVA_29816",
+  "nim_id": "29816",
+  "transposes_celex": [
+    "31984L0527"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/048e3ddf-c4cc-44ce-bb81-8f01ee989fc2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
