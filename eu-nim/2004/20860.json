@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru Kabineta 2004.gada 2.marta noteikumi Nr. 125 \"Noteikumi par sēra satura ierobežošanu noteiktiem šķidrās degvielas veidiem\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "37",
+  "official_journal_page": null,
+  "official_journal_date": "2004-03-09",
+  "entry_into_force": null,
+  "notification_date": "2004-04-13",
+  "commission_reference": "MNE(2003)50860",
+  "nim_celex": "71987L0219LVA_20860",
+  "nim_id": "20860",
+  "transposes_celex": [
+    "31987L0219",
+    "31999L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/556b6222-fa31-4c26-a3ff-e6c52ee1617f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
