@@ -1,4 +1,4 @@
-21. pants. Ostu attīstības fonda finansu līdzekļu avoti
+21. pants. Ostu attīstības fonda finanšu līdzekļu avoti
 Ostu attīstības fondā ieskaita:
 1) ostu pārvalžu iemaksas;
 2) valsts asignējumus;

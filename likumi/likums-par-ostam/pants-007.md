@@ -12,7 +12,7 @@
 1) izstrādā ostas attīstības programmas projektu atbilstoši apstiprinātai Latvijas ostu attīstības koncepcijai un attiecīgās pilsētas ģenerālplānam vai apdzīvotās vietas zemes ierīcības projektam;
 2) nodrošina Latvijas Ostu padomē akceptētās ostas attīstības programmas realizāciju;
 3) apsaimnieko valdījumā nodoto īpašumu - hidrotehniskās būves, kuģuceļus, navigācijas iekārtas un ierīces ostā, kā arī akvatoriju un navigācijas ierīces Satiksmes ministrijas noteiktajos apsaimniekošanas rajonos;
-4) izstrādā un apstiprina ostas pārvaldes nolikumā noteiktajā kārtībā finansu līdzekļu izlietojuma tāmes projektu nākamajam kalendārajam gadam un turpmākajiem pieciem gadiem un, ja nepieciešams, precizējumus iepriekšējā gadā iesniegtajā perspektīvajā finansu līdzekļu izlietojuma tāmē;
+4) izstrādā un apstiprina ostas pārvaldes nolikumā noteiktajā kārtībā finanšu līdzekļu izlietojuma tāmes projektu nākamajam kalendārajam gadam un turpmākajiem pieciem gadiem un, ja nepieciešams, precizējumus iepriekšējā gadā iesniegtajā perspektīvajā finanšu līdzekļu izlietojuma tāmē;
 5) organizē ostas izbūvi, komunikāciju izbūvi ostas teritorijā atbilstoši ostas attīstības programmai;
 6) veic ostas pakalpojumu pieprasījuma un piedāvājuma izpēti;
 7) slēdz līgumus ar uzņēmumiem (uzņēmējsabiedrībām) par to darbību ostā, lai nodrošinātu un pilnveidotu ostas pakalpojumu kompleksu atbilstoši ostas pārvaldes nolikumam un ostas attīstības programmai;

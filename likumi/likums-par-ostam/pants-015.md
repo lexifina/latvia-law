@@ -6,7 +6,7 @@
 4) maksu par ostas velkoņu un citu peldošo līdzekļu izmantošanu;
 5) maksu par ugunsdzēsēju pakalpojumiem.
 (2) Ostas maksas pakalpojumu tarifu robežlīmeņi stājas spēkā četrdesmit piecas dienas pēc to publicēšanas laikrakstā "Latvijas Vēstnesis".
-(3) Latvijas ostās tiek iekasēta maksa par navigācijas pakalpojumiem, kuras tarifu pēc Latvijas Jūras administrācijas pilnsapulces priekšlikuma nosaka satiksmes ministrs.
-(4) Latvijas Jūras administrācijas budžetu nosaka Latvijas Jūras administrācijas pilnsapulce un apstiprina satiksmes ministrs.
-(5) Latvijas Jūras administrācijas pilnsapulces funkcijas veic seši satiksmes ministra iecelti valsts pilnvarnieki: trīs Satiksmes ministrijas amatpersonas, Rīgas ostas pārvaldnieks, Liepājas ostas pārvaldnieks un Ventspils ostas pārvaldnieks.
+(3) Latvijas ostās tiek iekasēta maksa par navigācijas pakalpojumiem, kuras tarifu nosaka Latvijas Jūras administrācijas padome un apstiprina satiksmes ministrs.
+(4) Latvijas Jūras administrācijas budžetu pēc Latvijas Jūras administrācijas padomes priekšlikuma apstiprina Latvijas Jūras administrācijas akcionāru pilnsapulce.
+(5) Latvijas Jūras administrācijas padomes funkcijas veic seši akcionāru pilnsapulces iecelti padomes locekļi: trīs Satiksmes ministrijas amatpersonas, Rīgas brīvostas pārvaldnieks, Liepājas ostas pārvaldnieks un Ventspils brīvostas pārvaldnieks.
 (6) Ostas pārvalde norēķinās ar pakalpojumu sniedzējiem, kuri pieņem no kuģiem atkritumus un piesārņotos ūdeņus, saskaņā ar ostas pārvaldes un pakalpojumu sniedzēja savstarpēju vienošanos par attiecīgo pakalpojumu tarifiem.

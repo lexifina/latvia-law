@@ -10,7 +10,7 @@ Rīgas, Liepājas un Ventspils ostu pārvaldnieki;
 citu Latvijas ostu pārstāvis, kuru ieteikusi Latvijas Mazo ostu asociācija;
 Latvijas Jūras administrācijas direktors;
 Latvijas Attīstības aģentūras direktors;
-finansu ministrs;
+finanšu ministrs;
 ekonomikas ministrs;
 vides aizsardzības un reģionālās attīstības ministrs;
 zemkopības ministrs;
