@@ -1,0 +1,5 @@
+3.pants. (1) Vēlēšanu komisiju un iecirkņu komisiju darbība Saeimas vēlēšanu un tautas nobalsošanas sagatavošanā un sarīkošanā tiek finansēta no valsts budžeta Centrālās vēlēšanu komisijas noteiktajā kārtībā.
+(2) Domes (padomes) vēlēšanu sagatavošanā un sarīkošanā pilsētas, rajona un pagasta vēlēšanu komisiju darbība tiek finansēta no attiecīgās pilsētas, rajona vai pagasta budžeta.
+(3) Iecirkņu komisiju darbība domes (padomes) vēlēšanu sagatavošanā un sarīkošanā tiek finansēta: republikas pilsētās - no attiecīgās pilsētas, bet rajona pilsētās un pagastos - līdzīgās daļās no rajona un pagasta vai rajona un rajona pilsētas budžeta. Ja rajona padomes, rajona pilsētas domes vai pagasta padomes vēlēšanas nenotiek vispārējā vēlēšanu dienā, iecirkņa komisijas darbība tiek finansēta attiecīgi no rajona, rajona pilsētas vai pagasta budžeta.
+(4) Rīkojot balsošanu par domes (padomes) deputāta atsaukšanu, vēlēšanu komisijas un iecirkņu komisiju darbība tiek finansēta no tās pilsētas, rajona vai pagasta budžeta, kura domes (padomes) deputātu ierosināts atsaukt.
+(5) Vēlēšanu (balsošanas) sarīkošanai nepieciešamās materiālās vērtības ir pašvaldības manta.

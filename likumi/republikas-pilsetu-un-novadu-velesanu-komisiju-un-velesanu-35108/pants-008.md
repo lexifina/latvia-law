@@ -1,0 +1,3 @@
+8. pants. (1) Pieteikumā jānorāda vēlēšanu komisijas locekļa kandidāta vārds, uzvārds, personas kods, dzīvesvietas adrese, darbavieta un profesija (nodarbošanās), ziņas par piedalīšanos vēlēšanu sagatavošanā un sarīkošanā agrāk. Pieteikumam pievienojams katra kandidāta rakstveida paziņojums, ka viņš piekrīt savas kandidatūras pieteikšanai.
+(2) Ja kandidātu izvirza vēlētāju grupa, pieteikums jāparaksta katram vēlētājam, norādot savu vārdu, uzvārdu, personas kodu un dzīvesvietas adresi.
+(3) Ja kandidātu izvirza politiskā organizācija (partija) vai politisko organizāciju (partiju) apvienība, pieteikumam pievienojams arī izraksts no. tās centrālās pastāvīgi funkcionējošās vadības institūcijas lēmuma.

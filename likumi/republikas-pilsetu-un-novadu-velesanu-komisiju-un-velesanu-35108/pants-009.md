@@ -1,0 +1,1 @@
+9. pants. Vēlēšanu komisijas locekļu kandidātu pieteikšanas termiņu nosaka attiecīgā dome (padome). Republikas pilsētas dome un rajona padome attiecīgu paziņojumu publicē laikrakstā "Latvijas Vēstnesis", bet rajona pilsētas dome un pagasta padome attiecīgu paziņojumu izliek redzamā vietā pie domes (padomes) ēkas.

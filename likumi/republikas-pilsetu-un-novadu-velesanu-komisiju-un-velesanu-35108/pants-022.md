@@ -1,0 +1,1 @@
+22. pants. Balsošanas procesa un balsu skaitīšanas nodrošināšanai vēlēšanu komisija var pieaicināt valsts civildienesta ierēdņus un citus speciālistus no vēlētāju vidus. Ar viņiem attiecīgās vēlēšanu komisijas priekšsēdētājs noslēdz darba līgumu, kurā noteiktas viņu tiesības un pienākumi, kā arī atlīdzība tāmē paredzēto līdzekļu ietvaros.

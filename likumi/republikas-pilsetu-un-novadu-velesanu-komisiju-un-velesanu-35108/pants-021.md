@@ -1,0 +1,3 @@
+21. pants. (1) Vēlēšanu komisijas un iecirkņa komisijas priekšsēdētājs, sekretārs un citi komisijas locekļi laikā, kad viņi pilda ar vēlēšanām saistītos pienākumus, atbrīvojami no pienākumiem savā pamatdarba vietā, saglabājot viņu amatu (darbavietu).
+(2) Par laiku, kurā vēlēšanu komisijas un iecirkņa komisijas priekšsēdētājs, sekretārs un citi komisijas locekļi pilda savus pienākumus komisijā, viņi saņem atlīdzību.
+(3) Atlīdzības apmēru vēlēšanu komisijas un iecirkņa komisijas priekšsēdētājam, sekretāram un komisijas locekļiem Saeimas vēlēšanu un tautas nobalsošanas sagatavošanā nosaka Centrālā vēlēšanu komisija pēc Ministru kabineta apstiprinātajiem normatīviem, bet pārējos gadījumos - attiecīgā dome (padome).

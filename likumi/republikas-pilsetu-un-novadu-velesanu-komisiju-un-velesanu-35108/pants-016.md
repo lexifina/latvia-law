@@ -1,0 +1,1 @@
+16. pants. Vēlēšanu komisija un iecirkņa komisija lēmumus pieņem, atklāti balsojot. Lēmums ir pieņemts, ja "par" nobalso vairākums no komisijas locekļu kopskaita. Balsīm sadaloties līdzīgi, izšķirošā ir komisijas priekšsēdētāja balss. Komisijas loceklis, kurš nepiekrīt lēmumam, ir tiesīgs pievienot protokolam rakstveidā savu atsevišķo viedokli.

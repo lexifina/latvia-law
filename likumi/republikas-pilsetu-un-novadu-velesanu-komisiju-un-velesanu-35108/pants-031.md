@@ -1,0 +1,1 @@
+31. pants. Pēc vēlēšanu iecirkņu slēgšanas iecirkņu komisija Centrālās vēlēšanu komisijas noteiktajā kārtībā nodrošina nodoto balsu saskaitīšanu un nogādā balsu skaitīšanas protokolu kopā ar citiem materiāliem attiecīgi pilsētas, rajona vai pagasta vēlēšanu komisijai.

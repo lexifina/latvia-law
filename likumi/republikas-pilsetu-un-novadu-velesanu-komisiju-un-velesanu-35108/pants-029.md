@@ -1,0 +1,1 @@
+29. pants. Vēlēšanu (balsošanas) dienā iecirkņa komisija nodrošina brīvu un netraucētu balsošanas norisi atbilstoši likuma un Centrālās vēlēšanu komisijas noteiktajai kārtībai un izskata vēlētāju (balsotāju) iesniegtās sūdzības un protestus.

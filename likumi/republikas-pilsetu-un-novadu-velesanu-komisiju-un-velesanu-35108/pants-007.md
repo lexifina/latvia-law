@@ -1,0 +1,2 @@
+7. pants. (1) Tiesības izvirzīt un pieteikt savus pārstāvjus vēlēšanu komisijā ir Tieslietu ministrijā reģistrēto politisko organizāciju (partiju) vai to apvienību centrālajām pastāvīgi funkcionējošām vadības institūcijām, kā arī katram attiecīgās domes (padomes) deputātam vai ne mazāk kā 10 balsstiesīgiem Latvijas pilsoņiem (turpmāk - vēlētāju grupa).
+(2) Katra politiskā organizācija (partija) vai politisko organizāciju (partiju) apvienība, deputāts vai vēlētāju grupa var izvirzīt un pieteikt neierobežotu kandidātu skaitu.

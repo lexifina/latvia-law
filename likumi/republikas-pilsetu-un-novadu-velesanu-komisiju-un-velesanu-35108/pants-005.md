@@ -1,0 +1,3 @@
+5. pants. (1) Pilsētas, rajona vai pagasta vēlēšanu komisiju ievēlē attiecīgās pilsētas dome, rajona padome vai pagasta padome triju mēnešu laikā pēc domes (padomes) ievēlēšanas.
+(2) Iecirkņa komisiju izveido attiecīgās pilsētas vai pagasta vēlēšanu komisija Centrālās vēlēšanu komisijas noteiktajā kārtībā.
+(3) Saeimas vēlēšanām un tautas nobalsošanai ārvalstīs Centrālā vēlēšanu komisija no attiecīgo konsulāro iestāžu ieteiktajiem Latvijas pilsoņiem ieceļ iecirkņa komisiju. Par tās skaitlisko sastāvu Centrālā vēlēšanu komisija vienojas ar attiecīgo konsulāro iestādi, tomēr iecirkņa komisijā nedrīkst būt mazāk par trim un vairāk par septiņiem locekļiem.

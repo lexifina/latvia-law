@@ -1,0 +1,1 @@
+32. pants. Par vēlēšanu komisijas lēmumu var iesniegt sūdzību septiņu dienu laikā pēc tā pieņemšanas rajona (pilsētas) tiesā pēc vēlēšanu komisijas atrašanās vietas. Rajona (pilsētas) tiesas spriedums ir galīgs.
