@@ -8,3 +8,4 @@ b) slimības vai veselības stāvokļa dēļ,
 c) amatu skaita samazināšanas dēļ,
 d) sakarā ar to, ka ir izbeidzies uz noteiktu laiku noslēgtā dienesta līguma termiņš.
 (2) Uz izdienas pensiju nav tiesību militārpersonai, kura saņem citas valsts pensiju.
+(3) Uz izdienas pensiju nav tiesību militārpersonai, kura atvaļināta no aktīvā militārā dienesta sakarā ar notiesājošu tiesas spriedumu vai kurai atvaļināšana no aktīvā dienesta piemērota kā disciplinārsods.
