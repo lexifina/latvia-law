@@ -1,2 +1,3 @@
 2.pants. Likuma darbības joma
-Likums nosaka bezdarbniekiem un darba meklētājiem paredzētos aktīvos nodarbinātības pasākumus un bezdarba samazināšanas preventīvos pasākumus, valsts un pašvaldību kompetenci šo pasākumu īstenošanā, kā arī bezdarbnieka un darba meklētāja statusu, tiesības un pienākumus.
+(1) Likums nosaka bezdarbniekiem un darba meklētājiem paredzētos aktīvos nodarbinātības pasākumus un bezdarba samazināšanas preventīvos pasākumus, valsts un pašvaldību kompetenci šo pasākumu īstenošanā, kā arī bezdarbnieka un darba meklētāja statusu, tiesības un pienākumus.
+(2) Personām, kuras nav Latvijas pilsoņi vai nepilsoņi, personām, kuras nav saņēmušas pastāvīgās uzturēšanās atļauju, un personām, kuras nav saņēmušas termiņuzturēšanās atļauju un nav Latvijas pilsoņu, nepilsoņu vai pastāvīgās uzturēšanās atļauju saņēmušo personu laulātie, ir tiesības iesaistīties bezdarbniekiem paredzētajos pasākumos atbilstoši Padomes 1971.gada 14.jūnija regulai (EEC) Nr.1408/71.

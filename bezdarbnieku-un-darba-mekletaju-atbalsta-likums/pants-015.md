@@ -1,5 +1,8 @@
 15.pants. Darba meklētāja statuss
-Darba meklētājs ir persona, kura reģistrējusies Nodarbinātības valsts aģentūrā pēc savas pamata dzīvesvietas un:
-1) kura ir zaudējusi bezdarbnieka statusu šā likuma 12.panta pirmās daļas 5., 6. vai 7.punktā minēto iemeslu dēļ un atbilst šā likuma 10.panta pirmajā daļā noteiktajiem kritērijiem;
-2) kurai Nodarbinātības valsts aģentūra ir atteikusies piešķirt bezdarbnieka statusu sakarā ar neatbilstību šā likuma 10.panta pirmās daļas 6.punktam, bet kura atbilst visiem pārējiem 10.panta pirmajā daļā noteiktajiem kritērijiem;
-3) kurai ir uzteikts darba līgums.
+Darba meklētājs ir persona, kura reģistrējusies Nodarbinātības valsts aģentūrā atbilstoši deklarētajai dzīvesvietai un kura:
+1) ir Latvijas pilsonis vai nepilsonis vai ir saņēmusi pastāvīgās uzturēšanās atļauju, vai ir saņēmusi termiņuzturēšanās atļauju un ir Latvijas pilsoņa vai nepilsoņa, vai pastāvīgās uzturēšanās atļauju saņēmušās personas laulātais;
+2) nestrādā (nav uzskatāma par darba ņēmēju vai pašnodarbināto saskaņā ar likumu "Par valsts sociālo apdrošināšanu");
+3) meklē darbu;
+4) ir darbspējīga un gatava nekavējoties stāties darba attiecībās;
+5) ir sasniegusi 15 gadu vecumu;
+6) neveic komercdarbību vai kuras komercdarbība ir apturēta saskaņā ar normatīvajiem aktiem.

@@ -13,8 +13,9 @@
 9) organizē sadarbību un informācijas apmaiņu starp Nodarbinātības valsts aģentūru un darba devējiem;
 10) organizē darba devēju un bezdarbnieku dialogu, lai samazinātu bezdarba līmeni;
 11) sadarbojas ar valsts pārvaldes iestādēm, pašvaldībām, fiziskajām un juridiskajām personām, kā arī sabiedriskajām organizācijām;
-12) apstiprina darba izsaukumus ārvalstnieku un bezvalstnieku nodarbināšanai Latvijā;
-13) nodrošina ar Eiropas Savienības prasībām atbilstošu informāciju par bezdarba un nodarbinātības situāciju valstī;
+12) apstiprina darba izsaukumus normatīvajos aktos noteiktajā kārtībā;
+13) nodrošina Eiropas Savienības normatīvo aktu prasībām atbilstošas informācijas sagatavošanu un sniegšanu par bezdarba situāciju valstī;
 14) licencē un uzrauga juridiskās personas, kuras sniedz darbiekārtošanas pakalpojumus par maksu (izņemot iekārtošanu darbā uz kuģiem);
-15) piedalās starpvalstu sadarbības līgumu projektu, kā arī citu sadarbības projektu izstrādē un šo līgumu un projektu īstenošanā bezdarba samazināšanas un darbaspēka kustības jomā;
-16) veic citus Nodarbinātības valsts aģentūras nolikumā un normatīvajos aktos noteiktos uzdevumus.
+15) piedalās starptautisku sadarbības līgumu projektu un citu sadarbības projektu izstrādē, kā arī šo līgumu un projektu īstenošanā bezdarba samazināšanas un darbaspēka kustības jomā;
+16) veic citus Nodarbinātības valsts aģentūras nolikumā un normatīvajos aktos noteiktos uzdevumus;
+17) organizē nodarbinātības pasākumus vasaras brīvlaikā personām, kuras iegūst izglītību vispārējās vidējās vai profesionālās vidējās izglītības iestādēs.
