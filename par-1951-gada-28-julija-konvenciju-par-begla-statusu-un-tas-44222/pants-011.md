@@ -1,0 +1,1 @@
+11.pants. Konvencija stājas spēkā tās 43.pantā noteiktajā laikā un kārtībā, un Protokols stājas spēkā tā VIII pantā noteiktajā laikā un kārtībā, un par to Ārlietu ministrija paziņo laikrakstā "Latvijas Vēstnesis".
