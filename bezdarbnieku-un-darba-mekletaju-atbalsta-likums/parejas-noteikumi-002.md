@@ -1,0 +1,1 @@
+2. Līdz Profesionālās karjeras izvēles valsts aģentūras izveidošanai tās funkcijas pilda valsts bezpeļņas organizācija "Profesionālās karjeras izvēles valsts centrs", kas ir Labklājības ministrijas pārziņā.

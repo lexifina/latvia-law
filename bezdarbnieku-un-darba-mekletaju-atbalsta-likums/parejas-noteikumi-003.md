@@ -1,0 +1,1 @@
+3. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par nodarbinātību" (Latvijas Republikas Augstākās Padomes un Ministru Padomes Ziņotājs, 1992, 4./5.nr.; 1993, 20./21.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 2.nr.; 1995, 13.nr.; 1997, 13., 22.nr.; 1998, 19.nr.).

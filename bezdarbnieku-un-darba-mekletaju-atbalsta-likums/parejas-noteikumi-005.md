@@ -1,0 +1,1 @@
+5. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanas dienai, bet ne ilgāk kā līdz 2002.gada 30.septembrim piemērojami Ministru kabineta 1996.gada 22.oktobra noteikumi nr.407 "Noteikumi par bezdarbnieka statusu" ciktāl tie nav pretrunā ar šo likumu.
