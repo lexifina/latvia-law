@@ -1,0 +1,5 @@
+52.pants. Provīzijas aprēķins
+(1) Principālam ir pienākums ik mēnesi aprēķināt komercaģentam pienākošos provīziju. Aprēķina periodu var pagarināt ne ilgāk kā līdz trim mēnešiem. Aprēķins veicams nekavējoties, bet ne vēlāk kā mēneša laikā pēc aprēķina perioda beigām.
+(2) Komercaģents, saņemot aprēķinu, var prasīt grāmatvedības izrakstu par visiem darījumiem, par kuriem viņam ir tiesības uz provīziju. Komercaģentam ir tiesības arī prasīt ziņas, kurām ir būtiska nozīme attiecībā uz tiesībām saņemt provīziju, tās samaksas termiņa iestāšanos un provīzijas aprēķinu.
+(3) Ja komercaģentam ir atteikts izsniegt grāmatvedības izrakstu vai arī ja radušās pamatotas šaubas par aprēķina vai grāmatvedības izraksta pareizību vai pilnību, viņš var prasīt, lai principāls pēc savas izvēles vai nu pašam komercaģentam, vai viņa izraudzītam zvērinātam revidentam ļauj iepazīties ar grāmatvedības un citiem dokumentiem, ciktāl tas ir nepieciešams, lai noskaidrotu aprēķina vai grāmatvedības izraksta pareizību vai pilnību.
+(4) Vienošanās, kas atceļ vai ierobežo šajā pantā minētās komercaģenta tiesības, nav spēkā.

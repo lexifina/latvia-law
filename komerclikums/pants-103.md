@@ -1,0 +1,2 @@
+103.pants. Sabiedrības uzņēmuma pāreja otram sabiedrības biedram
+Ja sabiedrībā ir divi biedri un viens no tiem izstājas saskaņā ar šā likuma 99., 101. un 102.panta noteikumiem, sabiedrība izbeidzas bez likvidācijas un sabiedrības uzņēmums pāriet otram sabiedrības biedram, kuram ir pienākums pieteikt sevi ierakstīšanai komercreģistrā kā individuālo komersantu, attiecīgi piesakot sabiedrības izslēgšanu no komercreģistra.

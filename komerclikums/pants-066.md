@@ -1,0 +1,4 @@
+66.pants. Atrunātais uzdevums
+(1) Ja darījuma viena puse pieņem darījuma akta galīgo tekstu, atbilstoši kuram mākleris patur tiesības vēlāk norādīt darījuma otru pusi, tā ir saistīta darījuma attiecībās ar māklera vēlāk norādīto darījuma otru pusi, ja vien pret to nav izvirzāmi pamatoti iebildumi.
+(2) Māklerim ir pienākums norādīt darījuma otru pusi viņam noteiktajā termiņā, bet, ja tāds nav noteikts, - apstākļiem atbilstošā termiņā.
+(3) Ja mākleris šā panta otrajā daļā noteiktajā termiņā nenorāda darījuma otru pusi vai arī pret darījuma otru pusi var izvirzīt pamatotus iebildumus, darījuma pirmajai pusei ir tiesības prasīt, lai mākleris izpilda darījumu. Šādas tiesības zūd, ja pēc māklera pieprasījuma darījuma pirmā puse nekavējoties nepaziņo par to, vai tā prasīs, lai mākleris izpilda darījumu.

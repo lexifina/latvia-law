@@ -1,0 +1,4 @@
+264.pants. Kreditoru aizsardzība pamatkapitāla samazināšanas gadījumā
+(1) Piecu dienu laikā pēc tam, kad pieņemts lēmums par pamatkapitāla samazināšanu, valde nosūta rakstveida paziņojumu par pamatkapitāla samazināšanu un jauno pamatkapitāla lielumu visiem zināmajiem sabiedrības kreditoriem, kuriem prasījuma tiesības pret sabiedrību radušās pirms tam, kad tika pieņemts lēmums par pamatkapitāla samazināšanu.
+(2) Paziņojumu par pieņemto lēmumu par pamatkapitāla samazināšanu valde publicē laikrakstā "Latvijas Vēstnesis". Paziņojumā norāda termiņu, kurā var pieteikties kreditori, kas vēlas saņemt nodrošinājumu. Paziņojumā norāda kreditoru prasījumu pieteikšanas termiņu, kas nedrīkst būt īsāks par vienu mēnesi no paziņojuma publicēšanas dienas.
+(3) Sabiedrība sniedz nodrošinājumu kreditoriem, kuri pieteikušies noteiktajā termiņā (izņemot nodrošinātos kreditorus nodrošinātā prasījuma apmērā).

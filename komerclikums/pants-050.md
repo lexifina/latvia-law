@@ -1,0 +1,7 @@
+50.pants. Komercaģenta tiesības uz provīziju
+(1) Komercaģentam ir tiesības uz provīziju par darījumu, kas noslēgts komercaģenta līguma spēkā esamības laikā, ja šis darījums noslēgts viņa darbības rezultātā vai arī ar personu, kuru komercaģents pirms tam piesaistījis kā klientu tāda paša veida darījumiem.
+(2) Ja komercaģentam ir uzticēts darboties noteiktā apvidū vai ar noteiktu klientu loku, viņam ir tiesības uz provīziju arī par tādu darījumu, kas komercaģenta līguma spēkā esamības laikā bez viņa līdzdalības noslēgts ar klientu, kurš pieder pie šā apvidus vai klientu loka.
+(3) Par darījumu, kas noslēgts pēc komercaģenta līguma izbeigšanās, komercaģentam ir tiesības uz provīziju tikai tad, ja:
+1) darījums noslēgts, galvenokārt pateicoties darbībai, ko viņš veicis komercaģenta līguma spēkā esamības laikā, un šis darījums noslēgts saprātīgā laika posmā pēc komercaģenta līguma izbeigšanās;
+2) pirms komercaģenta līguma izbeigšanās komercaģents vai principāls saņēmis priekšlikumu no trešās personas par tāda darījuma noslēgšanu, par kuru komercaģentam ir tiesības uz provīziju saskaņā ar šā panta pirmās vai otrās daļas noteikumiem.
+(4) Komercaģentam nav tiesību uz provīziju saskaņā ar šā panta pirmās vai otrās daļas noteikumiem, ja tā saskaņā ar šā panta trešās daļas noteikumiem pienākas iepriekšējam komercaģentam, izņemot gadījumu, kad īpaši apstākļi attaisno provīzijas taisnīgu sadalīšanu starp abiem šiem komercaģentiem.

@@ -1,0 +1,3 @@
+162.pants. Nepamatoti izmaksāto summu atdošana
+(1) Ja personai izmaksāta dividende, uz kuru vai uz kuras daļu tai nebija tiesību, un šī persona dividendes saņemšanas brīdī zināja vai tai vajadzēja zināt, ka izmaksa nav pamatota, tai ir pienākums nepamatoti iegūto summu atdot sabiedrībai.
+(2) Citas nepamatoti izmaksātās summas, ko dalībnieks no sabiedrības ieguvis labā ticībā, viņam ir pienākums atmaksāt pēc tam, kad viņam kļuvis zināms, ka izmaksa nav pamatota. Nepamatoti izmaksātās summas, kuras dalībnieks no sabiedrības ieguvis ļaunā nolūkā vai aiz rupjas neuzmanības, viņam ir pienākums atdot sabiedrībai. Šādā gadījumā dalībniekam jāatlīdzina zaudējumi, kas radušies sabiedrībai šīs nepamatotās izmaksas rezultātā.

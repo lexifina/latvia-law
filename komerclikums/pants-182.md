@@ -1,0 +1,4 @@
+182.pants. Sabiedrības naudas līdzekļu izmaksa dalībniekiem
+(1) Sabiedrība drīkst izdarīt izmaksas dalībniekiem tikai tad, ja tiek izmaksātas dividendes vai samazināts pamatkapitāls vai ja sabiedrība tiek likvidēta un tās manta sadalīta starp dalībniekiem.
+(2) Dalībniekiem izdarītās izmaksas, kas nav minētas šā panta pirmajā daļā, uzskatāmas par nepamatotām. Par sabiedrības līdzekļu nepamatotu izmaksu uzskatāmi arī gadījumi, kad dalībnieks bez maksas izmanto sabiedrības mantu, kad dalībniekam par sabiedrībai sniegtajiem pakalpojumiem izmaksā augstāku atlīdzību, nekā noteikts līgumā, vai kad sabiedrība pērk no dalībnieka mantu par paaugstinātu cenu.
+(3) Dalībniekiem nedrīkst izdarīt izmaksas, ja sabiedrības pašu kapitāls pārskata gada noslēgšanas brīdī ir mazāks vai šādu izmaksu rezultātā kļūtu mazāks par sabiedrības parakstītā pamatkapitāla un obligātās rezerves kopējo apmēru.

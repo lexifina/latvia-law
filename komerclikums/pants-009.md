@@ -1,0 +1,4 @@
+9.pants. Komercreģistra iestādei iesniedzamie dokumenti un to glabāšana
+(1) Komercreģistra iestādei iesniedzami dokumenti, kas pamato ieraksta izdarīšanu komercreģistrā, un citi likumā noteiktie dokumenti, kā arī likumā noteikto personu notariāli apliecināti parakstu paraugi. Komercreģistra iestādei iesniedz attiecīgā dokumenta oriģinālu vai tā attiecīgi apliecinātu kopiju. Ārvalstīs izdotus publiskus dokumentus legalizē starptautiskajos līgumos noteiktajā kārtībā, un tiem pievieno notariāli apliecinātu tulkojumu latviešu valodā.
+(2) Pēc grozījumu izdarīšanas kapitālsabiedrības dibināšanas dokumentos (dibināšanas līgumā, statūtos) komercreģistra iestādei iesniedzams grozījumu teksts, kā arī pilns šo dokumentu teksts jaunajā redakcijā.
+(3) Komercreģistra iestādei iesniegtie dokumenti glabājas attiecīgā komersanta komercreģistra lietā.

@@ -1,0 +1,4 @@
+309.pants. Ierobežojumi sabiedrības valdes locekļiem
+(1) Papildus šā likuma 171. un 304.pantā noteiktajiem ierobežojumiem akcionāru sapulce var noteikt, ka valdes loceklis nedrīkst būt darbinieks vai ieņemt vēlētus amatus citā komercsabiedrībā, valsts vai pašvaldības institūcijās, organizācijās un iestādēs.
+(2) Ja valdes loceklis neievēro šā panta pirmās daļas noteikumus, sabiedrība var prasīt no viņa tai nodarīto zaudējumu atlīdzināšanu. Strīdus šādā gadījumā izšķir tiesa.
+(3) Ja sabiedrības intereses saduras ar kāda valdes locekļa, viņa laulātā, radinieka vai svaiņa interesēm, skaitot radniecību līdz otrajai pakāpei un svainību līdz pirmajai pakāpei, jautājumu izlemj valdes sēdē, kurā ieinteresētajam valdes loceklim nav balsstiesību, un tas ierakstāms valdes sēdes protokolā. Valdes loceklim ir pienākums par šīm interesēm paziņot pirms valdes sēdes sākuma. Valdes loceklis, kas pārkāpj šīs prasības, atbild par sabiedrībai nodarītajiem zaudējumiem.

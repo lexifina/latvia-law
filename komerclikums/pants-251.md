@@ -1,0 +1,4 @@
+251.pants. Akcionāra pirmpirkuma tiesības
+(1) Ja pamatkapitālu palielina, apmaksājot akcijas ar naudas ieguldījumu, līdzšinējam akcionāram ir pirmpirkuma tiesības iegādāties jaunās emisijas akcijas proporcionāli viņam jau piederošo akciju nominālvērtību summai.
+(2) Ja pamatkapitāls tiek palielināts, emitējot tikai vienas kategorijas akcijas, citas kategorijas akciju turētāji pirmpirkuma tiesības var izmantot pēc tam, kad pirmpirkuma tiesības pēc proporcionalitātes principa ir izmantojuši akcionāri, kuriem jau pieder attiecīgās kategorijas akcijas.
+(3) Ja visi akcionāri noteiktā termiņā neizmanto savas pirmpirkuma tiesības, jaunās emisijas akcijas pamatkapitāla palielināšanas noteikumos paredzētajā kārtībā vismaz nedēļu piedāvājamas parakstīšanai tiem līdzšinējiem akcionāriem, kuri izmantojuši pirmpirkuma tiesības.

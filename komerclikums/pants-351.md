@@ -1,0 +1,4 @@
+351.pants. Reorganizācijas procesā iesaistīto sabiedrību atbildība
+(1) Iegūstošā sabiedrība atbild par visām pievienojamās un pārveidojamās sabiedrības saistībām.
+(2) Par sadalāmās sabiedrības saistībām, kas radušās līdz reorganizācijas spēkā stāšanās brīdim, atbild solidāri visas sadalīšanā iesaistītās sabiedrības, ieskaitot jaundibinātās sabiedrības. Solidāro parādnieku savstarpējās attiecībās par saistīto subjektu uzskatāma tikai tā persona, kuras saistības paredzētas līgumā.
+(3) Ja kādas sadalīšanā iesaistītās sabiedrības saistības nav noteiktas līgumā, tā atbild solidāri līdz ar citām sadalīšanā iesaistītajām sabiedrībām par sadalāmās sabiedrības saistībām, kuras radušās līdz reorganizācijas spēkā stāšanās brīdim un kuru izpildes termiņš iestājas piecu gadu laikā no reorganizācijas spēkā stāšanās brīža.

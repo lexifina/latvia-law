@@ -1,0 +1,4 @@
+40.pants. Parastā komercpilnvara
+(1) Ja komersants, neizdodot prokūru, pilnvaro kādu citu personu viņa vārdā veikt komercdarbību, slēgt ar komersanta veikto komercdarbību saistītus noteikta veida darījumus vai arī slēgt ar komersanta veikto komercdarbību saistītus atsevišķus darījumus, tāda pilnvara (parastā komercpilnvara) attiecas uz visām tiesiskajām darbībām, kas parasti ir vērstas uz šādas komercdarbības veikšanu vai šādu darījumu slēgšanu.
+(2) Komercpilnvarnieks var nekustamu īpašumu atsavināt, ieķīlāt vai apgrūtināt ar lietu tiesībām, uzņemties vekseļu saistības, ņemt aizdevumus vai pārstāvēt komersantu tiesā tikai tad, ja viņam šādas tiesības ir īpaši piešķirtas.
+(3) Jebkuri citi komercpilnvarniekam piešķirtā pilnvarojuma ierobežojumi ir spēkā attiecībā uz trešo personu tikai tad, ja tā ir zinājusi vai tai vajadzēja zināt par šādiem ierobežojumiem.

@@ -1,0 +1,5 @@
+82.pants. Konkurences aizliegums
+(1) Sabiedrības biedrs bez pārējo biedru piekrišanas nedrīkst slēgt darījumus sabiedrības komercdarbības nozarē vai būt personiski atbildīgs biedrs citā personālsabiedrībā, kura veic tādu pašu komercdarbību.
+(2) Piekrišana šā panta pirmajā daļā minētajai dalībai citā personālsabiedrībā uzskatāma par dotu, ja, dibinot sabiedrību, pārējiem biedriem ir bijusi zināma šāda dalība citā personālsabiedrībā un viņi pret to nav noteikti iebilduši.
+(3) Ja sabiedrības biedrs pārkāpj šā panta pirmās daļas noteikumus, sabiedrībai ir tiesības prasīt zaudējumu atlīdzību vai attiecīgo darījumu atzīšanu par tādiem, kas noslēgti sabiedrības vārdā, un gūtā ienākuma vai prasījuma tiesību uz to nodošanu sabiedrībai. Par šādas prasības celšanu lemj pārējie sabiedrības biedri.
+(4) Šā panta trešajā daļā minētie prasījumi noilgst triju mēnešu laikā no dienas, kad pārējie sabiedrības biedri ir uzzinājuši par konkurences aizlieguma pārkāpumu, bet ne vēlāk kā piecu gadu laikā no pārkāpuma izdarīšanas dienas.

@@ -1,0 +1,4 @@
+128.pants. Komandita atbildības apjoms
+(1) Pēc sabiedrības ierakstīšanas komercreģistrā komandita atbildības apjoms attiecībā uz sabiedrības kreditoriem nosakāms atbilstoši komercreģistrā ierakstītajai viņa ieguldījuma summai.
+(2) Sabiedrības biedru vienošanās, saskaņā ar kuru komandits tiek atbrīvots no ieguldījuma izdarīšanas vai ieguldījuma izdarīšana tiek atlikta, nav spēkā attiecībā uz kreditoriem.
+(3) Ciktāl komandita ieguldījums ir viņam atmaksāts, tas attiecībā uz sabiedrības kreditoriem uzskatāms par neizdarītu. Šis noteikums ir spēkā arī tad, ja komanditam tiek izmaksāta peļņas daļa laikā, kad viņa ieguldījuma (kapitāla) daļa attiecībā pret izdarītā ieguldījuma summu ir samazinājusies zaudējuma rezultātā vai arī ciktāl viņa ieguldījuma (kapitāla) daļa attiecībā pret noteikto ieguldījuma summu ir samazinājusies peļņas daļas izmaksas rezultātā.

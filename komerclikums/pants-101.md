@@ -1,0 +1,2 @@
+101.pants. Sabiedrības biedra izslēgšana, pamatojoties uz viņa kreditora prasību
+Ja sabiedrības biedra kreditoram sešu mēnešu laikā neizdodas apmierināt savu prasījumu, vēršot piedziņu uz sabiedrības biedra mantu, viņam ir tiesības celt tiesā prasību par sabiedrības biedra izslēgšanu no sabiedrības un kreditora prasījuma apmierināšanu no tās summas, kas būtu izmaksājama sabiedrības biedram, ja prasības celšanas brīdī sabiedrība tiktu izbeigta.

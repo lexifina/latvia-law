@@ -1,0 +1,5 @@
+12.pants. Komercreģistra publicitāte
+(1) Ieraksti komercreģistrā ir spēkā attiecībā uz trešajām personām ar to izsludināšanas dienu. Šis noteikums nav piemērojams tiesiskajām darbībām, kas veiktas 15 dienu laikā pēc ieraksta izsludināšanas, ciktāl trešā persona pierāda, ka tā nezināja un nevarēja zināt attiecīgās ziņas.
+(2) Ja komercreģistrā ierakstāmās ziņas nav ierakstītas vai arī ir ierakstītas, bet nav izsludinātas, persona, kuras interesēs šīs ziņas bija jāieraksta, nevar tās izmantot pret trešo personu, izņemot gadījumu, kad trešā persona zināja minētās ziņas.
+(3) Ja komercreģistrā ierakstāmās ziņas ir ierakstītas vai izsludinātas nepareizi, trešā persona attiecībā uz personu, kuras interesēs šīs ziņas bija jāieraksta, var atsaukties uz izsludinātajām ziņām, izņemot gadījumu, kad trešā persona zināja, ka izsludinātās ziņas neatbilst patiesajam tiesiskajam stāvoklim vai komercreģistrā ierakstītajām ziņām.
+(4) Ja komersantam tiek nosūtītas ziņas, dokumenti vai cita korespondence uz komercreģistrā ierakstīto tā juridisko adresi, uzskatāms, ka komersants šos dokumentus, ziņas vai citu korespondenci ir saņēmis.

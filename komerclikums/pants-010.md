@@ -1,0 +1,8 @@
+10.pants. Ieraksta izdarīšana komercreģistrā
+(1) Ieraksts komercreģistrā tiek izdarīts uz ieinteresētās personas pieteikuma vai tiesas nolēmuma pamata. Pieteikumu veidlapas apstiprina Ministru kabinets.
+(2) Personas paraksts uz pieteikuma par komersanta ierakstīšanu komercreģistrā apliecināms notariāli. Tāpat apliecina šo personu rīcībspēju. Speciāls pilnvarojums citai personai parakstīt šo pieteikumu arī apliecināms notariāli.
+(3) Lēmumu par ieraksta izdarīšanu komercreģistrā, atteikumu izdarīt ierakstu vai ieraksta izdarīšanas atlikšanu komercreģistra iestādes amatpersona pieņem triju dienu laikā no pieteikuma saņemšanas dienas. Tādā pašā termiņā komercreģistra iestādes amatpersona pieņem lēmumu par ieraksta izdarīšanu komercreģistrā uz tiesas nolēmuma pamata.
+(4) Lēmumu par atteikumu izdarīt ierakstu komercreģistrā vai ieraksta izdarīšanas atlikšanu var pieņemt vienīgi tajā gadījumā, ja pieteikums vai tam pievienotie dokumenti neatbilst likuma noteikumiem. Lēmumam jābūt motivētam. Lēmumā par ieraksta izdarīšanas atlikšanu norādāms termiņš trūkumu novēršanai.
+(5) Komercreģistra iestādes amatpersona šā panta trešajā daļā minēto lēmumu nosūta pieteikuma iesniedzējam triju dienu laikā no lēmuma pieņemšanas dienas.
+(6) Pieteikuma iesniedzējam ir tiesības pārsūdzēt komercreģistra iestādes amatpersonas lēmumu likumā noteiktajā kārtībā.
+(7) Ieraksts komercreģistrā izdarāms tajā pašā dienā, kad pieņemts lēmums par ieraksta izdarīšanu.

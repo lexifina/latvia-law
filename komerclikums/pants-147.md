@@ -1,0 +1,6 @@
+147.pants. Pamatkapitāla apmaksāšanas kārtība, dibinot sabiedrību
+(1) Dibināšanas līgumā noteiktajā termiņā dibinātāji apmaksā visu līgumā noteikto līdz dibināšanai apmaksājamo pamatkapitālu.
+(2) Dibinātāji uz dibināmās sabiedrības vārda atver bankā kontu, organizē naudas iemaksāšanu tajā un saņem no bankas komercreģistra iestādei adresētu izziņu, kas apliecina līdz dibināšanai apmaksātā pamatkapitāla lielumu.
+(3) Ja dibinātāji neizpilda šā panta pirmajā daļā minēto noteikumu, viņiem jāpārtrauc sabiedrības dibināšana un jārīkojas saskaņā ar šā panta ceturto daļu vai jāslēdz jauns dibināšanas līgums, izdarot nepieciešamos grozījumus statūtos.
+(4) Ja sabiedrība netiek nodibināta, dibinātāji izņem uz dibināmās sabiedrības vārda iemaksāto summu no bankas konta un sadala to atbilstoši saviem ieguldījumiem, izņemot summas, kas saskaņā ar dibināšanas līgumu izlietotas sabiedrības dibināšanas vajadzībām. Sabiedrības dibināšanas izdevumi sedzami proporcionāli katra dibinātāja parakstītā pamatkapitāla lielumam, ja dibināšanas līgumā nav paredzēta cita dibināšanas izdevumu segšanas kārtība.
+(5) Gadījumos, kad sabiedrība netiek nodibināta, strīdus par sabiedrības dibināšanas vajadzībām izlietotajām summām izšķir tiesa.

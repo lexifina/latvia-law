@@ -1,0 +1,3 @@
+132.pants. Komandita atbildība pirms sabiedrības ierakstīšanas komercreģistrā
+(1) Ja sabiedrība ir uzsākusi savus darījumus pirms tās ierakstīšanas komercreģistrā, katrs komandits, kurš piekritis darījumu uzsākšanai, atbild kā komplementārs par sabiedrības saistībām, kas radušās pirms sabiedrības ierakstīšanas komercreģistrā, izņemot gadījumu, kad kreditoram bija zināma viņa kā komandita dalība sabiedrībā.
+(2) Ja komandits iestājas pastāvošā personālsabiedrībā, šā panta pirmās daļas noteikumi attiecīgi piemērojami tām sabiedrības saistībām, kuras radušās laikā starp viņa iestāšanos un viņa kā komandita ierakstīšanu komercreģistrā.

@@ -1,0 +1,5 @@
+284.pants. Akcionāru sapulces lēmumu pieņemšana
+(1) Akcionāru sapulce pieņem lēmumus ar klātesošo balsstiesīgo akcionāru balsu vairākumu, ja likumā nav noteikts lielāks balsu skaits.
+(2) Lēmumus par grozījumu izdarīšanu statūtos, pamatkapitāla izmaiņām, konvertējamo obligāciju emisiju, sabiedrības reorganizāciju un darbības izbeigšanu vai turpināšanu akcionāru sapulce pieņem, ja par tiem nodotas ne mazāk kā trīs ceturtdaļas no klātesošo balsstiesīgo akcionāru balsīm.
+(3) Ja sabiedrībā ir vairākas akciju kategorijas, lēmums jautājumā, kas skar attiecīgās akciju kategorijas akcionāru tiesības, ir pieņemts, ja par to nobalso katras attiecīgās akciju kategorijas akcionāri ar likumā noteikto balsu vairākumu no klātesošajiem akcionāriem katrā šādu akcionāru grupā.
+(4) Akcionāru sapulces lēmums attiecībā uz sabiedrību, tās padomes un valdes locekļiem un akcionāriem ir spēkā ar tā pieņemšanas brīdi, ja šajā lēmumā vai likumā nav noteikts cits lēmuma spēkā stāšanās termiņš.
