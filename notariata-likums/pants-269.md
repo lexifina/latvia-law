@@ -1,0 +1,1 @@
+269. Ja mantojuma lietu uzsācis cits zvērināts notārs, mantošanas iesniegumu kopā ar tam pievienotajiem dokumentiem nekavējoties nosūta mantojuma lietu uzsākušajam zvērinātam notāram un paziņo par to iesniedzējam.

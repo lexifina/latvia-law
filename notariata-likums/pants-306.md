@@ -1,0 +1,1 @@
+306. Ja uzaicinājumā noteiktajā termiņā mantinieki nav pieteikušies vai arī ir atteikušies no mantojuma, zvērināts notārs izbeidz mantojuma lietu un paziņo Finansu ministrijai par bezmantinieka mantu.

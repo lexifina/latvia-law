@@ -1,0 +1,1 @@
+316. Atzīstot mantošanas iesniegumu par pamatotu, zvērināts notārs taisa notariālo aktu par apstiprināšanu mantojuma tiesībās pēc likuma (mantojuma apliecību), kurā norāda, vai iesniedzējs ieguvis visu mantojumu kā vienīgais mantinieks vai arī kā līdzmantinieks noteiktu tā domājamo daļu.

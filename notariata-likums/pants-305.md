@@ -1,0 +1,1 @@
+305. Ja mantinieki iesniedzējam nav zināmi, zvērināts notārs laikrakstā "Latvijas Vēstnesis" izsludina mantojuma atklāšanos, uzaicina mantiniekus, nosakot termiņu atbilstoši šā likuma 297.pantam, un paziņo par to zināmajiem mantiniekiem un Latvijas Zvērinātu notāru padomei iekļaušanai mantojumu reģistrā.

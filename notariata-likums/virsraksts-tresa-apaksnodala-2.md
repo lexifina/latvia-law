@@ -1,2 +1,2 @@
-Trešā sadaļa
+Trešā apakšnodaļa
 Zvērinātu notāru padome un revīzijas komisija

@@ -1,0 +1,1 @@
+297. Sludinājumā zvērināts notārs uzaicina pieteikties visus tos, kuriem kā mantiniekiem, kreditoriem vai kā citādi ir kādas tiesības uz mantojumu. Uzaicinājuma termiņš, ja likumā nav noteikts citādi, nosakāms pēc zvērināta notāra ieskatiem. Tas nedrīkst būt īsāks par trim mēnešiem no uzaicinājuma publicēšanas dienas.

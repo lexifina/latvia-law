@@ -1,0 +1,1 @@
+252. Mantošanas iesniegumu iesniedz zvērinātam notāram, kas praktizē tajā apgabaltiesas darbības teritorijā, kur bija mantojuma atstājēja pēdējā dzīvesvieta, bet, ja tā nav zināma, - pēc mantojamās mantas vai tās galvenās daļas atrašanās vietas.

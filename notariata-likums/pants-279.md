@@ -1,0 +1,1 @@
+279. Paziņojumā norādītajā termiņā testamentārajam mantiniekam ir tiesības iesniegt zvērinātam notāram mantošanas iesniegumu, bet personai, kuras tiesības ar pēdējās gribas rīkojumu ir aizskartas, - iesniegt iebildumus un apstrīdēt testamentu tiesā.

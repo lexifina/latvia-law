@@ -1,2 +1,2 @@
-Otrā sadaļa
+Otrā apakšnodaļa
 Zvērinātu notāru kopsapulce

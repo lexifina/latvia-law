@@ -1,0 +1,1 @@
+271. Zvērināts notārs, kuram glabāšanā nodots pēdējās gribas rīkojuma akts, tiklīdz viņam kļuvis zināms par testatora nāvi, nosaka akta nolasīšanas dienu, paziņo to visiem zināmajiem mantiniekiem un izliek sludinājumu zvērināta notāra prakses vietas telpās visiem redzamā vietā.

@@ -1,0 +1,1 @@
+298. Ja izsludināšana notiek sakarā ar testamenta nolasīšanu, zvērināts notārs ar sludinājumu uzaicina personas, kurām ir iebildumi pret testamentu, pieteikt savas tiesības, norādot, ka pretējā gadījumā testaments tiks atzīts par likumīgā spēkā stājušos.

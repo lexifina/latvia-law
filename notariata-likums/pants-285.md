@@ -1,0 +1,1 @@
+285. Notariālo aktu par pēdējās gribas rīkojuma akta stāšanos likumīgā spēkā zvērināts notārs taisa pēc tam, kad izbeidzies mantojuma atstājēja norādītais termiņš mantojuma pieņemšanai, bet, ja tāds nav norādīts, - paša zvērināta notāra vai likumā noteiktais termiņš mantojuma pieņemšanai.

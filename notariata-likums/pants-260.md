@@ -1,0 +1,1 @@
+260. Mantojuma lietā zvērināts notārs, pamatojoties uz pārdzīvojušā laulātā iesniegumu, taisa apliecinājumu par mantojuma atstājēja laulātā mantas daļu laulāto kopmantā, tas ir, laulāto kopīgajā mantā vai laulāto mantas kopībā (apliecību par laulātā mantas daļu).

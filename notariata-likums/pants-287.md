@@ -1,0 +1,1 @@
+287. Mantojuma apliecība un pēdējās gribas rīkojuma akts ar zvērināta notāra uzrakstu par tā stāšanos likumīgā spēkā tiek cauršūti, apzīmogoti un izsniegti mantiniekam vai testamenta izpildītājam, ja testators nav devis citādu rīkojumu.

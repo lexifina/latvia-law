@@ -1,0 +1,2 @@
+276. Ja saskaņā ar mantojumu reģistra ziņām mantojuma lietu uzsācis cits zvērināts notārs, tas zvērināts notārs, kuram glabāšanā nodots pēdējās gribas rīkojuma akts, informē šo zvērinātu notāru par pēdējās gribas rīkojuma akta nolasīšanas laiku un vietu.
+Pēc pēdējās gribas rīkojuma akta nolasīšanas zvērināts notārs, kuram glabāšanā bija nodots pēdējās gribas rīkojuma akts, izrakstu no notariālo aktu grāmatas par šā akta atvēršanu un nolasīšanu kopā ar pēdējās gribas rīkojumiem ierakstītā vēstulē nosūta mantojuma lietu uzsākušajam zvērinātam notāram.

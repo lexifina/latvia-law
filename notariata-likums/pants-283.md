@@ -1,0 +1,1 @@
+283. Ja pēdējās gribas rīkojuma akts ar tiesas spriedumu atzīts par spēkā neesošu pilnā apjomā, zvērināts notārs aicina likumiskos mantiniekus izteikt gribu par mantojuma pieņemšanu vai tā atraidīšanu.

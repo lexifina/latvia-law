@@ -1,0 +1,1 @@
+294. Izsludināt mantojuma atklāšanos var lūgt mantinieks, persona, kurai ir tiesības mantot pēc mantot aicinātā (substitūts, pēcmantinieks), testamenta izpildītājs, mantojuma aizgādnis un personas, kas pieteikušas pretenzijas uz mantojumu kā legatāri vai kreditori.

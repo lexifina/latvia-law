@@ -1,0 +1,1 @@
+282. Ja zvērināts notārs, kurš ved mantojuma lietu, saņem tiesas paziņojumu, ka celta prasība par pēdējās gribas rīkojuma akta apstrīdēšanu, viņš aptur lietvedību mantojuma lietā līdz strīda izšķiršanai tiesā.

@@ -1,2 +1,2 @@
-Pirmā sadaļa
+Pirmā apakšnodaļa
 Latvijas Zvērinātu notāru kolēģija

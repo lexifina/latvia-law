@@ -1,0 +1,1 @@
+270. Tiklīdz pēdējās gribas rīkojuma akts (testaments, mantojuma līgums) iesniegts, zvērināts notārs, kurš ved mantojuma lietu, nenogaidot lūgumu, nosaka akta nolasīšanas dienu, paziņo to visiem zināmajiem mantiniekiem un izliek sludinājumu zvērināta notāra prakses vietas telpās visiem redzamā vietā.

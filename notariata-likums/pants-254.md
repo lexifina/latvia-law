@@ -1,0 +1,3 @@
+254. Mantošanas iesniegumu, kurā izteikta griba par mantojuma pieņemšanu vai atraidīšanu, zvērināts notārs taisa kā notariālo aktu. Uzsākot mantošanas lietu pēc cita mantošanas iesnieguma, zvērināts notārs šajā likumā noteiktajā kārtībā apliecina iesniedzēja paraksta īstumu.
+Mantošanas iesniegumu jau uzsāktā mantošanas lietā, ja tajā netiek izteikta griba par mantojuma pieņemšanu vai atraidīšanu, zvērināts notārs neapliecina, bet pārliecinās par iesniedzēja identitāti.
+Minēto iesniegumu var apliecināt arī Civillikuma 1474.pantā minētās iestādes vai amatpersonas.

@@ -1,0 +1,2 @@
+300. Sludinājums par mantojuma atklāšanos publicējams laikrakstā "Latvijas Vēstnesis", bet, ja mantojamās mantas vērtība pēc zvērināta notāra rīcībā esošajām ziņām nepārsniedz tūkstoš latus, sludinājums izliekams zvērināta notāra prakses vietas telpās visiem redzamā vietā.
+Par izsludināšanu un sludinājuma saturu zvērināts notārs nekavējoties paziņo viņam zināmām ieinteresētajām personām un Latvijas Zvērinātu notāru padomei iekļaušanai mantojumu reģistrā.

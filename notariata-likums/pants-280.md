@@ -1,0 +1,1 @@
+280. Pēdējās gribas rīkojuma akta oriģināls glabājas tā zvērināta notāra lietās, kurš ved mantojuma lietu. Ieinteresētās personas var ar pēdējās gribas rīkojuma aktu iepazīties, mantiniekiem pēc viņu lūguma var izsniegt tā norakstus ar uzrakstu, ka pēdējās gribas rīkojuma akts ir nolasīts.

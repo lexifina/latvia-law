@@ -1,0 +1,1 @@
+256. Ja iesniegtais mantošanas iesniegums nav apliecināts atbilstoši šā likuma prasībām, zvērināts notārs nekavējoties paziņo iesniedzējam par nepieciešamību iesniegt jaunu, attiecīgi apliecinātu mantošanas iesniegumu.
