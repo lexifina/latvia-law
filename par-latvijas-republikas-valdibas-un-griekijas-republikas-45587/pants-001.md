@@ -1,0 +1,1 @@
+1.pants. 1997.gada 23.jūnijā Helsinkos parakstītais Latvijas Republikas valdības un Grieķijas Republikas valdības nolīgums par pasažieru un kravu starptautiskajiem pārvadājumiem ar autotransportu (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
