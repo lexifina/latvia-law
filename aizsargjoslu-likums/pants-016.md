@@ -1,11 +1,11 @@
 16. pants. Aizsargjoslas gar elektriskajiem tīkliem
 (1) Aizsargjoslas gar visu veidu un jebkuras piederības elektriskajiem tīkliem, to iekārtām un būvēm tiek noteiktas, lai nodrošinātu elektrisko tīklu, to iekārtu un būvju ekspluatāciju un drošību.
 (2) Aizsargjoslām gar elektriskajiem tīkliem ir šāds minimālais platums:
-1) gar elektrisko tīklu gaisvadu līnijām - zemes gabals un gaisa telpa šīs līnijas augstumā, ko norobežo nosacītas vertikālas plaknes katrā pusē no malējā vada elektrisko tīklu gaisvadu līnijām ar nominālo spriegumu:
+1) gar elektrisko tīklu gaisvadu līnijām - zemes gabals, kuru aizņem pazemes iekārtas, kā arī zemes gabals un gaisa telpa šīs līnijas augstumā, ko norobežo nosacītas vertikālas plaknes katrā pusē no malējā vada elektrisko tīklu gaisvadu līnijām ar nominālo spriegumu:
 a) līdz 20 kilovoltiem - 10 metru,
 b) no 20 kilovoltiem līdz 110 kilovoltiem - 20 metru,
 c) virs 110 kilovoltiem - 30 metru;
-2) gar elektrisko tīklu gaisvadu līnijām blīvi apdzīvotās vietās - zemes gabals un gaisa telpa šīs līnijas augstumā, ko norobežo nosacītas vertikālas plaknes katrā pusē no malējā vada elektrisko tīklu gaisvadu līnijām ar nominālo spriegumu:
+2) gar elektrisko tīklu gaisvadu līnijām apdzīvotās vietās - zemes gabals, kuru aizņem šīs iekārtas, kā arī zemes gabals un gaisa telpa šīs līnijas augstumā, ko norobežo nosacītas vertikālas plaknes katrā pusē no malējā vada elektrisko tīklu gaisvadu līnijām ar nominālo spriegumu:
 a) līdz 20 kilovoltiem - 2 metri,
 b) no 20 kilovoltiem līdz 110 kilovoltiem - 4 metri,
 c) virs 110 kilovoltiem - 8 metri;

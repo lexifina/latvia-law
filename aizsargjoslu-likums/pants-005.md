@@ -5,5 +5,6 @@
 2) ūdenstilpju un ūdensteču aizsargjoslas;
 3) aizsargjoslas (aizsardzības zonas) ap kultūras pieminekļiem;
 4) aizsargjoslas ap ūdens ņemšanas vietām;
-5) aizsargjoslas ap kūrortiem;
-6) mežu aizsargjoslas ap pilsētām (zaļās zonas meža parki).
+5) (izslēgts ar 21.02.2003. likumu);
+6) mežu aizsargjoslas ap pilsētām;
+7) aizsargjoslas ap purviem.

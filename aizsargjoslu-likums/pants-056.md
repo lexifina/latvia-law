@@ -1,7 +1,7 @@
 56.pants. Aprobežojumi aizsargjoslās ap gāzes vadiem, gāzes noliktavām un krātuvēm
 (1) Aizsargjoslās ap gāzes vadiem, gāzes noliktavām un krātuvēm papildus šā likuma 35.pantā minētajiem aprobežojumiem tiek noteikti šādi aprobežojumi:
-1) aizliegts izvietot lopbarības, minerālmēslu, pesticīdu, degvielas, eļļošanas materiālu, ķīmisko vielu, kokmateriālu un citu veidu materiālu un vielu glabātavas, izņemot šim nolūkam īpaši paredzētas un iekārtotas vietas;
-2) aizliegts ierīkot atkritumu apglabāšanas poligonus;
+1) aizliegts izvietot lopbarības, minerālmēslu, augu aizsardzības līdzekļu, degvielas, eļļošanas materiālu, ķīmisko vielu un ķīmisko produktu, kokmateriālu un citu veidu materiālu un vielu glabātavas, izņemot šim nolūkam teritoriju plānojumos paredzētās vietas;
+2) aizliegts ierīkot atkritumu apglabāšanas poligonus un atkritumu izgāztuves;
 3) aizliegts izvietot degvielas uzpildes stacijas;
 4) aizliegts aizkraut pievedceļus un pieejas gāzes vadu, gāzes noliktavu un krātuvju objektiem;
 5) aizliegts veikt darbus ar triecienmehānismiem, nomest smagumus, izmest un izliet kodīgas un koroziju izraisošas vielas, degvielu un eļļošanas materiālus, kā arī veikt uguns un liesmu darbus;
@@ -15,4 +15,4 @@ a) celt, kapitāli remontēt, rekonstruēt vai nojaukt jebkuras ēkas un inženi
 b) veikt zemes darbus dziļāk par 0,3 metriem, bet aramzemēs - dziļāk par 0,45 metriem, kā arī grunts planēšanas darbus;
 c) veikt ģeoloģiskos, ģeodēziskos un citus pētniecības darbus, kas saistīti ar urbumu veidošanu un grunts paraugu ņemšanu (izņemot augsnes paraugus);
 d) veikt citus darbus, kas traucē gāzes vadu un uz tiem uzstādīto armatūru apkalpošanu vai bojā tās.
-(2) Gāzes apgādes uzņēmumi, kuriem saskaņā ar likumu "Par uzņēmējdarbības regulēšanu enerģētikā" ir nepieciešama licence, izmanto nekustamo īpašumu aizsargjoslām ap gāzes vadiem, gāzes noliktavām un krātuvēm bez atlīdzības par nekustamā īpašuma īpašniekam, valdītājam vai lietotājam noteikto nekustamā īpašuma lietošanas tiesību aprobežojumu.
+(2) Gāzes apgādes uzņēmumi, kuriem saskaņā ar Enerģētikas likumu ir nepieciešama licence, izmanto nekustamo īpašumu aizsargjoslām ap gāzes vadiem, gāzes noliktavām un krātuvēm bez atlīdzības par nekustamā īpašuma īpašniekam, valdītājam vai lietotājam noteikto nekustamā īpašuma lietošanas tiesību aprobežojumu.

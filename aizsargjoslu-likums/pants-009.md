@@ -1,3 +1,6 @@
 9.pants. Aizsargjoslas ap ūdens ņemšanas vietām
-(1) Aizsargjoslas ap ūdens ņemšanas vietām tiek noteiktas, lai nodrošinātu ūdens resursu saglabāšanos un atjaunošanos, kā arī samazinātu piesārņojuma negatīvo ietekmi uz iegūstamo ūdens resursu kvalitāti.
-(2) Metodikas projektu, pēc kuras nosaka aizsargjoslas ap ūdens ņemšanas vietām, izstrādā Labklājības ministrija pēc saskaņošanas ar Vides aizsardzības un reģionālās attīstības ministriju.
+(1) Aizsargjoslas ap ūdens ņemšanas vietām nosaka, lai nodrošinātu ūdens resursu saglabāšanos un atjaunošanos, kā arī samazinātu piesārņojuma negatīvo ietekmi uz iegūstamo ūdens resursu kvalitāti visā ūdensgūtnes ekspluatācijas laikā (ne mazāk kā uz 25 gadiem).
+(2) Ap ūdens ņemšanas vietām nosaka stingra režīma, kā arī bakterioloģisko un ķīmisko aizsargjoslu. Urbumiem, akām un avotiem, kurus saimniecībā vai dzeramā ūdens ieguvei izmanto savām vajadzībām individuālie ūdens lietotāji (fiziskās personas), aizsargjoslas nenosaka, ja ir veikta labiekārtošana un novērsta notekūdeņu infiltrācija un ūdens piesārņošana.
+(3) Aizsargjoslas ap centralizētās ūdens ņemšanas vietām aprēķina, ņemot vērā ūdens ņemšanas vietas dabiskos apstākļus un prognozējamo ūdens patēriņu.
+(4) Ja centralizētajai ūdensapgādei tiek izmantots gruntsūdeņu (neaizsargāts) ūdens horizonts vai pazemes ūdens krājumu mākslīgas papildināšanas metode, stingrā režīma aizsargjoslu aprēķina tā, lai nodrošinātu ūdens filtrācijas laiku no aizsargjoslas robežas līdz ūdens ieguves urbumiem ne mazāku par gadu.
+(5) Metodikas projektu, pēc kuras nosaka aizsargjoslas ap ūdens ņemšanas vietām, izstrādā Labklājības ministrija pēc saskaņošanas ar Vides aizsardzības un reģionālās attīstības ministriju.

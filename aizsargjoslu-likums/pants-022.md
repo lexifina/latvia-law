@@ -23,4 +23,4 @@ k) ap automobiļu dabasgāzes uzpildes kompresoru stacijām (AGUKS) - 60 metru,
 l) ap sašķidrinātās ogļūdeņražu gāzes balonu noliktavām -10 metru,
 m) ap sašķidrinātās ogļūdeņražu gāzes pazemes cisternu (rezervuāru) grupu iekārtām -10 metru,
 n) pretkorozijas elektroķīmiskās aizsardzības iekārtu anodu zemējumam - 4 metri no zemējuma kontūra.
-(3) Metodikas projektu aizsargjoslu noteikšanai gar gāzes vadiem, gāzes noliktavām un krātuvēm izstrādā Ekonomikas ministrija pēc saskaņošanas ar Iekšlietu ministrijas Ugunsdzēsības un glābšanas dienesta departamentu.
+(3) Metodikas projektu aizsargjoslu noteikšanai gar gāzes vadiem, gāzes noliktavām un krātuvēm izstrādā Ekonomikas ministrija pēc saskaņošanas ar Valsts ugunsdzēsības un glābšanas dienestu.

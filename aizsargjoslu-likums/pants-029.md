@@ -1,6 +1,4 @@
 29.pants. Drošības aizsargjoslu uzdevumi un veidi
-(1) Drošības aizsargjoslas tiek noteiktas ap paaugstināta riska objektiem. Drošības aizsargjoslu galvenais uzdevums ir nodrošināt paaugstināta riska objektu un to tuvumā esošo objektu drošību gan to ekspluatācijas laikā, gan iespējamo avāriju gadījumā, kā arī vides un cilvēku drošību.
-(2) Ir šādas drošības aizsargjoslas:
-1) aizsargjoslas ap naftas un naftas produktu vadiem, noliktavām un krātuvēm;
-2) aizsargjoslas ap karjeriem;
-3) aizsargjoslas ap cita veida paaugstināta riska objektiem.
+Drošības aizsargjoslas nosaka ap naftas, naftas produktu un ķīmisko vielu un produktu vadiem, noliktavām un krātuvēm, ūdens akvatorijās augšpus un lejpus aizsprostiem. Drošības aizsargjoslu galvenais uzdevums ir nodrošināt naftas, naftas produktu un ķīmisko vielu un produktu vadu, noliktavu un krātuvju, aizsprostu un to tuvumā esošo objektu drošību to ekspluatācijas laikā un iespējamo avāriju gadījumā, kā arī vides un cilvēku drošību. Ir šādi drošības aizsargjoslu veidi:
+1) aizsargjoslas ap naftas, naftas produktu un ķīmisko vielu un produktu vadiem, noliktavām un krātuvēm;
+2) aizsargjoslas ūdens akvatorijās augšpus un lejpus aizsprostiem.

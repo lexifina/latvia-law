@@ -1,13 +1,11 @@
 42.pants. Aprobežojumi aizsargjoslās gar autoceļiem un dzelzceļiem
 Aizsargjoslās gar autoceļiem un dzelzceļiem papildus šā likuma 35.pantā minētajam tiek noteikti šādi aprobežojumi:
-1) aizsargjoslās gar autoceļiem aizliegts:
-a) veikt darbības, kuru rezultātā samazinās ceļa pārredzamība vai palielinās aizputināmība,
-b) veikt kailcirtes gar I - III tehniskās kategorijas ceļiem 50 metrus platā joslā,
-c) veikt kailcirtes gar IV tehniskās kategorijas ceļiem 30 metrus platā joslā,
-d) veikt jebkurus celtniecības, montāžas un kalnrūpniecības darbus bez saskaņošanas ar Valsts ceļu dienestu;
+1) lai nodrošinātu autoceļa pārredzamību un transportlīdzekļu satiksmes drošību, aizsargjoslās gar autoceļiem aizliegts:
+a) 30 metru joslā no ceļa malas cirst kokus un izvietot kokmateriālu krautuves, par to rakstveidā neinformējot autoceļa īpašnieku divas nedēļas pirms koku ciršanas uzsākšanas, kā arī ieaudzēt mežu bez saskaņošanas ar autoceļa īpašnieku,
+b) bez autoceļa īpašnieka atļaujas veikt jebkurus būvniecības un derīgo izrakteņu ieguves darbus, kā arī grunts rakšanas un pārvietošanas darbus, izņemot lauksaimniecības vajadzībām nepieciešamos darbus;
 2) aizsargjoslās gar dzelzceļiem aizliegts:
 a) veikt darbības, kuru rezultātā samazinās dzelzceļa pārredzamība vai palielinās aizputināmība,
-b) veikt darbības, kuru rezultātā samazinās ūdens caurteces ierīču ūdens caurlaides spēja,
-c) veikt zemes rakšanas darbus bez saskaņošanas ar komunikāciju īpašniekiem,
+b) veikt darbības, kuru rezultātā pasliktinās hidroloģiskais režīms dzelzceļa aizsargjoslā vai tiek traucēta aizsargjoslas un tai piegulošo vai to šķērsojošo melioratīvo sistēmu un būvju funkcionēšana,
+c) veikt jebkurus būvniecības vai grunts rakšanas un pārvietošanas darbus bez saskaņošanas ar dzelzceļa infrastruktūras pārvaldītāju,
 d) ierīkot gāzes vadus gar sliežu ceļu,
 e) aizkraut pievedceļus un pieejas pie dzelzceļa apkalpošanas objektiem.

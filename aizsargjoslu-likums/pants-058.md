@@ -1,5 +1,4 @@
-58.pants. Aprobežojumi aizsargjoslās ap karjeriem
-Aizsargjoslās ap karjeriem papildus šā likuma 35.pantā minētajiem aprobežojumiem tiek noteikti šādi aprobežojumi:
-1) aizliegts aizkraut pievedceļus un pieejas;
-2) aizliegts veikt darbus ar triecienmehānismiem, nomest smagumus, izmest un izliet kodīgas un koroziju izraisošas vielas, degvielu un eļļošanas materiālus;
-3) aizliegts veikt darbus, kas var izraisīt karjeru applūdināšanu un gruntsūdens līmeņa paaugstināšanos.
+58.pants. Aprobežojumi aizsargjoslās ūdens akvatorijās augšpus un lejpus aizsprostiem
+Aizsargjoslās ūdens akvatorijās augšpus un lejpus aizsprostiem papildus šā likuma 35.pantā minētajam tiek noteikti šādi aprobežojumi:
+1) aizliegts bez aizsprosta īpašnieka īpašas atļaujas iebraukt ar peldošiem līdzekļiem, kā arī zvejot zivis gan no peldošā līdzekļa, gan no ledus, gan no krasta;
+2) aizliegts bez apstiprināta darbu izpildes projekta veikt urbšanas darbus un būvniecības darbus.

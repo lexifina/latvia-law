@@ -1,7 +1,7 @@
 46.pants. Aprobežojumi aizsargjoslās gar siltumtīkliem
 (1) Aizsargjoslās gar siltumtīkliem papildus šā likuma 35.pantā minētajiem aprobežojumiem tiek noteikti šādi aprobežojumi:
 1) aizliegts aizkraut pievedceļus un pieejas siltumtīkliem;
-2) aizliegts ierīkot atkritumu apglabāšanas poligonus;
+2) aizliegts ierīkot atkritumu apglabāšanas poligonus un atkritumu izgāztuves;
 3) aizliegts veikt darbus ar triecienmehānismiem;
 4) aizliegts glabāt un izliet ķīmiski aktīvas, koroziju izraisošas vielas un degvielu;
 5) aizliegts veikt darbus, kas var izraisīt siltumtīklu applūdināšanu un gruntsūdens līmeņa paaugstināšanos;

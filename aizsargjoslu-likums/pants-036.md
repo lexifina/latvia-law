@@ -1,17 +1,22 @@
-36.pants. Aprobežojumi Baltijas jūras un Rīgas jūras līča aizsargjoslā
-(1) Baltijas jūras un Rīgas jūras līča aizsargjoslā tiek noteikti šādi aprobežojumi:
-1) zemes īpašniekiem vai lietotājiem aizliegts traucēt cilvēku brīvu pārvietošanos dabā visā Baltijas jūras un Rīgas jūras līča aizsargjoslā, izņemot pagalmus, augļu un sakņu dārzus, kā arī ar lauksaimniecības kultūrām aizņemtās teritorijas; īpaši aizsargājamās dabas teritorijās, kā arī kultūras un vēstures pieminekļu teritorijās cilvēku pārvietošanos regulē šo teritoriju aizsardzības un izmantošanas noteikumi; pārvietošanos var ierobežot likumos noteiktajā kārtībā mežos ugunsbīstamajā periodā vai citos īpašos gadījumos;
-2) valsts un pašvaldību īpašumā esošo zemi drīkst pārdot tikai ar ikreizēju Ministru kabineta lēmumu, bet valsts īpašumā esošus vai valstij piekrītošus aizsargājamos mežus - saskaņā ar likuma "Par valsts meža izmantošanu" 7.panta noteikumiem, izņemot ostu zemi, kuras pārdošanu regulē "Likums par ostām";
-3) ja, iznomājot valsts vai pašvaldības īpašumā esošo zemi, tiek paredzēta zemes lietojuma veida maiņa, kas nav paredzēta teritoriālplānojumā, ir nepieciešams ikreizējs Ministru kabineta lēmums;
-4) blīvi apdzīvotās vietās minimālā jaunveidojamā zemes īpašuma platība tiek noteikta apbūves noteikumos Ministru kabineta noteiktajā kārtībā, bet ne mazāka par 0,12 hektāru lielu vienlaidu platību, izņemot zemes reformas gaitā likumīgi izveidotos īpašumus;
-5) aizliegts veikt meliorāciju bez saskaņošanas ar vides aizsardzības institūcijām.
-(2) Krasta kāpu aizsargjoslā papildus šā panta pirmajā daļā minētajam aizliegts:
-1) celt jaunas dzīvojamās, saimniecības un ražošanas vai atpūtnieku aprūpei paredzētas ēkas, ierīkot degvielas uzpildes stacijas, kā arī paplašināt esošās šāda tipa ēkas un būves;
-2) izvietot lopbarības glabātavas (izņemot esošos siena šķūņus), minerālmēslu, pesticīdu, degvielas, eļļošanas materiālu, ķīmisko vielu, kokmateriālu un citu veidu materiālu un vielu glabātavas, izņemot šim nolūkam īpaši paredzētas un iekārtotas vietas;
-3) veikt kailcirtes;
-4) veikt meža zemju transformēšanu, izņemot gadījumus, kad to paredz ikreizējs Ministru kabineta lēmums;
-5) iegūt un izmantot derīgos izrakteņus.
-(3) Izņēmuma gadījumā šā panta otrās daļas 1. un 2.punktā minētie darbi atļauti pēc pozitīva ekoloģiskās ekspertīzes atzinuma saņemšanas, ja:
-1) attiecīgās darbības paredzētas apdzīvoto vietu vai teritoriju attīstības ģenerālplānos;
-2) no bijušajiem zemes īpašniekiem vai viņu mantiniekiem saņemts motivēts pieprasījums tāpēc, ka nav iespējams dzīvojamās vai saimniecības ēkas būvēt citā vietā, - ar nosacījumu, ka ir atjaunotas prasītāja īpašumtiesības uz zemi;
-3) attiecīgās darbības saistītas ar ostu attīstību un esošo zvejniecības un zivju pārstrādes uzņēmumu attīstību un rekonstrukciju.
+36.pants. Aprobežojumi Baltijas jūras un Rīgas jūras līča piekrastes aizsargjoslā
+(1) Baltijas jūras un Rīgas jūras līča piekrastes aizsargjoslā tiek noteikti šādi aprobežojumi:
+1) pilsētās un ciemos jaunveidojamā zemes īpašuma platību nosaka vietējās pašvaldības saistošajos noteikumos, paredzot kājāmgājējiem iespēju piekļūt pludmalei;
+2) ja, atsavinot vai iznomājot valsts vai pašvaldības īpašumā esošo zemi, tiek paredzēta zemes lietojuma veida maiņa, kas nav paredzēta teritorijas plānojumā, ir nepieciešams ikreizējs Ministru kabineta lēmums;
+3) aizliegts ierīkot meliorācijas būves bez saskaņošanas ar reģionālo vides pārvaldi.
+(2) Krasta kāpu aizsargjoslā un pludmalē papildus šā panta pirmajā daļā minētajam aizliegts:
+1) celt jaunas dzīvojamās un saimniecības ēkas vietās, kurās nav bijis iepriekšējas apbūves;
+2) celt jaunas ražošanas un sabiedriskās ēkas;
+3) izvietot un ierīkot būves lopbarības glabāšanai (izņemot siena šķūņus bez vienlaidu pamatiem), minerālmēslu, augu aizsardzības līdzekļu, degvielas, eļļošanas materiālu, bīstamo ķīmisko vielu vai ķīmisko produktu, kokmateriālu, kā arī bīstamās ķīmiskās vielas vai ķīmiskos produktus saturošu materiālu glabātavas un degvielas uzpildes stacijas, izņemot atbilstoši teritoriju plānojumiem - ostas teritorijā;
+4) iegūt un izmantot derīgos izrakteņus, izņemot pazemes ūdeņu ieguvi ūdensapgādes vai rekreācijas vajadzībām aizsargjoslā esošai dzīvojamai vai atpūtnieku aprūpei paredzētai ēkai;
+5) ierīkot atkritumu apglabāšanas poligonus un atkritumu izgāztuves;
+6) ar mehāniskajiem transportlīdzekļiem nobraukt no vispārējās lietošanas, uzņēmumu un māju ceļiem, pārvietoties pa pludmali, meža un lauksaimniecības zemēm, ja tas nav saistīts ar šo teritoriju apsaimniekošanu vai uzraudzību;
+7) rīkot publiskus sporta, izklaides vai atpūtas pasākumus, kas nav saskaņoti ar vietējo pašvaldību, bet, ja aizsargjosla atrodas īpaši aizsargājamā dabas teritorijā, - ar šīs teritorijas administrāciju;
+8) novietot speciālās dzīvojamās piekabes ārpus šim nolūkam teritoriju plānojumos paredzētajām vietām;
+(3) Pašvaldības pienākums ir paredzēt teritoriju plānojumos kājāmgājējiem iespēju piekļūt pludmalei, paredzot iezīmētus gājēju celiņus ne tālāk kā viena kilometra attālumā vienu no otra, bet blīvi apdzīvotās vietās - ņemot vērā esošo apbūvi un īpašumu robežas.
+(4) Īpaši aizsargājamās dabas teritorijās, kā arī kultūras un vēstures pieminekļu teritorijās kājāmgājēju pārvietošanos regulē šo teritoriju aizsardzības un izmantošanas noteikumi.
+(5) Šā panta trešajā un ceturtajā daļā minētajos gadījumos pārvietošanos var ierobežot likumā noteiktajā kārtībā mežos ugunsbīstamajā periodā vai citos īpašos gadījumos.
+(6) Krasta kāpu aizsargjoslā papildus šā panta pirmajā un otrajā daļā minētajam aizliegts:
+1) veikt galveno cirti;
+2) veikt meža zemju transformāciju, izņemot gadījumus, kad to paredz ikreizējs Ministru kabineta rīkojums;
+3) kurt ugunskurus ārpus šim nolūkam iekārtotām vietām un māju pagalmiem.
+(7) Šā panta otrās daļas 1. un 2.punktā minētos darbus var veikt, ja ir saņemts Ietekmes uz vidi novērtējuma valsts biroja pozitīvs atzinums vai izdoti tehniskie noteikumi saskaņā ar likuma "Par ietekmes uz vidi novērtējumu" prasībām un ja attiecīgās darbības paredzētas teritoriju plānojumos.

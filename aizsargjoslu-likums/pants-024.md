@@ -3,5 +3,5 @@
 (2) Ir šādi sanitāro aizsargjoslu veidi:
 1) aizsargjoslas ap kapsētām;
 2) aizsargjoslas ap dzīvnieku kapsētām;
-3) aizsargjoslas ap veterinārās uzraudzības objektiem;
-4) aizsargjoslas ap atkritumu apglabāšanas poligoniem, atkritumu uzglabāšanas vietām un ūdens attīrīšanas iekārtām.
+3) (izslēgts ar 21.02.2002. likumu);
+4) aizsargjoslas ap atkritumu apglabāšanas poligoniem, atkritumu izgāztuvēm un notekūdeņu attīrīšanas iekārtām.
