@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Latvijas Republikas ministru kabineta 2004.gada 6.jūlija rīkojums Nr.468 \"Par Valsts civilās aizsardzības plānu\"",
+  "type_of_act": "Ministru kabineta rīkojums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "107",
+  "official_journal_page": null,
+  "official_journal_date": "2004-07-08",
+  "entry_into_force": "2004-07-06",
+  "notification_date": "2005-06-20",
+  "commission_reference": "MNE(2005)51882",
+  "nim_celex": "71989L0618LVA_121882",
+  "nim_id": "121882",
+  "transposes_celex": [
+    "31989L0618"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ad7e5e78-72b2-4aa7-babd-f957359acbd2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
