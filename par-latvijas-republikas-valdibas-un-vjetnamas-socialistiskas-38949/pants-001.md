@@ -1,0 +1,1 @@
+1.pants. 1995.gada 6.novembrī Rīgā parakstītais Latvijas Republikas valdības un Vjetnamas Sociālistiskās Republikas valdības līgums par ieguldījumu veicināšanu un aizsardzību (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
