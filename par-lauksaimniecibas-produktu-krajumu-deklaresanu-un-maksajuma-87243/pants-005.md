@@ -1,0 +1,2 @@
+5.pants. Objektīvie krājumu veidošanās apstākļi
+Par objektīviem krājumu veidošanās apstākļiem atzīstami tādi deklarējamo produktu normālo krājumu aprēķināšanā vērā ņemami apstākļi, attiecībā uz kuriem deklarācijas iesniedzējs rakstveidā var pierādīt, ka tie izveidojušies tādu plānotu ražošanas vai tirdzniecības jaudu palielināšanas pasākumu rezultātā, kuru mērķis nav ļaunprātīgi izmantot Eiropas Savienības un Latvijas ievedmuitas likmju atšķirības un Eiropas Savienības piemērojamās eksporta subsīdijas deklarējamiem produktiem.

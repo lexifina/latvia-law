@@ -1,0 +1,3 @@
+4.pants. Deklarējamo produktu normālais un liekais krājums
+(1) Par deklarējamo produktu normālo krājumu uzskatāms 2002.gada 1.maijā un 2003.gada 1.maijā fiksētā produktu krājuma apjoma vidējais aritmētiskais lielums vai 2003.gada 1.maijā fiksētais produktu krājuma apjoms (ja saimnieciskā darbība uzsākta pēc 2002.gada 1.maija), kam pieskaitīts tas produktu krājuma apjoms, kas radies objektīvu krājumu veidošanās apstākļu rezultātā.
+(2) Deklarējamo produktu lieko krājumu veido 2004.gada 1.maijā deklarācijas iesniedzēja īpašumā esošais produktu krājuma apjoms, kas pārsniedz deklarējamo produktu normālā krājuma apjomu.
