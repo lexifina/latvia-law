@@ -9,5 +9,5 @@ Dibināšanas līgumā jānorāda:
 6) katra uzņēmuma dibinātāja kopējā ieguldījuma vērtība naudas izteiksmē un procentos;
 7) peļņas sadales un zaudējumu atlīdzināšanas kārtība;
 8) dibinātāju apgādībā esošās personas;
-9) citi noteikumi, ko dibinātāji uzskata par būtiskiem un kas nav pretrunā ar likumdošanas aktiem.
+9) citi noteikumi, ko dibinātāji uzskata par būtiskiem un kas nav pretrunā ar normatīvajiem aktiem.
 Dibināšanas līgumu paraksta visi rīcībspējīgie ģimenes locekļi.

@@ -2,3 +2,4 @@
 Individuālā (ģimenes) uzņēmuma reorganizācija vai likvidācija notiek saskaņā ar Latvijas Republikas likumu «Par uzņēmējdarbību».
 Individuālā (ģimenes) uzņēmuma (zemnieka vai zvejnieka saimniecības) reorganizāciju vai likvidāciju veic uzņēmuma īpašnieks vai viņa iecelts likvidators.
 Jautājumu par tāda uzņēmuma reorganizāciju vai likvidāciju, kas dibināts uz ģimenes kopīpašuma bāzes, izšķir pilngadīgie ģimenes locekļi (kopīpašnieki), ievērojot dibināšanas līguma noteikumus vai ģimenes locekļu (kopīpašnieku) noteikto uzņēmuma pārvaldes kārtību.
+Ja likvidācijas gaitā atklājas, ka ar likvidējamā individuālā (ģimenes) uzņēmuma (zemnieka vai zvejnieka saimniecības) mantu nav iespējams pilnībā apmierināt visas likumīgās kreditoru prasības, īpašniekam, kopīpašniekiem vai likvidatoram ir jāziņo par to attiecīgi pārējiem kopīpašniekiem vai īpašniekam un jāiesniedz tiesā pieteikums par maksātnespēju likumā "Par uzņēmumu un uzņēmējsabiedrību maksātnespēju" noteiktajā kārtībā.
