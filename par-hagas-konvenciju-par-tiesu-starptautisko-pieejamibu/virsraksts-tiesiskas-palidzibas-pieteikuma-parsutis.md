@@ -1,0 +1,1 @@
+Tiesiskās palīdzības pieteikuma pārsūtīšanas forma
