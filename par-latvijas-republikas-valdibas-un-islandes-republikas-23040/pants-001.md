@@ -1,0 +1,1 @@
+1.pants. 1998.gada 11.jūnijā Rīgā parakstītais Latvijas Republikas valdības un Islandes Republikas valdības līgums par ieguldījumu veicināšanu un savstarpēju aizsardzību (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
