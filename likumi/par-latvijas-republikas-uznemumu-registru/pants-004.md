@@ -8,7 +8,7 @@ Latvijas Republikas Uzņēmumu reģistrs veic šādas funkcijas:
 6) ziņo attiecīgajām valsts institūcijām par konkrētiem likumpārkāpumiem vai nepatiesu ziņu sniegšanu Uzņēmumu reģistram vainīgo personu saukšanai pie likumā noteiktās atbildības;
 7) pieņem reģistrēšanai uzņēmumu (uzņēmējsabiedrību) pamatdokumentos izdarītos grozījumus;
 8) izdara reģistrācijas ierakstus Uzņēmumu reģistra žurnālā;
-9) izslēdz no Uzņēmumu reģistra uzņēmumus (uzņēmējsabiedrības), izdarot attiecīgu atzīmi Uzņēmumu reģistra žurnālā, ja uzņēmums (uzņēmējsabiedrība) izbeidz savu darbību pēc savas iniciatīvas, pēc tiesas lēmuma vai citos likumā paredzētajos gadījumos;
+9) izslēdz no Uzņēmumu reģistra uzņēmumus (uzņēmējsabiedrības), izdarot attiecīgu atzīmi Uzņēmumu reģistra žurnālā, ja uzņēmums (uzņēmējsabiedrība) izbeidz savu darbību pēc savas iniciatīvas, pēc tiesas lēmuma, pēc Nodokļu administrācijas priekšlikuma, ja nodokļu maksātājs atkārtoti neiesniedz nodokļu likumos noteiktos pārskatus, deklarācijas vai nodokļu aprēķinus, kā arī nav paziņojis par savas darbības pārtraukšanu un nav informācijas par šā maksātāja darbību (par to informējot uzņēmumu (uzņēmējsabiedrību)), vai citos likumā paredzētajos gadījumos;
 10) publicē presē likumos paredzētās ziņas par uzņēmumiem (uzņēmējsabiedrībām);
 11) veic savstarpēju informācijas apmaiņu ar valsts un pašvaldību institūcijām Ministru kabineta noteiktajā kārtībā un veidā;
 12) veic citas likumos paredzētās funkcijas.
