@@ -1,0 +1,1 @@
+1.pants. 1995.gada 26.aprīlī Otavā parakstītā Latvijas Republikas un Kanādas konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
