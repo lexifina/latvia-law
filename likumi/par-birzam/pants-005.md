@@ -1,6 +1,6 @@
 5. pants. Biržas statūti
 Biržas statūtos jānorāda:
-1) biržas specializācija atkarībā no darbības sfēras: preču (arī nekustamā īpašuma), fondu (vērtspapīru un valūtas) vai universālā birža;
+1) biržas specializācija atkarībā no darbības sfēras: preču (arī nekustamā īpašuma) vai universālā birža;
 2) biržas biedru uzņemšanas un izslēgšanas kārtība;
 3) biržas kapitāla veidošanas noteikumi, tā minimālais lielums un daļas nominālvērtība;
 4) biržas biedru un apmeklētāju tiesības un pienākumi;
