@@ -1,0 +1,4 @@
+23. pants. Valsts un pašvaldību zemes pārdošanas kārtība
+(1) Zemi, uz kuru īpašuma tiesības zemesgrāmatā nostiprinātas uz valsts vai pašvaldības vārda, var pārdot tikai izsolē. Bijušie zemes īpašnieki vai viņu mantinieki, ja viņi nav varējuši atgūt savu bijušo īpašumu vai tā vietā saņemt līdzvērtīgu zemi, par izsolē iegūto zemi maksā ar īpašuma kompensācijas sertifikātiem, pārējie pretendenti līdz 1995. gada 31. decembrim - tikai ar īpašuma kompensācijas sertifikātiem, bet pēc 1995. gada 31. decembra - Ministru kabineta noteiktā kārtībā - ar naudu un īpašuma kompensācijas sertifikātiem.
+(2) Valsts un pašvaldību zemes izsoles kārtību nosaka Ministru kabinets.
+(3) Valstij un pašvaldībām jānodrošina zemes pārdošanas atklātums, publicējot attiecīgo informāciju laikrakstā «Latvijas Vēstnesis» un konkrētā rajona laikrakstos.
