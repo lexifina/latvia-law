@@ -1,4 +1,4 @@
-49.pants. Personas izslēgšana no studējošo saraksta
+49.pants. Personas izslēgšana no studējošo saraksta (eksmatrikulācija)
 (1) Personu var izslēgt no studējošo saraksta, ja:
 1) tā pati to vēlas;
 2) noskaidrojas, ka tās uzņemšanu ir ietekmējusi maldināšana, kukuļdošana vai cita rīcība, ar kuru pārkāpts pretendentu vienlīdzības princips;
