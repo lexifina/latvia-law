@@ -1,6 +1,6 @@
 25. pants. Citu garantiju piešķiršana policijas darbiniekam
 Policijas darbiniekam ir tiesības visā Latvijas Republikas teritorijā bez maksas izmantot pilsētas, piepilsētas un vietējās satiksmes valsts un pašvaldību sabiedriskā transporta līdzekļus (izņemot taksometrus), bet lauku apvidū - arī garāmbraucošos transportlīdzekļus. Dzelzceļa transporta policijas darbiniekam ir tiesības arī braukt bez maksas visos vilcienos Latvijas Republikas teritorijā, neaizņemot atsevišķu guļamvietu.
-Policijas darbiniekam ir tiesības ārpus kārtas iekārtot valsts un pašvaldību pirmsskolas bērnu iestādēs savus bērnus sešu mēnešu laikā no lūguma iesniegšanas dienas. Policijas un citu iekšlietu iestāžu darbinieki ar speciālajām dienesta pakāpēm dienesta laikā atrodas daļējā valsts apgādībā. Apgādes nosacījumus un normas nosaka Ministru kabinets.
+Policijas darbiniekam ir tiesības ārpus kārtas iekārtot valsts un pašvaldību pirmsskolas bērnu iestādēs savus bērnus sešu mēnešu laikā no lūguma iesniegšanas dienas.
 Pašvaldības var noteikt arī citus atvieglojumus un garantijas policijas darbiniekam.
 Policijas darbiniekam, kurš nosūtīts vai atrodas dienesta komandējumā, ir tiesības ārpus kārtas iegādāties braukšanas dokumentus jebkura veida transportlīdzekļos, kā arī iekārtoties viesnīcā, uzrādot komandējuma un dienesta apliecību.
 Policijas darbiniekam, kurš dienesta vajadzībām izmanto personisko transportlīdzekli, tā ekspluatācijas izdevumus kompensē no budžeta līdzekļiem.
