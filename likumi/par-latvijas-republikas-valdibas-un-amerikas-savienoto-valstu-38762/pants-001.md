@@ -1,0 +1,1 @@
+1.pants. 1995.gada 20.decembrī Rīgā parakstītais Latvijas Republikas valdības un Amerikas Savienoto Valstu valdības līgums par ekonomisko, tehnisko un ar to saistīto palīdzību (turpmāk - Līgums) un tā 1.pantā minētais saraksts (turpmāk - Saraksts) ar šo likumu tiek pieņemti un apstiprināti.
