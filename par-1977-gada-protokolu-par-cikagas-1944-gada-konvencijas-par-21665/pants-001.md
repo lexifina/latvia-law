@@ -1,0 +1,1 @@
+1.pants. 1977.gada 30.septembrī Monreālā parakstītais Protokols par Čikāgas 1944.gada Konvencijas par starptautisko civilo aviāciju četrvalodīgā teksta autentiskumu (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
