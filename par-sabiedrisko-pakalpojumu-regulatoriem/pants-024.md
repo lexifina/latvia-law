@@ -1,0 +1,5 @@
+24.pants. Sabiedrisko pakalpojumu pieprasījums
+(1) Sabiedrisko pakalpojumu sniedzējam licences darbības zonā jānodrošina sabiedriskie pakalpojumi pēc saņēmēju un citu personu pamatota pieprasījuma, ja šā pakalpojumu sniedzēja finansiālās un objektu vai infrastruktūras tehniskās iespējas to pieļauj.
+(2) Sabiedrisko pakalpojumu sniedzējs izskata sabiedrisko pakalpojumu pieprasījumu, izvērtē tā pamatotību un pieprasīto sabiedrisko pakalpojumu sniegšanai nepieciešamās izmaksas un ne vēlāk kā 30 dienu laikā pēc reģistrēta pieprasījuma saņemšanas informē pieprasītāju par sabiedrisko pakalpojumu sniegšanas uzsākšanu.
+(3) Sabiedrisko pakalpojumu sniedzējs 30 dienu laikā pēc reģistrētā pieprasījuma saņemšanas sniedz pieprasītājam pamatotu rakstveida atteikumu, ja attiecīgo sabiedrisko pakalpojumu sniegšana nav iespējama, un informē par to regulatoru.
+(4) Sabiedrisko pakalpojumu sniedzējs var vienoties ar pieprasītāju, ka tas sedz ar sabiedrisko pakalpojumu sniegšanas uzsākšanu saistītos papildu izdevumus.

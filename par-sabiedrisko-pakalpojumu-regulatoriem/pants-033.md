@@ -1,0 +1,5 @@
+33.pants. Strīdu izskatīšanas kārtība
+(1) Iesniedzējs rakstveidā sniedz regulatoram ziņas par strīda būtību, lietas dalībniekiem un atbildētāju, pret kura darbību tas vēršas, norādot šīs personas adresi. Iesniedzējs pievieno iesniegumam visus tam pieejamos materiālus un dokumentus par strīda jautājumu.
+(2) Regulators izskata strīdu, nodrošinot atklātumu un tiesības lietas dalībniekiem un ieinteresētajām trešajām personām saņemt informāciju un tikt uzklausītām, sniegt paskaidrojumus, iesniegt materiālus un citu savu interešu aizsardzībai un objektīvai strīda izskatīšanai nepieciešamo informāciju.
+(3) Regulators, ja nepieciešams, var pieaicināt neatkarīgus ekspertus atzinuma sniegšanai strīda jautājumos, kā arī pieprasīt dokumentus un materiālus vai cita veida informāciju, kas nepieciešama objektīvai strīda izskatīšanai.
+(4) Ja nepieciešams, regulators visus lietas dalībniekus vai to pārstāvjus var uzaicināt uz sēdi, kurā tiek izskatīts attiecīgais strīds, kā arī pieņemt lēmumu par strīda izšķiršanu bez lietas dalībnieku vai to pārstāvju klātbūtnes.

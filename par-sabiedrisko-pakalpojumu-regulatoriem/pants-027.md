@@ -1,0 +1,3 @@
+27.pants. Sabiedrisko pakalpojumu sniedzēja uzņēmējdarbība brīvas konkurences apstākļos
+(1) Sabiedrisko pakalpojumu sniedzējs ārpus regulējamām nozarēm brīvas konkurences apstākļos var veikt uzņēmējdarbību, kura šā likuma 26.pantā noteiktajā kārtībā jānošķir no darbības sabiedrisko pakalpojumu sniegšanā.
+(2) Sabiedrisko pakalpojumu sniedzējam nav tiesību izmantot tarifu ieņēmumus, lai segtu izmaksas, kas saistītas ar tā uzņēmējdarbību brīvas konkurences apstākļos vai cita veida darbību, kura nav tieši saistīta ar sabiedrisko pakalpojumu sniegšanu, tai skaitā sponsorēšanu, ziedošanu vai labdarību.

@@ -1,0 +1,2 @@
+5.pants. Sabiedrisko pakalpojumu regulēšanas pamatprincipi
+Sabiedriskos pakalpojumus regulē saskaņā ar šo likumu izveidota sabiedrisko pakalpojumu regulēšanas iestāde, kas darbojas neatkarīgi un patstāvīgi, izpildot šajā likumā noteiktās funkcijas, pieņem lēmumus un izdod administratīvos aktus, lai aizstāvētu lietotāju intereses un veicinātu sabiedrisko pakalpojumu sniedzēju attīstību saskaņā ar taisnīguma, atklātības, neitralitātes, vienlīdzības un proporcionalitātes principiem.

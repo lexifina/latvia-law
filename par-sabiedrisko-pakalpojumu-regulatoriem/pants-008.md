@@ -1,0 +1,12 @@
+8.pants. Regulators pašvaldību regulējamās nozarēs
+(1) Pašvaldību regulējamās nozarēs sabiedriskos pakalpojumus saskaņā ar šo likumu un likumu "Par pašvaldībām" regulē attiecīgās pašvaldības izveidota iestāde - regulators.
+(2) Pašvaldības, savstarpēji vienojoties, var izveidot kopīgu pašvaldību regulatoru, kas darbojas uz attiecīgo pašvaldību apstiprināta nolikuma pamata.
+(3) Pašvaldība ar savu lēmumu nosaka regulatora sastāvu un izpildinstitūcijas struktūru.
+(4) Pašvaldība ar savu lēmumu uz četriem gadiem ieceļ amatā regulatora priekšsēdētāju un vismaz divus locekļus. Amata pretendentus pašvaldība izraugās konkursa kārtībā. Vairāku pašvaldību kopīgi izveidota regulatora locekli var iecelt vai nu katra pašvaldība, vai arī kopīgo regulatoru izveidojušo pašvaldību pārstāvju sapulce. Uz pašvaldības regulatora priekšsēdētāju, locekļiem un to kandidātiem ir attiecināmi šā likuma 38.pantā noteiktie ierobežojumi.
+(5) Pašvaldības regulatora priekšsēdētājs un locekļi savā pilnvaru termiņā ir neatceļami. Pašvaldība ar savu lēmumu regulatora priekšsēdētāju vai locekli atceļ no amata pirms noteiktā pilnvaru termiņa beigām vienīgi šādos gadījumos:
+1) ir saņemts attiecīgās personas iesniegums par atkāpšanos no amata;
+2) attiecīgā persona vairāk nekā sešus mēnešus pēc kārtas slimības vai citu iemeslu dēļ nespēj pildīt savus amata pienākumus;
+3) ir atklājies vai iestājies kāds no šā likuma 38.pantā noteiktajiem ierobežojumiem.
+(6) Pašvaldību regulējamās nozarēs regulators savas kompetences ietvaros uzrauga, lai sabiedrisko pakalpojumu sniegšanā šajās nozarēs tiktu ievērots šis likums, kā arī attiecīgo pašvaldību regulējamo nozaru speciālie normatīvie akti.
+(7) Uz regulatora darbību sabiedrisko pakalpojumu regulēšanā pašvaldību regulējamās nozarēs ir attiecināmi visi šā likuma noteikumi, kas reglamentē regulatora darbību, uzdevumus, tiesības, pienākumus un kompetenci, izņemot sabiedrisko pakalpojumu tarifu (cenu) (turpmāk - tarifi) aprēķināšanas metodikas noteikšanu.
+(8) Pašvaldību regulējamās nozarēs tarifu aprēķināšanas metodiku nosaka Ministru kabinets (projektu izstrādā par attiecīgo nozari atbildīgā ministrija) pēc saskaņošanas ar pašvaldībām likumā "Par pašvaldībām" noteiktajā kārtībā, bet tarifus nosaka pašvaldības regulators šajā likumā noteiktajā kārtībā.

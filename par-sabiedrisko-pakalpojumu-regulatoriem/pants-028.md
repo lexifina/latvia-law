@@ -1,0 +1,7 @@
+28.pants. Sabiedrisko pakalpojumu sniedzēja licences darbības zonas pārņemšana
+(1) Regulators pieņem lēmumu par nepieciešamību pārņemt sabiedrisko pakalpojumu sniedzēja licences darbības zonu:
+1) sešus mēnešus iepriekš, ja sabiedrisko pakalpojumu sniedzējam tiks anulēta licence;
+2) ja pēc sešiem mēnešiem beidzas sabiedrisko pakalpojumu sniedzēja licences termiņš un šis pakalpojumu sniedzējs nevēlas turpināt tādu sabiedrisko pakalpojumu sniegšanu, kuriem nepieciešama jauna licence;
+3) ja sabiedrisko pakalpojumu sniedzējs kādu iemeslu dēļ nav spējīgs nodrošināt nepārtrauktus, drošus un kvalitatīvus sabiedriskos pakalpojumus.
+(2) Ja regulators pieņem lēmumu par sabiedrisko pakalpojumu sniedzēja licences darbības zonas pārņemšanu, tas 10 dienu laikā paziņo par to attiecīgās regulējamās nozares atbildīgajai ministrijai vai attiecīgajai pašvaldībai. Attiecīgās regulējamās nozares atbildīgā ministrija vai pašvaldība, kuras administratīvajā teritorijā atrodas sabiedrisko pakalpojumu sniedzējs, uz laiku ieceļ par sabiedrisko pakalpojumu sniedzēja licencē noteiktajiem sabiedriskajiem pakalpojumiem atbildīgo personu tādu pasākumu īstenošanai, lai rosinātu uzņēmumus (uzņēmējsabiedrības) pārņemt sabiedrisko pakalpojumu sniegšanu licences darbības zonā.
+(3) Persona, kas ir atbildīga par sabiedrisko pakalpojumu sniedzēja licencē noteiktajiem sabiedriskajiem pakalpojumiem, informē regulatoru vai pašvaldību par savu uzdevumu izpildi un ir tiesīga izvēlēties izsoles, konkursa vai pretendentu atlases metodes, lai nodrošinātu šajā pantā noteikto darbību īstenošanu.

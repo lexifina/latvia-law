@@ -1,0 +1,1 @@
+2. Sabiedrisko pakalpojumu regulēšanas komisija uzsāk darbību 2001.gada 1.septembrī un līdz 2001.gada 1.oktobrim pārņem no Energoapgādes regulēšanas padomes, Dzelzceļa administrācijas un Satiksmes ministrijas sabiedrisko pakalpojumu regulēšanas funkcijas attiecīgajās valsts regulējamās nozarēs.

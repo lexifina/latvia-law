@@ -1,0 +1,2 @@
+VII nodaļa
+Strīdu izskatīšana

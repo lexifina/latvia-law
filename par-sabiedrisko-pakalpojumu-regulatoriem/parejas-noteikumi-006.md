@@ -1,0 +1,1 @@
+6. Tie tarifi, kuri saskaņā ar šo likumu pielīdzināmi sabiedrisko pakalpojumu tarifiem, bet noteikti saskaņā ar citiem normatīvajiem aktiem un ir spēkā dienā, kad stājas spēkā šis likums, paliek spēkā līdz tiem noteiktā termiņa beigām vai līdz brīdim, kad stājas spēkā saskaņā ar šo likumu noteiktie sabiedrisko pakalpojumu tarifi.
