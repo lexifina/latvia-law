@@ -1,1 +1,1 @@
-60.pants. Speciālu atļauju (licenci) zāļu lieltirgotavas atvēršanai (darbībai) var saņemt juridiskās personas, ja to pamatdarbība ir zāļu izplatīšana un ja atbildīgajam farmaceitam un atbildīgā farmaceita vietniekam ir profesionālās kvalifikācijas sertifikāts.
+60.pants.
