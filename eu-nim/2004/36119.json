@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Satiksmes ministrijas 2004. gada 20. aprīļa noteikumi Nr. 7 \"Noteikumi par jūras kuģu aprīkojumu\"",
+  "type_of_act": "Ministra noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "20",
+  "official_journal_page": null,
+  "official_journal_date": "2005-02-04",
+  "entry_into_force": "2004-04-20",
+  "notification_date": "2005-03-15",
+  "commission_reference": "MNE(2005)56119",
+  "nim_celex": "71996L0098LVA_36119",
+  "nim_id": "36119",
+  "transposes_celex": [
+    "31996L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d0467b02-69f4-4046-b859-7f45943f12c0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
