@@ -1,0 +1,1 @@
+5.pants. Ārlietu ministrija informē Starptautiskās jūrniecības organizācijas ģenerālsekretāru saskaņā ar Protokola III panta prasībām. Satiksmes ministrija nodrošina nepieciešamo informāciju minēto prasību izpildei.

@@ -1,0 +1,1 @@
+1.pants. 1974.gada 1.novembrī Londonā parakstītās Starptautiskās konvencijas par cilvēka dzīvības aizsardzību uz jūras 1988.gada protokols, tā pielikums un papildinājums (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.

@@ -1,0 +1,1 @@
+4.pants. Atbildīgā institūcija, kas nodrošina Protokolā minēto pasākumu izpildi cilvēka dzīvības aizsardzībai uz jūras, ir bezpeļņas organizācija valsts akciju sabiedrība "Latvijas Jūras administrācija".
