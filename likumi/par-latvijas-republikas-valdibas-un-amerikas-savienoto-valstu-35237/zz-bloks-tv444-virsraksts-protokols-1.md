@@ -1,0 +1,1 @@
+Puses apliecina savu kopējo izpratni attiecībā uz Pielikuma 3. punktā minēto "zemes piederību un kontroli" par to, ka spēkā esošā Latvijas likumdošana atļauj ārvalstu ieguldītājiem iegūt īpašumā un kontrolēt zemi pilsētu teritorijās, kuras nosaka Latvijas Republikas likumdošana.

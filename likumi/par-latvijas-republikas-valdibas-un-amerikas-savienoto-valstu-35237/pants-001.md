@@ -1,0 +1,1 @@
+1.pants. 1995.gada 13.janvārī Vašingtonā parakstītais Latvijas Republikas valdības un Amerikas Savienoto Valstu valdības līgums par ieguldījumu veicināšanu un savstarpēju aizsardzību (turpmāk - Līgums, kā arī tā pielikums un protokols ar šo likumu tiek pieņemti un apstiprināti.
