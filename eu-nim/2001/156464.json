@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Finansu un kapitāla tirgus komisijas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "230/232",
+  "official_journal_page": null,
+  "official_journal_date": "2000-06-20",
+  "entry_into_force": "2001-07-01",
+  "notification_date": "2008-06-20",
+  "commission_reference": "MNE(2008)53551",
+  "nim_celex": "72004L0113LVA_156464",
+  "nim_id": "156464",
+  "transposes_celex": [
+    "32004L0113"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4dae91b4-2475-4fb7-80f9-c5f95160b231",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
