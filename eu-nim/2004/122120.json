@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2004.gada 12.oktobra noteikumi nr. 852 \"Darba aizsardzības prasības darbā ar azbestu\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "164",
+  "official_journal_page": null,
+  "official_journal_date": "2004-10-15",
+  "entry_into_force": "2004-10-16",
+  "notification_date": "2005-06-27",
+  "commission_reference": "MNE(2005)52120",
+  "nim_celex": "71987L0217LVA_122120",
+  "nim_id": "122120",
+  "transposes_celex": [
+    "31987L0217"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/36e99c65-4f2c-4bbe-9b3e-7c7114c8d1d2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
