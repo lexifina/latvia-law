@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 1998. gada 21. jūlija noteikumi Nr.256 „Latvijas būvnormatīvs LBN 221-98 “Ēku iekšējais ūdensvads un kanalizācija”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "219/220 (1280/1981)",
+  "official_journal_page": null,
+  "official_journal_date": "1998-07-28",
+  "entry_into_force": "1998-08-01",
+  "notification_date": "2015-06-11",
+  "commission_reference": "MNE(2015)54329",
+  "nim_celex": "72012L0027LVA_227348",
+  "nim_id": "227348",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2df7c04f-ae1e-4e46-8945-91526dd650f1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
