@@ -1,0 +1,1 @@
+1.pants. 1924.gada 25.augustā Briselē parakstītā Starptautiskā konvencija par dažu konosamenta noteikumu unifikāciju (Hāgas noteikumi) (turpmāk - Konvencija), tās 1968.gada protokols (Visbijas protokols) un 1979.gada protokols (SDR protokols) ar šo likumu ir pieņemti un apstiprināti.

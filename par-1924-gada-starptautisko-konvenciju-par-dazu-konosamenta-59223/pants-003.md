@@ -1,0 +1,1 @@
+3.pants. Konvencija stājas spēkā tās 14.pantā noteiktajā laikā un kārtībā, 1968.gada protokols (Visbijas protokols) stājas spēkā tā 13.pantā noteiktajā laikā un kārtībā un 1979.gada protokols (SDR protokols) - tā VIII pantā noteiktajā laikā un kārtībā, un par to Ārlietu ministrija paziņo laikrakstā "Latvijas Vēstnesis".

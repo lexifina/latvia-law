@@ -1,0 +1,1 @@
+2.pants. Likums stājas spēkā tā izsludināšanas dienā. Līdz ar likumu izsludināma Konvencija angļu valodā un tās tulkojums latviešu valodā, 1968.gada protokols (Visbijas protokols) angļu valodā un tā tulkojums latviešu valodā, 1979.gada protokols (SDR protokols) angļu valodā un tā tulkojums latviešu valodā.
