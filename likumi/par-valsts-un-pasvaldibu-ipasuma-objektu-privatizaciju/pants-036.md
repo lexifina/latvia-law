@@ -1,2 +1,4 @@
-36. pants. Privatizējamā pašvaldības īpašuma objekta novērtēšana
-Privatizējamais pašvaldības īpašuma objekts jānovērtē saskaņā ar likumu «Par privatizējamo valsts un pašvaldību īpašuma objektu novērtēšanas kārtību».
+36. pants. Privatizējamā pašvaldības īpašuma objekta novērtēšana un kreditoru saistību ievērošana
+1. Privatizējamais pašvaldības īpašuma objekts jānovērtē saskaņā ar likumu "Par privatizējamo valsts un pašvaldību īpašuma objektu novērtēšanas kārtību" (Latvijas Vēstnesis, 1994, 25.nr.).
+2. Pēc šā likuma 34.panta ceturtajā daļā minētā termiņa izbeigšanās savas pretenzijas nepieteikušie kreditori, to skaitā valsts un pašvaldību institūcijas, kas atbild par valsts un pašvaldību nodokļu un nodevu samaksas uzskaiti un kontroli, nevar prasīt, lai tiktu grozīta pašvaldības īpašuma objekta privatizācijas projektā noteiktā privatizējamā objekta nosacītā cena un jaunajam objekta īpašniekam nododamo tiesību un saistību kopums.
+3. Privatizācijas komisijai, veicot objekta novērtēšanu un nosakot tā nosacīto cenu, kā arī nosakot jaunajam objekta īpašniekam nododamo tiesību un saistību kopumu, jāņem vērā privatizējamā pašvaldības uzņēmuma vai uzņēmējsabiedrības grāmatvedības reģistros fiksētie parādi neatkarīgi no tā, vai kreditori pretenzijas ir pieteikuši vai nav pieteikuši.

@@ -7,10 +7,10 @@
 5) ziņas par personām, kas nomā objektu vai tā daļu, un šo nomas līgumu termiņiem;
 6) objekta nosacītā cena;
 7) objekta privatizācijas paņēmiens;
-8) pamatkapitāla sadale pa akciju veidiem un kategorijām akciju sabiedrībās un pa pircēju grupām, ja par privatizācijas paņēmienu izraudzīta īpašuma objekta pārveidošana statūtsabiedrībā ar vienlaicīgu kapitāla daļu pārdošanu;
+8) akciju sabiedrības pamatkapitāla sadale pa akciju veidiem un kategorijām un pa pircēju grupām;
 9) objekta privatizācijas pasākumu veikšanas kārtība;
 10) privatizācijas subjektu pirmpirkuma tiesību realizācijas nosacījumi un kārtība;
-11) kapitāla daļu realizācijas kārtība, ja par privatizācijas paņēmienu izraudzīta privatizējamā īpašuma objekta pārveidošana statūtsabiedrībā ar vienlaicīgu kapitāla daļu pārdošanu;
+11) kapitāla daļu realizācijas kārtība;
 12) paredzētā pretendentu atlases kārtība un kritēriji;
 13) paredzētā maksāšanas kārtība;
 14) jaunajam objekta īpašniekam nododamo tiesību un saistību kopums;
@@ -22,4 +22,4 @@
 2. Privatizācijas noteikumiem jāpievieno objekta īpašuma tiesības apliecinošu dokumentu noraksti.
 3. Ja Privatizācijas aģentūra par privatizācijas paņēmienu izvēlējusies izsoli ar pretendentu atlasi, valsts īpašuma objekta privatizācijas noteikumi vienlaikus ir arī izsoles pretendentu atlases noteikumi.
 4. Ja Privatizācijas aģentūra par privatizācijas paņēmienu izvēlējusies piedāvājumu konkursu, valsts īpašuma objekta privatizācijas noteikumi vienlaikus ir arī privatizējamā objekta piedāvājumu konkursa noteikumi.
-5. Apstiprinot valsts uzņēmuma privatizācijas noteikumus, Privatizācijas aģentūrai jāuzaicina privatizējamā uzņēmuma darbinieku arodu organizācijas pārstāvis, bet, ja privatizējamā uzņēmumā nav arodu organizācijas, - privatizējamā uzņēmuma darbinieku pārstāvis.
+5. Apstiprinot valsts uzņēmuma vai uzņēmējsabiedrības privatizācijas noteikumus, Privatizācijas aģentūrai jāuzaicina privatizējamā uzņēmuma vai uzņēmējsabiedrības darbinieku arodu organizācijas pārstāvis, bet, ja privatizējamā uzņēmumā vai uzņēmējsabiedrībā nav arodu organizācijas, - privatizējamā uzņēmuma vai uzņēmējsabiedrības darbinieku pārstāvis.

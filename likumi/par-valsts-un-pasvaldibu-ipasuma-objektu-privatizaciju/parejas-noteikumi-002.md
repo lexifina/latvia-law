@@ -1,2 +1,4 @@
-2. Valsts īpašuma objekta privatizācija tiek veikta saskaņā ar likumiem, kas bija spēkā valsts īpašuma objekta privatizācijas projekta apstiprināšanas dienā. Ja nozares ministrija nav apstiprinājusi valsts īpašuma objekta privatizācijas projektu līdz šā likuma spēkā stāšanās dienai vai lēmumu par valsts īpašuma objekta privatizācijas projekta apstiprināšanu trīs nedēļu laikā pēc šā likuma spēkā stāšanās dienas apturējusi Ekonomikas ministrija, attiecīgais valsts īpašuma objekts privatizējams saskaņā ar šā likuma noteikumiem.
-Ja valsts īpašuma objektu paredzēts privatizēt, pārdodot to piedāvājumu konkursā, šā objekta privatizācija tiek veikta saskaņā ar likumiem, kas bija spēkā piedāvājumu konkursa nolikuma apstiprināšanas dienā.
+2. Atzīt par spēku zaudējušiem šādus likumus:
+2.1. "Par piena pārstrādes uzņēmumu privatizāciju";
+2.2. "Par gaļas pārstrādes uzņēmumu privatizāciju";
+2.3. "Par maizes ražošanas valsts (pašvaldību) uzņēmumu privatizāciju".

@@ -1,4 +1,4 @@
 42. pants. Privatizācijas subjektu pirmpirkuma tiesību realizācija
 1. Privatizācijas subjekti, kuriem ir pirmpirkuma tiesības (35. pants), var brīvi izvēlēties - iesniegt vai neiesniegt pašvaldības īpašuma objekta privatizācijas projektu.
-2. Ne vēlāk kā mēneša laikā pēc pašvaldības īpašuma objekta privatizācijas projekta apstiprināšanas dienas pašvaldība piedāvā privatizācijas subjektiem, kuriem ir pirmpirkuma tiesības, noslēgt privatizējamā objekta pirkuma līgumu ar tādiem pašiem nosacījumiem, kādi paredzēti apstiprinātajā pašvaldības īpašuma objekta privatizācijas projektā.
+2. Ne vēlāk kā nedēļas laikā pēc pašvaldības īpašuma objekta privatizācijas projekta apstiprināšanas dienas pašvaldība piedāvā privatizācijas subjektiem, kuriem ir pirmpirkuma tiesības, noslēgt privatizējamā objekta pirkuma līgumu ar tādiem pašiem nosacījumiem, kādi paredzēti apstiprinātajā pašvaldības īpašuma objekta privatizācijas projektā.
 3. Privatizācijas subjektiem, kuriem ir pirmpirkuma tiesības, jādod atbilde divu nedēļu laikā. Ja privatizācijas subjekti, kuriem ir pirmpirkuma tiesības, nedod atbildi noteiktajā termiņā, viņu pirmpirkuma tiesības izbeidzas.

@@ -9,7 +9,7 @@
 5) pārveidojot statūtsabiedrībā un vienlaikus pārdodot šīs sabiedrības kapitāla daļas;
 6) pārdodot valsts vai pašvaldības statūtsabiedrības kapitāla daļas;
 7) pārdodot kapitāla daļas, kas pieder valstij vai pašvaldībai statūtsabiedrībā, kurā ir privātais kapitāls;
-8) likvidējot valsts vai pašvaldības uzņēmumu vai uzņēmējsabiedrību un pārdodot atsevišķi šā uzņēmuma vai uzņēmējsabiedrības kustamo un nekustamo mantu.
+8) likvidējot valsts vai pašvaldības uzņēmumu vai uzņēmējsabiedrību.
 4. Kārtību, kādā īpašuma objekts pārveidojams statūtsabiedrībā, un šīs statūtsabiedrības daļu pārdošanas kārtību nosaka likums «Par valsts un pašvaldību uzņēmumu pārveidošanu statūtsabiedrībās».
 5. Valsts un pašvaldību statūtsabiedrību kapitāla daļu pārdošanas kārtību nosaka likums «Par valsts un pašvaldību uzņēmumu pārveidošanu statūtsabiedrībās».
 6. Kārtību, kādā pārdodamas kapitāla daļas, kas pieder valstij vai pašvaldībām statūtsabiedrībās, kurās ir privātais kapitāls, regulē šā likuma V daļas noteikumi.

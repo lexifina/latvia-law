@@ -1,1 +1,1 @@
-3. Valsts īpašuma objekti, kuri līdz šā likuma spēkā stāšanās dienai iekļauti Ministru kabineta vai tā pilnvarotas institūcijas apstiprinātā privatizējamo valsts īpašuma objektu (uzņēmumu) sarakstā, privatizējami vienīgi šo noteikumu 2. punktā minētajos gadījumos.
+3. Izdarīt Augstākās Padomes 1993.gada 11.maija lēmumā "Par Latvijas Republikas likuma "Par cukuru" spēkā stāšanās kārtību" grozījumu un svītrot 5.punktu.
