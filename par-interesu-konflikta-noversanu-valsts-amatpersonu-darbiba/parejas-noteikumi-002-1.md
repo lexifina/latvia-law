@@ -1,0 +1,1 @@
+2.¹ Valsts ieņēmumu dienests turpina un pabeidz pārbaudīt tās deklarācijā norādītās ziņas, kuras liecina par šajā likumā paredzēto ierobežojumu pārkāpšanu, ja minētās pārbaudes Valsts ieņēmumu dienests ir sācis līdz 2003.gada 1.februārim, kad Korupcijas novēršanas un apkarošanas birojs sāk pildīt savas funkcijas pilnā apjomā.
