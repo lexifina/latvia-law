@@ -1,0 +1,1 @@
+1.pants. 1998.gada 9.aprīlī Rīgā parakstītais Latvijas Republikas valdības un Slovākijas Republikas valdības nolīgums par gaisa satiksmi (turpmāk - Nolīgums) un tā pielikums (turpmāk - Pielikums) ar šo likumu tiek pieņemts un apstiprināts.
