@@ -1,0 +1,3 @@
+112. pants. Atbildība par personu pārvadāšanu no ārvalstīm uz Latvijas Republiku vai no Latvijas Republikas uz ārvalstīm bez ieceļošanai attiecīgajā valstī derīgiem dokumentiem
+Gaisa kuģa ekspluatants ir atbildīgs par to, lai no ārvalstīm uz Latvijas Republiku vai no Latvijas Republikas uz ārvalstīm netiktu pārvadātas personas bez ieceļošanai attiecīgajā valstī derīgiem dokumentiem.
+Gaisa kuģa ekspluatants, kas no ārvalstīm uz Latvijas Republiku vai no Latvijas Republikas uz ārvalstīm nogādājis personu bez ieceļošanai attiecīgajā valstī derīgiem dokumentiem, nodrošina minētās personas nogādāšanu atpakaļ un sedz visus ar tās aizturēšanu saistītos izdevumus.
