@@ -1,4 +1,4 @@
-69. (1) Runātāji runā no tribīnes.
+69. (1) Runātāji runā no tribīnes, izņemot gadījumu, ja runātājs ir persona, kurai apgrūtināta pārvietošanās.
 (2) Deputāts pēc rakstveida pieteikuma vai, paceļot roku, var runāt no savas vietas sēžu zālē:
 1) par Saeimas kārtības ruļļa neievērošanu vai pārkāpšanu;
 2) par kārtību, kādā lieta virzāma tālāk;
