@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2004. gada 22. aprīļa noteikumi Nr. 377 \"Noteikumi par lejamkravu pārvadāšanu cisternās un bunkura pusvagonos\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "66",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-28",
+  "entry_into_force": "2004-04-29",
+  "notification_date": "2005-05-25",
+  "commission_reference": "MNE(2005)50987",
+  "nim_celex": "71996L0049LVA_120987",
+  "nim_id": "120987",
+  "transposes_celex": [
+    "31996L0049",
+    "31996L0087",
+    "31999L0048",
+    "32000L0062",
+    "32001L0006",
+    "32003L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/81b10460-69cc-45e7-aef2-00f46fe7414a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
