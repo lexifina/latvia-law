@@ -1,0 +1,1 @@
+31. Personām, kuras izmantojušas priekšlaicīgās pensionēšanās iespējas, laikā, kad tās kļuvušas par obligāti sociāli apdrošināmajām personām (darba ņēmējiem vai pašnodarbinātajiem), vecuma pensija nav izmaksājama līdz šā likuma 11.panta pirmajā daļā noteiktā vecuma sasniegšanai (ievērojot šo pārejas noteikumu 8.punktu).

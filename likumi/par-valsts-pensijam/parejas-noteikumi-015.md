@@ -1,1 +1,5 @@
-15. Līdz 2002.gadam valsts pensijas, kuru apmērs nepārsniedz trīs minimālās darba algas, pārskatāmas reizi gadā Ministru kabineta noteiktajā kārtībā, ņemot vērā faktisko patēriņa cenu indeksu.
+15. Līdz 2005.gada 31.decembrim valsts pensijas, kuru apmērs nepārsniedz pieckāršu valsts sociālā nodrošinājuma pabalstu, pārskatāmas ik gadu, bet, ja inflācija pārsniedz 5 procentus gadā, - ik pēc pusgada, ņemot vērā faktisko patēriņa cenu indeksu un apdrošināšanas iemaksu algas reālā pieauguma indeksu šādā kārtībā:
+valsts pensijas, kuru apmērs nepārsniedz trīskāršu valsts sociālā nodrošinājuma pabalstu, pārskatāmas, ņemot vērā faktisko patēriņa cenu indeksu un ne mazāk kā 25 procentus no apdrošināšanas iemaksu algas reālā pieauguma indeksa;
+valsts pensijas, kuru apmērs pārsniedz trīskāršu valsts sociālā nodrošinājuma pabalstu, bet nepārsniedz pieckāršu valsts sociālā nodrošinājuma pabalstu, pārskatāmas, ņemot vērā faktisko patēriņa cenu indeksu.
+No 2006.gada 1.janvāra līdz 2010.gada 31.decembrim valsts pensijas, kuru apmērs nepārsniedz pieckāršu valsts sociālā nodrošinājuma pabalstu, pārskatāmas ik gadu, ņemot vērā faktisko patēriņa cenu indeksu un ne mazāk kā 25 procentus no apdrošināšanas iemaksu algas reālā pieauguma indeksa.
+Pārskatot valsts pensijas, tiek pārskatīts piešķirtās pensijas apmērs.

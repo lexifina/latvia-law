@@ -1,0 +1,1 @@
+29. Līdz 2005.gada 1.jūlijam personām, kuru apdrošināšanas stāžs nav mazāks par 30 gadiem, divus gadus pirms šā likuma 11.panta pirmajā daļā noteiktā vecuma sasniegšanas (ievērojot šo pārejas noteikumu 8.punktu) ir tiesības vecuma pensiju pieprasīt priekšlaicīgi, bet vīriešiem - ne agrāk kā no 60 gadu vecuma.

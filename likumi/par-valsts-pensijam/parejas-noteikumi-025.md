@@ -1,1 +1,0 @@
-25. Sievietēm, kuru apdrošināšanas stāžs nav mazāks par 30 gadiem, divus gadus pirms šā likuma 11.panta pirmajā daļā noteiktā vecuma sasniegšanas (ievērojot pārejas noteikumu 8.punktu) ir tiesības vecuma pensiju pieprasīt priekšlaicīgi.

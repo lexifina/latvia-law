@@ -1,4 +1,4 @@
-10. Desmit gadus piešķirot pensiju šajā likumā noteiktajā kārtībā, tās aprēķināšanai uzkrātais pensijas kapitāls indeksējams pēc šajā punktā noteiktajiem koeficientiem šādos gadījumos:
+10. Piešķirot pensiju šajā likumā noteiktajā kārtībā (ievērojot nosacījumus, kādi norādīti šā punkta 1.apakšpunktā), tās aprēķināšanai uzkrātais pensijas kapitāls līdz 2006.gadam indeksējams pēc šajā punktā noteiktajiem koeficientiem šādos gadījumos:
 1) to tiesību kompensēšanai, kas līdz šā likuma spēkā stāšanās dienai bija noteiktas 1990.gada 29.novembra likuma "Par valsts pensijām" 9.- 11.pantā un 12.panta 1. un 2.punktā, ja nav sasniegts 62 gadu vecums un ievēroti šādi nosacījumi:
 Kategorijas un nosacījumi
 Koeficients vīriešiemKoeficients sievietēm
@@ -8,4 +8,5 @@ Liliputi, punduri un neredzīgie ar apdrošināšanas stāžu ne mazāku: vīrie
 Personas, kuras ir strādājušas darbos ar sevišķi kaitīgiem un sevišķi smagiem darba apstākļiem, ar apdrošināšanas stāžu ne mazāku: vīriešiem - par 20 gadiem, sievietēm - par 15 gadiem, ja vismaz ceturtā daļa no tiem nostrādāti darbos ar sevišķi kaitīgiem un sevišķi smagiem darba apstākļiem1,21,22
 Personas, kuras ir strādājušas darbos ar kaitīgiem un smagiem darba apstākļiem, ar apdrošināšanas stāžu ne mazāku: vīriešiem - par 25 gadiem, sievietēm - par 20 gadiem, ja vismaz ceturtā daļa no tiem nostrādāti darbos ar kaitīgiem un smagiem darba apstākļiem1,091,1
 2) piešķirot apgādnieka zaudējuma pensiju bērniem, kas pēc Černobiļas AES avārijas dzimuši tās seku likvidēšanas dalībnieku ģimenēs, pensijas aprēķināšanai mirušā apgādnieka iespējamais pensijas kapitāls indeksējams ar koeficientu 1,1;
-3) piešķirot vecuma pensiju politiski represētajām personām ar apdrošināšanas stāžu vīriešiem - ne mazāku par 25 gadiem, sievietēm - ne mazāku par 20 gadiem, to uzkrātais pensijas kapitāls indeksējams ar koeficientu 1,1.
+3) piešķirot vecuma pensiju politiski represētajām personām ar apdrošināšanas stāžu vīriešiem - ne mazāku par 25 gadiem, sievietēm - ne mazāku par 20 gadiem, to uzkrātais pensijas kapitāls indeksējams ar koeficientu 1,1;
+4) sakarā ar politiski represētās personas statusa iegūšanu piešķirtā valsts pensija pārrēķināma, ņemot vērā papildus pierādīto apdrošināšanas stāžu un ievērojot šā punkta 3.apakšpunktā vai 16.punkta 7.apakšpunktā noteikto. Pensija pārrēķināma šā likuma 25.panta otrās daļas 1.punktā noteiktajos termiņos.
