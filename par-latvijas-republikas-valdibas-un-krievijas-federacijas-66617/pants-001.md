@@ -1,0 +1,1 @@
+1.pants. 2002.gada 22.aprīlī Rīgā parakstītais Latvijas Republikas valdības un Krievijas Federācijas valdības līgums par sadarbību un savstarpējo palīdzību muitas lietās (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
