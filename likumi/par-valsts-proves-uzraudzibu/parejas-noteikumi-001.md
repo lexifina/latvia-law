@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Ministru kabineta 1994.gada 30.augusta noteikumi nr.172 "Par valsts proves uzraudzību" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 19.nr.).
