@@ -1,1 +1,1 @@
-3. Ar šā likuma spēkā stāšanās dienu aizliegts atsavināt vai ieķīlāt valsts un pašvaldību dzīvojamās mājas, kā arī valsts un pašvaldību uzņēmējsabiedrību pamatkapitālā iekļautās dzīvojamās mājas, kurās esošie dzīvokļi tiek izīrēti un neapdzīvojamās telpas tiek iznomātas.
+3. Ar šā likuma spēkā stāšanās dienu aizliegts atsavināt vai ieķīlāt valsts un pašvaldību dzīvojamās mājas vai to daļas, kā arī valsts un pašvaldību uzņēmējsabiedrību pamatkapitālā iekļautās dzīvojamās mājas vai to daļas, kurās esošie dzīvokļi tiek izīrēti un neapdzīvojamās telpas tiek iznomātas.

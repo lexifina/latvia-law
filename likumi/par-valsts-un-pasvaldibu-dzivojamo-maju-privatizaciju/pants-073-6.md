@@ -1,7 +1,9 @@
-73.⁶ pants. Rīcība ar īpašumā nodoto dzīvokli līdz dzīvojamās mājas privatizācijai
-(1) Persona, kura ieguvusi dzīvokli īpašumā līdz dzīvojamās mājas privatizācijai, atzīstama par dzīvokļa īpašnieku no brīža, kad dzīvoklis un tā īpašnieks reģistrēti Kadastra reģistrā.
-(2) Dzīvokļa īpašnieka tiesības, pienākumus un atbildību, kā arī viņa ģimenes locekļu un citu dzīvoklī iemitināto personu statusu reglamentē likums "Par dzīvokļa īpašumu" tiktāl, ciktāl tas nav pretrunā ar šo likumu.
-(3) Ikviens, kurš darījuma noslēgšanas vai mantošanas rezultātā ieguvis īpašumā dzīvokli līdz dzīvojamās mājas privatizācijai, atzīstams par šā dzīvokļa īpašnieku tad, ja ir reģistrēts Kadastra reģistrā.
-(4) Dzīvokļa īpašniekam ne vēlāk kā mēneša laikā no brīža, kad izsniegta apliecība par īpašuma tiesībām uz dzīvokli līdz dzīvojamās mājas privatizācijai, jānoslēdz līgums ar attiecīgo valsts institūciju vai pašvaldību par dzīvokļa īpašnieka piedalīšanos dzīvojamās mājas uzturēšanā un apsaimniekošanā.
-(5) Ja dzīvoklis ir iegūts darījuma noslēgšanas vai mantošanas rezultātā, minēto īpašumu līdz dzīvojamās mājas privatizācijai dzīvokļa ieguvējs reģistrē Kadastra reģistrā pēc tam, kad ir noslēgts līgums ar attiecīgo valsts institūciju vai pašvaldību par dzīvokļa īpašnieka piedalīšanos mājas uzturēšanā un apsaimniekošanā. Šis līgums tiek noslēgts līdz dzīvokļa privatizācijai šajā likumā noteiktajā kārtībā. Valsts institūcijai vai pašvaldībai un dzīvokļa īpašniekam līgums par dzīvojamās mājas uzturēšanu un apsaimniekošanu jānoslēdz mēneša laikā no darījuma noslēgšanas vai mantojuma iegūšanas dienas.
-(6) Darījumi, kurus slēdz dzīvokļa īpašnieks ar attiecīgo valsts institūciju vai pašvaldību par dzīvojamās mājas uzturēšanu un apsaimniekošanu līdz tās privatizācijai, ar pievienotās vērtības nodokli netiek aplikti.
+73.⁶ pants. Maksa par neapdzīvojamās telpas nodošanu īpašumā līdz dzīvojamās mājas privatizācijai
+(1) Maksu par neapdzīvojamās telpas nodošanu īpašumā līdz dzīvojamās mājas privatizācijai un samaksas kārtību nosaka Ministru kabinets, ievērojot šā likuma 45. un 46.panta noteikumus.
+(2) Maksu par neapdzīvojamās telpas nodošanu īpašumā līdz dzīvojamās mājas privatizācijai veido:
+1) pirkuma maksa saskaņā ar šā likuma 43.pantā noteikto kārtību;
+2) maksa par dzīvojamās mājas sagatavošanu privatizācijai;
+3) maksa par neapdzīvojamās telpas novērtēšanu.
+(3) Neapdzīvojamās telpas nomnieks pirkuma maksu var maksāt pa daļām, izdarot periodiskus maksājumus ne ilgāk kā piecu gadu laikā.
+(4) Pirkuma maksas nodrošināšanai valstij vai pašvaldībai par labu ar šo likumu tiek piešķirtas ķīlas tiesības uz neapdzīvojamām telpām, kuras nodotas īpašumā līdz dzīvojamās mājas privatizācijai. Reģistrējot neapdzīvojamo telpu Valsts zemes dienesta Kadastra reģistrā (turpmāk - Kadastra reģistrs), vienlaikus nostiprināmas ķīlas tiesības valsts vai pašvaldības labā nenomaksātās summas apmērā.
+(5) Līdzekļi, kas iegūti, nododot neapdzīvojamās telpas īpašumā līdz dzīvojamās mājas privatizācijai, ieskaitāmi privatizācijas fondos šā likuma 67.pantā noteiktajā kārtībā, izņemot maksu par neapdzīvojamās telpas novērtēšanu, kuru nomnieks ieskaita attiecīgās privatizācijas komisijas norādītajā kontā.

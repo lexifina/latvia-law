@@ -1,2 +1,3 @@
 XV¹ nodaļa
-Dzīvokļu nodošana īpašumā līdz dzīvojamās mājas privatizācijai
+Dzīvokļu, mākslinieku darbnīcu un neapdzīvojamo telpu
+nodošana īpašumā līdz dzīvojamās mājas privatizācijai

@@ -1,5 +1,5 @@
 29.pants. Piedāvājums privatizēt konkrēto privatizācijas objektu
-(1) Ne vēlāk kā mēneša laikā pēc privatizācijas objekta novērtēšanas privatizācijas komisija piedāvā pirkt privatizācijas objektu, nosūtot par to paziņojumu, šādām personām:
+(1) Ne vēlāk kā mēneša laikā pēc lēmuma par dzīvojamās mājas privatizācijas uzsākšanu pieņemšanas privatizācijas komisija piedāvā pirkt privatizācijas objektu, nosūtot par to paziņojumu, šādām personām:
 1) izīrētās dzīvojamās telpas vai viendzīvokļa mājas īrniekam, piedāvājot viņam privatizēt viņa īrēto dzīvokli vai viendzīvokļa māju (13.panta pirmā daļa, 14.panta otrā daļa, 19.panta pirmā daļa, 20.panta otrā daļa);
 2) iznomātās mākslinieka darbnīcas nomniekam, piedāvājot viņam privatizēt viņa nomāto darbnīcu (17.panta pirmā daļa, 23.pants);
 3) iznomātās neapdzīvojamās telpas nomniekam, piedāvājot viņam privatizēt viņa nomāto neapdzīvojamo telpu (l8.panta pirmā daļa, 24.pants);

@@ -5,4 +5,5 @@
 3) slēgt zemes nomas līgumu ar tā zemes gabala īpašnieku - fizisko vai juridisko personu, uz kura zemes atrodas privatizētais objekts;
 4) ievērot privatizētā objekta līdzšinējā valdītāja noslēgtos nomas vai īres līgumus un to termiņus, izņemot likumā paredzētos gadījumus.
 (2) Pašvaldība piedalās daudzdzīvokļu mājas kopīgā pārvaldīšanā un apsaimniekošanā un sedz visus izdevumus proporcionāli tās īpašumā esošajai mājas neprivatizētās daļas platībai.
-(3) Visi privatizēto objektu īpašnieki piedalās daudzdzīvokļu mājas kopīgā pārvaldīšanā un apsaimniekošanā un sedz visus izdevumus proporcionāli to īpašumā esošajai platībai.
+(3) Valsts dzīvojamās mājas valdītājs piedalās daudzdzīvokļu mājas kopīgā pārvaldīšanā un apsaimniekošanā un sedz visus izdevumus proporcionāli tā valdījumā esošajai mājas neprivatizētās daļas platībai.
+(4) Visi privatizēto objektu īpašnieki piedalās daudzdzīvokļu mājas kopīgā pārvaldīšanā un apsaimniekošanā un sedz visus izdevumus proporcionāli to īpašumā esošajai platībai.

@@ -1,3 +1,4 @@
-73.⁵ pants. Dzīvokļa un tā īpašnieka reģistrēšana
-(1) Dzīvoklis un tā īpašnieks līdz dzīvojamās mājas privatizācijai tiek reģistrēts Valsts zemes dienesta kadastra reģistrā (turpmāk- Kadastra reģistrs).
-(2) Valsts zemes dienests ne retāk kā reizi mēnesī ziņo Centrālajai dzīvojamo māju privatizācijas komisijai un attiecīgajām pašvaldībām par reģistrētajiem dzīvokļiem un to īpašniekiem.
+73.⁵ pants. Maksa par dzīvokļa vai mākslinieka darbnīcas nodošanu īpašumā līdz dzīvojamās mājas privatizācijai
+(1) Maksu par dzīvokļa vai mākslinieka darbnīcas nodošanu īpašumā līdz dzīvojamās mājas privatizācijai veido privatizācijas sertifikātos noteikta maksa par dzīvokli vai mākslinieka darbnīcu un latos noteikta maksa par dzīvojamās mājas sagatavošanu privatizācijai. Ja dzīvoklis tiek nodots īpašumā līdz dzīvojamās mājas privatizācijai, īrniekam nav jāmaksā privatizācijas sertifikātos noteiktā maksa par dzīvokli šā likuma 47.panta pirmajā un otrajā daļā noteiktajos gadījumos.
+(2) Kārtību un apmērus, kādos nosakāma maksa par dzīvokļa vai mākslinieka darbnīcas nodošanu īpašumā līdz dzīvojamās mājas privatizācijai, nosaka Ministru kabinets.
+(3) Līdzekļi, kas iegūti, nododot dzīvokļus un mākslinieku darbnīcas īpašumā līdz dzīvojamo māju privatizācijai, ieskaitāmi privatizācijas fondos šā likuma 67.pantā noteiktajā kārtībā.

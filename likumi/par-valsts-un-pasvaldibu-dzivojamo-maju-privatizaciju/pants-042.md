@@ -10,4 +10,4 @@
 7) zemes lietošanas tiesību nosacījumi;
 8) īpašuma aprobežojumi;
 9) atbildība par līgumsaistību neizpildi.
-(3) Slēdzot pirkuma līgumu ar personu, kura dzīvokli ieguvusi īpašumā līdz dzīvojamās mājas privatizācijai, pirkuma maksa ir šā likuma 73.³ pantā noteiktajā kārtībā Centrālās dzīvojamo māju privatizācijas komisijas vai pašvaldības domes (padomes) lēmumā norādītā maksa par dzīvokļa nodošanu īpašumā līdz dzīvojamās mājas privatizācijai.
+(3) Slēdzot pirkuma līgumu ar personu, kura dzīvokli, mākslinieka darbnīcu vai neapdzīvojamo telpu ieguvusi īpašumā līdz dzīvojamās mājas privatizācijai, pirkuma maksa ir šā likuma 73.⁵ vai 73.⁶ pantā noteiktajā kārtībā privatizācijas komisijas lēmumā norādītā maksa par dzīvokļa, mākslinieka darbnīcas vai neapdzīvojamās telpas nodošanu īpašumā līdz dzīvojamās mājas privatizācijai.

@@ -1,0 +1,1 @@
+17. Personai, privatizējot valsts vai pašvaldības dzīvokli vai viendzīvokļa māju, bez bāriņtiesas (pagasttiesas) piekrišanas ir atļauts izmantot savu nepilngadīgo bērnu privatizācijas vai īpašuma kompensācijas sertifikātus. Šajā gadījumā bērni var prasīt īpašuma tiesību atzīšanu uz atbilstošu privatizētā dzīvokļa domājamo daļu vai attiecīgas naudas kompensācijas izmaksu.
