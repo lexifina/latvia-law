@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Kredītiestāžu likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "180",
+  "official_journal_page": null,
+  "official_journal_date": "2004-11-12",
+  "entry_into_force": "2004-11-26",
+  "notification_date": "2005-01-12",
+  "commission_reference": "MNE(2005)54233",
+  "nim_celex": "72000L0046LVA_34233",
+  "nim_id": "34233",
+  "transposes_celex": [
+    "32000L0046"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4f2880f8-1821-479d-969a-2127feea5ccc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
