@@ -1,0 +1,1 @@
+5.pants. Jaunās Kuldīgas rajona Rendas pagasta padomes vēlēšanas notiek 2003.gada 20.septembrī. Centrālā vēlēšanu komisija izsludina šīs vēlēšanas Kuldīgas rajona Rendas pagastā ne vēlāk kā piektajā dienā pēc šā likuma stāšanās spēkā. Jaunievēlētā padome darbojas līdz dienai, kad uz pirmo sēdi sanāk kārtējās vēlēšanās 2005.gadā ievēlētā Kuldīgas rajona Rendas pagasta padome.
