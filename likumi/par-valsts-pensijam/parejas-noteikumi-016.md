@@ -1,4 +1,4 @@
-16. Pensijas, kas piešķirtas pirms šā likuma spēkā stāšanās, netiek pārrēķinātas, izņemot šādus gadījumus, kad tas tiek veikts šādā kārtībā:
+16. Pensijas, kas piešķirtas pirms šā likuma spēkā stāšanās, bet attiecībā uz invaliditātes pensiju - pirms 1997. gada 1. janvāra, netiek pārrēķinātas, izņemot šādus gadījumus, kad tas tiek veikts šādā kārtībā:
 1) ja papildināts līdz šā likuma spēkā stāšanās dienai uzkrātais apdrošināšanas stāžs, ja ģimenes sastāvā notikušas pārmaiņas, kas skar tos ģimenes locekļus, kuriem ir tiesības uz apgādnieka zaudējuma pensiju, ja mainījusies invaliditātes grupa, vecuma, invaliditātes vai apgādnieka zaudējuma pensija pārrēķināma pēc formulas:
 P = 0.3 x VA + 0.004 x VA x AS x ĢL
 P - pensija,
@@ -7,7 +7,7 @@ AS - apdrošināšanas stāža pilni gadi,
 ĢL - to ģimenes locekļu skaits, kuriem ir tiesības uz apgādnieka zaudējuma pensiju. Tas ņemams vērā, vienīgi aprēķinot apgādnieka zaudējuma pensiju;
 2) nosakot pensiju bērniem, kas zaudējuši abus vecākus, ņemams vērā abu vecāku kopējais apdrošināšanas stāžs;
 3) pārrēķinot invaliditātes pensiju, pārrēķināma arī piemaksa pie tās, kas nosakāma pie I grupas invaliditātes pensijas 12 procentu apmērā un pie II grupas invaliditātes pensijas - sešu procentu apmērā no iepriekšējā gada vidējās apdrošināšanas iemaksu algas;
-4) sakarā ar apdrošināšanas stāžu, kas uzkrāts pēc šā likuma spēkā stāšanās, vecuma pensija pārrēķināma šā likuma 24.panta pirmajā un otrajā daļā noteiktajā kārtībā;
+4) sakarā ar apdrošināšanas stāžu, kas uzkrāts pēc šā likuma spēkā stāšanās, vecuma pensija un izdienas pensija pārrēķināma šā likuma 24. panta otrajā daļā noteiktajā kārtībā, bet I un II grupas invaliditātes pensija - šo pārejas noteikumu 16. punkta 1. un 3. apakšpunktā noteiktajā kārtībā. Pārrēķinot pensiju, ievērojami šā likuma 24. panta pirmās daļas nosacījumi;
 5) pārrēķinot pensiju, ņemami vērā šā likuma 25.pantā noteiktie pensijas pārrēķināšanas termiņi;
 6) pensija palielināma šā likuma 26.pantā noteiktajā kārtībā, ievērojot šo pārejas noteikumu 15.punktu;
 7) politiski represētajām personām agrāk piešķirtās vecuma pensijas un invaliditātes pensijas bez piemaksas, kas noteikta šā punkta 3.apakšpunktā, pārrēķināmas, piemērojot koeficientu 1,1;

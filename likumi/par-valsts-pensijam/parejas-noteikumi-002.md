@@ -1,4 +1,4 @@
-2. No 1991. gada 1. janvāra līdz šā likuma spēkā stāšanās dienai apdrošināšanas stāžu, kas nepieciešams valsts pensijas piešķiršanai, veido darbs vai tam pielīdzinātie nodarbinātības periodi, kuru laikā kārtotas sociālās apdrošināšanas iemaksas. Apdrošināšanas stāžam pielīdzināti šādi nodarbinātības periodi:
+2. No 1991. gada 1. janvāra līdz šā likuma spēkā stāšanās dienai apdrošināšanas stāžu, kas nepieciešams valsts pensijas piešķiršanai (pārrēķināšanai), veido darbs vai tam pielīdzinātie nodarbinātības periodi, kuru laikā kārtotas sociālās apdrošināšanas iemaksas. Apdrošināšanas stāžam pielīdzināti šādi nodarbinātības periodi:
 1) obligātais karadienests un tam pielīdzinātie dienesti;
 2) virsdienests karavīriem un dienests virsniekiem Latvijas Republikas armijā, Latvijas pilsoņiem - arī PSRS Bruņotajos spēkos, ja viņiem sakarā ar darbību Latvijas interesēs atņemta dienesta pakāpe;
 3) dienests ierindas un komandējošā sastāva amatos iekšlietu iestādēs, izņemot VDK;

@@ -1,1 +1,3 @@
-17. Līdz 1997.gada 1.janvārim invaliditātes pensijas aprēķināmas un pārrēķināmas šo pārejas noteikumu 16.punkta 1., 3. un 7.apakšpunktā noteiktajā kārtībā. Izdarot invaliditātes pensijas pārrēķināšanu sakarā ar apdrošināšanas stāža papildināšanu pēc šā likuma spēkā stāšanās, ievērojami šā likuma 24. panta pirmās daļas noteikumi.
+17. Piešķirot invaliditātes pensiju:
+1) laikā no 1997. gada 1. janvāra līdz 2001. gada 1. janvārim, tā aprēķināma šā likuma 16. panta pirmajā un otrajā daļā noteiktajā kārtībā, ņemot vērā apdrošinātās personas vidējo apdrošināšanas iemaksu algu par faktiski nostrādātajiem mēnešiem, bet ne vairāk kā par 36 mēnešiem pēc kārtas (neatkarīgi no tā, cik ilgs bijis pārtraukums darbā) periodā no 1996. gada 1. janvāra līdz invaliditātes pensijas piešķiršanai;
+2) šā likuma 16. panta pirmajā daļā noteiktā maksimāli iespējamā apdrošināšanas stāža aprēķināšanai (arī pārrēķinot invaliditātes pensiju) ievērojami šo pārejas noteikumu 8. punkta nosacījumi.
