@@ -1,0 +1,1 @@
+1.pants. 2000.gada 13.janvārī Rīgā parakstītais Papildprotokols Latvijas Republikas valdības un Zviedrijas Karalistes valdības līgumam par Rīgas Juridiskās augstskolas dibināšanu (turpmāk - Papildprotokols) ar šo likumu tiek pieņemts un apstiprināts.
