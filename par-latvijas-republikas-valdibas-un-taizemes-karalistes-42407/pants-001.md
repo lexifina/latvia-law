@@ -1,0 +1,1 @@
+1.pants. 1996.gada 8.novembrī Bangkokā parakstītais Latvijas Republikas valdības un Taizemes Karalistes valdības nolīgums par gaisa satiksmi (turpmāk - Nolīgums) un tā pielikums (turpmāk - Pielikums) ar šo likumu tiek pieņemti un apstiprināti.
