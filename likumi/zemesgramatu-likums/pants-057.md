@@ -1,0 +1,1 @@
+57. Nostiprinājumu var lūgt tikai nekustamu īpašumu īpašnieki un personas, kuru labā vai pret kurām taisāms nostiprinājums, tāpat arī likumā paredzētos gadījumos - tiesu un citas valsts iestādes vai amatpersonas.

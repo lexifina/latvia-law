@@ -1,0 +1,1 @@
+96. Šajā (IV) apakšnodaļā minētos zemesgrāmatu aktus un to norakstus ar nostiprinājuma uzrakstiem, tāpat arī zemesgrāmatu nodaļas priekšnieka lēmuma norakstus izgatavo un izsniedz vai nosūta tikai pēc pienācīgo nodevu samaksas (106. p.).

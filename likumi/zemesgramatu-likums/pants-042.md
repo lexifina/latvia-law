@@ -1,0 +1,3 @@
+42. Ja nekustamam īpašumam, kuram zemesgrāmatā atklāts nodalījums, nav iespējams noteikt atrašanās vietu dabā, tad zemesgrāmatu nodaļas priekšnieks ar sludinājumu oficiālā laikrakstā uzaicina zemesgrāmatā ierakstīto īpašnieku un personas, kurām uz nekustamu īpašumu nostiprinātas kādas tiesības, vai to tiesību pēcniekus iesniegt divu mēnešu laikā pierādījumus par to, ka nekustams īpašums patiešām pastāv dabā. Ja minētā termiņā šādus pierādījumus neiesniedz, zemesgrāmatu nodaļas priekšnieks ar sevišķu lēmumu slēdz nodalījumu.
+Šo noteikumu piemēro tikai tad, ja nodalījumā 50 gadu laikā nav ievesti nekādi jauni ieraksti.
+Sludinājuma izdevumus sedz no valsts līdzekļiem.

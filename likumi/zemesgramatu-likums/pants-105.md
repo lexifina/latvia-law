@@ -1,0 +1,1 @@
+105. Uz valsts iestāžu un amatpersonu (108. p.) pieprasījumu zemesgrāmatu nodaļas piesūta bez maksas visāda veida ziņas no zemesgrāmatām, nostiprinājumu žurnāliem, nekustamu īpašumu lietām un dokumentu grāmatām.

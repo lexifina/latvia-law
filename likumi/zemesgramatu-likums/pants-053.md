@@ -1,0 +1,1 @@
+53. Ja ierakstā ir norādījums uz nekustamu īpašumu, kuram ir savs nodalījums tajā pašā zemesgrāmatā vai citā tās pašas vai arī citas zemesgrāmatu nodaļas grāmatā, tad jāatzīmē tā zemesgrāmatu nodaļa, kuras zemesgrāmatā īpašums ir ierakstīts, pati zemesgrāmata un īpašuma zemesgrāmatas numurs.

@@ -1,0 +1,1 @@
+48. Ja vienas un tās pašas tiesības nostiprina uz vairākiem patstāvīgiem nekustamiem īpašumiem (29. p.), tad šīs tiesības ieraksta pilnā apjomā katram nekustamam īpašumam ierādītā zemesgrāmatas nodalījumā, aizrādot uz citiem nodalījumiem, kuros šīs tiesības arī ierakstītas.

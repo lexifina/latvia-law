@@ -1,0 +1,1 @@
+66. Ārvalstī taisīti formāli akti var būt par pamatu nostiprinājumam tikai tajā gadījumā, ja uz tiem ir Latvijas sūtniecības vai konsulāta apliecinājums, ka ārzemes iestādei vai amatpersonai, kas aktu taisījusi, ir tiesība to darīt pēc attiecīgās ārvalsts likumiem.

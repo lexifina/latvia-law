@@ -1,0 +1,1 @@
+86. Iepriekšējā (85.) pantā minētās pavēstes nosūta nostiprinājuma lūgumu iesniedzējiem pēc viņu uzdotās adreses. Personas, kas nepareizi uzdevušas savu adresi vai nav paziņojušas par tās maiņu, nevar aizbildināties ar pavēstu nesaņemšanu, kas viņām sūtītas pēc uzdotās adreses. Par pavēstu nosūtīšanu atzīmē nostiprinājumu žurnālā, norādot, kam un kad tās nosūtītas.

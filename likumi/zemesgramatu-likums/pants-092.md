@@ -1,0 +1,1 @@
+92. Nostiprinot hipotēku uz tiesas sprieduma pamata, tiesas izdoto sprieduma norakstu (65. p. 1. pk.) vai tiesas apliecināto akta norakstu ar izpildu uzrakstu (65. p. 2. pk.) pievieno nekustamā īpašuma lietai, bet izpildu rakstu vai piespiedu izpildīšanai pakļauto oriģinālaktu piestiprina lūdzējam izsniedzamam zemesgrāmatu aktam.

@@ -1,0 +1,1 @@
+19. Katrai lauku nekustamu īpašumu zemesgrāmatai ir divi alfabētiski rādītāji: viens - pēc īpašnieku uzvārdiem, bet otrs - pēc īpašumu nosaukumiem. Pilsētu nekustamu īpašumu zemesgrāmatām ir viens alfabētisks rādītājs pēc īpašnieku uzvārdiem.

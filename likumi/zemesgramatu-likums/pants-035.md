@@ -1,0 +1,1 @@
+35. Ja pašā ierakstā nav noteikts citādi (82. p. 3. pk.) vai ja vienam nostiprinājumam nav piešķirta pirmtiesība pret otru, tad nostiprinājumu pirmtiesību noteic pēc nostiprinājuma laika zemesgrāmatas nodalījumā (73.-75. p.).

@@ -1,0 +1,1 @@
+60. Privātpersonu parakstiem uz iesniedzamiem nostiprinājumu lūgumiem jābūt notāra vai pagasttiesas apliecinātiem. Tāpat jāapliecina šo personu rīcības spēja, izņemot tos gadījumus, kad lūgums pamatots uz tādu tiesas spriedumu vai lēmumu, kas taisīts lūdzēja lietā, vai uz tādu notāra vai pagasttiesas taisītu vai apliecinātu aktu, kurā lūdzējs piedalījies kā līdzēja puse.

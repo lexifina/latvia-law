@@ -1,0 +1,1 @@
+72. Nostiprinājuma lūgumus zemesgrāmatu nodaļas priekšnieks skata cauri ne vēlāk kā nākošā darba dienā pēc to saņemšanas tādā kārtībā, kādā tie ierakstīti nostiprinājuma žurnālā, ievērojot iesniegumu pirmtiesības uz izpildījumu (73. -75.p).

@@ -1,0 +1,3 @@
+90. Ja zemesgrāmatu nodaļas priekšnieks atrod kļūdu nostiprinājuma lēmumā (78. un 82. p.), tad viņš to izlabo ar jaunu lēmumu arī bez ieinteresēto personu lūguma vai sūdzības; izlabojums taisāms pēc tam, kad pieprasīta atsauksme no personām, kuru labā vai pret kurām bija taisīts nepareizs lēmums.
+Atsauksmes neiesniegšana vai noraidoša atsauksme nav šķērslis kļūdas labošanai. Acīmredzamas kļūdas var izlabot nepieprasot atsauksmi.
+Jaunam lēmumam, ar ko labo kļūdu, nav nekādu seku attiecībā uz personām, kuru tiesības nostiprinātas līdz šā lēmuma taisīšanai, izņemot gadījumu, kad tiesas ceļā ir pierādīts, ka, iesniedzot nostiprinājuma lūgumu, šīs personas bijušas ļaunticīgas.

@@ -1,0 +1,1 @@
+80. Ja ar tiesas spriedumu vai lēmumu noteiktas vairāku līdzdalībnieku tiesības, tad tās nostiprināmas visumā, ja vien samaksātas visas pienākošās nodevas, kaut arī nostiprinājuma lūgumu būtu parakstījis tikai viens no līdzdalībniekiem.

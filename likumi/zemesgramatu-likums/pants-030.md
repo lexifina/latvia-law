@@ -1,0 +1,1 @@
+30. Ja nekustamais īpašums atrodas vairākās administratīvajās teritorijās, attiecīgā īpašuma daļa ierakstāma katra pagasta vai pilsētas zemesgrāmatā, norādot, ka tā ir vienota nekustama īpašuma daļa, kā arī norādot, kurā zemesgrāmatā ir ierakstīta nekustamā īpašuma pārējā daļa.

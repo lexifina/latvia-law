@@ -1,0 +1,1 @@
+12. Katram zemesgrāmatas nodalījumam dod īpašu numuru, kuru sauc par zemesgrāmatas numuru un kuru nodalījums patur arī tad, ja slēdz kādu agrāk atklātu nodalījumu. No jauna atklātam nodalījumam nevar dot slēgta nodalījuma numuru.

@@ -1,0 +1,1 @@
+67. Zemesgrāmatu nodaļai iesniedzamiem dokumentiem jābūt valsts valodā, izņemot iepriekšējā (66.) pantā minētos dokumentus un mājas kārtībā taisītus testamentus, bet tādā gadījumā tiem jāpievieno tulkojumi valsts valodā, kuru pareizību apliecinājis notārs vai viņa pieaicinātais tulks.

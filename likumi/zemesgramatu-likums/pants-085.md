@@ -1,0 +1,3 @@
+85. Savu lēmumu (78. p.) zemesgrāmatu nodaļas priekšnieks pasludina klāt esošiem nostiprinājuma lūdzējiem, atzīmējot par lēmuma pasludināšanu nostiprinājumu žurnālā.Citos gadījumos lēmumu, ar kuru nostiprinājuma lūgums vai tā daļa atstāti bez ievērības, triju dienu laikā paziņo lūdzējam ar pavēsti, kurā ir izteikts nostiprinājuma žurnālā ierakstītais lēmums. Šādus paziņojumus nesūta, ja nostiprinājuma lūgums ir apmierināts.
+Uz to personu vēlēšanos, kas lūgušas nostiprinājumu, izsniedzams taisītā lēmuma noraksts.
+Valsts un pašvaldību iestādēm vai amatpersonām, kas lūgušas nostiprinājumu, paziņo par visiem viņu lietās taisītiem lēmumiem, izņemot gadījumus, kad nostiprinājumu pierāda 91., 94. un 95. pantā paredzētā kārtībā.

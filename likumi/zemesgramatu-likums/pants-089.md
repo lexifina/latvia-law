@@ -1,0 +1,1 @@
+89. Atstājot nostiprinājuma lūgumu bez ievērības, tam pievienotos dokumentus un nodevas izsniedz lūdzējam vai nosūta viņam atpakaļ kopā ar pavēsti (85. p.), kuru ar saņēmēja parakstu pievieno nekustamā īpašuma lietai.

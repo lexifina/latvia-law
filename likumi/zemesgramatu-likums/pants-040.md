@@ -1,0 +1,1 @@
+40. Iegūstot kopīpašniekiem piederošas nekustama īpašuma domājamās daļas, īpašuma tiesību var nostiprināt zemesgrāmatā tad, ja apgrūtināta tikai viena kopīpašnieka domājamā daļa vai ja visu kopīpašnieku daļas apgrūtinātas vienām un tām pašām tiesībām vai ja personas, kam šīs tiesības pieder, vienojušās par pirmtiesībām.
