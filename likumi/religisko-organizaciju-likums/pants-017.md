@@ -1,6 +1,6 @@
 17. pants. Reliģisko organizāciju likvidēšanās un reorganizācijas kārtība
-(1) Reliģiskās organizācijas, izņemot klosterus, var likvidēties vai reorganizēties to statūtos (satversmē, nolikumā) noteiktajā kārtībā.
-(2) Klostera un garīgā personāla mācību iestādes darbība izbeidzas, ja reliģiskā savienība (baznīca), kas ir tās dibinātāja, statūtos (satversmē, nolikumā) noteiktajā kārtībā pieņem lēmumu par tās darbības izbeigšanu.
+(1) Draudzes un reliģiskās savienības (baznīcas) var likvidēt vai reorganizēt to statūtos (satversmē, nolikumā) noteiktajā kārtībā.
+(2) Diecēzes darbība izbeidzas, ja reliģiskā savienība (baznīca), kas ir tās dibinātāja, statūtos (satversmē, nolikumā) noteiktajā kārtībā pieņem lēmumu par tās darbības izbeigšanu.
 (3) Lēmums par reliģiskās organizācijas likvidēšanos, reorganizāciju vai darbības izbeigšanu desmit dienu laikā jāpaziņo Tieslietu ministrijai.
 (4) Draudze, kura izstājas no kādas reliģiskās savienības (baznīcas), tiek pārreģistrēta atbilstoši šā likuma 8. panta ceturtajai daļai. Šis noteikums neattiecas uz tām konfesijām, kuru kanoniskie noteikumi nepieļauj autonomu draudžu darbību.
 (5) Ja reliģiskā organizācija, kura ir pieņēmusi lēmumu par likvidēšanos vai reorganizāciju, nolemj atjaunot savu darbību vai sākotnējo statusu, tai ir jāpārreģistrējas atbilstoši šā likuma prasībām.
