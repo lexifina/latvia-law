@@ -1,2 +1,0 @@
-84.2 pants. Operatīvā darbība
-Ieslodzījuma vietu pārvalde, brīvības atņemšanas iestādes un izmeklēšanas cietumi ir operatīvās darbības subjekti, šo iestāžu priekšniekiem ir Operatīvās darbības likumā noteiktās operatīvās darbības iestādes vadītāja tiesības. Šiem operatīvās darbības subjektiem aizliegts ārpus brīvības atņemšanas iestādēm un izmeklēšanas cietumiem veikt operatīvos pasākumus sevišķajā veidā.
