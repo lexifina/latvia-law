@@ -1,0 +1,1 @@
+Atbilstoši likumā "Par izlozēm un azartspēlēm" noteiktajai kārtībai speciālo atļauju (licenču) pārreģistrācija un šā likuma 2. pantā minētā valsts nodeva par speciālās atļaujas (licences) izsniegšanu samaksājama līdz 1994. gada 31. decembrim.

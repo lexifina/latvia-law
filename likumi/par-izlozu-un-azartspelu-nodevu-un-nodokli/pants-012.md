@@ -1,0 +1,3 @@
+12. pants. Ienākumi no izložu un azartspēļu nodevas [maksas par speciālo atļauju (licenci)] un nodokļiem tiek ieskaitīti Ministru kabineta izveidotajā speciālajā budžetā, un tie izmantojami likumā "Par izlozēm un azartspēlēm" noteiktajā kārtībā.
+Ienākumi no azartspēļu nodokļa 75 procentu apmēra ieskaitāmi šā panta pirmajā daļā minētajā speciālajā budžetā, bet 25 procentu apmērā - tās pašvaldības budžetā, kuras teritorijā tiek organizēta azartspēle.
+Ienākumi no valsts mēroga izložu nodokļa ieskaitāmi šā panta pirmajā daļā minētajā speciālajā budžetā, bet no vietējā mēroga izložu nodokļa - tās pašvaldības budžetā, kuras teritorijā tiek organizēta izloze.

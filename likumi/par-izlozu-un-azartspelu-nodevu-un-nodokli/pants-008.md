@@ -1,0 +1,1 @@
+8. pants. No valsts nodevas par speciālās atļaujas (licences) izsniegšanu ir atbrīvotas un ar izložu nodokli netiek apliktas sabiedriskās organizācijas un to apvienības un reliģiskās organizācijas, ja tās organizē likumā noteiktās vietēja mēroga vienreizēja rakstura izlozes.

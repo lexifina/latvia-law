@@ -1,0 +1,2 @@
+14. pants. Ja uzņēmums (uzņēmējsabiedrība) ir nokavējis nodokļa samaksas termiņu par mēnesi, tiek aprēķināta nokavējuma nauda piecu procentu apmērā no summas, kas nav nomaksāta par šo mēnesi. Ja termiņš ir nokavēts ilgāk par mēnesi, Valsts ieņēmumu dienesta iestādes aptur uzņēmumu (uzņēmējsabiedrības) darbību izložu un azartspēļu organizēšanā un ierosina anulēt speciālo atļauju (licenci).
+Ja speciālā atļauja (licence) tiek anulēta, par tās izsniegšanu samaksātā nodeva netiek atmaksāta.
