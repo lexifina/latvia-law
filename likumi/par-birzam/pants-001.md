@@ -1,5 +1,5 @@
 1. pants. Biržas tiesiskais statuss
-Birža ir akciju sabiedrība, kas darbojas saskaņā ar likumu «Par akciju sabiedrībām», šo likumu, likumu par vērtspapīriem, biržas statūtiem un biržas tirdzniecības noteikumiem. Likums «Par akciju sabiedrībām» attiecībā uz biržām ir piemērojams tiktāl, ciktāl tas nav pretrunā ar šo likumu.
+Birža ir akciju sabiedrība, kas darbojas saskaņā ar likumu «Par akciju sabiedrībām», šo likumu, biržas statūtiem un biržas tirdzniecības noteikumiem. Likums «Par akciju sabiedrībām» attiecībā uz biržām ir piemērojams tiktāl, ciktāl tas nav pretrunā ar šo likumu.
 Biržas darbības mērķis ir tirdzniecības veicināšana.
 Par noslēgtajiem darījumiem (par starpniecības pakalpojumiem) birža saņem komisijas atlīdzību.
 Valsts pārvaldes institūciju darbiniekiem piedalīties biržas darījumos ir aizliegts.
