@@ -9,4 +9,5 @@
 4.2.6. ierosina un kontrolē programmu izstrādāšanu pasākumu izpildei, kas nepieciešami, lai nodrošinātu neapmierinātos zemes pieprasījumus un nepieprasīto zemju turpmāko izmantošanu;
 4.2.7. koordinē pilsētu Tautas deputātu padomju zemes komisiju darbu;
 4.2.8. izskata un savas kompetences ietvaros izšķir zemes strīdus, kurus nav izšķīrušas republikas pilsētu un rajonu zemes komisijas, un, ja nepieciešams, sagatavo priekšlikumus Saeimai;
-4.2.9. kontrolē programmu izstrādāšanu, lai nodrošinātu neapmierinātos zemes pieprasījumus un nepieprasīto zemju turpmāko izmantošanu.
+4.2.9. kontrolē programmu izstrādāšanu, lai nodrošinātu neapmierinātos zemes pieprasījumus un nepieprasīto zemju turpmāko izmantošanu;
+4.3. Gadījumos, kad pagasta vai pilsētas zemes komisija nepilda savus pienākumus, pieņem lēmumus, kas ir pretrunā ar zemes reformas un citiem zemes likumdošanas aktiem, Latvijas Republikas Centrālajai zemes komisijai ir tiesības ar savu lēmumu apturēt pagasta vai pilsētas zemes komisijas darbību un iecelt Centrālās zemes komisijas pilnvarotu personu (personas), kas pagastā vai pilsētā izpilda zemes komisijas funkcijas zemes reformas darbu veikšanā.
