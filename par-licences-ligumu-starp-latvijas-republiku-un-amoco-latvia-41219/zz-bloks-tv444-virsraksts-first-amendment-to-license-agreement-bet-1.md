@@ -1,0 +1,13 @@
+On October 31, 1995, the Republic of Latvia (the "Government"), Amoco Latvia Petroleum Company, a company established under the laws of Delaware, U.S.A. ("Amoco") and Oljeprospektering AB, a company established under the laws of Sweden ("OPAB"), duly signed a License Agreement (the "License") which specifies certain terms and conditions respecting certain petroleum-related matters.
+The License was signed in five originals of both the Latvian language and the English language, and Article 25.4 of the License specifies the manner in which both said versions shall be used and applied.
+Based on further discussions, the Government, Amoco and OPAB have decided and agreed to amend the License as specified below in this FIRST AMENDMENT TO LICENSE AGREEMENT.
+The Government, Amoco and OPAB, the Government, Amoco and OPAB hereby agree as follows:
+1. The Latvian language version of Article 24.3 of the License shall be deleted in its entirety and replaced with the following:
+Valdība apstiprina jūras robežu starp Zviedriju un Latviju, kuras konfigurācija noteikta ar 1988. gada 18. aprīlī noslēgto un 1988. gada 22. jūnijā ar notu apmaiņu apstiprināto Līgumu starp Zviedrijas Karalistes un Padomju Savienības Valdībām par kontinentālā šelfa, Zviedrijas zvejniecības zonas un Padomju ekonomiskās zonas Baltijas jūrā noteikšanu, ciktāl tas attiecas uz Licences Darbības Vietu.
+2. The English language version of Article 24.3 of the License shall remain in full force and effect as written in the License which was duly signed on October 31, 1995.
+3. In both the English language version and the Latvian language version of the License, the first number listed in Point 7 for block No. 5519-1 as specified on Schedule "A" of the License, which currently reads "56", shall be deleted in its entirety and replaced with the number "55".
+Except as specified above, License shall remain as written in the form as signed on October 31, 1995.
+The Government, Amoco and OPAB each represents and warrants to the others that its respective representative who signs below this FIRST AMENDMENT TO LICENSE AGREEMENT is duly authorized to do so, and that the signature of each said representative shall be binding on each of the Government, Amoco and OPAB to all of the terms and conditions specified herein, effective on the last date on which all of said representatives sign this FIRST AMENDMENT TO LICENSE AGREEMENT.
+In addition, by the signature of its duly authorized representative below, the Government confirms that the execution of this FIRST AMENDMENT TO LICENSE AGREEMENT is in conformity with the laws of Latvia.
+AGREED TO AND ACCEPTED:
+REPUBLIC OF LATVIAAMOCO LATVIA PETROLEUM COMPANYOLJEPROSPEKTERING AB (OPAB)

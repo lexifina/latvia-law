@@ -1,0 +1,1 @@
+3.pants. Līguma 4.panta kārtībā noteiktajai Latvijas Republikas uzņēmējsabiedrībai piemērojams tāds pats Līgumā paredzētais nodokļu atvieglojumu režīms kā Līgumā minētajām ārvalstu uzņēmējsabiedrībām.

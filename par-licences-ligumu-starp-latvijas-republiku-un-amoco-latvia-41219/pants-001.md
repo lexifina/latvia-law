@@ -1,0 +1,1 @@
+1.pants. 1995.gada 31.oktobrī Rīgā parakstītais Licences līgums starp Latvijas Republiku un AMOCO Latvia Petroleum Company, Savienotajās Valstīs dibinātu sabiedrību, un Oljeprospektering AB, Zviedrijā dibinātu sabiedrību, (turpmāk - Līgums), tā pielikumi - A, B, C, D, E (turpmāk - Pielikumi) un tā pirmie grozījumi (turpmāk - Grozījumi) ar šo likumu tiek pieņemti un apstiprināti.
