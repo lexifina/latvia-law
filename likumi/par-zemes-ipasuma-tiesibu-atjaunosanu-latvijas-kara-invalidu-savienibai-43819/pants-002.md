@@ -1,0 +1,1 @@
+2.pants. Pagasta zemes komisija triju mēnešu laikā pēc šā likuma spēkā stāšanās precizē dabā atdodamās zemes platību un robežas, kā arī pieņem lēmumu par līdzvērtīgas zemes vai kompensācijas piešķiršanu Latvijas Kara invalīdu savienībai likumā "Par zemes privatizāciju lauku apvidos" noteiktajā kārtībā.
