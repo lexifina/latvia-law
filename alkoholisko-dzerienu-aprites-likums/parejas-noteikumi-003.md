@@ -1,0 +1,1 @@
+3. Ar šā likuma spēkā stāšanos spēku zaudē speciālās atļaujas (licences) jēlspirta un spirta ražošanai un realizācijai, speciālās atļaujas (licences) alkoholisko dzērienu ražošanai un realizācijai un speciālās atļaujas (licences) alkoholisko dzērienu un spirta ievešanai izlaišanai brīvam apgrozījumam.

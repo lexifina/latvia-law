@@ -1,0 +1,4 @@
+10.pants. Alkoholisko dzērienu reklāmā ietveramā informācija
+(1) Alkoholisko dzērienu reklāmā ietverama informācija, kas brīdina sabiedrību par alkohola lietošanas negatīvo ietekmi. Šādai informācijai atvēlami vismaz 10 procenti no konkrētās reklāmas apjoma.
+(2) Šā panta pirmajā daļā minētā prasība neattiecas uz alkoholisko dzērienu preču zīmju, kā arī par alkoholiskajiem dzērieniem sniegtās pamatinformācijas (alkoholiskā dzēriena nosaukums, cena, tilpums, kā arī cita patērētājam svarīga informācija) izvietošanu alkoholisko dzērienu tirdzniecības, ražošanas un uzglabāšanas vietās un uz sadzīves priekšmetiem, ja tie izmantoti par reklāmas nesējiem.
+(3) Šā panta pirmajā daļā norādīto informāciju sniedz reklāmas apakšējā daļā ar melniem burtiem uz balta fona, turklāt burtu izmēram jābūt tādam, lai uzraksts aizņemtu lielāko tehniski iespējamo daļu no tekstam paredzētā laukuma.

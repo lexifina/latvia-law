@@ -1,0 +1,3 @@
+7.pants. Alkoholisko dzērienu iepakojums
+(1) Personām, kas nodarbojas ar iepakojuma pieņemšanu (iepirkšanu), aizliegts pieņemt (iepirkt), uzglabāt un veikt citas darbības ar stikla, plastmasas un cita veida alkoholisko dzērienu iepakojumu, kuram nav likvidēta akcīzes nodokļa marka, kā arī veikt darbības ar to.
+(2) Alkoholisko dzērienu realizācijas vietās aizliegts turēt stikla, plastmasas un cita veida alkoholisko dzērienu iepakojumu, kuram pēc dzēriena izlietošanas nav likvidēta akcīzes nodokļa marka. Pēc katras alkoholisko dzērienu iepakojuma tilpuma vienības satura izlietošanas minētais marķējums nekavējoties likvidējams.

@@ -1,0 +1,8 @@
+3.pants. Speciālu atļauju (licenču) veidi un to izsniegšanas pamatnoteikumi
+(1) Alkoholisko dzērienu vairumtirdzniecībai un alkoholisko dzērienu mazumtirdzniecībai ir nepieciešama speciāla atļauja (licence) (turpmāk - licence). Ja alkoholisko dzērienu mazumtirgotāji tirgo tikai alu, tiem ir nepieciešama alus mazumtirdzniecības licence.
+(2) Alkoholisko dzērienu vairumtirdzniecības licenci, alkoholisko dzērienu mazumtirdzniecības licenci un alus mazumtirdzniecības licenci izsniedz Valsts ieņēmumu dienesta licencēšanas komisija.
+(3) Alkoholisko dzērienu vairumtirdzniecības licenci, alkoholisko dzērienu mazumtirdzniecības licenci un alus mazumtirdzniecības licenci izsniedz uz nenoteiktu laiku.
+(4) Alkoholisko dzērienu vairumtirdzniecības licenci, alkoholisko dzērienu mazumtirdzniecības licenci un alus mazumtirdzniecības licenci neizsniedz (nepārreģistrē), ja pieteiktā tirdzniecības vieta ir deklarēta citas personas licencē.
+(5) Alkoholisko dzērienu vairumtirdzniecības licence, alkoholisko dzērienu mazumtirdzniecības licence un alus mazumtirdzniecības licence dod tiesības veikt attiecīgās darbības tikai licencē norādītajā vietā, un licenci ir tiesīga izmantot tikai tā persona, kurai šī licence izsniegta.
+(6) Alkoholisko dzērienu vairumtirdzniecības licences, alkoholisko dzērienu mazumtirdzniecības licences un alus mazumtirdzniecības licences izsniegšanas, pārreģistrēšanas, anulēšanas un izmantošanas kārtību nosaka Ministru kabinets.
+(7) Noliktavas turētāja darbības licences, apstiprināta tirgotāja darbības licences, kā arī nodokļa maksātāja pārstāvja darbības licences izsniegšanas, pārreģistrēšanas, anulēšanas un izmantošanas kārtību nosaka likums "Par akcīzes nodokli" un citi uz tā pamata izdotie normatīvie akti.

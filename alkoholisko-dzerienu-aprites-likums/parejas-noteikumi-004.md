@@ -1,0 +1,1 @@
+4. Speciālās atļaujas (licences) alkoholisko dzērienu un spirta vairumtirdzniecībai un speciālās atļaujas (licences) alkoholisko dzērienu mazumtirdzniecībai, kuras izsniegtas līdz 2004.gada 30.aprīlim, pārreģistrējamas un ir spēkā līdz 2004.gada 1.decembrim.

@@ -1,0 +1,1 @@
+5. Alus vairumtirgotājiem un mazumtirgotājiem, kuriem nav attiecīgas speciālās atļaujas (licences), šā likuma 3.panta pirmajā daļā noteiktā speciālā atļauja (licence) jāsaņem līdz 2004.gada 1.septembrim.
