@@ -1,3 +1,3 @@
-27.pants. (1) Epizootisko slimību uzliesmojuma gadījumā Latvijā vai tās kaimiņvalstīs valsts galvenais pārtikas un veterinārais inspektors nekavējoties nosaka karantīnu un Ministru prezidents izsludina ārkārtas situāciju valstī vai daļā saskaņā ar Civilās aizsardzības likumu.
+27.pants. (1) Epizootisko slimību uzliesmojuma gadījumā Latvijā vai tās kaimiņvalstīs valsts galvenais pārtikas un veterinārais inspektors nekavējoties nosaka karantīnu un Ministru prezidents izsludina ārkārtas situāciju valstī vai tās daļā saskaņā ar Civilās aizsardzības likumu.
 (2) Epizootisko slimību uzliesmojuma gadījumā Latvijā vai tās kaimiņvalstīs valsts galvenais pārtikas un veterinārais inspektors pēc saskaņošanas ar Valsts meža dienestu nosaka karantīnas pasākumus attiecībā uz savvaļas dzīvnieku medībām.
 (3) Karantīnas apstākļos savvaļas dzīvnieku medības drīkst rīkot tikai Ministru kabineta noteiktajā kārtībā.
