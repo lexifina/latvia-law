@@ -1,1 +1,1 @@
-3.pants. Labklājības ministrija koordinē Konvencijā paredzēto saistību izpildi.
+3.pants. Veselības ministrija koordinē Konvencijā paredzēto saistību izpildi.
