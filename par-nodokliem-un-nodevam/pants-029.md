@@ -4,7 +4,7 @@
 (3) Pamatparāda palielinājuma naudu un nokavējuma naudu neaprēķina, ja valsts budžets vai pašvaldības budžets tam piekritīgo nodokļa maksājumu ir saņēmis piecu dienu laikā pēc maksājuma termiņa iestāšanās. Ja minētais nosacījums netiek ievērots, pamatparāda palielinājumu un nokavējuma naudu aprēķina, sākot ar nākamo dienu pēc konkrētā nodokļa likumā noteiktā maksāšanas termiņa iestāšanās. Ja maksāšanas termiņš sakrīt ar brīvdienu (svētku dienu), tad par maksāšanas dienu uzskatāma pirmā darbdiena pēc brīvdienas (svētku dienas).
 (4) Pamatparāda palielinājuma naudas un nokavējuma naudas aprēķināšana:
 1) tiek pārtraukta, ja šā likuma 24.pantā nav noteikts citādi:
-a) privatizējamiem uzņēmumiem (uzņēmējsabiedrībām) - no dienas, kad tie nodoti privatizācijai, līdz dienai, kad saistības tiek nodotas ar pieņemšanas un nodošanas aktu jaunajam īpašniekam, bet ne ilgāk kā uz 12 mēnešiem,
+a) privatizējamiem uzņēmumiem (uzņēmējsabiedrībām) - no dienas, kad tie nodoti privatizācijai, uzņēmumiem (uzņēmējsabiedrībām) - no dienas, kad tie nodoti atsavināšanai, līdz dienai, kad saistības tiek nodotas ar pieņemšanas un nodošanas aktu jaunajam īpašniekam, bet ne ilgāk kā uz 12 mēnešiem,
 b) uzņēmumiem (uzņēmējsabiedrībām), kurus tiesa pasludinājusi par maksātnespējīgiem, - no tiesas nolēmuma pieņemšanas dienas,
 c) uzņēmumiem (uzņēmējsabiedrībām), kuriem Ministru kabineta noteiktajā kārtībā un termiņā tiek kapitalizēti nodokļu maksājumu pamatparādi;
 2) tiek atjaunota, ja:

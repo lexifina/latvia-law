@@ -1,0 +1,1 @@
+40. Pārejas noteikumu 39.punkts ir piemērojams šā likuma 8.pantā minētajiem nodokļiem un tiem nodokļu pamatparādiem, kuri izveidojušies līdz 2000.gada 31.decembrim, un ar tiem saistītām nokavējuma un soda naudām, kuras izveidojušās līdz kapitalizācijas brīdim.

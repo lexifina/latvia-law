@@ -1,0 +1,1 @@
+42. Saskaņā ar pārejas noteikumu 39.punktu kapitalizētos nodokļu maksājumu pamatparādus, kā arī ar tiem saistītās nokavējuma un soda naudas pēc kapitalizāciju veicošās institūcijas paziņojuma dzēš finansu ministrs.

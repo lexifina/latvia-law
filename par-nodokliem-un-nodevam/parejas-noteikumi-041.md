@@ -1,0 +1,1 @@
+41. Kapitalizāciju veicošā institūcija pārejas noteikumu 39.punktā paredzētajos gadījumos kapitalizē valsts un pašvaldību budžetā ieskaitāmo nodokļu pamatparādus, kā arī vienlaikus noraksta nokavējuma un soda naudas, piemērojot šā likuma 24.panta desmitajā un divpadsmitajā daļā minēto Ministru kabineta kārtību.
