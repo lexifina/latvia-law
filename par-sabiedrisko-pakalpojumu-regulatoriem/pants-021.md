@@ -6,3 +6,4 @@
 (5) Valsts regulējamās nozarēs regulatora noteiktos tarifus publicē laikrakstā "Latvijas Vēstnesis" 10 dienu laikā pēc attiecīgā lēmuma pieņemšanas.
 (6) Pašvaldību regulējamās nozarēs un tajos gadījumos, kad pašvaldība ir pilnvarota noteikt tarifus valsts regulējamās nozarēs, apstiprinātos tarifus publicē vismaz vienā attiecīgās pašvaldības vietējā laikrakstā 10 dienu laikā pēc lēmuma pieņemšanas par tarifu noteikšanu.
 (7) Apstiprinātie tarifi stājas spēkā regulatora administratīvajā aktā noteiktajā dienā, taču ne agrāk kā trīsdesmitajā dienā pēc to publicēšanas.
+(8) Pieteikuma iesniegšana tiesā par tāda administratīvā akta atcelšanu, atzīšanu par spēku zaudējušu vai spēkā neesošu, ar kuru apstiprināts tarifs, neaptur komisijas izdota administratīvā akta darbību.
