@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ūdens apsaimniekošanas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "140",
+  "official_journal_page": null,
+  "official_journal_date": "2002-10-01",
+  "entry_into_force": "2002-10-16",
+  "notification_date": "2009-02-06",
+  "commission_reference": "MNE(2009)50591",
+  "nim_celex": "72006L0118LVA_160428",
+  "nim_id": "160428",
+  "transposes_celex": [
+    "32006L0118"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/454b2bda-2d42-44c6-b3db-0d275730bdec",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
