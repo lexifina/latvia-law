@@ -1,0 +1,1 @@
+1.pants. 2002.gada 29.oktobrī Rīgā parakstītais Latvijas Republikas un Ungārijas Republikas brīvās tirdzniecības līguma papildprotokols nr.2 (turpmāk - Papildprotokols) ar šo likumu tiek pieņemts un apstiprināts.
