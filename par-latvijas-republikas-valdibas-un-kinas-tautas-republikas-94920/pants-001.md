@@ -1,0 +1,1 @@
+1.pants. 2004.gada 15.aprīlī Pekinā parakstītais Latvijas Republikas valdības un Ķīnas Tautas Republikas valdības līgums par ieguldījumu veicināšanu un aizsardzību (turpmāk - Līgums) un Protokols Latvijas Republikas valdības un Ķīnas Tautas Republikas valdības līgumam par ieguldījumu veicināšanu un aizsardzību (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
