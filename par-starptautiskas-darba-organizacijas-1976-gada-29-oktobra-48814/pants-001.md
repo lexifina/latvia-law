@@ -1,0 +1,1 @@
+1.pants. 1976.gada 29.oktobrī Ženēvā parakstītā Starptautiskās darba organizācijas Konvencija Nr.147 par minimālajām normām uz tirdzniecības kuģiem (turpmāk - Konvencija) un tās pielikums (turpmāk - Pielikums) ar šo likumu tiek pieņemti un apstiprināti.
