@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par sezonas rakstura iepirkumiem",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "106",
+  "official_journal_page": null,
+  "official_journal_date": "2003-07-18",
+  "entry_into_force": "2003-12-30",
+  "notification_date": "2004-11-29",
+  "commission_reference": "MNE(2004)53371",
+  "nim_celex": "71992L0050LVA_33371",
+  "nim_id": "33371",
+  "transposes_celex": [
+    "31992L0050",
+    "31993L0037"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7021a562-1d77-4f4a-bd90-1bdd3f9f1deb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
