@@ -1,0 +1,3 @@
+4. pants. Īpašuma objekta nosacītās cenas noteikšana
+Īpašuma objekta nosacīto cenu noteic Privatizācijas aģentūra vai privatizācijas komisija, ievērojot īpašuma objekta aktīvu, pasīvu un saistību novērtējumu un pieaicināto ekspertu atzinumus, kā arī novērtējot nemantiskos faktorus, kas ietekmē īpašuma objekta nosacīto cenu.
+Ja īpašuma objekts ir valsts vai pašvaldības kapitāla daļa uzņēmējsabiedrībā, valsts vai pašvaldības pilnvarnieka pienākums ir veikt darbības, kas saistītas ar valsts vai pašvaldības ieguldījuma daļas novērtēšanu atbilstoši likumam par attiecīgo uzņēmējdarbības formu un šīs uzņēmējsabiedrības statūtiem. Valsts vai pašvaldības kapitāla daļas nosacīto cenu apstiprina Privatizācijas aģentūra vai privatizācijas komisija.

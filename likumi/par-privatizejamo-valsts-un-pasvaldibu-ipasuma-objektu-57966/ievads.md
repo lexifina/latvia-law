@@ -1,0 +1,1 @@
+Likumā lietotais termins - īpašuma objekta nosacītā cena - ir Latvijas Privatizācijas aģentūras vai valsts vai pašvaldības īpašuma privatizācijas komisijas noteiktā īpašuma objekta sākotnējā realizācijas cena vai sākotnējā izsoles cena.
