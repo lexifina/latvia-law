@@ -1,0 +1,1 @@
+1.pants. 2000.gada 25.septembrī Hāgā parakstītais Latvijas Republikas un Ķīmisko ieroču aizlieguma organizācijas līgums par organizācijas privilēģijām un imunitātēm (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
