@@ -1,0 +1,1 @@
+1.pants. 1998.gada 28.aprīlī Rīgā parakstītais Latvijas Republikas valdības un Šveices Konfederācijas Federālās padomes nolīgums par pasažieru un kravu starptautiskajiem pārvadājumiem ar autotransportu (turpmāk - Nolīgums) un tā protokols (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.
