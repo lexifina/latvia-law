@@ -1,0 +1,1 @@
+1.pants. 1996.gada 16.jūnijā Viļņā parakstītais Igaunijas Republikas, Latvijas Republikas un Lietuvas Republikas līgums par brīvo tirdzniecību ar lauksaimniecības precēm un tā Saprašanās protokols (turpmāk - Līgums) (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 21.nr.) ar šo likumu tiek denonsēts.
