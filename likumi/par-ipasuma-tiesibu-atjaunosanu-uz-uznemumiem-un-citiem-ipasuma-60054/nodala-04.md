@@ -1,0 +1,2 @@
+4. nodaļa
+KOMPENSĀCIJAS PIEŠĶIRŠANA

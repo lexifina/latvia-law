@@ -1,0 +1,2 @@
+5. nodaļa
+SŪDZĪBU UN STRĪDU IZSKATĪŠANA

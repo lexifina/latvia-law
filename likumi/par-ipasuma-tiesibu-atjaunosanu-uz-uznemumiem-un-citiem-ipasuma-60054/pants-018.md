@@ -1,0 +1,3 @@
+18.pants. Termiņš uzņēmuma pārveidošanai statūtsabiedrībā
+(1) Bijušā īpašnieka vai viņa mantinieku īpašuma tiesību atjaunošana, pārveidojot uzņēmumu statūtsabiedrībā, veicama līdz 1994. gada 30. jūnijam, ja pieteikums par īpašuma tiesību atjaunošanu iesniegts līdz 1992. gada 20. jūlijam. Ja pieteikums iesniegts laika posmā no 1992. gada 21. jūlija līdz 1993. gada 30. jūnijam, pārveidošanas termiņš ir 1994. gada 30. septembris. Ja pieteikums iesniegts vēlāk, pārveidošanas termiņš ir 12 mēneši no pieteikuma iesniegšanas dienas.
+(2) Par termiņa nokavējumu institūcija, kuras pienākums ir īpašuma tiesību atjaunošana, atbild saskaņā ar Latvijas Republikas 1937. gada Civillikuma noteikumiem.

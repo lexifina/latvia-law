@@ -1,0 +1,3 @@
+13.pants. Uzņēmuma atdošanas termiņš
+(1) Uzņēmums, kurš tā bijušajam īpašniekam vai viņa mantiniekiem jāatdod pilnībā vai kurā bijušais īpašnieks vai viņa mantinieki izpērk uzņēmuma pašreizējā īpašnieka mantas daļu, pērkot to uzreiz vai uz nomaksu, jāatdod līdz 1993. gada 31. decembrim, ja pieteikums iesniegts laika posmā līdz 1992. gada 20. jūlijam. Ja pieteikums iesniegts no 1992. gada 21. jūlija līdz 1993. gada 30. jūnijam, uzņēmums jāatdod līdz 1994. gada 31. martam. Ja pieteikums iesniegts vēlāk, uzņēmuma atdošanas termiņš ir deviņi mēneši no pieteikuma iesniegšanas dienas.
+(2) Par termiņa nokavējumu institūcija, kuras pienākums ir īpašuma tiesību atjaunošana, atbild saskaņā ar Latvijas Republikas 1937. gada Civillikuma noteikumiem.
