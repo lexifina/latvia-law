@@ -1,0 +1,3 @@
+18.pants. Klasifikācijas sabiedrības (atzītās organizācijas)
+(1) Klasifikācijas sabiedrības (atzītās organizācijas) ir komercsabiedrības, kuras veic kuģu tehnisko uzraudzību atbilstoši pilnvarojuma līgumam, kas noslēgts ar kuģošanas un hidrogrāfijas institūciju. Kuģošanas un hidrogrāfijas institūcija pilnvarojuma līgumus var slēgt tikai ar tām klasifikācijas sabiedrībām, kuras ir atzītas un kuru pilnvarojuma apjoms ir atzīts satiksmes ministra noteiktajā kārtībā atbilstoši starptautisko normatīvo aktu prasībām. Atzīto klasifikācijas sabiedrību (atzīto organizāciju) sarakstu publicē laikrakstā "Latvijas Vēstnesis".
+(2) Ostu pārvaldes nodrošina klasifikācijas sabiedrību (atzīto organizāciju) pārstāvju brīvu piekļūšanu inspicējamajiem kuģiem.

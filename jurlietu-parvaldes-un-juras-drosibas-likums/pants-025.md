@@ -1,0 +1,3 @@
+25.pants. Kuģa sardzes dienests un kuģa ekspluatācija
+(1) Lai garantētu cilvēku, kuģu, kravas, kuģošanas un vides drošību, kapteinis uz Latvijas kuģiem organizē šā likuma un citu normatīvo aktu prasībām atbilstošu sardzes dienestu un kuģa ekspluatāciju.
+(2) Latvijas kuģu īpašnieku pienākums ir nodrošināt uz saviem kuģiem drošu navigācijas un mašīntelpas sardzi un kuģa ekspluatāciju, izdodot atbilstošas instrukcijas katram sava kuģa kapteinim, navigācijas sardzes virsniekiem, vecākajam mehāniķim, mašīnas sardzes virsniekiem un ierindas jūrniekiem. Šīs instrukcijas paredz pasākumus, kas nepieciešami kuģa drošai ekspluatācijai, vides aizsardzībai no piesārņojuma, jūrnieku kvalifikācijas un veselības stāvokļa atbilstībai drošas sardzes nosacījumiem.

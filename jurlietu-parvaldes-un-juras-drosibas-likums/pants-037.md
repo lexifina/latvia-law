@@ -1,0 +1,4 @@
+37.pants. Kuģu kravas operācijas
+(1) Kravas iekraušanas un izkraušanas operācijas ostās veic saskaņā ar kuģa kravas plānu, kuru saskaņo ar stividorkompāniju un par kuru ir atbildīgs kuģa kapteinis. Kuģa kravas plāns nodrošina drošu kuģa stāvēšanu ostā un kuģa drošību jūrā.
+(2) Kravas operācijas uz kuģa veic un kravu uz tā izvieto un nostiprina, ievērojot Starptautiskās jūras organizācijas prasības attiecībā uz konkrēto kravas veidu (kokmateriāli, kravas, ko pārvadā uz klāja, graudu kravas, beramkravas ar lielu blīvumu un citas kravas, kuru pārvadāšanu regulē īpaši Starptautiskās jūras organizācijas kodeksi).
+(3) Jebkura persona, kurai ostā radušās aizdomas par šā panta otrajā daļā noteikto prasību neievērošanu, par to ziņo ostas valsts kontroles inspektoram.

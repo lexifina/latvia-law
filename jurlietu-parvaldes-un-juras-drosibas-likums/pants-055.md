@@ -1,0 +1,3 @@
+55.pants. Kompensācijas saņemšanas nosacījumi
+(1) Persona, kurai piesārņojuma dēļ nodarīti zaudējumi vai piesārņojuma likvidācijas procesā radušies izdevumi atbilstoši 1992.gada Starptautiskās konvencijas par starptautiskā fonda nodibināšanu naftas piesārņojuma radīto zaudējumu kompensācijai (turpmāk - Fonda konvencija) nosacījumiem, var pieprasīt kompensāciju no šā fonda.
+(2) Visos gadījumos, kad nav piemērojama Fonda konvencija, to skaitā piesārņojuma draudu novēršanas gadījumā, persona, kurai radušies izdevumi sakarā ar piedalīšanos pasākumos, kas veikti atbilstoši šā likuma 54.pantā noteiktajiem rīkojumiem, ir tiesīga pieprasīt atlīdzību no piesārņojuma draudu izraisītāja Civilprocesa likumā noteiktajā kārtībā.

@@ -1,0 +1,4 @@
+14.pants. Pienākums uzturēt kuģi atbilstoši drošības prasībām
+(1) Kuģa īpašnieka un kapteiņa pienākums ir uzturēt kuģa korpusu, mehānismus, iekārtas un aprīkojumu, kā arī nodrošināt, lai kravas iekraušana, izvietošana, nostiprināšana uz kuģa un balasta operācijas tiktu veiktas, ievērojot drošības normas atbilstoši šā likuma 11., 12. un 13.panta prasībām.
+(2) Par jebkurām kuģa korpusā, mehānismos, iekārtās un aprīkojumā veiktajām pārmaiņām, kas neatbilst kuģim izdotajos sertifikātos norādītajam, kā arī par bojājumiem, kuri radušies kuģa avārijas gadījumā un kuru dēļ nav nodrošināta kuģa jūrasspēja, Latvijas kuģa īpašnieks ziņo kuģošanas un hidrogrāfijas institūcijai.
+(3) Par šā panta pirmajā un otrajā daļā noteikto prasību neievērošanu kuģa īpašnieks saucams pie likumā noteiktās atbildības.

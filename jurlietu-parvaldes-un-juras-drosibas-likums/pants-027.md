@@ -1,0 +1,6 @@
+27.pants. Jūrnieka grāmatiņa
+(1) Jūrnieka grāmatiņa ir jūrnieka personas identifikācijas dokuments atbilstoši Starptautiskās darba organizācijas 1958.gada Konvencijas par jūrnieku nacionālajām personas apliecībām prasībām. Tā kalpo par jūrnieka ceļošanas dokumentu, un tajā tiek ierakstītas ziņas par jūrnieka kvalifikāciju un darbu uz kuģiem.
+(2) Jūrnieka grāmatiņu izsniedz Jūrnieku reģistrā reģistrētiem jūrniekiem, kuri norīkoti darbā uz starptautiskajā kuģošanā nodarbinātiem kuģiem un kuriem ir Latvijas kompetento iestāžu izsniegts personu apliecinošs dokuments, ārvalstniekiem - ārvalsts kompetento iestāžu izsniegts personu apliecinošs dokuments un Latvijas kompetento iestāžu izsniegta pastāvīgās uzturēšanās atļauja. Jūrnieka grāmatiņu izsniedz arī personām, kas mācās Latvijas jūrnieku izglītības iestādēs un atrodas mācību praksē uz kuģiem.
+(3) Jūrnieka grāmatiņas noformē, izsniedz un to uzskaiti veic kuģošanas un hidrogrāfijas institūcija. Jūrnieka grāmatiņu noformēšanas, izsniegšanas un to uzskaites kārtību nosaka satiksmes ministrs.
+(4) Jūrnieka grāmatiņā iekļaujamo informāciju un jūrnieka grāmatiņas lietošanas kārtību nosaka Ministru kabinets. Ierakstus jūrnieka grāmatiņā izdara latviešu un angļu valodā.
+(5) Ziņas par nederīgām jūrnieka grāmatiņām un to veidlapām iekļauj nederīgo dokumentu reģistrā Ministru kabineta noteiktajā kārtībā.

@@ -1,0 +1,5 @@
+13.pants. Kuģu apskates un sertifikāti
+(1) Kuģiem, kuriem to tilpības, garuma, tipa, uzbūvēšanas gada un kuģošanas rajona dēļ ir nepieciešams starptautiskajos normatīvajos aktos noteiktais kuģu sertifikāts, pēc kuģa īpašnieka izvēles to izdod kuģošanas un hidrogrāfijas institūcija vai tās pilnvarota klasifikācijas sabiedrība (atzītā organizācija).
+(2) Kuģiem, kuri neatbilst šā panta pirmās daļas prasībām, tiek izdots nacionālais kuģa sertifikāts.
+(3) Jahtu tehniskās apskates veic satiksmes ministra pilnvarotu jahtklubu tehniskās komisijas atbilstoši šā likuma 12.panta trešās daļas 7.punkta prasībām.
+(4) Kuģošanas un hidrogrāfijas institūcija var veikt ārvalstu kuģu apskates un izdot tiem attiecīgajā starptautiskajā līgumā paredzētos kuģu sertifikātus, ja to lūdz attiecīgā kuģa īpašnieks un apstiprina kompetenta attiecīgās karoga valsts jūrlietu pārvaldes institūcija. Katrā šādā sertifikātā jāieraksta, ka tas izsniegts pēc tās valsts kompetentās institūcijas pieprasījuma, kurā kuģis reģistrēts.
