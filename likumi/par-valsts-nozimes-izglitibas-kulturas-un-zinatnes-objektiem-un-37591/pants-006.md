@@ -9,4 +9,4 @@
 8) sporta biedrības "Daugava" Rīgas sporta kombināts (juridiskā adrese - Rīgā, Augšielā 1);
 9) sporta biedrības "Daugava" Centrālais sporta nams (juridiskā adrese - Rīgā, Kr. Barona ielā 107);
 10) Rīgas pilsētas municipālais uzņēmums "Rīgas sporta manēža" (juridiskā adrese - Rīgā, Maskavas ielā 160);
-11) J.Daliņa Valmieras stadions (juridiskā adrese - Valmierā, J.Daliņa ielā 2).
+11) J.Daļiņa Valmieras stadions (juridiskā adrese - Valmierā, J.Daļiņa ielā 2).
