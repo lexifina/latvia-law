@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Par privātajiem pensiju fondiem",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "150/151 (865/866)",
+  "official_journal_page": null,
+  "official_journal_date": "1997-06-20",
+  "entry_into_force": "1998-07-01",
+  "notification_date": "2019-03-18",
+  "commission_reference": "MNE(2019)51646",
+  "nim_celex": "72016L2341LVA_270816",
+  "nim_id": "270816",
+  "transposes_celex": [
+    "32016L2341"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f62a12a7-8e4f-4123-b47f-2aaf10dde8b0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
