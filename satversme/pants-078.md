@@ -1,0 +1,1 @@
+78. Ne mazāk kā vienai desmitai daļai vēlētāju ir tiesība iesniegt Valsts Prezidentam pilnīgi izstrādātu Satversmes grozījumu projektu vai likuma projektu, kuru Prezidents nodod Saeimai. Ja Saeima to nepieņem bez pārgrozījumiem pēc satura, tad tas ir nododams tautas nobalsošanai.

@@ -1,0 +1,1 @@
+65. Likumprojektus var iesniegt Saeimai Valsts Prezidents, ministru kabinets, Saeimas komisijas, ne mazāk kā pieci deputāti, kā arī šinī Satversmē paredzētos gadījumos un kārtībā viena desmitā daļa vēlētāju.

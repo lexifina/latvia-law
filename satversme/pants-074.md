@@ -1,0 +1,1 @@
+74. Saeimā pieņemto un septiņdesmit otrā panta kārtībā apturēto likumu var atcelt tautas nobalsošana, ja balsošanā ir piedalījusies vismaz puse no visiem balsstiesīgajiem.

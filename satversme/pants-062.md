@@ -1,0 +1,1 @@
+62. Ja valsti apdraud ārējais ienaidnieks, vai ja valstī vai tās daļā ir izcēlies vai draud izcelties iekšējs nemiers, kurš apdraud pastāvošo valsts iekārtu, tad ministru kabinetam ir tiesības izsludināt izņēmuma stāvokli, par to divdesmit četru stundu laikā paziņojot Saeimas prezidijam, kuram šāds ministru kabineta lēmums nekavējoties jāceļ priekšā Saeimai.

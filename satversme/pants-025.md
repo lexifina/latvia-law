@@ -1,0 +1,1 @@
+25. Saeima izvēlē komisijas, noteicot to locekļu skaitu un uzdevumus. Komisijām ir tiesība pieprasīt savai darbībai vajadzīgās ziņas un paskaidrojumus no atsevišķiem ministriem un pašvaldības iestādēm, kā arī uzaicināt savās sēdēs dot paskaidrojumus attiecīgo ministriju un pašvaldības iestāžu atbildīgos priekšstāvjus. Komisijas var darboties arī starp sesijām.

@@ -1,0 +1,1 @@
+75. Ja Saeima ar ne mazāk kā divu trešdaļu balsu vairākumu pieņem likuma steidzamību, tad Valsts Prezidents nevar prasīt šāda likuma otrreizēju caurlūkošanu, to nevar nodot tautas nobalsošanai un tas ir izsludināms ne vēlāk kā trešā dienā pēc tam, kad Prezidents pieņemto likumu saņēmis.

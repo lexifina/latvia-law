@@ -1,0 +1,1 @@
+34. Par Saeimas un komisiju sēžu atreferējumiem, ja tie saskan ar patiesību, nevienu nevar saukt pie atbildības. Par Saeimas un komisiju slēgtām sēdēm var sniegt ziņas tikai ar Saeimas vai komisijas prezidija atļauju.

@@ -1,0 +1,1 @@
+50. Ja tautas nobalsošanā vairāk nekā puse no nodotām balsīm izsakās pret Saeimas atlaišanu, tad Valsts Prezidents uzskatāms par atlaistu un Saeima ievēlē jaunu Valsts Prezidentu uz atlaistā Prezidenta atlikušo pilnvaru laiku.

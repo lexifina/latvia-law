@@ -1,0 +1,1 @@
+71. Septiņu dienu laikā, skaitot no likuma pieņemšanas Saeimā, Valsts Prezidents motivētā rakstā Saeimas priekšsēdētājam var prasīt likuma otrreizēju caurlūkošanu. Ja Saeima likumu negroza, tad Valsts Prezidents otrreiz ierunas nevar celt.

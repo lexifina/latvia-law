@@ -1,0 +1,1 @@
+63. Ministriem, ja arī viņi nav Saeimas locekļi, un ministru pilnvarotām atbildīgām valsts amata personām ir tiesība piedalīties Saeimas un tās komisiju sēdēs un iesniegt papildinājumus un pārlabojumus pie likumprojektiem.
