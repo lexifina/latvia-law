@@ -1,0 +1,1 @@
+1.pants. 1979.gada 16.septembra Bernes konvencija par Eiropas dzīvās dabas un dabisko dzīvotņu aizsardzību (turpmāk - Konvencija) un tās I, II, III un IV pielikums (turpmāk - Pielikumi) ar šo likumu tiek pieņemti un apstiprināti.

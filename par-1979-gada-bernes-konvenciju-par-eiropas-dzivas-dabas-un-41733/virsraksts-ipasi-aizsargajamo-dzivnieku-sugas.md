@@ -1,0 +1,1 @@
+Īpaši aizsargājamo dzīvnieku sugas

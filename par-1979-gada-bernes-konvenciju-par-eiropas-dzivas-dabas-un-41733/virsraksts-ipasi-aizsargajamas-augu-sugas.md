@@ -1,0 +1,1 @@
+Īpaši aizsargājamās augu sugas
