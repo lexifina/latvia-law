@@ -1,0 +1,1 @@
+4.pants. Ministrijas un iestādes, kuras atbilstoši šā likuma 1.pantā minētā līguma II panta pirmajai daļai slēdz izpildes līgumus vai vienošanās, pirms to noslēgšanas saskaņo šos izpildes līgumus vai vienošanās ar Iekšlietu ministriju un ir atbildīgas par noslēgto līgumu vai vienošanos izpildi.

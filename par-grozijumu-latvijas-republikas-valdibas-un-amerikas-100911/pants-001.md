@@ -1,0 +1,1 @@
+1.pants. Grozījums 2001.gada 11.decembrī Vašingtonā parakstītajā Latvijas Republikas valdības un Amerikas Savienoto Valstu valdības līgumā par sadarbību masu iznīcināšanas ieroču izplatīšanas novēršanas jomā (Latvijas Vēstnesis, 2002, 48.nr.) (turpmāk - Grozījums) ar šo likumu tiek pieņemts un apstiprināts.
