@@ -1,0 +1,1 @@
+1.pants. 1999.gada 19.maijā Varšavā parakstītais Latvijas Republikas valdības un Marokas Karalistes valdības divpusējais nolīgums par gaisa transportu (turpmāk - Nolīgums) un tā pielikums (turpmāk - Pielikums) ar šo likumu tiek pieņemti un apstiprināti.
