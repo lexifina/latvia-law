@@ -1,0 +1,1 @@
+3.pants. Saskaņā ar Konvencijas 3.pantu noteikt, ka jēdziens "pilsonis" Konvencijas izpratnē attiecas uz Latvijas Republikas pilsoņiem un nepilsoņiem, kas ir likuma "Par to bijušās PSRS pilsoņu statusu, kuriem nav Latvijas vai citas valsts pilsonības" subjekti.
