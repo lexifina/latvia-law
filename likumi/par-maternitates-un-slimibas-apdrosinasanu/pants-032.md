@@ -1,0 +1,3 @@
+32.pants. Izpeļņas aprēķināšana un maksimālās izpeļņas noteikšana pašnodarbinātām personām
+(1) Pašnodarbinātām personām valsts sociālās apdrošināšanas pabalstu aprēķina no darba ienākumiem vai citas summas, par kuru persona pati ir izdarījusi vai par šo personu ir izdarītas sociālās apdrošināšanas iemaksas likumā noteiktajā kārtībā.
+(2) Mēneša vidējo izpeļņu aprēķina no 12 iepriekšējo mēnešu darba ienākumiem vai citas summas, par kuru ir izdarītas sociālās apdrošināšanas iemaksas, bet pabalstu aprēķina no vidējās izpeļņas, kas nepārsniedz astoņkārtīgu valdības noteikto minimālo mēnešalgu (amatalgu), kāda bija spēkā apdrošināšanas gadījuma iestāšanās dienā.

@@ -1,0 +1,3 @@
+4.pants. Tiesības uz maternitātes, slimības un apbedīšanas pabalstiem
+(1) Maternitātes, slimības un apbedīšanas pabalstus piešķir fiziskajām personām (arī ārvalstniekiem un bezvalstniekiem, ja starptautiskajos līgumos, kurus apstiprinājusi Saeima, nav paredzēts citādi), kuras ir darba tiesiskajās attiecībās ar juridiskajām un fiziskajām personām Latvijas teritorijā vai valsts civildienesta attiecībās un par kurām ir izdarītas (vai bija jāizdara) sociālās apdrošināšanas iemaksas.
+(2) Pašnodarbinātas personas (arī ārvalstnieki un bezvalstnieki, ja starptautiskajos līgumos, kurus apstiprinājusi Saeima, nav paredzēts citādi) saņem maternitātes, slimības un apbedīšanas pabalstus, ja tās izdara sociālās apdrošināšanas iemaksas atbilstoši likumam "Par sociālo nodokli".

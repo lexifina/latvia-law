@@ -1,0 +1,2 @@
+III nodaļa
+Slimības pabalsts

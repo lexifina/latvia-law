@@ -1,0 +1,2 @@
+VII nodaļa
+Papildu noteikumi

@@ -1,0 +1,6 @@
+5.pants. Apdrošināšanas gadījumi, kas rada tiesības uz maternitātes pabalstu, un maternitātes pabalsta izmaksas periods
+(1) Maternitātes pabalstu sievietei piešķir un izmaksā par visu grūtniecības atvaļinājuma un dzemdību atvaļinājuma laiku.
+(2) Grūtniecības atvaļinājuma 56 un dzemdību atvaļinājuma 56 kalendārās dienas summē un maternitātes pabalstu piešķir par 112 kalendārajām dienām.
+(3) Sievietei, kurai sakarā ar grūtniecību medicīniskā aprūpe ārstnieciski profilaktiskajā iestādē uzsākta līdz 12. grūtniecības nedēļai un turpināta visu grūtniecības laiku, piešķir pabalstu par 14 dienu ilgu papildu atvaļinājumu, kas tiek pievienots grūtniecības atvaļinājumam, tādējādi kopā tiek piešķirts pabalsts par 70 kalendārajām dienām.
+(4) Grūtniecības, dzemdību vai pēcdzemdību perioda sarežģījumu dēļ, kā arī tad, ja piedzimuši divi vai vairāki bērni, sievietei piešķir pabalstu par 14 dienu ilgu papildu atvaļinājumu, kas tiek pievienots dzemdību atvaļinājumam, tādējādi kopā tiek piešķirts pabalsts par 70 kalendārajām dienām.
+(5) Sievietēm, kurām dzemdības notikušas pirms grūtniecības atvaļinājuma noteikšanas termiņa un bērns nodzīvojis ilgāk par septiņām diennaktīm, grūtniecības un dzemdību atvaļinājumu apmaksā šā panta pirmajā - ceturtajā daļā noteiktajā kārtībā.

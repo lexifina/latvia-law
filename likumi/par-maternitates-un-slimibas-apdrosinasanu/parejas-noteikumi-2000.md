@@ -1,0 +1,1 @@
+Noteikumi par tādas personas tiesībām uz šajā likumā minētajiem valsts sociālās apdrošināšanas pabalstiem, par kuru sociālās apdrošināšanas iemaksas nav izdarītas, bet bija jāizdara, stājas spēkā ar 2000. gada 1. janvāri.
