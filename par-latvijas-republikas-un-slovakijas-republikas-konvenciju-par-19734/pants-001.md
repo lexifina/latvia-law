@@ -1,0 +1,1 @@
+1.pants. 1999.gada 11.martā Bratislavā parakstītā Latvijas Republikas un Slovākijas Republikas konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem (turpmāk - Konvencija) un tās 1999.gada 11.martā Bratislavā parakstītais protokols (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.
