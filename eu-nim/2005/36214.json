@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2005. gada 8. marta noteikumi Nr. 173 \"Grozījumi Ministru kabineta 2002. gada 23. decembra noteikumos Nr. 548 \"Prasības transportlīdzekļu aprīkošanai ar ātruma ierobežotājierīci un šīs ierīces lietošanas kārtība\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "43",
+  "official_journal_page": null,
+  "official_journal_date": "2005-03-15",
+  "entry_into_force": "2005-03-16",
+  "notification_date": "2005-03-18",
+  "commission_reference": "MNE(2005)56214",
+  "nim_celex": "72002L0085LVA_36214",
+  "nim_id": "36214",
+  "transposes_celex": [
+    "32002L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dc1cac88-0763-417d-b3de-a9caffc26600",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
