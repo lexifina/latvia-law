@@ -1,1 +1,1 @@
-2.pants. Saskaņā ar Konvencijas 1.panta ceturto daļu Latvijas Republika piemēro tās noteikumus tikai attiecībā uz laulību šķiršanas, vecāku varas, adopcijas, ar bērnu mantu saistītu tiesisku darījumu slēgšanas, bērna šķiršanas no ģimenes un aizbildnības lietām.
+2.pants. Saskaņā ar Konvencijas 1.panta ceturto daļu Latvijas Republika piemēro tās noteikumus tikai attiecībā uz laulību šķiršanas, aizgādības tiesību, adopcijas, ar bērnu mantu saistītu tiesisku darījumu slēgšanas, bērna šķiršanas no ģimenes un aizbildnības lietām.
