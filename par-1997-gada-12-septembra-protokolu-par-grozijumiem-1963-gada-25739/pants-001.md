@@ -1,0 +1,1 @@
+1.pants. 1997.gada 12.septembra Protokols par grozījumiem 1963.gada 21.maija Vīnes konvencijā par civilo atbildību par kodolkaitējumiem (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.

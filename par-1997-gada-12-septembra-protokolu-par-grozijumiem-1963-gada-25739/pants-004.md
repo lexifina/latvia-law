@@ -1,0 +1,1 @@
+4.pants. Saskaņā ar 1963.gada 21.maija Vīnes konvencijas par civilo atbildību par kodolkaitējumiem V panta 1.punkta "c" apakšpunktu, kas tiek grozīts ar šo Protokolu, operatora atbildība uz 15 gadiem tiek ierobežota līdz 100 miljoniem SVF norēķinu vienību.
