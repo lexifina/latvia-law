@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Iekārtu elektrodrošības noteikumi",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "201/204",
+  "official_journal_page": null,
+  "official_journal_date": "2000-06-02",
+  "entry_into_force": "2000-06-03",
+  "notification_date": "2004-05-24",
+  "commission_reference": "MNE(2004)58198",
+  "nim_celex": "71973L0023LVA_28198",
+  "nim_id": "28198",
+  "transposes_celex": [
+    "31973L0023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2d2f00ad-c8ca-4a01-9e2b-d692b7794d5b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
