@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ieguldījumu pārvaldes sabiedrību likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "342/345 (1054/1057)",
+  "official_journal_page": null,
+  "official_journal_date": "1997-12-30",
+  "entry_into_force": "1998-07-01",
+  "notification_date": "2013-10-30",
+  "commission_reference": "MNE(2013)58652",
+  "nim_celex": "72011L0061LVA_210178",
+  "nim_id": "210178",
+  "transposes_celex": [
+    "32011L0061"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/525bbabb-b479-4ac2-818e-e4de2a3bcc9c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
