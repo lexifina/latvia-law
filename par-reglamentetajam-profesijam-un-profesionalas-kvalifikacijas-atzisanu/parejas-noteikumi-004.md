@@ -1,0 +1,4 @@
+4. Līdz šā likuma 27.panta piektajā daļā, 36.panta 1. un 2.punktā paredzēto noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2004.gada 1.jūlijam, ir spēkā šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:
+1) Ministru kabineta 2002.gada 19.februāra noteikumi Nr.67 "Izglītības programmu minimālās prasības veterinārārsta profesionālās kvalifikācijas iegūšanai un institūcijas, kuru tiešā kontrolē var iegūt praktisko izglītību veterinārārsta profesijā";
+2) Ministru kabineta 2003.gada 22.aprīļa noteikumi Nr.193 "Noteikumi par profesionālās pieredzes ilgumu un veidiem ārvalstnieku profesionālās kvalifikācijas atzīšanai atsevišķās ekonomiskās darbības jomās";
+3) Ministru kabineta 2003.gada 29.aprīļa noteikumi Nr.219 "Papildu prasības profesionālās kvalifikācijas atzīšanai reglamentētajās profesijās ārvalstniekiem, kuru izglītība un profesionālā kvalifikācija daļēji atbilst Latvijas Republikā noteiktajām prasībām".

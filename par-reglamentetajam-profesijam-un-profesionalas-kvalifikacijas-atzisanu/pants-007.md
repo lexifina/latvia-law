@@ -3,4 +3,4 @@
 (2) Būvniecības jomā reglamentētās profesijas, kurās kvalifikācijas prasības nosaka akreditētas izglītības programmas un likumā noteiktajos gadījumos - profesionālās sertifikācijas noteikumi, ir šādas:
 1) būvinženieris - specialitātēs, kuras nosaka likumi būvniecības jomā;
 2) būvtehniķis - specialitātēs, kuras nosaka likumi būvniecības jomā;
-3) ģeotehniķis - specialitātēs, kuras nosaka likumi būvniecības jomā.
+3) (izslēgts ar MK 08.04.2004. noteikumiem Nr.258).

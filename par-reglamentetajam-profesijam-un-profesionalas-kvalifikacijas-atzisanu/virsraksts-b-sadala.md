@@ -1,2 +1,2 @@
 B sadaļa
-Ārvalstnieku profesionālās kvalifikācijas atzīšana
+Ārvalstīs iegūtās profesionālās kvalifikācijas atzīšana

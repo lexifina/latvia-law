@@ -1,3 +1,2 @@
 VII nodaļa
-Ārvalstnieku profesionālās kvalifikācijas
-atzīšanas vispārīgie noteikumi
+Ārvalstīs iegūtās profesionālās kvalifikācijas atzīšanas vispārīgie noteikumi

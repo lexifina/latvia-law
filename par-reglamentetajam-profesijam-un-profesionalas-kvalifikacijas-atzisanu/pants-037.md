@@ -1,5 +1,5 @@
-37.pants. Ārvalstnieka izglītību un profesionālo kvalifikāciju apliecinošie dokumenti
-(1) Ja ārvalstnieks vēlas darboties reglamentētā profesijā Latvijas Republikā, viņa augstākās izglītības diplomam, diplomam par pirmā līmeņa profesionālo augstāko izglītību, profesionālās izglītības atestātam vai kompetences apliecībai jāapliecina, ka:
+37.pants. Ārvalstīs iegūtu izglītību un profesionālo kvalifikāciju apliecinošie dokumenti
+(1) Pretendenta augstākās izglītības diplomam, diplomam par pirmā līmeņa profesionālo augstāko izglītību, profesionālās izglītības atestātam vai kompetences apliecībai jāapliecina, ka:
 1) šā dokumenta īpašniekam ir nepieciešamā profesionālā kvalifikācija, lai viņš varētu uzsākt un veikt patstāvīgu darbību attiecīgajā reglamentētajā profesijā savā mītnes valstī un
 2) šim dokumentam atbilstošā izglītība iegūta mītnes valstī (Eiropas Savienības dalībvalsts pilsonim - jebkurā Eiropas Savienības dalībvalstī).
 (2) Ja pretendenta mītnes valstī šā panta pirmajā daļā minētajām prasībām atbilst vairāki izglītības un profesionālās kvalifikācijas dokumenti, par augstākās izglītības diplomu, diplomu par pirmā līmeņa profesionālo augstāko izglītību, profesionālās izglītības atestātu vai kompetences apliecību ir uzskatāms to dokumentu kopums, kas apliecina attiecīgajiem izglītības dokumentiem atbilstošu izglītību.
