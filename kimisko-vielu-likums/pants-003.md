@@ -13,9 +13,10 @@ a) zālēm (arī veterinārijā izmantojamām),
 b) kosmētikas izstrādājumiem,
 c) alkoholiskajiem dzērieniem,
 d) tabakas izstrādājumiem,
-e) pārtikas produktiem,
+e) pārtikas produktiem un pārtikas piedevām,
 f) pesticīdiem,
 g) radioaktīvajām vielām,
 h) gatavajām sprāgstvielām, ķīmiskajām vielām vai ķīmiskajiem produktiem, kas izmantojami pirotehniska efekta iegūšanai un kļūst pieejami citām personām,
-i) ģenētiski modificētajiem organismiem;
-2) uz fiziskajām personām, ja tās neveic darbības ar ķīmiskajām vielām un ķīmiskajiem produktiem uzņēmējdarbības nolūkos, izņemot šā likuma 9.panta pirmajā - trešajā daļā, 17.panta pirmajā - trešajā daļā, 19. un 20.pantā minētos gadījumus.
+i) ģenētiski modificētajiem organismiem,
+j) dzīvnieku barību un dzīvnieku barības piedevām;
+2) uz fiziskajām personām, ja tās neveic darbības ar ķīmiskajām vielām un ķīmiskajiem produktiem uzņēmējdarbības (komercdarbības) nolūkos, izņemot šā likuma 9.panta pirmajā - trešajā daļā, 17.panta pirmajā daļā, 19. un 20.pantā minētos gadījumus.
