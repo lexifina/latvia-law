@@ -7,10 +7,10 @@ c) viena un tā pati persona pieteikta dažādu nosaukumu kandidātu sarakstos (
 d) kandidāts miris;
 2) izdarot tehniska rakstura labojumus.
 (3) Šā panta otrās daļas 1.punkta "a" un "d" apakšpunktā noteiktajos gadījumos kandidāts svītrojams, pamatojoties uz attiecīgās iestādes izdotu izziņu vai tiesas spriedumu. To, ka kandidāts:
-1) nav Latvijas pilsonis, - apliecina Pilsonības un migrācijas lietu pārvalde;
+1) nav Latvijas pilsonis vai ir Latvijas pilsonis, kurš vēlēšanu dienā nav vecāks par 21 gadu, - apliecina Pilsonības un migrācijas lietu pārvalde;
 2) izcieš sodu brīvības atņemšanas vietā, - apliecina Iekšlietu ministrijas Informācijas centrs;
-3) ir bijis sodīts par tīšiem noziegumiem, kas ir noziegumi Latvijā arī šā likuma spēkā stāšanās brīdī, un sodāmība nav dzēsta vai noņemta, - apliecina Iekšlietu ministrijas Informācijas centrs;
-4) izdarījis noziedzīgu nodarījumu nepieskaitāmības stāvoklī vai arī pēc nozieguma izdarīšanas saslimis ar gara slimību, kas atņēmusi tam spēju apzināties savu darbību vai to vadīt, - apliecina Iekšlietu ministrijas Informācijas centrs;
+3) ir bijis sodīts par tīšu noziedzīgu nodarījumu un sodāmība nav dzēsta vai noņemta, - apliecina Iekšlietu ministrijas Informācijas centrs;
+4) Krimināllikumā paredzētā nodarījuma izdarīšanas laikā atradies nepieskaitāmības stāvoklī vai arī pēc noziedzīga nodarījuma izdarīšanas saslimis ar gara slimību, kas tam atņēmusi iespēju saprast vai vadīt savu rīcību, - apliecina Iekšlietu ministrijas Informācijas centrs;
 5) ir vai ir bijis PSRS, Latvijas PSR vai ārvalstu valsts drošības dienestu, izlūkdienestu vai pretizlūkošanas dienestu štata darbinieks, - apliecina attiecīgās tiesas spriedums;
 6) pēc 1991.gada 13.janvāra darbojies PSKP (LKP), Latvijas PSR Darbaļaužu internacionālajā frontē, Darba kolektīvu apvienotajā padomē, Kara un darba veterānu organizācijā, Vislatvijas sabiedrības glābšanas komitejā vai tās reģionālajās komitejās, - apliecina attiecīgās tiesas spriedums;
 7) (izslēgts ar 09.05.2002. likumu);

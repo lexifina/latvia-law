@@ -3,4 +3,4 @@
 2) jābūt pieejamām:
 a) šā likuma 11.panta 4.punkta "a" un "c" - "j" apakšpunktā minētajām ziņām par katru kandidātu,
 b) šā likuma 15. panta 4. punktā minētajām ziņām.
-(2) Ne vēlāk kā piecpadsmit dienas pirms vēlēšanu dienas rajonu (republikas pilsētu) vēlēšanu komisijas izziņo vēlēšanu telpu atrašanās vietu un laiku, kad tās ir atvērtas.
+(2) Ne vēlāk kā piecpadsmit dienas pirms vēlēšanu dienas rajonu (republikas pilsētu) vēlēšanu komisijas izziņo vēlēšanu iecirkņu adreses un laiku, kad tie ir atvērti.

@@ -1,4 +1,4 @@
-10. pants. (1) Kandidātu sarakstā norādāms katra kandidāta vārds, uzvārds, personas kods, dzimšanas gads, ārvalsts pilsonība (pavalstniecība), ja tāda ir, dzīvesvieta (rajons vai pilsēta), izglītība, pamatdarba vieta un ieņemamais amats.
+10. pants. (1) Kandidātu sarakstā norādāms katra kandidāta vārds, uzvārds, personas kods, dzimšanas gads, ārvalsts pilsonība (pavalstniecība), ja tāda ir, dzīvesvieta (rajons vai republikas pilsēta), izglītība, pamatdarba vieta un ieņemamais amats.
 (2) Sarakstā pieteikto kandidātu skaits nedrīkst būt lielāks par vēlēšanu apgabalā ievēlējamo deputātu skaitu.
 (3) Vienu un to pašu kandidātu var pieteikt tikai viena nosaukuma kandidātu sarakstā vienā vai vairākos vēlēšanu apgabalos. Ja kāds kandidāts pieteikts dažādu nosaukumu kandidātu sarakstos, viņa kandidatūra svītrojama visos kandidātu sarakstos.
 (4) Kandidātu saraksta nosaukumam jāatbilst:

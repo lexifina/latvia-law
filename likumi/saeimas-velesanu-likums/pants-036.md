@@ -1,9 +1,1 @@
-36. pants. (1) Nākamajā dienā pēc vēlēšanām iecirkņa komisija atklātā sēdē Centrālās vēlēšanu komisijas noteiktajā kārtībā:
-1) atkārtoti saskaita derīgās un nederīgās vēlēšanu zīmes. Derīgās vēlēšanu zīmes sadala pēc kandidātu sarakstu numuriem;
-2) atkārtoti saskaita katra numura vēlēšanu zīmes;
-3) katra numura vēlēšanu zīmes sadala divās grupās - grozītās un negrozītās. Par grozītām uzskatāmas vēlēšanu zīmes, kurās vēlētājs pretī kāda kandidāta uzvārdam izdarījis atzīmi "+" vai svītrojis kandidāta vārdu vai uzvārdu. Visas pārējās vēlēšanu zīmes uzskatāmas par negrozītām;
-4) attiecībā uz katru kandidātu saskaita vēlēšanu zīmes, kurās:
-a) pretī viņa uzvārdam izdarīta atzīme "+",
-b) viņa vārds vai uzvārds svītrots.
-(2) Balsu skaitīšanas galīgos rezultātus iecirkņa komisija atzīmē balsu skaitīšanas galīgo rezultātu protokolā, kas rakstāms divos eksemplāros, uzrādot šā likuma 31. un 34.pantā un šā panta pirmajā daļā minētās ziņas.
-(3) Vēlēšanu iecirkņos, kuros notiek balsošana pa pastu, galīgo balsu skaitīšanu var izdarīt tūdaļ pēc iepriekšējās balsu skaitīšanas pabeigšanas.
+36. pants. Pēc balsu saskaitīšanas un balsu skaitīšanas protokola pabeigšanas visas nodotās derīgās un nederīgās vēlēšanu zīmes kopā ar vēlēšanu aploksnēm, neizlietotās apzīmogotās un nederīgās vēlēšanu aploksnes un viens iecirkņa komisijas balsu skaitīšanas protokola eksemplārs iesaiņojams un aizzīmogojams. Klātesošajiem pilnvarotajiem novērotājiem arī ir tiesības aizzīmogot šo saini ar saviem zīmogiem vai parakstīties uz tā, par ko jābūt atsaucei vēlēšanu gaitas protokolā. Atsevišķi iesaiņojamas neizmantotās neapzīmogotās vēlēšanu aploksnes. Pēc tam iecirkņa komisija nosūta visus vēlēšanu materiālus rajona (republikas pilsētas) vēlēšanu komisijai, bet ārvalstīs un uz kuģiem izveidoto vēlēšanu iecirkņu komisijas - Centrālajai vēlēšanu komisijai tās noteiktajā kārtībā.

@@ -1,1 +1,1 @@
-30. pants. Pirms vēlēšanu kastes tiek atvērtas, neizmantotās vēlēšanu aploksnes un vēlēšanu zīmes tiek dzēstas Centrālās vēlēšanu komisijas noteiktajā kārtībā.
+30. pants. Tūlīt pēc vēlēšanu iecirkņa slēgšanas vēlēšanu iecirkņa komisija aizzīmogo vēlēšanu kastes, slēdz balsotāju sarakstus un sagatavo telpu balsu skaitīšanai. Balsošanā neizmantotie vēlēšanu materiāli Centrālās vēlēšanu komisijas noteiktajā kārtībā iesaiņojami vai novietojami tā, lai tie netraucētu balsu skaitīšanu.
