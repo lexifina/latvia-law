@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "MK 04.11.2003. noteikumi Nr.626 „Dzīvnieku ārstnieciskās un diētiskās barības aprites kārtība” ar pēdējiem grozījumiem 25.11.2008.",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "157",
+  "official_journal_page": null,
+  "official_journal_date": "2003-11-07",
+  "entry_into_force": "2003-11-08",
+  "notification_date": "2008-12-04",
+  "commission_reference": "MNE(2008)56507",
+  "nim_celex": "72008L0038LVA_159498",
+  "nim_id": "159498",
+  "transposes_celex": [
+    "32008L0038",
+    "32008L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e75eec57-cdbd-44f0-a57a-087b924d4fa7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
