@@ -1,0 +1,5 @@
+1. pants. Satversmes aizsardzības birojs
+(1) Satversmes aizsardzības birojs ir nemilitāra valsts drošības institūcija, kas likumā noteiktajā kārtībā veic pati, kā arī organizē un koordinē valsts drošības iestāžu izlūkošanas (pretizlūkošanas) darbību, iegūst pati, kā arī saņem, apkopo, uzkrāj, uzglabā, analizē un izmanto ar valsts drošību, aizsardzību un ekonomisko suverenitāti saistīto informāciju, lai nosargātu valsts konstitucionālo iekārtu, valstisko neatkarību un teritoriālo neaizskaramību pret ārējiem un iekšējiem apdraudējumiem, kā arī aizsargātu valsts militāro, ekonomisko, zinātnisko un tehnisko potenciālu un valsts noslēpumus.
+(2) Satversmes aizsardzības birojs ir operatīvās darbības subjekts.
+(3) Satversmes aizsardzības birojam ir izziņas tiesības attiecībā uz noziegumiem, kas izdarīti valsts drošības jomā un valsts drošības iestādēs, kā arī citos gadījumos, kad izziņas veikšanu uzdevis ģenerālprokurors.
+(4) Satversmes aizsardzības birojs ir juridiskā persona, tai ir savs zīmogs ar Latvijas Republikas valsts lielā ģerboņa attēlu un savu pilnu nosaukumu, kā arī norēķinu konti bankā.

@@ -1,0 +1,5 @@
+9. pants. Dienests (darbs) Satversmes aizsardzības birojā
+(1) Pamatnosacījumus iecelšanai amatos Satversmes aizsardzības birojā, profesionālās sagatavotības kritērijus un citus ar iecelšanu amatos un ar dienestu (darbu) saistītos jautājumus reglamentē likums «Par valsts civildienestu», Valsts drošības iestāžu likums un šis likums.
+(2) Satversmes aizsardzības biroja amatpersonu kvalifikācijas eksāmenu un atestācijas noteikumus, to kārtošanas un kvalifikācijas celšanas kārtību nosaka Satversmes aizsardzības biroja direktors.
+(3) Uzsākot pildīt dienesta pienākumus Satversmes aizsardzības birojā, tā amatpersonas uzticību Latvijas Republikai apstiprina ar zvērestu. Amatpersonas dod un paraksta šādu zvērestu:
+"Zvēru būt uzticīgs Latvijas Republikai un kalpot Latvijas tautai, apņemos godprātīgi veikt man uzticētā amata pienākumus, pildīt Latvijas Republikas Satversmi un citus likumus, neizpaust valsts un dienesta noslēpumus, apzinoties savu atbildību likuma priekšā."

@@ -1,0 +1,1 @@
+Šis likums nosaka Satversmes aizsardzības biroja tiesisko statusu, tā vietu valsts drošības iestāžu kopumā, darbības mērķus, principus, uzdevumus, pienākumus un tiesības, kā arī reglamentē biroja darbības finansēšanu, uzraudzību un kontroli.
