@@ -25,7 +25,8 @@
 10) izložu un azartspēļu laimesti, kuri pārsniedz 500 latu;
 11) atmaksājamais pārmaksātais sociālais nodoklis (valsts sociālās apdrošināšanas obligātās iemaksas) par ienākumiem, kas pārsniedz sociālajai apdrošināšanai pakļautos gada darba ienākumus;
 12) dividendes, izņemot dividendes, par kurām nav jāmaksā nodoklis saskaņā ar šā likuma 9.panta pirmās daļas 2.punktu;
-13) procentu ienākums, izņemot procentu ienākumu, par kuru nav jāmaksā nodoklis saskaņā ar šā likuma 9.panta pirmās daļas 3.punktu.
+13) procentu ienākums, izņemot procentu ienākumu, par kuru nav jāmaksā nodoklis saskaņā ar šā likuma 9.panta pirmās daļas 3.punktu;
+14) stipendijas, izņemot stipendijas, kuras saskaņā ar šā likuma 9.panta pirmās daļas 8.punktu nav apliekamas ar nodokli.
 11. Uzņēmumi, uzņēmējsabiedrības, iestādes, organizācijas un ārvalstu uzņēmumu (nerezidentu) pastāvīgās pārstāvniecības izsniedz personām - nodokļa maksātājām - izmaksu apliecinošu dokumentu un nosūta paziņojumu Valsts ieņēmumu dienesta teritoriālajai iestādei pēc savas atrašanās vietas:
 1) par personām izmaksātajiem ienākumiem, kas minēti šā panta desmitajā, divpadsmitajā un trīspadsmitajā daļā, un no tiem ieturēto nodokli - ne vēlāk kā līdz ienākuma izmaksas mēnesim sekojošā mēneša 15.datumam;
 2) par personām, neieturot nodokli, izmaksātajām summām - Ministru kabineta noteiktajā termiņā. Ministru kabinets nosaka apliecinājuma dokumentu izsniegšanas kārtību, kā arī ienākumus, par kuru izmaksu tie izsniedzami, un izņēmumus.

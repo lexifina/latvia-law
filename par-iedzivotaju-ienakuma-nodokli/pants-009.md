@@ -7,7 +7,7 @@
 5) izložu un azartspēļu laimesti, kuri nepārsniedz izdevumus, kas saistīti ar to iegūšanu, - Ministru kabineta noteiktajā kārtībā;
 6) ienākumi no Latvijas valsts un pašvaldību parādzīmēm;
 7) normatīvajos aktos noteiktie no budžeta izmaksājamie pabalsti, izņemot pārejošas darba nespējas pabalstus, normatīvajos aktos noteiktā atlīdzība par aizbildņa pienākumu pildīšanu un atlīdzība par audžuģimenes pienākumu veikšanu, kas izmaksājama no budžeta, kā arī citi pabalsti, kas izmaksājami no Ministru kabineta noteiktajiem fondiem;
-8) stipendija, kas ir vienreizēja vai sistemātiski ilgākā laika posmā no budžeta vai Ministru kabineta apstiprināta fonda līdzekļiem izmaksāta naudas summa personai, kura vispārēju vai izraudzītu izglītības (studiju) programmu apgūst izglītības iestādē, vai kas ir personai izmaksāta naudas summa no to Eiropas Savienības starptautisko izglītības vai sadarbības programmu līdzekļiem, kurās līdzdalību ir apstiprinājis Ministru kabinets;
+8) stipendijas, kas izmaksātas no budžeta, Ministru kabineta apstiprināta fonda līdzekļiem vai no to starptautisko izglītības vai sadarbības programmu līdzekļiem, kurās līdzdalību ir apstiprinājis Ministru kabinets;
 9) mantojuma rezultātā gūtais ienākums, izņemot autoratlīdzību (honorāru), kuru izmaksā autortiesību mantiniekiem, un no fiziskajām personām saņemtais dāvinājums;
 10) konkursos un sacensībās saņemtās mantiskās un naudas balvas (prēmijas), kuru kopējā vērtība taksācijas gadā nepārsniedz 150 latu, un publiskos starptautiskos konkursos un starptautiskās sacensībās gūtās balvas un prēmijas, kuru kopējā vērtība gadā nepārsniedz 3000 latu, kā arī Baltijas asamblejas balvu laureātiem izmaksātā naudas prēmija;
 11) uzturnauda (alimenti);
@@ -21,6 +21,12 @@
 19) ienākumi no sava īpašuma pārdošanas, izņemot ienākumu no pārdošanai izgatavotu vai iegādātu izstrādājumu (mantas) pārdošanas, ienākumu Ministru kabineta noteiktajā kārtībā no tāda nekustamā īpašuma, akciju un citu vērtspapīru pārdošanas, kas ir bijuši personas īpašumā mazāk par 12 mēnešiem, un ienākumu no personāla akciju atpirkšanas;
 20) palīdzība, kas sniegta, pamatojoties uz arodbiedrības institūcijas lēmumu, no arodbiedrības naudas līdzekļiem, kuri veidojas no arodbiedrības biedru naudas maksājumiem un ārvalstu arodbiedrību ziedojumiem (dāvinājumiem);
 21) kompensācija naudā, ko fiziskajai personai izmaksā uzņēmumi (uzņēmējsabiedrības), pamatojoties uz nosacījumu, ka šī fiziskā persona taksācijas perioda (kalendārā gada) laikā iegādājas zināmu daudzumu preču attiecīgajā uzņēmumā (uzņēmējsabiedrībā). Šis noteikums nav piemērojams gadījumos, kad fiziskā persona nav iegādāto preču galīgais patērētājs (veic šo preču tālākpārdošanu);
-22) summas, kas izmaksātas subsīdiju veidā kā valsts atbalsts lauksaimniecībai vai Eiropas Savienības atbalsts lauksaimniecībai un lauku attīstībai.
+22) summas, kas izmaksātas subsīdiju veidā kā valsts atbalsts lauksaimniecībai vai Eiropas Savienības atbalsts lauksaimniecībai un lauku attīstībai;
+23) bezpeļņas organizācijas sabiedrības ar ierobežotu atbildību "Sorosa fonds - Latvija" projektu ietvaros izmaksātās stipendijas un atlīdzība, kura personai izmaksāta ārpus darba tiesiskajām attiecībām ar bezpeļņas organizāciju sabiedrību ar ierobežotu atbildību "Sorosa fonds - Latvija".
 2. Šā panta pirmās daļas 1., 10., 14. un 16.punktā minēto ienākumu, ja tie pārsniedz attiecīgās šajos punktos noteiktās summas (normas) lielumu, pārsnieguma summa tiek aplikta ar nodokli.
 3. Šā panta pirmās daļas 2.punkta noteikumi nav attiecināmi uz nerezidentiem.
+4. Šā panta pirmās daļas 8.punktā minētā stipendija ir vienreizēja vai sistemātiski ilgākā laika posmā izmaksāta naudas summa personai:
+1) kura vispārēju vai izvēlētu izglītības (studiju) programmu apgūst izglītības iestādē vai patstāvīgi;
+2) tās apgādībā esošo personu izglītības (studiju) programmas apgūšanas veicināšanai izglītības iestādē;
+3) tās pētniecības darba vai radošā darba atbalstam.
+5. Šā panta pirmās daļas 7.punkta izpratnē pabalsti ir arī saskaņā ar Ministru kabineta noteikumiem piešķirtie mūža granti valsts emeritētajiem zinātniekiem un Kultūrkapitāla fonda piešķirtās mūža stipendijas kultūras un mākslas darbiniekiem par nopelniem kultūras un mākslas attīstībā.
