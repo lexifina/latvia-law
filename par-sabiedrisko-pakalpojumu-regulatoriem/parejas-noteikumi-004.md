@@ -1,1 +1,1 @@
-4. Pašvaldības līdz 2001.gada 1.septembrim nodrošina sabiedrisko pakalpojumu regulēšanas uzsākšanu pašvaldību regulējamās nozarēs.
+4. Pašvaldības līdz 2002.gada 1.jūnijam nodrošina pašvaldību regulatoru izveidošanu vai līguma noslēgšanu ar komisiju par sabiedrisko pakalpojumu regulēšanu attiecīgās pašvaldības administratīvajā teritorijā. Līdz pašvaldības regulatora izveidošanai vai līguma noslēgšanai pašvaldības regulatora funkcijas, izņemot šā likuma 9.panta pirmās daļas 5.punktā noteikto funkciju, pilda attiecīgās pašvaldības dome (padome).
