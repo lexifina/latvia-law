@@ -1,0 +1,1 @@
+1.pants. 1992.gada 15.decembra Konvencija par samierināšanu un arbitrāžu EDSA ietvaros (turpmāk - Konvencija) un tās 1993.gada 28.aprīļa Finansu protokols (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.
