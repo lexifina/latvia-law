@@ -1,0 +1,1 @@
+1. Ministru kabinets līdz 1999.gada 1.martam izdod noteikumus par kārtību, kādā iestādes rīcībā esošā informācija nododama atklātībai, kā arī par dokumentu un citos informācijas nesējos ietvertās informācijas kopiju, reprodukciju, norakstu un izrakstu apjomu.
