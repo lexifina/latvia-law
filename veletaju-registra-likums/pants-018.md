@@ -1,0 +1,1 @@
+18.pants. Saņēmusi iesniegumu balsošanai pa pastu, vēlēšanu iecirkņa komisija balsošanai pa pastu tiešsaistes datu pārraides režīmā izdara Reģistrā atzīmi par vēlētāja pieteikšanos piedalīties attiecīgajās vēlēšanās, balsojot pa pastu, un norāda vēlētāja adresi ārvalstī, uz kuru izsūtāmi dokumenti balsošanai pa pastu.

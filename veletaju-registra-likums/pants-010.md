@@ -1,0 +1,1 @@
+10.pants. Centrālā vēlēšanu komisija ne vēlāk kā 20 dienas pirms Eiropas Parlamenta vēlēšanām iekļauj Reģistrā ziņas par Eiropas Savienības pilsoņiem, kuri nav Latvijas pilsoņi, bet kuri reģistrēti Iedzīvotāju reģistrā un attiecībā uz kuriem Centrālā vēlēšanu komisija likumā noteiktajā kārtībā pieņēmusi lēmumu par viņu iekļaušanu Reģistrā.

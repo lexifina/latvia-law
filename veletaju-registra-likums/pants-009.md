@@ -1,0 +1,1 @@
+9.pants. Pārvalde 90 dienas pirms vēlēšanām, pamatojoties uz Iedzīvotāju reģistrā esošajām ziņām, iekļauj Reģistrā ziņas par rīcībspējīgiem Latvijas pilsoņiem, kuri kārtējo vēlēšanu dienā sasniegs 18 gadu vecumu.
