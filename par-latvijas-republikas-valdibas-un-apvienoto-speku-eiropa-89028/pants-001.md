@@ -1,0 +1,1 @@
+1.pants. 2003.gada 19.decembrī parakstītais Latvijas Republikas valdības un Apvienoto spēku Eiropā virspavēlniecības štāba transformācijas komandiera saprašanās memorands par mācībām "Cooperative Nugget 2004" (turpmāk - Memorands) ar šo likumu tiek pieņemts un apstiprināts.
