@@ -1,0 +1,1 @@
+1. pants. 1993. gada 23. martā Helsinkos parakstītā Latvijas Republikas un Somijas Republikas konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu ar šo likumu pieņemta un apstiprināta.
