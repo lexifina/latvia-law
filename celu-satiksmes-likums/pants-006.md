@@ -1,8 +1,11 @@
 6.pants. Ceļa pārvaldītāja pienākumi
-Ceļa pārvaldītājam ir pienākums:
-1) pastāvīgi sekot ceļa stāvoklim;
-2) uzturēt ceļu, tā inženierbūves un satiksmes organizācijas tehniskos līdzekļus lietošanas kārtībā saskaņā ar spēkā esošajām normām un noteikumiem;
-3) nekavējoties novērst bojājumus, šķēršļus vai citus apstākļus, kas traucē satiksmi vai apdraud tās drošību;
-4) veikt pasākumus satiksmes organizācijas pilnveidošanai;
-5) noteikt kārtību, kādā veicami darbi uz ceļa un ar tiem saistītie pasākumi, kā arī kontrolēt šo darbu izpildi;
-6) norādītajos termiņos un kārtībā izpildīt Satiksmes ministrijas pakļautībā, pārraudzībā un pārziņā esošo institūciju aktu prasības, kā arī Satiksmes ministrijas un Iekšlietu ministrijas amatpersonu priekšrakstus, kas izdoti to kompetences ietvaros.
+(1) Ceļa pārvaldītājam ir pienākums:
+1) nodrošināt, lai ceļš pastāvīgi tiktu uzturēts satiksmei drošā stāvoklī, un raudzīties, lai ceļš atbilstu kvalitatīvajiem rādītājiem;
+2) nodrošināt ceļa, tā mākslīgo būvju un inženierbūvju, kā arī satiksmes organizācijas tehnisko līdzekļu uzturēšanu lietošanas kārtībā saskaņā ar spēkā esošajām normām un noteikumiem;
+3) nodrošināt, lai nekavējoties tiktu novērsti šķēršļi, kas traucē satiksmi un apdraud tās drošību, bet, ja tas nav iespējams, nodrošināt bīstamo vietu aprīkošanu ar atbilstošiem satiksmes organizācijas tehniskajiem līdzekļiem līdz šo šķēršļu likvidēšanai;
+4) nodrošināt, lai tiktu izanalizēti ceļu satiksmes negadījumi, tādējādi pastāvīgi pilnveidojot satiksmes organizāciju;
+5) kontrolēt ceļa darbu veikšanas kārtību;
+6) nodrošināt ceļu drošības audita veikšanu;
+7) norādītajos termiņos un kārtībā izpildīt Satiksmes ministrijas un Iekšlietu ministrijas amatpersonu priekšrakstus, kas izdoti to kompetences ietvaros;
+8) atlīdzināt personām zaudējumus, kuri tām radušies šo pienākumu neizpildes gadījumā.
+(2) Ministru kabinets nosaka ceļu kvalitatīvos rādītājus un ceļu drošības auditēšanas kārtību.
