@@ -1,0 +1,268 @@
+F A U N A
+MAMMALIA
+CHIROPTERA
+PhyllostomidaeVampyrops lineatusUrugvaja
+EDENTATA
+MyrmecophagidaeTamandua tetradactyla =438Gvatemala
+MegalonychidaeCholopus hoffmanniKostarika
+DasypodidaeCabassous centralisKostarika
+Cabassous tatouay =439Urugvaja
+RODENTIA
+SciuridaeEpixerus ebiiGana
+Marmota caudataIndija
+Marmota himalayanaIndija
+Sciurus deppeiKostarika
+AnomaluridaeAnomalurus beecroftiGana
+Anomalurus derbianusGana
+Anomalurus peliiGana
+diurus macrotisGana
+HystricidaeHystrix cristataGana
+ErethizontidaeSphiggurus mexicanus =440Hondurasa
+Sphiggurus spinosus =440Urugvaja
+AgoutidaeAqouti paca =441Hondurasa
+DasyproctidaeDasyprocta punctataHondurasa
+CARNIVORA
+CanidaeCanis aureusIndija
+Vulpes bengalensisIndija
+Vulpes vulpes griffithiIndija
+Vulpes vulpes montanaIndija
+Vulpes vulpes pusilla =442Indija
+ProcyonidaeBassaricyon gabbiKostarika
+Bassariscus sumichrastiKostarika
+Nasua naricaHondurasa
+Nasua nasua solitariaUrugvaja
+Potos flavusHondurasa
+MustelidaeEira barbaraHondurasa
+Gallictis vittataKostarika
+Martes flavigulaIndija
+Martes foina intermediaIndija
+Mellivora capensisBotsvāna, Gana
+Mustela altaicaIndija
+Mustela erminea ferganaeIndija
+Mustela kathiahIndija
+Mustela sibiricaIndija
+ViverridaeArctitis binturongIndija
+Civettictis civettaBotsvāna
+Paguma larvataIndija
+Paradoxurus hermaphroditusIndija
+Paradoxurus jerdoniIndija
+Viverra civettinaIndija
+Viverra zibethaIndija
+Viverricula indicaIndija
+HerpestidaeHerpestes javanicus auropunctata =448Indija
+Herpestes edwardsiIndija
+Herpestes brachyurus fusca =449Indija
+Herpestes smithiiIndija
+Herpestes urvaIndija
+Herpestes vitticollisIndija
+ProtelidaeProteles cristatusBotsvāna
+PINNIPEDIA
+OdobenidaeOdobenus rosmarusKanāda
+ARTIODACTYLA
+TragulidaeHyemoschus aquaticusGana
+CervidaeCervus elaphus barbarusTunisija
+Mozama americana cerasinaGvatemala
+Odocoileus virginianus mayensisGvatemala
+BovidaeAntilope cervicapraNepāla
+Bubalus arnee =450Nepāla
+Damaliscus lunatusGana
+Gazella cuvieriTunisija
+Gazella dorcasTunisija
+Gazella leptocerosTunisija
+Tetracerus quadricornisNepāla
+Tragelaphus eurycerus =451Gana
+Tragelaphus spekiiGana
+AVES
+CICONIIFORMES
+ArdeidaeArdea goliathGana
+Bubulcus ibis =452Gana
+Casmerodius albus =453Gana
+Egretta garzettaGana
+CiconiidaeEphippiorhynchus senegalensisGana
+Leptoptilos crumeniferusGana
+ThreskiornithidaeBostrychia hagedashGana
+Bostrychia raraGana
+Threskiornis aethiopicusGana
+ANSERIFORMES
+AnatidaeAlopochen aegyptiacusGana
+Anas acutaGana
+Anas capensisGana
+Anas clypeata =456Gana
+Anas creccaGana
+Anas penelopeGana
+Anas querquedulaGana
+Aythya nyroca =457Gana
+Cairina moschataHondurasa
+Dendrocygna autumnalisHondurasa
+Dendrocygna bicolor =458Gana, Hondurasa
+Dendrocygna viduataGana
+Nettapus auritiusGana
+Plectropterus gambensisGana
+Pteronetta hartlaubii =459Gana
+FALCONIFORMES
+CathartidaeSarcoramphus papaHondurasa
+GALLIFORMES
+CracidaeCrax albertiKolumbija
+Crax daubentoniKolumbija
+Crax globulosaKolumbija
+Crax rubraKolumbija,
+Kostarika,
+Guatemala,
+Hondurasa
+Ortalis vetulaGvatemala,
+Hondurasa
+Pauxi pauxi =460Kolumbija
+Penelope purpurascensHonduras
+Penelopina nigraGvatemala
+PhasianidaeAgelastes meleagridesGana
+Agriocharis ocellataGvatemala
+Arborophila charltoniiMalaizija
+Arborophila orientalis =461Malaizija
+Caloperdix oculeaMalaizija
+Lophura erythrophthalmaMalaizija
+Lophura ignitaMalaizija
+Melanoperdix nigraMalaizija
+Polyplectron inopinatumMalaizija
+Rhizothera longirostrisMalaizija
+Rollulus rouloulMalaizija
+Tragopan satyraNepāla
+CHARADRIIFORMES
+BurhinidaeBurhinus bistriatusGvatemala
+COLUMBIFORMES
+ColumbidaeColumba guineaGana
+Columba iriditorques =462Gana
+Columba liviaGana
+Columba mayeri =463Maurīcijas sala
+Columba unicinctaGana
+Oena capensisGana
+Streptopelia decipiensGana
+Streptopelia roseogriseaGana
+Streptopelia semitorquataGana
+Streptopelia senegalensisGana
+Streptopelia turturGana
+Streptopelia vinaceaGana
+Treron calva =464Gana
+Treron waaliaGana
+Turtur abyssinicusGana
+Turtur aferGana
+Turtur brehmeri =465Gana
+Turtur tympanistria =466Gana
+PSITTACIFORMES
+PsittacidaePsittacula krameriGana
+CUCULIFORMES
+MusophagidaeCorytheola cristataGana
+Crinifer piscatorGana
+Musophaga violaceaGana
+PICIFORMES
+CapitonidaeSemnornis ramphastinusKolumbija
+RamphastidaeBaillonius bailloniArgentīna
+Pteroglossus castanotisArgentīna
+Ramphastos dicolorusArgentīna
+Selenidera maculirostrisArgentīna
+PASSERIFORMES
+CotingidaeCephalopterus ornatusKolumbija
+Cephalopterus penduligerKolumbija
+MuscicapidaeBebrornis rodericanusMaurīcijas sala
+Terpsiphone bourbonnensis =467Maurīcijas sala
+FringillidaeSerinus canicapillusGana
+Serinus leucopygiusGana
+Serinus mozambicusGana
+EstrildidaeAmandina fasciataGana
+Amandava subflava =469Gana
+Estrilda astrildGana
+Estrilda caerulescens)Gana
+Estrilda melpodaGana
+Estrilda troglodytesGana
+Lagonosticta raraGana
+Lagonosticta rubricataGana
+Lagonosticta rufopictaGana
+Lagonosticta senegalaGana
+Lagonosticta vinacea =470Gana
+Lonchura bicolor =471Gana
+Lonchura cantans =472Gana
+Lonchura cucullata =471Gana
+Lonchura fringilloides =471Gana
+Mandingoa nitidula =473Gana
+Nesocharis capistrataGana
+Nigrita bicolorGana
+Nigrita canicapillaGana
+Nigrita fusconotaGana
+Nigrita luteifronsGana
+Ortygospiza atricollisGana
+Parmoptila rubifrons =474Gana
+Pholidornis rushiaeGana
+Pyrenestes ostrinus =475Gana
+Pytilia hypogrammicaGana
+Pytilia phoenicopteraGana
+Spermophaga haematinGana
+Uraeginthus bengalus =476Gana
+PloceidaeAmblyospiza albifronsGana
+Anaplectes rubriceps =477Gana
+Anomalospiza imberbisGana
+Bubalornis albirostris)Gana
+Euplectes aferGana
+Euplectes ardenū =478Gana
+Euplectes franciscanus =479Gana
+Euplectes hordeaceusGana
+Euplectes macrourus =480Gana
+Malimbus cassiniGana
+Malimbus malimbicusGana
+Malimbus nitensGana
+Malimbus rubricollisGana
+Malimbus scutatusGana
+Pachyphantes superciliosus =481Gana
+Passer griseusGana
+Petronia dentataGana
+Plocepasser superciliosusGana
+Ploceus albinuchaGana
+Ploceus aurantiusGana
+Ploceus cucullatus =482Gana
+Ploceus heugliniGana
+Ploceus luteolus =483Gana
+Ploceus melanocephalus =484Gana
+Ploceus nigerrimusGana
+Ploceus nigricollisGana
+Ploceus pelzelniGana
+Ploceus preussiGana
+Ploceus tricolorGana
+Ploceus vitellinuū =485Gana
+Quelea erythropsGana
+Sporopipes frontalisGana
+Vidua chalybeata =486Gana
+Vidua interjectaGana
+Vidua larvaticolaGana
+Vidua macrouraGana
+Vidua orientalis =487Gana
+Vidua raricolaGana
+Vidua togoensisGana
+Vidua wilsoniGana
+SturnidaeGracula religiosaTaizeme
+REPTILIA
+TESTUDINATA
+TrionychidaeTrionyx triunguisGana
+PelomedusidaePelomedusa subrufaGana
+Pelusios adansoniiGana
+Pelusios castaneusGana
+Pelusios gabonensis =488Gana
+Pelusios nigerGana
+SERPENTES
+ColubridaeAtretium schistosumIndija
+Cerberus rhynchopsIndija
+Xenochrophis piscatorIndija
+ElapidaeMicrurus diastemaHondurasa
+Micrurus nigrocinctusHondurasa
+ViperidaeAgkistrodon bilineatusHondurasa
+Bothrops asperHondurasa
+Bothrops nasutusHondurasa
+Bothrops nummiferHondurasa
+Bothrops ophryomegasHondurasa
+Bothrops schlegeliiHondurasa
+Crotalus durissusHondurasa
+Vipera russelliiIndija
+F L O R A
+GNETACEAEGnetum montanum #1Nepāla
+MAGNOLIACEAETalauma hodgsoniiNepāla
+MELIACEAESwietenia macrophylla +218 #5Kostarika
+PAPAVERACEAEMeconopsis regia #1Nepāla
+PODOCAR-PACEAEPodocarpus neriifoliusNepāla
+TETRACEN-TRACEAETetracentron sinenseNepāla

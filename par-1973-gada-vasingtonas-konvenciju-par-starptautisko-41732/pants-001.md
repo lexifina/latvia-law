@@ -1,0 +1,1 @@
+1.pants. 1973.gada 3.marta Vašingtonas konvencija par starptautisko tirdzniecību ar apdraudētajām savvaļas dzīvnieku un augu sugām (turpmāk - Konvencija) un tās I, II un III pielikums (turpmāk - Pielikumi) ar šo likumu tiek pieņemti un apstiprināti.
