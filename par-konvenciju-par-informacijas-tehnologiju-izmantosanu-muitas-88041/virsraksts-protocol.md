@@ -1,0 +1,2 @@
+Protocol
+drawn up on the basis of Article K.3 of the Treaty on European Union, on the interpretation, by way of preliminary rulings, by the Court of Justice of the European Communities of the Convention on the use of information technology for customs purposes - Declaration concerning the simultaneous adoption of the Convention on the use of information technology for customs purposes and the Protocol on the interpretation by way of preliminary rulings, by the Court of Justice of the European Communities, of that Convention - Declaration made pursuant to Article 2
