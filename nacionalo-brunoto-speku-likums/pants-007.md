@@ -1,9 +1,9 @@
 7.pants. Sauszemes spēku uzdevumi
 (1) Pildot šā likuma 6.pantā noteiktos uzdevumus, Sauszemes spēki:
 1) nodrošina valsts sauszemes teritorijas aizsardzību;
-2) nodrošina vienību kaujas un mobilizācijas gatavību;
-3) sagatavo karavīrus dalībai starptautiskajās miera uzturēšanas un miera nodrošināšanas operācijās;
-4) veic obligātā militārā dienesta karavīru apmācību;
-5) iznīcina sprādzienbīstamus priekšmetus;
-6) piedalās avārijas un glābšanas darbos un ārkārtējo situāciju izraisīto seku likvidēšanā.
-(2) Zemessardze papildus šā panta pirmajā daļā noteiktajiem uzdevumiem piedalās arī vispārējās drošības un sabiedriskās kārtības nodrošināšanā likumos un citos normatīvajos aktos noteiktajā kārtībā. Minētā uzdevuma izpildē ir tiesīgi piedalīties vienīgi speciāli apmācīti zemessargi.
+2) nodrošina vienību kaujas gatavību;
+3) sagatavo vienības dalībai starptautiskajās operācijās;
+4) iznīcina sprādzienbīstamus priekšmetus;
+5) piedalās terorisma apkarošanas pasākumos;
+6) piedalās avārijas, ugunsdzēsības un glābšanas darbos un ārkārtējo situāciju izraisīto seku likvidēšanā.
+(2) (Izslēgta ar 24.02.2005. likumu.)

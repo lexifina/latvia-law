@@ -5,4 +5,6 @@ Pildot šā likuma 6.pantā noteiktos uzdevumus, Jūras spēki:
 3) nodrošina vienību kaujas un mobilizācijas gatavību;
 4) koordinē un veic cilvēku meklēšanas un glābšanas darbus jūrā, likvidē jūrā notikušo avāriju sekas un piesārņojumu ar naftas produktiem, kā arī piedalās ekoloģiskajā uzraudzībā;
 5) meklē jūrā sprādzienbīstamus priekšmetus un tos iznīcina;
-6) Ministru kabineta noteiktajā kārtībā nodrošina Valsts robežsardzi ar tehniskajiem līdzekļiem un peldlīdzekļiem tās uzdevumu veikšanai jūrā.
+6) Ministru kabineta noteiktajā kārtībā nodrošina Valsts robežsardzi ar tehniskajiem līdzekļiem un peldlīdzekļiem tās uzdevumu veikšanai jūrā;
+7) sagatavo personālsastāvu dalībai starptautiskajās operācijās;
+8) piedalās avārijas, ugunsdzēsības un glābšanas darbos un ārkārtējo situāciju izraisīto seku likvidēšanā uz sauszemes un iekšējos ūdeņos.
