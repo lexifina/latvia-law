@@ -1,5 +1,5 @@
 154.¹ pants. Cilvēku tirdzniecība
-(1) Par cilvēku tirdzniecību uz ārvalsti -
+(1) Par cilvēku tirdzniecību -
 soda ar brīvības atņemšanu uz laiku no trim līdz astoņiem gadiem, konfiscējot mantu vai bez mantas konfiskācijas.
 (2) Par tādām pašām darbībām, ja tās izdarītas attiecībā uz nepilngadīgo vai ja tās izdarījusi personu grupa pēc iepriekšējas vienošanās, -
 soda ar brīvības atņemšanu uz laiku no pieciem līdz divpadsmit gadiem, konfiscējot mantu.
