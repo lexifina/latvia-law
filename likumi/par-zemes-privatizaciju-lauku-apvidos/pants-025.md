@@ -1,2 +1,2 @@
 25. pants. Ar zemes privatizāciju saistīto darbu finansiālais nodrošinājums
-Ar zemes privatizāciju saistītie zemes ierīcības darbi tiek veikti par valsts budžeta līdzekļiem.
+Ar zemes privatizāciju saistītie zemes ierīcības darbi tiek veikti par valsts budžeta un pašvaldību budžetu līdzekļiem, kā arī par līdzekļiem, kurus Valsts zemes dienests saņem par likumā noteikto uzdevumu izpildi Latvijas Republikas Ministru Padomes noteiktajā kārtībā un apmēros.

@@ -1,2 +1,2 @@
 9. pants. Zemes īpašuma tiesību atjaunošana zemes termiņpieprasījuma gadījumos
-Ja likumā noteiktajā kārtībā zeme bijušajiem zemes īpašniekiem vai viņu mantiniekiem nav piešķirta, bet tikai rezervēta, viņu zemes īpašuma tiesības tiek atjaunotas pēc rezervētās zemes piešķiršanas.
+Ja likumā noteiktajā kārtībā zeme bijušajiem zemes īpašniekiem vai viņu mantiniekiem nav piešķirta, bet tikai rezervēta, viņu zemes īpašuma tiesības tiek atjaunotas, saglabājot šīs zemes lietotājiem zemes lietošanas tiesības, bet ne ilgāk par termiņpieprasījuma laiku. Zemes lietotāji maksā zemes īpašniekam nomas maksu saskaņā ar šā likuma 7. pantu.
