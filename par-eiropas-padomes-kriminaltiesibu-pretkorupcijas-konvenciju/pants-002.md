@@ -1,0 +1,1 @@
+2.pants. Saskaņā ar Konvencijas 17.panta otro daļu jēdziens "pilsonis" Konvencijas izpratnē attiecas uz Latvijas pilsoņiem, kā arī nepilsoņiem, kas ir likuma "Par to bijušās PSRS pilsoņu statusu, kuriem nav Latvijas vai citas valsts pilsonības" subjekti.
