@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2005. gada 4. janvāra noteikumi Nr.14 \"Valsts dzelzceļa tehniskās inspekcijas nolikums\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "6",
+  "official_journal_page": null,
+  "official_journal_date": "2005-01-12",
+  "entry_into_force": "2005-01-13",
+  "notification_date": "2005-05-25",
+  "commission_reference": "MNE(2005)51142",
+  "nim_celex": "71991L0440LVA_121142",
+  "nim_id": "121142",
+  "transposes_celex": [
+    "31991L0440",
+    "32001L0012",
+    "32001L0014"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3e55be43-40e5-4e20-865a-3aa30acb1e28",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
