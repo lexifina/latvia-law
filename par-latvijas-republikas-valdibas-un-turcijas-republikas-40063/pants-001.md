@@ -1,0 +1,1 @@
+1.pants. 1995.gada 15.septembrī Ankarā parakstītais Latvijas Republikas valdības un Turcijas Republikas valdības līgums par gaisa satiksmi (turpmāk - Līgums) un tā pielikums ar šo likumu tiek pieņemts un apstiprināts.
