@@ -7,4 +7,4 @@
 5) fiziskajam personam-nodokļu maksātajiem viņu nāves gadījuma, ja nav iespējams no mantiniekiem piedzīt nodokļu un nodevu parādus, kā ari ar tiem saistītās soda naudas, pamatparāda palielinājuma naudas un nokavējuma naudas.
 (2) Finansu ministrija laikrakstā "Latvijas Vēstnesis" publicē informāciju par dzēstajiem valsts nodokļu un nodevu parādiem.
 (3) Pašvaldību budžetos ieskaitāmo nodokļu un nodevu parādus šā panta pirmajā daļā minētajos gadījumos dzēš pašvaldības.
-(4) Sociālā nodokļa maksājumu parādus šā panta pirmajā daļā minētajos gadījumos un kārtībā dzēš labklājības ministrs.
+(4) (Izslēgta ar 04.12.1998. likumu.)
