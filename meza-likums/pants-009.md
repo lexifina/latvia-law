@@ -10,7 +10,7 @@ Bērzs717151
 Melnalksnis717171
 Apse414141
 2) mežaudze sasniegusi galvenās cirtes caurmēru;
-3) saņemts šā likuma 11.pantā noteiktais Valsts meža dienesta sanitārais atzinums.
+3) saņemts šā likuma 11.pantā noteiktais Valsts meža dienesta sanitārais atzinums. Šādos gadījumos nepiemēro šā panta otrās daļas 1.un 2.punkta noteikumus.
 (2) Galvenā cirte ir aizliegta:
 1) ja meža īpašnieks vai tiesiskais valdītājs normatīvajos aktos noteiktajos termiņos un kvalitātē nav atjaunojis mežu vismaz 80 procentu apmērā no kopējās atjaunojamās platības savā valdījumā esošajos mežos attiecīgās mežniecības teritorijā;
 2) ja vienā apsaimniekošanas objektā esošajos mežos galvenajai cirtei piegulošajās platībās mežaudze 1,0 hektāra un lielākā platībā nav atzīta par atjaunotu un mežaudze nav sasniegusi vismaz triju gadu vecumu;
