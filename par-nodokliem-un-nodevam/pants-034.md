@@ -1,0 +1,8 @@
+34.pants. Atbildība par uzņēmējdarbības veikšanu, nereģistrējoties kā nodokļu maksātājam un citiem nodokļu likumu pārkāpumiem
+Ja fiziskā vai juridiskā persona, kas veic uzņēmējdarbību, nereģistrējas kā nodokļu maksātājs vai 30 dienu laikā pēc noteiktā termiņa neiesniedz nodokļu likumos paredzētās deklarācijas vai nodokļu aprēķinus, kā arī saimniecības un grāmatvedības dokumentus, bez kuriem nodokļu administrācijas ierēdņi (darbinieki) nevar noteikt nodokļu bāzi, vai nerada iespēju iekasēt nodokļus, vai neatļauj nodokļu administrācijas ierēdnim (darbiniekam) ieiet nodokļu maksātāja telpās, kad šim ierēdnim (darbiniekam) ir tādas tiesības, tad:
+1) tiek piemērota šā likuma 33.panta pirmajā daļā noteiktā atbildība, bet, ja nav iespējams noteikt nodokļu lielumu, tos iekasē par iepriekšējo periodu aprēķināto nodokļu dubultā apmērā, bet, ja tādu nav bijis, nodokļu lielumu nosaka, pamatojoties uz nodokļu administrācijas rīcībā esošo informāciju par analogiem nodokļu maksātājiem un piemērojot pārkāpējiem nodokļu maksājumus dubultā apmērā;
+2) pēc nodokļu administrācijas pieprasījuma:
+a) ministrijām, pašvaldībām un citām institūcijām jāatsauc nodokļu maksātājam izsniegtā atļauja (licence) veikt uzņēmējdarbību,
+b) muitas iestādēm jāaptur nodokļu maksātāja eksporta un importa operācijas,
+c) bankām jāpārtrauc līdzekļu izsniegšana un pārskaitījumi no nodokļu maksātāja konta, līdz tiek saņemts nodokļu administrācijas rakstveida atsaukums vai tiesas nolēmums;
+3) tiek piemēroti citos likumdošanas aktos noteiktie sodi. Nodokļu administrācija ir tiesīga iesniegt materiālus attiecīgajā valsts institūcijā krimināllietas ierosināšanai.

@@ -1,0 +1,1 @@
+6. Līdz īpaša likuma pieņemšanai par nodokļu maksātāju reģistru šā likuma 15.panta trešās daļas 3.punktā noteiktā reģistrācija jāveic 30 dienu laikā pēc uzņēmuma (uzņēmējsabiedrības) reģistrācijas Latvijas Republikas Uzņēmumu reģistrā.

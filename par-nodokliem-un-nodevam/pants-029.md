@@ -1,0 +1,5 @@
+29.pants. Nokavējuma naudas aprēķināšana
+(1) Nodokļu, kā arī citu budžetā ieskaitāmo nokavēto maksājumu (arī soda naudu) summa (pamatparāds) tiek palielināta atbilstoši Latvijas Bankas noteiktajai refinansēšanas likmei kavējuma periodā.
+(2) Par nodokļu, kā arī citu budžetā ieskaitāmo maksājumu nokavējumu no maksātāja tiek piedzīta nokavējuma nauda - no laikā nenomaksātā pamatparāda 0,05 procenti par katru nokavēto dienu, ja konkrētā nodokļa likumā nav paredzēti citi nokavējuma naudas apmēri.
+(3) Nokavējuma naudas aprēķināšana tiek pārtraukta, ja summa, par kādu palielināts pamatparāds atbilstoši Latvijas Bankas noteiktajai refinansēšanas likmei, kopā ar nokavējuma naudu sasniedz nokavētā maksājuma (pamatparāda) apmēru.
+(4) Privatizējamiem uzņēmumiem šā panta pirmajā un otrajā daļā noteiktās nokavējuma naudas un pamatparāda palielinājuma naudas aprēķināšana tiek pārtraukta uz laiku no privatizācijas noteikumu apstiprināšanas dienas līdz dienai, kad saistības tiek nodotas jaunajam īpašniekam ar pieņemšanas- nodošanas aktu, bet ne ilgāk kā uz deviņiem mēnešiem.

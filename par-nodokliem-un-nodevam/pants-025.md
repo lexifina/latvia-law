@@ -1,0 +1,3 @@
+25.pants. Nodokļu un nodevu parādu dzēšana
+(1) Valsts nodokļu un nodevu parādus, kā arī ar tiem saistītās soda naudas un nokavējuma naudas, kuru piedzīšana jāveic nodokļu administrācijai, bet kuras ar tiesas lēmumu atzītās maksātāja maksātnespējas vai tā neatrašanas dēļ nav iespējams piedzīt un kuru dzēšanas kārtība nav paredzēta, pēc nodokļu administrācijas priekšlikuma dzēš finansu ministrs. Finansu ministrija laikrakstā "Latvijas Vēstnesis" publicē informāciju par dzēstajiem valsts nodokļu un nodevu parādiem.
+(2) Pašvaldību budžetos iekasējamo nodokļu un nodevu parādus šajā pantā minētajos gadījumos dzēš pašvaldības.

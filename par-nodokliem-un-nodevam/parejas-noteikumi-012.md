@@ -1,0 +1,1 @@
+12. Metodiku nodokļu aprēķināšanai un ar to saistīto operāciju atspoguļošanai grāmatvedībā Valsts ieņēmumu dienests izstrādā un publicē laikrakstā "Latvijas Vēstnesis" līdz šā likuma spēkā stāšanās brīdim.

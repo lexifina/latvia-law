@@ -1,0 +1,4 @@
+2. pants. Likuma darbības sfēra
+(1) Likums nosaka nodokļu un nodevu veidus un reglamentē nodokļu un nodevu noteikšanas kārtību, to iekasēšanu un piedziņu, nodokļu un nodevu maksātāju (turpmāk - nodokļu maksātāji) un nodokļu un nodevu administrācijas (turpmāk - nodokļu administrācija) tiesības, pienākumus un atbildību, kā arī nodokļu un nodevu jautājumos pieņemto lēmumu pārsūdzēšanas kārtību.
+(2) Šis likums attiecas uz visiem nodokļiem un nodevām, ja konkrētā nodokļa likums neparedz citu, konkrētā nodokļa vai nodevas specifikai atbilstošu kārtību, kura nedrīkst būt pretrunā ar šo likumu. Muitas nodokļa noteikšanas kārtību, iekasēšanu un sankciju piemērošanu reglamentē arī likums "Par muitas nodokli (tarifiem)" un Muitas kodekss.
+(3) Konkrēto nodokli vai nodevu uzliek saskaņā ar konkrētā nodokļa vai nodevas likumu, kā arī šajā likumā paredzētajos gadījumos saskaņā ar Ministru kabineta noteikumiem vai pašvaldības domes (padomes) izdotiem saistošiem noteikumiem.

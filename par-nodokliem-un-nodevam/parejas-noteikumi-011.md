@@ -1,0 +1,1 @@
+11. Ministru kabinetam iesniegt Saeimai likumprojektu, kas precizē nodokļu administrācijas ierēdņu (darbinieku) administratīvo atbildību un kriminālatbildību par šā likuma 22.panta pirmajā daļā minētās informācijas izpaušanu.

@@ -1,0 +1,3 @@
+35.pants. Atbildība par smagiem nodokļu likumu pārkāpumiem
+(1) Ja nodokļu maksātājs sistemātiski neiesniedz nodokļu administrācijai nodokļu likumos noteiktos pārskatus, deklarācijas vai nodokļu aprēķinus un tai nav informācijas par šā maksātāja darbību vai ja tas ļaunprātīgi izvairās no nodokļu un nodevu maksāšanas, pēc nodokļu administrācijas priekšlikuma konkrētais uzņēmums (uzņēmējsabiedrība) vai organizācija tiek izslēgta no Latvijas Republikas Uzņēmumu reģistra.
+(2) Visos gadījumos, kad nodokļu maksātājs ir pieļāvis pārkāpumus, par kuriem paredzēta kriminālatbildība, nodokļu administrācijas ierēdnim (darbiniekam), kurš tos atklājis, ir pienākums 10 dienu laikā iesniegt par tiem ziņojumu un materiālus attiecīgajai valsts institūcijai krimināllietas ierosināšanai.
