@@ -1,0 +1,6 @@
+3. Ar brīdi, kad Ministru kabinets pārņēmis savā pakļautībā Latvijas Republikas Drošības dienestu un apstiprinājis šā dienesta nolikumu, atzīt par spēku zaudējušiem:
+1) Latvijas Republikas Augstākās padomes Prezidija lēmumu "Par Latvijas Republikas Drošības dienesta nolikuma apstiprināšanu" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 44./45.nr.);
+2) Latvijas Republikas Augstākās padomes Prezidija lēmumu "Par Latvijas Republikas Drošības dienesta štatu saraksta apstiprināšanu";
+3) Latvijas Republikas Augstākās padomes Prezidija lēmumu "Par grozījumiem Latvijas Republikas Augstākās padomes Prezidija 1992. gada 4. jūnija lēmumā "Par Latvijas Republikas Drošības dienesta nolikuma apstiprināšanu"" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1993, 3./4.nr.);
+4) Latvijas Republikas Augstākās padomes Prezidija lēmumu "Par Latvijas Republikas Augstākās padomes Apsardzes dienesta šaujamieroču, munīcijas un brizantīvo vielu iegādes, uzskaites, glabāšanas un izsniegšanas reglamentu" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 49./50.nr.);
+5) Latvijas Republikas Augstākās padomes lēmumu "Par Latvijas Republikas Augstākās Padomes Apsardzes dienesta pārdēvēšanu" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 6./7.nr.).

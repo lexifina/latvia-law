@@ -1,0 +1,4 @@
+3. pants. Izlūkošana un pretizlūkošana
+(1) Izlūkošanas saturu veido izlūkošanas un pretizlūkošanas darbības.
+(2) Izlūkošana ir īpaši pilnvarotu valsts iestāžu darbība, kuras nolūks ir iegūt informāciju par ārvalstu valdību, to institūciju, organizāciju vai atsevišķu personu nodomiem un darbību (rīcību), kas vērsta vai var tikt vērsta pret Latvijas Republiku, tās vitāli svarīgām valsts interesēm.
+(3) Pretizlūkošana ir īpaši pilnvarotu valsts iestāžu darbība, kuras nolūks ir nodrošināt valsts konstitucionālās iekārtas, valstiskās neatkarības, valsts ekonomiskā, zinātniskā, tehniskā un militārā potenciāla, valsts noslēpumu un vitāli svarīgu valsts interešu un drošības aizsardzību pret spiegošanu, diversijām, kaitniecību, terora aktiem un cita veida apdraudējumiem, kā arī veikt īpašus pasākumus šo apdraudējumu novēršanai, izbeigšanai vai to izraisīto seku likvidēšanai.

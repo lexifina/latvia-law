@@ -1,0 +1,2 @@
+Trešā nodaļa
+VALSTS DROŠĪBAS IESTĀŽU ORGANIZĀCIJA

@@ -1,0 +1,2 @@
+4. pants. Valsts drošības iestāžu darbības tiesiskais pamats
+Valsts drošības iestāžu darbības tiesiskais pamats ir Satversme, šis likums, Operatīvās darbības likums, citi likumi un normatīvie akti, kā arī starptautiskie līgumi, kas reglamentē nacionālās drošības un valsts ekonomiskās suverenitātes aizsardzību, sabiedriskās drošības un kārtības nodrošināšanas subjektu uzdevumus, pienākumus un tiesības.

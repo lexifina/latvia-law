@@ -1,0 +1,3 @@
+1. Ar šā likuma spēkā stāšanās brīdi atzīt par spēku zaudējušiem šādus Latvijas Republikas Augstākās padomes un Augstākās padomes Prezidija lēmumus:
+1) Latvijas Republikas Augstākās padomes lēmumu "Par Latvijas Republikas Augstākās padomes Apsardzes dienesta izveidošanu" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991,35./36.nr.);
+2) Latvijas Republikas Augstākās padomes lēmumu "Par grozījumiem Latvijas Republikas Augstākās padomes lēmumā "Par Latvijas Republikas Augstākās padomes Apsardzes dienesta izveidošanu"" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 35./36.nr.).

@@ -1,0 +1,4 @@
+22. pants. Sociālās garantijas valsts drošības iestāžu amatpersonas ievainojuma vai bojāejas gadījumā
+(1) Ja valsts drošības iestādes amatpersona, pildot dienesta pienākumus, ir guvusi ievainojumu vai sakropļojumu vai ja tās veselībai nodarīts citāds kaitējums un saskaņa ar medicīnisko atzinumu šī amatpersona vairs nevar pildīt dienesta pienākumus, tai tiek izmaksāta kompensācija viena gada līdz piecu gadu vidējās darba samaksas apmērā, ņemot vērā darbspējas zuduma pakāpi.
+(2) Ja ievainojuma rezultātā iestājusies nepārejoša invaliditāte, kompensāciju izmaksā piecu līdz desmit gadu vidējās darba samaksas apmērā.
+(3) Ja valsts drošības iestādes darbinieks vai amatpersona, pildot dienesta pienākumus, ir gājusi bojā, tās ģimenei papildus likumdošanas aktos noteiktajām kompensācijām tiek izmaksāts vienreizējs pabalsts desmit gadu vidējās darba samaksas apmērā. Bojā gājušās amatpersonas un darbinieki tiek apbedīti par valsts budžeta līdzekļiem.

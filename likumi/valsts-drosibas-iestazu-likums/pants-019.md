@@ -1,0 +1,9 @@
+19. pants. Valsts drošības iestāžu amatpersonu tiesības
+Valsts drošības iestāžu amatpersonām ir tiesības:
+1) savas kompetences ietvaros saņemt no valsts un pašvaldību institūcijām un amatpersonām nepieciešamo informāciju, dokumentus un citus materiālus neatkarīgi no to izmantošanas lieguma. Prasītā informācija, dokumenti un materiāli izsniedzami bez maksas;
+2) savas kompetences ietvaros brīvi iepazīties ar visu veidu valsts un pašvaldību informācijas nesēju, arī ar elektronisko datu banku, kartotēkām, arhīvu materiāliem un citiem dokumentiem neatkarīgi no to izmantošanas lieguma;
+3) brīdināt personas un pieprasīt, lai tās izbeidz prettiesiskas darbības un citu rīcību, kas ir vērsta pret valsts drošību vai var tai kaitēt, vai arī iesniegt materiālus par šādu prettiesisku darbību prokuroram;
+4) pildot dienesta pienākumus, iekļūt (ieiet) iestādēm, uzņēmumiem, organizācijām un privātpersonām piederošajās nedzīvojamās telpās un zemes gabalu teritorijā, Nacionālo bruņoto spēku apakšvienībās, izņemot telpas un zemes gabalu teritoriju, kam ir eksteritoriāls statuss;
+5) ja nepieciešams, ārpus kārtas tikt nodrošinātām ar braukšanas biļetēm jebkura veida sabiedriskā transporta līdzekļos, bet, ja biļešu nav, - tikt nodrošinātām ar iespēju iekāpt un braukt šajos transporta līdzekļos;
+6) dienesta interesēs bez maksas izmantot valsts un pašvaldību, bet izņēmuma gadījumos - arī privātpersonām piederošos sakaru un masu informācijas līdzekļus. Izdevumi par privātpersonām piederošo sakaru un masu informācijas līdzekļu izmantošanu jāatlīdzina, ja īpašnieks to pieprasa;
+7) glabāt un nēsāt dienesta vai personiskos ieročus un speciālos līdzekļus pašaizsardzībai. To glabāšanas un nēsāšanas kārtību nosaka valsts drošības iestādes vadītājs. Pielietojot ieročus un speciālos līdzekļus, jāievēro likuma «Par policiju» prasības.

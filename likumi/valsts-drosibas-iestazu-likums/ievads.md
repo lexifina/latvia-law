@@ -1,0 +1,1 @@
+Šis likums nosaka nacionālas drošības jēdzienu un saturu, valsts drošības iestāžu darbības tiesisko pamatu, mērķus un uzdevumus, pienākumus un atbildību, kā arī reglamentē šo iestāžu darbības finansēšanas, uzraudzības un kontroles kārtību.

@@ -1,0 +1,5 @@
+26. pants. Uzraudzība pār likumu ievērošanu valsts drošības iestādēs
+(1) Uzraudzību pār valsts drošības iestāžu darbības atbilstību likumiem veic ģenerālprokurors un viņa īpaši pilnvaroti prokurori. Veicot uzraudzību, viņi ir tiesīgi iepazīties ar valsts drošības iestāžu rīcībā esošajiem dokumentiem, materiāliem un informāciju. Informācijas avotu identitāte atklājama tikai tādos gadījumos, kad tie ir tieši iesaistīti nozieguma izdarīšanā, turklāt vienīgi ģenerālprokuroram, bet viņa īpaši pilnvarotiem prokuroriem - tikai ar valsts drošības iestādes vadītāja atļauju; informācijas avotu identitāti atklāt uzraudzības kārtībā ir aizliegts.
+(2) Prokuroriem, kuri uzrauga valsts drošības iestādes, informācijas aizsargāšanas pienākumi ir tādi paši kā šo iestāžu darbiniekiem.
+(3) Valsts drošības iestāžu pārbaudes un to apjoms jāsaskaņo ar Nacionālās drošības padomi. Ar pārbaudes rezultātiem jāiepazīstina Nacionālās drošības padome un Saeimas Nacionālās drošības komisija.
+(4) Valsts drošības iestādes ir pakļautas tiesas kontrolei Operatīvās darbības likumā noteiktajos gadījumos un kārtībā.
