@@ -1,0 +1,1 @@
+1.pants. 1996.gada 24.janvārī Rīgā parakstītais Līgums starp Latvijas Republikas valdību un Vācijas Federatīvās Republikas valdību par karā kritušo personu apbedījumiem (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
