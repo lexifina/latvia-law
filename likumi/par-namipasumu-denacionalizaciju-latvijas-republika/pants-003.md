@@ -1,2 +1,3 @@
 3. pants. Pamats izskatīt jautājumu par namīpašuma denacionalizāciju ir bijušo īpašnieku vai viņu mantinieku pieteikums.
-Pieteikums līdz 1994. gada 1. jūnijam jāiesniedz rajona padomei vai pilsētas domei (padomei) pēc namīpašuma atrašanās vietas.
+Pieteikumam jāpievieno īpašuma tiesības apliecinošs dokuments vai valsts arhīva izziņa par īpašuma tiesībām namīpašuma nacionalizācijas brīdī, bet bijušo īpašnieku mantiniekiem - arī dokuments, kas apliecina īpašnieka miršanas faktu (miršanas apliecība), un citi dokumenti, kas dod pamatu atzīt tiesības uz mantojumu (dzimšanas apliecība, laulības apliecība, testaments un citi dokumenti).
+Pieteikums jāiesniedz pilsētas domei vai rajona padomei pēc namīpašuma atrašanās vietas līdz 1994.gada 1.jūnijam, bet pārējie dokumenti - ne vēlāk kā līdz 1996.gada 1.jūnijam.
