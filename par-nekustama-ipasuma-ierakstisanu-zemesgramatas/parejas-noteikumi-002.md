@@ -1,0 +1,1 @@
+2. Šā likuma 19.panta otrā teikuma noteikumi nav piemērojami, ja tajā minētie objekti nodoti privatizācijai līdz šā likuma spēkā stāšanās dienai un atrodas uz valstij vai pašvaldībai piederošās vai piekrītošās zemes.

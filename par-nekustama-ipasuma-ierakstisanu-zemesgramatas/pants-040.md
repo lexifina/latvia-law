@@ -1,1 +1,1 @@
-40.pants. Daudzdzīvokļu dzīvojamā mājā esošos privatizētos dzīvokļus var ierakstīt zemesgrāmatā tikai tad, ja atbilstoši šim likumam zemesgrāmatā ierakstīta dzīvojamā māja.
+40.pants. Daudzdzīvokļu dzīvojamā mājā esošos privatizētos dzīvokļus var ierakstīt zemesgrāmatā tikai tad, ja atbilstoši šim likumam zemesgrāmatā ierakstīta dzīvojamā māja un pievienota dzīvojamo māju privatizācijas komisijas izziņa par dzīvojamās mājas sadalīšanu dzīvokļu īpašumos.

@@ -1,1 +1,1 @@
-19.pants. Zemesgrāmatā nav ierakstāmas ēkas (būves), kuras atbilstoši inventarizācijas lietas datiem uzceltas nelikumīgas celtniecības rezultātā.
+19.pants. Zemesgrāmatā nav ierakstāmas ēkas (būves), kuru tehniskās inventarizācijas lietā ir uzrādītas patvaļīgas būvniecības pazīmes, kā arī mazēkas un pagaidu būves. Tāpat zemesgrāmatā kā patstāvīgi īpašuma objekti nav ierakstāmas virszemes un apakšzemes inženierkomunikācijas, cauruļvadu trases, ceļi, ielas, stāvlaukumi un citas tamlīdzīgas būves.
