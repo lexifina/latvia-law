@@ -6,7 +6,7 @@ Piedziņas vēršanai pēc izpildu dokumentiem nav pakļauta šāda veida manta 
 4) mēbeles - pa vienai gultai un krēslam katrai personai, kā arī viens galds un viens skapis uz ģimeni;
 5) visi bērnu piederumi.
 2. Mājās esošie pārtikas produkti tādā daudzumā, kāds nepieciešams parādnieka un viņa ģimenes locekļu uzturēšanai triju mēnešu laikā.
-3. Nauda mēneša minimālās algas apmērā uz parādnieku, katru viņa ģimenes locekli un apgādībā esošu personu.
+3. Nauda minimālās mēneša darba algas apmērā uz parādnieku, katru viņa ģimenes locekli un apgādībā esošu personu, bet uzturlīdzekļu piedziņas lietās nepilngadīgu bērnu uzturam vai Uzturlīdzekļu garantiju fonda administrācijas labā - nauda 50 procentu apmērā no minimālās mēneša darba algas uz parādnieku, katru viņa ģimenes locekli un apgādībā esošu personu.
 4. Uz ģimeni viena govs vai kaza un viena cūka, kā arī lopbarība tādā daudzumā, kāds nepieciešams līdz jaunas lopbarības ievākšanai vai līdz lopu dzīšanai ganībās.
 5. Kurināmais, kas nepieciešams ģimenei ēdiena gatavošanai un dzīvojamās telpas apsildīšanai apkurināšanas sezonas laikā.
 6. Grāmatas, instrumenti un rīki, kas nepieciešami parādniekam viņa personīgajā ikdienas darbā, sagādājot iztikai vajadzīgos līdzekļus.

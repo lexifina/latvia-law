@@ -10,3 +10,4 @@
 (3) Izsniedzot izpildu dokumentu piedzinējam, tiesu izpildītājs atceļ visus pieņemtos piespiedu izpildes līdzekļus.
 (4) Izpildu dokumenta izsniegšana atpakaļ piedzinējam nav šķērslis šā dokumenta jaunai iesniegšanai izpildei likumā noteiktajā termiņā.
 (5) Izpildu dokumentu, pēc kura izpilde izdarāma valsts ienākumos, tiesu izpildītājs izsniedz Valsts ieņēmumu dienestam.
+(6) Uzturlīdzekļu garantiju fonda administrācijas izpildrīkojumu par nepamatoti izmaksāto uzturlīdzekļu summu piedziņu no iesniedzēja piedzinējam atpakaļ neizsniedz. Ja uzturlīdzekļu piedzinējs saņēmis tiesu izpildītāja izziņu par uzturlīdzekļu piedziņas neiespējamību vai daļēju piedziņu, izpildu dokumentu piedzinējam izsniedz tikai pēc tam, kad no Uzturlīdzekļu garantiju fonda administrācijas saņemts apliecinājums par prasījuma neesamību. Tiesu izpildītāja pienākums ir ne retāk kā reizi pusgadā veikt parādnieka mantas un ienākumu pārbaudi.
