@@ -1,0 +1,1 @@
+4.pants. Saskaņā ar Nolīguma 16.panta trešo daļu, līdz Nolīgums stājas spēkā, Latvija piemēro Nolīgumu attiecībās ar tām dalībvalstīm, kuras sniegušas šajā Nolīguma pantā minēto paziņojumu. Šis paziņojums stājas spēkā 90 dienas pēc tā deponēšanas.
