@@ -1,0 +1,1 @@
+1.pants. 2001.gada 23.oktobrī Strasbūrā parakstītais Latvijas Republikas valdības un Eiropas Padomes līgums par Eiropas Padomes Informācijas biroja Rīgā (Latvijas Republikā) statusu (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
