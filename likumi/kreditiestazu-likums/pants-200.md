@@ -1,0 +1,1 @@
+200.pants. Ja kredītiestādes padomes, valdes priekšsēdētājs, locekļi, rīkotājdirektors vai darbinieki apzināti piešķīruši kādam kreditoram nepamatotas pirmtiesības vai piekrituši, ka tādas tiek piešķirtas, attiecīgā persona tiek saukta pie administratīvās atbildības vai pie kriminālatbildības.
