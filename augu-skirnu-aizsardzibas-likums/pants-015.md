@@ -1,0 +1,5 @@
+15.pants. Konvencijprioritāte
+(1) Iesniedzējam, kas noteiktā kārtībā iesniedzis iesniegumu citā Starptautiskās jaunu augu šķirņu aizsardzības savienības (UPOV) dalībvalstī, 12 mēnešu laikā ir tiesības iesniegt Latvijā iesniegumu attiecībā uz to pašu šķirni, izmantojot pirmā iesnieguma prioritāti. Noteikto 12 mēnešu laika periodu sāk skaitīt no dienas, kas seko pirmā iesnieguma iesniegšanas dienai.
+(2) Lai apliecinātu prioritāti, iesniedzējs triju mēnešu laikā pēc iesnieguma reģistrācijas Valsts augu aizsardzības dienestā iesniedz reģistrēta, prioritātes datumu apstiprinoša iesnieguma kopiju.
+(3) Iesniedzējam ir tiesības triju gadu laikā pēc prioritātes datuma iesniegt Valsts augu aizsardzības dienestam papildu informāciju, dokumentus vai materiālus, kas nepieciešami iesnieguma izvērtēšanai un šķirnes pārbaudei.
+(4) Cita iesnieguma reģistrācija par pirmajā iesniegumā minēto šķirni, šīs šķirnes izmantošana vai ziņu publicēšana par to nevar būt par iemeslu otrā iesnieguma noraidīšanai. Minētās darbības nevar būt arī par pamatu, lai rastos jebkādas trešās personas tiesības uz šķirni.
