@@ -1,0 +1,1 @@
+11. Grozījumi likuma 1.panta otrajā daļā (likumā lietotajos terminos attiecībā uz Rēzeknes speciālo ekonomisko zonu) stājas spēkā vienlaikus ar attiecīgiem grozījumiem Rēzeknes speciālās ekonomiskās zonas likumā.
