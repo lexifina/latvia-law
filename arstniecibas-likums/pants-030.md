@@ -1,1 +1,0 @@
-30.pants. Latvijas Ārstu biedrība un Latvijas Māsu asociācija katru gadu izstrādā un paziņo to ārstniecības iestāžu un ārstniecības personu sarakstus, kas noteiktā kārtībā ir tiesīgas veikt ārstniecības personu apmācību speciālista prakses tiesību iegūšanai.

@@ -1,1 +1,1 @@
-34.pants. Ārstniecības iestādes vadītāja pienākums ir noteikt kārtību, kādā ārstniecības iestādē lietojamas Labklājības ministrijas apstiprinātas medicīniskās tehnoloģijas.
+34.pants. Medicīnisko ierīču un medicīnisko preču realizācijas, izplatīšanas, reģistrācijas, ekspluatācijas un tehniskās uzraudzības kārtību nosaka Ministru kabinets. Ārstniecības iestādes vadītājs ir tieši atbildīgs par noteiktās kārtības ievērošanu ārstniecības iestādē.

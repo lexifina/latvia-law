@@ -1,4 +1,4 @@
-37.pants. Ārsts ir ārstniecības persona ar augstāko medicīnisko izglītību, kas ar zinātniski pamatotu medicīnisko darbību tieši vai netieši iedarbojas uz cilvēku un savas profesionālās darbības ietvaros:
+37.pants. Ārsts ir ārstniecības persona, kura ieguvusi augstāko medicīnisko ārsta izglītību un kura ar zinātniski pamatotu medicīnisko darbību tieši vai netieši iedarbojas uz cilvēku un savas profesionālās darbības ietvaros:
 1) izmeklē pacientus fizisku, garīgu vai psihisku slimību konstatēšanai vai noliegšanai un ārstēšanai;
 2) novērtē slimības un to radītās sekas;
 3) ārstē šā panta 1. punktā minētās slimības;

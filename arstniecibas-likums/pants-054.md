@@ -1,1 +1,2 @@
-54.pants. Ārstniecības iestādi var izveidot valsts institūcijas, pašvaldības, fiziskās vai juridiskās personas.
+54.pants. (1) Ārstniecības iestādi var izveidot valsts institūcijas, pašvaldības, fiziskās vai juridiskās personas.
+(2) Ārstniecības iestādes var būt ambulatoras, kur pacientiem, ja nav nepieciešama ievietošana stacionārā, sniedz primārās un sekundārās veselības aprūpes pakalpojumus, un stacionāras, kur pacientiem, kas visu diennakti atrodas pastāvīgā ārstniecības personu aprūpē, sniedz sekundārās un terciārās veselības aprūpes pakalpojumus līdz noteikta ārstniecības mērķa sasniegšanai.

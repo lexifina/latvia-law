@@ -1,1 +1,1 @@
-33.pants. Augstākajās un vidējās medicīniskās izglītības iestādēs klausītāji mācību programmu ietvaros nodarbojas ar slimnieku ārstēšanu vai sniedz dzemdībpalīdzību tikai tādas ārstniecības personas tiešā uzraudzībā, kurai ir speciālista prakses tiesības.
+33.pants. Medicīniskās izglītības iestādēs izglītojamie izglītības programmas ietvaros var nodarboties ar ārstniecību tikai tiešā sertificētas ārstniecības personas uzraudzībā.

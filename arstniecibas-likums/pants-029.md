@@ -1,1 +1,1 @@
-29.pants. Speciālista prakses tiesības apliecina ārstniecības personas sertifikāts. Ārstniecības personu sertifikācijas kārtību nosaka Ministru kabinets.
+29.pants. Speciālista prakses tiesības apliecina ārstniecības personas sertifikāts un tās reģistrācija normatīvajos aktos noteiktajā kārtībā. Ārstniecības personu sertifikācijas kārtību nosaka Ministru kabinets.

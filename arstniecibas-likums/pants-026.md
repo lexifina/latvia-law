@@ -1,1 +1,1 @@
-26.pants. Nodarboties ar ārstniecību atļauts ārstniecības personām, kuras ir reģistrētas normatīvajos aktos noteiktajā kārtībā.
+26.pants. Patstāvīgi nodarboties ar ārstniecību savas kompetences ietvaros atļauts ārstniecības personām, kuras ir sertificētas un reģistrētas normatīvajos aktos noteiktajā kārtībā.
