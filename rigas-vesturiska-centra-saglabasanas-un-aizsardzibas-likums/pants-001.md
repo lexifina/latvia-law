@@ -1,0 +1,6 @@
+1.pants. Likumā ir lietoti šādi termini:
+1) kultūrvēsturiska vērtība - cilvēka radošā gara meistardarbs, kas demonstrē nozīmīgu cilvēces vērtību mijiedarbību noteiktā laika posmā vai vietā saistībā ar arhitektūras vai tehnoloģijas attīstību, monumentālo mākslu, pilsētas plānošanu, ainavu dizainu, kas tieši vai materiāli ir saistīts ar notikumiem, dzīvām tradīcijām, mākslas vai literāriem darbiem, kam piemīt īpaša universāla vērtība un kas nav jaunāks par 25 gadiem;
+2) kultūrvēsturiskā vide - cilvēces attīstības gaitā apzinātas darbības rezultātā radīta vieta, ja tai vai atsevišķiem tās elementiem ir vēsturiska, zinātniska, mākslinieciska, ainaviska vai citāda saglabājama kultūras vērtība;
+3) kultūrvēsturiskās vides pārveidošana - jebkura tehniska, būvnieciska, saimnieciska darbība, kuras rezultātā tiek fiziski mainīta kultūrvēsturiskā vide (tās funkcija, forma, krāsa, atsevišķas detaļas, materiāls), kā arī cita kultūras vērtība;
+4) publiskā ārtelpa - ielas, bulvāri, laukumi, parki, skvēri, krastmalas, kvartālu telpa, pagalmi, kas bez ierobežojumiem pieejami sabiedrībai neatkarīgi no tā, kā īpašumā tie atrodas;
+5) Rīgas vēsturiskā centra un tā aizsardzības zonas teritorijas plānojums - teritorijas plānošanas dokuments vai plānošanas dokumentu kopums, kurš izstrādāts šajā likumā un citos normatīvajos aktos noteiktajā kārtībā.

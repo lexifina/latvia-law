@@ -1,0 +1,1 @@
+7. Šo pārejas noteikumu 6.punktā noteiktajā kārtībā pieņemtos Padomes lēmumus nosūta Rīgas Domei, Valsts kultūras pieminekļu aizsardzības inspekcijai un būvniecības ieceres autoram. Lēmumus var apstrīdēt Kultūras ministrijā vai pārsūdzēt tiesā likumā noteiktajā kārtībā.

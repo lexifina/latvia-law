@@ -1,0 +1,1 @@
+13.pants. Padome ir tiesīga bez maksas saņemt informāciju no valsts un pašvaldību institūcijām par to naudas līdzekļu izlietošanu, kurus tās iegūst, izīrējot (iznomājot) Rīgas vēsturiskajā centrā esošos valstij vai pašvaldībai piederošos kultūras pieminekļus, kā arī par citu šajā likumā paredzēto ieņēmumu izlietošanu.

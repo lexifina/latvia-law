@@ -1,0 +1,1 @@
+6.pants. Rīgas vēsturiskā centra un tā aizsardzības zonas teritorija, kas saskaņā ar Rīgas brīvostas likumu vienlaikus ir arī Rīgas brīvostas teritorija, tiek apbūvēta vai citādi pārveidota, ievērojot šā likuma noteikumus.

@@ -1,0 +1,1 @@
+9. Līdz Rīgas vēsturiskā centra teritorijas plānojuma spēkā stāšanās dienai par šo pārejas noteikumu 6., 7. un 8.punktā Padomei deleģēto uzdevumu veikšanai nepieciešamo materiālo un finansiālo nodrošinājumu, kā arī par šo uzdevumu tiesisku un lietderīgu izpildi, veicot uzraudzību pār to, ir atbildīga Kultūras ministrija.

@@ -1,0 +1,1 @@
+14.pants. Jaunu ēku būvniecība Rīgas vēsturiskā centra publiskajā ārtelpā pieļaujama tikai pēc atklātos arhitektūras konkursos iegūtiem projektiem, to publiskas izvērtēšanas un izskatīšanas Padomē un saskaņošanas normatīvajos aktos noteiktajā kārtībā ar Valsts kultūras pieminekļu aizsardzības inspekciju.

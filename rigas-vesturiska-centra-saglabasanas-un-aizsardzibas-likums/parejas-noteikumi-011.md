@@ -1,0 +1,1 @@
+11. Rīgas vēsturiskajā centrā esošo ēku īpašnieki, kas līdz šā likuma spēkā stāšanās brīdim, ievērojot normatīvajos aktos noteikto kārtību, uzsākuši un veikuši ēku pārbūvi vai pārplānošanu, līdz 2004.gada 1.jūlijam sakārto ēku dokumentāciju atbilstoši projekta dokumentācijā norādītajam attiecīgās ēkas izmantošanas veidam.

@@ -1,0 +1,1 @@
+3.pants. Šā likuma uzdevums ir noteikt Rīgas vēsturiskā centra un tā aizsardzības zonas statusu, teritoriju, saglabāšanas, aizsardzības, izmantošanas, kā arī attīstības projektu īstenošanas kārtību un prasības Rīgas vēsturiskā centra un tā aizsardzības zonas teritorijas plānojuma izstrādei.
