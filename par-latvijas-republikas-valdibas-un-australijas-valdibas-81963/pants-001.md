@@ -1,0 +1,1 @@
+1.pants. 1993.gada 23.novembrī Kanberā parakstītais Latvijas Republikas valdības un Austrālijas valdības nolīgums par tirdzniecību un ekonomisko sadarbību (turpmāk - Līgums) (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 24.nr.) ar šo likumu tiek denonsēts.
