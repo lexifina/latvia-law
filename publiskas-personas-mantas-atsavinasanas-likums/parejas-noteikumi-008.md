@@ -1,1 +1,0 @@
-8. Maksājumos par valsts un pašvaldību atsavināmo zemi tiem zemesgabaliem, kuru zemes atsavināšanas ierosinājumi iesniegti un noteiktā kārtībā reģistrēti valsts un pašvaldību institūcijās līdz 2003.gada 15.aprīlim, var piemērot maksāšanas līdzekļu attiecību, kurā īpašuma kompensācijas sertifikātu apjoms ir ne mazāk kā 80 procentu no zemes atsavināšanas cenas.

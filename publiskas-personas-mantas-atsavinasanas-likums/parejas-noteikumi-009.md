@@ -1,1 +1,0 @@
-9. Maksājumos par valsts un pašvaldību atsavināmo zemi tiem zemesgabaliem, kuru zemes atsavināšanas ierosinājumi iesniegti un noteiktā kārtībā reģistrēti valsts un pašvaldību institūcijās pēc 2003.gada 15.aprīļa, īpašuma kompensācijas sertifikātu minimālo apjomu Ministru kabinets var noteikt ar noteikumiem, kas pieņemti un stājušies spēkā pēc 2003.gada 15.aprīļa.
