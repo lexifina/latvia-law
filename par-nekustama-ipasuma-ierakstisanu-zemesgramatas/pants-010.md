@@ -1,0 +1,1 @@
+10.pants. Ierakstot zemesgrāmatā zemi, zemesgrāmatu nodaļas tiesnesis atbilstoši Zemesgrāmatu likuma 77.pantam izskata nostiprinājuma lūgumu un šā likuma 7., 8. vai 9.pantā minētos attiecīgos dokumentus, kā arī pārliecinās, vai lūgumam ir pievienoti šā likuma 4.pantā minētie dokumenti.

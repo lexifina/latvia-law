@@ -1,0 +1,1 @@
+7.pants. Fiziskās vai juridiskās personas atgūtā zeme ierakstāma zemesgrāmatā uz šīs personas vārda, pamatojoties uz likumā paredzētajā kārtībā pieņemtu lēmumu par zemes īpašuma tiesību atjaunošanu vai uz tiesas spriedumu.

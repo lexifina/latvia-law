@@ -1,0 +1,1 @@
+20.pants. Ja zemesgrāmatā tiek ierakstītas ēkas (būves), kurām likumā noteiktajā kārtībā uzlikts un Valsts zemes dienestā vai pašvaldībā reģistrēts atsavināšanas aizliegums vai servitūti, zemesgrāmatā atsavināšanas aizliegums vai servitūti ierakstāmi atzīmju veidā un atzīmes dzēšamas vai aizstājamas ar ierakstiem tikai pēc ieinteresēto personu lūguma.

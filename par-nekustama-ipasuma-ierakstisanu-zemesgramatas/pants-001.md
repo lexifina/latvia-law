@@ -1,0 +1,1 @@
+1.pants. Šis likums nosaka kārtību, kādā zemesgrāmatās ierakstāma fizisko un juridisko personu atgūtā un privatizētā zeme, valsts un pašvaldību zeme, kā arī dzīvokļi un ēkas (būves), kas atrodas uz šīs zemes vai zemē.

@@ -1,0 +1,1 @@
+41.pants. Valsts un pašvaldību daudzdzīvokļu dzīvojamā mājā esošais privatizētā dzīvokļa īpašums ierakstāms zemesgrāmatā uz ieguvēja vārda likumā "Par dzīvokļa īpašumu" noteiktajā kārtībā, pamatojoties uz pirkuma līgumu.

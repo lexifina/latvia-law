@@ -1,0 +1,1 @@
+47.pants. Īpašuma tiesības šā likuma 46.pantā minētajā gadījumā nostiprināmas, pamatojoties uz kopīpašnieku vienošanos vai tiesas spriedumu par kopīpašuma izbeigšanu. Nostiprinājuma lūgumam pievienojams dokuments, kas apliecina nekustamā īpašuma (zemes, ēku) tiesisku iegūšanu, un pašvaldības lēmums par ēku (būvju) atrašanās vietu (adresi).

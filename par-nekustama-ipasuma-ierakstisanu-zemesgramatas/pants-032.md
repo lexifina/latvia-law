@@ -1,0 +1,1 @@
+32.pants. Šā likuma 31.pantā minētie nosacījumi nav piemērojami un ēkas (būves) ierakstāmas zemesgrāmatā vispārējā kārtībā, ja ēkas (būves) iegūtas, pamatojoties uz likumiem, kas reglamentē valsts un pašvaldību īpašuma privatizāciju vai atsavināšanu vai valsts un pašvaldību uzņēmumu pārveidošanu par uzņēmējsabiedrībām.

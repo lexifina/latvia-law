@@ -1,0 +1,1 @@
+44.pants. Ja īpašuma tiesības uz dzīvokli iegūtas darījuma rezultātā vai mantošanas ceļā pēc 1993.gada 4.aprīļa, tas ierakstāms zemesgrāmatā un īpašuma tiesības nostiprināmas kārtībā, kāda noteikta šā likuma 21.-23. vai 31. un 32.pantā.

@@ -1,0 +1,1 @@
+30.pants. Ja zemesgrāmatā tiek ierakstītas ēkas (būves), ko juridiskā persona ir uzcēlusi pēc 1940.gada 21.jūlija, nostiprinājuma lūgumam pievienojams valdības vai tās noteiktas valsts institūcijas apliecinājums tam, ka šajos objektos nav valsts ieguldījuma, vai arī tam, ka valsts nepretendē uz šo īpašumu vai tā daļu.

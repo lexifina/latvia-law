@@ -1,0 +1,1 @@
+45.pants. Īpašuma tiesības uz dzīvokļiem, kas iegūti fiziskajām un juridiskajām personām piederošā dzīvojamā mājā, nostiprināmas atbilstoši likuma "Par dzīvokļa īpašumu" noteikumiem, ja dzīvojamā māja ir ierakstīta zemesgrāmatā un nostiprinājuma lūgumam pievienots Valsts zemes dienesta apliecinājums par namīpašuma sadalīšanu dzīvokļa īpašumos.

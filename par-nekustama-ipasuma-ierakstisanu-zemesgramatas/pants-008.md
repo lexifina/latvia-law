@@ -1,0 +1,1 @@
+8.pants. Valsts un pašvaldību zeme ierakstāma zemesgrāmatā uz valsts vai attiecīgās pašvaldības vārda, pamatojoties uz dokumentiem, kas norādīti likumā "Par valsts un pašvaldību zemes īpašuma tiesībām un to nostiprināšanu zemesgrāmatās".

@@ -1,0 +1,1 @@
+25.pants. Jaunbūves (iesākta būvniecība līdz nodošanai ekspluatācijā) ierakstāmas zemesgrāmatā, pamatojoties uz būvinspekcijas izdotu izziņu, kurā norādīts būvniecības tiesiskais pamats un jaunbūves raksturojums.

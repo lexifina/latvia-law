@@ -1,0 +1,1 @@
+42.pants. Šā likuma 41.pantā noteiktajā kārtībā, pamatojoties uz dokumentu, ko iesniegusi attiecīgā dzīvokļu privatizācijas komisija, zemesgrāmatā ierakstāmi arī dzīvokļi, kas privatizēti atbilstoši likumiem "Par kooperatīvo dzīvokļu privatizāciju", "Par lauksaimniecības uzņēmumu un zvejnieku kolhozu privatizāciju" vai citiem likumiem.

@@ -1,0 +1,1 @@
+22.pants. Ja nostiprinājuma lūdzējs nevar iesniegt šā likuma 21.pantā minētos dokumentus, par nostiprinājuma pamatu var būt tiesas spriedums, ar kuru atzītas viņa īpašuma tiesības. Sagatavojot lietu izskatīšanai, tiesa publicē laikrakstā "Latvijas Vēstnesis" sludinājumu, kurā uzaicina personas, kurām ir kādi iebildumi pret prasību, iesniegt tos tiesai triju mēnešu laikā.

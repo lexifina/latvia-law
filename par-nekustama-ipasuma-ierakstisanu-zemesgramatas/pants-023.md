@@ -1,0 +1,1 @@
+23.pants. Šā likuma 21.pantā minētie nosacījumi nav piemērojami un ēkas (būves) ierakstāmas zemesgrāmatā vispārējā kārtībā, ja tās iegūtas, pamatojoties uz likumiem, kas regulē īpašuma tiesību atjaunošanu vai valsts un pašvaldību īpašuma privatizāciju vai atsavināšanu.

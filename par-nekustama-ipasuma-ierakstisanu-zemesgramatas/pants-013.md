@@ -1,0 +1,1 @@
+13.pants. Ēkas (būves), kas saskaņā ar likuma "Par atjaunotā Latvijas Republikas 1937.gada Civillikuma ievada, mantojuma tiesību un lietu tiesību daļas spēkā stāšanās laiku un kārtību" 14.pantu ir patstāvīgs nekustamais īpašums un atrodas uz svešas zemes, ierakstāmas zemesgrāmatā vispārējā kārtībā.

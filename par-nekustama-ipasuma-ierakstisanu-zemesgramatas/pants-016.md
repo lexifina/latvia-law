@@ -1,0 +1,1 @@
+16.pants. Ierakstot saskaņā ar šā likuma 13.pantu zemesgrāmatā ēkas (būves), kas atrodas uz zemes, kura ir ierakstīta zemesgrāmatā, nostiprinājuma lūgumam pievienojama Valsts zemes dienesta izziņa par ēku (būvju) saistību ar zemi (zemesgrāmatas nodalījums, adrese, kadastra numurs, zemes īpašnieks) un par to zemesgrāmatas nodalījuma pirmajā daļā izdarāma atzīme.

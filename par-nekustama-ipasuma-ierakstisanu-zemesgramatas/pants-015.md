@@ -1,0 +1,2 @@
+15.pants. (1) Ierakstot saskaņā ar šā likuma 13.pantu zemesgrāmatā ēkas (būves), kas atrodas uz zemes, kura nav ierakstīta zemesgrāmatā, nostiprinājuma lūgumam pievienojams robežu plāns ar kadastra numuru un likumos noteiktās institūcijas lēmums par zemes gabala platību un robežu plāna apstiprināšanu.
+(2) Zemesgrāmatas nodalījuma pirmajā daļā izdarāma atzīme: "Zemes īpašuma tiesības nav noskaidrotas. Ēkas (būves) saistītas ar zemes gabalu (adrese, platība, kadastra numurs)."

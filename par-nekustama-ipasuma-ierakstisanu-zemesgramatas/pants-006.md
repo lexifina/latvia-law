@@ -1,0 +1,1 @@
+6.pants. Inventarizācijas lietā iekļautās ziņas, kurās dots ēku (būvju) raksturojums un novērtējums, noraksta veidā pievienojamas nekustamā īpašuma lietai, bet pati inventarizācijas lieta atdodama īpašniekam.

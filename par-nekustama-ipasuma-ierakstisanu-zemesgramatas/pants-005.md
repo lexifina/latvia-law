@@ -1,0 +1,1 @@
+5.pants. Nostiprinājuma lūgumam pievienotie dokumenti glabājami nekustamā īpašuma lietā, bet īpašniekam pēc viņa lūguma izsniedzams Zemesgrāmatu likuma 91.pantā noteiktajā kārtībā sagatavots zemesgrāmatas akts.

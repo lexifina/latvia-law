@@ -1,0 +1,1 @@
+31.pants. Ja juridiskā persona ēkas (būves) ieguvusi darījuma rezultātā, tās šā likuma 21.-23.pantā noteiktajā kārtībā ierakstāmas zemesgrāmatā uz juridiskās personas vārda, pārbaudot atsavinātāja īpašuma tiesības, līdz tās ir nepārprotami pierādītas (būvniecība, pašvaldības vai valsts īpašums, reģistrācija likumā noteiktās iestādēs).
