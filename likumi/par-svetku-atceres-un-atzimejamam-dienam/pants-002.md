@@ -1,4 +1,5 @@
 2. Noteikt par atceres dienām:
+20. janvāri - 1991.gada barikāžu aizstāvju atceres dienu;
 26. janvāri - Latvijas Republikas starptautiskās (de jure) atzīšanas dienu;
 25. martu - Komunistiskā terora upuru piemiņas dienu;
 4. maiju - Latvijas Republikas Neatkarības deklarācijas pasludināšanas dienu;
