@@ -1,0 +1,1 @@
+11.¹ Uz izdienas pensijas izmaksu obligāti sociāli apdrošināmajām personām (darba ņēmējiem vai pašnodarbinātajiem) attiecināma kārtība, kāda noteikta likuma "Par valsts pensijām" pārejas noteikumu 26.punktā.
