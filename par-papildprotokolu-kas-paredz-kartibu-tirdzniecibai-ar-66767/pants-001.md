@@ -1,0 +1,1 @@
+1.pants. 2002.gada 29.maijā Briselē parakstītais Papildprotokols, kas paredz kārtību tirdzniecībai ar noteiktām zivīm un zvejas produktiem, Eiropas līgumam par asociācijas izveidošanu starp Eiropas Kopienām un to dalībvalstīm, no vienas puses, un Latvijas Republiku, no otras puses, (turpmāk - Papildprotokols) ar šo likumu tiek pieņemts un apstiprināts.
