@@ -1,6 +1,7 @@
 23.pants. Ministru kabineta atbildība un ministriju pienākumi
 (1) Ministru kabinets atbild par valsts apdraudējuma pārvarēšanu un tā seku likvidēšanu.
-(2) Ministrijas prognozē to kompetencē esošo tautsaimniecības nozaru apdraudējumus un izstrādā to novēršanas un likvidēšanas pasākumus, kas noteikti nacionālās drošības, valsts aizsardzības un mobilizācijas plānos. Šos pasākumus apstiprina un to izpildi nodrošina Ministru kabinets.
-(3) Apdraudējuma novēršanas pasākumus vada par attiecīgo nozari atbildīgā ministrija.
+(2) Ministrijas prognozē to kompetencē esošo nozaru apdraudējumus un plāno apdraudējumu novēršanu, pārvarēšanu un iespējamo seku likvidēšanu. Nozaru apdraudējumu prognozi un to novēršanas, pārvarēšanas un iespējamo seku likvidēšanas plānus ministrijas Ministru kabineta noteiktajā kārtībā iesniedz Krīzes vadības padomē izvērtēšanai un izmantošanai padomes darbā.
+(3) Valsts apdraudējuma gadījumā apdraudējuma pārvarēšanas pasākumus vada par attiecīgo nozari atbildīgā ministrija.
 (4) Krīzes situācijā valsts apdraudējuma pārvarēšanas operatīvo vadību veic Krīzes kontroles centrs, kas tieši pakļauts Ministru prezidentam. Krīzes kontroles centrs koordinē valsts pārvaldes institūciju preventīvo plānu izstrādi, civilmilitāro sadarbību un operatīvos pasākumus krīzes novēršanā un likvidēšanā. Krīzes kontroles centrs darbojas saskaņā ar Ministru kabineta piešķirtajām pilnvarām, ievērojot normatīvo aktu prasības.
 (5) Valsts apdraudējuma gadījumā Ministru kabinets ir tiesīgs pieņemt lēmumu par Nacionālo bruņoto spēku iesaistīšanu sabiedriskās kārtības uzturēšanā un apdraudējuma izraisīto seku likvidēšanā.
+(6) Pēc Krīzes vadības padomes priekšlikuma Ministru kabinets var noteikt atbilstošās pakāpes nacionālās drošības sistēmas ārkārtējo gatavību.
