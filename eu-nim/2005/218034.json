@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2005.gada 15.februāra noteikumi Nr.124 \"Noteikumi par farmaceita izglītību un profesionālo kvalifikāciju apliecinošiem dokumentiem, kurus atzīst, piemērojot speciālo profesionālās kvalifikācijas atzīšanas sistēmu\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "28 (3186)",
+  "official_journal_page": null,
+  "official_journal_date": "2005-02-18",
+  "entry_into_force": "2005-02-19",
+  "notification_date": "2014-07-03",
+  "commission_reference": "MNE(2014)54041",
+  "nim_celex": "72013L0025LVA_218034",
+  "nim_id": "218034",
+  "transposes_celex": [
+    "32013L0025"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2af214d1-c6e6-4585-9899-a0ae065c5aa8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
