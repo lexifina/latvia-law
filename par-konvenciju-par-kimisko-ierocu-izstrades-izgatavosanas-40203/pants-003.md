@@ -1,0 +1,1 @@
+3.pants. Latvijas Republikas Ārlietu ministrija uz šā likuma pamata un saskaņā ar Konvencijas 23.pantu sagatavo ratifikācijas rakstu nodošanai glabāšanā Apvienoto Nāciju Organizācijas ģenerālsekretāram.

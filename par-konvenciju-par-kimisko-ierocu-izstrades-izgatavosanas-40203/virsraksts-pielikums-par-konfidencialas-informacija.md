@@ -1,0 +1,2 @@
+PIELIKUMS PAR KONFIDENCIĀLĀS INFORMĀCIJAS AIZSARDZĪBU
+("Pielikums par konfidencialitāti")
