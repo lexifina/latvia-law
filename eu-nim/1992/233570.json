@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums \"Par kultūras pieminekļu aizsardzību\"",
+  "type_of_act": "Likums",
+  "official_journal": "LR Augstākās Padomes un Valdības Ziņotājs",
+  "official_journal_reference": "10",
+  "official_journal_page": null,
+  "official_journal_date": "1992-03-05",
+  "entry_into_force": "1992-03-11",
+  "notification_date": "2016-01-11",
+  "commission_reference": "MNE(2016)50246",
+  "nim_celex": "72014L0060LVA_233570",
+  "nim_id": "233570",
+  "transposes_celex": [
+    "32014L0060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/db8e894c-fe0f-4b11-a3cb-17869c16ca78",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
