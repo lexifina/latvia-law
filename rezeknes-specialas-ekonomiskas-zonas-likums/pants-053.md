@@ -1,1 +1,0 @@
-53.pants. Rēzeknes speciālās ekonomiskās zonas uzņēmējsabiedrību darbiniekiem - ārvalstniekiem ir tiesības profesionālo pienākumu veikšanai lietot svešvalodu, ja tiek nodrošināts tulkojums valsts valodā.
