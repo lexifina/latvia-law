@@ -10,7 +10,7 @@
 3. Ar ieguldīšanas metodi veicamās privatizācijas kārtību regulē Ministru kabineta noteikumi.
 4. Ar privātā kapitāla piesaistīšanas metodi veicamās privatizācijas kārtību regulē Ministru kabineta noteikumi.
 5. Ar parādu kapitalizācijas metodi veicamās privatizācijas kārtību regulē Ministru kabineta noteikumi.
-6. Ar reorganizācijas metodi veicamā privatizācija notiek likumā "Par uzņēmējdarbību" paredzētajā kārtībā.
+6. Ar reorganizācijas metodi veicamā privatizācija notiek Komerclikuma spēkā stāšanās kārtības likuma 27.panta pirmajā daļā paredzētajā kārtībā.
 7. Valsts vai pašvaldības īpašuma objektu var privatizēt:
 1) kopumā;
 2) sadalot to daļās un privatizējot katru daļu atsevišķi;

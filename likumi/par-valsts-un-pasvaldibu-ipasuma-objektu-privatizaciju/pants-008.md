@@ -1,5 +1,5 @@
 8. pants. Privatizācijas aģentūras funkcijas, tiesības un pienākumi
-1. Privatizācijas aģentūra veic šādas funkcijas:
+1. Privatizācijas aģentūra likumā noteiktajā kārtībā un ievērojot šajā likumā noteiktās tiesības un pienākumus veic šādas funkcijas:
 1) apkopo ierosinājumus un sagatavo Ministru kabineta rīkojumu projektus par valsts īpašuma objektu nodošanu privatizācijai;
 2) pārvalda un savas kompetences ietvaros rīkojas ar šā likuma 13. panta kārtībā tai nodotajiem valsts īpašuma objektiem līdz pilnīgai to privatizācijas pabeigšanai;
 3) sagatavo valsts īpašuma objektus privatizācijai;
@@ -26,9 +26,9 @@
 6) nodrošina šķīrējtiesas darbībai nepieciešamos apstākļus: darba telpas, materiāltehnisko nodrošinājumu u.c.
 3. Šā panta pirmajā un otrajā daļā minēto darbību veikšanu Privatizācijas aģentūra var nodot citām personām Privatizācijas aģentūras statūtos noteiktajā kārtībā.
 4. Privatizācijas aģentūrai ir tiesības:
-1) pieprasīt un saņemt bez maksas jebkuru tai nepieciešamo ar īpašuma privatizāciju saistīto informāciju no valsts un pašvaldību institūcijām, valsts pilnvarniekiem uzņēmējsabiedrībās, Valsts statistikas komitejas, Valsts nekustamā īpašuma aģentūras, Latvijas Republikas Uzņēmumu reģistra un valsts uzņēmumiem un statūtsabiedrībām;
+1) pieprasīt un saņemt bez maksas jebkuru tai nepieciešamo ar īpašuma privatizāciju saistīto informāciju no valsts un pašvaldību institūcijām, valsts kapitāla daļu turētājiem, Centrālās statistikas pārvaldes, Valsts nekustamā īpašuma aģentūras, Latvijas Republikas Uzņēmumu reģistra un valsts uzņēmumiem un statūtsabiedrībām;
 2) dot privatizējamo valsts īpašuma objektu pārvaldes institūcijām obligāti izpildāmus uzdevumus attiecībā uz valsts īpašuma objektu privatizāciju;
-3) lauzt ar privatizējamo valsts uzņēmumu direktoriem un valsts pilnvarniekiem uzņēmējsabiedrībās noslēgtos darba līgumus darba likumdošanas aktos paredzētajā kārtībā;
+3) lauzt ar privatizējamo valsts uzņēmumu direktoriem noslēgtos darba līgumus darba likumdošanas aktos paredzētajā kārtībā;
 4) lauzt jebkurus privatizējamā valsts īpašuma objekta nomas līgumus, ja tie nav noslēgti un reģistrēti likumā noteiktajā kārtībā;
 5) slēgt līgumus ar ekspertiem, uzņēmumiem un uzņēmējsabiedrībām par valsts īpašuma objektu novērtēšanu un citu ar privatizāciju saistītu darbību veikšanu;
 6) pārņemt un nodot vai pārdot privatizējamo valsts uzņēmumu un uzņēmējsabiedrību debitoru un kreditoru parādus vai kapitalizēt kreditoru parādus;
