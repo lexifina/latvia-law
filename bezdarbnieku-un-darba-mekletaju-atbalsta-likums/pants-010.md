@@ -1,6 +1,6 @@
 10.pants. Bezdarbnieka statusa iegūšana
 (1) Tiesības uz bezdarbnieka statusu pēc reģistrēšanās Nodarbinātības valsts aģentūrā atbilstoši deklarētajai dzīvesvietai ir personai, kura:
-1) ir Latvijas pilsonis vai nepilsonis vai ir saņēmusi pastāvīgās uzturēšanās atļauju, vai ir saņēmusi termiņuzturēšanās atļauju un ir Latvijas pilsoņa vai nepilsoņa, vai pastāvīgās uzturēšanās atļauju saņēmušas personas laulātais;
+1) ir Latvijas pilsonis vai nepilsonis vai ir saņēmusi pastāvīgās uzturēšanās atļauju, vai ir saņēmusi termiņuzturēšanās atļauju un ir Latvijas pilsoņa vai nepilsoņa, vai pastāvīgās uzturēšanās atļauju saņēmušas personas laulātais vai ir saņēmusi termiņuzturēšanās atļauju sakarā ar alternatīvā statusa piešķiršanu Latvijā;
 2) nestrādā (nav uzskatāma par darba ņēmēju vai pašnodarbināto saskaņā ar likumu "Par valsts sociālo apdrošināšanu");
 3) meklē darbu;
 4) ir darbspējīga un gatava nekavējoties stāties darba attiecībās;

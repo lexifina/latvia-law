@@ -6,7 +6,7 @@
 4) piedalīties aktīvo nodarbinātības pasākumu individuālā plānojuma līgumā paredzētajos aktīvajos nodarbinātības pasākumos;
 5) ziņot Nodarbinātības valsts aģentūrai:
 a) triju darba dienu laikā - ja ir mainījušies šā likuma 12.panta pirmajā daļā minētie bezdarbnieka statusa zaudēšanas nosacījumi,
-b) triju darba dienu laikā - ja ir noslēgts darba līgums uz laiku līdz diviem mēnešiem,
+b) triju darba dienu laikā - ja ir iegūts darba ņēmēja statuss uz laiku līdz diviem mēnešiem saskaņā ar likumu "Par valsts sociālo apdrošināšanu",
 c) triju darba dienu laikā - par deklarētās dzīvesvietas maiņu,
 d) triju nedēļu laikā no pārejošas darbnespējas sākuma - par pārejošas darbnespējas laiku, ja tas ir bijis ilgāks par divām nedēļām.
 (2) Aktīva darba meklēšana šā likuma izpratnē ir personas mērķtiecīgas darbības nolūkā atrast algotu darbu - piedalīšanās konkursos uz vakantajām darba vietām, kā arī citas darbības, kuru mērķis ir atrast darbu.

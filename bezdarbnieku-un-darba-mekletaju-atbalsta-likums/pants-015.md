@@ -1,6 +1,6 @@
 15.pants. Darba meklētāja statuss
 Darba meklētājs ir persona, kura reģistrējusies Nodarbinātības valsts aģentūrā atbilstoši deklarētajai dzīvesvietai un kura:
-1) ir Latvijas pilsonis vai nepilsonis vai ir saņēmusi pastāvīgās uzturēšanās atļauju, vai ir saņēmusi termiņuzturēšanās atļauju un ir Latvijas pilsoņa vai nepilsoņa, vai pastāvīgās uzturēšanās atļauju saņēmušās personas laulātais;
+1) ir Latvijas pilsonis vai nepilsonis vai ir saņēmusi pastāvīgās uzturēšanās atļauju, vai ir saņēmusi termiņuzturēšanās atļauju un ir Latvijas pilsoņa vai nepilsoņa, vai pastāvīgās uzturēšanās atļauju saņēmušās personas laulātais vai ir saņēmusi termiņuzturēšanās atļauju sakarā ar alternatīvā statusa piešķiršanu Latvijā;
 2) nestrādā (nav uzskatāma par darba ņēmēju vai pašnodarbināto saskaņā ar likumu "Par valsts sociālo apdrošināšanu");
 3) meklē darbu;
 4) ir darbspējīga un gatava nekavējoties stāties darba attiecībās;

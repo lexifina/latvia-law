@@ -1,2 +1,2 @@
 VI nodaļa
-Darbā iekārtošanas institūcijas
+Darbiekārtošanas pakalpojumu sniegšanas ierobežojumi

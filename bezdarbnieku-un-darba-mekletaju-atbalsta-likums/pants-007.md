@@ -4,7 +4,7 @@
 (3) Profesionālās orientācijas pakalpojumus sniedz Profesionālās karjeras izvēles valsts aģentūra, kas ir Labklājības ministrijas pārraudzībā.
 (4) Profesionālās karjeras izvēles valsts aģentūru finansē no nodarbinātības speciālā budžeta, ienākumiem no pakalpojumu sniegšanas, dāvinājumiem un ziedojumiem, kā arī citiem līdzekļiem saskaņā ar normatīvajiem aktiem.
 (5) Profesionālās karjeras izvēles valsts aģentūra:
-1) atbilstoši savai kompetencei piedalās nacionālā nodarbinātības plāna izstrādāšanā un īstenošanā;
+1) atbilstoši savai kompetencei piedalās Latvijas Nacionālā rīcības plāna nodarbinātības veicināšanai izstrādāšanā un īstenošanā;
 2) bez maksas sniedz profesionālās orientācijas pakalpojumus, konsultējot personas profesionālās piemērotības jautājumos, piemērotas profesijas un pārkvalifikācijas izvēlē;
 3) apkopo informāciju par izglītības iespējām un bez maksas informē personas par tām;
 4) izstrādā jaunas zinātniski pamatotas praktiskas metodes un sniedz metodisku palīdzību zinātniski pamatotu profesionālās orientācijas metožu un formu ieviešanā;

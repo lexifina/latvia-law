@@ -11,7 +11,8 @@
 9) iesaukums valsts obligātajā militārajā dienestā;
 10) 100 procentu darbspēju zaudējums;
 11) atjaunošana darbā ar tiesas spriedumu;
-12) bezdarbnieka nāve.
+12) bezdarbnieka nāve;
+13) atteikšanās no bezdarbnieka statusa, iesniedzot attiecīgu paziņojumu Nodarbinātības valsts aģentūrai.
 (2) Piemērots darbs šā likuma izpratnē ir darbs, kas atbilst:
 1) bezdarbnieka profesionālajai sagatavotībai un viņa līdzšinējai profesionālajai darbībai, kā arī valsts valodas prasmes pakāpei;
 2) bezdarbnieka veselības stāvoklim;

@@ -2,7 +2,7 @@
 (1) Valsts politiku bezdarba samazināšanas un bezdarbnieku un darba meklētāju atbalsta jomā īsteno Nodarbinātības valsts aģentūra. Nodarbinātības valsts aģentūra ir Labklājības ministrijas pārraudzībā.
 (2) Nodarbinātības valsts aģentūra tiek finansēta no valsts pamatbudžeta, ienākumiem no pakalpojumu sniegšanas, dāvinājumiem un ziedojumiem, kā arī citiem līdzekļiem saskaņā ar normatīvajiem aktiem.
 (3) Nodarbinātības valsts aģentūra:
-1) atbilstoši savai kompetencei piedalās nacionālā nodarbinātības plāna izstrādē un īstenošanā;
+1) atbilstoši savai kompetencei piedalās Latvijas Nacionālā rīcības plāna nodarbinātības veicināšanai izstrādē un īstenošanā;
 2) organizē un īsteno aktīvos nodarbinātības pasākumus;
 3) palīdz bezdarbniekiem un darba meklētājiem iesaistīties darba tirgū;
 4) uzskaita brīvās darba vietas;
@@ -15,7 +15,7 @@
 11) sadarbojas ar valsts pārvaldes iestādēm, pašvaldībām, fiziskajām un juridiskajām personām, kā arī sabiedriskajām organizācijām;
 12) apstiprina darba izsaukumus normatīvajos aktos noteiktajā kārtībā;
 13) nodrošina Eiropas Savienības normatīvo aktu prasībām atbilstošas informācijas sagatavošanu un sniegšanu par bezdarba situāciju valstī;
-14) licencē un uzrauga juridiskās personas, kuras sniedz darbiekārtošanas pakalpojumus par maksu (izņemot iekārtošanu darbā uz kuģiem);
+14) licencē un uzrauga komersantus, kuri sniedz darbiekārtošanas pakalpojumus (izņemot personu iekārtošanu darbā uz kuģiem);
 15) piedalās starptautisku sadarbības līgumu projektu un citu sadarbības projektu izstrādē, kā arī šo līgumu un projektu īstenošanā bezdarba samazināšanas un darbaspēka kustības jomā;
 16) veic citus Nodarbinātības valsts aģentūras nolikumā un normatīvajos aktos noteiktos uzdevumus;
-17) organizē nodarbinātības pasākumus vasaras brīvlaikā personām, kuras iegūst izglītību vispārējās vidējās vai profesionālās vidējās izglītības iestādēs.
+17) organizē nodarbinātības pasākumus vasaras brīvlaikā personām, kuras iegūst izglītību vispārējās, speciālās vai profesionālās izglītības iestādēs.

@@ -1,0 +1,1 @@
+6. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2005.gada 30.jūnijam piemērojami Ministru kabineta 2003.gada 20.janvāra noteikumi Nr.26 "Juridisko personu licencēšanas un uzraudzības kārtība darbiekārtošanas pakalpojumu sniegšanai par maksu", ciktāl tie nav pretrunā ar šo likumu.
