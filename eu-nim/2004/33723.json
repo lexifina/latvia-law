@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2004.gada 20.aprīļa noteikumos Nr.354 \"Būtiskās prasības kosmētikas līdzekļiem, to marķējumam un to ievērošanas uzraudzības kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "185",
+  "official_journal_page": null,
+  "official_journal_date": "2004-11-23",
+  "entry_into_force": "2004-11-24",
+  "notification_date": "2004-12-17",
+  "commission_reference": "MNE(2004)53723",
+  "nim_celex": "72004L0087LVA_33723",
+  "nim_id": "33723",
+  "transposes_celex": [
+    "32004L0087",
+    "32004L0088"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1e2d7daf-00f5-41fc-a278-582a1986c781",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
