@@ -7,7 +7,7 @@
 5) piedalīšanos vai nepiedalīšanos konkursos vai izsolēs vai par šīs darbības (bezdarbības) noteikumiem, izņemot gadījumus, kad konkurenti publiski darījuši zināmu kopīgu piedāvājumu un šā piedāvājuma mērķis nav kavēt, ierobežot vai deformēt konkurenci;
 6) nevienādu noteikumu piemērošanu ekvivalentos darījumos ar trešajām personām, radot tām konkurences ziņā nelabvēlīgākus apstākļus;
 7) darbībām (bezdarbību), kuru dēļ cits tirgus dalībnieks ir spiests atstāt kādu konkrēto tirgu vai tiek apgrūtināta potenciāla tirgus dalībnieka iekļūšana kādā konkrētajā tirgū.
-(2) Konkurences padome šā panta pirmajā daļā minētās vienošanās, pieņemot attiecīgu lēmumu, var atļaut vai atļaut ar nosacījumiem, ja tā konstatē, ka vienošanās veicina preču ražošanas vai realizācijas uzlabošanu vai ekonomisko progresu un tādējādi dod labumu patērētājam, turklāt šīs vienošanās:
+(2) Konkurences padome šā panta pirmajā daļā minētās vienošanās, pieņemot attiecīgu lēmumu, var atļaut vai atļaut ar nosacījumiem uz noteiktu termiņu, ja Ministru kabineta noteiktajā kārtībā tirgus dalībnieki ir iesnieguši Konkurences padomei paziņojumu par vienošanos un par to nav ierosināta lieta, un ja tā konstatē, ka vienošanās veicina preču ražošanas vai realizācijas uzlabošanu vai ekonomisko progresu un tādējādi dod labumu patērētājam, turklāt šīs vienošanās:
 1) neuzliek attiecīgajiem tirgus dalībniekiem ierobežojumus, kuri nav nepieciešami šo mērķu sasniegšanai;
 2) nedod iespēju likvidēt konkurenci ievērojamā konkrētā tirgus daļā.
 (3) Šā panta pirmajā daļā paredzētās vienošanās ir atļautas, ja tirgus dalībnieki Ministru kabineta noteiktajā kārtībā saņēmuši Konkurences padomes atļauju.

@@ -1,0 +1,8 @@
+26.pants. Lietas izpēte
+(1) Pēc lietas ierosināšanas Konkurences padome iegūst informāciju, kas nepieciešama lēmuma pieņemšanai.
+(2) Pieprasīto informāciju persona sniedz ne vēlāk kā septiņu dienu laikā no pieprasījuma saņemšanas dienas. Tirgus apsekojuma laikā pieprasīto informāciju, kuras sagatavošanai nav nepieciešams īpašs apkopošanas vai analīzes darbs, informācijas sniedzējs sniedz nekavējoties.
+(3) Ja tiek pieprasīta informācija, kuras sagatavošanai nepieciešams īpašs apkopošanas vai analīzes darbs, un informācijas sniedzējs objektīvu iemeslu dēļ nevar pieprasīto informāciju sagatavot minētajā termiņā, viņš par to rakstveidā paziņo Konkurences padomei, norādot šos iemeslus un datumu, kad informācija tiks iesniegta. Konkurences padome, ņemot vērā minēto paziņojumu, var noteikt citu informācijas iesniegšanas termiņu.
+(4) Ja informācija tiek pieprasīta no Konkurences likuma iespējamā pārkāpēja, Konkurences padome informē tās sniedzēju par Konkurences likuma pantu, kurš, iespējams, ir pārkāpts.
+(5) Konkurences padome var apvienot vienā lietvedībā vairākas lietas par vienu un to pašu likuma pārkāpumu viena un tā paša iespējamā pārkāpēja darbībās, ja lietu apvienošana sekmēs to ātrāku un objektīvāku izskatīšanu.
+(6) Pēc lēmuma pieņemšanai nepieciešamo faktu konstatēšanas procesa dalībniekiem ir tiesības iepazīties ar lietu. Par lēmuma pieņemšanai nepieciešamo faktu konstatēšanu Konkurences padome rakstveidā paziņo procesa dalībniekiem.
+(7) Procesa dalībnieki var iepazīties ar lietu, izteikt savu viedokli un iesniegt papildu informāciju 10 dienu laikā no šā panta sestajā daļā noteiktā paziņojuma saņemšanas brīža. Konkurences padome var neņemt vērā informāciju, kas saņemta pēc šā termiņa izbeigšanās.
