@@ -1,1 +1,1 @@
-2. Prasība par pārvadātāja licences saņemšanu (34.pants) līdz 1999.gada 1.martam neattiecas uz uzņēmumiem (uzņēmējsabiedrībām), kas saskaņā ar statūtiem līdz šā likuma pieņemšanas dienai faktiski uzsākuši dzelzceļa pārvadājumus.
+2. Prasība par pārvadātāja licences saņemšanu (34.pants) līdz 1999.gada 1.septembrim neattiecas uz uzņēmumiem (uzņēmējsabiedrībām), kas saskaņā ar statūtiem līdz šā likuma pieņemšanas dienai faktiski uzsākuši dzelzceļa pārvadājumus.
