@@ -1,0 +1,1 @@
+17. Ministru kabinets līdz 2004.gada 1.novembrim nosaka studiju līgumā ietveramos obligātos noteikumus (46.panta otrā daļa), studējošā personas lietas noformēšanas un aktualizēšanas kārtību (46.panta astotā daļa), kārtību, kādā uzsākamas studijas vēlākos studiju posmos (47.panta trešā daļa) un ārpus Latvijas studējošo personu uzskaites kārtību (82.panta otrā daļa).

@@ -1,25 +1,22 @@
-8.pants. Augstskolu dibināšana, reģistrācija un darbības uzsākšana
+8.pants. Augstskolas dibināšana un augstskolas filiāles atvēršana
 (1) Augstskolas var dibināt valsts, pašvaldības, citas juridiskās, kā arī fiziskās personas, tajā skaitā ārvalstu juridiskās un fiziskās personas, ievērojot šā likuma un citu normatīvo aktu noteikumus.
 (2) Valsts augstskolas uz izglītības un zinātnes ministra ierosinājuma pamata dibina Latvijas valsts Ministru kabineta personā.
 (3) Pašvaldību augstskolas, saskaņojot ar Izglītības un zinātnes ministriju un nozares ministriju, dibina pašvaldības.
-(4) Akreditēta augstskola (arī ārvalstī akreditēta augstskola) var atvērt augstskolas filiāles (turpmāk šajā pantā - filiāle) un pārstāvniecības (turpmāk šajā pantā - pārstāvniecība), ievērojot šā likuma un citu normatīvo aktu noteikumus.
+(4) Akreditēta augstskola (arī ārvalstī akreditēta augstskola) var atvērt augstskolas filiāles (turpmāk arī - filiāle) un augstskolas pārstāvniecības (turpmāk šajā pantā - pārstāvniecība), ievērojot šā likuma un citu normatīvo aktu noteikumus.
 (5) Filiāles un pārstāvniecības darbojas, pamatojoties uz nolikumu, kuru apstiprina augstskolas koleģiāla pārstāvības institūcija. Filiāles vai pārstāvniecības vadītājs rīkojas uz attiecīgās augstskolas izdotas pilnvaras pamata.
-(6) Augstskolas dibinātājs mēneša laikā no tās dibināšanas dienas iesniedz Izglītības un zinātnes ministrijā iesniegumu par augstskolas reģistrāciju Izglītības iestāžu reģistrā. Iesniegumam pievieno augstskolas dibinātāja apstiprinātu augstskolas satversmi, dokumentus, kas apliecina iesniegumā minētās ziņas, un dokumentus, kas apliecina augstskolas resursu (piemēram, finanšu resursi, materiāltehniskā un informatīvā bāze, akadēmiskais personāls) atbilstību Ministru kabineta noteiktajiem kritērijiem augstākās izglītības iestāžu darbības uzsākšanai. Iesniegumā iekļauj šādas ziņas:
-1) augstskolas nosaukums un juridiskā adrese;
-2) augstskolas dibinātājs un augstskolas juridiskais statuss;
-3) lēmums par augstskolas dibināšanu;
-4) augstskolas telpu platība un tehniskais aprīkojums;
-5) augstskolas finansējuma avoti un kārtība;
-6) kontaktpersonas adrese, tālruņa, telefaksa numurs un elektroniskā pasta adrese.
-(7) Augstskolas rektors mēneša laikā no senāta lēmuma par filiāles atvēršanu pieņemšanas dienas iesniedz Izglītības un zinātnes ministrijā iesniegumu par augstskolas filiāles reģistrāciju Izglītības iestāžu reģistrā. Iesniegumam pievieno augstskolas senāta apstiprinātu filiāles darbības nolikumu, dokumentus, kas apliecina iesniegumā minētās ziņas, un dokumentus, kas apliecina filiāles atbilstību Ministru kabineta noteiktiem kritērijiem augstākās izglītības iestāžu darbības uzsākšanai. Iesniegumā iekļauj šādas ziņas:
-1) filiāles nosaukums un juridiskā adrese;
-2) tās augstskolas nosaukums un juridiskā adrese, kura atvērusi filiāli;
-3) augstskolas senāta lēmums par filiāles atvēršanu;
-4) dokuments, kas apliecina augstskolas akreditāciju;
-5) filiāles telpu platība un tehniskais aprīkojums;
-6) filiāles finansējuma avoti un kārtība;
-7) kontaktpersonas adrese, tālruņa, telefaksa numurs un elektroniskā pasta adrese.
-(8) Divu mēnešu laikā no šā panta sestajā un septītajā daļā minēto dokumentu iesniegšanas dienas augstskolu vai tās filiāli iekļauj Izglītības iestāžu reģistrā un tai izsniedz reģistrācijas apliecību vai pieņem lēmumu atteikt reģistrāciju.
-(8¹) Ministru kabinets nosaka kritērijus augstākās izglītības iestāžu darbības uzsākšanai, kā arī augstākās izglītības iestāžu reģistrācijas, reģistrācijas atlikšanas vai atteikšanas kārtību un kārtību, kādā augstākās izglītības iestādi svītro no Izglītības iestāžu reģistra.
-(9) (Izslēgta ar MK 06.01.2004. noteikumiem Nr.1, kas stājas spēkā 10.01.2004.)
-(10) (Izslēgta ar MK 06.01.2004. noteikumiem Nr.1, kas stājas spēkā 10.01.2004.)
+(6) Augstskolu dibinot, jāievēro šādi noteikumi:
+1) augstskola īstenos vismaz divas studiju programmas, un to īstenošanā iesaistīsies vismaz 15 personas ar zinātņu doktora grādu, no kurām vismaz divas ir zinātņu doktori tieši tajā zinātņu nozarē, kurā tiks īstenota studiju programma;
+2) augstskolas dibinātāja īpašumā vai lietošanā ir telpas studiju programmu īstenošanai uz vismaz astoņiem gadiem, un to apliecina izraksts no zemesgrāmatas, kā arī īpašumā vai lietošanā esošo telpu plāns vai inventarizācijas lieta, kurā norādīta nepieciešamā platība;
+3) augstskolas telpu kopējā platība un plānojums nodrošina iespēju studiju programmu īstenošanā piedalīties vismaz 500 studējošiem. Telpu platība vienlaikus notiekoša mācību procesa laikā ir ne mazāka par 7 kvadrātmetriem uz vienu studējošo, ieskaitot akadēmiskā personāla individuālajam darbam paredzētās telpas;
+4) augstskola spēj nodrošināt saistības pret tās studiju programmās studējošajiem vismaz 250 000 latu apmērā, un to apliecina bankas vai apdrošināšanas sabiedrības izsniegta garantija;
+5) augstskolai nošķirtās kustamās un nekustamās mantas vērtība ir ne mazāka par 750 000 latu, šī manta nav ieķīlāta vai citādi apgrūtināta ar lietu tiesībām, tai nav uzlikts aizliegums, un to pamato attiecīgi dokumenti, tajā skaitā attiecīgās zemesgrāmatu nodaļas un Uzņēmumu reģistra izsniegtas izziņas;
+6) nevienam no augstskolas dibinātājiem nav nodokļu vai valsts sociālās apdrošināšanas obligāto iemaksu parādu, un to apliecina attiecīgu kompetentu iestāžu izsniegtas izziņas; neviens no augstskolas dibinātājiem nav pasludināts par maksātnespējīgu, neatrodas likvidācijas procesā, neviena dibinātāja saimnieciskā darbība nav apturēta vai pārtraukta, nedz arī ir uzsākta tiesvedība par kāda dibinātāja darbības izbeigšanu, maksātnespēju vai bankrotu, un to apliecina attiecīgas kompetentas iestādes izsniegta izziņa;
+7) augstskolas telpas, kurās tiek īstenotas studiju programmas, ir apdrošinātas, un to apliecina apdrošināšanas līgums, kas noslēgts uz laiku, ne mazāku par gadu; augstskolas materiāltehniskais nodrošinājums atbilst studiju programmas īstenošanas nosacījumiem un sanitāri higiēniskajām prasībām, un to apliecina attiecīgas kompetentas iestādes izsniegta izziņa; augstskolai ir datoraprīkojums, kas nodrošina studējošo vajadzības; augstskolā ir bibliotēka, un tajā ir nodrošināta pieeja Latvijas un starptautiskajiem elektroniskajiem literatūras un periodikas krājumiem.
+(7) Augstskolas filiāli atverot, jāievēro šādi noteikumi:
+1) vienas studiju programmas īstenošanā tiks iesaistītas ne mazāk kā sešas personas ar zinātņu doktora grādu;
+2) augstskolas dibinātāja īpašumā vai lietošanā ir telpas filiāles studiju programmas īstenošanai uz vismaz astoņiem gadiem, un to apliecina izraksts no zemesgrāmatas, kā arī īpašumā vai lietošanā esošo telpu plāns vai inventarizācijas lieta, kurā norādīta nepieciešamā platība;
+3) filiāles telpu kopējā platība un plānojums nodrošina iespēju studiju programmas īstenošanā piedalīties vismaz 100 augstskolas filiālē studējošiem. Telpu platība vienlaikus notiekoša mācību procesa laikā ir ne mazāka par 7 kvadrātmetriem uz vienu studējošo, ieskaitot akadēmiskā personāla individuālajam darbam paredzētās telpas;
+4) augstskola spēj nodrošināt saistības pret tās filiāles studiju programmā studējošajiem vismaz 125 000 latu apmērā, un to apliecina bankas vai apdrošināšanas sabiedrības izsniegta garantija;
+5) nevienam no dibinātājiem nav nodokļu vai valsts sociālās apdrošināšanas obligāto iemaksu parādu, un to apliecina attiecīgu kompetentu iestāžu izsniegtas izziņas; neviens no dibinātājiem nav pasludināts par maksātnespējīgu, neatrodas likvidācijas procesā, neviena dibinātāja saimnieciskā darbība nav apturēta vai pārtraukta, nedz arī uzsākta tiesvedība par kāda dibinātāja darbības izbeigšanu, maksātnespēju vai bankrotu, un to apliecina attiecīgas kompetentas iestādes izsniegta izziņa;
+6) filiāles telpas, kurās tiek īstenota studiju programma, ir apdrošinātas, un to apliecina apdrošināšanas līgums, kas noslēgts uz laiku, ne mazāku par gadu; filiāles materiāltehniskais nodrošinājums atbilst studiju programmas īstenošanas nosacījumiem un sanitāri higiēniskajām prasībām, un to apliecina attiecīgas kompetentas iestādes izsniegta izziņa; filiālei ir datoraprīkojums, kas nodrošina studējošo vajadzības; filiālē ir bibliotēka, un tajā ir nodrošināta pieeja Latvijas un starptautiskajiem elektroniskajiem literatūras un periodikas krājumiem.
+(8) Augstskola, kā arī filiāle uzsāk savu darbību ar dienu, kad tā reģistrēta Augstskolu reģistrā.
