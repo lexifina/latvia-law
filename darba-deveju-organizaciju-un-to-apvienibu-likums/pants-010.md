@@ -1,0 +1,3 @@
+10.pants. Darba devēju organizāciju un to apvienību attiecības ar valsts un pašvaldību institūcijām
+(1) Darba devēju intereses valsts līmenī attiecībās ar Ministru kabinetu pārstāv Latvijas darba devēju organizāciju apvienība, kurā apvienojušies darba devēji, kas nodarbina visvairāk no valstī strādājošajiem, un kura ir Starptautiskās darba organizācijas dalīborganizācija.
+(2) Darba devēju intereses nozares vai administratīvās teritorijas līmenī attiecībās ar valsts un pašvaldību institūcijām pārstāv nozares vai teritoriālā darba devēju apvienība (organizācija), kurā apvienojušies darba devēji, kas nodarbina visvairāk no nozarē vai administratīvajā teritorijā strādājošajiem.

@@ -1,0 +1,3 @@
+12.pants. Pārstāvība divpusējās un trīspusējās sadarbības institūcijās
+(1) Latvijas darba devēju organizāciju apvienība, kurā apvienojušies darba devēji, kas nodarbina visvairāk no valstī strādājošajiem, un kura ir Starptautiskās darba organizācijas dalīborganizācija, izvirza sarunu partnerus Nacionālajai trīspusējai sadarbības padomei un tās apakšpadomēm.
+(2) Nozaru un teritoriālās darba devēju organizācijas un to apvienības, kurās apvienojušies darba devēji, kas nodarbina visvairāk no nozarē vai administratīvajā teritorijā strādājošajiem, izvirza sarunu partnerus attiecīgās nozares un teritoriālās divpusējās vai trīspusējās sadarbības institūcijām.

@@ -1,0 +1,5 @@
+6.pants. Darba devēju organizāciju un to apvienību tiesības
+(1) Darba devēju organizācijas un to apvienības ir tiesīgas sadarboties ar citu valstu un starptautiskajām darba devēju organizācijām, kā arī iestāties starptautiskajās darba devēju organizācijās.
+(2) Darba devēju organizācijām un to apvienībām ir tiesības pieprasīt un saņemt no valsts un pašvaldību institūcijām savu funkciju veikšanai un mērķu sasniegšanai nepieciešamo informāciju, ja normatīvajos aktos nav noteikti ierobežojumi tās izsniegšanai.
+(3) Darba devēju organizācijām un to apvienībām savu funkciju veikšanai ir tiesības piedalīties valsts un pašvaldību institūciju izveidoto komisiju, darba grupu un konsultatīvo padomju darbā un savas kompetences ietvaros sniegt atzinumus par risināmajiem jautājumiem.
+(4) Darba devēju organizāciju un to apvienību pilnvarotajiem pārstāvjiem ir tiesības būt klāt un izteikt priekšlikumus valsts un pašvaldību institūciju atklātās sēdēs, kad tiek izskatīti jautājumi, kas skar darba devēju organizāciju un to apvienību funkcijas.

@@ -1,0 +1,1 @@
+Darba devēju organizācijas un to apvienības, kas reģistrētas pirms šā likuma stāšanās spēkā, līdz 1999.gada 31.decembrim izdara nepieciešamos grozījumus statūtos un citos to darbību reglamentējošos dokumentos atbilstoši šā likuma normām.

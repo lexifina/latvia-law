@@ -1,0 +1,4 @@
+11.pants. Darba devēju organizāciju un to apvienību attiecības ar arodbiedrībām
+(1) Latvijas darba devēju organizāciju apvienība veic pārrunas, savu biedru vārdā slēdz darba koplīgumus un ģenerālvienošanās, vienojas par vispārējiem sadarbības principiem, veic pārrunas par konflikta situāciju atrisināšanu ar Latvijas nozaru un profesionālo arodbiedrību savienību, kas pārstāv visvairāk no valstī strādājošajiem.
+(2) Nozaru darba devēju organizācijas un to apvienības veic pārrunas, slēdz vienošanās ar nozaru arodbiedrībām, veicina streiku izraisījušo konfliktu un citu konfliktu novēršanu nozaru līmenī.
+(3) Teritoriālās darba devēju organizācijas un to apvienības veic pārrunas, slēdz vienošanās ar teritoriālajām arodbiedrībām, veicina streiku izraisījušo konfliktu un citu konfliktu novēršanu teritoriālajā līmenī.
