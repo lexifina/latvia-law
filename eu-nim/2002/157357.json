@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2002.gada 19.februāra noteikumi Nr.79 \"Dzimumu līdztiesības padomes nolikums\"",
+  "type_of_act": "Ministru kabineta instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "31",
+  "official_journal_page": null,
+  "official_journal_date": "2002-02-26",
+  "entry_into_force": "2002-02-27",
+  "notification_date": "2008-07-29",
+  "commission_reference": "MNE(2008)54425",
+  "nim_celex": "72006L0054LVA_157357",
+  "nim_id": "157357",
+  "transposes_celex": [
+    "32006L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1dad121c-7405-4384-a275-0efb2fe80f3a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
