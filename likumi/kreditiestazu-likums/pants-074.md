@@ -1,1 +1,2 @@
-74.pants. Kredītiestādei nav tiesību pieņemt maksājumu dokumentus, kuros nav uzrādīts maksātāja (rezidenta) un maksājuma saņēmēja (rezidenta) reģistrācijas numurs - juridiskajai personai vai personas kods - fiziskajai personai.
+74.pants. (1) Kredītiestādei obligāti jāidentificē klients šā likuma 60.panta otrajā un trešajā daļā noteiktajā kārtībā jebkura veida banku operācijās (darījumos), ja viena vai vairāku nepārprotami savstarpēji saistītu darījumu kopējais apjoms ir ekvivalents vai lielāks par 15 tūkstošiem ekiju, kas pārrēķināti latos pēc Latvijas Bankas noteiktā valūtas kursa.
+(2) Šā panta pirmajā daļā noteiktā informācija par klientu un ar to veikto banku operāciju (darījumu) apliecinošie dokumenti kredītiestādei jāuzglabā ne mazāk kā piecus gadus.
