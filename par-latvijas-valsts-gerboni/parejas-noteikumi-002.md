@@ -1,1 +1,0 @@
-2. Ministru kabinets līdz 1998.gada 1.jūlijam apstiprina noteikumus par kārtību, kādā izgatavojami valsts ģerboņa attēli, kā arī izgatavojami, lietojami, glabājami un iznīcināmi zīmogi ar valsts ģerboņa attēlu.

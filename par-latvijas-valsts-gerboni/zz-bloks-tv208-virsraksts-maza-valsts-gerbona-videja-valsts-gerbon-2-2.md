@@ -1,0 +1,1 @@
+Vidējais valsts ģerbonis
