@@ -40,7 +40,11 @@
 40. Robeža iet pa Kaiju ielu līdz v/u Rietumu elektrisko tīklu austrumu robežai.
 41. Robeža iet pa v/u Rietumu elektrisko tīklu austrumu robežu līdz Liepājas ostas teritorijas robežai.
 42. Robeža iet pa Liepājas ostas teritorijas robežu abpus Tirdzniecības kanālam līdz Baltijas jūrai.
-43. Robeža iet pa Liepājas ostas teritorijas rietumu robežu līdz ziemeļu molam.
+43. Robeža iet par dabīgo krasta līniju uz dienvidiem līdz (.) 560 25' 0 N 20 0 59' 5E.
+Robeža iet pa Liepājas ostas ārējā reida robežu, kas sakrīt ar līnijām, kuras savieno punktus ar šādām koordinātēm:
+(.) 56 0 25' 0 N 20 0 40' 0 E
+(.) 56 0 39' 0 N 20 0 47' 7 E
+(.) 56 0 39' 0 N 21 0 02' 8 E.
 44. Robeža iet pa Baltijas jūras krastu līdz Cietokšņa kanālam.
 45. Robeža sakrīt ar Liepājas lidostas robežu.
 46. Robeža iet pa Grīzupes ielu no Kapsēdes ielas līdz Liepājas pilsētas robežai.

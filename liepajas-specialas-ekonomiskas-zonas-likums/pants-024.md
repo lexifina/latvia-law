@@ -3,4 +3,4 @@ Liepājas speciālās ekonomiskās zonas pārvaldei, slēdzot līgumus ar Liepā
 1) ieguldījumu veidiem un summām;
 2) darba vietu skaitu;
 3) moderno tehnoloģiju ieviešanu;
-4) eksportu un kravu apgrozījumu.
+4) sagaidāmo preču ražošanas un pakalpojumu apjomu vai kravu apgrozījumu.
