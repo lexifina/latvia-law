@@ -1,0 +1,1 @@
+1.pants. 1998.gada 19.maijā Almati parakstītais Latvijas Republikas valdības un Kazahstānas Republikas valdības nolīgums par Latvijas Republikas ostu izmantošanu Kazahstānas Republikas kravu apstrādei un transportēšanai (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
