@@ -1,0 +1,1 @@
+1.pants. 1996.gada 29.maijā Budapeštā parakstītais Latvijas Republikas valdības un Čehijas Republikas valdības nolīgums par starptautiskajiem pārvadājumiem ar autotransportu (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
