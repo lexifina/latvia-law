@@ -4,4 +4,4 @@
 2) to izsniedzis uzraudzības iestādē brīvprātīgi akreditējies sertifikācijas pakalpojumu sniedzējs;
 3) to garantē uzraudzības iestādē brīvprātīgi akreditējies sertifikācijas pakalpojumu sniedzējs;
 4) to Latvijas Republikā atzīst saskaņā ar starptautiskajiem līgumiem;
-5) to izsniedzis Eiropas Savienības dalībvalstī akreditēts sertifikācijas pakalpojumu sniedzējs vai to garantē Eiropas Savienības dalībvalstī akreditēts sertifikācijas pakalpojumu sniedzējs.
+5) to izsniedzis Eiropas Savienības dalībvalstī reģistrēts sertifikācijas pakalpojumu sniedzējs vai to garantē Eiropas Savienības dalībvalstī reģistrēts sertifikācijas pakalpojumu sniedzējs.
