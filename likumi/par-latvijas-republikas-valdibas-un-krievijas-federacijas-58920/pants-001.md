@@ -1,0 +1,1 @@
+1. pants. 1993. gada 2. jūnijā Maskavā parakstītā Latvijas Republikas valdības un Krievijas Federācijas valdības vienošanās par pārceļošanas procesu regulēšanu un pārceļotāja tiesību aizsardzību (turpmāk - Vienošanās) ar šo likumu tiek apstiprināta un pieņemta.
