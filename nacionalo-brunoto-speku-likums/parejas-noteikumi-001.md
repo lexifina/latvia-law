@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likuma "Par Aizsardzības spēkiem" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 46./47./48.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 13., 23.nr.; 1995, 2.nr.; 1996, 14.nr.; 1997, 6., 20.nr.; 1999, 14.nr.) I nodaļas 1.-8.pants un II nodaļa.
