@@ -1,0 +1,1 @@
+1.pants. 1996.gada 27.septembra Konvencijas par Eiropas Kopienu finanšu interešu aizsardzību Protokols, kas izstrādāts, pamatojoties uz Līguma par Eiropas Savienību K.3 pantu (turpmāk - Protokols), ar šo likumu tiek pieņemts un apstiprināts.
