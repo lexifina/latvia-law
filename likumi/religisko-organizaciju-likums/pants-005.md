@@ -5,3 +5,4 @@
 (4) (Izslēgta ar 07.06.1996. likumu)
 (5) Valsts un reliģisko organizāciju savstarpējās attiecības kārto Reliģisko lietu pārvalde, kas pēc reliģisko organizāciju lūguma sniedz tām nepieciešamo palīdzību organizatorisko, juridisko un citu jautājumu risināšanā.
 (6) Valsts institūcijas uzrauga un kontrolē reliģisko organizāciju darbības atbilstību likumdošanas aktiem.
+(7) Valsts un reliģisko savienību (baznīcu) attiecības var regulēt speciāli likumi.

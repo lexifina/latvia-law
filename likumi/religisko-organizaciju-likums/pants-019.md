@@ -1,3 +1,3 @@
 19. pants. Reliģiskās organizācijas darbības izbeigšanas sekas
 (1) Ar dienu, kad likumīgā spēkā stājas tiesas nolēmums par reliģiskās organizācijas darbības izbeigšanu vai kad ir pieņemts šīs organizācijas lēmums par likvidēšanos vai reorganizāciju, reliģiskajai organizācijai tās statūtos (satversmē, nolikumā) noteiktajā kārtībā jāpieņem lēmums par tās īpašuma tiesību pārņemšanu. Ja īpašuma tiesību pārņēmēja nav, īpašumu pārņem valsts.
-(2) Ja reliģiskās organizācijas darbība tiek izbeigta, tā Latvijas Darba likumu kodeksā noteiktajā kārtībā izbeidz darba attiecības ar visiem reliģiskajā organizācijā strādājošiem darbiniekiem.
+(2) Ja reliģiskās organizācijas darbība tiek izbeigta, tā Darba likumā noteiktajā kārtībā izbeidz darba attiecības ar visiem reliģiskajā organizācijā strādājošiem darbiniekiem.
