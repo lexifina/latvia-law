@@ -1,2 +1,2 @@
 32.pants
-Ārsta praksi sertificē Ekonomikas ministrijas Akreditācijas biroja akreditēta vai Ministru kabineta pilnvarota institūcija saskaņā ar Labklājības ministrijas apstiprinātajiem sertifikācijas noteikumiem.
+Ārsta praksi sertificē normatīvajos aktos noteiktajā kārtībā.
