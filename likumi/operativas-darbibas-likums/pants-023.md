@@ -4,6 +4,7 @@
 (3) Operatīvajā uzskaitē iekļauto personu tiesības un brīvības var ierobežot tikai Latvijas Kriminālprocesa kodeksā vai citos likumos noteiktajos gadījumos un kārtībā.
 (4) Ja ziņas, uz kuru pamata persona iekļauta operatīvajā uzskaitē, nav apstiprinājušās, šī persona no uzskaites noņemama. Operatīvās uzskaites lietas (operatīvās pārbaudes un operatīvās izstrādes lietas) izbeidzamas, ja:
 1) pārbaudāmais fakts nav apstiprinājies;
-2) noziegums un šo noziegumu izdarījušās personas ir noskaidrotas;
-3) ir izpildīti citi operatīvās darbības uzdevumi.
+2) noziedzīgs nodarījums un šo noziedzīgo nodarījumu izdarījušās personas ir noskaidrotas;
+3) ir izpildīti citi operatīvās darbības uzdevumi;
+4) iestājies kriminālatbildības noilgums.
 (5) Operatīvās uzskaites lietas pēc to izbeigšanas tiek uzglabātas likumā un operatīvās darbības subjekta noteiktajā kārtībā un termiņos.
