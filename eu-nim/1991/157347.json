@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums \"Par arodbiedrībām\"",
+  "type_of_act": "Likums",
+  "official_journal": "LR Augstākās Padomes un Valdības Ziņotājs",
+  "official_journal_reference": "3",
+  "official_journal_page": null,
+  "official_journal_date": "1991-01-31",
+  "entry_into_force": "1991-01-02",
+  "notification_date": "2008-07-29",
+  "commission_reference": "MNE(2008)54415",
+  "nim_celex": "72006L0054LVA_157347",
+  "nim_id": "157347",
+  "transposes_celex": [
+    "32006L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9f9b1465-ef33-4ea8-88e2-3a6a8221f273",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
