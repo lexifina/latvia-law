@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2002.gada 8.janvāra noteikumi Nr.10 \"Noteikumi par darbiem, kuros atļauts nodarbināt bērnus vecumā no 13 gadiem\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "6",
+  "official_journal_page": null,
+  "official_journal_date": "2002-01-11",
+  "entry_into_force": "2002-06-01",
+  "notification_date": "2019-11-12",
+  "commission_reference": "MNE(2019)56169",
+  "nim_celex": "72017L0159LVA_278283",
+  "nim_id": "278283",
+  "transposes_celex": [
+    "32017L0159"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9730966c-f71a-4b7c-a498-eea03da9d7ce",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
