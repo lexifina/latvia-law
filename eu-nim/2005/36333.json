@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Kārtība pārtikas paraugu ņemšanai, sagatavošanai un laboratoriskai testēšanai patulīna koncentrācijas noteikšanai un testēšanas rezultātu izvērtēšanai",
+  "type_of_act": "Ministrijas instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "47",
+  "official_journal_page": null,
+  "official_journal_date": "2005-03-22",
+  "entry_into_force": null,
+  "notification_date": "2005-03-29",
+  "commission_reference": "MNE(2005)56333",
+  "nim_celex": "72003L0078LVA_36333",
+  "nim_id": "36333",
+  "transposes_celex": [
+    "32003L0078"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b1e775ad-2e47-477c-b524-b65f48905e0c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
