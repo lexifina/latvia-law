@@ -1,1 +1,1 @@
-17.pants. Dabas lieguma zonā meži apsaimniekojami pēc mežu ierīcības plāniem, kas izstrādāti saskaņā ar valsts meža dienesta un Vides aizsardzības un reģionālās attīstības ministrijas vienošanos.
+17.pants. Zemes īpašnieki un tiesiskie valdītāji, kuru zeme atrodas dabas lieguma zonā, Biosfēras rezervāta teritorijā esošajos dabas liegumos un dabas parkos, kā arī Baltijas jūras un Rīgas jūras līča piekrastes aizsargjoslas teritorijā, saskaņo ar Biosfēras rezervāta administrāciju meža apsaimniekošanas plānus un koku ciršanu ārpus meža zemes.
