@@ -19,7 +19,7 @@
 10) procentu maksa par banku kredīta izmantošanu, izņemot soda naudas maksājumus;
 11) maksa par licenci;
 12) zaudējumi tiesas noteiktajā apmērā, kuri nodarīti līgumpartneriem, neizpildot vai pienācīgi neizpildot savas saistības;
-13) Latvijas Republikā noteikto nodokļu (izņemot iedzīvotāju ienākuma nodokli) un nodevu (izņemot valsts nodevu par prasības pieteikumu tiesā) maksājumi valsts vai pašvaldības budžetā;
+13) Latvijas Republikā noteikto nodokļu (izņemot iedzīvotāju ienākuma nodokli un pievienotās vērtības nodokli) un nodevu (izņemot valsts nodevu par prasības pieteikumu tiesā) maksājumi valsts vai pašvaldības budžetā;
 14) drošības nauda meža atjaunošanas darbiem un meža atjaunošanas izmaksas Ministru kabineta noteiktajā kārtībā;
 15) citi izdevumi, kas saistīti ar saimniecisko darbību un nepieciešami tās nodrošināšanai, saskaņā ar Ministru kabineta noteikumiem.
 4. Ar saimniecisko darbību saistītajos izdevumos netiek ieskaitīti izdevumi, kas atbilstoši likuma "Par uzņēmumu ienākuma nodokli" 5.pantam nav uzskatāmi par tādiem izdevumiem, kas ir tieši saistīti ar saimniecisko darbību.

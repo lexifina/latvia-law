@@ -1,5 +1,5 @@
 8. pants. Gada apliekamā ienākuma avoti
-1. Maksātāja gada apliekamo ienākumu veido ienākumi, par kuriem ir jāmaksā algas nodoklis, un pārējie šā panta trešajā daļā minētie ienākumi.
+1. Maksātāja gada apliekamo ienākumu veido ienākumi, par kuriem ir jāmaksā algas nodoklis atbilstoši šā panta otrajai, ceturtajai un piektajai daļai, un pārējie šā panta trešajā daļā minētie ienākumi.
 2. Pie ienākumiem, par kuriem ir jāmaksā algas nodoklis, atbilstoši Ministru kabineta noteikumiem tiek pieskaitīta darba alga, prēmijas, vienreizēja un sistemātiska atlīdzība un citi ienākumi, ko darbinieks saņem uz pašreizējo vai iepriekšējo darba attiecību pamata uzņēmējsabiedrībās, valsts uzņēmumos, iestādēs, organizācijās un no fiziskajām personām, kā arī atlīdzība par valsts dienesta pienākumu izpildi un ienākumi no darba līguma izpildes.
 3. Pie pārējiem fiziskās personas ienākumiem, par kuriem ir jāmaksā nodoklis, tiek pieskaitīti:
 1) ienākumi no individuālā darba un uzņēmuma līguma;
@@ -13,3 +13,9 @@
 9) no uzņēmējsabiedrībām, uzņēmumiem (iestādēm, organizācijām) saņemtie dāvinājumi;
 10) pensijas neatkarīgi no to izmaksas avota;
 11) citi ienākumi, kas nav minēti šā likuma 9.pantā.
+4. Šā panta otrās daļas noteikumi neattiecas uz ienākumiem, ko fiziskā persona gūst uz tādu darba attiecību pamata, kas paredz šo personu nodarbināt uz iekšzemes uzņēmuma īpašumā vai valdījumā esoša starptautiskos pārvadājumos izmantojama kuģa, ja kuģis reģistrēts Latvijas Kuģu reģistrā. Minētās personas ienākumi, par kuriem maksājams algas nodoklis, ir uz darba attiecību pamata gūtā ienākuma daļa Ministru kabineta noteikto divu gada (mēneša) minimālo darba algu apmērā.
+5. No maksātāja ienākumiem, par kuriem maksā algas nodokli, izslēdz darbinieka labā darba devēja veiktās iemaksas privātajos pensiju fondos atbilstoši licencētiem pensiju plāniem un iemaksātās dzīvības apdrošināšanas (ar līdzekļu uzkrāšanu) prēmiju summas, kuras kopā nepārsniedz 10 procentus no maksātājam aprēķinātās bruto darba samaksas taksācijas gadā, un iemaksātās dzīvības (bez līdzekļu uzkrāšanas), veselības vai nelaimes gadījumu apdrošināšanas prēmiju summas, kas nepārsniedz 10 procentus no maksātājam aprēķinātās bruto darba samaksas taksācijas gadā, bet ne vairāk kā 180 latus gadā, ja ir izpildīti šādi nosacījumi:
+1) darbības termiņš dzīvības apdrošināšanas līgumam (ar līdzekļu uzkrāšanu) nav īsāks par pieciem gadiem;
+2) darbības termiņš dzīvības, veselības un nelaimes gadījumu apdrošināšanas līgumam (bez līdzekļu uzkrāšanas) nav īsāks par vienu gadu;
+3) dzīvības, veselības un nelaimes gadījumu apdrošināšanas līguma noteikumi paredz, ka apdrošināšanas atlīdzību par apdrošināšanas gadījumu izmaksā apdrošinātajai personai (vai tās labuma guvējam), citas summas, kas saistītas ar līguma darbību vai tā pārtraukšanu, izmaksā darba devējam, un neparedz aizdevumu izsniegšanu apdrošinātajām personām;
+4) darba devējam pēctaksācijas perioda otrā mēneša pirmajā datumā nav nodokļu parādu par iepriekšējiem periodiem.

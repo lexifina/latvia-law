@@ -2,7 +2,7 @@
 1. Gada apliekamajā ienākumā netiek ietverti un ar nodokli netiek aplikti šādi ienākumu veidi:
 1) personiskās palīgsaimniecības, piemājas saimniecības un zemnieka saimniecības ienākumi no lauksaimnieciskās ražošanas, ja tie nepārsniedz 3000 latu gadā. Lauksaimnieciskā ražošana šā likuma izpratnē ir augkopības, lopkopības, iekšējo ūdeņu zivsaimniecības un dārzkopības produkcijas ražošana;
 2) fiziskās personas - individuālā uzņēmuma īpašnieka - ienākums no individuālā uzņēmuma, kurš ir uzņēmumu ienākuma nodokļa maksātājs, un fiziskajām personām izmaksātās dividendes no uzņēmējsabiedrības ienākuma, izņemot dividendes no nerezidentiem un iekšzemes uzņēmumiem, kuriem nav jāmaksā uzņēmumu ienākuma nodoklis, kā arī tiem uzņēmumiem, kuri izmanto likumā "Par ārvalstu ieguldījumiem Latvijas Republikā" paredzētos atvieglojumus vai citos Latvijas Republikas likumos noteiktās uzņēmumu ienākuma nodokļa atlaides dividenžu deklarēšanas gadā vai iepriekšējā gadā;
-3) ienākumi no noguldījumiem un depozītiem Latvijas Republikā reģistrētās kredītiestādēs, kā arī ienākumi no hipotekārajām ķīlu zīmēm;
+3) ienākumi no noguldījumiem un depozītiem Latvijas Republikā reģistrētās kredītiestādēs un krājaizdevu sabiedrībās, kā arī ienākumi no hipotekārajām ķīlu zīmēm;
 4) apdrošināšanas atlīdzības, izņemot tās apdrošināšanas atlīdzības, kas izmaksātas pēc dzīvības, veselības un negadījuma apdrošināšanas līguma, kuru apdrošinātā interesēs noslēdzis darba devējs (vai cits apdrošinājuma ņēmējs - juridiskā persona), pienākot apdrošināšanas līgumā paredzētajam līguma beigu termiņam vai laužot līgumu pirms termiņa;
 5) izložu un azartspēļu laimesti, kuri nepārsniedz izdevumus, kas saistīti ar to iegūšanu, - Ministru kabineta noteiktajā kārtībā;
 6) ienākumi no Latvijas valsts un pašvaldību parādzīmēm;
@@ -21,13 +21,15 @@
 19) ienākumi no sava īpašuma pārdošanas, izņemot ienākumu no:
 a) pārdošanai izgatavotu vai iegādātu izstrādājumu (mantas) pārdošanas,
 b) fiziskās personas īpašumā esoša augoša meža pārdošanas izciršanai,
-c) tāda nekustamā īpašuma, akciju un citu vērtspapīru pārdošanas, kas ir bijuši personas īpašumā mazāk par 12 mēnešiem,
+c) tāda nekustamā īpašuma pārdošanas, kas ir bijis personas īpašumā mazāk par 12 mēnešiem,
 d) personāla akciju atpirkšanas;
-20) palīdzība, kas sniegta, pamatojoties uz arodbiedrības institūcijas lēmumu, no arodbiedrības naudas līdzekļiem, kuri veidojas no arodbiedrības biedru naudas maksājumiem un ārvalstu arodbiedrību ziedojumiem (dāvinājumiem);
+20) palīdzība, kas sniegta, pamatojoties uz arodbiedrības institūcijas lēmumu, no arodbiedrības naudas līdzekļiem, kuri veidojas no arodbiedrības biedru naudas maksājumiem un ārvalstu arodbiedrību ziedojumiem (dāvinājumiem) - gada neapliekamā minimuma apmērā;
 21) kompensācija naudā, ko fiziskajai personai izmaksā uzņēmumi (uzņēmējsabiedrības), pamatojoties uz nosacījumu, ka šī fiziskā persona taksācijas perioda (kalendārā gada) laikā iegādājas zināmu daudzumu preču attiecīgajā uzņēmumā (uzņēmējsabiedrībā). Šis noteikums nav piemērojams gadījumos, kad fiziskā persona nav iegādāto preču galīgais patērētājs (veic šo preču tālākpārdošanu);
 22) summas, kas izmaksātas subsīdiju veidā kā valsts atbalsts lauksaimniecībai vai Eiropas Savienības atbalsts lauksaimniecībai un lauku attīstībai;
-23) bezpeļņas organizācijas sabiedrības ar ierobežotu atbildību "Sorosa fonds - Latvija" projektu ietvaros izmaksātās stipendijas un atlīdzība, kura personai izmaksāta ārpus darba tiesiskajām attiecībām ar bezpeļņas organizāciju sabiedrību ar ierobežotu atbildību "Sorosa fonds - Latvija".
-2. Šā panta pirmās daļas 1., 10., 14. un 16.punktā minēto ienākumu, ja tie pārsniedz attiecīgās šajos punktos noteiktās summas (normas) lielumu, pārsnieguma summa tiek aplikta ar nodokli.
+23) bezpeļņas organizācijas sabiedrības ar ierobežotu atbildību "Sorosa fonds - Latvija" projektu ietvaros izmaksātās stipendijas un atlīdzība, kura personai izmaksāta ārpus darba tiesiskajām attiecībām ar bezpeļņas organizāciju sabiedrību ar ierobežotu atbildību "Sorosa fonds - Latvija";
+24) ienākums no privātajos pensiju fondos veikto iemaksu ieguldīšanas;
+25) palīdzība, kas, pamatojoties uz reliģiskās organizācijas vai tās iestādes institūcijas (amatpersonas) lēmumu, sniegta no reliģiskās organizācijas vai tās iestādes naudas līdzekļiem, - gada neapliekamā minimuma apmērā.
+2. Šā panta pirmās daļas 1., 10., 14., 16., 20. un 25.punktā minēto ienākumu, ja tie pārsniedz attiecīgās šajos punktos noteiktās summas (normas) lielumu, pārsnieguma summa tiek aplikta ar nodokli.
 3. Šā panta pirmās daļas 2.punkta noteikumi nav attiecināmi uz nerezidentiem.
 4. Šā panta pirmās daļas 8.punktā minētā stipendija ir vienreizēja vai sistemātiski ilgākā laika posmā izmaksāta naudas summa personai:
 1) kura vispārēju vai izvēlētu izglītības (studiju) programmu apgūst izglītības iestādē vai patstāvīgi;
