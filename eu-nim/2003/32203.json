@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Iepirkumu komisijas darbības noteikumi",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "183",
+  "official_journal_page": null,
+  "official_journal_date": "2003-12-30",
+  "entry_into_force": "2003-12-30",
+  "notification_date": "2004-10-29",
+  "commission_reference": "MNE(2004)52203",
+  "nim_celex": "71993L0036LVA_32203",
+  "nim_id": "32203",
+  "transposes_celex": [
+    "31993L0036",
+    "31993L0037",
+    "31997L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d9eec3c4-e6ea-4e9b-b257-70452a7c5c38",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
