@@ -1,0 +1,6 @@
+1.pants. Likumā lietotie termini
+Likumā ir lietoti šādi termini:
+1) apstrāde - jebkura darbība, ko nolietotu transportlīdzekļu apstrādes uzņēmums (arī autokapsēta) (turpmāk - apstrādes uzņēmums) veic pēc nolietota transportlīdzekļa nodošanas apstrādes punktā vai savākšanas vietā, ieskaitot uzglabāšanu, izjaukšanu, sagriešanu, sasmalcināšanu, pārstrādi vai sasmalcināto atkritumu sagatavošanu iznīcināšanai, kā arī jebkuras citas darbības, ko veic nolietotu transportlīdzekļu un to detaļu pārstrādei vai iznīcināšanai;
+2) apstrādes uzņēmums - komersants, kas nodarbojas ar nolietotu transportlīdzekļu apstrādi un ir saņēmis atļauju vai iesniedzis pieteikumu C kategorijas piesārņojošu darbību veikšanai likumā "Par piesārņojumu" noteiktajā kārtībā;
+3) nolietots transportlīdzeklis - transportlīdzeklis, no kura tā īpašnieks atbrīvojas, ir nolēmis vai spiests atbrīvoties un kurš atbilst kādai no atkritumu klasifikatorā noteiktajām kategorijām;
+4) ražotājs - transportlīdzekļa būvētājs vai profesionāls importētājs - fiziskā vai juridiskā persona, kas atbilstoši savai komercdarbībai Latvijā importē transportlīdzekļus vai saņem tos no ārpus Latvijas esošas fiziskās vai juridiskās personas, lai padarītu šos transportlīdzekļus pieejamus trešajai personai.

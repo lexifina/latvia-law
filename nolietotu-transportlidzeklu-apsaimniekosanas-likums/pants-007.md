@@ -1,0 +1,2 @@
+7.pants. Atmestu nolietotu transportlīdzekļu apsaimniekošana
+Pašvaldība tās teritorijā ārpus ceļa novietotu transportlīdzekli saskaņā ar Ceļu satiksmes likumu var pārvietot piespiedu kārtā, novietojot to speciālā stāvvietā, ja tas Ministru kabineta noteiktajā kārtībā atzīstams par atmestu nolietotu transportlīdzekli. Ministru kabinets nosaka kārtību un prasības atmestu nolietotu transportlīdzekļu nodošanai apstrādes uzņēmumam.

@@ -1,0 +1,5 @@
+9.pants. Prasības apstrādes uzņēmumam
+(1) Apstrādes uzņēmums dokumentāciju par visiem saņemtajiem nolietotiem transportlīdzekļiem, kā arī izsniegto likvidācijas sertifikātu kopijas glabā vismaz piecus gadus.
+(2) Apstrādes uzņēmums izstrādā un iesniedz Vides ministrijai nolietotu transportlīdzekļu, to sastāvdaļu un materiālu otrreizējas izmantošanas, reģenerācijas un pārstrādes plānu. Vairāki apstrādes uzņēmumi var izstrādāt un iesniegt Vides ministrijai nolietotu transportlīdzekļu, to sastāvdaļu un materiālu otrreizējas izmantošanas, reģenerācijas un pārstrādes kopīgu plānu. Plānos iekļaujamo obligāto informāciju nosaka Ministru kabinets.
+(3) Apstrādes uzņēmuma operators attiecībā uz katru iekārtu, kurā savāc (arī īslaicīgai uzglabāšanai) vai apstrādā nolietotus transportlīdzekļus, saņem atļauju vai iesniedz pieteikumu C kategorijas piesārņojošu darbību veikšanai likumā "Par piesārņojumu" noteiktajā kārtībā, kā arī ievēro atkritumu apsaimniekošanu regulējošo normatīvo aktu prasības.
+(4) Ministru kabinets nosaka vides aizsardzības prasības, kas jāievēro apstrādes uzņēmumam.

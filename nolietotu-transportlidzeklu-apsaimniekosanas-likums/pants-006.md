@@ -1,0 +1,5 @@
+6.pants. Transportlīdzekļa īpašnieka un apstrādes uzņēmuma tiesības un pienākumi
+(1) Transportlīdzekļa īpašnieks nodrošina, lai jebkurš tā īpašumā esošs nolietots transportlīdzeklis tiktu nodots apstrādes uzņēmumam. Transportlīdzekli apstrādes uzņēmumam nodod transportlīdzekļa īpašnieks vai viņa rakstveidā pilnvarota persona.
+(2) Pieņemot transportlīdzekli, apstrādes uzņēmums transportlīdzekļa īpašniekam izsniedz transportlīdzekļa likvidācijas sertifikātu. Ministru kabinets apstiprina likvidācijas sertifikāta veidlapas paraugu, kā arī nosaka likvidācijas sertifikāta aizpildīšanas un izsniegšanas kārtību.
+(3) Pēc nolietota transportlīdzekļa nodošanas apstrādes uzņēmumam transportlīdzekļa īpašnieks šo transportlīdzekli noraksta, iesniedzot Ceļu satiksmes drošības direkcijai likvidācijas sertifikātu. Ministru kabinets nosaka gadījumus, kad transportlīdzekli drīkst norakstīt, neiesniedzot likvidācijas sertifikātu.
+(4) Apstrādes uzņēmums nodrošina to, ka nolietota transportlīdzekļa īpašnieks var šo transportlīdzekli nodot apstrādes uzņēmuma pieņemšanas punktā bez jebkādām izmaksām, ja transportlīdzeklī nav papildu atkritumu.
