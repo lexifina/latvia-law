@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2003.gada 21.oktobra noteikumi Nr.585 \"Noteikumi par grāmatvedības kārtošanu un organizāciju\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "151",
+  "official_journal_page": null,
+  "official_journal_date": "2003-10-29",
+  "entry_into_force": "2003-10-30",
+  "notification_date": "2018-05-17",
+  "commission_reference": "MNE(2018)52469",
+  "nim_celex": "72011L0085LVA_258758",
+  "nim_id": "258758",
+  "transposes_celex": [
+    "32011L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d7d3e88d-81fc-45dd-b85d-9ea1a1b86afd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
