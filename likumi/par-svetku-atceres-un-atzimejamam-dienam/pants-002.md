@@ -3,6 +3,7 @@
 25. martu - Komunistiskā terora upuru piemiņas dienu;
 4. maiju - Latvijas Republikas Neatkarības deklarācijas pasludināšanas dienu;
 8. maiju - Nacisma sagrāves dienu un Otrā pasaules kara upuru piemiņas dienu;
+9. maiju - Eiropas dienu;
 14. jūniju - Komunistiska terora upuru piemiņas dienu;
 22. jūniju - Varoņu piemiņas dienu (Cēsu kaujas atceres dienu);
 4. jūliju - Ebreju tautas genocīda piemiņas dienu;
