@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par obligāto veselības pārbaudi un apmācību pirmās palīdzības sniegšanā",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "68",
+  "official_journal_page": null,
+  "official_journal_date": "1997-03-07",
+  "entry_into_force": "1997-03-08",
+  "notification_date": "2004-07-23",
+  "commission_reference": "MNE(2004)50090",
+  "nim_celex": "72000L0079LVA_30090",
+  "nim_id": "30090",
+  "transposes_celex": [
+    "32000L0079"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6724f55b-e72e-4c62-a5c0-f4ada195de6d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
