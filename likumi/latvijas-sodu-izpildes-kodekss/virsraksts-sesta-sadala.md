@@ -1,0 +1,2 @@
+Sestā sadaļa
+Arests

@@ -1,0 +1,5 @@
+78.pants. Ar brīvības atņemšanu notiesātajiem nodrošināmā medicīniskā palīdzība
+Ar brīvības atņemšanu notiesātajiem un apcietinātajiem brīvības atņemšanas iestāžu medicīniskie dienesti valsts garantēto medicīnisko palīdzību sniedz Ministru kabineta noteiktajā apjomā un kārtībā. Pārējo medicīnisko palīdzību ar brīvības atņemšanu notiesātie un apcietinātie saņem Ārstniecības likumā noteiktajā kārtībā.
+Ja ar brīvības atņemšanu notiesātajiem nepieciešama neatliekama medicīniskā palīdzība, kuru brīvības atņemšanas ārstniecības iestādē nav iespējams sniegt, šādu palīdzību viņiem sniedz citā ārstniecības iestādē. Brīvības atņemšanas iestāde nodrošina notiesātā apsardzi.
+Ja ar brīvības atņemšanu notiesātajai soda izciešanas laikā piedzimst bērns, brīvības atņemšanas iestādes administrācijai ir pienākums rakstveidā informēt par šo faktu dzimtsarakstu nodaļu, kuras darbības teritorijā atrodas brīvības atņemšanas iestāde, lai varētu reģistrēt bērna dzimšanu.
+Brīvības atņemšanas iestādēs piemēro notiesāto piespiedu barošanu atbilstoši medicīniskiem kritērijiem, ja notiesātā ilgstoša badošanās apdraud viņa dzīvību.

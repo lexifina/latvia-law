@@ -1,0 +1,3 @@
+117.pants. Brīvības atņemšanas iestāžu sadarbība ar Valsts probācijas dienestu
+Ne vēlāk kā trīs mēnešus pirms soda termiņa beigām brīvības atņemšanas iestādes administrācija informē Valsts probācijas dienestu par gaidāmo notiesātā atbrīvošanu un ar šā dienesta starpniecību noskaidro iespējas atbrīvojamā nodarbināšanai un, ja nepieciešams, arī iespējas atrast viņam pagaidu mājvietu.
+Atbrīvošanas dienā, izsniedzot personas dokumentus, brīvības atņemšanas iestādes amatpersona informē atbrīvojamo par tās Valsts probācijas dienesta struktūrvienības atrašanās vietu, kur atbrīvotais var meklēt nepieciešamo palīdzību, uzsākot dzīvi brīvībā.

@@ -1,0 +1,3 @@
+79.pants. To notiesāto ārstēšanas nodrošināšana, kuri slimo ar bīstamām infekcijas slimībām
+Brīvības atņemšanas iestādes administrācija nodrošina iestādē nepieciešamo pasākumu veikšanu infekcijas slimību profilaksei un to apkarošanai gadījumos, kad draud šo slimību izplatīšanās.
+Notiesātos, kuri ir saslimuši ar tuberkulozi aktīvā formā vai inficējušies ar cilvēka imūndeficīta vīrusu, ārstē speciāli ierīkotās brīvības atņemšanas iestāžu slimnīcās vai slimnīcu nodaļās, kur nodrošināta pastiprināta ārējā apsardze un iekšējā uzraudzība. Šo slimnieku ārstēšanai, ja nepieciešams, var pieaicināt ārstniecības personas no citām ārstniecības iestādēm.

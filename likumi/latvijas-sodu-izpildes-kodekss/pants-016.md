@@ -1,0 +1,3 @@
+16.pants. Notiesāto īslaicīga atstāšana izmeklēšanas cietumā
+Ar brīvības atņemšanu notiesāto, kuram sods jāizcieš brīvības atņemšanas iestādē, var atstāt izmeklēšanas cietumā ar rajona, pilsētas vai tiesu apgabala prokurora sankciju - uz laiku līdz trim mēnešiem, bet ar ģenerālprokurora sankciju - līdz sešiem mēnešiem, ja nepieciešams izdarīt izmeklēšanas darbības lietā par citas personas izdarīto noziedzīgo nodarījumu.
+Ja notiesāto sauc pie kriminālatbildības citā lietā un viņam noteiktais drošības līdzeklis ir apcietinājums, termiņu viņa turēšanai izmeklēšanas cietumā nosaka saskaņā ar Latvijas Kriminālprocesa kodeksa noteikumiem.

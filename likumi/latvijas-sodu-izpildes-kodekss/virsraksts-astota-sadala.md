@@ -1,0 +1,2 @@
+Astotā sadaļa
+Nāves sods

@@ -1,0 +1,2 @@
+125.pants. Policijas kontroles aizstāšana ar brīvības atņemšanu
+Ja persona, kurai ar tiesas spriedumu noteikta policijas kontroles piemērošana, ļaunprātīgi pārkāpj tās noteikumus, rajona (pilsētas) tiesa, kuras darbības teritorijā šī persona dzīvo, pēc kontrolējošās policijas iestādes iesnieguma neizciesto papildsodu saskaņā ar Krimināllikumu un Latvijas Kriminālprocesa kodeksā noteiktajā kārtībā var aizstāt ar brīvības atņemšanu.

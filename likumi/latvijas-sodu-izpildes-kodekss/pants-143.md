@@ -1,0 +1,3 @@
+143.pants. Tiesu izpildītāja darbības, izdarot mantas konfiskāciju
+Saņēmis izpildrakstu un mantas aprakstes akta kopiju, tiesu izpildītājs nekavējoties pārbauda mantas aprakstes aktā norādītās mantas un tiesas spriedumā norādītās konfiscējamās mantas esamību, kā arī sastāda mantas aprakstes aktu par to mantu, kura pārbaudes laikā atrasta pie notiesātā vai citām personām un ir pakļaujama konfiskācijai, bet nav vēl aprakstīta, un nosaka šīs mantas glabāšanas kārtību.
+Ja nepieciešams, tiesu izpildītājs iesniedz sava rajona (pilsētas) tiesai priekšlikumu civilprocesuālā kārtībā noteikt notiesātajam piederošo aprakstītās mantas daļu.

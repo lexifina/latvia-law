@@ -1,0 +1,3 @@
+42.pants. Iekšējā kārtība brīvības atņemšanas iestādēs
+Brīvības atņemšanas iestādēs nosaka stingri reglamentētu iekšējo kārtību, kas paredz: notiesāto pieņemšanas kārtību brīvības atņemšanas iestādēs; notiesāto uzvedības noteikumus darba un atpūtas laikā; darbu un amatu sarakstu, kuros aizliegts nodarbināt notiesātos; priekšmetu un mantu sarakstu un skaitu, kurus viņi var turēt pie sevis; lietošanai aizliegto priekšmetu izņemšanas kārtību; pārbaudes un satikšanās noteikumus; noteikumus, kā pieņemami un izsniedzami sūtījumi, pienesumi, bandroles un korespondence notiesātajiem, kā arī pārtikas produktu un pirmās nepieciešamības priekšmetu sarakstu un skaitu, kurus atļauts pārdot notiesātajiem.
+Iekšējo kārtību paziņo ar pavēli visiem notiesātajiem zināšanai.

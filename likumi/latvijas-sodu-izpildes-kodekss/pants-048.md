@@ -1,0 +1,2 @@
+48.pants. Iespēja ar brīvības atņemšanu notiesātajiem saņemt un sūtīt naudas pārvedumus
+Ar brīvības atņemšanu notiesātajiem atļauts saņemt naudas pārvedumus bez ierobežojuma, kā arī sūtīt naudas pārvedumus radiniekiem, bet ar brīvības atņemšanas iestādes administrācijas atļauju - arī citām personām. Naudu, kas notiesātajam atsūtīta pa pastu vai telegrāfu, viņam neizsniedz, bet ieskaita viņa personīgajā kontā; izņēmums ir notiesātie, kuri izcieš sodu atklātajos cietumos.

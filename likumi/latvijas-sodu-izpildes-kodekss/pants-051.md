@@ -1,0 +1,6 @@
+51.pants. Ar brīvības atņemšanu notiesāto iesaistīšana darbā
+Notiesātos iesaista darbā brīvības atņemšanas iestāžu uzņēmumos, ja brīvības atņemšanas iestādes administrācijai ir iespējams notiesātos nodrošināt ar darbu. Pensijas vecumu sasniegušos notiesātos, kā arī notiesātos pirmās vai otrās grupas invalīdus darbā iesaista pēc viņu vēlēšanās.
+Notiesātie, kuri sodu izcieš soda izciešanas režīma zemākajā pakāpē, strādā izolētos iecirkņos. Valsts un citu īpašuma veidu uzņēmumos notiesāto darbu organizē speciāli iekārtotos ražošanas objektos, ievērojot apsardzes un izolācijas noteikumus. Notiesātie var nodarboties ar amatniecību.
+Darbus un amatus, kuros aizliegts izmantot notiesāto darbu, reglamentē Brīvības atņemšanas iestāžu iekšējās kārtības noteikumi.
+Notiesātajiem par padarīto darbu maksā Ministru kabineta noteiktajā kārtībā. Darba devēji, kas nodarbina notiesātos, var izmantot nodokļu likumos paredzētos nodokļu atvieglojumus.
+Brīvības atņemšanas iestādēs notiesātos iesaista darbā bez darba līguma noslēgšanas. Katru notiesāto darbā iesaista ar brīvības atņemšanas iestādes priekšnieka rīkojumu.
