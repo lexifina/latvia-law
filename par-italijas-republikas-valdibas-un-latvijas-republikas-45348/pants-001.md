@@ -1,0 +1,1 @@
+1.pants. 1997.gada 21.maijā parakstītā Itālijas Republikas valdības un Latvijas Republikas valdības konvenciju par nodokļu dubultās uzlikšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem un nodokļu nemaksāšanas novēršanu (turpmāk - Konvencija) un 1997.gada 21.maijā Rīgā parakstītais papildu protokols (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.
