@@ -1,1 +1,1 @@
-1. pants. Saeimas vēlēšanu, tautas nobalsošanas un likumu ierosināšanas, kā arī pilsētas domes, rajona padomes un pagasta padomes vēlēšanu sagatavošanai un vadīšanai Saeima ne vēlāk kā sešus mēnešus pēc tās sanākšanas izveido Centrālo vēlēšanu komisiju kā pastāvīgi darbojošos valsts institūciju.
+1. pants. Saeimas vēlēšanu, tautas nobalsošanas un likumu ierosināšanas, kā arī pilsētas domes un pagasta padomes vēlēšanu sagatavošanai un vadīšanai Saeima ne vēlāk kā sešus mēnešus pēc tās sanākšanas izveido Centrālo vēlēšanu komisiju kā pastāvīgi darbojošos valsts institūciju.

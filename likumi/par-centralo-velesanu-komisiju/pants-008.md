@@ -1,1 +1,1 @@
-8. pants. Centrālā vēlēšanu komisija savas pilnvaras realizē atbilstoši Saeimas vēlēšanu likuma, Pilsētas domes, rajona padomes un pagasta padomes vēlēšanu likuma un likuma "Par tautas nobalsošanu un likumu ierosināšanu" normām.
+8. pants. Centrālā vēlēšanu komisija savas pilnvaras realizē atbilstoši Saeimas vēlēšanu likuma, Pilsētas domes un pagasta padomes vēlēšanu likuma un likuma "Par tautas nobalsošanu un likumu ierosināšanu" normām.

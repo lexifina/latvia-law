@@ -1,0 +1,1 @@
+3. Šā likuma 15.panta trešā daļa stājas spēkā sešus mēnešus pēc tam, kad Centrālā statistikas pārvalde ir pilnā apmērā saņēmusi pieprasīto finansējumu saskaņā ar likumu "Par valsts budžetu 1999.gadam".
