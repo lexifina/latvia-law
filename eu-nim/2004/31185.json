@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2003.gada 11.februāra noteikumos Nr.74  \"Prasības individuālajiem aizsardzības līdzekļiem, to atbilstības novērtēšanas kārtība un tirgus uzraudzība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "68",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-09-24",
+  "commission_reference": "MNE(2004)51185",
+  "nim_celex": "71989L0686LVA_31185",
+  "nim_id": "31185",
+  "transposes_celex": [
+    "31989L0686",
+    "31993L0068",
+    "31993L0095",
+    "31996L0058"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/33dae073-c96f-4df9-948c-d841d57c315e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
