@@ -1,0 +1,1 @@
+8. Karavīru, kuram ar aizsardzības ministra pavēli dienesta laiks ir pagarināts pirms šā likuma spēkā stāšanās, līdz dienesta pagarināšanas pavēlē noteiktajam laikam nedrīkst uz šā likuma 41.panta prasību pamata atvaļināt no aktīvā dienesta sakarā ar maksimālā vecuma sasniegšanu, ja viņš atbilst citām šā likuma prasībām. Ar šo karavīru profesionālā dienesta līgumu vairs neslēdz.

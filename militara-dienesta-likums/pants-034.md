@@ -1,0 +1,3 @@
+34.pants. Dienesta pakāpes pazemināšana, atņemšana un atjaunošana
+(1) Karavīram dienesta pakāpi var pazemināt vai atņemt, kā arī atjaunot iepriekšējo dienesta pakāpi saskaņā ar Karavīru militārās disciplīnas reglamentu.
+(2) Karavīram dienesta pakāpi atņem arī tad, ja viņš ir notiesāts par smaga vai sevišķi smaga nozieguma izdarīšanu. Šādā gadījumā virsnieka dienesta pakāpi atņem Valsts prezidents, virsniekvietnieku sastāva dienesta pakāpi - Nacionālo bruņoto spēku komandieris, kareivju un instruktoru sastāva dienesta pakāpi - vienības komandieris (priekšnieks), un to var atjaunot tikai saskaņā ar karavīru reabilitējošu tiesas spriedumu.

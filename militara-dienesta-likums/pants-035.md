@@ -1,0 +1,2 @@
+35.pants. Dienesta pakāpes piešķiršana pielīdzināšanas kārtībā
+Profesionālajā dienestā pieņemtajam bijušajam specializētā valsts civildienesta ierēdnim, valsts drošības un prokuratūras iestādēs un ārvalsts bruņotajos spēkos dienējušam Latvijas pilsonim pielīdzināšanas kārtībā var piešķirt viņa dokumentāri pierādītajai dienesta (speciālajai) pakāpei līdzīgu vai sagatavotībai atbilstošu karavīra dienesta pakāpi šajā likumā noteiktajā kārtībā, bet ne augstāku par dokumentāri pierādīto pakāpi.

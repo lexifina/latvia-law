@@ -1,0 +1,1 @@
+11. Līdz 2003.gada 1.martam, ja atvaļināšanās no profesionālā dienesta notiek saskaņā ar šā likuma 57.panta pirmās daļas 1.punktu, atvaļināšanas pabalstu pēdējo triju mēnešalgu apmērā izmaksā karavīram, kura izdienas stāžs ir 25 un vairāk gadi, bet pēdējo divu mēnešalgu apmērā - karavīram, kura izdienas stāžs ir mazāks par 25 gadiem.

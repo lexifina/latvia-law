@@ -1,0 +1,2 @@
+27.pants. Karavīru pārvietošana uz civilu valsts iestādi
+Valsts aizsardzības interesēs karavīru uz laiku var pārvietot uz civilu valsts iestādi, ieceļot viņu valsts civildienesta ierēdņa amatā vai citā amatā un saglabājot viņam karavīra statusu. Karavīru uz civilu valsts iestādi ir tiesīgs pārvietot Nacionālo bruņoto spēku komandieris. Karavīru amatā ieceļ attiecīgās iestādes vadītājs. Ja šāda pārvietošana notikusi pēc valsts iestādes lūguma, karavīra atalgojumu nodrošina šī iestāde.

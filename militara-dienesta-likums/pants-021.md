@@ -1,0 +1,8 @@
+21.pants. Amatā iecelšanas vispārīgie noteikumi
+(1) Profesionālā dienesta karavīru ieceļ amatā pēc profesionālā dienesta līguma noslēgšanas vai atbilstoši atestācijas rezultātiem. Obligātā aktīvā militārā dienesta karavīru ieceļ amatā atbilstoši viņa sagatavotībai.
+(2) Šā likuma 19.panta septītajā daļā minēto karavīru ieskaita vienības personālsastāvā un uz militārās apmācības laiku ieceļ par amata pagaidu izpildītāju.
+(3) Karavīram var uzdot pildīt prombūtnē esoša vai atstādināta karavīra amata pienākumus vai vakantu amatu uz laiku līdz sešiem mēnešiem. Tiesības uzdot karavīram amata pagaidu izpildi ir vienības komandierim (priekšniekam) vai augstākam komandierim (priekšniekam).
+(4) Karavīru nedrīkst iecelt tādā amatā, kurā viņš būtu ar savu tuvāko tiešo priekšnieku radniecības attiecībās līdz trešajai pakāpei vai svainībā līdz otrajai pakāpei.
+(5) Ja neparedzētu apstākļu dēļ komandieris (priekšnieks) sava amata pildīšanu pārtraucis, neieceldams amata pagaidu izpildītāju, viņa amata pildīšanu uzņemas pēc amata (dienesta pakāpes) vecākais un paziņo par to pakļautības kārtībā.
+(6) Ja karavīrs ir atbrīvots no amata, bet nav iecelts citā amatā vai nav atvaļināts no dienesta, viņu uz laiku līdz jautājuma izlemšanai par turpmāko dienesta gaitu, bet ne ilgāk par diviem mēnešiem var norīkot komandiera (priekšnieka) rīcībā bez iecelšanas amatā, saglabājot iepriekšējo algu.
+(7) Ja karavīram nepiešķir vai anulē speciālo atļauju pieejai valsts noslēpumam vai nepagarina tās derīguma termiņu, viņu nekavējoties atbrīvo no amata un pārceļ citā amatā, kas nav saistīts ar valsts noslēpumu, vai atvaļina no aktīvā dienesta.

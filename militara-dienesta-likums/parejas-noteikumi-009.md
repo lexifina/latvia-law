@@ -1,0 +1,1 @@
+9. Šā likuma 33.pantā paredzētie dienesta pakāpju piešķiršanas nosacījumi attiecībā uz augstākās izglītības un svešvalodas prasmes nepieciešamību karavīriem, kuri ir pieņemti aktīvajā dienestā pirms šā likuma spēkā stāšanās, stājas spēkā 2004.gada 1.jūlijā.

@@ -1,0 +1,4 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē:
+1) likums "Par Aizsardzības spēkiem" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 46./47./48.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 13., 23.nr.; 1995, 2.nr.; 1996, 14.nr.; 1997, 6., 20.nr.; 1999, 14., 24.nr.; 2001, 1.nr.);
+2) Latvijas Republikas Augstākās padomes Prezidija lēmums "Par Latvijas Republikas Aizsardzības Spēku karavīru dienesta pakāpēm un iecelšanu amatos" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 1., 15./16.nr.);
+3) Latvijas Republikas Augstākās padomes Prezidija lēmums "Par Latvijas Republikas karavīra zvēresta teksta un "Nolikuma par Latvijas Republikas karavīra zvēresta nodošanas kārtību" apstiprināšanu" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 47./48.nr.).

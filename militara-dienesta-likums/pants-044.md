@@ -1,0 +1,9 @@
+44.pants. Atvaļināšanas kārtība
+(1) Atvaļināt karavīru no aktīvā dienesta miera laikā ir tiesīgi:
+1) augstāko virsnieku - Valsts prezidents;
+2) vecāko virsnieku - aizsardzības ministrs;
+3) jaunāko virsnieku - Nacionālo bruņoto spēku komandieris; virsniekvietnieku sastāva karavīru - spēku veida komandieris; kareivju un instruktoru sastāva karavīru - vienības komandieris (priekšnieks).
+(2) Obligātā militārā dienesta karavīru no aktīvā dienesta atvaļina saskaņā ar Obligātā militārā dienesta likumu.
+(3) Sakarā ar notiesājošu tiesas spriedumu karavīru atvaļina no aktīvā dienesta ar dienu, kad tiesas spriedums stājas likumīgā spēkā. Karavīru, kas sprieduma spēkā stāšanās brīdī atrodas apcietinājumā, atvaļina no aktīvā dienesta ar dienu, kura spriedumā noteikta par soda izciešanas sākumu.
+(4) Ja karavīru atvaļina no aktīvā dienesta sakarā ar profesionālā dienesta līguma izbeigšanu pirms termiņa, izņemot šā likuma 43.panta otrās daļas 2. un 7.punktā noteiktos gadījumus un gadījumus, kad karavīrs atvaļināts no viņa gribas neatkarīgu un nenovēršamu citu apstākļu dēļ, kurus aizsardzības ministrs atzinis par attaisnojošiem, viņš proporcionāli nenodienētajam laikam kompensē (no viņa piedzen) izdevumu daļu par viņa militāro un profesionālo sagatavošanu vai kvalifikācijas celšanu, ieskaitot arī ārvalstu izglītības iestādēs (kursos) radušos mācību izdevumus, kurus, palīdzēdama Latvijai, segusi ārvalsts. Minētajam karavīram aizsardzības ministra noteiktajā kārtībā jāatlīdzina arī viņam izsniegtā aprīkojuma, ekipējuma un formas tērpa (izņemot gadījumu, kad viņu atvaļina rezervē ar tiesībām nēsāt formas tērpu) atlikusī vērtība.
+(5) Bruņota konflikta, kara vai izņēmuma stāvokļa laikā un mobilizācijas gadījumā karavīru atvaļināšanu pārtrauc, izņemot gadījumu, kad karavīrs kļuvis militārajam dienestam nederīgs.

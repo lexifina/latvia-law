@@ -1,0 +1,1 @@
+7. Profesionālā dienesta karavīram, kurš sasniedzis šajā likumā aktīvajam dienestam noteikto maksimālo vecumu, aizsardzības ministrs, ja nepieciešams, sešu mēnešu laikā pēc šā likuma stāšanās spēkā var pagarināt dienesta laiku atbilstoši šā likuma prasībām, noslēdzot terminēto profesionālā dienesta līgumu.
