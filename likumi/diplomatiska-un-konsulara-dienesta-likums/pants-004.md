@@ -3,3 +3,4 @@
 (2) Diplomātiskās un konsulārās pārstāvniecības darbojas saskaņā ar Latvijas Republikas un akreditācijas valsts likumiem, starptautisko tiesību normām un paražām, kā arī ārlietu ministra vai Ārlietu ministrijas valsts sekretāra rīkojumiem un Ārlietu ministrijas instrukcijām.
 (3) Par diplomātiskās vai konsulārās pārstāvniecības darbu ir atbildīgs tās vadītājs.
 (4) Civiltiesiskajās attiecībās diplomātiskā vai konsulārā pārstāvniecība rīkojas kā patstāvīga juridiskā persona.
+(5) Diplomātiskās un konsulārās pārstāvniecības ir Ārlietu ministrijas struktūrvienības.

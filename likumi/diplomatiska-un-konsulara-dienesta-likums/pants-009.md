@@ -1,5 +1,6 @@
-9.pants. Diplomātiskā un konsulārā dienesta ierēdņu amati un diplomātiskie rangi
-(1) Diplomātiskā un konsulārā dienesta amati un tiem atbilstīgie diplomātiskie rangi, kuri iedalāmi pakāpēs, ir šādi:
+9.pants. Diplomātu amati un diplomātiskie rangi
+(1) Diplomātiskajā un konsulārajā dienestā ierēdņu amatus atbilstoši veicamajiem pienākumiem nosaka Ārlietu ministrija.
+(2) Diplomātiskā un konsulārā dienesta amati un tiem atbilstīgie diplomātiskie rangi, kuri iedalāmi pakāpēs, ir šādi:
 Amats
 Rangs
 I pakāpe
@@ -65,5 +66,5 @@ Vēstnieka sekretārs
 Atašejs
 Diplomātiskais kurjers
 Atašejs
-(2) Diplomāta amats nedrīkst atšķirties no viņa ranga vairāk kā par vienu pakāpi. Ja tiek izveidoti jauni diplomātiskā un konsulārā dienesta amati, to atbilstību diplomātiskajiem rangiem nosaka ārlietu ministrs.
-(3) Nākamo diplomātisko rangu diplomātam var piešķirt pēc triju gadu dienesta iepriekšējā rangā. Par nozīmīgiem sasniegumiem dienestā nākamo diplomātisko rangu var piešķirt pirms šā termiņa. Izņēmuma gadījumos pēc Atestācijas komisijas ieteikuma un ar Ministru prezidenta piekrišanu ārlietu ministrs var piešķirt jebkuru citu diplomātisko rangu.
+(3) Diplomāta amats nedrīkst atšķirties no viņa ranga vairāk kā par vienu pakāpi. Ja tiek izveidoti jauni diplomātiskā un konsulārā dienesta amati, to atbilstību diplomātiskajiem rangiem nosaka ārlietu ministrs.
+(4) Nākamo diplomātisko rangu diplomātam var piešķirt pēc triju gadu dienesta iepriekšējā rangā. Par nozīmīgiem sasniegumiem dienestā nākamo diplomātisko rangu var piešķirt pirms šā termiņa. Izņēmuma gadījumos pēc Atestācijas komisijas ieteikuma un ar Ministru prezidenta piekrišanu ārlietu ministrs var piešķirt jebkuru citu diplomātisko rangu.

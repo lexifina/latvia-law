@@ -1,3 +1,3 @@
 III nodaļa
-Diplomātiem noteiktie ierobežojumi,
-papildu tiesības un garantijas
+Diplomātiem, diplomātiskā un konsulārā dienesta ierēdņiem
+un darbiniekiem noteiktie ierobežojumi, tiesības un garantijas
