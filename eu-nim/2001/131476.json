@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Dabas aizsardzības noteikumi meža apsaimniekošanā",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "73",
+  "official_journal_page": null,
+  "official_journal_date": "2001-05-11",
+  "entry_into_force": "2001-05-12",
+  "notification_date": "2006-05-22",
+  "commission_reference": "MNE(2006)53245",
+  "nim_celex": "71979L0409LVA_131476",
+  "nim_id": "131476",
+  "transposes_celex": [
+    "31979L0409",
+    "31992L0043",
+    "32009L0147"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/75f728ca-9a19-46ac-a860-25efa5ca7d0d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
