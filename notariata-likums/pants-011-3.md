@@ -1,1 +1,1 @@
-11.³ Ja pieteikumu uz vakanto zvērināta notāra amata vietu iesniegusi persona, kuras nodarbošanās nav savienojama ar notāra pienākumiem, šai personai ir atļauts zvērēt un tā iekļaujama zvērinātu notāru sarakstā tikai pēc tam, kad izbeigusi minēto nodarbošanos.
+11.³ Ja pieteikumu uz zvērināta notāra amata vietu iesniegusi persona, kuras nodarbošanās nav savienojama ar notāra pienākumiem, šai personai ir atļauts zvērēt un tā iekļaujama zvērinātu notāru sarakstā tikai pēc tam, kad izbeigusi minēto nodarbošanos.
