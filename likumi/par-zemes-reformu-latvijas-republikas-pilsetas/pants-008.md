@@ -1,7 +1,10 @@
 8. pants. Zemes reformas trešā kārta
-Zemes reformas trešajā kārtā pilsētu pašvaldības:
-1) nodod zemi īpašumā vai piešķir lietošanā, nokārtojot zemes īpašuma attiecības atbilstoši šā likuma 12. panta noteikumiem;
-2) uzmēra īpašumā nodoto un lietošanā piešķirto zemi un ierāda tās robežas dabā;
-3) veic nenodotās un nepiešķirtās zemes inventarizāciju;
-4) veic pilsētu administratīvo robežu galīgo precizēšanu;
-5) izsniedz zemes īpašuma un zemes lietošanas dokumentus.
+Zemes reformas trešajā kārtā:
+1) pilsētu zemes komisijas:
+- nodod zemi īpašumā, nokārtojot zemes īpašuma attiecības atbilstoši šā likuma 12.panta noteikumiem;
+- dod uzdevumu uzmērīt īpašumā nodoto un lietošanā piešķirto zemi un ierādīt tās robežas dabā;
+- izsniedz zemes īpašuma un zemes lietošanas dokumentus;
+2) pilsētu pašvaldības:
+- piešķir zemi lietošanā;
+- veic pašvaldības zemes inventarizāciju;
+- precizē pilsētas administratīvās robežas.

@@ -1,6 +1,6 @@
 Likumā lietotie termini
 Zeme - šā likuma nozīmē - jebkura teritorija, arī teritorija, ko aizņem meži un ūdeņi.
-Zemes gabals - juridiski noteikta teritorija konkrētam zemes izmantotājam.
+Zemes gabals - konkrētam zemes īpašniekam vai izmantotājam juridiski noteikta teritorija.
 Zemes reforma - plānveidīgs, pakāpenisks zemes īpašuma un zemes lietošanas attiecību pārkārtošanas process.
 Zemes kadastrs - datu sakopojums par visas zemes dabisko, saimniecisko un tiesisko stāvokli, kā arī zemes paraugvērtību un zemes reālo vērtību uzskaites dati.
 Zemes grāmata - zemes īpašnieku un zemes lietotāju reģistrs, zemes kadastra pamatdokuments.
