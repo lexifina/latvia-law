@@ -8,7 +8,7 @@
 5) savas kompetences ietvaros kontrolē ostas noteikumu ievērošanu;
 6) savas kompetences ietvaros kontrole ostas uzņēmumu (uzņēmējsabiedrību) darbības atbilstību likumiem, Ministru kabineta normatīvajiem aktiem un attiecīgās ostas pārvaldes nolikumam;
 7) kontrolē ostas teritorijas aizsardzību pret piesārņojumu, nodrošina piesārņojuma seku likvidēšanu ostā;
-8) nodrošina ziemas navigāciju ostā.
+8) nodrošina ziemas navigāciju ostā, ja osta nav slēgta ledus dēļ.
 (3) Ostas pārvalde kā privāto tiesību subjekts veic šādas funkcijas:
 1) izstrādā ostas attīstības programmas projektu atbilstoši apstiprinātai Latvijas ostu attīstības koncepcijai un attiecīgās pilsētas ģenerālplānam vai apdzīvotās vietas zemes ierīcības projektam;
 2) nodrošina Latvijas Ostu padomē akceptētās ostas attīstības programmas realizāciju;

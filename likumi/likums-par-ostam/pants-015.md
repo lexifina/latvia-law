@@ -1,5 +1,5 @@
 15. pants. Maksa par pakalpojumiem
-(1) Ostas pārvalde apstiprina šādus maksimālos tarifu robežlīmeņus pakalpojumiem, ko sniedz kuģiem ostā:
+(1) Ostas pārvalde apstiprina šādus tarifu robežlīmeņus pakalpojumiem, ko sniedz kuģiem ostā:
 1) aģenta maksu;
 2) maksu par piestātnes izmantošanu;
 3) maksu par tauvošanas darbu izpildi;
