@@ -1,0 +1,1 @@
+2. Līdz bezpeļņas organizācijas valsts sabiedrības ar ierobežotu atbildību "Latvijas Nacionālais metroloģijas centrs" izveidošanai tā funkcijas pilda Latvijas Nacionālais standartizācijas un metroloģijas centrs.
