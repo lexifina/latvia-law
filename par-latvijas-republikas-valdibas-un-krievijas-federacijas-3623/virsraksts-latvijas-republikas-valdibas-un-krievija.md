@@ -1,0 +1,1 @@
+Latvijas Republikas valdības un Krievijas Federācijas valdības protokols par Latvijas Republikas valdības un Krievijas Federācijas valdības vienošanās par pārceļošanas procesa regulēšanu un pārceļotāju tiesību aizsardzību pagarināšanu

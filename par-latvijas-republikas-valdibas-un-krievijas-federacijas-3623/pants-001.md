@@ -1,0 +1,1 @@
+1.pants. 2000.gada 24.februārī parakstītais Latvijas Republikas valdības un Krievijas Federācijas valdības protokols par Latvijas Republikas valdības un Krievijas Federācijas valdības vienošanās par pārceļošanas procesa regulēšanu un pārceļotāju tiesību aizsardzību pagarināšanu (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
