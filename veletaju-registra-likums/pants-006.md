@@ -1,6 +1,7 @@
 6.pants. (1) Reģistrā par vēlētāju iekļaujamas šādas ziņas:
 1) personas kods;
 2) vēlētāja kods;
+2¹) dzimšanas datums;
 3) vārds (vārdi);
 4) uzvārds;
 5) pilsonība;
@@ -16,5 +17,10 @@ e) izdevējvalsts un izdevējiestāde;
 a) numurs,
 b) adrese;
 10) kārtas numurs vēlēšanu iecirkņa vēlētāju sarakstā;
-11) ziņas par iekļaušanu Reģistrā vai izslēgšanu no tā.
+11) ziņas par iekļaušanu Reģistrā vai izslēgšanu no tā;
+12) ziņas par kandidēšanu pilsētas domes, novada domes un pagasta padomes vēlēšanās:
+a) kandidāta pieteikšanas datums,
+b) saraksta iesniedzējs - reģistrēta politiskā organizācija (partija) vai reģistrētu politisko organizāciju (partiju) reģistrēta apvienība, vai divas vai vairākas reģistrētas politiskās organizācijas (partijas), kuras nav apvienojušās reģistrētā politisko organizāciju (partiju) apvienībā, vai vēlētāju apvienības,
+c) saraksta nosaukums,
+d) pašvaldības administratīvā teritorija, kurā kandidē.
 (2) Iekļaujot ziņas Reģistrā vai aktualizējot tās, papildus norāda ziņu iekļaušanas vai aktualizēšanas datumu un iemeslu.
