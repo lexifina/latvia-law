@@ -1,0 +1,1 @@
+1.pants. 2003.gada 28.novembrī Viļņā parakstītais Grozījumu protokols līgumam par Igaunijas Republikas, Latvijas Republikas un Lietuvas Republikas parlamentu un valdību sadarbību (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
