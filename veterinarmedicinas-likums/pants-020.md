@@ -3,3 +3,5 @@
 (3) Dzīvnieku ievešanai valstī un izvešanai no tās ir nepieciešams Pārtikas un veterinārā dienesta apstiprināts veterinārais (veselības) sertifikāts.
 (4) Dzīvnieku pārvadāšanai nepieciešamos veterināros pavaddokumentus nosaka Ministru kabinets.
 (5) Ja eksportētājvalstī konstatētas dzīvnieku infekcijas slimības un rodas draudi, ka šīs slimības var izplatīties Latvijā, valsts galvenais pārtikas un veterinārais inspektors, ievērojot starptautiskās tirdzniecības normas, ir tiesīgs noteikt ierobežojumus vai aizliegumus dzīvnieku, pārtikas, dzīvnieku barības un citu priekšmetu un materiālu ievešanai Latvijā, kā arī aizliegt to tranzītu.
+(6) Dzīvniekus, dzīvnieku spermu, olšūnas un embrijus drīkst ievest no Eiropas Savienības dalībvalstīm un uzņēmumiem, kā arī no valstīm un uzņēmumiem, kuriem ar Eiropas Komisijas lēmumu dota atļauja ievest dzīvniekus, dzīvnieku spermu, olšūnas un embrijus Eiropas Savienībā.
+(7) Dzīvnieku, dzīvnieku spermas, olšūnu un embriju tirgotājiem jābūt reģistrētiem Pārtikas un veterinārajā dienestā normatīvajos aktos noteiktajā kārtībā.

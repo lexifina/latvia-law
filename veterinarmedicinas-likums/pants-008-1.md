@@ -1,0 +1,1 @@
+8.¹ pants. Pārtikas un veterinārais dienests kopā ar Eiropas Komisijas un Eiropas Savienības dalībvalstu ekspertiem var veikt kontroli valsts veterinārās uzraudzības objektos Latvijas teritorijā, lai novērtētu šo objektu atbilstību Eiropas Savienības normatīvo aktu prasībām.

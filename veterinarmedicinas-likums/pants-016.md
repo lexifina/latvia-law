@@ -4,5 +4,5 @@
 3) analizē informāciju un izstrādā iespējamo risku sistēmas;
 4) izstrādā valsts uzraudzībā esošo dzīvnieku infekcijas slimību uzraudzības programmu;
 5) izstrādā un apstiprina valsts uzraudzībā esošo dzīvnieku infekcijas slimību apkarošanas stratēģiju un rīcības plānus;
-6) sadarbojas ar kompetentām Labklājības ministrijas institūcijām, lai apmainītos ar informāciju par infekcijas slimībām, ar kurām slimo gan cilvēki, gan dzīvnieki, izstrādātu un īstenotu šo slimību profilakses un apkarošanas programmas;
+6) sadarbojas ar kompetentām Veselības ministrijas institūcijām, lai apmainītos ar informāciju par infekcijas slimībām, ar kurām slimo gan cilvēki, gan dzīvnieki, izstrādātu un īstenotu šo slimību profilakses un apkarošanas programmas;
 7) sadarbībā ar Valsts meža dienestu izstrādā priekšlikumus savvaļas dzīvnieku medību noteikumiem epizootijas situācijā.
