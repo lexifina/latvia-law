@@ -1,0 +1,1 @@
+1.pants. 1979.gada 13.novembra Konvencijas par robežšķērsojošo gaisa piesārņošanu lielos attālumos 1998.gada 24.jūnija Protokols par noturīgajiem organiskajiem piesārņotājiem (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
