@@ -1,0 +1,1 @@
+2.pants. 2001.gada 27.februārī Rīgā parakstītais Papildprotokols 1993.gada 5.aprīļa Līgumam starp Latvijas Republiku un Vācijas Federatīvo Republiku par gaisa satiksmi (turpmāk - Papildprotokols) ar šo likumu tiek pieņemts un apstiprināts.
