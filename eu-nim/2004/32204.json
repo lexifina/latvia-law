@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par iepirkuma procedūrām un to piemērošanas kārtību pasūtītāja finansētiem projektiem",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "121",
+  "official_journal_page": null,
+  "official_journal_date": "2003-08-03",
+  "entry_into_force": "2004-08-03",
+  "notification_date": "2004-10-29",
+  "commission_reference": "MNE(2004)52204",
+  "nim_celex": "71997L0052LVA_32204",
+  "nim_id": "32204",
+  "transposes_celex": [
+    "31997L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ff28cac1-516c-43c3-bdf5-e1c1f333145b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
