@@ -1,2 +1,2 @@
-67.pants. Kārtība, kādā notiesātajiem organizējamas mācības vispārējās izglītības, profesionāli tehniskās izglītības iegūšanai un profesionālā apmācība
-Notiesātajiem mācības vispārējās izglītības, profesionāli tehniskās izglītības iegūšanai un profesionālo apmācību organizē Ministru kabineta noteiktajā kārtībā.
+67.pants. Kārtība, kādā notiesātajiem organizējamas mācības vispārējās un profesionālās izglītības iegūšanai
+Notiesātajiem mācības vispārējās un profesionālās izglītības iegūšanai organizē vispārējās un profesionālās izglītības iegūšanu regulējošajos normatīvajos aktos noteiktajā kārtībā.

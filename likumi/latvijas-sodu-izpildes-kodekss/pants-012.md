@@ -1,2 +1,2 @@
 12.pants. Prokuratūras uzraudzība pār soda izpildi
-Latvijas Republikas ģenerālprokurors un viņam pakļautie prokurori nodrošina uzraudzību pār Latvijas Republikas likumu precīzu un vienveidīgu ievērošanu brīvības atņemšanas vietās, kā arī izpildot sodus, kas nav saistīti ar brīvības atņemšanu, un citus tiesas noteiktos piespiedu rakstura līdzekļus, lai labotu un pāraudzinātu notiesātos un novērstu jaunu noziegumu izdarīšanu.
+Latvijas Republikas ģenerālprokurors un viņam pakļautie prokurori nodrošina uzraudzību pār brīvības atņemšanas sodu izpildi un Latvijas Republikas likumu precīzu un vienveidīgu ievērošanu brīvības atņemšanas vietās, lai labotu notiesātos un novērstu jaunu noziedzīgu nodarījumu izdarīšanu.

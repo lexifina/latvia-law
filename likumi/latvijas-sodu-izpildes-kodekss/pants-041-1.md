@@ -1,5 +1,5 @@
-41.1 pants. Režīma prasības brīvības atņemšanas iestāžu uzņēmumos un citu ministriju un resoru ražošanas objektos
-Brīvības atņemšanas iestāžu uzņēmumos un citu ministriju un resoru ražošanas objektos atļauts izmantot brīva līguma administratīvā un inženiertehniskā personāla darbu, lai tieši vadītu notiesāto darbu, kā arī brīva līguma kvalificētus strādniekus, bet ne vairāk kā 15 procentus no strādājošo notiesāto skaita.
+41.¹ pants. Režīma prasības brīvības atņemšanas iestāžu teritorijā izvietotajos uzņēmumos
+Brīvības atņemšanas iestāžu teritorijā izvietotajos uzņēmumos atļauts uz darba līguma pamata strādāt administratīvajam un inženiertehniskajam personālam, lai tieši vadītu notiesāto darbu, kā arī kvalificētiem strādniekiem.
 Personām, kas strādā kopā ar notiesātajiem, savstarpējās attiecībās ar tiem ir jāievēro brīvības atņemšanas iestāžu administrācijas noteiktā kārtība. Ja šī kārtība tiek pārkāpta, brīvības atņemšanas iestāžu administrācijai ir tiesības aizliegt šīm personām ienākt ražošanas objektos, kur strādā notiesātie.
 Nav atļauts nodot notiesātajiem mantas, pārtikas produktus, naudu, kā arī priekšmetus, kurus aizliegts lietot cietumos. Vainīgie par to tiek saukti pie atbildības likumā noteiktajā kārtībā.
 Ja nepieciešams, administrācijai ir tiesības izdarīt ražošanas objektu apskati, kā arī to personu mantu un apģērba apskati, kuras ienāk un iziet no ražošanas objektiem, kur strādā notiesātie.

@@ -1,4 +1,4 @@
-47.pants. Ar brīvības atņemšanu notiesāto tiesības saņemt sūtījumus un pienesumus
-Notiesātajiem, kas atrodas slēgtajos un daļēji slēgtajos cietumos, atļauts saņemt ne vairāk kā astoņus sūtījumus vai pienesumus gadā. Viena sūtījuma vai pienesuma bruto svars nedrīkst pārsniegt astoņus kilogramus.
-Sūtījumus vai pienesumus var aizstāt ar naudas pārvedumiem, kuru vērtība nepārsniedz pusi no Ministru kabineta noteiktās minimālās mēnešalgas. Par šādu summu notiesātais var iegādāties preces brīvības atņemšanas iestādes veikalā papildus šā kodeksa 43.panta trešajā daļā noteiktajai summai tajā mēnesī, kad viņš ir tiesīgs saņemt sūtījumu vai pienesumu.
+47.pants. Notiesāto tiesības saņemt sūtījumus un pienesumus
 Brīvības atņemšanas iestādēs ar sūtījumiem un pienesumiem ir atļauts saņemt tikai nepārtikas preces. Kārtību, kādā sūtījumus vai pienesumus pieņem un izsniedz, kā arī to priekšmetu sarakstu, kurus atļauts saņemt ar sūtījumiem un pienesumiem, reglamentē Ministru kabineta noteikumi.
+Slēgtajos cietumos, daļēji slēgtajos cietumos un audzināšanas iestādēs nepilngadīgajiem notiesātie, kuriem ir atļauts valkāt personisko apģērbu, var to saņemt ar sūtījumiem un pienesumiem.
+Notiesātajiem ir atļauts saņemt 12 sūtījumus vai pienesumus gadā.

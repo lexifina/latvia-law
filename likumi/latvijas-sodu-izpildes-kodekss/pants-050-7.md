@@ -3,10 +3,10 @@ Audzināšanas iestādēs nepilngadīgajiem brīvības atņemšanas soda izcieš
 Notiesātos nepilngadīgos, kas sasnieguši astoņpadsmit gadu vecumu, ar brīvības atņemšanas iestādes administratīvās komisijas lēmumu var pārvietot uz brīvības atņemšanas iestādēm pilngadīgajiem notiesātajiem, ja notiesātā uzvedība izslēdz iespēju atstāt viņu audzināšanas iestādē nepilngadīgajiem vai pirms termiņa atbrīvot no soda izciešanas. Brīvības atņemšanas iestādes veidu un turpmākā soda izciešanas režīma pakāpi notiesātajam nosaka brīvības atņemšanas iestādes administratīvā komisija pirms notiesātā pārvietošanas uz cietumu.
 Lai nostiprinātu resocializācijas rezultātus un dotu iespēju iegūt vispārējo izglītību vai profesionālo sagatavotību, notiesātos, kas sasnieguši astoņpadsmit gadu vecumu, ar brīvības atņemšanas iestādes administratīvās komisijas lēmumu var atstāt audzināšanas iestādē nepilngadīgajiem līdz soda termiņa beigām, bet ne ilgāk kā līdz divdesmit viena gada vecuma sasniegšanai.
 Uz notiesātajiem, kuri sasnieguši astoņpadsmit gadu vecumu un saskaņā ar šī panta trešo daļu atstāti audzināšanas iestādē nepilngadīgajiem, attiecas notiesātajiem nepilngadīgajiem noteiktais režīms, darba noteikumi, pārtikas, materiālo un sadzīves apstākļu normas. Notiesātajiem nepilngadīgajiem un notiesātajām nepilngadīgajām soda izpildes režīma pakāpes nenosaka.
-Viņiem ir tiesības:
-1) izmantot divpadsmit īslaicīgās satikšanās gadā;
-2) saņemt 12 paku sūtījumus vai pienesumus gadā vai par šā kodeksa 47.panta otrajā daļā noteiktajā kārtībā saņemto naudu iepirkties audzināšanas iestādes veikalā;
-3) ik mēnesi izlietot iepirkumiem naudas summu vienas Ministru kabineta noteiktās minimālās mēnešalgas apmērā;
-4) ar brīvības atņemšanas iestādes priekšnieka atļauju un prokurora sankciju izbraukt ārpus iestādes teritorijas līdz desmit diennaktīm gadā, kā arī izbraukt no iestādes līdz piecām diennaktīm sakarā ar tuva radinieka nāvi vai smagu slimību, kas apdraud slimā dzīvību. Laiku, kad notiesātais atradies ārpus iestādes, ieskaita soda izciešanas laikā;
-5) saņemt bez maksas noteikta veida apģērbu, veļu un apavus, kā arī uzturu.
+Nepilngadīgajam notiesātajam atļauts:
+1) izmantot gadā 12 ilgstošās satikšanās ar tuviem radiniekiem no 36 līdz 48 stundām;
+2) izmantot gadā 12 īslaicīgās satikšanās no pusotras stundas līdz divām stundām;
+3) iepirkties iestādes veikalā bez naudas summas ierobežojuma;
+4) izmantot sešas telefonsarunas mēnesī;
+5) ar audzināšanas iestādes nepilngadīgajiem priekšnieka atļauju atstāt iestādes teritoriju līdz desmit diennaktīm gadā, kā arī atstāt iestādi līdz piecām diennaktīm sakarā ar tuva radinieka nāvi vai smagu slimību, kas apdraud viņa dzīvību. Ārpus iestādes pavadītais laiks ieskaitāms soda izciešanas laikā.
 Mācību process audzināšanas iestādēs nepilngadīgajiem tuvināts vispārējās izglītības iestādes prasībām, un to regulē tieslietu ministra apstiprināta instrukcija, kas saskaņota ar izglītības un zinātnes ministru.
