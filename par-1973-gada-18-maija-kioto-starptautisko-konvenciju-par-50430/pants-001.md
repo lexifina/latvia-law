@@ -1,0 +1,1 @@
+1.pants. 1973.gada 18.maija Kioto starptautiskā konvencija par muitas procedūru vienkāršošanu un harmonizēšanu (turpmāk - Konvencija) un tās pielikumi A1, A2, B1, B2, B3, C1, D1, D2, E1, E3, E4, E5, E6, E8, F2, F3 un F6 (turpmāk - Pielikumi) ar šo likumu tiek pieņemti un apstiprināti.

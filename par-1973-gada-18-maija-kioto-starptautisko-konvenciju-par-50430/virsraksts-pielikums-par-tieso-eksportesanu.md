@@ -1,0 +1,1 @@
+Pielikums par tiešo eksportēšanu

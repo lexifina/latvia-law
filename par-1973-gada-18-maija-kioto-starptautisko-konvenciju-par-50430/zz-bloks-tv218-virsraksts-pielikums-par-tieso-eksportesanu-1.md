@@ -1,0 +1,1 @@
+Pielikums D.1.

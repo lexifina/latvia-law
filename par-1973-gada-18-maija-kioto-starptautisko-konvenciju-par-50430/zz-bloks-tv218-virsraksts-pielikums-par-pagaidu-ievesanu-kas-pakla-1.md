@@ -1,0 +1,1 @@
+Pielikums E.6.

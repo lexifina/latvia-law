@@ -1,0 +1,1 @@
+Pielikums A.2.
