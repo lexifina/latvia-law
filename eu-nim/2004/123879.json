@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Dizainparaugu likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "183",
+  "official_journal_page": null,
+  "official_journal_date": "2004-11-17",
+  "entry_into_force": "2004-11-18",
+  "notification_date": "2005-09-06",
+  "commission_reference": "MNE(2005)53879",
+  "nim_celex": "71998L0071LVA_123879",
+  "nim_id": "123879",
+  "transposes_celex": [
+    "31998L0071"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b6874634-ca2f-472e-b349-8ff7992acb7f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
