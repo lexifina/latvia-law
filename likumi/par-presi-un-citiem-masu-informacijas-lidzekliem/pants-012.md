@@ -1,5 +1,5 @@
 12. pants. Darbības izbeigšana ar tiesas nolēmumu
-Tiesības ierosināt tiesā izskatīt jautājumu par masu informācijas līdzekļa darbības izbeigšanu ir Latvijas Republikas ģenerālprokuroram, tieslietu ministram un finansu ministram.
+Tiesības ierosināt tiesā izskatīt jautājumu par masu informācijas līdzekļa darbības izbeigšanu ir Latvijas Republikas ģenerālprokuroram, Uzņēmumu reģistra galvenajam valsts notāram un finansu ministram.
 Tiesa var pieņemt nolēmumu par masu informācijas līdzekļa darbības izbeigšanu, ja tas:
 1) publicējis aicinājumu izmantot vardarbīgas vai kādas citas pretlikumīgas metodes,
 2) publicējis aicinājumu nepakļauties Latvijas Republikas likumiem,
