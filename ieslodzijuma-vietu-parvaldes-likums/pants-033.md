@@ -1,4 +1,4 @@
 33.pants. Kvalifikācijas celšana un mācību izdevumu segšana
 (1) Ierēdnis, kurš, nepārtraucot dienestu, sekmīgi mācās par maksu Latvijas augstākās izglītības iestādē, lai iegūtu dienesta pienākumu izpildei nepieciešamās zināšanas, saņem kompensāciju, kas sedz pusi no mācību gada maksas. Kompensāciju izmaksā Ministru kabineta noteiktajā kārtībā no Pārvaldes budžeta līdzekļiem vai no tās iestādes budžeta līdzekļiem, kurā ierēdnis pilda dienestu.
-(2) Ierēdnis, kurš tiek atbrīvots no dienesta pēc paša vēlēšanās un kurš pēc mācību maksas segšanas nodienējis dienestā mazāk nekā piecus gadus, mācību maksas izdevumus atmaksā Ministru kabineta noteiktajā kārtībā.
-(3) Ierēdnim, kas paaugstina profesionālo kvalifikāciju, saglabājas darba samaksa un uzturdevas kompensācija.
+(2) Ierēdnis, kurš tiek atbrīvots no dienesta pēc paša vēlēšanās vai sakarā ar neatbilstību dienestam, disciplinārpārkāpumiem vai spēkā stājušos notiesājošu tiesas spriedumu par noziedzīga nodarījuma izdarīšanu un kurš pēc mācību maksas segšanas nodienējis dienestā mazāk nekā piecus gadus, mācību maksas izdevumus atmaksā Ministru kabineta noteiktajā kārtībā.
+(3) Ierēdnim, kas paaugstina profesionālo kvalifikāciju, saglabājas darba samaksa, izņemot piemaksas par darbu īpašos apstākļos, un uzturdevas kompensācija.
