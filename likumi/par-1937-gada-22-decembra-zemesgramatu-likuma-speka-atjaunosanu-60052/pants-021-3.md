@@ -1,0 +1,1 @@
+21.³ Zemes reformas laikā Zemesgrāmatu nodaļa, konstatējot, ka lēmums par īpašuma tiesību atjaunošanu vai zemes nodošanu īpašumā par samaksu ir nelikumīgs, paziņo par to attiecīgajai pilsētas domei vai pagasta padomei.
