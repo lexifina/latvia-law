@@ -1,0 +1,1 @@
+1. pants. 1993. gada 14. maijā Tallinā parakstītā Latvijas Republikas un Igaunijas Republikas konvencija par nodokļu dubultās uzlikšanas un ienākumu un kapitāla nodokļu nemaksāšanas novēršanu ar šo likumu pieņemta un apstiprināta.
