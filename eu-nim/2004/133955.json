@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Par Ministru kabineta noteikumu vai atsevišķu to normu spēkā esību saistībā ar Latvijas pievienošanos Eiropas Savienība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-01",
+  "entry_into_force": null,
+  "notification_date": "2006-08-04",
+  "commission_reference": "MNE(2006)54980",
+  "nim_celex": "72001L0010LVA_133955",
+  "nim_id": "133955",
+  "transposes_celex": [
+    "32001L0010"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e82006da-b927-439b-af26-1c2bf891bbaa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
