@@ -1,0 +1,1 @@
+13.pants. Černobiļas AES avārijas seku likvidēšanas dalībnieks un Černobiļas AES avārijas rezultātā cietusī persona veselības aprūpes pakalpojumu minimuma un valsts programmas ietvaros ir atbrīvota no pacienta iemaksas ārstniecības iestādēs (arī otrā posma medicīniskās rehabilitācijas iestādēs) un sociālās rehabilitācijas iestādēs.

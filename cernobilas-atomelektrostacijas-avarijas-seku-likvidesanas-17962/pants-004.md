@@ -1,0 +1,4 @@
+4.pants. Par Černobiļas AES avārijas seku likvidēšanas dalībnieku atzīstama persona, kura piedalījās Černobiļas AES ekspluatācijas darbos, Černobiļas AES avārijas seku likvidēšanas darbos un citos Černobiļas AES avārijas izraisītajos darbos Černobiļas AES atsvešināšanas zonā laikposmā no 1986.gada 26.aprīļa līdz 1990.gada 31.decembrim, ja:
+1) darba devējs nosūtīja attiecīgo personu darbu veikšanai Černobiļas AES atsvešināšanas zonā;
+2) attiecīgā persona iekšlietu iestāžu komandējošā personāla vai ierindas personāla sastāvā dienēja Černobiļas AES atsvešināšanas zonā;
+3) attiecīgā persona karaspēka daļu komandējošā personāla vai ierindas personāla sastāvā vai kā rezervē ieskaitīta karaklausībai pakļauta persona tika iesaukta uz speciālajām mācībām un iesaistīta Černobiļas AES avārijas seku likvidēšanas darbos (neatkarīgi no dislokācijas vietas un veiktajiem darbiem).

@@ -1,0 +1,1 @@
+12.pants. Černobiļas AES avārijas seku likvidēšanas dalībniekam un Černobiļas AES avārijas rezultātā cietušajai personai ir tiesības uz Černobiļas AES avārijas rezultātā iegūto slimību ambulatorajai ārstniecībai paredzēto zāļu iegādes izdevumu kompensāciju Ministru kabineta noteiktajā kārtībā.

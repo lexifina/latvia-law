@@ -1,0 +1,5 @@
+11.pants. (1) Valsts sociālo pabalstu Černobiļas AES avārijas seku likvidēšanas dalībniekam un mirušā Černobiļas AES avārijas seku likvidēšanas dalībnieka ģimenei (turpmāk - pabalsts) piešķir šādos gadījumos:
+1) Černobiļas AES avārijas seku likvidēšanas dalībniekam - ja viņam ir noteikta invaliditātes cēloņsakarība ar Černobiļas AES avārijas seku likvidēšanas darbu veikšanu;
+2) mirušā Černobiļas AES avārijas seku likvidēšanas dalībnieka ģimenei - ja attiecīgā dalībnieka nāves cēlonis ir slimība, kurai ir noteikta cēloņsakarība ar Černobiļas AES avārijas seku likvidēšanas darbu veikšanu. Par mirušā Černobiļas AES avārijas seku likvidēšanas dalībnieka ģimenes locekļiem šā likuma izpratnē uzskatāmi viņa bērni, kas nav vecāki par 18 gadiem (arī bērni, kas mācās vidējās vai augstākajās mācību iestādēs dienas nodaļā un nav vecāki par 24 gadiem), kā arī pārdzīvojušais laulātais, kas nav stājies citā laulībā, un vecāki un mazbērni, ja šis laulātais, vecāki un mazbērni ir bijuši mirušā apgādībā.
+(2) Pabalsta apmēru un saņemšanas kārtību nosaka Ministru kabinets.
+(3) Pabalstu izmaksā no valsts pamatbudžeta.

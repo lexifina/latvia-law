@@ -1,0 +1,1 @@
+2. Ārlietu ministrija sarunās ar Krievijas Federāciju, Ukrainas Republiku un Baltkrievijas Republiku risina jautājumu par starpvalstu vienošanos par kompensācijām un sociālajām garantijām Černobiļas AES avārijas seku likvidēšanas dalībniekiem un Černobiļas AES avārijas rezultātā cietušajiem Latvijas iedzīvotājiem.

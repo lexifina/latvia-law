@@ -1,0 +1,3 @@
+3. Ar šā likuma spēkā stāšanos spēku zaudē:
+1) Augstākās padomes 1991.gada 15.maija lēmums "Par pasākumiem, kas veicami, lai uzlabotu Černobiļas AES avārijas rezultātā cietušo Latvijas Republikas iedzīvotāju sociālo stāvokli" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 27./28.nr.);
+2) Augstākās padomes 1991.gada 13.jūnija lēmums "Par to, kā tiek pildīts Latvijas Republikas Augstākās padomes lēmums "Par pasākumiem, kas veicami, lai uzlabotu Černobiļas AES avārijas rezultātā cietušo Latvijas Republikas iedzīvotāju sociālo stāvokli"" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 29./30.nr.).

@@ -1,0 +1,2 @@
+IV nodaļa
+Medicīniskā palīdzība
