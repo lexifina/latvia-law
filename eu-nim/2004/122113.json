@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "MK 2004.gada 6.aprīļa noteikumi nr.243 \"Prasības nolietotu transportlīdzekļu pārstrādei un vides prasības apstrādes uzņēmumiem\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "65",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-27",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2005-06-27",
+  "commission_reference": "MNE(2005)52113",
+  "nim_celex": "72000L0053LVA_122113",
+  "nim_id": "122113",
+  "transposes_celex": [
+    "32000L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c81e52a5-9341-45f0-aa39-13fe7afcbfc6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
