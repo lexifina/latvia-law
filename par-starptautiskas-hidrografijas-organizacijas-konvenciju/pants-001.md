@@ -1,0 +1,1 @@
+1.pants. 1967.gada 3.maijā Monako parakstītā Starptautiskās hidrogrāfijas organizācijas konvencija (turpmāk - Konvencija), Starptautiskās hidrogrāfijas organizācijas vispārīgie noteikumi (turpmāk - Vispārīgie noteikumi) un Starptautiskās hidrogrāfijas organizācijas finansu noteikumi (turpmāk - Finansu noteikumi) ar šo likumu tiek pieņemti un apstiprināti.
