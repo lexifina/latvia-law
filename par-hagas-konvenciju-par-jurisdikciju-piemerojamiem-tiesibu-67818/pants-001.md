@@ -1,0 +1,1 @@
+1.pants. 1996.gada 19.oktobra Hāgas konvencija par jurisdikciju, piemērojamiem tiesību aktiem, atzīšanu, izpildi un sadarbību attiecībā uz vecāku atbildību un bērnu aizsardzības pasākumiem (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.

@@ -1,0 +1,2 @@
+7.pants. (1) Saskaņā ar Konvencijas 45.panta pirmo daļu Ārlietu ministrija informē Hāgas Starptautisko privāttiesību konferences Pastāvīgo biroju par Latvijas paziņojumu atbilstoši Konvencijas 29.panta pirmajai daļai.
+(2) Saskaņā ar Konvencijas 45.panta otro daļu un 60.panta pirmo daļu Ārlietu ministrija paziņo Nīderlandes Karalistes valdībai par Latvijas deklarāciju un atrunām atbilstoši Konvencijas 34.panta otrajai daļai, 54.panta otrajai daļai un 55.panta pirmajai daļai.
