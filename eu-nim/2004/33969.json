@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Augu aizsardzības līdzekļu klasificēšanas, marķēšanas un iepakošanas kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "210",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-30",
+  "entry_into_force": null,
+  "notification_date": "2005-01-07",
+  "commission_reference": "MNE(2005)53969",
+  "nim_celex": "72003L0082LVA_33969",
+  "nim_id": "33969",
+  "transposes_celex": [
+    "32003L0082",
+    "32004L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1713d6c2-a025-4ce8-a4fb-c1faba915b64",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
