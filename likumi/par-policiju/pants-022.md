@@ -1,0 +1,4 @@
+22. pants. Policijas darbinieka tiesiskā aizsardzība
+Policijas darbinieks ir valsts varas pārstāvis, un likumīgās prasības un rīkojumi, ko viņš izvirzījis vai devis, pildot dienesta pienākumus, visām personām ir obligāti jāizpilda. Nepakļaušanās policijas darbinieka likumīgajām prasībām ir sodāma. Policijas darbinieks atrodas valsts aizsardzībā, viņa godu un cieņu aizsargā valsts. Policijas darbinieka goda aizskaršana, pretošanās viņam, viņa dzīvības un veselības apdraudējums, kā arī rīcība, kura traucē pildīt dienesta pienākumus, ir sodāma Latvijas Republikas likumos noteiktajā kārtībā.
+Policijas darbinieks neatbild par mantisko un fizisko kaitējumu, kas dienesta pilnvaru ietvaros nodarīts likumpārkāpējam, kurš aizturēšanas brīdī nepakļaujas vai pretojas.
+Policijas darbinieka prasības ir obligātas un rīcība ir saistoša jebkurai personai, kamēr amatpersona, kas pilnvarota kontrolēt vai uzraudzīt viņa darbību, nebūs tās apturējusi vai atcēlusi.

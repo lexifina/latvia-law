@@ -1,0 +1,6 @@
+21. pants. Kārtība, kādā policijas darbinieki ieceļami amatā un atbrīvojami no amata
+Policijas departamenta priekšnieku ieceļ amatā un atbrīvo no amata Latvijas Republikas Ministru Padome pēc iekšlietu ministra priekšlikuma no policijas vecākā komandējošā sastāva personu vidus, kurām ir augstākā juridiskā izglītība un darba stāžs vadošajos amatos policijā nav mazāks par pieciem gadiem.
+Rajonu un republikas pilsētu policijas pārvalžu, nodaļu un iecirkņu priekšniekus ieceļ amatā un atbrīvo no amata iekšlietu ministrs pēc Policijas departamenta priekšnieka un pašvaldību ieteikuma no policijas vidējā un vecākā komandējošā sastāva personu vidus, kurām ir augstākā juridiskā izglītība un darba stāžs policijā nav mazāks par pieciem gadiem.
+Policijas iecirkņu inspektorus ieceļ amatā un atbrīvo no amata kārtības policijas nodaļas (pārvaldes) priekšnieks pēc saskaņošanas ar pašvaldībām no policijas ierindas un komandējošā sastāva personu vidus, kurām ir atbilstoša arodizglītība.
+Kārtību, kādā ieceļ amatā un atbrīvo no amata citas policijas ierindas un komandējošā sastāva personas, nosaka iekšlietu ministrs.
+Pašvaldības policijas amatpersonas ieceļ amatā un atbrīvo no amata pašvaldības pēc saskaņošanas ar Kārtības policijas pārvaldes vai nodaļas priekšnieku.

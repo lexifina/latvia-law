@@ -1,0 +1,6 @@
+17. pants. Kārtības policija
+Kārtības policija sastāv no Latvijas Republikas Iekšlietu ministrijas Policijas departamenta Kārtības policijas pārvaldes, tai pakļautajām pilsētu, rajonu, dzelzceļa, gaisa un ūdens transporta objektos esošajām policijas pārvaldēm, nodaļām un iecirkņiem, citām policijas apakšvienībām un šo apakšvienību dienestiem, kurus izveido, lai garantētu sabiedrības drošību, apkarotu noziedzību un apsargātu atsevišķus objektus.
+Kārtības policijas rezerve ir Latvijas Republikas Iekšlietu ministrijas akadēmijas policijas personālsastāvs.
+Kārtības policijas funkcijās ietilpst noziegumu un citu likumpārkāpumu novēršana un atklāšana, kā arī sabiedrības drošības garantēšana. Ja ienāk ziņas par to, ka tiek gatavots vai ir izdarīts noziegums, kārtības policijas iestāde veic nepieciešamos pasākumus tā novēršanai, bet, ja noziegums jau izdarīts, - tā atklāšanai, nozieguma pēdu fiksēšanai un citu neatliekamu darbību veikšanai saskaņā ar kriminālprocesuālo likumu. Ja ar saviem spēkiem un līdzekļiem šādu noziegumu novērst vai atklāt nav iespējams, to nekavējoties dara zināmu attiecīgajai kriminālpolicijas iestādei vai tās amatpersonai.
+Kārtības policijas darbiniekam, pildot savus pienākumus, parasti jābūt formas tērpā.
+Pašvaldībām ir tiesības kontrolēt kārtības policijas darbību.
