@@ -1,4 +1,4 @@
-13. pants. Apstiprināšanas kārtība
-Lēmumus par dabas rezervātu un nacionālo parku izveidošanu pieņem Augstākā Padome.
-Lēmumu par aizsargājamo ainavu apvidu, dabas liegumu, dabas parku un dabas pieminekļu izveidošanu pieņem Ministru Padome.
-Pašvaldības var pieņemt lēmumu par tādu dabas liegumu, dabas parku un dabas pieminekļu apstiprināšanu, kuri ir nozīmīgi dabas saglabāšanai attiecīgajā reģionā.
+13. pants. Izveidošanas kārtība
+Dabas rezervātus, nacionālos parkus un biosfēras rezervātus izveido Saeima ar attiecīgu likumu.
+Aizsargājamo ainavu apvidus, dabas liegumus, dabas parkus un dabas pieminekļus izveido Ministru kabinets.
+Dabas liegumus, dabas parkus un dabas pieminekļus, kuri ir nozīmīgi dabas saglabāšanai attiecīgā teritorijā, var izveidot arī pašvaldības.
