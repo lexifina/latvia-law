@@ -1,7 +1,7 @@
 5.pants. Atvieglojumi nekustamā īpašuma nodokļa maksātājiem
 (1) Atvieglojumus nosaka nekustamā īpašuma nodoklim, kurš aprēķināts saskaņā ar šā likuma 3.panta prasībām.
-(2) No 1999.gada 1.janvāra politiski represētajām personām par zemi un individuālajām dzīvojamām mājām, kas ir šo personu īpašumā vai valdījumā vismaz piecus gadus, nekustamā īpašuma nodokļa summa ir samazināma par 50 procentiem.
+(2) Politiski represētajām personām par zemi un individuālajām dzīvojamām mājām, kas ir šo personu īpašumā vai valdījumā vismaz piecus gadus, nekustamā īpašuma nodokļa summa ir samazināma par 50 procentiem, ja nekustamais īpašums netiek izmantots saimnieciskajā darbībā.
 (3) Pašvaldības var izdot saistošus noteikumus, kuros paredzēti atvieglojumi atsevišķām nekustamā īpašuma nodokļa maksātāju kategorijām. Šādi saistoši noteikumi stājas spēkā likumā "Par pašvaldībām" noteiktajā kārtībā.
 (4) Atvieglojumus atsevišķām nekustamā īpašuma nodokļu maksātāju kategorijām pašvaldības var noteikt 90 procentu, 70 procentu, 50 procentu vai 25 procentu apmērā no nekustamā īpašuma nodokļa summas.
 (5) Tie nodokļa atvieglojumi, kurus saskaņā ar šā likuma noteikumiem nekustamā īpašuma nodokļa maksātājiem piešķīrusi pašvaldība, netiek ņemti vērā, nosakot nekustamā īpašuma nodokļa prognozi, kuru izmanto, aprēķinot pašvaldību iemaksas pašvaldību finansu izlīdzināšanas fondā un izmaksas no tā.
-(6) No 2000.gada 1.janvāra nodokļa maksātājiem, kuru zemes īpašums vai tā daļa atrodas īpaši aizsargājamā dabas teritorijā vai aizsargjoslas teritorijā, kurā ar likumu noteikti saimnieciskās darbības ierobežojumi vai aprobežojumi, nekustamā īpašuma nodokļa summa Ministru kabineta noteiktajā kārtībā samazināma par 50 līdz 80 procentiem, un šie nodokļa atvieglojumi ir ņemami vērā, nosakot nekustamā īpašuma nodokļa prognozi.
+(6) (Izslēgta ar 25.11.1999. likumu.)

@@ -1,2 +1,4 @@
-10.pants. Nekustamā īpašuma nodokļa jautājumos pieņemto lēmumu pārsūdzēšanas kārtība
-Nekustamā īpašuma nodokļa jautājumos pieņemto lēmumu nodokļa maksātājs ir tiesīgs pārsūdzēt likumā "Par nodokļiem un nodevām" noteiktajā kārtībā.
+10.pants. Nekustamā īpašuma nodokļa aprēķina pārsūdzēšanas kārtība
+(1) Pašvaldības amatpersonai, kura atbilstoši normatīvajiem aktiem veic nodokļa administrācijas funkcijas, ir pienākums pēc nodokļa maksātāja rakstveida pieprasījuma pārskatīt nekustamā īpašuma nodokļa maksāšanas paziņojumā norādītās nekustamā īpašuma nodokļa summas pareizību.
+(2) Ja, pārskatot nodokļa (arī nokavējuma naudas un pamatparāda palielinājuma naudas) aprēķinu, tajā konstatēta kļūda, pašvaldības amatpersona izsniedz nodokļa maksātājam precizētu nekustamā īpašuma nodokļa maksāšanas paziņojumu. Nodokļa maksātāja pieprasījuma noraidīšanas gadījumā sniedzams motivēts rakstveida atteikums.
+(3) Ja nodokļa maksātājs nepiekrīt maksājamā nodokļa summas pārskatīšanas rezultātam, viņš to var pārsūdzēt attiecīgās pašvaldības domes (padomes) priekšsēdētājam.

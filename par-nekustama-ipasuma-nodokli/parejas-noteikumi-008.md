@@ -1,0 +1,1 @@
+8. Šā likuma 3.panta pirmās daļas 1.punktā noteiktā likme ēkām un būvēm tiek piemērota attiecībā uz to gada vidējo bilances vērtību vai, ja nodokļa maksātājs bilanci nesastāda, - Valsts zemes dienesta noteikto inventarizācijas vērtību, kas aktualizēta ne agrāk kā uz 1997.gada 1.janvāri.
