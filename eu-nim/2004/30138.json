@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Transposition not necessary",
+  "type_of_act": "Ministru kabineta instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "0",
+  "official_journal_page": null,
+  "official_journal_date": null,
+  "entry_into_force": null,
+  "notification_date": "2004-07-27",
+  "commission_reference": "MNE(2004)50138",
+  "nim_celex": "71998L0009LVA_30138",
+  "nim_id": "30138",
+  "transposes_celex": [
+    "31998L0009"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b20a6397-81a0-4be2-9463-33cb127ec13e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
