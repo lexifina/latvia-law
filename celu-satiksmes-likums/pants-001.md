@@ -11,7 +11,7 @@ Likumā ir lietoti šādi termini:
 9) diennakts tumšais laiks - laiks no vakara krēslas iestāšanās līdz rīta krēslas izzušanai;
 10) gājējs - persona, kas pārvietojas pa ceļu kājām vai invalīdu ratiņos. Šis termins neattiecas uz personām, kas veic darbus uz ceļa braucamās daļas;
 11) mehāniskais transportlīdzeklis - pašgājējs transportlīdzeklis, arī traktortehnika, kas pārvietojas pa ceļu ar savu enerģiju, izņemot mopēdus un sliežu transportlīdzekļus;
-12) mopēds - divriteņu vai trīsriteņu transportlīdzeklis ar motoru, kura darba tilpums ir mazāks par 50 kubikcentimetriem un konstrukcijā paredzētais maksimālais ātrums nepārsniedz 50 kilometrus stundā;
+12) mopēds - divriteņu, trīsriteņu vai četrriteņu transportlīdzeklis, kura motora darba tilpums ir mazāks par 50 kubikcentimetriem un konstrukcijā paredzētais maksimālais ātrums nepārsniedz 45 kilometrus stundā;
 13) motocikls - divriteņu mehāniskais transportlīdzeklis ar blakusvāģi vai bez tā. Šis termins attiecas arī uz sniega motocikliem;
 14) nepietiekama redzamība - tādi laikapstākļi (migla, lietus, sniegs un tamlīdzīgi apstākļi), kuru dēļ redzamība uz ceļa ir tuvāka par 300 metriem, arī mijkrēslis;
 15) operatīvais transportlīdzeklis - mehāniskais transportlīdzeklis, kuram noteiktā kārtībā piešķirts operatīvā transportlīdzekļa statuss un kurš piedalās ceļu satiksmē ar ieslēgtu mirgojošu zilu vai sarkanu bākuguni un speciālu skaņu signālu;
@@ -29,7 +29,7 @@ Likumā ir lietoti šādi termini:
 27) transportlīdzekļa vadītāja veselības pirmstermiņa pārbaude - veselības pārbaude, lai noteiktu medicīnisko pretindikāciju esamību, ja transportlīdzekļa vadītājs transportlīdzekli ir vadījis alkoholisko dzērienu, narkotisko, psihotropo vai citu apreibinošu vielu iespaidā vai ir pamatotas aizdomas, ka transportlīdzekļa vadītājam ir medicīniskās pretindikācijas transportlīdzekļa vadīšanai (slimība, trauma);
 28) transportlīdzekļa vadītājs - fiziskā persona, kas vada transportlīdzekli vai apmāca vadīt transportlīdzekli personu, kurai nav atbilstošas kategorijas transportlīdzekļa vadīšanas tiesību. Šis jēdziens uz personu, kura ir vadījusi transportlīdzekli, attiecas līdz tam brīdim, kad šo transportlīdzekli sāk vadīt cita persona;
 29) transportlīdzekļa valdītājs - persona, kuras tiesiskā valdījumā ir transportlīdzeklis uz mantojuma tiesību pamata;
-30) tricikls un kvadricikls - attiecīgi trīsriteņu vai četrriteņu mehāniskais transportlīdzeklis, kura izgatavotāja noteiktais maksimālais ātrums pārsniedz 50 kilometrus stundā vai kuram ir iekšdedzes motors ar 50 kubikcentimetru vai lielāku darba tilpumu (arī jebkurš cita tipa atbilstīgas jaudas motors) un kura pašmasa nepārsniedz 550 kilogramus;
+30) tricikls un kvadricikls - attiecīgi trīsriteņu vai četrriteņu mehāniskais transportlīdzeklis, kura konstrukcijā paredzētais maksimālais ātrums pārsniedz 45 kilometrus stundā vai kuram ir iekšdedzes motors ar 50 kubikcentimetru vai lielāku darba tilpumu [kvadricikla pašmasa nepārsniedz 400 kilogramus (550 kilogramus, ja tas paredzēts kravu pārvadāšanai) un jauda - 15 kilovatus]. Šis termins attiecas uz četrriteņu mopēdiem ar pašmasu virs 350 kilogramiem, bet neattiecas uz motocikliem ar blakusvāģi;
 31) trolejbuss - transportlīdzeklis, kas paredzēts braukšanai pa ceļu savienojumā ar ārēju elektroenerģijas padeves avotu;
 32) velosipēds - transportlīdzeklis, kuru ar savu muskuļu spēku virza cilvēks, kas atrodas uz tā (izņemot invalīdu ratiņus);
 33) vilcējs - mehāniskais transportlīdzeklis, kas brauc savienojumā ar piekabi (puspiekabi).

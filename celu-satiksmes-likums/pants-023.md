@@ -2,7 +2,7 @@
 (1) (Izslēgta ar 08.07.2003. likumu.)
 (2) Vadītāja apliecību kategorijām atbilstošie transportlīdzekļi:
 1) A1 - motocikli bez blakusvāģa, kuru motora darba tilpums nepārsniedz 125 kubikcentimetrus un jauda nepārsniedz 11 kilovatus (15 zirgspēkus);
-2) A2 - motocikli, kuru motora jauda nepārsniedz 25 kilovatus (34 zirgspēkus) vai 0,16 kilovatus uz kilogramu (0,22 zirgspēkus uz kilogramu);
+2) (izslēgts ar 08.07.2003. likumu);
 3) A - motocikli;
 4) B1 - tricikli un kvadricikli;
 5) B - mehāniskie transportlīdzekļi, kuru pilna masa nepārsniedz 3500 kilogramus un sēdvietu skaits, neskaitot vadītāja vietu, nepārsniedz astoņas vietas, kā arī šādas kategorijas vilcēja savienojums ar piekabi, kuras pilna masa nepārsniedz 750 kilogramus, B kategorijas vilcēja savienojums ar piekabi, ja šā savienojuma pilna masa nepārsniedz 3500 kilogramus un piekabes pilna masa nepārsniedz vilcēja pašmasu;
