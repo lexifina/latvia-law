@@ -1,0 +1,2 @@
+2.pants. Latvijas Nacionālo bruņoto spēku vienību pilnvaras
+Latvijas Nacionālo bruņoto spēku vienības piedalās starptautiskajās operācijās Apvienoto Nāciju Organizācijas vai citas starptautiskas organizācijas apstiprināta mandāta ietvaros, saskaņā ar Latvijas Republikai saistošiem starptautiskajiem līgumiem un Latvijas Republikas likumiem, kā arī Saeimas vai Ministru kabineta lēmumu par Latvijas Nacionālo bruņoto spēku vienību piedalīšanos starptautiskajās operācijās.

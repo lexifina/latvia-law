@@ -1,0 +1,2 @@
+10.pants. Sociālās garantijas to vienību militārpersonām, kas piedalās starptautiskajās operācijās
+Sociālās garantijas to Latvijas Nacionālo bruņoto spēku vienību militārpersonām, kas piedalās starptautiskajās operācijās, tiek nodrošinātas atbilstoši Latvijas Republikai saistošiem starptautiskajiem līgumiem un Latvijas Republikas likumiem, kā arī saskaņā ar individuāliem līgumiem par ierindas dienestu un par aktīvo militāro dienestu Latvijas Nacionālo bruņoto spēku vienībā.
