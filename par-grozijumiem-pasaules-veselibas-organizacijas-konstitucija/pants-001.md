@@ -1,0 +1,1 @@
+1.pants. 1965.gada 20.maija grozījums 1946.gada 22.jūlija Pasaules veselības organizācijas Konstitūcijas (turpmāk - Konstitūcija) 7.pantā, 1978.gada 18.maija grozījums Konstitūcijas 74.pantā un 1998.gada 16.maija grozījumi Konstitūcijas 24. un 25.pantā (turpmāk - Grozījumi) ar šo likumu tiek pieņemti un apstiprināti.
