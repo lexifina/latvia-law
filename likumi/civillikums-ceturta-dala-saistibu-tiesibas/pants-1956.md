@@ -1,0 +1,1 @@
+1956. Ja patapinātā lieta bojāta vai gājusi bojā neatļautas lietošanas vai tās atdošanas nokavējuma dēļ, tad patapinājuma ņēmējs atbild par to, pat ja nebūtu iemesla viņu par to vainot, un tādēļ šādā gadījumā viņš atbild arī par risku. Tas pats piemērojams arī tad, kad patapinājuma ņēmējs noteikti uzņēmies atbildēt par visiem zaudējumiem.

@@ -1,0 +1,2 @@
+2332. Lietvedim nav jāpārzina visas pārstāvamā lietas. Viņa atbildība attiecas galvenā kārtā tikai uz tām no šīm lietām, kuras viņš iesācis vest, pie kam tomēr viņam jāievēro arī visas ar tām saistītās blakus lietas. Nekārtojot lietas, kas nestāv sakarā ar viņa lietvedību, viņš padara sevi atbildīgu tikai tiktāl, ciktāl viņa iejaukšanās ir kavējusi vest šīs lietas citam.
+Lietvedim jānobeidz reiz uzņemtās svešās lietas, un pat pārstāvamās personas nāve nedod viņam tiesību savu lietvedību pārtraukt.

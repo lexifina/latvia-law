@@ -1,0 +1,1 @@
+1627. Kamēr nav taisīts spriedums cenas samazinājuma prasībā, prasītājam vienmēr ir tiesība, ja viņš atzīst priekšmetu par gluži nederīgu, minētās prasības vietā celt līguma atcēluma prasību, tomēr ne citādi, kā atlīdzinot pretiniekam prāvas izdevumus agrākā lietā.

@@ -1,0 +1,1 @@
+2325. Ja kāds neaicināts uzņemas vest citas personas lietas saskaņā ar viņas patiesām interesēm un tādos apstākļos, kuros varētu pieņemt, kā šī persona, ja viņai būtu bijusi izdevība izteikt savu gribu, būtu piekritusi šādai vietniecībai, tad ar tādu lietvedību nodibinās starp lietvedi un pārstāvamo līgumam līdzīga tiesiska attiecība.

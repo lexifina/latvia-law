@@ -1,0 +1,1 @@
+1544. Līgums par neapgrozāmu lietu nav spēkā pat arī tad, ja tā vēlāk kļūtu apgrozāma; bet ja tas, kam šī lieta bijusi apsolīta, nav zinājis par lietas īpašību, viņš var prasīt no pretinieka zaudējumu atlīdzību. Ja lieta izņemta no apgrozības tikai attiecībā uz parādnieku, bet kreditors var to valdīt, tad līgums ir spēkā.

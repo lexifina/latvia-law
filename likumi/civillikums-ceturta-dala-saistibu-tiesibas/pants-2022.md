@@ -1,0 +1,1 @@
+2022. Abām pusēm savstarpēji cieši jāievēro savi pienākumi; sevišķi pārdevējam līdz pārdotās lietas nodošanai tā jāglabā ar lielāko rūpību un jāatbild šajā ziņā arī par katras neuzmanības sekām. Bet ja pircējs vilcinās pirkto lietu saņemt, tad pārdevējs atbild tikai par ļaunprātību un rupju neuzmanību.

@@ -1,0 +1,1 @@
+III. Pirkuma līguma atcelšana

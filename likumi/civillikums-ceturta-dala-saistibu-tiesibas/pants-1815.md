@@ -1,0 +1,1 @@
+1815. Ja saistības priekšmets attiecas vienīgi uz saistītā personīgu darbību, tad saistība jāizpilda viņam pašam. Visos citos gadījumos saistību var izpildīt parādnieka vietā, pat bez viņa ziņas un pret viņa gribu, trešā persona.

@@ -1,0 +1,1 @@
+1740. Aizturējuma tiesība izbeidzas, kad nolīdzināts pretprasījums, kā arī kad valdītājs izlaiž lietu no savām rokām, neizlietojis tiesību to aizturēt, ar ko viņš tomēr nezaudē savu prasījuma tiesību.

@@ -1,0 +1,1 @@
+2341. Kas, domādams samaksāt savu parādu, samaksā svešu, tas var, pēc sava ieskata, vai nu prasīt atpakaļ no saņēmēja tam samaksāto neesošo parādu, vai kā īstā parādnieka lietvedis griezties pie tā ar prasījumu.

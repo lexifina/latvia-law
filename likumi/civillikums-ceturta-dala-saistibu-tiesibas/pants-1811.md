@@ -1,0 +1,1 @@
+1811. Katra saistības tiesība izbeidzas pati no sevis, kad izpildīta tai atbilstošā parādnieka saistība, t.i. nolīdzinot parādu. Ja saistības tiesības priekšmets ir nauda, tad saistību izpilda ar samaksu.

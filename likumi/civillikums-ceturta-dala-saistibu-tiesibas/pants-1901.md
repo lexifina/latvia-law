@@ -1,0 +1,1 @@
+1901. Periodiskos izpildījumos katram atsevišķam izpildījumam iesākas arī sevišķs noilgums, skaitot ar to dienu, kurā tam iestājas termiņš. Bet ja pati tiesība, ar kuru šie periodiskie izpildījumi nodibināti, ir izbeigusies ar noilgumu, tad vairs nevar prasīt arī atsevišķu izpildījumu, kaut arī vēl nebūtu notecējis tam noteiktais patstāvīgais noilguma termiņš.

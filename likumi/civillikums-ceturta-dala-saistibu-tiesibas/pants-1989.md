@@ -1,0 +1,3 @@
+1989. Ja vairākas personas kopīgi nodod lietu glabājumā, vai ja glabājuma devējs atstāj vairākus mantiniekus, tad attiecībā uz dalāmiem priekšmetiem katrs līdzdalībnieks var savu daļu atprasīt atsevišķi, ja nav norunāts citādi.
+Tam, kas tādā gadījumā dabūjis savu daļu, nav jāatlīdzina pārējiem zaudējumi, kuri vēlāk nejauši vai aiz glabātāja vainas varētu rasties viņiem piederošās daļās.
+Ja glabājumā nodoto lietu nav iespējams atdot pa daļām, tad katram līdzdalībniekam ir tiesība atprasīt to visumā, bet tikai nodrošinot glabātāju pret pārējo prasībām; bez tāda nodrošinājuma katrs līdzdalībnieks var tikai prasīt savā un citu vārdā, lai lietu nodod tiesai glabāt.

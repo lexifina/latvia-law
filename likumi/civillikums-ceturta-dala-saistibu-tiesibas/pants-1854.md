@@ -1,0 +1,1 @@
+1854. Ar pienācīgā kārtā priekšā liktu un atzītu ieskaitu prasījums tiek dzēsts, pilnīgi vai pa daļai, tāpat kā ar samaksu, ar visiem blakus prasījumiem (1842.p.), un proti, no tā laika, no kura tam stāvējis pretim pretprasījums kā ieskaitāms.

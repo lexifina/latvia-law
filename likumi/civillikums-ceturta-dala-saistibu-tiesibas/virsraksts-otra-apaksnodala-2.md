@@ -1,0 +1,2 @@
+OTRĀ APAKŠNODAĻA
+Līdzēju vienošanās

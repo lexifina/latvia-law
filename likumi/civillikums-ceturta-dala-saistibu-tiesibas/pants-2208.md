@@ -1,0 +1,1 @@
+2208. Graudniekam jāaizved uz tuvāko dzelzceļa staciju vai parasto pārdošanas vietu saimnieka saņemtā ražas daļa vai pārdodamie kustoņi. Bet graudnieks var šādā gadījumā prasīt, lai viņam dod katram braucienam vismaz vidēja vienzirga vezuma svaru, ja vien vedums tādu iedalījumu atļauj.

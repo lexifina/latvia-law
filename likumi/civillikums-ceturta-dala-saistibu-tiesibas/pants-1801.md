@@ -1,0 +1,1 @@
+1801. Cesijas līgumu starp prasījuma atdevēju kreditoru (cedentu) un to personu, kam to atdod (cesionāru), var noslēgt jebkādā formā. Parādnieka piekrišana, pret kuru prasījums vērsts, nav vajadzīga, un cesija ir spēkā, pat ja viņš neko par to nezina.

@@ -1,0 +1,1 @@
+1678. Tam kopkreditoram, kas saņēmis saistības izpildījumu (1677.p.), jāizdod pārējiem zināma daļa tikai tad, kad tie atrodas ar viņu sabiedrībā vai kad šāds pienākums aiz kāda cita iemesla uzlikts viņam ar līgumu, testamentu vai likumu.

@@ -1,0 +1,2 @@
+ASTOTĀ APAKŠNODAĻA
+Noilgums

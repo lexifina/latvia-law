@@ -1,0 +1,1 @@
+1560. Ja pamatojoties uz līgumu, kas noslēgts ar atliekošu nosacījumu, nosacīti tiesīgajam ir nodota kāda lieta, tad līdz tam laikam, kamēr vēl nav zināms, vai nosacījums iestāsies vai ne, viņš uzskatāms par svešās lietas pārvaldītāju, nevar kļūt par tās īpašnieku ar ieilgumu, un pēc pieprasījuma viņam tā jādod atpakaļ, bet līdz ar to viņš arī nenes risku par lietu.

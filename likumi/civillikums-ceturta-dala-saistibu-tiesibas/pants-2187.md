@@ -1,0 +1,1 @@
+2187. Darba devējam jāsamaksā darbiniekam par darbu attiecīgā atlīdzība (2180.p.). Ja darba devējs dod darbiniekam pārtiku un telpas, kur uzturēties un gulēt, šai pārtikai jābūt derīgai un pietiekošai, bet telpām - veselīgām.

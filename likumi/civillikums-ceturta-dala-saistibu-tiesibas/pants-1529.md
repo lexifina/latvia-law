@@ -1,0 +1,1 @@
+1529. Uzrādītāja papīra parādnieks nevar celt pret uzrādītāju nekādas ierunas, kas viņam būtu bijušas pret pirmo vai kādu sekojošo šā papīra turētāju; tāpat arī viņš nevar izvairīties savu saistību izpildīt, atsaucoties uz to, kādā kārtā vai par kādu cenu uzrādītājs šo papīru ieguvis.

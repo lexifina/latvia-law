@@ -1,0 +1,1 @@
+1955. Ja patapinājuma ņēmējs patapinātās lietas lietošanā, uzturēšanā un uzglabāšanā ievērojis likumisko rūpību, tad viņš neatbild ne par trešās personas vainu, kuru viņam nav bijis iespējams novērst, ne par nejaušu zaudējumu vai lietas bojā eju.

@@ -1,0 +1,1 @@
+2395. Prasību par lietas parādīšanu var vērst nevien pret valdītāju, bet arī pret katru tās turētāju, kā arī pret to, kas lietu valdījis, bet tīši to nodevis svešās rokās vai iznīcinājis. Šāda prasība pielaižama arī tad, kad atbildētājam varbūt nemaz nav zināms, vai lieta tiešām pie viņa atrodas.

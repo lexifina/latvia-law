@@ -1,0 +1,2 @@
+2214. Ja norunāts apstrādāt kādu materiālu, tad šis materiāls jāgādā pasūtītājam. Bet ja materiālu gādā uzņēmējs, un pasūtītājs tikai samaksā naudā par viņam izgatavoto lietu, tad līgums uzskatāms nevis par uzņēmumu, bet par pirkumu.
+Uzņēmuma līgums nepārgrozās, ja uzņēmējs apstrādāšanai dotam materiālam pieliek kādus pielikumus. Tāpat arī līgums nezaudē uzņēmuma raksturu, ja būvdarbos uzņēmējs piegādā materiālu, bet pasūtītājs dod zemi būves vietai.

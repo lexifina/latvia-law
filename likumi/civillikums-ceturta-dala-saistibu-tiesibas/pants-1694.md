@@ -1,0 +1,1 @@
+1694. Galvojumā ir nepieciešams spēkā esošs galvenais parāds, un to var dot par visādām saistībām, to starpā arī par saistībām no neatļautas darbības, par pastāvošām un nākamām, noteiktām un nenoteiktām, nosacītām un nenosacītām, un kā par visu galveno parādu, tā arī par tā daļu.

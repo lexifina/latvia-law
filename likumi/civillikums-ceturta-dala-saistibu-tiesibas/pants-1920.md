@@ -1,0 +1,2 @@
+1920. Tiesība atsaukt dāvinājumu nepateicības dēļ nepāriet uz dāvinātāja mantiniekiem, kā arī nav vēršama pret nepateicīgā apdāvinātā mantiniekiem, un dāvinātājs var celt tikai personisku prasību pret apdāvināto, lai tas atdod pašu lietu līdz ar tās piederumiem un augļiem, bet arī tikai tad, kad dāvana joprojām atrodas apdāvinātā mantā vai arī kad viņš vismaz vēl no tās ir iedzīvojies.
+Ja starplaikā, bet vēl pirms prasības celšanas, apdāvinātais apgrūtina dāvanu ar kādām lietu tiesībām, tad dāvinātājam, kas dāvinājumu atsauc, jāatzīst tās par spēkā esošām.

@@ -1,0 +1,1 @@
+1630. Ja līgumu noslēguši vairāki atsavinātāji kopīgi, tad viņiem jāatbild abās prasībās (1620.p.) solidāri. Ja ir vairāki atsavinātāja mantinieki, prasību var celt tikai pret katru no tiem atsevišķi, viņa daļas apmērā.

@@ -1,0 +1,1 @@
+1776. Cietušais nevar prasīt atlīdzību, ja viņš pats varējis zaudējumu novērst, ievērojot pienācīgo rūpību (1646.p.). Izņēmums no šā noteikuma pielaižams tikai ļaunprātīga tiesību aizskāruma gadījumā.

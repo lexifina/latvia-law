@@ -1,0 +1,1 @@
+1512. Pie katra saistību līguma būtības pieder vienas pusei apsolījums un tā pieņemšana no otras puses (vienpusējs līgums), vai savstarpējs apsolījums un tā pieņemšana no abām pusēm (divpusējs vai vairākpusējs līgums).

@@ -1,0 +1,1 @@
+1894. Parādnieks, no kura prasa izdot noteiktu svešu lietu, nevar atsaukties uz noilgumu, ja pretējā puse pierāda, ka viņš vai viņa priekšgājējs nav pa visu noilguma laiku valdījuši šo lietu labā ticībā.

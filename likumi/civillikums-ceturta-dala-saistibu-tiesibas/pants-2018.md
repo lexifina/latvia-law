@@ -1,0 +1,1 @@
+2018. Ja pirkums noticis par tirgus cenu, tad pieņemams, ka bijusi domāta vidējā cena līguma slēgšanas vietā un laikā. Bet ja tajā vietā tirgus cenu nav, tad ņemamas par pamatu tuvākās tirdzniecības vietas tirgus cenas. Kur pastāv cenu rādītāji, tur cena noteicama pēc tiem.

@@ -1,0 +1,1 @@
+1957. Ja patapinājuma līgums noslēgts abām pusēm par labu, tad patapinājuma ņēmējs atbild tikai samērā ar to rūpību, kādu viņš mēdz ievērot savās paša lietās; bet ja darījuma mērķis ir vienīgi patapinātāja labums, tad patapinājuma ņēmējs atbild tikai par ļaunu nolūku un rupju neuzmanību.

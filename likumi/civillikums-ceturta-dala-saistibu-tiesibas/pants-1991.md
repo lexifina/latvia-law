@@ -1,0 +1,1 @@
+1991. Ja pēc glabātāja nāves paliek vairāki mantinieki, tad tie atbild mantojuma atstājēja vietā tikai samērīgi ar savu daļu; bet par savu pašu vainu viņi atbild tā, it kā lieta būtu uzticēta glabājumā viņiem kopīgi.

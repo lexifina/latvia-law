@@ -1,0 +1,1 @@
+2157. Nomniekam jāraugās uz to, lai saimniecības robežas paliktu neaizskartas un lai vispār tās tiesības nekādā ziņā netiktu aprobežotas. Par katru robežu un tiesību aizskārumu viņam nekavējoties jāpaziņo saimniecības iznomātājam.

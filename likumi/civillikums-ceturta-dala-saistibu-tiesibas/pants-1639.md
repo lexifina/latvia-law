@@ -1,0 +1,1 @@
+1639. Tiesību aizskārums uzliek atbildību tam, kas pieļauj to tādos apstākļos, kuri, pēc viņa personiskām attiecībām pret aizskārēju, dod viņam, kā vienam no vecākiem vai saimniekam, iespēju un tā tad arī uzliek pienākumu aizkavēt tādu aizskārumu.

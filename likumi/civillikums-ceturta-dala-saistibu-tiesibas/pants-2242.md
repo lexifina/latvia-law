@@ -1,0 +1,1 @@
+2242. Sabiedrības līguma ilgumu var aprobežot ar kādu pārejošu mērķi vai ar noteiktu laiku; var noslēgt līgumu arī uz nenoteiktu laiku. Ja līgums ir noslēgts uz noteiktu laiku un ja pēc tā notecējuma līguma attiecības turpina, tad līgums uzskatāms par klusējot pagarinātu uz nenoteiktu laiku.

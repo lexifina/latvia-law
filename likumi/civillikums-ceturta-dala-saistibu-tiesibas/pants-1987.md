@@ -1,0 +1,1 @@
+1987. Glabājuma devējam jāatlīdzina glabātājam zaudējumi, kas tam radušies glabājuma dēļ, tiklab tie, kurus tas cietis bez savas vainas un nav varējis novērst, kā arī tie, kuri tam cēlušies aiz glabājuma devēja paša neuzmanības.

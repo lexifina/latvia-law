@@ -1,0 +1,1 @@
+1804. Agrākais kreditors, neraugoties uz cesiju, vēl joprojām skaitās par tādu līdz tam laikam, kamēr cesionārs nav dabūjis apmierinājumu no parādnieka, vai nav cēlis pret to prasību, vai vismaz nav tam pienācīgā kārtā par cesiju paziņojis. Līdz tam pašam laikam var arī parādu samaksāt cedentam, kā arī noslēgt ar viņu izlīgumu, un tāpat viņam paliek arī prasības tiesība.

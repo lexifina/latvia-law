@@ -1,0 +1,1 @@
+1591. Ja ceļ prasību par divpusēja līguma izpildīšanu, prasītājam vai nu jāpiesola pienācīgs izpildījums, vai jāpierāda, ka viņš no savas puses līgumu jau izpildījis. Pretējā gadījumā pret viņu var celt līguma neizpildīšanas ierunu, ja vien no pašas līgumiskās attiecības rakstura neizriet, ka atbildētājam pienākas papriekš izpildīt.

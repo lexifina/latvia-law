@@ -1,0 +1,1 @@
+1842. Saistības pienācīgs izpildījums nevien atsvabina parādnieku no jebkādas tālākas atbildības par to, bet līdz ar to izbeidz arī visus šās saistības blakus prasījumus, kas nodibināti ar ķīlu un galvojumu.

@@ -1,0 +1,3 @@
+2159. Ja līgumā noteikta sevišķa saimniecības sistēma, tad nomniekam cieši pie tās jāturas. Bez tam viņam nav tiesības bez iznomātāja piekrišanas uzsākt pirms viņa pastāvējušā saimniecības sistēmā nekādus svarīgus pārgrozījumus, kuri varētu to ietekmēt arī pēc viņa nomas izbeigšanās.
+Laukus ar vairākgadīgiem augiem nedrīkst tā izmantot, ka var ciest nākamo gadu raža. Papuves laukus izlietot sējumiem nomnieks var tikai iznomātājam piekrītot.
+Zemes meliorēšanā nomniekam nav jāpiedalās. Ja zeme drenēta, tad nomniekam jārūpējas par drenu izteku uzturēšanu kārtībā. Nomniekam kārtīgi jāiztīra visi gar un caur papuves laukiem ejošie grāvji.

@@ -1,0 +1,2 @@
+1600. Notikuša attiesājuma gadījumā (1598.p.) atbildības pienākumu pret lietas ieguvēju nes tās atsavinātājs, saprotot šeit tās attiesāšanu par labu trešai personai nevien pamatojoties uz īpašuma tiesību, bet arī uz jebkādu citu lietu tiesību.
+Ja trešā persona ceļ prasību par kādu servitūtu, izņemot lietojuma tiesību, tad piemērojami noteikumi, kas paredz atbildību par trūkumiem (1612. un turpm.p.).

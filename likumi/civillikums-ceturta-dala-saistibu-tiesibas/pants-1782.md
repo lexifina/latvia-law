@@ -1,0 +1,1 @@
+1782. Ja kāds nepiegriež vajadzīgo uzmanību izvēloties kalpotājus un citus darbiniekus un nepārliecinās papriekš par viņu spējām un noderību izpildīt viņiem uzliekamos pienākumus, tad viņš atbild par zaudējumiem, ko viņi ar to nodarījuši trešai personai.

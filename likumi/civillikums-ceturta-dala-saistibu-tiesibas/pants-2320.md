@@ -1,0 +1,1 @@
+2320. Ieteikums vien, ar kuru otram uzslavē kādas personas vai lietas labās īpašības, lai ar to piedabūtu viņu pie zināmas darbības, vēl nenodibina pats par sevi nekādu saistību, izņemot gadījumu, kad ieteikums izdarīts ļaunā nolūkā.

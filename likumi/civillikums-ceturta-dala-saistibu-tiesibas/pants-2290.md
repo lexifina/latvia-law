@@ -1,0 +1,1 @@
+2290. Pilnvarojuma līgumu nodibina ar līdzēju vienošanos, kas var notikt arī klusējot, ja kāds apzināti pielaiž trešo personu vest savas lietas. Tās personas klusēšana, kam uzdevums dots, nav vēl uzskatāma par pietiekošu un šaubu gadījumā atzīstama par nepiekrišanas zīmi.

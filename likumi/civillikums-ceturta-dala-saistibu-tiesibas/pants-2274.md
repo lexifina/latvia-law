@@ -1,0 +1,2 @@
+2274. Ja pēc parādu nokārtošanas un ieguldījumu atpakaļ izsniegšanas paliek kāds atlikums, tad tas pienākas biedriem samērīgi ar viņu daļām kopīgā mantā.
+Ja kopīgās mantas nepietiek kopīgo parādu nokārtošanai un ieguldījumu atpakaļ izsniegšanai, tad biedriem iztrūkums jāsedz samērīgi ar viņu daļām zaudējumos; ja no kāda biedra uz viņu krītošo summu nevar piedzīt, tad pārējiem biedriem iztrūkums jāsedz tādā pašā samērā.

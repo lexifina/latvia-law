@@ -1,0 +1,1 @@
+2041. Abām pusēm vienojoties var atcelt katru pirkuma līgumu, kā pirms, tā arī pēc tā izpildīšanas, izņemot tikai gadījumus, kad ar to aizskartu trešo personu iegūtās tiesības. Atceļot jau izpildītu līgumu, katrai pusei jāatdod otrai tas, ko tā izpildījusi, vai par to jāatlīdzina.

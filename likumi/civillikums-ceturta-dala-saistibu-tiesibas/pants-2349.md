@@ -1,0 +1,1 @@
+2349. Ja miesas bojājuma sekas bijušas sakropļojums vai izķēmojums, tad arī par to noteicama atlīdzība, pēc tiesas ieskata. Ja izķēmota sieviešu dzimuma persona, kas spējīga apprecēties, tad sevišķi jāņem vērā, vai viņai ar to nav apgrūtināta izdevība iedoties laulībā.

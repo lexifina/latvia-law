@@ -1,0 +1,1 @@
+1623. Atsavinātājam jāatdod par lietu saņemtā maksa līdz ar procentiem un bez tam jāatlīdzina lietas labā taisītie nepieciešamie un derīgie izdevumi un lietas atsavināšanas izmaksas, kā arī no tam radies mantas samazinājums; līdz ar to viņam jāatsvabina ieguvējs no visiem pienākumiem, kas tam bijuši jāuzņemas pēc atsavinājuma līguma vai šā līguma dēļ.

@@ -1,0 +1,1 @@
+1923. Ja bezbērnu dāvinātājam vēlāk piedzimst bērni laulībā, tad viņš var atsaukt savu dāvinājumu tiktāl, cik tas vajadzīgs vēlāk dzimušo bērnu neatņemamām daļām.

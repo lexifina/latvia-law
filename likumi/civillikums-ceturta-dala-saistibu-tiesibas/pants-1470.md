@@ -1,0 +1,1 @@
+1470. Būtisks darījumā ir viss tas, kas nepieciešams tā jēdzienam un bez kā arī pats nodomātais darījums nav iespējams. Tādēļ tādās darījuma būtiskās sastāvdaļās neko nevar pārgrozīt pat arī pusēm savstarpēji vienojoties.

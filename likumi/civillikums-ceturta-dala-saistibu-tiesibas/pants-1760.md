@@ -1,0 +1,1 @@
+1760. Likumiskie procenti (1759.p.) prasāmi nevis atsevišķi, bet reizē ar galveno saistību, un tādēļ tos nevar prasīt vēlāk, ja attiecīgā laikā par tiem bijis noklusēts vai galvenā parāda samaksa pieņemta bez piebilduma.

@@ -1,0 +1,1 @@
+1574. Ja nosacījuma izpildīšanai nolikts zināms termiņš, tad tas ir jāievēro, bet ja to neievēro, nosacījums uzskatāms par neizpildītu. Pie tam tomēr jāatskaita laiks, pa kuru parādnieks bez savas vainas bijis kavēts to izpildīt. Ja termiņš nav nolikts, tad ir vienalga, kad nosacījumu izpilda.

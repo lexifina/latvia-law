@@ -1,0 +1,2 @@
+SEPTĪTĀ APAKŠNODAĻA
+Tiesas spriedums

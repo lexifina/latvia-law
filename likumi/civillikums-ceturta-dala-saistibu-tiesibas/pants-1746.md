@@ -1,0 +1,1 @@
+1746. Ja apķīlātais pats nav bijis klāt pie ķīlāšanas, tad tūliņ jāpaziņo viņam par to, bet ja viņš nav zināms, tad par notikušo jāziņo vietējai policijai, kura nekavējoties apskata nodarīto zaudējumu un paziņo par to attiecīgām personām.

@@ -1,0 +1,1 @@
+I. Gribas izteikums

@@ -1,0 +1,1 @@
+2400. Atbildētāja mantinieks atbild tikai tiktāl, ciktāl viņam lietas parādīšana iespējama un ciktāl viņš nav iznīcinājis šo iespēju ar savu paša prettiesīgu darbību, kā arī ciktāl ar mantojuma atstājēja prettiesīgu darbību radusies viņa mantai peļņa un ciktāl tā pārgājusi uz mantinieku.

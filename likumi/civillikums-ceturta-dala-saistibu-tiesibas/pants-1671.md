@@ -1,0 +1,1 @@
+1671. Pie katras solidāras saistības būtības pieder tas, ka tā dibinās uz vienu un to pašu pamatu un ka visiem dalībniekiem ir viens un tas pats izpildījuma priekšmets. Tomēr kā tiesība, tā arī saistība var būt vienam dalībniekam bez nosacījumiem, bet citiem aprobežota ar laiku un zināmiem nosacījumiem.

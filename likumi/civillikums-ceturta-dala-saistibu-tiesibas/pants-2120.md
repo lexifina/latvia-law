@@ -1,0 +1,1 @@
+2120. Nomas vai īres maksai jābūt patiesai atlīdzībai par lietas lietošanu, un tādēļ to nedrīkst nolikt tikai izskata pēc. Darījums, kas noslēgts pretēji šim noteikumam, ar nolūku apiet likumu vai pievilt trešo personu, nav spēkā; bet ja darījuma nolūks ir parādīt labvēlību šķietamam nomniekam vai īrniekam, tad tas atzīstams par dāvinājumu.

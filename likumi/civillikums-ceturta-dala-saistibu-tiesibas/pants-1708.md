@@ -1,0 +1,1 @@
+1708. Ja galvinieks, neizlietodams viņam zināmus iebildumus un ierunas, labprātīgi samaksājis parādu bez galvenā parādnieka piekrišanas, tad tos iebildumus, kurus galvinieks varējis celt pret kreditoru, galvenais parādnieks var celt pret galvinieka regresa prasību.

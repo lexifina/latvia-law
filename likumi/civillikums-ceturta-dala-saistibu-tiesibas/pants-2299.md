@@ -1,0 +1,3 @@
+2299. Ja iemesli, kas ceļas no pilnvarnieka paša, kavē viņu personīgi izpildīt uzņemto uzdevumu, bet pie tam lietas raksturs neļauj to vilcināt, tad viņam jāizpilda savs pienākums caur trešo personu, ja vien pilnvarojuma tālākdošana citai personai (substitūcija) nav viņam ar līgumu tieši aizliegta.
+Izņemot augstāk minētos steidzamos gadījumus, pilnvarnieks var sevi atvietot ar citu tikai tad, kad šādu tiesību viņam pilnvarotājs noteikti piešķīris.
+Substitūcija neatsvabina pirmo pilnvarnieku no atbildības pret pilnvarotāju, ieskaitot arī atbildību par substitūta izvēli; bet pēdējais uz substitūcijas pamata nestājas nekādā līgumiskā attiecībā ar pilnvarotāju un atbild tam tikai kā nepilnvarots lietvedis.

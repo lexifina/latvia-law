@@ -1,0 +1,2 @@
+SEPTĪTĀ NODAĻA
+Procenti

@@ -1,0 +1,1 @@
+1450. Ja maldība attiecas uz kādu personu darījumā, tad tas nav spēkā, ja vien personu samainījums nav bez jebkādas nozīmes tam, kas maldījies. Bet ja maldība attiecas uz kāda personiskām spējām un īpašībām, darījums nav spēkā tikai tad, ja maldīgi pieņemtā īpašība pēc darījuma rakstura bijusi svarīga.

@@ -1,0 +1,2 @@
+SEPTĪTĀ APAKŠNODAĻA
+Tiesiska darījuma iztulkošana

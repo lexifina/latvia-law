@@ -1,0 +1,1 @@
+2366. Ja zaudējumu nodarījušo kustoni vai dzīvnieku tā īpašnieks uzticējis uzraugam vai sargam, tad šis pēdējais atbild par visu zaudējumu, bet uz īpašnieku atbildība krīt tikai sarga maksātnespējas gadījumā.

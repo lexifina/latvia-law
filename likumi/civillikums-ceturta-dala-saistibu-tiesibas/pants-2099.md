@@ -1,0 +1,1 @@
+2099. Ja uztura ņēmējs nespēj samaksāt parādus, kuri viņam bijuši līgumu slēdzot, tad viņa kreditori var prasīt sev apmierinājumu no uztura devējam nodotās mantiskās vērtības. Prasības, kas radušās pēc līguma slēgšanas, var vērst uz uzturu, ja citas mantas nepietiek.

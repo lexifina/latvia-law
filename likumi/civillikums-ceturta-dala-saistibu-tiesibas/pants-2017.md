@@ -1,0 +1,1 @@
+2017. Pirkuma maksai jābūt noteiktai un tā nedrīkst atkarāties no vienas puses iegribas. Bet ja pārdevējs piegādā pircējam lietas vai preces, ko tas pasūtījis, nenoteicot cenu, tad darījums ir spēkā, un pieņemams, ka abas puses vienojušās par tirgus cenu (2018.p.).

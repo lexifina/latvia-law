@@ -1,0 +1,1 @@
+2074. Pārdošana izsolē ir no pārdodamās lietas īpašnieka viedokļa vai nu labprātīga, vai piespiesta. Pirmo drīkst izdarīt, pēc pārdevēja paša ieskata, kā tiesas ceļā (2076.p.), tā arī privātā kārtībā, bet otro katrā ziņā tikai tiesas ceļā.

@@ -1,0 +1,1 @@
+1751. Ja apķīlātais nav zināms un neierodas pēc paziņojuma (1746.p.), tad noķīlāto priekšmetu policija pārdod izsolē; no ieņemtās summas samaksā atlīdzību par ķīlātāja zaudējumiem un izdevumiem, bet atlikumu atdod apķīlātam, ja viņš ierodas sešu mēnešu laikā; pēc tam atlikums ieskaitāms valsts ienākumos.

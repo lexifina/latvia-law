@@ -1,0 +1,1 @@
+2396. Atbildētājs atbild par katru savu neuzmanību no tā laika, kad prasība viņam paziņota. Ja valdītājs ir ļaunticīgs, tad viņš nes risku arī par bojā eju un bojāšanos, pieņemot, ka tas nebūtu noticis, ja lieta būtu laikā izdota prasītājam.

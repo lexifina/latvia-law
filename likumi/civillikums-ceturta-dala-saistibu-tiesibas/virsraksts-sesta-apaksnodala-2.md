@@ -1,0 +1,2 @@
+SESTĀ APAKŠNODAĻA
+Atbildības pienākums

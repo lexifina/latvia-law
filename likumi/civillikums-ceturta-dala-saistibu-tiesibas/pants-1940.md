@@ -1,0 +1,1 @@
+1940. Līdzējiem vajadzīgs nodoms noslēgt aizdevuma līgumu. Ja bijis tāds nodoms, ka jāatmaksā tikai daļa no aizdotās summas, tad par aizdotu atzīstama tikai šī daļa, bet pārējais šaubu gadījumā uzskatāms par dāvinātu.

@@ -1,0 +1,1 @@
+1590. Katrai pusei ir pret otru prasības tiesība par līguma izpildīšanu, un šī tiesība pāriet arī uz viņu mantiniekiem, izņemot tos gadījumus, kad saistība pēc līguma aprobežota ar līdzēja personu, vai kad līguma priekšmets ir tāda darbība, kurā ir nozīme paša saistītā sevišķām personiskām spējām un attiecībām.

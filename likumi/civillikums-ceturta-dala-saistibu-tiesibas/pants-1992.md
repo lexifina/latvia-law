@@ -1,0 +1,2 @@
+1992. Ja glabājuma priekšmets ir atvietojamas lietas un glabātājam vēlāk dod tiesību tās izlietot pēc sava ieskata, tad glabājuma līgums no tā laika, kad tāda tiesība dota, pārvēršas par aizdevumu.
+Kad jau nododot glabājumā atvietojamas lietas norunāts, ka glabātājam atļauts tās lietot, ja viņš vēlāk to vēlētos, tad glabājuma līgums pārvēršas par aizdevumu tikai no tā laika, kad lietas patiesi sāk lietot.

@@ -1,0 +1,1 @@
+1566. Ja pa to laiku, kamēr atceļošs nosacījums svārstās, ir iemesls baidīties, ka nosacīti tiesīgais nosacījumam iestājoties nevarēs izpildīt savu saistību (1565.p.), tad nosacīti saistītais var prasīt no viņa nodrošinājumu.

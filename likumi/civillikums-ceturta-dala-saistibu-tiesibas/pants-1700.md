@@ -1,0 +1,1 @@
+1700. Kad par vienu un to pašu parādu kopīgi galvo rīcības spējīga un rīcības nespējīga persona, tad visa saistība pāriet uz pirmo galvinieku, ja viņš ir zinājis vai viņam vajadzējis zināt, ka viņa līdzgalvinieks nav spējīgs uzņemties galvojumu.

@@ -1,0 +1,1 @@
+1587. Tiesīgi noslēgts līgums uzliek līdzējam pienākumu izpildīt apsolīto, un ne darījuma sevišķais smagums, ne arī vēlāk radušās izpildīšanas grūtības nedod vienai pusei tiesību atkāpties no līguma, kaut arī atlīdzinot otrai zaudējumus.

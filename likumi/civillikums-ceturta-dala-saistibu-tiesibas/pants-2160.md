@@ -1,0 +1,1 @@
+2160. Pārdot malku no saimniecības mežiem nomnieks var tikai tad, kad tas viņam tieši atvēlēts ar līgumu. Pretējā gadījumā viņam ir tiesība cirst tajos tikai tos būvju, malkas un lietas kokus, kas nepieciešami kārtējam saimniecības patēriņam.

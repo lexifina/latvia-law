@@ -1,0 +1,1 @@
+1853. Parādniekam ir tiesība prasīt ieskaitu katrā laikā, kaut arī jau pēc tiesas sprieduma, to izpildot vai prasījumu samaksājot, ja tikai viņš pierāda, ka viņa pretprasījuma izpildīšanai vai samaksai nestāv ceļā nekādi šķēršļi.

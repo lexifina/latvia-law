@@ -1,0 +1,1 @@
+2340. Pārstāvamā pienākumi (2339.p.) neatkrīt aiz tā iemesla, ka lietvedība nav nesusi viņam nekādu labumu, ja vien sākumā bijis gaidāms no tās labvēlīgs iznākums un pie tam par tādu cerību nepiepildīšanos nevar vainot lietvedi.

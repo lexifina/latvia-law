@@ -1,0 +1,1 @@
+1952. Patapinājuma ņēmējs var lietot patapināto lietu tikai saskaņā ar norunu, bet ja tādas norunas nav, tad tikai tā, kā tas visvairāk atbilst tās raksturam un apstākļiem. Nodot lietu citam lietot viņš nedrīkst.

@@ -1,0 +1,1 @@
+1670. Par nedalītu jeb solidāru prasījums vai saistība atzīstami tad, kad no vairākiem kreditoriem katrs var prasīt visu priekšmetu, vai kad no vairākiem parādniekiem katram ir pienākums visu izpildīt, pie kam tomēr priekšmetu var prasīt un tas jāizpilda tikai vienu reizi. Tādā gadījumā pirmos sauc par kopkreditoriem, bet otros par kopparādniekiem.

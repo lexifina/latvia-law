@@ -1,0 +1,2 @@
+1730. Ja līgumu neizpilda vai nu tādēļ, ka tas, pusēm savstarpēji labprātīgi vienojoties, atcelts, vai tādēļ, ka tā izpildīšana kļuvusi neiespējama bez rokas naudas devēja vainas, tad rokas nauda jādod pēdējam atpakaļ.
+Ja līgumu neizpilda aiz viena līdzēja vainas, tad, ja vainīgs rokas naudas saņēmējs, viņam tā jāatdod tās devējam divkāršā apmērā; bet ja neizpildīšanā vainīgs rokas naudas devējs, tad viņš zaudē tiesību prasīt to atpakaļ. Bez tam vainīgam jāatlīdzina pretiniekam visi zaudējumi.

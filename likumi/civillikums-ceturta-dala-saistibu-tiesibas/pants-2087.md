@@ -1,0 +1,1 @@
+2087. Pēc piesituma vairāksolītājam jāsamaksā pirkuma maksa vai nu tūliņ, vai pēc izsoles nosacījumiem noliktos termiņos, turpat, kur noticis piesitums, ja tam nolūkam nav noteikta cita vieta, un vispār jāizpilda viss, kas nosacījumos noteikts, vai arī par izpildīšanas kārtību sevišķi jāvienojas ar izsolītāju vai citām ieinteresētām personām.

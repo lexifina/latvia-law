@@ -1,0 +1,1 @@
+2394. Lietas parādīšanu var prasīt nevien tas, kas prasa īpašuma tiesību uz to, bet arī kas vēlas izlietot citas lietu tiesības, vai iegūt atpakaļ lietas valdījumu, vai izlietot savu izvēles tiesību, vai arī kas pierāda, ka viņam ir kāda tiesiska interese, lai lietu viņam parāda.

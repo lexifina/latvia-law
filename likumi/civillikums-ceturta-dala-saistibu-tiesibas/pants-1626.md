@@ -1,0 +1,1 @@
+1626. Kamēr līgums nav vēl atcelts (1622. un turpm.p.), cenas samazinājuma prasību var atjaunot, tās pašas lietas trūkumu dēļ, vairākas reizes, tomēr ar nosacījumu, lai ieguvējs no tam negūst sev peļņu.

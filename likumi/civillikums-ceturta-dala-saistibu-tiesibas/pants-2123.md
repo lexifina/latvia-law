@@ -1,0 +1,1 @@
+2123. Ja par nomas vai īres maksu nav nekas noteikti norunāts, bet ja to pašu priekšmetu jau agrāk nomājusi vai īrējusi tā pati persona, tad pieņemams, ka agrākie noteikumi nav grozīti. Bet ja arī šās mērauklas nav un puses tikai vispārīgi izteikušās, ka par maksu viņas savā starpā vienosies, tad, ja šāda vienošanās nenotiek, maksas apmēru noteic tiesa pēc sava ieskata.

@@ -1,0 +1,1 @@
+1791. Ja zaudējums cēlies no līgumisku attiecību pārkāpuma un ja līguma izpildījumam bijis noteikts zināms termiņš, tad šis termiņš jāievēro novērtējot zaudējumu. Bet ja līgumā nav bijis noteikts termiņš, tad novērtējot ņemams par pamatu tas laiks, kurā taisīts likumīgā spēkā nācis spriedums par zaudējumu atlīdzību.

@@ -1,0 +1,1 @@
+1606. Ja attiesātās lietas vērtība palikusi negrozīta, tad atsavinātājam jāatlīdzina prāvas izdevumi un jādod atpakaļ tikai viņa saņemtā maksa par lietu. Pretējā gadījumā jāņem vērā tā vērtība, kāda lietai bijusi attiesājuma laikā, tomēr ar to nosacījumu, ka ieguvējs nekādā ziņā nedabū vairāk kā divreiz tik, cik viņš pats samaksājis.

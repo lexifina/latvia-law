@@ -1,0 +1,1 @@
+1426. Ja nedalāmā saistībā saistītai pusei neizpildīšanas dēļ piespriež atlīdzināt pretējai pusei zaudējumus, tad šo atlīdzību var dot arī pa daļām; saistībā, kurā ir vairāki saistītie, katrs no tiem, dodot savu daļu, pēc vispārēja noteikuma atsvabinās no atbildības.

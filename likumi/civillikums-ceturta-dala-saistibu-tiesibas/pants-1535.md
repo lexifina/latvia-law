@@ -1,0 +1,1 @@
+1535. Puses var dot savu piekrišanu vai nu abas reizē, vai viena pirms otras; tādā kārtā darījums var iesākties vai nu ar vienas puses apsolījumu, kuru pēc tam pieņem otra puse, vai arī ar pieņemšanu, kas izteikta pieprasījuma vai lūguma veidā.

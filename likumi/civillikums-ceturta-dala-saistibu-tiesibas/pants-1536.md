@@ -1,0 +1,1 @@
+1536. Vienas vien puses uzaicinājumam noslēgt līgumu nav saistoša spēka, pat ja tam būtu pievienots arī noteikts apsolījums, un tādēļ, iekam otra puse nav šo apsolījumu pieņēmusi, viņa var ņemt to atpakaļ.

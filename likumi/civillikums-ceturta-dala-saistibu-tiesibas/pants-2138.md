@@ -1,0 +1,1 @@
+2138. Uz iznomāto vai izīrēto lietu gulošās nastas un apgrūtinājumi, ja nav norunāts citādi, jānes iznomātājam vai izīrētājam; tādēļ viņam arī jāatlīdzina izdevumi, ko tam nolūkam būtu taisījis nomnieks vai īrnieks.

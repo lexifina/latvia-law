@@ -1,0 +1,1 @@
+2196. Ar graudniecības līgumu viena puse - graudnieks pret atlīdzību uzņemas pastrādāt otrai - saimniekam viņa lauku saimniecībā vispār parastos darbus ar savu zirgu un cilvēku darba spēku un saviem darba rīkiem.

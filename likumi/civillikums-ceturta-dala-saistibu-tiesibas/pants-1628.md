@@ -1,0 +1,1 @@
+1628. Ieguvējs var aizstāvēt savu tiesību nevien ar prasību 1619. un 1620.pantā norādītā kārtībā, bet uz tā paša pamata, kas viņam dod prasības tiesību, var arī celt pienācīgi neizpildīta līguma ierunu pret atsavinātāja prasību par pretizpildījumu (1591.p.).

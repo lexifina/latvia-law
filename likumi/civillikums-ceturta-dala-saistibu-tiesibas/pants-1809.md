@@ -1,0 +1,1 @@
+1809. Ja parādraksts cedēts ar blanko uzrakstu, tad parādnieks var celt pret cesionāru nevien visas savas ierunas pret viņu, bet arī tās ierunas, kas viņam bijušas pirms cesijas un tās laikā pret pēdējo cedentu un tiem iepriekšējiem cedentiem, kuru vārdi redzami no paša parādraksta.

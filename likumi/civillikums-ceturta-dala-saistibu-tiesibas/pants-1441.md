@@ -1,0 +1,1 @@
+1441. Maldība var rasties vai nu no tam, ka pavisam trūkst ziņu, vai ka ir tikai nepietiekošas ziņas par kādiem faktiskiem apstākļiem - faktiska maldība - vai kādām tiesiskām normām - tiesiska maldība.

@@ -1,0 +1,2 @@
+2257. Ja līgumā nav noteikts citādi, sabiedrības lietvedis var sabiedrību pārstāvēt pret trešām personām. Lietvedis ir pilnvarots slēgt visāda veida darījumus, ko prasa sabiedrības mērķis.
+Darījumi, kurus sabiedrības lietās noslēguši visi biedri kopīgi vai lietveži savu pilnvarojumu robežās (2254.p.), saista biedrus neaprobežoti un solidāri pret trešām personām, izņemot gadījumus, kad ar šīm trešām personām nolīgts citādi.

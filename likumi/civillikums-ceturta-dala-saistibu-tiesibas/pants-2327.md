@@ -1,0 +1,1 @@
+2327. Ja pats pārstāvamais arī nav spējīgs, izsakot savu piekrišanu, stāties saistībās, tad viņš par sava lietveža darbību atbild tiktāl, ciktāl ar to vēl ir iedzīvojies tajā brīdī, kad pret viņu ceļ prasību.

@@ -1,0 +1,2 @@
+2097. Nolīgt uzturu var tiklab sev, kā arī otram, kurš tādā gadījumā, pievienojoties līgumam (1521.p.), iegūst tiesību griezties ar savu prasījumu tieši pie uztura devēja.
+Ja uzturu nolīgst par labu vairākām personām, tad tas sadalāms viņu starpā līdzīgi; ja viena no tām mirst, tad viņas daļa paliek uztura devējam, ja vien nav norunāts, lai šādā gadījumā mirušās personas daļa piekristu pārdzīvojušām.

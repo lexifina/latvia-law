@@ -1,0 +1,1 @@
+2116. Nomnieks vai īrnieks, lietu nododot tālāk trešai personai (2115.p.), nedrīkst rīkoties ar viltu un par ļaunu pirmam iznomātājam vai izīrētājam, kā arī nedrīkst to nodot citādai lietošanai, nekā viņš pats to dabūjis, ne arī nodot uz ilgāku laiku, kā uz viņa paša nomas vai īres laiku.

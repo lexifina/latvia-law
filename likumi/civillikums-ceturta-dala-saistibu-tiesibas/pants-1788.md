@@ -1,0 +1,1 @@
+1788. Kad nav termiņā samaksāti naudas parādi, kreditors var prasīt kā atlīdzību par atrauto peļņu tikai likumiskos procentus, ja vien viņš nevar noteikti pierādīt, ka viņa ciestie zaudējumi pārsniedz šo procentu summu.

@@ -1,0 +1,1 @@
+2086. Pārdevumam izsolē pēc savām sekām ir tāds pats spēks kā parastam pārdevumam; no piesituma brīža risks pāriet uz vairāksolītāju, bet no tā paša brīža viņš, arī pirms lietas nodošanas, dabū no tās visus augļus un labumus.

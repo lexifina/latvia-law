@@ -1,0 +1,1 @@
+2084. Ja pēc izsoles nosacījumiem izsolītājs paturējis sev tiesību lemt par augstākās nosolītās cenas pieņemšanu, tad piesitums notiek tikai pēc tam, kad viņš paziņojis savu lēmumu vai nu viņa paša noteiktā termiņā, vai, ja viņš to nav noteicis, pēc vairāksolītāja lūguma tiesas noteiktā termiņā. Līdz tam laikam šis solītājs ir saistīts ar savu solījumu.

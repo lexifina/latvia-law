@@ -1,0 +1,1 @@
+1707. Galvinieks var prasīt no galvenā parādnieka, lai atsvabina viņu no viņa galvinieka pienākuma jau pirms samaksas, ja viņš uzņēmies galvojumu kā parādnieka lietvedis un šo lietvedību ir jau nodevis.

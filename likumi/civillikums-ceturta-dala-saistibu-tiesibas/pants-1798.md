@@ -1,0 +1,1 @@
+1798. Par cesijas priekšmetu var būt visādi prasījumi, vienalga, vai tie izriet no līguma, vai no neatļautas darbības, starp tiem arī tādi, kuriem vēl nav iestājies termiņš, kā arī nosacīti un pat nākami un nedroši.

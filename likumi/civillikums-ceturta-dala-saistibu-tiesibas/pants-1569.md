@@ -1,0 +1,2 @@
+1569. Ja nosacījuma izpildīšana saistīta ar nepārspējamu grūtību tikai tai personai, uz kuru tā tieši attiecas, tad šis nosacījums tomēr ir spēkā. Ja turpretim grūtības cēlonis pastāv visiem kopējos apstākļos, tad tāds nosacījums pielīdzināms neiespējamam.
+Ja kāds nosacījums gan izrādās neiespējams tā noteikšanas laikā, bet vēlāk, apstākļiem grozoties, tā izpildīšana kļūst iespējama, tad tāds nosacījums atzīstams par iespējamu.

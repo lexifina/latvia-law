@@ -1,0 +1,1 @@
+2345. Ja tas, kam jādod norēķins, no šā pienākuma ir vispār atsvabināts, tad no tam vēl neizriet, ka līdz ar to būtu dzēstas arī prasības, kas varētu būt pamatotas uz viņa ļaunprātīgu darbību pārvaldībā.

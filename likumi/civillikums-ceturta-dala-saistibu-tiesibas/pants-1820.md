@@ -1,0 +1,1 @@
+1820. Ja par izpildījuma vietu nav nekas norunāts un to nevar noteikt no paša darījuma rakstura, tad izpildījumu var prasīt vai piedāvāt katrā vietā, kur vien var to izdarīt bez apgrūtinājuma vai neērtības otrai pusei.

@@ -1,0 +1,1 @@
+1868. Pārjaunojumu var izdarīt vai nu tā, ka arī jaunajā prasījumā abas puses, t.i. tiesīgais un saistītais, paliek tās pašas, kādas bijušas atceltā, pārgrozot tikai prasījuma tiesisko pamatu un būtiskos noteikumus, vai arī tā, ka pārgrozījums attiecas uz lietā piedalīgām personām un ka agrākā kreditora vai agrākā parādnieka vietā iestājas jauns.

@@ -1,0 +1,1 @@
+2176. Ja par iznomātāja vai izīrētāja mantu atklāj konkursu, tad kreditoriem jāatzīst nomas vai īres līgums par spēkā esošu. Bet ja nomas vai īres priekšmets nāk pārdošanā kreditoriem par labu, tad piemērojami 2174. un 2175.panta noteikumi.

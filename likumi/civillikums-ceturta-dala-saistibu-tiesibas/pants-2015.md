@@ -1,0 +1,1 @@
+2015. Nav vajadzīgs, lai pirkuma maksa taisni atbilstu pirkuma priekšmeta vērtībai, un līgums paliek spēkā, kaut arī priekšmets būtu pārdots zem tā īstas vērtības (draudzības pirkums) vai virs tās. Bet ja pirkuma maksa nolikta tikai izskata pēc, tad līgums nav vis pirkums, bet ir dāvinājums.

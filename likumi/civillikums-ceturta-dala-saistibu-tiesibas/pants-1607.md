@@ -1,0 +1,1 @@
+1607. Ja vairākas lietas atsavinātas kopā par kopīgu cenu, bet pēc tam attiesātas tikai dažas no tām, tad atsavinātājam jāatlīdzina par attiesātām, kaut arī pārējo lietu vērtība līdzinātos vēl pilnai summai, kas samaksāta par visām lietām kopā.

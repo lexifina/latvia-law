@@ -1,0 +1,2 @@
+OTRĀ APAKŠNODAĻA
+Graudniecības līgums

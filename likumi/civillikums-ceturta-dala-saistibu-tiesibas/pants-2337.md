@@ -1,0 +1,1 @@
+2337. Lietvedim jādod norēķins tiklab par to, ko viņš saņēmis vai ieguvis pārstāvamam, kā arī vispār par visu savu darbību, un jāatdod uz šā norēķina pamata viss, kas atrodas viņa rokās, kaut arī viņa saņemto priekšmetu starpā atrastos tādi, kas īsti nemaz nepienākas pārstāvamam.

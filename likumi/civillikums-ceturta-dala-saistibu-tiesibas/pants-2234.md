@@ -1,0 +1,1 @@
+2234. Par zaudējumu, kas cēlies nokavējot mantas nodošanu, atbild pārvadātājs, ja vien tam par iemeslu nav bijuši tādi apstākļi vai notikumi, no kuriem izvairīties vai kurus novērst, neraugoties uz visām viņa pūlēm, viņam nav bijis iespējams.

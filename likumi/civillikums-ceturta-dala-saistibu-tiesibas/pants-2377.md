@@ -1,0 +1,1 @@
+2377. Atprasījuma tiesības mērķis ir: 1) kad dots apsolījums - atsvabināt no tā, atdodot parāda dokumentu, ja tāds bijis izdots; 2) kad izdarīti darbi - atlīdzināt to vērtību; 3) kad nodibināts vai atcelts servitūts - atjaunot agrāko stāvokli.

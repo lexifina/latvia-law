@@ -1,0 +1,1 @@
+1465. Lai ar draudiem radītām bailēm būtu tiesiska nozīme, tām jābūt dibinātām; tādēļ vajadzīgs, lai piedraudētais ļaunums nebūtu mazsvarīgs, lai tiešām būtu jābaidās, ka draudus izpildīs, un lai nebūtu viegli tos novērst citādi, kā padodoties.

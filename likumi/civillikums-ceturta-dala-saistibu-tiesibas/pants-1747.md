@@ -1,0 +1,2 @@
+1747. Ķīlātājam jāgādā par noķīlātā uzglabāšanu un it sevišķi jākopj un jābaro noķīlātie kustoņi; bet viņš nedrīkst tos lietot sev par labu, un pretējā gadījumā viņš nevien zaudē jebkādu tiesību uz uzturēšanas un barošanas izdevumu atmaksu, bet viņam arī jāatlīdzina visi zaudējumi. Slaucamie lopi viņam jāslauc.
+P i e z ī m e. Atlīdzības taksi par noķīlāto kustoņu uzturēšanu izdod un izsludina vispārējai zināšanai zemkopības ministris saziņā ar iekšlietu ministri.

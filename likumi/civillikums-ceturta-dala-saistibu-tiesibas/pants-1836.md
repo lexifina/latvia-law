@@ -1,0 +1,1 @@
+1836. Kad saistības īstā priekšmeta izpildīšana izrādās neiespējama, tad kreditoram, ja viņa prasījums neatkrīt pavisam (1774.p.), jāapmierinās ar to, ka viņam par to samaksā naudā pēc parastās vērtības, ja vien aiz saistītā vainas nav dots pamats kādām citām prasībām (1635. un turpm.p., 1652. un turpm.p.).

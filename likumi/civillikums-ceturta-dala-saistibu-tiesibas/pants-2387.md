@@ -1,0 +1,1 @@
+2387. Ko kāds saņēmis netikumīgam vai pretlikumīgam mērķim, to devējs, ja vien arī došana pati par sevi nav bijusi netikumīga vai pretlikumīga, var atprasīt no saņēmēja vai viņa mantiniekiem, vienalga, vai paredzētais mērķis sasniegts vai ne.

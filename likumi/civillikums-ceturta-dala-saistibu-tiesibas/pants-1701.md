@@ -1,0 +1,1 @@
+1701. Galvinieks, pret kuru ceļ prasību kreditors, var izlietot visas galvenā parādnieka ierunas, izņemot tikai tās, pret kurām kreditors taisni gribējis nodrošināties ar galvojumu, vai kuru izlietošana tieši saistīta ar galvenā parādnieka personu.

@@ -1,0 +1,1 @@
+1926. Tāds dāvinājums (1925.p.) var aptvert tikai dāvinātāja tagadējo mantu, bet ne nākamo. Nākamās mantas, vai arī kopā tagadējās un nākamās mantas dāvinājums, uz tāda pamata, ka tagadējo mantu nenodod tūliņ, atzīstams par mantojuma līgumu.

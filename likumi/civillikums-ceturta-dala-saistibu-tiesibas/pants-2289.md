@@ -1,0 +1,1 @@
+2289. Ar pilnvarojuma līgumu viena puse (pilnvarnieks, uzdevuma ņēmējs) uzņemas izpildīt otrai (pilnvaras devējam, pilnvarotājam, uzdevuma devējam) - zināmu uzdevumu, bet pilnvaras devējs apņemas pilnvarnieka rīcību atzīt sev par saistošu.

@@ -1,0 +1,1 @@
+1439. Kad darījums ir gan nopietni gribēts, bet apslēpts aiz kāda cita darījuma, tad pirmais ir spēkā, ja vien ar to nav bijis nolūka pievilt trešo personu vai vispār izdarīt kaut ko prettiesīgu; bet otrs, tikai izskata pēc noslēgtais darījums, paliek spēkā tikai tiktāl, ciktāl tas izrādās par vajadzīgu pirmā uzturēšanai spēkā.

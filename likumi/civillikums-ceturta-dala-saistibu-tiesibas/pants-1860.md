@@ -1,0 +1,1 @@
+1860. Ja parādnieka pienākumi pāriet uz kādu no kopkreditoriem (1670.p.) vai kreditora tiesības uz kādu no kopparādniekiem, tad no tam pārējo kopkreditoru un kopparādnieku tiesiskās attiecības nepārgrozās.

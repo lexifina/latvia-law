@@ -1,0 +1,1 @@
+2049. Ja samaksai nolikts zinams termiņš, tad, palaižot to garām, pircēja tiesība pati no sevis izbeidzas; bet ja termiņš nav nolikts, tad vajadzīgs pārdevēja iepriekšējs atgādinājums. Tikai pārdevējs pats nedrīkst kavēt pirkuma maksas samaksu laikā.

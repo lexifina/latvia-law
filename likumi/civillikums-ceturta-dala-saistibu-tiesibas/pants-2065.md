@@ -1,0 +1,1 @@
+2065. Šāds līgums (2064.p.) pārdevēju saista no tā noslēgšanas brīža; bet pircējs savkārt var vai nu atstāt to spēkā, vai no tā atkāpties, pie kam pēdējā gadījumā viņam nav jāpaziņo atkāpšanās iemesls.

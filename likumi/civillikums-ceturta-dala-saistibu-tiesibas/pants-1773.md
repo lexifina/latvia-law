@@ -1,0 +1,1 @@
+1773. Zaudējums ir tiešs, kad tas ir prettiesīgas darbības vai bezdarbības dabiskās un nepieciešamās sekas, netiešs - kad tas cēlies sagadoties sevišķiem apstākļiem vai attiecībām, nejaušs - kad tā cēlonis ir nejaušs notikums vai nepārvaramā vara.

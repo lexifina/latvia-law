@@ -1,0 +1,2 @@
+1917. Ja dāvina ķermenisku lietu, tad ar tās nodošanu uz ieguvēju pāriet īpašuma tiesība.
+Par dāvinātās lietas bojā eju vai pasliktināšanos, kā arī par tās attiesājumu vai trūkumiem dāvinātājs atbild tikai tad, ja viņš noteikti to uzņēmies vai arī pielaidis ļaunprātību vai rupju neuzmanību. Atlīdzība par attiesājumu un par lietas trūkumiem aprobežojas tikai ar tā atdošanu, ko apdāvinātais izdevis lietai no savas paša mantas. Visas uz dāvināto lietu gulošās nastas un apgrūtinājumi jānes apdāvinātam.

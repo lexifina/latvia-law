@@ -1,0 +1,2 @@
+PIRMĀ APAKŠNODAĻA
+Pilnvarojuma līgums

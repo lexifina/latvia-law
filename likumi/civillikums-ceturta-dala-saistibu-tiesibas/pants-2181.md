@@ -1,0 +1,1 @@
+2181. Ja arī par darbu nebūtu norunāta nekāda maksa, tad tomēr darbinieks var to prasīt, kad pēc darba apstākļiem darbu nebūtu iespējams sagaidīt citādi, kā par atlīdzību, bet sevišķi tad, kad šis darbs ir darbinieka amats. Tādā gadījumā atlīdzības apmēru noteic tiesa pēc sava ieskata.

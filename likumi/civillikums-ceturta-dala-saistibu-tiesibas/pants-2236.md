@@ -1,0 +1,1 @@
+2236. Ja izdarīt vai turpināt visu pārvadājumu vai kādu daļu no tā pārvadātājs uztic citam, tad viņš personīgi atbild kā par šo pēdējo, tā arī par varbūtējiem sekojošiem pārvadātājiem, līdz pašai mantas nodošanai. Bet sekojošais pārvadātājs, arī bez sevišķas pilnvaras, ir uzskatāms par iepriekšējā pilnvarnieku.

@@ -1,0 +1,2 @@
+2105. Ja līgumu atceļ uztura devēja vainas dēļ, tad uztura ņēmējs vai viņa tiesību pēcnieks var prasīt atpakaļ nodoto mantisko vērtību (2096.p.), pie kam viņam nav jāatdod saņemtā uztura vērtība.
+Citos līguma izbeiguma gadījumos uztura devējam jāatdod uztura ņēmējam vai tā tiesību pēcniekam saņemtā mantiskā vērtība; savkārt viņš dabū atpakaļ visu, ko viņš nodevis uztura ņēmējam virs likumisko procentu apmēra.

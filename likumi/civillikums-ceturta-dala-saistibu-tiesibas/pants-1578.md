@@ -1,0 +1,1 @@
+1578. Ja saistītais izpilda savu saistību pirms noliktā nosacījuma iestāšanās tajās domās, ka tas jau iestājies, tad viņam ir tiesība prasīt atpakaļ savu izpildījumu, ja vien nosacījums pa to laiku nav patiesi iestājies.

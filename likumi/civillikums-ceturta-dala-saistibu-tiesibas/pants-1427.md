@@ -1,0 +1,1 @@
+1427. Pie tiesiska darījuma būtības pieder tā taisītāja gribas izteikums, bet divpusējā vai vairākpusējā darījumā vajadzīgs visu tā dalībnieku saskanīgs gribas izteikums. Kamēr griba nav vēl izteikta, tai nav nekāda tiesiska spēka.

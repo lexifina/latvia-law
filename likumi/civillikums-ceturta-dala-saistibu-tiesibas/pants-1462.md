@@ -1,0 +1,1 @@
+1462. Ja divpusējā darījumā abi dalībnieki savstarpēji viens otru pievīluši, tad nevienam no viņiem nav tiesības celt prasību pret otru. Ja līgums nav vēl izpildīts, viena puse nevar prasīt, lai otra to izpilda, bet ja tas jau izpildīts, tad neviena puse nevar prasīt no otras zaudējumu atlīdzību.

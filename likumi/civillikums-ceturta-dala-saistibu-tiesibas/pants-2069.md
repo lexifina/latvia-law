@@ -1,0 +1,1 @@
+2069. Pārdevējs var paturēt sev īpašuma tiesību uz pārdoto lietu vai nu tā, ka šī tiesība viņam paliek līdz tam laikam, kamēr nav galīgi samaksāta pirkuma maksa, vai arī tā, ka īpašuma tiesība pāriet atpakaļ uz viņu, ja pircējs nesamaksā. Ja rodas šaubas par līdzēju nodomu, tad pieņemams par nolīgtu, ka īpašuma tiesība paliek pārdevējam, kamēr nav galīgi samaksāta pirkuma maksa.

@@ -1,0 +1,1 @@
+2343. Kas aicināts vai neaicināts ved svešas lietas, vai atsavina svešu mantu, vai pārvalda kā dalībnieks kopīgas lietas, vai pārvalda mantu uz kāda cita tiesiska pamata, vai arī kam jāizdod līdz ar augļiem sveša manta, tam par savu pārvaldību jādod norēķins vai nu pārstāvamam, vai pārējiem kopīpašniekiem, vai sabiedrības līdzbiedram, vai kādam citam, kam uz to ir tiesība.

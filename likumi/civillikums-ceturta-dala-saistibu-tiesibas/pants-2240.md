@@ -1,0 +1,1 @@
+2240. Mantu saņemot un samaksājot veduma maksu, visas prasības pret pārvadātāju izbeidzas, ja vien saņēmējs, maldināts ar mantas ārēji labo izskatu, nav vēlāk, attaisot saiņus, atradis tās bojājumu un var pierādīt, ka bojājums noticis laika sprīdī starp mantas pieņemšanu un tās nodošanu adresātam.

@@ -1,0 +1,1 @@
+1996. Tāds viesnīcnieka pienākums rodas pats no sevis, arī bez sevišķas norunas, ar to, ka viesnīcā ar viņa ziņu ienes ceļotāja lietas; sīkāks šo lietu apzīmējums un uzdevums tās uzraudzīt pie tam nav vajadzīgs.

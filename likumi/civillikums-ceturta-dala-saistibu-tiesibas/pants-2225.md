@@ -1,0 +1,1 @@
+2225. Ja darbs vēl nemaz nav bijis uzsākts vai vismaz vēl nav bijis pabeigts, bet uzņēmējs bijis gatavs to padarīt, un kavēklis tā padarīšanai radies no pasūtītāja puses, tad uzņēmējam tomēr jādabū pilnīga samaksa. Bet šī samaksa ir samazināma, ja uzņēmējs citādā kārtā izlietojis savā labā laiku, ko viņš ieguvis nepadarot nolīgto darbu.

@@ -1,0 +1,1 @@
+1617. Lai gan atsavinātājs ar sevišķu līgumu var atteikties no atbildības par trūkumiem, tomēr arī šajā gadījumā viņš no tās atsvabinās tikai tad, ja viņš šos trūkumus nav ļaunā nolūkā apslēpis no ieguvēja vai viņam tos noklusējis.

@@ -1,0 +1,2 @@
+2245. Biedrs nevar rīkoties ar savu daļu kopīgā mantā vai ar atsevišķām pie šās mantas piederīgām lietām; viņš nevar prasīt izdalīšanu, kamēr viņš ir sabiedrības biedrs.
+Prasījumu tiesības, kas biedriem vienam pret otru rodas uz sabiedrības līguma attiecību pamata, nav cedējamas. Izņēmums ir prasījumi, kas biedriem rodas no lietvedības, ciktāl to apmierinājumu var prasīt pirms galīga norēķina, kā arī peļņas daļas prasījumi vai biedru prasījumi, kas radušies norēķinoties. Šādu prasījumu cesija tomēr nedod cesionāram biedra tiesības.

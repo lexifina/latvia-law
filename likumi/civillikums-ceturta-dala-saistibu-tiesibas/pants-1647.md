@@ -1,0 +1,1 @@
+1647. Neuzmanība nav atzīstama par vainu zināmos, attiecīgā vietā norādītos gadījumos, kad kāds svešām lietām un darīšanām piegriezis tikai tādu rūpību, kādu viņš mēdz piegriezt savām paša, ja vien šī neuzmanība nav bijusi rupja.

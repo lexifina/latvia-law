@@ -1,0 +1,1 @@
+1668. Ja nokavēto izpildījumu pretinieks bez iebilduma pieņem, vai ja saistību atceļ to pārjaunojot, vai arī ja prasījuma tiesība izbeidzas ar noilgumu, tad arī ar nokavējumu nevar pamatot nekādas prasības.

@@ -1,0 +1,1 @@
+1461. Tas, kas ar viltu piedabūts noslēgt darījumu, var prasīt, lai to atceļ. Bet ja viltus bijis par iemeslu tikai dažiem darījuma noteikumiem, tad pieviltam ir tikai tiesība prasīt zaudējumu atlīdzību.

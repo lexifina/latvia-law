@@ -1,0 +1,1 @@
+1990. Vairāki kopīgi glabātāji atbild solidāri, tomēr tā, ka ja viens atdod visu, tad pārējie ar to ir atsvabināti no savas saistības. Bet ja tikai viens no tiem pielaidis ļaunprātību, tad pārējie par to neatbild.

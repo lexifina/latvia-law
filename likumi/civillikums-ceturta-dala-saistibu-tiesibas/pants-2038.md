@@ -1,0 +1,1 @@
+2038. Pircējam jāatlīdzina pārdevējam lietai pēc līguma noslēgšanas taisītie izdevumi, kā nepieciešamie, tā arī derīgie, ja pēdējie taisīti labā ticībā, kā arī ja ir ticams, ka arī pats pircējs būtu tos taisījis.

@@ -1,0 +1,1 @@
+III. Dāvinājums atlīdzības nozīmē

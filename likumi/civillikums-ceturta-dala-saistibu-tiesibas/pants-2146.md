@@ -1,0 +1,1 @@
+2146. Nomas vai īres maksa jāsamaksā pilnīgi, kaut arī nomnieks vai īrnieks aiz paša vainas nebūtu izlietojis visus nomātā vai īrētā priekšmeta labumus, ja vien iznomātājs vai izīrētājs nav šo priekšmetu no jauna iznomājis vai izīrējis citam; šādā gadījumā nomniekam vai īrniekam jāsedz tikai varbūtējais iztrūkums.

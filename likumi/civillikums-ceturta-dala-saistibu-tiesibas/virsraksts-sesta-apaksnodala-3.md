@@ -1,0 +1,2 @@
+SESTĀ APAKŠNODAĻA
+Izlīgums

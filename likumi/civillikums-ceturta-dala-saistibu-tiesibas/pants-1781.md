@@ -1,0 +1,1 @@
+1781. Kas uzdevis otrai personai izdarīt kādu neatļautu darbību, atbild par šās personas darbību, kaut arī viņa būtu pārkāpusi uzdevuma robežas. Tāpat atbild arī tas, kas devis otram iemeslu tādai darbībai, no kuras cēlies zaudējums trešai personai.

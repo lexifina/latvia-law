@@ -1,0 +1,2 @@
+2161. Salmus, sienu, kā arī visus citus materiālus, kas noder mēslu pavairošanai, tāpat arī mēslus nomnieks nedrīkst no saimniecības izvest, ja vien pats šās saimniecības iznomātājs jau pirms iznomāšanas nav sienu pastāvīgi pārdevis tā pārpalikuma dēļ. Šis aizliegums neattiecas uz to barības, pakaišu un mēslu daudzumu, kādu nomnieks ar iznomātāja ziņu saimniecībā ievedis. Nomnieks var dot kūts mēslus vasarāju laukiem tikai tad, ja tas sevišķi norunāts.
+Nomniekam jāiegādā lopbarības kārtīgai izēdināšanai vajadzīgais lopu skaits.

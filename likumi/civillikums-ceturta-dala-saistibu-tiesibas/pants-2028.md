@@ -1,0 +1,1 @@
+2028. Pārdodot lauku zemes vienību vai kādu tirdzniecisku, rūpniecisku vai kādu citu uzņēmumu "kā tie stāv", uzskatāms par pārdotu viss tas, kas, atrodoties tajos pirkuma noslēgšanas laikā un noderot saimniecībai vai uzņēmumam par labu un ērtību, bijis pārdevējam vajadzīgs, atradies viņa lietošanā vai krājumā un bijis viņa īpašums.

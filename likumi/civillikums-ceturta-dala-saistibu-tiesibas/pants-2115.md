@@ -1,0 +1,1 @@
+2115. Lietas iznomātājam vai izīrētājam nav jābūt tās īpašniekam; turpretīm iznomāt vai izīrēt var katrs, kam pieder lietošanas tiesība. Arī pats nomnieks vai īrnieks var savu nomāto vai īrēto lietu nodot citam, bet tikai ar lietas iznomātāja vai izīrētāja noteiktu piekrišanu.

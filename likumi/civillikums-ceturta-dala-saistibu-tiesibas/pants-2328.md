@@ -1,0 +1,1 @@
+2328. Neuzdota lietvedība ir arī tad, kad dotais uzdevums nav spēkā, vai kad to nav devis pārstāvamais, vai kad tas nav dots lietvedim, kā arī kad lietvedība attiecas uz tādu lietu, kurā ieinteresētas vairākas personas, bet uzdevumu devusi tikai viena no viņām. Vai lietvedis zina, ka uzdevums viņam nav dots, jeb vai viņš maldīgi pieņem, ka tas viņam dots, tam nav nekādas nozīmes.

@@ -1,0 +1,1 @@
+1595. Atbildības pienākumu nes lietas atsavinātājs, vienalga, vai viņš to atsavinājis pats, vai caur vietnieku; pēdējais atbild tikai tad, ja viņš pats tieši to uzņēmies vai pārkāpis sava pilnvarojuma robežas. Atbildību nenes ne tiesa par pārdevumu izsolē, ne ķīlas ņēmējs, kurš atsavina ķīlu.

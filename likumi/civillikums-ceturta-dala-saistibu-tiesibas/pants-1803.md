@@ -1,0 +1,1 @@
+1803. Parādrakstu var cedēt ar uzrakstu uz tā nevien uz noteikta kreditora, bet arī uz jebkura uzrādītāja vārdu. Pēdējā veida parādraksti, kā arī parādraksti ar blanko uzrakstu, tālākdošanas ziņā pakļauti noteikumiem par uzrādītāja papīriem.

@@ -1,0 +1,1 @@
+1963. Patapinātājam nav tiesības ne kavēt lietas lietošanu saskaņā ar līgumu, ne prasīt, lai to atdod pirms lietošanas beigām vai pirms norunātā termiņa notecējuma, ja vien patapinājuma ņēmējs neizlieto savu tiesību nelietīgi.

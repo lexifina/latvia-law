@@ -1,0 +1,1 @@
+1994. Pārvēršot naudas glabājumu par aizdevumu, var pielīgt arī procentus. Kad tie nav pielīgti, tad naudas glabātājam un vēlākam parādniekam jāmaksā tikai nokavējuma procenti, ja viņš nokavējumu pielaidis.

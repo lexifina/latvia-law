@@ -1,0 +1,2 @@
+2162. Ja nomniekam telpas un labierīcības nodotas lietojamā kārtībā, tad viņam tās arī jāuztur tādā pašā kārtībā, izdarot vajadzīgos sīkos labojumus uz savu rēķinu. Ēku jumti nomniekam jāuztur tādā stāvoklī, ka tie nelaiž ūdeni cauri. Jauni jumti jāliek un citi lielāki ēku labojumi jāizdara iznomātājam.
+Ēku labošanai vajadzīgos materiālus apgādā iznomātājs; visus materiālus pieved nomnieks, skaitot pa vienam vezumam uz katriem diviem hektāriem nomātās aramzemes; pievedamos koka materiālus nomnieks arī izcērt un apstrādā.

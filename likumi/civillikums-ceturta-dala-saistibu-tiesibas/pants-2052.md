@@ -1,0 +1,1 @@
+2052. Kad līgumu atceļ, lieta atdodama pārdevējam līdz ar tās pieaugumiem un ienākumiem, un bez tam pircējs zaudē rokas naudu, ja viņš to devis, un viņam jāatlīdzina aiz viņa vainas cēlušies zaudējumi.

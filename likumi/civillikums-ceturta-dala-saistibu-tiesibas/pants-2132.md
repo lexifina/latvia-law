@@ -1,0 +1,1 @@
+2132. Ja kāda trešā persona ceļ prasību, kas atrodas pretrunā ar to tiesību, kuru iznomātājs vai izīrētājs uzskatījis par savu, un nomnieku vai īrnieku tamdēļ izstumj, tad pirmajam jāatlīdzina nomniekam vai īrniekam ar to nodarītais zaudējums, pat ja viņš būtu rīkojies labā ticībā. Bet ja pats nomnieks vai īrnieks bijis ļaunā ticībā, tad viņam nav tiesības uz atlīdzību.

@@ -1,0 +1,4 @@
+1488. Kad prasības tiesību uz darījuma pamata vispār un par tā izpildīšanu sevišķi likums dara atkarīgu no tā rakstiskās formas, tad, ja rakstisks akts nav sastādīts, jāievēro sekojošais:
+1) Darījumam, ko izpildījušas abas puses, ir tādas pašas sekas, kādas tam būtu, ja tas būtu uzrakstīts, un to, kas pēc tā jau dots vai izdarīts, nevar prasīt atpakaļ.
+2) Ja viens no dalībniekiem līgumu labprātīgi izpilda, bet otrs izpildījumu pilnīgi vai pa daļai pieņem, tad pirmajam vairs nav tiesības prasīt atpakaļ to, ko viņš izpildījis, ja vien otrais savkārt ir gatavs izpildīt to, kas tam jāizpilda; bet ja pēdējais izvairās izpildīt savu saistību, tad pirmajam, kaut gan viņš nevar prasīt, lai līgumu izpilda, ir tiesība prasīt, vai nu lai atdod atpakaļ to, ko viņš izpildījis, vai arī lai to atlīdzina.
+3) Kamēr neviena puse nav vēl neko izpildījusi, prasības tiesība nav pielaižama, pats darījums nav spēkā un katrs tā dalībnieks var no tā vienpusēji atkāpties.

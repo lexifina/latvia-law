@@ -1,0 +1,1 @@
+1674. Pēc likuma solidāra saistība nodibinās, kad izpildījuma priekšmets ir nedalāms, un proti, kad tas ir vai nu kāda darbība, vai bezdarbība, tāpat arī kad kāda lieta vairākām personām kopīgi uzticēta glabājumā, patapināta, izīrēta vai ieķīlāta.

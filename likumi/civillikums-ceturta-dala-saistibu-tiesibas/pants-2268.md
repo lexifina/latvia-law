@@ -1,0 +1,1 @@
+2268. Ja sabiedrības līgumā noteikts, ka tādā gadījumā, kad kāds biedrs zaudē rīcības spēju, vai kad par viņa mantu atklāj konkursu vai nodibina administrāciju, vai kad kāds biedrs sabiedrības līgumu uzteic (2263.-2265.p.) vai nomirst, sabiedrībai jāpastāv tālāk pārējo biedru starpā, tad, iestājoties kādam no šiem apstākļiem, minētais biedrs uzskatāms par izstājušos.

@@ -1,0 +1,1 @@
+1733. Pašpalīdzība izņēmuma veidā ir atļauta tikai tad, kad tas notiek ar nolūku novērst mēģinājumu prettiesīgi grozīt pastāvošās attiecības, bet arī šajā gadījumā vienīgi nepieciešamās pašaizstāvības robežās. Tālāk pie līdzekļiem, ar kuriem galvenā kārtā aizsargā saistību tiesības ārpus tiesas, pieder aizturējuma tiesība un ķīlāšana.

@@ -1,0 +1,1 @@
+1666. Piemērojot 1665.panta noteikumu, tomēr pieņemams, ja nokavējis parādnieks, ka lietas stāvoklis nav tāds, ka kreditoram šā nokavējuma dēļ ir tiesība prasīt līguma atcelšanu (1663.p.), bet ja nokavējis kreditors - ka parādnieks pa to laiku nav vēl iesniedzis saistības priekšmetu tiesai.

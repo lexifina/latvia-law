@@ -1,0 +1,1 @@
+1797. Kas apmierina kreditoru parādnieka vietā, tam pirms apmierinājuma vai apmierinājuma laikā jāpielīgst, lai kreditors viņam cedē prasījumu, un ja tas izdarīts, tad prasījums pats par sevi uzskatāms par cedētu viņam apmierinājuma brīdī.

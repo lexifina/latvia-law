@@ -1,0 +1,1 @@
+2066. Ja pircēja atsauksmei līgumā nolikts termiņš un viņš to palaiž garām, bet pārdoto lietu vai preci viņš vēl nav saņēmis, tad jāpieņem, ka viņš no pirkuma atteicies. Tādas pašas sekas iestājas, kad nav noteikts šis termiņš un nav arī noteikts, ka atsauksmi var dot katrā laikā, un pircējs to nedod divu mēnešu laikā.

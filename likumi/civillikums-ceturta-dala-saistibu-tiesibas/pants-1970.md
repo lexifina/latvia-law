@@ -1,0 +1,1 @@
+1970. Glabājuma līgums uzskatāms par noslēgtu, tiklīdz glabājuma devējs iedevis glabājuma priekšmetu glabātājam. Tomēr arī iepriekšēja vienošanās, kurā kāds apsola ņemt lietu glabājumā, saista, un tādēļ, ja glabātājs nedibināti atteicas, no viņa var prasīt atlīdzību par visiem ar to nodarītiem zaudējumiem.

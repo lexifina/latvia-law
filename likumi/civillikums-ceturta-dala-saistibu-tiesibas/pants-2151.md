@@ -1,0 +1,1 @@
+2151. Nomniekam un īrniekam nav tiesības lietot to, kas viņiem nav ar līgumu piešķirts, un vispār viņi drīkst priekšmetu lietot vai izmantot tikai atbilstoši tam mērķim, kāds bijis domāts to viņiem iznomājot vai izīrējot.

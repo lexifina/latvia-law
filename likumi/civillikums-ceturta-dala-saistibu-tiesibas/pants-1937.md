@@ -1,0 +1,1 @@
+1937. Ja kādas personas vietnieks dod aizdevumu viņas vārdā, tad tiesība to atprasīt pieder katrā ziņā atvietojamam, vienalga, vai aizdotas viņam pašam vai viņa vietniekam piederošas atvietojamas lietas.

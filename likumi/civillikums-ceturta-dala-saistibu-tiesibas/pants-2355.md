@@ -1,0 +1,1 @@
+2355. Tie paši noteikumi (2354.p.) ir spēkā attiecībā uz atlīdzību par zaudējumu, kas nodarīts ar svešas lietas patvaļīgu paņemšanu, pie kam tomēr jāievēro arī sekojošo (2356. un 2357.) pantu noteikumi.

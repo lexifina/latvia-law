@@ -1,0 +1,1 @@
+2220. Ja uzņēmējam nodotā lieta iet bojā, nozūd vai sabojājas nepārvaramas varas dēļ, tad viņš par to neatbild, izņemot gadījumu, kad viņš noteikti uzņēmies risku, kā arī 2215.pantā norādīto gadījumu.

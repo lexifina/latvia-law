@@ -1,0 +1,1 @@
+2232. Ja pēc tam, kad līdzēji jau par līgumu vienojušies, mantas nodošanā un nosūtīšanā bez pārvadātāja vainas rodas nokavējums vai arī pārvadājums pavisam nenotiek, tad nosūtītājam jāatlīdzina pārvadātājam viņa izdevumi.

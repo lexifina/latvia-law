@@ -1,0 +1,1 @@
+III. Pilnvarojuma līguma izbeigšanās

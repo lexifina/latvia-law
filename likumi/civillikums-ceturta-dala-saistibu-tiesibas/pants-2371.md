@@ -1,0 +1,1 @@
+2371. Atprasījuma tiesība pielaižama arī tajā gadījumā, kad parāds gan tiešām pastāvējis, bet to izpildot notikusi maldība vai nu par parāda saistības saturu, vai arī par tiesīgo vai saistīto personu.

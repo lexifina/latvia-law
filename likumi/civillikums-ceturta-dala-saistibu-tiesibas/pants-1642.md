@@ -1,0 +1,1 @@
+1642. Ja abas puses darbojušās ļaunā nolūkā, vienā un tajā pašā virzienā un attiecībā uz to pašu priekšmetu, tad viena puse nevar vērst pret otru uz šā pamata nekādu prasību. Bet ja ļauns nolūks bijis tikai no vienas puses, tad tam, kam ar to kaitēts, ir tiesība prasīt no tās apmierinājumu, pat ja arī viņš būtu vainīgs neuzmanībā.

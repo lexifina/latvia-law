@@ -1,0 +1,1 @@
+1605. Kad atsavinātā lieta attiesāta, tās atsavinātājam jāatlīdzina visi zaudējumi, kādus ieguvējs no tam cietis, ieskaitot izdevumus prāvai vai pašai lietai, ja vien šos pēdējos nav jau atmaksājis tas, kam lieta piespriesta.
