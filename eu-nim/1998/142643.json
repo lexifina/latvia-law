@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Pusvadītāju izstrādājumu topogrāfiju aizsardzības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "84/85",
+  "official_journal_page": null,
+  "official_journal_date": "1998-03-31",
+  "entry_into_force": "1998-04-30",
+  "notification_date": "2007-03-09",
+  "commission_reference": "MNE(2007)52216",
+  "nim_celex": "72004L0048LVA_142643",
+  "nim_id": "142643",
+  "transposes_celex": [
+    "32004L0048"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bbf2d3a2-2274-4123-9048-5eabde76d41e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
