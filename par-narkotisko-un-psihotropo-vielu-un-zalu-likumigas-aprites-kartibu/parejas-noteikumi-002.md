@@ -1,0 +1,1 @@
+2. Līdz dienai, kad stāsies spēkā Ministru kabineta noteikumi, kas nosaka kārtību, kādā izsniedzamas, pārreģistrējamas un anulējamas speciālās atļaujas (licences) farmaceitiskajai darbībai, arī darbībai ar narkotiskajām un psihotropajām vielām un zālēm, 9.pantā minēto speciālo atļauju (licenču) izsniegšanas kārtību nosaka labklājības ministrs.

@@ -1,2 +1,2 @@
-12.pants. (1) Šā likuma 9.pantā minētās licences izsniegšanas, pārreģistrācijas un anulēšanas kārtību nosaka Ministru kabinets.
-(2) Licencētās juridiskās personas par izmaiņām II un III sarakstā iekļauto vielu nomenklatūrā, ražošanas metodēs, ražojamo vielu un zāļu formā un sastāvā 10 dienu laikā rakstiski informē Labklājības ministrijas Farmaceitiskās darbības licencēšanas komisiju.
+12.pants. (1) Šā likuma 9.pantā minētās speciālās atļaujas (licences) izsniegšanas, pārreģistrācijas un anulēšanas kārtību nosaka Ministru kabinets.
+(2) Licencētās juridiskās personas par izmaiņām II un III sarakstā iekļauto vielu nomenklatūrā, ražošanas metodēs, ražojamo vielu un zāļu formā un sastāvā 10 dienu laikā rakstveidā informē Labklājības ministrijas Farmaceitiskās darbības licencēšanas komisiju.
