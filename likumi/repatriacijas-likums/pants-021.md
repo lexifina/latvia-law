@@ -1,0 +1,2 @@
+21.pants. Fondu un sabiedrisko organizāciju uzņēmumu atbrīvošana no uzņēmumu ienākuma nodokļa maksāšanas
+Repatriāciju veicinoša fonda vai sabiedriskās organizācijas uzņēmumu atbrīvo no uzņēmumu ienākuma nodokļa maksāšanas likumā "Par uzņēmumu ienākuma nodokli" noteiktajā kārtībā, ja tas pārskaita minētajam fondam vai organizācijai summas, kas ir lielākas par aprēķinātajām uzņēmumu ienākuma nodokļa summām.

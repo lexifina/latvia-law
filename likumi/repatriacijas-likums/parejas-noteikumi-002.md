@@ -1,0 +1,1 @@
+2. Repatriācijas centrs līdz 1995.gada 20.oktobrim izstrādā priekšlikumus par ikgadējām kvotām attiecībā uz materiālās palīdzības piešķiršanu repatriantiem un iesniedz tos Ministru kabinetam apstiprināšanai.
