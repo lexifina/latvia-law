@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Piena un piena produktu aprites noteikumi",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "65",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-27",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-07-22",
+  "commission_reference": "MNE(2004)50076",
+  "nim_celex": "71989L0362LVA_30076",
+  "nim_id": "30076",
+  "transposes_celex": [
+    "31989L0362",
+    "31989L0384",
+    "31994L0071"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dd774e25-4853-48d3-a130-48ae633c96b8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
