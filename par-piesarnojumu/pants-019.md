@@ -1,0 +1,4 @@
+19.pants. Piesārņojošu darbību iedalījums un atļauja piesārņojošas darbības veikšanai
+(1) Piesārņojošas darbības iedala A, B un C kategorijā, ņemot vērā piesārņojuma daudzumu un iedarbību vai risku, ko tas rada cilvēku veselībai un videi.
+(2) Šā likuma II nodaļā noteiktās prasības attiecas arī uz tādām darbībām, kuras neatbilst A, B vai C kategorijai, bet var radīt piesārņojumu.
+(3) Lai uzsāktu vai turpinātu A vai B kategorijas darbību, operators saņem atļauju - reģionālās vides pārvaldes izsniegtu rakstveida lēmumu, kas attiecas uz ražotni, iekārtu vai tās daļu (turpmāk - iekārta) vai vairākām iekārtām, kuras atrodas vienā vietā un kurām ir viens operators, - veikt piesārņojošu darbību ar nosacījumu, ka iekārta funkcionē atbilstoši attiecīgajā lēmumā un normatīvajos aktos noteiktajām prasībām.

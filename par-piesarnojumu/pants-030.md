@@ -1,0 +1,3 @@
+30.pants. Informēšana par darbības izmaiņu
+(1) Pirms darbības izmaiņas operators Ministru kabineta noteiktajā termiņā paziņo par to reģionālajai vides pārvaldei, kura izvērtē, vai šī izmaiņa uzskatāma par būtisku izmaiņu un vai ir nepieciešams izdarīt grozījumus atļaujas nosacījumos, un informē par to operatoru. Darbības izmaiņa, kuras rezultātā iekārtas darbības rādītāji pārsniedz šā likuma pielikumā minētos rādītājus, ir būtiska izmaiņa.
+(2) Ja operators ir ieviesis darbības izmaiņu, kuras dēļ mainās piesārņojošas darbības kategorija, reģionālā vides pārvalde izskata jautājumu par citas kategorijas atļaujas izsniegšanu vai pieņem lēmumu, ka attiecīgajai piesārņojošai darbībai atļauja turpmāk nav nepieciešama.

@@ -1,0 +1,4 @@
+16.pants. Operatoru sadarbība
+(1) Šā likuma 14. un 15.pantā minētajos gadījumos operators var noslēgt vienošanos ar citu operatoru, kuram atļauts emitēt attiecīgā veida piesārņojumu, par pasākumiem, kas veicami, lai samazinātu kopējās attiecīgā veida piesārņojuma emisijas, un informē par to reģionālo vides pārvaldi.
+(2) Ja operatoru vienošanās paredz, ka kopējās attiecīgā veida piesārņojuma emisijas, ko izraisa piesārņojošas darbības, uz kurām attiecas vienošanās, būs zemākas nekā pirms vienošanās noslēgšanas, un ja atbilstoši šim likumam un citiem normatīvajiem aktiem ir ievērotas citas piesārņojuma samazināšanas prasības, reģionālā vides pārvalde šo vienošanos akceptē.
+(3) Operatori, kas ir paredzējuši veikt piesārņojošas darbības, uz kurām attiecas vienošanās, iesniedz pieteikumu atļaujas saņemšanai, un reģionālā vides pārvalde izsniedz atļauju atbilstoši emisiju apjoma samazinājumam, kuru paredz vienošanās.

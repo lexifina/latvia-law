@@ -1,0 +1,3 @@
+8.pants. Prasības attiecībā uz piesārņojošas darbības vietu
+(1) Pirms tiek uzsākta piesārņojoša darbība, kurai saskaņā ar šo likumu nepieciešama atļauja, operators izvērtē iespējamās alternatīvās vietas šīs darbības veikšanai. Šī prasība attiecas uz darbību kopumā, tās atsevišķiem procesiem, kā arī uz emisijas vietām. Piesārņojošai darbībai vai tās atsevišķiem procesiem jāizraugās tāda vieta, kur tai būs vismazākā negatīvā ietekme uz cilvēku veselību un vidi.
+(2) Šā panta pirmās daļas prasības neattiecas uz piesārņojošām darbībām, kuru iespējamās norises vietas, tehniskie paņēmieni un tehnoloģijas, kā arī to ietekme uz vidi ir izvērtēta saskaņā ar likumu "Par ietekmes uz vidi novērtējumu".

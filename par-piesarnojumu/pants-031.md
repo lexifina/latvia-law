@@ -1,0 +1,11 @@
+31.pants. Atļaujas nosacījumi
+(1) Atļaujā ietver nosacījumus, kuru ievērošana nepieciešama, lai nodrošinātu cilvēku veselības aizsardzību un attiecīgu vides kvalitāti - gaisa, virszemes ūdeņu, pazemes ūdeņu, augsnes un zemes dzīļu aizsardzību, kā arī nosaka:
+1) emisijas limitus piesārņojošām vielām, kuras varētu tikt emitētas no iekārtas, ievērojot attiecīgās vielas raksturu un iespējamo piesārņojuma pārnesi no vienas vides citā (ūdens, gaiss, augsne), kā arī citu veidu emisijas limitus;
+2) prasības, kas jāievēro operatoram, lai nodrošinātu cilvēku veselības un vides aizsardzību, kā arī atkritumu apsaimniekošanu, izmantojot dabas resursus un enerģiju, kā arī lietojot ķīmiskās vielas un ķīmiskos produktus;
+3) pasākumus, kas saistīti ar iekārtai netipiskiem darbības apstākļiem, arī ar iekārtas darbības uzsākšanu, iespējamām noplūdēm, nepareizu darbību, pēkšņu apstāšanos un darbības pārtraukšanu;
+4) citus pasākumus, kas veicami, lai nodrošinātu šā likuma II nodaļā noteikto prasību izpildi.
+(2) A kategorijas atļaujas nosacījumus pamato ar labāko pieejamo tehnisko paņēmienu lietošanu, nenosakot konkrētu izmantojamās tehnoloģijas veidu, bet ņemot vērā attiecīgās iekārtas tehniskos raksturlielumus, tās ģeogrāfisko izvietojumu un vides apstākļus.
+(3) Ja vides kvalitātes normatīvi paredz stingrākus nosacījumus, nekā tas izriet no prasības lietot labākos pieejamos tehniskos paņēmienus, A kategorijas atļaujā ietver citus nosacījumus, lai sasniegtu noteiktos vides kvalitātes normatīvus.
+(4) B kategorijas atļaujas nosacījumus pamato ar attiecīgās piesārņojošās darbības raksturlielumiem, tās ģeogrāfisko izvietojumu un vides apstākļiem. Normatīvajos aktos noteiktajos gadījumos B kategorijas atļaujā ietver konkrētās iekārtas tehniskos raksturlielumus.
+(5) Atļaujā ietver nosacījumus, kas paredz samazināt piesārņojuma pārnesi lielākos attālumos, kā arī pārrobežu pārnesi.
+(6) Ja piesārņojoša darbība tiek veikta vai to paredzēts veikt piesārņotā vai potenciāli piesārņotā vietā, reģionālā vides pārvalde atļaujas nosacījumos ietver prasību operatoram veikt piesārņotās vai potenciāli piesārņotās vietas izpēti vai piesārņotās vietas sanāciju. Lēmums par izpētes vai sanācijas ietveršanu atļaujas nosacījumos tiek pieņemts saskaņā ar šā likuma VII nodaļu.

@@ -1,0 +1,7 @@
+34.pants. Piesārņotu un potenciāli piesārņotu vietu reģistrācija un teritorijas izmantošanas ierobežojumi
+(1) Piesārņotas un potenciāli piesārņotas vietas reģistrē reģionālās vides pārvaldes Ministru kabineta noteiktajā kārtībā. Militāri piesārņotas teritorijas reģionālās vides pārvaldes reģistrē pēc Aizsardzības ministrijas atzinuma.
+(2) Pēc piesārņotas vietas reģistrācijas un reģionālās vides pārvaldes atzinuma saņemšanas pašvaldība nosaka ierobežojumus teritorijas attīstības plānojumā, kā arī ierobežojumus attiecībā uz dzīvošanu šajā teritorijā un citādu šīs teritorijas izmantošanu, ja tas ir nepieciešams, lai aizsargātu cilvēku veselību vai vidi. Teritoriālais vides veselības centrs nosaka cilvēku veselības aizsardzības nodrošināšanai nepieciešamos ierobežojumus.
+(3) Ierobežojumi tiek noteikti, ņemot vērā piesārņojošo vielu bīstamības pakāpi, iespējamo iedarbību uz cilvēkiem, kas dzīvo apkārtējās teritorijās, šo teritoriju vides kvalitāti un nepieciešamību nākotnē veikt sanācijas pasākumus.
+(4) Aizsardzības ministrija sniedz ieteikumus par attiecīgu ierobežojumu noteikšanu militāri piesārņotām teritorijām, kuras nav tās valdījumā, un nosaka ierobežojumus teritorijām, kuras ir tās valdījumā.
+(5) Institūcija, kas noteikusi ierobežojumus, atceļ tos, ja šie ierobežojumi vairs nav nepieciešami cilvēku veselības vai vides aizsardzībai.
+(6) Institūcija, kas noteikusi šajā pantā minētos ierobežojumus, informē par tiem vai par to atcelšanu citas institūcijas un fiziskās un juridiskās personas, uz kurām šie ierobežojumi attiecas.

@@ -1,0 +1,1 @@
+2. Attiecībā uz iekārtām, kurās veic atkritumu sadedzināšanu, par esošām uzskata tādas iekārtas, kuru darbībai visas normatīvajos aktos noteiktās atļaujas tiek saņemtas līdz 2002.gada 28.decembrim un kuras uzsāk darbību ne vēlāk kā 2004.gada 28.decembrī.

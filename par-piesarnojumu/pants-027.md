@@ -1,0 +1,4 @@
+27.pants. Sabiedrības līdzdalība
+(1) Pieteikums A kategorijas atļaujas, bet Ministru kabineta noteiktajos gadījumos - arī B kategorijas atļaujas saņemšanai ir pieejams sabiedrībai, lai tā varētu iesniegt komentārus ar atļaujas izsniegšanu saistītajos jautājumos.
+(2) Sabiedrībai ir pieejami izsniegto A kategorijas un B kategorijas atļauju nosacījumi, kā arī informācija par monitoringa un kontroles rezultātiem.
+(3) Ja pieteikums vai atļauja ietver komercnoslēpumu vai informāciju, kas saskaņā ar normatīvajiem aktiem uzskatāma par ierobežotas pieejamības informāciju, reģionālā vides pārvalde, pamatojoties uz operatora iesniegumu, pieņem lēmumu par atsevišķu pieteikuma vai atļaujas sadaļu ierobežotu pieejamību. Šis noteikums neattiecas uz informāciju par piesārņojuma emisiju, kā arī par avāriju risku.
