@@ -1,0 +1,1 @@
+1150. Ja servitūtu var, netraucējot tā izlietotāju, tikpat labi izlietot kādā kalpojošā nekustamā īpašuma daļā, kā visā tajā, tad pēdējā īpašniekam ir tiesība noteikt servitūta tiesības izlietošanai zināmu nekustamā īpašuma daļu.

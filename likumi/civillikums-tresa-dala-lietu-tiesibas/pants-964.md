@@ -1,0 +1,1 @@
+964. Ja no upes, izraujot krastu, atdalās jauns atzarojums, kas savā tālākā ceļā atkal savienojas ar galveno upi, tad sala, kura tādā kārtā izveidojas no šo divu upju apskalojamās zemes, paliek tās agrākajam īpašniekam.

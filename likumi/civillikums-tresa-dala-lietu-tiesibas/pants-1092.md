@@ -1,0 +1,1 @@
+1092. Robežu sētas jāceļ un jāuztur kaimiņiem kopīgi, un ja viņu starpā par to nav sevišķas norunas, tad priekšējā, līdz ielai ejošā sētas puse jāceļ un jāizlabo tam namīpašniekam, kura nama priekšpusei sēta piekļaujas no labās puses, bet otra puse - viņa kaimiņam. Labo un kreiso pusi šajā gadījumā nosaka, stāvot uz zemesgabala ar seju pret ielu.

@@ -1,0 +1,1 @@
+1388. Izpircējam jāatmaksā ieguvējam, bez visa tā, ko pēdējais samaksājis par nekustamo īpašumu (1384. p.), arī visi viņa šim īpašumam izdarītie nepieciešamie un derīgie izdevumi, kā arī viņa izmaksas to atsavinot un iemaksātās nodevas; greznuma izdevumi nav jāatlīdzina.

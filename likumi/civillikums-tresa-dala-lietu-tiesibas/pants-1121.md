@@ -1,0 +1,1 @@
+1121. Ja upe tek caur vairāku īpašnieku zemes gabaliem, tad katrs no viņiem drīkst ierīkot jaunas ūdensspēka izmantošanas ietaises tikai tad, ja no ūdens aizsprostojuma vai aizdambējuma nevar celties zaudējumi kaimiņiem.

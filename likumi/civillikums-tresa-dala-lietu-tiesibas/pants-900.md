@@ -1,0 +1,2 @@
+900. Nekustamas lietas valdījums izbeidzas, kad valdītājs zaudējis varu par to vai nu dabas spēku dēļ, vai citai personai viņu izstumjot.
+Ar to vien, ka kāds tikai ņem nekustamu lietu savā varā, vēl nepietiek izstumšanai no valdījuma; bet ir vajadzīgs, lai agrākais valdītājs, dabūjis zināt par notikušo varas atņemšanu, nespertu pret to nekādus soļus, vai arī būtu veltīgi mēģinājis atjaunot savu varu par lietu.

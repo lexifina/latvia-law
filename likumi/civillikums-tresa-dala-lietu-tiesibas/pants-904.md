@@ -1,0 +1,1 @@
+904. Valdītāja vietnieks zaudē valdījumu visos tajos gadījumos, kuros to zaudētu pats valdītājs, un proti, par kustamām lietām, kad valdītāja vietnieks tās nozaudē, vai kad viņš tās nodod citam, vai kad viņam tās paņem piesavināšanās nolūkā.

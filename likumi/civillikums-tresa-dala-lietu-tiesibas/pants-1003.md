@@ -1,0 +1,1 @@
+1003. Noziedzīgā ceļā dabūtu lietu nevar ar ieilgumu iegūt par īpašumu ne pats noziedzīga nodarījuma izdarītājs, ne arī trešā persona, kas savas tiesības atvasina no viņa. Šis ieilguma aprobežojums izbeidzas tikai pēc tam, kad tāda lieta nonākusi atpakaļ tās īpašnieka varā.

@@ -1,0 +1,1 @@
+915. Ja valdītājs pierāda, ka tādi traucējumi bijuši un ka viņš vēl valda, tad viņš var prasīt no tiesas tiklab šā sava valdījuma aizsardzību, kā arī atlīdzību par zaudējumiem, kas viņam nodarīti ar valdījuma traucējumu.

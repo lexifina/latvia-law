@@ -1,0 +1,1 @@
+1300. Lietas īpašniekam nevar būt ķīlas tiesības uz savu lietu. Bet ja kreditors viņam ieķīlāto lietu iegūst par īpašumu, tad tiesības, ko viņš ieguvis ar savu agrāko ķīlas tiesību pret pārējiem ķīlas kreditoriem, paliek spēkā.

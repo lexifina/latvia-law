@@ -1,0 +1,1 @@
+1393. Servitūti, reālnastas un hipotēkas, ar kuriem ieguvējs apgrūtinājis nekustamo īpašumu, jāuzņemas izpircējam, ja vien tie bijuši nodibināti jau pirms izpirkuma tiesības pieteikuma un bez ļauna nolūka. Bet par visiem šiem apgrūtinājumiem ieguvējam pilnīgi jāatlīdzina izpircējam.

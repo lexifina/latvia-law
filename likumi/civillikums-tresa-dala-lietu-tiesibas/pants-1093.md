@@ -1,0 +1,1 @@
+1093. Ja kādas personas lieta nejauši nokļuvusi kādas citas personas robežās, tad pēdējai jāpacieš, ka tās īpašnieks atkal to paņem. Bet ja ar šo lietu zemes valdītājam nodarīts kāds zaudējums, tad līdz tā atlīdzināšanai viņam ir tiesība lietu aizturēt.

@@ -1,0 +1,3 @@
+1021. Ja ieilguma laikā vairākas personas valdījušas lietu cita pēc citas un tas, pret ko tek ieilgums, valdījumu nav pārtraucis, tad priekšgājēja valdījums pēcniekam nāk par labu, tā ka visu tādu personu valdījuma laiki saskaitāmi kopā.
+Uz šā noteikuma pamata ieilgums, kas iesācies mantojuma atstājējam, turpinās arī viņa mantiniekiem, kā arī tiem, kas ieguvuši valdījumu ar ieilgumam noderīgu tiesisku darījumu, vai kas ieguvuši atpakaļ valdījumu, ko tie tiesīgā kārtā nodevuši citam.
+Ja ieilgums turpinās valdītāja mantiniekiem, laiks starp mantojuma atklāšanos un pieņemšanu arī pieskaitāms ieilgumam.

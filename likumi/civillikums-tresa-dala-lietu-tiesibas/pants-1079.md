@@ -1,0 +1,1 @@
+1079. Testamentārs aizliegums ir spēkā tikai tad, kad skaidri norādīts, kādai personai par labu tas noteikts, un tādā gadījumā šī persona, pēc tam, kad viņas tiesība nākusi spēkā, var aizliegumam pretēji atsavināto lietu atprasīt no ikkatra valdītāja.

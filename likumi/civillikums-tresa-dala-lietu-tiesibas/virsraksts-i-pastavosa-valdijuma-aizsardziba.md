@@ -1,0 +1,1 @@
+I. Pastāvoša valdījuma aizsardzība

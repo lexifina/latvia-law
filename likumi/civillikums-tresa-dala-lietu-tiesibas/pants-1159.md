@@ -1,0 +1,2 @@
+1159. Ceļa servitūtam pakļauta katra kalpojošā zemes gabala daļa. Tomēr šā servitūta izlietotājam, ja nav bijis norunāts pretējais, jāaprobežojas ar vienu noteiktu ceļu, kuru viņš gan pats drīkst izvēlēties, bet pēc iespējas saudzīgi.
+Ja ceļa servitūts nodibināts ar testamentu, sīkāki neapzīmējot vietu, tad vietas un ceļa virziena izvēle piekrīt servitūta nesējam, kas tomēr nedrīkst rīkoties pie tam tīši par ļaunu otrai pusei.

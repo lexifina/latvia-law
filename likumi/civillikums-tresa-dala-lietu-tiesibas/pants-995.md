@@ -1,0 +1,1 @@
+995. Tiesas izdarāma ievešana iegūtā nekustama īpašuma valdījumā nav būtiski nepieciešams nosacījums tā iegūšanai par īpašumu, un tādēļ tāda ievešana notiek tikai tad, kad ieguvējs to noteikti vēlas, it sevišķi ja nekustama īpašuma atsavināšana notikusi pret iepriekšējā īpašnieka gribu.

@@ -1,0 +1,1 @@
+1315. Ar ieķīlāšanu neizbeidzas ieķīlātāja īpašuma tiesība uz ieķīlāto lietu. Ieķīlāto nekustamu lietu viņš joprojām var valdīt un lietot, kamēr labprātīgi nenodod to valdīt un lietot ķīlas ņēmējam vai kamēr viņu uz to nepiespiež tiesas ceļā.

@@ -1,0 +1,1 @@
+1244. Ja servitūts atvēlēts no zināma termiņa, tad kalpojošā nekustamā īpašuma īpašnieks nedrīkst saīsināt lietošanas laiku, novilcinot tā piešķiršanu. Pretējā gadījumā servitūta izlietotājs gan nevar prasīt noteiktā laika pagarinājumu, bet viņš var prasīt atlīdzību par zaudējumiem sakarā ar novilcinājumu.

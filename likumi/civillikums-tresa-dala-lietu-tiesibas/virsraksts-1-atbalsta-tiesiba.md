@@ -1,0 +1,1 @@
+1. Atbalsta tiesība

@@ -1,0 +1,3 @@
+1289. Ja ar ķīlas tiesību nodrošināts terminēts prasījums, tā stājas gan tūliņ spēkā, bet, kamēr nav pienācis noteiktais termiņš, kreditors nevar meklēt nolīdzinājumu no ieķīlātās lietas.
+Kad ar ķīlas tiesību nodrošināts nosacīts prasījums, tā pa nosacījuma svārstības laiku nav spēkā. Bet tiklīdz nosacījums iestājies, ķīlas tiesība uzskatāma par radušos jau tās nodibināšanas laikā. Ja tomēr nosacījums ir tāds, ka to nevar izpildīt bez parādnieka gribas, tad ķīlas tiesība stājas spēkā tikai no tā laika, kad nosacījums iestājies.
+Ja nosacījums vai termiņš noteikts nevis prasījumam, bet tikai pašai ķīlas tiesībai, tad tā stājas spēkā tikai no tā laika, kad nosacījums vai termiņš iestājies.

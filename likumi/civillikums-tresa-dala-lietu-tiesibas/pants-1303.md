@@ -1,0 +1,1 @@
+1303. Ķīlas tiesība, kuras priekšmets ir lietu kopība, aptver nevien šās kopības jau esošās daļas, bet arī nākamās, nevien ķermeniskas, bet arī bezķermeniskas, ja nav skaidri redzams, ka ieķīlātāja nodoms bijis ieķīlāt vienīgi šās lietu kopības sastāvu ieķīlāšanas laikā.

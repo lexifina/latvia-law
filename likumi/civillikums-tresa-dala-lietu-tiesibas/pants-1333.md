@@ -1,0 +1,1 @@
+1333. Ja pārdoto ķīlu pircējam attiesā, tad viņam jāprasa zaudējumu atlīdzība no ieķīlātāja, bet nevis no ķīlas ņēmēja, kas šo lietu viņam pārdevis kā ķīlu; izņēmums pielaižams tikai tad, kad ķīlas ņēmējs noteikti uzņēmies atbildību vai pārdodot tīši maldinājis pircēju.

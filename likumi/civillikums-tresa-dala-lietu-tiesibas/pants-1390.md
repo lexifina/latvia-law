@@ -1,0 +1,1 @@
+1390. Izpircējs iestājas visās ieguvēja tiesībās, un tādēļ pēdējam, ja nekustamais īpašums jau nodots viņa valdījumā, vispirms jānodod tas izpircējam, ar visiem piederumiem, tādā pašā stāvoklī, kādā viņš to saņēmis.

@@ -1,0 +1,1 @@
+I. Lietojuma tiesība

@@ -1,0 +1,1 @@
+1208. Lauku nekustama īpašuma lietotājs var izdarīt tajā visādus uzlabojumus, ja vien ar to nepārgrozās tā raksturs un nesamazinās tā uzdevumam atbilstošais ienākums. Ievērojot šo nosacījumu, viņš var ierīkot arī jaunas ietaises un atvērt jaunus ienākuma avotus.

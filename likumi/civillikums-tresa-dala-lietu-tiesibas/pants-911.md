@@ -1,0 +1,1 @@
+911. No valdījuma izriet tiesība uz pastāvoša valdījuma aizsardzību un atņemta valdījuma atjaunošanu. Šīs tiesības ir saistītas ar katru valdījumu, neatkarīgi no tam, vai tas ir tiesīgs vai prettiesīgs, labticīgs vai ļaunticīgs.

@@ -1,0 +1,2 @@
+Ceturtā apakšnodaļa
+Valdījuma veidi

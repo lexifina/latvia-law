@@ -1,0 +1,2 @@
+849. Lietu kopība ir vairāku tādu patstāvīgu, vienas vai dažādu šķiru, ķermenisku vai bezķermenisku lietu sakopojums zināmam nolūkam vienā sastāvā un ar vienu kopīgu nosaukumu, kuras šajā sastāvā atzīstamas tiesiskā ziņā par vienību jeb vienu pašu lietu.
+Lietu kopības jēdzienu un tās būtību neiznīcina un negroza ne tās sastāvā ietilpstošo atsevišķo lietu pamazinājums vai pieaugums, ne arī kāda cita to pārmaiņa.

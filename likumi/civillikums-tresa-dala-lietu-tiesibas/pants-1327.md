@@ -1,0 +1,1 @@
+1327. Ja ķīlas ņēmējs un parādnieks sevišķi norunājuši, ka ieķīlātā lieta nesamaksas gadījumā tūliņ pārdodama, tad pirmajam nav pienākums ne pēdējam to sevišķi atgādināt, ne iepriekš paziņot par savu nodomu pārdot; bet ja tādas norunas nav bijis, tad ķīlas ņēmējam iepriekš jāpaziņo parādniekam par to, ka viņš grib ķīlu pārdot.

@@ -1,0 +1,1 @@
+1061. Atbildētājs var prasību noraidīt, ja pierāda, ka īpašuma tiesība uz lietu pieder viņam, vai ka viņš drīkst to valdīt pamatojoties uz kādu lietu tiesību vai arī tādu personisku tiesību, kas prasītājam jāatzīst.

@@ -1,0 +1,1 @@
+1050. Par prasības priekšmetu var būt kā atsevišķa lieta, tā arī lietu kopība, kas pastāv vienīgi no ķermeniskām lietām, bet ne tāda manta, kuras sastāvā ietilpst gan ķermeniskas, gan bezķermeniskas lietas (849. p. 1. d.).

@@ -1,0 +1,1 @@
+1107. Kad ūdeņi pārvietojas, veciem krastu īpašniekiem, kam piederējusi zvejas tiesība vai tiesība lietot ūdeni savas saimniecības vajadzībām, šīs tiesības paliek arī turpmāk. Jauniem krastu īpašniekiem jādod vecajiem nepieciešamā pieeja pie ūdens, ja tiem savās robežās tādas lietojamas pieejas vairs nav.

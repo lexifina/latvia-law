@@ -1,0 +1,1 @@
+1392. Nekustamā īpašuma ieguvējam jāatlīdzina izpircējam par pasliktinājumiem tikai tad, kad tie radušies aiz ieguvēja vainas pēc tam, kad jau pieteikts izpirkums; par agrākiem pasliktinājumiem viņam jāatlīdzina tikai tad, ja tie nodarīti ar ļaunu nolūku, lai novērstu izpirkumu.

@@ -1,0 +1,1 @@
+1011. Īpašuma iegūšanai ar ieilgumu nav vajadzīgs, lai valdījuma pamats būtu pastāvīgi apzināts, bet gan ir nepieciešami, lai valdītājs pa visu ieilguma laiku neatteiktos no gribas valdīt lietu kā savu.

@@ -1,0 +1,1 @@
+1109. Par pretējo upes krastu īpašumu robežu uzskatāma vidus līnija starp abu krastu ūdenslīnijām normālā ūdensstāvoklī, bet par robežu starp vienā krastā gulošiem zemes gabaliem - līnija, kas velkama stateniski upes vidus līnijai caur robežas krustojuma punktu ar normālo ūdenslīniju.

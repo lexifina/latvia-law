@@ -1,0 +1,1 @@
+1276. Ja ar likumu, līgumu vai vienpusēju gribas izteikumu vienu reālnastu graudā vai klaušās atvieto ar kādu citu vai pārvērš naudā, tad jāpieņem, ka agrākā nasta ir izbeigusies un tās vietā radusies jauna.

@@ -1,0 +1,1 @@
+1355. Kreditors var gan tālāk ieķīlāt rokas ķīlu, bet ne citādi, kā kopā ar pašu saistību, ko ķīla nodrošina, un ne par lielāku summu, kāda viņam pienākas no ieķīlātāja. Ar kreditora paša ķīlas tiesības izbeigšanos, vai nu samaksājot viņa prasījumu, vai aiz kāda cita iemesla, izbeidzas arī otra ķīlas ņēmēja tiesība.

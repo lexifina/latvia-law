@@ -1,0 +1,1 @@
+879. Ķermeniskas lietas valdījuma iegūšanai ir nepieciešams, pirmkārt, ņemt to savā varā, t. i. izdarīt tādu fizisku darbību, ar kuru tas, kas valdījumu grib iegūt, tā pakļauj lietu savai fiziskai varai, ka vienīgi viņš var pēc savas gribas to ietekmēt, bet otrkārt - ar varā ņemšanu saistīta griba paturēt šo lietu kā savu.

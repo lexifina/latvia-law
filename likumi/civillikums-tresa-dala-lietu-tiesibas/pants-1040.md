@@ -1,0 +1,1 @@
+1040. Īpašniekam ir pašaizstāvības tiesība un, sakarā ar to, tiesība pat iznīcināt svešas lietas, kuru dēļ viņam būtu jābaidās pazaudēt savu paša, ja viņam nav iespējams citādi novērst draudošo zaudējumu.

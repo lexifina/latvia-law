@@ -1,0 +1,1 @@
+852. Kamēr blakus lieta nav atdalīta no galvenās, uz abām attiecas vieni un tie paši tiesību noteikumi; tādēļ nekustamas lietas kustamie piederumi nav uzskatāmi par kustamām lietām, bet ir pakļauti noteikumiem, kādi pastāv nekustamām lietām.

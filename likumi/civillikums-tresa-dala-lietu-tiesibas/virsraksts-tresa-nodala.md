@@ -1,0 +1,2 @@
+TREŠĀ NODAĻA
+Īpašums

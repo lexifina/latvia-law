@@ -1,0 +1,2 @@
+Otrā apakšnodaļa
+Reālservitūti

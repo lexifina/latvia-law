@@ -1,0 +1,1 @@
+1148. Piešķirot servitūtu, kalpojošā nekustamā īpašuma īpašnieks nezaudē tiesību pašam izlietot šajā servitūtā ietilpstošo tiesību, un viņš var pat piešķirt līdzīgu tiesību vairākiem, ja vien ar to netraucē jau pastāvošo servitūtu.

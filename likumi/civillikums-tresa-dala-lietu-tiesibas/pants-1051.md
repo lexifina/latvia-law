@@ -1,0 +1,1 @@
+1051. Prasītājam sīki jāapzīmē atprasāmā lieta kā pēc tās šķiras un īpašībām, tā arī pēc sevišķām iezīmēm un, ja vajadzīgs, arī pēc tās apjoma un lieluma; bet prasībā par nekustamu īpašumu sīki jānorāda arī tā atrašanās vieta.

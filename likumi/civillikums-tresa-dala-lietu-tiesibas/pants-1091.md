@@ -1,0 +1,3 @@
+1091. Ietaisīt jaunceļamās sienās logus uz blakus zemes gabala pusi drīkst tikai tad, ja šīs sienas atrodas ne mazāk kā četrus metrus no robežas, vai lielākā atstatumā, ja tādu prasa vietējie būvnoteikumi.
+Ietaisīt logus uz blakus zemes gabala pusi jau pastāvošās sienās, kas stāv pie pašas robežas vai tuvāk par četriem metriem no robežas, drīkst tikai ar īpašnieka-kaimiņa zemes grāmatās ierakstītu piekrišanu, nodrošinot šiem logiem gaismas ieplūdumu vismaz 45o leņķī.
+Piezīme. Šis (1091.) pants neattiecas uz Rīgas pilsētas pirmo mūra ēku rajonu, kas apzīmēts Rīgas pilsētas saistošos būvnoteikumos.

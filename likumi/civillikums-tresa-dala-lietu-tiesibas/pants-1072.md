@@ -1,0 +1,1 @@
+1072. Katra kopīpašnieka domājamā daļa kopējā lietā pieder vienīgi viņam. Tādēļ viņš drīkst ar to visādi rīkoties, atbilstoši tās būtībai, ja vien šī rīcība līdz ar to neattiecas uz pārējo kopīpašnieku daļām. Uz šā pamata katram kopīpašniekam ir tiesība viņam piederošo kopējās lietas daļu arī atsavināt vai ieķīlāt.

@@ -1,0 +1,1 @@
+965. Krastu vai salu pieaugumi, kas radušies ar pakāpeniskiem zemes pieskalojumiem vai ar ūdenslīmeņa dabisku vai mākslīgu pazemināšanu, pieder krastu vai salu īpašniekiem, pie kam viņu īpašumu robežas noteicamas saskaņā ar 961. pantu.

@@ -1,0 +1,2 @@
+SESTĀ NODAĻA
+Ķīlas tiesība

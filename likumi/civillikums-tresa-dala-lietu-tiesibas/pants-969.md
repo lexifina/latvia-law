@@ -1,0 +1,2 @@
+969. Kas uzceļ pastāvīgu ēku apzināti uz svešas zemes, tas var prasīt par to atlīdzību tikai tādā mērā, kādā šī ēka ietilpst nepieciešamos izdevumos (865. p.); bet ja ēka pieder tikai pie derīgo vai greznuma izdevumu šķiras, tad tās cēlējam ir tikai tiesība to novākt, ievērojot 867. panta 3. daļā un 868. pantā norādīto aprobežojumu.
+Ja tādā gadījumā ēkas cēlējs atrodas ar zemes īpašnieku kādā sevišķā tiesiskā attiecībā, kā lietotājs, nomnieks u. c., tad šā panta vietā piemērojami minētai tiesiskai attiecībai paredzētie noteikumi.

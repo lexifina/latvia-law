@@ -1,0 +1,1 @@
+1326. Ja ķīlas ņēmēja prasījuma samaksa sadalīta vairākos termiņos, tad ķīlu var pārdot, tiklīdz palaists kāds no šiem termiņiem, ja vien nav bijis tieši norunāts nepārdot tikām, kamēr nebūs palaists arī pēdējais, vai otrais, vai trešais u.t.t. termiņš.

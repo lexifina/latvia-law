@@ -1,0 +1,1 @@
+868. Kas bez uzdevuma taisījis svešai lietai greznuma izdevumus, tas nevar prasīt, lai tos atlīdzina, bet arī var atņemt savus izdaiļojumus, ja tas viņam ir izdevīgi un ja to var izdarīt nekaitējot galvenai lietai.

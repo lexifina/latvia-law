@@ -1,0 +1,2 @@
+1200. Ja pie lietojamās zemes pieder mežs, tad lietotājs var cirst tajā kokus tikai tādā daudzumā, kāds vajadzīgs saimniecībai, bet ja lietojums tieši attiecas uz mežu, tad lietotājs var cirst tajā kokus, ievērojot visus mežkopības noteikumus, nevien apkurināšanai un būvēm, bet arī pārdošanai.
+Ja lietojamā zemes gabala mežs nav nolemts ciršanai, tad lietotājs var izcirst no tā tikai saimniecībai nepieciešamo materiālu sētas mietiem, maikstēm u. t. l., pie tam izlietojot šim nolūkam tikai jaunākās audzes, bet ne lielus kokus.

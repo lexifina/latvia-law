@@ -1,0 +1,1 @@
+1038. Īpašnieks var viņam piederošo lietu valdīt, iegūt tās augļus, izlietot to pēc sava ieskata savas mantas pavairošanai un vispār to lietot visādā kārtā, kaut arī no tam rastos zaudējums citai personai.

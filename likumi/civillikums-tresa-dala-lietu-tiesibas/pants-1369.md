@@ -1,0 +1,1 @@
+1369. Ierakstīt hipotēku zemes grāmatās var tikai tajā zemes grāmatu nodaļā, kuras pārziņas robežās atrodas nekustamais īpašums. Sīkāki noteikumi par hipotēkas ierakstīšanas kārtību zemes grāmatās atrodas Notariāta likumos.

@@ -1,0 +1,1 @@
+1296. Iepriekšējā (1295.), kā arī 1298. panta noteikumi nav piemērojami kustamām lietām, kas nodotas kreditoram kā rokas ķīla. Tādas lietas, ja vien kreditors nav rīkojies ļaunticīgi, atbild viņam visā savā sastāvā, kaut arī viņam tās būtu ieķīlājis tikai viens pats kopīpašnieks, bez pārējo piekrišanas.

@@ -1,0 +1,1 @@
+1063. Lieta atdodama tās īpašniekam bez atlīdzības; pat labticīgam valdītājam nav tiesības prasīt, lai īpašnieks atlīdzina par šo lietu samaksāto summu, bet viņš var ar šo prasījumu griezties tikai pie tās personas, no kuras viņš to ieguvis.

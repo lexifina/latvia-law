@@ -1,0 +1,1 @@
+981. Ja diviem īpašniekiem piederošas kustamas lietas viens no viņiem savieno bez otra ziņas un gribas un ja ir iespējams tās atkal atdalīt un atjaunot agrākā veidā, tas izdarāms uz vainīgā rēķinu un tam neseko nekādas pārgrozības īpašuma tiesībās.

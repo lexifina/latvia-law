@@ -1,0 +1,1 @@
+1360. Ja ķīlas ņēmējs pieņem kādu citu parādnieka piedāvātu nodrošinājumu, lai tas būtu ķīla vai galvojums, tad šī pieņemšana pati par sevi nav uzskatāma par atteikšanos no agrākās ķīlas tiesības, ja vien atteikšanās nav tieši izteikta vai no lietas apstākļiem neapšaubāmi secināma.

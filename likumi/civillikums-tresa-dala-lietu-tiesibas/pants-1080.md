@@ -1,0 +1,1 @@
+1080. Ar līgumu var aizliegt lietu atsavināt tikai tad, kad tam, kam par labu šis aprobežojums noteikts, ir pie tam kāda interese. Bet arī tad pretēja darbība dod cietušajam tikai tiesību prasīt atlīdzību, bet pats atsavinājums paliek spēkā.

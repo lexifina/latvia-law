@@ -1,0 +1,3 @@
+962. Ja upe atstāj savu agrāko gultni un ņem jaunu virzienu, tad tās atstātā gultne pieder tiem, kam pieder zeme gar krastu, samērā ar to, cik tālu katra zeme stiepjas gar krastu un upes gultnes vidus līniju starp abiem krastiem normālā ūdensstāvoklī.
+Atstātās gultnes īpašniekiem ir tiesība viena gada laikā pēc notikušām pārmaiņām uzsākt darbus uz savu rēķinu agrākā stāvokļa atjaunošanai.
+Šā panta pirmās daļas noteikums piemērojams arī tad, kad upe atgriežas agrākā gultnē: tās atstātā jaunā gultne pieder tiem, kuru zemes tai piekļaujas, samērā ar to, cik tālu šīs zemes stiepjas gar krastu, un neatkarīgi no tam, kam šī gultne agrāk piederējusi.

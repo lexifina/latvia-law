@@ -1,0 +1,1 @@
+1115. Ezeros, kas uzskaitīti šim pantam pieliktā sarakstā (II pielik.), zvejas tiesība visā to platībā, neatkarīgi no 1105. pantā noteiktām ezeru robežām, pieder vienīgi valstij, izņemot sarakstā norādītās daļas.

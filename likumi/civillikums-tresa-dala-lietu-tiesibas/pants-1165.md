@@ -1,0 +1,1 @@
+1165. Ja ūdensvada virziens, servitūtu nodibinot, nav sīkāki noteikts, tad šā virziena izvēle notiek pēc 1159. panta noteikumiem. Tomēr aizliegts virzīt ūdensvadus caur tādām vietām, kurās servitūta nodibināšanas laikā atrodas ēkas, koki vai dārzi.

@@ -1,0 +1,1 @@
+1002. Ja atsavināšana aizliegta vienīgi ar attiecīgas varas vai privātpersonas rīkojumu, tad tādi aizliegumi novērš ieilgumu tikai tajā gadījumā, kad tie attiecas uz nekustamām lietām un ir ierakstīti zemes grāmatās.

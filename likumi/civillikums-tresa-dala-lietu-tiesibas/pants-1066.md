@@ -1,0 +1,1 @@
+1066. Ja lietu, kas nodota izstrādāt vai pārvadāt, izstrādātājs vai pārvadātājs pārdod, ieķīlā vai vispār atsavina citai personai, tad īpašnieks var celt īpašuma prasību, samaksājot tai personai, kuras rokās tā atrodas, par tās izstrādāšanu vai pārvadāšanu nolīgto summu.

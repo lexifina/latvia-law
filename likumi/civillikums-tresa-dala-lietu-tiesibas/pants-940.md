@@ -1,0 +1,1 @@
+940. Kustamas lietas, kas vēl nav atradušās neviena īpašumā, kļūst par tā īpašumu, kas tās atradis un ņēmis savā varā. Piezīme. Zemes īpašniekam piešķirtā aizlieguma tiesība (935.p. 2. d.) attiecas arī uz šo gadījumu.

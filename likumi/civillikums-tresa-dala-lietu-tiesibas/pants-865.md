@@ -1,0 +1,1 @@
+865. Kādai lietai taisītie izdevumi ir vai nu nepieciešami, ar kuriem pašu tās būtību uztur vai aizsargā no pilnīgas bojā ejas, sabrukuma vai izpostījuma, vai derīgi, kas uzlabo lietu, un proti, pavairo ienākumu no tās, vai, beidzot, greznuma izdevumi, kas padara to tikai ērtāku, patīkamāku vai daiļāku.

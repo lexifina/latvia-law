@@ -1,0 +1,1 @@
+978. Kas, nebūdams nomnieks, lietotājs u. t. t., apsēj vai apstāda svešu zemi, tas, ja viņš to izdarījis labticīgi, var prasīt, lai zemes īpašnieks viņam atlīdzina nepieciešamos un derīgos izdevumus, kādus viņš taisījis augļu iegūšanai.

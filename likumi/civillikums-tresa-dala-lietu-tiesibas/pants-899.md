@@ -1,0 +1,1 @@
+899. Mājas kustoņu valdījums izbeidzas, kad tie nomaldās un vairs neatgriežas, meža dzīvnieku - kad tie no valdītāja rokām izsprūk brīvībā, bet pieradinātu dzīvnieku - kad tie atmet paradumu atgriezties mājās.

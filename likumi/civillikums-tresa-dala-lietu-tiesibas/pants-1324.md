@@ -1,0 +1,1 @@
+1324. Ja ķīlu, iekam nolīdzināts ar to nodrošinātais prasījums, apstrīd citi kreditori, atsaukdamies uz lielākām tiesībām uz to, tad ķīlas ņēmējs var prasīt no parādnieka, lai tas aizstāv apstrīdēto ķīlas tiesību un atlīdzina viņam nodarītos zaudējumus un izdevumus.

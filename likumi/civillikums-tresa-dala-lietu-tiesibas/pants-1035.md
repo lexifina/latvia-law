@@ -1,0 +1,1 @@
+1035. Ja kāds zaudējis tās personīgās īpašības, kas nepieciešamas zināma nekustama īpašuma iegūšanai, tad šā apstākļa dēļ viņš, kā arī viņa likumiskie mantinieki nezaudē viņiem jau piederošo nekustamo īpašumu.

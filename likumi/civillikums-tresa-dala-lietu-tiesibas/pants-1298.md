@@ -1,0 +1,1 @@
+1298. Ja kopīpašnieka domājamā daļa no kopējas lietas, to ieķīlājot, vēl nav bijusi noteikta, tad ķīlas tiesība gan attiecas uz visām šās lietas daļām, bet lietu sadalot aprobežojas tikai ar viņa daļu.

@@ -1,0 +1,1 @@
+980. Ja vairāku īpašnieku kustamas lietas kaut kādā kārtā, vai nu viņiem savstarpēji vienojoties, vai nejauši, tiek savā starpā savienotas un ja dalībnieku starpā nav sevišķas norunas, tad šādā kārtā radusies jaunā lieta ir viņu visu kopīpašums domājamās daļās, kuras atbilst katras atsevišķās savienotās lietas vērtībai.

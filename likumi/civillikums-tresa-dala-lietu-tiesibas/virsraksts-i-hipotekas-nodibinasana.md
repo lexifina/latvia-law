@@ -1,0 +1,1 @@
+I. Hipotēkas nodibināšana

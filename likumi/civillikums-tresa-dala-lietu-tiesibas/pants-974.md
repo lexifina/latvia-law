@@ -1,0 +1,1 @@
+974. Koks, kas aug uz vairāku zemju robežas, pieder kopīgi tiem kaimiņiem, no kuru zemes tas izaug, katram samērā ar to, cik tas stāv vai izstiepj savus zarus virs viņa zemes. Bet kad, atdalot tādu koku no zemes, nav iespējams noteikt tā daļu agrāko attiecīgo piederību, tad tas pieder visiem minētiem kaimiņiem vienādās domājamās daļās.

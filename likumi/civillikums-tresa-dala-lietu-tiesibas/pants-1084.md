@@ -1,0 +1,3 @@
+1084. Katram būves īpašniekam, lai aizsargātu sabiedrisko drošību, jātur sava būve tādā stāvoklī, ka no tās nevar rasties kaitējums ne kaimiņiem, ne garāmgājējiem, ne arī tās lietotājiem.
+Ja par būvi, no kuras draud briesmas, pastāv īpašuma tiesības strīds, tad šo briesmu novēršanai nepieciešamie soļi tūliņ un vēl pirms prāvas beigām jāsper tam, kas šo būvi tajā brīdī valda, ar tiesību vēlāk prasīt izdevumu atlīdzību.
+Ja būves īpašnieks vai valdītājs, pretēji attiecīgās varas pieprasījumam, nenovērš draudošās briesmas, tad attiecīgai iestādei, raugoties pēc apstākļiem, būve jāsaved kārtībā vai arī pavisam jānojauc uz īpašnieka rēķinu.

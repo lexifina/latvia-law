@@ -1,0 +1,1 @@
+1103. Publisko ūdeņu sarakstu var grozīt vienīgi likumdošanas ceļā. Ja ieskaitot privātus ūdeņus publiskos, vai atsavinot nekustama īpašuma daļas, vai ierobežojot pastāvošās ietaises, kādai personai nodarītu zaudējumus, tad viņai pienākas samērīga atlīdzība no valsts.

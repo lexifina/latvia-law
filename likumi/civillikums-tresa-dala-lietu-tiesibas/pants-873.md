@@ -1,0 +1,1 @@
+873. Ar personīgām tieksmēm pamatotā vērtība atkarājas no priekšrocības, kādu lietas valdītājs tai piešķir vai nu tās īpatnību dēļ, vai savu sevišķo attiecību dēļ pret to, neatkarīgi no labuma, kādu tā dod pati par sevi.

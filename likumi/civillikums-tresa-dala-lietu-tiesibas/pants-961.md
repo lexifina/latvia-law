@@ -1,0 +1,2 @@
+961. Sala, kas radusies ezerā vai upē un cieši savienota ar ezera vai upes gultni, pieder tam, kam pieder ezers vai upe vai attiecīga ezera vai upes daļa.
+Cik liels salas gabals pieder katram no privātas upes pretējo piekrastu īpašniekiem, to noteic līnija, kas velkama gareniski pa upes vidu starp abu krastu ūdenslīnijām normālā ūdensstāvoklī. Ja sala nestiepjas šai līnijai pāri, tad viņa visa pieder tuvākā krasta īpašniekiem, bet ja līnija iet pār salu, tad tā uzskatāma par robežu, kas noteic pretējo piekrastu īpašniekiem piederošās daļas.

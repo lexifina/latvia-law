@@ -1,0 +1,1 @@
+1372. Ķīlas tiesību ierakstīšana zemes grāmatās pielaižama tikai ar ieķīlātāja piekrišanu, kuru viņš izteicis vai nu ķīlas tiesību nodibinot, vai vēlāk. Šis noteikums neattiecas uz tiem gadījumiem, kad ķīlas tiesību ieraksta uz tiesas sprieduma vai lēmuma pamata.

@@ -1,0 +1,2 @@
+Piektā apakšnodaļa
+Īpašuma aprobežojumi

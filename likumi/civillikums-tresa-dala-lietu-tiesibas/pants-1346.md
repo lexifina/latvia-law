@@ -1,0 +1,1 @@
+1346. Ja lietu, ko ķīlas ņēmējs saņēmis par rokas ķīlu labticīgi, viņam aiz kāda tiesiska iemesla atņem, vai ja tajā izrādās tādi būtiski trūkumi, kuri tās vērtību samazina tiktāl, ka šī vērtība nesasniedz ar to nodrošināmā prasījuma apmēru, tad ķīlas ņēmējam ir tiesība visu viņam no tam radušos zaudējumu atlīdzību prasīt no parādnieka.

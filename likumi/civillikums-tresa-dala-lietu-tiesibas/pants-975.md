@@ -1,0 +1,1 @@
+975. Koks, kas stāv pie pašas robežas, pieder tam, kura daļā stumbrs iznācis no zemes, kaut arī tā saknes stieptos kaimiņa īpašumā. Šim kaimiņam nav tiesības nocirst minētās saknes, bet ja tās dara viņa zemei zaudējumus, viņš var prasīt no koka īpašnieka atlīdzību.

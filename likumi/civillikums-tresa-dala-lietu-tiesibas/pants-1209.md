@@ -1,0 +1,1 @@
+1209. Ēkas lietotājs var arī izdarīt tajā visādus uzlabojumus, ja vien ēka paliek, kā visumā, tā atsevišķās daļās, pēc sava veida un pirmējā rakstura tāda pati kā bijusi. Tādēļ šiem uzlabojumiem jāaprobežojas vienīgi ar pastāvošā uzturēšanu un tādiem izdaiļojumiem, kas nekļūst par pašas ēkas daļu un ko arvien var no tās atkal atdalīt.

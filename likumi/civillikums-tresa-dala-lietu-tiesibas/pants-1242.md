@@ -1,0 +1,1 @@
+1242. Servitūts, kas izbeidzies ar kalpojošā vai valdošā nekustamā īpašuma bojā eju, atkal atjaunojas, ja atjauno šo nekustamo īpašumu, kaut arī līdz tam jau būtu notecējis laiks, kurā servitūts izbeidzas ar noilgumu.

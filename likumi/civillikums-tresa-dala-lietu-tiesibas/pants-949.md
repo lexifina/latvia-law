@@ -1,0 +1,1 @@
+949. Ja sešu mēnešu laikā no policijas sludinājuma dienas īpašnieks neierodas, tad atrastā lieta vai to pārdodot ieņemtā nauda (946. p.) pāriet atradēja īpašumā, uzliekot viņam tomēr lietas uzglabāšanas un citus izdevumus.

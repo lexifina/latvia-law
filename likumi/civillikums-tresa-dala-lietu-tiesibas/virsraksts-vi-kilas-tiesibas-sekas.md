@@ -1,0 +1,1 @@
+VI. Ķīlas tiesības sekas

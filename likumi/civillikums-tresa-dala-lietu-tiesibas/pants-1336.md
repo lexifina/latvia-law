@@ -1,0 +1,1 @@
+1336. Ja tādā gadījumā (1335. p.) parādnieks noliktā laikā nesamaksā, ķīlas ņēmējam ir tiesība vai nu prasīt apmierinājumu no trešās personas, kas parādā viņa parādniekam, vai prasījumu cedējot pārdot citam.

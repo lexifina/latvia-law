@@ -1,0 +1,1 @@
+1081. Ja īpašnieka rīcība par nekustamu īpašumu aprobežota ar tiesas lēmumu vai ar līguma vai testamenta noteikumu, tad šis aizliegums ir spēkā pret trešām personām tikai tad, kad tas ierakstīts zemes grāmatās.

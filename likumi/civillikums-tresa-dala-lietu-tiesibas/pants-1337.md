@@ -1,0 +1,1 @@
+1337. Kreditors, kas saņēmis ķīlā parāda prasījumu (1335. p.) un kam nodots šā prasījuma dokuments, iegūst uz šo prasījumu rokas ķīlas ņēmēja tiesības. Šādā gadījumā, nesaņemot termiņā savus procentus, viņš, ja nav norunāts citādi, ņem tos, kas nākas par viņam ieķīlāto prasījumu, un saņēmis no tiem sev apmierinājumu, atdod pārpalikumu savam parādniekam.

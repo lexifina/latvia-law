@@ -1,0 +1,1 @@
+1398. Pēc tam, kad izpirkuma tiesība jau pieteikta, līguma dalībnieki nevar vairs uzsākt neko tādu, kas nepielaistu šo tiesību; viņi nevar arī atcelt atsavinājuma līgumu, kaut arī nodošana vēl nebūtu notikusi.

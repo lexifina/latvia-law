@@ -1,0 +1,1 @@
+1288. Ja kreditors pēc nāves atstāj vairākus mantiniekus, tad katrs no tiem var izlietot mantojuma atstājēja nodibināto ķīlas tiesību pilnā apmērā, bet prasīt samaksu no parādnieka var tikai par savu mantojuma daļu.

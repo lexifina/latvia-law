@@ -1,0 +1,1 @@
+903. Valdījumu var zaudēt arī par labu valdītāja vietniekam pašam; bet valdījumu nezaudē ar to vien, ka vietnieks tikai izteic savu gribu, bet ir vēl vajadzīga viņa fiziska darbība, kas parādās attiecībā pret kustamām lietām - to noslēpšanā piesavināšanās nolūkā, bet attiecībā pret nekustamām - agrākā valdītāja vardarbīgā izstumšanā.

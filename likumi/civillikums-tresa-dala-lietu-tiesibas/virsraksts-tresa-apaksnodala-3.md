@@ -1,0 +1,2 @@
+Trešā apakšnodaļa
+Īpašuma izbeigšanās

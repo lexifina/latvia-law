@@ -1,0 +1,1 @@
+1194. No lietojuma tiesības izrietošās tiesiskās attiecības noteic vispirms katram atsevišķam gadījumam paredzētie noteikumi, tā ka tās nodibinātājs var šo tiesību visādi aprobežot un pārgrozīt, ja vien tas nerunā pretim lietojuma būtībai. Ja tādu atsevišķu noteikumu nav, tad piemērojami sekojošo pantu noteikumi.

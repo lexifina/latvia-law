@@ -1,0 +1,2 @@
+1394. Izpircējs stājas tiesiskās attiecībās ar atsavinātāju tikai tad, kad ieguvējs viņam atdevis visas savas tiesības un viņš ar to pilnīgi ieņēmis ieguvēja vietu.
+Ja atsavinātājam bijis pienākums pirms nekustamā īpašuma atsavinājuma piedāvāt to pirkšanai tai personai, kurai pieder izpirkuma tiesība, un viņš to nav darījis, tad izpircējs var prasīt, lai tas atlīdzina zaudējumus, kādi viņam no tam radušies.

@@ -1,0 +1,1 @@
+928. Kaut gan īpašums var kā pēc privātas gribas, tā arī pēc likuma būt dažādi aprobežots, tomēr visi šādi aprobežojumi iztulkojami to šaurākā nozīmē, un šaubu gadījumā arvien pieņemams, ka īpašums ir neaprobežots.

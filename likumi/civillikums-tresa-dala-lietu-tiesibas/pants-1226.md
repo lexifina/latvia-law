@@ -1,0 +1,1 @@
+1226. Ja lietojuma priekšmets ir pienākošies kapitāli vai citādi prasījumi, tad lietotājam pieder tiesība nevien saņemt ienākumus no prasījuma, bet arī atprasīt pašu kapitālu, kad tam pienācis termiņš.

@@ -1,0 +1,1 @@
+1030. Kas savu īpašuma iegūšanu pamato ar ieilgumu, tam jāpierāda kā valdījums, tā arī tā turpināšanās pa visu vajadzīgo laiku. Bet ja viņš pierāda sava valdījuma sākumu un tā turpināšanos ieilgumam notekot, tad jāpieņem, ka valdījums nepārtraukti turpinājies arī pa starplaiku.

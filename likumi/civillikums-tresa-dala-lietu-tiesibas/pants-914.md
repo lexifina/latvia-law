@@ -1,0 +1,1 @@
+914. Valdījums ir traucēts, kad kāds mēģina piesavināties lietu, vai tās daļu, vai tiesību, vai kavē valdītāju izlietot viņa valdījumu, kas notiek arī ar draudiem, kuri var modināt viņā dibinātas bažas.

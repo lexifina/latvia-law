@@ -1,0 +1,1 @@
+1211. Kustamas lietas lietotājs nevar to pārgrozīt vai izlietot neatbilstoši tās uzdevumam; bet uzlabot un izdaiļot šo lietu viņš var tikai tādā mērā, ciktāl ar to nepārgrozās tās raksturs un pirmējais uzdevums.

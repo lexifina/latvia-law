@@ -1,0 +1,1 @@
+967. 962. un 965. pantā norādītos gadījumos zaudējuma cietējam nav tiesības ne uz kādu atlīdzību. Turpretim 966. pantā paredzētā gadījumā pēc tam, kad starp norauto zemes gabalu un svešo zemi nodibinājies ciešs savienojums, agrākam īpašniekam divu gadu laikā ir tiesība prasīt no jaunā īpašnieka atlīdzību samērā ar to, par cik pēdējais ar šo pieaugumu iedzīvojies.

@@ -1,0 +1,2 @@
+844. Ķermeniskas lietas ir vai nu atvietojamas, vai neatvietojamas. Atvietojamās ir tās, kurām parasti ievēro vienīgi šķiru, bet ne veidu, ne arī atsevišķu lietu par sevi, tā ka tās piegādājot vai dodot atpakaļ jāraugās tikai, lai tās būtu noteiktas šķiras un labuma un tajā pašā daudzumā. Še pieder visas tās lietas, ko noteic ar skaitu, mēru un svaru.
+Pēc privātas gribas atvietojamības raksturu var piešķirt arī būtiski neatvietojamām lietām, t. i. atsevišķiem noteiktiem priekšmetiem, un otrādi.

@@ -1,0 +1,1 @@
+922. Valdījuma vardarbīgs atņēmējs, izņemot 917. panta pirmā teikumā minēto gadījumu, nevar atsaukties uz to, ka valdītājs, pret kuru viņš izdarījis prettiesīgo darbību, pats valdījis prettiesīgi. Valdījums, kura tiesīgumu apstrīd, ir aizsargājams līdz tam laikam, kamēr nav pierādīts un tiesa nav atzinusi, ka tam pretim stādāmā tiesība ir lielāka.

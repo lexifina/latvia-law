@@ -1,0 +1,2 @@
+1314. Ieķīlātās lietas pārdevums, ko tiesīgi izdarījis ķīlas ņēmējs, izbeidz nevien viņa paša, bet arī visu viņam sekojošo kreditoru ķīlas tiesības uz šo lietu; bet kā viņam pašam, tā arī pārējiem kreditoriem, kamēr tie nav apmierināti, paliek ķīlas tiesība uz lietas pārdošanā ieņemto summu, ciktāl tā vajadzīga viņu apmierināšanai.
+Ja jau izdarītu ieķīlātas lietas pārdevumu atkal atceļ, tad parādnieks patur savu īpašuma tiesību, bet ķīlas ņēmējs - savu ķīlas tiesību uz lietu.

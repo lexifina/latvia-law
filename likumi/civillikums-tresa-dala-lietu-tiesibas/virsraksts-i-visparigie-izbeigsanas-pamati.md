@@ -1,0 +1,1 @@
+I. Vispārīgie izbeigšanās pamati

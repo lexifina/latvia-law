@@ -1,0 +1,1 @@
+1308. Bāriņtiesa var prasīt, lai ieraksta zemes grāmatās atzīmes uz aizbildņu un vecāku, kā savu bērnu aizbildņu (191. un 224. p.), nekustamu īpašumu, to prasījumu nodrošināšanai, kādi var rasties pārvaldot aizbilstamo personu mantu. Bāriņtiesas lēmumos jānoteic summa, līdz kādai nodrošinājums sniedzas.
