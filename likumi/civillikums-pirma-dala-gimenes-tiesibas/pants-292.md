@@ -1,0 +1,1 @@
+292. Nepilngadīgā mantots tirdzniecības, rūpniecības vai kāds cits uzņēmums aizbildnim jāturpina uz nepilngadīgā rēķina, ja vien tāda turpināšana nav saistīta ar risku vai tai nestāv ceļā kādi šķēršļi. Jautājums par uzņēmuma turpināšanu vai izbeigšanu jāizšķir bāriņtiesai.

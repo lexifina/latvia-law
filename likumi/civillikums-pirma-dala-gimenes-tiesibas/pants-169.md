@@ -1,0 +1,5 @@
+169. Ir nepieciešams, lai adopcijai dod savu piekrišanu visi tās dalībnieki, t. i., adoptētājs un pats adoptējamais, ja pēdējais nav jaunāks par divpadsmit gadiem, un bez tam, kamēr viņš nav vēl sasniedzis pilngadību, ari viņa vecāki vai aizbildņi; aizgādnībā esošas personas adopcijai nepieciešama aizgādņa piekrišana. Laulībā esošas personas adopcijai nepieciešama viņa laulātā piekrišana.
+Tiesa var atsvabināt puses no šīs piekrišanas apliecinājuma, ja pēc faktiskajiem apstākļiem tas izrādās neiespējams kāda pastāvīga šķēršļa dēļ vai arī ja nav zināma to personu dzīvesvieta, kuru piekrišana vajadzīga.
+ja vecāku vara pieder tikai vienam no vecākiem un otrs bez svarīga iemesla liedzas dot atļauju adoptēt, atļauju var dot adoptējamā dzīvesvietas bāriņtiesa.
+Visu nepilngadīgo adopcijai ir nepieciešams bāriņtiesas atzinums, ka adopcija nenāks adoptējamam par ļaunu.
+Pēc ārvalstīs dzīvojošu personu lūguma nepilngadīgo var adoptēt ar tieslietu ministra iepriekšēju atļauju un tikai gadījumos, ja Latvijā nav iespējams nodrošināt bērna audzināšanu ģimenē un pienācīgu aprūpi.

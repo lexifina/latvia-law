@@ -1,0 +1,2 @@
+377. Pazudušo tiesa izsludina par mirušu pēc ieinteresētu personu, bet, ja tādu nav, - pēc viņa mantas aizgādņa vai prokurora lūguma, kuru var iesniegt, tiklīdz notecējuši desmit gadi no tā gada beigām, kad par pazudušo saņemtas pēdējās ziņas.
+Ja pazudušais, kad saņemtas pēdējās ziņas par viņu, bijis sasniedzis septiņdesmit gadu vecumu, tad jau pēc pieciem gadiem no šo ziņu saņemšanas var lūgt izsludināt viņu par mirušu.

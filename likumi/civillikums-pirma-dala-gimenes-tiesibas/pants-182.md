@@ -1,0 +1,1 @@
+182. Katrs no vecākiem var satikties ar bērniem, kas atstāti pie otra, izņemot gadījumus, kad satikšanās kaitē bērnam. Šīs tiesības izlietošanas veidu un laiku, ja vecāki par to nevienojas, noteic bāriņtiesa. Ja tās lēmumu nepilda, strīdu izšķir tiesa.

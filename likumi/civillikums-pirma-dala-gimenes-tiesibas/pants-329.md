@@ -1,0 +1,1 @@
+329. Ja bez aizbildņiem, kam uzlikta visa aizbildnība, ieceļ vēl īpašu aizbildni kādai atsevišķai darbībai (226., 267., 268. p.) vai tāda nekustamā īpašuma pārvaldībai, kurš atrodas tālumā, tad šis aizbildnis rīkojas atsevišķi no citiem un viens pats atbild par visu savu darbību un nolaidību.

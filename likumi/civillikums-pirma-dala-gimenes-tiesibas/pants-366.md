@@ -1,0 +1,1 @@
+366. Nodibinot aizgādnību, tiesa atņem iepriekšējā (365.) pantā minētajai personai pārvaldību un rīcību pār viņas mantu un uzdod attiecīgajai bāriņtiesai nodot šo pārvaldību vienam vai vairākiem aizgādņiem.

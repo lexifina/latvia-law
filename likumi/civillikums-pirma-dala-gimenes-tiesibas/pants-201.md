@@ -1,0 +1,1 @@
+201. Ja nepilngadīgais dodas laulībā, vecāki zaudē tiesību pārstāvēt savu nepilngadīgo bērnu un pārvaldīt viņa nebrīvo mantu (190. p.). Ja šādu laulību šķir vai atzīst par neesošu, vecāku tiesības pārvaldīt nebrīvo mantu neatjaunojas.

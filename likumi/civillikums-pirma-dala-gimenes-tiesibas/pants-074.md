@@ -1,0 +1,1 @@
+74. Laulātais var prasīt laulības šķiršanu, ja otrs laulātais izdarījis noziedzīgu nodarījumu, kas aptraipa godu, vai ari tik negodīgi vai netikli dzīvo, ka nevar prasīt laulības kopdzīves turpināšanu ar viņu.

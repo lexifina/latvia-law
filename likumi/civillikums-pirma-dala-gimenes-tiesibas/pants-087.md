@@ -1,0 +1,2 @@
+87. Laulātajiem neatkarīgi no viņu mantiskajām attiecībām ir tiesība mājas saimniecības ietvaros atvietot vienam otru. Darījumi, ko viens laulātais noslēdzis šīs darbības ietvaros, atzīstami par noslēgtiem arī otra laulātā vārdā, ja no lietas apstākļiem nav redzams pretējais.
+Ja ir svarīgi iemesli, viens laulātais var šo otra laulātā tiesību aprobežot vai atņemt, bet pret trešajām personām šāds aprobežojums vai atņēmums ir spēkā tikai tad, ja tām par to bijis paziņots vai arī ja tas ierakstīts laulāto mantisko attiecību reģistrā (140. p.).

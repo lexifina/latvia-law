@@ -1,0 +1,1 @@
+376. Ja saņemtas drošas ziņas par promesošā nāvi, viņa manta pakļaujama vispārējiem noteikumiem par mantošanu un nododama pēc saraksta un norēķina tai personai, kas promesošā nāves brīdī bijusi viņa tuvākais mantinieks.

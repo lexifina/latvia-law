@@ -1,0 +1,1 @@
+197. Par saistībām, ko noslēguši vecāku varai pakļautie nepilngadīgie bez vecāku ziņas un piekrišanas, vecāki neatbild, ja viņi paši nav no tā ieguvuši kādu labumu. Tāpat vecāki neatbild ar savu mantu arī par piedziņām par viņu bērnu izdarītu neatļautu darbību, izņemot likumā īpaši norādītos gadījumus.

@@ -1,0 +1,2 @@
+299. Ja aizbildnis ir spiests aizbilstamā lietās griezties pie citām personām pēc palīdzības, tad viņš atbild par šo personu darbību.
+Aizbildnim, izvēloties palīgus sava aizbilstamā nekustamā īpašuma pārvaldīšanai vai viņa uzņēmumu vešanai, jāraugās, lai šīs personas dotu pietiekamu nodrošinājumu. Ja tādu personu ar nodrošinājumu nav, aizbildnis var pieņemt sev palīgus arī bez nodrošinājuma, bet tikai ar bāriņtiesas atļauju un pēc tam, kad ievāktas ziņas par viņu uzticamību. Pretējā gadījumā aizbildnis atbild par palīgu darbību un nolaidību.

@@ -1,0 +1,1 @@
+369. Aizgādnība pār 365. pantā minēto personu turpinās līdz tam laikam, kamēr vairs nav šaubu, ka tā galīgi grozījusi savu dabu un dzīvesveidu, un kamēr to nav atzinusi tā pati tiesa, kas aizgādnību nodibinājusi.

@@ -1,0 +1,1 @@
+81. Pēc laulības šķiršanas tas no bijušajiem laulātajiem, kas ir trūcīgs, var prasīt uzturu (95. p. 3. d.) no otra samērā ar pēdējā līdzekļiem, izņemot gadījumu, kad viņš bez svarīga iemesla izvairās iegūt līdzekļus ar savu darbu.

@@ -1,0 +1,2 @@
+136. Ja viens no laulātajiem mirst, pārdzīvojušais laulātais paliek personīgi atbildīgs par visiem mantas kopībā ietilpstošās mantas parādiem neatkarīgi no mirušā laulātā mantinieku atbildības - uz vispārēja pamata.
+Pārdzīvojušais laulātais var aprobežot savu atbildību par minētās mantas parādiem ar to, ko viņš ieguvis no mirušā laulātā kā mantojumu, ievērojot noteikumus par mantojuma pieņemšanu ar inventāra tiesību.

@@ -1,0 +1,2 @@
+157. Ja ārlaulībā dzimuša bērna paternitāte nav atzīta ar pieteikumu dzimtsarakstu nodaļai (155. p.), paternitāti var noteikt tiesa, pieļaujot visus pierādījumu veidus, arī zinātniskus pierādījumus, ar kuriem iespējams pierādīt bērna izcelšanos no konkrētas personas vai izslēgt to.
+Par bērna tēvu tiesa var atzīt vīrieti, no kura bērns izcēlies. Pieņemams, ka bērns izcēlies no personas, kurai ar bērna māti bijuši miesīgi sakari bērna ieņemšanas laikā.

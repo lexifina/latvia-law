@@ -1,0 +1,1 @@
+283. Nepilngadīgā kustamo un nekustamo mantu var pārdot vai nu izsolē, vai paši aizbildņi par brīvām cenām, raugoties pēc tā, kā bāriņtiesa atzīst par izdevīgāku. Aizbildņi, viņu laulātie un bērni nekādā ziņā nedrīkst pirkt aizbilstamā mantu.

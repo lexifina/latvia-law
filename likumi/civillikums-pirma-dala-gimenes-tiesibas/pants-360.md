@@ -1,0 +1,1 @@
+360. Ja tiesa atzīst personu par rīcības nespējīgu gara slimības vai plānprātības dēļ, tā paziņo par to bāriņtiesai, kas pēc vajadzības ieceļ pār garā slimo vienu vai vairākus aizgādņus, kam uzdod viņa mantas pārvaldību un sevišķu gādību par viņa personu, neuzliekot tomēr aizgādņiem pienākumu pašiem kopt garā slimo.

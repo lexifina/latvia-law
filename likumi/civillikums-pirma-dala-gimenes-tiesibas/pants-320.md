@@ -1,0 +1,1 @@
+320. Ja zaudējumus, kas aizbilstamajam nodarīti ar līdzaizbildņu kopīgu darbību vai nolaidību, atlīdzinājis tikai viens no viņiem, tad viņam ir tiesība prasīt no pārējiem samērīgu piedalību šajā atlīdzinājumā. Ja kāds aizbildnis ir maksātnespējīgs, viņa daļa samērīgi sadalāma starp pārējiem.

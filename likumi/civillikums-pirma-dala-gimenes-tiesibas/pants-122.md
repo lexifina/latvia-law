@@ -1,0 +1,1 @@
+122. Ja viens laulātais atsavina vai ieķīlā otra laulātā kustamo lietu, persona, kas to saņēmusi, atzīstama par lietas labticīgu ieguvēju vai ķīlas ņēmēju, ja tā nav zinājusi vai tai nav vajadzējis zināt, ka lieta pieder otram laulātajam vai abiem laulātajiem un ka tā atsavināta vai ieķīlāta pret otra laulātā gribu.

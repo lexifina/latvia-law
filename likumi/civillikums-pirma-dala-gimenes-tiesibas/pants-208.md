@@ -1,0 +1,1 @@
+208. Radinieki sāņu līnijā ir tie, kas cēlušies no vienas kopējas trešās personas - ciltstēva vai ciltsmātes. Tādi radinieki ir brāļi un māsas, viņu bērni, tēva un mātes brāļi un māsas ar viņu lejupējiem, vectēva un vecmāmuļas brāļi un māsas ar lejupējiem utt.

@@ -1,0 +1,1 @@
+274. Kad kreditori uzzināti, aizbildnim jārūpējas, lai viņus apmierinātu pēc iespējas no mantojumā esošās skaidrās naudas vai no tīrajiem ienākumiem, kas paliek, atskaitot izdevumus vai arī ieskaitot abpusējus parādu prasījumus.

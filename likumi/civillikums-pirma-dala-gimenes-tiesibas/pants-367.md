@@ -1,0 +1,1 @@
+367. Mantas pārvaldības ziņā 365. pantā minētās personas pielīdzināmas nepilngadīgajiem. Atņemot tām mantas pārvaldību un rīcību, tām tomēr atļauta brīva rīcība ar tiem tīrajiem ienākumiem, kas paliek pēc visu ar mantas pārvaldību un ģimenes uzturu saistīto izdevumu segšanas.

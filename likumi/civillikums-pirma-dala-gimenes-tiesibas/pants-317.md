@@ -1,0 +1,1 @@
+317. Ja testamentā iecelts viens aizbildnis, bāriņtiesa pretēji viņa gribai var iecelt viņam līdzaizbildni tikai tad, kad tas tieši nerunā pretim testamentam, bet arī pēdējā gadījumā var iecelt līdzaizbildni, ja, to nedarot, nepilngadīgajam būtu paredzams ievērojams zaudējums.

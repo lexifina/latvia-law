@@ -1,0 +1,1 @@
+276. Aizbildnim ir tiesība ar bāriņtiesas piekrišanu noslēgt ar nepilngadīgā kreditoriem izlīgumus viņam par labu; bet, ja aizbildnis pats ir kreditors, viņam, izlietojot savu prasījumu, jāapmierinās ar tādiem pašiem nosacījumiem, kādi paredzēti pārējiem kreditoriem.

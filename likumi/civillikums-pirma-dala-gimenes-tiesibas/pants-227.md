@@ -1,0 +1,1 @@
+227. Ja laulātais, kas pārdzīvojis otru laulāto, dodas jaunā laulībā, viņš iepriekšējās laulības bērnu mantas pārvaldībā ir pakļauts vispārējiem noteikumiem par aizbildnību un viņam jāsastāda un jāiesniedz bāriņtiesai bērnu mantas saraksts un ik gadus - pārskats par savu pārvaldību.

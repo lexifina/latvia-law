@@ -1,0 +1,1 @@
+275. Ja ar iepriekšējā (274.) pantā norādītajiem līdzekļiem nav iespējams kreditorus apmierināt, aizbildnis var šim nolūkam ar bāriņtiesas piekrišanu noslēgt aizņēmumu, bet, kad tas nav iespējams, - pārdot nevajadzīgāko no nepilngadīgā mantas.

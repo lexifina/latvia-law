@@ -1,0 +1,3 @@
+258. Aizbilstamā uzturam var izlietot vienīgi nepieciešamo, sedzot patēriņu no viņa mantas ikgadīgiem ienākumiem un vispār samērojot ar tiem visus izdevumus, lai daļa no šiem ienākumiem, ja vien iespējams, katru gadu vēl ietaupītos. Šaubu gadījumos aizbildnis lūdz bāriņtiesas padomu, kura, raugoties pēc apstākļiem, sašaurina liekos izdevumus un cenšas atrast līdzekļus iztrūkuma segšanai.
+Spiedīgos gadījumos, īpaši ja aizbilstamais izrāda sevišķas spējas, ko ir lietderīgi attīstīt, audzināšanas izdevumu segšanai var izlietot arī daļu no viņa kapitāla, bet tikai ar bāriņtiesas piekrišanu.
+Ja trūkst aizbilstamā līdzekļu viņa uzturam, aizbildnim nav pienākums aizbilstamo uzturēt uz sava rēķina.

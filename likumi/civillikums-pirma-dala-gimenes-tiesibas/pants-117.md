@@ -1,0 +1,1 @@
+117. Ja laulības līgumā noteikta visas laulāto mantas šķirtība, katrs laulātais ne vien patur viņam pirms laulības piederējušo mantu, bet arī laulības laikā var to patstāvīgi iegūt, lietot un ar to rīkoties neatkarīgi no otra laulātā.

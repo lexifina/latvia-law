@@ -1,0 +1,1 @@
+194. Ja viens no vecākiem bērnu mantu pārvalda nekārtīgi, bāriņtiesa var uzlikt viņam par pienākumu sniegt norēķinos sīkas ziņas arī par izdevumiem bērnu uzturam (191. p.), pieprasīt pietiekamu bērnu mantas nodrošinājumu, kā arī atstādināt viņu no bērnu mantas pārvaldības, uzdodot to otram no vecākiem vai īpaši šim nolūkam ieceltam aizbildnim.

@@ -1,0 +1,2 @@
+146. Bērns, kas piedzimis sievietei pēc laulības noslēgšanas vai ne vēlāk kā 306. dienā pēc tam, kad laulība izbeigusies ar vīra nāvi vai laulības šķiršanu, ir uzskatāms par laulībā dzimušu.
+Bērns, kas piedzimis sievietei ne vēlāk kā 306. dienā pēc laulības izbeigšanas, ja sieviete jau ir stājusies jaunā laulībā, ir uzskatāms par dzimušu jaunajā laulībā. Sājos gadījumos bijušajam vīram vai viņa vecākiem ir tiesības apstrīdēt bērna izcelšanos (149. p.).

@@ -1,0 +1,1 @@
+190. Nepilngadīgo bērnu manta, izņemot 195. pantā minēto, atrodas vecāku pārvaldībā; ja viens no vecākiem mirst vai citu iemeslu dēļ nevar bērnu mantu pārvaldīt, to pārvalda otrs no vecākiem viens pats.

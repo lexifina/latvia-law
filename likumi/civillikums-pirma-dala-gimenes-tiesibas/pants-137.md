@@ -1,0 +1,1 @@
+137. Kad laulāto mantas kopība izbeidzas laulātajiem dzīviem esot, pēc parādu nolīdzināšanas varbūtējais mantas pārpalikums izdalāms starp laulātajiem uz pusēm, ja laulības līgumā nav noteikts citādi.

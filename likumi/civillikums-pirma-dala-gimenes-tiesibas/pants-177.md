@@ -1,0 +1,1 @@
+177. Līdz pilngadības (219. p:) sasniegšanai bērni atrodas vecāku varā. Laulības laikā abi vecāki izlieto šo varu kopīgi. Ja starp laulātajiem izceļas domstarpības, tās izšķir bāriņtiesa, ja likumā nav noteikts citādi.

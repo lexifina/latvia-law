@@ -1,0 +1,1 @@
+51. Ja laulājamie pieder pie ev.-luterāņu, Romas katoļu, pareizticīgo, vecticībnieku, metodistu, baptistu, septītās dienas adventistu vai Mozus ticīgo (judaistu) konfesijas un vēlas salaulāties pie savas konfesijas garīdznieka, kuram ir attiecīgās konfesijas vadības atļauja, izsludināšanu izdara pēc attiecīgās konfesijas noteikumiem.

@@ -1,0 +1,2 @@
+Ceturtā apakšnodaļa
+Vecāku vara

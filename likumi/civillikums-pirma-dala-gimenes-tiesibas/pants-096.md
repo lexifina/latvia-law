@@ -1,0 +1,2 @@
+96. Par saistībām, ko laulātie kopīgi noslēguši ģimenes vai kopīgās mājsaimniecības vajadzībām, viņi atbild ar kopīgo mantu un katrs ar savu atsevišķo mantu, ja kopīgās mantas nepietiek.
+Par saistībām, ko viens no laulātajiem noslēdzis ģimenes vai kopīgās mājsaimniecības vajadzībām, šis laulātais atbild ar savu mantu tad, ja laulāto kopīgās mantas nepietiek. Otrs laulātais par šīm saistībām ar savu mantu atbild tikai tad, ja pēc saistības saņemtais izlietots ģimenes vai kopīgās mājsaimniecības vajadzībām.

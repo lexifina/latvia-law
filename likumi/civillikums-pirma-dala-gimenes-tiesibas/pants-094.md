@@ -1,0 +1,4 @@
+94. Ja laulātā pārvaldīšanā atrodas otram laulātajam piederošas ēkas, viņam jāizdara ne vien nepieciešamie izlabojumi, bet arī uzlabojumi, ciktāl to pieļauj ienākumi no šā otra laulātā mantas.
+Viena laulātā nekustamo īpašumu otrs laulātais var iznomāt vai izīrēt uz laiku, ne ilgāku par trijiem gadiem un neierakstot līgumu zemes grāmatās; nauda noguldāma uz laulātā - īpašnieka vārda.
+Lai laulātais ar viņa pārvaldībā un lietošanā esošajām otra laulātā mantiskajām vērtībām varētu rīkoties tā, ka viņa rīcība pārsniegtu parastās pārvaldības un lietošanas robežas, viņam jāizprasa otra laulātā piekrišana.
+Trešo personu interesēs pieņemams, ja pretējais nav ierakstīts mantisko attiecību reģistrā, ka šāda piekrišana bijusi, izņemot gadījumus, kad trešās personas zinājušas vai tām vajadzēja zināt, ka piekrišanas nav bijis, vai kad manta, ar kuru viens laulātais rīkojies, ir tāda, kas acīmredzami pieder otram.

@@ -1,0 +1,1 @@
+200. Ja vecāki nelietīgi izlieto vecāku varu un ar bērniem apietas sevišķi slikti, tiesa var vainīgajam no vecākiem atņemt vecāku varu, atstājot bērnus otra varā, ka ari iecelt bērniem aizbildni, ja vara, ko izlieto otrs no vecākiem, nepietiekami aizsargā bērnus no vainīgā kaitīgā iespaida vai ja vainīgi abi vecāki.

@@ -1,0 +1,1 @@
+293. Aizbildnis var nepilngadīgā lietās un viņa interesēs noslēgt visādus līgumus, kā arī pieņemt un izdarīt maksājumus. Visa tāda darbība saista nepilngadīgo, ja vien aizbildnis to izdarījis labā ticībā, palikdams turklāt saimnieciskās pārvaldības ietvaros un nesaistīdams nepilngadīgo bez sevišķas vajadzības uz ilgāku laiku kā līdz viņa pilngadībai.

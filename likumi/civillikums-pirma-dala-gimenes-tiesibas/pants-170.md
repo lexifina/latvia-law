@@ -1,0 +1,1 @@
+170. Savu ārlaulības bērnu var adoptēt, neievērojot noteikumus par adoptētāja minimālo vecumu un par astoņpadsmit gadu starpību; šādai adopcijai nepieciešama tikai otra laulātā piekrišana, kā ari bērna mātes vai aizbildņa piekrišana uz vispārēja pamata.

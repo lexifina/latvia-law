@@ -1,0 +1,1 @@
+278. Aizbilstamajam piekritušās kustamās lietas, kas maitājas vai vispār kļūst nevērtīgākas un turklāt nav vajadzīgas viņam lietošanai, aizbildnim nekavējoties jāpārdod par iespējami izdevīgāku cenu, nelūdzot šim nolūkam īpašu atļauju, bet dodot bāriņtiesai norēķinu par pārdošanu un ieņemto naudu.

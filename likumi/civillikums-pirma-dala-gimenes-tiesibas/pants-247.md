@@ -1,0 +1,1 @@
+247. Kas labprātīgi uzņēmies aizbildņa amatu, lai gan viņam aiz kāda no 246. pantā minētajiem iemesliem bijusi tiesība atteikties no tā, tas nevar aiz tā paša iemesla vēlāk prasīt, lai viņu no aizbildņa amata atsvabina. Bet, ja kāds no šiem iemesliem rodas pēc tam, kad viņš jau uzņēmies minēto amatu, viņam ir tiesība lūgt, lai viņu no tā atsvabina.

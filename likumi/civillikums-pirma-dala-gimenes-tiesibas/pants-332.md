@@ -1,0 +1,2 @@
+332. Atklājot nekārtības, bāriņtiesa nekavējoties tās novērš, un, ja tā pēc līdzaizbildņu vai radinieku paziņojuma vai arī pēc pašas ieskata atzīst aizbildni par nepiemērotu, tā šo aizbildni atceļ un viņa vietā ieceļ citu.
+Ja bāriņtiesa uzsāk lietu izmeklēt, pa izmeklēšanas laiku aizdomās turamo aizbildni atstādina no amata un, ja vajadzīgs, sevišķi, kad nav līdzaizbildņu, atvieto līdz lietas nobeigumam ar pagaidu aizbildni.

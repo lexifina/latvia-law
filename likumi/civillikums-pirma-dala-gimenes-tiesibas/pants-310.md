@@ -1,0 +1,1 @@
+310. Ja persona, kas atstājusi nepilngadīgajam mantojumu, līdz ar to testamentā aizbildnim noteikusi zināmu atlīdzību, viņam vairs nav tiesības saņemt likumā noteikto atlīdzību (307. p.), ja vien testators nav tieši noteicis pretējo.

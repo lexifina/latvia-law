@@ -1,0 +1,1 @@
+328. Aizbildnim, kas dabū zināt, ka no līdzaizbildņa pārvaldības nepilngadīgajam draud izcelties zaudējums, jāpaziņo par to bāriņtiesai. Aizbildnis, kas šo pienākumu nav ievērojis, kopā ar vainīgo līdzaizbildni atbild par tā darbību vai nolaidību un nevar aizbildināties ar to, ka aizbildnība bijusi sadalīta.

@@ -1,0 +1,1 @@
+62. Par neesošu atzīstama laulība, kuras noslēgšanas laikā viens no laulātajiem bijis atzīts par rīcības nespējīgu gara slimības vai plānprātības dēļ vai arī bijis tādā stāvoklī, ka nav varējis saprast savas darbības nozīmi vai to vadīt.

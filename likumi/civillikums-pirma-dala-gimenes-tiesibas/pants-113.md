@@ -1,0 +1,1 @@
+113. Tiesības, kas pamatotas ar pūra solījumu, nevar atdot trešajām personām; šīs tiesības pāriet mantojuma ceļā tikai uz tās laulības bērniem, kuras noslēgšanas gadījumam pūra solījums dots, un uz vīru, kas palicis ar bērniem.

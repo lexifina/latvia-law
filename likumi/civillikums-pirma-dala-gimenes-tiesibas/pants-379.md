@@ -1,0 +1,1 @@
+379. Kad tiesa izsludinājusi pazudušo par mirušu, viņa manta, ja viņš nav atstājis testamentu, nododama tiem mantiniekiem, kas pieņemamā nāves dienā, ja tā noteikta tiesas lēmumā, vai, ja šo dienu nevar noteikt, lietas ierosināšanas brīdī bijuši viņa tuvākie radinieki vai laulātais.

@@ -1,0 +1,2 @@
+176. Ar adopcijas atcelšanu izbeidzas visas radniecības tiesiskās attiecības adoptētajam un viņa pēcnācējiem ar adoptētāju un viņa radiniekiem.
+Ar adopcijas atcelšanu tiek atjaunotas radniecības tiesiskās attiecības bērnam un viņa pēcnācējiem ar bērna miesīgajiem vecākiem un viņu radiniekiem. Atceļot nepilngadīgā bērna adopciju, tiesa lemj par to, kas turpmāk realizēs vecāku varu pār nepilngadīgo.

@@ -1,0 +1,1 @@
+365. Pār personām, kas, izlaidīgi vai izšķērdīgi dzīvojot, kā arī alkohola vai narkotiku pārmērīgas lietošanas dēļ draud novest sevi vai savu ģimeni trūkumā vai nabadzībā, tiesa pēc radinieku vai piederīgo lūguma vai prokurora priekšlikuma var nodibināt aizgādnību.
