@@ -1,1 +1,1 @@
-Rīgā 1990. gada 23. oktobrī
+Rīgā 1992. gada 15. janvārī

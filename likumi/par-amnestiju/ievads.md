@@ -1,19 +1,21 @@
-Latvijas Republikas Augstākā Padome saskaņā ar Konstitūcijas 97. panta 26. punktu nolemj:
+Latvijas Republikas Augstākā Padome nolemj:
 1. Atbrīvot no soda:
-1) nepilngadīgos,
-2) sievietes,
-3) I un II grupas invalīdus,
-4) vīriešus, kuri vecāki par 60 gadiem,
-ja šajā pantā minētās personas pirmoreiz notiesātas par noziegumiem, kuri nav smagi, un ja tās nav izdarījušas noziegumus, par kuriem saskaņā ar šā likuma 6. pantu amnestija nav piemērojama.
-2. Atbrīvot no soda vīriešus, kas pirmoreiz notiesāti par noziegumiem (izņemot šā likuma 6. pantā norādītos), kuri izdarīti:
-1) aiz neuzmanības un par kuriem viņi sodīti ar brīvības atņemšanu uz laiku līdz pieciem gadiem ieskaitot vai ar citiem vieglākiem soda veidiem;
-2) ar nodomu (tīši), bet nav smagi, ja viņi par šiem noziegumiem sodīti ar brīvības atņemšanu uz laiku līdz trim gadiem ieskaitot vai ar citiem vieglākiem soda veidiem.
-3. Atbrīvot no soda izciešanas personas, kuras pirmoreiz notiesātas par Latvijas PSR kriminālkodeksa 83. panta 1. daļā paredzētajiem noziegumiem.
-4. Samazināt uz pusi atlikušo soda daļu grūtniecēm un sievietēm, kuru audzināšanā atrodas bērni līdz 15 gadu vecumam un kuras sodītas ar brīvības atņemšanu par valsts vai sabiedriskās mantas izlaupīšanu lielos vai sevišķi lielos apmēros, piesavinoties, izšķērdējot vai ļaunprātīgi izmantojot dienesta stāvokli (Latvijas PSR kriminālkodeksa 88. panta trešā daļa un 89.1 pants).
-5. Šis likums neattiecas uz papildsodiem.
-6. Nepiemērot amnestiju šā likuma 1. un 2. pantā minētajām personām:
-1) kuras izdarījušas noziegumus, kas paredzēti Latvijas PSR kriminālkodeksa 85. panta otrajā un trešajā daļā, 89. panta otrajā daļā, 91., 100., 101., 118., 121.1, 123. pantā un 124. panta otrajā daļā, 139. panta otrajā, trešajā un ceturtajā daļā, 143. pantā, 184.1 panta otrajā daļā, 197. panta otrajā un trešajā daļā, 207. panta otrajā daļā, 208. un 210. pantā, 218. panta pirmajā daļā, 222.3-222.7 pantā;
-2) kuras izdarījušas transporta līdzekļu kustības drošības noteikumu un ekspluatācijas noteikumu pārkāpšanu, vadot transporta līdzekli dzērumā (Latvijas PSR kriminālkodeksa 213. pants);
-3) kuras ļaunprātīgi pārkāpušas režīmu soda izciešanas laikā.
-7. Amnestija notiesātajiem ar brīvības atņemšanu, kuri nav izgājuši venerisko slimību ārstēšanas pilnu kursu, tiek piemērota tikai pēc attiecīgā ārstēšanas kursa pabeigšanas.
-8. Likums stājas spēkā ar tā pieņemšanas dienu, tas jāizpilda četru mēnešu laikā un tiek piemērots personām, kuras izdarījušas noziegumus Latvijas teritorijā līdz šā likuma pieņemšanas dienai.
+1) I un II grupas invalīdus;
+2) sievietes, kuras vecākas par 55 gadiem;
+3) vīriešus, kuri vecāki par 60 gadiem.
+2. Atbrīvot no soda grūtnieces un sievietes, kuru audzināšanā atrodas bērni līdz 18 gadu vecumam, ja tās pirmo reizi notiesātas ar brīvības atņemšanu uz laiku līdz 5 gadiem ieskaitot vai ar citiem vieglākiem soda veidiem.
+3. Atbrīvot no soda personas, kuras izdarījušas noziegumus līdz 18 gadu vecuma sasniegšanai un notiesātas ar brīvības atņemšanu uz laiku līdz 5 gadiem ieskaitot vai ar citiem vieglākiem soda veidiem par noziegumiem, kas nav smagi.
+4. Samazināt uz pusi atlikušo soda dalu personām:
+1) kuras izdarījušas noziegumus līdz 18 gadu vecuma sasniegšanai un pirmo reizi notiesātas ar brīvības atņemšanu uz laiku līdz 5 gadiem, ieskaitot par smagiem noziegumiem;
+2) kuras izdarījušas noziegumus līdz 18 gadu vecuma sasniegšanai un pirmo reizi notiesātas ar brīvības atņemšanu uz laiku virs 5 gadiem par noziegumiem, kas nav smagi;
+3) kuras izcieš sodu par noziegumiem, kas izdarīti aiz neuzmanības;
+4) kuras pirmo reizi notiesātas ar brīvības atņemšanu uz laiku līdz 5 gadiem ieskaitot.
+5. Samazināt par trešdaļu atlikušo soda daļu personām, kuras izcieš sodu par noziegumiem, ja tas sodītas ar brīvības atņemšanu ne vairāk kā divas reizes, kā ari personām, kuras minētas šā likuma 1. pantā un nevar būt atbrīvotas no soda saskaņā ar šā likuma 7. pantā minētajiem ierobežojumiem.
+6. Šis likums neattiecas uz papildsodiem.
+7. Neatbrīvot no soda šā likuma 1. pantā minētās personas:
+1) kuras notiesātas par noziegumiem, kas paredzēti Latvijas kriminālkodeksa 59.-66., 72., 72.1, 87., 89.1 pantā, ja izlaupīšana notikusi, izdarot vardarbīgu uzbrukumu, 91., 98., 99. pantā, 105. panta otrajā daļā, 121. panta ceturtajā daļā, 139. panta trešajā un ceturtajā daļā, ja zādzība saistīta ar iekļūšanu dzīvoklī, 140. panta trešajā un ceturtajā daļā, ja atklātā zādzība saistīta ar iekļūšanu dzīvoklī, 141., 143., 186.1 pantā, 214.2 panta trešajā daļā, 219. panta trešajā daļā, 222.2 panta trešajā daļā;
+2) kuras ļaunprātīgi pārkāpušas režīmu soda izciešanas laikā;
+3) kuras atzītas par sevišķi bīstamiem recidīvistiem.
+8. Nepiemērot amnestiju šā likuma 2.-5. pantā minētajām personām:
+1) kuras notiesātas par noziegumiem, kas paredzēti Latvijas kriminālkodeksa 59.-66., 72., 72.1, 87., 89.1 pantā, ja izlaupīšana notikusi, izdarot vardarbīgu uzbrukumu, 91., 99. pantā, 121. panta ceturtajā daļā, 139. panta trešajā un ceturtajā daļā, ja zādzība saistīta ar iekļūšanu dzīvoklī, 140. panta trešajā un ceturtajā daļā, ja atklātā zādzība saistīta ar iekļūšanu dzīvoklī, 141. pantā, 143., 186.1 pantā;
+2) kuras ļaunprātīgi pārkāpušas režīmu soda izciešanas laikā.
