@@ -1,4 +1,9 @@
-4.pants. Aizliegums piešķirt kredītus un izsniegt aizdevumus
-(1) Pašvaldībām, valsts un pašvaldību iestādēm, uzņēmumiem un statūtsabiedrībām, kā arī uzņēmējsabiedrībām, kurās valsts vai pašvaldības daļa pamatkapitālā atsevišķi vai kopsummā pārsniedz 50 procentus, izņemot citos likumos un šā panta otrajā un trešajā daļā paredzētos gadījumus, ir aizliegts piešķirt kredītus, izsniegt jebkāda veida aizdevumus vai dot garantijas.
-(2) Šā panta pirmās daļas noteikumi neattiecas uz likumā noteiktajā kārtībā izveidotām valsts vai pašvaldību kredītiestādēm.
-(3) Šā panta pirmās daļas noteikumi neattiecas uz gadījumiem, kad pašvaldību domes (padomes) dod garantijas likumā noteiktajā kārtībā.
+4.pants. Aizliegums ieķīlāt pamatlīdzekļus, piešķirt kredītus, izsniegt aizdevumus un galvojumus un dot garantijas
+(1) Pašvaldībām, valsts un pašvaldību iestādēm, uzņēmumiem, statūtsabiedrībām un uzņēmējsabiedrībām, kurās valsts vai pašvaldības daļa pamatkapitālā atsevišķi vai kopsummā pārsniedz 50 procentus, izņemot citos likumos un šā panta otrajā, trešajā un ceturtajā daļā paredzētajos gadījumos, ir aizliegts ieķīlāt pamatlīdzekļus, piešķirt kredītus, izsniegt jebkāda veida aizdevumus un galvojumus vai dot garantijas.
+(2) Šā panta pirmās daļas noteikumi neattiecas uz:
+1) likumā noteiktajā kārtībā izveidotām valsts vai pašvaldību kredītiestādēm;
+2) uzņēmējsabiedrībām, kurās valsts vai pašvaldības daļa pamatkapitālā atsevišķi vai kopsummā pārsniedz 50 procentus un kuras iepriekš ir saņēmušas rakstveida atļauju no valsts vai pašvaldības kapitāla daļas turētāja;
+3) gadījumiem, kad valsts vai pašvaldību statūtsabiedrība ieķīlā pamatlīdzekļus, piešķir kredītus, izsniedz aizdevumus un galvojumus un dod garantijas, iepriekš saņemot rakstveida atļauju no valsts institūcijas vai pašvaldības, kuras pārziņā statūtsabiedrība atrodas.
+(3) Ja šā panta pirmajā daļā minētā statūsabiedrība tiek privatizēta vai tiek privatizētas uzņēmējsabiedrības valsts vai pašvaldības kapitāla daļas, tad minētā atļauja jāsaņem no privatizāciju veicošās institūcijas.
+(4) Institūcija, kuras pārziņā atrodas statūtsabiedrība, uzņēmējsabiedrības valsts vai pašvaldības kapitāla daļas turētājs un privatizāciju veicošā institūcija izveido kredītlīgumu, ķīlu, galvojumu un garantiju reģistru, kā arī glabā kredītlīguma, ķīlas, galvojuma vai garantijas vienu oriģināleksemplāru. Kredītlīgumi, ķīlas, galvojumi un garantijas nav spēkā, ja tie nav reģistrēti attiecīgajā reģistrā.
+(5) Ja valsts uzņēmums vai valsts statūtsabiedrība tiek nodota privatizācijai, tad institūcija, kuras pārziņā atradās privatizējamais objekts, nodod attiecīgo reģistru Privatizācijas aģentūrai.
