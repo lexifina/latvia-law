@@ -11,4 +11,4 @@
 (3) Ja Latvijas Zvērinātu revidentu asociācija ir konstatējusi apstākļus, kas ļauj lemt par izsniegtās licences anulēšanu, tā, izvērtējusi pārkāpuma raksturu, var pieņemt lēmumu par licences darbības apturēšanu, kuras termiņš nevar būt ilgāks par sešiem mēnešiem.
 (4) Licences darbības apturēšanas laikā zvērinātu revidentu komercsabiedrība nav tiesīga slēgt jaunus līgumus par revīzijas pakalpojumu sniegšanu, bet ir tiesīga turpināt sniegt revīzijas pakalpojumus saskaņā ar līgumiem, kas noslēgti pirms licences darbības apturēšanas dienas.
 (5) Latvijas Zvērinātu revidentu asociācija par licences darbības apturēšanu vai licences anulēšanu rakstveidā paziņo Komercreģistra iestādei.
-(6) Latvijas Zvērinātu revidentu asociācijas lēmumu par licences darbības apturēšanu vai licences anulēšanu var pārsūdzēt tiesā triju mēnešu laikā no dienas, kad saņemts lēmums par licences darbības apturēšanu vai licences anulēšanu.
+(6) (Izslēgta ar 22.01.2004. likumu.)

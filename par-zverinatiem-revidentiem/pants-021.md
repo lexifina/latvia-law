@@ -5,4 +5,4 @@
 (4) Zvērinātu revidentu komercsabiedrības valdes locekļu vairākumam jābūt zvērinātiem revidentiem.
 (5) Ja zvērinātu revidentu komercsabiedrība ir akciju sabiedrība, tā drīkst izlaist tikai vārda akcijas.
 (6) Zvērinātu revidentu komercsabiedrība nedrīkst veikt darbību, kas nav savienojama ar zvērinātu revidentu darbību.
-(7) Personām, kuras zvērinātu revidentu komercsabiedrības vārdā sniedz revidenta ziņojumu par klienta gada pārskatu pārbaudi, ko nosaka likumi, kā arī sniedz revīzijas pārskatu par valsts vai pašvaldību institūciju finansu revīziju, ir jābūt zvērinātiem revidentiem.
+(7) Personām, kuras zvērinātu revidentu komercsabiedrības vārdā sniedz revidenta ziņojumu par klienta gada pārskatu pārbaudi, ko nosaka likumi, kā arī sniedz revīzijas pārskatu par valsts vai pašvaldību institūciju finanšu revīziju, ir jābūt zvērinātiem revidentiem.

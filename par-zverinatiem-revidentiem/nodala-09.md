@@ -1,2 +1,2 @@
 IX nodaļa
-Atbildība, sodi un pārkāpumu izskatīšanas kārtība
+Atbildība, sūdzību un strīdu izskatīšanas kārtība

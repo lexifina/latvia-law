@@ -1,4 +1,4 @@
 37.pants. Latvijas Zvērinātu revidentu asociācijas valstiskā uzraudzība
-(1) Valstisko uzraudzību pār Latvijas Zvērinātu revidentu asociācijas darbības atbilstību šā likuma prasībām veic Finansu ministrija.
-(2) Latvijas Zvērinātu revidentu asociācijas valstiskās uzraudzības nodrošināšanai Finansu ministrija ieceļ trīs pilnvarotus pārstāvjus.
-(3) Finansu ministrijas pilnvarotie pārstāvji ir tiesīgi piedalīties bez balsstiesībām Latvijas Zvērinātu revidentu asociācijas kopsapulcēs un valdes sēdēs, kā arī iepazīties ar asociācijas pieņemtajiem lēmumiem.
+(1) Jautājumos, kas saistīti ar zvērinātu revidentu sertificēšanu, zvērinātu revidentu komercsabiedrību licencēšanu un citiem šajā likumā Latvijas Zvērinātu revidentu asociācijai deleģētajiem uzdevumiem, Latvijas Zvērinātu revidentu asociācija atrodas Finanšu ministrijas pārraudzībā.
+(2) Finanšu ministrijas pilnvarotie pārstāvji ir tiesīgi piedalīties Latvijas Zvērinātu revidentu asociācijas kopsapulcēs, valdes sēdēs un komisiju sēdēs, kā arī iepazīties ar asociācijas pieņemtajiem lēmumiem.
+(3) Finanšu ministrijas pilnvarotajiem pārstāvjiem ir tiesības pieprasīt no Latvijas Zvērinātu revidentu asociācijas visas ziņas, dokumentus un paskaidrojumus, kas nepieciešami pārraudzības nodrošināšanai.

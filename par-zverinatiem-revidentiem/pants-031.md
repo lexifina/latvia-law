@@ -1,3 +1,3 @@
 31.pants. Atbildīgais zvērināts revidents
 (1) Pamatojoties uz revīzijas pakalpojumu līgumu ar klientu, zvērinātu revidentu komercsabiedrības vadība ieceļ par revīzijas pakalpojumu sniegšanu (revīzijas uzdevuma izpildi) atbildīgo zvērinātu revidentu un par viņa iecelšanu paziņo klientam.
-(2) Atbildīgais zvērināts revidents sniedz revīzijas pakalpojumu un sagatavo revidenta ziņojumu. Šo dokumentu, norādot vārdu, uzvārdu un personas kodu, sertifikāta numuru un zvērinātu revidentu komercsabiedrības licences numuru, paraksta atbildīgais zvērināts revidents un amatpersona, kura rīkojas zvērinātu revidentu komercsabiedrības vārdā.
+(2) Atbildīgais zvērināts revidents sniedz revīzijas pakalpojumu un sagatavo revidenta ziņojumu. Šo dokumentu, norādot vārdu, uzvārdu, sertifikāta numuru un zvērinātu revidentu komercsabiedrības licences numuru, paraksta atbildīgais zvērināts revidents un amatpersona, kura rīkojas zvērinātu revidentu komercsabiedrības vārdā.

@@ -1,3 +1,3 @@
-40.pants. Sūdzību un strīdu izskatīšanas kārtība
+40.pants. Latvijas Zvērinātu revidentu asociācijas lēmumu apstrīdēšana un pārsūdzēšana
 (1) Sūdzības par Latvijas Zvērinātu revidentu asociācijas nelikumīgu vai statūtiem neatbilstošu darbību izskata tiesa.
-(2) Visus strīdus, kas rodas saistībā ar Latvijas Zvērinātu revidentu asociācijas atteikumu izsniegt zvērināta revidenta sertifikātu vai zvērinātu revidentu komercsabiedrības licenci vai tās pieņemto lēmumu par zvērināta revidenta sertifikāta vai zvērinātu revidentu komercsabiedrības licences darbības apturēšanu vai tās anulēšanu, izšķir tiesa.
+(2) Latvijas Zvērinātu revidentu asociācijas lēmumus, kas saistīti ar zvērinātu revidentu sertificēšanu, zvērinātu revidentu komercsabiedrību licencēšanu un citiem šajā likumā tai deleģētajiem uzdevumiem, var apstrīdēt Finanšu ministrijā. Finanšu ministrijas lēmumu likumā noteiktajā kārtībā var pārsūdzēt tiesā.
