@@ -1,0 +1,1 @@
+7. Līdz 2010.gadam tiesnešiem, izņemot zemesgrāmatu nodaļu tiesnešus, mēneša amatalgu pārskata ik pēc trim gadiem, ņemot vērā strādājošo mēneša vidējās bruto darba samaksas pieaugumu salīdzinājumā ar iepriekšējo gadu, koeficientu 4,5 saglabājot nemainīgu.

@@ -1,9 +1,7 @@
-120. pants. Piemaksas pie tiesnešu amatalgas
-(1) Noteikt šādu piemaksu par tiesnešu kvalifikācijas klasi:
-1) 5.kvalifikācijas klase - 20 - 40 procenti no amatalgas;
-2) 4.kvalifikācijas klase - 40 - 50 procenti no amatalgas;
-3) 3.kvalifikācijas klase - 50 - 60 procenti no amatalgas;
-4) 2.kvalifikācijas klase - 60 - 70 procenti no amatalgas;
-5) 1.kvalifikācijas klase - 70 - 80 procenti no amatalgas;
-6) augstākā kvalifikācijas klase - 80 - 100 procenti no amatalgas.
-(2) Ministru kabinets var noteikt tiesnešiem arī citas piemaksas pie amatalgas.
+120. pants. Piemaksa par tiesneša kvalifikācijas klasi
+Piemaksu par tiesneša kvalifikācijas klasi nosaka šādā apmērā:
+1) par piekto kvalifikācijas klasi - 7 procenti no mēneša amatalgas;
+2) par ceturto kvalifikācijas klasi - 14 procentu no mēneša amatalgas;
+3) par trešo kvalifikācijas klasi - 21 procents no mēneša amatalgas;
+4) par otro kvalifikācijas klasi - 28 procenti no mēneša amatalgas;
+5) par pirmo kvalifikācijas klasi - 35 procenti no mēneša amatalgas.

@@ -1,2 +1,3 @@
-106. pants. Tiesu amatpersonu un ierēdņu pieņemšana darbā (dienestā) un atlaišana no darba (dienesta)
-Tiesu amatpersonas pieņem darbā un atlaiž no darba attiecīgās tiesas priekšsēdētājs saskaņā ar darba likumdošanas aktiem, bet ierēdņi tiek pieņemti civildienestā un atlaisti no tā likumā «Par valsts civildienestu» noteiktajā kārtībā.
+106.pants. Tiesas darbinieka darba tiesiskās attiecības
+(1) Tiesas darbinieks darba tiesiskās attiecības nodibina, Darba likumā noteiktajā kārtībā slēdzot darba līgumu ar tiesas priekšsēdētāju.
+(2) Tiesas darbinieka darba samaksu nosaka Ministru kabinets.

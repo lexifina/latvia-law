@@ -1,0 +1,1 @@
+3. Līdz 2006.gadam šā likuma 120.pantā paredzētās piemaksas par kvalifikācijas klasi un šā likuma 125.pantā paredzētās sociālās garantijas aprēķina no mēneša amatalgas, kas paredzēta šo pārejas noteikumu 2.punktā.

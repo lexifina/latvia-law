@@ -1,0 +1,2 @@
+54.¹ pants. Apgabaltiesas un Augstākās tiesas tiesneša amata kandidāta stažēšanās kārtība
+Apgabaltiesas tiesneša vai Augstākās tiesas tiesneša amata kandidātam, kurš nav tiesnesis, nosaka stažēšanās laiku no viena mēneša līdz trim mēnešiem. Apgabaltiesas tiesneša amata kandidāta stažēšanās kārtību nosaka tieslietu ministrs. Augstākās tiesas tiesneša amata kandidāta stažēšanās kārtību nosaka Augstākās tiesas priekšsēdētājs.

@@ -1,5 +1,7 @@
-125. pants. Citas tiesnešu sociālās garantijas
-(1) Uz tiesnešiem attiecas tādas pašas sociālās garantijas un piemaksas, kādas likumā noteiktas civildienesta ierēdņiem, kā arī šajā likumā paredzētie izņēmumi.
-(2) Ja tiesnešu skaita samazināšanas dēļ tiesnesi atbrīvo no amata, atbrīvotajam tiesnesim sešus mēnešus, skaitot no atbrīvošanas dienas līdz jaunu darba attiecību nodibināšanai, tiek saglabāta amatalga, kāda viņam bija atbrīvošanas dienā.
-(3) Tiesneši ir atbrīvoti no obligātā valsts dienesta.
-(4) Valsts obligāti apdrošina tiesnešu dzīvību un veselību no valsts budžeta līdz 24 mēnešu amatalgas apmēram.
+125. pants. Citas tiesneša sociālās garantijas
+(1) Tiesnesim, piešķirot ikgadējo atvaļinājumu, izmaksā vienreizēju pabalstu mēneša amatalgas apmērā.
+(2) Tiesnesim, kas cietis smagā nelaimes gadījumā, izmaksā vienreizēju pabalstu mēneša amatalgas apmērā.
+(3) Tiesnesim izmaksā pabalstu mēneša amatalgas apmērā sakarā ar ģimenes locekļa vai apgādājamā nāvi.
+(4) Tiesnesim bērna piedzimšanas gadījumā izmaksā pabalstu triju mēneša amatalgu apmērā. Ja abi bērna vecāki ir tiesneši, tiesības uz pabalstu ir vienam no viņiem.
+(5) Ja tiesnesi atbrīvo no amata tiesnešu skaita samazināšanas dēļ, viņam izmaksā pabalstu triju mēneša amatalgu apmērā.
+(6) Valsts obligāti apdrošina tiesneša dzīvību un veselību līdz 15 mēneša amatalgu apmēram.

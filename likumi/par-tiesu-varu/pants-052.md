@@ -8,6 +8,6 @@
 6) nokārtojusi kvalifikācijas eksāmenu.
 (2) Juridiskās specialitātes darba stāžā tiek ieskaitīts arī tiesas priekšsēdētāja palīga, tiesneša palīga un tiesas konsultanta amatā nostrādātais laiks.
 (3) (Izslēgta ar 15.10.1998. likumu.)
-(4) Kārtību, kādā tiesneša kandidāts stažējas un kārto kvalifikācijas eksāmenu, nosaka Tieslietu ministrija.
+(4) Kārtību, kādā tiesneša kandidāts stažējas un kārto kvalifikācijas eksāmenu, nosaka tieslietu ministrs.
 (5) Stažēšanās laiks, ievērojot tiesneša kandidāta profesionālās sagatavotības līmeni, tiek noteikts no viena mēneša līdz sešiem mēnešiem.
 (6) (Izslēgta ar 15.10.1998. likumu.)

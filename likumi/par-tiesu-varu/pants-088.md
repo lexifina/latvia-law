@@ -1,4 +1,4 @@
 88. pants. Tiesas piesēdētāja darba tiesību garantijas
-(1) Laikā, kad tiesas piesēdētājs pilda savus pienākumus tiesā, viņam no valsts budžeta tiek izmaksāta alga 50 procentu apmērā no tiesneša amatalgas.
-(2) Laiks, kurā tiesas piesēdētājs pilda savus pienākumus tiesā, tiek ieskaitīts pamatdarba izpildīšanas laikā.
-(3) Kartību un apmērus, kādos tiesas piesēdētajam kompensē citus izdevumus, kas saistīti ar viņa pienākumu pildīšanu tiesā, nosaka Latvijas Republikas likumdošanas akti.
+(1) Par tiesas piesēdētāja pienākumu pildīšanu apgabaltiesā tiesas piesēdētājs saņem darba algu, kuras apmērs atbilst Centrālās statistikas pārvaldes oficiālajā statistikas paziņojumā publicētajai valstī strādājošo iepriekšējā gada vidējai mēneša bruto darba samaksai, kas noapaļota latos.
+(2) Par tiesas piesēdētāja pienākumu pildīšanu rajona (pilsētas) tiesā tiesas piesēdētājs saņem darba algu, kuru aprēķina, Centrālās statistikas pārvaldes oficiālajā statistikas paziņojumā publicētajai valstī strādājošo iepriekšējā gada vidējai mēneša bruto darba samaksai, kas noapaļota latos, piemērojot koeficientu 0,85.
+(3) Tiesas piesēdētāja pienākumu pildīšanas laikā darba devējs piesēdētājam saglabā vidējo izpeļņu Darba likumā noteiktajā kārtībā.
