@@ -1,0 +1,1 @@
+1.pants. 1998.gada 25.jūnija Orhūsas konvencija par pieeju informācijai, sabiedrības dalību lēmumu pieņemšanā un iespēju griezties tiesu iestādēs saistībā ar vides jautājumiem (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
