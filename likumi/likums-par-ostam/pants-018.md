@@ -1,3 +1,3 @@
 18. pants. Uzņēmējdarbības noteikumi ostā
-(1) Uzņēmējdarbība ostā notiek saskaņā ar spēkā esošajiem likumiem un citiem normatīvajiem aktiem, ostas noteikumiem un pamatojoties uz ostas pārvaldes un attiecīgā uzņēmēja noslēgto līgumu.
+(1) Uzņēmējdarbība ostā notiek saskaņā ar spēkā esošajiem likumiem un citiem normatīvajiem aktiem, ostas noteikumiem un pamatojoties uz ostas pārvaldes un attiecīgā uzņēmēja noslēgto līgumu. Ostas pārvalde, slēdzot līgumus par uzņēmējdarbību ostā, ievēro priekšnoteikumu, ka uzņēmuma (uzņēmējsabiedrības) dibinātājiem un dalībniekiem jābūt ar labu reputāciju un stabilu finansiālo stāvokli.
 (2) Komercsabiedrības, kas ostas teritorijā veic uzņēmējdarbību, kuras pamatvirziens ir kuģu remonts vai kuģu būve, var saņemt uzņēmumu ienākuma nodokļa atlaides likumā "Par uzņēmumu ienākuma nodokli" noteiktajā kārtībā.

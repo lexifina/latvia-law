@@ -1,5 +1,5 @@
 7. pants. Ostas pārvaldes funkcijas
-(1) Ostas pārvalde ir iestāde, kuru izveido attiecīgās pilsētas dome vai pagasta padome un kura šajā likumā noteiktajos ietvaros ir arī Satiksmes ministrijas pārraudzībā. Ostas pārvaldes nolikumu apstiprina attiecīgā pašvaldība saskaņā ar Ministru kabineta apstiprinātu paraugnolikumu.
+(1) Ostas pārvalde ir iestāde, kuru izveido attiecīgās pilsētas dome vai pagasta padome un kura šajā likumā noteiktajos ietvaros ir arī Ministru kabineta pārraudzībā. Turklāt Rīgas ostas pārvalde ir atvasināta publisko tiesību juridiskā persona. Rīgas ostas pārvaldes nolikumu Rīgas Dome iesniedz apstiprināšanai Ministru kabinetam. Citu ostu pārvalžu nolikumus apstiprina attiecīgā pašvaldība saskaņā ar Ministru kabineta apstiprinātu paraugnolikumu. Liepājas ostas pārvaldi nosaka Liepājas speciālās ekonomiskās zonas likums.
 (2) Ostas pārvaldīšanu nodrošina ostas pārvalde, kura kā publisko tiesību subjekts veic šādas valsts pārvaldes funkcijas:
 1) nosaka ostas maksu un tarifu robežlīmeņus šā likuma 15.pantā minētajiem pakalpojumiem;
 2) nodrošina ostas maksas un nomas (īres) maksas iekasēšanu;
