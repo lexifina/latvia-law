@@ -1,0 +1,1 @@
+36. Ja mākslinieka darbnīca ir izbūvēta un nodota ekspluatācijā saskaņā ar normatīvajos aktos noteiktajā kārtībā apstiprinātu būvprojektu līdz likuma "Par valsts un pašvaldību dzīvojamo māju privatizāciju" spēkā stāšanās dienai, tā privatizējama, piemērojot likumā noteikto dzīvokļa privatizācijas kārtību.

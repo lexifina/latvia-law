@@ -1,5 +1,5 @@
 16.pants. Secība, kādā tiek privatizēta daudzdzīvokļu māja, kurā esošie dzīvokļi, neapdzīvojamās telpas un mākslinieku darbnīcas nav izīrētas vai iznomātas
-(1) Daudzdzīvokļu māju, kurā esošie dzīvokļi, neapdzīvojamās telpas un mākslinieku darbnīcas nav izīrētas vai iznomātas (turpmāk - neizīrēta daudzdzīvokļu māja), var piedāvāt privatizēt kā vienu veselu objektu. Neizīrētā daudzdzīvokļu mājā esošos dzīvokļus, neapdzīvojamās telpas un mākslinieku darbnīcas var piedāvāt privatizēt arī kā atsevišķus objektus. Lēmumu par to, kādā no minētajiem veidiem privatizēt daudzdzīvokļu māju, pieņem pašvaldības dome (padome) vai valsts aģentūra "Mājokļu aģentūra".
-(2) Neizīrētu daudzdzīvokļu māju kā vienu veselu objektu publiski piedāvā privatizēt atklātā izsolē, kurā vispirms piedalās fiziskās un juridiskās personas, kurām ir īpašuma kompensācijas sertifikāti.
-(3) Ja neviena persona, kurai ir īpašuma kompensācijas sertifikāti, nav pieteikusies privatizēt šā panta otrajā daļā minēto māju, atklātā izsolē piedalās tās fiziskās un juridiskās personas - jebkura veida privatizācijas sertifikātu īpašnieces, kuras ir pieteikušās uz šo izsoli.
-(4) Neizīrētā daudzdzīvokļu mājā esošos dzīvokļus, neapdzīvojamās telpas un mākslinieku darbnīcas privatizē kā atsevišķus objektus, ievērojot šā likuma 15.pantā, 17. panta ceturtajā daļā un 18.pantā noteikto.
+(1) Daudzdzīvokļu māju, kurā esošie dzīvokļi, neapdzīvojamās telpas un mākslinieku darbnīcas nav izīrētas vai iznomātas (turpmāk - neizīrēta daudzdzīvokļu māja), piedāvā privatizēt kā vienu veselu objektu. Lēmumu par neizīrētas daudzdzīvokļu mājas kā viena vesela objekta privatizāciju pieņem pašvaldības dome (padome) vai valsts aģentūra "Mājokļu aģentūra".
+(2) Neizīrētu daudzdzīvokļu māju kā vienu veselu objektu publiski piedāvā privatizēt atklātā izsolē par latiem.
+(3) (Izslēgta ar 24.02.2005. likumu.)
+(4) (Izslēgta ar 24.02.2005. likumu.)

@@ -1,0 +1,1 @@
+39. Ministru kabinets līdz 2005.gada 31.decembrim izstrādā kārtību, kādā izveido, uztur un attīsta situācijas novērošanas, analīzes, prognozēšanas un kontroles informācijas sistēmu un datu bāzi mājokļu jomā (mājokļu monitoringa sistēmu).

@@ -1,12 +1,12 @@
-73.³ pants. Kārtība, kādā dzīvokļi un mākslinieku darbnīcas nododamas īpašumā līdz dzīvojamās mājas privatizācijai
-(1) Lai iegūtu īpašuma tiesības uz dzīvokli vai mākslinieka darbnīcu līdz dzīvojamās mājas privatizācijai, dzīvokļa īrnieks un viņa ģimenes locekļi vai mākslinieka darbnīcas nomnieks iesniedz iesniegumu privatizācijas komisijai.
-(2) Privatizācijas komisija mēneša laikā no iesnieguma saņemšanas dienas pieņem lēmumu par dzīvokļa vai mākslinieka darbnīcas nodošanu īpašumā līdz dzīvojamās mājas privatizācijai.
+73.³ pants. Kārtība, kādā dzīvokļi nododami īpašumā līdz dzīvojamās mājas privatizācijai
+(1) Lai iegūtu īpašuma tiesības uz dzīvokli līdz dzīvojamās mājas privatizācijai, dzīvokļa īrnieks un viņa ģimenes locekļi iesniedz iesniegumu privatizācijas komisijai.
+(2) Privatizācijas komisija mēneša laikā no iesnieguma saņemšanas dienas pieņem lēmumu par dzīvokļa nodošanu īpašumā līdz dzīvojamās mājas privatizācijai.
 (3) Lēmumu par dzīvokļa nodošanu īpašumā līdz dzīvojamās mājas privatizācijai pieņem, ja:
 1) dzīvokļa īrnieks un viņa ģimenes locekļi noslēdz notariāli vai privatizācijas komisijas apliecinātu vienošanos par to, kurš vai kuri no viņiem privatizēs īrēto dzīvokli;
 2) nav celta prasība tiesā par īres līguma izbeigšanu un īrnieka un viņa ģimenes locekļu izlikšanu.
 (4) Ja dzīvokļa īrnieks un viņa ģimenes locekļi nevēlas īrēto dzīvokli iegūt īpašumā līdz dzīvojamās mājas privatizācijai, ar īrnieka un viņa ģimenes locekļu piekrišanu īrēto dzīvokli var privatizēt šā likuma 6. pantā norādītā persona. Šajā gadījumā dzīvokļa īrnieks un viņa ģimenes locekļi noslēdz notariāli vai privatizācijas komisijas apliecinātu vienošanos ar personu, kura vēlas iegūt īpašumā īrnieka īrēto dzīvokli.
 (5) Neizīrētu valsts vai pašvaldības dzīvokli var nodot īpašumā līdz dzīvojamās mājas privatizācijai ar pašvaldības domes (padomes) vai valsts aģentūras "Mājokļu aģentūra" lēmumu, ievērojot šā likuma 15. vai 21., kā arī 36., 37., 38. un 39.panta noteikumus.
-(6) Lēmumu par mākslinieka darbnīcas nodošanu īpašumā līdz dzīvojamās mājas privatizācijai pieņem, ja nav celta prasība tiesā par nomas līguma izbeigšanu un nomnieka izlikšanu.
-(7) Privatizācijas komisija divu nedēļu laikā pēc lēmuma pieņemšanas nosūta īrniekam vai nomniekam paziņojumu, kurā norāda lēmumā noteikto maksu par dzīvokļa vai mākslinieka darbnīcas nodošanu īpašumā līdz dzīvojamās mājas privatizācijai, kā arī kārtību, kādā izdarāma norādītā samaksa.
+(6) (Izslēgta ar 24.02.2005. likumu.)
+(7) Privatizācijas komisija divu nedēļu laikā pēc lēmuma pieņemšanas nosūta īrniekam paziņojumu, kurā norāda lēmumā noteikto maksu par dzīvokļa nodošanu īpašumā līdz dzīvojamās mājas privatizācijai, kā arī kārtību, kādā izdarāma norādītā samaksa.
 (8) Kopējais dzīvoklis privatizējams kā viens vesels objekts. Lai kopējā dzīvokļa īrnieki iegūtu īpašumā līdz dzīvojamās mājas privatizācijai savu īrēto kopējo dzīvokli, viņiem ir jānoslēdz notariāli vai privatizācijas komisijas apliecināta vienošanās par to, kurš vai kuri no viņiem privatizēs dzīvokli. Ja dzīvokļa īrnieki vēlas privatizēt dzīvokli kā kopīpašumu, minētajā vienošanās aktā jāparedz turpmākā dzīvojamo telpu lietošanas kārtība.
-(9) Maksājumus par dzīvokļa vai mākslinieka darbnīcas nodošanu īpašumā līdz dzīvojamās mājas privatizācijai īrnieks vai nomnieks izdara Latvijas Hipotēku un zemes bankā mēneša laikā no paziņojuma saņemšanas dienas.
+(9) Maksājumus par dzīvokļa nodošanu īpašumā līdz dzīvojamās mājas privatizācijai īrnieks izdara Latvijas Hipotēku un zemes bankā mēneša laikā no paziņojuma saņemšanas dienas.
