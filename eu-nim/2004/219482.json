@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Biedrību un nodibinājumu likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "161 (2926)",
+  "official_journal_page": null,
+  "official_journal_date": "2003-11-14",
+  "entry_into_force": "2004-04-01",
+  "notification_date": "2014-09-03",
+  "commission_reference": "MNE(2014)55167",
+  "nim_celex": "72009L0052LVA_219482",
+  "nim_id": "219482",
+  "transposes_celex": [
+    "32009L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/de6a3c90-151b-4143-bf09-f6872665514e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
