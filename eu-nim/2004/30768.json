@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi MK 2001.gada 30.aprīļa noteikumos Nr.181 „Būvizstrādājumu atbilstības novērtēšanas kārtība reglamentētajā sfērā”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "68",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-09-07",
+  "commission_reference": "MNE(2004)50768",
+  "nim_celex": "71989L0106LVA_30768",
+  "nim_id": "30768",
+  "transposes_celex": [
+    "31989L0106",
+    "31993L0068",
+    "32002L0091"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d3403b99-e29c-4869-9b30-f75ce9d30693",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
