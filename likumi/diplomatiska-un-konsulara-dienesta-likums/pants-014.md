@@ -1,4 +1,4 @@
 14.pants. Pārcelšana no vienas dienesta vietas uz citu
 (1) Diplomātiskā un konsulārā dienesta laiks vienā ārvalstī diplomātiem, kuri ieņem II un III pakāpes amatus saskaņā ar šā likuma 9.pantu, ir ne vairāk kā četri gadi, bet diplomātiem, kuri ieņem IV līdz VII pakāpes amatus, - ne vairāk kā trīs gadi. Diplomātu var nosūtīt pildīt diplomātisko un konsulāro dienestu ārvalstīs ne vairāk kā uz diviem termiņiem pēc kārtas.
-(2) Diplomātam jābūt gatavam pildīt dienestu ārvalstīs vai Ārlietu ministrijas centrālajā aparātā pēc ārlietu ministra vai Ārlietu ministrijas valsts sekretāra rīkojuma.
-(3) (Izslēgta ar 06.03.2003. likumu.)
+(2) Diplomātiskā un konsulārā dienesta laiks diplomātiskajā pārstāvniecībā ārvalstī nozares padomniekam, kā arī 1.ranga aizsardzības atašejam ir ne vairāk kā četri gadi, bet nozares atašejam, nozares atašeja palīgam, kā arī 2. un 3.ranga aizsardzības atašejam un aizsardzības atašeja palīgam - ne vairāk kā trīs gadi. Šo termiņu var pagarināt ne vairāk kā uz vienu termiņu pēc rakstveida saskaņošanas ar Ārlietu ministriju.
+(3) Diplomātam jābūt gatavam pildīt dienestu ārvalstīs vai Ārlietu ministrijas centrālajā aparātā pēc ārlietu ministra vai Ārlietu ministrijas valsts sekretāra rīkojuma.
