@@ -1,1 +1,3 @@
-6. Lai nodrošinātu ar apdzīvojamo platību sociāli mazaizsargātās un maznodrošinātās personas un iedzīvotājus, kuri nonākuši ārkārtējos apstākļos (ugunsgrēki, ēku avārijas un citas stihiskas nelaimes), kā arī lai veiktu citas likumos paredzētās pašvaldību funkcijas iedzīvotāju nodrošināšanā ar dzīvokļiem, pēc šā likuma spēkā stāšanās valsts un pašvaldību institūcijas turpina izīrēt dzīvokļus personām, kurām nepieciešams uzlabot dzīvokļa apstākļus, kā arī pildīt citus likumā "Par valsts un pašvaldību palīdzību dzīvokļu jautājumu risināšanā" noteiktos pienākumus.
+6. Ikvienu pašvaldības daudzdzīvokļu mājā (arī privatizācijai nodotā mājā) esošu neizīrētu dzīvokli ar pašvaldības domes (padomes) lēmumu var:
+1) izīrēt personām (ģimenēm), kuras attiecīgajā pašvaldībā ir reģistrētas, lai saņemtu palīdzību dzīvokļa jautājuma risināšanā, vai
+2) privatizēt šā likuma 15., 21. vai 73.³ pantā noteiktajā kārtībā.

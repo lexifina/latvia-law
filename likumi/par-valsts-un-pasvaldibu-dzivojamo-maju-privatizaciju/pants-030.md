@@ -1,6 +1,6 @@
 30.pants. Privatizācijas paziņojuma saturs
 Privatizācijas paziņojumā jānorāda:
-1) īrnieka un viņa ģimenes locekļu vai nomnieka, vai zemes īpašnieka vārds un uzvārds;
+1) īrnieka un viņa ģimenes locekļu, zemes īpašnieka vai nomnieka vārds un uzvārds vai oficiālais nosaukums;
 2) privatizācijas objekts, tā adrese, platība;
 3) tā zemes gabala īpašnieks, uz kura zemes uzcelta privatizējamā dzīvojamā māja;
 4) privatizācijas objekta vērtība;

@@ -1,5 +1,5 @@
 43.pants. Pirkuma maksas noteikšana
-(1) Saskaņā ar šā likuma 27.pantu pirkuma maksu nosaka privatizācijas komisija, ievērojot šā panta ceturtās daļas noteikumus, izņemot tos gadījumus, kad privatizētais objekts iegūts atklātā izsolē vai dzīvoklis, mākslinieka darbnīca nodota īpašumā līdz dzīvojamās mājas privatizācijai.
+(1) Saskaņā ar šā likuma 27.pantu pirkuma maksu nosaka privatizācijas komisija, ievērojot šā panta ceturtās daļas noteikumus, izņemot tos gadījumus, kad privatizētais objekts iegūts atklātā izsolē.
 (2) Izsolē iegūta objekta pirkuma maksa ir augstākā nosolītā cena.
 (3) Pirkuma maksu nosaka latos un attiecīgi privatizācijas sertifikātos atbilstoši to nominālvērtībai.
 (4) Nosakot pirkuma maksu, privatizācijas komisija ņem vērā šādus apstākļus:
