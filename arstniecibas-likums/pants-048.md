@@ -1,1 +1,1 @@
-48.pants. Ārstniecības personas pienākums ir paaugstināt savu kvalifikāciju un izglītoties neatliekamās palīdzības sniegšanā.
+48.pants. Ārstniecības personas pienākums ir regulāri pilnveidot savu profesionālo kvalifikāciju un izglītoties neatliekamās palīdzības sniegšanā.

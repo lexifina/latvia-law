@@ -1,1 +1,1 @@
-9.pants. Ar noteiktām slimībām slimojošu pacientu reģistru izveides, papildināšanas un uzturēšanas kārtību nosaka Ministru kabinets.
+9.pants. Ārstniecības personu, ārstniecības iestāžu, medicīnisko ierīču un medicīnas preču un ar noteiktām slimībām slimojošu pacientu reģistru izveides, papildināšanas un uzturēšanas kārtību, kā arī ārstniecībā izmantojamo medicīnisko tehnoloģiju apstiprināšanas un jaunu medicīnisko tehnoloģiju ieviešanas kārtību nosaka Ministru kabinets.

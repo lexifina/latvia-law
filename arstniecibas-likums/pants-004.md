@@ -1,1 +1,1 @@
-4.pants. Veselības aprūpes organizēšanas un finansēšanas kārtību, to ārstniecības pakalpojumu veidus un apjomu, kuri tiek apmaksāti no valsts pamatbudžeta un pakalpojumu saņēmēju līdzekļiem, kā arī šīs samaksas kārtību nosaka Ministru kabinets.
+4.pants. Veselības aprūpes organizēšanas un finansēšanas kārtību, plānveida veselības aprūpes pakalpojumu saņemšanas pretendentu rindu veidošanas kārtību, to ārstniecības pakalpojumu veidus un apjomu, kuri tiek apmaksāti no valsts pamatbudžeta un pakalpojumu saņēmēju līdzekļiem, kā arī šīs samaksas kārtību nosaka Ministru kabinets.

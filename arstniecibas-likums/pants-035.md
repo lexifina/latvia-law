@@ -1,1 +1,1 @@
-35.pants. Ārstniecības iestādes vadītājs ir saucams pie likumā noteiktās atbildības, ja viņa vadītajā iestādē tiek lietotas medicīniskās tehnoloģijas, kuras nav apstiprinātas Veselības ministrijas noteiktajā kārtībā.
+35.pants. Ārstniecības iestādes vadītājs ir saucams pie likumā noteiktās atbildības, ja viņa vadītajā iestādē tiek lietotas medicīniskās tehnoloģijas, kuras nav apstiprinātas Ministru kabineta noteiktajā kārtībā.

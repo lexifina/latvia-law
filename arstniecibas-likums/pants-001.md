@@ -13,8 +13,8 @@
 12) pacientu aprūpe - veselības aprūpes sastāvdaļa, kas ir tieši vai netieši saistīta ar sabiedrības, ģimenes vai personas veselības uzturēšanu, veicināšanu, aizsardzību un atgūšanu;
 13) pirmā palīdzība - palīdzība, ko cietušajiem (saslimušajiem) dzīvībai vai veselībai kritiskā stāvoklī savu zināšanu un iespēju apjomā sniedz personas ar kvalifikāciju medicīnā vai bez tās neatkarīgi no sagatavotības un ekipējuma;
 14) medicīniskā rehabilitācija - medicīnas nozare, kas nodarbojas ar cilvēka fiziskā, psiholoģiskā, sociālā, aroda un izglītības potenciāla attīstīšanu vai atgūšanu atbilstoši viņa fizioloģiskajiem vai anatomiskajiem ierobežojumiem, vai - stabilu veselības traucējumu gadījumā - ar pacienta dzīves pielāgošanu videi un sabiedrībai;
-15) pēcdiploma apmācība - ārstniecības personu tālākizglītība pēc medicīniskās izglītības iestādes diploma saņemšanas specializācijas vai kvalifikācijas celšanas veidā;
-16) specializācija - pēcdiploma apmācības daļa, kas ietver Veselības ministrijas apstiprinātajam specialitātes nolikumam atbilstošu zināšanu un iemaņu kopumu kādā no Latvijas Republikas profesiju klasifikatorā iekļautajām specialitātēm. Specializācijai seko sertifikācija pilnvarotā sertifikācijas institūcijā un speciālista prakses tiesību iegūšana;
-17) kvalifikācijas celšana - pēcdiploma apmācības daļa iegūtajā specialitātē pēc brīvi izraudzītas programmas. Kvalifikācijas celšanas laiks un saturs nav reglamentēts;
+15) (izslēgts ar 27.05.2004. likumu);
+16) specializācija - tālākizglītības daļa, kas noris saskaņā ar akreditētu izglītības programmu, ievērojot profesijas standartu un specialitātes nolikumu;
+17) profesionālās kvalifikācijas pilnveidošana - tālākizglītības daļa noteiktā specialitātē, kas noris saskaņā ar brīvi izraudzītu izglītības programmu, kuras saturs un apgūšanas laiks nav reglamentēts;
 18) obligātās prasības ārstniecības iestādēm un to struktūrvienībām - prasības, kuru izpilde jānodrošina ārstniecības iestādēm vai to struktūrvienībām, lai tajās būtu atļauts sniegt pacientiem medicīnisko palīdzību;
-19) rezidentūra - darba tiesiskajās attiecībās ar izglītības programmu īstenojošu ārstniecības iestādi esoša ārsta izglītošana specialitātes iegūšanai saskaņā ar akreditētu profesionālo rezidentūras izglītības programmu medicīnā.
+19) rezidentūra -darba tiesiskajās attiecībās ar izglītības programmu īstenojošu ārstniecības iestādi esoša ārsta izglītošana valsts valodā specialitātes iegūšanai saskaņā ar akreditētu profesionālo rezidentūras izglītības programmu medicīnā.

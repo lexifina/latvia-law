@@ -1,3 +1,3 @@
 X nodaļa
-Alkoholisma, narkomānijas un toksikomānijas
-slimnieku ārstēšana
+Alkohola, narkotisko, psihotropo, toksisko vielu,
+azartspēļu vai datorspēļu atkarības slimību ārstniecība
