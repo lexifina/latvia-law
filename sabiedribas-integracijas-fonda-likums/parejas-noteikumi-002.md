@@ -1,0 +1,1 @@
+2. Ministru kabinets sagatavo un iesniedz Saeimai likumprojektu par grozījumiem likumā "Par valsts budžetu 2001.gadam", paredzot tajā Sabiedrības integrācijas fonda darbības nodrošināšanai Tieslietu ministrijai piešķirto valsts budžeta līdzekļu novirzīšanu tieši Sabiedrības integrācijas fondam.
