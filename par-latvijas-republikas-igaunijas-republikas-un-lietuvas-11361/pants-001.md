@@ -1,0 +1,1 @@
+1.pants. 1998.gada 22.decembrī Viļņā parakstītā Latvijas Republikas, Igaunijas Republikas un Lietuvas Republikas brīvās tirdzniecības nolīguma Apvienotās komitejas rezolūcija nr.1/98 "Par izmaiņām Latvijas Republikas, Igaunijas Republikas un Lietuvas Republikas brīvās tirdzniecības nolīguma A protokolā" (turpmāk - Rezolūcija) ar šo likumu tiek pieņemta un apstiprināta.
