@@ -1,1 +1,0 @@
-2. Ārvalstīs dzīvojošie vēlētāji, kuri līdz vēlēšanu dienai nav saņēmuši Latvijas pilsoņa pasi, vēlēšanu komisijai uzrāda vai nosūta Pilsonības un imigrācijas departamenta izdotu reģistrācijas lapu ar šā vēlētāja personas kodu.
