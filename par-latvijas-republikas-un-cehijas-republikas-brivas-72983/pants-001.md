@@ -1,0 +1,1 @@
+1.pants. 2002.gada 11.septembrī Rīgā parakstītais Latvijas Republikas un Čehijas Republikas brīvās tirdzniecības līguma Apvienotās komitejas lēmums nr. 1/2002 (turpmāk - Lēmums) ar šo likumu tiek pieņemts un apstiprināts.

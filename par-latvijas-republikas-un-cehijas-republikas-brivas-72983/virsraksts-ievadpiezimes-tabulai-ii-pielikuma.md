@@ -1,0 +1,1 @@
+Ievadpiezīmes tabulai II pielikumā

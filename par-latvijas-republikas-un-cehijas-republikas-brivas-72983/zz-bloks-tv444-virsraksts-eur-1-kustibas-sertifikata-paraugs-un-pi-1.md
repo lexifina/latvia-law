@@ -1,0 +1,9 @@
+Iespiešana
+1. Katram sertifikātam jābūt 210 x 297 mm lielam; pieļaujamā garuma nobīde ir līdz mīnus 5 mm vai plus 8 mm. Tā izgatavošanā jāizmanto balts, izmēriem atbilstošs rakstāmpapīrs, kas nesatur mehāniskos piemaisījumus un sver ne mazāk par 25 g/m2. Tam jāsatur iespiestu zaļu kopējošos aizmugures pamatni, kas padara acīmredzamu jebkādu viltošanu ar mehāniskiem vai ķīmiskiem līdzekļiem.
+2. Šī Līguma Pušu muitas iestādes var paturēt tiesības pašām iespiest veidlapas vai var nodot to iespiešanu pilnvarotām spiestuvēm. Pēdējā gadījumā, katrai veidlapai ir jāsatur atsauce uz šādu pilnvarošanu. Uz katra sertifikāta jābūt iespiedēja vārdam un adresei vai zīmei, pēc kuras iespiedēju var identificēt. Uz tā jābūt arī sērijas numuram, iespiestam vai neiespiestam, pēc kura sertifikātu var identificēt.
+IV pielikums
+RĒĶINA-FAKTŪRAS DEKLARĀCIJAS TEKSTS
+Apvienotā Deklarācija par izmaiņu izcelsmes noteikumos pārskatīšanu Harmonizētās Sistēmas grozījumu rezultātā
+Kur, sekojot atbilstoši grozījumiem nomenklatūrā, izmaiņas izcelsmes noteikumos, kas ieviesti ar Lēmumu Nr. 1/2002 maina jebkura pirms Lēmuma Nr. 1/2002 pastāvošā noteikuma būtību un izrādās, ka šādi grozījumi rada kaitējumu attiecīgo sektoru interesēm, tad, ja viena no Pusēm laikposmā līdz 2004.gada 31.decembrim ieskaitot pieprasa, Apvienotā Komiteja steidzamības kārtā izvērtē nepieciešamību atjaunot attiecīgā noteikuma būtību kāda tā bija pirms Lēmuma Nr. 1/2002.
+Jebkurā gadījumā Apvienotā Komiteja trīs mēnešu laikā no kādas Puses pieprasījuma iesniegšanas lemj atjaunot vai neatjaunot attiecīgā noteikuma būtību.
+Ja attiecīgo noteikumu būtība ir atjaunota, Līgumslēdzējas puses paredz juridisko ietvaru struktūru, lai nodrošinātu, ka jebkuras muitas nodevas, kas samaksātas par attiecīgām precēm, kuras importētas pēc 2002.gada 1.janvāra, var būt atmaksātas.
