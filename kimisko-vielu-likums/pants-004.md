@@ -1,0 +1,6 @@
+4.pants. Valsts iestāžu kompetence
+(1) Labklājības ministrija un tās pakļautībā un pārraudzībā esošās uzraudzības un kontroles iestādes kontrolē darbības ar ķīmiskajām vielām un ķīmiskajiem produktiem un uzrauga to atbilstību likumiem un citiem normatīvajiem aktiem cilvēku dzīvības un veselības aizsardzības jomā (arī darba vidē).
+(2) Vides aizsardzības un reģionālās attīstības ministrija un tās pakļautībā un pārraudzībā esošās uzraudzības un kontroles iestādes kontrolē darbības ar ķīmiskajām vielām un ķīmiskajiem produktiem un uzrauga to atbilstību likumiem un citiem normatīvajiem aktiem vides aizsardzības jomā.
+(3) Aizsardzības ministrija veic uzraudzību pār darbībām ar ķīmiskajām vielām Nacionālajos bruņotajos spēkos.
+(4) Darbības ķīmisko avāriju un citu ar ķīmisko vielu vai ķīmisko produktu lietošanu saistīto avāriju un ārkārtas situāciju likvidēšanā un neatliekamos glābšanas darbus veic, kā arī attiecīgo drošības noteikumu ievērošanu kontrolē Iekšlietu ministrija un tās pakļautībā un pārraudzībā esošās iestādes saskaņā ar likumiem un citiem normatīvajiem aktiem.
+(5) Citas iestādes darbības ar ķīmiskajām vielām vai ķīmiskajiem produktiem uzrauga un kontrolē likumos un citos normatīvajos aktos noteiktajā kārtībā.

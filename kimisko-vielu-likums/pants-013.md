@@ -1,0 +1,9 @@
+13.pants. Jaunas ķīmiskās vielas pieteikšana
+(1) Ministru kabinets apstiprina esošo ķīmisko vielu sarakstu un pieteikto ķīmisko vielu sarakstu.
+(2) Ķīmiskā viela, kas nav minēta esošo ķīmisko vielu sarakstā, uzskatāma par jaunu ķīmisko vielu.
+(3) Valstī aizliegts importēt vai pārdot jaunu ķīmisko vielu, pirms nav izpētīta tās iedarbība uz vidi un cilvēku veselību un šī viela nav pieteikta saskaņā ar Ministru kabineta noteikto jaunas ķīmiskās vielas pieteikšanas kārtību.
+(4) Šā panta trešajā daļā minētais aizliegums neattiecas uz:
+1) ķīmiskajām vielām, kuras tiek ražotas vai importētas tādā daudzumā, kas nepārsniedz 10 kilogramus uz ražotāju vai importētāju gadā, un kuru ražotājs vai importētājs ievēro visus pārējos tam izvirzītos noteikumus. Šādā gadījumā ražotājam vai importētājam jāsaglabā un jāuzrāda uzraudzības un kontroles iestādēm (pēc to pieprasījuma) rakstveida informācija par ķīmiskās vielas daudzumu, marķējumu un saņēmējiem;
+2) ķīmiskajām vielām, kuras tiek ražotas vai importētas tādā daudzumā, kas nepārsniedz 100 kilogramus uz ražotāju vai importētāju gadā, tādiem zinātniskajiem eksperimentiem, analīzēm vai pētījumiem, kuri tiek veikti kontrolētos apstākļos un kuru nolūks ir noteikt šīm vielām piemītošās īpašības un šo vielu iedarbību;
+3) ķīmiskajām vielām, kuras precīzi formulētiem eksperimentālās ražošanas mērķiem ražo vai Ministru kabineta noteikumos paredzētajā kārtībā importē reģistrēts ierobežots patērētāju skaits tādā daudzumā, kas nepārsniedz to daudzumu, kāds ir nepieciešams konkrētā procesa izpētei. Šis izņēmums ir spēkā vienu gadu no minēto ķīmisko vielu ražošanas vai importa uzsākšanas ar nosacījumu, ka darbību veicējs iesniedz Vides valsts inspekcijai rakstveida ziņas par sevi un attiecīgo ķīmisko vielu, tās marķējumu, daudzumu, saņēmēju sarakstu un izpētes pasākumu plānu;
+4) polimēriem, kas satur mazāk par diviem procentiem jaunu ķīmisko vielu.

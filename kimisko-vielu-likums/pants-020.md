@@ -1,0 +1,4 @@
+20.pants. Zaudējumu un izdevumu atlīdzināšana
+(1) Ja, veicot darbības ar ķīmiskajām vielām vai ķīmiskajiem produktiem, ir piesārņota vide vai būves, kaitējumu pieļāvušais darbību veicējs nodrošina vides un būvju attīrīšanu par saviem līdzekļiem tā, lai piesārņojums turpmāk neapdraudētu vidi, cilvēku dzīvību, veselību un īpašumu.
+(2) Ja, veicot darbības ar ķīmiskajām vielām vai ķīmiskajiem produktiem, ir nodarīts kaitējums videi, cilvēku veselībai vai īpašumam, kaitējumu pieļāvušais darbību veicējs atlīdzina nodarīto kaitējumu likumos un citos normatīvajos aktos noteiktajā kārtībā.
+(3) Darbību veicējs, kas atzīts par vainīgu šā likuma vai citu darbības ar ķīmiskajām vielām vai ķīmiskajiem produktiem regulējošo likumu un normatīvo aktu pārkāpšanā, sedz visus paraugu ņemšanas un izpētes izdevumus.

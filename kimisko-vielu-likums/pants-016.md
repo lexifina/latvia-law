@@ -1,0 +1,2 @@
+16.pants. Ar ķīmiskajām vielām un ķīmiskajiem produktiem veicamo darbību īpaša ierobežošana vai aizliegšana
+Ministru kabinets nosaka īpašus ierobežojumus vai aizliegumus attiecībā uz darbībām ar atsevišķām ķīmiskajām vielām vai ķīmiskajiem produktiem, vai citiem materiāliem, kuri satur šīs ķīmiskās vielas vai ķīmiskos produktus vai ir apstrādāti ar šīm ķīmiskajām vielām vai ķīmiskajiem produktiem.
