@@ -1,0 +1,1 @@
+105. Ikvienam ir tiesības uz īpašumu. Īpašumu nedrīkst izmantot pretēji sabiedrības interesēm. Īpašuma tiesības var ierobežot vienīgi saskaņā ar likumu. Īpašuma piespiedu atsavināšana sabiedrības vajadzībām pieļaujama tikai izņēmuma gadījumos uz atsevišķa likuma pamata pret taisnīgu atlīdzību.

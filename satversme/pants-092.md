@@ -1,0 +1,1 @@
+92. Ikviens var aizstāvēt savas tiesības un likumiskās intereses taisnīgā tiesā. Ikviens uzskatāms par nevainīgu, iekams viņa vaina nav atzīta saskaņā ar likumu. Nepamatota tiesību aizskāruma gadījumā ikvienam ir tiesības uz atbilstīgu atlīdzinājumu. Ikvienam ir tiesības uz advokāta palīdzību.

@@ -1,0 +1,1 @@
+95. Valsts aizsargā cilvēka godu un cieņu. Spīdzināšana, citāda cietsirdīga vai cieņu pazemojoša izturēšanās pret cilvēku ir aizliegta. Nevienu nedrīkst pakļaut nežēlīgam vai cilvēka cieņu pazemojošam sodam.

@@ -1,0 +1,1 @@
+107. Ikvienam darbiniekam ir tiesības saņemt veiktajam darbam atbilstošu samaksu, kas nav mazāka par valsts noteikto minimumu, kā arī tiesības uz iknedēļas brīvdienām un ikgadēju apmaksātu atvaļinājumu.

@@ -1,0 +1,1 @@
+98. Ikvienam ir tiesības brīvi izbraukt no Latvijas. Ikviens, kam ir Latvijas pase, ārpus Latvijas atrodas valsts aizsardzībā, un viņam ir tiesības brīvi atgriezties Latvijā. Latvijas pilsoni nevar izdot ārvalstīm.
