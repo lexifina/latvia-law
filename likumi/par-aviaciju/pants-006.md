@@ -1,11 +1,11 @@
 6. pants. Aviācijas departamenta un Civilās aviācijas administrācijas kompetence
 Aviācijas departaments:
 1) izstrādā civilās aviācijas perspektīvās attīstības programmu un koncepciju projektus;
-2) izsniedz atļaujas uzņēmējdarbības veikšanai gaisa satiksmes pakalpojumu jomā;
+2) izsniedz licences uzņēmējdarbības veikšanai gaisa satiksmes pakalpojumu jomā;
 3) izstrādā līgumus starptautisko lidojumu un gaisa pārvadājumu jomā, piedalās šo līgumu noslēgšanā vai Latvijas Republikas Ministru kabineta pilnvarojumā slēdz tos patstāvīgi;
 4) sadarbojas ar citu valstu valdību pārstāvjiem un pilnvarotām aviācijas institūcijām, kā arī ar starptautiskajām civilās aviācijas organizācijām gaisa telpas izmantošanas un civilās aviācijas darbības attīstības jautājumos;
 5) pieprasa no juridiskajām un fiziskajām personām, kuru darbība saistīta ar Latvijas Republikas gaisa telpas izmantošanu vai civilās aviācijas līdzekļu ekspluatāciju, savu funkciju pildīšanai nepieciešamo informāciju;
-6) izsniedz licenci uz konkursa pamata par tiesībām veikt gaisa pārvadājumus pa noteiktiem maršrutiem vai atsevišķos reģionos vai arī veikt attiecīgā profila aviācijas darbus noteiktā reģionā;
+6) izsniedz atļauju uz konkursa pamata par tiesībām veikt gaisa pārvadājumus pa noteiktiem maršrutiem vai atsevišķos reģionos vai arī veikt attiecīgā profila aviācijas darbus noteiktā reģionā;
 7) apstiprina pasažieru, bagāžas un kravas gaisa pārvadājumu noteikumus.
 Civilās aviācijas administrācija:
 1) veic Latvijas Republikas gaisa telpas izmantošanas un civilās aviācijas darbības valsts uzraudzību;
