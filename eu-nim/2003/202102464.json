@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2003. gada 29. aprīļa noteikumi Nr. 226 \"Noteikumi par bīstamo kravu pārvadāšanu pa dzelzceļu\".",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "66",
+  "official_journal_page": null,
+  "official_journal_date": "2003-05-05",
+  "entry_into_force": "2003-05-06",
+  "notification_date": "2021-04-06",
+  "commission_reference": "MNE(2021)02464",
+  "nim_celex": "72020L1833LVA_202102464",
+  "nim_id": "202102464",
+  "transposes_celex": [
+    "32020L1833"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/45cc5760-44f4-4061-b1d1-1a713407c144",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
