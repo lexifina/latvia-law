@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Nedzīvības apdrošinātāju maksātspējas normas un pašu līdzekļu aprēķināšanas noteikumi",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "89",
+  "official_journal_page": null,
+  "official_journal_date": "2004-06-03",
+  "entry_into_force": "2004-07-01",
+  "notification_date": "2004-10-21",
+  "commission_reference": "MNE(2004)52103",
+  "nim_celex": "72002L0013LVA_32103",
+  "nim_id": "32103",
+  "transposes_celex": [
+    "32002L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cab56e41-6a0a-412b-b60a-23404948b19e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
