@@ -1,0 +1,1 @@
+3.pants. Divu mēnešu laikā pēc šā likuma stāšanās spēkā valsts akciju sabiedrība "Valsts nekustamā īpašuma aģentūra" nodod Latvijas Rakstnieku savienībai šā likuma 1.pantā minēto īpašumu ar nodošanas-pieņemšanas aktu.
