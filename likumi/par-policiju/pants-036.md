@@ -1,2 +1,2 @@
 36. pants. Valsts policijas nodrošināšana ar dienesta telpām
-Kārtības policijas un kriminālpolicijas vietējām iestādēm un apakšvienībām dienesta telpas bez maksas ierāda pašvaldību iestādes, bet dzelzceļa, gaisa un ūdens transporta objektos izveidotajām policijas iestādēm un apakšvienībām - attiecīgie transporta resori. Policijas dienesta ēku un telpu ekspluatācijas izdevumi tiek segti no pašvaldību vai transporta līdzekļiem.
+Dzelzceļa, gaisa un ūdens transporta valsts iestādēs un uzņēmumos izvietotās valsts policijas iestādes un apakšvienības ar telpām nodrošina attiecīgā valsts iestāde vai uzņēmums. Šajā gadījumā policijas dienesta ēku ekspluatācijas izdevumus sedz attiecīgā valsts iestāde vai uzņēmums.

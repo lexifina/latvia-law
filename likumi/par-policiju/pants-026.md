@@ -1,5 +1,5 @@
 26. pants. Policijas darbinieka darba laiks un darba samaksa
 Policijas darbiniekam noteikta 40 stundu darba nedēļa. Ja nepieciešams, policijas darbinieku pēc policijas iestādes priekšnieka norādījuma var iesaistīt darbā virs noteiktās darba laika normas.
-Policijas darbinieks par dienestu policijā saņem darba samaksu kurā ietilpst amatalga un piemaksas (par speciālo amata (dienesta) pakāpi, par izdienu un citas piemaksas), kuru veidus un apmērus atbilstoši dienesta apstākļiem nosaka Ministru kabinets.
+Policijas darbinieks par dienestu policijā saņem darba samaksu, kurā ietilpst amatalga, piemaksa par speciālo amata (dienesta) pakāpi, piemaksa par izdienu un citas piemaksas, kuru veidus un apmērus atbilstoši dienesta apstākļiem nosaka Ministru kabinets.
 Policijas darbiniekam, kurš šajā dienestā nostrādājis mazāk par 10 gadiem, piešķir ikgadēju apmaksātu atvaļinājumu - četras kalendāra nedēļas, pēc 10 dienesta gadiem - piecas, pēc 20 dienesta gadiem - sešas, bet pēc 25 dienesta gadiem - septiņas kalendāra nedēļas.
 Pensiju policijas darbiniekam piešķir saskaņā ar nolikumu par izdienas pensijām un citiem normatīvajiem aktiem par iekšlietu iestāžu ierindas un komandējošā sastāva personu pensijām. Uz policijas kalpotāju, kuram nav speciālās dienesta pakāpes, attiecas Latvijas Republikas 1990. gada 29. novembra likums «Par valsts pensijām».
