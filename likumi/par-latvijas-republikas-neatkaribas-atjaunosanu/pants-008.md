@@ -1,0 +1,1 @@
+8. Garantēt Latvijas Republikas un citu valstu pilsoņiem, kas pastāvīgi dzīvo Latvijas teritorijā, sociālās, ekonomiskās un kultūras tiesības, kā arī politiskās brīvības, kuras atbilst vispāratzītām starptautiskām cilvēktiesību normām. Tas pilnā mērā attiecināms uz tiem PSRS pilsoņiem, kuri izteiks vēlēšanos dzīvot Latvijā, nepieņemot tās pilsonību.

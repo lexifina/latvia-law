@@ -1,0 +1,1 @@
+5. Noteikt Latvijas Republikas valsts varas de facto atjaunošanai pārejas periodu, kurš beidzas ar Latvijas Republikas Saeimas sasaukšanu. Pārejas perioda augstāko valsts varu Latvijā realizē Latvijas Republikas Augstākā Padome.

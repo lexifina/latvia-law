@@ -1,0 +1,1 @@
+9. Latvijas Republikas attiecības ar PSRS veidot saskaņā ar joprojām spēkā esošo 1920. gada 11. augusta miera līgumu starp Latviju un Krieviju, kurā uz mūžīgiem laikiem ir atzīta Latvijas valsts neatkarība. Sarunām ar PSRS izveidot Valdības komisiju.

@@ -1,0 +1,1 @@
+1. Atzīt starptautisko tiesību pamatprincipu prioritāti pār valsts tiesību normām. Uzskatīt par prettiesisku PSRS un Vācijas 1939. gada 23. augusta vienošanos un no tās izrietošo 1940. gada 17. jūnija Latvijas Republikas suverēnās valsts varas likvidēšanu PSRS militārās agresijas rezultātā.
