@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par drošības konsultantu (padomnieku) norīkošanu, profesionālo kvalifikāciju un darbību bīstamo kravu pārvadājumu jomā",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "188",
+  "official_journal_page": null,
+  "official_journal_date": "2001-12-28",
+  "entry_into_force": null,
+  "notification_date": "2004-01-21",
+  "commission_reference": "MNE(2003)50037",
+  "nim_celex": "71996L0035LVA_20037",
+  "nim_id": "20037",
+  "transposes_celex": [
+    "31996L0035",
+    "32000L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5a85acbe-ef2c-4357-8696-a0c38a30b757",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
