@@ -1,0 +1,8 @@
+6.pants. Darba devēja tiesības
+Organizējot darba aizsardzību uzņēmumā, darba devējam ir šādas tiesības:
+1) saskaņā ar likumu piemērot nodarbinātajiem disciplinārsodus par darba aizsardzības normatīvo aktu un citu darba aizsardzības noteikumu pārkāpumiem, kā arī darba devēja prasību neizpildi darba aizsardzības jautājumos;
+2) noteikt papildu apmācību darba aizsardzības jautājumos nodarbinātajam, kurš pārkāpis darba aizsardzības normatīvos aktus vai citus darba aizsardzības noteikumus, ja šāds pārkāpums nav radījis risku citu cilvēku drošībai un veselībai, apmācības laikā nodarbinātajam saglabājot minimālo darba algu;
+3) piemērot darba vides riska novērtēšanai metodi un standartus, kas atbilst uzņēmuma tehniskajiem un ekonomiskajiem resursiem, komercdarbības veidam un darba apstākļiem;
+4) noteikt nodarbinātajiem garantijas un atvieglojumus darba aizsardzības jomā papildus normatīvajos aktos noteiktajām garantijām un atvieglojumiem;
+5) ierosināt noslēgt vienošanos ar nodarbinātajiem darba aizsardzības pasākumu, tiem nepieciešamo līdzekļu apjoma un to izmantošanas kārtības noteikšanai saskaņā ar darba aizsardzības normatīvo aktu prasībām;
+6) apstrīdēt Valsts darba inspekcijas amatpersonu brīdinājumus, rīkojumus vai lēmumus likumā noteiktā kārtībā.

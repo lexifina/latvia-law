@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par darba aizsardzību" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1993, 20.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 8.nr.).

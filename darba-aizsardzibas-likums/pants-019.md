@@ -1,0 +1,2 @@
+19.pants. Nodarbinātā tiesības uz atlīdzību, izbeidzot darba vai civildienesta attiecības sakarā ar drošības un veselības apdraudējumu darbā
+Ja nodarbinātais vienpusēji izbeidz darba tiesiskās attiecības vai civildienesta attiecības sakarā ar to, ka darba devējs neveic visus nepieciešamos darba aizsardzības pasākumus un tiek būtiski apdraudēta nodarbinātā drošība un veselība darbā, un apdraudējuma faktu apliecina Valsts darba inspekcijas atzinums, darba devēja pienākums ir izmaksāt nodarbinātajam atlīdzību, kas nav mazāka par sešu mēnešu vidējo izpeļņu.
