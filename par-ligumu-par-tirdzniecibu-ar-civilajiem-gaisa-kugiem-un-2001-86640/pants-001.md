@@ -1,0 +1,1 @@
+1.pants. 1979.gada 12.aprīļa Līgums par tirdzniecību ar civilajiem gaisa kuģiem (turpmāk - Līgums) un 2001.gada 6.jūnija Protokols par grozījumiem Līguma par tirdzniecību ar civilajiem gaisa kuģiem pielikumā (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.
