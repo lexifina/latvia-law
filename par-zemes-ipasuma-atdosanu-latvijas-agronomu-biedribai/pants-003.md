@@ -1,0 +1,1 @@
+3.pants. Zemes īpašuma tiesības uzskatāmas par atjaunotām ar dienu, kad Latvijas Agronomu biedrība, pamatojoties uz šo likumu un attiecīgu pagasta zemes komisijas lēmumu, zemes īpašumu reģistrējusi zemesgrāmatā.
