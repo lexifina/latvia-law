@@ -6,3 +6,4 @@
 2) persona, kurai īpašuma tiesības uz ēkām vai būvēm atjaunotas likumā noteiktajā kārtībā un kura tās ir pārņēmusi;
 3) persona, kura nekustamā īpašuma valdījumu ieguvusi uz mantojuma tiesību vai cita pamata.
 (4) Nekustamā īpašuma nodokli par nekustamo īpašumu, kas uz kopīpašuma tiesību pamata pieder vairākām personām vai atrodas kopvaldījumā, maksā katrs kopīpašnieks (kopvaldītājs) atbilstoši savai daļai kopīpašumā (kopvaldījumā).
+(5) Nekustamā īpašuma nodokli par valsts vai pašvaldības īpašumā esošu zemi un ēkām maksā to lietotājs, bet, ja tāda nav, - nomnieks.

@@ -1,5 +1,6 @@
 9. Līdz 2001.gada 31.decembrim attiecībā uz ēkām un būvēm:
-1) ar nekustamā īpašuma nodokli apliek tikai tās ēkas un būves, kuras tiek izmantotas saimnieciskajā darbībā. Ja saimnieciskajā darbībā tiek izmantota ēkas vai būves daļa, ar nodokli apliekamajā vērtībā ieskaita ēkas vai būves vērtību atbilstoši saimnieciskajā darbībā izmantojamajai daļai;
+1) ar nekustamā īpašuma nodokli tiek apliktas saimnieciskajā darbībā izmantojamās ēkas un būves. Ja saimnieciskajā darbībā tiek izmantota ēkas vai būves daļa, ar nodokli apliekamajā vērtībā ieskaita ēkas vai būves vērtību atbilstoši saimnieciskajā darbībā izmantojamajai daļai;
+1¹) pašvaldībai ir tiesības pieprasīt, lai nodokļa maksātāji iesniedz bilanci vai dokumentu, kurā ir uzrādīta Valsts zemes dienesta noteiktā ēku vai būvju inventarizācijas vērtība;
 2) ar nodokli papildus šā likuma 1.panta otrajā daļā minētajiem objektiem neapliek:
 a) ēkas un būves, kuras izmantojamas tikai lauksaimnieciskajai darbībai,
 b) ēkas un būves, kuras uztur par valsts budžeta vai pašvaldību budžetu līdzekļiem vai izmanto veselības aizsardzības, sporta, izglītības un kultūras vajadzībām, izņemot kinoteātrus un videotēkas,
