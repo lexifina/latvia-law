@@ -4,7 +4,7 @@
 2) atkārtoti pagarināt līdz trijiem mēnešiem nokavēto pašvaldības budžetos ieskaitāmo nodokļu samaksas termiņu, neaprēķinot šajā likumā un konkrēto nodokļu likumos noteikto nokavējuma naudu, ja iepriekšējā pagarinājuma laikā samaksāti ne mazāk kā 20 procenti no nodokļu parāda summas. Nodokļu maksātājam motivētais iesniegums nodokļu administrācijai jāiesniedz, pirms ir beidzies nokavētā maksājuma pagarinājuma termiņš;
 3) sadalīt termiņos vai atlikt uz laiku līdz vienam gadam nodokļu administrācijas veiktās kontroles (pārbaudes, revīzijas) rezultātā aprēķināto nodokļu maksājumu un soda naudas samaksu;
 4) sadalīt termiņos vai atlikt uz laiku līdz vienam gadam nokavēto nodokļu maksājumu samaksu, ja termiņa nokavējums radies nepārvaramas varas rezultātā.
-(2) Šā panta pirmajā daļā paredzēto kārtējo un nokavēto nodokļu un citu budžetos ieskaitāmo maksājumu samaksas termiņu pagarināšanu gadījumos, kad konkrētos nodokļus administrē Valsts ieņēmumu dienests un pašvaldības, ir tiesīgs veikt Valsts ieņēmumu dienests, pamatojoties uz nodokļu maksātāja motivētu rakstveida iesniegumu, kas ir saskaņots ar attiecīgajām pašvaldībām.
+(2) Šā panta pirmajā daļā paredzēto kārtējo un nokavēto nodokļu un citu budžetos ieskaitāmo maksājumu samaksas termiņu pagarināšanu gadījumos, kad konkrētos nodokļus administrē Valsts ieņēmumu dienests un pašvaldības, ir tiesīgs veikt Valsts ieņēmumu dienests, pamatojoties uz nodokļu maksātāja motivētu rakstveida iesniegumu, kas ir saskaņots ar attiecīgajām pašvaldībām. Attiecībā uz nodokļiem, kuri pilnā apmērā tiek ieskaitīti pašvaldību budžetā, lēmumu par samaksas termiņa pagarināšanu pieņem attiecīgā pašvaldība.
 (3) (Izslēgta ar 25.11.1999. likumu.)
 (4) (Izslēgta ar 25.11.1999. likumu.)
 (5) (Izslēgta ar 09.10.2002. likumu.)

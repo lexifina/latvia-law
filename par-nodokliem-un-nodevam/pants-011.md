@@ -25,7 +25,7 @@ l) (izslēgts ar 20.12.2001. likumu);
 12) par uzturēšanās atļauju izsniegšanu un ar to saistītajiem pakalpojumiem;
 13) par Latvijas Republikas ieceļošanas vīzu izsniegšanu un ar to saistītajiem pakalpojumiem;
 14) par Latvijas Republikas pasu un citu personu apliecinošu un tiesību apliecinošu dokumentu izsniegšanu;
-15) par deklarētās dzīvesvietas reģistrāciju;
+15) (izslēgts ar 09.10.2003. likumu);
 16) par selekcionāru tiesību aizsardzību;
 17) par rūpnieciskā īpašuma (izgudrojumu, preču zīmju, dizainparaugu un cita rūpnieciskā īpašuma) aizsardzību;
 18) par naturalizācijas iesniegumu iesniegšanu;
@@ -64,4 +64,5 @@ l) (izslēgts ar 20.12.2001. likumu);
 51) par mednieka apliecības, mednieka sezonas kartes un medību atļaujas izsniegšanu, par atļaujas izsniegšanu ārvalstu medniekam medīt Latvijas Republikā un atļaujas izsniegšanu izvest medību trofejas no Latvijas Republikas;
 52) par personas datu apstrādes sistēmas reģistrēšanu vai Fizisko personu datu aizsardzības likumā noteikto reģistrējamo izmaiņu izdarīšanu;
 53) par sertifikācijas pakalpojumu sniedzēja akreditāciju un akreditācijas atjaunošanu (šo akreditāciju un akreditācijas atjaunošanu veic Datu valsts inspekcija);
-54) par informācijas sniegšanu no Valsts adrešu reģistra.
+54) par informācijas sniegšanu no Valsts adrešu reģistra;
+55) par darba atļaujas pieprasīšanai nepieciešamo dokumentu izskatīšanu.
