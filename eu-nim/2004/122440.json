@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par Latvijā atļautajām barības piedevām, olbaltumvielām, kas iegūtas no baktērijām, raugiem (izņemot raugus, kuri kultivēti uz augu vai dzīvnieku izcelsmes substrātiem), aļģēm un zemākajām sēnēm, aminoskābju fermentācijas blakusproduktiem, aminoskābēm, aminoskābju sāļiem un aminoskābju analogiem, un to aprites kārtību",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "66",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-28",
+  "entry_into_force": null,
+  "notification_date": "2005-07-08",
+  "commission_reference": "MNE(2005)52440",
+  "nim_celex": "72004L0116LVA_122440",
+  "nim_id": "122440",
+  "transposes_celex": [
+    "32004L0116"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/541a9dba-8f11-4c7b-9876-adba22935ec0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
