@@ -9,6 +9,7 @@
 2) pēc paša maksātāja izvēles - par šā likuma 3.panta trešās daļas 1.punktā minēto ienākumu;
 3) pēc ienākuma izmaksātāja atrašanās vietas - pārējos gadījumos.
 5.¹ Ārvalstu nodokļa maksātājs, kas Latvijā uzturas, lai veiktu algotu darbu tāda darba devēja labā, kurš nav Latvijas rezidents vai kuram nav pastāvīgās pārstāvniecības Latvijā, un kas pārtrauc minētā ienākuma gūšanu, un nav paredzama viņa atgriešanās Latvijā pirms taksācijas gada beigām, iesniedz deklarāciju, pirms viņš izbrauc no Latvijas.
+5.² Ārvalstu nodokļa maksātājs (nerezidents), kas Latvijā gūst ienākumu, no kura nodoklis maksājams rezumējošā kārtībā, bet kas taksācijas gadā pārstāj gūt šādu ienākumu vai gūst vienreiz izmaksājamu ienākumu un vienlaikus pārtrauc ekonomiskās saites ar Latviju, iesniedz deklarāciju 30 dienu laikā pēc ienākuma gūšanas beigām.
 6. Deklarācijai ir pievienojami vai reizē ar to uzrādāmi un, ja nepieciešams, iesniedzami dokumenti, kas apliecina:
 1) maksātāja tiesības uz atvieglojumiem;
 2) taksācijas gada laikā izdarītos attaisnotos izdevumus;

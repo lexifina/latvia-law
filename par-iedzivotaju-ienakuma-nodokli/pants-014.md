@@ -1,5 +1,5 @@
 14. pants. Maksātāja attaisnoto izdevumu un atvieglojumu pamatojums
 1. Maksātāja tiesības uz attaisnoto izdevumu, ar saimnieciskās darbības veikšanu saistīto izdevumu un atvieglojumu izslēgšanu no apliekamā ienākuma pierādāmas dokumentāri, uzrādot attiecīgus dokumentus vai iesniedzot to norakstus.
 2. Ņemot vērā maksātāja iesniegtos dokumentus, maksātāja dzīvesvietas Valsts ieņēmumu dienesta teritoriālā iestāde vai pašvaldība, kura ir grāmatiņas izsniedzēja, vai darba devējs, ja darbinieks tam ir iesniedzis Valsts ieņēmumu dienesta vai pašvaldības izsniegto paziņojumu par izmaiņām nodokļa atvieglojumos, ieraksta grāmatiņā nodokļa atvieglojumu posteņus.
-3. Ja maksātājs dokumentus, kas apstiprina attaisnotos izdevumus un atvieglojumus, pamatotu iemeslu dēļ nav laikus iesniedzis, tie saskaņā ar Valsts ieņēmumu dienesta teritoriālās iestādes lēmumu tiek ņemti vērā attiecībā uz laiku no tiesību rašanās brīža, bet tas nedrīkst būt ilgāks par vienu iepriekšējo gadu.
+3. Ja maksātājs dokumentus, kas apliecina attaisnotos izdevumus, nav laikus iesniedzis Valsts ieņēmumu dienesta teritoriālajai iestādei, tie tiek ņemti vērā tikai attiecībā uz laikposmu, kas nepārsniedz vienu pirmstaksācijas periodu.
 4. Maksātāja dokumenti, kas apstiprina attaisnotos izdevumus, attiecas tikai uz taksācijas periodu (kalendāro gadu).

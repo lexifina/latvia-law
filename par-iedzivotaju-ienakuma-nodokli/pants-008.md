@@ -2,9 +2,9 @@
 1. Maksātāja gada apliekamo ienākumu veido ienākumi, par kuriem ir jāmaksā algas nodoklis atbilstoši šā panta otrajai, ceturtajai un piektajai daļai, un pārējie šā panta trešajā daļā minētie ienākumi.
 2. Pie ienākumiem, par kuriem ir jāmaksā algas nodoklis, atbilstoši Ministru kabineta noteikumiem tiek pieskaitīta darba alga, prēmijas, vienreizēja un sistemātiska atlīdzība un citi ienākumi, ko darbinieks saņem uz pašreizējo vai iepriekšējo darba attiecību pamata uzņēmējsabiedrībās, valsts uzņēmumos, iestādēs, organizācijās un no fiziskajām personām, kā arī atlīdzība par valsts dienesta pienākumu izpildi un ienākumi no darba līguma izpildes.
 3. Pie pārējiem fiziskās personas ienākumiem, par kuriem ir jāmaksā nodoklis, tiek pieskaitīti:
-1) ienākumi no individuālā darba un uzņēmuma līguma;
-2) ienākumi no individuālā uzņēmuma, arī no zemnieku vai zvejnieku saimniecības, ja tie nav uzņēmumu ienākuma nodokļa objekts;
-3) ienākumi no līgumsabiedrības;
+1) ienākumi no individuālā darba, uzņēmuma līguma, komercaģenta un māklera darbības;
+2) ienākumi no individuālā uzņēmuma, arī no zemnieku vai zvejnieku saimniecības, ja tie nav uzņēmumu ienākuma nodokļa objekts, un ienākumi no individuālā komersanta darbības;
+3) ienākumi no līgumsabiedrības, personālsabiedrības un sadalītā lauksaimniecības pakalpojumu kooperatīvās sabiedrības pārpalikuma;
 4) ienākumi, ko uzņēmējsabiedrības, uzņēmuma (iestādes, organizācijas) dalībnieki saņem uzņēmējsabiedrības, uzņēmuma (iestādes, organizācijas) likvidācijas vai reorganizācijas gadījumā;
 5) ienākumi no nekustamā īpašuma (ēku, ēku daļu, dzīvokļu, zemes) iznomāšanas vai izīrēšanas;
 6) ienākumi no lietas (zemes, telpas) nodošanas tālāk apakšnomniekam vai apakšīrniekam;

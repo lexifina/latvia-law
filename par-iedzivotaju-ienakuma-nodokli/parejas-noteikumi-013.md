@@ -1,0 +1,1 @@
+13. Līdz šā likuma 26.panta otrajā daļā paredzēto noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2004.gada 1.jūlijam ir spēkā Ministru kabineta 1998.gada 21.aprīļa noteikumi nr.145 "Kārtība, kādā iedzīvotāju ienākuma nodokļa maksājumi tiek ieskaitīti pašvaldības budžetā", ciktāl tie nav pretrunā ar šo likumu.

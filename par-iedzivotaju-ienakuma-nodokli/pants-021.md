@@ -1,4 +1,4 @@
-21. pants. Kontrolējošā finansu iestāde
+21. pants. Kontrolējošā finanšu iestāde
 Valsts ieņēmumu dienesta teritoriālā iestāde pēc maksātāja dzīvesvietas:
 1) pārbauda deklarācijā uzrādīto datu ticamību un pareizību;
 2) veic iedzīvotāju ienākuma nodokļa maksāšanas kontroli;

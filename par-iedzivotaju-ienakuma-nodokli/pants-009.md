@@ -28,9 +28,10 @@ d) personāla akciju atpirkšanas;
 22) summas, kas izmaksātas subsīdiju veidā kā valsts atbalsts lauksaimniecībai vai Eiropas Savienības atbalsts lauksaimniecībai un lauku attīstībai;
 23) bezpeļņas organizācijas sabiedrības ar ierobežotu atbildību "Sorosa fonds - Latvija" projektu ietvaros izmaksātās stipendijas un atlīdzība, kura personai izmaksāta ārpus darba tiesiskajām attiecībām ar bezpeļņas organizāciju sabiedrību ar ierobežotu atbildību "Sorosa fonds - Latvija";
 24) ienākums no privātajos pensiju fondos veikto iemaksu ieguldīšanas;
-25) palīdzība, kas, pamatojoties uz reliģiskās organizācijas vai tās iestādes institūcijas (amatpersonas) lēmumu, sniegta no reliģiskās organizācijas vai tās iestādes naudas līdzekļiem, - gada neapliekamā minimuma apmērā.
+25) palīdzība, kas, pamatojoties uz reliģiskās organizācijas vai tās iestādes institūcijas (amatpersonas) lēmumu, sniegta no reliģiskās organizācijas vai tās iestādes naudas līdzekļiem, - gada neapliekamā minimuma apmērā;
+26) preču un pakalpojumu loteriju laimesti.
 2. Šā panta pirmās daļas 1., 10., 14., 16., 20. un 25.punktā minēto ienākumu, ja tie pārsniedz attiecīgās šajos punktos noteiktās summas (normas) lielumu, pārsnieguma summa tiek aplikta ar nodokli.
-3. Šā panta pirmās daļas 2.punkta noteikumi nav attiecināmi uz nerezidentiem.
+3. Šā panta noteikumi nav attiecināmi uz Latvijā gūto nerezidenta ienākumu.
 4. Šā panta pirmās daļas 8.punktā minētā stipendija ir vienreizēja vai sistemātiski ilgākā laika posmā izmaksāta naudas summa personai:
 1) kura vispārēju vai izvēlētu izglītības (studiju) programmu apgūst izglītības iestādē vai patstāvīgi;
 2) tās apgādībā esošo personu izglītības (studiju) programmas apgūšanas veicināšanai izglītības iestādē;
