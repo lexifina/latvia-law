@@ -1,1 +1,1 @@
-21.pants. Inspekcijas darbiniekiem ir aizliegts izpaust juridisko personu komercnoslēpumus, kas viņiem kļuvuši zināmi sakarā ar dienesta pienākumu pildīšanu. Par komercnoslēpuma izpaušanu vainīgais tiek saukts pie likumā noteiktās atbildības.
+21.pants. Inspekcijas darbiniekiem ir aizliegts izpaust komercnoslēpumus, kas viņiem kļuvuši zināmi sakarā ar dienesta pienākumu pildīšanu. Par komercnoslēpuma izpaušanu vainīgais tiek saukts pie likumā noteiktās atbildības.

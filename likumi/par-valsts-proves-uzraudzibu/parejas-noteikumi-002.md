@@ -1,1 +1,0 @@
-2. Šā likuma 18.panta 5.punkts tajā daļā, kas paredz tiesības apturēt uzņēmumu, uzņēmējsabiedrību, iestāžu un organizāciju operācijas ar dārgmetāliem, dārgakmeņiem un to izstrādājumiem, stājas spēkā vienlaikus ar attiecīgiem grozījumiem likumā "Par uzņēmumu, iestāžu un organizāciju darbības apturēšanas kārtību".

@@ -1,1 +1,1 @@
-9.pants. Visiem Latvijas Republikā izgatavotajiem, kā arī ievestajiem (importētajiem) dārgmetālu izstrādājumiem jābūt zīmogotiem ar valsts garantijas zīmi.
+9.pants. Latvijas Republikā izgatavotajiem, kā arī ievestajiem (importētajiem) dārgmetālu izstrādājumiem jābūt zīmogotiem ar valsts garantijas zīmi.
