@@ -1,7 +1,7 @@
 26.pants. Karavīru pārcelšana
 (1) Karavīru no vienas vienības vai iestādes uz citu vienību vai iestādi var pārcelt dienesta interesēs aizsardzības ministra noteiktajā kārtībā.
 (2) Virsnieks amatā atrodas ne ilgāk kā piecus gadus. Pēc šā termiņa beigām viņu pārceļ citā amatā. Aizsardzības ministrs, ņemot vērā karavīra specialitāti vai dienesta nepieciešamību, var pagarināt virsnieka atrašanos amatā. Virsnieku speciālistu pārceļ tikai atbilstoši viņa specialitātei. Šā likuma 23.panta piektajā daļā minētos virsniekus var pārcelt rotācijas kārtībā viņu dienesta pakāpei atbilstošā amatā.
-(3) Likvidējot amatu vai vienību (apakšvienību) vai to reorganizējot, karavīru pārceļ tādas pašas dienesta pakāpes amatā šajā vai citā vienībā vai ar viņa piekrišanu - zemākas dienesta pakāpes amatā. Ja karavīru nav iespējams pārcelt viņa dienesta pakāpei atbilstošā amatā un pārcelšanai zemākas dienesta pakāpes amatā viņš nepiekrīt, karavīru atvaļina no aktīvā dienesta likumā noteiktajā kārtībā.
+(3) Likvidējot amatu vai vienību (apakšvienību) vai to reorganizējot, karavīru pārceļ ne zemākā kā viņa dienesta pakāpei atbilstošā amatā šajā vai citā vienībā vai ar viņa piekrišanu - zemākas dienesta pakāpes amatā. Ja karavīru nav iespējams pārcelt viņa dienesta pakāpei atbilstošā amatā un pārcelšanai zemākas dienesta pakāpes amatā viņš nepiekrīt, karavīru atvaļina no aktīvā dienesta likumā noteiktajā kārtībā.
 (4) Karavīru var pārcelt no augstākas dienesta pakāpes amata uz zemākas dienesta pakāpes amatu:
 1) veselības stāvokļa dēļ pēc Nacionālo bruņoto spēku Centrālās medicīniskās ekspertīzes komisijas atzinuma;
 2) ja atestācijā noteikta neatbilstība amatam.

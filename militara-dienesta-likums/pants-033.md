@@ -5,9 +5,9 @@
 3) seržants - vada līmeņa instruktora kursu beigušam kaprālim pēc četru gadu nodienēšanas kaprāļa pakāpē;
 4) virsseržants (bocmanis) - rotas vai štāba līmeņa instruktora kursu beigušam seržantam pēc piecu gadu nodienēšanas seržanta pakāpē;
 5) vecākais virsseržants (vecākais bocmanis) - virsseržantam pēc piecu gadu nodienēšanas virsseržanta pakāpē;
-6) virsniekvietnieks - karavīram pēc virsniekvietnieka kursa pabeigšanas;
+6) virsniekvietnieks - karavīram ar vismaz pirmā līmeņa profesionālo augstāko izglītību pēc virsniekvietnieka kursa pabeigšanas;
 7) vecākais virsniekvietnieks - virsniekvietniekam pēc piecu gadu nodienēšanas virsniekvietnieka pakāpē;
-8) leitnants - karavīram pēc virsnieku sagatavošanas militārās izglītības iestādes absolvēšanas un karavīram ar augstāko izglītību pēc virsnieka pamatkursa vai virsnieka speciālista kursa pabeigšanas;
+8) leitnants - karavīram pēc virsnieku sagatavošanas militārās izglītības iestādes absolvēšanas un karavīram ar augstāko izglītību pēc virsnieka pamatkursa pabeigšanas;
 9) virsleitnants - leitnantam pēc triju gadu nodienēšanas leitnanta pakāpē;
 10) kapteinis (kapteiņleitnants) - rotas komandieru kursu, citu tam pielīdzinātu kursu vai virsnieka speciālista kvalifikācijas kursu beigušam virsleitnantam pēc četru gadu nodienēšanas virsleitnanta pakāpē;
 11) majors (komandleitnants) - kapteinim (kapteiņleitnantam) pēc piecu gadu nodienēšanas kapteiņa (kapteiņleitnanta) pakāpē;

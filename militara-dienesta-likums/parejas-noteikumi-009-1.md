@@ -1,0 +1,1 @@
+9.¹ Šā likuma 33.panta 6.punktā paredzētie dienesta pakāpes piešķiršanas nosacījumi par attiecīgās izglītības nepieciešamību karavīriem, kuri pieņemti aktīvajā dienestā pirms šā likuma spēkā stāšanās, stājas spēkā 2006.gada 31.decembrī.

@@ -38,3 +38,4 @@ b) profesionālā dienesta karavīram - pēdējā mēneša karavīra algas apmē
 7) nelaimes gadījums noticis strīda laikā un strīda cēlonis nav saistīts ar dienesta pienākumu pildīšanu.
 (11) Šajā pantā noteiktā karavīra obligātā apdrošināšana un kompensāciju izmaksas kārtība nav spēkā kara laikā.
 (12) Kārtību, kādā izmeklējami un uzskaitāmi nelaimes gadījumi, kas notikuši ar karavīriem dienesta laikā, nosaka Ministru kabinets.
+(13) Ja karavīrs, piedaloties starptautiskajās operācijās, guvis veselības traucējumu vai slimību vai gājis bojā, šajā pantā noteiktās kompensācijas izmaksā, ņemot vērā dienesta atalgojumu, kāds karavīram bija noteikts pamatdienesta vietā Latvijā pirms nosūtīšanas starptautisko operāciju veikšanai.

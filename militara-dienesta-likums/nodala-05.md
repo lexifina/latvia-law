@@ -1,2 +1,2 @@
 V nodaļa
-Dienesta pakāpju piešķiršana, pazemināšana un atņemšana
+Dienesta pakāpju piešķiršana un atņemšana

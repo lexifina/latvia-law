@@ -1,2 +1,3 @@
 67.pants. Dienesta pakāpju piešķiršana rezerves karavīriem
-Rezerves karavīram, kas militāro mācību laikā apguvis atbilstošu mācību programmu un nokārtojis nepieciešamos pārbaudījumus, aizsardzības ministra noteiktajā kārtībā atbilstoši šā likuma prasībām piešķir kārtējo dienesta pakāpi, bet ne augstāku par kapteiņa dienesta pakāpi.
+(1) Rezerves karavīram, kas militāro mācību laikā apguvis atbilstošu mācību programmu un nokārtojis nepieciešamos pārbaudījumus, aizsardzības ministra noteiktajā kārtībā atbilstoši šā likuma prasībām piešķir kārtējo dienesta pakāpi, bet ne augstāku par kapteiņa dienesta pakāpi.
+(2) Citas valsts bruņotajos spēkos dienējušam rezerves karavīram pielīdzināšanas kārtībā var piešķirt viņa dokumentāri pierādītajai dienesta pakāpei līdzīgu un militārajai sagatavotībai atbilstošu karavīra dienesta pakāpi aizsardzības ministra noteiktajā kārtībā.

@@ -1,1 +1,1 @@
-3. Ministru kabineta 1999.gada 29.jūnija noteikumi nr.241 "Noteikumi par karavīru un ierindas dienesta zemessargu atalgojuma sistēmu" ir spēkā līdz 2003.gada 31.decembrim.
+3. Ministru kabineta 1999.gada 29.jūnija noteikumi nr.241 "Noteikumi par karavīru un ierindas dienesta zemessargu atalgojuma sistēmu" ir spēkā līdz brīdim, kad stājas spēkā Ministru kabineta noteikumi, kuri jāizdod saskaņā ar šā likuma 48.pantu, bet ne ilgāk kā līdz 2003.gada 31.decembrim.
