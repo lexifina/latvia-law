@@ -1,0 +1,1 @@
+13.pants. Pagastu zemes komisijas izbeidz savu darbību divu mēnešu laikā pēc šā likuma 3.panta 1., 2. un 3.punktā minēto darbu izpildes dienas. Pagastu zemes komisijām šajā termiņā jānodod zemes komisiju protokoli un ar zemes reformu saistītā dokumentācija Valsts zemes dienesta attiecīgā rajona nodaļai. Dokumentācijai jābūt sakārtotai atbilstoši normatīvajiem aktiem par arhīviem.

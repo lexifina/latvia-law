@@ -1,0 +1,1 @@
+16.pants. Ja ir nokavēts termiņš, līdz kuram bija jāiesniedz dokumenti, kas apliecina zemes īpašuma vai mantošanas tiesības, zemes īpašuma tiesības var atjaunot Centrālā zemes komisija. Centrālās zemes komisijas lēmumus likumā noteiktajā kārtībā var pārsūdzēt tiesā.

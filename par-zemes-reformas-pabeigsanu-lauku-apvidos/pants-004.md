@@ -1,0 +1,1 @@
+4.pants. Mēneša laikā pēc šā likuma 3.pantā minēto zemes reformas pirmās un otrās kārtas darbu pabeigšanas attiecīgā pašvaldība sagatavo un iesniedz Valsts zemes dienestam pārskatu, kurā uzrādīts pašvaldības teritorijā esošo zemju sadalījums atbilstoši to izmantošanas galvenajam mērķim.

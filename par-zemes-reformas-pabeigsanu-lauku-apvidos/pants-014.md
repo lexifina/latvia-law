@@ -1,0 +1,1 @@
+14.pants. Pēc pagasta zemes komisijas darbības izbeigšanās likuma "Par zemes komisijām" 2.pantā un likumā "Par zemes privatizāciju lauku apvidos" noteiktās funkcijas pārņem Valsts zemes dienesta attiecīgā rajona nodaļa.

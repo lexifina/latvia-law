@@ -1,0 +1,1 @@
+1.pants. Šis likums nosaka kārtību, kādā pabeidzama zemes reforma lauku apvidos, kā arī līdz tās pabeigšanai sakārtojamas zemes lietošanas tiesības un īpašuma attiecības un izskatāmi strīdi ar zemes reformu saistītajos jautājumos.
