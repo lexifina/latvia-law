@@ -1,0 +1,1 @@
+Konvencija par kravu starptautiskajos pārvadājumos izmantojamo autotransporta līdzekļu aplikšanu ar nodokļiem
