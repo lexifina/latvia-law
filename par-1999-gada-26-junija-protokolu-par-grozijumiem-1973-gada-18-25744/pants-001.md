@@ -1,0 +1,1 @@
+1.pants. 1999.gada 26.jūnija Protokols par grozījumiem 1973.gada 18.maija Kioto starptautiskajā konvencijā par muitas procedūru vienkāršošanu un harmonizēšanu (turpmāk - Protokols) un tā 1. un 2.pielikums (turpmāk - Pielikumi) ar šo likumu tiek pieņemts un apstiprināts.
