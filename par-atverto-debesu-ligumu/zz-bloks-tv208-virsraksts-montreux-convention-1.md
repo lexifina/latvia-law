@@ -1,0 +1,2 @@
+1. Observation flights conducted under the provisions of the Treaty providing for the observation of the entire territory of States Parties shall not prejudice the Montreux Convention of 20 July 1936.
+2. The routing and notification of transit flights of aircraft for the purpose of the Treaty falling within the scope of Article 23 of the Montreux Convention shall be governed by the provisions of that Article.

@@ -1,0 +1,26 @@
+I DAĻA. VISPĀRĪGI NOTEIKUMI
+Procedūras un citi noteikumi attiecībā uz Atvērto debesu konsultatīvo komisiju ir noteikti saskaņā ar Līguma X pantu.
+1. Atvērto debesu konsultatīvā komisija sastāv no pārstāvjiem, ko nozīmējusi katra Dalībvalsts. Dalībvalsts vietnieki, padomdevēji un eksperti var piedalīties Atvērto debesu konsultatīvās komisijas debatēs pēc Dalībvalstu ieskatiem.
+2. Sākotnējā Atvērto debesu konsultatīvās komisijas sesija sāk darbu 60 dienu laikā pēc Līguma parakstīšanas. Sesijas darbu atklāj Kanādas pārstāvis.
+3. Atvērto debesu konsultatīvā komisija organizē ne mazāk kā 4 regulāras sesijas kalendārajā gadā, izņemot gadījumus, kad tā nolemj citādi. Pēc vienas vai vairāku Dalībvalstu pieprasījuma Atvērto debesu konsultatīvās komisijas priekšsēdētājs var sasaukt ārkārtas sesijas, nekavējoties paziņojot par šo pieprasījumu visām pārējām Dalībvalstīm. Šādu sesiju darbu atklāj ne vēlāk kā piecpadsmit dienas pēc tam, kad priekšsēdētājs saņēmis pieprasījumu.
+4. Atvērto debesu konsultatīvās komisijas sesijas noris ne ilgāk kā četras nedēļas, izņemot gadījumus, kad tā nolemj citādi.
+5. Dalībvalstis rotācijas kārtībā uzņemas Atvērto debesu konsultatīvās komisijas prezidentūru, ko nosaka alfabētiskā kārtībā pēc franču valodas. Katrs priekšsēdētājs pilda savas funkcijas no sesijas sākuma līdz nākamās sesijas sākumam, izņemot gadījumus, kad pastāv cita vienošanās.
+6. Pārstāvji sapulcēs sēž Dalībvalstu nosaukumu alfabētiskā kārtībā pēc franču valodas.
+7. Atvērto debesu konsultatīvās komisijas darba valodas ir angļu, franču, vācu, itāļu, krievu un spāņu.
+8. Atvērto debesu konsultatīvās komisijas protokoli ir konfidenciāli, izņemot gadījumus, kad pastāv cita vienošanās. Atvērto debesu konsultatīvā komisija var pieņemt lēmumu darīt savus protokolus vai lēmumus pieejamus atklātībai.
+9. Līguma pagaidu piemērošanas laikā un pirms 1992. gada 30. jūnija, Atvērto debesu konsultatīvā komisija nolemj par izdevumu sadalīšanu, kuri rodas saskaņā ar Līgumu. Tā pēc iespējas ātrāk izlemj par kopīgo izmaksu sadales skalu, kuras saistītas ar Atvērto debesu konsultatīvās komisijas darbību.
+10. Līguma pagaidu piemērošanas laikā Atvērto debesu konsultatīvā komisija izstrādā dokumentu, kas saistīts ar paziņojumiem un ziņojumiem, kas jāsniedz saskaņā ar Līgumu. Šādā dokumentā uzskata visus paziņojumus un ziņojumus, kā arī vajadzības gadījumā ietver attiecīgos formātus.
+11. Atvērto debesu konsultatīvā komisija izstrādā vai, vajadzības gadījumā, pārskata savus procesuālos noteikumus un darba metodes.
+II DAĻA. IKGADĒJO AKTĪVO KVOTU PĀRSKATĪŠANA
+Procedūras ikgadējo aktīvo kvotu pārskatīšanai, kas paredzētas Līguma III panta I daļas 7. punktā, ir šādas:
+1. Dalībvalstis, kas attiecībā uz savu ikgadējo kvotu vēlas mainīt visu iepriekšējā gada sadalījumu vai tā daļu, paziņo par to visām pārējām Dalībvalstīm un Atvērto debesu konsultatīvajai komisijai līdz katra gada 1. oktobrim, norādot tās Dalībvalstis, kuru teritorijā tās nākamā kalendārā gada laikā vēlas veikt novērošanas lidojumus. Šādas ierosinātas pārmaiņas Dalībvalstis izskata šīs pārskatīšanas laikā, ievērojot noteikumus, kas izklāstīti šīs daļas tālākajos punktos.
+2. Ja pieprasījumi veikt novērošanas lidojumus kādas konkrētas Dalībvalsts teritorijā nepārsniedz tās pasīvo kvotu, tad sadalījumu nosaka atbilstoši prasītajam un iesniedz Atvērto debesu konsultatīvajā komisijā apstiprināšanai.
+3. Ja pieprasījumi veikt novērošanas lidojumus kādas konkrētas Dalībvalsts teritorijā pārsniedz tās pasīvo kvotu, tad sadalījumu var noteikt, attiecīgajām Dalībvalstīm panākot vispārēju vienošanos, pēc tam iesniedzot to Atvērto debesu konsultatīvajā komisijā apstiprināšanai.
+III DAĻA. ĀRPUSKĀRTAS NOVĒROŠANAS LIDOJUMI
+1. Atvērto debesu konsultatīvā komisija izskata pieprasījumus no Eiropas Drošības un sadarbības organizācijas iestādēm, kuras ir pilnvarotas nodarboties ar konfliktu novēršanu un krīzes situāciju atrisināšanu, kā arī no citām attiecīgām starptautiskām organizācijām, lai pār kādas Dalībvalsts teritoriju ar tās piekrišanu būtu vieglāk noorganizēt un vadīt ārpuskārtas novērošanas lidojumus.
+2. Datus, kurus iegūst šādos novērošanas lidojumos, dara pieejamus attiecīgajām iestādēm un organizācijām.
+3. Neskarot jebkurus citus Līguma noteikumus, Dalībvalstis uz abpusēja un brīvprātīga pamata var vienoties veikt novērošanas lidojumus cita citas teritorijā, ievērojot šādu novērošanas lidojumu veikšanas procedūras. Izņemot gadījumus, kad attiecīgo Dalībvalstu starpā pastāv cita vienošanās, datus, kurus iegūst šādos novērošanas lidojumos, dara pieejamus Atvērto debesu konsultatīvajai komisijai.
+4. Novērošanas lidojumus, ko veic saskaņā ar šīs daļas noteikumiem, neatskaita no attiecīgo dalībvalstu pasīvajām vai aktīvajām kvotām.
+IV DAĻA. PAPILDU JOMAS ATVĒRTO DEBESU REŽĪMA LIETOJUMAM
+1. Dalībvalstis var iesniegt Atvērto debesu konsultatīvajā komisijā ierosinājumus lietot Atvērto debesu režīmu arī citās īpašās jomās, piemēram, vides aizsardzības jomā.
+2. Atvērto debesu konsultatīvā komisija var lemt par šādiem jautājumiem vai, vajadzības gadījumā, tā var pārsūtīt tos izskatīšanai uz pirmo un nākamajām konferencēm, ko sasauc, lai izvērtētu Līguma ieviešanu saskaņā ar Līguma XVI panta 3. punkta noteikumiem.
