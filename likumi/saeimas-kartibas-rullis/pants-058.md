@@ -1,2 +1,2 @@
 58. (1) Referentam, Ministru prezidentam un Ministru kabineta pārstāvim apspriežamajā lietā vārdu debatēs dod ārpus kārtas.
-(2) Ministru kabinets par savu pārstāvi apspriežamajā lietā var pilnvarot Ministru prezidenta biedru, ministru, valsts ministru vai ministrijas parlamentāro sekretāru. Par pilnvarojumu Ministru kabinets rakstveidā informē Saeimas Prezidiju. Katrā apspriežamajā lietā var būt viens Ministru kabineta pārstāvis.
+(2) Ministru kabinets par savu pārstāvi apspriežamajā lietā var pilnvarot Ministru prezidenta biedru, ministru, valsts ministru vai ministrijas parlamentāro sekretāru. Par pilnvarojumu Ministru kabinets rakstveidā informē Prezidiju. Katrā apspriežamajā lietā var būt viens Ministru kabineta pārstāvis.

@@ -1,4 +1,4 @@
-96.¹ (1) Nevienu likumprojektu par budžetu nedrīkst iekļaut darba kārtībā un izskatīt otrajā lasījumā, ja:
+96.¹ (1) Nevienu likumprojektu par budžetu nedrīkst izskatīt otrajā lasījumā, ja:
 1) tam nav pievienoti:
 a) visi noteiktajā termiņā (90.un 92.p.) un kārtībā (90.1 un 95.p.) iesniegtie priekšlikumi (arī Ministru kabineta alternatīvie priekšlikumi), izņemot priekšlikumus, kurus to iesniedzēji atsaukuši,
 b) atbildīgās komisijas atzinumi par priekšlikumiem (arī alternatīvajiem priekšlikumiem),

@@ -16,4 +16,4 @@
 15) Pilsonības likuma izpildes komisija;
 16) Eiropas lietu komisija.
 (2) Katras komisijas skaitlisko sastāvu, kā arī komisijas izveidošanas principus nosaka Saeima.
-(3) Ārpolitiskai darbībai nepieciešamos budžeta izdevumus komisija saskaņo ar Saeimas Prezidiju.
+(3) Ārpolitiskai darbībai nepieciešamos budžeta izdevumus komisija saskaņo ar Prezidiju.

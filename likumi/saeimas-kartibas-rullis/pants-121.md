@@ -6,3 +6,4 @@
 (2) Atbildi uz jautājumu, kas nav steidzams, attiecīgā amatpersona iesniedz rakstveidā Saeimas Kancelejai ne vēlāk kā iepriekšējā dienā pirms termiņa, kas noteikts atbildēm uz iesniegtajiem jautājumiem, vai sniedz to mutvārdos.
 (3) Atbildi uz steidzamu jautājumu sniedz, ja jautājums iesniegts ne vēlāk kā 48 stundas pirms Saeimas attiecīgās sēdes.
 (4) Jautājumus un mutvārdos sniegtās atbildes fiksē fonogrammā, pēc kuras sagatavo stenogrammu. Stenogrammu kopā ar rakstveidā sniegtajām atbildēm pievieno Saeimas attiecīgās sēdes stenogrammai un publicē laikrakstā "Latvijas Vēstnesis".
+(5) Ja jautājuma iesniedzēji paziņo, ka iesniegtā rakstveida atbilde viņus apmierina, laiks šīs atbildes sniegšanai netiek noteikts.

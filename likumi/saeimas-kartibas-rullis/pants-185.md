@@ -1,2 +1,2 @@
-185. (1) Saeimas grāmatvedību, izdevumu lietderību, likumīgumu un bilanci pārbauda Revīzijas komisija.
-(2) Saeimas grāmatvedība revidējama vismaz reizi mēnesī, un revīzijas atzinumi iesniedzami Prezidijam.
+185. (1) Saeimas grāmatvedību, izdevumu lietderību, likumīgumu un gada pārskatus pārbauda Revīzijas komisija.
+(2) Pārskata gada laikā Revīzijas komisija plāno un veic finansu posteņu revīziju izlases kārtībā Saeimas saimniecībā. Pēc veiktajām izlases revīzijām Revīzijas komisija iesniedz atzinumus Saeimas Prezidijam. Katra pārskata gada beigās tiek veikta gada pārskata revīzija. Par gada pārskata revīziju Revīzijas komisija iesniedz atzinumu Saeimas Prezidijam ne vēlāk kā trīs mēnešus pēc gada pārskata beigām.

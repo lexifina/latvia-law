@@ -7,7 +7,7 @@
 1) nodot noteikumus arī atzinumā neminētai komisijai;
 2) nenodot noteikumus kādai atzinumā minētai komisijai;
 3) noteikt citu atbildīgo komisiju.
-(5) Šā panta ceturtajā daļā minētos priekšlikumus var iesniegt Saeimas komisija rakstveidā vai mutvārdos.
+(5) Šā panta ceturtajā daļā minētos priekšlikumus var iesniegt Saeimas komisija vai deputāts rakstveidā vai mutvārdos.
 (6) Ja Saeima nepieņem lēmumu par Satversmes 81.panta kārtībā izdoto Ministru kabineta noteikumu nodošanu komisijām, noteikumi uzskatāmi par noraidītiem. Tie zaudē spēku ar noraidīšanas dienu, ja Saeima pēc komisijas vai ne mazāk kā desmit deputātu priekšlikuma nav nolēmusi citādi.
 (7) Ja Saeima pieņem lēmumu par Satversmes 81.panta kārtībā izdoto Ministru kabineta noteikumu nodošanu komisijām, turpmāk šie noteikumi izskatāmi kā likumprojekti likumdošanas kārtībā, uzskatot, ka ar brīdi, kad pieņemts lēmums par nodošanu komisijām, attiecīgais likumprojekts pieņemts pirmajā lasījumā.
 (8) Uz Satversmes 81.panta kārtībā izdotajiem Ministru kabineta noteikumiem, kas nodoti komisijām, attiecināmi arī Saeimas kārtības ruļļa 85.panta otrās un ceturtās daļas noteikumi.
