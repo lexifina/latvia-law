@@ -1,1 +1,0 @@
-Lielais valsts ģerbonis
