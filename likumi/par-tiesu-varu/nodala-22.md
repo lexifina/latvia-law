@@ -1,0 +1,2 @@
+22. nodaļa
+TIESNEŠU SOCIĀLĀS GARANTIJAS

@@ -1,0 +1,2 @@
+10. nodaļa
+TIESU VARAS SIMBOLI

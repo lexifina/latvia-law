@@ -1,0 +1,2 @@
+20. nodaļa
+TIESNEŠU DARBA SAMAKSA

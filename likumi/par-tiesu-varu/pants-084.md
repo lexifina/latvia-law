@@ -1,0 +1,3 @@
+84. pants. Tiesneša atstādināšana no amata
+(1) Ja rajona (pilsētas) tiesas vai apgabaltiesas tiesnesis pieļāvis tādu dienesta pārkāpumu, par kuru var atlaist no amata, tieslietu ministrs atstādina viņu no amata līdz jautājuma galīgai izlemšanai, bet, ja minēto tiesnesi šajā likumā noteiktajā kārtībā sauc pie kriminālatbildības, - līdz nolēmuma pieņemšanai krimināllietā.
+(2) Ja Augstākās Tiesas tiesnesis pieļāvis tādu dienesta pārkāpumu, par kuru viņu var atlaist no amata, Augstākās Tiesas priekšsēdētājs atstādina viņu amata līdz jautājuma galīgai izlemšanai, bet, ja viņu šajā likumā noteiktajā kārtībā sauc pie kriminālatbildības, - līdz nolēmuma pieņemšanai krimināllietā.

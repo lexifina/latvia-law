@@ -1,0 +1,1 @@
+Latvijas Republikas apgabaltiesu darbības teritorija

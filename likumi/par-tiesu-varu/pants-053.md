@@ -1,0 +1,3 @@
+53. pants. Apgabaltiesas tiesneša kandidāts
+(1) Par apgabaltiesas tiesnesi var apstiprināt Latvijas Republikas pilsoni, kam ir augstākā juridiskā izglītība un vismaz divus gadus ilgs darba stāžs rajona (pilsētas) tiesas tiesneša amatā vai kam ir ne mazāk kā trīs gadus ilgs kopējais darba stāžs advokāta, prokurora vai augstākās mācību iestādes tieslietu specialitātes pasniedzēja darbā.
+(2) Par apgabaltiesas Saimniecisko lietu tiesas kolēģijas tiesnesi var apstiprināt arī tādu Latvijas Republikas pilsoni, kam ir augstākā juridiskā izglītība un vismaz četrus gadus ilgs darba stāžs juridiskajā specialitātē.

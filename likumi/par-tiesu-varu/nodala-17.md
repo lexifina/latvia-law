@@ -1,0 +1,2 @@
+17. nodaļa
+TIESLIETU MINISTRIJA
