@@ -1,0 +1,1 @@
+3. Līdz attiecīgu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2004.gada 30.novembrim ir spēkā Veselības ministrijas 2003.gada 3.oktobra rīkojums Nr.278 "Par cilvēka audu un orgānu izmantošanu medicīnā", ciktāl tas nav pretrunā ar šo likumu.
