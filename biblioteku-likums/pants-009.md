@@ -9,5 +9,5 @@
 6) ir nodrošināta bibliotēkas krājuma pieejamība lietotājiem;
 7) ir bibliotēkas nolikumā (statūtos) noteiktajā kārtībā izstrādāti bibliotēkas lietošanas noteikumi;
 8) tā pilnībā atbilst šā likuma 11.,12. vai 13.panta noteikumiem.
-(3) Bibliotēku akreditācija veicama reizi piecos gados saskaņā ar Ministru kabineta izdotajiem bibliotēku akreditācijas noteikumiem. Akreditāciju veic un akreditācijas dokumentus, ievērojot Latvijas Bibliotēku padomes atzinumu, izsniedz Bibliotēku pārvalde.
+(3) Bibliotēku akreditācija veicama reizi piecos gados saskaņā ar Ministru kabineta izdotajiem bibliotēku akreditācijas noteikumiem. Akreditāciju veic un akreditācijas dokumentus, ievērojot Latvijas Bibliotēku padomes atzinumu, izsniedz Kultūras ministrija.
 (4) Bibliotēka, kura netiek akreditēta, likvidējama bibliotēkas nolikumā (statūtos) noteiktajā kārtībā. Ja valsts vai pašvaldības bibliotēka netiek akreditēta, tai gada laikā no akreditācijas atteikuma dienas atkārtoti jāiesniedz akreditācijai nepieciešamie dokumenti. Ja arī atkārtoti bibliotēka netiek akreditēta, tā tiek likvidēta, ievērojot šā likuma 6.panta noteikumus, un izslēdzama no Bibliotēku reģistra.

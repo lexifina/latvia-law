@@ -1,6 +1,6 @@
 8.pants. Bibliotēkas reģistrācija un reģistrācijai nepieciešamie dokumenti
-(1) Ikviena bibliotēka reģistrējama Bibliotēku pārvaldē mēneša laikā pēc tās nodibināšanas.
-(2) Bibliotēkas reģistrāciju nodrošina tās dibinātājs. Iesniegumu par bibliotēkas reģistrāciju Bibliotēku pārvaldei iesniedz dibinātāja pilnvarota persona un tajā iekļaujamas šādas ziņas:
+(1) Ikviena bibliotēka reģistrējama Kultūras ministrijā mēneša laikā pēc tās nodibināšanas.
+(2) Bibliotēkas reģistrāciju nodrošina tās dibinātājs. Iesniegumu par bibliotēkas reģistrāciju Kultūras ministrijai iesniedz dibinātāja pilnvarota persona un tajā iekļaujamas šādas ziņas:
 1) bibliotēkas nosaukums, tās juridiskā adrese;
 2) bibliotēkas dibinātājs, tās juridiskais statuss;
 3) lēmums par bibliotēkas dibināšanu;

@@ -1,0 +1,1 @@
+5. Šā likuma 17.panta sestajā un septītajā daļā minētie bibliotēku darbībai nepieciešamā finansējuma normatīvi stājas spēkā 2006.gada 1.janvārī. Līdz 2005.gada 31.decembrim valsts un pašvaldības finansē to pārziņā esošās bibliotēkas saskaņā ar gadskārtējo valsts budžeta likumu un likumu "Par pašvaldību budžetiem".
