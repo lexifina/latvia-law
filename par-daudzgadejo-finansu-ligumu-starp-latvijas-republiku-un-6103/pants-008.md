@@ -1,1 +1,1 @@
-8.pants. Nacionālās atbildīgās amatpersonas, Finansu ministrijas, Zemkopības ministrijas un Lauku atbalsta dienesta sadarbību Līguma ietvaros SAPARD programmas ieviešanā regulē minēto institūciju savstarpēji saskaņota vienošanās.
+8.pants. Nacionālās atbildīgās amatpersonas, Finanšu ministrijas, Zemkopības ministrijas un Lauku atbalsta dienesta sadarbību Līguma ietvaros SAPARD programmas ieviešanā regulē minēto institūciju savstarpēji saskaņota vienošanās.

@@ -1,1 +1,1 @@
-3.pants. Līguma izpratnē Finansu ministrija atbild par Nacionālā fonda funkciju izpildi.
+3.pants. Līguma izpratnē Finanšu ministrija atbild par Nacionālā fonda funkciju izpildi.

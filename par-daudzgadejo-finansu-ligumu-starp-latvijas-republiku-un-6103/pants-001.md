@@ -1,1 +1,1 @@
-1.pants. 2001.gada 25.janvārī Briselē parakstītais Daudzgadējais finansu līgums starp Latvijas Republiku un Eiropas Komisiju Eiropas Kopienas vārdā (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
+1.pants. 2001.gada 25.janvārī Briselē parakstītais Daudzgadējais finanšu līgums starp Latvijas Republiku un Eiropas Komisiju Eiropas Kopienas vārdā (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.

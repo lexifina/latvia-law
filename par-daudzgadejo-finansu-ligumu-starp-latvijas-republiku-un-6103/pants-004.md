@@ -1,1 +1,1 @@
-4.pants. Līguma izpratnē sertificējošā institūcija ir Finansu ministrijas organizētajā konkursā izvēlētā institūcija.
+4.pants. Līguma izpratnē sertificējošā institūcija ir Finanšu ministrijas organizētajā konkursā izvēlētā institūcija.
