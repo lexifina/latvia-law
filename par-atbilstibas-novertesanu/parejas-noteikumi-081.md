@@ -1,1 +1,0 @@
-Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta 1996.gada 4.apriļa noteikumi nr.93 "Noteikumi par atbilstības novērtēšanu" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 10.nr.).
