@@ -1,0 +1,1 @@
+11. pants. Mākslas darbi un kultūras vērtības, kā arī objekti, kuri atzīti par kultūras pieminekļiem, reliģiskajām organizācijām atdodami, ievērojot Latvijas Republikas likumu "Par kultūras pieminekļu aizsardzību".

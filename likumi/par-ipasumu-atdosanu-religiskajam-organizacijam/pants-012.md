@@ -1,0 +1,1 @@
+12. pants. Juridisko personu pienākums ir atbrīvot reliģiskajām organizācijām atdodamās ēkas gada laikā no īpašuma tiesību atjaunošanas brīža, bet telpas, kuras nepieciešamas reliģiskās organizācijas darbības nodrošināšanai (kulta telpas, kancelejas telpas, garīdznieka dzīvoklis un svētdienas skolas telpas), atdodamas nekavējoties.

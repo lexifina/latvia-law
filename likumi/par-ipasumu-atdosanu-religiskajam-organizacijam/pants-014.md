@@ -1,0 +1,1 @@
+14. pants. Latvijas Republikas valsts arhīvos esošie reliģisko organizāciju dokumentu oriģināli nav atprasāmi. Latvijas Republikas valsts arhīvi pēc reliģisko organizāciju pieprasījuma izgatavo un izsniedz šo dokumentu kopijas.

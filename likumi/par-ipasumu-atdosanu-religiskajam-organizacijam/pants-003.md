@@ -1,0 +1,1 @@
+3. pants. Ja reliģisko organizāciju īpašuma objektu nav iespējams atdot natūrā (objekts nav saglabājies vai to ieguvusi šā likuma 2. pantā minētā fiziskā persona), tā vērtība tiek kompensēta. Kompensācijas kārtību un apmērus nosaka īpašs likums.

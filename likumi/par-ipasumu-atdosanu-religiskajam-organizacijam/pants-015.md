@@ -1,0 +1,1 @@
+15. pants. Strīdus starp reliģiskajām organizācijām, kā arī starp reliģiskajām organizācijām un citām juridiskajām vai fiziskajam personām par īpašuma atdošanu izskata tiesa likumdošanas aktos noteiktajā kārtībā. Ja īpašuma objektu ir pieprasījušas divas vai vairākas reliģiskās organizācijas, tiesa izprasa Reliģijas lietu departamenta atzinumu.

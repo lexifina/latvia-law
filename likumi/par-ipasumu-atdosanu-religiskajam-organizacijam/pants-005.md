@@ -1,0 +1,1 @@
+5. pants. Reliģisko organizāciju īpašuma objekta sastāvs nosakāms atbilstoši dokumentos fiksētajam sastāvam. Ja dokumentu nav vai tie nav saglabājušies pilnībā, - vienojoties ar pilsētas, pilsētas rajona vai pagasta Tautas deputātu padomes valdi (izpildkomiteju), bet strīda gadījumā - pamatojoties uz tiesas spriedumu.
