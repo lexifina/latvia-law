@@ -1,2 +1,2 @@
-10. pants. Bijušo zemes īpašnieku vai viņu mantinieku pirmpirkuma tiesības
-Šā likuma 5. pantā norādītajiem bijušajiem zemes īpašniekiem vai viņu mantiniekiem, kuri reģistrēti atsevišķā neapmierināto zemes pieprasījumu reģistrā, ir pirmpirkuma tiesības uz būvēm, ēkām un augļu dārziem, kas atrodas uz viņu bijušā zemes īpašuma.
+10. pants. Zemes, ēku un augļu dārzu (koku) pirmpirkuma tiesības
+Bijušajiem zemes īpašniekiem vai viņu mantiniekiem (ja viņi nav saņēmuši savas zemes vietā līdzvērtīgu zemes gabalu vai kompensāciju), arī tiem, kuri reģistrēti atsevišķā neapmierināto zemes pieprasījumu reģistrā, ir pirmpirkuma tiesības iegūt savā īpašumā ēkas un augļu dārzu (kokus). Tādas pašas pirmpirkuma tiesības ir ēku un augļu dārza (koku) īpašniekam, ja pārdod zemes gabalu. Ja minētās personas nav varējušas izmantot pirmpirkuma tiesības pārdevēja vainas dēļ, tām ir izpirkuma tiesības.
