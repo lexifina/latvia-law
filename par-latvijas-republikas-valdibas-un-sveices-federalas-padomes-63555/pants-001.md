@@ -1,0 +1,1 @@
+1.pants. 2002.gada 31.janvārī Bernē parakstītā Latvijas Republikas valdības un Šveices Federālās Padomes konvencija par nodokļu dubultās uzlikšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem (turpmāk - Konvencija) un tās 2002.gada 31.janvārī Bernē parakstītais Protokols (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.

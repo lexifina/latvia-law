@@ -1,0 +1,22 @@
+Latvijas Republikas valdība
+un
+Šveices Federālā Padome,
+Parakstot Konvenciju par nodokļu dubultās uzlikšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem, ir vienojušās par tālāk minētiem noteikumiem, kas ir šīs Konvencijas neatņemama sastāvdaļa.
+1. Attiecībā uz 3.panta 1.punkta a) apakšpunktu:
+Tiks saprasts, ka termins "Latvija" neiekļauj jebkuru citu Latvijas Republikas teritoriālajiem ūdeņiem piegulošu teritoriju, kurā saskaņā ar Latvijas likumdošanas aktiem un starptautiskajām tiesībām, var tikt īstenotas Latvijas tiesības uz jūras un zemes dzīlēm un tur esošajiem dabas resursiem.
+2. Attiecībā uz 4. panta 3. punktu
+Tiks saprasts, ka, tiklīdz abas Līgumslēdzējas Valstis savos iekšzemes likumdošanas aktos ieviesīs faktiskās vadības atrašanās vietu kā kritēriju rezidences noteikšanai, 4. panta 3.punkta teksts tiks aizvietots ar tekstu šādā redakcijā:
+"3. Ja saskaņā ar 1.punkta noteikumiem persona, kas nav fiziska persona, ir abu Līgumslēdzēja Valstu rezidents, tad šī persona tiks uzskatīta par tās valsts rezidentu, kurā atrodas tās faktiskās vadības vieta."
+3. Attiecībā uz 6.pantu
+Ja sabiedrības akcijas vai citas korporatīvās tiesības dod to īpašniekam tiesības uz sabiedrības nekustamā īpašuma izmantošanu, tad tiks saprasts, ka ienākums no šo tiesību tiešas izmantošanas, iznomāšanas vai lietošanas jebkādā citā veidā ir uzskatāms par ienākumu no nekustamā īpašuma.
+4. Attiecībā uz 7.panta 3.punktu
+Tiks saprasts, ka termins "pastāvīgās pārstāvniecības izdevumi" nozīmē tos atskaitāmos izdevumus, kas ir tieši saistīti ar pastāvīgās pārstāvniecības veikto uzņēmējdarbību.
+5. Attiecībā uz 11.pantu
+Attiecībā uz 11.panta 2. un 3.punktu, Līgumslēdzējas Valstis vienojas par to ka, ja kādā konvencijā par nodokļu dubultās uzlikšanas novēršanu, kas pēc šīs Konvencijas parakstīšanas tiek parakstīta starp Latviju un kādu trešo valsti, kura šīs Konvencijas parakstīšanas dienā ir Ekonomiskās sadarbības un attīstības organizācijas (OECD) dalībniece, vai šādas konvencijas papildinājumos Latvija piekrīt atbrīvot no nodokļiem procentus, kas tiek maksāti par jebkāda veida bankas piešķirtiem aizdevumiem, vai atbrīvot no nodokļiem procentus, kas tiek maksāti par parādu saistībām, kuras izveidojas, ja uzņēmums pārdod uz kredīta jebkādas preces vai ražošanas, komerciālās vai zinātniskās iekārtas citam uzņēmumam, kurš ir saistīts ar pirmo minēto uzņēmumu, vai noteikt šādiem procentiem nodokļa likmi, kas ir zemāka par 11.panta 2.punktā noteikto likmi, - šāds atbrīvojums vai samazinātā nodokļa likme tiks automātiski piemērota, it kā būtu norādīta šīs Konvencijas 11.pantā, un no datuma, kurā stājas spēkā vai nu attiecīgā Konvencija vai tās papildinājumi, vai arī šī Konvencija, atkarībā no tā, kura stājas spēkā pēdējā.
+6. Attiecībā uz 12.pantu
+Ja kādā Konvencijā par nodokļu dubultās uzlikšanas novēršanu, kas pēc šīs Konvencijas parakstīšanas tiek parakstīta starp Latviju un kādu trešo valsti, kura šīs Konvencijas parakstīšanas dienā ir Ekonomiskās sadarbības un attīstības organizācijas (OECD) dalībniece, vai šādas konvencijas papildinājumos Latvija piekrīt tādai autoratlīdzības definīcijai, kura neiekļauj kādas tiesības vai īpašumu, kas minēts 3.punktā, vai arī piekrīt atbrīvot no Latvijas autoratlīdzību nodokļa, autoratlīdzību, kas rodas Latvijā, vai arī piemērot nodokļa likmi, kas ir zemāka nekā 2.punktā noteiktā, tad šāda sašaurinātā definīcija, atbrīvojums vai samazinātā nodokļa likme tiks automātiski piemērota, it kā būtu norādīta šīs Konvencijas 12.panta 2. vai 3.punktā, un no datuma, kurā stājas spēkā vai nu attiecīgā Konvencija vai tās papildinājumi, vai arī šī Konvencija, atkarībā no tā, kura stājas spēkā pēdējā.
+7. Tiks saprasts, ka Līgumslēdzējas Valsts rezidenti, kas saskaņā ar šīs valsts likumdošanas aktiem nav tiesīgi izmantot atvieglojumus, kas noteikti konvencijās par nodokļu dubultās uzlikšanas novēršanu, nevar prasīt tiem piemērot ne atvieglojumus, kādi piešķirami saskaņā ar šo Konvenciju attiecībā uz otrā Līgumslēdzējā Valstī maksājamiem nodokļiem, ne arī prasīt saskaņā ar 23.panta noteikumiem piemērot jebkādu nodokļa samazinājumu vai atbrīvojumu no nodokļiem attiecībā uz savas rezidences valstī maksājamiem nodokļiem.
+Protokols sastādīts Bernē divos eksemplāros 2002.gada 31.janvārī latviešu, vācu un angļu valodā, turklāt visi teksti ir vienlīdz autentiski. Atšķirīgas interpretācijas gadījumā noteicošais ir teksts angļu valodā.
+Latvijas Republikas valdības vārdāŠveices Federālās Padomes vārdā
+Indulis Bērziņš
+Joseph Deiss

@@ -1,0 +1,22 @@
+The Government of the Republic of Latvia
+and
+the Swiss Federal Council
+Have agreed at the signing of the Convention for the avoidance of double taxation with respect to taxes on income and on capital upon the following provisions which shall form an integral part of the Convention.
+1. ad Article 3 paragraph 1 a)
+It is understood that the term "Latvia" shall not include any area adjacent to the territorial waters of the Republic of Latvia, within which, under the laws of Latvia and in accordance with international law, the rights of Latvia may be exercised with respect to the sea bed and its sub-soil and their natural resources.
+2. ad Article 4 paragraph 3
+It is understood that, as soon as both Contracting States have introduced in their domestic legislations the place of effective management as a criterion for the residence, then the wording of paragraph 3 of Article 4 shall be replaced by the following provision:
+" 3. Where, by reason of the provisions of paragraph 1 a person other than an individual is a resident of both Contracting States, then it shall be deemed to be a resident only of the State in which its place of effective management is situated. "
+3. ad Article 6
+Where the ownership of shares or other corporate rights in a company entitles the owner of such shares or corporate rights to the enjoyment of immovable property held by the company, it is understood that income from the direct use, letting or use in any other form of such rights to enjoyment constitutes income from immovable property.
+4. ad Article 7 paragraph 3
+It is understood that the term "expenses which are incurred for the purposes of the permanent establishment" means those deductible expenses directly relating to the business of the permanent establishment.
+5. ad Article 11
+In respect of paragraphs 2 and 3 of Article 11, if in any Convention for the avoidance of double taxation - or in any amendment to such Convention - signed after the date of signature of this Convention between Latvia and a third State which is a member of the Organisation for Economic Co-operation and Development at the date of signature of this Convention, Latvia agrees to exempt interest paid on any loan of whatever kind granted by a bank or to exempt interest paid with respect to indebtedness arising on the sale on credit, by an enterprise, of any merchandise or industrial, commercial or scientific equipment to another enterprise which is related to the first-mentioned enterprise or to a lower rate of tax on such interest than the rate provided for in paragraph 2 of Article 11, then such exemption or lower rate shall automatically apply under this Convention as if it were specified in Article 11 with effect from the date on which the provisions of that Convention or amendment, as the case may be, or of this Convention, whichever is the later, become effective.
+6. ad Article 12
+If in any Convention for the avoidance of double taxation - or in any amendment to such Convention - signed after the date of signature of this Convention between Latvia and a third State which is a member of the Organisation for Economic Co-operation and Development at the date of signature of this Convention, Latvia agrees to a definition of royalties which excludes any rights or other property referred to in paragraph 3 or to exempt royalties arising in Latvia from Latvian tax on royalties or to lower rates of tax than the rates provided for in paragraph 2, then such narrower definition, exemption, or lower rates shall automatically apply under this Convention as if they were specified respectively in paragraph 3 or paragraph 2 with effect from the date on which the provisions of that Convention or amendment, as the case may be, or of this Convention, whichever is the later, become effective.
+7. It is understood that a resident of a Contracting State who is, under the laws of that State, not entitled to the benefits of a Convention for the avoidance of double taxation, may claim neither any relief provided for in this Convention with respect to taxes levied in the other Contracting State nor, pursuant to Article 23 of this Convention, any deduction of or exemption from, the taxes of the State of which he is a resident.
+Done in duplicate at Bern this 31st day of January 2002, in the Latvian, German and English languages, all three texts being equally authentic. In the case of divergence of interpretation the English text shall prevail.
+For the Government of the Republic of LatviaFor the Swiss Federal Council
+Indulis Bērziņš
+Joseph Deiss
