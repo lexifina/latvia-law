@@ -1,0 +1,1 @@
+1.pants. 1998.gada 29.decembrī Rīgā parakstītais Latvijas Republikas un Čehijas Republikas brīvās tirdzniecības līguma Apvienotās komitejas lēmums nr. 2/98 "Par izmaiņām Latvijas Republikas un Čehijas Republikas brīvās tirdzniecības līguma 3.protokolā" (turpmāk - Lēmums) ar šo likumu tiek pieņemts un apstiprināts.
