@@ -1,5 +1,5 @@
-340.pants. Militārpersonas piekaušana un spīdzināšana
-(1) Par tīšu sišanu vai piekaušanu, kā arī par citādu tīšu vardarbību, ko militārpersona izdarījusi pret militārpersonu, ja kaut viena no tām pilda militārā dienesta pienākumus, -
+340.pants. Karavīra piekaušana un spīdzināšana
+(1) Par tīšu sišanu vai piekaušanu, kā arī par citādu tīšu vardarbību, ko karavīrs izdarījis pret karavīru, ja kaut viens no tiem pilda militārā dienesta pienākumus, -
 soda ar arestu.
 (2) Par tādām pašām darbībām, ja tās saistītas ar tīša viegla miesas bojājuma nodarīšanu, -
 soda ar brīvības atņemšanu uz laiku līdz diviem gadiem.
