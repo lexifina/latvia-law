@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Kredītiestāžu likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "163 (446)",
+  "official_journal_page": null,
+  "official_journal_date": "1995-10-24",
+  "entry_into_force": "1995-10-24",
+  "notification_date": "2013-04-04",
+  "commission_reference": "MNE(2013)52442",
+  "nim_celex": "72011L0016LVA_202776",
+  "nim_id": "202776",
+  "transposes_celex": [
+    "32011L0016"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/aa41f53d-e4b0-4238-a2c5-c2b9f0862327",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
