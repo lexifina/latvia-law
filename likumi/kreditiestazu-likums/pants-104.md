@@ -1,1 +1,1 @@
-104.pants. Lai kontrolētu pastiprinātās uzraudzības kārtībā noteikto prasību izpildi, Finanšu un kapitāla tirgus komisija ir tiesīga iecelt savu pilnvarnieku. Finanšu un kapitāla tirgus komisijas pilnvarnieks darbojas saskaņā ar šā likuma 119., 122. - 124.pantu.
+104.pants. Lai kontrolētu pastiprinātās uzraudzības kārtībā noteikto prasību izpildi, Finanšu un kapitāla tirgus komisija ir tiesīga iecelt savu pilnvarnieku. Finanšu un kapitāla tirgus komisijas pilnvarnieks darbojas saskaņā ar šā likuma 119., 123. un 124.pantu.

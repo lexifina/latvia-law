@@ -1,2 +1,2 @@
-66.pants. (1) Apķīlāt fizisko personu noguldījumus un citas vērtības, kas atrodas kredītiestādē vai uzlikt tām arestu var tikai pamatojoties uz tiesas izsniegtu izpildu dokumentu, tiesu izpildītāja rīkojumu vai prokurora sankciju.
+66.pants. (1) Apķīlāt fizisko personu noguldījumus un citas vērtības, kas atrodas bankā vai uzlikt tām arestu var tikai pamatojoties uz tiesas izsniegtu izpildu dokumentu, tiesu izpildītāja rīkojumu vai prokurora sankciju.
 (2) Piedziņu uz fizisko personu noguldījumiem un citām vērtībām var vērst, pamatojoties uz tiesas izsniegtu izpildu dokumentu, tiesu izpildītāja rīkojumu vai nodokļu administrācijas lēmumu par nokavēto nodokļu maksājumu piedziņu, saskaņā ar likumu "Par nodokļiem un nodevām".

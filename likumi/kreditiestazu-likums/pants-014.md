@@ -4,4 +4,5 @@
 3) citas valsts likumi un citi normatīvie akti, kas attiecas uz personām, kurām ir ciešas attiecības ar jaundibināmo kredītiestādi, ierobežo Finanšu un kapitāla tirgus komisijas tiesības veikt likumā noteiktās uzraudzības funkcijas;
 4) kredītiestādes iesniegtie dokumenti satur nepatiesas ziņas;
 5) viena vai vairākas no šā likuma 24.pantā minētajām personām neatbilst likumā noteiktajām prasībām;
-6) Finanšu un kapitāla tirgus komisija konstatē, ka finanšu līdzekļi, kurus iegulda bankas pamatkapitālā, iegūti neparastos vai aizdomīgos finanšu darījumos vai nav dokumentāri pierādīta šo finanšu līdzekļu tiesiska ieguve.
+6) Finanšu un kapitāla tirgus komisija konstatē, ka finanšu līdzekļi, kurus iegulda kredītiestādes pamatkapitālā, iegūti neparastos vai aizdomīgos finanšu darījumos vai nav dokumentāri pierādīta šo finanšu līdzekļu tiesiska ieguve;
+7) jaundibināmā kredītiestāde ir meitas sabiedrība kādai ārvalstu kredītiestādei vai finanšu iestādei, kurai tās reģistrācijas valstī netiek veikta dalībvalstīs pieņemtajām prasībām līdzvērtīga uzraudzība uz konsolidēto finanšu pārskatu pamata, vai ja par tās uzraudzību atbildīgā ārvalsts institūcija ar Finanšu un kapitāla tirgus komisiju nav noslēgusi vienošanos par sadarbību un informācijas apmaiņu.

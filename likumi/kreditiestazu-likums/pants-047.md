@@ -1,4 +1,4 @@
-47.pants. (1) Kredītiestādes ieguldījumi kustamajā un nekustamajā īpašumā, kā arī līdzdalība citu uzņēmumu (uzņēmējsabiedrību), izņemot kredītiestādes un finanšu iestādes, pamatkapitālā kopsummā nedrīkst pārsniegt kredītiestādes pašu kapitālu.
+47.pants. (1) Bankas ieguldījumi kustamajā un nekustamajā īpašumā, kā arī līdzdalība citu komercsabiedrību, izņemot bankas un finanšu iestādes, pamatkapitālā kopsummā nedrīkst pārsniegt bankas pašu kapitālu.
 (2) Nosacījumi, kas minēti šā panta pirmajā daļā, neattiecas uz:
-1) īpašumiem un līdzdalību, ko kredītiestāde pārņēmusi kā neatmaksātu kredītu nodrošinājumu uz laiku līdz diviem gadiem no to pārņemšanas brīža;
-2) kustamajiem un nekustamajiem īpašumiem, kā arī līdzdalību uzņēmumos (uzņēmējsabiedrībās), kas nepieciešami kredītiestādei finanšu pakalpojumu sniegšanai.
+1) īpašumiem un līdzdalību, ko banka pārņēmusi kā neatmaksātu kredītu nodrošinājumu uz laiku līdz diviem gadiem no to pārņemšanas brīža;
+2) kustamajiem un nekustamajiem īpašumiem, kā arī līdzdalību komercsabiedrībās, kas nepieciešami bankai finanšu pakalpojumu sniegšanai.

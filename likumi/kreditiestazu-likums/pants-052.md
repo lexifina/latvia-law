@@ -1,1 +1,2 @@
-52.pants. Kredītiestāde pirms un pēc kredīta izsniegšanas pārbauda kredīta ņēmēja maksātspēju, regulāri pieprasot dokumentus, kas apliecina kredīta ņēmēja saimnieciskās darbības finansiālo stabilitāti, spēju atmaksāt kredītu un tā procentus.
+52.pants. (1) Banka pirms un pēc kredīta izsniegšanas pastāvīgi pārbauda un dokumentē kredīta ņēmēja spēju pildīt līgumā noteiktās saistības.
+(2) Finanšu un kapitāla tirgus komisija apstiprina ieteikumus bankas kredītriska novērtēšanai. Šos ieteikumus banka izmanto sava kredītriska novērtēšanai.

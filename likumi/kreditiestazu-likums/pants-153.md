@@ -4,4 +4,5 @@
 3) nepieciešamie izdevumi kredītiestādes mantas uzturēšanai un nepieciešamo darba telpu uzturēšanai maksātnespējas procesa laikā;
 4) tiesas izdevumi;
 5) izdevumi publikāciju ievietošanai laikrakstos;
-6) izdevumi izsoļu organizēšanai.
+6) izdevumi izsoļu organizēšanai;
+7) izdevumi, kas saistīti ar maksātnespējas pasākumu reģistrāciju publiskajos reģistros.

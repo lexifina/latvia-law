@@ -1,0 +1,2 @@
+143.¹ pants. (1) Ja kreditoru pastāvīgā dzīvesvieta vai vadības atrašanās vieta ir ārpus Latvijas Republikas, to tiesības iesniegt kreditoru prasījumus un citas pretenzijas ir tādas pašas kā Latvijas Republikā reģistrētu vai pastāvīgi dzīvojošu kreditoru tiesības.
+(2) Ja kreditoru pastāvīgā dzīvesvieta vai vadības darbības vieta atrodas ārpus Latvijas Republikas, to tiesības reorganizācijas pasākumos vai likvidācijā ir tādas pašas kā Latvijas Republikā reģistrētu vai pastāvīgi dzīvojošu kreditoru tiesības.

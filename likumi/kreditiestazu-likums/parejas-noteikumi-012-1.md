@@ -1,0 +1,1 @@
+12.¹ Kredītiestādes likvidatoram (administratoram) ir saistoši likuma 135. un 166.panta noteikumi neatkarīgi no kredītiestādes maksātnespējas (bankrota) vai likvidācijas procesa uzsākšanas dienas. Likvidatora (administratora) iepriekšējā darbības laikā saņemtās atlīdzības pārrēķins netiek veikts.

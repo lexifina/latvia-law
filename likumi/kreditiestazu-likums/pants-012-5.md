@@ -1,0 +1,1 @@
+12.⁵pants. Latvijas Republikā reģistrētām elektroniskās naudas institūcijām, kuras nav saņēmušas Finanšu un kapitāla tirgus komisijas licenci (atļauju) elektroniskās naudas institūcijas darbībai, nav tiesību uzsākt elektroniskās naudas emitēšanu un tās apkalpošanu dalībvalstī šā likuma 12.² un 12.³ pantā noteiktajā kārtībā.

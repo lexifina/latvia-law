@@ -1,2 +1,1 @@
-127.pants. (1) Kredītiestādes akcionāru sapulce ir tiesīga pieņemt lēmumu par kredītiestādes pašlikvidāciju tikai pēc tam, kad kredītiestāde ir izpildījusi visas kredītiestādes grāmatvedības reģistros fiksētās saistības pret kreditoriem.
-(2) Ar akcionāru sapulces lēmumu uzsāktais kredītiestādes pašlikvidācijas process nav pārtraucams vai apturams.
+127.pants. Ar kredītiestādes akcionāru sapulces lēmumu nav apturams vai pārtraucams iepriekš akcionāru sapulcē pieņemtais lēmums uzsākt pašlikvidācijas procesu vai veikt reorganizācijas pasākumus. Kredītiestādes (arī tās filiāles iesaistītajā valstī) pašlikvidācijas uzsākšana neierobežo tās likvidācijas uzsākšanu ar tiesas nolēmumu vai bankrota procedūras uzsākšanu.

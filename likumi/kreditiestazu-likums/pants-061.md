@@ -1,4 +1,4 @@
 61.pants. (1) Kredītiestādes pienākums ir garantēt klientu personas, kontu, noguldījumu un darījumu noslēpumu.
 (2) Saskaņā ar Latvijas Bankas normatīvajiem norādījumiem un noteikumiem kredītiestāde Latvijas Bankai sniedz makroekonomiskās analīzes veikšanai nepieciešamo statistisko informāciju par maksājumiem, kuri veikti starp rezidentiem un nerezidentiem.
 (3) Latvijas Bankai ir tiesības sniegt šā panta otrajā daļā minēto apkopoto informāciju Centrālajai statistikas pārvaldei.
-(4) Kredītiestādei ir tiesības sniegt savai mātes sabiedrībai, kas ir kredītiestāde vai finanšu pārvaldītājsabiedrība, informāciju, kura saskaņā ar Finanšu un kapitāla tirgus komisijas normatīvajiem norādījumiem un noteikumiem vai Finanšu un kapitāla tirgus komisijas un ārvalsts kredītiestāžu uzraudzības institūcijas savstarpējo vienošanos nepieciešama kredītiestāžu uzraudzības veikšanai.
+(4) (Izslēgta ar 28.10.2004. likumu.)

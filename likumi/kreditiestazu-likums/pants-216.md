@@ -1,0 +1,1 @@
+216.pants. Reorganizācijas pasākumi vai likvidācija neierobežo kreditoru vai trešo personu lietu tiesības attiecībā uz lietām, kuras pieder kredītiestādei un reorganizācijas pasākumu vai likvidācijas laikā atrodas citas dalībvalsts teritorijā.

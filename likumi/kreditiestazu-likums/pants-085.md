@@ -1,2 +1,3 @@
-85.pants. (1) Kredītiestādes gada pārskatu pārbauda Finanšu un kapitāla tirgus komisijas apstiprināts zvērināts revidents. Ja šāda pārbaude nav veikta, kredītiestādes akcionāru sapulcei gada pārskatu aizliegts apstiprināt.
+85.pants. (1) Kredītiestādes gada pārskatu pārbauda zvērināts revidents. Ja šāda pārbaude nav veikta, kredītiestādes akcionāru sapulcei gada pārskatu aizliegts apstiprināt.
 (2) Ja zvērinātu revidentu ziņojums ir ar piezīmēm, tad dividendes var izmaksāt tikai pēc saskaņošanas ar Finanšu un kapitāla tirgus komisiju.
+(3) Kredītiestāde mēnesi pirms akcionāru sapulces paziņo Finanšu un kapitāla tirgus komisijai par nodomu izmaksāt dividendes. Finanšu un kapitāla tirgus komisijai ir tiesības aizliegt kredītiestādei izmaksāt dividendes, ja dividenžu izmaksas rezultātā kredītiestāde neievēros kapitāla pietiekamības prasības vai lielo riska darījumu ierobežojumus.

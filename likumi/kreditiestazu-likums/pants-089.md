@@ -1,1 +1,1 @@
-89.pants. Gada pārskata bilances, ārpusbilances, peļņas un zaudējumu aprēķina posteņu, pielikumu un ziņojuma konkrēto saturu, kā arī atsevišķu posteņu novērtēšanas metodiku nosaka Finanšu un kapitāla tirgus komisija.
+89.pants. Gada pārskata bilances, ārpusbilances, peļņas vai zaudējumu aprēķina, naudas plūsmas, kapitāla un rezervju izmaiņu pārskata posteņu, pielikumu un ziņojuma konkrēto saturu nosaka Finanšu un kapitāla tirgus komisija.

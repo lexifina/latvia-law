@@ -1,0 +1,1 @@
+112.¹ pants. Finanšu un kapitāla tirgus komisija neveic to elektroniskās naudas institūciju uzraudzību, kurām saskaņā ar šo likumu darbības veikšanai nav jāsaņem Finanšu un kapitāla tirgus komisijas licence (atļauja).

@@ -5,4 +5,5 @@
 3) nepieciešamie izdevumi likvidējamās kredītiestādes mantas uzturēšanai un nepieciešamo darba telpu uzturēšanai likvidācijas laikā;
 4) tiesas izdevumi;
 5) izdevumi publikāciju ievietošanai laikrakstos;
-6) izdevumi izsoļu organizēšanai.
+6) izdevumi izsoļu organizēšanai;
+7) izdevumi, kas saistīti ar likvidācijas procesā veicamo ierakstu izdarīšanu publiskajos reģistros.

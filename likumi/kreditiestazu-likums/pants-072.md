@@ -1,1 +1,1 @@
-72.pants. Noguldījumi, attiecībā uz kuriem iestājies noilgums, ieskaitāmi kredītiestādes ienākumos.
+72.pants. Noguldījumi, attiecībā uz kuriem iestājies noilgums, ieskaitāmi bankas ienākumos.

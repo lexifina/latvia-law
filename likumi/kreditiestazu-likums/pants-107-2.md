@@ -1,0 +1,1 @@
+107.² pants. Šā likuma 107.¹ pantā noteiktās dalībvalsts uzraudzības institūcijas tiesības piemērojamas arī ārvalsts uzraudzības institūcijai, ciktāl tas nepieciešams kredītiestāžu uzraudzības veikšanai, pamatojoties uz konsolidētajiem finanšu pārskatiem un Finanšu un kapitāla tirgus komisijas vienošanos ar attiecīgo ārvalsts kredītiestāžu uzraudzības institūcijām.

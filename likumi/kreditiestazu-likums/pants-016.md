@@ -1,6 +1,9 @@
-16.pants. (1) Banku var dibināt:
-1) fiziskās personas, kuras ir pilngadīgas un rīcībspējīgas;
-2) juridiskās personas, kuras reģistrētas Latvijas Republikā vai citā valstī un kuru darbības laiks nav mazāks par trim finanšu gadiem;
-3) viena ārvalsts banka, kuras darbības laiks nav mazāks par trim finanšu gadiem;
-4) valsts.
-(2) Šā panta pirmās daļas 1. - 3.punktā minētajām personām ir nepieciešama nevainojama reputācija un stabils finanšu stāvoklis.
+16.pants. (1) Kredītiestādi ir tiesīga dibināt:
+1) pilngadīga un rīcībspējīga fiziskā persona;
+2) juridiskā (reģistrētā) persona, kuras:
+a) darbības laiks nav mazāks par trim finanšu gadiem,
+b) finanšu pārskati tiek gatavoti saskaņā ar starptautiskajiem grāmatvedības (finanšu pārskatu) standartiem un revidēti saskaņā ar starptautiskajiem revīzijas standartiem, kā arī tiem ir pievienots zvērināta revidenta ziņojums [dalībvalstī reģistrētas juridiskās (reģistrētās) personas finanšu pārskati var būt sagatavoti saskaņā ar attiecīgajā dalībvalstī spēkā esošajiem grāmatvedības standartiem];
+3) valsts vai pašvaldība.
+(2) Šā panta pirmajā daļā minētajām personām ir nepieciešama nevainojama reputācija un brīvais kapitāls.
+(3) Izvērtējot personas reputāciju un brīvo kapitālu, Finanšu un kapitāla tirgus komisijai ir tiesības pārbaudīt šā likuma 19.pantā minēto personu identitāti, sodāmību un dokumentus, kuri ļauj pārliecināties par brīvā kapitāla pietiekamību kredītiestādes kapitālā un rezervēs izdarīto ieguldījumu apmērā, kā arī par to, vai ieguldītie līdzekļi nav iegūti neparastos vai aizdomīgos darījumos.
+(4) Par kredītiestādes dibinātāju nevar būt fiziskās personas, kā arī juridiskās (reģistrētās) personas, uz kuru dibinātājiem (akcionāriem) un īpašniekiem (patiesajiem labumu guvējiem) - šā likuma 19.pantā minētajām fiziskajām personām - var attiecināt šā likuma 25.panta pirmās daļas 1., 2. vai 3.punktu vai kuras ir pildījušas valdes vai padomes locekļa pienākumus kredītiestādē vai finanšu iestādē, kas atzīta par maksātnespējīgu attiecīgo pienākumu pildīšanas laikā, vai kuras ir pildījušas valdes vai padomes locekļa pienākumus citā komercsabiedrībā un savas nolaidības dēļ vai tīši novedušas šo komercsabiedrību līdz kriminālsodāmai maksātnespējai vai bankrotam.

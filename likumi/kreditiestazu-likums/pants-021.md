@@ -1,1 +1,2 @@
-21.pants. Bankas minimālais dibināšanas pamatkapitāls ir ekvivalents pieciem miljoniem eiro, kas pārrēķināti latos pēc Latvijas Bankas noteiktā valūtas kursa.
+21.pants. (1) Bankas minimālais sākotnējais kapitāls ir ekvivalents pieciem miljoniem eiro, kas pārrēķināti latos saskaņā ar Latvijas Bankas noteikto valūtas kursu dienā, kad pieņemts lēmums izsniegt licenci (atļauju) bankas darbībai.
+(2) Elektroniskās naudas institūcijas minimālais sākotnējais kapitāls ir ekvivalents vienam miljonam eiro, kas pārrēķināts latos saskaņā ar Latvijas Bankas noteikto valūtas kursu dienā, kad pieņemts lēmums izsniegt licenci (atļauju) elektroniskās institūcijas darbībai.
