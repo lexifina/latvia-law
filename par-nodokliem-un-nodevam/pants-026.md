@@ -1,10 +1,36 @@
-26.pants. Termiņā nenomaksāto nodokļu iekasēšana
-(1) Nodokļu administrācijas pienākums ir rakstveidā darīt zināmu nodokļu maksātājam aprēķināšanas vai precizēšanas rezultātā noteiktā maksājuma lielumu, ja tas nesaskan ar maksātāja deklarēto maksājuma lielumu.
-(2) Termiņā nenomaksātos nodokļus, soda naudas un nokavējuma naudas saskaņā ar nodokļu administrācijas lēmumu piedzen bezstrīda kārtībā:
-1) nodokļu administrācijas inkasācijas uzdevumā norakstot līdzekļus no nodokļu maksātāja konta bankā, arī no valūtas konta bankā. Ja nodokļu maksātāja kontā nav līdzekļu, bankas iestādēm jāpieņem nodokļu administrācijas inkasācijas uzdevums un pēc tam, kad kontā saņemti līdzekļi, tas jāizpilda. Kamēr nav izpildīts nodokļu administrācijas inkasācijas uzdevums, līdzekļi citām vajadzībām, izņemot darba samaksu, kas nepārsniedz pēdējo sešu mēnešu vidējās darba samaksas apmēru, netiek izsniegti;
-2) no nodokļu maksātāja kontiem ārvalstu bankās starptautiskajos līgumos noteiktajā kārtībā;
-3) izņemot skaidro naudu no juridisko personu kases Ministru kabineta noteiktajā kārtībā;
-4) no nodokļu maksātāja pārējā īpašuma. To realizē nodokļu administrācijas ierēdnis (darbinieks) šā panta trešajā daļā noteiktajā kārtībā.
-(3) Ja nodokļu maksātājs nav pārsūdzējis nodokļu administrācijas lēmumu par nodokļu piedziņu un nav nomaksājis nodokli 30 dienu laikā no maksājuma prasības saņemšanas brīža, nodokļu administrācijai ir tiesības iekasēt šo nodokli un piedziņas izdevumus, piedzenot tos no maksātājam piederoša īpašuma tāpat, kā tas tiek darīts pēc tiesas nolēmuma.
-(4) Uzņēmumiem (uzņēmējsabiedrībām) no dienas, kad ierosināta maksātnespējas lieta, nodokļu administrācija nepiedzen bezstrīda kārtībā termiņā nesamaksātos nodokļus un ar tiem saistītos maksājumus, kuri izveidojušies līdz maksātnespējas pieteikuma iesniegšanas dienai.
-(5) Uzņēmumi (uzņēmējsabiedrības), kuriem piemērojams šā panta ceturtajā daļā paredzētais atvieglojums, veic visus konkrēto nodokļu likumos noteiktos kārtējos nodokļu maksājumus.
+26.pants. Nokavēto nodokļu maksājumu piedziņa
+(1) Nodokļu maksājumus atbilstoši nodokļa aprēķinam vai nodokļa pārskatam, deklarācijai, avansa maksājumu aprēķinam, kā arī citiem dokumentiem par maksājumiem budžetā vai pēc nodokļu administrācijas kontroles (pārbaudes, revīzijas) aprēķinātos nodokļu maksājumus (arī soda naudu), kuri nav samaksāti nodokļu likumos vai citos normatīvajos aktos noteiktajā termiņā, un ar tiem saistīto pamatparāda palielinājumu un nokavējuma naudas (turpmāk - nokavētie nodokļu maksājumi), kā arī izdevumus par nokavēto nodokļu maksājumu piedziņu bezstrīda kārtībā nodokļu administrācija piedzen bezstrīda kārtībā, pamatojoties uz lēmumu par nokavēto nodokļu maksājumu piedziņu.
+(2) Pirms nokavēto nodokļu maksājumu piedziņas bezstrīda kārtībā nodokļu administrācija nodokļu parādu segšanai novirza izveidojušās nodokļu pārmaksas. Nodokļu maksātājs par pārmaksas novirzīšanu parāda segšanai tiek rakstveidā informēts triju darba dienu laikā pēc tās izpildes.
+(3) Nokavētos nodokļu maksājumus piedzen bezstrīda kārtībā, izmantojot šādus līdzekļus:
+1) nodokļu administrācijas inkasācijas uzdevumā noraksta naudas līdzekļus no nodokļu maksātāja konta kredītiestādē. Nodokļu administrācijas inkasācijas uzdevums kredītiestādei ir obligāti izpildāms. Ja nodokļu maksātāja kontā nav līdzekļu, kredītiestāde inkasācijas uzdevumu izpilda, tiklīdz līdzekļi kontā saņemti. Kamēr inkasācijas uzdevums nav izpildīts, naudas līdzekļus no attiecīgā konta citiem mērķiem neizsniedz, izņemot līdzekļus, kas reizi mēnesī izsniedzami darba samaksai, kura nepārsniedz vidējo mēneša darba samaksu pēdējo sešu mēnešu laikā. Ja inkasācijas uzdevumus līdzekļu norakstīšanai no nodokļu maksātāja konta iesniegušas vairākas nodokļu administrācijas, vispirms izpilda agrāk iesniegto inkasācijas uzdevumu. Kredītiestāde informē nodokļu maksātāju par inkasācijas uzdevuma saņemšanu;
+2) Ministru kabineta noteiktajā kārtībā izņem skaidro naudu no juridiskās personas kases vai citas glabāšanas vietas. Netiek izņemta darbinieku darba samaksai paredzētā skaidrā nauda, kas nepārsniedz vidējo mēneša darba samaksu pēdējo sešu mēnešu laikā;
+3) Civilprocesa likuma E daļā noteiktajā kārtībā vērš nokavēto nodokļu maksājumu piedziņu bezstrīda kārtībā uz nodokļu maksātāja mantu (kustamo un nekustamo īpašumu, arī uz mantu, kura atrodas pie trešajām personām). Piedziņas vēršanu uz mantu uzsāk, ja nodokļu administrācijai, novirzot pārmaksas, nosūtot inkasācijas uzdevumu un izņemot skaidro naudu, nav izdevies segt nokavētos nodokļu maksājumus un izdevumus par nokavēto nodokļu maksājumu piedziņu bezstrīda kārtībā.
+(4) Šā panta trešajā daļā minēto piedziņas līdzekļu piemērošanas secību un katra līdzekļa piemērošanas reižu skaitu nosaka nodokļu administrācija, ievērojot šādus principus:
+1) nokavēto nodokļu maksājumu piedziņa bezstrīda kārtībā vispirms vēršama uz parādnieka naudas līdzekļiem;
+2) piedziņa uz nekustamo īpašumu vēršama tikai tad, ja parādniekam nav kustamās mantas vai ar pārdodamo kustamo mantu nevar segt visu nokavēto nodokļu maksājumu.
+(5) Pilnvarota nodokļu administrācijas amatpersona lēmumu par nokavēto nodokļu maksājumu piedziņu var pieņemt ne agrāk kā piecas darba dienas pēc nodokļu maksājuma termiņa. Lēmumu par nodokļu administrācijas kontroles (pārbaudes, revīzijas) rezultātā aprēķinātā nokavētā nodokļu maksājuma piedziņu pieņem ne agrāk kā 30 dienas pēc tam, kad nodokļu administrācija pieņēmusi attiecīgo lēmumu.
+(6) Nokavēto nodokļu maksājumu piedziņu bezstrīda kārtībā neuzsāk un uzsākto nokavēto nodokļu maksājumu piedziņu bezstrīda kārtībā aptur, ja ir vismaz viens no šādiem nosacījumiem:
+1) pārsūdzēts nodokļu administrācijas kontroles (pārbaudes, revīzijas) rezultātā pieņemtais lēmums, - uz iesnieguma pirmstiesas izskatīšanas laiku saskaņā ar normatīvajos aktos noteikto kārtību;
+2) pagarināts, atlikts vai sadalīts nodokļu samaksas termiņš, - attiecībā uz pagarināto nodokļu maksājuma daļu vai atlikto nodokļu maksājumu;
+3) iestājas Civilprocesa likuma 560.pantā, 563.panta pirmās daļas 4. vai 5.punktā vai otrajā daļā noteiktie apstākļi;
+4) pieņemts nodokļu administrācijas lēmums vai tiesas nolēmums, ar kuru apturēta nokavēto nodokļu maksājumu piedziņa bezstrīda kārtībā;
+5) stājies spēkā tiesas spriedums, ar kuru nodokļu maksātājs pasludināts par maksātnespējīgu. Par maksātnespējīgu pasludinātais nodokļu maksātājs veic visus kārtējos nodokļu maksājumus saskaņā ar konkrēto nodokļu likumiem.
+(7) Lēmums par nokavēto nodokļu maksājumu piedziņu ir izpildu dokuments, un to izpilda:
+1) nodokļu administrācijas amatpersonas atbilstoši amata pienākumiem;
+2) zvērināti tiesu izpildītāji saskaņā ar Civilprocesa likumu un pamatojoties uz lēmumu par nokavēto nodokļu maksājumu piedziņu, ja nodokļu administrācija Civilprocesa likumā noteiktajā kārtībā zvērinātam tiesu izpildītājam ir iesniegusi izpildu dokumentu.
+(8) Lēmumu par nokavēto nodokļu maksājumu piedziņu izpilda triju gadu laikā no tā pieņemšanas. Lēmuma izpildes noilguma termiņš tiek apturēts, ja:
+1) pagarināts, atlikts vai sadalīts nodokļu samaksas termiņš, - līdz šā termiņa beigām. Ja samaksas termiņš sadalīts, noilguma aprēķins tiek atjaunots pēc pēdējā maksājuma termiņa;
+2) apstrīdēts nodokļu administrācijas kontroles (pārbaudes, revīzijas) rezultātā pieņemtais lēmums, nodokļa aprēķins vai lēmums par nokavēto nodokļu maksājumu piedziņu, - uz iesnieguma pirmstiesas izskatīšanas laiku;
+3) pārsūdzētas zvērināta tiesu izpildītāja darbības, - uz sūdzības izskatīšanas laiku;
+4) parādnieks miris vai juridiskā persona beigusi pastāvēt un tiesas nodibinātā tiesiskā attiecība pieļauj tiesību pārņemšanu, - līdz parādnieka tiesību pārņēmēja noteikšanai;
+5) parādnieks zaudējis rīcībspēju, - līdz aizgādņa iecelšanai;
+6) ir tiesas lēmums par nodokļu administrācijas lēmuma izpildes apturēšanu, - līdz tiesas lēmuma atcelšanai vai uz tiesas lēmumā norādīto laiku;
+7) ierosināta nodokļu maksātāja maksātnespējas lieta, - līdz maksātnespējas procesa pabeigšanai;
+8) pieņemts un reģistrēts lēmums par nodokļu maksātāja likvidāciju, - līdz likvidācijas procesa pabeigšanai.
+(9) Lēmums par nokavēto nodokļu maksājumu piedziņu zaudē spēku:
+1) ar dienu, kad ir veikta nokavēto nodokļu maksājumu brīvprātīga samaksa vai izpildīts lēmums par nokavēto nodokļu maksājumu piedziņu;
+2) ar dienu, kad nodokļu administrācija atceļ lēmumu par nokavēto nodokļu maksājumu piedziņu;
+3) ar dienu, kad stājas spēkā tiesas spriedums, kas atceļ nodokļu administrācijas lēmumu par nokavēto nodokļu maksājumu piedziņu;
+4) ja lēmums par nokavēto nodokļu maksājumu piedziņu nav izpildīts šā panta astotajā daļā noteiktajā termiņā un nodokļu administrācijas rīcībā ir tiesiski apstiprināts akts par piedziņas neiespējamību;
+5) ja nodokļu parādi ir dzēsti šajā likumā noteiktajā kārtībā.
+(10) Šajā likumā noteiktā nokavēto nodokļu maksājumu piedziņas kārtība attiecas arī uz nokavēto nodevu un citu obligāto maksājumu piedziņu bezstrīda kārtībā.

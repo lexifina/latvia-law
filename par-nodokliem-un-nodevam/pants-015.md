@@ -6,7 +6,11 @@
 4) nodokļu aprēķinu pareizības pierādīšanai uzglabāt finansiālās un saimnieciskās darbības ieņēmumus un izdevumus apliecinošus dokumentus vismaz piecus gadus, bet gadījumos, kad nodokļu maksātājam saskaņā ar likumu tiek piemērots īpašs nodokļu režīms uz laiku, kas pārsniedz piecus gadus, - visu īpašā nodokļu režīma piemērošanas laiku;
 5) ziņot par visiem saviem ienākumiem, pamatot nodokļu, nodevu un citu obligāto budžeta maksājumu summu atbilstību normatīvajiem aktiem par valstij un pašvaldībām pienākošos summu aprēķināšanas un maksāšanas kārtību, uzrādot vai iesniedzot nodokļu administrācijas ierēdņiem (darbiniekiem) viņu pieprasītos dokumentus;
 6) atļaut nodokļu administrācijas ierēdņiem (darbiniekiem) likumā noteiktajā kārtībā apskatīt uzņēmējdarbībai izmantojamās telpas;
-7) ieturēt konkrēto nodokļu likumos paredzētās maksājamo nodokļu summas.
+7) ieturēt konkrēto nodokļu likumos paredzētās maksājamo nodokļu summas;
+8) šajā likumā un Ministru kabineta noteikumos paredzētajā kārtībā nodokļu aprēķināšanas un uzskaites vajadzībām lietot stingrās uzskaites pavadzīmes-rēķinus;
+9) šajā likumā un Ministru kabineta noteikumos paredzētajā kārtībā reģistrēt nodokļus un citus maksājumus ar elektroniskajām ierīcēm un iekārtām;
+10) ja nodokļu maksātājs kārto grāmatvedības reģistrus ar elektroniskajām skaitļošanas mašīnām (datoriem), pēc nodokļu administrācijas pieprasījuma iesniegt elektroniskā veidā nodokļu revīzijas (audita) veikšanai sagatavotu attaisnojuma dokumentu un grāmatvedības reģistru datus;
+11) iesniegt nodokļu administrācijai pieprasītos dokumentus, kuri izmantojami nodokļu bāzes noteikšanai.
 (2) Fiziskajām personām kā nodokļu maksātājiem ir šādi papildu pienākumi:
 1) izņemt algas nodokļa grāmatiņu atbilstoši likumam "Par iedzīvotāju ienākuma nodokli";
 2) iesniegt algas nodokļa grāmatiņu pamatdarba vietā;

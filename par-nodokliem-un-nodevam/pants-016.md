@@ -8,4 +8,5 @@ Nodokļu maksātājiem ir tiesības:
 6) iesniegt nodokļu administrācijai pieteikumu par nodevu samaksas pārskatīšanu, deklarācijas labojumu vai nodokļu (ar nodokli apliekamā objekta) aprēķina precizējumu triju gadu laikā pēc konkrētajos likumos noteiktā maksāšanas termiņa, ja šajā laikā par konkrētajiem nodokļiem un attiecīgajiem taksācijas periodiem nav uzsākta vai veikta nodokļu revīzija (audits). Attiecībā uz valsts budžetā ieskaitāmiem nodokļu maksājumiem šajā punktā noteikto termiņa nokavējumu var atjaunot Valsts ieņēmumu dienesta ģenerāldirektors, ja nodokļu maksātājs iesniedz pieteikumu par termiņā nesamaksāto nodokļu samaksu;
 7) saņemt pārmaksāto nodokļu summas saskaņā ar konkrēto nodokļu likumiem;
 8) saņemt nodokļu administrācijas nepareizi piedzīto maksājumu summas šā likuma 28.pantā noteiktajā kārtībā;
-9) saņemt no savu ienākumu gūšanas vietas rakstveida izziņu par to, kādus nodokļus darba devējs ir nomaksājis.
+9) saņemt no savu ienākumu gūšanas vietas rakstveida izziņu par to, kādus nodokļus darba devējs ir nomaksājis;
+10) pieprasīt pārmaksātās nodokļa summas atmaksāšanu triju gadu laikā pēc konkrētā nodokļa likumā noteiktā maksāšanas termiņa.

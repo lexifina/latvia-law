@@ -1,3 +1,0 @@
-36.pants. Sūdzību iesniegšanas un izskatīšanas kārtība
-(1) Nodokļu maksātājam, kas saņēmis dokumentu par nepilnīgi nomaksāto nodokli, ir tiesības 30 dienu laikā pēc šā dokumenta saņemšanas rakstveidā pārsūdzēt nodokļu administrācijas lēmumus un rīkojumus attiecīgās nodokļu administrācijas augstākās institūcijas vadītājam, izņemot lēmumus par administratīvo sodu uzlikšanu, kas pārsūdzami tiesā likumā noteiktajā kārtībā.
-(2) Sūdzību saņēmušajam nodokļu administrācijas vadītājam šā panta pirmajā daļā minētā sūdzība jāizskata un atbilde iesniedzējam jādod ne vēlāk kā 30 dienu laikā. Finanšu ministram ir tiesības atļaut Valsts ieņēmumu dienestam sūdzības izskatīšanu pagarināt par 30 dienām.

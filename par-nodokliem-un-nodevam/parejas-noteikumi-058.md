@@ -1,0 +1,1 @@
+58. Piemērojot likuma 15.panta pirmās daļas 10.punktu, līdz dienai, kad stājas spēkā normatīvais akts par elektroniskā paraksta izmantošanas kārtību, nodokļu maksātāji, kuri attaisnojuma dokumentus un grāmatvedības reģistra datus iesniedz elektroniskā veidā, tos iesniedz arī rakstveidā.
