@@ -13,4 +13,5 @@ Izglītības un zinātnes ministrija:
 11) apstiprina Valsts pedagoģiski medicīniskās komisijas nolikumu;
 12) apstiprina Valsts pirmsskolas izglītības centra nolikumu un organizē šā centra darbību;
 13) apstiprina Valsts speciālās izglītības centra nolikumu un organizē šā centra darbību;
-14) veic citas šajā likumā un Izglītības likumā noteiktās funkcijas.
+14) sadala valsts budžeta papildu finansējumu valsts ģimnāzijām;
+15) veic citas šajā likumā un Izglītības likumā noteiktās funkcijas.
