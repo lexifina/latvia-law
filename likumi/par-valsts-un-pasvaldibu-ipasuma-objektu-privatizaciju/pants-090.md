@@ -1,0 +1,3 @@
+90. pants. Kopā ar privatizējamo objektu privatizējamā zemesgabala pirmpirkuma tiesību realizācija un pircēja noteikšana
+1. Realizējot kopā ar privatizējamo valsts īpašuma objektu privatizējamā zemesgabala pirmpirkuma tiesības un nosakot tā pircēju, papildus šā likuma 25.- 29.panta nosacījumiem jāievēro arī šā likuma 62.panta otrajā un ceturtajā daļā minētie nosacījumi.
+2. Realizējot kopā ar privatizējamo pašvaldības īpašuma objektu privatizējamā zemesgabala pirmpirkuma tiesības un nosakot tā pircēju, papildus šā likuma 35., 39. - 43.panta nosacījumiem jāievēro arī šā likuma 62.panta otrajā un ceturtajā daļā minētie nosacījumi.

@@ -1,0 +1,3 @@
+76. pants. Privatizācijas priekšlikumu apkopošana un neapbūvēta zemesgabala privatizācijas noteikumu izstrāde
+1. Privatizācijas aģentūra vai pašvaldība reģistrē iesniegtos privatizācijas priekšlikumus un izsūta to iesniedzējiem apstiprinājumu par priekšlikumu saņemšanu.
+2. Ievērojot neapbūvēta zemesgabala atrašanās vietu un iespējamos turpmākās izmantošanas mērķus, Privatizācijas aģentūra vai pašvaldība izstrādā konkrētā zemesgabala privatizācijas noteikumus. Privatizācijas aģentūra vai pašvaldība var ņemt vērā iesniegtos privatizācijas priekšlikumus vai paredzēt šajos priekšlikumos neminētas privatizācijas metodes un paņēmienus.

@@ -1,5 +1,4 @@
-58.pants. Zemesgabala privatizācija
-1. Valsts vai pašvaldības īpašuma objektu var privatizēt kopā ar zemesgabalu, ja tas ir valsts vai pašvaldības īpašums. Kopā tie veido vienu privatizējamo objektu. Šajā gadījumā zeme tiek privatizēta tikai kopā ar objektu, kas uz tās atrodas.
-2. Zemesgabalu var privatizēt tikai tas privatizācijas subjekts, kuram ir tiesības iegādāties šo zemesgabalu īpašumā saskaņā ar Civillikumu un citiem likumiem.
-3. Visas darbības, kas saistītas ar zemesgabala privatizāciju šajā pantā paredzētajos gadījumos, valsts vārdā veic Privatizācijas aģentūra, izņemot darbības, kuras saskaņā ar likumiem veic citas institūcijas.
-4. Jautājumus, kas saistīti ar valsts un pašvaldību attiecībām, privatizējot valsts īpašuma objektus, kas atrodas uz pašvaldību īpašumā esošas zemes, vai privatizējot pašvaldību īpašuma objektus, kas atrodas uz valsts zemes, kā arī citus jautājumus, kas saistīti ar zemes privatizāciju šajā pantā paredzētajos gadījumos, regulē Ministru kabineta noteikumi.
+58. pants. Zemes privatizācijas pamatnosacījumi
+1. Pilsētu zemes privatizācijas kārtību, pirmpirkuma tiesības, zemesgabala cenas noteikšanas kārtību, maksāšanas līdzekļus, privatizācijas subjektus un citus ar to saistītos jautājumus nosaka likums "Par zemes reformu Latvijas Republikas pilsētās".
+2. Ar lauku apvidu zemi veicamo darījumu subjektus, darījumu izskatīšanas kārtību pašvaldībās un citus ar to saistītos jautājumus nosaka likums "Par zemes privatizāciju lauku apvidos".
+3. Privatizējot zemesgabalus pilsētās ar lauku teritoriju, attiecībā uz zemesgabaliem, kas atrodas pilsētas daļas teritorijā, tiek piemēroti likuma "Par zemes reformu Latvijas Republikas pilsētās" nosacījumi, bet attiecībā uz zemesgabaliem, kas atrodas lauku daļas teritorijā, tiek piemēroti likuma "Par zemes privatizāciju lauku apvidos" nosacījumi.

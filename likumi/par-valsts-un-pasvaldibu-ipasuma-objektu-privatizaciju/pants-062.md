@@ -1,0 +1,5 @@
+62. pants. Zemesgabala privatizācijas subjekti
+1. Atsevišķu apbūvētu zemesgabalu pilsētā var privatizēt subjekti, kas minēti likuma "Par zemes reformu Latvijas Republikas pilsētās" 20.pantā, ievērojot tā paša likuma 21.pantā minētos ierobežojumus.
+2. Zemesgabalu kopā ar privatizējamo objektu vai neapbūvētu zemesgabalu pilsētā var privatizēt subjekti, kas minēti likuma "Par zemes reformu Latvijas Republikas pilsētās" 20.pantā, ievērojot tā paša likuma 21.pantā minētos ierobežojumus, ja minētie subjekti atbilst šā likuma 4.panta nosacījumiem un ir izpildījuši šā likuma 47.panta prasības.
+3. Atsevišķu apbūvētu zemesgabalu lauku apvidū var privatizēt subjekti, kas minēti likuma "Par zemes privatizāciju lauku apvidos" 28.pantā, ievērojot tā paša likuma 29.pantā minētos ierobežojumus.
+4. Zemesgabalu kopā ar privatizējamo objektu vai neapbūvētu zemesgabalu lauku apvidū var privatizēt subjekti, kas minēti likuma "Par zemes privatizāciju lauku apvidos" 28.pantā, ievērojot tā paša likuma 29.pantā minētos ierobežojumus, ja minētie subjekti atbilst šā likuma 4.panta nosacījumiem un ir izpildījuši šā likuma 47.panta prasības.
