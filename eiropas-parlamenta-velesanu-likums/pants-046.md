@@ -1,0 +1,1 @@
+46.pants. Ja ievēlētais Eiropas Parlamenta deputāts miris, atteicies vai citu iemeslu dēļ zaudējis vai nolicis savu mandātu, viņa vietā stājas nākamais kandidāts no tā paša kandidātu saraksta, no kura bija ievēlēts iepriekšējais deputāts.

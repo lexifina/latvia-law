@@ -1,0 +1,1 @@
+43.pants. Rajonu (republikas pilsētu) vēlēšanu komisijas saņem un saskaita visu to teritorijā esošo vēlēšanu iecirkņu balsu skaitīšanas rezultātus pēc balsu skaitīšanas protokoliem un vēlēšanu materiālus kopā ar savu balsu skaitīšanas protokolu nosūta Centrālajai vēlēšanu komisijai tās noteiktajā kārtībā.

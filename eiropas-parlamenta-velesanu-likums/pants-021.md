@@ -1,0 +1,1 @@
+21.pants. Vēlēšanu laikā kārtību vēlēšanu telpās uzrauga vēlēšanu iecirkņa komisijas priekšsēdētājs. Viņš raugās, lai vēlēšanu telpās un tuvāk par 50 metriem no ieejas ēkā, kurā atrodas vēlēšanu iecirknis, nenotiktu vēlēšanu brīvības ierobežošana un kārtības traucēšana, kā arī aģitācija.

@@ -1,0 +1,1 @@
+7.pants. Valsts prezidentu, Saeimas deputātu, Ministru kabineta locekli, pilsētas domes, rajona padomes, novada domes vai pagasta padomes deputātu var pieteikt par kandidātu Eiropas Parlamenta vēlēšanās, taču, ja attiecīgā persona tiek ievēlēta, tā zaudē valsts amatpersonas amatu, kā arī attiecīgo deputāta mandātu.

@@ -1,0 +1,1 @@
+50.pants. Kandidātu saraksta iesniedzējam, kā arī pieteiktajiem kandidātiem ir tiesības septiņu dienu laikā no vēlēšanu komisijas lēmuma pieņemšanas dienas pārsūdzēt šo lēmumu tiesā Administratīvā procesa likumā noteiktajā kārtībā.

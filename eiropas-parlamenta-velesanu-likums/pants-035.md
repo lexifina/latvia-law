@@ -1,0 +1,1 @@
+35.pants. Tūlīt pēc vēlēšanu iecirkņa slēgšanas Centrālās vēlēšanu komisijas noteiktajā kārtībā vēlēšanu iecirkņa komisija aizzīmogo vēlēšanu kastes, slēdz vēlētāju sarakstus un sagatavo telpu balsu skaitīšanai. Balsošanā neizmantotie vēlēšanu materiāli iesaiņojami vai novietojami tā, lai tie netraucētu balsu skaitīšanu.

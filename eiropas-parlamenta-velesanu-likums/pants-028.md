@@ -1,0 +1,5 @@
+28.pants. (1) Ja vēlētājs veselības stāvokļa dēļ nevar ierasties vēlēšanu telpās, vēlēšanu iecirkņa komisija, pamatojoties uz šā vēlētāja vai viņa pilnvarotas personas rakstveida iesniegumu, kas reģistrēts īpašā žurnālā, organizē balsošanu vēlētāja atrašanās vietā, nodrošinot aizklātību.
+(2) Balsošana vēlētāja atrašanās vietā tiek organizēta arī šā panta pirmajā daļā minēto personu aprūpētājiem, ja viņi laikus iesnieguši rakstveida iesniegumu par balsošanu savā atrašanās vietā.
+(3) Balsošana vēlētāja atrašanās vietā notiek tikai tad, ja vēlētājs atrodas tā vēlēšanu iecirkņa teritorijā, kura vēlētāju sarakstā par viņu ir iekļautas ziņas.
+(4) Vēlēšanu iecirkņa komisija vēlēšanu dienā turpina pieņemt rakstveida iesniegumus par balsošanu vēlētāja atrašanās vietā. Pēc pulksten 12 dienā pieņemtos iesniegumus vēlēšanu iecirkņa komisija apmierina, ja vēlētāja atrašanās vietā ir iespējams ierasties līdz pulksten 10 vakarā.
+(5) Ziņas par vēlētājiem, kuri saskaņā ar šo pantu balso savā atrašanās vietā, tiek iekļautas atsevišķā vēlētāju sarakstā, un aizlīmētās vēlēšanu aploksnes tiek iemestas atsevišķā aizzīmogotā vēlēšanu kastē.
