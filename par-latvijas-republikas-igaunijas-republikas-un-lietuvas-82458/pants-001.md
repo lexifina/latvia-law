@@ -1,0 +1,1 @@
+1.pants. 1997.gada 20.novembrī Rīgā parakstītais Latvijas Republikas, Igaunijas Republikas un Lietuvas Republikas līgums par ārpustarifu barjeru atcelšanu tirdzniecībā un tā saprašanās memorands (turpmāk - Līgums) (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1998, 9.nr.) ar šo likumu tiek denonsēts.
