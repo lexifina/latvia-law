@@ -1,0 +1,13 @@
+10.pants. Apdrošināšanas līguma izbeigšana pirms termiņa
+(1) Apdrošināšanas līgums izbeidzas pirms termiņa - ar pieteikumā norādīto laiku, bet ne agrāk kā ar pieteikuma iesniegšanas brīdi, ja transportlīdzekļa īpašnieks iesniedz apdrošinātājam rakstveida pieteikumu par apdrošināšanas līguma izbeigšanu pirms termiņa, pieteikumam pievieno līguma izbeigšanas pamatojumu - pierādījumus, kas apstiprina vienu no šādiem nosacījumiem:
+1) transportlīdzeklis ir atsavināts;
+2) transportlīdzeklis izgājis no īpašnieka, glabātāja vai lietotāja valdījuma nevis viņu vainas, bet citas personas prettiesisku darbību dēļ un par to ir paziņots attiecīgajām tiesībaizsardzības iestādēm normatīvajos aktos noteiktajā kārtībā;
+3) apdrošināšanas polisē norādītajās ziņās ir kļūda;
+4) tiek likvidēta juridiskā persona vai mainīts tās nosaukums.
+(2) Ja transportlīdzeklis netiks izmantots ceļu satiksmē, transportlīdzekļa īpašnieks iesniedz apdrošinātājam rakstveida pieteikumu par apdrošināšanas līguma izbeigšanu pirms termiņa.
+(3) Transportlīdzekļa īpašnieks pirms šā panta otrajā daļā noteiktā rakstveida pieteikuma iesniegšanas normatīvajos aktos noteiktajā kārtībā uz laiku pārtrauc transportlīdzekļa reģistrāciju attiecīgi Ceļu satiksmes drošības direkcijā vai Valsts tehniskās uzraudzības inspekcijā.
+(4) Izbeidzot apdrošināšanas līgumu šā panta pirmajā un otrajā daļā minētajos gadījumos, transportlīdzekļa īpašnieks iesniedz apdrošinātājam apdrošināšanas polisi un transportlīdzekļa īpašnieka civiltiesiskās atbildības obligātās apdrošināšanas uzlīmi, ja tāda izsniegta. Uzlīmi var neiesniegt šā panta pirmās daļas 2.punktā minētajā gadījumā.
+(5) Izbeidzot apdrošināšanas līgumu pirms termiņa, transportlīdzekļa īpašniekam ir tiesības uz to iemaksātās apdrošināšanas prēmijas daļu, kura atbilst:
+1) atlikušajam laikposmam no līguma izbeigšanas dienas līdz apdrošināšanas līguma termiņa beigām un no kuras atskaitīti ne vairāk kā 5 procenti no apdrošināšanas prēmijas daļas par atlikušo periodu, ja līgums tiek izbeigts šā panta pirmās daļas 1.punktā vai otrajā daļā minēto apstākļu dēļ un ja par attiecīgo līgumu nav pieteiktas apdrošināšanas atlīdzības izmaksas;
+2) atlikušajam laikposmam, skaitot no līguma izbeigšanas dienas, ja līgums tiek izbeigts šā panta pirmās daļas 2., 3. vai 4.punktā minēto apstākļu dēļ.
+(6) Ja transportlīdzeklis tiek pārreģistrēts vai tam tiek izsniegta tranzīta numura karte un apdrošināšanas polisē norādītais transportlīdzekļa īpašnieks nav iesniedzis pieteikumu par apdrošināšanas līguma izbeigšanu, apdrošināšanas līgums izbeidzas ar transportlīdzekļa pārreģistrācijas vai tranzīta numura kartes izsniegšanas brīdi.

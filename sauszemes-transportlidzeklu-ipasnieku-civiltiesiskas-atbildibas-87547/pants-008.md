@@ -1,0 +1,2 @@
+8.pants. Apdrošināšanas polises dublikāts
+Ja apdrošināšanas polise ir nozagta, nozaudēta, gājusi bojā vai sabojāta, transportlīdzekļa īpašnieks iesniedz apdrošinātājam, kas apdrošinājis transportlīdzekļa īpašnieka civiltiesisko atbildību, rakstveida iesniegumu ar lūgumu izsniegt apdrošināšanas polises dublikātu. Apdrošinātājs divu dienu laikā izsniedz apdrošināšanas polises dublikātu. Apdrošinātājam par apdrošināšanas polises dublikāta izsniegšanu ir tiesības iekasēt maksu, bet tā nedrīkst pārsniegt 2 procentus no apdrošināšanas prēmijas, kas noteikta apdrošināšanas līgumā.

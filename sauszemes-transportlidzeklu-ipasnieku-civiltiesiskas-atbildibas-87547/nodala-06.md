@@ -1,0 +1,3 @@
+VI nodaļa
+Sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības
+obligātās apdrošināšanas informācijas sistēma

@@ -1,0 +1,3 @@
+34.pants. Ar piekabi (puspiekabi) vai ar citu cietajā sakabē vilktu transportlīdzekli nodarīto zaudējumu atlīdzināšana
+(1) Ja zaudējumi nodarīti ar piekabi (puspiekabi) vai ar citu cietajā sakabē vilktu transportlīdzekli, kas ceļu satiksmes negadījuma brīdī atradies sakabē ar vilcēju vai citu velkošo transportlīdzekli, apdrošināšanas atlīdzību cietušajam izmaksā apdrošinātājs, kas apdrošinājis vilcēja vai cita velkošā transportlīdzekļa īpašnieka civiltiesisko atbildību.
+(2) Ja zaudējumi nodarīti ar piekabi (puspiekabi), kas ceļu satiksmes negadījuma brīdī nav atradusies sakabē ar vilcēju vai citu velkošo transportlīdzekli, apdrošināšanas atlīdzību cietušajam izmaksā apdrošinātājs, kas apdrošinājis piekabes (puspiekabes) īpašnieka civiltiesisko atbildību.

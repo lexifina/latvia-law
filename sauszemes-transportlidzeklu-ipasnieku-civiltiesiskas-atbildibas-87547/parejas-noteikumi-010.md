@@ -1,0 +1,1 @@
+10. Transportlīdzekļu apdrošinātāju birojs ir Satiksmes biroja mantas, saistību, kā arī saistību nodrošinājuma pārņēmējs ar dienu, kad Transportlīdzekļu apdrošinātāju birojs reģistrēts normatīvajos aktos noteiktajā kārtībā.

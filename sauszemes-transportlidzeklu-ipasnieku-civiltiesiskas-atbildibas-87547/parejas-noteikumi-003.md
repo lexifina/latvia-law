@@ -1,0 +1,1 @@
+3. Apdrošinātājam Transportlīdzekļu apdrošinātāju birojs no Garantijas fonda sedz izmaksāto apdrošināšanas atlīdzības daļu, kas pārsniedz apdrošināšanas polises izdošanas brīdī spēkā bijušo apdrošinātāja atbildības limitu, ja apdrošināšanas polise izdota un stājusies spēkā pirms šā likuma stāšanās spēkā vai stāsies spēkā mēneša laikā pēc šā likuma stāšanās spēkā.

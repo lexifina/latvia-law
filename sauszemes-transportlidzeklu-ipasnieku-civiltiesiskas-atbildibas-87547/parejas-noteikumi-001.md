@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1997, 8.nr.; 2000, 3., 23.nr.).

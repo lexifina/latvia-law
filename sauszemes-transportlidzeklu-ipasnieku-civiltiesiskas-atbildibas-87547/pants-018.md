@@ -1,0 +1,2 @@
+18.pants. Zaudējumi sakarā ar ceļu satiksmes negadījumu
+Iestājoties apdrošināšanas gadījumam, apdrošinātājs, kurš apdrošinājis zaudējumu nodarījušā transportlīdzekļa īpašnieka civiltiesisko atbildību, vai Transportlīdzekļu apdrošinātāju birojs, ja apdrošināšanas atlīdzība izmaksājama no Garantijas fonda, saskaņā ar apdrošinātāja atbildības limitu atlīdzina šajā likumā noteiktajā kārtībā novērtētos zaudējumus, kas ceļu satiksmes negadījumā nodarīti trešajai personai.

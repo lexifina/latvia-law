@@ -1,0 +1,1 @@
+9. Līdz dienai, kad Satiksmes biroja manta, saistības, kā arī saistību nodrošinājums tiks nodots Transportlīdzekļu apdrošinātāju birojam, ir spēkā Ministru kabineta 1997.gada 13.maija noteikumi Nr.182 "Satiksmes biroja nolikums", ciktāl tie nav pretrunā ar šo likumu.

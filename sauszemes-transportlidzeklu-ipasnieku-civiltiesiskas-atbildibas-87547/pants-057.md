@@ -1,0 +1,3 @@
+57.pants. Ceļu satiksmes negadījumu profilakse
+(1) Ceļu satiksmes negadījumu novēršanas pasākumu veikšanai apdrošinātāji katru ceturksni ieskaita Transportlīdzekļu apdrošinātāju biroja kontā divus procentus no saņemto apdrošināšanas prēmiju summas.
+(2) Par naudas izlietojumu lemj Ministru kabineta izveidota konsultatīva institūcija, kuras darbības mērķis ir sekmēt vienotas valsts politikas izstrādi un īstenošanu ceļu satiksmes drošības jomā, lai paaugstinātu vispārējo ceļu satiksmes drošības līmeni valstī, - Ceļu satiksmes drošības padome, ievērojot, ka ne mazāk par pusi no šā panta pirmajā daļā minētajiem līdzekļiem izmanto Iekšlietu ministrijas padotībā esošās iestādes.

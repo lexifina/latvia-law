@@ -1,0 +1,1 @@
+8. Sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas apdrošinājuma ņēmēju interešu aizsardzības fondā uzkrātie līdzekļi tiek ieskaitīti Garantijas fondā Ministru kabineta noteiktajā kārtībā līdz 2005.gada 1.janvārim.
