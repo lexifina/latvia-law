@@ -1,0 +1,1 @@
+11.pants. Pēc tam, kad no Informācijas centra saņemti pārbaudītie saraksti, kredītiestāde sagatavo un nosūta kompensācijas saņēmējam uzaicinājumu ierasties kredītiestādē un pārskaitīt sertifikātus uz Informācijas centra atvērto īpašo privatizācijas sertifikātu kontu (turpmāk - īpašais sertifikātu konts).

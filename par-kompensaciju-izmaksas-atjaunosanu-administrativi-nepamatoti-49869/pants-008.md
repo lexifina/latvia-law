@@ -1,0 +1,1 @@
+8.pants. Informācijas centrs divu nedēļu laikā pēc pašvaldību iesniegto sarakstu saņemšanas tos pārbauda. Ja Informācijas centrā nav ziņu par sarakstā minētajām personām vai sarakstā tiek atklātas pretrunas, kļūdas vai neprecizitātes, Informācijas centrs informē par to pašvaldību un, ja nepieciešams, pieprasa papildu ziņas.

@@ -1,0 +1,1 @@
+17.pants. Netiek dzēsti tie sertifikāti un kompensācija naudā netiek izmaksāta par tiem sertifikātiem, kuri kompensācijas izmaksas laikā ir ieķīlāti vai par kuriem ir izsniegta maksājumu garantija un ķīla vai garantija turpina pastāvēt līdz 1999.gada 31.decembrim.

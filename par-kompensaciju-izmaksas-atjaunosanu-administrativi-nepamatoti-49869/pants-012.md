@@ -1,0 +1,1 @@
+12.pants. Ja kompensācijas saņēmējs kompensācijas saņemšanas brīdī uz īpašo sertifikātu kontu ir pārskaitījis mazāk sertifikātu, nekā viņam ir tiesības dzēst, izmaksājamā summa tiek pārrēķināta atbilstoši īpašajā sertifikātu kontā ieskaitīto sertifikātu nominālvērtībai.

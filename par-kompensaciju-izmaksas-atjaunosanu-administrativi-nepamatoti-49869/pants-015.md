@@ -1,0 +1,1 @@
+15.pants. Pēc naudas līdzekļu ieskaitīšanas kompensācijas saņēmēja kontā kredītiestādei ir tiesības bezstrīdus kārtībā no tā norakstīt šā likuma 13.panta otrajā punktā minētajā aizdevuma līgumā norādīto summu.

@@ -1,0 +1,1 @@
+9.pants. Pašvaldība nosūta Informācijas centram šā likuma 8.pantā minētās papildu ziņas ne vēlāk kā nedēļas laikā pēc pieprasījuma saņemšanas un, ja nepieciešams, izdara grozījumus lēmumā par sertifikātu piešķiršanu.
