@@ -1,0 +1,3 @@
+VII nodaļa
+Profesionālās darbības nosacījumi
+epidemioloģiskās drošības garantēšanai
