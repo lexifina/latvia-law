@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2002.gada 19.marta noteikumi Nr.127 „Epizootiju uzliesmojuma likvidēšanas un draudu novēršanas kārtība”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "47 (2622)",
+  "official_journal_page": null,
+  "official_journal_date": "2002-03-26",
+  "entry_into_force": "2002-03-27",
+  "notification_date": "2012-10-05",
+  "commission_reference": "MNE(2012)54516",
+  "nim_celex": "72012L0005LVA_195864",
+  "nim_id": "195864",
+  "transposes_celex": [
+    "32012L0005"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0dbef21c-6d59-4a73-a1b5-100dfca97f94",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
