@@ -6,8 +6,9 @@
 (5) Satversmes aizsardzības biroja direktors atbilstoši Nacionālās drošības padomes noteiktajiem darbības galvenajiem virzieniem un uzdevumiem:
 1) nosaka Satversmes aizsardzības biroja un citu valsts drošības iestāžu prioritātes un šīm iestādēm izvirzāmās prasības un uzdevumus izlūkošanas (pretizlūkošanas) jomā;
 2) koordinē valsts drošības iestāžu sadarbību, organizē un nodrošina saņemtās informācijas analīzi un valsts drošības apdraudējumu savlaicīgu atklāšanu;
-3) nosaka un kontrole valsts drošības iestāžu sadarbību ar ārvalstu speciālajiem dienestiem; 4) organizē un kontrolē izlūkošanas (pretizlūkošanas) darbību ārpus valsts robežām;
-5) izdara Nacionālās drošības padomes uzdevumā valsts drošības iestāžu pārbaudes.
+3) nosaka un kontrole valsts drošības iestāžu sadarbību ar ārvalstu speciālajiem dienestiem;
+4) organizē un kontrolē izlūkošanas (pretizlūkošanas) darbību ārpus valsts robežām;
+5) organizē Nacionālās drošības padomes uzdevumā vai pēc savas iniciatīvas valsts drošības iestāžu pārbaudes.
 (6) Satversmes aizsardzības biroja direktors:
 1) vada Valsts drošības iestāžu padomes darbību;
 2) kopā ar valsts drošības iestāžu vadītājiem izstrādā un pēc saskaņošanas ar Nacionālās drošības padomi iesniedz Ministru kabinetam un Saeimas Nacionālās drošības komisijai šo iestāžu gada budžeta projektu;
