@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par higiēnas prasībām tādu neiepakotu šķidro eļļu un tauku pārvadāšanai pa jūru, kuri paredzēti izmantošanai pārtikā",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-01",
+  "entry_into_force": null,
+  "notification_date": "2004-07-27",
+  "commission_reference": "MNE(2004)50108",
+  "nim_celex": "71996L0003LVA_30108",
+  "nim_id": "30108",
+  "transposes_celex": [
+    "31996L0003",
+    "32004L0004"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/191a1c28-a5af-4cd8-8fae-b30baa51e72d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
