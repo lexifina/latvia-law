@@ -1,4 +1,4 @@
-8.pants. Ikgadējā finansiālās darbības deklarācija
+8. pants. Ikgadējā finansiālās darbības deklarācija
 (1) Katru gadu ne vēlāk kā līdz 1.martam politiskā organizācija (partija) iesniedz Korupcijas novēršanas un apkarošanas birojam attiecīgās politiskās organizācijas (partijas) vadītāja parakstītu ikgadējo finansiālās darbības deklarāciju.
 (2) Finansiālās darbības deklarācijā norāda politiskās organizācijas (partijas) ienākumus iepriekšējā kalendārajā gadā:
 1) biedru naudas un iestāšanās naudas veidā saņemtus finansu līdzekļus;
@@ -26,7 +26,9 @@ f) citiem pakalpojumiem, norādot izdevumus pa atsevišķiem pakalpojumu veidiem
 5) organizējot sabiedriskos pasākumus;
 6) finansējot labdarības pasākumus, izmaksājot pabalstus un izdarot dāvinājumus (ziedojumus);
 7) citādā veidā, norādot izdevumus pa atsevišķiem veidiem.
-(4) Finansiālās darbības deklarācijā norādāms katra dāvinājuma (ziedojuma) veids, vērtība, saņemšanas datums, kā arī fiziskā un juridiskā persona, kas izdarījusi dāvinājumu (ziedojumu).
+(4) Finansiālās darbības deklarācijā norādāms katra dāvinājuma (ziedojuma) veids, vērtība, saņemšanas datums, kā arī fiziskā persona, kas izdarījusi dāvinājumu (ziedojumu).
 (5) Finansiālās darbības deklarācijā norādāms katra mantojuma pieņemšanas datums, tā masa, vērtība un persona, kas atstājusi mantojumu politiskajai organizācijai (partijai).
 (6) Finansiālās darbības deklarācijā norādāmas tās kapitālsabiedrības, no kurām politiskā organizācija (partija) pārskata periodā guvusi ienākumus (dividendes), un attiecīgie ienākumi (dividendes) no katras kapitālsabiedrības.
 (7) Ikgadējās finansiālās darbības deklarācijas viens eksemplārs glabājas Korupcijas novēršanas un apkarošanas birojā, bet otrs - attiecīgajā politiskajā organizācijā (partijā).
+(8) Katru gadu ne vēlāk kā līdz 1.martam politiskā organizācija (partija) iesniedz Korupcijas novēršanas un apkarošanas birojam attiecīgās politiskās organizācijas (partijas) vadītāja parakstītu iestāšanās naudas un biedru naudas sarakstu, norādot katra maksājumu veikušā biedra vārdu un uzvārdu, kā arī iestāšanās naudas un biedru naudas saņemšanas datumu un apmēru.
+(9) Korupcijas novēršanas un apkarošanas birojs veic ikgadējo finansiālās darbības deklarāciju pārbaudi un līdz nākamā gada 1.martam par visās šajās iesniegtajās deklarācijās atklātajiem politisko organizāciju (partiju) finansēšanas noteikumu pārkāpumiem, kā arī par pasākumiem, kas veikti to novēršanai, informē sabiedrību vienlaikus.

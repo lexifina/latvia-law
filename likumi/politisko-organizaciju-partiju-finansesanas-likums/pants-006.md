@@ -1,10 +1,7 @@
 6. pants. Finansēšanas ierobežojumi
-(1) Politiskās organizācijas (partijas) dāvinājumu (ziedojumu) vai jebkādā citā veidā finansēt ir aizliegts:
-1) valstij un pašvaldībām, izņemot likumos īpaši paredzētus gadījumus;
-2) valsts un pašvaldību iestādēm, kā arī kapitālsabiedrībām, kurās kapitāla daļas (akcijas) pieder valstij vai pašvaldībai;
-3) citu valstu iestādēm, organizācijām, pilsoņiem, komersantiem (tajā skaitā bankām, apdrošināšanas sabiedrībām u.tml.), kā arī bezvalstniekiem;
-4) reliģiskajām organizācijām.
+(1) Fiziskajām personām ir aizliegts finansēt politiskās organizācijas (partijas) no citu personu dāvinājumiem un aizdevumiem. Fiziskajām personām, kuras sodītas par tīšu noziegumu pret īpašumu, par tīšu noziegumu tautsaimniecībā, kā arī par tīšu noziegumu valsts institūciju dienestā un kurām sodāmība nav dzēsta vai noņemta, izņemot reabilitētās personas, aizliegts finansēt politiskās organizācijas (partijas) dāvinājumu un ziedojumu veidā. Bijušajiem Valsts drošības komitejas štata, ārštata darbiniekiem un informatoriem ir aizliegts dāvinājumu (ziedojumu) vai jebkādā citā veidā finansēt politiskās organizācijas (partijas).
 (2) Visi finansu līdzekļu dāvinājumi (ziedojumi), kuru summa pārsniedz 100 latus, tieši jāpārskaita attiecīgās politiskās organizācijas (partijas) bankas kontā, bet citi dāvinājumi (ziedojumi) tieši un nepastarpināti jānodod, jāpārskaita vai jāiesniedz attiecīgajai politiskajai organizācijai (partijai).
-(3) Aizliegts finansēt politiskās organizācijas (partijas), izmantojot trešo personu starpniecību.
-(4) Aizliegts politisko organizāciju (partiju) finansēšanai izveidot īpašus fondus - juridiskās personas vai jebkāda cita veida starpniekorganizācijas, kā arī komercsabiedrības.
+(3) Aizliegts finansēt politiskās organizācijas (partijas), izmantojot trešo personu starpniecību. Par politiskās organizācijas (partijas) finansēšanu, izmantojot trešo personu starpniecību, uzskatāmi gadījumi, kad, īstenojot savas personiskās intereses finansēt politisko organizāciju (partiju), tiek izmantoti citas personas identitātes dati vai kad politiskajai organizācijai (partijai) tiek ziedots ar citas personas starpniecību. Par starpniecību šā likuma izpratnē nav uzskatāms gadījums, kad, pamatojoties uz notariāli apliecinātu pilnvaru, kurā norādīta konkrēta ziedojamā summa vai manta un tās vērtība, pilnvarotāja vārdā ziedojumu veic pilnvarnieks. Šādu pilnvarojumu aizliegts nodot citai personai.
+(4) (Izslēgta ar 12.02.2004. likumu)
 (5) Politiskajām organizācijām (partijām) aizliegts ņemt aizņēmumus.
+(6) Politiskās organizācijas (partijas) nedrīkst izsniegt jebkāda veida aizdevumus un dot galvojumus.
