@@ -1,0 +1,1 @@
+6. Ne vēlāk kā līdz 2002.gada 1.septembrim politiskās organizācijas (partijas) atbilstoši šā likuma 4.panta trešās daļas noteikumiem publicē internetā informāciju par visiem dāvinājumiem (ziedojumiem), kurus tās saņēmušas laika posmā no 2002.gada 1.janvāra līdz 2002.gada 15.augustam.

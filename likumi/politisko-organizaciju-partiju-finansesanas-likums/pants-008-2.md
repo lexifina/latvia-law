@@ -1,0 +1,4 @@
+8.² pants. Vēlēšanu izdevumu deklarācija
+(1) Politiskās organizācijas (partijas), kas iesniegušas deputātu kandidātu sarakstus Saeimas vai pašvaldības domes (padomes) vēlēšanām, 30 dienu laikā pēc Saeimas vai pašvaldību vēlēšanām Ministru kabineta noteiktajā kārtībā iesniedz Korupcijas novēršanas un apkarošanas birojam attiecīgās politiskās organizācijas (partijas) vadītāja parakstītu vēlēšanu izdevumu deklarāciju.
+(2) Vēlēšanu izdevumu deklarācijā norāda visus izdevumus, kas politiskajai organizācijai (partijai) radušies laika posmā no 270.dienas pirms vēlēšanām līdz vēlēšanu dienai, kā arī izdevumus, kas radīsies, pēc vēlēšanām maksājot rēķinus par šā likuma 8.¹ panta otrajā daļā minētajām darbībām.
+(3) Vēlēšanu izdevumu deklarācijā ziņas norādāmas kārtībā, kāda noteikta šā likuma 8.¹ panta otrajā daļā.
