@@ -1,1 +1,4 @@
-Grozījums likuma "Par policiju" 2.pantā stājas spēkā saskaņā ar likuma "Par valsts civildienestu" pārejas noteikumu 8.punktu.
+2. Atzīt par spēku zaudējušiem šādus Augstākās Padomes Prezidija lēmumus:
+1) 1991.gada 31.jūlija lēmumu "Par Latvijas Republikas iekšlietu iestāžu ierindas un komandējošā sastāva speciālajām dienesta pakāpēm" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 33./34., 49./50.nr.);
+2) 1991.gada 14.novembra lēmumu "Par grozījumiem Latvijas Republikas Augstākās Padomes Prezidija 1991.gada 31.jūlija lēmumā "Par Latvijas Republikas iekšlietu iestāžu ierindas un komandējošā sastāva speciālajām dienesta pakāpēm"" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 49./50.nr.);
+3) 1993.gada 25.februāra lēmumu "Par grozījumiem un papildinājumiem Latvijas Republikas Augstākās Padomes Prezidija 1991.gada 31.jūlija lēmumā "Par Latvijas Republikas iekšlietu iestāžu ierindas un komandējošā sastāva speciālajām dienesta pakāpēm"".
