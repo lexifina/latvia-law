@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Eiropas komercsabiedrību likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "49",
+  "official_journal_page": null,
+  "official_journal_date": "2005-03-24",
+  "entry_into_force": null,
+  "notification_date": "2005-04-15",
+  "commission_reference": "MNE(2005)50286",
+  "nim_celex": "72001L0086LVA_120286",
+  "nim_id": "120286",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/d303ca11-fe24-4241-92a7-cde6bb7eaa32",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
