@@ -1,1 +1,1 @@
-VI nodaļa. Sūdzības un apelācijas
+VI nodaļa. Strīdu izskatīšanas kārtība
