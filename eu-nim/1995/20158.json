@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Radio un televīzijas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "137",
+  "official_journal_page": null,
+  "official_journal_date": "1995-09-08",
+  "entry_into_force": null,
+  "notification_date": "2004-02-02",
+  "commission_reference": "MNE(2003)50158",
+  "nim_celex": "71989L0552LVA_20158",
+  "nim_id": "20158",
+  "transposes_celex": [
+    "31989L0552",
+    "31997L0036",
+    "32002L0019",
+    "32002L0021",
+    "32002L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/075fe29c-e007-4718-a99a-d2da4b22ed22",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
