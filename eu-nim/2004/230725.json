@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Administratīvā procesa likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "164 (2551)",
+  "official_journal_page": null,
+  "official_journal_date": "2001-11-14",
+  "entry_into_force": "2004-02-01",
+  "notification_date": "2015-10-14",
+  "commission_reference": "MNE(2015)57350",
+  "nim_celex": "72011L0083LVA_230725",
+  "nim_id": "230725",
+  "transposes_celex": [
+    "32011L0083"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/46e7d6d3-16d5-465c-bf9b-1ec4aaac97d0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
