@@ -1,8 +1,8 @@
 1.pants. Likumā ir lietoti šādi termini:
-1) kolektīvais darba strīds - tāds darba strīds, kurš izriet no darba tiesiskajām attiecībām un kurā izvirzītās uzņēmuma (uzņēmējsabiedrības), iestādes, organizācijas, nozares darbinieku arodbiedrības vai uzņēmuma (uzņēmējsabiedrības), iestādes, organizācijas, nozares darbinieku prasības darba devējam attiecas uz visiem vai daļu no attiecīgā uzņēmuma (uzņēmējsabiedrības), iestādes, organizācijas, nozares darbiniekiem, un tās pauž visi minētie darbinieki vai daļa no viņiem;
-2) kolektīvā darba strīda puses - darba devējs, darba devēju grupa, darba devēju organizācija, nozares pārvaldes institūcija un uzņēmuma (uzņēmējsabiedrības), iestādes, organizācijas, nozares darbinieku arodbiedrība vai uzņēmuma (uzņēmējsabiedrības), iestādes, organizācijas, nozares darbinieki vai minēto darbinieku pilnvaroti pārstāvji;
-3) streiks - kolektīvā darba strīda risināšanas veids, kas izpaužas tādējādi, ka uzņēmuma (uzņēmējsabiedrības), iestādes, organizācijas, nozares darbinieki vai darbinieku grupa brīvprātīgi pilnībā vai daļēji pārtrauc darbu nolūkā panākt prasību izpildi;
-4) streika sarunas - kolektīvā darba strīda pušu sarunas, kuru mērķis ir panākt vienošanos kolektīvajā darba strīdā un izbeigt streiku;
-5) solidaritātes streiks - streiks, kura pamatā ir nevis kolektīvais darba strīds, bet gan solidarizēšanās ar cita uzņēmuma (uzņēmējsabiedrības), iestādes, organizācijas, nozares darbinieku arodbiedrības vai cita uzņēmuma (uzņēmējsabiedrības), iestādes, organizācijas, nozares darbinieku prasībām, lai panāktu izvirzīto prasību izpildi;
-6) streika pieteikums - uzņēmuma (uzņēmējsabiedrības), iestādes, organizācijas, nozares darbinieku arodbiedrības vai uzņēmuma (uzņēmējsabiedrības), iestādes, organizācijas, nozares darbinieku vai minēto darbinieku pilnvarotu pārstāvju paziņojums par lēmumu streikot;
-7) streika norise - process, kurš ietver streika pieteikšanu, pašu streiku un streika sarunas un kura laikā kolektīvā darba strīda puses realizē likumā noteiktās tiesības un pienākumus.
+1) (izslēgts ar 26.09.2002. likumu);
+2) (izslēgts ar 26.09.2002. likumu);
+3) streiks - kolektīvā interešu strīda risināšanas veids, kas izpaužas tādējādi, ka uzņēmuma, nozares darbinieki vai darbinieku grupa brīvprātīgi pilnībā vai daļēji pārtrauc darbu nolūkā panākt prasību izpildi;
+4) streika sarunas - kolektīvā interešu strīda pušu sarunas, kuru mērķis ir panākt vienošanos kolektīvajā interešu strīdā un izbeigt streiku;
+5) solidaritātes streiks - streiks, kura pamatā ir nevis kolektīvais interešu strīds, bet gan solidarizēšanās ar cita uzņēmuma, nozares darbinieku arodbiedrības vai cita uzņēmuma, nozares darbinieku prasībām, lai panāktu izvirzīto prasību izpildi;
+6) streika pieteikums - uzņēmuma vai nozares darbinieku arodbiedrības vai uzņēmuma vai nozares darbinieku, vai minēto darbinieku pārstāvju paziņojums par lēmumu streikot;
+7) streika norise - process, kurš ietver streika pieteikšanu, pašu streiku un streika sarunas un kura laikā kolektīvā interešu strīda puses realizē likumā noteiktās tiesības un pienākumus.

@@ -1,4 +1,4 @@
-17.pants. (1) Darba devējs un streika komiteja nodrošina, lai streika laikā minimālā apjomā tiktu turpināts darbs sabiedrībai nepieciešamajos dienestos, uzņēmumos (uzņēmējsabiedrībās), organizācijās un iestādēs (turpmāk - sabiedrībai nepieciešamie dienesti), kura pārtraukšana radītu draudus valsts drošībai, visas sabiedrības, kādas iedzīvotāju grupas vai atsevišķu indivīdu drošībai, veselībai vai dzīvībai.
+17.pants. (1) Darba devējs un streika komiteja nodrošina, lai streika laikā minimālā apjomā tiktu turpināts darbs sabiedrībai nepieciešamajos dienestos, uzņēmumos (turpmāk - sabiedrībai nepieciešamie dienesti), kura pārtraukšana radītu draudus valsts drošībai, visas sabiedrības, kādas iedzīvotāju grupas vai atsevišķu indivīdu drošībai, veselībai vai dzīvībai.
 (2) Par sabiedrībai nepieciešamajiem dienestiem šā likuma izpratnē atzīstami:
 1) ārstniecības un medicīniskās palīdzības dienesti;
 2) sabiedriskā transporta dienesti;
