@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2002.gada 9.aprīļa noteikumi Nr.149 \"Noteikumi par aizsardzību pret jonizējošo starojumu\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "56 (2631)",
+  "official_journal_page": null,
+  "official_journal_date": "2002-04-12",
+  "entry_into_force": "2002-04-13",
+  "notification_date": "2013-12-27",
+  "commission_reference": "MNE(2013)60174",
+  "nim_celex": "72011L0070LVA_212067",
+  "nim_id": "212067",
+  "transposes_celex": [
+    "32011L0070"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c9c7e1c9-20e6-4c1f-9f2c-c607584c49ff",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
