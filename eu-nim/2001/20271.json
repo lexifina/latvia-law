@@ -1,0 +1,28 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2001.gada 13.marta noteikumi Nr.118 \"Zīdaiņiem un maziem bērniem  paredzētās pārtikas sastāva obligātās nekaitīguma prasības un tās marķējuma un izplatīšanas prasības\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "43",
+  "official_journal_page": null,
+  "official_journal_date": "2001-03-16",
+  "entry_into_force": "2001-01-01",
+  "notification_date": "2004-02-24",
+  "commission_reference": "MNE(2003)50271",
+  "nim_celex": "71989L0398LVA_20271",
+  "nim_id": "20271",
+  "transposes_celex": [
+    "31989L0398",
+    "31992L0052",
+    "31996L0005",
+    "31998L0036",
+    "31999L0039",
+    "32001L0015",
+    "32003L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/04e736c5-8004-42dc-b202-5c49d76b7576",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
