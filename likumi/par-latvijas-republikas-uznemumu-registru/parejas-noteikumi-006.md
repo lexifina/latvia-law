@@ -1,0 +1,1 @@
+6. Līdz attiecīga likuma spēkā stāšanās dienai Uzņēmumu reģistrs veic to individuālo uzņēmumu un zemnieku vai zvejnieku saimniecību reģistrāciju, uz kuriem ir attiecināmas šā likuma normas par uzņēmumu (uzņēmējsabiedrību) reģistrāciju. Šā likuma normas par uzņēmumu (uzņēmējsabiedrību) reģistrāciju ir attiecināmas arī uz kooperatīvajām sabiedrībām.

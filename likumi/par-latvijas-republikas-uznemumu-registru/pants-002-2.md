@@ -1,2 +1,2 @@
-2.² pants. Sabiedrisko organizāciju un to apvienību pamatdokumentu grozījumu un citu izmaiņu reģistrācija
-Uzņēmumu reģistra valsts notāri sabiedrisko organizāciju un to apvienību pamatdokumentu grozījumu un citu izmaiņu reģistrāciju veic saskaņā ar likumu "Par sabiedriskajām organizācijām un to apvienībām", ievērojot Biedrību un nodibinājumu likuma spēkā stāšanās kārtības likumā noteiktos termiņus.
+2.² pants. Sabiedrisko organizāciju reģistra vešana
+Uzņēmumu reģistra valsts notāri sabiedrisko organizāciju (to skaitā politisko partiju) reģistru ved saskaņā ar likumu "Par sabiedriskajām organizācijām un to apvienībām", šā likuma noteikumiem par biedrību un nodibinājumu reģistra vešanu un citiem normatīvajiem aktiem.

@@ -1,14 +1,8 @@
-4. pants. Uzņēmumu reģistra funkcijas
-Uzņēmumu reģistrs veic šādas funkcijas:
-1) pieņem izskatīšanai likumos noteiktos dokumentus uzņēmumu (uzņēmējsabiedrību), to filiāļu un pārstāvniecību reģistrēšanai;
-2) pieprasa un izskata visas likumdošanā noteiktās ziņas un dokumentus, lai pārliecinātos, ka uzņēmums (uzņēmējsabiedrība) savu darbību uzsāk likumdošanā noteiktajā kārtībā;
-3) pieņem lēmumu par uzņēmuma (uzņēmējsabiedrības) reģistrēšanu; ja reģistrēšanai iesniegtie dokumenti neatbilst Latvijas Republikas likumu prasībām, pieņem lēmumu ar motivētu atteikumu;
-4) 30 dienu laikā no dokumentu pieņemšanas dienas rakstveidā paziņo reģistrēšanas pieteikuma iesniedzējam par pieņemto lēmumu, izsniedzot viņam dokumentu par uzņēmuma (uzņēmējsabiedrības) reģistrēšanu vai motivētu atteikumu, ja uzņēmums (uzņēmējsabiedrība) netiek reģistrēts;
-5) pieņem uzņēmuma (uzņēmējsabiedrības) reģistrēšanai nepieciešamos dokumentus otrreizējai izskatīšanai, ja iepriekš pieļautās nepilnības tajos ir novērstas. Otrreizējā izskatīšanā pretenzijas pieļaujamas tikai par tām nepilnībām, kuras atklātas pirmajā izskatīšanā. Dokumentu otrreizējas iesniegšanas gadījumā termiņš, kurā uzņēmums (uzņēmējsabiedrība) jāreģistrē, sākas no dokumentu otrreizējās iesniegšanas dienas;
-6) ziņo attiecīgajām valsts institūcijām par konkrētiem likumpārkāpumiem vai nepatiesu ziņu sniegšanu Uzņēmumu reģistram vainīgo personu saukšanai pie likumā noteiktās atbildības;
-7) pieņem reģistrēšanai uzņēmumu (uzņēmējsabiedrību) pamatdokumentos izdarītos grozījumus, izdara reģistrācijas ierakstus Uzņēmumu reģistra žurnālā, reģistrē kompetentu valsts institūciju lēmumus un rīkojumus par aizliegumu, ja piemērota aizlieguma atzīmes ierakstīšana Uzņēmumu reģistrā, kā arī par kapitāla daļu apķīlāšanu un arestu;
-8) ja nav ievērota piekritība, nav iesniegti visi nepieciešamie dokumenti, tie neatbilst likuma prasībām, tajos ietvertie lēmumi neatbilst likuma prasībām vai Uzņēmumu reģistra žurnālā ierakstīts kompetentas institūcijas lēmums vai rīkojums, kurš paredz šķērsli reģistrēt grozījumus, pieņem lēmumu par atteikumu reģistrēt iesniegtos dokumentus vai izdarīt reģistrācijas ierakstu Uzņēmumu reģistra žurnālā;
-9) izslēdz no Uzņēmumu reģistra uzņēmumus (uzņēmējsabiedrības), to filiāles, nodaļas vai pārstāvniecības, izdarot par to attiecīgu ierakstu Uzņēmumu reģistra žurnālā;
-10) publicē presē par uzņēmumu (uzņēmējsabiedrību) līdzekļiem likumos paredzētās ziņas par uzņēmumiem (uzņēmējsabiedrībām);
-11) veic savstarpēju informācijas apmaiņu ar valsts un pašvaldību institūcijām Ministru kabineta noteiktajā kārtībā un veidā;
-12) reģistrē masu informācijas līdzekļus, koncesiju līgumus, saskaņā ar Koncernu likumu - izšķirošo ietekmi un līdzdalību, Eiropas komercsabiedrības, ved sabiedrisko organizāciju reģistru, biedrību un nodibinājumu reģistru, arodbiedrību reģistru, laulāto mantisko attiecību reģistru, komercķīlu reģistru, komercreģistru, Eiropas ekonomisko interešu grupu reģistru un citus reģistrus, kuri nodoti Uzņēmumu reģistram, kā arī veic citas likumos noteiktās funkcijas.
+4.pants. Uzņēmumu reģistra uzdevumi
+Lai nodrošinātu savu funkciju izpildi, Uzņēmumu reģistrs veic šādus uzdevumus:
+1) pieņem un izskata normatīvajos aktos noteiktos dokumentus Uzņēmumu reģistrā reģistrējamo tiesību subjektu un juridisko faktu reģistrēšanai, dokumentus par izmaiņām attiecīgajos reģistros vai par dibināšanas un darbības dokumentu grozījumiem un glabā normatīvajos aktos noteiktos dokumentus;
+2) pieņem lēmumu par Uzņēmumu reģistrā reģistrējamo tiesību subjektu un juridisko faktu reģistrēšanu, par izmaiņām attiecīgajā reģistrā vai dibināšanas un darbības dokumentu grozījumiem un izdara attiecīgu ierakstu vai normatīvajos aktos noteiktajos gadījumos pieņem lēmumu ar motivētu atteikumu vai par reģistrēšanas atlikšanu, nosakot termiņu trūkumu novēršanai;
+3) reģistrē kompetentu iestāžu vai amatpersonu lēmumus un rīkojumus, ar kuriem piemērots nodrošinājuma līdzeklis;
+4) ziņo attiecīgajām iestādēm par iespējamiem normatīvo aktu pārkāpumiem un sastāda administratīvo pārkāpumu protokolus par konstatētajiem normatīvo aktu pārkāpumiem;
+5) izskata un sagatavo atbildes uz saņemtajiem iesniegumiem un informācijas pieprasījumiem, sagatavo reģistrācijas lietu un Uzņēmumu reģistra lietvedības dokumentu kopijas un izrakstus, kā arī nodrošina iespēju ieinteresētajām personām iepazīties ar reģistrācijas lietām;
+6) veic citus normatīvajos aktos noteiktos uzdevumus.
