@@ -1,3 +1,3 @@
-35. pants. Sākot ar vēlēšanu telpu atvēršanu vēlēšanu dienā, vēlēšanu komisijas sekretārs raksta protokolu, kurā fiksē vēlēšanu norisi.
+35. pants. Sākot ar vēlēšanu telpu atvēršanu vēlēšanu dienā, vēlēšanu komisijas sekretārs raksta vēlēšanu gaitas protokolu.
 Vēlēšanu norisi var novērot ne vairāk kā divas pilnvarotas personas no katras vēlētāju apvienības, politiskās organizācijas (partijas) vai politisko organizāciju (partiju) apvienības, kas attiecīgās domes (padomes) vēlēšanām ir iesniegušas kandidātu sarakstu.
-Sūdzības par vēlēšanu norisi vēlētāji iesniedz vēlēšanu komisijas priekšsēdētājam, kas tās reģistrē īpašā sūdzību reģistrācijas žurnālā. Jebkura sūdzība par vēlēšanu norisi nekavējoties jāizskata vēlēšanu komisijā un jādod atbilde sūdzības iesniedzējam.
+Sūdzības par vēlēšanu norisi vēlētāji iesniedz vēlēšanu komisijas priekšsēdētājam, un tās tiek reģistrētas vēlēšanu gaitas protokolā. Jebkura sūdzība par vēlēšanu norisi jāizskata vēlēšanu komisijā, jādod atbilde sūdzības iesniedzējam, un tā jāieraksta vēlēšanu gaitas protokolā.

@@ -1,1 +1,1 @@
-12. pants. Domes (padomes) vēlēšanas sagatavo un sarīko pilsētas, rajona un pagasta vēlēšanu komisijas un vēlēšanu iecirkņu komisijas, kas izveidotas likumā "Par pilsētu, rajonu, pagastu vēlēšanu komisijām un vēlēšanu iecirkņu komisijām" noteiktajā kārtībā.
+12. pants. Domes (padomes) vēlēšanas sagatavo un sarīko pilsētas, rajona, novada un pagasta vēlēšanu komisijas un vēlēšanu iecirkņu komisijas, kas izveidotas likumā noteiktajā kārtībā.
