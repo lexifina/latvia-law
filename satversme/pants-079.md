@@ -1,1 +1,2 @@
-79. Tautas nobalsošanai nodotie Satversmes pārgrozījums ir pieņemti, ja tiem piekrīt vismaz puse no visiem balsstiesīgiem.
+79. Tautas nobalsošanai nodotais Satversmes pārgrozījums ir pieņemts, ja tam piekrīt vismaz puse no visiem balsstiesīgiem.
+Tautas nobalsošanai nodotais likuma projekts ir pieņemts, ja balsotāju skaits ir vismaz puse no pēdējās Saeimas vēlēšanās piedalījušos vēlētāju skaita un ja vairākums ir balsojis par likuma projekta pieņemšanu.
