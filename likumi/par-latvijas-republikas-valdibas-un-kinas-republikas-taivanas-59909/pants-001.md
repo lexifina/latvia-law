@@ -1,0 +1,1 @@
+1. pants. 1992. gada 17. septembrī Taibei parakstītais Latvijas Republikas valdības un Ķīnas Republikas (Taivanas) valdības līgums par savstarpēju investīciju veicināšanu un aizsargāšanu ar šo likumu pieņemts un apstiprināts.
