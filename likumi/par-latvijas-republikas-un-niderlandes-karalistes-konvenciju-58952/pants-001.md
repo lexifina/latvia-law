@@ -1,0 +1,1 @@
+1. pants. 1994. gada 14. martā Hāgā parakstītā Latvijas Republikas un Nīderlandes Karalistes konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu ar šo likumu tiek pieņemta un apstiprināta.
