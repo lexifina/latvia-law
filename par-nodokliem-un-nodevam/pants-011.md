@@ -18,7 +18,7 @@ l) (izslēgts ar 20.12.2001. likumu);
 5) par uzņēmējdarbības reģistrēšanu, kā arī par ierakstu izdarīšanu komercreģistrā un dibināšanas dokumentu grozījumu reģistrēšanu;
 6) par informācijas sniegšanu no Latvijas Republikas Uzņēmumu reģistra reģistriem;
 7) par informācijas sniegšanu no Iedzīvotāju reģistra;
-8) par sabiedrisko organizāciju un to apvienību, reliģisko organizāciju un to iestāžu, kā arī arodbiedrību reģistrāciju;
+8) par sabiedrisko organizāciju un to apvienību, reliģisko organizāciju un to iestāžu, arodbiedrību reģistrāciju, kā arī ierakstu izdarīšanu biedrību un nodibinājumu reģistrā;
 9) par speciālu atļauju (licenču) izsniegšanu atsevišķiem uzņēmējdarbības veidiem;
 10) par operācijām ar vekseļiem;
 11) par operācijām ar sertifikātiem;
