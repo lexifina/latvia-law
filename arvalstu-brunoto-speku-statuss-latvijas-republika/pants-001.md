@@ -1,5 +1,5 @@
 1.pants. Likuma darbības joma
-(1) Šis likums nosaka ārvalstu bruņoto spēku statusu Latvijas Republikā laikā, kad tie pilda dienesta pienākumus starptautiskās sadarbības ietvaros.
+(1) Šis likums nosaka ārvalstu bruņoto spēku statusu Latvijas Republikā laikā, kad tie pilda dienesta pienākumus starptautiskās sadarbības ietvaros, kā arī kārtību ārvalstu bruņoto spēku sauszemes tranzītam cauri Latvijas Republikai.
 (2) Ārvalstu bruņotajos spēkos ietilpstošās personas ir:
 1) militārpersonas, kuras ir attiecīgās ārvalsts bruņoto spēku sastāvā;
 2) civilpersonas, kuras ir nodarbinātas attiecīgās ārvalsts bruņotajos spēkos.

@@ -1,3 +1,6 @@
 4.pants. Bruņojums un materiāltehniskais nodrošinājums
 (1) Ārvalstu bruņotajiem spēkiem jāsaskaņo ar Latvijas Republikas Aizsardzības ministriju tā bruņojuma un materiāltehniskā nodrošinājuma veids un apjoms, kuru ārvalstu bruņotie spēki ievedīs Latvijas Republikā.
 (2) Latvijas Republikas Aizsardzības ministrija izsniedz ārvalstu bruņotajiem spēkiem atļauju bruņojuma ievešanai un izvešanai un veic ievestā bruņojuma uzskaiti un kontroli atbilstoši saskaņotajiem sarakstiem.
+(3) Kaujas tehniku pāri Latvijas Republikas valsts robežai un Latvijas Republikas teritorijā pārvadā nepielādētu un atsevišķi no tās munīcijas. Ja tas ir paredzēts kaujas tehnikas izmantošanas instrukcijā, šo tehniku pārvadā iepakojumā. Kaujas tehnikas bruņojuma sistēmas nodrošina pret izkustēšanos.
+(4) Ieročus pāri Latvijas Republikas valsts robežai un Latvijas Republikas teritorijā pārvadā nepielādētus, iepakojumā un atsevišķi no to munīcijas, ja ieroču izmantošanas instrukcijā nav paredzēts citādi.
+(5) Kāpurķēžu tehniku Latvijas Republikas teritorijā pārvieto ar speciāliem tās transportēšanai paredzētajiem līdzekļiem, ja šī tehnika nav piemērota vai kāpurķēdes nav aprīkotas braukšanai pa ceļa asfaltbetona segumu.
