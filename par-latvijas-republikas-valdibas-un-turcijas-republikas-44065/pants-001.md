@@ -1,0 +1,1 @@
+1.pants. 1997.gada 18.februārī Ankarā parakstītā Latvijas Republikas valdības un Turcijas Republikas valdības vienošanās par sadarbību militāro mācību, militāro zinību un tehnikas laukā (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.
