@@ -1,2 +1,2 @@
 23. pants. Zemes īpašuma tiesības apliecinošie dokumenti
-Zemes īpašuma tiesības apliecinošs dokuments ir Zemesgrāmatu akts, kuru izdod Zemes grāmatu nodaļa saskaņā ar reģistru, kas izveidots, pamatojoties uz pagasta padomes lēmumu, Valsts zemes dienesta rajona nodaļas kadastra reģistru un Latvijas hipotēku un zemes bankas līgumu ar zemes īpašnieku par zemes izpirkšanu.
+Zemes īpašuma tiesības apliecinošs dokuments ir zemesgrāmatu akts, kuru izdod Zemesgrāmatu nodaļa, pamatojoties uz pagasta zemes komisijas vai pārsūdzības kārtībā pieņemto pagasta padomes, rajona zemes komisijas, Centrālās zemes komisijas vai tiesas nolēmumu, Valsts zemes dienesta rajona nodaļas kadastra reģistru un Latvijas Hipotēku un zemes bankas līgumu ar zemes īpašnieku par zemes izpirkšanu.
