@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2003.gada 8.aprīļa noteikumi Nr.152 \n\"Prasības attiecībā uz sagatavotību radiācijas avārijai un rīcību šādas avārijas gadījumā\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "58(2823)",
+  "official_journal_page": null,
+  "official_journal_date": "2003-04-15",
+  "entry_into_force": "2003-04-16",
+  "notification_date": "2017-08-03",
+  "commission_reference": "MNE(2017)54380",
+  "nim_celex": "72014L0087LVA_249828",
+  "nim_id": "249828",
+  "transposes_celex": [
+    "32014L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1054d1a2-6f72-4819-b909-7c8107cb83a7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
