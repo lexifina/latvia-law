@@ -1,3 +1,5 @@
 6. pants. Maksa par autoceļu lietošanu
-(1) Par valsts un pašvaldību līdzekļiem izbūvētie autoceļi lietojami bez maksas. Ja transportlīdzekļu svars, gabarīti vai citi tehniskie rādītāji pārsniedz attiecīgajam ceļam noteiktos normatīvus, no transportlīdzekļu īpašniekiem var ņemt maksu. Šādos gadījumos maksu par valsts autoceļu lietošanu nosaka Latvijas Republikas Ministru kabinets, bet par citu ceļu lietošanu - to īpašnieks.
-(2) Maksu var ņemt par īpaši aprīkotu ceļu lietošanu, kas izbūvēti, iesaistot privātos līdzekļus. Šādos gadījumos maksu nosaka ceļa īpašnieks.
+(1) Par valsts un pašvaldību līdzekļiem izbūvētie autoceļi lietojami bez maksas, ja transportlīdzekļa vai tā sastāva izmēri, faktiskā masa vai ass slodze nepārsniedz normatīvajos aktos noteiktos lielumus.
+(2) Ja transportlīdzeklis veic lielgabarīta vai smagsvara pārvadājumu, kurā ar kravu vai pasažieriem vai bez kravas vai pasažieriem pa autoceļu (ielu) braucoša mehāniskā transportlīdzekļa vai tā sastāva izmēri, faktiskā masa vai ass slodze pārsniedz normatīvajos aktos noteiktos lielumus, no transportlīdzekļa īpašnieka (turētāja, valdītāja) par valsts autoceļu lietošanu tiek ņemta maksa, bet par pašvaldību un citu ceļu lietošanu maksu var ņemt, ja tā noteicis ceļa īpašnieks.
+(3) Maksas apmēru par valsts autoceļu lietošanu un kārtību, kādā veicama samaksa par lielgabarīta un smagsvara pārvadājumiem pa valsts autoceļiem, nosaka Ministru kabinets.
+(4) Maksu var ņemt par tādu autoceļu lietošanu, kas izbūvēti par privātiem līdzekļiem. Šādos gadījumos maksu nosaka autoceļa īpašnieks.
