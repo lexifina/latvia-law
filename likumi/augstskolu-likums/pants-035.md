@@ -1,0 +1,5 @@
+35. pants. Paplašinātā habilitācijas padome
+(1) Rīkojot atklātu konkursu profesoru vai asociēto profesoru štata vietu aizpildīšanai, attiecīgā habilitācijas padome tiek paplašināta tiktāl, lai tajā vismaz trešā daļa locekļu būtu attiecīgās nozares habilitētie doktori vai profesionālo apvienību pārstāvji, kuru darbības virziens atbilst attiecīgās štata vietas ievirzei, bet kuri nestrādā attiecīgajā augstskolā. Padomes sastāvā studējošo viedokli pārstāv studējošo pašpārvalde, kurai ir balsstiesības.
+(2) Ja augstskolai attiecīgajā zinātnes nozarē nav habilitācijas padomes, vairākas augstskolas kopīgi izveido atbilstošu paplašināto habilitācijas padomi, kuru apstiprina izglītības un zinātnes ministrs.
+(3) Ārvalstu profesori, kas iekļauti paplašinātās habilitācijas padomes sastāvā, var piedalīties tās darbā neklātienē, iepazīstoties ar dokumentiem un rakstveidā paziņojot savu viedokli par visiem pretendentiem, kā arī to, par kuru pretendentu viņi balso.
+(4) Paplašinātās habilitācijas padomes sastāvu pēc tās priekšsēdētāja priekšlikuma apstiprina augstskolas senāts.

@@ -1,0 +1,1 @@
+4. Augstskolām, kurām Latvijas Republikas Izglītības likumā noteiktajā kārtībā ir apstiprinātas satversmes, līdz akreditācijai ir tiesības izsniegt izglītības dokumentu atbilstoši šā likuma 7. panta otrās daļas nosacījumiem, kā arī piedalīties Rektoru padomes darbā.

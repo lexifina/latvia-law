@@ -1,0 +1,3 @@
+29. pants. Profesoru štata vietas
+(1) Profesoru štata vietu skaitu un sarakstu attiecīgās zinātnes vai mākslas apakšnozares augstskolā, ņemot vērā Augstākās izglītības padomes un augstskolu priekšlikumus, nosaka izglītības un zinātnes ministrs. Profesoru skaits atbilst augstskolā pārstāvēto zinātnes vai mākslas apakšnozaru skaitam.
+(2) Ja augstskolā ir brīva profesora štata vieta, augstskolas senāts pēc saskaņošanas ar izglītības un zinātnes ministru pieņem lēmumu par zinātnes vai mākslas apakšnozares saglabāšanu vai mainīšanu un atklāta konkursa izsludināšanu uz brīvo profesora štata vietu attiecīgajā zinātnes vai mākslas apakšnozarē.

@@ -1,0 +1,1 @@
+5. Augstākās izglītības padome gada laikā pēc šā likuma spēkā stāšanās dienas sadarbībā ar Latvijas Zinātnes padomi un Zinātņu akadēmiju izstrādā priekšlikumus izglītības un zinātnes ministram par profesoru štata vietu sarakstu augstskolās un konkursa izsludināšanas grafiku.

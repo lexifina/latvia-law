@@ -1,0 +1,6 @@
+66.pants. Augstākās izglītības padomes izveidošanas kārtība
+(1) Augstākās izglītības padomi deviņu locekļu sastāvā pēc izglītības un zinātnes ministra ierosinājuma apstiprina Saeima. Augstākās izglītības padomes sastāvā ir pa vienam deleģētam pārstāvim no Latvijas Zinātņu akadēmijas, Radošo savienību padomes, Latvijas Izglītības vadītāju asociācijas, Latvijas Ārstu biedrības, Tirdzniecības un rūpniecības kameras; augstākās izglītības jomu padomē pārstāv pa vienam deleģētam pārstāvim no Izglītības un zinātnes ministrijas akceptētajām rektoru, augstskolu profesoru un studējošo organizācijām. Izglītības un zinātnes ministrs saskaņā ar ieņemamo amatu (ex officio) kā Augstākās izglītības padomes loceklis pārstāv padomi valdības sēdēs.
+(2) Augstākās izglītības padomes locekļu kandidatūras Saeima var noraidīt, iesniedzot deputātu (frakciju) motivētus iebildumus.
+(3) Atsaukt Augstākās izglītības padomes locekli var šā panta pirmajā daļā minētās institūcijas, iesniedzot Saeimai motivētu atsaukuma rakstu.
+(4) Augstākās izglītības padomes priekšsēdētāju un viņa vietnieku aizklāti ievēlē padome 14 dienu laikā pēc iepriekšējā priekšsēdētāja un viņa vietnieka pilnvaru laika izbeigšanās.
+(5) Kā pastāvīgs padomdevējs Augstākās izglītības padomes sēdēs piedalās Izglītības un zinātnes ministrijas Augstākās izglītības un zinātnes departamenta pārstāvis.

@@ -1,0 +1,7 @@
+83.pants. Ārvalstnieku studijas Latvijā
+(1) Ārvalstniekus, kuriem nav izsniegta pastāvīgās uzturēšanās atļauja, var uzņemt Latvijas augstskolās par pilnā laika studējošajiem saskaņā ar Latvijas Republikas Izglītības likumu un šo likumu uz vispārējo noteikumu pamata. Ja starptautiskie līgumi neparedz citu kārtību, ārvalstniekus var uzņemt Latvijas augstskolās, ievērojot šādus noteikumus:
+1) ārvalstnieku vidējās izglītības dokumentiem jāatbilst Latvijas standartiem. Ārvalstnieku vidējās izglītības dokumenti tiek pārbaudīti šā likuma 85.pantā noteiktajā kārtībā;
+2) ārvalstnieku zināšanām, tās pārbaudot vispārējā kārtībā, jāatbilst attiecīgās augstskolas uzņemšanas noteikumu prasībām;
+3) ārvalstniekiem pietiekami labi jāprot valodas, kurās notiek mācības;
+4) mācību maksu ārvalstnieki maksā augstskolai atbilstoši līgumam, ko augstskola noslēgusi ar viņiem, taču tā nedrīkst būt zemāka par mācību izdevumiem.
+(2) Ārvalstnieki, kuriem nav izsniegta pastāvīgās uzturēšanās atļauja, var apgūt daļu studiju programmas Latvijas augstskolās saskaņā ar starptautiskajiem (starpaugstskolu) apmaiņas līgumiem vai starptautiskās augstskolu sadarbības programmu ietvaros atbilstoši uzņemšanas noteikumiem. Ja ārvalstnieku studijas Latvijā notiek starpvalstu apmaiņas ietvaros un ekvivalents studējošo skaits no Latvijas augstskolām studē ārvalstīs, ārvalstnieku studijas Latvijā finansē no augstskolai piešķirtajiem Latvijas Republikas valsts budžeta līdzekļiem.

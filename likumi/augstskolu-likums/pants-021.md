@@ -1,0 +1,4 @@
+21. pants. Augstskolas struktūrvienību patstāvība
+(1) Augstskolas struktūrvienībām var būt un var arī nebūt juridiskās personas statuss.
+(2) To augstskolas struktūrvienību tiesības, kurām nav juridiskās personas statusa, tiek noteiktas ar senāta apstiprinātu nolikumu. Tām ir tiesības atvērt subkontus. Subkontu atvēršanu un šo kontu līdzekļu izlietošanu regulē augstskolas senāta apstiprināti noteikumi un spēkā esošie likumdošanas akti. Struktūrvienību subkonti tiek veidoti, lai struktūrvienības varētu patstāvīgi izmantot līdzekļus un mērķfinansējumu, tos nedrīkst izmantot citiem mērķiem augstskolā bez struktūrvienības vadītāja piekrišanas.
+(3) To augstskolas struktūrvienību darbību, kurām ir juridiskās personas statuss, reglamentē spēkā esošie likumdošanas akti un nolikums, kuru pēc akceptēšanas augstskolas senātā un izvērtēšanas Augstākās izglītības padomē apstiprina izglītības un zinātnes ministrs.

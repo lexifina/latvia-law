@@ -1,0 +1,5 @@
+9.pants. Augstskolu akreditācija
+(1) Izsniegt absolventiem valstiski atzītus diplomus par augstākās izglītības iegūšanu drīkst tikai tās augstskolas, kuras ir akreditētas un kurās apgūst valsts akreditētu studiju programmu. Akreditācija notiek saskaņā ar Ministru kabineta apstiprinātiem akreditācijas noteikumiem, to organizē Izglītības un zinātnes ministrija. Studiju programmas akreditē ne retāk kā reizi sešos gados.
+(2) Juridisko personu dibināto augstskolu diplomi tiek valstiski atzīti un tajos atļauts izmantot Latvijas Republikas valsts ģerboni pēc attiecīgās augstskolas un studiju programmas akreditācijas un augstskolas satversmes apstiprināšanas Ministru kabinetā.
+(3) Kad saņemts Augstākās izglītības padomes atzinums par akreditāciju, izglītības un zinātnes ministrs izsniedz attiecīgu akreditācijas dokumentu.
+(4) Izglītības un zinātnes ministrija katra mācību gada beigās laikrakstā "Latvijas Vēstnesis" publicē to augstskolu sarakstu, kurām ir tiesības izsniegt valstiski atzītus diplomus par augstākās izglītības iegūšanu, kā arī šajās augstskolās akreditēto studiju programmu nosaukumus.
