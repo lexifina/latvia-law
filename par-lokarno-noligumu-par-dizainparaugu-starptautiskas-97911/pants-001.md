@@ -1,0 +1,1 @@
+1.pants. 1968.gada 8.oktobra Lokarno Nolīgums par dizainparaugu starptautiskās klasifikācijas izveidošanu ar 1979.gada 28.septembra grozījumiem (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
