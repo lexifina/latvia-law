@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Par aviāciju",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "123",
+  "official_journal_page": null,
+  "official_journal_date": "1994-10-20",
+  "entry_into_force": "1994-11-03",
+  "notification_date": "2006-02-03",
+  "commission_reference": "MNE(2006)50752",
+  "nim_celex": "71994L0056LVA_128027",
+  "nim_id": "128027",
+  "transposes_celex": [
+    "31994L0056"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/41efbad5-85a8-40f3-b4d7-a03b0b237c9f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
