@@ -1,0 +1,31 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par fasēto preču nominālā daudzuma un iepakojuma nominālā tilpuma standartvērtībām",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2001-05-22",
+  "entry_into_force": "2002-01-01",
+  "notification_date": "2004-01-30",
+  "commission_reference": "MNE(2003)50143",
+  "nim_celex": "71975L0106LVA_20143",
+  "nim_id": "20143",
+  "transposes_celex": [
+    "31975L0106",
+    "31976L0211",
+    "31978L0891",
+    "31979L1005",
+    "31980L0232",
+    "31985L0010",
+    "31986L0096",
+    "31987L0356",
+    "31988L0316",
+    "31989L0676"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/358c02d0-40f2-42fc-bedb-a5bb0f667b7c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
