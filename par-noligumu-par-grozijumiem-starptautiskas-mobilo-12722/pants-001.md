@@ -1,0 +1,1 @@
+1.pants. 1998.gada 25.septembrī Londonā parakstītais Nolīgums par grozījumiem Starptautiskās mobilo satelītsakaru organizācijas protokolā par privilēģijām un imunitātēm (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
