@@ -1,1 +1,1 @@
-9. Izdevumi pagastu un pilsētu zemes komisiju uzturēšanai 50 procentu apmērā tiek segti no valsts pamatbudžeta un 50 procentu apmērā - no īpašuma privatizācijas fondu līdzekļiem. Izdevumi Centrālās zemes komisijas uzturēšanai tiek segti no valsts pamatbudžeta.
+9. Pagastu un pilsētu zemes komisiju priekšsēdētāju atalgojums un sociālā nodokļa nomaksa tiek finansēta no valsts pamatbudžeta, bet pārējais komisiju finansējums tiek segts no pašvaldību budžetiem. Izdevumi Centrālās zemes komisijas uzturēšanai tiek segti no valsts pamatbudžeta.
