@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums \"Par interešu konflikta novēršanu valsts amatpersonu darbībā\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2002-05-09",
+  "entry_into_force": "2002-05-10",
+  "notification_date": "2022-07-01",
+  "commission_reference": "MNE(2022)04118",
+  "nim_celex": "72019L1152LVA_202204118",
+  "nim_id": "202204118",
+  "transposes_celex": [
+    "32019L1152"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3abc0076-c439-4fe1-a8b0-278dd502e800",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
