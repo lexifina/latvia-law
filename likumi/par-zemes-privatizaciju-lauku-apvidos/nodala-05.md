@@ -1,0 +1,2 @@
+V nodaļa
+ZEMES PRIVATIZĀCIJAS KĀRTĪBA

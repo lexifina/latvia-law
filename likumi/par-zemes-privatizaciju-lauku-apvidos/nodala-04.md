@@ -1,0 +1,2 @@
+IV nodaļa
+ZEMES PIEŠĶIRŠANA ĪPAŠUMĀ PAR SAMAKSU

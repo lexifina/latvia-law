@@ -1,0 +1,3 @@
+21. pants. Zemes īpašuma pieprasījumu izskatīšana
+Pagasta zemes komisija izskata zemes īpašuma pieprasījumu un sagatavo priekšlikumus pagasta Tautas deputātu padomei, pievienojot tiem zemes ierīcības dienesta atzinumu. Pagasta Tautas deputātu padome pēc zemes komisijas priekšlikumu saņemšanas pieņem lēmumu par bijušā zemes īpašnieka zemes īpašuma tiesību atjaunošanu vai par zemes piešķiršanu pieprasītāja īpašumā, vai ari par atteikumu.
+Pagasta Tautas deputātu padomes lēmumu par atteikumu atjaunot bijušā zemes īpašnieka zemes īpašuma tiesības, kā arī par atteikumu piešķirt zemi tās pieprasītāja īpašumā var pārsūdzēt tiesā.
