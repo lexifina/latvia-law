@@ -1,1 +1,1 @@
-3. Likuma 55.panta pirmā daļa stājas spēkā 1998.gada 1.martā.
+3. Ministru kabinets līdz 1998.gada 1.jūlijam nodrošina šā likuma 56.panta prasību izpildi un nosaka termiņus, kādos pakāpeniski veicama 55.pantā noteikto ārstniecības iestāžu sertifikācija, paredzot to pabeigt līdz 1999.gada 31.decembrim.

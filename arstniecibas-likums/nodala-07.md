@@ -1,2 +1,2 @@
 VII nodaļa
-Māsas profesija
+Māsas un ārsta palīga profesija
