@@ -1,3 +1,3 @@
-120. (1) Kārtējās sesijas laikā Prezidijs pēc katras kārtējās sēdes beigām nosaka laiku atbilžu sniegšanai uz jautājumiem. Šis laiks nevar būt ilgāks par vienu stundu.
-(2) Vienlaikus ar Saeimas kārtējās sēdes darba kārtības izziņošanu Prezidijs izziņo to jautājumu sarakstu, uz kuriem tiks sniegtas atbildes pēc attiecīgās sēdes. Šajā sarakstā Jautājumu reģistrā fiksētajā secībā iekļaujamas atbildes uz tiem jautājumiem, kuri iesniegti ne vēlāk kā vismaz sešas dienas pirms sēdes.
+120. (1) Kārtējās sesijas laikā Prezidijs nosaka laiku atbilžu sniegšanai uz jautājumiem. Šis laiks nevar būt ilgāks par vienu stundu.
+(2) Vienlaikus ar Saeimas kārtējās sēdes darba kārtības izziņošanu Prezidijs izziņo to jautājumu sarakstu, uz kuriem noteiktajā laikā tiks sniegtas atbildes. Šajā sarakstā Jautājumu reģistrā fiksētajā secībā iekļaujamas atbildes uz tiem jautājumiem, kuri iesniegti ne vēlāk kā vismaz sešas dienas pirms sēdes.
 (3) Jautājumu sarakstā iekļaujams pilns jautājumu teksts, Jautājumu reģistra numurs, norādāmi deputāti, kas jautājumu iesnieguši, kā arī amatpersona, kurai tas adresēts.

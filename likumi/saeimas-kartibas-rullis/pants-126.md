@@ -1,5 +1,5 @@
 126. (1) Pieprasījumi, kurus iesniedzēji nav atzinuši par steidzamiem, nododami Pieprasījumu komisijai (149.p.).
-(2) Pieprasījumu komisija divu nedēļu laikā izskata pieprasījumu un iesniedz Prezidijam atzinumu par to.
+(2) Pieprasījumu komisija divu nedēļu laikā izskata pieprasījumu un iesniedz Prezidijam atzinumu par to. Atzinumā norāda komisijas lēmuma motivāciju, kā arī balsojuma rezultātu.
 (3) Pieprasījumu komisija var atzīt, ka pieprasījums ir:
 1) pieņemams;
 2) daļēji pieņemams;

@@ -1,1 +1,1 @@
-185.⁴ Ne retāk kā reizi pusgadā Ministru prezidents vai cits viņa pilnvarots Ministru kabineta loceklis ziņo Saeimai par valdības paveikto un iecerēto turpmāko darbību Eiropas Savienības jautājumos. Par šo ziņojumu var atklāt debates.
+185.⁴ Eiropas lietu komisija var nosūtīt Latvijas Republikas oficiālās nostādnes, kā arī Eiropas Savienības likumdošanas priekšlikumus un citus Eiropas Savienības institūciju dokumentus izskatīšanai un atzinuma sniegšanai citām Saeimas komisijām.

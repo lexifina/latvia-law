@@ -1,1 +1,1 @@
-93. Pēc atbildīgās komisijas vai desmit deputātu priekšlikuma Saeima ar klātesošo deputātu absolūto balsu vairākumu var atcelt lēmumu, ar kuru likumprojekts atzīts par steidzamu (54. p.).
+93. Pēc atbildīgās komisijas vai desmit deputātu priekšlikuma Saeima ar klātesošo deputātu absolūto balsu vairākumu var atcelt lēmumu, ar kuru likumprojekts atzīts par steidzamu (54. p.). Atbildīgā komisija vai desmit deputāti līdz ar priekšlikumu par steidzamības atcelšanu var ierosināt, lai tiek pagarināts priekšlikumu iesniegšanas termiņš otrajam lasījumam.
