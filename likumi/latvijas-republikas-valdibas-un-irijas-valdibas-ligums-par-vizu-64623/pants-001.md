@@ -1,0 +1,1 @@
+1.pants. Īrijas Republikas pilsoņiem, kuri par ceļošanas dokumentu izmanto Īrijas Republikas pilsoņu pases, ir tiesības tranzītā šķērsot Latvijas Republikas teritoriju, ieceļot un uzturēties tajā bez vīzas līdz deviņdesmit dienām viena kalendārā gada laikā.

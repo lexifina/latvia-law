@@ -1,0 +1,1 @@
+2.pants. Šā likuma l. pants attiecībā uz Īrijas Republikas pilsoņiem negroza citus normatīvajos aktos paredzētos noteikumus, kas reglamentē ārvalstnieku ieceļošanas un uzturēšanās kārtību, kā arī darbu Latvijas Republikā.
