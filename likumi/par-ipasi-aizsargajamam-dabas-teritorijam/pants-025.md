@@ -3,3 +3,5 @@ Zinātniskās, dabas aizsardzības un citādas darbības veikšanai aizsargājam
 Lēmumu par aizsargājamās teritorijas pārvaldes institūcijas izveidošanu pieņem valsts institūcija, ar kuras lēmumu ir izveidota aizsargājamā teritorija.
 To aizsargājamo teritoriju pārvaldi, kurām nav savas pārvaldes institūcijas, realizē pašvaldības.
 Aizsargājamo teritoriju pārvaldi koordinē Vides aizsardzības un reģionālās attīstības ministrija.
+Dabas aizsardzības un saimniecisko interešu saskaņošanai pēc atbildīgā ministra priekšlikuma var izveidot aizsargājamās teritorijas konsultatīvo padomi, kuras nolikumu apstiprina Ministru kabinets, bet personālsastāvu - atbildīgais ministrs.
+Lai nodrošinātu ar dabas aizsardzību saistīto normatīvo aktu efektīvu izpildi, kā arī lai veicinātu vienotas dabas aizsardzības un dabas resursu izmantošanas politikas realizēšanu, Ministru kabinets izveido Dabas aizsardzības pārvaldi. Dabas aizsardzības pārvaldes nolikumu apstiprina atbildīgais ministrs.

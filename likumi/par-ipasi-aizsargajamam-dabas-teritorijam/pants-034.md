@@ -1,4 +1,5 @@
 34. pants. Aizsargājamo teritoriju zemes atrašanās fizisko un juridisko personu īpašumā
 Aizsargājamās teritorijās zemes īpašuma tiesības bijušajiem zemes īpašniekiem vai viņu mantiniekiem var atjaunot un zemi fizisko un juridisko personu īpašumā var nodot tikai tad, ja šīs personas apņemas ievērot aizsargājamās teritorijas aizsardzības un izmantošanas noteikumus un dabas aizsardzības plānu.
-Par to izdara ierakstu lēmumā par zemes piešķiršanu īpašumā, nostiprinot šos noteikumus ar ierakstu zemesgrāmatā.
-Lēmums par zemes piešķiršanu īpašumā jāsaskaņo ar reģionālo vides pārvaldi.
+Šā panta pirmajā daļā minētās prasības norādāmas lēmumā par zemes īpašuma tiesību atjaunošanu vai zemes piešķiršanu īpašumā par samaksu.
+Normatīvajos aktos noteiktie īpašuma tiesību aprobežojumi aizsargājamā teritorijā atzīmējami zemes gabala robežu plānos un ierakstāmi zemesgrāmatā, pamatojoties uz aizsargājamās teritorijas administrācijas vai, ja tādas nav, - reģionālās vides pārvaldes nostiprinājuma lūgumu.
+Vides aizsardzības un reģionālās attīstības ministrijas un tās institūciju pienākums ir rakstveidā informēt zemes īpašnieku par viņa īpašuma tiesību aprobežojumiem, ja pēc zemes īpašuma tiesību iegūšanas viņa īpašumā esošā zeme tiek iekļauta dabas rezervātā, dabas liegumā vai citu aizsargājamo teritoriju dabas rezervāta un dabas lieguma zonā.

@@ -1,3 +1,2 @@
-30. pants. Kārtība, kādā tiek izskatīti iesniegumi par atlīdzības piešķiršanu
-Lai saņemtu atlīdzību par saimnieciskās darbības ierobežojumiem aizsargājamā teritorijā, zemes īpašnieks vai lietotājs iesniedz pašvaldībai zaudējumu aprēķinu. Pašvaldība divu mēnešu laikā, ņemot vērā ekspertu atzinumu, izskata iesniegumu un kopā ar Vides aizsardzības un reģionālās attīstības ministrijas pilnvarotu personu un iesniedzēju vienojas par atlīdzības lielumu, veidu un finansēšanas avotu.
-Ja vienošanās nav panākta, zemes īpašniekam vai lietotājam ir tiesības normatīvajos aktos noteiktajā kārtībā iesniegt prasību tiesā.
+30. pants. Zaudējumu atlīdzināšanas un kompensēšanas kārtība
+Šā likuma 29.pantā minēto zaudējumu apjoma noteikšanas un atlīdzināšanas, kā arī līdzvērtīgas zemes apmaiņas kārtību nosaka Ministru kabinets.

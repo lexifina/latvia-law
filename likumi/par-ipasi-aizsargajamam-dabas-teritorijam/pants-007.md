@@ -1,2 +1,2 @@
 7. pants. Dabas liegumi
-Dabas liegumi ir teritorijas, kas pārstāv cilvēka darbības mazpārveidotus vai dažādā pakāpē pārveidotus dabas kompleksus, reto un izzūdošo vietējo savvaļas augu atradnes, dažādiem Latvijas novadiem raksturīgas vai unikālas kultūrainavas, izcili skaistas dabas vietas.
+Dabas liegumi ir cilvēka darbības mazpārveidotas vai dažādā pakāpē pārveidotas dabas teritorijas, kas ietver īpaši aizsargājamo savvaļas augu un dzīvnieku sugu dzīvotnes un īpaši aizsargājamos biotopus.

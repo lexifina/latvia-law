@@ -1,2 +1,2 @@
-23. pants. Reklāma aizsargājamās teritorijās
-Aizsargājamās teritorijās reklāmu izvieto un aizsargājamo teritoriju simboliku reklāmas nolūkos izmanto atbildīgā ministra noteiktajā kārtībā.
+23. pants. Aizsargājamo teritoriju simbolika
+Aizsargājamo teritoriju simboliku izmanto atbildīgā ministra noteiktajā kārtībā.

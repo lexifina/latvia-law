@@ -1,4 +1,4 @@
 33. pants. Zemes īpašuma formas aizsargājamās teritorijās
 Zeme aizsargājamās teritorijās var būt valsts, pašvaldību, kā arī fizisko un juridisko personu īpašumā.
-Aizsargājamās teritorijas vai to daļas, kas iekļautas Vides aizsardzības un reģionālās attīstības ministrijas sastādītajā un apstiprinātajā sarakstā, var būt tikai valsts īpašumā un nav privatizējamas.
-Citas aizsargājamās teritorijas vai to daļas, kas nav iekļautas minētajā sarakstā, var būt pašvaldību vai fizisko un juridisko personu īpašuma tikai tad, ja tās šajā likumā noteiktajā kārtībā apņemas ievērot aizsargājamās teritorijas aizsardzības un izmantošanas noteikumus, kā arī dabas aizsardzības plānu.
+Valstij piederošā un piekrītošā zeme dabas rezervātos, dabas liegumos un citu aizsargājamo teritoriju dabas rezervātu un dabas liegumu zonās nav privatizējama vai atsavināma.
+Šā panta otrajā daļā minētā zeme ierakstāma zemesgrāmatā uz valsts vārda saskaņā ar likumu "Par valsts un pašvaldību zemes īpašuma tiesībām un to nostiprināšanu zemesgrāmatās".
