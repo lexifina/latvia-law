@@ -1,3 +1,3 @@
 IV nodaļa
-Apdrošināto personu un trešo personu
+Apdrošināto personu un tiesību uz atlīdzību pārņēmēju
 tiesības un apdrošināto personu pienākumi

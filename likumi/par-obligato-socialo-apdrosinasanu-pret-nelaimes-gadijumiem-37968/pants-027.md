@@ -1,2 +1,2 @@
-27. pants. Strīdu izskatīšanas kārtība
-Strīdus starp Valsts sociālās apdrošināšanas aģentūru, darba devēju, apdrošināto personu vai trešo personu, kurai saskaņā ar šo likumu ir tiesības saņemt apdrošināšanas atlīdzību, izskata likumā noteiktajā kārtībā.
+27. pants. Valsts sociālās apdrošināšanas aģentūras amatpersonu izdoto administratīvo aktu apstrīdēšana un pārsūdzēšana
+Valsts sociālās apdrošināšanas aģentūras darbinieku izdotos administratīvos aktus vai faktisko rīcību persona var apstrīdēt mēneša laikā no administratīvā akta spēkā stāšanās dienas, iesniedzot attiecīgu iesniegumu Valsts sociālās apdrošināšanas aģentūras direktoram. Valsts sociālās apdrošināšanas aģentūras direktora lēmumu var pārsūdzēt tiesā mēneša laikā no direktora lēmuma spēkā stāšanās dienas.

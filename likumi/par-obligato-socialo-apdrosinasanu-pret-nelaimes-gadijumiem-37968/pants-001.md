@@ -1,15 +1,15 @@
 1. pants. Likumā lietotie termini
 Likumā ir lietoti šādi termini:
 1) darba devējs - fiziskā vai juridiskā persona, kura nodarbina darba ņēmēju vai apmaksā darba ņēmēja darbu;
-2) apdrošināšanas atlīdzība - naudas izmaksas un pakalpojumi apdrošinātajai personai, kā arī naudas izmaksas trešajai personai, ja ir iestājies apdrošināšanas gadījums;
+2) apdrošināšanas atlīdzība - naudas izmaksas un pakalpojumi apdrošinātajai personai, kā arī naudas izmaksas tiesību uz atlīdzību pārņēmējam, ja ir iestājies apdrošināšanas gadījums;
 3) apdrošināšanas gadījums - ar attiecīgiem dokumentiem apstiprināts fakts par nelaimes gadījumu darbā, kā arī atrodoties ceļā uz darbu vai no darba darba devēja valdījumā esošā transportlīdzeklī, vai konstatēta saslimšana ar arodslimību, ja rezultātā iestājusies apdrošinātās personas pārejoša darba nespēja, daļējs vai pilnīgs darbspēju zaudējums vai nāve;
 4) apdrošinātā persona - persona, kura saskaņā ar likumu "Par valsts sociālo apdrošināšanu" pakļauta apdrošināšanai pret nelaimes gadījumiem darbā un arodslimībām;
 5) arodslimības - atsevišķām darbinieku kategorijām raksturīgas slimības, kuru cēlonis ir darba vides fizikālie, ķīmiskie, higiēniskie, bioloģiskie un psiholoģiskie faktori. Arodslimību sarakstu apstiprina Ministru kabinets;
 6) bīstamības grupa - kritēriju kopums (darba vides stāvoklis, veicamā darba riska pakāpe, nelaimes gadījumu un arodslimību skaits), kuru piemēro, nosakot obligāto iemaksu likmi;
 7) darbspēju zaudējums - pārejošs vai nepārejošs, ar vecuma pārmaiņām nesaistīts fizisko vai psihisko spēju ierobežojums, kuru izraisījis nelaimes gadījums darbā, ceļā uz darbu vai no darba, atrodoties darba devēja valdījumā esošā transportlīdzeklī, vai arodslimība un kurš apgrūtina personas integrāciju sabiedrībā, pilnīgi atņem vai daļēji ierobežo tās spēju strādāt un sevi apkopt;
-8) apdrošināšanas iemaksu alga - algotā darbā gūtie ienākumi, no kuriem saskaņā ar likumu "Par valsts sociālo apdrošināšanu" veiktas valsts sociālās apdrošināšanas obligātās iemaksas (turpmāk - obligātās iemaksas);
+8) apdrošināšanas iemaksu alga - algotā darbā gūtie ienākumi, no kuriem saskaņā ar likumu "Par valsts sociālo apdrošināšanu" veiktas vai bija jāveic valsts sociālās apdrošināšanas obligātās iemaksas (turpmāk - obligātās iemaksas);
 9) nelaimes gadījums darbā - apdrošinātās personas veselībai nodarītais kaitējums vai apdrošinātās personas nāve, ja to cēlonis ir vienas darbadienas (maiņas) laikā noticis ārkārtējs notikums, kas radies, pildot darba pienākumus, kā arī rīkojoties, lai glābtu jebkuru personu vai īpašumu un novērstu tiem draudošās briesmas;
 10) preventīvie pasākumi - Valsts sociālās apdrošināšanas aģentūras, valsts, darba devēju un to organizāciju, darbinieku organizāciju, kā arī citu institūciju subsidēti vai organizēti pasākumi, kuru mērķis ir novērst nelaimes gadījumus darbā vai saslimšanu ar arodslimībām;
-11) trešā persona - persona, kurai saskaņā ar šo likumu ir tiesības uz apdrošināšanas atlīdzību vai tās daļu, ja apdrošināšanas gadījuma sekas ir apdrošinātās personas nāve;
+11) tiesību uz atlīdzību pārņēmējs - persona, kurai saskaņā ar šo likumu ir tiesības uz apdrošināšanas atlīdzību vai tās daļu, ja apdrošināšanas gadījuma sekas ir apdrošinātās personas nāve;
 12) obligātās iemaksas - obligātās iemaksas apdrošināšanai pret nelaimes gadījumiem darbā un arodslimībām, kuras veic darba devējs atbilstoši likumam "Par valsts sociālo apdrošināšanu";
 13) tehniskie palīglīdzekļi - jebkurš aprīkojums vai tehniska sistēma, speciāli ražota vai vispārēji pieejama, ko lieto cilvēki ar funkcionāliem traucējumiem un kas novērš, kompensē, atvieglo vai neitralizē saslimšanu, nespēju vai nevarību, kā arī mazina invaliditātes iestāšanās iespējamību.
