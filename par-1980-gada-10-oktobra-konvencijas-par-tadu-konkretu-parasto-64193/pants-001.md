@@ -1,0 +1,1 @@
+1.pants. 1980.gada 10.oktobra Konvencijas par tādu konkrētu parasto ieroču veidu lietošanas aizliegšanu vai ierobežošanu, kurus var uzskatīt par ieročiem, kas nodara ārkārtīgus postījumus vai kam ir neselektīva darbība, 2.protokols ar 1996.gada 3.maija grozījumiem (turpmāk - Grozītais protokols) ar šo likumu tiek pieņemts un apstiprināts.
