@@ -1,0 +1,1 @@
+1.pants. 1997.gada 26.maija Konvencija par cīņu pret korupciju, kurā iesaistītas Eiropas Kopienas amatpersonas vai Eiropas Savienības dalībvalstu amatpersonas, kas izstrādāta, pamatojoties uz Līguma par Eiropas Savienību K.3 panta 2.punkta "c" apakšpunktu (turpmāk - Konvencija), ar šo likumu tiek pieņemta un apstiprināta.
