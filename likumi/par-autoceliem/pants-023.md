@@ -1,0 +1,7 @@
+23. pants. Valsts ceļu dienesta un ceļu īpašnieka pienākumi
+(1) Lai nodrošinātu satiksmes drošību, kā arī ceļu saglabāšanu, valsts ceļu dienestam un ceļu īpašniekam ir pienākums:
+- savlaicīgi veikt ceļu uzturēšanas darbu kompleksu, lai tiktu nodrošināta transportlīdzekļu satiksme pa ceļiem atbilstoši ceļu satiksmes noteikumu prasībām;
+- saskaņā ar valsts standartiem un valsts satiksmes drošības dienesta priekšrakstiem aprīkot autoceļus ar tehniskajiem regulēšanas līdzekļiem un veikt citus pasākumus satiksmes drošības garantēšanai;
+- norobežot un norādīt ar ceļa zīmēm transportlīdzekļu satiksmei bīstamās vietas;
+- pētīt un analizēt satiksmes negadījumu cēloņus un veikt nepieciešamos tehniskos un citus pasākumus to novēršanai.
+(2) Šajā pantā norādīto pienākumu veikšanu uz pagastu, uzņēmumu un māju ceļiem nodrošina pašvaldības, uzņēmumi, organizācijas vai pilsoņi, kuru pārziņā ir attiecīgais ceļš.

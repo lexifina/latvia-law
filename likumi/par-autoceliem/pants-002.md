@@ -1,0 +1,5 @@
+2. pants. Autoceļš
+(1) Autoceļš ir kompleksa inženierbūve ārpus pilsētas robežām, kas izmantojama transportlīdzekļu satiksmei ar noteikto ātrumu, normatīvos paredzētajām slodzēm un gabarītiem.
+(2) Autoceļu kompleksā ietilpst:
+zemes klātne, ceļa braucamā daļa, mākslīgās būves (tilti, ceļu pārvadi, tuneļi, estakādes, caurtekas, ūdens novadīšanas ietaises, atbalsta sienas u. c.), ceļu inženierbūves (autobusu pieturvietas un paviljoni, paātrinājuma joslas, transportlīdzekļu stāvvietas, pasažieru atpūtas laukumi, sniega aizsargsētas, apstādījumi, veloceliņi un ietves, ceļu sakaru un apgaismojuma līnijas), valsts ceļu dienesta ēkas un būves (ražošanas bāzes, būvmateriālu un kaisāmā materiāla novietnes u. c.), ceļa aprīkojums (ceļa zīmes, luksofori, signālstabiņi, aizsargbarjeras, vertikālais un horizontālais marķējums u. c.).
+(3) Autoceļu kompleksā ietilpst arī gaisa telpa un zemes dzīles ceļu zemes nodalījuma joslā, ciktāl tas nepieciešams transportlīdzekļu satiksmei un ceļa elementu izmantošanai un aizsardzībai.

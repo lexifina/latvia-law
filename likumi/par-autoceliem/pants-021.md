@@ -1,0 +1,2 @@
+21. pants. Darbu veikšana uz autoceļiem
+Uzņēmumiem, organizācijām un pilsoņiem, kuri veic darbus uz autoceļiem un ceļu zemes nodalījuma joslā, jānodrošina ar valsts ceļu dienestu un valsts satiksmes drošības dienestu saskaņotas tehnoloģijas ievērošana, darbu veikšana noteiktos termiņos un pienācīgā kvalitātē, satiksmes drošība, jāaprīko darbu veikšanas vietas ar nepieciešamajiem norobežojumiem un ceļa zīmēm.

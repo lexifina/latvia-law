@@ -1,0 +1,2 @@
+I sadaļa
+VISPĀRĪGIE NOTEIKUMI

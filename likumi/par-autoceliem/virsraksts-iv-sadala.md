@@ -1,0 +1,2 @@
+IV sadaļa
+ATBILDĪBA PAR ŠĀ LIKUMA PĀRKĀPŠANU

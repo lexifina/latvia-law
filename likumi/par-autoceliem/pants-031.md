@@ -1,0 +1,3 @@
+31. pants. Valsts ceļu dienesta un amatpersonu atbildība par autoceļu un ceļu inženierbūvju uzturēšanas noteikumu pārkāpšanu
+(1) Par šā likuma 24. pantā paredzēto pienākumu neizpildīšanu, kā rezultātā autoceļu lietotājiem ir nodarīts kaitējums, valsts ceļu dienests atlīdzina tiem radīto kaitējumu saskaņā ar Latvijas Republikas likumdošanas aktu noteikumiem.
+(2) Amatpersonas par autoceļu un ceļu inženierbūvju uzturēšanas noteikumu pārkāpšanu vai par pasākumu neveikšanu, lai savlaicīgi aizliegtu vai ierobežotu satiksmi atsevišķos ceļa posmos, kuru lietošana var apdraudēt satiksmes drošību, sauc pie disciplinārās, administratīvās vai citas atbildības saskaņā ar Latvijas Republikas likumdošanas aktu noteikumiem.
