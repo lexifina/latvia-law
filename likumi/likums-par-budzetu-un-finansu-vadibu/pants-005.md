@@ -4,6 +4,6 @@
 (3) Valsts budžeta līdzekļus var piešķirt vai saņemt vienīgi ar gadskārtējā valsts budžeta likumā paredzētu apropriāciju.
 (4) Valsts budžeta izdevumi sastāv no apropriācijām, kas noteiktas konkrētām valsts vajadzībām saskaņā ar gadskārtējo valsts budžeta likumu.
 (5) Valsts budžeta ieņēmumu un izdevumu starpība ir budžeta finansiālais pārpalikums (ja ieņēmumi ir lielāki par izdevumiem) vai budžeta finansiālais deficīts (ja izdevumi ir lielāki par ieņēmumiem).
-(6) Valsts budžeta aizdevumi ir valsts budžeta līdzekļi, kas nodoti juridiskajām personām un rada tiesības rīkoties ar tiem un pienākumu atdot saņemto aizdevumu, kā arī aizdevumi no valsts budžeta pārņemto saistību pildīšanai, ja aizdevuma ņēmējs palicis parādā valstij.
+(6) Valsts budžeta aizdevumi ir valsts budžeta līdzekļi, kas nodoti juridiskajām personām un rada tiesības rīkoties ar tiem un pienākumu atdot saņemto aizdevumu, kā arī aizdevumi no valsts budžeta pārņemto saistību pildīšanai saskaņā ar izsniegtajiem valsts galvojumiem.
 (7) Valsts budžeta aizdevumu atmaksas veido visi atmaksātie aizdevumi.
 (8) Valsts budžeta finansiālā pārpalikuma vai finansiālā deficīta (finansiālā bilance) un tīro aizdevumu starpība veido valsts budžeta fiskālo deficītu vai fiskālo pārpalikumu (fiskālā bilance).

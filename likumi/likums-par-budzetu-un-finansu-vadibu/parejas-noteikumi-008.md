@@ -1,0 +1,1 @@
+8. Līdz šā likuma 2.panta piektajā daļā paredzēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2003.gada 1.jūnijam piemērojami Ministru kabineta 1996.gada 8.oktobra noteikumi nr.377 "Valsts investīciju programmas sagatavošanas, finansēšanas un realizācijas kārtība", ciktāl tie nav pretrunā ar šo likumu.
