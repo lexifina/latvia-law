@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Koncesiju likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "32/33",
+  "official_journal_page": null,
+  "official_journal_date": "2000-02-02",
+  "entry_into_force": "2000-02-16",
+  "notification_date": "2004-11-15",
+  "commission_reference": "MNE(2004)52691",
+  "nim_celex": "71993L0037LVA_32691",
+  "nim_id": "32691",
+  "transposes_celex": [
+    "31993L0037",
+    "32001L0078"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7eef372a-29c9-4b7e-b99b-a91add307eb7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
