@@ -1,8 +1,8 @@
 13. pants. Autoceļu fondi
-(1) Autoceļu uzturēšana, remonts un būvniecība tiek finansēta no valsts autoceļu fonda un pašvaldību autoceļu (ielu) fondiem.
-(2) Autoceļu fondus veido budžetu un ārpusbudžetu līdzekļi.
-(3) Ikgadējos valsts autoceļu fonda budžeta līdzekļus, kam jābūt pietiekamiem, lai valsts autoceļus uzturētu atbilstoši noteiktām prasībām, apstiprina Saeima vienlaikus ar valsts budžetu.
-(4) Ikgadējos pašvaldību autoceļu (ielu) fondu budžetu līdzekļus apstiprina pašvaldības vienlaikus ar pašvaldību budžetiem.
-(5) Valsts autoceļu fonda turētāja ir Satiksmes ministrija.
-(6) Pašvaldību autoceļu (ielu) fondu turētājas ir pašvaldības.
-(7) Valsts autoceļu fonda un pašvaldību autoceļu (ielu) fondu izlietošanas kārtību nosaka attiecīgi Ministru kabineta apstiprinātie Valsts autoceļu fonda statūti un pašvaldību apstiprinātie pašvaldību autoceļu (ielu) fondu statūti.
+(1) Valsts autoceļu uzturēšanas, rekonstrukcijas un būvniecības finansēšanai tiek izveidots valsts speciālais budžets - Valsts autoceļu fonds.
+(2) Valsts autoceļu fonda izveidošanu un šā fonda līdzekļu pārvaldīšanas un izlietošanas kārtību reglamentē Ministru kabineta noteikumi.
+(3) Valsts autoceļu fonda turētājs ir Satiksmes ministrija.
+(4) Valsts autoceļu fonda līdzekļiem jābūt pietiekamiem, lai valsts autoceļus uzturētu atbilstoši noteiktām prasībām.
+(5) Valsts autoceļu fonda ieņēmumus apstiprina Saeima reizē ar likumu par gadskārtējo valsts budžetu.
+(6) Valsts autoceļu fonda līdzekļi kā mērķdotācija tiek izlietoti arī pagastu un pilsētu pārziņā esošo autoceļu un ielu uzturēšanas, rekonstrukcijas un būvniecības finansēšanai.
+(7) Valsts autoceļu fonda mērķdotācijas saņemšanai pašvaldības izveido pašvaldību autoceļu (ielu) fondus. Pašvaldību autoceļu (ielu) fondu izveidošanas, pārvaldīšanas un izlietošanas kārtību reglamentē Ministru kabineta noteikumi.

@@ -4,4 +4,4 @@
 - saskaņā ar valsts standartiem un Ceļu satiksmes drošības direkcijas priekšrakstiem aprīkot autoceļus ar tehniskajiem regulēšanas līdzekļiem un veikt citus pasākumus satiksmes drošības garantēšanai;
 - norobežot un norādīt ar ceļa zīmēm transportlīdzekļu satiksmei bīstamās vietas;
 - pētīt un analizēt satiksmes negadījumu cēloņus un veikt nepieciešamos tehniskos un citus pasākumus to novēršanai.
-(2) Šajā pantā norādīto pienākumu veikšanu uz pagastu, uzņēmumu un māju ceļiem nodrošina pašvaldības, uzņēmumi, organizācijas vai pilsoņi, kuru pārziņā ir attiecīgais ceļš.
+(2) Gadījumos, kad ceļu izmanto satiksmei uz servitūta pamata, ceļa uzturēšanas pienākums ir servitūta lietotājam.

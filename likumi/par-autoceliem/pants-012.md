@@ -1,4 +1,4 @@
-12. pants. Ceļu būvniecības, remonta un uzturēšanas finansēšana
-(1) Valsts autoceļi tiek būvēti, remontēti un uzturēti par valsts līdzekļiem.
-(2) Pagastu, uzņēmumu un māju ceļi tiek būvēti, remontēti un uzturēti par šo ceļu īpašnieku līdzekļiem. Šos ceļus var būvēt un remontēt par šim nolūkam īpaši paredzētiem valsts līdzekļiem. Par valsts līdzekļiem galvenokārt tiek būvēti jauni īpaši nepieciešami pagastu, uzņēmumu un māju ceļi, pārbūvēti vai remontēti šo ceļu posmi tajos gadījumos, kad tas saistīts ar tehniskām grūtībām, būvēti un remontēti tilti un nobrauktuves no valsts autoceļiem.
-(3) Māju ceļu uzturēšanas izdevumus sedz visi lietotāji, savstarpēji vienojoties.
+12. pants. Autoceļu uzturēšanas, rekonstrukcijas un būvniecības finansēšana
+(1) Valsts autoceļu uzturēšana, rekonstrukcija un būvniecība tiek finansēta no valsts līdzekļiem. Valsts autoceļu uzturēšanas, rekonstrukcijas un būvniecības finansēšanai var izmantot arī privātos līdzekļus.
+(2) Pagastu un pilsētu pārziņā esošo autoceļu un ielu uzturēšana, rekonstrukcija un būvniecība tiek finansēta no pašvaldību līdzekļiem un valsts līdzekļiem.
+(3) Pagastu un pilsētu pārziņā esošo autoceļu un ielu uzturēšanas, rekonstrukcijas un būvniecības finansēšanai var izmantot arī privātos līdzekļus.
