@@ -1,0 +1,1 @@
+Latvijas Republikas valdības un Slovēnijas Republikas valdības nolīguma par starptautiskajiem pārvadājumiem ar autotransportu papildprotokols

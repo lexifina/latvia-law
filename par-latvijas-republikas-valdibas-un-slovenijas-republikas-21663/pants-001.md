@@ -1,0 +1,1 @@
+1.pants. 1998.gada 26.maijā Kopenhāgenā parakstītais Latvijas Republikas valdības un Slovēnijas Republikas valdības nolīgums par starptautiskajiem pārvadājumiem ar autotransportu (turpmāk - Nolīgums) un 1998.gada 26.maijā Kopenhāgenā parakstītais papildprotokols (turpmāk - Papildprotokols) ar šo likumu tiek pieņemti un apstiprināti.
