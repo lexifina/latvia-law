@@ -1,0 +1,1 @@
+6. Šā likuma 28.panta septītā daļa stājas spēkā 2004.gada 1.septembrī. Izglītojamie, kas profesionālās izglītības programmu apguvi mazākumtautību valodā uzsākuši pirms 2004.gada 1.septembra, turpina izglītības programmas apguvi kārtībā, kāda bija spēkā līdz 2004.gada 1.septembrim.

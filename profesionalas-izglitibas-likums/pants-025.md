@@ -4,5 +4,5 @@
 2) profesionālās izglītības programmas saturu;
 3) profesionālās izglītības programmas īstenošanas plānu;
 4) prasības attiecībā uz iepriekš iegūto izglītību;
-5) profesionālās izglītības programmas īstenošanai nepieciešamo personālu, finansu un materiālos līdzekļus.
+5) profesionālās izglītības programmas īstenošanai nepieciešamo personālu, finanšu un materiālos līdzekļus.
 (2) Profesionālās izglītības programmu izstrādā izglītības iestāde, saskaņojot ar tās dibinātāju.
