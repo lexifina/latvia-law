@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums \"Par grāmatvedību\". Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 44/45, 12.11.1992.",
+  "type_of_act": "Likums",
+  "official_journal": "LR Augstākās Padomes un Valdības Ziņotājs",
+  "official_journal_reference": "44/45",
+  "official_journal_page": null,
+  "official_journal_date": "1992-11-11",
+  "entry_into_force": "1992-12-31",
+  "notification_date": "2021-03-24",
+  "commission_reference": "MNE(2021)02167",
+  "nim_celex": "72019L0944LVA_202102167",
+  "nim_id": "202102167",
+  "transposes_celex": [
+    "32019L0944"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6677fae4-9059-11eb-b85c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
