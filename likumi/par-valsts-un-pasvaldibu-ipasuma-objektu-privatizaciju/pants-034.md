@@ -5,5 +5,5 @@
 3) termiņš, līdz kuram privatizācijas subjekti var iesniegt pašvaldības īpašuma objekta privatizācijas projektus;
 4) termiņš, līdz kuram šā likuma 35. pantā minētās personas var iesniegt pieteikumu par pirmpirkuma tiesību realizēšanu;
 5) vieta, kur iesniedzami šā panta pirmās daļas 3. un 4. punktā minētie dokumenti un saņemama informācija par objektu.
-2. Šā panta pirmās daļas 3. punktā minētais termiņš nevar būt īsāks par divām nedēļām un garāks par diviem mēnešiem. Pašvaldība ir tiesīga šo termiņu pagarināt.
+2. Šā panta pirmās daļas 3. punktā minētais termiņš nevar būt īsāks par divām nedēļām un garāks par diviem mēnešiem. Pilsētas dome, rajona padome vai pagasta padome ir tiesīga šo termiņu pagarināt.
 3. Šā panta pirmās daļas 4. punktā minētais termiņš ir divi mēneši.
