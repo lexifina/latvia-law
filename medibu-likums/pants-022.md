@@ -1,0 +1,5 @@
+22.pants. (1) Valsts meža dienests atbilstoši limitam izsniedz medību atļaujas medību tiesību lietotājiem un mednieka sezonas kartes medniekiem.
+(2) Ja medību platības ietilpst nacionālā parka vai dabas rezervāta teritorijā, attiecīgā administrācija izsniedz medību atļaujas medību tiesību lietotājiem un mednieka sezonas kartes medniekiem.
+(3) Nacionālo parku un dabas rezervātu administrācijas limitēto medījamo dzīvnieku medību atļaujas veidlapas un mednieka sezonas kartes saņem no Valsts meža dienesta un divu mēnešu laikā pēc medību sezonas beigām iesniedz Valsts meža dienestam informāciju par nomedīto dzīvnieku skaitu, kā arī nodod Valsts meža dienestam neizlietotās medību atļaujas un anulē medniekiem neizsniegtās mednieka sezonas kartes.
+(4) Mednieki informāciju par nomedīto nelimitēto medījamo dzīvnieku skaitu mēneša laikā pēc medību sezonas beigām, bet medību tiesību lietotāji izlietotās medību atļaujas mēneša laikā pēc medībām iesniedz institūcijām, kuras izsniegušas mednieka sezonas kartes vai medību atļaujas.
+(5) Ja šā panta ceturtajā daļā minētās prasības nav izpildītas, jaunas medību atļaujas un mednieka sezonas kartes netiek izsniegtas.

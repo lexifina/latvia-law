@@ -1,0 +1,1 @@
+12.pants. Mednieka apliecība ir dokuments, kas nepieciešams, lai saņemtu medību atļauju, mednieka sezonas karti un medību šaujamieroča iegādes atļauju, kā arī drīkstētu medīt šajā likumā un citos medības reglamentējošajos normatīvajos aktos noteiktajā kārtībā.

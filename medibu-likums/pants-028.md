@@ -1,0 +1,1 @@
+28.pants. Ja kāda no šā likuma 25.pantā minētajām institūcijām medniekam aizturējusi uz laiku vai atņēmusi mednieka apliecību vai izņēmusi medību šaujamieroci, tā triju darbdienu laikā paziņo par to Valsts policijas iestādei, kura izsniegusi medību šaujamieroča glabāšanas atļauju.
