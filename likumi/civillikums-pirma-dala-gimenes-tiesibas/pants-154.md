@@ -1,1 +1,1 @@
-154. Ārlaulībā dzimuša bērna izcelšanās no tēva pamatojas uz paternitātes noteikšanu ar tās brīvprātīgu atzīšanu vai tiesas spriedumu.
+154. Ja bērna izcelšanās no tēva nav konstatējama atbilstoši šā likuma 146.panta noteikumiem vai tiesa atzinusi, ka bērns nav cēlies no viņa mātes vīra, bērna izcelšanās no tēva pamatojas uz paternitātes brīvprātīgu atzīšanu vai tās noteikšanu tiesas ceļā.

@@ -1,1 +1,1 @@
-75. Laulību var šķirt, ja laulības dzīve ir tik izirusi, ka laulāto turpmāka kopdzīve un ģimenes saglabāšana nav iespējama.
+75. Ja viens laulātais prasa laulības šķiršanu tādu iemeslu dēļ, kas nav minēti šā likuma 74.pantā, un otrs laulātais nepiekrīt laulības šķiršanai, tiesa laulību nešķir pirms šā likuma 72.pantā norādītā termiņa un laulāto samierināšanas nolūkā atliek lietas izskatīšanu.

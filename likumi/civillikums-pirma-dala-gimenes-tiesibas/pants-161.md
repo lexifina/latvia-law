@@ -1,1 +1,1 @@
-161. Ārlaulībā dzimuša bērna mātes uzvārda maina sakarā ar stāšanos laulībā neskar bērna uzvārdu, izņemot viņas stāšanos laulībā ar bērna tēvu.
+161. Bērna vecāku uzvārda maiņa sakarā ar stāšanos laulībā neskar bērna uzvārdu.

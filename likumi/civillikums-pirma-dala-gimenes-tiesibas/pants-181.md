@@ -1,3 +1,4 @@
-181. Ja vecāki dzīvo šķirti, vecāku varu realizē tas no vecākiem, pie kura bērni dzīvo.
-Ja mirst tas no vecākiem, pie kura bērni dzīvo, ka ari ja viņam nav iespējams vecāku varu izlietot, pie viņa bijušie bērni pāriet otra varā, izņemot gadījumus, kad ar tiesas spriedumu bērnu interesēs ir noteikts citādi.
-Katram no vecākiem jāpiedalās samēra ar saviem mantas līdzekļiem to bērnu uzturēšanā, kuri palikuši pie otra no vecākiem.
+181. Bērnam ir tiesības uzturēt personiskas attiecības un tiešus kontaktus ar jebkuru no vecākiem (saskarsmes tiesība).
+Katram vecākam ir pienākums un tiesības uzturēt personiskas attiecības un tiešus kontaktus ar bērnu. Šis noteikums piemērojams arī tad, ja bērns šķirts no viena vai no abiem vecākiem. Tam vecākam, kurš nedzīvo kopā ar bērnu, ir tiesības saņemt ziņas par viņu, it īpaši ziņas par viņa attīstību, veselību, sekmēm mācībās, interesēm un sadzīves apstākļiem.
+Bērnam ir tiesības uzturēt personiskas attiecības un tiešus kontaktus ar brāļiem, māsām un vecvecākiem, kā arī citām personām, ar kurām bērns ilgu laiku ir dzīvojis nedalītā saimniecībā, ja tas atbilst bērna interesēm.
+Vecākiem un personām, kurām ir saskarsmes tiesība attiecībā uz bērnu vai kuru aprūpē bērns atrodas, ir pienākums atturēties no tādām darbībām, kas varētu negatīvi iespaidot bērna attiecības ar kādu no vecākiem.

@@ -1,1 +1,1 @@
-633. Ja testamentā atrod tumšus, divdomīgus vai neveikli lietotus izteicienus, tad tie iztulkojami saskaņā ar šķietamām testātora domām, pie kam sevišķi jāievēro viņa attiecības pret mantinieku, kā arī viņa parastais domu un runas veids. Nesaprotami izteicieni uzskatāmi par neesošiem.
+633. Ja testamentā atrod neskaidrus, divdomīgus vai neveikli lietotus izteicienus, tad tie iztulkojami saskaņā ar šķietamām testatora domām, pie kam sevišķi jāievēro viņa attiecības pret mantinieku, kā arī viņa parastais domu un runas veids. Nesaprotami izteicieni uzskatāmi par neesošiem.

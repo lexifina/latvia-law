@@ -299,7 +299,7 @@ Pečora ezersĶeipenes pag.102,6
 Plaužu ezersĶeipenes pag., Taurupes pag.95,6
 Preiļu rajons
 132.
-Bicānu ezersRušonu pag.149,4
+Bicānu ezersRušonas pag.149,4
 133.
 Biržgaļa ezersAglonas pag.272,2
 (Biržkalnu ezers, Kapiņu ezers)
@@ -308,7 +308,7 @@ Ciriša ezersAglonas pag.630,6
 135.
 Deguma ezers (Pelēčāres ezers)Rudzātu pag.59,0
 136.
-Feimaņu ezers (daļa Rēzeknes raj.)Gailīšu pag., Rušonu pag.625,7
+Feimaņu ezers (daļa Rēzeknes raj.)Gailīšu pag., Rušonas pag.625,7
 137.
 Jersikas ezersJersikas pag.41,0
 Lielais Kalupes ezersRožkalnu pag.175,0
@@ -316,7 +316,7 @@ Lielais Kalupes ezersRožkalnu pag.175,0
 (daļa Daugavpils raj., sk. nr.36)
 138.
 Pelēča ezersAizkalnes pag.82,0
-Rušona ezers (Cīruļu ezers)Rušonu pag.2373,0
+Rušona ezers (Cīruļu ezers)Rušonas pag.2373,0
 (daļa Rēzeknes raj.,
 Krāslavas raj., sk. nr.79)
 Rēzekne

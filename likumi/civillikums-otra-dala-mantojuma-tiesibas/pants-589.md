@@ -1,1 +1,1 @@
-589. Nav atļauti un tādēļ nav spēkā visi tādi mantinieka iecēlumi vai legāta noteikumi, kas saistīti ar nosacījumu, lai apveltītais dotu pēdējās gribas rīkojumu par labu testātoram vai citai personai.
+589. Nav atļauti un tādēļ nav spēkā visi tādi mantinieka iecēlumi vai legāta noteikumi, kas saistīti ar nosacījumu, lai apveltītais dotu pēdējās gribas rīkojumu par labu testatoram vai citai personai.

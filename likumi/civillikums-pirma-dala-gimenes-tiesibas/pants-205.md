@@ -1,1 +1,1 @@
-205. Kad lietu par viena no vecākiem maksātnespēju izbeidz vai kad atceļ pār viņu nodibināto aizgādnību, tiesību pārvaldīt bērnu mantu atjauno vienīgi ar bāriņtiesas atļauju.
+205. Ja tiek izbeigta viena vai abu vecāku maksātnespējas lieta vai atcelta aizgādnība pār vecāku, bāriņtiesa lemj par sevišķā aizbildņa atcelšanu.

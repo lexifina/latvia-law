@@ -1,5 +1,9 @@
-169. Ir nepieciešams, lai adopcijai dod savu piekrišanu visi tās dalībnieki, t. i., adoptētājs un pats adoptējamais, ja pēdējais nav jaunāks par divpadsmit gadiem, un bez tam, kamēr viņš nav vēl sasniedzis pilngadību, ari viņa vecāki vai aizbildņi; aizgādnībā esošas personas adopcijai nepieciešama aizgādņa piekrišana. Laulībā esošas personas adopcijai nepieciešama viņa laulātā piekrišana.
-Tiesa var atsvabināt puses no šīs piekrišanas apliecinājuma, ja pēc faktiskajiem apstākļiem tas izrādās neiespējams kāda pastāvīga šķēršļa dēļ vai arī ja nav zināma to personu dzīvesvieta, kuru piekrišana vajadzīga.
-ja vecāku vara pieder tikai vienam no vecākiem un otrs bez svarīga iemesla liedzas dot atļauju adoptēt, atļauju var dot adoptējamā dzīvesvietas bāriņtiesa.
-Visu nepilngadīgo adopcijai ir nepieciešams bāriņtiesas atzinums, ka adopcija nenāks adoptējamam par ļaunu.
-Pēc ārvalstīs dzīvojošu personu lūguma nepilngadīgo var adoptēt ar tieslietu ministra iepriekšēju atļauju un tikai gadījumos, ja Latvijā nav iespējams nodrošināt bērna audzināšanu ģimenē un pienācīgu aprūpi.
+169. Ir nepieciešams, lai adopcijai dod savu piekrišanu visi tās dalībnieki:
+1) adoptētājs;
+2) adoptējamais, ja viņš ir sasniedzis divpadsmit gadu vecumu;
+3) nepilngadīga adoptējamā vecāki vai aizbildnis.
+Māte piekrišanu sava bērna adopcijai nevar dot ātrāk kā sešas nedēļas pēc dzemdībām.
+Tiesa var atsvabināt puses no šīs piekrišanas apliecinājuma, ja pēc faktiskajiem apstākļiem tas izrādās neiespējams kāda pastāvīga šķēršļa dēļ vai arī ja nav zināma to personu dzīvesvieta, kuru piekrišana vajadzīga. Tiesa ar publikāciju laikrakstā "Latvijas Vēstnesis" lūdz atsaukties minēto personu.
+Ja aizgādību īsteno tikai viens no vecākiem un otrs bez svarīga iemesla liedzas dot atļauju adoptēt, šādu atļauju var dot adoptējamā dzīvesvietas bāriņtiesa.
+Bērna adopcijai ir nepieciešams bāriņtiesas lēmums, ka adopcija ir bērna interesēs. Bāriņtiesa, pieņemot lēmumu, noskaidro adoptējamā viedokli, ja vien viņš to spēj formulēt, kā arī ņem vērā ziņas par adoptētāju, tai skaitā viņa personību, reliģisko pārliecību, ja tāda ir, mantisko stāvokli, sadzīves apstākļiem, spēju izaudzināt bērnu, kā arī ziņas par adoptējamo, tai skaitā viņa personību, reliģisko pārliecību, ja tāda ir, veselību, priekštečiem.
+Pēc ārvalstnieka vai ārvalstīs dzīvojošas personas lūguma bērnu var adoptēt ar tieslietu ministra atļauju un tikai tad, ja Latvijā nav iespējams nodrošināt bērna audzināšanu ģimenē un pienācīgu aprūpi.

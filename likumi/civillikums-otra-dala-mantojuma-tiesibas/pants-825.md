@@ -1,1 +1,0 @@
-825. Ja pārdzīvojušais laulātais iedodas jaunā laulībā, iepriekš neizdalījis ar bērniem viņu mirušā vecākā mantu (226. p.), tad viņš kā necienīgs zaudē šiem bērniem par labu savu likumisko tiesību uz mirušā atstāto mantojumu.

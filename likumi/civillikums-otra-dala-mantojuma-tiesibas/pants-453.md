@@ -1,1 +1,1 @@
-453. Tas, kas pēc testātora lūguma testamentu sastādījis vai pārrakstījis, var zem tā parakstīties arī kā liecinieks.
+453. Tas, kas pēc testatora lūguma testamentu sastādījis vai pārrakstījis, var zem tā parakstīties arī kā liecinieks.

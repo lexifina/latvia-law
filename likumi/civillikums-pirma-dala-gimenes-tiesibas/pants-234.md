@@ -1,1 +1,1 @@
-234. Ja testamentā aizbildņi nav iecelti vai ja ieceltos neapstiprina, vai ja viņi nav vairs dzīvi vai arī nevar pieņemt aizbildnību, nepilngadīgo bērnu tuvākiem radiniekiem nekavējoties jāgriežas pie attiecīgās bāriņtiesas ar lūgumu iecelt bērniem aizbildni.
+234. Ja bērns palicis bez aizgādības, ikvienam, bet it īpaši bērna tuvākajiem radiniekiem, ir pienākums vērsties bāriņtiesā par aizbildņa iecelšanu.

@@ -1,2 +1,2 @@
-160. Ārlaulībā dzimuša bērna uzvārdu nosaka pēc bērna mātes uzvārda bērna dzimšanas laikā, ja paternitāte nav noteikta, reģistrējot bērna dzimšanu.
-Ja bērnam paternitāte noteikta, reģistrējot viņa dzimšanu, bērna uzvārdu nosaka tāpat kā laulībā dzimušam bērnam. Tādā pašā kārtībā iespējams mainīt bērna uzvārdu, ja paternitāte tiek brīvprātīgi atzīta vai noteikta ar tiesas spriedumu pēc bērna dzimšanas reģistrācijas.
+160. Ja bērna tēvs brīvprātīgi atzīst paternitāti, bērna uzvārdu, arī pēc bērna reģistrācijas, nosaka atbilstoši šā likuma 151.panta noteikumiem.
+Ja paternitāte noteikta tiesas ceļā vai arī tiesa apmierina paternitātes apstrīdēšanas prasību, bērna uzvārdu nosaka tiesa, ņemot vērā bērna intereses.

@@ -1,1 +1,0 @@
-147. Tēva tieši izteikta vai ar neapšaubāmu darbību apstiprināta atzīšana, ka laulībā vai pēc tās izbeigšanās dzimušais ir viņa bērns, ir pietiekams pierādījums, ka dzimušais ir laulības bērns. Tēvs nevar to apstrīdēt arī tad, kad viņš ir devis piekrišanu bērna mākslīgai radīšanai.

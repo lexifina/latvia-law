@@ -1,1 +1,1 @@
-II. Testamenta atcelšana, grozot testātoram savu gribu
+II. Testamenta atcelšana, grozot testatoram savu gribu

@@ -1,1 +1,0 @@
-180. Ja laulību šķir vai atzīst par neesošu un vecāki nevar vienoties, pie kura no viņiem lai paliek bērni, tad šo jautājumu, uzklausot pēc iespējas bērnu vēlēšanos, ja viņi sasnieguši septiņu gadu vecumu, izšķir tiesa, ievērojot bērnu intereses.

@@ -1,1 +1,0 @@
-144. Ja laulātie pārceļ savu dzīvesvietu uz citu iecirkni, tad ieraksti izdarāmi šā iecirkņa reģistrā triju mēnešu laikā, turklāt agrākā iecirkņa reģistrā tie paliek spēkā līdz ierakstīšanai jaunajā reģistrā.

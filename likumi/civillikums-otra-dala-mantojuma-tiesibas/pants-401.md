@@ -1,3 +1,2 @@
-401. Adoptētais un tie viņa lejupējie, kas adopcijas līguma slēgšanas laikā bijuši nepilngadīgi vai dzimuši pēc adopcijas līguma slēgšanas, manto no adoptētāja vai viņa lejupējiem līdzīgi laulības bērniem, ja vien adopcijas līgumā nav noteikts citādi. Adoptētā lejupējie, kas adopcijas līguma slēgšanas laika bijuši pilngadīgi, manto no adoptētāja tikai tad, ja viņi adopcijas līgumā piedalījušies kā līdzēji.
-Adopcija neatņem adoptētam tiesību mantot no saviem radniekiem, ja vien adoptētais nav no šās tiesības noteikti atteicies.
-No adoptētā, kas nav atstājis lejupējos, manto vienlīdzīgi viņa radnieki, kā arī adoptētājs un tā lejupējie. Šajā gadījumā adoptētā pusbrāļi un pusmāsas pielīdzināmi īstiem brāļiem un māsām.
+401. Adoptētais un tie viņa lejupējie, kas adopcijas laikā bijuši nepilngadīgi vai dzimuši pēc adopcijas, manto no adoptētāja vai viņa lejupējiem kā viņa bērni.
+No adoptētā manto viņa lejupējie, kā arī adoptētājs un viņa lejupējie. Šajā gadījumā adoptētā pusbrāļi un pusmāsas pielīdzināmi īstiem brāļiem un māsām.

@@ -1,1 +1,1 @@
-77. Laulība šķirama arī, abiem laulātajiem par to vienojoties, tomēr ne agrāk kā vienu gadu pēc laulības noslēgšanas.
+77. Laulību nešķir, ja laulātie nav vienojušies par laulībā dzimuša bērna aizgādību, bērna uzturlīdzekļiem, kopīgās mantas sadali vai attiecīgas prasības nav izšķirtas pirms laulības šķiršanas un netiek celtas kopā ar prasību par laulības šķiršanu.

@@ -1,3 +1,3 @@
 28. Ja viens no saderinātajiem bez svarīga iemesla atsakās doties laulībā vai tā uzvedas, ka šī uzvešanās ir otram saderinātajam svarīgs iemesls no laulības atteikties, šis pēdējais saderinātais, viņa vecāki vai personas, kas kaut ko izdevušas saderināto labā, var prasīt no vainīgā saderinātā, lai atlīdzina tiešos zaudējumus, kas viņiem cēlušies sakarā ar to, ka viņi nākamās laulības izredzē kaut ko izdevuši vai noslēguši kādas saistības.
 Neatkarīgi no tā pats saderinātais var prasīt no otra saderinātā, kas devis iemeslu atcelt saderināšanos, lai atlīdzina zaudējumus, kurus viņš cietis no tādas darbības, kas attiecas uz viņa mantu un varbūtējo peļņu un ko viņš izdarījis sakarā ar nodomāto laulību.
-Zaudējumu atlīdzības apmērs saskaņojams ar vainīgā saderinātā sabiedrisko stāvokli un mantas līdzekļiem.
+Zaudējumu atlīdzības apmērs saskaņojams ar vainīgā saderinātā mantas līdzekļiem.

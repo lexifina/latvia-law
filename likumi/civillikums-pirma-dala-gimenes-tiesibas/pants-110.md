@@ -1,1 +1,2 @@
-110. Izslēgts.
+110. Ja, pastāvot laulībai, laulāto kopīgā manta sadalīta, viņu mantiskajām attiecībām piemērojami noteikumi par visas laulāto mantas šķirtību (117.p. un turpmākie panti). Saistošu spēku attiecībā uz trešajām personām līgums un tiesas spriedums iegūst pēc to ierakstīšanas laulāto mantisko attiecību reģistrā, bet par nekustamo īpašumu - pēc to ierakstīšanas zemesgrāmatā.
+Laulāto mantas sadalīšana neatņem laulāto kreditoriem viņu tiesības. Trešo personu iegūtās tiesības paliek spēkā.

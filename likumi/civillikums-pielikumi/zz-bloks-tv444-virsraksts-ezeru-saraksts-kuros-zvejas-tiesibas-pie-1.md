@@ -1,6 +1,6 @@
-Nr. Ezera nosaukums
-Pagasts, pilsēta Platība
-p.k.
+Nr. p.k. Ezera nosaukums
+Pagasts, pilsēta
+Platība
 (ha)
 Alūksnes rajons
 1. Garais ezers
@@ -134,9 +134,11 @@ Rites pag.61,5
 56. Laukezers
 Kūku pag.50,4
 57. Piksteres ezers
-Viesītes pils. (ar lauku terit.)255,0
+Viesītes pils.
+(ar lauku terit.)255,0
 58. Sūpes ezers
-Viesītes pils. (ar lauku terit.)37,9
+Viesītes pils.
+(ar lauku terit.)37,9
 59. Vīķu ezers
 Sēlpils pag.85,4
 Krāslavas rajons
@@ -145,7 +147,7 @@ Krāslavas rajons
 61. Alksnas ezers
 Krāslavas pag.54,1
 (Volksnas ezers, Olksnas ezers)
-62. Ā rdavas ezers
+62. Ārdavas ezers
 Kombuļu pag.229,8
 63. Arla ezers (Rokuļu ezers)
 Andzeļu pag.27,0
@@ -186,7 +188,7 @@ Robežnieku pag.24,9
 81. Isakovas ezers
 Andzeļu pag.47,9
 (Rokoļu ezers, Lielais ezers)
-82. Ižū na ezers
+82. Ižūna ezers
 Skaistas pag.101,4
 83. Janovas ezers
 Dagdas pag.23,7
@@ -237,7 +239,7 @@ Ezernieku pag.36,5
 Andzeļu pag.48,2
 105. Sama ezers (Soma ezers)
 Skaistas pag.33,6
-106. Saviņu ezers (Saveļ u ezers)
+106. Saviņu ezers (Saveļu ezers)
 Grāveru pag.55,3
 107. Seklais ezers (Sekļa ezers)
 Kombuļu pag.26,9
@@ -269,7 +271,8 @@ Alsungas pag.42,0
 Ēdoles pag.29,0
 Liepājas rajons
 120. Reiņu ezers
-Priekules pag., Bunkas pag.23,0
+Priekules pag.,
+Bunkas pag.23,0
 121. Sepenes ezers
 Embūtes pag.67,0
 122. Tīdu ezers
@@ -297,9 +300,11 @@ Rundēnu pag.166,3
 130. Briģu ezers
 Briģu pag.28,0
 131. Dukānu ezers
-Cirmas pag., Pureņu pag.143,8
+Cirmas pag.,
+Pureņu pag.143,8
 132. Dūnākļu ezers
-Zvirgzdenes pag., Ludza82,7
+Zvirgzdenes pag.,
+Ludza82,7
 133. Franapoles ezers
 Zvirgzdenes pag.70,4
 134. Ilza ezers
@@ -308,10 +313,11 @@ Istras pag.68,6
 Cirmas pag.67,1
 136. Lielais Kivdalovas ezers
 Pureņu pag.40,7
-137. Lielais Kurmas ezers
+137. Lielais Kurmas zers
 Pildas pag.83,8
 138. Līdūkšņas ezers
-Pildas pag., Nirzas pag.95,5
+Pildas pag.,
+Nirzas pag.95,5
 139. Mazais Kurmas ezers
 Pildas pag.59,8
 140. Pintu ezers
@@ -327,7 +333,8 @@ Istras pag.254,9
 145. Soidu ezers
 Cirmas pag.30,0
 146. Sološu ezers
-Lauderu pag., Zaļesjes pag.88,5
+Lauderu pag.,
+Zaļesjes pag.88,5
 147. Zeiļu ezers
 Isnaudas pag.44,8
 Madonas rajons
@@ -356,36 +363,37 @@ Liezēres pag.29,0
 159. Stirnezers
 Sausnējas pag.68,2
 160. Talejas ezers
-Bērzaunes pag., Vestienas pag.79,7
+Bērzaunes pag.,
+Vestienas pag.79,7
 161. Ūbēra ezers
 Liezēres pag.30,6
 Preiļu rajons
-162. Bešēnu ezers (Bieš ona ezers)
+162. Bešēnu ezers (Biešona ezers)
 Aglonas pag.64,2
 163. Bleidas ezers
 Vārkavas pag.33,8
 164. Eikša ezers
-Rušonu pag.57,5
+Rušonas pag.57,5
 165. Garlaku ezers
 Rožkalnu pag.37,0
 166. Ilzas ezers
 Aglonas pag.33,5
 167. Jāšezers
-Rušonu pag.107,6
+Rušonas pag.107,6
 168. Kategradas ezers
-Rušonu pag.133,1
+Rušonas pag.133,1
 169. Kaučera ezers
-Rušonu pag.49,9
+Rušonas pag.49,9
 170. Lielais Kurtaša ezers
-Rušonu pag.48,8
+Rušonas pag.48,8
 171. Lielais Salkas ezers
-Rušonu pag.48,5
+Rušonas pag.48,5
 172. Mazais Salkas ezers
-Rušonu pag.27,0
+Rušonas pag.27,0
 173. Pakalņa ezers
 Aglonas pag.54,8
 174. Salmeja ezers
-Rušonu pag.104,3
+Rušonas pag.104,3
 175. Šusta ezers
 Aizkalnes pag.73,0
 Vīragnas ezers
@@ -438,18 +446,22 @@ Saldus rajons
 Zvārdes pag.50,0
 196. Veiķenieku ezers
 Lutriņu pag.28,0
-197. Zvārdes ezers (Odzē nu ezers)
+197. Zvārdes ezers (Odzēnu ezers)
 Zvārdes pag.20,0
 Talsu rajons
 198. Gulbju ezers
 Ģibuļu pag.115,5
 199. Laidzes ezers
-Laidzes pag.170,5 (-39,2 ha) (Izņemot platību ar zemes kadastra Nr8837-12-0009)
+Laidzes pag.
+170,5 (-39,2 ha)
+(Izņemot platību ar zemes kadastra Nr.8837-12-0009)
 200. Lubezers
-Valdemārpils (ar lauku terit.)129,6
+Valdemārpils
+(ar lauku terit.)
+129,6
 201. Mordangas - Kāņu ezers
 Ģibuļu pag.78,0
-202. Plunč u ezers
+202. Plunču ezers
 Ģibuļu pag.42,1
 203. Spāres ezers
 Ģibuļu pag.201,1
@@ -462,7 +474,8 @@ Valkas rajons
 206. Salaiņa ezers
 Zvārtavas pag.77,8
 207. Vadaiņa ezers
-Zvārtavas pag.49,6
+Zvārtavas pag.
+49,6
 208. Vēdera ezers
 Zvārtavas pag.50,8
 Valmieras rajons

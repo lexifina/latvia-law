@@ -1,4 +1,4 @@
-659. Tiesai pašai no sevis jāgādā par mantojuma apsardzību šādos gadījumos:
+659. Notāram pēc savas iniciatīvas vai pēc mantinieka, mantojuma aizgādņa, testamenta izpildītāja, mantojuma atstājēja kreditora vai citu ieinteresēto personu lūguma jāgādā par mantojuma apsardzību šādos gadījumos:
 1) kad mantinieki, vai nu vispār, vai daži no tiem, nav zināmi;
 2) kad viņi kaut arī ir zināmi, bet nav visi sasniedzami un nav arī viņiem pilnvarnieku vai citu personu, kas tos pēc likuma pārstāv;
 3) kad mantinieki kaut arī ir zināmi un ir sasniedzami, bet negrib vai nevar mantojumu pieņemt;

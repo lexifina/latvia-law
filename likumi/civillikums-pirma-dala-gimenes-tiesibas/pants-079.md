@@ -1,2 +1,3 @@
-79. Ja laulība atzīta par neesošu un ja viens no bijušajiem laulātajiem, laulībā dodoties, nav zinājis, ka tā atzīstama par tādu, tad, ja viņš ir trūcīgs, viņam ir tiesība prasīt uzturu (95. p. 3. d.) no otra, kas to zinājis, samērā ar pēdējā līdzekļiem, izņemot gadījumu, kad viņš bez svarīga iemesla izvairās iegūt līdzekļus ar savu darbu.
-Pienākums uzturēt bijušo laulāto atkrīt, ja pēdējais devies jaunā laulībā.
+79. Ja laulība atzīta par neesošu un tikai viens no bijušajiem laulātajiem, laulībā dodoties, ir zinājis, ka tā atzīstama par tādu, tad otram laulātajam, kurš to nav zinājis, ir tiesības prasīt no viņa:
+1) atlīdzību par morālo kaitējumu;
+2) samērā ar viņa mantas stāvokli līdzekļus, ja tas nepieciešams iepriekšējā labklājības līmeņa nodrošināšanai vai uzturam.

@@ -1,1 +1,1 @@
-574. Ja vienam novēlēta lietojuma tiesība, bet otram īpašuma tiesība uz vienu un to pašu lietu, tad īpašuma tiesība pāriet uz pēdējo no testātora nāves brīža, bet tā ir aprobežota līdz lietojuma tiesības izbeigšanās brīdim.
+574. Ja vienam novēlēta lietojuma tiesība, bet otram īpašuma tiesība uz vienu un to pašu lietu, tad īpašuma tiesība pāriet uz pēdējo no testatora nāves brīža, bet tā ir aprobežota līdz lietojuma tiesības izbeigšanās brīdim.

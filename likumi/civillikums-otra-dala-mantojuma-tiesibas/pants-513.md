@@ -1,1 +1,1 @@
-513. Ja testātors piešķir kā legātu kaut ko savam bērnam, kura dzimšana sagaidāma pēc testātora nāves, bet atraitne dzemdē vairāk kā vienu bērnu, tad legāts dalāms starp viņiem līdzīgās daļās, ja vien tas acīmredzot nerunā pretim testātora gribai.
+513. Ja testators piešķir kā legātu kaut ko savam bērnam, kura dzimšana sagaidāma pēc testatora nāves, bet atraitne dzemdē vairāk kā vienu bērnu, tad legāts dalāms starp viņiem līdzīgās daļās, ja vien tas acīmredzot nerunā pretim testatora gribai.

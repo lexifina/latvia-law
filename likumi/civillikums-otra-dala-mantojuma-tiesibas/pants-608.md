@@ -1,1 +1,1 @@
-608. Korrespektīvā testamentā viena testātora izdarīts atsaukums pilnīgi atceļ arī otra rīkojumu, izņemot tikai gadījumu, kad pēdējais būtu dabūjis zināt par pirmā atsaukumu un tomēr ar nodomu atstājis negrozītus savus rīkojumus.
+608. Korrespektīvā testamentā viena testatora izdarīts atsaukums pilnīgi atceļ arī otra rīkojumu, izņemot tikai gadījumu, kad pēdējais būtu dabūjis zināt par pirmā atsaukumu un tomēr ar nodomu atstājis negrozītus savus rīkojumus.

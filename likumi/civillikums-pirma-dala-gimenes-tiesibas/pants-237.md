@@ -1,1 +1,1 @@
-237. Ja aizbildnis, kas iecelts pēc likuma, ar testamentu vai pēc tiesas sprieduma, ir pagaidām kavēts uzņemties aizbildnību vai ja tiesas spriedumu kāda iemesla dēļ nevar tūliņ izpildīt, līdz šo kavēkļu novēršanai bāriņtiesa ieceļ pagaidu aizbildni.
+237. Ja aizbildnis ir pagaidām kavēts uzņemties aizbildnību, līdz šo kavēkļu novēršanai bāriņtiesa ieceļ pagaidu aizbildni.

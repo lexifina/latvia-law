@@ -1,1 +1,1 @@
-70. Tiesa var šķirt laulību pēc viena vai abu laulāto pieteikuma.
+70. Laulību šķir tiesa, pamatojoties uz viena laulātā vai abu laulāto pieteikumu.

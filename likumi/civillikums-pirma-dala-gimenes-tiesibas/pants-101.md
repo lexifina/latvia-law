@@ -1,1 +1,1 @@
-101. Ja viens laulātais, pārvaldot otra laulātā mantu, taisījis no savas mantas nepieciešamus izdevumus, tad viņš tikai pēc pārvaldības un lietošanas izbeigšanās var prasīt no pēdējā, lai šos izdevumus atlīdzina, ciktāl tie nav jāsedz viņam pašam.
+101. Ja viens laulātais, pārvaldot otra laulātā mantu, taisījis no savas mantas nepieciešamus izdevumus, tad viņš tikai pēc pārvaldības izbeigšanās var prasīt no pēdējā, lai šos izdevumus atlīdzina, ciktāl tie nav jāsedz viņam pašam.

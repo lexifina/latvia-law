@@ -1,1 +1,1 @@
-76. Trīs gadus nepārtraukti ilgstoša laulāto šķirta dzīve ir laulības šķiršanas iemesls.
+76. Laulību nešķir, kaut gan tā ir izirusi, ja un ciktāl laulības saglabāšana izņēmuma kārtā sevišķu iemeslu dēļ ir nepieciešama laulībā dzimuša nepilngadīga bērna interesēs.

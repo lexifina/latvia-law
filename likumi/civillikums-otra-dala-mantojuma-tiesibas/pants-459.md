@@ -1,1 +1,1 @@
-459. Ja testātors pašā testamentā solījies to vēlāk papildināt ar jauniem rīkojumiem, bet dzīvs būdams nav to izdarījis, tad tas neietekmē testamenta spēku, ja vien to vispār var izpildīt bez nodomātiem papildinājumiem.
+459. Ja testators pašā testamentā solījies to vēlāk papildināt ar jauniem rīkojumiem, bet dzīvs būdams nav to izdarījis, tad tas neietekmē testamenta spēku, ja vien to vispār var izpildīt bez nodomātiem papildinājumiem.

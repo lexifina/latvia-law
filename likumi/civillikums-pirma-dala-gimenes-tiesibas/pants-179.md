@@ -1,4 +1,6 @@
-179. Vecāku pienākums ir rūpēties samērā ar viņu mantas un sabiedrisko stāvokli par viņu varā esošu bērnu dzīvību un labklājību, sagādāt viņiem uzturu, t. i., dot ēdienu, mitekli, apģērbu, viņus kopt, audzināt un skolot.
-Bērnu apgādāšana līdz tam laikam, kad viņi var sevi paši apgādāt, gulstas uz tēvu un māti samērā ar viņu mantas stāvokli.
-Ja vecāku nav vai viņi nespēj apgādāt bērnu, šis pienākums gulstas uz vecvecākiem.
-Ja bērniem ir pašiem sava manta, bet vecākiem tās nepietiek bērniem nepieciešamo uztura izdevumu segšanai, tad šos izdevumus var segt no bērnu mantas ienākumiem; ja šo ienākumu nepietiek, tad var izlietot daļu no bērnu mantas, bet vienīgi ar attiecīgās bāriņtiesas atļauju.
+179. Vecāku pienākums ir samērā ar viņu mantas stāvokli uzturēt bērnu. Šis pienākums gulstas uz tēvu un māti līdz laikam, kad bērns pats var sevi apgādāt.
+Pienākums gādāt par bērna uzturēšanu neizbeidzas, ja bērns nedzīvo kopā ar vienu no vecākiem vai abiem vecākiem.
+Ja bērnam ir pašam sava manta, bet vecākiem tās nepietiek bērnam nepieciešamo uztura izdevumu segšanai, šos izdevumus var segt no bērna mantas ienākumiem; ja šo ienākumu nepietiek, var izlietot daļu no bērna mantas, bet vienīgi ar bāriņtiesas atļauju.
+Ja vecāku nav vai viņi nespēj uzturēt bērnu, šis pienākums līdzīgās daļās gulstas uz vecvecākiem. Ja vecvecāku mantas stāvoklis ir nevienlīdzīgs, tiesa var noteikt viņiem uzturēšanas pienākumu samērā ar katra mantas stāvokli.
+Minimālo uzturlīdzekļu apmēru, kuru bērnam nodrošināt ir pienākums katram no vecākiem neatkarīgi no viņa mantas stāvokļa, nosaka Ministru kabinets, ņemot vērā valstī noteikto iztikas minimumu un bērna vecumu.
+Ja ir radies strīds par uzturlīdzekļiem bērnam, tiesa pēc prasītāja lūguma nekavējoties pieņem lēmumu par to, kādā apmērā atbildētājam pagaidām, līdz strīda izšķiršanai, jāsedz bērna uzturēšanas izdevumi. Bērna pagaidu uzturlīdzekļu apmērs nevar būt mazāks par Ministru kabineta noteikto minimālo bērna uzturlīdzekļu apmēru.

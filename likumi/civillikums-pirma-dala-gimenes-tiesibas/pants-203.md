@@ -1,6 +1,5 @@
-203. Vecāku vara tiek pārtraukta:
-1) ja pār vienu no viņiem nodibināta 360. vai 365. pantā norādītā aizgādnība;
-2) ja bāriņtiesa atzīst, ka ir faktiski šķēršļi, kas vienam no vecākiem atņem iespēju izlietot vecāku varu.
-Sājos gadījumos vecāku vara līdz tam laikam, kamēr pārtraukums izbeidzas, pieder otram no vecākiem, bet, ja arī tam ir šķēršļi, - bāriņtiesai jāieceļ aizbildnis.
-Pārtrauktā vecāku vara tiek atjaunota, kad bāriņtiesa atzīst, ka tās pārtraukšanas iemesli atkrituši.
-Kamēr vecāki nav sasnieguši pilngadību, izņemot gadījumus, kad viņi stājušies laulībā, viņi nevar pārstāvēt bērnu viņa personiskajās vai mantiskajās attiecībās. Šādam bērnam tiek iecelts aizbildnis.
+203. Bērna aprūpes tiesības vecākiem tiek atņemtas, ja bāriņtiesa atzīst, ka:
+1) ir faktiski šķēršļi, kas kādam no vecākiem liedz iespēju aprūpēt bērnu;
+2) bērns atrodas veselībai vai dzīvībai bīstamos apstākļos vecāku vainas dēļ (vecāku apzinātas rīcības vai nolaidības dēļ).
+Šajos gadījumos aprūpi īsteno otrs vecāks, bet, ja arī tam ir šķēršļi,- bāriņtiesa gādā par bērna ārpusģimenes aprūpi.
+Atņemtās aprūpes tiesības vecākiem atjaunojas, kad bāriņtiesa atzīst, ka vairs nepastāv šā panta pirmā daļā minētie apstākļi. Ja sešu mēnešu laikā no aprūpes tiesību atņemšanas nav iespējams tās atjaunot, bāriņtiesa lemj par nepieciešamību atņemt vecākiem aizgādības tiesības, izņemot gadījumus, kad aprūpes tiesības nevar atjaunot no vecākiem neatkarīgu apstākļu dēļ.

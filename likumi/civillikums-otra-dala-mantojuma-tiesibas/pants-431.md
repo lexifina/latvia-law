@@ -1,1 +1,4 @@
-431. Testātors var atstumt no mantojuma savu laulāto aiz 428. pantā paredzētiem iemesliem, kā arī aiz iemesliem, kas dod tiesību laulātam prasīt laulības šķiršanu uz 70.-72., 74., 76. un 77. panta pamata.
+431. Testators var atstumt no mantojuma savu laulāto aiz 428. pantā paredzētiem iemesliem, kā arī gadījumos, kad:
+1) laulātais pārkāpis laulību;
+2) laulātais apdraudējis otra laulātā dzīvību, veselību, sitis vai spīdzinājis viņu;
+3) laulība ir izirusi un laulātie vairāk nekā trīs gadus dzīvo šķirti.

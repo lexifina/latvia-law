@@ -1,3 +1,3 @@
-171. Adopcija uzskatāma par notikušu, tiklīdz tiesa, adoptētājam lūdzot, to apstiprina. Ja adoptētājs mirst, iekām tiesa adopciju apstiprinājusi, tas nav par šķērsli tās apstiprināšanai, bet, ja pirms apstiprināšanas mirst adoptējamais, lieta izbeidzama.
+171. Adopcija uzskatāma par notikušu, tiklīdz tiesa to apstiprina.
 Tiesa var atļaut adoptētājus ierakstīt adoptētā dzimšanas reģistrā kā vecākus, ja šāds adoptētāju lūgums ir pamatots.
-Bez adoptētāju piekrišanas ziņas par adopciju nav izpaužamas.
+Bez adoptētāja piekrišanas ziņas par adopciju līdz bērna pilngadībai nav izpaužamas.

@@ -1,2 +1,2 @@
-627. Ja ir vairāki testamenta izpildītāji un testātors nav pienākumus viņu starpā sadalījis, tad viņiem pēc iespējas jādarbojas kopīgi. Tomēr spiedīgos gadījumos viņi var darboties arī atsevišķi. Ja viņi pienākumus sadala savā starpā labprātīgi vienojoties, tad tomēr viņi atbild solidāri.
-Ja izpildīt kādu atsevišķu rīkojumu testātors uzlicis sevišķam testamenta izpildītājam, tad pēdējais darbojas tikai viņam uzliktā uzdevuma aplokā.
+627. Ja ir vairāki testamenta izpildītāji un testators nav pienākumus viņu starpā sadalījis, tad viņiem pēc iespējas jādarbojas kopīgi. Tomēr spiedīgos gadījumos viņi var darboties arī atsevišķi. Ja viņi pienākumus sadala savā starpā labprātīgi vienojoties, tad tomēr viņi atbild solidāri.
+Ja izpildīt kādu atsevišķu rīkojumu testators uzlicis sevišķam testamenta izpildītājam, tad pēdējais darbojas tikai viņam uzliktā uzdevuma aplokā.

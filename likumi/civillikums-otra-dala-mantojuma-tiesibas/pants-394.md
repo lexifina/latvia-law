@@ -5,5 +5,5 @@ Pārdzīvojušā laulātā tiesība pārvaldīt un lietot nedalītu mantojumu iz
 3) ar mantojuma labprātīgu sadalīšanu;
 4) par atsevišķā bērna daļu - ar viņa nodalīšanu no mantojuma pēc vienošanās vai laulātā vienpusējās vēlēšanās;
 5) pēc pilngadīga bērna pieprasījuma - aiz svarīgiem iemesliem.
-Ar pārdzīvojušā laulātā iedošanos jaunā laulībā, iepriekš nepaziņojot par to bāriņtiesai, izbeidzas viņa pārvaldības tiesība (202. un 226. p.).
+(Trešā daļa izslēgta ar 12.12.2002. likumu.)
 Piezīme. Šā panta 3.-5. punktā minētos gadījumos vajadzīga bāriņtiesas atļauja.

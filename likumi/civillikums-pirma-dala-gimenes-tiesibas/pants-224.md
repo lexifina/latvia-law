@@ -1,2 +1,2 @@
-224. Ja pēc tiesas sprieduma vai kāda cita no pašu gribas neatkarīga iemesla dēļ viens no vecākiem vai abi zaudē vecāku varu pār saviem bērniem, tad viņi nevar būt arī to aizbildņi un pār tiem nodibināma cita aizbildnība.
+224. Vecāki, kuri zaudējuši aizgādības tiesības, nevar būt arī bērna aizbildņi. Ja pēc tiesas sprieduma vai kāda cita no pašu gribas neatkarīga iemesla dēļ abi vecāki zaudē aizgādības tiesības, bērnam nodibināma aizbildnība, bet, ja tās zaudē tikai viens vecāks, aizbildnība nodibināma gadījumos, kad tas nepieciešams bērna interesēs.
 Tas pats attiecas arī uz nepilngadīgā mantu, kas tam dāvināta vai novēlēta ar nosacījumu, lai to nepārvaldītu vecāki.

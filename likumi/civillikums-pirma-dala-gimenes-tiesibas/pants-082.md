@@ -1,1 +1,2 @@
-82. Pienākums uzturēt bijušo laulāto atkrīt, ja pēdējais ar savām darbībām veicinājis laulības iziršanu vai devies jaunā laulībā.
+82. Laulātais, kura laulība atzīta par neesošu, dabū atpakaļ savu pirmslaulības uzvārdu. Ja viņš, dodoties laulībā, nav zinājis, ka laulība atzīstama par neesošu, tiesa pēc viņa lūguma var atstāt viņam laulībā iegūto uzvārdu.
+Laulātais, kas, dodoties laulībā, savu uzvārdu mainījis, ir tiesīgs arī pēc laulības šķiršanas saukties šai uzvārdā, vai arī pēc viņa lūguma tiesa piešķir viņam pirmslaulības uzvārdu. Pēc otra laulātā lūguma tiesa, ja tas neaizskar bērna intereses, var liegt laulātajam, kurš veicinājis laulības iziršanu, saukties laulībā iegūtajā uzvārdā.

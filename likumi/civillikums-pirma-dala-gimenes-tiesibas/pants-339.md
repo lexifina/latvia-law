@@ -2,4 +2,4 @@
 1) ar viņa nāvi;
 2) ar viņa pilngadību;
 3) viņu adoptējot;
-4) ja atjaunota vecāku vara.
+4) ja vecākiem atjaunotas aizgādības tiesības.

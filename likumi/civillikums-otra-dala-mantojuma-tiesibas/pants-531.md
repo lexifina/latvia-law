@@ -1,1 +1,1 @@
-531. Legātu pieņemot legātārs uzņemas visus ar legātu saistītos apgrūtinājumus un nastas, kā arī atlīdzināt tā izpildītājam visus novēlētam priekšmetam vai tā dēļ taisītos izdevumus, un beidzot izpildīt viņam no testātora puses uzliktos nosacījumus.
+531. Legātu pieņemot legātārs uzņemas visus ar legātu saistītos apgrūtinājumus un nastas, kā arī atlīdzināt tā izpildītājam visus novēlētam priekšmetam vai tā dēļ taisītos izdevumus, un beidzot izpildīt viņam no testatora puses uzliktos nosacījumus.

@@ -1,1 +1,0 @@
-2169. Ja vīrs iznomājis vai izīrējis sievas nekustamu īpašumu un pēc tam zaudējis viņam kā vīram piešķirtās tiesības, tad līgums netiek atcelts, ja sieva rakstiski piekritusi tādai iznomāšanai vai izīrēšanai; pretējā gadījumā līgums zaudē spēku, bet nomniekam vai īrniekam dodams zināms laiks īres vai nomas priekšmeta atdošanai.

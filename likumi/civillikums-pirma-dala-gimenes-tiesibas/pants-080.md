@@ -1,2 +1,1 @@
-80. Laulātais, kura laulība atzīta par neesošu, dabū atpakaļ uzvārdu, kas viņam bijis pirms laulības.
-Ja viņš, dodoties laulībā, nav zinājis, ka laulība atzīstama par neesošu, tiesa pēc viņa lūguma var atstāt viņam laulības uzvārdu.
+80. Šķirot laulību vai pēc laulības šķiršanas bijušais laulātais var prasīt līdzekļus no otra bijušā laulātā samērā ar viņa mantas stāvokli, ja pēdējais ar savām darbībām veicinājis laulības iziršanu un līdzekļi nepieciešami iepriekšējā labklājības līmeņa nodrošināšanai vai uzturam.

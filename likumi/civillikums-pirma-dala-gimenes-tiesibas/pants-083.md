@@ -1,1 +1,2 @@
-83. Laulātais, kas, stādamies laulībā, savu uzvārdu mainījis, ir tiesīgs arī pēc laulības šķiršanas saukties šai uzvārdā, vai arī pēc viņa lūguma tiesa piešķir pirmslaulības uzvārdu.
+83. Ja laulība atzīta par neesošu, katrs bijušais laulātais patur savu pirmslaulības mantu, kā arī to mantu, ko viņš pats iegādājies kopdzīves laikā. Kopīgi iegūtā manta dalāma starp bijušajiem laulātajiem līdzīgās daļās.
+Ja abiem laulātajiem, dodoties laulībā, nebija zināms, ka tā atzīstama par neesošu, vai tas nebija zināms vienam no viņiem, kopīgi iegūtā manta dalāma pēc noteikumiem par likumīgā laulībā iegūtas mantas dalīšanu: pirmajā gadījumā - attiecībā uz abiem bijušajiem laulātajiem, otrajā gadījumā - attiecībā uz to laulāto, kuram nebija zināms, ka laulība atzīstama par neesošu.

@@ -1,2 +1,2 @@
 Trešā apakšnodaļa
-Adopcija
+Aizgādība

@@ -1,1 +1,1 @@
-73. Laulātais var prasīt laulības šķiršanu, ja otrs laulātais pēc laulības noslēgšanas ir saslimis ar ilgstošu, grūti dziedināmu gara slimību vai tādu pašu lipīgu slimību.
+73. Laulātie dzīvo šķirti, ja viņiem nav kopīgas saimniecības un viens no laulātajiem noteikti negrib to atjaunot, noliedzot laulības kopdzīves iespējamību. Kopīga saimniecība var nepastāvēt arī tad, ja laulātie šķirti dzīvo kopīgā dzīvoklī.

@@ -1,2 +1,2 @@
-692. Mantojuma pieņemšanu vēl nevar secināt no tam vien, ka kāda persona atzīst testātora pēdējo gribu un izdara tādu darbību, kas attiecas uz mantojuma atstājēja apbedīšanu vai kuras mērķis ir tikai uzglabāt, uzturēt un noskaidrot mantojumu.
+692. Mantojuma pieņemšanu vēl nevar secināt no tam vien, ka kāda persona atzīst testatora pēdējo gribu un izdara tādu darbību, kas attiecas uz mantojuma atstājēja apbedīšanu vai kuras mērķis ir tikai uzglabāt, uzturēt un noskaidrot mantojumu.
 Tāpat mantojuma pieņemšanu nevar secināt no tam vien, ka mantojums tā atklāšanās laikā paliek to mantot aicināto personu faktiskā valdījumā, kuras līdz mantojuma atstājēja nāvei dzīvojušas ar viņu vienā kopīgā saimniecībā.

@@ -1,3 +1,3 @@
-456. Izlabojumi testamentā neatņem tam spēku, ja pierāda, ka tos izdarījis testātors pats ar savu roku, vai ka tie izdarīti pēc viņa gribas un ar viņa ziņu, un pie tam skaidri un salasāmi.
-Testātoram pašam jāaizrāda savā testamentā viss tas, kas tajā ar nodomu svītrots vai izdzēsts; bet ja tas nav darīts, ar to nezaudē spēku tās testamenta daļas, kas palikušas nepārgrozītas.
-Kad testātors svītrojis savā testamentā kādu rīkojumu aiz pārskatīšanās un pie tam tā, ka nosvītroto nevar vairs izlasīt, tad šis rīkojums joprojām paliek spēkā, ja pierāda tā saturu un to, ka tas nosvītrots tikai aiz pārskatīšanās.
+456. Izlabojumi testamentā neatņem tam spēku, ja pierāda, ka tos izdarījis testators pats ar savu roku, vai ka tie izdarīti pēc viņa gribas un ar viņa ziņu, un pie tam skaidri un salasāmi.
+Testatoram pašam jāaizrāda savā testamentā viss tas, kas tajā ar nodomu svītrots vai izdzēsts; bet ja tas nav darīts, ar to nezaudē spēku tās testamenta daļas, kas palikušas nepārgrozītas.
+Kad testators svītrojis savā testamentā kādu rīkojumu aiz pārskatīšanās un pie tam tā, ka nosvītroto nevar vairs izlasīt, tad šis rīkojums joprojām paliek spēkā, ja pierāda tā saturu un to, ka tas nosvītrots tikai aiz pārskatīšanās.

@@ -1,1 +1,1 @@
-166. Vairākas personas, kas savā starpā neatrodas laulībā, nevar vienā un tajā pašā laikā adoptēt vienu un to pašu personu.
+166. Personas, kas savā starpā neatrodas laulībā, nevar adoptēt vienu un to pašu bērnu.

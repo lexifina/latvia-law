@@ -1,1 +1,1 @@
-602. Ja legātārs neievēro testātora blakus noteikumus, tad legāta izpildītājs var doto atprasīt.
+602. Ja legātārs neievēro testatora blakus noteikumus, tad legāta izpildītājs var doto atprasīt.

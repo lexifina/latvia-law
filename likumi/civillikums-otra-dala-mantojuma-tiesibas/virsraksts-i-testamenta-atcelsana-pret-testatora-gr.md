@@ -1,1 +1,1 @@
-I. Testamenta atcelšana pret testātora gribu
+I. Testamenta atcelšana pret testatora gribu

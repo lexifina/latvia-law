@@ -1,1 +1,1 @@
-72. Kad viens laulātais atstāj otru, pēdējais var prasīt laulības šķiršanu, ja prombūtne ilgst ne mazāk par vienu gadu.
+72. Pieņemams, ka laulība ir izirusi, ja laulātie vismaz trīs gadus dzīvo šķirti.

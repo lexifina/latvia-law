@@ -1,1 +1,1 @@
-223. Tēvs un māte jau uz vecāku varas pamata ir savu nepilngadīgo bērnu dabiskie aizbildņi.
+223. Tēvs un māte uz aizgādības tiesību pamata ir sava nepilngadīgā bērna dabiskie aizbildņi.

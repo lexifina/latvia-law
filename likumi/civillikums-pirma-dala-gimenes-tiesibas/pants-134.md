@@ -1,9 +1,10 @@
 134. Ar laulības līgumu noteiktā laulāto mantas kopība izbeidzas:
-1) pēc pamatiem, kas paredzēti 102. pantā;
-2) pēc laulāto vienošanās par mantas kopības izbeigšanu;
-3) pēc tiesas sprieduma.
+1) kad viens laulātais mirst;
+2) kad laulība šķirta vai atzīta par neesošu;
+3) kad vienu laulāto atzīst par maksātnespējīgu;
+4) pēc laulāto vienošanās par mantas kopības izbeigšanu.
 Laulātais, kura pārvaldībā manta neatrodas, var prasīt mantas kopības izbeigšanu tiesā, ja:
-1) manta, paliekot turpmāk otra laulātā rokās, var izputēt vai ciest ievērojamus zaudējumus;
+1) manta, paliekot turpmāk otra laulātā rokās, var ievērojami samazināties vai izputēt;
 2) laulātais, kura pārvaldībā atrodas manta, nedod līdzekļus ģimenes un kopīgās mājsaimniecības vajadzībām;
 3) laulātais, kura pārvaldībā ir manta, bez otra piekrišanas pārkāpj parastās pārvaldības un lietošanas robežas;
 4) laulātais, kura pārvaldībā ir manta, nonāk aizgādnībā.

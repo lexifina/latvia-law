@@ -1,1 +1,1 @@
-93. Laulātais savu mantu var nodot arī otra laulātā pārvaldībā un lietošanā, kam šī manta ar visiem līdzekļiem jāglabā un jāsargā.
+93. Laulātais savu mantu vai savu daļu laulāto kopīgajā mantā var nodot pārvaldībā otram laulātajam, kam šī manta ar visiem līdzekļiem jāsargā un jāglabā. Ja laulāto kopīgais nekustamais īpašums ierakstīts zemesgrāmatā uz viena laulātā vārda, pieņemams, ka otrs laulātais savu daļu šajā īpašumā nodevis viņa pārvaldībā.
