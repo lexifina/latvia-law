@@ -6,4 +6,4 @@
 4) veselības nostiprināšanu;
 5) psiholoģisko sagatavošanu pamatizglītības ieguves uzsākšanai;
 6) valsts valodas lietošanas pamatiemaņu apguvi.
-(2) Pirmsskolas izglītības programmu apgūst bērni līdz 7 gadu vecumam. Atkarībā no veselības stāvokļa un psiholoģiskās sagatavotības pirmsskolas izglītības programmas apguvi var pagarināt par vienu gadu saskaņā ar vecāku vēlmēm un ārstu komisijas atzinumu.
+(2) Pirmsskolas izglītības programmu apgūst bērni līdz 7 gadu vecumam. Atkarībā no veselības stāvokļa un psiholoģiskās sagatavotības pirmsskolas izglītības programmas apguvi var pagarināt vai saīsināt par vienu gadu saskaņā ar vecāku vēlmēm un ārstu komisijas atzinumu.

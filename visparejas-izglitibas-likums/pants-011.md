@@ -7,4 +7,4 @@
 4) izglītības iestādes darbības nodrošināšanu un tai noteikto uzdevumu izpildi;
 5) izglītības iestādes finansu un materiālo līdzekļu racionālu izmantošanu;
 6) normatīvo aktu ievērošanu izglītības iestādes darbībā.
-(3) Vispārējās izglītības iestādes vadītāju pieņem darbā un atlaiž no darba attiecīgās izglītības iestādes dibinātājs.
+(3) Vispārējās izglītības iestādes vadītāju pieņem darbā un atbrīvo no darba attiecīgās izglītības iestādes dibinātājs.

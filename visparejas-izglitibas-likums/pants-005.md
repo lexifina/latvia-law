@@ -9,7 +9,7 @@ Izglītības un zinātnes ministrija:
 7) nosaka ilgstoši slimojošu izglītojamo izglītošanās kārtību ārpus izglītības iestādes;
 8) nosaka mācību gada un mācību semestru sākuma un beigu laiku;
 9) organizē vispārējās izglītības iestāžu vadītāju atestāciju un pedagogu profesionālās kvalifikācijas vērtēšanu;
-10) izstrādā vispārējās izglītības iestāžu paraugnolikumus;
+10) izstrādā vispārējās izglītības iestāžu, tai skaitā valsts ģimnāzijas paraugnolikumus;
 11) apstiprina Valsts pedagoģiski medicīniskās komisijas nolikumu;
 12) apstiprina Valsts pirmsskolas izglītības centra nolikumu un organizē šā centra darbību;
 13) apstiprina Valsts speciālās izglītības centra nolikumu un organizē šā centra darbību;
