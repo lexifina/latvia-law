@@ -15,5 +15,5 @@ Visus reģistrējamos grozījumus uzņēmumi (uzņēmējsabiedrības) piesaka Uz
 Ja Uzņēmumu reģistra žurnālā ierakstītās ziņas ir publicētas, tās var izmantot kā oficiālus avotus.
 Darījumu attiecībās ar uzņēmumu (uzņēmējsabiedrību), tā filiāli vai pārstāvniecību noteicošais ir publikācija un ieraksts, ko par attiecīgo uzņēmumu (uzņēmējsabiedrību), tā filiāli vai pārstāvniecību izdarījis Latvijas Republikas Uzņēmumu reģistra valsts notārs.
 Par uzņēmuma (uzņēmējsabiedrības), tā filiāļu un pārstāvniecību dokumentu norakstiem, citu likumdošanā paredzēto darbību izpildi un informācijas izsniegšanu ņemama valsts nodeva.
-Uzņēmumu reģistra darbības nodrošināšanai izmanto piecdesmit procentus no valsts nodevas par uzņēmumu (uzņēmējsabiedrību), to filiāļu un pārstāvniecību reģistrāciju, to pamatdokumentu grozījumu reģistrāciju, informācijas saņemšanu no Uzņēmumu reģistra, kā arī no ienākumiem, kas tiek gūti par maksas pakalpojumiem un tiek ieskaitīti Tieslietu ministrijas pamatbudžeta kontā.
-Maksas pakalpojumu veidus, maksu nosaka Ministru kabinets.
+Uzņēmumu reģistra darbību finansē no valsts pamatbudžeta, kā arī no ienākumiem, kas gūti par maksas pakalpojumiem un tiek ieskaitīti Tieslietu ministrijas pamatbudžeta kontā.
+(Piecpadsmitā daļa izslēgta ar 11.11.1999. likumu.)
