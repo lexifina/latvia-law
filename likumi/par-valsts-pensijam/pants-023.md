@@ -2,7 +2,8 @@
 (1) Šā likuma 19.pantā norādītajiem mirušā apgādnieka ģimenes locekļiem apgādnieka zaudējuma pensiju aprēķina no apgādnieka iespējamās vecuma pensijas šādā apmērā:
 1) vienam bērnam - 50 procenti no pensijas;
 2) diviem bērniem - 75 procenti no pensijas;
-3) trim un vairāk bērniem - 90 procenti no pensijas.
+3) trim un vairāk bērniem - 90 procenti no pensijas, bet ne mazāk par 50 procentiem no valsts sociālā nodrošinājuma pabalsta apmēra katram bērnam.
 (2) Bērniem, kuri zaudējuši abus vecākus, apgādnieka zaudējuma pensiju aprēķina šā panta pirmajā daļā noteiktajā kārtībā, ņemot vērā abu vecāku iespējamo vecuma pensiju.
 (3) Iespējamā vecuma pensija aprēķināma šā likuma 12.panta pirmajā daļā noteiktajā kārtībā, pieņemot, ka līdz dienai, kad apgādnieks sasniegtu vecuma pensijas piešķiršanai nepieciešamo vecumu, ir izdarītas apdrošināšanas iemaksas, kādas apgādniekam vidēji bija darba periodā, bet, ja darba ienākumu nav bijis, - no valstī noteiktās minimālās darba algas.
 (4) Šajā pantā noteiktajā kārtībā aprēķinātās pensijas kopējais apmērs nedrīkst būt mazāks par valsts sociālā nodrošinājuma pabalsta apmēru.
+(5) Ja apgādnieka zaudējuma pensijas apmērs, kas aprēķināts, ievērojot apgādnieka apdrošināšanas iemaksas, nesasniedz šā panta pirmajā daļā noteikto apmēru, starpība tiek segta no valsts pamatbudžeta Ministru kabineta noteiktajā kārtībā.
