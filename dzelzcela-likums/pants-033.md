@@ -13,4 +13,4 @@
 3) līdz pilnīgai trūkumu novēršanai aizliegt lietot ritošo sastāvu un sliežu ceļu, ja to lietošana var apdraudēt vai apdraud cilvēku dzīvību vai veselību, satiksmes drošību vai vidi;
 4) dot saistošus norādījumus par Dzelzceļa tehniskās ekspluatācijas noteikumu ievērošanu visām juridiskajām un fiziskajām personām, kas darbojas dzelzceļa sistēmā;
 5) pārbaudīt atsevišķu kategoriju dzelzceļa speciālistu atbilstību kvalifikācijas prasībām.
-(5) Dzelzceļa tehnisko inspekciju finansē no dzelzceļa infrastruktūras fonda.
+(5) Dzelzceļa tehnisko inspekciju finansē no valsts pamatbudžeta. Dzelzceļa tehniskās inspekcijas funkciju izpildes nodrošināšanai finansu līdzekļus no Dzelzceļa infrastruktūras fonda ieskaita valsts pamatbudžeta ieņēmumos.

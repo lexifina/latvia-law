@@ -6,6 +6,6 @@
 3) ieņēmumi no valsts publiskās lietošanas dzelzceļa infrastruktūras zemes iznomāšanas (15.panta otrā daļa);
 4) kredīti;
 5) valsts budžeta līdzekļi.
-(3) Dzelzceļa infrastruktūras fonda līdzekļi ir valsts speciālais budžets.
+(3) (Izslēgta ar 11.11.1999. likumu.)
 (4) Dzelzceļa infrastruktūras fonda turētāja ir Satiksmes ministrija.
 (5) Dzelzceļa infrastruktūras fonda darbību reglamentē Ministru kabineta apstiprinātais dzelzceļa infrastruktūras fonda nolikums.
