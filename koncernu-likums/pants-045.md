@@ -1,0 +1,3 @@
+45.pants. Iekļaušanas izbeigšanās reģistrācija Uzņēmumu reģistrā
+(1) Bijušās iekļautās sabiedrības izpildinstitūcijai ir pienākums nekavējoties pieteikt reģistrācijai Uzņēmumu reģistrā iekļaušanas izbeigšanos, norādot izbeigšanās pamatu un datumu. Pieteikumam pievieno attiecīgos dokumentus vai notariāli apliecinātus to norakstus (kopijas).
+(2) Ne vēlāk kā nedēļas laikā pēc reģistrācijas Uzņēmumu reģistrs iesniedz publicēšanai laikrakstā "Latvijas Vēstnesis" paziņojumu par iekļaušanas izbeigšanos. Paziņojumā tiek ietverts iekļaušanas izbeigšanās reģistrācijas datums un šā panta pirmajā daļā minētās ziņas.

@@ -1,0 +1,2 @@
+47.pants. Pieprasījums par akciju (kapitāla daļu) atpirkšanu
+Ja uzņēmums citā sabiedrībā tieši vai netieši ieguvis 90 vai vairāk procentus no sabiedrības akcijām (kapitāla daļām), katrs atkarīgās sabiedrības mazākumdalībnieks var pieprasīt, lai valdošais uzņēmums atpērk viņam piederošās akcijas (kapitāla daļas). Atkarīgās sabiedrības mazākumdalībnieks šādu pieprasījumu iesniedz atkarīgajai sabiedrībai, kura to nodod tālāk valdošajam uzņēmumam.

@@ -1,0 +1,11 @@
+30.pants. Atkarības pārskats
+(1) Ja nav noslēgts koncerna līgums, atkarīgās sabiedrības izpildinstitūcija par katru pārskata gadu sastāda atkarības pārskatu. Atkarības pārskatu sastāda un apstiprina kopā ar atkarīgās sabiedrības gada pārskatu.
+(2) Atkarības pārskatam jāsniedz vispārējs priekšstats par atkarīgās sabiedrības attiecībām ar valdošo uzņēmumu.
+(3) Atkarības pārskatā norāda:
+1) darījumus, kurus atkarīgā sabiedrība pārskata gada laikā noslēgusi ar valdošo uzņēmumu vai citu uzņēmumu, kas apvienots koncernā ar valdošo uzņēmumu, kā arī darījumus, kurus atkarīgā sabiedrība noslēgusi šo uzņēmumu interesēs vai pamudinājuma rezultātā, īpaši norādot darījumus, kuri atkarīgajai sabiedrībai ir pilnīgi vai daļēji neizdevīgi vai kuri saistīti ar īpašu risku atkarīgajai sabiedrībai, vai arī kuri būtiski atšķiras no parasti veiktās uzņēmējdarbības;
+2) citus sabiedrības pasākumus, kurus atkarīgā sabiedrība pārskata gada laikā veikusi vai no kuriem tā atturējusies valdošā uzņēmuma vai cita ar valdošo uzņēmumu koncernā apvienota uzņēmuma interesēs vai pamudinājuma rezultātā, īpaši norādot pasākumus, kuri atkarīgajai sabiedrībai ir pilnīgi vai daļēji neizdevīgi vai kuri saistīti ar īpašu risku atkarīgajai sabiedrībai, vai arī kuri būtiski atšķiras no parasti veiktās uzņēmējdarbības;
+3) 1.punktā minēto darījumu izpildījumu un pretizpildījumu;
+4) 2.punktā minēto pasākumu pamatu, kā arī šo pasākumu rezultātā gūto labumu un radušos zaudējumus;
+5) pasākumus, kas veikti pārskata gada laikā, lai faktiski atlīdzinātu atkarīgajai sabiedrībai radušos zaudējumus;
+6) atkarīgajai sabiedrībai pārskata gada laikā radušos zaudējumu apjomu un tai piešķirtās prasījuma tiesības uz šādu zaudējumu atlīdzību, ciktāl pārskata gada laikā zaudējumi nav faktiski atlīdzināti.
+(4) Atkarības pārskata noslēgumā atkarīgās sabiedrības izpildinstitūcija ietver paziņojumu par to, vai sabiedrība atbilstoši apstākļiem, kas bija zināmi izpildinstitūcijai darījuma noslēgšanas vai citu pasākumu veikšanas brīdī vai brīdī, kad tā atturējās no to veikšanas, par katru darījumu ir saņēmusi atbilstošu pretizpildījumu un vai sabiedrībai netika nodarīti zaudējumi sakarā ar citu pasākumu veikšanu vai atturēšanos no to veikšanas.

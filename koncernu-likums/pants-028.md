@@ -1,0 +1,5 @@
+28.pants. Atkarīgās sabiedrības izpildinstitūcijas un pārraudzības institūcijas locekļu atbildība
+(1) Atkarīgās sabiedrības izpildinstitūcijas un pārraudzības institūcijas locekļi, ja viņi rīkojušies, pārkāpjot savus pienākumus, atbild kā kopparādnieki blakus personām, kurām saskaņā ar šā likuma 27.pantu ir pienākums atlīdzināt zaudējumus. Ja ir strīds par to, vai norādījumi doti ar kārtīga un apzinīga sabiedrības vadītāja rūpību, pierādīšanas pienākums ir atkarīgās sabiedrības izpildinstitūcijas un pārraudzības institūcijas locekļiem.
+(2) Šā panta pirmajā daļā minēto pienākumu atlīdzināt zaudējumus neizslēdz tas, ka atkarīgās sabiedrības pārraudzības institūcija piekritusi izpildinstitūcijas locekļu darbībai.
+(3) Atkarīgās sabiedrības izpildinstitūcijas un pārraudzības institūcijas locekļiem nav pienākuma atlīdzināt zaudējumus, ja darbība, kura radījusi zaudējumus, pamatojas uz norādījumu, kas bija pildāms saskaņā ar šā likuma 26.panta otrās daļas noteikumiem.
+(4) Prasījumam par zaudējumu atlīdzību piemērojami šā likuma 27.panta trešās, ceturtās, piektās, sestās un septītās daļas noteikumi.

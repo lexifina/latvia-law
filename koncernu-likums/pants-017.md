@@ -1,0 +1,3 @@
+17.pants. Koncerna līguma izbeigšanās reģistrācija Uzņēmumu reģistrā
+(1) Atkarīgās sabiedrības izpildinstitūcijai ir pienākums pieteikt reģistrācijai Uzņēmumu reģistrā koncerna līguma izbeigšanos, norādot izbeigšanās pamatu un datumu. Pieteikumam pievieno attiecīgos dokumentus vai notariāli apliecinātus to norakstus (kopijas).
+(2) Ne vēlāk kā nedēļas laikā pēc reģistrācijas Uzņēmumu reģistrs iesniedz publicēšanai laikrakstā "Latvijas Vēstnesis" paziņojumu par koncerna līguma izbeigšanos. Paziņojumā norāda koncerna līguma izbeigšanās reģistrācijas datumu, šā panta pirmajā daļā minētās ziņas, kā arī norāda termiņu kreditoru pieteikumu iesniegšanai saskaņā ar šā likuma 21.panta pirmo daļu.

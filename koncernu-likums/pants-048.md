@@ -1,0 +1,4 @@
+48.pants. Akciju (kapitāla daļu) pirkuma līguma noslēgšana
+(1) Valdošajam uzņēmumam ne vēlāk kā viena mēneša laikā no šā likuma 47.pantā minētā pieprasījuma saņemšanas dienas ir pienākums izteikt priekšlikumu mazākumdalībniekam noslēgt akciju (kapitāla daļu) pirkuma līgumu.
+(2) Valdošais uzņēmums paziņo mazākumdalībniekam, vai vispār un ar kādiem noteikumiem valdošais uzņēmums viena gada laikā pirms priekšlikuma nosūtīšanas mazākumdalībniekam ir atpircis akcijas (kapitāla daļas) no citiem mazākumdalībniekiem saskaņā ar šīs nodaļas noteikumiem.
+(3) Ja mazākumdalībnieks noraida valdošā uzņēmuma priekšlikumu, tad cenu, par kādu akcijas (kapitāla daļas) atpērkamas, pamatojoties uz mazākumdalībnieka attiecīgu prasību, nosaka tiesa. Mazākumdalībniekam ir tiesības celt tiesā prasību par atpērkamo akciju (kapitāla daļu) cenas noteikšanu viena mēneša laikā no valdošā uzņēmuma priekšlikuma saņemšanas dienas.

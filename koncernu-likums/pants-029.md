@@ -1,0 +1,3 @@
+29.pants. Izšķirošās ietekmes īstenošanas robežas
+(1) Ja nav noslēgts pārvaldes līgums, valdošais uzņēmums nedrīkst izmantot savu ietekmi, lai pamudinātu atkarīgo sabiedrību noslēgt tai neizdevīgu darījumu vai arī veikt citu tai neizdevīgu pasākumu, ja vien netiek atlīdzināti šāda darījuma vai pasākuma rezultātā radušies zaudējumi.
+(2) Ja šā panta pirmajā daļā minētie zaudējumi pārskata gada laikā netiek faktiski atlīdzināti, valdošais uzņēmums līdz tā pārskata gada beigām, kurā šie zaudējumi radušies, rakstveidā informē atkarīgo sabiedrību, kad un kādā veidā zaudējumi ir atlīdzināmi, piešķirot atkarīgajai sabiedrībai atbilstošas prasījuma tiesības.

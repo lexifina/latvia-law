@@ -1,0 +1,3 @@
+42.pants. Peļņas nodošana un zaudējumu pārņemšana
+(1) Peļņas nodošanas līgumam starp galveno sabiedrību un iekļauto sabiedrību nav piemērojami šā likuma 9.-15.panta un 17.-21.panta noteikumi. Šādam līgumam nepieciešama rakstveida forma. Kā iekļautās sabiedrības peļņu var nodot tikai to summu, kas nav lielāka par iekļautās sabiedrības pārskata gada peļņu pirms tās nodošanas. Līgums izbeidzas ne vēlāk kā tā pārskata gada beigās, kurā izbeidzas iekļaušana.
+(2) Galvenajai sabiedrībai ir pienākums atlīdzināt citādi radušos iekļautās sabiedrības pārskata gada zaudējumus, ciktāl tie pārsniedz iekļautās sabiedrības kapitāla rezerves un peļņas atskaitījumus (rezerves).

@@ -1,0 +1,2 @@
+37.pants. Iekļaušanas sekas
+Līdz ar iekļaušanas reģistrēšanu Uzņēmumu reģistrā visas galvenajai sabiedrībai nepiederošās iekļautās sabiedrības akcijas (kapitāla daļas) pāriet galvenajai sabiedrībai. Ja minētās akcijas (kapitāla daļas) izlaistas kā vārda vai uzrādītāja papīri (uz papīra nodrukāti vērtspapīri), līdz to iesniegšanai galvenajai sabiedrībai šīs akcijas (kapitāla daļas) dod tiesības tikai uz atlīdzību.

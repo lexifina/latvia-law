@@ -1,0 +1,2 @@
+9.pants. Sabiedrības izpildinstitūcijas ziņojums
+Katras koncerna līguma slēgšanā iesaistītās sabiedrības izpildinstitūcijai ir pienākums sniegt detalizētu rakstveida ziņojumu, kurā tiesiski un saimnieciski izskaidrota un pamatota koncerna līguma noslēgšana, atsevišķi līguma projekta noteikumi, to skaitā noteikumi par šā likuma 23.pantā minētā izlīdzinājuma un šā likuma 24.pantā minētās atlīdzības veidu un apmēru, kā arī koncerna līguma noslēgšanas iespējamās sekas.

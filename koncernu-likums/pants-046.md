@@ -1,0 +1,3 @@
+46.pants. Noilgums
+(1) No bijušās iekļautās sabiedrības saistībām izrietošie prasījumi pret agrāko galveno sabiedrību noilgst piecu gadu laikā pēc iekļaušanas izbeigšanās, ja prasījumam pret bijušo iekļauto sabiedrību nav noteikts īsāks noilguma termiņš.
+(2) Noilguma termiņš sāk tecēt ar to dienu, kad paziņojums par iekļaušanas izbeigšanos publicēts laikrakstā "Latvijas Vēstnesis". Ja bijušās atkarīgās sabiedrības saistību izpildes termiņš vai nosacījums iestājas pēc tam, kad publicēts paziņojums par iekļaušanas izbeigšanos, noilguma termiņš sāk tecēt ar saistību izpildes termiņa vai nosacījuma iestāšanās dienu.

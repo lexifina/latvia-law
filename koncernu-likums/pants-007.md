@@ -1,0 +1,6 @@
+7.pants. Paziņošanas pienākuma neizpildes sekas
+(1) Tiesības, kas saistītas ar akcijām (kapitāla daļām), par kuru iegūšanu sabiedrības dalībniekam ir pienākums paziņot sabiedrībai saskaņā ar šā likuma 6.panta pirmās, otrās un trešās daļas noteikumiem, viņš nevar izmantot līdz šāda paziņojuma iesniegšanas brīdim.
+(2) Ja pretēji šā panta pirmās daļas noteikumiem attiecīgās ar akcijām (kapitāla daļām) saistītās tiesības tikušas izmantotas un tas ietekmējis lēmuma pieņemšanu, šādu lēmumu var atzīt par spēkā neesošu no tā pieņemšanas brīža.
+(3) Jebkuram sabiedrības dalībniekam, kurš apstrīd cita sabiedrības dalībnieka tiesības piedalīties lēmuma pieņemšanā, ir tiesības celt tiesā prasību par lēmuma atzīšanu par spēkā neesošu ne vēlāk kā sešu mēnešu laikā no dienas, kad viņš uzzināja vai viņam vajadzēja uzzināt par tādu akciju (kapitāla daļu) iegūšanu, par kurām ir pienākums paziņot saskaņā ar šā likuma 6.panta pirmās, otrās un trešās daļas noteikumiem.
+(4) Lēmuma atzīšana par spēkā neesošu neskar trešo personu tiesības, kas iegūtas labā ticībā.
+(5) Sabiedrībai ir tiesības atprasīt no sabiedrības dalībnieka viņam izmaksātās dividendes, uz kurām sabiedrības dalībniekam nebija tiesību saskaņā ar šā panta pirmās daļas noteikumiem.
