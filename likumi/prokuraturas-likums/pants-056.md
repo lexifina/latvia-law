@@ -1,0 +1,3 @@
+56. pants. Prokurora drošības garantijas
+(1) Prokuroram ir tiesības uz viņa un viņa ģimenes locekļu aizsardzību, kā arī uz savu ģimenes locekļu mantas aizsardzību.
+(2) Prokuroriem ir tiesības uz dienesta ieroci. To piešķirot, glabājot, nēsājot un pielietojot, jāievēro nosacījumi un kārtība, kāda noteikta likumā «Par šaujamieročiem un speciālajiem līdzekļiem pašaizsardzībai».

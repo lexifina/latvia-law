@@ -1,0 +1,2 @@
+Otrā nodaļa
+Prokurora pilnvaras

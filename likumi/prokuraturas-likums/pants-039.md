@@ -1,0 +1,6 @@
+39. pants. Prokurora atbrīvošana no amata
+Prokuroru no amata atbrīvo:
+1) pēc paša vēlēšanās;
+2) sakarā ar ievēlēšanu vai iecelšanu citā amatā;
+3) veselības stāvokļa dēļ, ja tas neļauj turpināt prokurora darbu;
+4) beidzoties amata pienākumu pildīšanas termiņam.
