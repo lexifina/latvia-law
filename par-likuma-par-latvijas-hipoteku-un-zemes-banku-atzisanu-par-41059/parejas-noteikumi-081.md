@@ -1,1 +1,0 @@
-Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta noteikumi nr.304 "Noteikumi par valsts akciju sabiedrību "Latvijas Hipotēku un zemes banka"" (Latvijas Vēstnesis, 1996, 135.nr.).
