@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums \"Par Konvenciju par noziedzīgi iegūtu līdzekļu legalizācijas novēršanu, meklēšanu, izņemšanu un konfiskāciju\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "308/312 (1369/1373)",
+  "official_journal_page": null,
+  "official_journal_date": "1998-10-23",
+  "entry_into_force": "1998-10-23",
+  "notification_date": "2015-04-15",
+  "commission_reference": "MNE(2015)52631",
+  "nim_celex": "72001F0500LVA_225613",
+  "nim_id": "225613",
+  "transposes_celex": [
+    "32001F0500"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/49f04837-b415-4059-85e5-318ce7a5c3f1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
