@@ -1,0 +1,3 @@
+10. pants. Finansiālās darbības deklarācijas neiesniegšanas sekas
+(1) Ja politiskā organizācija (partija) neiesniedz finansiālās darbības deklarāciju līdz šā likuma 8.pantā noteiktajam termiņam vai tajā nav norādītas šajā likumā prasītās ziņas, tieslietu ministram ir pienākums divu nedēļu laikā rakstveidā brīdināt attiecīgās politiskās organizācijas (partijas) vadītāju.
+(2) Ja mēneša laikā pēc brīdinājuma nosūtīšanas politiskā organizācija (partija) neiesniedz finansiālās darbības deklarāciju, tieslietu ministram ir pienākums divu nedēļu laikā likumā noteiktajā kārtībā ierosināt attiecīgās politiskās organizācijas (partijas) darbības apturēšanu tiesas ceļā.
