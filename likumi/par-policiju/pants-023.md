@@ -8,3 +8,5 @@ Policijas darbiniekiem kā militarizētas un bruņotas valsts tiesībaizsardzīb
 Zaudējumi, kas nodarīti policijas darbinieka vai tuvu viņa radinieku mantai sakarā ar policijas darbinieka dienesta darbību, atlīdzināmi pilnā apmērā no budžeta līdzekļiem.
 Ja Valsts policijas vai Drošības policijas darbinieks, pildot dienesta pienākumus, ir guvis ievainojumu vai sakropļojumu vai saistībā ar dienesta pienākumu veikšanu viņa veselībai ir nodarīts citāds kaitējums, viņam papildus likumā noteiktajām kompensācijām un pabalstiem izmaksā vienreizēju kompensāciju Ministru kabineta noteiktajā kārtībā un apmērā.
 Ja policijas darbinieks, pildot dienesta pienākumus, ir gājis bojā, viņa neatraidāmajiem mantiniekiem izmaksā vienreizēju pabalstu 50 000 latu apmērā.
+Policijas darbinieks, kurš ir specializētā valsts civildienesta ierēdnis, bērna piedzimšanas gadījumā saņem vienreizēju pabalstu sešu amatalgu apmērā. Ja abi bērna vecāki ir ierēdņi, tiesības uz pabalstu ir vienam no viņiem.
+Policijas darbinieks, kurš ir specializētā valsts civildienesta ierēdnis, aizejot ikgadējā atvaļinājumā, saņem atvaļinājuma pabalstu amatalgas apmērā.
