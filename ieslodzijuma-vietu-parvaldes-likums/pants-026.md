@@ -1,0 +1,4 @@
+26.pants. Ierēdņa darbības vispārējās garantijas
+(1) Ierēdnim nav saistoši politisko organizāciju (partiju) un to apvienību vai to pārstāvju rīkojumi un lēmumi.
+(2) Par likumpārkāpumu netiek atzīta ierēdņa rīcība attaisnota profesionāla riska situācijā, kaut arī šajā rīcībā būtu konstatējamas tāda nodarījuma pazīmes, par kuru noteikta disciplinārā, administratīvā, civiltiesiskā vai kriminālā atbildība. Profesionāls risks atzīstams par attaisnotu, ja ierēdnis rīkojies atbilstoši viņa rīcībā esošajai informācijai par faktiem un apstākļiem, bet likumīgais mērķis nav bijis sasniedzams bez riska darbībām un ja viņš, pieļaudams risku, darījis visu iespējamo kaitējuma novēršanai.
+(3) Ierēdnis neatbild par mantisko un fizisko kaitējumu, kas dienesta pilnvaru ietvaros nodarīts likumpārkāpējam, kurš nepakļaujas vai pretojas ierēdnim, kā arī par trešajai personai nodarīto mantisko un fizisko kaitējumu.
