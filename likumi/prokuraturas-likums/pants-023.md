@@ -8,8 +8,8 @@
 4) veikt prokurora funkcijas visās Latvijas Republikas tiesās;
 5) piedalīties Ministru kabineta sēdēs un tur izteikt savu viedokli par izskatāmajiem jautājumiem;
 6) piedalīties Saeimas sēdēs un ar Saeimas piekrišanu tur izteikt savu viedokli jautājumos, kas tieši skar prokuratūras darbību;
-7) konstatējot Ministru kabineta normatīvo aktu neatbilstību
-Satversmei un likumiem, griezties ar iesniegumu Satversmes tiesā;
+7) konstatējot Ministru kabineta normatīvo aktu neatbilstību Satversmei un likumiem, griezties ar iesniegumu Satversmes tiesā;
 8) apstiprināt noziegumu un pirmstiesas izmeklēšanas datu statistiskās uzskaites kārtību;
-9) citas šajā likumā un citos normatīvajos aktos noteiktās tiesības.
+9) personīgi un kopā ar īpaši pilnvarotiem prokuroriem pārbaudīt prokuratūras pārraudzībā esošās valsts iestādes;
+10) citas šajā likumā un citos normatīvajos aktos noteiktās tiesības.
 (4) Ģenerālprokuroram ir jāziņo Valsts prezidentam, Saeimai un Ministru kabinetam par atklātiem būtiskiem likuma pārkāpumiem, kam ir valstiska nozīme.

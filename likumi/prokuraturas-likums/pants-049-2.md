@@ -1,0 +1,3 @@
+49.² pants. Prokuratūras pārraudzībā esošo valsts iestāžu darbinieku iecelšanas, pieņemšanas, atbrīvošanas un atlaišanas kārtība
+(1) Prokuratūras pārraudzībā esošās valsts iestādes vadītāju amatā uz likumā paredzēto laiku ieceļ ģenerālprokurors. Atlaist iestādes vadītāju amata pilnvaru termiņa laikā ģenerālprokurors var tikai par noziedzīga nodarījuma izdarīšanu, par tīšu likumpārkāpumu vai nolaidību, kas saistīta ar viņa profesionālo darbību un izraisījusi būtiskas sekas, un par apkaunojošu nodarījumu, kas nav savienojams ar vadītāja statusu.
+(2) Pārējos prokuratūras pārraudzībā esošās valsts iestādes darbiniekus pieņem darbā, atbrīvo vai atlaiž no darba iestādes vadītājs.

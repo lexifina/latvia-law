@@ -2,7 +2,8 @@
 (1) Par šā likuma 43. pantā paredzētajiem pārkāpumiem prokuroram var tikt piemēroti šādi disciplinārsodi:
 1) piezīme;
 2) rājiens;
-3) pazemināšana amata pakāpē;
-4) pazemināšana amatā;
-5) atlaišana no darba.
+3) prokurora amatalgas samazināšana līdz 20 procentiem uz laiku, kas nav ilgāks par sešiem mēnešiem;
+4) pazemināšana amata pakāpē;
+5) pazemināšana amatā;
+6) atlaišana no darba.
 (2) Par vienu un to pašu pārkāpumu drīkst piemērot tikai vienu disciplinārsodu.:
