@@ -14,4 +14,4 @@ speciālās dienesta pakāpes pazemināšanu par vienu pakāpi;
 brīdinājumu par neatbilstību ieņemamajam amatam;
 pazemināšanu amatā;
 atlaišanu no dienesta sakarā ar neatbilstību policijas dienestam.
-Apbalvojumu piešķiršanas, dienesta atzinības izteikšanas un disciplinārsodu piemērošanas kārtību policijas darbiniekam nosaka Iekšlietu ministrijas sistēmas ierindas un komandējošā sastāva disciplinārreglaments, ko apstiprina Ministru kabinets.
+Apbalvojumu piešķiršanas, dienesta atzinības izteikšanas un disciplinārsodu piemērošanas kārtību policijas darbiniekam nosaka Iekšlietu iestāžu disciplinārreglaments, ko apstiprina Ministru kabinets.

@@ -35,5 +35,5 @@ pieprasīt no attiecīgajām amatpersonām iestāžu, uzņēmumu un organizācij
 27) dienesta vajadzībām bez atlīdzības izmantot iestādēm, uzņēmumiem un organizācijām piederošos vietējo sakaru līdzekļus;
 28) bez atlīdzības izmantot valsts un pašvaldību masu informācijas līdzekļus, lai noskaidrotu nozieguma izdarīšanas apstākļus un personas, kas to izdarījušas, meklētu noziedzniekus un bez vēsts pazudušos, kā arī lai veiktu likumpārkāpumu profilaksi;
 29) izsludināt un izmaksāt atlīdzību jebkurai personai par palīdzību nozieguma atklāšanā un noziegumu izdarījušo personu aizturēšanā;
-30) likumā noteiktajā kārtība aizturēt un turēt apsardzībā personas, uz kurām tiek vai var tikt attiecināta piespiedu izraidīšana no valsts.
-Kārtību, kādā policijas darbinieki izmanto šajā pantā noteiktās tiesības, nosaka Latvijas Republikas iekšlietu ministrs, ja ar Latvijas Republikas likumu vai Latvijas Republikas Augstākās Padomes vai Ministru Padomes lēmumu nav noteikts citādi.
+30) likumā noteiktajā kārtībā aizturēt un turēt apsardzībā personas, uz kurām tiek vai var tikt attiecināta piespiedu izraidīšana no valsts.
+Kārtību, kādā policijas darbinieki izmanto šajā pantā noteiktās tiesības, nosaka iekšlietu ministrs, ja ar likumu vai valdības lēmumu nav noteikts citādi.
