@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Latvijas Republikas Augstākās padomes lēmums "Par LLU mācību un pētījumu saimniecību "Vecauce"" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 51. nr.).

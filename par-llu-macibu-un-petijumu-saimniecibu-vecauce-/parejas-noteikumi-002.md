@@ -1,0 +1,1 @@
+2. Ministru kabinetam līdz 1998.gada 31.decembrim nodot valsts uzņēmumu "Valsts mācību un pētījumu saimniecība "Vecauce"" Latvijas Lauksaimniecības universitātes īpašumā, apstiprināt LLU mācību un pētījumu saimniecības "Vecauce" darbības nodrošināšanas mērķprogrammu un nodrošināt tās finansējumu, sākot ar 1999.gada valsts budžetu.
