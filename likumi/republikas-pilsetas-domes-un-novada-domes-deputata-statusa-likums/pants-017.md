@@ -1,2 +1,2 @@
-17. pants. Deputāta atbrīvošana no iesaukšanas valsts obligātajā dienestā
-Deputāts savu pilnvaru laikā tiek atbrīvots no iesaukšanas valsts obligātajā dienestā.
+17. pants. Deputāta atbrīvošana no iesaukšanas obligātajā militārajā dienestā
+Deputāts savu pilnvaru laikā tiek atbrīvots no iesaukšanas obligātajā militārajā dienestā.

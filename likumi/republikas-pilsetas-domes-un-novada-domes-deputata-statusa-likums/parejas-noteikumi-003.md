@@ -1,0 +1,1 @@
+3. Rajona padomes deputātiem, kuru pilnvaras ir pagarinātas saskaņā ar Pilsētas domes un pagasta padomes vēlēšanu likuma pārejas noteikumu 8.punktu, ir tiesības vienlaikus pildīt rajona padomes deputāta, arī attiecīgā rajona padomes priekšsēdētāja, un pilsētas domes vai pagasta padomes deputāta pienākumus.
