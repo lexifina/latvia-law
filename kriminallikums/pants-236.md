@@ -1,5 +1,5 @@
-236.pants. Šaujamieroču un munīcijas nevērīga glabāšana, nēsāšana, pārvadāšana un pārsūtīšana
-(1) Par šaujamieroča vai munīcijas nevērīgu glabāšanu, nēsāšanu, pārvadāšanu vai pārsūtīšanu, pārkāpjot noteikumus, ja ar to citai personai radīta iespēja iegūt šo ieroci vai munīciju, -
+236.pants. Šaujamieroču un šaujamieroču munīcijas nevērīga glabāšana, nēsāšana, pārvadāšana un pārsūtīšana, lielas enerģijas pneimatisko ieroču, sprāgstvielu vai spridzināšanas ietaišu nevērīga glabāšana, pārvadāšana un pārsūtīšana
+(1) Par šaujamieroča vai šaujamieroča munīcijas nevērīgu glabāšanu, nēsāšanu, pārvadāšanu vai pārsūtīšanu vai lielas enerģijas pneimatiskā ieroča, sprāgstvielas vai spridzināšanas ietaises nevērīgu glabāšanu, pārvadāšanu vai pārsūtīšanu, pārkāpjot normatīvos aktus, kuri regulē ieroču apriti, ja ar šādu nodarījumu citai personai radīta iespēja iegūt šo šaujamieroci, šaujamieroča munīciju, lielas enerģijas pneimatisko ieroci, sprāgstvielu vai spridzināšanas ietaisi, -
 soda ar brīvības atņemšanu uz laiku līdz diviem gadiem vai ar arestu, vai ar naudas sodu līdz piecdesmit minimālajām mēnešalgām, atņemot tiesības veikt zināma veida uzņēmējdarbību uz laiku līdz trim gadiem.
 (2) Par tādu pašu nodarījumu, ja tas izraisījis smagas sekas, -
 soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar naudas sodu līdz simt minimālajām mēnešalgām, atņemot tiesības veikt zināma veida uzņēmējdarbību uz laiku līdz pieciem gadiem.

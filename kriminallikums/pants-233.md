@@ -1,7 +1,5 @@
-233.pants. Ieroču, munīcijas un sprāgstošu vielu neatļauta izgatavošana, iegādāšanās, glabāšana un realizēšana
-(1) Par aukstā ieroča neatļautu izgatavošanu, nēsāšanu, pārsūtīšanu vai realizēšanu -
-soda ar brīvības atņemšanu uz laiku līdz diviem gadiem vai ar arestu, vai ar piespiedu darbu, vai ar naudas sodu līdz četrdesmit minimālajām mēnešalgām.
-(2) Par šaujamieroča vai munīcijas realizēšanas noteikumu pārkāpšanu -
+233.pants. Šaujamieroču, šaujamieroču munīcijas, lielas enerģijas pneimatisko ieroču, sprāgstvielu un spridzināšanas ietaišu neatļauta izgatavošana, remontēšana, iegādāšanās, glabāšana, nēsāšana, pārvadāšana, pārsūtīšana, realizēšana un realizēšanas noteikumu pārkāpšana
+(1) Par šaujamieroča, šaujamieroča munīcijas, sprāgstvielas vai spridzināšanas ietaises realizēšanu personai, kurai nav attiecīgas atļaujas vai speciālas atļaujas (licences), vai par citu realizēšanas noteikumu pārkāpšanu atkārtoti gada laikā, ja to izdarījusi persona, kurai ir attiecīga realizēšanas atļauja vai speciāla atļauja (licence), -
 soda ar brīvības atņemšanu uz laiku līdz četriem gadiem vai ar naudas sodu līdz astoņdesmit minimālajām mēnešalgām, atņemot tiesības veikt zināma veida uzņēmējdarbību uz laiku līdz pieciem gadiem vai bez tā.
-(3) Par šaujamieroča, munīcijas, sprāgstošas vielas vai spridzināmās ietaises izgatavošanu, iegādāšanos, glabāšanu, nēsāšanu, pārsūtīšanu vai realizēšanu bez attiecīgas atļaujas -
+(2) Par šaujamieroča, šaujamieroča munīcijas, lielas enerģijas pneimatiskā ieroča, sprāgstvielas vai spridzināšanas ietaises izgatavošanu, remontēšanu, iegādāšanos, glabāšanu, nēsāšanu, pārvadāšanu, pārsūtīšanu vai realizēšanu bez attiecīgas atļaujas -
 soda ar brīvības atņemšanu uz laiku līdz desmit gadiem vai ar arestu, atņemot tiesības veikt zināma veida uzņēmējdarbību uz laiku no diviem līdz pieciem gadiem vai bez tā.
