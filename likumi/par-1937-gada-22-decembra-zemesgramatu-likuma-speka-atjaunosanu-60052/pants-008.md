@@ -7,6 +7,7 @@ Piezīme. Ja akts par ēku (būvju) pieņemšanu ekspluatācijā nav sastādīts
 5) tiesas spriedumi vai lēmumi, ar kuriem atzīta īpašuma iegūšana, izņemot tiesas spriedumus, kas minēti 1991.gada 30.oktobra likuma "Par namīpašumu atdošanu likumīgajiem īpašniekiem" 7. un 8.pantā;
 6) akti par ēku (būvju) iegūšanu izsolē tiesas ceļā;
 7) izraksti no saimniecību grāmatām vai saimniecību uzskaites kartītēm, kurus izsniegušas pašvaldības vai Valsts arhīvi un kuri apliecina ēku (būvju) iegūšanu sakarā ar likumā noteiktajām mantiskajām attiecībām kolhoznieku sētā (zemnieku viensētā);
-8) administratīvā kārtībā pieņemti valdības vai pašvaldību akti par valsts vai pašvaldības īpašumā esošu ēku (būvju) nodošanu citu tiesību subjektu īpašumā (kopā ar pieņemšanas un nodošanas aktu);
-9) likumā noteiktie dokumenti par ēku (būvju) iegūšanu valsts un pašvaldību īpašuma privatizācijas rezultātā, ja privatizācijas procesā ievērota likumā noteiktā kārtība;
-10) citi dokumenti, kas apliecina ēku (būvju) tiesisku iegūšanu.
+8) administratīvā kārtībā pieņemti valdības vai pašvaldību akti par valsts vai pašvaldības īpašumā esošu ēku (būvju) nodošanu citu tiesību subjektu īpašumā;
+9) likumā noteiktie dokumenti par ēku (būvju) iegūšanu valsts un pašvaldību īpašuma privatizācijas rezultātā;
+10) citi dokumenti, kas apliecina ēku (būvju) tiesisku iegūšanu;
+11) zvērināta revidenta apstiprināta pašvaldības, valsts iestādes vai uzņēmuma izziņa, kas apliecina, ka dzīvojamā māja ir iestādes vai uzņēmuma pamatlīdzekļu sastāvā.
