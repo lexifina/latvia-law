@@ -1,0 +1,1 @@
+9. pants. Latvijas Republika garantē visiem tās pastāvīgajiem iedzīvotājiem tiesības brīvi uzturēt kontaktus ar tautiešiem savā vēsturiskajā dzimtenē un citās valstīs, kā arī brīvi izbraukt no Latvijas un atgriezties Latvijā saskaņā ar Latvijas Republikas likumdošanas aktiem.

@@ -1,0 +1,1 @@
+4. pants. Latvijas Republikas valsts varas un pārvaldes institūcijas ir atbildīgas par Latvijas senās pamattautības - lībiešu - nacionālās identitātes un kultūrvēsturiskās vides saglabāšanu, par viņu apdzīvotās teritorijas sociāli ekonomiskās infrastruktūras atjaunošanu un attīstību.

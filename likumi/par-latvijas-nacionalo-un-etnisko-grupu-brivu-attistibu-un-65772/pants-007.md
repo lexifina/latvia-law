@@ -1,0 +1,1 @@
+7. pants. Visām nacionālajām un etniskajām grupām ir garantētas tiesības, izvirzot savus pārstāvjus, piedalīties Latvijas Republikas Augstākās Padomes Sabiedriskās konsultatīvās tautību padomes darbā un ar tās starpniecību līdzdarboties Latvijas Republikas likumu izstrādāšanā.

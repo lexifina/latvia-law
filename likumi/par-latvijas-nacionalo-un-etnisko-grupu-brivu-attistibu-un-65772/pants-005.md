@@ -1,0 +1,1 @@
+5. pants. Visiem Latvijas Republikas pastāvīgajiem iedzīvotājiem ir garantētas tiesības dibināt savas nacionālās biedrības, to apvienības un asociācijas. Valsts pienākums ir sekmēt to darbību un materiālo nodrošināšanu.

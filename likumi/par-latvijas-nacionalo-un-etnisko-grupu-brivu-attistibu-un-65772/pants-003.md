@@ -1,0 +1,1 @@
+3. pants. Latvijas Republika garantē visiem republikas pastāvīgajiem iedzīvotājiem neatkarīgi no viņu nacionālās piederības vienlīdzīgas tiesības uz darbu un darba samaksu. Tiek aizliegta jebkura rīcība, kas atklātā vai slēptā veidā atkarībā no nacionālās piederības ierobežo pastāvīgo iedzīvotāju iespēju izvēlēties profesiju vai ieņemt amatu atbilstoši spējām un kvalifikācijai.
