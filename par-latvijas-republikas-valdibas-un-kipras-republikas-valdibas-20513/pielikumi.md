@@ -1,0 +1,1 @@
+Saeimas priekšēdētājs J.Straume
