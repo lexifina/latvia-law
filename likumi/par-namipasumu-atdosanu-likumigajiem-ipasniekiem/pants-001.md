@@ -1,0 +1,1 @@
+1. pants. Bijušajiem īpašniekiem vai viņu mantiniekiem neatkarīgi no viņu pašreizējās pilsonības tiek atjaunotas īpašuma tiesības uz namīpašumiem, kuri 40.-80. gados bez atlīdzības tika pārņemti valsts vai juridisko personu valdījumā, realizējot īpašnieka tiesību ignorēšanas un administratīvās patvaļas politiku.

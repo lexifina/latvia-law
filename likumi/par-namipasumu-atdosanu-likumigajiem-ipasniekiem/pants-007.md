@@ -1,0 +1,1 @@
+7. pants. Par bezsaimnieka mantu nevar uzskatīt namīpašumu, kura īpašnieks bijis spiests to pamest otrā pasaules kara darbības rezultātā, kā arī izvairoties no iespējamām represijām vai cita veida nelabvēlīgām sekām.

@@ -1,0 +1,2 @@
+16. pants. Ja nama īpašnieks un viņa ģimenes locekļi vēlas atgriezties savā namīpašumā un aizņemt dzīvokli, viņam jāiesniedz iesniegums attiecīgajai pašvaldībai. Uz šā iesnieguma pamata pašvaldība izlemj jautājumu par dzīvojamās telpas piešķiršanu viņiem vai - atkarībā no savām iespējām - par citādu jautājuma risinājumu.
+Ja īpašnieks atdotajā namā saņēmis dzīvokli, viņam kopā ar ģimenes locekļiem jāatbrīvo līdzšinējā dzīvojamā telpa, ja tā atrodas valsts, pašvaldības vai sabiedrisko organizāciju īpašumā.

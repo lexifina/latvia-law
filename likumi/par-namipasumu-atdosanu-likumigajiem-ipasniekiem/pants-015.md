@@ -1,0 +1,1 @@
+15. pants. Izlikšana no likumīgajiem īpašniekiem atdotajiem namiem pieļaujama tikai Latvijas dzīvokļu kodeksā noteiktajā kārtībā, bet pirmajos septiņos gados pēc īpašuma tiesību atjaunošanas - tikai ierādot citu līdzvērtīgu dzīvojamo telpu, ja īpašnieks prasa īrnieku izlikšanu, pamatojoties uz Latvijas dzīvokļu kodeksa 147. pantu vai 149. panta pirmo daļu.

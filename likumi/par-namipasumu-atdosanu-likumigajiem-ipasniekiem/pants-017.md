@@ -1,0 +1,2 @@
+17. pants. Latvijas dzīvokļu kodeksa 149. panta pirmās un otrās daļas nosacījumi (īres līguma laušana un īrnieka izlikšana pēc izīrētāja prasības, ja dzīvojamā telpa nepieciešama izīrētājam un viņa ģimenes locekļiem dzīvošanai) nav attiecināmi uz likumīgajiem īpašniekiem atdotajos namos dzīvojošām vientuļām darba nespējīgām personām un vientuļiem pensionāriem.
+Vientuļās darba nespējīgās personas un vientuļos pensionārus pēc viņu vēlēšanās var izlikt no dzīvojamām telpām tikai tad, ja pašvaldības ārpus kārtas piešķir viņu veselības stāvoklim atbilstošu dzīvokli.
