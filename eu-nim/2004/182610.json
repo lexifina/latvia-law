@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "04.11.2004. likums \"Informācijas sabiedrības pakalpojumu likums\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "183(3131)",
+  "official_journal_page": null,
+  "official_journal_date": "2004-11-17",
+  "entry_into_force": "2004-12-01",
+  "notification_date": "2011-06-08",
+  "commission_reference": "MNE(2011)54234",
+  "nim_celex": "72009L0136LVA_182610",
+  "nim_id": "182610",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/1464cc3f-d9f3-49be-8e3b-d86d9954c78c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
