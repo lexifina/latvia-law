@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par veterinārajām prasībām aitu un kazu apritei",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-01",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-07-21",
+  "commission_reference": "MNE(2004)50045",
+  "nim_celex": "71991L0068LVA_30045",
+  "nim_id": "30045",
+  "transposes_celex": [
+    "31991L0068",
+    "32001L0010"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a5c9ab5f-9c6b-4371-bce3-b6b99113f444",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
