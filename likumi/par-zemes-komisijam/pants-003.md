@@ -8,5 +8,5 @@
 3.2. rajona zemes komisija -
 3.2.1. saskaņā ar likumdošanas aktiem un Latvijas Republikas Centrālās zemes komisijas norādījumiem koordinē zemes reformas darbus rajonā;
 3.2.2. izskata visus rajona zemes fonda sadalīšanas un zemju piešķiršanas gadījumus, kuri skar pagasta, rajona pilsētu, kā arī divu vai vairāku pagastu teritoriju, un sagatavo par tiem priekšlikumus rajona padomei;
-3.2.3. izskata un viena mēneša laikā savas kompetences ietvaros izšķir zemes strīdus, kurus nav izšķīrušas pagastu un pilsētu zemes komisijas;
+3.2.3. izskata ar zemes lietošanas tiesībām, zemes lietojumu un īpašumu robežām saistītos strīdus, kurus nav izšķīrušas pagastu un attiecīgā rajona pilsētu zemes komisijas, un viena mēneša laikā pieņem lēmumu par šiem strīdiem;
 3.2.4. izvērtē pagastu un pilsētu zemes komisiju priekšlikumus par pasākumiem, kas nepieciešami neapmierināto zemes pieprasījumu nodrošināšanai un nepieprasīto zemju turpmākajai izmantošanai.
