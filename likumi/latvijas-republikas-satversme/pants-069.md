@@ -1,1 +1,1 @@
-69. Valsts Prezidents izsludina Saeimā pieņemtos likumus ne agrāk kā septītā dienā un ne vēlāk kā divdesmit pirmā dienā pēc to pieņemšanas. Likums stājas spēkā četrpadsmit dienas pēc izsludināšanas, ja likumā nav noteikts cits termiņš.
+69. Valsts Prezidents izsludina Saeimā pieņemtos likumus ne agrāk kā desmitā dienā un ne vēlāk kā divdesmit pirmā dienā pēc to pieņemšanas. Likums stājas spēkā četrpadsmit dienas pēc izsludināšanas, ja likumā nav noteikts cits termiņš.
