@@ -1,0 +1,1 @@
+2.pants. Saskaņā ar Protokola 8.panta sesto daļu institūcijas, kuras saņem lūgumus sniegt palīdzību un atbild uz palīdzības sniegšanas lūgumiem vai lūgumiem apstiprināt kuģa reģistrāciju vai tā tiesības kuģot ar attiecīgās valsts karogu, kā arī saņem lūgumus dot atļauju atbilstošu pasākumu veikšanai, ir Iekšlietu ministrija un Satiksmes ministrija.

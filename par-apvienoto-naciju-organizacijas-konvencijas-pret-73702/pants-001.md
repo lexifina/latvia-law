@@ -1,0 +1,1 @@
+1.pants. 2000.gada 15.novembra Apvienoto Nāciju Organizācijas Konvencijas pret transnacionālo organizēto noziedzību Protokolu pret migrantu nelikumīgu ievešanu pa zemes, jūras un gaisa ceļiem (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
