@@ -1,0 +1,1 @@
+1.pants. 2000.gada 13.decembrī Palermo parakstītā Apvienoto Nāciju Organizācijas Konvencija pret transnacionālo organizēto noziedzību (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.

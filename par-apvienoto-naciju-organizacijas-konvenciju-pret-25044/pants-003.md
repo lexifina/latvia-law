@@ -1,0 +1,1 @@
+3.pants. Saskaņā ar Konvencijas 5.panta trešo daļu ANO ģenerālsekretārs tiek informēts par to, ka Latvijas Republikas normatīvajos aktos atbildība paredzēta, ja ir notikusi kāda darbība saskaņā ar vienošanos izdarīt Konvencijas 5.panta 1 (a) (i) daļā noteiktos nodarījumus.
