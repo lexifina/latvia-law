@@ -1,10 +1,11 @@
-14. pants. Nacionālo bruņoto spēku Militārās pretizlūkošanas dienests
-(1) Nacionālo bruņoto spēku Militārās pretizlūkošanas dienests (turpmāk - Militārās pretizlūkošanas dienests) ir Nacionālo bruņoto spēku pretizlūkošanas institūcija, kas veic šajā likumā noteiktos uzdevumus un ir pakļauta Nacionālo bruņoto spēku komandierim.
+14. pants. Militārās pretizlūkošanas dienests
+(1) Militārās pretizlūkošanas dienests ir Aizsardzības ministrijas pakļautībā esoša valsts pārvaldes iestāde, kas veic militāro pretizlūkošanu un citus šajā likumā noteiktos uzdevumus.
 (2) Militārās pretizlūkošanas dienests:
-1) nodrošina Nacionālos bruņotos spēkus ar to darbībai nepieciešamo pretizlūkošanas informāciju;
-2) atklāj un sadarbībā ar citām valsts drošības un tiesībaizsardzības iestādēm novērš ārvalstu speciālo dienestu, kā arī citu organizāciju vai atsevišķu personu graujošo darbību Nacionālajos bruņotajos spēkos;
-3) veic pasākumus valsts noslēpuma aizsardzībai Nacionālajos bruņotajos spēkos un kontrolē to izpildi.
-(3) Militārās pretizlūkošanas dienests darbojas atbilstoši aizsardzības ministra apstiprinātam nolikumam, kas saskaņots ar Satversmes aizsardzības biroja direktoru.
+1) nodrošina Aizsardzības ministriju, tās pakļautībā un pārziņā esošās institūcijas un Nacionālos bruņotos spēkus ar to darbībai nepieciešamo pretizlūkošanas informāciju;
+2) atklāj un sadarbībā ar citām valsts drošības iestādēm novērš ārvalstu speciālo dienestu, kā arī organizāciju vai atsevišķu personu graujošo darbību Aizsardzības ministrijā, tās pakļautībā un pārziņā esošajās institūcijās un Nacionālajos bruņotajos spēkos;
+3) veic pasākumus, lai aizsargātu valsts noslēpumu Aizsardzības ministrijā, tās pakļautībā un pārziņā esošajās institūcijās un Nacionālajos bruņotajos spēkos, un kontrolē to izpildi;
+4) pārbauda pretendentus, kas vēlas saņemt speciālas atļaujas (licences), kuras izsniedz Aizsardzības ministrija atsevišķu licencēšanai pakļautu uzņēmējdarbības veidu veikšanai, un sniedz atzinumu par speciālo atļauju (licenču) izsniegšanu.
+(3) Militārās pretizlūkošanas dienests darbojas atbilstoši Ministru kabineta apstiprinātam nolikumam.
 (4) Militārās pretizlūkošanas dienests savas kompetences ietvaros ir operatīvās darbības subjekts.
-(5) Militārās pretizlūkošanas dienesta personālsastāvā ir militārpersonas un civilpersonas.
+(5) Militārās pretizlūkošanas dienesta personālsastāvā ir karavīri un darbinieki.
 (6) Militārās pretizlūkošanas dienests ir juridiskā persona.
