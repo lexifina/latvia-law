@@ -1,0 +1,1 @@
+1.pants. 1991.gada 7.novembrī un 1993.gada 4.novembrī Londonā izdarītie grozījumi (turpmāk - Grozījumi) 1948.gada Ženēvas konvencijā par Starptautisko jūrniecības organizāciju (turpmāk - Konvencija) ar šo likumu tiek pieņemti un apstiprināti.
