@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Streiku likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "130/131",
+  "official_journal_page": null,
+  "official_journal_date": "1998-05-12",
+  "entry_into_force": "1998-05-26",
+  "notification_date": "2016-06-08",
+  "commission_reference": "MNE(2016)53877",
+  "nim_celex": "72014L0036LVA_238284",
+  "nim_id": "238284",
+  "transposes_celex": [
+    "32014L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ed1445c2-8de3-420a-ba83-078d080b7252",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
