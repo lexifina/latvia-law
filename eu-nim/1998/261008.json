@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Latvijas Republikas Satversmē",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "308/312",
+  "official_journal_page": null,
+  "official_journal_date": "1998-10-23",
+  "entry_into_force": "1998-11-06",
+  "notification_date": "2018-07-19",
+  "commission_reference": "MNE(2018)53846",
+  "nim_celex": "72016L0343LVA_261008",
+  "nim_id": "261008",
+  "transposes_celex": [
+    "32016L0343"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/acea4649-6101-4d16-b053-13ff12f7772c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
