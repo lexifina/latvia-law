@@ -1,0 +1,1 @@
+1.pants. Latvijas Republikas un Eiropas brīvās tirdzniecības asociācijas valstu līguma Apvienotās komitejas lēmums nr. 3/2001 "Grozījumi 17. un 24.pantā un II pielikumā, un VI un VII pielikuma par valsts atbalstu izslēgšana" (turpmāk - Lēmums) ar šo likumu tiek pieņemts un apstiprināts.
