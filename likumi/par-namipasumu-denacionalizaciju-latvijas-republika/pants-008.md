@@ -1,0 +1,1 @@
+8. pants. Kompensācija bijušajiem īpašniekiem vai viņu mantiniekiem nodrošināma šā likuma 2. pantā minētajos gadījumos, kā arī gadījumos, kad īpašnieks (mantinieks), kura īpašuma tiesības ir atzītas likumā noteiktajā kārtībā, to nevēlas saņemt.

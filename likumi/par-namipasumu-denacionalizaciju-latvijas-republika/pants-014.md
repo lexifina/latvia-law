@@ -1,0 +1,1 @@
+14. pants. Pašvaldība ir tiesīga piešķirt nama īpašniekam nama kapitālā remonta un ekspluatācijas izdevumu kompensācijai subsīdijas, aizdevumus vai sniegt cita veida palīdzību, kāda noteikta pašvaldības dzīvokļu fondam.

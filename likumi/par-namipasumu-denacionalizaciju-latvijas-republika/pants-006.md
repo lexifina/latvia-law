@@ -1,0 +1,1 @@
+6. pants. Strīdus par namīpašuma atdošanu, kā arī par vērtības atlīdzināšanu vai cita veida kompensāciju izskata Latvijas Republikas Ministru Padomes Valsts īpašuma konversijas departaments, kura lēmumu var pārsūdzēt tiesā.

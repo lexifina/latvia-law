@@ -1,0 +1,1 @@
+7. pants. Strīdus starp fiziskajām personām par atdodamo namīpašumu vai tā vērtības sadalīšanu, kā arī strīdus starp fiziskajām un juridiskajām personām, kurām jāatdod pilsoņiem namīpašums vai jāatlīdzina tā vērtība, izšķir tiesa.
