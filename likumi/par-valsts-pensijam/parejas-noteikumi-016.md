@@ -1,5 +1,5 @@
 16. Pensijas, kas piešķirtas pirms šā likuma spēkā stāšanās, bet attiecībā uz invaliditātes pensiju - pirms 1997. gada 1. janvāra, netiek pārrēķinātas, izņemot šādus gadījumus, kad tas tiek veikts šādā kārtībā:
-1) ja papildināts no 1991.gada 1.janvāra līdz 1996.gada 1.janvārim uzkrātais apdrošināšanas stāžs, ja ģimenes sastāvā notikušas pārmaiņas, kas skar tos ģimenes locekļus, kuriem ir tiesības uz apgādnieka zaudējuma pensiju, ja mainījusies invaliditātes grupa, vecuma, invaliditātes vai apgādnieka zaudējuma pensija pārrēķināma pēc formulas:
+1) ja papildināts līdz 1996.gada 1.janvārim uzkrātais apdrošināšanas stāžs, ja ģimenes sastāvā notikušas pārmaiņas, kas skar tos ģimenes locekļus, kuriem ir tiesības uz apgādnieka zaudējuma pensiju, ja mainījusies invaliditātes grupa, vecuma, invaliditātes vai apgādnieka zaudējuma pensija pārrēķināma pēc formulas:
 P = 0.3 x VA + 0.004 x VA x AS x ĢL
 P - pensija,
 VA - pēdējā vidējā apdrošināšanas iemaksu alga, kas piemērota pensijas apmēra noteikšanai pirms pensijas pārrēķināšanas,
