@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Jūras kodekss",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "91(2856)",
+  "official_journal_page": null,
+  "official_journal_date": "2003-06-18",
+  "entry_into_force": "2003-08-01",
+  "notification_date": "2014-07-10",
+  "commission_reference": "MNE(2014)54218",
+  "nim_celex": "72013L0054LVA_218258",
+  "nim_id": "218258",
+  "transposes_celex": [
+    "32013L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/be1c0d86-4ed6-4bba-9223-e8daa9b2aaa2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
