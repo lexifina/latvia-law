@@ -1,0 +1,1 @@
+8. Līdz Lauku atbalsta dienesta nolikuma spēkā stāšanās dienai, bet ne ilgāk kā līdz 2005.gada 1.janvārim ir piemērojami Ministru kabineta 2000.gada 24.oktobra noteikumi Nr.366 "Lauku atbalsta dienesta nolikums", ciktāl tie nav pretrunā ar šo likumu.

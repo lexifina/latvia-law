@@ -1,3 +1,2 @@
 III nodaļa
-Dienesta amatpersonas un darbinieki,
-viņu pienākumi un tiesības
+Dienesta amatpersonu un darbinieku tiesības

@@ -1,2 +1,3 @@
 II nodaļa
-Lauku atbalsta dienesta struktūra un funkcijas
+Lauku atbalsta dienesta funkcijas
+un finansēšanas avoti
