@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2004.gada 23.novembra Ministru kabineta noteikumi Nr.966 \"Grozījumi Ministru kabineta 2002.gada 9.decembra noteikumos Nr.526 \"Darba aizsardzības prasības, lietojot darba aprīkojumu un strādājot augstumā\"\"",
+  "type_of_act": "Ministru kabineta instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "188",
+  "official_journal_page": null,
+  "official_journal_date": "2004-11-26",
+  "entry_into_force": "2004-11-27",
+  "notification_date": "2008-09-25",
+  "commission_reference": "MNE(2008)55217",
+  "nim_celex": "71989L0655LVA_158170",
+  "nim_id": "158170",
+  "transposes_celex": [
+    "31989L0655",
+    "31995L0063",
+    "32001L0045"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e48122fe-614c-43a4-90f2-aca1c59e0919",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
