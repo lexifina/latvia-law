@@ -1,0 +1,1 @@
+1.pants. 1995.gada 28.septembrī Briselē parakstītais Latvijas Republikas valdības un Bulgārijas Republikas valdības nolīgums par starptautiskajiem pārvadājumiem ar autotransportu (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
