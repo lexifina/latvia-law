@@ -9,3 +9,19 @@ MadonasBarkavas
 MadonasMētrienas
 JēkabpilsAtašienes
 PreiļuRudzātu
+4.Lubānas mitrāju komplekss47 902BalvuRugāju
+Lazdukalna
+Bērzpils
+GulbenesDaukstu
+Strazdu
+MadonasIndrānu
+Ošupes
+Barkavas
+Murmastienes
+RēzeknesGaigalavas
+Nagļu
+Dekšāru
+5.Papes mitrāju komplekss51 725LiepājasNīcas
+Rucavas
+6.Ziemeļu purvi5318LimbažuStaiceles lauku teritorija
+ValmierasRamatas
