@@ -1,0 +1,1 @@
+1.pants. 2002.gada 31.decembrī pieņemtā Igaunijas Republikas, Latvijas Republikas un Lietuvas Republikas brīvās tirdzniecības nolīguma Apvienotās komitejas rezolūcija nr.1/2002 "Par grozījumiem Igaunijas Republikas, Latvijas Republikas un Lietuvas Republikas brīvās tirdzniecības nolīguma A protokolā" (turpmāk - Rezolūcija) ar šo likumu tiek pieņemta un apstiprināta.
