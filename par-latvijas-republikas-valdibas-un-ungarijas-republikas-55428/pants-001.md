@@ -1,0 +1,1 @@
+1.pants. 2001.gada 2.maijā Rīgā parakstītais Latvijas Republikas valdības un Ungārijas Republikas valdības līgums par sadarbību un savstarpējo palīdzību muitas lietās (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
