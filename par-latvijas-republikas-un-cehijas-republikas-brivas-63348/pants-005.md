@@ -1,0 +1,1 @@
+5.pants. Kārtību, kādā līdz apstiprināšanai Saeimā piemērojams Līguma ietvaros izveidotās Apvienotās komitejas lēmums par grozījumiem Līguma 3.protokolā, nosaka Ministru kabinets, un ar šo likumu minētais lēmums tiek pieņemts un apstiprināts.
