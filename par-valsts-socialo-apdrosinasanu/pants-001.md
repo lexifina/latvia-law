@@ -4,7 +4,7 @@ Likumā ir lietoti šādi termini:
 2) darba ņēmējs:
 a) persona, kas uz darba līguma pamata par nolīgto darba samaksu veic noteiktu darbu darba devēja vadībā,
 b) uzņēmuma (uzņēmējsabiedrības) īpašnieks (īpašnieki), kas, nebūdams darba tiesiskajās attiecībās ar sava uzņēmuma (uzņēmējsabiedrības) pārvaldes institūciju, veic šā uzņēmuma (uzņēmējsabiedrības) operatīvās vadības funkciju, ja šajā uzņēmumā (uzņēmējsabiedrībā) likumā noteiktajā kārtībā nav iecelts (ievēlēts) pārvaldnieks (direktors), izņemot zemnieku (zvejnieku) saimniecības īpašnieku,
-c) Saeimas deputāts, pašvaldības deputāts, Ministru kabineta loceklis, valsts (pašvaldības) pilnvarnieks, uzņēmējsabiedrības valdes, padomes loceklis, kā arī cita persona, kura ieņem amatu, kas dod tiesības uz atlīdzību,
+c) Saeimas deputāts, pašvaldības deputāts, Ministru kabineta loceklis, uzņēmējsabiedrības valdes, padomes loceklis, kā arī cita persona, kura ieņem amatu, kas dod tiesības uz atlīdzību,
 d) persona, kura ir noslēgusi Civillikuma IV daļas 15.nodaļā paredzēto uzņēmuma, graudniecības vai pārvadājuma līgumu un nav reģistrējusies kā saimnieciskajā darbībā gūtā ienākuma nodokļa maksātāja,
 e) Iekšlietu ministrijas pakļautībā un pārraudzībā esošas iestādes ierindas vai komandējošā sastāva darbinieks vai Aizsardzības ministrijas pakļautībā un pārziņā esošas struktūrvienības militārpersona,
 f) valsts civildienesta ierēdnis,

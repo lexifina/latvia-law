@@ -1,0 +1,1 @@
+24. Ministru kabineta 1997.gada 23.decembra noteikumi nr.436 "Bezpeļņas organizācijas valsts akciju sabiedrības "Valsts sociālās apdrošināšanas aģentūra" statūti" piemērojami līdz 2003.gada 31.decembrim.
