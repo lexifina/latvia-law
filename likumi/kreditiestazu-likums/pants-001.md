@@ -27,24 +27,27 @@ d) samazinājums par kredītiestādes būtisku līdzdalību citu kredītiestāž
 e) samazinājums par citās kredītiestādēs un finansu iestādēs (pamatkapitālā, subordinētajā kapitālā un saskaņā ar Finansu un kapitāla tirgus komisijas normatīvajiem norādījumiem un noteikumiem - citos finansu instrumentos) izdarīto kredītiestādes ieguldījumu daļu, kura pārsniedz 10 procentus no kredītiestādes pašu kapitāla, kas aprēķināts saskaņā ar šā punkta "a"-"c" apakšpunktu. Ieguldījumu kopsummu aprēķina tikai tajās kredītiestādēs un finansu iestādēs, kurās kredītiestādei nav būtiskas līdzdalības;
 8) subordinētais kapitāls - naudas līdzekļi, kurus kredītiestāde aizņemas uz laiku, kas nav īsāks par septiņiem gadiem, turklāt aizņēmuma līgums paredz, ka aizdevējs var atprasīt aizdevumu pirms termiņa vienīgi kredītiestādes likvidācijas gadījumā un viņa prasība tiek apmierināta pēc visu citu kreditoru prasību, bet pirms akcionāru prasību apmierināšanas;
 9) klients - persona, kurai kredītiestāde sniedz finansu pakalpojumus;
-10) mātes uzņēmums - uzņēmums (uzņēmējsabiedrība), kuram citā uzņēmumā (uzņēmējsabiedrībā) pieder vairāk nekā 50 procenti pamatkapitāla vai balsstiesīgo akciju skaita vai kuru tas spēj tieši vai netieši kontrolēt;
-11) meitas uzņēmums - uzņēmums (uzņēmējsabiedrība), kurā mātes uzņēmumam pieder vairāk nekā 50 procenti pamatkapitāla vai balsstiesīgo akciju skaita vai kuru mātes uzņēmums spēj tieši vai netieši kontrolēt;
-12) kontrole - attiecības starp mātes un meitas uzņēmumu vai analogas attiecības starp personu un uzņēmumu (uzņēmējsabiedrību), vai iespēja saskaņā ar statūtiem vai līgumu noteikt uzņēmuma (uzņēmējsabiedrības) finansu un darbības politiku;
+10) mātes sabiedrība - komercsabiedrība, kura kontrolē citu komercsabiedrību;
+11) meitas sabiedrība - komercsabiedrība, kuru kontrolē cita komercsabiedrība;
+12) kontrole - stāvoklis, kad personai ir kontrole pār komercsabiedrību, ja:
+a) šai personai komercsabiedrībā ir izšķiroša ietekme uz līdzdalības pamata;
+b) šai personai komercsabiedrībā ir izšķiroša ietekme uz koncerna līguma pamata;
+c) starp šo personu un komercsabiedrību pastāv jebkādas citas šā punkta "a" vai "b" apakšpunktā minētajām attiecībām analogas attiecības;
 13) būtiska ietekme - iespēja ietekmēt (bet ne kontrolēt) uzņēmuma (uzņēmējsabiedrības) finansu un darbības politikas noteikšanu;
 14) uzticības operācijas (trasts) - darījumi, kuros attiecības starp kredītiestādi un klientu balstās uz savstarpēju uzticēšanos un saskaņā ar kuru noteikumiem kredītiestāde uzņemas atbildību par klientam piederoša īpašuma pārvaldīšanu klienta labā, pārvaldot šo īpašumu šķirti no sava īpašuma;
-15) būtiska līdzdalība - tiešā vai netiešā ceļā iegūta līdzdalība, kas aptver 10 un vairāk procentus no uzņēmuma (uzņēmējsabiedrības) pamatkapitāla vai balsstiesīgo akciju skaita, vai arī līdzdalība, kas dod iespēju būtiski ietekmēt uzņēmuma (uzņēmējsabiedrības) darbību;
+15) būtiska līdzdalība - tiešā vai netiešā ceļā iegūta līdzdalība, kas aptver 10 un vairāk procentus no uzņēmuma (uzņēmējsabiedrības) pamatkapitāla vai balsstiesīgo akciju skaita, vai dod iespēju būtiski ietekmēt uzņēmuma (uzņēmējsabiedrības) darbību;
 16) riska darījumi - kredītiestādes bilances aktīva un ārpusbilances posteņos uzrādītās operācijas, kurām noteikta paaugstināta riska pakāpe;
-17) (izslēgts ar 11.04.2002. likumu.);
+17)(izslēgts ar 11.04.2002. likumu.);
 18) savstarpēji saistītu klientu grupa - divas vai vairākas personas, kuras veido kredītiestādei vienu kopīgu risku:
 a) jo viena no šīm personām tieši vai netieši kontrolē citu personu vai citas personas vai tai ir būtiska ietekme uz tām;
 b) jo tās ir saistītas tādā veidā, ka vienas personas finansiālās problēmas var radīt citai personai vai citām personām parādu nomaksas grūtības;
 19) personas, kuras saistītas ar kredītiestādi - personas, kas ir:
 a) kredītiestādes akcionāri, kuriem kredītiestādē ir būtiska līdzdalība, un šo akcionāru - fizisko personu - laulātie, vecāki un bērni;
-b) kredītiestādes meitas uzņēmumi un uzņēmumi (uzņēmējsabiedrības), kuros kredītiestādei ir būtiska ietekme;
+b) kredītiestādes meitas sabiedrības un uzņēmumi (uzņēmējsabiedrības), kuros kredītiestādei ir būtiska ietekme;
 c) kredītiestādes padomes, valdes, revīzijas komisijas, iekšējā revīzijas dienesta vadītājs un locekļi, citi kredītiestādes darbinieki, kuri ir pilnvaroti veikt kredītiestādes darbības plānošanu, vadīšanu un kontroli un kuri atbild par to, kā arī šo personu laulātie, vecāki un bērni;
 d) uzņēmumi (uzņēmējsabiedrības), kuros šā termina skaidrojuma "a" un "c" apakšpunktā minētajām personām ir būtiska līdzdalība;
 20) finansu iestāde - uzņēmums (uzņēmējsabiedrība), kas nodibināts, lai sniegtu vienu vai vairākus finansu pakalpojumus, izņemot noguldījumu un citu atmaksājamo līdzekļu piesaistīšanu, kā arī lai veiktu apdrošināšanas operācijas vai lai iegūtu līdzdalību citu uzņēmumu (uzņēmējsabiedrību) pamatkapitālā;
-21) finansu pārvaldītājsabiedrība - finansu iestāde, kuras meitas uzņēmumi ir vienīgi vai galvenokārt kredītiestādes vai finansu iestādes, turklāt viens no tiem ir kredītiestādei;
+21) finansu pārvaldītājsabiedrība - finansu iestāde, kuras meitas sabiedrības ir vienīgi vai galvenokārt kredītiestādes vai finansu iestādes, turklāt viena no tām ir kredītiestāde;
 22) tranzītkredīts - valdības kredīts, kas ar banku starpniecību tiek piešķirts uzņēmējiem konkrētu mērķu īstenošanai un netiek iekļauts bankas aktīvos, pret kuriem tiek vērsti kreditoru prasījumi bankas likvidācijas vai bankrota gadījumā;
 23) nodokļu administrācija - likumā "Par nodokļiem un nodevām" noteiktās institūcijas;
 24) pašlikvidācija - kredītiestādes darbības izbeigšana saskaņā ar kredītiestādes akcionāru sapulces lēmumu;

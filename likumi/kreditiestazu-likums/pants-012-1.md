@@ -5,7 +5,7 @@ b) filiāles darbības programmu,
 c) filiāles adresi,
 d) filiāles vadītāja vārdu un uzvārdu,
 e) informāciju par bankas pašu kapitāla lielumu un kapitāla pietiekamības rādītāju,
-f) informāciju par bankas mātes uzņēmuma, kas ir kredītiestāde vai finansu pārvaldītājsabiedrība, kapitāla pietiekamības rādītāju,
+f) informāciju par bankas mātes sabiedrības, kas ir kredītiestāde vai finansu pārvaldītājsabiedrība, kapitāla pietiekamības rādītāju,
 g) informāciju par noguldījumu garantiju sistēmu, kuras dalībniece ir attiecīgā banka;
 2) Finansu un kapitāla tirgus komisija ir saņēmusi no attiecīgās ārvalsts kredītiestāžu uzraudzības institūcijas rakstveida apliecinājumu, ka tā laikus informēs Finansu un kapitāla tirgus komisiju par pārbaudēm bankas filiālēs Latvijā un netraucēs Finansu un kapitāla tirgus komisijas pārstāvjiem piedalīties šajās pārbaudēs, kā arī nekavējoties pēc pārbaudes beigšanas iesniegs Finansu un kapitāla tirgus komisijai ziņojumu par veiktās pārbaudes rezultātiem;
 3) Finansu un kapitāla tirgus komisija ir informējusi attiecīgo Eiropas Savienības dalībvalsts vai Eiropas ekonomiskās telpas valsts kredītiestāžu uzraudzības institūciju, ka ir gatava uzsākt bankas filiāles uzraudzību vai ir pagājuši divi mēneši kopš dienas, kad Finansu un kapitāla tirgus komisija saņēma attiecīgās Eiropas Savienības dalībvalsts kredītiestāžu uzraudzības institūcijas paziņojumu.
