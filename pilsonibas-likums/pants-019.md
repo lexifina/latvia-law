@@ -1,2 +1,2 @@
-19. pants. Latviešu valodas prasmes pārbaudes komisijas
-Naturalizējamo personu latviešu valodas prasmi pārbauda Ministru kabineta izveidotas komisijas, kuru darbību reglamentē Ministru kabineta apstiprināts nolikums.
+19. pants. Latviešu valodas prasmes pārbaude
+Latviešu valodas prasmi pārbauda Ministru kabineta noteiktajā kārtībā.
