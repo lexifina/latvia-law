@@ -1,9 +1,10 @@
 15. pants. Maksa par pakalpojumiem
 (1) Ostas pārvalde apstiprina šādus tarifu robežlīmeņus šādiem pakalpojumiem, ko sniedz ostā:
 1) maksu par tauvošanas darbu izpildi;
-2) maksu par atkritumu un piesārņoto ūdeņu pieņemšanu;
-3) maksu par ostas velkoņu un citu peldošo līdzekļu izmantošanu;
-4) maksu par ugunsdzēsēju pakalpojumiem.
+2) maksu par dzeramā ūdens piegādi;
+3) maksu par atkritumu un piesārņoto ūdeņu pieņemšanu;
+4) maksu par ostas velkoņu un citu peldošo līdzekļu izmantošanu;
+5) maksu par ugunsdzēsēju pakalpojumiem.
 (2) Ostas maksas pakalpojumu tarifu robežlīmeņi stājas spēkā četrdesmit piecas dienas pēc to publicēšanas laikrakstā "Latvijas Vēstnesis".
 (3) Latvijas ostās tiek iekasēta maksa par navigācijas pakalpojumiem, kuras tarifu pēc Latvijas Jūras administrācijas pilnsapulces priekšlikuma nosaka satiksmes ministrs.
 (4) Latvijas Jūras administrācijas budžetu nosaka Latvijas Jūras administrācijas pilnsapulce un apstiprina satiksmes ministrs.

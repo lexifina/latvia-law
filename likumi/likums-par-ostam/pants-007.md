@@ -6,12 +6,12 @@
 3) nosaka apsardzes un caurlaižu režīmu ostā;
 4) savas kompetences ietvaros kontrolē ostas noteikumu ievērošanu;
 5) savas kompetences ietvaros kontrolē ostas uzņēmumu (uzņēmējsabiedrību) darbības atbilstību likumiem, Ministru kabineta normatīvajiem aktiem un attiecīgās ostas pārvaldes nolikumam;
-6) kontrolē ostas teritorijas aizsardzību pret piesārņojumu, nodrošina piesārņojuma seku likvidēšanu ostā un piedalās piesārņojuma seku likvidēšanā jūrā, kā arī organizē kuģu atkritumu un piesārņoto ūdeņu pieņemšanu;
+6) kontrolē ostas teritorijas aizsardzību pret piesārņojumu, nodrošina piesārņojuma seku likvidēšanu ostā un piedalās piesārņojuma seku likvidēšanā jūrā, kā arī organizē kuģu atkritumu un piesārņoto ūdeņu pieņemšanu, izstrādā kuģu radīto atkritumu apsaimniekošanas plānu ostās. Ministru kabinets nosaka kuģu radīto atkritumu un piesārņoto ūdeņu pieņemšanas kārtību un kuģu radīto atkritumu apsaimniekošanas plānu izstrādes kārtību;
 7) nodrošina ziemas navigāciju ostā saskaņā ar Latvijas Jūras administrācijas izstrādāto kārtību, kuru apstiprina satiksmes ministrs.
 (3) Ostas pārvalde kā privāto tiesību subjekts veic šādas funkcijas:
 1) izstrādā ostas attīstības programmas projektu atbilstoši apstiprinātai Latvijas ostu attīstības koncepcijai un attiecīgās pilsētas ģenerālplānam vai apdzīvotās vietas zemes ierīcības projektam;
 2) nodrošina Latvijas Ostu padomē akceptētās ostas attīstības programmas realizāciju;
-3) apsaimnieko valdījumā nodoto īpašumu - hidrotehniskās būves, kuģuceļus, navigācijas iekārtas un ierīces ostā, kā arī akvatoriju;
+3) apsaimnieko valdījumā nodoto īpašumu - hidrotehniskās būves, kuģuceļus, navigācijas iekārtas un ierīces ostā, kā arī akvatoriju un navigācijas ierīces Satiksmes ministrijas noteiktajos apsaimniekošanas rajonos;
 4) izstrādā un apstiprina ostas pārvaldes nolikumā noteiktajā kārtībā finansu līdzekļu izlietojuma tāmes projektu nākamajam kalendārajam gadam un turpmākajiem pieciem gadiem un, ja nepieciešams, precizējumus iepriekšējā gadā iesniegtajā perspektīvajā finansu līdzekļu izlietojuma tāmē;
 5) organizē ostas izbūvi, komunikāciju izbūvi ostas teritorijā atbilstoši ostas attīstības programmai;
 6) veic ostas pakalpojumu pieprasījuma un piedāvājuma izpēti;

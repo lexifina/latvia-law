@@ -10,4 +10,6 @@
 8) kravas maksu;
 9) loču maksu;
 10) pasažieru maksu.
-(2) Ostas maksas un tarifus nosaka ostas pārvalde, un tie stājas spēkā četrdesmit piecas dienas pēc to publicēšanas laikrakstā "Latvijas Vēstnesis".
+(2) Ostas pārvalde var apvienot ostas maksas, ievērojot šā likuma 14.pantā minētos nosacījumus.
+(3) Ostas maksas un tarifus nosaka ostas pārvalde un publicē laikrakstā "Latvijas Vēstnesis". Ostas maksas paaugstinājumi stājas spēkā četrdesmit piecas dienas pēc to publicēšanas.
+(4) No ārvalstu karakuģiem netiek iekasētas ostas maksas, izņemot sanitāro, ledus un loču maksu, ja tiek izmantoti loču pakalpojumi.

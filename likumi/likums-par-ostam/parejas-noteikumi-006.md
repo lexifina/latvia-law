@@ -1,1 +1,0 @@
-6. Pēc Latvijas Jūras administrācijas saimniecisko funkciju nodalīšanas un nodošanas ostu pārvaldēm kopā ar finansēšanas avotu (maksa par loču pakalpojumiem) valdības garantētās kredīta saistības kuģu satiksmes vadības sistēmas aparatūras iegādei nododamas attiecīgajām ostu pārvaldēm.
