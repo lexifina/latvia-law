@@ -1,1 +1,0 @@
-34. pants. Ja pārkāpumi vēlēšanu komisijas rīcībā tiek konstatēti nevis septiņu dienu laikā, bet gan vēlāk, sūdzību par vēlēšanu komisijas rīcību var iesniegt Centrālajai vēlēšanu komisijai. Par sūdzību pieņemto lēmumu var pārsūdzēt tiesā likumā noteiktajā kārtībā.

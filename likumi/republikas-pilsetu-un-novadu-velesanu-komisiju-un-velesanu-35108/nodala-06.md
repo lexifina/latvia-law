@@ -1,2 +1,2 @@
 VI nodaļa
-Vēlēšanu komisijas lēmumu pārsūdzēšana
+Vēlēšanu komisijas lēmumu apstrīdēšana

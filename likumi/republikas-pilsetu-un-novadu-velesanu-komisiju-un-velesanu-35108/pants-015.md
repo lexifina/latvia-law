@@ -1,4 +1,4 @@
 15. pants. (1) Vēlēšanu komisijas un iecirkņa komisijas sēdes ir atklātas.
-(2) Netraucējot komisijas darbu, sēdē var būt klāt žurnālisti, Tieslietu ministrijā reģistrēto politisko organizāciju (partiju) un to apvienību pilnvarotas personas, viens no kandidātu saraksta iesniedzējiem. Vēlēšanu komisijas sēdē var būt klāt vēlētāji (balsotāji), ja viņi ir saņēmuši attiecīgās vēlēšanu komisijas priekšsēdētāja atļauju.
+(2) Netraucējot komisijas darbu, sēdē var būt klāt žurnālisti, reģistrēto politisko organizāciju (partiju) un to apvienību pilnvarotas personas, viens no kandidātu saraksta iesniedzējiem. Vēlēšanu komisijas sēdē var būt klāt vēlētāji (balsotāji), ja viņi ir saņēmuši attiecīgās vēlēšanu komisijas priekšsēdētāja atļauju.
 (3) Vēlēšanu komisijas sēdē ir tiesības piedalīties Centrālās vēlēšanu komisijas locekļiem vai tās pilnvarotām personām.
 (4) Iecirkņa komisijas sēdē ir tiesības piedalīties Centrālās vēlēšanu komisijas locekļiem vai tās pilnvarotām personām, kā arī attiecīgās pilsētas, rajona, novada vai pagasta vēlēšanu komisijas locekļiem.
