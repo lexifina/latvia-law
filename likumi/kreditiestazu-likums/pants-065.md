@@ -1,3 +1,3 @@
 65.pants. (1) Juridisko personu naudas līdzekļiem un citām vērtībām, kas atrodas kredītiestādē, var uzlikt arestu tikai ar tiesas nolēmumu vai prokurora sankciju, bet šo personu norēķinu operāciju daļēja vai pilnīga apturēšana veicama pēc Valsts ieņēmumu dienesta vai Valsts sociālās apdrošināšanas fonda pieprasījuma.
 (2) Piedziņu uz juridisko personu naudas līdzekļiem un citām vērtībām var vērst tikai saskaņā ar tiesas izpildrakstu vai pēc Valsts ieņēmumu dienesta vai Valsts sociālās apdrošināšanas fonda pieprasījuma citos likumos paredzētajos gadījumos.
-(3) Norakstīt naudas līdzekļus bezstrīdus kārtībā no pašvaldības budžeta konta ir tiesības Valsts kasei citos likumos paredzētajos gadījumos.
+(3) Piedziņu uz pašvaldību budžeta līdzekļiem, kas atrodas kredītiestādē, bezstrīdus kārtībā var vērst pēc Valsts kases pieprasījuma citos likumos paredzētajos gadījumos.
