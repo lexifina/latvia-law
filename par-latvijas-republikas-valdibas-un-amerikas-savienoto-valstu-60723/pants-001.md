@@ -1,0 +1,1 @@
+1.pants. 2001.gada 11.decembrī Vašingtonā parakstītais Latvijas Republikas valdības un Amerikas Savienoto Valstu valdības līgums par sadarbību masu iznīcināšanas ieroču izplatīšanas novēršanas jomā (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
