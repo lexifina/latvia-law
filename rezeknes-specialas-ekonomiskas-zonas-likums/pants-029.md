@@ -1,1 +1,1 @@
-29.pants. Rēzeknes speciālās ekonomiskās zonas uzņēmējsabiedrības kārto grāmatvedības uzskaiti atbilstoši likumiem un normatīvajiem aktiem.
+29.pants. Rēzeknes speciālās ekonomiskās zonas uzņēmējsabiedrība nodrošina tās teritorijā ievesto, ražoto un no tās teritorijas izvesto preču kontroli.

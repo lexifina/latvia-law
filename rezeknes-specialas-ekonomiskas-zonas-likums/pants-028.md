@@ -4,4 +4,4 @@
 1) Rēzeknes speciālās ekonomiskās zonas uzņēmējsabiedrības pārvaldes institūcijas vai pārstāvniecības (likuma "Par uzņēmējdarbību" 8. panta izpratnē) atrašanās ārpus Rēzeknes speciālās ekonomiskās zonas teritorijas;
 2) darījuma sarunu vešana un līgumu noslēgšana ārpus Rēzeknes speciālās ekonomiskās zonas teritorijas;
 3) preču tranzīts no Rēzeknes speciālās ekonomiskās zonas teritorijas vai uz to;
-4) citas darbības, kurām nav preču-naudas darījuma izpildes rakstura.
+4) citas darbības, kas nav vērstas uz preču ražošanu vai pakalpojumu sniegšanu par atlīdzību.

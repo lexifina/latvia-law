@@ -3,7 +3,7 @@
 2) slēdz līgumus ar Rēzeknes speciālās ekonomiskās zonas ieguldītājiem par ieguldījumiem uzņēmējdarbības veikšanai Rēzeknes speciālās ekonomiskās zonas teritorijā;
 3) slēdz līgumus ar Rēzeknes speciālās ekonomiskās zonas uzņēmējsabiedrībām par to uzņēmējdarbību Rēzeknes speciālās ekonomiskās zonas teritorijā;
 4) izsniedz Rēzeknes speciālās ekonomiskās zonas uzņēmējsabiedrībām atļauju uzņēmējdarbības veikšanai Rēzeknes speciālās ekonomiskās zonas teritorijā;
-5) nosaka brīvās zonas, to robežas un muitas noliktavas, saskaņojot ar Valsts ieņēmumu dienestu;
+5) nosaka brīvās zonas un to robežas, saskaņojot ar Valsts ieņēmumu dienestu šo zonu atbilstību brīvās zonas režīma ieviešanai;
 6) slēdz līgumus ar Rēzeknes speciālās ekonomiskās zonas uzņēmējsabiedrībām par Rēzeknes speciālās ekonomiskās zonas teritorijā esošās valsts vai pašvaldības zemes un cita nekustamā īpašuma iznomāšanu vai atsavināšanu;
 7) slēdz līgumus ar Rēzeknes speciālās ekonomiskās zonas uzņēmējsabiedrībām par atsevišķu saimniecisko funkciju nodošanu tām atsevišķās Rēzeknes speciālās ekonomiskās zonas apkalpošanas jomās vai atsevišķās Rēzeknes speciālās ekonomiskās zonas teritorijas daļās;
 8) kontrolē noslēgto līgumu izpildi;
