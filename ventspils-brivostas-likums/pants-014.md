@@ -11,8 +11,9 @@ apstiprinājusi Brīvostas valde;
 4) zvērinātu auditoru (revidentu) apstiprinātu gada pārskatu par diviem gadiem (vai ar Brīvostas valdes piekrišanu -
 saīsināta pārskata norakstu);
 5) darbības programmu, ietverot investīciju programmu;
-6) citu būtisku informāciju par uzņēmējsabiedrību (uzņēmumu) un tās dibinātājiem pēc Brīvostas valdes lēmuma.
+6) citu būtisku informāciju par uzņēmējsabiedrību (uzņēmumu) un tās dibinātājiem pēc Brīvostas valdes lēmuma;
+7) Valsts ieņēmumu dienesta izsniegtu izziņu par uzņēmējsabiedrības (uzņēmuma) teritorijas atbilstību brīvās zonas režīma ieviešanai.
 (4) Lēmumu par līguma slēgšanu ar pretendentu Brīvostas valde pieņem triju mēnešu laikā pēc šā panta trešajā daļā norādīto dokumentu iesniegšanas. Pretendenta iesniegumu noraida, ja nav šā panta pirmajā daļā minēto priekšnoteikumu.
 (5) Ja līguma noslēgšanas pretendents ir jaundibināmas uzņēmējsabiedrības (uzņēmuma) dibinātājs, lēmumu par līguma slēgšanu Brīvostas valde var pieņemt, pamatojoties uz dibināšanas dokumentu un darbības programmas projektiem, vienlaikus izsniedzot pagaidu atļauju. Lēmums par līguma slēgšanu ir spēkā sešus mēnešus. Ja šajā laikā uzņēmējsabiedrība (uzņēmums) nav nodibināta, lēmums zaudē spēku.
-(6) Līgumu par uzņēmējdarbību brīvās muitas zonas režīmā noslēdz uz laiku, kas nav mazāks par pieciem gadiem.
-(7) Līgums par uzņēmējdarbību brīvās muitas zonas režīmā ir pamats, lai izsniegtu atļauju uzņēmējdarbībai Brīvostā. Atļauju izsniedz uz līguma termiņu pēc tam, kad pārbaudīta uzņēmējsabiedrības (uzņēmuma) gatavība darbībai Brīvostā. Brīvostas pārvalde nodrošina atļauju uzskaiti.
+(6) Līgumu par uzņēmējdarbību brīvās zonas režīmā noslēdz uz laiku, kas nav mazāks par pieciem gadiem.
+(7) Līgums par uzņēmējdarbību brīvās zonas režīmā ir pamats, lai izsniegtu atļauju uzņēmējdarbībai Brīvostā. Atļauju izsniedz uz līguma termiņu pēc tam, kad pārbaudīta uzņēmējsabiedrības (uzņēmuma) gatavība darbībai Brīvostā. Brīvostas pārvalde nodrošina atļauju uzskaiti.

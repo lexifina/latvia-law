@@ -1,6 +1,6 @@
 3.pants. Brīvostas teritorija, struktūra un darbības pamatnoteikumi
 (1) Brīvosta ir Latvijas Republikas teritorijas daļa, kas atbilst Ministru kabineta noteiktajām Ventspils ostas robežām.
-(2) Brīvostas teritorijā uzņēmējdarbību var veikt licencētas uzņēmējsabiedrības, kā arī uzņēmējsabiedrības (uzņēmumi), kas nav saņēmušas atļauju uzņēmējdarbības veikšanai brīvās muitas zonas režīmā.
-(3) Šajā likumā noteiktie muitas atvieglojumi un īpašie muitas kontroles pasākumi piemērojami uzņēmējsabiedrībām (uzņēmumiem), kas noslēgušas ar Brīvostas pārvaldi līgumu par uzņēmējdarbību brīvās muitas zonas režīmā un šajā likumā noteiktajā kārtībā saņēmušas atļauju šādai darbībai, kā arī Brīvostas pārvaldei. Norādīto uzņēmējsabiedrību (uzņēmumu) teritorijas ir brīvās muitas zonas.
-(4) Ievest preces un citus priekšmetus Brīvostā esošajās brīvajās muitas zonās no Latvijas Republikas pārējās muitas teritorijas un izvest tos no minētajām zonām uz Latvijas Republikas pārējo muitas teritoriju drīkst tikai caur muitas robežas caurlaides punktiem Latvijas Republikas Muitas kodeksā, likumos un Ministru kabineta noteikumos paredzētajā kārtībā.
-(5) Ja no brīvajām muitas zonām tiek izvestas preces, kas Brīvostā esošajās brīvajās muitas zonās radītas no jauna vai pārstrādes rezultātā, un šo preču no jauna pievienotā vērtība atbilst 40 procentiem vai pārsniedz 40 procentus no preces kopējās vērtības, tad šīs preces ir atzīstamas par Latvijas izcelsmes precēm.
+(2) Brīvostas teritorijā uzņēmējdarbību var veikt licencētas uzņēmējsabiedrības, kā arī uzņēmējsabiedrības (uzņēmumi), kas nav saņēmušas atļauju uzņēmējdarbības veikšanai brīvās zonas režīmā.
+(3) (Izslēgta ar 27.07.2001. likumu)
+(4) Ievest preces un citus priekšmetus Brīvostā esošajās brīvajās zonās no Latvijas Republikas pārējās muitas teritorijas un izvest tos no minētajām zonām uz Latvijas Republikas pārējo muitas teritoriju drīkst tikai caur muitas robežas caurlaides punktiem Muitas likumā, likumos un Ministru kabineta noteikumos paredzētajā kārtībā.
+(5) (Izslēgta ar 27.07.2001. likumu)
