@@ -1,2 +1,2 @@
 Otrā apakšnodaļa
-Ārlaulībā dzimušu bērnu izcelšanās noteikšana
+Adopcija
