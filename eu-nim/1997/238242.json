@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Aizsargjoslu likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "56/57 (771/772)",
+  "official_journal_page": null,
+  "official_journal_date": "1997-02-25",
+  "entry_into_force": "1997-03-11",
+  "notification_date": "2016-06-07",
+  "commission_reference": "MNE(2016)53835",
+  "nim_celex": "72013L0030LVA_238242",
+  "nim_id": "238242",
+  "transposes_celex": [
+    "32013L0030"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3511331e-a21b-4565-a72a-3b30e7efca24",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
