@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Autortiesību likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-01",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-06-21",
+  "commission_reference": "MNE(2004)59215",
+  "nim_celex": "72001L0029LVA_29215",
+  "nim_id": "29215",
+  "transposes_celex": [
+    "32001L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/854c152c-5660-4c06-b17b-4392ccef6055",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
