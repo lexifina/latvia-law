@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2005.gada 8.marta noteikumi Nr.175 „Recepšu veidlapu izgatavošanas un uzglabāšanas, kā arī recepšu izrakstīšanas un uzglabāšanas noteikumi”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "48 (3206)",
+  "official_journal_page": null,
+  "official_journal_date": "2005-03-23",
+  "entry_into_force": "2005-03-24",
+  "notification_date": "2013-11-28",
+  "commission_reference": "MNE(2013)59281",
+  "nim_celex": "72012L0052LVA_211005",
+  "nim_id": "211005",
+  "transposes_celex": [
+    "32012L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/33a09486-9807-4231-9d81-3f36ff770616",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
