@@ -1,2 +1,3 @@
-14. pants. Pienākums sniegt ziņas par nozveju
-Juridiskajām un fiziskajām personām, kas nodarbojas ar rūpniecisko zveju, ir pienākums sniegt ziņas par nozveju tādā kārtībā un tādos termiņos, kādi noteikti zvejas tiesību nomas līgumā un rūpnieciskās zvejas noteikumos.
+14. pants. Pienākums sniegt informāciju par darbībām, kas saistītas ar zveju
+(1) Juridiskajām un fiziskajām personām, kas nodarbojas ar rūpniecisko zveju, ir pienākums sniegt ziņas par nozveju tādā kārtībā un tādos termiņos, kādi noteikti zvejas tiesību nomas līgumā un rūpnieciskās zvejas noteikumos.
+(2) Informācija par zveju, zvejas pārkāpumiem, zivju izkraušanu, zivju cenām, zvejas kuģu sarakstiem un zvejnieku un zivju pircēju reģistrāciju tiek apkopota Zivsaimniecības pārvaldes datorizētajā informācijas sistēmā. Jūras vides pārvalde, reģionālās vides pārvaldes un Satiksmes ministrijas Latvijas Jūras administrācijas Kuģu reģistrs sniedz nepieciešamo informāciju sistēmas datu bāzes nodrošināšanai.

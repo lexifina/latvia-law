@@ -1,5 +1,5 @@
 9. pants. Tauvas josla
-(1) Ar zveju vai kuģošanu un citām ar to saistītām darbībām gar ūdeņu krastiem ir nosakāma tauvas josla. Tauvas josla nav jānosaka, ja privātie ūdeņi un tiem piegulošās sauszemes daļa pieder vienam un tam pašam īpašniekam un zvejas tiesības šajos ūdeņos nepieder valstij.
+(1) Ar zveju vai kuģošanu un citām ar to saistītām darbībām gar ūdeņu krastiem ir nosakāma tauvas josla. Tauvas josla nav jānosaka, ja privātie ūdeņi visā to platībā un tiem piegulošās sauszemes daļa pieder vienam un tam pašam īpašniekam un zvejas tiesības šajos ūdeņos nepieder valstij.
 (2) Tauvas josla gar jūras piekrasti ir norobežojama ar speciālām zīmēm, zemes īpašumu plānos tā apzīmējama kā lietošanas tiesību ierobežojums.
 (3) Gar upēm un ezeriem tauvas josla nav jānorobežo ar speciālām zīmēm; zemes īpašumu plānos tā apzīmējama kā lietošanas tiesību ierobežojums.
 (4) Tauvas josla gar mākslīgi izbūvētiem kanāliem, hidrotehniskām būvēm un citām būvēm uz ūdens (mākslīgi izbūvēta tauvas josla) nosakāma saskaņā ar šo būvju plāniem. To uztur un apsaimnieko attiecīgie īpašnieki (lietotāji).
