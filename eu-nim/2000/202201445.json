@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 1999. gada 18. maija noteikumi Nr. 178 \"Kārtība, kādā norādāmas preču un pakalpojumu cenas\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "167/168",
+  "official_journal_page": null,
+  "official_journal_date": "1999-05-21",
+  "entry_into_force": "2000-01-01",
+  "notification_date": "2022-03-04",
+  "commission_reference": "MNE(2022)01445",
+  "nim_celex": "72019L2161LVA_202201445",
+  "nim_id": "202201445",
+  "transposes_celex": [
+    "32019L2161"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/11b9ca04-a11b-11ec-83e1-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
