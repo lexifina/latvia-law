@@ -1,0 +1,1 @@
+1.pants. 1996.gada 19.aprīlī Rīgā parakstītais Latvijas Republikas un Slovākijas Republikas brīvās tirdzniecības līgums (turpmāk - Līgums), saprašanās memorands (turpmāk - Memorands), Līguma 38.pantā minētie pielikumi (turpmāk - Pielikumi) un protokoli (turpmāk - Protokoli) ar šo likumu tiek pieņemti un apstiprināti.
