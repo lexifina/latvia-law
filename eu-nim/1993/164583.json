@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Civillikums. Ceturtā daļa \"Saistību tiesības\"",
+  "type_of_act": "Likums",
+  "official_journal": "LR Saeimas un Ministru Kabineta Ziņotājs",
+  "official_journal_reference": "4",
+  "official_journal_page": null,
+  "official_journal_date": "1992-01-30",
+  "entry_into_force": "1993-03-01",
+  "notification_date": "2009-11-03",
+  "commission_reference": "MNE(2009)54641",
+  "nim_celex": "72007L0036LVA_164583",
+  "nim_id": "164583",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/57a0f250-9631-4619-9be3-cd8918c4ae14",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
