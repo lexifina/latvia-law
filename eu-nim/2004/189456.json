@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "MK 17.02.2004. noteikumi Nr.82 \"Ugunsdrošības noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "28 (2976)",
+  "official_journal_page": null,
+  "official_journal_date": "2004-02-20",
+  "entry_into_force": "2004-02-21",
+  "notification_date": "2012-02-23",
+  "commission_reference": "MNE(2012)51043",
+  "nim_celex": "72002L0091LVA_189456",
+  "nim_id": "189456",
+  "transposes_celex": [
+    "32002L0091"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ad93f136-8392-4ad3-b40e-6ef363a52017",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
