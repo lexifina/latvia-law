@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums Par radiācijas drošību un kodoldrošību",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "394/395 (2305/2306), 07.1",
+  "official_journal_page": null,
+  "official_journal_date": "2010-11-07",
+  "entry_into_force": "2000-11-21",
+  "notification_date": "2018-01-23",
+  "commission_reference": "MNE(2018)50537",
+  "nim_celex": "72013L0059LVA_255048",
+  "nim_id": "255048",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f83bbc51-7ca9-41f3-a57b-ec94a84c55b8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
