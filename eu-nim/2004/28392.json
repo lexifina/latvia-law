@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Obligātās nekaitīguma prasības ar jonizējošo starojumu apstrādātai pārtikai un papildu prasības tās marķējumam",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "68",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-05-26",
+  "commission_reference": "MNE(2004)58392",
+  "nim_celex": "71999L0002LVA_28392",
+  "nim_id": "28392",
+  "transposes_celex": [
+    "31999L0002",
+    "31999L0003"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/603ae1b4-a10b-41c4-ab81-f1c534e22a0a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
