@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Patērētāju tiesību aizsardzības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "104/105",
+  "official_journal_page": null,
+  "official_journal_date": "1999-04-01",
+  "entry_into_force": "1999-04-15",
+  "notification_date": "2011-01-05",
+  "commission_reference": "MNE(2011)50052",
+  "nim_celex": "72008L0048LVA_175627",
+  "nim_id": "175627",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/deeebf2b-dc9e-4340-8d19-5d4fb523af44",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
