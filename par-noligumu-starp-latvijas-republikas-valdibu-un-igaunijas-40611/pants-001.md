@@ -1,0 +1,1 @@
+1.pants. 1996.gada 10.jūlijā Rīgā parakstītais nolīgums starp Latvijas Republikas valdību un Igaunijas Republikas valdību par valsts robežas šķērsošanas vietām (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
