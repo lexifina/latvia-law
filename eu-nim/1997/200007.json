@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Farmācijas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "103",
+  "official_journal_page": null,
+  "official_journal_date": "1997-04-24",
+  "entry_into_force": "1997-05-08",
+  "notification_date": "2013-01-09",
+  "commission_reference": "MNE(2013)50244",
+  "nim_celex": "72011L0062LVA_200007",
+  "nim_id": "200007",
+  "transposes_celex": [
+    "32011L0062"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7ab131a6-da85-4960-9774-2e91bb16a55a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
