@@ -1,1 +1,1 @@
-1. Ekonomikas ministrs līdz 1999.gada 1.aprīlim apstiprina bezpeļņas organizācijas valsts sabiedrības ar ierobežotu atbildību "Latvijas Nacionālais metroloģijas centrs" statūtus un iesniedz reģistrācijai Uzņēmumu reģistrā.
+1. Ekonomikas ministrs līdz 1999.gada 1.aprīlim apstiprina valsts bezpeļņas sabiedrības ar ierobežotu atbildību "Latvijas Nacionālais metroloģijas centrs" statūtus un iesniedz reģistrācijai Latvijas Republikas Uzņēmumu reģistrā.

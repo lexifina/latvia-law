@@ -1,6 +1,6 @@
 14.pants. Metroloģijas centrs
 (1) Metroloģijas centrs ir atbildīgs par šā likuma un citu normatīvo aktu ievērošanu.
-(2) Metroloģijas centrs ir bezpeļņas organizācija valsts sabiedrība ar ierobežotu atbildību un atrodas Ekonomikas ministrijas pārziņā. Metroloģijas centra statūtus apstiprina ekonomikas ministrs.
+(2) Metroloģijas centrs ir valsts bezpeļņas sabiedrība ar ierobežotu atbildību un atrodas Ekonomikas ministrijas pārziņā. Metroloģijas centra statūtus apstiprina ekonomikas ministrs.
 (3) Metroloģijas centra galvenie uzdevumi ir:
 1) piedalīties reglamentētās metroloģijas normatīvo dokumentu izstrādāšanā;
 2) nodrošināt fizikālo lielumu mērvienību etalonu bāzi un mērvienību reproducēšanu;
