@@ -1,0 +1,1 @@
+1.pants. 1999.gada 27.oktobrī Rīgā parakstītais Latvijas Republikas valdības un Polijas Republikas valdības nolīgums par jūras transportu (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
