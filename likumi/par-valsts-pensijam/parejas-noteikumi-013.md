@@ -2,16 +2,25 @@
 apdrošināšanas periods līdz 1995.gadam (ieskaitot) tiks kreditēts ar sākuma kapitālu (Ks), ko var palielināt ar turpmākām iemaksām saskaņā ar šā likuma 12.panta pirmās daļas noteikumiem:
 Ks=Vi x As x 0.2
 As - apdrošināšanas stāžs par periodu līdz 1995.gadam (ieskaitot),
-Vi - gada vidējā apdrošināšanas iemaksu alga, kas piemērota 1996.gada algu līmenim.
+Vi - gada vidējā apdrošināšanas iemaksu alga, kas ar 1997.gadu, ņemot vērā pensijas kapitāla gada pieaugumu, ir piemērojama 1996.gada iemaksu algu līmenim.
 Atkarībā no pensijā aiziešanas laika (ja nepieciešams, piemērojot šā likuma 33.pantu) vidējā apdrošināšanas iemaksu alga nosakāma šādā veidā:
 Aizejot pensijā:
 1996. gadā -
 Vi ir vidējā apdrošināšanas iemaksu alga 1995.gadā;
 1997. gadā -
-Vi ir apdrošinātās personas vidējā apdrošināšanas iemaksu alga 1996. gadā;
+Vi ir apdrošinātās personas vidējā apdrošināšanas iemaksu alga 1996. gadā. Ja 1996.gadā pensijas pieprasītājs ir nostrādājis mazāk par 12 mēnešiem, vidējā apdrošināšanas iemaksu alga nosakāma, dalot apdrošināšanas iemaksu algu summu par 1996.gadā nostrādātajiem mēnešiem ar 12;
 1998. gadā -
 Vi ir apdrošinātās personas pēc kārtas sekojošu 12 mēnešu vidējā apdrošināšanas iemaksu alga laika periodā no 1996. līdz 1998. gadam. Ja šajā periodā pensijas pieprasītājs ir nostrādājis mazāk par 12 mēnešiem, vidējā apdrošināšanas iemaksu alga nosakāma, dalot apdrošināšanas iemaksu algu summu par minētajā periodā esošajiem mēnešiem ar 12;
 1999. gadā -
 Vi ir apdrošinātās personas pēc kārtas sekojošu 24 mēnešu vidējā apdrošināšanas iemaksu alga laika periodā no 1996. līdz 1999. gadam. Ja šajā periodā pensijas pieprasītājs ir nostrādājis mazāk par 24 mēnešiem, vidējā apdrošināšanas iemaksu alga nosakāma, dalot apdrošināšanas iemaksu algu summu par minētajā periodā esošajiem mēnešiem ar 24;
 2000. gadā un turpmākajos gados -
 Vi ir apdrošinātās personas pēc kārtas sekojošu 36 mēnešu vidējā apdrošināšanas iemaksu alga laika periodā no 1996. līdz 2000. gadam. Ja šajā periodā pensijas pieprasītājs ir nostrādājis mazāk par 36 mēnešiem, vidējā apdrošināšanas iemaksu alga nosakāma, dalot apdrošināšanas iemaksu algu summu par minētajā periodā esošajiem mēnešiem ar 36.
+Ja persona pēc šā likuma spēkā stāšanās līdz pensijas pieprasīšanas dienai nav strādājusi vai strādāt sākusi pēc 2000.gada, - Vi no 1997.gada ir valstī noteiktā minimālā darba alga. Attiecībā uz invalīdiem piemērojama šo pārejas noteikumu 18.punktā noteiktā kārtība.
+Pārejas periodā vecuma pensija aprēķināma pēc šādas formulas:
+Ks + K
+P = ----
+G
+P - gada pensija, kuras divpadsmitā daļa ir mēneša pensija;
+Ks - sākuma kapitāls, kāds noteikts šā punkta otrajā daļā;
+K - pensijas kapitāls, kāds noteikts šā likuma 12.panta pirmajā daļā;
+G - laikposms (gados), par kuru no pensijas piešķiršanas gada tiek plānota vecuma pensijas izmaksa.

@@ -11,6 +11,7 @@ AS - apdrošināšanas stāža pilni gadi,
 5) pārrēķinot pensiju, ņemami vērā šā likuma 25.pantā noteiktie pensijas pārrēķināšanas termiņi;
 6) pensija palielināma šā likuma 26.pantā noteiktajā kārtībā, ievērojot šo pārejas noteikumu 15.punktu;
 7) politiski represētajām personām agrāk piešķirtās vecuma pensijas pārrēķināmas, piemērojot koeficientu 1,1;
-8) pārejot no viena pensijas veida uz otru, ievērojami šā likuma 25.panta noteikumi;
+8) pārejot no viena pensijas veida uz citu, personām, kuras šajā likumā noteikto vecuma pensijas piešķiršanai nepieciešamo vecumu bija sasniegušas līdz šā likuma spēkā stāšanās dienai, pensija netiek piešķirta no jauna; šajos gadījumos ievērojami šā likuma 25.panta noteikumi un šā punkta 1.apakšpunktā noteiktā pensijas aprēķināšanas kārtība;
 9) pensijas izmaksa veicama šā likuma IV nodaļā noteiktajā kārtībā;
-10) piešķirot pensiju no jauna, tā piešķirama šajā likumā noteiktajā kārtībā.
+10) piešķirot pensiju no jauna, tā piešķirama šajā likumā noteiktajā kārtībā;
+11) agrāk piešķirtā valsts pensija, kuras izmaksa pārtraukta likumā noteiktajos gadījumos, atjaunojama ar dienu, kad no jauna iegūtas tiesības uz pārtraukto pensiju, ja no pensijas izmaksas pārtraukšanas mēneša nav pagājuši vairāk kā pieci gadi. Pēc minētā termiņa izbeigšanās valsts pensija piešķirama no jauna.

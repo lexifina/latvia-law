@@ -2,8 +2,8 @@
 (1) Valsts pensijas apmērs ir atkarīgs no apdrošināšanas stāža.
 (2) Apdrošināšanas stāžu veido apdrošināšanas iemaksu periodi, kuru laikā:
 1) apdrošināšanas iemaksas izdarījis darba devējs vai apdrošinātā persona pati (darba devējs un apdrošinātā persona);
-2) apdrošinātā persona atzīta par invalīdu, nestrādā un par šo personu no Valsts sociālās apdrošināšanas fonda izdarītas apdrošināšanas iemaksas;
-3) apdrošinātā persona atzīta par invalīdu sakarā ar nelaimes gadījumu darbā vai arodslimību, nestrādā un par šo personu no Darba negadījumu un arodslimību apdrošināšanas fonda izdarītas apdrošināšanas iemaksas;
+2) apdrošinātā persona atzīta par invalīdu, nestrādā un par šo personu no Valsts sociālās apdrošināšanas fonda izdarītas apdrošināšanas iemaksas. Aprēķinot vecuma pensiju, minētās apdrošinātās personas invaliditātes laiks ņemams vērā tikai līdz vecuma pensijas piešķiršanai nepieciešamā vecuma sasniegšanai;
+3) apdrošinātā persona atzīta par invalīdu sakarā ar nelaimes gadījumu darbā vai arodslimību, nestrādā un par šo personu no Darba negadījumu un arodslimību apdrošināšanas fonda izdarītas apdrošināšanas iemaksas. Aprēķinot vecuma pensiju, minētās apdrošinātās personas invaliditātes laiks ņemams vērā tikai līdz vecuma pensijas piešķiršanai nepieciešamā vecuma sasniegšanai;
 4) apdrošinātā persona, būdama bez darba, saņem bezdarbnieka pabalstu un par šo personu no Nodarbinātības fonda izdarītas apdrošināšanas iemaksas;
 5) persona, nebūdama darbā slimības dēļ, saņem slimības vai maternitātes pabalstu un par šo personu no Valsts sociālās apdrošināšanas fonda izdarītas apdrošināšanas iemaksas.
 (3) Ja apdrošināšanas iemaksas izdarītas no valsts pamatbudžeta, apdrošināšanas stāžu veido arī šādi apdrošināšanas iemaksu periodi:

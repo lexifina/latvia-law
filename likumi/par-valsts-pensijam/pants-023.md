@@ -4,5 +4,5 @@
 2) diviem bērniem - 75 procenti no pensijas;
 3) trim un vairāk bērniem - 90 procenti no pensijas.
 (2) Bērniem, kuri zaudējuši abus vecākus, apgādnieka zaudējuma pensiju aprēķina šā panta pirmajā daļā noteiktajā kārtībā, ņemot vērā abu vecāku iespējamo vecuma pensiju.
-(3) Iespējamā vecuma pensija aprēķināma šā likuma 12. panta pirmajā daļā noteiktajā kārtībā, pieņemot, ka līdz dienai, kad apgādnieks būtu sasniedzis vecuma pensijas piešķiršanai nepieciešamo vecumu, ir izdarītas apdrošināšanas iemaksas no apgādnieka apdrošināšanas iemaksu vidējās algas darba periodā.
+(3) Iespējamā vecuma pensija aprēķināma šā likuma 12.panta pirmajā daļā noteiktajā kārtībā, pieņemot, ka līdz dienai, kad apgādnieks sasniegtu vecuma pensijas piešķiršanai nepieciešamo vecumu, ir izdarītas apdrošināšanas iemaksas, kādas apgādniekam vidēji bija darba periodā, bet, ja darba ienākumu nav bijis, - no valstī noteiktās minimālās darba algas.
 (4) Šajā pantā noteiktajā kārtībā aprēķinātās pensijas kopējais apmērs nedrīkst būt mazāks par valsts sociālā nodrošinājuma pabalsta apmēru.
