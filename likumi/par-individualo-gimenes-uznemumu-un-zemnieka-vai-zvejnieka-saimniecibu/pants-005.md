@@ -1,0 +1,4 @@
+5. pants. Uzņēmuma pārvalde
+Reģistrējot ģimenes uzņēmumu, jāuzrāda, kurš no ģimenes locekļiem būs īpašnieku pārstāvis. Šādas ziņas ir saistošas pašiem ģimenes locekļiem, kā arī trešajām personām, un tās tiek atspoguļotas individuālā uzņēmuma reģistrācijas pieteikumā Latvijas Republikas Uzņēmumu reģistram, bet reģistrācijas apliecība tiek izdota uz attiecīgās personas vārda.
+Uzņēmuma pārvaldes formu nosaka īpašnieks. Individuālā uzņēmuma īpašnieks var pārvaldīt savu uzņēmumu ar pārvaldnieka vai koleģiālas pārvaldes institūcijas starpniecību. Tādā gadījumā pilnvarojums uzņēmuma īpašnieka vārdā rīkoties ar uzņēmuma mantu un pārstāvēt uzņēmuma īpašnieku tiek fiksēts uzņēmuma statūtos vai nolikumā.
+Ja uzņēmums nepieņem statūtus vai neizstrādā nolikumu, uzņēmuma pārvaldnieka pilnvarojums uzņēmuma īpašnieka vārdā rīkoties ar uzņēmuma mantu un pārstāvēt uzņēmuma īpašnieku tiek fiksēts uzņēmuma īpašnieka un pārvaldnieka darba līgumā.

@@ -1,0 +1,2 @@
+6. pants. Individuālā (ģimenes) uzņēmuma un zemnieka saimniecības reģistrācija
+Individuālais (ģimenes) uzņēmums un zemnieka saimniecība jāreģistrē Latvijas Republikas Uzņēmumu reģistrā saskaņā ar Latvijas Republikas likumu «Par uzņēmējdarbību» un Latvijas Republikas 1990. gada 20. novembra likumu «Par Latvijas Republikas Uzņēmumu reģistru» (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1990, 49)
