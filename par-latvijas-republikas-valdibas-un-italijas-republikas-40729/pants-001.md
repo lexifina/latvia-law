@@ -1,0 +1,1 @@
+1.pants. 1996.gada 3.aprīlī Rīgā parakstītais Latvijas Republikas valdības un Itālijas Republikas valdības nolīgums par pasažieru un kravu starptautiskajiem pārvadājumiem ar autotransportu (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
