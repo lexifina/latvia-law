@@ -1,0 +1,1 @@
+2. Izglītojamajiem, kas uzsākuši arodizglītības vai vidējās speciālās izglītības programmu apguvi pirms šā likuma spēkā stāšanās, izglītību un profesionālo kvalifikāciju apliecinošus dokumentus pēc noslēguma pārbaudījumu nokārtošanas izsniedz kārtībā, kāda bija spēkā līdz šā likuma spēkā stāšanās dienai.

@@ -1,0 +1,5 @@
+14.pants. Profesionālās izglītības iestāžu dibināšanas, reorganizēšanas un likvidācijas kārtība
+(1) Valsts profesionālās izglītības iestādes dibina, reorganizē un likvidē Ministru kabinets pēc Izglītības un zinātnes ministrijas vai citas ministrijas ierosinājuma.
+(2) Pašvaldību profesionālās izglītības iestādes dibina, reorganizē un likvidē attiecīgo pašvaldību domes (padomes), saskaņojot ar Izglītības un zinātnes ministriju.
+(3) Privātās profesionālās izglītības iestādes dibina, reorganizē un likvidē juridiskās un fiziskās personas. Valsts un pašvaldības var piedalīties privāto izglītības iestāžu dibināšanā.
+(4) Profesionālās izglītības iestāžu reģistrācijas kārtību nosaka Izglītības likums.

@@ -1,0 +1,2 @@
+18.pants. Tiesības strādāt par pedagogu profesionālās izglītības iestādē
+Tiesības strādāt par pedagogu profesionālās izglītības iestādē ir personai, kurai ir atbilstoša profesionālā izglītība (kvalifikācija) un pedagoģiskā izglītība vai kurai ir atbilstoša profesionālā izglītība (kvalifikācija) un kura apgūst pedagoģisko izglītību, kas atbilst Ministru kabineta noteiktajām profesionālās izglītības iestādes pedagoga profesionālās kvalifikācijas prasībām.
