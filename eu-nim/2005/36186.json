@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2001.gada 27.februāra noteikumos Nr.86 \"Noteikumi par obligātajām nekaitīguma prasībām pārtikai, kurā izmantotas pārtikas piedevas",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "42",
+  "official_journal_page": null,
+  "official_journal_date": "2005-03-11",
+  "entry_into_force": "2005-03-12",
+  "notification_date": "2005-03-17",
+  "commission_reference": "MNE(2005)56186",
+  "nim_celex": "72003L0115LVA_36186",
+  "nim_id": "36186",
+  "transposes_celex": [
+    "32003L0115"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9553e0a3-77c5-40d8-8f9b-ccaae41a2efc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
