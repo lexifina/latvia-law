@@ -1,0 +1,1 @@
+10. Ja šo pārejas noteikumu 6.punktā minētās sabiedrības sākotnēji noslēgtais līgums paredz ieguldītāju atbildību par sabiedrības saistībām vai darījumiem, kuri veikti uz fonda ieguldītāju kopējā rēķina, vai attiecīgo prasījumu piedziņu no mantas, kura iegūta uz fonda ieguldītāju kopējā rēķina, šie prasījumi paliek spēkā.

@@ -1,0 +1,1 @@
+9. Katrs fonda ieguldītājs neatkarīgi no sākotnējiem līguma (prospekta) noteikumiem triju mēnešu laikā pēc līguma (prospekta) grozījumu publicēšanas laikrakstā "Latvijas Vēstnesis" var pieprasīt, lai šo pārejas noteikumu 6.punktā minētās sabiedrības atmaksā viņa ieguldījumu. Ar atmaksāšanu saistītās prasības tiek apmierinātas atbilstoši sākotnējiem līguma (prospekta) noteikumiem.

@@ -1,0 +1,1 @@
+6. Publiskajām akciju sabiedrībām, kuras ir saņēmušas licences kopīgo ieguldījumu sabiedrības darbībai, šīs licences un izveidoto fondu licences triju mēnešu laikā no šā likuma spēkā stāšanās dienas jāreģistrē Komisijā. Šādā gadījumā licences paliek spēkā.

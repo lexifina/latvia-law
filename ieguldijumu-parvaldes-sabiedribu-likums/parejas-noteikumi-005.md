@@ -1,0 +1,1 @@
+5. Personām, kuras nav minētas šā likuma pārejas noteikumu 2. un 6. punktā un kuras, stājoties spēkā šim likumam, veic šajā likumā regulēto darbību, bet nav bankas, ir jāpārtrauc šī darbība vai tā jāsaskaņo ar šo likumu.

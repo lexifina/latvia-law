@@ -1,0 +1,1 @@
+8. Saskaņā ar šo pārejas noteikumu 7.punktu fonda prospektā izdarītie grozījumi stājas spēkā arī bez fonda ieguldītāju piekrišanas pēc trim mēnešiem no dienas, kad šie grozījumi publicēti laikrakstā "Latvijas Vēstnesis".

@@ -1,0 +1,3 @@
+12.pants. Sabiedrības līdzekļu ieguldīšanas ierobežojumi
+(1) Sabiedrībai nav tiesību ieguldīt savus līdzekļus citā ieguldījumu sabiedrībā, kā arī iegādāties pašas pārvaldāmā fonda ieguldījumu apliecības.
+(2) Šā panta pirmajā daļā noteiktie ierobežojumi, kas attiecas uz sabiedrības pašas pārvaldāmā fonda ieguldījumu apliecību iegūšanu, nav attiecināmi uz gadījumiem, kad ieguldījumu sabiedrība pārņem citas sabiedrības izveidota fonda pārvaldi. Šādā gadījumā sešu mēnešu laikā no pārņemšanas pabeigšanas dienas sabiedrībai ir jāveic pasākumi, lai tās turpmākā darbība atbilstu šā panta pirmās daļas noteikumiem.

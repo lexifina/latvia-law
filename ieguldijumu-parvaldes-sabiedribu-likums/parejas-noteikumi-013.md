@@ -1,0 +1,1 @@
+13. Komisija triju mēnešu laikā pēc šā likuma izsludināšanas apstiprina un publicē ieguldījumu sabiedrību un fondu licencēšanas kārtību. Ja Komisija nav apstiprinājusi šo kārtību, tiek piemēroti attiecīgie Ministru kabineta noteikumi.
