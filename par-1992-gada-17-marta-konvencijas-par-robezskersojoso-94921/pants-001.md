@@ -1,0 +1,1 @@
+1.pants. 1992.gada 17.marta Konvencijas par robežšķērsojošo ūdensteču un starptautisko ezeru aizsardzību un izmantošanu Protokols par ūdeni un veselību (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
