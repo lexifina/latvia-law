@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Darba aizsardzības prasības, saskaroties ar bioloģiskajām vielām",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "78 (2653)",
+  "official_journal_page": null,
+  "official_journal_date": "2002-05-24",
+  "entry_into_force": "2003-01-01",
+  "notification_date": "2013-05-08",
+  "commission_reference": "MNE(2013)53368",
+  "nim_celex": "72010L0032LVA_203924",
+  "nim_id": "203924",
+  "transposes_celex": [
+    "32010L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7a5c6414-d5ad-4281-9f84-c6acb6170b77",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
