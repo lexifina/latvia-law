@@ -1,4 +1,4 @@
 20.pants. Valsts vai pašvaldības pamatkapitāla (statūtu fonda) daļas privatizācija
-(1) Valstij vai pašvaldībai piederošo pamatkapitāla (statūtu fonda) daļu statūtsabiedrībā privatizē likumā noteiktajā kārtībā.
+(1) Valstij vai pašvaldībai piederošo pamatkapitāla (statūtu fonda) daļu statūtsabiedrībā privatizē vai atsavina likumā noteiktajā kārtībā.
 (2) Bijušajam īpašniekam vai viņa mantiniekiem rezervēto pamatkapitāla (statūtu fonda) daļu statūtsabiedrībā var atsavināt likumā noteiktajā kārtībā, ja mēneša laikā pēc 1994. gada 6. oktobra likuma «Grozījumi likumā «Par īpašuma tiesību atjaunošanu uz uzņēmumiem un citiem īpašuma objektiem»» spēkā stāšanās dienas nav iesniegts pieteikums par īpašuma tiesību atjaunošanu.
 Piezīme. 20. panta otrās daļas nosacījums nav piemērojams, ja laikā no 1994. gada 1. jūlija līdz 1994. gada 6. oktobra likuma «Grozījumi likumā «Par īpašuma tiesību atjaunošanu uz uzņēmumiem un citiem īpašuma objektiem»» spēkā stāšanās dienai likumā noteiktajā kārtībā ir pieņemts lēmums par pamatkapitāla (statūtu fonda) daļas atsavināšanu un ir iesniegts privatizācijas pieteikums.

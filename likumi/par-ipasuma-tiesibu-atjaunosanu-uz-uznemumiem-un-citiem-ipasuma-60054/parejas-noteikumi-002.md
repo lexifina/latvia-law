@@ -1,0 +1,1 @@
+2. Šā likuma 5.panta pirmās daļas 1.punktā un 21.panta sestajā daļā paredzētās Ekonomikas ministrijas un Valsts nekustamā īpašuma aģentūras funkcijas veic Privatizācijas aģentūra līdz brīdim, kad saskaņā ar Ministru kabineta rīkojumu tā šīs funkcijas ir nodevusi Ekonomikas ministrijai un Valsts nekustamā īpašuma aģentūrai.
