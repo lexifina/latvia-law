@@ -8,7 +8,7 @@ Likumā ir lietoti šādi termini:
 6) mērījumu vienotība - mērāmo lielumu izteikšana likumā noteiktajās mērvienībās ar nosacījumu, ka mērījumu rezultātu vērtības reproducētas no nacionālajiem vai starptautiskajiem mērvienības etaloniem un rezultātu kļūda zināma ar novērtētu nenoteiktību;
 7) mērīšanas līdzeklis - ierīce, kura paredzēta mērījumu veikšanai patstāvīgi vai kopā ar papildu ierīcēm;
 8) mērīšanas līdzekļa tipa apstiprināšana - Nacionālā reglamentētās metroloģijas dienesta oficiāls lēmums, kas atzīst mērīšanas līdzekļa tipa atbilstību noteiktām prasībām;
-9) mērīšanas metode - vispusīgi aprakstīts secīgu darbību kopums mērīšanas veikšanai;
+9) mērīšanas process - secīgi veiktu darbību kopums mērāmā lieluma vērtības noteikšanai;
 10) mērvienības etalons - materiāls mērs, mērīšanas līdzeklis, atsauces materiāls vai mērīšanas sistēma, kura paredzēta mērvienības, viena vai vairāku lielumu vērtības noteikšanai, realizēšanai, saglabāšanai vai reproducēšanai;
 11) nacionālais mērvienības etalons - ar Ministru kabineta normatīvu aktu atzīts etalons, kas kalpo par noteikta lieluma bāzi citiem ar to saistītiem lieluma etaloniem valstī;
 12) reglamentētā metroloģija - metroloģijas nozare, kas ietver tās prasības un normas, kuras nosaka un kontrolē valsts;
