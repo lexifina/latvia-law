@@ -1,0 +1,1 @@
+13. pants. Likums stājas spēkā ar tā izsludināšanas dienu un nav piemērojams personām, kuras izdarījušas noziegumu pēc šā likuma pieņemšanas. Personām, kuras izdarījušas ilgstošus un turpinātus noziegumus, amnestiju piemēro tikai tad, ja tie pabeigti līdz šā likuma pieņemšanai.

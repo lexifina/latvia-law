@@ -1,0 +1,1 @@
+6. pants. Notiesātajiem ar brīvības atņemšanu, kuriem spriedums, stājies likumīgā spēka, amnestiju ar motivētu lēmumu piemēro komisija, kuras sastāvu un darba kārtību apstiprina iekšlietu ministrs. Komisijas sēdēs jāpiedalās prokuroram. Komisijas lēmumu var noprotestēt vai pārsūdzēt tiesā Latvijas Kriminālprocesa kodeksa 374. pantā noteiktajā kārtībā.

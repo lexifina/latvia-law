@@ -1,0 +1,1 @@
+4. pants. Pārējām personām, kuras notiesātas ar reālu brīvības atņemšanas sodu un iepriekš nav sodītas ar reālu brīvības atņemšanas sodu par šā likuma 5. panta 1. un 2. punktā minētajiem noziegumiem, neizciestā brīvības atņemšanas soda daļu samazināt par vienu gadu.
