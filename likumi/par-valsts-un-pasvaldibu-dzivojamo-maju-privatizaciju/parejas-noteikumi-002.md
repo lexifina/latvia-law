@@ -1,0 +1,1 @@
+2. Ikvienu pašvaldības dzīvojamo māju, kura līdz šā likuma spēkā stāšanās dienai nodota ekspluatācijā, un tajā esošos dzīvokļus var atsavināt, vienīgi privatizējot tos šajā likumā noteiktajā kārtībā, bet valsts dzīvojamo māju un tajā esošos dzīvokļus - vispirms nododot pašvaldībai un tad privatizējot tos šajā likumā noteiktajā kārtībā.

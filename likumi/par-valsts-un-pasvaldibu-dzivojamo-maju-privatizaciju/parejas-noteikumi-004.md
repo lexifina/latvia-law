@@ -1,0 +1,1 @@
+4. Ar šā likuma spēkā stāšanās dienu aizliegts pārdot valsts un pašvaldību dzīvokļu īres tiesības, izņemot likumā "Par kompensācijas izmaksu izceļotājiem, kuri atbrīvo dzīvokļus" paredzētos gadījumus.

@@ -1,0 +1,4 @@
+66.pants. Dzīvojamās mājas privatizācijas tehniskās izpildes apmaksa un nodokļi (nodevas)
+(1) Par dzīvojamās mājas privatizācijas tehnisko izpildi, kā arī par pakalpojumiem, kas saistīti ar dzīvojamās mājas privatizāciju, visas personas norēķinās Ministru kabineta noteiktajā kārtībā un apmēros.
+(2) Par dzīvojamās mājas privatizācijas tehnisko izpildi, kā arī par pakalpojumiem, kas saistīti ar dzīvojamās mājas privatizāciju, fiziskās personas norēķinās privatizācijas sertifikātos, bet juridiskās personas - latos.
+(3) Darījumus (līgumus, vienošanās), kurus slēdz privatizācijas komisija ar privatizācijas objektu pircējiem, kā arī privatizācijas objektu nodošanu jaunajiem īpašniekiem atbrīvo no visiem valsts un pašvaldību noteiktajiem nodokļiem un nodevām.

@@ -1,0 +1,1 @@
+8. Ministru kabinetam līdz 1995. gada 31. jūlijam izveidot Centrālo dzīvojamo māju privatizācijas komisiju, bet pilsētu un pagastu pašvaldībām līdz 1995.gada 30. septembrim izveidot pilsētu un pagastu dzīvojamo māju privatizācijas komisijas.

@@ -1,0 +1,3 @@
+44.pants. Nomnieka izdevumu atlīdzināšana
+(1) Šā likuma 17. panta ceturtajā daļā, 18., 23. un 24.pantā noteiktajā gadījumā izsolē privatizētā objekta ieguvējs atlīdzina līdzšinējam nomniekam ar objekta uzturēšanu un uzlabošanu saistītos izdevumus saskaņā ar Civillikuma 866. - 868. panta noteikumiem.
+(2) Privatizācijas komisija pēc nomnieka pieprasījuma līdz izsolei nosaka ar šā panta pirmajā daļā minētā objekta uzturēšanu un uzlabošanu saistīto nomnieka izdevumu apmēru. Minēto summu privatizētā objekta ieguvējs nomaksā naudā papildus izsolē nosolītajai cenai, un tā izmaksājama līdzšinējam nomniekam.

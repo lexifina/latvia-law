@@ -1,0 +1,1 @@
+1. Zemes reformas laikā pieļaujama dzīvokļa, neapdzīvojamās telpas, mākslinieka darbnīcas, kā arī viendzīvokļa un daudzdzīvokļu mājas īpašuma tiesiskā reģistrēšana pirms zemes īpašuma tiesību nostiprināšanas zemesgrāmatā.

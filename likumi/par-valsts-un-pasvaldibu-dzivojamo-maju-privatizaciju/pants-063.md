@@ -1,0 +1,3 @@
+63. pants. Privatizācijas komisijas priekšsēdētāja tiesības
+(1) Privatizācijas komisijas priekšsēdētājs, bet viņa prombūtnē - komisijas priekšsēdētāja vietnieks ir tiesīgs ar vienpersonisku lēmumu apturēt komisijas lēmuma izpildi, nekavējoties paziņojot par to komisijas locekļiem un attiecīgā lēmuma tiešajiem izpildītājiem, ja viņš var pamatot, ka attiecīgais komisijas lēmums nav likumīgs.
+(2) Ja privatizācijas komisija, nedēļas laikā pēc attiecīgā lēmuma apturēšanas to atkārtoti izskatījusi pēc būtības, atzīst, ka komisijas priekšsēdētāja lēmums apturēt komisijas lēmumu nav likumīgs, tā pieņem atkārtotu komisijas galīgo lēmumu.

@@ -1,0 +1,2 @@
+11.pants. Privatizācijas nosacījumi, ja dzīvojamā māja ir atzīta par kultūras pieminekli
+Viendzīvokļa vai daudzdzīvokļu māju, dzīvokli, neapdzīvojamo telpu un mākslinieka darbnīcu mājā, kas atzīta par kultūras pieminekli, kā arī dzīvokli, neapdzīvojamo telpu, mākslinieka darbnīcu, viendzīvokļa vai daudzdzīvokļu māju, kurai piederīgs kultūras piemineklis, privatizē, ievērojot likumā "Par kultūras pieminekļu aizsardzību" noteiktās prasības.

@@ -1,0 +1,2 @@
+9.pants. Privatizācijas nosacījumi, ja dzīvojamā māja ir kopīpašums
+Ja dzīvojamā māja ir valsts vai pašvaldības un kādas citas personas kopīpašumā, valstij vai pašvaldībai piederošo kopīpašuma daļu drīkst privatizēt kā dzīvokļus, neapdzīvojamās telpas vai mākslinieku darbnīcas, ja iepriekš, ievērojot Civillikuma 1075. panta un šā likuma noteikumus, ir noteiktas valsts vai pašvaldības īpašuma tiesības uz atsevišķiem dzīvokļiem, neapdzīvojamām telpām vai mākslinieku darbnīcām.

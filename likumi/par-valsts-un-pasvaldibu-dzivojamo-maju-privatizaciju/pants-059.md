@@ -1,0 +1,13 @@
+59.pants. Centrālās dzīvojamo māju privatizācijas komisijas kompetence
+(1) Centrālajai dzīvojamo māju privatizācijas komisijai ir pienākums:
+1) uzraudzīt un kontrolēt pilsētu un pagastu dzīvojamo māju privatizācijas komisiju darbības likumību;
+2) apturēt pilsētu un pagastu dzīvojamo māju privatizācijas komisiju nelikumīgos lēmumus līdz sūdzības izskatīšanai domes (padomes) sēdē;
+3) izstrādāt privatizācijas nodrošināšanai nepieciešamo normatīvo aktu projektus;
+4) sniegt bezmaksas konsultācijas;
+5) ne retāk kā reizi ceturksnī sniegt pārskatu Ministru kabinetam par privatizācijas norisi.
+(2) Centrālajai dzīvojamo māju privatizācijas komisijai ir tiesības:
+1) ierosināt pašvaldību domēm (padomēm) atcelt pilsētu un pagastu dzīvojamo māju privatizācijas komisijas vai to priekšsēdētājus, ja atkārtoti netiek pildīti vai tiek pārkāpti likumi vai Ministru kabineta noteikumi;
+2) noteikt termiņus, kādos pašvaldību domēm (padomēm) atcelto dzīvojamo māju privatizācijas komisiju vai to priekšsēdētāju vietā jāieceļ dzīvojamo māju privatizācijas komisijas citā sastāvā vai citi priekšsēdētāji;
+3) izdot pilsētu un pagastu dzīvojamo māju privatizācijas komisijām metodiskos norādījumus par dzīvojamo māju privatizācijas komisiju darba organizāciju;
+4) pieprasīt un saņemt no pilsētu un pagastu dzīvojamo māju privatizācijas komisijām, kā arī no valsts un pašvaldību iestādēm, uzņēmumiem un uzņēmējsabiedrībām informāciju, kas saistīta ar privatizāciju;
+5) veikt citas šajā likumā vai Ministru kabineta noteikumos paredzētās funkcijas.
