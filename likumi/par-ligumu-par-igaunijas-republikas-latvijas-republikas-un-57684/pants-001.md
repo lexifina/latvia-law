@@ -1,0 +1,1 @@
+1. pants. 1994. gada 13. jūnijā Tallinā parakstītais līgums par Igaunijas Republikas, Latvijas Republikas un Lietuvas Republikas parlamentu un valdību sadarbību (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
