@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Veterinārmedicīnas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "75",
+  "official_journal_page": null,
+  "official_journal_date": "2001-05-16",
+  "entry_into_force": "2001-07-01",
+  "notification_date": "2012-11-30",
+  "commission_reference": "MNE(2012)57205",
+  "nim_celex": "72010L0063LVA_198854",
+  "nim_id": "198854",
+  "transposes_celex": [
+    "32010L0063"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/330de3ba-21bf-4bb5-b511-81a75c98729a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
