@@ -8,7 +8,7 @@
 6) nodeva par zemes rezervēšanu lauku apvidos - likums "Par zemes reformu Latvijas Republikas lauku apvidos";
 7) nodevas par apliecinājumiem un citu funkciju pildīšanu bāriņtiesās un pagasttiesās - likums "Par bāriņtiesām un pagasttiesām";
 8) (izslēgts ar 25.11.1999. likumu);
-9) nodeva par darbību veikšanu īrestiesā - Īrestiesu likums.
+9) (izslēgts ar 13.04.2000. likumu).
 (2) Valsts nodevas ir maksājamas par valsts sniegto nodrošinājumu, šādiem juridiskajiem pakalpojumiem un likumos paredzētajiem speciāliem mērķiem:
 1) par dokumentu izsniegšanu izbraukšanai uz pastāvīgu dzīvi ārvalstīs;
 2) par notariālo darbību izpildi;
@@ -30,7 +30,7 @@
 18) par naturalizācijas iesniegumu iesniegšanu;
 19) par muitas iestāžu pakalpojumiem;
 20) par komercķīlas reģistrāciju, kā arī par komercķīlas pārjaunojuma, grozījumu un dzēšanas reģistrāciju;
-21) par īpašuma tiesību nostiprināšanu zemesgrāmatā;
+21) par īpašuma tiesību un ķīlas tiesību nostiprināšanu zemesgrāmatā;
 22) par vērtspapīru reģistrāciju un laišanu publiskajā apgrozībā;
 23) par būvprakses sertifikātu reģistrāciju;
 24) par sabiedrisko pakalpojumu regulēšanu;
@@ -48,4 +48,7 @@
 36) par izziņu izsniegšanu par nekustamo īpašumu piederību un sastāvu;
 37) par jūras navigācijas pakalpojumiem (bāku nodeva);
 38) par dokumentu īstuma apliecināšanu (legalizāciju);
-39) par atļaujas izsniegšanu veikt darbības, kuras nav uzņēmējdarbība, ar jonizējošā starojuma avotiem vai arī iegūt īpašumā jonizējošā starojuma avotus.
+39) par atļaujas izsniegšanu veikt darbības, kuras nav uzņēmējdarbība, ar jonizējošā starojuma avotiem vai arī iegūt īpašumā jonizējošā starojuma avotus;
+40) par valsts valodas prasmes atestāciju profesionālo un amata pienākumu veikšanai;
+41) par atteikšanās no Latvijas pilsonības dokumentēšanu;
+42) par Latvijas pilsonības atjaunošanas dokumentēšanu.
