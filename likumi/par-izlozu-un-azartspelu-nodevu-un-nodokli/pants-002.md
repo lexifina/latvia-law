@@ -1,8 +1,8 @@
 2. pants. Par speciālo atļauju (licenci) azartspēļu organizēšanai un uzturēšanai iekasējama valsts nodeva šādā apmērā:
 1) spēļu automātu, bingo, ruletes, kāršu un kauliņu spēles organizēšanai un uzturēšanai:
 a) par speciālās atļaujas (licences) izsniegšanu - Ls 300 000,
-b) par speciālās atļaujas (licences) pagarināšanu - Ls 50 000,
-c) par speciālās atļaujas (licences) ikgadējo pārreģistrāciju - Ls 50 000 par katru kārtējo gadu,
+b) par speciālās atļaujas (licences) pagarināšanu - Ls 25 000,
+c) par speciālās atļaujas (licences) ikgadējo pārreģistrāciju - Ls 25 000 par katru kārtējo gadu,
 d) par kazino atvēršanas atļauju (licenci) - Ls 20 000 par katru kārtējo gadu,
 e) par spēļu zāles vai bingo zāles atvēršanas atļauju (licenci) - Ls 1 500 par katru kārtējo gadu;
 2) totalizatora vai derību organizēšanai un uzturēšanai:
