@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par projekta skiču konkursa norisi",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "29",
+  "official_journal_page": null,
+  "official_journal_date": "2004-02-24",
+  "entry_into_force": "2004-02-24",
+  "notification_date": "2004-10-29",
+  "commission_reference": "MNE(2004)52201",
+  "nim_celex": "71997L0052LVA_32201",
+  "nim_id": "32201",
+  "transposes_celex": [
+    "31997L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/90f8a1ef-057c-4a00-b56f-b9e900797a84",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
