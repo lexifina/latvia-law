@@ -1,0 +1,1 @@
+20.pants. Biosfēras rezervātā saglabājas zemes reformas gaitā iegūtās zemes lietošanas un īpašuma tiesības, kā arī īpašuma tiesību aprobežojumi. Papildus nosakāmie zemes īpašuma tiesību aprobežojumi noformējami likumā noteiktajā kārtībā.

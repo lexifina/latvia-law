@@ -1,0 +1,1 @@
+10.pants. Lai nodrošinātu teritorijas ainavu, ekosistēmu, sugu un ģenētiskās daudzveidības saglabāšanu un degradētu ekosistēmu atjaunošanu un veicinātu teritorijas ilgtspējīgu sociālo un ekonomisko attīstību, Biosfēras rezervāta teritorija tiek iedalīta funkcionālajās zonās.

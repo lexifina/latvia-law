@@ -1,0 +1,1 @@
+2. Valsts zemes dienests gada laikā pēc tam, kad Saeima pieņēmusi attiecīgu likumu, kopā ar Biosfēras rezervāta administrāciju precizē Biosfēras rezervāta robežas un nodrošina to iezīmēšanu valsts pamatkartē un pagastu plānos.

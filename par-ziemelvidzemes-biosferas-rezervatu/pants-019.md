@@ -1,0 +1,1 @@
+19.pants. Biosfēras rezervāta dabas aizsardzības plānā un aizsardzības un izmantošanas noteikumos paredzētie ierobežojumi ir saistoši visām Biosfēras rezervāta robežās esošajām fiziskajām un juridiskajām personām un visu līmeņu teritoriālplānojumiem.

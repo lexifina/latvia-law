@@ -1,0 +1,1 @@
+8.pants. Lai nodrošinātu teritorijas vides aizsardzības, sociālās un ekonomiskās attīstības jautājumu saskaņošanu, tiek izveidota Ziemeļvidzemes biosfēras rezervāta konsultatīvā padome, kuras sastāvu un nolikumu apstiprina Ministru kabinets.

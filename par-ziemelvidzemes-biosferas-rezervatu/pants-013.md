@@ -1,0 +1,1 @@
+13.pants. Ainavu aizsardzības zona ir noteikta, lai saglabātu Ziemeļvidzemei raksturīgo kultūrvides ainavu, tūrisma un atpūtas resursus un samazinātu antropogēno ietekmi uz dabas lieguma zonu, vienlaikus veicinot ilgtspējīgu teritorijas attīstību un sabalansētu dabas resursu izmantošanu.

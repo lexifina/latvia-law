@@ -1,0 +1,1 @@
+2.pants. Ziemeļvidzemes biosfēras rezervāts (turpmāk - Biosfēras rezervāts) ir starptautiskas nozīmes aizsargājama dabas teritorija ar noteiktu platību, kas atrodas īpašā valsts aizsardzībā. Biosfēras rezervāts pārstāv starptautiski atzītas mērenajai mežu joslai raksturīgas sauszemes un Baltijas jūras piekrastes ekosistēmas.

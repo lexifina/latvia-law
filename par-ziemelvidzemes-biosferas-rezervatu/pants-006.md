@@ -1,0 +1,1 @@
+6.pants. Biosfēras rezervāta pārvaldi realizē administrācija. Tā ir Vides aizsardzības un reģionālās attīstības ministrijas pārraudzībā esoša valsts institūcija, kas darbojas saskaņā ar Ministru kabineta apstiprinātu nolikumu.

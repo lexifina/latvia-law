@@ -1,0 +1,1 @@
+Ziemeļvidzemes biosfēras rezervāta robežu apraksts
