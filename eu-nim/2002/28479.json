@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par Latvijas būvnormatīvu LBN 231-03  \"Dzīvojamo un publisko ēku apkure un ventilācija\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "132",
+  "official_journal_page": null,
+  "official_journal_date": "2003-09-25",
+  "entry_into_force": "2002-01-01",
+  "notification_date": "2004-05-28",
+  "commission_reference": "MNE(2004)58479",
+  "nim_celex": "72002L0091LVA_28479",
+  "nim_id": "28479",
+  "transposes_celex": [
+    "32002L0091"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/00b5eb93-081b-4ab6-978e-f0f0e1ff1f8a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
