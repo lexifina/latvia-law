@@ -1,0 +1,1 @@
+1.pants. 1995.gada 8.jūnijā Vīnē parakstītais Latvijas Republikas valdības un Īrijas valdības līgums par pasažieru un kravu starptautiskajiem pārvadājumiem ar autotransportu (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
