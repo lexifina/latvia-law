@@ -1,0 +1,1 @@
+1.pants. 1997.gada 19.decembrī Briselē parakstītais Papildu protokols Ziemeļatlantijas Līguma Organizācijas dalībvalstu un valstu, kas piedalās programmā "Partnerattiecības - mieram", līgumam par to bruņoto spēku statusu (turpmāk - Papildu protokols) ar šo likumu tiek pieņemts un apstiprināts.
