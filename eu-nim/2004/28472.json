@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Preču un pakalpojumu drošuma likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "66",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-28",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-05-28",
+  "commission_reference": "MNE(2004)58472",
+  "nim_celex": "72001L0095LVA_28472",
+  "nim_id": "28472",
+  "transposes_celex": [
+    "32001L0095"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7a3fcd02-257c-4f50-8bc5-c87623f54310",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
