@@ -1,0 +1,1 @@
+118. Zvērināti advokāti uz darba līguma pamata var pieņemt darbā tehnisko, saimniecisko vai konsultatīvo personālu, par kura darbību viņi atbild un kuram ir aizliegts nodarboties ar juridiskās palīdzības sniegšanu.

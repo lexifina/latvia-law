@@ -1,0 +1,1 @@
+9. Visām personām nodrošināmas vienādas tiesības uz juridisko palīdzību. Fiziskajām personām juridiskā palīdzība jānodrošina neatkarīgi no to pilsonības, izcelsmes, sociālā, mantiskā, dienesta un cita stāvokļa, rases, tautības, valodas, dzimuma, izglītības, reliģiskajiem, politiskajiem un citiem uzskatiem, partijas piederības, nodarbošanās veida un rakstura un dzīvesvietas.

@@ -1,0 +1,1 @@
+69. Zvērinātu advokātu atskaita no zvērinātu advokātu skaita pēc viņa iesnieguma vai sakarā ar viņa nāvi, vai pēc Latvijas Zvērinātu advokātu padomes iniciatīvas, ja viņš veselības stāvokļa dēļ nespēj veikt zvērināta advokāta pienākumus. Atskaitīšanas kārtību nosaka Latvijas Zvērinātu advokātu kolēģijas statūti.

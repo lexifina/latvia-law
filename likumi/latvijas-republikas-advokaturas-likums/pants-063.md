@@ -1,0 +1,1 @@
+63. Zvērinātam advokātam ir aizliegts pirkt vai citādā ceļā iegūt pilnvardevēju tiesības viņu prāvās ne vien uz sava vārda, bet arī tādējādi, it kā viņš iegūtu šīs tiesības citām personām. Visi šādi darījumi atzīstami par spēkā neesošiem.

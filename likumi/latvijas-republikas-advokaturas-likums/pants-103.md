@@ -1,0 +1,1 @@
+103. Zvērinātu advokātu palīgu profesionālai sagatavošanai, viņu darbības uzraudzībai un vadīšanai Latvijas Zvērinātu advokātu padome izveido uzraudzības un eksāmenu komisijas no zvērinātiem advokātiem.

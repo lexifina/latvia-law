@@ -1,0 +1,1 @@
+10. Valsts un pašvaldību institūcijām, tiesām, prokuroriem, pirmstiesas izmeklēšanas iestādēm un jebkurai personai jānodrošina, lai attiecībā uz advokātiem un viņu klientiem tiktu izpildīti likumdošanas aktos noteiktie juridiskās palīdzības sniegšanas nosacījumi.

@@ -1,0 +1,1 @@
+53. Klients var uzdot zvērinātam advokātam savas lietas vešanu pilnā apmērā līdz tās pabeigšanai vai pilnvarot viņu tikai zināma uzdevuma veikšanai. Nav liegts vienā un tajā pašā lietā pieņemt vairākus zvērinātus advokātus.

@@ -1,0 +1,1 @@
+18. Latvijas Zvērinātu advokātu kolēģija ir neatkarīga Latvijas zvērinātu advokātu profesionāla korporācija, kas apvieno visus Latvijā praktizējošos zvērinātus advokātus. Tikai Latvijas Zvērinātu advokātu kolēģijai ir šajā likumā noteiktās tiesības un pienākumi.

@@ -1,0 +1,1 @@
+99. Katram zvērināta advokāta palīgam visas viņa vestās lietas jāreģistrē Latvijas Zvērinātu advokātu padomes apstiprinātajā kārtībā un šo lietu saraksts jāiesniedz padomei līdz ar paskaidrojumiem par savu darbību, kurus apliecinājis patrons.

@@ -1,0 +1,1 @@
+41. Kad iesniedzējs nokārtojis eksāmenu, Zvērinātu advokātu padome, izskatījusi viņa iesniegumu un dokumentus, kā arī ievākuši un apsvērusi visas vajadzīgās ziņas, aizklātā balsošanā ar vienkāršu balsu vairākumu nolemj uzņemt iesniedzēju zvērinātu advokātu skaitā vai noraidīt viņa iesniegumu.

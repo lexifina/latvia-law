@@ -1,0 +1,1 @@
+40. To personu sarakstu, kas iesniegušas dokumentus par uzņemšanu zvērinātu advokātu skaitā, Latvijas Zvērinātu advokātu padome izliek savās telpās un izsūta katras tiesas rajonā praktizējošo zvērinātu advokātu vecākajam līdz ar uzaicinājumu mēneša laikā sniegt atsauksmi par šīm personām.

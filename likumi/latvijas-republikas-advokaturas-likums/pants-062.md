@@ -1,0 +1,1 @@
+62. Klienti jebkurā laikā var pieņemt viena zvērināta advokāta vietā citu vai paši uzņemties lietas vešanu, atlīdzinot advokātam par viņa veikto darbu pēc rakstveida vienošanās vai - ja šādas vienošanās nav - pēc takses.

@@ -1,0 +1,1 @@
+100. Zvērinātu advokātu palīgiem obligāti jāpiedalās Latvijas Zvērinātu advokātu padomes organizētajos kvalifikācijas paaugstināšanas pasākumos, kā arī jāpilda visi citi pienākumi, kurus padome viņiem uzliek.

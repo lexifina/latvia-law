@@ -1,0 +1,1 @@
+112. Ar brīdi, kad zvērināta advokāta palīgs ir saņēmis Latvijas Zvērinātu advokātu padomes atļauju (šā likuma 98.pants) un sācis vest lietas bez patrona pārpilnvarojuma, viņš pats ir atbildīgs savam klientam 110.pantā noteiktajos gadījumos.

@@ -1,0 +1,1 @@
+88. No personām, kas iesniegušas lūgumu uzņemt tās zvērinātu advokātu palīgu skaita, pirmām kārtām uzņemamas tas personas, kuras pēc savas kvalifikācijas un īpašībām ir visvairāk piemērotas advokāta pienākumu veikšanai.

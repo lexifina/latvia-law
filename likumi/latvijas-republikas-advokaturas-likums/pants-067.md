@@ -1,0 +1,1 @@
+67. Zvērināts advokāts nedrīkst izpaust sava pilnvardevēja noslēpumus ne tikai lietas vešanas laikā, bet arī pēc atbrīvošanas no lietas vešanas vai pēc lietas pabeigšanas. Viņam jānodrošina šo prasību ievērošana arī sava personāla darbā.

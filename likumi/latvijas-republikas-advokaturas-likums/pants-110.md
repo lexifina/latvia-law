@@ -1,0 +1,1 @@
+110. Ja zvērināts advokāts pieļāvis klienta tiesību aizskārumu un tā sekas ir kāds zaudējums, klientam ir tiesības prasīt apmierinājumu no zvērināta advokāta, ciktāl viņu par šo aizskārumu var vainot.

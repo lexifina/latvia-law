@@ -1,0 +1,1 @@
+71. Par likumu un citu normatīvo aktu, Latvijas Zvērinātu advokātu kolēģijas statūtu, kā arī par zvērinātu advokātu darbības regulējošo instrukciju un zvērinātu advokātu profesionālās ētikas normu pārkāpšanu Latvijas Zvērinātu advokātu padome var ierosināt disciplinārlietu pēc tiesas vai prokurora priekšlikuma, kā arī pēc personu sūdzībām vai pēc pašas iniciatīvas.

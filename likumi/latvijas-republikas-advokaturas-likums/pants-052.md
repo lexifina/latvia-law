@@ -1,0 +1,1 @@
+52. Kriminllietās zvērināti advokāti uzņemas aizstāvēt aizturētos, arestētos, aizdomās turētos, apsūdzētos, tiesājamos un notiesātos vai nu pēc vienošanās ar viņiem vai viņu pārstāvjiem, vai tiesas priekšsēdētāja, pirmstiesas izmeklēšanas iestādes vadītāja, ka arī Latvijas Zvērinātu advokātu padomos uzdevuma.

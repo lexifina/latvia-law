@@ -1,0 +1,1 @@
+19. Latvijas Zvērinātu advokātu kolēģijā pēc profesijas principa apvienotas fiziskās personas, lai rūpētos par savas profesijas prestižu, veicinātu zvērinātu advokātu profesionālo izaugsmi, radošo spēju izkopšanu un pieredzes apgūšanu, lai izpildītu šajā likumā un citos likumos noteiktos uzdevumus.

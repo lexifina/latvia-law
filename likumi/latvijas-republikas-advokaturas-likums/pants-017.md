@@ -1,0 +1,1 @@
+17. No zvērinātu advokātu pienākumu pildīšanas krimināllietas izmeklēšanas un iztiesāšanas laikā var atstādināt tos zvērinātus advokātus, kas ir aizdomās turētie, apsūdzētie vai tiesājamie tīša nozieguma izdarīšanā.

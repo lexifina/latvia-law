@@ -1,0 +1,1 @@
+75. Zvērināts advokāts, kam jau divas reizes aizliegts zināmu laiku izpildīt advokāta pienākumus, izslēdzams no zvērinātiem advokātiem, ja viņš izdara pārkāpumu, par kuru būtu sodāms ar tādu pašu sodu.

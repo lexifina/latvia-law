@@ -1,0 +1,1 @@
+44. Persona, kuras iesniegumu par uzņemšanu zvērinātu advokātu skaitā Latvijas Zvērinātu advokātu padome noraidījusi neformālu iemeslu dēļ, var atkārtoti iesniegt savu iesniegumu, taču ne agrāk kā pēc pusgada.

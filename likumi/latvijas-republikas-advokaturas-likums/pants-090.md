@@ -1,0 +1,1 @@
+90. Latvijas Zvērinātu advokātu padomes priekšsēdētājs vai viņa vietnieks padomes sēdē pasludina padomes lēmumu par uzņemšanu zvērinātu advokātu palīgos, dod jaunuzņemtajam vispārīgus norādījumus par zvērināta advokāta palīga darbību un pienākumiem, bet personas, kas uzņemtas zvērinātu advokātu palīgu skaitā, dod solījumu godīgi un apzinīgi pildīt savus pienākumus.

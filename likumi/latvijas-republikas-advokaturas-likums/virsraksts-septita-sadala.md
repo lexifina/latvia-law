@@ -1,0 +1,2 @@
+Septītā sadaļa
+Vispārīgie noteikumi

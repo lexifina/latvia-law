@@ -1,0 +1,3 @@
+5. Advokāti ir tiesu sistēmai piederīgas personas lietu vešanai jebkurā Latvijas Republikas tiesā un pirmstiesas izmeklēšanas iestādē pēc pušu, apsūdzēto un citu lietas dalībnieku (klientu) izvēles un viņu uzdevumā, kā arī likumā noteiktajos gadījumos tiesu priekšsēdētāju, pirmstiesas izmeklēšanas iestāžu vadītāju un Latvijas zvērinātu advokātu padomes uzdevumā. Advokāti likuma noteiktajā kārtībā sniedz arī citu juridisko palīdzību.
+Piezīme. Bez advokātiem par šajā pantā minēto personu pilnvarniekiem var būt arī šo personu augšupējie un lejupējie radinieki, laulātie, īstie brāli un masas.
+Ieinteresētajām personām nav liegts pilnvarot lietas vešanai arī personu, kam ar pilnvardevēju ir kopīga prāva vai kas uz pilnvaras pamata faktiski pārvalda pilnvardevēja mantu.

@@ -1,0 +1,1 @@
+82. Par zvērināta advokāta sodīšanu ar kādu no šā likuma 73. pantā paredzētajiem sodiem Latvijas Zvērinātu advokātu padome pēc lēmuma spēkā stāšanās paziņo sūdzības iesniedzējam, bet par sodīšanu ar 73. panta 3.-5. punktā paredzētajiem sodiem - arī tieslietu ministram. Par zvērināta advokāta izslēgšanu jāizsludina arī oficiāla laikraksta.

@@ -1,0 +1,1 @@
+77. Latvijas Zvērinātu advokātu padome nevar uzlikt zvērinātam advokātam nevienu no šā likuma 73. pantā minētajiem sodiem, kā arī nevar izskaidrot viņa rīcības nepareizību, ja tā iepriekš nav pieprasījusi no šā zvērināta advokāta rakstveida paskaidrojumus.

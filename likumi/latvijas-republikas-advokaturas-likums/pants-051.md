@@ -1,0 +1,1 @@
+51. Zvērināti advokāti ved civillietas, administratīvas lietas un saimnieciskās lietas (turpmāk - civillietas) un krimināllietās pārstāv cietušos, civilprasītājus un civilatbildētājus vai nu klientu uzdevumā, vai tiesas priekšsēdētāja uzdevumā, vai Latvijas Zvērinātu advokātu padomos uzdevumā pēc klientu lūguma.

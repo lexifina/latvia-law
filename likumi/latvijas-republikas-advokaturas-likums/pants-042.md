@@ -1,0 +1,1 @@
+42. Ja iesniegumu par uzņemšanu zvērinātu advokātu skaitā iesniegusi persona, kurai ir tāda nodarbošanās, kas nav savienojama ar advokāta pienākumiem (šā likuma 15.panta 9. un 10.punkts), padome var lemt par šādas personas uzņemšanu, taču lēmums stājas spēkā un persona pielaižama zvērēt un iekļaujama zvērinātu advokātu sarakstā tikai pēc tam, kad tā izbeigusi minēto nodarbošanos.

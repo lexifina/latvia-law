@@ -1,0 +1,1 @@
+4. Latvijā par advokātiem var būt un praktizēt drīkst tikai Latvijas zvērināti advokāti un zvērinātu advokātu palīgi. Ārvalstu advokāti Latvijā var praktizēt tikai saskaņā ar Latvijas Republikas starptautiskajiem līgumiem par juridisko palīdzību.

@@ -1,0 +1,1 @@
+54. Vest lietas tiesas priekšsēdētājs, pirmstiesas izmeklēšanas iestādes vadītājs, kā arī Latvijas Zvērināto advokātu padome uzdod zvērinātiem advokātiem tikai pēc saskaņošanas ar katras tiesas rajonā praktizējošo zvērinātu advokātu vecāko.

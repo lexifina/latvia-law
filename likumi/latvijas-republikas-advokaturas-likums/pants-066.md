@@ -1,0 +1,1 @@
+66. Zvērināts advokāts nedrīkst uzņemties lietas vešanu vai aizstāvja pienākumus, ja šajā lietā kā tiesnesis vai amatpersona, kas tieši izmeklē lietu, darbojas viņa laulātais, viņa paša vai viņa laulātā radinieks taisnā līnijā bez pakāpju ierobežojuma, bet sānu līnijās - radniecības pirmajās trijās pakāpēs vai svainības divās pakāpēs.

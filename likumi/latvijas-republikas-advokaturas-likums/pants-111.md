@@ -1,0 +1,1 @@
+111. Zvērināts advokāts šā likuma 110. pantā noteiktajos gadījumos ir atbildīgs par klientam nodarītajiem zaudējumiem, kas radušies viņa vadībā savus pienākumus veicoša zvērināta advokāta palīga pirmajā darbības gadā sniegtās juridiskās palīdzības, kā arī uz patrona pārpilnvarojuma pamata vesto lietu rezultātā.

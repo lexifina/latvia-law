@@ -1,0 +1,1 @@
+94. Otrajā pusgadā Latvijas Zvērinātu advokātu padome var atjaut zvērināta advokāta palīgam vest civillietas un krimināllietas rajonu un pilsētu tiesās, pirmstiesas izmeklēšanas iestādēs un to izskatīšanu apelācijas un kasācijas instancē uz patrona pārpilnvarojuma pamata un viņa vadībā.

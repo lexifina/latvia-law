@@ -1,0 +1,1 @@
+30. Latvijas Zvērinātu advokātu padomes vēlēšanas kopsapulcē izdarāmas pēc tam, kad kopsapulce apspriedusi darbības pārskatu un iepriekšējā gada budžeta izpildes pārskatu un noteikusi ievēlējamo Latvijas Zvērinātu advokātu padomes locekļu skaitu.

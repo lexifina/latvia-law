@@ -1,0 +1,1 @@
+47. Zvērinātu advokātu skaitā uzņemtais pēc zvēresta došanas iekļaujams zvērinātu advokātu sarakstā, par viņa ieskaitīšanu zvērinātos advokātos Latvijas Zvērinātu advokātu padome izsludina vispārējai zināšanai oficiālā laikrakstā, paziņo tieslietu ministram un izsniedz jaunuzņemtajam zvērinātam advokātam speciālu apliecību.

@@ -1,0 +1,1 @@
+96. Kad zvērināta advokāta palīgs apvidū, kur praktizē patrons, viņa vadība nostrādājis divus gadus un saņēmis iepriekšējā pantā paredzēto atļauju, Latvijas Zvērinātu advokātu padome var atjaut viņam nodarboties arī ārpus apvidus, kur praktizē patrons, un vest lietas bez patrona pārpilnvarojuma. Līdz ar to Latvijas Zvērinātu advokātu padome viņam var noteikt darbības vietu.

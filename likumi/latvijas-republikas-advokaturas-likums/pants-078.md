@@ -1,0 +1,1 @@
+78. Latvijas Zvērinātu advokātu padome var uzlikt zvērinātam advokātam pienākumu personiski ierasties padomes sēdē mutvārdu paskaidrojumu sniegšanai un par neierašanos sodīt viņu ar šā likuma 73. panta 1. un 2. punktā paredzētajiem disciplinārsodiem.

@@ -1,0 +1,1 @@
+93. Pirmajā pusgadā pēc uzņemšanas zvērinātu advokātu palīgi nevar vest civillietas un krimināllietas tiesās, kā arī krimināllietas pirmstiesas izmeklēšanas iestādēs. Šajā laikā zvērinātu advokātu palīgi sagatavojas advokāta pienākumu veikšanai, darbojoties patrona vadībā un izpildot atsevišķus uzdevumus patrona uzraudzībā.
