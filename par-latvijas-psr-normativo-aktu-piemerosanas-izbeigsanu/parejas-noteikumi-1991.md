@@ -1,0 +1,1 @@
+Ar šā likuma spēkā stāšanos spēku zaudē Latvijas Republikas Augstākās padomes lēmums "Par Latvijas PSR likumdošanas aktu piemērošanu Latvijas Republikas teritorijā" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 35./36.nr.).

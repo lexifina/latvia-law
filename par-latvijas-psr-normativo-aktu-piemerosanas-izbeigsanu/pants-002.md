@@ -1,0 +1,1 @@
+2.pants. Ministru kabinets nosaka kārtību, kādā spēku zaudē Latvijas PSR Ministru padomes lēmumi, ministriju pavēles un instrukcijas, kā arī citu valsts pārvaldes institūciju akti, kuriem ir normatīvs raksturs.
