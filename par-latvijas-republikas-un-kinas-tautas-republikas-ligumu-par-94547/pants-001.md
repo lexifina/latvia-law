@@ -1,0 +1,1 @@
+1.pants. 2004.gada 15.aprīlī Pekinā parakstītais Latvijas Republikas un Ķīnas Tautas Republikas līgums par savstarpējo tiesisko palīdzību krimināllietās (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
