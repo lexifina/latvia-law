@@ -1,3 +1,4 @@
 37. pants. Zemes pirkšanas un pārdošanas ierobežojumu izbeigšanās
-Zemes pirkšanas un pārdošanas ierobežojumi, izņemot šā likuma 35. un 36. pantā noteiktos ierobežojumus, izbeidzas ar zemes reformas pabeigšanas dienu katras attiecīgās pašvaldības teritorijā.
-Pēc pašvaldības iesnieguma saņemšanas lēmumu par zemes reformas pabeigšanu attiecīgas pašvaldības teritorijā pieņem Saeima.
+Zemes pirkšanas un pārdošanas ierobežojumi, izņemot šā likuma 35. un 36.pantā noteiktos ierobežojumus, izbeidzas ar zemes reformas pabeigšanas dienu katras attiecīgās pašvaldības teritorijā.
+Lēmumu par zemes reformas pabeigšanu attiecīgās pašvaldības teritorijā pieņem Ministru kabinets, izdodot rīkojumu. Minētā rīkojuma projektu iesniedz zemkopības ministrs, pamatojoties uz attiecīgās pašvaldības iesniegumu.
+Pēc zemes reformas pabeigšanas pašvaldības īpašumā nododami līdz 50% no valstij piekrītošās neapbūvētās zemes, kura nav nodota īpašumā fiziskajai vai juridiskajai personai, tajā skaitā meža zemes ar platību līdz 200 ha. Pašvaldība nevar iegūt īpašumā valstij piekrītošo zemi 300 metru aizsargjoslā gar Rīgas jūras līci un Baltijas jūru. Lēmumu par zemes nodošanu pašvaldībai pieņem zemkopības ministrs pēc vienošanās ar attiecīgo pašvaldību. Minētais lēmums ir pamats īpašuma tiesību nostiprināšanai zemesgrāmatā.
