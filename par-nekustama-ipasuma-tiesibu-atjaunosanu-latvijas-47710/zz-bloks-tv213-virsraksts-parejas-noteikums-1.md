@@ -1,0 +1,1 @@
+Ja līdz šā likuma spēkā stāšanās dienai ir iesniegts pieteikums par dzīvojamo telpu privatizāciju un triju mēnešu laikā no likuma spēkā stāšanās dienas nav noslēgts pirkuma līgums, attiecīgā nekustamā īpašuma daļa nododama Latvijas Grāmatrūpniecības arodu savienībai.

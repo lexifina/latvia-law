@@ -1,0 +1,1 @@
+2.pants. Triju mēnešu laikā pēc šā likuma spēkā stāšanās Valsts nekustamo īpašumu aģentūra nodod Latvijas Grāmatrūpniecības arodu savienībai šā likuma 1.pantā minēto īpašumu ar nodošanas un pieņemšanas aktu. Minētais nodošanas un pieņemšanas akts ir derīgs ierakstīšanai zemesgrāmatā un Latvijas Grāmatrūpniecības arodu savienības īpašuma tiesību nostiprināšanai.
