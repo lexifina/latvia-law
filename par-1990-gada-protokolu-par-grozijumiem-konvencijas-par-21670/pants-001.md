@@ -1,0 +1,1 @@
+1.pants. 1990.gada 26.oktobrī Monreālā parakstītais Protokols par grozījumiem Konvencijas par starptautisko civilo aviāciju 50.panta "a" punktā (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
