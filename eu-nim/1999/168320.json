@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Augu aizsardzības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "388/399",
+  "official_journal_page": null,
+  "official_journal_date": "1998-12-30",
+  "entry_into_force": "1999-01-13",
+  "notification_date": "2010-04-14",
+  "commission_reference": "MNE(2010)52514",
+  "nim_celex": "72002L0089LVA_168320",
+  "nim_id": "168320",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/28ebc98c-3727-4840-a723-8c46c3684f00",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
