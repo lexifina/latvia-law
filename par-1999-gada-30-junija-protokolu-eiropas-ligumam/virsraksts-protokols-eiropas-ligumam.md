@@ -1,0 +1,2 @@
+PROTOKOLS EIROPAS LĪGUMAM,
+kas izveido asociāciju starp Latvijas Republiku, no vienas puses, un Eiropas Kopienām un to dalībvalstīm, no otras puses, par tirdzniecības nosacījumu izlīdzināšanu, ņemot vērā Austrijas Republikas, Somijas Republikas un Zviedrijas Karalistes iestāšanos Eiropas Savienībā un Urugvajas Raunda sarunu par lauksaimniecības precēm rezultātus, kā arī esošajos preferenciālajos līgumos ieviestos uzlabojumus
