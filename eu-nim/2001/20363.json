@@ -1,0 +1,29 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru Kabineta 2001.gada 23.janvāra noteikumi Nr.34 \"Nemedījamo sugu indivīdu iegūšanas, Latvijas dabai neraksturīgo savvaļas dzīvnieku ieviešanas (introdukcijas), kā arī dzīvnieku populācijas atjaunošanas dabā (reintrodukcijas) atļauju izsniegšanas kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "15",
+  "official_journal_page": null,
+  "official_journal_date": "2001-01-26",
+  "entry_into_force": "2001-01-27",
+  "notification_date": "2004-03-02",
+  "commission_reference": "MNE(2003)50363",
+  "nim_celex": "71979L0409LVA_20363",
+  "nim_id": "20363",
+  "transposes_celex": [
+    "31979L0409",
+    "31981L0854",
+    "31991L0244",
+    "31992L0043",
+    "31994L0024",
+    "31997L0049",
+    "31997L0062",
+    "32009L0147"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5aeba387-8819-4461-8521-416d482853da",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
