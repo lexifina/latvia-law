@@ -24,7 +24,7 @@
 12) par uzturēšanās atļauju izsniegšanu un ar to saistītajiem pakalpojumiem;
 13) par Latvijas Republikas ieceļošanas vīzu izsniegšanu un ar to saistītajiem pakalpojumiem;
 14) par Latvijas Republikas pasu un citu personu apliecinošu un tiesību apliecinošu dokumentu izsniegšanu;
-15) par iedzīvotāju reģistrāciju dzīvesvietā;
+15) par deklarētās dzīvesvietas reģistrāciju;
 16) par selekcionāru tiesību aizsardzību;
 17) par rūpnieciskā īpašuma (izgudrojumu, preču zīmju, dizainparaugu un cita rūpnieciskā īpašuma) aizsardzību;
 18) par naturalizācijas iesniegumu iesniegšanu;
