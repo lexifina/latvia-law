@@ -8,4 +8,4 @@ Nodokļus administrē šādas institūcijas:
 6) dabas resursu nodokli - Valsts ieņēmumu dienests, Vides aizsardzības un reģionālās attīstības ministrija un pašvaldības atbilstoši likumam "Par dabas resursu nodokli";
 7) izložu un azartspēļu nodokli - Valsts ieņēmumu dienests;
 8) muitas nodokli - Valsts ieņēmumu dienests;
-9) sociālo nodokli - Valsts sociālās apdrošināšanas fonds.
+9) valsts sociālās apdrošināšanas obligātās iemaksas - Valsts ieņēmumu dienests.

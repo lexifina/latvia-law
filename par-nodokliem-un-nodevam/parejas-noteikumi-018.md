@@ -1,0 +1,1 @@
+18. Ar šo likumu noteiktie grozījumi likuma "Par nodokļiem un nodevām" 1.panta 1. un 5.punktā, 8.panta 9.punktā, 19.panta pirmajā un otrajā daļā, 20.panta 9.punktā un 25.panta ceturtajā daļā stājas spēkā 1998.gada 1.janvārī.

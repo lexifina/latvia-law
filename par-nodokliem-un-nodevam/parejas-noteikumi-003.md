@@ -1,3 +1,1 @@
-3. Līdz likuma "Par nekustamā īpašuma nodokli" spēkā stāšanās dienai:
-1) Latvijā ir piemērojams zemes nodoklis un īpašuma nodoklis, kā arī tiem atbilstošie likumi;
-2) pašvaldības saglabā tiesības mainīt zemes nodokļa likmes atbilstoši likumam "Par zemes nodokli".
+3. Ar 1998.gada 1.janvāri zaudē spēku likums "Par zemes nodokli" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 11./12., 21./22.nr.; 1992, 13./14.nr.; 1993, 20./21.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 24.nr.; 1997, 3., 14.nr.).

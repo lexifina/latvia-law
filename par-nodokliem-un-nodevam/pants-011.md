@@ -27,4 +27,7 @@
 16) par selekcionāru tiesību aizsardzību;
 17) par rūpnieciskā īpašuma (izgudrojumu, preču zīmju, dizainparaugu un cita rūpnieciskā īpašuma) aizsardzību;
 18) par naturalizācijas iesniegumu iesniegšanu;
-19) par muitas iestāžu pakalpojumiem.
+19) par muitas iestāžu pakalpojumiem;
+20) par komercķīlas reģistrāciju, kā arī par komercķīlas pārjaunojuma, grozījumu un dzēšanas reģistrāciju;
+21) par īpašuma tiesību nostiprināšanu zemesgrāmatā;
+22) par vērtspapīru reģistrāciju un laišanu publiskajā apgrozībā.
