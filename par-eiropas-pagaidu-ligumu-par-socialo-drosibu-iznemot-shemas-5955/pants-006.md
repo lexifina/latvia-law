@@ -1,0 +1,1 @@
+6.pants. Saskaņā ar Līguma 9.panta otro daļu Latvijas Republika patur tiesības nepiemērot Līguma un tā protokola noteikumus bērna piedzimšanas un kopšanas pabalstu sistēmai un pabalstiem alternatīvās aprūpes formu attīstībai - pabalstiem aizbildņiem un audžu ģimenēm.

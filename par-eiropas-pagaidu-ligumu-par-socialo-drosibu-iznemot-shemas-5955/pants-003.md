@@ -1,0 +1,1 @@
+3.pants. Saskaņā ar Līguma 1.panta ceturto daļu jēdziens "pilsonis" šā Līguma izpratnē ietver Latvijas pilsoņus, kā arī nepilsoņus, kas ir likuma "Par to bijušās PSRS pilsoņu statusu, kuriem nav Latvijas vai citas valsts pilsonības" subjekti.

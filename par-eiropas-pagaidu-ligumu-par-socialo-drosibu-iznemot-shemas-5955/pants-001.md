@@ -1,0 +1,1 @@
+1.pants. 1953.gada 11.decembra Eiropas Pagaidu līgums par sociālo drošību, izņemot shēmas, kas attiecas uz vecuma, invaliditātes un apgādnieka zaudējuma gadījumiem (turpmāk - Līgums), un tā protokols ar šo likumu tiek pieņemti un apstiprināti.
