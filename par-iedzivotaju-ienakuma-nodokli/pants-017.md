@@ -1,0 +1,23 @@
+17. pants. Algas nodokļa ieturēšana un maksāšana un nodokļa ieturēšana no ienākumiem, kuri nav saistīti ar darba attiecībām
+1. Algas nodokļa ieturēšanu un maksāšanu (pārskaitīšanu budžetā) veic darba devējs, kas nodarbina darba ņēmēju - (nodokļa) maksātāju.
+2. Algas nodoklis tiek aprēķināts atbilstoši pamatlikmei, bet šā panta ceturtajā daļā paredzētajos gadījumos - arī atbilstoši papildlikmei.
+3. Ar algas nodokli apliekamais mēneša ienākums ir:
+1) Latvijas Republikā dzīvojošām personām pamatdarba vietā (vietā, kur iesniegta grāmatiņa) - starpība starp kalendāra mēneša ienākumu un mēneša neapliekamā minimuma, šā likuma 10. panta otrajā daļā noteikto attaisnoto izdevumu un šā likuma 13. panta pirmajā daļā noteikto atvieglojumu summa;
+2) Latvijas Republikā dzīvojošām personām papildu darba vietā (vietā, kur iesniegta gada karte) - kalendāra mēneša ienākums;
+3) personām, kurām Latvijas Republika nav pastāvīgā dzīvesvieta, - kalendārā mēneša ienākums.
+4. Summu, kas aprēķināta kā starpība starp šā panta trešās daļas 3. punktā noteikto apliekamo ienākumu un summu, kas vienāda ar 20 mēneša neapliekamajiem minimumiem, personām, kurām Latvijas Republika nav pastāvīgā dzīvesvieta, apliek atbilstoši papildlikmei.
+5. Algas nodoklis iemaksājams budžetā reizi mēnesī, kad bankā tiek saņemta nauda iedzīvotāju ienākumu izmaksai.
+Darba devēji, kas iedzīvotāju ienākumus izmaksā no kases ieņēmumiem, nesaņemot naudu bankā, iemaksā algas nodokli budžetā nākamajā dienā pēc algas izmaksas.
+6. Darba devējs par darba ņēmējam izmaksātajām summām, kā arī par atskaitītajām summām un nomaksāto nodokli izdara attiecīgu ierakstu grāmatiņā vai gada kartē. Gadam beidzoties, darba devējs izdod darba ņēmējam, kā arī nosūta valsts finansu inspekcijai pēc savas atrašanās vietas paziņojumu par algas nodokli, kas samaksāts darba attiecību pastāvēšanas periodā, kopā ar paziņojumu par algas nodokli darba devējs nosūta arī maksātāja algas nodokļa karti.
+7. Paziņojums par algas nodokli tiek nogādāts adresātam ne vēlāk kā taksācijas gadam sekojošā gada 1. februārī, ja darba attiecības pastāvējušas līdz gada beigām. Ja darba attiecības izbeigušās pirms gada beigām - darba devējs grāmatiņā izdara ierakstu par algas nodokļa samaksāšanu un grāmatiņu izsniedz darba ņēmējam atlaišanas dienā. Darba ņēmēja algas nodokļa karti darba devējs kopā ar paziņojumu par algas nodokli nosūta valsts finansu inspekcijai pēc savas atrašanās vietas. Paziņojuma norakstu par algas nodokli darba devējs izsniedz darba ņēmējam, izbeidzoties darba attiecībām.
+8. Darba devējs izsniedz valsts finansu inspekcijai pēc savas atrašanās vietas izziņu par summām, kas izmaksātas personām, kurām Latvijas Republika nav pastāvīgā dzīvesvieta, no šīm summām izdarītajiem atskaitījumiem un samaksāto nodokli.
+9. Uz paziņojuma par algas nodokli valsts finansu inspekcija pēc darba devēja atrašanās vietas izdara atzīmi, apliecinot, ka nodoklis ir samaksāts, un pārsūta šo paziņojumu valsts finansu inspekcijai pēc darba ņēmēja dzīvesvietas, ja tā ir citā administratīvajā rajonā.
+10. Personu ienākumi, kurus izmaksā uzņēmumi, uzņēmējsabiedrības (iestādes, organizācijas), ja tie nav saistīti ar darba attiecībām un nav atbrīvoti no aplikšanas ar nodokli, apliekami ar nodokli ienākumu izmaksas vietā atbilstoši nodokļa pamatlikmei.
+Šo ienākumu skaitā ietilpst:
+1) autoratlīdzība (honorārs), arī atlīdzība par autora pārdotajiem lietišķās un dekoratīvās mākslas darbiem un tautas daiļamatniecības izstrādājumiem;
+2) autoratlīdzība (honorārs), kuru izmaksā autortiesību mantiniekiem;
+3) atlīdzība, kuru izmaksā sagādes un citas organizācijas par medījumu jēlādām, medījumiem un to gaļu, medību trofejām, zoobarību un citu savvaļā iegūto produkciju;
+4) apdrošināšanas atlīdzība pēc uzņēmumu, uzņēmējsabiedrību (iestāžu, organizāciju) noslēgtajiem apdrošināšanas līgumiem.
+Nodokli iepriekšminētajā kārtībā ietur, arī izmaksājot atlīdzību par steidzama, īslaicīga un vienreizēja darba izpildīšanu bez nodokļa kartes iesniegšanas, kad samaksu par darbu izmaksā tūlīt pēc darba izpildīšanas.
+11. Uzņēmumi, uzņēmējsabiedrības (iestādes, organizācijas) par personām izmaksātajiem ienākumiem, kas minēti šā panta desmitajā daļā, un no tiem ieturēto nodokli maksātājam izsniedz dokumentu un nosūta par to paziņojumu valsts finansu inspekcijai pēc savas atrašanās vietas ne vēlāk kā līdz nākamā mēneša 15. datumam.
+Uzņēmumi, uzņēmējsabiedrības (iestādes, organizācijas) par personām izmaksātajām summām, no kurām nav ieturēts nodoklis, bez nodokļa ieturēšanas, ja tās saistītas ar personu saimniecisko darbību, nosūta paziņojumu valsts finansu inspekcijai pēc savas atrašanās vietas ne vēlāk kā līdz nākamā mēneša 15. datumam.

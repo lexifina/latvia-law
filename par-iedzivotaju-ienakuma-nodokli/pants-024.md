@@ -1,0 +1,4 @@
+24. pants. Starpvalstu līgumu piemērošana
+1. Ja starpvalstu līgums, kura dalībvalsts ir Latvijas Republika, paredz ienākuma aplikšanas kārtību, kas atšķiras no šajā likumā noteiktās kārtības, piemērojamas starpvalstu līguma normas.
+2. Latvijas Republikā pastāvīgi dzīvojošo personu ienākumi, kas gūti ārvalstīs, tiek aplikti ar nodokli Latvijas Republikā, izņemot gadījumus, kad saskaņā ar noslēgtajiem starpvalstu līgumiem noteikta citāda aplikšanas kārtība.
+3. Ja ienākums, kas gūts ārvalstī, ir aplikts ar šīs valsts nodokļiem, tad šie nodokļi uzskatāmi par attaisnotiem izdevumiem un par ārvalstī samaksāto nodokļu summu attiecīgi samazināms Latvijas Republikā ar nodokli apliekamais ienākums. Ja ārvalstī samaksātais nodoklis ir lielāks par Latvijas Republikā aprēķināto nodokli, apliekamais ienākums Latvijas Republikā netiek samazināts. Nodokļa samaksāšanu apliecina ārvalsts nodokļu iekasēšanas institūcijas apstiprināts dokuments.
