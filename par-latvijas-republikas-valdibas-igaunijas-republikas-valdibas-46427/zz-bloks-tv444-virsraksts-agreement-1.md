@@ -1,0 +1,12 @@
+The Government of the Republic of Estonia, Government of the Republic of Latvia and the Government of the Kingdom of Sweden, hereinafter referred to as the Contracting Parties;
+Desiring to determine the point where the maritime boundaries of the three States in the Baltic Sea coincide
+Have agreed as follows:
+Article 1
+The straight geodetic line referred to in Article 3 in the Agreement between the Republic of Latvia and the Republic of Estonia on the maritime delimitation in the Gulf of Riga, the Strait of Irbe and the Baltic Sea, signed at Tallinn on July 12 1996, shall connect to the border of the exclusive economic zone and the continental shelf of the Kingdom of Sweden at the point with the following geographical coordinates
+58° 01,440' N 20° 23, 755' E
+The point is defined in the World Geodetic System 1984 (WGS 84).
+Article 2
+This Agreement shall enter into force thirty days after the date when all the Contracting Parties have notified all the other Contracting Parties in writing that the necessary constitutional procedures for its entry into force have been completed.
+Done at Stockholm on 30 April 1997, in three original copies, in the Estonian, Latvian, Swedish and English languages respectively. In case of any divergence of interpretation of this Agreement, the English text shall prevail.
+For the GovernmentFor the GovernmentFor the Government
+of the Republic of Estoniaof the Republic of Latviaof the Kingdom of Sweden

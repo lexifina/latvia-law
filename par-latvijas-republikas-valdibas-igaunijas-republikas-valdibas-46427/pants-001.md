@@ -1,0 +1,1 @@
+1.pants. 1997.gada 30.aprīlī Stokholmā parakstītais Latvijas Republikas valdības, Igaunijas Republikas valdības un Zviedrijas Karalistes valdības līgums par kopīgo jūras robežas punktu Baltijas jūrā (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
