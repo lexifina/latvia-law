@@ -4,4 +4,5 @@ Tiesa aptur tiesvedību, ja:
 2) puse vai trešā persona zaudējusi rīcībspēju;
 3) puse vai trešā persona smagas slimības, vecuma vai invaliditātes dēļ vispār nespēj piedalīties lietas izskatīšanā;
 4) tā pieņem lēmumu par pieteikuma iesniegšanu Satversmes tiesai vai arī Satversmes tiesa ir ierosinājusi lietu sakarā ar prasītāja (pieteicēja) konstitucionālo sūdzību;
+4¹) tā pieņem lēmumu par jautājuma uzdošanu Eiropas Kopienu Tiesai prejudiciāla nolēmuma pieņemšanai;
 5) lietas izskatīšana nav iespējama, iekams nav izšķirta cita lieta, kas jāizskata civilā, kriminālā vai administratīvā kārtībā.

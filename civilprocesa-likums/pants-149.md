@@ -11,3 +11,4 @@
 (5) Tiesnesis izlemj jautājumus par valsts un pašvaldību iestāžu pārstāvju un prokurora piedalīšanos lietā likumā noteiktajos gadījumos, par tiesas uzdevumu nosūtīšanu citām tiesām, kā arī izpilda citas nepieciešamās procesuālās darbības.
 (6) Šajā pantā norādīto darbību veikšanai tiesnesis var noteikt sagatavošanas sēdi, uz kuru aicina puses un trešās personas.
 (7) Ja sagatavošanas sēde nav nepieciešama, tiesnesis nosaka tiesas sēdes dienu un laiku, uz tiesu aicināmās un izsaucamās personas.
+(8) Lietās par darbinieka atjaunošanu darbā un lietās par darba devēja uzteikuma atzīšanu par spēkā neesošu tiesas sēdes diena nosakāma ne vēlāk kā 15 dienu laikā pēc paskaidrojuma saņemšanas vai tā iesniegšanas termiņa notecēšanas vai pēc sagatavošanas sēdes.

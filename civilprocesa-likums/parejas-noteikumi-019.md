@@ -1,0 +1,1 @@
+19. Ja rajona (pilsētas) tiesa pieņēmusi lēmumu par ārvalsts tiesas nolēmuma (izņemot ārvalsts šķīrējtiesas nolēmumu) atzīšanu un izpildīšanu vai lēmumu par pieteikuma noraidīšanu un 2004.gada 1.maijā nav izbeidzies blakus sūdzības iesniegšanas termiņš, piemērojami šā likuma 641.panta otrajā daļā noteiktie blakus sūdzības iesniegšanas termiņi, tajos ieskaitot pagājušo laiku.

@@ -14,7 +14,7 @@ g) vairāk par 500 000 latiem - 2440 latu plus 0,05 procenti no prasības summas
 5) par prasības nodrošinājuma pieteikumu neatkarīgi no tā, vai šis pieteikums iesniegts atsevišķi vai ietverts prasības pieteikumā, - 10 latu;
 6) par pierādījumu nodrošināšanas pieteikumu, ja tas iesniegts pirms lietas ierosināšanas, - 10 latu;
 7) par pieteikumu par bezstrīdus piespiedu izpildīšanu, par saistību piespiedu izpildīšanu brīdinājuma kārtībā, par nekustamā īpašuma labprātīgu pārdošanu izsolē tiesas ceļā vai saistības priekšmeta iesniegšanu tiesai glabājumā - 1 procents no parāda summas, atdodamās vai labprātīgā izsolē pārdodamās mantas vērtības vai glabājumā nododamā priekšmeta vērtības, bet ne vairāk par 100 latiem;
-8) par pieteikumu par izpildu raksta izdošanu uz šķīrējtiesas sprieduma pamata - 1 procents no parāda summas, bet ne vairāk par 50 latiem;
+8) par pieteikumu par izpildu raksta izdošanu uz šķīrējtiesas sprieduma pamata vai ārvalsts šķīrējtiesas nolēmuma atzīšanu un izpildīšanu - 1 procents no parāda summas, bet ne vairāk par 100 latiem;
 9) par pieteikumu par tiesvedības atjaunošanu un lietas jaunu izskatīšanu lietā, kurā taisīts aizmugurisks spriedums, - tādā pašā apmērā kā par prasības pieteikumu;
 10) par prasības pieteikumu par kopīgas mantas dalīšanu - 50 procenti no likmes, kas būtu jāmaksā par prasības pieteikumu vispārējā kārtībā no dalāmās mantas vērtības.
 (2) Taisot spriedumu, tiesa nosaka valsts nodevu šādā apmērā:
