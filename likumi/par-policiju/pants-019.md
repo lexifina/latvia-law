@@ -2,7 +2,7 @@
 Pašvaldības var izveidot pašvaldības policiju.
 Pašvaldības policijas pienākumos ietilpst:
 1) likumpārkāpumu profilakse;
-2) palīdzības sniegšana sociālajā reabilitācijā personām, kuras atbrīvotas no brīvības atņemšanas un ierobežošanas vietām vai kuras ārstējas no alkoholisma, toksikomānijas vai narkomānijas;
+2) palīdzības sniegšana sociālajā reabilitācijā personām, kuras atbrīvotas no brīvības atņemšanas un ierobežošanas vietām vai kuras ārstējas no alkohola, narkotisko, psihotropo vai toksisko vielu atkarības;
 3) par administratīvajiem pārkāpumiem aizturētu un arestētu personu apsargāšana un konvojēšana;
 4) kontrole pār to, kā tiek izpildīti pašvaldību apstiprinātie noteikumi, par kuru pārkāpšanu paredzēta administratīvā atbildība, kā arī naudas sodu uzlikšana par šo noteikumu pārkāpšanu un to piedzīšana;
 5) Valsts policijas un Drošības policijas atbalstīšana sabiedrības drošības garantēšanā un noziedzības apkarošanā.
