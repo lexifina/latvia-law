@@ -1,0 +1,1 @@
+1.pants. 1997.gada 20.novembrī Rīgā parakstītais Latvijas Republikas, Igaunijas Republikas un Lietuvas Republikas līgums par ārpustarifu barjeru atcelšanu tirdzniecībā (turpmāk - Līgums) un tā saprašanās memorands (turpmāk - Memorands) ar šo likumu tiek pieņemti un apstiprināti.

@@ -1,0 +1,3 @@
+Piemērotai un efektīvai Līguma ieviešanai, Līgumslēdzējas Puses vienojās par sekojošām piezīmēm:
+1. 20. panta 6. punkts nozīmē, ka šī Līguma Apvienotā komiteja par šī Līguma ieviešanu rakstiskā veidā informēs tās Līgumslēdzēju Pušu institūcijas, kuras ir atbildīgas par Līgumu Apvienotās komitejas pārvaldīšanu.
+2. 21. panta 3. punktā "atbildes pasākumi" var ietvert visa veida pasākumus, kas ir saskaņā ar 1993. gada 13. septembrī parakstītā Igaunijas Republikas, Latvijas Republikas un Lietuvas Republikas Līguma par Brīvo tirdzniecību 16. pantu, kā arī saskaņā ar 1996. gada 16. jūnijā parakstītā Igaunijas Republikas, Latvijas Republikas un Lietuvas Republikas Līguma par Brīvo tirdzniecību ar lauksaimniecības produktiem 21. pantu.
