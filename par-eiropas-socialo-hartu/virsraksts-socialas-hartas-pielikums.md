@@ -1,0 +1,1 @@
+Sociālās hartas pielikums
