@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Kārtība, kādā apkaro infekcijas slimības, ar kurām slimo gan dzīvnieki, gan cilvēki, un veic to profilaksi",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "28",
+  "official_journal_page": null,
+  "official_journal_date": "2005-02-18",
+  "entry_into_force": null,
+  "notification_date": "2005-02-22",
+  "commission_reference": "MNE(2005)55492",
+  "nim_celex": "71982L0894LVA_35492",
+  "nim_id": "35492",
+  "transposes_celex": [
+    "31982L0894",
+    "32003L0099"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ceb6929d-5790-47e5-9a5a-c1fea425a2f0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
