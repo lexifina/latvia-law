@@ -1,13 +1,13 @@
-9. Līdz 2001.gada 31.decembrim attiecībā uz ēkām un būvēm:
+9. Līdz 2002.gada 31.decembrim attiecībā uz ēkām un būvēm:
 1) ar nekustamā īpašuma nodokli tiek apliktas saimnieciskajā darbībā izmantojamās ēkas un būves. Ja saimnieciskajā darbībā tiek izmantota ēkas vai būves daļa, ar nodokli apliekamajā vērtībā ieskaita ēkas vai būves vērtību atbilstoši saimnieciskajā darbībā izmantojamajai daļai;
 1¹) pašvaldībai ir tiesības pieprasīt, lai nodokļa maksātāji iesniedz bilanci vai dokumentu, kurā ir uzrādīta Valsts zemes dienesta noteiktā ēku vai būvju inventarizācijas vērtība;
 2) ar nodokli papildus šā likuma 1.panta otrajā daļā minētajiem objektiem neapliek:
 a) ēkas un būves, kuras izmantojamas tikai lauksaimnieciskajai darbībai,
-b) ēkas un būves, kuras uztur par valsts budžeta vai pašvaldību budžetu līdzekļiem vai izmanto veselības aizsardzības, sporta, izglītības un kultūras vajadzībām, izņemot kinoteātrus un videotēkas,
+b) (izslēgts ar 22.11.2001. likumu),
 c) pasta iestādes un telefona centrāles lauku apvidos,
 d) sakaru līnijas, vietējos cauruļvadus un kabeļus,
-e) ēkas un būves, kuras izmanto dabas aizsardzības un ugunsdrošības vajadzībām,
-f) ēkas un būves, kuras pieder sabiedriskajām organizācijām un to uzņēmumiem (saskaņā ar Saeimas apstiprinātu sarakstu),
+e) (izslēgts ar 22.11.2001. likumu),
+f) (izslēgts ar 22.11.2001. likumu),
 g) dzīvojamās ēkas vai to daļas, kuras ir izīrētas un tiek izmantotas dzīvošanai;
 3) nodokļa maksātājs katru gadu līdz 1.februārim iesniedz pašvaldībai pēc ēku un būvju vai to daļu atrašanās vietas un Valsts ieņēmumu dienesta teritoriālajai iestādei, kurā viņš ir reģistrējies kā nodokļu maksātājs, deklarāciju (saskaņā ar Ministru kabineta apstiprinātu paraugu) par paredzamo ar nodokli apliekamo ēku un būvju vērtību un par attiecīgajā gadā maksājamo nodokli;
 4) ar nodokli apliekamo ēku un būvju vērtību nodokļa maksātājs aprēķina, saskaitot pusi no ēku un būvju vērtības gada sākumā un pusi no to vērtības nākamā gada 1.janvārī ar šo ēku un būvju paredzamo vērtību 1.aprīlī, 1.jūlijā un 1.oktobrī un iegūto summu dalot ar 4;

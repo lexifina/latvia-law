@@ -10,12 +10,13 @@
 5) zemi īpaši aizsargājamās dabas teritorijās, kurās ar likumu aizliegta saimnieciskā darbība, un šajās teritorijās esošās dabas aizsardzībai izmantojamās ēkas;
 5¹) (izslēgts ar 25.11.1999. likumu);
 6) nekustamo īpašumu, kas atzīts par valsts aizsargājamo kultūras pieminekli, un zemi tā uzturēšanai, izņemot dzīvojamās mājas un zemi to uzturēšanai, kā arī saimnieciskajā darbībā izmantotu nekustamo īpašumu. Attiecībā uz nekustamo īpašumu - valsts aizsargājamo kultūras pieminekli - par saimniecisku darbību nav uzskatāma tā izmantošana kultūras vajadzībām, izņemot kinoteātrus un videotēkas;
-7) līdz 1998.gada 31.decembrim - Ministru kabineta noteiktajā kārtībā zemi, kuru aizņem krūmāji vai mežaudzes līdz 40 gadu vecumam, ja tajās atbilstoši meža apsaimniekošanas projektam tiek veikti plānotie mežsaimnieciskie pasākumi;
-7¹) no 1999.gada 1.janvāra - Ministru kabineta noteiktajā kārtībā zemi, kuru aizņem jaunaudzes un apmežojumi jaunaudžu vecumā;
+7) Ministru kabineta noteiktajā kārtībā zemi, kuru aizņem atjaunotās vai ieaudzētās mežaudzes (jaunaudzes);
+7¹) (izslēgts ar 22.11.2001. likumu);
 8) masu aktīvās atpūtas centrus, sporta būves un zemi to uzturēšanai neatkarīgi no īpašuma piederības atbilstoši Ministru kabineta noteikumiem;
-9) līdz 2003.gada 31.decembrim - individuālo dzīvojamo māju apbūvē ietilpstošās ēkas, dzīvokļus un mākslinieku darbnīcas daudzdzīvokļu mājās, ja tās nav iznomātas citai personai saimnieciskās darbības veikšanai;
+9) līdz 2003.gada 31.decembrim - individuālo dzīvojamo māju apbūvē ietilpstošās ēkas, dzīvokļus un mākslinieku darbnīcas daudzdzīvokļu mājās, ja tās netiek izmantotas saimnieciskās darbības veikšanai;
 10) kapsētu teritoriju zemi un ar to saistītās būves, sēru ceremoniju būves, krematorijas un zemi to uzturēšanai;
 11) valstij un pašvaldībām piekritīgo nekustamo īpašumu, kas nav nodots lietošanā vai iznomāts;
 12) līdz 2003.gada 31.decembrim - ēkas, kuras izmanto tikai lauksaimnieciskajai ražošanai;
-13) saimnieciskās darbības veikšanai paredzētās uzceltās vai rekonstruētās ēkas, - vienu gadu, skaitot no nākamā mēneša kopš to nodošanas ekspluatācijā. Ja saimnieciskā darbība uzsākta pirms ēkas nodošanas ekspluatācijā, tad vienu gadu, skaitot no nākamā mēneša kopš saimnieciskās darbības uzsākšanas.
+13) saimnieciskās darbības veikšanai paredzētās uzceltās vai rekonstruētās ēkas, - vienu gadu, skaitot no nākamā mēneša kopš to nodošanas ekspluatācijā. Ja saimnieciskā darbība uzsākta pirms ēkas nodošanas ekspluatācijā, tad vienu gadu, skaitot no nākamā mēneša kopš saimnieciskās darbības uzsākšanas;
+14) valsts īpašumā esošās ēkas vai to daļas (izņemot ēkas vai to daļas, kas tiek izmantotas lietvedības un administratīviem mērķiem), kuras izmanto Nacionālo bruņoto spēku, soda izciešanas iestāžu, policijas, robežsardzes, ugunsdrošības un glābšanas dienestu, kā arī valsts drošības iestāžu funkciju izpildes nodrošināšanai.
 (3) Ja šā panta otrās daļas 4., 6. un 9.punktā minētais nekustamais īpašums daļēji tiek izmantots saimnieciskajā darbībā vai iznomāts, ar nodokli apliekama attiecīgā nekustamā īpašuma daļa.
