@@ -5,5 +5,6 @@
 3) kaitīgo šķidro vielu lejamkravām;
 4) bīstamām kravām iepakojumā;
 5) beramkravām.
-(2) Satiksmes ministrs ir tiesīgs noteikt prasības attiecībā uz kuģu kravas operācijām un kravas operācijām ostās ar bīstamām un piesārņojošām kravām atbilstoši šā panta pirmajā daļā noteikto starptautisko normatīvo aktu un Starptautiskās jūras organizācijas prasībām un rekomendācijām, kā arī Helsinku konvencijas un Helsinku komisijas prasībām un rekomendācijām.
+(2) Satiksmes ministrs ir tiesīgs noteikt starptautisko normatīvo aktu piemērošanas kārtību attiecībā uz kuģu kravas operācijām un kravas operācijām ostās ar bīstamām un piesārņojošām kravām atbilstoši šā panta pirmajā daļā noteikto starptautisko normatīvo aktu un Starptautiskās jūras organizācijas prasībām un rekomendācijām, kā arī Helsinku konvencijas un Helsinku komisijas prasībām un rekomendācijām.
 (3) Ikvienam bīstamas un piesārņojošas kravas nosūtītājam Latvijā, sagatavojot kravu jūras pārvadājumam, ir jāņem vērā šā panta pirmajā daļā noteikto starptautisko normatīvo aktu prasības.
+(4) Ministru kabinets var izdot noteikumus par bīstamo un piesārņojošo kravu apriti un kontroli ostās.

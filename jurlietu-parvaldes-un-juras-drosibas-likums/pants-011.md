@@ -9,7 +9,7 @@
 7) Starptautiskās darba organizācijas 1976.gada Konvencija par minimālajām normām tirdzniecības kuģiem;
 8) 1978.gada Starptautiskā konvencija par jūrnieku sagatavošanu un diplomēšanu, kā arī sardzes pildīšanu ar grozījumiem (turpmāk - STCW konvencija);
 9) 1969.gada Pasaules veselības organizācijas Starptautiskie medicīniski sanitārie noteikumi.
-(2) Nosakot kuģu drošības prasības un kuģu drošības uzraudzības kārtību, tiek ņemtas vērā starptautisko normatīvo aktu prasības attiecībā uz:
+(2) Nosakot kuģu drošības prasību piemērošanu un kuģu drošības uzraudzības kārtību, tiek ņemtas vērā starptautisko normatīvo aktu prasības attiecībā uz:
 1) pasažieru kuģu drošību un standartiem;
 2) obligāto pārbaužu sistēmu, lai nodrošinātu kuģu ar horizontālu un vertikālu kravas apstrādi (turpmāk - ro-ro kuģi) un ātrgaitas pasažieru kuģu drošu darbību;
 3) ro-ro pasažieru kuģu drošu pārvaldi;
@@ -20,7 +20,7 @@
 8) jūrnieku apmācību, sertifikāciju un sardzes pildīšanu;
 9) citiem jautājumiem, kas saistīti ar kuģošanas drošību, vides piesārņojuma novēršanu un personu apmācību, kvalifikāciju un sertifikāciju;
 10) kuģa konstrukciju un mehānismiem;
-11) kuģa sistēmām un aprīkojumu, arī navigācijas, mašīntelpu, klāja aprīkojumu, radio un GMDSS aprīkojumu, avārijas un glābšanas aprīkojumu;
+11) kuģa sistēmām un aprīkojumu;
 12) kuģa ugunsdrošību;
 13) vides piesārņojuma novēršanu;
 14) kuģa stabilitāti, arī avārijas stabilitāti;
@@ -34,9 +34,10 @@
 22) loču un kuģu satiksmes dienesta (VTS) operatoru apmācību un sertifikāciju;
 23) kuģa navigācijas kartēm, dokumentāciju un informatīvajiem materiāliem;
 24) kuģa īpašnieka atbildību par kuģa atbilstību drošības normām;
-25) jūras komunikācijas un sakaru sistēmām.
+25) jūras komunikācijas un sakaru sistēmām;
+26) kuģa radio un navigācijas aprīkojuma drošību.
 (3) Satiksmes ministrs ir tiesīgs noteikt šā panta pirmajā un otrajā daļā minēto starptautisko normatīvo aktu izpildes kārtību.
-(4) Satiksmes ministrs nosaka drošības prasības Latvijas kuģiem, uz kuriem, ievērojot to tilpību, garumu, kuģa tipu, uzbūvēšanas gadu un kuģošanas rajonu, neattiecas šā panta pirmajā un otrajā daļā minētajos starptautiskajos normatīvajos aktos noteiktās prasības.
+(4) Ministru kabinets var noteikt drošības un aizsardzības prasību piemērošanu Latvijas kuģiem, uz kuriem, ievērojot to tilpību, garumu, kuģa tipu, uzbūvēšanas gadu un kuģošanas rajonu, neattiecas šā panta pirmajā un otrajā daļā minētajos starptautiskajos normatīvajos aktos noteiktās prasības.
 (5) Ministru kabinets var noteikt kārtību, kādā tiek izpildītas prasības, ko Helsinku konvencija vides piesārņojuma novēršanas jomā izvirza komercsabiedrībām, kuru darbība nav saistīta ar jūras transportu.
 (6) Latvijas Jūras administrācija vai tās pilnvarota kuģu klasifikācijas sabiedrība (atzītā organizācija) apliecina Latvijas kuģu būves un modernizācijas projektu dokumentācijas un kuģu aprīkojuma atbilstību starptautiskajām prasībām. Kuģu būvi, modernizāciju un remontu uzrauga Latvijas Jūras administrācija vai tās pilnvarota kuģu klasifikācijas sabiedrība (atzītā organizācija).
 (7) Uz Latvijas kuģiem ir jābūt dokumentācijai par kuģa stabilitāti, tilpības un kravas zīmes aprēķiniem, rīcības plāniem piesārņojuma likvidācijai avārijas gadījumā, kā arī šā panta pirmajā daļā minētajos starptautiskajos normatīvajos aktos noteiktajām rokasgrāmatām un citiem dokumentiem, kuru atbilstību starptautiskajām prasībām apliecinājusi Latvijas Jūras administrācija vai tās pilnvarota kuģu klasifikācijas sabiedrība (atzītā organizācija).

@@ -6,3 +6,4 @@
 4) nodrošina globālās jūras negadījumu un drošības sistēmas (turpmāk - GMDSS) un automātiskās identifikācijas sistēmas (turpmāk - AIS) krasta sakaru tīkla darbību;
 5) sadarbībā ar Latvijas Jūras administrāciju kontrolē kuģošanas režīma ievērošanu.
 (2) Ministru kabinets nosaka Latvijas ūdeņu izmantošanas kārtību un kuģošanas režīmu tajos.
+(3) Ministru kabinets nosaka kuģa aizsardzības trauksmes signālu sakaru tīkla darbības nodrošināšanas kārtību.

@@ -1,6 +1,6 @@
 51.pants. Piesārņojuma novēršana
 (1) Kuģa īpašnieks, kuģa kapteinis un jūrā nostiprinātas platformas operators nodrošina piesārņojuma novēršanas noteikumu ievērošanu atbilstoši MARPOL konvencijas un tās pielikumu, Helsinku konvencijas un citu starptautisko tiesību normām.
-(2) Kuģa kapteinis nodrošina, ka pirms kuģa iziešanas no ostas tās atkritumu pieņemšanas iekārtās tiek nodoti kuģa un kuģa kravas radītie atkritumi, kurus saskaņā ar šā panta pirmajā daļā minētajiem starptautiskajiem normatīvajiem aktiem aizliegts novadīt jūrā. Šī prasība neattiecas uz Helsinku konvencijā noteikto minimālo atkritumu apjomu un izņēmumiem, kurus saskaņā ar starptautiskajām prasībām nosaka satiksmes ministrs.
+(2) Kuģa kapteinis nodrošina to, ka pirms kuģa iziešanas no ostas kuģa un kuģa kravas radītie atkritumi tiek nodoti attiecīgās ostas atkritumu pieņemšanas iekārtās saskaņā ar starptautisko normatīvo aktu prasībām.
 (3) Latvijas ūdeņos ir aizliegta atkritumu vai citu vielu izgāšana jūrā no kuģiem un jūrā nostiprinātām iekārtām. Šis aizliegums neattiecas uz:
 1) gultnes padziļināšanas darbos iegūtās grunts izgāšanu jūrā, ja tā notiek saskaņā ar Jūras vides pārvaldes izdotu atļauju;
 2) piezvejas un pārzvejas izgāšanu jūrā;

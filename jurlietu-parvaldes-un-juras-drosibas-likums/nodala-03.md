@@ -1,2 +1,2 @@
 III nodaļa
-Kuģošanas drošība ostās
+Kuģošanas drošība un aizsardzība ostās
