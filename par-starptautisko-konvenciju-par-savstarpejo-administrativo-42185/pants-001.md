@@ -1,0 +1,1 @@
+1.pants. 1977.gadā Nairobi Starptautiskā konvencija par savstarpējo administratīvo palīdzību muitas pārkāpumu novēršanā, izmeklēšanā un sodīšanā (turpmāk - Konvencija) un tās 1., 2., 3., 4., 5., 6., 7., 8., 9., 10. un 11.pielikums (turpmāk - Pielikumi) ar šo likumu tiek pieņemti un apstiprināti.
