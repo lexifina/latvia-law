@@ -1,0 +1,1 @@
+9.pants. HES valdītājs iesniedz Valsts būvinspekcijai HES hidrotehnisko būvju drošuma deklarāciju, kurā ir pārskats par drošuma programmas izpildi. HES hidrotehnisko būvju drošuma deklarācijas saturu, iesniegšanas termiņus un kārtību nosaka Ministru kabinets.

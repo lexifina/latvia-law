@@ -1,0 +1,1 @@
+8.pants. HES valdītājam ir tiesības ekspluatēt HES, ja saņemts HES hidrotehnisko būvju drošuma sertifikāts. HES hidrotehnisko būvju drošuma sertifikātu izsniedz un anulē Valsts būvinspekcija Ministru kabineta noteiktajā kārtībā un gadījumos.

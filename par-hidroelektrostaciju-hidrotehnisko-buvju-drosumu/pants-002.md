@@ -1,0 +1,1 @@
+2.pants. Likums nosaka hidroelektrostaciju (turpmāk - HES) hidrotehnisko būvju valdītāju darbības tiesiskos pamatus, kā arī organizatoriskos pasākumus, kas veicami, lai panāktu esošo, atjaunojamo un jaunbūvējamo HES hidrotehnisko būvju drošumu, un valsts institūciju, kura uzrauga un kontrolē hidrotehnisko būvju drošumu.
