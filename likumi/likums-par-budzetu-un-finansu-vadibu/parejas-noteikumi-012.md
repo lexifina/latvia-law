@@ -1,0 +1,1 @@
+12. Līdz šā likuma 29.panta otrajā daļā paredzēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2005.gada 31.decembrim piemērojami Ministru kabineta 2001.gada 6.marta noteikumi Nr.96 "Noteikumi par budžeta iestāžu pamatlīdzekļu nolietojuma normām un pielietošanas nosacījumiem", ciktāl tie nav pretrunā ar šo likumu.

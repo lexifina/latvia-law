@@ -1,0 +1,1 @@
+14. Šā likuma 5.panta devītajā daļā, 12.pantā, 24.panta otrajā un trešajā daļā, 29.panta otrajā daļā, 30.panta sestajā un septītajā daļā un 35.panta trešajā daļā minētos noteikumus Ministru kabinets izdod līdz 2005.gada 1.jūlijam.

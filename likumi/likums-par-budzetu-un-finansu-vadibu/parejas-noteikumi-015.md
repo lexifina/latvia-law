@@ -1,0 +1,1 @@
+15. Līdz šā likuma 37.panta otrajā daļā paredzēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2005.gada 1.jūlijam piemērojami Ministru kabineta 2001.gada 30.aprīļa noteikumi Nr.179 "Kārtība, kādā finanšu ministrs valsts vārdā sniedz galvojumus", ciktāl tie nav pretrunā ar šo likumu.

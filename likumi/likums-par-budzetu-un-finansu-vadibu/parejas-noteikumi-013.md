@@ -1,0 +1,1 @@
+13. Līdz šā likuma 30.panta pirmajā un otrajā daļā paredzēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2005.gada 1.jūlijam piemērojami Ministru kabineta 2004.gada 30.novembra noteikumi Nr.999 "Valsts un pašvaldību budžeta iestāžu gada pārskatu sagatavošanas kārtība", ciktāl tie nav pretrunā ar šo likumu.

@@ -1,5 +1,5 @@
 35. pants. Aizņēmumu ierobežojumi
 (1) Finanšu ministrs valsts vārdā var ņemt aizņēmumus gadskārtējā valsts budžeta likumā atļautajos apmēros. Aizņēmumu līdzekļi ir valsts budžeta līdzekļi, kas tiek izlietoti tikai apropriācijas kārtībā. Finanšu ministrs valsts vārdā var ņemt aizņēmumus tikai valsts budžeta fiskālā deficīta finansēšanai un valsts parāda refinansēšanai, kā arī citiem mērķiem, ja tie noteikti gadskārtējā valsts budžeta likumā.
 (2) Finanšu ministrs ekonomijas un efektivitātes labad var izraudzīties aizdevēju, aizņēmuma veidu un valūtu.
-(3) Aizņēmumus var ņemt Latvijā vai ārvalstīs, izlaižot vērtspapīrus, noslēdzot aizņēmuma līgumus vai izmantojot citus aizņēmuma līdzekļus.
+(3) Aizņēmumus var ņemt Latvijā vai ārvalstīs, izlaižot vērtspapīrus, noslēdzot aizņēmuma līgumus vai izmantojot citus aizņēmuma līdzekļus. Ministru kabinets apstiprina valsts vērtspapīru izlaišanas noteikumus.
 (4) Gadskārtējais valsts budžeta likums nosaka neatmaksātā valsts parāda un valdības rīcības pieļaujamās robežas neparedzētu apstākļu izraisītu valdības saistību gadījumā. Šīs robežas tiek noteiktas latos atbilstoši valūtas maiņas kursam, kāds bija noteikts attiecīgā gada budžeta pieprasījumu sastādīšanas instrukcijā.

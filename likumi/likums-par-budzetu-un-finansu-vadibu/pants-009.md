@@ -9,5 +9,6 @@
 3) norēķiniem ar Eiropas Savienību;
 4) starptautisko tiesu spriedumu izpildei;
 5) valsts parāda saistību dzēšanai;
-6) Eiropas Savienības politiku instrumentu līdzfinansēto projektu īstenošanai.
+6) Eiropas Savienības politiku instrumentu līdzfinansēto projektu īstenošanai;
+7) Eiropas Savienības politiku instrumentiem, lai īstenotu tādus Eiropas Lauksaimniecības virzības un garantiju fonda Garantiju daļas finansētos intervences pasākumus, eksporta kompensācijas un tirgus pasākumus, kuri izriet no Eiropas Savienības tieši piemērojamiem tiesību aktiem.
 (6) Par apropriācijas palielināšanu šā panta piektajā daļā minētajiem mērķiem finanšu ministrs nekavējoties informē Ministru kabinetu un Saeimu. Izdevumus minētajiem mērķiem finanšu ministrs ir tiesīgs veikt, ja Saeimas Budžeta un finanšu (nodokļu) komisija piecu dienu laikā no attiecīgās informācijas saņemšanas nav iebildusi pret apropriācijas palielinājumu.

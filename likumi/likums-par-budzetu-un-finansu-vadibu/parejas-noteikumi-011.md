@@ -1,0 +1,1 @@
+11. Līdz šā likuma 14.panta trešajā daļā paredzēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2005.gada 1.jūlijam piemērojami Ministru kabineta 2002.gada 6.novembra noteikumi Nr.231 "Noteikumi par gada publisko pārskatu saturu un sagatavošanas kārtību", ciktāl tie nav pretrunā ar šo likumu.

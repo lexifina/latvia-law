@@ -7,3 +7,4 @@
 (6) Valsts budžeta aizdevumi ir valsts budžeta līdzekļi, kas nodoti juridiskajām personām un rada tiesības rīkoties ar tiem un pienākumu atdot saņemto aizdevumu, kā arī aizdevumi no valsts budžeta pārņemto saistību pildīšanai saskaņā ar izsniegtajiem valsts galvojumiem.
 (7) Valsts budžeta aizdevumu atmaksas veido visi atmaksātie aizdevumi.
 (8) Valsts budžeta finansiālā pārpalikuma vai finansiālā deficīta (finansiālā bilance) un tīro aizdevumu starpība veido valsts budžeta fiskālo deficītu vai fiskālo pārpalikumu (fiskālā bilance).
+(9) Ministru kabinets izdod noteikumus par valsts tiešās pārvaldes iestāžu sniegto maksas pakalpojumu cenrāžu apstiprināšanu.
