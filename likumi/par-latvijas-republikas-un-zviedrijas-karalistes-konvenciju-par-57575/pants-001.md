@@ -1,0 +1,1 @@
+1. pants. 1993. gada 5. aprīlī Stokholmā parakstītā Latvijas Republikas un Zviedrijas Karalistes konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu ar likumu pieņemta un apstiprināta.
