@@ -1,5 +1,5 @@
 34. pants. Valsts policijas finansēšana
-Valsts policijas finansu līdzekļus veido:
+Valsts policijas finanšu līdzekļus veido:
 1) dotācija no vispārējiem ieņēmumiem valsts budžetā;
 2) pašu ieņēmumi, kurus iegūst:
 a) noteiktā kārtībā noslēdzot līgumus ar juridiskajām un fiziskajām personām;
