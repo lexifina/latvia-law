@@ -1,0 +1,1 @@
+5. Šā likuma 57.¹ panta otrajā daļā un 57.⁸ pantā paredzētos pabalstus izmaksā un 57.⁶ pantā paredzētos izdevumus atmaksā Ministru kabineta noteiktajā apmērā un kārtībā, kāda paredzēta valsts civildienesta ierēdņiem.
