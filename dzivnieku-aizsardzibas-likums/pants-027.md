@@ -1,1 +1,1 @@
-27.pants. Savvaļas dzīvnieku sagūstīt un turēt nebrīvē ir atļauts tikai zinātniskos, izglītojošos vai sugas saglabāšanas nolūkos, ja saņemta Vides aizsardzības un reģionālās attīstības ministrijas atļauja.
+27.pants. Savvaļas dzīvnieku sagūstīt un turēt nebrīvē ir atļauts, ja saņemta attiecīga Vides aizsardzības un reģionālās attīstības ministrijas atļauja.
