@@ -1,0 +1,1 @@
+1.pants. Terehovas robežkontroles punkta vajadzībām ir atsavināts 1,65 hektāri liels zemes gabals (kadastra nr.6896-006-0025) no Kalvim Rūtiņam piederošā nekustamā īpašuma (kadastra nr.6896-006-0002), kas atrodas Ludzas rajona Zaļesjes pagasta "Robežniekos" un ierakstīts Zaļesjes pagasta zemesgrāmatas nodalījumā nr.28.

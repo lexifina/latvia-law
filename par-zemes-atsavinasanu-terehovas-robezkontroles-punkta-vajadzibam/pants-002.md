@@ -1,0 +1,1 @@
+2.pants. Šā likuma 1.pantā minētais zemes gabals ierakstāms zemesgrāmatā uz valsts vārda Finansu ministrijas personā atbilstoši likumam "Par nekustamā īpašuma atsavināšanu valsts vai sabiedriskajām vajadzībām".
