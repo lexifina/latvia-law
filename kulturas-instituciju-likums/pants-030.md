@@ -1,0 +1,1 @@
+30.pants. Nacionālas nozīmes kultūras institūcijas tiek dibinātas, reorganizētas vai likvidētas tikai speciālos likumos noteiktajā kārtībā, un šie likumi nosaka to juridisko statusu, darbību, kā arī finansēšanas veidus un avotus.

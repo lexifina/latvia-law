@@ -1,0 +1,1 @@
+10.pants. Valsts kultūras uzņēmumi (uzņēmējsabiedrības) darbojas kā valsts bezpeļņas uzņēmumi (uzņēmējsabiedrības). Jautājumos, kuri nav noteikti šajā likumā, uz valsts kultūras uzņēmumiem (uzņēmējsabiedrībām) attiecināmi uzņēmējdarbību regulējošie likumi.

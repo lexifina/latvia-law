@@ -1,0 +1,1 @@
+29.pants. Nacionālas nozīmes kultūras institūcijas ir savā nozarē nozīmīgākās un valsts vadošās kultūras institūcijas, kuru pamatpienākums ir rūpēties par nacionālā kultūras mantojuma saglabāšanu, aktualizēšanu un attīstīšanu.

@@ -1,0 +1,1 @@
+32.pants. Kultūras institūcijas ir tiesīgas patstāvīgi sadarboties ar fiziskajām un juridiskajām personām un kultūras institūcijām citās valstīs, iestāties starptautiskās kultūras institūciju organizācijās un piedalīties to darbībā.
