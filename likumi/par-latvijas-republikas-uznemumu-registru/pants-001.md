@@ -1,6 +1,6 @@
 1. pants. Latvijas Republikas Uzņēmumu reģistrs
 Latvijas Republikas Uzņēmumu reģistrs ir juridiska persona, kas darbojas Tieslietu ministrijas pārraudzībā. Latvijas Republikas Uzņēmumu reģistru vada galvenais valsts notārs, kuru pēc tieslietu ministra ieteikuma ieceļ amatā un atbrīvo no amata Ministru kabinets.
-Uzņēmumu (uzņēmējsabiedrību) reģistrāciju šajā likumā noteiktajā kārtībā veic:
+Uzņēmumu (uzņēmējsabiedrību) un masu informācijas līdzekļu reģistrāciju šajā likumā noteiktajā kārtībā veic:
 - Uzņēmumu reģistra galvenais valsts notārs;
 - Uzņēmumu reģistra galvenā valsts notāra vietnieki;
 - Uzņēmumu reģistra valsts notāri.
