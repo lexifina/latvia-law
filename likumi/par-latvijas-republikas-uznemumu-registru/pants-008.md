@@ -11,9 +11,9 @@ Ja Latvijas Republikas Uzņēmumu reģistrs 30 dienu laikā nesaņem pieprasīto
 Ja bezpeļņas organizācija pārkāpj statūtus vai iegūst peļņu, Latvijas Republikas Uzņēmumu reģistrs pēc Valsts finansu inspekcijas motivēta iesnieguma pārreģistrē to par uzņēmumu vai uzņēmējsabiedrību.
 Uzņēmumu reģistra žurnālā ierakstītās ziņas, ja tās nav jau publicētas uz citu likumu pamata, ne vēlāk kā 7 dienu laikā no šā panta 2. punktā minētā lēmuma pieņemšanas dienas jāpublicē laikrakstā "Latvijas Vēstnesis".
 Reģistrēto uzņēmējsabiedrību statūti un statūtu grozījumi jāpublicē par attiecīgo sabiedrību līdzekļiem laikrakstā "Latvijas Vēstnesis".
-Visus reģistrējamos grozījumus uzņēmumi (uzņēmējsabiedrības) piesaka Uzņēmumu reģistrā 15 dienu laikā no lēmuma pieņemšanas brīža. Grozījumi ir spēkā ar to reģistrācijas brīdi Uzņēmumu reģistrā.
+Visus reģistrējamos grozījumus uzņēmumi (uzņēmējsabiedrības) piesaka Uzņēmumu reģistrā 15 dienu laikā no lēmuma pieņemšanas dienas. Grozījumi ir spēkā ar brīdi, kad tie reģistrēti Uzņēmumu reģistrā.
 Ja Uzņēmumu reģistra žurnālā ierakstītās ziņas ir publicētas, tās var izmantot kā oficiālus avotus.
 Darījumu attiecībās ar uzņēmumu (uzņēmējsabiedrību), tā filiāli vai pārstāvniecību noteicošais ir publikācija un ieraksts, ko par attiecīgo uzņēmumu (uzņēmējsabiedrību), tā filiāli vai pārstāvniecību izdarījis Latvijas Republikas Uzņēmumu reģistra valsts notārs.
 Par uzņēmuma (uzņēmējsabiedrības), tā filiāļu un pārstāvniecību dokumentu norakstiem, citu likumdošanā paredzēto darbību izpildi un informācijas izsniegšanu ņemama valsts nodeva.
-Uzņēmumu reģistra darbības nodrošināšanai izmanto divdesmit procentus no valsts nodevas par uzņēmumu (uzņēmējsabiedrību), to filiāļu un pārstāvniecību reģistrāciju, to pamatdokumentu grozījumu reģistrāciju, informācijas saņemšanu no Uzņēmumu reģistra, kā arī no ienākumiem, kas tiek gūti par maksas pakalpojumiem un tiek ieskaitīti Tieslietu ministrijas speciālajā budžetā.
-Maksas pakalpojumu veidus, maksu un speciālā budžeta izlietojuma kārtību nosaka Ministru kabinets.
+Uzņēmumu reģistra darbības nodrošināšanai izmanto piecdesmit procentus no valsts nodevas par uzņēmumu (uzņēmējsabiedrību), to filiāļu un pārstāvniecību reģistrāciju, to pamatdokumentu grozījumu reģistrāciju, informācijas saņemšanu no Uzņēmumu reģistra, kā arī no ienākumiem, kas tiek gūti par maksas pakalpojumiem un tiek ieskaitīti Tieslietu ministrijas pamatbudžeta kontā.
+Maksas pakalpojumu veidus, maksu nosaka Ministru kabinets.
