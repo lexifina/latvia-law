@@ -1,0 +1,1 @@
+1.pants. 1995.gada 15.septembrī Ankarā parakstītais Latvijas Republikas valdības un Turcijas Republikas valdības līgums par starptautiskajiem pārvadājumiem ar autotransportu (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
