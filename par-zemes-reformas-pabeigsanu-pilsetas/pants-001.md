@@ -1,0 +1,1 @@
+1.pants. Šis likums nosaka kārtību, kādā pabeidzama zemes reforma pilsētās, kā arī līdz tās pabeigšanai sakārtojamas zemes lietošanas tiesības un īpašuma attiecības un izskatāmi strīdi ar zemes reformu saistītajos jautājumos.

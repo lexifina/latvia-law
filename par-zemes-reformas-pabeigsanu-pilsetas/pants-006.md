@@ -1,0 +1,1 @@
+6.pants. Mēneša laikā pēc zemes reformas pabeigšanas pilsētas pašvaldība sagatavo un iesniedz Valsts zemes dienestam paziņojumu par zemes reformas pabeigšanu un pārskatu par attiecīgo darbu izpildi, norādot zemes platības, kuras saskaņā ar likuma "Par valsts un pašvaldību zemes īpašuma tiesībām un to nostiprināšanu zemesgrāmatās" 7.pantu nostiprināmas uz valsts vārda.

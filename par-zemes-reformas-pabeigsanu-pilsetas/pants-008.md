@@ -1,0 +1,1 @@
+8.pants. Ja tiek pieņemts Ministru kabineta rīkojums par atsevišķu valstij piekrītošu zemes gabalu nodošanu kādai no pašvaldībām, īpašuma tiesības uz šiem zemes gabaliem nostiprināmas zemesgrāmatā uz attiecīgās pašvaldības vārda bez iepriekšējas īpašuma tiesību nostiprināšanas uz valsts vārda.

@@ -1,0 +1,1 @@
+4.pants. Ja vēl nav uzsākta par valsts budžeta līdzekļiem finansētā to zemes gabalu robežu uzmērīšana, uz kuriem tiek atjaunotas zemes īpašuma tiesības, bijušajiem zemes īpašniekiem vai viņu mantiniekiem ir tiesības līdz 1998.gada 31.decembrim no šīs zemes atteikties un pieprasīt par to īpašuma kompensācijas sertifikātus.

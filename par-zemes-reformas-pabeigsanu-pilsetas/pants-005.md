@@ -1,0 +1,3 @@
+5.pants. (1) Zemes reforma uzskatāma par pabeigtu, ja pilsētas pašvaldības teritorijā ir izpildīti likuma "Par zemes reformu Latvijas Republikas pilsētās" 6., 7. un 8.pantā paredzētie darbi.
+(2) Pilsētu zemes komisijas izbeidz savu darbību, ja tās ir izpildījušas likuma "Par zemes reformu Latvijas Republikas pilsētās" 6.panta 4.punktā un 8.panta 1.punktā noteiktos pasākumus un šā likuma 2.panta prasības.
+(3) Gadījumos, kad pilsētu zemes komisijas ir pieņēmušas lēmumus par zemes īpašuma un lietošanas tiesībām, bet īpašniekiem un lietotājiem dokumenti nav izsniegti, tos šā likuma 15.pantā noteiktajā kārtībā pārņem attiecīgās Valsts zemes dienesta nodaļas.

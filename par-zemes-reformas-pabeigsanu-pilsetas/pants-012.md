@@ -1,0 +1,1 @@
+12.pants. Fiziskās personas, kuras pērk šajā likumā noteiktajā kārtībā uz valsts vārda zemesgrāmatā nostiprinātos zemes gabalus, ir atbrīvotas no valsts nodevas maksāšanas. Noslēdzot zemes pirkuma līgumu, ievērojami likuma "Par zemes reformu Latvijas Republikas pilsētās" 21.panta otrajā daļā minētie ierobežojumi.

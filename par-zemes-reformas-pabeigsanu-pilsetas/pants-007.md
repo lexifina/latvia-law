@@ -1,0 +1,1 @@
+7.pants. Tieslietu ministrs noteiktā kārtībā iesniedz Ministru kabinetam izskatīšanai Valsts zemes dienesta sagatavotos rīkojuma projektus par zemes reformas pabeigšanu attiecīgo pašvaldību teritorijā.

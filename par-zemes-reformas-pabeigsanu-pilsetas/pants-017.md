@@ -1,0 +1,1 @@
+17.pants. Ja ir nokavēts termiņš, līdz kuram bija jāiesniedz dokumenti, kas apliecina zemes īpašuma vai mantošanas tiesības, Centrālā zemes komisija var atjaunot zemes īpašuma tiesības vai piešķirt kompensāciju. Centrālās zemes komisijas lēmumu mēneša laikā pēc tā paziņošanas var pārsūdzēt tiesā.

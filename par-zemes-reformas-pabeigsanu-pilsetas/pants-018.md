@@ -1,0 +1,1 @@
+18.pants. Pilsētu administratīvajās robežās, ja ēkas (būves) un zeme ir patstāvīgi īpašuma objekti, strīdus, kas saistīti ar zemes nomas maksas noteikšanu, izskata Centrālā zemes komisija, kuras lēmumu mēneša laikā pēc tā paziņošanas var pārsūdzēt tiesā.

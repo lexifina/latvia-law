@@ -1,0 +1,3 @@
+16.pants. Pēc pilsētas zemes komisijas darbības izbeigšanās līdz zemes reformas pabeigšanai zemes strīdi izskatāmi šādā kārtībā:
+1) ar zemes īpašuma robežām saistītos strīdus līdz īpašuma reģistrēšanai zemesgrāmatā izskata Valsts zemes dienesta attiecīgās nodaļas izveidota komisija, kuras sastāvā ir pilsētas domes iecelts pārstāvis, un tās lēmumu mēneša laikā pēc tā paziņošanas var pārsūdzēt Centrālajā zemes komisijā vai tiesā;
+2) pilsētas zemes komisijas lēmumus par zemes īpašuma tiesībām, maksas noteikšanu par izpērkamo zemi un kompensācijas apmēriem mēneša laikā pēc to paziņošanas var pārsūdzēt Centrālajā zemes komisijā vai tiesā.
