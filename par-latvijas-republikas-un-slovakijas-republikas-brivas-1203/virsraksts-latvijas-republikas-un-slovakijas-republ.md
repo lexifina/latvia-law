@@ -1,0 +1,1 @@
+Latvijas Republikas un Slovākijas Republikas brīvās tirdzniecības līguma Apvienotās komitejas lēmums Nr. 1/2000 "Par grozījumiem Latvijas Republikas un Slovākijas Republikas brīvās tirdzniecības līguma 3. protokolā"

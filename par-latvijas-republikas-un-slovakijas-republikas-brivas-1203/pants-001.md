@@ -1,0 +1,1 @@
+1.pants. 2000.gada 18.decembrī Rīgā parakstītais Latvijas Republikas un Slovākijas Republikas brīvās tirdzniecības līguma Apvienotās komitejas lēmums Nr. 1/2000 "Par grozījumiem Latvijas Republikas un Slovākijas Republikas brīvās tirdzniecības līguma 3.protokolā" (turpmāk - Lēmums) ar šo likumu tiek pieņemts un apstiprināts.
