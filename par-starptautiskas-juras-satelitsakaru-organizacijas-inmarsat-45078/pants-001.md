@@ -1,0 +1,1 @@
+1.pants. 1981.gada 1.decembrī Londonā parakstītais Starptautiskās jūras satelītsakaru organizācijas (INMARSAT) protokols par privilēģijām un imunitātēm (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
