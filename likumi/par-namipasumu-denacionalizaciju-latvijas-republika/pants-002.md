@@ -2,3 +2,4 @@
 Par labticīgu ieguvēju nevar atzīt personu:
 - kura namīpašumu ieguvusi pēc tam, kad bijušais īpašnieks (mantinieks) valsts varas vai pārvaldes iestādei, pašreizējam namīpašuma valdītājam vai arī tiesībaizsardzības iestādēm iesniedzis pieteikumu par namīpašuma atgūšanu;
 - kura, ņemot dalību represijās, sekmējusi namīpašuma nodošanu tās īpašumā.
+Ja laikā no nacionalizācijas brīža namīpašums ir pārbūvēts tādā mērā, ka lielāko tā substances daļu (vairāk par 65 procentiem) veido vēlākā laika izbūve, un patlaban namīpašums visā pilnībā tiek izmantots valsts vai sabiedriskajām vajadzībām, tas nav atdodams natūrā, bet bijušajam īpašniekam izmaksājama kompensācija naudā, pamatojoties uz īpašuma novērtējumu pirms 1940. gada 17. jūnija. Lēmumu par kompensācijas izmaksu pēc ieinteresētās ministrijas priekšlikuma pieņem Ministru kabinets. Ja Ministru kabinets noraida priekšlikumu par kompensācijas izmaksu, namīpašums denacionalizējams šajā likumā noteiktajā kārtībā.

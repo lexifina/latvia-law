@@ -1,1 +1,3 @@
-6. pants. Strīdus par namīpašuma atdošanu, kā arī par tā vērtības atlīdzināšanu vai cita veida kompensāciju izskata tiesa.
+6. pants. Ja rajona vai pilsētas pašvaldība trīs mēnešu laikā no dienas, kad saņemti visi nepieciešamie dokumenti, nav pēc būtības izskatījusi bijušā īpašnieka vai viņa mantinieku pieprasījumu atjaunot īpašuma tiesības uz namīpašumu, viņiem ir tiesības prasīt īpašuma tiesību atjaunošanu tiesas ceļā.
+Sūdzības par pašvaldības lēmumiem namīpašumu atdošanas jautājumos, kā arī par to vērtības atlīdzināšanu vai cita veida kompensāciju izskata tiesa.
+Īpašnieki vai viņu mantinieki atbrīvojami no tiesas izdevumu samaksas attiecībā uz prasījumiem par namīpašumu atdošanu un ar to saistīto prasību par zaudējumu atlīdzību.
