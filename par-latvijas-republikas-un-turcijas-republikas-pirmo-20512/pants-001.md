@@ -1,0 +1,1 @@
+1.pants. 2001.gada 7.martā Rīgā parakstītais Latvijas Republikas un Turcijas Republikas pirmais papildprotokols "Par grozījumiem Latvijas Republikas un Turcijas Republikas brīvās tirdzniecības līguma C protokolā par "izcelsmes produkcijas" jēdziena definējumu un administratīvās sadarbības metodēm" (turpmāk - Papildprotokols) ar šo likumu tiek pieņemts un apstiprināts.
