@@ -1,0 +1,1 @@
+1.pants. Latvijas Republikas un Eiropas brīvās tirdzniecības asociācijas valstu līguma Apvienotās komitejas lēmums nr. 2/2001 "Grozījums D protokolā (monopoli)" (turpmāk - Lēmums) ar šo likumu tiek pieņemts un apstiprināts.
