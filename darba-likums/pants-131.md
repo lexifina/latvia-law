@@ -1,0 +1,4 @@
+131.pants. Normālais darba laiks
+(1) Darbinieka normālais dienas darba laiks nedrīkst pārsniegt astoņas stundas, bet normālais nedēļas darba laiks - 40 stundas. Dienas darba laiks šā likuma izpratnē ir darba laiks diennakts periodā.
+(2) Ja dienas darba laiks kādā no nedēļas darba dienām ir īsāks par normālo dienas darba laiku, citā nedēļas darba dienā normālo dienas darba laiku var pagarināt, bet ne vairāk kā par vienu stundu. Šādā gadījumā jāievēro noteikumi par nedēļas darba laika ilgumu.
+(3) Darbiniekiem, kuri pakļauti īpašam riskam, normālais darba laiks nedrīkst pārsniegt septiņas stundas dienā un 35 stundas nedēļā, ja viņi šajā darbā ir nodarbināti ne mazāk kā 50 procentus no normālā dienas vai nedēļas darba laika. Ministru kabinets var noteikt normālo saīsināto darba laiku arī citām darbinieku kategorijām.

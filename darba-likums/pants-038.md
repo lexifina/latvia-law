@@ -1,0 +1,2 @@
+38.pants. Ziņas par pretendentu un darbā pieteikšanās dokumenti
+Lai izraudzītos nākamo darbinieku, darba devējam ir tiesības atbilstoši šā likuma 33., 35. un 36.pantam iegūtās ziņas, kā arī pretendenta iesniegtos darbā pieteikšanās dokumentus nodot tikai tām personām, kas uzņēmumā darba devēja uzdevumā sagatavo lēmumu par darbinieka pieņemšanu darbā. Minētās ziņas un dokumentus drīkst darīt zināmus trešajām personām tikai ar pretendenta piekrišanu.

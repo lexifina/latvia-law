@@ -1,0 +1,2 @@
+121.pants. Darbinieku pārstāvība uzņēmuma pārejas gadījumā
+Ja uzņēmums vai tā daļa pēc uzņēmuma pārejas saglabā savu patstāvību, šādas pārejas ietekmēto darbinieku pārstāvju statuss un funkcija tiek saglabāti ar tiem pašiem noteikumiem, kādi bija spēkā līdz uzņēmuma pārejas brīdim. Šie noteikumi nav piemērojami, ja izpildīti priekšnoteikumi, kas nepieciešami darbinieku pārstāvju ievēlēšanai no jauna vai darbinieku pārstāvības izveidošanai no jauna.

@@ -1,0 +1,7 @@
+21.pants. Darba koplīguma noslēgšanas kārtība
+(1) Darba koplīgumu noslēgt ierosina darbinieku pārstāvji, darba devējs vai šā likuma 18.pantā minētās organizācijas vai to apvienības (savienības). Darba devējs nav tiesīgs atteikties no sarunām par darba koplīguma slēgšanu.
+(2) Rakstveida atbilde uz priekšlikumu noslēgt darba koplīgumu sniedzama 10 dienu laikā no priekšlikuma saņemšanas dienas.
+(3) Darba koplīguma noslēgšanai puses rīko sarunas, vienojoties par darba koplīguma projekta izstrādāšanas un apspriešanas kārtību. Puses uz šīm sarunām var uzaicināt speciālistus, izveidot darba grupas, iekļaujot tajās vienādā skaitā abu pušu pārstāvjus, kā arī patstāvīgi izstrādāt darba koplīguma projektu.
+(4) Darba devējam pēc darbinieku pārstāvju pieprasījuma ir pienākums sniegt viņiem darba koplīguma noslēgšanai nepieciešamo informāciju.
+(5) Ja sarunu gaitā vienas puses iebildumu dēļ netiek panākta vienošanās par darba koplīguma projekta izstrādāšanas un apspriešanas kārtību vai par darba koplīguma saturu, šai pusei ir pienākums ne vēlāk kā 10 dienu laikā sniegt rakstveida atbildi uz otras puses izteiktajiem priekšlikumiem. Ja saņemts darba koplīguma projekts kopumā, rakstveida atbilde sniedzama ne vēlāk kā viena mēneša laikā, un tajā puse norāda savus iebildumus un priekšlikumus attiecībā uz šo projektu.
+(6) Ikvienam darbiniekam ir tiesības rakst-veidā iesniegt darba koplīguma pusēm savus priekšlikumus attiecībā uz darba koplīguma projektu.

@@ -1,0 +1,2 @@
+148.pants. Darba laika organizēšanas īpašie noteikumi
+Šā likuma 131.panta pirmās daļas, 136.panta piektās daļas, 138.panta trešās daļas, 142.panta pirmās daļas, 143.panta pirmās daļas un 145.panta noteikumus, ievērojot darba drošības un veselības aizsardzības principus, kā arī nodrošinot pietiekamu atpūtu, var neattiecināt uz situācijām, kad, ievērojot attiecīgās darbības īpatnības, darba laika ilgums netiek mērīts vai iepriekš noteikts vai to var noteikt paši darbinieki.

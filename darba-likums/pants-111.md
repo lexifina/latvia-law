@@ -1,0 +1,2 @@
+111.pants. Laiks jauna darba meklēšanai
+Ja darba līgums uzteikts, pamatojoties uz šā likuma 101.panta pirmās daļas 6., 7., 8., 9. vai 10.punktu, darba devējam pēc darbinieka rakstveida pieprasījuma ir pienākums nolīgtā darba laika ietvaros piešķirt darbiniekam atbilstošu laiku cita darba meklēšanai. Šā laika ilgumu un šajā laikposmā darbiniekam saglabājamās izpeļņas apmēru nosaka darba koplīgumā vai darba līgumā.

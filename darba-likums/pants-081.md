@@ -1,0 +1,3 @@
+81.pants. Darba gaita
+(1) Darbiniekam savu darba pienākumu ietvaros ir pienākums rūpēties par to, lai pēc iespējas novērstu vai mazinātu šķēršļus, kas nelabvēlīgi ietekmē vai var ietekmēt parasto darba gaitu uzņēmumā, kā arī par to, lai pēc iespējas novērstu vai mazinātu draudošus vai jau radušos zaudējumus. Izņēmums pieļaujams tikai tajā gadījumā, kad šāda rīcība darbiniekam nav pa spēkam, nav no viņa taisnīgi sagaidāma vai arī to aizliedzis darba devējs.
+(2) Darbiniekam ir pienākums nekavējoties paziņot darba devējam par šā panta pirmajā daļā minētajiem šķēršļiem, zaudējumu rašanās draudiem vai jau esošiem zaudējumiem.

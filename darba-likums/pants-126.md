@@ -1,0 +1,3 @@
+126.pants. Atlīdzība par darba piespiedu kavējumu vai mazāk apmaksāta darba veikšanu
+(1) Darbiniekam, kas prettiesiski atlaists no darba un atjaunots iepriekšējā darbā, saskaņā ar tiesas spriedumu izmaksājama vidējā izpeļņa par visu darba piespiedu kavējuma laiku. Atlīdzība par visu darba piespiedu kavējuma laiku izmaksājama arī gadījumā, ja tiesa, kaut arī pastāv pamats darbinieku atjaunot iepriekšējā darbā, pēc viņa lūguma izbeidz darba tiesiskās attiecības ar tiesas spriedumu.
+(2) Darbiniekam, kas prettiesiski pārcelts citā, mazāk apmaksātā darbā un pēc tam atjaunots iepriekšējā darbā, saskaņā ar tiesas spriedumu izmaksājama vidējās izpeļņas starpība par to laiku, kad viņš veicis mazāk apmaksātu darbu.

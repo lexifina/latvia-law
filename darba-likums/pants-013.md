@@ -1,0 +1,7 @@
+13.pants. Darba līgumam un darba tiesiskajām attiecībām piemērojamais likums
+(1) Darbinieks un darba devējs var vienoties par darba līgumam un darba tiesiskajām attiecībām piemērojamo likumu. Šāda izvēle nevar darbiniekam atņemt vai ierobežot aizsardzību, kas noteikta ar tās valsts likuma pavēlošajām vai aizliedzošajām normām, kuras likums būtu piemērojams atbilstoši šā panta otrajai, trešajai, ceturtajai vai piektajai daļai.
+(2) Ja darbinieks un darba devējs nav izvēlējušies piemērojamo likumu, darba līgumam un darba tiesiskajām attiecībām piemērojams Latvijas likums, ciktāl šā panta trešajā un ceturtajā daļā nav noteikts citādi.
+(3) Ja darbinieks un darba devējs nav izvēlējušies piemērojamo likumu un darbinieks atbilstoši darba līgumam parasti veic savu darbu citā valstī, darba līgumam un darba tiesiskajām attiecībām piemērojams šīs citas valsts likums.
+(4) Ja darbinieks un darba devējs nav izvēlējušies piemērojamo likumu un darbinieks atbilstoši darba līgumam savu darbu neveic vienā un tajā pašā valstī, darba līgumam un darba tiesiskajām attiecībām piemērojams tā uzņēmuma atrašanās vietas valsts likums, kurā darbinieks tika pieņemts darbā.
+(5) Šā panta trešās un ceturtās daļas noteikumi nav piemērojami, ja no lietas apstākļiem izriet, ka darba līgums vai darba tiesiskās attiecības ir ciešāk saistītas ar citu valsti. Šādā gadījumā piemērojams šīs citas valsts likums.
+(6) Likums šā panta izpratnē ir jebkura tiesību norma.

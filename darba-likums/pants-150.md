@@ -1,0 +1,7 @@
+150.pants. Ikgadējā apmaksātā atvaļinājuma piešķiršanas kārtība
+(1) Ikgadējo apmaksāto atvaļinājumu piešķir katru gadu noteiktā laikā saskaņā ar darbinieka un darba devēja vienošanos vai atvaļinājumu grafiku, ko sastāda darba devējs pēc konsultēšanās ar darbinieku pārstāvjiem. Ar atvaļinājumu grafiku un tā grozījumiem iepazīstināmi visi darbinieki, un tam jābūt pieejamam ikvienam darbiniekam.
+(2) Darba devējam ir pienākums, piešķirot ikgadējo apmaksāto atvaļinājumu, pēc iespējas ņemt vērā darbinieka vēlmes.
+(3) Darbinieks var prasīt ikgadējā apmaksātā atvaļinājuma piešķiršanu par pirmo darba gadu, ja viņš pie darba devēja ir nepārtraukti nodarbināts ne mazāk kā sešus mēnešus. Darba devējam ir pienākums šādu atvaļinājumu piešķirt pilnā apmērā.
+(4) Sievietei pēc viņas pieprasījuma ikgadējo apmaksāto atvaļinājumu piešķir pirms grūtniecības un dzemdību atvaļinājuma vai tieši pēc tā neatkarīgi no laika, kurā sieviete bijusi nodarbināta pie attiecīgā darba devēja.
+(5) Darbiniekam, kurš ir jaunāks par 18 gadiem, un darbiniekam, kuram ir bērns līdz triju gadu vecumam, ikgadējais apmaksātais atvaļinājums piešķirams vasarā vai pēc viņa vēlēšanās jebkurā citā laikā. Ja darbinieks, kurš ir jaunāks par 18 gadiem, turpina iegūt izglītību, ikgadējais apmaksātais atvaļinājums piešķirams, pēc iespējas saskaņojot to ar brīvlaiku izglītības iestādē.
+(6) Ikgadējo apmaksāto atvaļinājumu pārceļ vai pagarina darbinieka pārejošas darbnespējas gadījumā.

@@ -1,0 +1,3 @@
+57.pants. Darba līgumā neparedzēta darba veikšana
+(1) Darba devējam ir tiesības ne ilgāk kā uz vienu mēnesi viena gada laikā norīkot darbinieku darba līgumā neparedzēta darba veikšanai, lai novērstu nepārvaramas varas, nejauša notikuma vai citu ārkārtēju apstākļu izraisītas sekas, kuras nelabvēlīgi ietekmē vai var ietekmēt parasto darba gaitu uzņēmumā. Dīkstāves gadījumā darba devējam ir tiesības norīkot darbinieku darba līgumā neparedzēta darba veikšanai ne ilgāk kā uz diviem mēnešiem viena gada laikā.
+(2) Par darba līgumā neparedzētu darbu veikšanu darba devējam ir pienākums izmaksāt atbilstošu darba samaksu, kuras apmērs nedrīkst būt mazāks par darbinieka iepriekšējo vidējo izpeļņu.

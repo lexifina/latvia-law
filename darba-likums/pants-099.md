@@ -1,0 +1,4 @@
+99.pants. Darba devēja pienākums grozīt darba līguma noteikumus
+(1) Lai novērstu jebkādu risku, kas var negatīvi ietekmēt grūtnieces drošību vai veselību, darba devējam pēc ārsta atzinuma saņemšanas ir pienākums nodrošināt grūtniecei tādus darba apstākļus un darba laiku, lai viņas pakļaušana minētajam riskam tiktu novērsta. Ja šādus darba apstākļus vai darba laiku nav iespējams nodrošināt, darba devējam ir pienākums uz laiku pārcelt grūtnieci citā, piemērotā darbā. Darba samaksas apmērs pēc darba līguma noteikumu grozīšanas nedrīkst būt mazāks par sievietes iepriekšējo vidējo izpeļņu.
+(2) Ja šādu pārcelšanu citā darbā nav iespējams nodrošināt, darba devējam ir pienākums uz laiku piešķirt grūtniecei atvaļinājumu. Šādi piešķirta atvaļinājuma laikā grūtniecei tiek saglabāta iepriekšējā vidējā izpeļņa.
+(3) Šā panta noteikumi attiecīgi piemērojami arī sievietei pēcdzemdību periodā līdz vienam gadam, bet, ja sieviete baro bērnu ar krūti, - visā barošanas laikā.

@@ -1,0 +1,4 @@
+87.pants. Pamats darbinieka atbrīvošanai no civiltiesiskās atbildības
+(1) Darbinieks pilnībā vai daļēji atbrīvojams no civiltiesiskās atbildības par darba devējam nodarītajiem zaudējumiem, ja arī darba devējs pats - ar saviem rīkojumiem vai nenodrošinot pienācīgus darba apstākļus vai darba aprīkojumu - bijis vainīgs zaudējumu nodarīšanā. Darbinieka civiltiesiskās atbildības apmērs nosakāms atkarībā no lietas apstākļiem, īpaši ņemot vērā to, ciktāl pārsvarā bijusi darbinieka vai darba devēja vaina.
+(2) Šā panta pirmās daļas noteikumi attiecīgi piemērojami arī tad, kad darba devējs nav brīdinājis darbinieku par šādu zaudējumu rašanās risku, ko darbinieks nav paredzējis un viņam nevajadzēja paredzēt, kā arī tad, kad darba devējs nav ievērojis pienācīgo rūpību, lai zaudējumus novērstu vai mazinātu.
+(3) Tiesa atkarībā no lietas apstākļiem var samazināt darbinieka civiltiesiskās atbildības apmēru atbilstoši viņa mantas stāvoklim.

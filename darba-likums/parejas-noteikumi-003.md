@@ -1,0 +1,1 @@
+3. Līdz 2005.gada 1.janvārim darba devējs, uzteicot darba līgumu šā likuma 101.panta pirmās daļas 9. vai 10.punktā noteiktajos gadījumos, ja darba koplīgumā vai darba līgumā nav noteikts lielāks atlaišanas pabalsts, izmaksā atlaišanas pabalstu viena mēneša vidējās izpeļņas apmērā.

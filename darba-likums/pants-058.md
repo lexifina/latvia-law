@@ -1,0 +1,5 @@
+58.pants. Atstādināšana no darba
+(1) Atstādināšana no darba ir ar darba devēja rakstveida rīkojumu noteikts pagaidu aizliegums darbiniekam atrasties darba vietā un veikt darbu, par atstādināšanas laiku viņam neizmaksājot darba samaksu.
+(2) Darba devējam ir pienākums atstādināt darbinieku no darba, ja normatīvajos aktos noteiktajos gadījumos to pieprasa attiecīgi pilnvarota valsts institūcija.
+(3) Darba devējam ir tiesības atstādināt darbinieku no darba, ja šis darbinieks, veicot darbu vai arī atrodoties darba vietā, ir alkohola, narkotiku vai toksiska reibuma stāvoklī, kā arī citos gadījumos, kad darbinieka neatstādināšana no darba var kaitēt viņa paša vai trešo personu drošībai un veselībai, kā arī darba devēja vai trešo personu pamatotām interesēm.
+(4) Ja darbinieka atstādināšana no darba ir bijusi nepamatota darba devēja vainas dēļ, darba devējam ir pienākums izmaksāt darbiniekam vidējo izpeļņu par visu darba piespiedu kavējuma laiku, kā arī atlīdzināt ar atstādināšanu radušos zaudējumus.

@@ -1,0 +1,7 @@
+78.pants. Ieturējumi, kas izriet no darba devēja atprasījuma tiesībām
+(1) Ieturējumus, kas izriet no darba devēja atprasījuma tiesībām, var izdarīt no darbiniekam izmaksājamās darba samaksas, lai atprasītu:
+1) summas, kas pārmaksātas darba devēja maldības dēļ, ja darbinieks par šo pārmaksājumu ir zinājis vai viņam atbilstoši apstākļiem to vajadzēja zināt vai ja pārmaksājums pamatojas uz tādiem apstākļiem, kuros vainojams darbinieks;
+2) avansu, kas izmaksāts uz darba samaksas rēķina, kā arī neizlietoto un laikā neatmaksāto avansu, kas izmaksāts darbiniekam sakarā ar komandējumu vai darba braucienu vai arī citu paredzamo izdevumu segšanai;
+3) izmaksāto vidējo izpeļņu par neatstrādātajām atvaļinājuma dienām, ja darbinieku atlaiž no darba pirms tā darba gada beigām, par kuru viņš jau saņēmis atvaļinājumu, izņemot gadījumu, kad darba līgums tiek uzteikts, pamatojoties uz šā likuma 101.panta pirmās daļas 6., 7., 9. vai 10.punktu.
+(2) Šā panta pirmās daļas 1. un 2.punktā paredzētajos gadījumos darba devējs var dot rakstveida rīkojumu par ieturējumu izdarīšanu ne vēlāk kā divu mēnešu laikā no pārmaksātās summas izmaksas dienas vai avansa atmaksāšanai noteiktā termiņa izbeigšanās dienas. Par šāda rīkojuma izdošanu darba devējs nekavējoties paziņo darbiniekam.
+(3) Ja darbinieks apstrīd šā panta pirmās daļas 1. un 2.punktā paredzēto darba devēja atprasījuma tiesību pamatu vai apmēru, darba devējs var celt atbilstošu prasību tiesā divu gadu laikā no pārmaksātās summas izmaksas dienas vai avansa atmaksāšanai noteiktā termiņa izbeigšanās dienas.

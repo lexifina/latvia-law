@@ -1,0 +1,1 @@
+5. Ar šā likuma spēkā stāšanās dienu darba tiesiskajām attiecībām, kas nodibinātas pirms šā likuma spēkā stāšanās, piemērojami šā likuma noteikumi, izņemot pārejas noteikumu 6. un 7.punktā minētos gadījumus.

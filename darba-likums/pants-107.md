@@ -1,0 +1,3 @@
+107.pants. Kolektīvās atlaišanas uzsākšana
+(1) Darba devējs kolektīvo atlaišanu var uzsākt ne agrāk kā 60 dienas pēc paziņojuma iesniegšanas Nodarbinātības valsts dienestam, ja darba devējs un darbinieku pārstāvji nav vienojušies par vēlāku kolektīvās atlaišanas uzsākšanas termiņu.
+(2) Izņēmuma gadījumos Nodarbinātības valsts dienests var pagarināt šā panta pirmajā daļā noteikto termiņu līdz 75 dienām. Par termiņa pagarināšanu un tās iemesliem Nodarbinātības valsts dienests rakstveidā paziņo darba devējam un darbinieku pārstāvjiem divas nedēļas pirms šā panta pirmajā daļā minētā termiņa izbeigšanās.

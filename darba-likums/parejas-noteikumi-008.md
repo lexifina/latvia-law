@@ -1,0 +1,1 @@
+8. Darba līgumi, kas noslēgti pirms šā likuma spēkā stāšanās dienas un neatbilst šā likuma 40.panta noteikumiem, sešu mēnešu laikā, skaitot no likuma spēkā stāšanās dienas, noformējami atbilstoši 40.panta noteikumiem.
