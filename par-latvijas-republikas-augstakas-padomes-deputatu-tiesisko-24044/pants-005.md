@@ -1,2 +1,2 @@
-5.pants. (1) Šā likuma 1.pantā minētajiem deputātiem, sasniedzot vecumu, kādu valsts vecuma pensijas piešķiršanai nosaka likums "Par valsts pensijām", ir tiesības saņemt speciālu valsts pensiju 80 procentu apmērā no Saeimas deputāta mēnešalgas.
+5.pants. (1) Šā likuma 1.pantā minētajiem deputātiem, kļūstot par invalīdiem vai sasniedzot vecumu, kādu valsts vecuma pensijas piešķiršanai nosaka likums "Par valsts pensijām", ir tiesības saņemt speciālu valsts pensiju 80 procentu apmērā no Saeimas deputāta mēnešalgas.
 (2) Speciālo valsts pensiju izmaksā no valsts pamatbudžeta līdzekļiem, kuri piešķirti saskaņā ar gadskārtējā valsts budžeta likuma apropriāciju.
