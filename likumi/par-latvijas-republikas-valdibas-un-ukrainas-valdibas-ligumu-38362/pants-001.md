@@ -1,0 +1,1 @@
+1.pants. 1995.gada 23.decembrī Rīgā parakstītais Latvijas Republikas valdības un Ukrainas valdības līgums par gaisa satiksmi (turpmāk ― Līgums) un tā pielikums ar šo likumu tiek pieņemti un apstiprināti.
