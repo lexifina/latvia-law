@@ -1,7 +1,4 @@
-24. pants. Valsts policijas darbinieka nodrošināšana ar dzīvokli un telefonu
-Pašvaldības iestādes ne vēlāk kā sešus mēnešus pēc Valsts policijas pārvalžu, nodaļu, iecirkņu priekšnieku un iecirkņu inspektoru stāšanās amatā, ja nepieciešams, nodrošina viņus ar dienesta dzīvokli apkalpojamajā teritorijā vai tās tuvumā. Viņu dzīvokļos ierīko dienesta telefonus.
-Ja nepieciešams, dienesta dzīvokli piešķir un dienesta telefonu ierīko arī citiem valsts policijas darbiniekiem. Šajos gadījumos dienesta dzīvokli un dienesta telefonu piešķir likumos un normatīvajos aktos noteiktajā kārtībā.
-Ja valsts policijas darbiniekam šajā likumā noteiktajos termiņos un kārtībā dienesta dzīvokli nepiešķir, faktiskos izdevumus par dzīvojamās platības īri un komunālajiem pakalpojumiem viņam sedz no valsts līdzekļiem Ministru kabineta noteiktajā kārtībā un apjomā.
-Policijas iestādēm ir tiesības pirkt dzīvokļus un atsevišķas mājas par budžeta līdzekļiem policijas darbinieku vajadzībām Latvijas Republikas Ministru kabineta noteiktajā kārtībā.
-Ja policijas darbinieks, pildot dienesta pienākumus, iet bojā, viņa ģimene tiek apgādāta ar dzīvokli saskaņā ar iepriekšējiem atvieglotajiem noteikumiem un ne vēlāk kā gada laikā no policijas darbinieka bojāejas dienas Ministru kabineta noteiktajā kārtībā un apjomā.
-Policijas darbiniekus, kuri dzīvo un strādā pagastos, un ar viņiem kopā dzīvojošos ģimenes locekļus nodrošina ar dzīvokli un komunālajiem pakalpojumiem bez maksas Ministru kabineta noteiktajā kārtībā un apjomā.
+24. pants. Valsts policijas un Drošības policijas darbinieka nodrošināšana ar dzīvojamo telpu
+Valsts policijai un Drošības policijai ir tiesības pirkt dzīvojamās mājas vai atsevišķus dzīvokļus, kā arī celt dzīvojamās mājas Valsts policijas un Drošības policijas darbinieku vajadzībām.
+Pašvaldība pēc Valsts policijas vai Drošības policijas iestādes lūguma var nodrošināt Valsts policijas vai Drošības policijas darbinieku, kurš dienesta interesēs tiek pārcelts uz citu apdzīvotu vietu, ar dzīvojamo telpu dienesta vietas tuvumā.
+Kārtību, kādā Valsts policijas vai Drošības policijas darbiniekam, kurš dienesta interesēs tiek pārcelts uz citu apdzīvotu vietu, piešķirama kompensācija par dzīvojamās telpas īri un komunālajiem pakalpojumiem, kā arī kompensācijas apmēru nosaka iekšlietu ministrs.
