@@ -4,4 +4,5 @@
 3) Dobeles rajons,
 4) Jelgavas pilsēta,
 5) Jelgavas rajons,
-6) Tukuma rajons.
+6) Jēkabpils rajons,
+7) Tukuma rajons.

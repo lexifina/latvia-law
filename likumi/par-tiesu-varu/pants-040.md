@@ -3,7 +3,7 @@
 (2) Apgabaltiesas priekšsēdētājs:
 1) vada un kontrolē tiesas darbu;
 2) sadala pienākumus starp saviem vietniekiem un citiem tiesnešiem;
-3) organizē juridiskās mācības piesēdētājiem (zvērinātajiem);
+3) organizē juridiskās mācības piesēdētājiem;
 4) organizē tiesas darbu apmeklētāju pieņemšanā un iesniegumu izskatīšanā;
 5) vada tiesu prakses pētīšanas un vispārināšanas, ka arī tiesu statistikas kārtošanas darbu;
 6) organizē tiesas darbinieku kvalifikācijas celšanu;

@@ -1,5 +1,5 @@
-107. pants. Tieslietu ministrijas funkcijas tiesu organizatoriskās vadības jautājumos
-(1) Apgabaltiesu un rajonu (pilsētu) tiesu organizatorisko vadību likumos noteiktajos ietvaros realizē Tieslietu ministrija.
+107. pants. Tieslietu ministrijas funkcijas tiesu un zemesgrāmatu nodaļu organizatoriskās vadības jautājumos
+(1) Apgabaltiesu, rajonu (pilsētu) tiesu un zemesgrāmatu nodaļu organizatorisko vadību likumos noteiktajos ietvaros realizē Tieslietu ministrija.
 (2) Tieslietu ministrija:
 1) izraugās kandidātus apgabaltiesu un rajonu (pilsētu) tiesu tiesnešu amatam;
 2) izvirza priekšlikumus par tiesas piesēdētāju vēlēšanām;
@@ -11,3 +11,4 @@
 8) veic likumdošanas aktu un tiesu prakses sistematizāciju un kompjuterizāciju, nodrošina tiesas ar likumdošanas un citiem nepieciešamajiem materiāliem;
 9) rīkojas ar finansu līdzekļiem, lai nodrošinātu apgabaltiesu un rajonu (pilsētu) tiesu darbību, un apgādā tiesas ar nepieciešamajiem materiāltehniskajiem līdzekļiem;
 10) rūpējas par tiesu ēku celtniecību un esošo tiesu namu uzturēšanu kārtībā.
+(3) Tieslietu ministrija veic šā panta otrajā daļā norādītās funkcijas arī attiecībā uz zemesgrāmatu nodaļām.
