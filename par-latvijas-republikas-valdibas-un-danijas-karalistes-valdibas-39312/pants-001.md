@@ -1,0 +1,1 @@
+1.pants. 1995.gada 31.augustā Kopenhāgenā parakstītais Latvijas Republikas valdības un Dānijas Karalistes valdības līgums par savstarpējo palīdzību muitas jautājumos (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
