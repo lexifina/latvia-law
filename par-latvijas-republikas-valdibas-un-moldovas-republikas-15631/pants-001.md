@@ -1,0 +1,1 @@
+1.pants. 1999.gada 22.septembrī Rīgā parakstītais Latvijas Republikas valdības un Moldovas Republikas valdības līgums par ieguldījumu veicināšanu un savstarpēju aizsardzību (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
