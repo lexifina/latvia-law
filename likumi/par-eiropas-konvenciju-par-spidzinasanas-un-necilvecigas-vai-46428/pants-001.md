@@ -1,0 +1,1 @@
+1.pants. 1987.gada 26.novembra Eiropas konvencija par spīdzināšanas un necilvēcīgas vai pazemojošas rīcības vai soda novēršanu un tās pielikums (turpmāk - Konvencija), kā arī Konvencijas 1993.gada 4.novembra 1.protokols (turpmāk - 1.Protokols) un 2.protokols (turpmāk - 2.Protokols) ar šo likumu tiek pieņemti un apstiprināti.
