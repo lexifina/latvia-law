@@ -1,0 +1,1 @@
+1. pants. 1994.gada 27.oktobrī Ženēvā parakstītais Preču zīmju līgums (turpmāk - Līgums) un tā pielikums - Noteikumi un starptautiskie veidlapu paraugi (turpmāk - Pielikums) ar šo likumu tiek pieņemti un apstiprināti.
