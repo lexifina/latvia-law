@@ -1,0 +1,1 @@
+1.pants. Latvijas Republikas valdības un Eiropas Komisijas 2003.gada 18.decembrī Briselē parakstītais Kopējais sociālās iekļaušanas memorands (Latvija) (turpmāk - Memorands) ar šo likumu tiek pieņemts un apstiprināts.
