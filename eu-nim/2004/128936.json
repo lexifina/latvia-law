@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Klasiskā cūku mēra likvidēšanas un draudu novēršanas kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "192",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-03",
+  "entry_into_force": null,
+  "notification_date": "2006-02-28",
+  "commission_reference": "MNE(2006)51407",
+  "nim_celex": "71987L0487LVA_128936",
+  "nim_id": "128936",
+  "transposes_celex": [
+    "31987L0487"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b95d62a6-78a1-415b-bf65-2abbadbfa41f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
