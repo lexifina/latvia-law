@@ -1,0 +1,1 @@
+2.pants. Likuma mērķis ir izveidot DNS nacionālo datu bāzi, kas izmantojama noziedzīgu nodarījumu atklāšanā, kā arī noteikt un regulēt DNS ģenētiskās izpētes rezultātu apmaiņu ar ārvalstīm un starptautiskajām organizācijām.

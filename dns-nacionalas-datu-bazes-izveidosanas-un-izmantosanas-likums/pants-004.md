@@ -1,0 +1,1 @@
+4.pants. DNS nacionālajā datu bāzē apkopo un glabā informāciju par DNS profiliem un ziņas par personām, kuras turētas aizdomās, apsūdzētas, tiesājamas vai notiesātas, par neatpazītiem līķiem, par Latvijas Republikā pazudušām personām un par bioloģiskas izcelsmes pēdām.

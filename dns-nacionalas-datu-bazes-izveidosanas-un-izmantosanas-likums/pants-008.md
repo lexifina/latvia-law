@@ -1,0 +1,1 @@
+8.pants. Ziņas par ārvalstīs notiesātajiem Latvijas pilsoņiem, nepilsoņiem, Latvijā pastāvīgās uzturēšanās atļauju saņēmušajiem ārvalstniekiem, bezvalstniekiem un bēgļiem un informāciju par viņu DNS profiliem DNS nacionālajā datu bāzē iekļauj saskaņā ar Latvijas Republikai saistošiem starptautiskajiem līgumiem.
