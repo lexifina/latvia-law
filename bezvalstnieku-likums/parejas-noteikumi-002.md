@@ -1,0 +1,1 @@
+2. Personām, kuras Latvijas Republikā saņēmušas bezvalstnieka personu apliecinošu dokumentu pirms šā likuma spēkā stāšanās, izsniedzot jaunu bezvalstnieka ceļošanas dokumentu, vienlaikus izsniedz arī pastāvīgās uzturēšanās atļauju Latvijas Republikā.

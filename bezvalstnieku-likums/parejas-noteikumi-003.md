@@ -1,0 +1,1 @@
+3. Iesniegumus par bezvalstnieka statusa noteikšanu, kuri iesniegti Pilsonības un imigrācijas departamentam un par kuriem līdz šā likuma spēkā stāšanās dienai nav pieņemts lēmums, izskata un attiecīgu lēmumu pieņem šajā likumā noteiktajā kārtībā.
