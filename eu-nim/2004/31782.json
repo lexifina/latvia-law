@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru Kabineta 2004.gada  20.aprīļa noteikumi Nr.322 \"Vispārīgās prasības diētiskās pārtikas nekaitīgumam, kvalitātei un marķējumam, kā arī diētiskās pārtikas atbilstības novērtēšanas kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "66",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-28",
+  "entry_into_force": "2004-04-29",
+  "notification_date": "2004-10-13",
+  "commission_reference": "MNE(2004)51782",
+  "nim_celex": "72001L0015LVA_31782",
+  "nim_id": "31782",
+  "transposes_celex": [
+    "32001L0015"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4d20f0ea-8fc9-431d-8db9-db285ed31e6d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
