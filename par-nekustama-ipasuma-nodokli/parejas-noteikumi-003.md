@@ -1,0 +1,1 @@
+3. Līdz zemes reformas pabeigšanai nekustamā īpašuma nodokli par zemi, kas saskaņā ar šā likuma 2.pantu neatrodas kādas personas īpašumā vai tiesiskā valdījumā, maksā zemes lietotājs, bet, ja tāda nav, - nomnieks.

@@ -1,0 +1,1 @@
+7. Īpašuma nodokļa pārrēķinu par 1999.gadu, pārmaksāto vai papildus aprēķināto nodokļa summu atmaksāšanu nodokļa maksātājiem vai iekasēšanu no tiem par šo gadu, kā arī nodokļa pārskatīšanu saskaņā ar likuma "Par nodokļiem un nodevām" 16.panta 6.punktu un 23.pantu veic atbilstoši likumam "Par īpašuma nodokli".
