@@ -1,0 +1,1 @@
+1. pants. Civillietas, kas saistītas ar 1994. gada 28. septembrī motorprāmja «Estonia» katastrofā pazudušo izsludināšanu par mirušiem, tiek izskatītas atbilstoši Civillikuma un Latvijas Civilprocesa kodeksa normām un ievērojot šā likuma noteikumus.
