@@ -1,0 +1,1 @@
+1.pants. 1994.gada 27.februārī Jeruzalemē parakstītais Latvijas Republikas valdības un Izraēlas Valsts valdības līgums par ieguldījumu veicināšanu un savstarpējo aizsardzību (turpmāk - Līgums) ar šo likumu tiek apstiprināts un pieņemts.
