@@ -1,0 +1,1 @@
+3. Likuma 10. un 21.pantā noteiktās prasības attiecībā uz personām, kuru pastāvīgā dzīvesvieta ir Latvijā un kuras līdz šo prasību spēkā stāšanās dienai Latvijā lieto ārvalstīs reģistrētus transportlīdzekļus, izpildāmas līdz 2000.gada 1.augustam.

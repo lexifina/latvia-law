@@ -1,4 +1,4 @@
 47.pants. Noteikumi transportlīdzekļu vadītājiem, kas ierodas Latvijā no ārvalstīm vai ieved Latvijā transportlīdzekļus
 (1) Transportlīdzekļa vadītājam, kas ierodas Latvijā no ārvalstīm, atļauts vadīt transportlīdzekli, ja viņam ir klāt vadītāja apliecība, kurā norādītas 1968.gada Konvencijā par ceļu satiksmi noteiktās vadītāja kategorijas.
 (2) Transportlīdzekļa vadītājam, kurš ierodas Latvijā no ārvalstīm un uzturas Latvijā ilgāk par sešiem mēnešiem, noteiktā kārtībā jāapmaina transportlīdzekļa vadītāja apliecība.
-(3) No ārvalstīm uz laiku ievestie mehāniskie transportlīdzekļi un to piekabes, kas atrodas Latvijā ilgāk par trim mēnešiem un piedalās ceļu satiksmē, noteiktā kārtībā jāreģistrē Ceļu satiksmes drošības direkcijā, bet traktortehnika - Valsts tehniskās uzraudzības inspekcijā.
+(3) Ārvalstu pilsoņiem vai bezvalstniekiem no ārvalstīm uz laiku ievestie mehāniskie transportlīdzekļi un to piekabes, kas atrodas Latvijā ilgāk par trim mēnešiem un piedalās ceļu satiksmē, noteiktā kārtībā jāreģistrē Ceļu satiksmes drošības direkcijā, bet traktortehnika - Valsts tehniskās uzraudzības inspekcijā.
