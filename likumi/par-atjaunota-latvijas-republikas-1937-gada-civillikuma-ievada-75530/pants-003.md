@@ -1,0 +1,2 @@
+3. pants
+Ja mantojuma masā ir manta, kura laika posmā pēc 1940. gada 17. jūnija nacionalizēta vai citādi bez taisnīgas un samērīgas atlīdzības ekspropriēta, pamatojoties uz aktiem par nacionalizāciju vai citiem valsts varas vai pārvaldes iestāžu aktiem, mantojuma tiesību realizēšana notiek speciālos Latvijas Republikas likumos noteiktajos termiņos un kārtībā, piemērojot Civillikuma normas tajās mantošanas attiecībās, kas nav reglamentētas minētajos speciālajos likumos.

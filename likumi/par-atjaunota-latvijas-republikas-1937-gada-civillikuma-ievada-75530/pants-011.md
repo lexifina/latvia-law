@@ -1,0 +1,4 @@
+11. pants
+Lietas, kuras 1992. gada 1. septembrī ir nedalītā kopīpašuma priekšmets (kolhoznieku sētas, zemnieku viensētas īpašums, laulāto kopmanta), atzīstamas par nedalāmām Civillikuma 847., 1067.-1075. panta nozīmē.
+Lietas, kuras bija kolhoznieku sētas īpašums, atzīstamas par sētas galvas īpašumu, ņemot vērā laulātā mantiskās tiesības. Ja kolhoznieku sētas īpašums (tā daļa) iegūts ar citu sētas locekļu līdzekļiem vai ar viņu darbības palīdzību, šiem sētas locekļiem ir tiesības saņemt savu daļu pēc vienošanās ar bijušās kolhoznieku sētas galvu. Ja tiek dalīts nekustamais īpašums, vienošanās apliecināma notariālā kārtībā.
+Ja vienošanās nav panākta, sētas loceklim ir tiesības tiesas ceļā prasīt savas daļas izdalīšanu Latvijas civilkodeksā paredzētā noilguma termiņa ietvaros, bet ne vēlāk kā viena gada laikā pēc šā likuma stāšanās spēkā. Izšķirot strīdu, tiesa vadās pēc Civillikuma 1075. panta noteikumiem.

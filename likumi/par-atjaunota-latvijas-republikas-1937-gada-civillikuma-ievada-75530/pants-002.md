@@ -1,0 +1,3 @@
+2. pants
+Mantojuma pieņemšana un atteikšanās no mantojuma notiek, kā arī mantojuma iegūšanas sekas (Civillikuma 701.-714. pants) iestājas pēc Civillikuma noteikumiem, ja 1992. gada 1. septembrī vēl nav notecējis Civillikuma 693. pantā norādītais mantojuma pieņemšanas termiņš, izņemot gadījumus, kad mantiniekam saskaņā ar Latvijas civilkodeksa noteikumiem jau izsniegta apliecība par tiesībām uz mantojumu vai pabeigta mantojuma sadale starp mantiniekiem.
+Civillikuma mantojuma tiesības šajos gadījumos piemēro arī attiecībā uz bijušās kolhoznieku sētas mantu jebkura kolhoznieku sētas locekļa nāves gadījumā.

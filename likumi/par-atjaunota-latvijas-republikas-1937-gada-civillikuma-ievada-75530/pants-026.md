@@ -1,0 +1,2 @@
+26. pants
+Vienlaikus ar Civillikuma mantojuma tiesību un lietu tiesību daļas stāšanos spēkā piemērojami šā likuma pielikumā norādītie citu Civillikuma daļu panti, uz kuriem ir atsauces mantojuma tiesību un lietu tiesību daļā vai kuros dotas jēdzienu definīcijas. Līdz brīdim, kad stāsies spēkā ģimenes tiesību daļa, nav piemērojamas atsauces uz Civillikuma 152. panta 2. punktu, 161., 173. pantu, 179. panta otro un trešo daļu, 307. panta piezīmi, 356. un 377. pantu.
