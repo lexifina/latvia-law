@@ -6,5 +6,4 @@ No valsts vienotās datorizētās zemesgrāmatas turētāja informāciju par dat
 1) mutiski;
 2) elektroniskā veidā;
 3) neapliecinātas datorizdrukas veidā.
-Informācija no datorizētās zemesgrāmatas izsniedzama 24 stundu laikā no pieprasījuma iesniegšanas brīža.
-No datorizētās zemesgrāmatas saņemto informāciju aizliegts nodot trešajām personām par atlīdzību.
+(Trešā un ceturtā daļa izslēgta ar 22.04.2004. likumu.)
