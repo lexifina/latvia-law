@@ -1,0 +1,1 @@
+1.pants. 1998.gada 15.janvārī Vašingtonā parakstītā Latvijas Republikas un Amerikas Savienoto Valstu konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma nodokļiem (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
