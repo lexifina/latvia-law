@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Kārtība pārtikas paraugu ņemšanai, sagatavošanai un laboratoriskai testēšanai dioksīnu un dioksīniem līdzīgu polihlordifenilu (turpmāk - dioksīniem līdzīgi PHD) koncentrācijas noteikšanai un testēšanas rezultātu izvērtēšanai",
+  "type_of_act": "Ministrijas instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "47",
+  "official_journal_page": null,
+  "official_journal_date": "2005-03-22",
+  "entry_into_force": null,
+  "notification_date": "2005-03-29",
+  "commission_reference": "MNE(2005)56337",
+  "nim_celex": "72004L0044LVA_36337",
+  "nim_id": "36337",
+  "transposes_celex": [
+    "32004L0044"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/df1b41d1-985e-4abe-897c-72a5c515bb29",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
