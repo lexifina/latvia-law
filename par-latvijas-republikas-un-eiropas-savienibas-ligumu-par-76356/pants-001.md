@@ -1,0 +1,1 @@
+1.pants. 2002.gada 12.decembrī Briselē parakstītais Latvijas Republikas un Eiropas Savienības līgums par Latvijas Republikas dalību Eiropas Savienības policijas misijā (ESPM) Bosnijā - Hercegovinā (BH) (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
