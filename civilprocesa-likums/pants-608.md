@@ -1,0 +1,4 @@
+608.pants. Nekustamā īpašuma izsoles kārtība
+(1) Izsole sākas no novērtējuma summas. Ja to prasījumu (izdevumu, nodokļu parādu un citu parādu) summa, kuriem pēc piedzinēju prasījumu apmierināšanas secības ir priekšrocība salīdzinājumā ar visām uz nekustamo īpašumu vērstajām piedziņām, ir lielāka par novērtējumu, izsole sākas no šo prasījumu summas.
+(2) Tiesu izpildītājs nosauc pārdodamo nekustamo īpašumu un izsoles sākumcenu. Pēc tam tiesu izpildītājs jautā, vai kāds nevēlas pārsolīt sākumcenu. Katru pārsolījumu tiesu izpildītājs atzīmē izsoles aktā, norādot solītāja vārdu un uzvārdu.
+(3) Pārsolīšanai beidzoties, tiesu izpildītājs trīs reizes jautā, vai neviens nesola vairāk. Ja pēc trešās reizes neseko pārsolījums, tiesu izpildītājs izdara piesitienu un pēc tam pārsolījumus vairs nepieņem.

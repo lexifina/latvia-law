@@ -1,0 +1,5 @@
+609.pants. Divkāršā izsole
+(1) Divkāršo izsoli var pieprasīt ķīlas ņēmējs, ja zemesgrāmatā pēc hipotēkas nostiprināšanas bez viņa piekrišanas ierakstīts tāds nekustamā īpašuma apgrūtinājums, kas var ietekmēt ķīlas ņēmēja apmierinājuma apmēru, un izsole notiek tieši viņa vai par viņu agrāk zemesgrāmatā ierakstīta ķīlas ņēmēja prasījuma piedziņai.
+(2) Nekustamais īpašums pārdodams izsolē ar nosacījumu, ka minētais apgrūtinājums atstājams, un ar nosacījumu, ka minētais apgrūtinājums dzēšams.
+(3) Ja neviens nevēlas iegūt nekustamo īpašumu ar atstāto apgrūtinājumu, tas paliek nosolītājam ar nosacījumu, ka apgrūtinājums dzēšams.
+(4) Ja ir solītāji, kas vēlas pirkt nekustamo īpašumu, gan atstājot apgrūtinājumu, gan to dzēšot, nekustamais īpašums paliek nosolītājam ar nosacījumu dzēst apgrūtinājumu tikai tad, ja nosolītā cena pārsniedz ne vien augstāko cenu, kāda solīta ar nosacījumu atstāt apgrūtinājumu, bet arī to prasījumu summu, kuriem ir priekšrocība salīdzinājumā ar tā ķīlas ņēmēja prasījumiem, kurš lūdzis izdarīt divkāršo izsoli.

@@ -1,0 +1,5 @@
+111.pants. Rakstveida pierādījumu iesniegšanas kārtība
+(1) Lietas dalībniekiem, iesniedzot tiesai rakstveida pierādījumu vai lūdzot to pieprasīt, jānorāda, kādus lietā nozīmīgus apstākļus šis pierādījums var apstiprināt.
+(2) Rakstveida pierādījumi iesniedzami oriģinālā vai noteiktā kārtībā apliecināta noraksta veidā. Norakstu var apliecināt arī tiesnesis. Ja to faktu noskaidrošanai, kuriem ir nozīme lietā, pietiek ar rakstveida dokumenta vai cita raksta daļu, tiesai var iesniegt apliecinātu izrakstu no tā.
+(3) Oriģināldokumenti, kā arī noteiktā kārtībā apliecināti rakstveida pierādījumi iesniedzami, ja likumos vai Latvijas Republikai saistošos starptautiskajos līgumos paredzēts, ka konkrētos faktus var pierādīt tikai ar oriģināldokumentiem vai noteiktā kārtībā apliecinātiem norakstiem.
+(4) Ja tiesai iesniegts rakstveida pierādījuma noraksts vai izraksts no tā, tiesa pēc lietas dalībnieku motivēta lūguma vai pēc savas iniciatīvas ir tiesīga pieprasīt iesniegt oriģinālu, ja tas nepieciešams lietas apstākļu noskaidrošanai.

@@ -1,0 +1,4 @@
+590.pants. Sekas, kas rodas, ja izsole pasludināta par nenotikušu
+(1) Ja izsole pasludināta par nenotikušu, piedzinējam ir tiesības paturēt aprakstīto mantu par izsoles sākumcenu. Tiesība paturēt mantu sev vispirms ir tam piedzinējam, uz kura lūguma pamata manta ir aprakstīta, bet pēc viņa - tam, kura labā piedzenamā summa ir lielāka.
+(2) Ja tāds pieteikums nav saņemts divu nedēļu laikā no izsoles dienas, tiesu izpildītājs nekavējoties nosaka otro izsoli. Otro izsoli izziņo un rīko, ievērojot pirmās izsoles noteikumus. Otrajā izsolē kustamo mantu var pārdot arī zem novērtējuma summas ar noteikumu, ka nosolītā summa jāsamaksā uzreiz.
+(3) Ja arī otrā izsole pasludināta par nenotikušu vai nav pārdotas visas aprakstītās kustamās lietas un piedzinējs nevēlas aprakstīto mantu paturēt sev par sākumcenu, manta atdodama parādniekam.

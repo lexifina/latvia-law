@@ -1,0 +1,2 @@
+A daļa
+Vispārīgie noteikumi

@@ -1,0 +1,1 @@
+9. Ja tiesu izpildītāja sastādītais aprēķins par sprieduma izpildīšanas izdevumiem iesniegts tiesā līdz šā likuma spēkā stāšanās dienai, tiesa pieņem lēmumu par tiesu izpildītāja iepriekš sastādīto aprēķinu.

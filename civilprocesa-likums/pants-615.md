@@ -1,0 +1,6 @@
+615.pants. Nenotikušas izsoles sekas
+(1) Ja izsole ir atzīta par nenotikušu, katram kreditoram vai parādnieka līdzīpašniekam, kā arī izsolē pārsolītam pircējam ir tiesības divu nedēļu laikā no nenotikušās izsoles dienas paziņot tiesu izpildītājam par nekustamā īpašuma paturēšanu sev. Ja izsole atzīta par nenotikušu šā likuma 614.panta pirmās daļas 1. un 2.punktā paredzēto iemeslu dēļ, minētās personas nekustamo īpašumu var paturēt sev par sākumcenu. Ja izsole atzīta par nenotikušu šā likuma 614.panta pirmās daļas 3.punktā paredzētā iemesla dēļ, pārsolītais pircējs var p a turēt nekustamo īpašumu par viņa solīto augstāko cenu.
+(2) Ja vairākas personas vēlas paturēt nekustamo īpašumu sev par sākumcenu, rīkojama otrā izsole, kurā solīšana sākas no pirmās izsoles sākumcenas.
+(3) Persona, kas patur sev nekustamo īpašumu, viena mēneša laikā iemaksā tiesu izpildītāju kantora depozīta kontā šā panta pirmajā daļā norādīto summu, ņemot vērā šā likuma 612.panta noteikumus.
+(4) Pēc šā panta trešajā daļā minētās summas samaksas tiesu izpildītājs iesniedz ziņojumu un izsoles aktu apstiprināšanai tiesā, kura pieņem lēmumu par nekustamā īpašuma nostiprināšanu uz pircēja, līdzīpašnieka vai kreditora vārda un zemesgrāmatā ierakstīto parādu dzēšanu (613.pants).
+(5) Ja neviens nav pieteicies paturēt nekustamo īpašumu sev, rīkojama otrā izsole.

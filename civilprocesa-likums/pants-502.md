@@ -1,0 +1,4 @@
+502.pants. Šķīrējtiesneša noraidījuma kārtība
+(1) Puses var vienoties par šķīrējtiesneša noraidījuma kārtību.
+(2) Ja strīdu izšķir pastāvīgā šķīrējtiesa un puses nav vienojušās par šķīrējtiesneša noraidījuma kārtību, to nosaka saskaņā ar šķīrējtiesas reglamentu.
+(3) Ja strīdu izšķir šķīrējtiesa, kas izveidota konkrēta strīda izšķiršanai, un puses nav vienojušās par šķīrējtiesneša noraidījuma kārtību, puse, kura vēlas noraidīt šķīrējtiesnesi, 15 dienu laikā no dienas, kad tā uzzinājusi par šā šķīrējtiesneša iecelšanu vai tai kļuvis zināms kāds no šā likuma 501.pantā minētajiem apstākļiem, nosūta šķīrējtiesnešiem paziņojumu, norādot tajā, kuru šķīrējtiesnesi tā noraida, un noraidījuma pamatu. Ja šķīrējtiesnesis, kuram pieteikts noraidījums, neatsakās no savu pienākumu pildīšanas, jautājumu par noraidījumu izlemj pārējie šķīrējtiesneši. Ja strīdu izšķir viens šķīrējtiesnesis, jautājumu par noraidījumu izlemj šis šķīrējtiesnesis.

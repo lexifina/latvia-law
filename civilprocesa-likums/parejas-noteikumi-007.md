@@ -1,0 +1,1 @@
+7. Ja uzņēmējsabiedrības kapitāla daļas vai slēgtās emisijas akcijas atbilstoši Latvijas Civilprocesa kodeksa 389.panta trešās daļas noteikumiem nodotas attiecīgās uzņēmējsabiedrības izpildinstitūcijai līdz šā likuma spēkā stāšanās dienai, izpildinstitūcija pārdošanu veic noteiktajā mēneša termiņā no nodošanas dienas.

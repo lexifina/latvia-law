@@ -1,0 +1,2 @@
+298.pants. Pieteikuma iesniegšana
+Gadījumos, kad parāda akts vai uzrādītāja vērtspapīrs nozaudēts, nozagts vai iznīcināts, kreditors vai persona, kurai dokuments ieķīlāts, nodots glabājumā, pārvaldīšanā vai komisijā vai arī kā citādi uzticēts, kā arī tā pēdējais turētājs, ja dokuments bija izrakstīts uzrādītājam vai dokumentam bija blanko uzraksts, var lūgt tiesu anulēt šo dokumentu un atjaunot tiesības pēc tā

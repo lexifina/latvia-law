@@ -1,0 +1,5 @@
+633.pants. Citu personu tiesību aizsardzība, izpildot spriedumu
+(1) Ja tiesu izpildītājs, apķīlājot mantu, pieļauj likuma pārkāpumu, neatkarīgi no tā, vai manta pieder parādniekam vai citām personām, parādnieka un šo personu pieteikumu par mantas izslēgšanu no aprakstes akta izskata tiesa šā likuma 632.pantā noteiktajā kārtībā.
+(2) Citu personu pieteiktais civiltiesiskais strīds, kas saistīts ar tās mantas piederību, uz kuru vērsta piedziņa, tiek izskatīts tiesā saskaņā ar prasības tiesvedības noteikumiem (prasības par mantas izslēgšanu no aprakstes akta).
+(3) Prasības par mantas izslēgšanu no aprakstes akta tiek iesniegtas pret parādnieku un piedzinēju. Ja manta aprakstīta, pamatojoties uz krimināllietas spriedumu daļā par mantas konfiskāciju, kā atbildētājus pieaicina notiesāto un finansu iestādi.
+(4) Ja aprakstītā manta jau pārdota, prasība iesniedzama arī pret personām, kurām manta nodota. Ja prasība par jau pārdotas mantas atdošanu atpakaļ natūrā ir apmierināta, strīdus starp mantas ieguvēju, piedzinējiem un parādnieku izskata tiesa prasības kārtībā.

@@ -1,0 +1,5 @@
+309.pants. Mutiska testamenta konstatēšana
+(1) Ja testators savu pēdējo gribu izteicis mutvārdos, tiesa pēc ieinteresēto personu pieteikuma var konstatēt un formulēt mutisku testamentu. Šajā nolūkā tiesa aicina lieciniekus, kuri bija klāt, kad testators izteica savu gribu, un tiesas sēdē viņus nopratina par testatora vārdu, uzvārdu un vecumu, par mutiskā testamenta saturu, kā arī par tā sastādīšanas vietu, laiku un citiem apstākļiem, kuriem bijis sakars ar testamenta sastādīšanu un kuri var ietekmēt tā likumīgo spēku. Liecinieku liecības ierakstāmas tiesas sēdes protokolā, kas jānolasa un lieciniekiem jāparaksta.
+(2) Pēc liecinieku liecībām tiesa rakstveida lēmumā formulē mutiskā testamenta saturu. Lēmumu nolasa tiesas sēdē.
+(3) Ja tiesa, novērtējusi liecinieku liecības, atzīst, ka uz to pamata nevar formulēt mutisku testamentu, tā ar spriedumu noraida mutiskā testamenta pasludināšanu.
+(4) Ja tiesa noskaidro, ka ir rakstveidā izteikts pēdējās gribas rīkojuma akts, tā pieteikumu par mutiska testamenta konstatēšanu atstāj bez izskatīšanas.

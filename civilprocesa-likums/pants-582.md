@@ -1,0 +1,4 @@
+582.pants. Aprakstītās mantas pārdošanas kārtība
+(1) Aprakstītā manta pārdodama izsolē, bet ar piedzinēja un parādnieka piekrišanu tiesu izpildītājs aprakstīto mantu var nodot tirdzniecības uzņēmumam pārdošanai pēc komisijas noteikumiem. Ja starp piedzinēju un parādnieku tiesu izpildītāja noteiktajā termiņā nav panākta vienošanās, aprakstīto mantu var nodot tirdzniecības uzņēmumam komisijā tikai šajā likumā noteiktajos gadījumos.
+(2) Uzņēmējsabiedrību kapitāla daļas un slēgtas emisijas akcijas izsolē pārdod tiesu izpildītājs, bet publiskā apgrozībā esošās akcijas un citi vērtspapīri nododami pārdošanai Rīgas fondu biržā.
+(3) Ja parādnieks pilnīgi samaksā parādu un tiesas sprieduma izpildes izdevumus pirms aprakstītās mantas pārdošanas, pārdošana apturama un aprakstītā manta atdodama parādniekam.

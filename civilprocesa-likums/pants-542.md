@@ -1,0 +1,3 @@
+542.pants. Vairāku izpildu rakstu izsniegšana par vienu spriedumu
+(1) Par katru spriedumu izsniedz vienu izpildu rakstu.
+(2) Ja sprieduma izpilde izdarāma dažādās vietās vai spriedums taisīts par labu vairākiem prasītājiem vai vērsts pret vairākiem atbildētājiem, pēc piedzinēja lūguma tiesa izsniedz vairākus izpildu rakstus. Izsniedzot vairākus izpildu rakstus, katrā no tiem precīzi norāda izpildes vietu vai to sprieduma daļu, kura pēc šā izpildu raksta izpildāma, bet solidārās piedziņas gadījumā - arī atbildētāju, pret kuru vēršama piedziņa pēc šā izpildu raksta.

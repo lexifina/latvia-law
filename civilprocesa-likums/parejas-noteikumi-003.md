@@ -1,0 +1,4 @@
+3. Līdz dienai, kad stājas spēkā pārejas noteikumu 2.punktā minētie grozījumi likumā "Par tiesu varu":
+1) tiesas spriedumu pareizu un savlaicīgu izpildi kontrolē Tieslietu ministrijas Tiesu izpildītāju departaments;
+2) vecākā tiesu izpildītāja lēmumu, ar kuru pieteikums par tiesu izpildītāja noraidīšanu atstāts bez apmierinājuma, var pārsūdzēt Tieslietu ministrijas Tiesu izpildītāju departamentā. Sūdzības iesniegšana neaptur izpildu darbības;
+3) sūdzības par tiesu izpildītāju darbībām vai viņu atteikumu izpildīt šādas darbības piedzinējs vai parādnieks var iesniegt tiesā tikai pēc tam, kad sūdzību izskatījis Tieslietu ministrijas Tiesu izpildītāju departaments. Sūdzību var iesniegt tiesā 10 dienu laikā no dienas, kad sūdzības iesniedzējs saņēmis atbildi no Tiesu izpildītāju departamenta, vai no dienas, kad izbeidzies mēnesi ilgs termiņš pēc sūdzības iesniegšanas un iesniedzējs uz to nav saņēmis atbildi.

@@ -1,0 +1,2 @@
+484.pants. Pamats protesta iesniegšanai
+Pamats protesta iesniegšanai par spēkā stājušos tiesas nolēmumu ir būtiski materiālo vai procesuālo tiesību normu pārkāpumi, kas konstatēti lietās, kuras ir izskatītas tikai pirmās instances tiesā, ja tiesas nolēmums nav pārsūdzēts likumā noteiktajā kārtībā no lietas dalībniekiem neatkarīgu iemeslu dēļ vai ar tiesas nolēmumu aizskartas valsts vai pašvaldību iestāžu tiesības vai to personu tiesības, kuras nav bijušas lietas dalībnieki.

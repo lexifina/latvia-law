@@ -1,0 +1,1 @@
+1. Izskatīšanas kārtību lietās, kas rodas no administratīvi tiesiskajām attiecībām, līdz dienai, kad spēkā stājas administratīvā procesa likums, regulē Civilprocesa likuma vispārīgie noteikumi un Latvijas Civilprocesa kodeksa divdesmit otrās, divdesmit trešās, divdesmit trešās-A, divdesmit ceturtās, divdesmit ceturtās-A un divdesmit piektās nodaļas noteikumi.

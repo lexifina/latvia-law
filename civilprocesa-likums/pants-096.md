@@ -1,0 +1,4 @@
+96.pants. Pamats atbrīvošanai no pierādīšanas
+(1) Ja tiesa atzīst kādu faktu par vispārzināmu, tas nav jāpierāda.
+(2) Fakti, kas nodibināti ar likumīgā spēkā stājušos spriedumu vienā civillietā, nav no jauna jāpierāda, iztiesājot citas civillietas, kurās piedalās tās pašas puses.
+(3) Likumīgā spēkā stājies tiesas spriedums krimināllietā ir obligāts tiesai, kas izskata lietu par tās personas civiltiesisko atbildību, par kuru taisīts spriedums krimināllietā, vienīgi jautājumā par to, vai noziedzīgā darbība vai bezdarbība notikusi un vai to izdarījusi vai pieļāvusi tā pati persona.

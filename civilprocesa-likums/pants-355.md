@@ -1,0 +1,5 @@
+355.pants. Lēmums par bankrota procedūras uzsākšanu
+(1) Pēc administratora pieteikuma tiesa lemj par tā kreditoru sapulces lēmuma apstiprināšanu, ar kuru nolemts uzsākt bankrota procedūru.
+(2) Pieteikumam pie vienojams tās kreditoru sapulces protokola noraksts, kurā pieņemts lēmums par bankrota procedūras uzsākšanu, vai attiecīgā kreditoru komitejas lēmuma noraksts, ja tā bijusi pilnvarota lemt šo jautājumu.
+(3) Tiesa lemj par bankrota procedūras uzsākšanu arī gadījumos, ja kreditoru sapulcē vai attiecīgi kreditoru komitejā nav pieņemts lēmums par bankrota procedūras uzsākšanu, bet no iesniegtā protokola izriet, ka nav piedāvāts cits maksātnespējas risinājums (izlīgums, sanācija), piedāvātais maksātnespējas risinājums ir noraidīts vai sanācija pārtraukta, nepieņemot lēmumu par citu maksātnespējas risinājumu.
+(4) Tiesa neapstiprina lēmumu par bankrota procedūras uzsākšanu, ja konstatē, ka tas pieņemts, pārkāpjot likuma noteikumus, vai tā pieņemšana panākta, lietojot viltu vai spaidus, vai notikusi maldības ietekmē.

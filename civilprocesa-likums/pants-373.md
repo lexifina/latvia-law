@@ -1,0 +1,3 @@
+373.pants. Kredītiestādes maksātnespējas lietas un likvidācijas lietas ierosināšana
+(1) Lēmumu par kredītiestādes maksātnespējas lietas un likvidācijas lietas ierosināšanu vai par atteikšanos pieņemt pieteikumu tiesnesis pieņem ne vēlāk kā nākamajā dienā pēc pieteikuma saņemšanas tiesā, bet, ja pieteikums atstāts bez virzības, - ne vēlāk kā nākamajā dienā pēc tam, kad novērsti tiesneša lēmumā norādītie trūkumi vai beidzies termiņš trūkumu novēršanai.
+(2) Ierosinot lietu, tiesa apķīlā kredītiestādes mantu, izņemot gadījumus, kad maksātnespējas pieteikums iesniegts šā likuma 367.panta trešajā daļā paredzētajā kārtībā.

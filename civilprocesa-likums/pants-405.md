@@ -1,0 +1,5 @@
+405.pants. Tiesneša lēmums
+(1) Pieteikumu par saistību bezstrīdus piespiedu izpildīšanu izlemj tiesnesis vienpersoniski uz iesniegtā pieteikuma un tam pievienoto dokumentu pamata septiņu dienu laikā no pieteikuma iesniegšanas dienas, nepaziņojot par to pieteicējam un parādniekam.
+(2) Tiesnesis, pārbaudījis iesniegtā pieteikuma pamatotību un atzinis, ka tas apmierināms, pieņem lēmumu, ar kuru nosaka, kāda saistība un kādā apmērā ir izpildāma bezstrīdus piespiedu kārtībā. Lēmuma noraksts triju dienu laikā nosūtāms pieteicējam un parādniekam.
+(3) Tiesneša lēmums stājas spēkā nekavējoties, un tam ir izpildu dokumenta spēks. Lēmums izpildāms saskaņā ar sprieduma izpildīšanas noteikumiem. Tas iesniedzams izpildīšanai kopā ar bezstrīdus piespiedu izpildīšanai pakļautā akta norakstu.
+(4) Ja tiesnesis atzīst, ka pieteikums nav pamatots, viņš pieņem lēmumu par tā noraidīšanu. Lēmuma norakstu kopā ar iesniegtajiem dokumentiem tiesnesis nosūta pieteicējam.

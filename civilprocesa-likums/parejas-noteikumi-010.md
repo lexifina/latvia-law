@@ -1,0 +1,1 @@
+10. Ja tiesu izpildītājs ir pieņēmis lēmumu par izpildu lietvedības apturēšanu, tad gadījumā, kad izpildu lietvedības apturēšanu neparedz Civilprocesa likums, pēc šā likuma spēkā stāšanās izpildu lietvedība nekavējoties atjaunojama. Tiesu izpildītājs par to pieņem attiecīgu lēmumu un nosūta to ieinteresētajām personām.

@@ -1,0 +1,1 @@
+5. Ja šā likuma spēkā stāšanās dienā Latvijas Civilprocesa kodeksā noteiktie procesuālie termiņi attiecībā uz sprieduma izpildes darbībām nav notecējuši un šis likums nosaka ilgāku termiņu, piemērojams ilgākais termiņš, ieskaitot notecējušo laiku.

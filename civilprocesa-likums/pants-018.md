@@ -1,0 +1,3 @@
+18.pants. Nepieļaujamība tiesnesim piedalīties lietas atkārtotā izskatīšanā
+(1) Tiesnesis, kas piedalījies lietas izskatīšanā pirmās instances tiesā, nevar piedalīties šīs lietas izskatīšanā apelācijas vai kasācijas instances tiesā, kā arī jaunā lietas izskatīšanā pirmās instances tiesā, ja ir atcelts spriedums vai lēmums par tiesvedības izbeigšanu vai prasības atstāšanu bez izskatīšanas, kas sastādīts, viņam piedaloties.
+(2) Tiesnesis, kas piedalījies lietas izskatīšanā apelācijas vai kasācijas instances tiesā, nevar piedalīties šīs lietas izskatīšanā pirmās instances tiesā vai apelācijas instances tiesā.

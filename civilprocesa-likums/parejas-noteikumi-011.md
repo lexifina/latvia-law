@@ -1,0 +1,1 @@
+11. Ar šā likuma spēkā stāšanos spēku zaudē Latvijas Civilprocesa kodekss, izņemot tā divdesmit otro, divdesmit trešo, divdesmit trešo-A, divdesmit ceturto, divdesmit ceturto-A un divdesmit piekto nodaļu.

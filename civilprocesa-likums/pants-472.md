@@ -1,0 +1,5 @@
+472.pants. Sprieduma taisīšana
+(1) Pēc lietas dalībnieku paskaidrojumiem un prokurora atzinuma tiesa aiziet apspriežu istabā, lai taisītu spriedumu.
+(2) Ja, izskatot lietu triju senatoru sastāvā, tiesa nenonāk pie vienota viedokļa vai visi senatori uzskata, ka lieta izskatāma paplašinātā sastāvā, tiesa pieņem lēmumu par lietas nodošanu izskatīšanai paplašinātā Senāta sastāvā.
+(3) Izskatot lietu paplašinātā sastāvā, spriedumu taisa ar balsu vairākumu un to paraksta visi senatori.
+(4) Pēc senatoru apspriedes tiesa atgriežas sēžu zālē un sēdes priekšsēdētājs pasludina spriedumu, nolasot tā rezolutīvo daļu, un paziņo, kad lietas dalībnieki var iepazīties ar pilnu sprieduma tekstu.
