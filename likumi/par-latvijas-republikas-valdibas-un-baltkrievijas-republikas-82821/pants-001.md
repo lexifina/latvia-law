@@ -1,0 +1,1 @@
+1.pants. 1995.gada 1.februārī Minskā parakstītais Latvijas Republikas valdības un Baltkrievijas Republikas valdības nolīgums par automobiļu starptautisko satiksmi (turpmāk - Nolīgums) un tā protokols ar šo likumu tiek pieņemti un apstiprināti.
