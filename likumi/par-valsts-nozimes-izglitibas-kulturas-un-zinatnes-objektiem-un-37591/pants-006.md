@@ -1,14 +1,14 @@
 6.pants. Nacionālās sporta bāzes ir:
-1) Latvijas nacionālais valsts sporta centrs "Mežaparks" (juridiskā adrese - Rīgā, A.Sakses ielā 19);
+1) valsts sporta centrs "Mežaparks" (juridiskā adrese - Rīgā, A.Sakses ielā 19);
 2) Rīgas Tehniskās universitātes peldbaseins (juridiskā adrese - Rīgā, Ķīpsalas ielā 5);
-3) valsts tenisa centrs "Lielupe" ar stadionu "Jaunība" (juridiskā adrese - Jūrmalā, O.Kalpaka ielā 16);
-4) valsts uzņēmums "Rīgas sporta pils" (juridiskā adrese - Rīgā, Kr. Barona ielā 75);
-5) valsts uzņēmums "Siguldas mācību un treniņu centrs kamaniņu sportā un bobslejā" (juridiskā adrese - Siguldā, Šveices ielā 13);
-6) Lietišķo sporta veidu Latvijas nacionālās sporta skolas bāze "Kleisti" (juridiskā adrese - Rīgā, Kleistu ielā 75);
-7) valsts uzņēmums "Biķernieku kompleksā sporta bāze" (juridiskā adrese - Rīgā, S.Eizenšteina ielā 2);
-8) sporta biedrības "Daugava" Rīgas sporta kombināts (juridiskā adrese - Rīgā, Augšielā 1);
-9) sporta biedrības "Daugava" Centrālais sporta nams (juridiskā adrese - Rīgā, Kr. Barona ielā 107);
-10) Rīgas pilsētas municipālais uzņēmums "Rīgas sporta manēža" (juridiskā adrese - Rīgā, Maskavas ielā 160);
-11) J.Daļiņa Valmieras stadions (juridiskā adrese - Valmierā, J.Daļiņa ielā 2);
+3) valsts tenisa centrs "Lielupe" (juridiskā adrese - Jūrmalā, O.Kalpaka prospektā 16);
+4) sporta bāze "Rīgas sporta pils" (juridiskā adrese - Rīgā, K.Barona ielā 75);
+5) mācību un treniņu centrs kamaniņu sportā un bobslejā "Sigulda" (juridiskā adrese - Rīgas rajonā, Siguldā, Šveices ielā 13);
+6) lietišķo sporta veidu Latvijas nacionālās sporta skolas bāze "Kleisti" (juridiskā adrese - Rīgā, Kleistu ielā 75);
+7) Biķernieku kompleksā sporta bāze (juridiskā adrese - Rīgā, S.Eizenšteina ielā 2);
+8) Daugavas stadions (juridiskā adrese - Rīgā, Augšielā 1);
+9) Centrālais sporta nams (juridiskā adrese - Rīgā, K.Barona ielā 107);
+10) Rīgas sporta manēža (juridiskā adrese - Rīgā, Maskavas ielā 160);
+11) J.Daliņa Valmieras stadions (juridiskā adrese - Valmierā, J.Daliņa ielā 2);
 12) Aizsardzības spēku sporta kluba sporta komplekss (juridiskā adrese - Rīgā, Krustabaznīcas ielā 9);
-13) bezpeļņas organizācijas sabiedrības ar ierobežotu atbildību Olimpiskā centra "Ventspils" Ventspils sporta halle (juridiskā adrese - Ventspilī, Sporta ielā 7/9).
+13) olimpiskais centrs "Ventspils" (juridiskā adrese - Ventspilī, Sporta ielā 7/9).
