@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Pārtikas preču marķēšanas noteikumi",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "188",
+  "official_journal_page": null,
+  "official_journal_date": "2004-11-26",
+  "entry_into_force": null,
+  "notification_date": "2005-10-04",
+  "commission_reference": "MNE(2005)54618",
+  "nim_celex": "72005L0026LVA_124618",
+  "nim_id": "124618",
+  "transposes_celex": [
+    "32005L0026"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/810e8fe6-909c-458e-88d0-aae8d2535240",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
