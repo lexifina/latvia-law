@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 1999.gada 5.janvāra noteikumi nr.4 \"Dzelzceļa pārvadātāju licencēšanas noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "5/6",
+  "official_journal_page": null,
+  "official_journal_date": "1999-01-08",
+  "entry_into_force": null,
+  "notification_date": "2004-03-23",
+  "commission_reference": "MNE(2003)50782",
+  "nim_celex": "71995L0018LVA_20782",
+  "nim_id": "20782",
+  "transposes_celex": [
+    "31995L0018",
+    "32001L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/95652a8f-2ed1-4793-8fab-78c44b2c6b0a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
