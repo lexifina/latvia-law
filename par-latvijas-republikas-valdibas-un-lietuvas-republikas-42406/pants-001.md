@@ -1,0 +1,1 @@
+1.pants. 1996.gada 9.septembrī Rīgā parakstītais Latvijas Republikas valdības un Lietuvas Republikas valdības nolīgums par gaisa satiksmi (turpmāk - Nolīgums) un Nolīguma Maršrutu saraksts (turpmāk - Saraksts) ar šo likumu tiek pieņemti un apstiprināti.
