@@ -1,1 +1,1 @@
-27.pants. Savvaļas dzīvnieku sagūstīt un turēt nebrīvē ir atļauts, ja saņemta attiecīga Vides aizsardzības un reģionālās attīstības ministrijas atļauja.
+27.pants. Savvaļas medījamo dzīvnieku sagūstīt un turēt nebrīvē ir atļauts, ja saņemta attiecīga Valsts meža dienesta atļauja, bet savvaļas nemedījamo dzīvnieku sagūstīt un turēt nebrīvē ir atļauts, ja saņemta Dabas aizsardzības pārvaldes atļauja.

@@ -1,5 +1,5 @@
 10.pants. Ministru kabinets apstiprina:
-1) lauksaimniecības dzīvnieku turēšanas un izmantošanas kārtību un nosaka labturības prasības katras lauksaimniecības dzīvnieku sugas turēšanai un izmantošanai, lauksaimniecības dzīvnieku tirdzniecības kārtību, prasības kaušanai paredzēto lauksaimniecības dzīvnieku aizsardzībai, kā arī lauksaimniecības dzīvnieka turētāja tiesības un pienākumus;
+1) lauksaimniecības dzīvnieku turēšanas un izmantošanas kārtību un nosaka labturības prasības katras lauksaimniecības dzīvnieku sugas turēšanai un izmantošanai, prasības kaušanai paredzēto lauksaimniecības dzīvnieku aizsardzībai, kā arī lauksaimniecības dzīvnieka turētāja tiesības un pienākumus;
 2) prasības mājas (istabas) dzīvnieku turēšanai, testēšanai, apmācībai, tirdzniecībai un demonstrēšanai publiskās izstādēs, prasības bīstama suņa turēšanai, kā arī mājas (istabas) dzīvnieka īpašnieka un turētāja tiesības un pienākumus;
 3) labturības prasības sporta, darba un atrakciju dzīvnieku turēšanai, kā arī dzīvnieka turētāja tiesības un pienākumus;
 4) eksperimentos un zinātniskos nolūkos izmantojamo dzīvnieku turēšanas, izmantošanas un tirdzniecības kārtību un nosaka labturības prasības šo dzīvnieku izmantošanai, to nogalināšanas kārtību un metodes;
