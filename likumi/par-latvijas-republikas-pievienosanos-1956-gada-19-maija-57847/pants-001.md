@@ -1,0 +1,1 @@
+1. pants. 1956. gada 19. maijā Ženēvā parakstītā Konvencija par kravu starptautisko autopārvadājumu līgumu (CMR) un šīs konvencijas 1978. gada 5. jūlija protokols ar šo likumu pieņemti un apstiprināti.
