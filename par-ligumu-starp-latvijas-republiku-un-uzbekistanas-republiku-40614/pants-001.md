@@ -1,0 +1,1 @@
+1.pants. 1996.gada 23.maijā Taškentā parakstītais Līgums starp Latvijas Republiku un Uzbekistānas Republiku par tiesisko palīdzību un tiesiskajām attiecībām civilajās, ģimenes, darba un krimināllietās (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
