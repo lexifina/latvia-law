@@ -1,0 +1,1 @@
+3. Līdz attiecīgu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2005.gada 1.janvārim ir spēkā Ministru kabineta 2000.gada 14.marta noteikumi Nr.101 "Ar infekcijas slimību miruša cilvēka ķermeņa pārvadāšanas, glabāšanas un apbedīšanas kārtība".

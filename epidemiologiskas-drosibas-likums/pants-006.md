@@ -1,5 +1,5 @@
 6.pants. Valsts sanitārās inspekcijas kompetence
-(1) Valsts sanitārā inspekcija ir Veselības ministrijas pakļautībā esoša valsts pārvaldes iestāde, kas darbojas saskaņā ar Ministru kabineta apstiprinātu nolikumu.
+(1) Valsts sanitārā inspekcija ir Veselības ministrijas padotībā esoša valsts pārvaldes iestāde, kas darbojas saskaņā ar Ministru kabineta apstiprinātu nolikumu.
 (2) Valsts sanitārā inspekcija epidemioloģiskās drošības jomā kontrolē normatīvajos aktos noteikto profilakses un pretepidēmijas prasību izpildi jebkurā objektā Latvijas Republikas teritorijā.
 (3) Valsts sanitārās inspekcijas amatpersonām ir tiesības:
 1) normatīvajos aktos noteiktajā kārtībā no fiziskajām un juridiskajām personām pieprasīt savu uzdevumu veikšanai nepieciešamo informāciju Valsts sanitārās inspekcijas kompetencē esošajos jautājumos;

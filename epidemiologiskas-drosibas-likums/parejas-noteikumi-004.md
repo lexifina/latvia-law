@@ -1,0 +1,1 @@
+4. Grozījumi likuma 15.pantā, 16.panta trešajā daļā, 19.panta pirmajā daļā, 23.panta pirmajā daļā, 31.panta otrajā un ceturtajā daļā, 32.panta pirmajā daļā un 38.panta otrajā un trešajā daļā stājas spēkā 2006.gada 1.janvārī.
