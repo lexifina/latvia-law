@@ -1,0 +1,1 @@
+1.pants. 1997.gada 21.maijā Rīgā parakstītais Latvijas Republikas valdības un Itālijas Republikas valdības līgums par ieguldījumu veicināšanu un aizsardzību (turpmāk - Līgums) un tā protokols (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.
