@@ -1,0 +1,1 @@
+7. Lai novērstu šķērssubsīdijas dzelzceļa transportā, 2004.gadā no valsts pamatbudžeta dzelzceļa pasažieru pārvadātājiem kompensētā dzelzceļa infrastruktūras izmantošanas maksa nedrīkst būt mazāka kā 2003.gadā dzelzceļa infrastruktūras fondam paredzētie atskaitījumi no akcīzes nodokļa naftas produktiem par dzelzceļa pārvadājumos izlietoto dīzeļdegvielu.
