@@ -1,0 +1,6 @@
+10. Šā likuma 4.panta pirmā daļa stājas spēkā 2004.gada 1.janvārī. Līdz 2003.gada 31.decembrim:
+1) darbiniekiem, kuri atbrīvoti no dienesta laikā no 1998.gada 1.janvāra līdz 2000.gada 31.decembrim, izdienas pensiju aprēķina no darbinieka darba samaksas par vienu gadu no pēdējiem pieciem gadiem pirms atbrīvošanas no dienesta;
+2) darbiniekiem, kuri atbrīvoti no dienesta laikā no 2001.gada 1.janvāra līdz 31.decembrim, izdienas pensiju aprēķina no darbinieka darba samaksas par diviem gadiem no pēdējiem pieciem gadiem pirms atbrīvošanas no dienesta;
+3) darbiniekiem, kuri atbrīvoti no dienesta laikā no 2002.gada 1.janvāra līdz 31.decembrim, izdienas pensiju aprēķina no darbinieka darba samaksas par trim gadiem no pēdējiem pieciem gadiem pirms atbrīvošanas no dienesta;
+4) darbiniekiem, kuri atbrīvoti no dienesta laikā no 2003.gada 1.janvāra līdz 31.decembrim, izdienas pensiju aprēķina no darbinieka darba samaksas par četriem gadiem no pēdējiem pieciem gadiem pirms atbrīvošanas no dienesta;
+5) darbiniekiem, kuri atbrīvoti no dienesta laikā no 2004.gada 1.janvāra līdz 31.decembrim, izdienas pensiju aprēķina no darbinieka darba samaksas par pēdējiem pieciem gadiem pirms atbrīvošanas no dienesta.

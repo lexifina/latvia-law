@@ -1,0 +1,1 @@
+12. Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta "Noteikumi par Iekšlietu ministrijas sistēmas darbinieku ar speciālajām dienesta pakāpēm izdienas pensijām" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1998, 4.nr.).

@@ -1,0 +1,1 @@
+7. Darbiniekiem, kuriem līdz 1997.gada 31.decembrim izdienas stāžs ir ne mazāks par 16 gadiem, ir tiesības neatkarīgi no vecuma pēc 24 gadu izdienas stāža sasniegšanas saņemt izdienas pensiju 40 procentu apmērā no šā likuma 4.pantā minētās darba samaksas. Par katru izdienas stāža gadu virs 20 gadiem izdienas pensiju palielina par diviem procentiem.
