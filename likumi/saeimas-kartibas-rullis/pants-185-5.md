@@ -1,0 +1,1 @@
+185.⁵ Ne retāk kā reizi pusgadā Ministru prezidents vai cits viņa pilnvarots Ministru kabineta loceklis ziņo Saeimai par valdības paveikto un iecerēto turpmāko darbību Eiropas Savienības jautājumos. Par šo ziņojumu var atklāt debates.
