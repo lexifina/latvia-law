@@ -1,5 +1,5 @@
 5. Zemes komisiju darbība:
-5.1. pagasta un rajona zemes komisijas priekšsēdētāju no deputātu vidus ievēlē attiecīgi pagasta vai rajona Tautas deputātu padomes. Latvijas Republikas Augstākās Padomes zemes komisijas priekšsēdētāju no deputātu vidus ievēlē Latvijas Republikas Augstākā Padome;
+5.1. pagasta, pilsētas un rajona zemes komisijas priekšsēdētāju no deputātu vidus ievēlē attiecīgi pagasta, pilsētas un rajona Tautas deputātu padome. Latvijas Republikas Augstākās Padomes Lauku zemes komisijas priekšsēdētāju un Latvijas Republikas Augstākās Padomes Pilsētu zemes komisijas priekšsēdētāju no deputātu vidus ievēlē Latvijas Republikas Augstākā Padome;
 5.2. zemes komisija no sava vidus ievēlē priekšsēdētāja vietnieku (vietniekus) un komisijas sekretāru;
 5.3. zemes komisijas sēdes sasauc priekšsēdētājs vai viņa vietnieks ne retāk kā vienu reizi mēnesī;
 5.4. zemes komisijas sēde ir tiesīga, ja tajā piedalās vairāk nekā puse no komisijas locekļu skaita, to starpā priekšsēdētājs vai viņa vietnieks. Lēmumus un atzinumus komisija pieņem ar komisijas locekļu un pieaicināto balsstiesīgo speciālistu balsu vairākumu. Balsīm vienādi daloties, izšķir priekšsēdētāja (vietnieka) balss;

@@ -1,2 +1,2 @@
-6. Zemes komisijas lēmumu zemes sadales un zemes strīdu jautājumos viena mēneša laikā pēc tā paziņošanas ieinteresētie zemes lietotāji vai pagasta zemes ierīcības projekta autors var pārsūdzēt augstākstāvošai zemes komisijai.
-Latvijas Republikas Augstākās Padomes zemes komisijas lēmumu likumā noteiktajā kārtībā var pārsūdzēt tiesā.
+6. Zemes komisijas lēmumu zemes sadales un zemes strīdu jautājumos mēneša laikā pēc tā paziņošanas ieinteresētie zemes lietotāji un pagasta vai pilsētas zemes ierīcības projektu autori var pārsūdzēt augstākai zemes komisijai.
+Latvijas Republikas Augstākās Padomes Lauku zemes komisijas vai Latvijas Republikas Augstākās Padomes Pilsētu zemes komisijas lēmumu likumā noteiktajā kārtībā var pārsūdzēt tiesā.
