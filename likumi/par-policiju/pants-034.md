@@ -1,8 +1,6 @@
 34. pants. Valsts policijas finansēšana
-Valsts policiju finansē no:
-1) Latvijas Republikas valsts budžeta;
-2) (izslēgts ar 08.06.1994. likumu);
-3) līdzekļiem, kas iegūti, likumos vai Ministru kabineta noteikumos noteiktā kārtībā noslēdzot līgumus ar juridiskajām un fiziskajām personām par objektu apsardzību;
-4) (izslēgts ar 08.06.1994. likumu).
-Valsts policijas darbības attīstīšanai un veicināšanai izmanto 20 procentus no iekasētajiem naudas sodiem, kurus par administratīvo pārkāpumu izdarīšanu uzlikušas valsts policijas iestādes, kā arī 20 procentus no ieņēmumiem, kas gūti, realizējot mantu, preces vai citus priekšmetus, kurus likumā noteiktajā kārtībā aprakstījušas un izņēmušas valsts policijas iestādes. Kārtību, kādā šie līdzekļi ieskaitāmi Iekšlietu ministrijas kontā, nosaka finansu ministrs. Līdzekļu izlietošanas kārtību nosaka iekšlietu ministrs.
-No Latvijas Republikas valsts budžeta finansējamo policijas darbinieku maksimālo skaitu nosaka Latvijas Republikas Ministru Padome.
+Valsts policiju finansē no valsts budžeta un Iekšlietu ministrijas speciālā budžeta līdzekļiem.
+Iekšlietu ministrijas speciālajā budžetā tiek ieskaitīti:
+1) līdzekļi, kas iegūti, likumā vai Ministru kabineta noteikumos noteiktajā kārtībā noslēdzot līgumus ar juridiskajām un fiziskajām personām;
+2) 80 procenti no iekasētajiem naudas sodiem, kurus par administratīvo pārkāpumu izdarīšanu uzlikušas valsts policijas iestādes, kā arī 80 procenti no ieņēmumiem, kas iegūti, realizējot konfiscēto mantu, preces vai citus priekšmetus, ko likumā noteiktajā kārtībā aprakstījušas un izņēmušas valsts policijas iestādes. Ne mazāk par 25 procentiem no šādā veidā iegūtajiem līdzekļiem ir jāizlieto attiecīgā personālsastāva materiālajai stimulēšanai.
+Iekšlietu ministrijas speciālā budžeta veidošanas un izlietošanas kārtību nosaka Ministru kabineta noteikumi.
