@@ -1,0 +1,1 @@
+7.pants. Pēc Saeimas lēmuma pieņemšanas par zemes reformas pabeigšanu attiecīgās pašvaldības administratīvajā teritorijā tā zeme, kura zemes reformas gaitā nav nodota īpašumā fiziskajām vai juridiskajām personām, piekrīt valstij un zemesgrāmatās ierakstāma uz valsts vārda.

@@ -1,0 +1,1 @@
+11.pants. Zemes reformas laikā strīdus par valstij vai pašvaldībai piederošu vai piekrītošu zemi izšķir Centrālā zemes komisija vai tiesa. Centrālās zemes komisijas lēmumu var pārsūdzēt likumā "Par zemes komisijām" noteiktajā kārtībā.

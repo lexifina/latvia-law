@@ -1,0 +1,4 @@
+4. pants. Zemes reformas laikā rajonu pašvaldībām piekrīt zeme, kas atrodas to pašreizējā administratīvajā teritorijā un 1940.gada 21.jūlijā piederēja lauku pašvaldību fondam, bet Daugavpils, Jelgavas, Liepājas, Rēzeknes, Rīgas un Ventspils rajona pašvaldībām piekrīt arī tā zeme, kas 1940.gada 21.jūlijā zemesgrāmatās bija ierakstīta uz lauku pašvaldību fonda vārda un atradās attiecīgi Daugavpils, Jelgavas, Liepājas, Rēzeknes, Rīgas un Ventspils pilsētas administratīvajā teritorijā, izņemot zemi, kura:
+1) zemes reformas gaitā atbilstoši likumiem piešķirta (nodota) īpašumā fiziskajai vai juridiskajai personai tai piederējušās zemes vietā;
+2) piešķirta fiziskajai personai pastāvīgā lietošanā vai rezervēta ar tiesībām iegūt to īpašumā;
+3) saskaņā ar šā likuma 2.panta trešo daļu ierakstāma uz valsts vārda.

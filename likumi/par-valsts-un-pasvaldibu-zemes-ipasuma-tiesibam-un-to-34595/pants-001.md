@@ -1,0 +1,1 @@
+1.pants. Šis likums reglamentē atbilstoši zemes reformas un privatizācijas likumiem valsts un pašvaldību zemes īpašuma tiesības un to nostiprināšanu zemesgrāmatās, kā arī valstij un pašvaldībām piekrītošā zemes īpašuma izmantošanu līdz īpašuma tiesību nostiprināšanai zemesgrāmatās.

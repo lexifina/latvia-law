@@ -1,0 +1,2 @@
+14.pants. (1) Pēc valsts zemes īpašuma tiesību nostiprināšanas zemesgrāmatās rīcību ar šo īpašumu regulē Civillikuma noteikumi ar ierobežojumiem, kas noteikti zemes reformas likumos, citos likumos un Ministru kabineta noteikumos.
+(2) Pēc pašvaldības zemes īpašuma tiesību nostiprināšanas zemesgrāmatās rīcību ar šo īpašumu regulē likums "Par pašvaldībām" un Civillikuma noteikumi ar ierobežojumiem, kas noteikti zemes reformas likumos, citos likumos un Ministru kabineta noteikumos.
