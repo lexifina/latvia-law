@@ -1,4 +1,0 @@
-356.pants. Lēmums par administrācijas izmaksām un parādu segšanas kārtību
-(1) Pēc administratora pieteikuma tiesa lemj par tā lēmuma apstiprināšanu, ar kuru noteiktas administrācijas izmaksas un parādu segšanas kārtība.
-(2) Administratora pieteikumam pievienojams attiecīgā kreditoru sapulces vai kreditoru komitejas lēmuma noraksts, ja tā bijusi pilnvarota lemt šo jautājumu, un dokumenti, kas apliecina administrācijas izmaksas.
-(3) Ja tiesa konstatē, ka kreditoru sapulces vai kreditoru komitejas noteiktās administrācijas izmaksas un parādu segšanas kārtība neatbilst likumam, tā neapstiprina minēto lēmumu un pieņem lēmumu, kurā nosaka administrācijas izmaksas un parādu segšanas kārtību, vienlaikus, ja nepieciešams, izlemjot jautājumu par nepamatoto administrācijas izmaksu segšanu no administratora nodrošinājuma.

@@ -1,7 +1,7 @@
 376.pants. Tiesas spriedums kredītiestādes maksātnespējas lietā
 (1) Ja tiesa konstatē kādu no apstākļiem, kas norāda uz kredītiestādes maksātnespēju, tā ar savu spriedumu pasludina kredītiestādi par maksātnespējīgu un nosaka maksātnespējas iestāšanās dienu - maksātnespējas pieteikuma iesniegšanas dienu vai pierādīto faktiskās maksātnespējas iestāšanās dienu. Ja maksātnespējas pieteikumu iesniedzis likvidators, tiesa, izsludinot kredītiestādi par maksātnespējīgu, vienlaikus uz likvidatora pieteikuma pamata pieņem lēmumu par bankrota procedūras uzsākšanu. Spriedums ir galīgs un apelācijas kārtībā nav pārsūdzams.
 (2) Taisot spriedumu par kredītiestādes maksātnespēju, tiesa apstiprina iecelto administratoru.
-(3) Uz Latvijas Bankas pieteikuma un administratora sagatavotā saraksta pamata tiesa nosaka tos kredītiestādes pārstāvjus un personas, kuru piedalīšanās maksātnespējas procesā ir obligāta.
+(3) Uz Finansu un kapitāla tirgus komisijas pieteikuma un administratora sagatavotā saraksta pamata tiesa nosaka tos kredītiestādes pārstāvjus un personas, kuru piedalīšanās maksātnespējas procesā ir obligāta.
 (4) Spriedums ir pamats tiesvedības apturēšanai civillietās, kas ierosinātas pret kredītiestādi, un spriedumu izpildīšanas lietvedības izbeigšanai lietās par piespriesto, bet no kredītiestādes nepiedzīto summu piedziņu.
 (5) Ja tiesa nekonstatē apstākļus, kas norāda uz kredītiestādes maksātnespēju, tā pieteikumu noraida, vienlaikus izbeidzot maksātnespējas procesu un izlemjot jautājumu, vai pieteikums atbilstoši Kredītiestāžu likumam nav atzīstams par apzināti nepatiesu.
 (6) Atzīstot pieteikumu par apzināti nepatiesu, tiesa piedzen no pieteicēja tiesas izdevumus, kā arī administratora un administratora palīga atlīdzību.

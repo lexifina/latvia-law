@@ -2,4 +2,5 @@
 Pieteikuma iesniegšanas termiņu aprēķina:
 1) šā likuma 479.panta 1.punktā norādītajiem apstākļiem - no šo apstākļu atklāšanas dienas;
 2) šā likuma 479.panta 2. un 3.punktā norādītajos gadījumos - no dienas, kad likumīgā spēkā stājies spriedums krimināllietā;
-3) šā likuma 479.panta 4.punktā norādītajos gadījumos - no dienas, kad likumīgā spēkā stājies tiesas nolēmums, ar kuru atcelts spriedums civillietā vai krimināllietā, vai arī kad atcelts citas iestādes lēmums, uz kura pamatots tas spriedums vai lēmums, kuru lūdz atcelt sakarā ar jaunatklātiem apstākļiem.
+3) šā likuma 479.panta 4.punktā norādītajos gadījumos - no dienas, kad likumīgā spēkā stājies tiesas nolēmums, ar kuru atcelts spriedums civillietā vai krimināllietā, vai arī kad atcelts citas iestādes lēmums, uz kura pamatots tas spriedums vai lēmums, kuru lūdz atcelt sakarā ar jaunatklātiem apstākļiem;
+4) šā likuma 479.panta 5.punktā norādītajā gadījumā - no dienas, kad stājies spēkā spriedums vai cits lēmums, sakarā ar kuru piemērotā tiesību norma zaudē spēku kā neatbilstoša augstāka juridiska spēka tiesību normai.
