@@ -1,1 +1,0 @@
-58. Tieslietu ministrs un finansu ministrs pēc Latvijas Zvērinātu advokātu padomes priekšlikuma apstiprina zvērinātu advokātu atlīdzības taksi, kas izsludināma vispārējai zināšanai. Saskaņa ar šo taksi tiesa piespriež uzveikušajai pusei par labu no pretējas puses atlīdzību par lietas vešanu.
