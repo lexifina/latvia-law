@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Medicīnisko ierīču un medicīnisko preču reģistrācijas,realizācijas un izpildīšanas kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "39",
+  "official_journal_page": null,
+  "official_journal_date": "2001-03-09",
+  "entry_into_force": null,
+  "notification_date": "2004-03-16",
+  "commission_reference": "MNE(2003)50519",
+  "nim_celex": "71984L0539LVA_20519",
+  "nim_id": "20519",
+  "transposes_celex": [
+    "31984L0539",
+    "31990L0385",
+    "31993L0042",
+    "31998L0079",
+    "32000L0070"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f715ed0d-f55b-44e5-ad65-4be045cb291c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
