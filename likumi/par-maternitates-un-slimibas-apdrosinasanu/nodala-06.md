@@ -1,3 +1,3 @@
 VI nodaļa
-Apdrošināšanas iemaksu alga valsts sociālās apdrošināšanas
-pabalsta aprēķināšanai
+Vidējā apdrošināšanas iemaksu alga valsts
+sociālās apdrošināšanas pabalsta aprēķināšanai
