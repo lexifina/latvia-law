@@ -1,0 +1,1 @@
+28. pants. Akadēmiskā padome pārzina studiju un zinātniskā darba organizācijas un koordinācijas jautājumus. Tā darbojas prorektora vadībā, un tajā ietilpst personas, kas kārto mācību darba jautājumus, kā arī citi ar studiju darba organizāciju saistītie speciālisti, akadēmiskā personāla un studentu pārstāvji.

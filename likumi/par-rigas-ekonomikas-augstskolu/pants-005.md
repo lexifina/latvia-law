@@ -1,0 +1,2 @@
+5. pants. (1) Augstskola ir autonoma mācību iestāde ar pašpārvaldes tiesībām. Tās pašpārvalde pamatojas uz pastāvīgā personāla tiesībām un iespējām piedalīties akadēmisko, administratīvo un saimniecisko lietu vadīšanā un pārvaldē.
+(2) Augstskola darbojas saskaņā ar šo likumu, citiem Latvijas Republikas likumiem, starpvaldību līgumu, augstskolu starptautiskajām darbības normām, kas nav pretrunā ar Latvijas Republikas likumdošanas aktiem, kā arī saskaņā ar saviem statūtiem.

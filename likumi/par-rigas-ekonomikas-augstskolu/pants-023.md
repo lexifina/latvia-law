@@ -1,0 +1,1 @@
+23. pants. Augstskolas personāls ir atbildīgs par savu pienākumu pildīšanu. Kārtību, kādā kvalificējami pārkāpumi un uzliekami sodi par pienākumu nepildīšanu, nosaka Valde saskaņā ar spēkā esošajiem likumdošanas aktiem.

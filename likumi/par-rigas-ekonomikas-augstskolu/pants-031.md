@@ -1,0 +1,1 @@
+31. pants. Augstskolas studentiem, maģistrantiem un doktorandiem ir sava pašpārvalde. Tā darbojas saskaņā ar nolikumu, ko izstrādā studējošie un apstiprina Valde. Valde var atteikt apstiprināšanu tikai no tiesiskā viedokļa. Augstskolas vadība atbalsta studentu pašpārvaldes darbību.

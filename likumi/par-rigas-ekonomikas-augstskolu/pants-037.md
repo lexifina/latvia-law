@@ -1,0 +1,2 @@
+37. pants. (1) Augstskolas budžeta veidošanu, struktūru un izmantošanu nosaka Valde, bet tā izpildi kontrolē revīzijas komisija. Latvijas valsts budžeta līdzekļus, ko valdība piešķir atsevišķu mērķprogrammu un pasākumu finansēšanai, nodod Augstskolai tieši tās struktūrvienības, juridiskās vai fiziskās personas rīcībā, kura realizē šo programmu vai pasākumu.
+(2) Atsevišķu struktūrvienību budžets kā patstāvīga daļa ietilpst Augstskolas budžetā.

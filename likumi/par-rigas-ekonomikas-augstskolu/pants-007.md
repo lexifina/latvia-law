@@ -1,0 +1,1 @@
+7. pants. Augstskolas darbības mērķis ir dot studentiem akadēmisko izglītību un profesionālo sagatavotību, attīstīt zinātni un izkopt kultūru, lai saglabātu Latvijas Republikai nepieciešamo intelektuālo potenciālu un veicinātu tā attīstību.

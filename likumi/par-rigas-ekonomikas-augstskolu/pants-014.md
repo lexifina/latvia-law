@@ -1,0 +1,1 @@
+14. pants. Augstskolas un tās personāla dibinātās biedrības un citas organizācijas darbojas saskaņā ar Valdes apstiprinātiem statūtiem. Ja kādas biedrības vai citas sabiedriskās organizācijas darbība nesaskan ar statūtiem vai ir pretrunā ar Augstskolas interesēm, pēc rektora ierosinājuma Valde ar savu lēmumu ir tiesīga pārtraukt vai izbeigt tās darbību.

@@ -1,0 +1,4 @@
+39. pants. Augstskolai ir tiesības uz atvieglojumiem un priekšrocībām, kādas ar likumu noteiktas augstskolām un zinātniskajām iestādēm attiecībā uz nodokļu maksājumiem, īpašuma pārvietošanu pāri valsts robežai un citām jomām. Tai ir arī citas tiesības un privilēģijas, kas ar likumu piešķirtas augstskolām un zinātniskajām iestādēm, kā arī šādi atvieglojumi:
+1) Augstskola kā bezpeļņas sabiedrība ir atbrīvota no nodokļu maksāšanas saskaņā ar spēkā esošajiem likumdošanas aktiem;
+2) Augstskolas uzaicinātie ārvalstu mācībspēki Latvijā maksā nodokļus un ir atbrīvoti no valsts nodevas par vīzu (atļauju dzīvot un strādāt Latvijā darba līgumā paredzētajā laikā) saskaņā ar spēkā esošajiem likumdošanas aktiem un Saeimas apstiprinātajiem starptautiskajiem līgumiem;
+3) Augstskola ir atbrīvota no muitas nodokļa un nodevām, kā arī no nodokļiem par Augstskolas ēkas rekonstrukcijas materiālu un aprīkojuma importu.
