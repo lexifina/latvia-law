@@ -1,3 +1,3 @@
 250.pants. Narkotisko un psihotropo vielu neatļauta izsniegšana
 Par receptes izrakstīšanu bez medicīniskās nepieciešamības vai cita dokumenta nelikumīgu izrakstīšanu narkotiskas vai psihotropas vielas saņemšanai, kā arī par narkotiskas vai psihotropas vielas izsniegšanu bez receptes vai cita dokumenta vai zinot, ka recepte vai cits dokuments ir fiktīvs vai nelikumīgi izrakstīts, ja šādas darbības izdarītas mantkārīgā nolūkā vai citas personiskas ieinteresētības dēļ vai ja tās izdarītas atkārtoti gada laikā, -
-soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem, atņemot tiesības uz zināmu nodarbošanos uz laiku līdz pieciem gadiem.
+soda ar brīvības atņemšanu uz laiku no viena gada līdz pieciem gadiem, atņemot tiesības uz zināmu nodarbošanos uz laiku līdz pieciem gadiem.

@@ -1,0 +1,3 @@
+231.¹ pants. Apzināti nepatiess paziņojums par sprāgstošas, indīgas, radioaktīvas vai bakterioloģiskas vielas vai materiālu vai spridzināmās ietaises ievietošanu vai novietošanu
+Par apzināti nepatiesu paziņojumu par sprāgstošas, indīgas, radioaktīvas vai bakterioloģiskas vielas vai materiālu vai spridzināmās ietaises ievietošanu iestādē, uzņēmumā vai citā objektā vai novietošanu iestādes, uzņēmuma vai cita objekta ārpusē -
+soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar arestu, vai ar naudas sodu līdz simt minimālajām mēnešalgām.
