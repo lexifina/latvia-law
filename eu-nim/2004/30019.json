@@ -1,0 +1,28 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Veterinārās prasības dzīvnieku spermas, olšūnu un embriju tirdzniecībai",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-01",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-07-21",
+  "commission_reference": "MNE(2004)50019",
+  "nim_celex": "71988L0407LVA_30019",
+  "nim_id": "30019",
+  "transposes_celex": [
+    "31988L0407",
+    "31989L0556",
+    "31990L0429",
+    "31992L0065",
+    "31993L0052",
+    "31993L0060",
+    "32003L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e5b331ec-4add-4400-b658-93add996d83d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
