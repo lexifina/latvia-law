@@ -1,0 +1,1 @@
+9. Ārējos normatīvos aktus interpretējošie iekšējie normatīvie akti saskaņojami ar Tieslietu ministriju (75.panta trešā daļa, 76.panta otrā daļa un 77.panta pirmā daļa) no 2004.gada 1.janvāra. Līdz šim datumam iestādes nosūta minētos normatīvos aktus Tieslietu ministrijai.

@@ -1,0 +1,5 @@
+5.pants. Publiskas personas atbildība par savām iestādēm
+(1) Tiešās pārvaldes iestādes pārstāv Latvijas Republiku. Latvijas Republika ir atbildīga par tiešās pārvaldes iestāžu darbību.
+(2) Pastarpinātās pārvaldes iestādes, darbojoties jomā, kas ar likumu nodota attiecīgās atvasinātās publiskās personas autonomā kompetencē, pārstāv šo publisko personu. Atvasinātā publiskā persona ir atbildīga par pastarpinātās pārvaldes iestāžu darbību.
+(3) Pastarpinātās pārvaldes iestāde var pildīt atsevišķus valsts pārvaldes uzdevumus, kuri ir Latvijas Republikas kompetencē, bet kuru izpilde nodota attiecīgajai atvasinātajai publiskajai personai vai iestādei pašai. Šādā gadījumā iestāde pārstāv Latvijas Republiku. Latvijas Republika ir atbildīga par šīs iestādes darbību tai nodoto uzdevumu ietvaros, ciktāl attiecīgā pastarpinātās pārvaldes iestāde atrodas tiešās pārvaldes iestādes padotībā.
+(4) Ja pastāv pamatotas šaubas par iestādes pierēķināmību konkrētai publiskai personai, proti, - par to, kuru publisko personu attiecīgajā gadījumā iestāde pārstāv, uzskatāms, ka tā pārstāv Latvijas Republiku, un Latvijas Republika ir atbildīga par tās darbību.

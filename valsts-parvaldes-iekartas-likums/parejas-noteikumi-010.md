@@ -1,0 +1,1 @@
+10. Šā likuma X nodaļa stājas spēkā 2003.gada 1.jūlijā. Ministru kabinets līdz 2003.gada 1.martam izstrādā un iesniedz Saeimai likumprojektu par grozījumiem Administratīvā procesa likumā, reglamentējot tādu lietu izskatīšanu tiesā, kuras rodas no tiesiskajām attiecībām uz administratīvā līguma pamata.

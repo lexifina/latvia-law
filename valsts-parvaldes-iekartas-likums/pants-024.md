@@ -1,0 +1,3 @@
+24.pants. Ministru kabineta locekļa konsultatīvās amatpersonas, darbinieki un birojs
+(1) Savas darbības nodrošināšanai Ministru kabineta loceklis uz savu pilnvaru laiku var pieņemt darbā konsultatīvās amatpersonas un darbiniekus un izveidot biroju. Konsultatīvo amatpersonu kompetenci tiešās pārvaldes iestādē, it īpaši tiesības dot rīkojumus pārvaldes amatpersonām, nosaka Ministru kabineta loceklis.
+(2) Ministra birojs ir ministrijas struktūrvienība. Ministru prezidenta un Ministru prezidenta biedra birojs ir Valsts kancelejas struktūrvienība. Īpašu uzdevumu ministra birojs ir ministrijas vai citas tiešās pārvaldes iestādes struktūrvienība.

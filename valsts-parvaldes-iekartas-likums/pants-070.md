@@ -1,0 +1,4 @@
+70.pants. Atbildība par koleģiālas institūcijas pārvaldes lēmumu
+(1) Par koleģiālas institūcijas pārvaldes lēmuma lietderību un tiesiskumu atbild tie koleģiālas institūcijas locekļi, kas balsojuši, ja vien kāds no viņiem nav īpaši pieprasījis lēmuma pieņemšanas protokolā fiksēt savus iebildumus.
+(2) Pārvaldes amatpersona, kas veic pārvaldes lēmuma projekta tiesiskuma papildpārbaudi, ir atbildīga par savu vērtējumu. Ja papildpārbaudē konstatēts, ka pārvaldes lēmuma projekts ir prettiesisks, bet pārvaldes lēmums pieņemts, neievērojot norādītos iebildumus, pārvaldes amatpersona, kas veikusi papildpārbaudi, par pārvaldes lēmuma prettiesiskumu attiecībā uz norādītajām pretrunām nav atbildīga.
+(3) Atvasinātas publiskas personas orgānam likumā var noteikt atšķirīgus atbildības principus, izņemot gadījumu, kad tas izdod administratīvo aktu.

@@ -1,0 +1,1 @@
+4. Iestāžu nolikumus, izņemot tos nolikumus, kuri izdoti, pamatojoties uz Ministriju iekārtas likumu, atbilstoši šā likuma noteikumiem pieņem līdz 2005.gada 1.janvārim. Līdz tam laikam iestāžu nolikumi, kas ir spēkā likuma spēkā stāšanās brīdī, paliek spēkā tiktāl, ciktāl tie nav pretrunā ar šo likumu.
