@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 1997.gada 16.decembra noteikumos Nr.421 \"Stratēģiskas nozīmes preču kontroles noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "56",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-08",
+  "entry_into_force": "2004-04-09",
+  "notification_date": "2004-05-13",
+  "commission_reference": "MNE(2004)57854",
+  "nim_celex": "71993L0015LVA_27854",
+  "nim_id": "27854",
+  "transposes_celex": [
+    "31993L0015"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9883b819-4cb5-4c77-93fc-289902fee810",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
