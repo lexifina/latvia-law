@@ -14,7 +14,8 @@
 12) pārstāv nepārstrādātās lauksaimniecības produkcijas ražotāju intereses tiesā;
 13) iesniedz tiesā prasības, kas izriet no fizisko un juridisko personu saistībām attiecībā uz valsts atbalsta un Eiropas Savienības atbalsta izlietošanu, ja tas tiek darīts neatbilstoši normatīvajiem aktiem;
 14) iesniedz normatīvajos aktos noteiktajā kārtībā atskaites, pārskatus un informāciju zemkopības ministram, Finansu ministrijai un citām institūcijām;
-15) sniedz maksas pakalpojumus.
+15) sniedz maksas pakalpojumus;
+16) likumā noteiktajos gadījumos izskata administratīvo pārkāpumu lietas un uzliek administratīvos sodus.
 (2) Privāto tiesību jomā Dienestam ir juridiskās personas statuss.
 (3) Dienests, pildot tam noteiktās funkcijas, sadarbojas ar valsts pārvaldes institūcijām, pašvaldībām un citām ieinteresētajām institūcijām, kā arī ar iedzīvotājiem. Eiropas Savienības atbalsta jomā Dienests sadarbojas ar attiecīgajām Eiropas Komisijas institūcijām.
 (4) Dienests, pildot tam noteiktās funkcijas, var izveidot padomes, komisijas un citas konsultatīvas un metodiskas institūcijas.
