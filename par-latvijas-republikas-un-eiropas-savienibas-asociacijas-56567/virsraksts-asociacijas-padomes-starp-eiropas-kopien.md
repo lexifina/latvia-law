@@ -1,0 +1,1 @@
+Asociācijas Padomes starp Eiropas Kopienām un to Dalībvalstīm, no vienas puses, un Latvijas Republiku, no otras puses, lēmums Nr. 7/2001 2/10/2001 par tirdzniecības nosacījumu pilnveidošanu pārstrādātiem lauksaimniecības produktiem, kā paredzēts Eiropas līguma Protokolā 2

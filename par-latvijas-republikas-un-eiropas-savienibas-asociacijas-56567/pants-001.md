@@ -1,0 +1,1 @@
+1.pants. 2001.gada 2.oktobrī Briselē parakstītais Latvijas Republikas un Eiropas Savienības Asociācijas Padomes lēmums Nr. 7/2001 par tirdzniecības nosacījumu pilnveidošanu pārstrādātiem lauksaimniecības produktiem, kā paredzēts Eiropas līguma 2.protokolā (turpmāk - Lēmums), ar šo likumu tiek pieņemts un apstiprināts.
