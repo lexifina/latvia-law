@@ -1,0 +1,6 @@
+12.pants. Atbildība par vienošanās aizlieguma pārkāpumu
+(1) Ja Konkurences padome konstatē tirgus dalībnieku darbībās šā likuma 11.panta pirmās daļas pārkāpumu, tā pieņem lēmumu par pārkāpuma konstatēšanu, tiesiskā pienākuma un naudas soda uzlikšanu. Noteiktajā termiņā nesamaksātais naudas sods piedzenams bezstrīdus kārtībā.
+(2) Konkurences padome var uzlikt tirgus dalībniekiem naudas sodu līdz 5 procentu apmēram no to pēdējā finansu gada neto apgrozījuma katram, bet ne mazāk kā 250 latu katram. Minētie līdzekļi ieskaitāmi valsts pamatbudžetā.
+(3) Konkurences padome var uzlikt konkurentiem naudas sodu līdz 10 procentu apmēram no to pēdējā finansu gada neto apgrozījuma katram, bet ne mazāk kā 500 latu katram. Minētie līdzekļi ieskaitāmi valsts pamatbudžetā.
+(4) Ja uzliktais tiesiskais pienākums netiek pildīts, Konkurences padome var pieņemt lēmumu par šā panta otrajā un trešajā daļā noteiktā naudas soda palielināšanu līdz abās minētajās daļās noteiktajam maksimālajam apmēram.
+(5) Ministru kabinets izdod noteikumus par naudas soda aprēķināšanas kārtību.

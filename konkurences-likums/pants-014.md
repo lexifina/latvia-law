@@ -1,0 +1,5 @@
+14.pants. Atbildība par dominējošā stāvokļa ļaunprātīgu izmantošanu
+(1) Ja Konkurences padome konstatē tirgus dalībnieku darbībās šā likuma 13.panta pārkāpumu, tā pieņem lēmumu par pārkāpuma konstatēšanu, tiesiskā pienākuma un naudas soda uzlikšanu. Noteiktajā termiņā nesamaksātais naudas sods piedzenams bezstrīdus kārtībā.
+(2) Konkurences padome var uzlikt tirgus dalībniekiem naudas sodu līdz 5 procentu apmēram no to pēdējā finansu gada neto apgrozījuma katram, bet ne mazāk kā 250 latu katram. Minētie līdzekļi ieskaitāmi valsts pamatbudžetā.
+(3) Ja uzliktais tiesiskais pienākums netiek pildīts, Konkurences padome var pieņemt lēmumu par šā panta otrajā daļā noteiktā naudas soda palielināšanu līdz 10 procentiem no pēdējā finansu gada neto apgrozījuma, taču naudas sods nedrīkst būt mazāks par 500 latiem katram. Minētie līdzekļi ieskaitāmi valsts pamatbudžetā.
+(4) Ministru kabinets izdod noteikumus par naudas soda aprēķināšanas kārtību.
