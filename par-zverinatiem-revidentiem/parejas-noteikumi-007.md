@@ -1,0 +1,1 @@
+7. Individuālie uzņēmumi, kas sniedz revīzijas pakalpojumus, ir tiesīgi turpināt šo pakalpojumu sniegšanu individuālo uzņēmumu statusā līdz Komerclikuma spēkā stāšanās kārtības likumā noteiktā pārejas perioda beigām.

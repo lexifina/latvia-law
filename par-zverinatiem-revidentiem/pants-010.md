@@ -1,0 +1,7 @@
+10.pants. Pretendentu pieteikumu iesniegšanas un izskatīšanas kārtība
+(1) Pretendents iesniedz Latvijas Zvērinātu revidentu asociācijai pieteikumu zvērinātu revidentu kvalifikācijas eksāmenu kārtošanai un citus dokumentus Latvijas Zvērinātu revidentu asociācijas noteiktajā kārtībā.
+(2) Pieteikumā pretendents apliecina savu atbilstību šā likuma 8.panta prasībām un pievieno tam Latvijas Zvērinātu revidentu asociācijas noteiktos dokumentus.
+(3) Pēc pieteikuma un tam pievienoto dokumentu saņemšanas Latvijas Zvērinātu revidentu asociācija viena mēneša laikā izskata pieteikumu un tam pievienotos dokumentus un pieņem lēmumu par pretendenta tiesībām kārtot zvērinātu revidentu kvalifikācijas eksāmenus vai par atteikumu.
+(4) Latvijas Zvērinātu revidentu asociācijas lēmums paziņojams pretendentam rakstveidā.
+(5) Ja pretendents saņēmis atteikumu tāpēc, ka pieteikums un tam pievienotie dokumenti nav pilnīgi vai neapliecina atbilstību šā likuma 8.panta prasībām, viņš var atkārtoti iesniegt Latvijas Zvērinātu revidentu asociācijai pieteikumu tikai pēc attiecīgo trūkumu novēršanas, bet ne ātrāk kā pēc pusgada no atteikuma saņemšanas dienas. Atkārtotu pieteikumu nevar iesniegt persona, kura nedrīkst būt par zvērinātu revidentu saskaņā ar 9.pantu, izņemot gadījumus, kad vairs nepastāv apstākļi, kas neļauj šai personai būt par zvērinātu revidentu.
+(6) Pretendentu pieteikumu izskatīšana notiek par maksu, kuras apmēru un maksāšanas kārtību nosaka Latvijas Zvērinātu revidentu asociācijas valde.

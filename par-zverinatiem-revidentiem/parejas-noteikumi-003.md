@@ -1,0 +1,1 @@
+3. Līdz 2003.gada 1.janvārim finansu institūciju, kā arī tādu komercsabiedrību, kuru akcijas ir iekļautas fondu biržas sarakstos, gada pārskatu, arī konsolidēto gada pārskatu obligāto likumos noteikto pārbaudi var veikt Finansu un kapitāla tirgus komisijas norādītie revidenti un revidentu uzņēmumi, kuri neatbilst šā likuma prasībām.
