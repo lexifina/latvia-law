@@ -4,5 +4,5 @@
 2) profesionālā vidējā izglītība;
 3) profesionālā augstākā izglītība.
 (2) Profesionālā augstākā izglītība iedalāma šādi:
-1) pirmā līmeņa profesionālā augstākā izglītība;
+1) pirmā līmeņa profesionālā augstākā izglītība (koledžas izglītība);
 2) otrā līmeņa profesionālā augstākā izglītība.

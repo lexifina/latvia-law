@@ -10,3 +10,5 @@
 2) daļēji apguvis akreditētu profesionālās izglītības programmu;
 3) apguvis attiecīgu profesionālās izglītības programmu pašizglītības formā.
 (4) Izglītojamajam, kas daļēji apguvis akreditētu izglītības programmu un nav nokārtojis kvalifikācijas eksāmenus, izglītības iestāde Ministru kabineta noteiktajā kārtībā izsniedz dokumentu par attiecīgās profesionālās izglītības programmas daļas apguvi.
+(5) Izglītojamajam, kurš apguvis profesionālās pilnveides izglītības programmu, tiek izsniegta apliecība par profesionālās pilnveides izglītības ieguvi.
+(6) Izglītojamajam, kurš apguvis profesionālās ievirzes izglītības programmu, tiek izsniegta apliecība par profesionālās ievirzes izglītības ieguvi.

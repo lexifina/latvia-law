@@ -1,0 +1,1 @@
+5. Neakreditētas privātās profesionālās izglītības iestādes līdz to akreditācijai, bet ne vēlāk kā līdz 2003.gada 1.janvārim ir tiesīgas pretendēt uz likuma 30.panta sestajā daļā paredzēto valsts finansējumu.

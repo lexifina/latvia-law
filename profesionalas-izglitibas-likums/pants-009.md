@@ -4,4 +4,5 @@ Citas ministrijas:
 2) sadarbojas ar Izglītības un zinātnes ministriju profesiju standartu izstrādes un aktualizācijas, profesionālās izglītības kvalitātes vērtēšanas un citos ar profesionālo izglītību saistītos jautājumos;
 3) sadarbībā ar Izglītības un zinātnes ministriju, citām valsts institūcijām un pašvaldībām organizē savā pārziņā esošo profesionālās izglītības iestāžu pedagogu tālākizglītību;
 4) piedalās valsts, pašvaldību, arodbiedrību, darba devēju un citu sabiedrisko organizāciju un sadarbību veicinošo institūciju darbā;
-5) veic citas šajā likumā un Izglītības likumā noteiktās ar profesionālo izglītību saistītās funkcijas.
+5) organizē pieaugušo profesionālo tālākizglītību un profesionālo pilnveidi, kā arī bezdarbnieku pārkvalifikāciju un apmācību;
+6) veic citas šajā likumā un Izglītības likumā noteiktās ar profesionālo izglītību saistītās funkcijas.

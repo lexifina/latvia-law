@@ -1,0 +1,1 @@
+4. Valsts profesionālās izglītības iestādes dibinātāja pienākumus likuma 15.panta pirmajā daļā, 25.panta otrajā daļā un 29.panta ceturtajā daļā minētajos gadījumos veic Izglītības un zinātnes ministrija vai cita ministrija, kuras pārziņā nodota profesionālās izglītības iestāde.

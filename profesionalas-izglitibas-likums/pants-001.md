@@ -9,4 +9,8 @@
 6) profesionālā pamatizglītība - pamata pakāpes profesionālā izglītība, kas dod iespēju iegūt pirmā līmeņa profesionālo kvalifikāciju;
 7) profesionālā pieredze - iepriekšēja darbošanās attiecīgajā profesijā Latvijas Republikā, kā arī ārvalstī;
 8) profesionālā vidējā izglītība - vidējās pakāpes profesionālā izglītība, kas dod iespēju iegūt trešā līmeņa profesionālo kvalifikāciju;
-9) profesionālās kvalifikācijas līmenis - teorētiskā un praktiskā sagatavotība, kas dod iespēju veikt noteiktai sarežģītības un atbildības pakāpei atbilstošu darbu.
+9) profesionālās kvalifikācijas līmenis - teorētiskā un praktiskā sagatavotība, kas dod iespēju veikt noteiktai sarežģītības un atbildības pakāpei atbilstošu darbu;
+10) pirmā līmeņa profesionālā augstākā izglītība (koledžas izglītība) - augstākās pakāpes profesionālā izglītība, kas dod iespēju iegūt ceturto profesionālās kvalifikācijas līmeni;
+11) otrā līmeņa profesionālā augstākā izglītība - augstākās pakāpes profesionālā izglītība, kas dod iespēju iegūt piekto profesionālās kvalifikācijas līmeni;
+12) profesionālā tālākizglītība - profesionālās izglītības īpašs veids, kas pieaugušajiem ar iepriekšēju izglītību un profesionālo pieredzi dod iespēju iegūt noteikta līmeņa profesionālo kvalifikāciju;
+13) profesionālā pilnveide - profesionālās izglītības īpašs veids, kas personām neatkarīgi no vecuma un iepriekšējās izglītības vai profesionālās kvalifikācijas dod iespēju apgūt darba tirgus prasībām atbilstošas sistematizētas profesionālās zināšanas un prasmes.

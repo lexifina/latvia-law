@@ -1,2 +1,2 @@
 32.pants. Profesionālās izglītības ieguves kreditēšana
-Akreditētas pirmā līmeņa profesionālās augstākās izglītības programmas apguvei izglītojamais var saņemt valsts kredītu. Saņemtā kredīta dzēšanas vai atmaksāšanas kārtību nosaka Ministru kabinets.
+Akreditētās pirmā līmeņa profesionālās augstākās izglītības programmās studējošie, lai segtu maksu par studijām, var saņemt studiju kredītu no valsts budžeta vai kredītiestādes līdzekļiem ar valsts galvojumu. Kredīta piešķiršanai, atmaksāšanai un dzēšanai piemērojama kārtība, kas noteikta Augstskolu likumā attiecībā uz akreditētās studiju programmās studējošajiem.

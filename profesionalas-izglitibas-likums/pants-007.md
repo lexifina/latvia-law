@@ -1,9 +1,10 @@
 7.pants. Ministru kabineta kompetence
 Ministru kabinets:
 1) nosaka valsts politikas un stratēģijas virzienus profesionālajā izglītībā;
-2) nosaka profesiju standartus;
-3) apstiprina koledžu nolikumus;
+2) nosaka profesiju standartus un to izstrādes kārtību;
+3) (izslēgts ar 05.07.2001. likumu);
 4) nosaka mācību prakses organizācijas kārtību;
-5) nosaka valsts atzītu profesionālās kvalifikācijas dokumentu formu, izsniegšanas kritērijus un kārtību;
-6) nosaka ārvalstīs izsniegto profesionālo izglītību un profesionālo kvalifikāciju apliecinošo dokumentu atzīšanas kārtību;
-7) veic citas šajā likumā un Izglītības likumā noteiktās ar profesionālo izglītību saistītās funkcijas.
+5) nosaka valsts atzītu profesionālās kvalifikācijas dokumentu formu, izsniegšanas kritērijus un kārtību, kā arī profesionālās pilnveides un profesionālās ievirzes izglītību apliecinošu dokumentu formu un izsniegšanas kārtību;
+6) (izslēgts ar 05.07.2001. likumu);
+7) nosaka kārtību, kādā akreditējami eksaminācijas centri, kuros kārtojami centralizētie profesionālās kvalifikācijas eksāmeni;
+8) veic citas šajā likumā un Izglītības likumā noteiktās ar profesionālo izglītību saistītās funkcijas.

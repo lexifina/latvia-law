@@ -1,0 +1,1 @@
+3. Valsts profesionālās pamatizglītības, arodizglītības un profesionālās vidējās izglītības iestādēm līdz akreditācijai, bet ne vēlāk kā līdz 2004.gada 1.septembrim ir tiesības izsniegt profesionālo izglītību un profesionālo kvalifikāciju apliecinošos dokumentus atbilstoši šā likuma 6. panta nosacījumiem un organizēt centralizētos kvalifikācijas eksāmenus.
