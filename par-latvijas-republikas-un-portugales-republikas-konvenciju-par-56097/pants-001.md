@@ -1,0 +1,1 @@
+1.pants. 2001.gada 19.jūnijā Rīgā parakstītā Latvijas Republikas un Portugāles Republikas konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma nodokļiem (turpmāk - Konvencija) un 2001.gada 19.jūnijā parakstītais tās protokols (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.

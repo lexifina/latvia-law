@@ -1,0 +1,1 @@
+In respect of paragraph 3 of this Article, the term "dividends" also includes profits attributed under an arrangement for participation in profits (in the case of Portugal, associação em participação).

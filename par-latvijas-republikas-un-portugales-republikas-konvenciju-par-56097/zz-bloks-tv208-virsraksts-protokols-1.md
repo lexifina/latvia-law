@@ -1,0 +1,1 @@
+Attiecībā uz šā panta 3.punktu tiks saprasts, ka jēdziens "dividendes" iekļauj arī ienākumus, kas attiecināmi saskaņā ar vienošanos par līdzdalību peļņā (Portugāles gadījumā, associação em participação).
