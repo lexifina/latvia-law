@@ -1,0 +1,1 @@
+1.pants. 1996.gada 15.aprīlī Rīgā parakstītais Latvijas Republikas un Čehijas Republikas brīvās tirdzniecības līgums (turpmāk - Līgums) (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 14.nr.; 1999, 6.nr.; 2000, 2.nr.; 2001, 3.nr.; 2003, 8.nr.) ar šo likumu tiek denonsēts.
