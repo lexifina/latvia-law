@@ -1,0 +1,2 @@
+3.pants. (1) Katram šā likuma 1.pantā minētajam zemes īpašniekam valsts akciju sabiedrībā "Latvijas Hipotēku un zemes banka" tiek atvērts norēķinu konts, kurā tiek ieskaitīti atlīdzībai paredzētie līdzekļi atbilstoši Latvijas Republikas Augstākās padomes lēmuma "Par Latvijas Republikas likuma "Par nekustamā īpašuma piespiedu atsavināšanu valsts vai sabiedriskajām vajadzībām" spēkā stāšanās kārtību" 2.punktam.
+(2) Norēķinu konta numurs ierakstītā vēstulē tiek paziņots attiecīgajam atlīdzības saņēmējam.

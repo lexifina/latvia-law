@@ -1,0 +1,1 @@
+4.pants. Šajā likumā norādītie zemes īpašumi reģistrējami zemesgrāmatā uz valsts vārda, pamatojoties uz šo likumu un valsts akciju sabiedrības "Latvijas Hipotēku un zemes banka" apliecinājumu par nekustamā īpašuma vērtības atlīdzībai paredzēto līdzekļu ieskaitīšanu šā likuma 1.pantā minēto personu norēķinu kontos.
