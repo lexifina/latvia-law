@@ -3,4 +3,6 @@
 (2) Ja šā panta pirmajā daļā minētie darījumi pārsniedz 3000 latu, maksājama soda nauda 10 procentu apmērā no šo darījumu kopsummas; ja šie darījumi nav deklarēti šā panta pirmajā daļā noteiktajā kārtībā, - 15 procentu apmērā no šo darījumu kopsummas, ja šajā pantā nav noteikts citādi.
 (3) Kuģu aģentēšanas uzņēmumiem (uzņēmējsabiedrībām), kā arī starptautisko autopārvadājumu un kravas ekspedīcijas uzņēmumiem (uzņēmējsabiedrībām) tikai attiecībā uz starptautiskajiem autopārvadājumiem un kravas ekspedīcijas darījumiem, kuriem deklarējamo darījumu kopsumma mēneša laikā pārsniedz 3000 latu un kuri šos darījumus ir deklarējuši Ministru kabineta noteiktajā kārtībā, netiek piemērota soda nauda 10 procentu apmērā no šo darījumu kopsummas.
 (4) Kuģu aģentēšanas uzņēmumi (uzņēmējsabiedrības), kā arī starptautisko autopārvadājumu un kravas ekspedīcijas uzņēmumi (uzņēmējsabiedrības), kuri nav ievērojuši šā panta trešās daļas nosacījumus, maksā soda naudu atbilstoši šā panta otrās daļas nosacījumiem.
-(5) Šā panta normas neattiecas uz kredītiestāžu pakalpojumiem.
+(5) Šā panta normas neattiecas uz:
+1) kredītiestāžu pakalpojumiem;
+2) skaidrās naudas iemaksām kredītiestādēs šā panta pirmajā daļā noteikto darījumu dalībnieku kontos.

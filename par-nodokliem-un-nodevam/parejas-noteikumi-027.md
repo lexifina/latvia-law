@@ -1,0 +1,3 @@
+27. Finansu ministrija uzņēmumiem (uzņēmējsabiedrībām) samazina iepriekš aprēķināto nokavējuma naudu 100 procentu apmērā, ja pastāv abi šādi nosacījumi:
+a) uzņēmums (uzņēmējsabiedrība), pamatojoties uz Ministru kabineta rīkojumu par valsts atbalsta sniegšanu konkrētajam uzņēmumam (uzņēmējsabiedrībai) saskaņā ar likumu "Par valsts un pašvaldību īpašuma privatizācijas fondiem", ir saņēmis valsts atbalstu uzņēmējdarbībai,
+b) uzņēmums (uzņēmējsabiedrība) ir izmantojis šā valsts atbalsta līdzekļus to nodokļu pamatparādu samaksai, kuri izveidojušies līdz 1999.gada 1.oktobrim, un ar tiem saistītās pamatparāda palielinājuma naudas samaksai.

@@ -1,1 +1,0 @@
-14. Likuma "Par nodokļiem un nodevām" 24.panta trešās daļas 3.punktā paredzētais valsts budžetā ieskaitāmais nodokļu maksājumu pamatparāds attiecas uz nodokļu maksājumu pamatparādu, kurš izveidojies līdz 1996.gada 1.janvārim.

@@ -1,1 +1,1 @@
-15. Nokavētie un nenomaksātie nodokļu maksājumi, kas izveidojušies līdz 1996.gada 1.janvārim, veicami šādā secībā: vispirms nomaksājams pamatparāds, pēc tam pamatparāda palielinājuma nauda un pēdējā - nokavējuma nauda.
+15. Nokavētie un nenomaksātie nodokļu maksājumi, kas izveidojušies līdz 1999.gada 1.oktobrim, veicami šādā secībā: vispirms nomaksājams pamatparāds, pēc tam pamatparāda palielinājuma nauda un pēdējā - nokavējuma nauda.
