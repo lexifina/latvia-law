@@ -1,0 +1,2 @@
+KONFIDENCIĀLS
+Lietas Nr: MS/XX/XXX/S/X

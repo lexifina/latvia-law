@@ -1,0 +1,1 @@
+1.pants. 2003.gada 4.februārī Briselē parakstītais Ikgadējais finanšu līgums 2002.gadam starp Latvijas Republiku un Eiropas Komisiju Eiropas Kopienas vārdā (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts
