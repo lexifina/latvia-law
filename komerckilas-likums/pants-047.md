@@ -1,0 +1,2 @@
+47.pants. Komercķīlas ņēmēja atbildība par ieķīlātās mantas pārdošanu
+Komercķīlas ņēmējs, kas pārdod ieķīlāto mantu bez tiesas starpniecības, atbild par ieķīlātās mantas pārdošanu kā pilnvarnieks, un viņam jāatlīdzina komercķīlas devējam visi zaudējumi, ko radījusi nepietiekama rūpība. Ja pārdodot pieļauts ļauns nolūks un ja pircējs ir piedalījies komercķīlas ņēmēja ļaunprātībā, komercķīlas devējam ir tiesības prasīt atpakaļ pārdotās mantas, atmaksājot pircējam pirkuma summu ar procentiem.

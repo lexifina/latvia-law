@@ -1,0 +1,3 @@
+9.pants. Komercķīlas nodibināšana
+(1) Komercķīlu nodibina uz līguma pamata un reģistrē komercķīlu reģistrā atbilstoši šā likuma prasībām.
+(2) Ja puses ir noslēgušas līgumu par komercķīlas nodibināšanu, bet komercķīla nav reģistrēta, komercķīlas ņēmējs nevar izlietot savu tiesību un komercķīla nav spēkā pret trešajām personām, bet komercķīlas līgums savu spēku nezaudē. Komercķīlas ņēmējs var celt personīgu prasību pret komercķīlas devēju. Prasības priekšmets ir reģistrācija, un neviena no pusēm nevar bez otras puses piekrišanas atkāpties no saistības tāpēc, ka komercķīla nav reģistrēta. Pirmtiesība šādai komercķīlai tiek noteikta no reģistrācijas brīža.
