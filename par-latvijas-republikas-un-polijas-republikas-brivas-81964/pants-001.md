@@ -1,0 +1,1 @@
+1.pants. 1997.gada 28.aprīlī Varšavā parakstītais Latvijas Republikas un Polijas Republikas brīvās tirdzniecības līgums (turpmāk - Līgums) (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1997, 23.nr.; 1999, 6.nr.; 2000, 2.nr.; 2001, 6.nr.) ar šo likumu tiek denonsēts.
