@@ -1,0 +1,1 @@
+6. Ja saskaņa ar valsts vai pašvaldības īpašuma objekta privatizācijas projektu privatizētā objekta pirkuma līgums parakstīts pēc šā likuma spēkā stāšanās dienas, privatizētā objekta jaunajam īpašniekam ir šā likuma 57. pantā noteiktās zemes nomas tiesības.

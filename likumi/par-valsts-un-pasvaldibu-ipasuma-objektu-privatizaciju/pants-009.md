@@ -1,0 +1,3 @@
+9. pants. Privatizācijas aģentūras darbības pārraudzība
+1. Privatizācijas aģentūras darbības pārraudzību veic Ministru kabineta iecelta padome, kas tiek izveidota un darbojas saskaņā ar Likumu «Par valsts un pašvaldību īpašuma pārvaldi uzņēmējsabiedrībās» un likumu «Par akciju sabiedrībām». Tās sastāvā tiek iekļauti Saeimas frakciju ieteiktie pārstāvji. Privatizācijas valsts ministrs ir valsts pilnvarnieks Privatizācijas aģentūrā, viņš pilda Privatizācijas aģentūras pilnsapulces funkcijas un ir padomes priekšsēdētājs.
+2. Likumā noteiktajā kārtībā Privatizācijas aģentūras darbību pārrauga arī citas valsts institūcijas.

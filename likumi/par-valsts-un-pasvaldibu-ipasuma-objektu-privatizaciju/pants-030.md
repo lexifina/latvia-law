@@ -1,0 +1,2 @@
+30. pants. Paziņojums par valsts īpašuma objekta privatizācijas pabeigšanu
+Ne vēlāk kā mēneša laikā pēc valsts īpašuma objekta pirkuma līguma stāšanās spēkā vai izveidotās uzņēmējsabiedrības reģistrācijas Latvijas Republikas Uzņēmumu reģistrā Privatizācijas aģentūra publicē oficiālajā laikrakstā «Latvijas Vēstnesis» un tā rajona vai pilsētas laikrakstā, kura teritorijā atrodas privatizētais objekts, informāciju par to, kam un ar kādiem nosacījumiem privatizēts šis objekts.

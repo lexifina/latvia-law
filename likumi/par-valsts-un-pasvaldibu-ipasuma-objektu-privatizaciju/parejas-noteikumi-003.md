@@ -1,0 +1,1 @@
+3. Valsts īpašuma objekti, kuri līdz šā likuma spēkā stāšanās dienai iekļauti Ministru kabineta vai tā pilnvarotas institūcijas apstiprinātā privatizējamo valsts īpašuma objektu (uzņēmumu) sarakstā, privatizējami vienīgi šo noteikumu 2. punktā minētajos gadījumos.

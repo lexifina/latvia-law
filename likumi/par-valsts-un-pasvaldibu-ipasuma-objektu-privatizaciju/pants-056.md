@@ -1,0 +1,3 @@
+56. pants. Valsts īpašuma pārvaldītājs pēc objekta privatizācijas
+1. Ja valsts īpašuma objekta privatizācijas gaitā atsevišķs tā nekustamais īpašums tiek saglabāts valsts īpašumā, tā pārvaldītājs ir Valsts īpašuma fonds, izņemot šā likuma 55. pantā minētos gadījumus.
+2. Ja pēc valsts īpašuma objekta pārveidošanas statūtsabiedrībā tā sastāvā palikusi valsts kapitāla daļa, tās turētājs ir Valsts īpašuma fonds vai citas attiecīgas valsts institūcijas. To valsts kapitāla daļu turētājs, kuras paredzēts privatizēt saskaņā ar valsts īpašuma objekta privatizācijas noteikumiem, ir Privatizācijas aģentūra likumā «Par valsts un pašvaldību īpašuma pārvaldi uzņēmējsabiedrībās» noteiktajā kārtībā.

@@ -1,0 +1,2 @@
+II daļa
+VISPĀRĪGIE NOTEIKUMI

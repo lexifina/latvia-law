@@ -1,0 +1,8 @@
+2. pants. Privatizācijas mērķis un metodes
+1. Privatizācijas mērķis ir, mainot valsts vai pašvaldības īpašuma objekta īpašnieku, radīt labvēlīgu vidi privātā kapitāla darbībai Latvijas tautsaimniecības attīstības interesēs un sašaurināt darbību, ko valsts un pašvaldības veic kā uzņēmēji.
+2. Valsts un pašvaldību īpašuma privatizācijā tiek izmantotas šādas privatizācijas metodes:
+1) valsts vai pašvaldības īpašuma objekta (arī kapitāla daļas) pārdošana privatizācijas subjektiem. Šī privatizācijas metode turpmāk likumā tiks saukta par pārdošanas metodi;
+2) valsts vai pašvaldības īpašuma objekta ieguldīšana mantiskā ieguldījuma veidā uzņēmējsabiedrībā, kurā ir privātais kapitāls. Šī privatizācijas metode turpmāk likumā tiks saukta par ieguldīšanas metodi;
+3) valsts vai pašvaldības statūtsabiedrības pamatkapitāla palielināšana, piesaistot privāto kapitālu. Šī privatizācijas metode turpmāk likumā tiks saukta par privātā kapitāla piesaistīšanas metodi.
+3. Ar ieguldīšanas metodi veicamās privatizācijas kārtību regulē Ministru kabineta noteikumi.
+4. Ar privātā kapitāla piesaistīšanas metodi veicamās privatizācijas kārtību regulē Ministru kabineta noteikumi.

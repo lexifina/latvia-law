@@ -1,0 +1,5 @@
+44. pants. Valsts un pašvaldību kapitāla daļu privatizācija
+1. To valsts vai pašvaldību kapitāla daļu pārdošana, kuru turētāji ir valsts vai pašvaldību uzņēmumi vai uzņēmējsabiedrības, notiek saskaņa ar likumu par attiecīgo uzņēmējdarbības formu un attiecīgās uzņēmējsabiedrības statūtos noteiktajā kārtībā, ievērojot šā panta noteikumus.
+2. Ja uzņēmējsabiedrībā līdztekus valsts vai pašvaldību uzņēmumiem vai uzņēmējsabiedrībām, kuru kapitāla daļas tiek pārdotas, ir arī citi valsts vai pašvaldību dalībnieki, viņiem nav pirmpirkuma tiesību uz pārdodamajām kapitāla daļām.
+3. Ja saskaņā ar likumu par attiecīgo uzņēmējdarbības formu un attiecīgās uzņēmējsabiedrības statūtiem kapitāla daļu realizāciju veic šīs sabiedrības valde, tai nav tiesību pārdot valsts vai pašvaldību kapitāla daļas citādi kā vien ar Privatizācijas aģentūras vai attiecīgās pašvaldības starpniecību.
+4. Kārtību, kādā Privatizācijas aģentūra vai pašvaldība veic valsts vai pašvaldību uzņēmumiem vai uzņēmējsabiedrībām piederošo kapitāla daļu pārdošanu, nosaka Ministru kabineta noteikumi.

@@ -1,0 +1,3 @@
+25. pants. Privatizācijas subjektu pirmpirkuma tiesību realizācija
+1. Ne vēlāk kā nedēļas laikā pēc valsts īpašuma objekta privatizācijas noteikumu apstiprināšanas Privatizācijas aģentūra piedāvā personām, kurām ir pirmpirkuma tiesības (17. pants), noslēgt privatizējamā objekta pirkuma līgumu saskaņā ar apstiprinātajiem valsts īpašuma objekta privatizācijas noteikumiem, ierakstītā vēstulē izsūtot tām šos noteikumus.
+2. Personām, kurām ir pirmpirkuma tiesības, jādod atbilde mēneša laikā no ierakstītās vēstules saņemšanas brīža. Ja persona, kurai ir pirmpirkuma tiesības, nedod atbildi noteiktajā termiņā, tās pirmpirkuma tiesības izbeidzas un Privatizācijas aģentūra veic šā likuma 26. pantā noteiktās darbības.

@@ -1,0 +1,2 @@
+33. pants. Privatizējamā pašvaldības īpašuma objekta pārvaldīšana
+No brīža, kad pieņemts pašvaldības lēmums par pašvaldības īpašuma objekta nodošanu privatizācijai, privatizējamā objekta pārvaldes institūcija likumā noteiktajos gadījumos var nodot lietošanā vai pārdot tā bilancē esošo kustamo un nekustamo mantu, ieguldīt to uzņēmējsabiedrībās, kā arī slēgt līgumus par mantas apgrūtināšanu ar parādiem, uzņemties citas saistības un slēgt citus darījumus tikai ar pašvaldības atļauju vai tās noteiktajā kārtībā.

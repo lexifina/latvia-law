@@ -1,0 +1,3 @@
+22. pants. Privatizācijas priekšlikumu apkopošana un valsts īpašuma objekta privatizācijas noteikumu izstrāde
+1. Privatizācijas aģentūra reģistrē iesniegtos privatizācijas priekšlikumus un izsūta to iesniedzējiem apstiprinājumu par priekšlikumu saņemšanu.
+2. Ievērojot valsts īpašuma objekta stāvokļa vērtējumu un ekspertu atzinumus par tā turpmāko izmantošanu, Privatizācijas aģentūra izstrādā konkrētā valsts īpašuma objekta privatizācijas noteikumus. Privatizācijas aģentūra var ņemt vērā iesniegtos privatizācijas priekšlikumus vai paredzēt šajos priekšlikumos neminētus privatizācijas paņēmienus.

@@ -1,0 +1,2 @@
+4. pants. Privatizācijas subjekts
+Par privatizācijas subjektu var būt fiziskā vai juridiskā persona, kam ir tiesības iegūt Latvijā kustamo un/vai nekustamo īpašumu. Privatizējot valsts vai pašvaldības īpašuma objektu, privatizācijas subjekts nevar būt valsts vai pašvaldība, valsts vai pašvaldības uzņēmums, valsts vai pašvaldības statūtsabiedrība, kā arī statūtsabiedrība, kuras pamatkapitālā privātais kapitāls nepārsniedz 25 procentus.
