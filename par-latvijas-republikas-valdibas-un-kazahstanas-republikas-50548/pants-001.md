@@ -1,0 +1,1 @@
+1.pants. 1998.gada 19.maijā Almati parakstītais Latvijas Republikas valdības un Kazahstānas Republikas valdības nolīgums par gaisa satiksmi (turpmāk - Nolīgums) un tā pielikums (turpmāk - Pielikums) ar šo likumu tiek pieņemti un apstiprināti.
