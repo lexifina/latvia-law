@@ -17,7 +17,7 @@
 3) atlīdzība, kuru izmaksā sagādes un citas organizācijas par medījumu jēlādām, medījumiem un to gaļu, medību trofejām, zoobarību un citu savvaļā iegūto produkciju, izņemot savvaļas sēņu un ogu produkciju;
 4) apdrošināšanas atlīdzība, kas saskaņā ar dzīvības, veselības un negadījuma apdrošināšanas līgumu, kuru apdrošinātā interesēs noslēdzis darba devējs (vai cits apdrošinājuma ņēmējs - juridiskā persona), izmaksāta, pienākot apdrošināšanas līgumā paredzētajam līguma beigu termiņam vai laužot līgumu pirms termiņa;
 5) pensijas;
-6) kokmateriālu un augoša meža un metāllūžņu pārdošanas ienākumi;
+6) metāllūžņu pārdošanas ienākumi;
 7) ieņēmumi no saimnieciskās darbības, ko veic fiziskā persona, kura nav reģistrējusi savu individuālo darbu vai individuālo uzņēmumu, arī zemnieku vai zvejnieku saimniecību, izņemot lauksaimnieciskās ražošanas produkciju;
 8) uzņēmumu, uzņēmējsabiedrību dāvinājumi naudā un citās lietās;
 9) slimības pabalsti;
