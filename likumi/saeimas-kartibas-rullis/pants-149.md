@@ -10,10 +10,11 @@
 9) Sociālo un darba lietu komisija;
 10) Mandātu un iesniegumu komisija;
 11) Pieprasījumu komisija;
-12) Revīzijas komisija;
+12) Publisko izdevumu un revīzijas komisija;
 13) Saimnieciskā komisija;
 14) Nacionālās drošības komisija;
 15) Pilsonības likuma izpildes komisija;
-16) Eiropas lietu komisija.
+16) Eiropas lietu komisija;
+17) Korupcijas, kontrabandas un organizētās noziedzības novēršanas un apkarošanas uzraudzības komisija.
 (2) Katras komisijas skaitlisko sastāvu, kā arī komisijas izveidošanas principus nosaka Saeima.
 (3) Ārpolitiskai darbībai nepieciešamos budžeta izdevumus komisija saskaņo ar Prezidiju.

@@ -7,7 +7,7 @@ b) deputātam, kas dzīvo no 60 līdz 150 km attālumā no Rīgas, - 0,67,
 c) deputātam, kas dzīvo vairāk nekā 150 km attālumā no Rīgas, - 0,9.
 (3) Par faktiskajiem izdevumiem šā panta otrās daļas 2.punkta izpratnē uzskatāmi starppilsētu sabiedriskā transporta izdevumi un izdevumi par deputāta īpašumā vai valdījumā esoša transportlīdzekļa izmantošanu.
 (4) Transporta izdevumi netiek kompensēti deputātiem, kuriem kā Saeimas amatpersonām dienesta vajadzībām lietošanā piešķirta automašīna.
-(5) Deputātiem kompensējami komandējumu izdevumi ārpus valsts robežām (ceļa, viesnīcas, reprezentācijas un transporta izdevumi, dienas nauda, piemaksa), un tie tiek apmaksāti atbilstoši faktiskajiem izdevumiem.
+(5) Deputātiem kompensējami komandējumu izdevumi (ceļa, viesnīcas, reprezentācijas un transporta izdevumi, dienas nauda, piemaksa), un tie tiek apmaksāti atbilstoši faktiskajiem izdevumiem.
 (6) Šā panta piektajā daļā minēto izdevumu kompensācijas kārtība un kompensācijas normas attiecināmas arī uz Saeimas darbiniekiem, kuri bijuši ar Prezidija lēmumu apstiprinātā komandējumā.
 (7) Šajā pantā minētās kompensācijas, kā arī 12.pantā minētos reprezentācijas izdevumus ar nodokļiem neapliek.
 (8) Informācija par deputātam izmaksājamo summu (amata alga, piemaksas, reprezentācijas nauda un kompensācijas) ir publiski pieejama.
