@@ -1,3 +1,4 @@
 7. pants. Juridisko personu zemes lietošanas tiesības
 Juridiskās personas, kam zeme piešķirta lietošanā saskaņā ar likumu «Par zemes reformu Latvijas Republikas lauku apvidos», saglabā zemes lietošanas tiesības līdz pieciem gadiem, ja saskaņā ar šā likuma 6. pantu uz šo zemi atjaunotas īpašuma tiesības tās bijušajiem īpašniekiem vai viņu mantiniekiem. Politiski represēto personu zemes īpašuma tiesību atjaunošanas pieprasījumu gadījumos juridiskās personas saglabā zemes lietošanas tiesības līdz vienam gadam pēc politiski represēto personu zemes īpašuma tiesību atjaunošanas pieprasījumu iesniegšanas, izņemot nomā piešķirto zemi līdz 0,5 hektāriem katrai personiskajai palīgsaimniecībai.
 Juridiskās personas pienākums ir maksāt zemes īpašniekam nomas maksu, kuras maksimālo lielumu un samaksas kārtību nosaka Ministru kabinets.
+Juridiskās personas var lietot zemi arī gadījumā, ja zemes īpašnieks iesaistījies uzņēmējdarbībā, ieguldot zemes lietošanas tiesības.

@@ -1,5 +1,5 @@
 22. pants. Lēmumi par zemes privatizāciju
-Pagasta Tautas deputātu padomes lēmumā par zemes īpašuma tiesību atjaunošanu jānorāda:
+Pagasta padomes lēmumā par zemes īpašuma tiesību atjaunošanu jānorāda:
 - uz kādu zemi un kādā apjomā tiek atjaunotas īpašuma tiesības;
 - par kādu zemes platību pienākas kompensācija un kāds ir tās apmērs.
 Lēmumā par zemes piešķiršanu īpašumā par samaksu jānorāda, kam zeme tiek piešķirta, kādā platībā un kādam mērķim, kā arī samaksas apmērs.

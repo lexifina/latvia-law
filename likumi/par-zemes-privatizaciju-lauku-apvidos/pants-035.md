@@ -1,0 +1,3 @@
+35. pants. Lauku zemes īpašuma tiesību izbeigšanas kārtība attiecībā uz fiziskajām personām, kuras nav Latvijas Republikas pilsoņi
+Ja fiziskā persona, kas nav Latvijas Republikas pilsonis, iegūst lauku zemes īpašumu mantošanas ceļā, šai personai tas divu gadu laikā ir jāatsavina. Ja šī prasība netiek izpildīta, Valsts īpašuma fondam jāpārņem minētais īpašums valsts īpašumā, izmaksājot īpašniekam atlīdzību, kuru nosaka likumā «Par nekustamā īpašuma piespiedu atsavināšanu valsts vai sabiedriskajām vajadzībām paredzētajā kārtībā.
+Ministru kabinets pēc zemkopības ministra priekšlikuma var pagarināt tiesību izbeigšanas termiņu.
