@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Par profesionālās kvalifikācijas atzīšanas koordinatoru",
+  "type_of_act": "Ministru kabineta rīkojums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "82",
+  "official_journal_page": null,
+  "official_journal_date": "2002-05-31",
+  "entry_into_force": "2002-05-28",
+  "notification_date": "2008-01-16",
+  "commission_reference": "MNE(2008)50457",
+  "nim_celex": "72005L0036LVA_152829",
+  "nim_id": "152829",
+  "transposes_celex": [
+    "32005L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/182ee648-76bb-4aae-90cf-fd11e0690e1f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
