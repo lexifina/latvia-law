@@ -1,0 +1,33 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru Kabineta 2001.gada 15.maija noteikumi Nr.191 \"Noteikumi par atkritumu apglabāšanas un pārstrādes veidiem\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "77",
+  "official_journal_page": null,
+  "official_journal_date": "2001-05-18",
+  "entry_into_force": null,
+  "notification_date": "2004-03-23",
+  "commission_reference": "MNE(2003)50762",
+  "nim_celex": "71975L0439LVA_20762",
+  "nim_id": "20762",
+  "transposes_celex": [
+    "31975L0439",
+    "31975L0442",
+    "31978L0176",
+    "31982L0883",
+    "31983L0029",
+    "31987L0101",
+    "31991L0156",
+    "31991L0157",
+    "31996L0059",
+    "31998L0101",
+    "32000L0053",
+    "32006L0012"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6aef2eba-0288-44de-8cd9-3a86ec394447",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
