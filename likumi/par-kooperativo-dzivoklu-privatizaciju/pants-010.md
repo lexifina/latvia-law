@@ -1,1 +1,0 @@
-10. pants. Dzīvokļa atsavināšanas gadījumos pirmpirkuma tiesības ir šā likuma 7. pantā minētajām personām, ja tās ir pastāvīgi pierakstītas un dzīvo šajā dzīvoklī, bet, tām atsakoties, - attiecīgās teritorijas pašvaldībai.

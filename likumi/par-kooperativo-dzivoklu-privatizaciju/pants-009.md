@@ -1,1 +1,0 @@
-9. pants. Privatizētais dzīvoklis, kuru mantojis kādas citas valsts pilsonis, kas nav Latvijas Republikas iedzīvotājs, sešu mēnešu laikā ir atsavināms par labu šā likuma 7. pantā minētajām personām, ja starpvalstu līgumos nav noteikts citādi.
