@@ -1,0 +1,1 @@
+4.pants. Atzīt par spēku zaudējušu likumu " Par 1982.gada 15.jūlija Eiropas satelīttelekomunikāciju organizācijas "EUTELSAT" konvenciju un Darbības līgumu " (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1999, 23.nr.).
