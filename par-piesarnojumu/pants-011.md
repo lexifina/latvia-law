@@ -11,5 +11,6 @@
 4) noteikumus par trokšņa emisiju no iekārtām, kuras izmanto ārpus telpām;
 5) noteikumus par satiksmē neizmantojamo pārvietojamo mehānismu iekšdedzes dzinēju radīto piesārņojošu vielu emisiju gaisā;
 6) noteikumus par azbesta un azbesta izstrādājumu ražošanas radīto vides piesārņojumu;
-7) noteikumus par atkritumu sadedzināšanai un atkritumu sadedzināšanas iekārtu darbībai izvirzāmajām prasībām.
+7) noteikumus par atkritumu sadedzināšanai un atkritumu sadedzināšanas iekārtu darbībai izvirzāmajām prasībām;
+8) kārtību, kādā ierobežojama piesārņojošas darbības izraisīto smaku izplatīšanās, un šo smaku noteikšanas metodes.
 (3) Ministru kabinets nosaka kopējo valstī maksimāli pieļaujamo emisiju gaisā konkrētā laikposmā un konkrētiem piesārņojuma veidiem.

@@ -1,0 +1,1 @@
+15. Ministru kabinets līdz 2004.gada 1.augustam izdod šā likuma 24.¹ panta trešajā un septītajā daļā, 32.³ panta devītajā daļā, 32.⁵ panta septītajā daļā un 45.panta septītajā daļā minētos noteikumus.

@@ -1,10 +1,11 @@
-31.pants. Atļaujas nosacījumi
+31.pants. A un B kategorijas atļauju nosacījumi
 (1) Atļaujā ietver nosacījumus, kuru ievērošana nepieciešama, lai nodrošinātu cilvēku veselības aizsardzību un attiecīgu vides kvalitāti - gaisa, virszemes ūdeņu, pazemes ūdeņu, augsnes un zemes dzīļu aizsardzību, kā arī nosaka:
 1) emisijas limitus piesārņojošām vielām, kuras varētu tikt emitētas no iekārtas, ievērojot attiecīgās vielas raksturu un iespējamo piesārņojuma pārnesi no vienas vides citā (ūdens, gaiss, augsne), kā arī citu veidu emisijas limitus;
 2) prasības, kas jāievēro operatoram, lai nodrošinātu cilvēku veselības un vides aizsardzību, kā arī atkritumu apsaimniekošanu, izmantojot dabas resursus un enerģiju, kā arī lietojot ķīmiskās vielas un ķīmiskos produktus;
 3) pasākumus, kas saistīti ar iekārtai netipiskiem darbības apstākļiem, arī ar iekārtas darbības uzsākšanu, iespējamām noplūdēm, nepareizu darbību, pēkšņu apstāšanos un darbības pārtraukšanu;
 3¹) vides kvalitātes mērķus konkrētajai teritorijai vai saskaņā ar upju baseinu apgabalu apsaimniekošanas plānu veicamos pasākumus un to īstenošanas termiņus;
-4) citus pasākumus, kas veicami, lai nodrošinātu šā likuma II nodaļā noteikto prasību izpildi.
+4) citus pasākumus, kas veicami, lai nodrošinātu šā likuma II nodaļā noteikto prasību izpildi;
+5) prasības attiecībā uz iekārtas energoefektivitāti, kuras operators šā likuma 2.pielikumā minētajām iekārtām drīkst nepiemērot gadījumos, kad citādi nav iespējams ievērot siltumnīcefekta gāzu emisijas atļaujā noteikto oglekļa dioksīda emisijas limitu.
 (2) A kategorijas atļaujas nosacījumus pamato ar labāko pieejamo tehnisko paņēmienu lietošanu, nenosakot konkrētu izmantojamās tehnoloģijas veidu, bet ņemot vērā attiecīgās iekārtas tehniskos raksturlielumus, tās ģeogrāfisko izvietojumu un vides apstākļus.
 (3) Ja vides kvalitātes normatīvi paredz stingrākus nosacījumus, nekā tas izriet no prasības lietot labākos pieejamos tehniskos paņēmienus, A kategorijas atļaujā ietver citus nosacījumus, lai sasniegtu noteiktos vides kvalitātes normatīvus.
 (4) B kategorijas atļaujas nosacījumus pamato ar attiecīgās piesārņojošās darbības raksturlielumiem, tās ģeogrāfisko izvietojumu un vides apstākļiem. Normatīvajos aktos noteiktajos gadījumos B kategorijas atļaujā ietver konkrētās iekārtas tehniskos raksturlielumus.

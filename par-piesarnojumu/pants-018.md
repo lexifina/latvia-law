@@ -5,4 +5,5 @@
 2) uz kurām īpaši jutīgām teritorijām attiecas paaugstinātas prasības ūdens un augsnes aizsardzībai no lauksaimnieciskas darbības izraisīta piesārņojuma ar nitrātiem.
 (3) Ministru kabinets:
 1) pieņem noteikumus par rīcības programmu ar nitrātiem saistītā ūdens piesārņojuma samazināšanai vai novēršanai attiecīgajās īpaši jutīgajās teritorijās, kā arī nosaka rīcības programmas ieviešanas termiņus;
-2) izveido padomi šā panta otrās daļas 2.punktā minēto īpaši jutīgo teritoriju apsaimniekošanas pasākumu koordinācijai, iekļaujot tajā pārstāvjus no Vides aizsardzības un reģionālās attīstības ministrijas, Zemkopības ministrijas un Labklājības ministrijas vai to pārraudzībā, pakļautībā vai pārziņā esošajām institūcijām un vienu lauksaimnieku sabiedrisko organizāciju izvirzītu pārstāvi, kā arī apstiprina šīs padomes nolikumu.
+2) (izslēgts ar 18.12.2003. likumu).
+(4) Vides ministrs pēc saskaņošanas ar zemkopības ministru šā panta otrās daļas 2.punktā minēto īpaši jutīgo teritoriju apsaimniekošanas pasākumu koordinācijai izveido konsultatīvu padomi, iekļaujot tajā pārstāvjus no Vides ministrijas, Zemkopības ministrijas un Veselības ministrijas un šo ministriju padotībā esošajām institūcijām, kā arī sabiedrisko organizāciju pārstāvjus, un apstiprina šīs padomes nolikumu.

@@ -1,1 +1,1 @@
-6. Pašvaldības divu gadu laikā no šā likuma spēkā stāšanās dienas iesniedz attiecīgajai reģionālajai vides pārvaldei ziņas par savā administratīvajā teritorijā esošajām piesārņotām un potenciāli piesārņotām vietām.
+6. Piesārņotu un potenciāli piesārņotu vietu apzināšanu un sākotnējo izvērtēšanu veic līdz 2004.gada 31.decembrim.

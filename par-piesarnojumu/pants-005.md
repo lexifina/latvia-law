@@ -7,4 +7,4 @@ Operators, kā arī atbildīgās valsts un pašvaldību institūcijas veic nepie
 5) avāriju riska novērtēšanu un tādus pasākumus, kas nepieciešami, lai izvairītos no avārijām, bet avārijas gadījumā - samazinātu tās sekas;
 6) piesārņojošas darbības pārtraukšanu un neatliekamu piesārņotās vietas sanāciju, ja tas nepieciešams;
 7) pasākumus, kas nepieciešami, lai nepieļautu piesārņojuma izplatīšanos; piesārņotās vietas izpēti un sanāciju, kā arī piesārņojošas darbības monitoringu;
-8) operatoriem, kuri veic šā likuma pielikumā minētās piesārņojošās darbības, izvirzāmo prasību lietot labākos pieejamos tehniskos paņēmienus.
+8) operatoriem, kuri veic šā likuma 1.pielikumā minētās piesārņojošās darbības, izvirzāmo prasību lietot labākos pieejamos tehniskos paņēmienus.

@@ -1,0 +1,1 @@
+12. Ministru kabinets līdz 2004.gada 30.jūnijam apstiprina emisijas kvotu sadales plānu šā likuma 24.¹ panta piektās daļas 1.punktā noteiktajam periodam, bet katram nākamajam 24.¹ panta piektajā daļā minētajam periodam - vismaz 19 mēnešus pirms attiecīgā perioda.

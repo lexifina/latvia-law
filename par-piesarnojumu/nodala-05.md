@@ -1,3 +1,2 @@
 V nodaļa
-A kategorijas un B kategorijas atļauju
-izsniegšana un pārskatīšana
+Atļaujas pieteikšana, izsniegšana un pārskatīšana
