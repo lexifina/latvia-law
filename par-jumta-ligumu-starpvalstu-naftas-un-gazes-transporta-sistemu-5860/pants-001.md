@@ -1,0 +1,1 @@
+1.pants. 1999.gada 22.jūlijā Kijevā parakstītais Jumta līgums starpvalstu naftas un gāzes transporta sistēmu dibināšanas organizacionālai struktūrai (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
