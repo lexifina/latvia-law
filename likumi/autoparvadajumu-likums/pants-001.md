@@ -14,14 +14,14 @@ Likumā ir lietoti šādi termini:
 12) krava - pārvadāšanai paredzēta lieta (produkcija, preces, saiņi, konteineri un citi priekšmeti);
 13) krava, kas ātri bojājas, - lauksaimniecības un zivju produkti, kā arī cita veida krava, kuru pārvadājot jāievēro īpašs temperatūras režīms un kura jāpārvadā ar specializētiem autotransporta līdzekļiem;
 14) kravas valdītājs - persona, kas uz tiesiska pamata rīkojas ar kravu savā vārdā neatkarīgi no tā, vai krava ir tās īpašums;
-15) kustības saraksts - saraksts, kurā ir norādīts maršruts un reisu izpildes laiki;
+15) kustības saraksts - saraksts, kurā ir norādīts maršruts un reisu izpildes laiks;
 16) līniju būve - speciāls objekts (autoosta, pieturvieta, dispečerpunkts, autovadītāju atpūtas telpas u. tml.), kas paredzēts kustības organizēšanai un pasažieru apkalpošanai maršrutos;
 17) maršruts - iepriekš izraudzīts autotransporta līdzekļa kustības ceļš starp diviem kustības galapunktiem;
 18) nosūtītājs - persona, kas nodod kravu pārvadāšanai. Nosūtītājs un saņēmējs var būt viena un tā pati persona;
 19) pasažieris - persona, kas saskaņā ar līgumu (biļeti) vai uz cita tiesiska pamata izmanto autotransporta līdzekli braukšanai un bagāžas pārvadāšanai, kā arī izmanto citus pārvadātāja sniegtos pakalpojumus;
 20) pasažieru un kravas komercpārvadājums (turpmāk - pasažieru un kravas pārvadājums) - pasažieru un kravas pārvadāšana par maksu profesionālas darbības veidā;
 21) pārvadātājs - uzņēmējs (fiziskā vai juridiskā persona), kas pēc pasūtījuma vai līguma ar nosūtītāju, pasažieri vai uz cita tiesiska pamata uzņemas pārvadājuma saistību;
-22) pasažieru regulārie pārvadājumi - pasažieru pārvadāšana ar autobusiem, taksobusiem vai maršruta taksometriem saskaņā ar noteiktiem kustības sarakstiem vai bez tiem regulāri pa noteiktu maršrutu par iepriekš noteiktu braukšanas un bagāžas pārvadāšanas maksu;
+22) pasažieru regulārie pārvadājumi - pasažieru pārvadāšana ar autobusiem, taksobusiem vai maršruta taksometriem saskaņā ar noteiktiem kustības sarakstiem regulāri pa noteiktu maršrutu par iepriekš noteiktu braukšanas un bagāžas pārvadāšanas maksu;
 23) saņēmējs - persona, kurai saskaņā ar pārvadājuma līgumu galapunktā izsniedzama krava;
 24) starptautiskie pārvadājumi - pārvadājumi, kuru veikšanai nepieciešams šķērsot Latvijas valsts robežu;
 25) šķidrās kravas - nafta un naftas produkti, spirts, augu eļļa, dzīvnieku tauki un citas kravas, ko pārvadā noslēgtās tilpnēs;

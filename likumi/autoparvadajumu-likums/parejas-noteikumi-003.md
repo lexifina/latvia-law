@@ -1,1 +1,1 @@
-3. Šā likuma 48.panta otrā daļa stājas spēkā ar 1997.gada 1.janvāri.
+3. Šā likuma 48. panta noteikumi stājas spēkā vienlaikus ar likumiem, kas reglamentē attiecīgo apdrošināšanas veidu.
