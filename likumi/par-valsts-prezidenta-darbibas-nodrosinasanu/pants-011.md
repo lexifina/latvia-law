@@ -1,0 +1,1 @@
+11.pants. Šā likuma 10.pantā minētās sociālās un citas garantijas persona, kas bijusi ievēlēta par Valsts prezidentu, saņem no pirmās dienas pēc Valsts prezidenta amata atstāšanas līdz mūža beigām un neatkarīgi no tā, vai šai personai ir citi ienākumi.
