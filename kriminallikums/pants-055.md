@@ -10,7 +10,7 @@
 3) periodiski ierasties uz reģistrāciju noteiktā institūcijā;
 4) neapmeklēt noteiktas vietas;
 5) noteiktā laikā atrasties savā dzīvesvietā.
-(7) Nosacīti notiesājot, tiesa var uzlikt notiesātajam, kas izdarījis noziedzīgu nodarījumu uz alkoholisma, narkomānijas vai toksikomānijas pamata, ar viņa piekrišanu pienākumu ārstēties no alkoholisma, narkomānijas vai toksikomānijas.
+(7) Nosacīti notiesājot, tiesa var uzlikt notiesātajam, kas izdarījis noziedzīgu nodarījumu alkohola, narkotisko, psihotropo vai toksisko vielu atkarības dēļ, pienākumu ārstēties no alkohola, narkotisko, psihotropo vai toksisko vielu atkarības, ja viņš tam piekrīt.
 (8) Tiesa nosacīti notiesātajam pārbaudes laikā uzliktos pienākumus var pilnīgi vai daļēji atcelt.
 (9) Ja nosacīti notiesātais bez attaisnojoša iemesla nepilda tiesas uzliktos pienākumus vai atkārtoti izdara administratīvos pārkāpumus, par ko viņam uzlikti administratīvie sodi, tiesa pēc tās iestādes iesnieguma, kurai uzdots kontrolēt notiesātā uzvedību, var pieņemt lēmumu par spriedumā noteiktā soda izpildīšanu notiesātajam vai par pārbaudes termiņa pagarināšanu uz vienu gadu.
 (10) Ja nosacīti notiesātais pārbaudes laikā izdara jaunu noziedzīgu nodarījumu, tiesa nosaka viņam sodu saskaņā ar šā likuma 51. un 52.pantā paredzētajiem noteikumiem.

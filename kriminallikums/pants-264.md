@@ -1,3 +1,3 @@
-264.pants. Pieļaušana vadīt transportlīdzekļus personām, kas atrodas alkoholisko dzērienu, narkotisko, psihotropo un citu apreibinošu vielu iespaidā
-Par pieļaušanu vadīt transportlīdzekli personai, kas ir alkoholisko dzērienu, narkotisko, psihotropo vai citu apreibinošu vielu iespaidā, ja izraisītas šā likuma 260.pantā norādītās sekas, personu, kura ir atbildīga par transportlīdzekļu tehnisko stāvokli vai ekspluatāciju, -
+264.pants Pieļaušana vadīt transportlīdzekļus personām, kuras ir alkohola, narkotisko, psihotropo, toksisko vai citu apreibinošu vielu ietekmē
+Par pieļaušanu vadīt transportlīdzekli personai, kura ir alkohola, narkotisko, psihotropo, toksisko vai citu apreibinošu vielu ietekmē, ja izraisītas šā likuma 260.pantā norādītās sekas, personu, kura ir atbildīga par transportlīdzekļu tehnisko stāvokli vai ekspluatāciju, -
 soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar arestu, vai ar piespiedu darbu, vai ar naudas sodu līdz simt divdesmit minimālajām mēnešalgām, atņemot tiesības uz zināmu nodarbošanos uz laiku līdz pieciem gadiem vai bez tā.

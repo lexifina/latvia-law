@@ -7,5 +7,5 @@
 2) noteiktā termiņā novērst radīto kaitējumu;
 3) periodiski ierasties uz reģistrāciju noteiktā institūcijā;
 4) atturēties no noteiktas rīcības vai nodarbošanās veidiem;
-5) ārstēties no alkoholisma, narkomānijas vai citas atkarības.
+5) ārstēties no alkohola, narkotisko, psihotropo, toksisko vielu vai citas atkarības.
 (5) Ja persona, kura nosacīti atbrīvota no kriminālatbildības, pārbaudes laikā izdara jaunu tīšu noziedzīgu nodarījumu vai neizpilda uzliktos pienākumus, tās kriminālvajāšana tiek turpināta.
