@@ -1,0 +1,28 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru Kabineta 2001.gada 19.jūnija noteikumi Nr.258 \"Noteikumi par atkritumu klasifikatoru un īpašībām, kuras padara atkritumus bīstamus\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "97",
+  "official_journal_page": null,
+  "official_journal_date": "2001-06-22",
+  "entry_into_force": null,
+  "notification_date": "2004-03-23",
+  "commission_reference": "MNE(2003)50764",
+  "nim_celex": "71975L0442LVA_20764",
+  "nim_id": "20764",
+  "transposes_celex": [
+    "31975L0442",
+    "31991L0156",
+    "31991L0689",
+    "31994L0031",
+    "31994L0067",
+    "31999L0031",
+    "32006L0012"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b7769b06-528a-451e-a31d-ff9d48d3a117",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
