@@ -6,5 +6,5 @@
 (2) Darba devējs piešķir darba aizsardzības speciālistam nepieciešamos līdzekļus un laiku (darba laika ietvaros), lai viņš varētu veikt savus pienākumus.
 (3) Ja šā panta pirmajā daļā un 5.panta pirmajā daļā noteikto darba aizsardzības organizatorisko struktūru nav iespējams izveidot, darba devējs darba aizsardzības sistēmas izveidē un uzturēšanā (izņemot nodarbināto informēšanu) iesaista kompetentu institūciju vai kompetentu speciālistu.
 (4) Darba devējs informē kompetentu institūciju vai kompetentu speciālistu par darba aizsardzības pasākumiem uzņēmumā un darba vietās, kā arī par darba vides faktoriem, kuri rada vai var radīt risku nodarbināto drošībai un veselībai.
-(5) Tos komercdarbības veidus, kuros darba devējam obligāti jāpiesaista kompetenta institūcija, nosaka Ministru kabinets.
+(5) Tos komercdarbības veidus, kuros darba devējs iesaista kompetentu institūciju, kā arī šīs institūcijas iesaistīšanas kārtību nosaka Ministru kabinets.
 (6) Ministru kabinets nosaka prasības kompetentām institūcijām un kompetentiem speciālistiem darba aizsardzības jautājumos.
