@@ -8,4 +8,5 @@
 6) Aģentūras ģenerāldirektoru pēc labklājības ministra ieteikuma amatā ieceļ Ministru kabinets.
 (2) No 2004.gada 1.janvāra:
 1) Aģentūra ir Labklājības ministrijas pārraudzībā esoša valsts aģentūra, kas realizē valsts politiku sociālās apdrošināšanas un valsts sociālo pabalstu jomā;
-2) Aģentūra nodarbojas ar speciālo budžetu administrēšanu, kā arī saskaņā ar normatīvajiem aktiem Aģentūras kompetencē nodoto sociālās apdrošināšanas pakalpojumu un valsts sociālo pabalstu administrēšanu.
+2) Aģentūra nodarbojas ar speciālo budžetu administrēšanu, kā arī saskaņā ar normatīvajiem aktiem Aģentūras kompetencē nodoto sociālās apdrošināšanas pakalpojumu un valsts sociālo pabalstu administrēšanu;
+3) Aģentūras teritoriālās struktūrvienības ir Aģentūras nodaļas.

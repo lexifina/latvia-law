@@ -1,0 +1,1 @@
+25. Grozījumi 6.panta otrajā un devītajā daļā un 20.panta trešās daļas 2.punktā, ceturtās daļas 2.punktā un septītās daļas 3.punktā attiecībā uz to darba ņēmēju nepakļaušanu apdrošināšanai pret bezdarbu, kuri saņem izdienas pensiju vai kuri ir III grupas invalīdi - valsts speciālās pensijas saņēmēji, stājas spēkā 2004.gada 1.jūlijā.

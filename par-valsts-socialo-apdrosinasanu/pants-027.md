@@ -1,0 +1,3 @@
+27.pants. Tiesības apstrīdēt un pārsūdzēt Aģentūras amatpersonu izdotos administratīvos aktus
+(1) Aģentūras darbinieku izdotos administratīvos aktus vai faktisko rīcību persona var apstrīdēt Aģentūras direktoram mēneša laikā no administratīvā akta spēkā stāšanās dienas. Aģentūras direktora lēmumu var pārsūdzēt tiesā mēneša laikā no direktora lēmuma spēkā stāšanās dienas.
+(2) Iesnieguma iesniegšana Aģentūras direktoram vai pieteikuma iesniegšana tiesai neaptur Aģentūras izdotā administratīvā akta darbību. Aģentūras direktors ir tiesīgs ar rakstveida lēmumu apturēt adresātam nelabvēlīga administratīvā akta darbību, ja saņemts personas iesniegums par administratīvā akta darbības apturēšanu.
