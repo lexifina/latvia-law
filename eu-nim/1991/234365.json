@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums “Par presi un citiem masu informācijas līdzekļiem”",
+  "type_of_act": "Likums",
+  "official_journal": "LR Augstākās Padomes un Valdības Ziņotājs",
+  "official_journal_reference": "5",
+  "official_journal_page": null,
+  "official_journal_date": "1991-02-14",
+  "entry_into_force": "1991-01-01",
+  "notification_date": "2016-02-04",
+  "commission_reference": "MNE(2016)50999",
+  "nim_celex": "72012L0029LVA_234365",
+  "nim_id": "234365",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1b3f05d9-d87f-4473-b1e4-cf6dd45ef1eb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
