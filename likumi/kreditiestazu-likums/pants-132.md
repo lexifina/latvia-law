@@ -1,0 +1,1 @@
+132.pants. Kredītiestādes likvidators var būt fiziskā persona, kurai ir nepieciešamā izglītība un profesionālā pieredze banku darbībā, vai arī juridiskā persona, kuras pamatdarbība ir juridisko pakalpojumu vai auditorpakalpojumu sniegšana.

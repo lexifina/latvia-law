@@ -1,0 +1,1 @@
+9.pants. Vārdus "kredītiestāde", "banka", "krājaizdevu sabiedrība" vai šo vārdu savienojumu uzņēmuma (uzņēmējsabiedrības) nosaukumā vai reklāmas nolūkā var lietot tikai kredītiestādes, kurām ir Latvijas Bankas izsniegta licence banku operāciju (darījumu) veikšanai.

@@ -1,0 +1,2 @@
+83.pants. (1) Ziņojumā tiek ietverts kredītiestādes finansu stāvokļa un tās attīstības raksturojums. Ja gada pārskatā atspoguļotos kredītiestādes darbības rezultātus ir būtiski ietekmējuši īpaši apstākļi vai arī gada pārskatu nevar uzskatīt par pietiekamu, papildu informācija tiek sniegta atsevišķā ziņojuma punktā.
+(2) Ziņojumā ir sniedzamas arī ziņas par svarīgiem notikumiem, ja tādi bijuši pēc pārskata gada beigām, par paredzamo kredītiestādes attīstību un svarīgiem attīstības pasākumiem.

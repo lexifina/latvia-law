@@ -1,0 +1,1 @@
+133.pants. Kredītiestādes likvidatora izdevumus sedz likvidējamā kredītiestāde. Kopējais likvidatora izdevumu apjoms nedrīkst pārsniegt piecus procentus no likvidācijas gaitā realizēto un atgūto aktīvu vērtības. Likvidatora izdevumu tāmi apstiprina tiesa.

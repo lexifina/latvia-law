@@ -1,0 +1,1 @@
+93.pants. Bankas, kurām atļauts piesaistīt fizisko personu noguldījumus, laikrakstā "Latvijas Vēstnesis" publicē arī bilanci un pelņas (zaudējumu) rādītājus pirmā, otrā un trešā ceturkšņa beigās ne vēlāk kā mēnesi pēc ceturkšņa beigām.

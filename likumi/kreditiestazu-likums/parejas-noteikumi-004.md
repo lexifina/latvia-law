@@ -1,0 +1,1 @@
+4. Šā likuma 38. panta normas nav piemērojamas ar Latvijas Republikas Ministru padomes 1992.gada 1.oktobra lēmumu nr. 411 ("Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs", 1992, 49./50.nr.) atzītā valsts iekšējā parāda apjomam ar šā lēmuma spēkā stāšanās brīdi.

@@ -1,0 +1,1 @@
+96.pants. Ārvalstu bankas pilnam gada pārskatam, kā arī gada pārskata bilances, peļņas un zaudējumu aprēķina, auditoru pilna atzinuma tulkojumam latviešu valodā jābūt brīvi pieejamam ārvalstu bankas nodaļā (filiālē) saskaņā ar šā likuma 91.panta prasībām.

@@ -1,0 +1,1 @@
+7.pants. Kredītiestādēm ir saistoši Latvijas Bankas padomes saskaņā ar šo likumu izdotie normatīvie norādījumi un noteikumi par kredītiestāžu darbību regulējošajām prasībām un kredītiestāžu darbību raksturojošo rādītāju aprēķināšanas un pārskatu iesniegšanas kārtību.

@@ -1,0 +1,1 @@
+137.pants. Kreditors rakstveidā iesniedz likvidatoram pretenziju par visiem saviem prasījumiem pret kredītiestādi likvidatora noteiktajā laikā, bet ne vēlāk kā trīs mēnešus pēc tam, kad sludinājums par kredītiestādes likvidācijas sākšanu publicēts laikrakstā "Latvijas Vēstnesis". Kreditors pretenzijai pievieno prasījumu apliecinošu dokumentu norakstus.

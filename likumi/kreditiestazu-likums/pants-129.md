@@ -1,0 +1,1 @@
+129.pants. Kredītiestāde septiņu dienu laikā pēc tam, kad tiesā iesniegts pieteikums par tās atzīšanu par bankrotējušu, var lūgt tiesu atturēties no kredītiestādes atzīšanas par bankrotējušu, ja tā var pierādīt savu spēju pilnā mērā apmierināt visas kreditoru likumīgās prasības.

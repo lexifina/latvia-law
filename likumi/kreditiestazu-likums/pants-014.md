@@ -1,0 +1,1 @@
+14.pants. Latvijas Banka iesniegumu par licences piešķiršanu izskata triju mēnešu laikā pēc visu nepieciešamo dokumentu saņemšanas. Latvijas Bankai ir tiesības neizsniegt licenci jaundibināmai kredītiestādei, ja, to dibinot, nav ievēroti likumi un kredītiestādes plānotā darbība neatbilst Latvijas valsts interesēm.

@@ -1,0 +1,1 @@
+7. Kompensāciju izmaksas noguldītājiem - fiziskajām personām, kuru noguldījumi atrodas komercbankās, kas ir bankrotējušas vai atzītas par maksātnespējīgām līdz šā likuma spēkā stāšanās dienai, tiek turpinātas Ministru kabineta noteiktajā kārtībā.

@@ -1,0 +1,1 @@
+138.pants. Kredītiestādes likvidators reģistrē saņemtās pretenzijas, pārbauda to pamatotību un ne vēlāk kā viena mēneša laikā no attiecīgās pretenzijas saņemšanas dienas pieņem lēmumu par pretenzijas noraidīšanu vai pieņemšanu.

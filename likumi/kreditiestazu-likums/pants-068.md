@@ -1,0 +1,1 @@
+68.pants. Termiņnoguldījumi, kuriem iestājies izmaksas termiņš un attiecībā uz kuriem līgums nav pagarināts vai noslēgts no jauna, uzskatāmi par pieprasījuma noguldījumiem, ja līgumā nav noteikts citādi.

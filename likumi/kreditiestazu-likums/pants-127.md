@@ -1,0 +1,1 @@
+127.pants. Pieteikumu tiesā par kredītiestādes atzīšanu par bankrotējušu var iesniegt Latvijas Banka vai vismaz divi šīs kredītiestādes kreditori. Pieteikuma iesniedzēji var pieprasīt, lai tiesa pārbauda, vai nav konstatējams kredītiestādes ļaunprātīgs bankrots.

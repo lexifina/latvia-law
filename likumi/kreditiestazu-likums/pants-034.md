@@ -1,0 +1,1 @@
+34.pants. Kredītiestāde kreditēšanu veic saskaņā ar tās kredītpolitiku, kas nosaka kredītu piešķiršanas un atmaksāšanas kārtību, izsniegto kredītu uzraudzības kārtību un to kvalitātes novērtēšanas kritērijus.

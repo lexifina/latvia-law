@@ -1,0 +1,1 @@
+139.pants. Likvidatora lēmums par pretenzijas noraidīšanu tiek paziņots ar ierakstītu vēstuli. Likvidatora lēmuma pārsūdzēšanai kreditors var iesniegt tiesā prasību viena mēneša laikā pēc paziņojuma saņemšanas.

@@ -1,0 +1,1 @@
+32.pants. Banka nekavējoties informē Latvijas Banku par pamatkapitāla un balsstiesīgo akciju kapitāla sadalījuma maiņu, kas saistīta ar būtisku līdzdalību. Banka ne retāk kā reizi gadā iesniedz Latvijas Bankai visu to personu sarakstu, kurām ir būtiska līdzdalība, norādot šīs līdzdalības apjomu.

@@ -1,0 +1,1 @@
+36.pants. Kredītiestādes pašu kapitāla aprēķinos subordinētā kapitāla daļa nedrīkst pārsniegt 50 procentus no šā likuma 1.panta 7.punkta "a" un "b" apakšpunktā minēto pašu kapitāla elementu kopsummas. Subordinētā kapitāla daļa pakāpeniski samazināma vismaz pēdējos piecus gadus pirms aizdevuma atmaksāšanas termiņa.

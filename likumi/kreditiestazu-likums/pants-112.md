@@ -1,0 +1,1 @@
+112.pants. Kredītiestādes iekšējā revīzijas dienesta uzdevums ir atklāt trūkumus un kļūdas kredītiestādes darbinieku rīcībā, kā arī uzdevumu nepildīšanas, darba noteikumu neievērošanas un pilnvaru pārsniegšanas gadījumus.

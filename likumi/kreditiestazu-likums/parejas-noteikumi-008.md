@@ -1,0 +1,1 @@
+8. Saskaņā ar šā likuma pārejas noteikumu 7.punktu prasījuma tiesības valsts garantētās kompensācijas summas apmērā uz līdzekļiem, kas atgūti no komercbankas, kura atzīta par bankrotējušu vai maksātnespējīgu, no fiziskās personas - noguldītāja pāriet Finansu ministrijai.

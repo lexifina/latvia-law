@@ -1,0 +1,1 @@
+5.pants. Krājaizdevu sabiedrības dibināšanu, darbību, reorganizēšanu un likvidēšanu regulē šis likums, izņemot tā 38.pantu, 47.panta otrās daļas 2.punktu un 76.pantu, likums "Par kooperatīvajām (kopdarbības) sabiedrībām" un citi likumdošanas akti.

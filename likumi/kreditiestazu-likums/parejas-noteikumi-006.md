@@ -1,0 +1,1 @@
+6. Šim likumam spēkā stājoties, lombardi turpina darboties saskaņā ar likumu "Par akciju sabiedrībām" un citiem likumiem, bet Latvijas Bankas izsniegtās licences tiek anulētas. Tās nododamas Latvijas Bankai līdz 1995.gada 1.decembrim.

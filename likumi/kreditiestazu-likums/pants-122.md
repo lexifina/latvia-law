@@ -1,0 +1,1 @@
+122.pants. Maksājumus kreditoriem kredītiestāde var veikt vienīgi saskaņā ar noteiktajiem ierobežojumiem un ar pilnvarnieka atļauju. Pilnvarnieks pārbauda šo maksājumu pamatotību, apmēru un to secības ievērošanu.

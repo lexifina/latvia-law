@@ -1,0 +1,1 @@
+94.pants. Ja kredītiestādes gada pārskats tiek publicēts pilnībā, tam jābūt identiskam ar auditoru pārbaudīto, turklāt kopā ar auditoru pilnu atzinumu par gada pārskatu. Ja auditors atteicies apstiprināt gada pārskatu, šis atteikums publicējams kopā ar gada pārskatu, norādot atteikuma iemeslu.

@@ -1,0 +1,1 @@
+136.pants. Likvidators ne retāk kā reizi mēnesī iesniedz tiesai pārskatu par kredītiestādes likvidācijas gaitu, bet pēc likvidācijas pabeigšanas - pārskatu par visu likvidācijas laiku. Likvidatora pārskatu par likvidācijas pabeigšanu apstiprina tiesa.

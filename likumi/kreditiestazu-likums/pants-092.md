@@ -1,0 +1,1 @@
+92.pants. Kad kredītiestādes gada pārskats iesniegts Latvijas Bankai, kredītiestāde gada pārskata bilanci un auditoru atzinumu ne vēlāk kā pārskata gadam sekojošā gada 1.maijā publicē laikrakstā "Latvijas Vēstnesis", norādot, ka tiek publicēts saīsināts gada pārskats, bet pilns gada pārskats brīvi pieejams kredītiestādē.

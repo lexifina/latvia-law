@@ -1,0 +1,1 @@
+109.pants. Latvijas Banka var pieprasīt kredītiestādes akcionāru (biedru) pilnsapulces vai padomes sasaukšanu un noteikt izskatāmos jautājumus. Latvijas Bankas pilnvarotām personām ir tiesības piedalīties šādās sapulcēs.

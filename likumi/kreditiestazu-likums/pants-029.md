@@ -1,0 +1,3 @@
+29.pants. (1) Fiziskajai vai juridiskajai personai, kura vēlas tiešā vai netiešā ceļā iegūt būtisku līdzdalību un kurai līdz šim šādas līdzdalības nav bijis, pirms būtiskas līdzdalības iegūšanas jāsaņem Latvijas Bankas atļauja.
+(2) Ja persona, kurai bankā ir būtiska līdzdalība, to vēlas palielināt, sasniedzot vai pārsniedzot 20, 33, 50 un vairāk procentus no bankas pamatkapitāla vai balsstiesīgo akciju skaita, tai iepriekš jāinformē par to Latvijas Banka.
+(3) Latvijas Bankai ir tiesības pieprasīt papildu informāciju par šajā pantā minētajām personām, lai spriestu par to reputāciju un finansu stāvokli.

@@ -1,0 +1,1 @@
+61.pants. Kredītiestādes pienākums ir garantēt savu klientu un korespondentkontu, noguldījumu un operāciju noslēpumu. Lai novērstu krāpšanu no klientu puses, kredītiestādēm ir tiesības tieši vai ar īpaši šim mērķim izveidotas institūcijas starpniecību savstarpēji apmainīties ar ziņām par klientu aizdevumu kontiem, bet nav tiesību sniegt šādas ziņas citām personām.

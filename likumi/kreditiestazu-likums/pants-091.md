@@ -1,0 +1,1 @@
+91.pants. Kredītiestādes pienākums ir nodrošināt, lai pilns gada pārskats būtu brīvi pieejams kredītiestādē ne vēlāk kā pārskata gadam sekojošā gada 1.aprīlī un lai jebkurai ieinteresētai personai būtu iespējams saņemt pilnu gada pārskata tekstu par maksu, kas nepārsniedz tā pavairošanas izdevumus.

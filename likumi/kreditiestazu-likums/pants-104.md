@@ -1,0 +1,1 @@
+104.pants. Lai kontrolētu pastiprinātās uzraudzības kārtībā noteikto prasību izpildi, Latvijas Banka ir tiesīga iecelt savu pilnvarnieku. Latvijas Bankas pilnvarnieks darbojas saskaņā ar šā likuma 119., 122. - 124.pantu.

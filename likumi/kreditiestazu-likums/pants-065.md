@@ -1,0 +1,2 @@
+65.pants. (1) Juridisko personu naudas līdzekļiem un citām vērtībām, kas atrodas kredītiestādē, var uzlikt arestu tikai ar tiesas nolēmumu vai prokurora sankciju, bet šo personu norēķinu operāciju daļēja vai pilnīga apturēšana veicama pēc Valsts ieņēmumu dienesta pieprasījuma.
+(2) Piedziņu uz juridisko personu naudas līdzekļiem un citām vērtībām var vērst tikai saskaņā ar tiesas izpildrakstu vai pēc Valsts ieņēmumu dienesta pieprasījuma citos likumos paredzētajos gadījumos.

@@ -1,0 +1,1 @@
+123.pants. Latvijas Banka, ņemot vērā kredītiestādes finansu stāvokli, var paplašināt pilnvarnieka pilnvaras, nosakot, ka kredītiestāde jaunu darījumu veikšanu, īpašuma atsavināšanu, ķīlu, garantiju, galvojumu ņemšanu un došanu saskaņo ar pilnvarnieku.

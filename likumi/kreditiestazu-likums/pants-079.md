@@ -1,0 +1,1 @@
+79.pants. Gada pārskatu gatavo atbilstīgi šim likumam un no šā likuma izrietošiem Latvijas Bankas norādījumiem. Gada pārskatam ir jāsniedz patiess un skaidrs priekšstats par kredītiestādes aktīviem un saistībām, tās finansu stāvokli un peļņu vai zaudējumiem.

@@ -1,0 +1,1 @@
+87.pants. Veicot gada pārskata pārbaudi, auditoriem ir tiesības iepazīties ar kredītiestādes aktīviem, grāmatvedības ierakstiem, tos apliecinošiem dokumentiem un citu informāciju. Kredītiestādes valdes, rīkotājdirektora un darbinieku pienākums ir sniegt auditoriem visu nepieciešamo informāciju.

@@ -1,0 +1,1 @@
+31.pants. Persona, kurai ir būtiska līdzdalība bankā, informē Latvijas Banku ikreiz, kad tās līdzdalība bankā kļūst mazāka par 10, 20, 33 vai 50 procentiem no bankas pamatkapitāla vai balsstiesīgo akciju skaita.

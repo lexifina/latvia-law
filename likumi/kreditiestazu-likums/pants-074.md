@@ -1,0 +1,1 @@
+74.pants. Kredītiestādei nav tiesību pieņemt maksājumu dokumentus, kuros nav uzrādīts maksātāja (rezidenta) un maksājuma saņēmēja (rezidenta) reģistrācijas numurs - juridiskajai personai vai personas kods - fiziskajai personai.

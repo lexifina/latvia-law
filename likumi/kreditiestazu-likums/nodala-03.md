@@ -1,0 +1,2 @@
+III nodaļa
+Būtiska līdzdalība
