@@ -1,2 +1,2 @@
-44.pants. (1) Valsts farmācijas inspekcija uzrauga un kontrolē juridiskās un fiziskās personas, kuras darbojas farmācijas jomā.
+44.pants. (1) Valsts farmācijas inspekcija uzrauga un kontrolē fiziskās un juridiskās personas, kuras veic darbības ar II un III sarakstā iekļautajām vielām un zālēm, izvērtē II un III sarakstā iekļauto vielu un zāļu izplatīšanas atbilstību normatīvo aktu prasībām un saskaņā ar normatīvajiem aktiem aptur II un III sarakstā iekļauto vielu izplatīšanu vai fiziskās personas farmaceitisko darbību līdz apstākļu galīgai noskaidrošanai.
 (2) Medicīniskās aprūpes un darbspējas kvalitātes kontroles inspekcija kontrolē II un III sarakstā iekļauto zāļu izmantošanas nepieciešamību ārstniecības procesa nodrošināšanā.

@@ -1,1 +1,4 @@
-11.pants. Šā likuma 9.pantā minēto licenci izsniedz tikai tādai juridiskajai personai, kura iecēlusi par narkotisko un psihotropo vielu un zāļu apriti atbildīgo amatpersonu (ar atbilstošu izglītību).
+11.pants. Šā likuma 7.pantā minēto atļauju vai 9.pantā minēto licenci izsniedz tikai tad, ja:
+1) juridiskā persona atbilstoši normatīvo aktu prasībām ir iecēlusi par narkotisko un psihotropo vielu un zāļu apriti atbildīgo amatpersonu, kas neslimo ar psihisku slimību, narkomāniju, toksikomāniju vai alkoholismu;
+2) juridiskās personas dibinātāji un biedri, kā arī amatpersonas nav sodītas par noziedzīga nodarījuma izdarīšanu, kā arī nav administratīvi sodītas par pārkāpumiem, kas saistīti ar narkotisko un psihotropo vielu un prekursoru apriti;
+3) fiziskā persona neslimo ar psihisku slimību, narkomāniju, toksikomāniju vai alkoholismu un nav sodīta par noziedzīga nodarījuma izdarīšanu, kā arī nav administratīvi sodīta par pārkāpumiem, kas saistīti ar narkotisko un psihotropo vielu un prekursoru apriti.
