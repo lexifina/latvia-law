@@ -1,0 +1,1 @@
+28. Grozījumi šā likuma 1.panta 4.punktā attiecībā uz personu, kuru nodarbina citas dalībvalsts darba devējs un kurai saskaņā ar regulas 13., 14., 15., 16. un 17.pantu piemēro Latvijas Republikas normatīvos aktus, stājas spēkā 2006.gada 1.janvārī.

@@ -1,6 +1,6 @@
 20.pants. Obligāto iemaksu apmēra noteikšana
 (1) Darba devējs aprēķina obligāto iemaksu, kas jāveic par katru darba ņēmēju, reizinot iemaksu objektu ar obligāto iemaksu likmi, kāda noteikta darba devējam, ja darba ņēmējs ir apdrošināts visos sociālās apdrošināšanas veidos.
-(2) Darba devējs aprēķina obligāto iemaksu, kas jāveic darba ņēmējam, reizinot iemaksu objektu ar obligāto iemaksu likmi, kāda noteikta darba ņēmējam, ja darba ņēmējs ir apdrošināts visos sociālās apdrošināšanas veidos, izņemot likmi, kāda noteikta darba negadījumu apdrošināšanai.
+(2) Darba devējs aprēķina obligāto iemaksu, kas jāveic darba ņēmējam, reizinot iemaksu objektu ar obligāto iemaksu likmi, kāda noteikta darba ņēmējam, ja darba ņēmējs ir apdrošināts visos sociālās apdrošināšanas veidos.
 (3) Darba devējs aprēķina obligāto iemaksu, kas jāveic par katru darba ņēmēju, kurš:
 1) sasniedzis vecumu, kas dod tiesības saņemt valsts vecuma pensiju, reizinot iemaksu objektu ar obligāto iemaksu likmi, kāda noteikta darba devējam valsts pensiju apdrošināšanai, maternitātes un slimības apdrošināšanai un darba negadījumu apdrošināšanai;
 2) ir I vai II grupas invalīds, izdienas pensijas saņēmējs vai III grupas invalīds - valsts speciālās pensijas saņēmējs, reizinot iemaksu objektu ar obligāto iemaksu likmi, kāda noteikta darba devējam valsts pensiju apdrošināšanai, invaliditātes apdrošināšanai, maternitātes un slimības apdrošināšanai un darba negadījumu apdrošināšanai.

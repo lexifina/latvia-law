@@ -1,0 +1,1 @@
+27. Ja par šo pārejas noteikumu 26.punktā minētajām personām obligāto iemaksu (sociālā nodokļa) administrācijā nav reģistrēts obligāto iemaksu (sociālā nodokļa) objekts atbilstoši šā likuma 14.panta pirmajā daļā noteiktajam, obligāto iemaksu (sociālā nodokļa) objekts ir Ministru kabineta noteiktā minimālā darba alga attiecīgajā laika periodā.

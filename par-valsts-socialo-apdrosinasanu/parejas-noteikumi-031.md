@@ -1,0 +1,1 @@
+31. Grozījumi šā likuma 6.panta astotajā un devītajā daļā un 20.panta septītajā daļā attiecībā uz iekšzemes darba ņēmēju pie darba devēja - ārvalstnieka pakļaušanu darba negadījumu apdrošināšanai stājas spēkā 2006.gada 1.janvārī.

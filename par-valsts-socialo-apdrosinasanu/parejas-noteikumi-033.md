@@ -1,0 +1,1 @@
+33. Šā likuma 18.panta pirmās daļas jaunā redakcija par obligātās iemaksu likmes noteikšanu, ja darba ņēmējs tiek apdrošināts visiem sociālās apdrošināšanas veidiem, 33,09 procentu apmērā, no kuriem 24,09 procentus maksā darba devējs un 9 procentus - darba ņēmējs, stājas spēkā 2006.gada 1.janvārī.
