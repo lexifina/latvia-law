@@ -1,0 +1,3 @@
+1. pants. Vispārīgie noteikumi
+Likums nosaka vienotus organizācijas un darbības pamatprincipus visām valsts īpašuma privatizācijas komisijām, kas tiek izveidotas, lai veiktu valsts īpašuma objektu privatizāciju saskaņā ar likumu «Par piena pārstrādes uzņēmumu privatizāciju», likumu «Par īpašuma privatizāciju agroservisa uzņēmumos», likumu «Par gaļas pārstrādes uzņēmumu privatizāciju» un likumu «Par maizes ražošanas valsts uzņēmumu privatizāciju», kā arī visām pašvaldību īpašuma privatizācijas komisijām.
+Lauksaimniecības uzņēmumu un zvejnieku kolhozu privatizācijas komisiju izveidošanu un darbību regulē likums «Par lauksaimniecības uzņēmumu un zvejnieku kolhozu privatizāciju».
