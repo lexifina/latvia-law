@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2005. gada 25. janvāra noteikumi Nr.69",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "18",
+  "official_journal_page": null,
+  "official_journal_date": "2005-02-02",
+  "entry_into_force": "2005-02-03",
+  "notification_date": "2005-02-08",
+  "commission_reference": "MNE(2005)55136",
+  "nim_celex": "71988L0599LVA_35136",
+  "nim_id": "35136",
+  "transposes_celex": [
+    "31988L0599",
+    "31995L0050",
+    "32001L0026",
+    "32004L0112"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e7cc9a8f-d4c2-4e63-84ce-5fdcf3fea1a0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
