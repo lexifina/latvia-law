@@ -1,1 +1,1 @@
-31.pants. Personas ar ārvalstu medicīniskās izglītības diplomu var iegūt tiesības nodarboties ar ārstniecību Latvijā pēc diplomu nostrifikācijas akreditētās Latvijas medicīniskās izglītības iestādēs to noteiktajā kārtībā. Speciālista prakses tiesības minētās personas iegūst šajā likumā paredzētajā kārtībā.
+31.pants. Personas ar ārvalstu medicīniskās izglītības diplomu iegūst tiesības nodarboties ar ārstniecību Latvijā pēc diploma ekspertīzes un atzīšanas likumā noteiktajā kārtībā. Speciālista prakses tiesības minētās personas iegūst šajā likumā noteiktajā kārtībā.

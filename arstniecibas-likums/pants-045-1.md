@@ -1,0 +1,2 @@
+45.¹ pants. (1) Funkcionālais speciālists (fizioterapeits, ergoterapeits, reitterapeits, tehniskais ortopēds, klīniskais logopēds) ir ārstniecības persona, kas ieguvusi otrā līmeņa profesionālo augstāko medicīnisko izglītību un darbojas atbilstoši savas specialitātes nolikumam.
+(2) Funkcionālā speciālista asistents (fizioterapeita asistents, ergoterapeita asistents) ir ārstniecības persona, kas ieguvusi pirmā līmeņa profesionālo augstāko vai arī vismaz trešā profesionālās kvalifikācijas līmeņa medicīnisko izglītību un darbojas atbilstoši savas specialitātes nolikumam.
