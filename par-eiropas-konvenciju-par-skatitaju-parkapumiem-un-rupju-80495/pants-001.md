@@ -1,0 +1,1 @@
+1.pants. 1985.gada 19.augusta Eiropas konvencija par skatītāju pārkāpumiem un rupju uzvedību sporta pasākumos un īpaši futbola sacensību laikā (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
