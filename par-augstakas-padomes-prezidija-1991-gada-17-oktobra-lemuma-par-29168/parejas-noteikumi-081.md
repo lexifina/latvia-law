@@ -1,0 +1,1 @@
+Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta noteikumi nr.268 "Par Augstākās padomes Prezidija 1991.gada 17.oktobra lēmuma "Par Bauskas rajona bijušo partijas komitejas telpu izmantošanu" atzīšanu par spēku zaudējušu" (Latvijas Vēstnesis, 1996, 126.nr.).
