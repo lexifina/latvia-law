@@ -5,7 +5,8 @@
 3) deklarēt taksācijas perioda ienākumus un citus ar nodokļiem apliekamos objektus;
 4) uzglabāt finansiālās un saimnieciskās darbības ieņēmumus un izdevumus apliecinošos dokumentus ne mazāk kā piecus gadus, lai varētu pierādīt nodokļu aprēķina pareizību;
 5) ziņot par visiem saviem ienākumiem, pamatot nodokļu, nodevu un citu obligāto budžeta maksājumu summu atbilstību normatīvajiem aktiem par valstij un pašvaldībām pienākošos summu aprēķināšanas un maksāšanas kārtību, uzrādot vai iesniedzot nodokļu administrācijas ierēdņiem (darbiniekiem) viņu pieprasītos dokumentus;
-6) atļaut nodokļu administrācijas ierēdņiem (darbiniekiem) likumā noteiktajā kārtībā apskatīt uzņēmējdarbībai izmantojamās telpas.
+6) atļaut nodokļu administrācijas ierēdņiem (darbiniekiem) likumā noteiktajā kārtībā apskatīt uzņēmējdarbībai izmantojamās telpas;
+7) ieturēt konkrēto nodokļu likumos paredzētās maksājamo nodokļu summas.
 (2) Fiziskajām personām kā nodokļu maksātājiem ir šādi papildu pienākumi:
 1) izņemt algas nodokļa grāmatiņu un algas nodokļa gada karti atbilstoši likumam "Par iedzīvotāju ienākuma nodokli";
 2) iesniegt algas nodokļa grāmatiņu un algas nodokļa gada karti pamata darbavietā un papildu darbavietās vai ienākumu gūšanas vietās;

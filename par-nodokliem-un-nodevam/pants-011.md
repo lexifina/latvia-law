@@ -3,11 +3,13 @@
 1) ostas un kuģošanas nodevas - "Likums par ostām";
 2) transportlīdzekļu ikgadējā nodeva - likums "Par transportlīdzekļu ikgadējo nodevu";
 3) izložu un azartspēļu nodeva - likums "Par izložu un azartspēļu nodevu un nodokli";
-4) nodeva par lietu izskatīšanu Latvijas Saimnieciskajā tiesā - likums "Par Saimnieciskās tiesas procesu";
+4) nodevas par darbību veikšanu tiesu iestādēs - Latvijas Civilprocesa kodekss;
 5) nodeva par uzvārda, vārda un tautības ieraksta maiņu personu apliecinošos dokumentos - likums "Par vārda, uzvārda un tautības ieraksta maiņu";
-6) nodeva par zemes rezervēšanu lauku apvidos - likums "Par zemes reformu Latvijas Republikas lauku apvidos".
+6) nodeva par zemes rezervēšanu lauku apvidos - likums "Par zemes reformu Latvijas Republikas lauku apvidos";
+7) nodevas par apliecinājumiem un citu funkciju pildīšanu bāriņtiesās un pagasttiesās - likums "Par bāriņtiesām un pagasttiesām";
+8) lidostu nodevas - likums "Par aviāciju".
 (2) Valsts nodevas ir maksājamas par šādiem juridiskajiem un citiem pakalpojumiem:
-1) par darbību veikšanu tiesu iestādēs (izņemot saimniecisko tiesu);
+1) par dokumentu izsniegšanu izbraukšanai uz pastāvīgu dzīvi ārvalstīs;
 2) par notariālo darbību izpildi;
 3) par civilstāvokļa aktu reģistrēšanu, grozīšanu un papildināšanu;
 4) par izdevējdarbības un masu informācijas līdzekļu reģistrēšanu;

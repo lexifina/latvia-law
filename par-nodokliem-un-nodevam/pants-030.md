@@ -1,7 +1,4 @@
-30.pants. Skaidrās naudas ierobežojumi uzņēmumu (uzņēmējsabiedrību) savstarpējos norēķinos
-(1) Uzņēmumu (uzņēmējsabiedrību) savstarpējie norēķini skaidrā naudā neatkarīgi no maksājuma veida vai kārtības nedrīkst pārsniegt 3000 latu par vienu darījumu, kura vērtība tiek noteikta ar rakstveida vai mutvārdu līgumu (vienošanos).
-(2) Uzņēmumi (uzņēmējsabiedrības) ik mēnesi Ministru kabineta noteiktajā kārtībā deklarē visus savstarpēji skaidrā naudā veiktos darījumus, kuri pārsniedz 1000 latu.
-(3) Par šā panta pirmajā un otrajā daļā noteikto ierobežojumu neievērošanu maksājama soda nauda:
-1) ja nav deklarēts darījums skaidrā naudā, kurš pārsniedz 1000 latu, - soda nauda 5 procentu apmērā no darījuma summas,
-2) ja darījums, kura vērtība pārsniedz 3000 latu, veikts skaidrā naudā, - soda nauda 10 procentu apmērā no darījuma summas.
-(4) Šā panta normas neattiecas uz kredītiestāžu pakalpojumiem.
+30.pants. Skaidrās naudas lietošanas ierobežojumi
+(1) Juridiskās personas vai ar līgumu saistīta šādu personu grupa, vai šādu personu vai grupas pārstāvji katru mēnesi Ministru kabineta noteiktajā kārtībā deklarē visus mēneša laikā savstarpēji skaidrā naudā veiktos darījumus (neatkarīgi no tā, vai darījums notiek vienā operācijā vai vairākās), kuru summa pārsniedz 1000 latu. Ja nav deklarēti skaidrā naudā veiktie darījumi, kuru summa pārsniedz 1000 latu, maksājama soda nauda 5 procentu apmērā no šo darījumu kopsummas.
+(2) Ja šā panta pirmajā daļā minētie darījumi pārsniedz 3000 latu, maksājama soda nauda 10 procentu apmērā no šo darījumu kopsummas; ja šie darījumi nav deklarēti šā panta pirmajā daļā noteiktajā kārtībā - 15 procentu apmērā no šo darījumu kopsummas.
+(3) Šā panta normas neattiecas uz kredītiestāžu pakalpojumiem.

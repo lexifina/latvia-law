@@ -1,0 +1,5 @@
+41.pants. Nodokļu administrācijas un nodokļu maksātāja vienošanās līgums
+(1) Ja nodokļu administrācija pārbaudes rezultātā aprēķinājusi papildu maksājumus budžetā sakarā ar nodokļu bāzes samazināšanu un nodokļu maksātājs nepiekrīt nodokļu administrācijas aprēķinātajam nodokļu maksājumu lielumam, nodokļu administrācijas vadītājs ir tiesīgs Ministru kabineta noteiktajā kārtībā noslēgt vienošanās līgumu ar nodokļu maksātāju par aprēķināto summu samazināšanu tikai tādos gadījumos, kad piemērojamo normatīvo aktu normas ir pretrunīgas un dažādi skaidrojamas.
+(2) Nodokļu maksātajam, kurš nepiekrīt nodokļu administrācijas aprēķinātajam nodokļu maksājumu lielumam, 30 dienu laikā pēc nodokļu administrācijas lēmuma saņemšanas šajā sakarā ir jāiesniedz motivēts rakstveida iesniegums nodokļu administrācijas augstākās institūcijas vadītājam par iespējamo vienošanās līguma noslēgšanu.
+(3) Nodokļu administrācija noslēgto vienošanās līgumu piecu dienu laikā pēc tā parakstīšanas dienas publicē laikrakstā "Latvijas Vēstnesis".
+(4) Nodokļu administrācijas un nodokļu maksātāja noslēgtais vienošanās līgums ir galīgs, un neviena no līgumslēdzējām pusēm to nevar apstrīdēt tiesā.
