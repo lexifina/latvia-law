@@ -1,0 +1,1 @@
+1.pants. Nodot Latvijas Teātra darbinieku savienībai īpašumā bez atlīdzības zemes gabalu Rīgā, Dzirnavu ielā 135 (Rīgas pilsētas zemesgrāmatu nodalījuma numurs 11234, zemes kadastra numurs 01000312018).

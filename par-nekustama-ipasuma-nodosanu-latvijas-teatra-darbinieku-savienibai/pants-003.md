@@ -1,0 +1,1 @@
+3.pants. Ja Latvijas Teātra darbinieku savienība beidz pastāvēt vai tiek reorganizēta un tālākā darbībā nesaglabā iepriekšējos mērķus - Latvijas teātra kultūras saglabāšanu, veicināšanu, attīstīšanu un tās biedru profesionālo un sociālo interešu aizsargāšanu, nekustamais īpašums Rīgā, Dzirnavu ielā 135 nododams valstij.

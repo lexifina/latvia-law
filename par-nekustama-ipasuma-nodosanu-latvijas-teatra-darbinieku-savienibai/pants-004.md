@@ -1,0 +1,1 @@
+4.pants. Mēneša laikā pēc šā likuma stāšanās spēkā valsts akciju sabiedrība "Valsts nekustamā īpašuma aģentūra" nodod Latvijas Teātra darbinieku savienībai šā likuma 1.pantā minēto zemes gabalu ar nodošanas-pieņemšanas aktu.
