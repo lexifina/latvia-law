@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par pārtikas piesārņojumu un prasībām kodīgas ķīmiskās vielas saturošas pārtikas iepakojumam un marķējumam",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "66",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-28",
+  "entry_into_force": null,
+  "notification_date": "2004-11-12",
+  "commission_reference": "MNE(2004)52628",
+  "nim_celex": "71976L0621LVA_32628",
+  "nim_id": "32628",
+  "transposes_celex": [
+    "31976L0621"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/652d12ce-773e-4b3b-ae8d-4abb8a5e331e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
