@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Nacionālās drošības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "473/476",
+  "official_journal_page": null,
+  "official_journal_date": "2000-12-29",
+  "entry_into_force": "2001-01-12",
+  "notification_date": "2025-07-04",
+  "commission_reference": "MNE(2025)03832",
+  "nim_celex": "72022L2557LVA_202503832",
+  "nim_id": "202503832",
+  "transposes_celex": [
+    "32022L2557"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ee848d6c-52b3-468f-920e-67ef7a1163b3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
