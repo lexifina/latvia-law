@@ -5,4 +5,5 @@
 4) kuru tiesa atzinusi par maksātnespējīgu parādnieku;
 5) kurš notiesāts par tīša nozieguma izdarīšanu, kaut arī atbrīvots no soda izciešanas noilguma, apžēlošanas vai amnestijas dēļ, vai kuram sodāmība par šo noziegumu dzēsta vai noņemta;
 6) kurš izdarījis tīšu noziegumu, bet pret kuru krimināllieta izbeigta sakarā ar noilgumu, izlīgumu, apžēlošanu vai amnestiju;
-7) pār kuru nodibināta aizgādnība.
+7) pār kuru nodibināta aizgādnība;
+8) kurš nav izturējis zvērināta notāra kvalifikācijas pārbaudi.

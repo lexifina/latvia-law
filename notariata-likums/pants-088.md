@@ -1,1 +1,1 @@
-88. Zvērināts notārs projektu nolasa akta dalībniekiem un jautā, vai viņi saprot tā saturu un nozīmi un vai viņi aktu taisa labprātīgi. Ja akta dalībnieki to apstiprina, projekts viņiem un zvērinātam notāram jāparaksta.
+88. Projektu nolasa notariālā akta dalībniekiem zvērināta notāra klātbūtnē, bet pievienotos plānus un citus attēlus liek viņiem priekšā caurskatīšanai. Ja notariālā akta dalībnieki zvērinātam notāram apstiprina, ka viņi saprot notariālā akta saturu un nozīmi un ka notariālais akts atbilst viņu gribai, projekts viņiem un zvērinātam notāram jāparaksta.

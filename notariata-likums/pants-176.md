@@ -1,1 +1,2 @@
 176. Ja zvērināta notāra palīgs svarīgu iemeslu dēļ nevar aizstāt zvērinātu notāru vai ja zvērinātam notāram palīga nav, tieslietu ministrs var uzdot aizstāt šo zvērinātu notāru citam zvērinātam notāram vai cita zvērināta notāra palīgam.
+Ja zvērinātu notāru ilgstoši aizstāj cits zvērināts notārs vai cita zvērināta notāra palīgs, ar tieslietu ministra vai viņa noteiktas amatpersonas rīkojumu aizstājamā notāra lietas nododamas aizstājējam.

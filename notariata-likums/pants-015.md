@@ -1,1 +1,1 @@
-15. Zvērinātu notāru uzņēmējdarbības, ienākumu gūšanas, amatu savienošanas, darbu pildīšanas ierobežojumus, kā arī ar tiem saistītos citus ierobežojumus un pienākumus nosaka Korupcijas novēršanas likums.
+15. Uz zvērinātiem notāriem attiecas likumā noteiktie attiecīgie valsts amatpersonas amatu savienošanas ierobežojumi, kā arī pienākumi.

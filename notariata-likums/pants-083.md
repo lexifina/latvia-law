@@ -1,1 +1,4 @@
-83. Zvērināts notārs pārbauda ne vien akta dalībnieku un viņu pārstāvju identitāti, bet arī rīcībspēju.
+83. Zvērināts notārs pārbauda notariālā akta dalībnieku identitāti, rīcībspēju un pārstāvības tiesības.
+Pārstāvības tiesības zvērināts notārs pārbauda pēc viņam iesniegtajiem publiskiem dokumentiem vai ierakstiem Komercreģistrā vai citos publiskos reģistros.
+Ja pārstāvības tiesības izriet no ieraksta Komercreģistrā vai citā publiskā reģistrā, zvērināts notārs tās pārbauda, ieskatoties šajā reģistrā ne vairāk kā 15 dienas pirms notariālā akta taisīšanas vai arī reģistra izrakstā, kuru ne vairāk kā 15 dienas pirms notariālā akta taisīšanas apliecinājusi attiecīgā reģistra iestāde. Zvērināts notārs aktā atzīmē ieskatīšanās dienas datumu vai izraksta apliecināšanas datumu.
+Dokumentus, kuri pierāda notariālā akta dalībnieku pārstāvības tiesības, zvērināts notārs pievieno notariālajam aktam oriģināla vai notariāli apliecināta noraksta veidā šā likuma 74.pantā noteiktajā kārtībā.

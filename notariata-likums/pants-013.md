@@ -1,1 +1,1 @@
-13. Ja tieslietu ministra rīkojumā par zvērināta notāra iecelšanu vai pārcelšanu nav noteikts citādi, zvērināts notārs sāk pildīt amata pienākumus mēneša laikā no dienas, kad izdots rīkojums par iecelšanu vai pārcelšanu.
+13. Ja tieslietu ministra rīkojumā par zvērināta notāra iecelšanu amatā vai pārcelšanu nav noteikts citādi, zvērināts notārs sāk pildīt amata pienākumus mēneša laikā no dienas, kad izdots rīkojums par iecelšanu amatā vai pārcelšanu.

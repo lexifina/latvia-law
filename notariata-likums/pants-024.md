@@ -1,1 +1,2 @@
 24. Zvērināta notāra profesionālās darbības rezultātā iespējamā zaudējuma risks ir obligāti apdrošināms.
+Apdrošinājuma ņēmējs ir zvērināts notārs, kas slēdz individuālo profesionālās darbības riska (civiltiesiskās atbildības) apdrošināšanas līgumu, un Latvijas Zvērinātu notāru padome, kas slēdz apdrošināšanas līgumu par visu zvērinātu notāru profesionālās darbības riska apdrošināšanu (grupas apdrošināšanas līgumu).

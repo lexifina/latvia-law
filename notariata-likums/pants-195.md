@@ -1,1 +1,1 @@
-195. Ja zvērināts notārs Latvijas Zvērinātu notāru padomes vai tieslietu ministra noteiktajā termiņā nedod paskaidrojumus vai neierodas bez attaisnojoša iemesla, lēmums tiek pieņemts, pamatojoties uz lietā noskaidrotajiem apstākļiem un rīcībā esošajām ziņām.
+195. Ja zvērināts notārs Latvijas Zvērinātu notāru padomes, disciplinārlietu komisijas vai tieslietu ministra noteiktajā termiņā nedod paskaidrojumus vai neierodas bez attaisnojoša iemesla, lēmums tiek pieņemts, pamatojoties uz lietā noskaidrotajiem apstākļiem un rīcībā esošajām ziņām.

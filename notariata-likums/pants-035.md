@@ -1,1 +1,1 @@
-35. Zvērināta notāra darba laiks pakļauts noteikumiem par darba laiku valsts iestādēs. Tieslietu ministrs saziņā ar pašvaldībām var noteikt arī citādu darba laiku.
+35. Zvērināta notāra darba laiks pakļauts noteikumiem par darba laiku valsts iestādēs. Zvērināts notārs nodrošina savas prakses vietas pieejamību visu darba laiku. Zvērināts notārs pats personiski pieņem klientus savā prakses vietā ne mazāk kā piecas stundas darba dienā. Tieslietu ministrs saziņā ar pašvaldībām var noteikt arī citādu darba laiku.

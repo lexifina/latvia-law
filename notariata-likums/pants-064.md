@@ -1,1 +1,1 @@
-64. Zvērinātu notāru reģistrē un grāmatu formu un to vešanas kārtību tuvāk noteic tieslietu ministrs.
+64. Instrukciju par zvērinātu notāru reģistru un grāmatu formu un to vešanas kārtību un par mantojuma reģistra un mantojuma lietu vešanu pēc Latvijas Zvērinātu notāru padomes priekšlikuma izdod tieslietu ministrs.

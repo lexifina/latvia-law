@@ -1,1 +1,1 @@
-90. Ja akta dalībnieki negrib, lai pieaicinātie liecinieki zinātu akta saturu, un pēc pašu vēlēšanās izlasījuši vai noklausījušies tā saturu, lieciniekiem klāt neesot, tad, parakstot aktu, tā dalībnieki paziņo lieciniekiem, ka viņi to lasījuši vai noklausījušies. Tas jānorāda arī aktā.
+90. Ja notariālā akta dalībnieki negrib, lai pieaicinātie liecinieki zinātu akta saturu, un ir noklausījušies tā saturu, lieciniekiem klāt neesot, tad, parakstot aktu, tā dalībnieki paziņo lieciniekiem, ka viņi to noklausījušies.

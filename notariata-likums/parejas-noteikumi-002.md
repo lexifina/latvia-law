@@ -1,0 +1,1 @@
+2. Valsts nodeva par notariālā akta taisīšanu un akta apliecināšanu uzrādījuma kārtībā ir viens lats. Šajos gadījumos valsts nodeva par īpašuma tiesību un ķīlas tiesību nostiprināšanu zemesgrāmatā iekasējama pirms šo tiesību nostiprināšanas zemesgrāmatā normatīvajos aktos noteiktajā kārtībā un apmērā.

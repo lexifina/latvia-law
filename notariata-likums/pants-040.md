@@ -1,1 +1,1 @@
-40. Zvērināts notārs nedrīkst taisīt vai apliecināt aktus, kuri aizliegti ar likumu, kuru saturs ir pretrunā ar likumiem vai kuri aizskar pārvaldes kārtību, tikumību vai personu godu.
+40. Zvērinātam notāram jāatsakās no aktu un apliecinājumu taisīšanas, ja no viņa tiek prasīta līdzdalība darbībās, kuras acīmredzami kalpo prettiesiskiem un netikumīgiem mērķiem.

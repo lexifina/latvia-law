@@ -1,1 +1,1 @@
-158. Zvērinātu notāru kandidātu skaitam ir jābūt tādam, lai tas atbilstu nepieciešamībai nākotnē nodrošināt pietiekamu zvērinātu notāru skaitu.
+158. Zvērinātu notāru palīgus pēc viņu lūguma Latvijas Zvērinātu notāru padome uzņem zvērinātu notāru kandidātos. Ja zvērināta notāra kandidātu atbrīvo vai atceļ no amata, viņš izslēdzams no zvērinātu notāru kandidātu skaita.

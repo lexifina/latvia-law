@@ -1,0 +1,1 @@
+119.¹ Zvērināti notāri ir tiesīgi izgatavot norakstus no tiem apliecinājumiem, kuri glabājas viņu arhīva lietās, ja to lūdz personas, kas attiecīgos dokumentus parakstījušas, to pārstāvji, mantinieki vai tiesību pēcnieki.

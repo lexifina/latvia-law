@@ -1,2 +1,3 @@
-134. Lūgumu paziņot izteic rakstveidā. Nav pieļaujami paziņojumi ar 40. pantā norādīto saturu.
-Saņemto lūgumu zvērināts notārs ieraksta reģistrā.
+134. Lūgumu paziņot izteic rakstveidā. Nav pieļaujami paziņojumi, kuru saturs ir acīmredzamā pretrunā ar likumiem, kas aizsargā pārvaldes kārtību, sabiedrības tikumību vai personas godu.
+Zvērināts notārs pārbauda iesniedzēja identitāti.
+Apliecinājumu raksta uz paša lūguma.

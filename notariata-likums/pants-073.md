@@ -3,4 +3,4 @@
 2) zvērināta notāra vārdam un uzvārdam;
 3) reģistra numuram;
 4) zvērināta notāra parakstam.
-Uz izdodamiem aktiem un apliecinājumiem zvērinātam notāram jāuzspiež savs zīmogs.
+Uz visiem aktiem un apliecinājumiem zvērinātam notāram jāuzspiež savs zīmogs.

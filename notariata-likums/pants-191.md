@@ -1,1 +1,1 @@
-191. Tieslietu ministram pirms disciplinārlietas izlemšanas tā jāiesniedz Latvijas Zvērinātu notāru padomei, lai tā dotu atzinumu par zvērināta notāra turpmāku atstāšanu amatā, atcelšanu no amata vai pārcelšanu uz citu prakses vietu.
+191. Tieslietu ministrs, pirms viņš izlemj jautājumu par šā likuma 189.panta 1. un 2.punktā noteikto sodu uzlikšanu, disciplinārlietu iesniedz Latvijas Zvērinātu notāru padomei, lai tā sniegtu savu atzinumu.

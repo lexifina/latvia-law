@@ -1,1 +1,2 @@
-235. Latvijas Zvērinātu notāru padomes locekļa pilnvarojums izbeidzas līdz ar viņa atcelšanu vai atteikšanos no notāra amata vai padomes locekļa amata.
+235. Latvijas Zvērinātu notāru padomes locekļa pilnvarojums izbeidzas līdz ar viņa atteikšanos no padomes locekļa amata, atcelšanu vai atteikšanos no zvērināta notāra amata, zvērināta notāra darbības izbeigšanu vai pārtraukšanu citu iemeslu dēļ.
+Ja darbu Latvijas Zvērinātu notāru padomē šā panta pirmajā daļā minēto iemeslu dēļ izbeidz viens vai vairāki padomes locekļi (arī priekšsēdētājs vai priekšsēdētāja vietnieks), padome divu mēnešu laikā sasauc zvērinātu notāru kopsapulci un izsludina vēlēšanas padomes sastāva papildināšanai līdz kārtējām vēlēšanām.

@@ -1,1 +1,1 @@
-27. Apdrošināšanas līgums jāuztur spēkā visu zvērināta notāra darbības laiku.
+27. Apdrošināšanas līgums jāuztur spēkā visu zvērināta notāra amata darbības laiku.

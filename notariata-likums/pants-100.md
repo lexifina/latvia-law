@@ -1,2 +1,2 @@
-100. Notariālā akta oriģināls ir akts, kas ierakstīts aktu grāmatā.
-Piezīme. Ar ierakstīšanu aktu grāmatā saprotama 52. pantā minēto dokumentu ierakstīšana reģistrā un apliecināto aktu ievietošana aktu grāmatā.
+100. Notariālā akta oriģināls ir akts, kas ierakstīts notariālo aktu grāmatā.
+Piezīme. Ar ierakstīšanu notariālo aktu grāmatā saprotama šā likuma 52.pantā minēto dokumentu ierakstīšana reģistrā un ievietošana notariālo aktu grāmatā.

@@ -1,1 +1,1 @@
-156. Par zvērināta notāra kandidātu var būt persona, kas atbilst 9. panta 1., 3. un 4. punkta un 147. panta 2. punkta prasībām.
+156. Par zvērināta notāra kandidātu var būt zvērināta notāra palīgs, ja viņš atbilst šā likuma 9.panta 1.- 4. un 6.punkta prasībām un ne mazāk kā divus gadus strādājis par zvērināta notāra palīgu.

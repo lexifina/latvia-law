@@ -1,1 +1,1 @@
-159. Zvērinātu notāru kandidātu pieņemšanas termiņu nosaka Latvijas Zvērinātu notāru padome, to saskaņojot ar tieslietu ministru.
+159. Zvērināta notāra kandidātam ir priekšrocības tikt ieceltam zvērināta notāra amatā.

@@ -1,1 +1,2 @@
-132. Lūgumu atsaukt pilnvarojumu izteic rakstveidā. Saņemto lūgumu zvērināts notārs ieraksta reģistrā un pilnvarojuma atsaukšanu izsludina oficiālā laikrakstā.
+132. Lūgumu atsaukt pilnvarojumu zvērināts notārs apliecina saskaņā ar noteikumiem par gribas izteikumu apliecināšanu un pilnvarojuma atsaukšanu izsludina laikrakstā "Latvijas Vēstnesis".
+Zvērināts notārs pārbauda iesniedzēja vai viņa pārstāvja identitāti, rīcībspēju un pārstāvja pilnvaras.

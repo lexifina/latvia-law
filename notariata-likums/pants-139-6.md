@@ -1,0 +1,1 @@
+139.⁶ Zvērināts notārs apliecina iesniegumu, paziņojumu (deklarāciju) sniegšanu, ja notariāli apliecināta iesnieguma, paziņojuma (deklarācijas) iesniegšana valsts vai pašvaldību iestādēm un amatpersonām noteikta ar likumu.

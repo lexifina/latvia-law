@@ -1,1 +1,1 @@
-161. Zvērināta notāra kandidātu pieņem darbā Latvijas Zvērinātu notāru padome. Tā nosaka zvērināta notāra kandidāta pienākumus un atalgojumu no saviem līdzekļiem.
+161. Zvērināta notāra kandidātam ir zvērināta notāra palīga tiesības un pienākumi.

@@ -1,0 +1,1 @@
+11.² Persona, kura vēlas kļūt par zvērinātu notāru, Latvijas Zvērinātu notāru padomes noteiktajā kārtībā uzrāda atsauksmes par savu profesionālo darbību un morālajām īpašībām, kā arī derīgu zvērināta notāra eksāmena apliecību.

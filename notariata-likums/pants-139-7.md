@@ -1,0 +1,1 @@
+139.⁷ Apliecinājumi par liecību sniegšanu nevar aizstāt attiecīgā procesuālā kārtībā iegūtās liecības Latvijas tiesu un pirmstiesas izmeklēšanas iestādēs krimināllietās, civillietās un administratīvajā procesā tiesā.

@@ -1,1 +1,1 @@
-19. Iesniegumi par atļauju kārtot eksāmenu jāiesniedz tieslietu ministram vismaz desmit dienas pirms tā.
+19. Tieslietu ministrs pēc Latvijas Zvērinātu notāru padomes priekšlikuma nosaka zvērinātu notāru eksāmena kārtību, eksāmenu komisijas sastāvu, eksāmena jautājumus un minimālo zināšanu apjomu, kā arī nosaka eksāmena maksu.

@@ -1,0 +1,1 @@
+6. Gadījumos, kad likums gribas izteikumiem nosaka notariālu apliecinājumu, publisku apliecinājumu vai apliecinājumu uzrādījuma kārtībā, zvērināts notārs taisa notariālo aktu (82.pants). Gadījumos, kad likums nosaka parakstu notariālu apliecināšanu, publisku apliecināšanu vai apliecināšanu uzrādījuma kārtībā, zvērināts notārs apliecina arī rīcībspēju.

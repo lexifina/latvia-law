@@ -1,0 +1,1 @@
+87.¹ Zvērināts notārs noskaidro notariālā akta dalībnieku gribu un darījuma noteikumus, skaidri un nepārprotami pieraksta personu paziņojumus, iepazīstina dalībniekus ar iespējamām darījuma tiesiskajām sekām, lai likumu nezināšana un pieredzes trūkums netiktu izmantots viņiem par ļaunu.

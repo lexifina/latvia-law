@@ -1,6 +1,6 @@
 108. Zvērināti notāri apliecina:
-1) notariālo aktu izrakstus un norakstus;
-2) aktus uzrādījuma kārtībā;
+1) notariālo aktu grāmatas izrakstus un notariālo aktu norakstus;
+2) (izslēgts ar 24.10.2002. likumu);
 3) parakstu īstumu;
 4) to, ka persona ir dzīva;
 5) norakstus un tulkojumus;
@@ -11,4 +11,6 @@
 10) protestus;
 11) pilnvarojumu atsaukšanu;
 12) paziņojumu nodošanu;
-13) citus likumos paredzētos dokumentus.
+13) sapulču, darbību un notikumu norisi;
+14) iesniegumu, paziņojumu (deklarāciju) un liecību sniegšanu;
+15) citus likumos paredzētos faktus un dokumentus.

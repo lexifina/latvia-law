@@ -1,1 +1,2 @@
-30. Apdrošināšanas maksājumu savlaicīgu izdarīšanu uzrauga Latvijas Zvērinātu notāru padome.
+30. Ja zvērināts notārs, pildot amata pienākumus, savas darbības vai bezdarbības dēļ ir nodarījis kādam zaudējumus, neatkarīgi no zvērināta notāra disciplinārās vai krimināltiesiskās atbildības šos zaudējumus apdrošināšanas iestāde sedz no zvērināta notāra apdrošināšanas atlīdzības uz apdrošināšanas līguma pamata.
+Prasības par zaudējumiem, kas radušies saistībā ar zvērināta notāra amata darbību, iesniedzamas tai apgabaltiesai, kuras uzraudzībai zvērināts notārs pakļauts.

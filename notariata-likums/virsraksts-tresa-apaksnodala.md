@@ -1,2 +1,2 @@
 Trešā apakšnodaļa
-Zvērinātu notāru darbība
+Zvērinātu notāru amata darbība

@@ -1,1 +1,1 @@
-101. Pēc oriģināla parakstīšanas akta dalībniekiem izdod apliecinātus aktu grāmatas izrakstus.
+101. Par notariālo aktu grāmatā ierakstīto notariālo aktu zvērināts notārs izdod notariāli apliecinātus notariālo aktu grāmatas izrakstus un notariālo aktu norakstus.

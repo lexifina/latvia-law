@@ -1,1 +1,1 @@
-22. Tieslietu ministrs, saskaņojot ar Latvijas Zvērinātu notāru padomi, nosaka eksāmena kārtību, eksāmena naudas apmēru un apliecības derīguma termiņu.
+22. Eksāmena apliecības derīguma termiņš ir trīs gadi. Aprēķinot šo termiņu, atskaitāms laiks, kad persona ir ieņēmusi zvērināta notāra palīga amatu.

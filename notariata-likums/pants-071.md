@@ -1,1 +1,1 @@
-71. Apliecinājumus var izdarīt arī svešvalodā, ja zvērināts notārs un personas, kas tajos piedalās, to prot un ja tie apliecināmi uzrādīšanai ārvalstīs.
+71. Apliecinājumus var izdarīt arī svešvalodā, ja zvērināts notārs to prot un ja tie apliecināmi uzrādīšanai ārvalstīs.

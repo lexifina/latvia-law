@@ -1,0 +1,1 @@
+11.¹ Persona, kura vēlas kļūt par zvērinātu notāru, iesniedz Latvijas Zvērinātu notāru padomei iesniegumu un dokumentus, kas apliecina tās atbilstību šā likuma 9.panta prasībām, kā arī to, ka personas uzņemšanai zvērinātu notāru skaitā nav neviena no 10.panta 2.- 9.punktā minētajiem šķēršļiem.

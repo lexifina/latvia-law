@@ -1,1 +1,1 @@
-12. Zvērināta notāra amata pretendentiem jāiesniedz atsauksmes par savu profesionālo darbību un morālajām īpašībām un jāsaņem pozitīva atsauksme no Latvijas Zvērinātu notāru padomes.
+12. Latvijas Zvērinātu notāru padome iesniedz tieslietu ministram dokumentus par zvērināta notāra amata pretendentu un Latvijas Zvērinātu notāru padomes lēmumu par ieteikumu viņu uzņemt zvērinātu notāru skaitā.

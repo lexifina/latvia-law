@@ -1,1 +1,1 @@
-179. Zvērināti notāri šajā likumā noteiktajā kārtībā par savu darbību materiāli, disciplināri un krimināli atbildīgi.
+179. Zvērināti notāri likumā noteiktajā kārtībā par savu amata darbību ir disciplināri, civiltiesiski un krimināltiesiski atbildīgi.
