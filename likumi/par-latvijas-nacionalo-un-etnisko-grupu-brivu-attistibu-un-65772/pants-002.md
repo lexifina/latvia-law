@@ -1,1 +1,1 @@
-2. pants. Katrs Latvijas Republikas pastāvīgais iedzīvotājs ir tiesīgs brīvi, saskaņā ar savu nacionālo pašapziņu vai nacionālo izcelšanos uzrādīt vai atjaunot dokumentos savu nacionālo piederību.
+2. pants. Katram 16 gadu vecumu sasniegušam Latvijas Republikas pilsonim vai personai, kas nav Latvijas Republikas vai citas valsts pilsonis un kam Latvijā ir pastāvīga dzīvesvieta, ir tiesības saskaņā ar savu nacionālo pašapziņu un nacionālo izcelšanos likumā noteiktajā kārtībā uzrādīt vai atjaunot savos dokumentos nacionālo piederību.
