@@ -13,3 +13,4 @@
 (5) Komitejas darbu vada tās priekšsēdētājs. Priekšsēdētāju ievēlē attiecīgā komiteja no tās locekļu vidus.
 (6) Komitejas locekļu pilnvaru laiks ir divi gadi.
 (7) Komiteja darbojas, pamatojoties uz Fonda padomes apstiprinātu nolikumu.
+(8) Komiteja, kas izvērtē Eiropas Savienības finansētos projektus, darbojas atbilstoši Latvijas un Eiropas Komisijas noslēgtajiem līgumiem.
