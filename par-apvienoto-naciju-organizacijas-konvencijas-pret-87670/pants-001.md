@@ -1,0 +1,1 @@
+1.pants. 2000.gada 15.novembra Apvienoto Nācijas Organizācijas Konvencijas pret transnacionālo organizēto noziedzību Protokols par cilvēku tirdzniecības, jo sevišķi tirdzniecības ar sievietēm un bērniem, novēršanu, apkarošanu un sodīšanu par to (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
