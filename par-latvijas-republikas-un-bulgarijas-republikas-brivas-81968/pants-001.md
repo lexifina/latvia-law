@@ -1,0 +1,1 @@
+1.pants. 2002.gada 16.oktobrī Rīgā parakstīto Latvijas Republikas un Bulgārijas Republikas brīvās tirdzniecības līgumu (turpmāk - Līgums) (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2003, 2.nr.) ar šo likumu tiek denonsēts.
