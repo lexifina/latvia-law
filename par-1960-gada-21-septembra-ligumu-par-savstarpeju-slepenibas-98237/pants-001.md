@@ -1,0 +1,1 @@
+1.pants. 1960.gada 21.septembrī Parīzē parakstītais Līgums par savstarpēju slepenības garantēšanu izgudrojumiem, kuri saistīti ar aizsardzību un kuriem iesniegti patentu pieteikumi (turpmāk - Līgums), ar šo likumu tiek pieņemts un apstiprināts.
