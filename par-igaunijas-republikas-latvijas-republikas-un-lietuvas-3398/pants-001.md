@@ -1,0 +1,1 @@
+1.pants. 2000.gada 28.decembrī Tallinā parakstītā Igaunijas Republikas, Latvijas Republikas un Lietuvas Republikas brīvās tirdzniecības nolīguma Apvienotās komitejas rezolūcija Nr.1/2000 "Par grozījumiem Igaunijas Republikas, Latvijas Republikas un Lietuvas Republikas brīvās tirdzniecības nolīguma A protokolā" (turpmāk - Rezolūcija) ar šo likumu tiek pieņemta un apstiprināta.
