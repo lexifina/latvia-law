@@ -1,0 +1,5 @@
+14.pants. Nepabeigtie likvidācijas procesi
+(1) Līdz Biedrību un nodibinājumu likuma spēkā stāšanās dienai uzsāktie un sabiedrisko organizāciju reģistrā pieteiktie sabiedrisko organizāciju un to apvienību likvidācijas procesi jāpabeidz līdz 2005.gada 31.decembrim, piesakot tos reģistrācijai sabiedrisko organizāciju reģistrā.
+(2) Pēc Biedrību un nodibinājumu likuma spēkā stāšanās dienas uzsāktā sabiedrisko organizāciju un to apvienību likvidācija uz biedru sapulces (pilnsapulces) lēmuma pamata jāpabeidz līdz 2006.gada 31.decembrim, piesakot to reģistrācijai sabiedrisko organizāciju reģistrā.
+(3) Šā panta pirmajā un otrajā daļā minētajiem likvidācijas procesiem piemēro likumus, kuri regulē sabiedrisko organizāciju un to apvienību darbību, un statūtu noteikumus, kuri bija spēkā lēmuma par likvidāciju pieņemšanas dienā.
+(4) Ja šā panta pirmajā un otrajā daļā minētajos termiņos likvidācijas process nav pabeigts, ar nākamo dienu pēc termiņa izbeigšanās sabiedriskajai organizācijai vai sabiedrisko organizāciju apvienībai nav tiesību veikt darbību un par šo noteikumu pārkāpumiem to sauc pie likumā noteiktās atbildības par darbību bez reģistrācijas.

@@ -1,0 +1,1 @@
+4. Tieslietu ministrija izstrādā un līdz Biedrību un nodibinājumu likuma spēkā stāšanās dienai publicē laikrakstā "Latvijas Vēstnesis" biedrību un nodibinājumu statūtu paraugus, kas izmantojami, lai sagatavotu statūtus ierakstīšanai biedrību un nodibinājumu reģistrā.

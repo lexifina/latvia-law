@@ -1,0 +1,1 @@
+2. Līdz attiecīga likuma pieņemšanai politiskās organizācijas (partijas) turpina darboties saskaņā ar likuma "Par sabiedriskajām organizācijām un to apvienībām" noteikumiem par politiskajām organizācijām (partijām).

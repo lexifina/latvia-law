@@ -1,0 +1,1 @@
+3. Līdz attiecīgo likumu pieņemšanai tām biedrībām un nodibinājumiem, par kuriem pārveidotas profesionālās radošās organizācijas un to apvienības, kā arī sporta sabiedriskās organizācijas un to apvienības, piemēro likuma "Par sabiedriskajām organizācijām un to apvienībām" 57.1 - 57.5 pantu, 58.panta trešo daļu un 60.pantu.
