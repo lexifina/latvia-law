@@ -13,8 +13,8 @@
 6) kuras personiskās vai profesionālās īpašības pamatoti liek apšaubīt tās spēju ievērot slepenības režīma prasības;
 7) kura ir medicīnas iestāžu uzskaitē sakarā ar alkoholismu, toksikomāniju, narkomāniju vai gara slimību;
 8) kura ir ņemta operatīvajā uzskaitē sakarā ar operatīvās izstrādes lietu.
-(3¹) Pieeja ierobežotas lietošanas valsts noslēpuma objektiem personai tiek liegta, ja ir pamatots iemesls, kas liek apšaubīt tās spēju ievērot slepenības režīma prasības.
+(3¹) (Izslēgta ar MK 05.08.2003. noteikumiem Nr.432.)
 (4) Pamatojoties uz valsts noslēpuma subjekta priekšlikumu, Satversmes aizsardzības biroja direktors pēc pārbaudes izdarīšanas var atļaut pieeju valsts noslēpumam atsevišķām personām, kurām to ierobežo šā panta trešās daļas 3.punkta nosacījumi, ja nav izdarīts smags vai sevišķi smags noziegums un sodāmība ir dzēsta vai noņemta.
 (5) Pamatojoties uz valsts noslēpuma subjekta priekšlikumu, Satversmes aizsardzības biroja direktors pēc pārbaudes izdarīšanas var atļaut pieeju valsts noslēpumam atsevišķām personām, kurām to ierobežo šā panta trešās daļas 4.punkta nosacījumi.
 (6) Ja personai netiek izsniegta speciālā atļauja, tas ir pietiekams pamats, lai atteiktu tai pieņemšanu darbā, kas saistīts ar valsts noslēpuma izmantošanu vai aizsardzību.
-(7) Kārtību, kādā notiek klasificētās (sevišķi slepenās, slepenās, konfidenciālās vai ierobežotas lietošanas) informācijas nodošana ārvalstu pārstāvjiem Latvijas Republikas un ārvalstu sadarbības ietvaros, reglamentē Ministru kabineta noteikumi.
+(7) Kārtību, kādā notiek klasificētās (sevišķi slepenās, slepenās vai konfidenciālās) informācijas nodošana ārvalstu pārstāvjiem Latvijas Republikas un ārvalstu sadarbības ietvaros, reglamentē Ministru kabineta noteikumi.

@@ -1,0 +1,1 @@
+4. Institūcijas, kas glabā informāciju, kurai piešķirta valsts noslēpuma slepenības pakāpe "ierobežotas lietošanas informācija", līdz 2003.gada 10.septembrim veic šīs informācijas deklasificēšanu, piešķirot tai statusu "informācija dienesta vajadzībām" atbilstoši Informācijas atklātības likumam.
