@@ -1,0 +1,1 @@
+1.pants. 2001.gada 6.decembrī Rīgā parakstītais Latvijas Republikas valdības un Izraēlas Valsts valdības līgums par savstarpēju palīdzību muitas lietās (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
