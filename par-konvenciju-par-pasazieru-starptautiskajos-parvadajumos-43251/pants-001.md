@@ -1,0 +1,1 @@
+1.pants. 1956.gada 14.decembrī Ženēvā parakstītā Apvienoto Nāciju Organizācijas Konvencija par pasažieru starptautiskajos pārvadājumos izmantojamo autotransporta līdzekļu aplikšanu ar nodokļiem (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.

@@ -1,0 +1,1 @@
+Konvencija par pasažieru starptautiskajos pārvadājumos izmantojamo transporta līdzekļu aplikšanu ar nodokļiem
