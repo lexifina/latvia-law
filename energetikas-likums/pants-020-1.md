@@ -1,0 +1,4 @@
+20.¹pants
+(1) Akciju sabiedrība "Latvenergo" ir vienots energoapgādes uzņēmums. Akciju sabiedrības "Latvenergo" īpašumā esošās Daugavas hidroelektrostacijas, termoelektrocentrāles, elektroenerģijas pārvades, sadales un telekomunikāciju tīkli un iekārtas ir valsts nozīmes stratēģiskie energoapgādes objekti. Tos ne kopā, ne atsevišķi nevar nodot valdījumā vai īpašumā trešajām personām, nedz arī izmantot kā ķīlu kredītu vai citu saistību nodrošināšanai.
+(2) Kā valstiski svarīgs tautsaimniecības objekts akciju sabiedrība "Latvenergo" nav privatizējama. Visas akciju sabiedrības "Latvenergo" akcijas pieder valstij.
+(3) Ja akciju sabiedrība "Latvenergo" tiek reorganizēta, jaunizveidotā uzņēmējsabiedrība ir "Latvenergo" tiesību un saistību pārņēmēja un uz to attiecināmi šā panta pirmajā un otrajā daļā minētie noteikumi.
