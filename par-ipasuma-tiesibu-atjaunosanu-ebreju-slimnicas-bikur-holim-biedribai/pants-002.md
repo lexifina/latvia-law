@@ -1,0 +1,1 @@
+2.pants. Triju mēnešu laikā pēc šā likuma spēkā stāšanās Rīgas pilsētas dome un Jūrmalas pilsētas dome nodod minētos nekustamos īpašumus Ebreju slimnīcas "Bikur Holim" biedrībai ar pieņemšanas-nodošanas aktu. Minētais pieņemšanas-nodošanas akts ir derīgs ierakstīšanai zemesgrāmatā un Ebreju slimnīcas "Bikur Holim" īpašuma tiesību nostiprināšanai.

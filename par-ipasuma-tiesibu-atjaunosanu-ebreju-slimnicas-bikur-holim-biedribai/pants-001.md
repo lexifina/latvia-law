@@ -1,0 +1,1 @@
+1.pants. Ebreju slimnīcas "Bikur Holim" biedrībai tiek atjaunotas īpašuma tiesības uz nekustamiem īpašumiem Rīgā, Maskavas ielā 124/126 un Krasta ielā 77 (pēc pilsētas iedalījuma - 48.grupa, 6., 8. un 121.grunts), un Jūrmalā, Priedainē, Lielajā prospektā 11 (grunts nr. 2 - XXI).
