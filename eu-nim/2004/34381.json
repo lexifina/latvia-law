@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likuma \"Par pievienotās vērtības nodokli\" normu piemērošanas kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-01",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2005-01-18",
+  "commission_reference": "MNE(2005)54381",
+  "nim_celex": "71983L0181LVA_34381",
+  "nim_id": "34381",
+  "transposes_celex": [
+    "31983L0181"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/61fc01bd-2b17-4afe-8d66-5a8768c5458e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
