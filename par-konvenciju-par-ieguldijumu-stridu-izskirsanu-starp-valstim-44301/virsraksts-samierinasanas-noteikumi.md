@@ -1,0 +1,1 @@
+Samierināšanas noteikumi

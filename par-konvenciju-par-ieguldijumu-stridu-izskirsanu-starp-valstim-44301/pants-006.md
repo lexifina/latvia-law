@@ -1,0 +1,1 @@
+6.pants. Konvencija, Nolikums, Arbitrāžas noteikumi, Procesa ierosināšanas noteikumi un Samierināšanas noteikumi stājas spēkā Konvencijas 68.pantā noteiktajā laikā un kārtībā, un par to Ārlietu ministrija paziņo laikrakstā "Latvijas Vēstnesis".

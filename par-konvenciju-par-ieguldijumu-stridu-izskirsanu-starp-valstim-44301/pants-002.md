@@ -1,0 +1,1 @@
+2.pants. Likums stājas spēkā tā izsludināšanas dienā. Līdz ar likumu ir izsludināma Konvencija, Nolikums, Arbitrāžas noteikumi, Procesa ierosināšanas noteikumi un Samierināšanas noteikumi angļu valodā un to tulkojums latviešu valodā.

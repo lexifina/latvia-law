@@ -1,0 +1,1 @@
+4.pants. Tieslietu ministrija ir kompetentā institūcija, kas pārstāv Latvijas Republiku ieguldījumu strīdu izskatīšanā un saskaņā ar Konvencijas 54.pantu ir atbildīga par arbitrāžas lēmumu izpildi Latvijas Republikā.

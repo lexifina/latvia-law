@@ -1,0 +1,1 @@
+Administratīvais un finansu nolikums

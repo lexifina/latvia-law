@@ -1,0 +1,1 @@
+5.pants. Ārlietu ministrija uz šā likuma pamata un saskaņā ar Konvencijas 54.pantu sagatavo ziņojumu Investīciju strīdu izšķiršanas starptautiskā centra ģenerālsekretāram par kompetentās institūcijas noteikšanu arbitrāžas lēmumu izpildei Latvijas Republikā.
