@@ -1,0 +1,1 @@
+5.pants. Dalības maksu Starptautisko dzelzceļa pārvadājumu starpvaldību organizācijai saskaņā ar Protokola 26.pantu par 2003.gadu valsts vārdā maksā valsts akciju sabiedrība "Latvijas dzelzceļš", turpmāk tā tiks maksāta no valsts budžeta.

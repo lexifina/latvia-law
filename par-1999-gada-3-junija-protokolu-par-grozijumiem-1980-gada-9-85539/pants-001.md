@@ -1,0 +1,1 @@
+1.pants. 1999.gada 3.jūnijā Viļņā parakstītais Protokols par grozījumiem 1980.gada 9.maija Konvencijā par starptautiskajiem dzelzceļa pārvadājumiem (COTIF) (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
