@@ -1,0 +1,31 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Satiksmes ministrijas 2001. gada 15.janvāra noteikumos Nr.5",
+  "type_of_act": "Ministra noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "181",
+  "official_journal_page": null,
+  "official_journal_date": "2004-11-13",
+  "entry_into_force": "2004-11-05",
+  "notification_date": "2004-12-16",
+  "commission_reference": "MNE(2004)53713",
+  "nim_celex": "72002L0051LVA_33713",
+  "nim_id": "33713",
+  "transposes_celex": [
+    "32002L0051",
+    "32003L0019",
+    "32003L0076",
+    "32003L0077",
+    "32003L0097",
+    "32003L0102",
+    "32004L0003",
+    "32004L0011",
+    "32004L0078",
+    "32004L0086"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/37d67a19-5865-4460-a46a-89878419a05e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
