@@ -33,7 +33,7 @@
 32) Daugavpils 2.arodvidusskola (juridiskā adrese - Daugavpilī, Varšavas ielā 23);
 33) Liepājas 31.arodvidusskola (juridiskā adrese - Liepājā, Klāva Ukstiņa ielā 17/32);
 34) Liepājas 48.arodvidusskola (juridiskā adrese - Liepājā, Ventspils ielā 51);
-35) Liepājas 49.arodvidusskola (juridiskā adrese - Liepājā, Graudu ielā 42);
+35) (izslēgts ar 11.06.1998. likumu);
 36) Limbažu 18.arodvidusskola (juridiskā adrese - Limbažos, Zeļļu ielā 9);
 37) Olaines mehānikas un tehnoloģijas koledža (juridiskā adrese - Olainē, Zeiferta ielā 8);
 38) Smiltenes 29.arodvidusskola (juridiskā adrese - Smiltenē, Pils ielā 8);
@@ -48,12 +48,12 @@
 47) Rīgas horeogrāfijas vidusskola (juridiskā adrese - Rīgā, Kalnciema ielā 10/12);
 48) Rīgas 1.medicīnas skola (juridiskā adrese - Rīgā, Tomsona ielā 37);
 49) Rīgas 2.medicīnas skola (juridiskā adrese - Rīgā, Pilsoņu ielā 13);
-50) Rīgas 3.medicīnas skola (juridiskā adrese - Rīgā, Vienības gatvē 45);
+50) (izslēgts ar 11.06.1998. likumu);
 51) Rīgas 5.medicīnas skola (juridiskā adrese - Rīgā, Hipokrāta ielā 2);
 52) Latvijas Sarkanā Krusta medicīnas māsu skola (juridiskā adrese - Rīgā, J.Asara ielā 5);
 53) Daugavpils medicīnas skola (juridiskā adrese - Daugavpilī, Varšavas ielā 26);
-54) Cēsu medicīnas skola (juridiskā adrese - Cēsīs, Bērzaines ielā 7);
-55) Ventspils medicīnas skola (juridiskā adrese - Ventspilī, Vasarnīcas ielā 33);
+54) (izslēgts ar 11.06.1998. likumu);
+55) (izslēgts ar 11.06.1998. likumu);
 56) Liepājas medicīnas skola (juridiskā adrese - Liepājā, Riņķu ielā 24/26);
 57) Medicīnas profesionālās izglītības centrs (juridiskā adrese - Rīgā, Kapseļu ielā 23);
 58) Nacionālais rehabilitācijas centrs "Vaivari" (juridiskā adrese - Jūrmalā, Asaru prospektā 61);
