@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Satiksmes ministrijas 2004. gada 9.marta noteikumi Nr. 6 \"Noteikumi par ro-ro pasažieru kuģu un ātrgaitas pasažieru kuģu drošību\"",
+  "type_of_act": "Ministra noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "68",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2005-02-04",
+  "commission_reference": "MNE(2005)55063",
+  "nim_celex": "71999L0035LVA_35063",
+  "nim_id": "35063",
+  "transposes_celex": [
+    "31999L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c7f34287-70b7-4ad8-886a-8f4c00c0a609",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
