@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Komerclikums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "158/160 (2069/2071)",
+  "official_journal_page": null,
+  "official_journal_date": "2000-05-04",
+  "entry_into_force": "2002-01-01",
+  "notification_date": "2014-07-03",
+  "commission_reference": "MNE(2014)54047",
+  "nim_celex": "72012L0017LVA_218040",
+  "nim_id": "218040",
+  "transposes_celex": [
+    "32012L0017"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9b5890f5-2715-469f-a522-1a417e5cd637",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
