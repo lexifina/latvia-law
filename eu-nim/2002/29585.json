@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par darba aizsardzības prasībām, saskaroties ar kancerogēnām vielām darba vietās",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "188",
+  "official_journal_page": null,
+  "official_journal_date": "2001-12-28",
+  "entry_into_force": "2002-01-01",
+  "notification_date": "2004-07-06",
+  "commission_reference": "MNE(2004)59585",
+  "nim_celex": "72004L0037LVA_29585",
+  "nim_id": "29585",
+  "transposes_celex": [
+    "32004L0037"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a1e00fac-ffde-4e48-b2a6-4319dddbe5f3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
