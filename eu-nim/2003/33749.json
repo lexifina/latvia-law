@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "\"Par Līgumu par speciālām stabilitātes prasībām ro-ro tipa pasažieru kuģiem, kas saskaņā ar grafiku veic regulārus reisus starp vai uz, vai no noteiktām ostām ziemeļrietumu Eiropā un Baltijas jūrā (Stokholmas līgums, 1996)\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "169",
+  "official_journal_page": null,
+  "official_journal_date": "2003-12-02",
+  "entry_into_force": "2003-12-02",
+  "notification_date": "2004-12-16",
+  "commission_reference": "MNE(2004)53749",
+  "nim_celex": "72003L0025LVA_33749",
+  "nim_id": "33749",
+  "transposes_celex": [
+    "32003L0025"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d9541078-1043-4fef-952c-bf0a8d1603df",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
