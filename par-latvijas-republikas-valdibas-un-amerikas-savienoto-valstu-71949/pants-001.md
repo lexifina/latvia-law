@@ -1,0 +1,1 @@
+1.pants. 2001.gada 20.septembrī Rīgā parakstītais Latvijas Republikas valdības un Amerikas Savienoto Valstu valdības vienošanās protokols par likuma izpildi (turpmāk - protokols) ar šo likumu tiek pieņemts un apstiprināts.
