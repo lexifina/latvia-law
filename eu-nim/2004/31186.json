@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2000.gada 30.maija noteikumos Nr.186",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "68",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-09-24",
+  "commission_reference": "MNE(2004)51186",
+  "nim_celex": "71973L0361LVA_31186",
+  "nim_id": "31186",
+  "transposes_celex": [
+    "31973L0361",
+    "31991L0368",
+    "31993L0068",
+    "31998L0037"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dfdc14b9-235a-4b3c-a7e5-c30b62b37956",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
