@@ -1,1 +1,1 @@
-8. Izdevumi zemes komisiju uzturēšanai tiek finansēti no republikas budžeta, paredzot šos izdevumus attiecīgajiem pašvaldību budžetiem.
+8. Zemes komisiju priekšsēdētāji, viņu vietnieki un sekretāri ir amatpersonas, kas par savu pienākumu izpildi atbild saskaņā ar spēkā esošajiem likumdošanas aktiem.
