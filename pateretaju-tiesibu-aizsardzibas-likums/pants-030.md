@@ -1,0 +1,2 @@
+30.pants. Patērētāja tiesības, ja preci nepiegādā vai pakalpojumu nesniedz noteiktā termiņā
+Ja patērētājs nesaņem preci līgumā noteiktajā termiņā vai ja pakalpojums no patērētāja neatkarīgu apstākļu dēļ nav izpildīts līgumā noteiktajā termiņā un patērētājs vairs nav ieinteresēts līguma izpildīšanā, patērētājam ir tiesības vienpusēji atkāpties no līguma, saņemt samaksāto priekšapmaksu un pieprasīt radīto zaudējumu atlīdzību, izņemot gadījumu, kad pārdevējs vai pakalpojuma sniedzējs ir rakstveidā vienojies ar patērētāju par termiņa nokavējumu.

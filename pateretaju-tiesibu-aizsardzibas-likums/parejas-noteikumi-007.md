@@ -1,0 +1,1 @@
+7. Atteikuma tiesības, kuras regulē šā likuma 11.pants, piemērojamas tikai pēc tam, kad stājušies spēkā Ministru kabineta noteikumi par līgumu, kas reglamentē dzīvošanai paredzētas ēkas vai ēkas daļas lietošanas tiesību iegūšanu uz laiku.

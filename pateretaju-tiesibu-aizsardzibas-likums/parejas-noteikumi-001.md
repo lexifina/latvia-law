@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par patērētāju tiesību aizsardzību" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 46./47./48.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1998, 5.nr.).

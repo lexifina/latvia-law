@@ -1,0 +1,3 @@
+9.pants. Līgums, kas noslēgts ārpus uzņēmuma (uzņēmējsabiedrības) pastāvīgās tirdzniecības vai pakalpojumu sniegšanas vietas
+(1) Saskaņā ar līgumu, kas noslēgts ārpus uzņēmuma (uzņēmējsabiedrības) pastāvīgās tirdzniecības vai pakalpojumu sniegšanas vietas, pārdevējs piegādā preces vai pakalpojuma sniedzējs sniedz pakalpojumus patērētājam, pēc savas iniciatīvas vai pēc patērētāja nepārprotami izteikta lūguma apmeklējot patērētāju mājās, darbavietā vai citā viņa atrašanās vietā.
+(2) Līgumā, kas noslēgts ārpus uzņēmuma (uzņēmējsabiedrības) pastāvīgās tirdzniecības vai pakalpojumu sniegšanas vietas, ietveramo informāciju, kā arī šā likuma 12.pantā paredzēto atteikuma tiesību realizēšanas termiņu un kārtību reglamentē Ministru kabineta noteikumi.

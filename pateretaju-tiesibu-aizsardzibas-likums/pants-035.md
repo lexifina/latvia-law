@@ -1,0 +1,2 @@
+35.pants. Atbildība par preces vai pakalpojuma trūkumu nenovēršanu termiņā
+Ja ražotājs, pārdevējs vai pakalpojuma sniedzējs 30 dienu laikā no dienas, kad patērētājs pieteicis prasījumu par preces vai pakalpojuma trūkumiem, vai attiecīgi pilnvarotu uzraudzības un kontroles iestāžu noteiktajā termiņā nav novērsis preces vai pakalpojuma trūkumu, viņa pienākums ir atlīdzināt visus zaudējumus, kas patērētājam radušies sakarā ar kavējumu.

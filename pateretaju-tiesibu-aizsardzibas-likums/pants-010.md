@@ -1,0 +1,5 @@
+10.pants. Distances līgums
+(1) Distances līgums ir vienošanās starp patērētāju un pārdevēju vai pakalpojuma sniedzēju, pamatojoties uz pārdevēja vai pakalpojuma sniedzēja piedāvājumu ar adresēta vai neadresēta iespieddarba, tipveida vēstules, kataloga, presē publicētas reklāmas, kurai pievienots pasūtījuma kupons, telefona, faksimila, Interneta, elektroniskā pasta, televīzijas, radio un citu informācijas nosūtīšanas vai pārraidīšanas līdzekļu starpniecību.
+(2) Faksimilu, automātisko atbildētāju un distances saziņas līdzekļus, kurus izmantojot iespējams individuāls kontakts ar patērētāju, ražotājs, pārdevējs vai pakalpojuma sniedzējs var izmantot tikai tādā gadījumā, ja saņemta patērētāja nepārprotama piekrišana.
+(3) Distances līgums izpildāms ne vēlāk kā 30 dienu laikā no dienas, kad ražotājs, pārdevējs vai pakalpojuma sniedzējs saņēmis pasūtījumu no patērētāja, ja vien līgumslēdzējas puses nav vienojušās citādi.
+(4) Distances līgumā ietveramo informāciju, kā arī šā likuma 12.pantā paredzēto atteikuma tiesību realizēšanas termiņu un kārtību reglamentē Ministru kabineta noteikumi.

@@ -1,0 +1,2 @@
+13.pants. Pienācīga kvalitāte
+Ražotāja, pārdevēja vai pakalpojuma sniedzēja pienākums ir nodrošināt preces vai pakalpojuma pienācīgu kvalitāti. Ražotājs, pārdevējs vai pakalpojuma sniedzējs ir atbildīgs par nepienācīgas kvalitātes preces pārdošanu vai pakalpojuma sniegšanu, kaut arī līgumā tas nav tieši norādīts. Precei un pakalpojumam jāatbilst arī ražotāja, pārdevēja vai pakalpojuma sniedzēja informācijai par šo preci vai pakalpojumu.

@@ -1,0 +1,1 @@
+5. Atteikuma tiesības, kuras regulē šā likuma 9.pants, piemērojamas tikai pēc tam, kad stājušies spēkā Ministru kabineta noteikumi par līgumu, kas noslēgts ārpus uzņēmuma (uzņēmējsabiedrības) pastāvīgās tirdzniecības vai pakalpojumu sniegšanas vietas.

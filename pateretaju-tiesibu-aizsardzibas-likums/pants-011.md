@@ -1,0 +1,7 @@
+11.pants. Līgums par dzīvošanai paredzētas ēkas vai ēkas daļas lietošanas tiesību iegūšanu uz laiku
+(1) Līgums par dzīvošanai paredzētas ēkas vai ēkas daļas lietošanas tiesību iegūšanu uz laiku ir līgums, kurš noslēgts vismaz uz trim gadiem un saskaņā ar kuru lietošanas tiesības iegūtas uz laiku, kas nav mazāks par vienu nedēļu noteiktā vai nosakāmā kalendārā gada posmā.
+(2) Līgums par dzīvošanai paredzētas ēkas vai ēkas daļas lietošanas tiesību iegūšanu uz laiku slēdzams rakstveidā, un patērētājam izsniedzams viens šā līguma eksemplārs.
+(3) Slēdzot līgumu par dzīvošanai paredzētas ēkas vai ēkas daļas lietošanas tiesību iegūšanu uz laiku, ir aizliegts pieprasīt no patērētāja priekšapmaksu vai avansa maksājumus, pirms izbeidzies termiņš, kura laikā patērētājs var izmantot atteikuma tiesības.
+(4) Līgumā par dzīvošanai paredzētas ēkas vai ēkas daļas lietošanas tiesību iegūšanu ietveramo informāciju, kā arī šā likuma 12.pantā paredzēto atteikuma tiesību realizēšanas termiņu un kārtību reglamentē Ministru kabineta noteikumi.
+(5) Slēdzot līgumu par dzīvošanai paredzētas Latvijā esošas ēkas vai ēkas daļas lietošanas tiesību iegūšanu, jautājumos, kurus neregulē šis likums, piemēro Civillikumu un citus normatīvos aktus.
+(6) Slēdzot līgumu par dzīvošanai paredzētas ārvalstīs esošas ēkas vai ēkas daļas lietošanas tiesību iegūšanu uz laiku, piemērojami attiecīgajā valstī spēkā esošie likumi, ciktāl tas nodrošina šajā likumā noteikto.
