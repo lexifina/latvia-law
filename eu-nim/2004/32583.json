@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Par vieglo automobiļu un motociklu nodokli",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "161",
+  "official_journal_page": null,
+  "official_journal_date": "2003-11-14",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-11-11",
+  "commission_reference": "MNE(2004)52583",
+  "nim_celex": "71989L0604LVA_32583",
+  "nim_id": "32583",
+  "transposes_celex": [
+    "31989L0604"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/55d1e492-0255-417d-8bc6-7ba9a86fb73e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
