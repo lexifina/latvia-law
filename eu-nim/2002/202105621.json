@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Jūrlietu pārvaldes un jūras drošības likums.",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "168",
+  "official_journal_page": null,
+  "official_journal_date": "2002-11-19",
+  "entry_into_force": "2002-12-03",
+  "notification_date": "2021-07-28",
+  "commission_reference": "MNE(2021)05621",
+  "nim_celex": "71998L0041LVA_202105621",
+  "nim_id": "202105621",
+  "transposes_celex": [
+    "31998L0041"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/35b1ffd4-e76e-4398-b7ba-bb7a61714dff",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
