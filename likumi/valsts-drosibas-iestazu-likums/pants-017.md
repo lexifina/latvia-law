@@ -1,5 +1,5 @@
 17. pants. Informācijas aizsargāšana
-(1) Valsts drošības iestāžu dienestā esošajām un atvaļinātajām amatpersonām un darbiniekiem bez iestādes vadītāja īpaša pilnvarojuma aizliegts izpaust informāciju, kas viņiem kļuvusi zināma vai ir pieejama sakarā ar dienesta pienākumu pildīšanu. Šādu informāciju kriminālprocesā var izpaust tikai ar Satversmes aizsardzības biroja direktora vai attiecīgās valsts drošības iestādes vadītāja atļauju.
+(1) Valsts drošības iestāžu dienestā esošajām un atvaļinātajām amatpersonām un darbiniekiem bez iestādes vadītāja īpaša pilnvarojuma aizliegts izpaust informāciju, kas viņiem kļuvusi zināma vai ir pieejama sakarā ar dienesta pienākumu pildīšanu. Šādu informāciju kriminālprocesā var izpaust tikai ar attiecīgās valsts drošības iestādes vadītāja atļauju.
 (2) Valsts drošības iestāžu amatpersonas un darbinieki dod slepenības zvērestu:
 "Es, ___________________, zvēru, ka bez īpaša pilnvarojuma neizpaudīšu vai nedarīšu zināmu nevienai iestādei vai personai informāciju, kas man ir kļuvusi zināma vai pieejama sakarā ar dienesta pienākumu pildīšanu ___________________."
 (iestādes nosaukums)

@@ -9,4 +9,4 @@
 7) glabāt un nēsāt dienesta vai personiskos ieročus un speciālos līdzekļus pašaizsardzībai. To glabāšanas un nēsāšanas kārtību nosaka valsts drošības iestādes vadītājs. Pielietojot ieročus un speciālos līdzekļus, jāievēro likuma «Par policiju» prasības;
 8) savas kompetences ietvaros saņemt bez maksas nepieciešamo informāciju, dokumentus un citus materiālus par personām sniegtajiem pakalpojumiem, to skaitā informāciju no informācijas resursu un tehnisko resursu turētāja par personu sazināšanos, izmantojot pastu, telegrāfu, telekomunikāciju un datu pārraides tīklus;
 9) pildot dienesta pienākumus, pārbaudīt personu apliecinošus dokumentus.
-(2) Šajā pantā noteiktajā kārtībā iegūtā informācija izmantojama tikai izlūkošanas (pretizlūkošanas), operatīvās un kriminālprocesuālās darbības ietvaros.
+(2) Šajā pantā noteiktajā kārtībā iegūtā informācija izmantojama tikai izlūkošanas, pretizlūkošanas, operatīvās un kriminālprocesuālās darbības ietvaros.

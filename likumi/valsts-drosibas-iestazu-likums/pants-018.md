@@ -22,3 +22,4 @@
 (8) (Izslēgta ar 20.06.2000. likumu.)
 (9) Valsts drošības iestāžu amatpersonām ir visas ar likumu noteiktās sociālās garantijas. Tām tiek nodrošināta bezmaksas medicīniskā aprūpe.
 (10) Valsts drošības iestāžu amatpersonas ir pakļautas obligātai valsts apdrošināšanai.
+(11) Valsts drošības iestāžu darbiniekiem un amatpersonām ir tiesības uz apmaksātu papildu atvaļinājumu, ko piešķir valsts drošības iestādes vadītājs un kas nepārsniedz 12 darba dienas kalendāra gada laikā.
