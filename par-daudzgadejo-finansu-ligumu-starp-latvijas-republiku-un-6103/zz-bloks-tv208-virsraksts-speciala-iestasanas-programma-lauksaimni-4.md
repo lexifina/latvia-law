@@ -1,0 +1,31 @@
+Pēc mūsu domām, pārskati, kas paredzēti nodošanai Komisijai par 2000x. finansu gadu (datums DD/MM/GGGG), izņemot iepriekšējā rindkopā aprakstītās atšķirības, ir patiesi, pilnīgi un precīzi.
+Mūsu revīzija tika veikta laikā no DD/MM/GGGG līdz DD/MM/GGGG. Ziņojums par mūsu atklātajiem faktiem ir nodots tajā pašā datumā, kad izdots šis sertifikāts.
+[izdošanas datums + paraksts, vārds un amats + Sertifikācijas Institūcijas nosaukums un adrese]
+C. ATZINUMS AR PIEZĪMĒM -
+APJOMA IEROBEŽOJUMS
+Mēs esam veikuši gada pārskatus par izdevumiem, kas deklarēti Komisijai kā izdevumi, kuri [ SAPARD Aģentūras nosaukums un adrese ] radušies Programmas 200x. finansu gadam ietvaros. Mūsu kā Sertifikācijas Institūcijas pienākums ir izteikt atzinumu par šiem gada pārskatiem, pamatojoties uz mūsu veikto revīziju.
+Izņemot nākošajā rindkopā minēto, mēs veicām revīziju saskaņā ar starptautiski pieņemtajiem revīzijas standartiem un Daudzgadu finansu līguma Pielikuma A sadaļas 6. pantu. Mēs esam plānojuši un veikuši revīziju, lai iegūtu pietiekamu pārliecību par to, vai Komisijai nodotie pārskati nesatur būtiskus sagrozījumus. Revīzijas gaitā, veicot testus, tika pārbaudīti pierādījumi, kas sniegti kā pamatojums gada pārskatos ietvertajai informācijai, saistību dokumentācija, veiktas procedūru un, izlases kārtā, darījumu pārbaudes. Maksājumu atbilstība Daudzgadu finansu līgumam mūsu veiktās revīzija ietvaros tika pārbaudīta tikai attiecībā uz SAPARD Aģentūras administratīvās struktūras spēju nodrošināt šādas atbilstības pārbaudi pirms attiecīgā maksājuma izdarīšanas. Mūsu veiktā revīzija sniedz pietiekamu pamatu mūsu izteiktajam atzinumam.
+Sakarā ar [ piemēram ] SAPARD Aģentūras/ pilnvarotās institūcijas dokumentācijas RAKSTURU, mēs nevarējām pārliecināties par [minēt problēmas nosaukumu] pat izmantojot citas revīzijas procedūras (atsauce: revīzijas ziņojums L lappuse):
+Pēc mūsu domām, izņemot to korekciju sekas, ja tādas ir, kuru nepieciešamību mēs varētu būt atklājuši, ja mēs būtu varējuši pārliecināties par [minēt problēmas nosaukumu], pārskati, kas paredzēti nodošanai Komisijai par 2000x. finansu gadu (datums DD/MM/GGGG), ir patiesi, pilnīgi un precīzi.
+Mūsu revīzija tika veikta laikā no DD/MM/GGGG līdz DD/MM/GGGG. Ziņojums par mūsu atklātajiem faktiem ir nodots tajā pašā datumā, kad izdots šis sertifikāts.
+[izdošanas datums + paraksts, vārds un amats + Sertifikācijas Institūcijas nosaukums un adrese]
+D. ATTEIKUMS SNIEGT ATZINUMU -
+APJOMA IEROBEŽOJUMS
+Mēs esam veikuši gada pārskatus par izdevumiem, kas deklarēti Komisijai kā izdevumi, kuri [ SAPARD Aģentūras nosaukums un adrese ] radušies Programmas 200x. finansu gadam ietvaros. Mūsu kā Sertifikācijas Institūcijas pienākums ir izteikt atzinumu par šiem gada pārskatiem, pamatojoties uz mūsu veikto revīziju.
+Izņemot nākošajā rindkopā minēto, mēs veicām revīziju saskaņā ar starptautiski pieņemtajiem revīzijas standartiem un Daudzgadu finansu līguma Pielikuma A sadaļas 6. pantu. Mēs esam plānojuši un veikuši revīziju, lai iegūtu pietiekamu pārliecību par to, vai Komisijai nodotie pārskati nesatur būtiskus sagrozījumus. Revīzijas gaitā, veicot testus, tika pārbaudīti pierādījumi, kas sniegti kā pamatojums gada pārskatos ietvertajai informācijai, saistību dokumentācija, veiktas procedūru un, izlases kārtā, darījumu pārbaudes. Maksājumu atbilstība Daudzgadu finansu līgumam mūsu veiktās revīzija ietvaros tika pārbaudīta tikai attiecībā uz SAPARD Aģentūras administratīvās struktūras spēju nodrošināt šādas atbilstības pārbaudi pirms attiecīgā maksājuma izdarīšanas. Mūsu veiktā revīzija sniedz pietiekamu pamatu mūsu izteiktajam atzinumam.
+Mēs nevarējām pārbaudīt procedūras, kuras ir pamatā maksājumiem, ko veikušas institūcijas ar deleģētiem pienākumiem, sakarā ar apjoma ierobežojumiem, kurus mūsu darbam uzlika SAPARD Aģentūra (atsauce: revīzijas ziņojums L lappuse).
+Sakarā ar iepriekšējā rindkopā minēto jautājumu svarīgumu, mēs neizsakām atzinumu par to, vai pārskati, kas paredzēti nodošanai Komisijai par 2000x. finansu gadu (datums DD/MM/GGGG), ir patiesi, pilnīgi un precīzi.
+Mūsu revīzija tika veikta laikā no DD/MM/GGGG līdz DD/MM/GGGG. Ziņojums par mūsu atklātajiem faktiem ir nodots tajā pašā datumā, kad izdots šis sertifikāts.
+[izdošanas datums + paraksts, vārds un amats + Sertifikācijas Institūcijas nosaukums un adrese]
+E. NEGATĪVS ATZINUMS
+Mēs esam veikuši gada pārskatus par izdevumiem, kas deklarēti Komisijai kā izdevumi, kuri [ SAPARD Aģentūras nosaukums un adrese ] radušies Programmas 200x. finansu gadam ietvaros. Mūsu kā Sertifikācijas Institūcijas pienākums ir izteikt atzinumu par šiem gada pārskatiem, pamatojoties uz mūsu veikto revīziju.
+Mēs veicām revīziju saskaņā ar starptautiski pieņemtajiem revīzijas standartiem un Daudzgadu finansu līguma Pielikuma A sadaļas 6.pantu. Mēs esam plānojuši un veikuši revīziju, lai iegūtu pietiekamu pārliecību par to, vai Komisijai nodotie pārskati nesatur būtiskus sagrozījumus. Revīzijas gaitā, veicot testus, tika pārbaudīti pierādījumi, kas sniegti kā pamatojums gada pārskatos ietvertajai informācijai, saistību dokumentācija, veiktas procedūru un, izlases kārtā, darījumu pārbaudes. Maksājumu atbilstība Daudzgadu finansu līgumam mūsu veiktās revīzija ietvaros tika pārbaudīta tikai attiecībā uz SAPARD Aģentūras administratīvās struktūras spēju nodrošināt šādas atbilstības pārbaudi pirms attiecīgā maksājuma izdarīšanas. Mūsu veiktā revīzija sniedz pietiekamu pamatu mūsu izteiktajam atzinumam.
+SAPARD Aģentūras deklarētie izdevumi nesakrīt ar maksājumiem un kvītīm par attiecīgo periodu (atsauce: revīzijas ziņojums L lappuse).
+Mūsu uzskats ir tāds, ka sakarā ar iepriekšējā rindkopā aprakstītajām nesakritībām, pārskati, kas paredzēti nodošanai Komisijai par 2000x. finansu gadu (datums DD/MM/GGGG), nav patiesi, pilnīgi un precīzi.
+Mūsu revīzija tika veikta laikā no DD/MM/GGGG līdz DD/MM/GGGG. Ziņojums par mūsu atklātajiem faktiem ir nodots tajā pašā datumā, kad izdots šis sertifikāts.
+[izdošanas datums + paraksts, vārds un amats + Sertifikācijas Institūcijas nosaukums un adrese]
+5 Cf. Starptautiskais revīzijas un ar to saistīto pakalpojumu standarts Nr. 13 (13. SRS), ko izdevusi Starptautiskā Grāmatvežu Federācija (IFAC)
+F sadaļa
+Kopienas likumdošanas teksts, uz ko izdarītas atsauces
+saistībā ar šo līgumu pieņemtajos noteikumos (EK) 2222/2000
+par SAPARD finansu noteikumiem 6
