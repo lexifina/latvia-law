@@ -1,0 +1,1 @@
+Grozīt Rīgas pilsētas un Rīgas rajona administratīvās robežas, pievienojot Rīgas pilsētai Rīgas rajona Ķekavas pagasta zemes gabalu 10' saskaņā ar pagasta zemes ierīcības projektu un nosakot Rīgas pilsētas un Rīgas rajona administratīvo robežu par zemes gabalu 10' austrumu un dienvidu robežu.
