@@ -1,0 +1,1 @@
+1.pants. 1995.gada 22.februārī Maskavā parakstītais Latvijas Republikas valdības un Krievijas Federācijas valdības nolīgums par automobiļu starptautisko satiksmi (turpmāk - Nolīgums) un tā protokols ar šo likumu tiek pieņemti un apstiprināti.
