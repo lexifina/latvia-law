@@ -7,17 +7,19 @@ b) uzņēmuma (uzņēmējsabiedrības) īpašnieks (īpašnieki), kas, nebūdams
 c) Saeimas deputāts, pašvaldības deputāts, Ministru kabineta loceklis, valsts (pašvaldības) pilnvarnieks, uzņēmējsabiedrības valdes, padomes loceklis, kā arī cita persona, kura ieņem amatu, kas dod tiesības uz atlīdzību,
 d) persona, kura ir noslēgusi Civillikuma IV daļas 15.nodaļā paredzēto uzņēmuma, graudniecības vai pārvadājuma līgumu un nav reģistrējusies kā saimnieciskajā darbībā gūtā ienākuma nodokļa maksātāja,
 e) Iekšlietu ministrijas pakļautībā un pārraudzībā esošas iestādes ierindas vai komandējošā sastāva darbinieks vai Aizsardzības ministrijas pakļautībā un pārziņā esošas struktūrvienības militārpersona,
-f) valsts civildienesta ierēdnis (ierēdņa kandidāts);
+f) valsts civildienesta ierēdnis (ierēdņa kandidāts),
+g) likumā noteiktajā kārtībā iecelts (ievēlēts) uzņēmuma (uzņēmējsabiedrības) pārvaldnieks (direktors), kas, nebūdams darba tiesiskajās attiecībās ar šo uzņēmumu (uzņēmējsabiedrību), veic šā uzņēmuma (uzņēmējsabiedrības) operatīvās vadības funkciju;
 3) pašnodarbinātais - persona, kura gūst ienākumu kā:
 a) persona, kas veic individuālo darbu,
 b) (izslēgts ar 25.11.1999. likumu),
-c) persona, kas saņem autoratlīdzību,
+c) persona, kuras pastāvīgā dzīvesvieta ir Latvijas Republikā un kura saņem autoratlīdzību, izņemot autortiesību mantinieku un citu autortiesību pārņēmēju;
 d) zvērināts notārs,
 e) zvērināts advokāts,
 f) zvērināts revidents,
-g) prakses ārsts,
+g) prakses ārsts, prakses farmaceits, prakses veterinārārsts, prakses optometrists,
 h) cita fiziskā persona, kas reģistrējusies kā saimnieciskajā darbībā gūtā ienākuma nodokļa maksātāja,
 i) zemnieku (zvejnieku) saimniecības īpašnieks, kas, nebūdams darba tiesiskajās attiecībās ar savas zemnieku (zvejnieku) saimniecības pārvaldes institūciju, veic šīs zemnieku (zvejnieku) saimniecības vadības funkciju, ja šajā zemnieku (zvejnieku) saimniecībā likumā noteiktajā kārtībā nav iecelts (ievēlēts) pārvaldnieks (direktors),
-j) persona, kuras pastāvīgā dzīvesvieta ir Latvijas Republikā un kuras darbu apmaksā no Latvijas Republikai piešķirtajiem ārvalstu tehniskās palīdzības vai starptautisko finansu institūciju aizdevuma līdzekļiem Ministru kabineta noteiktajā kārtībā;
+j) persona, kuras pastāvīgā dzīvesvieta ir Latvijas Republikā un kuras darbu apmaksā no Latvijas Republikai piešķirtajiem ārvalstu tehniskās palīdzības vai starptautisko finansu institūciju aizdevuma līdzekļiem,
+k) zvērināts tiesu izpildītājs;
 4) iekšzemes darba ņēmējs pie darba devēja - ārvalstnieka - persona, kuru Latvijas Republikas teritorijā nodarbina darba devējs - ārvalstu nodokļu maksātājs, ja šīs personas pastāvīgā dzīvesvieta ir Latvijas Republikā;
 5) ārvalstu darba ņēmējs pie darba devēja - ārvalstnieka - persona, kuru nodarbina darba devējs - ārvalstu nodokļu maksātājs, ja šīs personas pastāvīgā dzīvesvieta nav Latvijas Republikā un tā uzturas Latvijas Republikā 183 dienas vai ilgāk jebkurā 12 mēnešu periodā, kas sākas vai beidzas taksācijas gadā.

@@ -1,4 +1,4 @@
-23.pants. Ziņojums par veiktajām iemaksām
+23.pants. Ziņojums par obligātajām iemaksām
 (1) Darba devējam ir pienākums līdz obligāto iemaksu veikšanai noteiktajam termiņam iesniegt Valsts ieņēmumu dienestam ziņojumu par obligāto iemaksu objektu un obligātajām iemaksām no darba ņēmēju darba ienākumiem Ministru kabineta noteiktajā kārtībā.
 (2) Pašnodarbinātajiem, iekšzemes darba ņēmējiem pie darba devēja - ārvalstnieka un ārvalstu darba ņēmējiem pie darba devēja - ārvalstnieka ir pienākums līdz obligāto iemaksu veikšanai noteiktajam termiņam iesniegt Valsts ieņēmumu dienestam ziņojumu par obligāto iemaksu objektu un obligātajām iemaksām Ministru kabineta noteiktajā kārtībā.
 (3) Valsts ieņēmumu dienests Ministru kabineta noteiktajā kārtībā sniedz Valsts sociālās apdrošināšanas aģentūrai ziņas par veiktajām sociālās apdrošināšanas iemaksām.

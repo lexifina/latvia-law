@@ -1,0 +1,1 @@
+17. Ja darba devējs par laika periodu līdz 2001.gada 13.martam (ieskaitot) obligātās iemaksas nav veicis pilnā apmērā, iemaksātā summa tiek sadalīta proporcionāli starp attiecīgā darba devēja darba ņēmējiem.
