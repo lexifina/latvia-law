@@ -1,0 +1,1 @@
+1. pants. 1993. gada 17. decembrī Viļņā parakstītā Latvijas Republikas un Lietuvas Republikas konvencija dubultās aplikšanas ar nodokļiem un nodokļu nemaksas novēršanai ar šo likumu tiek pieņemta un apstiprināta.
