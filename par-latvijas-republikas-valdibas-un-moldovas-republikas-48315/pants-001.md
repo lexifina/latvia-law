@@ -1,0 +1,1 @@
+1.pants. 1998.gada 25.februārī Rīgā parakstītais Latvijas Republikas valdības un Moldovas Republikas valdības līgums par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
