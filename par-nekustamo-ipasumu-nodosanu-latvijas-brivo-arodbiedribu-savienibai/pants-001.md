@@ -1,0 +1,1 @@
+1.pants. Nodot nekustamo īpašumu Rīgā, Bruņinieku ielā 29/31 (zemes kadastra nr. 01000280076) un nekustamo īpašumu Rīgā, Vaļņu ielā 32 (zemes kadastra nr.01000050111) bez atlīdzības Latvijas Brīvo arodbiedrību savienības īpašumā.
