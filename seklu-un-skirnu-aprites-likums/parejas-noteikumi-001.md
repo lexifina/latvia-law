@@ -1,1 +1,1 @@
-1. Ministru kabinets līdz 2000.gada 1.oktobrim izdod katras kultūraugu grupas sēklaudzēšanas un sēklu tirdzniecības noteikumus. Līdz šo noteikumu izdošanai tiek piemēroti ar Lauksaimniecības ministrijas 1993.gada 26.maija pavēli nr.278 apstiprinātie lauksaimniecības kultūru sēklaudzēšanas noteikumi un nozares standarti sēklu kvalitātes noteikšanai.
+1. Līdz 2005.gada 1.janvārim sēklu sertifikāciju, kas noteikta 7.panta otrās daļas 1.punkta "b" apakšpunktā, veic tikai eksportam paredzētajām sēklām.

@@ -1,0 +1,1 @@
+4. Līdz pārejas noteikumu 3.punktā minētā nolikuma apstiprināšanai ir spēkā Ministru kabineta 2001.gada 13.marta noteikumi nr.121 "Nacionālās augu šķirņu padomes nolikums", ciktāl tie nav pretrunā ar šo likumu.

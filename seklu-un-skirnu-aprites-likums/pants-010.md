@@ -1,3 +1,4 @@
 10.pants. Sēklu pēcpārbaude kontrollauciņos
-(1) Sēklu pēcpārbaudi kontrollauciņos - sēklu šķirnes tipiskuma un šķirnes tīrības pārbaudi, izsējot laukā, - pēc zemkopības ministra apstiprinātas metodikas veic Valsts augu aizsardzības dienests.
-(2) Ja pēcpārbaudē konstatēts, ka kāda no sēklu partijām neatbilst sēklaudzēšanas un sēklu tirdzniecības noteikumu prasībām, Valsts augu aizsardzības dienests anulē iepriekš izsniegto sēklas sertifikātu.
+Valsts augu aizsardzības dienests veic sēklu pēcpārbaudi saskaņā ar zemkopības ministra apstiprinātu metodiku, kas izstrādāta, pamatojoties uz starptautiski atzītām metodēm:
+1) sēklu partijām - šķirnes identitātes un šķirnes tīrības noteikšanai kontrollauciņos;
+2) sēklas kartupeļiem - vīrusu infekcijas pakāpes laboratoriskai noteikšanai.

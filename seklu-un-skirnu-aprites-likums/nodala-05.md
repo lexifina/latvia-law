@@ -1,2 +1,2 @@
 V nodaļa
-Augu šķirņu katalogi
+Latvijas augu šķirņu katalogs

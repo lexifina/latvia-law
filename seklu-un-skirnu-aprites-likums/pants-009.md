@@ -1,3 +1,3 @@
 9.pants. Sēklu kvalitātes novērtēšana
-(1) Pēc sēklaudzētāju pieteikuma Valsts augu aizsardzības dienests novērtē sēklu partiju kvalitāti saskaņā ar sēklaudzēšanas un sēklu tirdzniecības noteikumiem un izsniedz sēklas sertifikātu.
-(2) Ja sēklas neatbilst pieteiktās kategorijas prasībām, Valsts augu aizsardzības dienests pazemina sēklu kategoriju līdz tai kategorijai, kuras prasībām sēklas atbilst, vai sniedz motivētu sēklas sertifikāta izsniegšanas atteikumu.
+(1) Pēc sēklaudzētāja pieteikuma Valsts augu aizsardzības dienests noņem sēklu paraugu, novērtē sēklu kvalitāti saskaņā ar sēklaudzēšanas un sēklu tirdzniecības noteikumiem un izsniedz sēklas sertifikātu. Ja sēklas neatbilst pieteiktās kategorijas prasībām, Valsts augu aizsardzības dienests pazemina sēklu kategoriju līdz tādai kategorijai, kuras prasībām sēklas atbilst. Paraugu ņemšanu un sēklu novērtēšanu veic saskaņā ar starptautiski atzītām metodēm.
+(2) Ja sēklu kvalitāte neatbilst sēklaudzēšanas un sēklu tirdzniecības noteikumu prasībām, Valsts augu aizsardzības dienests pieņem par to lēmumu, izsniedzot sēklaudzētājam faktiskos sēklu kvalitātes novērtēšanas rezultātus.
