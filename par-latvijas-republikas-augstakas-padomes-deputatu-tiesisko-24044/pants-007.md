@@ -1,0 +1,2 @@
+7.pants. (1) Saeimas Prezidijs apstiprina šā likuma 1.pantā minēto deputātu īpašās apliecības paraugu, īpašās krūšu nozīmes aprakstu, kā arī nosaka kārtību, kādā tiek realizētas šā likuma 2., 3. un 4.pantā minētās tiesības.
+(2) Izdevumi, kas nepieciešami šā likuma 2., 3. un 4.pantā minēto tiesību realizācijai, finansējami no valsts pamatbudžeta līdzekļiem, kuri piešķirti Saeimai saskaņā ar gadskārtējā valsts budžeta likuma apropriāciju.

@@ -1,0 +1,1 @@
+1. Izdevumi, kas nepieciešami šā likuma izpildei un speciālo valsts pensiju izmaksai 1999.gadā, finansējami no valsts pamatbudžeta līdzekļiem, kuri iekļauti Finansu ministrijas budžetā neparedzētiem gadījumiem.
