@@ -1,0 +1,1 @@
+1.pants. Eiropas Padomes 1949.gada 2.septembra Vispārējais līgums par Eiropas Padomes privilēģijām un imunitātēm (turpmāk - Vispārējais līgums), tā protokols (turpmāk - Protokols) un otrais, ceturtais, piektais un sestais protokols ar šo likumu tiek pieņemti un apstiprināti.

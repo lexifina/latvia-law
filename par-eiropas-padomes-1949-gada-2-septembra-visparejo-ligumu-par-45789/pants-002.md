@@ -1,0 +1,1 @@
+2.pants. Likums stājas spēkā tā izsludināšanas dienā. Līdz ar likumu izsludināms Vispārējais līgums, tā Protokols un otrais, ceturtais, piektais un sestais protokols angļu valodā un to tulkojums latviešu valodā.

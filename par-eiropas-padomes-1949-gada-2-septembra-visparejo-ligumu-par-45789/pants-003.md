@@ -1,0 +1,1 @@
+3.pants. Pilnvarot Latvijas Republikas ārkārtējo un pilnvaroto vēstnieku Eiropas padomē Andri Teikmani parakstīt Vispārējā līguma otro, ceturto, piekto un sesto protokolu bez atrunas par to ratifikāciju.
