@@ -16,3 +16,4 @@ Darbinieku atvaļina no dienesta sakarā ar:
 9) spēkā stājušos tiesas spriedumu par noziedzīga nodarījuma izdarīšanu;
 10) darbinieka nāvi.
 Policijas darbinieks ir tiesīgs pārsūdzēt tiesā lēmumu par viņa atvaļināšanu no dienesta.
+Policijas darbinieku pārcelšanas kārtību nosaka Valsts civildienesta likums.
