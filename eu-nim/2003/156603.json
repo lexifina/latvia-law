@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2003.gada 17.jūnija noteikumi Nr.323 „Noteikumi par apmācību darba aizsardzības jautājumos”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "94",
+  "official_journal_page": null,
+  "official_journal_date": "2003-06-21",
+  "entry_into_force": "2003-07-01",
+  "notification_date": "2008-06-26",
+  "commission_reference": "MNE(2008)53679",
+  "nim_celex": "71989L0391LVA_156603",
+  "nim_id": "156603",
+  "transposes_celex": [
+    "31989L0391"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fafea28b-0101-41e7-90d5-536077b48886",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
