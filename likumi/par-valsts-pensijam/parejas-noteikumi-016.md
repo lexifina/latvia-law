@@ -22,4 +22,5 @@ Ie = Ip:G:12
 Ie - ikmēneša ieturējums
 Ip - izmaksātās pensijas summa laikā no 1996.gada 1.janvāra līdz vecuma vai izdienas pensijas piešķiršanai no jauna
 G - laika posms (gados), par kuru no pensijas piešķiršanas gada tiek plānota vecuma pensijas izmaksa. Izdienas pensijas piešķiršanas gadījumā izmantojams laika posms 60 gadu vecumā.
-No jauna piešķirtās vecuma vai izdienas pensijas saņēmējam ir tiesības pieprasīt, lai viņam nosaka lielāku ikmēneša ieturējuma apmēru, kā arī izmaksāto pensijas summu valsts pensiju speciālajā budžetā atmaksāt vienā reizē.
+No jauna piešķirtās vecuma vai izdienas pensijas saņēmējam ir tiesības pieprasīt, lai viņam nosaka lielāku ikmēneša ieturējuma apmēru, kā arī izmaksāto pensijas summu valsts pensiju speciālajā budžetā atmaksāt vienā reizē;
+13) valsts pensija, kas piešķirta līdz 1997.gada 1.janvārim, personām, kuras sasniegušas 80 gadu vecumu, palielināma par 10 procentiem no pensijas apmēra.
