@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Darba likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "105",
+  "official_journal_page": null,
+  "official_journal_date": "2001-07-06",
+  "entry_into_force": null,
+  "notification_date": "2005-03-15",
+  "commission_reference": "MNE(2005)56115",
+  "nim_celex": "72002L0073LVA_36115",
+  "nim_id": "36115",
+  "transposes_celex": [
+    "32002L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ecea3c9e-55af-4a0d-9d15-da5eb53fed29",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
