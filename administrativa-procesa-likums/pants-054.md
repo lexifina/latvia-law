@@ -1,0 +1,5 @@
+54.pants. Informācijas sniegšana privātpersonai
+(1) Ja no privātpersonas saņemts informācijas pieprasījums sakarā ar kādu administratīvo procesu, iestāde sniedz attiecīgo informāciju, kas ir tās rīcībā, izņemot gadījumus, kad šī informācija saskaņā ar likumu uzskatāma par ierobežotas pieejamības informāciju.
+(2) Ja pieprasītā informācija daļēji satur informāciju, kas nav izpaužama saskaņā ar likumu, privātpersonai izsniedz informācijas daļu, ja tā pēc neizpaužamās informācijas daļas izņemšanas nav zaudējusi vai mainījusi savu pamatjēgu.
+(3) Informāciju par fiziskās personas privāto dzīvi, izņemot tiesību normās noteiktos gadījumus, var sniegt tikai ar šīs personas piekrišanu. Ja saskaņā ar tiesību normām šo informāciju drīkst pieprasīt un saņemt cita privātpersona, informāciju var sniegt tad, kad šī privātpersona ir pierādījusi savu interešu pamatotību.
+(4) Privātpersonai ir tiesības iepazīties ar iestādes rīcībā esošo informāciju par sevi, pieprasīt kļūdu labojumu, kā arī tādas informācijas dzēšanu, kuras vākšanu vai uzglabāšanu tiesību normas neparedz vai kura iegūta prettiesiski.

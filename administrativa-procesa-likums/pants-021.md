@@ -1,0 +1,10 @@
+21.pants. Privātpersonas administratīvi procesuālā rīcībspēja
+(1) Administratīvi procesuālā rīcībspēja ir:
+1) pilngadīgai rīcībspējīgai fiziskajai personai;
+2) privāto tiesību juridiskajai personai;
+3) personu apvienībai, kurai ir atzīstama procesuālā tiesībspēja.
+(2) Tās fiziskās personas procesuālās tiesības, kura nav sasniegusi 15 gadu vecumu vai kura atzīta par rīcībnespējīgu, īsteno šīs personas likumiskais pārstāvis.
+(3) Tās fiziskās personas procesuālās tiesības, kura sasniegusi vecumu no 15 līdz 18 gadiem, īsteno šīs personas likumiskais pārstāvis. Šādās lietās iestāde vai tiesa uzaicina piedalīties arī attiecīgo nepilngadīgo personu.
+(4) Likumā noteiktajos gadījumos nepilngadīgā persona ir tiesīga patstāvīgi īstenot savas procesuālās tiesības un izpildīt pienākumus. Ja likums nepilngadīgai personai, kas sasniegusi 15 gadu vecumu, piešķīris tiesības patstāvīgi griezties iestādē, tai ir tiesības administratīvo aktu vai iestādes faktisko rīcību patstāvīgi pārsūdzēt tiesā. Šādā lietā pēc iestādes vai tiesas ieskata var pieaicināt šīs personas likumisko pārstāvi, lai viņš sniegtu tai palīdzību lietas vešanā.
+(5) Privāto tiesību juridiskās personas lietas ved tās orgāns vai pilnvarota persona.
+(6) Personu apvienības lietas ved tās līgumiskais pārstāvis vai pilnvarota persona.

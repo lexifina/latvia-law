@@ -1,0 +1,4 @@
+183.pants. Personu apvienības viedoklis (Amicus curiae)
+(1) Personu apvienība, kura uzskatāma par atzītu interešu pārstāvi kādā nozarē un no kuras var sagaidīt lietpratīgus atzinumus, var rakstveidā lūgt tiesai atļauju iesniegt savu viedokli par faktiem vai tiesībām attiecīgajā nozarē.
+(2) Ja tiesa uzskata, ka attiecīgās personu apvienības viedoklis var palīdzēt tiesai pieņemt objektīvu lēmumu lietā, tā nosaka jautājumus, par kuriem personu apvienība var iesniegt savu viedokli. Jautājumiem jābūt saistītiem ar izskatāmo lietu. Personu apvienība nevar dot faktisku vai tiesisku novērtējumu konkrētajā administratīvajā lietā.
+(3) Ja tiesa uzskata, ka saņemtais viedoklis atbilst šā panta otrās daļas prasībām, tā nosūta šo viedokli visiem administratīvā procesa dalībniekiem un nosaka termiņu, kurā procesa dalībnieki var izteikt savu viedokli par to. Saņemto administratīvā procesa dalībnieku viedokļu norakstus tiesa nosūta pārējiem administratīvā procesa dalībniekiem.

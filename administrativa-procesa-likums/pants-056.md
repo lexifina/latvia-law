@@ -1,0 +1,6 @@
+56.pants. Lietas ierosināšana uz iesnieguma pamata
+(1) Iesniegumu var iesniegt mutvārdos vai rakstveidā. Iesniegumā norādāms iesniedzēja vārds un uzvārds, dzīvesvieta (juridiskajai personai - nosaukums, adrese, reģistrācijas numurs), prasījums; uz tā jābūt iesniedzēja parakstam. Mutvārdu iesniegumu iestāde tūlīt noformē rakstveidā, un iesniedzējs to paraksta.
+(2) Ja iesniegums nav iesniegts pēc piekritības, institūcija var šo iesniegumu nepieņemt. Par to iesniedzējam nekavējoties izdod rakstveida izziņu, kurā norāda arī iestādi, kam lieta ir piekritīga. Institūcija, kurā iesniedzējs griezies, var arī iesniegumu pieņemt un nogādāt iestādei, kurai lieta ir piekritīga. Ja šāds iesniegums atsūtīts pa pastu, attiecīgā institūcija septiņu dienu laikā to nosūta pēc piekritības un paziņo par to iesniedzējam.
+(3) Strīdus par lietas piekritību izšķir padotības kārtībā kopīga augstāka institūcija vai Ministru kabineta noteikta institūcija.
+(4) Iestāde, kurai lieta ir piekritīga, pieņem personas iesniegumu arī tad, ja tā uzskata, ka iesniegums nav pareizi noformēts vai nav pamatots.
+(5) Iestāde pēc iespējas sniedz iesniedzējam nepieciešamo informāciju vai cita veida palīdzību jautājuma sekmīgai atrisināšanai atbilstoši iesniedzēja interesēm.

@@ -1,0 +1,2 @@
+6.pants. Vienlīdzības princips
+Pastāvot vienādiem faktiskajiem un tiesiskajiem lietas apstākļiem, iestāde un tiesa pieņem vienādus lēmumus (pastāvot atšķirīgiem faktiskajiem vai tiesiskajiem lietas apstākļiem, - atšķirīgus lēmumus) neatkarīgi no administratīvā procesa dalībnieku dzimuma, vecuma, rases, ādas krāsas, valodas, reliģiskās pārliecības, politiskajiem vai citiem uzskatiem, sociālās izcelšanās, tautības, izglītības, sociālā un mantiskā stāvokļa, nodarbošanās veida un citiem apstākļiem.

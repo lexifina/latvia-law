@@ -1,0 +1,2 @@
+256.pants. Spriedums par publiski tiesisku attiecību pastāvēšanas, nepastāvēšanas vai to satura konstatāciju
+Ja pieteikuma priekšmets ir konkrētu publiski tiesisko attiecību pastāvēšanas, nepastāvēšanas vai to satura konstatācija, tiesa taisa spriedumu, kurā tiek konstatēts, ka konkrētas publiski tiesiskās attiecības pastāv vai nepastāv vai tiek noteikts to saturs (no tām izrietošās tiesības un pienākumi).

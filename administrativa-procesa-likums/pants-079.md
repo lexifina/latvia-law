@@ -1,0 +1,3 @@
+79.pants. Administratīvā akta apstrīdēšanas termiņš
+(1) Administratīvo aktu var apstrīdēt viena mēneša laikā no tā spēkā stāšanās dienas, bet, ja rakstveidā izdotajā administratīvajā aktā nav norādes, kur un kādā termiņā to var apstrīdēt, - viena gada laikā no tā spēkā stāšanās dienas.
+(2) Privātpersona, kuras tiesības vai tiesiskās intereses attiecīgais administratīvais akts ierobežo un kura administratīvajā procesā nav bijusi pieaicināta kā trešā persona, var šo administratīvo aktu apstrīdēt viena mēneša laikā no dienas, kad privātpersona par to ir uzzinājusi, bet ne vēlāk kā viena gada laikā no attiecīgā administratīvā akta spēkā stāšanās dienas.

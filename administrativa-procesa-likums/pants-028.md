@@ -1,0 +1,7 @@
+28.pants. Trešā persona
+(1) Par trešo personu administratīvajā procesā var būt privātpersona, kuras tiesības vai tiesiskās intereses attiecīgais administratīvais akts var ierobežot vai kuru var skart tiesas spriedums lietā.
+(2) Publisko tiesību subjekts var būt par trešo personu gadījumos, kad tas atrodas salīdzināmā situācijā ar privātpersonu, kura var būt par trešo personu administratīvajā procesā, kā arī tad, ja tas noteikts ārējā normatīvajā aktā.
+(3) Trešajai personai administratīvā procesa dalībnieka statusu piešķir ar iestādes vai tiesas lēmumu pēc šīs personas iesnieguma. Trešo personu var pieaicināt piedalīties lietā arī pēc administratīvā procesa dalībnieka vai tiesas iniciatīvas.
+(4) Uz trešo personu attiecas administratīvā procesa dalībnieku procesuālās tiesībspējas un rīcībspējas noteikumi. Tai ir iesniedzēja vai pieteicēja procesuālās tiesības ar izņēmumiem, kas noteikti šajā likumā.
+(5) Lēmumu par trešās personas pielaišanu iestādē šī persona, adresāts vai iespējamais adresāts var apstrīdēt septiņu dienu laikā pēc tam, kad lēmums attiecīgajai personai paziņots vai citādi kļuvis zināms, augstākā iestādē, bet, ja augstākas iestādes nav vai tā ir Ministru kabinets, - pārsūdzēt tiesā. Augstākas iestādes lēmumu septiņu dienu laikā var pārsūdzēt tiesā. Tiesas lēmums nav pārsūdzams.
+(6) Trešās personas pielaišana vai pieaicināšana tiesā notiek saskaņā ar šā likuma 146.pantu.

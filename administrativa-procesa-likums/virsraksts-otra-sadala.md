@@ -1,0 +1,2 @@
+OTRĀ SADAĻA
+PIERĀDĪJUMI

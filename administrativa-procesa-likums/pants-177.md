@@ -1,0 +1,2 @@
+177.pants. Atbildība par rakstveida un lietisko pierādījumu neiesniegšanu
+Ja tiesai nav paziņots, ka nav iespējams iesniegt pieprasītos rakstveida vai lietiskos pierādījumus, vai arī tie nav iesniegti tādu iemeslu dēļ, ko tiesa atzinusi par neattaisnojošiem, tiesa var uzlikt attiecīgajai personai piespiedu naudu līdz divdesmit pieciem latiem. Piespiedu naudas samaksa neatbrīvo šo personu no pienākuma iesniegt tiesas pieprasītos pierādījumus.

@@ -1,0 +1,2 @@
+96.pants. Iesniedzēja pienākums samazināt zaudējumus un sadarboties
+Iesniedzējam ir pienākums savu zināšanu un praktisko iespēju robežās darīt visu iespējamo, lai samazinātu savus zaudējumus vai kaitējumu, kā arī darīt iestādei zināmus apstākļus, kurus tai nepieciešams zināt, lai konstatētu attiecīgā publisko tiesību subjekta atbildības pamatu un nodarīto zaudējumu vai kaitējuma apmēru. Ja iesniedzējs šo pienākumu nepamatoti nepilda, vēlāk, apstrīdot iestādes lēmumu augstākā iestādē vai pārsūdzot to tiesā, viņš uz attiecīgajiem apstākļiem nevar atsaukties.

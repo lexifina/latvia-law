@@ -1,0 +1,5 @@
+150.pants. Pierādīšanas pienākums
+(1) Iestādei jāpierāda tie apstākļi, uz kuriem tā atsaucas kā uz savu iebildumu pamatojumu.
+(2) Iestāde var atsaukties tikai uz tiem pamatojumiem, kuri minēti administratīvajā aktā.
+(3) Pieteicējam atbilstoši savām iespējām jāpiedalās pierādījumu savākšanā.
+(4) Ja administratīvā procesa dalībnieku iesniegtie pierādījumi nav pietiekami, tiesa savāc tos pēc savas iniciatīvas.

@@ -1,0 +1,3 @@
+230.pants. Nepilngadīga liecinieka nopratināšana
+(1) Nepilngadīga liecinieka nopratināšana pēc tiesas ieskata izdarāma likumiskā pārstāvja, bērnu tiesību speciālista, psihologa vai pedagoga klātbūtnē. Arī šīs personas var uzdot jautājumus nepilngadīgajam lieciniekam.
+(2) Ja tas nepieciešams patiesības noskaidrošanai, nepilngadīgā liecinieka nopratināšanas laikā pēc tiesas lēmuma var izraidīt no tiesas sēžu zāles jebkuru administratīvā procesa dalībnieku un tiesas sēžu zālē klātesošu personu. Pēc administratīvā procesa dalībnieka atgriešanās tiesas sēžu zālē viņu iepazīstina ar nepilngadīgā liecinieka liecībām un dod viņam iespēju uzdot šim lieciniekam jautājumus.

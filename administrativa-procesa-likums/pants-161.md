@@ -1,0 +1,5 @@
+161.pants. Paskaidrojumi
+(1) Administratīvā procesa dalībnieka paskaidrojumi, kas satur ziņas par faktiem, uz kuriem pamatoti viņa prasījumi vai iebildumi, atzīstami par pierādījumiem, ja tos apstiprina citi pārbaudīti un novērtēti pierādījumi.
+(2) Ja viens administratīvā procesa dalībnieks atzīst faktu, uz kuru otrs administratīvā procesa dalībnieks pamato savus prasījumus vai iebildumus, tiesa var atzīt šādu faktu par pierādītu, ja tai nav šaubu, ka atzīšana nav notikusi viltus, vardarbības, draudu vai maldības ietekmē vai arī lai slēptu patiesību.
+(3) Ja citu pierādīšanas līdzekļu nav vai arī tie nav pietiekami droši, pieteicējs - fiziskā persona ar zvērestu var apstiprināt savus paskaidrojumus. Par apzināti nepatiesu ziņu sniegšanu tiesai pieteicēju var saukt pie kriminālatbildības saskaņā ar Krimināllikumu. Pieteicējs zvērestu var nodot tikai personiski, un pārstāvība nav pieļaujama.
+(4) Zvērests kā pierādīšanas līdzeklis nav pieļaujams attiecībā uz tādiem apstākļiem, kuri nodibināti ar spēkā stājušos tiesas spriedumu, kā arī vispārzināmu faktu apstiprināšanai vai atspēkošanai.

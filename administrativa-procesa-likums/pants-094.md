@@ -1,0 +1,9 @@
+94.pants. Atlīdzināšanas pienākums
+(1) Atlīdzinājumu prasa no:
+1) Latvijas Republikas, ja mantisko zaudējumu vai personisko kaitējumu nodarījusi tiešās pārvaldes iestāde;
+2) pašvaldības vai citas atvasinātas publisko tiesību juridiskās personas, ja mantisko zaudējumu vai personisko kaitējumu nodarījusi pastarpinātās pārvaldes iestāde, pildot funkcijas, kas ietilpst attiecīgās publisko tiesību juridiskās personas autonomajā kompetencē;
+3) Latvijas Republikas, ja mantisko zaudējumu vai personisko kaitējumu nodarījusi pastarpinātās pārvaldes iestāde, pildot Latvijas Republikas funkcijas vai uzdevumus;
+4) cita publisko tiesību subjekta, ja tam piemīt procesuālā tiesībspēja un ir patstāvīgs budžets (22.panta otrā daļa), kas neietilpst nevienas šīs panta daļas 1. vai 2.punktā minētās publisko tiesību juridiskās personas budžetā, un publisko tiesību subjekts ir nodarījis zaudējumus vai personisko kaitējumu jomā, kurā tas darbojas sava budžeta ietvaros.
+(2) Ja iestādi finansē no dažādiem budžetiem un nav iespējams nodalīt, kuras publisko tiesību juridiskās personas uzdevumus tā pilda, atlīdzinājumu prasa no tās publisko tiesību juridiskās personas budžeta, no kura iestāde saņem lielāko finansējumu. Ja divu vai vairāku publisko tiesību subjektu finansējums ir vienāds, atlīdzinājumu prasa no viena publisko tiesību subjekta pēc iesniedzēja vai pieteicēja izvēles. Ja viens no budžetiem ir valsts pamatbudžets, atlīdzinājumu prasa no Latvijas Republikas.
+(3) Ja iestāde ir privātpersona, atlīdzinājumu prasa no tās šā panta pirmajā daļā minētās publisko tiesību juridiskās personas, kuras orgāns vai iestāde privātpersonu apveltījusi ar valsts varu.
+(4) Atlīdzināšanas pienākumu attiecīgais publisko tiesību subjekts var izpildīt, atjaunojot stāvokli, kāds pastāvēja pirms zaudējuma vai kaitējuma nodarīšanas, vai, ja tas nav vai nav pilnībā iespējams vai nav adekvāti, samaksājot atbilstīgu atlīdzinājumu naudā.

@@ -1,0 +1,3 @@
+366.pants. Uz naudas maksājumu vērsta administratīvā akta piespiedu izpildes priekšnoteikumi
+(1) Administratīvo aktu, kas uzliek adresātam pienākumu samaksāt noteiktu naudas summu, izpilda uz izpildrīkojuma pamata, piemērojot Civilprocesa likuma noteikumus par naudas summu piedziņu.
+(2) Administratīvo aktu, kas uzliek adresātam pienākumu samaksāt noteiktu naudas summu, piespiedu kārtā izpilda, ja tas izdots rakstveidā, ievērojot šā likuma 67.panta noteikumus, un ja adresātam saskaņā ar šā likuma 361. un 362.pantu ir izteikts rakstveida brīdinājums. Izņēmumi, kas noteikti šā likuma 360.panta otrajā un trešajā daļā un 361.panta sestajā un astotajā daļā, nav piemērojami.
