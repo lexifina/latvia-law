@@ -3,12 +3,17 @@
 (2) Līguma noteikumi formulējami vienkāršā un saprotamā valodā. Neskaidri un neprecīzi rakstveida līguma noteikumi tiek tulkoti par labu patērētājam.
 (3) Līguma noteikums, kuru līgumslēdzējas puses savstarpēji nav apspriedušas, ir netaisnīgs, ja tas pretēji labticīguma prasībām rada būtisku neatbilstību līgumā noteiktajās līgumslēdzēju pušu tiesībās un pienākumos par sliktu patērētājam. Par netaisnīgiem līguma noteikumiem uzskatāmi noteikumi, kas:
 1) ir pretrunā ar šā likuma 5.pantu;
-2) samazina ražotāja, pārdevēja vai pakalpojuma sniedzēja atbildību vai atbrīvo tos no atbildības gadījumos, kad patērētājs guvis veselības bojājumu, vai patērētāja nāves gadījumā, kuram par cēloni bijusi ražotāja, pārdevēja vai pakalpojuma sniedzēja darbība vai bezdarbība;
-3) ierobežo vai izslēdz iespēju patērētājam izmantot savas likumīgās prasījuma tiesības gadījumā, kad ražotājs, pārdevējs vai pakalpojuma sniedzējs nav izpildījis līgumsaistības vai ir tās izpildījis daļēji;
+2) samazina ražotāja, pārdevēja vai pakalpojuma sniedzēja atbildību vai atbrīvo tos no atbildības gadījumos, kad patērētājs guvis kaitējumu veselībai, vai patērētāja nāves gadījumā, kuram par cēloni bijusi ražotāja, pārdevēja vai pakalpojuma sniedzēja darbība vai bezdarbība;
+3) ierobežo vai izslēdz iespēju patērētājam izmantot savas likumīgās prasījuma tiesības gadījumā, kad ražotājs, pārdevējs vai pakalpojuma sniedzējs nav izpildījis līgumsaistības vai ir tās izpildījis daļēji, ieskaitot arī ražotāja, pārdevēja vai pakalpojuma sniedzēja prasījuma dzēšanu ar patērētāja pretprasījumu;
 4) uzliek patērētājam, kurš neizpilda līgumsaistības, neproporcionāli lielu līgumsodu;
 5) paredz preces vai pakalpojuma cenas noteikšanu piegādes brīdī vai atļauj ražotājam, pārdevējam vai pakalpojuma sniedzējam palielināt cenu un nedod patērētājam tiesības atcelt līgumu, ja galīgā cena ir pārmērīgi augsta salīdzinājumā ar cenu, par kuru līgumslēdzējas puses vienojās, slēdzot līgumu;
 6) ierobežo ražotāja, pārdevēja vai pakalpojuma sniedzēja pienākumu pildīt saistības, ko uzņēmies viņa pārstāvis, vai pakārto šīs saistības kādai formalitātei;
-7) izslēdz vai kavē patērētāja tiesības vērsties patērētāju tiesību aizsardzības iestādēs vai tiesā, paredz strīdu izskatīšanu tikai šķīrējtiesā.
+7) izslēdz vai kavē patērētāja tiesības vērsties patērētāju tiesību aizsardzības iestādēs vai tiesā, paredz strīdu izskatīšanu tikai šķīrējtiesā;
+8) atļauj ražotājam, pārdevējam vai pakalpojuma sniedzējam vienpusēji atkāpties no līguma, izņemot gadījumu, kad tāda iespēja ir nodrošināta arī patērētājam, vai atļauj ražotājam, pārdevējam vai pakalpojuma sniedzējam izbeigt beztermiņa līgumu bez brīdinājuma;
+9) paredz automātiski pagarināt noteikta termiņa līgumu, ja patērētājs neinformē par līguma nepagarināšanu, un nosaka patērētājam nepamatoti īsu laiku šīs informācijas sniegšanai;
+10) atļauj ražotājam, pārdevējam vai pakalpojuma sniedzējam paturēt patērētāja samaksāto summu, ja patērētājs atkāpjas no līguma, bet neparedz patērētājam tādu pašu iespēju, proti, saņemt ekvivalentu summu, ja ražotājs, pārdevējs vai pakalpojuma sniedzējs atkāpjas no līguma;
+11) atļauj ražotājam, pārdevējam vai pakalpojuma sniedzējam nodot tālāk savas tiesības un pienākumus, tādējādi samazinot piedāvātās garantijas apjomu bez patērētāja piekrišanas;
+12) atļauj ražotājam, pārdevējam vai pakalpojuma sniedzējam vienpusēji grozīt līguma noteikumus vai preces vai pakalpojuma raksturojumu.
 (4) Novērtējot līguma noteikumus, ņem vērā pārdotās preces vai sniegtā pakalpojuma raksturu, visus apstākļus, kādos līgums noslēgts, kā arī noslēgtā līguma un ar to saistītā līguma noteikumus.
 (5) Līguma noteikums vienmēr ir uzskatāms par savstarpēji neapspriestu, ja līgums sastādīts iepriekš un patērētājam nav bijis iespējams ietekmēt attiecīgā līguma noteikumus.
 (6) Ja ir apspriesti līguma atsevišķi noteikumi vai atsevišķu noteikumu attiecīgi aspekti, tad nevar uzskatīt, ka savstarpēji apspriesti ir arī pārējie līguma noteikumi.

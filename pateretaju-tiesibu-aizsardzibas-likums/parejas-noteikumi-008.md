@@ -1,0 +1,1 @@
+8. Grozījumi šā likuma 27.panta pirmajā daļā, 28.panta trešajā daļā, 29.panta trešajā daļā un 31.panta otrajā daļā stājas spēkā 2003.gada 1.janvārī. Līdz 2003.gada 1.janvārim patērētājs ir tiesīgs pieteikt prasījumu ražotājam, pārdevējam vai pakalpojuma sniedzējam par preces vai pakalpojuma neatbilstību līguma noteikumiem gada laikā pēc preces iegādes vai pakalpojuma saņemšanas.

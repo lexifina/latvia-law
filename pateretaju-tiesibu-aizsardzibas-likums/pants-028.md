@@ -1,13 +1,15 @@
-28.pants. Patērētāja tiesības, ja viņam pārdota vai nodota lietošanā nepienācīgas kvalitātes prece
-(1) Patērētājs, kam pārdota vai nodota lietošanā nepienācīgas kvalitātes prece, ir tiesīgs pieprasīt, lai ražotājs vai pārdevējs veiktu vienu no šādām darbībām:
-1) attiecīgi samazinātu preces cenu;
-2) bez atlīdzības novērstu preces trūkumus vai atlīdzinātu patērētājam izdevumus par trūkumu novēršanu;
-3) apmainītu preci pret pienācīgas kvalitātes tādu pašu vai ekvivalentu preci;
-4) atceltu līgumu un atmaksātu patērētājam par preci samaksāto naudas summu.
-(2) Ja preces trūkums ir maznozīmīgs un tas nevar būtiski ietekmēt patērētāja iespējas izmantot preci, patērētājs nevar prasīt, lai ražotājs vai pārdevējs:
-1) atceļ līgumu un atmaksā par preci samaksāto naudas summu;
-2) apmaina preci pret pienācīgas kvalitātes tādu pašu vai ekvivalentu preci, izņemot gadījumu, kad prece nav bijusi lietošanā.
-(3) Ja nepareizas vai nekvalitatīvas uzstādīšanas rezultātā prece ir kļuvusi par nepienācīgas kvalitātes preci, bet preces uzstādīšanu veicis pārdevējs vai trešā persona saskaņā ar līgumu, kas noslēgts ar pārdevēju, tad patērētājs ir tiesīgs pieprasīt no pārdevēja šā panta pirmajā daļā paredzēto prasību izpildi.
-(4) Šā panta pirmajā daļā minēto tiesību izmantošana neizslēdz patērētāja tiesības pieprasīt zaudējuma atlīdzību vai līgumsoda samaksu.
-(5) Lielgabarīta preces un par 10 kilogramiem smagākas preces remontam, ekspertīzei, nocenošanai vai apmaiņai nogādā ražotājs vai pārdevējs uz sava rēķina. Ja ražotājs vai pārdevējs atsakās nogādāt preci, patērētājs ir tiesīgs nogādāt preci ar saviem vai trešās personas spēkiem, bet uz ražotāja vai pārdevēja rēķina.
-(6) Ja preci nogādā patērētājs, ražotājam vai pārdevējam triju dienu laikā no izdevumus apstiprinoša dokumenta iesniegšanas dienas jāatlīdzina izdevumi, kas patērētājam radušies sakarā ar preces nogādāšanu.
+28.pants. Patērētāja tiesības, ja viņam pārdota vai nodota lietošanā līguma noteikumiem neatbilstoša prece
+(1) Patērētājs, kuram pārdota vai nodota lietošanā līguma noteikumiem neatbilstoša prece, ir tiesīgs pieprasīt, lai ražotājs vai pārdevējs veic vienu no šādām darbībām:
+1) attiecīgi samazina preces cenu;
+2) bez atlīdzības novērš preces neatbilstību līguma noteikumiem vai atlīdzina patērētājam izdevumus par neatbilstības novēršanu;
+3) apmaina preci pret tādu pašu vai ekvivalentu preci, ar kuru būtu nodrošināta atbilstība līguma noteikumiem;
+4) atceļ līgumu un atmaksā patērētājam par preci samaksāto naudas summu.
+(2) Prece apmaināma vai tās neatbilstība līguma noteikumiem novēršama saprātīgā termiņā, neradot neērtības patērētājam, ņemot vērā preces raksturu un paredzamo lietošanu.
+(3) Ja preces neatbilstība līguma noteikumiem atklājas vēlāk nekā sešus mēnešus pēc preces pārdošanas, patērētājs ir tiesīgs:
+1) vispirms pieprasīt, lai ražotājs vai pārdevējs bez atlīdzības novērš preces neatbilstību līguma noteikumiem vai atlīdzina patērētājam izdevumus par neatbilstības novēršanu, vai apmaina preci pret tādu pašu vai ekvivalentu preci, ar kuru būtu nodrošināta atbilstība līguma noteikumiem (izņemot gadījumu, kad tas nav iespējams);
+2) gadījumā, kad ražotājs vai pārdevējs nevar apmainīt preci vai saprātīgā termiņā novērst preces neatbilstību līguma noteikumiem, neradot neērtības patērētājam, - pieprasīt, lai ražotājs vai pārdevējs samazina preces cenu vai atceļ līgumu un atmaksā patērētājam par preci samaksāto naudas summu proporcionāli normatīvajos aktos noteiktajā kārtībā organizētā ekspertīzē konstatētajam preces nolietojumam.
+(4) Ja preces neatbilstība līguma noteikumiem ir maznozīmīga un nevar būtiski ietekmēt patērētāja iespējas izmantot preci, patērētājs nevar prasīt, lai ražotājs vai pārdevējs atceļ līgumu un atmaksā par preci samaksāto naudas summu. Preces neatbilstība līguma noteikumiem uzskatāma par maznozīmīgu, ja normatīvajos aktos noteiktajā kārtībā organizētā ekspertīzē konstatēts, ka preces neatbilstība nepazemina preces pamatfunkciju izpildes kvalitāti vai lietošanas īpašības un to var novērst, neradot vizuāli konstatējamas izmaiņas preces ārējā izskatā.
+(5) Ja preces nepareiza vai nekvalitatīva uzstādīšana ir kļuvusi par iemeslu preces neatbilstībai līguma noteikumiem, bet preci uzstādījis pārdevējs vai trešā persona saskaņā ar līgumu, kas noslēgts ar pārdevēju, kā arī ja preci uzstādījis patērētājs saskaņā ar nepareizu (neprecīzu) vai valsts valodā netulkotu lietošanas pamācību, tad prece ir uzskatāma par neatbilstošu līguma noteikumiem un patērētājs ir tiesīgs pieprasīt no pārdevēja šajā pantā paredzēto prasību izpildi.
+(6) Šā panta pirmajā daļā minēto tiesību izmantošana neizslēdz patērētāja tiesības pieprasīt zaudējuma atlīdzību vai līgumsoda samaksu.
+(7) Līguma noteikumiem neatbilstošas lielgabarīta preces un par 10 kilogramiem smagākas preces ekspertīzes veikšanai, nocenošanai, trūkumu novēršanai, apmaiņai vai līguma atcelšanai nogādā ražotājs vai pārdevējs uz sava rēķina. Ja ražotājs vai pārdevējs atsakās nogādāt preci, patērētājs ir tiesīgs nogādāt preci pats vai ar trešās personas palīdzību, bet uz ražotāja vai pārdevēja rēķina.
+(8) Ja preci nogādā patērētājs, ražotājam vai pārdevējam triju dienu laikā pēc izdevumus apstiprinoša dokumenta saņemšanas jāatlīdzina izdevumi, kas patērētājam radušies sakarā ar preces nogādāšanu.

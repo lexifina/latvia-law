@@ -1,2 +1,2 @@
 III nodaļa
-Preču un pakalpojumu kvalitāte un atbilstība
+Preces vai pakalpojuma atbilstība līguma noteikumiem
