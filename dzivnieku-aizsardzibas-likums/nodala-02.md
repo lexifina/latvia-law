@@ -1,0 +1,2 @@
+II nodaļa
+Lauksaimniecības dzīvnieku aizsardzība

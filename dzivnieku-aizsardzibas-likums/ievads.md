@@ -1,0 +1,1 @@
+Cilvēces ētiskais pienākums ir nodrošināt visu sugu dzīvnieku labturību un aizsardzību, jo katrs īpatnis pats par sevi ir vērtība. Cilvēkam ir morāls pienākums cienīt jebkuru radību, izturēties pret dzīvniekiem ar iejutīgu sapratni un tos aizsargāt. Nevienam nav atļauts bez pamatota iemesla nogalināt dzīvnieku, nodarīt tam sāpes, radīt ciešanas vai citādi kaitēt.

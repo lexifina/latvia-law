@@ -1,0 +1,2 @@
+IX nodaļa
+Dzīvnieku nogalināšana

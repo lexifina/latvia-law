@@ -1,0 +1,1 @@
+26.pants. Mācību procesā bioloģiskās, medicīniskās un veterinārmedicīniskās profesionālās izglītības apgūšanai atļauts izmantot laboratorijas dzīvniekus un citus dzīvniekus, ja izvirzīto mērķi nav iespējams sasniegt ar citiem līdzekļiem.

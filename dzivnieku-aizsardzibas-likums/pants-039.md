@@ -1,0 +1,1 @@
+39.pants. Pašvaldības izveido un uztur dzīvnieku patversmes, kā arī slēdz līgumus ar juridisko vai fizisko personu pārraudzībā esošajām dzīvnieku patversmēm par klaiņojošu dzīvnieku izmitināšanu un aprūpi.
