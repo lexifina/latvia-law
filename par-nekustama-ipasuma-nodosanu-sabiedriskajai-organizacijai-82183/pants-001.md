@@ -1,0 +1,1 @@
+1.pants. Nodot bez atlīdzības sabiedriskās organizācijas "Rīgas Ebreju kopiena" (turpmāk - Rīgas Ebreju kopiena) īpašumā nekustamo īpašumu - zemesgabalu 1122m² platībā (kadastra nr.0100 020 0135) un ēku Rīgā, Skolas ielā 6.
