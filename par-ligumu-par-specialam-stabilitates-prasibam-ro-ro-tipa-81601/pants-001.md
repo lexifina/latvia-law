@@ -1,0 +1,1 @@
+1.pants. 1996.gada 28.februāra Līgums par speciālām stabilitātes prasībām ro-ro tipa pasažieru kuģiem, kas saskaņā ar grafiku veic regulārus reisus starp vai uz, vai no noteiktām ostām ziemeļrietumu Eiropā un Baltijas jūrā (Stokholmas līgums, 1996) un tā 1. un 2.pielikums (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
