@@ -1,0 +1,1 @@
+1.pants. 1972.gada Konvencija par bakterioloģisko (bioloģisko) un toksisko ieroču izstrādāšanas, ražošanas un uzglabāšanas aizliegšanu un to iznīcināšanu (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
