@@ -1,0 +1,1 @@
+1.pants. 1972. gada Apvienoto Nāciju Izglītības, zinātnes un kultūras organizācijas Konvencija par pasaules kultūras un dabas mantojuma aizsardzību (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
