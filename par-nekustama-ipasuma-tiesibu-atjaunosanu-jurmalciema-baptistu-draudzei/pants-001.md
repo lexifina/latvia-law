@@ -1,0 +1,1 @@
+1.pants. Ar šo likumu Jūrmalciema baptistu draudzei tiek atjaunotas īpašuma tiesības uz nekustamo īpašumu - Jūrmalciema baptistu draudzes lūgšanu namu un zemi 1775 m2 platībā (zemes kadastra nr. 64 780 190 193), kas ar Nīcas pagasta zemes komisijas 1996.gada 15.jūlija lēmumu (protokols nr.147) piešķirta pastāvīgā lietošanā Jūrmalciema baptistu draudzei.
