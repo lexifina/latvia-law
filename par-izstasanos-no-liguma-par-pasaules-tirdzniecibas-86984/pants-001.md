@@ -1,0 +1,1 @@
+1.pants. Šis likums paredz izstāšanos no 1999.gada 30.novembra Līguma par Pasaules tirdzniecības organizācijas likumdošanas konsultatīvā centra izveidi (turpmāk - Līgums) (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2000, 21.nr.).
