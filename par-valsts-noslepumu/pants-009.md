@@ -10,7 +10,7 @@
 3) kura saukta pie kriminālatbildības un bijusi notiesāta par tīšu noziedzīgu nodarījumu, kā arī par valsts noslēpuma izpaušanu aiz neuzmanības, izņemot gadījumu, ja tā ir reabilitēta;
 4) kura ir vai ir bijusi PSRS, Latvijas PSR vai kādas ārvalsts, kas nav Eiropas Savienības vai Ziemeļatlantijas līguma organizācijas dalībvalsts, drošības dienesta (izlūkdienesta vai pretizlūkošanas dienesta) štata vai ārštata darbinieks, aģents, rezidents vai konspiratīvā dzīvokļa turētājs;
 5) kura pēc 1991.gada 13.janvāra darbojusies PSKP (LKP), Latvijas PSR Darbaļaužu internacionālajā frontē, Darba kolektīvu apvienotajā padomē, Kara un darba veterānu organizācijā vai Vislatvijas sabiedrības glābšanas komitejā;
-6) kuras personiskās vai profesionālās īpašības pamatoti liek apšaubīt tās spēju ievērot slepenības režīma prasības;
+6) par kuru pārbaudes gaitā ir konstatēti fakti, kas dod pamatu apšaubīt tās uzticamību un spēju saglabāt valsts noslēpumu;
 7) kura ir medicīnas iestāžu uzskaitē sakarā ar alkoholismu, toksikomāniju, narkomāniju vai gara slimību;
 8) (izslēgts ar 18.12.2003. likumu).
 (3¹) (Izslēgta ar 18.12.2003. likumu.)
