@@ -1,1 +1,1 @@
-74.pants. Nevienai kredītiestādei nav tiesību pieņemt norēķinu dokumentus, kuros nav uzrādīts maksātāja un maksājuma saņēmēja - juridiskās vai fiziskās personas - reģistrācijas numurs (nodokļu maksātāja reģistrācijas numurs) vai personas kods (ārvalstniekiem - pases vai cita identifikācijas dokumenta numurs).
+74.pants. Kredītiestādei nav tiesību pieņemt maksājumu dokumentus, kuros nav uzrādīts maksātāja (rezidenta) un maksājuma saņēmēja (rezidenta) reģistrācijas numurs - juridiskajai personai vai personas kods - fiziskajai personai.
