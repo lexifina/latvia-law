@@ -23,7 +23,7 @@ n) citi darījumi, kuri pēc būtības ir līdzīgi iepriekšminētajiem finansu
 a) apmaksātais pamatkapitāls un akciju emisijas uzcenojums, kas samazināti par priekšrocību akciju (kurām kredītiestādes statūtos paredzēta dividenžu uzkrāšana) vērtību, rezerves kapitāls, nesadalītā peļņa (ar nosacījumu, ka ir auditora atzinums par tās esamību), kas samazināta par iepriekšējo darbības gadu zaudējumu apjomu, un citi elementi saskaņā ar Latvijas Bankas noteikumiem;
 b) samazinājums par kredītiestādes īpašumā esošajām pašas akcijām, nemateriālajiem aktīviem un kārtējā darbības gada zaudējumiem;
 c) subordinētais kapitāls saskaņā ar šā likuma 36.panta prasībām;
-d) samazinājums par kredītiestādes līdzdalību citās kredītiestādēs;
+d) samazinājums par kredītiestādes būtisku līdzdalību citu kredītiestāžu un finansu iestāžu pamatkapitālā, kā arī ieguldījumiem to kredītiestāžu un finansu iestāžu subordinētajā kapitālā, kurās kredītiestādei ir būtiska līdzdalība, un saskaņā ar Latvijas Bankas normatīvajiem norādījumiem un noteikumiem - citos finansu instrumentos;
 e) samazinājums par citās kredītiestādēs un finansu iestādēs (pamatkapitālā, subordinētajā kapitālā un saskaņā ar Latvijas Bankas normatīvajiem norādījumiem un noteikumiem - citos finansu instrumentos) izdarīto kredītiestādes ieguldījumu daļu, kura pārsniedz 10 procentus no kredītiestādes pašu kapitāla, kas aprēķināts saskaņā ar šā punkta "a"-"c" apakšpunktu. Ieguldījumu kopsummu aprēķina tikai tajās kredītiestādēs un finansu iestādēs, kurās kredītiestādei nav būtiskas līdzdalības;
 8) subordinētais kapitāls - naudas līdzekļi, kurus kredītiestāde aizņemas uz laiku, kas nav īsāks par septiņiem gadiem, turklāt aizņēmuma līgums paredz, ka aizdevējs var atprasīt aizdevumu pirms termiņa vienīgi kredītiestādes likvidācijas gadījumā un viņa prasība tiek apmierināta pēc visu citu kreditoru prasību, bet pirms akcionāru prasību apmierināšanas;
 9) klients - fiziskā vai juridiskā persona, kurai kredītiestāde sniedz finansu pakalpojumus;
@@ -40,7 +40,7 @@ a) jo viena no šīm personām tieši vai netieši kontrolē citu personu vai ci
 b) jo tās ir saistītas tādā veidā, ka vienas personas finansiālās problēmas var radīt citai personai vai citām personām parādu nomaksas grūtības;
 19) personas, kuras saistītas ar kredītiestādi - personas, kas ir:
 a) kredītiestādes akcionāri, kuriem kredītiestādē ir būtiska līdzdalība, un šo akcionāru - fizisko personu - laulātie, vecāki un bērni;
-b) kredītiestādes meitas uzņēmumi;
+b) kredītiestādes meitas uzņēmumi un uzņēmumi (uzņēmējsabiedrības), kuros kredītiestādei ir būtiska ietekme;
 c) kredītiestādes padomes, valdes, revīzijas komisijas, iekšējā revīzijas dienesta vadītājs un locekļi, citi kredītiestādes darbinieki, kuri ir pilnvaroti veikt kredītiestādes darbības plānošanu, vadīšanu un kontroli un kuri atbild par to, kā arī šo personu laulātie, vecāki un bērni;
 d) uzņēmumi (uzņēmējsabiedrības), kuros šā termina skaidrojuma "a" un "c" apakšpunktā minētajām personām ir būtiska līdzdalība;
 20) finansu iestāde - uzņēmums (uzņēmējsabiedrība), kas nodibināts, lai sniegtu vienu vai vairākus finansu pakalpojumus, izņemot noguldījumu un citu atmaksājamo līdzekļu piesaistīšanu, kā arī lai veiktu apdrošināšanas operācijas vai lai iegūtu līdzdalību citu uzņēmumu (uzņēmējsabiedrību) pamatkapitālā;

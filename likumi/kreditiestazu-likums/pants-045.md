@@ -1,1 +1,1 @@
-45.pants. Bankas kopējā līdzdalība tādu uzņēmumu (uzņēmējsabiedrību) pamatkapitālā, kuri nav bankas, nedrīkst pārsniegt 60 procentus no bankas pašu kapitāla.
+45.pants. Bankas būtiskas līdzdalības kopējais apjoms tādu uzņēmumu (uzņēmējsabiedrību) pamatkapitālā, kuri nav kredītiestādes vai finansu iestādes, nedrīkst pārsniegt 60 procentus no bankas pašu kapitāla.

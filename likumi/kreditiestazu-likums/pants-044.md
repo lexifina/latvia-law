@@ -1,1 +1,1 @@
-44.pants. Bankas līdzdalība tāda uzņēmuma (uzņēmējsabiedrības) pamat kapitālā, kurš nav banka, nedrīkst pārsniegt 15 procentus no bankas pašu kapitāla.
+44.pants. Bankas būtiska līdzdalība tāda uzņēmuma (uzņēmējsabiedrības) pamatkapitālā, kurš nav kredītiestāde vai finansu iestāde, nedrīkst pārsniegt 15 procentus no bankas pašu kapitāla.
