@@ -1,0 +1,1 @@
+18.pants. Ārvalstu sabiedrība nodrošina savus esošos un topošos ieguldītājus ar informāciju par filiāles darbību ieguldītāju aizsardzības sistēmā tikpat lielā apjomā kā ieguldītājus savā mītnes zemē, bet ne mazākā, kāds noteikts Latvijā spēkā esošajos normatīvajos aktos.

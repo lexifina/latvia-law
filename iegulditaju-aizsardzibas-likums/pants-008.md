@@ -1,0 +1,4 @@
+8.pants. (1) Kompensācijas apmēru nosaka:
+1) finansu instrumentu neatgriezeniskas pazušanas gadījumā - atbilstoši ieguldītājam piederošo finansu instrumentu tirgus cenai dienā, kad Finansu un kapitāla tirgus komisijai tika iesniegts pieteikums par finansu instrumentu neatgriezenisku pazušanu. Ja tirgus cenu dienā, kad tika iesniegts pieteikums, nevar noteikt, izmanto pēdējo pieejamo finansu instrumentu tirgus cenu, kāda bija pirms pieteikuma iesniegšanas dienas;
+2) neizpildīta ieguldījumu pakalpojuma gadījumā - atbilstoši zaudējumiem, ko ieguldītājam radījis neizpildītais ieguldījumu pakalpojums.
+(2) Neatgriezeniski pazudušu finansu instrumentu vērtību vai zaudējumus, ko radījis neizpildīts ieguldījumu pakalpojums, no ārvalstu valūtas pārrēķina latos pēc Latvijas Bankas noteiktā attiecīgās ārvalsts valūtas kursa dienā, kad pieņemts lēmums par kompensācijas pieteikuma pamatotību.

@@ -1,0 +1,1 @@
+19.pants. Ja tiesības uz kompensāciju iegūst ārvalstu sabiedrības ieguldītājs, tam ir tiesības iesniegt pieteikumu Finansu un kapitāla tirgus komisijai, kas palīdz ieguldītājam iegūt kompensāciju no ārvalstu ieguldītāju aizsardzības sistēmas.
