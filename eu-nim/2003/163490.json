@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums \"Par darbinieku aizsardzību darba devēja maksātnespējas gadījumā\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "188",
+  "official_journal_page": null,
+  "official_journal_date": "2001-12-28",
+  "entry_into_force": "2003-01-01",
+  "notification_date": "2009-08-13",
+  "commission_reference": "MNE(2009)53570",
+  "nim_celex": "72008L0094LVA_163490",
+  "nim_id": "163490",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/b513e50a-0f79-41d5-ab0b-440c514b2e62",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
