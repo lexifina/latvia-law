@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Patvēruma likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "18",
+  "official_journal_page": null,
+  "official_journal_date": "2005-02-02",
+  "entry_into_force": "2005-02-03",
+  "notification_date": "2005-04-07",
+  "commission_reference": "MNE(2005)50103",
+  "nim_celex": "72001L0055LVA_120103",
+  "nim_id": "120103",
+  "transposes_celex": [
+    "32001L0055",
+    "32003L0009"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a558356a-279a-411c-b693-34ee4bbf9065",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
