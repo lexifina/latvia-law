@@ -1,1 +1,1 @@
-1. Līdz 2000.gada 31.martam nepiemērot Krimināllikumā paredzēto soda veidu - arestu.
+1. Līdz 2003.gada 31.martam nepiemērot Krimināllikumā paredzēto soda veidu - arestu.
