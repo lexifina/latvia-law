@@ -1,0 +1,4 @@
+35. pants. Vieglo taksometru pārvadājumi
+(1) Pasažieru pārvadājumiem vieglajos taksometros nepieciešama speciāla atļauja (licence), ko izsniedz attiecīgi republikas pilsētas dome vai rajona padome. Tā apstiprina licencēšanas noteikumus, nosaka savā administratīvajā teritorijā izsniedzamo vieglo taksometru speciālo atļauju (licenču) un licencēšanas kartīšu skaitu, braukšanas tarifus, kā arī taksometru stāvvietu izvietojumu.
+(2) Speciālā atļauja (licence) dod tiesības veikt vieglo taksometru pārvadājumus tikai attiecīgajā administratīvajā teritorijā, kā arī nogādāt pasažieri uz jebkuru citu vietu ārpus šīs teritorijas un uzņemt pasažieri atpakaļceļā.
+(3) Fiziskajām personām, kuras reģistrētas kā individuālā darba veicējas, nepieciešama ne tikai speciālā atļauja (licence), bet jāiegādājas arī patents.

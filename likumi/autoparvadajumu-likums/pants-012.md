@@ -1,0 +1,5 @@
+12. pants. Nosūtītāja un pārvadātāja pienākumi, pieņemot un nododot kravu pārvadāšanai
+(1) Nosūtītāja pienākums ir nodot kravu pārvadāšanai tādā tarā vai iesaiņojumā, kāds nepieciešams kravas saglabāšanai.
+(2) Krava jāsagrupē un nepieciešamie dokumenti jāsagatavo katram saņēmējam atsevišķi.
+(3) Pieņemot kravu pārvadāšanai, pārvadātājs pēc nosūtītāja pieprasījuma uzrāda viņam pārvadājuma tiesības apliecinošus dokumentus. Pārvadātājam jāpārbauda, vai krava autotransporta līdzeklī iekrauta un nostiprināta atbilstoši satiksmes drošības un autotransporta līdzekļa ekspluatācijas prasībām. Ja pārvadātājs, veicot ārējo apskati, konstatējis, ka krava iekrauta un nostiprināta nepareizi un ir apdraudēta tās saglabāšana, viņa pienākums ir par to ziņot nosūtītājam. Nosūtītājam pēc pārvadātāja pieprasījuma jānovērš kravas iekraušanā un nostiprinājumā konstatētie trūkumi.
+(4) Ja nosūtītājs atsakās novērst kravas iekraušanā un nostiprinājumā konstatētos trūkumus vai ja krava neatbilst šā panta pirmās daļas noteikumiem, pārvadātājs ir tiesīgs atteikties no šīs kravas pārvadāšanas un uzskatīt kravu par nenodotu pārvadāšanai. Par to izdarāma atzīme kravas transporta dokumentos.

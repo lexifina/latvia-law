@@ -1,0 +1,2 @@
+36. pants. Līgums par pasažieru un bagāžas pārvadāšanu
+Saskaņā ar līgumu par pasažieru pārvadāšanu ar autotransportu pārvadātājs apņemas par attiecīgu maksu aizvest pasažieri līdz attiecīgai pieturai vai galapunktam un, ja pasažieris nodevis bagāžu, - nogādāt to attiecīgajā pieturā vai galapunktā un izsniegt personai, kas pilnvarota saņemt bagāžu, bet pasažieris - samaksāt par braukšanu un bagāžas pārvadāšanu, ja normatīvajos aktos nav noteikts citādi.

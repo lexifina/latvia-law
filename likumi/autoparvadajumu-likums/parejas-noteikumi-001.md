@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81. panta kārtībā izdotie Ministru kabineta noteikumi nr. 41 "Par pārvadājumiem ar autotransportu" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 4. nr.).

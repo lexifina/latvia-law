@@ -1,0 +1,6 @@
+40. pants. Pārvadātāja pienākumi un atbildība
+(1) Pārvadātāja pienākums ir nodrošināt pasažierim biļetē norādīto vietu pasažieru regulāro pārvadājumu autotransporta līdzeklī, kā arī drošu braucienu un pārvadāšanai nodotās bagāžas saglabāšanu un nogādāšanu galapunktā.
+(2) Pārvadātājam šā likuma 43. panta trešajā daļā paredzētajos gadījumos ir jāatlīdzina pasažierim biļetes vērtība pasažieru pārvadāšanas noteikumos minētajā kārtībā un apmērā.
+(3) Pārvadātājam ir pienākums atlīdzināt (izņemot pilsētas maršrutus) tiešos zaudējumus (neieskaitot atrauto peļņu), kas radušies, ja pasažieru regulāro pārvadājumu autotransporta līdzekļa pienākšana vai atiešana (saskaņā ar normatīvo aktu prasībām) neatbilst kustības sarakstam, kā arī tad, ja ir atcelts reiss rajona, tālsatiksmes vai starptautiskajā maršrutā, uz kuru pasažieris iegādājies biļeti.
+(4) Ja bagāža bojāta vai nozaudēta, pārvadātājam jāsastāda par to attiecīgs akts un jāatlīdzina pasažierim zaudējumi - pēc pēdējā izvēles - bagāžas parastās vērtības vai nodarīto zaudējumu apmērā.
+(5) Ja bagāžu, par kuras nozaudēšanu pārvadātājs ir samaksājis attiecīgu atlīdzību, pēc tam atrod, pasažieris ir tiesīgs pieprasīt šīs bagāžas izsniegšanu, ja viņš atmaksā saņemto atlīdzību (ņemot vērā atrastās bagāžas stāvokli).
