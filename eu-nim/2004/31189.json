@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2003.gada 21.oktobra noteikumos Nr.578 \"Noteikumi par cilvēku pārvadāšanai paredzētām trošu ceļu iekārtām\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "66",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-28",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-09-24",
+  "commission_reference": "MNE(2004)51189",
+  "nim_celex": "72000L0009LVA_31189",
+  "nim_id": "31189",
+  "transposes_celex": [
+    "32000L0009"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4c0695da-2f79-4eeb-998e-faf2f8fc5f4e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
