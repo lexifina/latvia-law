@@ -8,7 +8,7 @@
 1) kājāmgājējiem;
 2) zivju resursu un ūdeņu uzraudzībai;
 3) robežapsardzībai;
-4) vides aizsardzībai un ugunsdrošības pasākumu veikšanai.
+4) vides aizsardzības, ugunsdrošības un glābšanas pasākumu veikšanai.
 (7) Tikai vides aizsardzības institūciju speciāli norādītās vietās un pēc saskaņošanas ar zemes īpašnieku tauvas joslā ir atļauta:
 1) laivu un kuģu piestāšana, to kravu izkraušana un pagaidu uzglabāšana;
 2) laivu un kuģu pārziemošana, būve un remonts;

@@ -1,2 +1,2 @@
 II nodaļa
-Zivju resursu un zvejas pārzināšana
+Zivju resursu un zvejas pārvaldīšana
