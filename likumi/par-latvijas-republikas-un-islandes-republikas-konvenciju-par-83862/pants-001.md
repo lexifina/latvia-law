@@ -1,0 +1,1 @@
+1.pants. 1994.gada 19.oktobrī Reikjavikā parakstītā Latvijas Republikas un Islandes Republikas konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
