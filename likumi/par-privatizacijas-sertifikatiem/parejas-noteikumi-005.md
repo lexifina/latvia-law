@@ -1,0 +1,1 @@
+5. Ministru kabinets līdz 2000.gada 31.decembrim pieņem šā likuma 18.panta vienpadsmitajā daļā minētos noteikumus, kuros reglamentē sertifikātu izmantošanas kārtību, nosaka nepieciešamos pasākumus privatizācijas procesa paātrināšanai un konkrētus termiņus to veikšanai.
