@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2004.gada 23.marta noteikumos Nr.157 \"Kārtība, kādā veicams ietekmes uz vidi stratēģiskais novērtējums\" ar pēdējiem grozījumiem, kas pieņemti līdz 25.11.2008.",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "53",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-05",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2008-12-10",
+  "commission_reference": "MNE(2008)56556",
+  "nim_celex": "72001L0042LVA_159548",
+  "nim_id": "159548",
+  "transposes_celex": [
+    "32001L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d53188c4-7eb5-4639-a960-08c97d174847",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
