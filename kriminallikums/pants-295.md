@@ -1,7 +1,7 @@
 295.pants. Iejaukšanās lietu iztiesāšanā
 (1) Par tiesneša vai tiesas piesēdētāja jebkādu ietekmēšanu nolūkā likt šķēršļus vispusīgai, pilnīgai un objektīvai lietas iztiesāšanai vai panākt nelikumīga sprieduma vai lēmuma pieņemšanu un pasludināšanu -
-soda ar brīvības atņemšanu uz laiku līdz diviem gadiem vai ar arestu, vai ar naudas sodu līdz piecdesmit minimālajām mēnešalgām.
+soda ar brīvības atņemšanu uz laiku līdz diviem gadiem vai ar arestu, vai ar piespiedu darbu, vai ar naudas sodu līdz piecdesmit minimālajām mēnešalgām.
 (2) Par tādām pašām darbībām, ja tās izdarījusi valsts amatpersona, -
-soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar naudas sodu līdz astoņdesmit minimālajām mēnešalgām.
+soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar piespiedu darbu, vai ar naudas sodu līdz astoņdesmit minimālajām mēnešalgām.
 (3) Par tādām pašām darbībām, ja tās izdarījusi organizēta grupa, -
 soda ar brīvības atņemšanu uz laiku no pieciem līdz divpadsmit gadiem.

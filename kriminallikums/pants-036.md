@@ -3,8 +3,9 @@
 1) nāves sods;
 2) brīvības atņemšana;
 3) arests;
-4) piespiedu darbs;
-5) naudas sods.
+4) mantas konfiskācija;
+5) piespiedu darbs;
+6) naudas sods.
 (2) Bez pamatsoda notiesātajam var piespriest šādus papildsodus:
 1) mantas konfiskācija;
 2) izraidīšana no Latvijas Republikas;

@@ -2,4 +2,4 @@
 (1) Par tīša smaga vai vidēja smaguma miesas bojājuma nodarīšanu, pārkāpjot personas aizturēšanas nosacījumus, -
 soda ar brīvības atņemšanu uz laiku līdz vienam gadam vai ar arestu, vai ar piespiedu darbu, vai ar naudas sodu līdz divdesmit minimālajām mēnešalgām.
 (2) Par tādām pašām darbībām, ja tās izdarījusi valsts amatpersona, -
-soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar arestu, vai ar naudas sodu līdz piecdesmit minimālajām mēnešalgām.
+soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar arestu, vai ar piespiedu darbu, vai ar naudas sodu līdz piecdesmit minimālajām mēnešalgām.

@@ -3,7 +3,7 @@
 (2) Persona uzskatāma par sodītu no notiesājoša sprieduma spēkā stāšanās brīža. Persona, kas atbrīvota no soda ar tiesas spriedumu, nav uzskatāma par sodītu.
 (3) Par nesodītām atzīstamas:
 1) nosacīti notiesātas personas, ja pārbaudes laikā, bet papildsoda piemērošanas gadījumā arī papildsoda izciešanas laikā tās neizdara noziedzīgu nodarījumu un ja pārbaudes laikā nosacītā notiesāšana nav atcelta saskaņā ar citiem likumā paredzētajiem noteikumiem;
-2) personas, kas notiesātas ar arestu, piespiedu darbu vai naudas sodu, ja viena gada laikā no soda izciešanas dienas tās neizdara jaunu noziedzīgu nodarījumu;
+2) personas, kas notiesātas ar arestu, mantas konfiskāciju, piespiedu darbu vai naudas sodu, ja viena gada laikā no soda izciešanas dienas tās neizdara jaunu noziedzīgu nodarījumu;
 3) pēc diviem gadiem - personas, kas izcietušas brīvības atņemšanas sodu, ne ilgāku par trim gadiem;
 4) pēc pieciem gadiem - personas, kas izcietušas brīvības atņemšanas sodu, ilgāku par trim gadiem, bet ne ilgāku par pieciem gadiem;
 5) pēc astoņiem gadiem - personas, kas izcietušas brīvības atņemšanas sodu, ilgāku par pieciem gadiem, bet ne ilgāku par desmit gadiem;
