@@ -1,0 +1,1 @@
+1.pants. 1999.gada 10.jūnijā Budapeštā parakstītais Latvijas Republikas un Ungārijas Republikas brīvās tirdzniecības līgums (turpmāk - Līgums) (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1999, 21.nr.; 2001, 3.nr.) ar šo likumu tiek denonsēts.
