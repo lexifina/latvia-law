@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "22.01.2002. MK noteikumi Nr.34 \"Noteikumi par piesārņojošo vielu emisiju ūdenī\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "16(2591)",
+  "official_journal_page": null,
+  "official_journal_date": "2002-01-30",
+  "entry_into_force": "2002-01-31",
+  "notification_date": "2013-03-06",
+  "commission_reference": "MNE(2013)51706",
+  "nim_celex": "72008L0105LVA_201860",
+  "nim_id": "201860",
+  "transposes_celex": [
+    "32008L0105"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b2ec90a7-ba73-4c9d-a02e-e52e331f729f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
