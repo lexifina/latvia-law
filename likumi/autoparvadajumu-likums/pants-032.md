@@ -7,4 +7,4 @@
 (4) Rajonu un republikas pilsētu administratīvajās teritorijās var atklāt skolēnu, studentu un citus speciālos autobusu maršrutus, bet pilsētās - arī taksobusu maršrutus. Speciālajos maršrutos pārvadājumiem ir jāatbilst pasažieru regulāro pārvadājumu prasībām, pieļaujot šādus izņēmumus:
 1) tajos var noteikt īpašu braukšanas maksas iekasēšanas un bagāžas pārvadāšanas kārtību;
 2) autotransporta līdzekļa apstāšanās maršrutā pasažieru iekāpšanai un izkāpšanai notiek pēc pasažieru pieprasījuma.
-(5) Maršrutu atklāšanas, grozīšanas, slēgšanas un atļauju izsniegšanas kārtību nosaka Ministru kabineta noteikumi.
+(5) Iekšzemes maršrutu atklāšanas, grozīšanas un slēgšanas, kā arī atļauju izsniegšanas un anulēšanas kārtību nosaka Ministru kabinets.
