@@ -32,7 +32,7 @@ l) (izslēgts ar 20.12.2001. likumu);
 19) par muitas iestāžu pakalpojumiem;
 20) par komercķīlas reģistrāciju, kā arī par komercķīlas pārjaunojuma, grozījumu un dzēšanas reģistrāciju;
 21) par īpašuma tiesību un ķīlas tiesību nostiprināšanu zemesgrāmatā;
-22) par vērtspapīru reģistrāciju un laišanu publiskajā apgrozībā;
+22) (izslēgts ar 12.12.2002. likumu);
 23) par būvprakses un arhitekta prakses sertifikātu reģistrāciju;
 24) par sabiedrisko pakalpojumu regulēšanu;
 25) par naftas ieguvi;
