@@ -1,5 +1,11 @@
-74. pants. Aviācijas nelaimes gadījuma izmeklēšanas valsts komisijas tiesības
-Veicot izmeklēšanu, aviācijas nelaimes gadījuma izmeklēšanas valsts komisija:
-1) izņem ar aviācijas nelaimes gadījumu vai incidentu saistītos lietiskos pierādījumus, ja tas nav pretrunā ar Latvijas Republikas likumdošanas aktiem;
-2) pieprasa nepieciešamo informāciju no visām personām;
-3) pieprasa, lai juridiskās personas, kuru darbības rajonā noticis nelaimes gadījums, apsargātu gaisa kuģi, tā atlūzas un citus pierādījumus un sniegtu palīdzību darbietilpīgu darbu un citu nepieciešamo pasākumu veikšanā, kā arī ierādītu nepieciešamās telpas komisijai darbam un atpūtai.
+74.pants. Aviācijas nelaimes gadījumu un incidentu izmeklēšanas nodaļas un aviācijas nelaimes gadījuma izmeklēšanas komisijas izmeklētāju tiesības
+Veicot izmeklēšanu, Aviācijas nelaimes gadījumu un incidentu izmeklēšanas nodaļas un aviācijas nelaimes gadījuma izmeklēšanas komisijas izmeklētājiem ir tiesības:
+1) brīvi piekļūt aviācijas nelaimes gadījuma vai incidenta vietai, kā arī gaisa kuģim, tā saturam vai atliekām;
+2) nekavējoties nodrošināt pierādījumu uzskaiti un kontrolētu atlūzu vai sastāvdaļu savākšanu, lai veiktu pārbaudi vai analīzes;
+3) nekavējoties piekļūt lidojuma ieraksta aparātiem, iepazīties ar visu attiecīgo ierakstu saturu un tos izmantot izmeklēšanā;
+4) iepazīties ar aviācijas nelaimes gadījuma upuru mirstīgo atlieku apskates un laboratorisko analīžu rezultātiem;
+5) iepazīties ar ārstniecības iestāžu atzinumiem un saņemt no tām informāciju par aviācijas nelaimes gadījumā vai incidentā cietušo personu veselības stāvokli;
+6) nekavējoties iepazīties ar gaisa kuģi vadījušo personu apskates un laboratorisko analīžu rezultātiem;
+7) izjautāt lieciniekus;
+8) brīvi piekļūt jebkādai attiecīgajai informācijai vai ierakstiem, kas atrodas pie gaisa kuģa īpašnieka, ekspluatanta vai ražotāja, kā arī pie institūcijām, kuras ir atbildīgas par civilo aviāciju, lidostu vai gaisa satiksmes vadību;
+9) pieprasīt, lai valsts un pašvaldību institūcijas, kā arī, ja nepieciešams, citas juridiskās personas, kuru darbības rajonā noticis aviācijas nelaimes gadījums, savu iespēju robežās apsargātu gaisa kuģi, tā atlūzas un citus pierādījumus un sniegtu palīdzību darbietilpīgu un citu nepieciešamo pasākumu veikšanā, kā arī ierādītu telpas izmeklēšanas komisijas darbam un atpūtai.

@@ -1,0 +1,1 @@
+2. Grozījumi likuma 70.pantā par to, ka Latvijas Republikas teritorijā notikušos aviācijas nelaimes gadījumus un incidentus izmeklē Satiksmes ministrijas Aviācijas nelaimes gadījumu un incidentu izmeklēšanas nodaļa, stājas spēkā 2003.gada 1.oktobrī.

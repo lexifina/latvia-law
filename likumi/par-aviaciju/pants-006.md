@@ -15,7 +15,7 @@ Civilās aviācijas administrācija:
 5) pieprasa no juridiskajām un fiziskajām personām, kuru darbība saistīta ar Latvijas Republikas gaisa telpas izmantošanu vai civilās aviācijas līdzekļu ekspluatāciju, savu funkciju pildīšanai nepieciešamo informāciju;
 6) reģistrē civilās aviācijas gaisa kuģus Latvijas Republikas Civilās aviācijas gaisa kuģu reģistrā;
 7) nosaka gaisa telpas izmantošanas kārtību;
-8) nosaka kārtību, kādā tiek izmeklēti aviācijas nelaimes gadījumi, aviācijas incidenti un nelikumīgas iejaukšanās akti civilās aviācijas darbībā;
+8) (izslēgts ar 12.06.2003. likumu);
 9) sagatavo un apstiprina normatīvos aktus, kuri regulē civilās aviācijas darbību;
 10) sadarbojas ar citu valstu valdību pilnvarotām aviācijas institūcijām Latvijas Republikas gaisa telpas izmantošanas un civilās aviācijas darbības valsts uzraudzības un gaisa kuģu meklēšanas un glābšanas jomā.
 Aviācijas departamenta un Civilās aviācijas administrācijas speciālistiem ir tiesības iekļūt un netraucēti pildīt savus /dienesta pienākumus visos civilās aviācijas objektos, kas atrodas Latvijas Republikas teritorijā.
