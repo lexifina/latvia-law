@@ -1,0 +1,1 @@
+1.pants. 1996. gada 7. jūnijā Rīgā parakstītais Latvijas Republikas valdības un Ķīnas Tautas Republikas valdības līgums par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem un tā papildu protokols (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
