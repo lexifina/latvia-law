@@ -1,0 +1,28 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Par uzņēmumu ienākuma nodokli",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "32",
+  "official_journal_page": null,
+  "official_journal_date": "1995-03-01",
+  "entry_into_force": "1995-04-01",
+  "notification_date": "2007-02-02",
+  "commission_reference": "MNE(2007)50527",
+  "nim_celex": "71990L0434LVA_140435",
+  "nim_id": "140435",
+  "transposes_celex": [
+    "31990L0434",
+    "31990L0435",
+    "32003L0049",
+    "32003L0123",
+    "32004L0066",
+    "32004L0076",
+    "32005L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/12a75e92-4af9-4107-950a-1956da4deedd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
