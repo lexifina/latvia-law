@@ -1,0 +1,1 @@
+12. Kredītiestāžu maksātnespējas (bankrota) vai likvidācijas procesi, kuri uzsākti pirms šā likuma spēkā stāšanās, risināmi un pabeidzami kārtībā, kādu noteica Kredītiestāžu likums līdz šā likuma spēkā stāšanās dienai.

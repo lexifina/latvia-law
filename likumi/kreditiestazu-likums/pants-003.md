@@ -1,1 +1,2 @@
-3.pants. Latvijas Republikā kredītiestāde darbojas kā banka vai krājaizdevu sabiedrība, vai ārvalstu bankas nodaļa (filiāle).
+3.pants. (1) Latvijas Republikā kredītiestāde darbojas kā banka vai ārvalstu bankas filiāle.
+(2) Banku drīkst dibināt kā akciju sabiedrību, un tā drīkst darboties vienīgi kā akciju sabiedrība vai kā valsts akciju sabiedrība.

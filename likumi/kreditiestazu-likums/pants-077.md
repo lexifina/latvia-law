@@ -1,1 +1,1 @@
-77.pants. Kredītiestāde par katru darbības gadu sagatavo pārskatu, kurā iekļauj bilanci, peļņas un zaudējumu aprēķinu un pielikumus, kā arī ziņojumu.
+77.pants. Kredītiestāde par katru darbības gadu sagatavo pārskatu, kurā iekļauj bilanci, peļņas un zaudējumu aprēķinu, pārskatu par izmaiņām kapitālā un rezervēs, naudas plūsmas pārskatu un pielikumus, kā arī ziņojumu.

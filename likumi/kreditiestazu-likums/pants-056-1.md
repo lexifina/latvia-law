@@ -1,0 +1,1 @@
+56.¹pants. Bankai, kuru konkursa kārtībā izvēlējusies Finansu un kapitāla tirgus komisija, no likvidējamās bankas pilnā apmērā jāpārņem no tās emitētajām hipotekārajām ķīlu zīmēm izrietošās saistības pret šo ķīlu zīmju turētājiem kopā ar aktīviem, kas iekļauti hipotekāro ķīlu zīmju seguma reģistrā.

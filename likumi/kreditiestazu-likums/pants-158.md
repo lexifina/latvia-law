@@ -1,1 +1,1 @@
-158.pants. No maksātnespējas lietas ierosināšanas dienas nav pieļaujama kredītiestādes prasījumu vai parādu pilnīga vai daļēja dzēšana ar ieskaitu, izņemot gadījumus, kad tas paredzēts Finansu un kapitāla tirgus komisijas apstiprinātajā sanācijas plānā.
+158.pants. No maksātnespējas lietas ierosināšanas dienas nav pieļaujama kredītiestādes prasījumu vai parādu pilnīga vai daļēja dzēšana ar ieskaitu, izņemot gadījumus, kad tas paredzēts Finansu un kapitāla tirgus komisijas un kreditoru sapulces apstiprinātajā sanācijas plānā.

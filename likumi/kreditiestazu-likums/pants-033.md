@@ -1,2 +1,2 @@
-33.pants. (1) Ja šā likuma 29.pantā noteiktajos gadījumos personas ir ieguvušas savā īpašumā bankas akcijas bez Finansu un kapitāla tirgus komisijas atļaujas, šīs personas nevar izmantot iegūto akciju balsstiesības.
+33.pants. (1) Ja šā likuma 29.pantā noteiktajos gadījumos personas ir ieguvušas būtisku līdzdalību bankā tiešā vai kontroles veidā bez Finansu un kapitāla tirgus komisijas atļaujas, personas, kurām pieder akcijas, kas nodrošina šādā veidā iegūto būtisko līdzdalību, nevar izmantot šo akciju balsstiesības.
 (2) Akcionāru pilnsapulces lēmumi, kuri pieņemti, nelikumīgi izmantojot šā panta pirmajā daļā minētās balsstiesības, ko nodrošina noteikts daudzums akciju, nav spēkā.

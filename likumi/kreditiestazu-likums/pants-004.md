@@ -1,1 +1,1 @@
-4.pants. Bankas dibināšanu, darbību, reorganizēšanu un likvidēšanu regulē šis likums, likums "Par akciju sabiedrībām", likums "Par vērtspapīriem" un citi likumi, ievērojot tos noteikumus, kas ietverti šajā likumā.
+4.pants. Bankas dibināšanu, darbību, reorganizēšanu un likvidēšanu regulē šis likums, Komerclikums, likums "Par vērtspapīriem" un citi likumi, ievērojot tos noteikumus, kas ietverti šajā likumā.

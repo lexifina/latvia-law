@@ -1,0 +1,3 @@
+179.⁸ pants. (1) Kreditoru komitejas darbības forma ir sēdes.
+(2) Kreditoru komitejas sēdes sasauc un vada kreditoru komitejas priekšsēdētājs. Administrators var pieprasīt, lai kreditoru komitejas priekšsēdētājs sasauc kreditoru komitejas sēdi nedēļas laikā no pieprasījuma iesniegšanas dienas.
+(3) Kreditoru komiteja ir tiesīga pieņemt lēmumus, ja sēdē piedalās vairāk nekā puse no kreditoru komitejā ievēlētajiem locekļiem. Lēmumus kreditoru komiteja pieņem ar klātesošo komitejas locekļu vienkāršu balsu vairākumu. Ja balsis sadalās līdzīgi, izšķirošā ir kreditoru komitejas priekšsēdētāja balss.

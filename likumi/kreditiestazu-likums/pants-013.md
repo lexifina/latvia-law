@@ -1,2 +1,5 @@
-13.pants. (1) Kredītiestāžu licenču (atļauju) izsniegšanas kārtību, kā arī ar banku darbību saistītos ierobežojumus nosaka Finansu un kapitāla tirgus komisija.
+13.pants. (1) Jaundibinātā kredītiestāde pirms tās ierakstīšanas Komercreģistrā iesniedz Finansu un kapitāla tirgus komisijai iesniegumu licences (atļaujas) saņemšanai. Kredītiestādes reģistrācija Komercreģistrā izdarāma tikai pēc tam, kad Finansu un kapitāla tirgus komisijas lēmums izsniegt licenci (atļauju) kredītiestādes darbībai iesniegts Komercreģistram.
 (2) (Izslēgta ar 21.05.1998. likumu.)
+(3) Bankas dibinātāji organizē naudas iemaksāšanu Latvijas Bankā pagaidu kontā un pilnībā apmaksā bankas dibināšanas pamatkapitālu līdz šā panta pirmajā daļā minētā iesnieguma izskatīšanai Finansu un kapitāla tirgus komisijā. Bankas dibināšanas pamatkapitālā var ieguldīt tikai naudu.
+(4) Finansu un kapitāla tirgus komisija nosaka licences (atļaujas) kredītiestādes darbībai un citu šajā likumā paredzēto atļauju izsniegšanas un paziņojumu iesniegšanas kārtību un iesniedzamos dokumentus, kā arī ar kredītiestāžu darbību saistītos ierobežojumus.
+(5) Ieraksti Komercreģistrā izdarāmi tikai pēc šajā likumā noteikto attiecīgo licenču (atļauju) saņemšanas.

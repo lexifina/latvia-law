@@ -1,0 +1,5 @@
+179.³ pants. (1) Tiesības būt pārstāvētiem kreditoru sapulcē ir visiem kreditoriem neatkarīgi no prasījuma apmēra. Kreditori sapulcē piedalās personiski vai ar likumisko vai līgumisko pārstāvju starpniecību.
+(2) Ja kreditoru skaits ir lielāks par trim simtiem, kreditoru sapulcē personiski piedalīties ir tiesīgi tikai tie kreditori, kuri pārstāv ne mazāk kā vienu procentu no visu prasījumu summas. Šajā gadījumā viena persona pārstāv vairākus kreditorus.
+(3) Balsstiesības kreditoru sapulcē, kurā notiek balsojums par sanācijas plānu, ir arī nodrošinātajiem kreditoriem pilnā prasījumu apmērā. Ja sanācijas plāns tiek pieņemts, balsstiesības kreditoru sapulcē sanācijas laikā ir arī tiem nodrošinātajiem kreditoriem, kuru tiesības realizēt ķīlu ir ierobežotas.
+(4) Nodrošinātajiem kreditoriem kreditoru sapulcē ir balsstiesības parāda nenodrošinātās daļas apjomā. Nodrošinātie kreditori var atteikties no nodrošinājuma vai tā daļas un pieteikt prasījumu, attiecīgi iegūstot balsstiesības visa parāda vai tā nenodrošinātās daļas apjomā.
+(5) Uz kreditoru sapulcēm tiek uzaicinātas personas, kuru piedalīšanās maksātnespējas procesā ir obligāta.

@@ -1,6 +1,5 @@
-57.pants. Kredītiestādei ir jāsaņem Finansu un kapitāla tirgus komisijas atļauja, ja:
-1) paredzēts palielināt vai samazināt kredītiestādes pamatkapitālu;
-2) tiek mainīts valdes priekšsēdētājs vai ārvalstu bankas nodaļas (filiāles) vadītājs, vietnieks vai galvenais grāmatvedis;
-3) tiek mainīta kredītiestādes juridiskā adrese;
-4) tiek mainīts kredītiestādes nosaukums;
-5) kredītiestāde tiek reorganizēta.
+57.pants. (1) Kredītiestādei ir jāsaņem Finansu un kapitāla tirgus komisijas atļauja, ja:
+1) tiek mainīts bankas valdes priekšsēdētājs, viņa vietnieks vai iekšējā audita (revīzijas) dienesta vadītājs (sabiedrības kontrolieris);
+2) kredītiestāde tiek reorganizēta.
+(2) Kredītiestādei ne vēlāk kā 15 dienas pirms attiecīgā lēmuma pieņemšanas rakstveidā jāpaziņo Finansu un kapitāla tirgus komisijai par nodomu mainīt kredītiestādes nosaukumu vai juridisko adresi. Ja septiņu dienu laikā pēc kredītiestādes paziņojuma saņemšanas Finansu un kapitāla tirgus komisija nav motivēti iebildusi pret nosaukuma vai juridiskās adreses maiņu, uzskatāms, ka Finansu un kapitāla tirgus komisija ir devusi atļauju kredītiestādes nosaukuma vai juridiskās adreses maiņai.
+(3) Kredītiestāde Finansu un kapitāla tirgus komisijas noteiktajā kārtībā sniedz Finansu un kapitāla tirgus komisijai informāciju par kredītiestādes padomes vai valdes sastāvu, akcionāriem, jaunu kredītiestādes finansu pakalpojumu sniegšanas uzsākšanu un statūtu (nolikuma) vai to grozījumu reģistrāciju.

@@ -1,3 +1,3 @@
-9.pants. (1) Vārdus "kredītiestāde", "banka", "krājaizdevu sabiedrība" vai šo vārdu savienojumu uzņēmuma (uzņēmējsabiedrības) nosaukumā vai reklāmas nolūkā var lietot tikai kredītiestādes, kurām ir Finansu un kapitāla tirgus komisijas izsniegta licence kredītiestādes darbībai.
+9.pants. (1) Vārdus "kredītiestāde", "banka" vai šo vārdu savienojumu uzņēmuma (uzņēmējsabiedrības) nosaukumā vai reklāmas nolūkā var lietot tikai kredītiestādes, kurām ir Finansu un kapitāla tirgus komisijas izsniegta licence kredītiestādes darbībai.
 (2) Vienīgi kredītiestādēm atļauts izsludināt noguldījumu un citu atmaksājamo līdzekļu pieņemšanu un pieņemt tos.
-(3) Kredītiestāde ir tiesīga sniegt arī citus finansu pakalpojumus.
+(3) Vienīgi kredītiestādēm atļauts izlaist un apkalpot bezskaidras naudas maksāšanas līdzekļus. Kredītiestāde drīkst nodot trešajām personām ar bezskaidras naudas maksāšanas līdzekļu izlaišanu un apkalpošanu saistītos apakšuzdevumus, ja kredītiestāde uzņemas pilnu atbildību par to izpildi un ja šo uzdevumu nodošana trešajām personām nerada maksājumu sistēmai papildu finansu riskus.

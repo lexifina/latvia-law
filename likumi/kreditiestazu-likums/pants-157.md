@@ -1,5 +1,5 @@
 157.pants. (1) Pēc iecelšanas līdz lietas izskatīšanai tiesā administrators veic šādas darbības:
-1) sagatavo kredītiestādes darbinieku, akcionāru (biedru) un citu personu sarakstu, kuru piedalīšanās maksātnespējas lietā ir nepieciešama, un iesniedz šo sarakstu tiesā;
+1) sagatavo kredītiestādes darbinieku, akcionāru un citu personu sarakstu, kuru piedalīšanās maksātnespējas lietā ir obligāta, un iesniedz šo sarakstu tiesā;
 2) sagatavo pārskatu par kredītiestādes aktīviem (mantu) atbilstoši to reālajai (tirgus) vērtībai un iesniedz to tiesā;
 3) apzina kredītiestādes valdījumā vai turējumā esošo trešajām personām piederošo mantu;
 4) sagatavo kreditoru sarakstu pēc kredītiestādes grāmatvedības reģistros esošajiem datiem, norādot informāciju par kreditoriem, parādu saistību apmēriem un izpildes termiņiem.

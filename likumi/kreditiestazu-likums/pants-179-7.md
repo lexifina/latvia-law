@@ -1,0 +1,4 @@
+179.⁷ pants. (1) Kreditoru komitejai ir šajā likumā noteiktās kreditoru sapulces pilnvaras sanācijas procesā.
+(2) Kreditoru sapulcei ir tiesības atcelt kreditoru komiteju.
+(3) Kreditoru komiteja pēc tās ievēlēšanas no sava vidus nekavējoties ievēlē kreditoru komitejas priekšsēdētāju. Ja kreditoru sapulce uzskata par nepieciešamu, tā var uzdot kreditoru komitejas priekšsēdētājam, vienam vai vairākiem tās locekļiem pastāvīgi kontrolēt kreditoru interešu ievērošanu sanācijas procesa gaitā. Šādā gadījumā kreditoru sapulce nosaka šo personu atalgojumu, kas tiek iekļauts administrācijas izmaksās.
+(4) Kreditoru komitejas loceklis var atteikties no pienākumu pildīšanas, par to rakstveidā brīdinot administratoru mēnesi iepriekš. Ja kreditoru komitejas locekļu skaits kļūst mazāks par pieciem, administrators sasauc kreditoru sapulci, kas ievēlē jaunus kreditoru komitejas locekļus.

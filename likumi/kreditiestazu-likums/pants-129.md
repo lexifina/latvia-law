@@ -1,3 +1,3 @@
 129.pants. (1) Finansu un kapitāla tirgus komisija, ja tā saskaņā ar šā likuma 27.panta 1.-4.punkta noteikumiem atsauc kredītiestādei izsniegto licenci kredītiestādes darbībai, piemēro pastiprinātās uzraudzības kārtību, ieceļ pilnvarnieku un iesniedz tiesā pieteikumu par šīs kredītiestādes likvidāciju un likvidatora iecelšanu, vienlaikus izvirzot likvidatora kandidatūru.
-(2) Pēc licences atsaukšanas kredītiestādes akcionāru (biedru) pilnsapulce nav tiesīga lemt par pašlikvidācijas uzsākšanu un likvidatora iecelšanu.
+(2) Pēc licences atsaukšanas kredītiestādes akcionāru sapulce nav tiesīga lemt par pašlikvidācijas uzsākšanu un likvidatora iecelšanu.
 (3) Ja tiek atsaukta kredītiestādei izsniegtā licence kredītiestādes darbībai, Finansu un kapitāla tirgus komisija nekavējoties rakstveidā par to informē Latvijas Banku.

@@ -1,1 +1,1 @@
-23.pants. Ārvalstu bankai, kura atver nodaļu (filiāli) Latvijā, gada laikā pēc licences saņemšanas jāiegulda aktīvos Latvijā vismaz viens miljons ekiju un jāuztur šāds ieguldījumu līmenis visu savu darbības laiku.
+23.pants. Ārvalstu bankai, kura atver filiāli Latvijā, gada laikā pēc licences saņemšanas jāiegulda aktīvos Latvijā vismaz viens miljons eiro un jāuztur šāds ieguldījumu līmenis visu savu darbības laiku.

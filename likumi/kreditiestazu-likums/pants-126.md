@@ -1,5 +1,5 @@
 126.pants. (1) Kredītiestādes likvidāciju var veikt:
-1) saskaņā ar kredītiestādes akcionāru (biedru) pilnsapulces lēmumu (pašlikvidācija);
+1) saskaņā ar kredītiestādes akcionāru sapulces lēmumu (pašlikvidācija);
 2) saskaņā ar tiesas nolēmumu;
 3) bankrota gadījumā.
 (2) Aizliegts likvidēt kredītiestādi, lai veiktu tās reorganizāciju.
