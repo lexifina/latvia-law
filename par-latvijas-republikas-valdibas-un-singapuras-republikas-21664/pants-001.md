@@ -1,0 +1,1 @@
+1.pants. 1998.gada 7.jūlijā Singapūrā parakstītais Latvijas Republikas valdības un Singapūras Republikas valdības līgums par ieguldījumu savstarpēju veicināšanu un aizsardzību (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
