@@ -1,0 +1,1 @@
+6. Saskaņā ar likuma 27.pantu sagatavotā Nacionālās drošības koncepcija un saskaņā ar 29.pantu sagatavotā Valsts aizsardzības koncepcija ir apstiprināma 7.Saeimas pilnvaru laikā līdz 2001.gada 1.oktobrim.

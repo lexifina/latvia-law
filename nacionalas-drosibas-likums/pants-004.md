@@ -1,0 +1,2 @@
+4.pants. Nacionālās drošības sistēmas subjektu kompetences sadalījuma principi
+Nacionālās drošības subjektu kompetences sadalījuma pamatā ir Latvijas Republikas Satversmē noteiktā valsts iekārta, parlamentārā demokrātija un valsts varas dalīšanas princips, kā arī principi, saskaņā ar kuriem tiek veikta parlamentārā un civilā kontrole pār Nacionālajiem bruņotajiem spēkiem, Iekšlietu ministrijas sistēmas un valsts drošības iestādēm.
