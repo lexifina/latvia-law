@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums \"Par atbilstības novērtēšanu\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "139 (624)",
+  "official_journal_page": null,
+  "official_journal_date": "1996-08-20",
+  "entry_into_force": "1996-09-03",
+  "notification_date": "2016-05-06",
+  "commission_reference": "MNE(2016)53018",
+  "nim_celex": "72014L0053LVA_237313",
+  "nim_id": "237313",
+  "transposes_celex": [
+    "32014L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/691837af-c05c-4949-8450-046825a91e7b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
