@@ -1,0 +1,4 @@
+13.pants. Informācijas sniegšana
+(1) Informāciju par personas deklarēto dzīvesvietu vai papildu adresi (adresēm) fiziskajām un juridiskajām personām sniedz Pārvalde Iedzīvotāju reģistra likumā noteiktajā kārtībā. Šādu informāciju Ministru kabineta noteiktajā kārtībā var sniegt arī iestāde, kurai ir tiešsaistes datu pārraide ar Iedzīvotāju reģistru.
+(2) Valsts varas un pārvaldes iestādēm, pašvaldībām un to iestādēm, organizācijām un citām juridiskajām personām, kurām deleģētas valsts pārvaldes funkcijas, kā arī tiesai un prokuratūrai informāciju par personas dzīvesvietu un papildu adresi (adresēm) atbilstoši minēto iestāžu kompetencei sniedz Pārvalde Iedzīvotāju reģistra likumā noteiktajā kārtībā.
+(3) Iedzīvotāju reģistrs reizi gadā pēc nekustamā īpašuma īpašnieka vai viņa pilnvarotas personas pieprasījuma Ministru kabineta noteiktajā kārtībā bez maksas sniedz nekustamā īpašuma īpašniekam ziņas par personām, kuras deklarējušas dzīvesvietu viņa īpašumā.

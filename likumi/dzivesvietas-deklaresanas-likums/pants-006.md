@@ -1,0 +1,5 @@
+6.pants. Dzīvesvietas deklarēšanas pienākums
+(1) Pienākums deklarēt dzīvesvietu ir Latvijas pilsoņiem un nepilsoņiem, bezvalstniekiem, kuri saņēmuši Latvijas Republikā izdotu bezvalstnieka personu apliecinošu dokumentu, ārvalstniekiem un bezvalstniekiem, kuri saņēmuši uzturēšanās atļauju, kā arī bēgļiem (turpmāk - dzīvesvietas deklarētājs).
+(2) Personas, kuras saskaņā ar Latvijas Republikas normatīvajiem aktiem un Latvijas Republikai saistošiem starptautiskajiem līgumiem bauda diplomātiskās vai konsulārās un tām pielīdzinātās privilēģijas un imunitātes, dzīvesvietu var deklarēt ārlietu ministra noteiktajā kārtībā.
+(3) Nepilngadīgo un rīcībnespējīgo personu dzīvesvietu deklarē persona, kura saskaņā ar likumu vai bāriņtiesas (pagasttiesas) lēmumu ir attiecīgās personas aizbildnis vai aizgādnis (turpmāk - likumiskais pārstāvis).
+(4) Dzīvesvietas deklarēšanas pienākums ir izpildīts, ja dzīvesvietas deklarētājs iesniedzis dzīvesvietas deklarēšanas iestādei šajā likumā noteiktajā kārtībā aizpildītu un parakstītu dzīvesvietas deklarēšanas veidlapu (turpmāk - deklarācija).

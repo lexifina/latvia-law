@@ -1,0 +1,4 @@
+10.pants. Dzīvesvietas reģistrācija pēc iestādes iniciatīvas
+(1) Ziņas par to personu dzīvesvietu, kuras savu dzīvesvietu nav deklarējušas, Iedzīvotāju reģistrā aktualizē iestāde, ja tiek konstatēts nekustamais īpašums (ar adresi), kurā šī persona dzīvo. Uzskatāms, ka persona dzīvo tajā nekustamajā īpašumā, kurā tā pavada diennakts atpūtai nepieciešamo laiku vismaz vienu reizi nedēļā vai arī proporcionāli tādu pašu diennakts atpūtai nepieciešamo laiku citā noteiktā laika periodā.
+(2) Dzīvesvieta tiek reģistrēta, ja par personas faktisko dzīvesvietu ir saņemtas ziņas no valsts vai pašvaldību institūcijām, ārstniecības, izglītības un citām iestādēm vai personām.
+(3) Ministru kabinets nosaka saņemto ziņu pārbaudes kārtību, kā arī personas faktiskās dzīvesvietas reģistrācijai nepieciešamo ziņu apjomu.

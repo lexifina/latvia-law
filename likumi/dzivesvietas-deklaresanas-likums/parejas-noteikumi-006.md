@@ -1,0 +1,1 @@
+6. Ministru kabinets līdz 2003.gada 1.jūnijam nosaka kārtību, kādā iestāde, kurai ir tiešsaistes datu pārraide ar Iedzīvotāju reģistru, sniedz informāciju fiziskajām un juridiskajām personām par personas deklarēto dzīvesvietu vai papildu adresi (adresēm).

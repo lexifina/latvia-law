@@ -1,0 +1,1 @@
+7. Līdz brīdim, kamēr attiecīgajai pašvaldībai tiek nodrošināta tiešsaistes datu pārraide ar Iedzīvotāju reģistru, pēc pašvaldības pieprasījuma Pārvalde reizi mēnesī datorizēti sagatavo ziņas par personām, kuras ir mainījušas dzīvesvietu, deklarējot to citas pašvaldības administratīvajā teritorijā.

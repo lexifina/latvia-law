@@ -1,0 +1,1 @@
+3. Ziņas par to personu dzīvesvietu, kuras šā likuma spēkā stāšanās dienā nekur nav pierakstītas un kurām nav tiesiska pamata deklarēt savu dzīvesvietu kādā nekustamajā īpašumā (ar adresi), reģistrē atbilstoši šā likuma 10.panta noteikumiem. Līdz dzīvesvietas reģistrācijai uz šīm personām attiecināmi šā likuma 12.panta piektās daļas noteikumi.

@@ -1,0 +1,1 @@
+2. Personai, kuras faktiskā dzīvesvieta šā likuma spēkā stāšanās dienā nesakrīt ar pieraksta vietu, ir tiesības sešu mēnešu laikā pēc šā likuma spēkā stāšanās vienu reizi bez valsts nodevas iemaksāšanas deklarēt dzīvesvietu saskaņā ar šā likuma 3.panta noteikumiem.
