@@ -1,1 +1,1 @@
-1. Ar šā likuma spēkā stāšanās dienu sakropļojuma vai arodslimības dēļ nodarītā kaitējuma atlīdzināšanas pienākums pāriet no uzņēmuma (uzņēmējsabiedrības), iestādes vai organizācijas Darba negadījumu fondam Ministru kabineta noteiktajā kārtībā.
+1. Likums attiecas arī uz personām, kuras līdz 1940. gada 17. jūnijam Latvijas Republikā bija apdrošinātas pret nelaimes gadījumiem darbā un arodslimībām un zaudēja darbspējas sakarā ar nelaimes gadījumu darbā vai arodslimību.

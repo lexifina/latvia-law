@@ -3,8 +3,8 @@
 (2) Apdrošinātajai personai paredzētas šādas naudas izmaksas:
 1) pārejošas darba nespējas pabalsts;
 2) atlīdzība par darbspēju zaudējumu;
-3) vienreizējs pabalsts, kas tiek izmaksāts atkarībā no darbspēju zaudējuma;
-4) atlīdzība par papildu ēdināšanu, par protezēšanu, pavadoņa apmaksa un ārstniecības iestāžu apmeklēšanai paredzēto ceļa izdevumu apmaksa, maksa par rehabilitācijas līdzekļu iegādi, to remontu.
+3) vienreizējs pabalsts, ar ko var aizstāt atlīdzību par darbspēju zaudējumu, ja VDEĀK noteikusi apdrošinātajai personai nepārejošu darbspēju zaudējumu 10 līdz 24 procentu robežās;
+4) atlīdzība par protezēšanu, maksa par rehabilitācijas līdzekļu iegādi un to remontu, pavadoņa apmaksa, ārstniecības iestāžu apmeklēšanai paredzēto ceļa izdevumu apmaksa, kā arī personas izdevumu apmaksa par ārstēšanu, aprūpi, medicīnisko un profesionālo rehabilitāciju, ja šie izdevumi pārsniedz veselības aprūpes bāzes programmā un rehabilitācijai sociālās aprūpes bāzes programmā vai veselības aprūpes bāzes programmā vai rehabilitācijai sociālās aprūpes bāzes programmā paredzēto.
 (3) Apdrošinātajai personai paredzēti šādi pakalpojumi:
 1) ārstēšana, aprūpe un medicīniskā rehabilitācija;
 2) pārkvalifikācija;
@@ -12,4 +12,4 @@
 (4) Trešajai personai paredzētas šādas naudas izmaksas:
 1) atlīdzība par apgādnieka zaudējumu darba nespējīgajiem apdrošinātās personas ģimenes locekļiem, kas bijuši tās apgādībā;
 2) apdrošinātās personas apbedīšanas pabalsts.
-(5) Piešķirot apdrošināšanas atlīdzību (naudas izmaksas par pārejošu darba nespēju, darbspēju zaudējumu, apgādnieka zaudējumu, kā arī izmaksājot vienreizējus pabalstus un atlīdzības), par pamatu tiek ņemta apdrošinātās personas mēneša vidējā izpeļņa. Apdrošināšans atlīdzība nedrīkst būt lielāka par Ministru kabineta noteiktajām 15 minimālajām darba algām.
+(5) Piešķirot apdrošināšanas atlīdzību (naudas izmaksas par pārejošu darba nespēju, darbspēju zaudējumu, apgādnieka zaudējumu, kā arī izmaksājot vienreizējus pabalstus un atlīdzības), par pamatu tiek ņemta apdrošinātās personas mēneša vidējā izpeļņa. Apdrošināšans atlīdzība nedrīkst būt lielāka par Ministru kabineta noteiktajām 15 minimālajām mēnešalgām (amatalgām).

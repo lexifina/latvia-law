@@ -1,6 +1,6 @@
 17. pants. Apdrošināto personu un trešo personu tiesības
 (1) Apdrošinātajai personai, kura cietusi nelaimes gadījumā darbā vai saslimusi ar arodslimību un attiecībā uz kuru ir iestājies apdrošināšanas gadījums, ir tiesības saņemt šā likuma 14. pantā noteikto apdrošināšanas atlīdzību.
-(2) Apdrošinātajai personai un trešajai personai ir tiesības saņemt no Darba negadījumu fonda visu veidu informāciju, kas saistīta ar attiecīgo apdrošināšanas gadījumu.
+(2) Apdrošinātajai personai un trešajai personai ir tiesības saņemt no Valsts sociālās apdrošināšanas fonda visu veidu informāciju, kas saistīta ar attiecīgo apdrošināšanas gadījumu.
 (3) Trešajai personai ir tiesības saņemt šā likuma 14. pantā tai noteikto apdrošināšanas atlīdzību, ja apdrošinātās personas nāvi ir izraisījis nelaimes gadījums darbā vai arodslimība.
 (4) Ja apdrošinātā persona vai trešā persona, kura saskaņā ar šo likumu ir ieguvusi tiesības uz apdrošināšanas atlīdzību, aizbrauc no Latvijas uz pastāvīgu dzīvi ārzemēs, tā turpina saņemt apdrošināšanas atlīdzību, sākot ar aizbraukšanas dienu, tik ilgu laiku un tādā apmērā, kā paredzēts šajā likumā.
 (5) Ja persona, kurai pienākas atlīdzība par darbspēju zaudējumu, atrodas brīvības atņemšanas vietā, tā zaudē tiesības uz atlīdzības izmaksu par brīvības atņemšanas vietā pavadāmo laiku.

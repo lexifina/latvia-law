@@ -1,2 +1,2 @@
 11. pants. Apdrošināšanas maksājumu iekasēšana un izmaksu veikšana
-Apdrošināšanas maksājumus Darba negadījumu fonda kontā iekasē un izmaksas no tā veic Valsts sociālās apdrošināšanas fonds.
+Apdrošināšanas maksājumus apdrošināšanai pret nelaimes gadījumiem darbā un arodslimībām iekasē un izmaksas no šiem līdzekļiem veic Valsts sociālās apdrošināšanas fonds.

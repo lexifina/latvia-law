@@ -1,8 +1,8 @@
-6. pants. Darba negadījumu fonda funkcijas
-Darba negadījumu fonda funkcijas ir šādas:
+6. pants. Valsts sociālās apdrošināšanas fonda funkcijas
+Veicot apdrošināšanu pret nelaimes gadījumiem darbā un arodslimībām, Valsts sociālās apdrošināšanas fonda funkcijas ir šādas:
 1) organizēt obligāto apdrošināšanu pret nelaimes gadījumiem darbā un arodslimībām;
 2) noteikt katra apdrošinājuma ņēmēja atbilstību bīstamības grupai un attiecīgo apdrošināšanas tarifa likmi;
-3) pārvaldīt fonda līdzekļus;
+3) pārvaldīt apdrošināšanas līdzekļus;
 4) nodrošināt apdrošinātajai personai vai trešajai personai apdrošināšanas atlīdzību, arī gadījumos, kad apdrošinājuma ņēmējs likumā noteiktajā kārtībā nav izdarījis paredzētās apdrošināšanas iemaksas;
 5) izvērtēt katru apdrošināšanas gadījumu un noteikt apdrošināšanas atlīdzību;
 6) kontrolēt apdrošināšanas līdzekļu iekasēšanu un iekasēto līdzekļu izlietošanu;
