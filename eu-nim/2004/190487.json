@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Finanšu instrumentu tirgus likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "175",
+  "official_journal_page": null,
+  "official_journal_date": "2003-12-11",
+  "entry_into_force": "2004-01-01",
+  "notification_date": "2012-05-02",
+  "commission_reference": "MNE(2012)52055",
+  "nim_celex": "72010L0078LVA_190487",
+  "nim_id": "190487",
+  "transposes_celex": [
+    "32010L0078"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2ccb621c-5f3d-4d69-8e8d-1d15844864c5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
