@@ -1,0 +1,2 @@
+3. Pēc tam, kad pārejas noteikumu 2.punktā minētie nosacījumi izpildīti attiecībā uz visām zemesgrāmatu nodaļas pārziņā esošajām zemesgrāmatām, nodaļas priekšnieks pieņem lēmumu pārtraukt zemesgrāmatu vešanu līdzšinējā formā un pāriet uz to kārtošanu datorizētā veidā.
+Līdzšinējās zemesgrāmatas, nostiprinājumu žurnālus, zemesgrāmatu nodaļu tiesnešu lēmumu oriģinālus, nekustamo īpašumu lietas un alfabētiskos rādītājus saglabā arhīvā.

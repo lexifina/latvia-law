@@ -1,2 +1,0 @@
-108. Valsts iestādēm un amatpersonām iepriekšējā (107.) pantā paredzētās nodevas nav jāmaksā, ciktāl 109. pants neparedz izņēmumu.
-Fiziskās personas - bijušie zemes īpašnieki, kuriem pēc stāvokļa uz 1940.gada 21. jūliju piederēja zemes īpašums Latvijas Republikā un kuriem zemes reformas gaitā tiek atjaunotas bijušā zemes īpašuma tiesības, - ir atbrīvotas no šā likuma 107.pantā noteikto kancelejas nodevu maksāšanas.
