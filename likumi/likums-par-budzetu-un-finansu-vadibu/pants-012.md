@@ -1,2 +1,2 @@
 12. pants. Līdzekļi neparedzētiem gadījumiem
-Līdzekļi neparedzētiem gadījumiem un nacionāli īpaši nozīmīgiem pasākumiem tiek iekļauti kā sastāvdaļa Finansu ministrijas pārziņā esošās valsts budžeta apropriācijas ietvaros. Finansu ministrs ik ceturksni sniedz pārskatu Saeimai par šādas apropriācijas izlietošanu.
+Līdzekļi neparedzētiem gadījumiem un nacionāli īpaši nozīmīgiem pasākumiem tiek iekļauti kā sastāvdaļa Finansu ministrijas pārziņā esošās valsts pamatbudžeta apropriācijas ietvaros. Ministrijas, citas centrālās valsts iestādes un pašvaldības sagatavo nepieciešamo līdzekļu pieprasījumu finansu ministra noteiktajā kārtībā. Finansu ministrs ik ceturksni sniedz pārskatu Saeimai par šādas apropriācijas izlietošanu.

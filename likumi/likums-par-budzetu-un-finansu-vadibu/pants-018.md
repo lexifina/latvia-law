@@ -1,6 +1,6 @@
 18. pants. Budžeta pieprasījumu sastāvs
 (1) Budžeta pieprasījumos:
-1) norāda noteiktiem mērķiem paredzēto naudas līdzekļu daudzumu pagājušajam, kārtējam, nākamajam un aiznākamajam saimnieciskajam gadam saskaņā ar noteikto klasifikāciju;
+1) norāda noteiktiem mērķiem faktiski izlietoto naudas līdzekļu daudzumu pagājušajā gadā, paredzēto naudas līdzekļu daudzumu kārtējam gadam un vidējam termiņam saskaņā ar finansu ministra noteikto klasifikāciju;
 2) dod kopsavilkumu par štata vienībām, pedagogu likmēm;
 3) norāda kapitālajiem izdevumiem - kapitālremontam, pamatlīdzekļu iegādēm - plānojamo naudas līdzekļu apjomu;
 4) norāda investīcijām plānojamo naudas līdzekļu apjomu un plānojamos ikgadējos ekspluatācijas izdevumus pēc projekta pabeigšanas turpmākajos piecos gados;

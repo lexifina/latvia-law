@@ -1,0 +1,1 @@
+6. Šā likuma preambulā, I nodaļas termina "budžeta finansētas institūcijas" skaidrojumā, kā arī 27.panta trešajā daļā minētā norma saistībā ar valsts un pašvaldību aģentūrām stājas spēkā vienlaikus ar likuma par aģentūrām stāšanos spēkā.

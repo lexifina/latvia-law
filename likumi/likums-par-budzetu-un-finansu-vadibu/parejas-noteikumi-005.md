@@ -1,0 +1,1 @@
+5. Šā likuma 20.panta trešajā un sestajā daļā, kā arī 21.panta pirmajā daļā minētās vidēja termiņa makroekonomiskās attīstības un fiskālās politikas pamatnostādnes izstrādā un akceptē Ministru kabinetā un iesniedz Saeimai, sākot ar 2002.gada valsts budžeta likuma projektu (budžeta likumprojektu paketi).

@@ -10,5 +10,5 @@ b) ikgadējās parāda saistības attiecībā uz pieciem turpmākajiem gadiem;
 5) neatmaksāto valsts parādu, valsts ņemto aizņēmumu un doto aizdevumu pilnīgu sarakstu;
 6) pārskatu par valsts vārdā izsniegtajiem galvojumiem, kā arī darījumiem sakarā ar valsts galvojumu saistībām;
 7) pārskatu par finansu ministra veiktajām investīcijām šā likuma 34. panta kārtībā;
-8) pašvaldību budžetu izpildes un kopbudžetu izpildes kopsavilkumu;
+8) pašvaldību budžetu izpildes kopsavilkumu un konsolidētā kopbudžeta izpildes pārskatu;
 9) citus paskaidrojumus, kurus finansu ministrs atzīst par nepieciešamiem.
