@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums par Valsts ieņēmumu dienestu",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "105",
+  "official_journal_page": null,
+  "official_journal_date": "1993-11-11",
+  "entry_into_force": null,
+  "notification_date": "2005-07-20",
+  "commission_reference": "MNE(2005)52698",
+  "nim_celex": "71976L0308LVA_122698",
+  "nim_id": "122698",
+  "transposes_celex": [
+    "31976L0308",
+    "31977L0799",
+    "31979L1071",
+    "32001L0044",
+    "32002L0094",
+    "32003L0093"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8ad8336b-7738-441a-bb2f-b8f7cd0683d9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
