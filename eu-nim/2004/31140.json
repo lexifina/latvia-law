@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta kārtības rullī",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "124",
+  "official_journal_page": null,
+  "official_journal_date": "2004-08-06",
+  "entry_into_force": "2004-08-07",
+  "notification_date": "2004-09-24",
+  "commission_reference": "MNE(2004)51140",
+  "nim_celex": "71998L0034LVA_31140",
+  "nim_id": "31140",
+  "transposes_celex": [
+    "31998L0034",
+    "31998L0048"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c998a938-c0ce-499e-b1c7-01431cd306ec",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
