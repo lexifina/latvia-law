@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2002.gada 19.februāra noteikumi Nr.68 “Izglītības programmu minimālās prasības zobārsta, farmaceita, māsas un vecmātes profesionālās kvalifikācijas iegūšanai”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "32 (2607)",
+  "official_journal_page": null,
+  "official_journal_date": "2002-02-27",
+  "entry_into_force": "2002-08-01",
+  "notification_date": "2016-05-02",
+  "commission_reference": "MNE(2016)52870",
+  "nim_celex": "72013L0055LVA_237148",
+  "nim_id": "237148",
+  "transposes_celex": [
+    "32013L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8a8a9688-6630-4796-ab54-37fba9d6bc5e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
