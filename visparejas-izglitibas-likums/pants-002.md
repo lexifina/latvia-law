@@ -1,0 +1,2 @@
+2.pants. Likuma mērķis
+Šā likuma mērķis ir reglamentēt valsts, pašvaldību izglītības iestāžu un citu vispārējās izglītības īstenošanas procesā iesaistīto personu darbību, noteikt to tiesības un pienākumus, kā arī radīt apstākļus radošas, vispusīgi izglītotas personības veidošanai, izglītojamo nepārtrauktai izglītības turpināšanai, profesijas apguvei, patstāvīgai orientācijai sabiedriskajā un valsts dzīvē.

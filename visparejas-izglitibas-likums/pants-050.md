@@ -1,0 +1,8 @@
+50.pants. Speciālās izglītības programmu īstenošana
+(1) Speciālās izglītības programmas īsteno atbilstoši izglītojamo attīstības traucējuma veidam, viņu spējām un veselības stāvoklim, ko nosaka pedagoģiski medicīniskā komisija.
+(2) Individuālās speciālās izglītības programmas izglītojamajiem ar smagu garīgo atpalicību vai vairākiem smagiem attīstības traucējumiem ir paredzētas 9 gadiem. Atkarībā no izglītojamo veselības stāvokļa un izglītības iestādes iespējām individuālo izglītības programmu īstenošana darba iemaņu veidošanā var ilgt līdz 12 gadiem.
+(3) Speciālās izglītības programmas izglītojamajiem ar garīgās attīstības traucējumiem ir paredzētas 9 gadiem. Ja programmas īstenotājs nodrošina iespēju iegūt vispārējo vai profesionālo izglītību, programmu var īstenot ilgākā laika posmā, bet ne ilgāk par 12 gadiem.
+(4) Profesionālās izglītības programmas var īstenot viena gada līdz triju gadu laikā jebkurā speciālās izglītības iestādē pēc pamatizglītības vai vispārējās vidējās izglītības iegūšanas.
+(5) Speciālās izglītības programmas vājdzirdīgiem, vājredzīgiem un neredzīgiem izglītojamajiem vispārējās pamatizglītības iegūšanai ir paredzētas 10 gadiem, bet vispārējās vidējās izglītības iegūšanai - 3 gadiem.
+(6) Speciālās izglītības programmas nedzirdīgiem izglītojamajiem vispārējās pamatizglītības iegūšanai ir paredzētas 11 gadiem, bet vispārējās vidējās izglītības iegūšanai - 3 gadiem.
+(7) Speciālās izglītības programmas izglītojamajiem ar psihiskās attīstības aizturi un grūtībām mācībās vai smagiem logopēdiskiem traucējumiem vispārējās pamatizglītības iegūšanai ir paredzētas 10 gadiem.
