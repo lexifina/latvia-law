@@ -1,0 +1,1 @@
+1.pants. 1996.gada 23.oktobrī Seulā parakstītais Latvijas Republikas valdības un Korejas Republikas valdības līgums par ieguldījumu veicināšanu un aizsardzību (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
