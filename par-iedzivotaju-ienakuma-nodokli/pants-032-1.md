@@ -1,0 +1,2 @@
+32.¹ pants. Maksātāja atbildība par citiem nodokļu likumu pārkāpumiem
+Maksātājam, kuram atbilstoši šā likuma noteikumiem ir jāiesniedz deklarācija, deklarācijas iesniegšanas termiņa neievērošanas gadījumā tiek uzlikta soda nauda triju procentu apmērā no ienākuma summas, no kuras taksācijas gada laikā nav ieturēts nodoklis, ja deklarācija nav iesniegta visa pēctaksācijas gada laikā, kad tas atbilstoši šā likuma prasībām bija jādara.

@@ -1,5 +1,5 @@
 11. pants. No saimnieciskās darbības gūtā apliekamā ienākuma noteikšana
-1. Fiziskās personas ienākums no saimnieciskās darbības (arī no uzņēmuma līguma un individuālā uzņēmuma, zemnieku vai zvejnieku saimniecības) tiek aprēķināts kā šajā pantā noteikto ieņēmumu un ar to gūšanu saistīto izdevumu starpība.
+1. Fiziskās personas ienākums no saimnieciskās darbības (arī no uzņēmuma līguma un individuālā uzņēmuma, zemnieku vai zvejnieku saimniecības, advokātu un notāru darbības) tiek aprēķināts kā šajā pantā noteikto ieņēmumu un ar to gūšanu saistīto izdevumu starpība.
 2. Ieņēmumos, kas gūti no saimnieciskās darbības, tiek ieskaitīti:
 1) ieņēmumi no preču, darbu un pakalpojumu pārdošanas;
 2) ieņēmumi no īpašuma un telpu iznomāšanas vai izīrēšanas;
@@ -17,7 +17,9 @@
 10) procentu maksa par banku kredīta izmantošanu, izņemot soda naudas maksājumus;
 11) maksa par licenci;
 12) zaudējumi tiesas noteiktajā apmērā, kuri nodarīti līgumpartneriem, neizpildot vai pienācīgi neizpildot savas saistības;
-13) Latvijas Republikā noteikto nodokļu (izņemot iedzīvotāju ienākuma nodokli) un nodevu (izņemot valsts nodevu par prasības pieteikumu tiesā) maksājumi valsts vai pašvaldības budžetā.
+13) Latvijas Republikā noteikto nodokļu (izņemot iedzīvotāju ienākuma nodokli) un nodevu (izņemot valsts nodevu par prasības pieteikumu tiesā) maksājumi valsts vai pašvaldības budžetā;
+14) drošības nauda meža atjaunošanas darbiem un meža atjaunošanas izmaksas Ministru kabineta noteiktajā kārtībā.
 4. Ar saimniecisko darbību saistītajos izdevumos netiek ieskaitīti izdevumi, kas atbilstoši likuma "Par uzņēmumu ienākuma nodokli" 5.pantam nav uzskatāmi par tādiem izdevumiem, kas ir tieši saistīti ar saimniecisko darbību.
 5. Maksātājam jāveic likumdošanas aktos noteiktā ieņēmumu un ar ienākumu gūšanu saistīto izdevumu uzskaite. Maksātāja tiesības uz to, lai no apliekamā ienākuma tiktu izslēgti ar saimnieciskās darbības veikšanu saistītie izdevumi, pierādāmas dokumentāri, uzrādot attiecīgus dokumentus vai iesniedzot to kopijas Valsts ieņēmumu dienesta rajona nodokļu inspekcijai.
 6. Zemnieku un zvejnieku saimniecību apliekamajā ienākumā netiek ietverti produkti (pašpatēriņš), ko savām vajadzībām izlietojis saimniecības īpašnieks un viņa ģimenes locekļi, kā arī personas, kuras ar saimniecības īpašnieku ir radniecībā līdz trešajai pakāpei vai svainībā līdz otrajai pakāpei.
+7. Saskaņā ar šā likuma 17.panta desmitās daļas 6.punkta noteikumiem kārtību, kādā kokmateriālu un augoša meža pārdošanas ienākumi apliekami ar nodokli, nosaka Ministru kabinets. Ieturot nodokli no metāllūžņu pārdošanas ienākumiem, pirms nodokļa aprēķināšanas no izmaksājamās summas atskaitāmi ar metāllūžņu sagatavošanu un pārdošanu saistītie izdevumi, piemērojot normu 15 procentu apmērā no izmaksājamās summas.

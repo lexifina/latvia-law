@@ -10,10 +10,9 @@ f) par brāli, māsu, kas ir jaunāki par 18 gadiem, ja viņiem nav darbaspējī
 g) par apgādībā esošu personu apgādājamiem,
 h) par personu, kuras labā pēc tiesas sprieduma no maksātāja tiek piedzīta uzturnauda (alimenti),
 i) par maksātāju aizbildnībā vai aizgādnībā esošu personu;
-2) papildu atvieglojumi:
-a) I vai II grupas invalīdam - maksātāja gada (mēneša) neapliekamā minimuma apmērā, ja viņš nesaņem papildu atvieglojumu kā politiski represētā persona,
-b) III grupas invalīdam - divu trešdaļu apmērā no maksātāja gada (mēneša) neapliekamā minimuma, ja viņš nesaņem papildu atvieglojumu kā politiski represētā persona,
-c) politiski represētai personai - maksātāja gada neapliekamā minimuma apmērā.
+2) personām, kurām pensija piešķirta līdz 1996.gada 1.janvārim atbilstoši likumam "Par valsts pensijām", neapliekamais minimums ir šīs pensijas apmērā;
+3) personām, kurām pensija piešķirta pēc 1996.gada 1.janvāra atbilstoši likumam "Par valsts pensijām", neapliekamais minimums šīm pensijām ir 1200 latu gadā;
+4) personām, kuras saskaņā ar likumiem ir atzītas par invalīdiem vai politiski represētām personām, nodokļu papildu atvieglojumu apmēru un to piemērošanas kārtību nosaka Ministru kabinets.
 2. Ja šā panta pirmajā daļā minētās personas gūst ienākumus, maksātājs tos uzrāda savā deklarācijā, izņemot šā panta trešajā daļā paredzētos gadījumus.
 3. Šā panta pirmās daļas 1. punktā noteiktie atvieglojumi nav piemērojami, ja šajā punktā minētās personas patstāvīgi saņem ar nodokli apliekamos ienākumus, kas pārsniedz pusi no noteiktā neapliekamā minimuma, vai bezdarbnieka pabalstu (stipendiju) vai tās uztur kāda cita persona.
 4. Nerezidentiem nav tiesību uz šajā pantā noteiktajiem nodokļa atvieglojumiem.

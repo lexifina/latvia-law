@@ -12,4 +12,5 @@
 5) ienākums no Latvijas Republikā reģistrētas līgumsabiedrības;
 6) ienākums likvidācijas kvotas veidā no Latvijas Republikā reģistrētas uzņēmējsabiedrības likvidācijas - tādā apmērā, kādā tas pārsniedz izmaksājamo dividendi;
 7) ienākums no Latvijas Republikā esoša nekustamā īpašuma;
-8) ienākums no kustamā īpašuma izmantošanas Latvijas Republikā.
+8) ienākums no kustamā īpašuma izmantošanas Latvijas Republikā;
+9) personiskās palīgsaimniecības, piemājas saimniecības, kā arī zemnieku un zvejnieku saimniecības ienākums no lauksaimnieciskās ražošanas.

@@ -1,10 +1,4 @@
 20. pants. Ienākumu deklarēšanas atvieglojumi
-1. Tiesības neiesniegt deklarāciju ir šādām iedzīvotāju kategorijām:
-1) personām, kuras ir jaunākas par 16 gadiem, ja tās negūst ar nodokli apliekamus ienākumus;
-2) nerezidentiem (šā likuma 2.panta 2.punktā minētajām personām), izņemot personas, kuras guvušas šā likuma 8.panta trešās daļas 1., 2., 3., 4., 5., 6., 7. un 10. punktā minētos ienākumus;
-3) personām, kuru gada ienākuma kopējais apjoms nepārsniedz gada neapliekamo minimumu.
-2. Šā panta pirmās daļas 1. un 3.punktā minētajām personām, izņemot personas, kuras ir jaunākas par 16 gadiem, jāiesniedz nodokļu inspekcijai pēc savas dzīvesvietas paziņojums par deklarācijas neiesniegšanu.
-3. Tiesības iesniegt saīsinātu gada ienākumu deklarāciju ir:
-1) personām, kuras guvušas ienākumus tikai kā darba ņēmējas;
-2) personām, kuras guvušas tikai šā likuma 8.panta trešās daļas 1., 2., 3., 4., 5., 6., 7., 8. un 10. punktā minētos ienākumus.
-4. Tiesības iesniegt saīsinātu deklarāciju taksācijas gada laikā ir personām, kas saņem šā likuma 8.panta trešās daļas 8. punktā noteiktos ienākumus.
+1. Iekšzemes nodokļa maksātājam, kas taksācijas gada laikā ir saņēmis Latvijas Republikā ienākumus, no kuriem izmaksas vietā ir ieturēts nodoklis, turklāt viņa saņemto šā likuma 9.panta pirmajā daļā minēto ar nodokli neapliekamo ienākumu kopējā summa nepārsniedz taksācijas gadam noteikto neapliekamā minimuma apmēru, ir tiesības neiesniegt deklarāciju, ja šajā vai citos likumos nav noteikts citādi. Minētais nosacījums attiecināms arī uz gadījumiem, kad iekšzemes nodokļu maksātājs taksācijas gada laikā ir saņēmis tikai Latvijas Republikā ienākumus, no kuriem izmaksas vietā ir ieturēts nodoklis vai tikai šā likuma 9.panta pirmajā daļā minētos ar nodokli neapliekamos ienākumus, kuru kopējā summa nepārsniedz taksācijas gadam noteikto neapliekamo minimumu.
+2. Ja iekšzemes nodokļa maksātājs šā likuma 19.panta piektajā daļā noteiktajā termiņā nav iesniedzis deklarāciju, šis fakts ir maksātāja apliecinājums tam, ka no viņa taksācijas gadā saņemtajiem ienākumiem nodoklis ir ieturēts pilnā apmērā. Ja Valsts ieņēmumu dienesta rīcībā ir informācija, ka maksātājs taksācijas gada laikā ir saņēmis ar nodokli apliekamus ienākumus, no kuriem izmaksas vietā nav ieturēts nodoklis, deklarācijas neiesniegšanas gadījumā viņam piemēro šā likuma 32.¹ pantā noteiktās sankcijas.
+3. Ārvalstu nodokļa maksātājam nav jāiesniedz deklarācija, izņemot gadījumu, ja viņš saņem šā likuma 3.panta trešās daļas 7., 8. un 9.punktā minētos ienākumus.
