@@ -1,0 +1,1 @@
+1.pants. 2000.gada 30.novembra Protokols par grozījumiem Konvencijas par Eiropas Policijas biroja izveidi (Eiropola konvencija) 2.pantā un tās pielikumā, pamatojoties uz minētās konvencijas 43.panta 1.punktu (turpmāk - Protokols), ar šo likumu tiek pieņemts un apstiprināts.
