@@ -1,0 +1,1 @@
+Atzīt par spēku zaudējušu Latvijas Republikas Augstākās padomes 1993.gada 11.maija lēmumu "Par Latvijas Republikas likuma "Par cukuru" spēkā stāšanās kārtību" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1993, 20./21.nr.).
