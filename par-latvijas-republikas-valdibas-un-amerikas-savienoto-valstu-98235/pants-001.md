@@ -1,0 +1,1 @@
+1.pants. 2004.gada 27.septembrī Rīgā parakstītais Latvijas Republikas valdības un Amerikas Savienoto Valstu valdības līgums par sadarbību tiesībaizsardzības jomā (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
