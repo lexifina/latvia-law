@@ -1,0 +1,4 @@
+34.pants. Nesēja atlīdzība par filmas un fonogrammas reproducēšanu personiskām vajadzībām
+(1) Nesēja atlīdzību par filmas un fonogrammas reproducēšanu personiskām vajadzībām maksā šādai reproducēšanai izmantojamo iekārtu un tukšo materiālo nesēju (skaņu ierakstu kasetes, videolentes vai videokasetes, lāzeru diski, kompaktdiski, minidiski u.tml.) izgatavotāji un importētāji pirms pirmās atsavināšanas vai importēšanas.
+(2) Nesēja atlīdzības lielumu, iekasēšanas un izmaksāšanas kārtību, kā arī proporcionālo sadali starp autoriem, izpildītājiem un fonogrammu un filmu producentiem nosaka Ministru kabinets.
+(3) Nesēja atlīdzība netiek maksāta, ja šā panta pirmajā daļā minētās iekārtas tiek importētas izmantošanai profesionālā darbībā raidorganizācijās vai tukšie materiālie nesēji tiek importēti vairumā darbu reproducēšanai komerciālos nolūkos.

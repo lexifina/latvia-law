@@ -1,0 +1,3 @@
+21.pants. Darba izmantošana izglītības un pētniecības mērķiem
+(1) Obligāti norādot izmantotā darba nosaukumu un autora vārdu, kā arī ievērojot šā likuma 18.panta otrās daļas noteikumus, atļauts izziņotus vai publicētus darbus vai to fragmentus izmantot izglītības standartiem atbilstošās mācību grāmatās, radio un televīzijas raidījumos, audiovizuālos darbos, vizuālos uzskates līdzekļos un tamlīdzīgi, kas tiek speciāli radīti un izmantoti izglītības un pētniecības iestādēs nepastarpinātā mācību un pētniecības procesā to darbības mērķim atbilstošā apjomā nekomerciālos nolūkos.
+(2) Šā panta noteikumi neattiecas uz datorprogrammām.

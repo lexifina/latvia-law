@@ -1,0 +1,4 @@
+41.pants. Licences līgums
+(1) Licences līgums ir līgums, ar kuru viena puse - autortiesību subjekts - dod atļauju otrai pusei - darba izmantotājam - izmantot darbu un nosaka darba izmantošanas veidu, vienojoties par izmantošanas noteikumiem, atlīdzības lielumu, tās izmaksāšanas kārtību un termiņu.
+(2) Licences līgumā var paredzēt, ka licencē tiek piešķirtas tiesības darbu izmantot vienā vai vairākos norādītajos veidos, kā arī tiesības nodot licenci trešajām personām (sublicence). Attiecīgās tiesības var nodot pilnībā vai daļēji. Ja līgumā tādu norādījumu nav, darba izmantotāja tiesības tiek ierobežotas ar tām darbībām, kas izriet no līguma un ir nepieciešamas līguma mērķa sasniegšanai.
+(3) Ja licences līgumā atlīdzības lielums nav konkretizēts, strīda gadījumā to nosaka tiesa pēc saviem ieskatiem.

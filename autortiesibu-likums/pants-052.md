@@ -1,0 +1,3 @@
+52.pants. Komerciālos nolūkos publicētu fonogrammu izmantošana
+(1) Izpildītājiem un fonogrammu producentiem ir tiesības saņemt taisnīgu atlīdzību par komerciālos nolūkos publicētu fonogrammu izmantošanu. Izmantošana ietver raidīšanu, retranslāciju pa kabeļiem, fonogrammu atskaņošanu sabiedriskās vietās, kā arī no komerciālos nolūkos publicētām fonogrammām sastāvošu raidījumu publiskošanu.
+(2) Šā panta pirmajā daļā minētās atlīdzības lielumu nosaka līgums, ko noslēdzis izpildītājs, fonogrammu producents, to pārstāvji vai blakustiesību kolektīvā pārvaldījuma organizācija ar fonogrammu un to kopiju izmantotāju vai šādu izmantotāju apvienību. Šajā līgumā jāparedz atlīdzība par katru fonogrammas izmantošanas veidu, kā arī šīs atlīdzības iekasēšanas un sadales kārtība.

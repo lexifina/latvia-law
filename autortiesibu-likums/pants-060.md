@@ -1,0 +1,4 @@
+60.pants. Datubāzes aizsardzības tiesību termiņš
+(1) Šā likuma 57.panta otrajā daļā noteiktās tiesības ir spēkā 15 gadus no dienas, kad pabeigta datubāzes izveide. Termiņš sākas tā gada 1.janvārī, kas seko pēc datubāzes izveides dienas.
+(2) Ja datubāze ir kļuvusi sabiedrībai pieejama, pirms beidzies šā panta pirmajā daļā noteiktais termiņš, aizsardzības tiesību termiņš sākas tā gada 1.janvārī, kas seko pēc dienas, kad datubāze ir kļuvusi publiski pieejama, un ir spēkā 15 gadus.
+(3) Ja datubāzes saturā tiek izdarīti jebkādi būtiski kvalitatīvi vai kvantitatīvi novērtējami grozījumi, kā arī tajā radušās izmaiņas uzkrājušos secīgu papildinājumu, izslēgumu vai grozījumu dēļ un to rezultātā var uzskatīt, ka ir veikts būtisks kvalitatīvi vai kvantitatīvi novērtējams jauns ieguldījums, šādai datubāzei ir tiesības uz savu aizsardzības termiņu un tiek piemēroti šā panta pirmās un otrās daļas noteikumi.

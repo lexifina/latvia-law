@@ -1,0 +1,4 @@
+61.pants. Datu bāzes aizsardzības tiesību ietvari
+(1) Datu bāzes veidotāja - fiziskās personas - tiesības tiek atzītas, ja viņš ir Latvijas pilsonis vai persona, kurai ir tiesības uz Latvijas nepilsoņa pasi, vai ja Latvija ir viņa pastāvīgā dzīvesvieta (domicils), vai ja viņam ir pastāvīgās uzturēšanās atļauja.
+(2) Datu bāzes veidotāja - juridiskās personas - tiesības tiek atzītas, ja šī juridiskā persona izveidota saskaņā ar Latvijas normatīvajiem aktiem un tās juridiskā adrese, pārvalde vai galvenā darbības vieta atrodas Latvijā. Ja juridiskajai personai Latvijas teritorijā ir tikai juridiskā adrese, šīs personas darbībām ir jābūt nepārtraukti saistītām ar Latvijas ekonomiku.
+(3) Ja datu bāze ir veidota ārpus Latvijas un uz to nevar attiecināt šā panta pirmās un otrās daļas noteikumus, tā ir aizsargājama, pamatojoties uz Latvijai saistošiem starptautiskajiem līgumiem.

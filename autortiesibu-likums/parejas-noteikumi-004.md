@@ -1,0 +1,1 @@
+4. Šā likuma 19.panta otrās daļas noteikums par atlīdzības izmaksu autoriem attiecībā uz bibliotēkām, kuras tiek finansētas no valsts budžeta vai pašvaldību budžetiem, stājas spēkā 2003.gada 1.janvārī.

@@ -1,0 +1,3 @@
+23.pants. Darba reproducēšana bibliotēku un arhīvu vajadzībām
+(1) Ievērojot šā likuma 18.panta otrās daļas noteikumus, ikvienai bibliotēkai vai arhīvam atļauts nekomerciālos nolūkos reprogrāfiski reproducēt vienu darba kopiju, ja šāda kopija izgatavota, lai nosargātu īpaši vērtīgu darbu vai aizstātu attiecīgās vai citas bibliotēkas vai arhīva pastāvīgajā kolekcijā glabājamu kopiju, kas nozaudēta, sabojāta vai kļuvusi nelietojama, turklāt nav iespējams šādu kopiju iegūt citā pieņemamā veidā un reproducēšana tiek atkārtota atsevišķos un savstarpēji nesaistītos gadījumos.
+(2) Šā panta noteikumi neattiecas uz datorprogrammām.

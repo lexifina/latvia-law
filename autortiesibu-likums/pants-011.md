@@ -1,0 +1,4 @@
+11.pants. Audiovizuāla darba autori
+(1) Audiovizuāla darba autori ir režisors, scenārija autors, dialogu autors, attiecīgajam audiovizuālajam darbam radīta muzikāla darba (ar tekstu vai bez tā) autors, kā arī citas personas, kas jaunrades rezultātā devušas savu ieguldījumu darba tapšanā.
+(2) Par audiovizuāla darba autoru nevar atzīt šā darba producentu.
+(3) Audiovizuāla darba autori, izņemot šim audiovizuālajam darbam radītā muzikālā darba autoru, saglabā autora personiskās tiesības katrs uz savu darbu, bet nevar to patstāvīgi izmantot neatkarīgi no audiovizuālā darba kopumā, ja līgumā ar audiovizuālā darba producentu nav noteikts citādi. Muzikāla darba autors saglabā gan autora personiskās tiesības, gan autora mantiskās tiesības. Scenārija autors savu darbu var izmantot cita veida darbā, ja vien līgumā nav noteikts citādi.

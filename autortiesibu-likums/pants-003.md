@@ -1,0 +1,5 @@
+3.pants. Autortiesību apjoms
+(1) Autortiesības uz darbiem, kas izziņoti vai arī nav izziņoti Latvijā, bet atrodas Latvijā jebkādā materializētā formā, ir autoram vai viņa mantiniekiem, kā arī citiem autora tiesību pārņēmējiem.
+(2) Autortiesības uz darbiem, kas vienlaikus publicēti ārvalstī un Latvijā, ir autoram vai viņa mantiniekiem, kā arī citiem autora tiesību pārņēmējiem.
+(3) Saskaņā ar šā panta otro daļu darbs uzskatāms par vienlaikus publicētu ārvalstī un Latvijā, ja tas Latvijā bijis publicēts 30 dienu laikā pēc tā pirmpublicējuma ārvalstī.
+(4) Latvijas pilsoņiem un personām, kurām ir tiesības uz nepilsoņa pasi, vai personām, kurām Latvija ir pastāvīgā dzīvesvieta (domicils), kā arī šo personu tiesību pārņēmējiem tiek atzītas autortiesības uz darbiem, kas izziņoti ārvalstī jebkādā materializētā formā. Citu personu autortiesības uz darbiem, kas izziņoti vai citādi darīti zināmi ārvalstī jebkādā materializētā formā, tiek atzītas saskaņā ar Latvijai saistošiem starptautiskajiem līgumiem.

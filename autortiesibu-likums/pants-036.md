@@ -1,0 +1,3 @@
+36.pants. Vispārīgie noteikumi par autortiesību termiņu
+(1) Autortiesības ir spēkā visu autora dzīves laiku un 70 gadus pēc autora nāves, izņemot šā likuma 37.pantā minētos gadījumus.
+(2) Autors ir tiesīgs tādā pašā kārtībā, kādā tiek iecelts testamenta izpildītājs, norādīt personu, kurai viņš uztic savu tiesību aizsardzību pēc nāves. Minētā persona realizē savas pilnvaras līdz mūža beigām. Ja šādu norādījumu nav, autortiesības pēc autora nāves īsteno viņa mantinieki. Ja mantinieku nav vai viņiem piederošo autortiesību termiņš izbeidzies, šo tiesību aizsardzību realizē autoru mantisko tiesību kolektīvā pārvaldījuma organizācija.
