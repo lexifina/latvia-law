@@ -1,0 +1,1 @@
+1. Ministru kabinets līdz 2003.gada 1.janvārim izdod šā likuma 30.panta sestajā daļā minētos dzelzceļa kravu iekraušanas un nostiprināšanas tehniskos noteikumus un 49.panta ceturtajā daļā minētos noteikumus par bīstamo kravu pārvadāšanu pa dzelzceļu.

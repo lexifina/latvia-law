@@ -5,4 +5,10 @@
 1) normatīvajos aktos noteiktajā kārtībā reģistrēt Valsts darba inspekcijā bīstamo kravu iekraušanai, pārvadāšanai un izkraušanai izmantojamās bīstamās iekārtas;
 2) nodrošināt, lai tiek veikta bīstamo kravu iekraušanai, pārvadāšanai un izkraušanai izmantojamo bīstamo iekārtu sertificēšana attiecīgajās institūcijās un to regulāras tehniskās pārbaudes;
 3) nodrošināt bīstamo kravu iekraušanai, pārvadāšanai un izkraušanai izmantojamās bīstamās iekārtas ar attiecīgu aprīkojumu un marķējumu.
-(4) Ministru kabinets izdod noteikumus par bīstamo kravu pārvadāšanu pa dzelzceļu, kuros nosaka bīstamo kravu klasifikāciju, bīstamās kravas, kuru pārvadāšana pieļaujama pa dzelzceļu, vagonu un konteineru sagatavošanu bīstamo kravu pārvadājumiem, pavadzīmes noformēšanas kārtību, bīstamo kravu pieņemšanas un izsniegšanas un citus speciālos bīstamo kravu pārvadājumu noteikumus.
+(4) Ministru kabinets izdod noteikumus par bīstamo kravu pārvadāšanu pa dzelzceļu, kuros nosaka:
+1) bīstamo kravu klasifikāciju;
+2) bīstamās kravas, kuru pārvadāšana pieļaujama;
+3) vagonu un konteineru sagatavošanu bīstamo kravu pārvadājumiem;
+4) pavadzīmes noformēšanas kārtību;
+5) kārtību, kādā Latvijas Republikai saistošajos starptautiskajos līgumos paredzētie bīstamo kravu pārvadāšanas noteikumi piemērojami iekšzemes dzelzceļa pārvadājumiem;
+6) bīstamo kravu pieņemšanas un izsniegšanas noteikumus.

@@ -1,0 +1,1 @@
+2. Ministru kabinets līdz 2002.gada 1.oktobrim izdod šā likuma 11.panta pirmajā daļā minētos noteikumus par pasažieru pārvadājumu maršrutu atklāšanas, grozīšanas vai slēgšanas un vilcienu kustības sarakstu apstiprināšanas kārtību.
