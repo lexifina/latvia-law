@@ -1,0 +1,1 @@
+1.pants. 1999.gada 13.decembrī pieņemtais Latvijas Republikas un Slovākijas Republikas brīvās tirdzniecības līguma Apvienotās komitejas lēmums nr. 2/1999 "Par izmaiņām Latvijas Republikas un Slovākijas Republikas brīvās tirdzniecības līguma 3.protokolā" (turpmāk - Lēmums) ar šo likumu tiek pieņemts un apstiprināts.
