@@ -1,0 +1,4 @@
+4. pants. Nacionālie parki
+(1) Nacionālie parki ir plaši apvidi, kam raksturīgi nacionāli nozīmīgi izcili dabas veidojumi, cilvēka darbības neskartas un mazpārveidotas ainavas un kultūrainavas, biotopu daudzveidība, kultūras un vēstures pieminekļu bagātība un kultūrvides īpatnības.
+(2) Nacionālo parku galvenais uzdevums ir dabas aizsardzība, kultūrvēsturiskā mantojuma saglabāšana, zinātniskās izpētes, izglītošanas un atpūtas organizēšana, kuru ierobežo dabas un kultūrvides aizsardzības mērķi.
+(3) Nacionālo parku teritoriju atbilstoši aizsardzības un izmantošanas mērķiem iedala funkcionālās zonās. Nacionālajos parkos ir zonas, kurās visi dabas resursi pilnībā tiek izslēgti no saimnieciskās un citādas darbības. Pārējā nacionālo parku teritorijā atļauta tikai tāda saimnieciskā darbība, kas būtiski nemaina vēsturiski izveidojušās ainavas struktūru.

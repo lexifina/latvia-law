@@ -1,0 +1,3 @@
+3. pants. Dabas rezervāti
+(1) Dabas rezervāti ir cilvēka darbības neskartas vai mazpārveidotas teritorijas, kurās tiek nodrošināta dabisko procesu netraucēta attīstība, lai aizsargātu un izpētītu retas vai tipiskas ekosistēmas un to sastāvdaļas.
+(2) Dabas rezervātos ir zonas, kurās visi dabas resursi pilnībā tiek izslēgti no saimnieciskās un cita veida darbības. Dabas rezervātu teritorijā var būt zonas, kurās atļauta ierobežota saimnieciskā, rekreācijas, izglītojošā vai citāda darbība, kas neapdraud dabas etalonu saglabāšanos un nav pretrunā ar aizsardzības un izmantošanas noteikumiem un rezervāta izveidošanas mērķi.
