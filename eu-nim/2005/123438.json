@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Atkritumu apsaimniekošanas likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "203",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-21",
+  "entry_into_force": "2005-01-01",
+  "notification_date": "2005-08-22",
+  "commission_reference": "MNE(2005)53438",
+  "nim_celex": "71975L0442LVA_123438",
+  "nim_id": "123438",
+  "transposes_celex": [
+    "31975L0442",
+    "31991L0156",
+    "31991L0689",
+    "31994L0031",
+    "31999L0031",
+    "32002L0096"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c6f94365-301d-4c49-ace7-212858b7a9a3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
