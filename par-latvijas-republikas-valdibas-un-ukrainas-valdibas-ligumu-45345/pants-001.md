@@ -1,0 +1,1 @@
+1.pants. 1997.gada 24.jūlijā parakstītais Latvijas Republikas valdības un Ukrainas valdības līgums par ieguldījumu veicināšanu un savstarpēju aizsardzību (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
