@@ -1,0 +1,1 @@
+2. Līdz Administratīvā procesa likuma spēkā stāšanās brīdim šā likuma 7.pantā minētā lēmuma par nepilsoņa statusa atņemšanu izpilde tiek atlikta no tā spēkā stāšanās brīža līdz brīdim, kad beidzas termiņš lēmuma pārsūdzēšanai un tas nav pārsūdzēts.
