@@ -1,0 +1,1 @@
+1.pants. 2000.gada 8.decembrī Kretingā parakstītais Latvijas Republikas valdības, Igaunijas Republikas valdības un Lietuvas Republikas valdības līgums par kopīgas augstākās izglītības telpas izveidošanu Baltijas valstīs (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
