@@ -1,0 +1,1 @@
+1.pants. Igaunijas Republikas, Somijas Republikas un Zviedrijas Karalistes līgums par prāmi "Estonia" (turpmāk - Līgums) un Līguma papildprotokols (turpmāk - Papildprotokols) ar šo likumu tiek pieņemti un apstiprināti.
