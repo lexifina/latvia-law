@@ -1,0 +1,1 @@
+7.pants. Kārtību, kādā līdz apstiprināšanai Saeimā piemērojams Līguma ietvaros izveidotās Asociācijas padomes lēmums par grozījumiem Līguma 3.protokolā, nosaka Ministru kabinets, un ar šo likumu minētais lēmums tiek pieņemts un apstiprināts.
