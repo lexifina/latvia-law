@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2000.gada 2.maija noteikumos Nr.165 \"Noteikumi par spiedieniekārtām un to kompleksiem\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "68",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-09-24",
+  "commission_reference": "MNE(2004)51188",
+  "nim_celex": "71997L0023LVA_31188",
+  "nim_id": "31188",
+  "transposes_celex": [
+    "31997L0023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1d6449ae-443e-4e66-b3f4-cc2237fcf4c3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
