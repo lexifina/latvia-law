@@ -1,0 +1,1 @@
+19.¹ Bijušajiem Saeimas deputātiem, kā arī Latvijas Republikas Augstākās padomes deputātiem, kuri balsoja "par" 1990. gada 4. maija deklarāciju "Par Latvijas Republikas neatkarības atjaunošanu", ir tiesības apmeklēt Saeimas ēkas. Šo tiesību nav deputātiem, kuri izslēgti no Saeimas sastāva (18.p.).

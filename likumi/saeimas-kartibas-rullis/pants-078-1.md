@@ -1,0 +1,1 @@
+78.¹ Citu parakstu pievienošana dokumentam pēc tā iesniegšanas Saeimai nav pieļaujama. Par parakstu atsaukšanu kādam no Saeimai iesniegtajiem dokumentiem Prezidijs paziņo pirmajam dokumenta parakstītājam.

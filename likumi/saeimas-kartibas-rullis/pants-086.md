@@ -1,4 +1,4 @@
-86. (1) Nevienu likumprojektu nedrīkst iekļaut darba kārtībā un izskatīt Saeimas sēdē, pirms tas nav izskatīts atbildīgajā komisijā. Atzinumu par likumprojektu atbildīgā komisija iesniedz Prezidijam. Atzinums nekavējoties izsniedzams deputātiem.
+86. (1) Nevienu likumprojektu nedrīkst iekļaut darba kārtībā un izskatīt Saeimas sēdē, pirms tas nav izskatīts atbildīgajā komisijā. Atzinumu un anotāciju par likumprojektu atbildīgā komisija iesniedz Prezidijam. Atzinumu un anotāciju nekavējoties izsniedz deputātiem.
 (2) Likumprojektu, ko atbildīgā komisija atbalstījusi, Prezidijs, ievērojot 87.panta 1.punkta prasības, iekļauj Saeimas nākamās kārtējās sēdes darba kārtībā, ja nav iesniegti priekšlikumi par šā likumprojekta iekļaušanu Saeimas citas sēdes darba kārtībā.
 (3) Ja likumprojektu ir izstrādājusi un 79.pantā noteiktajā kārtībā iesniegusi komisija, kuru Saeima noteikusi par atbildīgo, likumprojekts virzāms izskatīšanai pirmajā lasījumā bez atkārtotas izskatīšanas atbildīgajā komisijā, ja tas nav nodots arī citām komisijām.
 (4) Saeimas sēdē izskatāmi arī tie likumprojekti, kurus atbildīgā komisija noraidījusi, ja:

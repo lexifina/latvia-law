@@ -10,8 +10,7 @@
 (7) Ja komisija, kurai nodots patstāvīgais priekšlikums, iesniegusi alternatīvu patstāvīgo priekšlikumu, Saeima pēc debatēm par abiem patstāvīgajiem priekšlikumiem balso, kuru no tiem pieņems.
 (8) Ja iesniegti priekšlikumi par grozījumiem patstāvīgajā priekšlikumā, tas izskatāms divos lasījumos. Pirmajā lasījumā referents ziņo un notiek debates par patstāvīgā priekšlikuma vispārīgajiem principiem, kā arī Saeima lemj par iesniegtā Saeimas lēmuma projekta pieņemšanu pirmajā lasījumā. Ja Saeima patstāvīgo priekšlikumu pirmajā lasījumā nepieņem, tas uzskatāms par noraidītu.
 (9) Patstāvīgā priekšlikuma otrais lasījums, ja Saeima nav lēmusi citādi, seko tūdaļ pēc pirmā lasījuma. Tam piemērojami noteikumi par likumprojektu izskatīšanu otrajā lasījumā.
-(10) Runas laiks referentam par patstāvīgo priekšlikumu nedrīkst pārsniegt piecpadsmit minūtes.
-(11) Saeimas komisija, kas iesniegusi patstāvīgo priekšlikumu, vai katrs no deputātiem, kas parakstījis patstāvīgo priekšlikumu, var atsaukt savu atbalstu tam. Atsaukšana pieļaujama līdz balsošanai par patstāvīgā priekšlikuma pieņemšanu pirmajā lasījumā.
-(12) Atsauktu priekšlikumu var uzturēt komisija, kurai tas nodots.
-(13) Ja atsaukts patstāvīgais priekšlikums, kuram komisija izstrādājusi alternatīvu patstāvīgo priekšlikumu, alternatīvais patstāvīgais priekšlikums izskatāms, ievērojot šā panta trešās daļas noteikumu.
-(14) Patstāvīgais priekšlikums, kuru atbildīgā komisija ir noraidījusi, uzskatāms par noraidītu, ja desmit dienu laikā no dienas, kad atbildīgās komisijas atzinums ir bijis pieejams deputātiem, iesniedzējs rakstveidā neprasa Prezidijam šā patstāvīgā priekšlikuma izskatīšanu Saeimas sēdē.
+(10) Saeimas komisija, kas iesniegusi patstāvīgo priekšlikumu, vai katrs no deputātiem, kas parakstījis patstāvīgo priekšlikumu, var atsaukt savu atbalstu tam. Atsaukšana pieļaujama līdz balsošanai par patstāvīgā priekšlikuma pieņemšanu pirmajā lasījumā.
+(11) Atsauktu priekšlikumu var uzturēt komisija, kurai tas nodots.
+(12) Ja atsaukts patstāvīgais priekšlikums, kuram komisija izstrādājusi alternatīvu patstāvīgo priekšlikumu, alternatīvais patstāvīgais priekšlikums izskatāms, ievērojot šā panta trešās daļas noteikumu.
+(13) Patstāvīgais priekšlikums, kuru atbildīgā komisija ir noraidījusi, uzskatāms par noraidītu, ja desmit dienu laikā no dienas, kad atbildīgās komisijas atzinums ir bijis pieejams deputātiem, iesniedzējs rakstveidā neprasa Prezidijam šā patstāvīgā priekšlikuma izskatīšanu Saeimas sēdē.

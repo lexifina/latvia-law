@@ -1,3 +1,3 @@
-95.¹ (1) Priekšlikumu, kas iesniegts 95.pantā noteiktajā kārtībā, tā iesniedzējs var atsaukt līdz balsošanai par to Saeimas sēdē. Priekšlikumu, ko iesniegusi ministra pilnvarota valsts amatpersona, var atsaukt gan šī persona, gan attiecīgais ministrs.
+95.¹ (1) Priekšlikumu, kas iesniegts 95.pantā noteiktajā kārtībā, tā iesniedzējs var atsaukt līdz balsošanai par to Saeimas sēdē. Priekšlikumu, kuru iesniedzis valsts ministrs vai ministrijas parlamentārais sekretārs, var atsaukt attiecīgais ministrs.
 (2) Priekšlikumu, kas atbalstīts atbildīgajā komisijā, var atsaukt tikai ar atbildīgās komisijas piekrišanu.
 (3) Priekšlikumu atsauc, paziņojot par to rakstveidā Prezidijam vai atbildīgajai komisijai vai mutvārdos atbildīgās komisijas sēdē vai Saeimas sēdē. Ja par priekšlikuma atsaukšanu paziņots mutvārdos atbildīgās komisijas sēdē, par to izdarāma atzīme attiecīgās sēdes protokolā.

@@ -5,3 +5,4 @@
 (5) Satversmes aizsardzības biroja direktoru ieceļ, aizklāti balsojot ar vēlēšanu zīmēm.
 (6) Ja likums paredz, ka kādu 25.un 32.pantā neminētu amatpersonu ievēlē, ieceļ vai apstiprina Saeima, taču nenosaka, kas ir tiesīgs iesniegt attiecīgās kandidatūras, tās iesniedzamas ar vismaz desmit deputātu parakstiem. Ievēlēšana, apstiprināšana vai iecelšana notiek šajā pantā paredzētajā kārtībā.
 (7) Ja likums paredz, ka kādu 25.un 32.pantā neminētu amatpersonu ievēlē, ieceļ vai apstiprina Saeima, taču nenosaka šīs amatpersonas atbrīvošanas vai atlaišanas kārtību, par atbrīvošanu vai atlaišanu lemj Saeima šajā pantā noteiktajā kārtībā pēc minētās amatpersonas rakstveida iesnieguma vai ne mazāk kā desmit deputātu priekšlikuma.
+(8) Ja attiecīgajam amatam izvirzīto kandidātu skaits pārsniedz ievēlējamo amatpersonu vietu skaitu, balsošana notiek šā likuma 26.pantā noteiktajā kārtībā.

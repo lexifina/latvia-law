@@ -1,3 +1,3 @@
 87. Nevienu likumprojektu nedrīkst izskatīt pirmajā lasījumā, ja:
-1) deputātiem nav bijusi nodrošināta iespēja saņemt šo likumprojektu un atbildīgās komisijas atzinumu par to vismaz septiņas dienas iepriekš. Šis noteikums nav attiecināms uz Saeimas ārkārtas sesiju vai ārkārtas sēdi, kā arī uz gadījumiem, kad Saeima nolēmusi citādi;
+1) deputātiem nav bijusi nodrošināta iespēja saņemt šo likumprojektu, atbildīgās komisijas atzinumu par to un šā likumprojekta anotāciju vismaz septiņas dienas iepriekš. Šis noteikums nav attiecināms uz Saeimas ārkārtas sesiju vai ārkārtas sēdi, kā arī uz gadījumiem, kad Saeima nolēmusi citādi;
 2) tas paredz budžetā papildu izdevumus vai izmaiņas ieņēmumos un tam nav pievienota finansu ministra atsauksme. Šis noteikums nav attiecināms uz Ministru kabineta iesniegtajiem likumprojektiem, kā arī uz gadījumiem, kad finansu ministrs atsauksmi nav devis likumā noteiktajā termiņā.

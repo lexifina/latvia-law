@@ -1,1 +1,1 @@
-192. Frakciju padomes atzinumiem ir ieteikuma raksturs, un frakcijām vai politiskajiem blokiem tie nav saistoši. Tomēr frakcijām vai politiskajiem blokiem, kuri nepiekrīt sava pārstāvja atzinumam Frakciju padomes sēdē, par to jāpaziņo Prezidijam nākamās Saeimas sēdes sākumā.
+192. Frakciju padomes atzinumiem ir ieteikuma raksturs, un frakcijām vai politiskajiem blokiem tie nav saistoši. Tomēr frakcijām vai politiskajiem blokiem, kuri nepiekrīt sava pārstāvja atzinumam Frakciju padomes sēdē, par to jāpaziņo Prezidijam līdz Saeimas nākamās sēdes sākumam.

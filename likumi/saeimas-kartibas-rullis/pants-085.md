@@ -5,3 +5,11 @@
 3) virzīt katru minēto likumprojektu izskatīšanai kā atsevišķu likumprojektu.
 (3) Šā panta otrās daļas 1. un 2.punkts nav attiecināms uz likumprojektiem, kas paredz grozījumus Latvijas Republikas Satversmē.
 (4) Ja atbildīgā komisija nolemj šā panta otrās daļas 2.punktā noteiktajā kārtībā iekļaut kādu vēlāk nodotu likumprojektu iepriekš nodotajā likumprojektā, priekšlikuma statuss ir arī tiem iekļaujamā likumprojekta pantiem (daļām), kurus atbildīgā komisija ir noraidījusi vai ierosinājusi grozīt.
+(5) Ja likumprojektu iesniedz Valsts prezidents, Saeimas komisija vai ne mazāk kā pieci deputāti, atbildīgā komisija Prezidija noteiktajā kārtībā aizpilda likumprojekta anotāciju, ietverot tajā iesniedzēja atbildes uz šādiem jautājumiem:
+1) kādēļ likums ir vajadzīgs;
+2) kāda var būt likuma iespējamā ietekme uz tautsaimniecības attīstību;
+3) kāda var būt likuma iespējamā ietekme uz valsts budžetu;
+4) kāda ir likuma iespējamā ietekme uz spēkā esošo tiesību normu sistēmu un vai ir nepieciešami grozījumi citos normatīvajos aktos;
+5) vai likumprojekts atbilst Latvijas starptautiskajām saistībām;
+6) kā tiks nodrošināta likuma izpilde.
+(6) Ja likumprojekta iesniedzēji atbildīgajai komisijai neiesniedz atbildes uz šā panta piektajā daļā norādītajiem jautājumiem, atbildīgā komisija anotācijā norāda, ka likumprojekta iesniedzēji atbildes nav iesnieguši.

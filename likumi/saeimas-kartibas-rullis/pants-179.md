@@ -1,2 +1,4 @@
-179. (1) Mandātu un iesniegumu komisija reizi mēnesī sniedz pārskatu par iesniegumiem, kas saņemti no iedzīvotājiem, iestādēm, uzņēmumiem un organizācijām. Pārskatā tiek norādīta šo iesniegumu tematika, svarīgākie priekšlikumi un ziņas par iesniegumu izskatīšanas termiņu ievērošanu. Pārskats izsniedzams visiem deputātiem. Saeimas sēdē pārskats apspriežams tikai pēc komisijas vai vismaz desmit deputātu priekšlikuma 117.pantā noteiktajā kārtībā.
-(2) Komisija izskata arī deputātu lietas.
+179. Mandātu un iesniegumu komisija:
+1) sagatavo Saeimas ziņojumu par deputātu pilnvaru apstiprināšanu un izbeigšanu;
+2) sagatavo Saeimas lēmuma projektu sakarā ar Ģenerālprokuratūras iesniegumu par kriminālvajāšanas ierosināšanu pret Saeimas locekli, viņa apcietināšanu, aizturēšanu, kratīšanas izdarīšanu vai citādu personas brīvības ierobežošanu, kā arī priekšlikumus sakarā ar iesniegumiem par administratīvā soda uzlikšanu Saeimas loceklim;
+3) sagatavo reizi mēnesī pārskatu Saeimai par iesniegumiem, kas saņemti Saeimas Iesniegumu birojā, un par to izskatīšanu Saeimas frakcijās un komisijās.

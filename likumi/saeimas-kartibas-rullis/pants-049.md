@@ -1,1 +1,1 @@
-49. Izņemot Kārtības rullī paredzētos gadījumus (48. un 76. p.), sēde pārtraucama un slēdzama tikai uz Saeimas lēmuma pamata (54. p.). Pārtraukumu un slēgšanu var ierosināt sēdes vadītājs vai vismaz pieci deputāti.
+49. Izņemot Kārtības rullī paredzētos gadījumus (41.,48. un 76.p.), sēde pārtraucama un slēdzama tikai uz Saeimas lēmuma pamata (54. p.). Pārtraukumu un slēgšanu var ierosināt sēdes vadītājs vai vismaz pieci deputāti.

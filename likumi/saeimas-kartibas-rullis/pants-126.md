@@ -7,5 +7,5 @@
 (4) Ja Pieprasījumu komisija atzinusi pieprasījumu par daļēji pieņemamu, tā attiecīgi formulē to pieprasījuma daļu, kuru atzinusi par pieņemamu.
 (5) Ja Pieprasījumu komisija atzinusi pieprasījumu par noraidāmu, tā var ierosināt pieprasījumu pārveidot par jautājumu.
 (6) Par pieprasījuma pieņemšanu vai noraidīšanu lemj Saeima.
-(7) Ja Pieprasījumu komisija atzinusi pieprasījumu par daļēji pieņemamu, Saeima vispirms balso par deputātu iesniegto pieprasījumu, bet, ja tas noraidīts, - par Pieprasījumu komisijas formulēto pieprasījumu.
+(7) Ja Pieprasījumu komisija atzinusi pieprasījumu par daļēji pieņemamu, Saeima vispirms balso par deputātu iesniegto pieprasījumu, bet, ja tas tiek noraidīts, - par Pieprasījumu komisijas formulēto pieprasījumu.
 (8) Ja Pieprasījumu komisija atzinusi pieprasījumu par noraidāmu un ierosinājusi to pārveidot par jautājumu, bet iesniedzēji tam nav piekrituši, Saeima balso par deputātu iesniegto pieprasījumu.
