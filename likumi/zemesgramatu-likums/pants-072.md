@@ -1,1 +1,2 @@
-72. Nostiprinājuma lūgumus zemesgrāmatu nodaļas tiesnesis skata cauri ne vēlāk kā nākošā darba dienā pēc to saņemšanas tādā kārtībā, kādā tie ierakstīti nostiprinājuma žurnālā, ievērojot iesniegumu pirmtiesības uz izpildījumu (73. -75.p).
+72. Nostiprinājuma lūgumus zemesgrāmatu nodaļas tiesnesis skata cauri tādā secībā, kādā tie ierakstīti nostiprinājuma žurnālā, ievērojot iesniegumu pirmtiesības uz izpildījumu (73.-75.p.).
+Nostiprinājuma lūgumi izskatāmi ne vēlāk kā 15 dienu laikā. Sarežģītās lietās zemesgrāmatu nodaļas priekšnieks šo termiņu var pagarināt līdz mēnesim.

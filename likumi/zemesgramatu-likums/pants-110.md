@@ -1,1 +1,1 @@
-110. 107. panta 9. un 10. punkta noteikumi piemērojami arī zemesgrāmatu nodaļas arhīva glabājamām grāmatām un lietām.
+110. Šā likuma 107.panta noteikumi piemērojami arī attiecībā uz zemesgrāmatu nodaļas arhīvā glabājamām grāmatām un lietām, kā arī valsts vienoto datorizēto zemesgrāmatu.

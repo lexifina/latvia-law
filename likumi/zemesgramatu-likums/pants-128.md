@@ -1,0 +1,2 @@
+128. Datorizētais zemesgrāmatu akts ir zemesgrāmatu apliecība, kurā vārdu pa vārdam atkārtots zemesgrāmatu nodaļas tiesneša lēmums un citi nekustamā īpašuma nodalījumā norādītie spēkā esošie ieraksti un atzīmes. Zemesgrāmatu nodaļas tiesnesis apliecību paraksta un apzīmogo.
+Pēc nostiprinājuma lūguma iesniedzēja ieskata viņam var izsniegt zemesgrāmatu apliecību, kurā norāda tikai ziņas par nekustamo īpašumu, tā sastāvu un attiecīgo tiesneša lēmumu.

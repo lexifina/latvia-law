@@ -1,1 +1,1 @@
-117. Zemesgrāmatu nodaļas izmanto savai darbībai nepieciešamos citu valsts informācijas sistēmu elektroniskos datus, lai pārliecinātos par tām iesniegto datu pareizību.
+117. Zemesgrāmatu nodaļas izmanto savai darbībai nepieciešamos citu valsts informācijas sistēmu elektroniskos datus, lai pārliecinātos par tām iesniegto datu pareizību. Ja nostiprinājuma lūgumā vai pievienotajos dokumentos norādītie dati ir pretrunā ar elektroniski iegūtajiem datiem, zemesgrāmatu nodaļas tiesnesis tos vērtē atbilstoši 77.panta 4.punktam.

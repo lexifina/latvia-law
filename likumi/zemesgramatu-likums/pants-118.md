@@ -1,1 +1,1 @@
-118. Zemesgrāmatu nodaļa elektroniskā veidā uztur zemesgrāmatu nodalījumus, nostiprinājumu žurnālu, nekustamo īpašumu lietas, alfabētiskos rādītājus pēc īpašuma atrašanās vietas un īpašnieka, kā arī citu likumā paredzēto informāciju.
+118. Zemesgrāmatu nodaļa elektroniskā veidā uztur zemesgrāmatu nodalījumus, nostiprinājumu žurnālu, alfabētiskos rādītājus pēc īpašuma atrašanās vietas un īpašnieka, kā arī citu likumā paredzēto informāciju.

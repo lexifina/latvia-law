@@ -1,6 +1,6 @@
 16. Nodalījuma otrā daļa sadalās divās iedaļās, kurās norāda:
 1) pirmā iedaļā:
-a) nekustamā īpašuma īpašnieku, norādot fiziskajai personai vārdu, uzvārdu, personas kodu, bet, ja tā ir laulībā, tad, ievērojot laulāto mantiskās attiecības, piemetina, ka nekustamais īpašums ir laulātā atsevišķa manta vai ka tas ietilpst laulāto mantas kopībā, vai arī ka laulātajiem ir visas mantas šķirtība (Civillikuma 91., 111., 117., 125. un 127.p.), bet juridiskajai personai - pilnu nosaukumu un nodokļu maksātāja kodu,
+a) nekustamā īpašuma īpašnieku, norādot fiziskajai personai vārdu, uzvārdu, personas kodu, bet, ja tā ir laulībā, tad, ievērojot laulāto mantiskās attiecības, piemetina, ka nekustamais īpašums ir laulātā atsevišķa manta vai ka tas ietilpst laulāto mantas kopībā, vai arī ka laulātajiem ir visas mantas šķirtība (Civillikuma 91., 111., 117., 125. un 127.p.), bet juridiskajai personai - pilnu nosaukumu un nodokļu maksātāja kodu, kā arī skaitliski norādot īpašnieka daļas apmēru,
 b) īpašuma tiesības pamatu un
 c) summu, par kādu iegūts nekustams īpašums, ja tā norādīta dokumentā par īpašuma tiesības pāreju;
 2) otrā iedaļā:

@@ -1,1 +1,1 @@
-112. Datorizētā zemesgrāmata ir elektroniska datu bāze, kurā ilgstoši bez satura grozīšanas tiek glabātas zemesgrāmatas, nostiprinājumu žurnāli, nekustamo īpašumu lietas un alfabētiskie rādītāji, nodrošinot šo datu attēlošanu datora ekrānā un datorizdrukā.
+112. Datorizētā zemesgrāmata ir elektroniska datu bāze, kurā ilgstoši bez satura grozīšanas tiek glabātas zemesgrāmatas, nostiprinājumu žurnāli un alfabētiskie rādītāji, nodrošinot šo datu attēlošanu datora ekrānā un datorizdrukā.
