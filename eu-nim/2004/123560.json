@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Radio un televīzijas likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "209",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-29",
+  "entry_into_force": "2004-12-30",
+  "notification_date": "2005-08-29",
+  "commission_reference": "MNE(2005)53560",
+  "nim_celex": "71989L0552LVA_123560",
+  "nim_id": "123560",
+  "transposes_celex": [
+    "31989L0552"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/04d16abb-e83e-4131-a2ce-54050340abcd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
