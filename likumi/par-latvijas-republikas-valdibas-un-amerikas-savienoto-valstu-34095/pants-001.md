@@ -1,0 +1,1 @@
+1.pants. 1994.gada 12.augustā Rīgā parakstītais Latvijas Republikas valdības un Amerikas Savienoto Valstu valdības līgums par tehnisko palīdzību Krievijas Federācijas Bruņoto spēku Latvijas Republikas teritorijā izvietoto un agrāk kontrolēto parasto ieroču sistēmu un militāro objektu iznīcināšanā (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
