@@ -1,0 +1,2 @@
+27.pants. Krājaizdevu sabiedrības pienākumi efektīvas iekšējās kontroles sistēmas izstrādē un darbībā
+Krājaizdevu sabiedrība izveido efektīvu iekšējās kontroles sistēmu, lai nodrošinātu šīs sabiedrības risku pārvaldīšanu un tās aktīvu aizsardzību, vadībai sniegtās informācijas patiesumu un savlaicīgumu, likumu, Komisijas normatīvo noteikumu un rīkojumu, kā arī krājaizdevu sabiedrības politikas un procedūras ievērošanu.

@@ -1,0 +1,1 @@
+5. Ministru kabinets līdz 2001.gada 1.septembrim iesniedz Saeimai grozījumus Kredītiestāžu likumā, Finansu un kapitāla tirgus komisijas likumā, nodokļu likumos un citos likumos, kas saistīti ar šā likuma spēkā stāšanos.

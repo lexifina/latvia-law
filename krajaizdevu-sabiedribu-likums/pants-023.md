@@ -1,0 +1,5 @@
+23.pants. Krājaizdevu sabiedrības grāmatvedība un gada pārskats
+(1) Krājaizdevu sabiedrības grāmatvedība ir jākārto atbilstoši Komisijas noteikumiem par gada pārskatu sagatavošanu.
+(2) Krājaizdevu sabiedrības gada pārskatu sagatavo saskaņā ar Komisijas noteikumiem. Par gada pārskata sagatavošanu atbild valde, un to pirms kopsapulces (pilnvaroto sapulces), kurā šis pārskats apstiprināms, pārbauda krājaizdevu sabiedrības revīzijas komisija. Krājaizdevu sabiedrībai, kuras aktīvi pārskata gada beigās pārsniedz 50 000 latu, gada pārskatu pārbauda zvērināts revidents vai zvērinātu revidentu komercsabiedrība.
+(3) Pēc krājaizdevu sabiedrības gada pārskata iesniegšanas Komisijai šī sabiedrība gada pārskata bilanci un revīzijas komisijas vai zvērināta revidenta atzinumu 30 kalendāra dienu laikā publicē laikrakstā, kurš pēc tā izplatīšanas vietas un tirāžas aptver pēc iespējas lielāku krājaizdevu sabiedrības biedru skaitu, norādot, ka publicēts saīsināts gada pārskats.
+(4) Katram krājaizdevu sabiedrības biedram ir tiesības iepazīties ar pilnu gada pārskatu un saņemt tā norakstu par maksu, kas nepārsniedz šā pārskata pavairošanas izdevumus.

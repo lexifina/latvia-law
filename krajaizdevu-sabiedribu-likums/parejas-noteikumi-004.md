@@ -1,0 +1,1 @@
+4. Krājaizdevu sabiedrībām izsniegtās speciālās atļaujas (licences) kredītiestādes darbībai, kuras izsniegtas, pamatojoties uz normatīvajiem aktiem, kas bija spēkā līdz šā likuma spēkā stāšanās dienai, atzīstamas par spēkā esošām.
