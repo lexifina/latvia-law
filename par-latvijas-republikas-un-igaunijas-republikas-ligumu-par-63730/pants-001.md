@@ -1,0 +1,1 @@
+1.pants. 1996.gada 12.jūlijā Tallinā parakstītais Latvijas Republikas un Igaunijas Republikas līgums par jūras robežas noteikšanu Rīgas jūras līcī, Irbes šaurumā un Baltijas jūrā (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
