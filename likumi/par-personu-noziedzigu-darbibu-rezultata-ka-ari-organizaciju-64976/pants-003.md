@@ -1,0 +1,1 @@
+3. Ja prasību par stacionārai un ambulatoriskai ārstēšanai izlietoto līdzekļu piedziņu izskata pēc tiesvedības pabeigšanas krimināllietā vai krimināllietas izbeigšanas likumā paredzētajos gadījumos, kā arī ja kaitējums cietušā veselībai nodarīts organizācijas vainas dēļ, šo līdzekļu piedziņa notiek civilprocesa kārtībā.
