@@ -1,0 +1,1 @@
+1.pants. 1972.gada 15.novembra Konvencija par dārgmetālu izstrādājumu pārbaudi un zīmogošanu tās 1988.gada 18.maija redakcijā (turpmāk - Konvencija), šīs Konvencijas 1998.gada 25. un 26.maija, 2001.gada 9.janvāra un 2002.gada 15.oktobra grozījumi (turpmāk - Grozījumi) ar šo likumu tiek pieņemti un apstiprināti.
