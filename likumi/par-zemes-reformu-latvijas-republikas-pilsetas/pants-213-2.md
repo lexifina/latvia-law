@@ -1,5 +1,4 @@
 PIEZĪMES:
-31.03.1994. likuma "Grozījumi likumā "Par zemes reformu Latvijas Republikas pilsētās""
-Pārejas noteikumi:
-"1. Zemes paraugvērtības noteikšanas metodiku līdz 1994. gada 1. maijam izstrādā Ministru kabinets.
-2. Nolikumu par zemes reformas realizāciju pilsētas līdz 1994. gada 30. jūnijam izstrādā Ministru kabinets."
+12.10.1995. likuma "Grozījumi likumā "Par zemes reformu Latvijas Republikas pilsētās""
+Pārejas noteikums:
+"Līdz šā likuma spēkā stāšanās brīdim likumā noteiktajā kārtībā pieņemtie pilsētas domes lēmumi par zemes īpašuma tiesību atjaunošanu vai zemes piešķiršanu īpašumā par samaksu ir spēkā un ir par pamatu zemes īpašuma tiesību nostiprināšanai zemesgrāmatās."
