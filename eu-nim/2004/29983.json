@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par dzīvnieku barībā un barības sastāvdaļās aizliegtajām vielām un barības nekaitīguma prasībām",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "56",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-08",
+  "entry_into_force": null,
+  "notification_date": "2004-07-20",
+  "commission_reference": "MNE(2004)59983",
+  "nim_celex": "71995L0053LVA_29983",
+  "nim_id": "29983",
+  "transposes_celex": [
+    "31995L0053",
+    "31998L0068",
+    "32000L0077",
+    "32001L0102",
+    "32002L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a15ba186-c9e3-44bc-a48c-6cc45975241d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
