@@ -1,0 +1,1 @@
+1.pants. 1957.gada 30.septembrī Ženēvā parakstītais Eiropas valstu nolīgums par bīstamo kravu starptautiskajiem pārvadājumiem ar autotransportu (ADR) (turpmāk - Nolīgums) un protokols par grozījumiem Nolīgumā ar šo likumu tiek pieņemts un apstiprināts.
