@@ -1,0 +1,1 @@
+1.pants. 2001.gada 28.maijā Lisabonā parakstītais Latvijas Republikas valdības un Slovākijas Republikas valdības nolīgums par starptautiskajiem kombinētajiem pārvadājumiem (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
