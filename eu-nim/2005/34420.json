@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi likumā Par akcīzes nodokli",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "206",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-24",
+  "entry_into_force": "2005-01-01",
+  "notification_date": "2005-01-19",
+  "commission_reference": "MNE(2005)54420",
+  "nim_celex": "71988L0664LVA_34420",
+  "nim_id": "34420",
+  "transposes_celex": [
+    "31988L0664"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/04dac3b4-1ae2-4728-9c3c-e3f53ab6eeee",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
