@@ -1,3 +1,4 @@
-7. pants. Kultūras pieminekļu īpašuma tiesības
-Kultūras pieminekļi Latvijas Republikā var atrasties valsts un pašvaldību, kā arī fizisko un juridisko personu īpašumā.
-Nostiprinot īpašuma tiesības uz kustamo īpašumu, kurš atzīts par kultūras pieminekli, zemes grāmatās izdarāma attiecīga atzime par tiesību aprobežojumiem. Atzīme tiek izdarīta uz attiecīgo valsts pārvaldes institūciju lūguma pamata. Ja īpašumtiesību dokumentā ir norādīts, ka nekustamais īpašums ir kultūras piemineklis, tas ir pietiekams pamats atzīmes izdarīšanai zemes grāmatās.
+7. pants. Īpašuma tiesības uz kultūras pieminekļiem
+Kultūras pieminekļi Latvijas Republikā var būt valsts, pašvaldību, kā arī fizisko un citu juridisko personu īpašumā.
+Nostiprinot īpašuma tiesības uz nekustamo īpašumu, kas atzīts par kultūras pieminekli, zemesgrāmatā izdarāma attiecīga atzīme par tiesību aprobežojumiem. Šāda atzīme tiek izdarīta, pamatojoties uz Valsts kultūras pieminekļu aizsardzības inspekcijas iesniegumu.
+Ja nekustamais īpašums ir kultūras piemineklis, tas ir pietiekams pamats attiecīgās atzīmes izdarīšanai zemesgrāmatā. Atzīme izdarāma 10 dienu laikā no Valsts kultūras pieminekļu aizsardzības inspekcijas iesnieguma saņemšanas dienas vai vienlaikus ar īpašuma tiesību reģistrāciju. Nekustamo kultūras pieminekļu sarakstus zemesgrāmatu nodaļām iesniedz attiecīgais valsts kultūras pieminekļu aizsardzības inspektors.

@@ -1,3 +1,2 @@
-20. pants. Līguma slēgšana par kultūras pieminekļa aizsardzību
-Kultūras pieminekļa īpašniekam ar Valsts kultūras pieminekļu aizsardzības inspekciju jāslēdz līgums par pieminekļa aizsardzību.
-Ja kultūras pieminekļa īpašnieks izīrē kultūras pieminekli uz laiku, kas ir ilgāks par sešiem mēnešiem, īres līgums jāsaskaņo ar attiecīgā reģiona valsts kultūras pieminekļu aizsardzības inspektoru.
+20. pants. Valsts kultūras pieminekļu aizsardzības inspekcijas norādījumu spēkā stāšanās kārtība
+Valsts kultūras pieminekļu aizsardzības inspektors nosūta kultūras pieminekļa īpašniekam (valdītājam) norādījumus par attiecīgā kultūras pieminekļa izmantošanu un saglabāšanu. Šie norādījumi stājas spēkā ar brīdi, kad kultūras pieminekļa īpašnieks (valdītājs) tos saņēmis un ar parakstu apliecinājis, ka iepazinies ar tiem.

@@ -1,2 +1,2 @@
-3. pants. Aizliegums nojaukt, pārvietot un pārveidot kultūras pieminekļus
-Kultūras pieminekļus ir aizliegts nojaukt. Nekustamos kultūras pieminekļus drīkst pārvietot vai pārveidot tikai izņēmuma gadījumos ar Latvijas Republikas Kultūras ministrijas atļauju. Kultūras pieminekļa pārveidošana pieļaujama vienīgi nolūkā piešķirt tam sākotnējo veidolu.
+3. pants. Aizliegums iznīcināt, pārvietot un pārveidot kultūras pieminekļus
+Kultūras pieminekļus ir aizliegts iznīcināt. Nekustamos kultūras pieminekļus drīkst pārvietot vai pārveidot tikai izņēmuma gadījumā ar Kultūras ministrijas Valsts kultūras pieminekļu aizsardzības inspekcijas (turpmāk - Valsts kultūras pieminekļu aizsardzības inspekcija) atļauju. Kultūras pieminekļa pārveidošana vai tā oriģinālo daļu aizstāšana ar jaunām daļām pieļaujama tikai tad, ja tā ir vienīgā iespēja, kā saglabāt pieminekli, vai arī tad, ja pārveidojuma rezultātā nepazeminās pieminekļa kultūrvēsturiskā vērtība.

@@ -1,4 +1,4 @@
 8. pants. Darījumi ar kultūras pieminekļiem
-Civiltiesiskajos darījumos, kas tiek slēgti nolūkā mainīt kultūras pieminekļa īpašnieku, valstij ir pirmpirkuma tiesības.
-Kultūras pieminekļa īpašnieka maiņa var notikt tikai tad, ja nākamais īpašnieks ir iepazinies ar pieminekļa aizsardzības līgumu un ar parakstu apliecinājis saistību pārņemšanu.
-Aizliegts atsavināt atsevišķi viena pieminekļa vai pieminekļu kompleksa daļas, ja to atsavināšanas rezultātā tiek apdraudēta pieminekļa saglabāšana.
+Ja kultūras pieminekļa īpašnieks atsavina kultūras pieminekli, valstij ir pirmpirkuma tiesības. Kārtību, kādā valsts realizē pirmpirkuma tiesības, nosaka Ministru kabineta noteikumi.
+Aizliegts atsavināt viena kultūras pieminekļa vai pieminekļu kompleksa atsevišķas daļas, kā arī sadalīt zemi, ja tādējādi tiek apdraudēta kultūras pieminekļa saglabāšana.
+Kultūras pieminekļa atsavināšana var notikt, ja par nodomu atsavināt kultūras pieminekli tā īpašnieks ir paziņojis Valsts kultūras pieminekļu aizsardzības inspekcijai, attiecīgā rajona valsts kultūras pieminekļu aizsardzības inspektors ir apsekojis kultūras pieminekli un nākamais tā īpašnieks ir iepazīstināts ar norādījumiem par attiecīgā kultūras pieminekļa izmantošanu un saglabāšanu.
