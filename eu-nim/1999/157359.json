@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru prezidenta 1998.gada 30.oktobra nokikums \"Par nacionālās trīspusējās sadarbības padomes nolikumu\"",
+  "type_of_act": "Administrative measures",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "343",
+  "official_journal_page": null,
+  "official_journal_date": "1998-11-17",
+  "entry_into_force": "1999-01-01",
+  "notification_date": null,
+  "commission_reference": "MNE(2008)54427",
+  "nim_celex": "72006L0054LVA_157359",
+  "nim_id": "157359",
+  "transposes_celex": [
+    "32006L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a5d46de7-15cf-46a3-9eb4-b7cf5900f939",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
