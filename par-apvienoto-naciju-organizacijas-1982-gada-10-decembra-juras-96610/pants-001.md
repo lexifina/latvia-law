@@ -1,0 +1,1 @@
+1.pants. Apvienoto Nāciju Organizācijas 1982.gada 10.decembra Jūras tiesību konvencija (turpmāk - Konvencija) un Līgums par Apvienoto Nāciju Organizācijas 1982.gada 10.decembra Jūras tiesību konvencijas XI daļas piemērošanu (turpmāk - Līgums) ar šo likumu tiek pieņemti un apstiprināti.
