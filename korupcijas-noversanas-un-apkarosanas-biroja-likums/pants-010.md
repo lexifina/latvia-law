@@ -4,7 +4,7 @@ Biroja amatpersonai atbilstoši tās kompetencei ir tiesības:
 2) veikt likumā noteikto operatīvo darbību, lai atklātu un novērstu noziedzīgos nodarījumus korupcijas un politisko organizāciju (partiju) un to apvienību finansēšanas jomā;
 3) sastādīt administratīvos protokolus par atklātajiem pārkāpumiem, izskatīt administratīvo pārkāpumu lietas un uzlikt administratīvos sodus par pārkāpumiem, kuru izskatīšana saskaņā ar Latvijas Administratīvo pārkāpumu kodeksu ir piekritīga Birojam;
 4) pieprasīt un saņemt bez maksas no valsts pārvaldes un pašvaldību iestādēm, uzņēmumiem (uzņēmējsabiedrībām), organizācijām, amatpersonām un citām personām informāciju, dokumentus un citus materiālus neatkarīgi no to slepenības režīma;
-5) ar ģenerālprokurora starpniecību pieprasīt un saņemt bez maksas no kredītiestādēm informāciju, kas nepieciešama krimināllietā;
+5) Kredītiestāžu likumā noteiktajos gadījumos un kārtībā pieprasīt un saņemt bez maksas informāciju no kredītiestādēm;
 6) brīvi iepazīties ar reģistrētās datu bāzēs esošo visu veidu informāciju, kuras reģistrācija noteikta normatīvajos aktos, neatkarīgi no tās piederības;
 7) iegūt, saņemt, reģistrēt, apstrādāt, apkopot, analizēt un glabāt Biroja funkciju izpildei nepieciešamo informāciju, kuras izmantošanas kārtību nosaka Biroja priekšnieks;
 8) ja personas rīcībā ir konstatētas pazīmes, kas liecina par prettiesiskas darbības iespējamību, izteikt personai brīdinājumu par likuma pārkāpuma nepieļaujamību;
