@@ -1,0 +1,1 @@
+2.pants. Ārlietu ministrija saskaņā ar Līguma 23.pantu informē Apvienoto Nāciju Organizācijas ģenerālsekretāru par to, ka Līguma 23.pantā minētās personas, kuras ir Latvijas pilsoņi vai pastāvīgie iedzīvotāji, Latvijas Republikas teritorijā bauda tikai šajā pantā minētās privilēģijas un imunitātes.
