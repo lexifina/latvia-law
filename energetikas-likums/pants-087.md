@@ -1,0 +1,2 @@
+87.pants
+Padomes lēmumi par licences piešķiršanu, anulēšanu vai atteikumu piešķirt licenci un par tarifu noteikšanas kārtību tiek pieņemti atklāti. Ziņojumus par Padomes darbību pārskata periodā, kā arī informāciju un ieteikumus energoapgādes uzņēmumiem un enerģijas patērētājiem, arī informāciju par energoresursu efektīvu izmantošanu, publicē laikrakstā "Latvijas Vēstnesis" Padomes nolikumā noteiktajā kārtībā un apjomā.

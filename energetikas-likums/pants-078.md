@@ -1,0 +1,2 @@
+78.pants
+Ja ir nepieciešams ieviest jaunas elektroenerģijas ražošanas jaudas, par enerģētiku atbildīgais ministrs, pamatojoties uz elektroenerģijas pārvades sistēmas operatora periodiskajiem aprēķiniem, izsniedz atļaujas jaunu elektrostaciju būvei šā likuma 79.pantā noteiktajā kārtībā vai izsludina konkursu par jaunu jaudu piegādi no esošajām elektrostacijām vai elektroenerģijas sistēmām šā likuma 80.pantā noteiktajā kārtībā.

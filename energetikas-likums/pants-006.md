@@ -1,0 +1,3 @@
+6.pants
+(1) Energoapgādes uzņēmumam tā licences darbības zonā un licencē noteiktajā termiņā ir pastāvīgas saistības apgādāt enerģijas lietotājus ar elektroenerģiju, siltumenerģiju vai gāzi tiem nepieciešamajā vai noteiktajā kvalitātē un pieprasītajā daudzumā par regulatora apstiprinātajiem tarifiem. Šādas pastāvīgas saistības saglabājas arī gadījumos, kad mainās energoapgādes uzņēmuma īpašnieks, īpašuma piederība, uzņēmējdarbības forma vai ir nepieciešama jauna licence.
+(2) Līdz jaunas licences saņemšanai energoapgādes uzņēmumiem ir pienākums apgādāt esošos enerģijas lietotājus ar enerģiju nepieciešamajā vai noteiktajā kvalitātē un pieprasītajā daudzumā, kā arī pievienot jaunus lietotājus regulatora noteiktajā kārtībā.

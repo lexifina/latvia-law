@@ -1,0 +1,1 @@
+2. Energoapgādes uzņēmumu licences, kas izsniegtas pirms šā likuma spēkā stāšanās, ir spēkā līdz attiecīgās licences noteiktā darbības termiņa beigām, un nepieciešamos grozījumus energoapgādes uzņēmumu licences nosacījumos var izdarīt vienīgi likumā noteiktajā kārtībā.

@@ -1,0 +1,3 @@
+70.pants
+(1) Pašvaldības enerģētiskās krīzes centru izveido pilsētas dome (pagasta padome), un centrā ietilpstošās personas sasauc pilsētas domes (pagasta padomes) priekšsēdētājs ne vēlāk kā četru stundu laikā pēc vietējās enerģētiskās krīzes izsludināšanas.
+(2) Vairākas pašvaldības, kuras vienlaikus skar enerģētiskā krīze, var koordinēt šo pašvaldību enerģētiskās krīzes centru darbību vai izveidot vienotu pašvaldību enerģētiskās krīzes centru, kurā ietilpstošās personas sasauc pēc attiecīgo pašvaldību domes (padomes) priekšsēdētāju kopīgas vienošanās, pieaicinot atbildīgas pašvaldību amatpersonas, vides aizsardzības speciālistus un energoapgādes uzņēmumu pārstāvjus.
