@@ -1,0 +1,1 @@
+1.pants. 1998.gada 10.jūlijā Siguldā parakstītais Līgums starp Latvijas Republikas valdību, Igaunijas Republikas valdību un Lietuvas Republikas valdību par kopējās izglītības telpas izveidi starp Baltijas valstīm vispārējā vidējā un profesionālajā izglītībā (līdz augstākās izglītības pakāpei) (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
