@@ -1,0 +1,1 @@
+1.pants. 1994.gada 25.oktobrī Rīgā parakstītais Latvijas Republikas valdības un Čehijas Republikas valdības līgums par ieguldījumu veicināšanu un savstarpēju aizsardzību (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
