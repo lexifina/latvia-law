@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Epidemioloģiskās drošības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "342/345",
+  "official_journal_page": null,
+  "official_journal_date": "1997-12-30",
+  "entry_into_force": "1998-01-13",
+  "notification_date": "2023-10-17",
+  "commission_reference": "MNE(2023)05456",
+  "nim_celex": "72020L2184LVA_202305456",
+  "nim_id": "202305456",
+  "transposes_celex": [
+    "32020L2184"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d882957f-c04e-41e7-a4d2-df58d936e6b6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
