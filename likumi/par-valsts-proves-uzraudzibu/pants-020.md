@@ -2,6 +2,6 @@
 1) uzrādot dienesta apliecību, brīvi apmeklēt Latvijas Republikas teritorijā esošās ražošanas vietas, tirdzniecības vietas un citas nedzīvojamās telpas, kas pieder vai ir iznomātas juridiskajām vai fiziskajām personām, kuras veic saimniecisko darbību ar dārgmetāliem, dārgakmeņiem un to izstrādājumiem;
 2) veikt dārgmetālu, dārgakmeņu un to izstrādājumu pārbaudes un analīzes;
 3) pieprasīt un saņemt no pārbaudāmajām juridiskajām un fiziskajām personām, kuras veic saimniecisko darbību ar dārgmetāliem, dārgakmeņiem un to izstrādājumiem, visu ar dārgmetālu, dārgakmeņu un to izstrādājumu saņemšanu, izlietošanu, realizāciju, uzskaiti un glabāšanu saistīto dokumentāciju, kā arī izziņas un paskaidrojumus par jautājumiem, kas radušies pārbaudes procesā;
-4) sastādīt aktus par pārbaužu laikā konstatētajiem pārkāpumiem un nelikumīgajām darbībām, kas pieļautas, veicot saimniecisko darbību ar dārgmetāliem, dārgakmeņiem un to izstrādājumiem, sastādīt protokolus par administratīvajiem pārkāpumiem un pieņemt lēmumus saskaņā ar Latvijas Administratīvo pārkāpumu kodeksu;
+4) (izslēgts ar 31.03.2004. likumu);
 5) dot juridiskajām un fiziskajām personām, kuras veic saimniecisko darbību ar dārgmetāliem, dārgakmeņiem un to izstrādājumiem, obligāti izpildāmus norādījumus noteiktā termiņā novērst atklātos trūkumus un pārkāpumus, kā arī apturēt saimniecisko darbību ar dārgmetāliem, dārgakmeņiem un to izstrādājumiem. Kārtību, kādā apturama saimnieciskā darbība ar dārgmetāliem, dārgakmeņiem un to izstrādājumiem, nosaka likums "Par uzņēmumu, iestāžu un organizāciju darbības apturēšanas kārtību";
-6) iesniegt inspekcijas priekšniekam materiālus par konstatētajiem likuma pārkāpumiem.
+6) (izslēgts ar 31.03.2004. likumu).

@@ -1,1 +1,0 @@
-16.pants. Inspekcija ir juridiskā persona, un tai ir nodalīts valsts budžeta finansējums. Tai ir nošķirta manta, patstāvīga bilance, zīmogs ar papildinātā mazā valsts ģerboņa attēlu un inspekcijas pilnu nosaukumu, cita atribūtika, kā arī Valsts kases noteikts budžeta konts.

@@ -1,1 +1,1 @@
-15.pants. Inspekcija ir valsts iestāde, kas darbojas Finansu ministrijas pārraudzībā. Inspekcija nodrošina kontroli pār šā likuma un citu ar šā likuma izpildi saistīto normatīvo aktu ievērošanu, kā arī sniedz ar proves darbu (provēšana, zīmogošana, analīžu un ekspertīžu veikšana, dārgakmeņu un citu vērtīgo akmeņu kvalitatīvā novērtēšana u.c.) saistītos pakalpojumus.
+15.pants. Inspekcija ir tiešās pārvaldes iestāde, kas atrodas Finanšu ministrijas padotībā. Inspekcija īsteno valsts proves uzraudzību un sniedz ar proves darbu saistītus pakalpojumus.
