@@ -1,0 +1,1 @@
+1.pants. 1999.gada 3.jūnijā Ankarā parakstītais Latvijas Republikas valdības un Turcijas Republikas valdības līgums par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma nodokļiem (turpmāk - Līgums) un 1999.gada 3.jūnijā parakstītais tā protokols (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.
