@@ -1,0 +1,6 @@
+92. pants. Gaisa kuģa īres līgums
+Saskaņā ar gaisa kuģa īres līgumu viena puse (izīrētājs) apņemas nodot par maksu otrai pusei (īrniekam) lietošanā uz laiku gaisa kuģi.
+Gaisa kuģi var izīrēt kopā ar tā apkalpi vai bez tās.
+Gaisa kuģa īres līgumā jānorāda katras puses nosaukums, gaisa kuģa tips, īrēšanas mērķis, gaisa kuģa tehniskās apkopes kārtība un puse, kura atbild par gaisa kuģa ekspluatācijas noteikumu ievērošanu un gaisa kuģa lidojumu drošību, kārtība, kādā apdrošināms gaisa kuģis un apdrošināma atbildība par lidojumā esoša gaisa kuģa nodarīto kaitējumu trešajām personām, īrētāja atbildība par bojājumu nodarīšanu gaisa kuģim vai tā bojāeju. Gaisa kuģa īres līgumā var ietvert arī citus noteikumus.
+Īrniekam ir tiesības nodot īrēto gaisa kuģi apakšīrē tikai ar izīrētāja piekrišanu.
+Ja Latvijas Republikas Civilās aviācijas gaisa kuģu reģistrā reģistrētais gaisa kuģis tiek izīrēts citas valsts gaisa kuģa ekspluatantam vai ja Latvijas Republikas valsts institūcija, pašvaldība, sabiedriskā organizācija, Latvijas Republikas Uzņēmumu reģistrā reģistrētais uzņēmums (uzņēmējsabiedrība) vai Latvijas iedzīvotājs vēlas īrēt citā valstī reģistrētu gaisa kuģi, īres līguma noteikumi, kas saistīti ar atbildību par gaisa kuģa lidojuma drošību, jāsaskaņo Civilās aviācijas administrācijā un jāsaņem licence.

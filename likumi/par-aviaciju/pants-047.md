@@ -1,0 +1,2 @@
+47. pants. Bezpilota gaisa kuģu lidojumi vai cita veida lidaparātu pārvietošanās
+Bezpilota gaisa kuģim lidojumi vai cita veida lidaparātam, kas nav kvalificējams kā gaisa kuģis, pārvietošanās, ja tas nav pretrunā ar sabiedrības interesēm un neapdraud gaisa kuģu lidojumu drošību, Latvijas Republikas gaisa telpā jāveic kārtībā, kādu pēc saskaņošanas ar Latvijas Republikas Aizsardzības ministriju nosaka Civilās aviācijas administrācija.

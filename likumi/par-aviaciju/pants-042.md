@@ -1,0 +1,3 @@
+42. pants. Latvijas Republikas gaisa telpas izmantošanas koordinācija un gaisa kuģu lidojumu vadība
+Darbību, kas saistīta ar Latvijas Republikas gaisa telpas izmantošanu, koordinē un gaisa kuģu lidojumus speciāli izveidotās gaisa satiksmes vadības zonās vada Latvijas Republikas gaisa telpas izmantošanas un gaisa satiksmes organizēšanas valsts uzņēmums (dienests). Atsevišķas gaisa satiksmes vadības zonas gaisa kuģu lidojumus var vadīt gaisa satiksmes vadības dienesta dispečeri, kas neietilpst Latvijas Republikas gaisa telpas izmantošanas un gaisa satiksmes organizēšanas valsts uzņēmumā (dienestā).
+Gaisa satiksmes vadības dienesta dispečeri savā darbā ievēro šā likuma un uz tā pamata izdoto normatīvo aktu noteikumus.

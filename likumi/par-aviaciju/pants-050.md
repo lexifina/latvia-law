@@ -1,0 +1,3 @@
+50. pants. Aizliegums izlidot ārvalsts gaisa kuģim
+Ja ārvalsts civilās aviācijas gaisa kuģī nav starptautiskajiem lidojumiem nepieciešamās dokumentācijas, kas noteikta Starptautiskās civilās aviācijas organizācijas (ICAO) standartos vai starptautiskajos līgumos par gaisa satiksmi, vai ja ir pamats uzskatīt, ka gaisa kuģa tehniskais stāvoklis negarantē lidojuma drošību, kā arī ja tā apkalpes locekļiem nav atbilstošas speciālista apliecības, Civilās aviācijas administrācija gaisa kuģim var aizliegt izlidot.
+Šā panta pirmajā daļā noteiktajos gadījumos kārtību aizturētā gaisa kuģa izlidošanai no Latvijas Republikas teritorijas nosaka Civilās aviācijas administrācija.

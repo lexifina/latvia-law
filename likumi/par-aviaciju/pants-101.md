@@ -1,0 +1,7 @@
+101. pants. Apmērs, kādā pārvadātājs atbild par bagāžas, kravas vai pasažierim klātesošās mantas nozaudēšanu, iztrūkumu vai bojājumu
+Par pasažierim klātesošās mantas, reģistrētas bagāžas vai kravas nozaudēšanu, iztrūkumu vai bojājumu pārvadātājs ir atbildīgs šādā apmērā:
+1) par bagāžas vai kravas, kas pieņemta pārvadāšanai bez pieteiktas vērtības, kā arī par pasažierim klātesošās mantas nozaudēšanu vai iztrūkumu - faktiskās nozaudētās bagāžas, kravas vai pasažierim klātesošās mantas vai tās iztrūkstošās daļas vērtības apmērā;
+2) par bagāžas vai tādas kravas nozaudēšanu vai iztrūkumu, kas pieņemta pārvadāšanai ar pieteiktu vērtību, - pieteiktās vērtības apmērā, ja pārvadātājs nepierāda, ka pieteiktā vērtība ir lielāka par faktisko;
+3) par bagāžas, kravas vai pasažierim klātesošās mantas bojājumu - tās summas apmērā, par kuru samazinājusies bagāžas, kravas vai mantas vērtība.
+Ja pasažierim klātesošās mantas, bagāžas, kravas daļas vai kāda tajās ietilpstošā priekšmeta nozaudēšana, iztrūkums vai bojājums ietekmē pārējās pasažierim klātesošās mantas vai tajā pašā bagāžas kvītī vai kravas pavadzīmē ierakstītās bagāžas vai kravas vērtību, nosakot atlīdzības apmēru, jāievēro visas šīs pasažierim klātesošās mantas, bagāžas vai kravas kopējā vērtība.
+Bagāžas vai kravas nozaudēšanas vai iztrūkuma gadījumā pārvadātājs līdz ar atlīdzības izmaksu atdod atpakaļ pārvadājuma maksu par nozaudēto bagāžu, ja par bagāžas pārvadājumu ir bijis samaksāts, kā arī pārvadājuma maksu par nozaudēto kravu.

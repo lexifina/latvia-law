@@ -1,0 +1,2 @@
+65. pants. Ziņošana par Latvijas Republikas teritorijā notikušajiem aviācijas nelaimes gadījumiem un incidentiem citas valsts ieinteresētajām personām
+Par Latvijas Republikas teritorijā notikušajiem aviācijas nelaimes gadījumiem un incidentiem, par to izmeklēšanas uzsākšanu Civilās aviācijas administrācijai vai tās pilnvarotai personai Starptautiskās civilās aviācijas organizācijas (ICAO) dokumentos noteiktajā kārtībā jāpaziņo citas valsts civilās aviācijas administrācijai un ieinteresētajām personām.

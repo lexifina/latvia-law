@@ -1,0 +1,2 @@
+75. pants. Pienākums saglabāt lietiskos pierādījumus
+Visām personām ir pienākums saglabāt bez jebkādām izmaiņām gaisa kuģi, tā atlūzas, uz gaisa kuģa un uz zemes esošos gaisa kuģa lidojuma objektīvās kontroles līdzekļus, visus uz gaisa kuģa un uz zemes esošos priekšmetus, kas saistīti ar aviācijas nelaimes gadījumu vai incidentu, dokumentāciju, kas saistīta ar gaisa kuģa lidojumu, tā izgatavošanu, remontu un tehnisko apkopi, un nodot tos aviācijas nelaimes gadījuma izmeklēšanas komisijai.

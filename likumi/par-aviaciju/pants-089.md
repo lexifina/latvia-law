@@ -1,0 +1,6 @@
+89. pants. Kravas gaisa pārvadājuma līguma grozīšana
+Nosūtītājam, ja tas izpildījis visas no gaisa pārvadājuma līguma izrietošās saistības un uzrādījis pārvadātājam kravas pavadzīmi, ir tiesības saņemt kravu atpakaļ tās nosūtīšanas vietā vai pārvadājuma galapunktā, aizkavēt to apstāšanās vietās, mainīt kravas pavadzīmē norādīto saņēmēju, pieprasīt, lai krava tiktu nogādāta atpakaļ uz tās nosūtīšanas vietu. Pārvadātājam, ja nav iespējams izpildīt nosūtītāja rīkojumus, tas nekavējoties jāpaziņo nosūtītājam.
+Šā panta pirmajā daļā paredzēto nosūtītāja tiesību realizēšana nedrīkst nodarīt zaudējumus ne pārvadātājam, ne citiem nosūtītājiem, un nosūtītājam jāatlīdzina ar šo tiesību realizēšanu saistītie pārvadātāja izdevumi.
+Ja nosūtītājs nepieprasa kravu atpakaļ un nav devis citus norādījumus, tad no brīža, kad krava pienākusi galapunktā, kravas saņēmējam ir tiesības prasīt, lai pārvadātājs izsniedz viņam kravu un kravas pavadzīmi, bet šajā pantā noteiktās nosūtītāja tiesības izbeidzas. Ja kravas saņēmējs atsakās pieņemt kravu, nosūtītāja tiesības tiek atjaunotas.
+Katrs no šā panta noteikumiem atšķirīgs pārvadājuma līguma nosacījums jāieraksta kravas pavadzīmē.
+Šā panta noteikumi neietekmē ne nosūtītāja un kravas saņēmēja savstarpējās attiecības, ne arī to attiecības ar trešajām personām, kuru tiesības izriet no saistībām ar nosūtītāju vai saņēmēju.

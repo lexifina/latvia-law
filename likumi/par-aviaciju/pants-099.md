@@ -1,0 +1,2 @@
+99. pants. Pārvadātāja atbildība par pasažierim klātesošās mantas nozaudēšanu, iztrūkumu vai bojājumu
+Pārvadātājs ir atbildīgs par pasažierim klātesošās mantas nozaudēšanu, iztrūkumu vai bojājumu no brīža, kad pasažieris pirms gaisa pārvadājuma uzsākšanas iekāpis gaisa kuģī, līdz brīdim, kad pasažieris no tā izkāpis biļetē norādītajā gaisa pārvadājuma galapunktā vai apstāšanās punktā, izņemot gadījumus, kad pasažieris tiek lūgts viņam klātesošo mantu gaisa kuģī neatstāt.

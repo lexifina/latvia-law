@@ -1,0 +1,2 @@
+72. pants. Citu valstu ieinteresēto institūciju piedalīšanās aviācijas nelaimes gadījuma vai incidenta izmeklēšanā
+Gaisa kuģa reģistrētājvalsts, ekspluatantvalsts vai izgatavotājvalsts institūcijas, kā arī tās valsts institūcijas, kuras pilsoņi ir cietuši aviācijas nelaimes gadījumā, vai to pilnvarotās personas aviācijas nelaimes gadījuma vai incidenta izmeklēšanā var piedalīties kā novērotājas, ja starptautiskie līgumi, kuru dalībniece ir Latvijas Republika, neparedz citādi.

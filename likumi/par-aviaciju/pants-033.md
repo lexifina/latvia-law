@@ -1,0 +1,2 @@
+33. pants. Aviācijas speciālista pienākumi
+Aviācijas speciālistam, pildot savas funkcijas, jāievēro šā likuma, citu Latvijas Republikas aviācijas likumdošanas aktu noteikumi, arī Aviācijas departamenta un Civilās aviācijas administrācijas izdoto nolikumu, instrukciju un citu normatīvo aktu vai šo institūciju atzīto gaisa kuģa izgatavotājvalsts un izgatavotāja paredzēto ekspluatācijas un doto tehniskās apkopes (remonta) noteikumu un norādījumu prasības un jāgarantē gaisa kuģa lidojuma un civilās aviācijas drošība.

@@ -1,0 +1,2 @@
+77. pants. Tiesības uz atlīdzību par izdevumiem (kaitējumu), kuri radušies, veicot gaisa kuģa glābšanu, kā arī veicot darbības pēc aviācijas nelaimes gadījuma izmeklēšanas valsts komisijas norādījumiem
+Personas, kurām radušies izdevumi (kaitējums), veicot gaisa kuģa meklēšanu un glābšanu pēc Aviācijas meklēšanas un glābšanas valsts dienesta norādījumiem vai personiskās iniciatīvas, kā arī veicot darbības pēc aviācijas nelaimes gadījuma izmeklēšanas valsts komisijas norādījumiem, ir tiesīgas saņemt atlīdzību Latvijas Republikas likumdošanas aktos noteiktajā kārtībā.

@@ -1,0 +1,4 @@
+5. pants. Valsts pārvaldes institūcijas Latvijas Republikas gaisa telpas izmantošanas un civilās aviācijas darbības jomā
+Valsts politiku un pārvaldi Latvijas Republikas gaisa telpas izmantošanas un civilās aviācijas darbības jomā realizē Latvijas Republikas Satiksmes ministrijas Aviācijas departaments (turpmāk - Aviācijas departaments) un Latvijas Republikas Civilās aviācijas administrācija (turpmāk - Civilās aviācijas administrācija).
+Civilās aviācijas administrācija ir Latvijas Republikas Satiksmes ministrijai pakļauta valsts pārvaldes institūcija, kura tiek finansēta no līdzekļiem, kas iegūti, iekasējot maksu par pakalpojumiem, un no Latvijas Republikas aviācijas uzņēmumu maksājumiem. Tā darbojas atbilstoši bezpeļņas organizācijas principiem.
+Kārtību, kādā Latvijas Republikas aviācijas uzņēmumi izdara šā panta otrajā daļā paredzētos maksājumus, nosaka satiksmes ministrs.

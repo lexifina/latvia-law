@@ -1,0 +1,2 @@
+55. pants. Meteoroloģiskā informācija
+Visas ieinteresētās personas ar gaisa kuģu lidojumu veikšanai nepieciešamo meteoroloģisko informāciju Starptautiskās civilās aviācijas organizācijas (ICAO) dokumentos paredzētajos gadījumos bez maksas, bet pārējos gadījumos - par samaksu nodrošina valsts meteoroloģiskais dienests Civilās aviācijas administrācijas noteiktajā kārtībā, kas saskaņota ar valsts meteoroloģisko dienestu.

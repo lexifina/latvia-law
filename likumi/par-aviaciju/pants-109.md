@@ -1,0 +1,5 @@
+109. pants. Prasību celšana
+Prasība pret pārvadātāju saskaņā ar šā likuma 98.-100., 102. un 106. panta noteikumiem ceļama pārvadātāja pārvaldes institūcijas atrašanās vietas, gaisa pārvadājuma līguma noslēgšanas vai gaisa pārvadājuma galapunkta vietas tiesā ne vēlāk kā divu gadu laikā no dienas, kad gaisa kuģis ieradies galapunktā, vai no dienas, kad gaisa kuģim vajadzēja ierasties tajā, vai no pārvadājuma pārtraukšanas dienas.
+Prasību pret pārvadātāju sakarā ar pasažierim klātesošās mantas, reģistrētas bagāžas vai kravas nozaudēšanu, iztrūkumu, bojājumu vai gaisa pārvadājuma nokavējumu var celt tikai pēc rakstveida pretenzijas pieteikšanas saskaņā ar šā likuma 110. panta noteikumiem.
+Pārvadātājs prasību pret pasažieri, bagāžas vai kravas nosūtītāju un saņēmēju var celt saskaņā ar šo likumu sešu mēnešu laikā no tā notikuma dienas, kas bijis par pamatu prasības celšanai.
+Prasības par kaitējuma atlīdzināšanu saskaņā ar šā likuma 96., 97. un 108. panta noteikumiem tiek celtas Latvijas Republikas likumdošanas aktos paredzētajā kārtībā un termiņos.

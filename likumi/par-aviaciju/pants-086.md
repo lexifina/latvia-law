@@ -1,0 +1,2 @@
+86. pants. Kravas pavadzīmē uzrādīto datu pareizība
+Kravas pavadzīmē uzrādītie dati par kravas svaru (masu), izmēriem un iesaiņojumu, kā arī par kravas vietu skaitu uzskatāmi par pareiziem līdz brīdim, kamēr pārvadātājs nepierāda pretējo. Dati par kravas daudzumu, apjomu, stāvokli un iesaiņojumu nevar būt par pierādījumu, ja pārvadātājs noteiktā kārtībā tos nav pārbaudījis nosūtītāja klātbūtnē un norādījis to kravas pavadzīmē.
