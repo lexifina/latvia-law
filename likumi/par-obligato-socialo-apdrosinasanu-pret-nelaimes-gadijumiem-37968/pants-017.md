@@ -3,5 +3,5 @@
 (2) Apdrošinātajai personai un trešajai personai ir tiesības saņemt no Valsts sociālās apdrošināšanas aģentūras visu veidu informāciju, kas saistīta ar attiecīgo apdrošināšanas gadījumu.
 (3) Trešajai personai ir tiesības saņemt šā likuma 14. pantā tai noteikto apdrošināšanas atlīdzību, ja šā panta pirmajā daļā minētās personas nāvi ir izraisījis nelaimes gadījums darbā vai arodslimība.
 (4) Ja apdrošinātā persona vai trešā persona, kura saskaņā ar šo likumu ir ieguvusi tiesības uz apdrošināšanas atlīdzību, aizbrauc no Latvijas uz pastāvīgu dzīvi ārzemēs, tā turpina saņemt apdrošināšanas atlīdzību, sākot ar aizbraukšanas dienu, tik ilgu laiku un tādā apmērā, kā paredzēts šajā likumā.
-(5) Ja persona, kurai pienākas atlīdzība par darbspēju zaudējumu, atrodas brīvības atņemšanas vietā, tā zaudē tiesības uz atlīdzības izmaksu par brīvības atņemšanas vietā pavadāmo laiku.
+(5) (Atzīta par spēkā neesošu ar Satversmes tiesas 26.03.2004. spriedumu no 30.03.2004.)
 (6) Apdrošinātā persona un trešā persona zaudē tiesības uz apdrošināšanas atlīdzību, ja noskaidrojas, ka tā saskaņā ar likumu nepienākas vai tās piešķiršanas (saņemšanas) pamats un izmaksu cēlonis ir apdrošinātās personas vai trešās personas apzinātas ļaunprātīgas rīcības sekas.
