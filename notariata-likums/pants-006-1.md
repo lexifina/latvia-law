@@ -1,0 +1,1 @@
+6.¹ Ministru kabinets, izvērtējis Latvijas Zvērinātu notāru padomes izteikto viedokli, nosaka zvērinātu notāru amata vietas, izveido jaunas un likvidē esošās amata vietas, ņemot vērā pārmaiņas tiesu iekārtā, iedzīvotāju skaitā, attiecīgās apdzīvotās vietas saimnieciskajā dzīvē, notariālo lietu piekritībā un notāru vecuma struktūrā.

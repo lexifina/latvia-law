@@ -1,3 +1,4 @@
-213. Zvērinātu notāru atstādina no amata:
-1) saskaņā ar tiesas lēmumu, ja pret viņu uzsākta kriminālvajāšana par tīšu noziedzīgu nodarījumu, - līdz tiesas lēmumam par lietas izbeigšanu vai līdz sprieduma taisīšanai;
-2) pēc tieslietu ministra rīkojuma saskaņā ar 182. pantu.
+213. Tieslietu ministrs zvērinātu notāru var atstādināt no amata, ja:
+1) pret viņu uzsākta kriminālvajāšana par tīša noziedzīga nodarījuma izdarīšanu;
+2) pret viņu ierosināta disciplinārlieta;
+3) apturēta apdrošināšanas līguma darbība.

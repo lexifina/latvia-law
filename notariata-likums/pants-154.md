@@ -1,1 +1,1 @@
-154. Tieslietu ministrs, pamatojoties uz Latvijas Zvērinātu notāru padomes atsauksmi, var atbrīvot no amata zvērināta notāra palīgu, ja viņš bez attaisnojoša iemesla atkārtoti pēc 11. pantā noteiktā uzaicinājuma nav pieteicies uz vakanto zvērināta notāra vietu.
+154. Tieslietu ministrs var atbrīvot no amata zvērināta notāra palīgu, ja viņš bez attaisnojoša iemesla atkārtoti pēc šā likuma 11.¹ pantā noteiktā uzaicinājuma nav pieteicies uz vakanto zvērināta notāra vietu.

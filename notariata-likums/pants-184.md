@@ -1,1 +1,1 @@
-184. Latvijas Zvērinātu notāru padomes lēmumi par soda uzlikšanu jānosūta tieslietu ministram.
+184. Latvijas Zvērinātu notāru padome disciplinārlietās pieņemtos lēmumus nosūta tieslietu ministram.

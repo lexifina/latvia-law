@@ -1,1 +1,1 @@
-61. Ja zvērināts notārs ir miris, atstādināts, atbrīvots vai atcelts no amata, apgabaltiesas priekšsēdētājs dod rīkojumu kādam no tiesnešiem pārņemt zvērināta notāra zīmogus, grāmatas, lietas, aktus un viņam uzticētās vērtības, sastādot par pārņemto sīku sarakstu.
+61. Ja zvērināts notārs ir miris, pārcelts, atstādināts, atbrīvots vai atcelts no amata, apgabaltiesas priekšsēdētājs dod rīkojumu kādam no tiesnešiem pārņemt zvērināta notāra zīmogus, grāmatas, lietas, aktus un viņam uzticētās vērtības, sastādot par pārņemto sīku sarakstu.

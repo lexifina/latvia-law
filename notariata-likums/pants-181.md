@@ -1,4 +1,4 @@
-181. Disciplinārlietu komisiju zvērinātu notāru disciplinārlietu izskatīšanai un atzinumu sniegšanai ievēlē zvērinātu notāru kopsapulce.
+181. Disciplinārlietu komisiju zvērinātu notāru disciplinārlietu izskatīšanai un atzinumu sniegšanai uz trim gadiem ievēlē zvērinātu notāru kopsapulce. Disciplinārlietu komisijas locekļu skaitu nosaka zvērinātu notāru kopsapulce.
 Komisija ievēlē komisijas priekšsēdētāju.
 Komisija ir tiesīga pieņemt lēmumu, ja tās sēdē piedalās vairāk nekā puse no komisijas sastāva.
 Komisija lēmumu pieņem ar vienkāršu balsu vairākumu. Ja kādam no komisijas locekļiem ir atsevišķas domas, tās rakstveidā pievienojamas komisijas atzinumam.

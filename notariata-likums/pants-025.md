@@ -1,1 +1,1 @@
-25. Zvērināta notāra profesionālās darbības rezultātā iespējamā zaudējuma riska apdrošināšana nodrošina prasījumus, kas var rasties sakarā ar viņa profesionālo darbību un viņa palīga, arī zvērināta notāra kandidāta, darbību, aizvietojot zvērinātu notāru.
+25. Zvērināta notāra profesionālās darbības rezultātā iespējamā zaudējuma riska apdrošināšana nodrošina prasījumus, kas var rasties sakarā ar viņa profesionālo darbību un viņa palīga darbību, aizvietojot zvērinātu notāru.

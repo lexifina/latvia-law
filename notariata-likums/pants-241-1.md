@@ -1,0 +1,1 @@
+241.¹ Ja zvērināta notāra amata pienākumu pildīšana ir īpaši nepieciešama attiecīgā apdzīvotā vietā, lai nodrošinātu iedzīvotājiem pieejamu notariālo palīdzību, zvērināta notāra prakses uzturēšanai var piešķirt finansējumu no valsts budžeta Ministru kabineta noteiktajā kārtībā.

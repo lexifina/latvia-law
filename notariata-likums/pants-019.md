@@ -1,1 +1,2 @@
-19. Tieslietu ministrs pēc Latvijas Zvērinātu notāru padomes priekšlikuma nosaka zvērinātu notāru eksāmena kārtību, eksāmenu komisijas sastāvu, eksāmena jautājumus un minimālo zināšanu apjomu, kā arī nosaka eksāmena maksu.
+19. Tieslietu ministrs pēc Latvijas Zvērinātu notāru padomes priekšlikuma apstiprina zvērinātu notāru eksāmena kārtību, eksāmena komisijas sastāvu un eksāmena jautājumus.
+Zvērinātu notāru eksāmena nokārtošanai nepieciešamo minimālo zināšanu apjomu un maksu par eksāmenu nosaka Ministru kabinets.

@@ -5,6 +5,6 @@
 4) kuras notiesātas par noziedzīgu nodarījumu (kriminālpārkāpumu vai noziegumu), kas izdarīts ar nodomu (tīši), kaut arī atbrīvotas no soda izciešanas sakarā ar noilgumu, apžēlošanu vai amnestiju, vai kurām sodāmība par šiem nodarījumiem dzēsta vai noņemta;
 5) pret kurām sakarā ar noilgumu, izlīgumu, apžēlošanu vai amnestiju izbeigta krimināllieta par noziedzīgu nodarījumu (kriminālpārkāpumu vai noziegumu), kas izdarīts ar nodomu (tīši);
 6) kuras atbrīvotas no amata ar tiesas spriedumu krimināllietā;
-7) kuras izslēgtas no zvērinātu advokātu vai viņu palīgu skaita vai atceltas no zvērināta tiesu izpildītāja vai viņa palīga amata;
+7) kuras izslēgtas no zvērinātu advokātu vai viņu palīgu skaita, atlaistas no prokurora amata vai atceltas no zvērināta tiesu izpildītāja, viņa palīga amata, zvērināta notāra, viņa palīga amata vai tiesneša amata;
 8) kuras atrodas aizgādnībā;
 9) kuras darbojas par zvērinātu advokātu vai viņa palīgu un zvērinātu tiesu izpildītāju vai viņa palīgu.
