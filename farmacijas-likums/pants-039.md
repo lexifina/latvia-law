@@ -1,1 +1,1 @@
-39.pants. Pilsētās un citās apdzīvotajās vietās ar iedzīvotāju skaitu līdz 4000 par aptiekas vadītāju var būt persona, kurai ir vidējā farmaceitiskā izglītība, vismaz piecu gadu darba stāžs specialitātē un kura ir saņēmusi farmaceita, asistenta profesionālās kvalifikācijas sertifikātu.
+39.pants. Pilsētās un citās apdzīvotajās vietās ar iedzīvotāju skaitu līdz 4000 par aptiekas vadītāju var būt persona, kurai ir vidējā farmaceitiskā izglītība, vismaz piecu gadu darba stāžs specialitātē un kura ir saņēmusi labklājības ministra atļauju.
