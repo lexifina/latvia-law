@@ -1,0 +1,32 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par aizliegtajiem augu aizsardzības līdzekļiem",
+  "type_of_act": "Ministra noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "63",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-22",
+  "entry_into_force": null,
+  "notification_date": "2005-07-04",
+  "commission_reference": "MNE(2005)52309",
+  "nim_celex": "71979L0117LVA_122309",
+  "nim_id": "122309",
+  "transposes_celex": [
+    "31979L0117",
+    "31983L0131",
+    "31985L0298",
+    "31986L0214",
+    "31986L0355",
+    "31987L0181",
+    "31987L0477",
+    "31989L0365",
+    "31990L0335",
+    "31990L0533",
+    "31991L0188"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8775e351-aecf-4d2e-9423-e0b837a07af7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
