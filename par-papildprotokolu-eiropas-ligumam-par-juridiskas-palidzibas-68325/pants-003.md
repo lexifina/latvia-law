@@ -1,0 +1,1 @@
+3.pants. Papildprotokols stājas spēkā tā 6.pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo laikrakstā "Latvijas Vēstnesis".
