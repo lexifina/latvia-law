@@ -1,0 +1,3 @@
+5.pants. Ārlietu ministrija saskaņā ar Protokola 9.panta otro daļu informē Eiropas Savienības Padomes ģenerālsekretāru, ka Latvija Protokola 9.panta pirmo daļu piemēro tikai attiecībā uz:
+1) nodarījumiem, kas minēti 1977.gada 27.janvāra Eiropas Konvencijas par terorisma apkarošanu 1. un 2.pantā; un
+2) nodarījumiem, kas izpaužas kā sazvērestība vai apvienošanās un kas atbilst 1996.gada 27.septembra Konvencijas par savstarpēju izdošanu Eiropas Savienības dalībvalstīs 3.panta ceturtajā daļā minētajām darbībām, lai izdarītu vienu vai vairākus nodarījumus, kuri minēti Eiropas Konvencijas par terorisma apkarošanu 1. un 2.pantā.

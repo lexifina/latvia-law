@@ -1,0 +1,1 @@
+2.pants. Ārlietu ministrija saskaņā ar Konvencijas 9.panta sesto daļu informē Eiropas Savienības Padomes ģenerālsekretāru par to, ka visos gadījumos, lai ieslodzīto personu uz laiku nodotu lūguma saņēmējai pusei, ir nepieciešama ieslodzītās personas piekrišana.
