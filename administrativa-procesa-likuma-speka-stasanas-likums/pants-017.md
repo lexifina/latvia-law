@@ -1,0 +1,3 @@
+17.pants. Atsevišķu tiesību normu hierarhija
+(1) Ārējie normatīvie akti, ko savas autonomās kompetences jautājumos izdevusi atvasināta publisko tiesību juridiskā persona (autonoms publisko tiesību subjekts), juridiskā spēka hierarhijā (Administratīvā procesa likuma 15.panta otrā daļa) pielīdzināmi Ministru kabineta noteikumiem, ja likums nenosaka citādi.
+(2) Ja likums paredz pārvaldes iestādei kompetenci izdot ārējus normatīvos aktus, juridiskā spēka hierarhijā (Administratīvā procesa likuma 15.panta otrā daļa) šādi normatīvie akti ir nākamie pēc Ministru kabineta noteikumiem un zaudē spēku 2006.gada 1.janvārī.

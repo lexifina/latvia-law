@@ -1,0 +1,1 @@
+6. Ministru kabinets līdz 2005.gada 1.janvārim izstrādā un iesniedz Saeimai likumprojektus par nepieciešamajiem grozījumiem likumos attiecībā uz pārvaldes iestādes kompetenci izdot ārējus normatīvos aktus.

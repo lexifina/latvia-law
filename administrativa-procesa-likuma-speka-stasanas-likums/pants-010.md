@@ -1,4 +1,5 @@
 10.pants. Piekritība
-(1) Administratīvo lietu, kuru apgabaltiesa kā pirmās instances tiesa pieņēmusi savā tiesvedībā pirms 2004.gada 1.februāra, bet tās izskatīšana pēc būtības nav pabeigta, nosūta tiesai pēc Administratīvā procesa likumā noteiktās piekritības.
-(2) Administratīvo lietu, kuru Augstākās tiesas Civillietu palāta kā apelācijas instances tiesa pieņēmusi savā tiesvedībā pirms 2004.gada 1.februāra, bet tās izskatīšana pēc būtības nav pabeigta, nosūta attiecīgās apgabaltiesas Administratīvo lietu kolēģijai.
-(3) Ja šā panta pirmajā daļā minētajā gadījumā lietas izskatīšana pēc būtības ir pabeigta, to apelācijas kārtībā izskata attiecīgās apgabaltiesas Administratīvo lietu kolēģija.
+(1) Ja administratīvā lieta pieņemta apgabaltiesā kā pirmās instances tiesā pirms 2004.gada 1.februāra, apgabaltiesa turpina minētās lietas izskatīšanu, ievērojot Administratīvā procesa likuma noteikumus.
+(2) Ja administratīvā lieta pieņemta Augstākās tiesas Civillietu palātā kā apelācijas instances tiesā pirms 2004.gada 1.februāra, Augstākās tiesas Civillietu palāta turpina minētās lietas izskatīšanu, ievērojot Administratīvā procesa likuma noteikumus.
+(3) Šā panta pirmajā daļā minētajā gadījumā administratīvo lietu apelācijas kārtībā izskata Administratīvā apgabaltiesa.
+(4) Šā panta otrajā daļā minētajā gadījumā administratīvo lietu kasācijas kārtībā izskata Augstākās tiesas Senāta Administratīvo lietu departaments.
