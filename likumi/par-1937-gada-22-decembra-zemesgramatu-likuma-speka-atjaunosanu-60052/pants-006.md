@@ -1,1 +1,2 @@
-6. (Svītrots ar MK 09.04.1996. noteikumiem Nr.117, kas stājas spēkā 01.05.1996.)
+6. Ja nepieciešams, tieslietu ministrs var uz laiku pārcelt zemesgrāmatu nodaļas tiesnesi ar viņa piekrišanu uz citu zemesgrāmatu nodaļu attiecīgās apgabaltiesas teritorijā.
+Samaksu par papildu pienākumu veikšanu, aizstājot citas zemesgrāmatu nodaļas tiesnesi, nosaka tieslietu ministrs līdz 50 procentu apmērā no pamatalgas.

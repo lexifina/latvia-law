@@ -1,1 +1,1 @@
-5. (Svītrots ar MK 09.04.1996. noteikumiem Nr.117, kas stājas spēkā 01.05.1996.)
+5. Zemesgrāmatu nodaļu priekšniekus no attiecīgās zemesgrāmatu nodaļas tiesnešu vidus uz pieciem gadiem ieceļ tieslietu ministrs.

@@ -1,1 +1,1 @@
-7. (Svītrots ar MK 09.04.1996. noteikumiem Nr.117, kas stājas spēkā 01.05.1996.)
+7. Tieslietu ministrs var noteikt zemesgrāmatu nodaļu tiesnešiem piemaksu pie pamatalgas. Piemaksas maksimālais apmērs ir 50 procenti no pamatalgas, un tā tiek piešķirta uz sešiem mēnešiem par iepriekšējo sešu mēnešu darbu. Piemaksu var noteikt, ja nostrādāti ne mazāk kā seši mēneši un attiecīgās personas darba slodze šajā laika posmā ir pārsniegusi attiecīgo vidējo statistisko rādītāju zemesgrāmatu nodaļās.
