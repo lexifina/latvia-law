@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Standartizācijas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "317/320 (1378/1381)",
+  "official_journal_page": null,
+  "official_journal_date": "1998-10-28",
+  "entry_into_force": "1998-11-11",
+  "notification_date": "2012-11-01",
+  "commission_reference": "MNE(2012)55957",
+  "nim_celex": "72010L0031LVA_197484",
+  "nim_id": "197484",
+  "transposes_celex": [
+    "32010L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a6e59d52-5865-4ffe-ab20-14847f31c087",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
