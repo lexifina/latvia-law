@@ -1,1 +1,1 @@
-84. Tiesnešus apstiprina Saeima un viņi ir neatceļami. Tiesnešus pret viņu gribu var atcelt no amata vienīgi uz tiesas sprieduma pamata. Ar likumu var noteikt vecumu, ar kura sasniegšanu tiesneši atstāj savu amatu.
+84. Tiesnešus apstiprina Saeima, un viņi ir neatceļami. Tiesnesi pret viņa gribu atcelt no amata var Saeima vienīgi likumā paredzētos gadījumos, pamatojoties uz tiesnešu disciplinārkolēģijas lēmumu vai tiesas spriedumu krimināllietā. Ar likumu var noteikt vecumu, ar kura sasniegšanu tiesneši atstāj savu amatu.

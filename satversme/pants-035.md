@@ -1,1 +1,1 @@
-35. Valsts Prezidentu ievēlē Saeima uz 3 gadiem.
+35. Valsts Prezidentu ievēlē Saeima uz četriem gadiem.
