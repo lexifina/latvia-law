@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ceļu satiksmes likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "274/276",
+  "official_journal_page": null,
+  "official_journal_date": "1997-10-21",
+  "entry_into_force": "1997-11-04",
+  "notification_date": "2024-12-12",
+  "commission_reference": "MNE(2024)05653",
+  "nim_celex": "72021L2118LVA_202405653",
+  "nim_id": "202405653",
+  "transposes_celex": [
+    "32021L2118"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e925302b-b50f-4370-a796-8f5a7eebf6d7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
