@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta noteikumi Nr.690 \"Noteikumi par dārzeņu pavairojamo materiālu\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "176",
+  "official_journal_page": null,
+  "official_journal_date": "2003-12-12",
+  "entry_into_force": "2003-12-13",
+  "notification_date": "2004-03-23",
+  "commission_reference": "MNE(2003)50794",
+  "nim_celex": "71992L0033LVA_20794",
+  "nim_id": "20794",
+  "transposes_celex": [
+    "31992L0033",
+    "31993L0061",
+    "31993L0062",
+    "32008L0072"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e20db6a4-9740-402f-a167-7b09ac5a7166",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
