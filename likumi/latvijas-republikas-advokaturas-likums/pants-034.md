@@ -7,7 +7,7 @@
 6) nosaka zvērinātu advokātu skaitu, kāds vajadzīgs, lai tiesu un pirmstiesas izmeklēšanas iestāžu atrašanās vietas būtu pieejama pietiekama juridiskā palīdzība;
 7) apstiprina tiesas rajonā praktizējošo zvērinātu advokātu vecāko;
 8) izdod zvērinātu advokātu palīgiem apliecības, uz kuru pamata viņiem ir tiesība vest lietas apliecībās norādītajās tiesas un pirmstiesas izmeklēšanas iestādēs;
-9) uzdod zvērinātiem advokātiem un zvērinātu advokātu palīgiem tiesās un pirmstiesas izmeklēšanas iestādēs pēc nozīmējuma vest krimināllietas un mazturības tiesības baudošo personu lietas, kā arī par atlīdzību vest tādu personu lietas, kas dibinātu iemeslu dēļ nevar atrast advokātu savas lietas vešanai;
+9) uzdod zvērinātiem advokātiem un zvērinātu advokātu palīgiem tiesās un pirmstiesas izmeklēšanas iestādēs pēc nozīmējuma vest krimināllietas un to personu lietas, kuras likumā noteiktajā kārtībā atzītas par trūcīgām (maznodrošinātām), kā arī par atlīdzību vest tādu personu lietas, kas dibinātu iemeslu dēļ nevar atrast advokātu savas lietas vešanai;
 10) izveido konsultācijas juridiskās palīdzības sniegšanai mazturīgām personām;
 11) gādā par to zvērinātu advokātu un zvērinātu advokātu palīgu lietu nokārtošanu, kuri miruši, bez vēsts pazuduši, saslimuši vai citu iemeslu dēļ paši nevar kārtot savas un klientu lietas;
 12) nosaka atlīdzības lielumu advokātam pēc takses, ja viņam ar klientu šajā ziņā ir domstarpības un ja starp viņiem nav rakstveida vienošanās;

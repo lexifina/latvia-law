@@ -1,1 +1,1 @@
-92. Zvērinātu advokātu palīgiem jādzīvo tajā apvidū, kur dzīvo viņu patroni, un jādarbojas viņu vadībā un uzraudzībā.
+92. Zvērinātu advokātu palīgiem jādarbojas zvērinātu advokātu vadībā un uzraudzībā.
