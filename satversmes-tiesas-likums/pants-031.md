@@ -10,5 +10,6 @@ Satversmes tiesas spriedumā norādāms:
 8) argumenti un pierādījumi, ar kuriem Satversmes tiesa noraida tos vai citus pierādījumus;
 9) Satversmes norma vai cita tiesību norma, no kuras vadījusies Satversmes tiesa, novērtējot apstrīdētās tiesību normas (akta) atbilstību augstāka juridiska spēka tiesību normai;
 10) Satversmes tiesas nolēmums par to, vai apstrīdētā tiesību norma (akts) atbilst vai neatbilst augstāka juridiska spēka tiesību normai;
-11) brīdis, ar kuru apstrīdētā tiesību norma (akts) zaudē spēku, ja Satversmes tiesa nospriedusi, ka šī norma (akts) neatbilst augstāka juridiska spēka tiesību normai;
-12) norāde, ka Satversmes tiesas spriedums ir galīgs un nepārsūdzams.
+11) attiecībā uz spēkā esošo apstrīdēto tiesību normu (aktu) - brīdis, ar kuru tā zaudē spēku, ja Satversmes tiesa nospriedusi, ka šī norma (akts) neatbilst augstāka juridiska spēka tiesību normai;
+12) ja nepieciešams, - citi tiesas nolēmumi;
+13) norāde, ka Satversmes tiesas spriedums ir galīgs un nepārsūdzams.

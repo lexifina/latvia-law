@@ -1,7 +1,7 @@
 18.pants. Pieteikuma iesniegšana
 (1) Pieteikums par lietas ierosināšanu (turpmāk - pieteikums) Satversmes tiesā iesniedzams rakstveidā. Pieteikumā jānorāda:
 1) pieteikuma iesniedzējs;
-2) institūcija vai amatpersona, kas izdevusi aktu, kurš tiek apstrīdēts;
+2) institūcija vai amatpersona, kas izdevusi apstrīdēto aktu;
 3) lietas faktisko apstākļu izklāsts;
 4) pieteikuma juridiskais pamatojums;
 5) prasījums Satversmes tiesai.
