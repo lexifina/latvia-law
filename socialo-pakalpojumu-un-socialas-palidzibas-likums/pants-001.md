@@ -23,6 +23,6 @@ Likumā ir lietoti šādi termini:
 21) sociālās aprūpes pakalpojumi personas dzīvesvietā - pakalpojumi, kas tuvināti ģimenes videi [aprūpe mājās, pakalpojumi dienas aprūpes centrā, servisa dzīvoklis, grupu māja (dzīvoklis) u.c.];
 22) sociālās rehabilitācijas pakalpojumi personas dzīvesvietā - pakalpojumi, kas ir pieejami dzīvesvietā (individuāls sociālais darbs ar klientu, specializēto darbnīcu pakalpojumi, krīzes centru, dienas aprūpes centru u.c. pakalpojumi);
 23) sociālās rehabilitācijas pakalpojums - pasākumu kopums, kas vērsts uz sociālās funkcionēšanas spēju atjaunošanu vai uzlabošanu, lai nodrošinātu sociālā statusa atgūšanu un iekļaušanos sabiedrībā, un ietver sevī pakalpojumus personas dzīvesvietā un sociālās aprūpes un sociālās rehabilitācijas institūcijā vai dzīvesvietā vai sociālās aprūpes un sociālās rehabilitācijas institūcijā;
-24) sociālo pakalpojumu sniedzējs - juridiskā persona, kas sniedz sociālās aprūpes, sociālās rehabilitācijas un sociālā darba pakalpojumus un reģistrēta sociālo pakalpojumu sniedzēju reģistrā;
+24) sociālo pakalpojumu sniedzējs - persona, kas sniedz sociālās aprūpes, sociālās rehabilitācijas un sociālā darba pakalpojumus un reģistrēta sociālo pakalpojumu sniedzēju reģistrā;
 25) specializētās darbnīcas - darbnīcas, kurās izveidotas darba vietas un nodrošināts speciālistu atbalsts redzes un dzirdes invalīdiem vai personām ar garīga rakstura traucējumiem;
 26) tehniskie palīglīdzekļi - aprīkojums vai tehniskās sistēmas, kas novērš, kompensē, atvieglo vai neitralizē funkcijas pazeminājumu vai invaliditāti.

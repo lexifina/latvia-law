@@ -1,1 +1,1 @@
-1. Šā likuma 10.panta pirmā daļa, 41. un 42.pants stājas spēkā 2008.gada 1.janvārī. Līdz 2007.gada 31.decembrim sociālā darbinieka, sociālā rehabilitētāja, sociālā aprūpētāja vai sociālās palīdzības organizatora sertifikātu var saņemt arī personas, kas Ministru kabineta noteiktajā kārtībā nokārto sertifikācijas eksāmenu.
+1. Šā likuma 10.panta pirmā daļa, 41. un 42.pants stājas spēkā 2008.gada 1.janvārī.

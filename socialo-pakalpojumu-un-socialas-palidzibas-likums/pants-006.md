@@ -6,4 +6,4 @@ Klientam ir tiesības:
 4) saņemt pamatotu rakstveida atteikumu gadījumā, kad pieņemts lēmums sociālo pakalpojumu vai sociālo palīdzību klientam nesniegt;
 5) līdzdarboties ar sociālā pakalpojuma saņemšanu saistītā lēmuma pieņemšanas procesā;
 6) likumā noteiktajā kārtībā pārsūdzēt lēmumu par sociālo pakalpojumu vai sociālās palīdzības sniegšanu;
-7) iesniegt Sociālo pakalpojumu kvalitātes kontroles inspekcijai sūdzību par sniegto sociālo pakalpojumu kvalitāti un klienta tiesību neievērošanu.
+7) iesniegt Sociālo pakalpojumu pārvaldei sūdzību par sniegto sociālo pakalpojumu kvalitāti un klienta tiesību neievērošanu.
