@@ -1,0 +1,4 @@
+7. pants. Zemes pieprasītāji
+(1) Latvijas Republikas pilsoņiem un pilngadīgajiem iedzīvotājiem, kā arī ārzemēs dzīvojošiem bijušajiem Latvijas Republikas zemes īpašniekiem (pēc stāvokļa uz 1940. gada 21. jūliju) vai viņu mantiniekiem ir tiesības iesniegt pieprasījumu par zemes piešķiršanu pastāvīgā lietošanā zemnieku saimniecību vai piemājas saimniecību uzturēšanai, atjaunošanai vai jaunu veidošanai, dzīvojamo māju, vasarnīcu uzturēšanai vai celtniecībai, individuālo augļu dārzu uzturēšanai vai to ierīkošanai vai citām vajadzībām. Ja zeme pieprasīta arī citos pagastos, pieteikumā jānorāda šo pieprasījumu iesniegšanas vietas, zemes izmantošanas mērķis un platība.
+(2) Pagastu vai rajonu Tautas deputātu padomju izpildkomitejas iesniedz zemes pieprasījumus pašvaldības, arī personisko palīgsaimniecību⁴ vajadzībām.
+(3) Juridiskās personas iesniedz pieprasījumus par zemes piešķiršanu pastāvīgā lietošanā savas darbības vajadzībām.

@@ -1,0 +1,2 @@
+1. pants. Zemes reformas mērķis
+Zemes reformas mērķis ir pakāpeniskas privatizācijas gaitā pārkārtot zemes lietošanas un īpašuma tiesiskās, sociālās un ekonomiskās attiecības laukos, lai veicinātu Latvijas tradicionālā lauku dzīvesveida atjaunošanu, nodrošinātu dabas un citu resursu saimniecisku izmantošanu un aizsardzību, augsnes auglības saglabāšanu un celšanu, kvalitatīvu lauksaimniecības produktu ražošanas palielināšanu.
