@@ -1,0 +1,1 @@
+1.pants. 1994.gada 9.decembrī Rīgā parakstītā Latvijas Republikas un Šveices Konfederācijas vienošanās par tirdzniecību ar lauksaimniecības produktiem (turpmāk - Vienošanās) un tās pielikumi ar šo likumu tiek pieņemti un apstiprināti.

@@ -1,0 +1,1 @@
+Šveices Konfederācijas piešķirtās tarifu koncesijas Latvijas Republikai

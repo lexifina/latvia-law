@@ -1,0 +1,1 @@
+3.pants. Latvijas Republikas Ārlietu ministrija uz šā likuma pamata un saskaņā ar Vienošanās tekstā noteikto kārtību informē Šveices Konfederācijas valdību par nepieciešamo likumdošanas prasību izpildi Vienošanās un tās pielikumu apstiprināšanai.
