@@ -13,4 +13,4 @@ Ja pēc viena dokumenta izdarāmi vairāki nostiprinājumi, no kuriem daži pēc
 10) par zemesgrāmatas nodalījuma, nekustamā īpašuma lietas, nostiprinājumu žurnāla un dokumentu grāmatas lasīšanu no katras hipotekāras vienības - 1/50 no minimālās mēnešalgas;
 11) par nekustamā īpašuma lietai pievienota dokumenta elektroniskās kopijas neapliecinātu datorizdruku par katru lapu, skaitot nepilnu lapu par pilnu, - 1/80 no minimālās mēnešalgas;
 12) par neapliecinātas datorizdrukas vai nekustamā īpašuma lietai pievienota dokumenta kopijas izsniegšanu vai nosūtīšanu elektroniskā veidā par katru lapu, skaitot nepilnu lapu par pilnu, - 1/60 no minimālās mēnešalgas.
-Kancelejas nodeva par informācijas saņemšanu no valsts vienotās datorizētās zemesgrāmatas ieskaitāma Tieslietu ministrijas pamatbudžeta kontā un izlietojama valsts vienotās datorizētās zemesgrāmatas darbības nodrošināšanai.
+Kancelejas nodeva par informācijas saņemšanu no valsts vienotās datorizētās zemesgrāmatas ieskaitāma valsts pamatbudžetā.
