@@ -1,0 +1,1 @@
+56. Desmit dienu laikā pēc finanšu ministra lēmumā noteiktā termiņa beigām Valsts ieņēmumu dienests iesniedz Finanšu ministrijai izziņu, kurā norādīts, kā nodokļu maksātājs ir izpildījis lēmumā noteiktās saistības.

@@ -1,0 +1,1 @@
+52. Nodokļu maksātājam, kuram finanšu ministrs atļāvis kārtot nokavētā konkrētā nodokļa maksājuma pamatparādu atbilstoši pārejas noteikumu 51.punkta nosacījumiem, Valsts ieņēmumu dienests pārtrauc aprēķināt ar attiecīgo nodokļa maksājuma pamatparādu saistīto nokavējuma naudu no tā mēneša pirmās dienas, kad pieņemts finanšu ministra lēmums.

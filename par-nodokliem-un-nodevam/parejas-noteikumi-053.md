@@ -1,0 +1,1 @@
+53. Nokavējuma naudas aprēķināšana tiek atjaunota vispārējā kārtībā no dienas, kad tika pārtraukta tās aprēķināšana attiecībā uz to nokavētā konkrētā nodokļa maksājuma pamatparāda daļu, kura nav samaksāta šo pārejas noteikumu 51.punkta 1.apakšpunktā noteiktajā termiņā.

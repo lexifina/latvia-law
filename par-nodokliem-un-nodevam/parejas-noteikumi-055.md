@@ -1,0 +1,4 @@
+55. Finanšu ministrs pārejas noteikumu 51.punktā minēto lēmumu pieņem, ja līdz 2003.gada 15.decembrim Finanšu ministrijai ir iesniegti šādi dokumenti:
+1) nodokļu maksātāja iesniegums, kurā dots nodokļu maksātāja raksturojums un norādīti parāda rašanās iemesli un pasākumi, kas veikti nodokļu parāda nomaksai;
+2) nodokļu administrācijas izsniegtā izziņa par nokavētajiem nodokļu maksājumiem, kas nodokļu maksātājam izveidojušies līdz 2001.gada 31.decembrim, norādot atsevišķi šo maksājumu pamatparādu, pamatparāda palielinājuma naudu un nokavējuma naudu iesniegšanas mēneša pirmajā datumā;
+3) attiecīgās pašvaldības domes (padomes) lēmums, kas apstiprina, ka attiecīgā pašvaldība piekrīt piemērot iedzīvotāju ienākuma nodokļa maksājumu parādam pārejas noteikumu 51.punkta 1., 2. un 3.apakšpunktā minētos nosacījumus.
