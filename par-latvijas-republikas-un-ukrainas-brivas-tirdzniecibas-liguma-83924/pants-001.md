@@ -1,0 +1,1 @@
+1.pants. 2003.gada 20.oktobrī Kijevā parakstītais Latvijas Republikas un Ukrainas brīvās tirdzniecības līguma Protokols "Par izņēmumiem no brīvās tirdzniecības režīma" (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
