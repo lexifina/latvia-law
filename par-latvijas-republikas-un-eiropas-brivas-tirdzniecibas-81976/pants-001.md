@@ -1,0 +1,1 @@
+1.pants. 1995.gada 7.decembrī Cermatā parakstītais Latvijas Republikas un Eiropas brīvās tirdzniecības asociācijas valstu līgums (turpmāk - Līgums) (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 16.nr.; 1999, 6.nr.; 2000, 2., 20.nr.; 2001, 3.nr.; 2003, 8.nr.) ar šo likumu tiek denonsēts.
