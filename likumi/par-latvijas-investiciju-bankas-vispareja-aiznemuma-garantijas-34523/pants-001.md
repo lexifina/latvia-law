@@ -1,0 +1,1 @@
+1.pants. 1994.gada 21.jūlijā Rīgā Latvijas Republikas vārdā un 1994.gada 1.augustā Luksemburgā Eiropas Investīciju bankas vārdā parakstītais Latvijas Investīciju bankas vispārējā aizņēmuma garantijas līgums starp Latvijas Republiku un Eiropas Investīciju banku (turpmāk - Līgums) ar šo likumu tiek apstiprināts un pieņemts.
