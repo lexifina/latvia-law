@@ -3,3 +3,4 @@ Pasažiera gaisa pārvadājuma līgumu un tā noteikumus apliecina biļete, bet 
 Kravas gaisa pārvadājuma līgumu, tā noteikumus un to, ka pārvadātājs pieņēmis kravu, apliecina kravas pavadzīme.
 Ja pārvadātājs ir izsniedzis biļeti, bagāžas kvīti vai kravas pavadzīmi, bet tā nav pareizi noformēta vai ir nozaudēta, vai kādu citu iemeslu dēļ to nav iespējams uzrādīt, pārvadājuma līgums paliek spēkā. Tomēr, ja ir šā likuma 104. panta otrās daļas 1. un 2. punktā noteiktie nosacījumi, pārvadātāja atbildība netiek ierobežota.
 Pasta gaisa pārvadājuma līgumu, tā noteikumus un pasta pieņemšanu pārvadāšanai apliecina pasta pavadzīme.
+Ministru kabinets nosaka kārtību, kādā tiek piedāvātas datorizētās biļešu rezervēšanas sistēmas un izmantoti to pakalpojumi.
