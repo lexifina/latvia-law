@@ -1,0 +1,1 @@
+1.pants. 1954.gada 14.maija Hāgas konvencija par kultūras vērtību aizsardzību bruņota konflikta gadījumā (turpmāk - Konvencija) un tās 1954.gada 14.maija protokols par kultūras vērtību aizsardzību bruņota konflikta gadījumā (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.
