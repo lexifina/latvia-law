@@ -1,0 +1,1 @@
+6. pants. Latvijas Republikas un Krievijas Federācijas vienošanās par Skrundas radiolokācijas stacijas tiesisko statusu tās pagaidu funkcionēšanas un demontāžas laikā stājas spēkā tās 20. pantā noteiktajā laikā un kārtībā.

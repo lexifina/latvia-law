@@ -1,0 +1,1 @@
+Krievijas Federācijas Valdības un Latvijas Republikas Valdības vienošanās par Latvijas Republikas teritorijā dzīvojošo Krievijas Federācijas militāro pensionāru un viņu ģimenes locekļu sociālo aizsardzību

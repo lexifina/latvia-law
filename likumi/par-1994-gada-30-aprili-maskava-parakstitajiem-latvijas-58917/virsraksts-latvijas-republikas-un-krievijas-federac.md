@@ -1,0 +1,1 @@
+Latvijas Republikas un Krievijas Federācijas līgums par Krievijas Federācijas Bruņoto spēku pilnīgas izvešanas no Latvijas Republikas teritorijas nosacījumiem, termiņiem un kārtību un to tiesisko stāvokli izvešanas laikā
