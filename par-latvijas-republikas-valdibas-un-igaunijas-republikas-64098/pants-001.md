@@ -1,0 +1,1 @@
+1.pants. 2002.gada 11.februārī Rīgā parakstītā Latvijas Republikas valdības un Igaunijas Republikas valdības konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma nodokļiem (turpmāk - Konvencija) ar šo likumu tiek pieņemta uz apstiprināta.
