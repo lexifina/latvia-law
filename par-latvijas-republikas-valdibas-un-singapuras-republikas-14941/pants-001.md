@@ -1,0 +1,1 @@
+1.pants. 1999.gada 6.oktobrī Singapūrā parakstītais Latvijas Republikas valdības un Singapūras Republikas valdības līgums par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma nodokļiem (turpmāk - Līgums) un tā 1999.gada 6.oktobrī parakstītais protokols (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.
