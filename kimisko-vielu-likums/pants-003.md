@@ -1,7 +1,7 @@
 3.pants. Likuma darbība
 (1) Šis likums reglamentē darbības ar ķīmiskajām vielām un ķīmiskajiem produktiem, kā arī biocīdiem.
 (2) Papildus šim likumam darbības ar ķīmiskajām vielām un ķīmiskajiem produktiem regulē:
-1) attiecībā uz ķīmisko vielu maisījumiem atkritumu veidā - likums "Par bīstamajiem atkritumiem";
+1) attiecībā uz ķīmiskajām vielām vai ķīmiskajiem produktiem, kas ir atkritumu sastāvā, - normatīvie akti, kuri reglamentē atkritumu apsaimniekošanu;
 2) attiecībā uz ķīmisko produktu pārvadājumiem (arī tranzītpārvadājumiem) pa ceļiem, dzelzceļu, gaisu, jūru, pastu vai pārvietošanu pa cauruļvadiem, ja netiek veikta jebkāda šo vielu vai produktu apstrāde vai pārstrāde, - normatīvie akti, kas reglamentē bīstamo kravu pārvadāšanas kārtību;
 3) attiecībā uz narkotiskajām un psihotropajām vielām - likums "Par narkotisko un psihotropo vielu likumīgās aprites kārtību" un citi ar to saistītie normatīvie akti;
 4) attiecībā uz prekursoriem - likums "Par prekursoriem" un citi ar to saistītie normatīvie akti;
