@@ -1,0 +1,2 @@
+STARPTAUTISKĀ JŪRNIECĪBAS ORGANIZĀCIJA
+1992.gada Starptautiskā konvencija par starptautiskā fonda nodibināšanu naftas piesārņojuma radīto zaudējumu kompensācijai

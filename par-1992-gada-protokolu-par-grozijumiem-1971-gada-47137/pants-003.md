@@ -1,0 +1,1 @@
+3.pants. Ārlietu ministrija ir atbildīgā institūcija, kas saskaņā ar Protokola 29.panta prasībām informē Starptautiskās jūrniecības organizācijas ģenerālsekretāru par maksājumus veicošām personām. Satiksmes ministrija sniedz nepieciešamo informāciju minēto prasību izpildes nodrošināšanai.

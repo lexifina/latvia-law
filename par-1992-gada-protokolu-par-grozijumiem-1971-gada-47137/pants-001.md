@@ -1,0 +1,1 @@
+1.pants. 1992.gada 27.novembrī Londonā parakstītais Protokols par grozījumiem 1971.gada Starptautiskajā konvencijā par starptautiskā fonda nodibināšanu naftas piesārņojuma radīto zaudējumu kompensācijai (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
