@@ -1,0 +1,1 @@
+1.pants. 1994.gada 12.decembrī Rīgā parakstītais Latvijas Republikas valdības un Beļģijas Karalistes valdības līgums par gaisa satiksmi (turpmāk - Līgums) un tā pielikums ar šo likumu tiek pieņemti un apstiprināti.
