@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2004. gada 26. oktobra noteikumi Nr. 893 \"Iepirkumu uzraudzības biroja nolikums\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "171",
+  "official_journal_page": null,
+  "official_journal_date": "2004-10-28",
+  "entry_into_force": "2004-10-29",
+  "notification_date": "2026-03-25",
+  "commission_reference": "MNE(2026)01967",
+  "nim_celex": "72023L1791LVA_202601967",
+  "nim_id": "202601967",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ddd4cb52-45cf-44e8-8fda-5221f2d632e9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
