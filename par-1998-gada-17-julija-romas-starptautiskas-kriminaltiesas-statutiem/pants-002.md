@@ -1,0 +1,1 @@
+2.pants. Saskaņā ar Statūtu 87.panta otro daļu Latvijai adresētajiem lūgumiem par sadarbību un jebkuriem lūgumam pievienotajiem dokumentiem jābūt vai nu latviešu valodā, vai arī tiem jāpievieno tulkojums latviešu valodā.
