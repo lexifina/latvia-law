@@ -1,0 +1,1 @@
+5.pants. Piemiņas zīmi piešķir 1991.gada barikāžu dalībnieku piemiņas zīmes valde (turpmāk - valde), kuras sastāvā ir Saeimas priekšsēdētājs un Saeimas priekšsēdētāja aicināti četri valdes locekļi. Saeimas priekšsēdētājs ir valdes priekšsēdētājs. Valdes priekšsēdētājs un valdes locekļi savus pienākumus pilda sabiedriskā kārtā, nesaņemot par to atalgojumu.

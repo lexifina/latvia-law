@@ -1,0 +1,1 @@
+3.pants. 1991.gada barikāžu dalībnieka piemiņas zīme ir ozollapu vainagota vairoga veida medaļa 4 cm diametrā, uz kuras attēlots lauva, kas tur mazāku vairogu ar sakrustotām atslēgām. Virs pamatvairoga ir uzraksts "LR 1991", bet piemiņas zīmes otrajā pusē - uzraksts "Par Latviju".
