@@ -6,7 +6,7 @@
 3) (izslēgts ar 23.11.2000. likumu);
 4) valsts ilgtermiņa saistības atbilstoši budžeta izdevumu klasifikācijai;
 5) noteikumus, kas pievienojami visām vai atsevišķām apropriācijām;
-6) ārvalstu finansu palīdzības līdzekļu kopapjomu ministrijām un citām centrālajām valsts iestādēm;
+6) ārvalstu finanšu palīdzības līdzekļu kopapjomu ministrijām un citām centrālajām valsts iestādēm;
 7) valsts fondēto pensiju shēmas iemaksu likmi un iemaksu summu.
 (3) Uz valsts budžeta likuma projekta (budžeta likumprojektu paketes) izskatīšanu attiecas šā likuma 10.panta pirmajā daļā paredzētie noteikumi.
 (4) Saeimas apstiprināto valsts budžeta likumu (budžeta likumu paketi) izsludina Satversmē noteiktajā kārtībā.

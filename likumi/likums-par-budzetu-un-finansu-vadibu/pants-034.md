@@ -1,4 +1,4 @@
-34. pants. Valsts budžeta naudas līdzekļu investēšana
-(1) Finansu ministrs naudas vadības ietvaros, izmantojot naudas līdzekļus, kas atrodas Valsts kases budžeta kontos, var veikt investīcijas valsts vērtspapīru vai depozītu veidā uz tādiem termiņiem un ar tādiem noteikumiem, kādus viņš atzīst par pieņemamiem, kā arī likvidēt šādas investīcijas, lai nodrošinātu valsts budžeta izpildi.
-(2) Finansu ministrs nosaka kārtību, kādā veicama šā panta pirmajā daļā noteiktā valsts budžeta līdzekļu investēšana un saņemto procentu ieskaitīšana valsts pamatbudžetā.
-(3) Valsts budžeta izpildītājiem attiecībā uz speciālo budžetu ir tiesības noslēgt vienošanos ar Valsts kasi par speciālā budžeta līdzekļu atlikuma investēšanu depozītu veidā, kā arī investēt šo līdzekļu atlikumu Latvijas valsts vērtspapīros finansu ministra noteiktajā kārtībā.
+34. pants. Valsts budžeta naudas līdzekļu ieguldīšana
+(1) Finanšu ministrs naudas vadības ietvaros, izmantojot naudas līdzekļus, kas atrodas Valsts kases budžeta kontos, var ieguldīt valsts vērtspapīru vai depozītu veidā uz tādiem termiņiem un ar tādiem noteikumiem, kādus viņš atzīst par pieņemamiem, kā arī likvidēt šādus ieguldījumus, lai nodrošinātu valsts budžeta izpildi.
+(2) Finanšu ministrs nosaka kārtību, kādā veicama šā panta pirmajā daļā noteiktā valsts budžeta līdzekļu ieguldīšana un saņemto procentu ieskaitīšana valsts pamatbudžetā.
+(3) Valsts budžeta izpildītājiem attiecībā uz speciālo budžetu un ārvalstu finanšu palīdzību ir tiesības noslēgt vienošanos ar Valsts kasi par speciālā budžeta un ārvalstu finanšu palīdzības līdzekļu atlikuma ieguldīšanu depozītu veidā, kā arī ieguldīt šo līdzekļu atlikumu Latvijas valsts vērtspapīros finanšu ministra noteiktajā kārtībā.
