@@ -1,0 +1,1 @@
+1.pants. 1999.gada 11.maijā Helsinkos parakstītais Latvijas Republikas un Somijas Republikas sociālās drošības līgums (turpmāk -Līgums), Administrāciju sadarbības kārtība un tās 1. un 2.pielikums (turpmāk - Pielikumi) ar šo likumu tiek pieņemti un apstiprināti.
