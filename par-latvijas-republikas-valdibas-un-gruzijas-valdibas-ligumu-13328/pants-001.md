@@ -1,0 +1,1 @@
+1.pants. 2000.gada 5.jūlijā Tbilisi parakstītais Latvijas Republikas valdības un Gruzijas valdības līgums par savstarpēju palīdzību muitas lietās (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
