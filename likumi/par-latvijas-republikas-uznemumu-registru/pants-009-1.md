@@ -1,5 +1,5 @@
-9.¹ pants. Latvijas Republikas Uzņēmumu reģistra dokumentu izsniegšanas ierobežojumi
-Latvijas Republikas Uzņēmumu reģistra žurnālus un tiem pievienotos dokumentus aizliegts izsniegt iznešanai ārpus Uzņēmumu reģistra telpām.
+9.¹ pants. Uzņēmumu reģistra dokumentu izsniegšanas ierobežojumi
+Uzņēmumu reģistra žurnālus un tiem pievienotos dokumentus aizliegts izsniegt iznešanai ārpus Uzņēmumu reģistra telpām.
 Uzņēmumu reģistra atsevišķus dokumentus var izņemt:
 1) pēc tiesas lēmuma;
 2) kā lietiskos pierādījumus vai ekspertīzes izdarīšanai krimināllietā, veicot pirmstiesas izmeklēšanu.
