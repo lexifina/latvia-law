@@ -1,0 +1,1 @@
+5. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par reliģiskajām organizācijām" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1990, 40.nr.) un likums "Par grozījumiem un papildinājumiem Latvijas Republikas likumā "Par reliģiskajām organizācijām"" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 29./30.nr.).

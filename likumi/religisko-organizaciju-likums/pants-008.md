@@ -1,0 +1,7 @@
+8. pants. Reliģisko organizāciju un garīgā personāla mācību iestāžu reģistrācija
+(1) Draudzes, reliģiskās savienības (baznīcas) un klosteri tiek reģistrēti Tieslietu ministrijā. Tieslietu ministrijā tiek reģistrētas arī garīgā personāla mācību iestādes.
+(2) Tieslietu ministrijai iesniegtie dokumenti jāizskata mēneša laikā. Izskatot to konfesiju un reliģiju draudžu dokumentus, kuras pirmo reizi uzsāk savu darbību Latvijas Republikā un kuras nepieder pie valstī jau reģistrētajām reliģiskajām savienībām (baznīcām), Tieslietu ministrijai ir tiesības uz vienu mēnesi pagarināt šo dokumentu izskatīšanas termiņu, informējot par to iesniedzēju.
+(3) Lēmumu par reliģiskās organizācijas reģistrāciju vai par reģistrācijas atteikumu pieņem tieslietu ministrs.
+(4) To konfesiju un reliģiju draudzēm, kuras pirmo reizi uzsāk savu darbību Latvijas Republikā un kuras nepieder pie valstī jau reģistrētajām reliģiskajām savienībām (baznīcām), pirmo desmit gadu laikā ir jāpārreģistrējas Tieslietu ministrijā ik gadu, lai šī institūcija pārliecinātos par attiecīgo draudžu lojalitāti pret Latvijas valsti un to darbības atbilstību likumdošanas aktiem.
+(5) Reliģiskās organizācijas statūtos (satversmē, nolikumā) izdarītie grozījumi un papildinājumi, kā arī dati par grozījumiem reliģisko organizāciju vadības un revīzijas komisiju sastāvā divu nedēļu laikā iesniedzami Tieslietu ministrijai.
+(6) Ja reliģiskā organizācija tiek reģistrēta, tās vadītājam vai citai tās pilnvarotai personai izsniedz reģistrācijas apliecību.

@@ -1,0 +1,3 @@
+2. pants. Likuma mērķis
+(1) Reliģisko organizāciju likums, ievērojot Latvijas Republikas Satversmi, konstitucionālo likumu "Cilvēka un pilsoņa tiesības un pienākumi", kā arī starptautiskos līgumus par cilvēktiesībām reliģijas jomā, regulē sabiedriskās attiecības, kas veidojas, īstenojot apziņas brīvību un veicot reliģisko organizāciju darbību.
+(2) Likuma mērķis ir garantēt Latvijas iedzīvotājiem tiesības uz reliģijas brīvību, kas ietver tiesības brīvi noteikt savu attieksmi pret reliģiju, individuāli vai kopā ar citiem pievērsties kādai reliģijai vai nepievērsties nevienai no tām, brīvi mainīt savu reliģisko vai citu pārliecību, veikt reliģisko darbību, kā arī paust savu reliģisko pārliecību, ievērojot spēkā esošos likumdošanas aktus.
