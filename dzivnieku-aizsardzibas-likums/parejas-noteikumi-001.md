@@ -1,0 +1,1 @@
+1. Personas, kuru īpašumā šā likuma spēkā stāšanās brīdī ir 16.pantā minētie dzīvnieki, nedrīkst pieļaut šo dzīvnieku vairošanos un līdz 2000.gada 1.jūlijam nodrošina dzīvnieku turēšanu savvaļas dzīvnieku kolekcijās, bet, ja tas nav iespējams, - eitanāziju.
