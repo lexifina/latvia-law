@@ -1,0 +1,2 @@
+2.pants. Likuma darbība
+Šis likums regulē jautājumus, kas saistīti ar dzelzceļa pārvadājumu jomu (pasažieru un bagāžas pārvadājumus, kravu pārvadājumus, bīstamo kravu pārvadājumus, atbildību par dzelzceļa pārvadājumu savstarpējo saistību pārkāpumiem, pretenzijas un prasības), attiecības starp pārvadātāju un pasažieri, bagāžas, kravas bagāžas un kravas nosūtītāju un saņēmēju, kā arī nosaka prasības bīstamo kravu pārvadājumiem.

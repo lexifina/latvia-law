@@ -1,0 +1,2 @@
+7.pants. Pasažieru un bagāžas pārvadājuma līgums
+Saskaņā ar pasažieru pārvadājuma līgumu pārvadātājs apņemas par samaksu aizvest pasažieri līdz biļetē norādītajai stacijai vai pieturas punktam un, ja pasažieris nodevis bagāžu, nogādāt to norādītajā stacijā un izsniegt bagāžas saņēmējam vai viņa pilnvarotajai personai, bet pasažieris - samaksāt par braukšanu un bagāžas pārvadāšanu, ja likumos nav noteikts citādi.

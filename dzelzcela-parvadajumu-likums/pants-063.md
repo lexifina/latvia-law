@@ -1,0 +1,2 @@
+63.pants. Zaudējumu atlīdzināšana par privātvagonu vai privātkonteineru
+Ja nozaudēts privātvagons vai privātkonteiners, pārvadātājs, saskaņojot ar tā īpašnieku, nodod tam līdzvērtīgu vagonu vai konteineru vai atlīdzina zaudējumus vagona vai konteinera atlikušās vērtības apmērā, bet privātvagona vai privātkonteinera vai tā sastāvdaļu sabojāšanas gadījumā - faktiski nodarītā zaudējuma apmērā, bet ne vairāk par atlīdzību, kuru izmaksā, ja ir nozaudēts privātvagons vai privātkonteiners.

@@ -1,0 +1,2 @@
+54.pants. Pārvadātāja atbildība par pasažierim nodarītajiem zaudējumiem
+Pārvadātājs ir atbildīgs par zaudējumiem, kas radušies pārvadāšanas laikā pārvadātāja darbības (bezdarbības) dēļ, ja pasažieris gājis bojā, guvis sakropļojumu vai citu veselības bojājumu vai ir bojāta pasažiera manta un pārvadātājs nevar pierādīt, ka zaudējumi radušies nepārvaramas varas dēļ, ar paša cietušā nodomu vai viņa rupjas neuzmanības dēļ. Par zaudējumiem, kas radušies pasažiera iekāpšanas vai izkāpšanas laikā, pārvadātājs atbild, ja ir konstatēta viņa vaina.

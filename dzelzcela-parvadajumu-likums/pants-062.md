@@ -1,0 +1,3 @@
+62.pants. Kravas, privātvagona un privātkonteinera nozaudēšana
+(1) Kravas nosūtītājam vai saņēmējam ir tiesības uzskatīt kravu, privātvagonu vai privātkonteineru par nozaudētu un pieprasīt atlīdzību par to nozaudēšanu, ja krava nav izsniegta kravas saņēmējam pēc viņa pieprasījuma 30 dienu laikā pēc kravas piegādes termiņa izbeigšanās, bet privātvagons vai privātkonteiners - triju mēnešu laikā.
+(2) Ja krava, privātvagons vai privātkonteiners pienācis pēc noteiktā termiņa, krava, privātvagons vai privātkonteiners saņēmējam jāpieņem un jāatlīdzina summa, ko pārvadātājs tam izmaksājis par kravas, privātvagona vai privātkonteinera nozaudēšanu.
