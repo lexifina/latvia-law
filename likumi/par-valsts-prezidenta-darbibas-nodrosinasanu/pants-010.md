@@ -4,4 +4,4 @@
 3) lietošanā vienu automašīnu;
 4) sekretāru.
 (2) Par to, vai personai, kas bijusi ievēlēta par Valsts prezidentu, nepieciešama apsardze, katrā atsevišķā gadījumā lemj Ministru kabinets.
-(3) Persona, kas bijusi ievēlēta par Valsts prezidentu, ir diplomātiskās pases turētāja arī pēc Valsts prezidenta amata atstāšanas.
+(3) Valsts prezidents ir diplomātiskās pases turētājs arī pēc amata pildīšanas termiņa beigām.
