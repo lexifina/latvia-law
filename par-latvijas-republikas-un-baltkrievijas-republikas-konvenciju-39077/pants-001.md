@@ -1,0 +1,1 @@
+1.pants. 1995.gada 7.septembrī Minskā parakstītā Latvijas Republikas un Baltkrievijas Republikas konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
