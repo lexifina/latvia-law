@@ -1,0 +1,1 @@
+Latvijas Republikas valdības un Nīderlandes Karalistes valdības līgums par savstarpējo administratīvo palīdzību atbilstošā muitas likumu piemērošanā un muitas pārkāpumu aizkavēšanā, izmeklēšanā un novēršanā
