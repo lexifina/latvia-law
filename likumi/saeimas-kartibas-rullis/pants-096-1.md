@@ -4,5 +4,6 @@ a) visi noteiktajā termiņā (90.un 92.p.) un kārtībā (90.1 un 95.p.) iesnie
 b) atbildīgās komisijas atzinumi par priekšlikumiem (arī alternatīvajiem priekšlikumiem),
 c) atbildīgās komisijas priekšlikumi,
 d) visi noteiktajā termiņā un kārtībā iesniegtie Ministru kabineta atzinumi par priekšlikumiem;
-2) šā panta pirmajā punktā minētie dokumenti nav bijuši pieejami deputātiem vismaz piecas dienas iepriekš. Šis noteikums neattiecas uz likumprojektiem, kuri atzīti par steidzamiem.
+2) šā panta pirmajā punktā minētie dokumenti nav bijuši pieejami deputātiem vismaz piecas dienas iepriekš. Šis noteikums neattiecas uz likumprojektiem, kuri atzīti par steidzamiem;
+3) nav pieņemti ar budžetu saistītie likumprojekti.
 (2) Kārtību, kādā sakārtojami priekšlikumi likumprojektam par budžetu, nosaka atbildīgā komisija.
