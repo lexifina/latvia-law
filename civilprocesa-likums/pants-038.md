@@ -4,5 +4,5 @@
 2) par izziņas izsniegšanu - 0,50 lati;
 3) par izpildu raksta dublikāta izdošanu - 5 lati;
 4) par tiesas nolēmuma spēkā stāšanās apliecināšanu, ja šis nolēmums iesniedzams ārvalstu iestādēs, - 3 lati;
-5) par liecinieku uzaicināšanu - 1 lats par katru personu.
-(2) Kancelejas nodeva iemaksājama Tieslietu ministrijas speciālā budžeta kontā.
+5) par liecinieku uzaicināšanu - 3 lati par katru personu.
+(2) Kancelejas nodevu ieskaita valsts pamatbudžetā.
