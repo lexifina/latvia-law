@@ -1,0 +1,30 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "26",
+  "official_journal_page": null,
+  "official_journal_date": "1995-02-18",
+  "entry_into_force": null,
+  "notification_date": "2004-01-30",
+  "commission_reference": "MNE(2003)50111",
+  "nim_celex": "71969L0335LVA_20111",
+  "nim_id": "20111",
+  "transposes_celex": [
+    "31969L0335",
+    "31974L0553",
+    "31977L0799",
+    "31979L1071",
+    "31985L0303",
+    "31994L0022",
+    "32001L0044",
+    "32002L0094",
+    "32004L0079"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f5ba4aee-17a6-45df-9f12-276349dfd776",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
