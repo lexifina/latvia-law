@@ -1,0 +1,1 @@
+4.pants. Līgums stājas spēkā tā 9.1.apakšpunktā noteiktajā laikā un kārtībā, pēc tam kad Sorosa fonds-Latvija noformējis dāvinājuma līgumu, ar kuru Rīgas Juridiskā augstskola iegūst īpašuma tiesības uz ēku Rīgā, Alberta ielā 13 (kadastra numurs 01000190105).

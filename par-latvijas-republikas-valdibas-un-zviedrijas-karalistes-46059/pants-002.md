@@ -1,0 +1,1 @@
+2.pants. Līguma 1.2.apakšpunktā minētā akreditācija notiek Latvijas likumos noteiktajā laikā un kārtībā un tiek piešķirta tad, ja Rīgas Juridiskās augstskolas studiju programma atbilst Latvijas Republikas normatīvajos aktos noteiktajām prasībām par programmas akadēmisko kvalitāti.

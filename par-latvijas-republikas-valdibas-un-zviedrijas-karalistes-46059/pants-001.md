@@ -1,0 +1,1 @@
+1.pants. 1997.gada 14.jūlijā Rīgā parakstītais Latvijas Republikas valdības un Zviedrijas Karalistes valdības līgums par Rīgas Juridiskās augstskolas dibināšanu (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
