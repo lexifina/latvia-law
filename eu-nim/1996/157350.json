@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Satversmes tiesas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "103",
+  "official_journal_page": null,
+  "official_journal_date": "1996-06-14",
+  "entry_into_force": "1996-06-28",
+  "notification_date": "2008-07-29",
+  "commission_reference": "MNE(2008)54418",
+  "nim_celex": "72006L0054LVA_157350",
+  "nim_id": "157350",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/916baa0a-b882-4223-92f1-7ddaabe96631",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
