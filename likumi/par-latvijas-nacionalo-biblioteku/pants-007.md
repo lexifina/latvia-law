@@ -1,0 +1,2 @@
+7. pants. Latvijas Nacionālās bibliotēkas uzdevumi valsts bibliotēku sistēmas attīstībā
+Latvijas Nacionālā bibliotēka uzkrāj, apkopo un analizē profesionālo informāciju par bibliotēku nozari, realizē bibliotekāro procesu standartizācijas iniciatīvu, piedalās bibliotekārās darbības pamatvirzienu īstenošanā valstī, sniedz konsultatīvo palīdzību tautas bibliotēkām, ka arī bibliotēkām, kuram nav savu metodisko centru Latvijas Nacionālā bibliotēka veic zinātniskās pētniecības darbu bibliotēkzinātnē, bibliogrāfijā un grāmatzinātnē.
