@@ -1,0 +1,1 @@
+2.pants. Likums nosaka kārtību, kādā tiek veikti norēķini starp nepārstrādātās lauksaimniecības produkcijas (turpmāk - produkcija) ražotājiem (piegādātājiem) un pārstrādes un tirdzniecības uzņēmumiem vai uzņēmējsabiedrībām (turpmāk - uzņēmums), ja šo kārtību nenosaka citi speciālie likumi vai noslēgtie līgumi.

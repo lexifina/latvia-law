@@ -1,0 +1,1 @@
+5.pants. Zemkopības ministrijas rajonu lauksaimniecības departamenti apkopo informāciju par piegādāto un termiņā nesamaksāto produkciju un produkcijas ražotāju (piegādātāju) pilnvarojumā ir tiesīgi iesniegt attiecīgu prasību tiesā.
