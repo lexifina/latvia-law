@@ -1,0 +1,1 @@
+1.pants. 1991.gada 25.februāra Espo Konvencija par ietekmes uz vidi novērtējumu pārrobežu kontekstā (turpmāk - Konvencija) un tās I, II, III, IV, V, VI un VII pielikums (turpmāk - Pielikumi) ar šo likumu tiek pieņemti un apstiprināti.
