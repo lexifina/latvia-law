@@ -3,10 +3,10 @@
 (3) Pārtikai, kas paredzēta atsevišķām patērētāju grupām, Ministru kabinets var noteikt īpašas prasības.
 (4) Atsevišķām pārtikas produktu grupām Ministru kabinets nosaka kvalitātes un klasifikācijas prasības un kārtību, kādā novērtējama attiecīgo produktu atbilstība šīm prasībām.
 (5) Ja ražotās pārtikas piesārņojuma līmenis ir zemāks par Eiropas Savienības valstīs pieļaujamo, obligātajās nekaitīguma prasībās nosakāms zemākais piesārņojuma līmenis.
-(6) Prasības attiecībā uz mājas apstākļos ražotas pārtikas ražošanu un izplatīšanu nosaka Ministru kabinets.
-(7) Pārtikas apritei nepieciešamos pavaddokumentus nosaka Ministru kabinets.
+(6) Prasības pārtikas ražošanai, pārstrādei vai apstrādei ražotāja dzīvesvietā (mājas apstākļos ražota pārtika) un tās izplatīšanai vietējā tirgū vai tiešā tirdzniecībā, kā arī higiēnas prasības pārtikas ražošanai, pārstrādei vai apstrādei nosaka Ministru kabinets.
+(7) (Izslēgta ar 21.10.2004. likumu.)
 (8) Pārtiku, kura satur ģenētiski modificētus organismus vai ir ražota no tiem, Latvijā drīkst izplatīt tikai pēc attiecīgas atļaujas saņemšanas normatīvajos aktos noteiktajā kārtībā.
-(9) Pārtikai, kura satur ģenētiski modificētus organismus vai ir ražota no tiem, marķējumā Ministru kabineta noteiktajā kārtībā un gadījumos norāda informāciju par tās ģenētiski modificētajām sastāvdaļām vai to, ka šī pārtika ražota no ģenētiski modificētiem organismiem;
+(9) Pārtikai, kura satur ģenētiski modificētus organismus vai ir ražota no tiem, marķējumā Ministru kabineta noteiktajā kārtībā un gadījumos norāda informāciju par tās ģenētiski modificētajām sastāvdaļām vai to, ka šī pārtika ražota no ģenētiski modificētiem organismiem.
 (10) Ministru kabinets nosaka vispārīgās prasības diētiskās pārtikas nekaitīgumam un kvalitātei, kā arī kārtību, kādā novērtē diētiskās pārtikas atbilstību noteiktajām prasībām.
-(10¹) Ministru kabinets nosaka kārtību, kādā Latvijas Pārtikas centrs reģistrē uztura bagātinātājus un diētisko pārtiku, izvērtē un reģistrē ģenētiski modificētu organismu ierobežotas izmantošanas un izplatīšanas vidē un tirgū nosacījumus un kārtību un mātes piena aizstājēju reklāmas atbilstību normatīvajos aktos noteiktajām prasībām, kā arī izveido un uztur attiecīgās datu bāzes.
+(10¹) Ministru kabinets nosaka kārtību, kādā Latvijas Pārtikas centrs reģistrē uztura bagātinātājus un diētisko pārtiku, izveido un uztur attiecīgos reģistrus un datu bāzes, izsniedz atļaujas ģenētiski modificēto organismu ierobežotai izmantošanai un izplatīšanai tirgū un dabīgā minerālūdens izplatīšanai, kā arī izvērtē mātes piena aizstājēju reklāmas atbilstību normatīvajos aktos noteiktajām prasībām.
 (11) Ātrās reaģēšanas sistēmas darbību, kas ir pārtikas apritē iesaistīto personu un kompetento institūciju saskaņota un organizēta informācijas apmaiņa un rīcība, gadījumos, kad pastāv tiešs vai netiešs pārtikas radīts risks cilvēku veselībai un dzīvībai, nosaka Ministru kabinets.

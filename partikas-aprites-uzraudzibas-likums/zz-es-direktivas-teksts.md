@@ -1,1 +1,1 @@
-Likumā iekļautas tiesību normas, kas izriet no Padomes 1989.gada 14.jūnija Direktīvas 89/397/EEK par pārtikas produktu oficiālo kontroli.
+Likumā iekļautas tiesību normas, kas izriet no Padomes 1989.gada 14.jūnija direktīvas 89/397/EEK par pārtikas produktu oficiālo kontroli, un Eiropas Parlamenta un Padomes 2000.gada 20.marta direktīvas 2000/13/EK par dalībvalstu likumu tuvināšanu attiecībā uz pārtikas produktu etiķetēm, pasniegšanas veidu un reklāmu.

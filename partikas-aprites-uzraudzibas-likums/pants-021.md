@@ -20,7 +20,7 @@ b) veikt intervences noliktavu uzraudzību atbilstoši normatīvo aktu prasībā
 10) noteikt riska vadības pagaidu pasākumus bīstamības samazināšanai līdz riska novērtēšanai un riska vadības izstrādāšanai, ja ir konstatēts iespējamais apdraudējums cilvēku vai dzīvnieku veselībai un nav veikta riska analīze;
 11) veikt citas normatīvajos aktos noteiktās funkcijas;
 12) iesaistoties Eiropas Savienības ātrās izziņošanas sistēmā, veikt riska faktoru izpēti un panākt riska samazināšanu, novēršot obligātajām nekaitīguma prasībām neatbilstošas pārtikas importu Latvijā;
-13) uzraudzīt un kontrolēt Eiropas Savienības tiesību aktos noteiktās prasības pārtikas aprites jomā, kā arī sniegt nepieciešamo informāciju Eiropas Savienības institūcijām.
+13) uzraudzīt un kontrolēt Eiropas Savienības tiesību aktos noteikto prasību ievērošanu pārtikas aprites jomā, kā arī sniegt nepieciešamo informāciju Eiropas Savienības institūcijām.
 (3) Pārtikas aprites valsts uzraudzību un kontroli Pārtikas un veterinārais dienests veic saskaņā ar Pārtikas padomē izvērtētajām un zemkopības ministra apstiprinātajām uzraudzības programmām, ievērojot likumā par valsts budžetu kārtējam gadam piešķirto apropriāciju.
 (4) Prasības pārtikas ievešanai valstī, izvešanai no tās un tranzīta pārvadājumiem, kontroles kārtību valsts robežas kontroles punktos, kā arī brīvajās zonās, brīvajās noliktavās un muitas noliktavās un kontrolei pakļauto preču sarakstu nosaka Ministru kabinets. Šajā sarakstā neiekļauto preču imports nav atļauts.
 (5) Prasības iekārtojumam kontroles punktos, kuros veic pārtikas sanitāro robežkontroli, un kontroles punktu atzīšanas kārtību nosaka Ministru kabinets.

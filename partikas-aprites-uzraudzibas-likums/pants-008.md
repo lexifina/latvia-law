@@ -2,8 +2,8 @@
 (2) Pārtikas apritei jānotiek atbilstoši Ministru kabineta noteiktajām pārtikas higiēnas prasībām.
 (3) Pārtikas apritē iesaistītajām personām jāievēro normatīvajos aktos noteiktās personāla higiēnas prasības.
 (4) Pārtikas uzņēmuma pienākums ir nodrošināt pārtikas izsekojamību (iespēju visos pārtikas aprites posmos izsekot un atrast jebkuru pārtiku vai vielu, ko paredzēts vai ko varētu pievienot pārtikai) un reģistrēt pārtikas piegādātājus, pārtiku, pārtikas izejvielas un citas vielas, ko paredzēts tajā iekļaut, kā arī uzņēmumus (uzņēmējsabiedrības), kuriem uzņēmums piegādājis pārtiku. Reģistrētā informācija pēc pieprasījuma iesniedzama Pārtikas un veterinārajam dienestam.
-(5) Pārtikas uzņēmuma vadītājs ir atbildīgs par savā uzņēmumā pārtikas apritē nodarbināto fizisko personu profesionālo kvalifikāciju. Šīm personām izvirzāmās prasības reglamentē Ministru kabineta noteikumi.
+(5) Pārtikas uzņēmuma vadītājs ir atbildīgs par savā uzņēmumā pārtikas apritē nodarbināto personu profesionālo kvalifikāciju. Šīm personām izvirzāmās prasības un profesionālās kvalifikācijas iegūšanas kārtību un uzraudzību reglamentē Ministru kabineta noteikumi.
 (6) (Izslēgta ar 06.11.2003. likumu.)
 (7) Pārtikas uzņēmumiem ir jāievēro dokumentēts pasākumu komplekss, kas nodrošina higiēnas un ražošanas atbilstību ražotāja noteiktajām kvalitātes prasībām.
-(8) Pārtikas uzņēmums sniedz nepieciešamo atbalstu un nodrošina, lai Pārtikas un veterinārais dienests varētu veikt kontroli.
-(9) Pārtikas uzņēmumam ir tiesības pieprasīt Pārtikas un veterinārā dienesta inspektoram paņemt paralēlo paraugu šā likuma 23.panta 2. un 4.punktā minētajiem objektiem, lai varētu veikt šī parauga neatkarīgu testēšanu.
+(8) Pārtikas uzņēmums sniedz nepieciešamo atbalstu un nodrošina, lai Pārtikas un veterinārais dienests varētu veikt tā kontroli normatīvajos aktos noteiktajā kārtībā.
+(9) Pārtikas uzņēmumam ir tiesības pieprasīt, lai Pārtikas un veterinārā dienesta inspektors paņem paralēlu paraugu šā likuma 23.panta 2. un 4.punktā minētajiem objektiem šā parauga neatkarīgas testēšanas veikšanai.

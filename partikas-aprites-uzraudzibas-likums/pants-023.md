@@ -4,5 +4,5 @@
 3) pārtikas produktu apstrādes metodes;
 4) tīrīšanas un dezinfekcijas līdzekļi;
 5) tīrīšanas un dezinfekcijas procesi;
-6) pārtikas uzņēmuma pārtikas nekaitīguma un kvalitātes nodrošināšanas sistēmas;
+6) pārtikas uzņēmumu pārtikas nekaitīguma un kvalitātes nodrošināšanas sistēmas;
 7) pārtikas produktu marķēšana un ar marķējumu saistītā reklamēšana.

@@ -15,4 +15,10 @@
 14) diētiskā pārtika - pārtika, kas sakarā ar specifisko sastāvu vai īpašo ražošanas procesu ir skaidri atšķirama no cita veida pārtikas un paredzēta noteiktai lietošanai personām, kurām traucēts gremošanas vai vielmaiņas process, vai personām, kurām, atrodoties īpašā fizioloģiskā stāvoklī, kontrolēti jālieto atsevišķas uzturvielas;
 15) trešās valstis - valstis, kas nav Eiropas Savienības dalībvalstis un Eiropas Ekonomikas zonas valstis;
 16) primārā ražošana - primāro produktu audzēšana vai ražošana, ražas novākšana, dzīvnieku audzēšana pirms nokaušanas, slaukšana, medības, zveja un savvaļas produktu vākšana;
-17) augu valsts izcelsmes produktu pirmapstrāde - produktu sagatavošana līdz realizācijai (transportēšana līdz pirmapstrādes vietai, tīrīšana, kaltēšana, šķirošana, fasēšana, uzglabāšana, transportēšana līdz realizācijai), nemainot produktu fizisko struktūru.
+17) augu valsts izcelsmes produktu pirmapstrāde - produktu sagatavošana līdz realizācijai (transportēšana līdz pirmapstrādes vietai, tīrīšana, kaltēšana, šķirošana, fasēšana, uzglabāšana, transportēšana līdz realizācijas vietai), nemainot produktu fizisko struktūru;
+18) pārtikas preču marķējums - informācija (vārds, teksts, norāde, preču zīme, firmas zīme, attēls vai simbols), kas attiecas uz pārtikas preci un ir norādīta uz iepakojuma, pavaddokumentos, uz etiķetes vai uzlīmes, vai aptveres;
+19) vietējais tirgus - Latvijā ražotu produktu pārdošana patērēšanai Latvijā;
+20) tiešā tirdzniecība - savu ražojumu pārdošana:
+a) tieši patērētājam bez tirgotāja starpniecības, arī uzņēmumiem izmantošanai sabiedriskajā ēdināšanā,
+b) fasētu un marķētu produktu pārdošana, ja produkta pamatražošanas ciklu, ieskaitot fasēšanu un marķēšanu, veicis viens ražotājs;
+21) pārtikas ražošana mājas apstākļos - izplatīšanai vietējā tirgū un tiešajā tirdzniecībā paredzētu pārtikas produktu ražošana, pārstrāde, apstrāde telpās vai teritorijā, kas tiek izmantota arī ražotāja un viņa ģimenes sadzīves vajadzībām.
