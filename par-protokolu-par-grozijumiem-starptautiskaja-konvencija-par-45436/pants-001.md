@@ -1,0 +1,1 @@
+1.pants. 1992.gada 27.novembrī Londonā parakstītais Protokols par grozījumiem 1969.gada Starptautiskajā konvencijā par civilo atbildību par naftas piesārņojuma radītajiem zaudējumiem (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
