@@ -1,5 +1,5 @@
 15.pants. Izglītības un zinātnes ministrijas kompetence izglītībā
-(1) Izglītības un zinātnes ministrija:
+Izglītības un zinātnes ministrija:
 1) īsteno vienotu valsts politiku un attīstības stratēģiju izglītībā;
 2) izstrādā normatīvo aktu projektus izglītībā;
 3) izveido un aktualizē izglītības iestāžu, izglītības programmu un pedagogu reģistrus;
@@ -18,8 +18,8 @@
 16) nosaka valsts pārbaudījumu kārtību akreditētām izglītības programmām;
 17) organizē izglītības standartiem atbilstošu mācību grāmatu satura izstrādi;
 18) kontrolē valsts finansēto izglītības iestāžu mācību procesa rezultātus, izstrādā un īsteno pasākumus mācību procesa kvalitātes uzlabošanai;
-19) dibina, uztur un pārrauga izglītības atbalsta valsts iestādes;
-20) īsteno valsts politiku izglītībā;
+19) uztur un pārrauga izglītības atbalsta valsts iestādes;
+20) (izslēgts ar 07.01.2000. MK noteikumiem Nr.11);
 21) apstiprina valsts izglītības standartu prasībām atbilstošus izglītības programmu paraugus;
 22) apstiprina izglītības iestāžu, izglītības programmu un pedagogu reģistru klasifikāciju;
 23) iesniedz Ministru kabinetam priekšlikumus par valsts izglītības iestāžu un izglītības atbalsta iestāžu dibināšanu, reorganizēšanu vai likvidēšanu, saskaņojot ar attiecīgajām pašvaldībām;
