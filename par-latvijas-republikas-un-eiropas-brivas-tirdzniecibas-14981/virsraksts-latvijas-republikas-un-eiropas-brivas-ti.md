@@ -1,0 +1,1 @@
+Latvijas Republikas un Eiropas brīvās tirdzniecības asociācijas valstu līguma Apvienotās komitejas lēmums Nr. 3/1999 "Par izmaiņām Latvijas Republikas un Eiropas brīvās tirdzniecības asociācijas valstu līguma B protokolā"
