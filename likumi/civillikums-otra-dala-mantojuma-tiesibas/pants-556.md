@@ -1,0 +1,1 @@
+556. Ja testātors izvēles tiesību piešķīris legāta izpildītājam, tad viņam nav tiesības izdot sliktāko lietu, un ja viņš neizdara savu izvēli pēc legātāra lūguma tiesas noteiktā laikā, tad izvēles tiesība pāriet uz legātāru.

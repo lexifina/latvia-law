@@ -1,0 +1,1 @@
+387. Mantot spēj arī tādas juridiskas personas, kuru nodibināšanu mantojuma atstājējs paredz savā rīkojumā nāves gadījumam, ieceļot tās par mantiniecēm un novēlot tām mantu. Jaundibināmā juridiskā persona iegūst juridisko personību ar tās apstiprināšanu vai reģistrāciju uz vispārēja pamata, bet skaitās par mantinieci jau no mantojuma atklāšanās dienas.

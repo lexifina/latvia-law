@@ -1,0 +1,1 @@
+508. Ja vārdā nosauktie legāta izpildītāji vēlāk atkrīt, tad šis pienākums pāriet uz tiem, kas iestājas viņu vietā, lai tie būtu vai nu viņu līdzmantinieki vai substitūti, pieņemot tomēr, ka legātu spēj izpildīt katrs un ka tā tad testātors nav ņēmis vērā tā personiskās īpašības, kam viņš uzlicis to izpildīt.

@@ -1,0 +1,1 @@
+737. Kustama vai nekustama manta pirms dalīšanas jānovērtē. Dalāma nekustama īpašuma īstās vērtības noteikšanai mantinieki var pārdot to izsolē un paši piedalīties solīšanā; izpirkuma tiesību mantinieki vai viens no tiem var izlietot šajā gadījumā tikai tad, ja to noteikti pieteic pirms izsoles.

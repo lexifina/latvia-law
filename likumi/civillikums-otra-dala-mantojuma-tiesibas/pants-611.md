@@ -1,0 +1,1 @@
+611. Izšķirot jautājumu par to, kas atzīstami par katra testātora tuvākiem radniekiem, uz kuriem jāpāriet mantai pēc pēdējā pārdzīvojušā nāves, pieņemams par pamatu, ja testamentā par to nekas nav noteikts, šā pēdējā pārdzīvojušā nāves brīdis.

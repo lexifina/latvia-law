@@ -1,0 +1,1 @@
+621. Testaments tā izpildītājam ir instrukcija, no kuras viņš nekādā ziņā nedrīkst atkāpties; bet ja apstākļi nepieciešami to prasa, tad papriekš jānoklausās ieinteresētās personas un, kad starp tām un testamenta izpildītāju izrādās domstarpības, lieta jāizšķir, pēc apstākļiem, bāriņtiesai.

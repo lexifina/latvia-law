@@ -1,0 +1,1 @@
+691. Gribu pieņemt mantojumu var izsacīt vai nu noteikti, mutiski vai rakstiski, vai arī klusējot, ar tādu darbību, kuru attiecīgos apstākļos var iztulkot vienīgi tā, ka zināma persona atzīst sevi par mantinieku.

@@ -1,0 +1,1 @@
+700. Mantojuma pieņemšana ir spēkā tikai tad, ja tā pieņēmējam bijis zināms, ka viņš aicināts mantot un uz kāda pamata, vai pēc likuma, vai testamenta, vai līguma, un vai viņš iecelts par mantinieku ar zināmiem nosacījumiem vai bez tiem.

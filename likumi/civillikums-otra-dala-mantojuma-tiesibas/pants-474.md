@@ -1,0 +1,1 @@
+474. Ja testamentā iecelts viens vai vairāki mantinieki ar noteiktām daļām un bez tam vēl viens vai vairāki bez noteiktām daļām, tad pēdējie dabū visu to, kas paliek pēc pirmo apmierināšanas; ja viņu ir vairāki, tad viņi šo atlikumu dala savā starpā līdzīgās daļās.

@@ -1,0 +1,2 @@
+Trīspadsmitā apakšnodaļa
+Pēdējās gribas rīkojumu izpildīšana

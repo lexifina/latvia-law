@@ -1,0 +1,1 @@
+810. Katrs legāta pārgrozījums pats par sevi ir agrākā legāta atcēlums un jauna nodibinājums; tādēļ, legātu pārgrozot, jāievēro viss tas, kas vispār jāievēro legātu nodibinot; citādi jāatzīst, ka pārgrozījums gan atceļ agrāko, bet nenodibina jaunu legātu.

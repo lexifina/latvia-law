@@ -1,0 +1,1 @@
+408. Mantojot no augšupējā, attālākie lejupējie iestājas sava pirms mantojuma atstājēja mirušā vecāka vietā, bez aprobežojuma pakāpju tuvuma ziņā, ar pārstāvības tiesību. Pēc pārstāvības tiesības lejupējie dabū to mantojuma daļu, kādu būtu dabūjis viņu vecākais, ja tas būtu mantojuma atstājēju pārdzīvojis un no viņa mantojis.

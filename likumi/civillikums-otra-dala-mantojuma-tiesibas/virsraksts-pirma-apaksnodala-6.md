@@ -1,0 +1,2 @@
+Pirmā apakšnodaļa
+Līdzmantinieku savstarpējās attiecības

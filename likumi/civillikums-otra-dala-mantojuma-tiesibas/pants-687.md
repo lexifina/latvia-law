@@ -1,0 +1,1 @@
+687. Lai iegūtu mantojumu, kā likumiskiem, tā arī testamentāriem un līgumiskiem mantiniekiem jāpiedzīvo tā atklāšanās (655. p.) un reizē ar to aicinājums mantot (389. p. 1. d.), bet ar zināmu nosacījumu ieceltam mantiniekam jāpiedzīvo šā nosacījuma iestāšanās.

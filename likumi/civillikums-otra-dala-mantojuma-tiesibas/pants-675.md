@@ -1,0 +1,1 @@
+675. Ja labticīgs valdītājs pirms prasības celšanas atsavinājis kādu mantojuma priekšmetu, tad viņam jāatdod mantiniekam tiklab par to patiesi saņemtā maksa, kā arī no pēdējās iegūtie procenti, ciktāl viņš šo maksu vai procentus nav iztērējis. Turpretim ļaunticīgam valdītājam vai nu jāatdod pati atsavinātā lieta vai jāatlīdzina visi prasītājam nodarītie zaudējumi.

@@ -1,0 +1,1 @@
+653. Mantojuma līgumā nodibinātie legāti līgumiskam mantiniekam jāizpilda tāpat kā testamentāram mantiniekam, un vispār legātārs atrodas vienādās attiecībās ar līgumiskiem un testamentāriem mantiniekiem.

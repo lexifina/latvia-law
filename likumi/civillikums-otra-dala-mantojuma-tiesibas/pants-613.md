@@ -1,0 +1,1 @@
+613. Notāra vai konsula aktu grāmatā vai pagasttiesas testamentu grāmatā ierakstīts testaments vai 439. panta kārtībā sastādīts akts par testamenta pieņemšanu glabāt uzskatāms par pēdējās gribas esamības un īstuma pilnīgāko pierādījumu.

@@ -1,0 +1,1 @@
+751. Iepriekšējā (750.) pantā paredzētā atsavināšanas gadījumā līdzmantiniekiem, kas nav dabūjuši savu daļu dabā, pieder pirmpirkuma vai izpirkuma tiesība (1073. p.). Ja izlietot pirmpirkuma vai izpirkuma tiesību pieteicas vairāki līdzmantinieki, tad viņi minēto saimniecību iegūst visi par kopīpašumu līdzīgās daļās.

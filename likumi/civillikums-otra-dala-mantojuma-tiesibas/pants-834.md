@@ -1,0 +1,1 @@
+834. Mantojot pēc likuma, atbrīvojusies mantojuma daļa piekrīt tiem līdzmantiniekiem, kas būtu to dabūjuši, ja atkritušā mantinieka nemaz nebūtu bijis, un šo daļu viņi sadala samērā ar savām mantojuma daļām.

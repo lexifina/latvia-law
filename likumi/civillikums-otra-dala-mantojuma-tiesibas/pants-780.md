@@ -1,0 +1,1 @@
+780. Ja tuvākais likumiskais mantinieks iecelts bez viņa ziņas par mantinieku testamentā, tad ar mantojuma atraidījumu, neatkarīgi no tam, kādos izteicienos tas izteikts, viņš nezaudē tiesību mantot pēc testamenta. Bet ja viņš, atraidot mantojumu vispārīgos izteicienos, zinājis, ka viņš iecelts par mantinieku testamentā, tad viņš vairs nevar mantot arī pēc likuma.

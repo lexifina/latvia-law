@@ -1,0 +1,1 @@
+VI. Atsevišķie legātu veidi

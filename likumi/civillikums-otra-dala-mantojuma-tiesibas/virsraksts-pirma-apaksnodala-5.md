@@ -1,0 +1,2 @@
+Pirmā apakšnodaļa
+Mantojuma pieņemšana

@@ -1,0 +1,1 @@
+558. Ja izvēle izdarīta, tad visu risku par izvēlēto lietu nes legātārs. Bet ja viena vai otra no vienādas šķiras lietām vēl pirms izvēles iet bojā bez mantinieka vainas, tad legātārs izvēlas no pārējām vai saņem pēdējo palikušo lietu.

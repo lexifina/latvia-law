@@ -1,0 +1,1 @@
+529. Legāti vispārnoderīgiem un labdarīgiem mērķiem to izpildītājam jāizpilda tūliņ pēc tam, kad testaments nācis likumīgā spēkā un viņš pieņēmis mantojumu; pretējā gadījumā viņam jāatbild par visām nokavējuma sekām.

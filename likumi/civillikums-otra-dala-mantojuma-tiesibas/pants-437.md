@@ -1,0 +1,2 @@
+437. Izrakstam, kas izdots testātoram, ir tāds pats spēks kā testamenta oriģinālam. Izceļoties strīdam par nesaskaņu starp šiem diviem dokumentiem, priekšroka dodama oriģinālam, ja tajā neizrādās apstrīdamos pantos izdzēsumi vai pārlabojumi, uz kuriem nav attiecīgā kārtā aizrādīts.
+Otro un turpmākos izrakstus no publiska testamenta, testātoram dzīvam esot, var izdot tikai viņam pašam vai viņa pilnvarniekam, kas pilnvarots ar sevišķu pilnvaru.

@@ -1,0 +1,1 @@
+791. Ja likumiskais mantinieks, kam bijis iespējams testamentu apstrīdēt, reiz jau šo testamentu atzinis, vai nu noteikti, vai klusējot, t. i. izpildot tā atsevišķas daļas vai arī nepieteicot savas prasības uzaicinājuma laikā, tad viņam šis testaments pilnīgi jāizpilda un nav vairs tiesības vēlāk to apstrīdēt.

@@ -1,0 +1,1 @@
+788. Ja kāds neatraidāms mantinieks testamentā palicis neievērots vai bez likumiska iemesla atstumts no mantojuma, viņam ir tiesība prasīt, lai nodala viņa neatņemamo daļu, vai arī, ja viņam novēlēts mazāk par šo daļu, lai to papildina. Citādā ziņā testaments patur savu spēku.

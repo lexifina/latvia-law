@@ -1,0 +1,1 @@
+745. Uz atdalāmiem tirdzniecības un rūpniecības uzņēmumiem ir priekšroka tam mantiniekam, kas vēlas un spēj šādu uzņēmumu vadīt, vai tam, kam priekšroku dod visi mantinieki, kuri nesaņem savas daļas dabā.

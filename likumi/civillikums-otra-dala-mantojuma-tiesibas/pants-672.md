@@ -1,0 +1,1 @@
+672. Ar mantojuma prasību var prasīt arī tādus priekšmetus, kas gan nav piederējuši pie mantojuma atstājēja mantas, bet par kuriem viņš atbildējis un tā tad tagad par tiem jāatbild mantiniekam, kā piemēram, mantojuma atstājējam ieķīlātas vai glabājumā nodotas lietas u. t. l.

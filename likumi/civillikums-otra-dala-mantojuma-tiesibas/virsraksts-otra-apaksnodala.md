@@ -1,0 +1,2 @@
+Otrā apakšnodaļa
+Laulāto mantošana

@@ -1,0 +1,2 @@
+409. Pārstāvības tiesība pieder arī pirms mantojuma atstājēja mirušo īsto brāļu un māsu, kā arī pusbrāļu un pusmāsu bērniem. Viņu bērnu bērniem pārstāvības tiesības nav.
+Pārstāvības tiesība izriet nevis no mantinieka tiesības uz vecāka atstāto mantojumu, bet gan no paša mantinieka, kā lejupējā, patstāvīgas mantojuma tiesības. Mantiniekam, kas nepieņem sava vecāka atstāto mantojumu, nav jāatbild par šā vecāka parādiem ar to mantu, ko viņš manto no mantojuma atstājēja pēc pārstāvības tiesības (408. p.).

@@ -1,0 +1,1 @@
+543. Ja legāta pareiza izpildīšana tā izpildītājam ir netaisni apgrūtināta vai ja viņam ar labāko gribu nav iespējams izdot novēlēto lietu dabā, tad viņam jāsamaksā šās lietas vērtība. Bet ja izpildīšana kļuvusi pilnīgi neiespējama, viņš atbild tikai tad, ja viņš pielaidis nokavējumu vai neuzmanību (527. un 547. p. 3. d.).

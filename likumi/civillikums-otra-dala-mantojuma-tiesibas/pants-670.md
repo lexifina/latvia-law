@@ -1,0 +1,1 @@
+670. Mantojuma prasības mērķis ir atzīt prasītāju vai nu par vienīgo mantinieku, vai par līdzmantinieku, un saskaņā ar to izdot viņam ar visiem pieaugumiem vai nu visu atstāto mantojumu, vai viņam pienākošos daļu, vai arī tos mantojuma priekšmetus, kas atrodas atbildētāja valdījumā.

@@ -1,0 +1,1 @@
+624. Testamenta izpildītājam jāprasa, lai mantinieki izteicas, vai viņi mantojumu pieņem. Ja viņi mantojumu pieņēmuši, viņš nodod to viņu valdījumā, un var prasīt vai aizturēt no tā tikai tos priekšmetus un summas, kas vajadzīgi legātāru apmierināšanai un citu testātora sevišķu rīkojumu izpildīšanai.

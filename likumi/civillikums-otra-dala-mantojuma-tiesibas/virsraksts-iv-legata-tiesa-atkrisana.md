@@ -1,0 +1,1 @@
+IV. Legāta tieša atkrišana

@@ -1,0 +1,2 @@
+Ceturtā apakšnodaļa
+Bezmantinieku manta

@@ -1,0 +1,1 @@
+494. Mantojuma atstājējs var novēlēt visu savu mantu, vai tās daļu, vai atsevišķus priekšmetus vispārnoderīgiem un labdarīgiem mērķiem. Šādai mantai par mantinieku vai legātāru var būt arī mantojuma atstājēja paredzēta jaundibināma juridiska persona.

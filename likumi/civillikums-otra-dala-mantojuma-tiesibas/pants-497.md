@@ -1,0 +1,1 @@
+497. Ja nav tieša mantinieka, tad testātora izraudzītais testamenta izpildītājs vai bāriņtiesas ieceltais aizgādnis (496 p.) ņem novēlēto mantu savā tiešā pārvaldībā un sper vajadzīgos soļus juridiskās personas (494. p.) nodibināšanai.

@@ -1,0 +1,2 @@
+Desmitā apakšnodaļa
+Legāti

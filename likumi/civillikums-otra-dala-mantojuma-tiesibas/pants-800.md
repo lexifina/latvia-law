@@ -1,0 +1,2 @@
+800. Noteikti atsauc testamentu ar skaidru un neapšaubāmu izteikumu, kuru var izsacīt notāriālā vai pagasttiesas aktu reģistra grāmatā ierakstītā aktā, vai arī ārzemēs konsulārā atcēluma aktā, kā arī mājas kārtībā sastādītā rakstiskā aktā ar divu liecinieku parakstiem.
+460.pantā paredzētos apstākļos testamentu var atsaukt arī mutiski tādā pašā kārtībā, kāda noteikta testamenta taisīšanai. Karavīri kara gaitās testamentu var atsaukt bez tam arī ar rakstisku paziņojumu savai priekšniecībai.

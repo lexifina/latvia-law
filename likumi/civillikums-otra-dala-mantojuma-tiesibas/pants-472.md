@@ -1,0 +1,1 @@
+472. Ja testamentā iecelti vairāki mantinieki un katram noteikta zināma daļa, pie kam šīs daļas visas kopā līdzinās visam mantojumam, tad personas, kuras testātors būtu iecēlis par mantiniekiem, neminot viņu daļas vai noteicot viņām atlikumu, nedabū neko.

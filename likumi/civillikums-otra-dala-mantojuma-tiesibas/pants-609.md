@@ -1,0 +1,1 @@
+609. Kad miris viens no korrespektīva testamenta taisītājiem, pārdzīvojušam ir tiesība pirms mantojuma pieņemšanas atteikties no testamentārās mantošanas; tādā gadījumā mantojums piekrīt mirušā likumiskiem mantiniekiem, līdz ar ko pārdzīvojušais dabū atpakaļ tiesību brīvi noteikt par savu mantu arī nāves gadījumam.

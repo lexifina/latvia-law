@@ -1,0 +1,1 @@
+575. Ja lietojuma vai dzīvokļa tiesības legāts aprobežots ar zināmiem gadiem vai ar kādiem citiem termiņiem, vai arī atvēlēts legātāram lietot šo tiesību tikai ik pārgadus, tad tiesība uz šādu legātu iestājas, tāpat kā uz termiņa devumiem (566. un 567. p.), nevis uz vienu reizi, bet ar katru jaunu termiņu.

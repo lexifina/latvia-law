@@ -1,0 +1,1 @@
+736. Testamenta vai mantojuma līguma aizliegums atsavināt kustamu vai nekustamu mantu nekavē dalīšanu iepriekšējā (735.) pantā norādītā kārtībā, bet, pārdodot mantu izsolē, tajā var piedalīties tikai paši mantinieki.

@@ -1,0 +1,1 @@
+618. Neviens nav saistīts uzņemties testamenta izpildītāja pienākumu, ko viņam uzticējis testātors; bet kas to jau uzņēmies, tam vairs nav tiesības no tā atteikties bez svarīga iemesla. Ja par testamenta izpildītāju ieceltais pieņēmis testātora piešķirto legātu, tad viņš vairs nevar atteikties arī no testamenta izpildītāja pienākuma.

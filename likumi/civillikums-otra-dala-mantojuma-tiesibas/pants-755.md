@@ -1,0 +1,1 @@
+755. Mājas kārtībā izdarītu dalījumu var apstrīdēt, kad tajā atklāta ļaunprātība, spaidi vai viltus, vai vienam līdzmantiniekam nodarīts zaudējums vairāk kā par pusi, vai arī notikusi maldība. Cietušam ir tiesība prasīt vai nu atlīdzību, vai jaunu dalījumu.

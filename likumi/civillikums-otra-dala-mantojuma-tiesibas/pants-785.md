@@ -1,0 +1,3 @@
+785. Testaments, kas palicis nepabeigts (458. p.) vai kurā visi rīkojumi ir pretlikumīgi vai nesaprotami, kā arī testaments ar noziedzīgu vai pretlikumīgu saturu, pats par sevi nav spēkā un tiesa to nenolasa.
+Atsevišķu rīkojumu pretlikumība neatņem spēku ne visam testamentam, ne tā pārējiem rīkojumiem; tādā gadījumā viss tas, kas testamentā ir pretlikumīgs, tiesai jāsaskaņo ar likumiem, vai, ja tas nav iespējams, no testamenta jāizmet.
+Šā panta iepriekšējo daļu noteikumi piemērojami arī tad, kad ar tiesas spriedumu pierādīti 824. panta 1. punktā minētie apstākļi, kas padara mantinieku par necienīgu mantot.

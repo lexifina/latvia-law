@@ -1,0 +1,1 @@
+489. Pirmmantinieks iegūst mantojumu tāpat kā katrs mantinieks. Viņš paliek par mantojuma īpašnieku ar pienākumu izdot to pēcmantiniekam. Šajās robežās viņš var celt prasības, atbildēt un saistīties par mantojumu ar līgumiem, kā arī maksāt mantojuma kreditoriem. Viņš saņem savā labā ienākumus no mantojuma.

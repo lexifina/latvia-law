@@ -1,0 +1,1 @@
+663. Aizgādņiem savas pārvaldības laikā jādod ikgadus par to norēķins bāriņtiesai, bet kad mantojumu nododot mantiniekiem vai aiz citiem iemesliem aizgādnība izbeidzas - jādod galīgs norēķins. Bez tam bāriņtiesa var uzlikt aizgādnim pienākumu dot jebkurā laikā norēķinu.

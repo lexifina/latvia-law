@@ -1,0 +1,2 @@
+605. Savstarpējs testaments atzīstams līdz ar to arī par korrespektīvu tikai tad, ja testātori noteikti izsacījuši savu nodomu tādu testamentu taisīt, vai ja tas skaidri redzams no lietas apstākļiem.
+Tāpat savstarpējs testaments atzīstams par korrespektīvu, ja tajā noteikts, kam piekrīt mantojums pēc tā nāves, kas pārdzīvojis visus citus līdzmantiniekus; šaubu gadījumā par korrespektīvu uzskatāms arī laulāto savstarpējs testaments.

@@ -1,0 +1,1 @@
+629. Kad testamenta izpildītājs nobeidzis viņam uzliktos pienākumus, viņam jādod mantiniekiem un citām ieinteresētām personām norēķins par savas pārziņas laiku, ciktāl mantojums atradies viņa pārvaldībā (619.-623. p.).

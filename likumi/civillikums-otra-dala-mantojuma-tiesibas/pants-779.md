@@ -1,0 +1,1 @@
+779. Ja kāds atteicas mantot pēc testamenta kādā patīgā nolūkā, tad viņš, pieņemot mantojumu pēc likuma, neatbrīvojas no testātora noteiktiem aprobežojumiem rīcībā ar mantojumu; bez tam viņam jāapmierina legātāri.

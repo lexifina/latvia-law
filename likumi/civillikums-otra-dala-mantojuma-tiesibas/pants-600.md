@@ -1,0 +1,1 @@
+600. Pēdējās gribas rīkojumus var aprobežot nevien ar nosacījumiem un termiņiem, bet arī citādi, un proti, ar uzlikumiem, lietošanas ierobežojumiem, kā arī uzliekot pienākumu atdot to, kas saņemts, citai personai, vai tā vietā izdarīt kādu darbību.

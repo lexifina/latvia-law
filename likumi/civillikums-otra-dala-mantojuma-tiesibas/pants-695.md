@@ -1,0 +1,1 @@
+695. Ja mantot aicinātais nomirst pirms viņa gribas izteikšanai noliktā termiņa (693. p.), neizteicies par mantojuma pieņemšanu, tad viņa mantiniekiem atvēlēti tie paši termiņi, lai viņi varētu izteikties tiklab par viņa atstāto, kā arī par viņam piekritušo, bet vēl nepieņemto mantojumu.

@@ -1,0 +1,1 @@
+837. Kad no vairākiem līgumiskiem mantiniekiem kāds atkrīt, tad viņa atbrīvojusies daļa piekrīt nevis viņa līdzmantiniekiem, bet gan mantojuma atstājēja likumiskiem mantiniekiem, ja vien līgumā nav tieši noteikts citādi.

@@ -1,0 +1,1 @@
+835. Ja daži no kopīgā mantojuma likumiskiem mantiniekiem manto pēc galvām, bet citi pēc ciltīm (411. p.), tad, atkrītot kādam no pirmajiem, viņa daļa sadalāma pēc cilšu skaita; bet ja atkrīt kāds no tiem, kuri manto pēc ciltīm, tad viņa daļa piekrīt, pēc pieauguma tiesības, tās pašas cilts piederīgiem, un tikai tad, ja tādu nav, pāriet uz pārējām ciltīm.

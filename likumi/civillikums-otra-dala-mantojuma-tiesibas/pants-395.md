@@ -1,0 +1,1 @@
+395. Ja pārdzīvojušais laulātais mantojumu pārvalda vai lieto nekārtīgi, tad bāriņtiesa, pēc pilngadīgo bērnu ierosinājuma vai arī pēc pašas ieskata, saņemot par to ziņas un tās pārbaudot, var atņemt laulātam tiesību pārvaldīt un lietot mantojumu, uzdodot šo pārvaldību sevišķi šim nolūkam ieceltam aizbildnim.

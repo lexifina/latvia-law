@@ -1,0 +1,1 @@
+658. Ja mirušā mantinieki, kā likumiskie, tā arī testamentārie vai līgumiskie, ir zināmi un pie tam ir pilngadīgi un ir sasniedzami, tad tiesa nesper nekādus apsardzības soļus, ja vien šie mantinieki vai kāds no tiem paši to noteikti nelūdz.

@@ -1,0 +1,1 @@
+534. Legātārs var celt personisku prasību pret mantinieku par viņam piešķirtā legāta izdošanu. Ja novēlētā lieta bijusi testātora īpašums, bet atrodas citas personas valdījumā, tad legātārs var celt pret katru valdītāju īpašuma prasību, ciktāl to būtu varējis celt pats testātors.

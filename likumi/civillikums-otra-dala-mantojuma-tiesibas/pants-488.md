@@ -1,0 +1,1 @@
+488. Ja tiesa no viņai iesniegta testamenta vai mantojuma līguma redz, ka mantojumam iecelts pēcmantinieks, viņa pati no sevis nodibina aizgādnību mantojuma saraksta sastādīšanai (665. p.). Ja šajā mantojumā ietilpst arī nekustams īpašums, tad pirmmantinieka pienākums izdot to pēcmantiniekam norādāms attiecīgā zemes grāmatu reģistrā, par ko jārūpējas aizgādnim.

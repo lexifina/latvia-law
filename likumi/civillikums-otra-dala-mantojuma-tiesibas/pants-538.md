@@ -1,0 +1,1 @@
+538. Ja novēlētas atsevišķas noteikti apzīmētas lietas, par to piederumu uzskatāms viss tas, ar ko palielinās pati lietas būtība; bet ja novēlēti prasījumi, pie to piederumiem skaitāmi visi blakus prasījumi, kādi pienākušies mantojuma atstājēja nāves brīdī uz tās saistības pamata, uz kuru prasījumi dibināti.

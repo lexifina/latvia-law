@@ -1,0 +1,2 @@
+754. Ja tās lietas, kas jādabū katram līdzmantiniekam kā sava daļa, noteicis mantojuma atstājējs pats, norādot arī šo lietu vērtību, tad uz šā pamata izdarītu dalījumu nekādā ziņā nevar apstrīdēt, izņemot tikai to gadījumu, kad ar to aizskarta kāda mantinieka neatņemamās daļas tiesība,
+Mantojuma dalījumu, kas izdarīts uz spēkā nākuša tiesas vai šķīrējtiesas sprieduma pamata, līdzmantinieki ne aiz kāda iemesla nevar apstrīdēt.

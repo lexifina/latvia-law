@@ -1,0 +1,2 @@
+709. Mantiniekam, kas grib izlietot inventāra tiesību, ne vēlāk par diviem mēnešiem no ziņu saņemšanas par mantojuma atklāšanos jāgriežas pie tiesas ar lūgumu uzdot sastādīt inventāru tiesu izpildītājam pēc Civilprocesa likumu noteikumiem, vai ārpus pilsētām - pagasttiesai.
+Ja mantojums ir plašs un sarežģīts un inventāra sastādīšanai vajadzīgs lielāks termiņš, tiesa pēc mantinieku lūguma var šo termiņu pagarināt, bet ne ilgāk par vienu gadu.

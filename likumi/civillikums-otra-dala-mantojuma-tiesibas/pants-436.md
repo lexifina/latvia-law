@@ -1,0 +1,1 @@
+436. Par publiska testamenta oriģinālu atzīstams testaments, kas ierakstīts notāra vai konsula aktu grāmatā, bet pagasttiesā - testamentu grāmatā. Pēc oriģināla parakstīšanas testātoram izdodams izraksts.

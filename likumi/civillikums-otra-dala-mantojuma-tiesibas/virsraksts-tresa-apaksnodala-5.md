@@ -1,0 +1,2 @@
+TREŠĀ APAKŠNODAĻA
+Legāta atcelšana

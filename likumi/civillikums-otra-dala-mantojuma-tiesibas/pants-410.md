@@ -1,0 +1,1 @@
+410. Ceturtā šķirā nav pārstāvības tiesības, kādēļ tuvākās pakāpes radnieki nepielaiž mantot attālākās, bet ja ir vairāki vienāda tuvuma radnieki, tad tie visi dala mantojumu savā starpā pēc galvām. Šajā šķirā arī neievēro ne vairākkārtēju radniecību (212. un 402. p.), ne izšķirību starp pilnīgu un nepilnīgu radniecību (213. p.).

@@ -1,0 +1,2 @@
+546. Ja par izpildījuma vietu testamentā nav nekādu tuvāku rīkojumu, tad noteikti apzīmētās, kā arī pie vienas kopības piederīgās lietas jāizdod tur, kur tās atrodas; bet ja izpildītājs ļaunā nolūkā tās aizgādā prom no turienes, kur tās bijušas mantojuma atstājējam mirstot, tad tās izdodamas tur, kur tās prasa legātārs.
+Atvietojamas lietas (844. p.) var prasīt un izdot visur, kur tas iespējams bez apgrūtinājuma un neērtībām otrai pusei, ja vien nav noteikts, ka tās jāņem no noteikta zemes gabala.

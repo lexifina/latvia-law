@@ -1,0 +1,9 @@
+394. Ja mantojums ir tik mazs, ka to sadalot nav iespējams uzturēt nepilngadīgos bērnus, tad pārdzīvojušam laulātam ir tiesība pārvaldīt un lietot visu nedalīto mantojumu, bet laulātam no visa mantojuma ienākumiem jāsedz vispirms bērnu uztura (179. p.) izdevumi.
+Pārdzīvojušā laulātā tiesība pārvaldīt un lietot nedalītu mantojumu izbeidzas:
+1) ar visu bērnu pilngadību;
+2) ar laulātā atteikšanos no šās tiesības;
+3) ar mantojuma labprātīgu sadalīšanu;
+4) par atsevišķā bērna daļu - ar viņa nodalīšanu no mantojuma pēc vienošanās vai laulātā vienpusējās vēlēšanās;
+5) pēc pilngadīga bērna pieprasījuma - aiz svarīgiem iemesliem.
+Ar pārdzīvojušā laulātā iedošanos jaunā laulībā, iepriekš nepaziņojot par to bāriņtiesai, izbeidzas viņa pārvaldības tiesība (202. un 226. p.).
+Piezīme. Šā panta 3.-5. punktā minētos gadījumos vajadzīga bāriņtiesas atļauja.

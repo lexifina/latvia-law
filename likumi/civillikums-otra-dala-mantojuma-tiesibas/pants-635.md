@@ -1,0 +1,1 @@
+635. Šaubu gadījumā priekšroka dodama tam iztulkojumam, kas izdevīgāks testatora lejupējiem, bet pēc tā tam, kas izdevīgāks mantiniekam un legātāram. Ja saduras legātāra un legāta izpildītāja intereses, tad legātāram dodama priekšroka pret legāta izpildītāju.

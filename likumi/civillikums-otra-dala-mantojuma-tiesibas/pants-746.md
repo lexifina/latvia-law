@@ -1,0 +1,1 @@
+746. Kad iepriekšējie (741.-745.) panti nedod pietiekošu norādījumu, kam piešķirama daļa dabā vai dodama mājas vieta, dalīšanas kārtību, ja mantinieki paši nevienojas citādi, nosaka tiesa pēc sava ieskata.

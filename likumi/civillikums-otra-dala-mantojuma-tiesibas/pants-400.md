@@ -1,0 +1,1 @@
+400. Bērni, kas cēlušies no vecākiem, kuri nav savstarpējā laulībā, ja izcelšanās no tēva un mātes ir noteikta likumā paredzētajā kārtībā, manto tāpat kā laulībā dzimušie bērni. No šādiem bērniem manto kā māte un tās radinieki, tā tēvs un tā radinieki.

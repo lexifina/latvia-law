@@ -1,0 +1,1 @@
+429. Lejupējie var atstumt savus augšupējos no viņu neatņemamās mantojuma daļas, bez 428. pantā norādītiem iemesliem, arī tajā gadījumā, ja vecāki vai viņu vietā stājušies vectēvs vai vecmāmuļa nemaz nav gādājuši par testātora audzināšanu.

@@ -1,0 +1,1 @@
+683. Izdevumi augļu iegūšanai un uzglabāšanai prasītājam jāatlīdzina tikai tādā mērā, ciktāl tie attiecas uz pašiem atdodamiem vai atlīdzināmiem augļiem; bet labticīgam valdītājam jādabū no viņa arī to izdevumu atlīdzība, kuri veltīgi taisīti augļu iegūšanai un uzglabāšanai.

@@ -1,0 +1,1 @@
+802. Kad testators pats vai viņa uzdevumā kāda trešā persona tīši iznīcina visu testamentu, to ieplēšot, sagriežot vai sadedzinot, vai arī tikai pārsvītrojot visu tā saturu, vai kā citādi, tad visi tajā esošie rīkojumi, ja tas nav uzglabājies vēl kādā citā oriģināleksemplārā, zaudē spēku.

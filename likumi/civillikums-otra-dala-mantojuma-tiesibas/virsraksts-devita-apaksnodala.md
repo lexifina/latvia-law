@@ -1,0 +1,2 @@
+Devītā apakšnodaļa
+Novēlējumi vispārnoderīgiem un labdarīgiem mērķiem

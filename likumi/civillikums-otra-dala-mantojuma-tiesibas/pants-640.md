@@ -1,0 +1,1 @@
+640. Ar mantojuma līgumu nodibina nevis tikai personisku saistību, bet pašu mantojuma tiesību. Turpretim tādu seku nav līgumam, kurā atrodas tikai apsolījums kādreiz iecelt kādu par savu mantinieku, kaut arī abas puses būtu vienojušās par nākamā mantojuma līguma galveniem noteikumiem.

@@ -1,0 +1,2 @@
+499. Ja mērķis, kuram manta novēlēta, kaut kādā kārtā izbeidzas vai mantu vairs nav iespējams izlietot mantojuma atstājēja noteiktam mērķim, un šādam gadījumam mantojuma atstājējs nav devis nekādus rīkojumus, tad bāriņtiesa par novēlētās mantas tālāko likteni izstrādā priekšlikumu un caur tieslietu ministri iesniedz to izlemt Ministru kabinetam.
+Šis noteikums piemērojams arī tad, ja novēlēto mantu neizlieto noteiktam mērķim, pie kam šajā gadījumā bāriņtiesai savā priekšlikumā jāņem vērā mantojuma atstājēja priekšraksti.

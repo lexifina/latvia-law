@@ -1,0 +1,1 @@
+536. Ja legātu izpildīt nav uzlikts mantiniekam, bet tas novēlēts legātāram tieši, kā arī ja mantinieks, kam uzlikts legātu izpildīt, atkritis, tad legātārs var prasīt no testamenta izpildītāja vai mantojuma masas aizgādņa, lai izdod legātu no mantojuma.

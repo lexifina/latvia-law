@@ -1,0 +1,1 @@
+770. Ja mantojuma atstājējs ne testamentā, ne līgumā nav devis nekādus rīkojumus savam nāves gadījumam, tad tā vietā, kas atteicies mantot, iestājas tas, kam vienādas tiesības ar viņu, bet ja tāda nav, tad pēc viņa tuvākais mantojuma atstājēja likumiskais mantinieks.

@@ -1,0 +1,1 @@
+435. Ja testamentu taisa pie notāra vai pagasttiesā vai pie Latvijas konsula ārzemēs, tad, bez personām, kas vispār nav pielaižamas par notāriālu aktu lieciniekiem, nevar būt par lieciniekiem arī tie, kas nav pielaižami par privātu testamentu lieciniekiem.

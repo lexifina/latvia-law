@@ -1,0 +1,1 @@
+461. Ja 460. pantā norādītiem apstākļiem izbeidzoties mantojuma atstājējam ir iespēja taisīt rakstisku testamentu, tad mutiskais testaments zaudē spēku triju mēnešu laikā no norādīto ārkārtējo apstākļu izbeigšanās.

@@ -1,0 +1,2 @@
+637. Apstrīdēt testamentu var tikai tie, kas iecelti par mantiniekiem kādā citā pēdējās gribas rīkojumā vai kas testātora miršanas brīdī bijuši viņa tuvākie likumiskie mantinieki.
+Tos rīkojumus, kurus minētās personas nav apstrīdējušas, vai kuriem viņas piekritušas, vai kurus viņas apstrīdēt nokavējušas, vai arī uz kuriem viņas kautkā citādi zaudējušas tiesību, attālākie radnieki vairs nevar apstrīdēt.

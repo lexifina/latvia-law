@@ -1,0 +1,1 @@
+645. Mantojuma līgumam pievienotie nosacījumi, ciktāl tie zīmējas uz pašiem līdzējiem, apspriežami pēc tiem pašiem noteikumiem kā līgumu nosacījumi vispār; nosacījumi par citām līgumā apveltītām personām pakļauti noteikumiem par testamentu nosacījumiem.

@@ -1,0 +1,1 @@
+718. Mantojuma atstājēja parādnieki atbild katram līdzmantiniekam tāpat samērā ar viņa mantojuma daļu; bet ja parādnieks samaksājis parādu tam mantiniekam, kam mantojuma atstājējs šo prasījumu tieši novēlējis, tad viņš ar to ir atsvabināts no jebkādām līdzmantinieku prasībām.

@@ -1,0 +1,1 @@
+739. Ja viens līdzmantinieks patur sev dalāmo nekustamo īpašumu par tā novērtējuma summu, tad viņam jāatlīdzina pārējiem, samērā ar to daļām, attiecīga naudas summa, kas pēc vienošanās vai nu izmaksājama skaidrā naudā vai nodrošināma ar ķīlas tiesībām uz pašu nekustamo īpašumu.

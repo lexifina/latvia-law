@@ -1,0 +1,1 @@
+619. Testamenta izpildītāju viņa pienākumu robežās aizsargā un atbalsta bāriņtiesa, bet šās tiesas apstiprinājums viņam nav vajadzīgs un viņš neatrodas tās uzraudzībā, izņemot gadījumus, kuri attiecas uz sabiedrisku labumu vai iestāžu vai tādu personu interesēm, kurām vajadzīga sevišķa aizsardzība, kā nepilngadīgiem un tiem, kam piešķirts uzturs.

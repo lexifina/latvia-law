@@ -1,0 +1,1 @@
+466. Ja mantojuma atstājēja uzdotais iemesls testamenta taisīšanai vai zināma rīkojuma došanai izrādās par neatbilstošu īstenībai, tad tas neatņem spēku minētam testamentam vai rīkojumam, izņemot gadījumu, kad pierādītu, ka bez šā iemesla mantojuma atstājējs nemaz nebūtu taisījis savu testamentu vai nebūtu devis minēto rīkojumu.

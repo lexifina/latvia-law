@@ -1,0 +1,1 @@
+476. Ja testamentā mantojums izdalīts starp vairākām personām tā, ka viņām piešķirti noteikti mantojuma priekšmeti, tad katra no viņām dabū tikai to, kas tai noteikts; bet ja minētās personas ieceltas tieši par mantiniekiem, tad viņām novēlētie priekšmeti uzskatāmi par prelegātiem (515. p.) un mantojuma atlikums dalāms līdzīgās daļās.

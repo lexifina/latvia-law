@@ -1,0 +1,1 @@
+484. Substitūcija izbeidzas tiklab tiešam mantiniekam iegūstot mantojumu, kā arī substitūtam nomirstot pirms tā apstākļa iestāšanās, kuram bijusi nodibināta viņa tiesība, un vispār zaudējot mantotspēju.

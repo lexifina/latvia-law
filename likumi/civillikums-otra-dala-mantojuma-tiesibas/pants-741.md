@@ -1,0 +1,2 @@
+741. Ja dalāmās lauksaimnieciska rakstura zemes nepietiek, lai visiem mantiniekiem viņu daļas izdotu dabā (740. p.), un līdzmantinieki nevienojas, tad tēvs vai māte, daloties ar saviem pilngadīgiem bērniem, kā arī patēvs vai pamāte, daloties ar pabērniem, nevar prasīt savas daļas dabā.
+Tāpat nevar prasīt savu daļu dabā, ja visiem tādu neiznāk, līdzmantinieks, kas nenodarbojas ar zemkopību, kā arī tas līdzmantinieks, kam pašam vai kura laulātam jau pieder lauksaimnieciska rakstura zeme, kuras platība pārsniedz likumā noteikto mazāko apmēru.

@@ -1,0 +1,1 @@
+583. Legātāriem nav jāpiedalās mantojuma atstājēja parādu samaksā. Bet ja legāti pārsniedz mantojuma vērtību un pie tam nav tieša mantinieka, tad no viņiem ņemams samērīgs atvilkums minēto parādu samaksai.
