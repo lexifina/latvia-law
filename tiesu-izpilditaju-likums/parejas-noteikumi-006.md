@@ -1,1 +1,1 @@
-6. Valsts budžetā katru gadu nodrošināms finansējums zvērinātu tiesu izpildītāju amata darbības veikšanai atbilstoši tam finansējumam, kāds Tieslietu ministrijas Tiesu izpildītāju departamentam un tiesu izpildītāju kantoriem tika piešķirts 2002.gadā.
+6. Valsts budžetā katru gadu nodrošināms finansējums zvērinātu tiesu izpildītāju izpildu darbību veikšanai lietās, kurās piedzinējs ir atbrīvots no sprieduma izpildes izdevumu samaksas.
