@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "65",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-27",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-05-21",
+  "commission_reference": "MNE(2004)58150",
+  "nim_celex": "71972L0166LVA_28150",
+  "nim_id": "28150",
+  "transposes_celex": [
+    "31972L0166",
+    "31972L0430",
+    "31984L0005",
+    "31990L0232",
+    "32000L0026"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9f85dab3-d6c9-47e4-b48c-a3743f84fd4e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
