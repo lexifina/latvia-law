@@ -1,0 +1,1 @@
+1.pants. Apvienoto Nāciju Organizācijas Konvencijas pret transnacionālo organizēto noziedzību 2001.gada 31.maija Protokols par šaujamieroču, to detaļu, sastāvdaļu un munīcijas nelegālas izgatavošanas un aprites apkarošanu (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
