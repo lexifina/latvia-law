@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ieguldītāju aizsardzības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "170",
+  "official_journal_page": null,
+  "official_journal_date": "2001-11-23",
+  "entry_into_force": "2002-01-01",
+  "notification_date": "2026-03-10",
+  "commission_reference": "MNE(2026)01662",
+  "nim_celex": "72014L0065LVA_202601662",
+  "nim_id": "202601662",
+  "transposes_celex": [
+    "32014L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5d6ee9dd-d6fe-498a-b4fa-a512d79f1e18",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
