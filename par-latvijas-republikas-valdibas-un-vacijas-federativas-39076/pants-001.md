@@ -1,0 +1,1 @@
+1.pants. 1995.gada 14.septembrī Rīgā parakstītais Latvijas Republikas valdības un Vācijas Federatīvās Republikas valdības vispārējais nolīgums par konsultācijām un sadarbību (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
