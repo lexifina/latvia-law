@@ -1,0 +1,1 @@
+97.pants. Par zvērinātu tiesu izpildītāju palīgiem nevar būt šā likuma 13.panta 2. - 8.punktā minētās personas. Zvērinātu tiesu izpildītāju palīgi ir atstādināmi no amata pienākumu pildīšanas saskaņā ar šā likuma 56.panta noteikumiem.

@@ -1,0 +1,1 @@
+68.pants. Ja zvērināts tiesu izpildītājs Latvijas Zvērinātu tiesu izpildītāju padomes vai tieslietu ministra noteiktajā termiņā nesniedz paskaidrojumus vai neierodas bez attaisnojoša iemesla, lēmums tiek pieņemts, pamatojoties uz lietā noskaidrotajiem apstākļiem un Latvijas Zvērinātu tiesu izpildītāju padomes vai tieslietu ministra rīcībā esošajām ziņām.

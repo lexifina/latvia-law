@@ -1,0 +1,2 @@
+33.pants. (1) Ar zvērināta tiesu izpildītāja profesionālo darbību saistītais iespējamais zaudējuma risks ir obligāti apdrošināms.
+(2) Apdrošinājuma ņēmējs ir zvērināts tiesu izpildītājs, kas slēdz individuālo profesionālās darbības riska (civiltiesiskās atbildības) apdrošināšanas līgumu, un Latvijas Zvērinātu tiesu izpildītāju padome, kas slēdz apdrošināšanas līgumu par visu zvērinātu tiesu izpildītāju profesionālās darbības riska apdrošināšanu (grupas apdrošināšanas līgumu).

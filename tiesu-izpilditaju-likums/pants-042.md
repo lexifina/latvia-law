@@ -1,0 +1,1 @@
+42.pants. Zvērinātam tiesu izpildītājam, veicot amata darbības sakarā ar tiesas un citu institūciju nolēmumu izpildi, ir tiesības atvērt un bez valdītāja piekrišanas ieiet parādniekam piederošās telpās, kā arī telpās, par kurām ir ziņas, ka tajās atrodas parādniekam piederošas mantas, un citās glabātavās saskaņā ar Civilprocesa likuma noteikumiem.

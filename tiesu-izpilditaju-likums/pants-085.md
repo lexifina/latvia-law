@@ -1,0 +1,1 @@
+85.pants. Par zvērināta tiesu izpildītāja darbībā atklāto nepareizību novēršanu gādā apgabaltiesas priekšsēdētājs, kas dod zvērinātam tiesu izpildītājam norādījumus un rīkojumus un, ja nepieciešams, ierosina saukt viņu pie likumā noteiktās atbildības.

@@ -1,0 +1,3 @@
+154.pants. (1) Zvērināts tiesu izpildītājs nosaka pieņemšanas laiku.
+(2) Zvērināta tiesu izpildītāja pienākums ir nodrošināt apmeklētāju pieņemšanu jautājumos par konkrētu tiesas un citu institūciju nolēmumu izpildi un izpildu dokumentu pieņemšanu vismaz astoņas stundas nedēļā.
+(3) Tieslietu ministrs pēc saskaņošanas ar Latvijas Zvērinātu tiesu izpildītāju padomi var atļaut vai arī uzlikt par pienākumu zvērinātam tiesu izpildītājam noteiktās nedēļas vai mēneša dienās ierasties amata pienākumu pildīšanai tuvākās apkaimes pilsētās vai ciemos, lai nodrošinātu visām personām iespēju tikties ar zvērinātu tiesu izpildītāju.

@@ -1,0 +1,1 @@
+27.pants. Latvijas Zvērinātu tiesu izpildītāju padome iesniedz tieslietu ministram dokumentus par zvērināta tiesu izpildītāja amata pretendentu un Latvijas Zvērinātu tiesu izpildītāju padomes atzinumu par viņa uzņemšanu zvērinātu tiesu izpildītāju skaitā.

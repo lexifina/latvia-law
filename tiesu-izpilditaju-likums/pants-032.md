@@ -1,0 +1,1 @@
+32.pants. Zvērināta tiesu izpildītāja prombūtnes laikā, ja viņu nevar aizvietot zvērināta tiesu izpildītāja palīgs, vai tad, kad zvērināta tiesu izpildītāja amata vieta ir vakanta, tieslietu ministrs saziņā ar Latvijas Zvērinātu tiesu izpildītāju padomi ieceļ zvērinātu tiesu izpildītāju, kas veiks amata pienākumus prombūtnē esošā zvērināta tiesu izpildītāja vietā.

@@ -1,0 +1,1 @@
+55.pants. Tiesu, prokuratūras un pirmstiesas izmeklēšanas iestādes paziņo Latvijas Zvērinātu tiesu izpildītāju padomei un tieslietu ministram par visām sūdzībām un prasībām, kas ierosinātas saistībā ar zvērinātiem tiesu izpildītājiem, kā arī nosūta Latvijas Zvērinātu tiesu izpildītāju padomei šo sūdzību un prasību lietās taisīto nolēmumu norakstus.

@@ -1,0 +1,1 @@
+70.pants. Latvijas Zvērinātu tiesu izpildītāju padomes vai tieslietu ministra lēmumus disciplinārlietās disciplināri sodītais zvērināts tiesu izpildītājs var pārsūdzēt apgabaltiesā trīsdesmit dienu laikā no lēmuma pieņemšanas dienas.

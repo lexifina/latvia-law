@@ -1,0 +1,1 @@
+67.pants. Latvijas Zvērinātu tiesu izpildītāju padome un tieslietu ministrs var uzlikt zvērinātam tiesu izpildītājam par pienākumu personiski ierasties paskaidrojumu sniegšanai mutvārdos un par neierašanos uzlikt viņam šā likuma 57.pantā paredzētos disciplinārsodus.

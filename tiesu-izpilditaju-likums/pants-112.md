@@ -1,0 +1,1 @@
+112.pants. Latvijas Zvērinātu tiesu izpildītāju kolēģija ir neatkarīga zvērinātu tiesu izpildītāju profesionāla korporācija, kas apvieno visus Latvijā praktizējošus zvērinātus tiesu izpildītājus. Tikai Latvijas Zvērinātu tiesu izpildītāju kolēģijai ir šajā likumā noteiktās tiesības un pienākumi.

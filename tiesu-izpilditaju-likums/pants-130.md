@@ -1,0 +1,1 @@
+130.pants. Latvijas Zvērinātu tiesu izpildītāju padomei ir zīmogs ar papildināto mazo valsts ģerboni un Latvijas Zvērinātu tiesu izpildītāju padomes nosaukumu. Latvijas Zvērinātu tiesu izpildītāju padome atrodas Rīgā.

@@ -1,0 +1,2 @@
+121.pants. (1) Ja zvērinātu tiesu izpildītāju kopsapulcē nav kvoruma un tādēļ nav notikušas Latvijas Zvērinātu tiesu izpildītāju padomes vēlēšanas, padome ne vēlāk kā mēneša laikā sasauc jaunu kopsapulci, kura ir lemttiesīga, ja uz to ieradusies ne mazāk kā trešā daļa no visiem zvērinātiem tiesu izpildītājiem.
+(2) Ja uz atkārtoto kopsapulci ierodas mazāk nekā trešā daļa no visiem zvērinātiem tiesu izpildītājiem, par to sastāda protokolu, jaunas vēlēšanas nerīko un padome saglabā savas pilnvaras līdz nākamajai gadskārtējai kopsapulcei.

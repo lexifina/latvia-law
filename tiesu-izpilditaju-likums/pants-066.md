@@ -1,0 +1,1 @@
+66.pants. Latvijas Zvērinātu tiesu izpildītāju padome vai tieslietu ministrs nevar uzlikt zvērinātam tiesu izpildītājam nevienu no šajā likumā minētajiem disciplinārsodiem un nevar izskaidrot viņa rīcības nepareizību, ja iepriekš nav pieprasīts rakstveida paskaidrojums no šā zvērināta tiesu izpildītāja.

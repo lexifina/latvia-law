@@ -1,0 +1,1 @@
+6.pants. Zvērinātus tiesu izpildītājus amatā ieceļ uz mūžu, un šajā amatā viņi var būt līdz sešdesmit piecu gadu vecumam; šo termiņu pēc Latvijas Zvērinātu tiesu izpildītāju padomes priekšlikuma tieslietu ministrs var pagarināt līdz septiņdesmit gadiem.

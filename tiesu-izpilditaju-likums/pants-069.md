@@ -1,0 +1,1 @@
+69.pants. Latvijas Zvērinātu tiesu izpildītāju padomei un tieslietu ministram, izskatot disciplinārlietas, ir tiesības uzklausīt arī citu personu paskaidrojumus, prasīt lietpratēju atzinumus, pieprasīt ziņas un dokumentus no valsts un pašvaldību iestādēm, kā arī no citām institūcijām un to amatpersonām.

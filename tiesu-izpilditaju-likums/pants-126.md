@@ -1,0 +1,1 @@
+126.pants. Latvijas Zvērinātu tiesu izpildītāju padome ir Latvijas zvērinātu tiesu izpildītāju pārstāvības un uzraudzības institūcija, kā arī Latvijas Zvērinātu tiesu izpildītāju kolēģijas pārvaldes un izpildu institūcija.

@@ -1,0 +1,1 @@
+115.pants. Valsts institūcijām ir pienākums Latvijas Zvērinātu tiesu izpildītāju kolēģiju, tāpat kā citas tieslietu iestādes, uzklausīt jautājumos par normatīvo aktu un to projektu pilnveidošanu, ievērojot to, ka Latvijas Zvērinātu tiesu izpildītāju kolēģija ir organizācija, kas legāli izsaka zvērinātu tiesu izpildītāju viedokli.

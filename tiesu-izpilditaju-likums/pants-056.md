@@ -1,0 +1,1 @@
+56.pants. Ierosinot disciplinārlietu, tieslietu ministram, saskaņojot ar Latvijas Zvērinātu tiesu izpildītāju padomi, ir tiesības līdz lietas izskatīšanai atstādināt zvērinātu tiesu izpildītāju no pienākumu pildīšanas.

@@ -1,0 +1,1 @@
+61.pants. Ja Latvijas Zvērinātu tiesu izpildītāju padome, izskatot lietu par zvērināta tiesu izpildītāja pārkāpumu, secina, ka zvērinātam tiesu izpildītājam jāuzliek bargāks disciplinārsods, nekā to paredz šā likuma 57.pants, tā lietu kopā ar savu atzinumu nosūta tieslietu ministram.

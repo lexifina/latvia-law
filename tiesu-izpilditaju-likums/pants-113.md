@@ -1,0 +1,1 @@
+113.pants. Latvijas Zvērinātu tiesu izpildītāju kolēģija gādā par savas profesijas prestižu, veicina zvērinātu tiesu izpildītāju profesionālo izaugsmi, radošo spēju izkopšanu un pieredzes gūšanu, lai pildītu šajā likumā un citos normatīvajos aktos noteiktos uzdevumus.

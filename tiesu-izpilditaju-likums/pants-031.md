@@ -1,0 +1,1 @@
+31.pants. Zvērināts tiesu izpildītājs, uzsākot praksi (profesionālo darbību), izsludina laikrakstā "Latvijas Vēstnesis" un paziņo attiecīgā tiesu apgabala tiesām, tieslietu ministram un Latvijas Zvērinātu tiesu izpildītāju padomei prakses vietas adresi. Šāds sludinājums publicējams un paziņojumi sniedzami arī tad, ja tiek mainīta zvērināta tiesu izpildītāja prakses vieta.

@@ -1,0 +1,1 @@
+131.pants. Latvijas Zvērinātu tiesu izpildītāju padomes locekļiem ir tiesības no padomes budžeta saņemt komandējuma naudu un atlīdzību par citiem izdevumiem, kas radušies, pildot padomes locekļa amata pienākumus.

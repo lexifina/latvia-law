@@ -1,0 +1,1 @@
+79.pants. Par katru amata darbību (73. un 74.pants), ko veic zvērināts tiesu izpildītājs, kā arī par sniegto juridisko palīdzību (75.pants) viņam ir tiesības neatkarīgi no valsts nodevas ņemt atlīdzību. Atlīdzības apmēru par zvērināta tiesu izpildītāja amata darbībām nosaka atbilstoši taksei. Vienošanās par amata darbību atlīdzības apmēru, kas atšķiras no takses, ir aizliegta.

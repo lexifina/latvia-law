@@ -1,0 +1,1 @@
+101.pants. Aizvietojot zvērinātu tiesu izpildītāju, zvērināta tiesu izpildītāja palīgam par savu amata darbību ir tāda pati disciplinārā, civiltiesiskā un krimināltiesiskā atbildība, kāda paredzēta zvērinātam tiesu izpildītājam. Par sava palīga amata darbību solidāri civiltiesiski atbildīgs ir arī zvērināts tiesu izpildītājs.

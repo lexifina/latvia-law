@@ -1,0 +1,1 @@
+64.pants. Tieslietu ministrs pirms disciplinārlietas izlemšanas iesniedz šo lietu Latvijas Zvērinātu tiesu izpildītāju padomei, lai tā dotu atzinumu par zvērināta tiesu izpildītāja turpmāku atstāšanu amatā, atcelšanu no amata vai pārcelšanu uz citu amata vietu.

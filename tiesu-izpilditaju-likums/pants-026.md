@@ -1,0 +1,1 @@
+26.pants. To personu sarakstu, kuras iesniegušas uzņemšanai zvērinātu tiesu izpildītāju skaitā nepieciešamos dokumentus, Latvijas Zvērinātu tiesu izpildītāju padome izliek savās telpās un nosūta apgabaltiesu un rajonu (pilsētu) tiesu priekšsēdētājiem pēc pretendentu darbavietas kopā ar uzaicinājumu divu nedēļu laikā sniegt atsauksmi par šīm personām.

@@ -1,0 +1,1 @@
+9. Lai nodrošinātu zvērinātu tiesu izpildītāju nepārtrauktu darbu un iedzīvotāju apkalpošanu, zvērinātiem tiesu izpildītājiem līdz 2004.gada 31.decembrim ir tiesības nomāt Tieslietu ministrijas tiesu izpildītāju kantoru telpas ar līdzšinējiem nosacījumiem, izmantojot tur esošos sakaru līdzekļus.

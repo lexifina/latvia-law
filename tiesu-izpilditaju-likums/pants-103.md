@@ -1,0 +1,1 @@
+103.pants. Tieslietu ministrs var atņemt zvērināta tiesu izpildītāja palīgam tiesības uz laiku līdz vienam gadam aizvietot tiesu izpildītāju, ja palīgs savā amata darbībā pieļauj nolaidību vai neizpilda savus amata pienākumus.

@@ -1,0 +1,1 @@
+81.pants. Valsts nodevu, zvērināta tiesu izpildītāja amata atlīdzību un ar zvērināta tiesu izpildītāja amata darbību saistītos izdevumus iemaksā izpildu dokumenta iesniedzējs vai cita ieinteresētā persona.

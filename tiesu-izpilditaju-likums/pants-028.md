@@ -1,0 +1,1 @@
+28.pants. Zvērināts tiesu izpildītājs sāk pildīt amata pienākumus mēneša laikā no dienas, kad izdots rīkojums par viņa iecelšanu vai pārcelšanu, ja tieslietu ministra rīkojumā par zvērināta tiesu izpildītāja iecelšanu vai pārcelšanu nav noteikts citādi.

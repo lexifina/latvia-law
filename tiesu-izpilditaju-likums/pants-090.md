@@ -1,0 +1,1 @@
+90.pants. Tieslietu ministrs atbrīvo zvērinātu tiesu izpildītāju no amata pēc viņa lūguma vai arī bez šāda lūguma, ja pēdējo 12 mēnešu laikā zvērināts tiesu izpildītājs darbnespējas dēļ vairāk nekā septiņus mēnešus pēc kārtas nav pildījis savus amata pienākumus.

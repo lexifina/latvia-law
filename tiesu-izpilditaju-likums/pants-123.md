@@ -1,0 +1,1 @@
+123.pants. Latvijas Zvērinātu tiesu izpildītāju padomes vēlēšanas zvērinātu tiesu izpildītāju kopsapulcē rīkojamas pēc tam, kad kopsapulce ir apspriedusi Latvijas Zvērinātu tiesu izpildītāju padomes darbības pārskatu un iepriekšējā gada budžeta izpildes pārskatu un noteikusi ievēlējamo Latvijas Zvērinātu tiesu izpildītāju padomes locekļu skaitu.

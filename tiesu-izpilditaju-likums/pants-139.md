@@ -1,0 +1,1 @@
+139.pants. Zvērināti tiesu izpildītāji uz darba līguma pamata var pieņemt darbā tehnisko, saimniecisko un konsultatīvo personālu, par kura darbību viņi ir atbildīgi un kuram ir aizliegts veikt tiesu izpildītāja amata darbības un sniegt juridisko palīdzību (73. - 75.pants).

@@ -1,0 +1,1 @@
+11.pants. Zvērināts tiesu izpildītājs lieto zīmogu ar papildināto mazo valsts ģerboni un tekstu, kas ietver amata nosaukumu, zvērināta tiesu izpildītāja vārdu un uzvārdu, apgabaltiesas nosaukumu un amata vietu.

@@ -1,0 +1,1 @@
+80.pants. Pēc Latvijas Zvērinātu tiesu izpildītāju padomes priekšlikuma tieslietu ministrs, saskaņojot ar finanšu ministru, apstiprina zvērinātu tiesu izpildītāju amata darbību takses, kas izsludināmas vispārējai zināšanai laikrakstā "Latvijas Vēstnesis".

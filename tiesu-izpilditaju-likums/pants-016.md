@@ -1,0 +1,1 @@
+16.pants. Zvērināta tiesu izpildītāja amata pretendentus pārbauda īpaša eksaminācijas komisija, kuru ieceļ tieslietu ministrs, izraugoties pārstāvjus no Tieslietu ministrijas, tiesām, augstskolu akadēmiskā personāla un zvērinātiem tiesu izpildītājiem un saskaņojot to ar Latvijas Zvērinātu tiesu izpildītāju padomi. Komisijas priekšsēdētājs ir Tieslietu ministrijas pārstāvis.

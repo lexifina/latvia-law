@@ -1,0 +1,1 @@
+7. No valsts budžetā Tieslietu ministrijas Tiesu izpildītāju departamentam un tiesu izpildītāju kantoriem paredzētā finansējuma tieslietu ministra noteiktajā kārtībā un apmērā, kas saskaņots ar Latvijas Zvērinātu tiesu izpildītāju padomi, zvērinātiem tiesu izpildītājiem tiek piešķirts finansējums prakses uzturēšanai atbilstoši zvērinātu tiesu izpildītāju slodzei.

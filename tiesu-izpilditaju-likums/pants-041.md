@@ -1,0 +1,1 @@
+41.pants. Pildot tiesas un citu institūciju nolēmumus, zvērināts tiesu izpildītājs ir tiesīgs ar amata pienākumu pildīšanu saistīto nepieciešamo informāciju pieprasīt no valsts un pašvaldību iestādēm un institūcijām, kā arī no visām fiziskajām un juridiskajām personām, ciktāl to neierobežo speciālās tiesību normas.

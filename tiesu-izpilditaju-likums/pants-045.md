@@ -1,0 +1,2 @@
+45.pants. (1) Zvērināts tiesu izpildītājs pēc savas iniciatīvas veic visus likumā noteiktos pasākumus un izmanto visus likumā paredzētos līdzekļus un metodes, lai ātri un kvalitatīvi pildītu tiesas un citu institūciju nolēmumus, kā arī veiktu citas sava amata darbības.
+(2) Zvērināts tiesu izpildītājs, pildot amata darbības, piemēro Civilprocesa likumu un citus normatīvos aktus, kā arī ievēro Latvijas Zvērinātu tiesu izpildītāju padomes apstiprināto metodiku un tiesu prakses atziņas.

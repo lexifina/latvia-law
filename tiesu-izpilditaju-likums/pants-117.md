@@ -1,0 +1,1 @@
+117.pants. Latvijas Zvērinātu tiesu izpildītāju kolēģijas līdzekļus veido līdzekļi, kas tiek maksāti no ieņēmumiem par zvērinātu tiesu izpildītāju amata darbībām un sniegto juridisko palīdzību.

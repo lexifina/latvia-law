@@ -1,0 +1,1 @@
+98.pants. Zvērināta tiesu izpildītāja palīgu, pamatojoties uz zvērināta tiesu izpildītāja priekšlikumu un Latvijas Zvērinātu tiesu izpildītāju padomes pozitīvu atsauksmi, apstiprina amatā tieslietu ministrs.
