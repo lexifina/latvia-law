@@ -1,4 +1,4 @@
 5.pants. Lēmuma pieņemšana par Latvijas Nacionālo bruņoto spēku vienību piedalīšanos starptautiskajās operācijās
-(1) Latvijas Nacionālo bruņoto spēku vienības saskaņā ar Saeimas lēmumu var nodot Apvienoto Nāciju Organizācijas pārziņā, kā arī citu starptautisko organizāciju pārziņā - starptautisko operāciju veikšanai uz laiku un ar noteikumiem, ko nosaka Saeimas lēmums.
+(1) Latvijas Nacionālo bruņoto spēku vienības saskaņā ar Saeimas lēmumu var nodot tās starptautiskās organizācijas vai valsts pārziņā, kura vada starptautisko operāciju - starptautisko operāciju veikšanai uz laiku un ar noteikumiem, ko nosaka Saeimas lēmums.
 (2) Lēmumu par Latvijas Nacionālo bruņoto spēku vienību piedalīšanos starptautiskajās glābšanas operācijās un starptautiskajās humānajās operācijās pieņem Ministru kabinets.
 (3) Ja pārkāpti šā likuma 1. panta otrajā daļā un 2. pantā minētie Latvijas Nacionālo bruņoto spēku vienību izmantošanas noteikumi, kā arī gadījumos, kad nepieciešams nodrošināt Latvijas valsts intereses, šīs vienības jebkurā laikā var atsaukt ar Saeimas vai Ministru kabineta lēmumu.
