@@ -1,0 +1,1 @@
+2. Personas, kuras reabilitētas saskaņā ar šo vai citiem likumdošanas aktiem un kuras tika sauktas pie kriminālatbildības par darbībām, kas paredzētas KPFSR kriminālkodeksa 82. pantā, tiek reabilitētas arī pēc šā panta.
