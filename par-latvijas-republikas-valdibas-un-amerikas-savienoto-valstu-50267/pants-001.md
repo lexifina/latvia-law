@@ -1,0 +1,1 @@
+1.pants. 1998.gada 17.aprīlī Vašingtonā parakstītais Latvijas Republikas valdības un Amerikas Savienoto Valstu valdības līgums par abu valstu muitas administrāciju savstarpējo palīdzību (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
