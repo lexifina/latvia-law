@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Izglītības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "343/344 (1404/1405)",
+  "official_journal_page": null,
+  "official_journal_date": "1998-11-17",
+  "entry_into_force": "1999-06-01",
+  "notification_date": "2017-02-23",
+  "commission_reference": "MNE(2017)51210",
+  "nim_celex": "72014L0066LVA_245447",
+  "nim_id": "245447",
+  "transposes_celex": [
+    "32014L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9ccb6f4f-8ee6-4dda-a7b2-3da7c7be6ae6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
