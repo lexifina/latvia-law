@@ -1,0 +1,2 @@
+17. pants. Miruša cilvēka ķermeņa aizsardzība un cilvēka auda un orgānu izmantošana medicīnā kā valsts funkcija
+Miruša cilvēka ķermeņa aizsardzība un cilvēka audu un orgānu izmantošana medicīnā ir valsts funkcija, ko realizē Latvijas Republikas Labklājības ministrijas Veselības departaments. Jebkurai iestādei vai organizācijai aizliegts nodarboties ar patologanatomisko izmeklēšanu, dzīva vai miruša cilvēka audu un orgānu izņemšanu un tālāku izmantošanu bez Latvijas Republikas Labklājības ministrijas Veselības departamenta atļaujas.

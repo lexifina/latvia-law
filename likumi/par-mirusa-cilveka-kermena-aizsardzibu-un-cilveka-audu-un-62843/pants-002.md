@@ -1,0 +1,2 @@
+2. pants. Cilvēka prioritārās tiesības uz savu ķermeni
+Katram rīcībspējīgam cilvēkam savas dzīves laikā ir tiesības izlemt, ko varēs darīt ar viņa ķermeni pēc nāves, un viņš var rakstveidā atļaut vai aizliegt pēc savas nāves izdarīt patologanatomisko izmeklēšanu (sekciju), kā arī izņemt no ķermeņa audus vai orgānus. Šī griba ir jāievēro, ja vien tā nav pretrunā ar Latvijas Republikas spēkā esošajiem likumiem.
