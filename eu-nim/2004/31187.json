@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2000.gada 25.aprīļa noteikumos Nr.157 \"Noteikumi par liftu un to drošības sastāvdaļu projektēšanas, ražošanas un liftu uzstādīšanas atbilstības novērtēšanu\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "68",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-09-24",
+  "commission_reference": "MNE(2004)51187",
+  "nim_celex": "71995L0016LVA_31187",
+  "nim_id": "31187",
+  "transposes_celex": [
+    "31995L0016"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3e45aa79-825a-454e-94f7-575fe895418e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
