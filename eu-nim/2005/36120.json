@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi likumā Par uzņēmumu ienākuma nodokli",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "206",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-24",
+  "entry_into_force": "2005-01-01",
+  "notification_date": "2005-03-16",
+  "commission_reference": "MNE(2005)56120",
+  "nim_celex": "72003L0049LVA_36120",
+  "nim_id": "36120",
+  "transposes_celex": [
+    "32003L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/db711517-f0c5-4a40-9813-539fb9793a9e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
