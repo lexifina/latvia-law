@@ -1,0 +1,1 @@
+1.pants. 1994.gada 13.septembrī Rīgā noslēgtā Vienošanās starp Igaunijas Republiku, Latvijas Republiku un Lietuvas Republiku par kopīgas miera uzturēšanas vienības izveidošanu (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.
