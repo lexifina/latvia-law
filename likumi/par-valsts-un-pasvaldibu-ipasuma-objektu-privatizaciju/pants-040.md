@@ -15,7 +15,7 @@
 2. Ja pašvaldības īpašuma objektu paredzēts pārveidot statūtsabiedrībā, papildus jānorāda:
 1) agrākajiem īpašniekiem (izņemot akciju, daļu un paju īpašniekus) un zemes īpašniekiem rezervējamā kapitāla daļa;
 2) pašvaldībai atstājamā kapitāla daļa;
-3) pensiju fondam nododamā kapitāla daļa, kura nedrīkst būt mazāka par Ministru kabineta noteikto;
+3) Ministru kabineta noteiktā valsts pensiju speciālajam budžetam nododamā kapitāla daļa;
 4) tikai par privatizācijas sertifikātiem pārdodamā kapitāla daļa, kura nedrīkst būt mazāka par pašvaldības noteikto;
 5) tikai objekta darbiniekiem pārdodamā kapitāla daļa un atlaide, ja likumā tāda paredzēta, kura nedrīkst pārsniegt Ministru kabineta noteikto.
 3. Šā panta pirmās daļas 4., 5., 10. un 11. punktā un otrās daļas 1. punktā minētās ziņas sagatavo, kā arī objekta un zemes īpašuma tiesības apliecinošus dokumentus privatizācijas projektam pievieno pašvaldības īpašuma privatizācijas komisija.

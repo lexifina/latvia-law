@@ -10,7 +10,7 @@
 8) akciju sabiedrības pamatkapitāla sadale pa akciju veidiem un kategorijām un pa pircēju grupām;
 9) objekta privatizācijas pasākumu veikšanas kārtība;
 10) privatizācijas subjektu pirmpirkuma tiesību realizācijas nosacījumi un kārtība;
-11) kapitāla daļu realizācijas kārtība;
+11) kapitāla daļu realizācijas kārtība un Ministru kabineta noteiktā valsts pensiju speciālajam budžetam nododamā kapitāla daļa, kas nav mazāka par 10 procentiem;
 12) paredzētā pretendentu atlases kārtība un kritēriji;
 13) paredzētā maksāšanas kārtība;
 14) jaunajam objekta īpašniekam nododamo tiesību un saistību kopums;
