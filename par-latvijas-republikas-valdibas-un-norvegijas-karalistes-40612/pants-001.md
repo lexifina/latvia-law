@@ -1,0 +1,1 @@
+1.pants. 1996.gada 22.aprīlī Rīgā parakstītais Latvijas Republikas valdības un Norvēģijas Karalistes valdības līgums par savstarpējo palīdzību muitas jautājumos (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
