@@ -1,5 +1,5 @@
 Nr. Ezera nosaukums
-Pagasts, pilsētaPlatība
+Pagasts, pilsēta Platība
 p.k.
 (ha)
 Alūksnes rajons
@@ -91,8 +91,7 @@ Dobeles rajons
 Naudītes pag.38,7
 39. Gauratas ezers
 Dobeles pag.13,8
-40. Ķerkliņu ezers
-Lielauces pag.50,0
+40. (Izslēgts ar 17.09.1998. likumu)
 41. Lielais Vipēda ezers
 Zebrenes pag.20,1
 42. Spārņa ezers
@@ -435,34 +434,36 @@ Garkalnes pag.22,2
 194. Umma ezers
 Carnikavas pag.25,4
 Saldus rajons
-195. Veiķenieku ezers
+195. Ķerkliņu ezers
+Zvārdes pag.50,0
+196. Veiķenieku ezers
 Lutriņu pag.28,0
-196. Zvārdes ezers (Odzē nu ezers)
+197. Zvārdes ezers (Odzē nu ezers)
 Zvārdes pag.20,0
 Talsu rajons
-197. Gulbju ezers
+198. Gulbju ezers
 Ģibuļu pag.115,5
-198. Laidzes ezers
-Laidzes pag.170,5
-199. Lubezers
+199. Laidzes ezers
+Laidzes pag.170,5 (-39,2 ha) (Izņemot platību ar zemes kadastra Nr8837-12-0009)
+200. Lubezers
 Valdemārpils (ar lauku terit.)129,6
-200. Mordangas - Kāņu ezers
+201. Mordangas - Kāņu ezers
 Ģibuļu pag.78,0
-201. Plunč u ezers
+202. Plunč u ezers
 Ģibuļu pag.42,1
-202. Spāres ezers
+203. Spāres ezers
 Ģibuļu pag.201,1
 Tukuma rajons
-203. Kliģu ezers
+204. Kliģu ezers
 Lestenes pag.21,8
-204. Sekļa ezers
+205. Sekļa ezers
 Tumes pag.34,2
 Valkas rajons
-205. Salaiņa ezers
+206. Salaiņa ezers
 Zvārtavas pag.77,8
-206. Vadaiņa ezers
+207. Vadaiņa ezers
 Zvārtavas pag.49,6
-207. Vēdera ezers
+208. Vēdera ezers
 Zvārtavas pag.50,8
 Valmieras rajons
 Lielais Bauža ezers

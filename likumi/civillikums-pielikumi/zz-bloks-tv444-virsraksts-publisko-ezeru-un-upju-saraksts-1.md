@@ -18,7 +18,7 @@ Ilgāja ezers (Latvijas daļa)Veclaicenes pag.8,7
 6.
 Indzera ezersAlsviķu pag.145,3
 7.
-Muratu ezers (Latvijas daļa)Veclaicenes pag.11,2
+Muratu ezers (Latvijas daļa)Ziemera pag.11,2
 8.
 Sudalezers (daļa Gulbenes raj.)Zeltiņu pag.182,3
 9.
