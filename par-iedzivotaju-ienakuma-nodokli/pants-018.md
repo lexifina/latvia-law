@@ -5,3 +5,4 @@
 4. Maksātāji, kuri saņem patentu individuālā darba veikšanai, līdz patenta saņemšanai samaksā patentmaksu.
 5. No šā likuma 8.panta trešās daļas 4., 8. un 9. punktā minētajiem ienākumiem avansa maksājumi nav jāizdara.
 6. Maksātājam aprēķinātais nodokļa avansa maksājuma apmērs samazināms par nodokļu summu, kas saskaņā ar šā likuma 17.panta desmitās daļas 6. un 7.punkta noteikumiem ieturēta un ieskaitīta budžetā. Pamats šādam samazinājumam ir paziņojums par ieturēto nodokli, kuru saskaņā ar šā likuma 17.panta noteikumiem maksātājs saņem no ienākuma izmaksātāja un iesniedz Valsts ieņēmumu dienesta teritoriālajai iestādei.
+7. Maksātājs, kurš taksācijas gada laikā uzsāk saimniecisko darbību, nodokļa avansa maksājumus par taksācijas gadu var veikt labprātīgi.

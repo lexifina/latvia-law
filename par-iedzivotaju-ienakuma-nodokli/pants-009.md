@@ -18,7 +18,11 @@
 16) kompensācijas izmaksas likumos un Ministru kabineta noteikto normu ietvaros, izņemot kompensāciju par neizmantoto atvaļinājumu;
 17) ar Ministru kabineta lēmumu noteiktā apgāde natūrā, kā arī summas, kas izmaksātas šīs apgādes vietā;
 18) atlīdzība par asiņu nodošanu un cita veida donorpalīdzību;
-19) ienākumi no sava īpašuma pārdošanas, izņemot ienākumu no pārdošanai izgatavotu vai iegādātu izstrādājumu (mantas) pārdošanas, ienākumu Ministru kabineta noteiktajā kārtībā no tāda nekustamā īpašuma, akciju un citu vērtspapīru pārdošanas, kas ir bijuši personas īpašumā mazāk par 12 mēnešiem, un ienākumu no personāla akciju atpirkšanas;
+19) ienākumi no sava īpašuma pārdošanas, izņemot ienākumu no:
+a) pārdošanai izgatavotu vai iegādātu izstrādājumu (mantas) pārdošanas,
+b) fiziskās personas īpašumā esoša augoša meža pārdošanas izciršanai,
+c) tāda nekustamā īpašuma, akciju un citu vērtspapīru pārdošanas, kas ir bijuši personas īpašumā mazāk par 12 mēnešiem,
+d) personāla akciju atpirkšanas;
 20) palīdzība, kas sniegta, pamatojoties uz arodbiedrības institūcijas lēmumu, no arodbiedrības naudas līdzekļiem, kuri veidojas no arodbiedrības biedru naudas maksājumiem un ārvalstu arodbiedrību ziedojumiem (dāvinājumiem);
 21) kompensācija naudā, ko fiziskajai personai izmaksā uzņēmumi (uzņēmējsabiedrības), pamatojoties uz nosacījumu, ka šī fiziskā persona taksācijas perioda (kalendārā gada) laikā iegādājas zināmu daudzumu preču attiecīgajā uzņēmumā (uzņēmējsabiedrībā). Šis noteikums nav piemērojams gadījumos, kad fiziskā persona nav iegādāto preču galīgais patērētājs (veic šo preču tālākpārdošanu);
 22) summas, kas izmaksātas subsīdiju veidā kā valsts atbalsts lauksaimniecībai vai Eiropas Savienības atbalsts lauksaimniecībai un lauku attīstībai;
@@ -30,3 +34,4 @@
 2) tās apgādībā esošo personu izglītības (studiju) programmas apgūšanas veicināšanai izglītības iestādē;
 3) tās pētniecības darba vai radošā darba atbalstam.
 5. Šā panta pirmās daļas 7.punkta izpratnē pabalsti ir arī saskaņā ar Ministru kabineta noteikumiem piešķirtie mūža granti valsts emeritētajiem zinātniekiem un Kultūrkapitāla fonda piešķirtās mūža stipendijas kultūras un mākslas darbiniekiem par nopelniem kultūras un mākslas attīstībā.
+6. Ministru kabinets nosaka kārtību, kādā stipendijām no šā panta pirmās daļas 8.punktā minēto fondu vai starptautisko izglītības vai sadarbības programmu līdzekļiem piešķirams atbrīvojums no aplikšanas ar iedzīvotāju ienākuma nodokli.

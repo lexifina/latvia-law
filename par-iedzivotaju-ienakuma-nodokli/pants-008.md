@@ -9,7 +9,7 @@
 5) ienākumi no nekustamā īpašuma (ēku, ēku daļu, dzīvokļu, zemes) iznomāšanas vai izīrēšanas;
 6) ienākumi no lietas (zemes, telpas) nodošanas tālāk apakšnomniekam vai apakšīrniekam;
 7) ienākumi no kustamās mantas iznomāšanas;
-8) ienākumi no intelektuālā īpašuma un tiesībām uz to (autoratlīdzība, izpildītājatlīdzība; zinātnes, literatūras un mākslas darbu, atklājumu, izgudrojumu un rūpniecisko paraugu autoru un viņu mantinieku honorāri);
+8) ienākumi no intelektuālā īpašuma un tiesībām uz to (autoratlīdzība, izpildītājatlīdzība; zinātnes, literatūras un mākslas darbu, atklājumu, izgudrojumu un rūpniecisko paraugu autoru un viņu mantinieku honorāri), kā arī no tiesībām izmantot tiesības uz intelektuālo īpašumu;
 9) no uzņēmējsabiedrībām, uzņēmumiem (iestādēm, organizācijām) saņemtie dāvinājumi;
 10) pensijas neatkarīgi no to izmaksas avota;
 11) citi ienākumi, kas nav minēti šā likuma 9.pantā.

@@ -7,3 +7,4 @@
 5) tāda maksātāja algas nodokli, kura darbu apmaksā no Latvijas Republikai piešķirtajiem ārvalstu tehniskās palīdzības vai starptautisko finansu institūciju aizdevuma līdzekļiem, - darba devējs vai pats maksātājs saskaņā ar Ministru kabineta noteikumiem.
 2. Maksātājs, izņemot personas, kas minētas šā likuma 20.pantā, maksā nodokli atbilstoši deklarācijai rezumējošā kārtībā. Taksācijas gada laikā tiek izdarīti nodokļa avansa maksājumi.
 3. Avansa maksājumu apmēru maksātājam, kas gūst ienākumus no individuālā darba, uzņēmuma līguma un uzņēmējdarbības, no kuras ienākumiem jāmaksā iedzīvotāju ienākuma nodoklis, nosaka saskaņā ar Ministru kabineta noteikumiem.
+4. Fiziskajai personai - nerezidentam, iegūstot rezidenta statusu, nerezidenta statusā aprēķinātais un budžetā iemaksātais nodoklis ir galīgais nodoklis.

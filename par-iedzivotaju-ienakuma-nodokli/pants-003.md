@@ -12,8 +12,13 @@
 5) ienākums no Latvijas Republikā reģistrētas līgumsabiedrības;
 6) ienākums likvidācijas kvotas veidā no Latvijas Republikā reģistrētas uzņēmējsabiedrības likvidācijas - tādā apmērā, kādā tas pārsniedz izmaksājamo dividendi;
 7) ienākums no Latvijas Republikā esoša nekustamā īpašuma izmantošanas;
-7¹) ienākums no Latvijas Republikā esoša nekustamā īpašuma atsavināšanas likumā "Par uzņēmumu ienākuma nodokli" noteiktajā kārtībā;
+7¹) ienākums no Latvijas Republikā esoša nekustamā īpašuma atsavināšanas;
 8) ienākums no kustamā īpašuma izmantošanas Latvijas Republikā;
 9) personiskās palīgsaimniecības, piemājas saimniecības, kā arī zemnieku un zvejnieku saimniecības ienākums no lauksaimnieciskās ražošanas;
 10) dividendes saskaņā ar likumā "Par uzņēmumu ienākuma nodokli" noteikto likmi;
-11) citi ienākumi, kas nav minēti šā likuma 9.pantā.
+11) procentu ienākums, izņemot šā likuma 9.panta pirmajā daļā noteiktos procentu ienākumus;
+12) samaksa par intelektuālo īpašumu:
+a) autoratlīdzība (honorārs) par zinātnes, literatūras un mākslas darbu, atklājumu, izgudrojumu un rūpniecisko paraugu darbu radīšanu, ņemot vērā izdevumu normas, kuras saskaņā ar šā likuma 10.panta pirmās daļas 4.punktu noteicis Ministru kabinets,
+b) maksājumi par pārējiem intelektuālā īpašuma veidiem saskaņā ar likuma "Par uzņēmumu ienākuma nodokli" 3.panta ceturtās daļas 4.punkta "a" apakšpunktā noteikto likmi;
+13) apdrošināšanas atlīdzība, kas saskaņā ar dzīvības, veselības un negadījuma apdrošināšanas līgumu, kuru apdrošinātā interesēs noslēdzis darba devējs (vai cits apdrošinājuma ņēmējs - juridiskā persona), izmaksāta, pienākot apdrošināšanas līgumā paredzētajam līguma beigu termiņam vai laužot līgumu pirms termiņa;
+14) pensijas, kas izmaksātas saskaņā ar Latvijas Republikas likumiem.

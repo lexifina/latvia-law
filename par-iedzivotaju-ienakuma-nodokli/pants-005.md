@@ -1,3 +1,0 @@
-5. pants. Ierobežojumi darba devējam
-1. Darba devējam ir aizliegts nodarbināt personas, kas neiesniedz algas nodokļa grāmatiņu (turpmāk - arī grāmatiņa), algas nodokļa karti (turpmāk - karte) vai neuzrāda termiņuzturēšanās atļauju, kas izdota likumdošanas aktos noteiktajā kārtībā un dod tiesības strādāt algotu darbu Latvijas Republikā (turpmāk - darba atļauja).
-2. Šā panta pirmās daļas noteikumi neattiecas uz steidzamu, īslaicīgu, vienreizēju darbu pildīšanu, par kuriem norēķins tiek izdarīts tūlīt pēc darbu izpildes. Šādā veidā vienu personu var nodarbināt ne vairāk kā 43 stundas mēnesī vai 10 stundas nedēļā.
