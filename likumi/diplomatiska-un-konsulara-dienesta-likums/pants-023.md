@@ -1,0 +1,3 @@
+23.pants. Pabalstu, piemaksas un kompensāciju noteikšana
+(1) Diplomāti, kuri saņem šā likuma 20., 21. un 22.pantā noteiktos pabalstus, piemaksu un kompensācijas, nesaņem likumā "Par valsts civildienestu" paredzēto dzīvokļa pabalstu, pabalstu sakarā ar pārcelšanu, ģimenes piemaksu un piemaksu par valsts civildienestu īpašos apstākļos.
+(2) Ārlietu ministrs atkarībā no dienesta apstākļiem ārvalstīs pēc saskaņošanas ar Finansu ministriju izdod instrukciju par šā likuma 20., 21. un 22.pantā noteikto pabalstu, piemaksas un kompensāciju apmēriem. Šos pabalstus, piemaksu un kompensācijas neapliek ar likumos paredzētajiem nodokļiem un citiem obligātajiem maksājumiem.

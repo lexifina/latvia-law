@@ -1,0 +1,3 @@
+13.pants. Pazemināšana diplomātiskajā rangā un diplomātiskā ranga zaudēšana
+(1) Diplomātu pazemināt diplomātiskajā rangā vai to viņam atņemt var ārlietu ministrs pēc attiecīga Atestācijas komisijas ieteikuma, ja pēc disciplinārlietas izskatīšanas vai dienesta izmeklēšanas kā disciplinārsods tiek piemērota pazemināšana amatā, atlaišana no amata, atlaišana no darba vai atlaišana no valsts civildienesta.
+(2) Personas, kuras tiek atceltas no šā likuma 10. un 11.pantā minētajiem amatiem, zaudē attiecīgajam amatam atbilstīgo diplomātisko rangu. Ja šīs personas pirms tam ir ieguvušas citu diplomātisko rangu, tas saglabājas. Šajā gadījumā var piemērot šā likuma 9.panta trešās daļas nosacījumus.

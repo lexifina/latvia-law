@@ -1,0 +1,4 @@
+19.pants. Diplomātu mēnešalga vai mēneša amatalga un piemaksa par diplomātisko rangu
+(1) Diplomāti saņem mēnešalgu vai mēneša amatalgu saskaņā ar likumu "Par valsts civildienestu" vai Latvijas Darba likumu kodeksu, kā arī piemaksu par diplomātisko rangu saskaņā ar attiecīgiem Ministru kabineta noteikumiem.
+(2) Ja diplomāts dienestu pilda ārvalstīs, viņa mēnešalgu vai mēneša amatalgu un piemaksu par diplomātisko rangu izmaksā viņa pilnvarotai personai vai arī ieskaita viņa norādītajā kontā kredītiestādē.
+(3) Diplomāti, kuri ir ieskaitīti Ārlietu ministrijas rīcībā saskaņā ar šā likuma 15.panta pirmo daļu, saņem trīs ceturtdaļas no savas pēdējās mēnešalgas. Diplomāti, kuri ieskaitīti Ārlietu ministrijas pārziņā saskaņā ar šā likuma 15.panta otro daļu, nesaņem mēnešalgu un piemaksu par diplomātisko rangu.

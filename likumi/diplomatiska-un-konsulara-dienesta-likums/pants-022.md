@@ -1,0 +1,3 @@
+22.pants. Garantijas diplomātiem ārkārtējās situācijās
+(1) Ārlietu ministrija papildus likumā paredzētajai obligātajai sociālajai apdrošināšanai veic veselības apdrošināšanu, kā arī apdrošināšanu pret nelaimes gadījumiem dienesta pildīšanas laikā tiem diplomātiem un viņu ģimenes locekļiem, kuri dienestu pilda ārvalstīs.
+(2) Ja dienesta vietā diplomātu apdraud karadarbība, vardarbība, nemieri vai dabas katastrofas, Ārlietu ministrija var noteikt viņam piemaksu līdz piecdesmit procentiem no to pabalstu apmēra, kuri šim diplomātam saskaņā ar šā likuma 20.pantu tiek izmaksāti kā algas pabalsti, kā arī kompensēt materiālos zaudējumus, ko diplomāts cietis minēto apstākļu dēļ.

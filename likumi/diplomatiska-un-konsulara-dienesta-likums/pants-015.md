@@ -1,0 +1,4 @@
+15.pants. Ieskaitīšana Ārlietu ministrijas rīcībā vai Ārlietu ministrijas pārziņā
+(1) Ja diplomātiskā un konsulārā dienesta laiks ārvalstīs saskaņā ar šā likuma 14.panta pirmo daļu ir beidzies, bet diplomātu nevar pārcelt viņa diplomātiskajam rangam atbilstīgā amatā, viņu var ieskaitīt Ārlietu ministrijas rīcībā uz laiku, kas nepārsniedz sešus mēnešus.
+(2) Ja šā panta pirmajā daļā minētajā laikā diplomātu nevar iecelt viņa diplomātiskajam rangam atbilstīgā amatā, viņš atskaitāms Ārlietu ministrijas pārziņā, saglabājot viņam piešķirto diplomātisko rangu, bet ne ilgāk kā divus gadus.
+(3) Šajā pantā noteiktā kārtība attiecas vienīgi uz diplomātiem, kuri ir ierēdņi (ierēdņu kandidāti). Ārlietu ministrs pēc saskaņošanas ar Valsts civildienesta pārvaldi izdod instrukciju par kārtību, kādā veicama ieskaitīšana Ārlietu ministrijas rīcībā vai Ārlietu ministrijas pārziņā.
