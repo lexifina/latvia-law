@@ -1,0 +1,1 @@
+11.pants. Likums nav piemērojams personām, kuras izdarījušas noziegumu pēc šā likuma pieņemšanas. Personām, kuras izdarījušas ilgstošus vai turpinātus noziegumus, amnestiju piemēro tikai tad, ja tie pabeigti līdz šā likuma pieņemšanai.
