@@ -1,0 +1,1 @@
+7.pants. Saskaņā ar Konvencijas 18.panta ceturto daļu, līdz Konvencija stājas spēkā, Latvija piemēro Konvenciju attiecībās ar tām dalībvalstīm, kuras sniegušas šajā Konvencijas pantā paredzēto paziņojumu. Šis paziņojums stājas spēkā 90 dienas pēc tā deponēšanas.

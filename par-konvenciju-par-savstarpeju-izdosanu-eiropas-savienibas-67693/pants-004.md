@@ -1,0 +1,1 @@
+4.pants. Saskaņā ar Konvencijas 11.pantu Latvija attiecībās ar dalībvalstīm, kuras sniegušas šajā Konvencijas pantā paredzēto paziņojumu, uzskata, ka saņemta piekrišana Eiropas Konvencijas par izdošanu 14.panta pirmās daļas "a" punkta izpratnē, ja vien dalībvalsts nenorāda citādi, nodrošinot izdošanu konkrētā gadījumā.
