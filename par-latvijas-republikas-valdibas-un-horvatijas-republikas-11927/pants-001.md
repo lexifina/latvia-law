@@ -1,0 +1,1 @@
+1.pants. 2000.gada 19.maijā Rīgā parakstītais Latvijas Republikas valdības un Horvātijas Republikas valdības līgums par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma nodokļiem (turpmāk - Līgums) un tā 2000.gada 19.maijā Rīgā parakstītais protokols (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.
