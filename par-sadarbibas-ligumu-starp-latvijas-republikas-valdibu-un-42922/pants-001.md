@@ -1,0 +1,1 @@
+1.pants. 1997.gada 3.februārī Ženēvā parakstītais Sadarbības līgums starp Latvijas Republikas valdību un Starptautisko migrācijas organizāciju (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
