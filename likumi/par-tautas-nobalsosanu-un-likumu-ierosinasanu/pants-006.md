@@ -1,2 +1,2 @@
 6. pants. (1) Ja Valsts prezidents ir apturējis likuma publicēšanu, viņam ne vēlāk kā astotajā dienā, skaitot no likuma pieņemšanas Saeimā, likumu izsludināšanas kārtībā jāpaziņo apturētā likuma teksts un lēmums par likuma publicēšanas apturēšanu.
-(2) Pēc šāda paziņojuma Centrālā vēlēšanu komisija paziņo visām pilsētu un pagastu vēlēšanu komisijām, ka tiek uzsākta parakstu vākšana tautas nobalsošanas ierosināšanai, un nogādā tām parakstu vākšanas lapas pietiekamā skaitā.
+(2) Pēc šāda paziņojuma Centrālā vēlēšanu komisija paziņo visām pilsētu, novadu un pagastu vēlēšanu komisijām, ka tiek uzsākta parakstu vākšana tautas nobalsošanas ierosināšanai, un nogādā tām parakstu vākšanas lapas.

@@ -1,3 +1,3 @@
-20. pants. (1) Balsotāji, kuri balsošanas laikā uzturas ārvalstīs, realizē savas tiesības piedalīties tautas nobalsošanā Latvijas Republikas konsulārajās iestādēs, kurām uzticēts veikt ar tautas nobalsošanu saistītos pienākumus.
+20. pants. (1) Balsotāji, kuri balsošanas laikā uzturas ārvalstīs, balso vēlēšanu iecirkņos, kurus pēc Ārlietu ministrijas priekšlikuma Centrālā vēlēšanu komisija izveido Latvijas Republikas diplomātiskajās un konsulārajās pārstāvniecībās, vai arī pa pastu. Centrālā vēlēšanu komisija var izveidot vēlēšanu iecirkņus arī citās šim nolūkam piemērotās telpās, saskaņojot to ar Ārlietu ministriju.
 (2) Ja tautas nobalsošana notiek vienlaikus ar Saeimas vēlēšanām, tad balsošana ārvalstīs notiek visos vēlēšanu iecirkņos, kuri izveidoti likumā noteiktajā kārtībā.
 (3) Balsotāji, kuri balsošanas laikā uzturas ārvalstīs, var balsot arī pa pastu. Balsošana pa pastu notiek Saeimas vēlēšanu likumā noteiktajā kārtībā.

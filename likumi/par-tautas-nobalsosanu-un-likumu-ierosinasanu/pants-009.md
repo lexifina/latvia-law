@@ -1,2 +1,2 @@
-9. pants. (1) Pilsētu un pagastu vēlēšanu komisijas ne vēlāk kā trīs dienas pēc Centrālās vēlēšanu komisijas noteiktā parakstu vākšanas termiņa izbeigšanās nosūta parakstu vākšanas lapas Centrālajai vēlēšanu komisijai.
-(2) Lapas noslēdz ar attiecīgās pilsētas vai pagasta vēlēšanu komisijas zīmogu un priekšsēdētāja parakstu, kas apliecina, ka parakstu vākšana notikusi likumā noteiktajā kārtībā.
+9. pants. (1) Parakstu vākšanas lapas noslēdz ar attiecīgās pilsētas, novada vai pagasta vēlēšanu komisijas zīmogu un priekšsēdētāja parakstu, kas apliecina, ka parakstu vākšana notikusi likumā paredzētajā kārtībā.
+(2) Pilsētu, novadu un pagastu vēlēšanu komisijas pēc Centrālās vēlēšanu komisijas noteiktā parakstu vākšanas termiņa izbeigšanās nosūta parakstu vākšanas lapas Centrālajai vēlēšanu komisijai tās noteiktajā kārtībā.

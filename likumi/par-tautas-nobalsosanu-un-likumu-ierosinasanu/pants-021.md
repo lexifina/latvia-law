@@ -1,1 +1,1 @@
-21. pants. Balsošanas telpās aģitācija nav pieļaujama.
+21. pants. Balsošanas laikā kārtību balsošanas telpās uzrauga vēlēšanu iecirkņa komisijas priekšsēdētājs. Viņš raugās, lai balsošanas telpās un tuvāk par 50 metriem no ieejas ēkā, kurā atrodas vēlēšanu iecirknis, nenotiktu vēlēšanu brīvības ierobežošana un kārtības traucēšana, kā arī aģitācija.
