@@ -1,0 +1,1 @@
+Lai veicinātu Lielbritānijas un Ziemeļīrijas Apvienotās Karalistes un Latvijas Republikas savstarpējās attiecības un atvieglotu šo valstu pilsoņu savstarpējos ceļojumus, Latvijas Republikas Augstākā Padome nolemj:

@@ -1,0 +1,1 @@
+2. Likums stājas spēkā ar tā pieņemšanas dienu un ir spēkā līdz līguma noslēgšanai starp Latvijas Republikas valdību un Lielbritānijas un Ziemeļīrijas Apvienotās Karalistes valdību par savstarpēju atteikšanos no vīzām.
