@@ -1,0 +1,1 @@
+1.pants. 1999.gada 10.decembrī pieņemtais Latvijas Republikas un Ungārijas Republikas līgums "Par izmaiņām Latvijas Republikas un Ungārijas Republikas brīvās tirdzniecības līguma 3.protokolā" (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
