@@ -1,0 +1,1 @@
+Sniegtās palīdzības izmaksu atlīdzināšana
