@@ -1,0 +1,1 @@
+1.pants. 2002.gada 17.jūnijā Rīgā parakstītais Latvijas Republikas valdības un Zviedrijas Karalistes valdības līgums par sadarbību ārkārtēju situāciju novēršanas, gatavības un reaģēšanas jomā (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
