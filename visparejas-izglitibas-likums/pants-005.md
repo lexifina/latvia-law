@@ -5,7 +5,7 @@ Izglītības un zinātnes ministrija:
 3) nosaka mācību sasniegumu vērtēšanas kārtību speciālās izglītības iestādēs;
 4) organizē vispārējās izglītības satura un metodikas izstrādi;
 5) reizi gadā izvērtē un apstiprina mācību procesā izmantojamo mācību literatūru;
-6) nosaka maksimāli pieļaujamo izglītojamo skaitu klasē vispārējās izglītības iestādēs, arī speciālās izglītības iestādēs, sociālās un pedagoģiskās korekcijas klasēs;
+6) nosaka minimāli un maksimāli pieļaujamo izglītojamo skaitu klasē vispārējās izglītības iestādēs, arī speciālās izglītības iestādēs, sociālās un pedagoģiskās korekcijas klasēs;
 7) nosaka ilgstoši slimojošu izglītojamo izglītošanās kārtību ārpus izglītības iestādes;
 8) nosaka mācību gada un mācību semestru sākuma un beigu laiku;
 9) organizē vispārējās izglītības iestāžu vadītāju atestāciju un pedagogu profesionālās kvalifikācijas vērtēšanu;
