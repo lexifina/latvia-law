@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par narkotisko un psihotropo zāļu un vielu, kā arī prekursoru aprites kārtību zāļu ražošanas uzņēmumos, zāļu lieltirgotavās un aptiekās",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "106",
+  "official_journal_page": null,
+  "official_journal_date": "1997-07-18",
+  "entry_into_force": null,
+  "notification_date": "2004-03-01",
+  "commission_reference": "MNE(2003)50341",
+  "nim_celex": "71992L0109LVA_20341",
+  "nim_id": "20341",
+  "transposes_celex": [
+    "31992L0109",
+    "32003L0101"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8c77ff0c-4562-4c59-9dc6-3560fa1f43f8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
