@@ -11,5 +11,6 @@ f) mantojuma lietā noguldītāja nāves gadījumā;
 a) nodokļu maksātājs neiesniedz nodokļu administrācijai konkrēto nodokļu likumos paredzētās deklarācijas vai nodokļu aprēķinus,
 b) nodokļu maksātāja nodokļu audita pārbaudes laikā ir konstatēti grāmatvedības uzskaites vai nodokļu normatīvo aktu pārkāpumi,
 c) nodokļu maksātājs neveic nodokļu maksājumus atbilstoši nodokļu likumu prasībām;
-4) (izslēgts ar 30.10.1997. likumu).
+4) (izslēgts ar 30.10.1997. likumu);
+5) noziedzīgi iegūtu līdzekļu legalizācijas novēršanas dienestam - likumā "Par noziedzīgi iegūtu līdzekļu legalizācijas novēršanu" paredzētajos gadījumos un kārtībā.
 (2) Kredītiestāde ziņas sniedz, pamatojoties uz valsts institūcijas rakstveida pieprasījumu, kurā norādīta konkrētā pārbaudāmā persona un pamatota ziņu nepieciešamība atbilstoši konkrētā likuma prasībām.
