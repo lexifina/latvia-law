@@ -1,0 +1,11 @@
+4.pants. Reģionālās attīstības pamatprincipi
+Reģionālās attīstības plānošanas, vadības, finansēšanas, uzraudzības un novērtēšanas procesā ievēro šādus pamatprincipus:
+1) koncentrācijas princips - reģionālās attīstības atbalstam novirzīto finansējumu koncentrē noteiktu prioritāro mērķu sasniegšanai;
+2) programmēšanas princips - reģionālās attīstības atbalsta pasākumus īsteno, pamatojoties uz nacionālajā līmenī, plānošanas reģionu, rajonu un vietējo pašvaldību līmenī izstrādātajiem reģionālās attīstības plānošanas dokumentiem, kas nosaka attīstības prioritātes un atbalsta pasākumu kopumu;
+3) partnerības princips - nodrošina sadarbību starp valsts pārvaldes iestādēm, starptautiskajām institūcijām, plānošanas reģionu padomēm, pašvaldībām, nevalstiskajām organizācijām un uzņēmējiem;
+4) papildinātības princips - valsts reģionālajā politikā noteiktās prioritātes finansē no valsts budžeta ar pašvaldību, ārvalstu finansu palīdzības, juridisko un fizisko personu maksājumu, tai skaitā ziedojumu, līdzdalību; plānošanas reģionu, rajonu un vietējo pašvaldību līmenī noteiktās prioritātes finansē no attiecīgās pašvaldības budžeta ar valsts, ārvalstu finansu
+palīdzības, juridisko un fizisko personu maksājumu, tai skaitā ziedojumu, līdzdalību, turklāt dažādu līmeņu reģionālās attīstības atbalsta finansējumi ir savstarpēji papildinoši un neaizstāj cits citu. Investīciju un komercdarbības
+atbalsta programmās līdzfinansējuma apjomu atbalsta saņēmējam nosaka un diferencē atbilstoši pašvaldības vai attiecīgās teritorijas piederībai pie īpaši atbalstāmās teritorijas, atbalsta saņēmējiem nosakot labvēlīgāku līdzfinansējuma apjomu īpaši atbalstāmās teritorijās;
+5) atklātības princips - reģionālās attīstības plānošanas un ar atbalsta pasākumiem saistīto lēmumu pieņemšanas process ir atklāts, un sabiedrība tiek informēta par reģionālās attīstības plānošanas un atbalsta pasākumu pieejamību un sasniegtajiem rezultātiem;
+6) subsidiaritātes princips - publiskās varas pienākumus pēc iespējas realizē tā vara, kas atrodas vistuvāk personai un spēj nodrošināt pienākumu efektīvu īstenošanu zemākā pārvaldes līmenī;
+7) ilgtspējības princips - esošajām un nākamajām paaudzēm nodrošina kvalitatīvu vidi, līdzsvarotu ekonomisko attīstību, racionālu dabas, cilvēku un materiālo resursu izmantošanu, kā arī dabas un kultūras mantojuma saglabāšanu.

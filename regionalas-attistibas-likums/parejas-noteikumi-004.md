@@ -1,0 +1,1 @@
+4. Saskaņā ar likumu "Par īpaši atbalstāmajiem reģioniem" izveidotais Reģionālais fonds turpina savu darbību līdz brīdim, kad tiek izveidots šajā likumā paredzētais Reģionālais fonds, kas ir tā tiesību un saistību pārmantotājs.
