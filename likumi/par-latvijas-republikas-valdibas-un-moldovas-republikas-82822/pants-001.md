@@ -1,0 +1,1 @@
+1.pants. 1995.gada 8.jūnijā Vīnē parakstītais Latvijas Republikas valdības un Moldovas Republikas valdības nolīgums par automobiļu starptautisko satiksmi (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.

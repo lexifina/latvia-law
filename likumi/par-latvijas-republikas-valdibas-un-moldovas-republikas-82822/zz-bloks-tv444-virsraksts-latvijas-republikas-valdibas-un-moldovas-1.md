@@ -1,0 +1,85 @@
+Latvijas Republikas valdība un Moldovas Republikas valdība, turpmāk tekstā - "Līgumslēdzējas Puses",
+ievērojot divpusējo tirdznieciski ekonomisko attiecību labvēlīgu attīstību,
+vēloties attīstīt automobiļu satiksmi starp abām valstīm, kā arī tranzītā cauri to teritorijām,
+nolūkā veicināt savstarpēji izdevīgu sadarbību, vienojās noslēgt šo Nolīgumu.
+1. pants
+Saskaņā ar šā Nolīguma nosacījumiem veicami regulārie un neregulārie pasažieru pārvadājumi ar autobusiem un kravu pārvadājumi ar kravas automobiļiem ar vai bez piekabēm un puspiekabēm starp abām valstīm un tranzītā cauri to teritorijām, kā arī uz trešajām valstīm.
+PASAŽIERU PĀRVADĀJUMI
+2. pants
+1. Regulārie pasažieru pārvadājumi ar autobusiem organizējami, saskaņojot tos starp Līgumslēdzēju Pušu kompetentajām institūcijām, un tiek veikti, pamatojoties uz atļaujām, ko tās izdod pēc savstarpējas vienošanās.
+2. Priekšlikumus šādu pārvadājumu organizēšanai Līgumslēdzēju Pušu kompetentās institūcijas savlaicīgi iesniedz viena otrai. Priekšlikumiem jāsatur šādas ziņas:
+• pārvadātāja (firmas) nosaukums,
+• braukšanas maršruts,
+• kustības saraksts,
+• pārvadājumu tarifs,
+• apstāšanās vietas pasažieru iekāpšanai un izkāpšanai,
+kā arī
+• plānotais pārvadājumu veikšanas periods un regularitāte.
+3. Pārvadājumu atļauju Līgumslēdzēju Pušu kompetentās institūcijas izdod tai maršruta daļai, kas atrodas attiecīgās valsts teritorijā.
+3. pants
+1. Pasažieru neregulāru pārvadājumu veikšanai ar autobusiem starp abām valstīm vai tranzītā cauri to teritorijām, izņemot šā Nolīguma 4. pantā minētos pārvadājumus, nepieciešamas Līgumslēdzēju Pušu kompetento institūciju izdotas atļaujas.
+2. Lūgumu par atļaujas izsniegšanu šī panta 1. punktā minētā neregulārā pasažieru pārvadājuma veikšanai pārvadātājs nosūta otras Līgumslēdzējas Puses kompetentajai institūcijai.
+3. Šī panta 1. punktā minētās atļaujas ik reizi dod tiesības veikt tikai vienu braucienu turp un atpakaļ.
+4. pants
+1. Šā Nolīguma 3. panta 1. punktā minētās atļaujas nav nepieciešamas, veicot neregulārus pasažieru pārvadājumus ar autobusiem šādos gadījumos:
+a) ja pasažieru grupa nemainīgā sastāvā tiek pārvadāta ar vienu un to pašu autobusu visa brauciena laikā, kas sākas un beidzas tās Līgumslēdzējas Puses valsts teritorijā, kur autobuss reģistrēts;
+b) sistemātiskiem "turp un atpakaļ" pārvadājumiem, ja pirmo braucienu atpakaļ un pēdējo braucienu turp autobuss veic bez pasažieriem ar nosacījumu, ka, beidzot "turp un atpakaļ" pārvadājumus, visi pasažieri tiks atvesti atpakaļ uz valsti, no kuras tie izbraukuši, ar viena un tā paša pārvadātāja autobusiem;
+c) ja tiek veikti neregulāri tranzīta pārvadājumi "ar slēgtām durvīm".
+2. Pārvadājumu atļauja nav nepieciešama arī, nomainot bojātu autobusu ar citu autobusu.
+3. Veicot šī panta 1. punktā minētos pārvadājumus, pie autobusa vadītāja jāatrodas pasažieru pārvadājumu brauciena formulāram, kas sastādīts pirms brauciena uzsākšanas.
+KRAVU PĀRVADĀJUMI
+5. pants
+1. Kravu pārvadājumi starp abām valstīm vai tranzītā cauri to teritorijām, kā arī uz trešajām valstīm ar kravas automobiļiem ar vai bez piekabēm vai arī ar autovilcējiem ar puspiekabēm veicami, pamatojoties uz Līgumslēdzēju Pušu kompetento institūciju izdotām pārvadājumu atļaujām.
+2. Katram kravu pārvadājumam nepieciešama atsevišķa atļauja, kas dod tiesības veikt vienu braucienu turp un atpakaļ.
+3. Šajā Nolīgumā paredzētie kravu pārvadājumi veicami, noformējot starptautiskajiem paraugiem atbilstošas kravu pavadzīmes.
+4. Līgumslēdzēju Pušu kompetentās institūcijas katru gadu nodod viena otrai savstarpēji saskaņotu kravu pārvadājumu atļauju veidlapu skaitu. Uz šīm veidlapām jābūt kompetentās institūcijas, kas izsniegusi atļauju, parakstam un zīmogam.
+6. pants
+1. Šā Nolīguma 5. pantā paredzētās atļaujas nav nepieciešamas, pārvadājot šādas kravas:
+a) kustamo īpašumu pastāvīgās dzīves vietas maiņas gadījumā;
+b) mirstīgās atliekas un pīšļus;
+c) gadatirgiem un izstādēm paredzētus priekšmetus, iekārtu un materiālus;
+d) tehniskos līdzekļus, iekārtas, dzīvniekus, kā arī jebkurus citus piederumus un inventāru, kas paredzēti sporta un izklaides pasākumiem, mūzikas ierakstiem, televīzijas raidījumu veidošanai un kinofilmu uzņemšanai;
+e) pasta sūtījumus;
+f) kravas, kas saistītas ar tehniskās palīdzības sniegšanu bojātiem autotransporta līdzekļiem;
+g) medicīniskās iekārtas, kas paredzētas ārkārtējas palīdzības sniegšanai, īpaši dabas katastrofu gadījumos;
+h) kravas, kuru pārvadāšanai izmantoto kravas autotransporta līdzekļu pilna masa, ieskaitot piekabi, nepārsniedz 6 tonnas vai kuru celtspēja nav lielāka par 3,5 tonnām;
+2. Izņēmumi, kas paredzēti šī panta 1. punkta "c", "d" apakšpunktos, ir spēkā tikai tajos gadījumos, ja pārvadājamā krava tiks izvesta atpakaļ no valsts teritorijas.
+VISPĀRĪGIE NOTEIKUMI
+7. pants
+1. Ja autotransporta līdzekļa izmēri vai svars bez kravas vai ar to pārsniedz otras Līgumslēdzējas Puses valsts teritorijā noteiktās normas, kā arī, pārvadājot kravas, kas atbilst bīstamām saskaņā ar šīs valsts teritorijā spēkā esošajiem normatīviem, pārvadātājam jāsaņem otras Līgumslēdzējas Puses kompetentās institūcijas speciāla atļauja.
+2. Līgumslēdzēju Pušu kompetentajām institūcijām jāsniedz atbilde uz šādas speciālas atļaujas pieprasījumu ne vēlāk kā 10 dienu laikā no tā saņemšanas.
+3. Ja šī panta 1. punktā minētajā atļaujā paredzēta autotransporta līdzekļa kustība pa noteiktu maršrutu, tad pārvadājums jāveic pa šo maršrutu.
+8. pants
+1. Šajā Nolīgumā paredzētos pārvadājumus var veikt tikai tie pārvadātāji, kuri saskaņā ar savas valsts likumdošanu ir tiesīgi veikt starptautiskos pārvadājumus.
+2. Autotransporta līdzekļiem, ar kuriem tiek veikti šajā Nolīgumā paredzētie pārvadājumi, nepieciešamas savas valsts reģistrācijas numura un atšķirības zīmes.
+9. pants
+Vienas Līgumslēdzējas Puses pārvadātājiem nav atļauta pasažieru vai kravu pārvadāšana starp diviem punktiem, kas atrodas otras Līgumslēdzējas Puses valsts teritorijā, ja šim nolūkam nav saņemta attiecīgās Līgumslēdzējas Puses kompetentās institūcijas speciāla atļauja.
+10. pants
+Autotransporta līdzekļa vadītāja rīcībā jābūt savas valsts vai starptautiskai autovadītāja apliecībai un savas valsts autotransporta līdzekļa reģistrācijas dokumentiem.
+11. pants
+Līgumslēdzēju Pušu valstu pārvadātājiem un autotransporta līdzekļu vadītājiem jāievēro tās valsts tiesību normas un ceļu satiksmes noteikumi, kuras teritorijā tiek veikti pārvadājumi.
+12. pants
+1. Veicot pārvadājumus saskaņā ar šo Nolīgumu, Līgumslēdzējas Puses savstarpēji atbrīvo no muitas nodevām, nodokļiem un atļaujām ievest otras Līgumslēdzējas Puses teritorijā:
+a) degvielu, kas atrodas autotransporta līdzekļa izgatavotājas rūpnīcas paredzētajās degvielas tvertnēs, kas tehnoloģiski un konstruktīvi saistītas ar dzinēja barošanas sistēmu;
+b) smērvielas daudzumā, kāds nepieciešams konkrēta pārvadājuma veikšanai;
+c) rezerves daļas un instrumentus, kas paredzēti starptautisko pārvadājumu veicoša, bojāta autotransporta līdzekļa remontam.
+2. Neizmantotās rezerves daļas izvedamas atpakaļ, bet nomainītās detaļas jāizved no valsts vai jāiznīcina attiecīgās Līgumslēdzējas Puses muitas iestāžu pārstāvju klātbūtnē.
+13. pants
+1. Transporta līdzekļi, kas reģistrēti vienas Līgumslēdzējas Puses valsts teritorijā un saskaņā ar šo Nolīgumu veic pasažieru vai kravas pārvadājumus otras Līgumslēdzējas Puses valsts teritorijā, tiek savstarpēji atbrīvoti no visu veidu maksājumiem, nodevām un nodokļiem, kas šajā teritorijā tiek iekasēti par transporta līdzekļu valdījumu un lietošanu, kā arī par transporta operāciju veikšanu.
+2. Šajā pantā minētie atbrīvojumi neattiecas uz maksājumiem par autoceļu, tiltu un citu būvju izmantošanu, uz pievienotās vērtības nodokļiem, kā arī uz degvielas akcīzes nodokli.
+14. pants
+Robežas, muitas un sanitārajā kontrolē, kā arī citos jautājumos, kas nav īpaši atrunāti šajā Nolīgumā, tiks piemērotas to starptautisko līgumu prasības, kuru dalībnieces ir Līgumslēdzējas Puses, bet, risinot jautājumus, kas nav noregulēti ar šiem līgumiem, tiks piemērotas katras Līgumslēdzējas Puses tiesību aktu prasības.
+15. pants
+Ārpus kārtas tiks veikta robežas, muitas un sanitārā kontrole, pārvadājot smagi slimus cilvēkus, veicot regulārus pasažieru pārvadājumus ar autobusiem, kā arī, pārvadājot dzīvniekus vai kravas, kas ātri bojājas.
+16. pants
+Ja vienas vai otras Līgumslēdzējas Puses valsts teritorijā tiek pārkāpts kāds no šā Nolīguma nosacījumiem, tad tās valsts kompetentā institūcija, kurā reģistrēts autotransporta līdzeklis, pēc otras Līgumslēdzējas Puses kompetentās institūcijas lūguma veiks visus pasākumus un piemēros visas sankcijas, lai nodrošinātu šī Nolīguma izpildi. Par veiktajiem pasākumiem kompetentā institūcija informēs otras Līgumslēdzējas Puses kompetento institūciju.
+17. pants
+Šā Nolīguma izpildes nodrošināšanai un iespējamo strīdīgo jautājumu atrisināšanai Līgumslēdzējas Puses no kompetento institūciju pārstāvjiem izveido Kopējo komisiju, kuras sēdes notiek ne retāk kā vienu reizi gadā pārmaiņus abu Līgumslēdzēju Pušu valstu teritorijās. Kopējās komisijas lēmumi tiek noformēti ar protokolu.
+18. pants
+Šis Nolīgums neietekmē Līgumslēdzēju Pušu tiesības un pienākumus, kas izriet no citiem to noslēgtajiem starptautiskajiem līgumiem un nolīgumiem.
+19. pants
+Šis Nolīgums stājas spēkā 30 dienas pēc tam, kad Līgumslēdzējas Puses diplomātiskā ceļā informēs viena otru par to, ka veiktas visas nepieciešamās juridiskās darbības saskaņā ar savas valsts likumdošanu.
+Šis Nolīgums ir spēkā vienu gadu, un turpmāk tā darbības termiņš automātiski tiks pagarināts no gada uz gadu, kamēr to nedenonsēs viena no Līgumslēdzējām Pusēm, paziņojot par to otrai Līgumslēdzējai Pusei ne vēlāk kā trīs mēnešus pirms tā kārtējā darbības termiņa beigām.
+Parakstīts Vīnē 1995. gada 8. jūnijā divos oriģināleksemplāros, katrs no tiem latviešu, moldāvu un krievu valodā, turklāt visiem tekstiem ir vienāds juridisks spēks. Domstarpību gadījumā noteicošais ir teksts krievu valodā.
+Latvijas RepublikasMoldovas Republikas
+valdības vārdāvaldības vārdā
