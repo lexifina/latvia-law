@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Kredītu apdrošināšanas noteikumi",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "171",
+  "official_journal_page": null,
+  "official_journal_date": "2001-11-27",
+  "entry_into_force": "2001-11-16",
+  "notification_date": "2004-10-21",
+  "commission_reference": "MNE(2004)52101",
+  "nim_celex": "71987L0343LVA_32101",
+  "nim_id": "32101",
+  "transposes_celex": [
+    "31987L0343"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ada6d1db-67c4-4229-9b97-7a2e43f143fb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
