@@ -1,7 +1,7 @@
 144.pants. Statūti
 (1) Sabiedrības statūtos norāda:
 1) sabiedrības firmu;
-2) komercdarbības veidus;
+2) (izslēgts ar 22.04.2004. likumu);
 3) sabiedrības darbības termiņu vai mērķi (ja sabiedrība tiek dibināta uz noteiktu laiku vai noteikta mērķa sasniegšanai);
 4) pamatkapitāla lielumu, daļu skaitu un nominālvērtību;
 5) (izslēgts ar 14.02.2002. likumu);
@@ -13,4 +13,4 @@
 1) ja sabiedrībai ir dažādas akciju kategorijas, - akciju kategorijas (norādot tiesības, kuras izriet no katras akciju kategorijas) un katras kategorijas akciju skaitu un nominālvērtību;
 2) vai akcijas ir vārda vai uzrādītāja akcijas un, ja statūti paredz vārda akciju konversiju par uzrādītāja akcijām un otrādi, - konversijas noteikumus;
 3) vai akcijas ir papīra formā vai dematerializētas un, ja statūti paredz papīra formas akciju konversiju par dematerializētām akcijām un otrādi, - konversijas noteikumus.
-(3) Dibinot sabiedrību, statūtus paraksta visi dibinātāji, norādot parakstīšanas datumu. Dibinātāju paraksti publiski apliecināmi pie notāra vai pagasttiesā.
+(3) Dibinot sabiedrību, statūtus paraksta visi dibinātāji, norādot parakstīšanas datumu.

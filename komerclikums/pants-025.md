@@ -11,7 +11,7 @@
 8) ārvalsts komersanta veidu.
 (3) Pieteikumam par ārvalsts komersanta filiāles ierakstīšanu komercreģistrā pievieno šādus dokumentus:
 1) dokumentu, kas apliecina komersanta reģistrāciju attiecīgajā ārvalstī, vai šāda dokumenta notariāli apliecinātu kopiju, ja komersanta atrašanās vietas valsts likums paredz komersanta ierakstīšanu reģistrā;
-2) atļauju dibināt filiāli, ja to paredz likums;
+2) atļauju atvērt filiāli, ja to paredz likums;
 3) komersanta statūtu, dibināšanas līguma vai tiem pielīdzināma dokumenta notariāli apliecinātu kopiju;
 4) dokumentu, kas apliecina personas pilnvarojumu pārstāvēt ārvalsts komersantu visās ar filiāli saistītajās darbībās, un šā pilnvarojuma apjomu.
 (4) Šā panta otrās daļas 7.punktā minētā persona, ārvalsts komersants vai tā likumiskie pārstāvji iesniedz komercreģistra iestādei pieteikumu par:

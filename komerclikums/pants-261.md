@@ -6,4 +6,4 @@
 3) valdes apliecinājumu par pamatkapitāla apmaksas stāvokli;
 4) dokumentus, kas apliecina katra mantiskā ieguldījuma priekšmeta novērtējumu un tā nodošanu sabiedrībai (ja apmaksa veikta ar mantisko ieguldījumu).
 (3) Pamatkapitāls uzskatāms par palielinātu ar brīdi, kad izdarīts ieraksts komercreģistrā.
-(4) Ne vēlāk kā piecu dienu laikā pēc akciju apmaksas termiņa beigām valde iesniedz komercreģistra iestādei precizētu akcionāru reģistra eksemplāru, kurā atspoguļots akciju apmaksas stāvoklis pēc pamatkapitāla palielināšanas.
+(4) (Izslēgta ar 22.04.2004. likumu)

@@ -3,8 +3,8 @@
 (2) Par padomes locekli nedrīkst būt:
 1) šīs sabiedrības valdes loceklis, revidents, prokūrists vai komercpilnvarnieks;
 2) šīs sabiedrības atkarīgās sabiedrības valdes loceklis vai persona, kurai ir tiesības pārstāvēt šo atkarīgo sabiedrību;
-3) persona, kura jau ir padomes loceklis sešās citās kapitālsabiedrībās.
+3) (izslēgts ar 22.04.2004. likumu).
 (3) Statūti var paredzēt stingrākus ierobežojumus padomes loceklim.
-(4) Minimālais padomes locekļu skaits ir trīs, bet, ja sabiedrības akcijas atrodas publiskā apgrozījumā, - minimālais padomes locekļu skaits ir pieci.
+(4) Minimālais padomes locekļu skaits ir trīs, bet, ja sabiedrības akcijas atrodas publiskā apgrozībā, - minimālais padomes locekļu skaits ir pieci.
 (5) Maksimālais padomes locekļu skaits ir divdesmit.
 (6) Padomes loceklis nevar uzticēt savu pienākumu pildīšanu citai personai.

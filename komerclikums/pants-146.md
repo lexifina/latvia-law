@@ -1,5 +1,5 @@
 146.pants. Parakstītais un līdz reģistrācijas pieteikuma iesniegšanai apmaksātais pamatkapitāls
 (1) Līdz reģistrācijas pieteikuma iesniegšanai komercreģistra iestādē dibinātāji izpilda dibināšanas līgumā paredzētās saistības attiecībā uz parakstīto un līdz reģistrācijai apmaksājamo pamatkapitālu, ja dibināšanas līgumā nav noteikts agrāks pamatkapitāla apmaksas termiņš.
-(2) Sabiedrības ar ierobežotu atbildību pamatkapitāls 50 procentu apmērā apmaksājams līdz reģistrācijas pieteikuma iesniegšanai. Pārējā daļa apmaksājama viena gada laikā no dienas, kad sabiedrība ierakstīta komercreģistrā.
+(2) Sabiedrības ar ierobežotu atbildību pamatkapitāls līdz reģistrācijas pieteikuma iesniegšanai parakstāms pilnā apmērā un apmaksājams vismaz 50 procentu apmērā. Pārējā daļa apmaksājama viena gada laikā no dienas, kad sabiedrība ierakstīta komercreģistrā.
 (3) Līdz reģistrācijas pieteikuma iesniegšanai jābūt parakstītam visam dibināšanas līgumā noteiktajam akciju sabiedrības pamatkapitālam. Līdz reģistrācijas pieteikuma iesniegšanai apmaksātais pamatkapitāls nedrīkst būt mazāks par šā likuma 225.pantā noteikto minimālo pamatkapitālu un mazāks par 25 procentiem no parakstītā pamatkapitāla.
 (4) Līdz reģistrācijas pieteikuma iesniegšanai akciju sabiedrības apmaksātais pamatkapitāls apmaksājams tikai naudā.

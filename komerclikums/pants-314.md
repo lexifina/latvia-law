@@ -7,5 +7,5 @@
 5) ilgāk par trim mēnešiem valdei nav pārstāvības tiesību (224.panta trešā daļa un 305.panta trešā daļa);
 6) citos likumā noteiktajos gadījumos.
 (2) Prasību tiesā var celt valde, padome, valdes loceklis, dalībnieks, komercreģistra iestāde, kā arī citas likumā noteiktās personas.
-(3) Komercreģistra iestāde var celt prasību tiesā, ja sabiedrība triju mēnešu laikā pēc rakstveida brīdinājuma saņemšanas nav novērsusi norādītos pārkāpumus.
+(3) Komercreģistra iestāde var celt prasību tiesā, ja sabiedrība triju mēnešu laikā pēc rakstveida brīdinājuma saņemšanas nav novērsusi norādītos trūkumus.
 (4) Līdz brīdim, kad tiek pieņemts nolēmums par sabiedrības darbības izbeigšanu, tiesa var noteikt termiņu, kurā sabiedrībai jānovērš trūkumi, kas ir pamats tās darbības izbeigšanai.
