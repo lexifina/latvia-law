@@ -3,7 +3,7 @@
 (2) Uz Biroja priekšnieka amatu Ministru kabinets var izsludināt atklātu konkursu. Par Biroja priekšnieka amata pretendentu var izvirzīt personu, kura atbilst šādām obligātajām prasībām:
 1) ir Latvijas pilsonis;
 2) pārvalda latviešu valodu un vismaz divas svešvalodas;
-3) ieguvusi augstāko juridisko izglītību un uzkrājusi atbilstošu darba pieredzi;
+3) ieguvusi augstāko izglītību un uzkrājusi amatam atbilstošu darba pieredzi;
 4) nav sasniegusi likumā vecuma pensijas saņemšanai noteikto vecumu;
 5) nav sodīta par tīšu noziedzīgu nodarījumu (neatkarīgi no sodāmības noņemšanas vai dzēšanas) vai ir reabilitēta;
 6) atbilst likumā noteiktajām prasībām, lai saņemtu speciālo atļauju pieejai valsts noslēpumam;
