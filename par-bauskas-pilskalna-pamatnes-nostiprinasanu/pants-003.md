@@ -1,0 +1,1 @@
+3.pants. Ja darbība, kas veikta saskaņā ar šā likuma 2.pantā sniegto atzinumu, negatīvi ietekmē Eiropas nozīmes aizsargājamo dabas teritoriju (Natura 2000), Vides ministrija atļauj īstenot darbību, ja nav cita risinājuma, lai sasniegtu izvirzīto mērķi, un tās īstenošana nepieciešama, lai nodrošinātu sevišķi svarīgu sabiedrības interešu ievērošanu.

@@ -1,0 +1,1 @@
+1.pants. Likuma mērķis ir nodrošināt Bauskas pilskalna pamatnes nostiprināšanas ietekmes uz vidi novērtējumu nolūkā saglabāt valsts nozīmes arhitektūras pieminekli - Bauskas pilsdrupas ar parku - un valsts nozīmes arheoloģisko pieminekli - Bauskas viduslaiku pili.

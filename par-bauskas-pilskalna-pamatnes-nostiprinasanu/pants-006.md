@@ -1,0 +1,1 @@
+6.pants. Ietekmes uz vidi novērtējuma valsts birojs nākamajā dienā pēc šā likuma izsludināšanas ievieto savā interneta mājas lapā paziņojumu, ka Bauskas pilskalna pamatnes nostiprināšanas ietekmes uz vidi novērtējumu veic saskaņā ar šo likumu.
