@@ -1,0 +1,1 @@
+8. 1994.gada 29.maijā ievēlētās rajonu pašvaldību padomes turpina pildīt likumos un Ministru kabineta noteikumos paredzētās funkcijas, līdz likumos noteiktajā kārtībā tiek reorganizēta rajona pašvaldība, bet ne vēlāk kā līdz 1997.gada 31.decembrim.

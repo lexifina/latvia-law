@@ -1,5 +1,5 @@
 29. pants. Vēlēšanu telpās ierīkojama atsevišķa istaba vai nodalījums, kur vēlētājs vienatnē ieliek aploksnē vienu vēlēšanu zīmi un aploksni aizlīmē. Vēlēšanu zīmē pretī kandidātu uzvārdiem vēlētājs pēc savas izvēles var izdarīt atzīmi "+", neizdarīt atzīmi vai svītrot kandidāta vārdu un uzvārdu.
 Atzīmi "+" pretī kāda kandidāta uzvārdam vēlētājs izdara, ja viņš īpaši atbalsta šā kandidāta ievēlēšanu. Ja vēlētājs neatbalsta kādu no šajā vēlēšanu zīmē ietvertajiem kandidātiem, viņš svītro kandidāta vārdu un uzvārdu. Ja izsvītrots tikai kandidāta vārds vai uzvārds, uzskatāms, ka vēlētājs šo kandidātu neatbalsta. Vēlētājs var ielikt aploksnē arī negrozītu (bez atzīmēm) vēlēšanu zīmi.
-Aizlīmēto aploksni vēlētājs personiski nodod vienam no vēlēšanu komisijas locekļiem, kurš to vēlētāja klātbūtnē iemet aizzīmogotā vēlēšanu kastē.
-Rajona pilsētās un pagastos vēlētājs vienā aploksnē ieliek divas vēlēšanu zīmes - vienu rajona padomes vēlēšanām, bet otru - pilsētas domes vai pagasta padomes vēlēšanām.
+Aizlīmēto aploksni vēlētājs vēlēšanu komisijas locekļa klātbūtnē personiski iemet aizzīmogotā vēlēšanu kastē.
+(Ceturtā daļa izslēgta ar 06.12.1996. likumu.)
 Ja vēlētājs pirms vēlēšanu zīmes ielikšanas aploksnē un aizlīmēšanas šo zīmi vai vēlēšanu aploksni ir sabojājis, to vietā viņam tiek izsniegta jauna vēlēšanu aploksne vai jaunas visu vēlēšanu apgabalā pieteikto kandidātu sarakstu vēlēšanu zīmes.

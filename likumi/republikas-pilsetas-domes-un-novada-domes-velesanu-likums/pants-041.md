@@ -1,4 +1,4 @@
-41. pants. Pilsētas, rajona un pagasta vēlēšanu komisijas vēlēšanu rezultātus aprēķina pēc protokoliem, ko tās saņēmušas no vēlēšanu iecirkņu komisijām.
+41. pants. Pilsētas un pagasta vēlēšanu komisijas vēlēšanu rezultātus aprēķina pēc protokoliem, ko tās saņēmušas no vēlēšanu iecirkņu komisijām.
 Lai sadalītu domes (padomes) deputātu vietas starp kandidātu sarakstiem, piemēro šādu kārtību:
 1) nosaka par katru kandidātu sarakstu nodoto derīgo vēlēšanu zīmju skaitu;
 2) par katru kandidātu sarakstu nodoto vēlēšanu zīmju skaitu dala secīgi ar 1, 3, 5, 7 un tā tālāk, līdz dalījumu skaits ir vienāds ar kandidātu sarakstā pieteikto kandidātu skaitu;

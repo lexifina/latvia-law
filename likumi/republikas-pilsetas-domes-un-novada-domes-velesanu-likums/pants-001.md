@@ -1,1 +1,1 @@
-1. pants. Pilsētas domi, rajona padomi un pagasta padomi [turpmāk - domi (padomi)] ievēlē vienlīdzīgās, tiešās, aizklātās un proporcionālās vēlēšanās uz četriem gadiem. Domes (padomes) kārtējās vēlēšanas notiek marta otrajā svētdienā.
+1. pants. Pilsētas domi un pagasta padomi [turpmāk - domi (padomi)] ievēlē vienlīdzīgās, tiešās, aizklātās un proporcionālās vēlēšanās uz četriem gadiem. Domes (padomes) kārtējās vēlēšanas notiek marta otrajā svētdienā.

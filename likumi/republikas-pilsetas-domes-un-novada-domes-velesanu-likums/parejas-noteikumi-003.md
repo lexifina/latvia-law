@@ -1,1 +1,1 @@
-3. Pārbaude attiecībā uz to, vai persona, kura tiek pieteikta par deputāta kandidātu, nav pārkāpusi šā likuma 9. panta 4. punkta prasības, veicama kārtībā, kāda noteikta likumā par bijušās PSRS Valsts drošības komitejas dokumentu saglabāšanu, izmantošanu un sadarbības fakta konstatēšanu.
+3. Pārbaude attiecībā uz to, vai persona, kura tiek pieteikta par deputāta kandidātu, nav pārkāpusi šā likuma 9. panta 6. punkta prasības, veicama kārtībā, kāda noteikta likumā par bijušās PSRS Valsts drošības komitejas dokumentu saglabāšanu, izmantošanu un sadarbības fakta konstatēšanu.
