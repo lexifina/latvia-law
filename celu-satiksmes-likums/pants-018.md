@@ -1,6 +1,7 @@
-18.pants. Transportlīdzekļu ekspluatācijas aizliegums
-(1) Ceļu satiksmes drošības direkcija un valsts policija ir tiesīga aizliegt transportlīdzekļu ekspluatāciju šādos gadījumos:
-1) ja to tehniskais stāvoklis neatbilst Latvijas Republikā obligāto standartu un Ceļu satiksmes noteikumu prasībām attiecībā uz transportlīdzekļu ekspluatāciju;
-2) ja transportlīdzekļa reģistrācijas dokumentos norādītie uzskaites tehniskie dati vai dati par īpašnieku (valdītāju) neatbilst faktiskajam stāvoklim;
-3) ja transportlīdzeklim nav kaut vienas no paredzētajām valsts reģistrācijas numura zīmēm vai tās (tā) neatbilst ierakstiem reģistrācijas dokumentos.
-(2) Traktortehnikas ekspluatāciju šā panta pirmajā daļā minētajos gadījumos ir tiesīga aizliegt arī Valsts tehniskās uzraudzības inspekcija.
+18.pants. Aizliegums piedalīties ceļu satiksmē
+Ar transportlīdzekli aizliegts piedalīties ceļu satiksmē, kā arī iebraukt Latvijā šādos gadījumos:
+1) transportlīdzeklim ir normatīvajos aktos noteiktie bojājumi, kuru dēļ tas nedrīkst braukt;
+2) nav saņemta atļauja piedalīties ceļu satiksmē, arī ja nav veikta transportlīdzekļa īpašnieka civiltiesiskās atbildības obligātā apdrošināšana;
+3) tiek pārvadāta neatļauta bīstamā krava vai ir bīstamās kravas noplūde;
+4) transportlīdzekļa (transportlīdzekļu sastāva) gabarīti ar kravu vai bez tās, faktiskā masa vai ass slodze pārsniedz Ceļu satiksmes noteikumos paredzētos lielumus un nav attiecīgās atļaujas braukšanai pa ceļu;
+5) pārkāptas Ceļu satiksmes noteikumos reglamentētās kravas novietošanas un nostiprināšanas prasības.

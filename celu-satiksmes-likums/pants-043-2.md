@@ -1,0 +1,4 @@
+43.² pants. Īpatnības administratīvajā procesā sakarā ar apstāšanās vai stāvēšanas noteikumu pārkāpšanu
+(1) Ja pārkāpti apstāšanās vai stāvēšanas noteikumi, bet transportlīdzekļa vadītājs neatrodas pārkāpuma izdarīšanas vietā, personas, kuras ir tiesīgas sastādīt administratīvā pārkāpuma protokolu un uzlikt sodu, sastāda protokolu - paziņojumu, kura formu un saturu nosaka Ministru kabinets.
+(2) Ja par apstāšanās vai stāvēšanas noteikumu pārkāpšanu uzliktais administratīvais sods nav samaksāts likumā noteiktajā termiņā, naudas sods piedzenams no transportlīdzekļa īpašnieka (valdītāja), izņemot gadījumu, kad pārkāpuma izdarīšanas brīdī transportlīdzeklis nav atradies īpašnieka (valdītāja) valdījumā citas personas prettiesisku darbību dēļ.
+(3) Kārtību, kādā noformējams protokols - paziņojums par uzlikto naudas sodu un nosūtāma informācija transportlīdzekļa īpašniekam (valdītājam, turētājam), kā arī naudas soda iekasēšanas un kontroles kārtību nosaka Ministru kabinets.

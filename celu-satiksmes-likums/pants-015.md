@@ -1,4 +1,7 @@
-15.pants. Transportlīdzekļu konstrukcija un pārbūve
-(1) Par jaunbūvējamo transportlīdzekļu konstrukcijas projekta normatīvtehniskās dokumentācijas atbilstību satiksmes drošības prasībām visos gadījumos jāsaņem attiecīgs Ceļu satiksmes drošības direkcijas vai Ceļu satiksmes drošības direkcijā šim nolūkam akreditētas personas atzinums.
-(2) Šāds atzinums jāsaņem arī par transportlīdzekļu pārbūves projektiem un par pārbūvētiem transportlīdzekļiem.
-(3) Par pārbūvēto traktortehniku jāsaņem Valsts tehniskās uzraudzības inspekcijas atzinums.
+15.pants. Transportlīdzekļu izgatavošana un pārbūve
+(1) Transportlīdzekļus Latvijā var izgatavot noteiktā kārtībā reģistrēta komercsabiedrība (uzņēmējsabiedrība), kurai ir izstrādāta, saskaņota un reģistrēta jaunbūvējamo transportlīdzekļu konstrukcijas normatīvtehniskā dokumentācija un kurai ir piešķirts starptautiskais izgatavotāja identifikācijas kods.
+(2) Jaunbūvējamo mehānisko transportlīdzekļu (izņemot traktortehniku), to piekabju un mopēdu konstrukcijas normatīvtehnisko dokumentāciju saskaņo un starptautisko izgatavotāja identifikācijas kodu piešķir Ceļu satiksmes drošības direkcija Ministru kabineta noteiktajā kārtībā.
+(3) Par transportlīdzekļu pārbūvi tiek uzskatīta transportlīdzekļu agregātu, mezglu, sistēmu, iekārtu uzstādīšana, pārveidošana, nomaiņa vai demontāža, kuras rezultātā mainās transportlīdzekļa uzskaites tehniskie dati vai galvenie konstruktīvie parametri.
+(4) Par pārbūvēto mehānisko transportlīdzekļu (izņemot traktortehniku), to piekabju un mopēdu pārbūves tehnisko projektu vai individuāli pārbūvēto mehānisko transportlīdzekļu (izņemot traktortehniku), to piekabju un mopēdu atbilstību satiksmes drošības un tehnisko normatīvu prasībām jāsaņem attiecīgs Ceļu satiksmes drošības direkcijas vai Ceļu satiksmes drošības direkcijā šim nolūkam akreditētas personas atzinums.
+(5) Par pārbūvētās traktortehnikas atbilstību satiksmes drošības un tehnisko normatīvu prasībām jāsaņem attiecīgs Valsts tehniskās uzraudzības inspekcijas atzinums.
+(6) Transportlīdzekļu pārbūves veikšanas kārtību, prasības attiecībā uz transportlīdzekļu konstrukciju un aprīkojumu pēc pārbūves, kā arī kārtību, kādā saņemams atzinums par pārbūvētā transportlīdzekļa atbilstību satiksmes drošības un tehnisko normatīvu prasībām, nosaka Ministru kabinets.

@@ -1,0 +1,8 @@
+14.¹ pants. Transportlīdzekļu un to vadītāju valsts reģistra informācijas pieejamība
+(1) Informācija par juridiskajai personai piederošu transportlīdzekli un informācija par personas tiesībām vadīt transportlīdzekļus ir pieejama ikvienam, ja to neierobežo citi likumi.
+(2) Informāciju par fiziskajai personai piederošu transportlīdzekli var iegūt tiesībaizsardzības iestādes, valsts un pašvaldību iestādes, ja šādas tiesības attiecīgajām iestādēm paredz likums, kā arī Ministru kabineta noteiktas personas, kurām informācija nepieciešama dienesta funkciju veikšanai.
+(3) Ceļu satiksmes drošības direkcija reģistrē personas, kas ieguvušas informāciju par transportlīdzekļa piederību un personas tiesībām vadīt transportlīdzekļus.
+(4) Transportlīdzekļa īpašniekam, kā arī transportlīdzekļa vadītājam ir tiesības iegūt ziņas par personām, kuras noteiktā periodā no Ceļu satiksmes drošības direkcijas saņēmušas ziņas par viņu, izņemot ziņas par valsts institūcijām, kuras ir kriminālprocesa virzītāji, operatīvās darbības subjekti, vai citām institūcijām, par kurām šādas ziņas izpaust likums aizliedz.
+(5) Informācijas saņēmējs ir atbildīgs par to, ka šī informācija tiek izmantota tikai viņa dienesta funkciju veikšanai, un nav tiesīgs to nodot trešajām personām.
+(6) Sniedzot statistiskās ziņas vai citas vispārīga rakstura ziņas, Ceļu satiksmes drošības direkcija nodrošina, ka konkrēto transportlīdzekļa īpašnieku nav iespējams identificēt.
+(7) Kārtību, kādā transportlīdzekļu un to vadītāju valsts reģistrā esošā informācija pieprasāma un nododama atklātībai, kā arī pieejamās informācijas apjomu nosaka Ministru kabinets.

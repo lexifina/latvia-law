@@ -1,2 +1,10 @@
-30.pants. Transportlīdzekļu vadītāja apliecības aizturēšana uz laiku
-Ja transportlīdzekļa vadītājs izdarījis šā likuma vai citu ceļu satiksmes drošību reglamentējošu normatīvo aktu pārkāpumu, par kuru saskaņā ar likumu var piemērot administratīvo sodu - transportlīdzekļa vadītāja tiesību atņemšanu vai saukt pie kriminālatbildības, Ministru kabineta noteikta Valsts policijas amatpersona ir tiesīga Ministru kabineta noteiktajā kārtībā uz laiku aizturēt transportlīdzekļu vadītāja apliecību un izsniegt viņam transportlīdzekļa vadīšanas pagaidu atļauju.
+30.pants. Transportlīdzekļu vadīšanas tiesību izmantošanas aizliegums
+(1) Transportlīdzekļu vadīšanas tiesību izmantošanas aizliegumu nosaka Valsts policijas amatpersona transportlīdzekļa vadītājam, kurš alkohola reibumā, narkotisko vai citu apreibinošu vielu iespaidā ir izdarījis noziedzīgu nodarījumu pret ceļu satiksmes drošību, par kuru var saukt pie kriminālatbildības, vai izdarījis pārkāpumu, par kuru paredzēta transportlīdzekļu vadīšanas tiesību atņemšana. Šādā gadījumā transportlīdzekļa vadītājam ir aizliegts izmantot transportlīdzekļu vadīšanas tiesības un viņa transportlīdzekļa vadītāja apliecība aizturama līdz laikam, kad Valsts policijas amatpersona vai procesa virzītājs krimināllietā pieņem attiecīgu lēmumu.
+(2) Transportlīdzekļu vadīšanas tiesības nedrīkst izmantot, ja:
+1) beidzies transportlīdzekļa vadītāja apliecības derīguma termiņš, - līdz jaunas apliecības saņemšanai;
+2) mainījies transportlīdzekļa vadītāja vārds, uzvārds vai personas kods un 30 dienu laikā transportlīdzekļa vadītāja apliecība nav apmainīta, - līdz jaunas apliecības saņemšanai;
+3) par Ceļu satiksmes noteikumu pārkāpumu uzliktais naudas sods nav samaksāts gada laikā no soda uzlikšanas dienas, - līdz naudas soda samaksai;
+4) transportlīdzekļa vadītājs nav normatīvajos aktos noteiktajā termiņā veicis kārtējo veselības pārbaudi vai veselības pirmstermiņa pārbaudi, - līdz veselības pārbaudei;
+5) pārkāpumu uzskaites punktu sistēmas ietvaros transportlīdzekļa vadītājam ir piemērots ietekmēšanas līdzeklis - transportlīdzekļu vadīšanas tiesību izmantošanas aizliegums uz vienu gadu.
+(3) Par transportlīdzekļu vadīšanas tiesību izmantošanas aizliegumu izdara attiecīgu ierakstu transportlīdzekļu un to vadītāju valsts reģistrā, kā arī traktortehnikas un tās vadītāju informatīvajā sistēmā.
+(4) Ja transportlīdzekļa vadītājs pārkāpj noteikto vadīšanas tiesību izmantošanas aizliegumu, viņa transportlīdzekļa vadītāja apliecība tiek aizturēta.

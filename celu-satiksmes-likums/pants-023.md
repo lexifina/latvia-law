@@ -1,5 +1,5 @@
-23.pants. Transportlīdzekļu vadītāja apliecību kategorijas, kuras dod tiesības vadīt attiecīgus mehāniskos transportlīdzekļus
-(1) Tiesības vadīt attiecīgus transportlīdzekļus dod atbilstošas kategorijas transportlīdzekļu vadītāja apliecība.
+23.pants. Transportlīdzekļu vadītāja apliecību kategorijas, kuras dod tiesības vadīt attiecīgus transportlīdzekļus
+(1) (Izslēgta ar 08.07.2003. likumu.)
 (2) Vadītāja apliecību kategorijām atbilstošie transportlīdzekļi:
 1) A1 - motocikli bez blakusvāģa, kuru motora darba tilpums nepārsniedz 125 kubikcentimetrus un jauda nepārsniedz 11 kilovatus (15 zirgspēkus);
 2) A2 - motocikli, kuru motora jauda nepārsniedz 25 kilovatus (34 zirgspēkus) vai 0,16 kilovatus uz kilogramu (0,22 zirgspēkus uz kilogramu);
@@ -16,11 +16,14 @@
 13) D1E - D1 kategorijas vilcēja savienojums ar piekabi, kuras pilna masa pārsniedz 750 kilogramus, ja šāda savienojuma pilna masa nepārsniedz 12 000 kilogramus un piekabes pilna masa nepārsniedz vilcēja pašmasu;
 14) DE - D kategorijas vilcēja savienojums ar piekabi, kuras pilna masa pārsniedz 750 kilogramus;
 15) TRAM - tramvaji;
-16) TROL - trolejbusi.
-(3) Traktortehnikas vadītāja apliecību kategorijām atbilstoša traktortehnika:
+16) TROL - trolejbusi;
+17) M - mopēdi.
+(3) Transportlīdzekļa vadītājam, kuram ir tiesības vadīt vismaz vienas kategorijas mehānisko transportlīdzekli, tramvaju vai trolejbusu, atļauts vadīt arī M kategorijas transportlīdzekļus.
+(4) Transportlīdzekļa vadītājam, kuram ir tiesības vadīt B, C1, D1, C vai D kategorijas transportlīdzekļus, atļauts vadīt arī A1 un B1 kategorijas transportlīdzekļus.
+(5) Traktortehnikas vadītāja apliecību kategorijām atbilstoša traktortehnika:
 1) A - riteņtraktori ar motora jaudu līdz 150 zirgspēkiem;
 2) B - visi riteņtraktori;
 3) C - visi kāpurķēžu traktori;
 4) D - graudaugu, tehnisko kultūru un zāles novākšanas kompleksa pašgājējmašīnas;
 5) E - autogreideri.
-(4) Speciālās traktortehnikas vadītāja apliecībās ieraksta tās traktortehnikas (meliorācijas, meža izstrādes un kopšanas mašīnas, ekskavatori, buldozeri, cauruļu licējmašīnas u.c.) nosaukumu, kuras vadīšanā reflektants nolicis eksāmenu.
+(6) Speciālās traktortehnikas vadītāja apliecībās ieraksta tās traktortehnikas (meliorācijas, meža izstrādes un kopšanas mašīnas, ekskavatori, buldozeri, cauruļu licējmašīnas u.c.) nosaukumu, kuras vadīšanā reflektants nolicis eksāmenu.
