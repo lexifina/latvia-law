@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Par reglamentētajām profesijām un profesionālās kvalifikācijas atzīšanu",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "105",
+  "official_journal_page": null,
+  "official_journal_date": "2001-07-06",
+  "entry_into_force": "2001-07-20",
+  "notification_date": "2008-01-09",
+  "commission_reference": "MNE(2008)50227",
+  "nim_celex": "72005L0036LVA_152558",
+  "nim_id": "152558",
+  "transposes_celex": [
+    "32005L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/593767d9-cbbf-47b8-be31-17ffa419a30d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
