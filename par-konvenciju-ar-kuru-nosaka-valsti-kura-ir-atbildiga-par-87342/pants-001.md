@@ -1,0 +1,1 @@
+1.pants. 1990.gada 15.jūnija Konvencija, ar kuru nosaka valsti, kura ir atbildīga par vienā no Eiropas Kopienu dalībvalstīm iesniegta patvēruma pieteikuma izskatīšanu (turpmāk - Konvencija), ar šo likumu tiek pieņemta un apstiprināta.
