@@ -1,0 +1,1 @@
+3. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2004.gada 1.jūnijam piemērojami Ministru kabineta 2001.gada 28.augusta noteikumi Nr.385 "Lauksaimniecībā izmantojamās zemes transformācijas nosacījumi un zemes transformācijas atļauju izsniegšanas kārtība", ciktāl tie nav pretrunā ar šo likumu.

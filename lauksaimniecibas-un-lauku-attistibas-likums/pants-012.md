@@ -1,0 +1,4 @@
+12.pants. Sadarbība ar lauksaimniecības un zivsaimniecības organizācijām
+(1) Zemkopības ministrija, izstrādājot un īstenojot lauksaimniecības un lauku attīstības politiku, konsultējas ar Lauksaimniecības organizāciju sadarbības padomi, bet attiecībā uz zivsaimniecības attīstības politiku - ar Zivsaimniecības konsultatīvo padomi.
+(2) Lauksaimniecības organizāciju sadarbības padome ir konsultatīva institūcija. Tā pati apstiprina savu nolikumu, kurā ir noteikti Lauksaimniecības organizāciju sadarbības padomes mērķi un galvenie uzdevumi.
+(3) Zivsaimniecības konsultatīvā padome ir konsultatīva un koordinējoša institūcija, kuras mērķis ir veidot līdzsvarotu zivsaimniecības attīstības politiku un saskaņot valsts un nevalstisko organizāciju viedokļus par zivsaimniecības politikas īstenošanu. Zivsaimniecības konsultatīvās padomes sastāvā ir valsts un zivsaimniecības organizāciju pārstāvji. Zivsaimniecības konsultatīvās padomes nolikumu apstiprina Ministru kabinets.

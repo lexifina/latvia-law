@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Lauksaimniecības likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 23.nr.; 2001, 7.nr.; 2002, 2., 24.nr.; 2004, 4.nr.) un Saeimas 1998.gada 15.jūnija paziņojums par Latvijas lauku attīstības programmu (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1998, 13.nr.).

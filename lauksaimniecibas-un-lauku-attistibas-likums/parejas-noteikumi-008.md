@@ -1,0 +1,1 @@
+8. Līdz 2004.gada 1.oktobrim ir derīgi bioloģiskās lauksaimniecības sertifikāti, kas izdoti saskaņā ar Ministru kabineta 2002.gada 26.novembra noteikumiem Nr.514 "Bioloģiskās lauksaimniecības produktu aprites un sertifikācijas kārtība".
