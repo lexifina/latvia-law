@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2004. gada 23. novembra noteikumi Nr. 962 \"Valsts vides dienesta nolikums\".",
+  "type_of_act": "Ministra noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "189",
+  "official_journal_page": null,
+  "official_journal_date": "2004-11-29",
+  "entry_into_force": "2004-12-31",
+  "notification_date": "2021-06-29",
+  "commission_reference": "MNE(2021)04592",
+  "nim_celex": "72011L0070LVA_202104592",
+  "nim_id": "202104592",
+  "transposes_celex": [
+    "32011L0070"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/564ef899-7800-4380-ad98-0a4574814458",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
