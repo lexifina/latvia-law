@@ -1,0 +1,1 @@
+11.³ Ja personām, kuras dienējušas Latvijas policijā vai Latvijas Robežsargu brigādē un kuru dienestu pārtraukusi Latvijas iekļaušana PSRS sastāvā, nav piešķirta izdienas pensija, tām Ministru kabineta noteiktajā kārtībā un apmērā piešķir speciālu piemaksu valsts vecuma pensijai.
