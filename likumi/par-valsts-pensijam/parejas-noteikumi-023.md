@@ -1,0 +1,1 @@
+23. Ja tiek iegūtas tiesības uz pensijas palielināšanu sakarā ar apdrošināšanas iemaksu papildināšanu par periodu pirms pensijas piešķiršanas (pārrēķināšanas), pensija pārrēķināma ar tās piešķiršanas (pārrēķināšanas) dienu. Pensijas pārrēķins izdarāms ne biežāk kā vienu reizi pusgadā.

@@ -1,0 +1,1 @@
+28. Latvijas Republikas pilsoņi, kuri līdz 1999.gada 1.septembrim izbraukuši uz pastāvīgu dzīvi ārvalstīs, turpina saņemt Latvijas Republikā piešķirto valsts pensiju.
