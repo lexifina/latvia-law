@@ -1,0 +1,1 @@
+7. Ministru kabinets līdz 2005. gada 1. jūnijam izvērtē VDK štata un ārštata darbiniekiem, kā arī VDK informatoriem likumos noteikto ierobežojumu nepieciešamību un pamatotību. Šajos likumos noteikto ierobežojumu izvērtējumu Ministru kabinets iesniedz Saeimai.
