@@ -1,0 +1,2 @@
+33.pants. (1) Tiesnesis vai administratīvā komisija pēc tās personas priekšlikuma, kura uzrauga lēmuma par audzinoša rakstura piespiedu līdzekļu piemērošanu bērnam izpildi, var pieņemt lēmumu par audzinoša rakstura piespiedu līdzekļa piemērošanas ilguma samazināšanu vai palielināšanu šajā likumā noteiktā termiņa ietvaros.
+(2) Ja bērns apzināti izvairās no lēmuma par audzinoša rakstura piespiedu līdzekļa piemērošanu izpildes, tiesnesis vai administratīvā komisija var aizstāt piemēroto audzinoša rakstura piespiedu līdzekli ar stingrāku piespiedu līdzekli.

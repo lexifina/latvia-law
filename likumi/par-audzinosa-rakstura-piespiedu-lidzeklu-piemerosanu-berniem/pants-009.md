@@ -1,0 +1,2 @@
+9.pants. (1) Piemērot audzinoša rakstura piespiedu līdzekli - pienākumu ar savu darbu novērst radītā kaitējuma sekas - var, ja bērns sasniedzis 15 gadu vecumu un ja darbs nav saistīts ar paaugstinātu risku viņa drošībai, veselībai, tikumībai un attīstībai.
+(2) Bērnam, kas nav sasniedzis 15 gadu vecumu, var uzlikt par pienākumu ar savu darbu novērst radītā kaitējuma sekas, ja tās ir novēršamas ar darbu, kurā atļauts nodarbināt šāda vecuma bērnus.

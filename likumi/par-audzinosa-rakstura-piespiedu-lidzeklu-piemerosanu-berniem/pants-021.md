@@ -1,0 +1,4 @@
+21.pants. (1) Tiesas sēdē obligāti piedalās prokurors, bērns, viens no viņa vecākiem (aizbildnis) vai bāriņtiesas pārstāvis, advokāts, bērnu tiesību aizsardzības institūcijas speciālists un policijas inspektors.
+(2) Administratīvās komisijas sēdē obligāti piedalās bērns, viens no viņa vecākiem (aizbildnis) vai bāriņtiesas pārstāvis, bērnu tiesību aizsardzības institūcijas speciālists un policijas inspektors.
+(3) Administratīvā komisija, ja nepieciešams, uz sēdi uzaicina bāriņtiesas (pagasttiesas), izglītības iestādes, sociālās palīdzības iestādes vai ārstniecības iestādes pārstāvi un uzklausa viņa viedokli par piemērojamo audzinoša rakstura piespiedu līdzekli.
+(4) Šajā pantā minētajām personām līdz tiesas sēdei un administratīvās komisijas sēdei ir tiesības iepazīties ar lietu par audzinoša rakstura piespiedu līdzekļu piemērošanu bērnam, pieteikt lūgumus, kā arī iesniegt papildinājumus.

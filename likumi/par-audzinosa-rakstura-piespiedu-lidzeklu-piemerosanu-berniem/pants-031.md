@@ -1,0 +1,1 @@
+31.pants. Persona, kura uzrauga lēmuma par audzinoša rakstura piespiedu līdzekļu piemērošanu bērnam izpildi, iekārto katram bērnam atbilstošu lietu, kuru regulāri papildina ar ziņām par audzinoša rakstura piespiedu līdzekļa piemērošanas rezultātiem.

@@ -1,0 +1,2 @@
+14.pants. (1) Tiesa (tiesnesis) vai administratīvā komisija ar bērna un viņa vecāku (aizbildņa) vai bāriņtiesas piekrišanu var uzlikt bērnam par pienākumu ārstēties no alkohola, narkotisko, psihotropo vai toksisko vielu vai citādas atkarības, ja tā bijusi par pamatu nodarījuma vai pārkāpuma izdarīšanai. Ievietojot bērnu sociālās korekcijas izglītības iestādē, viņam obligāti nodrošināma ārstēšana no alkohola, narkotisko, psihotropo vai toksisko vielu vai citādas atkarības.
+(2) Obligātā ārstēšana veicama Ministru kabineta noteiktajā kārtībā.

@@ -1,0 +1,1 @@
+8.pants. Piemērojot audzinoša rakstura piespiedu līdzekļus, ņem vērā nodarījuma un pārkāpuma motīvus, raksturu un cēloņus, bērna vecumu un dzīves apstākļus, viņa līdzdalības pakāpi nodarījumā, kā arī uzvedību izglītības iestādē vai darbavietā un sadzīvē.

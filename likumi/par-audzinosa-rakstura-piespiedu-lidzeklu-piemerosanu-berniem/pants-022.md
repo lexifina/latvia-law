@@ -1,0 +1,1 @@
+22.pants. Uz tiesas sēdi vai administratīvās komisijas sēdi tiesnesis vai administratīvā komisija drīkst uzaicināt arī personas, kuras var sniegt ziņas par bērnu un viņa izdarīto nodarījumu vai pārkāpumu, lai noklausītos šo personu paskaidrojumus.
