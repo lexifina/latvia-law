@@ -1,3 +1,3 @@
 II nodaļa
 Rēzeknes speciālās ekonomiskās zonas
-pārvaldīšanas uzņēmējsabiedrība
+pārvaldīšanas akciju sabiedrība

@@ -1,1 +1,1 @@
-2.pants. Šis likums nosaka Rēzeknes speciālās ekonomiskās zonas pārvaldīšanas un izmantošanas kārtību, kā arī uzņēmējdarbības un ieguldījumu veikšanas īpatnības, rīcību ar nekustamo īpašumu un ārvalstnieku darba īpatnības Rēzeknes speciālajā ekonomiskajā zonā.
+2.pants. Šis likums nosaka Rēzeknes speciālās ekonomiskās zonas pārvaldīšanas un izmantošanas kārtību, komercdarbības un ieguldījumu veikšanas īpatnības, kā arī rīcību ar nekustamo īpašumu Rēzeknes speciālajā ekonomiskajā zonā.

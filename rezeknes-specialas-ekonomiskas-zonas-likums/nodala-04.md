@@ -1,3 +1,3 @@
 IV nodaļa
-Ieguldījumi un uzņēmējdarbība
+Ieguldījumi un komercdarbība
 Rēzeknes speciālās ekonomiskās zonas teritorijā

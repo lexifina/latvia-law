@@ -1,3 +1,0 @@
-11.pants. (1) Rēzeknes speciālās ekonomiskās zonas pārvaldīšanas uzņēmējsabiedrības valde ir Rēzeknes speciālās ekonomiskās zonas pārvaldīšanas uzņēmējsabiedrības izpildu un pārstāvības institūcija.
-(2) Rēzeknes speciālās ekonomiskās zonas pārvaldīšanas uzņēmējsabiedrības valdes locekļus amatā ievēlē Rēzeknes speciālās ekonomiskās zonas pārvaldīšanas uzņēmējsabiedrības akcionāru pilnsapulce.
-(3) Rēzeknes speciālās ekonomiskās zonas pārvaldīšanas uzņēmējsabiedrības valdes un tās amatpersonu tiesības un pienākumus nosaka Rēzeknes speciālās ekonomiskās zonas pārvaldīšanas uzņēmējsabiedrības statūti.

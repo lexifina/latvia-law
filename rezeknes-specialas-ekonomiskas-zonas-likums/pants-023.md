@@ -1,4 +1,4 @@
-23.pants. Lai veiktu uzņēmējdarbību, Rēzeknes speciālās ekonomiskās zonas uzņēmējsabiedrībai:
-1) jānoslēdz līgums ar Rēzeknes speciālās ekonomiskās zonas pārvaldīšanas uzņēmējsabiedrību;
-2) jāsaņem likumos un normatīvajos aktos noteiktajā kārtībā no citām kompetentām iestādēm nepieciešamās atļaujas attiecīgajam uzņēmējdarbības veidam, ja šādas atļaujas nepieciešamība ir noteikta likumos un normatīvajos aktos;
-3) jāsaņem atļauja uzņēmējdarbības veikšanai Rēzeknes speciālās ekonomiskās zonas teritorijā.
+23.pants. Lai veiktu komercdarbību, Rēzeknes speciālās ekonomiskās zonas komersantam:
+1) jānoslēdz līgums ar Rēzeknes speciālās ekonomiskās zonas pārvaldīšanas akciju sabiedrību;
+2) (izslēgts ar 27.01.2005. likumu);
+3) jāsaņem atļauja komercdarbības veikšanai Rēzeknes speciālās ekonomiskās zonas teritorijā.

@@ -1,1 +1,1 @@
-45.pants. Zemi un citus nekustamos īpašumus, kas atrodas Rēzeknes speciālajā ekonomiskajā zonā un pieder fiziskajām vai juridiskajām personām, izņemot Rēzeknes speciālās ekonomiskās zonas uzņēmējsabiedrības, var iznomāt un atsavināt vispārējā kārtībā.
+45.pants. Zemi un citus nekustamos īpašumus, kas atrodas Rēzeknes speciālajā ekonomiskajā zonā un pieder fiziskajām vai juridiskajām personām, izņemot Rēzeknes speciālās ekonomiskās zonas komersantus, var iznomāt un atsavināt vispārējā kārtībā.

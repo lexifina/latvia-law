@@ -1,3 +1,3 @@
-9.pants. (1) Rēzeknes speciālās ekonomiskās zonas pārvaldīšanas uzņēmējsabiedrības padomes locekļus pēc Rēzeknes speciālās ekonomiskās zonas pārvaldīšanas uzņēmējsabiedrības akcionāru pilnsapulces priekšlikuma uz pieciem gadiem ieceļ Ministru kabinets.
-(2) Rēzeknes speciālās ekonomiskās zonas pārvaldīšanas uzņēmējsabiedrības padomes sastāvā iekļaujami četri valsts interešu pārstāvji, kas deleģēti no Ekonomikas ministrijas, Finansu ministrijas, Satiksmes ministrijas un Vides aizsardzības un reģionālās attīstības ministrijas, trīs Rēzeknes pilsētas domes deleģēti pārstāvji, pa vienam pārstāvim no Griškānu pagasta un Vērēmu pagasta un četri Rēzeknes speciālās ekonomiskās zonas uzņēmējsabiedrību pārstāvji.
-(3) Rēzeknes speciālās ekonomiskās zonas pārvaldīšanas uzņēmējsabiedrības padomi vada padomes priekšsēdētājs, kuru no sava vidus ievēlē padomes locekļi.
+9.pants. (1) (Izslēgta ar 27.01.2005. likumu.)
+(2) Rēzeknes speciālās ekonomiskās zonas pārvaldīšanas akciju sabiedrības padomes sastāvā iekļauj pa vienam pārstāvim no Rēzeknes pilsētas domes, Griškānu pagasta padomes un Vērēmu pagasta padomes un divus Rēzeknes speciālās ekonomiskās zonas komersantu deleģētus pārstāvjus.
+(3) (Izslēgta ar 27.01.2005. likumu.)

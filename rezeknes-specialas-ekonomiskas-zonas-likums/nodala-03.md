@@ -1,3 +1,3 @@
 III nodaļa
 Rēzeknes speciālās ekonomiskās zonas
-uzņēmējdarbības atbalsta fonds
+komercdarbības atbalsta fonds
