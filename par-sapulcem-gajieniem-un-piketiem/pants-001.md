@@ -1,4 +1,4 @@
-1.pants. (1) Valsts garantētās miermīlīgās pulcēšanās brīvības izpausmes ir sapulces, gājieni un piketi.
+1.pants. (1) Valsts garantētās un aizsargātās miermīlīgās pulcēšanās brīvības izpausmes ir sapulces, gājieni un piketi.
 (2) Sapulce ir organizēta pulcēšanās nolūkā tikties ar cilvēkiem un izteikt kādas idejas un viedokļus. Sanāksme, mītiņš vai citāda tamlīdzīga pulcēšanās šā likuma izpratnē pielīdzināma sapulcei.
 (3) Gājiens ir organizēta pārvietošanās pa ceļiem, ielām, laukumiem, ietvēm vai citām satiksmei izbūvētām teritorijām nolūkā izteikt kādas idejas un viedokļus. Demonstrācija, procesija vai citāda tamlīdzīga pārvietošanās šā likuma izpratnē pielīdzināma gājienam.
 (4) Pikets ir pasākums, kura laikā viens vai vairāki cilvēki publiskā vietā ar plakātiem, lozungiem vai transparentiem pauž kādas idejas un viedokļus, bet kura gaitā netiek teiktas runas.
