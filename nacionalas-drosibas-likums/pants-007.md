@@ -1,10 +1,10 @@
 7.pants. Saeimas Nacionālās drošības komisijas kompetence
-(1) Saeimas Nacionālās drošības komisijā ievēlē tikai tos deputātus, kuri ir saņēmuši pirmās kategorijas speciālo atļauju pieejai valsts noslēpumam.
+(1) Saeimas Nacionālās drošības komisijā ievēlētajiem deputātiem darbam šajā komisijā nepieciešama pirmās kategorijas speciālā atļauja pieejai valsts noslēpumam. Ja komisijā ievēlēts deputāts, kuram nav šādas atļaujas, viņš drīkst piedalīties komisijas sēdēs tikai pēc minētās speciālās atļaujas saņemšanas.
 (2) Saeimas Nacionālās drošības komisija:
-1) nosaka valsts drošības iestāžu pamatstruktūru un apjomu;
+1) (izslēgts ar 07.04.2004. likumu);
 2) izvērtē un akceptē valsts drošības iestāžu budžetu projektus;
 3) veic valsts drošības iestāžu darbības un budžeta līdzekļu izlietošanas parlamentāro kontroli;
-4) noklausās valsts drošības iestāžu ziņojumus un pārskatus, izskata šo iestāžu darbības pārbaudes rezultātus;
-5) izvērtē un akceptē Satversmes aizsardzības biroja iesniegtos priekšlikumus par tā struktūru, amatiem un darba samaksu;
-6) apstiprina Satversmes aizsardzības biroja nolikumu;
+4) noklausās Ministru kabineta un valsts drošības iestāžu vadītāju ziņojumus par valsts drošības iestāžu darbību, kā arī izskata šo iestāžu darbības pārbaudes rezultātus;
+5) (izslēgts ar 07.04.2004. likumu);
+6) (izslēgts ar 07.04.2004. likumu);
 7) izskata priekšlikumus par Satversmes aizsardzības biroja direktora iecelšanu amatā un atbrīvošanu no amata.

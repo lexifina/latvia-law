@@ -8,6 +8,7 @@
 6) aizsardzības ministrs;
 7) ārlietu ministrs;
 8) iekšlietu ministrs;
-9) Satversmes aizsardzības biroja direktors.
+9) (izslēgts ar 07.04.2004. likumu).
 (2) Ģenerālprokuroram ir tiesības piedalīties Nacionālās drošības padomes sēdēs.
+(2¹) Ar padomdevēja tiesībām uz Nacionālās drošības padomes sēdi var uzaicināt valsts drošības iestāžu vadītājus un Informācijas analīzes dienesta vadītāju.
 (3) Nacionālās drošības padomes un tās sekretariāta darbību nodrošina Valsts prezidenta kanceleja.
