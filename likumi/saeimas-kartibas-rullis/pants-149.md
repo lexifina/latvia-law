@@ -13,5 +13,6 @@
 12) Pieprasījumu komisija;
 13) Revīzijas komisija;
 14) Saimnieciskā komisija;
-15) Nacionālās drošības komisija.
+15) Nacionālās drošības komisija;
+16) Pilsonības likuma izpildes komisija.
 (2) Katras komisijas skaitlisko sastāvu, kā arī komisijas izveidošanas principus nosaka Saeima.
