@@ -1,0 +1,2 @@
+Trade in textile products between Turkey and Latvia shall continue to be regulated by the Memorandum of Understanding between the Government of Turkey and the Government of Latvia concerning trade in textiles and clothing, accepted by Note Verbale of the Ministry of Foreign Affairs of the Republic of Latvia dated 11 January 1996 and numbered 32/n-52-43 addressed to the Embassy of Turkey in Lithuania.
+This MOU will become null and void when the European Community abolishes the arrangements referred in the above mentioned Protocol.

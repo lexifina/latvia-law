@@ -1,0 +1,2 @@
+Tirdzniecība ar tekstilizstrādājumiem starp Latviju un Turciju tiks turpināta saskaņā ar Latvijas Valdības un Turcijas Valdības parakstīto Sapratnes Memorandu attiecībā uz tirdzniecību ar tekstilizstrādājumiem un apģērbu, kas pieņemts Latvijas Ārlietu Ministrijas Notā, kas datēta ar 1996.gada 11.janvāri, ar numuru 32/n-52-43 un adresēta Turcijas Vēstniecībai Lietuvā.
+Sapratnes Memorands tiks anulēts tad, kad Eiropas Kopiena atceļ kārtību, kas noteikta augstākminētajā Protokolā.
