@@ -1,0 +1,2 @@
+Sestā apakšnodaļa
+Samaksa

@@ -1,0 +1,2 @@
+20. Pēc maksāšanas termiņa iestāšanās taisītais indosaments rada tās pašas sekas, kā indosaments, kas taisīts pirms šā termiņa iestāšanās. Tomēr indosamentam, kas taisīts pēc protesta nesamaksas dēļ, vai pēc protesta izdarīšanai paredzētā laika notecēšanas, ir tikai parastās cesijas sekas.
+Kamēr nav pierādīts pretējais, indosaments bez datuma jāuzskata par taisītu pirms protesta izdarīšanai paredzētā laika notecēšanas.

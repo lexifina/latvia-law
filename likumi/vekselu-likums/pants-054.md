@@ -1,0 +1,6 @@
+54. Ja nepārvaramu šķēršļu dēļ (kādas valsts likumīgi rīkojumi vai citi nepārvaramas varas gadījumi) noteiktā laikā nav iespējams uzrādīt tratu vai izdarīt protestu, tad šo laiku pagarina.
+Tratas turētājam par nepārvaramas varas gadījumiem nekavējoties jāpaziņo savam tiešam indosantam un par šo paziņojumu jāatzīmē uz tratas vai uz piemetinātās lapas, minot datumu un parakstoties. Bez tam jāpiemēro 45. panta noteikumi.
+Izbeidzoties nepārvaramas varas gadījumam, tratas turētājam nekavējoties jāuzrāda trata pieņemšanai vai samaksai un vajadzības gadījumā tā jāiesniedz protestam.
+Ja nepārvarama vara ilgst pāri par trīsdesmit dienām pēc maksāšanas termiņa, tad var izlietot regresu, nemaz neuzrādot tratu un neizdarot protestu.
+Tratām ar maksāšanas termiņu pie uzrādīšanas vai noteiktā laikā pēc uzrādīšanas, pat pirms uzrādīšanas laika notecējuma, trīsdesmit dienas jāskaita no tās dienas, kad tratas turētājs par nepārvaramas varas gadījumu paziņojis savam indosantam; tratai ar maksāšanas termiņu noteiktā laikā pēc uzrādīšanas trīsdesmit dienas pagarinātas ar tratā minēto laika sprīdi pēc tratas uzrādīšanas.
+Nav jāuzskata par nepārvaramas varas gadijumiem tādi apstākļi, kas skar tīri personīgi tratas turētāju vai personu, kurai viņš uzdevis uzrādīt tratu vai izdarīt protestu.

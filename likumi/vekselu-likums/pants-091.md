@@ -1,0 +1,2 @@
+91. Persona, uz kuras lūgumu anulēts vekselis, var izlietot pret atbildīgām personām no šā vekseļa izrietošās tiesības.
+Kad tiesas lēmums par vekseļa anulēšanu ir pārsūdzēts un atcelts, tad maksājumi, kurus ir izdarījusi uz šā lēmuma pamata atbildīgā persona, paliek joprojām spēkā pat pret trešām personām un īpaši pret to, kas pārsūdzējis lēmumu, ja vien atbildīgā persona, maksājumu izdarot, nav zinājusi par lēmuma atcelšanu.

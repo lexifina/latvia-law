@@ -1,0 +1,1 @@
+8. Kas parakstījis tratu kā vietnieks, lai gan viņam nav bijis pilnvarojuma, ir pats atbildīgs uz tratas pamata, un viņam, ja tas tratu samaksājis, ir tādas pašas tiesības, kādas būtu varējusi izlietot šķietami atvietotā persona. Tādu pašu atbildību nes vietnieks, kas pārkāpis savu pilnvarojumu.

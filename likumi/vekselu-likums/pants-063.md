@@ -1,0 +1,3 @@
+63. Starpnieks, kas samaksājis tratu, iegūst visas no tratas izrietošās tiesības pret to, kura labā trata samaksāta, un arī pret personām, kas tam atbildīgas uz tratas pamata. Viņš tomēr nevar indosēt tratu no jauna.
+Indosanti, kas seko personai, kuras labā samaksāta trata, atbrīvojas no saistības.
+Ja samaksu piedāvā vairāki starpnieki, tad priekšroka ir tam, ar kura samaksu kļūst atsvabināts lielāks tratas saistībā atbildīgo personu skaits. Starpnieks, kas, zinādams lietas apstākļus, tomēr izdara samaksu, pārkāpjot minēto noteikumu, zaudē regresa iespēju pret tiem, kuri citādi būtu atsvabināti no atbildības pēc tratas.

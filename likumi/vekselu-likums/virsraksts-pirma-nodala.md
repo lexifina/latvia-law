@@ -1,0 +1,2 @@
+PIRMĀ NODAĻA
+Trata

@@ -1,0 +1,2 @@
+95. Personas spēju uzņemties saistību pēc vekseļa noteic tās valsts likums, pie kuras viņa pieder. Ja šis likums norāda uz citas valsts likumu, tad jāpiemēro norādītais likums.
+Persona, kurai pēc šā (95.) panta pirmā daļā minētā likuma nav spējas uzņemties saistību pēc vekseļa, kļūst tomēr atbildīga, ja paraksta vekseli tādas valsts teritorijā, pēc kuras likuma viņai ir attiecīga spēja. Šis noteikums nav jāpiemēro Latvijā, ja Latvijas pilsonis saistību pēc vekseļa uzņēmies ārzemēs.

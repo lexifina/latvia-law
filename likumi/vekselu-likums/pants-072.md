@@ -1,0 +1,2 @@
+72. Ja tratas maksāšanas termiņš iekrīt likumīgā svinamā dienā, tad tratas samaksu var pieprasīt tai sekojošā darbdienā. Tāpat arī visi citi darbi, kas attiecas uz tratu, it īpaši uzrādīšana pieņemšanai un protests, jāizdara tikai darbdienā.
+Ja kāds no šādiem darbiem jāizpilda noteiktā laika sprīdī, kura pēdējā diena ir likumīga svinamā diena, tad šis laiks jāpagarina līdz nākošai darbdienai. Laika sprīdi aprēķinot, jāskaita līdzi svinamās dienas, kas iekrīt laika tecējumā.

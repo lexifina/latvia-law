@@ -1,0 +1,1 @@
+7. Ja uz tratas atrodas tādu personu paraksti, kurām trūkst spēja uzņemties saistību pēc tratas, viltoti paraksti, izdomātu personu paraksti vai paraksti, kas kādu citu iemeslu dēļ nav saistoši pašiem parakstītājiem vai personām, kuru vārdā trata parakstīta, tad pārējo parakstītāju saistības tomēr paliek spēkā.

@@ -1,0 +1,2 @@
+Piektā apakšnodaļa
+Maksāšanas termiņš

@@ -1,0 +1,1 @@
+1. Vekseļiem, kas izrakstīti pirms šā likuma spēkā stāšanās, pat ja uz tiem ir uzraksti, kas taisīti pēc šā likuma spēkā stāšanās, jāpiemēro Vekseļu nolikuma (1932. gada izd.) noteikumi. Izdarot protestu, aprēķinot protesta termiņus un anulējot nozudušos, nozagtos vai iznīcinātos vekseļus, jāpiemēro šā likuma noteikumi.

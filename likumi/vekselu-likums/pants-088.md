@@ -1,0 +1,2 @@
+88. Ja trasanta, tratas pieņēmēja vai vienkāršā vekseļa devēja saistības izbeigušās ar noilgumu vai arī tādēļ, ka nav izdarīta regresa tiesības paturēšanai nepieciešamā darbība, tad tomēr minētās personas atbild vekseļa turētājam tādā apmērā, kādā viņas netaisni iedzīvojušās uz turētāja rēķinu. Prasība par iedzīvojuma atmaksu noilgst triju gadu laikā pēc tam, kad izbeigusies saistība uz vekseļa pamata.
+Šāda prasība nav iespējama pret indosantiem, kuru saistības ir izbeigušās.

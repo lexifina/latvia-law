@@ -1,0 +1,2 @@
+25. Pieņemšanu raksta uz tratas. To izteic ar vārdu "pieņemta" vai līdzīgu vārdu un paraksta maksātājs. Maksātāja paraksts tratas priekšpusē nozīmē tratas pieņemšanu.
+Kad trata maksājama noteiktā laikā pēc uzrādīšanas vai kad trata uzrādāma pieņemšanai laikā, kas paredzēts īpašā atzīmē, tad pieņemšanas uzrakstā jāatzīmē arī pieņemšanas datums, ja vien tratas turētājs nepieprasa ierakstīt tratas uzrādīšanas datumu. Ja datums nav atzīmēts, tad tratas turētājam, lai paturētu sev regresa tiesību pret indosantiem un trasantu, ar savlaicīgu protestu jākonstatē šis izlaidums.

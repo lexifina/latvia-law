@@ -1,0 +1,2 @@
+60. Ja tratu pieņēmuši tādi starpnieki, kuru dzīves vieta ir tratas maksāšanas vietā, vai ja tratā ir norādītas maksāšanas vietā dzīvojošas personas, kurām tā jāsamaksā spaidu gadijumā, tad tratas turētājam vēlākais tanī dienā, kas seko pēdējai protesta celšanai paredzētai dienai, jāuzrāda trata visām minētām personām un, samaksu nesaņemot, jāizdara protests nesamaksas dēļ.
+Ja minētā laikā protests nav izdarīts, tad tas, kas norādījis starpnieku vai kura labā trata pieņemta, un arī vēlākie indosanti atbrīvojas no saistības.

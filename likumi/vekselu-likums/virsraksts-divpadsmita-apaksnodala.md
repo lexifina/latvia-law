@@ -1,0 +1,2 @@
+Divpadsmitā apakšnodaļa
+Vispārīgi noteikumi

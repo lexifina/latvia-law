@@ -1,0 +1,2 @@
+2. Ja šā likuma spēkā stāšanās dienā līdzšinējais noilguma termiņš nav notecējis, bet šis likums nosaka īsāku termiņu, tad jāpiemēro jaunais noilguma termiņš, to skaitot no šā likuma spēkā stāšanās dienas. Ja pēc šāda aprēķina noilguma laiks iznāk garāks par līdzšinējo noilguma termiņu, noilguma termiņš izbeidzas tanī dienā, kad tas būtu notecējis pēc Vekseļu nolikuma (1932. g. izd.).
+Ar šā likuma spēkā stāšanos atcelts Vekseļu nolikums (1932. g. izd.).

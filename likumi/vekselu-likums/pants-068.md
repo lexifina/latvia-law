@@ -1,0 +1,3 @@
+68. Norakstā jānorāda oriģinaltratas turētājs. Viņa pienākums ir atdot tratas oriģinālu likumīgam noraksta turētājam.
+Kad oriģinaltratas turētājs izvairās no atdošanas, noraksta turētājs tikai tad var izlietot regresu pret personām, kas taisījušas uz noraksta indosamentus vai galvojuma uzrakstus, ja ar protestu konstatēts, ka oriģinaltrata nav atdota uz noraksta turētāja pieprasījumu.
+Ja oriģinaltratā aiz pēdējā indosamenta, kas taisīts līdz noraksta izgatavošanai, atrodas atzīme,,sākot ar šo vietu indosamenti ir spēkā tikai uz noraksta" vai cita līdzīga atzīme, tad ir nederīgs uz oriģināla vēlāk taisītais indosaments.

@@ -1,0 +1,1 @@
+86. Kļūdas, izlaidumi vai citi protesta akta trūkumi notāram jāizlabo līdz protesta akta izsniegšanai personai, uz kuras pieprasījumu protests izdarīts. Izlabojumi jāatrunā īpašā atzīmē, ko paraksta notārs.

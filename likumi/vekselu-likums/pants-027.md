@@ -1,0 +1,2 @@
+27. Ja trasants norādījis tratā kādu citu maksāšanas vietu, kas nav maksātāja dzīves vieta, bet nav nozīmējis trešo personu, kuras dzīves vietā izdarāma samaksa, tad, pieņemot tratu, maksātājs var norādīt šo trešo personu. Trūkstot šādam norādījumam, jāuzskata, ka pieņēmējs apņēmies maksāšanas vietā pats samaksāt tratu.
+Ja trata maksājama maksātāja dzīves vietā, tad pieņemšanas uzrakstā maksātājs var uzdot šai vietā kādu īpašu adresi, kur izdarāma samaksa.

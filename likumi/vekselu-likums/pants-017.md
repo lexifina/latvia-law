@@ -1,0 +1,1 @@
+17. Personas, pret kurām celta prasība pēc tratas, nevar aizstāvēties pret tratas turētāju ar iebildumiem, kas pamatojas uz viņu personīgām attiecībām ar trasantu vai ar iepriekšējiem tratas turētājiem, ja vien pašreizējais tratas turētājs, iegūstot tratu, nav rīkojies apzināti par ļaunu parādniekam.

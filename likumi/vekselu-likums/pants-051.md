@@ -1,0 +1,1 @@
+51. Ja izlieto regresu pēc tratas, kas pieņemta tikai daļā, tad tas, kas samaksā arī to sumu, kurā trata nav pieņemta, var prasīt, lai samaksāto sumu atzīmē uz tratas un lai viņam par to izdod kvīti. Bez tam tratas turētājam jāizdod viņam apliecināts tratas noraksts un protesta akts, lai būtu iespējams tālākais regress.

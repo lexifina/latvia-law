@@ -1,0 +1,1 @@
+92. Nozudušu vai iznīcinātu protesta aktu var atvietot ar apliecību par izdarīto protestu; šo apliecību izdod notārs, kas uzglabā apliecinātu protesta akta norakstu. Apliecībā jānorāda protesta akta un 87. pantā minēto atzīmju saturs.

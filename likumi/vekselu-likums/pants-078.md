@@ -1,0 +1,2 @@
+78. Vienkāršā vekseļa devējs atbild tādā pašā veidā kā tratas pieņēmējs.
+Vienkāršie vekseļi ar maksāšanas termiņu noteiktā laikā pēc uzrādīšanas jāuzrāda vekseļa devējam 23. pantā paredzētā laikā. Šādos vekseļos paredzētais noteiktais laiks pēc vekseļa uzrādīšanas sāk tecēt pēc tās dienas, kas minēta uz vekseļa taisītā un vekseļa devēja parakstītā atzīmē par vekseļa uzrādīšanu. Vekseļa devēja atteikšanās taisīt atzīmi par vekseļa uzrādīšanas dienu jākonstatē ar protestu (25. p.); tādā gadijumā noteiktais laiks pēc vekseļa uzrādīšanas sāk tecēt pēc protesta dienas.

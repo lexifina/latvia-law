@@ -1,0 +1,2 @@
+Vienpadsmitā apakšnodaļa
+Noilgums
