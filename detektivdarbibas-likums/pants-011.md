@@ -1,0 +1,1 @@
+11.pants. Veicot detektīvdarbību, ir aizliegts radīt personām fizisku, morālu vai materiālu kaitējumu, apdraudēt cilvēku dzīvību un veselību, kā arī apkārtējo vidi, lietot vai draudēt lietot fiziskās ietekmēšanas līdzekļus, pamudināt personas uz noziedzīgu rīcību.

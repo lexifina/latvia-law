@@ -1,0 +1,1 @@
+2. Valsts policija triju mēnešu laikā pēc šā likuma stāšanās spēkā izskata esošo detektīvsabiedrību un detektīvu atbilstību Detektīvdarbības likumam un anulē licences, ja tās neatbilst šā likuma prasībām.

@@ -1,0 +1,2 @@
+9.pants. (1) Ar katru klientu noslēdzams rakstveida līgums par detektīvdarbības pakalpojuma sniegšanu. Ja līgumu slēdz detektīvsabiedrība, papildus Civillikuma prasībām norādāms tā detektīva vārds, uzvārds, sertifikāta numurs un izsniegšanas datums, kurš sniegs detektīvdarbības pakalpojumu.
+(2) Ja līgumu slēdz par ziņu vākšanu krimināllietā, detektīvdarbības pakalpojuma sniedzējs 24 stundu laikā par to rakstveidā ziņo procesa virzītājam, kura lietvedībā atrodas attiecīgā krimināllieta, un saskaņo ar viņu savas darbības šajā lietā.

@@ -1,0 +1,1 @@
+3. Šā likuma 6.panta 1.punktā minētais nosacījums par praktiskā juridiskā darba pieredzi Latvijas Republikas tiesībaizsardzības iestādēs nevar būt par pamatu licences anulēšanai un sertifikāta neizsniegšanai detektīvam, kurš detektīvdarbību uzsācis līdz šā likuma pieņemšanas dienai, ja viņš atbilst pārējām likuma prasībām.

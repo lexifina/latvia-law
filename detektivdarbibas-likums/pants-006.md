@@ -1,0 +1,6 @@
+6.pants. Sertifikātu ir tiesīga saņemt rīcībspējīga persona:
+1) kurai ir augstākā juridiskā izglītība vai kurai praktiskā juridiskā darba pieredze Latvijas Republikas tiesībaizsardzības iestādēs (tiesas, pirmstiesas izmeklēšanas, prokuratūras, Valsts policijas, valsts drošības iestādes) ir ne mazāka par pieciem gadiem;
+2) kura likumā noteiktajā kārtībā nav atzīta par vainīgu tīša noziedzīga nodarījuma izdarīšanā (neatkarīgi no sodāmības dzēšanas vai noņemšanas);
+3) kura neslimo ar psihisku slimību, narkomāniju, toksikomāniju vai alkoholismu;
+4) kura nav atbrīvota (atlaista) no darba vai dienesta tiesībaizsardzības iestādēs sakarā ar disciplināro pārkāpumu vai neatbilstību ieņemamajam amatam (dienestam), izņemot gadījumu, kad attiecīgā persona ieņemamajam amatam (dienestam) neatbilst veselības stāvokļa dēļ;
+5) par kuru Valsts policijas vai valsts drošības iestāžu rīcībā nav likumā noteiktajā kārtībā iegūtu un pārbaudītu ziņu, kas liecina par šīs personas piederību pie aizliegta militarizēta vai bruņota formējuma, politiskās partijas vai sabiedriskās organizācijas, sabiedrisko organizāciju apvienības vai kustības, kura uzsākusi publisko darbību pirms tās reģistrācijas vai turpina darbību pēc tam, kad tā ir apturēta vai izbeigta ar tiesas nolēmumu, kā arī par piederību pie organizētās noziedzības grupas.
