@@ -1,5 +1,5 @@
 10.pants. Biroja amatpersonu tiesības
-Biroja amatpersonai atbilstoši tās kompetencei ir tiesības:
+(1) Biroja amatpersonai atbilstoši tās kompetencei ir tiesības:
 1) izdarīt izziņu Latvijas Kriminālprocesa kodeksā noteiktajā kārtībā;
 2) veikt likumā noteikto operatīvo darbību, lai atklātu un novērstu noziedzīgos nodarījumus korupcijas un politisko organizāciju (partiju) un to apvienību finansēšanas jomā;
 3) sastādīt administratīvos protokolus par atklātajiem pārkāpumiem, izskatīt administratīvo pārkāpumu lietas un uzlikt administratīvos sodus par pārkāpumiem, kuru izskatīšana saskaņā ar Latvijas Administratīvo pārkāpumu kodeksu ir piekritīga Birojam;
@@ -11,9 +11,11 @@ Biroja amatpersonai atbilstoši tās kompetencei ir tiesības:
 9) uzrādot dienesta apliecību, brīvi apmeklēt valsts pārvaldes un pašvaldību iestādes, kā arī Latvijas teritorijā izvietotās juridiskajām un fiziskajām personām piederošās vai to lietošanā esošās ražošanas telpas, noliktavas, tirdzniecības un citas nedzīvojamās telpas;
 10) ja nepieciešams, korupcijas apkarošanas un politisko organizāciju (partiju) un to apvienību finansēšanas kontroles funkciju izpildei bez atlīdzības izmantot valsts iestādēm, valsts uzņēmumiem (uzņēmējsabiedrībām) un valsts organizācijām, bet izņēmuma gadījumos arī citām personām piederošos sakaru un sabiedrības informācijas līdzekļus. Izdevumus par citām personām piederošo sakaru un sabiedrības informācijas līdzekļu izmantošanu atlīdzina, ja īpašnieks to pieprasa;
 11) steidzamos gadījumos ar transportlīdzekļa vadītāja piekrišanu izmantot uzņēmumiem (uzņēmējsabiedrībām), iestādēm, organizācijām vai privātpersonām piederošos transportlīdzekļus (izņemot ārvalstu diplomātisko un konsulāro pārstāvniecību un starptautisko organizāciju pārstāvniecību transportlīdzekļus, kā arī speciālos transportlīdzekļus) braukšanai uz notikuma vietu vai personu nogādāšanai ārstniecības iestādē, ja tām steidzami nepieciešama medicīniskā palīdzība, kā arī tādu personu vajāšanai, kuras izdarījušas noziedzīgus nodarījumus, un aizturēto neatliekamai nogādāšanai policijas iestādē;
-12) glabāt un nēsāt dienesta vai personiskos ieročus un speciālos līdzekļus pašaizsardzībai, lietot ieročus un speciālos līdzekļus atbilstoši likuma "Par policiju" prasībām;
+12) glabāt un nēsāt dienesta vai personiskos šaujamieročus; pielietot šaujamieročus, kā arī lietot fizisku spēku un speciālos līdzekļus atbilstoši likumam "Par policiju";
 13) izsaukt uz Biroju jebkuru personu saistībā ar lietu un materiālu izskatīšanu, bet, ja šī persona pēc izsaukuma saņemšanas bez attaisnojoša iemesla neierodas, atvest to piespiedu kārtā;
 14) prasīt, lai persona pārtrauc likumpārkāpumus un citu rīcību, kas traucē Biroja amatpersonu un darbinieku pilnvaru izpildi, kā arī lietot pret likumpārkāpēju paredzētos piespiedu līdzekļus;
 15) pildot korupcijas apkarošanas un politisko organizāciju (partiju) un to apvienību finansēšanas kontroles funkcijas, pārbaudīt personu apliecinošus dokumentus;
 16) izsludināt un izmaksāt atlīdzību par palīdzību noziedzīga nodarījuma atklāšanā un noziedzīgu nodarījumu izdarījušas personas aizturēšanā;
-17) ar ģenerālprokurora vai viņa pilnvarota prokurora starpniecību izziņas turpināšanai nodot citām izziņas iestādēm savā lietvedībā esošās krimināllietas vai pārbaudes materiālus vai izziņas turpināšanai pārņemt no citām izziņas iestādēm Biroja kompetencei atbilstošas krimināllietas vai pārbaudes materiālus.
+17) ar ģenerālprokurora vai viņa pilnvarota prokurora starpniecību izziņas turpināšanai nodot citām izziņas iestādēm savā lietvedībā esošās krimināllietas vai pārbaudes materiālus vai izziņas turpināšanai pārņemt no citām izziņas iestādēm Biroja kompetencei atbilstošas krimināllietas vai pārbaudes materiālus;
+18) normatīvajos aktos noteiktajā kārtībā aizturēt un konvojēt personas, kuras tiek turētas aizdomās vai apsūdzētas noziedzīgu nodarījumu izdarīšanā.
+(2) Biroja īpašumā (valdījumā) esošo šaujamieroču un speciālo līdzekļu glabāšanas un nēsāšanas kārtību nosaka Biroja priekšnieks.

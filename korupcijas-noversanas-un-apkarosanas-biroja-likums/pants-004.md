@@ -4,13 +4,16 @@
 1) ir Latvijas pilsonis;
 2) pārvalda latviešu valodu un vismaz divas svešvalodas;
 3) ieguvusi augstāko izglītību un uzkrājusi amatam atbilstošu darba pieredzi;
-4) nav sasniegusi likumā vecuma pensijas saņemšanai noteikto vecumu;
-5) nav sodīta par tīšu noziedzīgu nodarījumu (neatkarīgi no sodāmības noņemšanas vai dzēšanas) vai ir reabilitēta;
-6) atbilst likumā noteiktajām prasībām, lai saņemtu speciālo atļauju pieejai valsts noslēpumam;
-7) nav vai nav bijusi ar likumu vai tiesas nolēmumu aizliegtas organizācijas dalībnieks.
+4) nav sasniegusi likumā noteikto pensijas vecumu;
+5) nav sodīta par noziedzīgu nodarījumu (neatkarīgi no sodāmības noņemšanas vai dzēšanas);
+6) nav notiesāta par noziedzīgu nodarījumu, atbrīvojot no soda;
+7) nav saukta pie kriminālatbildības, izņemot gadījumu, kad persona ir saukta pie kriminālatbildības, bet krimināllieta pret to izbeigta uz reabilitējoša pamata;
+8) nav un nav bijusi PSRS Aizsardzības ministrijas, PSRS vai Latvijas PSR Valsts drošības komitejas vai to valstu, kuras nav Eiropas Savienības vai Ziemeļatlantijas līguma organizācijas dalībvalstis, valsts drošības dienesta, izlūkdienesta vai pretizlūkošanas dienesta štata vai ārštata darbinieks, aģents, rezidents vai konspiratīvā dzīvokļa turētājs;
+9) nav un nav bijusi ar likumu vai tiesas nolēmumu aizliegtas organizācijas dalībnieks;
+10) atbilst likumā noteiktajām prasībām, lai saņemtu speciālo atļauju pieejai valsts noslēpumam.
 (3) Biroja priekšnieks:
 1) vada Biroja darbu;
-2) ir atbildīgs par Birojam noteikto funkciju izpildi;
+2) apstiprina Biroja darbības plānu šajā likumā paredzēto funkciju izpildei un ir atbildīgs par Birojam noteikto funkciju izpildi;
 3) sasauc un vada Biroja padomes sēdes;
 4) ir Biroja finanšu līdzekļu rīkotājs un atbild par to izlietošanu;
 5) atbilstoši finansējumam apstiprina Biroja centrālā aparāta un teritoriālo nodaļu darbinieku sarakstu (štatu sarakstu) un atbilstoši normatīvajiem aktiem nosaka viņu atalgojumu;
