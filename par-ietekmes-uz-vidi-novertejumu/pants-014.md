@@ -1,0 +1,4 @@
+14.pants. Ietekmes novērtējuma nepieciešamības apstiprinājums
+(1) Ja pēc saņemtā pieteikuma izskatīšanas kompetentā institūcija pieņem lēmumu par to, ka paredzētās darbības ietekmes novērtējums ir nepieciešams, tā rakstveidā paziņo ierosinātājam un ieinteresētajām valsts un pašvaldību institūcijām par ietekmes novērtējuma uzsākšanu.
+(2) Ieinteresētajai personai ir tiesības pārsūdzēt tiesā kompetentās institūcijas lēmumu par tās paredzētās darbības ietekmes novērtējuma nepieciešamību, attiecībā uz kuru ir veikts sākotnējais izvērtējums.
+(3) Ja kompetentā institūcija nolemj, ka paredzētās darbības ietekmes novērtējums nav nepieciešams, tā rakstveidā paziņo savu lēmumu ierosinātājam, attiecīgajai reģionālajai vides pārvaldei un pašvaldībai, kuras teritorijā jānotiek paredzētajai darbībai, kā arī saskaņā ar Ministru kabineta noteikumiem par ietekmes novērtējuma veikšanu publicē paziņojumu par ietekmes novērtējuma nepiemērošanu.

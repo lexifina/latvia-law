@@ -1,0 +1,1 @@
+3. Atomelektrostacijas un kodolreaktori, arī to demontāža vai likvidēšana (izņemot zinātniskās pētniecības darbam paredzētās iekārtas kodolmateriālu un transformējamo kodolmateriālu ražošanai un konversijai, ja to maksimālā jauda nepārsniedz vienu kilovatu vidējās siltumspējas).

@@ -1,0 +1,1 @@
+6. Uzņēmumi (uzņēmējsabiedrības), kas paredzēti melno un krāsaino metālu, izņemot dārgmetālus, pirmapstrādei un ieguvei no rūdas, koncentrāta vai metāllūžņiem, izmantojot metalurģiskos, ķīmiskos vai elektrolītiskos procesus.

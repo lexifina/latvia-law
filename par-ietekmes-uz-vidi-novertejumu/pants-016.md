@@ -1,0 +1,4 @@
+16.pants. Ietekmes novērtējuma programma
+(1) Pēc ierosinātāja rakstveida pieprasījuma kompetentā institūcija izstrādā un nosūta ierosinātājam ietekmes novērtējuma programmu (turpmāk - programma), kas ietver vides aizsardzības prasības un noteikumus, kā arī nepieciešamo pētījumu un organizatorisko pasākumu kopumu ietekmes novērtējuma turpmākai veikšanai.
+(2) Programma tiek izstrādāta, pamatojoties uz paredzētās darbības pieteikumu, tās sākotnējo izvērtējumu, ja tāds ir bijis, sākotnējās sabiedriskās apspriešanas rezultātiem, kā arī ņemot vērā sabiedrības pārstāvju priekšlikumus un ieinteresēto valsts un pašvaldību institūciju sniegto informāciju. Minimālās prasības programmas saturam un tās izstrādāšanas kārtību reglamentē Ministru kabineta noteikumi par ietekmes novērtējuma veikšanu.
+(3) Izstrādājot programmu, kompetentajai institūcijai ir tiesības pieaicināt ekspertus, kā arī pieprasīt no ierosinātāja papildu informāciju.
