@@ -1,1 +1,1 @@
-20. Noteikt, ka zemesgrāmatu nodaļu iekasētā kancelejas nodeva ieskaitāma Tieslietu ministrijas pamatbudžeta kontā un izlietojama zemesgrāmatu nodaļu darbības nodrošināšanai, tai skaitā - materiāltehniskās bāzes nostiprināšanai.
+20. Zemesgrāmatu nodaļu iekasētā kancelejas nodeva ieskaitāma valsts pamatbudžetā.
