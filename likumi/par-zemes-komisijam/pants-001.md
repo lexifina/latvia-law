@@ -1,0 +1,4 @@
+1. Zemes reformas darbu koordinēšanai un tiesiskajai nodrošināšanai attiecīgās Tautas deputātu padomes nodibina pagastu, kā arī ciematu un pilsētu, kuru administratīvajā teritorijā ir arī lauku apvidus zemes*, rajonu un Latvijas Republikas Augstākās Padomes zemes komisijas.
+Zemes komisijas darbojas atbilstoši Latvijas Republikā spēkā esošajiem zemes un citiem likumdošanas aktiem.
+Zemes ierīcības darbus veic institūts "Zemesprojekts" un Lauksaimniecības ministrijas Zemes ierīcības departaments, kuri deleģē savus pārstāvjus zemes komisijās.
+* Tā kā ciematu un pilsētu, kuru administratīvajā teritorijā ir arī lauku apvidus zemes, Tautas deputātu padomes un to zemes komisijas zemes reformas realizēšanā veiks tās pašas funkcijas, ko pagastu Tautas deputātu padomes un to zemes komisijas, turpmākajā tekstā vārds «pagasts» attiecināms arī uz ciematiem un pilsētām, kuru administratīvajā teritorijā ir arī lauku apvidus zemes.
