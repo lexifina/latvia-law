@@ -1,0 +1,1 @@
+Ar likuma «Par valsts budžetu 1995. gadam» stāšanos spēkā atzīt par spēku zaudējušu Augstākās padomes lēmumu «Par bezmaksas braukšanas atļaušanu vispārizglītojošo mācību iestāžu audzēkņiem» (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1993, 16/17).
