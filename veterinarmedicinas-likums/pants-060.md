@@ -1,1 +1,0 @@
-60.pants. Dzīvnieka atsavināšanas gadījumā dzīvnieka īpašnieks var pieteikt pretenzijas atsavinātājam par dzīvnieka veselības stāvokli 30 dienu laikā no atsavināšanas dienas ar noteikumu, ka attiecībā uz dzīvnieku veikti ar valsts uzraudzībā esošajām dzīvnieku infekcijas slimībām saistītie profilaktiskie pasākumi.

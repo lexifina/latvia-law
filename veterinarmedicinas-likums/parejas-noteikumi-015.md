@@ -1,0 +1,1 @@
+15. Šā likuma normas, kurās lietots termins "komersants", piemērojamas arī attiecībā uz individuālajiem uzņēmumiem, zemnieku un zvejnieku saimniecībām, kā arī citiem uzņēmumu reģistrā reģistrētajiem uzņēmumiem (uzņēmējsabiedrībām).

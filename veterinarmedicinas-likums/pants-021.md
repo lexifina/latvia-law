@@ -1,5 +1,4 @@
-21.pants. Vietējās pašvaldības nodrošina:
-1) suņu un kaķu reģistrāciju Ministru kabineta noteiktajā kārtībā;
-2) klejojošu suņu un kaķu izķeršanu un, ja nepieciešams, eitanāziju;
-3) suņu un kaķu patversmju iekārtošanu Ministru kabineta noteiktajā kārtībā;
-4) mājdzīvnieku līķu aizvākšanu Ministru kabineta noteiktajā kārtībā.
+21.pants. (1) Vietējās pašvaldības nodrošina:
+1) klejojošu suņu un kaķu izķeršanu un, ja nepieciešams, eitanāziju;
+2) bezsaimnieka dzīvnieku un meža dzīvnieku līķu savākšanu normatīvajos aktos noteiktajā kārtībā.
+(2) Dzīvnieku reģistru izveido un uztur normatīvajos aktos noteiktajā kārtībā Valsts ciltsdarba informācijas datu apstrādes centrs.

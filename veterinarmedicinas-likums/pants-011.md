@@ -7,4 +7,4 @@ d) organizē diagnostisko paraugu izmeklēšanu ārvalstu laboratorijās gadīju
 2) pilda references funkcijas citos laboratorisko izmeklējumu veidos saskaņā ar Ministru kabineta pilnvarojumu;
 3) nodrošina atliekvielu kontroles programmā paredzētos laboratoriskos izmeklējumus;
 4) pēc pieprasījuma veic laboratoriskos izmeklējumus dzīvnieku infekcijas slimību diagnostikā, kā arī laboratoriskos izmeklējumus, kas saistīti ar vidi un veterināro zāļu, farmaceitisko produktu, dzīvnieku barības, barības piedevu un pārtikas apriti;
-5) organizē starplaboratoriju salīdzinošo testēšanu Pārtikas un veterinārā dienesta uzraudzībā esošo uzņēmumu (uzņēmējsabiedrību) paškontroles laboratorijās.
+5) organizē starplaboratoriju salīdzinošo testēšanu Pārtikas un veterinārā dienesta uzraudzībā esošo komersantu paškontroles laboratorijās.
