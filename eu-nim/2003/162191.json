@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par bīstamo kravu pārvadāšanu pa dzelzceļu",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "66",
+  "official_journal_page": null,
+  "official_journal_date": "2003-05-06",
+  "entry_into_force": "2003-05-07",
+  "notification_date": "2009-05-28",
+  "commission_reference": "MNE(2009)52308",
+  "nim_celex": "72008L0068LVA_162191",
+  "nim_id": "162191",
+  "transposes_celex": [
+    "32008L0068"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4f89e713-8659-44ae-9718-e0e8a0d068d0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
