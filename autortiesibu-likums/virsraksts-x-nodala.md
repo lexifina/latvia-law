@@ -1,0 +1,2 @@
+X¹ nodaļa
+Vidutāji

@@ -7,9 +7,9 @@
 (2) Fonogrammu producentu tiesības tiek atzītas, ja ir viens no šādiem nosacījumiem:
 1) fonogrammas producents ir Latvijas pilsonis vai persona, kurai ir tiesības uz Latvijas nepilsoņa pasi, vai persona, kurai Latvija ir pastāvīgā dzīvesvieta (domicils);
 2) skaņas pirmā fiksācija veikta Latvijā;
-3) fonogrammas izziņošana veikta Latvijā.
+3) fonogrammas publicēšana vai publiskošana veikta Latvijā.
 (3) Filmas producentu tiesības tiek atzītas, ja ir viens no šādiem nosacījumiem:
 1) filmas producents ir Latvijas pilsonis vai persona, kurai ir tiesības uz Latvijas nepilsoņa pasi, vai persona, kurai Latvija ir pastāvīgā dzīvesvieta (domicils);
 2) filmas pirmā fiksācija veikta Latvijā.
 (4) Raidorganizāciju tiesības saskaņā ar šo nodaļu tiek atzītas, ja raidorganizācijas oficiālā atrašanās vieta ir Latvija.
-(5) Tiesības, kas paredzētas šajā nodaļā, tiek atzītas ārvalstu fiziskajām un juridiskajām personām, kuras veikušas pirmo izpildījumu, skaņas vai attēlu fiksāciju vai raidīšanu ārpus Latvijas saskaņā ar Latvijai saistošiem starptautiskajiem līgumiem.
+(5) Tiesības, kas paredzētas šajā nodaļā, tiek atzītas ārvalstu fiziskajām un juridiskajām personām saskaņā ar Latvijai saistošiem starptautiskajiem līgumiem.

@@ -1,13 +1,16 @@
-63.pants. Mantisko tiesību kolektīvā pārvaldījuma organizācijas darbības principi
-(1) Latvijas autortiesību un blakustiesību subjektu mantisko tiesību aizsardzību, ja šīs tiesības nevar nodrošināt individuālā kārtā vai šāda aizsardzība ir apgrūtināta, veic mantisko tiesību kolektīvā pārvaldījuma organizācija.
-(2) Autortiesību un blakustiesību subjektu mantiskās tiesības tikai kolektīvi tiek administrētas attiecībā uz:
-1) publisku izpildījumu, ja tas notiek kafejnīcās, veikalos, iestādēs, viesnīcās un citās tamlīdzīgās vietās;
-2) nomu un publisku patapināšanu (izņemot datorprogrammas, datu bāzes un mākslas darbus);
-3) retranslēšanu pa kabeļiem (izņemot raidorganizāciju pašu programmas);
+63.pants. Mantisko tiesību kolektīvā pārvaldījuma vispārīgie noteikumi
+(1) Autortiesību un blakustiesību subjektu mantisko tiesību aizsardzību, ja šīs tiesības nevar nodrošināt individuālā kārtā vai šāda aizsardzība ir apgrūtināta, veic mantisko tiesību kolektīvā pārvaldījuma organizācija.
+(2) Mantisko tiesību kolektīvā pārvaldījuma organizācijas izveidošanu, darbību, reorganizāciju un likvidāciju regulē Biedrību un nodibinājumu likums, ciktāl šis likums nenosaka citādi.
+(3) Autoru mantisko tiesību kolektīvā pārvaldījuma organizāciju izveido autori, un tās darbības mērķis ir autoru tiesību kolektīvā pārvaldīšana.
+(4) Blakustiesību kolektīvā pārvaldījuma organizāciju izveido, ja vien tiesību subjektu intereses nav pretējas, izpildītāji, filmu un fonogrammu producenti, un tās darbības mērķis ir blakustiesību kolektīva pārvaldīšana.
+(5) Autortiesību un blakustiesību subjektu mantiskās tiesības tikai kolektīvi tiek administrētas attiecībā uz:
+1) publisku izpildījumu, ja tas notiek izklaides vietās, kafejnīcās, veikalos, viesnīcās un citās tamlīdzīgās vietās;
+2) nomu, īri un publisku patapināšanu (izņemot datorprogrammas, datu bāzes un mākslas darbus);
+3) retranslēšanu pa kabeļiem (izņemot raidorganizāciju tiesības, neatkarīgi no tā, vai tās ir pašas raidorganizācijas tiesības vai tās raidorganizācijai nodevuši autortiesību vai blakustiesību subjekti);
 4) reproducēšanu personiskām vajadzībām;
 5) reprogrāfisku reproducēšanu personiskām vai dienesta vajadzībām;
-6) tēlotājas mākslas darbu tālākpārdošanu.
-(3) Autoru mantisko tiesību kolektīvā pārvaldījuma organizāciju izveido autori. Tā nedrīkst pārstāvēt blakustiesību subjektus un darbojas to pilnvaru ietvaros, ko saskaņā ar rakstveida līgumu saņēmusi no autoriem.
-(4) Autors, kas vienlaikus ir arī blakustiesību subjekts, nedrīkst piedalīties atlīdzības iekasēšanas, sadalīšanas un izmaksāšanas tarifu un kārtības izstrādē autoru mantisko tiesību kolektīvā pārvaldījuma organizācijā.
-(5) Blakustiesību kolektīvā pārvaldījuma organizāciju izveido izpildītāji, fonogrammu producenti un citi blakustiesību subjekti. Tā nedrīkst pārstāvēt autortiesību subjektus un darbojas to pilnvaru ietvaros, ko saskaņā ar rakstveida līgumu saņēmusi no blakustiesību subjektiem.
-(6) Blakustiesību subjekts, kas vienlaikus ir arī autors, nedrīkst piedalīties atlīdzības iekasēšanas, sadalīšanas un izmaksāšanas tarifu un kārtības izstrādē blakustiesību kolektīvā pārvaldījuma organizācijā.
+6) vizuālās mākslas oriģināldarbu tālākpārdošanu;
+7) komerciālos nolūkos publicētu fonogrammu izmantošanu.
+(6) Mantisko tiesību kolektīvo pārvaldījumu attiecībā uz šā panta piektajā daļā noteikto autortiesību vai blakustiesību objektu izmantošanu vienlaikus var veikt tikai viena mantisko tiesību kolektīvā pārvaldījuma organizācija.
+(7) Mantisko tiesību kolektīvā pārvaldījuma organizācija uz pilnvarojuma pamata var pārstāvēt citas organizācijas pārstāvēto tiesību subjektu intereses.
+(8) Tikai viena mantisko tiesību pārvaldījuma organizācija bez citas mantisko tiesību pārvaldījuma organizācijas pilnvarojuma veic mantisko tiesību kolektīvo pārvaldījumu attiecībā uz publisku patapinājumu, reproducēšanu personiskām vajadzībām un reprogrāfisku reproducēšanu personiskām vai dienesta vajadzībām.

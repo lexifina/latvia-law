@@ -1,2 +1,2 @@
-22.pants. Darba reproducēšanas tiesības redzes un dzirdes invalīdiem
-Ievērojot šā likuma 18.panta otrās daļas noteikumu, redzes un dzirdes invalīdu organizācijām, kā arī bibliotēkām, kuras sniedz pakalpojumus redzes un dzirdes invalīdiem, ir atļauts bez atlīdzības reproducēt darbus šiem invalīdiem uztveramā formā.
+22.pants. Darba reproducēšanas tiesības redzes un dzirdes invalīdu vajadzībām
+Ievērojot šā likuma 18.panta otrās daļas noteikumu, redzes un dzirdes invalīdu organizācijas, kā arī bibliotēkas, kuras sniedz pakalpojumus redzes un dzirdes invalīdiem, bez autora piekrišanas un bez atlīdzības samaksas drīkst nekomerciālos nolūkos reproducēt un izplatīt darbu šiem invalīdiem uztveramā formā, ciktāl tas nepieciešams attiecīgās invaliditātes gadījumā.

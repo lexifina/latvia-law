@@ -1,2 +1,2 @@
 32.pants. Izplatīšanas tiesību izbeigšanās
-Izņemot šā likuma 17.panta pirmajā daļā noteiktos gadījumus, autora tiesības kontrolēt sava darba tālākpārdošanu Latvijā izbeidzas ar brīdi, kad darbs pirmo reizi ticis pārdots Latvijā, ja to izdarījis pats autors vai ja tas izdarīts ar viņa piekrišanu.
+Tiesības izplatīt darbu izbeidzas ar brīdi, kad darbs pirmo reizi ticis pārdots vai citādi atsavināts Eiropas Savienībā, ja to izdarījis pats autors vai ja tas izdarīts ar viņa piekrišanu. Šis nosacījums attiecas tikai uz tiem konkrētajiem materiālos objektos ietvertiem darbiem vai to kopijām, kuras ir pārdotas vai citādi atsavinātas.

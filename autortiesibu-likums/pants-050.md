@@ -1,2 +1,7 @@
 50.pants. Filmu producenta tiesības
-Filmu producentam ir izņēmuma tiesības atļaut vai aizliegt savas filmas oriģināla vai kopijas nomu un publisku patapinājumu, tiešu vai netiešu reproducēšanu, retranslēšanu pa kabeļiem, padarīt filmu pieejamu publikai pa vadiem vai citādi individuāli izraudzītā vietā un individuāli izraudzītā laikā, kā arī atļaut vai aizliegt to izplatīt, tas ir, pārdot vai citādi padarīt pieejamu publikai filmas oriģinālu vai kopijas.
+Filmu producentam ir izņēmuma tiesības filmas oriģinālu vai tās kopiju:
+1) izplatīt;
+2) retranslēt pa kabeļiem;
+3) padarīt pieejamu sabiedrībai pa vadiem vai citādā veidā tādējādi, ka tiem var piekļūt individuāli izraudzītā vietā un individuāli izraudzītā laikā;
+4) nomāt, īrēt un publiski patapināt;
+5) tieši vai netieši, īslaicīgi vai pastāvīgi reproducēt.

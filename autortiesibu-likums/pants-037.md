@@ -8,4 +8,5 @@
 (3) Autortiesības uz darbu, ko radījuši līdzautori, ir spēkā visu līdzautoru dzīves laiku un 70 gadus pēc pēdējā, pārējos līdzautorus pārdzīvojušā līdzautora nāves.
 (4) Autoriem, kuru darbi Latvijā bija aizliegti vai kuru izmantošana no 1940.gada jūnija līdz 1990.gada maijam bija ierobežota, no autortiesību noilguma termiņa tiek atskaitīti aizlieguma vai ierobežojuma gadi.
 (5) Autortiesības uz darbiem, kuru autortiesību aizsardzības termiņš sākas no likumīgas publicēšanas brīža un kuri publicēti sējumos, daļās, laidienos vai epizodēs, ir spēkā katram sējumam, daļai, laidienam vai epizodei atsevišķi.
-(6) Jebkura persona, kas pēc autortiesību termiņa izbeigšanās likumīgi publicē vai publisko iepriekš nepublicētu darbu, iegūst autora mantiskās tiesības, kas ir spēkā 25 gadus pēc darba pirmās publicēšanas vai publiskošanas.
+(6) Darbam, kura aizsardzības termiņš netiek aprēķināts no autora vai autoru nāves brīža, aizsardzība ir beigusies, ja 70 gadu laikā pēc šā darba radīšanas tas likumīgi nav kļuvis pieejams sabiedrībai.
+(7) Ikviena persona, kura pēc autortiesību termiņa izbeigšanās likumīgi publicē vai publisko iepriekš nepublicētu darbu, iegūst tiesības, kas pielīdzināmas autora mantiskajām tiesībām un ir spēkā 25 gadus pēc darba pirmās publicēšanas vai publiskošanas.
