@@ -1,0 +1,1 @@
+16.pants. Ja bīstamās iekārtas nodod valdījumā citai personai, šā likuma 14. un 15.pantā minētie bīstamo iekārtu valdītāja pienākumi un tiesības ar bīstamo iekārtu faktiskās nodošanas brīdi pāriet jaunajam valdītājam.

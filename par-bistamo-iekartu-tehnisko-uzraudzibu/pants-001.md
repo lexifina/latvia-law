@@ -1,0 +1,5 @@
+1.pants. Likumā ir lietoti šādi termini:
+1) bīstamās iekārtas - iekārtas un to kompleksi, kas neatbilstošas lietošanas un uzturēšanas rezultātā var apdraudēt cilvēku dzīvību un veselību, vidi un materiālās vērtības un kas to lietošanas laikā ir pakļautas šajā likumā noteiktajai valsts uzraudzībai un kontrolei un normatīvajos aktos noteiktajām pārbaudēm;
+2) bīstamās iekārtas valdītājs - fiziskā vai juridiskā persona, kura ir bīstamās iekārtas īpašnieks vai turētājs;
+3) bīstamās iekārtas apkalpojošais personāls - bīstamās iekārtas valdītāja norīkotas apmācītas personas, kuru rīcība ietekmē bīstamās iekārtas darbību vai tehnoloģiskā procesa norisi;
+4) bīstamās iekārtas pārbaude - kompetentas un pilnvarotas inspicēšanas institūcijas darbība, kuras mērķis ir bīstamās iekārtas lietošanas laikā novērtēt tās atbilstību normatīvo un normatīvtehnisko aktu konkrētām prasībām vai, pamatojoties uz profesionālu spriedumu, normatīvajos aktos noteiktajām galvenajām drošības prasībām.

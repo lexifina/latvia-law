@@ -1,0 +1,1 @@
+7.pants. Bīstamo iekārtu pārbaudi veic uzņēmumi (uzņēmējsabiedrības), kuri normatīvajos aktos noteiktajā kārtībā ir atzīti par kompetentām inspicēšanas institūcijām un kurus Ministru kabinets ir pilnvarojis veikt bīstamo iekārtu pārbaudi (turpmāk - inspicēšanas institūcija).

@@ -1,0 +1,1 @@
+4.pants. Juridiskajām personām, kuras savā uzņēmējdarbībā veic bīstamo iekārtu montāžu, remontu, tehnisko apkopi un modernizāciju, ir pienākums 10 darba dienu laikā paziņot Valsts darba inspekcijai par uzņēmējdarbības uzsākšanu un izbeigšanu šajā jomā.
