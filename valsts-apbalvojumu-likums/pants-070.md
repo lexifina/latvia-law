@@ -1,0 +1,1 @@
+70.pants. Apbalvotās personas var attēlot valsts apbalvojuma zīmi uz saviem personiskajiem zīmogiem, vērtslietām, dokumentiem, veidlapām, kā arī lietot to citādā veidā, garantējot pienācīgu cieņu pret apbalvojumu.

@@ -1,0 +1,1 @@
+7.pants. Latvijā aizliegts nodibināt vai piešķirt apbalvojumu, kura mērķis, devīze, apraksts vai vizuālais izskats būtiski neatšķiras no valsts apbalvojumiem vai kurš pēc savas būtības aizskar citu cilvēku tiesības, demokrātisko valsts iekārtu, sabiedrības drošību, labklājību un tikumību.

@@ -1,0 +1,1 @@
+44.pants. Ordeņu kapitula kancleru un locekļus no viņu pienākumiem pirms šā likuma 42.pantā noteiktā termiņa var atbrīvot Valsts prezidents pēc savas ierosmes vai pēc attiecīgā kapitula locekļa personiska lūguma. Ordeņu kapitula kanclera un locekļu pilnvaras izbeidzas viņu nāves gadījumā.

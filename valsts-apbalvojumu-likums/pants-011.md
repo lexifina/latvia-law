@@ -1,0 +1,4 @@
+11.pants. (1) Ar Triju Zvaigžņu ordeni (turpmāk šajā nodaļā arī - ordenis) apbalvo par sevišķiem nopelniem Tēvijas labā. Nopelni Tēvijas labā, par kuriem Triju Zvaigžņu ordeni piešķir, var izpausties valsts, pašvaldības, sabiedriskajā, kultūras, izglītības, zinātnes, sporta vai saimnieciskajā darbā.
+(2) Par nopelniem uzskatāms gan atsevišķs izcils darbs, gan ilgstoša, priekšzīmīga un panākumiem bagāta darbība, gan īpaši nopelni Latvijas neatkarības atjaunošanas periodā vai valsts tālākas nostiprināšanas laikā.
+(3) Ar Triju Zvaigžņu ordeni un tā goda zīmi var apbalvot fiziskās personas, arī militārpersonas un ārvalstu fiziskās personas.
+(4) Ar Triju Zvaigžņu ordeni var apbalvot ārvalstu vadītājus un ārvalstu valdību vadītājus, starptautisko organizāciju vadītājus, ārvalstu vēstniekus un citas ārvalstu amatpersonas valsts vizīšu laikā atbilstoši valsts apbalvojumu protokolārās apmaiņas tradīcijām.

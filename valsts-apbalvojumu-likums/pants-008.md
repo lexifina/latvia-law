@@ -1,0 +1,3 @@
+8.pants. (1) Ordeņu un to goda zīmju, miniatūrzīmju, miniatūro goda zīmju, lenšu, diplomu un apliecību zīmējumus, ordeņu statūtu zīmējumus, ordeņu un to goda zīmju zīmogu zīmējumus izvērtē Valsts heraldikas komisija un apstiprina tās priekšsēdētājs.
+(2) Valsts institūciju, pašvaldību un sabiedrisko organizāciju dibināto apbalvojumu zīmējumus izvērtē un apstiprina Valsts heraldikas komisija.
+(3) Ordeņu un to goda zīmju, miniatūrzīmju, miniatūro goda zīmju, lenšu, diplomu un apliecību zīmējumi, ordeņu statūtu zīmējumi, ordeņu un to goda zīmju zīmogu zīmējumi, kā arī ordeņu zīmju izgatavošanai paredzētās sagataves ir autora darbs, un uz šiem zīmējumiem un sagatavēm to autoram ir izņēmuma tiesības.

@@ -1,0 +1,2 @@
+61.pants. (1) Dažādu iemeslu dēļ nepasniegtos valsts apbalvojumus, kā arī pēc pasniegšanas atpakaļ saņemtos valsts apbalvojumus glabā Ordeņu kapituls.
+(2) Valsts apbalvojuma zīmes, diploma vai apliecības nozaudēšanas gadījumā apbalvotajam ir pienākums par to ziņot Ordeņu kapitulam. Apbalvotajai personai ir iespējams atjaunot nozaudēto apbalvojumu. Ar apbalvojuma atjaunošanu saistītos izdevumus sedz apbalvotā persona no saviem līdzekļiem.

@@ -1,0 +1,1 @@
+6. Šā likuma 63.panta noteikumi attiecināmi arī uz personām, kurām ārvalstu apbalvojumi piešķirti līdz šā likuma spēkā stāšanās dienai. Paziņojums par piešķirto apbalvojumu iesniedzams Ordeņa kapitulam triju mēnešu laikā pēc šā likuma spēkā stāšanās.

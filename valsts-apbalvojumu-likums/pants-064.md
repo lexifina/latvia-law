@@ -1,0 +1,1 @@
+64.pants. Pēc apbalvošanas ar augstākās šķiras (pakāpes) ordeni vai tā goda zīmi, tā paša apbalvojuma zemākas šķiras (pakāpes) ordeni vai tā goda zīmi vairs nenēsā. Arī pēc apbalvošanas ar ordeni šā ordeņa goda zīmi vairs nenēsā.

@@ -1,0 +1,3 @@
+63.pants. (1) Personas, kurām piešķirti ārvalstu apbalvojumi, var tos pieņemt, bet publiski nēsāt - vienīgi ar Valsts prezidenta atļauju.
+(2) Persona, kura saņēmusi ārvalsts apbalvojumu un vēlas to publiski nēsāt, par to paziņo Ordeņu kapitulam triju mēnešu laikā no apbalvojuma pasniegšanas dienas. Apbalvotā persona paziņojumā norāda piešķirtā apbalvojuma nosaukumu, valsti, kura apbalvojumu piešķīrusi, apbalvojuma piešķiršanas datumu un paziņojumam pievieno apbalvojuma diploma kopiju.
+(3) Paziņojumu par ārvalsts apbalvojuma piešķiršanu un atļauju to publiski nēsāt publicē laikrakstā "Latvijas Vēstnesis".

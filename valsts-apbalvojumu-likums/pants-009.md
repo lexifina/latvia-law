@@ -1,0 +1,1 @@
+9.pants. Ordeņu un to goda zīmju, miniatūrzīmju, miniatūro goda zīmju, piemiņas zīmes un tās mazās nozīmītes, diplomu, apliecību un statūtu izgatavošanas izdevumus sedz valsts, izņemot šā likuma 61.panta otrajā daļā minēto gadījumu.
