@@ -1,1 +1,1 @@
-5. Noteikt Latvijas Republikas valsts varas de facto atjaunošanai pārejas periodu, kurš beidzas ar Latvijas Republikas Saeimas sasaukšanu. Pārejas perioda augstāko valsts varu Latvijā realizē Latvijas Republikas Augstākā Padome.
+5. (Zaudējis spēku ar 21.08.1991. likumu, kas stājas spēkā 21.08.1991.)
