@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Autortiesību likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "148/150 (2059/2061)",
+  "official_journal_page": null,
+  "official_journal_date": "2000-04-27",
+  "entry_into_force": "2000-05-11",
+  "notification_date": "2014-12-30",
+  "commission_reference": "MNE(2014)57214",
+  "nim_celex": "72012L0028LVA_222304",
+  "nim_id": "222304",
+  "transposes_celex": [
+    "32012L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/93e3c056-8d9d-411d-88db-1efbf7cc9e93",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
