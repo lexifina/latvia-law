@@ -1,0 +1,2 @@
+7. pants. (1) Ministru kabinets, vienojoties ar katoļu baznīcas vadību Latvijā un attiecīgajām pašvaldībām, katru gadu nosaka Aglonas svētvietā paredzētos valsts nozīmes pasākumus un to norises noteikumus, kas ir saistoši valsts medicīnas iestādēm, valsts policijai un Zemessardzei.
+(2) Izdevumus, kas saistīti ar valsts nozīmes pasākumu medicīnisko nodrošināšanu, ceļu satiksmes un sabiedriskās kārtības nodrošināšanu Aglonas svētvietā un tās aizsardzības zonā, var segt no valsts budžeta.

@@ -1,0 +1,1 @@
+8. pants. Jebkura uzņēmējdarbība Aglonas svētvietā un tās aizsardzības zonā veicama likumdošanas aktos noteiktajā kārtībā un ar Aglonas bazilikas draudzes rakstveida atļauju. Aglonas pagasta iedzīvotājiem, kuri līdz Aglonas bazilikas zemes īpašuma tiesību atjaunošanai lietoja šo zemi, ir priekšrocības tiesības noslēgt ilgtermiņa zemes nomas līgumu ar Aglonas bazilikas draudzi.

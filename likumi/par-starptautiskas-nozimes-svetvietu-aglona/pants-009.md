@@ -1,0 +1,1 @@
+9. pants. Katoļu baznīcas vadība Latvijā, saskaņojot ar Ministru kabinetu, nosaka uzturēšanās kārtību Aglonas svētvietā. Šos noteikumus publicē un izvieto sabiedrībai pieejamās vietās Aglonas svētvietas teritorijā. Šo noteikumu ļaunprātīgus pārkāpējus izraida no Aglonas svētvietas.
