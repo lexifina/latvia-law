@@ -1,1 +1,1 @@
-9. Izdevumi zemes komisiju uzturēšanai tiek finansēti no republikas budžeta, paredzot šos izdevumus attiecīgajiem pašvaldību budžetiem.
+9. Izdevumi zemes komisiju uzturēšanai tiek segti no valsts budžeta.
