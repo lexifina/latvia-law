@@ -1,0 +1,1 @@
+39.pants. Jaunizveidotajai pašvaldībai līdzekļi no valsts budžeta (dotācijas un mērķdotācijas gadskārtējā valsts budžeta likuma ietvaros), dotācija no pašvaldību finansu izlīdzināšanas fonda, iedzīvotāju ienākuma nodokļa pārskaitījumi un citi maksājumi, ko veic Valsts kase, tiek pārskaitīti kā summa no apvienotajām pašvaldībām apstiprinātajiem līdzekļiem.

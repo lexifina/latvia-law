@@ -1,2 +1,2 @@
 VI nodaļa
-Pašvaldību aizņēmumi, garantijas un galvojumi
+Pašvaldību aizņēmumi, galvojumi

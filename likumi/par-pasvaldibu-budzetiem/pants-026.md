@@ -1,6 +1,7 @@
-26.pants. (1) Garantijas un galvojumus pašvaldības var dot tikai tām pašvaldības iestādēm, uzņēmumiem un uzņēmējsabiedrībām, kurās attiecīgās pašvaldības kapitāla daļa pārsniedz 50 procentus.
-(2) Tikai pašvaldības dome (padome), pieņemot par to lēmumu, var dot garantijas un galvojumus, kas uzliek saistības pašvaldības finansu līdzekļiem, ja:
-1) garantijas un galvojumi nepārsniedz Ministru kabineta apstiprināto apjomu un nepārkāpj citus noteikumus;
-2) dome (padome) ir saņēmusi un izskatījusi nepieciešamo pamatojumu un saistības sakarā ar ierosinātajām vai jau dotajām garantijām un galvojumiem;
-3) pašvaldības budžeta izdevumi, kas saistīti ar garantiju un galvojumu saistību izpildi, budžetā ir attiecināmi uz pašvaldības parādu;
-4) garantijas un galvojumi netiek nodrošināti ar pašvaldības īpašumu, kas nepieciešams pašvaldības pastāvīgo funkciju izpildei.
+26.pants. (1) Galvojumus pašvaldības var sniegt šajā likumā un Ministru kabineta noteikumos paredzētajā kārtībā. Pašvaldību sniegto galvojumu kopapjoms saimnieciskajā gadā nedrīkst pārsniegt gadskārtējā valsts budžeta likumā noteikto galvojumu maksimālā apmēra pieauguma apjomu.
+(2) Galvojumus pašvaldības var sniegt tikai tām pašvaldības iestādēm, uzņēmumiem un uzņēmējsabiedrībām, kurās attiecīgās pašvaldības kapitāla daļa pārsniedz 50 procentus, vai arī vairāku pašvaldību veidotām iestādēm, uzņēmumiem un uzņēmējsabiedrībām, kurās pašvaldību kapitāla daļu summa pārsniedz 65 procentus.
+(3) Tikai pašvaldības dome (padome), pieņemot par to lēmumu, var sniegt galvojumus, kas uzliek saistības pašvaldības finansu līdzekļiem, ja:
+1) dome (padome) ir saņēmusi un izskatījusi nepieciešamo pamatojumu un saistības sakarā ar ierosinātajiem vai jau sniegtajiem galvojumiem;
+2) pašvaldības budžeta izdevumi, kas saistīti ar galvojumu saistību izpildi, budžetā ir attiecināmi uz pašvaldības parādu;
+3) galvojumi netiek nodrošināti ar pašvaldības īpašumu, kas nepieciešams pašvaldības pastāvīgo funkciju izpildei;
+4) vairāku pašvaldību veidotām iestādēm, uzņēmumiem un uzņēmējsabiedrībām sniegtā galvojuma apmērs procentuāli atbilst pašvaldības kapitāla daļu skaitam attiecīgajā pamatkapitālā.

@@ -1,1 +1,1 @@
-15.pants. Pagastu, pilsētu un rajonu domju (padomju) priekšsēdētāji ir atbildīgi par pašvaldību budžetu sastādīšanu un apstiprināšanu Ministru kabineta noteiktajos termiņos.
+15.pants. Pašvaldības domes (padomes) priekšsēdētājs ir atbildīgs par to, lai pašvaldības budžets tiktu izstrādāts un apstiprināts ne vēlāk kā divu mēnešu laikā pēc gadskārtējā valsts budžeta likuma spēkā stāšanās.
