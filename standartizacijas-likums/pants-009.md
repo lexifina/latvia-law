@@ -4,4 +4,5 @@
 3) izdot un publicēt Latvijas nacionālos standartus un citus ar tiem saistītos dokumentus;
 4) nodrošināt standartu un citu ar tiem saistīto dokumentu fondu veidošanu un informācijas izplatīšanu standartizācijas jomā;
 5) nodrošināt Latvijas nacionālo standartu un citu ar tiem saistīto dokumentu fondu uzturēšanu, glabāšanu un papildināšanu;
-6) piedalīties starptautisko un reģionālo standartizācijas organizāciju darbā.
+6) piedalīties starptautisko un reģionālo standartizācijas organizāciju darbā;
+7) nodrošināt regulāru sadarbību ar Eiropas Savienības institūcijām starptautisko saistību izpildei saskaņā ar šā likuma 9.¹ pantu.
