@@ -1,0 +1,1 @@
+1. pants. 1994. gada 21. februārī Minskā parakstītais Līgums starp Latvijas Republiku un Baltkrievijas Republiku (turpmāk -Līgums) par tiesisko palīdzību un tiesiskajām attiecībām civilajās, ģimenes un krimināllietās ar šo likumu tiek pieņemts un apstiprināts.
