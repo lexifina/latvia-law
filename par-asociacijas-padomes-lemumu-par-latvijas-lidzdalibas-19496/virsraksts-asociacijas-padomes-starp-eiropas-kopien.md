@@ -1,0 +1,1 @@
+Asociācijas Padomes starp Eiropas Kopienām un to Dalībvalstīm, no vienas puses, un Latvijas Republiku, no otras puses, lēmums par Latvijas līdzdalības noteikumiem un nosacījumiem Kopienas pētniecības, tehnoloģiskās attīstības un rezultātu demonstrēšanas programmās (1998-2002), (182/1999/EC) un pētniecības un apmācības pasākumu programmās (1998-2002), (1999/64/Euratom)

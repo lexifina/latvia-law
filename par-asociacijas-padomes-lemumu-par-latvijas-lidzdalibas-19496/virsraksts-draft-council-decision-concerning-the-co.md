@@ -1,0 +1,1 @@
+Draft Council Decision Concerning the Community Position Within the Association Council on the Association of the Republic of Latvia to Community Programmes in the Field of Research, Technological Development and Demonstration (1998-2002) and to Programmes for Research and Training Activities (1998-2002)
