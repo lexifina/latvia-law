@@ -1,0 +1,2 @@
+21. Noteikt, ka pēc 1993.gada 5.aprīļa noslēgtie nekustamā īpašuma atsavināšanas līgumi nevar būt par pamatu ieguvēja īpašuma tiesību nostiprināšanai, ja nekustamais īpašums nav bijis ierakstīts zemesgrāmatā un nav bijušas nostiprinātas atsavinātāja īpašuma tiesības.
+Šā panta pirmās daļas noteikumi neattiecas uz nekustamo īpašumu atsavināšanu, kas tiek izdarīta atbilstoši likumiem par privatizāciju un īpašuma tiesību atjaunošanu.

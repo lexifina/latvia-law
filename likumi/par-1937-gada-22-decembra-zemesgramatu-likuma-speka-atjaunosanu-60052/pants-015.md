@@ -1,0 +1,1 @@
+15. Līdz apgabaltiesu izveidošanai sūdzības par Zemesgrāmatu nodaļas priekšnieka lēmumiem un rīcību iesniedzamas (Zemesgrāmatu likuma 98.pants) rajona vai pilsētas tiesā, bet Rīgā - priekšpilsētas (rajona) tiesā pēc nekustamā īpašuma atrašanās vietas.

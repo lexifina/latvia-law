@@ -1,0 +1,1 @@
+19. Pagasttiesu apliecinātai pilnvarai (Zemesgrāmatu likuma 58.pants) vai citam dokumentam (Zemesgrāmatu likuma 60. un 68.pants) atbilst dokumenti, ko apliecinājušas pagastu un pilsētu valdes, izpildot atbilstoši likumam notariālās darbības.

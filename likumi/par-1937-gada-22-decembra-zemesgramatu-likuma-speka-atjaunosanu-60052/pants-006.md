@@ -1,0 +1,1 @@
+6. Atbilstoši Civillikuma 968.pantam ēku (būvju) tiesisko reģistrāciju var izdarīt tikai pēc zemes gabala reģistrēšanas zemesgrāmatā. Ja zemes gabals un ēkas (būves) pieder vienai un tai pašai personai, zemes un ēku reģistrācija un īpašuma tiesību nostiprināšana izdarāma vienlaikus.
