@@ -1,0 +1,2 @@
+9.pants. (1) Pašvaldība ir tiesīga lemt par sociālo garantiju noteikšanu nacionālās pretošanās kustības dalībniekiem un sava budžeta ietvaros piešķirt viņiem atvieglojumus atsevišķu nodokļu un nodevu maksāšanā vai pakalpojumu saņemšanā.
+(2) Pašvaldība ir tiesīga lemt par kompensācijas sertifikātu dzēšanu, piešķirot samaksu naudā atbilstoši likumam "Par zemes privatizāciju lauku apvidos" Ministru kabineta noteiktajā kārtībā.
