@@ -1,3 +1,3 @@
 13.pants. Slimības pabalsta izmaksas periods
-(1) Slimības pabalstu piešķir un izmaksā par laiku no darba nespējas 15.dienas līdz darbspēju atgūšanas vai invaliditātes noteikšanas dienai, bet ne ilgāku par 52 nedēļām, skaitot no darba nespējas pirmās dienas, ja darba nespēja ir nepārtraukta, vai ne ilgāku par 78 nedēļām triju gadu periodā, ja darba nespēja atkārtojas ar pārtraukumiem.
+(1) Slimības pabalstu piešķir un izmaksā par laiku no darba nespējas 15.dienas līdz darbspēju atgūšanas dienai, bet ne ilgāku par 52 nedēļām, skaitot no darba nespējas pirmās dienas, ja darba nespēja ir nepārtraukta, vai ne ilgāku par 78 nedēļām triju gadu periodā, ja darba nespēja atkārtojas ar pārtraukumiem.
 (2) Līdz 14 gadus veca slima bērna kopšanai slimības pabalstu piešķir un izmaksā par laiku no darba nespējas pirmās dienas līdz darba nespējas 21. dienai. Par laiku no darba nespējas 15. dienas līdz 21. dienai pabalstu izmaksā, ja bērns kopts stacionārā.
