@@ -1,1 +1,1 @@
-5. pants. Kārtību, kādā izgatavojams standarts, karogi un to kāti, kā tiražējami standarta un karogu attēli, kā arī standarta un karogu lietošanas kārtību atsevišķos gadījumos nosaka attiecīgi Valsts prezidents, Saeimas priekšsēdētājs un Ministru prezidents.
+5. pants. Kārtību, kādā izgatavojams standarts, karogi un to kāti, kā tiražējami standarta un karogu attēli, kā arī standarta un karogu lietošanas kārtību atsevišķos gadījumos nosaka attiecīgi Valsts prezidents, Saeimas priekšsēdētājs, Ministru prezidents un aizsardzības ministrs.

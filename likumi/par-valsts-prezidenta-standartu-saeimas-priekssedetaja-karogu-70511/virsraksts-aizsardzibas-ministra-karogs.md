@@ -1,0 +1,1 @@
+Aizsardzības ministra karogs
