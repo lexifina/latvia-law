@@ -1,0 +1,1 @@
+2.pants. Likums stājas spēkā nākamajā dienā pēc tā izsludināšanas. Līdz ar likumu izsludināma Vienošanās krievu valodā un tās tulkojums latviešu valodā.

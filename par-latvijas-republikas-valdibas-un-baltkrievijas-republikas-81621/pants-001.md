@@ -1,0 +1,1 @@
+1.pants. 2002.gada 8.jūlijā parakstītā Latvijas Republikas valdības un Baltkrievijas Republikas valdības vienošanās par sadarbību katastrofu, dabas stihiju, citu ārkārtēju situāciju novēršanā, kā arī to seku likvidēšanā (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.
