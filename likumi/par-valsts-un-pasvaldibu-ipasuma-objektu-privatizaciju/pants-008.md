@@ -16,7 +16,7 @@
 14) kontrolē valsts īpašuma objektu privatizācijas projektu, privatizācijas konkursa noteikumu, pirkuma līgumu un citu ar tiem saistīto dokumentu izpildi un pieņem lēmumus par konkrētu valsts īpašuma objektu privatizācijas pabeigšanu;
 15) izdara grozījumus valsts īpašuma objektu privatizācijas projektos, privatizācijas konkursa noteikumos, pirkuma līgumos un citos ar tiem saistītajos dokumentos saskaņā ar Privatizācijas aģentūras statūtos noteiktajā kārtībā apstiprinātiem noteikumiem;
 16) veic zemesgabalu privatizāciju un citas ar to saistītas darbības saskaņā ar šā likuma VII daļā paredzētajiem noteikumiem;
-17) pilda citas funkcijas, kas tai uzticētas saskaņā ar likumiem un Ministru kabineta lēmumiem valsts īpašuma privatizācijas nodrošināšanai.
+17) pilda citas funkcijas, kas tai uzticētas saskaņā ar likumiem un Ministru kabineta lēmumiem.
 2. Pildot savas funkcijas, Privatizācijas aģentūra veic šādas darbības:
 1) organizē valsts īpašuma objektu izsoles un objektu piedāvājumu konkursus;
 2) pārveido valsts uzņēmumus statūtsabiedrībās, vienlaikus pārdodot to kapitāla daļas;
