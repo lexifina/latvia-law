@@ -1,0 +1,1 @@
+19. Šā likuma 12.pantā paredzēto mēneša neapliekamā minimuma apmēru un šā likuma 13.panta pirmās daļas 1.punktā un 1.² daļā paredzēto mēneša nodokļa atvieglojuma apmēru 2005.gadam nosaka likums "Par valsts budžetu 2005.gadam".

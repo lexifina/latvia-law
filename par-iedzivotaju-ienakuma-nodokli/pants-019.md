@@ -15,7 +15,8 @@
 2) taksācijas gada laikā izdarītos attaisnotos izdevumus;
 3) kā avansu, arī kā algas nodokli un patentmaksu samaksāto nodokli;
 4) nodokļa ieturēšanu no šā likuma 17.panta desmitajā daļā minētajiem ienākumiem;
-5) ārvalstīs samaksāto nodokli.
+5) ārvalstīs samaksāto nodokli;
+6) ka persona, kas ir citas Eiropas Savienības dalībvalsts rezidents, taksācijas gadā Latvijā guvusi vairāk nekā 75 procentus no saviem kopējiem ienākumiem un ka tā nav izmantojusi šajā likumā noteiktajiem nodokļa atvieglojumiem un attaisnotajiem izdevumiem analoģiskus atskaitījumus savā rezidences valstī.
 7. Ja maksātājs taksācijas gada laikā ir mainījis dzīvesvietu, deklarācija jāiesniedz (jānosūta pa pastu) Valsts ieņēmumu dienesta teritoriālajai iestādei pēc iepriekšējās dzīvesvietas.
 8. Zemnieku saimniecība, ja tā bez lauksaimnieciskās ražošanas veic arī citu saimniecisko darbību, var aprēķināt kopējos ienākumus (sedzot lauksaimnieciskos zaudējumus no citiem ienākumiem). Šajā gadījumā nepiemēro 9.panta pirmās daļas 1.punktu.
 9. Ja izdevumiem, kas saistīti ar maksātāja saimniecisko darbību, ir noteiktas izdevumu normas, šo izdevumu apliecināšanai attiecīgajā apmērā nav nepieciešams iesniegt vai uzrādīt tos apliecinošus dokumentus.

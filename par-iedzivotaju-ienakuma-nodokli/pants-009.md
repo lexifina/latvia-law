@@ -2,12 +2,12 @@
 1. Gada apliekamajā ienākumā netiek ietverti un ar nodokli netiek aplikti šādi ienākumu veidi:
 1) personiskās palīgsaimniecības, piemājas saimniecības un zemnieka saimniecības ienākumi no lauksaimnieciskās ražošanas, ja tie nepārsniedz 3000 latu gadā. Lauksaimnieciskā ražošana šā likuma izpratnē ir augkopības, lopkopības, iekšējo ūdeņu zivsaimniecības un dārzkopības produkcijas ražošana;
 2) fiziskās personas - individuālā uzņēmuma īpašnieka - ienākums no individuālā uzņēmuma, kurš ir uzņēmumu ienākuma nodokļa maksātājs, un fiziskajām personām izmaksātās dividendes no Latvijas Republikas uzņēmējsabiedrības vai kapitālsabiedrības peļņas un Eiropas Savienības dalībvalsts rezidenta - kapitālsabiedrības peļņas, izņemot dividendes no citu valstu nerezidentiem un iekšzemes uzņēmumiem, kuriem nav jāmaksā uzņēmumu ienākuma nodoklis, kā arī no tiem uzņēmumiem, kuri izmanto likumā "Par ārvalstu ieguldījumiem Latvijas Republikā" paredzētos atvieglojumus vai citos Latvijas Republikas likumos noteiktos uzņēmumu ienākuma nodokļa atvieglojumus, vai analogus Eiropas Savienības dalībvalstīs noteiktus ienākuma nodokļa atvieglojumus dividenžu deklarēšanas gadā vai iepriekšējā gadā;
-3) ienākumi no noguldījumiem un depozītiem Latvijas Republikā reģistrētās kredītiestādēs un krājaizdevu sabiedrībās, kā arī ienākumi no hipotekārajām ķīlu zīmēm;
+3) ienākumi no noguldījumiem un depozītiem Latvijas Republikā un citās Eiropas Savienības dalībvalstīs reģistrētās kredītiestādēs un krājaizdevu sabiedrībās, kā arī ienākumi no hipotekārajām ķīlu zīmēm;
 4) apdrošināšanas atlīdzības, izņemot tās apdrošināšanas atlīdzības, kas izmaksātas pēc dzīvības, veselības un negadījuma apdrošināšanas līguma, kuru apdrošinātā interesēs noslēdzis darba devējs (vai cits apdrošinājuma ņēmējs - juridiskā persona), pienākot apdrošināšanas līgumā paredzētajam līguma beigu termiņam vai laužot līgumu pirms termiņa;
 5) izložu un azartspēļu laimesti, kuri nepārsniedz izdevumus, kas saistīti ar to iegūšanu, - Ministru kabineta noteiktajā kārtībā;
 6) ienākumi no Latvijas valsts un pašvaldību parādzīmēm;
 7) normatīvajos aktos noteiktie no budžeta izmaksājamie pabalsti, izņemot pārejošas darba nespējas pabalstus, normatīvajos aktos noteiktā atlīdzība par aizbildņa pienākumu pildīšanu un atlīdzība par audžuģimenes pienākumu veikšanu, kas izmaksājama no budžeta, kā arī citi pabalsti, kas izmaksājami no Ministru kabineta noteiktajiem fondiem;
-8) stipendijas, kas izmaksātas no budžeta, Ministru kabineta apstiprināta fonda līdzekļiem vai no to starptautisko izglītības vai sadarbības programmu līdzekļiem, kurās līdzdalību ir apstiprinājis Ministru kabinets;
+8) stipendijas, kas izmaksātas no budžeta, Ministru kabineta apstiprinātas biedrības vai nodibinājuma līdzekļiem vai no to starptautisko izglītības vai sadarbības programmu līdzekļiem, kurās līdzdalību ir apstiprinājis Ministru kabinets;
 9) mantojuma rezultātā gūtais ienākums, izņemot autoratlīdzību (honorāru), kuru izmaksā autortiesību mantiniekiem, un no fiziskajām personām saņemtais dāvinājums;
 10) konkursos un sacensībās saņemtās mantiskās un naudas balvas (prēmijas), kuru kopējā vērtība taksācijas gadā nepārsniedz 150 latu, un publiskos starptautiskos konkursos un starptautiskās sacensībās gūtās balvas un prēmijas, kuru kopējā vērtība gadā nepārsniedz 3000 latu, kā arī Baltijas asamblejas balvu laureātiem izmaksātā naudas prēmija;
 11) uzturnauda (alimenti);
@@ -28,9 +28,11 @@ d) personāla akciju atpirkšanas;
 22) summas, kas izmaksātas subsīdiju veidā kā valsts atbalsts lauksaimniecībai vai Eiropas Savienības atbalsts lauksaimniecībai un lauku attīstībai;
 23) bezpeļņas organizācijas sabiedrības ar ierobežotu atbildību "Sorosa fonds - Latvija" projektu ietvaros izmaksātās stipendijas un atlīdzība, kura personai izmaksāta ārpus darba tiesiskajām attiecībām ar bezpeļņas organizāciju sabiedrību ar ierobežotu atbildību "Sorosa fonds - Latvija";
 24) ienākums no privātajos pensiju fondos veikto iemaksu ieguldīšanas;
-25) palīdzība, kas, pamatojoties uz reliģiskās organizācijas vai tās iestādes institūcijas (amatpersonas) lēmumu, sniegta no reliģiskās organizācijas vai tās iestādes naudas līdzekļiem, - gada neapliekamā minimuma apmērā;
-26) preču un pakalpojumu loteriju laimesti.
-2. Šā panta pirmās daļas 1., 10., 14., 16., 20. un 25.punktā minēto ienākumu, ja tie pārsniedz attiecīgās šajos punktos noteiktās summas (normas) lielumu, pārsnieguma summa tiek aplikta ar nodokli.
+25) palīdzība naudā vai citās lietās, vai pakalpojuma veidā, kas, pamatojoties uz reliģiskās organizācijas vai tās iestādes institūcijas (amatpersonas) lēmumu, sniegta no reliģiskās organizācijas vai tās iestādes naudas līdzekļiem, - gada neapliekamā minimuma apmērā;
+26) preču un pakalpojumu loteriju laimesti;
+27) palīdzība naudā vai citās lietās, vai pakalpojuma veidā, kas sniegta no sabiedriskā labuma organizācijas (izņemot reliģisko organizāciju) līdzekļiem, vai palīdzība, ko budžeta finansētas institūcijas, labdarības vai filantropiskas organizācijas sniegušas lietās, kurām piemērots atbrīvojums no muitas nodokļa, - gada neapliekamā minimuma apmērā;
+28) kompensācija par īres līguma izbeigšanu un dzīvojamo telpu atbrīvošanu denacionalizēta vai likumīgajam īpašniekam atdota nama īrniekam, kurš attiecīgajā namā dzīvojis līdz īpašuma tiesību atjaunošanai likumīgajam īpašniekam (viņa mantiniekam).
+2. Šā panta pirmās daļas 1., 10., 14., 16., 20., 25. un 27.punktā minēto ienākumu, ja tie pārsniedz attiecīgās šajos punktos noteiktās summas (normas) lielumu, pārsnieguma summa tiek aplikta ar nodokli.
 3. Šā panta noteikumi nav attiecināmi uz Latvijā gūto nerezidenta ienākumu.
 4. Šā panta pirmās daļas 8.punktā minētā stipendija ir vienreizēja vai sistemātiski ilgākā laika posmā izmaksāta naudas summa personai:
 1) kura vispārēju vai izvēlētu izglītības (studiju) programmu apgūst izglītības iestādē vai patstāvīgi;
