@@ -8,4 +8,6 @@
 1) par tīšu likuma pārkāpumu vai nolaidību, kas saistīta ar viņa profesionālo darbību un izraisījusi būtiskas sekas;
 2) par apkaunojošu nodarījumu, kas nav savienojams ar prokurora amatu;
 3) ja viņš sasniedzis valsts noteikto pensijas vecumu;
-4) ja atestācijas komisija konstatē, ka viņa profesionālās iemaņas ir nepietiekamas.
+4) ja atestācijas komisija konstatē, ka viņa profesionālās iemaņas ir nepietiekamas;
+5) par darba pienākumu tīšu nepildīšanu;
+6) par Prokuroru ētikas kodeksa normu rupju pārkāpšanu.
