@@ -1,0 +1,1 @@
+4.pants. Līdz Konvencijas spēkā stāšanās brīdim Valsts ieņēmumu dienests noslēdz līgumu ar Latvijas Tirdzniecības un rūpniecības kameru par informācijas apmaiņu un kārtību, kādā veicami norēķini par Latvijā ievestām precēm saskaņā ar ATA karneti un CPD karneti, kā arī par Konvencijas nosacījumu neizpildīšanu.

@@ -1,0 +1,1 @@
+6.pants. Konvencija un Pielikumi stājas spēkā Konvencijas 26.pantā noteiktajā laikā un kārtībā, un par to Ārlietu ministrija paziņo laikrakstā "Latvijas Vēstnesis".
