@@ -1,2 +1,2 @@
-2.pants. Likuma darbība
-Šis likums nosaka kārtību, kādā veicama zemes dzīļu kompleksa, racionāla un vidi saudzējoša izmantošana, kā arī zemes dzīļu izmantošanas un aizsardzības prasības.
+2.pants. Likuma mērķis
+Likuma mērķis ir nodrošināt zemes dzīļu kompleksu, racionālu, vidi saudzējošu un ilgtspējīgu izmantošanu, kā arī noteikt zemes dzīļu aizsardzības prasības.

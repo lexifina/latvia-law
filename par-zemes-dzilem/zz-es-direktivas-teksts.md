@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 1994.gada 30.maija direktīvas 94/22/EK par atļauju piešķiršanas un izmantošanas noteikumiem ogļūdeņražu meklēšanai, izpētei un ieguvei.

@@ -1,0 +1,3 @@
+12.¹ pants. Zemes dzīļu īpašuma tiesību aprobežojums valsts nozīmes zemes dzīļu nogabalos
+(1) Zemes dzīļu īpašuma tiesību aprobežojumu var noteikt valsts nozīmes zemes dzīļu nogabalos, ja sabiedrības un valsts interesēs nepieciešams izmantot zemes dzīļu derīgās īpašības vai iegūt pazemes ūdeņus. Par katru zemes dzīļu īpašuma tiesību aprobežojumu un zemes dzīļu vai to īpašību izmantošanas gadījumu Ministru kabinets lemj atsevišķi.
+(2) Kārtību, kādā zemes īpašniekam aprēķināma un izmaksājama atlīdzība par īpašuma tiesību aprobežojumu, kas noteikts saskaņā ar šā panta pirmo daļu, nosaka Ministru kabinets. Par atlīdzības apmēru, kas maksājams par īpašuma tiesību aprobežojumu, noslēdzama rakstveida vienošanās.

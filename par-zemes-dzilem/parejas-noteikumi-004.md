@@ -1,1 +1,1 @@
-4. Ministru kabinets sešu mēnešu laikā pēc šā likuma stāšanās spēkā izstrādā noteikumus par valsts nozīmes derīgo izrakteņu un atradņu, kā arī valsts nozīmes zemes dzīļu nogabalu izmantošanas kārtību.
+4. Ministru kabinets sešu mēnešu laikā pēc šā likuma stāšanās spēkā izstrādā noteikumus par valsts nozīmes derīgo izrakteņu un atradņu, kā arī valsts nozīmes zemes dzīļu nogabalu izmantošanas kārtību; noteikumus par ogļūdeņražu meklēšanas, izpētes un ieguves licencēšanas kārtību, kā arī ogļūdeņražu meklēšanas, izpētes un ieguves noteikumus.
