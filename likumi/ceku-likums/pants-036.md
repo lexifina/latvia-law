@@ -1,0 +1,5 @@
+36. Ja čeks izrakstīts valūtā, kura nav apgrozībā maksāšanas vietā, tad čeka uzrādīšanai paredzētā laikā čeka sumu var maksāt vietējā naudā pēc maksāšanas dienas kursa. Ja čeku nesamaksā pie uzrādīšanas, tad turētājam ir tiesība prasīt čeka summas samaksu vietējā naudā, izvēloties čeka summas pārrēķināšanai vai nu uzrādīšanas dienas vai samaksas dienas kursu.
+Ārzemju valūtas vērtību noteic pēc maksāšanas vietas tirdzniecības parašām. Tomēr čeka devējs pašā čekā var noteikt kursu čeka summas pārrēķināšanai.
+Nav jāpiemēro šā (36.) panta pirmās un otrās daļu noteikumi, ja čeka devējs noteicis, ka samaksa izdarāma noteiktā valūtā (efektivklauzula).
+Tomēr šī atzīme nav spēkā, ja Latvijā iestājušies ārkārtēji apstākļi, kas ietekmē naudas kursus. Pazīmes, kas raksturo ārkārtējus apstākļus, tāpat arī šo apstākļu rašanos un izbeigšanos, noteic valdība.
+Ja čeka suma ir noteikta valūtā, kurai vienāds nosaukums, bet cita vērtība valstī, kur čeks izrakstīts, un valstī, kur tas maksājams, tad jāpieņem, ka domāta tās valsts valūta, kur čeks maksājams.

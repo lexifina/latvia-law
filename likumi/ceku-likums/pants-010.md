@@ -1,0 +1,1 @@
+10. Ja uz čeka atrodas tādu personu paraksti, kurām trūkst spēja uzņemties čeku saistības, viltoti paraksti, izdomātu personu paraksti, vai paraksti, kas kādu citu iemeslu dēļ nav saistoši pašiem parakstītājiem vai personām, kuru vārdā čeks parakstīts, tad pārējo parakstītāju saistības tomēr paliek spēkā.

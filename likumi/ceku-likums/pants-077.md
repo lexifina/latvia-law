@@ -1,0 +1,1 @@
+77. Protesta formu un laiku protesta celšanai, tāpat arī citas tādas darbības formu, kas nepieciešama, lai izlietotu vai paturētu tiesības pēc čeka, noteic likums, kas ir spēkā tās valsts teritorijā, kurā izdarāms protests vai minētā darbība.

@@ -1,0 +1,2 @@
+ČETRPADSMITĀ NODAĻA
+Konfliktnormas

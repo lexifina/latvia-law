@@ -1,0 +1,1 @@
+67. Nozudušu, nozagtu vai iznīcinātu čeku var atzīt par anulētu Civilprocesa likumā paredzētā uzaicinājuma kārtībā. Uzaicinājuma laiks ir divi mēneši. Par uzaicinājuma izdarīšanu jāpaziņo, ciktāl tas iespējams, visām čekā minētām personām.

@@ -1,0 +1,1 @@
+13. Ja čeks bija nepilnīgs to pirmam čeka ņēmējam iedodot un vēlāk aizpildīts pretēji norunai, tad pret čeka turētāju nevar celt iebildumu par norunas neievērošanu, ja vien viņš čeku nav ieguvis ļaunā ticībā vai, to iegūstot, nav pielaidis rupju neuzmanību.

@@ -1,0 +1,5 @@
+48. Ja nepārvaramu šķēršļu dēļ (kādas valsts likumīgi rīkojumi vai citi nepārvaramas varas gadījumi) noteiktā laikā nav iespējams uzrādīt čeku vai izdarīt protestu vai līdzīgu konstatējumu, tad šo laiku pagarina.
+Čeka turētājam par nepārvaramas varas gadījumiem nekavējoties jāpaziņo savam tiešam indosantam un par šo paziņojumu jāatzīmē uz čeka vai uz piemetinātās lapas, minot datumu un parakstoties. Bez tam jāpiemēro 42. panta noteikumi.
+Izbeidzoties nepārvaramas varas gadījumam, čeka turētājam nekavējoties jāuzrāda čeks samaksai un vajadzības gadījumā jāizdara protests vai līdzīgs konstatējums.
+Ja nepārvarama vara ilgst pāri par piecpadsmit dienām pēc tās dienas, kad čeka turētājs, pat pirms uzrādīšanas laika notecēšanas, paziņojis savam priekšgājējam par nepārvaramās varas gadījumu, tad var izlietot regresu, nemaz neuzrādot čeku un neizdarot protestu vai līdzīgu konstatējumu.
+Nav jāuzskata par nepārvaramas varas gadījumiem tādi apstākļi, kas skar tīri personīgi čeka turētāju vai personu, kurai viņš uzdevis uzrādīt čeku vai izdarīt protestu vai līdzīgu konstatējumu.

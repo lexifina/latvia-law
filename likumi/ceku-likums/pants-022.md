@@ -1,0 +1,1 @@
+22. Personas, pret kurām celta prasība pēc čeka, nevar aizstāvēties pret čeka turētāju ar iebildumiem, kas pamatojas uz viņu personīgām attiecībām ar čeka devēju vai ar iepriekšējiem čeka turētājiem, ja vien pašreizējais čeka turētājs, iegūstot čeku, nav rīkojies apzināti par ļaunu parādniekam.

@@ -1,0 +1,2 @@
+69. Persona, uz kuras lūgumu anulēts čeks, var izlietot pret atbildīgām personām no šā čeka izrietošās tiesības.
+Kad tiesas lēmums par čeka anulēšanu ir pārsūdzēts un atcelts, tad maksājumi, kurus ir izdarījusi uz šā lēmuma pamata atbildīgā persona, paliek joprojām spēkā pat pret trešām personām un īpaši pret to, kas pārsūdzējis lēmumu, ja vien atbildīgā persona, maksājumu izdarot, nav zinājusi par lēmuma atcelšanu.

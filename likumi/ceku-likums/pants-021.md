@@ -1,0 +1,1 @@
+21. Ja čeks kaut kādā veidā nozudis tā agrākam turētājam, - vienalga, vai čeks ir uz uzrādītāju vai ir dodams tālāk ar indosamentu, un tiesība uz to pierādama 19. pantā minētā veidā, - pašreizējam turētājam ir tikai tad pienākums atdot čeku, ja viņš to ieguvis ļaunā ticībā vai pielaižot rupju neuzmanību.

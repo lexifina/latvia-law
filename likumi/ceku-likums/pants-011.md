@@ -1,0 +1,1 @@
+11. Kas parakstījis čeku kā vietnieks, lai gan viņam nav bijis pilnvarojuma, ir pats atbildīgs uz čeka pamata, un viņam, ja tas čeku samaksājis, ir tādas pašas tiesības, kādas būtu varējusi izlietot šķietami atvietotā persona. Tādu pašu atbildību nes vietnieks, kas pārkāpis savu pilnvarojumu.

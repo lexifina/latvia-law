@@ -1,0 +1,2 @@
+DESMITĀ NODAĻA
+Vispārīgi noteikumi

@@ -1,0 +1,1 @@
+1. Čekiem, kas izrakstīti pirms šā likuma spēkā stāšanās, pat ja uz tiem ir uzraksti, kas taisīti pēc šā likuma spēkā stāšanās, jāpiemēro likuma par čeku (Lik. kr. 1921. g. 75) noteikumi. Izdarot protestu, aprēķinot protesta termiņus un anulējot nozudušos, nozagtos vai iznīcinātos čekus, jāpiemēro šā likuma noteikumi.
