@@ -2,8 +2,8 @@
 (1) Tiesnešu konference ir tiesnešu pašpārvaldes institūcija. Tās darbā piedalās visi republikas tiesneši.
 (2) Tiesnešu konference:
 1) izskata aktuālus tiesu prakses jautājumus;
-2) iesniedz Augstākās Tiesas priekšsēdētājam iesniegumus par jautājumiem, kuros Augstākās Tiesas plēnumam būtu jādod izskaidrojumi, kā piemērojami likumdošanas akti;
+2) iesniedz Augstākās tiesas priekšsēdētājam iesniegumus par tiesību normu interpretācijas jautājumiem, kuri būtu jāapspriež Augstākās tiesas plēnumam;
 3) apspriež materiālās un sociālās nodrošināšanas un citus būtiskus tiesnešu darba jautājumus;
-4) aizklāti balsojot, ievēlē tiesnešu kvalifikācijas kolēģiju un tās priekšsēdētāju;
-5) ievēlē tiesnešu disciplinārkolēģiju.
+4) aizklāti balsojot, ievēlē tiesnešu kvalifikācijas kolēģiju un tās priekšsēdētāju uz četriem gadiem;
+5) ievēlē tiesnešu disciplinārkolēģiju uz četriem gadiem.
 (3) Nekustamo īpašumu reģistrēšanas un ar tiem saistīto tiesību nostiprināšanas prakses aktuālu jautājumu izskatīšanai var sasaukt zemesgrāmatu nodaļu tiesnešu konferenci.

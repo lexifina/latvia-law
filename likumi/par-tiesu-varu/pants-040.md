@@ -8,5 +8,6 @@
 5) vada tiesu prakses pētīšanas un vispārināšanas, ka arī tiesu statistikas kārtošanas darbu;
 6) organizē tiesas darbinieku kvalifikācijas celšanu;
 7) organizē darbu, kas saistīts ar tiesas nolēmumu nodošanu izpildei;
-8) realizē citas likumdošanas aktos noteiktās pilnvaras.
+8) nodrošina lietu sadali pēc vispārīgiem, abstraktiem un lietišķi objektīviem principiem atbilstoši lietu sadales plānam;
+9) īsteno citas normatīvajos aktos noteiktās pilnvaras.
 (3) Apgabaltiesas priekšsēdētājs personiski piedalās lietu izskatīšanā tiesas sēdēs.

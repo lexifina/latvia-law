@@ -2,7 +2,7 @@
 (1) Rajona (pilsētas) tiesas priekšsēdētāju un viņa vietnieku no šīs tiesas tiesnešu vidus uz pieciem gadiem ieceļ tieslietu ministrs, pamatojoties uz tiesnešu kvalifikācijas kolēģijas atzinumu. Rajona (pilsētas) tiesas priekšsēdētāju un viņa vietnieku atbrīvo no amata pēc paša lūguma tieslietu ministrs. Rajona (pilsētas) tiesas priekšsēdētāju un viņa vietnieku atceļ no amata tieslietu ministrs, pamatojoties uz tiesnešu disciplinārkolēģijas atzinumu.
 (2) Rajona (pilsētas) tiesas priekšsēdētājs:
 1) vada un kontrolē tiesas darbu;
-2) norīko tiesnešus par tiesas sēžu priekšsēdētājiem, kā arī sadala citus pienākumus starp tiesnešiem;
+2) norīko tiesnešus par tiesas sēžu priekšsēdētājiem pēc vispārīgiem, abstraktiem un lietišķi objektīviem principiem atbilstoši lietu sadales plānam, kā arī sadala citus pienākumus starp tiesnešiem;
 3) organizē juridiskās mācības piesēdētājiem;
 4) organizē tiesas darbu apmeklētāju pieņemšanā un iesniegumu izskatīšanā;
 5) vada tiesu prakses pētīšanas un vispārināšanas, kā ari tiesu statistikas kārtošanas darbu;

@@ -1,2 +1,2 @@
-118. pants. Tiesu sistēmas materiāltehniskā bāze
-Valsts nodrošina tiesas ar zinātnes un tehnikas sasniegumiem un starptautiskajām prasībām atbilstošu materiāltehnisko bāzi.
+118. pants. Tiesu materiāltehniskais nodrošinājums
+Valsts nodrošina tiesas ar atbilstošu materiāltehnisko nodrošinājumu tiesas funkciju veikšanai.
