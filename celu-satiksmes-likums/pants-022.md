@@ -1,0 +1,4 @@
+22.pants. Transportlīdzekļu vadītāji
+(1) Latvijas Republikas transportlīdzekļu vadītāja apliecību var iegūt jebkura persona, kas pastāvīgi dzīvo Latvijā, vai persona, kurai ir tiesības uzturēties Latvijā ilgāk par trim mēnešiem un kurai nav medicīnisku pretindikāciju transportlīdzekļu vadīšanai.
+(2) To transportlīdzekļu uzskaitījumu, kuru vadīšanai papildus vadītāja apliecībai nepieciešama speciāla atļauja, kā arī to medicīnisko pretindikāciju sarakstu, kuras liedz vadīt transportlīdzekli, nosaka Ministru kabinets.
+(3) Transportlīdzekļu vadītāju kvalifikācijas piešķiršanas kārtību, kvalifikācijas prasības speciālistiem, kuri veic transportlīdzekļu vadītāju sagatavošanu, transportlīdzekļu vadītāju sagatavošanas programmas un tehnisko mācību līdzekļu sarakstus nosaka attiecīgi Satiksmes ministrija un Zemkopības ministrija.

@@ -1,0 +1,2 @@
+46.pants. Noteikumu spēks attiecībā uz ārvalstu pilsoņiem un bezvalstniekiem
+Šis likums, Ceļu satiksmes noteikumi un citi normatīvie akti, kas regulē attiecības ceļu satiksmes drošības jomā, attiecas arī uz ārvalstīs reģistrētajiem transportlīdzekļiem, kā arī to īpašniekiem, vadītājiem un citiem ceļu satiksmes dalībniekiem, tiem atrodoties Latvijas teritorijā, ja starptautiskajos līgumos, kuru dalībvalsts ir Latvija, nav paredzēts citādi.

@@ -1,0 +1,1 @@
+2. Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta 1997.gada 7.aprīļa noteikumi nr.135 "Noteikumi par ceļu satiksmi" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1997, 10., 18.nr.).

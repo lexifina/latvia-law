@@ -1,0 +1,3 @@
+43.pants. Atbildība par ceļu satiksmes drošību reglamentējošu aktu prasību pārkāpšanu
+(1) Par šā likuma un citu ceļu satiksmes drošību reglamentējošu aktu prasību pārkāpšanu vainīgās personas saucamas pie likumā noteiktās atbildības.
+(2) Gadījumos, kad saskaņā ar Latvijas Administratīvo pārkāpumu kodeksu transportlīdzekļa vadītājam iestājas atbildība, bet vadītājs nav noskaidrots un īpašnieks (valdītājs) nevar norādīt, kas bija transportlīdzekļa vadītājs pārkāpuma izdarīšanas brīdī, par izdarīto pārkāpumu atbild transportlīdzekļa īpašnieks (valdītājs). Ja transportlīdzeklis ir izgājis no īpašnieka (valdītāja) valdījuma nevis viņa paša vainas dēļ, bet gan citas personas prettiesisku darbību rezultātā, par nodarīto pārkāpumu atbild šī persona.

@@ -1,0 +1,5 @@
+20.pants. Transportlīdzekļu īpašnieku, valdītāju un turētāju pienākumi un tiesības
+(1) Transportlīdzekļa īpašniekam, valdītājam un turētājam ir pienākums darīt visu nepieciešamo, lai netiktu izmantoti tādi viņa lietošanā esošie transportlīdzekļi, uz kuriem attiecas ekspluatācijas aizlieguma nosacījumi vai kuri nav reģistrēti noteiktā kārtībā, vai kuriem nav veikta valsts tehniskā apskate.
+(2) Transportlīdzekļa īpašnieks, valdītājs un turētājs nedrīkst dot atļauju vadīt transportlīdzekli personai, kura ir alkoholisko dzērienu, narkotisko, psihotoksisko vai citu apreibinošo vielu iespaidā.
+(3) Transportlīdzekļa īpašnieks, valdītājs un turētājs nedrīkst dot atļauju vadīt transportlīdzekli personai, kurai nav atbilstošas kategorijas transportlīdzekļu vadītāja apliecības, izņemot gadījumus, kad Ceļu satiksmes noteikumos paredzētajā kārtībā notiek transportlīdzekļa vadīšanas apmācība vai vadīšanas iemaņu pārbaude.
+(4) Ir jāveic mehāniskā transportlīdzekļa īpašnieka, valdītāja un turētāja civiltiesiskās atbildības obligātā apdrošināšana likumos un citos normatīvajos aktos noteiktajā kārtībā.
