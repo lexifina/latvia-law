@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums ''Grozījumi Valsts statistikas likumā''",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "50 (2998)",
+  "official_journal_page": null,
+  "official_journal_date": "2004-03-31",
+  "entry_into_force": "2004-04-14",
+  "notification_date": "2004-07-06",
+  "commission_reference": "MNE(2004)59592",
+  "nim_celex": "71989L0130LVA_29592",
+  "nim_id": "29592",
+  "transposes_celex": [
+    "31989L0130",
+    "31989L0391"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c6366f01-800c-42d5-bd17-31fa0450780f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
