@@ -1,0 +1,1 @@
+1.pants. 1997.gada 23.aprīlī Kairā parakstītais Latvijas Republikas valdības un Ēģiptes Arābu Republikas valdības nolīgums par regulāru gaisa satiksmi (turpmāk - Nolīgums) un tā pielikums (turpmāk - Pielikums) ar šo likumu tiek pieņemti un apstiprināti.
