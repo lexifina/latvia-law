@@ -1,5 +1,5 @@
 32.pants. Atbildība par nodokļu bāzes samazināšanu
 (1) Ja nodokļu maksātājs, pārkāpdams nodokļu likumu prasības, nodokļu administrācijai iesniegtajās deklarācijās vai nodokļu aprēķinos samazina nodokļu bāzi (ar nodokli apliekamo objektu) un no tās aprēķināto nodokļa summu, nodokļu administrācija aprēķina un par labu budžetam no nodokļu maksātāja piedzen samazināto nodokļa summu un soda naudu tās apmērā, ja konkrēto nodokļu likumos nav paredzēts cits soda naudas apmērs.
-(2) Soda naudu nepiedzen, ja nodokļu maksātājs termiņā iesniegtajai deklarācijai vai nodokļu aprēķinam pirms nodokļu administrācijas pārbaudes sākuma iesniedzis deklarācijas labojumu vai nodokļa aprēķina precizējumu un samaksājis samazināto nodokļa summu.
-(3) Šā panta otrās daļas nosacījums piemērojams nodokļu maksātājiem ne vairāk kā vienu reizi taksācijas gadā.
+(2) Soda naudu nepiedzen, ja nodokļu maksātājs termiņā iesniegtajai deklarācijai vai nodokļu aprēķinam pirms nodokļu administrācijas pārbaudes sākuma iesniedzis deklarācijas labojumu vai nodokļa aprēķina precizējumu un samaksājis samazināto nodokļa summu un ar to saistīto pamatparāda palielinājumu un nokavējuma naudu.
+(3) (Izslēgta ar 13.04.2000. likumu.)
 (4) Samazinātā nodokļa summa un soda nauda attiecīgajā apmērā nodokļu maksātājam jāsamaksā 30 dienu laikā no dienas, kad saņemts nodokļu administrācijas lēmums par aprēķināto nodokļa summu. Ja maksājumi noteikto 30 dienu laikā netiek veikti, ar 31. dienu piemērojami šā likuma 29.panta pirmās un otrās daļas nosacījumi.

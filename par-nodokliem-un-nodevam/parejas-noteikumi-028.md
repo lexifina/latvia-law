@@ -1,0 +1,1 @@
+28. Ministru kabinets līdz 2000.gada 1.septembrim pieņem noteikumus, kuri reglamentē valsts nodevas apmēru par valsts valodas prasmes atestāciju profesionālo un amata pienākumu veikšanai, tās maksāšanas kārtību un nodevas atlaides mazaizsargātām un maznodrošinātām personām.

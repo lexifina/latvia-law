@@ -1,11 +1,11 @@
 25.pants. Nodokļu parādu dzēšana
-(1) Valsts budžetā ieskaitāmo nodokļu parādus, kā arī ar tiem saistītās soda naudas, pamatparāda palielinājuma naudas un nokavējuma naudas pēc nodokļu administrācijas priekšlikuma Ministru kabineta noteiktajā kārtībā dzēš finansu ministrs šādos gadījumos:
+(1) Valsts budžetā ieskaitāmo nodokļu parādus, kā arī ar tiem saistītās soda naudas, pamatparāda palielinājuma naudas un nokavējuma naudas pēc nodokļu administrācijas priekšlikuma Ministru kabineta noteiktajā kārtībā dzēš Finansu ministrija šādos gadījumos:
 1) uzņēmumam (uzņēmējsabiedrībai) - ja ar tiesas nolēmumu ir pabeigta bankrota procedūra un izbeigta maksātnespējas lieta;
 2) individuālajam (ģimenes) uzņēmumam, arī zemnieku vai zvejnieku saimniecībai, dibinātāja - īpašnieka nāves gadījumā, ja nav iespējams no mantiniekiem piedzīt nodokļu parādus, kā arī ar tiem saistītās soda naudas, pamatparāda palielinājuma naudas un nokavējuma naudas;
 3) fiziskajai personai - nodokļu maksātājam - viņa nāves gadījumā, ja nav iespējams no mantiniekiem piedzīt nodokļu parādus, kā arī ar tiem saistītās soda naudas, pamatparāda palielinājuma naudas un nokavējuma naudas.
-(2) Kapitalizētos nodokļu maksājumu pamatparādus, kā arī ar tiem saistītās soda naudas un nokavējuma naudas, izņemot zemes nodokļa parādus, finansu ministrs dzēš pēc kapitalizāciju veicošās institūcijas priekšlikuma Ministru kabineta noteiktajā kārtībā.
+(2) Kapitalizētos nodokļu maksājumu pamatparādus, kā arī ar tiem saistītās soda naudas un nokavējuma naudas, izņemot zemes nodokļa parādus, Finansu ministrija dzēš pēc kapitalizāciju veicošās institūcijas priekšlikuma Ministru kabineta noteiktajā kārtībā.
 (3) Pašvaldību budžetos ieskaitāmo nodokļu parādus, kā arī ar tiem saistītās soda naudas, pamatparāda palielinājuma naudas un nokavējuma naudas šā panta pirmajā daļā noteiktajos gadījumos dzēš attiecīgās pašvaldības. Kapitalizēto zemes nodokļa maksājuma pamatparādu, kā arī ar to saistīto soda naudu un nokavējuma naudu pašvaldības dzēš Ministru kabineta noteiktajā kārtībā.
 (4) Finansu ministrija vai attiecīgās pašvaldības publicē laikrakstā "Latvijas Vēstnesis" informāciju par nodokļu parādu dzēšanu, ja normatīvajos aktos nav noteikts citādi.
 (5) Latvijas Republikas Uzņēmumu reģistram nosūta:
-1) Finansu ministrija - finansu ministra rīkojumu par to uzņēmumu (uzņēmējsabiedrību) valsts budžetā ieskaitāmo nodokļu parādu dzēšanu, kuriem ar tiesas nolēmumu ir pabeigta bankrota procedūra un izbeigta maksātnespējas lieta;
+1) Finansu ministrija - Finansu ministrijas rīkojumu par to uzņēmumu (uzņēmējsabiedrību) valsts budžetā ieskaitāmo nodokļu parādu dzēšanu, kuriem ar tiesas nolēmumu ir pabeigta bankrota procedūra un izbeigta maksātnespējas lieta;
 2) pašvaldības - domes (padomes) lēmumu par to uzņēmumu (uzņēmējsabiedrību) pašvaldību budžetā ieskaitāmo nodokļu parādu dzēšanu, kuriem ar tiesas nolēmumu ir pabeigta bankrota procedūra un izbeigta maksātnespējas lieta.
