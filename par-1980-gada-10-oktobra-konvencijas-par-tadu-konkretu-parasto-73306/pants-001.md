@@ -1,0 +1,1 @@
+1.pants. 1980.gada 10.oktobra Konvencijas par tādu konkrētu parasto ieroču veidu lietošanas aizliegšanu vai ierobežošanu, kurus var uzskatīt par ieročiem, kas nodara ārkārtīgus postījumus vai kam ir neselektīva darbība (turpmāk - Konvencija), Otrās pārskata konferences lēmums par Konvencijas 1.panta grozījumu (turpmāk - Lēmums) ar šo likumu tiek pieņemts un apstiprināts.
