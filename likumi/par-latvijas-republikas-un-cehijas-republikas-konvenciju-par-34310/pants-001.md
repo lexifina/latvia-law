@@ -1,0 +1,1 @@
+1.pants. 1994.gada 25.oktobrī Rīgā parakstītā Latvijas Republikas un Čehijas Republikas konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
