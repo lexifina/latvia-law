@@ -1,0 +1,1 @@
+5.pants. 1991.gada barikāžu dalībnieku atbalsta atklātajam sabiedriskajam fondam ir saistoši valsts akciju sabiedrības "Valsts nekustamā īpašuma aģentūra" noslēgtie līgumi par telpu nomu šā likuma 1.pantā minētajā nekustamajā īpašumā.

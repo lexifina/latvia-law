@@ -1,0 +1,1 @@
+1.pants. Nodot 1991.gada barikāžu dalībnieku atbalsta atklātajam sabiedriskajam fondam īpašumā bez atlīdzības nekustamo īpašumu Rīgā, Krāmu ielā 3 (Rīgas pilsētas zemesgrāmatu nodalījuma numurs 6563, zemes kadastra numurs 01000070076).

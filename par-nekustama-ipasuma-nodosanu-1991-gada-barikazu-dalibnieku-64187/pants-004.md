@@ -1,0 +1,1 @@
+4.pants. Divu mēnešu laikā pēc šā likuma stāšanās spēkā valsts akciju sabiedrība "Valsts nekustamā īpašuma aģentūra" nodod 1991.gada barikāžu dalībnieku atbalsta atklātajam sabiedriskajam fondam šā likuma 1.pantā minēto nekustamo īpašumu ar nodošanas-pieņemšanas aktu.
