@@ -1,0 +1,1 @@
+1.pants. 1996.gada 18.decembrī Kopenhāgenā parakstītais Latvijas Republikas valdības un Dānijas Karalistes valdības līgums par vīzu režīma atcelšanu (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.

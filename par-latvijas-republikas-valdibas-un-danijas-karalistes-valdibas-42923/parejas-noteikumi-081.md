@@ -1,0 +1,1 @@
+Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta 1996.gada 24.decembra noteikumi nr.459 "Dānijas Karalistes pavalstnieku bezvīzu ieceļošanas kārtība Latvijas Republikā " (Latvijas Vēstnesis, 1996, 228./229./230. nr.).
