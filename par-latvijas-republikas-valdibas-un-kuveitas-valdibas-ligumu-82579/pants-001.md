@@ -1,0 +1,1 @@
+1.pants. 2003.gada 13.maija un 6.augusta notu apmaiņas ceļā noslēgtais līgums "Par Latvijas Republikas valdības un Kuveitas valdības līgumu par Latvijas Republikas Nacionālo bruņoto spēku statusu Kuveitas valstī" (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
