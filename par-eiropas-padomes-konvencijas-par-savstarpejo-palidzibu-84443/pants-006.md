@@ -1,0 +1,1 @@
+6.pants. Vienlaikus ar ratifikācijas raksta iesniegšanu Ārlietu ministrija informē Eiropas Padomes ģenerālsekretāru saskaņā ar Protokola 19.panta 4.punktu par to, ka kompetentās iestādes funkcijas pirmstiesas procesa stadijā pilda Ģenerālprokuratūra, bet līdz kriminālvajāšanas uzsākšanai - arī Iekšlietu ministrija.

@@ -1,0 +1,1 @@
+3.pants. Ārlietu ministrija informē Eiropas Padomes ģenerālsekretāru saskaņā ar Protokola 13.panta 7.punktu par to, ka visos gadījumos, lai ieslodzīto personu uz laiku nodotu lūguma saņēmējai pusei, ir nepieciešama ieslodzītās personas piekrišana.

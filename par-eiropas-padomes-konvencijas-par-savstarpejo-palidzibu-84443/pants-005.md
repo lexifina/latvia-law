@@ -1,0 +1,1 @@
+5.pants. Vienlaikus ar ratifikācijas raksta iesniegšanu Ārlietu ministrija informē Eiropas Padomes ģenerālsekretāru saskaņā ar Protokola 18.panta 4.punktu par to, ka kompetentās iestādes funkcijas pilda Iekšlietu ministrija.

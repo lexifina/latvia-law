@@ -1,0 +1,1 @@
+1.pants. 1959.gada 20.aprīļa Eiropas Padomes Konvencijas par savstarpējo palīdzību krimināllietās 2001.gada 8.novembra Otrais Papildu protokols (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
