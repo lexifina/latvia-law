@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Satiksmes ministrijas 2005. gada 6. janvāra noteikumi Nr.2 \"Noteikumi par dzelzceļa speciālista profesionālo kvalifikāciju\"",
+  "type_of_act": "Ministra noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "12",
+  "official_journal_page": null,
+  "official_journal_date": "2005-01-21",
+  "entry_into_force": "2005-01-06",
+  "notification_date": "2005-05-25",
+  "commission_reference": "MNE(2005)51152",
+  "nim_celex": "72001L0014LVA_121152",
+  "nim_id": "121152",
+  "transposes_celex": [
+    "32001L0014"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ad3fd2e9-e30d-4667-9ced-9fef0698b02c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
