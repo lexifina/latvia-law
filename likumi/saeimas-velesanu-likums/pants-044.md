@@ -1,1 +1,1 @@
-44. pants. Vēlētāji, kas balso ārvalstīs izveidotajos vēlēšanu iecirkņos, saņem Rīgas vēlēšanu apgabalā pieteikto kandidātu sarakstu vēlēšanu zīmes, un viņu balsis pieskaita Rīgas vēlēšanu apgabalā nodotajām balsīm.
+44. pants. Vēlētāji, kas balso ārvalstīs vai uz kuģiem izveidotajos vēlēšanu iecirkņos, saņem Rīgas vēlēšanu apgabalā pieteikto kandidātu sarakstu vēlēšanu zīmes, un viņu balsis pieskaita Rīgas vēlēšanu apgabalā nodotajām balsīm.
