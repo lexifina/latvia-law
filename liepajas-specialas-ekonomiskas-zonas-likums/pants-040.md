@@ -1,4 +1,0 @@
-40.pants
-(1) Liepājas speciālās ekonomiskās zonas uzņēmējsabiedrības un to nodarbinātās personas maksā sociālo nodokli saskaņā ar likumu "Par sociālo nodokli", izņemot šā panta otrajā daļā minēto gadījumu.
-(2) Liepājas speciālās ekonomiskās zonas uzņēmējsabiedrība, ja tās nodarbinātā persona - ārvalstnieks, kurš maksā sociālo nodokli vai tam pielīdzināmos maksājumus savā mītnes zemē, pieprasa, pēc rakstveida vienošanās ar viņu var maksāt sociālo nodokli ik mēnesi no summas, kas ir mazāka par sociāli apdrošinātas personas mēneša darba ienākumu, bet nav mazāka par piecpadsmit minimālajām mēnešalgām.
-(3) Liepājas speciālās ekonomiskās zonas uzņēmējsabiedrību nodarbinātās personas, par kurām tiek izdarīti samazināti sociālā nodokļa maksājumi, var saņemt visas likumā "Par sociālo nodokli" un citos likumos noteiktās garantijas un pakalpojumus atbilstoši sociālā nodokļa maksājumiem par šīm personām.

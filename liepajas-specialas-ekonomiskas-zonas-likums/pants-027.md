@@ -1,3 +1,0 @@
-27.pants
-(1) Liepājas speciālās ekonomiskās zonas uzņēmējsabiedrības nodokļus maksā likumos noteiktajā vispārējā kārtībā, piemērojot šajā likumā noteiktos atvieglojumus.
-(2) Tiesības uz nodokļu atvieglojumiem Liepājas speciālās ekonomiskās zonas uzņēmējsabiedrības var saņemt tikai tad, ja tās brīvam apgrozījumam pārējā Latvijas Republikas teritorijā ieved ne vairāk kā 20 procentus no preču vērtības taksācijas periodā. Slēdzot līgumus ar Liepājas speciālās ekonomiskās zonas uzņēmējsabiedrībām, Liepājas speciālās ekonomiskās zonas pārvalde Latvijas Republikas tirgus aizsardzības interesēs var noteikt mazāku brīvam apgrozījumam ievedamo preču vērtību.
