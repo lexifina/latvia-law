@@ -1,0 +1,1 @@
+1.pants. 2002.gada 29.oktobrī Rīgā parakstītais Latvijas Republikas un Slovēnijas Republikas brīvās tirdzniecības līguma Apvienotās komitejas lēmums nr. 1/2002 attiecībā uz Latvijas Republikas un Slovēnijas Republikas brīvās tirdzniecības līguma B protokolu (turpmāk - Lēmums) ar šo likumu tiek pieņemts un apstiprināts.
