@@ -1,0 +1,1 @@
+Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta 1995.gada 18.jūlija noteikumi nr.203 "Latvijas Attīstības aģentūras darbības noteikumi" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 17.nr.).

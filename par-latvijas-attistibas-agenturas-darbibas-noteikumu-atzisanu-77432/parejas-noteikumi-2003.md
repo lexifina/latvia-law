@@ -1,0 +1,1 @@
+Līdz jaunu Latvijas Attīstības aģentūras darbību reglamentējošo tiesību aktu izdošanai, bet ne vēlāk kā līdz 2003.gada 1.decembrim spēkā ir Ministru kabineta 1995.gada 21.novembra noteikumi nr.360 "Bezpeļņas organizācijas valsts akciju sabiedrības "Latvijas Attīstības aģentūra" statūti".
