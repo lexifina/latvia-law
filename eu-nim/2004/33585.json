@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par līgumcenu robežām",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "192",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-03",
+  "entry_into_force": "2004-12-04",
+  "notification_date": "2004-12-10",
+  "commission_reference": "MNE(2004)53585",
+  "nim_celex": "72004L0017LVA_33585",
+  "nim_id": "33585",
+  "transposes_celex": [
+    "32004L0017"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b154d559-0864-4865-b5cd-1948fd490b4d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
