@@ -1,0 +1,1 @@
+1.pants. 1999.gada 6.janvārī pieņemtais Latvijas Republikas un Eiropas brīvās tirdzniecības asociācijas valstu līguma Apvienotās komitejas lēmums nr. 1/1999 "Par izmaiņām Latvijas Republikas un Eiropas brīvās tirdzniecības asociācijas valstu līguma B protokolā" (turpmāk - Lēmums) ar šo likumu tiek pieņemts un apstiprināts.
