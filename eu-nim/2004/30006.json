@@ -1,0 +1,30 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Veterinārās prasības govju, aitu, kazu un cūku, svaigas gaļas un gaļas produktu importam no trešajām valstīm",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-01",
+  "entry_into_force": null,
+  "notification_date": "2004-07-20",
+  "commission_reference": "MNE(2004)50006",
+  "nim_celex": "71972L0462LVA_30006",
+  "nim_id": "30006",
+  "transposes_celex": [
+    "31972L0462",
+    "31983L0091",
+    "31988L0289",
+    "31989L0227",
+    "31991L0069",
+    "31991L0688",
+    "31996L0091",
+    "31997L0078",
+    "31997L0079"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2de81607-0ba7-42de-bef5-12eec0832331",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
