@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Divvāku molusku infekcijas slimību apkarošanas kārtība",
+  "type_of_act": "Ministru kabineta instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "54",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-06",
+  "entry_into_force": null,
+  "notification_date": "2004-07-21",
+  "commission_reference": "MNE(2004)50011",
+  "nim_celex": "71995L0070LVA_30011",
+  "nim_id": "30011",
+  "transposes_celex": [
+    "31995L0070"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/007d29cc-9867-47e5-b143-a911e7ac1f1d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
