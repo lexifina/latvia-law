@@ -1,1 +1,0 @@
-13. Ja šā likuma pārejas noteikumu 11. un 12.punktā minētajā gadījumā tiek pieņemts lēmums par valsts vai pašvaldības īpašuma objekta privatizācijas uzsākšanu, tas tiek privatizēts saskaņā ar šajā likumā noteikto kārtību.

@@ -1,6 +1,5 @@
 71. pants. Zemesgabala cena
-1. Zemesgabalu privatizē par cenu, kas nav mazāka par zemes kadastrālo vērtību, kuru nosaka saskaņā ar Ministru kabineta noteikumiem par zemes kadastrālo vērtēšanu, kā arī ņemot vērā šā panta piektajā daļā paredzēto.
+1. Zemesgabalu pilsētas teritorijā privatizē par cenu, kas nav mazāka par zemes kadastrālo vērtību.
 2. Konkrētā zemesgabala cenu, par kādu tas tiek privatizēts, nosaka privatizāciju veicošā institūcija.
 3. Pārdodot valsts vai pašvaldību īpašuma objektu, kura vērtībā ietilpst arī valsts vai pašvaldību zemes vērtība, minētā objekta pārdošanas cenā atsevišķi jānorāda zemes cena un maksāšanas līdzekļi par zemi (izņemot gadījumus, kad zemes cena ietilpst objekta kapitāla daļas cenā).
 4. Pēc šā likuma 68.panta piektajā daļā minētā termiņa izbeigšanās savus prasījumus nepieteikušās personas nevar prasīt, lai tiktu grozīti zemesgabala privatizācijas noteikumi un jaunajam zemesgabala īpašniekam nododamo saistību kopums.
-5. Atsevišķu apbūvētu zemesgabalu (60.panta pirmās daļas 2.punkts) Rīgas un Jūrmalas pilsētas teritorijā un zemesgabalu kopā ar privatizējamo objektu (60.panta pirmās daļas 1.punkts), kā arī neapbūvētu zemesgabalu (60.panta pirmās daļas 3.punkts) privatizē par cenu, kas nav mazāka par vērtību, kura noteikta atbilstoši Standartizācijas likumā noteiktajā kārtībā apstiprinātajiem Latvijas īpašuma vērtēšanas standartiem un, ja nepieciešams, koriģēta atbilstoši tirgus cenai attiecīgajā apvidū.

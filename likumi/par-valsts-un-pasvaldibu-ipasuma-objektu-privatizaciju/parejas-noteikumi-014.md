@@ -1,1 +1,0 @@
-14. Valsts akciju sabiedrība "Valsts nekustamā īpašuma aģentūra" pēc 2003.gada 21.augusta atsavina saskaņā ar Valsts un pašvaldību mantas atsavināšanas likumu šā likuma pārejas noteikumu 9. un 10.punktā minēto valsts mantu, uz kuru nav attiecināms šā likuma pārejas noteikumu 11.punkts.

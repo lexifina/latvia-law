@@ -1,1 +1,0 @@
-15. Zemesgabala cenas noteikšanai šā likuma 71.panta piekto daļu piemēro, ja konkrētā zemesgabala privatizācijas noteikumus (projektu) Privatizācijas aģentūra vai pašvaldība apstiprinājusi pēc 2003.gada 21.augusta.

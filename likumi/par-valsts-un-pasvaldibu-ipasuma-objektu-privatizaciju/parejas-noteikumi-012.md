@@ -1,1 +1,0 @@
-12. Līdz 2002.gada 5.martam šā likuma 31.pantā noteiktajā kārtībā saņemtais privatizācijas ierosinājums par pašvaldības nekustamo īpašumu, kas nav pašvaldības uzņēmuma vai uzņēmējsabiedrības mantas sastāvā, tiek izskatīts un lēmums par nekustamā īpašuma nodošanu privatizācijai tiek pieņemts saskaņā ar šo likumu un atbilstoši tam izdotajiem normatīvajiem aktiem.
