@@ -1,0 +1,1 @@
+1.pants. 1998.gada 10.septembra Roterdamas konvencija par procedūru, saskaņā ar kuru starptautiskajā tirdzniecībā dodama iepriekš norunāta piekrišana attiecībā uz dažām bīstamām ķīmiskām vielām un pesticīdiem (turpmāk - Konvencija), ar šo likumu tiek pieņemta un apstiprināta.

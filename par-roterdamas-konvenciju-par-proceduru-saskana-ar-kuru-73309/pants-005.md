@@ -1,0 +1,1 @@
+5.pants. Konvencija stājas spēkā tās 26.pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo laikrakstā "Latvijas Vēstnesis", kā arī saskaņā ar Konvencijas 4.panta trešo daļu paziņo Konvencijas sekretariātam par valsts iestādēm, kuras ir pilnvarotas veikt administratīvās funkcijas.
