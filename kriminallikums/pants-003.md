@@ -1,0 +1,2 @@
+3.pants. Krimināllikuma spēks uz gaisakuģiem, jūras un upju kuģiem ārpus Latvijas teritorijas
+Persona, kas noziedzīgu nodarījumu izdarījusi ārpus Latvijas teritorijas, atrodoties uz gaisakuģa, jūras vai upju kuģa vai cita peldoša līdzekļa, ja šis līdzeklis reģistrēts Latvijas Republikā un ja Latvijas Republikai saistošos starptautiskajos līgumos nav noteikts citādi, saucama pie atbildības saskaņā ar šo likumu.

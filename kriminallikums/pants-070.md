@@ -1,0 +1,2 @@
+70.pants. Medicīniska rakstura piespiedu līdzekļu noteikšana personām, kas ir ierobežotas pieskaitāmības stāvoklī
+Medicīniska rakstura piespiedu līdzekļus var noteikt arī personām, kas izdarījušas noziedzīgus nodarījumus, būdamas ierobežotas pieskaitāmības stāvoklī. Ja šādu personu notiesā ar brīvības atņemšanu, ārstēšana notiek tai piemērotās brīvības atņemšanas vietās. Ja šādu personu notiesā bez brīvības atņemšanas, tiesa uzliek tai par pienākumu ārstēties psihiatriskajā medicīnas iestādē pēc dzīvesvietas.

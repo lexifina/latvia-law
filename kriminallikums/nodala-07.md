@@ -1,0 +1,2 @@
+VII nodaļa
+Nepilngadīgo kriminālatbildības īpatnības

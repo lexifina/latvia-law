@@ -1,0 +1,7 @@
+215.pants. Maksātnespējas procesa noteikumu pārkāpšana
+(1) Par maksātnespējas procesa noteikumu apzinātu pārkāpšanu, ja to izdarījis kreditors vai cita procesā ieinteresēta persona, -
+soda ar naudas sodu līdz piecdesmit minimālajām mēnešalgām, atņemot tiesības veikt uzņēmējdarbību uz laiku līdz trim gadiem vai bez tā.
+(2) Par informācijas slēpšanu no tiesas vai kreditoru sapulces, vai citām likumā paredzētajām personām vai to maldināšanu, kā arī par darījumu veikšanu par labu vienam vai vairākiem kreditoriem uz citas kreditoru daļas rēķina, ja to tīši izdarījis administrators maksātnespējas procesā, -
+soda ar brīvības atņemšanu uz laiku līdz diviem gadiem vai ar naudas sodu līdz astoņdesmit minimālajām mēnešalgām, atņemot tiesības ieņemt administratora amatu uz laiku no diviem līdz pieciem gadiem.
+(3) Par šķēršļu likšanu maksātnespējas procesa gaitā, kas parādnieka rīcībā izpaužas kā tiesas, administratora, kreditoru sapulces vai citu likumā noteikto personu pieprasītās likumā paredzētās informācijas nesniegšana vai slēpšana, izvairīšanās no piedalīšanās lietas izskatīšanā, nelikumīga īpašuma atsavināšana, īpašuma vai darījumu slēpšana, dokumentu slēpšana, iznīcināšana vai viltošana vai citas tīšas darbības, kuras kavē maksātnespējas procesa gaitu, -
+soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar naudas sodu līdz simt divdesmit minimālajām mēnešalgām, atņemot tiesības veikt uzņēmējdarbību uz laiku no diviem līdz pieciem gadiem.

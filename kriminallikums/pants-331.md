@@ -1,0 +1,2 @@
+331.pants. Noziedzīga nodarījuma jēdziens un tā subjekti militārajā dienestā
+Par noziedzīgiem nodarījumiem militārajā dienestā atzīstami šajā likumā paredzētie, pret noteikto militārā dienesta pildīšanas kārtību vērstie noziedzīgie nodarījumi, kurus izdarījušas militārpersonas, tas ir, Nacionālo bruņoto spēku aktīvā militārā dienesta un ierindas dienesta personas, kā arī obligātajam militārajam dienestam pakļautās personas laikā, kad tās atrodas militārajās apmācībās, un personas, attiecībā uz kurām likumos ir speciāli noteikumi.

@@ -1,0 +1,3 @@
+316.pants. Valsts amatpersonas jēdziens
+(1) Par valsts amatpersonām uzskatāmi valsts varas pārstāvji, kā arī ikviena persona, kura pastāvīgi vai uz laiku izpilda valsts vai pašvaldības dienesta pienākumus un kurai ir tiesības pieņemt lēmumus, kas saistoši citām personām, vai kurai ir tiesības veikt uzraudzības, kontroles, izziņas vai sodīšanas funkcijas vai rīkoties ar valsts vai pašvaldības mantu vai finansu līdzekļiem.
+(2) Valsts prezidents, Saeimas deputāti, Ministru prezidents, Ministru kabineta locekļi, kā arī Saeimas un Ministru kabineta ievēlētās, ieceltās vai apstiprinātās valsts institūciju amatpersonas, pašvaldību vadītāji, viņu vietnieki un izpilddirektori uzskatāmi par valsts amatpersonām, kas ieņem atbildīgu stāvokli.

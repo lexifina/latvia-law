@@ -1,0 +1,3 @@
+10.pants. Noziedzīgā nodarījuma izdarīšana aiz neuzmanības
+(1) Noziedzīgais nodarījums atzīstams par izdarītu aiz neuzmanības, ja persona, kas to izdarījusi, ir paredzējusi savas darbības vai bezdarbības seku iestāšanās iespēju, tomēr vieglprātīgi paļāvusies, ka tās varēs novērst (noziedzīga pašpaļāvība), vai arī nav paredzējusi šādu seku iestāšanās iespēju, kaut gan pēc nodarījuma konkrētajiem apstākļiem tai vajadzēja un tā varēja tās paredzēt (noziedzīga nevērība).
+(2) Šajā likumā paredzētais nodarījums nav krimināli sodāms, ja persona neparedzēja, tai nevajadzēja un tā nevarēja paredzēt savas darbības vai bezdarbības seku iestāšanās iespēju.

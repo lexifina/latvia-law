@@ -1,0 +1,4 @@
+25.pants. Noziedzīgu nodarījumu atkārtotība
+(1) Noziedzīgu nodarījumu atkārtotība ir tad, kad viena persona izdara divus vai vairākus noziedzīgus nodarījumus, kas paredzēti vienā un tajā pašā šā likuma pantā, vai arī divus vai vairākus noziedzīgus nodarījumus, kas paredzēti dažādos šā likuma pantos, ja atbildība par šādu atkārtotību paredzēta šajā likumā.
+(2) Noziedzīgu nodarījumu atkārtotību neveido nodarījums, par kura izdarīšanu persona atbrīvota no kriminālatbildības vai par kuru iestājies kriminālatbildības noilgums, vai par kuru noņemta vai dzēsta sodāmība likumā noteiktajā kārtībā.
+(3) Gadījumos, kad noziedzīgu nodarījumu atkārtotība paredzēta šajā likumā kā noziedzīga nodarījuma sastāva pazīme, visi vainīgās personas vienā un tajā pašā šā likuma pantā paredzētie atkārtotie nodarījumi kvalificējami tikai pēc tās šā likuma panta daļas, kurā paredzēta atbildība par atkārtotu noziedzīgu nodarījumu.

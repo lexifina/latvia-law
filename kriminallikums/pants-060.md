@@ -1,0 +1,2 @@
+60.pants. Soda samazināšana izņēmuma gadījumos
+Ja notiesātā persona palīdzējusi atklāt organizētas grupas izdarītu smagu vai sevišķi smagu noziegumu, kas ir smagāks vai bīstamāks par šīs personas izdarīto noziedzīgo nodarījumu, tiesa, ar kuras spriedumu šī persona ir notiesāta, var samazināt spriedumā noteikto sodu, bet piespriesto nāves sodu vai mūža ieslodzījumu aizstāt ar brīvības atņemšanu uz divdesmit gadiem.

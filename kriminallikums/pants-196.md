@@ -1,0 +1,5 @@
+196.pants. Pilnvaru ļaunprātīga izmantošana un pārsniegšana
+(1) Par uzņēmuma (uzņēmējsabiedrības) vai organizācijas atbildīga darbinieka, tas ir, personas, kurai uzņēmumā (uzņēmējsabiedrībā) vai organizācijā ir tiesības pieņemt lēmumus, kas saistoši citām personām, vai tiesības rīkoties ar uzņēmuma (uzņēmējsabiedrības) vai organizācijas mantu vai finansu līdzekļiem, kā arī uzņēmuma (uzņēmējsabiedrības) vai organizācijas pilnvarotas tādas pašas personas izdarītām tīšām darbībām, ļaunprātīgi izmantojot savas pilnvaras vai tās pārsniedzot, ja ar šīm darbībām radīts būtisks kaitējums uzņēmuma (uzņēmējsabiedrības), organizācijas vai ar likumu aizsargātām citas personas tiesībām un interesēm, -
+soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar arestu, vai ar piespiedu darbu, vai ar naudas sodu līdz astoņdesmit minimālajām mēnešalgām.
+(2) Par tādām pašām darbībām, ja tās izdarītas mantkārīgā nolūkā, -
+soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar naudas sodu līdz simt divdesmit minimālajām mēnešalgām.

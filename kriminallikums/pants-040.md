@@ -1,0 +1,4 @@
+40.pants. Piespiedu darbs
+(1) Piespiedu darbs ir piespiedu iesaistīšana sabiedrībai nepieciešamajos darbos, ko notiesātais izcieš kā sodu, veicot dzīvesvietas apvidū pašvaldības noteiktos darbus no pamatdarba vai mācībām brīvajā laikā un bez atlīdzības. Piespiedu darbu nosaka uz laiku no četrdesmit līdz divsimt astoņdesmit stundām.
+(2) Piespiedu darbs nav piemērojams darbnespējīgām personām un militārpersonām.
+(3) Ja persona, kas notiesāta ar piespiedu darbu, ļaunprātīgi izvairās no soda izciešanas, tiesa neizciesto sodu aizstāj ar arestu, astoņas darba stundas rēķinot kā vienu aresta dienu.

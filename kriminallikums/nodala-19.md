@@ -1,0 +1,2 @@
+XIX nodaļa
+Noziedzīgi nodarījumi tautsaimniecībā

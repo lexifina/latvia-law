@@ -1,0 +1,1 @@
+VISPĀRĪGĀ DAĻA

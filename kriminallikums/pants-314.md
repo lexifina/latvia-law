@@ -1,0 +1,5 @@
+314.pants. Noziedzīgā kārtā iegūtas mantas iegādāšanās un realizēšana
+(1) Par mantas iegādāšanos vai realizēšanu, zinot, ka tā iegūta noziedzīgā kārtā, -
+soda ar brīvības atņemšanu uz laiku līdz diviem gadiem vai ar arestu, vai ar piespiedu darbu, vai ar naudas sodu līdz piecdesmit minimālajām mēnešalgām.
+(2) Par tādām pašām darbībām, ja tās izdarītas atkārtoti vai lielā apmērā, -
+soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar naudas sodu līdz simt divdesmit minimālajām mēnešalgām.

@@ -1,0 +1,2 @@
+261.pants. Transportlīdzekļa jēdziens
+Ar transportlīdzekļiem, kas norādīti šā likuma 260., 262.-265.pantā, jāsaprot visu veidu automobiļi, traktori un citas pašgājējas mašīnas, tramvaji, trolejbusi, motocikli un citi mehāniskie transportlīdzekļi, kas pārvietojas ar savu enerģijas avotu, izņemot transportlīdzekļus ar iekšdedzes dzinēju, kura darba tilpums ir mazāks par 50 kubikcentimetriem.

@@ -1,0 +1,2 @@
+32.pants. Galējā nepieciešamība
+Galējā nepieciešamība ir darbība, ko persona izdara, lai novērstu kaitējumu, kas apdraud valsts vai sabiedrības intereses, šīs personas vai citas personas tiesības, kā arī šo vai citu personu, ja attiecīgo kaitējumu konkrētos apstākļos nav bijis iespējams novērst ar citiem līdzekļiem un ja radītais kaitējums ir mazāks nekā novērstais. Galējā nepieciešamība izslēdz kriminālatbildību.

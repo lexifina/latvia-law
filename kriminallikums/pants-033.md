@@ -1,0 +1,3 @@
+33.pants. Attaisnojams profesionālais risks
+(1) Kriminālatbildība neiestājas par kaitējumu, kas nodarīts ar profesionālu darbību, kurai ir noziedzīga nodarījuma sastāva pazīmes, ja šī darbība izdarīta, lai sasniegtu sociāli derīgu mērķi, kuru nebija iespējams sasniegt citādā veidā. Ar šo darbību saistītais profesionālais risks uzskatāms par attaisnojamu, ja persona, kas pieļāvusi risku, ir darījusi visu, lai novērstu kaitējumu tiesiski aizsargātām interesēm.
+(2) Risks nav atzīstams par attaisnotu, ja tas ir apzināti saistīts ar vairāku personu dzīvības apdraudējumu vai ar draudiem izraisīt ekoloģisku katastrofu vai sabiedrisku postu.

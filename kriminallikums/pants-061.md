@@ -1,0 +1,10 @@
+61.pants. Nosacīta pirmstermiņa atbrīvošana no soda
+(1) Personu, kas notiesāta ar brīvības atņemšanu vai arestu, var nosacīti pirms termiņa atbrīvot no pamatsoda.
+(2) Nosacītu pirmstermiņa atbrīvošanu no soda var noteikt, ja notiesātais nav izdarījis pārkāpumus un iespēju robežās labprātīgi atlīdzinājis ar noziedzīgo nodarījumu nodarīto materiālo zaudējumu, bet gadījumā, kad notiesātais noziedzīgo nodarījumu izdarījis uz alkoholisma, narkomānijas vai toksikomānijas pamata, - ja viņš piekritis ārstēties no alkoholisma, narkomānijas vai toksikomānijas.
+(3) Nosacītu pirmstermiņa atbrīvošanu no soda var noteikt, kad notiesātais faktiski ir izcietis:
+1) ne mazāk kā pusi no noteiktā soda par izdarīto kriminālpārkāpumu vai mazāk smagu noziegumu;
+2) ne mazāk kā divas trešdaļas no noteiktā soda, ja tas piespriests par smagu noziegumu, kā arī ja notiesātais ir persona, kas agrāk bijusi notiesāta ar brīvības atņemšanu par tīšu noziegumu, un sodāmība par šo noziegumu nav noņemta vai dzēsta;
+3) ne mazāk kā trīs ceturtdaļas no noteiktā soda, ja tas piespriests par sevišķi smagu noziegumu, kā arī ja notiesātais ir persona, kas agrāk bijusi nosacīti pirms termiņa atbrīvota no soda un no jauna izdarījusi tīšu noziegumu neizciestās soda daļas laikā;
+4) divdesmit piecus gadus no brīvības atņemšanas soda, ja notiesātais ir persona, kam nāves sods aizstāts ar brīvības atņemšanu apžēlošanas vai amnestijas kārtībā, vai persona, kurai piespriests mūža ieslodzījums.
+(4) Tiesa, atbrīvojot notiesāto nosacīti pirms termiņa no soda, var viņam uz neizciesto soda laiku uzlikt šā likuma 55.pantā noteiktos pienākumus. Ja nosacīti pirms termiņa atbrīvotais bez attaisnojoša iemesla nepilda tiesas uzliktos pienākumus vai atkārtoti izdara administratīvos pārkāpumus, par ko viņam uzlikti administratīvie sodi, tiesa pēc tās iestādes iesnieguma, kurai uzdots kontrolēt notiesātā uzvedību, var pieņemt lēmumu par neizciestās soda daļas izpildīšanu.
+(5) Ja persona, kurai bija noteikta nosacīta pirmstermiņa atbrīvošana, neizciestās soda daļas laikā izdara jaunu noziedzīgu nodarījumu, tiesa nosaka tai sodu saskaņā ar šā likuma 51. un 52. pantā paredzētajiem noteikumiem.

@@ -1,0 +1,2 @@
+II nodaļa
+Noziedzīgs nodarījums

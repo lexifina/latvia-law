@@ -1,0 +1,2 @@
+XII nodaļa
+Nonāvēšana

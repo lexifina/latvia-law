@@ -1,0 +1,6 @@
+50.pants. Soda noteikšana par vairākiem noziedzīgiem nodarījumiem
+(1) Ja persona izdarījusi vairākus patstāvīgus noziedzīgus nodarījumus, tiesa, noteikusi sodu atsevišķi par katru nodarījumu, galīgo sodu nosaka pēc noziedzīgo nodarījumu kopības, ietverot vieglāko sodu smagākajā vai arī pilnīgi vai daļēji saskaitot piespriestos sodus. Šādā gadījumā soda kopējais laiks nedrīkst pārsniegt attiecīgajam soda veidam noteikto maksimālo laiku.
+(2) Pēc noziedzīgo nodarījumu kopības saskaitīto brīvības atņemšanas sodu (izņemot mūža ieslodzījumu) kopējais laiks nedrīkst pārsniegt divdesmit gadus.
+(3) Personai, kura atzīta par vainīgu vairāku dažādos šā likuma sevišķās daļas pantos vai pantu daļās paredzēto noziedzīgo nodarījumu izdarīšanā, papildsods, tāpat kā pamatsods, vispirms nosakāms atsevišķi par katru nodarījumu, bet pēc tam pēc noziedzīgo nodarījumu kopības kopā ar pamatsodu.
+(4) Pēc noziedzīgo nodarījumu kopības noteiktajam pamatsodam var pievienot papildsodus, kas piespriesti atsevišķi par katru noziedzīgo nodarījumu.
+(5) Tādā pašā kārtībā sods nosakāms, ja pēc sprieduma taisīšanas konstatēts, ka notiesātais vainīgs vēl citā noziedzīgā nodarījumā, ko viņš izdarījis pirms sprieduma taisīšanas pirmajā lietā. Šajā gadījumā soda laikā ieskaitāms sods, kas pilnīgi vai daļēji jau izciests pēc pirmā sprieduma.
