@@ -1,2 +1,2 @@
-13.pants. Tūristu mītņu atbilstības novērtēšana
-Tūristu mītņu atbilstības novērtēšanas obligātās prasības un kārtību nosaka Ministru kabinets.
+13.pants. Obligātās prasības tūristu mītnēm
+Ministru kabinets nosaka tūristu mītņu atbilstības obligātās prasības.

@@ -8,5 +8,5 @@
 5) izveidot Latvijas tūrisma informācijas datu bāzi un nodrošināt tās finansējumu;
 6) koordinēt tūrisma attīstības reģionālo programmu un starptautisko projektu izstrādāšanu;
 7) sagatavot un īstenot starptautiskos nolīgumus par sadarbību tūrisma jomā.
-(3) Tūrisma attīstības valsts politikas īstenošanai Vides aizsardzības un reģionālās attīstības ministrijas pārraudzībā tiek izveidota valsts institūcija - Latvijas Tūrisma attīstības aģentūra.
-(4) Latvijas Tūrisma attīstības aģentūras nolikumu apstiprina Ministru kabinets.
+(3) Tūrisma attīstības valsts politikas īstenošanai Vides aizsardzības un reģionālās attīstības ministrijas pārziņā tiek izveidota bezpeļņas organizācija valsts akciju sabiedrība "Latvijas Tūrisma attīstības aģentūra".
+(4) Latvijas Tūrisma attīstības aģentūras statūtus apstiprina Ministru kabinets.
