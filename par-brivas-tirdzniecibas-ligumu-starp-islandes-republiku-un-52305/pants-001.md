@@ -1,0 +1,1 @@
+1.pants. 1995.gada 30.augustā Koldingā parakstītais Brīvās tirdzniecības līgums starp Islandes Republiku un Latvijas Republiku (turpmāk - Līgums), tā I, II, III, IV, V pielikums un A protokols ar šo likumu tiek pieņemti un apstiprināti.
