@@ -8,7 +8,7 @@ Aizejot pensijā:
 1996. gadā -
 Vi ir vidējā apdrošināšanas iemaksu alga 1995.gadā;
 1997. gadā -
-Vi ir apdrošinātās personas vidējā apdrošināšanas iemaksu alga 1996. gadā. Ja 1996.gadā pensijas pieprasītājs ir nostrādājis mazāk par 12 mēnešiem, vidējā apdrošināšanas iemaksu alga nosakāma, dalot apdrošināšanas iemaksu algu summu par 1996.gadā nostrādātajiem mēnešiem ar 12;
+Vi ir apdrošinātās personas vidējā apdrošināšanas iemaksu alga 1996. gadā. Ja 1996.gadā pensijas pieprasītājs ir nostrādājis mazāk par 12 mēnešiem, vidējā apdrošināšanas iemaksu alga nosakāma, dalot apdrošināšanas iemaksu algu summu par 1996.gadā nostrādātajiem mēnešiem ar 12. Ja apdrošinātās personas apdrošināšanas stāžs Latvijā nav mazāks par 30 gadiem un apdrošinātās personas vidējā apdrošināšanas iemaksu alga 1996. gadā ir mazāka par 1996. gadam noteikto vidējo apdrošināšanas iemaksu algu, pensijas apmēra noteikšanai ņemama vērā 1996. gadam noteiktā vidējā apdrošināšanas iemaksu alga;
 1998. gadā -
 Vi ir apdrošinātās personas pēc kārtas sekojošu 12 mēnešu vidējā apdrošināšanas iemaksu alga laika periodā no 1996. līdz 1998. gadam. Ja šajā periodā pensijas pieprasītājs ir nostrādājis mazāk par 12 mēnešiem, vidējā apdrošināšanas iemaksu alga nosakāma, dalot apdrošināšanas iemaksu algu summu par minētajā periodā esošajiem mēnešiem ar 12;
 1999. gadā -
@@ -21,6 +21,6 @@ Ks + K
 P = ----
 G
 P - gada pensija, kuras divpadsmitā daļa ir mēneša pensija;
-Ks - sākuma kapitāls, kāds noteikts šā punkta otrajā daļā;
-K - pensijas kapitāls, kāds noteikts šā likuma 12.panta pirmajā daļā;
+Ks - sākuma kapitāls, kas noteikts šā punkta otrajā daļā;
+K - pensijas kapitāls, kas noteikts šā likuma 12.panta pirmajā daļā;
 G - laikposms (gados), par kuru no pensijas piešķiršanas gada tiek plānota vecuma pensijas izmaksa.

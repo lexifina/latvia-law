@@ -1,1 +1,3 @@
-4. Līdz Nodarbinātības fonda un Darba negadījumu un arodslimību apdrošināšanas fonda izveidošanai apdrošināšanas iemaksas par personu, kurai piešķirts bezdarbnieka statuss un kura saņem bezdarbnieka pabalstu, vai par nestrādājošu personu, kas atzīta par invalīdu sakarā ar nelaimes gadījumu darbā vai arodslimību, tiek izdarītas no sociālās apdrošināšanas budžeta līdzekļiem.
+4. Apdrošināšanas iemaksas no sociālās apdrošināšanas budžeta līdzekļiem tiek izdarītas:
+1) par personu, kurai piešķirts bezdarbnieka statuss un kura saņem bezdarbnieka pabalstu, - līdz likuma "Par obligāto sociālo apdrošināšanu bezdarba gadījumam" spēkā stāšanās dienai;
+2) par nestrādājošu personu, kura atzīta par invalīdu sakarā ar nelaimes gadījumu darbā vai arodslimību, - līdz likuma "Par obligāto sociālo apdrošināšanu pret nelaimes gadījumiem darbā un arodslimībām" spēkā stāšanās dienai.
