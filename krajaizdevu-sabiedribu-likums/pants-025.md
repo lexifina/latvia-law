@@ -6,4 +6,4 @@
 1) ierobežot vai aizliegt krājaizdevu sabiedrībai sniegt saviem biedriem atsevišķus pakalpojumus;
 2) aizliegt krājaizdevu sabiedrībai ieguldīt līdzekļus mazlikvīdos aktīvos.
 (3) Lai kontrolētu pastiprinātās uzraudzības kārtībā noteikto prasību izpildi, Komisija ir tiesīga iecelt savu pilnvarnieku.
-(4) Finansu un kapitāla tirgus komisija ir atbildīga par zaudējumiem, kas krājaizdevu sabiedrībai radušies Komisijas pilnvarnieka vainas dēļ.
+(4) Finanšu un kapitāla tirgus komisija ir atbildīga par zaudējumiem, kas krājaizdevu sabiedrībai radušies Komisijas pilnvarnieka vainas dēļ.
