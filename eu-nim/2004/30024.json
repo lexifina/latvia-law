@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Kontroles un uzraudzības kārtība tirdzniecībā ar dzīvniekiem, dzīvnieku spermu, olšūnām un embrijiem ar Eiropas Savienības dalībvalstīm un trešajām valstīm",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-01",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-07-21",
+  "commission_reference": "MNE(2004)50024",
+  "nim_celex": "71990L0425LVA_30024",
+  "nim_id": "30024",
+  "transposes_celex": [
+    "31990L0425",
+    "31992L0060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0a57eaeb-efa5-4fb4-816d-c38ba6400c0d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
