@@ -1,0 +1,3 @@
+25.pants. Biroja amatpersonu un darbinieku atbildība par informācijas izpaušanu
+(1) Biroja amatpersonām un darbiniekiem ir aizliegts publiski vai citā veidā izpaust ierobežotas pieejamības informāciju, kas viņiem kļuvusi zināma, pildot amata vai darba pienākumus, izņemot normatīvajos aktos īpaši noteiktus gadījumus. Minētais informācijas neizpaušanas pienākums saglabājas arī pēc darba attiecību izbeigšanas.
+(2) Biroja amatpersonas un darbinieki normatīvajos aktos noteiktajā kārtībā ir atbildīgi par šā panta pirmajā daļā minētās informācijas izpaušanu un par zaudējumiem, kas tā rezultātā nodarīti trešajām personām.

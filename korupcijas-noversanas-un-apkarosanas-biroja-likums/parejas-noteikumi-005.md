@@ -1,0 +1,1 @@
+5. Institūcijas, kuru kompetencē ietilpa korupcijas novēršanas un apkarošanas funkcijas, kā arī politisko organizāciju (partiju) un to apvienību finansēšanas noteikumu izpildes kontroles funkcijas līdz šā likuma spēkā stāšanās dienai, turpina veikt minētās funkcijas līdz laikam, kad tās pārņem Birojs.
