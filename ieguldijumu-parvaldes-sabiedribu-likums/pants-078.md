@@ -1,7 +1,6 @@
-78.pants. Sabiedrības iekšējā pārbaude
-(1) Komisijai ir tiesības veikt sabiedrības iekšējo pārbaudi.
-(2) Sabiedrības pienākums ir atļaut Komisijas pilnvarotām personām, kas veic sabiedrības iekšējo pārbaudi, brīvi iepazīties ar visiem dokumentiem un informāciju, kas attiecas uz sabiedrības darbību un fonda pārvaldi.
-(3) Komisijai ir tiesības veikt turētājbankas iekšējo pārbaudi attiecībā uz darbībām, kas saistītas ar fondu.
-(4) Ja pārbaudes veicējs pārbaudes laikā sabiedrības darbībā konstatē pārkāpumus, viņam ir tiesības uz laiku izņemt attiecīgos dokumentus, par to sastādot aktu.
-(5) Pārbaudes veicējam ir tiesības izdarīt izrakstus no dokumentiem, pieprasīt uz sabiedrības rēķina dokumentu kopijas, apliecinātas dokumentu kopijas vai norakstus.
-(6) Pārbaudes veicējs sastāda ziņojumu par pārbaudes rezultātiem un ar to iepazīstina sabiedrības valdi. Ziņojumu paraksta valdes priekšsēdētājs.
+78.pants. Uzraudzības vispārīgie noteikumi
+(1) Komisija ir atbildīga par tās licencēto sabiedrību uzraudzību, kā arī uzrauga turētājbankas darbību saskaņā ar šo likumu, Kredītiestāžu likumu, Finanšu un kapitāla tirgus komisijas likumu un normatīvajiem aktiem, kas regulē finanšu instrumentu tirgu.
+(2) Uzraudzības mērķis ir nodrošināt fondu un sabiedrību dibināšanas un darbības atbilstību šim likumam un citiem normatīvajiem aktiem, kas izdoti saskaņā ar šo likumu, un aizsargāt ieguldītāju intereses.
+(3) Šajā likumā noteiktajos gadījumos Komisija izdod administratīvos aktus. Kārtību, kādā Komisija izdod administratīvos aktus, nosaka attiecīgi normatīvie akti.
+(4) Komisijas izdota administratīvā akta tiesiskumu vai Komisijas faktisko rīcību var apstrīdēt saskaņā ar vispārējām tiesību normām, kas regulē administratīvo procesu, ja šajā likumā nav noteikts citādi.
+(5) Tāda Komisijas izdota administratīvā akta pārsūdzēšana tiesā, ar kuru tiek ierobežota sabiedrības vai turētājbankas darbība vai sabiedrības amatpersonai tiek aizliegts veikt tās pienākumus, vai sabiedrībai tiek anulēta licence, neaptur administratīvā akta izpildi.

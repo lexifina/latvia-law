@@ -1,15 +1,13 @@
-87.pants. Licences anulēšana
-(1) Komisija ar motivētu lēmumu var anulēt sabiedrībai izsniegto licenci, ja:
-1) sabiedrība ir sniegusi Komisijai vai publiski izplatījusi nepatiesas ziņas;
-2) sabiedrība nav iesniegusi grozījumus Komisijai iesniegtajos dokumentos;
-3) sabiedrība, tās akcionāri, padomes locekļi un amatpersonas neatbilst likuma prasībām;
-4) sabiedrība sistemātiski pārkāpj fonda prospekta vai fonda pārvaldes nolikuma noteikumus;
-5) sabiedrības darbība izbeigta pēc tiesas nolēmuma;
-6) sabiedrība pasludināta par maksātnespējīgu;
-7) sabiedrības darbība ir pretrunā ar fonda ieguldītāju interesēm;
-8) sabiedrība sešu mēnešu laikā pēc licences saņemšanas nav uzsākusi likumā atļauto darbību;
-9) sabiedrība izbeidz darbību;
-10) sabiedrība tiek pievienota citai sabiedrībai.
-(2) Pirms licences anulēšanas Komisija rakstveidā brīdina sabiedrību par tās pārkāpumiem un par iespējamo licences anulēšanu. Izsakot brīdinājumu, Komisijai ir tiesības noteikt termiņu pārkāpumu novēršanai, nosakot ierobežojumus sabiedrības darbībai vai bez tā. Pēc šā termiņa izbeigšanās sabiedrības pienākums ir iesniegt Komisijai ziņojumu par veiktajiem pasākumiem un to rezultātiem.
-(3) Lēmumu par licences anulēšanu vai sabiedrības brīdināšanu un pārkāpumu novēršanas termiņa noteikšanu Komisija paziņo sabiedrībai rakstveidā triju dienu laikā no lēmuma pieņemšanas dienas.
-(4) Ja sabiedrībai anulēta licence (izņemot šā panta pirmās daļas 8., 9. un 10.punktā minētos gadījumus), tā nevar saņemt jaunu licenci.
+87.pants. Atbildība
+(1) Komisijai ir tiesības uzlikt sabiedrībai un turētājbankai soda naudu līdz 400 minimālajām mēnešalgām par šādiem pārkāpumiem:
+1) par šajā likumā un uz tā pamata izdotajos Komisijas noteikumos paredzēto dokumentu un ziņu, kā arī iesniegtajos dokumentos un ziņās izdarīto grozījumu neiesniegšanu Komisijai tās noteiktajos termiņos;
+2) par nepatiesu ziņu iesniegšanu Komisijai vai šādu ziņu publisku izplatīšanu;
+3) par rīcību, ar kuru pārkāpti šā likuma noteikumi attiecībā uz ziņu publicēšanu;
+4) par fonda mantas iegrāmatošanas un glabāšanas noteikumu pārkāpšanu;
+5) par ieguldījumu apliecību emisijas, atpakaļpirkšanas un atpakaļpieņemšanas noteikumu pārkāpšanu;
+6) par fonda prospektā neparedzētu maksājumu veikšanu no fonda mantas;
+7) par sabiedrības vai fonda likvidācijas kārtības pārkāpšanu;
+8) par neziņošanu, ja konstatēti šā likuma, fonda prospekta vai fonda pārvaldes nolikuma noteikumu pārkāpumi;
+9) par to, ka nav nodrošināta šajā likumā noteiktā iespēja iepazīties ar fonda prospektu, fonda pārvaldes nolikumu un gada un pusgada pārskatiem;
+10) par ieguldījumu ierobežojumu pārsniegšanu, izņemot gadījumus, kuros pārsniegšana pieļaujama saskaņā ar šo likumu.
+(2) Soda naudas samaksa neatbrīvo no citas likumā noteiktās atbildības.

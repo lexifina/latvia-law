@@ -1,3 +1,7 @@
-12.pants. Sabiedrības līdzekļu ieguldīšanas ierobežojumi
-(1) Sabiedrībai nav tiesību ieguldīt savus līdzekļus citā ieguldījumu sabiedrībā, kā arī iegādāties pašas pārvaldāmā fonda ieguldījumu apliecības.
-(2) Šā panta pirmajā daļā noteiktie ierobežojumi, kas attiecas uz sabiedrības pašas pārvaldāmā fonda ieguldījumu apliecību iegūšanu, nav attiecināmi uz gadījumiem, kad ieguldījumu sabiedrība pārņem citas sabiedrības izveidota fonda pārvaldi. Šādā gadījumā sešu mēnešu laikā no pārņemšanas pabeigšanas dienas sabiedrībai ir jāveic pasākumi, lai tās turpmākā darbība atbilstu šā panta pirmās daļas noteikumiem.
+12.pants. Licencē noteikto pārvaldes pakalpojumu maiņa
+(1) Ja sabiedrība vēlas, lai tai izsniegtajā licencē norādītie pārvaldes pakalpojumi tiktu papildināti ar jauniem, vai vēlas atteikties no kāda licencē norādītā pārvaldes pakalpojuma sniegšanas, tā iesniedz Komisijai attiecīgu iesniegumu.
+(2) Ja sabiedrība vēlas uzsākt jauna pārvaldes pakalpojuma sniegšanu, tā vienlaikus ar iesniegumu Komisijai iesniedz:
+1) papildinājumus darbības plānā;
+2) grozījumus iekšējās kontroles sistēmas aprakstos, kas ir nepieciešami, lai nodrošinātu pakalpojuma sniegšanu atbilstoši šā likuma prasībām.
+(3) Lēmumu par sabiedrības licencē norādīto pārvaldes pakalpojumu maiņu Komisija pieņem 15 dienu laikā pēc visu šajā likumā minēto atbilstoši normatīvajos aktos noteiktajām prasībām sagatavoto un noformēto dokumentu saņemšanas.
+(4) Valsts nodeva par licencē norādīto pārvaldes pakalpojumu maiņu nav jāmaksā.

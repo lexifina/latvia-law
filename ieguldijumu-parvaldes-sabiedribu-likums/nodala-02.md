@@ -1,1 +1,1 @@
-II nodaļa. Ieguldījumu sabiedrība
+II nodaļa. Ieguldījumu pārvaldes sabiedrība

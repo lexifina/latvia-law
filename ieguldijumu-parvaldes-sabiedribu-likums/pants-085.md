@@ -1,4 +1,3 @@
-85.pants. Licences izsniegšana
-(1) Komisija pieņem lēmumu par licences izsniegšanu vai atteikumu izsniegt licenci mēneša laikā no pieteikuma saņemšanas dienas.
-(2) Par pieteikuma saņemšanas dienu uzskatāma diena, kad Komisijai iesniegti visi šā likuma 84.panta pirmajā daļā minētie dokumenti vai šo dokumentu precizējumi saskaņā ar 84.panta otro daļu.
-(3) Komisija izsniedz licenci nedēļas laikā no dienas, kad pieņemts lēmums par licences izsniegšanu, un tikai tad, kad saņemts dokuments, kas apliecina valsts nodevas samaksu.
+85.pants. Tādas Latvijā licencētas sabiedrības uzraudzība, kura sniedz pārvaldes pakalpojumus dalībvalstī
+(1) Komisija informē attiecīgās dalībvalsts uzraudzības institūciju pirms iekšējās pārbaudes veikšanas tādas Latvijā licencētas sabiedrības filiālē, kura šīs dalībvalsts teritorijā sniedz pārvaldes pakalpojumus.
+(2) Dalībvalsts uzraudzības institūcija pēc savas iniciatīvas vai Komisijas lūguma ir tiesīga veikt iekšējo pārbaudi tādas Latvijā licencētas sabiedrības filiālē, kura darbojas attiecīgās dalībvalsts teritorijā.

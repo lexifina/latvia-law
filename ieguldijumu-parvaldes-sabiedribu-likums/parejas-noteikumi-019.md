@@ -1,0 +1,1 @@
+19. Ja ieguldījumu sabiedrība, kura pārvalda valsts fondēto pensiju shēmas līdzekļus, vēlas turpināt minēto līdzekļu pārvaldi pēc 2004.gada 30.aprīļa, tā līdz 2004.gada 31.decembrim veic nepieciešamos pasākumus, lai sabiedrība un tās darbība atbilstu šā likuma un Valsts fondēto pensiju likuma prasībām.

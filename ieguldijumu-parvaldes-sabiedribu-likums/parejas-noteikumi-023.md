@@ -1,0 +1,1 @@
+23. Komisija līdz 2004.gada 1.maijam izstrādā un apstiprina visus šajā likumā noteiktos iesniegumu un paziņojumu paraugus, publicē tos laikrakstā "Latvijas Vēstnesis", kā arī ievieto Komisijas mājas lapā internetā.

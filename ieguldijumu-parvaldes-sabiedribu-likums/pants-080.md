@@ -1,4 +1,4 @@
-80.pants. Komisijas tiesības pieprasīt pārvaldes institūciju sēdes sasaukšanu
-Komisijai ir tiesības:
-1) pieprasīt, lai tiek sasaukta slēgtā fonda ieguldītāju pilnsapulce, sabiedrības valdes, padomes sēde vai akcionāru sapulce, iepriekš norādot darba kārtību;
-2) nosūtīt savu pārstāvi, kuram ir tiesības izteikt savu viedokli un iesniegt priekšlikumus, uz slēgtā fonda ieguldītāju pilnsapulci, sabiedrības valdes vai padomes sēdi vai akcionāru sapulci, kas sasaukta saskaņā ar šā panta 1.punktu.
+80.pants. Komisijas tiesības iegūt informāciju
+Komisijai ir šādas tiesības:
+1) rakstveidā pieprasīt un saņemt no sabiedrības, turētājbankas, Latvijas Bankas, komercreģistra iestādes, sabiedrības amatpersonām, bet sabiedrības likvidācijas vai maksātnespējas gadījumā - arī no likvidatoriem vai administratoriem informāciju par sabiedrības un fonda darbību;
+2) rakstveidā pieprasīt, lai šā panta 1.punktā minētās personas uzrāda to rīcībā esošos dokumentus par sabiedrību un fondu.

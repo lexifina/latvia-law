@@ -1,0 +1,1 @@
+18. Ja ieguldījumu sabiedrība, kura pārvalda privāto pensiju fondu izveidoto pensiju plānu līdzekļus, vēlas turpināt minēto līdzekļu pārvaldi pēc 2004.gada 30.aprīļa, tā, iesniedzot dokumentus licences pārreģistrācijai, kā vienu no pārvaldes pakalpojumiem norāda ieguldītāju finanšu instrumentu individuālo pārvaldīšanu.

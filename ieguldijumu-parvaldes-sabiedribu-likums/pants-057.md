@@ -1,45 +1,47 @@
 57.pants. Fonda prospekta saturs
-(1) Fonda prospektam ir jāatbilst normatīvo aktu un Komisijas noteiktajām prasībām par vērtspapīru emisijas prospektu.
-(2) Fonda prospektā ietverama informācija par fondu, sabiedrību, turētājbanku un konsultantiem.
-(3) Fonda prospektā attiecībā uz fondu norāda:
-1) fonda prospekta un tajā izdarīto grozījumu spēkā stāšanās datumu;
-2) fonda nosaukumu;
-3) vietu, kur var saņemt fonda prospektu, fonda pārvaldes nolikumu, ja tas nav pievienots prospektam, fonda gada vai pusgada pārskatus, ziņas par fonda vērtību un ieguldījumu apliecību pārdošanas un atpakaļpirkšanas cenu;
-4) šajā likumā paredzēto fonda ieguldītāju tiesību īsu skaidrojumu;
-5) ziņas par fonda ieguldītājam piemērojamiem nodokļu un nodevu maksājumiem un to veikšanas kārtību;
-6) ziņas par fonda auditoru - zvērināta revidenta vārdu, uzvārdu un sertifikāta numuru vai zvērinātu revidentu komercsabiedrības firmu, reģistrācijas numuru un licences numuru;
-7) ieguldījumu apliecību emisijas cenu, apjomu un laiku;
-8) ieguldījumu apliecību pārdošanas, atpakaļpirkšanas un atpakaļpieņemšanas noteikumus un kārtību;
-9) apstākļus, kādos var apturēt ieguldījumu apliecību atpakaļpirkšanu un atpakaļpieņemšanu;
-10) ieguldījumu apliecību pārdošanas un atpakaļpirkšanas cenas aprēķināšanas metodes un biežumu, kā arī to, kā, kur un cik bieži šīs cenas tiek nodotas atklātībā;
-11) komisijas naudu par ieguldījumu apliecību pārdošanu un atpakaļpirkšanu;
-12) fonda vērtības noteikšanas principus un noteikumus;
-13) noteikumus par fonda ienākumu aprēķināšanu, to izlietošanu un sadali fonda ieguldītājiem;
-14) ieguldījumu politiku (ieguldījuma objektu veidus, specializāciju noteiktos ģeogrāfiskajos rajonos vai industriālajos sektoros u.tml.), ieguldīšanas mērķi, arī finansiālos mērķus, un ar ieguldījumiem saistītā riska analīzi;
-15) ieguldījumu ierobežojumus;
-16) sabiedrībai, turētājbankai un citām personām no fonda mantas izmaksājamās atlīdzības maksimālo apjomu un aprēķināšanas kārtību, kā arī citus izdevumus, kas sedzami no fonda mantas;
-17) uz fonda rēķina izdarāmo aizņēmumu principus un kārtību;
-18) fonda saimnieciskā gada sākumu un beigas.
-(4) Fonda prospektā attiecībā uz fondu pārvaldošo sabiedrību norāda:
-1) sabiedrības firmu un reģistrācijas numuru;
-2) sabiedrības juridisko adresi un tās izpildinstitūcijas atrašanās vietu;
-3) sabiedrības dibināšanas datumu;
-4) sabiedrības dibināšanas pamatkapitāla, reģistrētā un apmaksātā kapitāla apjomu;
-5) sabiedrības valdes un padomes locekļu vārdu un uzvārdu, viņu pienākumus ārpus sabiedrības, ja tiem ir nozīme sabiedrības darbībā;
-6) citu sabiedrības pārvaldāmo fondu nosaukumus un to īsu aprakstu;
-7) fonda pārvaldnieku vārdu un uzvārdu;
-8) (izslēgts ar 24.10.2002. likumu).
-(5) Fonda prospektā attiecībā uz konsultantu, kuram saskaņā ar noslēgto līgumu atlīdzība tiek izmaksāta no fonda mantas, norāda:
-1) konsultanta, kā arī citu pakalpojumu sniedzēju vārdu, uzvārdu vai firmu, reģistrācijas numuru un atrašanās vietu;
-2) attiecīgā līguma noteikumus, kuri ir svarīgi fonda ieguldītājam, izņemot noteikumus par atlīdzību.
-(6) Fonda prospektā attiecībā uz turētājbanku norāda:
-1) turētājbankas firmu un reģistrācijas numuru;
-2) turētājbankas juridisko adresi un atrašanās vietu;
-3) turētājbankas dibināšanas datumu;
-4) (izslēgts ar 24.10.2002. likumu).
-(7) Slēgtā fonda prospektā papildus norāda:
-1) fonda ieguldītāju tiesības pieprasīt ieguldītāju pilnsapulces sasaukšanu un piedalīties tajās;
-2) ieguldītāju pilnsapulces kompetenci un lēmumu pieņemšanas kārtību.
-(8) Fonda prospekta pielikumā pievienojams fonda pēdējā gada pārskats vai pusgada pārskats, ja tas ir apstiprināts pēc pēdējā gada pārskata apstiprināšanas.
-(9) Fonda prospekta noteikumi kļūst saistoši sabiedrības un ieguldītāja savstarpējās attiecībās, tiklīdz ieguldītājs fonda prospektā un pārvaldes nolikumā noteiktajā kārtībā ir ieguvis attiecīgā fonda ieguldījumu apliecības.
-(10) Komisija ir tiesīga izdot noteikumus, kuros norādīta fonda prospektā iekļaujamā papildu informācija.
+(1) Fonda prospektam ir titullapa. Titullapā iekļaujama šāda informācija:
+1) fonda veids un nosaukums, kā arī norāde uz valsti, kurā fonds dibināts (reģistrēts);
+2) fonda sabiedrības firma un juridiskā adrese;
+3) fonda turētājbankas firma;
+4) fonda ieguldījumu apliecību izplatītāja firma un izplatīšanas vietu adreses;
+5) fonda revidenta vārds un uzvārds vai firma;
+6) fonda dibināšanas datums un darbības termiņš (ja tāds paredzēts);
+7) atzīme par fonda reģistrāciju Komisijā;
+8) atzīme par fonda prospektā izdarītajiem grozījumiem un to spēkā stāšanās datums;
+9) tās vietas adrese, kur var saņemt fonda prospektu, fonda pārvaldes nolikumu (ja tas nav pievienots fonda prospektam), fonda gada vai pusgada pārskatus, kā arī ziņas par fonda vērtību un ieguldījumu apliecību pārdošanas un atpakaļpirkšanas cenu.
+(2) Fonda prospektā ir satura rādītājs un lietoto terminu un saīsinājumu skaidrojums.
+(3) Fonda prospekta pilnajā versijā šajā daļā minētajā secībā iekļaujama vismaz šāda informācija:
+1) fonda ieguldīšanas mērķis, arī finansiālais mērķis (piemēram, kapitāla pieaugums vai ienākums no ieguldījumiem), ieguldījumu politika (piemēram, ieguldījuma objektu veidi, specializācija noteiktos ģeogrāfiskajos rajonos vai industriālajos sektoros), kā arī šā likuma 65.pantā noteiktā informācija;
+2) fonda riska profila apraksts un ar ieguldījumiem saistītā riska analīze;
+3) fonda ieguldījumu ierobežojumi un fonda pārvaldē izmantojamās ieguldīšanas prakses vai tehnikas apraksts, arī uz fonda rēķina izdarāmo aizņēmumu principi un kārtība;
+4) šajā likumā paredzēto fonda ieguldītāju tiesību īss skaidrojums, kā arī ieguldījumu apliecībās nostiprināto tiesību īss apraksts;
+5) tipiskā ieguldītāja (ieguldītājs, kuram paredzēts fonds) raksturojums;
+6) ziņas par fonda ieguldītājam piemērojamiem nodokļu un nodevu maksājumiem un to veikšanas kārtību;
+7) par ieguldījumu apliecību pārdošanu un atpakaļpirkšanu iekasējamās komisijas naudas maksimālais apmērs (procentos no fonda daļas vērtības);
+8) sabiedrībai, turētājbankai un citām fonda prospektā minētajām personām no fonda mantas izmaksājamās atlīdzības maksimālais apmērs (kopējais un katrai personai atsevišķi maksājamās atlīdzības apmērs) un aprēķināšanas kārtība, šīs atlīdzības samaksas kārtība. Maksimālo atlīdzības apmēru norāda procentos no fonda aktīvu vidējās vērtības;
+9) citi iespējamie izdevumi un maksājumi, kā arī to segšanas kārtība. Atsevišķi norāda tos maksājumus, kas būs jāveic fonda ieguldītājiem personiski, un tos, kurus veiks no fonda līdzekļiem;
+10) ziņas par fonda revidentu - vārds, uzvārds un sertifikāta numurs vai zvērinātu revidentu komercsabiedrības firma, reģistrācijas numurs un licences numurs;
+11) ieguldījumu apliecību pārdošanas, atpakaļpirkšanas un atpakaļpieņemšanas noteikumi un kārtība;
+12) apstākļi, kādos var apturēt ieguldījumu apliecību atpakaļpirkšanu un atpakaļpieņemšanu;
+13) ieguldījumu apliecību pārdošanas un atpakaļpirkšanas cenas aprēķināšanas metodes un biežums, kā arī ziņas par to, kur un cik bieži šīs cenas tiek nodotas atklātībā;
+14) fonda vērtības noteikšanas principi un noteikumi;
+15) noteikumi par fonda ienākumu aprēķināšanu, izlietošanu un sadali fonda ieguldītājiem;
+16) fonda pārskata gada sākums un beigas;
+17) sabiedrības firma, reģistrācijas datums un numurs, juridiskā adrese un, ja sabiedrība ir izveidojusi filiāli, tās atrašanās vietas adrese;
+18) sabiedrības reģistrētā un apmaksātā kapitāla apjoms;
+19) sabiedrības padomes locekļu un amatpersonu vārds, uzvārds un amats sabiedrībā, kā arī viņu pienākumi ārpus sabiedrības, ja tiem ir nozīme sabiedrības darbībā;
+20) citu sabiedrības pārvaldāmo fondu, privāto pensiju fondu pensiju plānu vai valsts fondēto pensiju shēmas līdzekļu ieguldījumu plānu nosaukums un īss apraksts;
+21) turētājbankas firma, reģistrācijas datums un numurs, juridiskā adrese un atrašanās vietas adrese;
+22) konsultanta, kā arī citu pakalpojumu sniedzēju vārds, uzvārds vai firma, reģistrācijas numurs un atrašanās vietas adrese, ja sabiedrība ir noslēgusi līgumu par attiecīgo pakalpojumu sniegšanu fonda pārvaldē un saskaņā ar šo līgumu pakalpojuma sniedzējam atlīdzība tiek maksāta no fonda līdzekļiem. Īss attiecīgā pakalpojuma sniedzēja pamatdarbības un to pakalpojuma līguma noteikumu apraksts, kuri ir svarīgi fonda ieguldītājiem;
+23) ja sabiedrība plāno kādu no fonda pārvaldes pakalpojumiem nodot trešajai personai, - norāde uz šiem pakalpojumiem un apraksts, kādā kārtībā pakalpojumi var tikt nodoti;
+24) fonda iepriekšējās darbības raksturojums un finansiālo rādītāju salīdzinošā tabula par pēdējiem trim gadiem (sagatavota atbilstoši fonda pārskatu noteikumiem). Pēc šīs informācijas iekļaujams paziņojums, ka šie rādītāji nenosaka (neietekmē) turpmāko fonda darbību. Minēto informāciju var iekļaut fonda prospektā vai pievienot tam.
+(4) Fonda prospekta saīsinātajā versijā informācija sniedzama iespējami vienkāršā un tipiskam fonda ieguldītājam saprotamā veidā. Fonda prospekta saīsinātajā versijā saīsinātā veidā iekļauj šā panta trešās daļas 1., 2., 5., 6., 7., 11., 12., 13. un 15.punktā minēto informāciju, kā arī papildus iekļauj šādas ziņas:
+1) paziņojumu, ka pēc ieguldītāja pieprasījuma - pirms tas iesniedz pieteikumu par fonda ieguldījumu apliecību iegādi un turpmāk - bez maksas ieguldītājam tiek izsniegta fonda prospekta pilnā versija, fonda gada un pusgada pārskats;
+2) uzraudzības institūcijas nosaukumu;
+3) norādi par sabiedrības kontaktpersonu (atbildīgo struktūrvienību), ar kuru sazinoties fonda ieguldītājs var saņemt papildu paskaidrojošu informāciju par fonda darbību. Norāda atbildīgās personas vārdu, uzvārdu un amatu vai sabiedrības attiecīgās struktūrvienības nosaukumu, kontaktinformāciju (tālruņa numuru vai cita saziņas līdzekļa rekvizītus) un darba laiku.
+(5) Slēgtā fonda prospektā papildus norāda:
+1) fonda ieguldījumu apliecību emisijas cenu, apjomu un laiku;
+2) fonda ieguldītāju tiesības pieprasīt ieguldītāju pilnsapulces sasaukšanu un piedalīties tajā;
+3) ieguldītāju pilnsapulces kompetenci un lēmumu pieņemšanas kārtību.
+(6) Fonda prospekta pielikumā pievieno fonda pēdējā gada pārskatu vai pusgada pārskatu, ja tas ir apstiprināts pēc pēdējā gada pārskata apstiprināšanas.
+(7) Fonda prospekta noteikumi kļūst saistoši sabiedrības un ieguldītāja savstarpējās attiecībās, tiklīdz ieguldītājs fonda prospektā un pārvaldes nolikumā noteiktajā kārtībā ir ieguvis attiecīgā fonda ieguldījumu apliecības.

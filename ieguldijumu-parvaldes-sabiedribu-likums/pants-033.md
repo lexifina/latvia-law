@@ -5,7 +5,7 @@
 (4) Fonda mantu nedrīkst ieķīlāt vai citādi apgrūtināt ar lietu tiesībām, izņemot, ja:
 1) tā kalpo kā nodrošinājums, saņemot aizņēmumus šā panta devītajā un desmitajā daļā noteiktajā kārtībā;
 2) uz fonda mantas rēķina tiek veikti pārdošanas darījumi ar atpirkšanu (repo);
-3) tā kalpo kā nodrošinājums, veicot darījumus ar šā likuma 65.pantā minētajiem atvasinātajiem finansu instrumentiem.
+3) tā kalpo kā nodrošinājums, veicot darījumus ar šā likuma 65.pantā minētajiem atvasinātajiem finanšu instrumentiem.
 (5) Sabiedrība nedrīkst, tieši vienojoties, atsavināt fonda mantu par labu:
 1) šo fondu pārvaldošajai sabiedrībai un tās ieinteresētajām personām;
 2) (izslēgts ar 24.10.2002. likumu);
@@ -16,9 +16,13 @@
 1) izpildīt sabiedrības saistības, kuras tai radušās tās vārdā un uz tās rēķina;
 2) emitēt vērtspapīrus, izņemot ieguldījumu apliecības;
 3) uzņemties saistības, kuras izriet no galvojuma līgumiem;
-4) piešķirt aizdevumus.
+4) piešķirt aizdevumus. Minētais aizliegums nav attiecināms uz aktīvu atpakaļpirkuma darījumiem, kurus ir atļauts veikt, ievērojot, ka darījumā iesaistītajam finanšu instrumentam tiek piemēroti šā likuma 66.pantā noteiktie ierobežojumi.
 (9) Sabiedrība drīkst ņemt aizņēmumus uz atvērtā fonda rēķina, ja šie aizņēmumi tiek ņemti uz laiku līdz trim mēnešiem un to kopsumma nepārsniedz 10 procentus no atvērtā fonda vērtības.
-(10) Sabiedrība drīkst ņemt aizņēmumus uz slēgtā fonda rēķina, ja šie aizņēmumi tiek ņemti uz laiku līdz trim mēnešiem un to kopsumma nepārsniedz 25 procentus no slēgtā fonda vērtības.
-(11) Sabiedrība nedrīkst ņemt aizņēmumus uz atvērtā fonda rēķina no šā panta piektajā daļā minētajām personām, izņemot bezprocentu aizņēmumus no sabiedrības un aizņēmumus no turētājbankas par procentu likmi, kas nepārsniedz finansu tirgus vidējo kredītprocentu likmi aizņēmuma ņemšanas brīdī.
+(10) Sabiedrība drīkst ņemt aizņēmumus uz slēgtā fonda rēķina, ja šie aizņēmumi tiek ņemti uz laiku līdz trim mēnešiem un to kopsumma nepārsniedz 25 procentus no slēgtā fonda vērtības. Ja slēgtā fonda prospektā ir paredzēts ne mazāk kā 50 procentus no slēgtā fonda līdzekļiem ieguldīt nekustamajā īpašumā, sabiedrība drīkst ņemt aizņēmumus uz slēgtā fonda rēķina bez laika ierobežojuma un to kopsumma nedrīkst pārsniegt 80 procentus no slēgtā fonda vērtības.
+(11) Sabiedrība nedrīkst ņemt aizņēmumus uz atvērtā fonda rēķina no šā panta piektajā daļā minētajām personām, izņemot bezprocentu aizņēmumus no sabiedrības un aizņēmumus no turētājbankas par procentu likmi, kas nepārsniedz finanšu tirgus vidējo kredītprocentu likmi aizņēmuma ņemšanas brīdī.
 (12) Sabiedrība nedrīkst uz fonda rēķina pārdot vērtspapīrus vai uzņemties saistības par vērtspapīru pārdošanu, ja tie darījuma noslēgšanas brīdī nav fonda manta. Šā noteikuma pārkāpums neietekmē darījuma spēkā esamību.
 (13) Sabiedrība nedrīkst uz fonda rēķina iegādāties mantu par cenu, kas ir augstāka par tirgus cenu, vai atsavināt fonda mantu par cenu, kas ir zemāka par tirgus cenu.
+(14) Sabiedrības akcionāri, kuriem ir būtiska līdzdalība sabiedrībā, drīkst veikt ieguldījumu sabiedrības nodibinātajā ieguldījumu fondā, ja tiek ievēroti šādi nosacījumi:
+1) akcionāram ieguldot līdzekļus fondā vai izstājoties no fonda, netiek aizskartas citu fonda ieguldītāju likumīgās intereses;
+2) ieguldījumu fonda vērtība nepārsniedz desmit miljonus latu.
+(15) Ja sabiedrības akcionārs, kuram ir būtiska līdzdalība sabiedrībā, ir ieguldījis līdzekļus atbilstoši šā panta četrpadsmitās daļas noteikumiem, fonda pārskatos sniedzama informācija par šāda ieguldījuma apjomu.

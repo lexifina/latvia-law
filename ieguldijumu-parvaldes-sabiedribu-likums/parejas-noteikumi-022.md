@@ -1,0 +1,1 @@
+22. Līdz attiecīgu grozījumu spēkā stāšanās dienai vērtspapīru tirgu regulējošajos normatīvajos aktos ar šajā likumā lietoto terminu "ieguldījumu brokeru sabiedrība" saprot terminu "brokeru sabiedrība" un ar terminu "ieguldījumu pakalpojumi"- terminu "starpniekdarbība".

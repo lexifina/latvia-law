@@ -1,5 +1,4 @@
-81.pants. Ierobežojumi attiecībā uz tiesībām rīkoties ar banku kontiem
-(1) Gadījumos, kad ir pārkāpti normatīvo aktu, fonda pārvaldes nolikuma, fonda prospekta vai turētājbankas līguma noteikumi, Komisijai ir tiesības iegūt informāciju no bankām un brokeru sabiedrībām par sabiedrības vai fonda naudas plūsmu un bankas kontu atlikumu un dot bankām rakstveida rīkojumu uz laiku līdz divām nedēļām ierobežot sabiedrības tiesības rīkoties ar sabiedrības vai fonda bankas kontiem.
-(2) Bankām šā panta pirmajā daļā minētie rīkojumi jāizpilda nekavējoties, tiklīdz tie saņemti.
-(3) Izmaksas no kontiem, uz kuriem attiecas rīkojums ierobežot sabiedrības tiesības rīkoties ar tiem, tiek veiktas tikai ar Komisijas atļauju.
-(4) Līdz šā panta pirmajā daļā minētā termiņa beigām kontus, uz kuriem attiecas rīkojums ierobežot sabiedrības tiesības rīkoties ar tiem, var atbrīvot no ierobežojumiem ar Komisijas atļauju.
+81.pants. Komisijas tiesības pieprasīt pārvaldes institūciju sēdes sasaukšanu
+Komisijai ir tiesības:
+1) pieprasīt, lai tiek sasaukta slēgtā fonda ieguldītāju pilnsapulce, sabiedrības valdes vai padomes sēde vai akcionāru sapulce, iepriekš norādot darba kārtību;
+2) nosūtīt savu pārstāvi, kuram ir tiesības izteikt savu viedokli un iesniegt priekšlikumus, uz slēgtā fonda ieguldītāju pilnsapulci, sabiedrības valdes vai padomes sēdi vai akcionāru sapulci, kas sasaukta saskaņā ar šā panta 1.punktu.

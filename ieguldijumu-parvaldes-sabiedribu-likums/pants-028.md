@@ -1,5 +1,5 @@
 28.pants. Fonda pārvaldes nolikums
-(1) Fonda pārvaldes nolikums (turpmāk - nolikums) nosaka fonda pārvaldīšanas kārtību. Nolikums un grozījumi tajā stājas spēkā ar reģistrācijas dienu Komisijā.
+(1) Fonda pārvaldes nolikums (turpmāk - nolikums) nosaka fonda pārvaldīšanas kārtību.
 (2) Nolikumam jābūt brīvi pieejamam visiem fonda ieguldītājiem pēc to pieprasījuma.
 (3) Nolikumā norāda:
 1) fonda nosaukumu;
@@ -20,3 +20,9 @@ e) veicama ieguldījumu apliecību emisija, atpakaļpirkšana un atpakaļpieņem
 11) kārtību, kādā sniedzami publiski paziņojumi un publiski pieejamā informācija;
 12) nolikuma grozīšanas kārtību.
 (4) Nolikumā drīkst ietvert arī citus noteikumus, kas nav pretrunā ar likumu vai Komisijas noteikumiem.
+(5) Ja nolikumā tiek izdarīti grozījumi, sabiedrība iesniedz Komisijai iesniegumu par nolikuma grozījumu reģistrāciju. Iesniegumam pievienojams:
+1) attiecīgās sabiedrības pārvaldes institūcijas lēmums par nolikuma grozījumu apstiprināšanu;
+2) nolikuma grozījumi (divos eksemplāros);
+3) nolikuma teksts, kurā ir iekļauti grozījumi. Pilnu nolikuma tekstu sabiedrība iesniedz Komisijai tikai elektroniski, nosūtot to uz Komisijas elektroniskā pasta adresi vai kopā ar dokumentiem iesniedzot attiecīgo tehnisko informācijas nesēju (disketi vai kompaktdisku).
+(6) Komisija izskata iesniegtos grozījumus un 15dienu laikā pieņem lēmumu par grozījumu reģistrēšanu, ja tie atbilst šā likuma prasībām un nav pretrunā ar fonda ieguldītāju likumīgajām interesēm.
+(7) Grozījumi nolikumā stājas spēkā ne agrāk kā 10 dienas pēc to reģistrācijas Komisijā vai citā Komisijas noteiktajā termiņā, kas nevar būt ilgāks par trim mēnešiem no grozījumu reģistrācijas dienas un tiek noteikts, ievērojot nolikuma grozījumu saturu un fonda ieguldītāju intereses.

@@ -1,1 +1,1 @@
-VIII nodaļa. Uzraudzība
+VIII nodaļa. Pārvaldes pakalpojumu sniegšanas brīvība

@@ -1,0 +1,1 @@
+X nodaļa. Informācijas apmaiņa

@@ -1,11 +1,12 @@
-16.pants. Fonda pārvaldes tiesību pāreja turētājbankai
-(1) Ja sabiedrības tiesības pārvaldīt fondu izbeidzas, tiesības pārvaldīt fondu pāriet šā fonda turētājbankai, izņemot šā likuma 14. panta 1.punktā noteikto gadījumu.
-(2) Turētājbankai nekavējoties ir jāiesniedz publicēšanai laikrakstā "Latvijas Vēstnesis" un vienā dienas laikrakstā paziņojums par pārvaldes tiesību pāreju. Paziņojumā norāda:
-1) tās sabiedrības firmu, kuras pārvaldē šis ieguldījumu fonds atradās;
-2) ieguldījumu fonda nosaukumu;
-3) turētājbankas firmu, juridisko adresi un valdes atrašanās vietu.
-(3) Sabiedrībai, kuras tiesības pārvaldīt ieguldījumu fondu ir izbeigušās citādi, nevis ar fonda pārvaldes tiesību nodošanu citai sabiedrībai, nekavējoties jānodod turētājbankai visi ar fonda pārvaldi saistītie dokumenti.
-(4) Turētājbankai, kurai pārgājušas ieguldījumu fonda pārvaldes tiesības, ir visas sabiedrības tiesības, izņemot tiesības emitēt tās pārvaldē esošā fonda ieguldījumu apliecības un veikt apliecību atpakaļpirkšanu.
-(5) Triju mēnešu laikā no fonda pārvaldes tiesību pārejas dienas turētājbankai jānodod fonda pārvaldes tiesības citai ieguldījumu sabiedrībai. Komisija var šo termiņu pagarināt līdz sešiem mēnešiem no pārvaldes tiesību pārejas dienas.
-(6) Fonda pārvaldes tiesības nodot citai sabiedrībai drīkst tikai ar Komisijas atļauju.
-(7) Ja šā panta piektajā daļā noteiktajos termiņos turētājbanka nenodod fonda pārvaldes tiesības citai ieguldījumu sabiedrībai, turētājbankai jāveic fonda likvidācija.
+16.pants. Fonda pārvaldes tiesību nodošana citai sabiedrībai
+(1) Sabiedrība drīkst nodot tās izveidotā fonda pārvaldi citai sabiedrībai tikai ar Komisijas atļauju.
+(2) Lai saņemtu Komisijas atļauju nodot fonda pārvaldi, sabiedrība iesniedz Komisijai motivētu iesniegumu. Iesniegumam pievienojami šādi dokumenti:
+1) fonda nodošanas līgums;
+2) fonda prospekta un pārvaldes nolikuma, kā arī turētājbankas līguma grozījumi vai esošā turētājbankas līguma grozījumi, kurus nepieciešams izdarīt saistībā ar sabiedrības maiņu.
+(3) Komisija mēneša laikā pēc visu šajā pantā minēto dokumentu saņemšanas pieņem lēmumu par atļauju nodot fonda pārvaldi citai sabiedrībai, ja ir izpildīti šādi nosacījumi:
+1) fonda pārvaldes nodošana neaizskar fonda ieguldītāju intereses;
+2) fonda pārvaldes nodošanai iesniegtie dokumenti ir sagatavoti atbilstoši šajā likumā noteiktajām prasībām;
+3) sabiedrība, kurai tiek nodota fonda pārvalde, atbilst prasībām, kuras šajā likumā noteiktas sabiedrības kapitālam.
+(4) Sabiedrība, kura nodod fonda pārvaldi, pēc Komisijas lēmuma saņemšanas fonda pārvaldes nolikumā noteiktajā kārtībā nekavējoties informē visus fonda ieguldītājus par sabiedrības maiņu, kā arī publicē laikrakstā "Latvijas Vēstnesis" un vēl vismaz vienā dienas laikrakstā paziņojumu par fonda nodošanu citai sabiedrībai. Paziņojumā norāda šīs sabiedrības firmu, reģistrācijas numuru un valdes atrašanās vietu.
+(5) Līgums par fonda pārvaldes nodošanu citai sabiedrībai stājas spēkā ne agrāk kā mēnesi pēc šā panta ceturtajā daļā minētā paziņojuma publicēšanas. Grozījumi fonda prospektā, fonda pārvaldes nolikumā un turētājbankas līgumā stājas spēkā vienlaikus ar līgumu par fonda pārvaldes nodošanu.
+(6) Līdzko līgums par fonda pārvaldes nodošanu stājas spēkā, visas ar ieguldījumu fondu saistītās tiesības un pienākumi pāriet jaunajai sabiedrībai.

@@ -1,6 +1,6 @@
-83.pants. Licences izsniegšanas nosacījumi
-Komisija izsniedz sabiedrībai licenci, ja vienlaikus tiek ievēroti šādi nosacījumi:
-1) pieteikums un tam pievienotie dokumenti atbilst likuma prasībām un Komisijas izdotajiem licencēšanas noteikumiem;
-2) sabiedrība atbilst prasībām, kuras likums izvirza ieguldījumu sabiedrībām;
-3) sabiedrības padomes locekļi, amatpersonas un akcionāri atbilst likuma prasībām;
-4) (izslēgts ar 24.10.2002. likumu).
+83.pants. Licences pārreģistrācija un dublikāta izsniegšana
+(1) Ja tiek mainīta sabiedrības firma, Komisija pārreģistrē licenci.
+(2) Sabiedrība iesniegumu par licences pārreģistrāciju iesniedz Komisijai ne vēlāk kā septiņu dienu laikā pēc firmas pārreģistrācijas komercreģistrā.
+(3) Komisija pārreģistrē licenci ne vēlāk kā septiņu dienu laikā pēc attiecīgā iesnieguma saņemšanas.
+(4) Ja licence ir nozaudēta, sabiedrība nekavējoties iesniedz Komisijai iesniegumu par licences dublikāta saņemšanu.
+(5) Komisija izsniedz licences dublikātu ne vēlāk kā septiņu dienu laikā pēc attiecīgā iesnieguma saņemšanas.

@@ -1,5 +1,6 @@
-4.pants. Ieguldījumu sabiedrības juridiskais statuss
-(1) Šā likuma 3. panta pirmajā daļā minēto darbību drīkst veikt tikai Latvijā reģistrētas ieguldījumu sabiedrības, ja likums nenosaka citādi.
-(2) Ieguldījumu sabiedrība (turpmāk - sabiedrība) ir finansu un kredīta akciju sabiedrība, kuras vienīgie darbības veidi ir ieguldījumu fondu pārvalde un šo fondu ieguldījumu apliecību emisija un ar to tieši saistītās darbības.
-(3) Sabiedrība drīkst pārvaldīt arī privāto pensiju fondu līdzekļus saskaņā ar likumu "Par privātajiem pensiju fondiem" un valsts fondēto pensiju shēmas līdzekļus saskaņā ar Valsts fondēto pensiju likumu.
-(4) Sabiedrība tiek dibināta un darbojas saskaņā ar šo likumu, Komerclikumu, citiem normatīvajiem aktiem un statūtiem.
+4.pants. Ieguldījumu pārvaldes sabiedrības darbības uzsākšana
+(1) Latvijā ieguldījumu pārvaldes sabiedrību dibina akciju sabiedrības formā. Ieguldījumu pārvaldes sabiedrība (turpmāk - sabiedrība) darbojas saskaņā ar šo likumu, Komerclikumu, citiem normatīvajiem aktiem un saviem statūtiem.
+(2) Sabiedrībai ir tikai vārda akcijas.
+(3) Sabiedrība drīkst uzsākt pārvaldes pakalpojumu sniegšanu tikai pēc tam, kad Finanšu un kapitāla tirgus komisija (turpmāk- Komisija) šajā likumā noteiktajā kārtībā tai ir izsniegusi licenci pārvaldes pakalpojumu sniegšanai (turpmāk - licence).
+(4) Licencē norāda tos pārvaldes pakalpojumus, kurus sabiedrība ir tiesīga sniegt atbilstoši šā likuma 5.pantam.
+(5) Komisija licenci izsniedz bez termiņa ierobežojuma.

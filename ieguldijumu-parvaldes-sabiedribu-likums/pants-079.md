@@ -1,4 +1,7 @@
-79.pants. Komisijas tiesības iegūt informāciju
-Komisijai saskaņā ar likumu ir tiesības:
-1) rakstveidā pieprasīt un saņemt no sabiedrības, turētājbankas, Latvijas Bankas, komercreģistra iestādes, sabiedrības amatpersonām, bet sabiedrības bankrota gadījumā arī no likvidatoriem vai administratoriem informāciju par sabiedrības un fonda darbību;
-2) rakstveidā pieprasīt, lai šā panta 1.punktā minētās personas uzrāda to rīcībā esošos dokumentus par sabiedrību un fondu.
+79.pants. Sabiedrības iekšējā pārbaude
+(1) Komisijai ir tiesības veikt sabiedrības iekšējo pārbaudi.
+(2) Sabiedrības pienākums ir atļaut Komisijas pilnvarotām personām, kuras veic sabiedrības iekšējo pārbaudi, brīvi iepazīties ar visiem dokumentiem un informāciju, kas attiecas uz sabiedrības darbību un fonda pārvaldi.
+(3) Komisijai ir tiesības veikt turētājbankas iekšējo pārbaudi attiecībā uz darbībām, kas saistītas ar fondu.
+(4) Ja pārbaudes veicējs pārbaudes laikā konstatē sabiedrības darbībā pārkāpumus, viņam ir tiesības uz laiku izņemt attiecīgos dokumentus, par to sastādot aktu.
+(5) Pārbaudes veicējam ir tiesības izdarīt izrakstus no dokumentiem, pieprasīt uz sabiedrības rēķina dokumentu kopijas, apliecinātas dokumentu kopijas vai norakstus.
+(6) Par pārbaudes rezultātiem Komisija sagatavo izziņu un iepazīstina ar to sabiedrības valdi.
