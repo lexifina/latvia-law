@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2004.gada 24.augusta noteikumi nr.736 \"Elektrisko un elektronisko iekārtu marķēšanas un informācijas sniegšanas prasības\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "136",
+  "official_journal_page": null,
+  "official_journal_date": "2004-08-27",
+  "entry_into_force": "2004-04-28",
+  "notification_date": "2005-06-27",
+  "commission_reference": "MNE(2005)52118",
+  "nim_celex": "72002L0096LVA_122118",
+  "nim_id": "122118",
+  "transposes_celex": [
+    "32002L0096"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9cde4c49-f383-400b-9087-fe56e3aa5c69",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
