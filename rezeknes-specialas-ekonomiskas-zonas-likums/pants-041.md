@@ -1,0 +1,1 @@
+41.pants. Preces, kuru izcelsmes vieta ir Latvijas Republika un kuras tiek ievestas brīvajās zonās vai muitas noliktavās, tās atpakaļ izvedot pārējā Latvijas Republikas muitas teritorijā, netiek apliktas ar muitas nodokli.

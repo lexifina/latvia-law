@@ -1,0 +1,2 @@
+5.pants. (1) Šajā likumā noteiktajā kārtībā Rēzeknes speciālās ekonomiskās zonas pārvaldīšanas uzņēmējsabiedrība slēdz līgumus ar Rēzeknes speciālās ekonomiskās zonas uzņēmējsabiedrībām par uzņēmējdarbību Rēzeknes speciālās ekonomiskās zonas teritorijā.
+(2) Šajā likumā noteiktajā kārtībā Rēzeknes speciālās ekonomiskās zonas pārvaldīšanas uzņēmējsabiedrība, ja tas nepieciešams, iznomā vai pārdod Rēzeknes speciālās ekonomiskās zonas uzņēmējsabiedrībām Rēzeknes speciālās ekonomiskās zonas teritorijā esošo zemi un citu nekustamo īpašumu.

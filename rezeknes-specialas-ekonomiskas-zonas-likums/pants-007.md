@@ -1,0 +1,1 @@
+7.pants. Rēzeknes speciālās ekonomiskās zonas teritorijā ir spēkā Latvijas Republikas likumi un citi normatīvie akti. Ar šo likumu tiek noteikti izņēmumi no vispārējās kārtības attiecībā uz Rēzeknes speciālās ekonomiskās zonas uzņēmējsabiedrībām vienīgi uzņēmējdarbības, ieguldījumu, nodokļu, muitas lietu jautājumos, rīcībā ar nekustamo īpašumu un ārvalstnieku darba jautājumos.

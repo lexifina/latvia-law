@@ -1,0 +1,1 @@
+49.pants. Līgumi ar Rēzeknes speciālās ekonomiskās zonas pārvaldīšanas uzņēmējsabiedrību par zemes un cita nekustamā īpašuma iznomāšanu vai atsavināšanu īpašumā ir atceļami likumā noteiktajā kārtībā, ja Rēzeknes speciālās ekonomiskās zonas uzņēmējsabiedrības nepilda likumu un līgumu nosacījumus.

@@ -1,0 +1,1 @@
+6.pants. Rēzeknes speciālās ekonomiskās zonas teritorija ir noteikta saskaņā ar šā likuma pielikumā pievienoto Rēzeknes speciālās ekonomiskās zonas teritorijas plānu un Rēzeknes speciālās ekonomiskās zonas teritorijas robežu aprakstu.

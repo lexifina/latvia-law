@@ -1,0 +1,1 @@
+56.pants. Šā likuma noteikumu grozīšana nedrīkst pasliktināt to Rēzeknes speciālās ekonomiskās zonas uzņēmējsabiedrību tiesisko stāvokli, kuras uzsākušas savu darbību Rēzeknes speciālās ekonomiskās zonas teritorijā un saņēmušas attiecīgu Rēzeknes speciālās ekonomiskās zonas pārvaldīšanas uzņēmējsabiedrības uz noteiktu termiņu izsniegtu atļauju uzņēmējdarbības veikšanai.

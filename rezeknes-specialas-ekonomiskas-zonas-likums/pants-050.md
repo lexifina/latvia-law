@@ -1,0 +1,1 @@
+50.pants. Rēzeknes speciālās ekonomiskās zonas pārvaldīšanas uzņēmējsabiedrībai Rēzeknes speciālās ekonomiskās zonas teritorijā ir zemes un cita nekustamā īpašuma pirmpirkuma un izpirkuma tiesības, ja attiecīgais likums pirmpirkuma tiesības nav piešķīris citai personai vai ja šī persona neizmanto šīs tiesības.

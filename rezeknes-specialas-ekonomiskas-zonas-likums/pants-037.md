@@ -1,0 +1,2 @@
+37.pants. (1) Rēzeknes speciālās ekonomiskās zonas uzņēmējsabiedrībām aprēķināto uzņēmumu ienākuma nodokli no ienākumiem, kurus tās gūst Rēzeknes speciālās ekonomiskās zonas teritorijā, samazina par 80 procentiem no aprēķinātās nodokļa summas.
+(2) Ja Rēzeknes speciālās ekonomiskās zonas uzņēmējsabiedrības izmaksā nerezidentam dividendes, atlīdzību par vadības un konsultatīvajiem pakalpojumiem un izdara samaksu par intelektuālo īpašumu, uzņēmumu ienākuma nodokli no šiem maksājumiem ietur ar 80 procentu atlaidi no aprēķinātās nodokļa summas.

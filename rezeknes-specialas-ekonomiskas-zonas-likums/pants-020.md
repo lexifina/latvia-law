@@ -1,0 +1,1 @@
+20.pants. Pirms uzņēmējdarbības uzsākšanas un ieguldījumu izdarīšanas Rēzeknes speciālās ekonomiskās zonas ieguldītāji slēdz līgumu ar Rēzeknes speciālās ekonomiskās zonas pārvaldīšanas uzņēmējsabiedrību par ieguldījumiem uzņēmējdarbības veikšanai.
