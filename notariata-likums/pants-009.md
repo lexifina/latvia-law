@@ -1,7 +1,7 @@
 9. Par zvērinātiem notāriem var būt personas, kas:
 1) ir Latvijas Republikas pilsoņi;
 2) sasniegušas divdesmit piecu gadu vecumu;
-3) ieguvušas augstāko juridisko izglītību Latvijas Universitātē vai kādā citā augstskolā, kura pēc Latvijas Universitātes Juridiskās fakultātes atzinuma pielīdzināma Latvijas Universitātei;
+3) ieguvušas augstāko juridisko izglītību;
 4) prot valsts valodu;
 5) darbojušās:
 a) vismaz divus gadus par zvērinātā notāra palīgu vai
