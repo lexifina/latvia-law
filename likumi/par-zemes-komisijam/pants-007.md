@@ -2,4 +2,4 @@
 Zemes komisiju sēžu protokoli pastāvīgi glabājas attiecīgi:
 pagasta Tautas deputātu padomē vai pilsētas Tautas deputātu padomē;
 rajona Tautas deputātu padomē;
-Latvijas Republikas Augstākajā Padomē.
+Latvijas Republikas Centrālajā zemes komisijā.
