@@ -1,0 +1,1 @@
+1.pants. 2002.gada 26.septembrī Briselē parakstītais Latvijas Republikas un Islandes Republikas, Lihtenšteinas Firstistes un Norvēģijas Karalistes nolīgums par atbilstības novērtēšanu un rūpniecisko preču atzīšanu un tā pielikumi (turpmāk - Nolīgums) ar šo likumu tiek pieņemti un apstiprināti.
