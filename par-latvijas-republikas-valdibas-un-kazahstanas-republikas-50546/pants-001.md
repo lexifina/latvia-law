@@ -1,0 +1,1 @@
+1.pants. 1998.gada 19.maijā Almati parakstītais Latvijas Republikas valdības un Kazahstānas Republikas valdības nolīgums par sadarbību dzelzceļa transporta jomā (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
