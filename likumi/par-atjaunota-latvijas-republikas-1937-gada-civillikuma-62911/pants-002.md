@@ -1,0 +1,2 @@
+2. pants. Saistības, kas pēc satura ir pretrunā ar Civillikumu un turpinās pēc 1993. gada 1. marta, grozāmas vai izbeidzamas sešu mēnešu laika, pusēm vienojoties, bet strīdu gadījumos - iesniedzot norādītajā sešu mēnešu termiņa prasību tiesā.
+Darījums, kas pēc formas neatbilst likuma prasībām, kādas bija spēkā līdz 1993. gada 1. martam, un kas vēl nav izpildīts norādītajā datuma, ir spēkā, ja tā forma nav pretrunā ar Civillikuma noteikumiem. Strīdus par šādiem darījumiem izskata tiesa.

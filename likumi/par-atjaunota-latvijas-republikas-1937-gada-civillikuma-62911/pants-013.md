@@ -1,0 +1,1 @@
+13. pants. Līdz Zemesgrāmatu likuma atjaunošanai jau noslēgto nomas vai īres līgumu reģistrācija valsts un pašvaldību iestādēs atbilstoši līdzšinējo likumu prasībām juridiskā spēka ziņā pielīdzināma ierakstam zemesgrāmatās (2126., 2174. pants).

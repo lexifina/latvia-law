@@ -1,0 +1,1 @@
+8. pants. Civillikuma 1833., 1851., 1867., 2004., 2112., 2191. un 2321. panta piezīmēs un 2071., 2076., 2111., 2202., 2212. un 2286. Panta noradītajos gadījumos piemērojami noteikumi, kas paredzēti Latvijas Republikas likumos.

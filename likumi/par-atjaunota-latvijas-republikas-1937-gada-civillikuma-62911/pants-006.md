@@ -1,0 +1,1 @@
+6. pants. Par valsts apstiprinājumu kredītiestādes vai akciju sabiedrības tiesībām izlaist Civillikuma 1524. un 1525. pantā norādītos uzrādītāja vērtspapīrus uzskatāma šādu tiesību noteikšana likumos par kredītiestādēm un akciju sabiedrībām, kā arī kompetentas valsts institūcijas izdota atļauja.

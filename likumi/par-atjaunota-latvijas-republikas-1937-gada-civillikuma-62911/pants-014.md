@@ -1,0 +1,1 @@
+14. pants. Civillikuma 1481. panta noteikumi attiecībā uz lietas izskatīšanu tiesā uzaicinājuma kārtībā, 1837. panta noteikumi attiecībā uz saistības priekšmeta glabāšanu tiesā un 2037., 2075. un 2238. panta noteikumi par pārdošanu izsolē tiesas ceļā nav piemērojami līdz attiecīgu civilprocesuālo likumu pieņemšanai.

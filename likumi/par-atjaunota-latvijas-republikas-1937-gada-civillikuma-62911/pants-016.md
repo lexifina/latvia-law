@@ -1,0 +1,1 @@
+16. pants. Civillikuma XIX nodaļas noteikumi par zaudējumu novērtēšanu piemērojami ne tikai gadījumos, kad kaitējums (zaudējumi) nodarīts, sākot ar 1993. gada 1. martu, bet arī gadījumos, kad kaitējums (zaudējumi) nodarīts līdz 1993. gada 1. martam, bet prasība celta pēc šā datuma.

@@ -1,0 +1,1 @@
+5. pants. Gadījumos, kad Civillikumā (1477.-1481. pants un citi panti) paredzēta tiesību nostiprināšana uz nekustamo īpašumu (koroborācija), līdz Zemesgrāmatu likuma atjaunošanai piemērojami spēkā esošie ar nekustamo īpašumu veikto darījumu noformēšanas un reģistrēšanas noteikumi.

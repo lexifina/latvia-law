@@ -1,0 +1,1 @@
+11. pants. Noteikt, ka nekustama īpašuma pirmpirkuma tiesībām, kas izriet no speciālajiem likumiem par namīpašumu un zemes atdošanu bijušajiem (likumīgajiem) īpašniekiem un denacionalizāciju, ir realizācijas priekšrocības salīdzinājumā ar atpakaļpirkuma saistībām (2054. pants).

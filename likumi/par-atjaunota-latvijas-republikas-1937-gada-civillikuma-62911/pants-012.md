@@ -1,0 +1,1 @@
+12. pants. Līdz Zemesgrāmatu likuma atjaunošanai un īpašuma tiesību nostiprināšanai zemesgrāmatās nekustamās mantas nomas un īres līgumi, izņemot līgumus par dzīvojamo telpu īri, var tikt noslēgti uz laiku, ne ilgāku par pieciem gadiem, ja likumos nav paredzēti citi termiņi.
