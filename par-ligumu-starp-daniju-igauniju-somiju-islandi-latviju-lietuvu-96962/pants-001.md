@@ -1,0 +1,1 @@
+1.pants. 2004.gada 11.februārī Helsinkos parakstītais Līgums starp Dāniju, Igauniju, Somiju, Islandi, Latviju, Lietuvu, Norvēģiju un Zviedriju par Ziemeļu Investīciju banku (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.

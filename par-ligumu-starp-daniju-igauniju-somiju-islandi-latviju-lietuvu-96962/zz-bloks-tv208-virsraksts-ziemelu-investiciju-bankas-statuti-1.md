@@ -1,0 +1,2 @@
+Bankai ir oficiālais nosaukums šādās valodās: "Nordic Investment Bank" angļu valodā, "Nordiska investeringsbanken" zviedru valodā, "Den Nordiske Investeringsbank" dāņu valodā, "Pohjamaade Investeerimispank" igauņu valodā, "Pohjoismaiden Investoitipankki" somu valodā, "Norræni fjárfestingarbankinn" islandiešu valodā, "Ziemeļu Investīciju banka" latviešu valodā, "Šiaurės investicijų bankas" lietuviešu valodā un "Den nordiske investeringsbank" norvēģu valodā.
+Bankas nosaukuma oficiālais saīsinājums ir NIB.
