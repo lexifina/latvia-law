@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Civillikums. Valdības Vēstnesis, 41, 20.02.1937.",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "Valdības vēstnesis, 41.",
+  "official_journal_page": null,
+  "official_journal_date": "1937-02-20",
+  "entry_into_force": "1992-09-01",
+  "notification_date": "2022-03-01",
+  "commission_reference": "MNE(2022)01306",
+  "nim_celex": "72018L1673LVA_202201306",
+  "nim_id": "202201306",
+  "transposes_celex": [
+    "32018L1673"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/63d75c95-5c7b-49ed-85ec-e39694e786c1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
