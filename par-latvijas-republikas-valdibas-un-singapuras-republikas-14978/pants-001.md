@@ -1,0 +1,1 @@
+1.pants. 1999.gada 6.oktobrī Singapūrā parakstītais Latvijas Republikas valdības un Singapūras Republikas valdības nolīgums par gaisa satiksmi (turpmāk - Nolīgums) un tā pielikums (turpmāk - Pielikums) ar šo likumu tiek pieņemti un apstiprināti.
