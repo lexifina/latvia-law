@@ -1,0 +1,7 @@
+30. pants. Aizsargjoslas ap naftas un naftas produktu vadiem, noliktavām un krātuvēm
+(1) Aizsargjoslas ap visu veidu un jebkuras piederības naftas un naftas produktu vadiem, noliktavām un krātuvēm tiek noteiktas, lai nodrošinātu naftas un naftas produktu vadu, noliktavu un krātuvju ekspluatāciju un drošību, kā arī samazinātu iespējamo negatīvo ietekmi uz vidi un cilvēku.
+(2) Aizsargjoslām ap naftas un naftas produktu vadiem un ar tiem saistītām būvēm un iekārtām ir šāds minimālais platums:
+1) gar cauruļvadu trasēm - zemes gabals un gaisa telpa, ko norobežo nosacītas vertikālas plaknes katrā pusē 25 metru attālumā no cauruļvada ass;
+2) ap tilpnēm, kas paredzētas naftas un naftas produktu ieplūdināšanai avārijas gadījumā, - zemes gabals un gaisa telpa, ko norobežo nosacītas vertikālas plaknes katrā pusē 50 metru attālumā no šo objektu teritorijas iežogojuma.
+3) ap galvenajām un starpposmu pārsūknēšanas un iepildīšanas stacijām, rezervuāru parkiem, iepildīšanas un izliešanas estakādēm, naftas un naftas produktu uzsildīšanas punktiem - zemes gabals un gaisa telpa, ko norobežo nosacītas vertikālas plaknes katrā pusē 100 metru attālumā no šo objektu teritorijas iežogojuma.
+(3) Metodikas projektu, pēc kuras nosaka aizsargjoslas ap naftas un naftas produktu vadiem, noliktavām un krātuvēm, izstrādā Ekonomikas ministrija pēc saskaņošanas ar Iekšlietu ministrijas Ugunsdzēsības un glābšanas dienesta departamentu.

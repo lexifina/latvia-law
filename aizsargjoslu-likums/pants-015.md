@@ -1,0 +1,4 @@
+15.pants. Aizsargjoslas ap valsts hidrometeoroloģisko novērojumu stacijām un posteņiem un ap stacionāriem valsts nozīmes monitoringa punktiem
+(1) Aizsargjoslas ap valsts hidrometeoroloģisko novērojumu stacijām un posteņiem un ap stacionāriem valsts nozīmes monitoringa punktiem tiek noteiktas, lai nodrošinātu hidrometeoroloģisko un cita veida monitoringa novērojumu precizitāti un nepārtrauktību.
+(2) Aizsargjoslas ap valsts hidrometeoroloģisko novērojumu stacijām un posteņiem un ap stacionāriem valsts nozīmes monitoringa punktiem tiek noteiktas ne mazāk kā 200 metru rādiusā ap tiem.
+(3) Metodikas projektu, pēc kuras nosaka aizsargjoslas ap valsts hidrometeoroloģisko novērojumu stacijām un posteņiem un ap stacionāriem valsts nozīmes monitoringa punktiem, izstrādā Vides aizsardzības un reģionālās attīstības ministrija.
