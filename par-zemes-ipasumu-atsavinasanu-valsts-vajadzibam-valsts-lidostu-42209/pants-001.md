@@ -1,0 +1,1 @@
+1.pants. Atsavināt valsts vajadzībām bijušo īpašnieku un viņu mantinieku zemes īpašumus 242,6467 hektāru platībā, kas atrodas valsts lidostu uzņēmuma "Rīga" teritorijā, minētā uzņēmuma uzturēšanai un tā darbības nodrošināšanai (1., 3. un 4.pielikums).

@@ -1,0 +1,1 @@
+2.pants. Atsavināt valsts vajadzībām Zinaidai Gaurei, kā arī Mihailam Uļmanam un Andžam Krastiņam piederošos zemes īpašumus 18,1 hektāra platībā, kas atrodas valsts lidostu uzņēmuma "Rīga" teritorijā, minētā uzņēmuma uzturēšanai un tā darbības nodrošināšanai (2., 3. un 4.pielikums).

@@ -1,0 +1,1 @@
+Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta noteikumi nr.296 "Noteikumi par zemes īpašuma atsavināšanu valsts vajadzībām valsts lidostu uzņēmuma "Rīga" teritorijā" (Latvijas Vēstnesis, 1996, 132.nr.).

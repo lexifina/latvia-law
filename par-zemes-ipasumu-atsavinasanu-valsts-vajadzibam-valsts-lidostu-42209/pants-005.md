@@ -1,0 +1,1 @@
+5.pants. Šā likuma 1.pielikumā norādītais nekustamais īpašums ierakstāms zemesgrāmatā uz valsts vārda, pamatojoties uz šo likumu un valsts akciju sabiedrības "Latvijas Hipotēku un zemes banka" apliecinājumu par naudas ieskaitīšanu 1.pielikumā minēto personu kontos.
