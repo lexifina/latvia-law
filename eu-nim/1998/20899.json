@@ -1,0 +1,30 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Dzelzceļa likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "102/105",
+  "official_journal_page": null,
+  "official_journal_date": "1998-04-17",
+  "entry_into_force": null,
+  "notification_date": "2004-04-16",
+  "commission_reference": "MNE(2003)50899",
+  "nim_celex": "71991L0440LVA_20899",
+  "nim_id": "20899",
+  "transposes_celex": [
+    "31991L0440",
+    "31995L0018",
+    "31996L0048",
+    "31996L0049",
+    "32001L0012",
+    "32001L0013",
+    "32001L0014",
+    "32001L0016",
+    "32004L0051"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/04f41861-010d-4a83-8abc-ff4feabf3f41",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
