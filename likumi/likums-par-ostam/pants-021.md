@@ -1,6 +1,2 @@
 21. pants. Ostu attīstības fonda finanšu līdzekļu avoti
-Ostu attīstības fondā ieskaita:
-1) ostu pārvalžu iemaksas;
-2) valsts asignējumus;
-3) mērķa ziedojumus;
-4) citas iemaksas.
+Ostu attīstības fonda finanšu līdzekļi ir valsts budžeta dotācija no vispārējiem ieņēmumiem, kuru veido ostu pārvalžu iemaksas valsts budžeta ieņēmumos, un juridisko un fizisko personu ziedojumi.

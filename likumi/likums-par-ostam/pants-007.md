@@ -7,7 +7,8 @@
 4) savas kompetences ietvaros kontrolē ostas noteikumu ievērošanu;
 5) savas kompetences ietvaros kontrolē ostas uzņēmumu (uzņēmējsabiedrību) darbības atbilstību likumiem, Ministru kabineta normatīvajiem aktiem un attiecīgās ostas pārvaldes nolikumam;
 6) kontrolē ostas teritorijas aizsardzību pret piesārņojumu, nodrošina ostas teritorijā radušos piesārņojuma seku likvidēšanu, piedalās piesārņojuma seku likvidēšanā jūrā, organizē kuģu radīto atkritumu un piesārņoto ūdeņu pieņemšanu, kā arī izstrādā kuģu radīto atkritumu apsaimniekošanas plānu ostās. Ministru kabinets nosaka kuģu radīto atkritumu un piesārņoto ūdeņu pieņemšanas kārtību un kuģu radīto atkritumu apsaimniekošanas plānu izstrādes kārtību;
-7) nodrošina ziemas navigāciju ostā saskaņā ar Latvijas Jūras administrācijas izstrādāto kārtību, kuru apstiprina satiksmes ministrs.
+7) nodrošina ziemas navigāciju ostā saskaņā ar Latvijas Jūras administrācijas izstrādāto kārtību, kuru apstiprina satiksmes ministrs;
+8) nosaka Starptautiskā kuģu un ostu iekārtu aizsardzības kodeksa (ISPS) prasību izpildi ostā un kontrolē ostas teritorijā izvietoto organizāciju darbību atbilstoši ostu iekārtu aizsardzības plāniem.
 (3) Ostas pārvalde kā privāto tiesību subjekts veic šādas funkcijas:
 1) izstrādā ostas attīstības programmas projektu atbilstoši apstiprinātai Latvijas ostu attīstības koncepcijai un attiecīgās pašvaldības attīstības programmai un teritorijas plānojumam;
 2) nodrošina Latvijas Ostu padomē akceptētās ostas attīstības programmas realizāciju;
