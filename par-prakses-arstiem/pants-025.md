@@ -1,0 +1,2 @@
+25.pants
+Ja pacients, viņa ģimenes locekļi, bet, ja tādu nav, - tuvākie radinieki, aizgādņi vai aizbildņi (turpmāk šajā pantā - tuvinieki) pilnībā vai daļēji atsakās no piedāvātās konsultācijas, izmeklēšanas vai ārstēšanas un ja šīs atteikšanās rezultātā iespējama pacienta veselības pasliktināšanās vai nāve, prakses ārsta pienākums ir izskaidrot to pacientam vai viņa tuviniekiem un dokumentēt atteikšanās iespējamās sekas. Ja pacients vai viņa tuvinieki savu lēmumu nemaina, prakses ārsta pienākums ir mudināt pacientu apmeklēt citu ārstu.
