@@ -1,0 +1,3 @@
+15.pants. Ūdens resursu lietošanas ekonomiskā analīze, upju baseinu raksturojums un cilvēku darbības ietekmes izvērtējums
+(1) Vides aizsardzības un reģionālās attīstības ministrs apstiprina katram upju baseinu apgabalam vai Latvijas teritorijā ietilpstošajai starptautiska upju baseinu apgabala daļai ūdens resursu lietošanas ekonomisko analīzi (turpmāk - ekonomiskā analīze), upju baseinu raksturojumu, kā arī cilvēku darbības ietekmes izvērtējumu, ņemot vērā šā likuma 16.panta nosacījumus.
+(2) Šā panta pirmajā daļā minēto ekonomisko analīzi, upju baseinu raksturojumu un cilvēku darbības ietekmes izvērtējumu pārskata ne retāk kā reizi sešos gados.

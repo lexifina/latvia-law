@@ -1,0 +1,4 @@
+10.pants. Starptautiskā sadarbība upju baseinu apsaimniekošanā
+(1) Ja upes baseins daļēji ietilpst Latvijas teritorijā, daļēji - citas tādas valsts teritorijā, kura ir Eiropas Savienības dalībvalsts vai kandidātvalsts, Vides aizsardzības un reģionālās attīstības ministrija, lai izveidotu un apsaimniekotu starptautisku upju baseinu apgabalu, sadarbojas ar attiecīgās valsts kompetentajām institūcijām.
+(2) Ja izveidots starptautisks upju baseinu apgabals, attiecīgā Latvijas upju baseinu apgabala pārvaldes institūcija nodrošina Latvijas teritorijā ietilpstošās upju baseinu apgabala daļas pārvaldi.
+(3) Ja upes baseins daļēji ietilpst Latvijas teritorijā, daļēji - citas tādas valsts teritorijā, kura nav Eiropas Savienības dalībvalsts vai kandidātvalsts, Vides aizsardzības un reģionālās attīstības ministrija sadarbojas ar attiecīgās valsts kompetentajām institūcijām, lai veicinātu šā likuma mērķu sasniegšanu visā upes baseinā.

@@ -1,0 +1,1 @@
+5. Šā likuma 17.panta otrās daļas nosacījumus ievieš līdz 2010.gada 1.janvārim. Šā panta nosacījumu īstenošana līdz 2015.gada 31.decembrim neierobežo valsts, pašvaldību un starptautiskā finansējuma piesaisti valsts investīciju programmu īstenošanai dzeramā ūdens un komunālo notekūdeņu jomā.

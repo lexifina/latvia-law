@@ -1,0 +1,5 @@
+20.pants. Prasības pasākumu programmām
+(1) Lai sasniegtu šajā likumā noteiktos vides kvalitātes mērķus, vides aizsardzības un reģionālās attīstības ministrs apstiprina pasākumu programmu katram upju baseinu apgabalam vai Latvijas teritorijā ietilpstošajai starptautiskā upju baseinu apgabala daļai. Pasākumu programmu izstrādā saskaņā ar attiecīgā upju baseinu apgabala apsaimniekošanas plānu.
+(2) Izstrādājot pasākumu programmu, ņem vērā šā likuma 15.pantā noteiktās ekonomiskās analīzes, upju baseinu raksturojuma un cilvēku darbības ietekmes izvērtējuma rezultātus.
+(3) Ministru kabinets nosaka minimālās prasības, nosacījumus un aizliegumus, kurus ietver pasākumu programmā, kā arī darbības, kas jāveic, ja attiecīgajā ūdensobjektā nav sasniegti šajā likumā noteiktie vides kvalitātes mērķi.
+(4) Katrā pasākumu programmā norāda obligātos pasākumus un, ja nepieciešams, arī papildu pasākumus, kas veicami konkrētajā apgabalā, lai sasniegtu izvirzītos vides kvalitātes mērķus. Pasākumu programmās norāda arī pasākumus, kas attiecas uz visu valsts teritoriju.

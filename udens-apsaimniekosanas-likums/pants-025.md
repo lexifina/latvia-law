@@ -1,0 +1,3 @@
+25.pants. Likuma prasību ieviešana
+(1) Veicot ietekmes uz vidi novērtējumu vai izdodot tehniskos noteikumus, Ietekmes uz vidi novērtējuma valsts birojs vai reģionālā vides pārvalde aizliedz tādas darbības, kuru dēļ nav iespējams sasniegt saskaņā ar šo likumu noteiktos vides kvalitātes mērķus vai īstenot apsaimniekošanas plānā noteiktos pasākumus.
+(2) Izsniedzot atļaujas ūdens resursu lietošanai vai pagarinot to derīguma termiņu, reģionālās vides pārvaldes ņem vērā konkrētajai teritorijai noteiktos vides kvalitātes mērķus vai apsaimniekošanas plānā noteiktos pasākumus un to īstenošanas termiņus.
