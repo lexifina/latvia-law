@@ -1,0 +1,1 @@
+Ministru kabinets noslēdz jaunu līgumu ar Igaunijas Republiku par kopējas robežkontroles organizēšanu, konkretizējot jurisdikciju Līguma 1.pantā minētajā robežkontroles punktā, un iesniedz šo līgumu Saeimā apstiprināšanai.

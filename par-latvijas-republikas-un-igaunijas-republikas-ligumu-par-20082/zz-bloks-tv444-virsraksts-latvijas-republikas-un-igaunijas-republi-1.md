@@ -1,0 +1,2 @@
+Latvijas Republikas vārdāIgaunijas Republikas vārdā
+Valsts ieņēmumu Valsts ministreFinansu ministrs
