@@ -1,0 +1,1 @@
+5.pants. Atbilstības novērtēšana reglamentētajā sfērā attiecas uz produktiem, procesiem un pakalpojumiem to projektēšanas, izgatavošanas, pirmstirgus, tirgus, ekspluatācijas un utilizācijas stadijā, lai noteiktu, vai tie var izraisīt briesmas cilvēka dzīvībai, veselībai un videi.

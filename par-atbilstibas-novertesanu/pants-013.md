@@ -1,0 +1,1 @@
+13.pants. Latvijas Republikā darbojas vienota, starptautiskajām prasībām atbilstoša nacionālā akreditācijas sistēma, kas veic noteiktas akreditēšanas procedūras un ievēro vienotas vadības principus. Nacionālas akreditācijas sistēmas darbību reglamentē Ministru kabineta noteikumi.

@@ -1,0 +1,1 @@
+17.pants. Ja starp Latviju un attiecīgo valsti nepastāv savstarpēja vienošanās par atbilstības novērtēšanas sistēmu atzīšanu, lēmumu par šajā valstī izdoto atbilstības novērtēšanas apliecinājumu vai apstiprinājumu atzīšanu reglamentētajā sfērā pieņem attiecīgā kompetentā vai pilnvarotā (kompetentā un pilnvarotā) institūcija, kura ir juridiski atbildīga par sava lēmuma pareizību.

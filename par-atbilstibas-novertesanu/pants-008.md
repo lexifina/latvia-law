@@ -1,0 +1,1 @@
+8.pants. Ārlietu ministrija saskaņā ar Eiropas savienībā pastāvošo paziņošanas procedūru paziņo Eiropas komisijai par pilnvarotajām atbilstības novērtēšanas institūcijām, kuras ir kompetentas un darbojas saskaņā ar Eiropas savienības direktīvu prasībām reglamentētajā atbilstības novērtēšanas sfērā.

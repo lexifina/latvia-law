@@ -1,0 +1,1 @@
+15.pants. Sūdzības un apelācijas par atbilstības novērtēšanā iesaistīto institūciju darbību izskata Ekonomikas ministrija, kas ir tā institūcija, kura koordinē kvalitātes politiku Latvijas Republikā. Ja iesniedzēju neapmierina tās lēmums, konfliktu izskata likumos noteiktajā kārtībā.
