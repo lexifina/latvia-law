@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Latvijas Republikas Satversme",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "43",
+  "official_journal_page": null,
+  "official_journal_date": "1993-07-01",
+  "entry_into_force": null,
+  "notification_date": "2024-03-25",
+  "commission_reference": "MNE(2024)01421",
+  "nim_celex": "72021L1187LVA_202401421",
+  "nim_id": "202401421",
+  "transposes_celex": [
+    "32021L1187"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4293c57e-95ab-4d63-9c24-4c2e029ecfc9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
