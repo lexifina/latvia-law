@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Civilprocesa likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "326/330",
+  "official_journal_page": null,
+  "official_journal_date": "1998-11-03",
+  "entry_into_force": "1999-03-01",
+  "notification_date": "2024-07-02",
+  "commission_reference": "MNE(2024)02957",
+  "nim_celex": "72019L1023LVA_202402957",
+  "nim_id": "202402957",
+  "transposes_celex": [
+    "32019L1023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8de0d83a-fa56-4536-b15c-6b2963fe5c5c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
