@@ -1,0 +1,2 @@
+64.pants. (1) Revidējamā vienība 30 dienu laikā no revīzijas slēgšanas dienas ir tiesīga iesniegt Valsts kontroles padomei motivētu prasību pārskatīt revīzijas departamenta kolēģijas lēmumu.
+(2) Revidējamās vienības pilnvarotiem pārstāvjiem ir tiesības piedalīties Valsts kontroles padomes sēdē, kurā tiek izskatīta šā panta pirmajā daļā minētā prasība, un sniegt paskaidrojumus, pamatojoties uz tiem revīzijas pierādījumiem, ko revidējamā vienība sniegusi Valsts kontrolei revīzijas veikšanas laikā.

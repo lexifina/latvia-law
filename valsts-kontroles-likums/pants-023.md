@@ -1,0 +1,2 @@
+23.pants. (1) Valsts kontroles kancelejas uzdevums ir radīt priekšnoteikumus Valsts kontroles saskaņotai un optimālai darbībai, sekmēt šajā likumā un citos normatīvajos aktos Valsts kontrolei noteikto uzdevumu veikšanu.
+(2) Valsts kontroles kancelejā ietilpst struktūrvienības, kas risina iestādes finansu, personāla, lietvedības, starptautisko sakaru, juridiskos, informācijas un saimnieciskos jautājumus.

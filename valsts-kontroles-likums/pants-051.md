@@ -1,0 +1,1 @@
+51.pants. Revidējamo vienību lietas, kas saskaņā ar normatīvajiem aktiem satur valsts noslēpumu vai ierobežotas pieejamības informāciju, pārbauda katram atsevišķam gadījumam Valsts kontroles pilnvaroti darbinieki, kas iepriekš paziņo par to revidējamai vienībai.

@@ -1,0 +1,1 @@
+50.pants. Pēc Valsts kontroles pieprasījuma, ja tas nepieciešams revīzijas veikšanai, bankām un citām kredītiestādēm ir pienākums Kredītiestāžu likumā noteiktajā apmērā un kārtībā sniegt Valsts kontrolei tās pieprasītās ziņas par revidējamo vienību kontiem un veiktajiem darījumiem.

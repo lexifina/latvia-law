@@ -1,0 +1,1 @@
+41.pants. Valsts kontroles amatpersonai un darbiniekam kvalifikācijas celšanas laikā tiek saglabāta mēnešalga un segti mācību izdevumi līdz 45 dienām triju gadu laikā, ja kvalifikācijas celšana notiek Latvijā.

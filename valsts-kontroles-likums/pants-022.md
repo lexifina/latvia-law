@@ -1,0 +1,2 @@
+22.pants. (1) Revīzijas departamenta kolēģijas sēdes ir slēgtas.
+(2) Revīzijas departamenta kolēģijas sēde ir lemttiesīga, ja tajā piedalās revīzijas departamenta direktors vai viņa pienākumu izpildītājs un ne mazāk kā trīs revīzijas departamenta kolēģijas locekļi. Jautājumus izlemj ar balsu vairākumu. Balsīm sadaloties līdzīgi, izšķirošā ir revīzijas departamenta kolēģijas priekšsēdētāja balss.

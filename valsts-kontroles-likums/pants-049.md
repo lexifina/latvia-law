@@ -1,0 +1,2 @@
+49.pants. (1) Valsts kontrolieris, Valsts kontroles padomes loceklis, revīzijas departamenta kolēģijas loceklis un valsts kontroliera pilnvaroti darbinieki, ja tas nepieciešams Valsts kontroles uzdevuma veikšanai, var netraucēti apmeklēt iestādes un uzņēmumus (komercsabiedrības) neatkarīgi no to pakļautības un īpašuma piederības un pieprasīt visu nepieciešamo informāciju.
+(2) Valsts kontroles pilnvarotām amatpersonām un darbiniekiem ir tiesības revidējamā vienībā piekļūt informācijai, ko Valsts kontrole uzskata par nepieciešamu revīzijas veikšanai.

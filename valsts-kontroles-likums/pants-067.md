@@ -1,0 +1,1 @@
+67.pants. Revidējamai vienībai jāiesniedz Valsts kontrolei tās noteiktajā kārtībā un termiņā visi ar revīziju saistītie grāmatvedības reģistri un dokumenti, kā arī jāsniedz visa ar revīziju saistītā informācija un paskaidrojumi.

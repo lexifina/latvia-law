@@ -1,0 +1,1 @@
+25.pants. Valsts kontrolieris, Valsts kontroles padomes loceklis, revīzijas departamenta kolēģijas loceklis un Valsts kontroles kancelejas pārvaldnieks ir valsts amatpersonas (turpmāk - Valsts kontroles amatpersonas).

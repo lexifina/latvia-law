@@ -1,0 +1,1 @@
+65.pants. Revidējamā vienība Valsts kontroles padomes pieņemto lēmumu par šīs revidējamās vienības iesniegto prasību 30 dienu laikā, skaitot no lēmuma pieņemšanas dienas, var pārsūdzēt Augstākās tiesas Senātā.

@@ -1,0 +1,1 @@
+31.pants. Valsts kontrolieris, Valsts kontroles padomes loceklis, revīzijas departamenta kolēģijas loceklis un Valsts kontroles kancelejas pārvaldnieks uz amata pildīšanas laiku pārtrauc darbību politiskajās organizācijās (partijās).

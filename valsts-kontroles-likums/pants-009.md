@@ -1,0 +1,1 @@
+9.pants. Valsts kontroliera prombūtnes laikā viņa pienākumus pilda tas Valsts kontroles padomes loceklis, kuru uz visu minētā Valsts kontroles padomes locekļa pilnvaru laiku norīkojis valsts kontrolieris. Ja arī šis Valsts kontroles padomes loceklis ir prombūtnē, valsts kontroliera pienākumus pilda padomes loceklis - revīzijas departamenta direktors ar ilgāko pilnvaru stāžu.

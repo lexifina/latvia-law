@@ -1,0 +1,2 @@
+29.pants. (1) Valsts kontrolieri pirms šā likuma 26.panta pirmajā daļā noteiktā termiņa, kā arī Valsts kontroles padomes locekli un revīzijas departamenta kolēģijas locekli pirms šā likuma 27.panta pirmajā daļā noteiktā termiņa no amata atbrīvo Saeima vienīgi uz tiesas sprieduma pamata.
+(2) Valsts kontrolieris, Valsts kontroles padomes loceklis un revīzijas departamenta kolēģijas loceklis var iesniegt Saeimai iesniegumu par atkāpšanos no amata.
