@@ -1,0 +1,1 @@
+3.pants. Attiecībā uz Konvencijas 3.panta 2.punktu noteikt, ka liecinieku vai ekspertu liecību apstiprināšana ar zvērestu Konvencijas izpratnē Latvijas Republikā ir pielīdzināma liecinieku vai ekspertu brīdināšanai par kriminālatbildību par atteikšanos sniegt liecību vai nepatiesas liecības sniegšanu.

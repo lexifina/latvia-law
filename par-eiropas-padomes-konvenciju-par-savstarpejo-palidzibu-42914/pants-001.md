@@ -1,0 +1,1 @@
+1.pants. 1959.gada 20.aprīļa Eiropas padomes konvencija nr. 30 par savstarpējo palīdzību krimināllietās (turpmāk - Konvencija) un tās 1978.gada 17.marta papildu protokols nr. 99 (turpmāk - Papildu protokols) ar šo likumu tiek pieņemti un apstiprināti.
