@@ -1,1 +1,1 @@
-13. Ja Saeimas vēlēšanas Saeimas atlaišanas gadījumos notiek citā gada laikā, tad šāda Saeima sanāk ne vēlāk kā vienu mēnesi pēc tās ievēlēšanas un tās pilnvaras izbeidzas pēc diviem gadiem nākošā novembra mēneša pirmajā otrdienā ar jaunievēlētās Saeimas sanākšanu.
+13. Ja Saeimas vēlēšanas Saeimas atlaišanas gadījumos notiek citā gada laikā, tad šāda Saeima sanāk ne vēlāk kā vienu mēnesi pēc tās ievēlēšanas un tās pilnvaras izbeidzas pēc trīs gadiem nākošā novembra mēneša pirmā otrdienā ar jaunievēlētās Saeimas sanākšanu.

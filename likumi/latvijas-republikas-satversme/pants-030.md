@@ -1,1 +1,1 @@
-30. Par noziedzīgu nodarījumu nevar uzsākt pret Saeimas locekli tiesas vai administratīvu vajāšanu bez Saeimas piekrišanas.
+30. Pret Saeimas locekli nevar uzsākt kriminālvajāšanu vai uzlikt viņam administratīvu sodu bez Saeimas piekrišanas.

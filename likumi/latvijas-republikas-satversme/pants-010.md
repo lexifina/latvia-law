@@ -1,1 +1,1 @@
-10. Saeimu ievēlē uz trim gadiem.
+10. Saeimu ievēlē uz četriem gadiem.
