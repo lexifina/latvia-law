@@ -1,0 +1,1 @@
+2. Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta noteikumi nr.86 un nr.136 "Grozījumi likumā "Par valsts un pašvaldību finansu līdzekļu un mantas izšķērdēšanas novēršanu"" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 10., 11.nr.).
