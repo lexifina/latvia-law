@@ -2,7 +2,7 @@
 (1) Rezerves karavīru var iesaukt uz kārtējām vai pārbaudes militārajām mācībām Nacionālo bruņoto spēku vienībās. Militāro mācību laiku, vietu un dalībnieku skaitu nosaka aizsardzības ministrs pēc Nacionālo bruņoto spēku komandiera priekšlikuma.
 (2) Militāro mācību laikā rezerves karavīrs pilda militāro aktīvo dienestu, viņam ir karavīra statuss, un mācību laiks tiek ieskaitīts viņa izdienas stāžā.
 (3) Rezerves karavīru var iesaukt militārajās mācībās uz laiku:
-1) virsnieku sastāva un virsniekvietnieku sastāva karavīru - kopumā līdz deviņiem mēnešiem, viena gada laikā - līdz 60 dienām;
+1) virsnieku sastāva karavīru - kopumā līdz deviņiem mēnešiem, viena gada laikā - līdz 60 dienām;
 2) instruktoru un kareivju sastāva karavīru - kopumā līdz sešiem mēnešiem, viena gada laikā - līdz 30 dienām.
 (4) Intervāls starp kārtējām militārajām mācībām, kurās iesaista rezerves karavīru, nav mazāks par četriem gadiem.
 (5) Rezerves karavīru kārtējo militāro mācību starplaikos var iesaukt uz pārbaudes mācībām līdz 10 dienām gan no darba brīvajā, gan arī darba laikā. Šo laiku ieskaita militāro mācību kopējā laikā.

@@ -5,6 +5,6 @@
 3) citāda normatīvajos aktos paredzētā karavīru darbība sabiedrības un valsts interesēs.
 (2) Ministru kabinets nosaka:
 1) (izslēgts ar 12.06.2003. likumu);
-2) garnizona un sardzes organizāciju, dienesta izpildi un militārās ceremonijas - Garnizona un sardzes reglamentā;
+2) (izslēgts ar 10.06.2004. likumu);
 3) karavīru disciplināro atbildību - Karavīru militārās disciplīnas reglamentā.
-(3) Militārā dienesta iekārtas reglamentu, kas nosaka karavīru savstarpējās attiecības, karavīru vispārīgos pienākumus un amatpersonu pienākumus, aktīvā dienesta izpildes kārtību un vienību (apakšvienību) iekšējo kārtību, kā arī citus reglamentus, kas nosaka militārā dienesta izpildi, apstiprina aizsardzības ministrs.
+(3) Militārā dienesta iekārtas reglamentu, kas nosaka karavīru savstarpējās attiecības, karavīru vispārīgos pienākumus un amatpersonu pienākumus, aktīvā dienesta izpildes kārtību un vienību (apakšvienību) iekšējo kārtību, Garnizona un sardzes reglamentu, kas nosaka garnizona un sardzes organizāciju, dienesta izpildi un militārās ceremonijas, kā arī citus reglamentus, kas nosaka militārā dienesta izpildi, apstiprina aizsardzības ministrs.

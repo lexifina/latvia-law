@@ -10,5 +10,6 @@
 (9) Virsnieks, uzsākot profesionālo militāro dienestu pēc komandējošā sastāva virsnieka pamatkursa vai virsnieka speciālista pamatkursa apgūšanas Latvijas Nacionālajā aizsardzības akadēmijā, saņem vienreizēju bezprocentu aizdevumu:
 1) 1000 latu apmērā, ja noslēgts līgums par piecu gadu ilgu profesionālo dienestu;
 2) 2000 latu apmērā, ja noslēgts līgums par profesionālo dienestu uz laiku, ne mazāku par 10 gadiem.
-Bezprocentu aizdevuma atmaksāšanas termiņu nosaka profesionālā dienesta līgumā. Pienākums atmaksāt bezprocentu aizdevumu 1000 latu apmērā zūd, ja virsnieks profesionālajā dienestā ir nodienējis ne mazāk kā piecus gadus, bet bezprocentu aizdevumu 2000 latu apmērā - ja nodienēti 10 gadi.
+Bezprocentu aizdevuma atmaksāšanas nosacījumus un kārtību nosaka profesionālā dienesta līgumā.
 (10) Likumā paredzētās ar militāro dienestu saistītās sociālās garantijas un citas garantijas karavīram nodrošina no Aizsardzības ministrijai iedalītajiem valsts budžeta līdzekļiem.
+(11) Ja tiesības uz šā panta otrajā daļā minēto pabalstu karavīram rodas laikā, kad viņš piedalās starptautiskajā operācijā, pabalstu izmaksā, ņemot vērā dienesta atalgojumu, kāds karavīram bija noteikts pamatdienesta vietā Latvijā pirms nosūtīšanas starptautiskās operācijas veikšanai.

@@ -1,2 +1,2 @@
 XI nodaļa
-Civilpersonu dienesta un darba īpatnības militārajās vienībās
+Civilpersonu darba īpatnības militārajās vienībās

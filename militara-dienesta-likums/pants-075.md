@@ -8,5 +8,5 @@
 6) brīdinājums par neatbilstību ieņemamajam amatam;
 7) pazemināšana amatā;
 8) atvaļināšana no dienesta pirms līgumā paredzētā laika.
-(2) Stingro uzraudzību un arestu nepiemēro virsniekiem un virsniekvietnieku sastāva karavīriem.
+(2) Stingro uzraudzību un arestu nepiemēro virsniekiem un augstākajiem instruktoriem.
 (3) Militārās disciplīnas pārkāpumu izmeklēšanas, izskatīšanas, disciplinārsodu uzlikšanas un izpildes kārtību nosaka Karavīru militārās disciplīnas reglaments.

@@ -1,0 +1,1 @@
+12. Šā likuma 41.panta pirmās daļas 2.punkta "b" apakšpunktā paredzētais karavīra maksimālais vecums attiecībā uz augstākajiem instruktoriem stājas spēkā 2009.gada 1.janvārī. Līdz tam laikam augstākajiem instruktoriem maksimālais vecums profesionālajā dienestā ir 55 gadi.
