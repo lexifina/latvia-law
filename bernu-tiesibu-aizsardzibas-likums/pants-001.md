@@ -17,4 +17,5 @@ Likumā ir lietoti šādi termini:
 15) fiziska vardarbība - bērna veselībai vai dzīvībai bīstams apzināts spēka pielietojums saskarsmē ar bērnu;
 16) emocionāla vardarbība - bērna emocionālo vajadzību ignorēšana vai bērna psiholoģiska ietekmēšana;
 17) vecāku nolaidība - bērna veselības aprūpes, uztura, izglītības, vides, kā arī citu svarīgu fizisku vai emocionālu vajadzību neapmierināšana, ja vecākiem ir bijusi iespēja šīs vajadzības apmierināt;
-18) minimālais bērna labklājības līmenis - līdzekļu daudzums, kas nepieciešams, lai nodrošinātu bērna tiesības uz attīstību, veselības aprūpi, izglītību un citas likumā noteiktās bērna tiesības.
+18) bērna labklājības minimālais līmenis - līdzekļu un garantiju kopums, kas nepieciešams, lai nodrošinātu bērna tiesības uz attīstību, veselības aprūpi, izglītību un citas bērna tiesības;
+19) ielas bērni - bērni, kuri klaiņo, ubago, lielāko laika daļu pavada uz ielas (arī māju bēniņos, pagrabos, pamestās mājās, spēļu automātu salonos u.c.) un kuri nesaņem pietiekamu atbalstu no savas ģimenes vai kuriem saikne ar ģimeni zudusi pilnīgi.

@@ -2,4 +2,4 @@
 (1) Bērnam ir tiesības uz tādiem dzīves apstākļiem un labvēlīgu sociālo vidi, kas nodrošina pilnvērtīgu fizisko un intelektuālo attīstību. Katram bērnam ir jāsaņem atbilstošs uzturs, apģērbs un pajumte.
 (2) Bērnam ar fiziskiem un garīgiem traucējumiem ir tiesības arī uz visu, kas nepieciešams viņa speciālo vajadzību apmierināšanai.
 (3) Bērnam ir tiesības uz pastāvīgu dzīvesvietu.
-(4) Minimālo bērna labklājības līmeni valstī nosaka Ministru kabinets.
+(4) (Izslēgta ar 31.10.2002. likumu)

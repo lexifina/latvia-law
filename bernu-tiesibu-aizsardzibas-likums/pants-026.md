@@ -3,3 +3,4 @@
 (2) Ja vecāku un bērna attiecības nenodrošina bērna attīstībai labvēlīgu vidi vai bērns ir hroniski slims, pašvaldība palīdz ģimenei, nodrošinot psihologa, sociālā pedagoga vai cita speciālista konsultāciju, izraugās bērnam atbalsta ģimeni vai uzticības personu, kura palīdz noregulēt bērna un vecāku savstarpējās attiecības.
 (3) Atkarībā no bērna vecuma pašvaldība palīdz ģimenei, it īpaši trūcīgai ģimenei, bērna audzināšanā un izglītošanā, arodapmācībā, darba un dzīvokļa meklējumos.
 (4) Valsts un pašvaldības sniedz atbalstu ģimenes un bērnu izglītības, veselības nostiprināšanas, kultūras un sporta, kā arī atpūtas iestādēm un organizācijām, lai sekmētu bērna fizisko attīstību un radošo darbību, gādā par bērna brīvā laika pavadīšanas iespējām un sniedz citus pakalpojumus, kuri veicina bērna pilnveidošanos un palīdz ģimenei bērna audzināšanā.
+(5) Valsts un pašvaldību pienākumus bērna labklājības minimālā līmeņa nodrošināšanā nosaka citi likumi.
