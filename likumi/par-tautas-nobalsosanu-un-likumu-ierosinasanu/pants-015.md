@@ -1,0 +1,1 @@
+15. pants. Balsošanas dienā balsošanas telpām jābūt atvērtām no pulksten 8 rītā līdz 8 vakarā. Pirms balsošanas sākuma vēlēšanu komisijas priekšsēdētājs vai viņa vietnieks vēlēšanu komisijas, kā arī pirmo atnākušo balsotāju klātbūtnē pārliecinās par to, vai balsošanas kastes, kurās paredzēts iemest balsošanas zīmes, ir tukšas. Pēc tam balsošanas kastes aizzīmogo.

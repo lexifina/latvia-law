@@ -1,0 +1,1 @@
+22. pants. Ne mazāk kā 10000 balsstiesīgajiem Latvijas pilsoņiem ir tiesības, norādot savu vārdu, uzvārdu un personas kodu, iesniegt Centrālajai vēlēšanu komisijai pilnīgi izstrādātu likumprojektu vai Satversmes grozījumu projektu. Katram parakstam jābūt apliecinātam pie zvērināta notāra vai pašvaldības institūcijā.

@@ -1,0 +1,4 @@
+17. pants. (1) Pie ieejas balsošanas telpās vēlēšanu komisija pārliecinās, vai atnākušie pilsoņi ir balsotāji, kas nav vēl piedalījušies balsošanā.
+(2) Balsošanas telpās balsotājs no vēlēšanu komisijas Locekļa saņem balsošanas zīmi. Pēc balsošanas zīmes izsniegšanas vēlēšanu komisijas loceklis balsotāju sarakstā ieraksta balsotāja vārdu, uzvārdu un personas kodu un atzīme pasē vai dokumenta, kas aizstāj pasi, ka balsotājs piedalījies tautas nobalsošanā. Balsotājs to apliecina, parakstoties balsotāju sarakstā.
+(3) Balsošanas telpās ierīkojama atsevišķa istaba vai nodalījums, kur balsotājs vienatnē var izdarīt nepieciešamās atzīmes, pēc savas izvēles izsvītrojot vārdu «par» vai «pret» un atstājot no abiem vārdiem vēlamo.
+(4) Kad balsotājs balsošanas zīmē izdarījis nepieciešamās atzīmes, viņš to saloka un iedod vēlēšanu komisijas loceklim, kas balsotāja klātbūtnē balsošanas zīmi apzīmogo. Pēc tam balsotājs balsošanas zīmi iemet balsošanas kastē.

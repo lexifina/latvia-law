@@ -1,0 +1,2 @@
+16. pants. (1) Katrs balsotājs drīkst balsot tikai personiski. Ja balsotājs fizisku trūkumu dēļ pats nespēj balsot, balsotāja klātbūtnē pēc viņa mutvārdu norādījumiem atzīmes balsošanas zīmē izdara balsotāja ģimenes loceklis vai kāda cita persona, kurai balsotājs uzticas. Persona, kura izdara atzīmes, nedrīkst būt attiecīgās vēlēšanu komisijas loceklis.
+(2) Balsotājs pēc savas izvēles var balsot jebkurā balsošanas iecirknī.

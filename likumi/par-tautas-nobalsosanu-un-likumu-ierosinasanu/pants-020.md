@@ -1,0 +1,1 @@
+20. pants. Balsotāji, kuri balsošanas laikā dzīvo vai uzturas ārvalstīs, realizē savas tiesības piedalīties tautas nobalsošanā tikai Latvijas Republikas diplomātiskajās un konsulārajās pārstāvniecībās, kurām uzticēts veikt ar tautas nobalsošanu saistītos pienākumus. Balsošana pa pastu nenotiek.
