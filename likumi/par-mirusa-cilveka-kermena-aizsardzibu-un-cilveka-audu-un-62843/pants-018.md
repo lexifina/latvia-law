@@ -1,3 +1,3 @@
 18. pants. Komercdarījumu nepieļaujamība
-Gan dzīva, gan miruša cilvēka ķermeņa audu un orgānu izņemšana un izmantošana jebkādos nolūkos nedrīkst būt ienākumu avots vai prece.
-Orgānu apmaiņas organizācijas, orgānu uzkrāšanas centri, kā ari citas organizācijas un atsevišķas personas nedrīkst piedāvāt par samaksu cilvēka audus un orgānus.
+Gan dzīva, gan miruša cilvēka ķermeņa audu un orgānu izņemšana un izmantošana kalpo medicīnas attīstībai, un tai ir bezpeļņas raksturs. Jebkura dzīva vai miruša cilvēka ķermeņa audu un orgānu izņemšana notiek, stingri ievērojot izteikto piekrišanu vai nepiekrišanu, un šo audu un orgānu atlase, nosūtīšana un izmantošana kā komercdarījums nav pieļaujama.
+Cilvēku labprātīgi ziedoto un citādā ceļā likumīgi iegūto audu un orgānu uzkrāšana un izmantošana pieļaujama Ministru kabineta noteiktajā kārtībā īpašā sarakstā minētajos audu un orgānu ieguves un uzglabāšanas centros saziņā ar veselības valsts ministru.
