@@ -1,0 +1,1 @@
+1. Termiņā nenomaksātos valsts nodokļus un nenodokļu maksājumus no juridiskajām personām Latvijas Republikā, arī no kooperatīviem (izņemot ārvalstu juridiskās personas) piedzen bezstrīdus kārtībā saskaņā ar piedziņas iestāžu pieprasījumu.
