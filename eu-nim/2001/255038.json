@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2001.gada 3.jūlija Ministru kabineta noteikumi Nr.307 \nNoteikumi par aizsardzību pret jonizējošo starojumu, transportējot radioaktīvos materiālus",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "108 (2495), 13.07.2001.",
+  "official_journal_page": null,
+  "official_journal_date": "2001-07-13",
+  "entry_into_force": "2001-07-14",
+  "notification_date": "2018-01-23",
+  "commission_reference": "MNE(2018)50529",
+  "nim_celex": "72013L0059LVA_255038",
+  "nim_id": "255038",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/765e0ef8-fb5e-486f-afba-2d354ee81ddd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
