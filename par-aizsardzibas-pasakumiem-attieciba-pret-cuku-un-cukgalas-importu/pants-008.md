@@ -1,0 +1,1 @@
+8.pants. Šā likuma 2., 3. un 4.pantā noteiktie iekšējā tirgus aizsardzības pasākumi ir spēkā četrus gadus no šā likuma spēkā stāšanās dienas, bet tie zaudē spēku dienā, kad Latvijas Republika iestājas Eiropas Savienībā.
