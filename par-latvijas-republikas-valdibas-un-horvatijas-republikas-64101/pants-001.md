@@ -1,0 +1,1 @@
+1.pants. 2002.gada 4.aprīlī Rīgā parakstītais Latvijas Republikas valdības un Horvātijas Republikas valdības nolīgums par starptautiskajiem pārvadājumiem ar autotransportu (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
