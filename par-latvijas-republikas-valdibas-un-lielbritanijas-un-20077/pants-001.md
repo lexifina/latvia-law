@@ -1,0 +1,1 @@
+1.pants. 1999.gada 7.aprīlī parakstītais Latvijas Republikas valdības un Lielbritānijas un Ziemeļīrijas Apvienotās Karalistes valdības saprašanās memorands par abu valstu muitas administrāciju savstarpēju administratīvu palīdzību (turpmāk - Memorands) ar šo likumu tiek pieņemts un apstiprināts.
