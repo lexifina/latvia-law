@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums ''Par atbildību par preces un pakalpojuma trūkumiem''",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "250/251",
+  "official_journal_page": null,
+  "official_journal_date": "2000-07-05",
+  "entry_into_force": "2000-07-19",
+  "notification_date": "2004-09-16",
+  "commission_reference": "MNE(2004)59625",
+  "nim_celex": "71999L0034LVA_29625",
+  "nim_id": "29625",
+  "transposes_celex": [
+    "31999L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/081fc84e-a97b-41d9-aed1-7e4515618fbe",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
