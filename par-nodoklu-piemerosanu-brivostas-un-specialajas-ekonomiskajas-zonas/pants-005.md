@@ -12,4 +12,4 @@ d) citas darbības, kurām nav preču-naudas darījuma izpildes rakstura.
 2) izbeidzies šīs atļaujas derīguma termiņš;
 3) zonas vai brīvostas pārvalde un zonas vai licencēta uzņēmējsabiedrība vienojas, ka tiek atcelts līgums par uzņēmējdarbības veikšanu zonas vai brīvostas teritorijā;
 4) tiesa atceļ zonas vai brīvostas pārvaldes un zonas vai licencētas uzņēmējsabiedrības līgumu par uzņēmējdarbības veikšanu zonas vai brīvostas teritorijā un anulē šai uzņēmējsabiedrībai izsniegto atļauju saņemt tiešo nodokļu atvieglojumus;
-5) tiek likvidēta zonas uzņēmējsabiedrība vai licencēta uzņēmējsabiedrība, kā arī izbeigta uzņēmējdarbība citos likumos noteiktajos gadījumos.
+5) tiek likvidēta vai reorganizēta zonas uzņēmējsabiedrība vai licencēta uzņēmējsabiedrība, kā arī izbeigta uzņēmējdarbība citos likumos noteiktajos gadījumos.

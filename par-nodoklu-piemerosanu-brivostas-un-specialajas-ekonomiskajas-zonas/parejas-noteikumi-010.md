@@ -1,1 +1,0 @@
-10. Šā likuma pārejas noteikumu 7. un 8.punktā minētais Asociācijas komitejas lēmums, kas apstiprina Latvijas reģionālā atbalsta karti saskaņā ar Eiropas Līguma 64.pantu, ar īpašu likumu ir aizstājams ar Eiropas Komisijas lēmumu, kas apstiprina Latvijas reģionālā atbalsta karti saskaņā ar Eiropas Kopienas dibināšanas līguma 87.panta trešās daļas "a" un "c" punktu.
