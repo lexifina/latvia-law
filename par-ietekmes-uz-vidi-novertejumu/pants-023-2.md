@@ -17,6 +17,6 @@ a) dabas apstākļu raksturlielumus,
 b) ietekmi uz kultūras pieminekļiem,
 c) vides kvalitātes normatīvu esošos vai iespējamos pārsniegumus,
 d) zemes izmantošanas veidu un intensitāti;
-4) attiecīgā plānošanas dokumenta ietekme uz:
+4) attiecīgā plānošanas dokumenta īstenošanas ietekme uz:
 a) īpaši aizsargājamām dabas teritorijām, starptautiskas nozīmes mitrājiem, mikroliegumiem, Baltijas jūras un Rīgas jūras līča piekrastes aizsargjoslu, virszemes ūdensobjektu aizsargjoslām,
 b) īpaši aizsargājamām sugām, to dzīvotnēm un īpaši aizsargājamiem biotopiem.

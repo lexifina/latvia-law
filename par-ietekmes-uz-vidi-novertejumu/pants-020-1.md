@@ -2,7 +2,7 @@
 (1) Ja kompetentā institūcija lēmumā par ietekmes novērtējuma nepieciešamību norāda, ka paredzētajai darbībai var būt būtiska pārrobežu ietekme, tā rakstveidā paziņo par to ierosinātājam, Vides ministrijai un Ārlietu ministrijai, kā arī ieinteresētajām valsts institūcijām un pašvaldībām.
 (2) Kompetentā institūcija pēc saskaņošanas ar Vides ministriju un Ārlietu ministriju nosūta rakstveida paziņojumu par paredzēto darbību, kurai var būt pārrobežu ietekme, uz valsti, kuru paredzētā darbība var ietekmēt, pirms ierosinātājs informē Latvijas sabiedrību par paredzēto darbību saskaņā ar šā likuma 15.panta pirmo daļu.
 (3) Paziņojumā tiek sniegta šāda informācija:
-1) paredzētās darbības pieteikums;
+1) paredzētās darbības iesniegums;
 2) jebkura pieejama informācija par paredzēto darbību, kurai var būt pārrobežu ietekme;
 3) informācija par valsts institūciju vai pašvaldību viedokli par paredzēto darbību;
 4) termiņš un vieta, kur valsts var sniegt atbildi, norādot, vai tā ir paredzējusi piedalīties ietekmes novērtējumā.

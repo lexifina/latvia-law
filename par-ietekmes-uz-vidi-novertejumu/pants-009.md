@@ -1,2 +1,2 @@
-9.pants. Paredzētās darbības pieteikuma saturs
-Paredzētās darbības pieteikuma saturu nosaka Ministru kabinets.
+9.pants. Paredzētās darbības iesnieguma saturs
+Paredzētās darbības iesnieguma saturu nosaka Ministru kabinets.

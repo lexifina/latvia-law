@@ -4,13 +4,16 @@
 2) kuru ietekmes novērtējums ir nepieciešams saskaņā ar Latvijas Republikas noslēgtajiem starptautiskajiem līgumiem;
 3) kurām to nosaka šā likuma 6.pantā minētā kompetentā institūcija:
 a) saskaņā ar sākotnējā izvērtējuma rezultātiem,
-b) ja vairākas paredzētās darbības ietekmē vienu un to pašu teritoriju, ņemot vērā paredzēto darbību kopējo un savstarpējo ietekmi.
+b) ja vairākas paredzētās darbības ietekmē vienu un to pašu teritoriju, ņemot vērā paredzēto darbību kopējo un savstarpējo ietekmi,
+c) ja paredzētā darbība var būtiski ietekmēt Eiropas nozīmes aizsargājamo dabas teritoriju (NATURA 2000).
 (2) Ja paredzētajai darbībai ietekmes novērtējums nav nepieciešams, reģionālās vides pārvaldes vadītājs Ministru kabineta noteiktajā kārtībā izdod tehniskos noteikumus katrai konkrētajai paredzētajai darbībai. Ministru kabinets nosaka paredzētās darbības, kuru veikšanai nepieciešami tehniskie noteikumi, prasības attiecībā uz tehnisko noteikumu saturu, to pieprasīšanas un sagatavošanas kārtību.
-(3) Plānošanas dokumentiem, kuri saistīti ar Eiropas Savienības līdzfinansējuma izmantošanu, kā arī plānošanas dokumentu grozījumiem, ja tos saskaņā ar normatīvajiem aktiem vai citiem noteikumiem izstrādā vai pieņem Saeima, Ministru kabinets, pašvaldība, valsts vai pašvaldības institūcija, ir nepieciešams stratēģiskais ietekmes uz vidi novērtējums.
-(4) Stratēģisko novērtējumu veic plānošanas dokumentiem, kuru īstenošana var būtiski ietekmēt cilvēku veselību un vidi, arī plānošanas dokumentiem:
-1) lauksaimniecības, mežsaimniecības, zivsaimniecības, enerģētikas, rūpniecības, transporta, atkritumu apsaimniekošanas, ūdens resursu apsaimniekošanas, telekomunikāciju, tūrisma, derīgo izrakteņu ieguves jomā un plānošanas dokumentiem, kuri saistīti ar reģionālo attīstību, zemes izmantošanu, teritoriju plānojumiem un ietver pamatnosacījumus šā likuma 1. vai 2.pielikumā minēto darbību īstenošanai;
-2) kas var būtiski ietekmēt Eiropas nozīmes aizsargājamās dabas teritorijas (NATURA 2000), izņemot plānošanas dokumentus, kas nosaka dabas aizsardzības un apsaimniekošanas prasības un pasākumus attiecībā uz šīm teritorijām.
-(5) Šā panta ceturtajā daļā minētajiem plānošanas dokumentiem, kuri attiecas uz nelielu teritoriju izmantošanu vietējās pašvaldības līmenī, kā arī šā panta ceturtajā daļā minēto plānošanas dokumentu nelieliem tehniskiem grozījumiem stratēģisko novērtējumu neveic, izņemot gadījumus, kad šo dokumentu īstenošana var būtiski ietekmēt vidi.
+(2¹) Tehniskajos noteikumos ietvertās vides aizsardzības prasības reģionālās vides pārvaldes vadītājs var grozīt visā tehnisko noteikumu darbības laikā.
+(3) Stratēģisko novērtējumu veic plānošanas dokumentiem, arī tiem, kuri saistīti ar Eiropas Savienības līdzfinansējuma izmantošanu, un to grozījumiem, ja attiecīgos plānošanas dokumentus saskaņā ar normatīvajiem aktiem vai citiem noteikumiem izstrādā vai pieņem Saeima, Ministru kabinets, pašvaldība, valsts vai pašvaldības institūcija:
+1) lauksaimniecības, mežsaimniecības, zivsaimniecības, enerģētikas, rūpniecības, transporta, atkritumu apsaimniekošanas, ūdens resursu apsaimniekošanas, telekomunikāciju, tūrisma, derīgo izrakteņu ieguves jomā un plānošanas dokumentiem, kuri saistīti ar reģionālo attīstību, zemes izmantošanu, teritoriju plānojumiem un ietver pamatnosacījumus šā likuma 1. vai 2.pielikumā paredzēto darbību īstenošanai;
+2) kas var būtiski ietekmēt Eiropas nozīmes aizsargājamo dabas teritoriju (NATURA 2000), izņemot plānošanas dokumentus, kuri nosaka dabas aizsardzības un apsaimniekošanas prasības un pasākumus attiecībā uz šīm teritorijām.
+(4) Stratēģisko novērtējumu veic plānošanas dokumentiem jomās, kuras nav minētas šā panta trešās daļas 1.punktā, ja tie ietver pamatnosacījumus paredzēto darbību īstenošanai un plānošanas dokumentu īstenošana var būtiski ietekmēt vidi.
+(5) Šā panta trešajā daļā minētajiem plānošanas dokumentiem, kuri attiecas uz nelielu teritoriju izmantošanu vietējās pašvaldības līmenī, kā arī šā panta trešajā daļā minēto plānošanas dokumentu nelieliem tehniskiem grozījumiem stratēģisko novērtējumu neveic, izņemot gadījumus, kad šo dokumentu īstenošana var būtiski ietekmēt vidi.
 (6) Šā likuma noteikumi neattiecas uz:
-1) paredzētajām darbībām un plānošanas dokumentiem, kas saistīti tikai ar valsts aizsardzību vai civilo aizsardzību;
-2) plānošanas dokumentiem finanšu vai budžeta jomā.
+1) paredzētajām darbībām un plānošanas dokumentiem, kas saistīti tikai ar valsts aizsardzību;
+2) plānošanas dokumentiem, kas saistīti tikai ar ārkārtas situācijām;
+3) plānošanas dokumentiem finanšu vai budžeta jomā.
