@@ -1,0 +1,1 @@
+5. Šā likuma 7.panta 3.punkts attiecas arī uz ierēdņiem un ierēdņu kandidātiem, kuri šā likuma spēkā stāšanās dienā saskaņā ar šo likumu ieņem ierēdņa amatu šā likuma 3.panta pirmajā daļā minētajās valsts pārvaldes iestādēs. Ministru kabinets nosaka kārtību un termiņus 7.panta 3.punkta piemērošanai attiecībā uz minētajām personām.

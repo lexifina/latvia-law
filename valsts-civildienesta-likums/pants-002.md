@@ -1,0 +1,5 @@
+2.pants. Likuma darbība
+(1) Šis likums nosaka valsts civildienesta ierēdņa amata pretendentam (turpmāk - pretendents) izvirzāmās obligātās prasības, iecelšanu ierēdņa amatā un atbrīvošanu no ierēdņa amata, ierēdņa pienākumus, tiesības, dienesta gaitu un vadību vispārējā valsts civildienestā.
+(2) Uz pretendentu, kas iecelts ierēdņa amatā, attiecas visi pienākumi un tiesības, kas šajā likumā noteikti attiecībā uz valsts civildienesta ierēdni (turpmāk - ierēdnis).
+(3) Uz specializētā valsts civildienesta (3.panta otrā daļa) ierēdņiem attiecas šā likuma I nodaļa, IV nodaļā noteiktie vispārīgie pienākumi un 22.pantā noteiktās vispārīgās tiesības. Citas šā likuma normas tiesiskās attiecības specializētajā valsts civildienestā nosaka tiktāl, ciktāl tās nenosaka speciālie likumi.
+(4) Valsts civildienesta tiesiskajās attiecībās piemērojamas darba tiesiskās attiecības regulējošo normatīvo aktu normas, kas nosaka darba un atpūtas laiku, darba samaksu, darbinieka materiālo atbildību un termiņus, ciktāl to nenosaka šis likums.

@@ -1,0 +1,1 @@
+6. Attiecībā uz ierēdņiem un ierēdņu kandidātiem, kuri šā likuma spēkā stāšanās dienā ieņem šā likuma 3.panta pirmajā daļā minētajās iestādēs vadītāja amatu, šā likuma 11.panta otrajā daļā noteiktais termiņš tiek skaitīts no šā likuma spēkā stāšanās dienas.

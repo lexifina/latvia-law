@@ -1,0 +1,2 @@
+VI nodaļa
+Ierēdņa tiesības

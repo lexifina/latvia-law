@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par valsts civildienestu" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 10.nr.; 1995, 12.nr.; 1996, 9., 14., 22.nr.; 1997, 9., 22.nr.; 2000, 5.nr.).
