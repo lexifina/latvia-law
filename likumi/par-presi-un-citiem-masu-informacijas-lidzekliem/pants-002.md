@@ -1,0 +1,3 @@
+2. pants. Prese un citi masu informācijas līdzekļi
+Saskaņā ar šo likumu prese un citi masu informācijas līdzekļi (turpmāk tekstā - masu informācijas līdzekļi) ir avīzes, žurnāli, biļeteni un citi periodiskie izdevumi (iznāk ne retāk kā reizi trīs mēnešos, vienreizējā tirāža pārsniedz 100 eksemplārus), kā arī televīzijas un radio raidījumi, kinohronika, informācijas aģentūru paziņojumi, audiovizuāli ieraksti, programmas, kas paredzēti publiskai izplatīšanai.
+Šā likuma noteikumi neattiecas uz valsts varas un pārvaldes institūciju instrukcijām, normatīvajiem aktiem, tiesu un arbitrāžas prakses periodiskajiem biļeteniem, mācību un zinātnisko iestāžu izdotajiem materiāliem.
