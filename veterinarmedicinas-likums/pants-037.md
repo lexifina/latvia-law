@@ -1,2 +1,2 @@
 37.pants. (1) Izdevumus, kas saistīti ar šā likuma 36.pantā minēto dzīvnieku infekcijas slimību apkarošanu, sedz dzīvnieku īpašnieks vai tos apmaksā no kārtējā gada valsts budžetā šim mērķim piešķirtajiem līdzekļiem.
-(2) Pārtikas un veterinārais dienests katru gadu aprēķina nepieciešamo līdzekļu apmēru dzīvnieku infekcijas slimību apkarošanai un pieprasa tos normatīvajos aktos par budžetu un finanšu vadību noteiktajā kārtībā.
+(2) Pārtikas un veterinārais dienests katru gadu aprēķina nepieciešamo līdzekļu daudzumu dzīvnieku infekcijas slimību apkarošanai un pieprasa tos normatīvajos aktos par budžetu un finanšu vadību noteiktajā kārtībā.

@@ -14,6 +14,8 @@
 3) sniedz laboratoriskos pakalpojumus;
 4) pārstāv Latviju starptautiskajās organizācijās un uztur starptautiskos sakarus veterinārmedicīnas nozarē;
 5) sagatavo un iesniedz Zemkopības ministrijai zinātnisko pētījumu pasūtījumu pieteikumus;
-6) pilnvaro veterinārārstus atsevišķu Pārtikas un veterinārā dienesta funkciju īstenošanai.
+6) pilnvaro veterinārārstus atsevišķu Pārtikas un veterinārā dienesta funkciju īstenošanai;
+7) pilnvaro veterinārārstus veikt mājas (istabas) dzīvnieku identifikāciju, pasu un vakcinācijas apliecību izsniegšanu;
+8) izsniedz veterināros (veselības) sertifikātus.
 (3) Pārtikas un veterinārais dienests izstrādā, apstiprina un uztur dzīvnieku un dzīvnieku izcelsmes produktu kustības, reģistrācijas un uzskaites sistēmu, kā arī sistēmu, kuras uzdevums ir ziņot par dzīvnieku saslimšanu ar infekcijas slimībām.
 (4) Pārtikas un veterinārais dienests ir kompetentā iestāde šā panta pirmajā daļā minētajās jomās. Tas uzrauga un kontrolē Eiropas Savienības normatīvo aktu prasību izpildi un sniedz informāciju Eiropas Savienības institūcijām.

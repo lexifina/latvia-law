@@ -17,4 +17,5 @@ b) pakļaut dzīvniekus infekcijas slimību diagnosticēšanai, ārstēšanai un
 c) nodrošināt dzīvnieku mītņu un iekārtu dezinfekciju,
 d) nodrošināt dzīvnieku karantinēšanu un ārstēšanu, kā arī dzīvnieku likvidāciju;
 12) ievērot ierobežojumus dzīvnieku un dzīvnieku izcelsmes produktu izmantošanā pēc dzīvnieku medikamentozas ārstēšanas, ja tādi paredzēti apstiprinātā lietošanas pamācībā vai tos nosaka praktizējošs veterinārārsts;
-13) ievērot ierobežojumus dzīvnieku barības izēdināšanā, glabāšanā un pārvadāšanā atbilstoši normatīvajos aktos noteiktajām prasībām.
+13) ievērot ierobežojumus dzīvnieku barības izēdināšanā, glabāšanā un pārvadāšanā atbilstoši normatīvajos aktos noteiktajām prasībām;
+14) vienu reizi gadā vakcinēt suņus, kaķus un mājas (istabas) seskus pret trakumsērgu.

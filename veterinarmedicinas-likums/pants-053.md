@@ -1,5 +1,5 @@
 53.pants. (1) Ministru kabinets nosaka:
-1) (izslēgts ar MK 17.08.2004. noteikumiem Nr.712);
+1) (izslēgts ar 28.10.2004. likumu);
 2) robežkontroles punktus, caur kuriem drīkst vest veterinārajai kontrolei pakļautās kravas;
 3) prasības attiecībā uz iekārtojumu robežkontroles punktos, kuros tiek veikta veterinārā kontrole, un to atzīšanas kārtību;
 4) kārtību, kādā tiek veikta veterinārā kontrole uz valsts robežas, brīvajās zonās, brīvajās noliktavās un muitas noliktavās;
