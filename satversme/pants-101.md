@@ -1,2 +1,2 @@
 101. Ikvienam Latvijas pilsonim ir tiesības likumā paredzētajā veidā piedalīties valsts un pašvaldību darbībā, kā arī pildīt valsts dienestu.
-Pašvaldības ievēlē pilntiesīgi Latvijas pilsoņi. Pašvaldību darba valoda ir latviešu valoda.
+Pašvaldības ievēlē pilntiesīgi Latvijas pilsoņi un Eiropas Savienības pilsoņi, kas pastāvīgi uzturas Latvijā. Ikvienam Eiropas Savienības pilsonim, kas pastāvīgi uzturas Latvijā, ir tiesības likumā paredzētajā veidā piedalīties pašvaldību darbībā. Pašvaldību darba valoda ir latviešu valoda.
