@@ -1,0 +1,1 @@
+1.pants. 1957.gada 13.decembra Eiropas padomes konvencija nr.24 par izdošanu (turpmāk - Konvencija), tās 1975.gada 15.oktobra papildu protokols nr.86 (turpmāk - Papildu protokols) un 1978.gada 17.marta otrais papildu protokols nr.98 (turpmāk - Otrais papildu protokols) ar šo likumu tiek pieņemti un apstiprināti.

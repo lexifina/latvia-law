@@ -1,0 +1,1 @@
+3.pants. Attiecībā uz Konvencijas 3.panta 1. un 4.punktu noteikt, ka Latvijas Republika katrā konkrētajā gadījumā ir tiesīga izlemt jautājumu par politisku vai militāru nodarījumu izdarījušas personas izdošanu.

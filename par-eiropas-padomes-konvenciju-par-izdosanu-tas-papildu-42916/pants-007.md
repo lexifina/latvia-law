@@ -1,0 +1,1 @@
+7.pants. Konvencija, tās Papildu protokols un Otrais papildu protokols stājas spēkā Konvencijas 29.pantā, Papildu protokola 3.pantā un Otrā papildu protokola 6.pantā noteiktajā laikā un kārtībā, un par to Ārlietu ministrija paziņo laikrakstā "Latvijas Vēstnesis".
