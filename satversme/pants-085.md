@@ -1,1 +1,1 @@
-85. Latvijā pastāv zvērināto tiesas uz sevišķa likuma pamata.
+85. Latvijā pastāv Satversmes tiesa, kas likumā noteiktās kompetences ietvaros izskata lietas par likumu atbilstību Satversmei, kā arī citas ar likumu tās kompetencē nodotās lietas. Satversmes tiesa ir tiesīga atzīt par spēkā neesošiem likumus un citus aktus vai to daļas. Satversmes tiesas tiesnešus uz likumā noteikto laiku apstiprina Saeima, aizklāti balsojot, ar ne mazāk kā 51 Saeimas locekļa balsu vairākumu.
