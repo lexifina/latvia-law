@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sociālo pakalpojumu un sociālās palīdzības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "168 (2743)",
+  "official_journal_page": null,
+  "official_journal_date": "2002-11-19",
+  "entry_into_force": "2003-01-01",
+  "notification_date": "2013-12-20",
+  "commission_reference": "MNE(2013)60012",
+  "nim_celex": "72011L0095LVA_211864",
+  "nim_id": "211864",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/2028cfc2-14f0-4192-9b5c-fd76891eac56",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
