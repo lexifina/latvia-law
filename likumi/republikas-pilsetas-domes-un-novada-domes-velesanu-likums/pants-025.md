@@ -1,4 +1,6 @@
-25. pants. Vēlēšanu dienā vēlēšanas notiek no pulksten 7 rītā līdz pulksten 10 vakarā.
-Pulksten 7 rītā iecirkņa komisijas priekšsēdētājs vai sekretārs komisijas klātbūtnē pārliecinās par to, vai vēlēšanu kastes, kurās paredzēts iemest vēlēšanu zīmes, ir tukšas. Pēc tam vēlēšanu kastes aizzīmogo.
-Iecirkņa komisija nodrošina, lai pie ieejas vēlēšanu telpā tiktu pārbaudīts, vai atnākušie pilsoņi ir šā vēlēšanu apgabala vēlētāji, kas nav vēl piedalījušies vēlēšanās. Vēlētāja personu apliecinošs dokuments ir Latvijas Republikas pilsoņa pase.
-Vēlētājs, kurš balso tās pašvaldības administratīvajā teritorijā izveidotajā vēlēšanu iecirknī, kur viņam ir likumā noteiktajā kārtībā reģistrēts nekustamais īpašums, vēlēšanu iecirkņa komisijai papildus uzrāda zemesgrāmatas aktu vai notariāli apliecinātu tā norakstu vai zemesgrāmatas nodaļas izziņu par nekustamā īpašuma piederību.
+25. pants. (1) Vēlēšanu dienā vēlēšanas notiek no pulksten 7 rītā līdz pulksten 10 vakarā.
+(2) Pulksten 7 rītā iecirkņa komisijas priekšsēdētājs vai sekretārs komisijas klātbūtnē pārliecinās par to, vai vēlēšanu kastes, kurās paredzēts iemest vēlēšanu zīmes, ir tukšas. Pēc tam vēlēšanu kastes aizzīmogo.
+(3) Iecirkņa komisija nodrošina, lai pie ieejas vēlēšanu telpā:
+1) tiktu pārbaudīts, vai atnākušie pilsoņi ir šā vēlēšanu iecirkņa vēlētāji;
+2) būtu pieejams šā vēlēšanu iecirkņa vēlētāju alfabētiskais saraksts, kurā norādīts vēlētāju vārds, uzvārds, dzimšanas datums un kārtas numurs vēlētāju sarakstā.
+(4) (Izslēgta ar 11.11.2004. likumu)

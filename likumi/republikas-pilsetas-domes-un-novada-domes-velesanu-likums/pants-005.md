@@ -1,1 +1,4 @@
-5. pants. Tiesības vēlēt domi (padomi) ir Latvijas Republikas pilsoņiem, kuri vēlēšanu dienā ir sasnieguši 18 gadu vecumu, ja vien uz viņiem neattiecas kāds no šā likuma 6. pantā minētajiem ierobežojumiem.
+5. pants. (1) Latvijas Republikā tiesības vēlēt domi (padomi) ir:
+1) Latvijas pilsonim;
+2) Eiropas Savienības pilsonim, kurš nav Latvijas pilsonis, bet ir reģistrēts Iedzīvotāju reģistrā.
+(2) Tiesības vēlēt ir personai, kura vēlēšanu dienā sasniegusi 18 gadu vecumu, ir reģistrēta vēlētāju reģistrā un vismaz 90 dienas pirms vēlēšanu dienas ir reģistrēta dzīvesvietā attiecīgās pašvaldības administratīvajā teritorijā, vai personai, kurai attiecīgās pašvaldības administratīvajā teritorijā pieder likumā noteiktajā kārtībā reģistrēts nekustamais īpašums un uz kuru neattiecas kāds no šā likuma 6.pantā minētajiem ierobežojumiem (turpmāk - vēlētājs).

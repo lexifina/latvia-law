@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Padomes 1994.gada 19.decembra direktīvas 1994/80/EK par to Eiropas Savienības pilsoņu tiesībām piedalīties pašvaldību darbībā, kuri pastāvīgi uzturas kādā no Eiropas Savienības dalībvalstīm, bet kuri nav attiecīgās dalībvalsts pilsoņi.

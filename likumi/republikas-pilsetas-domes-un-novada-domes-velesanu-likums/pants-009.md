@@ -1,4 +1,4 @@
-9. pants. Domes (padomes) vēlēšanām nevar pieteikt par kandidātiem un domē (padomē) nevar ievēlēt personas:
+9. pants. (1) Domes (padomes) vēlēšanām nevar pieteikt par kandidātiem un domē (padomē) nevar ievēlēt personas:
 1) kuras izcieš sodu brīvības atņemšanas vietās;
 2) kuras likumā paredzētajā kārtībā atzītas par rīcības nespējīgām;
 3) kuras bijušas sodītas par smagu vai sevišķi smagu noziegumu un kurām sodāmība nav dzēsta vai noņemta, izņemot reabilitētos;
@@ -6,3 +6,4 @@
 5) kuras pēc 1991.gada 13.janvāra darbojušās PSKP (LKP), Latvijas PSR Darbaļaužu internacionālajā frontē, Darba kolektīvu apvienotajā padomē, Kara un darba veterānu organizācijā, Vislatvijas sabiedrības glābšanas komitejā vai tās reģionālajās komitejās;
 6) kuras ir vai ir bijušas PSRS, Latvijas PSR vai ārvalstu valsts drošības dienestu, izlūkdienestu vai pretizlūkošanas dienestu štata darbinieki;
 7) (izslēgts ar 09.05.2002. likumu).
+(2) Domes (padomes) vēlēšanām Latvijas Republikā nevar pieteikt par kandidātu un domē (padomē) nevar ievēlēt Eiropas Savienības pilsoni, kuram tiesības kandidēt un tikt ievēlētam ir liegtas ar tiesas spriedumu Eiropas Savienības dalībvalstī, kuras pilsonis viņš ir.

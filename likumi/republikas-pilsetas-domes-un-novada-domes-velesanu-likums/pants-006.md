@@ -1,4 +1,4 @@
-6. pants. Tiesību vēlēt nav personām, kuras likumā noteiktajā kārtībā ir atzītas par rīcības nespējīgām.
-Balsošanā nepiedalās:
-1) personas, kuras izcieš sodu brīvības atņemšanas vietās;
-2) aizdomās turētās, apsūdzētās vai tiesājamās personas, ja pret tām kā drošības līdzeklis ir piemērots apcietinājums.
+6. pants. Latvijas Republikā vēlēt domi (padomi) nav tiesību personām:
+1) kuras likumā noteiktajā kārtībā atzītas par rīcības nespējīgām;
+2) kuras izcieš sodu brīvības atņemšanas vietās;
+3) kurām nav tiesību vēlēt Eiropas Savienības dalībvalstī, kuras pilsoņi tās ir.
