@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Par iepirkumu sabiedrisko pakalpojumu sniedzēju vajadzībām",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "178",
+  "official_journal_page": null,
+  "official_journal_date": "2004-11-10",
+  "entry_into_force": "2004-10-24",
+  "notification_date": "2004-11-29",
+  "commission_reference": "MNE(2004)53366",
+  "nim_celex": "71992L0013LVA_33366",
+  "nim_id": "33366",
+  "transposes_celex": [
+    "31992L0013",
+    "32001L0078",
+    "32004L0017"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/275e559a-dd2a-4c5e-968e-7c44330f5224",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
