@@ -1,0 +1,1 @@
+8. Šā likuma noteikumi attiecībā uz zvērinātiem tiesu izpildītājiem stājas spēkā vienlaikus ar likuma par zvērinātiem tiesu izpildītājiem spēkā stāšanos, bet attiecībā uz profesionālā dienesta karavīriem un militārajiem darbiniekiem - vienlaikus ar likuma par militāro dienestu spēkā stāšanos.

@@ -1,0 +1,2 @@
+2.pants. Likuma mērķis
+Šā likuma mērķis ir nodrošināt valsts amatpersonu darbību sabiedrības interesēs, novēršot jebkuras valsts amatpersonas, tās radinieku vai darījumu partneru personiskās vai mantiskās ieinteresētības ietekmi uz valsts amatpersonas darbību, veicināt valsts amatpersonu darbības atklātumu un atbildību sabiedrības priekšā, kā arī sabiedrības uzticēšanos valsts amatpersonu darbībai.

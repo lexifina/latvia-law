@@ -1,0 +1,6 @@
+30.pants. Valsts amatpersonu un citu personu atbildība
+(1) Par šā likuma pārkāpumiem personu sauc pie normatīvajos aktos noteiktās atbildības. Valsts amatpersonai saskaņā ar šā panta noteikumiem iestājas arī civiltiesiskā atbildība.
+(2) Ienākumi un mantiskie labumi, kas gūti, pārkāpjot šajā likumā noteiktos ierobežojumus, vai proporcionāls to pieaugums ir piekritīgi valstij, prezumējot, ka, pārkāpjot valsts noteiktos ierobežojumus un prettiesiski gūstot ienākumus vai mantiskos labumus, valsts amatpersona ir nodarījusi tādu kaitējumu valsts pārvaldības kārtībai, kas ir novērtējams mantiskā izteiksmē un ir proporcionāls aizliegtā veidā gūtu ienākumu, mantisko labumu un īpašuma vai mantas pieauguma vērtībai.
+(3) Ja valsts amatpersona labprātīgi neatlīdzina valstij nodarītos zaudējumus, ar likumu pilnvarotajai valsts institūcijai vai valsts amatpersonai ir pienākums veikt nepieciešamās darbības, lai likumā noteiktajā kārtībā prasītu atlīdzināt nodarītos zaudējumus.
+(4) Zaudējumu atlīdzību pieprasa Civilprocesa likumā noteiktajā kārtībā.
+(5) Zaudējumu piedziņa no valsts amatpersonas notiek neatkarīgi no tā, vai valsts amatpersonu par šā likuma noteikumu pārkāpšanu sauc pie administratīvās atbildības vai kriminālatbildības.

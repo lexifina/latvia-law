@@ -1,0 +1,1 @@
+5. Līdz likuma par valsts un pašvaldību kapitāla daļām un kapitālsabiedrībām spēkā stāšanās dienai ar terminu "valsts vai pašvaldības kapitāla daļu turētāja pārstāvis" šajā likumā tiek saprasts pilnvarnieks valsts vai pašvaldības statūtsabiedrībās.

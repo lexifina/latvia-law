@@ -1,0 +1,1 @@
+7. Līdz šā likuma 18.panta pirmajā daļā minēto pašvaldību domju (padomju) saistošo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā sešus mēnešus no šā likuma spēkā stāšanās dienas tiek piemēroti saskaņā ar Korupcijas novēršanas likumu izdotie pašvaldību domju (padomju) normatīvie akti par rīcību ar pašvaldības mantu, tai skaitā finansu līdzekļiem.

@@ -1,0 +1,1 @@
+4. Ar terminiem "komersants", "individuālais komersants", "komercsabiedrība" un "kapitālsabiedrība" šajā likumā tiek saprasts arī uzņēmums un uzņēmējsabiedrība, bet ar terminu "komercdarbība" - arī uzņēmējdarbība likuma "Par uzņēmējdarbību" izpratnē.

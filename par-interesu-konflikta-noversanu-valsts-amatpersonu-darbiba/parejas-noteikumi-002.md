@@ -1,0 +1,1 @@
+2. Valsts ieņēmumu dienests pilda šajā likumā Korupcijas novēršanas un apkarošanas birojam noteiktās funkcijas līdz dienai, kad tās likumā noteiktajā kārtībā un termiņā tiek nodotas Korupcijas novēršanas un apkarošanas birojam.

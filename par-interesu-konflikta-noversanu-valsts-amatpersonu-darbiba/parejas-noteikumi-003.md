@@ -1,0 +1,1 @@
+3. Valsts amatpersonām, kas šā likuma spēkā stāšanās dienā vienlaikus ieņem amatu (pilda uzņēmuma līgumu vai pilnvarojumu), kura savienošana ar valsts amatpersonas amatu saskaņā ar šā likuma noteikumiem nav atļauta, ir pienākums mēneša laikā izpildīt šā likuma 8.panta pirmās daļas noteikumus.
