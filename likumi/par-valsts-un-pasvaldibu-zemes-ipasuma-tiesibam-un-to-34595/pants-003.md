@@ -10,3 +10,4 @@
 1) pašvaldībai piederošas ēkas (būves) un pašvaldības uzņēmumi (uzņēmējsabiedrības);
 2) privatizēti pašvaldības īpašuma objekti vai citādi atsavinātas pašvaldības vai pašvaldības uzņēmumu (uzņēmējsabiedrību) ēkas (būves);
 3) dzīvojamās mājas, kurās esošie dzīvokļi privatizēti saskaņā ar likumu "Par kooperatīvo dzīvokļu privatizāciju" un likumu "Par lauksaimniecības uzņēmumu un zvejnieku kolhozu privatizāciju".
+(4) Uz pašvaldības vārda zemesgrāmatās var ierakstīt zemi, uz kuras par valsts vai pašvaldības budžeta līdzekļiem ir izbūvētas ielas, ja tās ir pašvaldības valdījumā.
