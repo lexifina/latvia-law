@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2000.gada 25.aprīļa noteikumos Nr.158",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "13",
+  "official_journal_page": null,
+  "official_journal_date": "2005-01-25",
+  "entry_into_force": "2005-01-26",
+  "notification_date": "2005-02-03",
+  "commission_reference": "MNE(2005)54933",
+  "nim_celex": "72004L0021LVA_34933",
+  "nim_id": "34933",
+  "transposes_celex": [
+    "32004L0021",
+    "32004L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/86186c84-59c0-4a53-9233-077f55e596a5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
