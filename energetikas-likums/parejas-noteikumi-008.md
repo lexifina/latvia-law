@@ -1,0 +1,1 @@
+8. Energoapgādes regulēšanas padomes Licenču birojs līdz 2001.gada 1.oktobrim tiek reorganizēts par Sabiedrisko pakalpojumu regulēšanas komisijas izpildinstitūcijas attiecīgām struktūrvienībām saskaņā ar likumu "Par sabiedrisko pakalpojumu regulatoriem".

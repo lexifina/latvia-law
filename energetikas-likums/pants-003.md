@@ -7,4 +7,4 @@ Lai nodrošinātu tautsaimniecību un iedzīvotājus ar elektroenerģiju, siltum
 5) nodrošināt enerģijas lietotāju tiesības izvēlēties patērējamās enerģijas veidu;
 6) veidot investīcijām labvēlīgu vidi;
 7) veicināt ekonomiski pamatotu konkurenci;
-8) veicināt enerģētikas saudzējošu ietekmi uz vidi un vidi saudzējošu tehnoloģiju izmantošanu.
+8) veicināt enerģētikas saudzējošu ietekmi uz vidi un vidi saudzējošu efektīvu tehnoloģiju izmantošanu.

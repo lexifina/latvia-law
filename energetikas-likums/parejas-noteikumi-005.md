@@ -1,0 +1,1 @@
+5. Energoapgādi valsts regulējamās nozarēs regulē Energoapgādes regulēšanas padome līdz 2001.gada 1.oktobrim, kad tās funkcijas pārņem Sabiedrisko pakalpojumu regulēšanas komisija saskaņā ar likumu "Par sabiedrisko pakalpojumu regulatoriem".

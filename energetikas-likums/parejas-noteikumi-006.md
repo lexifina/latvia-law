@@ -1,0 +1,1 @@
+6. Energoapgādi pašvaldību regulējamās nozarēs regulē Energoapgādes regulēšanas padome līdz 2001.gada 1.septembrim, kad tās funkcijas pārņem pašvaldību regulatori saskaņā ar likumu "Par sabiedrisko pakalpojumu regulatoriem".

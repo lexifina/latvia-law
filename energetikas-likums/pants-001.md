@@ -14,7 +14,7 @@ Likumā ir lietoti šādi termini:
 12) enerģijas sadale - energoapgādes veids, kas ietver energoresursu vai enerģijas transportēšanu pa vidēja un zema sprieguma tīkliem vai vidēja un zema spiediena vadiem;
 13) enerģijas realizācija - energoapgādes veids, kas ietver kurināmā vai enerģijas pārdošanu lietotājiem un līdzdalību pastāvīgas, drošas un stabilas energoapgādes nodrošināšanā;
 14) enerģijas ražošana - energoapgādes veids, kas ietver energoresursu pārveidošanu lietošanai nepieciešamā enerģijā;
-15) koģenerācija - enerģijas ražošanas tehnoloģiskais process, kurā vienlaikus izstrādā gan siltumenerģiju, gan elektroenerģiju;
+15) koģenerācija - enerģijas ražošanas tehnoloģiskais process, kurā lietderīgai izmantošanai vienlaikus ražo gan siltumenerģiju, gan elektroenerģiju, turklāt kurināmā izmantošanas efektivitāte šajā procesā ir augstāka, nekā ražojot abus minētos enerģijas veidus atsevišķi;
 16) kurināmais - nafta un naftas produkti, dabasgāze, sašķidrinātā gāze, degakmens, degakmens gāze un eļļa, ogles, kūdra, kurināmā koksne un cita biomasa, kodoldegviela, kuru sadedzina enerģijas iegūšanai;
 17) kurināmā drošības rezerve - energoapgādes uzņēmuma īpašumā esošs noteikts kurināmā krājums, kas ir nepieciešams, lai nodrošinātu enerģijas lietotāju nepārtrauktu apgādi ar attiecīgā veida enerģiju;
 18) licence - saskaņā ar likumu izsniegta speciāla atļauja, kas nosaka energoapgādes uzņēmuma tiesības un pienākumu nodarboties ar energoapgādi licences darbības zonā;
