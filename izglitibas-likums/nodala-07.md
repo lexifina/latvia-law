@@ -1,2 +1,2 @@
 VII nodaļa
-Izglītības sistēmas finansu un materiālie līdzekļi
+Izglītības sistēmas finanšu un materiālie līdzekļi

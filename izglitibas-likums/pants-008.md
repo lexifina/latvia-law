@@ -6,3 +6,4 @@
 4) izglītība ģimenē.
 (2) Izglītības iestāde ir tiesīga īstenot izglītības programmu apguvi klātienes, kā arī neklātienes formā.
 (3) Izglītības programmas saturu izglītojamais var apgūt pašizglītības formā. Novērtējumu par šādi apgūtu izglītības programmu var saņemt, nokārtojot eksāmenus izglītības iestādē, kura īsteno attiecīgo programmu.
+(4) Šā panta trešā daļa neattiecas uz augstākās izglītības programmām.
