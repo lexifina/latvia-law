@@ -1,1 +1,1 @@
-9. Izdevumi zemes komisiju uzturēšanai tiek segti no valsts budžeta.
+9. Izdevumi pagastu un pilsētu zemes komisiju uzturēšanai 50 procentu apmērā tiek segti no valsts pamatbudžeta un 50 procentu apmērā - no īpašuma privatizācijas fondu līdzekļiem. Izdevumi Centrālās zemes komisijas uzturēšanai tiek segti no valsts pamatbudžeta.

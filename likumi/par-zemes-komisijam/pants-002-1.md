@@ -1,6 +1,6 @@
 2.¹ Pilsētas zemes komisijas sastāvs un uzdevumi:
 2.¹1. pilsētas zemes komisijā ietilpst:
-pilsētas domes iecelts zemes komisijas priekšsēdētājs, kuru amatā apstiprina Centrālā zemes komisija, vai pilsētas domes ieteiktā un Centrālās zemes komisijas apstiprinātā pilnvarotā persona;
+pilsētas domes iecelts zemes komisijas priekšsēdētājs;
 pilsētas domes priekšsēdētājs vai viņa vietnieks;
 Valsts zemes dienesta pārstāvis;
 zemes ierīkotājs, kurš pastāvīgi strādā pilsētas teritorijā;
@@ -16,4 +16,6 @@ To pilsētu domes, kurām nav sava galvenā arhitekta (arhitekta), var attiecīg
 2.¹2.5. sadarbojas ar kaimiņpagastu un kaimiņpilsētu zemes komisijām jautājumos par piepilsētas zonām, zaļo joslu, kopēju komunikāciju, transporta un sakaru līnijbūvju zemēm;
 2.¹2.6. izskata priekšlikumus par pasākumiem, kas nepieciešami neapmierināto zemes pieprasījumu nodrošināšanai, arī ievērojot kaimiņpagastu un kaimiņpilsētu zemes komisiju ieteikumus;
 2.¹2.7. izskata priekšlikumus par nepieprasīto zemju turpmāko izmantošanu;
-2.¹2.8. dod atzinumus par izejas datiem zemes nodokļa aprēķināšanai.
+2.¹2.8. dod atzinumus par izejas datiem zemes nodokļa aprēķināšanai;
+2.¹2.9. pieņem lēmumu par juridiskajām personām pārdodamās vai izsolē iegūstamās zemes izmantošanas mērķi un uzņēmējdarbībai izmantojamās zemes platību;
+2.¹2.10. pieņem lēmumu par zemes gabala platību un robežu plāna apstiprināšanu, ja nostiprinājuma lūgums par ēku (būvju) ierakstīšanu zemesgrāmatā iesniegts pirms zemes ierakstīšanas zemesgrāmatā.
