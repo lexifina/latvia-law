@@ -1,2 +1,2 @@
 79.nodaļa
-Ārvalsts likumu piemērošana civillietu iztiesāšanā
+Starptautiskā tiesiskā sadarbība

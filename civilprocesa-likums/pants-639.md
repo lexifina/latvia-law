@@ -1,3 +1,2 @@
-639.pants. Ārvalsts tiesas nolēmuma izpildīšana
-(1) Ārvalsts tiesas nolēmumu pēc tā atzīšanas izpilda šajā likumā noteiktajā kārtībā.
-(2) Ar ārvalsts tiesas nolēmuma izpildi saistītos izdevumus sedz vispārējā kārtībā, ja Latvijas Republikai saistošos starptautiskajos līgumos nav noteikts citādi.
+639.pants. Pieteikuma atstāšana bez virzības
+Ja pieteikums neatbilst šā likuma 638.panta otrās, trešās un ceturtās daļas prasībām, tiesnesis atstāj pieteikumu bez virzības un iestājas šā likuma 133.pantā paredzētās sekas.

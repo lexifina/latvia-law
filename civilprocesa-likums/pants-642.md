@@ -1,3 +1,7 @@
-642.pants. Ārvalstīs noslēgtu līgumu apspriešana
-(1) Līgumi un akti, kas taisīti ārvalstīs, apspriežami uz tās valsts likumu pamata, kurā tie taisīti, un uzskatāmi par spēkā esošiem, ja vien tajos ietvertais darījums nav pretējs sabiedriskajai kārtībai un Latvijas likumiem.
-(2) Līgumi, kas noslēgti ārvalstīs pēc ārvalstu likumiem, nezaudē savu spēku Latvijā pēc noilguma notecējuma, ja pēc tās valsts likumiem, kur tie noslēgti, noteikts garāks noilguma termiņš.
+642.pants. Apgabaltiesas un Senāta kompetence
+(1) Apgabaltiesai un Senātam, izskatot blakus sūdzību, ir tiesības:
+1) atstāt lēmumu negrozītu, bet sūdzību noraidīt;
+2) atcelt lēmumu pilnīgi vai kādā tā daļā un izlemt jautājumu par ārvalsts tiesas nolēmuma atzīšanu;
+3) grozīt lēmumu.
+(2) Tiesa var pieprasīt no pusēm paskaidrojumus vai arī papildu ziņas no ārvalsts tiesas, kas pieņēmusi nolēmumu.
+(3) Tiesa pēc atbildētāja lūguma var apturēt tiesvedību, ja ārvalsts tiesas nolēmums attiecīgajā ārvalstī ir pārsūdzēts vispārējā kārtībā vai arī nav beidzies termiņš šādai pārsūdzēšanai. Otrajā gadījumā tiesa var noteikt termiņu, kādā iesniedzama sūdzība ārvalsts tiesas nolēmuma pārsūdzēšanai attiecīgajā ārvalstī.

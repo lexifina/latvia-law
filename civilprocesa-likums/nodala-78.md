@@ -1,2 +1,2 @@
 78.nodaļa
-Tiesu uzdevumi
+Ārvalstu šķīrējtiesu nolēmumu atzīšana un izpildīšana

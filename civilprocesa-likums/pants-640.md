@@ -1,3 +1,2 @@
-640.pants. Tiesu uzdevumu izpildīšana
-(1) Latvijas Republikai saistošos starptautiskajos līgumos noteiktajos gadījumos tiesas izpilda tām nodotos ārvalstu tiesu uzdevumus izdarīt atsevišķas procesuālās darbības.
-(2) Ārvalstu tiesu uzdevumus izpilda šajā likumā un Latvijas Republikai saistošos starptautiskajos līgumos noteiktajā kārtībā.
+640.pants. Pieteikuma izlemšana
+Lēmumu par ārvalsts tiesas nolēmuma atzīšanu un izpildīšanu vai lēmumu par pieteikuma noraidīšanu pieņem tiesnesis vienpersoniski uz iesniegtā pieteikuma un tam pievienoto dokumentu pamata 10 dienu laikā no pieteikuma iesniegšanas dienas, neaicinot puses.

@@ -1,2 +1,3 @@
-641.pants. Latvijas tiesu sazināšanās ar ārvalstu tiesām un tiesībaizsardzības iestādēm
-Kārtību, kādā Latvijas tiesas sazinās ar ārvalstu tiesām un tiesībaizsardzības iestādēm, nosaka likumi un Latvijas Republikai saistoši starptautiskie līgumi.
+641.pants. Pirmās instances tiesas un apelācijas instances tiesas lēmuma pārsūdzēšana
+(1) Par pirmās instances tiesas lēmumu ārvalsts tiesas nolēmuma atzīšanas lietā var iesniegt blakus sūdzību apgabaltiesai, bet apgabaltiesas lēmumu par blakus sūdzību var pārsūdzēt Senātā, iesniedzot blakus sūdzību.
+(2) Lietas dalībnieks, kura dzīvesvieta vai atrašanās vieta ir Latvijā, šā panta pirmajā daļā minēto blakus sūdzību var iesniegt 30 dienu laikā no lēmuma noraksta saņemšanas dienas, bet lietas dalībnieks, kura dzīvesvieta vai atrašanās vieta nav Latvijā, - 60 dienu laikā no lēmuma noraksta saņemšanas dienas.
