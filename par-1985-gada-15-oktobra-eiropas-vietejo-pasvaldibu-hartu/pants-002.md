@@ -1,11 +1,11 @@
 2.pants. Saskaņā ar Hartas 1. un 12.pantu Latvijas Republika apņemas uzskatīt par tai saistošiem šādus Hartas pirmās daļas pantus un punktus:
-- 2.pants;
-- 3.panta 1. un 2.punkts;
-- 4.pants;
-- 5.pants;
-- 6.panta 1.punkts;
-- 7.panta 1. un 3.punkts;
-- 8.panta 1., 2. un 3.punkts;
-- 9.panta 1., 2., 3., 5., 6. un 7.punkts;
-- 10.pants;
-- 11.pants.
+2.pantu;
+3.pantu;
+4.pantu;
+5.pantu;
+6.pantu;
+7.pantu;
+8.pantu;
+9.panta 1., 2., 3., 4., 5., 6. un 7.punktu;
+10.pantu;
+11.pantu.
