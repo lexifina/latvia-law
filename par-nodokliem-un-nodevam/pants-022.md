@@ -12,4 +12,5 @@
 9) Eiropas Savienības dalībvalstu kompetentās iestādes - saskaņā ar Eiropas Savienības normatīvajiem aktiem;
 10) valsts aģentūru "Maksātnespējas administrācija" - jautājumos, kas saistīti ar darbinieku aizsardzību darba devēja maksātnespējas gadījumā, un jautājumos, kas saistīti ar nodokļu maksātājiem, par kuriem ir ierosināta maksātnespējas lieta;
 11) Valsts civildienesta pārvaldi - jautājumos, kas saistīti ar nodokļu administrācijas ierēdņu disciplinārlietu ierosināšanu un izmeklēšanu;
-12) citas personas - saskaņā ar šā likuma 18. panta 8.,12., 13., 14. un 15.punktu, 23.panta trīspadsmito daļu, 24.panta otro daļu un 25.panta pirmo daļu.
+11¹) Pilsonības un migrācijas lietu pārvaldi - jautājumos par ārzemnieka un viņa uzaicinātāja nodokļu maksājumiem, ja uzaicinātājs ir uzņēmies segt izdevumus, kas saistīti ar ārvalstnieka veselības aprūpi, uzturēšanos Latvijas Republikā un atgriešanos mītnes zemē;
+12) citas personas - saskaņā ar šā likuma 18.panta 8.,12., 13., 14. un 15.punktu, 23.panta trīspadsmito daļu, 24.panta otro daļu un 25.panta pirmo daļu.

@@ -1,0 +1,1 @@
+65. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2005.gada 1.jūlijam ir spēkā Ministru kabineta 1995.gada 31.oktobra noteikumi Nr.322 "Noteikumi par kārtību, kādā pašvaldības var uzlikt pašvaldību nodevas".
