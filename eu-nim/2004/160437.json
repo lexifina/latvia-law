@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Prasības virszemes ūdeņu, pazemes ūdeņu un aizsargājamo teritoriju monitoringam un monitoringa programmu izstrādei",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "30",
+  "official_journal_page": null,
+  "official_journal_date": "2004-02-25",
+  "entry_into_force": "2004-02-26",
+  "notification_date": "2009-02-06",
+  "commission_reference": "MNE(2009)50600",
+  "nim_celex": "72000L0060LVA_160437",
+  "nim_id": "160437",
+  "transposes_celex": [
+    "32000L0060",
+    "32006L0118"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c62ae44d-2b61-4ffc-8195-541d84719514",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
