@@ -1,0 +1,1 @@
+1.pants. 1997.gada 13.novembrī Rīgā parakstītā Latvijas Republikas valdības un Īrijas valdības konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma un kapitāla pieauguma nodokļiem (turpmāk - Konvencija) un tās 1997.gada 13.novembrī Rīgā parakstītais papildu protokols (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.

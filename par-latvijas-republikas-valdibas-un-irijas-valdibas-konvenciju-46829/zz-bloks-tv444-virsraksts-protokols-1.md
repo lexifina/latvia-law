@@ -1,0 +1,19 @@
+Parakstot šodien noslēgto Latvijas Republikas valdības un Īrijas valdības Konvenciju par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma un kapitāla pieauguma nodokļiem, puses ir vienojušās par turpmāk minētajiem noteikumiem, kas ir šīs Konvencijas neatņemama sastāvdaļa.
+1. Attiecībā uz 4. panta 1. punktu
+Tiek saprasts, ka persona, kas ir reģistrēta vai kā citādi izveidota saskaņā ar Līgumslēdzējas Valsts likumdošanas aktiem, netiks uzskatīta par šīs valsts rezidentu šīs Konvencijas piemērošanas nolūkiem, izņemot, kad šī persona šajā valstī tiek aplikta ar nodokļiem kā šīs valsts rezidents attiecībā uz tās visā pasaulē gūto ienākumu neatkarīgi no tā, kur šis ienākums rodas.
+2. Attiecībā uz 4. panta 3. punktu
+Ja persona, kas nav fiziska persona, ir abu Līgumslēdzēju Valstu rezidents un Līgumslēdzēju Valstu kompetentās iestādes, savstarpēji vienojoties, cenšas noteikt šīs personas statusu, tad tām jāņem vērā tādi faktori kā šīs personas faktiskās vadības atrašanās vieta, reģistrācijas (inkorporācijas) vieta vai vieta, kur tā citādā veidā ir izveidota, un citi svarīgi faktori.
+3. Attiecībā uz 6. panta 3. punktu
+Līgumslēdzējas Valstis saprot, ka viss ienākums un kapitāla pieaugums, kas radies no Līgumslēdzējā Valstī esoša nekustamā īpašuma atsavināšanas, var tikt aplikts ar nodokļiem šajā Līgumslēdzējā Valstī saskaņā ar šīs Konvencijas 13. pantu.
+4. Attiecībā uz 7. panta 1. punktu
+Tiek saprasts, ka Līgumslēdzējas Valsts uzņēmuma peļņa, kas gūta par tādu preču vai izstrādājumu pārdošanu otrā Līgumslēdzējā Valstī, kuri ir tādi paši vai līdzīgi precēm vai izstrādājumiem, kas tiek pārdoti, izmantojot pastāvīgo pārstāvniecību otrā valstī, vai Līgumslēdzējas Valsts uzņēmuma peļņa, kas tiek gūta par cita veida otrā valstī veikto uzņēmējdarbību, kas ir tāda pati vai ir līdzīga tai, kāda tiek veikta, izmantojot pastāvīgo pārstāvniecību otrā valstī, var tikt uzskatīta par attiecināmu uz šo pastāvīgo pārstāvniecību, ja ir noskaidrots, ka minētā pārdošana vai veiktā uzņēmējdarbība ir tikusi veikta nevis godīgas uzņēmējdarbības ietvaros, bet galvenokārt ar nolūku izvairīties no nodokļu maksāšanas valstī, kurā atrodas pastāvīgā pārstāvniecība.
+5. Attiecībā uz 7. panta 3. punktu
+Nosakot pastāvīgās pārstāvniecības peļņu, tiks saprasts, ka izdevumi, kurus tiek atļauts atskaitīt Līgumslēdzējā Valstī, ietver tikai tādus izdevumus, kuri ir atskaitāmi saskaņā ar šīs valsts iekšzemes likumdošanas aktiem.
+6. Attiecībā uz 12. pantu
+Ja jebkurā Konvencijā par nodokļu dubultās uzlikšanas novēršanu, kuru pēc šīs Konvencijas parakstīšanas datuma Latvija paraksta ar trešo valsti, kas ir Ekonomiskās sadarbības un attīstības organizācijas dalībniece šīs Konvencijas parakstīšanas brīdī, Latvija piekrīt tādai autoratlīdzību definīcijai, kura neiekļauj jebkuras 3. punktā minētās tiesības vai citu īpašumu, vai piekrīt atbrīvot no Latvijas nodokļiem autoratlīdzības, kas rodas Latvijā, vai arī piemērot nodokļu likmes, kas ir zemākas nekā 2. punktā noteiktās, tad, sākot no datuma, kurā stājas spēkā Konvencija ar trešo valsti vai šī Konvencija, atkarībā no tā, kura no šīm Konvencijām stājas spēkā vēlāk, šī definīcija, atbrīvojums vai samazinātā likme ir jāpiemēro automātiski tā, it kā tas būtu noteikts attiecīgi 3. punktā vai 2. punktā.
+7. Attiecībā uz 16. pantu
+Līgumslēdzējas Valstis saprot, ka šis pants attiecas vienīgi uz institūciju, kas ir saistīta ar sabiedrības centrālo vadību un kontroli.
+To apliecinot, būdami pienācīgi pilnvaroti, šo Protokolu ir parakstījuši.
+Protokols sastādīts Rīgā divos eksemplāros 1997. gada 13. novembrī latviešu un angļu valodā, abi teksti ir vienlīdz autentiski. Atšķirīgas interpretācijas vai jebkādas neatbilstības gadījumā izšķirošais ir teksts angļu valodā.
+Latvijas Republikas valdības vārdāĪrijas valdības vārdā
+Valdis BirkavsPatriks Makeibs
