@@ -1,1 +1,1 @@
-9. pants. Ja namīpašums, kuru var atprasīt tiesas ceļā nav saglabājies un pieteikums iesniegts 2. pantā norādītajā termiņā, bijušajam īpašniekam (mantiniekam) ir tiesības uz kompensāciju likumā noteiktajā kārtībā.
+9. pants. Ja namīpašums, kuru var atprasīt tiesas ceļā, nav saglabājies un pieteikums iesniegts 2. pantā norādītajā termiņā, bijušajam īpašniekam (mantiniekiem) ir tiesības uz kompensāciju likumā noteiktajā kārtībā.
