@@ -1,0 +1,1 @@
+1.pants. 1999.gada 4.martā Rīgā parakstītais Latvijas Republikas valdības un Ķīnas Tautas Republikas valdības nolīgums par civilo gaisa satiksmi (turpmāk - Nolīgums) un tā pielikums (turpmāk - Pielikums) ar šo likumu tiek pieņemti un apstiprināti.
