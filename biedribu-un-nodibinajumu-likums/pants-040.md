@@ -1,0 +1,3 @@
+40.pants. Biedru sapulces lēmuma atzīšana par spēkā neesošu
+(1) Tiesa, pamatojoties uz biedrības biedra, valdes locekļa, revidenta (arī citas institūcijas, ja tas noteikts statūtos) pieteikumu, var atzīt biedru sapulces lēmumu par spēkā neesošu, ja šāds lēmums vai tā pieņemšanas procedūra ir pretrunā ar likumu vai statūtiem vai ir pieļauti būtiski pārkāpumi sapulces sasaukšanā vai lēmuma pieņemšanā. Prasību var celt triju mēnešu laikā no dienas, kad attiecīgā persona uzzināja vai tai vajadzēja uzzināt par biedru sapulces lēmumu, bet ne vēlāk par gadu no lēmuma pieņemšanas dienas.
+(2) Saskaņā ar šā panta pirmās daļas noteikumiem tiesa var atzīt par spēkā neesošiem arī citu biedrības institūciju lēmumus.

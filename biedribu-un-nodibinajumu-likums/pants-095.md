@@ -1,0 +1,5 @@
+95.pants. Valdes locekļu iecelšana, atsaukšana un tiesības atstāt amatu
+(1) Ja nodibinājums tiek dibināts dibinātāja dzīves laikā, valdes locekļus ieceļ dibinātājs. Ja tiek dibināts testamentārais nodibinājums, - valdes locekļus ieceļ šā likuma 89.panta otrajā daļā minētās personas, izņemot gadījumu, kad valdes locekļi ir iecelti ar testamentu.
+(2) Lēmumu par turpmākajām izmaiņām valdes sastāvā, kā arī valdes locekļu atsaukšanu pieņem statūtos noteiktajā kārtībā.
+(3) Valdes loceklis var jebkurā laikā iesniegt nodibinājumam paziņojumu par valdes locekļa amata atstāšanu.
+(4) Valdes locekļa iecelšana vai viņa pilnvaru izbeigšanās piesakāma ierakstīšanai reģistrā. Ja saskaņā ar statūtiem lēmumu par valdes locekļa iecelšanu un atsaukšanu pieņem cita pārvaldes institūcija, pieteikumam pievienojams attiecīgais institūcijas lēmums, kā arī valdes locekļa rakstveida piekrišana būt par valdes locekli. Ja valdes loceklis atstāj amatu saskaņā ar šā panta trešo daļu, pieteikumam pievienojams attiecīgais valdes locekļa paziņojums.

@@ -1,0 +1,1 @@
+2. Likuma 15.panta 9.punkts, 19.panta 2.punkts, 53.panta 2.punkts, 55. un 64.pants, 104.panta 3.punkts un 106.pants stājas spēkā vienlaikus ar likumu, kurš regulē biedrību un nodibinājumu maksātnespēju.

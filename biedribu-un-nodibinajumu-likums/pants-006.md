@@ -1,0 +1,8 @@
+6.pants. Biedrības un nodibinājuma nosaukums
+(1) Biedrības un nodibinājuma nosaukums nedrīkst būt pretrunā ar normatīvajiem aktiem un labiem tikumiem, tas ir, tajā nedrīkst ietvert militāra formējuma nosaukumu vai tādas organizācijas vai grupas nosaukumu, kura atzīta par noziedzīgu vai antikonstitucionālu, tas nedrīkst radīt pozitīvu attieksmi pret vardarbību u.tml.
+(2) Nodibinājuma nosaukumā jāietver vārds "nodibinājums" vai "fonds".
+(3) Nosaukumam skaidri un noteikti jāatšķiras no citiem biedrību un nodibinājumu reģistrā jau reģistrētiem vai reģistrācijai pieteiktiem biedrību vai nodibinājumu nosaukumiem.
+(4) Biedrību un nodibinājumu nosaukumā lietojami vienīgi latviešu vai latīņu alfabēta burti.
+(5) Nosaukumā nedrīkst ietvert maldinošas ziņas par biedrības vai nodibinājuma darbības mērķi, darbības veidu un tiesisko formu.
+(6) Biedrību un nodibinājumu nosaukumā nedrīkst ietvert valsts vai pašvaldību institūciju (iestāžu) nosaukumus, kā arī vārdus "valsts" vai "pašvaldība".
+(7) Biedrība vai nodibinājums, kura tiesības ir aizskartas, prettiesīgi izmantojot tā nosaukumu, var no aizskārēja prasīt, lai tas izbeidz izmantot nosaukumu, kā arī lai atlīdzina biedrībai vai nodibinājumam ar tā nosaukuma prettiesīgu izmantošanu nodarītos zaudējumus.

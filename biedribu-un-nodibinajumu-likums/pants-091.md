@@ -1,0 +1,3 @@
+91.pants. Labumu saņēmējs un nodibinājuma darbības ierobežojumi
+(1) Statūtos var noteikt labumu saņēmēju loku. Šaubu gadījumā par labumu saņēmēju uzskatāma persona, kurai var izmaksāt līdzekļus no nodibinājuma mantas saskaņā ar nodibinājuma statūtiem.
+(2) Nodibinājumam aizliegts piešķirt finanšu līdzekļus, sniegt galvojumus, izdot vekseļus vai citādi finansēt dibinātājus, valdes un citu pārvaldes institūciju (ja tādas izveidotas) locekļus, kā arī citas personas, kurām ir līdzīga mantiskā ieinteresētība, it īpaši laulātos, radiniekus un svaiņus, skaitot radniecību līdz otrajai pakāpei un svainību līdz pirmajai pakāpei.
