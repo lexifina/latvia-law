@@ -4,3 +4,4 @@
 1) savlaicīgi prognozēt un novērst valsts iekšējo un ārējo apdraudējumu, garantēt valsts aizsardzību, sabiedrības drošību un tās demokrātisku attīstību;
 2) izstrādāt vienotu, sistēmisku valsts varu un pārvaldi realizējošo institūciju nacionālās drošības politiku un saskaņoti un mērķtiecīgi visos valsts pārvaldes līmeņos izpildīt tās noteiktos tiesiskos, ekonomiskos, sociālos, militāros, drošības un citus pasākumus;
 3) nodrošināt efektīvu vadību valsts apdraudējuma situāciju pārvarēšanai.
+(3) Nacionālās drošības sistēmas darbība balstās uz civilmilitāro sadarbību. Civilmilitārā sadarbība ir plānota un saskaņota valsts pārvaldes iestāžu, sabiedrības un Nacionālo bruņoto spēku darbība valsts apdraudējuma pārvarēšanai. Civilmilitārās sadarbības pamatprincipi ir efektīva savstarpējās sadarbības koordinācija, vienota izpratne par kopējiem mērķiem un dalīta atbildība par mērķu sasniegšanas rezultātiem.
