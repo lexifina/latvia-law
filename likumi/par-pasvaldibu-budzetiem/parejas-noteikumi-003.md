@@ -1,0 +1,1 @@
+3. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2003.gada 1.janvārim piemērojami Ministru kabineta 2001.gada 7.augusta noteikumi nr.366 "Noteikumi par pašvaldību aizņēmumiem un galvojumiem", ciktāl tie nav pretrunā ar šo likumu.

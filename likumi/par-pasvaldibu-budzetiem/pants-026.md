@@ -5,3 +5,4 @@
 2) pašvaldības budžeta izdevumi, kas saistīti ar galvojumu saistību izpildi, budžetā ir attiecināmi uz pašvaldības parādu;
 3) galvojumi netiek nodrošināti ar pašvaldības īpašumu, kas nepieciešams pašvaldības pastāvīgo funkciju izpildei;
 4) vairāku pašvaldību veidotām iestādēm, uzņēmumiem un uzņēmējsabiedrībām sniegtā galvojuma apmērs procentuāli atbilst pašvaldības kapitāla daļu skaitam attiecīgajā pamatkapitālā.
+(4) Pašvaldība var dot galvojumu par tām parāda saistībām, ko studējošais uzņemas Augstskolu likumā noteiktā studiju kredīta un studējošo kredīta saņemšanai no kredītiestādes.

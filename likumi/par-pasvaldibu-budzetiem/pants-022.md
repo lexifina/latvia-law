@@ -1,4 +1,5 @@
-22.pants. (1) Pašvaldības, pamatojoties uz domes (padomes) lēmumu, var ņemt īstermiņa un ilgtermiņa aizņēmumus šajā likumā un citos normatīvajos aktos noteiktajā kārtībā. Pašvaldību aizņēmumu kopējais pieļaujamais palielinājums saimnieciskajā gadā tiek noteikts gadskārtējā valsts budžeta likumā.
-(2) Aizņēmumus pašvaldības var ņemt Latvijā vai ārvalstīs, izlaižot vērtspapīrus vai noslēdzot aizņēmuma līgumus.
-(3) Aizņēmumu līdzekļi ir pašvaldības budžeta līdzekļi, kas tiek izlietoti tikai apropriācijas kārtībā, pamatojoties uz domes (padomes) lēmumu.
-(4) Pašvaldības nedrīkst galvot aizņēmumus ar īpašumiem, kas nepieciešami pašvaldību pastāvīgo funkciju izpildei.
+22.pants. (1) Pašvaldības, pamatojoties uz domes (padomes) lēmumu, var ņemt īstermiņa un ilgtermiņa aizņēmumus un uzņemties ilgtermiņa saistības. Pašvaldības domes (padomes) lēmumā, ar kuru pašvaldība uzņemas ilgtermiņa saistības, paredzami arī šādu saistību izpildes finansējuma avoti. Ilgtermiņa aizņēmumi šā likuma izpratnē ir aizņēmumi, kuru atmaksas periods pārsniedz viena saimnieciskā gada ietvarus.
+(2) Ilgtermiņa saistības šā likuma izpratnē ir saistības, kuras pašvaldība uzņemas, slēdzot līgumus par preču pirkšanu vai nomu vai pakalpojumu saņemšanu, vai būvdarbu veikšanu pasūtītāja vajadzībām un līgumus, kas paredz pašvaldības budžeta līdzdalību konkrētu projektu realizācijā, bet kopējo samaksu par attiecīgo darījumu pašvaldība neveic divpadsmit mēnešu laikā no līguma noslēgšanas brīža.
+(3) Pašvaldību aizņēmumu kopējo pieļaujamo palielinājumu saimnieciskajā gadā nosaka gadskārtējā valsts budžeta likums. Aizņēmumus pašvaldības var ņemt Latvijā vai ārvalstīs, izlaižot vērtspapīrus vai noslēdzot aizņēmuma līgumus.
+(4) Aizņēmumu līdzekļi ir pašvaldības budžeta līdzekļi, kurus pašvaldība izlieto tikai apropriācijas kārtībā, pamatojoties uz domes (padomes) lēmumu.
+(5) Pašvaldības nedrīkst nodrošināt aizņēmumus ar īpašumiem, kas nepieciešami pašvaldību pastāvīgo funkciju izpildei.
