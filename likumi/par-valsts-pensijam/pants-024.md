@@ -1,7 +1,5 @@
 24.pants. Valsts pensijas apmēra palielināšana, ja pensionārs pēc pensijas piešķiršanas turpina strādāt
-(1) Ja pensionārs - vecuma vai invaliditātes pensijas saņēmējs - pēc pensijas piešķiršanas turpina strādāt un ir nostrādājis ne mazāk par vienu gadu, piešķirtā pensija, pamatojoties uz apdrošinātās personas pieprasījumu, pārrēķināma, bet ne biežāk kā vienu reizi trijos gados.
+(1) Ja vecuma pensijas saņēmējs pēc pensijas piešķiršanas turpina strādāt un ir nostrādājis ne mazāk par vienu gadu, piešķirtā pensija, pamatojoties uz apdrošinātās personas pieprasījumu, pārrēķināma, bet ne biežāk kā vienu reizi trijos gados.
 (2) Pārrēķināto vecuma pensiju veido agrāk piešķirtā (pārrēķinātā) pensija, neņemot vērā šā likuma 12.panta otrajā daļā minētos nosacījumus, un pensija, kas saskaņā ar šā likuma 12.panta pirmajā daļā noteikto kārtību aprēķināta, ņemot vērā pensijas kapitālu, ko persona uzkrājusi gada vai ilgākā laikā pēc pensijas piešķiršanas (pārrēķināšanas).
-(3) I un II grupas invaliditātes pensija, pamatojoties uz apdrošinātās personas pieprasījumu, pārrēķināma šā likuma 16. panta pirmajā un otrajā daļā noteiktajā kārtībā atbilstoši šā panta pirmās un ceturtās daļas nosacījumiem, ņemot vērā:
-1) papildināto apdrošināšanas stāžu;
-2) palielināto apdrošinātās personas vidējo apdrošināšanas iemaksu algu.
-(4) Invalīdam, kurš pēc invaliditātes pensijas piešķiršanas nostrādājis ne mazāk par vienu gadu, invaliditātes pensiju sakarā ar viņa vidējās apdrošināšanas iemaksu algas palielināšanos var pārrēķināt, ja pirms invaliditātes pensijas piešķiršanas (pārrēķināšanas) vidējā apdrošināšanas iemaksu alga par esošajiem 24 darba mēnešiem pēc kārtas un pēc invaliditātes pensijas piešķiršanas par 12 darba mēnešiem pēc kārtas ir lielāka nekā tā, no kuras invaliditātes pensija bija piešķirta (pārrēķināta).
+(3) (Izslēgta ar 05.08.1999. likumu)
+(4) (Izslēgta ar 05.08.1999. likumu)
