@@ -1,2 +1,3 @@
 23.pants. (1) Atbildība par Krimināllikumā paredzēto noziedzīgo nodarījumu, ar kuru radīts būtisks kaitējums, iestājas, ja noziedzīgā nodarījuma rezultātā ne vien nodarīts ievērojams mantiskais zaudējums, bet arī apdraudētas vēl citas ar likumu aizsargātās intereses un tiesības vai ja šāds apdraudējums ir ievērojams.
 (2) Par ievērojamu mantisko zaudējumu atzīstams mantiskais zaudējums, kas nodarījuma izdarīšanas brīdī pārsniedz piecu tai laikā Latvijas Republikā noteikto minimālo mēnešalgu kopsummu.
+(3) Noziedzīgo nodarījumu rezultātā ar likumu aizsargāto interešu un tiesību apdraudējuma kritērijus var noteikt šā likuma pielikumos.
