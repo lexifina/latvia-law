@@ -1,3 +1,5 @@
-237.pants. Šaujamieroču pielietošanas nosacījumu un kārtības pārkāpšana
-Par šaujamieroču pielietošanas nosacījumu vai kārtības pārkāpšanu, ja to izdarījusi persona, kam atļauts iegādāties, glabāt vai nēsāt šaujamieročus, un ja pārkāpšana izraisījusi smagas sekas, -
+237.pants. Šaujamieroču, gāzes pistoļu (revolveru) un lielas enerģijas pneimatisko ieroču pielietošanas vai izmantošanas nosacījumu vai kārtības pārkāpšana un sprāgstvielu un spridzināšanas ietaišu izmantošanas kārtības pārkāpšana
+(1) Par šaujamieroča vai lielas enerģijas pneimatiskā ieroča pielietošanas vai izmantošanas nosacījumu vai kārtības pārkāpšanu vai sprāgstvielu un spridzināšanas ietaišu izmantošanas kārtības pārkāpšanu, ja to izdarījusi persona, kurai atļauts iegādāties, glabāt vai nēsāt šaujamieroci vai lielas enerģijas pneimatisko ieroci vai kurai ir tiesības izmantot sprāgstvielas un spridzināšanas ietaises, un ja ar to radīts ievērojams mantisks zaudējums vai izraisītas smagas sekas, -
+soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar arestu, vai ar piespiedu darbu, vai ar naudas sodu līdz simt minimālajām mēnešalgām.
+(2) Par gāzes pistoles (revolvera) pielietošanas vai izmantošanas nosacījumu vai kārtības pārkāpšanu, ja ar to radīts ievērojams mantisks zaudējums vai izraisītas smagas sekas, -
 soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar arestu, vai ar piespiedu darbu, vai ar naudas sodu līdz simt minimālajām mēnešalgām.
