@@ -3,7 +3,7 @@
 2) visu sarakstā ietverto kandidātu parakstīta priekšvēlēšanu programma, kuras apjoms nedrīkst pārsniegt 4000 iespiedzīmes;
 3) katra sarakstā ietvertā kandidāta parakstīta deklarācija, ka viņš atbilst šā likuma 4. panta prasībām un uz viņu neattiecas šā likuma 5. panta 1.- 6. punktā minētie ierobežojumi;
 4) šādas katra sarakstā ietvertā kandidāta parakstītas ziņas:
-a) kandidāta vārds, uzvārds, dzimšanas gads,
+a) kandidāta vārds, uzvārds, dzimšanas gads, dzimums, tautība,
 b) personas kods,
 c) ārvalsts pilsonība (pavalstniecība), ja tāda ir,
 d) dzīvesvieta (rajons vai pilsēta),

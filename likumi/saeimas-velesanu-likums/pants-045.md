@@ -1,4 +1,4 @@
-45. pants. (1) Vēlētājs, kas vēlas balsot pa pastu, ne vēlāk kā divas nedēļas pirms vēlēšanu pirmās dienas (pasta zīmogs) iecirkņa komisijai nosūta attiecīgu rakstveida iesniegumu, kurā norāda savu vārdu, uzvārdu, personas kodu un adresi. Šim iesniegumam pievienojama Latvijas pilsoņa pase.
+45. pants. (1) Vēlētājs, kas vēlas balsot pa pastu, ne vēlāk kā trīs nedēļas pirms vēlēšanu dienas (pasta zīmogs) iecirkņa komisijai nosūta attiecīgu rakstveida iesniegumu, kurā norāda savu vārdu, uzvārdu, personas kodu un adresi. Šim iesniegumam pievienojama Latvijas pilsoņa pase.
 (2) Saņēmusi šādu iesniegumu, iecirkņa komisija:
 1) pārbauda, vai iesniegums nosūtīts šā panta pirmajā daļā noteiktajā termiņā;
 2) pārbauda, vai iesniedzējs ir vēlētājs, kas vēl nav saņēmis vēlēšanu dokumentus balsošanai pa pastu;

@@ -4,5 +4,5 @@
 (4) Kandidātu saraksta nosaukumam jāatbilst:
 1) attiecīgās politiskās organizācijas (partijas) nosaukumam, ja kandidātu sarakstu iesniedz politiskā organizācija (partija);
 2) attiecīgās politisko organizāciju (partiju) apvienības nosaukumam, ja kandidātu sarakstu iesniedz politisko organizāciju (partiju) apvienība;
-3) visu attiecīgo politisko organizāciju (partiju) nosaukumiem, ja kandidātu sarakstu iesniedz divas vai vairākas politiskās organizācijas (partijas).
-(5) Kandidātu sarakstiem jābūt skaidri salasāmiem, bez svītrojumiem un labojumiem. Tos paraksta attiecīgās politiskās organizācijas (partijas) vai politisko organizāciju (partiju) apvienības lēmējinstitūcijas pilnvarota persona. Ja kandidātu sarakstu iesniedz divas vai vairākas politiskās organizācijas (partijas), to paraksta visu attiecīgo politisko organizāciju (partiju) lēmējinstitūciju pilnvarotas personas.
+3) (izslēgts ar 26.03.1998. likumu).
+(5) Kandidātu sarakstiem jābūt skaidri salasāmiem, bez svītrojumiem un labojumiem. Tos paraksta attiecīgās politiskās organizācijas (partijas) vai politisko organizāciju (partiju) apvienības lēmējinstitūcijas pilnvarota persona.

@@ -1,2 +1,2 @@
-28. pants. (1) Sākot ar vēlēšanu telpu atvēršanu vēlēšanu pirmajā dienā, vēlēšanu komisijas sekretārs raksta vēlēšanu gaitas protokolu, kurā fiksē vēlēšanu norisi.
+28. pants. (1) Sākot ar vēlēšanu telpu atvēršanu vēlēšanu dienā, vēlēšanu komisijas sekretārs raksta vēlēšanu gaitas protokolu, kurā fiksē vēlēšanu norisi.
 (2) Sūdzības par vēlēšanu norisi vēlētāji iesniedz vēlēšanu komisijas priekšsēdētājam, kas tās reģistrē īpašā sūdzību reģistrācijas žurnālā. Jebkuru sūdzību par vēlēšanu norisi vēlēšanu komisija nekavējoties izskata un dod atbildi iesniedzējam.

@@ -1,1 +1,1 @@
-50. pants. Pēc vēlēšanu rezultātu publicēšanas visu vēlēšanu komisiju visi vēlēšanu protokoli nododami Valsts arhīvam, bet vēlēšanu zīmes un vēlēšanu aploksnes iznīcināmas.
+50. pants. Desmit dienas pēc jaunievēlētās Saeimas sanākšanas vēlēšanu zīmes iznīcināmas, bet pēc vēlēšanu rezultātu publicēšanas šā likuma 49.pantā noteiktajā kārtībā visi vēlēšanu komisiju protokoli nododami Valsts arhīvam.

@@ -1,1 +1,0 @@
-1. Vēlētāji, kuri līdz vēlēšanu dienai nav saņēmuši Latvijas pilsoņa pasi, vēlēšanu komisijai uzrāda bijušās PSRS pilsoņa pasi, kurā ir Pilsonības un imigrācijas departamenta atzīme, kas apliecina, ka attiecīgā persona ir Latvijas pilsonis.

@@ -1,3 +1,3 @@
-27. pants. (1) Abās vēlēšanu dienās pēc pulksten 8 vakarā vēlēšanu zīmes var nodot tikai tie vēlētāji, kuri bija ieradušies vēlēšanu telpās pirms pulksten 8 vakarā. Pēc tam vēlēšanu telpas slēdz.
-(2) Pēc balsošanas beigām vēlēšanu pirmajā dienā vēlēšanu kastes aizzīmogojamas ar attiecīgās komisijas zīmogu tādējādi, lai līdz balsošanai vēlēšanu otrajā dienā vēlēšanu kastēs nevarētu iemest vai no tām izņemt vēlēšanu aploksnes; arī komisijas locekļiem un pilnvarotajiem novērotājiem (18. pants) ir tiesības aizzīmogot vēlēšanu kastes ar saviem zīmogiem. Vēlēšanu kastes atstājamas vēlēšanu telpās komisijas, policijas vai Zemessardzes uzraudzībā.
-(3) Vēlēšanu otrajā dienā pirms balsošanas sākuma vēlēšanu komisijas priekšsēdētājs vēlēšanu komisijas, kā arī pilnvaroto novērotāju (18. pants) klātbūtnē pārliecinās par to, vai vēlēšanu kastes aizzīmogojums nav bojāts.
+27. pants. (1) Vēlēšanu dienā pēc pulksten 8 vakarā vēlēšanu zīmes var nodot tikai tie vēlētāji, kuri bija ieradušies vēlēšanu telpās pirms pulksten 8 vakarā. Pēc tam vēlēšanu telpas slēdz.
+(2) (Izslēgta ar 26.03.1998. likumu.)
+(3) (Izslēgta ar 26.03.1998. likumu.)
