@@ -4,4 +4,4 @@
 3) jābūt apgādātām ar lietošanas dokumentiem un brīdinošiem uzrakstiem latviešu valodā;
 4) jābūt pārbaudītām normatīvajos aktos paredzētajā apjomā un termiņos;
 5) jābūt apgādātām ar inspicēšanas institūcijas izsniegtu pārbaudes zīmi, kas novietota uz bīstamās iekārtas vai, ja tas nav iespējams, tiek glabāta iekārtas tehniskajā pasē un apliecina, ka attiecīgā iekārta noteiktā kārtībā ir izturējusi pārbaudi.
-(2) Pārbaudes zīmju paraugus apstiprina labklājības ministrs.
+(2) Pārbaudes zīmju paraugus apstiprina ekonomikas ministrs.
