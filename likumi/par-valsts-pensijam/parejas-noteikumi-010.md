@@ -1,5 +1,5 @@
 10. Desmit gadus piešķirot pensiju šajā likumā noteiktajā kārtībā, tās aprēķināšanai uzkrātais pensijas kapitāls indeksējams pēc šajā punktā noteiktajiem koeficientiem šādos gadījumos:
-1) to tiesību kompensēšanai, kas līdz šā likuma spēkā stāšanās dienai bija noteiktas 1990.gada 29.novembra likuma "Par valsts pensijām" 9.- 11.pantā un 12.panta 1. un 2.punktā, ja ievēroti šādi nosacījumi:
+1) to tiesību kompensēšanai, kas līdz šā likuma spēkā stāšanās dienai bija noteiktas 1990.gada 29.novembra likuma "Par valsts pensijām" 9.- 11.pantā un 12.panta 1. un 2.punktā, ja nav sasniegts 60 gadu vecums un ievēroti šādi nosacījumi:
 Kategorijas un nosacījumi
 Koeficients vīriešiemKoeficients sievietēm
 Invalīdi uz mūžu ar apdrošināšanas stāžu ne mazāku: vīriešiem - par 25 gadiem, sievietēm - par 20 gadiem1,091,1

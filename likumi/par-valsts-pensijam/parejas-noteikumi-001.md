@@ -8,5 +8,5 @@
 7) laiks, kad kopts I grupas invalīds vai bērns invalīds līdz 16 gadu vecumam, kā arī cilvēks, kas sasniedzis 80 gadu vecumu;
 8) laiks, kad māte audzinājusi bērnu līdz 8 gadu vecumam;
 9) algots darbs reliģiskajās organizācijās;
-10) politiski represēto ieslodzījuma vietās, nometinājumā un izsūtījumā pavadītais laiks trīskāršā apmērā, bet Galējos Ziemeļos un tiem pielīdzinātajos rajonos - pieckārtīgā apmērā. Rajonus, kas uzskatāmi par Galējo Ziemeļu un tiem pielīdzinātajiem rajoniem, nosaka Ministru kabinets. Tām personām, kurām šis stāžs noteikts seškārtīgā apmērā, aprēķinātais stāžs tiek saglabāts;
+10) politiski represēto ieslodzījuma vietās, nometinājumā un izsūtījumā, kā arī bēgšanā no šīm vietām pavadītais laiks trīskāršā apmērā, bet Galējos Ziemeļos un tiem pielīdzinātajos rajonos - pieckārtīgā apmērā. Rajonus, kas uzskatāmi par Galējo Ziemeļu un tiem pielīdzinātajiem rajoniem, nosaka Ministru kabinets. Tām personām, kurām šis stāžs noteikts seškārtīgā apmērā, aprēķinātais stāžs tiek saglabāts;
 11) laiks, kad apdrošinātā persona atzīta par invalīdu un nestrādā (arī sakarā ar nelaimes gadījumu darbā vai arodslimību), bet ne ilgāk kā līdz vecuma pensijas piešķiršanai nepieciešamā vecuma sasniegšanai; minētais laiks ņemams vērā tikai vecuma pensijas sākuma kapitāla aprēķināšanai.

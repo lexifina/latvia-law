@@ -1,1 +1,1 @@
-19. Invaliditātes pensijas vietā piešķirtā vecuma pensija invaliditātes laikā nedrīkst būt mazāka par invaliditātes pensiju, kas saņemta līdz vecuma pensijas piešķiršanas brīdim.
+19. Invaliditātes pensijas vietā piešķirtā vecuma pensija invaliditātes laikā nedrīkst būt mazāka par invaliditātes pensiju, kas saņemta līdz vecuma pensijas piešķiršanas brīdim. Invaliditātes grupas atkārtotas noteikšanas gadījumā, ja invaliditātes pārtraukuma laiks nav lielāks par vienu mēnesi, vecuma pensijas izmaksa (arī invaliditātes pārtraukuma laikā) turpināma iepriekšējā apmērā.

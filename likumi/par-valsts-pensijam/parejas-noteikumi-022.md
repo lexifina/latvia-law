@@ -1,1 +1,3 @@
 22. Līdz 1997.gada 1.jūnijam vecuma pensijas, kas piešķirtas 1997.gadā, pamatojoties uz apdrošinātās personas pieprasījumu, pārrēķināmas, ņemot vērā 1996.gadam noteikto vidējo apdrošināšanas iemaksu algu, ja apdrošinātajai personai 1996.gadā bija bezdarbnieka statuss un apdrošināšanas stāžs Latvijā pensijas pieprasīšanas brīdī nav bijis mazāks par 30 gadiem.
+1997.gadā piešķirtā vecuma pensija politiski represētajām personām pārrēķināma saskaņā ar šo pārejas noteikumu 13.punkta nosacījumiem.
+Pēc 1998.gada 1.janvāra invaliditātes pensijas vietā piešķirtā vecuma pensija pārrēķināma saskaņā ar šo pārejas noteikumu 19. punkta nosacījumiem, pamatojoties uz valsts pensijas saņēmēja pieprasījumu.
