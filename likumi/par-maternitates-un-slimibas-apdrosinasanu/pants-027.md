@@ -1,2 +1,2 @@
 27.pants. Pabalsta piešķiršanas termiņi
-Pabalstu piešķir 10 dienu laikā pēc tam, kad valsts sociālās apdrošināšanas iestāde saņēmusi pabalsta piešķiršanai nepieciešamos dokumentus.
+Pabalstu piešķir 10 dienu laikā pēc tam, kad Valsts sociālās apdrošināšanas aģentūra saņēmusi pabalsta piešķiršanai nepieciešamos dokumentus.

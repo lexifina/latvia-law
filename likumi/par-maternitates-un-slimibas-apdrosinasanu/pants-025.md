@@ -1,3 +1,3 @@
 25.pants. Pabalsta pieprasīšanas termiņi
-Pabalstu pieprasa apdrošinātā persona vai - likumā paredzētajos gadījumos - cita persona pēc apdrošināšanas gadījuma iestāšanās, bet ne vēlāk kā sešus mēnešus pēc dienas, kad persona atguvusi darbspējas.
-Aprēķinātās pabalsta summas, ko pabalsta saņēmējs nav laikā saņēmis, izmaksā par pagājušo laiku, bet ne vairāk kā par gadu no nesaņemtā pabalsta pieprasīšanas dienas.
+(1) Pabalstu pieprasa 12 mēnešu laikā no apdrošināšanas gadījuma iestāšanās dienas.
+(2) Aprēķinātās pabalsta summas, ko pabalsta saņēmējs nav laikā saņēmis, izmaksā par pagājušo laiku, bet ne ilgāku par 12 mēnešiem no nesaņemtā pabalsta pieprasīšanas dienas.

@@ -1,3 +1,3 @@
 VI nodaļa
-Izpeļņa valsts sociālās apdrošināšanas
+Apdrošināšanas iemaksu alga valsts sociālās apdrošināšanas
 pabalsta aprēķināšanai

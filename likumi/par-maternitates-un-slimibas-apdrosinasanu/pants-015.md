@@ -1,3 +1,3 @@
-15.pants. Slimības pabalsta piešķiršana personai, kurai darba nespēja iestājusies mēneša laikā pēc sociālās apdrošināšanas iemaksu perioda beigām
-(1) Slimības pabalstu par laiku no darba nespējas 15. dienas piešķir un izmaksā personai, kurai darba nespēja iestājusies mēneša laikā pēc sociālās apdrošināšanas iemaksu perioda beigām, ja šī persona bijusi apdrošināta pēdējos divus mēnešus pirms šo iemaksu perioda beigām un kopējie apdrošināšanas stāža pārtraukumi šo divu mēnešu laikā nepārsniedz septiņas kalendārās dienas.
+15.pants. Slimības pabalsta piešķiršana personai, kurai darba nespēja iestājusies mēneša laikā pēc valsts sociālās apdrošināšanas iemaksu perioda beigām
+(1) Slimības pabalstu par laiku no darba nespējas 15. dienas piešķir un izmaksā personai, kurai darba nespēja iestājusies mēneša laikā pēc valsts sociālās apdrošināšanas iemaksu perioda beigām, ja šī persona bijusi apdrošināta pēdējos divus mēnešus pirms šo iemaksu perioda beigām.
 (2) Šā panta pirmā daļa nav attiecināma uz gadījumiem, kad darba nespēja iestājusies sakarā ar slima bērna kopšanu.
