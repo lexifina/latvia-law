@@ -1,1 +1,1 @@
-2.pants. Saskaņā ar Konvencijas 3.panta 2.punktu tā netiks piemērota attiecībā uz personas datiem, kas atzīti par valsts noslēpuma objektiem, kā arī personas datu apstrādi, ko veic publiskās institūcijas nacionālās drošības un krimināltiesību jomā.
+2.pants. Saskaņā ar Konvencijas 3.panta 2.punktu tā netiks piemērota izņēmumiem to personas datu aizsardzībai, kuri noteikti likumā "Par valsts noslēpumu".
