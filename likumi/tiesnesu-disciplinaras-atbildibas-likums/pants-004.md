@@ -1,3 +1,3 @@
 4. pants. Disciplinārsoda uzlikšanas un disciplinārlietas izskatīšanas termiņi
 (1) Disciplinārsodu tiesnesim var uzlikt ne vēlāk kā trīs mēnešus pēc disciplinārā vai administratīvā pārkāpuma atklāšanas dienas, turklāt tikai pēc tam, kad tiesnesim dota iespēja izteikt savus paskaidrojumus, bet ne vēlāk kā divus gadus pēc disciplinārā vai administratīvā pārkāpuma izdarīšanas dienas.
-(2) Disciplinārlieta jāizskata ne vēlāk kā mēneša laikā no dienas, kad tā saņemta tiesnešu disciplinārkolēģijā.
+(2) Disciplinārlietu izskata mēneša laikā pēc tās saņemšanas disciplinārkolēģijā. Ja tiesnesis, pret kuru ierosināta disciplinārlieta, ir atvaļinājumā vai viņam ir pārejoša darbnespēja, izskatīšanas laiku pagarina par attiecīgo laikposmu.
