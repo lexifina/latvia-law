@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Pilsētas domes, novada domes un pagasta padomes vēlēšanu likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "10",
+  "official_journal_page": null,
+  "official_journal_date": "1994-01-25",
+  "entry_into_force": null,
+  "notification_date": "2004-11-25",
+  "commission_reference": "MNE(2004)53271",
+  "nim_celex": "71994L0080LVA_33271",
+  "nim_id": "33271",
+  "transposes_celex": [
+    "31994L0080",
+    "31996L0030"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/23cb24d2-4855-490c-b112-8f7a1c48c4f8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
