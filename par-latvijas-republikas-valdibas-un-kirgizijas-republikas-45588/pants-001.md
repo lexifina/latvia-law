@@ -1,0 +1,1 @@
+1.pants. 1997.gada 10.aprīlī Biškekā parakstītais Latvijas Republikas valdības un Kirgīzijas Republikas valdības nolīgums par automobiļu starptautisko satiksmi (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
