@@ -1,3 +1,4 @@
 40.pants. Dzelzceļa satiksmes negadījumu izmeklēšana
 (1) Dzelzceļa satiksmes negadījums ir dzelzceļa satiksmē noticis nelaimes gadījums, kurā iesaistīts vismaz viens no dzelzceļa transporta līdzekļiem un kura rezultātā gājis bojā cilvēks vai viņam nodarīti miesas bojājumi, vai nodarīti zaudējumi juridiskajai vai fiziskajai personai vai videi.
 (2) Latvijas teritorijā notikušu dzelzceļa satiksmes negadījumu izmeklēšanas kārtību nosaka Ministru kabinets.
+(3) Dzelzceļa infrastruktūras pārvaldītājam ir tiesības prasīt, lai pārvadātājs viņa rīcībā nodod resursus, kas nepieciešami pēc iespējas ātrākai normālas satiksmes atjaunošanai pēc dzelzceļa satiksmes negadījuma. Ministru kabinets nosaka resursu nodošanas un to vērtības atlīdzināšanas kārtību.

@@ -1,1 +1,1 @@
-VI nodaļa. Pārvadātāja licence un drošības sertifikāts
+VI nodaļa. Pārvadātāja licence, drošības sertifikāts un drošības apliecība

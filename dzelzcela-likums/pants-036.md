@@ -1,2 +1,2 @@
 36.pants. Dzelzceļa tehniskās ekspluatācijas noteikumu saistošais spēks
-Uzņēmumiem (uzņēmējsabiedrībām), kā arī citām dzelzceļa darbībā iesaistītajām juridiskajām un fiziskajām personām ir jānodrošina Dzelzceļa tehniskās ekspluatācijas noteikumu ievērošana un jāgarantē satiksmes drošība.
+Komercsabiedrībām, kā arī citām dzelzceļa darbībā iesaistītajām juridiskajām un fiziskajām personām ir jānodrošina Dzelzceļa tehniskās ekspluatācijas noteikumu ievērošana un jāgarantē satiksmes drošība. Dzelzceļa satiksmes drošības prasības ir saistošas arī citām juridiskajām un fiziskajām personām, kuru darbība notiek tiešā dzelzceļa tuvumā un var apdraudēt dzelzceļa satiksmes drošību.

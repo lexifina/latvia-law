@@ -1,7 +1,7 @@
 39.pants. Dzelzceļa objektu apsargāšana
 (1) Juridisko vai fizisko personu īpašumā vai valdījumā esošu dzelzceļa objektu apsargāšanu, arī pārvadājumu veikšanas laikā, organizē to īpašnieks.
-(2) Dzelzceļa objekti ir kravas un citas vērtības, dzelzceļa uzņēmuma (uzņēmējsabiedrības) teritorija, būves, celtnes, telpas, ritošais sastāvs un iekārtas.
-(3) Valsts publiskās lietošanas dzelzceļa infrastruktūras objektu apsargāšana ir obligāta.
+(2) Dzelzceļa objekti ir kravas un citas vērtības, dzelzceļa komercsabiedrības teritorija, būves, celtnes, telpas, ritošais sastāvs un iekārtas.
+(3) Valsts publiskās lietošanas dzelzceļa infrastruktūras objektu apsargāšana ir obligāta. Ministru kabinets nosaka obligāti apsargājamo valsts publiskās lietošanas dzelzceļa infrastruktūras objektu sarakstu un šo objektu apsargāšanas kārtību.
 (4) Personām, kas apsargā dzelzceļa objektus, ir formas tērpi, atšķirības zīmes un apliecības.
 (5) Personām, kas apsargā dzelzceļa objektus, ir tiesības:
 1) prasīt, lai personas pārtrauc likumpārkāpumus un ievēro apsargājamā objektā noteikto kārtību;

@@ -7,5 +7,5 @@
 4) kredīti;
 5) valsts budžeta līdzekļi.
 (3) (Izslēgta ar 11.11.1999. likumu.)
-(4) Dzelzceļa infrastruktūras fonda turētāja ir Satiksmes ministrija.
-(5) Dzelzceļa infrastruktūras fonda darbību reglamentē Ministru kabineta apstiprinātais dzelzceļa infrastruktūras fonda nolikums.
+(4) (Izslēgta ar 04.03.2004. likumu.)
+(5) Dzelzceļa infrastruktūras fonda ieņēmumu tāmi un izdevumu tāmi apstiprina satiksmes ministrs.

@@ -1,0 +1,1 @@
+11. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2004.gada 1.jūnijam ir piemērojami Ministru kabineta 1998.gada 20.oktobra noteikumi nr.410 "Metodika stratēģiskās un reģionālās nozīmes dzelzceļa infrastruktūras iedalījumam kategorijās", ciktāl tie nav pretrunā ar šo likumu.

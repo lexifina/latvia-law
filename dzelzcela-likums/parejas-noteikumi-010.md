@@ -1,0 +1,1 @@
+10. Ministru kabinets divu mēnešu laikā pēc tam, kad pieņemts lēmums par iekļaušanos Eiropas ātrgaitas vai parasto dzelzceļu sistēmā, izdod noteikumus par kārtību, kādā tiek nodrošināta ātrgaitas un parasto dzelzceļu sistēmu savietojamība, un to, kāda informācija par Eiropas dzelzceļa sistēmām iekļaujama reģistrā, kā arī šīs informācijas aktualizēšanas un publicēšanas kārtību.

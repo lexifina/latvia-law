@@ -1,0 +1,1 @@
+9. Ministru kabinets sešu mēnešu laikā pēc šā likuma stāšanās spēkā izdod šā likuma 7.panta otrajā daļā, 16.panta otrajā daļā, 35.¹ panta otrajā daļā, 39.panta trešajā daļā un 40.panta trešajā daļā paredzētos noteikumus.

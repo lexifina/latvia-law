@@ -1,5 +1,5 @@
 25.pants. Dzelzceļa pārvadājumu pasūtījuma līguma saturs
-(1) Dzelzceļa pārvadājumu pasūtījuma līgumā norāda:
+(1) Dzelzceļa pārvadājumu pasūtījuma līgumā, kas noslēgts saskaņā ar šā likuma 24.pantu, norāda:
 1) sniedzamo pakalpojumu veidu un to tehniskos datus;
 2) sniedzamo pakalpojumu izpildes kārtību;
 3) samaksu pārvadātājam par sniegtajiem pakalpojumiem vai kompensāciju par zaudējumiem, kas radušies sakarā ar pakalpojumu sniegšanu;
