@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Speciālo atļauju (licenču) un atļauju darbībām ar jonizējošā starojuma avotiem izsniegšanas kārtība un kārtība, kādā publiski apspriežama valsts nozīmes jonizējošā starojuma objektu izveidošana vai būtisku pārmaiņu veikšana tajos",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "106",
+  "official_journal_page": null,
+  "official_journal_date": "2001-07-10",
+  "entry_into_force": "2001-07-11",
+  "notification_date": "2004-02-27",
+  "commission_reference": "MNE(2003)50312",
+  "nim_celex": "71992L0003LVA_20312",
+  "nim_id": "20312",
+  "transposes_celex": [
+    "31992L0003",
+    "31996L0029",
+    "31997L0043",
+    "32003L0122"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/63aaa543-20e5-47bf-a4e1-a620a1c7f7a6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
