@@ -1,4 +1,4 @@
-98.pants. Tiesnešu kvalifikācijas klases
+98. pants. Tiesnešu kvalifikācijas klases
 (1) Tiesnesim pēc atestācijas nokārtošanas var piešķirt piekto, ceturto, trešo, otro vai pirmo kvalifikācijas klasi šādā secībā:
 1) piekto kvalifikācijas klasi - pēc trim amatā nostrādātiem gadiem;
 2) ceturto kvalifikācijas klasi - pēc trim amatā ar piekto kvalifikācijas klasi nostrādātiem gadiem;
@@ -11,4 +11,4 @@
 (5) Par apgabaltiesas tiesnesi var strādāt tiesnesis ar trešo, otro vai pirmo kvalifikācijas klasi.
 (6) Par Augstākās tiesas tiesnesi var strādāt tiesnesis ar otro vai pirmo kvalifikācijas klasi.
 (7) Zemesgrāmatu nodaļas tiesnesim var piešķirt piekto, ceturto un trešo kvalifikācijas klasi.
-(8) Ja tiesnesis pāriet no augstākas tiesas uz zemāka līmeņa tiesu, viņam piešķirtā kvalifikācijas klase tiek saglabāta.
+(8) Ja tiesnesis pāriet no augstākas tiesas uz zemāka līmeņa tiesu, viņam piešķirtā kvalifikācijas klase un mēneša amatalga tiek saglabāta.

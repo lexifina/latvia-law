@@ -22,7 +22,7 @@ e) Rīgas pilsētas Latgales priekšpilsētas tiesa,
 f) Rīgas pilsētas Vidzemes priekšpilsētas tiesa,
 g) Rīgas pilsētas Zemgales priekšpilsētas tiesa,
 h) Rīgas pilsētas Ziemeļu rajona tiesa,
-i) Rīgas rajona tiesa,
+I) Rīgas rajona tiesa,
 j) Siguldas tiesa;
 4) Vidzemes apgabaltiesas darbības teritorijā:
 a) Alūksnes rajona tiesa,
@@ -38,5 +38,7 @@ b) Bauskas rajona tiesa,
 c) Dobeles rajona tiesa,
 d) Jelgavas tiesa,
 e) Jēkabpils rajona tiesa,
-f) Tukuma rajona tiesa.
-(2) Rīgas pilsētas, Rīgas rajona un Siguldas tiesu rajonu teritorijas nosaka tieslietu ministrs.
+f) Tukuma rajona tiesa;
+6) Administratīvās apgabaltiesas darbības teritorijā:
+administratīvā rajona tiesa.
+(2) Administratīvās apgabaltiesas, administratīvās rajona tiesas, Rīgas pilsētas, Rīgas rajona un Siguldas tiesu rajonu teritorijas nosaka tieslietu ministrs.
