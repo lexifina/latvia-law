@@ -1,0 +1,32 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Pārtikas aprites uzraudzības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "60/61",
+  "official_journal_page": null,
+  "official_journal_date": "1998-03-06",
+  "entry_into_force": null,
+  "notification_date": "2004-02-19",
+  "commission_reference": "MNE(2003)50258",
+  "nim_celex": "71975L0440LVA_20258",
+  "nim_id": "20258",
+  "transposes_celex": [
+    "31975L0440",
+    "31980L0766",
+    "31980L0777",
+    "31984L0500",
+    "31988L0388",
+    "31989L0109",
+    "31989L0397",
+    "31993L0008",
+    "31993L0010",
+    "31993L0011",
+    "31998L0083"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a0891e4e-434f-492f-a076-f06b9c0290bd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
