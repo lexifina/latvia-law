@@ -1,1 +1,1 @@
-2. Šā likuma noteikumi nav attiecināmi uz darbiniekiem, par kuru darba devēju ir pieņemts lēmums uzsākt bankrota procedūru līdz šā likuma spēkā stāšanās dienai.
+2. Šā likuma noteikumi nav attiecināmi uz tiem darbiniekiem, par kuru darba devēja maksātnespējas stāvokļa risinājumu lēmums ir pieņemts līdz šā likuma spēkā stāšanās dienai.
