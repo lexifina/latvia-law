@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta noteikumi nr.140 "Noteikumi par nekustamo īpašumu ierakstīšanu zemesgrāmatās" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 11.nr.).
