@@ -1,0 +1,4 @@
+18. Lietu tiesības - ieskaitot valdījumu - noteicamas pēc lietas atrašanās vietas likuma.
+Kustamas mantas atrašanās vietai mainoties, neskartas paliek trešo personu lietu tiesības, kas iegūtas pēc šās mantas iepriekšējās atrašanās vietas likumiem.
+Ieilguma un noilguma sekas lietu tiesībās apspriežamas pēc tās vietas likuma, kur lieta atrodas termiņam notekot.
+Lietu tiesību iegūšana, pārgrozīšana vai izbeigšana, ja tās attiecas uz Latvijā esošu nekustamu mantu, kā arī no tiesiskiem darījumiem izrietošas saistību tiesības, uz kuru pamata šādas lietu tiesības var iegūt, pārgrozīt vai izbeigt, formas un satura ziņā noteicamas vienīgi pēc Latvijas likuma vienalga, kādas personas un kur taisījušas attiecīgos tiesiskos darījumus. Pretēji noteikumi un formas šajos tiesiskos darījumos Latvijā nav spēkā.
