@@ -1,0 +1,6 @@
+21.pants. Citi atbrīvojumi
+(1) No nodokļa ir atbrīvotas akcīzes preces, kas zudušas nepārvaramas varas dēļ, ja ir pierādījumi, kas apstiprināti ar atbilstošiem attiecīgo valsts uzraudzības un kontroles iestāžu izsniegtajiem dokumentiem par to, ka konkrētais iztrūkums nav radies nodokļa maksātāja vainas dēļ.
+(2) No nodokļa ir atbrīvotas akcīzes preces, kas zudušas ražošanas, apstrādes, uzglabāšanas vai pārvietošanas laikā, kad piemērota atliktā nodokļa maksāšana saskaņā ar Ministru kabineta apstiprinātajām normām.
+(3) Ministru kabineta noteiktajā kārtībā no nodokļa atbrīvo akcīzes preces, kuras fiziskā persona ieved savam patēriņam Latvijas Republikā no citām dalībvalstīm.
+(4) No nodokļa atbrīvo akcīzes preces, kuras fiziskā persona ieved no ārvalsts, kas nav dalībvalsts, no teritorijām, kuras minētas direktīvas 92/12/EEC 2.panta pirmajā, otrajā vai trešajā daļā, no Ālandu salām vai Normandijas salām un kuras ir atbrīvotas no muitas nodokļa.
+(5) No nodokļa atbrīvo akcīzes preces, kuras fiziskā persona no ārvalsts, kas nav dalībvalsts, no teritorijām, kuras minētas direktīvas 92/12/EEC 2.panta pirmajā, otrajā vai trešajā daļā, no Ālandu salām vai Normandijas salām nosūta pa pastu fiziskajai personai Latvijas Republikā un kuras ir atbrīvotas no muitas nodokļa.

@@ -1,0 +1,3 @@
+10. Šā likuma pārejas noteikumu 8.punkta prasības par akcīzes nodokļa starpības aprēķināšanu un samaksu nav attiecināmas uz šādiem naftas produktiem:
+1) svinu nesaturošu benzīnu, tā aizstājējproduktiem un komponentiem, ja tiem pievienots etilspirts, kas iegūts no lauksaimniecības izejvielām un kas ir dehidratēts (ar spirta saturu vismaz 99,5 tilpumprocenti) un denaturēts, - vismaz 4,5 tilpumprocenti no kopējā naftas produktu daudzuma;
+2) dīzeļdegvielu (gāzeļļu), tās aizstājējproduktiem un komponentiem, ja tiem pievienota no rapša sēklu eļļas iegūta biodīzeļdegviela un biodīzeļdegviela veido 5 un vairāk tilpumprocentus no kopējā naftas produktu daudzuma.

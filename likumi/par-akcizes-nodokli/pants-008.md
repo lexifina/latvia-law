@@ -1,0 +1,11 @@
+8.pants. Noliktavas turētājs
+(1) Noliktavas turētājs var veikt darbības ar akcīzes precēm akcīzes preču noliktavā, piemērojot tām atlikto nodokļa maksāšanu.
+(2) Noliktavas turētājs uzskaita, reģistrē un atbild par jebkurām darbībām ar akcīzes precēm akcīzes preču noliktavā.
+(3) Akcīzes precēm, kuras atrodas akcīzes preču noliktavā, piemēro atlikto nodokļa maksāšanu. Līdz brīdim, kad par akcīzes precēm ir samaksāts nodoklis vai tās ir atbrīvotas no nodokļa maksāšanas saskaņā ar šo likumu, iesniedzams nodrošinājums.
+(4) Tikai akcīzes preču noliktavā atļauta:
+1) akcīzes preču ražošana, apstrāde un pārstrāde;
+2) akcīzes preču fasēšana;
+3) naftas produktu sajaukšana (arī sajaukšana ar citām vielām, kas nav naftas produkti šā likuma izpratnē) un jebkuras citas ar naftas produktiem veiktās darbības, kuru rezultātā tie maina savas ekspluatācijas, fizikālās vai ķīmiskās īpašības;
+4) akcīzes preču uzglabāšana, piemērojot akcīzes precēm atlikto nodokļa maksāšanu, izņemot šā likuma 2.panta ceturtajā daļā minētos gadījumus;
+5) citas darbības, kas nav minētas šīs daļas 1., 2., 3. un 4.punktā, piemērojot akcīzes precēm atlikto nodokļa maksāšanu, izņemot šā likuma 2.panta ceturtajā daļā minētos gadījumus.
+(5) Lai izveidotu un turētu akcīzes preču noliktavu, iesniedzams šā likuma 31.pantā noteiktais vispārējais nodrošinājums.

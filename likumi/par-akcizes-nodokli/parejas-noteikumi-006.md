@@ -1,0 +1,1 @@
+6. Līdz 2004.gada 31.decembrim šā likuma 1.panta otrās daļas 2.punkts, 23.panta trīspadsmitā, četrpadsmitā un piecpadsmitā daļa, 27.pants un citi nosacījumi par akcīzes nodokļa markām attiecas tikai uz cigaretēm, bet neattiecas uz citiem tabakas izstrādājumiem.

@@ -1,0 +1,2 @@
+X nodaļa
+Nodrošinājums

@@ -1,0 +1,1 @@
+5. Līdz dienai, kad stājas spēkā šā likuma 13.panta pirmās daļas 3.punkta "a" apakšpunktā noteiktā nodokļa likme smalki sagrieztai tabakai cigarešu uztīšanai, to apliek ar nodokli - 19 lati par 1000 gramiem tabakas.

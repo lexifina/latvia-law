@@ -1,0 +1,1 @@
+9. Laikposmā no 2004.gada 1.aprīļa līdz 2004.gada 30.aprīlim likuma 2.panta sestā daļa un septītās daļas 1.punkts, kā arī 31. un 32.pants ir piemērojams, lai realizētu pāreju uz šā likuma prasībām atbilstošām licencēm un nodrošinājumiem un nodrošinātu to spēkā esamību no 2004.gada 1.maija.

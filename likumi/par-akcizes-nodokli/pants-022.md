@@ -1,0 +1,9 @@
+22.pants. Nodokļa aprēķināšana
+(1) Nodokli akcīzes precēm aprēķina pēc šā likuma 12., 13., 14. un 15.pantā noteiktajām likmēm.
+(2) Aprēķinot nodokli, šā likuma 12.panta 5.punktā minēto alkoholisko dzērienu daudzums litros Ministru kabineta paredzētajā kārtībā nosakāms atbilstoši to daudzumam 20°C.
+(3) Cigaretēm nodokli aprēķina, summējot lielumus, kas iegūti, piemērojot šā likuma 13.panta pirmās daļas 2.punkta "a" un "b" apakšpunktā noteiktās nodokļa likmes.
+(4) Ja nav zināma cigarešu maksimālā mazumtirdzniecības cena, nodokli 32.pantā noteiktajos gadījumos vai citos šajā likumā noteiktajos gadījumos aprēķina, summējot lielumus, kas iegūti, piemērojot šā likuma 13.panta pirmās daļas 2.punkta "a" un "b" apakšpunktā noteiktās nodokļa likmes, un nodokļa aprēķināšanai izmanto vienu no šādām cenām:
+1) importētāja vai noliktavas turētāja Latvijas Republikā, vai citas dalībvalsts noliktavas turētāja vai pārsūtītājtirgotāja ieceltā nodokļa maksātāja pārstāvja iepriekšējā taksācijas periodā visbiežāk noteikto maksimālo mazumtirdzniecības cenu, bet ne mazāku par vispieprasītāko mazumtirdzniecības cenu iepriekšējā kalendāra gadā, ja nodokli maksā importētājs vai noliktavas turētājs Latvijas Republikā vai citas dalībvalsts noliktavas turētāja vai pārsūtītājtirgotāja ieceltais nodokļa maksātāja pārstāvis;
+2) cigarešu faktisko pārdošanas cenu, bet ne mazāku par vispieprasītāko mazumtirdzniecības cenu iepriekšējā kalendāra gadā, ja nodokli maksā cita persona, nevis importētājs vai noliktavas turētājs Latvijas Republikā vai citas dalībvalsts noliktavas turētāja vai pārsūtītājtirgotāja ieceltais nodokļa maksātāja pārstāvis;
+3) vispieprasītāko mazumtirdzniecības cenu iepriekšējā kalendāra gadā, ja nevar noteikt šīs daļas 1. vai 2.punktā minēto cenu.
+(5) Aprēķinot nodokli, šā likuma 14.panta pirmās daļas 1., 2., 3., 4. un 6.punktā minēto naftas produktu daudzums litros Ministru kabineta paredzētajā kārtībā nosakāms atbilstoši to daudzumam 15°C.
