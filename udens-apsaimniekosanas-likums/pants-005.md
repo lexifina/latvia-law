@@ -11,5 +11,5 @@
 (10) Ministru kabinets nosaka:
 1) virszemes ūdensobjektu tipu raksturojumu un tam atbilstošu virszemes ūdensobjektu klasifikāciju, kā arī antropogēno slodžu noteikšanas kārtību;
 2) pazemes ūdensobjektu klases un klasificēšanas kritērijus, antropogēno slodžu noteikšanas kārtību, kā arī pazemes ūdens resursu apzināšanas kārtību;
-3) pazemes un virszemes ūdens kvalitātes kritērijus, arī augstas, labas un vidējas ūdens kvalitātes kritērijus;
+3) virszemes ūdeņu augstas, labas, vidējas, sliktas un ļoti sliktas ekoloģiskās kvalitātes kritērijus un labas un sliktas ķīmiskās kvalitātes kritērijus, kā arī pazemes ūdeņu labas un sliktas ķīmiskās kvalitātes kritērijus;
 4) prioritāro vielu sarakstu un to emisijas ierobežošanas kārtību.

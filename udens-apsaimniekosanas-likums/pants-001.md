@@ -2,7 +2,7 @@
 Likumā ir lietoti šādi termini:
 1) aizsargājamās teritorijas - teritorijas, kuras paredzētas ūdens ieguvei cilvēku patēriņam, teritorijas, kuras izveidotas bioloģisko resursu aizsardzībai, ūdensobjekti, kuri atzīti par rekreācijas objektiem vai peldūdeņiem, īpaši jutīgas teritorijas, kā arī īpaši aizsargājamas dabas teritorijas;
 2) apakšbaseins - zemes platība (teritorija), no kuras visi virszemes noteces ūdeņi pa strautiem, upēm un ezeriem nonāk kādā konkrētā ūdensteces vietā (parasti ezerā vai upju satekā);
-3) ekoloģiskās un ķīmiskās kvalitātes rādītāji - ūdensobjekta hidroloģiskās, bioloģiskās, fizikālās un ķīmiskās īpašības, pēc kuru kvantitatīvajām vai kvalitatīvajām vērtībām var spriest par ūdeņu kvalitāti (atbilstību augstai, labai, vidējai vai sliktai kvalitātei);
+3) ekoloģiskās un ķīmiskās kvalitātes rādītāji - ūdensobjekta hidroloģiskās, bioloģiskās, fizikālās un ķīmiskās īpašības, pēc kuru kvantitatīvajām vai kvalitatīvajām vērtībām var spriest par ūdeņu kvalitāti;
 4) emisijas ierobežošana - pasākumi, kas nodrošina emisijas limitēšanu, arī emisijas robežvērtības vai ierobežojumi un nosacījumi emisijas ietekmei, raksturam vai citām tās iezīmēm vai piesārņojošās darbības norises apstākļiem, kas ietekmē emisiju;
 5) ezers - dabiska ūdenstilpe sauszemes padziļinājumā (ezerdobē) ar palēninātu ūdensapmaiņu;
 6) iekšzemes ūdeņi - visi stāvošie un tekošie ūdeņi uz zemes virsmas, kā arī visi pazemes ūdeņi uz sauszemes pusi no bāzes līnijas (pamatlīnijas, no kuras mēra teritoriālās jūras ūdeņus) (turpmāk - teritoriālie ūdeņi);
@@ -21,5 +21,5 @@ Likumā ir lietoti šādi termini:
 19) ūdens videi īpaši bīstamas vielas - ķīmiskās vielas vai vielu grupas, kas ir toksiskas, noturīgas vidē un spējīgas uzkrāties dzīvo organismu audos, kā arī citas vielas vai vielu grupas, kurām ir līdzīga iedarbība;
 20) ūdens resursu lietošana - virszemes un pazemes ūdens resursu izmantošana iedzīvotāju un tautsaimniecības vajadzībām (ūdens ieguve, uzkrāšana, sagatavošana lietošanai, sadale un lietošana, notekūdeņu attīrīšana un novadīšana virszemes ūdensobjektos vai zemes dzīlēs), kā arī citas saimnieciskās, tai skaitā piesārņojošas darbības, kuras var būtiski ietekmēt virszemes vai pazemes ūdeņu kvalitāti un kvantitāti;
 21) ūdens resursu lietotājs - ikviena fiziskā vai juridiskā persona, kas iegūst ūdeņus vai lieto tos saimnieciskajā darbībā;
-22) virszemes ūdensobjekts - nodalīts un nozīmīgs virszemes ūdens hidrogrāfiskā tīkla elements: ūdenstece (upe, strauts, kanāls, grāvis vai to daļa), ūdenstilpe (ezers, dīķis, ūdenskrātuve vai to daļa), kā arī pārejas ūdeņi vai piekrastes ūdeņu posms;
+22) virszemes ūdensobjekts - nodalīts un nozīmīgs virszemes ūdens hidrogrāfiskā tīkla elements: ūdenstece (upe, strauts, kanāls vai to daļa), ūdenstilpe (ezers, dīķis, ūdenskrātuve vai to daļa), kā arī pārejas ūdeņi vai piekrastes ūdeņu posms;
 23) virszemes ūdeņi - visi iekšzemes ūdeņi (izņemot pazemes ūdeņus), pārejas ūdeņi un piekrastes ūdeņi, bet attiecībā uz ķīmisko kvalitāti - arī teritoriālie ūdeņi.

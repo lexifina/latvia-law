@@ -1,5 +1,5 @@
 21.pants. Darbības, kurām nepieciešama atļauja ūdens resursu lietošanai
-(1) Reģionālās vides pārvaldes izsniedz atļauju ūdens resursu lietošanai šādām darbībām, kuras ietekmē vai var ietekmēt ūdens kvalitāti, daudzumu vai ekosistēmas un kuras nav A vai B kategorijas piesārņojošās darbības:
+(1) Reģionālās vides pārvaldes 60 dienu laikā no iesnieguma saņemšanas dienas izsniedz atļauju ūdens resursu lietošanai šādām darbībām, kuras ietekmē vai var ietekmēt ūdens kvalitāti, daudzumu vai ekosistēmas un kuras nav A vai B kategorijas piesārņojošās darbības:
 1) hidrotehnisko būvju darbībai;
 2) virszemes vai pazemes ūdeņu ieguvei;
 3) ūdens ievadīšanai, lai paaugstinātu pazemes ūdeņu līmeni, un ūdens novadīšanai, lai šo līmeni pazeminātu, un ar to saistītām darbībām;
