@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Transportlīdzekļu vadītāju kvalifikācijas iegūšanas kārtība un vadītāja apliecības izsniegšanas, apmaiņas un atjaunošanas kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-01",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-07-07",
+  "commission_reference": "MNE(2004)59628",
+  "nim_celex": "71991L0439LVA_29628",
+  "nim_id": "29628",
+  "transposes_celex": [
+    "31991L0439",
+    "31996L0047",
+    "31997L0026",
+    "32000L0056"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/64d1d8d8-b706-4131-8f45-a89d954da47a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
