@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Par Krimināllikuma spēkā stāšanās un piemērošanas kārtību",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "331/332",
+  "official_journal_page": null,
+  "official_journal_date": "1998-11-04",
+  "entry_into_force": "1998-11-05",
+  "notification_date": "2026-07-14",
+  "commission_reference": "MNE(2026)05472",
+  "nim_celex": "72024L1712LVA_202605472",
+  "nim_id": "202605472",
+  "transposes_celex": [
+    "32024L1712"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b3537a1f-4fca-4e0d-8949-9430d459582d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
