@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums \"Par pašvaldībām\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "61 (192)",
+  "official_journal_page": null,
+  "official_journal_date": "1994-05-24",
+  "entry_into_force": "1994-06-09",
+  "notification_date": "2015-06-11",
+  "commission_reference": "MNE(2015)54331",
+  "nim_celex": "72012L0027LVA_227350",
+  "nim_id": "227350",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2ae750ee-0431-4dc6-9754-1f50e12d817a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
