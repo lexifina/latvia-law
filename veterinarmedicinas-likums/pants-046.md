@@ -1,0 +1,2 @@
+46.pants. (1) Kautuves īpašnieks slēdz līgumu ar Pārtikas un veterinārā dienesta direktoru par veterinārās ekspertīzes veikšanu un nodrošina tās veikšanai nepieciešamos darba apstākļus.
+(2) Zvejas kuģa, zvejas saldētājkuģa vai zvejas produktu apstrādes kuģa turētājs slēdz līgumu ar Pārtikas un veterinārā dienesta direktoru par veterinārās ekspertīzes veikšanu pēc zvejas produktu izkraušanas krastā vai pirms to pārdošanas un nodrošina ekspertīzes veikšanai nepieciešamos darba apstākļus.

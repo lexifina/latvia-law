@@ -1,0 +1,1 @@
+24.pants. Par pārvadāšanas laikā dzīvniekiem konstatēto saslimšanu atbildīgā persona saskaņā ar normatīvo aktu prasībām ziņo attiecīgās teritorijas valsts vecākajam pārtikas un veterinārajam inspektoram, kas, ja nepieciešams, kopā ar dzelzceļa, ostas, lidostas administrāciju vai Valsts ceļu policiju organizē dzīvnieku karantinēšanu.

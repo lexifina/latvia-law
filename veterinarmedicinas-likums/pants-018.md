@@ -1,0 +1,1 @@
+18.pants. Valsts uzraudzībā esošo dzīvnieku infekcijas slimību uzraudzības programmas īstenošanai Pārtikas un veterinārā dienesta attiecīgās teritoriālās struktūrvienības vadītājs konkursa kārtībā pilnvaro praktizējošus veterinārārstus. Konkursa noteikumus un pilnvarojuma līguma veidlapas paraugu apstiprina Pārtikas un veterinārā dienesta direktors.

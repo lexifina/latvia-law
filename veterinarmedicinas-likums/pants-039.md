@@ -1,0 +1,2 @@
+39.pants. (1) Dzīvnieku turētāju asociācijām un dzīvnieku izcelsmes produktu ražotāju un pārstrādātāju asociācijām ir tiesības izstrādāt dzīvnieku infekcijas slimību (kuras nav valsts uzraudzībā) apkarošanas programmas.
+(2) Dzīvnieku turētāju asociācijas un dzīvnieku izcelsmes produktu ražotāju un pārstrādātāju asociācijas izstrādātās programmas saskaņo ar Pārtikas un veterinārā dienesta direktoru.

@@ -1,0 +1,1 @@
+31.pants. Ja pastāv draudi, ka epizootija var izplatīties tālāk Latvijā vai tās kaimiņvalstīs, Ministru kabinets uzdod valsts robežsardzei uz laiku ierobežot vai pārtraukt satiksmi pāri valsts robežai.

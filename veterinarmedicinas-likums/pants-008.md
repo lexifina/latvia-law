@@ -1,0 +1,6 @@
+8.pants. Pārtikas un veterinārā dienesta pārtikas un veterināro inspektoru tiesības atbilstoši viņu kompetencei ir šādas:
+1) bez iepriekšēja brīdinājuma apmeklēt valsts veterinārās uzraudzības objektus, pieprasīt dokumentus un informāciju, ņemt paraugus laboratoriskai izmeklēšanai saskaņā ar valsts uzraudzības programmām vai gadījumos, kad ir aizdomas par dzīvnieku saslimšanu ar valsts uzraudzībā esošām dzīvnieku infekcijas slimībām un aizdomas vai sūdzības par normatīvo aktu pārkāpumiem;
+2) apturēt valsts veterinārās uzraudzības objektu darbību, arī apturēt vai aizliegt rīkot dzīvnieku sacensības, tirgus, izsoles, izstādes un citus pasākumus ar dzīvnieku piedalīšanos, ja ir aizdomas par dzīvnieku iespējamu saslimšanu ar infekcijas slimību un pastāv draudi cilvēku vai dzīvnieku veselībai, kā arī gadījumos, kad ir pārkāptas normatīvo aktu prasības;
+3) pārkāpumu gadījumos administratīvi sodīt personas normatīvajos aktos noteiktajā kārtībā;
+4) ja nepieciešams, pieaicināt policiju un citu tiesībaizsardzības institūciju darbiniekus, lai nodrošinātu savu uzdevumu izpildi;
+5) apturēt dzīvnieku izcelsmes produktu realizēšanu, ja tā rada draudus cilvēku vai dzīvnieku veselībai, kā arī kontrolēt attiecīgo produktu likvidāciju vai utilizāciju.

@@ -1,0 +1,1 @@
+29.pants. Epizootijas uzliesmojuma tālākas izplatības draudu gadījumā Ministru kabinets pēc valsts galvenā pārtikas un veterinārā inspektora priekšlikuma ap uzraudzības zonu nosaka kontrolējamo teritoriju, kurā tiek veikta dzīvnieku piespiedu vakcinācija.

@@ -1,0 +1,1 @@
+36.pants. Valsts uzraudzībā esošās dzīvnieku infekcijas slimības (izņemot epizootijas) apkaro dzīvnieku īpašnieks kopā ar Pārtikas un veterinārā dienesta amatpersonām un praktizējošiem veterinārārstiem saskaņā ar Ministru kabineta noteikumiem un zemkopības ministra apstiprinātajām dzīvnieku infekcijas slimību apkarošanas instrukcijām.

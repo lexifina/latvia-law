@@ -1,0 +1,1 @@
+13.pants. Pārtikas un veterinārā dienesta pārtikas un veterināro inspektoru iekasēto soda naudu par administratīvajiem pārkāpumiem, kā arī līdzekļus, kas iegūti, realizējot likumā noteiktajā kārtībā konfiscēto mantu, preces vai citus priekšmetus, ieskaita valsts budžetā.

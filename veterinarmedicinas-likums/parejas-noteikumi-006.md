@@ -1,0 +1,1 @@
+6. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par veterinārmedicīnu" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 29./31.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 4.nr.; 1995, 3.nr.; 1996, 24.nr.; 1997, 16.nr.).

@@ -1,0 +1,3 @@
+17.pants. (1) Ministru kabinets katru gadu apstiprina valsts uzraudzībā esošo dzīvnieku infekcijas slimību uzraudzības programmu un iekļauj valsts budžeta projektā tai paredzētos līdzekļus.
+(2) Pārtikas un veterinārais dienests saskaņā ar valsts uzraudzībā esošo dzīvnieku infekcijas slimību uzraudzības programmu aprēķina nepieciešamo veterinārbioloģisko preparātu un dezinfekcijas līdzekļu daudzumu un pasūta tos normatīvajos aktos noteiktajā kārtībā.
+(3) Veterinārbioloģiskos preparātus un dezinfekcijas līdzekļus to dzīvnieku infekcijas slimību profilaksei, kuras nav valsts uzraudzībā, praktizējoši veterinārārsti iegādājas veterinārfarmaceitiskās darbības uzņēmumos (uzņēmējsabiedrībās).

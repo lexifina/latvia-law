@@ -1,0 +1,1 @@
+22.pants. Ja pastāv draudi, ka savvaļas dzīvnieki var pārnest dzīvnieku infekcijas slimības mājdzīvniekiem, Valsts meža dienests, ņemot vērā valsts galvenā pārtikas un veterinārā inspektora ieteikumu, sadarbībā ar zemes īpašnieku vai lietotāju organizē savvaļas dzīvnieku atšaušanu.
