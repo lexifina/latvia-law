@@ -1,0 +1,2 @@
+86.pants. Valsts kuģi
+Latvijas valstij piederošiem kuģiem, kuri var pārvadāt vairāk nekā 2000 tonnu naftas, piemēro šā kodeksa 85.panta pirmajā daļā paredzēto noteikumu, bet obligātās civiltiesiskās atbildības apdrošināšanas vai citas finansiālās atbildības nodrošinājuma vietā kuģim var būt kuģu reģistratora izsniegtā apliecība par to, ka kuģis pieder valstij un ka atbildība ir segta līdz ierobežojuma apjomam. Satiksmes ministrs var noteikt šādas apliecības formu.

@@ -1,0 +1,1 @@
+3. Līdz šā kodeksa spēkā stāšanās dienai Kuģu reģistrā reģistrētie kuģi, kuru īpašnieki neatbilst šā kodeksa 4.panta pirmās daļas prasībām, saglabā reģistrāciju Kuģu reģistrā arī pēc šā kodeksa spēkā stāšanās, bet ne ilgāk kā līdz 2004.gada 1.janvārim.

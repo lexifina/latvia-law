@@ -1,0 +1,2 @@
+87.pants. Noteikumu neievērošanas sekas
+Ja kuģim nav apliecības par obligāto civiltiesiskās atbildības apdrošināšanu vai citu finansiālās atbildības nodrošinājumu vai šā kodeksa 86.pantā minētās apliecības, ostas valsts kontroles inspektors var aizliegt kuģim iziet no Latvijas ostas, ieiet citā iekraušanas vai izkraušanas vietā Latvijā vai iziet no tās vai arī pieprasīt, lai kuģis izkrauj kravu vai atstāj Latvijas ūdeņus.

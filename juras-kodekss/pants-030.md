@@ -1,0 +1,4 @@
+30.pants. Kuģa vai tā daļas hipotēka
+(1) Reģistrētu kuģi vai tā daļu drīkst izmantot kā prasījuma nodrošinājumu, par to noformējot kuģa obligāciju. Kuģa vai tā daļas obligācija kļūst par kuģa hipotēku un stājas spēkā ar brīdi, kad tā reģistrēta kuģu reģistra grāmatā. Kuģa obligācijā iekļauj ziņas par kuģa kreditoru un nodrošinātā prasījuma apmēru.
+(2) Kuģu reģistrators reģistrē kuģu obligācijas tādā secībā, kādā tās tiek uzrādītas, uz katras obligācijas norādot dienu un stundu, kad izdarīts attiecīgais ieraksts. Kuģa hipotekāro kreditoru prioritāti nosaka obligācijas reģistrācijas secība kuģu reģistra grāmatā. Prasījuma tiesību pāreja vai maiņa neietekmē kuģa hipotēkas prioritāti.
+(3) Kuģa hipotekāro kreditoru uz hipotēkas pamata nevar uzskatīt par kuģa vai tā daļas īpašnieku, tāpat nevar uzskatīt, ka hipotekārais parādnieks uz šā pamata būtu zaudējis īpašuma tiesības uz kuģi, izņemot gadījumus, kad ieķīlāto kuģi vai tā daļu pārdod kuģa hipotēkas parāda dzēšanai.

@@ -1,0 +1,3 @@
+197.pants. Tiesības atkāpties no fraktēšanas līguma
+(1) Ja iestājas šā kodeksa 196.panta trešajā daļā minētie apstākļi, pārvadātājam ir tiesības atkāpties no līguma, nekavējoties nosūtot paziņojumu reisa fraktētājam.
+(2) Ja reisa fraktētājs nepiegādā līgumā paredzēto kravu, pārvadātājs var noteikt saprātīgu termiņu, kurā reisa fraktētājs atlīdzina radušos zaudējumus vai sniedz nodrošinājumu. Ja noteiktajā termiņā prasība netiek apmierināta, pārvadātājam ir tiesības atkāpties no līguma un saņemt zaudējumu atlīdzību saskaņā ar šā kodeksa 196.pantu, izņemot gadījumu, kad reisa fraktētājs nav atbildīgs par kravas nepiegādāšanu.

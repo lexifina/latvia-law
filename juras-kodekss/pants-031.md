@@ -1,0 +1,3 @@
+31.pants. Būvniecības stadijā esošu kuģu ieķīlāšana
+(1) Ja līgumā nav noteikts citādi, tāda kuģa ieķīlāšana, kurš atrodas būvniecības stadijā vai kurš tiks būvēts Latvijā, attiecināma arī uz kuģa galvenajiem dzinējiem un lielākajām korpusa daļām, ja minētie dzinēji vai korpusa daļas tiek konstruētas vai atrodas galveno kuģubūvētāju teritorijā. Ja šīs daļas būvē citi Latvijas kuģubūvētāji, var vienoties, ka ieķīlāšana attiecas arī uz šīm daļām.
+(2) Ja līgumā nav noteikts citādi, ķīlas tiesības tiek attiecinātas arī uz materiāliem un iekārtām, kas atrodas galveno kuģubūvētāju teritorijā vai kuģu būvētavā, kur tiek konstruēti galvenie dzinēji vai jebkura cita liela korpusa daļa, ja vien materiāli un aprīkojums ir skaidri identificējami pēc to marķējuma vai citādā veidā.

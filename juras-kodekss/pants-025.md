@@ -1,0 +1,4 @@
+25.pants. Noilguma termiņš
+(1) Kuģa apgrūtinājumi uzskatāmi par spēkā neesošiem, un tos var dzēst no Kuģu reģistra, kad beidzies apgrūtinājumu turētāja prasības noilguma termiņš, ja dokumenti, uz kuru pamata apgrūtinājumi reģistrēti Kuģu reģistrā, neparedz citādi.
+(2) Cesijas ierakstīšana attiecībā uz iepriekš nodibinātu kuģa apgrūtinājumu nepārtrauc prasības noilguma termiņu, ja vien darījums, uz kura pamata notiek cesija, neietver apgrūtinājuma nodibināšanas nepārprotamu pārjaunojumu. Kuģa obligācijas summas palielinājums uzskatāms par šādu nepārprotamu pārjaunojumu. Ar pārjaunojuma ierakstīšanas datumu sākas jauns noilguma termiņš, kura ilgums ir tāds pats kā sākotnējais.
+(3) Šā kodeksa 12.panta pirmās daļas 1., 2. vai 3.punktā minētajos gadījumos kuģu reģistrators vienlaikus ar kuģa izslēgšanu no Kuģu reģistra dzēš visus reģistrētos kuģa apgrūtinājumus. Ja apgrūtinājumi dzēsti kļūdaini, piemēro šā kodeksa 22.panta noteikumus.

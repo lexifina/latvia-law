@@ -1,0 +1,3 @@
+192.pants. Atkāpšanās laiks
+(1) Ja saskaņā ar fraktēšanas līgumu kuģim jābūt sagatavotam iekraušanai noteiktā laikā (atkāpšanās laiks), reisa fraktētājam ir tiesības atkāpties no fraktēšanas līguma, ja kuģis nav sagatavots iekraušanai vai iepriekš nav nosūtīts attiecīgs paziņojums par kuģa gatavību iekraušanai.
+(2) Ja pārvadātājs nosūta fraktētājam paziņojumu par to, ka kuģis ieradīsies pēc noteiktā atkāpšanās laika, un norāda, kad kuģis būs sagatavots iekraušanai, reisa fraktētājam ir tiesības atkāpties no līguma, ja viņš to dara nekavējoties. Ja reisa fraktētājs neatkāpjas no līguma, jaunais atkāpšanās laiks ir pārvadātāja norādītais laiks, kad kuģis būs sagatavots iekraušanai.

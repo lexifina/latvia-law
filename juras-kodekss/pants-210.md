@@ -1,0 +1,5 @@
+210.pants. Kravas pārvadājumu grafika vai paziņojuma par iekraušanu neiesniegšanas sekas
+(1) Ja fraktētājs savlaicīgi neiesniedz paziņojumu par iekraušanu, pārvadātājs var noteikt konkrētu laiku šāda paziņojuma iesniegšanai. Ja paziņojums par iekraušanu netiek iesniegts, pārvadātājs pēc savas izvēles var iesniegt paziņojumu par kuģi saskaņā ar šā kodeksa 208.pantu un esošo iekraušanas grafiku vai atkāpties no līguma daļā par konkrēto reisu.
+(2) Ja paziņojuma savlaicīga neiesniegšana dod pamatu uzskatīt, ka turpmākie fraktētāja paziņojumi par iekraušanu būtiski aizkavēsies, pārvadātājam ir tiesības atkāpties no līguma daļā par atlikušajiem reisiem.
+(3) Pārvadātājam ir tiesības saņemt zaudējumu atlīdzību, izņemot gadījumu, kad aizkavēšanās iemesls ir šā kodeksa 196.panta trešajā daļā minētie apstākļi.
+(4) Ja fraktētājs savlaicīgi neiesniedz pārvadātājam kravas pārvadājumu grafiku, pārvadātājs var noteikt konkrētu termiņu šāda grafika iesniegšanai. Pēc noteiktā termiņa pārvadātājam ir tiesības atkāpties no līguma daļā par atlikušajiem reisiem, attiecīgi piemērojot šā panta trešās daļas noteikumu.

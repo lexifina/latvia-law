@@ -1,0 +1,1 @@
+1. Ar šā kodeksa spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta 1994.gada 16.augusta noteikumi nr.168 "Latvijas Jūrniecības noteikumi (Jūras kodekss)" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 20., 21., 22., 23.nr.).

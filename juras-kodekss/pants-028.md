@@ -1,0 +1,3 @@
+28.pants. Būvniecības stadijā esoša kuģa izslēgšana no attiecīgās kuģu reģistra grāmatas
+(1) Būvniecības stadijā esošu kuģi izslēdz no kuģu reģistra grāmatas, kurā reģistrē šādus kuģus, kad būvētājs ir nodevis kuģi ieguvējam vai, ja kuģis būvēts uz kuģubūvētāja rēķina, - kad kuģis ir gatavs ekspluatācijai un atbilst šā kodeksa 10.panta trešās daļas prasībām.
+(2) Ja būvniecības stadijā esoša kuģa apgrūtinājumi nav pārreģistrēti citā kuģu reģistra grāmatā, tos bez tiesību turētāja rakstveida piekrišanas nedrīkst izslēgt no kuģu reģistra grāmatas, kurā reģistrē būvniecības stadijā esošus kuģus. Šādā gadījumā apgrūtinājumi saglabā savu prioritāti, bet jaunas tiesības nedrīkst reģistrēt.

@@ -1,0 +1,3 @@
+212.pants. Frakts samaksas kavējumi
+(1) Ja frakts, kompensācija par demeredža laiku vai citi maksājumi saskaņā ar līgumu nav laikus veikti, pārvadātājs var noteikt konkrētu termiņu maksājumu veikšanai. Ja maksājumi noteiktajā termiņā netiek veikti, pārvadātājam ir tiesības apturēt līguma izpildi vai, ja aizkavēšanās rada būtisku līguma pārkāpumu, atkāpties no līguma.
+(2) Pabeidzot līgumā paredzēto reisu, pārvadātājam ir tiesības aizturēt kravu kā nodrošinājumu par saskaņā ar līgumu nopelnītajiem, bet nesaņemtajiem maksājumiem. Šā panta noteikumus attiecībā uz pārvadātāja izsniegtā konosamenta turētājiem, kas nav fraktētāji, piemēro tikai tad, ja pienākums maksāt paredzēts konosamentā saskaņā ar šā kodeksa 169.pantu.

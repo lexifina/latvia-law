@@ -1,0 +1,5 @@
+112.pants. Tiesisko attiecību regulēšana
+(1) Tiesiskās attiecības, kas rodas, veicot kravas pārvadājumus ar kuģi (turpmāk šajā sadaļā - kravas pārvadājumi), nosaka puses, ievērojot šā kodeksa noteikumus.
+(2) Šīs sadaļas noteikumus piemēro arī attiecībā uz tādiem kravas pārvadājumiem, par kuriem nav izdots konosaments.
+(3) Kravas pārvadātāja, nosūtītāja un saņēmēja savstarpējās tiesiskās attiecības nosaka konosaments vai cits līdzīgs transportēšanas dokuments. Jūras pārvadājuma līguma nosacījumi, kas nav minēti konosamentā vai citā līdzīgā dokumentā par kravas transportēšanu ar kuģi, ir obligāti saņēmējam, ja konosamentā vai citā transportēšanas dokumentā ir minēts dokuments, kurā tie norādīti.
+(4) Kuģa īpašnieka intereses atbilstoši viņa noteiktajam pilnvarojumam ostā pārstāv kuģa aģents. Trešās personas nevar pieprasīt, lai kuģa aģents veic tādus pienākumus, kurus kuģa īpašnieks nav paredzējis šā aģenta pilnvarojumā. Kuģu aģentu darbību Latvijas ostās, kuģu aģentēšanas līgumu nosacījumus, kuģu īpašnieku tiesības un pienākumus, kuģu aģentu tiesības, pienākumus un atbildību, maksājumu veikšanas kārtību, kā arī profesionālos kritērijus nosaka Ministru kabinets.

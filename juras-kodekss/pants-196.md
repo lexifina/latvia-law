@@ -1,0 +1,5 @@
+196.pants. Atkāpšanās no fraktēšanas līguma pirms iekraušanas
+(1) Ja reisa fraktētāja vainas dēļ ir notikusi atkāpšanās no fraktēšanas līguma, pirms uzsākta kravas iekraušana, vai ja līdz iekraušanas beigām reisa fraktētājs nav piegādājis līgumā paredzēto kravas daudzumu, pārvadātājam ir tiesības saņemt neiegūto frakti un zaudējumu atlīdzību.
+(2) Nosakot zaudējumu apmēru, ņem vērā to, vai pārvadātājs ir veicis pasākumus zaudējumu samazināšanai, pārvadājot citu kravu.
+(3) Pārvadātājs nevar celt prasību par zaudējumu atlīdzību, ja kravas iekraušana, pārvadāšana vai piegādāšana saņēmējam nav iespējama sakarā ar apstākļiem, kurus reisa fraktētājs nevarēja paredzēt fraktēšanas līguma noslēgšanas dienā, to skaitā ar eksporta vai importa ierobežojumiem vai citiem ierobežojumiem, kurus noteikušas valsts institūcijas, kā arī visas līgumā paredzētās kravas nejaušu bojāeju vai līdzīgiem apstākļiem. Tas attiecas arī uz individuāli noteiktu kravu, kas nejauši gājusi bojā.
+(4) Šā panta trešajā daļā minētajos gadījumos reisa fraktētājs nekavējoties nosūta paziņojumu pārvadātājam. Pretējā gadījumā reisa fraktētājs atlīdzina radušos zaudējumus.

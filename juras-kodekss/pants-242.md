@@ -1,0 +1,2 @@
+242.pants. Vērtīgas lietas
+Pārvadātājs nav atbildīgs par naudas, vērtspapīru un citu vērtīgu lietu (zelta, sudraba, dārgakmeņu, dārglietu, mākslas darbu u.tml.) pazaudēšanu vai bojāšanu, izņemot gadījumu, kad šādas vērtīgas lietas nodotas pārvadātājam glabāšanā. Šajā gadījumā pārvadātājs ir atbildīgs šā kodeksa 244.panta otrās daļas 2.punktā noteiktajā apmērā, ja vien saskaņā ar šā kodeksa 244.panta sesto daļu atbildības apmērs nav paaugstināts.

@@ -1,0 +1,3 @@
+74.pants. Vispārējā fonda izveidošana
+(1) Tiesa pieņem nolēmumu par Vispārējā fonda izveidošanu pēc tās personas pieteikuma, pret kuru attiecīgajā tiesā ir celta prasība. Vispārējo fondu veido, ņemot vērā šā kodeksa 69. un 70.pantā noteikto summu, kā arī ar to saistītos procentus, ko aprēķina par laika periodu no datuma, kad noticis gadījums, kas izraisījis atbildību, līdz datumam, kad izveidots Vispārējais fonds. Jebkuru šādi izveidotu fondu izmanto vienīgi to prasību apmierināšanai, uz kurām var attiecināt atbildības ierobežojumu.
+(2) Vispārējais fonds, kuru izveidojusi viena no šā kodeksa 72.pantā minētajām personām vai tās apdrošinātājs, uzskatāms par fondu, ko izveidojušas visas šajā pantā minētās personas.

@@ -1,0 +1,2 @@
+305.pants. Atbrīvošana kuģu reģistra maiņas gadījumā
+Ja Latvijas kuģis tiek izslēgts no Kuģu reģistra, visus uz tā strādājošos jūrniekus atbrīvo, ja vien viņi rakstveidā neapliecina, ka piekrīt turpināt darbu uz šā kuģa. Šādā gadījumā darba samaksu viņiem nosaka atbilstoši šā kodeksa noteikumiem par jūrniekam izmaksājamo darba samaksu līdz reģistrācijas maiņai. Darba strīdi tiek izskatīti saskaņā ar normatīvajiem aktiem.

@@ -1,0 +1,2 @@
+327.pants. Prasības noilgums kuģu sadursmes gadījumā
+Noilguma termiņš prasībai par zaudējumiem, kas radušies kuģu sadursmes dēļ, ir divi gadi, skaitot no dienas, kad notikusi sadursme. Noilguma termiņš regresa prasībai par atlīdzību, kas minēta šajā pantā, ir viens gads, ņemot vērā, ka prasībai par atlīdzību miesas bojājumu nodarīšanas gadījumā noilguma termiņš tiek rēķināts no dienas, kad apmierināta prasība par zaudējuma atlīdzību.

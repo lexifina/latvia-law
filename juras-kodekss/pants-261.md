@@ -1,0 +1,4 @@
+261.pants. Izņēmumi
+(1) Personai, kura sniedz pakalpojumus saskaņā ar jebkuru citu līgumu, kas nav glābšanas līgums un kas stājies spēkā pirms jūras briesmu rašanās, nav tiesību uz glābšanas atlīdzību vai īpašo kompensāciju, izņemot gadījumu, kad sniegtie pakalpojumi pārsniedz šāda līguma saistību izpildi.
+(2) Personām, kuras pretēji kuģa īpašnieka vai kapteiņa skaidri izteiktam un pamatotam aizliegumam veic glābšanas pasākumus (operācijas), nav tiesību uz glābšanas atlīdzību vai īpašo kompensāciju. Tas attiecas arī uz citu objektu īpašnieku aizliegumu, ja viņu manta neatrodas vai nav atradusies uz glābjamā kuģa.
+(3) Glābējam var liegt tiesības uz visu glābšanas atlīdzību vai tās daļu vai īpašo kompensāciju, ja glābšanas pasākumi (operācijas) kļuvuši nepieciešami vai grūtāk veicami glābēja vainas dēļ vai ja glābējs ir maldinājis vai citādi negodīgi rīkojies.

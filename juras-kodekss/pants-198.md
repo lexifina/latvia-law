@@ -1,0 +1,3 @@
+198.pants. Aizkavēšanās iekraušanas laikā
+(1) Ja puses ir vienojušās par demeredža laiku un ja pēc iekraušanas laika beigām reisa fraktētājs nav piegādājis kravu vai ir piegādājis tikai tās daļu, piemēro šā kodeksa 196. un 197.panta noteikumus.
+(2) Ja puses nav vienojušās par demeredža laiku, bet iekraušanas aizkavēšanās rada pārvadātājam būtiskus zaudējumus vai neērtības, pārvadātājam ir tiesības atkāpties no līguma (pat ja kompensācija par demeredža laiku ir samaksāta) vai gadījumā, kad piegādāta tikai kravas daļa, paziņot, ka iekraušana ir pabeigta. Šādā gadījumā attiecīgi piemēro šā kodeksa 196. un 197.panta noteikumus.

@@ -1,0 +1,5 @@
+300.pants. Darba samaksas izmaksāšana, izbeidzoties darba tiesiskajām attiecībām
+(1) Darba devējs vai - pilnvarojuma gadījumā - kuģa kapteinis divu dienu laikā pēc kuģa ierašanās ostā (ierodoties ostā), kurā paredzēts atbrīvot no darba kuģa apkalpi vai atsevišķu kuģa apkalpes locekli, izmaksā katram kuģa apkalpes loceklim neizmaksāto darba samaksu. Izmaksājot darba samaksu, darba devēja vai - pilnvarojuma gadījumā - kuģa kapteiņa pienākums ir izsniegt kuģa apkalpes loceklim rakstveidā pilnu darba samaksas aprēķinu, kurā norādīti visi ieturējumi.
+(2) Ja jūrnieks darbu izbeidz pirms darba līgumā norādītā termiņa un viņu atstāj krastā ārvalstī tāpēc, ka šis jūrnieks nav piemērots darbam vai nespēj turpināt reisu, viņam izmaksā darba samaksu par faktiski nostrādāto laiku.
+(3) Izbeidzoties darba tiesiskajām attiecībām kuģa pazušanas vai bojāejas gadījumā, darba devējs jūrniekam papildus izmaksā pabalstu triju mēnešalgu apmērā.
+(4) Ja kuģa apkalpes loceklis gājis bojā, viņam neizmaksātā darba samaksa izmaksājama tādā pašā kārtībā kā reisā miruša kuģa apkalpes locekļa darba samaksa.

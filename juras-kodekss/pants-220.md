@@ -1,0 +1,4 @@
+220.pants. Pārvadātāja tiesības un pienākumi
+(1) Laika fraktēšanas līguma darbības laikā pārvadātājs veic reisus, kādos saskaņā ar līgumu kuģi nosūta fraktētājs. Pārvadātājs uztur kuģi atbilstoši šā kodeksa 214.panta otrās daļas noteikumiem.
+(2) Pārvadātājs ir tiesīgs atteikties sūtīt kuģi reisā, kurā kuģa apkalpi vai kravu varētu pakļaut jūras briesmām, pilsoņu kara vai karadarbības izraisītām briesmām vai jebkurām citām briesmām vai būtiskām grūtībām, kuras pārvadātājs nevarēja paredzēt līguma noslēgšanas brīdī.
+(3) Pārvadātājs ir tiesīgs atteikties iekraut uzliesmojošu, pašaizdegties spējīgu vai korozīvu kravu vai citu bīstamu kravu, izņemot gadījumu, kad šādu kravu nodod iekraušanai, pārvadāšanai vai nodošanai gala ostā atbilstoši kuģa reģistrācijas valsts, kravas iekraušanas vai izkraušanas valsts kompetento iestāžu prasībām un rekomendācijām. Pārvadātājs ir tiesīgs atteikties pārvadāt dzīvniekus.

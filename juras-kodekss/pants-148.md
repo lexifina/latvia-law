@@ -1,0 +1,3 @@
+148.pants. Paziņojums par kravas zudumu vai bojājumu
+(1) Ja krava ir piegādāta un saņēmējs rakstveidā nav paziņojis pārvadātājam par kravas zudumu vai bojājumu, kuru saņēmējs atklāj vai varēja atklāt, uzskatāms, ka visa krava piegādāta saskaņā ar pārvadājuma līguma nosacījumiem, ja vien netiek pierādīts pretējais. Šos nosacījumus piemēro, ja piegādes laikā kravas zudums vai bojājums nav bijis acīmredzams un triju dienu laikā pēc piegādes nav iesniegts rakstveida paziņojums par kravas zudumu vai bojājumu.
+(2) Rakstveida paziņojums nav nepieciešams, ja kravas zudums vai bojājums ir atklāts, kravas pārvadātājam un saņēmējam vai viņu pārstāvjiem kopīgi veicot kravas pārbaudi.

@@ -1,0 +1,3 @@
+2. Līdz 1992.gada 27.novembra Starptautiskās konvencijas par civilo atbildību par naftas piesārņojuma radītajiem zaudējumiem 2000.gada 20.oktobra grozījumu spēkā stāšanās dienai šā kodeksa 82.panta pirmajā daļā noteiktais atbildības apmērs aprēķināms šādi:
+1) par kuģi, kura tilpība nepārsniedz 5000 tilpības vienības, - trīs miljoni norēķina vienību;
+2) par kuģi, kura tilpība pārsniedz 5000 tilpības vienības, - par katru papildu tilpības vienību pie šā pārejas noteikuma 1.punktā minētā apjoma pieskaita 420 norēķina vienības, bet kopējais apjoms nedrīkst pārsniegt 59,7 miljonus norēķina vienību.

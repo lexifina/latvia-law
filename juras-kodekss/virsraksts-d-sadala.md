@@ -1,0 +1,2 @@
+D sadaļa
+Atbildība

@@ -1,0 +1,2 @@
+246.pants. Pārvadātāja darbinieku un pārstāvju atbildības ierobežošana un atbrīvošana no atbildības
+Ja prasība par šajā nodaļā noteiktajiem zaudējumiem tiek celta pret pārvadātāja vai faktiskā pārvadātāja darbinieku vai pārstāvi, bet viņš pierāda, ka ir darbojies saskaņā ar saviem pienākumiem, pārvadātāja darbiniekam vai pārstāvim ir tādas pašas tiesības uz atbildības ierobežošanu vai atbrīvošanu no atbildības, kādas ir pārvadātājam vai faktiskajam pārvadātājam saskaņā ar šo nodaļu.

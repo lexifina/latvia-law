@@ -1,0 +1,2 @@
+145.pants. Pārvadātāja un faktiskā pārvadātāja atbildības sadalījums
+Ja saskaņā ar pārvadājuma līgumu daļu pārvadājuma veic cits pārvadātājs (faktiskais pārvadātājs), pārvadājuma līguma puses var vienoties, ka pārvadātājs attiecībā uz pārvadājuma daļu, ko veic faktiskais pārvadātājs ar savu transportlīdzekli, uzskatāms par ekspeditoru. Šādā gadījumā pārvadātājs pierāda, ka zaudējumi radušies tajā laika periodā, kad krava atradās faktiskā pārvadātāja turējumā.

@@ -1,0 +1,3 @@
+224.pants. Konosamentu izsniegšana laika fraktēšanas gadījumā
+(1) Pārvadātājs izsniedz konosamentus par iekrauto kravu saskaņā ar fraktētāja norādījumiem par paredzamo reisu. Šādus konosamentus izsniedz saskaņā ar šā kodeksa XX nodaļas noteikumiem. Ja tādējādi pārvadātājs uzņemas atbildību pret konosamenta turētāju un atbildība ir lielāka nekā fraktēšanas līgumā paredzētā, fraktētājs atlīdzina pārvadātāja izdevumus.
+(2) Pārvadātājs ir tiesīgs (pretēji fraktētāja norādījumiem) neizsniegt kravu personai, kura nevar pierādīt savas tiesības uz kravu, vai izsniegt kravu pretēji konosamentā norādītajai informācijai. Pārvadātājs var pieprasīt, lai fraktētājs sniedz pietiekamu nodrošinājumu par zaudējumiem, kas varētu rasties, izsniedzot kravu šādā veidā.

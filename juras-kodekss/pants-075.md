@@ -1,0 +1,5 @@
+75.pants. Vispārējā fonda sadale
+(1) Ievērojot šā kodeksa 69. un 70.panta noteikumus, Vispārējo fondu sadala prasītājiem proporcionāli apmierinātajām prasībām.
+(2) Ja par zaudējumiem atbildīgā persona vai apdrošinātājs ir samaksājis prasības summu, kuru var apmierināt no Vispārējā fonda, pirms fonds ir sadalīts, šī persona samaksātās summas apmērā iegūst prasījuma tiesības, kuras persona, kas saņēma samaksāto summu, būtu varējusi izmantot saskaņā ar šo nodaļu.
+(3) Šā panta otrajā daļā noteikto prasījuma tiesību pāreju var izmantot arī citas personas attiecībā uz jebkuru zaudējumu atlīdzību, kuru tās ir samaksājušas.
+(4) Ja par zaudējumiem atbildīgā persona vai jebkura cita persona konstatē, ka tai būs jāmaksā zaudējumu atlīdzība, attiecībā uz kuru tā varētu izmantot šā panta otrajā un trešajā daļā paredzēto prasījuma tiesību pāreju, ja zaudējumu atlīdzība būtu samaksāta pirms fonda sadalīšanas, tad tiesa, ar kuras nolēmumu Vispārējais fonds ir izveidots, var pieņemt nolēmumu par tādas summas nodalīšanu, kas dotu iespēju šai personai vēlāk iesniegt prasību, ko var apmierināt no Vispārējā fonda.

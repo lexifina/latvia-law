@@ -1,0 +1,2 @@
+328.pants. Prasības noilgums piesārņojuma gadījumā
+Noilguma termiņš prasībai par zaudējuma atlīdzību piesārņojuma gadījumā saskaņā ar šā kodeksa 79., 95. vai 96.pantu vai atlīdzību saskaņā ar Fonda konvenciju ir trīs gadi, skaitot no brīža, kad radušies bojājumi vai zaudējumi vai izdarītas izmaksas. Prasību nevar celt, ja kopš negadījuma brīža ir pagājuši seši gadi. Ja bojājumi, zaudējumi vai izmaksas rodas negadījumu virknē, kam ir viens cēlonis, sešu gadu laika periodu skaita no brīža, kad noticis pirmais negadījums.

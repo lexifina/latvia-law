@@ -1,0 +1,2 @@
+G sadaļa
+Jūrnieki

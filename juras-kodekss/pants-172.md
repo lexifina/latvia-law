@@ -1,0 +1,5 @@
+172.pants. Reisa fraktētāja tiesības izvēlēties iekraušanas un izkraušanas ostu
+(1) Ja fraktēšanas līgums reisa fraktētājam dod tiesības izvēlēties iekraušanas un izkraušanas ostu, reisa fraktētājs norīko kuģi uz brīvi pieejamu ostu, kurā kuģis var droši atrasties peldošā stāvoklī, droši ieiet iekraušanas ostā un droši doties ar kravu reisā. Fraktētājs paziņo izkraušanas ostu pirms iekraušanas pabeigšanas.
+(2) Ja reisa fraktētājs norīkojis kuģi uz nedrošu ostu, viņš ir atbildīgs par jebkuriem šā iemesla dēļ kuģim nodarītajiem zaudējumiem, izņemot gadījumu, kad zaudējumi nav radušies reisa fraktētāja vai to personu vainas dēļ, par kurām viņš ir atbildīgs.
+(3) Ja reisi ir secīgi, jebkuras tiesības izvēlēties kuģa reisu izmanto tā, lai kopējais reisu garums kuģim ar kravu un balasta pārgājieni būtiski neatšķirtos. Pretējā gadījumā reisa fraktētājs nesaņem frakti un ir atbildīgs par zaudējumiem, kas radušies sakarā ar nesaņemto frakti.
+(4) Reisa fraktētājs nedrīkst mainīt izraudzīto ostu vai reisu, ja puses nav vienojušās par pretējo.

@@ -1,0 +1,3 @@
+179.pants. Kompensācija par demeredža laiku
+(1) Pārvadātājam ir tiesības saņemt īpašu atlīdzību par demeredža laiku. Ja fraktēšanas līguma puses nav vienojušās citādi, demeredža dienas maksu nosaka, aprēķinot laika fraktēšanas līguma ekvivalentu, kādu saņemtu pārvadātājs, ja nebūtu zaudēts laiks demeredža dēļ.
+(2) Kompensāciju par demeredža laiku maksā pēc pieprasījuma. Ja šī kompensācija nav samaksāta vai nav sniegts attiecīgs nodrošinājums, pārvadātājam ir tiesības norādīt konosamentā šīs kompensācijas summu. Ja pārvadātājs tā nerīkojas, viņš var noteikt saprātīgu maksājuma termiņu. Ja kompensācija par demeredža laiku nav samaksāta noteiktajā termiņā, pārvadātājam ir tiesības atkāpties no līguma un pieprasīt zaudējumu atlīdzību.

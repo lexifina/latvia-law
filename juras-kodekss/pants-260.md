@@ -1,0 +1,5 @@
+260.pants. Īpašā kompensācija
+(1) Ja glābjamais kuģis vai tā krava apdraud vidi, glābējam ir tiesības saņemt īpašo kompensāciju no kuģa īpašnieka. Glābējs īpašo kompensāciju var pieprasīt par to daļu, kura pārsniedz glābšanas atlīdzību, kas noteikta saskaņā ar šā kodeksa 257.pantu. Šīs kompensācijas apmērs nedrīkst pārsniegt glābēja veikto glābšanas pasākumu (operāciju) izmaksas.
+(2) Ja glābējs novērš vai ierobežo kaitējumu videi, īpašo kompensāciju var palielināt līdz 30 procentiem no glābēja izmaksām. Ja tas ir taisnīgi un pamatoti, kompensāciju var palielināt līdz 100 procentiem no glābēja izmaksām, ievērojot šā kodeksa 257.pantā minētos kritērijus.
+(3) Glābēja izmaksas ir glābēja tiešie izdevumi, kas viņam pamatoti radušies glābšanas pasākumu (operāciju) laikā, un taisnīga atlīdzība par izmantoto aprīkojumu un personālu. Aprēķinot taisnīgu atlīdzību, ņem vērā šā kodeksa 257.panta 7., 9. un 10.punktā minētos kritērijus.
+(4) Ja glābēja neuzmanības dēļ kaitējums videi nav novērsts vai ierobežots, glābējam var pilnībā vai daļēji neizmaksāt īpašo kompensāciju.

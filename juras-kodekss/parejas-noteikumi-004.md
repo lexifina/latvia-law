@@ -1,0 +1,1 @@
+4. Līdz šā kodeksa 112.pantā paredzēto noteikumu izdošanai piemērojami Ministru kabineta 1996.gada 26.novembra noteikumi nr.439 "Kuģu aģentu darbības noteikumi" (Latvijas Vēstnesis, 1996, 206.nr.; 2000, 252./254.nr.).

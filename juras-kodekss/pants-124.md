@@ -1,0 +1,3 @@
+124.pants. Kravas pārvadāšana uz klāja
+(1) Pārvadātājam ir tiesības pārvadāt kravu uz klāja tikai tad, ja viņš par to ir īpaši vienojies ar nosūtītāju vai ja šāda veida pārvadājums atbilst labai kuģošanas praksei, vai ja to nosaka normatīvie akti.
+(2) Ja pārvadātājs un nosūtītājs ir vienojušies, ka kravu pārvadā vai to var pārvadāt uz klāja, pārvadātājs konosamentā ieraksta attiecīgu piezīmi. Ja tādas piezīmes nav, pārvadātājam ir pienākums pierādīt to, ka ar nosūtītāju ir panākta vienošanās par kravas pārvadāšanu uz klāja. Tomēr pārvadātājam nav tiesību atsaukties uz šādu vienošanos attiecībās ar trešajām personām (to skaitā ar kravas saņēmēju), kuras labticīgi ieguvušas konosamentu.

@@ -1,0 +1,4 @@
+96.pants. Vispārējie ierobežojumi attiecībā uz naftas noplūdi
+(1) Ja Latvijai vai tās kontinentālā šelfa daļai zaudējumus radījis piesārņojums, ko izraisījis kuģis, kas neatbilst šā kodeksa 79.panta trešās daļas definīcijai, vai urbšanas platforma, attiecīgi piemēro šā kodeksa 79.panta un 80.panta noteikumus. Tos piemēro arī tad, ja radušies izdevumi sakarā ar darbībām, kas veiktas, lai novērstu vai ierobežotu zaudējumus.
+(2) Atbildību atbilstoši šā panta pirmajai daļai ierobežo saskaņā ar šīs nodaļas noteikumiem, ņemot vērā šā kodeksa 323. un 324.pantu.
+(3) Šā panta pirmās un otrās daļas noteikumus piemēro arī attiecībā uz citiem pastāvīgiem naftas produktiem, kas nav minēti šā kodeksa 79.panta ceturtajā daļā, nenoturīgiem naftas produktiem un naftu saturošiem maisījumiem neatkarīgi no tā, vai kuģis vai ierīce atbilst 79.panta trešajā daļā dotajai definīcijai.

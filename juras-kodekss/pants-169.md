@@ -1,0 +1,2 @@
+169.pants. Noteikumi attiecībā uz konosamentiem
+Ja pārvadātājs izsniedz konosamentu kravai, kas tiek pārvadāta ar kuģi, konosamentā ietver pārvadājuma un kravas nogādāšanas nosacījumus pārvadātājam un trešajām personām, kuras nav fraktētājs un kuras ir labticīgi ieguvušas konosamentu. Fraktēšanas līguma nosacījumi, kuri nav ietverti konosamentā, nav saistoši trešajām personām, izņemot gadījumu, kad konosamentā ir norāde uz fraktēšanas līguma nosacījumiem.

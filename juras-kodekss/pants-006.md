@@ -1,0 +1,4 @@
+6.pants. Kuģa vārds
+(1) Katram kuģim, kas reģistrēts Latvijas Kuģu reģistrā (turpmāk - Kuģu reģistrs), ir vārds, kuru izvēlas tā īpašnieks. Vārdam jābūt skaidri atšķiramam no pārējo reģistrēto kuģu vārdiem. Kuģiem, kas pieder vienam un tam pašam īpašniekam, var būt vienāds vārds, ja tas tiek papildināts ar atšķirīgu ciparu.
+(2) Kuģa īpašniekam ir tiesības lūgt reģistrēt Kuģu reģistrā kuģa vārda maiņu. Kuģu reģistrā var mainīt kuģa vārdu arī citos gadījumos, ja tam piekrīt hipotekārie kreditori un citi reģistrēto tiesību turētāji.
+(3) Noslēdzot kuģa pirkšanas vai būvēšanas līgumu, var rezervēt kuģa vārdu, nosūtot paziņojumu Latvijas Jūras administrācijai. Kuģu reģistrā pēc ieinteresētās personas lūguma var rezervēt kuģa vārdu arī citos gadījumos uz laiku līdz pieciem gadiem. Vārdam, kas rezervēts Kuģu reģistrā kā kuģa vārds, ir tāda pati tiesiskā aizsardzība kā Kuģu reģistrā jau reģistrētam kuģa vārdam.

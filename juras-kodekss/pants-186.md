@@ -1,0 +1,2 @@
+186.pants. Bīstamās kravas pārvadāšana reisa fraktēšanas gadījumā
+Ja bīstamā krava ir iekrauta un pārvadātājs nav saņēmis informāciju par tās bīstamo raksturu, viņš atkarībā no apstākļiem var kravu izkraut, padarīt to nekaitīgu vai iznīcināt, neatlīdzinot par to zaudējumus. Šis noteikums attiecas arī uz gadījumiem, kad pārvadātājs ir zinājis par kravas bīstamo raksturu, bet vēlāk radušos apstākļu dēļ tiek apdraudēta cilvēka dzīvība, veselība vai manta un tas padara neiespējamu kravas saglabāšanu kuģī.

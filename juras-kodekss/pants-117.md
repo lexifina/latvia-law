@@ -1,0 +1,3 @@
+117.pants. Iepakojuma pārbaude
+(1) Pārvadātāja pienākums ir pielikt saprātīgus pūliņus, pārbaudot, vai krava ir iepakota tā, lai nerastos tās zudums vai bojājums vai netiktu radīti zaudējumi citai personai vai īpašumam. Ja krava ir piegādāta aizplombētā konteinerā vai citā transportēšanas ierīcē, pārvadātājam nav pienākuma to atvērt un pārbaudīt, ja vien nav pamatota iemesla uzskatīt, ka krava nav pietiekami labi iepakota.
+(2) Pārvadātājs informē nosūtītāju par katru konstatēto trūkumu. Pārvadātājam nav pienākuma pārvadāt kravu, kas nav pienācīgi iepakota, izņemot gadījumu, kad, saprātīgi rīkojoties, konstatētos trūkumus ir iespējams novērst.

@@ -1,0 +1,3 @@
+93.pants. Citu valstu tiesu spriedumu atzīšana un izpilde
+(1) Galīgo spriedumu pret kuģa īpašnieku vai viņa finansiālā nodrošinājuma sniedzēju Latvijā atzīst un var izpildīt, ja lieta izskatīta un tiesas nolēmums taisīts Atbildības konvencijas dalībvalstī un ievērota Atbildības konvencijas 9.pantā noteiktā lietu piekritība.
+(2) Šā panta pirmās daļas noteikumus piemēro, ja spriedums attiecībā uz Starptautisko kompensācijas fondu pasludināts Fonda konvencijas dalībvalstī vai valstī, kurā Starptautiskajam kompensācijas fondam ir sava pārstāvniecība, ja prasība ir piekritīga attiecīgajai tiesai saskaņā ar Fonda konvencijas 7.panta pirmo vai trešo daļu.

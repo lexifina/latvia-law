@@ -1,0 +1,2 @@
+XXV nodaļa
+Laika fraktēšana
