@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sēklu un šķirņu aprites likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "353/354",
+  "official_journal_page": null,
+  "official_journal_date": "1999-10-27",
+  "entry_into_force": "2000-01-01",
+  "notification_date": "2011-09-27",
+  "commission_reference": "MNE(2011)56954",
+  "nim_celex": "72010L0060LVA_186601",
+  "nim_id": "186601",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/bf8fe6f4-a9e7-4f8b-8389-e60a2cebde9c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
