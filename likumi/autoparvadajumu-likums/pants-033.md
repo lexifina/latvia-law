@@ -3,5 +3,5 @@
 (2) Līniju būvju (izņemot autoostas) ierīkošanu, to labiekārtošanu un uzturēšanu pilsētās veic attiecīgās pašvaldības, lauku apvidos - ceļu īpašnieki.
 (3) Autoostu celtniecību un to teritoriju labiekārtošanu un uzturēšanu veic to īpašnieks vai valdītājs. Autoostu izvietojumu un skaitu nosaka attiecīgā pašvaldība.
 (4) (Izslēgta ar 29.10.1998. likumu.)
-(5) Autoostu reģistrāciju veic Satiksmes ministrija.
+(5) Autoostu reģistrāciju veic Satiksmes ministrija Ministru kabineta noteiktajā kārtībā.
 (6) Kārtību, kādā autobusi iebrauc un stāv autoostas teritorijā, nosaka Ministru kabinets.

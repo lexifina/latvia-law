@@ -1,0 +1,1 @@
+10. Šā likuma 35.panta pirmā daļa un ceturtā daļa (par vieglo taksometru vadītāja kompetences prasībām un eksaminācijas kārtību) stājas spēkā 2006.gada 1.martā. Personas, kuras līdz 2006.gada 1.martam saņēmušas speciālo atļauju (licenci) vieglo taksometru pārvadājumu veikšanai, ir atbrīvotas no eksāmenu kārtošanas.
