@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Profesionālās izglītības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "213/215 (1673/1675)",
+  "official_journal_page": null,
+  "official_journal_date": "1999-06-30",
+  "entry_into_force": "1999-07-14",
+  "notification_date": "2013-04-09",
+  "commission_reference": "MNE(2013)52639",
+  "nim_celex": "72009L0028LVA_203023",
+  "nim_id": "203023",
+  "transposes_celex": [
+    "32009L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c58b3c56-22bd-42e5-bc53-5496d1186631",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
