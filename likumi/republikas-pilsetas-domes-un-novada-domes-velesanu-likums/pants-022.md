@@ -15,6 +15,6 @@ e) kandidāts miris;
 5) Krimināllikumā paredzētā nodarījuma izdarīšanas laikā atradies nepieskaitāmības stāvoklī, ierobežotas pieskaitāmības stāvoklī vai arī pēc noziedzīgā nodarījuma izdarīšanas saslimis ar psihisku slimību, kas tam atņēmusi iespēju saprast savu rīcību vai to vadīt, - apliecina Iekšlietu ministrijas Informācijas centra izziņa;
 6) ir vai ir bijis PSRS, Latvijas PSR vai ārvalstu valsts drošības dienestu, izlūkdienestu vai pretizlūkošanas dienestu štata darbinieks, - apliecina attiecīgās tiesas spriedums;
 7) pēc 1991.gada 13.janvāra darbojies PSKP (LKP), Latvijas PSR Darbaļaužu internacionālajā frontē, Darba kolektīvu apvienotajā padomē, Kara un darba veterānu organizācijā, Vislatvijas sabiedrības glābšanas komitejā vai tās reģionālajās komitejās, - apliecina attiecīgās tiesas spriedums;
-8) neprot valsts valodu atbilstoši augstākajai (trešajai) valsts valodas prasmes pakāpei, - apliecina Valsts valodas centra izziņa;
+8) (izslēgts ar 09.05.2002. likumu);
 9) ir miris, - apliecina Dzimtsarakstu nodaļas izziņa.
 Attiecīgajām iestādēm minētās izziņas jāiesniedz vēlēšanu komisijai bez maksas piecu dienu laikā.
