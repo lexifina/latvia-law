@@ -1,0 +1,1 @@
+4.pants. Triju mēnešu laikā pēc šā likuma stāšanās spēkā Liepājas pilsētas dome nodod Liepājas lietuviešu kultūras biedrībai "Rūta" šā likuma 1.pantā minēto nekustamo īpašumu ar nodošanas un pieņemšanas aktu. Minētais nodošanas un pieņemšanas akts ir derīgs īpašuma ierakstīšanai zemesgrāmatā un Liepājas lietuviešu kultūras biedrības "Rūta" īpašuma tiesību nostiprināšanai.

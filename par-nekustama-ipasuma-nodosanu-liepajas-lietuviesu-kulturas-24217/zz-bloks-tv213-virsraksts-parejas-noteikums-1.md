@@ -1,0 +1,1 @@
+Ja līdz šā likuma spēkā stāšanās dienai ir iesniegts pieteikums par dzīvojamo telpu privatizāciju un triju mēnešu laikā no šā likuma spēkā stāšanās dienas nav izsniegta apliecība par dzīvokļa nodošanu īpašumā līdz dzīvojamās mājas privatizācijai, attiecīgā nekustamā īpašuma daļa nododama Liepājas lietuviešu kultūras biedrībai "Rūta".
