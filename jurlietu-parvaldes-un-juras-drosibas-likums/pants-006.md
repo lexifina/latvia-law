@@ -1,5 +1,5 @@
-6.pants. Kuģošanas un hidrogrāfijas institūcijas kompetence
-(1) Kuģošanas un hidrogrāfijas institūcija atbilstoši normatīvajiem aktiem un starptautiskajām tiesību normām, kā arī savai kompetencei jūrlietās:
+6.pants. Latvijas Jūras administrācijas kompetence
+(1) Latvijas Jūras administrācija atbilstoši normatīvajiem aktiem un starptautiskajām tiesību normām, kā arī savai kompetencei jūrlietās:
 1) uzrauga Kuģu reģistrā iekļauto kuģu atbilstību drošības prasībām, atzīst kuģu būves un modernizācijas tehniskos projektus un izsniedz kuģu sertifikātus;
 2) apstiprina kuģu dokumentāciju;
 3) īsteno ostas valsts kontroli attiecībā uz ārvalstu kuģiem;
@@ -20,6 +20,8 @@
 18) saskaņo Latvijas ūdeņos nogrimušas mantas izcelšanu;
 19) saskaņo ostu hidrotehnisko būvju un kuģuceļu projektus no kuģošanas drošības viedokļa un piedalās projektu pieņemšanas komisijas darbā;
 20) piedalās Starptautiskās jūras organizācijas, Helsinku komisijas, Starptautiskās hidrogrāfijas organizācijas un citu starptautisko organizāciju darbā;
-21) sagatavo priekšlikumus normatīvo aktu projektu izstrādei.
-(2) Kuģošanas un hidrogrāfijas institūcija izstrādā tarifus tās sniegtajiem maksas pakalpojumiem, kas saistīti ar hidrogrāfiju, kuģošanas drošību, vides piesārņojuma novēršanu, jūrnieku sagatavošanu un sertifikāciju. Šos tarifus apstiprina un maksas iekasēšanas kārtību nosaka satiksmes ministrs. Maksa par navigācijas pakalpojumiem tiek noteikta atbilstoši "Likumam par ostām".
-(3) Lai veiktu šā panta pirmajā daļā minētās funkcijas, kuģošanas un hidrogrāfijas institūcija nodrošina Jūrnieku reģistra, Kuģu reģistra, Jūras drošības inspektorāta un Avāriju izmeklēšanas nodaļas, kā arī Hidrogrāfijas dienesta darbību.
+21) sagatavo priekšlikumus normatīvo aktu projektu izstrādei;
+22) uzrauga klasifikācijas sabiedrību (atzīto organizāciju) darbību;
+23) veic Starptautiskajā kuģu un ostas iekārtu aizsardzības kodeksā (turpmāk - ISPS kodekss) noteiktās atbildīgās organizācijas funkcijas.
+(2) Latvijas Jūras administrācija izstrādā tarifus tās sniegtajiem maksas pakalpojumiem, kas saistīti ar hidrogrāfiju, kuģošanas drošību, vides piesārņojuma novēršanu, jūrnieku sagatavošanu un sertifikāciju. Šos tarifus apstiprina un maksas iekasēšanas kārtību nosaka satiksmes ministrs. Maksa par navigācijas pakalpojumiem tiek noteikta atbilstoši "Likumam par ostām".
+(3) Lai veiktu šā panta pirmajā daļā minētās funkcijas, Latvijas Jūras administrācija nodrošina Jūrnieku reģistra, Kuģu reģistra, Jūras drošības inspektorāta un Avāriju izmeklēšanas nodaļas, kā arī Hidrogrāfijas dienesta darbību.

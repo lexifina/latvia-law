@@ -1,2 +1,2 @@
 48.pants. Paziņojumi jūrniekiem un navigācijas brīdinājumi
-Kuģošanas un hidrogrāfijas institūcija informē jūrniekus par kuģošanas režīma pārmaiņām un pārmaiņām navigācijas aprīkojumā Latvijas ūdeņos. Kuģošanas un hidrogrāfijas institūcija šo informāciju publicē izdevumos "Paziņojumi jūrniekiem" un "Navigācijas brīdinājumi". Krasta apsardze šo informāciju pilnībā vai daļēji iekļauj regulārajos drošības (SECURITEE) ziņojumos.
+Latvijas Jūras administrācija informē jūrniekus par kuģošanas režīma pārmaiņām un pārmaiņām navigācijas aprīkojumā Latvijas ūdeņos. Latvijas Jūras administrācija šo informāciju publicē izdevumos "Paziņojumi jūrniekiem" un "Navigācijas brīdinājumi". Krasta apsardze šo informāciju pilnībā vai daļēji iekļauj regulārajos drošības (SECURITEE) ziņojumos.
