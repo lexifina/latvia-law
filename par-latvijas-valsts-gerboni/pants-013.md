@@ -1,0 +1,1 @@
+13.pants. Par valsts ģerboņa lietošanas noteikumu pārkāpšanu, necieņas izrādīšanu valsts ģerbonim vai tā zaimošanu vainīgās personas saucamas pie administratīvās atbildības vai kriminālatbildības likumā noteiktajā kārtībā.
