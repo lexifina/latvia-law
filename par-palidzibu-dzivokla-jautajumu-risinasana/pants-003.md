@@ -1,9 +1,11 @@
-3.pants. Pašvaldības palīdzības veidi
-Pašvaldība iedzīvotājiem sniedz šādu palīdzību:
-1) izīrē pašvaldībai piederošas dzīvojamās telpas (11.-21.pants);
-2) izīrē sociālos dzīvokļus (22.pants);
-3) nodrošina ar pagaidu dzīvojamo telpu (23.pants);
-4) sniedz palīdzību īrētās dzīvojamās telpas apmaiņā pret citu īrējamu dzīvojamo telpu (24.pants);
-5) piešķir pabalstu dzīvojamās telpas īres maksas un maksas par pakalpojumiem, kas saistīti ar dzīvojamās telpas lietošanu, segšanai (turpmāk - dzīvokļa pabalsts) (25.pants);
-6) piešķir vienreizēju pabalstu dzīvojamās telpas vai dzīvojamās mājas remontam (26.pants);
-7) remontē dzīvojamo telpu (27.pants).
+3.pants. Palīdzības veidi
+Ir šādi palīdzības veidi:
+1) pašvaldībai piederošas vai uz likumīga pamata pašvaldības lietojumā esošas dzīvojamās telpas izīrēšana (11. - 21.pants);
+2) sociālā dzīvokļa izīrēšana (22.pants);
+3) nodrošināšana ar pagaidu dzīvojamo telpu (23.pants);
+4) palīdzība īrētās dzīvojamās telpas apmaiņā pret citu īrējamu dzīvojamo telpu (24.pants);
+5) pabalsta piešķiršana dzīvojamās telpas īres maksas un maksas par pakalpojumiem, kas saistīti ar dzīvojamās telpas lietošanu, segšanai (turpmāk - dzīvokļa pabalsts) (25.pants);
+6) vienreizēja pabalsta piešķiršana dzīvojamās telpas vai dzīvojamās mājas remontam (26.pants);
+7) vienreizēja dzīvojamās telpas atbrīvošanas pabalsta piešķiršana (26.¹ pants);
+8) dzīvojamās telpas remonts (27.pants);
+9) palīdzība dzīvojamās telpas iegādei vai būvniecībai (27.¹ pants).

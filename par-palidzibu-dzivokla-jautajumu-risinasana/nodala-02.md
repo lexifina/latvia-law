@@ -1,3 +1,2 @@
 II nodaļa
-Reģistrācijas kārtība
-pašvaldības palīdzības saņemšanai
+Reģistrācijas kārtība palīdzības saņemšanai

@@ -1,0 +1,3 @@
+19.¹ pants. Kārtība, kādā pašvaldības iegūst lietojumā dzīvojamās telpas
+(1) Pašvaldībai, piemērojot Civillikuma noteikumus, ir tiesības vienoties ar dzīvojamo māju īpašniekiem vai valdītājiem (arī ar valsts kapitālsabiedrībām) par tiem piederošu vai to valdījumā esošu neizīrētu dzīvojamo māju vai atsevišķu neizīrētu dzīvojamo telpu nodošanu pašvaldības lietojumā.
+(2) Ministru kabinets nosaka kārtību, kādā pašvaldības realizē šā panta pirmajā daļā noteiktās tiesības, arī kārtību, kādā pašvaldības izvēlas atbilstošākos dzīvojamo māju īpašnieku vai valdītāju (arī valsts kapitālsabiedrību) piedāvājumus.
