@@ -1,0 +1,1 @@
+1.pants. 1951.gada 1.novembrī noslēgtais Nolīgums par pasažieru starptautisko satiksmi (SMPS) ar grozījumiem un papildinājumiem, kas izdarīti līdz 2003.gada 1.maijam (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.

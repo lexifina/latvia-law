@@ -1,0 +1,1 @@
+3.pants. Dzelzceļa infrastruktūras pārvaldītājs Nolīguma Dienesta instrukciju un tās pielikumus, noteikumus par vagonu lietošanu starptautiskajā satiksmē, noteikumus par norēķiniem pasažieru un kravu starptautiskajos pārvadājumos pa dzelzceļu, pasažieru, bagāžas un preču pārvadājumu tarifus, kā arī to grozījumus un papildinājumus publicē laikrakstā "Latvijas Vēstnesis".
