@@ -1,0 +1,1 @@
+1.pants. 1993.gada 29.jūnijā Biržos parakstītais Līgums par valsts robežas atjaunošanu starp Latvijas Republiku un Lietuvas Republiku (turpmāk - Līgums) un tā pielikums ar šo likumu tiek pieņemts un apstiprināts.
