@@ -3,12 +3,12 @@
 (2) Nolikumam jābūt brīvi pieejamam visiem fonda ieguldītājiem pēc to pieprasījuma.
 (3) Nolikumā norāda:
 1) fonda nosaukumu;
-2) sabiedrības nosaukumu, reģistrācijas numuru, juridisko adresi un licences numuru;
+2) sabiedrības firmu, reģistrācijas numuru, juridisko adresi un licences numuru;
 3) fonda pārvaldes vispārīgos principus un kārtību, īpaši norādot lēmumu pieņemšanas kompetenci un kārtību, kādā var rīkoties ar fonda mantu;
 4) klientu apkalpošanas kārtību, īpaši norādot to, kādā kārtībā:
 a) izsniedzams fonda prospekts,
-b) pieņemami un reģistrējami ieguldījumu apliecību iegādes pieteikumi,
-c) izsniedzamas ieguldījumu apliecību iegrāmatojuma kvītis,
+b) (izslēgts ar 24.10.2002. likumu),
+c) (izslēgts ar 24.10.2002. likumu),
 d) sniedzama informācija par tām pārmaiņām darījumos ar fonda mantu gūto ienākumu sadalē, kuras skar fonda darbību, un par līdzīgiem notikumiem,
 e) veicama ieguldījumu apliecību emisija, atpakaļpirkšana un atpakaļpieņemšana;
 5) fonda vērtības, ieguldījumu apliecību pārdošanas un atpakaļpirkšanas cenas, kā arī fonda ienākumu aprēķināšanas principus;

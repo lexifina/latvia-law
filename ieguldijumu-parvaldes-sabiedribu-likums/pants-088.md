@@ -1,6 +1,6 @@
 88.pants. Atbildība
 (1) Komisijai ir tiesības uzlikt sabiedrībai un turētājbankai soda naudu apjomā līdz 400 minimālajām mēnešalgām par šādiem pārkāpumiem:
-1) par ieguldījumu sabiedrības vai ieguldījumu fonda nosaukuma pretlikumīgu lietošanu;
+1) par ieguldījumu sabiedrības firmas vai ieguldījumu fonda nosaukuma pretlikumīgu lietošanu;
 2) par šā likuma 3.panta pirmajā daļā minētās darbības veikšanu, ja to veic persona, kas nav ieguldījumu sabiedrība;
 3) par likumā un uz tā pamata izdotajos Komisijas noteikumos paredzēto dokumentu un ziņu, kā arī tajos izdarīto grozījumu neiesniegšanu Komisijai noteiktajos termiņos;
 4) par nepatiesu ziņu iesniegšanu Komisijai vai šādu ziņu publisku izplatīšanu;

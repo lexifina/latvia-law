@@ -2,10 +2,13 @@
 (1) Sabiedrībai nav tiesību uzņemties saistības uz fonda mantas rēķina, ja šīs saistības tieši neattiecas uz fondu.
 (2) Sabiedrība nedrīkst veikt bezatlīdzības darījumus ar fonda mantu.
 (3) Prasījumi pret sabiedrību un fonda mantā ietilpstošie prasījumi nav savstarpēji ieskaitāmi.
-(4) Fonda mantu nedrīkst ieķīlāt vai citādi apgrūtināt, izņemot šā panta devītajā un desmitajā daļā noteiktos gadījumus, kad tā kalpo kā nodrošinājums.
+(4) Fonda mantu nedrīkst ieķīlāt vai citādi apgrūtināt ar lietu tiesībām, izņemot, ja:
+1) tā kalpo kā nodrošinājums, saņemot aizņēmumus šā panta devītajā un desmitajā daļā noteiktajā kārtībā;
+2) uz fonda mantas rēķina tiek veikti pārdošanas darījumi ar atpirkšanu (repo);
+3) tā kalpo kā nodrošinājums, veicot darījumus ar šā likuma 65.pantā minētajiem atvasinātajiem finansu instrumentiem.
 (5) Sabiedrība nedrīkst, tieši vienojoties, atsavināt fonda mantu par labu:
 1) šo fondu pārvaldošajai sabiedrībai un tās ieinteresētajām personām;
-2) šā fonda turētājbankai un tās ieinteresētajām personām;
+2) (izslēgts ar 24.10.2002. likumu);
 3) citiem fondiem, ko pārvalda tā pati sabiedrība.
 (6) Sabiedrība nedrīkst, tieši vienojoties, iegādāties uz fonda rēķina mantu no šā panta piektajā daļā minētajām personām.
 (7) Tādu vērtspapīru iegādei, kurus emitējusi kāda no šā panta piektajā daļā minētajām personām, fonda mantu drīkst izmantot tikai ar fondu biržas vai cita regulēta un publiska vērtspapīru tirgus starpniecību.

@@ -1,8 +1,8 @@
-64.pants. Ieguldījumi vērtspapīros
-(1) Fonda ieguldījumus var izdarīt tikai brīvi pārvedamos vērtspapīros, kuri atbilst vismaz vienam no šādiem kritērijiem:
-1) tie ir iekļauti to fondu biržu oficiālajos sarakstos, kuras atrodas Latvijas Republikā vai Ekonomiskās sadarbības un attīstības organizācijas dalībvalstī vai ir Starptautiskās biržu federācijas dalībnieces;
-2) tie tiek tirgoti citos regulētos un publiskos vērtspapīru tirgos, kas atrodas Latvijas Republikā vai Ekonomiskās sadarbības un attīstības organizācijas dalībvalstī;
-3) tie ir iekļauti fondu biržu oficiālajos sarakstos vai tiek tirgoti citos regulētos un publiskos vērtspapīru tirgos, kas neatrodas 1.punktā minētajās valstīs, un šādas biržas vai tirgus izvēle ir paredzēta fonda prospektā.
-(2) Fonda ieguldījumus var izdarīt arī nesen emitētos brīvi pārvedamos vērtspapīros, kuri nav iekļauti fondu biržu oficiālajos sarakstos vai netiek tirgoti šā panta pirmajā daļā noteiktajā kārtībā, ja šo vērtspapīru emisijas noteikumos paredzēts, ka tiks iesniegts iesniegums par šo vērtspapīru iekļaušanu šā panta pirmajā daļā minēto biržu oficiālajos sarakstos vai regulētos un publiskos vērtspapīru tirgos un šo vērtspapīru iekļaušana fondu biržas sarakstos notiks gada laikā no emisijas dienas.
-(3) Fonda ieguldījumus var izdarīt šā panta pirmajā un otrajā daļā neparedzētos brīvi pārvedamos vērtspapīros, ja ieguldījuma apjoms nepārsniedz 10 procentus no atvērtā fonda aktīviem.
-(4) Fonda mantu nedrīkst ieguldīt no dārgmetāliem atvasinātos vērtspapīros.
+64.pants. Ieguldījumi fonda ieguldījumu apliecībās (daļās)
+(1) Fonda līdzekļus drīkst ieguldīt Latvijas Republikā, Igaunijas Republikā, Lietuvas Republikā, Eiropas Savienības vai Eiropas ekonomiskās telpas dalībvalstī reģistrētu atvērto fondu vai tiem pielīdzināmu kopējo ieguldījumu uzņēmumu ieguldījumu apliecībās (daļās).
+(2) Fonda līdzekļus drīkst ieguldīt atvērto fondu vai tiem pielīdzināmu kopējo ieguldījumu uzņēmumu apliecībās (daļās) šā panta pirmajā daļā neminētajās valstīs, ja atvērtie fondi vai tiem pielīdzināmi kopējo ieguldījumu uzņēmumi atbilst šādām prasībām:
+1) tie ir reģistrēti valstī, kurā tiesiskais regulējums paredz šādu uzņēmumu valstisko uzraudzību, kas līdzvērtīga šajā likumā noteiktajai uzraudzībai;
+2) to darbības principi (ieguldītāju aizsardzība, ieguldīšanas noteikumi u.tml.) ir analoģiski šā likuma noteikumiem par atvērto fondu darbību;
+3) tie sagatavo un publisko pusgada un gada pārskatus, lai būtu iespējams novērtēt to aktīvus, saistības, ienākumus un darbību pārskata periodā.
+(3) Fonda līdzekļus drīkst ieguldīt šā panta pirmajā un otrajā daļā minēto atvērto fondu un kopējo ieguldījumu uzņēmumu apliecībās (daļās), ja atvērtā fonda vai kopējo ieguldījumu uzņēmuma [kura ieguldījumu apliecības (daļas) paredzēts iegādāties] prospektā, pārvaldes nolikumā vai tiem pielīdzināmā dokumentā ir noteikts, ka ieguldījumi citos fondos vai kopējo ieguldījumu uzņēmumos nedrīkst pārsniegt 10 procentus no fonda vai kopējo ieguldījumu uzņēmuma aktīviem.
+(4) Ja fonda līdzekļi pārsvarā tiks ieguldīti šajā pantā minētajos fondos vai kopējo ieguldījumu uzņēmumos, fonda prospektā iekļauj informāciju par maksimālajām fondu pārvaldīšanas izmaksām, kuras var ieturēt gan no paša fonda, gan arī no tiem fondiem vai kopējo ieguldījumu uzņēmumiem, kuros šis fonds veic ieguldījumus.

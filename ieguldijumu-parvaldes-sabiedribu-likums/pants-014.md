@@ -1,7 +1,7 @@
 14.pants. Fonda pārvaldes tiesību izbeigšanās
 Sabiedrības tiesības pārvaldīt ieguldījumu fondu izbeidzas:
 1) ar fonda pārvaldes tiesību nodošanu citai sabiedrībai;
-2) ar licences izbeigšanos;
+2) (izslēgts ar 24.10.2002. likumu);
 3) ar licences anulēšanu;
 4) ar slēgtā fonda ieguldītāju pilnsapulces lēmumu par sabiedrības maiņu;
 5) ar fonda likvidācijas pabeigšanu, ja to veic pati sabiedrība;

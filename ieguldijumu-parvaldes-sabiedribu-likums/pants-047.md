@@ -1,8 +1,8 @@
 47.pants. Turētājbankas līgums
 (1) Turētājbankas līgums ir rakstveidā noslēgts sabiedrības un turētājbankas līgums, saskaņā ar kuru turētājbanka apņemas glabāt fonda mantu un veikt darījumus ar fonda mantu un fonda kontu apkalpošanu saskaņā ar likumu, šo līgumu un sabiedrības rīkojumiem.
 (2) Turētājbankas līgumā norāda:
-1) sabiedrības nosaukumu, reģistrācijas numuru, licences numuru, juridisko adresi un valdes atrašanās vietu;
-2) turētājbankas nosaukumu, reģistrācijas numuru, licences numuru, juridisko adresi un valdes atrašanās vietu;
+1) sabiedrības firmu, reģistrācijas numuru, licences numuru, juridisko adresi un valdes atrašanās vietu;
+2) turētājbankas firmu, reģistrācijas numuru, licences numuru, juridisko adresi un valdes atrašanās vietu;
 3) fonda nosaukumu;
 4) pušu tiesības un pienākumus;
 5) fonda kontu apkalpošanas kārtību;

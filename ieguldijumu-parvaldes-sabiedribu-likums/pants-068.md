@@ -1,7 +1,6 @@
-68.pants. Ieguldījumi banku termiņnoguldījumos
-(1) Fonda aktīvus drīkst ieguldīt banku īstermiņa termiņnoguldījumos.
-(2) Ieguldījumus banku termiņnoguldījumos drīkst izdarīt tikai Latvijas Republikā, Igaunijas Republikā, Lietuvas Republikā un Ekonomiskās sadarbības un attīstības organizācijas dalībvalstīs licencētās bankās.
-(3) Ieguldījumi banku termiņnoguldījumos nedrīkst pārsniegt 25 procentus no fonda aktīviem, izņemot gadījumu, kad tas ir nepieciešams:
-1) fonda aktīvu sadalei sakarā ar fonda likvidāciju;
-2) riska samazināšanai.
-(4) Fonda aktīvi, kas noguldīti termiņnoguldījumos vienā bankā, nedrīkst pārsniegt 10 procentus no kopējiem fonda aktīviem.
+68.pants. Ieguldījumi nekustamajā īpašumā
+(1) Slēgtā fonda līdzekļus drīkst ieguldīt tikai tādā nekustamajā īpašumā, kas atrodas un ir reģistrēts Latvijas Republikā, Igaunijas Republikā, Lietuvas Republikā, Eiropas Savienības vai Eiropas ekonomiskās telpas dalībvalstī vai Ekonomiskās sadarbības un attīstības organizācijas dalībvalstī.
+(2) Par fonda līdzekļiem iegūtais nekustamais īpašums reģistrējams uz sabiedrības vārda. Šo nekustamo īpašumu sabiedrība nedrīkst atsavināt, ieķīlāt vai apgrūtināt ar citām lietu tiesībām bez turētājbankas piekrišanas. Sabiedrība, rīkojoties ar šo nekustamo īpašumu, ievēro likumā un fonda prospektā noteiktos ierobežojumus.
+(3) Sabiedrība pati nav tiesīga apsaimniekot nekustamo īpašumu, bet slēdz par tā apsaimniekošanu līgumu ar trešo personu, kuras pamatnodarbošanās ir profesionāla nekustamo īpašumu apsaimniekošana.
+(4) Izdarīt ieguldījumus nekustamajā īpašumā var tikai tad, ja sabiedrības apstiprināta neatkarīgu profesionālu ekspertu komisija ir novērtējusi nekustamo īpašumu un fonda ieguldāmie līdzekļi nepārsniedz ekspertu komisijas noteikto vērtību. Šis nosacījums ir spēkā arī attiecībā uz vienošanos par zemes lietojuma tiesību vērtības noteikšanu un šīs vērtības iespējamo vēlāko maiņu.
+(5) Fondam piederošo nekustamo īpašumu apgrūtināšana ar lietu tiesībām ir pieļaujama, ja tā paredzēta fonda prospektā un tiek veikta ikdienas komercdarbības ietvaros. Šāda apgrūtināšana kopsummā nedrīkst pārsniegt 50 procentus no šā nekustamā īpašuma tirgus vērtības.

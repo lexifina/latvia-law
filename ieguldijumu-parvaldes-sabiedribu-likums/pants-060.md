@@ -1,20 +1,20 @@
-60.pants. Ārvalstu fondu ieguldījumu apliecību emisija un apgrozība
-(1) Ārvalstu fondu ieguldījumu apliecību un tām pielīdzināmu vērtspapīru publiska emisija un apgrozība Latvijas Republikā ir atļauta tikai ar Latvijas Republikā reģistrēta izplatītāja starpniecību; šis izplatītājs atbild par atvērto fondu ieguldījumu apliecību atpakaļpirkšanu un atpakaļpieņemšanu Latvijas Republikā. Noteikumus par šāda starpnieka statusu un darbību apstiprina Komisija.
-(2) Atļaujas saņemšanai Komisijā jāiesniedz iesniegums, kuram pievienojami šādi dokumenti vai tiem pielīdzināmi dokumenti:
-1) kompetentas valsts institūcijas izdota izziņa par to, ka attiecīgais fonds un to pārvaldošā sabiedrība ir reģistrēti un ka šī institūcija garantē attiecīgās informācijas pieejamību;
-2) fonda pārvaldes nolikums vai tam pielīdzināms dokuments;
-3) fonda pēdējais revidētais un apstiprinātais gada pārskats, kā arī pusgada pārskats, ja tas apstiprināts pēc gada pārskata apstiprināšanas;
-4) fonda prospekts;
-5) līgums ar ieguldījumu apliecību vai tām pielīdzināmu vērtspapīru izplatītāju Latvijā.
-(3) Fonda prospektam, fonda pārvaldes nolikumam, līgumam ar izplatītāju un tiem pielīdzināmiem dokumentiem pievienojams to notariāli apliecināts tulkojums Latvijas Republikas valsts valodā. Tulkojumam valsts valodā ir augstāks juridiskais spēks. Citiem Komisijā iesniedzamiem dokumentiem pievienojams to tulkojums valsts valodā vai citā Komisijas atļautā valodā.
-(4) Komisija izsniedz atļauju ārvalstu fonda ieguldījumu apliecību vai tām pielīdzināmu vērtspapīru emisijai divu mēnešu laikā no visu nepieciešamo dokumentu un papildu informācijas saņemšanas dienas, ja vienlaikus pastāv šādi nosacījumi:
-1) fonds un to pārvaldošā sabiedrība atrodas valstī, kuras normatīvie akti nosaka regulāciju, kas ir līdzīga šajā likumā noteiktajai regulācijai;
-2) fonds un to pārvaldošā sabiedrība ir reģistrēti vai licencēti attiecīgās valsts kompetentā institūcijā;
+60.pants. Ārvalstu atvērto fondu ieguldījumu apliecību publiskā apgrozība
+(1) Ārvalstu atvērto fondu ieguldījumu apliecību vai tām pielīdzināmu vērtspapīru (turpmāk - ārvalsts fonda vērtspapīri) laišana publiskajā apgrozībā Latvijas Republikā ir atļauta tikai ar tādas Latvijas Republikā reģistrētas kredītiestādes vai brokeru sabiedrības starpniecību, kurai ir izsniegta licence starpniekdarbības veikšanai (turpmāk - izplatītājs). Izplatītājs nodrošina ārvalsts fonda vērtspapīru atpakaļpirkšanu un atpakaļpieņemšanu Latvijas Republikā. Ārvalstīs reģistrētu slēgto fondu ieguldījumu apliecības vai tām pielīdzināmus vērtspapīrus drīkst laist publiskajā apgrozībā saskaņā ar normatīvajiem aktiem, kas regulē vērtspapīru publisko apgrozību Latvijas Republikā.
+(2) Pirms ārvalsts fonda vērtspapīru laišanas publiskajā apgrozībā Latvijas Republikā attiecīgā fonda pilnvarotā persona vai izplatītājs iesniedz Komisijai iesniegumu. Iesniegumam pievieno šādus dokumentus:
+1) ārvalsts fonda reģistrācijas valsts kompetentas institūcijas izdota izziņa par to, ka attiecīgais fonds un to pārvaldošā sabiedrība ir reģistrēti attiecīgajā ārvalstī;
+2) ārvalsts fonda pārvaldes nolikums vai tam pielīdzināms dokuments;
+3) ārvalsts fonda pēdējais revidētais un apstiprinātais gada pārskats, kā arī pusgada pārskats, ja tas apstiprināts pēc gada pārskata apstiprināšanas;
+4) ārvalsts fonda prospekts;
+5) līgums ar ārvalsts fonda vērtspapīru izplatītāju Latvijā;
+6) izplatītāja sagatavoti un apstiprināti noteikumi par attiecīgā ārvalsts fonda vērtspapīru izplatīšanas kārtību Latvijas Republikā.
+(3) Eiropas Savienības vai Eiropas ekonomiskās telpas dalībvalstī, Igaunijas Republikā vai Lietuvas Republikā reģistrēta atvērtā fonda vērtspapīrus drīkst laist publiskajā apgrozībā Latvijas Republikā mēnesi pēc šā panta otrajā daļā minēto dokumentu iesniegšanas Komisijai. Ja Komisija minētajā termiņā personai, kura iesniegusi dokumentus ārvalsts fonda vērtspapīru laišanai publiskajā apgrozībā Latvijas Republikā, ir darījusi zināmu lēmumu, ka attiecīgā ārvalsts fonda vērtspapīru laišana publiskajā apgrozībā neatbilst šā likuma noteikumiem, ārvalsts fonda vērtspapīrus nedrīkst laist publiskajā apgrozībā Latvijas Republikā.
+(4) Šā panta trešajā daļā neminētajās valstīs reģistrētu atvērto fondu vērtspapīrus drīkst laist publiskajā apgrozībā Latvijas Republikā tikai pēc tam, kad to atļāvusi Komisija. Komisija atļauj ārvalsts fonda vērtspapīrus laist publiskajā apgrozībā mēneša laikā pēc visu nepieciešamo dokumentu un papildu informācijas saņemšanas dienas, ja vienlaikus pastāv šādi nosacījumi:
+1) fonds un to pārvaldošā sabiedrība ir reģistrēti ārvalstī, kuras normatīvie akti nosaka šim likumam analoģisku tiesisko regulējumu;
+2) fonds un to pārvaldošā sabiedrība ir reģistrēti vai licencēti attiecīgās ārvalsts kompetentā institūcijā;
 3) tiek garantēta šajā likumā noteiktās informācijas iegūšana par attiecīgo fondu, kā arī par to pārvaldošo sabiedrību;
-4) līgums ar izplatītāju noslēgts atbilstoši Komisijas noteikumiem.
-(5) Komisijai ir tiesības apturēt emisiju un apgrozību, pastāvot jebkuram no šādiem nosacījumiem:
-1) fonds vai to pārvaldošā sabiedrība vairs neatbilst šā panta ceturtās daļas 1.- 4.punkta noteikumiem;
-2) Komisijai iesniegtie dokumenti un informācija nesniedz patiesas ziņas par fondu vai to pārvaldošo sabiedrību un tās darbību;
-3) fonds, to pārvaldošā sabiedrība vai izplatītājs pārkāpj fonda pārvaldes nolikuma vai fonda prospekta noteikumus;
-4) fonda, fondu pārvaldošās sabiedrības vai izplatītāja darbība ir pretrunā ar fonda ieguldītāju interesēm;
-5) citos normatīvajos aktos paredzētajos gadījumos.
+4) līgums ar izplatītāju noslēgts atbilstoši normatīvo aktu prasībām.
+(5) Komisija aptur ārvalsts fonda vērtspapīru publisko apgrozību Latvijas Republikā, tiklīdz iestājas jebkurš no šādiem nosacījumiem:
+1) fonds vai to pārvaldošā sabiedrība neatbilst šā panta ceturtās daļas 1., 2., 3. un 4.punkta noteikumiem;
+2) Komisijai iesniegtie dokumenti un informācija ietver nepatiesas ziņas par fondu vai to pārvaldošo sabiedrību un tās darbību;
+3) fonds, to pārvaldošā sabiedrība vai izplatītājs pārkāpj fonda prospekta vai fonda pārvaldes nolikuma noteikumus.
+(6) Fonda prospektam, fonda pārvaldes nolikumam, līgumam ar izplatītāju un tiem pielīdzināmiem dokumentiem, kas noformēti svešvalodā, pievieno notariāli apliecinātu tulkojumu valsts valodā. Citiem Komisijai iesniedzamiem dokumentiem pievieno to tulkojumu valsts valodā vai citā valodā, kuras izmantošanai piekritusi Komisija.

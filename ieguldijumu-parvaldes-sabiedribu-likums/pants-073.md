@@ -6,3 +6,5 @@
 (5) Fonda gada un pusgada pārskatus apstiprina sabiedrības valde.
 (6) Fonda gada un pusgada pārskatiem jābūt publiski pieejamiem visām fonda darbībā ieinteresētajām personām.
 (7) Fonda ieguldītājiem ir tiesības pieprasīt un bez maksas saņemt fonda gada un pusgada pārskatu.
+(8) Sabiedrība ne vēlāk kā mēnesi pēc fonda gada pārskata apstiprināšanas un ne vēlāk kā četrus mēnešus pēc pārskata gada beigām Komisijas noteiktajā kārtībā publicē fonda gada pārskatu, kā arī nodrošina, lai visām fonda darbībā ieinteresētajām personām būtu iespēja ar to iepazīties. Šai nolūkā sabiedrība ievieto fonda gada pārskatu savā interneta mājas lapā, ja tāda ir izveidota, vai sniedz par to informāciju citādā attiecīgā fonda pārvaldes nolikumā paredzētajā kārtībā.
+(9) Sabiedrība ne vēlāk kā divus mēnešus pēc pārskata perioda beigām nodrošina, lai visām fonda darbībā ieinteresētajām personām būtu iespēja iepazīties ar fonda pusgada pārskatu. Šai nolūkā sabiedrība ievieto fonda pusgada pārskatu savā interneta mājas lapā, ja tāda ir izveidota, vai sniedz par to informāciju citādā attiecīgā fonda pārvaldes nolikumā paredzētajā kārtībā.

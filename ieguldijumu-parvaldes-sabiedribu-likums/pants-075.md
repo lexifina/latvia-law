@@ -1,20 +1,6 @@
 75.pants. Fonda gada pārskatā iekļaujamā informācija
-(1) Fonda gada pārskatā iekļaujama šāda informācija:
-1) fonda neto aktīvi uz vienu fonda daļu un to salīdzinājums ar iepriekšējo periodu;
-2) sabiedrības ziņojums par fonda darbību;
-3) turētājbankas ziņojums;
-4) auditora, sabiedrības un turētājbankas pienākumu un atbildības uzskaitījums;
-5) fondā izdarīto ieguldījumu atdeves aprēķins par pārskata periodu;
-6) fonda neto aktīvu kustība pārskata periodā;
-7) fonda investīciju portfeļa stāvoklis pārskata perioda beigās;
-8) fonda bilance pārskata perioda beigās;
-9) būtisku fonda aktīvu izmaiņu apkopojums par pārskata periodu;
-10) piezīmes pie gada pārskatiem;
-11) fonda būtiskāko grāmatvedības metožu uzskaitījums;
-12) fonda ieguldītājiem izmaksājamo ieņēmumu pārskats.
-(2) Salīdzinošie rādītāji ir jāsniedz attiecībā uz visu informāciju, kas iekļauta fonda ienākumu un izdevumu aprēķinā par pārskata periodu, fonda neto aktīvu kustības pārskatā par pārskata periodu, pārskatā par fonda investīciju portfeļa stāvokli pārskata perioda beigās attiecībā uz sektoru procentuālo sadalījumu un fonda bilancē pārskata perioda beigās.
-(3) Fonda gada pārskatam pievienojams auditora atzinums.
-(4) Fonda gada un pusgada pārskatos iekļaujamās informācijas formu un apjomu nosaka Komisija.
-(5) Fonda pusgada pārskati, kuri var būt nerevidēti, sagatavojami atbilstoši tām pašām grāmatvedības uzskaites metodēm un formātiem, kas tiek izmantoti fonda gada pārskatos. Pusgada pārskatu saturu nosaka Komisija.
-(6) Sabiedrība iesniedz tās pārvaldāmā fonda gada pārskatu kopā ar auditora atzinumu Komisijai ne vēlāk kā mēnesi pēc gada pārskata apstiprināšanas un ne vēlāk kā četrus mēnešus pēc pārskata gada beigām.
-(7) Sabiedrības valdes apstiprinātais fonda pusgada pārskats iesniedzams Komisijai ne vēlāk kā divus mēnešus pēc pārskata perioda beigām.
+(1) Fonda gada pārskats kā vienots kopums sastāv no aktīvu un saistību pārskata, ieņēmumu un izdevumu pārskata, neto aktīvu kustības pārskata, ieguldījumu portfeļa pārskata, pielikuma un sabiedrības un turētājbankas ziņojuma.
+(2) Fonda gada pārskatam pievieno fonda auditora ziņojumu.
+(3) Fonda pusgada pārskata sastāvu nosaka Komisija. Fonda pusgada pārskati nav pakļauti obligātai fonda auditora pārbaudei.
+(4) Sabiedrība iesniedz tās pārvaldē esoša fonda gada pārskatu un fonda auditora ziņojumu Komisijai 10 darbdienu laikā pēc gada pārskata apstiprināšanas, bet ne vēlāk kā četrus mēnešus pēc pārskata perioda beigām.
+(5) Sabiedrība iesniedz tās pārvaldē esoša fonda pusgada pārskatu Komisijai 30 dienu laikā pēc pārskata perioda beigām.

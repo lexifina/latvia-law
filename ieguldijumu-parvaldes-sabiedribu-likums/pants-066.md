@@ -1,9 +1,23 @@
-66.pants. Ieguldījumi kapitāla daļās
-(1) Ar fondu pārvaldošo sabiedrību vienā koncernā esošo koncernsabiedrības akcijas drīkst iegādāties tikai ar fondu biržas starpniecību.
-(2) Fonda mantas ieguldījumi tieši vai netieši nedrīkst pārsniegt 10 procentus no jebkura šāda rādītāja:
-1) ieguldījums viena emitenta vērtspapīros, kuros nostiprinātas emitenta parādsaistības;
-2) viena emitenta akciju (bez balsstiesībām) nominālvērtība.
-(3) Slēgtā fonda mantas ieguldījumi vienas akciju sabiedrības akcijās (bez balsstiesībām) tieši vai netieši nedrīkst pārsniegt 25 procentus no to kopskaita.
-(4) Visu sabiedrības pārvaldē esošo fondu mantas ieguldījumi tieši vai netieši nedrīkst pārsniegt 10 procentus no jebkura šāda rādītāja:
-1) viena emitenta pamatkapitāls;
-2) viena emitenta balsstiesību kopējais apjoms.
+66.pants. Ieguldījumu ierobežojumi
+(1) Fonda ieguldījumi viena emitenta pārvedamajos vērtspapīros vai naudas tirgus instrumentos nedrīkst pārsniegt piecus procentus no fonda aktīviem. Minēto ierobežojumu drīkst palielināt līdz 10 procentiem no fonda aktīviem, bet tādā gadījumā piecus procentus pārsniedzošo ieguldījumu kopējā vērtība nedrīkst pārsniegt 40 procentus no fonda aktīviem.
+(2) Fonda ieguldījumus viena emitenta pārvedamajos vērtspapīros vai naudas tirgus instrumentos drīkst paaugstināt līdz 35 procentiem no fonda aktīviem, ja pārvedamos vērtspapīrus vai naudas tirgus instrumentus ir emitējusi vai garantējusi:
+1) Latvijas Republika, Igaunijas Republika, Lietuvas Republika, Eiropas Savienības vai Eiropas ekonomiskās telpas dalībvalsts vai minēto valstu pašvaldība;
+2) Ekonomiskās sadarbības un attīstības organizācijas dalībvalsts;
+3) starptautiska finansu institūcija, ja viena vai vairākas Eiropas Savienības vai Eiropas ekonomiskās telpas dalībvalstis ir tās locekles.
+(3) Šā panta otrajā daļā noteikto ierobežojumu atļauts pārsniegt, ja vienlaikus tiek ievēroti šādi nosacījumi:
+1) pārsniegšana ir paredzēta fonda prospektā;
+2) fondam pieder pārvedami vērtspapīri vai naudas tirgus instrumenti no sešām vai vairākām emisijām, un katras emisijas pārvedamo vērtspapīru vai naudas tirgus instrumentu vērtība atsevišķi nepārsniedz 30 procentus no fonda aktīviem;
+3) fonda prospektā ir minētas personas, kuru emitētajos vai garantētajos pārvedamajos vērtspapīros vai naudas tirgus instrumentos fonds paredzējis ieguldīt vai ir ieguldījis vairāk nekā 35 procentus no fonda aktīviem.
+(4) Fonda ieguldījumus viena emitenta pārvedamajos vērtspapīros drīkst palielināt līdz 25 procentiem no fonda aktīviem, ja tie ir Latvijas Republikā, Igaunijas Republikā, Lietuvas Republikā, Eiropas Savienības vai Eiropas ekonomiskās telpas dalībvalstī vai Ekonomiskās sadarbības un attīstības organizācijas dalībvalstī reģistrētas kredītiestādes emitēti parāda vērtspapīri, kuros nostiprinātās saistības paredz iegūtos līdzekļus likumā noteiktajā kārtībā ieguldīt lietās, kas visā parāda vērtspapīru apgrozības laikā pilnībā nodrošina tajos nostiprinātās saistības, un šīs saistības ir prioritāri izpildāmas šo vērtspapīru emitenta maksātnespējas gadījumā.
+(5) Ja fondam piederošo šā panta ceturtajā daļā minēto viena emitenta parāda vērtspapīru vērtība pārsniedz piecus procentus no fonda aktīviem, kopējā piecus procentus pārsniedzošo fonda ieguldījumu vērtība nedrīkst pārsniegt 80 procentus no fonda aktīviem.
+(6) Fonda noguldījumi vienā kredītiestādē nedrīkst pārsniegt 20 procentus no fonda aktīviem.
+(7) Kopējie riski, kas izriet no darījumiem ar atvasinātajiem finansu instrumentiem, nedrīkst pārsniegt fonda ieguldījumu portfeļa neto vērtību. Aprēķinot kopējo risku, ņem vērā atvasinātā finansu instrumenta bāzes aktīva vērtību, darījuma otras puses risku, nākotnē paredzamās pārmaiņas tirgū un laika periodu, kas nepieciešams, lai slēgtu attiecīgo pozīciju.
+(8) Riska pozīcija darījumos ar ārpusbiržas atvasinātajiem finansu instrumentiem nedrīkst pārsniegt:
+1) 10 procentus no fonda aktīviem, ja darījuma otra puse ir kredītiestāde, kas atbilst šā likuma 63.panta pirmās daļas prasībām;
+2) piecus procentus no fonda aktīviem citos gadījumos.
+(9) Ja saskaņā ar fonda prospektu darījumus ar atvasinātajiem finansu instrumentiem paredzēts veikt, lai gūtu peļņu, atvasinātā finansu instrumenta bāzes aktīvam piemērojami šajā pantā noteiktie ierobežojumi.
+(10) Fonda ieguldījumi viena atvērtā fonda vai kopējo ieguldījumu uzņēmuma ieguldījumu apliecībās (daļās) nedrīkst pārsniegt 10 procentus no fonda aktīviem. Fonda kopējie ieguldījumi šā likuma 64.panta otrajā daļā minēto kopējo ieguldījumu uzņēmumu apliecībās (daļās) nedrīkst pārsniegt 30 procentus no fonda aktīviem.
+(11) Neņemot vērā šā panta pirmajā, sestajā, septītajā un astotajā daļā atsevišķi noteiktos ieguldījumu ierobežojumus, kopējie fonda ieguldījumi pārvedamajos vērtspapīros un naudas tirgus instrumentos, fonda noguldījumi un darījumi ar atvasinātajiem finansu instrumentiem, kuru emitents vai garantētājs, noguldījuma piesaistītājs vai darījuma otra puse ir viena un tā pati persona, nedrīkst pārsniegt 20 procentus no fonda aktīviem. Piemērojot šajā pantā noteiktos ieguldījumu ierobežojumus, vienā koncernā ietilpstošas komercsabiedrības uzskata par vienu personu.
+(12) Šā panta pirmajā, otrajā, ceturtajā, piektajā, sestajā, septītajā un astotajā daļā atsevišķi noteiktos ieguldījumu ierobežojumus nedrīkst apvienot, un tādējādi kopējie fonda ieguldījumi pārvedamajos vērtspapīros un naudas tirgus instrumentos, fonda noguldījumi un darījumi ar atvasinātajiem finansu instrumentiem, kuru emitents vai garantētājs, noguldījuma piesaistītājs vai darījuma otra puse ir viena un tā pati persona, nedrīkst pārsniegt 35 procentus no fonda aktīviem.
+(13) Neņemot vērā šā likuma 62.panta noteikumus par fonda ieguldījumiem pārvedamajos vērtspapīros un naudas tirgus instrumentos, līdz 10 procentiem no fonda aktīviem drīkst ieguldīt pārvedamajos vērtspapīros un naudas tirgus instrumentos, kas neatbilst šā likuma 62.pantā noteiktajām prasībām.
+(14) Slēgtā fonda ieguldījumus drīkst veikt, nepiemērojot šajā pantā noteiktos ieguldījumu ierobežojumus, ja attiecīgā fonda prospektā ir noteikts cits ierobežojuma apjoms.

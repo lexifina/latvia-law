@@ -1,4 +1,3 @@
-72.pants. Vispārīgie noteikumi
-(1) Sabiedrība veic ieguldījumu fondu grāmatvedības uzskaiti un gada un pusgada pārskatu sagatavošanu saskaņā ar šo likumu, likumu "Par grāmatvedību", Latvijas grāmatvedības standartiem un Komisijas noteikumiem.
-(2) Šīs nodaļas noteikumi piemērojami, sabiedrībai veicot tās pārvaldāmā fonda grāmatvedības uzskaiti un gada un pusgada pārskatu sagatavošanu.
-(3) Gada un pusgada pārskatiem jāsniedz patiess un skaidrs priekšstats par fonda aktīviem, pasīviem, finansiālo stāvokli, ieņēmumiem un izdevumiem un neto aktīvu kustību pārskata periodā.
+72.pants. Vispārīgie noteikumi par fonda pārskatiem
+(1) Sabiedrība kārto fonda grāmatvedību un sagatavo fonda gada un pusgada pārskatus saskaņā ar šo likumu, likumu "Par grāmatvedību" un Komisijas noteikumiem.
+(2) Komisijai ir tiesības, ja tas nepieciešams uzraudzībai, pieprasīt fonda pārskatu arī par citu periodu, nosakot šāda pārskata sagatavošanas kārtību.

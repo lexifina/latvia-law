@@ -14,6 +14,6 @@
 (9) Ieguldītāju pilnsapulce ir tiesīga, ja tajā piedalās ieguldītāji, kas pārstāv vismaz pusi no fonda vērtības.
 (10) Ieguldītāju pilnsapulces lēmums ir pieņemts, ja par to nobalso ieguldītāji, kas pārstāv ne mazāk kā trīs ceturtdaļas no pilnsapulcē kopumā pārstāvētās fonda vērtības.
 (11) Sabiedrības un turētājbankas pārstāvjiem, Komisijas locekļiem un auditoriem ir tiesības piedalīties ieguldītāju pilnsapulcē bez balsstiesībām, bet ar padomdevēju tiesībām.
-(12) Ieguldītāju tiesības piedalīties ieguldītāju pilnsapulcē pārbauda saskaņā ar likuma "Par akciju sabiedrībām" noteikumiem attiecībā uz publiskām akciju sabiedrībām.
+(12) Ieguldītāju tiesības piedalīties ieguldītāju pilnsapulcē pārbauda saskaņā ar normatīvajiem aktiem, kas nosaka, kādā veidā noskaidrojami publiskajā apgrozībā esošo vērtspapīru īpašnieki.
 (13) Ieguldītāju pilnsapulces protokola noraksts iesniedzams Komisijai triju dienu laikā pēc pilnsapulces.
 (14) Lēmums stājas spēkā pēc mēneša no tā pieņemšanas dienas, ja Komisija šajā laikā nav cēlusi pret to motivētus iebildumus sakarā ar šā lēmuma neatbilstību likumam vai Komisijas noteikumiem. Komisijai ir tiesības pieņemt lēmumu par īsāku ieguldītāju pilnsapulces lēmuma spēkā stāšanās termiņu.
