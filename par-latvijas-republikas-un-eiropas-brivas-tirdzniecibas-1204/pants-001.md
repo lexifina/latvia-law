@@ -1,0 +1,1 @@
+1.pants. 2000.gada 22.novembrī pieņemtais Latvijas Republikas un Eiropas brīvās tirdzniecības asociācijas valstu līguma Apvienotās komitejas lēmums Nr. 1/2000 "Par grozījumiem Latvijas Republikas un Eiropas brīvās tirdzniecības asociācijas valstu līguma B protokolā" (turpmāk - Lēmums) ar šo likumu tiek pieņemts un apstiprināts.
