@@ -7,7 +7,8 @@
 5) nodeva par uzvārda, vārda un tautības ieraksta maiņu personu apliecinošos dokumentos - likums "Par vārda, uzvārda un tautības ieraksta maiņu";
 6) nodeva par zemes rezervēšanu lauku apvidos - likums "Par zemes reformu Latvijas Republikas lauku apvidos";
 7) nodevas par apliecinājumiem un citu funkciju pildīšanu bāriņtiesās un pagasttiesās - likums "Par bāriņtiesām un pagasttiesām";
-8) lidostu nodevas - likums "Par aviāciju".
+8) lidostu nodevas - likums "Par aviāciju";
+9) nodeva par darbību veikšanu īrestiesā - Īrestiesu likums.
 (2) Valsts nodevas ir maksājamas par šādiem juridiskajiem un citiem pakalpojumiem:
 1) par dokumentu izsniegšanu izbraukšanai uz pastāvīgu dzīvi ārvalstīs;
 2) par notariālo darbību izpildi;
