@@ -1,0 +1,2 @@
+35. pants. Biržas izpildinstitūciju izveidošana
+Savu mērķu īstenošanai un statūtos noteikto uzdevumu izpildei biržā papildus pilnsapulcē ievēlētajām institūcijām (šā likuma 33. pants) var izveidot šādas izpildinstitūcijas: direkciju, mākleriātu, norēķinu komisiju, reģistrācijas biroju, informācijas nodaļu un citus speciālos dienestus. Ar biržas biedru pilnsapulces lēmumu biržā var dibināt citus speciālos dienestus, kas darbojas, pamatojoties uz biržas biedru pilnsapulces apstiprinātajiem nolikumiem.

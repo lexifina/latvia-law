@@ -1,0 +1,5 @@
+36. pants. Kotācijas komisijas izveidošana un sastāvs
+Preču, vērtspapīru un valūtas kotēšanai biržā tiek izveidota kotācijas komisija, kas darbojas, pamatojoties uz nolikumu par kotācijas komisiju.
+Biržas biedru pilnsapulce ievēlē kotācijas komisiju no biržas biedriem un šīs komisijas priekšsēdētāju - no biržas valdes locekļiem.
+Vecākais mākleris pēc amata ir kotācijas komisijas loceklis.
+Kotācijas komisijas darbā ar lēmēja balsstiesībām piedalās Latvijas Republikas Finansu ministrijas pārstāvis.
