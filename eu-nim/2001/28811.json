@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par Latvijas būvnormatīvu LBN 006-00 \"Būtiskās prasības būvēm\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "52",
+  "official_journal_page": null,
+  "official_journal_date": "2001-03-30",
+  "entry_into_force": "2001-03-31",
+  "notification_date": "2004-06-09",
+  "commission_reference": "MNE(2004)58811",
+  "nim_celex": "72002L0091LVA_28811",
+  "nim_id": "28811",
+  "transposes_celex": [
+    "32002L0091"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/72264a22-4c05-4961-aaa1-f48d6cda86e2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
