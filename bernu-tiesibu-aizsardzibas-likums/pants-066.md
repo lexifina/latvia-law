@@ -9,4 +9,5 @@
 6) gādā par pirmsskolas un ārpusskolas bērnu iestādēm, tautas bibliotēkām, bērnu atpūtas organizēšanu;
 7) veic citus pasākumus bērna tiesību nodrošināšanā.
 (3) Pilsētu bāriņtiesas (pagasttiesas) kā aizbildnības iestādes nodrošina bērna personisko un mantisko tiesību aizsardzību.
-(4) Bērna tiesību nodrošināšanā pašvaldība iesaista sabiedrību, kā arī koordinē sabiedrisko organizāciju darbību.
+(4) Rajona pašvaldība koordinē šā panta pirmajā daļā minēto darbību izpildi.
+(5) Bērna tiesību nodrošināšanā pašvaldība iesaista sabiedrību, kā arī koordinē sabiedrisko organizāciju darbību.

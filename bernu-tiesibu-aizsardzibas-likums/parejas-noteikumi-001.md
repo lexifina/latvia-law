@@ -1,1 +1,3 @@
-1. Ministru kabinets līdz 1999.gada 1.aprīlim iesniedz Saeimai likumprojektus par nepieciešamajiem grozījumiem citos likumos, kā arī likumprojektu par audzinoša un medicīniska rakstura piespiedu līdzekļu piemērošanu bērniem.
+1.Ministru kabinets:
+līdz 2000.gada 31.decembrim iesniedz Saeimai likumprojektus par nepieciešamajiem grozījumiem citos likumos;
+līdz 2000.gada 31.decembrim iesniedz Saeimai likumprojektu par audzinoša rakstura piespiedu līdzekļu piemērošanu bērniem un likumprojektu par ārstnieciska rakstura piespiedu līdzekļu piemērošanu bērniem.

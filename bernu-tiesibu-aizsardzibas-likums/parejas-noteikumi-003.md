@@ -1,1 +1,1 @@
-3. Šā likuma 31.panta noteikums, kas ierobežo bērnu adopciju uz ārvalstīm, stājas spēkā 1999.gada 31.decembrī.
+3. Šā likuma 64.panta izpildei pašvaldība divu mēnešu laikā pēc likuma spēkā stāšanās paziņo policijas iestādēm, kurās bērnu aprūpes iestādēs vai audžuģimenēs var ievietot bērnus, kam nepieciešama palīdzība.

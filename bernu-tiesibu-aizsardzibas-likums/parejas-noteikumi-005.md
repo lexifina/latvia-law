@@ -1,1 +1,1 @@
-5. Šā likuma 64.panta izpildei pašvaldība divu mēnešu laikā pēc likuma spēkā stāšanās paziņo policijas iestādēm, kurās bērnu aprūpes iestādēs vai audžuģimenēs var ievietot bērnus, kam nepieciešama palīdzība.
+5. Šā likuma 27.panta piektā daļa stājas spēkā 2001.gada 1.janvārī.

@@ -3,6 +3,6 @@
 (2) Šā panta pirmajā daļā minētās personas par izdarītajiem pārkāpumiem saucamas pie disciplinārās vai citas likumā noteiktās atbildības.
 (3) Par bērnu aprūpes un audzināšanas, izglītības, veselības aprūpes, sociālās palīdzības un citu tādu iestāžu vadītājiem un darbiniekiem, kurās uzturas bērni, nevar strādāt personas, kuras:
 1) pieļāvušas šā likuma un citu bērna tiesību aizsardzības normatīvo aktu pārkāpumus;
-2) pieļāvušas amorālu uzvedību darbā vai ārpus darba;
+2) pieļāvušas amorālu uzvedību darbā vai ārpus darba, kas konstatēts ar tiesas spriedumu vai citu kompetentas iestādes lēmumu;
 3) sodītas par noziegumiem, kuri saistīti ar vardarbību pret personu.
 (4) Pieņemot darbā šā panta pirmajā daļā minētās personas, pieprasāma informācija par viņu iepriekšējo darbību, kompetenci un pieredzi.

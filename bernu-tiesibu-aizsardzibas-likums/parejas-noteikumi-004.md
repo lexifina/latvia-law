@@ -1,1 +1,1 @@
-4. Līdz adopcijas likuma spēkā stāšanās dienai piemēro Ministru kabineta noteikumus par adopciju.
+4. Centrālā statistikas pārvalde kopā ar Iekšlietu ministriju, Izglītības un zinātnes ministriju, Labklājības ministriju, Tieslietu ministriju, īpašu uzdevumu ministru valsts pārvaldes un pašvaldību lietās un pašvaldībām līdz 2000.gada 1.jūnijam izstrādā un apstiprina vienotu statistisko pārskatu sistēmu bērna tiesību aizsardzības jautājumos.

@@ -4,3 +4,4 @@
 (3) Bērnam atkarībā no viņa vecuma un brieduma pakāpes ir pienākums sargāt savu veselību.
 (4) Bērnam jāizturas ar cieņu pret valsti, tās simboliem un jāievēro likumi.
 (5) Bērnam jāievēro sabiedrībā pieņemtie uzvedības noteikumi. Bērns nedrīkst, izmantojot savas tiesības, aizskart citu bērnu un pieaugušo tiesības un likumīgās intereses.
+(6) Bērnam ir pienākums saudzīgi izturēties pret apkārtējo vidi.
