@@ -1,1 +1,1 @@
-9.pants. Līdz ar šo likumu izsludināma Konvencija latviešu valodā. Likuma stāšanās spēkā tiek noteikta ar īpašu likumu.
+9.pants. Līdz ar šo likumu izsludināma Konvencija un Deklarācijas angļu valodā un to tulkojums latviešu valodā. Likuma stāšanās spēkā tiek noteikta ar īpašu likumu.

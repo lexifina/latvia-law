@@ -1,10 +1,9 @@
 Šīs konvencijas AUGSTĀS LĪGUMSLĒDZĒJAS PUSES, Eiropas Savienības dalībvalstis,
-atsaucoties uz Eiropas Savienības Padomes 1996. gada 27. septembra aktu,
-vēloties uzlabot dalībvalstu tiesisko sadarbību krimināllietās, gan attiecībā uz kriminālvajāšanu, gan tiesas spriedumu izpildi,
+ATSAUCOTIES uz Eiropas Savienības Padomes 1996.gada 27.septembra aktu, vēloties uzlabot dalībvalstu tiesisko sadarbību krimināllietās, gan attiecībā uz kriminālvajāšanu, gan tiesas spriedumu izpildi,
 saprotot izdošanas nozīmīgumu tiesiskajā sadarbībā šo mērķu sasniegšanai,
-uzsverot, ka dalībvalstu interesēs ir nodrošināt, ka izdošana notiek efektīvi un ātri, ciktāl to vadības sistēma ir balstīta uz demokrātiskiem principiem un atbilst saistībām, kas noteiktas Cilvēktiesību un pamatbrīvību aizsardzības konvencijā, kas parakstīta 1950. gada 4. novembrī Romā,
+uzsverot, ka dalībvalstu interesēs ir nodrošināt, ka izdošana notiek efektīvi un ātri, ciktāl to vadības sistēma ir balstīta uz demokrātiskiem principiem un atbilst saistībām, kas noteiktas Cilvēktiesību un pamatbrīvību aizsardzības konvencijā, kas parakstīta 1950.gada 4.novembrī Romā,
 izsakot uzticību tiesisko sistēmu uzbūvei un darbībai un dalībvalstu spējai nodrošināt taisnīgu tiesu,
-ievērojot, ka ar Padomes 1995. gada 10. marta lēmumu sastādīja Konvenciju par vienkāršotu savstarpējās izdošanas procedūru Eiropas Savienības dalībvalstīs,
+ievērojot, ka ar Padomes 1995.gada 10.marta lēmumu sastādīja Konvenciju par vienkāršotu savstarpējās izdošanas procedūru Eiropas Savienības dalībvalstīs,
 ņemot vērā ieinteresētību noslēgt Eiropas Savienības dalībvalstu konvenciju, kas papildina Eiropas 1957. gada 13. decembra Konvenciju par izdošanu, kā arī citas konvencijas, kas ir spēkā šajā jomā,
 ņemot vērā, ka šo konvenciju noteikumi jāpiemēro visiem jautājumiem, uz ko neattiecas šī konvencija,
 IR VIENOJUŠĀS PAR TURPMĀKO:
@@ -13,7 +12,7 @@ Vispārīgi noteikumi
 1. Šīs konvencijas mērķis ir papildināt sekojošu līgumu noteikumus un veicināt to piemērošanu Eiropas Savienības dalībvalstīs:
 - Eiropas 1957. gada 13. decembra Konvencija par izdošanu (še turpmāk "Eiropas Konvencija par izdošanu"),
 - Eiropas 1977. gada 27. janvāra Konvencija par terorisma apkarošanu (še turpmāk "Eiropas Konvencija par terorisma apkarošanu"),
-- 1990. gada 19. jūnija Konvencija, ar ko piemēro 1985. gada 14. jūnija Šengenas līgumu par pakāpenisku kontroles atcelšanu pie to dalībvalstu kopīgām robežām, kuras ir šīs konvencijas līgumslēdzējas puses, un
+- 1990. gada 19. jūnija Konvencija, ar ko piemēro 1985.gada 14.jūnija Šengenas līgumu par pakāpenisku kontroles atcelšanu pie to dalībvalstu kopīgām robežām, kuras ir šīs konvencijas līgumslēdzējas puses, un
 - 1962. gada 27. jūnija Līguma par izdošanu un savstarpēju palīdzību krimināllietās starp Beļģijas Karalisti, Luksemburgas Lielhercogisti un Nīderlandes Karalisti, kurā grozījumi izdarīti ar 1974. gada 11. maija protokolu (še turpmāk "Beniluksa Līgums") attiecībās starp dalībvalstīm, kas ir Beniluksa Ekonomikas savienības dalībnieces, pirmā nodaļa.
 2. 1. daļa neietekmē labvēlīgāku noteikumu piemērošanu divpusējos vai daudzpusējos nolīgumos starp dalībvalstīm, kā arī, kā noteikts Eiropas Konvencijas par izdošanu 28. panta (3), neietekmē izdošanas noteikumus, par kuriem panākta vienošanās, pamatojoties uz vienotiem atbilstošiem likumiem, kas paredz kādas dalībvalsts teritorijā izpildīt apcietināšanas orderi, kurš izdots citas dalībvalsts teritorijā.
 2. pants
@@ -28,8 +27,8 @@ a) vienu vai vairākus nodarījumus, kas minēti Eiropas Konvencijā par teroris
 vai
 b) citus nodarījumus, kas ir sodāmi ar brīvības atņemšanu vai aizturēšanas orderi maksimāli uz vismaz 12 mēnešiem, narkotiku tirdzniecības jomā, kā arī cita veida organizētos noziegumus vai citas vardarbīgas darbības pret personas dzīvību, fizisko veselību vai brīvību, vai arī radītu personām kolektīvus draudus.
 2. Lai noteiktu, vai sazvērestības vai apvienības mērķis ir veikt kādu no šī panta 1. daļas a) vai b) punktā norādītajiem nodarījumiem, pieprasījuma saņēmēja dalībvalsts ņem vērā informāciju, kas iekļauta apcietināšanas orderī vai orderī, kuram ir līdzvērtīgs likumīgais spēks, vai spriedumā attiecībā uz personu, kuras izdošana ir pieprasīta, kā arī paziņojumā par nodarījumiem, kas ir paredzēts Eiropas Konvencijā par izdošanu 12. panta (2) b) apakšpunktā, vai Beniluksa Līguma 11. panta (2) b) apakšpunktā.
-3. Sniedzot 18. panta (2) minēto paziņojumu, jebkura dalībvalsts var deklarēt, ka tā patur tiesības nepiemērot 1. daļu vai piemērot to ar dažiem sīkāk norādītiem nosacījumiem.
-4. Jebkura dalībvalsts, kura ir izdarījusi atrunu saskaņā ar 3. daļu, piemēro izdošanu saskaņā ar 2. panta (1) personu darbībām, kas palīdz kādai personu grupai, kas darbojas ar kopēju mērķi, veikt vienu vai vairākus nodarījumus terorisma jomā, kā minēts Eiropas Konvencijas par terorisma apkarošanu 1. un 2. pantā, narkotiku tirdzniecībā vai citos organizētās noziedzības veidos vai citās vardarbīgās darbībās pret personas dzīvību, fizisko veselību vai brīvību, vai rada personām kolektīvus draudus, kas sodāmi ar brīvības atņemšanu vai maksimālo vismaz 12 mēnešu aizturēšanas orderi, pat, ja šī persona nepiedalās faktiskajā attiecīgā nodarījuma vai nodarījumu veikšanā; šāda palīdzība ir tīša un sniegta, zinot mērķi un grupas vispārējo noziedzīgo darbību vai grupas nodomu veikt attiecīgo nodarījumu vai nodarījumus.
+3. Sniedzot 18. panta (2) minēto paziņojumu, jebkura dalībvalsts var deklarēt, ka tā patur tiesības nepiemērot 1.daļu vai piemērot to ar dažiem sīkāk norādītiem nosacījumiem.
+4. Jebkura dalībvalsts, kura ir izdarījusi atrunu saskaņā ar 3.daļu, piemēro izdošanu saskaņā ar 2. panta (1) personu darbībām, kas palīdz kādai personu grupai, kas darbojas ar kopēju mērķi, veikt vienu vai vairākus nodarījumus terorisma jomā, kā minēts Eiropas Konvencijas par terorisma apkarošanu 1. un 2. pantā, narkotiku tirdzniecībā vai citos organizētās noziedzības veidos vai citās vardarbīgās darbībās pret personas dzīvību, fizisko veselību vai brīvību, vai rada personām kolektīvus draudus, kas sodāmi ar brīvības atņemšanu vai maksimālo vismaz 12 mēnešu aizturēšanas orderi, pat, ja šī persona nepiedalās faktiskajā attiecīgā nodarījuma vai nodarījumu veikšanā; šāda palīdzība ir tīša un sniegta, zinot mērķi un grupas vispārējo noziedzīgo darbību vai grupas nodomu veikt attiecīgo nodarījumu vai nodarījumus.
 4. pants
 Orderis par brīvības atņemšanu iestādē, kas nav labošanas iestāde
 Izdošanu kriminālvajāšanas nolūkā nedrīkst atteikt, pamatojoties uz to, ka pieprasījumam, saskaņā ar Eiropas Konvencijas par izdošanu 12. panta (2) (a) vai Beniluksa Līguma 11. panta (2) (a), pievieno pieprasījuma iesniedzējas dalībvalsts tiesu iestāžu orderi par brīvības atņemšanu personai vietā, kas nav labošanas iestāde.
@@ -63,7 +62,7 @@ Noilgums
 Amnestija
 Izdošanu nenodrošina attiecībā uz nodarījumu, uz ko attiecas amnestija pieprasījuma saņēmējā dalībvalstī, ja šīs valsts kompetencē bija uzsākt kriminālvajāšanu par attiecīgo nodarījumu saskaņā ar tās krimināllikumu.
 10. pants
-Nodarījumi ar kuriem nav pamatots izdošanas pieprasījums
+Nodarījumi, ar kuriem nav pamatots izdošanas pieprasījums
 1. Attiecībā uz nodarījumiem, kas ir veikti pirms nodošanas un kas nav nodarījumi, ar kuriem tika pamatots izdošanas pieprasījums, bez vajadzības saņemt pieprasījuma saņēmējas dalībvalsts piekrišanu, izdoto personu var:
 a) apsūdzēt vai tiesāt, ja nodarījumi nav sodāmi ar brīvības atņemšanu;
 b) apsūdzēt vai tiesāt, ciktāl kriminālprocess neļauj piemērot pasākumus, kas ierobežotu personas brīvību;
@@ -75,7 +74,7 @@ d) apsūdzēt, tiesāt, aizturēt, lai izpildītu spriedumu vai aizturēšanas o
 11. pants
 Pieprasījuma saņēmējas dalībvalsts piekrišanas pieņēmums
 Katra dalībvalsts, nākot klajā ar 18. panta (2) minēto paziņojumu, vai arī jebkurā citā laikā, var paziņot, ka attiecībās ar citām dalībvalstīm, kuras nākušas klajā ar tādu pašu paziņojumu, tā uzskata, ka saņemta piekrišana Eiropas Konvencijas par izdošanu 14. panta (1) (a) un Beniluksa Līguma 13. panta (1) (a) nozīmē, ja vien tā nenorāda citādi, nodrošinot izdošanu kādā konkrētā gadījumā.
-Ja kādā konkrētā gadījumā dalībvalsts ir norādījusi, ka ir jāuzskata, ka tās piekrišana nav dota, piemēro 10. panta (1).
+Ja kādā konkrētā gadījumā dalībvalsts ir norādījusi, ka ir jāuzskata, ka tās piekrišana nav dota, piemēro 10.panta (1).
 12. pants
 Atkārtota izdošana citai dalībvalstij
 1. Eiropas Konvencijas par izdošanu 15. pantu, kā arī Beniluksa Līguma 14. panta (1) nepiemēro pieprasījumiem par atkārtotu izdošanu no vienas dalībvalsts citai.
@@ -90,11 +89,11 @@ Dalībvalstis apspriežas cita ar citu par šī panta piemērošanas praktiskaji
 5. Lai nodrošinātu izdošanas dokumentu autentiskumu, pieprasījuma iesniedzējas dalībvalsts centrālā iestāde savā pieprasījumā norāda, ka tā apliecina, ka papildu pieprasījumam nosūtītie dokumenti atbilst oriģināliem, kā arī norāda lappušu numerāciju. Ja pieprasījuma saņēmēja dalībvalsts apstrīd to, ka dokumenti atbilst oriģināliem, tās centrālā iestāde ir pilnvarota pieprasīt pieprasījuma iesniedzējas dalībvalsts centrālajai iestādei pēc iespējas drīz nosūtīt dokumentu oriģinālus vai apliecinātus norakstus vai nu diplomātiskā ceļā vai citā savstarpēji saskaņotā veidā.
 14. pants
 Papildu informācija
-Ikviena dalībvalsts, iesniedzot 18.(2) pantā minēto informāciju vai jebkurā citā laikā var paziņot, ka tās attiecībās ar citām dalībvalstīm, kuras sniegušas līdzīgus paziņojumus, šo citu dalībvalstu tiesu iestādes vai citas kompetentās iestādes var, ja nepieciešams, atbilstoši Eiropas konvencijas par izdošanu 13. pantam vai Beniluksa līguma 12. pantam tieši pieprasīt papildu informāciju no šīs dalībvalsts tiesu iestādēm vai citām kompetentām iestādēm, kuras ir atbildīgas par tiesvedību pret personu, kuras izdošana tiek pieprasīta.
+Ikviena dalībvalsts, iesniedzot 18. (2) pantā minēto informāciju vai jebkurā citā laikā var paziņot, ka tās attiecībās ar citām dalībvalstīm, kuras sniegušas līdzīgus paziņojumus, šo citu dalībvalstu tiesu iestādes vai citas kompetentās iestādes var, ja nepieciešams, atbilstoši Eiropas konvencijas par izdošanu 13. pantam vai Beniluksa līguma 12. pantam tieši pieprasīt papildu informāciju no šīs dalībvalsts tiesu iestādēm vai citām kompetentām iestādēm, kuras ir atbildīgas par tiesvedību pret personu, kuras izdošana tiek pieprasīta.
 Nākot klajā ar šādu paziņojumu, dalībvalsts sīkāk norāda tās tiesu iestādes vai citas kompetentās iestādes, kuras ir pilnvarotas sazināties un saņemt šādu papildu informāciju.
 15. pants
 Autentiskuma noteikšana
-Visus dokumentus vai dokumentu kopijas, kas nosūtīti izdošanas nolūkā, atbrīvo no autentiskuma noteikšanas vai citām formalitātēm, ja vien to skaidri nepieprasa šīs konvencijas, Eiropas Konvencijas par izdošanu vai Beniluksa Līguma noteikumi. Tādā gadījumā dokumentu kopijas uzskata par autentiskām, ja šīs kopijas ir apstiprinājušas tās tiesu iestādes, kas ir izdevušas oriģinālu, vai arī 13. pantā minētā centrālā iestāde.
+Visus dokumentus vai dokumentu kopijas, kas nosūtīti izdošanas nolūkā, atbrīvo no autentiskuma noteikšanas vai citām formalitātēm, ja vien to skaidri nepieprasa šīs konvencijas, Eiropas Konvencijas par izdošanu vai Beniluksa Līguma noteikumi. Tādā gadījumā dokumentu kopijas uzskata par autentiskām, ja šīs kopijas ir apstiprinājušas tās tiesu iestādes, kas ir izdevušas oriģinālu, vai arī 13.pantā minētā centrālā iestāde.
 16. pants
 Tranzīts
 Tranzīta gadījumā caur vienas dalībvalsts teritoriju uz citu dalībvalsti saskaņā ar nosacījumiem, kas ir noteikti Eiropas Konvencijas par izdošanu 21. pantā, un Beniluksa Līguma 21. pantā, piemēro šādus noteikumus:
