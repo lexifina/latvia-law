@@ -1,0 +1,1 @@
+1.pants. 2004.gada 14.maijā Rīgā parakstītā Latvijas Republikas un Ungārijas Republikas konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
