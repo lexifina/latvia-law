@@ -1,0 +1,1 @@
+1.pants. 1995.gada 7.septembrī Minskā parakstītais Latvijas Republikas valdības un Baltkrievijas Republikas valdības līgums par gaisa satiksmi (turpmāk - Līgums) un tā pielikums ar šo likumu tiek pieņemts un apstiprināts.
