@@ -1,5 +1,5 @@
 4.pants. Nekustamā īpašuma kadastrālās vērtības noteikšanas pamatprincipi
-(1) Nekustamā īpašuma kadastrālā vērtība ir pēc vienotiem principiem uz valsts kadastra datu pamata noteikta zemes un ēku vērtība.
+(1) Nekustamā īpašuma kadastrālā vērtība ir pēc vienotiem principiem uz Nekustamā īpašuma valsts kadastra reģistra datu pamata noteikta zemes un ēku vērtība.
 (2) Nekustamā īpašuma kadastrālo vērtību nosaka Valsts zemes dienests Ministru kabineta noteiktajā kārtībā, vadoties pēc nekustamā īpašuma tirgus cenu līmeņa vismaz divus gadus pirms taksācijas perioda (tas ir, pēc nekustamo īpašumu vidējās tirgus vērtības noteiktam lietošanas mērķim konkrētā teritorijā) un ņemot vērā nekustamā īpašuma valsts kadastrā reģistrētajam attiecīgajam nekustamajam īpašumam ar likumu noteiktos izmantošanas ierobežojumus.
 (3) Nekustamā īpašuma kadastrālajā vērtībā neietver mežaudzes vērtību.
 (4) Informāciju par tirgus cenu darījumos ar nekustamo īpašumu un nomas maksu nekustamā īpašuma kadastrālās vērtības noteikšanai un aktualizācijai Valsts zemes dienests saņem no nekustamā īpašuma īpašniekiem, zvērinātiem notāriem, pašvaldībām un zemesgrāmatu nodaļām Ministru kabineta noteiktajā kārtībā.

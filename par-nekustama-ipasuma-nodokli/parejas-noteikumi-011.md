@@ -1,1 +1,1 @@
-11. Nodokļu maksātājam līdz 2000.gada 1.februārim iesniegt pašvaldībām attiecīgās pašvaldības teritorijā esošo ar nekustamā īpašuma nodokli apliekamo objektu (ēku un būvju) sarakstu.
+11. Nodokļu maksātājam līdz 2004.gada 1.februārim iesniegt pašvaldībām attiecīgās pašvaldības teritorijā esošo ar nekustamā īpašuma nodokli apliekamo objektu (ēku un būvju) sarakstu, bet līdz 2005.gada 1.februārim un 2006.gada 1.februārim - saraksta precizējumus, ja tādi ir.
