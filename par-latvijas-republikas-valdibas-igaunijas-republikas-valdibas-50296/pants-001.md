@@ -1,0 +1,1 @@
+1.pants. 1998.gada 16.aprīlī Rīgā parakstītā Latvijas Republikas valdības, Igaunijas Republikas valdības un Lietuvas Republikas valdības vienošanās par Baltijas gaisa telpas novērošanas sistēmas izveidošanu (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.
