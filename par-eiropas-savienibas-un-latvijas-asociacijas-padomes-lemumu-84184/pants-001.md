@@ -1,0 +1,1 @@
+1.pants. 2003.gada 27.maijā pieņemtais Eiropas Savienības un Latvijas Asociācijas padomes lēmums par grozījumiem Eiropas Līguma 3.protokolā (turpmāk - Lēmums) ar šo likumu tiek pieņemts un apstiprināts.
