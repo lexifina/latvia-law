@@ -1,5 +1,5 @@
 10. pants. Reģistrācijas atteikums
-Tieslietu ministrija var atteikt masu informācijas līdzekļa reģistrāciju, ja:
+Uzņēmumu reģistrs var atteikt masu informācijas līdzekļa reģistrāciju, ja:
 1) nav ievērotas šā likuma 4., 8., 9. pantā noteiktās prasības,
 2) iesniegumā uzrādītas nepatiesas ziņas.
 Latvijas Republikā aizliegts reģistrēt masu informācijas līdzekļus ar Latvijā jau iznākoša vai ar tiesas nolēmumu darbību izbeiguša masu informācijas līdzekļa nosaukumu.

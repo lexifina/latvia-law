@@ -1,5 +1,5 @@
 9. pants. Reģistrācija
-Masu informācijas līdzekļus reģistrē Latvijas Republikas Tieslietu ministrija. Reģistrācijas pieteikumu iesniedz masu informācijas līdzekļa dibinātājs. Izdevējs vai redakcija pieteikumu var iesniegt, ja tas paredzēts ar dibinātāju noslēgtajā līgumā. Pieteikums jāizskata un lēmums jāpieņem desmit dienu laikā no tā iesniegšanas dienas.
+Masu informācijas līdzekļus reģistrē Latvijas Republikas Uzņēmumu reģistrs. Reģistrācijas pieteikumu iesniedz masu informācijas līdzekļa dibinātājs. Izdevējs vai redakcija pieteikumu var iesniegt, ja tas paredzēts ar dibinātāju noslēgtajā līgumā. Pieteikums jāizskata un lēmums jāpieņem desmit dienu laikā no tā iesniegšanas dienas.
 Pieteikumā norādāmas šādas ziņas:
 1) dibinātājs, izdevējs vai redakcija,
 2) masu informācijas līdzekļa nosaukums,
