@@ -1,0 +1,1 @@
+1.pants. 1951.gada Starptautiskā augu aizsardzības konvencija 1979.gada redakcijā (turpmāk - Konvencija) un Konvencija ar 1997.gada grozījumiem (turpmāk - Grozītā konvencija) ar šo likumu tiek pieņemta un apstiprināta.
