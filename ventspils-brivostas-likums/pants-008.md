@@ -1,0 +1,2 @@
+8.pants. Preču izvešana no licencētas uzņēmējsabiedrības teritorijas
+Precēm, kas no licencētas uzņēmējsabiedrības teritorijas (brīvajām muitas zonām) tiek izvestas uz Latvijas Republikas pārējo muitas teritoriju, piemēro Latvijas Republikas likumu un citu normatīvo aktu noteikumus par preču ievešanu no ārvalstīm (importu), atbilstošas ievedmuitas nodokļa likmes, kā arī ekonomiskos ierobežojumus un aizliegumus.
