@@ -1,0 +1,1 @@
+1. Ministru kabinets līdz 1996.gada 1.augustam izstrādā un apstiprina nacionālās pretošanās kustības dalībnieka apliecības un krūšu nozīmes paraugu, kā arī nodrošina apliecību un krūšu nozīmju izgatavošanu.

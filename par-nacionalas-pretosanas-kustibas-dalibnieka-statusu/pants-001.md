@@ -1,0 +1,1 @@
+1.pants. Šā likuma mērķis ir novērtēt to cilvēku nopelnus, kuri, darbodamies nacionālās pretošanās kustībā, piedalījās bruņotā cīņā vai ar citiem līdzekļiem cīnījās par 1918.gada 18.novembrī proklamētās Latvijas atjaunošanu un ziedoja sevi, lai aizstāvētu tautu pret okupācijas režīmu īstenoto vardarbību un genocīdu.

@@ -1,0 +1,1 @@
+3.pants. Par nacionālās pretošanās kustības dalībniekiem nevar atzīt personas, kuras piedalījušās komunistiskā vai nacistiskā režīma politiskajās represijās vai sodītas par tīšiem smagiem noziegumiem, ja tās nav reabilitētas.
