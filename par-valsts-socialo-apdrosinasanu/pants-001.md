@@ -8,8 +8,8 @@ c) Saeimas deputāts, pašvaldības deputāts, Ministru kabineta loceklis, valst
 d) persona, kura ir noslēgusi Civillikuma IV daļas 15.nodaļā paredzēto uzņēmuma, graudniecības vai pārvadājuma līgumu un nav reģistrējusies kā saimnieciskajā darbībā gūtā ienākuma nodokļa maksātāja,
 e) Iekšlietu ministrijas pakļautībā un pārraudzībā esošas iestādes ierindas vai komandējošā sastāva darbinieks vai Aizsardzības ministrijas pakļautībā un pārziņā esošas struktūrvienības militārpersona,
 f) valsts civildienesta ierēdnis (ierēdņa kandidāts);
-3) pašnodarbinātais - persona, kura nav atzīstama par darba ņēmēju saskaņā ar šā panta 2.punktu, bet gūst ienākumu kā:
-a) persona, kas veic individuālo darbu;
+3) pašnodarbinātais - persona, kura gūst ienākumu kā:
+a) persona, kas veic individuālo darbu,
 b) (izslēgts ar 25.11.1999. likumu),
 c) persona, kas saņem autoratlīdzību,
 d) zvērināts notārs,
