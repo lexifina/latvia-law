@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "MK 20.04.2004. noteikumi Nr.362 „Sertifikāta izsniegšanas kārtība šķirnes materiālam, kuru paredzēts pārdot Latvijā vai eksportēt uz ārvalstīm”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "66",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-28",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2008-12-05",
+  "commission_reference": "MNE(2008)56518",
+  "nim_celex": "72008L0073LVA_159509",
+  "nim_id": "159509",
+  "transposes_celex": [
+    "32008L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/337126f8-092c-4518-a6b0-fdd60d33681a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
