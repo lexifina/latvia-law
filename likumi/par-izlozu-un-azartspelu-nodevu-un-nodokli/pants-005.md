@@ -1,2 +1,3 @@
 5. pants. Azartspēļu nodoklis aprēķināms par katrā azartspēļu tiešās norises vietā esoša katra spēļu automāta katru spēles vietu un spēles galdu katru mēnesi, ieskaitot mēnesi, kurā spēļu automāts vai spēles galds uzstādīts vai demontēts, kā viena divpadsmitā daļa no šā likuma 3.pantā minētajām nodokļa likmēm.
 Ja kalendāra mēneša laikā spēļu automāts vai spēles galds tiek pārvietots uz citu azartspēļu tiešās norises vietu, attiecīgajā mēnesī nodoklis aprēķināms proporcionāli par katru azartspēļu tiešās norises vietu.
+Kalendāra mēneša laikā videospēles un mehāniskos automātus, kuri uzstādīti ārpus kazino un spēļu zālēm, nedrīkst pārvietot uz kazino un spēļu zālēm un otrādi.

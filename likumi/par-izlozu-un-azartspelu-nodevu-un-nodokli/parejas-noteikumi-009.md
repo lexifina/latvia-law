@@ -1,0 +1,1 @@
+9. Ministru kabinets, nosakot par marķējuma zīmes izsniegšanu maksājamās valsts nodevas apmēru, sākot ar 2004.gada 1.janvāri, paredz papildu finansējumu Finanšu ministrijas Izložu un azartspēļu uzraudzības inspekcijai, lai nodrošinātu izložu un azartspēļu organizēšanas uzraudzību un kontroli, izmantojot jaunākās tehnoloģijas un uzraudzības un kontroles metodes.

@@ -6,5 +6,8 @@
 5) bingo (līdz 300 vietām) - Ls 22 000;
 6) bingo (virs 300 vietām) - Ls 33 000;
 7) totalizators vai derības - Ls 30 000;
-8) videospēles un mehāniskie automāti - par katra automāta katru spēles vietu - Ls 600.
+8) videospēles un mehāniskie automāti - par katra automāta katru spēles vietu - Ls 600;
+9) videospēles un mehāniskie automāti, kuri uzstādīti ārpus kazino un spēļu zālēm, - par katra automāta katru spēles vietu - Ls 1 140.
 Veiksmes spēlei pa tālruni azartspēļu nodoklis ir 10 procenti no šīs spēles organizēšanas ieņēmumiem.
+Azartspēļu nodoklis par totalizatoru un derībām ir Ls 30 000 par katru kārtējo gadu un 10 procenti no totalizatora vai derību organizēšanas ieņēmumiem.
+Ja azartspēles organizē, izmantojot telekomunikācijas, azartspēļu nodoklis neatkarīgi no spēles veida ir 10 procenti no iemaksāto un pieņemto likmju summas.

@@ -1,0 +1,1 @@
+3. Grozījumi likuma 2.panta pirmās daļas 1.punkta "b" un "c" apakšpunktā, "d" un "e" apakšpunkts, grozījumi 3.panta pirmās daļas 7.punktā, trešā un ceturtā daļa, grozījumi 5.panta otrajā daļā un trešā daļa, 10.panta trešā un ceturtā daļa stājas spēkā 2004.gada 1.janvārī.
