@@ -1,0 +1,1 @@
+1. pants. 1963. gada 21. maija Vīnes konvencija par civilo atbildību par kodolkaitējumiem (turpmāk - Vīnes konvencija) un 1988. gada 21. septembra Kopīgais protokols par Vīnes konvencijas un Parīzes konvencijas pielietojumu (turpmāk - Kopīgais protokols) ar šo likumu tiek pieņemti un apstiprināti.
