@@ -1,0 +1,1 @@
+44. Valsts Prezidentam ir tiesība spert nepieciešamos militārās aizsardzības soļus, ja kāda cita valsts Latvijai pieteikusi karu vai ienaidnieks uzbrūk Latvijas robežām. Līdz ar to Valsts Prezidents nekavējoties sasauc Saeimu, kura lemj par kara pasludināšanu un uzsākšanu.

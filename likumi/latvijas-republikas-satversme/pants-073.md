@@ -1,0 +1,1 @@
+73. Tautas nobalsošanai nevar nodot budžetu un likumus par aizņēmumiem, nodokļiem, muitām, dzelzceļa tarifiem, kara klausību, kara pasludināšanu un uzsākšanu, miera noslēgšanu, izņēmuma stāvokļa izsludināšanu un tā izbeigšanu, mobilizāciju un demobilizāciju, kā arī līgumus ar ārvalstīm.

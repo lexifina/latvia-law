@@ -1,0 +1,1 @@
+88. Valsts kontrolierus ieceļ un apstiprina amatā tādā pat kārtībā, kā tiesnešus, bet tikai uz noteiktu laiku, kurā viņus var atcelt no amata vienīgi uz tiesas sprieduma pamata. Valsts kontroles iekārtu un kompetences nosaka sevišķs likums.

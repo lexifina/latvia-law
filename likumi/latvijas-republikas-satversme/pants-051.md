@@ -1,0 +1,1 @@
+51. Uz ne mazāk kā puses visu Saeimas locekļu priekšlikumu, Saeima slēgtā sēdē ar ne mazāk kā divu trešdaļu visu Saeimas locekļu balsu vairākumu, var nolemt atlaist Valsts Prezidentu. Pēc šāda lēmuma Saeima nekavējoši ievēlē jaunu Valsts Prezidentu.

@@ -1,0 +1,1 @@
+59. Ministru prezidentam un ministriem viņu amata izpildīšanai ir nepieciešama Saeimas uzticība un viņi par savu darbību ir atbildīgi Saeimas priekšā. Ja Saeima izteic neuzticību ministru prezidentam, tad jāatkāpjas visam kabinetam. Ja neuzticība izteikta atsevišķam ministram, tad tam jāatkāpjas un viņa vietā ministru prezidentam jāaicina cita persona.

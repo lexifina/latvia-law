@@ -1,0 +1,1 @@
+27. Saeimai ir tiesība iesniegt ministru prezidentam vai atsevišķam ministram pieprasījumus un jautājumus, uz kuriem ir jāatbild viņiem vai viņu pilnvarotai atbildīgai valsts amata personai. Ministru prezidentam vai ministram uz Saeimas vai tās komisijas pieprasījumu jāceļ tām priekšā attiecīgi dokumenti un aktis.

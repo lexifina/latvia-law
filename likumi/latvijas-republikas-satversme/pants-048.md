@@ -1,0 +1,1 @@
+48. Valsts Prezidentam ir tiesība ierosināt Saeimas atlaišanu. Pēc tam izdarāma tautas nobalsošana. Ja tautas nobalsošanā vairāk nekā puse balsotāju izsakās par Saeimas atlaišanu, tad Saeima uzskatāma par atlaistu un izsludināmas jaunas vēlēšanas, kurām jānotiek ne vēlāk kā divus mēnešus pēc Saeimas atlaišanas.

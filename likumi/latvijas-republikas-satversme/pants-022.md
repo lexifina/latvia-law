@@ -1,0 +1,1 @@
+22. Saeimas sēdes ir atklātas. Desmit Saeimas locekļiem, Valsts Prezidentam, ministru prezidentam vai ministram pieprasot, Saeima ar ne mazāk kā divu trešdaļu klātesošo deputātu balsu vairākumu var nolemt noturēt aizklātu sēdi.

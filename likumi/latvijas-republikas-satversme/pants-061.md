@@ -1,0 +1,1 @@
+61. Ministru kabinets apspriež visus atsevišķus ministriju izstrādātos likumprojektus un jautājumus, kuri attiecas uz vairāku ministriju darbību, kā arī atsevišķu kabineta locekļu ierosinātus valsts politikas jautājumus.

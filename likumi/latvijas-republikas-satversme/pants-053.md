@@ -1,0 +1,1 @@
+53. Valsts Prezidents par savu darbību politisku atbildību nenes. Visiem Valsts Prezidenta rīkojumiem jābūt līdzparakstītiem no ministru prezidenta vai attiecīgā ministra, kuri līdz ar to uzņemas visu atbildību par šiem rīkojumiem, izņemot četrdesmit astotā un piecdesmit sestā pantā paredzētos gadījumos.
