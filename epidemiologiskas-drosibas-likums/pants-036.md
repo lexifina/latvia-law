@@ -1,5 +1,5 @@
-36.pants. Karantīnas noteikšana
-(1) Pastāvot bīstamu infekcijas slimību izplatīšanās draudiem Latvijas Republikas teritorijā, Ministru prezidents pēc labklājības ministra priekšlikuma ar rīkojumu nosaka karantīnas režīmu. Karantīnas režīmu atsevišķā objektā (ēkā, ražotnē u.tml.) nosaka labklājības ministrs ar savu rīkojumu, bet atsevišķos Nacionālo bruņoto spēku objektos - Nacionālo bruņoto spēku komandieris pēc saskaņošanas ar labklājības ministru.
+36.pants. Karantīna bīstamo infekcijas slimību gadījumā
+(1) Pastāvot bīstamu infekcijas slimību izplatīšanās draudiem Latvijas Republikas teritorijā, Ministru prezidents pēc labklājības ministra priekšlikuma izsludina karantīnu un ar rīkojumu nosaka karantīnas režīmu. Karantīnas režīmu atsevišķā objektā (ēkā, ražotnē u.tml.) nosaka labklājības ministrs ar savu rīkojumu, bet atsevišķos Nacionālo bruņoto spēku objektos - Nacionālo bruņoto spēku komandieris pēc saskaņošanas ar labklājības ministru.
 (2) Karantīna ietver:
 1) izsludinātās karantīnas teritorijas robežas šķērsošanas ierobežojumus;
 2) nepieciešamos pretepidēmijas pasākumus attiecībā uz personām, transportlīdzekļiem, kas izbrauc no karantīnas teritorijas, un izvedamajām kravām, kā arī, ja nepieciešams, - pretepizootijas pasākumus;

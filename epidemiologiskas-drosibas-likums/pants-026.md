@@ -5,4 +5,4 @@ Ja par kādu personu radušās pamatotas aizdomas, ka tā ir atradusies šā lik
 a) informāciju par infekcijas slimības avotiem, par iespējamās inficēšanās laiku, vietu un apstākļiem,
 b) informāciju par personu vai personām, kuras tā varēja inficēt,
 c) citas ziņas, kurām ir nozīme pretepidēmijas pasākumu organizēšanā un veikšanā;
-3) pakļauties Sabiedrības veselības dienesta epidemiologa un valsts sanitārā inspektora pieprasījumam pārbaudīt tās dzīvesvietas higiēniskos apstākļus un sniegt informāciju par dzīvesvietas vai uzturēšanās vietas maiņu pretepidēmijas pasākumus reglamentējošajos normatīvajos aktos noteiktajā kārtībā.
+3) pakļauties Sabiedrības veselības aģentūras epidemiologa un valsts sanitārā inspektora pieprasījumam pārbaudīt tās dzīvesvietas higiēniskos apstākļus un sniegt informāciju par dzīvesvietas vai uzturēšanās vietas maiņu pretepidēmijas pasākumus reglamentējošajos normatīvajos aktos noteiktajā kārtībā.

@@ -1,1 +1,1 @@
-1. Līdz Sabiedrības veselības dienesta izveidošanai tā funkcijas pilda Nacionālais vides veselības centrs un teritoriālie vides veselības centri to pārziņā esošajā teritorijā atbilstoši attiecīgajiem nolikumiem.
+1. Līdz Sabiedrības veselības aģentūras izveidošanai tās funkcijas pilda Nacionālais vides veselības centrs un teritoriālie vides veselības centri savā pārziņā esošajā teritorijā atbilstoši to nolikumiem.

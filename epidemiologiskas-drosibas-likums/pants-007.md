@@ -1,5 +1,5 @@
-7.pants. Labklājības ministrijas Sabiedrības veselības dienesta kompetence
-(1) Labklājības ministrijas Sabiedrības veselības dienests (turpmāk - Sabiedrības veselības dienests):
+7.pants. Sabiedrības veselības aģentūras kompetence
+(1) Sabiedrības veselības aģentūra:
 1) plāno un koordinē infekcijas slimību profilakses un apkarošanas pasākumus;
 2) izstrādā normatīvo aktu projektus un iesniedz tos Labklājības ministrijai izvērtēšanai;
 3) piedalās infekcijas slimību profilakses un apkarošanas valsts programmu projektu izstrādāšanā;
@@ -15,6 +15,6 @@ d) iedzīvotāju vakcināciju un imunitāti;
 9) organizē medicīniski sanitāros pasākumus infekcijas slimību izraisītāju ievešanas un šo slimību izplatīšanās novēršanai, neatliekamus pretepidēmijas pasākumus katastrofu gadījumos un citās ārkārtējās situācijās;
 10) Labklājības ministrijas uzdevumā sadarbojas ar ārvalstu un starptautiskajām epidemioloģiskās uzraudzības institūcijām, nodrošina savstarpēju epidemioloģiskās informācijas apmaiņu, piedalās infekcijas slimību apkarošanas starptautisko programmu īstenošanā;
 11) informē Valsts sanitāro inspekciju par šā likuma un citu epidemioloģisko drošību reglamentējošo normatīvo aktu pārkāpumiem.
-(2) Veicot epidemioloģisko uzraudzību vai epidemioloģisko izmeklēšanu, Sabiedrības veselības dienesta epidemiologiem ir tiesības:
+(2) Veicot epidemioloģisko uzraudzību vai epidemioloģisko izmeklēšanu, Sabiedrības veselības aģentūras epidemiologiem ir tiesības:
 1) normatīvajos aktos noteiktajā kārtībā no fiziskajām un juridiskajām personām pieprasīt savu uzdevumu veikšanai nepieciešamo informāciju;
 2) pildot dienesta pienākumus, apmeklēt jebkuru objektu Latvijas Republikas teritorijā neatkarīgi no tā piederības un normatīvajos aktos noteiktajā kārtībā veikt attiecīgā objekta vai atsevišķu priekšmetu apskati, ja ir pamatotas aizdomas, ka tas var saturēt vai pārnest infekcijas slimību izraisītājus.

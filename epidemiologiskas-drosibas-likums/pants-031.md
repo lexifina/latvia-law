@@ -3,3 +3,4 @@
 (2) Personas, kas nodarbojas ar vakcīnu uzglabāšanu un pārvadāšanu, ir atbildīgas par Labklājības ministrijas noteiktās kārtības ievērošanu vakcīnu drošības, nekaitīguma un kvalitātes saglabāšanā.
 (3) Vakcināciju drīkst veikt tikai sertificēta ārstniecības persona.
 (4) Veiktās vakcinācijas obligāti reģistrējamas Labklājības ministrijas noteiktajā kārtībā. Par veikto vakcināciju ir jāizdara ieraksts vakcinētās personas potēšanas pasē.
+(5) Ministru kabinets nosaka obligātās minimālā nodrošinājuma prasības vakcinācijas veikšanai.
