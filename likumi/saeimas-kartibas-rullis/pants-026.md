@@ -1,1 +1,5 @@
-26. Par katram 25. pantā minētajam amatam izvirzītajiem kandidātiem balso vienlaikus aizklātā balsošanā ar vēlēšanu zīmēm. Aizklāti balsojot ar vēlēšanu zīmēm, ieceļ arī Satversmes aizsardzības biroja direktoru.
+26. (1) Par katram 25.pantā minētajam amatam izvirzītajiem kandidātiem balso vienlaikus aizklātā balsošanā ar vēlēšanu zīmēm.
+(2) Par ievēlētu uzskatāms kandidāts, kas ieguvis visvairāk balsu, turklāt balsu skaits nedrīkst būt mazāks par klātesošo deputātu absolūto balsu vairākumu.
+(3) Valsts prezidents uzskatāms par ievēlētu ar ne mazāk kā 51 balss vairākumu (Satversmes 36.p.).
+(4) Ja pirmajā vēlēšanu kārtā neviens nav ieguvis ievēlēšanai nepieciešamo balsu skaitu, tad šā panta pirmajā daļā noteiktajā kārtībā par visiem kandidātiem balso otrreiz. Ja arī tad neviens netiek ievēlēts, vēlēšanas turpina, izslēdzot ikvienā turpmākajā vēlēšanu kārtā to kandidātu, kas iepriekšējā kārtā ieguvis vismazāk balsu. Vēlēšanas turpina, līdz viens no kandidātiem iegūst ievēlēšanai nepieciešamo balsu skaitu.
+(5) Ja vēlēšanu pēdējā kārtā neviens nav ieguvis ievēlēšanai nepieciešamo balsu skaitu, rīko jaunas vēlēšanas 25.pantā un šā panta pirmajā - ceturtajā daļā noteiktajā kārtībā. Katrās jaunās vēlēšanās var izvirzīt arī iepriekšējās vēlēšanās neievēlētos kandidātus.

@@ -1,1 +1,1 @@
-156. Apakškomisijas pirmo sēdi sasauc un līdz apakškomisijas priekšsēdētāja ievēlēšanai vada komisijas sekretārs. Turpmākās sēdes sasauc un vada apakškomisijas priekšsēdētājs (154. p.).
+156. Apakškomisijas pirmo sēdi sasauc un līdz apakškomisijas priekšsēdētāja ievēlēšanai vada komisijas sekretārs. Turpmākās sēdes sasauc un vada apakškomisijas priekšsēdētājs.

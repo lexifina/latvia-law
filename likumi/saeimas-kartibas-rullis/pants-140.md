@@ -1,2 +1,2 @@
-140. (1) Ne mazāk kā desmit deputāti var pieprasīt, lai balsošana būtu aizklāta - ar elektroniskās balsošanas iekārtas palīdzību vai ar vēlēšanu zīmēm (54. p.). Aizklātai balsošanai dodama priekšroka. Balsošana, kas saistīta ar uzticības vai neuzticības izteikšanu Ministru kabinetam, atsevišķam ministram vai valsts ministram, izdarāma atklāti.
-(2) Ne mazāk kā desmit deputāti var pieprasīt, lai pēc balsošanas nolasa katra deputāta balsojumu (54. p.).
+140. (1) Ne mazāk kā desmit deputāti var ierosināt, lai balsošana būtu aizklāta - ar elektroniskās balsošanas iekārtas palīdzību vai ar vēlēšanu zīmēm (54.p.). Balsošana, kas saistīta ar uzticības vai neuzticības izteikšanu Ministru kabinetam, Ministru prezidentam, Ministru prezidenta biedram, ministram vai valsts ministram, izdarāma atklāti.
+(2) Ne mazāk kā desmit deputāti var ierosināt, lai pēc balsošanas nolasa katra deputāta balsojumu (54.p.).

@@ -1,2 +1,2 @@
 125. (1) Prezidijs ziņo Saeimas sēdē par iesniegtajiem pieprasījumiem, norādot, kas pieprasījumu ir iesniedzis un kam tas ir adresēts.
-(2) Pēc Prezidija ziņojuma pirmais pieprasījuma parakstītājs vai kāds cits no parakstītājiem (124 p.) pēc viņu savstarpējas vienošanās var izteikties, lai motivētu pieprasījumu, ja par to ir norādīts, iesniedzot pieprasījumu.
+(2) Pēc Prezidija ziņojuma pirmais pieprasījuma parakstītājs vai kāds cits no parakstītājiem (124 p.) pēc viņu savstarpējas vienošanās var izteikties, lai motivētu pieprasījumu, ja par to ir norādīts, iesniedzot pieprasījumu. Runas laiks šajā gadījumā nedrīkst pārsniegt piecas minūtes.

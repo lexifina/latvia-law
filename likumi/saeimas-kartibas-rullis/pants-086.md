@@ -1,7 +1,16 @@
-86. (1) Nevienu likumprojektu nedrīkst iekļaut darba kārtībā un izskatīt Saeimas sēdē, pirms tas nav izskatīts atbildīgajā komisijā. Ja likumprojektu ir izstrādājusi un 79. pantā noteiktajā kārtībā iesniegusi komisija, kuru Saeima noteikusi par atbildīgo, likumprojekts virzāms izskatīšanai pirmajā lasījumā bez atkārtotas izskatīšanas atbildīgajā komisijā, ja tas nav nodots arī citām komisijām.
-(2) Saeimas sēdē izskatāmi arī tie likumprojekti, kurus atbildīgā komisija noraidījusi, ja:
+86. (1) Nevienu likumprojektu nedrīkst iekļaut darba kārtībā un izskatīt Saeimas sēdē, pirms tas nav izskatīts atbildīgajā komisijā. Atzinumu par likumprojektu atbildīgā komisija iesniedz Prezidijam. Atzinums nekavējoties izsniedzams deputātiem.
+(2) Likumprojektu, ko atbildīgā komisija atbalstījusi, Prezidijs, ievērojot 87.panta 1.punkta prasības, iekļauj Saeimas nākamās kārtējās sēdes darba kārtībā, ja nav iesniegti priekšlikumi par šā likumprojekta iekļaušanu Saeimas citas sēdes darba kārtībā.
+(3) Ja likumprojektu ir izstrādājusi un 79.pantā noteiktajā kārtībā iesniegusi komisija, kuru Saeima noteikusi par atbildīgo, likumprojekts virzāms izskatīšanai pirmajā lasījumā bez atkārtotas izskatīšanas atbildīgajā komisijā, ja tas nav nodots arī citām komisijām.
+(4) Saeimas sēdē izskatāmi arī tie likumprojekti, kurus atbildīgā komisija noraidījusi, ja:
 1) likumprojektu iesniedzis Ministru kabinets;
-2) likumprojekts iesniegts Satversmes 78. panta kārtībā;
+2) likumprojekts iesniegts Satversmes 78.panta kārtībā;
 3) izskatīšanu pieprasa likumprojekta iesniedzējs.
-(3) Ministru kabineta iesniegtos likumprojektus nedrīkst ņemt atpakaļ bez atbildīgās komisijas atzinuma un Saeimas piekrišanas.
-(4) Ja atbildīgā komisija atzīst, ka Ministru kabineta iesniegtais likumprojekts pārstrādājams, pēc šīs komisijas priekšlikuma Saeima var to atdot Ministru kabinetam atpakaļ.
+(5) Atbildīgajā komisijā noraidītu likumprojektu, kuru iesniedzis Ministru kabinets vai kurš iesniegts Satversmes 78.panta kārtībā, Prezidijs, ievērojot Kārtības ruļļa 87.panta 1.punkta prasības, iekļauj Saeimas nākamās kārtējās sēdes darba kārtībā, ja nav iesniegti priekšlikumi par šā likumprojekta iekļaušanu Saeimas citas sēdes darba kārtībā.
+(6) Atbildīgajā komisijā noraidīts likumprojekts, kuru nav iesniedzis Ministru kabinets un kurš nav iesniegts Satversmes 78.panta kārtībā, uzskatāms par noraidītu, ja desmit dienu laikā no dienas, kad atbildīgās komisijas atzinums ir bijis pieejams deputātiem un nosūtīts Valsts prezidentam, iesniedzējs rakstveidā neprasa Prezidijam šā likumprojekta izskatīšanu Saeimas sēdē. Noraidīto likumprojektu var atkārtoti iesniegt izskatīšanai šajā sesijā tikai tad, ja likumprojektu parakstījis vismaz 51 deputāts vai arī tajā izdarīti grozījumi. Ja noraidītajam likumprojektam komisija izstrādājusi alternatīvu likumprojektu, alternatīvo likumprojektu izskata pirmajā lasījumā bez iesniegšanas 79.pantā noteiktajā kārtībā.
+(7) Valsts prezidenta, Saeimas komisijas vai ne mazāk kā piecu deputātu iesniegtu likumprojektu līdz balsošanas sākumam par likumprojekta pieņemšanu pirmajā lasījumā var atsaukt, paziņojot par to rakstveidā Prezidijam vai atbildīgajai komisijai vai mutvārdos - atbildīgās komisijas sēdē vai Saeimas sēdē. Par šādu mutvārdu paziņojumu izdarāma atzīme attiecīgās sēdes protokolā.
+(8) Ja par likumprojekta atsaukšanu paziņots atbildīgajai komisijai, atbildīgā komisija to dara zināmu Saeimas Kancelejai attiecīgas atzīmes izdarīšanai Likumprojektu reģistrā.
+(9) Ne mazāk kā piecu deputātu iesniegts likumprojekts uzskatāms par atsauktu, ja to atsaukuši tik daudzi iesniedzēji, ka nav saglabājies vismaz piecu deputātu atbalsts likumprojektam.
+(10) Par likumprojekta atsaukšanu, kas nav izdarīta Saeimas sēdē, rakstveidā paziņo deputātiem.
+(11) Ja atsaukts likumprojekts, kuram komisija izstrādājusi alternatīvu likumprojektu, alternatīvo likumprojektu izskata pirmajā lasījumā bez iesniegšanas 79.pantā noteiktajā kārtībā.
+(12) Ministru kabineta iesniegtie likumprojekti nav atsaucami bez atbildīgās komisijas atzinuma un Saeimas piekrišanas.
+(13) Ja atbildīgā komisija atzīst, ka Ministru kabineta iesniegtais likumprojekts pārstrādājams, pēc šīs komisijas priekšlikuma Saeima var to atdot Ministru kabinetam atpakaļ, nosakot termiņu, kādā pārstrādātais likumprojekts iesniedzams Saeimai.

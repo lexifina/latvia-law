@@ -1,1 +1,1 @@
-55. Sēdes vadītājs debatēs nepiedalās. Ja viņš vēlas piedalīties debatēs, viņam sēdes vadība jānodod savam biedram.
+55. Sēdes vadītājs debatēs nepiedalās. Ja viņš vēlas piedalīties debatēs, viņš sēdes vadību nodod savam biedram.

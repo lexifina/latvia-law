@@ -1,1 +1,1 @@
-32. Par apstiprinātiem vai ieceltiem uzskatāmi kandidāti, kas ieguvuši klātesošo deputātu absolūto balsu vairākumu.
+32. Saeimas komisiju locekļu, balsu skaitītāju un Centrālās vēlēšanu komisijas locekļu kandidatūras deputāti iesniedz Prezidijam 25.pantā noteiktajā kārtībā. Kārtību, kādā ievēlējamas šajā pantā minētās amatpersonas, nosaka Saeima.

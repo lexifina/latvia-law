@@ -1,1 +1,1 @@
-40. Sēžu dienas un stundas nosaka Prezidijs, izņemot gadījumus, kad par to lēmusi pati Saeima (54.p.).
+40. Sēžu dienas un stundas nosaka Prezidijs, izņemot gadījumus, kad par to lēmusi pati Saeima (54.p.) vai kad sēdes diena norādīta prasībā par ārkārtas sēdes sasaukšanu.

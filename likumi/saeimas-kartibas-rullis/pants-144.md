@@ -1,1 +1,3 @@
-144. Katram deputātam, kā arī Saeimas frakcijas vai politiskā bloka pārstāvim ir tiesības par balsošanas motīviem rakstveidā iesniegt attiecīgu ziņojumu, kas pievienojams Saeimas sēdes stenogrammai; ziņojuma iesniedzējs var arī sniegt mutvārdu paskaidrojumu ne ilgāk kā piecas minūtes.
+144. (1) Katram deputātam, kā arī Saeimas frakcijas vai politiskā bloka pārstāvim ir tiesības iesniegt ziņojumu par balsošanas motīviem. Šāds ziņojums iesniedzams rakstveidā ne vēlāk kā 24 stundu laikā pēc attiecīgās Saeimas sēdes beigām.
+(2) Ja ziņojums iesniegts pirms balsojuma un tajā norādīts, ka iesniedzējs vēlas to nolasīt, iesniedzējam tiek dots vārds uzreiz pēc balsojuma rezultātu paziņošanas. Runas laiks šajā gadījumā nedrīkst pārsniegt piecas minūtes.
+(3) Šā panta pirmajā daļā minētajā termiņā iesniegtie ziņojumi par balsošanas motīviem, kuri nav tikuši nolasīti Saeimas sēdē, pievienojami Saeimas sēdes stenogrammai.

@@ -1,2 +1,2 @@
 21. (1) Priekšsēdētājs reprezentē Saeimu, vada Saeimas sēdes un gādā par kārtību tajās. Priekšsēdētāja prombūtnes laikā viņa pienākumus pilda kāds no viņa biedriem pēc savstarpējas vienošanās. Tāpat priekšsēdētājs un viņa biedri sadala savā starpā kārtējos darbus, arī sēžu vadīšanu.
-(2) Saeimas pieņemtos lēmumus, kam ir vispārēja nozīme, priekšsēdētājs izsludina «Latvijas Vēstnesī». Šis noteikums attiecas arī uz 83. panta otrajā daļā un 91. panta otrajā daļā paredzētajiem gadījumiem.
+(2) Saeimas pieņemtos lēmumus, kam ir vispārēja nozīme, priekšsēdētājs izsludina «Latvijas Vēstnesī». Šis noteikums attiecas arī uz 30.pantā un 83.panta otrajā, sestajā un devītajā daļā paredzētajiem gadījumiem.

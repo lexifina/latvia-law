@@ -1,1 +1,1 @@
-68. Domu apmaiņa par steidzamiem ziņojumiem (67. p.) nav pieļaujama.
+68. Domu apmaiņa par steidzamiem paziņojumiem (67. p.) nav pieļaujama.

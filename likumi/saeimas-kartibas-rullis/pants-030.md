@@ -1,1 +1,1 @@
-30. Senatoru, tiesnešu, prokuroru un citu amatpersonu apstiprināšana vai iecelšana tiek ierosināta likumos noteiktajā kārtībā.
+30. Ja Saeima, balsojot par gadskārtējo valsts budžeta projektu pirmajā vai otrajā lasījumā, to noraida, uzskatāms, ka izteikta neuzticība Ministru kabinetam.
