@@ -17,3 +17,12 @@ Izsole ar pretendentu atlasi - izsole, kurā izsoles rīkotājs nosaka ierobežo
 Īpašuma objekta pārdošana ar tūlītēju samaksu - šā likuma izpratnē: privatizācijas paņēmiens, kas paredz pirkuma līgumu slēgt ar personu, kura apņemas samaksāt visu pirkuma cenu līgumā paredzētajā termiņā un pildīt Privatizācijas aģentūras vai pašvaldības izvirzītos noteikumus.
 Īpašuma objekta pārdošana uz nomaksu - šā likuma izpratnē: privatizācijas paņēmiens, kas paredz pirkuma līgumu slēgt ar personu, kura apņemas maksāt pirkuma cenu pa daļām un vislabākajā veidā pildīt Privatizācijas aģentūras vai pašvaldības izvirzītos noteikumus.
 Kapitāla daļu pārdošana - privatizācijas paņēmiens, kas paredz valsts vai pašvaldības uzņēmuma, pārveidošanu statūtsabiedrībā, vienlaikus pārdodot šīs statūtsabiedrības kapitāla daļas, vai arī valsts vai pašvaldības statūtsabiedrības kapitāla daļu pārdošanu vai to kapitāla daļu pārdošanu, kas pieder valstij vai pašvaldībai uzņēmējsabiedrībā, kurā ir privātais kapitāls.
+Īpašuma objekts - privatizācijas rezultātā vai citos likumos un normatīvajos aktos paredzētajos gadījumos īpašumā iegūtās ar zemi cieši saistītās ēkas un būves.
+Bijušais valsts īpašuma objekts - īpašuma objekts, kas sākotnēji, pirms privatizācijas vai pirms citos likumos un normatīvajos aktos paredzētās īpašuma tiesību pārejas to jaunajam īpašniekam, bijis valsts īpašums.
+Bijušais pašvaldības īpašuma objekts - īpašuma objekts, kas sākotnēji, pirms privatizācijas vai pirms citos likumos un normatīvajos aktos paredzētās īpašuma tiesību pārejas to jaunajam īpašniekam, bijis pašvaldības īpašums.
+Privatizāciju veicošā institūcija - bezpeļņas organizācija valsts akciju sabiedrība "Privatizācijas aģentūra" vai attiecīgā pašvaldība, kas veic valsts vai pašvaldību īpašuma objektu vai zemesgabalu privatizāciju saskaņā ar šo likumu, kā arī Zemkopības ministrija, kas veic agroservisa uzņēmumu privatizāciju saskaņā ar likumu "Par agroservisa uzņēmumu privatizāciju".
+Privatizējamais zemesgabals - apbūvēts vai neapbūvēts zemesgabals, kas nodots privatizācijai.
+Apbūvēts zemesgabals - zemesgabals, uz kura atrodas ēkas vai būves.
+Neapbūvēts zemesgabals - zemesgabals, uz kura neatrodas virszemes ēkas vai būves.
+Pašvaldībai piekrītošs zemesgabals - likuma "Par valsts un pašvaldību zemes īpašuma tiesībām un to nostiprināšanu zemesgrāmatās" 3.panta trešajā daļā minētais zemesgabals.
+Valstij piekrītošs zemesgabals - likuma "Par valsts un pašvaldību zemes īpašuma tiesībām un to nostiprināšanu zemesgrāmatās" 2.panta trešajā daļā minētais zemesgabals.

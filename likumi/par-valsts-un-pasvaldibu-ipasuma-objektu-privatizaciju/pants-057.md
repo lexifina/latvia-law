@@ -1,8 +1,8 @@
 57. pants. Zemesgabala lietošanas un pirmpirkuma tiesības
-1. Privatizētā objekta jaunajam īpašniekam ir pirmpirkuma tiesības uz valsts vai pašvaldības īpašumā esošo zemesgabalu, uz kura atrodas šis objekts, ja vien objekta īpašniekam ir tiesības iegādāties šo zemesgabalu īpašumā saskaņā ar Civillikumu un citiem likumiem.
+1. (Izslēgta ar 11.06.1997. likumu.)
 2. Īpašuma objekta uzturēšanai privatizētā objekta jaunajam īpašniekam ir zemes nomas tiesības attiecībā uz zemesgabalu, uz kura atrodas uzņēmums.
 3. Zemesgabala īpašniekam ir pienākums noslēgt nomas līgumu ar privatizētā objekta jauno īpašnieku. Strīdus par nomas līguma noteikumiem izskata tiesa.
 4. Zemesgabala nomas maksu nosaka, privatizētā objekta jaunajam īpašniekam vienojoties ar zemesgabala īpašnieku un ievērojot Ministru kabineta noteikto zemes nomas maksas maksimālo līmeni.
 5. Ja zemesgabala īpašnieks, kas noslēdzis nomas līgumu ar privatizētā objekta īpašnieku, pārdod iznomāto zemesgabalu, pirmpirkuma tiesības uz to ir privatizētā nekustamā īpašuma īpašniekam.
-6. Visas darbības, kas saistītas ar zemesgabala pārdošanu uz tā esošā privatizētā objekta jaunajam īpašniekam, veic Privatizācijas aģentūra, ja privatizētais objekts ir bijis valsts īpašums, vai attiecīgā pašvaldība, ja privatizētais objekts ir bijis pašvaldības īpašums, izņemot darbības, kuras saskaņā ar likumiem veic citas institūcijas.
-7. Jautājumus, kas saistīti ar valsts un pašvaldību attiecībām, pārdodot pašvaldības īpašumā esošo zemi, ja uz tās atrodas privatizēts valsts īpašuma objekts, un privatizējot valsts zemi, ja uz tās atrodas privatizēts pašvaldības īpašuma objekts, kā arī citus jautājumus, kas saistīti ar zemes pārdošanu šajā pantā paredzētajos gadījumos, regulē Ministru kabineta noteikumi.
+6. (Izslēgta ar 11.06.1997. likumu.)
+7. (Izslēgta ar 11.06.1997. likumu.)

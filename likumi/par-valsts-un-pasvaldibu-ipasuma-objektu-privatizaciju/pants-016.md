@@ -1,5 +1,5 @@
 16. pants. Paziņojums par valsts īpašuma objekta nodošanu privatizācijai un valsts statūtsabiedrības privatizācijā lietojamo reorganizācijas metodi
-1. Divu nedēļu laikā no dienas, kad pieņemts Ministru kabineta lēmums par valsts īpašuma objekta nodošanu privatizācijai, Privatizācijas aģentūra publicē oficiālajā laikrakstā "Latvijas Vēstnesis" un tā rajona vai pilsētas laikrakstā, kuras teritorijā atrodas privatizējamais valsts īpašuma objekts, paziņojumu par šā objekta nodošanu privatizācijai. Paziņojumā norāda:
+1. Divu nedēļu laikā no dienas, kad izdots Ministru kabineta rīkojums par valsts īpašuma objekta nodošanu privatizācijai, Privatizācijas aģentūra publicē oficiālajā laikrakstā "Latvijas Vēstnesis" un tā rajona vai pilsētas laikrakstā, kuras teritorijā atrodas privatizējamais valsts īpašuma objekts, paziņojumu par šā objekta nodošanu privatizācijai. Paziņojumā norāda:
 1) objekta nosaukumu;
 2) objekta adresi (ja objekta struktūrvienības vai nekustamā manta atrodas vairākās vietās, - visu struktūrvienību adreses);
 3) termiņu, līdz kuram piesakāmas kreditoru prasības un citas pretenzijas, kas attiecas uz privatizējamo uzņēmumu vai statūtsabiedrību;

@@ -17,4 +17,4 @@
 3) nodalot no tā atsevišķas daļas un privatizējot katru daļu atsevišķi;
 4) apvienojot vairākus privatizējamos objektus vai to daļas vienā objektā.
 8. Vienu un to pašu valsts vai pašvaldības īpašuma objektu var privatizēt, izmantojot vienu vai vairākas šajā pantā norādītās privatizācijas metodes.
-9. Ja valsts vai pašvaldības īpašuma objektu privatizē ar šā panta otrās daļas 6.punktā minēto metodi, šā punkta tekstā ar vārdiem "parādi un citas saistības" ir jāsaprot tādi parādi un saistības, kuriem ir iestājies izpildes termiņš un kuri nav izpildīti.
+9. Ja valsts vai pašvaldības īpašuma objektu privatizē, izmantojot šā panta otrās daļas 6.punktā minēto metodi, šā punkta tekstā ar vārdiem "parādi un citas saistības" ir jāsaprot tādi parādi un saistības, kuriem ir iestājies izpildes termiņš un kuri nav izpildīti.
