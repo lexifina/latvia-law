@@ -8,4 +8,4 @@
 (3) Militārās pretizlūkošanas dienests darbojas atbilstoši Ministru kabineta apstiprinātam nolikumam.
 (4) Militārās pretizlūkošanas dienests savas kompetences ietvaros ir operatīvās darbības subjekts.
 (5) Militārās pretizlūkošanas dienesta personālsastāvā ir karavīri un darbinieki.
-(6) Militārās pretizlūkošanas dienests ir juridiskā persona.
+(6) (Izslēgta ar 27.06.2002. likumu.)
