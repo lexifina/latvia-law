@@ -1,0 +1,2 @@
+Trešā nodaļa
+OSTAS PĀRVALDES FINANSU LĪDZEKĻI

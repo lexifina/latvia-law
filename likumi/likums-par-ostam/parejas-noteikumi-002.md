@@ -1,0 +1,1 @@
+2. Līgumi par citām juridiskajām un fiziskajām personām piederošo ēku un būvju izmantošanu paliek spēkā tik ilgi, līdz par labu ostas pārvaldei saskaņā ar šā likuma 4. pantu tiek nodibināts tāds servitūts, kas attiecas uz šo līgumu. Līdz ar šāda servitūta nodibināšanu līgumi zaudē spēku, un tie pēc tam slēdzami no jauna ar ostas pārvaldi.

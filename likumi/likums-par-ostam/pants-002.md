@@ -1,0 +1,2 @@
+2. pants. Ostas jēdziens
+Osta ir ar robežām noteikta Latvijas sauszemes teritorijas dala, ieskaitot mākslīgi izveidotos uzbērumus, un iekšējo ūdeņu daļa, ieskaitot iekšējos un ārējos reidus un kuģuceļus ostas pieejā, kas iekārtoti kuģu un pasažieru apkalpošanai, kravas, transporta un ekspedīciju operāciju veikšanai un citai ar kuģošanu saistītai saimnieciskai darbībai. Ostas izmantošanu aizsardzības vajadzībām reglamentē Ministru kabineta noteikumi un attiecīgās ostas noteikumi.

@@ -1,0 +1,2 @@
+Sestā nodaļa
+UZŅĒMĒJDARBĪBA OSTĀ
