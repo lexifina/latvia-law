@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2004.gada 27.janvāra noteikumi Nr.49 \"Labklājības ministrijas nolikums\"",
+  "type_of_act": "Ministru kabineta instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "16",
+  "official_journal_page": null,
+  "official_journal_date": "2004-01-30",
+  "entry_into_force": "2004-01-31",
+  "notification_date": "2008-07-29",
+  "commission_reference": "MNE(2008)54426",
+  "nim_celex": "72006L0054LVA_157358",
+  "nim_id": "157358",
+  "transposes_celex": [
+    "32006L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1ea6e945-9f0b-4419-b84e-935f85207a21",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
