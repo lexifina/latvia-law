@@ -1,0 +1,1 @@
+7.Ieguldījumu sabiedrības, kuras līdz 2004.gada 30.aprīlim ir uzsākušas valsts fondēto pensiju shēmas līdzekļu pārvaldi, līdz 2004.gada 31.decembrim veic nepieciešamos pasākumus, lai tās atbilstu šajā likumā noteiktajām prasībām.
