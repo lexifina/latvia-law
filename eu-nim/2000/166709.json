@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Fizisko personu datu aizsardzības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "123/124",
+  "official_journal_page": null,
+  "official_journal_date": "2000-04-06",
+  "entry_into_force": "2000-04-20",
+  "notification_date": "2010-02-02",
+  "commission_reference": "MNE(2010)50969",
+  "nim_celex": "72007L0002LVA_166709",
+  "nim_id": "166709",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/e81edfbd-1c54-49b6-a0f1-6cd058b72984",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
