@@ -1,0 +1,4 @@
+4. pants. Nepilsoņa pases saņemšana un nodošana
+(1) Nepilsoņa pasi saņem Ministru kabineta noteiktajā kārtībā un termiņā, uzrādot PSRS pilsoņa pasi ar Latvijas Republikas iedzīvotāja personas kodu vai citu Latvijas Republikas izdotu personas dokumentu ar Latvijas Republikas iedzīvotāja personas kodu un ar savu parakstu apliecinot, ka nepilsoņa pases saņēmējam nav nevienas valsts pilsonības.
+(2) Ja šā likuma subjekts bez attaisnojoša iemesla Ministru kabineta noteiktajā termiņā neapmaina bijušās PSRS pilsoņa pasi pret nepilsoņa pasi, tā tiesisko statusu nosaka likums «Par ārvalstnieku un bezvalstnieku ieceļošanu un uzturēšanos Latvijas Republikā».
+(3) Ja persona, kura saņēmusi nepilsoņa pasi, iegūst kādas valsts pilsonību, tai viena mēneša laikā Ministru kabineta noteiktajā kārtībā jāpaziņo par to un jānodod sava nepilsoņa pase.

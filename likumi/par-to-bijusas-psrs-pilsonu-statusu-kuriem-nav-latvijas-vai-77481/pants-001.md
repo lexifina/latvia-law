@@ -1,0 +1,7 @@
+1. pants. Likuma subjekti
+(1) Šā likuma subjekti ir tie Latvijas Republikā dzīvojošie, arī terminētā prombūtnē esošie (mācības, darba līgums, soda izciešana u. tml.) bijušās PSRS pilsoņi, kuri pirms 1992. gada 1. jūlija dzīvoja un bija bez termiņa ierobežojuma, neatkarīgi no pierakstā norādītās dzīvojamās platības statusa, pierakstīti Latvijas teritorijā un kuri nav Latvijas vai citas valsts pilsoņi, kā arī šo personu nepilngadīgie bērni, ja viņi nav Latvijas vai citas valsts pilsoņi.
+(2) To personu tiesisko statusu, kuras ir ieceļojušas Latvijas Republikā pēc 1992. gada 1. jūlija, nosaka likums «Par ārvalstnieku un bezvalstnieku ieceļošanu un uzturēšanos Latvijas Republikā».
+(3) Šis likums neattiecas uz:
+1) Latvijas teritorijā dislocētā Krievijas Federācijas militārā objekta funkcionēšanā un demontāžā nodarbinātajiem militārajiem speciālistiem, kā arī šajā nolūkā uz Latviju komandētajām civilpersonām;
+2) personām, kuras pēc 1992. gada 28. janvāra atvaļinātas no aktīvā militārā dienesta, ja šīs personas dienestā iesaukšanas brīdī pastāvīgi nedzīvoja Latvijas teritorijā vai nav Latvijas pilsoņu ģimenes locekļi;
+3) šā panta trešās daļas 1. un 2. punktā norādīto personu laulātajiem un kopā ar viņiem dzīvojošajiem ģimenes locekļiem - bērniem un citiem apgādājamajiem, ja šis personas ieradušās Latvijā sakarā ar Krievijas Federācijas (PSRS) bruņoto spēku militārpersonas dienestu neatkarīgi no tā, kad tās ieradušās Latvijā.
