@@ -1,0 +1,1 @@
+3. Ministru kabineta izveidota komisija veic dokumentu izpēti un dod atzinumu, kas ir pamats tam, lai bijušie PSRS tautas deputāti no Latvijas, kuri sekmēja Latvijas Republikas neatkarības atjaunošanu, saņemtu šā likuma 5. un 6.pantā noteikto pensiju.

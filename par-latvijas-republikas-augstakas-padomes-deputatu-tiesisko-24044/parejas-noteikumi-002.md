@@ -1,1 +1,1 @@
-2. Ministru kabinets līdz 2000.gada 4.maijam organizē Latvijas Republikas Augstākās padomes sēžu stenogrammu oficiālo tekstu izdošanu valsts valodā.
+2. Saeima iekļauj budžeta pieprasījumā kārtējam saimnieciskajam gadam nepieciešamo finansējumu Latvijas Republikas Augstākās padomes sēžu stenogrammu publikāciju sagatavošanai. Saeimas Kanceleja sagatavo un publicē laikrakstā "Latvijas Vēstnesis" un izdod atsevišķā izdevumā Latvijas Republikas Augstākās padomes sēžu stenogrammas valsts valodā.
