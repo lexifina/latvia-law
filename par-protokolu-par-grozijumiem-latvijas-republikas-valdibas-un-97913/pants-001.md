@@ -1,0 +1,1 @@
+1.pants. 2004.gada 9.jūnijā Rīgā parakstītais Protokols par grozījumiem Latvijas Republikas valdības un Kazahstānas Republikas valdības nolīgumā par tranzīta kārtību (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
