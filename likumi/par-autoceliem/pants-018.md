@@ -1,6 +1,6 @@
 18. pants. Komunikāciju izvietošana ceļu zemes nodalījuma joslā
 (1) Šķērsot autoceļus ar kanāliem, sakaru un elektropārvades līnijām, cauruļvadiem, dzelzceļiem un citām komunikācijām, ierīkot tās gar ceļiem to zemes nodalījuma joslās, ierīkot aizsprostus, padziļināt upju gultnes pie tiltiem un caurtekām, paaugstināt vai pazemināt uzbērumu dzelzceļa līnijām, kas šķērso valsts autoceļus, var tikai ar valsts ceļu dienesta atļauju, bet pagastu, uzņēmumu vai māju ceļus - ar attiecīgā īpašnieka atļauju, ievērojot šajā likumā noteiktās prasības.
-(2) Ja minēto būvju dēļ rodas nepieciešamība izdarīt ceļa pārbūvi, šie darbi jāveic būvētājiem, bet, ja viņi tos neveic, to izdara valsts ceļu dienesta organizācijas uz būvētāju rēķina.
+(2) Ja minēto būvju dēļ rodas nepieciešamība izdarīt ceļa pārbūvi, šie darbi jāveic būvētājiem, bet, ja viņi tos neveic, to izdara valsts ceļu dienests uz būvētāju rēķina.
 (3) Visāda veida komunikāciju izvietošana, pārvietošana vai rekonstrukcija ceļu zemes nodalījuma joslā nedrīkst pasliktināt autoceļa, kā arī ceļa elementu ekspluatācijas īpašības un satiksmes drošību.
 (4) Komunikācijas, kuras atrodas ceļu zemes nodalījuma joslā un nav saistītas ar ceļu lietošanu, jāuztur kārtībā un ceļu rekonstrukcijas vai remonta gadījumā jāpārbūvē to īpašniekiem par saviem līdzekļiem pēc valsts ceļu dienesta pieprasījuma.
 (5) Izņēmums ir zemnieku saimniecību komunikācijas, kuras ceļu rekonstrukcijas vai remonta gadījumā pārbūvē par valsts ceļu fonda līdzekļiem, ja to izbūve ir bijusi saskaņota ar valsts ceļu dienestu.

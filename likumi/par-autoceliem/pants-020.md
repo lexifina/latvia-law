@@ -1,3 +1,3 @@
 20. pants. Tirdzniecības, sabiedriskās ēdināšanas, citu pakalpojumu objektu un to reklāmas izvietošana gar autoceļiem
-(1) Tirdzniecības, sabiedriskās ēdināšanas un citus pakalpojumu objektus, kā arī to reklāmu gar valsts autoceļiem ceļu zemes nodalījuma joslā vai aizsardzības zonā var izvietot ar valsts ceļu dienestu saskaņotās vietās.
+(1) Tirdzniecības, sabiedriskās ēdināšanas un citus pakalpojumu objektus, kā arī to reklāmu gar valsts autoceļiem ceļu zemes nodalījuma joslā vai aizsardzības zonā var izvietot ar valsts ceļu dienestu saskaņotās vietās Ministru kabineta noteiktajā kārtībā.
 (2) Par tirdzniecības, sabiedriskās ēdināšanas un citu pakalpojumu objektu, kā arī to reklāmas izvietošanu ceļu zemes nodalījuma joslā var ņemt maksu, kuru nosaka līgumā, ko noslēdz valsts ceļu dienests vai zemes lietotāji ar attiecīgo uzņēmumu, iestādi, organizāciju vai pilsoni.

@@ -9,4 +9,4 @@
 - galvenajos valsts autoceļos, kas Latvijas Republikas ceļu tīklu savieno ar citu valstu ceļu tīklu un Latvijas Republikas galvaspilsētu - ar rajonu administratīvajiem centriem;
 - 1. šķiras valsts autoceļos, kas rajonu administratīvos centrus savieno savā starpā un citus republikas nozīmes administratīvos, saimnieciskos un kultūras centrus - savā starpā un ar rajonu administratīvajiem centriem vai ar valsts autoceļiem;
 - 2. šķiras valsts autoceļos. Tie ir pārējie valsts autoceļi, kuri par tādiem noteikti saskaņā ar Latvijas Republikas Satiksmes ministrijas un pašvaldību iestāžu vienošanos.
-(4) Autoceļu sarakstus apstiprina Latvijas Republikas Satiksmes ministrija.
+(4) Autoceļu sarakstus apstiprina Ministru kabinets.
