@@ -12,6 +12,7 @@
 10) izstrādā dzelzceļa vides aizsardzības politiku un rīcības programmu, uztur vides aizsardzības paškontroles sistēmu;
 11) izvērtē apdraudējumu, ko dzelzceļa infrastruktūra rada cilvēku veselībai un videi, un veic nepieciešamos šā apdraudējuma samazināšanas pasākumus;
 12) veic infrastruktūras reģistrāciju;
-13) veic ritošā sastāva reģistrāciju satiksmes ministra noteiktajā kārtībā.
+13) veic ritošā sastāva reģistrāciju satiksmes ministra noteiktajā kārtībā;
+14) izsniedz pārvadātāja licences dzelzceļa kravu pārvadājumu veikšanai.
 (2) Dzelzceļa administrācija, pildot ar šo likumu un citiem likumiem noteiktās funkcijas, ievēro valsts politiku dzelzceļa transporta nozarē un transporta attīstības nacionālo programmu.
 (3) Dzelzceļa administrācijas lēmumus var pārsūdzēt tiesā likumos un citos normatīvajos aktos noteiktajā kārtībā.

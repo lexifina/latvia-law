@@ -2,7 +2,7 @@
 (1) Speciālu atļauju dzelzceļa pārvadājumu veikšanai (turpmāk -pārvadātāja licence) tiesīgi saņemt uzņēmumi (uzņēmējsabiedrības), kuri var nodrošināt dzelzceļa pārvadājumu veikšanai nepieciešamos pamatnosacījumus, kā arī attiecīgo dzelzceļa speciālistu līdzdalību.
 (2) Pārvadātāja licence apliecina pārvadātāja tiesības nodarboties ar tajā norādīto uzņēmējdarbības veidu. Pārvadātāja licence, kas izsniegta dzelzceļa pārvadājumu veikšanai, nedod tiesības piekļūt dzelzceļa infrastruktūrai.
 (3) Pārvadātāja licence, nediskriminējot un ievērojot vienlīdzības principu, piešķirama uzņēmumam (uzņēmējsabiedrībai), kurš iesniedzis pieteikumu pārvadātāja licences saņemšanai (turpmāk - pretendents) un kuram ir nevainojama reputācija un stabils finansiālais stāvoklis, šajā nolūkā pārbaudot tā:
-1) finansu resursu pietiekamību;
+1) finanšu resursu pietiekamību;
 2) darbības un vadības plānus;
 3) līdzšinējo darbību, profesionālo atbilstību un pieredzi.
 (4) Pretendentam jāpierāda sava profesionālā atbilstība, norādot uz to, ka:
@@ -15,6 +15,6 @@
 3) uzņēmēja vadošās amatpersonas nav sodītas administratīvā kārtā par pārkāpumiem uzņēmējdarbībā;
 4) pretendents nav pārkāpis darba likumus un nodokļu likumus.
 (6) Kārtību, kādā izsniedzama un anulējama pārvadātāja licence, nosaka Ministru kabinets. Ministru kabinets var izvirzīt papildu nosacījumus pārvadātāja licences piešķiršanai.
-(7) Pārvadātāja licenci izsniedz Sabiedrisko pakalpojumu regulēšanas komisija pēc tam, kad ir samaksāta valsts nodeva, kuras apmēru nosaka Ministru kabinets. Par pārvadātāja licences izsniegšanu saņemtā nodeva tiek ieskaitīta valsts budžetā.
+(7) Dzelzceļa administrācija izsniedz pārvadātāja licenci dzelzceļa kravu pārvadājumu veikšanai un Sabiedrisko pakalpojumu regulēšanas komisija izsniedz pārvadātāja licenci dzelzceļa pasažieru pārvadājumu veikšanai, ja ir izpildītas šajā likumā noteiktās prasības un samaksāta valsts nodeva. Valsts nodevas apmēru nosaka Ministru kabinets. Par pārvadātāja licences izsniegšanu saņemtā nodeva tiek ieskaitīta valsts budžetā.
 (8) Pārvadātāja licenci izsniedz uz pieciem gadiem. Ja licences saņēmējs pilda saistības, kas paredzētas šajā likumā, un atbilst licencē norādītajiem nosacījumiem, licenci pēc tās derīguma termiņa izbeigšanās pagarina, to pārreģistrējot.
 (9) (Izslēgta ar 23.11.2000. likumu.)
