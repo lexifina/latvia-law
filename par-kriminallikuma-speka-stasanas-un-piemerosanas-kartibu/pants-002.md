@@ -1,0 +1,1 @@
+2.pants. Izbeigt pirmstiesas izmeklēšanas iestāžu un tiesu lietvedībā esošās krimināllietas par nodarījumiem, kuri kvalificēti pēc Latvijas Kriminālkodeksa 77., 79.panta, 112.panta pirmās un otrās daļas, 112.¹ panta pirmās daļas, 134.panta pirmās daļas, 134.¹, 145.¹, 149., 149.³, 150.², 150.⁵, 161.¹⁰, 179., 180., 194.², 195.¹, 195.², 195.³, 196., 209.¹, 211.panta.

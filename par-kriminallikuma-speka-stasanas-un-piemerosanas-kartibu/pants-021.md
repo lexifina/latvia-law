@@ -1,0 +1,1 @@
+21.pants. Šā likuma 20.panta noteikumi neattiecas uz Krimināllikuma 253.panta "Narkotisko un psihotropo vielu neatļauta izgatavošana, iegādāšanās, glabāšana un pārsūtīšana" trešajā daļā paredzētā nozieguma kvalifikāciju, ja tas izdarīts lielā apmērā.

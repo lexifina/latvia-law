@@ -1,0 +1,1 @@
+12.pants. Mantas konfiskāciju personām, kuras minētas šā likuma 5. un 10.pantā, nepiemēro, ja līdz šā likuma spēkā stāšanās brīdim spriedums daļā par mantas konfiskāciju nav izpildīts, manta nav izņemta un Krimināllikuma attiecīgajā pantā mantas konfiskācija nav paredzēta.

@@ -1,0 +1,1 @@
+10.pants. Samazināt sodus līdz Krimināllikuma attiecīgajā pantā paredzētajam maksimālajam sodam personām, kuras notiesātas pēc Latvijas PSR Kriminālkodeksa vai Latvijas Kriminālkodeksa pantiem, kas nav minēti šā likuma 2.pantā, un izcieš sodu, ja tiesas piespriestais sods ir smagāks par maksimālo sodu, kas paredzēts attiecīgajā Krimināllikuma pantā.

@@ -1,0 +1,1 @@
+6.pants. Šā likuma 5.pantā norādītās personas uz spriedumu izpildošās iestādes iesnieguma pamata no soda atbrīvo rajona (pilsētas) tiesa pēc soda izciešanas vietas Latvijas Kriminālprocesa kodeksa 374.panta kārtībā. Personas, par kurām spriedums nav nodots izpildei, no soda atbrīvo tiesas Latvijas Kriminālprocesa kodeksa 373.panta kārtībā.

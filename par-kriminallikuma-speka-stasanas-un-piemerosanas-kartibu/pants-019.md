@@ -1,0 +1,1 @@
+19.pants. Personas, kuras izdarījušas Krimināllikumā paredzētus atsevišķus noziedzīgus nodarījumus (arī turpinātus un ilgstošus noziedzīgus nodarījumus), kas uzsākti līdz Krimināllikuma spēkā stāšanās brīdim, bet pabeigti vai pārtraukti pēc tā, saucamas pie kriminālatbildības un sodāmas pēc Krimināllikuma attiecīgā panta.

@@ -1,0 +1,1 @@
+13.pants. Personas, kuras notiesātas līdz Krimināllikuma spēkā stāšanās brīdim, izcieš sodu, kas piespriests pēc Latvijas PSR Kriminālkodeksa vai Latvijas Kriminālkodeksa attiecīgā panta, izņemot šā likuma 5. un 10.pantā minētos gadījumus.

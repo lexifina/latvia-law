@@ -1,0 +1,1 @@
+22.pants. Atbildība par Krimināllikumā paredzēto kriminālpārkāpumu, kas izdarīts nelielā apmērā, iestājas, ja vainīgajam bijis nodoms iegūt kriminālpārkāpuma priekšmetu, kura vērtība nodarījuma izdarīšanas brīdī nepārsniedz vienu tai laikā Latvijas Republikā noteikto minimālo mēnešalgu.

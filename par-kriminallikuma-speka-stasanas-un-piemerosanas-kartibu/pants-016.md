@@ -1,0 +1,1 @@
+16.pants. Personas, kuras notiesātas līdz Krimināllikuma spēkā stāšanās brīdim ar brīvības atņemšanu, piemērojot Latvijas Kriminālkodeksa 43.¹ pantu, tas ir, ar sprieduma izpildīšanas atlikšanu, un kurām sprieduma izpildīšanas atlikšanas termiņš nav notecējis, uzskatāmas par notiesātām nosacīti ar pārbaudes laiku līdz minētā termiņa notecēšanas brīdim.

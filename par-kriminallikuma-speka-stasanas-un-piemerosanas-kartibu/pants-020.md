@@ -1,0 +1,1 @@
+20.pants. Atbildība par Krimināllikumā paredzēto noziegumu, kas izdarīts lielā apmērā, iestājas, ja nozieguma priekšmeta kopējā vērtība nodarījuma izdarīšanas brīdī nav bijusi mazāka par piecdesmit tai laikā Latvijas Republikā noteikto minimālo mēnešalgu kopsummu.

@@ -1,0 +1,1 @@
+14.pants. Šā likuma 10. un 12.panta noteikumi neattiecas uz personām - sevišķi bīstamiem recidīvistiem, kas notiesāti par noziegumiem pēc Latvijas PSR Kriminālkodeksa vai Latvijas Kriminālkodeksa pantos paredzētās pazīmes "ja to izdarījis sevišķi bīstams recidīvists".

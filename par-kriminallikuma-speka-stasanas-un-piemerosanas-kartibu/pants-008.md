@@ -1,0 +1,1 @@
+8.pants. Grozīt spriedumus personām, kuras notiesātas pēc šā Likuma 2.pantā minētajiem un arī citiem Latvijas Kriminālkodeksa pantiem, ņemot vērā, ka šīs personas atbrīvojamas no visu veidu sodiem, kas tām noteikti par šā likuma 2.pantā minētajiem nodarījumiem.

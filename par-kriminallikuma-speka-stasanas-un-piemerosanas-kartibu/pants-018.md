@@ -1,0 +1,1 @@
+18.pants. Šā likuma 10., 12., 13. un 17.panta noteikumi neattiecas uz personām, kuras līdz Krimināllikuma spēkā stāšanās brīdim izdarījušas Latvijas Kriminālkodeksa 139., 141., 142. un 144.pantā paredzētos noziegumus, tas ir, izdarījušas zādzību, krāpšanu vai piesavināšanos, arī nelielā apmērā, vai laupīšanas uzbrukumu nolūkā iegūt mantu, ja manta nav nolaupīta.

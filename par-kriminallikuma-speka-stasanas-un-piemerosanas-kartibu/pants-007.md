@@ -1,0 +1,1 @@
+7.pants. Noņemt sodāmību personām, kuras atbrīvotas no soda izciešanas saskaņā ar šā likuma 5.pantu, kā arī personām, kuras jau izcietušas sodu vai atbrīvotas pirms termiņa, ja tās bijušas notiesātas par šā likuma 2.pantā minētajiem nodarījumiem un ja tām sodāmība nav dzēsta, var tiesa uz šo personu iesnieguma pamata.

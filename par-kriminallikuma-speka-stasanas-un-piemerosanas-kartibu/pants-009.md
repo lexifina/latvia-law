@@ -1,0 +1,1 @@
+9.pants. Lietas par sprieduma grozīšanu personām, kuras notiesātas par šā likuma 2.pantā minētajiem un arī citiem nodarījumiem, izskata attiecīgi vienāda nosaukuma [rajona (pilsētas), apgabala] tiesa šā likuma 6.pantā noteiktajā kārtībā.

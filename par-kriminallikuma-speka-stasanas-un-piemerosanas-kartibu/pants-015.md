@@ -1,0 +1,1 @@
+15.pants. Latvijas Kriminālkodeksa 72.pantā, 72.¹ panta otrajā daļā, 99.panta 1., 2., 5., 6., 7., 9. (izņemot slepkavību, ja to izdarījusi persona, izciešot mūža ieslodzījumu) un 10.punktā, 121.panta ceturtajā daļā un 214.² panta trešajā daļā paredzētā soda veidu - nāves sodu - nepiemērot no šā likuma spēkā stāšanās brīža.

@@ -1,0 +1,1 @@
+23.pants. Atbildība par Krimināllikumā paredzēto noziedzīgo nodarījumu, ar kuru radīts būtisks kaitējums, iestājas, ja noziedzīgā nodarījuma rezultātā ne vien nodarīts ievērojams mantiskais zaudējums, bet arī apdraudētas vēl citas ar likumu aizsargātās intereses un tiesības vai ja šāds apdraudējums ir ievērojams.

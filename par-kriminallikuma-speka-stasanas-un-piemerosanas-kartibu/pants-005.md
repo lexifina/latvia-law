@@ -1,0 +1,1 @@
+5.pants. Atbrīvot no pamatsoda un papildsoda izciešanas personas, kas līdz Krimināllikuma spēkā stāšanās brīdim notiesātas par noziedzīgiem nodarījumiem, kuri saskaņā ar Krimināllikumu nav atzīti par noziedzīgiem nodarījumiem, tas ir, par nodarījumiem, kuri minēti šā likuma 2.pantā.
