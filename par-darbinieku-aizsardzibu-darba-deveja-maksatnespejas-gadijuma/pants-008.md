@@ -6,3 +6,4 @@
 3) pārbauda, vai piešķirtie līdzekļi tiek izlietoti atbilstoši likuma prasībām;
 4) nodrošina neizmantoto darbinieku prasījumu garantiju fonda līdzekļu atmaksāšanu;
 5) realizē kreditora tiesības pret maksātnespējīgo darba devēju darbinieku prasījumu apmierināšanai izmaksāto līdzekļu apmērā likumā paredzētajā kārtībā.
+(3) Darbinieku prasījumu garantiju fonda līdzekļu atlikumu izlieto darbinieku prasījumu apmierināšanai nākamajos saimnieciskajos gados.
