@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Darbinieku apstarošanas kontroles un uzskaites kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "154",
+  "official_journal_page": null,
+  "official_journal_date": "2001-10-26",
+  "entry_into_force": "2002-01-01",
+  "notification_date": "2004-02-27",
+  "commission_reference": "MNE(2003)50310",
+  "nim_celex": "71990L0641LVA_20310",
+  "nim_id": "20310",
+  "transposes_celex": [
+    "31990L0641",
+    "31996L0029",
+    "32003L0122"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e4debc03-1591-4ad2-bc1e-3b97a24c5ccb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
