@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Bezdarbnieku un darba meklētāju atbalsta likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "80",
+  "official_journal_page": null,
+  "official_journal_date": "2002-05-29",
+  "entry_into_force": "2002-07-01",
+  "notification_date": "2016-05-17",
+  "commission_reference": "MNE(2016)53202",
+  "nim_celex": "72014L0054LVA_237534",
+  "nim_id": "237534",
+  "transposes_celex": [
+    "32014L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a461c23f-cdb0-46e7-ab24-3919f5811954",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
