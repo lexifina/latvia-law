@@ -14,4 +14,5 @@ Likumā ir lietoti šādi termini:
 12) izobata - līnija, kas savieno punktus ar vienādu ūdenstilpju vai ūdensteču dziļumu;
 13) sarkanā līnija - pašvaldības apstiprinātajā teritorijas plānojumā noteiktā līnija, kas norobežo ceļa, ielas vai piebrauktuves (arī inženierkomunikāciju koridoru) izbūvei nepieciešamo teritoriju no apbūvējamās vai citādā veidā izmantojamās teritorijas;
 14) kabeļu līnijas ass - nosacīta līnija, kas iet caur katra kabeļa diametra viduspunktu. Katram kabelim ir sava kabeļu līnijas ass, kas nosaka šā kabeļa aizsargjoslas novietojumu;
-15) purvi - ekosistēmas uz kūdras augsnēm, kurās koku augstums konkrētajā vietā nevar sasniegt vairāk par septiņiem metriem.
+15) purvi - ekosistēmas uz kūdras augsnēm, kurās koku augstums konkrētajā vietā nevar sasniegt vairāk par septiņiem metriem;
+16) dambis - hidrotehniska būve, ko ierīko, lai regulētu ūdens straumi gultnē vai aizsargātu teritoriju pret applūšanu.

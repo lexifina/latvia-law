@@ -3,4 +3,4 @@
 (2) Ap ūdens ņemšanas vietām nosaka stingra režīma, kā arī bakterioloģisko un ķīmisko aizsargjoslu. Urbumiem, akām un avotiem, kurus saimniecībā vai dzeramā ūdens ieguvei izmanto savām vajadzībām individuālie ūdens lietotāji (fiziskās personas), aizsargjoslas nenosaka, ja ir veikta labiekārtošana un novērsta notekūdeņu infiltrācija un ūdens piesārņošana.
 (3) Aizsargjoslas ap centralizētās ūdens ņemšanas vietām aprēķina, ņemot vērā ūdens ņemšanas vietas dabiskos apstākļus un prognozējamo ūdens patēriņu.
 (4) Ja centralizētajai ūdensapgādei tiek izmantots gruntsūdeņu (neaizsargāts) ūdens horizonts vai pazemes ūdens krājumu mākslīgas papildināšanas metode, stingrā režīma aizsargjoslu aprēķina tā, lai nodrošinātu ūdens filtrācijas laiku no aizsargjoslas robežas līdz ūdens ieguves urbumiem ne mazāku par gadu.
-(5) Metodikas projektu, pēc kuras nosaka aizsargjoslas ap ūdens ņemšanas vietām, izstrādā Labklājības ministrija pēc saskaņošanas ar Vides aizsardzības un reģionālās attīstības ministriju.
+(5) Metodikas projektu, pēc kuras nosaka aizsargjoslas ap ūdens ņemšanas vietām, izstrādā Veselības ministrija pēc saskaņošanas ar Vides ministriju.

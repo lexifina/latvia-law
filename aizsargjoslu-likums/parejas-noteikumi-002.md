@@ -1,0 +1,1 @@
+2. Līdz 2004.gada 1.jūlijam Reģionālās attīstības un pašvaldību lietu ministrija pēc saskaņošanas ar Vides ministriju, pamatojoties uz pašvaldību iesniegtu priekšlikumu vietējās pašvaldības teritorijas plānojumā, apstiprina ciemu robežas tiem ciemiem, kuru robežas vietējās pašvaldības teritorijas plānojumā ir noteiktas līdz šā likuma 67.panta spēkā stāšanās dienai.

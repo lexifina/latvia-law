@@ -1,22 +1,32 @@
 36.pants. Aprobežojumi Baltijas jūras un Rīgas jūras līča piekrastes aizsargjoslā
 (1) Baltijas jūras un Rīgas jūras līča piekrastes aizsargjoslā tiek noteikti šādi aprobežojumi:
-1) pilsētās un ciemos jaunveidojamā zemes īpašuma platību nosaka vietējās pašvaldības saistošajos noteikumos, paredzot kājāmgājējiem iespēju piekļūt pludmalei;
-2) ja, atsavinot vai iznomājot valsts vai pašvaldības īpašumā esošo zemi, tiek paredzēta zemes lietojuma veida maiņa, kas nav paredzēta teritorijas plānojumā, ir nepieciešams ikreizējs Ministru kabineta lēmums;
-3) aizliegts ierīkot meliorācijas būves bez saskaņošanas ar reģionālo vides pārvaldi.
-(2) Krasta kāpu aizsargjoslā un pludmalē papildus šā panta pirmajā daļā minētajam aizliegts:
-1) celt jaunas dzīvojamās un saimniecības ēkas vietās, kurās nav bijis iepriekšējas apbūves;
-2) celt jaunas ražošanas un sabiedriskās ēkas;
-3) izvietot un ierīkot būves lopbarības glabāšanai (izņemot siena šķūņus bez vienlaidu pamatiem), minerālmēslu, augu aizsardzības līdzekļu, degvielas, eļļošanas materiālu, bīstamo ķīmisko vielu vai ķīmisko produktu, kokmateriālu, kā arī bīstamās ķīmiskās vielas vai ķīmiskos produktus saturošu materiālu glabātavas un degvielas uzpildes stacijas, izņemot atbilstoši teritoriju plānojumiem - ostas teritorijā;
-4) iegūt un izmantot derīgos izrakteņus, izņemot pazemes ūdeņu ieguvi ūdensapgādes vai rekreācijas vajadzībām aizsargjoslā esošai dzīvojamai vai atpūtnieku aprūpei paredzētai ēkai;
+1) pilsētās un ciemos jaunveidojamā zemes īpašuma platību nosaka vietējās pašvaldības saistošajos noteikumos, bet apbūves blīvumu - vietējās pašvaldības teritorijas plānojumā;
+2) ārpus pilsētām un ciemiem jaunveidojamā zemes īpašuma platību, uz kuras atļauts izvietot vienu viensētu ar saimniecības ēkām, bet ne mazāku par trim hektāriem, nosaka vietējās pašvaldības saistošajos noteikumos, bet apbūves blīvumu - vietējās pašvaldības teritorijas plānojumā. Vietās, kur ir saglabājusies vēsturiskā viensētu apbūve, pašvaldība izstrādā saistošos noteikumus par arhitektūras prasībām jaunbūvējamām vai atjaunojamām ēkām atbilstoši vēsturiskajam apbūves raksturam;
+3) ja, atsavinot vai iznomājot valsts vai pašvaldības īpašumā esošo zemi, tiek paredzēta zemes lietojuma veida maiņa, kas nav paredzēta teritorijas plānojumā, ir nepieciešams Ministru kabineta ikreizējs rīkojums;
+4) aizliegts ierīkot meliorācijas būves bez saskaņošanas ar reģionālo vides pārvaldi.
+(2) Krasta kāpu aizsargjoslā un pludmalē papildus šā panta pirmajā daļā minētajam aizliegts celt jaunas un paplašināt esošās dzīvojamās ēkas, saimniecības, ražošanas vai atpūtnieku aprūpei paredzētās ēkas un būves, izņemot gadījumus, kad:
+1) tiek rekonstruētas, nepārsniedzot esošo būvapjomu, renovētas vai restaurētas esošās ēkas un būves;
+2) tiek attīstīta osta vai tiek attīstīti un rekonstruēti esošie zvejniecības un zivju pārstrādes uzņēmumi vai pie esošām dzīvojamām ēkām tiek izbūvētas saimniecības ēkas vai būves un ir:
+a) veikts paredzētās darbības ietekmes uz vidi sākotnējais izvērtējums un saņemts Ietekmes uz vidi novērtējuma valsts biroja atzinums par noslēguma ziņojumu vai izdoti tehniskie noteikumi saskaņā ar likuma "Par ietekmes uz vidi novērtējumu" prasībām,
+b) attiecīgā apbūve paredzēta vietējās pašvaldības teritorijas plānojumā;
+3) ēku un būvju celtniecība vai paplašināšana ir paredzēta vietējās pašvaldības teritorijas plānojumā un notiek pilsētas teritorijā, kā arī šīs darbības ir saskaņotas ar Vides ministriju vai tās pilnvarotu institūciju;
+4) ēku un būvju celtniecība vai paplašināšana notiek šā likuma 67.pantā noteiktajā kārtībā apstiprinātajās un vietējās pašvaldības teritorijas plānojumā noteiktajās ciema robežās vietās, kur bijusi iepriekšējā apbūve, un minētās darbības ir paredzētas vietējās pašvaldības teritorijas plānojumā, kā arī tās ir saskaņotas ar Vides ministriju vai tās pilnvarotu institūciju.
+(3) Krasta kāpu aizsargjoslā un pludmalē papildus šā panta pirmajā un otrajā daļā minētajam aizliegts:
+1) atsavināt valsts īpašumā esošo zemi, izņemot gadījumus, kad likumos noteiktajā kārtībā personai ir tiesības privatizēt zemi zem ēkas;
+2) norobežot ar žogiem pieeju jūrai, kā arī traucēt kājāmgājēju brīvu pārvietošanos un atrašanos pludmalē un tauvas joslā. Lēmumi par nožogojumu nojaukšanu pieņemami un izpildāmi normatīvajos aktos noteiktajā kārtībā;
+3) izvietot un ierīkot minerālmēslu, augu aizsardzības līdzekļu, degvielas, eļļošanas materiālu, bīstamo ķīmisko vielu vai ķīmisko produktu, kokmateriālu, kā arī bīstamās ķīmiskās vielas vai ķīmiskos produktus saturošu materiālu glabātavas un degvielas uzpildes stacijas, izņemot atbilstoši teritoriju plānojumiem - ostas teritorijā, kā arī būves lopbarības glabāšanai (izņemot siena šķūņus bez vienlaidu pamatiem);
+4) iegūt un izmantot derīgos izrakteņus, izņemot pazemes ūdeņu ieguvi ūdensapgādes vai rekreācijas vajadzībām;
 5) ierīkot atkritumu apglabāšanas poligonus un atkritumu izgāztuves;
-6) ar mehāniskajiem transportlīdzekļiem nobraukt no vispārējās lietošanas, uzņēmumu un māju ceļiem, pārvietoties pa pludmali, meža un lauksaimniecības zemēm, ja tas nav saistīts ar šo teritoriju apsaimniekošanu vai uzraudzību;
+6) ar mehāniskajiem transportlīdzekļiem pārvietoties ārpus vispārējās lietošanas, uzņēmumu un māju ceļiem, pludmalē, meža un lauksaimniecības zemēs, ja tas nav saistīts ar šo teritoriju apsaimniekošanu vai uzraudzību;
 7) rīkot publiskus sporta, izklaides vai atpūtas pasākumus, kas nav saskaņoti ar vietējo pašvaldību, bet, ja aizsargjosla atrodas īpaši aizsargājamā dabas teritorijā, - ar šīs teritorijas administrāciju;
-8) novietot speciālās dzīvojamās piekabes ārpus šim nolūkam teritoriju plānojumos paredzētajām vietām;
-(3) Pašvaldības pienākums ir paredzēt teritoriju plānojumos kājāmgājējiem iespēju piekļūt pludmalei, paredzot iezīmētus gājēju celiņus ne tālāk kā viena kilometra attālumā vienu no otra, bet blīvi apdzīvotās vietās - ņemot vērā esošo apbūvi un īpašumu robežas.
-(4) Īpaši aizsargājamās dabas teritorijās, kā arī kultūras un vēstures pieminekļu teritorijās kājāmgājēju pārvietošanos regulē šo teritoriju aizsardzības un izmantošanas noteikumi.
-(5) Šā panta trešajā un ceturtajā daļā minētajos gadījumos pārvietošanos var ierobežot likumā noteiktajā kārtībā mežos ugunsbīstamajā periodā vai citos īpašos gadījumos.
-(6) Krasta kāpu aizsargjoslā papildus šā panta pirmajā un otrajā daļā minētajam aizliegts:
+8) novietot speciālās dzīvojamās piekabes, jebkādas konstrukcijas, pagaidu un saliekamās būves, izņemot pludmales labiekārtošanas elementus, ārpus šim nolūkam vietējās pašvaldības teritorijas plānojumā paredzētajām vietām;
+9) pārveidot kāpu reljefu, bojāt un iznīcināt kāpu dabisko zemsedzi, izņemot gadījumus, kad tas saistīts ar teritorijas apsaimniekošanu saskaņā ar dabas aizsardzības plāniem atbilstoši vietējās pašvaldības teritorijas plānojumam.
+(4) Krasta kāpu aizsargjoslā papildus šā panta pirmajā, otrajā un trešajā daļā minētajam aizliegts:
 1) veikt galveno cirti;
-2) veikt meža zemju transformāciju, izņemot gadījumus, kad to paredz ikreizējs Ministru kabineta rīkojums;
-3) kurt ugunskurus ārpus šim nolūkam iekārtotām vietām un māju pagalmiem.
-(7) Šā panta otrās daļas 1. un 2.punktā minētos darbus var veikt, ja ir saņemts Ietekmes uz vidi novērtējuma valsts biroja pozitīvs atzinums vai izdoti tehniskie noteikumi saskaņā ar likuma "Par ietekmes uz vidi novērtējumu" prasībām un ja attiecīgās darbības paredzētas teritoriju plānojumos.
+2) bez Ministru kabineta ikreizēja rīkojuma veikt meža zemju transformāciju. Meža zemes transformācijas kārtību krasta kāpu aizsargjoslā, kā arī transformācijas pieteikuma iesniegšanas un izskatīšanas kārtību un pieļaujamo meža izciršanas apjomu reglamentē Ministru kabineta noteikumi;
+3) kurt ugunskurus ārpus šim nolūkam iekārtotām vietām un māju pagalmiem;
+4) novietot teltis ārpus šim nolūkam iekārtotām vai norādītām vietām bez saskaņošanas ar zemes īpašnieku vai tiesisko valdītāju.
+(5) Pašvaldības pienākums ir paredzēt teritorijas plānojumā un detālajā plānojumā kājāmgājējiem iespēju piekļūt pludmalei un nodrošināt gājēju celiņu ierīkošanu (pilsētās un ciemos tas veicams, ņemot vērā esošo apbūvi un īpašumu robežas, bet paredzot, ka celiņi nedrīkst atrasties tālāk kā viena kilometra attālumā viens no otra), kā arī paredzēt vietējās pašvaldības teritorijas plānojumā vietas automašīnu (transportlīdzekļu) stāvvietu ierīkošanai. Ja nepieciešams, pašvaldība var noteikt īpašuma aprobežojumu par labu sabiedrības iespējai piekļūt pludmalei atbilstoši vietējās pašvaldības teritorijas plānojuma un detālā plānojuma prasībām arī bez nekustamā īpašuma īpašnieka piekrišanas. Zemes īpašniekiem ir tiesības uz zaudējumu atlīdzību, ja tādi radušies sakarā ar aprobežojuma noteikšanu.
+(6) Īpaši aizsargājamās dabas teritorijās, kā arī kultūras un vēstures pieminekļu teritorijās kājāmgājēju pārvietošanos regulē šo teritoriju aizsardzības un izmantošanas noteikumi.
+(7) Ja ir paredzēts celt valsts nozīmes infrastruktūras un inženierkomunikāciju objektus, kuri nav paredzēti vietējās pašvaldības teritorijas plānojumā, apbūve krasta kāpu aizsargjoslā un pludmalē ir pieļaujama tikai ar Ministru kabineta ikreizēju rīkojumu.
+(8) Jūras aizsargjoslā ierīkotajās peldvietās aizliegts braukt ar motorlaivām un ūdens motocikliem, ja tas nav saistīts ar specializēto dienestu darbību, šo teritoriju apsaimniekošanu vai uzraudzību. Vietējā pašvaldība nosaka speciāli iezīmētas vietas, kurās atļauts braukt ar ūdens motocikliem.

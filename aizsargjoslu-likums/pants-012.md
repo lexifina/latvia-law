@@ -1,8 +1,8 @@
 12.pants. Ekspluatācijas aizsargjoslu uzdevumi un veidi
-(1) Ekspluatācijas aizsargjoslas tiek noteiktas gar transporta, sakaru un citu komunikāciju līnijām, kā arī ap objektiem, kas nodrošina dažādu valsts dienestu darbību. Ekspluatācijas aizsargjoslu galvenais uzdevums ir nodrošināt minēto komunikāciju un objektu efektīvu un drošu ekspluatāciju un attīstības iespējas.
+(1) Ekspluatācijas aizsargjoslas tiek noteiktas gar transporta, telekomunikāciju un citu komunikāciju līnijām, kā arī ap objektiem, kas nodrošina dažādu valsts dienestu darbību. Ekspluatācijas aizsargjoslu galvenais uzdevums ir nodrošināt minēto komunikāciju un objektu efektīvu un drošu ekspluatāciju un attīstības iespējas.
 (2) Ir šādi ekspluatācijas aizsargjoslu veidi:
 1) aizsargjoslas gar ielām, autoceļiem un dzelzceļiem;
-2) aizsargjoslas gar sakaru līnijām;
+2) aizsargjoslas gar telekomunikāciju līnijām;
 3) aizsargjoslas ap valsts meteoroloģisko un hidroloģisko novērojumu stacijām un posteņiem un ap citiem stacionāriem valsts nozīmes monitoringa punktiem un posteņiem;
 4) aizsargjoslas gar elektriskajiem tīkliem;
 5) aizsargjoslas gar siltumtīkliem;

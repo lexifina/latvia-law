@@ -1,6 +1,6 @@
 15.pants. Aizsargjoslas ap valsts meteoroloģisko un hidroloģisko novērojumu stacijām un posteņiem un ap citiem stacionāriem valsts nozīmes monitoringa punktiem un posteņiem
 (1) Aizsargjoslas ap valsts meteoroloģisko un hidroloģisko novērojumu stacijām un posteņiem un ap citiem stacionāriem valsts nozīmes monitoringa punktiem un posteņiem nosaka, lai nodrošinātu novērojumu precizitāti un nepārtrauktību.
-(2) Aizsargjoslas platumu ap valsts meteoroloģisko un hidroloģisko novērojumu stacijām un posteņiem un ap citiem stacionāriem valsts nozīmes monitoringa punktiem (izņemot meža monitoringa punktus) un posteņiem nosaka Vides aizsardzības un reģionālās attīstības ministrijas Valsts hidrometeoroloģijas pārvalde, un tas nedrīkst pārsniegt:
+(2) Aizsargjoslas platumu ap valsts meteoroloģisko un hidroloģisko novērojumu stacijām un posteņiem un ap citiem stacionāriem valsts nozīmes monitoringa punktiem (izņemot meža monitoringa punktus) un posteņiem nosaka Vides ministrijas Latvijas Hidrometeoroloģijas aģentūra, un tas nedrīkst pārsniegt:
 1) ap meteoroloģisko novērojumu staciju un posteņu novērojumu laukumiem - 200 metrus no novērojumu laukuma ārējās robežas;
 2) ap meteoroloģisko novērojumu posteņiem, arī ap stacionāriem valsts nozīmes monitoringa punktiem un posteņiem - 20 metru rādiusā no to centra;
 3) ap meteoroloģiskajām radiolokācijas iekārtām - 300 metru rādiusā no antenas masta centra;
