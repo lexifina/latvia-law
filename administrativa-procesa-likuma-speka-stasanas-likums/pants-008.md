@@ -1,0 +1,4 @@
+8.pants. Administratīvā lieta tiesā
+(1) Administratīvajā lietā, kas pieņemta tiesvedībā saskaņā ar Civilprocesa likuma normām (ievērojot attiecīgās Latvijas Civilprocesa kodeksa normas), ar 2003.gada 1.jūliju piemērojami Administratīvā procesa likuma noteikumi, ievērojot izņēmumus, kas noteikti šajā likumā.
+(2) Ja līdz 2003.gada 1.jūlijam administratīvās lietas izskatīšana pēc būtības nav pabeigta, tiesa vai tiesnesis atsevišķa procesuālā dokumenta veidā pieņem lēmumu izbeigt tiesvedību civilprocesa kārtībā un uz lietas materiālu pamata Administratīvā procesa likumā noteiktajā kārtībā ierosina jaunu administratīvo lietu.
+(3) Šā panta otrajā daļā minētajā gadījumā tiesa vai tiesnesis no jauna ierosinātajā administratīvajā lietā neatkārto tās procesuālās darbības, kuras jau izpildītas, lai administratīvo lietu sagatavotu iztiesāšanai.

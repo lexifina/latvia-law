@@ -1,0 +1,1 @@
+1. Ar Administratīvā procesa likuma spēkā stāšanos spēku zaudē Latvijas Civilprocesa kodeksa divdesmit otrā, divdesmit trešā, divdesmit trešā-A, divdesmit ceturtā, divdesmit ceturtā-A un divdesmit piektā nodaļa.

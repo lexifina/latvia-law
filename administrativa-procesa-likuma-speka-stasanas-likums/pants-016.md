@@ -1,0 +1,2 @@
+16.pants. Noilgums
+Ja 2003.gada 1.jūlijā Civilprocesa likumā vai Civilprocesa kodeksā noteiktais noilguma termiņš nav izbeidzies un Administratīvā procesa likums nosaka īsāku termiņu, piemērojams Administratīvā procesa likumā noteiktais noilguma termiņš, kurš skaitāms no 2003.gada 1.jūlija. Ja šādi aprēķinātais kopējais noilguma termiņš ir garāks par Civilprocesa likumā vai Civilprocesa kodeksā noteikto termiņu, noilguma termiņš izbeidzas tajā dienā, kad tas būtu izbeidzies pēc Civilprocesa likuma vai Civilprocesa kodeksa.

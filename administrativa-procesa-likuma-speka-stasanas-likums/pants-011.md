@@ -1,0 +1,4 @@
+11.pants. Pieteikuma iesniegšanas termiņš
+(1) Ja pirms 2003.gada 1.jūlija izdotā spēkā esošā administratīvajā aktā nav norādes, kur un kādā termiņā to var pārsūdzēt, un tā pārsūdzības termiņš nav izbeidzies, pieteikumu atbilstoši Administratīvā procesa likuma 188.panta pirmās un otrās daļas noteikumiem tiesai var iesniegt viena gada laikā no administratīvā akta spēkā stāšanās dienas.
+(2) Pieteikumu par iestādes faktisko rīcību, par kuru pieteicējam kļuvis zināms pirms 2003.gada 1.jūlija, var iesniegt tiesai Administratīvā procesa likumā noteiktajā termiņā.
+(3) Ja iestāde vai augstāka iestāde nav pieteicējam paziņojusi par lēmumu sakarā ar viņa iesniegumu, kas iesniegts pirms 2003.gada 1.jūlija, pieteikumu tiesai, ja nav izbeidzies pārsūdzības termiņš, var iesniegt viena gada laikā no dienas, kad persona ar iesniegumu griezusies iestādē vai augstākā iestādē.
