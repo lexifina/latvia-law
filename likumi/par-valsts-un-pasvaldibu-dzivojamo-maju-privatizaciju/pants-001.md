@@ -1,6 +1,6 @@
 1.pants. Likumā lietotie termini
 Likumā ir lietoti šādi termini:
-1) daudzdzīvokļu māja - dzīvojamā māja, kurā saskaņā ar mājas inventarizācijas plānu ir vairāk nekā viens dzīvoklis, un mājai funkcionāli piederīgās palīgēkas un būves;
+1) daudzdzīvokļu māja - dzīvojamā māja, kurā saskaņā ar mājas inventarizācijas plānu ir vairāk nekā viens dzīvoklis, mākslinieka darbnīca vai neapdzīvojamā telpa, un mājai funkcionāli piederīgās palīgēkas un būves;
 2) dzīvoklis - daudzdzīvokļu mājā esoša no pārējās mājas daļas nošķirta dzīvošanai paredzēta telpa vai telpu komplekss, kas kā dzīvoklis ir iezīmēts mājas inventarizācijas plānā un kam ir piederīgas tā sienas, iekšējās starpsienas, griesti, grīdas, to apdare, logi, durvis, caurules, dūmvadi, vadu daļas un citu ar mājas ekspluatāciju funkcionāli nedalāmi saistītu elementu daļas, visi uzlabojumi, kas atrodas telpas vai telpu kompleksa robežās, kā arī ārpus dzīvokļa esošās un ar to funkcionāli saistītās palīgtelpas un palīgēkas (pagrabs, tualete, šķūnītis, mākslinieka darbnīca);
 3) īrnieka ģimenes locekļi - īrnieka īrētajā dzīvojamā telpā likuma "Par dzīvojamo telpu īri" 9. un 10.pantā noteiktajā kārtībā iemitinātās personas;
 4) kopējais dzīvoklis - dzīvoklis, kurā esošās dzīvojamās telpas lieto uz atsevišķi noslēgtu dzīvojamās telpas īres līgumu pamata un kura palīgtelpas nodotas kopējai lietošanai;

@@ -1,3 +1,2 @@
 XI nodaļa
-Privatizētā objekta īpašnieka
-tiesības, pienākumi un atbildība
+Privatizētās dzīvojamās mājas pārvaldīšana

@@ -9,6 +9,6 @@
 1) celtniecības izmaksas (kapitālremonta, pārcenojuma, amortizācijas un infrastruktūras izmaksas);
 2) piemaksa vai atlaide par dzīvojamās mājas atrašanās vietu;
 3) piemaksa vai atlaide par dzīvokļa, neapdzīvojamās telpas un mākslinieka darbnīcas izvietojumu attiecīgajā dzīvojamā mājā un citiem nemantiskiem faktoriem.
-(4) Dzīvokļa un mākslinieka darbnīcas (izņemot neapdzīvojamās telpas) izsoles sākotnējā cena ir ekvivalenta attiecīgā objekta vērtībai, kas noteikta, ievērojot šā panta otrās vai trešās daļas noteikumus.
-(5) Neapdzīvojamās telpas (izņemot mākslinieka darbnīcu) izsoles sākotnējo cenu nosakot, tās viena kvadrātmetra vērtība nedrīkst būt zemāka par divkāršu viena kvadrātmetra vidējo vērtību attiecīgajā dzīvojamā mājā.
+(4) Dzīvokļa un mākslinieka darbnīcas (izņemot neapdzīvojamās telpas) izsoles sākotnējā cena ir ekvivalenta attiecīgā objekta vērtībai, kas noteikta, ievērojot šā panta otrās vai trešās daļas noteikumus. Privatizācijas objekta atkārtotas izsoles gadījumā privatizācijas komisija ir tiesīga pieņemt lēmumu par izsoles sākotnējās cenas samazināšanu.
+(5) Neapdzīvojamās telpas (izņemot mākslinieka darbnīcu) izsoles sākotnējo cenu nosakot, tās viena kvadrātmetra vērtība nedrīkst būt zemāka par divkāršu viena kvadrātmetra vidējo vērtību attiecīgajā dzīvojamā mājā. Privatizācijas objekta atkārtotas izsoles gadījumā privatizācijas komisija ir tiesīga pieņemt lēmumu par izsoles sākotnējās cenas samazināšanu.
 (6) Maksa par valsts vai pašvaldības īpašumā esoša zemes gabala nomas tiesībām uz 99 gadiem ir ekvivalenta šā paša zemes gabala pirkuma maksai, iegādājoties to īpašumā.

@@ -1,7 +1,7 @@
 18. pants. Secība, kādā tiek privatizēta neapdzīvojamā telpa
 (1) Ikvienu neapdzīvojamo telpu, par kuras lietošanu noslēgts neapdzīvojamās telpas nomas līgums (turpmāk - iznomātā neapdzīvojamā telpa), piedāvā privatizēt šīs telpas nomniekam.
 (2) Neapdzīvojamās telpas nomnieks var privatizēt iznomāto neapdzīvojamo telpu, ja:
-1) privatizācijas pieteikuma iesniegšanas brīdī ir spēkā līdz 2000.gada 1.janvārim likumā noteiktajā kārtībā noslēgts attiecīgās neapdzīvojamās telpas nomas līgums;
+1) privatizācijas pieteikuma iesniegšanas brīdī ir spēkā līdz 2000.gada 1.novembrim likumā noteiktajā kārtībā noslēgts attiecīgās neapdzīvojamās telpas nomas līgums;
 2) privatizācijas pieteikuma iesniegšanas brīdī pilnībā nomaksāta neapdzīvojamās telpas nomas maksa un maksa par komunālajiem pakalpojumiem;
 3) pienācīgi izpildītas citas neapdzīvojamās telpas nomas līgumā paredzētās saistības;
 4) nomaksāti nodokļi.
