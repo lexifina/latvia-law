@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums \"Par sabiedrisko pakalpojumu regulatoriem\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "394/395",
+  "official_journal_page": null,
+  "official_journal_date": "2000-11-07",
+  "entry_into_force": "2001-06-01",
+  "notification_date": "2014-10-24",
+  "commission_reference": "MNE(2014)55989",
+  "nim_celex": "72009L0140LVA_220639",
+  "nim_id": "220639",
+  "transposes_celex": [
+    "32009L0140"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/058c84ba-8189-47d9-937e-508c910bf62e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
