@@ -1,0 +1,1 @@
+1.pants. 1998.gada 26.februārī Kijevā parakstītais Latvijas Republikas valdības un Ukrainas Ministru kabineta nolīgums par tirdzniecības kuģošanu (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
