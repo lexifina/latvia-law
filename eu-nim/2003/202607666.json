@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2003. gada 23. septembra noteikumi Nr. 533 \"Noteikumi par intelektuālā darba novērtēšanas un amatu kvalifikācijas kategoriju noteikšanas pamatmetodiku no valsts budžeta finansējamo institūciju darbiniekiem\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "132",
+  "official_journal_page": null,
+  "official_journal_date": "2003-09-25",
+  "entry_into_force": "2003-09-26",
+  "notification_date": "2026-10-05",
+  "commission_reference": "MNE(2026)07666",
+  "nim_celex": "72023L0970LVA_202607666",
+  "nim_id": "202607666",
+  "transposes_celex": [
+    "32023L0970"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f61c6e39-c910-4581-b1fb-f1b849e7b6a2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
