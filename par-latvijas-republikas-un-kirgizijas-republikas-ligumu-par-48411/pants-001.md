@@ -1,0 +1,1 @@
+1.pants. 1997.gada 10.aprīlī Biškekā parakstītais Latvijas Republikas un Kirgīzijas Republikas līgums par tiesisko palīdzību un tiesiskajām attiecībām civilajās, ģimenes un krimināllietās (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
