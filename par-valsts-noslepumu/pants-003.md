@@ -1,5 +1,5 @@
 3.pants. Valsts noslēpuma slepenības pakāpes
-(1) Informāciju, kas ir valsts noslēpums, pēc svarīguma klasificē sevišķi slepenā, slepenā un konfidenciālā informācijā.
+(1) Informāciju, kas ir valsts noslēpums, pēc svarīguma klasificē sevišķi slepenā, slepenā, konfidenciālā un ierobežotas lietošanas informācijā.
 (2) Par sevišķi slepenu atzīstama tāda informācija, kura attiecas uz valsts militāro, politisko, ekonomisko, zinātnisko, tehnisko, izlūkošanas (pretizlūkošanas) un operatīvo darbību un kuras nozaudēšana vai nelikumīga izpaušana var izraisīt:
 1) bruņotu agresiju pret Latvijas Republiku vai tās sabiedrotajiem vai šādas agresijas draudus, valstiskās suverenitātes reālu apdraudējumu;
 2) diplomātisko attiecību pārtraukšanu vai Latvijas Republikas izslēgšanu no starptautiskajām vai starpvalstu organizācijām;
@@ -15,3 +15,4 @@
 5) svarīgu operatīvās darbības pasākumu plānu vai šajā darbībā iesaistīto personu identitātes atklāšanu;
 6) ar valsts aizsardzību un drošību vai noteiktas tautsaimniecības nozares attīstību saistīto zinātnisko vai tehnoloģisko atklājumu izpaušanu.
 (4) Par konfidenciālu atzīstama tāda informācija, kura attiecas uz militāro, politisko, ekonomisko, zinātnisko, tehnisko, izlūkošanas (pretizlūkošanas) un operatīvo darbību un kuras nozaudēšana vai nelikumīga izpaušana var apdraudēt valsts intereses, nodarot kaitējumu konkrētai valsts institūcijai.
+(5) Par ierobežotas lietošanas informāciju atzīstama tāda saskaņā ar starptautiskajiem līgumiem radīta vai saņemta Latvijas Republikā aizsargājama informācija, kura attiecas uz militāro, politisko, ekonomisko, zinātnisko, tehnisko, izlūkošanas (pretizlūkošanas) un operatīvo darbību un kuras nozaudēšana vai nelikumīga izpaušana var apgrūtināt konkrētas valsts institūcijas darbību.
