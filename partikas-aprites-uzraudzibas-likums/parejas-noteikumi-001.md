@@ -1,0 +1,1 @@
+1. Pārtikas uzņēmumu atzīšanu pilnvarotā kompetentā institūcijā un reģistrāciju speciālajā pārtikas uzņēmumu reģistrā uzsākt pēc Ministru kabineta noteikumu pieņemšanas par pārtikas uzņēmumu atzīšanas un reģistrācijas kārtību šajos noteikumos paredzētajā termiņā.

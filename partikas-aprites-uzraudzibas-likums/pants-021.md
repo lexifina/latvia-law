@@ -1,0 +1,1 @@
+21.pants. Pārtikas aprites valsts uzraudzību un kontroli nodrošina valsts uzraudzības un kontroles institūcijas un normatīvajos aktos noteiktajā kārtībā pilnvarotas kompetentas institūcijas atbilstoši Ministru kabineta noteiktajam pilnvaru sadalījumam starp ministrijām.

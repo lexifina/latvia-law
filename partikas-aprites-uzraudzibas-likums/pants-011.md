@@ -1,0 +1,1 @@
+11.pants. Dzeramajam ūdenim, kā arī ūdenim, kuru izmanto pārtikas apritē vai ar pārtiku saistītā inventāra un iekārtu mazgāšanai, kā arī ledum, ko izmanto tiešā dzesēšanā, jāatbilst spēkā esošo normatīvtehnisko aktu prasībām, izņemot svaigu zivju apstrādi atklātā jūrā, kur pārtikas aprites tehnoloģiskajos procesos var izmantot arī attīrītu jūras ūdeni.

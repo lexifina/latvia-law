@@ -1,0 +1,1 @@
+6.pants. Pilnvarotas kompetentas institūcijas atteikumu atzīt pārtikas uzņēmumu var pārsūdzēt Latvijas Pārtikas centrā. Ja Latvijas Pārtikas centra lēmums neapmierina, to ir tiesības pārsūdzēt Pārtikas padomē, bet, ja neapmierina arī Pārtikas padomes lēmums, to var pārsūdzēt tiesā likumos noteiktajā kārtībā.

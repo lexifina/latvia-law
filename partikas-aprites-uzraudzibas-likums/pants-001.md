@@ -1,0 +1,12 @@
+1.pants. Likumā ir lietoti šādi termini:
+1) higiēnas prasības - prasību kopums, kas raksturo visus apstākļus un pasākumus, kuri nepieciešami, lai pārtikas aprites posmos tiktu nodrošināts pārtikas nekaitīgums cilvēku uzturā;
+2) inspicēšana - pilnvarotas kompetentas institūcijas darbības, kas tiek veiktas, lai pārbaudītu pārtikas produkta izstrādi projekta stadijā, pašu pārtikas produktu, pārtikas apriti un ar to saistītos pakalpojumus un novērtētu to atbilstību konkrētām normatīvo aktu prasībām;
+3) kvalitāte - īpašību kopums, kas nodrošina pārtikas atbilstību patērētāja vajadzībām un konkrētām normatīvo aktu prasībām;
+4) nekaitīga pārtika - pārtika, kas normālos vai paredzamos lietošanas apstākļos nenodara kaitējumu cilvēka veselībai, dzīvībai vai videi;
+5) pārtika - viss, kas paredzēts cilvēka patēriņam uzturā vai uztura pagatavošanai, arī izejvielas, jēlprodukti, pusfabrikāti, dzeramais ūdens, pārtikas piedevas un garšvielas, košļājamā gumija, alkoholiskie un citi dzērieni;
+6) pārtikas aprite - visi posmi, ko iziet pārtika līdz patērēšanai (ieguve, piegāde, apstrāde, sagatavošana pārstrādei, pārstrāde, ražošana, iesaiņošana, uzglabāšana, pārkraušana, transportēšana, importēšana, eksportēšana, izplatīšana, ēdiena pagatavošana un citi posmi);
+7) pārtikas izplatīšana - pārtikas tirdzniecība, piedāvāšana, sadale, nodošana saskaņā ar līgumu vai izdalīšana bez maksas;
+8) pārtikas piedeva - viela, kuru neatkarīgi no tās uzturvērtības parasti nelieto uzturā atsevišķi kā pārtiku vai kā raksturīgu uztura sastāvdaļu, bet apzināti pievieno pārtikai apstrādes, pārstrādes, ražošanas, iesaiņošanas, uzglabāšanas vai transportēšanas procesā, un tad minētā viela vai tās blakusprodukti kļūst par pārtikas produktu sastāvdaļu;
+9) pārtikas uzņēmums - jebkurš uzņēmums (uzņēmējsabiedrība), kas iesaistīts kādā no pārtikas aprites posmiem;
+10) patērētājs - šā likuma izpratnē: jebkura persona, kas lieto pārtiku uzturam vai ēdiena pagatavošanai;
+11) piesārņojums - jebkura ķīmiska vai bioloģiska viela, fiziski piemaisījumi (izņemot svešķermeņus - tādus kā kukaiņu daļas, dzīvnieku mati u.c. -, pārtikas piedevas un apstrādes palīglīdzekļus), kuri nokļuvuši pārtikā ražošanas gaitā vai citos pārtikas aprites posmos veikto darbību, arī augkopībā un lopkopībā veikto darbību, un vides piesārņojuma rezultātā un kuru klātbūtne pārtikā var nodarīt kaitējumu cilvēka veselībai, padarīt pārtiku nederīgu cilvēka patēriņam vai citādi izmainīt pārtikas dabu vai sastāvu.

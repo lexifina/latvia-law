@@ -1,0 +1,1 @@
+19.pants. Latvijas Pārtikas centrs ir valsts pārvaldes institūcija, ko vada direktors, kuru pēc labklājības ministra ieteikuma, kas saskaņots ar Pārtikas padomi, ieceļ amatā un atbrīvo no amata Ministru kabinets.

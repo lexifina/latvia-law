@@ -1,0 +1,9 @@
+22.pants. (1) Pilnvarotām kompetentām institūcijām ir tiesības veikt pārtikas aprites un pārtikas uzņēmumu kontroli un atbilstības novērtēšanu un apliecināt, ka pārtikas uzņēmums darbojas atbilstoši spēkā esošajiem normatīvajiem aktiem un labas ražošanas prakses noteikumiem.
+(2) Pārtikas aprites valsts kontroli un uzraudzību veicošo institūciju inspektoriem savas kompetences ietvaros, uzrādot dienesta apliecību, ir tiesības:
+1) bez iepriekšēja brīdinājuma apmeklēt jebkuru pārtikas uzņēmumu, pieprasīt dokumentus un informāciju, iepazīties ar materiāliem, ņemt dokumentu kopijas un izrakstus no dokumentiem, kā arī veikt nepieciešamos pasākumus, lai nodrošinātu pārtikas aprites valsts uzraudzību un kontroli;
+2) saskaņā ar normatīvajiem aktiem ņemt pārtikas paraugus un nosūtīt tos pārbaudei uz pilnvarotu kompetentu laboratoriju atbilstības novērtēšanai. Ja ir konstatēta pārtikas neatbilstība obligātajām nekaitīguma un higiēnas prasībām, pārtikas uzņēmums sedz visus ar inspicēšanu saistītos izdevumus;
+3) pārbaudīt personāla higiēnas prasību ievērošanu un mērinstrumentu uzrādīto lielumu nolasīšanu pārtikas uzņēmumā, kā arī šā likuma 23.pantā minētos objektus;
+4) saskaņā ar spēkā esošajiem normatīvajiem aktiem līdz apstākļu pilnīgai noskaidrošanai apturēt pārtikas uzņēmuma darbību vai pārtikas izplatīšanu, atzīt pārtiku par izplatīšanai nederīgu un izņemt no apgrozības, ja radušās pamatotas aizdomas par tās kaitīgumu cilvēka veselībai, dzīvībai vai videi;
+5) ja nepieciešams, sagatavot tiesībaizsardzības iestādēm materiālus vainīgo personu saukšanai pie kriminālatbildības;
+6) ja nepieciešams, savu uzdevumu veikšanas nodrošināšanai pieaicināt tiesībaizsardzības iestāžu darbiniekus.
+(3) Pilnvarotu kompetentu institūciju amatpersonām normatīvajos aktos noteiktajā kārtībā ir tiesības sodīt vainīgās personas par pārkāpumiem, konfiscēt pārtiku, ja tā ir kaitīga cilvēka veselībai, dzīvībai vai videi vai tiek nelegāli izplatīta.
