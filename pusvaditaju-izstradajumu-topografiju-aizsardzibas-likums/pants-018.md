@@ -1,0 +1,4 @@
+18.pants. Izņēmuma tiesību pārkāpuma jēdziens
+(1) Par izņēmuma tiesību pārkāpumu atzīstama jebkura šā likuma 11.panta otrajā daļā minētā darbība, ja tā notikusi topogrāfijas reģistrācijas spēkā esamības laikā un izdarīta bez topogrāfijas īpašnieka atļaujas vai cita likumīga pamata. Darbība atzīstama par pārkāpumu, ja tās objekts ir topogrāfija kopumā vai būtiska tās daļa.
+(2) Par izņēmuma tiesību tīšu pārkāpumu atzīstama darbība, kas izdarīta pēc tam, kad topogrāfijas īpašnieks vai izņēmuma licences turētājs pārkāpēju informējis par attiecīga pieteikuma iesniegšanu vai topogrāfijas reģistrāciju, kā arī gadījumos, kad uz strīda objekta ir brīdinājuma marķējums (17.panta pirmā un ceturtā daļa).
+(3) Jebkura persona uzskatāma par pārkāpēju un ir atbildīga par izņēmuma tiesību pārkāpumu arī tad, ja šā likuma 11.panta otrajā daļā norādītās darbības izdarītas ar trešo personu starpniecību.

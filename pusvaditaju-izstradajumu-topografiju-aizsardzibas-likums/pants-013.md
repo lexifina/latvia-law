@@ -1,0 +1,9 @@
+13.pants. Izņēmuma tiesību ierobežojumi
+(1) Par šā likuma 11.panta pirmajā un otrajā daļā noteikto topogrāfijas īpašnieka izņēmuma tiesību pārkāpumu nav uzskatāma topogrāfijas vai pusvadītāju izstrādājumā realizētas topogrāfijas izmantošana:
+1) privātām vajadzībām nekomerciālos nolūkos;
+2) zinātniskam eksperimentam vai pētniecības nolūkos;
+3) apmācības nolūkos;
+4) topogrāfijas vai ar to saistītu (tajā realizētu) principu, metožu, sistēmu, tehnoloģisko paņēmienu analīzei vai novērtējumam.
+(2) Šā likuma 11.panta pirmās un otrās daļas noteikumi par topogrāfijas īpašnieka izņēmuma tiesībām neattiecas arī uz jebkuru uzlabotu topogrāfiju, kas izveidota, veicot citai personai piederošas jau zināmas topogrāfijas zinātnisko izpēti, analīzi vai novērtējot to. Jaunizveidotā topogrāfija reģistrējama un aizsargājama, ja tās pazīmes kopumā atbilst šā likuma 2.panta noteikumiem.
+(3) Topogrāfijas īpašnieks nevar aizliegt citai personai komerciāli izmantot viņam piederošu topogrāfiju vai pusvadītāju izstrādājumu, kurā tā ir realizēta, šīs personas ražotajos izstrādājumos, ja pats topogrāfijas īpašnieks vai cita persona ar viņa piekrišanu ir iekļāvusi minēto topogrāfiju vai attiecīgo pusvadītāju izstrādājumu saimnieciskajā apritē Latvijā vai jebkurā ārvalstī.
+(4) Topogrāfijas vai tāda pusvadītāju izstrādājuma, kurā šī topogrāfija ir realizēta, komerciāla izmantošana nav uzskatāma par izņēmuma tiesību pārkāpumu, ja persona, kas to patstāvīgi un godprātīgi izmanto (turpmāk - izmantotājs), vai šīs personas tiesību pārņēmējs nezināja vai nevarēja zināt par izņēmuma tiesību esamību. Šajā gadījumā topogrāfijas vai attiecīgā pusvadītāju izstrādājuma izmantošanu drīkst turpināt arī pēc tam, kad izmantotājam kļuvis zināms vai būtu bijis jāzina par izņēmuma tiesību esamību, taču ar noteikumu, ka ir saņemta topogrāfijas īpašnieka piekrišana (uz licences līguma pamata) un viņam samaksāta taisnīga atlīdzība. Topogrāfijas īpašnieka un izmantotāja strīdus izšķirtiesa.

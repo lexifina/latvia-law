@@ -1,0 +1,8 @@
+4.pants. Topogrāfijas reģistrācijas pieteikuma iesniegšana
+(1) Topogrāfijas reģistrācijas pieteikumu (turpmāk - pieteikums) Patentu valdei var iesniegt jebkura šā likuma 3.pantā minētā fiziskā vai juridiskā persona (turpmāk - pieteicējs), ja:
+1) tās pastāvīgā dzīvesvieta ir Latvija vai tai pieder Latvijas teritorijā esošs uzņēmums;
+2) tās pastāvīgā dzīvesvieta vai tās uzņēmuma atrašanās vieta ir valstī, ar kuru Latvijas Republika noslēgusi divpusēju vai daudzpusēju līgumu par pusvadītāju izstrādājumu topogrāfijas aizsardzību;
+3) tās pastāvīgā dzīvesvieta vai tās uzņēmuma atrašanās vieta ir valstī, kuras fiziskajām un juridiskajām personām Latvijas Republika uz savstarpējas vienošanās pamata piešķir nacionālo režīmu un kuras likumi nodrošina Latvijas Republikas fiziskajām un juridiskajām personām pusvadītāju izstrādājumu topogrāfijas aizsardzību, kas pēc būtības atbilst šā likuma noteikumiem.
+(2) Pieteicējs ir tiesīgs pieprasīt topogrāfijas reģistrāciju, iekams nav pierādīts, ka viņam uz to nav tiesību.
+(3) Pieteikumu var iesniegt pirms topogrāfijas pirmās komerciālās izmantošanas vai divu gadu laikā no dienas, kad Latvijā vai jebkurā citā valstī uzsākta topogrāfijas pirmā komerciālā izmantošana. Ja pieteikums nav iesniegts divu gadu laikā no topogrāfijas pirmās komerciālās izmantošanas dienas, tiek uzskatīts, ka šajā laika periodā šā likuma 3.pantā minētās izņēmuma tiesības uz topogrāfiju nav stājušās spēkā un ka tās nevar iegūt.
+(4) Ja topogrāfija komerciāli nav izmantota, pieteicējam ir tiesības iesniegt Patentu valdei pieteikumu 15 gadu laikā, termiņu skaitot no tā gada, kas seko gadam, kurā izveidota topogrāfija.
