@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2003.gada 1.jūlija noteikumi Nr.359 \"Noteikumi par drošības un veselības aizsardzības prasībām un medicīnisko aprūpi uz kuģiem\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "100",
+  "official_journal_page": null,
+  "official_journal_date": "2003-07-04",
+  "entry_into_force": "2003-07-05",
+  "notification_date": "2019-11-12",
+  "commission_reference": "MNE(2019)56166",
+  "nim_celex": "72017L0159LVA_278280",
+  "nim_id": "278280",
+  "transposes_celex": [
+    "32017L0159"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a138f27c-3cef-4b87-a1f7-f76d2ef35129",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
