@@ -1,0 +1,1 @@
+3. Ministru kabinets līdz 2004.gada 31.martam izstrādā un iesniedz Saeimai likumprojektu par zemes īpašnieku tiesībām uz kompensāciju par saimnieciskās darbības ierobežojumiem aizsargājamās teritorijās.

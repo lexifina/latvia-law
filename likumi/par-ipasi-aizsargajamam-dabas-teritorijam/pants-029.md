@@ -1,3 +1,3 @@
-29. pants. Atlīdzība sakarā ar saimnieciskās darbības ierobežojumiem aizsargājamās teritorijās
-Zemes īpašniekiem un lietotājiem ir tiesības uz nodokļu atvieglojumiem vai citādu likumā noteikto atlīdzību, ja aizsargājamās teritorijas aizsardzības un izmantošanas noteikumu ievērošana rada viņiem zaudējumus.
-Gadījumos, kad pēc zemes īpašuma tiesību atjaunošanas zeme tiek iekļauta dabas rezervātos, dabas liegumos vai citu aizsargājamo teritoriju dabas rezervāta vai dabas lieguma zonās, zemes īpašniekam, ja jaunie īpašuma tiesību aprobežojumi viņu neapmierina, ir tiesības attiecīgo zemi apmainīt pret līdzvērtīgu valsts vai pašvaldību zemi.
+29. pants. Nodokļu atvieglojumi un kompensācija par saimnieciskās darbības ierobežojumiem aizsargājamās teritorijās
+(1) Zemes īpašniekiem un lietotājiem aizsargājamās teritorijās ir tiesības uz normatīvajos aktos noteiktajiem nodokļu atvieglojumiem.
+(2) Zemes īpašniekiem ir tiesības arī uz likumā noteikto kompensāciju par saimnieciskās darbības ierobežojumiem aizsargājamās teritorijās, tai skaitā likumā noteiktajos gadījumos - tiesības saņemt atlīdzību vai prasīt viņiem piederošās zemes apmaiņu pret līdzvērtīgu valsts vai pašvaldības zemi.

@@ -1,3 +1,3 @@
-15. pants. Aizsargājamo teritoriju aizsardzības un izmantošanas noteikumi
-Katrai aizsargājamai teritorijai izstrādā aizsardzības un izmantošanas noteikumus, lai nodrošinātu šīs teritorijas aizsardzību un nepieļautu tās vērtības samazināšanos. Aizsargājamo teritoriju aizsardzības un izmantošanas noteikumi nosaka nepieciešamo, pieļaujamo un aizliegto darbību šajās teritorijās.
-Ir vispārējie aizsargājamo teritoriju aizsardzības un izmantošanas noteikumi un aizsargājamo teritoriju dabas aizsardzības plāni.
+15.pants. Aizsargājamo teritoriju aizsardzības un izmantošanas noteikumi
+Aizsargājamām teritorijām izstrādā aizsardzības un izmantošanas noteikumus, lai nodrošinātu šo teritoriju aizsardzību un tajās esošo dabas vērtību saglabāšanu.
+Ir aizsargājamo teritoriju vispārējie aizsardzības un izmantošanas noteikumi, individuālie aizsardzības un izmantošanas noteikumi un aizsargājamo teritoriju dabas aizsardzības plāni.
