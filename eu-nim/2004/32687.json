@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Izmēģinājumiem vai zinātniskiem mērķiem un šķirņu selekcijai paredzēto kaitīgo organismu, augu, augu produktu un ar tiem saskarē nonākušo priekšmetu ievešanas un pārvietošanas kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "156",
+  "official_journal_page": null,
+  "official_journal_date": "2004-10-01",
+  "entry_into_force": null,
+  "notification_date": "2004-11-13",
+  "commission_reference": "MNE(2004)52687",
+  "nim_celex": "71995L0044LVA_32687",
+  "nim_id": "32687",
+  "transposes_celex": [
+    "31995L0044",
+    "31997L0046"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6dde44ec-589d-4c0b-8649-0c7d637ddd0c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
