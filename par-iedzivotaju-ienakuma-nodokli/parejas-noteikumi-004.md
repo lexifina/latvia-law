@@ -1,0 +1,4 @@
+4. Persona, kura, pamatojoties uz likuma "Par valsts pensijām" pārejas noteikumu 16.punkta 12.apakšpunktu, ir iesniegusi Valsts sociālās apdrošināšanas aģentūrai iesniegumu, kurā lūdz piešķirt pensiju no jauna, un kurai iepriekš saņemtā pensija ir jāatmaksā valsts pensiju speciālajā budžetā, iepriekš samaksātā nodokļa apmēru par 1997.-1999.gadu koriģē rezumējošā kārtībā, iesniedzot gada ienākumu deklarāciju. Iepriekš samaksātā nodokļa pārrēķinu veic šādā kārtībā:
+1) par nodokli no 1997.gada ienākumiem - iesniedzot vai koriģējot 1997.gada ienākumu deklarāciju no 2000.gada 1.janvāra līdz 2000.gada 1.aprīlim;
+2) par nodokli no 1998.gada ienākumiem - iesniedzot vai koriģējot 1998.gada ienākumu deklarāciju no 2001.gada 1.janvāra līdz 2001.gada 1.aprīlim;
+3) par nodokli no 1999.gada ienākumiem - iesniedzot vai koriģējot 1999.gada ienākumu deklarāciju no 2002.gada 1.janvāra līdz 2002.gada 1.aprīlim.

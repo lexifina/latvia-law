@@ -1,0 +1,1 @@
+5. Grozījumi likuma 9.panta pirmās daļas 19.punktā attiecībā uz ienākumu aplikšanu ar nodokli no to akciju un citu vērtspapīru pārdošanas, kas ir bijuši personas īpašumā mazāk par 12 mēnešiem, stājas spēkā 2001.gada 1.janvārī.
