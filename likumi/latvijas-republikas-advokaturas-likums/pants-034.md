@@ -1,10 +1,10 @@
 34. Latvijas Zvērinātu advokātu padome:
 1) lemj par uzņemšanu un ieskaitīšanu zvērinātu advokātu un zvērinātu advokātu palīgu skaitā un par izslēgšanu, atstādināšanu vai atskaitīšanu no zvērinātu advokātu un zvērinātu advokātu palīgu skaita;
-2) ved zvērinātu advokātu un zvērinātu advokātu palīgu sarakstus;
+2) ved zvērinātu advokātu un zvērinātu advokātu palīgu sarakstus un nodrošina šo sarakstu publisku pieejamību;
 3) pārzina Latvijas Zvērinātu advokātu kolēģijas organizācijas lietas;
 4) uzrauga zvērinātu advokātu un zvērinātu advokātu palīgu darbību, izskata par viņiem iesniegtās sūdzības un ziņojumus, ka arī uzliek disciplinārsodus;
 5) pārzina zvērinātu advokātu palīgu sagatavošanu;
-6) nosaka zvērinātu advokātu skaitu, kāds vajadzīgs, lai tiesu un pirmstiesas izmeklēšanas iestāžu atrašanās vietas būtu pieejama pietiekama juridiskā palīdzība;
+6) (izslēgts ar 19.02.2004. likumu);
 7) apstiprina tiesas rajonā praktizējošo zvērinātu advokātu vecāko;
 8) izdod zvērinātu advokātu palīgiem apliecības, uz kuru pamata viņiem ir tiesība vest lietas apliecībās norādītajās tiesas un pirmstiesas izmeklēšanas iestādēs;
 9) uzdod zvērinātiem advokātiem un zvērinātu advokātu palīgiem tiesās un pirmstiesas izmeklēšanas iestādēs pēc nozīmējuma vest krimināllietas un to personu lietas, kuras likumā noteiktajā kārtībā atzītas par trūcīgām (maznodrošinātām), kā arī par atlīdzību vest tādu personu lietas, kas dibinātu iemeslu dēļ nevar atrast advokātu savas lietas vešanai;

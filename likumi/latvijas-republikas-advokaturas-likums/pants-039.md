@@ -1,2 +1,2 @@
-39. Personai, kas vēlas iestāties zvērinātu advokātu skaitā, jāiesniedz Latvijas Zvērinātu advokātu padomei iesniegums un attiecīgi dokumenti, apliecinot iesniegumā savu atbilstību šā likuma 14. panta prasībām un to, ka tās uzņemšanai nav neviena no 15. panta 1.-8. punktā minētajiem šķēršļiem.
-Iesniedzējam Latvijas Zvērinātu advokātu padomes noteiktajā kārtībā jāuzrāda atsauksmes par savu profesionālo darbību un morālajām īpašībām, kā arī jākārto eksāmens.
+39. Persona, kura vēlas iestāties zvērinātu advokātu skaitā, iesniedz Latvijas Zvērinātu advokātu padomei iesniegumu un attiecīgus dokumentus.
+Iesniegumā pretendents apliecina savu atbilstību šā likuma 14.panta pirmās daļas 1.-5.punkta prasībām un to, ka viņa uzņemšanai nav 15.panta 1.-7.punktā minēto šķēršļu.

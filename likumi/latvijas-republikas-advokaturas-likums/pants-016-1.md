@@ -1,0 +1,1 @@
+16.¹ Latvijas Zvērinātu advokātu padome var apturēt zvērināta advokāta darbību uz laiku, kamēr viņš strādā vēlētā institūcijā, valsts vai pašvaldības institūcijā, kā arī uz mācību vai ilgstošas slimības laiku.

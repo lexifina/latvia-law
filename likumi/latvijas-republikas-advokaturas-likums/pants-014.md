@@ -1,11 +1,13 @@
-14. Par zvērinātiem advokātiem var uzņemt personas, kas:
-1) ir Latvijas Republikas pilsoņi;
-2) sasnieguši divdesmit piecu gadu vecumu;
-3) ieguvušas augstāko juridisko izglītību;
+14. Par zvērinātiem advokātiem var uzņemt personas, kuras:
+1) ir Latvijas pilsoņi;
+2) sasniegušas divdesmit piecu gadu vecumu;
+3) saņēmušas valsts atzītu otrā līmeņa augstākās izglītības diplomu tiesību zinātnēs un ieguvušas jurista kvalifikāciju;
 4) prot valsts valodu;
-5) vismaz piecus gadus Latvijā bijušas:
-a) par tiesnešiem, izmeklētājiem, prokuroriem vai citos tiesu sistēmas amatos, kuros tās ieguvušas praktiskās iemaņas juridisko zināšanu izmantošanā; vai
-b) Latvijas Universitātes Juridiskajā fakultātē par mācībspēkiem kādā no tiesību zinātņu priekšmetiem; vai
-c) valsts un pašvaldību institūcijās, kā arī citās organizācijās un iestādēs, uzņēmējsabiedrībās (uzņēmumos) par juriskonsultiem, ja tās ieguvušas praktiskās iemaņas juridisko zināšanu izmantošanā un vedušas pietiekamu skaitu lietu tiesās; vai
-d) par zvērinātu advokātu palīgiem, ja tās vedušas pietiekamu skaitu lietu tiesās un izpildījušas Latvijas Zvērinātu advokātu padomes uzdevumus;
-6) pierādījušas savas zināšanas un spējas Latvijas Zvērinātu advokātu padomes noteiktajā eksāmenā.
+5) ieguvušas darba pieredzi, strādājot kādā no šādiem amatiem:
+a) tiesneša amatā,
+b) vismaz divus gadus - prokurora, zvērināta tiesu izpildītāja vai zvērināta notāra amatā,
+c) vismaz trīs gadus par advokāta palīgu,
+d) vismaz trīs gadus - augstskolas tiesību zinātņu specialitātes akadēmiskā personāla amatā,
+e) vismaz piecus gadus - citā juridiskās specialitātes amatā;
+6) nokārtojušas advokāta eksāmenu.
+No advokāta eksāmena kārtošanas ir atbrīvoti tiesību zinātņu doktori.

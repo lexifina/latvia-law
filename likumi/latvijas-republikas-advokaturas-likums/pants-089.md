@@ -1,1 +1,1 @@
-89. Zvērinātu advokātu palīgu skaitā uzņem saskaņā ar Šā likuma 39.-43. panta noteikumiem bez eksāmeniem.
+89. Zvērināta advokāta palīga pretendents iesniedz Latvijas Zvērinātu advokātu padomei šā likuma 39.pantā minētos dokumentus. Ja pretendents atbilst šā likuma prasībām, Latvijas Zvērinātu advokātu padome pieņem lēmumu par viņa uzņemšanu zvērinātu advokātu palīgu skaitā.
