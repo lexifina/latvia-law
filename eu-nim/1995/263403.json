@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Autopārvadājumu likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "138 (421)",
+  "official_journal_page": null,
+  "official_journal_date": "1995-09-12",
+  "entry_into_force": "1995-09-26",
+  "notification_date": "2018-09-21",
+  "commission_reference": "MNE(2018)55226",
+  "nim_celex": "72015L0719LVA_263403",
+  "nim_id": "263403",
+  "transposes_celex": [
+    "32015L0719"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8fe7c0aa-4294-41b8-a58f-d3c1dfda7ca2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
