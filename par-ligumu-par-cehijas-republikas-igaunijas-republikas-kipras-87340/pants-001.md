@@ -1,0 +1,1 @@
+1.pants. 2003.gada 14.oktobrī Luksemburgā parakstītais Līgums par Čehijas Republikas, Igaunijas Republikas, Kipras Republikas, Latvijas Republikas, Lietuvas Republikas, Ungārijas Republikas, Maltas Republikas, Polijas Republikas, Slovēnijas Republikas un Slovākijas Republikas dalību Eiropas Ekonomikas zonā (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
