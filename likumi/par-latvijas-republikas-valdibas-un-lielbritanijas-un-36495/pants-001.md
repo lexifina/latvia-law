@@ -1,0 +1,1 @@
+1.pants. 1993.gada 6.decembrī Londonā parakstītais Latvijas Republikas valdības un Ziemeļīrijas Apvienotās Karalistes valdības līgums par gaisa satiksmi (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
