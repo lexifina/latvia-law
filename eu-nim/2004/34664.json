@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par profesionālās kvalifikācijas atzīšanu, pamatojoties uz profesionālās pieredzes ilgumu un veidu atsevišķās ekonomiskās darbības jomās",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "164",
+  "official_journal_page": null,
+  "official_journal_date": "2004-10-15",
+  "entry_into_force": "2004-10-16",
+  "notification_date": "2005-01-24",
+  "commission_reference": "MNE(2005)54664",
+  "nim_celex": "71974L0556LVA_34664",
+  "nim_id": "34664",
+  "transposes_celex": [
+    "31974L0556",
+    "31974L0557",
+    "31999L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c3ddd365-ff8a-43b4-b884-5ad5901a4b76",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
