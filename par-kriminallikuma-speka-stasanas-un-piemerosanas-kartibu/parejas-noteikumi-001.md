@@ -1,1 +1,1 @@
-1. Līdz 2003.gada 31.martam nepiemērot Krimināllikumā paredzēto soda veidu - arestu.
+1. Līdz 2003.gada 31.martam nepiemērot Krimināllikumā paredzēto soda veidu - arestu. Šis nosacījums nav attiecināms uz Krimināllikuma 40. un 41.pantā norādītajiem gadījumiem, ja tiesa ar arestu aizstāj neizciesto sodu - piespiedu darbu vai naudas sodu, kā arī uz gadījumiem, kad tiesa Krimināllikuma XXV nodaļas pantos paredzēto sodu piemēro militārpersonai.
