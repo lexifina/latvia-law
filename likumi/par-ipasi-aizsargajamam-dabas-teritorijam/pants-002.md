@@ -5,4 +5,4 @@ Aizsargājamās teritorijas ir ģeogrāfiski noteiktas platības, kas atrodas ī
 - nodrošināt zinātniskos pētījumus un vides pārraudzību;
 - saglabāt sabiedrības atpūtai, izglītošanai un audzināšanai nozīmīgas teritorijas.
 Aizsargājamās teritorijas iedala šādās kategorijās: dabas rezervāti, nacionālie parki, biosfēras rezervāti, dabas parki, dabas pieminekļi, dabas liegumi un aizsargājamo ainavu apvidi.
-(Ceturtā daļa izslēgta ar MK 05.08.1997. noteikumiem Nr.283.)
+(Ceturtā daļa izslēgta ar 30.10.1997. likumu.)

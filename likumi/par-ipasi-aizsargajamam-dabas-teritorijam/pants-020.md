@@ -1,4 +1,3 @@
 20. pants. Aizsargājamo teritoriju apmeklēšanas regulēšana
-Aizsargājamo teritoriju apmeklēšana atpūtas, tūrisma, ekoloģiskās izglītošanas un zinātniskās izpētes nolūkos notiek saskaņā ar katras aizsargājamās teritorijas aizsardzības un izmantošanas noteikumiem.
-Katrai aizsargājamai teritorijai vai tās daļai, kuras aizsardzības un izmantošanas noteikumi pieļauj apmeklēšanu, tiek noteiktas apmeklēšanas kvotas atbildīgā ministra noteiktajā kārtībā.
-Aizsargājamās teritorijas apmeklēšanu organizē un kontrolē aizsargājamās teritorijas pārvaldes institūcija.
+Aizsargājamo teritoriju apmeklēšana atpūtas, tūrisma, ekoloģiskās izglītošanas un zinātniskās izpētes nolūkos notiek saskaņā ar aizsargājamo teritoriju vispārējiem un katras teritorijas individuālajiem aizsardzības un izmantošanas noteikumiem un dabas aizsardzības plāniem.
+Aizsargājamās teritorijas apmeklēšanu kontrolē šīs teritorijas administrācija un attiecīgā reģionālā vides pārvalde.
