@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Informācijas atklātības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "334/335",
+  "official_journal_page": null,
+  "official_journal_date": "1998-12-24",
+  "entry_into_force": "1998-11-20",
+  "notification_date": "2025-02-26",
+  "commission_reference": "MNE(2025)01216",
+  "nim_celex": "72021L2167LVA_202501216",
+  "nim_id": "202501216",
+  "transposes_celex": [
+    "32021L2167"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ef512681-aeed-4c76-941e-c2ab236c088e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
