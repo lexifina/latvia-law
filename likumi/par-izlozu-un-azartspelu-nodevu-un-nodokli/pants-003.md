@@ -1,6 +1,6 @@
 3. pants. Ar azartspēļu nodokli apliekamais objekts ir azartspēļu organizētājs - uzņēmums (uzņēmējsabiedrība), azartspēļu norises vieta un spēļu iekārtas. No katras iekārtotās vai uzstādītās azartspēļu tiešās norises vietas iekasējams nodoklis pēc šādām likmēm par katru kārtējo kalendāro gadu:
-1) rulete (cilindriskā spēle) - par katru ruletes rotējošajai iekārtai pievienoto spēļu galdu - Ls 16 500;
-2) kāršu un kauliņu spēles - par katru galdu - Ls 4000;
+1) rulete (cilindriskā spēle) - par katru ruletes rotējošajai iekārtai pievienoto spēļu galdu - Ls 19 800;
+2) kāršu un kauliņu spēles - par katru galdu - Ls 4800;
 3) bingo (līdz 100 vietām)- Ls 11 000;
 4) bingo (līdz 200 vietām)- Ls 16 500;
 5) bingo (līdz 300 vietām) - Ls 22 000;
