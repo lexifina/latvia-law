@@ -1,0 +1,1 @@
+7. Repatriantiem, kuri šā likuma 20.panta pirmās daļas 1.punktā minētā pabalsta saņemšanai ceļa izdevumus apliecinošus dokumentus iesnieguši līdz 2005.gada 28.februārim, pabalstu izmaksā atbilstoši noteikumiem, kas ir spēkā līdz 2005.gada 28.februārim.

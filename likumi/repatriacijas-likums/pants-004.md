@@ -1,2 +1,2 @@
 4.pants. Starpvalstu līgumi
-Ja Saeimas apstiprinātajā starpvalstu līgumā par repatriāciju paredzēti citādi noteikumi nekā Latvijas Republikas likumdošanas aktos, piemērojami starpvalstu līguma noteikumi.
+Ja Saeimas apstiprinātajā starpvalstu līgumā par repatriāciju iekļauti citādi noteikumi nekā šajā likumā un citos normatīvajos aktos, piemērojami starpvalstu līguma noteikumi.

@@ -1,0 +1,1 @@
+6. Ministru kabinets līdz 2005.gada 15.aprīlim izdod šā likuma 5.panta 5.punktā minētos noteikumus. Līdz 2005.gada 15.aprīlim ir spēkā Ministru kabineta 1999.gada 5.oktobra noteikumi Nr.344 "Repatriācijas fonda līdzekļu pārvaldīšanas un izlietošanas kārtība", ciktāl tie nav pretrunā ar šo likumu.

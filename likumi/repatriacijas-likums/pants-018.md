@@ -1,3 +1,2 @@
 18.pants. Robežas šķērsošana
-(1) Pamatojoties uz Pilsonības un migrācijas lietu pārvaldes izsniegto atļauju, Latvijas Republikas konsulārajās pārstāvniecībās ārvalstīs repatriantam, viņa laulātajam, vecākiem un bērniem izsniedz bezmaksas vīzu iebraukšanai Latvijā.
-(2) Repatriants, kas nav saņēmis uzturēšanās atļauju, ja nepieciešams, vienu reizi bez maksas var saņemt atgriešanās garantiju.
+Pamatojoties uz Pārvaldes pieņemto lēmumu par repatrianta statusa un pastāvīgās uzturēšanās atļaujas piešķiršanu, Latvijas Republikas diplomātiskās vai konsulārās pārstāvniecības ārvalstīs repatriantam un viņa ģimenes locekļiem izsniedz vīzu. Minētās personas ir atbrīvotas no valsts nodevas par vīzas pieprasīšanai nepieciešamo dokumentu izskatīšanu un ar to saistītajiem pakalpojumiem.
