@@ -1,0 +1,1 @@
+Protokols Eiropas līgumam par asociācijas izveidošanu starp Eiropas Kopienām un to Dalībvalstīm, no vienas puses, un Latvijas Republiku, no otras puses, par atbilstības novērtēšanu un rūpniecisko preču atzīšanu

@@ -1,0 +1,1 @@
+1.pants. 2002.gada 21.maijā Briselē parakstītais Protokols Eiropas līgumam par asociācijas izveidošanu starp Eiropas Kopienām un to dalībvalstīm, no vienas puses, un Latvijas Republiku, no otras puses, par atbilstības novērtēšanu un rūpniecisko preču atzīšanu (turpmāk - Protokols) un tā pielikumi ar šo likumu tiek pieņemti un apstiprināti.
