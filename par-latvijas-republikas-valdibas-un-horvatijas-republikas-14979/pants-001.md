@@ -1,0 +1,1 @@
+1.pants. 1999.gada 18.oktobrī Rīgā parakstītais Latvijas Republikas valdības un Horvātijas Republikas valdības nolīgums par gaisa satiksmi (turpmāk - Nolīgums) un tā pielikums (turpmāk - Pielikums) ar šo likumu tiek pieņemti un apstiprināti.
