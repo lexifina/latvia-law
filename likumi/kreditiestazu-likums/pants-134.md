@@ -7,4 +7,5 @@
 6) sagatavot un iesniegt savas darbības pārskatu tiesai;
 7) iesniegt tiesai apstiprināšanai kreditoru sarakstu, norādot tajā arī noraidītās kreditoru pretenzijas;
 8) apmierināt likumīgos kreditoru prasījumus;
-9) publicēt laikrakstā "Latvijas Vēstnesis" paziņojumu par kredītiestādes likvidācijas pabeigšanu un paziņot par to Uzņēmumu reģistram.
+9) publicēt laikrakstā "Latvijas Vēstnesis" paziņojumu par kredītiestādes likvidācijas pabeigšanu un paziņot par to Uzņēmumu reģistram;
+10) ne vēlāk kā mēneša laika pēc Finansu ministrijas pieprasījuma saņemšanas nodot tranzītkredītu apkalpošanu bankai, kuru norādījusi Finansu ministrija.

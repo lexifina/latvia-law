@@ -1,1 +1,1 @@
-114.pants. Lēmumu par ierobežojumu noteikšanu pieņem kopīgi Latvijas Banka un Ministru kabinets, nosakot šo ierobežojumu darbības laiku, taču tas nedrīkst pārsniegt 12 mēnešus.
+114.pants. Lēmumu par ierobežojumu noteikšanu pieņem kopīgi Latvijas Banka un Ministru kabinets, nosakot šo ierobežojumu darbības laiku, taču tas nedrīkst pārsniegt 12 mēnešus. Nosakot saistību izpildes ierobežojumus bankai, kas apkalpo tranzītkredītu, Finansu ministrija kopīgi ar Latvijas Banku pieņem lēmumu par tranzītkredīta apkalpošanas turpināšanu šajā bankā vai nodošanu citām kredītiestādēm.
