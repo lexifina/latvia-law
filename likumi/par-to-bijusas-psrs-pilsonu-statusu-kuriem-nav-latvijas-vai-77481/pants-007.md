@@ -1,9 +1,11 @@
-7.pants. Nepilsoņa statusa atņemšana
+7. pants. Nepilsoņa statusa atņemšana
 (1) Personai atņem nepilsoņa statusu, ja tā:
-1) neatbilst kādam no šā likuma 1.panta pirmajā daļā minētajiem nosacījumiem;
-2) pieder pie kādas no šā likuma 1.panta trešajā daļā minētajām personu kategorijām;
-3) ieguvusi citas valsts pilsonību (pavalstniecību), neiesniedzot iesniegumu par atteikšanos no nepilsoņa statusa;
+1) neatbilst kādam no šā likuma 1. panta pirmajā daļā minētajiem nosacījumiem;
+2) pieder pie kādas no šā likuma 1. panta trešajā daļā minētajām personu kategorijām. Šā likuma 1. panta trešās daļas 5. punktā minētajām personām, kuras saņēmušas pastāvīgās uzturēšanās atļauju ārvalstī, nepilsoņa statusu atņem, ja pastāvīgās uzturēšanās atļauja saņemta pēc 2004. gada 1. jūnija;
+3) ieguvusi citas valsts pilsonību (pavalstniecību), neiesniedzot iesniegumu par atteikšanos no nepilsoņa statusa 30 dienu laikā pēc šādas pilsonības (pavalstniecības) iegūšanas;
 4) bez Ministru kabineta atļaujas dienē kādas ārvalsts bruņotajos spēkos, iekšējā karaspēkā, drošības dienestā, policijā (milicijā) vai ir tieslietu institūciju dienestā;
 5) apzināti sniegusi par sevi nepatiesas ziņas, lai iegūtu nepilsoņa statusu.
 (2) Kārtību, kādā personai tiek atņemts nepilsoņa statuss, nosaka Ministru kabinets.
-(3) Lēmumu par nepilsoņa statusa atņemšanu var pārsūdzēt tiesā.
+(3) Lēmumu par nepilsoņa statusa atņemšanu pieņem Pārvaldes priekšnieka pilnvarota amatpersona.
+(4) Pārvaldes priekšnieka pilnvarotās amatpersonas pieņemto lēmumu persona var apstrīdēt, iesniedzot par to attiecīgu iesniegumu Pārvaldes priekšniekam.
+(5) Šā panta ceturtajā daļā minēto Pārvaldes priekšnieka lēmumu personai ir tiesības pārsūdzēt tiesā.
