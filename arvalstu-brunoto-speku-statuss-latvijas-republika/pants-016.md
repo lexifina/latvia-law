@@ -1,0 +1,2 @@
+16.pants. Vides aizsardzība
+Ārvalstu bruņoto spēku vienībām jāveic pasākumi, lai, atrazdamās Latvijas teritorijā, tās nepieļautu vides piesārņošanu, bet gadījumos, kad kaitīgā ietekme bijusi neizbēgama un ir notikusi augsnes virskārtas bojāšana, augsnes transformācija, piesārņošana, augu valsts bojāšana utt., vide jāatjauno. Ja atjaunošana nav iespējama saskaņā ar Latvijas Republikas likumu "Par vides aizsardzību", Latvijas Republikas Aizsardzības ministrija un ārvalstu bruņotie spēki vienojas par videi nodarītā kaitējuma atlīdzību.
