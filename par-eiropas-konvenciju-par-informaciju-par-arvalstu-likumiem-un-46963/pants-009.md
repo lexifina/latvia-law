@@ -1,0 +1,1 @@
+9.pants. Konvencija stājas spēkā tās 17.pantā noteiktajā laikā un kārtībā. Papildu protokols - tā 7.pantā noteiktajā laikā un kārtībā, un par to Ārlietu ministrija paziņo laikrakstā "Latvijas Vēstnesis".

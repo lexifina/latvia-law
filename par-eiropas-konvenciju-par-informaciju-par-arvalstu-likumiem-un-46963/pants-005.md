@@ -1,0 +1,1 @@
+5.pants. Ministrijas un Ģenerālprokuratūra atbilstoši savai kompetencei ir atbildīgas par atbilžu sagatavošanu uz saskaņā ar Konvenciju un Papildu protokolu iesniegtajiem lūgumiem sniegt informāciju par Latvijas Republikas likumiem un citiem normatīvajiem aktiem.

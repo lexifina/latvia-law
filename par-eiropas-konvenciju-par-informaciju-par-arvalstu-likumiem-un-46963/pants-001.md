@@ -1,0 +1,1 @@
+1.pants. 1968.gada 7.jūnija Eiropas konvencija par informāciju par ārvalstu likumiem (turpmāk - Konvencija) un tās 1978.gada 15.marta papildu protokols (turpmāk - Papildu protokols) ar šo likumu tiek pieņemti un apstiprināti.

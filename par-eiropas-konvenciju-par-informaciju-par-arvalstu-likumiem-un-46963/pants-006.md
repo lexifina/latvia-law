@@ -1,0 +1,1 @@
+6.pants. Tieslietu ministrija un Ģenerālprokuratūra, ja nepieciešams, ir tiesīgas noslēgt ar kompetentajām ārvalstu iestādēm papildu vienošanās par Konvencijā un Papildu protokolā paredzētās informācijas sniegšanai izmantojamām valodām un minētās informācijas sniegšanas izdevumu segšanu.
