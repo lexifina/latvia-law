@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Dzīvnieku mākslīgās apsēklošanas staciju un embriju transplantācijas uzņēmumu atbilstības kritēriji un reģistrēšanas kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "161",
+  "official_journal_page": null,
+  "official_journal_date": "2001-11-08",
+  "entry_into_force": null,
+  "notification_date": "2005-07-27",
+  "commission_reference": "MNE(2005)52983",
+  "nim_celex": "71987L0328LVA_122983",
+  "nim_id": "122983",
+  "transposes_celex": [
+    "31987L0328"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d0de69c7-43c8-4c5a-9e8a-981c3298501b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
