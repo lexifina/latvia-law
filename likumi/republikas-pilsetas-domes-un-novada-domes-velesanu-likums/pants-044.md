@@ -1,0 +1,3 @@
+44. pants. Vēlēšanu rezultātus apstiprina attiecīgās pilsētas, rajona vai pagasta vēlēšanu komisija ar savu lēmumu un kopā ar vēlēšanu komisijas sēžu protokoliem to nekavējoties nosūta Centrālajai vēlēšanu komisijai. Pārējie vēlēšanu materiāli glabājami Centrālās vēlēšanu komisijas noteiktajā kārtībā.
+Republikas pilsētas domes un rajona padomes vēlēšanu rezultāti ne vēlāk kā septiņu dienu laikā pēc vēlēšanām publicējami oficiālā izdevumā.
+Rajona pilsētas domes un pagasta padomes vēlēšanu rezultāti ne vēlāk kā trīs dienu laikā pēc vēlēšanām izliekami redzamā vietā pie pilsētas domes vai pagasta padomes ēkas.

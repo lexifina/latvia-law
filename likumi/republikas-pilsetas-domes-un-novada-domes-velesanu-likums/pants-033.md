@@ -1,0 +1,1 @@
+33. pants. Ja vēlētājs fizisku trūkumu dēļ pats nespēj balsot, vēlētāja klātbūtnē pēc viņa mutvārdu norādījumiem atzīmes vēlēšanu zīmē izdara vēlētāja ģimenes loceklis vai kāda cita persona, kurai vēlētājs uzticas. Persona, kura izdara atzīmes, nedrīkst būt attiecīgās vēlēšanu komisijas loceklis.

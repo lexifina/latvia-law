@@ -1,0 +1,1 @@
+8. pants. Domē (padomē) var ievēlēt Latvijas Republikas pilsoni, kurš vēlēšanu dienā ir sasniedzis 21 gada vecumu, ja viņš attiecīgās pašvaldības administratīvajā teritorijā ir bijis pierakstīts vismaz pēdējos 12 mēnešus pirms vēlēšanu dienas un ja uz viņu neattiecas kāds no šā likuma 9. pantā minētajiem ierobežojumiem.

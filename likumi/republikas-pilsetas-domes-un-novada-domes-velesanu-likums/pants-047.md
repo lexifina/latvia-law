@@ -1,0 +1,1 @@
+47. pants. Personas, kuras ar vardarbību, viltu, draudiem, uzpirkšanu vai citā prettiesiskā veidā kavē pilsoņus piedalīties vēlēšanās vai veikt aģitāciju vai arī viltojušas vēlēšanu dokumentus, vai apzināti nepareizi skaitījušas balsis, vai nav ievērojušas balsošanas noslēpumu, vai citādi pārkāpušas šo likumu, saucamas pie likumā paredzētās atbildības.

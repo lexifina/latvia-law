@@ -1,0 +1,4 @@
+29. pants. Vēlēšanu telpās ierīkojama atsevišķa istaba vai nodalījums, kur vēlētājs vienatnē izdara nepieciešamās atzīmes vēlēšanu zīmē.
+Vēlēšanu zīmē pretī katra kandidātu saraksta nosaukumam un katra kandidāta uzvārdam ir vieta vēlētāja atzīmju izdarīšanai.
+Ja vēlētājs vēlas balsot par vienu kandidātu sarakstu pilnībā (nodot pilnu balsi), viņš vietā pēc attiecīgā kandidātu saraksta nosaukuma izdara noteikta parauga atzīmi, tādējādi atbalstot visu šajā sarakstā ietverto kandidātu ievēlēšanu. Šajā gadījumā vēlētājam nav tiesību vēlēšanu zīmē izdarīt citas atzīmes.
+Ja vēlētājs vēlas balsot par dažādos kandidātu sarakstos ietvertiem kandidātiem, viņš vietā pēc to kandidātu uzvārdiem, par kuriem vēlas balsot, izdara noteikta parauga atzīmi. Šajā gadījumā vēlētāja izdarīto atzīmju (individuālo balsu) skaits nedrīkst pārsniegt attiecīgajā domē (padomē) ievēlējamo deputātu skaitu. Turklāt vēlētājs nedrīkst izdarīt arī atzīmes vietās pēc kandidātu sarakstu nosaukumiem.

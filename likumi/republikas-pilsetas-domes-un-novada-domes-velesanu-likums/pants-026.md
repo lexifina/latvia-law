@@ -1,0 +1,1 @@
+26. pants. Pie ieejas vēlēšanu telpās vēlēšanu komisija pārliecinās, vai atnākušie pilsoņi ir vēlētāji, kas nav vēl piedalījušies vēlēšanās. Vēlētāja personu apliecinošs dokuments ir Latvijas Republikas pilsoņa pase.

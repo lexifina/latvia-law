@@ -1,0 +1,1 @@
+48. pants. Domes (padomes) deputātu kandidāti, kuri šā likuma 17. panta pirmās daļas 2. punktā minētajā deklarācijā snieguši par sevi apzināti nepatiesas ziņas, ir saucami pie kriminālatbildības saskaņā ar Latvijas Kriminālkodeksa 151.³ pantu, bet ievēlēšanas gadījumā attiecīgajam domes (padomes) deputātam anulējams arī deputāta mandāts.

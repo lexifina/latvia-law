@@ -1,0 +1,1 @@
+1. Saeima nosaka, ka domes (padomes) vēlēšanas, kas tiek izsludinātas pēc šā likuma spēkā stāšanās, izņēmuma kārtā notiek 1994. gada 22. maijā un tiek finansētas no valsts budžeta. Ievēlētās domes (padomes) darbojas attiecīgi īsāku periodu, nekā noteikts šā likuma 1. pantā.

@@ -1,0 +1,1 @@
+10. pants. Valsts prezidentu, Saeimas deputātus, valdības locekļus, prokurorus, tiesnešus un karavīrus (izņemot aktīvajā valsts dienestā iesauktos) var pieteikt par domes (padomes) deputātu kandidātiem, taču ievēlēšanas gadījumā viņi zaudē Saeimas deputāta mandātu un ieņemamo amatu, bet karavīri tiek atvaļināti no valsts dienesta.

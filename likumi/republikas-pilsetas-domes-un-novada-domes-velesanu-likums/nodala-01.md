@@ -1,0 +1,2 @@
+1.nodaļa
+VISPĀRĪGIE NOTEIKUMI

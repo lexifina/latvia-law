@@ -1,0 +1,1 @@
+34. pants. Par kārtības uzturēšanu vēlēšanu laikā gādā vēlēšanu komisijas priekšsēdētājs, nepieļaujot vēlēšanu telpās un pie ieejas tajās vēlēšanu brīvības ierobežošanu, kā arī aģitāciju. Vēlēšanu komisijas priekšsēdētājam un komisijas locekļiem ir arī pienākums nepielaist balsot personas, kurām nav tiesību vēlēt.

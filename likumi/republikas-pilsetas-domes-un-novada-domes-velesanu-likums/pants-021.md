@@ -1,0 +1,1 @@
+21. pants. Kandidātu saraksta nosaukumu izvēlas tā iesniedzēji. Tam būtiski jāatšķiras no citu Latvijas Republikā reģistrēto politisko organizāciju nosaukumiem vai jau iesniegto kandidātu sarakstu nosaukumiem, kā arī no to politisko organizāciju vai politisko organizāciju apvienību nosaukumiem, kuru darbība ar likumu vai tiesas nolēmumu ir izbeigta.

@@ -1,0 +1,1 @@
+37. pants. Balsu skaitīšanu izdara iecirkņa vēlēšanu komisija atklātā sēdē, kurā kā novērotāji var būt klāt ne vairāk kā divi pilnvaroti pārstāvji no katras vēlētāju apvienības, politiskās organizācijas vai politisko organizāciju apvienības, kas attiecīgās domes (padomes) vēlēšanām iesniegušas kandidātu sarakstu.

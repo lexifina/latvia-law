@@ -1,0 +1,1 @@
+19. pants. Pirmie trīs kandidātu saraksta parakstītāji uzskatāmi par attiecīgā kandidātu saraksta iesniedzējiem, un vienam no viņiem ir tiesības bez īpaša pilnvarojuma būt klāt attiecīgās pilsētas, rajona vai pagasta vēlēšanu komisijas, kā arī šīs pilsētas, rajona vai pagasta administratīvajā teritorijā izveidoto iecirkņu vēlēšanu komisiju sēdēs.

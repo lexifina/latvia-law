@@ -1,0 +1,2 @@
+7. pants. Personai ir tiesības pēc sava ieskata vēlēt tās pašvaldības administratīvajā teritorijā, kurā tā ir pierakstīta vēlēšanu dienā, vai arī tās pašvaldības administratīvajā teritorijā, kur atrodas likumā noteiktajā kārtībā reģistrēts attiecīgās personas nekustamais īpašums.
+Personai, kura vēlēšanu dienā nav pierakstīta, ir tiesības vēlēt tās pašvaldības administratīvajā teritorijā, kur ir šīs personas pieraksta pēdējā vieta.
