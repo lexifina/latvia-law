@@ -1,0 +1,1 @@
+1.pants. 2000.gada 21.jūnijā Rīgā parakstītā Latvijas Republikas valdības un Čehijas Republikas valdības vienošanās par rūpniecisko sadarbību aizsardzības jomā (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.
