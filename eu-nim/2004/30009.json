@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par Pārtikas un veterinārā dienesta maksas pakalpojumiem un samaksu par valsts uzraudzības un kontroles darbībām",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "68",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": null,
+  "notification_date": "2004-07-20",
+  "commission_reference": "MNE(2004)50009",
+  "nim_celex": "71985L0073LVA_30009",
+  "nim_id": "30009",
+  "transposes_celex": [
+    "31985L0073",
+    "31996L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/551a9be3-be7a-45e0-ad69-1f9255e9f1b6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
