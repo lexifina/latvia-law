@@ -1,0 +1,1 @@
+2.pants. Atzīt par spēkā neesošiem laikā no 1940.gada 17.jūnija līdz 1990.gada 4.maijam pieņemtos likumus, dekrētus, lēmumus, rīkojumus un citus normatīvos aktus daļā par akadēmisko mūža organizāciju slēgšanu un to īpašuma objektu atsavināšanu.

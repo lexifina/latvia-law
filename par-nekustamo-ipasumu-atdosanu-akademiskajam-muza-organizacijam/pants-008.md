@@ -1,0 +1,1 @@
+8.pants. Akadēmiskās mūža organizācijas nav tiesīgas pieprasīt no līdzšinējā valdītāja maksu par atdodamā īpašuma objekta lietošanu līdz īpašuma tiesību atjaunošanai. Līdzšinējie valdītāji nav tiesīgi pieprasīt kompensāciju par īpašuma objekta uzturēšanu.

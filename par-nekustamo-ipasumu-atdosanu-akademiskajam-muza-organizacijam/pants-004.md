@@ -1,0 +1,1 @@
+4.pants. Akadēmiskās mūža organizācijas īpašuma objekta sastāvs nosakāms atbilstoši īpašumu apliecinošajos dokumentos fiksētajam īpašuma sastāvam. Ja šādu dokumentu nav vai tie nav saglabājušies pilnībā, kā arī strīda gadījumā īpašuma objekta sastāvu konstatē tiesa.

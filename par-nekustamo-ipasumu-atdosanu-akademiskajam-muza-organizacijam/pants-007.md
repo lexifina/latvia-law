@@ -1,0 +1,1 @@
+7.pants. Pilsētas dome vai pagasta padome pēc visu nepieciešamo dokumentu saņemšanas triju mēnešu laikā izskata pieteikumu un pieņem lēmumu par īpašuma objekta atdošanu vai par atteikumu atjaunot īpašuma tiesības.

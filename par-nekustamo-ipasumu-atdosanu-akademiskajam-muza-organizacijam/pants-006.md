@@ -1,0 +1,3 @@
+6.pants. (1) Pamats jautājuma izskatīšanai par akadēmisko mūža organizāciju īpašuma objektu atdošanu ir attiecīgās organizācijas pieteikums, kas viena gada laikā pēc šā likuma stāšanās spēkā iesniedzams pilsētas domei vai pagasta padomei pēc īpašuma atrašanās vietas.
+(2) Akadēmiskās mūža organizācijas īpašuma tiesības pierādāmas ar zemesgrāmatu aktiem un citiem dokumentiem, bet, ja dokumenti nav saglabājušies, - ar tiesas spriedumu.
+(3) Nekustamo īpašumu atdošana akadēmiskajām mūža organizācijām veicama kārtībā, kas noteikta šajā likumā un likumos "Par zemes reformu Latvijas Republikas pilsētās", "Par zemes reformu Latvijas Republikas lauku apvidos" un "Par namīpašumu atdošanu likumīgajiem īpašniekiem".
