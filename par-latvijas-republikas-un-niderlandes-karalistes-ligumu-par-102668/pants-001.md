@@ -1,0 +1,1 @@
+1.pants. 2004.gada 14.septembrī Rīgā parakstītais Latvijas Republikas un Nīderlandes Karalistes līgums par sociālās drošības pabalstu eksportu un piešķiršanas procesa nodrošināšanu (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
