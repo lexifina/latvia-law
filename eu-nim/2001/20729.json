@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Banku konsolidēto gada pārskatu sagatavošanas noteikumi",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "188",
+  "official_journal_page": null,
+  "official_journal_date": "2001-12-28",
+  "entry_into_force": null,
+  "notification_date": "2004-03-22",
+  "commission_reference": "MNE(2003)50729",
+  "nim_celex": "71986L0635LVA_20729",
+  "nim_id": "20729",
+  "transposes_celex": [
+    "31986L0635",
+    "32000L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ae396fc7-7e26-4239-beb8-438d7eb0d08c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
