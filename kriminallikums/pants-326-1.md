@@ -1,5 +1,5 @@
 326.¹ pants. Tirgošanās ar ietekmi
 (1) Par materiālu vērtību, mantiska vai citāda rakstura labumu piedāvāšanu vai nodošanu jebkurai personai, lai tā, izmantojot savu dienesta, profesionālo vai sociālo stāvokli, personiski ietekmētu valsts amatpersonas darbību vai lēmuma pieņemšanu, ja nav šā likuma 323. pantā paredzētā nozieguma pazīmju, -
-soda ar brīvības atņemšanu uz laiku līdz vienam gadam vai ar arestu, vai ar naudas sodu līdz piecdesmit minimālajām mēnešalgām.
+soda ar brīvības atņemšanu uz laiku līdz vienam gadam vai ar arestu, vai ar piespiedu darbu, vai ar naudas sodu līdz piecdesmit minimālajām mēnešalgām.
 (2) Par materiālu vērtību, mantiska vai citāda rakstura labumu, to piedāvājuma pieņemšanu, ko izdarījusi jebkura persona, lai tā, izmantojot savu dienesta, profesionālo vai sociālo stāvokli, personiski ietekmētu valsts amatpersonas darbību vai lēmuma pieņemšanu vai pamudinātu kādu citu personu ietekmēt valsts amatpersonas darbību vai lēmuma pieņemšanu, ja nav šā likuma 198. un 320.pantā paredzētā nozieguma pazīmju, -
-soda ar brīvības atņemšanu uz laiku līdz diviem gadiem vai ar arestu, vai ar naudas sodu līdz piecdesmit minimālajām mēnešalgām.
+soda ar brīvības atņemšanu uz laiku līdz diviem gadiem vai ar arestu, vai ar piespiedu darbu, vai ar naudas sodu līdz piecdesmit minimālajām mēnešalgām.

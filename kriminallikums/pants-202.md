@@ -1,3 +1,3 @@
 202.pants. Preces un pakalpojuma kvalitātes nenodrošināšana
 Par apzinātu tādas preces izgatavošanu un realizāciju vai tāda maksas pakalpojuma sniegšanu patērētājam, kas neatbilst normatīvajos aktos, normatīvtehniskajos dokumentos vai līgumos noteiktās kvalitātes prasībām, kā rezultātā radīts būtisks kaitējums patērētāja veselībai, viņa mantai vai dabas videi, -
-soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar arestu, vai ar naudas sodu līdz sešdesmit minimālajām mēnešalgām, atņemot tiesības veikt zināma veida uzņēmējdarbību uz laiku no diviem līdz pieciem gadiem vai bez tā.
+soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar arestu, vai ar piespiedu darbu, vai ar naudas sodu līdz sešdesmit minimālajām mēnešalgām, atņemot tiesības veikt zināma veida uzņēmējdarbību uz laiku no diviem līdz pieciem gadiem vai bez tā.

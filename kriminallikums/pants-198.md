@@ -1,5 +1,5 @@
 198.pants. Neatļauta labumu pieņemšana
 (1) Par materiālu vērtību, mantisku vai citāda rakstura labumu, to piedāvājuma apzināti prettiesisku pieņemšanu, ko izdarījis uzņēmuma (uzņēmējsabiedrības) vai organizācijas atbildīgs darbinieks vai uzņēmuma (uzņēmējsabiedrības) vai organizācijas pilnvarota persona pati vai ar starpnieku, par kādas darbības izdarīšanu vai neizdarīšanu labuma devēja vai piedāvātāja interesēs, ļaunprātīgi izmantojot savas pilnvaras, neatkarīgi no tā, vai pieņemtās materiālās vērtības, mantiska vai citāda rakstura labumi domāti šai vai jebkurai citai personai, -
-soda ar brīvības atņemšanu uz laiku līdz sešiem gadiem vai ar naudas sodu līdz simt divdesmit minimālajām mēnešalgām.
+soda ar brīvības atņemšanu uz laiku līdz sešiem gadiem vai ar mantas konfiskāciju, vai ar piespiedu darbu, vai ar naudas sodu līdz simt divdesmit minimālajām mēnešalgām.
 (2) Par tādām pašām darbībām, ja tās izdarītas atkārtoti vai lielā apmērā vai ja tās izdarījusi personu grupa pēc iepriekšējas vienošanās, vai ja tās saistītas ar mantiska labuma pieprasīšanu, -
 soda ar brīvības atņemšanu uz laiku līdz astoņiem gadiem vai ar naudas sodu līdz simt piecdesmit minimālajām mēnešalgām, konfiscējot mantu vai bez mantas konfiskācijas.

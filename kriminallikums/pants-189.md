@@ -1,3 +1,3 @@
 189.pants. Mantas neapzinīga un nevērīga apsardzība
 Par tādas personas neapzinīgu un nevērīgu savu pienākumu veikšanu, kurai uzdota mantas apsardzība, ja šāda rīcība bijusi par iemeslu šīs mantas nolaupīšanai, bojāejai vai bojāšanai lielā apmērā un ja tā nav valsts amatpersonas vai uzņēmuma (uzņēmējsabiedrības) vai organizācijas atbildīga darbinieka noziedzīgs nodarījums, -
-soda ar brīvības atņemšanu uz laiku līdz diviem gadiem vai ar arestu, vai ar naudas sodu līdz četrdesmit minimālajām mēnešalgām.
+soda ar brīvības atņemšanu uz laiku līdz diviem gadiem vai ar arestu, vai ar piespiedu darbu, vai ar naudas sodu līdz četrdesmit minimālajām mēnešalgām.
