@@ -1,0 +1,1 @@
+29.pants. Darbiniekiem, kas nepiedalās streikā, bet sakarā ar streiku nevar pildīt savus darba pienākumus, uz noteiktu laiku noslēgtā darba līguma termiņa tecējums pēc viņu pieprasījuma tiek apturēts uz to laiku, kurā darbinieki streika dēļ nevar veikt savu darbu, un tas atjaunojas, tiklīdz streiks tiek izbeigts šajā likumā noteiktajā kārtībā.

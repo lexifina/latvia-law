@@ -1,0 +1,1 @@
+21.pants. Ja kolektīvā darba strīda puses nenodrošina šā likuma 17.panta noteikumu izpildi, Valsts darba inspekcija dod tām saistošu norādījumu minimālā apjomā turpināt darbu sabiedrībai nepieciešamajos dienestos, norādot to darbinieku skaitu, kam jāveic minētais uzdevums.

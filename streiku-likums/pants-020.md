@@ -1,0 +1,1 @@
+20.pants. Dabas katastrofas, liela mēroga avārijas vai epidēmijas gadījumā Valsts darba inspekcija var atlikt streika uzsākšanu vai pārtraukt streiku uz laiku līdz trim mēnešiem attiecībā uz personām, kas iesaistītas dabas katastrofas, liela mēroga avārijas vai epidēmijas novēršanā vai seku likvidēšanā.

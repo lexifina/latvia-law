@@ -1,0 +1,1 @@
+22.pants. Ja kolektīvā darba strīda puses pēc streika pieteikšanas nespēj vienoties par šā likuma 18.pantā minētajiem pasākumiem, Valsts darba inspekcija pēc darba devēja lūguma vai pēc savas iniciatīvas nosaka to darbinieku skaitu, kam streika laikā jāveic šā likuma 18.pantā minētie pasākumi.

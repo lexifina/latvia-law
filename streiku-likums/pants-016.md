@@ -1,0 +1,1 @@
+16.pants. Streikot ir aizliegts tiesnešiem, prokuroriem, policijas darbiniekiem, ugunsdzēsējiem, robežsargiem, valsts drošības iestāžu darbiniekiem, ieslodzījuma vietu uzraugiem un personām, kas dienē Nacionālajos bruņotajos spēkos.

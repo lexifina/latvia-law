@@ -1,0 +1,2 @@
+27.pants. (1) Laiku, kurā darbinieks piedalās streikā, pēc viņa pieprasījuma neieskaita uz noteiktu laiku noslēgtā darba līguma termiņā. Šādiem līgumiem termiņa tecējums tiek apturēts uz visu streika laiku, un tas atjaunojas, tiklīdz streiks tiek izbeigts šajā likumā noteiktajā kārtībā. Šis noteikums neattiecas uz gadījumiem, kad pēc streika izbeigšanas vairs nav iespējams izpildīt darbus, kuru veikšanai ir noslēgts darba līgums uz noteiktu laiku.
+(2) Laiku, kurā darbinieks piedalās streikā, pēc viņa pieprasījuma neieskaita darba līguma uzteikuma termiņā.
