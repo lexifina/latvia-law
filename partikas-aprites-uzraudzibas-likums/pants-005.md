@@ -1,4 +1,4 @@
-5.pants. (1) Uzņēmumi, kuru darbība ir saistīta ar gaļas ieguvi, pārtikas apstrādi, pārstrādi, ražošanu, saldēšanu, uzglabāšanu un iesaiņošanu, var iesaistīties pārtikas apritē, ja to darbība ar katru pārtikas grupu minētajos pārtikas aprites posmos un vietās ir atzīta un tiem piešķirts atzīšanas numurs.
+5.pants. (1) Uzņēmumi, kuru darbība ir saistīta ar gaļas ieguvi, pārtikas apstrādi, pārstrādi, ražošanu, saldēšanu, uzglabāšanu un iesaiņošanu (izņemot pārtikas ražošanu mājas apstākļos), var iesaistīties pārtikas apritē, ja to darbība ar katru pārtikas grupu minētajos pārtikas aprites posmos un vietās ir atzīta un tiem piešķirts atzīšanas numurs.
 (2) Pārtikas uzņēmumu darbību atzīst un atzīšanas numuru tiem piešķir Pārtikas un veterinārais dienests.
 (3) Uzņēmumi, kuru darbības veids nav minēts šā panta pirmajā daļā, pārtikas apritē var iesaistīties, ja tie ir reģistrēti Pārtikas un veterinārajā dienestā.
 (4) Pārtikas uzņēmumu darbības atzīšanas kārtību vai reģistrācijas kārtību nosaka Ministru kabinets.
