@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par ūdens resursu lietošanas atļauju",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "183",
+  "official_journal_page": null,
+  "official_journal_date": "2003-12-30",
+  "entry_into_force": "2003-12-31",
+  "notification_date": "2010-03-16",
+  "commission_reference": "MNE(2010)51931",
+  "nim_celex": "72009L0054LVA_167709",
+  "nim_id": "167709",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/80897b76-d165-48bf-aa34-62d4fabaeea4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
