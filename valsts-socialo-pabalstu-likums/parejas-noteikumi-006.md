@@ -1,0 +1,1 @@
+6. Līdz 2004.gada 31.decembrim šā likuma 6.¹ pantā noteiktā bērna aprūpes pabalsta un 8.¹ pantā noteiktā bērna adopcijas pabalsta piešķiršanu un izmaksu nodrošina Īpašu uzdevumu ministra bērnu un ģimenes lietās sekretariāts.
