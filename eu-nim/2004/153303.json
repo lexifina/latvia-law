@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2004.gada 23.novembra noteikumi Nr.964 \"Pārtikas preču marķēšanas noteikumi\" ar 2007.gada 18.decembra grozījumiem Nr.881",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "188",
+  "official_journal_page": null,
+  "official_journal_date": "2004-11-26",
+  "entry_into_force": "2004-11-25",
+  "notification_date": "2008-01-30",
+  "commission_reference": "MNE(2008)50840",
+  "nim_celex": "71996L0012LVA_153303",
+  "nim_id": "153303",
+  "transposes_celex": [
+    "31996L0012",
+    "32006L0142"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/797c467e-56aa-4132-986a-c84e8e3aa6ab",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
