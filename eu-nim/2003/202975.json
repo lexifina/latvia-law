@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Prasības sociālo pakalpojumu sniedzējiem",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "85",
+  "official_journal_page": null,
+  "official_journal_date": "2003-06-06",
+  "entry_into_force": "2003-06-07",
+  "notification_date": "2013-04-08",
+  "commission_reference": "MNE(2013)52591",
+  "nim_celex": "72011L0036LVA_202975",
+  "nim_id": "202975",
+  "transposes_celex": [
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/38ccfc40-7245-4e54-9989-b260e0bc6a47",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
