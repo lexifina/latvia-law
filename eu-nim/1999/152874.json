@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ķīmisko vielu un ķīmisko produktu likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "106",
+  "official_journal_page": null,
+  "official_journal_date": "1998-04-21",
+  "entry_into_force": "1999-01-01",
+  "notification_date": "2008-01-18",
+  "commission_reference": "MNE(2008)50490",
+  "nim_celex": "72006L0121LVA_152874",
+  "nim_id": "152874",
+  "transposes_celex": [
+    "32006L0121"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d3de7934-4fcd-4309-890d-cb01b0052e57",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
