@@ -1,2 +1,2 @@
 IX nodaļa
-Pārsūdzēšanas kārtība
+Apstrīdēšanas kārtība

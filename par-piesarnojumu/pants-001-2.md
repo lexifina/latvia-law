@@ -1,5 +1,5 @@
 (1) Enerģētikā:
-1) sadedzināšanas iekārtas, kuru siltuma jauda pārsniedz 50 megavatus;
+1) sadedzināšanas iekārtas, kuru ievadītā siltuma jauda pārsniedz 50 megavatus;
 2) minerāleļļas un gāzes attīrīšanas un rafinēšanas iekārtas;
 3) koksa krāsnis;
 4) ogļu pārgāzēšanas un sašķidrināšanas rūpnīcas.
@@ -60,7 +60,7 @@ b) papīra vai kartona ražošanai, kas saražo vairāk nekā 20 tonnas produkci
 a) lopkautuves, kurās saražo vairāk nekā 50 tonnas kautķermeņu dienā,
 b) pārtikas produktu ražotnes, kurās apstrādā un pārstrādā dzīvnieku izcelsmes produktus, izņemot pienu, un kurās saražo vairāk nekā 75 tonnas gatavās produkcijas dienā, vai ražotnes, kurās apstrādā un pārstrādā dārzeņus un kurās saražo vairāk nekā 300 tonnas gatavās produkcijas dienā (ja 300 tonnas dienā ir ceturkšņa vidējais rādītājs),
 c) piena ražotnes, kurās pieņem vairāk nekā 200 tonnas piena dienā (ja 200 tonnas dienā ir gada vidējais rādītājs);
-5) iekārtas dzīvnieku kautķermeņu un dzīvnieku subproduktu uzglabāšanai vai pārstrādei, kuru apstrādes jauda pārsniedz 10 tonnas dienā;
+5) dzīvnieku līķu un dzīvnieku izcelsmes atkritumu apglabāšanas vai pārstrādes iekārtas, kuru jauda pārsniedz 10 tonnas dienā;
 6) fermas intensīvai cūku un mājputnu audzēšanai, kurās var audzēt:
 a) vairāk nekā 40 000 mājputnu,
 b) vairāk nekā 2000 gaļas cūku, kuru svars pārsniedz 30 kilogramus,

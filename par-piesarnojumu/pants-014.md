@@ -1,2 +1,2 @@
 14.pants. Piesārņojošas darbības uzsākšanas ierobežojumi
-Piesārņojošu darbību nedrīkst uzsākt, ja ir pārsniegti vai var tikt pārsniegti vides kvalitātes robežnormatīvi noteiktam piesārņojuma veidam noteiktā teritorijā un ja attiecīgās darbības izraisītās emisijas var palielināt kopējo attiecīgā piesārņojuma daudzumu šajā teritorijā. Šādos gadījumos atļauja piesārņojošas darbības veikšanai netiek izsniegta.
+Piesārņojošu darbību nedrīkst uzsākt, ja ir pārsniegti vai var tikt pārsniegti vides kvalitātes normatīvu robežlielumi noteiktam piesārņojuma veidam noteiktā teritorijā un ja attiecīgās darbības izraisītās emisijas var palielināt kopējo attiecīgā piesārņojuma daudzumu šajā teritorijā. Šādos gadījumos atļauja piesārņojošas darbības veikšanai netiek izsniegta.

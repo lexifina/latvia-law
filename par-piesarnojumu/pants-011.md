@@ -1,7 +1,7 @@
 11.pants. Piesārņojošas darbības veikšanas nosacījumi
 (1) Veicot piesārņojošu darbību, operators ievēro:
 1) aizliegumu attiecībā uz noteiktu piesārņojošu vielu emisiju vidē;
-2) noteiktu piesārņojuma veidu emisijas robežvērtības;
+2) noteiktu piesārņojuma veidu emisijas robežvērtības un limitus;
 3) emisijas samazināšanas, novēršanas vai kontroles kārtību noteiktās saimnieciskās darbības jomās vai attiecībā uz noteikta veida iekārtām vai vielām;
 4) ar noteiktu piesārņojuma emisiju saistītu iekārtu vai iekārtu grupu atbilstības novērtēšanas kārtību.
 (2) Lai nodrošinātu šā panta pirmajā daļā minēto nosacījumu ievērošanu, Ministru kabinets reglamentē:

@@ -11,6 +11,6 @@
 8) pasākumi, kas tiks veikti, lai novērstu vai samazinātu atkritumu ražošanu un pārstrādātu iekārtas radītos atkritumus;
 9) citi pasākumi, kas tiks veikti, lai nodrošinātu šā likuma II un III nodaļā noteikto prasību izpildi;
 10) kārtība, kādā paredzēts veikt piesārņojošas darbības monitoringu.
-(3) Pieteikumā norāda piesārņojošas darbības iespējamās alternatīvas un pamato, kādēļ izraudzīts attiecīgais variants. Ja minētās alternatīvas jau izskatītas, novērtējot ietekmi uz vidi, operators pieteikumam pievieno ietekmes uz vidi novērtējuma nobeiguma ziņojumu un atzinumu par to.
-(4) Reģionālā vides pārvalde, izsniedzot atļauju piesārņojošas darbības veikšanai, kurai saskaņā ar normatīvajiem aktiem ir nepieciešams ietekmes uz vidi novērtējums, izvērtē un ņem vērā ietekmes uz vidi novērtējuma ziņojumu un Ietekmes uz vidi novērtējuma valsts biroja atzinumu par ietekmes uz vidi novērtējuma noslēguma ziņojumu.
+(3) Pieteikumā norāda piesārņojošas darbības iespējamās alternatīvas un pamato, kādēļ izraudzīts attiecīgais variants. Ja minētās alternatīvas jau izskatītas, novērtējot ietekmi uz vidi, operators pieteikumam pievieno ietekmes uz vidi novērtējuma noslēguma ziņojumu un atzinumu par to.
+(4) Reģionālā vides pārvalde, izsniedzot atļauju piesārņojošas darbības veikšanai, kurai saskaņā ar normatīvajiem aktiem ir nepieciešams ietekmes uz vidi novērtējums, izvērtē un ņem vērā ietekmes uz vidi novērtējuma ziņojumu un ievēro Ietekmes uz vidi novērtējuma valsts biroja atzinumā izvirzītās prasības par ietekmes uz vidi novērtējuma noslēguma ziņojumu.
 (5) Atļauju izsniedz reģionālā vides pārvalde pēc iekārtas darbības vietas. Ja nepieciešams, reģionālā vides pārvalde pieaicina ekspertus, izņemot tos, kuri piedalījušies pieteikuma sagatavošanā.
