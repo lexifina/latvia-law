@@ -1,0 +1,1 @@
+7.pants. Projektu visos tā īstenošanas posmos apdrošina, veicot visu risku apdrošināšanu (tai skaitā piedāvājuma, avansa, visu būvniecības risku, civiltiesiskās atbildības un garantijas perioda apdrošināšanu).

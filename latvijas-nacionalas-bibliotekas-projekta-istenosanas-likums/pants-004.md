@@ -1,0 +1,3 @@
+4.pants. (1) Latvijas Nacionālās bibliotēkas ēku būvē pēc arhitekta Gunāra Birkerta projekta "Latvijas Nacionālā bibliotēka".
+(2) Latvijas Nacionālās bibliotēkas vajadzībām nepieciešamo zemi, kā arī uz tās esošās ēkas atsavina valsts vajadzībām likumā "Par nekustamā īpašuma piespiedu atsavināšanu valsts vai sabiedriskajām vajadzībām" noteiktajā kārtībā. Atsavinātais nekustamais īpašums ierakstāms zemesgrāmatā uz valsts vārda Kultūras ministrijas personā. Latvijas Nacionālās bibliotēkas vajadzībām nepieciešamās zemes plāns noteikts šā likuma pielikumā.
+(3) Projekta īstenošanai nepieciešamos iepirkumus veic saskaņā ar likumu "Par iepirkumu valsts vai pašvaldību vajadzībām".
