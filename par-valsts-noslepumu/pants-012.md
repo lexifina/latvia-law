@@ -1,6 +1,6 @@
 12.pants. Tiesības izmantot valsts noslēpumu
 (1) Tiesības izmantot valsts noslēpumu katrai konkrētai personai ierobežo termiņš, uz kādu tai izsniegta speciālā atļauja, kā arī speciālās atļaujas anulēšana.
-(2) Amatu sarakstu, kas saistīti ar valsts noslēpuma izmantošanu un aizsardzību, nosaka Ministru kabinets.
+(2) Ar valsts noslēpuma izmantošanu un aizsardzību saistīto amatu sarakstu katrā institūcijā nosaka attiecīgās institūcijas vadītājs un nosūta tai drošības iestādei, kura saskaņā ar šā likuma 10.panta trešo un ceturto daļu veic personu pārbaudi šajā institūcijā.
 (3) Pieeja valsts noslēpumam un tiesības to izmantot savu amata (dienesta) pienākumu veikšanai, ja nav šā likuma 9. panta trešajā daļā noteikto ierobežojumu, pēc amata ir:
 1) Valsts prezidentam;
 2) Saeimas priekšsēdētājam;
