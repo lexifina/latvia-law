@@ -1,0 +1,1 @@
+1.pants. 1995.gada 22.decembrī Briselē parakstītais Latvijas Republikas valdības un Eiropas kopienu komisijas līgums par Eiropas kopienu komisijas pārstāvniecības izveidošanu un tās privilēģijām un imunitātēm Latvijā (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
