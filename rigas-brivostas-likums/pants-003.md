@@ -1,0 +1,4 @@
+3.pants. Brīvostā veicamās uzņēmējdarbības pamatnoteikumi
+(1) Brīvostas teritorijā uzņēmējdarbību var veikt licencētas uzņēmējsabiedrības, kā arī uzņēmumi (uzņēmējsabiedrības), kas nav saņēmuši atļauju uzņēmējdarbības veikšanai brīvās zonas režīmā.
+(2) Šajā likumā noteiktie muitas atvieglojumi un īpašie muitas kontroles pasākumi piemērojami uzņēmumiem (uzņēmējsabiedrībām), kas noslēguši ar Ostas pārvaldi līgumu par uzņēmējdarbību brīvās zonas režīmā un šajā likumā noteiktajā kārtībā saņēmuši atļauju šādas darbības veikšanai, kā arī Ostas pārvaldei. Minēto uzņēmumu (uzņēmējsabiedrību) teritorijas ir brīvās zonas.
+(3) Ievest preces Brīvostā esošajās brīvajās zonās no pārējās Latvijas Republikas muitas teritorijas un izvest tās no minētajām zonām uz pārējo Latvijas Republikas muitas teritoriju drīkst tikai caur muitas robežas caurlaides punktiem Muitas likumā, citos likumos un Ministru kabineta noteikumos paredzētajā kārtībā.
