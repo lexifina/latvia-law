@@ -1,0 +1,1 @@
+9. Šā likuma normas, kurās lietoti termini "komercsabiedrība" vai "individuālais komersants", piemērojamas arī attiecībā uz zvejnieku saimniecībām un citiem uzņēmumu reģistrā reģistrētajiem uzņēmumiem (uzņēmējsabiedrībām).

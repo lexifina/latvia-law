@@ -1,0 +1,1 @@
+14. Grozījumi šā likuma 16.panta trešajā daļā attiecībā uz zvejas ierobežojumiem Cirmas ezerā, Dūņezerā, Feimaņu ezerā, Lielajā Ludzas ezerā, Liepājas ezerā, Lilastes ezerā, Papes ezerā, Virtukšņas ezerā un Zosnas ezerā stājas spēkā 2005.gada 1.janvārī, bet grozījumi šā likuma 16.panta ceturtajā daļā attiecībā uz zvejas ierobežojumiem Buļļupē un Daugavā - 2005.gada 16.aprīlī.

@@ -1,0 +1,1 @@
+13. Grozījumi šā likuma 7.panta sestajā daļā attiecībā uz priekšroku, iznomājot zvejas tiesības komercsabiedrībām un individuālajiem komersantiem, kas saistīti ar komerciālo zveju, kā arī personām, kas nodarbojas ar pašpatēriņa zveju, neattiecas uz zvejas tiesību nomas līgumiem, kuri noslēgti 2004.gadam.

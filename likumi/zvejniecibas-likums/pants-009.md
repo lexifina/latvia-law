@@ -4,13 +4,13 @@
 (3) Gar upēm un ezeriem tauvas josla nav jānorobežo ar speciālām zīmēm; zemes īpašumu plānos tā apzīmējama kā lietošanas tiesību ierobežojums.
 (4) Tauvas josla gar mākslīgi izbūvētiem kanāliem, hidrotehniskām būvēm un citām būvēm uz ūdens (mākslīgi izbūvēta tauvas josla) nosakāma saskaņā ar šo būvju plāniem. To uztur un apsaimnieko attiecīgie īpašnieki (lietotāji).
 (5) Piekrastes zemes īpašniekiem ir tiesības lietot tauvas joslu, ciktāl šīs tiesības neierobežo šis likums, citi likumi un normatīvie akti.
-(6) Tauvas joslas bezmaksas lietošana ir paredzēta:
+(6) Tauvas joslas bezmaksas lietošana bez iepriekšējas saskaņošanas ar zemes īpašnieku ir paredzēta:
 1) kājāmgājējiem;
-2) zivju resursu un ūdeņu uzraudzībai;
+2) zivju resursu un ūdeņu uzraudzībai un izpētei;
 3) robežapsardzībai;
 4) vides aizsardzības, ugunsdrošības un glābšanas pasākumu veikšanai.
-(7) Tikai vides aizsardzības institūciju speciāli norādītās vietās un pēc saskaņošanas ar zemes īpašnieku tauvas joslā ir atļauta:
-1) laivu un kuģu piestāšana, to kravu izkraušana un pagaidu uzglabāšana;
+(7) Pēc saskaņošanas ar zemes īpašnieku tauvas joslā ir atļauta:
+1) laivu un kuģu piestāšana (izņemot zvejas uzraudzības dienesta laivas un kuģus, ja tie izmantoti, pildot dienesta pienākumus), to izkraušana un pagaidu uzglabāšana;
 2) laivu un kuģu pārziemošana, būve un remonts;
 3) zvejnieku apmetņu ierīkošana, atpūta, zvejas rīku žāvēšana un citas ar zveju saistītas darbības;
 4) ūdenstūristu apmetņu ierīkošana.

@@ -1,0 +1,1 @@
+12. Ministru kabinets līdz 2004.gada 31.decembrim izdod šā likuma 26.panta septītajā daļā minētos noteikumus par kārtību, kādā nosaka un veic vides sakopšanas darbus, kas kompensē zivju resursiem nodarītos zaudējumus.
