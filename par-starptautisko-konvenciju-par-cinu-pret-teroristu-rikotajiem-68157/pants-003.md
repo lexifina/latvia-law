@@ -1,0 +1,1 @@
+3.pants. Ārlietu ministrija saskaņā ar Konvencijas 6.panta trešo daļu informē Apvienoto Nāciju Organizācijas ģenerālsekretāru par to, ka Latvijas Republika nodibina jurisdikciju pār visiem Konvencijas 6.panta otrajā daļā paredzētajiem noziedzīgajiem nodarījumiem.

@@ -1,0 +1,1 @@
+4.pants. Ģenerālprokuratūra saskaņā ar Konvencijas 7.panta sesto daļu paziņo Apvienoto Nāciju Organizācijas ģenerālsekretāram par personas apcietināšanas faktu un par apstākļiem, kas attaisno attiecīgās personas apcietināšanu.
