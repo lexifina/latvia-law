@@ -1,0 +1,2 @@
+2.pants. Pienākums likumīgi rīkoties ar valsts un pašvaldību finansu līdzekļiem un mantu
+Jebkurai rīcībai ar valsts un pašvaldību finansu līdzekļiem un mantu ir jābūt likumīgai, tas ir, ar tiem drīkst rīkoties tikai atbilstoši likumos, Ministru kabineta noteikumos, nolikumos un citos normatīvajos aktos, kā arī pašvaldību domju (padomju) pieņemtajos saistošajos noteikumos un citos pašvaldību domju (padomju) pieņemtajos normatīvajos aktos noteiktajiem mērķiem un paredzētajā kārtībā.

@@ -1,0 +1,2 @@
+8. pants. Aizliegums iegādāties īpašumā vai lietošanā mantu vai izmantot pakalpojumus vai darbus par paaugstinātu cenu
+Pašvaldībām, valsts un pašvaldību iestādēm, uzņēmumiem un statūtsabiedrībām, kā arī uzņēmējsabiedrībām, kurās valsts vai pašvaldības daļa pamatkapitālā pārsniedz 50 procentus, aizliegts iegādāties īpašumā vai lietošanā mantu vai arī pasūtīt pakalpojumus vai darbus par acīm redzami paaugstinātu cenu.
