@@ -1,5 +1,5 @@
 5. pants. Satversmes aizsardzības biroja direktors
-(1) Satversmes aizsardzības biroja direktoru ieceļ amatā uz pieciem gadiem un atbrīvo no amata Saeima pēc Nacionālās drošības padomes priekšlikuma. Par Satversmes aizsardzības biroja direktoru var būt persona, uz kuru neattiecas Valsts drošības iestāžu likuma 18.pantā noteiktie ierobežojumi, kurai ir augstākā juridiskā izglītība un vismaz triju gadu darba pieredze ne zemākā amatā kā Latvijas Republikas valsts drošības iestādes operatīvās struktūrvienības vadītāja vai viņa vietnieka amats un kura ir saņēmusi pirmās kategorijas speciālo atļauju pieejai valsts noslēpumam.
+(1) Satversmes aizsardzības biroja direktoru ieceļ amatā uz pieciem gadiem un atbrīvo no amata Saeima pēc Nacionālās drošības padomes priekšlikuma. Par Satversmes aizsardzības biroja direktoru var būt persona, uz kuru neattiecas Valsts drošības iestāžu likuma 18.pantā noteiktie ierobežojumi, kurai ir augstākā izglītība un kura ir saņēmusi pirmās kategorijas speciālo atļauju pieejai valsts noslēpumam.
 (2) Satversmes aizsardzības biroja direktors par biroja darbību sniedz pārskatus Saeimas Nacionālās drošības komisijai.
 (3) Satversmes aizsardzības biroja direktoram ir vietnieki, viens no tiem - pirmais vietnieks.
 (4) Satversmes aizsardzības biroja direktors ir Valsts drošības iestāžu padomes vadītājs.
@@ -21,7 +21,7 @@
 8) nosaka kārtību, kādā izdarāma informācijas apmaiņa starp valsts drošības iestādēm;
 9) organizē atsevišķu Saeimas Nacionālās drošības komisijas un Ministru kabineta dotu uzdevumu izpildi;
 10) nosaka, saskaņojot ar attiecīgo valsts pārvaldes institūciju vadītājiem, kārtību, kādā izmantojami šo institūciju darbinieki, kā arī tehniskie līdzekļi un visu veidu informācijas nesēji, ja tas nepieciešams likumos noteikto valsts drošības iestāžu uzdevumu veikšanai.
-(7) Satversmes aizsardzības biroja direktors vai viņa īpaši pilnvarota biroja amatpersona ir tiesīgi brīvi iepazīties ar valsts drošības iestāžu, valsts iestāžu un pašvaldību rīcībā esošo visu veidu informāciju un materiāliem neatkarīgi no to izmantošanas lieguma, saņemt šo informāciju un materiālus.
+(7) Satversmes aizsardzības biroja direktors vai viņa īpaši pilnvarota biroja amatpersona ir tiesīgi brīvi iepazīties ar valsts drošības iestāžu, valsts iestāžu un pašvaldību rīcībā esošo visu veidu informāciju un materiāliem neatkarīgi no to izmantošanas lieguma saņemt šo informāciju un materiālus.
 (8) Valsts pārvaldes institūcijām ir jāsaskaņo ar Satversmes aizsardzības biroja direktoru tām pakļauto valsts drošības iestāžu vadītāju iecelšana amatos un atbrīvošana no amatiem.
 (9) Satversmes aizsardzības biroja direktors ir personiski atbildīgs par valsts drošības apdraudējumu savlaicīgu atklāšanu, un viņa pienākums ir par to nekavējoties ziņot Saeimas Nacionālās drošības komisijai, Nacionālās drošības padomei un Ministru kabinetam.
 (10) Uzdevumi un norādījumi, ko likumā noteiktās kompetences ietvaros devis Satversmes aizsardzības biroja direktors, valsts drošības iestādēm ir obligāti. Ja tie netiek izpildīti, direktors ir tiesīgs ierosināt pret vainīgajām amatpersonām disciplinārlietu un nodot to izskatīšanai pēc piekritības.
