@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2002.gada 12.marta Ministru kabineta noteikumi Nr.118 \nNoteikumi par virszemes un pazemes ūdeņu kvalitāti",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "50 (2625)",
+  "official_journal_page": null,
+  "official_journal_date": "2002-04-03",
+  "entry_into_force": "2002-04-04",
+  "notification_date": "2015-11-26",
+  "commission_reference": "MNE(2015)58770",
+  "nim_celex": "72013L0039LVA_232190",
+  "nim_id": "232190",
+  "transposes_celex": [
+    "32013L0039"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b2f5144a-af1b-4c3b-85d4-e1f386fb37ee",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
