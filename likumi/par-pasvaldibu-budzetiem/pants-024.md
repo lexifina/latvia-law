@@ -1,0 +1,1 @@
+24.pants. Lai īstenotu ekonomiskās un sociālās programmas, kurām nepieciešamas investīcijas, pašvaldības var ņemt ilgtermiņa aizņēmumus. Šādus aizņēmumus nedrīkst izmantot pašvaldību pastāvīgo (kārtējo) izdevumu finansēšanai.

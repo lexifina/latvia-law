@@ -1,0 +1,1 @@
+19.pants. Ja līdz saimnieciskā gada sākumam pašvaldības budžets nav apstiprināts, pašvaldības izdevumi mēnesī nedrīkst pārsniegt divpadsmito daļu no iepriekšējā gada izdevumiem ar noteikumu, ka salīdzinājumā ar iepriekšējo gadu pašvaldībai nesamazinās izpildāmo funkciju apjoms.

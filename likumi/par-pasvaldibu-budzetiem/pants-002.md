@@ -1,0 +1,1 @@
+2.pants. Pašvaldību budžetu mērķis ir noteikt un pamatot, kāds līdzekļu apjoms tām nepieciešams ar likumu noteikto funkciju, uzdevumu un brīvprātīgo iniciatīvu izpildei periodā, kuram šie līdzekļi ir paredzēti.

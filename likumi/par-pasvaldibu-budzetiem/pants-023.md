@@ -1,0 +1,1 @@
+23.pants. Budžeta un finansu vadības nolūkā, lai segtu īslaicīgu pašvaldības finansu līdzekļu deficītu, pašvaldības var ņemt īstermiņa aizņēmumus. Aizņēmumi no valsts budžeta pašvaldībām jāatmaksā līdz saimnieciskā gada beigām.

@@ -1,0 +1,1 @@
+32.pants. Pašvaldības budžeta norēķinus reģistrē pašvaldības grāmatvedības dokumentos Finansu ministrijas noteiktajā kārtībā. Grāmatvedības dokumentos nedrīkst izdarīt ierakstus, kuri nav pamatoti ar attaisnojuma dokumentiem.

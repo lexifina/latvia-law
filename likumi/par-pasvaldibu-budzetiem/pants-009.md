@@ -1,0 +1,1 @@
+9.pants. Pašvaldībām ir tiesības piemērot nodokļu atvieglojumus maksājumiem, kuri pašvaldību budžetos tiek maksāti konkrētajā nodokļu likumā paredzētajā kārtībā, kā arī uzlikt pašvaldību nodevas un noteikt to likmes likumā "Par nodokļiem un nodevām" noteiktajā kārtībā.

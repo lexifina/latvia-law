@@ -1,0 +1,1 @@
+35.pants. Atbildību par likumos un Ministru kabineta noteikumos noteiktās pašvaldību budžetu sastādīšanas un izlietošanas kārtības neievērošanu un sankcijas par šīs kārtības pārkāpumiem nosaka likumi.

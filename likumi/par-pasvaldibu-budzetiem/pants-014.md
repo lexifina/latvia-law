@@ -1,0 +1,1 @@
+14.pants. Pagastu, pilsētu un rajonu pašvaldības budžetus sastāda patstāvīgi, atbilstoši likumiem, Ministru kabineta noteikumiem, izstrādāšanas grafikam un Finansu ministrijas norādījumiem saskaņā ar tās kompetenci.

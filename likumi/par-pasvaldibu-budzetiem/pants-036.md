@@ -1,0 +1,1 @@
+36.pants. Pašvaldību budžetu sastādīšanas un izlietošanas atbilstību likumiem, Ministru kabineta noteikumiem, kā arī domes (padomes) lēmumiem kontrolē pagastu, pilsētu vai rajonu pašvaldību revīzijas komisijas, kuras šo uzdevumu veikšanā ir tiesīgas pieaicināt zvērinātus revidentus vai auditorfirmas.
