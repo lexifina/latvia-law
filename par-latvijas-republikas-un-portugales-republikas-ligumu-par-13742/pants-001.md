@@ -1,0 +1,1 @@
+1.pants. 2000.gada 17.oktobrī Lisabonā parakstītais Latvijas Republikas un Portugāles Republikas līgums par sadarbību izglītībā, kultūrā, zinātnē un tehnoloģijā (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
