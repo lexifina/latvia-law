@@ -1,0 +1,1 @@
+5. Personām, kurām bezdarbnieka pabalsts piešķirts līdz šā likuma spēkā stāšanās dienai, par bezdarba periodu, kas nepārtraukti turpinās pēc šā likuma stāšanās spēkā, pabalstu izmaksā saskaņā ar normatīvajiem aktiem, kuri bija spēkā pabalsta piešķiršanas dienā.

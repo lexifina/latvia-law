@@ -1,0 +1,7 @@
+5.pants. Tiesības uz bezdarbnieka pabalstu
+(1) Tiesības uz bezdarbnieka pabalstu ir bezdarbniekam, kuram apdrošināšanas stāžs ir ne mazāks par vienu gadu, ja par viņu Latvijas Republikā ir veiktas obligātās sociālās apdrošināšanas iemaksas bezdarba gadījumam (turpmāk - iemaksas bezdarba gadījumam) ne mazāk kā deviņus mēnešus pēdējo 12 mēnešu periodā pirms bezdarbnieka statusa iegūšanas dienas.
+(2) Ja par bezdarbnieku pēdējo 12 mēnešu periodā pirms bezdarbnieka statusa iegūšanas dienas iemaksas bezdarba gadījumam ir veiktas mazāk nekā deviņus mēnešus un ja tās ir veiktas arī par periodu pēc bezdarbnieka statusa iegūšanas dienas, nosakot tiesības uz bezdarbnieka pabalstu, ņem vērā iemaksas bezdarba gadījumam par pēdējo 12 mēnešu periodu pirms pabalsta pieprasīšanas dienas.
+(3) Bezdarbniekam, par kuru pēdējo 12 mēnešu periodā pirms bezdarbnieka statusa iegūšanas dienas iemaksas bezdarba gadījumam nav veiktas vai ir veiktas mazāk nekā deviņus mēnešus, ir tiesības uz bezdarbnieka pabalstu, ja attiecīgajā periodā viņš ir piederējis pie vienas no šādām personu kategorijām:
+1) pēc invaliditātes ir atguvis darbspējas;
+2) ir kopis bērnu invalīdu līdz 16 gadu vecumam.
+(4) Šā panta trešajā daļā noteiktajai personai bezdarbnieka pabalstu piešķir, ja tā bezdarbnieka statusa iegūšanai reģistrējusies Nodarbinātības valsts dienestā viena mēneša laikā no dienas, kad atguvusi darbspējas, vai no dienas, kad personas kopjamais bērns invalīds ir sasniedzis 16 gadu vecumu vai miris, nesasniedzot 16 gadu vecumu.

@@ -1,0 +1,1 @@
+4. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par obligāto sociālo apdrošināšanu bezdarba gadījumam" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 1., 22.nr.; 1997, 3., 13.nr.).

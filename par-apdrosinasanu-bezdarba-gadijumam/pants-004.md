@@ -1,0 +1,3 @@
+4.pants. Līdzekļi bezdarba apdrošināšanas pakalpojumu un nodarbinātības pasākumu finansēšanai
+(1) Šā likuma 2.pantā noteiktos bezdarba apdrošināšanas pakalpojumus finansē no valsts sociālās apdrošināšanas nodarbinātības speciālā budžeta (turpmāk - nodarbinātības speciālais budžets).
+(2) Nodarbinātības speciālā budžeta līdzekļi tiek izmantoti arī likumā "Par nodarbinātību" noteikto bezdarbnieku aktīvās nodarbinātības pasākumu finansēšanai, bet ne vairāk kā 10 procentu apmērā no gadskārtējā valsts budžeta likumā noteiktā nodarbinātības speciālā budžeta līdzekļu kopējā apmēra, konkrētu nodarbinātības speciālā budžeta līdzekļu summu bezdarbnieku aktīvās nodarbinātības pasākumu finansēšanai nosakot gadskārtējā valsts budžeta likumā.
