@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Valsts civildienesta likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "331/333",
+  "official_journal_page": null,
+  "official_journal_date": "2000-09-22",
+  "entry_into_force": "2001-01-01",
+  "notification_date": "2007-01-11",
+  "commission_reference": "MNE(2007)50287",
+  "nim_celex": "71975L0117LVA_140130",
+  "nim_id": "140130",
+  "transposes_celex": [
+    "31975L0117",
+    "31976L0207",
+    "31997L0080",
+    "32000L0043",
+    "32000L0078",
+    "32002L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f9bca308-de72-4daf-9661-b8415c55272a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
