@@ -1,0 +1,1 @@
+2.pants. Saskaņā ar Konvencijas 9.pantu Latvija nepiemēro Eiropas Konvencijas par izdošanu 14.pantā minētos noteikumus, ja persona saskaņā ar Konvencijas 7.pantu piekrīt izdošanai un skaidri atsakās no tiesībām uz īpašiem noteikumiem.

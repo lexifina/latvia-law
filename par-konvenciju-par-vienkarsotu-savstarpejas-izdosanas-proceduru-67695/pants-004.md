@@ -1,0 +1,1 @@
+4.pants. Saskaņā ar Konvencijas 12.panta trešo daļu Latvija gadījumos, kad nav iesniegts pieprasījums par pagaidu apcietināšanu un pēc pieprasījuma par izdošanu ir saņemta personas piekrišana, var izmantot šajā Konvencijā noteikto vienkāršoto procedūru.

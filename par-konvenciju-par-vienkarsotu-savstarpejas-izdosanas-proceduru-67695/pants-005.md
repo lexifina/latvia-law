@@ -1,0 +1,1 @@
+5.pants. Saskaņā ar Konvencijas 16.panta trešo daļu, līdz Konvencija stājas spēkā, Latvija piemēro Konvenciju attiecībās ar tām dalībvalstīm, kuras sniegušas šajā Konvencijas pantā paredzēto paziņojumu. Šis paziņojums stājas spēkā 90 dienas pēc tā deponēšanas.

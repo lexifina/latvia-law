@@ -1,0 +1,1 @@
+3.pants. Saskaņā ar Konvencijas 12.panta trešo daļu Latvija gadījumos, kad apcietinātā persona ir devusi savu piekrišanu pēc Konvencijas 8.pantā noteiktā 10 dienu termiņa, var izmantot vienkāršoto procedūru, ja tā šajā laikā ir saņēmusi pieprasījumu par izdošanu Eiropas Konvencijas par izdošanu 12.panta izpratnē.
