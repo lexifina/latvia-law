@@ -1,0 +1,1 @@
+5.pants. Konvencijas un tās 1976.gada 19.novembra protokola denonsēšana stājas spēkā Protokola 17.pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo laikrakstā "Latvijas Vēstnesis".

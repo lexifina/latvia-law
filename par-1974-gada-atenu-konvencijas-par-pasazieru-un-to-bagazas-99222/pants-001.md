@@ -1,0 +1,1 @@
+1.pants. 1974.gada 13.decembra Atēnu konvencijas par pasažieru un to bagāžas jūras pārvadājumu (turpmāk - Konvencija) 2002.gada 1.novembra protokols (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
