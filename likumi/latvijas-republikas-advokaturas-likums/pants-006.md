@@ -8,3 +8,4 @@ Aizliegts:
 5) pieprasīt no klientiem ziņas par advokātu sniegtās palīdzības faktu un tās saturu;
 6) pakļaut advokātus jebkādām sankcijām vai draudiem sakarā ar juridiskās palīdzības sniegšanu klientiem saskaņā ar likumu;
 7) saukt advokātus pie jebkura veida atbildības par rakstveida vai mutvārdos izteiktiem paziņojumiem, kurus viņi snieguši, godprātīgi pildot savus profesionālos pienākumus.
+Par juridiskās palīdzības sniegšanu nav atzīstama advokāta nelikumīga darbība klienta interesēs, kā arī darbība klienta nelikumīga nodarījuma veicināšanai.
