@@ -4,8 +4,8 @@
 1) kurai šāds statuss noteikts ar likumu;
 2) kas paredzēta un noteikta iestādes iekšējai lietošanai;
 3) par uzņēmējdarbības noslēpumiem, izņemot gadījumus, kad ir noslēgts iepirkuma līgums saskaņā ar likumu "Par iepirkumu valsts vai pašvaldību vajadzībām" vai cita veida līgums par rīcību ar valsts vai pašvaldību finanšu līdzekļiem un mantu;
-3¹) dienesta vajadzībām;
 4) par fiziskās personas privāto dzīvi;
-5) kas attiecas uz atestācijas, eksāmenu, iesniegto projektu, konkursu (izņemot konkursus, kas saistīti ar iepirkumiem valsts vai pašvaldību vajadzībām vai citādi saistīti ar rīcību ar valsts vai pašvaldību finanšu līdzekļiem un mantu) un citu līdzīga rakstura novērtējumu procesu.
+5) kas attiecas uz atestācijas, eksāmenu, iesniegto projektu (izņemot projektus, kuru finansēšana paredzēta ar valsts sniegtu galvojumu), konkursu (izņemot konkursus, kas saistīti ar iepirkumiem valsts vai pašvaldību vajadzībām vai citādi saistīti ar rīcību ar valsts vai pašvaldību finanšu līdzekļiem un mantu) un citu līdzīga rakstura novērtējumu procesu;
+6) dienesta vajadzībām.
 (3) Norādot šajā likumā vai citos likumos paredzēto pamatojumu, ierobežotas pieejamības informācijas statusu ir tiesīgs ar savu rīkojumu noteikt informācijas autors vai iestādes vadītājs.
 (4) Par ierobežotas pieejamības informāciju nav uzskatāmas ziņas, kas ir pieejamas sabiedrībai bez likumā paredzētajiem ierobežojumiem vai kas ir jau publicētas.
