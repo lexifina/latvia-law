@@ -1,0 +1,1 @@
+5.pants. Uz šā likuma pamata un saskaņā ar Līguma 131.pantu Latvijas Republikas Ārlietu ministrija sagatavo ratifikācijas rakstu un nosūta to Eiropas savienības Padomes Ģenerālsekretariātam, kas ir šā Līguma uzglabātājs.

@@ -1,0 +1,1 @@
+1.pants. 1995.gada 12.jūnijā Luksemburgā parakstītais Eiropas līgums (turpmāk - Līgums), Līguma protokoli (turpmāk - protokoli), Līguma pielikumi (turpmāk - pielikumi), kā arī Līgumam pievienotās daudzpusējās un vienpusējās deklarācijas (turpmāk - daudzpusējās un vienpusējās deklarācijas) ar šo likumu tiek pieņemtas un apstiprinātas.
