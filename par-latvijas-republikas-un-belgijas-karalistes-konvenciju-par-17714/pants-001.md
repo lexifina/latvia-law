@@ -1,0 +1,1 @@
+1.pants. 1999.gada 21.aprīlī Briselē parakstītā Latvijas Republikas un Beļģijas Karalistes konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma nodokļiem (turpmāk - Konvencija) un tās 1999.gada 21.aprīlī Briselē parakstītais protokols (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.
