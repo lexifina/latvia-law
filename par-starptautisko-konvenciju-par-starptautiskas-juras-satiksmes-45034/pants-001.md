@@ -1,0 +1,1 @@
+1.pants. 1965.gada 9.aprīlī Londonā parakstītā Starptautiskā konvencija par starptautiskās jūras satiksmes atvieglošanu (turpmāk - Konvencija) un tās pielikums (turpmāk - Pielikums) ar šo likumu tiek pieņemti un apstiprināti.
