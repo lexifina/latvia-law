@@ -1,0 +1,2 @@
+KONVENCIJA PAR EIROPAS PATENTU PIEŠĶIRŠANU
+(Eiropas Patentu Konvencija)

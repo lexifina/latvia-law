@@ -1,0 +1,1 @@
+3.pants. Konvencija stājas spēkā tās 169.pantā noteiktajā laikā un kārtībā, Vienošanās stājas spēkā tās 6.pantā noteiktajā laikā un kārtībā, Grozījumi stājas spēkā to 8.pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo laikrakstā "Latvijas Vēstnesis".
