@@ -1,0 +1,1 @@
+3.pants. Uz šā likuma pamata un saskaņā ar Līguma 36.pantu Latvijas Republikas Ārlietu ministrija sagatavo ratifikācijas rakstu un nosūta to Norvēģijas Karalistes valdībai, kas ir šā Līguma depozitārijs.
