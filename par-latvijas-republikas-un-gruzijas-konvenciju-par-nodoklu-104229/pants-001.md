@@ -1,0 +1,1 @@
+1.pants. 2004.gada 13.oktobrī parakstītā Latvijas Republikas un Gruzijas konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem (turpmāk - Konvencija) un tās 2004.gada 13.oktobrī parakstītais protokols (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
