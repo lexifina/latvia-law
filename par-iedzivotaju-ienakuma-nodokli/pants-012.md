@@ -1,3 +1,3 @@
-12. pants. Gada (mēneša) neapliekamais minimums
-Maksātāja gada (mēneša) apliekamajā ienākumā netiek ietverta summa vienas personas gada (mēneša) neapliekamā minimuma apmērā. Gada neapliekamo minimumu veido mēnešu neapliekamo minimumu summa.
-Mēneša neapliekamā minimuma apmēru nosaka Latvijas Republikas valdība.
+12. pants. Maksātāja gada neapliekamais minimums
+1. Maksātāja gada apliekamajā ienākumā netiek ietverta summa vienas personas gada neapliekamā minimuma apmērā. Gada neapliekamais minimums ir visu gada mēnešu neapliekamo minimumu summa. Mēneša neapliekamā minimuma apmēru nosaka Ministru kabinets.
+2. Nerezidentiem neapliekamais minimums netiek piemērots.

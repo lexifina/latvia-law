@@ -1,3 +1,3 @@
 25. pants. Nodokļa maksāšanas vieta
-Nodokļa summa tiek iemaksāta un sadalīta starp dažādu līmeņu budžetiem pēc maksātāja dzīvesvietas.
-Nodokļa summa, kas ieturēta no personām, kurām Latvijas Republika nav pastāvīgā dzīvesvieta, tiek iemaksāta un sadalīta starp dažādu līmeņu budžetiem pēc darba devēja atrašanās vietas.
+1. Iekšzemes nodokļa maksātāja (rezidenta) nodokļa summa tiek iemaksāta budžetā, pamatojoties uz šā likuma 26.panta nosacījumiem.
+2. Nodokļa summas, ko iemaksājušas šā likuma 2.panta 2.punktā minētās personas, tiek ieskaitītas pašvaldības budžetā pēc darba devēja vai nekustamā īpašuma atrašanās vietas.

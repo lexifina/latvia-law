@@ -1,5 +1,4 @@
 33. pants. Darba devēja atbildība
-1. Par laikā neieturēto, nepilnīgi ieturēto vai budžetā nepārskaitīto nodokļu summām nodokļu inspekcija uzliek soda naudu -150 procentus no attiecīgajam summām - un piedzen bezstrīda kārtībā.
-2. Par nokavētajiem nodokļa pārskaitījumiem budžetā darba devējam tiek uzlikts naudas sods - 0,3 procenti no nepārskaitītās nodokļa summas par katru kavējuma dienu.
-3. Par paziņojumu, grāmatiņu un nodokļa karšu nenosūtīšanu nodokļu inspekcijai darba devējam tiek uzlikts naudas sods piecu mēneša neapliekamo minimumu apmērā par katru nenosūtīto dokumentu.
-4. Par tādu personu nodarbināšanu, kuras nav iesniegušas grāmatiņu vai gada karti, vai darba atļauju, izņemot 5. panta 2. punktā paredzētos gadījumus, darba devējam tiek uzlikta soda nauda desmit mēneša neapliekamo minimumu apmērā.
+1. Par ieturētā algas nodokļa savlaicīgu neiemaksāšanu (nepār skaitīšanu) budžetā darba devējs maksā nokavējuma naudu - 0,3 procentus no nodokļa summas par katru kavējuma dienu.
+2. Par paziņojumu un karšu nenosūtīšanu nodokļu inspekcijai no darba devēja tiek piedzīta soda nauda 100 latu apmērā par katru nenosūtīto dokumentu.
+3. Par tādu personu nodarbināšanu, kuras nav iesniegušas grāmatiņu vai karti vai nav uzrādījušas darba atļauju, izņemot šā likuma 5.panta otrajā daļā paredzētos gadījumus, darba devējam tiek uzlikta soda nauda 200 latu apmērā par katru personu.

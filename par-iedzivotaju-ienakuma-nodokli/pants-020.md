@@ -1,7 +1,10 @@
-20. pants. Atbrīvojumi no ienākuma deklarēšanas
+20. pants. Ienākumu deklarēšanas atvieglojumi
 1. Tiesības neiesniegt deklarāciju ir šādām iedzīvotāju kategorijām:
-1) personām, kuras ir jaunākas par 16 gadiem;
-2) personām, kurām taksācijas gadā ienākuma gūšanas periods Latvijas Republikā ir bijis mazāks par 183 dienām, izņemot personas, kuras guvušas šā likuma 8. panta trešās daļas 1., 3., 4. un 5. punktā minētos ieņēmumus;
-3) personām, kuru gada ienākuma kopējais apjoms nepārsniedz gada neapliekamo minimumu;
-4) personām, kuras guvušas ienākumus tikai kā darba ņēmējas, ja to ienākums nepārsniedz summu, kas vienāda ar 20 gada neapliekamajiem minimumiem.
-2. Šā panta pirmajā daļā minētajām personām, izņemot personas, kuras ir jaunākas par 16 gadiem, jāiesniedz nodokļu inspekcijai pēc savas dzīvesvietas paziņojums par deklarācijas neizpildīšanu.
+1) personām, kuras ir jaunākas par 16 gadiem, ja tās negūst ar nodokli apliekamus ienākumus;
+2) nerezidentiem (šā likuma 2.panta 2.punktā minētajām personām), izņemot personas, kuras guvušas šā likuma 8.panta trešās daļas 1., 2., 3., 4., 5., 6., 7. un 10. punktā minētos ienākumus;
+3) personām, kuru gada ienākuma kopējais apjoms nepārsniedz gada neapliekamo minimumu.
+2. Šā panta pirmās daļas 1. un 3.punktā minētajām personām, izņemot personas, kuras ir jaunākas par 16 gadiem, jāiesniedz nodokļu inspekcijai pēc savas dzīvesvietas paziņojums par deklarācijas neiesniegšanu.
+3. Tiesības iesniegt saīsinātu gada ienākumu deklarāciju ir:
+1) personām, kuras guvušas ienākumus tikai kā darba ņēmējas;
+2) personām, kuras guvušas tikai šā likuma 8.panta trešās daļas 1., 2., 3., 4., 5., 6., 7., 8. un 10. punktā minētos ienākumus.
+4. Tiesības iesniegt saīsinātu deklarāciju taksācijas gada laikā ir personām, kas saņem šā likuma 8.panta trešās daļas 8. punktā noteiktos ienākumus.
