@@ -1,0 +1,1 @@
+117. Apliecinot, ka persona ir dzīva, zvērinātam notāram jāpārliecinās, ka persona, par kuru vajadzīgs apliecinājums, tiešām ir dzīva. Ja zvērināts notārs šo personu nepazīst, tās identitāte jāpārbauda 76. pantā noteiktajā kārtībā.

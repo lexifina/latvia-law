@@ -1,0 +1,2 @@
+174. Atvaļinājumu zvērinātam notāram piešķir tieslietu ministrs.
+Sevišķi steidzamos gadījumos zvērināts notārs var izlietot ārkārtas atvaļinājumu, kas nav ilgāks par trim dienām, iepriekš neizprasot tieslietu ministra atļauju, taču tad zvērinātam notāram, tiklīdz iespējams, jāpaziņo, kādēļ un cik ilgi viņš nav pildījis savus pienākumus. Šādos gadījumos zvērināta notāra pienākumus izpilda zvērināta notāra palīgs.

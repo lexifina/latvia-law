@@ -1,0 +1,1 @@
+203. Par zvērinātu notāru darbībā atklāto nepareizību novēršanu gādā apgabaltiesas priekšsēdētājs, dodot zvērinātiem notāriem norādījumus un rīkojumus un vajadzības gadījumā ierosinot saukt pie disciplinārās vai kriminālās atbildības.

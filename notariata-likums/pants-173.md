@@ -1,0 +1,1 @@
+173. Zvērinātam notāram ir tiesība uz četru nedēļu ikgadējo atvaļinājumu. Slimības vai citos svarīgos gadījumos zvērinātam notāram var piešķirt ilgāku atvaļinājumu, bet ne vairāk kā septiņus mēnešus gadā.

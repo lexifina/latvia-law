@@ -1,0 +1,1 @@
+194. Latvijas Zvērinātu notāru padome un tieslietu ministrs var uzlikt zvērinātam notāram par pienākumu personiski ierasties paskaidrojumu sniegšanai mutvārdos un par neierašanos sodīt viņu ar šā likuma 183. pantā paredzētajiem disciplinārsodiem.

@@ -1,0 +1,1 @@
+72. Personas, kas neprot vai nespēj parakstīties, uzdod to savā vietā izdarīt citai personai, ko ar savu parakstu apliecina šī persona un zvērināts notārs. Šajā gadījumā ir vajadzīgi Civillikuma 1494. pantā norādītie liecinieki.

@@ -1,0 +1,1 @@
+196. Latvijas Zvērinātu notāru padomei un tieslietu ministram, izskatot disciplinārlietas, ir tiesības uzklausīt arī citu personu paskaidrojumus, prasīt lietpratēju atzinumus, pieprasīt ziņas un dokumentus no valsts un pašvaldību institūcijām, kā arī no citām iestādēm, organizācijām un uzņēmējsabiedrībām (uzņēmumiem) un to amatpersonām.

@@ -1,0 +1,1 @@
+177. Iesniegumā par atvaļinājuma piešķiršanu zvērinātam notāram jānorāda persona, kas izpildīs viņa pienākumus atvaļinājuma laikā. Ja šos pienākumus uzņemas cits zvērināts notārs vai cita zvērināta notāra palīgs, iesniegumam pievienojams viņa paraksts par to, ka viņš ir ar mieru izpildīt atvaļinājumā ejošā zvērināta notāra pienākumus.

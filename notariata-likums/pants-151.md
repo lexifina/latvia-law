@@ -1,0 +1,1 @@
+151. Zvērināta notāra palīgs var aizstāt zvērinātu notāru atvaļinājuma un slimības laikā, kā arī gadījumos, kad darba laikā steidzami jāizdara notariāla darbība ārpus zvērināta notāra prakses vietas, un 37. pantā paredzētajā gadījumā.

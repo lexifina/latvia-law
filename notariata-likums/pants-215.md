@@ -1,0 +1,1 @@
+215. Latvijas Zvērinātu notāru kolēģijā pēc profesijas principa apvienoti zvērināti notāri, lai rūpētos par savas profesijas prestižu, veicinātu zvērinātu notāru profesionālo izaugsmi, radošo spēju izkopšanu un pieredzes apgūšanu, lai izpildītu šajā likumā un citos likumos noteiktos uzdevumus.

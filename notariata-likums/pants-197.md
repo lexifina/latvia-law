@@ -1,0 +1,1 @@
+197. Latvijas Zvērinātu notāru padomes vai tieslietu ministra lēmumus disciplinārlietās, izņemot tos lēmumus, kas izskaidro zvērināta notāra rīcības nepareizību, disciplināri sodītais var pārsūdzēt tiesā likumā noteiktajā kārtībā.

@@ -1,0 +1,1 @@
+191. Tieslietu ministram pirms disciplinārlietas izlemšanas tā jāiesniedz Latvijas Zvērinātu notāru padomei, lai tā dotu atzinumu par zvērināta notāra turpmāku atstāšanu amatā, atcelšanu no amata vai pārcelšanu uz citu prakses vietu.

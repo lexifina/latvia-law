@@ -1,0 +1,1 @@
+205. Sūdzības par zvērināta notāra nepareizu rīcību, izpildot amata pienākumus, kā arī sūdzības par atteikšanos izpildīt šos pienākumus, iesniedzamas apgabaltiesai, kuras uzraudzībai pakļauta zvērināta notāra darbība, mēneša laikā no dienas, kad zvērināts notārs izpildījis darbību, par kuru iesniegta sūdzību, vai kad viņš atteicies izpildīt šādu darbību.

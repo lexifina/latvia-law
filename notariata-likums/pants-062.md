@@ -1,0 +1,1 @@
+62. Pārņemot notariālās grāmatas un lietas, tiesnesis un viņa sekretārs tās noslēdz, apliecina atbilstoši 53. un 59. panta noteikumiem un to pēdējā lappusē taisa uzrakstu pēc pēdējiem ierakstiem grāmatās vai lietās, atzīmējot, kādā stāvoklī grāmatas vai lietas atrastas, kāds ir tajās aprakstīto lapu skaits un kādā stāvoklī ir auklas un zīmogi.

@@ -1,0 +1,1 @@
+187. Ja Latvijas Zvērinātu notāru padome, izskatot lietu par zvērināta notāra pārkāpumu, atrod, ka zvērinātam notāram jāuzliek bargāks sods, nekā to paredz 183. pants, tā lietu līdz ar savu atzinumu nosūta tieslietu ministram.

@@ -1,0 +1,1 @@
+111. Zvērināts notārs jautā akta uzrādītājam, vai viņam ir zināms akla saturs. Ja uzrādītājs paskaidro, ka viņš zina akta saturu, tad, zvērinātam notāram klāt esot, aktu paraksta vai atzīst par pašrocīgi parakstītu.

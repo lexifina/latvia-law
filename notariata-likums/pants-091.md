@@ -1,0 +1,1 @@
+91. Akts jāraksta skaidri; summas, datumi un numuri tajos vismaz vienu reizi jāraksta vārdiem, izņemot akta dalībnieku un liecinieku leģitimācijas dokumentu datumus un numurus, kā arī to namu numurus, kuri attiecas uz zvērināta notāra prakses vietas vai akta taisīšanas vietas un minēto personu dzīvesvietas adresi.

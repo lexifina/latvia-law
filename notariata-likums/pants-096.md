@@ -1,0 +1,1 @@
+96. Taisot aktu, rakstīt un lasīt nepratējam kurlajam līdztekus parastajiem lieciniekiem jāpieaicina vēl persona, kurai viņš uzticas un kura prot ar viņu izskaidroties. Šī persona var būt radniecībā vai svainībā ar kurlo, bet tai jāatbilst visām pārējām 86. panta prasībām.

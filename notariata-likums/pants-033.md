@@ -1,0 +1,1 @@
+33. Zvērināts notārs, uzsākot darbību, izsludina vietējā laikrakstā un paziņo attiecīgajām tiesām, tieslietu ministram un Latvijas Zvērinātu notāru padomei prakses vietas adresi. Šāds sludinājums publicējams un paziņojumi sniedzami arī adreses maiņas gadījumā.

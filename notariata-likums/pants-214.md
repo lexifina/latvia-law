@@ -1,0 +1,1 @@
+214. Latvijas Zvērinātu notāru kolēģija ir neatkarīga Latvijas zvērinātu notāru profesionāla korporācija, kas apvieno visus Latvijā praktizējošos zvērinātus notārus. Tikai Latvijas Zvērinātu notāru kolēģijai ir šajā likumā noteiktās tiesības un pienākumi.

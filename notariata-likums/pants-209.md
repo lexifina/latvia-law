@@ -1,0 +1,1 @@
+209. Tieslietu ministrs atbrīvo zvērinātu notāru no amata pēc viņa lūguma vai arī bez šāda lūguma, ja pēdējo divpadsmit mēnešu laikā zvērināts notārs slimības dēļ vairāk nekā septiņus mēnešus (173. pants) nav pildījis savus amata pienākumus.

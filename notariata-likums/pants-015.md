@@ -1,0 +1,1 @@
+15. Zvērinātam notāram aizliegts ieņemt algotu amatu vai uzņemties atsevišķus atalgojamus pienākumus valsts un pašvaldību institūcijās un uzņēmumos vai privātā dienestā, izņemot mācībspēku pienākumus izglītības iestādēs. Ja lietderība to prasa, izņēmumi no šā noteikuma iespējami ar tieslietu ministra atļauju, kuru katrā laikā var atsaukt.

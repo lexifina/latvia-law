@@ -1,0 +1,1 @@
+188. Tiesu, prokuratūras un pirmstiesas izmeklēšanas iestādes paziņo Latvijas Zvērinātu notāru padomei un tieslietu ministram par visām sūdzībām un prasībām, kuras ierosinātas saistībā ar zvērinātiem notāriem, kā arī piesūta Latvijas Zvērinātu notāru padomei šo sūdzību un prasību lietās taisīto galīgo spriedumu norakstus.

@@ -1,0 +1,1 @@
+152. Aizstājot zvērinātu notāru, zvērināta notāra palīgam par savu amata darbību ir tāda pati disciplinārā, kriminālā un materiālā atbildība, kāda paredzēta zvērinātiem notāriem; par sava palīga amata darbību subsidiāri materiāli atbildīgs ir arī zvērināts notārs.

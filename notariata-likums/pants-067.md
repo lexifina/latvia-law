@@ -1,0 +1,1 @@
+67. Zvērināts notārs aprēķina un iekasē valsts nodevas, kā arī norēķinās par iekasētajām summām saskaņā ar attiecīgiem likumiem, aktā vai apliecinājumā izdarot atzīmi par nodevu samaksu vai atsvabinājumu no tām.

@@ -1,0 +1,1 @@
+42. Atsevišķie rīkojumi, kas izteikti zvērināta notāra taisītos vai apliecinātos aktos un ir viņa paša vai citu iepriekšējā (41.) pantā minēto personu labā, nav spēkā, bet paši akti vai apliecinājumi paliek spēkā.

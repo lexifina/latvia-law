@@ -1,0 +1,1 @@
+36. Darba laikā (35. pants) zvērināts notārs taisa aktus un apliecinājumus savas prakses vietas telpās. Personām, kas nevar ierasties pie zvērināta notāra, viņš var taisīt aktus un apliecinājumus šo personu atrašanās vietā un arī pēc darba laika.

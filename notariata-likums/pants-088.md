@@ -1,0 +1,1 @@
+88. Zvērināts notārs projektu nolasa akta dalībniekiem un jautā, vai viņi saprot tā saturu un nozīmi un vai viņi aktu taisa labprātīgi. Ja akta dalībnieki to apstiprina, projekts viņiem un zvērinātam notāram jāparaksta.

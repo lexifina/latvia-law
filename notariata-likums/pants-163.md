@@ -1,0 +1,1 @@
+163. Par katru amata darbību (65. pants), ko izpilda zvērināti notāri, kā arī par sniegto juridisko palīdzību (66. pants) viņiem ir tiesība neatkarīgi no valsts nodevām ņemt atlīdzību. Zvērināti notāri par atlīdzības apmēru rakstveidā vienojas ar klientu, bet, ja šādas vienošanās nav, atlīdzību nosaka atbilstoši taksei (165. pants).

@@ -1,0 +1,1 @@
+226. Latvijas Zvērinātu notāru padomes vēlēšanas zvērinātu notāru kopsapulcē izdarāmas pēc tam, kad kopsapulce ir apspriedusi Latvijas Zvērinātu notāru padomes darbības pārskatu un iepriekšējā gada budžeta izpildes pārskatu un noteikusi ievēlējamo Latvijas Zvērinātu notāru padomes locekļu skaitu.

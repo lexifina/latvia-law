@@ -1,0 +1,1 @@
+41. Zvērinātam notāram aizliegts taisīt aktus vai apliecinājumus sev pašam, savam laulātajam, saviem un laulātā radiniekiem taisnā līnijā visās pakāpēs, sānu līnijā - līdz ceturtajai pakāpei un svainiešiem - līdz trešajai pakāpei, kā arī zvērināta notāra vai viņa laulātā aizbildnībā vai aizgādnībā esošām personām vai zvērināta notāra vai viņa laulātā adoptētājiem vai adoptētiem.

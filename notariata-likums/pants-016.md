@@ -1,0 +1,1 @@
+16. Zvērināta notāra amata pretendentus pārbauda īpaša eksāmenu komisija, kuru ieceļ tieslietu ministrs, izraugot pārstāvjus no Tieslietu ministrijas, tiesām, zemesgrāmatu nodaļu priekšniekiem un zvērinātiem notāriem un saskaņojot to ar Latvijas Zvērinātu notāru padomi. Komisijas priekšsēdētājs ir Tieslietu ministrijas pārstāvis.

@@ -1,0 +1,1 @@
+198. Ja zvērināts notārs, izpildot amata pienākumus, ar nepareizu vai pretlikumīgu darbību vai bezdarbību ir nodarījis kādam zaudējumus, tad neatkarīgi no atbildības disciplinārā vai kriminālā kārtībā tos sedz no zvērināta notāra apdrošināšanas atlīdzības, vai, ja tās nepietiek, no jebkuras zvērināta notāra mantas.

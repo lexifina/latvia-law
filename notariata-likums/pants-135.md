@@ -1,0 +1,1 @@
+135. Paziņojumus zvērināts notārs nodod mutvārdos vai rakstveidā; ja tos nodod rakstveidā, adresātam izsniedz ar valsts nodevu neapmaksājumu iesniegtā lūguma norakstu, ko zvērināta notāra uzdevumā var izdot viņa darbinieks.

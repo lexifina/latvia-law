@@ -1,0 +1,1 @@
+193. Latvijas Zvērinātu notāru padome un tieslietu ministrs nevar uzlikt zvērinātam notāram nevienu no šā likuma 183. un 189. pantā paredzētajiem sodiem, kā arī nevar izskaidrot viņa rīcības nepareizību, ja tā iepriekš nav pieprasījusi no zvērināta notāra rakstveida paskaidrojumus.

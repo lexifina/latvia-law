@@ -1,0 +1,1 @@
+219. Lai sniegtu zvērinātiem notāriem materiālu atbalstu, Latvijas Zvērinātu notāru kolēģija var izveidot speciālus fondus no zvērinātu notāru iemaksām, kā arī no fizisko un juridisko personu ziedojumiem.

@@ -1,0 +1,1 @@
+38. Zvērināts notārs pilda savus amata pienākumus tikai tās apgabaltiesas darbības rajonā, kuras uzraudzībai viņš pakļauts. Darbībai, ko viņš izpildījis citas apgabaltiesas darbības rajonā, nav notariālās darbības spēka.

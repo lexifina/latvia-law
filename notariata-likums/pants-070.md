@@ -1,0 +1,1 @@
+70. Aktos un grāmatās, ja paraksti izdarīti svešvalodā, parakstītāja uzvārds jāraksta valsts valodā tā, kā to izrunā; ja zvērināts notārs šo valodu neprot, to dara pieaicināts tulks, kura parakstu zvērināts notārs apliecina.

@@ -1,0 +1,1 @@
+39. Zvērināts notārs, pildot amata pienākumus savas darbības rajona robežās, sniedz notariālo palīdzību visām personām, kas pie viņa griežas, kaut arī to dzīvesvieta vai manta, uz kuru attiecas akts vai apliecinājums, atrodas ārpus šā rajona.

@@ -1,0 +1,1 @@
+176. Ja zvērināta notāra palīgs svarīgu iemeslu dēļ nevar aizstāt zvērinātu notāru vai ja zvērinātam notāram palīga nav, tieslietu ministrs var uzdot aizstāt šo zvērinātu notāru citam zvērinātam notāram vai cita zvērināta notāra palīgam.

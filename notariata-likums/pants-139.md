@@ -1,0 +1,1 @@
+139. Par paziņojuma nodošanu zvērināts notārs pēc iesniedzēja vai adresāta lūguma izdod apliecību, kurā norāda iesniedzēja un adresāta vārdu, uzvārdu un dzīvesvietu, paziņojuma saturu, laiku, kad paziņojums nodots, un adresāta atbildi, ja tāda ir dota.

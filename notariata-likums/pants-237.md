@@ -1,0 +1,1 @@
+237. Latvijas Zvērinātu notāru padomes locekļi izpilda savus pienākumus kā goda amatu, bez atlīdzības. Padomes locekļiem ir tiesības no padomes budžeta saņemt atlīdzību par ceļa un citiem tiešajiem izdevumiem, ja šie izdevumi radušies, izpildot padomes locekļa amata pienākumus.
