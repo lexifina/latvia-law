@@ -1,0 +1,1 @@
+5.pants. Ārlietu ministrija par Latvijas Republikas izdarītajiem paziņojumiem informē Nīderlandes Karalistes Ārlietu ministriju (saskaņā ar Konvencijas 23.pantu) un Hāgas Starptautisko privāttiesību konferences pastāvīgo biroju (saskaņā ar Konvencijas 13. un 23.pantu).
