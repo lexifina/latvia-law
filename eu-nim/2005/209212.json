@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2004.gada 28.decembra noteikumi Nr.1070 „Kārtība, kādā persona sedz izdevumus par maksas pakalpojumiem augu aizsardzības jomā, fitosanitāro pasākumu piespiedu veikšanu un fitosanitāro robežkontroli”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "210 (3158)",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-30",
+  "entry_into_force": "2005-01-01",
+  "notification_date": "2013-09-23",
+  "commission_reference": "MNE(2013)57926",
+  "nim_celex": "72002L0089LVA_209212",
+  "nim_id": "209212",
+  "transposes_celex": [
+    "32002L0089"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cb1f9489-0bb2-4aec-84de-7adf7eeb1082",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
