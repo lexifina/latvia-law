@@ -1,0 +1,1 @@
+6. Ministru kabinets līdz 2003.gada 1.decembrim nosaka kārtību, kādā organizējami un koordinējami valsts vai pašvaldības dzelzceļa pasažieru pārvadājumu pasūtījumi, kā arī kārtību, kādā saskaņojami un slēdzami dzelzceļa pasažieru pārvadājumu pasūtījumu līgumi.
