@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Tiesu izpildītāju likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "165 (2740)",
+  "official_journal_page": null,
+  "official_journal_date": "2002-11-13",
+  "entry_into_force": "2003-01-01",
+  "notification_date": "2017-03-13",
+  "commission_reference": "MNE(2017)51512",
+  "nim_celex": "72011L0083LVA_246004",
+  "nim_id": "246004",
+  "transposes_celex": [
+    "32011L0083"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/940b55e4-3c53-468d-a7d8-74cd7461a2d9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
