@@ -1,0 +1,1 @@
+1.pants. 2001.gada 6.septembrī Astanā parakstītā Latvijas Republikas un Kazahstānas Republikas konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem un tās protokols (turpmāk - Konvencija) ar šo likumu tiek pieņemti un apstiprināti.
