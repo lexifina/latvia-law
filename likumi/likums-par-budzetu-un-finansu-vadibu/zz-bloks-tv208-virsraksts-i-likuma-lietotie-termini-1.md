@@ -2,6 +2,7 @@ Apropriācija - budžeta likuma vai cita likuma piešķirtā pilnvara noteiktā 
 Asignējums - pilnvara uzņemties saistības vai veikt no valsts budžeta līdzekļiem maksājumus noteiktam mērķim, pamatojoties uz apropriāciju.
 Budžeta institūcijas - visas no budžeta finansētās iestādes.
 Budžeta izpildītāji - iestāžu vadītāji, kuri ar asignējumu pilnvaroti izdarīt budžeta izdevumus vai uzņemties saistības attiecībā uz budžetu.
+Budžeta likumprojektu pakete - likumprojektu pakete, kas sastāv no gadskārtējā valsts budžeta likuma projekta vai gadskārtējā valsts budžeta likuma grozījumu projekta un likumprojektiem, kuri nosaka vai groza ieņēmumus valsts budžetā.
 Budžeta programma - tādu savstarpēji saistītu pasākumu vai pakalpojumu programma, kuri orientēti uz kopēju mērķi vai arī cieši saistītiem mērķiem. Budžeta programma var būt sadalīta apakšprogrammās.
 Deficīts vai pārpalikums - starpība starp gada ieņēmumiem un izdevumiem.
 Dividendes - ieņēmumi no valsts kapitāla izmantošanas, neskaitot procentu maksājumus.

@@ -1,2 +1,2 @@
-16. pants. Atbildība par budžeta likuma projekta sagatavošanu
-Finansu ministrs ir atbildīgs par gadskārtējā valsts budžeta likuma projekta un tam pievienojamo paskaidrojumu sagatavošanu.
+16. pants. Atbildība par valsts budžeta likuma projekta (budžeta likumprojektu paketes) sagatavošanu
+Finansu ministrs ir atbildīgs par gadskārtējā valsts budžeta likuma projekta (budžeta likumprojektu paketes) un tam pievienojamo paskaidrojumu sagatavošanu.
