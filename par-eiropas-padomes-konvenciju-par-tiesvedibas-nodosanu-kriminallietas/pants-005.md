@@ -1,0 +1,1 @@
+5.pants. Saskaņā ar Konvencijas II pielikumu noteikt, ka jēdziens "pilsonis" Konvencijas izpratnē attiecas uz Latvijas Republikas pilsoņiem un nepilsoņiem, kas ir likuma "Par to bijušās PSRS pilsoņu statusu, kuriem nav Latvijas vai citas valsts pilsonības" subjekti.

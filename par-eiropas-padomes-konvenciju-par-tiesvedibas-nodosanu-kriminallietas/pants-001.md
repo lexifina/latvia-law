@@ -1,0 +1,1 @@
+1.pants. 1972.gada 15.maija Eiropas padomes konvencija nr. 73 par tiesvedības nodošanu krimināllietās (turpmāk - Konvencija) un tās I, II, III pielikums (turpmāk - Pielikumi) ar šo likumu tiek pieņemti un apstiprināti.
