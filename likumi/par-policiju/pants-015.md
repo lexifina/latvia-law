@@ -1,6 +1,5 @@
 15. pants. Policijas struktūra un pakļautība
-Policija sastāv no valsts policijas un pašvaldības policijas.
-Valsts policija izpilda savus pienākumus visā Latvijas Republikas teritorijā, pašvaldības policija - attiecīgajā administratīvajā teritorijā.
-Iekšlietu ministrijas Drošības policija ir valsts policijas atsevišķs patstāvīgs dienests, kas darbojas saskaņā ar šo likumu, Valsts drošības iestāžu likumu un Ministru kabineta apstiprinātu nolikumu.
-Valsts policija ir iekļauta Iekšlietu ministrijas sistēmā un pakļauta iekšlietu ministram, bet pašvaldības policija - attiecīgās pašvaldības sastāvā un ir Iekšlietu ministrijas pārraudzībā. Darba organizācijas jautājumos pašvaldības policija sadarbojas ar Valsts policijas iestādēm.
-Šā likuma III nodaļā paredzētās pilnvaras ir tiesīga pildīt tikai policija un citas Ministru kabinetam pakļautās kārtības sargāšanas institūcijas likumā noteiktajā kārtībā.
+Policija sastāv no Valsts policijas, Drošības policijas un pašvaldības policijas.
+Valsts policija un Drošības policija katra savas kompetences ietvaros izpilda savus pienākumus visā Latvijas Republikas teritorijā, pašvaldības policija - attiecīgajā administratīvajā teritorijā.
+Valsts policija un Drošības policija ir Iekšlietu ministrijas pārraudzībā esošas iestādes. Valsts policija darbojas saskaņā ar iekšlietu ministra apstiprinātu nolikumu. Drošības policija darbojas saskaņā ar Ministru kabineta apstiprinātu nolikumu.
+Pašvaldības policija ir iekļauta attiecīgās pašvaldības sastāvā, bet darba organizācijas jautājumos sadarbojas ar Valsts policiju.
