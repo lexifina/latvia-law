@@ -8,7 +8,7 @@ Saskaņā ar policijas uzdevumiem policijas darbinieka pamatpienākumi atbilsto�
 6) novērst un pārtraukt administratīvos pārkāpumus, noskaidrot vainīgos, savas kompetences ietvaros sastādīt protokolus, izskatīt lietas par šiem pārkāpumiem vai arī nodot tās izskatīšanai pēc pakļautības;
 7) savu pilnvaru ietvaros atklāt noziegumu un administratīvo pārkāpumu cēloņus un tos veicinošos apstākļus un veikt pasākumus to novēršanai; piedalīties personu tiesiskajā audzināšanā;
 8) apsargāt, konvojēt un uzturēt aizturētās un apcietinātās personas, savas kompetences ietvaros izpildīt kriminālsodus un administratīvos sodus;
-9) saskaņā ar noslēgtajiem līgumiem apsargāt objektus Latvijas Republikas Ministru Padomes noteiktajā kārtībā; kontrolēt apsardzes funkciju izpildīšanai izveidoto uzņēmumu darbību;
+9) saskaņā ar noslēgtajiem līgumiem apsargāt objektus Latvijas Republikas Ministru kabineta noteiktajā kārtībā; kontrolēt apsardzes funkciju izpildīšanai izveidoto uzņēmumu darbību;
 10) veikt pasākumus bezsaimnieka vai atrastās apslēptās mantas saglabāšanai līdz tās nodošanai kompetentas valsts iestādes vai amatpersonas pārziņā; nodrošināt atrasto un policijai nodoto dokumentu, mantu, vērtspapīru un cita īpašuma saglabāšanu līdz tā nodošanai īpašniekam;
 11) regulēt transportlīdzekļu un gājēju kustību, veikt satiksmes uzraudzību, kontrolēt ceļu un ielu stāvokli, kā arī tehnisko regulēšanas līdzekļu un satiksmes līdzekļu tehnisko stāvokli;
 12) kontrolēt noteikumu ievērošanu to objektu atvēršanā un funkcionēšanā, pār kuru darbību noteikta policijas uzraudzība, kā arī ieroču, munīcijas, sprāgstvielu un citu likumā minēto materiālu, priekšmetu un vielu iegādes, glabāšanas, nēsāšanas un transportēšanas noteikumu ievērošanu;
@@ -16,4 +16,4 @@ Saskaņā ar policijas uzdevumiem policijas darbinieka pamatpienākumi atbilsto�
 14) kontrolēt, kā tiek ievēroti noteikumi par ārvalstu pilsoņu un bezpavalstnieku iebraukšanu, uzturēšanos un tranzītu Latvijas Republikas teritorijā;
 15) likumā noteiktajā kārtībā noformēt dokumentus pilsonības jautājumos;
 16) gādāt par liecinieku, cietušo, citu personu un to ģimenes locekļu drošību, kā arī par viņu mantas apsardzību, ja apdraudēta šo personu dzīvība, veselība vai manta sakarā ar palīdzību, ko tās sniegušas tiesībaizsardzības iestādēm noziegumu atklāšanā un novēršanā;
-17) izpildīt tiesu (tiesnešu), prokuroru un izmeklētāju lēmumus par to personu piespiedu atvešanu, kuras izvairās no ierašanās pēc izsaukuma, kā arī izpildīt tiesu lēmumus, prokuroru lēmumus un prokuroru sankcionētus izmeklētāju lēmumus par apcietinājumu.
+17) izpildīt tiesu (tiesnešu), prokuroru lēmumus par to personu piespiedu atvešanu, kuras izvairās no ierašanās pēc izsaukuma, kā arī izpildīt tiesu lēmumus par apcietinājumu.
