@@ -1,0 +1,1 @@
+1.pants. 1995.gada 22.novembrī Kijevā parakstītais Latvijas Republikas un Ukrainas līgums par brīvo tirdzniecību (turpmāk - Līgums), tā 1., I, II, III, IV pielikumi (turpmāk - Pielikumi), A un B protokoli (turpmāk - Protokoli) ar šo likumu tiek pieņemti un apstiprināti.
