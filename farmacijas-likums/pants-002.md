@@ -1,0 +1,1 @@
+2.pants. Šā likuma mērķis ir reglamentēt fizisko un juridisko personu darbību farmācijas jomā, kā arī nodrošināt kvalitatīvu, medicīniski piemērotu un atbilstoša profilaktiska, dziedinoša un diagnostiska līmeņa zāļu un farmaceitisko produktu ražošanu un izplatīšanu.

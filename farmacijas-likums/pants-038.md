@@ -1,0 +1,1 @@
+38.pants. Aptieku vada un par tās darbu ir atbildīgs aptiekas vadītājs, kas saņēmis farmaceita profesionālās kvalifikācijas sertifikātu vai - attiecībā uz veterinārajām aptiekām - speciālu atļauju (licenci) veterināro zāļu izplatīšanai.

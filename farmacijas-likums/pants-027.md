@@ -1,0 +1,1 @@
+27.pants. Reģistrējot zāles un farmaceitiskos produktus, kas ir jau reģistrēti kādā no Eiropas savienības valstīm, Aģentūra veic reģistrācijai nepieciešamo dokumentu un to tulkojumu kontroli un apstiprināšanu bez zāļu un farmaceitisko produktu novērtēšanas.

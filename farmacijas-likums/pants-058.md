@@ -1,0 +1,1 @@
+58.pants. Saņemt farmaceita profesionālās kvalifikācijas sertifikātu ir tiesības Latvijas pilsoņiem, kuri prot valsts valodu, ir ieguvuši augstāko vai vidējo farmaceitisko izglītību un kuriem ir vismaz triju gadu darba stāžs specialitātē.

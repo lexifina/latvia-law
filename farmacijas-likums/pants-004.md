@@ -1,0 +1,1 @@
+4.pants. Tiešu farmācijas uzraudzību un kontroli veic Valsts farmācijas inspekcija. Veterināro zāļu novērtēšanas, reģistrēšanas, ražošanas, izplatīšanas un lietošanas uzraudzību un kontroli saskaņā ar šo likumu un likumu "Par veterinārmedicīnu" veic Valsts veterinārais departaments un valsts veterinārie inspektori.

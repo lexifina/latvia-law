@@ -1,0 +1,2 @@
+40.pants. (1) Vienas aptiekas vadītājs vienlaikus nevar būt aptiekas vadītājs vai vadītāja vietnieks citā aptiekā vai atbildīgais farmaceits vai atbildīgā farmaceita vietnieks zāļu lieltirgotavā, vai ražošanas vadītājs vai kontroles dienesta vadītājs zāļu ražošanas uzņēmumā (uzņēmējsabiedrībā).
+(2) Aptiekai atļauts izplatīt veterinārās zāles tikai tad, ja farmaceits, kas ar to nodarbojas, ir saņēmis speciālu atļauju (licenci) veterināro zāļu izplatīšanai.

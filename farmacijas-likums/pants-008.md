@@ -1,0 +1,2 @@
+8.pants. (1) Valsts zāļu aģentūra (turpmāk - Aģentūra) ir bezpeļņas organizācija, valsts akciju sabiedrība, kas darbojas saskaņā ar šo likumu, likumu "Par bezpeļņas organizāciju", likumu "Par akciju sabiedrībām", citiem normatīvajiem aktiem un saviem statūtiem. Aģentūru saskaņā ar šo likumu dibina un tās statūtus apstiprina Ministru kabinets.
+(2) Aģentūra ir juridiskā persona, tai ir savi norēķinu konti

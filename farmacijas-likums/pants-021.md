@@ -1,0 +1,1 @@
+21.pants. Aizliegts izplatīt un lietot zāles un farmaceitiskos produktus, ja to kvalitāte neatbilst apstiprinātās tehnisko normatīvu dokumentācijas (farmakopeja, tehniskie noteikumi, zāļu un farmaceitisko produktu reģistrācijas gaitā apstiprinātā dokumentācija u.c.) prasībām vai beidzies to derīguma termiņš.

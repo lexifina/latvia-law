@@ -1,0 +1,1 @@
+44.pants. Veterināro zāļu lieltirgotavām ir atļauts iepirkt, uzglabāt un izplatīt tikai dzīvniekiem paredzētās zāles, ārstniecības līdzekļus un dzīvnieku aprūpei paredzētās preces. Zālēm jābūt marķētām ar uzrakstu "Lietošanai dzīvniekiem".

@@ -1,0 +1,1 @@
+2. Atļaujas (licences) aptieku atvēršanai (darbībai), kas ir izsniegtas zāļu lieltirgotavām vai zāļu ražošanas uzņēmumiem, un licences farmaceitiskajai darbībai līdz šā likuma spēkā stāšanās laikam saglabā savu noteikto derīguma termiņu.

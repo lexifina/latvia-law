@@ -1,0 +1,1 @@
+18.pants. Narkotisko un psihotropo zāļu un prekursoru ražošanas, uzglabāšanas, izplatīšanas, lietošanas, ievešanas un izvešanas noteikumus reglamentē šis likums, likums "Par narkotisko un psihotropo vielu likumīgās aprites kārtību" un likums "Par prekursoriem".

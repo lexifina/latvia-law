@@ -1,0 +1,2 @@
+60.pants. (1) Speciālu atļauju (licenci) zāļu lieltirgotavas atvēršanai (darbībai) var saņemt juridiskās personas, ja to pamatdarbība ir zāļu izplatīšana, ja atbildīgajam farmaceitam ir farmaceita profesionālās kvalifikācijas sertifikāts un zāļu lieltirgotava ir sertificēta.
+(2) Saņemt licenci veterināro zāļu lieltirgotavas atvēršanai (darbībai) ir tiesības juridiskajām personām, ja to pamatdarbība ir veterināro zāļu izplatīšana un atbildīgais par lieltirgotavas farmaceitisko darbību ir saņēmis speciālu atļauju (licenci) veterināro zāļu izplatīšanai.

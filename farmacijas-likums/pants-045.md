@@ -1,0 +1,1 @@
+45.pants. Lai atvērtu zāļu lieltirgotavu, nepieciešams saņemt Labklājības ministrijas, bet veterināro zāļu lieltirgotavas atvēršanai - Zemkopības ministrijas izsniegtu speciālu atļauju (licenci) zāļu lieltirgotavas atvēršanai (darbībai), bet pirms tam - Ministru kabineta noteiktajā kārtībā izsniegtu sertifikātu par lieltirgotavas atbilstību veicamā darba raksturam un apjomam.

@@ -1,0 +1,1 @@
+22.pants. Izplatot gatavās zāles, tām līdzi dodama Labklājības ministrijas noteiktajā kārtībā apstiprināta lietošanas instrukcija valsts valodā, bet, izplatot veterinārās zāles, tām līdzi dodama Valsts veterinārā departamenta apstiprināta lietošanas pamācība valsts valodā.

@@ -1,0 +1,1 @@
+47.pants. Zāļu lieltirgotava ir atbildīga par izplatāmo zāļu kvalitāti. Tai atļauts iepirkt zāles tikai no zāļu ražošanas uzņēmumiem (uzņēmējsabiedrībām) un zāļu lieltirgotavām, vienlaikus saņemot dokumentus, kas apliecina zāļu kvalitāti.

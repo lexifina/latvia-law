@@ -1,0 +1,1 @@
+37.pants. Lai aptieka uzsāktu darbību, nepieciešams saņemt Labklājības ministrijas, bet veterināro aptieku atvēršanai - Zemkopības ministrijas izsniegtu speciālu atļauju (licenci) aptiekas atvēršanai (darbībai), bet pirms tam - Ministru kabineta noteiktajā kārtībā izsniegtu sertifikātu par aptiekas atbilstību veicamā darba raksturam un apjomam.

@@ -1,0 +1,1 @@
+39.pants. Lauku apvidos par aptiekas vadītāju var būt persona, kurai ir vidējā farmaceitiskā izglītība, vismaz piecu gadu darba stāžs specialitātē un kura ir saņēmusi farmaceita profesionālās kvalifikācijas sertifikātu.

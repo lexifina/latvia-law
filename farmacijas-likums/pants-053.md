@@ -1,0 +1,1 @@
+53.pants. Zāļu ražošanas uzņēmums atbilstoši apstiprinātajai tehnisko normatīvu dokumentācijai nodrošina zāļu kvalitātes kontroli ražošanas procesā un ir atbildīgs par saražoto zāļu kvalitāti neatkarīgi no tā, vai pilns ražošanas cikls norisinājies uz vietas vai arī tajā bijušas iesaistītas citas fiziskās vai juridiskās personas.
