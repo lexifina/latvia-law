@@ -1,0 +1,3 @@
+16. Nosakot maksāšanas līdzekļu attiecību valsts un pašvaldību privatizējamajam zemesgabalam, kura privatizācijas ierosinājums iesniegts un noteiktā kārtībā reģistrēts Privatizācijas aģentūrā vai attiecīgajā pašvaldībā:
+1) līdz 2003. gada 15. aprīlim, - piemēro maksāšanas līdzekļu attiecību, kurā īpašuma kompensācijas sertifikātu apjoms nav mazāks kā 80 procentu (īpaši atbalstāmajās teritorijās, kas noteiktas saskaņā ar Reģionālās attīstības likumu, - nav mazāks kā 90 procentu) no zemes nosacītās cenas;
+2) pēc 2003. gada 15. aprīļa, - piemēro maksāšanas līdzekļu attiecību, kas noteikta Ministru kabineta noteikumos par maksāšanas līdzekļu attiecību un maksāšanas kārtību, kuri pieņemti un stājušies spēkā pēc 2003. gada 15. aprīļa.

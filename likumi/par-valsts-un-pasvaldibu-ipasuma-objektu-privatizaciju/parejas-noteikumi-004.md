@@ -1,1 +1,0 @@
-4. Termina "valsts vai pašvaldības īpašuma objekts" jaunā redakcija, kā arī grozījumi likuma 3.panta septītajā daļā un 4.panta ceturtajā daļā (par nekustamā īpašuma privatizāciju) neattiecas uz tādu nekustamo īpašumu privatizāciju, kurus Ministru kabinets nodevis privatizācijai līdz dienai, kad tas izdevis rīkojumu par Privatizācijas aģentūras likvidāciju.

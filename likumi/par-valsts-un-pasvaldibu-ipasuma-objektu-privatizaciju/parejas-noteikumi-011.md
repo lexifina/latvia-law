@@ -1,0 +1,1 @@
+11. Līdz 2003.gada 21.augustam saņemtais šā likuma pārejas noteikumu 9. un 10.punktā minētais privatizācijas ierosinājums tiek izskatīts un attiecīgais lēmums tiek pieņemts saskaņā ar šo likumu un atbilstoši tam izdotajiem normatīvajiem aktiem.
