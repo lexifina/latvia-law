@@ -3,7 +3,7 @@
 2) viņš tīši nepilda likumu vai citu normatīvo aktu prasības;
 3) viņš apzināti sniedzis nepatiesas ziņas, lai saņemtu sertifikātu;
 4) viņš sistemātiski nepilda nodokļu saistības;
-5) viņš ir saslimis ar psihisku slimību, narkomāniju, toksikomāniju vai alkoholismu;
+5) viņam ir konstatēta psihiska slimība vai atkarība no alkohola, narkotiskām, psihotropām vai toksiskām vielām;
 6) viņš sešu mēnešu laikā no sertifikāta saņemšanas nav uzsācis detektīvdarbību;
 7) viņš likumā noteiktajā kārtībā atzīts par vainīgu tīša noziedzīga nodarījuma izdarīšanā;
 8) to nosaka citi likumi vai tiesas nolēmumi.
