@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Valsts sociālo pabalstu likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "168",
+  "official_journal_page": null,
+  "official_journal_date": "2002-11-19",
+  "entry_into_force": "2003-01-01",
+  "notification_date": "2008-09-24",
+  "commission_reference": "MNE(2008)55198",
+  "nim_celex": "71986L0613LVA_158150",
+  "nim_id": "158150",
+  "transposes_celex": [
+    "31986L0613"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c06c20a7-6667-4527-a0b5-6704e4ad9ad9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
