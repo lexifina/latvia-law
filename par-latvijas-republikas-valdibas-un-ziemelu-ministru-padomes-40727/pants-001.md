@@ -1,0 +1,1 @@
+1.pants. 1996.gada 20.augustā Rīgā parakstītais Latvijas Republikas valdības un Ziemeļu Ministru padomes Saprašanās memorands par Ziemeļu Ministru padomes Informācijas biroja Rīgā statusu (turpmāk - Saprašanās memorands) ar šo likumu tiek pieņemts un apstiprināts.
