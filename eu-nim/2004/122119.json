@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2004.gada 27.jūlija noteikumi nr. 624 \"Noteikumi par elektrisko un elektronisko iekārtu kategorijām\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "130",
+  "official_journal_page": null,
+  "official_journal_date": "2004-07-30",
+  "entry_into_force": "2004-08-01",
+  "notification_date": "2005-06-27",
+  "commission_reference": "MNE(2005)52119",
+  "nim_celex": "72002L0096LVA_122119",
+  "nim_id": "122119",
+  "transposes_celex": [
+    "32002L0096"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/82601664-2541-4427-88d3-c40c6e3e101f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
