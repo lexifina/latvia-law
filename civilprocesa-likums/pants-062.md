@@ -12,7 +12,7 @@
 10) tiesas rīkojumus un lēmumus, kas nav pieņemti atsevišķu procesuālo dokumentu veidā;
 11) valsts un pašvaldību iestāžu atzinumu īsu saturu;
 12) tiesas debašu un prokurora atzinuma īsu saturu;
-13) ziņas par tiesas aiziešanu apspriežu istabā lēmuma pieņemšanai vai sprieduma taisīšanai;
+13) ziņas par tiesas aiziešanu lēmuma pieņemšanai vai sprieduma taisīšanai;
 14) ziņas par sprieduma vai atsevišķa procesuālā dokumenta veidā pieņemta lēmuma pasludināšanu;
 15) ziņas par sprieduma vai lēmuma satura, pārsūdzēšanas kārtības un termiņa izskaidrošanu;
 16) ziņas par to, kad lietas dalībnieki var iepazīties ar tiesas sēdes protokolu un pilnu sprieduma tekstu;

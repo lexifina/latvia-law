@@ -3,3 +3,4 @@
 (2) Ja, izskatot lietu triju senatoru sastāvā, tiesa nenonāk pie vienota viedokļa vai visi senatori uzskata, ka lieta izskatāma paplašinātā sastāvā, tiesa pieņem lēmumu par lietas nodošanu izskatīšanai paplašinātā Senāta sastāvā.
 (3) Izskatot lietu paplašinātā sastāvā, spriedumu taisa ar balsu vairākumu un to paraksta visi senatori.
 (4) Pēc senatoru apspriedes tiesa atgriežas sēžu zālē un sēdes priekšsēdētājs pasludina spriedumu, nolasot tā rezolutīvo daļu, un paziņo, kad lietas dalībnieki var iepazīties ar pilnu sprieduma tekstu.
+(5) Ja senatori atzīst, ka šajā tiesas sēdē nav iespējams taisīt spriedumu, Senāts nosaka nākamo tiesas sēdi, kura notiks tuvāko 14 dienu laikā un kurā tas paziņos spriedumu.

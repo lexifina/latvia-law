@@ -1,5 +1,5 @@
 464.pants. Senāta rīcības sēde
-(1) Visas Senātam iesniegtās kasācijas sūdzības un protestus izskata rīcības sēdē, lai izlemtu, vai tie atbilst šā likuma 450. - 454.panta prasībām un vai ir izskatāmi kasācijas instances tiesas sēdē.
+(1) Senātam iesniegtās kasācijas sūdzības un protestus pēc šā likuma 460.panta pirmajā daļā paredzētā paskaidrojuma iesniegšanas termiņa izbeigšanās izskata rīcības sēdē, lai izlemtu, vai tie atbilst šā likuma 450. - 454.panta prasībām un vai ir izskatāmi kasācijas instances tiesas sēdē.
 (2) Rīcības sēdē civillietu izskata Senāta departamenta priekšsēdētāja nozīmēta senatoru kolēģija, kuras sastāvā ir trīs senatori.
 (3) Ja senatoru kolēģija vienbalsīgi atzīst, ka kasācijas sūdzība neatbilst likuma prasībām, tā pieņem lēmumu par kasācijas tiesvedības izbeigšanu.
 (4) Ja kaut viens no senatoriem uzskata, ka lieta izskatāma kasācijas instancē, senatoru kolēģija pieņem lēmumu par lietas nodošanu izskatīšanai kasācijas kārtībā.

@@ -4,5 +4,5 @@
 (3) Tiesu izpildītājs pieprasa no zemesgrāmatu nodaļas attiecīgā zemesgrāmatas nodalījuma norakstu un nosūta paziņojumu nekustamā īpašuma kopīpašniekiem, kā arī visiem hipotekārajiem kreditoriem, tajā skaitā arī personām, kuru labā ierakstīta ķīlas tiesības atzīme, norādot:
 1) kuras personas prasījuma apmierināšanai tiek vērsta piedziņa uz nekustamo īpašumu;
 2) cik liela ir parāda summa un vai parāds nodrošināts ar hipotēku uz attiecīgo nekustamo īpašumu.
-(4) Šā panta trešajā daļā minētajā paziņojumā tiesu izpildītājs pieprasa, lai hipotekārie kreditori ne vēlāk kā 10 dienas pirms izsoles iesniedz ziņas par atlikušā hipotekārā parāda apmēru.
+(4) Šā panta trešajā daļā minētajā paziņojumā tiesu izpildītājs pieprasa, lai hipotekārie kreditori tiesu izpildītāja noteiktajā termiņā, kas nav mazāks par 10 dienām, iesniedz ziņas par atlikušā hipotekārā parāda apmēru.
 (5) Tiesu izpildītājs pieprasa no pašvaldības ziņas par nekustamā īpašuma nodokļu parādu un uzaicina pašvaldību iesniegt lēmumu par nodokļu parāda piedziņu, ja tāds ir.

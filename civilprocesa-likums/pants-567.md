@@ -4,6 +4,7 @@
 1) prasībās par darba samaksas piedziņu un citiem prasījumiem, kas izriet no darba vai dienesta tiesiskajām attiecībām vai ir ar tām saistīti;
 2) prasībās, kas izriet no personiskiem aizskārumiem, kuru dēļ radies sakropļojums vai cits veselības bojājums vai iestājusies personas nāve;
 3) prasībās par uzturlīdzekļu piedziņu;
-4) gadījumos, kad piedziņa izdarāma valsts ienākumos.
-(3) Gadījumos, kad piedzinējs ir atbrīvots no sprieduma izpildes izdevumu samaksas, ar tiesas sprieduma izpildi saistītie izdevumi tiek segti no valsts budžeta līdzekļiem.
+4) gadījumos, kad piedziņa izdarāma valsts ienākumos;
+5) gadījumos, kad persona no tiesas izdevumu samaksas atbrīvota ar tiesas lēmumu, - pilnībā vai daļēji atbilstoši tiesas lēmumam.
+(3) Gadījumos, kad piedzinējs ir atbrīvots no sprieduma izpildes izdevumu samaksas, izpildu darbību veikšanai nepieciešamie izdevumi tiek segti no valsts budžeta līdzekļiem.
 (4) Izpildu darbību veikšanai nepieciešamo izdevumu apmēru un to maksāšanas kārtību nosaka Ministru kabinets.

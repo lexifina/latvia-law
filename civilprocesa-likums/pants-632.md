@@ -1,5 +1,5 @@
 632.pants. Tiesu izpildītāja darbību pārsūdzēšana
 (1) Tiesu izpildītāja darbības sprieduma izpildīšanā vai viņa atteikumu izpildīt šādas darbības piedzinējs vai parādnieks var pārsūdzēt rajona (pilsētas) tiesā pēc tiesu izpildītāja amata vietas 10 dienu laikā no pārsūdzamās darbības izdarīšanas dienas vai dienas, kad sūdzētājam, kuram nav paziņots par izdarāmās darbības laiku un vietu, kļuvis par to zināms.
 (2) Sūdzību izskata tiesas sēdē 15 dienu laikā. Par tiesas sēdi paziņo parādniekam un piedzinējam, kā arī tiesu izpildītājam. Šo personu neierašanās nav šķērslis jautājuma izskatīšanai.
-(3) Sūdzības iesniegšana neaptur tiesu izpildītāja darbību, ja vien nav pieņemts tiesas vai tiesneša lēmums to apturēt.
+(3) Pēc sūdzības iesniedzēja lūguma tiesnesis šā likuma 140.pantā noteiktajā kārtībā var pieņemt lēmumu par izpildu darbības atlikšanu, par aizliegumu tiesu izpildītājam nodot naudu vai mantu piedzinējam vai parādniekam vai par mantas pārdošanas apturēšanu. Lēmums izpildāms nekavējoties pēc tā pieņemšanas.
 (4) Par tiesas lēmumu var iesniegt blakus sūdzību.

@@ -5,4 +5,5 @@ Par pilnvarotiem pārstāvjiem civilprocesā var būt:
 3) to valsts vai pašvaldību iestāžu vai juridisko personu pilnvaroti darbinieki, kurām ar likumu piešķirtas tiesības aizstāvēt tiesā citu personu tiesības vai ar likumu aizsargātās intereses;
 4) fizisko personu augšupējie un lejupējie radinieki, laulātais, īstie brāļi un māsas, kā arī persona, kas uz pilnvaras pamata faktiski pārvalda pilnvardevēja mantu;
 5) viens no procesuālajiem līdzdalībniekiem citu līdzdalībnieku uzdevumā;
-6) personas, kurām pārstāvības tiesība piešķirta citos likumos.
+6) patentpilnvarotie - rūpnieciskā īpašuma lietās;
+7) personas, kurām pārstāvības tiesība piešķirta citos likumos.

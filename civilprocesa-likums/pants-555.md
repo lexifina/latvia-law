@@ -7,5 +7,5 @@
 (6) Ja priekšlikums piegādāts šajā pantā noteiktajā kārtībā, uzskatāms, ka parādniekam ir paziņots par nolēmuma labprātīgas izpildes termiņu.
 (7) Vienlaikus ar priekšlikuma izsniegšanu par labprātīgu izpildi tiesu izpildītājs var:
 1) pieprasīt, lai parādnieks deklarē savu mantisko stāvokli un pārmaiņas tajā pēdējā gada laikā, brīdinot parādnieku par kriminālatbildību;
-2) apķīlāt parādnieka mantu;
-3) paziņot par piedziņu zemesgrāmatu nodaļai piedziņas atzīmes ierakstīšanai zemesgrāmatā vai citam publiskam reģistram atsavināšanas aizlieguma ierakstīšanai.
+2) apķīlāt parādnieka mantu, tai skaitā apķīlāt naudas līdzekļus un noguldījumus kredītiestādē, naudas līdzekļus, kas pienākas no citām personām, vai mantu, kas atrodas pie citām personām;
+3) paziņot par piedziņu zemesgrāmatu nodaļai piedziņas atzīmes ierakstīšanai zemesgrāmatā vai citam publiskam reģistram atsavināšanas vai citu darbību aizlieguma ierakstīšanai.

@@ -3,7 +3,7 @@
 1) pēc piedzinēja pieteikuma;
 2) ja parādniekam nav mantas un ienākumu, uz kuriem var vērst piedziņu;
 3) ja piedzinējs atteicies saņemt parādniekam izņemtos priekšmetus, kas norādīti tiesas spriedumā;
-4) ja pēc piedzinēja norādītās adreses parādnieks nedzīvo vai nestrādā vai tur neatrodas viņa manta, izņemot gadījumus, kad izsludināta parādnieka meklēšana;
+4) ja pēc piedzinēja norādītās adreses parādnieks nedzīvo vai nestrādā vai tur neatrodas viņa manta;
 5) ja piedzinējs, kas nav atbrīvots no sprieduma izpildes izdevumu samaksas, nav tos samaksājis;
 6) ja, piemērojot piedzinēja norādīto piespiedu izpildes līdzekli, spriedumu izpildīt nav iespējams un pēc uzaicinājuma viņš nav paziņojis par cita piespiedu izpildu līdzekļa piemērošanu.
 (2) Šā panta pirmās daļas 2., 3. un 4.punktā minētajos gadījumos tiesu izpildītājs sastāda attiecīgu aktu.

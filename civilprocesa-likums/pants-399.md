@@ -1,2 +1,3 @@
 399.pants. Pircējam izsniedzamie dokumenti
-Nekustamā īpašuma pircējam, kad viņš izpildījis visus pārdošanas nosacījumus, tiesa izsniedz lēmumu par izsoles akta apstiprināšanu un pārdotā nekustamā īpašuma nostiprināšanu uz pircēja vārda, kā arī pārdošanas nosacījumus un izsoles aktu.
+(1) Pēc tam, kad nekustamā īpašuma pircējs izpildījis visus pārdošanas nosacījumus, apgabaltiesa lemj par izsoles akta apstiprināšanu (611. un 613.pants) un pārdotā nekustamā īpašuma nostiprināšanu uz pircēja vārda.
+(2) Tiesas lēmumu kopā ar izsoles nosacījumiem un izsoles aktu izsniedz pircējam.

@@ -1,4 +1,2 @@
 585.pants. Kuģa izsoles izziņošana
-(1) Kuģa izsole izsludināma vismaz 30 dienas iepriekš.
-(2) Paziņojums par kuģa izsoli publicējams laikrakstā "Latvijas Vēstnesis", norādot šā likuma 584.panta pirmajā daļā minētās ziņas, kā arī kuģa nosaukumu un ostu, kurā tas pierakstīts. Paziņojumu par kuģa izsoli izliek tiesu izpildītāja prakses vietā. Ieinteresētā persona paziņojumu par izsoli uz sava rēķina var ievietot laikrakstos un citos masu informācijas līdzekļos, kā arī izlikt sludinājumu sabiedriskās vietās atbilstoši attiecīgās pašvaldības noteiktajai kārtībai.
-(3) Par kuģa izsoli paziņo kuģa īpašniekam, kuģa reģistratoram, hipotēku turētājiem, zināmajām personām, kuru prasības ir nodrošinātas ar jūrniecības prasījumu tiesībām, kuģa līdzīpašniekiem, ja tādi ir. Paziņojumu nosūta ierakstītā sūtījumā vai izmantojot citu sakaru līdzekli, kas nodrošina apstiprinājumu par šāda paziņojuma saņemšanu.
+Kuģa izsole izsludināma Jūras kodeksa 55.pantā noteiktajā kārtībā.
