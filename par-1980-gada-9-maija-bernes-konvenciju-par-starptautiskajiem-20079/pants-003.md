@@ -1,0 +1,1 @@
+3.pants. Latvijas Republika saglabā tiesības uz Konvencijas "A" papildinājuma 3.panta 1.paragrāfā paredzēto atrunu attiecībā uz pasažieriem, kuri iesaistīti negadījumos, un dzelzceļa atbildību pasažieru bojāejas un personiska ievainojuma gadījumā.

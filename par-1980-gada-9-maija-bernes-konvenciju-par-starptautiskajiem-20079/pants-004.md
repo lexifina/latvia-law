@@ -1,0 +1,1 @@
+4.pants. Ikgadējā iemaksa Starptautisko dzelzceļa pārvadājumu starpvaldību organizācijā saskaņā ar Konvencijas 11.pantu veicama no satiksmes ministra pārvaldījumā esošā Dzelzceļa infrastruktūras fonda.
