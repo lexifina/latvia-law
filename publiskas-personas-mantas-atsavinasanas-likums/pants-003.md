@@ -4,6 +4,7 @@
 3) apmainot pret citu mantu;
 4) ieguldot kapitālsabiedrības pamatkapitālā;
 5) nododot piegādātājam un izdarot ieskaitu (ja iepirkta līdzīgi izmantojama manta);
-6) nododot bez atlīdzības.
+6) nododot bez atlīdzības;
+7) izveidojot valsts vai pašvaldības un citas personas kopīpašumu.
 (2) Valsts vai pašvaldību mantas atsavināšanas pamatveids ir mantas pārdošana izsolē. Citus mantas atsavināšanas veidus var izmantot tikai šajā likumā paredzētajos gadījumos.
 (3) Valsts vai pašvaldības mantu aizliegts ieguldīt personālsabiedrībā.
