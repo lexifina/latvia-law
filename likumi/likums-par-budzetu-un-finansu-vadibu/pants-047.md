@@ -10,4 +10,4 @@
 2) noteikt budžeta kontu lietošanas ierobežo jumus;
 3) atsaukt vai apturēt asignējumus, lai tiktu atlīdzināti nelikumīgi izlietotie līdzekļi, vai arī pieprasīt nelikumīgi izlietoto līdzekļu atmaksāšanu;
 4) iesniegt tiesā civilprasību vai nodot materiālus krimināllietas ierosināšanai.
-(4) Valsts kasei atbilstoši likumam par pašvaldību finansu izlīdzināšanu ir tiesības bezstrīdus kārtībā piedzīt no pašvaldības budžeta līdzekļiem naudas summas, ko attiecīgā pašvaldība nav savlaicīgi vai pilnā apmērā ieskaitījusi pašvaldību finansu izlīdzināšanas fondā, norakstot šīs summas no attiecīgās pašvaldības budžeta konta.
+(4) Valsts kasei atbilstoši likumam par pašvaldību finansu izlīdzināšanu ir tiesības bezstrīdus kārtībā piedzīt no pašvaldības budžeta līdzekļiem naudas summas, ko attiecīgā pašvaldība nav savlaicīgi vai pilnā apmērā ieskaitījusi pašvaldību finansu izlīdzināšanas fondā, norakstot šīs summas no attiecīgās pašvaldības budžeta.

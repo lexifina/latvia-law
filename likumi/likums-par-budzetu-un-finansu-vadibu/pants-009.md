@@ -1,7 +1,7 @@
 9. pants. Apropriācijas
 (1) Valsts budžeta apropriācijas piešķir saskaņā ar gadskārtējo valsts budžeta likumu un ievērojot šajā likumā noteiktās prasības. Pašvaldību budžetu līdzekļus apropriē šajā likumā kuri citos likumos noteiktajā kārtībā.
 (2) Ikviens grozījums, kas attiecas uz apropriācijas mērķiem vai termiņiem, izdarāms atbilstoši šā likuma noteikumiem.
-(3) Finansu ministra noteiktajos gadījumos valsts budžeta apropriāciju var uz laiku samazināt, ja sakarā ar apstākļu maiņu nepieciešami mazāki izdevumi.
+(3) (Izslēgta ar 25.11.1999. likumu.)
 (4) Speciālajam budžetam ir pastāvīga apropriācija, kas pieļauj tikai tādus izdevumus, kuri nepārsniedz faktisko ieņēmumu apmērus un līdzekļu atlikumus saimnieciskā gada sākumā.
-(5) Visas apropriācijas zaudē spēku saimnieciskā gada beigās, izņemot gadījumu, kad likumā ir paredzēta ilgtermiņa apropriācija. Finansu ministrs efektivitātes un taupības interesēs var dot atļauju pagarināt apropriāciju ilgtermiņa pasākumiem.
+(5) Visas apropriācijas zaudē spēku saimnieciskā gada beigās.
 (6) Valsts budžeta iestāžu ieņēmumus no maksas pakalpojumiem un citus ieņēmumus, kas pārsniedz gadskārtējā valsts budžeta likumā galvenajiem budžeta izpildītājiem noteiktos apjomus un šā likuma 27.pantā noteiktajā kārtībā aprēķināto budžeta iestāžu maksas pakalpojumu ieņēmumu atlikumus saimnieciskā gada sākumā, ar finansu ministra atļauju var novirzīt budžeta izdevumu papildu finansēšanai kā pastāvīgu apropriāciju vai, noslēdzot īpašu vienošanos ar Valsts kasi, izlietot citiem mērķiem.

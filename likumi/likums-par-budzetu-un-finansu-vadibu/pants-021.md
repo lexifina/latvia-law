@@ -10,7 +10,10 @@
 7) pieprasījumu attiecībā uz investīciju projekta pabeigšanai nepieciešamajiem izdevumiem nākamajos gados, ja pieprasījums ir saistīts ar jaunu projektu, kas pārsniedz saimnieciskā gada ietvarus, kā arī ikgadējos ekspluatācijas izdevumus pēc projekta pabeigšanas;
 8) priekšlikumus par tiem likumos izdarāmajiem grozījumiem, kuri nav ietverti valsts budžeta likuma projektā (budžeta likumu projektu paketē), lai šie likumi atbilstu budžeta pieprasījumiem;
 9) izdevumu finansēšanai ieteiktos valsts aizņēmumus, paskaidrojumu par saistībām un operācijām ar aizņēmumiem iepriekšējā, kārtējā, nākamajā un aiznākamajā saimnieciskajā gadā;
-10) nodokļu atvieglojumu summas;
+10) nodokļu atvieglojumu (atlaižu) un nodokļu parādu summas;
 11) konsolidētā kopbudžeta projektu, kas ietver valsts budžeta projekta un pašvaldību budžetu projektu kopsavilkuma prognozes;
 12) valsts parādu un galvojumu finansiālo saistību kopsavilkumu attiecībā uz kārtējo saimniecisko gadu un vismaz pieciem turpmākajiem gadiem, šajos aprēķinos norādot valdības rīcības pieļaujamās robežas, lai segtu izdevumus, kas var rasties, pildot uz valsts budžetu attiecināmās parāda saistības;
-13) pašvaldību finansu izlīdzināšanas aprēķinus.
+13) pašvaldību finansu izlīdzināšanas aprēķinus;
+14) valsts ilgtermiņa saistības;
+15) valsts budžeta aizdevumu un atmaksu apjomus saskaņā ar iepriekšējos saimnieciskajos gados noslēgtajiem līgumiem, Valsts investīciju programmas projektiem un Ministru kabineta atbalstītajām programmām.
+(3) Saeimas vēlēšanu gadā gadskārtējā valsts budžeta likuma (budžeta likumprojektu paketes) projekts iesniedzams Saeimai ne vēlāk kā divus mēnešus pēc tam, kad jaunievēlētā Saeima izteikusi Ministru kabinetam savu uzticību.
