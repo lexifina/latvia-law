@@ -1,0 +1,1 @@
+21. Valsts un pašvaldību izglītības iestāžu izglītojamie, kas 2001.gada 1.septembrī uzsākuši mācības interešu izglītības programmās, kuras no 2002.gada 1.janvāra uzskatāmas par profesionālās ievirzes izglītības programmām, pēc šo programmu apguves saņem apliecību par profesionālās ievirzes izglītības ieguvi.

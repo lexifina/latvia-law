@@ -1,0 +1,1 @@
+20. Grozījums likuma 30.panta ceturtajā daļā par vienlaicīgu izglītības iestāžu akreditāciju un valsts vai pašvaldību pamatizglītības vai vidējās izglītības iestādes vadītāju atestāciju stājas spēkā 2003.gada 1.septembrī.

@@ -24,4 +24,5 @@ Ministru kabinets:
 22) nosaka pedagogu darba slodzes lielumu;
 23) nosaka stipendiju saņemšanas kārtību un stipendiju minimālo apmēru augstākās izglītības programmās izglītojamajiem, kuri uzņemti konkursa kārtībā atbilstoši valsts finansēto vietu skaitam, un profesionālās izglītības programmās izglītojamajiem, kuri uzņemti atbilstoši valsts vai pašvaldību finansēto vietu skaitam;
 24) nosaka interešu izglītības programmu finansēšanas kārtību;
-25) reglamentē bērnu nometņu organizēšanas un darbības noteikumus.
+25) reglamentē bērnu nometņu organizēšanas un darbības noteikumus;
+26) nosaka kārtību, kādā valsts finansē profesionālās ievirzes izglītības programmas, kuras īsteno pašvaldību izglītības iestādes.

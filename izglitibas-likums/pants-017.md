@@ -17,9 +17,9 @@
 13) nosaka no pašvaldības budžeta līdzekļiem apmaksāto vietu skaitu augstākās izglītības iestādēs;
 14) koordinē bērna tiesību aizsardzību izglītības jomā.
 (4) Vietējā pašvaldība:
-1) saskaņojot ar Izglītības un zinātnes ministriju vai attiecīgās nozares ministriju, dibina, reorganizē un likvidē pirmsskolas izglītības iestādes, sākumskolas, pamatskolas, vidusskolas un profesionālās ievirzes izglītības iestādes;
+1) saskaņojot ar Izglītības un zinātnes ministriju, dibina, reorganizē un likvidē pirmsskolas izglītības iestādes, sākumskolas, pamatskolas, vidusskolas, bet, saskaņojot ar Izglītības un zinātnes ministriju vai attiecīgās nozares ministriju un Izglītības un zinātnes ministriju, dibina, reorganizē un likvidē profesionālās ievirzes izglītības iestādes;
 2) nodrošina savā administratīvajā teritorijā dzīvojošos izglītības vecumu sasniegušos bērnus ar vietām izglītības iestādēs pirmsskolas izglītības, vispārējās pamatizglītības un vidējās izglītības iegūšanai;
-3) pieņem darbā un atbrīvo no darba tās pārziņā esošo izglītības iestāžu vadītājus, saskaņojot ar Izglītības un zinātnes ministriju vai attiecīgās nozares ministriju;
+3) pieņem darbā un atbrīvo no darba tās pārziņā esošo pirmsskolas izglītības iestāžu, sākumskolu, pamatskolu, vidusskolu vadītājus, saskaņojot ar Izglītības un zinātnes ministriju, bet profesionālās ievirzes izglītības iestāžu vadītājus - saskaņojot ar Izglītības un zinātnes ministriju vai attiecīgās nozares ministriju un Izglītības un zinātnes ministriju;
 4) nosaka kārtību, kādā tās pārziņā esošās izglītības iestādes finansējamas no attiecīgās pašvaldības budžeta; uz savstarpēju līgumu pamata piedalās valsts, citu pašvaldību un privāto izglītības iestāžu finansēšanā; sadala un piešķir pašvaldības budžeta līdzekļus izglītības iestādēm un kontrolē to racionālu izmantošanu;
 5) uztur tās pārziņā esošās pirmsskolas, sākumskolas, pamatskolas, vidusskolas un citas izglītības iestādes, ievērojot, ka to finansiālais nodrošinājums nedrīkst būt mazāks par Ministru kabineta noteikto finansiālo nodrošinājumu;
 6) nodrošina tās pārziņā esošo izglītības iestāžu pedagogu algām piešķirto valsts budžeta līdzekļu un valsts budžeta mērķdotāciju un subsīdiju ieskaitīšanu izglītības iestāžu kontos;

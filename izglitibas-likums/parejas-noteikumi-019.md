@@ -1,0 +1,1 @@
+19. Akreditētās mūzikas un mākslas skolas, kas 2001.gada 1.septembrī jau īstenoja interešu izglītības programmas, kuras no 2002.gada 1.janvāra uzskatāmas par profesionālās ievirzes izglītības programmām, atzīstamas par akreditētām izglītības iestādēm līdz noteiktā akreditācijas termiņa beigām.
