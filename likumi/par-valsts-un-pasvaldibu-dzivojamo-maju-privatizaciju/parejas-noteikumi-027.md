@@ -1,11 +1,1 @@
-27. Ja viendzīvokļa vai daudzdzīvokļu mājas privatizācija šā likuma 8.¹ pantā noteiktajā kārtībā ir uzsākta līdz 2002.gada 31.jūlijam un šī māja pilnībā vai daļēji atrodas uz valsts vai pašvaldības īpašumā esošas zemes, attiecībā uz kuru vairs nepastāv privatizācijas ierobežojumi, kas bija spēkā viendzīvokļa vai daudzdzīvokļu mājas privatizācijas uzsākšanas brīdī, privatizācijai nododams valsts vai pašvaldības īpašumā esošais zemes gabals, ievērojot šādu kārtību:
-1) privatizācijas komisija nosūta privatizēto objektu īpašniekiem uzaicinājumu privatizēt valsts vai pašvaldības īpašumā esošo zemes gabalu, uz kura pilnībā vai daļēji atrodas privatizācijai nodotā dzīvojamā māja;
-2) uzaicinājumā privatizācijas komisija norāda privatizējamā zemes gabala platību, kadastrālo vērtību un samaksas nosacījumus;
-3) zemes gabala pirkuma maksa ir ekvivalenta tā kadastrālajai vērtībai;
-4) valsts vai pašvaldības zemes gabalus, kas atrodas pilsētās, nodod privatizācijai par sertifikātiem;
-5) valsts vai pašvaldības zemes gabalus, kas atrodas lauku apvidos, nodod īpašumā bez atlīdzības, noslēdzot vienošanos par zemes nodošanu īpašumā bez atlīdzības;
-6) privatizācijas komisija pieņem lēmumu par tāda valsts vai pašvaldības īpašumā esošā zemes gabala privatizāciju, uz kura atrodas privatizācijai nodotā dzīvojamā māja, ja zemes gabala privatizācijai rakstveidā piekrituši visi privatizēto objektu īpašnieki;
-7) privatizācijas komisija pirkuma līgumu vai vienošanos šajā likumā noteiktajā kārtībā slēdz ar katru privatizētā objekta īpašnieku, un valsts vai pašvaldības zemes gabals tiek nodots pircēja īpašumā atbilstoši viņa īpašumā esošā dzīvokļa īpašuma domājamai daļai;
-8) slēdzot pirkuma līgumu ar personu, kura dzīvokli, mākslinieka darbnīcu vai neapdzīvojamo telpu ieguvusi īpašumā līdz dzīvojamās mājas privatizācijai, piemērojami šā likuma 42.panta trešās daļas noteikumi;
-9) ja zemes gabalu nevar nodot privatizēto objektu īpašniekiem, jo nav ievērots šā punkta 6.apakšpunkta nosacījums, privatizētā objekta īpašniekam ir tā zemes gabala nomas tiesības uz 99 gadiem, uz kura šī māja uzcelta;
-10) personas, kuras izpērk valsts vai pašvaldības zemes gabalu šo pārejas noteikumu 27.punktā noteiktajā kārtībā, tiek atbrīvotas no maksas par privatizācijas tehnisko izpildi, kā arī par pakalpojumiem, kas saistīti ar dzīvojamo māju privatizāciju.
+27. (Zaudējis spēku 01.07.2004. Skat. Pārejas noteikumus.)
