@@ -1,3 +1,3 @@
-10. pants. Bīstamības grupas un apdrošināšanas tarifu likmes
-(1) Bīstamības grupas un tām atbilstošās apdrošināšanas tarifu likmes nosaka Ministru kabinets.
-(2) Apdrošinājuma ņēmēja atbilstību bīstamības grupai nosaka Valsts sociālās apdrošināšanas fonds.
+10. pants. Bīstamības grupas un obligāto iemaksu likmes
+(1) Bīstamības grupas un tām atbilstošās obligāto iemaksu likmes nosaka Ministru kabinets.
+(2) Darba devēja atbilstību bīstamības grupai nosaka Valsts sociālās apdrošināšanas aģentūra.

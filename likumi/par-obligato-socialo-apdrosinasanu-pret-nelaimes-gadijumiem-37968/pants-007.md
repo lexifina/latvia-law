@@ -1,11 +1,11 @@
-7. pants. Apdrošinājuma ņēmēja pienākumi
-(1) Apdrošinājuma ņēmējam ir pienākums:
-1) obligāti apdrošināt šā likuma 3. panta 1. punktā minētās personas pret nelaimes gadījumiem darbā un arodslimībām, savlaicīgi izdarot paredzētos apdrošināšanas maksājumus;
-2) nekavējoties organizēt pirmās medicīniskās palīdzības sniegšanu apdrošinātajai personai, kas cietusi nelaimes gadījumā darbā vai ceļā uz darbu vai no darba, atrodoties apdrošināšanas ņēmēja valdījumā esošā transportlīdzeklī, kā arī nodrošināt tās nogādāšanu ārstniecības iestādē;
-3) nodrošināt apdrošinātās personas veselības stāvokļa izmeklēšanu ārstniecības iestādē, ja ārstējošam ārstam rodas aizdomas par saslimšanu ar arodslimību;
+7. pants. Darba devēja pienākumi
+(1) Darba devējam ir pienākums:
+1) (izslēgts ar 24.09.1998. likumu);
+2) nekavējoties organizēt pirmās medicīniskās palīdzības sniegšanu apdrošinātajai personai, kas cietusi nelaimes gadījumā darbā vai ceļā uz darbu vai no darba, atrodoties darba devēja valdījumā esošā transportlīdzeklī, kā arī nodrošināt tās nogādāšanu ārstniecības iestādē;
+3) nodrošināt apdrošinātās personas veselības stāvokļa izmeklēšanu ārstniecības iestādē, ja ārstam rodas aizdomas par saslimšanu ar arodslimību;
 4) nodrošināt, lai darbā notikušais nelaimes gadījums vai saslimšana ar arodslimību tiktu izmeklēta likumā noteiktajā kārtībā, un, pamatojoties uz izmeklēšanas materiāliem, veikt nepieciešamos pasākumus, lai novērstu cēloņus, kas izraisa nelaimes gadījumus darbā vai saslimšanu ar arodslimībām;
-5) izmaksāt no saviem līdzekļiem apdrošinātajai personai, kas cietusi nelaimes gadījumā darbā, pārejošas darba nespējas pabalstu par pirmajām 14 kalendārajām dienām 80 procentu apmērā, ņemot par pamatu mēneša vidējo izpeļņu.
-(2) Apdrošinājuma ņēmējam - darba devējam, valsts civiliestādes vadītājam reizi mēnesī jāpaziņo Valsts sociālās apdrošināšanas fondam, kādas pārmaiņas notikušas apdrošināto personu skaitliskajā sastāvā un darba ienākumos.
-(3) Apdrošinājuma ņēmējam - mācību un audzināšanas iestādes vadītājam, kā arī tādas iestādes, uzņēmuma vai organizācijas vadītājam, kurā tiek pildīts obligātais valsts darba dienests, mēneša laikā jāpaziņo Valsts sociālās apdrošināšanas fondam par audzēkņiem un studentiem, kas tiek nodarbināti darba vietās ražošanas vai mācību prakses laikā, kā arī par obligātā valsts darba dienesta dienestniekiem.
-(4) Apdrošinājuma ņēmējam ir jāsniedz Valsts sociālās apdrošināšanas fondam visas fonda darbībai nepieciešamās ziņas un jānodrošina iespēja kontrolēt šo ziņu pareizību.
-(5) Saskaņā ar šā likuma 25. panta trešo daļu apdrošinājuma ņēmējam regresa kārtībā jāatlīdzina Valsts sociālās apdrošināšanas fondam izmaksas, kas saistītas ar apdrošinātajām personām un trešajām personām izmaksāto apdrošināšanas atlīdzību, ja apdrošinājuma ņēmējs likumā noteiktajā kārtībā nav veicis apdrošināšanas maksājumus.
+5) izmaksāt no saviem līdzekļiem apdrošinātajai personai, kas cietusi nelaimes gadījumā darbā, slimības naudu par pirmajām 14 kalendārajām dienām 80 procentu apmērā, ņemot par pamatu mēneša vidējo apdrošināšanas iemaksu algu.
+(2) (Izslēgta ar 24.09.1998. likumu)
+(3) (Izslēgta ar 24.09.1998. likumu)
+(4) (Izslēgta ar 24.09.1998. likumu)
+(5) Saskaņā ar šā likuma 25. panta trešo daļu darba devējam regresa kārtībā jāatlīdzina Valsts sociālās apdrošināšanas aģentūrai izmaksas, kas saistītas ar apdrošinātajām personām un trešajām personām izmaksāto apdrošināšanas atlīdzību, ja darba devējs likumā noteiktajā kārtībā nav veicis obligātās iemaksas.

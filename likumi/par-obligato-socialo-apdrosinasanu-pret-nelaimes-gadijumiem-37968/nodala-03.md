@@ -1,2 +1,2 @@
 III nodaļa
-Apdrošināšanas līdzekļi
+Apdrošināšanas atlīdzības noteikšana
