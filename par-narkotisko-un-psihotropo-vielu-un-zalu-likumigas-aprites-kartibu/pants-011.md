@@ -1,1 +1,1 @@
-11.pants. Šā likuma 9.pantā minēto licenci izsniedz tikai tādai juridiskajai personai, kura saņēmusi licenci farmaceitiskajai darbībai un kuras administrācijā ietilpst atbildīgais farmaceits, kam ir licence farmaceitiskajai praksei. Atbildīgais farmaceits ir atbildīgs par šā likuma ievērošanu.
+11.pants. Šā likuma 9.pantā minēto licenci izsniedz tikai tādai juridiskajai personai, kura saņēmusi licenci farmaceitiskajai darbībai un kura iecēlusi par narkotisko un psihotropo vielu un zāļu apriti atbildīgo amatpersonu (ar atbilstošu izglītību).

@@ -1,1 +1,1 @@
-18.pants. II un III sarakstā iekļauto vielu un zāļu importu un eksportu drīkst veikt tikai ar Labklājības ministrijas Narkotiku kontroles komitejas izsniegtu un ANO Ekonomikas un sociālās padomes Narkotiku komisijas prasībām atbilstošu ikreizēju atļauju.
+18.pants. II un III sarakstā iekļauto vielu un zāļu importu un eksportu drīkst veikt tikai ar Valsts zāļu aģentūras izsniegtu un ANO Ekonomikas un sociālās padomes Narkotiku komisijas prasībām atbilstošu ikreizēju atļauju.

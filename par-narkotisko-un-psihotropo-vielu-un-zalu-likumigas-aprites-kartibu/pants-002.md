@@ -1,1 +1,1 @@
-2.pants. Šā likuma mērķis ir noteikt narkotisko un psihotropo vielu aprites kārtību un novērst šo vielu nokļūšanu nelegālajā apritē, kā arī noteikt atbildību par šā likuma pārkāpumiem.
+2.pants. Šā likuma mērķis ir noteikt narkotisko un psihotropo vielu un zāļu aprites kārtību un novērst šo vielu un zāļu nokļūšanu nelegālajā apritē, kā arī noteikt atbildību par šā likuma pārkāpumiem.
