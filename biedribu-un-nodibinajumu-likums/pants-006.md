@@ -4,5 +4,5 @@
 (3) Nosaukumam skaidri un noteikti jāatšķiras no citiem biedrību un nodibinājumu reģistrā jau reģistrētiem vai reģistrācijai pieteiktiem biedrību vai nodibinājumu nosaukumiem.
 (4) Biedrību un nodibinājumu nosaukumā lietojami vienīgi latviešu vai latīņu alfabēta burti.
 (5) Nosaukumā nedrīkst ietvert maldinošas ziņas par biedrības vai nodibinājuma darbības mērķi, darbības veidu un tiesisko formu.
-(6) Biedrību un nodibinājumu nosaukumā nedrīkst ietvert valsts vai pašvaldību institūciju (iestāžu) nosaukumus, kā arī vārdus "valsts" vai "pašvaldība".
+(6) Biedrību un nodibinājumu nosaukums nedrīkst sakrist ar valsts vai pašvaldību institūciju (iestāžu) nosaukumiem, kā arī ietvert maldinošas ziņas par to, ka biedrība vai nodibinājums ir apveltīts ar publisku varu.
 (7) Biedrība vai nodibinājums, kura tiesības ir aizskartas, prettiesīgi izmantojot tā nosaukumu, var no aizskārēja prasīt, lai tas izbeidz izmantot nosaukumu, kā arī lai atlīdzina biedrībai vai nodibinājumam ar tā nosaukuma prettiesīgu izmantošanu nodarītos zaudējumus.

@@ -1,5 +1,6 @@
 45.pants. Valdes locekļu ievēlēšana, atsaukšana un tiesības atstāt amatu
 (1) Valdes locekļus ievēlē ar biedru sapulces lēmumu, ja statūtos nav noteikts citādi.
+(1¹) Ja valdes sastāvā ir vairāki locekļi, biedru sapulce no valdes locekļu vidus ievēlē valdes priekšsēdētāju. Statūtos var noteikt, ka valdes priekšsēdētāju ievēlē valde vai valdes darbību pārraugoša institūcija, ja tāda izveidota.
 (2) Valdes locekli var atsaukt institūcija, kas šo valdes locekli ievēlējusi, vai biedru sapulce.
 (3) Statūtos var paredzēt, ka valdes locekli var atsaukt tikai tad, ja tam ir svarīgs iemesls. Par šādu iemeslu jebkurā gadījumā uzskatāma pienākumu neizpilde vai nepienācīga izpilde, nespēja vadīt biedrību, kaitējuma nodarīšana biedrības interesēm, kā arī uzticības zaudēšana.
 (4) Valdes loceklim nav tiesību nodot savas pilnvaras trešajām personām.
