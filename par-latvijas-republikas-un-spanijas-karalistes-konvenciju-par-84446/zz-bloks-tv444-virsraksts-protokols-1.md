@@ -1,0 +1,29 @@
+Latvijas Republikas un Spānijas Karalistes Konvencijas par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem parakstīšanas brīdī puses ir vienojušās par turpmāk minētajiem noteikumiem, kas ir šīs Konvencijas neatņemama sastāvdaļa.
+I. Attiecībā uz 2.panta 2.punktu
+Tiek saprasts, ka nodokļi, ar ko tiek apliktas uzņēmumu izmaksātās kopējās darba algas vai samaksas, arī tiks uzskatīti par ienākuma nodokļiem, bet sociālās apdrošināšanas iemaksas un jebkuri līdzīgi maksājumi netiks uzskatīti par ienākuma nodokļiem.
+II. Attiecībā uz 2.panta 4.punktu
+Tiek saprasts, ja Latvija ieviesīs vietējo nodokli, Konvencijas noteikumus piemēros arī šim nodoklim.
+III. Attiecībā uz 4.panta 3.punktu
+Tiek saprasts, ka 3.punkta noteikumi ir piemērojami tik ilgi, kamēr Latvija savos iekšzemes normatīvajos aktos par rezidences noteikšanas kritēriju neuzskatīs faktiskās vadības atrašanās vietu. Tiklīdz šāds kritērijs tiek ieviests, Latvijas kompetentās iestādes informē Spānijas kompetentās iestādes, un iespējami īsākā laikā, par kuru vienosies Līgumslēdzēju Valstu kompetentās iestādes, 3.punkta pašreizējās redakcijas vietā tiks piemēroti šādi noteikumi:
+"3. Ja saskaņā ar 1.punkta noteikumiem persona, kas nav fiziskās persona, ir abu Līgumslēdzēju Valstu rezidents, tad tiks uzskatīts, ka šī persona ir tās valsts rezidents, kurā atrodas tās faktiskās vadības vieta."
+IV. Attiecībā uz 5.panta 3.punktu
+Ja jebkurā Konvencijā par nodokļu dubultās uzlikšanas novēršanu, kuru pēc šīs Konvencijas parakstīšanas datuma Latvija paraksta ar trešo valsti, kas šīs Konvencijas parakstīšanas brīdī ir Ekonomiskās sadarbības un attīstības organizācijas dalībniece, Latvija piekrīt laika periodam, kas ilgāks par deviņiem mēnešiem, vai tādai definīcijai, kurā noteikts tāds pats laika periods kā 3.punktā, bet nav atsauces uz montāžas projektiem, tad sākot no datuma, kurā stājas spēkā Konvencija ar trešo valsti vai šī Konvencija, atkarībā no tā, kura no šīm Konvencijām stājas spēkā vēlāk, šis laika periods vai definīcija ir jāpiemēro tā, it kā tas būtu noteikts attiecīgi 3.punktā.
+V. Attiecībā uz 6.panta 2.punktu
+Tiek saprasts, ka jēdziens "nekustamais īpašums" ietver arī opcijas (vienošanās, kas, neuzliekot nekādus pienākumus, piešķir tiesības nopirkt vai pārdot nekustamo īpašumu par noteiktu cenu norādītajā laika posmā).
+VI. Attiecībā uz 6.panta 3.punktu
+Tiek saprasts, ka viss ienākums un kapitāla pieaugums, kas gūts no 6.pantā minētā nekustamā īpašuma, kas atrodas Līgumslēdzējā Valstī, atsavināšanas, var tikt aplikts ar nodokli šajā valstī saskaņā ar 13.panta noteikumiem.
+VII. Attiecībā uz 10., 11, 12. un 13.pantu
+a) neatkarīgi no šīs Konvencijas noteikumiem sabiedrībai - Līgumslēdzējas Valsts rezidentam, kurā personas, kas nav šīs valsts rezidenti, tieši vai netieši pārvalda vairāk nekā 50% no akciju kapitāla, nav tiesību uz atvieglojumiem, ko Konvencija paredz attiecībā uz dividendēm, procentiem, autoratlīdzībām un kapitāla pieaugumu, kas rodas otrā Līgumslēdzējā Valstī. Minētais neattiecas uz sabiedrībām, kas Līgumslēdzējā Valstī, kuras rezidenti tās ir, veic uzņēmējdarbību būtiskā apjomā, kas nav vienīgi akciju vai īpašuma pārvaldīšana;
+b) sabiedrībai, kas saskaņā ar iepriekšējo apakšpunktu nav tiesīga uz Konvencijā noteiktajiem atvieglojumiem attiecībā uz iepriekšminētajiem ienākumiem, tomēr var piešķirt šādus atvieglojumus, ja abu Līgumslēdzēju Valstu kompetentās iestādes saskaņā ar Konvencijas 26.pantu vienojas, ka šādas sabiedrības izveidošana un tās darbība pamatojas uz godprātīgu uzņēmējdarbību un tādēļ šādas izveidošanas un darbības galvenais iemesls nav gūt minētos atvieglojumus.
+VIII. Attiecībā uz 11.panta 2. un 3.punktu
+Ja jebkurā Konvencijā par nodokļu dubultās uzlikšanas novēršanu, kuru pēc šīs Konvencijas parakstīšanas datuma Latvija paraksta ar trešo valsti, kas šīs Konvencijas parakstīšanas brīdī ir Ekonomiskās sadarbības un attīstības organizācijas dalībniece, Latvija piekrīt atbrīvot no aplikšanas ar nodokļiem procentus, kas nav 3.punktā minētie procenti un kas rodas Latvijā, vai arī piemērot nodokļa likmi, kas ir zemāka nekā 2.punktā noteiktā, tad sākot no datuma, kurā stājas spēkā Konvencija ar trešo valsti vai šī Konvencija, atkarībā no tā, kura no šīm Konvencijām stājas spēkā vēlāk, šis atbrīvojums vai samazinātā likme ir jāpiemēro tā, it kā tas būtu noteikts attiecīgi 3. vai 2.punktā.
+IX. Attiecībā uz 12.panta 2. un 3.punktu
+Ja jebkurā Konvencijā par nodokļu dubultās uzlikšanas novēršanu, kuru pēc šīs Konvencijas parakstīšanas datuma Latvija paraksta ar trešo valsti, kas šīs Konvencijas parakstīšanas brīdī ir Ekonomiskās sadarbības un attīstības organizācijas dalībniece, Latvija piekrīt tādai autoratlīdzību definīcijai, kura neietver jebkuras 3.punktā minētās tiesības vai citu īpašumu, vai piekrīt atbrīvot no Latvijas nodokļiem autoratlīdzības, kas rodas Latvijā, vai arī piemērot nodokļu likmes, kas ir zemākas nekā 2.punktā noteiktās, tad, sākot no datuma, kurā stājas spēkā Konvencija ar trešo valsti vai šī Konvencija, atkarībā no tā, kura no šīm Konvencijām stājas spēkā vēlāk, šī definīcija, atbrīvojums vai samazinātā likme ir jāpiemēro tā, it kā tas būtu noteikts attiecīgi 3. vai 2.punktā.
+X. Attiecībā uz 13.panta 1.punktu
+Šī panta vajadzībām tiek saprasts, ka sabiedrības īpašums neietver nekustamo īpašumu, kurā sabiedrība veic savu uzņēmējdarbību, izņemot nekustamo īpašumu, kuru sabiedrība iznomā.
+To apliecinot, būdamas pienācīgi pilnvarotas, šo Protokolu ir parakstījušas tālāk minētās personas.
+Protokols sastādīts Rīgā divos eksemplāros 2003.gada 4.septembrī latviešu, spāņu un angļu valodā, turklāt visi trīs teksti ir vienlīdz autentiski. Tekstu atšķirības gadījumā noteicošais ir teksts angļu valodā.
+Latvijas Republikas vārdā
+Spānijas Karalistes vārdā
+Māris Riekstiņš
+Ramons de Migels

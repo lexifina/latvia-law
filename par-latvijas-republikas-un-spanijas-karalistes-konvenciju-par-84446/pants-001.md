@@ -1,0 +1,1 @@
+1.pants. 2003.gada 4.septembrī Rīgā parakstītā Latvijas Republikas un Spānijas Karalistes konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem (turpmāk - Konvencija) un tās 2003.gada 4.septembrī Rīgā parakstītais protokols (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.
