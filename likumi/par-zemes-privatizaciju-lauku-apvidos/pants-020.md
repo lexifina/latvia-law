@@ -5,3 +5,4 @@ Pieprasījumam pievienojami:
 1) dokumenti, kas apliecina zemes īpašuma vai mantošanas tiesības, ja šie dokumenti nav iesniegti, pieprasot zemi lietošanā;
 2) īpašumā pieprasāmā zemes nogabala plāns.
 Dokumenti, kas apliecina zemes īpašuma vai mantošanas tiesības, iesniedzami attiecīgajai pagasta padomei ne vēlāk kā līdz 1996.gada 1.jūnijam. Šā termiņa nokavēšanas gadījumā zemes īpašuma tiesības var atjaunot tikai tiesa.
+Valsts arhīvi līdz 1996.gada 1.jūnijam izsniedz nepieciešamās izziņas personām, kuras līdz 1996.gada 1.aprīlim iesniegušas izziņu pieprasījumu.
