@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2004.gada 8.jūnija noteikumi nr. 527 \"Kārtība, kādā veicama obligātā veselības pārbaude\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "96",
+  "official_journal_page": null,
+  "official_journal_date": "2004-06-16",
+  "entry_into_force": "2004-06-17",
+  "notification_date": "2004-10-25",
+  "commission_reference": "MNE(2004)52171",
+  "nim_celex": "72000L0079LVA_32171",
+  "nim_id": "32171",
+  "transposes_celex": [
+    "32000L0079"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/73a68bc9-efa7-47a2-8bf5-61ad59729266",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
