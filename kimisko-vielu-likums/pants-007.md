@@ -1,3 +1,3 @@
-7.pants. Ķīmisko vielu un ķīmisko produktu reģistrs
-(1) Ķīmisko vielu un ķīmisko produktu reģistrā fiksē uzraudzības un kontroles īstenošanai nepieciešamās ziņas par šā panta otrajā daļā minētajām ķīmiskajām vielām un ķīmiskajiem produktiem, kas uzņēmējdarbības vajadzībām tiek importēti vai ražoti valstī.
-(2) Ķīmisko vielu un ķīmisko produktu reģistrēšanas kārtību, kā arī ķīmiskās vielas, ķīmiskos produktus un to grupas, kas jāreģistrē Ķīmisko vielu un ķīmisko produktu reģistrā, nosaka Ministru kabinets.
+7.pants. Ķīmisko vielu un ķīmisko produktu datu bāze un informatīvā sistēma
+(1) Ķīmisko vielu un ķīmisko produktu datu bāzē iekļauj avāriju likvidēšanai, uzraudzības un kontroles īstenošanai nepieciešamās ziņas par Latvijā lietotajām ķīmiskajām vielām un ķīmiskajiem produktiem, kā arī bīstamo ķīmisko vielu sarakstu, Eiropas Kopienā tirdzniecībā esošo ķīmisko vielu sarakstu (EINECS) un Eiropas Kopienā pieteikto ķīmisko vielu sarakstu (ELINCS).
+(2) Ministru kabinets noteic, kāda informācija tiek sniegta, uzturēta, apkopota un izvērtēta Ķīmisko vielu un ķīmisko produktu datu bāzē, kā arī ķīmisko vielu un ķīmisko produktu uzskaites kārtību.

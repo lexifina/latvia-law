@@ -1,2 +1,2 @@
 II nodaļa
-Uzraudzība un kontrole
+Uzraudzība, kontrole un vispārīgās prasības informācijas apritei

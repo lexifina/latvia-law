@@ -7,3 +7,4 @@
 (6) Plānojot, projektējot un rekonstruējot ķīmisko vielu vai ķīmisko produktu lietošanas vai uzglabāšanas iekārtas un ar tām saistītās būves, kā arī veicot darbības ar ķīmiskajām vielām vai ķīmiskajiem produktiem:
 1) jānovērtē tādu avāriju iespējamība, kas var ietekmēt vidi, cilvēku veselību vai īpašumu, un jāparedz pasākumi, lai novērstu avārijas vai samazinātu to sekas;
 2) jāievēro ražotnes izvietojums, topogrāfiskie, ģeoloģiskie, meteoroloģiskie un hidroloģiskie apstākļi, citu tuvāko ražotņu, maģistrālo autoceļu, dzelzceļa, cauruļvadu, kā arī īpaši aizsargājamo dabas objektu un teritoriju izvietojums.
+(7) Prasības, kādas jāievēro, veicot darbības ar biocīdiem, nosaka Ministru kabinets.
