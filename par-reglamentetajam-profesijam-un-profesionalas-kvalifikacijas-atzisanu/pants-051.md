@@ -1,2 +1,2 @@
-51.pants. Ārvalstnieku profesionālās kvalifikācijas atzīšana autotransporta, dzelzceļa, jūrniecības un civilās aviācijas jomas profesijās
-Autotransporta, dzelzceļa, jūrniecības un civilās aviācijas jomas profesijās, kurām kvalifikācijas prasības nosaka Latvijas Republikai saistošie starptautiskie līgumi, ārvalstnieku profesionālo kvalifikāciju atzīst saskaņā ar šiem līgumiem.
+51.pants. Ārvalstīs iegūtās profesionālās kvalifikācijas atzīšana autotransporta, dzelzceļa, jūrniecības un civilās aviācijas jomas profesijās
+Autotransporta, dzelzceļa, jūrniecības un civilās aviācijas jomas profesijās, kurām kvalifikācijas prasības nosaka Saeimas apstiprinātie starptautiskie līgumi un Eiropas Savienības tiesību akti, ārvalstīs iegūto profesionālo kvalifikāciju atzīst saskaņā ar šiem līgumiem un Eiropas Savienības tiesību aktiem.

@@ -6,5 +6,5 @@
 4) atteikt kvalifikācijas atzīšanu.
 (2) Ja tiesības veikt profesionālo darbību reglamentētajā profesijā saskaņā ar šo likumu vai citiem normatīvajiem aktiem ir saistītas ar obligātu attiecīgās personas reģistrāciju profesionālās organizācijas reģistrā vai citos reģistros, šā panta pirmajā daļā minētā kvalifikācijas atzīšanas apliecība vienlaikus dod tiesības uz šādu reģistrāciju.
 (3) Lēmumos par adaptācijas perioda vai kvalifikācijas atbilstības pārbaudes noteikšanu, profesionālās kvalifikācijas neatzīšanu, par atteikumu izsniegt kvalifikācijas atzīšanas apliecību vai par šādas apliecības anulēšanu, par reģistrācijas atteikšanu vai anulēšanu iekļauj attiecīgā lēmuma pamatojumu.
-(4) (Izslēgta ar MK 08.04.2004. noteikumiem Nr.258.)
+(4) (Izslēgta ar 04.11.2004. likumu.)
 (5) Ar personas profesionālās kvalifikācijas atzīšanu saistītos izdevumus sedz pretendents Ministru kabineta noteiktajā kārtībā un apmērā.

@@ -11,17 +11,11 @@
 2) vilces līdzekļa vadītājs (mašīnists);
 3) vilces līdzekļa vadītāja (mašīnista) palīgs.
 (3) Jūrniecības jomā reglamentētās profesijas ir šādas:
-1) kuģa kapteinis;
-2) kuģa virsnieks;
-3) ierindas jūrnieks, kuģa apkalpes loceklis;
-4) jūrnieku praktiskās apmācības pasniedzējs (instruktors);
-5) jūrnieku kompetences atbilstības vērtētājs;
-6) locis;
-7) matrozis tauvotājs;
-8) atbilstības vērtētājs (surveijers);
-9) hidrogrāfijas speciālists;
-10) kuģa aģents;
-11) kuģu satiksmes operators.
+1) kuģa vadītājs;
+2) kuģa mehāniķis;
+3) ierindas jūrnieks;
+4) radio speciālists;
+5) hidrogrāfs.
 (4) (Izslēgta ar 23.10.2003. likumu.)
 (5) (Izslēgta ar 23.10.2003. likumu.)
 (6) Civilās aviācijas jomā reglamentētās profesijas ir šādas:

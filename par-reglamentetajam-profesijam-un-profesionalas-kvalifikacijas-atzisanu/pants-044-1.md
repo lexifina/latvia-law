@@ -4,4 +4,4 @@
 2) dokumentu, kas apliecina, ka persona savā mītnes valstī ir likumīgi strādājusi attiecīgajā profesijā;
 3) dokumentus, kas apliecina personas profesionālo kvalifikāciju attiecīgajā profesionālās darbības jomā.
 (2) Šā panta pirmās daļas 2.punktā minētais dokuments ir derīgs iesniegšanai informācijas institūcijā 12 mēnešus no tā izsniegšanas dienas.
-(3) Informācijas institūcija sagatavo izziņu par to, ka iesniegtie dokumenti apliecina pretendenta tiesības veikt patstāvīgu profesionālo darbību savā mītnes valstī attiecīgajā profesijā un īslaicīgu profesionālo darbību šajā profesijā Latvijas Republikā.
+(3) Informācijas institūcija sagatavo izziņu par to, ka iesniegtie dokumenti apliecina pretendenta tiesības veikt profesionālo darbību savā mītnes valstī attiecīgajā profesijā un īslaicīgu profesionālo darbību šajā profesijā Latvijas Republikā.
