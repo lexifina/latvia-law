@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Prasības laboratoriju darba kvalitātei un laboratoriju inspicēšanai",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "127",
+  "official_journal_page": null,
+  "official_journal_date": "2002-09-06",
+  "entry_into_force": "2004-01-01",
+  "notification_date": "2006-01-10",
+  "commission_reference": "MNE(2006)50120",
+  "nim_celex": "72004L0009LVA_127158",
+  "nim_id": "127158",
+  "transposes_celex": [
+    "32004L0009",
+    "32004L0010"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/327bd56d-59cb-47cf-a338-355ec3c9af0c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
