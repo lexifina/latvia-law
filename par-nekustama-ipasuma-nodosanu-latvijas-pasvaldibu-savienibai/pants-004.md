@@ -1,0 +1,1 @@
+4.pants. Triju mēnešu laikā pēc šā likuma stāšanās spēkā valsts akciju sabiedrība "Valsts nekustamā īpašuma aģentūra" nodod Latvijas Pašvaldību savienībai šā likuma 1.pantā minēto nekustamo īpašumu ar nodošanas-pieņemšanas aktu.
