@@ -1,0 +1,1 @@
+5.pants. Kārtību, kādā līdz apstiprināšanai Saeimā piemērojams Līguma protokols par grozījumiem Līguma B protokolā, nosaka Ministru kabinets, un ar šo likumu minētais protokols tiek pieņemts un apstiprināts.
