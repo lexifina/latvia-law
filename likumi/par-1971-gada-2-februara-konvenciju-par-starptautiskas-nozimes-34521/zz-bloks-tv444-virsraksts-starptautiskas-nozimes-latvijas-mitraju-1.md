@@ -1,0 +1,11 @@
+Nr.NosaukumsPlatība (ha)RajoniPagasti
+1.Engures ezers18 000TalsuMērsraga
+TalsuĶūļciema
+TukumaZentenes
+TukumaEngures
+2.Kaņiera ezers1200TukumaLapmežciema
+3.Teiču un Pelečāres purvs24 000MadonasMurmastienes
+MadonasBarkavas
+MadonasMētrienas
+JēkabpilsAtašienes
+PreiļuRudzātu
