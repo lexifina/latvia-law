@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums \"Par zemes dzīlēm\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "87 (572)",
+  "official_journal_page": null,
+  "official_journal_date": "1996-05-21",
+  "entry_into_force": "1996-06-04",
+  "notification_date": "2015-10-14",
+  "commission_reference": "MNE(2015)57340",
+  "nim_celex": "72013L0030LVA_230715",
+  "nim_id": "230715",
+  "transposes_celex": [
+    "32013L0030"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ea8ae999-ea6b-4844-aac8-0cc3ded9ee6f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
