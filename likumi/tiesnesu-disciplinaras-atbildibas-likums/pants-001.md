@@ -3,5 +3,6 @@
 1) tīšu likuma pārkāpumu tiesas lietas izskatīšanā;
 2) darba pienākumu nepildīšanu;
 3) necienīgu rīcību;
-4) administratīvu pārkāpumu.
+4) administratīvu pārkāpumu;
+5) atteikšanos pārtraukt savu piederību pie partijām vai politiskajām organizācijām.
 (2) Tiesas sprieduma vai lēmuma atcelšana vai grozīšana pati par sevi nav iemesls tam, lai sauktu pie atbildības tiesnesi, kas piedalījies tā pieņemšanā, ja viņš nav pieļāvis tīšu likuma pārkāpumu vai nolaidību.

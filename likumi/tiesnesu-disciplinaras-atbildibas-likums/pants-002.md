@@ -1,6 +1,7 @@
-2. pants. Disciplinārlietu piekritība
-(1) Lietas par rajonu (pilsētu) tiesu tiesnešu disciplinārajiem un administratīvajiem pārkāpumiem izskata Rajonu (pilsētu) tiesu tiesnešu kvalifikācijas kolēģija.
-(2) Lietas par apgabaltiesu zemesgrāmatu nodaļu tiesnešu disciplinārajiem un administratīvajiem pārkāpumiem izskata Apgabaltiesu zemesgrāmatu nodaļu tiesnešu kvalifikācijas kolēģija.
-(3) Lietas par apgabaltiesu tiesnešu, kā arī par Rajonu (pilsētu) tiesu tiesnešu kvalifikācijas kolēģijā un Apgabaltiesu zemesgrāmatu nodaļu tiesnešu kvalifikācijas kolēģijā ievēlēto tiesnešu disciplinārajiem un administratīvajiem pārkāpumiem izskata Apgabaltiesu tiesnešu kvalifikācijas kolēģija.
-(4) Lietas par Augstākās tiesas tiesnešu, kā arī Apgabaltiesu tiesnešu kvalifikācijas kolēģijā ievēlēto tiesnešu disciplinārajiem un administratīvajiem pārkāpumiem izskata Augstākās tiesas tiesnešu kvalifikācijas kolēģija.
-(5) Lietas par Augstākās tiesas tiesnešu kvalifikācijas kolēģijā ievēlēto tiesnešu disciplinārajiem un administratīvajiem pārkāpumiem izskata Augstākās tiesas plēnums.
+2. pants. Tiesnešu disciplinārkolēģija
+(1) Lietas par rajonu (pilsētu) tiesu, zemesgrāmatu nodaļu, apgabaltiesu un Augstākās tiesas tiesnešu disciplinārajiem un administratīvajiem pārkāpumiem izskata tiesnešu disciplinārkolēģija.
+(2) Tiesnešu disciplinārkolēģijas sastāvā ir Augstākās tiesas priekšsēdētājs un viņa vietnieks, trīs Augstākās tiesas tiesneši, divi apgabaltiesu priekšsēdētāji, divi rajonu (pilsētu) tiesu priekšsēdētāji un divi zemesgrāmatu nodaļu priekšnieki. Tiesnešu disciplinārkolēģijas locekļus (izņemot Augstākās tiesas priekšsēdētāju) ievēlē tiesnešu konference, aizklāti balsojot.
+(3) Tiesnešu disciplinārkolēģijas priekšsēdētājs ir Augstākās tiesas priekšsēdētājs. Tiesnešu disciplinārkolēģijas priekšsēdētāja vietnieku ievēlē tiesnešu disciplinārkolēģija no savu locekļu vidus.
+(4) Tiesnešu disciplinārkolēģijas sēdēs ar padomdevēja tiesībām var piedalīties tieslietu ministrs un ģenerālprokurors vai viņu pilnvarotas personas, kā arī Latvijas Tiesnešu biedrības valdes pilnvarota persona.
+(5) Tiesnešu disciplinārkolēģija darbojas saskaņā ar tiesnešu disciplinārkolēģijas apstiprinātu nolikumu.
+(6) Tiesnešu disciplinārkolēģijas darbību finansiāli nodrošina Augstākā tiesa.
