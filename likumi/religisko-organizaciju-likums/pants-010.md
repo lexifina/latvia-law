@@ -1,6 +1,6 @@
 10. pants. Reliģisko organizāciju statūti (satversme, nolikums)
 (1) Reliģisko organizāciju statūtos (satversmē, nolikumā) jānorāda:
-1) reliģiskās organizācijas nosaukums un konfesionālā piederība, turklāt šim nosaukumam nepārprotami jāatšķiras no citu Latvijas Republikā jau reģistrētu reliģisko organizāciju nosaukuma;
+1) reliģiskās organizācijas nosaukums un konfesionālā piederība, turklāt šim nosaukumam nepārprotami jāatšķiras no likumos noteiktajā kārtībā valstī reģistrētu uzņēmējsabiedrību (uzņēmumu), iestāžu un organizāciju nosaukuma;
 2) reliģiskās organizācijas saistības savā darbībā ievērot Latvijas Republikas Satversmi un likumus;
 3) mācība (Svētie raksti, dogmatika un konfesionālās īpatnības), reliģisko ceremoniju formas, reliģiskās darbības mērķi un uzdevumi;
 4) reliģiskās organizācijas struktūra, vadības un revīzijas komisijas ievēlēšanas kārtība, to kompetence;

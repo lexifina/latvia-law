@@ -1,0 +1,5 @@
+5.¹ pants. Reliģisko lietu pārvalde
+(1) Reliģisko lietu pārvalde ir Tieslietu ministrijas pārraudzībā esoša valsts pārvaldes iestāde, kuras nolikumu apstiprina Ministru kabinets.
+(2) Reliģisko lietu pārvalde ir juridiskā persona. Tai ir nodalīts budžeta finansējums, nošķirta manta, patstāvīga bilance, zīmogs ar papildinātā mazā Latvijas Republikas valsts ģerboņa attēlu un iestādes pilnu nosaukumu, cita atribūtika un budžeta konts Valsts kasē.
+(3) Likumos un citos normatīvajos aktos noteiktās kompetences ietvaros Reliģisko lietu pārvalde nodrošina valsts politikas realizāciju un koordināciju reliģijas lietās, pārzina ar valsts un reliģisko organizāciju savstarpējām attiecībām saistītos jautājumus, seko valsts tiesiskā regulējuma efektivitātei reliģijas praktizēšanā un izsaka priekšlikumus par pasākumiem, kas veicami, lai novērstu Latvijas Republikas Satversmē un starptautiskajos līgumos reliģijas jomā garantēto cilvēktiesību pārkāpumus un tos veicinošos apstākļus.
+(4) Reliģisko lietu pārvaldi vada priekšnieks, kuru pēc tieslietu ministra priekšlikuma ieceļ amatā un atbrīvo no amata Ministru kabinets un kurš atbild par pārvaldes darbu un tās funkciju izpildi.

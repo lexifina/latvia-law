@@ -3,5 +3,5 @@
 (2) Likumā paredzētās reliģisko organizāciju tiesības aizsargā valsts. Valstij un pašvaldībām un to institūcijām, kā arī sabiedriskajām un citām organizācijām nav tiesību iejaukties reliģisko organizāciju reliģiskajā darbībā.
 (3) Valsts atzīst vecāku un aizbildņu tiesības audzināt savus bērnus saskaņā ar savu reliģisko pārliecību.
 (4) (Izslēgta ar 07.06.1996. likumu)
-(5)Valsts un reliģisko organizāciju savstarpējās attiecības kārto Tieslietu ministrija, kas pēc reliģisko organizāciju lūguma sniedz tām nepieciešamo palīdzību organizatorisko, juridisko un citu jautājumu risināšanā.
+(5) Valsts un reliģisko organizāciju savstarpējās attiecības kārto Reliģisko lietu pārvalde, kas pēc reliģisko organizāciju lūguma sniedz tām nepieciešamo palīdzību organizatorisko, juridisko un citu jautājumu risināšanā.
 (6) Valsts institūcijas uzrauga un kontrolē reliģisko organizāciju darbības atbilstību likumdošanas aktiem.
