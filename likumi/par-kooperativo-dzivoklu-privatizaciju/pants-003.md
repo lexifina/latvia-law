@@ -1,0 +1,1 @@
+3. pants. Privatizācijas subjekts ir dzīvokļu celtniecības kooperatīva biedrs, kurš pilnīgi vai daļēji nomaksājis paju par viņam lietošanā nodoto dzīvokli un kurš uzņemts par dzīvokļu celtniecības kooperatīva biedru, nepārkāpjot likumdošanas aktus par pierakstīšanos un imigrāciju, kā arī citus likumdošanas aktus.

@@ -1,0 +1,1 @@
+7. pants. Privatizēto dzīvokli var atsavināt par labu vienīgi Latvijas Republikas iedzīvotājam, kurš Latvijas Republikā bijis pastāvīgi pierakstīts (nepārkāpjot likumdošanas aktus par pierakstīšanos un imigrāciju) un nodzīvojis ne mazāk kā pēdējos 16 gadus, vai Latvijas Republikas pilsonim, kurš no citas valsts atgriežas Latvijas Republikā.

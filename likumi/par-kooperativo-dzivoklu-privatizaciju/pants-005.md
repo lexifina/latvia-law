@@ -1,0 +1,1 @@
+5. pants. Dzīvokļu celtniecības kooperatīvs sešu mēnešu laikā no brīža, kad šis likums stājas spēkā, iesniedz Latvijas Republikas Nekustamā īpašuma reģistram kooperatīvo dzīvokļu privatizācijai nepieciešamos dokumentus.
