@@ -1,0 +1,1 @@
+17.pants. Loterijas atļaujas saņēmējs, kā arī komersants, kas ir tiesīgs organizēt preču un pakalpojumu loterijas bez atļaujas saņemšanas, nodrošina, lai loterijas norises kārtība būtu caurskatāma un tajā netiktu pieļautas krāpnieciskas darbības.

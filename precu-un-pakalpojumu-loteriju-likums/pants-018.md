@@ -1,0 +1,1 @@
+18.pants. Preču vai pakalpojumu loterijā laimējušās personas nosaka publiski. Loterijā laimējušo personu noteikšanā piedalās loterijas atļaujas saņēmēja pārstāvis un attiecīgās profesionālās asociācijas pārstāvis, kā arī Inspekcijas pārstāvis vai tās Valsts ieņēmumu dienesta teritoriālās iestādes pārstāvis, kurā loterijas atļaujas saņēmējs ir uzskaitē kā nodokļu maksātājs.

@@ -1,0 +1,2 @@
+19.pants. (1) Ja preču vai pakalpojumu loteriju organizē visā Latvijas Republikas teritorijā, par loterijas rezultātiem (laimējušām personām un laimestiem) loterijas atļaujas saņēmējs ne vēlāk kā piecas dienas pēc laimējušo personu noteikšanas paziņo vismaz vienā plašsaziņas līdzeklī, kas tiek izplatīts visā Latvijas Republikas teritorijā.
+(2) Ja preču vai pakalpojumu loteriju organizē kā momentloteriju, loterijas dalībnieks uzreiz pēc preces iegādes vai pakalpojuma līguma noslēgšanas uzzina, vai viņš ir laimējis, kā arī saņem iegūto laimestu.

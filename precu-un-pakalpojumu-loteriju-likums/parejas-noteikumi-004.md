@@ -1,0 +1,1 @@
+4. Šā likuma noteikumi nav attiecināmi uz tām reklāmas akcijām, kuras atbilst preču vai pakalpojumu loterijas definīcijai un uzsāktas pirms šā likuma spēkā stāšanās dienas, taču šīs reklāmas akcijas drīkst ilgt tikai līdz 2004.gada 1.martam.

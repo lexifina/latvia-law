@@ -1,0 +1,1 @@
+21.pants. Uzraudzību un kontroli pār to, kā loterijas atļaujas saņēmējs ievēro šo likumu, citus normatīvos aktus un preču vai pakalpojumu loterijas noteikumus, veic Inspekcija Ministru kabineta noteiktajā kārtībā, Valsts ieņēmumu dienesta iestādes - likumā "Par Valsts ieņēmumu dienestu" noteiktajā kārtībā un Valsts policija - likumā "Par policiju" noteiktajā kārtībā.

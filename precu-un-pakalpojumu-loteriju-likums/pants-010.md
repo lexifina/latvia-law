@@ -1,0 +1,3 @@
+10.pants. (1) Komersants, kas vēlas organizēt preču vai pakalpojumu loteriju, ne vēlāk kā divus mēnešus pirms paredzētās loterijas norises sākuma iesniedz Inspekcijai dokumentus loterijas atļaujas saņemšanai.
+(2) Ja komersants nav iesniedzis visus nepieciešamos dokumentus vai iesniegtajos dokumentos nav pietiekamu ziņu jautājuma izlemšanai, Inspekcija 10 dienu laikā, skaitot no iesnieguma saņemšanas dienas, pieprasa nepieciešamos dokumentus un ziņas.
+(3) Lēmumu par loterijas atļaujas piešķiršanu vai atteikumu piešķirt loterijas atļauju Inspekcija pieņem 30 dienu laikā pēc tam, kad saņemti visi nepieciešamie dokumenti un ziņas.
