@@ -1,0 +1,1 @@
+Starptautiskās migrācijas organizācijas Konstitūcija*
