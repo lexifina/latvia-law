@@ -1,0 +1,1 @@
+21. Grozījumi 5.panta pirmajā daļā, 6.panta ceturtās daļas 1.punktā un piektās daļas 1.punktā attiecībā uz alternatīvā dienesta veicējiem, kā arī 6.panta piecpadsmitā un sešpadsmitā daļa stājas spēkā 2002.gada 1.jūlijā.
