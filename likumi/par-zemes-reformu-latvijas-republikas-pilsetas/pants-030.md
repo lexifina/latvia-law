@@ -1,4 +1,5 @@
 30.pants. Zemes gabala cena
-(1) Zemes gabalu privatizē vai atsavina par cenu, kas nav mazāka par zemes kadastrālo vērtību, kuru nosaka saskaņā ar Ministru kabineta noteikumiem par pilsētu zemes novērtēšanu.
+(1) Zemes gabalu privatizē vai atsavina par cenu, kas nav mazāka par zemes kadastrālo vērtību, kuru nosaka saskaņā ar Ministru kabineta noteikumiem par pilsētu zemes novērtēšanu un ņemot vērā šā panta ceturtajā daļā paredzēto.
 (2) Konkrētā zemes gabala cenu, par kādu tas tiek privatizēts vai atsavināts, nosaka tā institūcija, kas veic zemes privatizāciju vai atsavināšanu.
 (3) Pārdodot valsts vai pašvaldības īpašuma objektu, kura vērtību veido arī valsts vai pašvaldības zemes vērtība, minētā objekta pārdošanas cenā atsevišķi jānorāda zemes cena un maksāšanas līdzekļi par zemi (izņemot gadījumus, kad zemes cena ietilpst objekta kapitāla daļas cenā).
+(4) Atsevišķu apbūvētu zemes gabalu Rīgas un Jūrmalas pilsētas teritorijā un zemes gabalu kopā ar privatizējamo vai atsavināmo īpašuma objektu, kā arī neapbūvētu zemes gabalu privatizē vai atsavina par cenu, kas nav mazāka par vērtību, kura noteikta atbilstoši Standartizācijas likumā noteiktajā kārtībā apstiprinātajiem Latvijas īpašuma vērtēšanas standartiem un, ja nepieciešams, koriģēta atbilstoši tirgus cenai attiecīgajā apvidū.
