@@ -12,4 +12,5 @@ Likumā ir lietoti šādi termini:
 10) pēctaksācijas periods - laika posms pēc taksācijas perioda;
 11) darījums - darbība tiesisku attiecību nodibināšanai, grozīšanai vai izbeigšanai;
 12) nodokļu parādu kapitalizācija - uzņēmuma (uzņēmējsabiedrības) statūtu kapitāla palielināšana par nodokļu parādu summu;
-13) īpašs nodokļu režīms - likumos noteiktais nodokļu režīms, kas paredz īpašu nodokļu atlaižu piemērošanu, īpašu kārtību pamatlīdzekļu nolietojuma norakstīšanai vai īpašu kritēriju noteikšanu atbrīvojumam no nodokļa maksāšanas, vai arī visu minēto nosacījumu vienlaicīgu piemērošanu.
+13) īpašs nodokļu režīms - likumos noteiktais nodokļu režīms, kas paredz īpašu nodokļu atlaižu piemērošanu, īpašu kārtību pamatlīdzekļu nolietojuma norakstīšanai vai īpašu kritēriju noteikšanu atbrīvojumam no nodokļa maksāšanas, vai arī visu minēto nosacījumu vienlaicīgu piemērošanu;
+14) izvairīšanās no nodokļu vai nodevu maksāšanas - deklarācijas, pārskata vai nodokļa aprēķina neiesniegšana, apzināta nepatiesas informācijas sniegšana nodokļu deklarācijā, nodokļa atvieglojuma vai atlaides nelikumīga piemērošana vai jebkura cita apzināta rīcība, kuras rezultātā nav nodrošināta normatīvajiem aktiem atbilstoša nodokļu vai nodevu aprēķināšana un samaksa.

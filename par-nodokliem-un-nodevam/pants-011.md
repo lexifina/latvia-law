@@ -46,7 +46,7 @@
 34) par dārgmetālu izstrādājumu izgatavotāja personiskā zīmoga reģistrāciju;
 35) par filmu producētāju (ražotāju) un izplatītāju, filmu izplatīšanas vietu un filmu reģistrāciju;
 36) par izziņu izsniegšanu par nekustamo īpašumu piederību un sastāvu;
-37) par jūras navigācijas pakalpojumiem (bāku nodeva);
+37) (izslēgts ar 09.10.2002. likumu);
 38) par dokumentu īstuma apliecināšanu (legalizāciju);
 39) par atļaujas izsniegšanu veikt darbības, kuras nav uzņēmējdarbība, ar jonizējošā starojuma avotiem vai arī iegūt īpašumā jonizējošā starojuma avotus;
 40) par valsts valodas prasmes atestāciju profesionālo un amata pienākumu veikšanai;
@@ -56,4 +56,11 @@
 44) par mēslošanas līdzekļa reģistrāciju;
 45) par informācijas sniegšanu no Sodu reģistra;
 46) par ārvalstu komersantu pārstāvniecību un ārvalstu organizāciju pārstāvniecību reģistrāciju;
-47) par laulāto mantisko attiecību reģistrāciju.
+47) par laulāto mantisko attiecību reģistrāciju;
+48) par nodrošinājumu darbinieku prasījumu apmierināšanai no darbinieku prasījumu garantiju fonda līdzekļiem un citiem likumā paredzētiem speciāliem mērķiem (uzņēmējdarbības riska valsts nodeva);
+49) par būvprojektēšanai nepieciešamo tehnisko un īpašo noteikumu saņemšanu valsts un pašvaldību institūcijās;
+50) par apsardzes darbības kvalifikācijas pārbaudījuma kārtošanu un apsardzes sertifikāta izsniegšanu;
+51) par medību atļauju un atļauju izvest medību trofejas no Latvijas Republikas;
+52) par personas datu apstrādes sistēmas reģistrēšanu vai Fizisko personu datu aizsardzības likumā noteikto reģistrējamo izmaiņu izdarīšanu;
+53) par sertifikācijas pakalpojumu sniedzēja akreditāciju un akreditācijas atjaunošanu (šo akreditāciju un akreditācijas atjaunošanu veic Datu valsts inspekcija);
+54) par informācijas sniegšanu no Valsts adrešu reģistra.
