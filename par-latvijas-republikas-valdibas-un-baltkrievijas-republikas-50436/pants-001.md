@@ -1,0 +1,1 @@
+1.pants. 1998.gada 16.maijā Daugavpilī parakstītais Latvijas Republikas valdības un Baltkrievijas Republikas valdības līgums par savstarpējo palīdzību muitas jautājumos (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
