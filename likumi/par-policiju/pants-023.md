@@ -7,3 +7,4 @@ Policijas darbiniekiem kā militarizētas un bruņotas valsts tiesībaizsardzīb
 Policijas darbinieks ir pakļauts obligātajai valsts apdrošināšanai Latvijas Republikas Ministru kabineta noteiktajā kārtībā.
 Zaudējumi, kas nodarīti policijas darbinieka vai tuvu viņa radinieku mantai sakarā ar policijas darbinieka dienesta darbību, atlīdzināmi pilnā apmērā no budžeta līdzekļiem.
 Kaitējumu, kas nodarīts policijas darbinieka veselībai, viņam pildot dienesta pienākumus, atlīdzina pilnā apmērā.
+Ja policijas darbinieks, pildot dienesta pienākumus, ir gājis bojā, viņa neatraidāmajiem mantiniekiem izmaksā vienreizēju pabalstu 50 000 latu apmērā.
