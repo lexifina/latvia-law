@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Kārtība pārtikas paraugu ņemšanai, sagatavošanai un laboratoriskai testēšanai alvas koncentrācijas noteikšanai un testēšanas rezultātu izvērtēšanai",
+  "type_of_act": "Ministrijas instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "47",
+  "official_journal_page": null,
+  "official_journal_date": "2005-03-22",
+  "entry_into_force": null,
+  "notification_date": "2005-03-29",
+  "commission_reference": "MNE(2005)56335",
+  "nim_celex": "72004L0016LVA_36335",
+  "nim_id": "36335",
+  "transposes_celex": [
+    "32004L0016"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0c54ff5d-96b0-4414-8e57-fc45fa2c56cd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
