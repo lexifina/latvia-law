@@ -1,0 +1,1 @@
+1. pants. 1974. gada Konvencija par Baltijas jūras reģiona jūras vides aizsardzību un 1992. gada Konvencija par Baltijas jūras reģiona jūras vides aizsardzību (Helsinku konvencijas) ar šo likumu pieņemtas un apstiprinātas.

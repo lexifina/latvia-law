@@ -1,0 +1,1 @@
+BĪSTAMĀS VIELAS

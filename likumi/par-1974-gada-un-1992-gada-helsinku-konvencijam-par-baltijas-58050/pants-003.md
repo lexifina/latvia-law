@@ -1,0 +1,1 @@
+3. pants. 1974. gada Konvencija par Baltijas jūras reģiona jūras vides aizsardzību stājas spēkā tās 27. pantā noteiktajā laikā un kārtībā, un 1992. gada Konvencija par Baltijas jūras reģiona jūras vides aizsardzību stājas spēkā tās 36. panta 1. paragrāfā noteiktajā laikā un kārtībā.
