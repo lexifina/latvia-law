@@ -1,0 +1,1 @@
+1.pants. 1983.gada 30.aprīlī Gaboronē pieņemtais Grozījums Vašingtonas konvencijā par starptautisko tirdzniecību ar apdraudētajām savvaļas dzīvnieku un augu sugām (turpmāk - Grozījums) ar šo likumu tiek pieņemts un apstiprināts.

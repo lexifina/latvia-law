@@ -1,0 +1,1 @@
+2.pants. Grozījums stājas spēkā Vašingtonas konvencijas par starptautisko tirdzniecību ar apdraudētajām savvaļas dzīvnieku un augu sugām XVII pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo laikrakstā "Latvijas Vēstnesis".
