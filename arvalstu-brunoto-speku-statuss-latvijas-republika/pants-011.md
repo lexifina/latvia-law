@@ -1,2 +1,2 @@
 11.pants. Ārvalstu bruņotajos spēkos ietilpstošo personu transportlīdzekļa vadītāja apliecības
-Transportlīdzekļu vadītājiem, kas ieradušies Latvijas Republikā ārvalstu bruņoto spēku vienību sastāvā, atļauts vadīt transportlīdzekli, ja viņiem ir vadītāja apliecības, kurās norādītas attiecīgās 1968.gada Vīnes konvencijā par ceļu satiksmi noteiktās vadītāju kategorijas.
+Vadītāja apliecība vai atļauja, kas izdota valstī, kura sūta ārvalsts bruņotajos spēkos ietilpstošo personu, tiek atzīta par derīgu attiecīgo transportlīdzekļu vadīšanai Latvijas Republikā.

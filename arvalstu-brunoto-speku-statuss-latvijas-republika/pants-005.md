@@ -1,2 +1,2 @@
 5.pants. Šaujamieroču nēsāšanas un lietošanas noteikumi
-Ārvalstu bruņotajos spēkos ietilpstošajām personām laikā, kad tās uzturas Latvijas Republikā, ir tiesības nēsāt un pielietot šaujamieročus tikai militāro mācību un manevru teritorijā plānoto uzdevumu veikšanai militārajās mācībās un manevros. Šīm personām ir nepieciešamas noteikta parauga ieroču glabāšanas un nēsāšanas atļaujas, kuras izsniegusi Latvijas Republikas Aizsardzības ministrija.
+Ārvalstu bruņotajos spēkos ietilpstošajām personām laikā, kad tās uzturas Latvijas Republikā, ir tiesības nēsāt un lietot šaujamieročus vienīgi dienesta uzdevumu veikšanai.
