@@ -1,0 +1,1 @@
+15. Kapitalizētā sociālā nodokļa maksājuma pamatparāda un ar to saistītās nokavējuma naudas dzēšanai atbilstoši likuma "Par nodokļiem un nodevām" 25.pantam ir tādas pašas juridiskās sekas kā šā nodokļa maksājuma pamatparāda un nokavējuma naudas samaksai.

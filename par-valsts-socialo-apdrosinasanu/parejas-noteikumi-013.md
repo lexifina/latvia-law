@@ -1,0 +1,1 @@
+13. Līdz 2000.gada 31.decembrim iekšzemes darba ņēmēji pie darba devēja - ārvalstnieka iesniedz Valsts ieņēmumu dienestam ziņojumu par obligāto iemaksu objektu un veiktajām iemaksām likuma 23.panta otrās daļas noteiktajā kārtībā.

@@ -1,0 +1,1 @@
+16. Šo pārejas noteikumu 15.punkts attiecas arī uz kapitalizētā sociālā nodokļa maksājuma pamatparādu un ar to saistītās nokavējuma naudas dzēšanu, kas ir veikta no 1998.gada 1.janvāra līdz šā likuma spēkā stāšanās dienai.
