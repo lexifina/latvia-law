@@ -1,0 +1,2 @@
+Astotā nodaļa
+PAPILDU NOSACĪJUMI MAZAJĀM OSTĀM
