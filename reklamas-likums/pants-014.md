@@ -1,0 +1,6 @@
+14.pants
+(1) Uzraudzības institūcija sāk lietas izpēti par iespējamiem pārkāpumiem reklāmas jomā, pamatojoties uz iesniegumu vai sūdzību vai pēc savas iniciatīvas.
+(2) Lietas par iespējamiem pārkāpumiem reklāmas jomā izskata 10 dienu laikā no dienas, kad saņemts iesniegums vai sūdzība vai konstatēts iespējams šā likuma pārkāpums. Ja no lietas apstākļiem izriet, ka noteiktajā termiņā nevarēs pieņemt vismaz vienu no šā likuma 15.panta ceturtajā daļā minētajiem lēmumiem, Uzraudzības institūcija ir tiesīga pieņemt lēmumu par lietas izskatīšanas termiņa pagarināšanu par 10 dienām.
+(3) Uzraudzības institūcija pēc materiālu izvērtēšanas konstatē pārkāpumu un pieņem vismaz vienu no šā likuma 15.panta ceturtajā daļā minētajiem lēmumiem vai konstatē, ka pārkāpums nav noticis, un lietvedību izbeidz. Par pieņemto lēmumu Uzraudzības institūcija rakstveidā informē par vainīgu atzīto personu.
+(4) Uzraudzības institūcija konstatē pārkāpumu, tikai pamatojoties uz tiem pierādījumiem, par kuriem pārkāpumā iesaistītajām personām tiek dota iespēja izteikt savu viedokli.
+(5) Uzraudzības institūcija lietvedību nevar sākt, bet sākto lietvedību izbeidz, ja par to pašu faktu jau ir citas Uzraudzības institūcijas pieņemts vismaz viens no šā likuma 15.panta ceturtajā daļā minētajiem lēmumiem vai lēmums par lietvedības izbeigšanu.
