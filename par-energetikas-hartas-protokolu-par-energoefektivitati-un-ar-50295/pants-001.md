@@ -1,0 +1,1 @@
+1.pants. 1994.gada 17.decembrī Lisabonā parakstītais Enerģētikas hartas protokols par energoefektivitāti un ar to saistītajiem vides aizsardzības aspektiem un tā pielikums (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.
