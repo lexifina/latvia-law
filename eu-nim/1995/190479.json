@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums \"Par nodokļiem un nodevām\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "26",
+  "official_journal_page": null,
+  "official_journal_date": "1995-02-18",
+  "entry_into_force": "1995-04-01",
+  "notification_date": "2012-05-02",
+  "commission_reference": "MNE(2012)52047",
+  "nim_celex": "72010L0024LVA_190479",
+  "nim_id": "190479",
+  "transposes_celex": [
+    "32010L0024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/aaf8a8f2-0130-4fa9-af64-88cdea873c2d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
