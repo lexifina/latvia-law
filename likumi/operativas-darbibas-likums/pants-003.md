@@ -1,0 +1,3 @@
+3. pants. Operatīvās darbības tiesiskais pamats
+(1) Operatīvās darbības tiesiskais pamats ir Satversme, konstitucionālais likums «Cilvēka un pilsoņa tiesības un pienākumi», Latvijas Kriminālprocesa kodekss, šis likums, kā arī citi likumi un starptautiskie līgumi, kas reglamentē valsts drošības, aizsardzības, ekonomiskās suverenitātes un sabiedriskās kārtības nodrošināšanas subjektu uzdevumus, tiesības un pienākumus.
+(2) Valsts institūcijas, kurām ar likumu ir noteiktas tiesības veikt operatīvo darbību, savas kompetences ietvaros un atbilstoši šim likumam izdod normatīvos aktus par šīs darbības organizāciju, metodēm, taktiku, līdzekļiem un uzskaiti. Tie stājas spēkā tikai pēc tam, kad tos akceptējis ģenerālprokurors.

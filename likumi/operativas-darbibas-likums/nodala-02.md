@@ -1,0 +1,2 @@
+2. nodaļa
+OPERATĪVĀS DARBĪBAS SATURS

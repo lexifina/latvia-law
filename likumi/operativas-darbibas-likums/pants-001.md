@@ -1,0 +1,2 @@
+1. pants. Operatīvās darbības jēdziens
+Operatīvā darbība ir šajā likumā noteiktajā kārtībā un ar likumu īpaši pilnvarotu valsts institūciju amatpersonu atklātas un slepenas tiesiskas darbības, kuru mērķis ir aizsargāt personu dzīvību un veselību, tiesības un brīvības, godu, cieņu un īpašumu; nodrošināt Satversmi, valsts iekārtu, valstisko neatkarību un teritoriālo neaizskaramību, valsts aizsardzības, ekonomisko, zinātnisko un tehnisko potenciālu un valsts noslēpumus pret ārējiem un iekšējiem apdraudējumiem.

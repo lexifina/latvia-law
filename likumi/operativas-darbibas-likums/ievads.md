@@ -1,0 +1,1 @@
+Šis likums nosaka operatīvās darbības tiesiskos pamatus, principus, uzdevumus, mērķus un saturu, reglamentē tās procesu, formas un veidus, operatīvās darbības subjektu amatpersonu statusu, tiesības, pienākumus un atbildību, kā arī šīs darbības finansēšanu, uzraudzību un kontroli.

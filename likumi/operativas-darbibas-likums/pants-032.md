@@ -1,0 +1,3 @@
+32. pants. Slepeno palīgu sociālās garantijas
+(1) Slepenajiem palīgiem, kas sadarbojas ar operatīvās darbības subjektiem uz līguma pamata, tiek nodrošinātas operatīvās darbības subjekta iestāžu amatpersonām likuma un citos normatīvajos aktos paredzētās sociālās garantijas.
+(2) Ja slepenais palīgs, veicot operatīvās darbības subjekta uzdevumu, ir ieguvis invaliditāti vai gājis bojā, vai viņam nodarīts veselības kaitējums vai mantiski zaudējumi, viņam vai viņa ģimenes locekļiem tiek izmaksāti pabalsti, pensijas vai kompensācijas atbilstoši likumam, kas paredz šādas izmaksas attiecīgā operatīvās darbības subjekta iestāžu amatpersonām.

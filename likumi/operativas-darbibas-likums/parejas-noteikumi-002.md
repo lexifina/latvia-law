@@ -1,0 +1,1 @@
+2. Šajā likumā minētie operatīvās darbības pasākumi, kuru veikšanai nepieciešams tiesneša akcepts, līdz šā jautājuma izlemšanai likumdošanas ceļā pagaidām veicami ar ģenerālprokurora un viņa īpaši pilnvarotu prokuroru akceptu.

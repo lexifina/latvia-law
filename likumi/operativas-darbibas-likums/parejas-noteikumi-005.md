@@ -1,0 +1,1 @@
+5. Tieslietu ministrijai un Iekšlietu ministrijai trīs mēnešu laikā no likuma spēkā stāšanās brīža izskatīt detektīvdarbības subjektiem izsniegto licenču un šo subjektu darbības atbilstību šim likumam, sagatavot un iesniegt nepieciešamos grozījumus likumos.

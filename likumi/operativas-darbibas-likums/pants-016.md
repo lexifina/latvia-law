@@ -1,0 +1,4 @@
+16. pants. Operatīvā detektīvdarbība
+(1) Operatīvā detektīvdarbība ir operatīvie pasākumi, kurus publiskās vietās tieši (personiski) veic operatīvās darbības subjekta amatpersona, lai novērojot un izsekojot konstatētu ar noziedzīgu darbību saistītos faktus, lietas un personas, novērstu vai atklātu noziegumus, meklētu noziedzniekus un bez vēsts pazudušas personas.
+(2) Operatīvā detektīvdarbība veicama gan atklāti, gan slēpjot piederību pie operatīvās darbības subjekta; tās gaitā ar operatīvās darbības iestādes vadītāja atļauju var nodibināt sakarus ar operatīvo interesi izraisošām personām.
+(3) Operatīvās darbības subjektu amatpersonas operatīvās izstrādes uzdevumu risināšanai ar prokurora akceptu ir tiesīgas veikt operatīvo detektīvdarbību, iesaistoties noziedzīgā vidē (tieši un leģendēti), nodibinot sakarus ar operatīvajā uzskaitē esošajām personām un ar tām saistītajām personām. Šāda darbība un amatpersonas identitāte ir valsts noslēpums.

@@ -1,0 +1,5 @@
+17. pants. Operatīvā korespondences kontrole, operatīvā informācijas iegūšana no tehniskajiem līdzekļiem un operatīvā sarunu noklausīšanās
+Ja operatīvās darbības subjekta rīcībā ir pamatotas ziņas par personu saistību ar noziegumu vai valstij svarīgu interešu apdraudējumu, ir atļauta:
+1) operatīvā korespondences kontrole - tas ir, drīkst kontrolēt šo personu nosūtāmo un saņemamo pasta, telegrāfa un cita veida korespondenci un tās rīcībā esošās elektrosakaru un cita veida sistēmas šādas korespondences nosūtīšanai un saņemšanai;
+2) operatīvā informācijas iegūšana no tehniskajiem līdzekļiem - tas ir, informācijas noņemšana vai kopēšana no personu īpašumā vai rīcībā esošajām elektroniskajām un cita veida informācijas glabāšanas ierīcēm un informācijas kanāliem;
+3) operatīvā sarunu noklausīšanās - tas ir, to sarunu noklausīšanās, kuras notiek starp šīm personām un citām personām (arī pa tālruni, ar elektroniskajiem un cita veida sakaru līdzekļiem).

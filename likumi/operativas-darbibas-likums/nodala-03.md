@@ -1,0 +1,2 @@
+3. nodaļa
+OPERATĪVĀS DARBĪBAS PROCESS

@@ -1,0 +1,3 @@
+25. pants. Operatīvās darbības subjekti
+(1) Operatīvās darbības subjektu sistēmu veido valsts drošības, aizsardzības un sabiedriskās kārtības nodrošināšanas iestādes, kā arī citas īpaši pilnvarotas valsts institūcijas, kurām ar likumu piešķirtas tiesības savas kompetences ietvaros veikt operatīvās darbības pasākumus un kuru īpaši pilnvarotas amatpersonas ir tiesīgas tos īstenot šajā likumā noteiktajā kārtībā.
+(2) Valsts operatīvās darbības subjekti likumdošanas aktos noteiktās kompetences ietvaros pilda savus uzdevumus gan patstāvīgi, gan arī sadarbojoties ar citiem šīs sistēmas subjektiem kā Latvijas Republikā, tā ārvalstīs.
