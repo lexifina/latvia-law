@@ -1,0 +1,3 @@
+18.pants. Zemes dzīļu izmantošanas un aizsardzības kontrole
+(1) Zemes dzīļu izmantošanas un aizsardzības kontroli šajā likumā un citos zemes dzīļu izmantošanu regulējošajos normatīvajos aktos noteiktajā kārtībā veic zemes dzīļu izmantošanas atļaujas (licences) izsniedzējs, Vides aizsardzības un reģionālās attīstības ministrija, Vides valsts inspekcija, kā arī reģionālās vides pārvaldes.
+(2) Rajonu, pilsētu un pagastu pašvaldības pēc saskaņošanas ar Vides aizsardzības un reģionālās attīstības ministriju tās noteiktajā kārtībā var veikt vietējas nozīmes pasākumus zemes dzīļu aizsardzībā un izmantošanas kontrolē šā likuma ietvaros.

@@ -1,0 +1,5 @@
+23.pants. Ģeoloģiskās informācijas izmantošanas pamatnoteikumi
+(1) Ģeoloģiskās izpētes un zinātnisko pētījumu, kā arī zemes dzīļu monitoringa rezultātā vai cita veida zemes dzīļu izmantošanas rezultātā iegūtā informācija pieder valstij, ja šie darbi veikti par valsts budžeta vai pašvaldību līdzekļiem. Ja šāda informācija iegūta pēc juridisko vai fizisko personu pasūtījuma un par to līdzekļiem, tā pieder attiecīgajai juridiskajai vai fiziskajai personai.
+(2) Pašvaldībai, ikvienai juridiskajai vai fiziskajai personai pasūtījuma, pasūtījuma finansēšanas vai zemes dzīļu izmantošanas rezultātā iegūtā informācija jānodod valstij Valsts ģeoloģijas dienesta personā, noslēdzot līgumu par tās izmantošanu.
+(3) Ģeoloģiskās informācijas īpašnieks nedrīkst aizliegt izmantot informāciju, ja tās neizmantošanas rezultātā var rasties potenciāli ekoloģiski bīstamas situācijas, ekoloģiski bīstamas situācijas vai ekoloģisko nelaimju situācijas.
+(4) Ģeoloģiskās informācijas izmantošanas vispārējos noteikumus nosaka Ministru kabinets.

@@ -1,0 +1,2 @@
+VI nodaļa
+Nobeiguma noteikums

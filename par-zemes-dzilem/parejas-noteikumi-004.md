@@ -1,0 +1,1 @@
+4. Ministru kabinets sešu mēnešu laikā pēc šā likuma stāšanās spēkā izstrādā noteikumus par valsts nozīmes derīgo izrakteņu un atradņu, kā arī valsts nozīmes zemes dzīļu nogabalu izmantošanas kārtību.

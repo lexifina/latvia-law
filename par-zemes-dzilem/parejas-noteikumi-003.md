@@ -1,0 +1,1 @@
+3. Līdz valsts nozīmes derīgo izrakteņu atradņu saraksta apstiprināšanai par valsts nozīmes derīgo izrakteņu atradnēm uzskatāmas Ministru padomes 1991.gada 13.novembra lēmumā nr. 316 "Par rūpnieciskās nozīmes derīgo izrakteņu un kūdras atradņu saraksta apstiprināšanu" minētās rūpnieciskās nozīmes derīgo izrakteņu atradnes.

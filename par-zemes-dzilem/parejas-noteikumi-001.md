@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par Latvijas Zemes dzīļu kodeksa apstiprināšanu", Latvijas Zemes dzīļu kodekss (Latvijas PSR Augstākās Padomes un Valdības Ziņotājs, 1976, 23. nr.; 1980, 9. nr.; 1982, 52. nr.; 1985, 1. nr.; 1988, 1. nr.).
