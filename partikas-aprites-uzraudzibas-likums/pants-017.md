@@ -1,3 +1,0 @@
-17.pants. (1) Pārtikas padomi apstiprina Ministru kabinets.
-(2) Pārtikas padomes sastāvā ir Ekonomikas ministrijas, Labklājības ministrijas, Zemkopības ministrijas, Finansu ministrijas, Vides aizsardzības un reģionālās attīstības ministrijas, Latvijas Sertifikācijas centra, Zemkopības ministrijas Valsts zivsaimniecības pārvaldes, Valsts veterinārā dienesta, Standartizācijas tehniskās komitejas pārstāvji un Latvijas Pārtikas centra direktors.
-(3) Ar padomdevēja tiesībām Pārtikas padomes darbā piedalās patērētāju interešu aizsardzības organizāciju pārstāvji, pārtikas apritē iesaistīto ražotāju, tirgotāju asociāciju un federāciju un citu organizāciju, zinātnes un izglītības iestāžu pilnvarotie pārstāvji.

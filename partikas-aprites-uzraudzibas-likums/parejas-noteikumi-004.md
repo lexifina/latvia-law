@@ -1,0 +1,1 @@
+4. Līdz attiecīgo Ministru kabineta noteikumu izdošanai ir spēkā Ministru kabineta 2001.gada 6.marta noteikumi nr.106 "Pārtikas uzņēmumu atzīšanas un reģistrācijas kārtība", ciktāl tie nav pretrunā ar šo likumu, bet ne ilgāk kā līdz 2002.gada 31.martam.

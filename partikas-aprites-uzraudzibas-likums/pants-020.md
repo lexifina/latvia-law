@@ -1,11 +1,8 @@
-20.pants. Latvijas Pārtikas centrs darbojas saskaņā ar Ministru kabineta apstiprinātu nolikumu. Latvijas Pārtikas centra galvenie uzdevumi pārtikas aprites jautājumos ir šādi:
-1) koordinēt pārtikas aprites valsts uzraudzību un kontroli;
-2) organizēt, koordinēt un savas kompetences ietvaros veikt pārtikas apriti reglamentējošo normatīvo aktu projektu izstrādi;
-3) apkopot, analizēt un iesniegt Pārtikas padomei un publicēt ikgadējo informāciju par pārtikas aprites valsts uzraudzību un kontroli;
-4) informēt pārtikas uzņēmumus un patērētājus par pārtikas apriti reglamentējošajiem normatīvajiem aktiem un normatīvtehniskajiem aktiem;
-5) sadarboties ar starptautiskajām organizācijām ar pārtikas apriti saistīto jautājumu risināšanā;
-6) koordinēt pārtikas un tās aprites kontroles metožu atzīšanu un ieviešanu;
-7) organizēt un koordinēt ar pārtikas aprites kontroli saistīto inspektoru apmācību;
-8) veidot speciālo pārtikas uzņēmumu reģistru, pamatojoties uz pilnvarotu kompetentu institūciju sniegto informāciju;
-9) saņemt no valsts uzraudzības un kontroles institūcijām un no pilnvarotām kompetentām institūcijām un apkopot ar pārtikas apriti saistīto informāciju par šā likuma un citu normatīvo aktu izpildi;
-10) izskatīt sūdzības un priekšlikumus, kas saistīti ar pārtikas inspicēšanu un nekvalitatīvas, cilvēka veselībai, dzīvībai vai videi kaitīgas pārtikas izplatīšanas gadījumiem.
+20.pants. Latvijas Pārtikas centrs ir Labklājības ministrijas pārraudzībā esoša institūcija. Tas darbojas saskaņā ar Ministru kabineta apstiprinātu nolikumu. Latvijas Pārtikas centra galvenie uzdevumi ir šādi:
+1) analizēt pārtikas un uztura izraisīto slimību monitoringa rezultātus, kā arī attiecīgā gada pārtikas aprites valsts uzraudzības un kontroles rezultātus un sagatavot priekšlikumus pārtikas nekaitīguma un uztura politikas optimizācijai;
+2) sagatavot priekšlikumus par uztura un pārtikas nekaitīguma vispārīgajām prasībām, par Eiropas Savienības prasību ieviešanu pārtikas aprites jomā, kā arī normatīvo aktu projektus;
+3) organizēt zinātniski pamatotu priekšlikumu sagatavošanu par pārtikas nekaitīguma un uztura problēmu risināšanu (par rīcību krīžu gadījumos, jaunām pārtikas izraisītām slimībām, riska faktoru noteikšanu u.tml.);
+4) veikt konsultatīvās uztura padomes sekretariāta funkcijas;
+5) informēt sabiedrību par aktuālajiem pārtikas nekaitīguma un uztura jautājumiem;
+6) informēt pārtikas uzņēmumus un patērētājus par pārtikas nekaitīgumu un uzturu reglamentējošiem normatīvajiem aktiem;
+7) atbilstoši savai kompetencei sadarboties ar starptautiskajām organizācijām.
