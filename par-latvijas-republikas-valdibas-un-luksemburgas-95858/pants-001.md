@@ -1,0 +1,1 @@
+1.pants. 2004.gada 14.jūnijā Luksemburgā parakstītā Latvijas Republikas valdības un Luksemburgas Lielhercogistes valdības konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
