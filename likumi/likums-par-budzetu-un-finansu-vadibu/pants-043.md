@@ -1,3 +1,3 @@
 43. pants. Pašvaldību finansu uzskaite
-(1) Finansu ministrs nosaka pašvaldībām vienotu budžeta ieņēmumu, izdevumu un finansējumu klasifikāciju, kā arī izvirza noteikumus par budžeta pārskatiem, lai sabiedrība tiktu informēta par pašvaldību finansiālo darbību.
-(2) Visas pašvaldību finansiālās darbības tiek reģistrētas oficiālajā pašvaldību Finansu uzskaitē. Atbilstoši pārskati tiek iesniegti likuma noteiktajā kārtībā.
+(1) Finansu ministrs nosaka pašvaldībām vienotu budžeta ieņēmumu, izdevumu, finansēšanas un parādu uzskaites klasifikāciju, kā arī izvirza noteikumus budžeta pārskatu sastādīšanai.
+(2) Visas pašvaldību finansiālās darbības atbilstoši Valsts kases norādījumiem tiek reģistrētas oficiālajā pašvaldību finansu uzskaitē. Sastādāmie pārskati tiek iesniegti likumos, Valsts kases instrukcijās un rīkojumos noteiktajā kārtībā.
