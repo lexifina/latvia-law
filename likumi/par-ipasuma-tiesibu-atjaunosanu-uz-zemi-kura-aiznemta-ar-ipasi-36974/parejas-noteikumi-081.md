@@ -1,0 +1,1 @@
+Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta noteikumi nr.114 "Noteikumi par īpašuma tiesību atjaunošanu uz zemi, kura aizņemta ar īpaši aizsargājamajiem dabas objektiem" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 11.nr.).

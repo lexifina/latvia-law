@@ -1,0 +1,1 @@
+3.pants. Ja Vides aizsardzības un reģionālās attīstības ministrijas ekspertu atzinums ir pozitīvs, mēneša laikā pēc ekspertu atzinuma saņemšanas īpašuma tiesības uz zemi atjauno likumā noteiktajā kārtībā.
