@@ -1,6 +1,6 @@
 142.pants. Kreditoru prasījumu apmierināšanas secīgums kredītiestādes likvidācijas gadījumā ir šāds:
 1) fizisko personu prasījumi, kuri nepārsniedz 500 latu;
-2) nodokļi un citi maksājumi (parādi) valsts budžetā un pašvaldību budžetos, kā arī valdības kredīti un procentu maksājumi par to izmantošanu, kuri līdz maksātnespējas vai likvidācijas pasludināšanas brīdim atmaksāti bankai;
+2) nodokļi un citi maksājumi (parādi) valsts budžetā un pašvaldību budžetos, kā arī tie tranzītkredīti un procentu maksājumi par šo kredītu izmantošanu, kuri līdz maksātnespējas, bankrota vai likvidācijas pasludināšanas brīdim ir atmaksāti bankai;
 3) prasījumi, kas nodrošināti ar hipotēkām;
 4) tie parādi kreditoriem, kuri izveidojušies, kredītiestādēm pieņemot izpildei, bet neizpildot klienta maksājuma uzdevumus par naudas pārskaitīšanu budžeta kontos;
 5) parādi kreditoriem, kuri savas prasības pieteikuši noteiktajā termiņā, arī fizisko personu prasījumu atlikusī daļa pēc šā panta 1. punktā minētās summas nomaksas;

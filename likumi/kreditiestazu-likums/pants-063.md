@@ -7,6 +7,9 @@ d) civillietā par tāda noguldījuma sadalīšanu, kas ir laulāto kopīga mant
 e) lietā par parādnieka maksātnespēju un bankrotu,
 f) mantojuma lietā noguldītāja nāves gadījumā;
 2) Valsts kontrolei - par juridiskajām personām, kuru rīcībā ir valsts manta vai kuras tiek finansētas no valsts līdzekļiem, vai kuras izpilda valsts pasūtījumus un piegādes;
-3) nodokļu administrācijai - ar nodokli apliekamā objekta (ienākumu) uzskaitei un reģistrācijai vai nodokļu un nodevu nesamaksas gadījumos;
+3) Valsts ieņēmumu dienestam, ja:
+a) nodokļu maksātājs neiesniedz nodokļu administrācijai konkrēto nodokļu likumos paredzētās deklarācijas vai nodokļu aprēķinus,
+b) nodokļu maksātāja nodokļu audita pārbaudes laikā ir konstatēti grāmatvedības uzskaites vai nodokļu normatīvo aktu pārkāpumi,
+c) nodokļu maksātājs neveic nodokļu maksājumus atbilstoši nodokļu likumu prasībām;
 4) Valsts sociālās apdrošināšanas fondam - sociālā nodokļa nemaksāšanas gadījumā.
 (2) Kredītiestāde ziņas sniedz, pamatojoties uz valsts institūcijas rakstveida pieprasījumu, kurā norādīta konkrētā pārbaudāmā persona un pamatota ziņu nepieciešamība atbilstoši konkrētā likuma prasībām.
