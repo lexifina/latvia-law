@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par piesārņojošo vielu emisiju ūdenī",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "16",
+  "official_journal_page": null,
+  "official_journal_date": "2002-01-30",
+  "entry_into_force": "2002-01-31",
+  "notification_date": "2009-02-06",
+  "commission_reference": "MNE(2009)50593",
+  "nim_celex": "72006L0118LVA_160430",
+  "nim_id": "160430",
+  "transposes_celex": [
+    "32006L0118"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9b5bfda2-0de7-4cda-962d-5d0a72a59985",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
