@@ -1,0 +1,1 @@
+1.pants. 2000.gada 18.decembrī parakstītais Latvijas Republikas un Slovēnijas Republikas papildprotokols "Par grozījumiem Latvijas Republikas un Slovēnijas Republikas brīvās tirdzniecības līguma B protokolā" (turpmāk - Papildprotokols) ar šo likumu tiek pieņemts un apstiprināts.
