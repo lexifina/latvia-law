@@ -10,4 +10,5 @@
 9) sporta biedrības "Daugava" Centrālais sporta nams (juridiskā adrese - Rīgā, Kr. Barona ielā 107);
 10) Rīgas pilsētas municipālais uzņēmums "Rīgas sporta manēža" (juridiskā adrese - Rīgā, Maskavas ielā 160);
 11) J.Daļiņa Valmieras stadions (juridiskā adrese - Valmierā, J.Daļiņa ielā 2);
-12) Aizsardzības spēku sporta kluba sporta komplekss (juridiskā adrese - Rīgā, Krustabaznīcas ielā 9).
+12) Aizsardzības spēku sporta kluba sporta komplekss (juridiskā adrese - Rīgā, Krustabaznīcas ielā 9);
+13) bezpeļņas organizācijas sabiedrības ar ierobežotu atbildību Olimpiskā centra "Ventspils" Ventspils sporta halle (juridiskā adrese - Ventspilī, Sporta ielā 7/9).
