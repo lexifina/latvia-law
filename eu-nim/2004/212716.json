@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Eiropas Parlamenta vēlēšanu likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "22 (2970)",
+  "official_journal_page": null,
+  "official_journal_date": "2004-02-11",
+  "entry_into_force": "2004-02-12",
+  "notification_date": "2014-01-20",
+  "commission_reference": "MNE(2014)50475",
+  "nim_celex": "72013L0001LVA_212716",
+  "nim_id": "212716",
+  "transposes_celex": [
+    "32013L0001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b649eba1-520e-4ad8-8457-0d19ddf5cfa0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
