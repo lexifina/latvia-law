@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par vērtspapīriem" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 20.nr.; 1997, 14., 23.nr.; 1998, 22.nr.; 2000, 6., 13.nr.; 2001, 12., 23.nr.).

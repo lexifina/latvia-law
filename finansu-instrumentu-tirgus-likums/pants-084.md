@@ -1,0 +1,10 @@
+84.pants. Šīs nodaļas darbības joma
+(1) Šīs nodaļas noteikumi ir saistoši visām personām attiecībā uz finanšu instrumentiem un atvasinātiem preču instrumentiem:
+1) kurus tirgo kādā no Latvijas Republikas regulētajiem tirgiem, neatkarīgi no tā, vai darījums noticis kādā no šiem regulētajiem tirgiem vai ārpus tiem;
+2) attiecībā uz kuriem emitenta pilnvarotas pārvaldes institūcijas pieņēmušas lēmumu par iesniegumu, uz kura pamata varētu uzsākt šo finanšu instrumentu vai atvasinātu preču instrumentu tirdzniecību kādā no Latvijas Republikas regulētajiem tirgiem;
+3) kurus tirgo kādā no dalībvalstu regulētajiem tirgiem, neatkarīgi no tā, vai darījums noticis kādā no šiem regulētajiem tirgiem vai ārpus tiem;
+4) attiecībā uz kuriem emitenta pilnvarotas pārvaldes institūcijas pieņēmušas lēmumu par iesniegumu, uz kura pamata varētu uzsākt šo finanšu instrumentu vai atvasinātu preču instrumentu tirdzniecību kādā no dalībvalstu regulētajiem tirgiem.
+(2) Komisija uzrauga darbības, kas tiek veiktas ar šā panta pirmās daļas 1. un 2.punktā minētajiem finanšu instrumentiem un atvasinātiem preču instrumentiem Latvijas Republikas teritorijā, dalībvalstīs vai ārvalstīs.
+(3) Komisija uzrauga darbības, kas tiek veiktas ar šā panta pirmās daļas 3. un 4.punktā minētajiem finanšu instrumentiem un atvasinātiem preču instrumentiem Latvijas Republikas teritorijā.
+(4) Šīs nodaļas noteikumi par iekšējās informācijas izmantošanas aizliegumu attiecas arī uz tādiem finanšu instrumentiem, kuri nav iekļauti kādā no Latvijas Republikas vai dalībvalstu regulētajiem tirgiem, bet kuru cena ir atkarīga no finanšu instrumentiem, kurus tirgo kādā no Latvijas Republikas vai dalībvalstu regulētajiem tirgiem.
+(5) Šīs nodaļas noteikumi neattiecas uz darījumiem, kurus veic Latvijas Republika, Latvijas Banka vai cita valsts pilnvarota institūcija, Eiropas Centrālā banka, dalībvalstu centrālās bankas vai citas dalībvalstu pilnvarotas institūcijas, lai īstenotu monetāro, valūtas maiņas kursa vai valsts parāda pārvaldes politiku.

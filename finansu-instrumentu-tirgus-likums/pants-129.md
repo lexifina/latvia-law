@@ -1,0 +1,5 @@
+129.pants. Klientu naudas līdzekļu turēšana
+(1) Ieguldījumu brokeru sabiedrība ir tiesīga turēt klienta naudas līdzekļus, kas izmantojami tikai ar finanšu instrumentiem veicamo klienta darījumu nodrošināšanai saskaņā ar klienta un ieguldījumu brokeru sabiedrības rakstveida līgumu.
+(2) Klientu naudas līdzekļus ieguldījumu brokeru sabiedrība tur šķirti no saviem naudas līdzekļiem Latvijas Republikā vai ārvalstī reģistrētā kredītiestādē vai ārvalstī reģistrētā ieguldījumu brokeru sabiedrībā, ja šai ieguldījumu brokeru sabiedrībai ir tiesības turēt klientu naudas līdzekļus tās reģistrācijas valstī, un informē attiecīgo kredītiestādi vai ieguldījumu brokeru sabiedrību, ka kontā esošie naudas līdzekļi pieder tās klientiem.
+(3) Ieguldījumu brokeru sabiedrība veic tās turējumā esošo katram klientam piederošo naudas līdzekļu uzskaiti.
+(4) Naudas līdzekļus, kas pieder ieguldījumu brokeru sabiedrības klientam, nedrīkst izmantot ieguldījumu brokeru sabiedrības kreditoru prasījumu apmierināšanai. Šī prasība attiecas arī uz gadījumiem, kad ieguldījumu brokeru sabiedrība likumā noteiktajā kārtībā atzīta par maksātnespējīgu.

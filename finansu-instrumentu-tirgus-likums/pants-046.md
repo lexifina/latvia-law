@@ -1,0 +1,4 @@
+46.pants. Atbildība par prospektā iekļauto informāciju
+(1) Prospektā norāda par tajā ietvertās informācijas patiesumu atbildīgo emitenta pārvaldes institūciju locekļu vārdu, uzvārdu, personas kodu (ja tāds ir) un amatu. Prospektā iekļauj arī katras šādas personas paziņojumu par to, ka, pēc šīs personas rīcībā esošajām ziņām, prospektā iekļautā informācija atbilst patiesajiem apstākļiem, kā arī par to, ka netiek noklusēti fakti, kas varētu ietekmēt prospektā iekļautās informācijas nozīmi.
+(2) Ja persona nav atbildīga par visu prospektā iekļauto informāciju, prospektā norāda, par kuru tā daļu attiecīgā persona ir atbildīga.
+(3) Ieguldītājs, ceļot prasību tiesā vispārējā kārtībā, var pieprasīt zaudējumu atlīdzināšanu no prospektā norādītajām personām, kuras ir atbildīgas par tajā iekļautās informācijas patiesumu, ja prospektā iekļautas nepatiesas vai nepilnīgas informācijas dēļ tas cietis zaudējumus.

@@ -1,0 +1,6 @@
+86.pants. Iekšējās informācijas turētāju saraksts
+(1) Emitents, kura finanšu instrumenti vai atvasināti preču instrumenti tiek tirgoti regulētajā tirgū, izstrādā iekšējos noteikumus par kārtību, kādā iekšējās informācijas turētāju sarakstā iekļautās personas var veikt darījumus ar šā emitenta finanšu instrumentiem vai atvasinātiem preču instrumentiem. Iekšējās informācijas turētāju sarakstā emitents iekļauj vismaz informāciju par valdes un padomes locekļiem, iekšējo revidentu (sabiedrības kontrolieri) un citām personām, kuru rīcībā saskaņā ar darba pienākumiem regulāri nonāk iekšējā informācija.
+(2) Šā panta pirmajā daļā minētos iekšējos noteikumus un iekšējās informācijas turētāju sarakstu emitents nekavējoties iesniedz Komisijai pēc tās pieprasījuma.
+(3) Iekšējās informācijas turētāju sarakstu, kā arī jebkādus grozījumus tajā ietvertajā informācijā emitents iesniedz tirgus organizētājam.
+(4) Iekšējās informācijas turētāju sarakstā iekļautās personas triju darbdienu laikā pēc darījuma veikšanas ar emitenta finanšu instrumentiem vai atvasinātiem preču instrumentiem iesniedz rakstveida paziņojumu attiecīgajam tirgus organizētājam.
+(5) Tirgus organizētājs informāciju par iekšējās informācijas turētāju sarakstā iekļauto personu darījumiem nekavējoties ievieto savā mājas lapā internetā.

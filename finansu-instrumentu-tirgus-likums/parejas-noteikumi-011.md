@@ -1,0 +1,1 @@
+11. Šā likuma X nodaļa stājas spēkā 2005.gada 1.janvārī. Gada pārskatu par 2003. un 2004.gadu ieguldījumu brokeru sabiedrība sagatavo atbilstoši likuma "Par uzņēmumu gada pārskatiem" un likuma "Par konsolidētajiem gada pārskatiem" prasībām.

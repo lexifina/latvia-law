@@ -1,0 +1,6 @@
+99.pants. Centrālā depozitārija tiesības un pienākumi
+(1) Centrālais depozitārijs nosaka finanšu instrumentu uzskaites principus un kārtību, kas ir saistoša visiem tā dalībniekiem.
+(2) Centrālajam depozitārijam ir tiesības saņemt atlīdzību par sniegtajiem pakalpojumiem. Atlīdzības apmērs un veids paredzēts Centrālā depozitārija noteikumos.
+(3) Centrālais depozitārijs uzrauga, lai tā dalībnieki ievērotu Centrālā depozitārija noteikumu prasības, kā arī piemēro Centrālā depozitārija noteikumos paredzētās sankcijas prasību neievērošanas gadījumā. Centrālais depozitārijs nekavējoties informē Komisiju par tā atklātajiem šā likuma, citu normatīvo aktu un Centrālā depozitārija noteikumu pārkāpumiem, kā arī par lēmumiem, kas pieņemti saistībā ar šiem pārkāpumiem.
+(4) Centrālajam depozitārijam ir tiesības atvērt finanšu instrumentu kontus ārvalstu centrālajos depozitārijos vai finanšu instrumentu norēķinus organizējošās organizācijās, kā arī atvērt pie sevis finanšu instrumentu kontus šīm organizācijām.
+(5) Šā panta ceturtajā daļā noteiktā kontu atvēršana iespējama pēc līguma noslēgšanas ar attiecīgajām organizācijām. Centrālais depozitārijs nekavējoties informē Komisiju par šādu līgumu noslēgšanu.

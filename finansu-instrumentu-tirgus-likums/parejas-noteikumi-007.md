@@ -1,0 +1,1 @@
+7. Mēneša laikā no šā likuma spēkā stāšanās dienas Centrālais depozitārijs ievieto savā mājas lapā internetā un publicē laikrakstā "Latvijas Vēstnesis" spēkā esošos noteikumus, kas ir saistoši Centrālā depozitārija dalībniekiem un nodrošina šajā likumā noteikto Centrālā depozitārija funkciju izpildi.

@@ -1,0 +1,4 @@
+44.pants. Prospekta saturs
+(1) Prospektu izstrādā saskaņā ar šo likumu un Komisijas noteikumiem par prospekta minimālo saturu un kārtību, kādā emitents atbrīvojams no pienākuma ietvert prospektā atsevišķu informāciju.
+(2) Šā panta pirmajā daļā minētos noteikumus Komisija izstrādā, ievērojot attiecīgo Eiropas Kopienu direktīvu prasības un pārvedamu vērtspapīru tirgus regulēšanas vispāratzītu labu praksi.
+(3) Prospektā ietver ziņas par emitentu un tā piedāvātajiem pārvedamiem vērtspapīriem, kuras, ņemot vērā emitenta darbības veidu un tā piedāvāto pārvedamu vērtspapīru veidu un kategoriju, būtu jāzina potenciālajiem ieguldītājiem vai personām, kuras sniedz konsultācijas par ieguldījumiem finanšu instrumentos, lai novērtētu emitenta finansiālo stāvokli, tā pašreizējo darbību un nākotnes plānus. Prospektā ietver arī informāciju par pārvedamos vērtspapīros nostiprinātajām tiesībām.

@@ -1,0 +1,11 @@
+82.pants. Galīgā akciju atpirkšanas piedāvājuma izteikšanas kārtība
+(1) Ja piedāvātājs nolemj izteikt galīgo akciju atpirkšanas piedāvājumu, tas sagatavo piedāvājuma prospektu un iesniedz to Komisijai vienlaikus ar iesniegumu un šā likuma 70.panta otrās daļas 2., 3. un 4.punktā minētajiem dokumentiem.
+(2) Ja galīgā akciju piedāvājuma izteicējs daļu līdzdalības ieguvis netiešā veidā, vienlaikus ar šā panta pirmajā daļā norādītajiem dokumentiem tas iesniedz Komisijai arī dokumentus (līgumus, pilnvaras u.c.), kas apliecina tā tiesības uz netiešo līdzdalību.
+(3) Galīgajā akciju atpirkšanas piedāvājuma prospektā ietver vismaz šā likuma 71.panta 1., 2., 4., 5., 6., 7. un 8.punktā minēto informāciju.
+(4) Komisija iesniegumu un galīgo akciju atpirkšanas piedāvājuma prospektu izskata 10 darbdienu laikā pēc visu šajā pantā minēto atbilstoši normatīvo aktu prasībām sagatavoto un noformēto dokumentu saņemšanas un pieņem lēmumu par atļauju vai atteikumu izteikt galīgo akciju atpirkšanas piedāvājumu.
+(5) Komisija nekavējoties, bet ne vēlāk kā nākamajā darbdienā informē piedāvātāju par pieņemto lēmumu.
+(6) Komisija nekavējoties informē attiecīgo tirgus organizētāju un nosūta tam galīgā akciju atpirkšanas piedāvājuma prospektu elektroniskā veidā. Tirgus organizētājs galīgā akciju atpirkšanas piedāvājuma prospektu nekavējoties ievieto savā mājas lapā internetā.
+(7) Komisija nekavējoties nosūta Latvijas Centrālajam depozitārijam lēmuma par atļauju izteikt galīgo akciju atpirkšanas piedāvājumu kopiju un galīgā akciju atpirkšanas piedāvājuma prospektu elektroniskā veidā. Latvijas Centrālais depozitārijs nosūta galīgā akciju atpirkšanas piedāvājuma prospektu elektroniskā veidā visām kredītiestādēm un ieguldījumu brokeru sabiedrībām, kuru kontos Latvijas Centrālajā depozitārijā ir iegrāmatotas attiecīgās akcijas.
+(8) Piedāvātājs piecu darbdienu laikā pēc tam, kad saņēmis Komisijas lēmumu par atļauju izteikt galīgo akciju atpirkšanas piedāvājumu, publicē laikrakstā "Latvijas Vēstnesis" šādu informāciju par galīgo akciju atpirkšanas piedāvājumu:
+1) šā likuma 71.panta 1., 2., 5. un 7.punktā minēto informāciju;
+2) vietu un laiku, kur un kad iespējams iepazīties ar galīgā akciju atpirkšanas piedāvājuma prospektu vai to saņemt.

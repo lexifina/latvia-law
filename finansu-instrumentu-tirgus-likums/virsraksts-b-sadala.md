@@ -1,0 +1,2 @@
+B sadaļa
+Būtiska līdzdalība

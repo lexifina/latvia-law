@@ -1,0 +1,1 @@
+8. Ieguldījumu brokeru sabiedrības, kuras saņēmušas Komisijas licenci starpniekdarbības veikšanai, sešu mēnešu laikā no šā likuma spēkā stāšanās dienas pārreģistrē licenci Komisijā, pārreģistrācijas iesniegumā norādot, kādus ieguldījumu pakalpojumus un ieguldījumu blakuspakalpojumus tās vēlas sniegt.

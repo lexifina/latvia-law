@@ -1,0 +1,5 @@
+55.pants. Finanšu instrumentu tirdzniecības apturēšana un to izslēgšana no regulētā tirgus
+(1) Tirgus organizētājs var apturēt finanšu instrumentu tirdzniecību vai izslēgt finanšu instrumentus no regulētā tirgus, ja attiecīgo finanšu instrumentu regulāra tirdzniecība kļūst neiespējama vai tiek apdraudētas ieguldītāju intereses.
+(2) Ja tirgus organizētājs neizmanto šā panta pirmajā daļā noteiktās tiesības, lai gan attiecīgo finanšu instrumentu regulāra tirdzniecība kļūst neiespējama vai tiek apdraudētas ieguldītāju intereses, Komisijai ir tiesības apturēt finanšu instrumentu tirdzniecību vai izslēgt finanšu instrumentus no regulētā tirgus.
+(3) Tirgus organizētāja lēmumu par finanšu instrumentu tirdzniecības apturēšanu vai finanšu instrumentu izslēgšanu no regulētā tirgus var pārsūdzēt Komisijā 30 dienu laikā no lēmuma saņemšanas dienas.
+(4) Finanšu instrumentus no regulētā tirgus var izslēgt, pamatojoties uz emitenta iesniegumu. Lēmumu par akciju izslēgšanu no regulētā tirgus pieņem emitenta akcionāru sapulce. Sapulces protokolā norāda tos akcionārus, kuri balsojuši "par".

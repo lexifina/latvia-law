@@ -1,0 +1,3 @@
+59.pants. Līdzvērtīgas informācijas sniegšana
+(1) Emitents, kura finanšu instrumenti ir iekļauti vairākos Latvijas Republikas vai dalībvalstu regulētajos tirgos, ir atbildīgs par līdzvērtīgas informācijas sniegšanu katram no šo regulēto tirgu organizētājiem.
+(2) Emitents, kura finanšu instrumenti ir iekļauti kādā no Latvijas Republikas vai dalībvalstu regulētajiem tirgiem un vienā vai vairākos ārvalstu regulētajos tirgos, ir atbildīgs par to, lai Latvijas Republikas un dalībvalstu tirgus organizētājiem tiktu sniegta informācija, kas ir līdzvērtīga ārvalsts tirgus organizētājam sniegtajai informācijai, ja šī informācija var ietekmēt regulētajā tirgū iekļauto emitenta finanšu instrumentu cenu vai ieguldītāja lēmumu pirkt vai pārdot šos finanšu instrumentus.

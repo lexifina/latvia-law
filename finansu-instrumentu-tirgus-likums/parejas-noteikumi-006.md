@@ -1,0 +1,1 @@
+6. Šā likuma 69.panta ceturtās daļas noteikumi attiecas arī uz tiem akciju atsavināšanas ierobežojumiem, kuri noteikti likuma "Par akciju sabiedrībām" 34.pantā, ja akciju sabiedrība līdz šā likuma spēkā stāšanās dienai nav pārreģistrējusies Komercreģistrā.

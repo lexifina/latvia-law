@@ -1,0 +1,5 @@
+62.pants. Paziņošanas pienākuma izņēmumi
+(1) Šā likuma 61.pantā noteiktais paziņošanas pienākums neattiecas uz kredītiestādēm vai ieguldījumu brokeru sabiedrībām, kuras savā vārdā iegūst vai atsavina akcijas šā likuma 61.pantā norādītajā daudzumā, ja kredītiestāde vai brokeru sabiedrība neplāno izmantot no sev piederošajām akcijām izrietošās balsstiesības, lai ietekmētu akciju sabiedrības (emitenta) pārvaldes institūciju darbu un akciju sabiedrības saimniecisko un finanšu darbību.
+(2) Šā panta pirmās daļas noteikumus piemēro tikai tādām kredītiestādēm un ieguldījumu brokeru sabiedrībām, kas ir tā tirgus organizētāja biedri, kura organizētajā regulētajā tirgū tirgo attiecīgās akcijas.
+(3) Šā likuma 61.pantā noteiktais paziņošanas pienākums neattiecas uz gadījumiem, kad akcijas iegūst meitas sabiedrība, ja paziņojumu jau ir sniegusi mātes sabiedrība.
+(4) Ja par akciju iegūšanu šā likuma 61.pantā noteiktajā kārtībā ir ziņojusi persona, kas netieši ieguvusi akcijas, tad personām, kuras izmantojot ir notikusi netieša akciju iegūšana, par akciju iegūšanu nav jāziņo.

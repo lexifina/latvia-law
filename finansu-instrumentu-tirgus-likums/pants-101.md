@@ -1,0 +1,12 @@
+101.pants. Tiesības sniegt ieguldījumu pakalpojumus un ieguldījumu blakuspakalpojumus
+(1) Ieguldījumu pakalpojumus Latvijas Republikā ir tiesīgas sniegt tikai ieguldījumu brokeru sabiedrības un kredītiestādes, kā arī atvērtos ieguldījumu fondus pārvaldošās sabiedrības to darbību regulējošajos normatīvajos aktos noteiktajā kārtībā.
+(2) Par kredītiestādēm šā likuma F sadaļas izpratnē uzskatāmas Latvijas Republikā reģistrētas bankas un ārvalstu banku filiāles, kā arī dalībvalstīs reģistrētas kredītiestādes.
+(3) Par ieguldījumu brokeru sabiedrībām šā likuma F sadaļas izpratnē uzskatāmas Latvijas Republikā un dalībvalstīs reģistrētas ieguldījumu brokeru sabiedrības.
+(4) Par ieguldījumu pakalpojumiem, kas tiek sniegti Latvijas Republikā, uzskatāmi tādi ieguldījumu pakalpojumi, kuru reklamēšanas vai piedāvāšanas valoda, veids vai saturs liecina par to, ka attiecīgais pakalpojums tiek piedāvāts Latvijas Republikas rezidentiem.
+(5) Ieguldījumu brokeru sabiedrības un kredītiestādes, kas sniedz ieguldījumu pakalpojumus, ievēro šo likumu, Komisijas noteikumus un attiecībā uz tām izdotos administratīvos aktus, kā arī iekšējo politiku un procedūras. Ieguldījumu brokeru sabiedrības un kredītiestādes, kuras sniedz ieguldījumu pakalpojumus ar Centrālajā depozitārijā iekļautiem finanšu instrumentiem, ievēro arī Centrālā depozitārija noteikumus. Ieguldījumu brokeru sabiedrības un kredītiestādes, kuras sniedz ieguldījumu pakalpojumus ar regulētajā tirgū iekļautiem finanšu instrumentiem, ievēro arī attiecīgā tirgus organizētāja noteikumus.
+(6) Šā likuma F sadaļas noteikumus neattiecina uz:
+1) apdrošinātājiem un pārapdrošinātājiem;
+2) koncernā ietilpstošām komercsabiedrībām, kuras sniedz ieguldījumu pakalpojumus tikai citām šajā koncernā ietilpstošām komercsabiedrībām;
+3) personām, kuras sniedz ieguldījumu pakalpojumus neregulāri tikai savas profesionālās darbības ietvaros, ja šo personu profesionālo darbību regulē speciāli normatīvie akti un ētikas kodeksi, kuri neaizliedz tām sniegt ieguldījumu pakalpojumus;
+4) komercsabiedrībām, kuras sniedz ieguldījumu pakalpojumus tikai saviem valdes un padomes locekļiem un darbiniekiem, un, ja šīs komercsabiedrības ietilpst koncernā, - arī citu tajā pašā koncernā ietilpstošo komercsabiedrību valdes un padomes locekļiem un darbiniekiem;
+5) Latvijas Republikā reģistrētām sabiedrībām, kuras saskaņā ar likumu ir tiesīgas pārvaldīt kolektīvo ieguldījumu uzņēmumus, vai dalībvalstī reģistrētām sabiedrībām, kuras pārvalda kolektīvos ieguldījumus.

@@ -1,0 +1,9 @@
+42.pants. Prasības akciju iekļaušanai oficiālajā sarakstā
+(1) Akcijas iekļauj oficiālajā sarakstā, ja:
+1) tajā iekļaujamo akciju prognozējamā tirgus kapitalizācija ir vismaz 1 000 000 eiro ekvivalents latos pēc Latvijas Bankas kursa dienā, kad tirgus organizētājs pieņem lēmumu par akciju iekļaušanu oficiālajā sarakstā. Ja oficiālajā sarakstā iekļaujamo akciju tirgus kapitalizāciju nav iespējams prognozēt, akciju iekļaušana šajā sarakstā pieļaujama, ja akciju sabiedrības apmaksātais pamatkapitāls un rezerves (tostarp peļņa vai zaudējumi) pēdējā pārskata gada laikā kopumā ir vismaz 1 000 000 eiro ekvivalents latos pēc Latvijas Bankas kursa;
+2) akciju sabiedrība ir darījusi publiski pieejamus gada pārskatus vismaz par trim pēdējiem pārskata gadiem;
+3) iesniegums iekļaušanai oficiālajā sarakstā iesniegts par visām attiecīgās kategorijas akcijām.
+(2) Ja iekļaušana regulētā tirgus oficiālajā sarakstā notiek pēc publiskā piedāvājuma, attiecīgo akciju tirdzniecību var uzsākt tikai pēc sākotnējās izvietošanas beigu dienas.
+(3) Ja akciju publiskais piedāvājums nenotiek ar regulētā tirgus starpniecību, akcijas var iekļaut oficiālajā sarakstā tikai tad, ja iekļaušanai šajā sarakstā piesaka vismaz 25 procentus no tā parakstītā kapitāla daļas, kuru pārstāv attiecīgās kategorijas akcijas.
+(4) Ja akciju publiskais piedāvājums notiek ar tirgus organizētāja starpniecību, akcijas var iekļaut oficiālajā sarakstā, ja iekļaušanai šajā sarakstā piesaka vismaz 25 procentus no tā parakstītā kapitāla daļas, kuru pārstāv attiecīgās kategorijas akcijas, vai arī tirgus organizētājam ir pamats uzskatīt, ka, pastāvot pat zemākai procentuālajai attiecībai, pēc iekļaušanas oficiālajā sarakstā šo akciju tirgus darbosies pietiekami aktīvi.
+(5) Tirgus organizētājam ir tiesības noteikt papildu prasības un stingrākus kritērijus akciju iekļaušanai oficiālajā sarakstā.

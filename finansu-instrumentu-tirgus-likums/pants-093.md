@@ -1,0 +1,7 @@
+93.pants. Publiskajā apgrozībā esošo finanšu instrumentu iegrāmatošanas un uzskaites kārtība
+(1) Publiskajā apgrozībā tiek laisti tikai dematerializēti finanšu instrumenti.
+(2) Centrālais depozitārijs iegrāmato finanšu instrumentus pēc līguma noslēgšanas ar emitentu un pēc tam, kad tas saņēmis tirgus organizētāja lēmuma par finanšu instrumentu iekļaušanu regulētajā tirgū apliecinātu norakstu (kopiju) un citus Centrālā depozitārija noteikumos minētos dokumentus.
+(3) Ieguldījumu brokeru sabiedrības un kredītiestādes, kuras vēlas veikt tādu finanšu instrumentu turēšanu, kuri atrodas publiskajā apgrozībā un ir iegrāmatoti Centrālajā depozitārijā, atver kontus Centrālajā depozitārijā.
+(4) Centrālais depozitārijs veic ieguldījumu brokeru sabiedrībai vai kredītiestādei piederošo finanšu instrumentu uzskaiti un visu attiecīgās ieguldījumu brokeru sabiedrības vai kredītiestādes klientiem piederošo un to turējumā esošo finanšu instrumentu kopīgo uzskaiti.
+(5) Ieguldījumu brokeru sabiedrība un kredītiestāde nodrošina katra klienta finanšu instrumentu uzskaiti atbilstoši Centrālā depozitārija noteiktajiem uzskaites principiem un kārtībai.
+(6) Attiecībā uz finanšu instrumentu iegrāmatošanu finanšu instrumentu kontos vienmēr piemēro principu, saskaņā ar kuru tie viena un tā paša veida un kategorijas finanšu instrumenti, kuri pirmie iegrāmatoti kontā, uzskatāmi par pirmajiem, kas norakstīti no tā.

@@ -1,0 +1,9 @@
+57.pants. Ceturkšņa un pusgada pārskati
+(1) Kapitālsabiedrība, kuras akcijas iekļautas oficiālajā sarakstā, iesniedz tirgus organizētājam ceturkšņa pārskatus par pirmo un trešo ceturksni un pusgada pārskatu, kas sagatavoti atbilstoši tās reģistrācijas valsts likumiem, starptautiskajiem finanšu pārskatu standartiem un attiecīgā tirgus organizētāja noteikumiem.
+(2) Ceturkšņa un pusgada pārskatu iesniegšanas termiņus nosaka tirgus organizētājs.
+(3) Ceturkšņa un pusgada pārskati sastāv no bilances un peļņas vai zaudējumu aprēķina. Pusgada pārskatam pievieno arī vadības ziņojumu par kapitālsabiedrības darbību.
+(4) Katram bilances un peļņas vai zaudējumu aprēķina postenim pusgada pārskatā norāda arī attiecīgajam laikposmam atbilstošo skaitli par iepriekšējo pārskata gadu.
+(5) Vadības ziņojumā sniedz visu būtisko informāciju, kas ļauj ieguldītājiem pamatoti novērtēt kapitālsabiedrības darbības attīstības tendences un peļņu vai zaudējumus, norādot uz īpašiem apstākļiem, kuri attiecīgajā laikposmā ietekmējuši šo darbību un peļņu vai zaudējumus. Informāciju vadības ziņojumā atspoguļo tā, lai nodrošinātu iespēju to salīdzināt ar informāciju par attiecīgo laikposmu iepriekšējā pārskata gadā. Vadības ziņojumā iekļauj arī norādes par kapitālsabiedrības iespējamo turpmāko attīstību kārtējā pārskata gadā.
+(6) Ja ceturkšņa un pusgada pārskatus ir pārbaudījis zvērināts revidents, tos iesniedz tirgus organizētājam kopā ar attiecīgo zvērināta revidenta ziņojumu.
+(7) Akciju sabiedrība, kas sagatavo konsolidētos gada pārskatus, ceturkšņa un pusgada pārskatus var iesniegt gan konsolidētā, gan nekonsolidētā veidā.
+(8) Tirgus organizētājs ceturkšņa un pusgada pārskatus nekavējoties, bet ne vēlāk kā nākamajā darbdienā pēc to saņemšanas ievieto savā mājas lapā internetā, kā arī dara šos pārskatus publiski pieejamus jebkurā citā tirgus organizētāja noteiktajā veidā.

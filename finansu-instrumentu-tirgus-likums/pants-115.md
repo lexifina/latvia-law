@@ -1,0 +1,4 @@
+115.pants. Ieguldījumu brokeru sabiedrības gada pārskats
+(1) Ieguldījumu brokeru sabiedrība par katru darbības gadu sagatavo pārskatu, kurā iekļauj bilanci, ārpusbilances posteņus, peļņas vai zaudējumu aprēķinu, pārskatu par izmaiņām kapitālā un rezervēs, naudas plūsmas pārskatu un pielikumus, kā arī ieguldījumu brokeru sabiedrības vadības ziņojumu.
+(2) Gada pārskatu sagatavo saskaņā ar šo likumu un no šā likuma izrietošiem Komisijas norādījumiem, kuriem jāatbilst starptautiskajiem finanšu pārskatu standartiem. Gada pārskatam ir jāsniedz patiess un skaidrs priekšstats par ieguldījumu brokeru sabiedrības aktīviem un saistībām, tās finansiālo stāvokli, darbības rezultātiem un naudas plūsmu.
+(3) Ja nav iespējams gūt patiesu un skaidru priekšstatu par ieguldījumu brokeru sabiedrību saskaņā ar šā panta otrās daļas prasībām, gada pārskatā ietverama attiecīga papildu informācija.

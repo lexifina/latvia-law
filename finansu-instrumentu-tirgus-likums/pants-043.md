@@ -1,0 +1,7 @@
+43.pants. Prasības obligāciju un citu parāda vērtspapīru iekļaušanai oficiālajā sarakstā
+(1) Obligācijas un citus parāda vērtspapīrus var iekļaut oficiālajā sarakstā, ja kopējais aizņēmuma apjoms nav mazāks par 200 000 eiro ekvivalentu latos pēc Latvijas Bankas kursa. Šo prasību nepiemēro nepārtrauktu emisiju gadījumā, ja nav noteikts aizņēmuma apjoms.
+(2) Tirgus organizētājs var pieņemt lēmumu par šā panta pirmās daļas prasībām neatbilstošu parāda vērtspapīru iekļaušanu oficiālajā sarakstā pēc tam, kad pārliecinājies, ka attiecīgajiem parāda vērtspapīriem būs pietiekami aktīvs tirgus.
+(3) Konvertējamas vai apmaināmas obligācijas, kā arī jebkurus parāda vērtspapīrus ar papildu tiesībām iegūt akcijas var iekļaut oficiālajā sarakstā tikai tad, ja ar minētajām obligācijām vai vērtspapīriem saistītās akcijas jau ir iekļautas tā paša vai cita tirgus organizētāja oficiālajā sarakstā.
+(4) Parāda vērtspapīrus var iekļaut oficiālajā sarakstā, ja iesniegums par to iekļaušanu attiecas uz visiem konkrētās emisijas parāda vērtspapīriem.
+(5) Ja iekļaušana oficiālajā sarakstā notiek pēc publiskā piedāvājuma, attiecīgo parāda vērtspapīru tirdzniecību var uzsākt tikai pēc sākotnējās izvietošanas beigu dienas. Šo noteikumu nepiemēro nepārtrauktu emisiju gadījumā, ja sākotnējās izvietošanas beigu diena nav noteikta.
+(6) Tirgus organizētājam ir tiesības noteikt papildu prasības un stingrākus kritērijus obligāciju un citu parāda vērtspapīru iekļaušanai oficiālajā sarakstā.

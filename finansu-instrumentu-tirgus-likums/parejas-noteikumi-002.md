@@ -1,0 +1,1 @@
+2. Persona, kas tieši vai netieši ieguvusi līdzdalību akciju sabiedrībā, kuras akcijas ir iekļautas regulētajā tirgū, tādā daudzumā, kas nodrošina vismaz 10 procentus no balsstiesīgo akciju skaita, iesniedz paziņojumu akcionāru sapulcei, kurā lemj par 2003.gada pārskata apstiprināšanu. Paziņojumā ietver visu šā likuma 61.panta sestajā daļā minēto informāciju.
