@@ -1,1 +1,1 @@
-2.pants. Saskaņā ar Konvencijas 11.panta otro daļu noteikt, ka Latvijas Republikā atbildīgā iestāde par Konvencijas 11.panta pirmajā daļā paredzēto informācijas sniegšanu un saņemšanu ir Īpašu uzdevumu ministra bērnu un ģimenes lietās sekretariāts.
+2.pants. Saskaņā ar Konvencijas 11.panta otro daļu noteikt, ka Latvijas Republikā atbildīgā iestāde par Konvencijas 11.panta pirmajā daļā paredzēto informācijas sniegšanu un saņemšanu ir Bērnu un ģimenes lietu ministrija.
