@@ -2,7 +2,7 @@
 Par uzticamu sertifikācijas pakalpojumu sniedzēju uzskatāma fiziskā vai juridiskā persona, kas atbilst visām šādām prasībām:
 1) izmanto uzticamu personālu, kam ir sertifikācijas pakalpojumu sniegšanai nepieciešamās speciālās zināšanas, pieredze, kvalifikācija, kas ir iepazīstināts ar attiecīgajiem sertifikācijas pakalpojumu sniegšanas drošības noteikumiem un nav sodīts par tīšu noziedzīgu nodarījumu izdarīšanu;
 2) izmanto uzticamas un drošas informācijas sistēmas un produktus, kuri ir pienācīgi aizsargāti pret neatļautu piekļūšanu un izmaiņām;
-3) uztur pietiekamus finansiālos resursus, lai izpildītu šā likuma un uz tā pamata izdoto normatīvo aktu prasības, un apdrošina savu civiltiesisko atbildību, lai varētu atlīdzināt ļaunā nolūkā vai aiz neuzmanības personām nodarītos zaudējumus;
+3) uztur pietiekamus finansiālos resursus, lai izpildītu šā likuma un uz tā pamata izdoto normatīvo aktu prasības, un apdrošina savu profesionālās darbības civiltiesisko atbildību šā likuma 14.pantā noteiktajā apjomā un kārtībā;
 4) ir akreditēta Datu valsts inspekcijā (turpmāk arī - uzraudzības iestāde) šajā likumā noteiktajā kārtībā;
 5) nodrošina elektroniskā paraksta pārbaudes datu reģistra nepārtrauktu pieejamību tiešsaistes režīmā;
 6) nodrošina tūlītēju kvalificēta sertifikāta anulēšanas, tā darbības apturēšanas un atjaunošanas iespēju šajā likumā noteiktajos gadījumos;
