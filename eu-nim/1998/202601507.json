@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Enerģētikas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "273/275",
+  "official_journal_page": null,
+  "official_journal_date": "1998-09-22",
+  "entry_into_force": "1998-10-06",
+  "notification_date": "2026-03-02",
+  "commission_reference": "MNE(2026)01507",
+  "nim_celex": "72023L0959LVA_202601507",
+  "nim_id": "202601507",
+  "transposes_celex": [
+    "32023L0959"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b3a3d462-6e9c-4bf4-b9fc-a042323e1439",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
