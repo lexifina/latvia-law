@@ -8,9 +8,10 @@
 6) nodeva par zemes rezervēšanu lauku apvidos - likums "Par zemes reformu Latvijas Republikas lauku apvidos";
 7) nodevas par apliecinājumiem un citu funkciju pildīšanu bāriņtiesās un pagasttiesās - likums "Par bāriņtiesām un pagasttiesām";
 8) (izslēgts ar 25.11.1999. likumu);
-9) (izslēgts ar 13.04.2000. likumu).
+9) (izslēgts ar 13.04.2000. likumu);
+10) preču vai pakalpojumu loterijas organizēšanas valsts nodeva - Preču un pakalpojumu loteriju likums.
 (2) Valsts nodevas ir maksājamas par valsts sniegto nodrošinājumu, šādiem juridiskajiem pakalpojumiem un likumos paredzētajiem speciāliem mērķiem:
-1) (izslēgts ar 20.12.2001. likumu);
+l) (izslēgts ar 20.12.2001. likumu);
 2) par notariālo darbību izpildi;
 3) par civilstāvokļa aktu reģistrēšanu, grozīšanu un papildināšanu;
 4) par izdevējdarbības un masu informācijas līdzekļu reģistrēšanu;
