@@ -1,0 +1,1 @@
+7.pants. Valsts nozīmes izglītības, kultūras un zinātnes objektu sastāvu pēc attiecīgās ministrijas pieteikuma nosaka Valsts īpašuma fonds un divu mēnešu laikā pēc šā likuma spēkā stāšanās dienas iesniedz apstiprināšanai Ministru kabinetam.

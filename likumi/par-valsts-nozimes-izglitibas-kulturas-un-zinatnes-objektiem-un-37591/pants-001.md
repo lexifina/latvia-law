@@ -1,0 +1,1 @@
+1.pants. Šā likuma mērķis ir noteikt izglītības, kultūras un zinātnes objektu un nacionālo sporta bāzu statusu nolūkā sakārtot zemes īpašuma tiesības Latvijas Republikas pilsētās saskaņā ar likuma "Par zemes reformu Latvijas Republikas pilsētās" 12. pantu.

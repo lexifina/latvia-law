@@ -1,0 +1,1 @@
+8.pants. Valsts nozīmes izglītības, kultūras un zinātnes iestāžu reorganizācijas gadījumā valsts nozīmes izglītības, kultūras un zinātnes objektu statuss saglabājas tām iestādēm, kuras pārmanto minēto iestāžu tiesības un pienākumus.
