@@ -1,0 +1,1 @@
+3.pants. Grozījumi stājas spēkā 1981.gada 28.janvāra Konvencijas par personu aizsardzību attiecībā uz personas datu automātisko apstrādi (ETS nr.108) 21.pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo laikrakstā "Latvijas Vēstnesis".

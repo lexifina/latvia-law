@@ -1,0 +1,1 @@
+1.pants. 1999.gada 15.jūnija grozījumi 1981.gada 28.janvāra Konvencijā par personu aizsardzību attiecībā uz personas datu automātisko apstrādi (ETS nr.108), atļaujot Eiropas Kopienām pievienoties (turpmāk - Grozījumi), ar šo likumu tiek pieņemti un apstiprināti.
