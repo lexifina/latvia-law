@@ -1,6 +1,6 @@
 12. pants. Finansu līdzekļu avoti
 (1) Ostas pārvaldes finansu līdzekļus veido:
-1) atskaitījumi no ostas nodevām;
+1) atskaitījumi no ostas maksām;
 2) zemes nomas maksa;
 3) nomas (īres) maksa par ostas pārvaldes valdījumā nodoto nekustamo īpašumu iznomāšanu (izīrēšanu);
 4) investīcijas;

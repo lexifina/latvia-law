@@ -9,3 +9,4 @@
 7) maksu par ugunsdzēsēju pakalpojumiem;
 8) maksu par jahtu stāvvietu.
 (2) Pakalpojumu maksas konkrēto apmēru nosaka pakalpojumu sniedzējs un kuģa pārstāvis, savstarpēji vienojoties.
+(3) Maksas tarifus par loču pakalpojumiem nosaka Satiksmes ministrija, un maksu saņem šā pakalpojuma sniedzējs.

@@ -1,7 +1,7 @@
 17. pants. Ostas kapteinis
 (1) Ostas kapteiņa funkcijas, tiesības un pienākumus nosaka Latvijas Jūras kodekss un šis likums.
 (2) Ostas kapteinis ir tieši pakļauts Latvijas Jūras administrācijai.
-(3) Ostas kapteiņa rīkojumi, kas saistīti ar kuģošanas drošības pasākumiem, ir obligāti visiem kuģiem, organizācijām, uzņēmumiem (uzņēmējsabiedrībām), kā arī pilsoņiem.
+(3) Ostas kapteiņa rīkojumi, kas saistīti ar kuģošanas drošības pasākumiem, ir obligāti visiem kuģiem, organizācijām, uzņēmumiem (uzņēmējsabiedrībām), kā arī citām juridiskajām un fiziskajām personām.
 (4) Ostas kapteinim ir tiesības aizliegt kuģim iziet no ostas šādos gadījumos:
 1) ja kuģis nav derīgs kuģošanai saskaņā ar 1974. gada Konvenciju par cilvēku dzīvības drošību jūrā vai pārkāpti iekraušanas un apgādes noteikumi saskaņā ar Starptautiskās jūras organizācijas Bīstamo kravu kodeksu, vai nav ievērotas prasības attiecībā uz. apkalpes sastāvu, vai arī ir citi trūkumi, kas apdraud kuģošanas drošību, jūras tīrību vai uz kuģa esošo cilvēku dzīvību;
 2) ja kuģa dokumenti neatbilst noteiktām prasībām;

@@ -2,8 +2,8 @@
 (1) Ostas pārvalde ir iestāde, kuru izveido attiecīgās pilsētas dome vai pagasta padome un kura šajā likumā noteiktajos ietvaros ir arī Satiksmes ministrijas pārraudzībā. Ostas pārvaldes nolikumu apstiprina attiecīgā pašvaldība saskaņā ar Ministru kabineta apstiprinātu paraugnolikumu.
 (2) Ostas pārvaldīšanu nodrošina ostas pārvalde, kura kā publisko tiesību subjekts veic šādas valsts pārvaldes funkcijas:
 1) kopīgi ar ostas kapteiņa dienestu izstrādā un iesniedz Satiksmes ministrijai apstiprināšanai ostas noteikumus;
-2) nosaka ostas nodevas un maksimālos tarifu robežlīmeņus 15. pantā minētajiem pakalpojumiem;
-3) nodrošina ostas nodevu un nomas (īres) maksas iekasēšanu;
+2) nosaka ostas maksas un maksimālos tarifu robežlīmeņus 15. pantā minētajiem pakalpojumiem;
+3) nodrošina ostas maksu un nomas (īres) maksas iekasēšanu;
 4) nosaka apsardzes un caurlaižu režīmu ostā;
 5) savas kompetences ietvaros kontrolē ostas noteikumu ievērošanu;
 6) savas kompetences ietvaros kontrole ostas uzņēmumu (uzņēmējsabiedrību) darbības atbilstību likumiem, Ministru kabineta normatīvajiem aktiem un attiecīgās ostas pārvaldes nolikumam;

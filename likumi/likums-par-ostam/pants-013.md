@@ -1,12 +1,9 @@
-13. pants. Nodevu veidi ostās
-(1) Latvijas ostās var noteikt šādas ostas nodevas:
-1) tonnāžas nodevu;
-2) kanāla nodevu;
-3) sanitāro nodevu;
-4) mazo kuģu nodevu;
-5) enkura nodevu;
-6) ledus nodevu
-un šādas kuģošanas nodevas:
-1) bāku nodevu;
-2) loču nodevu.
-(2) Ostas nodevu tarifus nosaka ostas pārvalde, saskaņojot ar pašvaldību. Kuģošanas nodevu tarifus nosaka Satiksmes ministrija.
+13. pants. Ostas maksas
+(1) Latvijas ostās var noteikt šādas ostas maksas:
+1) tonnāžas maksu;
+2) kanāla maksu;
+3) sanitāro maksu;
+4) mazo kuģu maksu;
+5) enkura maksu;
+6) ledus maksu.
+(2) Ostas maksu tarifus nosaka ostas pārvalde, saskaņojot ar pašvaldību. Ostas pārvalde var apvienot ostas maksas vienā maksā. Ostas pārvaldes pieņemtos lēmumus publicē laikrakstā "Latvijas Vēstnesis".

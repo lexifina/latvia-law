@@ -9,6 +9,6 @@
 7) ostas drošības uzraudzības pamatprincipi;
 8) muitas, robežapsardzības, sanitārais, ugunsdrošības režīms ostā;
 9) atbildība par ostas noteikumu pārkāpšanu;
-10) ostā ņemamās nodevas;
+10) ostā ņemamās maksas;
 11) citas ostas darbību reglamentējošās normas.
-(2) Ostas noteikumi ir obligāti visām juridiskajām un fiziskajām personām, kuras atrodas vai uzturas ostā, un to izpildi pārrauga ostas pārvalde.
+(2) Ostas noteikumi ir obligāti visām juridiskajām un fiziskajām personām, kuras darbojas vai uzturas ostā, un to izpildi pārrauga ostas pārvalde.
