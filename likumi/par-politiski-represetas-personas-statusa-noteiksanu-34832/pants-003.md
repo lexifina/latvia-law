@@ -1,0 +1,7 @@
+3. pants. (1) Politiski represētajām personām tiek izsniegta politiski represētās personas apliecība, ja to atbilstība politiski represētās personas statusam apliecināta ar dokumentiem.
+(2) Politiski represētās personas apliecību izsniedz, pamatojoties uz:
+1) reabilitācijas apliecību, kas izsniegta saskaņā ar Latvijas Republikas 1990.gada 3.augusta likumu "Par nelikumīgi represēto pilsoņu reabilitāciju", Latvijas PSR Augstākās padomes Prezidija 1989.gada 8.jūnija dekrētu "Par četrdesmitajos un piecdesmitajos gados no Latvijas PSR teritorijas izsūtīto pilsoņu reabilitāciju" un Latvijas PSR Ministru padomes 1988.gada 2.novembra lēmumu nr.350 "Par pilsoņu nepamatotu administratīvu izsūtīšanu no Latvijas PSR 1949.gadā";
+2) Iekšlietu ministrijas izsniegtu dokumentu par personas administratīvu izsūtīšanu no Latvijas teritorijas vai par tās dzimšanu ieslodzījumā, izsūtījumā vai nometinājumā ārpus Latvijas teritorijas;
+3) Latvijas Valsts arhīvu vai citu valstu arhīvu izsniegtu dokumentu par personas atrašanos PSRS filtrācijas (pārbaudes) vai labošanas darbu nometnē un Totalitāro režīmu noziegumu izvērtēšanas komisijas atzinumu;
+4) prokuratūras izsniegtu dokumentu par personas nāvi politisko represiju rezultātā;
+5) Latvijas Republikas tiesas spriedumu par politiskās represijas fakta konstatēšanu un reabilitāciju gadījumos, kad Latvijas Valsts arhīvos vai citu valstu arhīvos dokumenti par politiskās represijas faktu nav saglabājušies vai vispār gājuši zudumā.

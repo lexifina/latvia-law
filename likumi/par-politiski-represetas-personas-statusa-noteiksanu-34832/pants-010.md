@@ -1,0 +1,2 @@
+10. pants. (1) Valsts un pašvaldību institūcijas un to amatpersonas pēc politiski represēto personu, kā arī citu ieinteresēto personu iesniegumu saņemšanas gādā, lai likumā noteiktajā kārtībā tiktu novērstas totalitāro režīmu radīto civilo, ekonomisko un sociālo tiesību ierobežojumu izraisītās sekas, atlīdzināti šo režīmu radītie materiālie zaudējumi, to nodarītais fiziskais un morālais kaitējums.
+(2) Institūciju un amatpersonu atteikumu var pārsūdzēt tiesā.

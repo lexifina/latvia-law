@@ -1,0 +1,1 @@
+12. pants. Šā likuma izpildei Ministru kabinets izdod noteikumus, nosakot politiski represēto personu apliecību uzskaiti, izsniegšanas un izmantošanas kārtību, kā arī politiski represēto personu uzskaites kārtību pašvaldībās un valsts mērogā.

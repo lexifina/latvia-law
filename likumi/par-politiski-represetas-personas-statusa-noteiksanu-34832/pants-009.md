@@ -1,0 +1,1 @@
+9. pants. Valsts nodrošina politiski represēto personu tiesību atjaunošanu civilo, ekonomisko un sociālo tiesību sfērā atbilstoši likumam. Saskaņā ar likumdošanas aktiem politiski represētajām personām tiek garantēti atvieglojumi pensijas piešķiršanā, kā arī bezmaksas medicīniskā aprūpe un atvieglojumi sabiedriskā transporta pakalpojumu izmantošanā, nodokļu un nodevu maksāšanā.

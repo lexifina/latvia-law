@@ -1,0 +1,1 @@
+7. pants. Valsts noteikusi 25.martu un 14.jūniju par komunistiskā terora upuru piemiņas dienu, 8. maiju - par nacisma sagrāves dienu un otrā pasaules kara upuru piemiņas dienu, 4.jūliju - par ebreju genocīda piemiņas dienu.
