@@ -1,1 +1,0 @@
-10. Ar šā likuma spēkā stāšanos spēku zaudē 1992. gada 16. jūnija likums «Par valsts un pašvaldību īpašuma objektu (uzņēmumu) privatizācijas kārtību» (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 27/28, 46/47/48; 1993, 24/25).

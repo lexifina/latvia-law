@@ -1,1 +1,0 @@
-5. Ja objekta privatizācijas projekts apstiprināts līdz šā likuma spēkā stāšanās dienai, bet paziņojums par šā objekta privatizāciju, kurā norādīta objekta nosacītā cena, nav publicēts, pirmpirkuma tiesības attiecībā uz šo objektu ir personām, kas minētas šajā likumā.

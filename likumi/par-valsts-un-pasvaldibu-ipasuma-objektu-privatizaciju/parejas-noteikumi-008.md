@@ -1,1 +1,0 @@
-8. Šis likums nav piemērojams valsts un pašvaldību uzņēmumiem, kuriem līdz šā likuma spēkā stāšanās dienai ir iecelta kreditoru administrācija saskaņā ar likumu «Par uzņēmumu un uzņēmējsabiedrību maksātnespēju un bankrotu».
