@@ -1,2 +1,2 @@
 III nodaļa
-Sistēmas darbībai nepieciešamo finansu līdzekļu nodrošināšana
+Sistēmas darbībai nepieciešamo finanšu līdzekļu nodrošināšana

@@ -1,2 +1,3 @@
 IV nodaļa
-Ārvalstīs reģistrētie ieguldījumu pakalpojumu sniedzēji
+Ārvalstīs, Eiropas Savienības un Eiropas Ekonomikas zonas valstīs
+reģistrētie ieguldījumu pakalpojumu sniedzēji

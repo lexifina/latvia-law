@@ -1,0 +1,1 @@
+4. Līdz pārejas noteikumu 3.punktā noteiktā īpašā likuma spēkā stāšanās dienai Eiropas Savienības un Eiropas Ekonomikas zonas valstīs reģistrētie ieguldījumu pakalpojumu sniedzēji uzskatāmi par ārvalstu sabiedrībām.

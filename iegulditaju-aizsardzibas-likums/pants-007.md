@@ -8,4 +8,4 @@
 7) personām, kuras ir atbildīgas par likumā noteikto sistēmas dalībnieku grāmatvedības dokumentu revīziju;
 8) personām, kuras ir šā panta 6. un 7.punktā minēto personu pirmās pakāpes radinieki vai laulātie;
 9) personām, kuras darbojas šā panta 7.punktā minēto personu vārdā;
-10) personām, par kurām Finansu un kapitāla tirgus komisija konstatējusi, ka, pamatojoties uz individuāli noslēgta līguma īpašiem noteikumiem, tās ir saņēmušas augstas procentu likmes vai finansiālas koncesijas vai izraisījušas, vai izmantojušas savā labā apstākļus, kas sistēmas dalībniekam ir radījuši finansiālas grūtības vai veicinājuši tā finansiālā stāvokļa pasliktināšanos.
+10) personām, par kurām Finanšu un kapitāla tirgus komisija konstatējusi, ka, pamatojoties uz individuāli noslēgta līguma īpašiem noteikumiem, tās ir saņēmušas augstas procentu likmes vai finansiālas koncesijas vai izraisījušas, vai izmantojušas savā labā apstākļus, kas sistēmas dalībniekam ir radījuši finansiālas grūtības vai veicinājuši tā finansiālā stāvokļa pasliktināšanos.
