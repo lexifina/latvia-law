@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Pārtikas aprites uzraudzības likumā",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "60",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-16",
+  "entry_into_force": null,
+  "notification_date": "2004-07-29",
+  "commission_reference": "MNE(2004)50183",
+  "nim_celex": "71989L0397LVA_30183",
+  "nim_id": "30183",
+  "transposes_celex": [
+    "31989L0397"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4033ac3f-60d2-4f1a-b944-31c9d507e803",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
