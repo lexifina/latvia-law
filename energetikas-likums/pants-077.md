@@ -1,6 +1,6 @@
 77.pants
 (1) Par enerģētiku atbildīgais ministrs veic šādas funkcijas:
-1) izsniedz atļaujas, kas nepieciešamas regulatora lēmumu pieņemšanai, un saskaņo regulatora atļaujas energoapgādes uzņēmumu darbībai;
+1) (izslēgts ar 10.05.2001. likumu);
 2) nosaka kārtību, kādā elektroenerģijas pārvades sistēmas operators izstrādā un publicē periodiskos aprēķinus;
 3) nosaka jaunu nepieciešamo elektroenerģijas ražošanas jaudu ieviešanas kārtību;
 4) vada normatīvo aktu projektu izstrādi valsts enerģētikas politikas īstenošanai;

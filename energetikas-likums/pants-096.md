@@ -1,2 +1,2 @@
 96.pants
-Padome kopā ar pašvaldību, kuras administratīvo teritoriju apkalpo attiecīgais energoapgādes uzņēmums, veic pasākumus nepārtrauktas energoapgādes nodrošināšanai, ja energoapgādes uzņēmums jebkādu iemeslu dēļ nevar nodrošināt nepārtrauktu energoapgādi.
+Regulators saskaņā ar likumu "Par sabiedrisko pakalpojumu regulatoriem" pārņem sabiedrisko pakalpojumu sniedzēja licences darbības zonu, ja energoapgādes uzņēmums jebkādu iemeslu dēļ nevar nodrošināt nepārtrauktu energoapgādi.

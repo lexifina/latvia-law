@@ -1,5 +1,2 @@
 97.pants
-(1) Padome nosaka tarifu aprēķināšanas metodiku, saskaņā ar kuru energoapgādes uzņēmumi aprēķina tarifus par piegādāto enerģiju.
-(2) Nosakāmi tādi tarifi, lai energoapgādes uzņēmumi, saņemot maksājumus no enerģijas lietotājiem, gūtu ekonomiski pamatotus ieņēmumus, kas sedz pamatotas energoresursu ražošanas izmaksas, darba algu maksājumus, ekspluatācijas un administratīvos izdevumus, kā arī nodrošina esošā kapitāla saglabāšanu un jaunu apstiprināto kapitālu ieguldīšanu.
-(3) Padome nosaka kārtību, kādā energoapgādes uzņēmumi iesniedz aprēķinātos tarifus (tarifu projektu) Padomei izskatīšanai un apstiprināšanai.
-(4) Energoapgādes uzņēmums pēc savstarpējas vienošanās ar enerģijas lietotāju, kurš pieprasījis nodrošināt enerģijas piegādi, ir tiesīgs prasīt, lai šis lietotājs sedz papildizdevumus, ja enerģijas piegādes nodrošināšana ir saistīta ar jauna energoapgādes uzņēmuma objekta celtniecību vai esošā objekta paplašināšanu un ir nepieciešami papild izdevumi iekārtu un materiālu iegādei, celtniecības un montāžas darbiem, kurus neparedz tarifu aprēķināšanas metodika.
+Tarifus nosaka saskaņā ar likumu "Par sabiedrisko pakalpojumu regulatoriem".

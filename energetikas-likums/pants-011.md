@@ -1,5 +1,2 @@
 11.pants
-(1) Energoapgādes uzņēmuma pārveidošanu, paplašinot tā esošos objektus vai ierīkojot jaunus objektus, kuru jauda pārsniedz vienu megavatu, var uzsākt pēc jaunas licences saņemšanas vai grozījumu izdarīšanas spēkā esošajā licencē, ja to neparedz jau esošās licences nosacījumi, un ņemot vērā šā likuma 26.pantā noteikto kārtību.
-(2) Energoapgādes uzņēmuma pārveidošanu, sašaurinot tā objektus par jaudu, kas pārsniedz vienu megavatu, vai slēdzot esošos objektus, kuru jauda pārsniedz vienu megavatu, var uzsākt pēc tam, kad saņemta regulatora un par enerģētiku atbildīgā ministra rakstveida atļauja. Pēc atļaujas izsniegšanas energoapgādes uzņēmuma sašaurināšanai vai tā objektu slēgšanai regulators izdara attiecīgus grozījumus energoapgādes uzņēmuma licencē.
-(3) Energoapgādes uzņēmuma darbību var apturēt vai izbeigt pēc regulatora un par enerģētiku atbildīgā ministra rakstveida atļaujas saņemšanas.
-(4) Informāciju par energoapgādes uzņēmumu pārveidošanu, likvidēšanu, to darbības apturēšanu vai izbeigšanu šie energoapgādes uzņēmumi publicē laikrakstā "Latvijas Vēstnesis" pirms attiecīgo darbību uzsākšanas.
+Energoapgādes uzņēmumu pārveidošanas un to darbības izbeigšanas kārtību nosaka likums "Par sabiedrisko pakalpojumu regulatoriem".
