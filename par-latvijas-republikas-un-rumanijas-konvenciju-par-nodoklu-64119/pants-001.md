@@ -1,0 +1,1 @@
+1.pants. 2002.gada 25.martā Bukarestē parakstītā Latvijas Republikas un Rumānijas konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem (turpmāk - Konvencija) un tās 2002.gada 25.martā Bukarestē parakstītais protokols (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
