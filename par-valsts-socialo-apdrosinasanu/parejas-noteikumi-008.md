@@ -1,0 +1,1 @@
+8. Šā likuma 16.panta otrā daļa stājas spēkā 1999.gada 1.janvārī. Līdz 1998.gada 31.decembrim par iemaksu veikšanas termiņa nokavējumu no darba devēja un pašnodarbinātā tiek piedzīta nokavējuma nauda - 0,1 procents no laikā nenomaksātās obligāto iemaksu daļas par katru nokavēto dienu.

@@ -1,0 +1,1 @@
+11. Šā likuma 1.panta 3.punkta "i" apakšpunkts, 6.panta septītā daļa, kā arī grozījumi 6.panta trešajā daļā, kas nosaka sociālās apdrošināšanas veidus, kādiem ir pakļauti pašnodarbinātie, kuri sasnieguši vecumu, kas dod tiesības saņemt valsts vecuma pensiju, un I un II grupas invalīdi, stājas spēkā 1998.gada 1.janvārī.

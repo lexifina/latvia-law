@@ -1,1 +1,1 @@
-II nodaļa. Sociāli apdrošinātās personas
+II nodaļa. Sociāli apdrošināmās personas

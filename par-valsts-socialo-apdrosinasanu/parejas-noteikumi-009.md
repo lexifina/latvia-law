@@ -1,0 +1,1 @@
+9. Šā likuma 21.panta septītā daļa stājas spēkā 1999.gada 1.janvārī. Līdz 1998.gada 31.decembrim nokavētās un nenomaksātās sociālās apdrošināšanas obligātās iemaksas veicamas šādā secībā: pamatparāds, pamatparāda palielinājums un nokavējuma nauda.
