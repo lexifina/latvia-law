@@ -1,0 +1,1 @@
+12.pants. Ražotāju vai pakalpojuma sniedzēju no atbildības var atbrīvot pilnībā vai daļēji, ja, ņemot vērā visus apstākļus, tiek konstatēts, ka zaudējuma cēlonis ir gan preces vai pakalpojuma trūkums, gan arī cietušās personas vai kādas citas personas vaina, par kuru cietusī persona ir atbildīga.

@@ -1,0 +1,2 @@
+3.pants. (1) Šis likums attiecas uz jebkuru kustamu ķermenisku lietu, arī tad, ja tā ir kādas citas kustamas vai nekustamas lietas daļa, kā arī uz elektroenerģiju un gāzi (turpmāk - prece).
+(2) Šis likums attiecas uz pakalpojumiem, kuru rezultātā pakalpojuma sniedzējs izgatavo jaunu ķermenisku lietu, uzlabo vai pārveido esošu ķermenisku lietu vai tās īpašības, kā arī uz pakalpojumiem, kuriem ir tieša vai netieša ietekme uz cilvēka dzīvību vai veselību.
