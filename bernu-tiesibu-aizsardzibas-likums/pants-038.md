@@ -1,0 +1,4 @@
+38.pants. Īpašās bērnu aprūpes un audzināšanas iestādes
+(1) Īpašās bērnu aprūpes un audzināšanas iestādes ir speciālās mācību iestādes, kā arī komūnas, mājas un tamlīdzīgas iestādes, kurās bērni tiek ārstēti no alkoholisma, narkomānijas vai toksikomānijas vai tiek ievietoti sakarā ar likumpārkāpumu izdarīšanu, izņemot brīvības atņemšanas vietas.
+(2) Bērnu speciālajā mācību iestādē var ievietot ar tiesas nolēmumu atbilstoši likumam "Par audzinoša rakstura piespiedu līdzekļu piemērošanu nepilngadīgajiem".
+(3) Ievietot bērnu citā īpašā bērnu aprūpes un audzināšanas iestādē alkoholisma, narkomānijas vai toksikomānijas ārstēšanai var ar bāriņtiesas (pagasttiesas) lēmumu, kurš apstiprināms tiesā gadījumos, kad vecāki vai pats bērns nepiekrīt viņa ievietošanai šādā iestādē. Bērna ievietošanas kārtību nosaka atsevišķs likums.

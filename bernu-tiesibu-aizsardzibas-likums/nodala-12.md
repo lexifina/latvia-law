@@ -1,0 +1,1 @@
+XII nodaļa. Nobeiguma noteikumi

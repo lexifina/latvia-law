@@ -1,0 +1,4 @@
+51.pants. Bērna aizsardzība no prettiesiskām darbībām
+(1) Par vardarbību pret bērnu, par bērna pamudināšanu vai piespiešanu piedalīties seksuālās darbībās, par bērna izmantošanu vai iesaistīšanu prostitūcijā vainīgās personas saucamas pie likumā noteiktās atbildības.
+(2) Bērnam, kurš ir noziedzīga nodarījuma, ekspluatācijas, seksuālas izmantošanas, vardarbības vai jebkādas citas nelikumīgas, cietsirdīgas vai cieņu aizskarošas darbības upuris, Ministru kabineta noteiktajā kārtībā bez maksas sniedzama nepieciešamā palīdzība, lai viņš atgūtu fizisko un psihisko veselību un integrētos sabiedrībā. Šādai ārstēšanai un reintegrēšanai jānotiek bērna veselībai, pašcieņai un godam labvēlīgā vidē, rūpīgi sargājot bērna intīmo noslēpumu.
+(3) Katrai personai ir pienākums ziņot policijai vai citai kompetentai iestādei par vardarbību vai citu pret bērnu vērstu noziedzīgu nodarījumu. Par neziņošanu vainīgās personas saucamas pie likumā noteiktās atbildības.

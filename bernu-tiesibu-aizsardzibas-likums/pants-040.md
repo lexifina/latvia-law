@@ -1,0 +1,3 @@
+40.pants. Sankcijas un ierobežojumi
+(1) Ja bērnu aprūpes un audzināšanas iestādes vadītājam, aizbildnim vai audžuģimenei ir pamatotas aizdomas, ka bērnam ir alkohols, narkotiskās vai toksiskās vielas vai to lietošanai nepieciešamās ierīces, bērnu drīkst pārmeklēt.
+(2) Ja ir pamatotas aizdomas, ka bērnam adresētajā korespondencē vai citā sūtījumā ir alkohols, narkotiskās vai toksiskās vielas vai to lietošanai nepieciešamās ierīces, pornogrāfiski materiāli vai kaut kas cits, kas bērnam var būt kaitīgs vai bīstams, aprūpes un audzināšanas iestādes vadītājs, aizbildnis vai audžuģimene drīkst pārbaudīt bērnam adresēto korespondenci vai sūtījumu.

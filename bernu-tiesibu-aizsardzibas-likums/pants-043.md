@@ -1,0 +1,2 @@
+43.pants. Palīdzības sniegšana bērnam pēc ārpusģimenes aprūpes izbeigšanas
+Izbeidzoties aizbildnībai, beidzoties bērna aprūpei audžuģimenē vai bērnu aprūpes un audzināšanas iestādē, pašvaldība pēc bērna pastāvīgās dzīvesvietas atbilstoši likumam "Par pašvaldību palīdzību dzīvokļa jautājumu risināšanā" nodrošina bāreni vai bērnu, kurš bija atstāts bez vecāku gādības, ar dzīvojamo platību un sniedz citu likumā paredzēto sociālo palīdzību arī pēc 18 gadu vecuma sasniegšanas.

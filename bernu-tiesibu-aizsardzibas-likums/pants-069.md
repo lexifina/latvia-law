@@ -1,0 +1,4 @@
+69.pants. Sabiedrisko un reliģisko organizāciju piedalīšanās bērna tiesību nodrošināšanā
+(1) Sabiedriskās un reliģiskās organizācijas īsteno savas programmas vecāku un bērnu izglītošanā, ģimenes nostiprināšanā, atpūtas organizēšanā un savos statūtos paredzētajos citos jautājumos, organizē sabiedrības atbalstu bērna tiesību aizsardzībai, kā arī likumā noteiktajā kārtībā realizē sabiedrisko kontroli pār bērna tiesību aizsardzību kopumā vai atsevišķās bērna tiesību aizsardzības jomās.
+(2) Bērnus, kuri nav sasnieguši 18 gadu vecumu, reliģiskās organizācijas var iesaistīt reliģiska rakstura darbībās un reliģisko organizāciju pasākumos tikai ar vecāku rakstveida piekrišanu, bet ārpusģimenes aprūpes laikā - ar aizbildņa, audžuģimenes vai aprūpes un audzināšanas iestādes rakstveida piekrišanu.
+(3) Valsts un pašvaldība budžeta ietvaros sniedz sabiedriskajām organizācijām finansiālu atbalstu ģimenes un bērnu interesēm veltītu programmu īstenošanai.

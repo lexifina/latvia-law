@@ -1,0 +1,4 @@
+45.pants. Citā ģimenē vai privātā bērnu iestādē ievietotā bērna aprūpes uzraudzība
+(1) Par bērnu, kurš ievietots citā ģimenē vai privātā bērnu iestādē uz laiku, kas ilgāks par trim mēnešiem, nekavējoties paziņo bāriņtiesai (pagasttiesai) pēc šīs ģimenes dzīvesvietas vai attiecīgās iestādes atrašanās vietas.
+(2) Saņēmusi minēto informāciju, bāriņtiesa (pagasttiesa) lemj, vai šajā ģimenē vai privātajā bērnu iestādē bērns tiks pietiekami labi aprūpēts un vai persona, kura ir atbildīga par aprūpi, ir spējīga bērnu aprūpēt, un vai šāda ievietošana atbilst bērna interesēm.
+(3) Ja tiek atzīts, ka bērns šajā ģimenē vai privātajā bērnu iestādē netiek pienācīgi aprūpēts un audzināts, pašvaldība nodrošina aprūpes un audzināšanas uzlabošanu. Ja tas nav iespējams, bāriņtiesa (pagasttiesa) aizliedz šai ģimenei vai iestādei rūpēties par bērnu. Ja bērna atgriešanās pie vecākiem nav iespējama, bāriņtiesa (pagasttiesa) lemj par bērna turpmāko ārpusģimenes aprūpi.

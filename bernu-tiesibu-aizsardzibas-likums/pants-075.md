@@ -1,0 +1,3 @@
+75.pants. Bērna tikšanās ar dažādās valstīs dzīvojošiem vecākiem
+(1) Bērnam, kura vecāki dzīvo citā valstī, ir tiesības regulāri, izņemot īpašus apstākļus, uzturēt ar viņiem personiskas attiecības un tiešus kontaktus (ar viņiem tikties). Attiecībā uz tiesībām vecākiem iebraukt valstī vai izbraukt no tās ir spēkā tikai tādi ierobežojumi, kas noteikti ar likumu un nepieciešami nacionālās drošības, sabiedriskās kārtības, iedzīvotāju veselības un tikumības vai citu personu tiesību un brīvību aizsardzībai.
+(2) Mātei vai tēvam, kas dzīvo citā valstī, ir tiesības noteiktā kārtībā iebraukt Latvijā ģimenes apvienošanas nolūkā.

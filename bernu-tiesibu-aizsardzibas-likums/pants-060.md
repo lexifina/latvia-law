@@ -1,0 +1,5 @@
+60.pants. Pasākumi, kas veicami, ja bērnam nepieciešama palīdzība
+(1) Ja bērns nogādāts policijas iestādē šā likuma 59.panta 3.-6.punktā minēto apstākļu dēļ, viņu var tur turēt līdz nodošanai vecākiem, viņu aizstājējiem vai bērnu aprūpes iestādes pārstāvim.
+(2) Ja triju stundu laikā nav iespējams noskaidrot bērna personību un nodot bērnu vecākiem, viņu aizstājējiem vai bērnu aprūpes iestādei, kuru viņš pametis, policija ievieto bērnu kādā no bērnu aprūpes iestādēm vai audžuģimenēm un par to ziņo bāriņtiesai (pagasttiesai).
+(3) Ja policijā nogādāts bērns, kurš ir alkoholisko dzērienu, narkotisko vai toksisko vielu vai citu apreibinošu vielu iespaidā, vai arī ir aizdomas, ka bērns tiek seksuāli izmantots, kļuvis par prettiesiskas darbības upuri vai ir pamudināts uz ubagošanu, policija noskaidro apreibinošo vielu iegūšanas un lietošanas apstākļus, kā arī personas, kuras pamudinājušas bērnu uz viņam kaitīgām darbībām vai veikušas pret viņu prettiesisku darbību.
+(4) Ja policijā nogādātajam bērnam nepieciešama medicīniskā palīdzība, policija bērnu iekārto ārstniecības iestādē vai gādā par ambulatorās ārstnieciskās palīdzības sniegšanu.

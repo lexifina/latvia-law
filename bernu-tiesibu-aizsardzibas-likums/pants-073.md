@@ -1,0 +1,3 @@
+73.pants. Iedzīvotāju pienākumi bērna tiesību aizsardzībā
+(1) Katra iedzīvotāja pienākums ir sargāt savu un citu bērnu drošību, ne vēlāk kā tajā pašā dienā ziņot policijai, bāriņtiesai (pagasttiesai) vai citai bērna tiesību aizsardzības institūcijai par jebkādu vardarbību pret bērnu vai citādu viņa apdraudējumu, vai viņa tiesību pārkāpumu.
+(2) Veselības aprūpes, pedagoģiskie, sociālās sfēras vai policijas darbinieki, kā arī vēlētas valsts un pašvaldību amatpersonas, kurām kļuvis zināms par bērna tiesību pārkāpšanu un kuras par to nav ziņojušas minētajām institūcijām, par neziņošanu saucamas pie likumā noteiktās atbildības.
