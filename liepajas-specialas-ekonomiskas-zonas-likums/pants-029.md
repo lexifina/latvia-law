@@ -1,0 +1,4 @@
+29.pants
+(1) Liepājas speciālās ekonomiskās zonas uzņēmējsabiedrības par tām piederošo īpašumu, kas atrodas Liepājas speciālās ekonomiskās zonas teritorijā un ir apliekams ar īpašuma nodokli vai jebkuru citu nodokli, kas var tikt ieviests īpašuma nodokļa vietā, maksā īpašuma nodokli vai jebkuru citu nodokli, kas var tikt ieviests īpašuma nodokļa vietā, ar 80 procentu atlaidi no aprēķinātās (bez citu atlaižu piemērošanas) nodokļa summas.
+(2) Ar pašvaldības lēmumu Liepājas speciālās ekonomiskās zonas uzņēmējsabiedrībām par tām piederošo īpašumu, kas atrodas Liepājas speciālās ekonomiskās zonas teritorijā un ir apliekams ar īpašuma nodokli vai jebkuru citu nodokli, kas var tikt ieviests īpašuma nodokļa vietā, var piešķirt īpašuma nodokļa vai jebkuru cita nodokļa, kas var tikt ieviests īpašuma nodokļa vietā, atlaidi līdz 20 procentiem no aprēķinātās (bez citu atlaižu piemērošanas) nodokļa summas.
+(3) Šā panta pirmajā un otrajā daļā minētās atlaides tiek summētas.

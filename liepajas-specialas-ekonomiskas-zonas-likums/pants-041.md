@@ -1,0 +1,2 @@
+41.pants
+Liepājas speciālās ekonomiskās zonas uzņēmējsabiedrību finansiālo darbību likumos un citos normatīvajos aktos noteiktajā kārtībā kontrolē attiecīgas institūcijas.

@@ -1,0 +1,2 @@
+37.pants
+Preces, kuras no Liepājas speciālās ekonomiskās zonas teritorijā esošajām brīvajām muitas zonām tiek ievestas pārējā Latvijas Republikas muitas teritorijas daļā brīvam apgrozījumam, un pakalpojumi, kurus brīvajās muitas zonās esošās Liepājas speciālās ekonomiskās zonas uzņēmējsabiedrības sniedz pārējā Latvijas Republikas muitas teritorijas daļā, likumā noteiktajā kārtībā apliekami ar pievienotās vērtības nodokli, akcīzes nodokli un muitas nodokli.

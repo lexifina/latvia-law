@@ -1,0 +1,2 @@
+32.pants
+Liepājas speciālās ekonomiskās zonas pārvalde nemaksā īpašuma un zemes nodokli vai jebkuru citu nodokli, kas var tikt ieviests minēto nodokļu vietā par zemi un citiem nekustamiem īpašumiem, kuri atrodas Liepājas speciālās ekonomiskās zonas teritorijā un pieder valstij vai pašvaldībai un kuri atbilstoši šim likumam tiek nodoti Liepājas speciālās ekonomiskās zonas pārvaldes rīcībā un nav nodoti tālāk citam lietotājam.
