@@ -3,5 +3,5 @@ Pieteikumu paternitātes atzīšanai var iesniegt, reģistrējot bērna dzimšan
 Ja bērna māte mirusi vai tiesa to atzinusi par rīcības nespējīgu gara slimības vai plānprātības dēļ, kā arī tad, ja nav zināma viņas atrašanās vieta, pieteikumu paternitātes atzīšanai var iesniegt bērna tēvs viens pats. Ja bērns ir nepilngadīgs, nepieciešama bērna aizbildņa un bāriņtiesas piekrišana.
 Ja bērna tēvu tiesa atzinusi par rīcības nespējīgu gara slimības vai plānprātības dēļ, viņa vietā pieteikumu paternitātes atzīšanai var iesniegt viņa aizgādnis ar bāriņtiesas piekrišanu.
 Bērna tēvs, kurš vēl nav sasniedzis pilngadību, pieteikumu bērna paternitātes atzīšanai var iesniegt ar savu vecāku vai aizbildņa piekrišanu.
-Bērna tēvs, kurš sastāv citā laulībā, pieteikumu paternitātes atzīšanai var iesniegt ar otra laulātā piekrišanu.
+(Sestā daļa atzīta par spēkā neesošu ar Satversmes tiesas 11.10.2004. spriedumu no 12.10.2004.)
 Paternitātes atzīšanai nepieciešama bērna piekrišana, ja viņš sasniedzis divpadsmit gadu vecumu.
