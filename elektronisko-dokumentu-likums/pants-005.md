@@ -1,0 +1,5 @@
+5.pants. Elektroniskā dokumenta atvasinājumi
+(1) Elektroniskā dokumenta kopijai, norakstam vai izrakstam papīra formā ir tāds pats juridiskais spēks kā oriģinālam, ja kopijas, noraksta vai izraksta pareizība apliecināta saskaņā ar normatīvo aktu prasībām un ja papīra kopijas, noraksta vai izraksta izsniedzējs pēc pieprasījuma var uzrādīt dokumenta oriģinālu elektroniskā formā un tas atbilst šā likuma prasībām.
+(2) Papīra dokumenta elektroniskajai kopijai, norakstam vai izrakstam ir tāds pats juridiskais spēks kā oriģinālam, ja persona, kurai saskaņā ar normatīvo aktu prasībām ir tiesības apliecināt dokumentu oriģinālu kopijas, norakstus vai izrakstus, ir apliecinājusi tā pareizību ar drošu elektronisko parakstu un laika zīmogu un tas atbilst normatīvo aktu prasībām.
+(3) Papīra dokumenta dublikātam elektroniskā formā ir tāds pats juridiskais spēks kā oriģinālam, ja dublikāts izdots un noformēts atbilstoši šā likuma un citu normatīvo aktu prasībām.
+(4) Veidot elektroniskā dokumenta atvasinājumus papīra formā var tikai no tādiem elektroniskajiem dokumentiem, kurus ir iespējams uzrādīt lasāmā vai grafiskā veidā.
