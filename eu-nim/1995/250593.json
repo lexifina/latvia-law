@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Par sociālo drošību",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "144",
+  "official_journal_page": null,
+  "official_journal_date": "1995-09-21",
+  "entry_into_force": "1995-10-05",
+  "notification_date": "2017-09-01",
+  "commission_reference": "MNE(2017)54906",
+  "nim_celex": "72016L0801LVA_250593",
+  "nim_id": "250593",
+  "transposes_celex": [
+    "32016L0801"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8be21364-3337-47be-8ad7-9790936f13b7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
