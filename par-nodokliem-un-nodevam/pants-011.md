@@ -31,4 +31,6 @@
 20) par komercķīlas reģistrāciju, kā arī par komercķīlas pārjaunojuma, grozījumu un dzēšanas reģistrāciju;
 21) par īpašuma tiesību nostiprināšanu zemesgrāmatā;
 22) par vērtspapīru reģistrāciju un laišanu publiskajā apgrozībā;
-23) par būvprakses sertifikātu reģistrāciju.
+23) par būvprakses sertifikātu reģistrāciju;
+24) par sabiedrisko pakalpojumu regulēšanu;
+25) par naftas ieguvi.
