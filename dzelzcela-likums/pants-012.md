@@ -1,5 +1,5 @@
 12.pants. Publiskās lietošanas dzelzceļa infrastruktūras izmantošanas maksas aprēķināšanas metodika
-(1) Publiskās lietošanas dzelzceļa infrastruktūras izmantošanas maksas aprēķināšanas metodiku pēc konsultācijas ar publiskās lietošanas dzelzceļa infrastruktūras pārvaldītājiem nosaka Dzelzceļa administrācija (30.pants).
+(1) Publiskās lietošanas dzelzceļa infrastruktūras izmantošanas maksas aprēķināšanas metodiku pēc konsultācijas ar publiskās lietošanas dzelzceļa infrastruktūras pārvaldītājiem nosaka Sabiedrisko pakalpojumu regulēšanas komisija.
 (2) Izstrādājot publiskās lietošanas dzelzceļa infrastruktūras izmantošanas maksas aprēķināšanas metodiku, ievērojami šādi pamatkritēriji:
 1) transporta tirgus apstākļi, dzelzceļa infrastruktūras izmantošanas optimālās prasības, konkurences veicināšana starp transporta veidiem;
 2) pārvadājumu pakalpojumu raksturs, laiks, biežums un ātrums;

@@ -15,6 +15,6 @@
 3) uzņēmēja vadošās amatpersonas nav sodītas administratīvā kārtā par pārkāpumiem uzņēmējdarbībā;
 4) pretendents nav pārkāpis darba likumus un nodokļu likumus.
 (6) Kārtību, kādā izsniedzama un anulējama pārvadātāja licence, nosaka Ministru kabinets. Ministru kabinets var izvirzīt papildu nosacījumus pārvadātāja licences piešķiršanai.
-(7) Pārvadātāja licenci izsniedz Dzelzceļa administrācija pēc tam, kad ir samaksāta valsts nodeva, kuras apmēru nosaka Ministru kabinets. Par pārvadātāja licences izsniegšanu saņemtā nodeva tiek ieskaitīta valsts budžetā.
+(7) Pārvadātāja licenci izsniedz Sabiedrisko pakalpojumu regulēšanas komisija pēc tam, kad ir samaksāta valsts nodeva, kuras apmēru nosaka Ministru kabinets. Par pārvadātāja licences izsniegšanu saņemtā nodeva tiek ieskaitīta valsts budžetā.
 (8) Pārvadātāja licenci izsniedz uz pieciem gadiem. Ja licences saņēmējs pilda saistības, kas paredzētas šajā likumā, un atbilst licencē norādītajiem nosacījumiem, licenci pēc tās derīguma termiņa izbeigšanās pagarina, to pārreģistrējot.
-(9) Ja ir šaubas par pārvadātāja atbilstību šā likuma un izsniegtās pārvadātāja licences nosacījumiem, Dzelzceļa administrācija jebkurā laikā ir tiesīga pārbaudīt šo atbilstību.
+(9) (Izslēgta ar 23.11.2000. likumu.)
