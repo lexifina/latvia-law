@@ -1,0 +1,2 @@
+30.pants. (1) Piedāvātā augstākā summa, atrēķinot naudā iemaksāto nodrošinājumu (16.pants), jāsamaksā par nosolīto nekustamo īpašumu divu nedēļu laikā, bet par kustamo mantu - nedēļas laikā no izsoles dienas, ja izsoles noteikumi neparedz citu termiņu.
+(2) Nokavējot noteikto samaksas termiņu, nosolītājs zaudē iesniegto nodrošinājumu (16.pants), bet mantas atsavināšana turpināma šā likuma 32.pantā noteiktajā kārtībā.

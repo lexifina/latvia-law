@@ -1,0 +1,5 @@
+44.pants. (1) Valsts vai pašvaldības zemi var iegūt īpašumā personas, kuras saskaņā ar likumu var būt zemes īpašuma tiesību subjekti.
+(2) Šā panta pirmajā daļā minētais ierobežojums piemērojams arī gadījumos, kad tiek atsavināta apbūvēta zeme.
+(3) Valstij vai pašvaldībai piederošu zemesgabalu, ja attiecībā uz to ir iesniegts pieteikums par īpašuma tiesību atjaunošanu, kā arī zemesgabalu, uz kura atrodas nacionalizēts namīpašums vai cits nacionalizēts objekts, ja attiecībā uz to ir iesniegts pieteikums par īpašuma tiesību atjaunošanu, nevar atsavināt līdz pieteikuma izlemšanai, bet, ja ir ierosināta tiesvedība, - līdz dienai, kad tiesas nolēmums stājies likumīgā spēkā.
+(4) Valstij vai pašvaldībai piederošu zemesgabalu, uz kura atrodas citai personai (kopīpašniekiem) piederošas ēkas (būves), var pārdot tikai zemesgrāmatā ierakstītas ēkas (būves) īpašniekam (visiem kopīpašniekiem proporcionāli viņu kopīpašuma daļām).
+(5) Valstij vai pašvaldībai piederošā zemesgabala un uz tā esošas ēkas (būves) atšķirīgās domājamās daļas atsavina kopumā šajā likumā noteiktajā kārtībā.

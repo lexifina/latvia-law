@@ -1,0 +1,2 @@
+27.pants. (1) Pēc mutiskās izsoles pabeigšanas izsoles rīkotājs izsoles dalībnieku klātbūtnē atver iesniegtās aploksnes, visiem dzirdami nolasa piedāvājumus un uz tiem parakstās (ja izsoli rīko izsoles komisija, parakstās visi komisijas locekļi).
+(2) Pēc rakstisko piedāvājumu izskatīšanas par nosolītāju izziņo personu, kas piedāvājusi visaugstāko cenu, ja šī cena ir pieņemama (17.pants). Ja augstākā rakstiski piedāvātā cena ir vienāda ar augstāko mutiski piedāvāto cenu, priekšroka ir rakstiskajam piedāvājumam.

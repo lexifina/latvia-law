@@ -1,0 +1,1 @@
+25.pants. Ja pēc visu aplokšņu atvēršanas izrādās, ka vairāki izsoles dalībnieki piedāvājuši vienādu augstāko cenu, izsoles rīkotājs turpina izsoli, pieņemot rakstiskus piedāvājumus no personām, kuras piedāvājušas vienādu augstāko cenu.

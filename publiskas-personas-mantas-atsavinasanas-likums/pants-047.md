@@ -1,0 +1,1 @@
+47.pants. Valsts vai pašvaldības mantas atsavināšanā iegūtos līdzekļus pēc atsavināšanas izdevumu segšanas ieskaita attiecīgi valsts vai pašvaldības budžetā.

@@ -1,0 +1,1 @@
+26.pants. Ja tiek rīkota jaukta izsole, rakstiskos piedāvājumus iesniedz pirms mutiskās izsoles sākuma. Izsoles dienā un stundā rakstiskos piedāvājumus slēgtās aploksnēs novieto izsoles telpā redzamā vietā uz galda, kur tie glabājas neatvērti līdz mutiskās izsoles beigām.

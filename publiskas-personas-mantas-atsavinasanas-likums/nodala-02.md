@@ -1,0 +1,2 @@
+II nodaļa
+Pārdošana izsolē

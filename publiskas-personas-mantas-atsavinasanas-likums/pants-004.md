@@ -1,0 +1,13 @@
+4.pants. (1) Valsts mantas atsavināšanu var ierosināt, ja tā nav nepieciešama attiecīgajai iestādei vai citām valsts iestādēm to funkciju nodrošināšanai. Pašvaldības mantas atsavināšanu var ierosināt, ja tā nav nepieciešama attiecīgās pašvaldības iestādēm to funkciju nodrošināšanai.
+(2) Valsts vai pašvaldības mantas atsavināšanu var ierosināt attiecīgās iestādes vadītājs, kā arī cita institūcija (amatpersona), kuras valdījumā vai turējumā atrodas valsts vai pašvaldības manta.
+(3) Kārtību, kādā noskaidro iestāžu vajadzību pēc citām iestādēm nevajadzīgās mantas, kā arī mantas turētāja maiņas kārtību attiecībā uz valsts mantu nosaka Ministru kabinets, bet attiecībā uz pašvaldības mantu - attiecīgā dome (padome).
+(4) Atsevišķos gadījumos valsts vai pašvaldības nekustamā īpašuma atsavināšanu var ierosināt šādas personas:
+1) zemes īpašnieks vai visi kopīpašnieki, ja viņi vēlas nopirkt zemesgrāmatā ierakstītu ēku (būvi), kas visa atrodas uz īpašumā esošās zemes, vai zemes starpgabalu, kas piegul viņu zemei;
+2) zemes kopīpašnieks, ja viņš vēlas nopirkt zemesgrāmatā ierakstītu ēku (būvi), kas visa atrodas uz kopīpašumā esošās zemes, vai domājamo daļu no tās samērīgi savai zemes daļai;
+3) zemesgrāmatā ierakstītas ēkas (būves) īpašnieks vai visi kopīpašnieki, ja viņi vēlas nopirkt zemesgabalu, uz kura atrodas ēka (būve), vai zemes starpgabalu, kas piegul šai zemei;
+4) zemesgrāmatā ierakstītas ēkas (būves) kopīpašnieks, ja viņš vēlas nopirkt tā zemesgabala domājamo daļu, uz kura atrodas ēka (būve), samērīgi savai ēkas (būves) daļai;
+5) īrnieks vai viņa ģimenes loceklis, ja viņš vēlas nopirkt attiecīgo dzīvokļa īpašumu vai viendzīvokļa dzīvojamo māju (45.pants);
+6) dzīvokļa īpašnieks, ja viņam ir pirmpirkuma tiesības uz citu dzīvokļa īpašumu tajā pašā daudzdzīvokļu mājā;
+7) kopīpašnieks, ja viņš vēlas izbeigt kopīpašuma attiecības ar valsti vai pašvaldību;
+8) pēc zemes reformas pabeigšanas persona, kurai atbilstoši zemes reformas likumiem līdz šā likuma spēkā stāšanās dienai zeme piešķirta pastāvīgā lietošanā.
+(5) Šā panta ceturtajā daļā minēto personu ierosinājumu iesniegšanas un izskatīšanas kārtību, kā arī noraidīšanas nosacījumus nosaka Ministru kabinets.

@@ -1,0 +1,1 @@
+4. Līdz attiecīgu Ministru kabineta noteikumu pieņemšanai, bet ne ilgāk kā sešus mēnešus pēc šā likuma spēkā stāšanās ir spēkā Ministru kabineta 1995.gada 7.novembra noteikumi nr.325 "Likuma "Par valsts un pašvaldību mantas atsavināšanas kārtību" piemērošanas noteikumi", ciktāl tie nav pretrunā ar šo likumu.
