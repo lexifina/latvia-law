@@ -1,0 +1,1 @@
+1.pants. Ar šo likumu Līvu (lībiešu) savienībai - "Līvõd Īt" tiek atjaunotas īpašuma tiesības uz nekustamo īpašumu - Talsu rajona Kolkas pagasta "Tautas namu" (līdz 1940.gadam adrese: Ventspils apriņķis, Dundagas pagasts, Mazirbes ciems), kas sastāv no vienas ēkas un zemes 2,15 hektāru platībā, uz kuru 1940.gadā īpašuma tiesības bija nostiprinātas Līvu Savienībai.
