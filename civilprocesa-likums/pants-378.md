@@ -5,4 +5,5 @@
 2) viņiem ir pienākums sniegt tiesai un administratoram vai likvidatoram nepieciešamo informāciju;
 3) dzīvesvietas maiņas gadījumā viņiem triju dienu laikā jāpaziņo tiesai un administratoram vai likvidatoram jaunā adrese;
 4) pienākumu neizpildīšanas gadījumā viņus var saukt pie likumā noteiktās atbildības.
+(2¹) Pēc sprieduma pasludināšanas tiesa par to informē Finanšu un kapitāla tirgus komisiju, nodrošinot, lai komisija saņemtu attiecīgo informāciju sprieduma pasludināšanas dienā. Finanšu un kapitāla tirgus komisijas informēšanas kārtību nosaka tieslietu ministrs.
 (3) Pēc administratora vai likvidatora lūguma tiesa pieņem lēmumu par mantas atbrīvošanu no apķīlājuma un tās nodošanu administratoram vai likvidatoram.

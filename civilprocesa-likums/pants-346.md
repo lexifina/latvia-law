@@ -1,5 +1,7 @@
 346.pants. Tiesneša darbības, sagatavojot lietu izskatīšanai
-(1) Tiesneša lēmuma noraksts par maksātnespējas lietas ierosināšanu nekavējoties nosūtāms valsts aģentūrai "Maksātnespējas administrācija" (turpmāk - aģentūra), kura triju dienu laikā no noraksta saņemšanas brīža iesniedz tiesā priekšlikumu par administratora amata kandidātu.
+(1) Tiesneša lēmuma par maksātnespējas lietas ierosināšanu noraksts lēmuma pieņemšanas dienā nosūtāms:
+1) valsts aģentūrai "Maksātnespējas administrācija" (turpmāk - aģentūra), kura triju dienu laikā no noraksta saņemšanas brīža iesniedz tiesai priekšlikumu par administratora amata kandidātu;
+2) Finanšu un kapitāla tirgus komisijai, ja lēmums pieņemts par likumā "Par norēķinu galīgumu maksājumu un finanšu instrumentu norēķinu sistēmās" noteikto dalībnieku.
 (2) Līdz tiesas spriedumam ar tiesneša lēmumu aģentūras ieteikto administratora kandidātu ieceļ par administratoru.
 (3) (Izslēgta ar 31.10.2002. likumu.)
 (4) (Izslēgta ar 31.10.2002. likumu.)

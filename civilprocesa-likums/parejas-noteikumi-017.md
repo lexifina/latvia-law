@@ -1,0 +1,1 @@
+17. Šā likuma 346.panta pirmās daļas 2.punkts par to, ka tiesneša lēmuma par maksātnespējas lietas ierosināšanu noraksts nosūtāms Finanšu un kapitāla tirgus komisijai, un 378.panta 2.¹ daļa stājas spēkā ar īpašu likumu.
