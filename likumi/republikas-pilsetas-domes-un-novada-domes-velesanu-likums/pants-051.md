@@ -1,3 +1,4 @@
 51. pants. Politisko organizāciju (partiju), politisko organizāciju (partiju) apvienību un vēlētāju apvienību vēlēšanu kampaņu aizliegts finansēt no valsts budžeta un pašvaldību budžetiem, kā arī no valsts un pašvaldību uzņēmumu līdzekļiem.
 Aizliegts vēlēšanu kampaņu finansēt no anonīmiem ziedojumiem.
+Politiskajām organizācijām (partijām), to apvienībām un vēlētāju apvienībām aizliegts organizēt, veidot un realizēt tādas līgumiskās attiecības, kas deputātam pēc ievēlēšanas nosaka vai var noteikt finansiālas vai citādas mantiskas saistības pret attiecīgo līgumslēdzēju vai trešo personu.
 Pārskatu par ieņēmumiem un izdevumiem, kas saistīti ar vēlēšanu kampaņu, politiskās organizācijas (partijas) un to apvienības sniedz likumā «Par sabiedriskajām organizācijām un to apvienībām» noteiktajā kārtībā, bet vēlētāju apvienības šo pārskatu iesniedz Valsts ieņēmumu dienestam mēneša laikā pēc vēlēšanām.

@@ -8,8 +8,8 @@ d) kandidāts kā vēlētājs parakstījis kādu kandidātu sarakstu (16.pants),
 e) kandidāts miris;
 2) izdarot tehniska rakstura labojumus.
 Šā panta otrās daļas 1.punkta "a", "b" un "e" apakšpunktā paredzētajos gadījumos kandidāts svītrojams, pamatojoties uz attiecīgas iestādes izdotu izziņu vai tiesas spriedumu. To, ka kandidāts:
-1) nav Latvijas pilsonis, - apliecina Pilsonības un migrācijas lietu pārvaldes izziņa;
-2) nav bijis pastāvīgi pierakstīts attiecīgās pašvaldības administratīvajā teritorijā, - apliecina pašvaldības iestādes izziņa;
+1) nav Latvijas pilsonis vai ir Latvijas pilsonis, kurš vēlēšanu dienā nav sasniedzis 21 gada vecumu, - apliecina Pilsonības un migrācijas lietu pārvaldes izziņa;
+2) nav bijis bez pārtraukuma pierakstīts vismaz pēdējos 12 mēnešus pirms vēlēšanu dienas attiecīgās pašvaldības administratīvajā teritorijā, - apliecina pašvaldības iestādes izziņa;
 3) izcieš sodu brīvības atņemšanas vietā, - apliecina Iekšlietu ministrijas Informācijas centra izziņa;
 4) ir bijis sodīts par smagu vai sevišķi smagu noziegumu un sodāmība nav dzēsta vai noņemta, - apliecina Iekšlietu ministrijas Informācijas centra izziņa;
 5) Krimināllikumā paredzētā nodarījuma izdarīšanas laikā atradies nepieskaitāmības stāvoklī, ierobežotas pieskaitāmības stāvoklī vai arī pēc noziedzīgā nodarījuma izdarīšanas saslimis ar psihisku slimību, kas tam atņēmusi iespēju saprast savu rīcību vai to vadīt, - apliecina Iekšlietu ministrijas Informācijas centra izziņa;
