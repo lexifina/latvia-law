@@ -1,0 +1,1 @@
+2. Līdz jaunu valsts akciju sabiedrības "Latvijas Hipotēku un zemes banka" statūtu reģistrēšanai komercreģistrā, bet ne ilgāk kā līdz 2004.gada 1.decembrim ir spēkā Ministru kabineta 2000.gada 16.maija noteikumi Nr.177 "Valsts akciju sabiedrības "Latvijas Hipotēku un zemes banka" statūti", ciktāl tie nav pretrunā ar citiem normatīvajiem aktiem.
