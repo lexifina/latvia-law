@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Par uzņēmumu gada pārskatiem",
+  "type_of_act": "Likums",
+  "official_journal": "LR Augstākās Padomes un Valdības Ziņotājs",
+  "official_journal_reference": "44",
+  "official_journal_page": null,
+  "official_journal_date": "1992-11-12",
+  "entry_into_force": "1993-01-01",
+  "notification_date": "2004-10-21",
+  "commission_reference": "MNE(2004)52086",
+  "nim_celex": "71991L0674LVA_32086",
+  "nim_id": "32086",
+  "transposes_celex": [
+    "31991L0674"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9e00e2cc-60e7-47c8-84f8-4d89f6e524db",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
