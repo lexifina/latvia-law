@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2002. gada 19. marta noteikumi Nr. 129 \"Prasības darbībām ar radioaktīvajiem atkritumiem un ar tiem saistītajiem materiāliem\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "51",
+  "official_journal_page": null,
+  "official_journal_date": "2002-04-04",
+  "entry_into_force": "2002-04-05",
+  "notification_date": "2023-09-28",
+  "commission_reference": "MNE(2023)05211",
+  "nim_celex": "72011L0070LVA_202305211",
+  "nim_id": "202305211",
+  "transposes_celex": [
+    "32011L0070"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/64103f51-30f7-4a6e-942d-a6c8669fcf7b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
