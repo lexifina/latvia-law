@@ -1,0 +1,1 @@
+1.pants. 2001.gada 10.jūlijā Baku parakstītais Latvijas Republikas valdības un Azerbaidžānas Republikas valdības nolīgums par starptautiskajiem pārvadājumiem ar autotransportu (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
