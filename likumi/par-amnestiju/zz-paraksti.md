@@ -1,2 +1,2 @@
-Latvijas Republikas Augstākās Padomes priekšsēdētājs A. Gorbunovs
-Latvijas Republikas Augstākās Padomes sekretārs I. Daudišs
+Latvijas Republikas Augstākās Padomes priekšsēdētājs A. GORBUNOVS
+Latvijas Republikas Augstākās Padomes sekretārs I. DAUDIŠS
