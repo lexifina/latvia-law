@@ -1,0 +1,1 @@
+122. Ja no dokumentiem, kas ir par pamatu nostiprinājumam, nav redzams, kādās domājamās daļās tiesība pieder katram līdzīpašniekam, nostiprinājuma lūgumā jānorāda, ka tiesība līdzīpašniekiem pieder līdzīgās domājamās daļās, kā arī domājamā daļa jānorāda skaitliski.

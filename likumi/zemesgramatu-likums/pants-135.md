@@ -1,0 +1,1 @@
+135. Tieslietu ministra noteiktajā kārtībā valsts vienotās datorizētās zemesgrāmatas turētājs regulāri par katru nekustamā īpašuma pārejas gadījumu un par katru šā likuma 62.pantā paredzēto gadījumu elektroniski paziņo Valsts zemes dienestam un pašvaldībām.

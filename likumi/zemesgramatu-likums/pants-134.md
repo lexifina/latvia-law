@@ -1,0 +1,3 @@
+134. Ieskatīties datorizēti uzturētajā nostiprinājuma žurnālā, nekustamo īpašumu lietās un personu rādītājā, kā arī saņemt informāciju no tiem var tikai nekustamā īpašuma īpašnieks un personas, kurām ir kādas tiesības uz nekustamo īpašumu (Civillikuma 1477.p.).
+To valsts iestāžu un amatpersonu sarakstu, kurām valsts vienotās datorizētās zemesgrāmatas turētājs sniedz dienesta vajadzībām šā panta pirmajā daļā minēto informāciju, kā arī informācijas sniegšanas kārtību nosaka Ministru kabinets.
+Citām personām šā panta pirmajā daļā minēto informāciju sniedz ar zemesgrāmatu nodaļas priekšnieka atļauju.

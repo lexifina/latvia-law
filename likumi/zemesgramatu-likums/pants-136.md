@@ -1,0 +1,1 @@
+136. Pēc valsts iestāžu vai amatpersonu motivēta pieprasījuma valsts vienotās datorizētās zemesgrāmatas turētājs veic datorizētajā zemesgrāmatā ietverto datu apstrādi, lai tos izsniegtu šīm iestādēm un amatpersonām izmantošanai dienesta vajadzībām.

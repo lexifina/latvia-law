@@ -1,0 +1,2 @@
+132. Katrs var ieskatīties datorizētās zemesgrāmatas nodalījumos un pieprasīt no tās informāciju, izmantojot tiešo pieslēgumu. Informāciju var pieprasīt, konkrēti uzrādot nodalījuma numuru vai īpašuma kadastra numuru, vai īpašuma nosaukumu, vai īpašuma adresi.
+Šo informāciju var saņemt zemesgrāmatu nodaļās, vai arī to sniedz valsts vienotās datorizētās zemesgrāmatas turētājs. Abos gadījumos ir jānodrošina informācijas izmantotāju uzskaite un pienācīgo nodevu samaksāšana.

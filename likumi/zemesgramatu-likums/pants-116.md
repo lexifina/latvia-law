@@ -1,0 +1,1 @@
+116. Valsts vienotās datorizētās zemesgrāmatas turētāja uzdevums ir tehniski nodrošināt datorizētās zemesgrāmatas funkcionēšanu valstī, sniegt šajā likumā noteikto informāciju, veikt datu tehniskās kvalitātes pārbaudi un nodrošināt sadarbību ar citām valsts informācijas sistēmām.

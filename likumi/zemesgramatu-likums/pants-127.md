@@ -1,0 +1,1 @@
+127. Katrs lūdzējs, nostiprinot zemesgrāmatā jaunu, vēl nenostiprinātu tiesību, kā arī pārgrozot vai daļēji dzēšot agrāk nostiprinātu tiesību, var saņemt datorizēto zemesgrāmatu aktu, ja to norāda lūgumā.

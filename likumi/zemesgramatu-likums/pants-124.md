@@ -1,0 +1,1 @@
+124. Nostiprinājumu labojumi pēc to autorizācijas nav pieļaujami, izņemot gadījumus, kad kļūdas labošana nerada nekādas sekas attiecībā uz personām, kuru tiesības ir nostiprinātas, par ko šai personai tiek paziņots. Ierakstu labo, nepieņemot jaunu lēmumu, un labotais ieraksts atvieto agrāko ierakstu, saglabājot to datorizētajā zemesgrāmatā.
