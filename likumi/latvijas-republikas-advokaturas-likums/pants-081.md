@@ -1,1 +1,1 @@
-81. Latvijas Zvērinātu advokātu padomes lēmumus dīsciplinārlietās, izņemot tos lēmumus, kas izskaidro zvērināta advokāta rīcības nepareizību, disciplināri sodītais var pārsūdzēt tiesā šajā likumā noteiktajā kārtībā.
+81. Disciplinārlietu komisijas lēmumus disciplināri sodītais var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā.

@@ -1,1 +1,2 @@
-94. Otrajā pusgadā Latvijas Zvērinātu advokātu padome var atjaut zvērināta advokāta palīgam vest civillietas un krimināllietas rajonu un pilsētu tiesās, pirmstiesas izmeklēšanas iestādēs un to izskatīšanu apelācijas un kasācijas instancē uz patrona pārpilnvarojuma pamata un viņa vadībā.
+94. Pēc sešiem mēnešiem zvērināta advokāta palīgs kārto pirmo zvērināta advokāta palīga eksāmenu Latvijas Zvērinātu advokātu padomes noteiktajā kārtībā. Pēc šā eksāmena nokārtošanas zvērināta advokāta palīgs var vest lietas tiesās un pirmstiesas izmeklēšanas iestādēs uz patrona pārpilnvarojuma pamata un viņa vadībā.
+Ja zvērināta advokāta palīgs nenokārto eksāmenu gada laikā, Latvijas Zvērinātu advokātu padome lemj par viņa izslēgšanu no zvērinātu advokātu palīgu skaita.

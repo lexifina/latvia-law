@@ -1,2 +1,3 @@
 Trešā sadaļa
-Zvērinātu advokātu padome un revīzijas komisija
+Latvijas Zvērinātu advokātu padome, revīzijas
+komisija un disciplinārlietu komisija

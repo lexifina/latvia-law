@@ -1,1 +1,1 @@
-76. Disciplinārlietas nav ierosināmas un zvērināti advokāti disciplināri nav sodāmi, ja pagājis gads no pārkāpuma izdarīšanas.
+76. Disciplinārsodu zvērinātam advokātam var uzlikt ne vēlāk kā trīs mēnešus pēc disciplinārpārkāpuma atklāšanas dienas, bet ne vēlāk kā divus gadus pēc pārkāpuma izdarīšanas dienas.

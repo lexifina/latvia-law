@@ -1,0 +1,1 @@
+24.¹ Zvērinātu advokātu kopsapulcē var piedalīties un balsstiesības tajā ir arī Eiropas Savienības dalībvalstu advokātiem, kuri reģistrējušies Latvijas Zvērinātu advokātu padomē saskaņā ar šā likuma 121.pantu.

@@ -1,1 +1,2 @@
 16.¹ Latvijas Zvērinātu advokātu padome var apturēt zvērināta advokāta darbību uz laiku, kamēr viņš strādā vēlētā institūcijā, valsts vai pašvaldības institūcijā, kā arī uz mācību vai ilgstošas slimības laiku.
+Latvijas Zvērinātu advokātu padome aptur tāda zvērināta advokāta darbību, kuram par noziedzīgu nodarījumu, kas izdarīts aiz neuzmanības, tiesa piespriedusi brīvības atņemšanu, - uz laiku, kamēr viņš atrodas ieslodzījuma vietā.

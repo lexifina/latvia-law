@@ -1,1 +1,1 @@
-72. Ierosinot disciplinārlietu, Latvijas Zvērinātu advokātu padomei ir tiesība uz lietas izskatīšanas laiku atstādināt zvērinām advokātu no viņa pienākumu pildīšanas.
+72. Ierosinot disciplinārlietu vai disciplinārlietas izskatīšanas laikā, Latvijas Zvērinātu advokātu padomei ir tiesības atstādināt zvērinātu advokātu no viņa pienākumu pildīšanas.

@@ -1,1 +1,1 @@
-3. Advokāts ir profesionāls un neatkarīgs advokatūras reprezentants, kas. sniedzot personām juridisko palīdzību, to uzdevumā piedalās lietu izskatīšanā tiesa un pirmstiesas izmeklēšanā kā aizstāvis un pārstāvis, kā arī veic citas juridiskās darbības.
+3. Advokāts ir neatkarīgs un profesionāls jurists, kas sniedz juridisko palīdzību, aizstāvot un pārstāvot tiesā un pirmstiesas izmeklēšanā personu likumīgās intereses, sniedzot juridiskas konsultācijas, gatavojot juridiskus dokumentus un veicot citas juridiskas darbības.

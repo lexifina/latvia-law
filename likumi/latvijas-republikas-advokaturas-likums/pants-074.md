@@ -1,1 +1,5 @@
-74. Ja zvērināts advokāts divu gadu laikā divas reizes sodīts ar šā likuma 73. panta 1. vai 2. punktā paredzēto sodu un šajā laika izdarījis vēl trešo disciplinārā kārtā sodāmu pārkāpumu, tad, ja viņš nav izslēdzams no zvērinātiem advokātiem, trešo reizi viņš sodāms ar 73. panta 3. vai 4. punktā paredzēto sodu.
+74. Uzlikt disciplinārsodu - izslēgt no zvērinātu advokātu skaita - var:
+1) par tīšu likuma pārkāpumu;
+2) par Zvērinātu advokātu ētikas kodeksa normu rupju pārkāpumu;
+3) ja disciplinārsods tiek uzlikts atkārtoti;
+4) ja zvērināts advokāts nepilda ar disciplinārsodu uzlikto pienākumu.

@@ -1,1 +1,5 @@
-4. Latvijā par advokātiem var būt un praktizēt drīkst Latvijas zvērināti advokāti un zvērinātu advokātu palīgi. Eiropas Savienības dalībvalstu pilsoņi, kuri ieguvuši advokāta kvalifikāciju kādā no Eiropas Savienības dalībvalstīm (turpmāk - Eiropas Savienības dalībvalstu advokāti), Latvijā var praktizēt saskaņā ar šo likumu un citiem normatīvajiem aktiem. Ārvalstu advokāti Latvijā var praktizēt tikai saskaņā ar Latvijas Republikas starptautiskajiem līgumiem par juridisko palīdzību.
+4. Latvijā par advokātiem šajā likumā noteiktajā kārtībā var būt:
+1) zvērināti advokāti;
+2) zvērinātu advokātu palīgi;
+3) Eiropas Savienības dalībvalstu pilsoņi, kuri ieguvuši advokāta kvalifikāciju kādā no Eiropas Savienības dalībvalstīm (turpmāk - Eiropas Savienības dalībvalstu advokāti).
+Ārvalstu advokāti, izņemot Eiropas Savienības dalībvalstu advokātus, Latvijā var praktizēt saskaņā ar Latvijas Republikai saistošiem starptautiskajiem līgumiem par juridisko palīdzību.

@@ -1,1 +1,1 @@
-79. Ja zvērināts advokāts Latvijas Zvērinātu advokātu padomes noteiktajā termiņā nedod paskaidrojumus vai neierodas padomes sēdē bez attaisnojošiem iemesliem, padome pieņem lēmumu, pamatojoties uz lietā noskaidrotajiem apstākļiem un tās rīcībā esošajām ziņām.
+79. Ja zvērināts advokāts disciplinārlietu komisijas noteiktajā termiņā nedod paskaidrojumus vai neierodas uz disciplinārlietu komisijas sēdi bez attaisnojošiem iemesliem, disciplinārlietu komisija pieņem lēmumu, pamatojoties uz lietā noskaidrotajiem apstākļiem un tās rīcībā esošajām ziņām.

@@ -1,1 +1,1 @@
-124. Eiropas Savienības dalībvalsts advokāts, kas praktizē ar savas mītnes valsts profesijas nosaukumu, tiesas procesos ir tiesīgs piedalīties tikai kopā ar Latvijas Zvērinātu advokātu kolēģijas advokātu.
+124. Eiropas Savienības dalībvalsts advokāts, kas praktizē ar savas mītnes valsts profesijas nosaukumu, tiesas procesos krimināllietās ir tiesīgs piedalīties tikai kopā ar Latvijas Zvērinātu advokātu kolēģijas advokātu.
