@@ -1,4 +1,4 @@
-4.pants. Aizliegta cietsirdīga izturēšanās pret dzīvniekiem, tas ir:
+4.pants. (1) Aizliegta cietsirdīga izturēšanās pret dzīvniekiem, tas ir:
 1) dzīvnieka nogalināšana, izņemot šajā likumā noteiktos gadījumus;
 2) dzīvnieka sakropļošana, mocīšana un spīdzināšana;
 3) dzīvnieka atstāšana bez aprūpes;
@@ -12,3 +12,4 @@
 11) dzīvnieku demonstrēšana ceļojošās zvērnīcās;
 12) dzīvnieka mātītes piedāvāšana un izmantošana dzīvnieka tēviņa dzimumtieksmju apmierināšanai bez nolūka iegūt pēcnācējus;
 13) citu tādu darbību veikšana, kuras izraisa vai var izraisīt dzīvnieka sakropļošanu vai nāvi, radīt tam ciešanas, izņemot gadījumus, kad šīs darbības veiktas ārstēšanas, eksperimentālos vai zinātniskos nolūkos, vai gadījumus, kad tiek apdraudēta cilvēka dzīvība vai veselība.
+(2) Personai ir aizliegts turēt dzīvnieku, ja tā ir sodīta par cietsirdīgu izturēšanos pret dzīvnieku.
