@@ -1,7 +1,7 @@
 21.pants. Secība, kādā tiek privatizēts neizīrēts dzīvoklis
 (1) Neizīrētu dzīvokli publiski piedāvā privatizēt atklātā izsolē, kurā vispirms vienlaikus piedalās fiziskās personas:
 1) kas īrē dzīvojamo telpu mājā, kura kļuvusi nederīga apdzīvošanai stihiskas nelaimes rezultātā vai kuras konstrukcija ir avārijas stāvoklī;
-2) kas īrē dzīvojamo telpu denacionalizētā vai likumīgajam īpašniekam atdotā mājā vai mājā, kuras bijušais īpašnieks vai viņa mantinieki saskaņā ar likumu "Par namīpašumu denacionalizāciju Latvijas Republikā" un likumu "Par namīpašumu atdošanu likumīgajiem īpašniekiem" iesnieguši pieteikumu par īpašuma tiesību atjaunošanu;
+2) kas īrē dzīvojamo telpu denacionalizētā vai likumīgajam īpašniekam atdotā mājā vai mājā, par kuras atdošanu likumīgajam īpašniekam ir pieņemts attiecīgs lēmums vai attiecībā uz kuru ir pieņemts lēmums par īpašuma tiesību atjaunošanu, vai mājā, kuras bijušais īpašnieks vai viņa mantinieki saskaņā ar likumu "Par namīpašumu denacionalizāciju Latvijas Republikā" un likumu "Par namīpašumu atdošanu likumīgajiem īpašniekiem" iesnieguši pieteikumu par īpašuma tiesību atjaunošanu, ja īres līgums noslēgts pirms šo māju denacionalizācijas vai atdošanas bijušajiem īpašniekiem;
 3) kuru ģimenē ir trīs un vairāk nepilngadīgu bērnu, ja tās īrē nepietiekami lielu dzīvojamo telpu un ir reģistrētas pašvaldībā palīdzības saņemšanai dzīvokļa jautājuma risināšanai;
 4) kas īrē dzīvojamo telpu kopējā dzīvoklī;
 5) kas vairāk nekā 40 gadu īrē dzīvojamo telpu bez labierīcībām;

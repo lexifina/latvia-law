@@ -8,7 +8,9 @@
 6) nodot valsts daudzdzīvokļu mājās esošos dzīvokļus, mākslinieku darbnīcas un neapdzīvojamās telpas īpašumā līdz dzīvojamās mājas privatizācijai;
 7) izstrādāt normatīvo aktu projektus par valsts dzīvojamo māju nodošanu pašvaldībām un par dzīvojamo māju saglabāšanu valsts īpašumā;
 8) koordinēt valsts dzīvojamo māju nodošanu pašvaldībām;
-9) veikt valsts dzīvojamo māju privatizāciju.
+9) veikt valsts dzīvojamo māju privatizāciju;
+10) nodot valsts dzīvojamās mājās esošos neprivatizētos dzīvokļus, mākslinieku darbnīcas, neapdzīvojamās telpas un neprivatizētās valsts dzīvojamās mājas pašvaldībām;
+11) veidot un uzturēt dzīvojamo māju privatizācijas elektronisko datu bāzi, nodrošinot sadarbību ar citām valsts informācijas sistēmām.
 (2) Centrālajai dzīvojamo māju privatizācijas komisijai ir tiesības:
 1) ierosināt pašvaldību domēm (padomēm) atcelt pilsētu un pagastu dzīvojamo māju privatizācijas komisijas vai to priekšsēdētājus, ja atkārtoti netiek pildīti vai tiek pārkāpti likumi vai Ministru kabineta noteikumi;
 2) noteikt termiņus, kādos pašvaldību domēm (padomēm) atcelto dzīvojamo māju privatizācijas komisiju vai to priekšsēdētāju vietā jāieceļ dzīvojamo māju privatizācijas komisijas citā sastāvā vai citi priekšsēdētāji;
