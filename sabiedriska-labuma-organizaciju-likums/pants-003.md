@@ -1,0 +1,2 @@
+3.pants. Sabiedriskā labuma organizācijas
+Sabiedriskā labuma organizācijas ir biedrības un nodibinājumi, kuru statūtos, satversmē vai nolikumā norādītais mērķis ir sabiedriskā labuma darbība, kā arī reliģiskās organizācijas un to iestādes (turpmāk - reliģiskās organizācijas), kuras veic sabiedriskā labuma darbību, ja šīm biedrībām, nodibinājumiem un reliģiskajām organizācijām piešķirts sabiedriskā labuma organizācijas statuss un ja tās izlieto savus ienākumus, ievērojot šā likuma 11. un 12.pantā noteiktos ierobežojumus.

@@ -1,0 +1,3 @@
+16.pants. Sabiedriskā labuma organizācijas statuss biedrības vai nodibinājuma reorganizācijas gadījumā
+(1) Biedrības vai nodibinājuma reorganizācijas gadījumā sabiedriskā labuma organizācijas statuss iegūstošajai biedrībai vai nodibinājumam nepāriet, izņemot gadījumu, kad biedrības vai nodibinājuma reorganizācija tiek veikta pievienošanas ceļā un pievienojamā biedrība vai nodibinājums ir sabiedriskā labuma organizācija reorganizācijas spēkā stāšanās brīdī.
+(2) Biedrības vai nodibinājuma nodalīšanas gadījumā sadalāmajai biedrībai vai nodibinājumam sabiedriskā labuma organizācijas statuss saglabājas.
