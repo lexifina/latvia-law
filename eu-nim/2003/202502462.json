@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2003. gada 29. aprīļa noteikumi Nr. 239 \"Finanšu ministrijas nolikums\"",
+  "type_of_act": null,
+  "official_journal": null,
+  "official_journal_reference": "70",
+  "official_journal_page": null,
+  "official_journal_date": "2003-05-13",
+  "entry_into_force": "2003-05-14",
+  "notification_date": "2025-05-07",
+  "commission_reference": "MNE(2025)02462",
+  "nim_celex": "72023L1791LVA_202502462",
+  "nim_id": "202502462",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/50e39008-fc1e-400a-908f-c609861d6e89",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
