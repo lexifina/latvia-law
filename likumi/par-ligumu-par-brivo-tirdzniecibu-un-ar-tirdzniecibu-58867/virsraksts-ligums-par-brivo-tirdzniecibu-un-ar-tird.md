@@ -1,0 +1,1 @@
+Līgums par brīvo tirdzniecību un ar tirdzniecību saistītajiem jautājumiem starp Eiropas kopienu, Eiropas atomenerģētikas kopienu un Eiropas ogļu un tērauda kopienu, no vienas puses, un Latvijas Republiku, no otras puses

@@ -1,0 +1,1 @@
+3. pants. Uz šā likuma pamata un saskaņā ar Līguma 48. pantu Latvijas Republikas Ārlietu ministrija sagatavo ratifikācijas rakstu un nosūta to Eiropas Savienības padomes Ģenerālsekretariātam, kas ir šā Līguma depozitārijs.
