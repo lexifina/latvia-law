@@ -1,0 +1,2 @@
+2.pants. Likuma mērķis
+Šā likuma mērķis ir nodrošināt valsts vai pašvaldību profesionālo orķestru, koru, koncertorganizāciju, teātru un cirka mākslinieku (turpmāk - persona) tiesības uz izdienas pensiju sakarā ar to, ka šajās profesijās pēc noteikta laika nostrādāšanas darbs saistīts ar profesionālo iemaņu zudumu pirms vecuma pensijas piešķiršanai noteiktā vecuma sasniegšanas, un noteikt izdienas pensijas piešķiršanas, aprēķināšanas un izmaksas kārtību.
