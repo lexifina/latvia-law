@@ -1,0 +1,1 @@
+1.pants. 2003.gada 20.novembrī parakstītais Latvijas Republikas valdības un Japānas valdības līgums par Japānas valdības piešķirto neatmaksājamo tehnisko palīdzību Latvijai kultūras jomā - Latvijas Valsts kinofotofonodokumentu arhīvam dokumentu saglabāšanas iekārtu iegādei (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.

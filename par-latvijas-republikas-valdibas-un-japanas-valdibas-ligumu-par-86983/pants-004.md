@@ -1,0 +1,1 @@
+4.pants. Izdevumus, kas varētu rasties sakarā ar Japānas valdības piešķirtās neatmaksājamās tehniskās palīdzības īstenošanu un netiek segti no minētās tehniskās palīdzības līdzekļiem, sedz Kultūras ministrija tai piešķirto valsts budžeta līdzekļu ietvaros.
