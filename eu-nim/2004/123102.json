@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Veterinārās kontroles kārtība, ievedot Latvijā dzīvnieku izcelsmes produktus no trešajām valstīm",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-01",
+  "entry_into_force": null,
+  "notification_date": "2005-08-22",
+  "commission_reference": "MNE(2005)53102",
+  "nim_celex": "71997L0078LVA_123102",
+  "nim_id": "123102",
+  "transposes_celex": [
+    "31997L0078"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8896cad3-81f8-4590-912e-79d57243e18c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
