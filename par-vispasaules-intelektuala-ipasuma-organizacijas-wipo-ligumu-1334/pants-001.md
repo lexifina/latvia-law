@@ -1,0 +1,1 @@
+1.pants. 1996.gada 20.decembrī Ženēvā apstiprinātais Vispasaules intelektuālā īpašuma organizācijas (WIPO) līgums par autortiesībām (turpmāk - Līgums) un tā pielikums - Kopīgais paziņojums (turpmāk - Pielikums) ar šo likumu tiek pieņemti un apstiprināti.

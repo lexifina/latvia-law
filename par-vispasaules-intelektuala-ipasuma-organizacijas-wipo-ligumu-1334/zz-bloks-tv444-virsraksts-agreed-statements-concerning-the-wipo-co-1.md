@@ -1,0 +1,21 @@
+Adopted by the Diplomatic Conference on December 20, 1996
+Concerning Article 1(4)
+The reproduction right, as set out in Article 9 of the Berne Convention, and the exceptions permitted thereunder, fully apply in the digital environment, in particular to the use of works in digital form. It is understood that the storage of a protected work in digital form in an electronic medium constitutes a reproduction within the meaning of Article 9 of the Berne Convention.
+Concerning Article 3
+It is understood that in applying Article 3 of this Treaty, the expression "country of the Union" in Articles 2 to 6 of the Berne Convention will be read as if it were a reference to a Contracting Party to this Treaty, in the application of those Berne Articles in respect of protection provided for in this Treaty. It is also understood that the expression "country outside the Union" in those Articles in the Berne Convention will, in the same circumstances, be read as if it were a reference to a country that is not a Contracting Party to this Treaty, and that "this Convention" in Articles 2(8), 2 bis (2), 3, 4 and 5 of the Berne Convention will be read as if it were a reference to the Berne Convention and this Treaty. Finally, it is understood that a reference in Articles 3 to 6 of the Berne Convention to a "national of one of the countries of the Union" will, when these Articles are applied to this Treaty, mean, in regard to an intergovernmental organization that is a Contracting Party to this Treaty, a national of one of the countries that is member of that organization.
+Concerning Article 4
+The scope of protection for computer programs under Article 4 of this Treaty, read with Article 2, is consistent with Article 2 of the Berne Convention and on a par with the relevant provisions of the TRIPS Agreement.
+Concerning Article 5
+The scope of protection for compilations of data (databases) under Article 5 of this Treaty, read with Article 2, is consistent with Article 2 of the Berne Convention and on a par with the relevant provisions of the TRIPS Agreement.
+Concerning Articles 6 and 7
+As used in these Articles, the expressions "copies" and "original and copies," being subject to the right of distribution and the right of rental under the said Articles, refer exclusively to fixed copies that can be put into circulation as tangible objects.
+Concerning Article 7
+It is understood that the obligation under Article 7(1) does not require a Contracting Party to provide an exclusive right of commercial rental to authors who, under that Contracting Party's law, are not granted rights in respect of phonograms. It is understood that this obligation is consistent with Article 14(4) of the TRIPS Agreement.
+Concerning Article 8
+It is understood that the mere provision of physical facilities for enabling or making a communication does not in itself amount to communication within the meaning of this Treaty or the Berne Convention. It is further understood that nothing in Article 8 precludes a Contracting Party from applying Article 11 bis (2).
+Concerning Article 10
+It is understood that the provisions of Article 10 permit Contracting Parties to carry forward and appropriately extend into the digital environment limitations and exceptions in their national laws which have been considered acceptable under the Berne Convention. Similarly, these provisions should be understood to permit Contracting Parties to devise new exceptions and limitations that are appropriate in the digital network environment.
+is also understood that Article 10(2) neither reduces nor extends the scope of applicability of the limitations and exceptions permitted by the Berne Convention.
+Concerning Article 12
+It is understood that the reference to "infringement of any right covered by this Treaty or the Berne Convention" includes both exclusive rights and rights of remuneration.
+It is further understood that Contracting Parties will not rely on this Article to devise or implement rights management systems that would have the effect of imposing formalities which are not permitted under the Berne Convention or this Treaty, prohibiting the free movement of goods or impeding the enjoyment of rights under this Treaty.

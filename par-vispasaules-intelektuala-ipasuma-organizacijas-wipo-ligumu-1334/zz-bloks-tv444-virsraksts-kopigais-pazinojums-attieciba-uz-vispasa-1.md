@@ -1,0 +1,21 @@
+Apstiprināts diplomātiskajā konferencē 1996.gadā 20.decembrī, Ženēvā
+Attiecībā uz 1.(4) pantu
+Reproducēšanas tiesības, kas noteiktas Bernes konvencijas 9.pantā, un izņēmumos, kurus pieļauj šis pats pants, var pilnībā piemērot attiecībā uz digitālo vidi, īpaši uz digitālā formā ietvertu darbu. Tiek uzskatīts, ka Bernes konvencijas 9.panta izpratnē aizsargāta, digitālā formā ietverta darba uzglabāšana elektroniskā iekārtā atzīstama par reproducēšanu.
+Attiecībā uz 3.pantu
+Tiek izskatīts, ka piemērojot šā līguma 3.pantu, Bernes konvencijas 2.-6.pantā lietots termins "Savienības valstis" tiks saprasts tā, it kā tas attiektos uz šā līguma dalībvalsti, ja minētos Bernes konvencijas pantus piemēros attiecībā uz šajā līgumā noteikto aizsardzību. Tiek arī uzskatīts, ka minētajos Bernes konvencijas pantos lietotais termins "pie Savienības nepiederoša valsts" tādos pašos gadījumos tiks saprasts tā, it kā tas attiektos uz valsti, kura nav šā līguma dalībvalsts, un ka Bernes konvencijas 2(8), 2bis(2), 3.,4. un 5.pantā lietotais termins "šī konvencija" tiks saprasts tā, it kā tas attiektos gan uz Bernes konvenciju, gan uz šo līgumu. Visbeidzot, tiek uzskatīts, ka Bernes konvencijas 3.-6.pantā lietotais termins "Savienības valsts pilsonis", ja šos pantus piemēro šim līgumam attiecībā uz starpvalstu organizāciju, kura ir šā līguma dalībniece, nozīmē jebkuras tādas valsts pilsoni, kura ir konkrētās starpvalstu organizācijas dalībvalsts.
+Attiecībā uz 4.pantu
+Noteikumi par datorprogrammu aizsardzības apjomu, kas reglamentēti šā līguma 4.pantā, kurš lasāms kontekstā ar 2.pantu, atbilst Bernes konvencijas 2.pantam un ir līdzvērtīgi attiecīgajiem līguma par ar tirdzniecību saistītiem intelektuālā īpašuma jautājumiem (TRIPS) noteikumiem.
+Attiecībā uz 5.pantu
+Noteikumi par datu apkopojumu (datu bāzu) aizsardzības apjomu, kas reglamentēti šā līguma 5.pantā, kurš lasāms kontekstā ar 2.pantu, atbilst Bernes konvencijas 2.pantam un ir līdzvērtīgi attiecīgajiem līguma par ar tirdzniecību saistītiem intelektuālā īpašuma jautājumiem (TRIPS) noteikumiem.
+Attiecībā uz 6. un 7.pantu
+Šajos pantos lietotie termini "kopijas" un "oriģināls un kopijas", ja tie apzīmē šajos pantos noteikto izplatīšanas tiesību un iznomāšanas tiesību objektus, attiecas vienīgi uz fiksētiem eksemplāriem, kurus var laist apgrozībā kā taustāmus priekšmetus.
+Attiecībā uz 7.pantu
+Tiek uzskatīts, ka pienākumi, ko nosaka 7.(1) pants, neprasa, lai līgumslēdzēja valsts nodrošinātu ekskluzīvas komerciālās iznomāšanas tiesības autoriem, kuriem saskaņā ar attiecīgās līgumslēdzējas valsts normatīviem aktiem nav piešķirtas tiesības attiecībā uz fonogrammām. Tiek uzskatīts, ka šis pienākums atbilst līguma par ar tirdzniecību saistītiem intelektuālā īpašuma jautājumiem (TRIPS) 14(4) panta noteikumiem.
+Attiecībā uz 8.pantu
+Tiek uzskatīts, ka tīri fiziska tādu iekārtu nodrošināšana, kuras dod iespēju komunicēt ar publiku vai ar kurām tiek īstenota komunicēšana ar publiku šā līguma vai Bernes konvencijas izpratnē nav uzskatāma par pašu komunicēšanu ar publiku. Tiek arī uzskatīts, ka nekas no 8.pantā minētā nekavē līgumslēdzēju valsti piemērot 11. bis (2) pantu.
+Attiecībā uz 10.pantu
+Tiek uzskatīts, ka 10.panta noteikumi ļauj līgumslēdzējai valstij izstrādāt tālāk un attiecīgi piemērot digitālajai videi savos normatīvos aktos noteiktos ierobežojumus un izņēmumus, kuri saskaņā ar Bernes konvenciju atzīstami par pieņemamiem. Tāpat jāsaprot, ka šie noteikumi ļauj līgumslēdzējām valstīm izstrādāt jaunus izņēmumus un ierobežojumus, kuri ir piemēroti digitālo tīklu videi.
+Tiek arī uzskatīts, ka 10.(2) panta noteikumi nedz sašaurina, nedz arī paplašina Bernes konvencijā pieļauto ierobežojumu un izņēmumu piemērošanas apjomu.
+Attiecībā uz 12.pantu
+Tiek uzskatīts, ka šajā pantā minētā frāze "jebkuru šajā līgumā vai Bernes konvencijā noteikto tiesību pārkāpums" attiecas gan uz ekskluzīvajām tiesībām, gan arī uz tiesībām saņemt atlīdzību.
+Tiek arī uzskatīts, ka līgumslēdzējas valstis neizmantos šo pantu tādā nolūkā, lai izstrādātu vai īstenotu tiesību pārvaldījuma sistēmas, kuru rezultātā tiktu noteiktas formalitātes, kas nav pieļaujamas atbilstoši Bernes konvencijai vai šim līgumam, jo liedz brīvu preču kustību vai traucē šajā līgumā noteikto tiesību izmantošanu.
