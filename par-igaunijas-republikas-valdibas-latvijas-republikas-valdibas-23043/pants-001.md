@@ -1,0 +1,1 @@
+1.pants. 1998.gada 12.jūnijā Briselē parakstītā Igaunijas Republikas valdības, Latvijas Republikas valdības un Lietuvas Republikas valdības vienošanās par Baltijas Aizsardzības koledžu (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.
