@@ -1,0 +1,1 @@
+1.pants. 1997.gada 24.aprīlī Kairā parakstītais Latvijas Republikas valdības un Ēģiptes Arābu Republikas valdības līgums par ieguldījumu veicināšanu un aizsardzību (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
