@@ -1,1 +1,1 @@
-26. Par katram 25. pantā minētajam amatam izvirzītajiem kandidātiem balso vienlaikus aizklātā balsošanā ar vēlēšanu zīmēm.
+26. Par katram 25. pantā minētajam amatam izvirzītajiem kandidātiem balso vienlaikus aizklātā balsošanā ar vēlēšanu zīmēm. Aizklāti balsojot ar vēlēšanu zīmēm, ieceļ arī Satversmes aizsardzības biroja direktoru.
