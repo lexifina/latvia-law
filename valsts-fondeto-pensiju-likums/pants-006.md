@@ -1,0 +1,3 @@
+6.pants. Dalība fondēto pensiju shēmā invaliditātes gadījumā
+(1) Ja fondēto pensiju shēmas dalībnieks tiek atzīts par 1. vai 2.grupas invalīdu un viņam tiek piešķirta invaliditātes pensija saskaņā ar likumu "Par valsts pensijām", viņš saglabā dalību fondēto pensiju shēmā kā sociāli apdrošinātā persona saskaņā ar likumu ""Par valsts sociālo apdrošināšanu".
+(2) Šā panta pirmajā daļā minētās personas, ja tām likumā "Par valsts pensijām" noteiktajā kārtībā invaliditātes pensijas izmaksa tiek pārtraukta un tās vietā piešķirta vecuma pensija, ar fondēto pensiju shēmā reģistrēto fondētās pensijas kapitālu rīkojas atbilstoši šā likuma 7.panta 1.punkta noteikumiem.

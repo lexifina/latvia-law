@@ -1,0 +1,1 @@
+2. Šā likuma 4.panta otrajā daļā noteiktā likme stājas spēkā 2010.gada 1.janvārī.

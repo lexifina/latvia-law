@@ -1,0 +1,2 @@
+8.pants. Fondētās pensijas kapitāla izmaksa dalībnieka nāves gadījumā
+Ja fondēto pensiju shēmas dalībnieks nomiris pirms vecuma pensijas pieprasīšanas, viss fondētās pensijas kapitāls, kas reģistrēts līdz fondēto pensiju shēmas dalībnieka nāves dienai, tiek ieskaitīts valsts pensiju speciālajā budžetā un ņemts vērā, aprēķinot apgādnieka zaudējuma pensiju mirušā fondēto pensiju shēmas dalībnieka apgādībā bijušajiem ģimenes locekļiem saskaņā ar likumu "Par valsts pensijām".

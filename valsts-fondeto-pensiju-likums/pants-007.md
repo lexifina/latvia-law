@@ -1,0 +1,4 @@
+7.pants. Fondētās pensijas kapitāla izmaksa vecuma pensijas pieprasīšanas gadījumā
+Kad fondēto pensiju shēmas dalībnieks sasniedzis vecumu, kas dod tiesības saņemt vecuma pensiju, un pieprasa pensiju, Aģentūra ar fondēto pensiju shēmas dalībnieka kontā reģistrēto fondētās pensijas kapitālu rīkojas pēc viņa izvēles:
+1) uzkrāto fondētās pensijas kapitālu ieskaita valsts pensiju speciālajā budžetā un kopā ar pensijas kapitālu, kura veidošanos nosaka likums "Par valsts pensijām", pilnā apjomā ņem vērā, aprēķinot vecuma pensiju saskaņā ar minēto likumu;
+2) pārskaita uzkrāto fondētās pensijas kapitālu fondēto pensiju shēmas dalībnieka izraudzītam apdrošinātājam dzīvības apdrošināšanas (mūža pensijas) polises iegādei. Šādas mūža pensijas apdrošināšanas tipveida noteikumus izdod Ministru kabinets.
