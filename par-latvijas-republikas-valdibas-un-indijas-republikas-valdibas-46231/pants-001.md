@@ -1,0 +1,1 @@
+1.pants. 1997.gada 20.oktobrī Deli parakstītais Latvijas Republikas valdības un Indijas Republikas valdības nolīgums par gaisa satiksmi (turpmāk - Nolīgums) un tā pielikums (turpmāk - Pielikums) ar šo likumu tiek pieņemti un apstiprināti.
