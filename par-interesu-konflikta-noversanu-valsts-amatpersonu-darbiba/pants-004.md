@@ -17,7 +17,7 @@
 15) pašvaldības domes (padomes) deputāts;
 16) valsts vai pašvaldības iestādes vadītājs un viņa vietnieks;
 17) vispārējā un specializētā valsts civildienesta ierēdnis;
-18) tādas kapitālsabiedrības padomes vai valdes loceklis, kurā valsts vai pašvaldības daļa pamatkapitālā atsevišķi vai kopumā pārsniedz 50 procentus;
+18) kapitālsabiedrības padomes loceklis, kurš pārstāv Latvijas valsts vai pašvaldības intereses kapitālsabiedrībā, vai valdes loceklis kapitālsabiedrībā, kurā valsts vai pašvaldības daļa pamatkapitālā atsevišķi vai kopumā pārsniedz 50 procentus;
 19) valsts vai pašvaldības kapitālsabiedrības padomes vai valdes loceklis;
 20) valsts vai pašvaldības kapitāla daļas turētāja pārstāvis un tā pilnvarota persona;
 21) tiesnesis, prokurors, zvērināts notārs un zvērināts tiesu izpildītājs;

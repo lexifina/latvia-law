@@ -1,0 +1,1 @@
+9. Bijušie valsts pilnvarnieki var ieņemt padomes locekļa (priekšsēdētāja) amatu tajā pašā statūtsabiedrībā, kurā iepriekš pildījuši valsts pilnvarnieka pienākumus, ja kapitāla daļu turētājs viņus iecēlis šajā amatā un netiek pārkāpti šā likuma 1.panta 5.punktā ietvertie interešu konflikta situāciju raksturojošie kritēriji.

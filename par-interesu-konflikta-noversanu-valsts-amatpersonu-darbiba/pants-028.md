@@ -1,9 +1,9 @@
 28.pants. Deklarāciju un faktu pārbaude
-(1) Valsts ieņēmumu dienestam, Satversmes aizsardzības birojam un Ministru prezidentam vai viņa pilnvarotai personai atbilstoši šā likuma 23.panta otrajā, trešajā un ceturtajā daļā paredzētajai valsts amatpersonu deklarāciju iesniegšanas piekritībai ir pienākums šajā likumā paredzētajos gadījumos pārbaudīt, vai:
-1) deklarācija ir iesniegta un aizpildīta noteiktajā kārtībā;
-2) deklarācija ir iesniegta noteiktajā termiņā.
-(1¹) Satversmes aizsardzības birojam un Ministru prezidentam vai viņa pilnvarotai personai atbilstoši šā likuma 23.panta trešajā un ceturtajā daļā paredzētajai deklarāciju iesniegšanas piekritībai, kā arī Korupcijas novēršanas un apkarošanas birojam šā likuma 23.panta otrajā daļā paredzētajos gadījumos ir pienākums pārbaudīt, vai deklarācijā ir norādītas ziņas, kas liecina par šajā likumā paredzēto ierobežojumu pārkāpšanu.
-(2) Valsts vai pašvaldības institūcijas vadītājam saskaņā ar šā likuma 20.panta ceturtās daļas noteikumiem ir pienākums nodrošināt deklarāciju pārbaudi, lai konstatētu, vai deklarācijā ir norādītas ziņas, kas liecina par šajā likumā paredzēto ierobežojumu pārkāpšanu.
+(1) Valsts ieņēmumu dienestam, Satversmes aizsardzības birojam un Ministru prezidentam vai viņa pilnvarotai personai atbilstoši šā likuma 23.panta otrajā, trešajā un ceturtajā daļā paredzētajai valsts amatpersonu deklarāciju iesniegšanas piekritībai ir pienākums šajā likumā noteiktajos gadījumos pārbaudīt, vai deklarācija ir:
+1) iesniegta un aizpildīta noteiktajā kārtībā;
+2) iesniegta noteiktajā termiņā.
+(1¹) (Izslēgta ar 08.05.2003. likumu.)
+(2) Satversmes aizsardzības birojam un Ministru prezidentam vai viņa pilnvarotai personai atbilstoši šā likuma 23.panta trešajā un ceturtajā daļā paredzētajai deklarāciju iesniegšanas piekritībai, kā arī Korupcijas novēršanas un apkarošanas birojam šā likuma 23.panta otrajā daļā paredzētajos gadījumos ir pienākums pārbaudīt, vai deklarācijā ir norādītas ziņas, kas liecina par šajā likumā noteikto ierobežojumu pārkāpšanu.
 (3) Valsts ieņēmumu dienestam un Satversmes aizsardzības birojam ir pienākums pārbaudīt, vai:
 1) valsts vai pašvaldības institūcijas vadītājs Ministru kabineta noteiktajā termiņā un kārtībā ir iesniedzis valsts amatpersonu sarakstus;
 2) valsts vai pašvaldības institūcijas vadītāja iesniegtie valsts amatpersonu saraksti ir sastādīti pareizi un pilnīgi.
