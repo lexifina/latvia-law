@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Enerģijas lietotāju apgādes kārtība un kurināmā pārdošanas kārtība izsludinātas enerģētiskās krīzes laikā",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "42",
+  "official_journal_page": null,
+  "official_journal_date": "2002-03-15",
+  "entry_into_force": "2002-03-16",
+  "notification_date": "2008-04-30",
+  "commission_reference": "MNE(2008)52589",
+  "nim_celex": "72005L0089LVA_155415",
+  "nim_id": "155415",
+  "transposes_celex": [
+    "32005L0089"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f7f0fe19-654a-4336-aabd-c3258f1c2924",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
