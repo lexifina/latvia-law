@@ -1,1 +1,1 @@
-11. pants. Laulībā un ārlaulībā dzimuša bērna izcelšanās apstrīdēšana attiecībā uz bērniem, kuri dzimuši pirms 1993. gada 1. septembra, ar 1993. gada 1. septembri notiek pēc Civillikuma noteikumiem, ja līdz šim datumam nav notecējis Latvijas laulības un ģimenes kodeksa 58.¹pantā noteiktais termiņš.
+11. pants. Bērna izcelšanās apstrīdēšana attiecībā uz bērniem, kuri dzimuši pirms 1993. gada 1. septembra, ar 1993. gada 1. septembri notiek pēc Civillikuma noteikumiem, ja līdz šim datumam nav notecējis Latvijas laulības un ģimenes kodeksa 58.¹pantā noteiktais termiņš.
