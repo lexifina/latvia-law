@@ -1,1 +1,1 @@
-41. Personas, kas vēlas doties laulībā, izņemot 51. pantā paredzētos gadījumus, iesniedz par to pieteikumu dzimtsarakstu nodaļai pēc vienas vai otras šīs personas dzīvesvietas vai vecāku dzīvesvietas.
+41. Personas, kas vēlas doties laulībā, izņemot 51. pantā paredzētos gadījumus, iesniedz par to iesniegumu dzimtsarakstu nodaļai.

@@ -1,3 +1,3 @@
-172. Adoptētais kļūst par adoptētāju ģimenes locekli, un adoptētājs iegūst tiesības īstenot aizgādību. Adoptētajam var piešķirt adoptētāju uzvārdu atbilstoši šā likuma 151.panta noteikumiem.
-Ja adoptējamā vārds neatbilst adoptētāja tautībai vai ir grūti izrunājams, adoptējamā vārdu atļauts mainīt.
-Pēc adoptētāju lūguma tiesa var atļaut mainīt arī adoptējamā personas kodu.
+172. Adoptētais kļūst par adoptētāju ģimenes locekli, un adoptētājs iegūst tiesības īstenot aizgādību. Adoptētajam var piešķirt adoptētāju uzvārdu atbilstoši šā likuma 151.panta noteikumiem. Adoptētājs var lūgt adoptējamā uzvārdam pievienot savu uzvārdu, izņemot gadījumus, kad adoptētājam vai adoptējamam jau ir dubults uzvārds.
+Ja adoptējamā vārds neatbilst adoptētāja tautībai vai ir grūti izrunājams, adoptējamā vārdu atļauts mainīt vai tam pievienot otru vārdu, izņemot gadījumus, kad adoptējamam jau ir dubults vārds.
+Pēc adoptētāju lūguma tiesa var atļaut mainīt arī adoptējamā personas kodu. Aizliegts mainīt adoptējamā dzimšanas datumu.

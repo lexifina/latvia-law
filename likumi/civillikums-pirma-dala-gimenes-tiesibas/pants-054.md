@@ -1,1 +1,1 @@
-54. Dzimtsarakstu nodaļas pārzinis vai garīdznieks nelaulā, ja viņiem ir zināmi šķēršļi laulības noslēgšanai.
+54. Dzimtsarakstu nodaļas vadītājs vai garīdznieks nelaulā, ja viņiem ir zināmi šķēršļi laulības noslēgšanai.

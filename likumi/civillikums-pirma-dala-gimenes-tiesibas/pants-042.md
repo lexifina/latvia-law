@@ -1,3 +1,6 @@
-42. Līdz ar pieteikumu par velēšanos doties laulība jāiesniedz dzimšanas apliecības un attiecīgos gadījumos vecāku, aizbildņu vai bāriņtiesas rakstiska atļauja, bet personām, kas agrāk bijušas citā laulībā, - bijušā laulātā miršanas apliecība vai noraksts no likumīgā spēkā nākuša tiesas sprieduma, ar kuru laulība šķirta vai atzīta par neesošu, vai arī laulības reģistra izraksts ar atzīmi par šādu spriedumu.
-Tāpat tām līdz laulības noslēgšanai jāiesniedz ārsta apliecinājums par to veselības stāvokli.
+42. Līdz ar iesniegumu par vēlēšanos doties laulībā personām, kas agrāk bijušas citā laulībā, jāuzrāda viens no šādiem dokumentiem:
+1) bijušā laulātā miršanas apliecība;
+2) laulības šķiršanas apliecība vai izraksts vai izziņa no laulības šķiršanas akta ieraksta;
+3) likumīgā spēkā esošs tiesas spriedums, ar kuru laulība šķirta vai atzīta par neesošu, vai arī izraksts vai izziņa no laulības reģistra ar atzīmi par šādu spriedumu.
+Tāpat tām līdz laulības noslēgšanai attiecīgos gadījumos jāiesniedz vecāku, aizbildņu vai bāriņtiesas rakstveida atļauja.
 Par nepatiesu šajā pantā paredzēto ziņu sniegšanu vainīgos var saukt pie kriminālatbildības.

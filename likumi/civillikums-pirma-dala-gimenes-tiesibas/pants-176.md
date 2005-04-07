@@ -1,3 +1,2 @@
-176. Ar adopcijas atcelšanu izbeidzas visas radniecības tiesiskās attiecības adoptētajam un viņa pēcnācējiem ar adoptētāju un viņa radiniekiem.
-Ar adopcijas atcelšanu tiek atjaunotas radniecības tiesiskās attiecības bērnam un viņa pēcnācējiem ar bērna bioloģiskajiem vecākiem un viņu radiniekiem. Atceļot bērna adopciju, tiesa lemj par to, kas turpmāk realizēs aizgādību, un par uzturlīdzekļu piedziņu, ja adopcija ir atcelta adoptētāja vainas dēļ.
-Ja ar adopcijas nodibināšanu adoptētais bērns ir ieguvis adoptētāja uzvārdu vai citu vārdu, tiesa, ja tas ir bērna interesēs, var saglabāt iegūto uzvārdu un vārdu pēc adopcijas atcelšanas.
+176. Ar adopcijas atcelšanu tiek atjaunotas radniecības tiesiskās attiecības adoptētajam un viņa pēcnācējiem ar adoptētā bioloģiskajiem vecākiem un viņu radiniekiem.
+Ja ar adopcijas nodibināšanu adoptētais ir ieguvis adoptētāja uzvārdu vai citu vārdu vai viņam ir mainīts personas kods, tiesa, ja tas ir adoptējamā interesēs, var saglabāt iegūto uzvārdu, vārdu un personas kodu pēc adopcijas atcelšanas.
