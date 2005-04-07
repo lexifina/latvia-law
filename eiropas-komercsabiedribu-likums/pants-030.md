@@ -1,0 +1,2 @@
+30.pants. Līdzdalības veida noteikšana
+Ja dibinātājās komercsabiedrībās pastāv dažādi līdzdalības veidi, speciālā sarunu grupa izlemj, kuru no līdzdalības veidiem ieviest Eiropas komercsabiedrībā. Par šādu lēmumu speciālā sarunu grupa informē dibinātāju komercsabiedrību pārvaldes institūcijas. Ja šāds lēmums netiek pieņemts, Eiropas komercsabiedrībā ievieš tādu līdzdalības veidu, kāds pastāv dibinātājā komercsabiedrībā, kas nodarbina lielāko darbinieku skaitu.

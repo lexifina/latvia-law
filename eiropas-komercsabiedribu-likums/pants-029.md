@@ -1,0 +1,9 @@
+29.pants. Pamatnoteikumu par darbinieku iesaistīšanu lēmumu pieņemšanā piemērošana
+(1) Šā likuma 30., 31., 32. un 33.pantu par darbinieku iesaistīšanu lēmumu pieņemšanā (turpmāk - pamatnoteikumi) piemēro, ja:
+1) puses par to vienojas;
+2) pušu vienošanās nav panākta šā likuma 28.pantā noteiktajā termiņā un katras dibinātājas komercsabiedrības pārvaldes institūcija piekrīt pamatnoteikumu piemērošanai, kā arī speciālā sarunu grupa nav pieņēmusi šā likuma 24.pantā paredzēto lēmumu.
+(2) Šā panta pirmo daļu piemēro, ja:
+1) Eiropas komercsabiedrību izveido pārveidošanas ceļā un ja noteikumi par līdzdalību ir attiecināmi uz dibinātāju akciju sabiedrību pirms pārveidošanas;
+2) Eiropas komercsabiedrību izveido apvienošanas ceļā un ja vismaz vienā no dibinātājām akciju sabiedrībām pastāv darbinieku līdzdalība, un ja vismaz 25 procentiem no dibinātāju akciju sabiedrību darbinieku kopskaita ir nodrošinātas līdzdalības tiesības vai ja mazāk nekā 25procentiem no dibinātāju akciju sabiedrību darbinieku kopskaita ir nodrošinātas līdzdalības tiesības un speciālā sarunu grupa pieņem lēmumu piemērot pamatnoteikumus;
+3) Eiropas komercsabiedrību izveido kā pārvaldītājsabiedrību vai kā atkarīgo akciju sabiedrību, ja vismaz vienā no dibinātājām komercsabiedrībām pastāvēja darbinieku līdzdalība un ja vismaz 50 procentiem no dibinātāju komercsabiedrību darbinieku kopskaita bija nodrošinātas līdzdalības tiesības vai ja mazāk nekā 50 procentiem no dibinātāju komercsabiedrību darbinieku kopskaita bija nodrošinātas līdzdalības tiesības un speciālā sarunu grupa pieņem lēmumu piemērot pamatnoteikumus.
+(3) Lai pārbaudītu Regulas Nr. 2157/2001 12.panta otrajā daļā minētos apstākļus, šā panta pirmās daļas 1.punktā minētajā gadījumā Uzņēmumu reģistram iesniedz vienošanos starp pārvaldes institūciju un speciālo sarunu grupu par pamatnoteikumu piemērošanu, bet šā panta pirmās daļas 2.punktā minētajā gadījumā - apliecinājumu par minēto nosacījumu izpildi.

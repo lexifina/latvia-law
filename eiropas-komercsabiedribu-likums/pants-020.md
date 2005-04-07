@@ -1,0 +1,3 @@
+20.pants. Vienošanās par darbinieku iesaistīšanu lēmumu pieņemšanā
+(1) Speciālā sarunu grupa un dibinātāju komercsabiedrību pārvaldes institūciju pārstāvji vienojas par darbinieku iesaistīšanu lēmumu pieņemšanā, arī par informēšanu, konsultēšanu un līdzdalību Eiropas komercsabiedrībā. Šāda vienošanās slēdzama rakstveidā. Regulas Nr. 2157/2001 12.panta otrajā daļā minēto apstākļu pārbaudei vienošanās par darbinieku iesaistīšanu lēmuma pieņemšanā tiek iesniegta Uzņēmumu reģistram.
+(2) Dibinātāju komercsabiedrību pārvaldes institūciju pārstāvju pienākums ir informēt speciālo sarunu grupu par Eiropas komercsabiedrības dibināšanas plānu un tā īstenošanas gaitu līdz Eiropas komercsabiedrības reģistrācijas brīdim.

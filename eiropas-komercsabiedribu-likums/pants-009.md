@@ -1,0 +1,2 @@
+9.pants. Mazākumakcionāru tiesību aizsardzība
+Atbilstoši Regulas Nr. 2157/2001 8.panta piektajai daļai Eiropas komercsabiedrības akcionārs, kas iebilst pret Eiropas komercsabiedrības juridiskās adreses pārcelšanu uz citu dalībvalsti, ir tiesīgs mēneša laikā pēc tam, kad pieņemts pilnsapulces lēmums par juridiskās adreses pārcelšanu, pieprasīt no Eiropas komercsabiedrības atlīdzību, kas komercdarbību regulējošos normatīvajos aktos paredzēta komercsabiedrību reorganizācijas gadījumā.

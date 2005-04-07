@@ -1,0 +1,4 @@
+24.pants. Lēmums par dalībvalsts noteikumu piemērošanu
+(1) Ja par to nobalso ne mazāk kā divas trešdaļas speciālās sarunu grupas locekļu, kuri pārstāv ne mazāk kā divas trešdaļas darbinieku no vismaz divām Eiropas komercsabiedrības dalībvalstīm, speciālā sarunu grupa var nolemt neuzsākt šā likuma 16.panta pirmajā daļā minētās sarunas vai arī izbeigt jau uzsāktās sarunas un nolemt, ka jāpiemēro normatīvo aktu noteikumi par informēšanu un konsultēšanu, kas ir spēkā attiecīgajās dalībvalstīs, kurās Eiropas komercsabiedrība nodarbina darbiniekus.
+(2) Šā panta pirmajā daļā minētā lēmuma pieņemšana aptur jebkādus pasākumus, kas vērsti uz šā likuma 20.pantā minētās vienošanās noslēgšanu. Šajā gadījumā nepiemēro arī šā likuma 30., 31., 32. un 33.pantu.
+(3) Šā panta pirmās daļas noteikumus nepiemēro, ja Eiropas komercsabiedrība dibināta pārveidošanas ceļā un pārveidojamā akciju sabiedrībā pastāv darbinieku līdzdalība.

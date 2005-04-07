@@ -1,0 +1,2 @@
+7.pants. Mazākumakcionāru tiesību aizsardzība
+Atbilstoši Regulas Nr. 2157/2001 24.panta otrajai daļai apvienošanā iesaistītās akciju sabiedrības akcionārs, kas iebilst pret apvienošanos, ir tiesīgs mēneša laikā pēc tam, kad pieņemts pilnsapulces lēmums par apvienošanos, pieprasīt no akciju sabiedrības atlīdzību, kas komercdarbību regulējošos normatīvajos aktos paredzēta komercsabiedrību reorganizācijas gadījumā.
