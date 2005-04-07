@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par konsultāciju kārtību tirgus dalībniekiem",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "54",
+  "official_journal_page": null,
+  "official_journal_date": "2005-04-06",
+  "entry_into_force": "2005-04-07",
+  "notification_date": "2006-02-23",
+  "commission_reference": "MNE(2006)51321",
+  "nim_celex": "72002L0021LVA_128829",
+  "nim_id": "128829",
+  "transposes_celex": [
+    "32002L0021"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8d7765e2-e7d6-4758-a9aa-94d3826554f7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
