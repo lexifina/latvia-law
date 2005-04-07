@@ -3,7 +3,7 @@ Valsts probācijas dienesta funkcijas ir šādas:
 1) sniegt izvērtēšanas ziņojumu par probācijas klientu;
 2) organizēt sociālās uzvedības korekcijas programmu izstrādi un nodrošināt preventīvo pasākumu veikšanu;
 3) koordinēt kriminālsoda - piespiedu darbs - izpildi;
-4) uzraudzīt to lēmumu izpildi, kuri saistīti ar nepilngadīgo sabiedrisko darbu;
+4) veikt audzinoša rakstura piespiedu līdzekļa - sabiedriskais darbs - izpildi;
 5) pārbaudes laikā uzraudzīt personas, pret kurām izbeigta krimināllieta, tās nosacīti atbrīvojot no kriminālatbildības;
 6) sadarboties ar brīvības atņemšanas iestādēm, sagatavojot personas atbrīvošanai no brīvības atņemšanas soda izciešanas;
 7) uzraudzīt personas, kuras nosacīti notiesātas un nosacīti pirms termiņa atbrīvotas no brīvības atņemšanas iestādēm;
