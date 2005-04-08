@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2005. gada 5. aprīļa noteikumi Nr. 226 \"Kārtība, kādā izsniedzami pasažieru un kravas autopārvadājumu profesionālās kompetences sertifikāti\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "55",
+  "official_journal_page": null,
+  "official_journal_date": "2005-04-07",
+  "entry_into_force": "2005-04-08",
+  "notification_date": "2005-06-06",
+  "commission_reference": "MNE(2005)51442",
+  "nim_celex": "71996L0026LVA_121442",
+  "nim_id": "121442",
+  "transposes_celex": [
+    "31996L0026"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fd9eb055-d4cf-443f-a889-03f9c37c12df",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
