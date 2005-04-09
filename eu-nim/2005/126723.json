@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par preču un transportlīdzekļu radiometrisko kontroli uz valsts robežas",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "56",
+  "official_journal_page": null,
+  "official_journal_date": "2005-04-08",
+  "entry_into_force": "2005-04-09",
+  "notification_date": "2005-12-27",
+  "commission_reference": "MNE(2005)60632",
+  "nim_celex": "72003L0122LVA_126723",
+  "nim_id": "126723",
+  "transposes_celex": [
+    "32003L0122"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/769a3996-c134-4be8-ad21-e0b684fb9e7a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
