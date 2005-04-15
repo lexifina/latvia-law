@@ -2,20 +2,15 @@
 Likumā ir lietoti šādi termini:
 1) bārenis - bērns, kura vecāki ir miruši vai likumā noteiktajā kārtībā atzīti par mirušiem;
 2) bez vecāku gādības palicis bērns - bērns, kura vecāki nav zināmi, ir pazuduši vai ilgstošas slimības dēļ nespēj realizēt aizgādību vai kura vecākiem atņemtas aprūpes vai aizgādības tiesības;
-3) audžuģimene - ģimene, kas bārenim vai bez vecāku gādības palikušam bērnam nodrošina aprūpi;
-4) aizbildnis - persona, kas iecelta vai apstiprināta Civillikumā noteiktajā kārtībā, lai nodrošinātu bērna tiesību un interešu aizsardzību;
-5) atbalsta ģimene - ģimene, kas bērna aprūpē sniedz atbalstu ģimenei, kurā ir hroniski slims bērns, nepilnai ģimenei, daudzbērnu ģimenei vai ģimenei, kurai nav pietiekamu prasmju un iemaņu bērna aprūpē;
-6) uzticības persona - persona, kas var sniegt atbalstu bērnam, kuram ir problēmas mācībās vai saskarsmē ar vienaudžiem vai ir nepieciešams cita veida atbalsts;
-7) mājas - bērna pastāvīgā dzīvesvieta;
-8) pajumte - dzīvošanai derīgā stāvoklī esoša apkurināma dzīvojamā telpa (mājoklis), kas atbilst būvniecības un sanitāro normu prasībām;
-9) ārpusģimenes aprūpe - aprūpe, kas tiek nodrošināta bāreņiem un bez vecāku gādības palikušiem bērniem;
-10) bērnu aprūpes iestāde - iestāde, kurā tiek nodrošināta bāreņu vai bez vecāku gādības palikušu bērnu aprūpe vai bērnu uzvedības sociālā korekcija un, ja nepieciešams, ārstnieciska rakstura piespiedu līdzekļu piemērošana;
-11) privātā bērnu iestāde - fiziskās vai juridiskās personas izveidota iestāde, kas nodrošina bērnu interesēm un vajadzībām atbilstošu pakalpojumu sniegšanu bērnu vispusīgai attīstībai;
-12) patversme - bērnu aprūpes iestāde, kura īslaicīgi nodrošina bērnu ārpusģimenes aprūpi;
-13) vardarbībā cietis bērns - bērns, kas cietis no ģimenes locekļa vai citas personas fiziskas, seksuālas vai emocionālas vardarbības;
-14) seksuāla vardarbība - bērna iesaistīšana seksuālās darbībās, ko bērns nesaprot vai kam nevar dot apzinātu piekrišanu;
-15) fiziska vardarbība - bērna veselībai vai dzīvībai bīstams apzināts spēka pielietojums saskarsmē ar bērnu;
-16) emocionāla vardarbība - bērna emocionālo vajadzību ignorēšana vai bērna psiholoģiska ietekmēšana;
-17) vecāku nolaidība - bērna aprūpes, kā arī citu svarīgu fizisku vai emocionālu vajadzību neapmierināšana, ja vecākiem ir bijusi iespēja šīs vajadzības apmierināt;
-18) bērna labklājības minimālais līmenis - līdzekļu un garantiju kopums, kas nepieciešams, lai nodrošinātu bērna tiesības uz attīstību, aprūpi un citas bērna tiesības;
-19) ielas bērni - bērni, kuri klaiņo, ubago, lielāko laika daļu pavada uz ielas (arī māju bēniņos, pagrabos, pamestās mājās, spēļu automātu salonos u.c.) un kuri nesaņem pietiekamu atbalstu no savas ģimenes vai kuriem saikne ar ģimeni zudusi pilnīgi.
+3) audžuģimene - ģimene vai persona, kas nodrošina aprūpi bērnam, kuram uz laiku vai pastāvīgi atņemta viņa ģimeniskā vide vai kura interesēs nav pieļaujama palikšana savā ģimenē, līdz brīdim, kad bērns var atgriezties savā ģimenē vai, ja tas nav iespējams, tiek adoptēts, viņam nodibināta aizbildnība vai bērns ievietots bērnu aprūpes iestādē;
+4) atbalsta ģimene - ģimene, kas bērna aprūpē sniedz atbalstu citai ģimenei, pamatojoties uz pašvaldības sociālā dienesta veiktu izvērtējumu par atbalsta nepieciešamību;
+5) uzticības persona - persona, kas var sniegt atbalstu bērnam, kuram ir problēmas mācībās vai saskarsmē ar vienaudžiem vai ir nepieciešams cita veida atbalsts;
+6) pajumte - dzīvošanai derīgā stāvoklī esoša apkurināma dzīvojamā telpa (mājoklis), kas atbilst būvniecības un sanitāro normu prasībām;
+7) ārpusģimenes aprūpe - aprūpe, kas bāreņiem un bez vecāku gādības palikušiem bērniem tiek nodrošināta pie aizbildņa, audžuģimenē, bērnu aprūpes iestādē;
+8) bērnu aprūpes iestāde - iestāde, kurā tiek nodrošināta sociālā aprūpe un sociālā rehabilitācija bāreņiem vai bez vecāku gādības palikušiem bērniem, kā arī bērniem, kuriem nepieciešama sociālā rehabilitācija vai īpaša aprūpe veselības stāvokļa dēļ;
+9) patversme - bērnu aprūpes iestāde, kura īslaicīgi nodrošina bērnu ārpusģimenes aprūpi;
+10) seksuāla vardarbība - bērna iesaistīšana seksuālās darbībās, ko bērns nesaprot vai kam nevar dot apzinātu piekrišanu;
+11) fiziska vardarbība - bērna veselībai vai dzīvībai bīstams apzināts spēka pielietojums saskarsmē ar bērnu;
+12) emocionāla vardarbība - bērna pašcieņas aizskaršana vai psiholoģiska ietekmēšana (draudot viņam, lamājot, pazemojot viņu vai citādi kaitējot viņa emocionālajai attīstībai);
+13) vecāku nolaidība - bērna aprūpes un uzraudzības pienākumu nepildīšana;
+14) ielas bērni - bērni, kuriem ir nepietiekama saikne ar ģimeni un kuri lielāko daļu laika pavada uz ielas vai citos bērna attīstībai nepiemērotos apstākļos.

@@ -1,3 +1,3 @@
 3.pants. Bērns un bērna tiesību vienlīdzības princips
-(1) Bērns ir persona, kas nav sasniegusi 18 gadu vecumu, izņemot tās personas, kurām saskaņā ar likumu pilngadība iestājas agrāk, tas ir, personas, kuras izsludinātas par pilngadīgām vai stājušās laulībā pirms 18 gadu vecuma sasniegšanas.
+(1) Bērns ir persona, kas nav sasniegusi 18 gadu vecumu, izņemot tās personas, kuras saskaņā ar likumu izsludinātas par pilngadīgām vai stājušās laulībā pirms 18 gadu vecuma sasniegšanas.
 (2) Bērna tiesības un brīvības valsts nodrošina visiem bērniem bez jebkādas diskriminācijas - neatkarīgi no bērna, viņa vecāku, aizbildņu, ģimenes locekļu rases, tautības, dzimuma, valodas, partijas piederības, politiskās un reliģiskās pārliecības, nacionālās, etniskās vai sociālās izcelsmes, dzīvesvietas valstī, mantiskā un veselības stāvokļa, dzimšanas vai citiem apstākļiem.

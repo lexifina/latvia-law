@@ -1,0 +1,1 @@
+11. Līdz Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2005.gada 1.jūnijam ir spēkā Ministru kabineta 1995.gada 2.decembra noteikumi Nr.348 "Noteikumi par erotiska un pornogrāfiska rakstura materiālu ievešanu, izgatavošanu, izplatīšanu, publisku demonstrēšanu vai reklamēšanu".

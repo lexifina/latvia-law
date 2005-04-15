@@ -4,7 +4,7 @@
 2) izdarījis administratīvu pārkāpumu, ja citādi nav iespējams noskaidrot bērna identitāti un sastādīt administratīvā pārkāpuma protokolu;
 3) atrodas sabiedriskā vietā reibuma stāvoklī;
 4) ubago;
-5) nav sasniedzis 15 gadu vecumu un atrodas sabiedriskā vietā bez vecāku vai viņu aizstājēju uzraudzības nakts laikā. Konkrēto laiku nosaka pašvaldības;
+5) nav sasniedzis 16 gadu vecumu un atrodas sabiedriskā vietā bez vecāku vai viņu aizstājēju uzraudzības nakts laikā. Konkrēto laiku nosaka pašvaldības;
 6) apmaldījies vai pamests, vai arī atrodas tādos apstākļos, kas bīstami bērnam vai var kaitēt viņa attīstībai;
 7) patvaļīgi aizgājis no ģimenes, aizbildņa, audžuģimenes vai bērnu aprūpes iestādes.
 (2) Šā panta pirmās daļas 3.-7.punktā paredzētajos gadījumos bērna nogādāšana policijā pieļaujama, ja nav iespējams viņam sniegt palīdzību citādā veidā. Gadījumos, kad policija konstatē bērna klaiņošanu, ubagošanu, apreibināšanos ar narkotiskajām, toksiskajām vielām vai alkoholiskajiem dzērieniem, nelabvēlīgu vidi ģimenē, kā arī citus apstākļus, kas var kaitēt bērnam, tā informē attiecīgo bāriņtiesu vai pagasttiesu.
