@@ -1,7 +1,8 @@
 11.pants. Speciālo atļauju izsniegšana
 (1) Speciālās atļaujas izsniedz uz noteiktu termiņu, bet ne ilgāku par pieciem gadiem. Speciālās atļaujas iedala trijās kategorijās.
-(2) Personas pieeja sevišķi slepenai informācijai atļauta tikai ar pirmās kategorijas speciālo atļauju, slepenai informācijai - ar otrās kategorijas speciālo atļauju, konfidenciālai informācijai - ar trešās kategorijas speciālo atļauju.
+(2) Personas pieeja sevišķi slepenai informācijai atļauta ar pirmās kategorijas speciālo atļauju, slepenai informācijai - ar otrās kategorijas speciālo atļauju, konfidenciālai informācijai - ar trešās kategorijas speciālo atļauju.
 (3) Personai, kurai ir speciālā atļauja pieejai augstākas slepenības pakāpes informācijai, vienlaikus ir pieejama arī zemākas slepenības pakāpes informācija.
 (4) Speciālo atļauju uzskaites, izsniegšanas, anulēšanas un kategoriju nomaiņas kārtību reglamentē Ministru kabineta noteikumi.
 (5) Nolēmumu par atteikumu izsniegt speciālo atļauju persona var pārsūdzēt Satversmes aizsardzības biroja direktoram 10 dienu laikā no dienas, kad tā uzzināja par šo nolēmumu. Satversmes aizsardzības biroja direktora lēmumu persona var pārsūdzēt 10 dienu laikā no dienas, kad tā uzzināja par šo lēmumu, ģenerālprokuroram, kura lēmums ir galīgs un nav pārsūdzams. Tas nosūtāms izpildei valsts drošības iestādei.
 (6) Satversmes aizsardzības biroja direktora lēmums par pieeju ārvalstu, starptautisko organizāciju un to institūciju klasificētajai informācijai ir galīgs un nav pārsūdzams.
+(7) Izņēmuma gadījumos persona drīkst iepazīties ar valsts noslēpumu vai ārvalstu, starptautisko organizāciju un to institūciju klasificēto informāciju, kas ir vienu slepenības pakāpi augstāka, nekā to paredz izsniegtā atļauja, bet tikai tādā apjomā, kāds nepieciešams konkrētā darba uzdevuma veikšanai, pēc tam, kad ir saņemta Latvijas Republikas nacionālās drošības iestādes vienreizēja rakstveida atļauja.

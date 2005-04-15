@@ -16,5 +16,6 @@
 (3¹) (Izslēgta ar 18.12.2003. likumu.)
 (4) Pamatojoties uz valsts noslēpuma subjekta priekšlikumu, Satversmes aizsardzības biroja direktors pēc pārbaudes izdarīšanas var atļaut pieeju valsts noslēpumam atsevišķām personām, kurām to ierobežo šā panta trešās daļas 3.punkta nosacījumi, ja nav izdarīts smags vai sevišķi smags noziegums un sodāmība ir dzēsta vai noņemta.
 (5) Pamatojoties uz valsts noslēpuma subjekta priekšlikumu, Satversmes aizsardzības biroja direktors pēc pārbaudes izdarīšanas var atļaut pieeju valsts noslēpumam atsevišķām personām, kurām to ierobežo šā panta trešās daļas 4.punkta nosacījumi.
+(5¹) Pēc Nacionālo bruņoto spēku komandiera ieteikuma un pēc pārbaudes izdarīšanas Satversmes aizsardzības biroja direktors var atļaut pieeju valsts noslēpumam Nacionālo bruņoto spēku karavīriem, kuri pēc 1991.gada 13.janvāra ir bijuši PSKP (LKP) biedri, ja viņi ir pierādījuši lojalitāti pret Latvijas valsti.
 (6) Ja personai netiek izsniegta speciālā atļauja, tas ir pietiekams pamats, lai atteiktu tai pieņemšanu darbā, kas saistīts ar valsts noslēpuma izmantošanu vai aizsardzību.
 (7) Kārtību, kādā notiek klasificētās (sevišķi slepenās, slepenās vai konfidenciālās) informācijas nodošana ārvalstu pārstāvjiem Latvijas Republikas un ārvalstu sadarbības ietvaros, reglamentē Ministru kabineta noteikumi.
