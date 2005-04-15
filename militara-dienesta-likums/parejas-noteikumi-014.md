@@ -1,0 +1,1 @@
+14. Šā likuma 27.panta trešajā daļā paredzētais nosacījums par sociālajām garantijām karavīram, kurš pārvietots uz valsts drošības iestādi, stājas spēkā vienlaicīgi ar attiecīgiem grozījumiem Valsts drošības iestāžu likumā.

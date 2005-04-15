@@ -9,5 +9,6 @@
 (5) Kārtējo dienesta pakāpi karavīram piešķir:
 1) pēc noteiktā laika nodienēšanas esošajā dienesta pakāpē, ja ieņemamajā amatā paredzēta augstāka dienesta pakāpe;
 2) par kaujas nopelniem - izcilu varonību un drošsirdību kaujas uzdevumu izpildē neatkarīgi no izdienas laika esošajā dienesta pakāpē - kā apbalvojumu;
-3) īpašos gadījumos pieņemot Latvijas pilsoni profesionālajā dienestā saskaņā ar šā likuma 19.panta trešo daļu.
+3) (izslēgts ar 17.03.2005. likumu);
+4) uz valsts drošības iestādi pārvietotam karavīram - pēc noteiktā laika nodienēšanas esošajā dienesta pakāpē, ja karavīrs ieņem atbilstošu amatu valsts drošības iestādē.
 (6) Ja karavīrs ieņem amatu, kuram paredzēta augstāka dienesta pakāpe par karavīra esošo dienesta pakāpi, un ja viņš divas reizes pēc kārtas šajā amatā ir atestēts ar novērtējumu "teicami", viņam var piešķirt kārtējo dienesta pakāpi pirms noteiktā izdienas laika.

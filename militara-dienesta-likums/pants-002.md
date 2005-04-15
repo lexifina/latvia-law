@@ -9,7 +9,7 @@ Likumā ir lietoti šādi termini:
 7) rezerves karavīrs - Latvijas pilsonis, kas ir ieskaitīts dienestam rezervē un kam piešķirta militārā dienesta pakāpe;
 8) kadets - karavīrs, kurš mācās militārajā izglītības iestādē klātienē, lai iegūtu virsnieka dienesta pakāpi;
 9) virsnieks - karavīrs, kuram ir leitnanta vai augstāka militārā dienesta pakāpe;
-10) virsnieks speciālists - virsnieks, kuram ir augstākā akadēmiskā vai profesionālā izglītība attiecīgajā specialitātē un kurš apguvis virsnieka speciālista kursu Latvijas Nacionālajā aizsardzības akadēmijā;
+10) virsnieks speciālists - virsnieks, kuram ir akadēmiskā vai otrā līmeņa profesionālā augstākā izglītība attiecīgajā specialitātē un kurš apguvis virsnieka speciālista pamatkursu Latvijas Nacionālajā aizsardzības akadēmijā;
 11) klausītājs - virsnieks, kas militārajā izglītības iestādē klātienē paaugstina savu kvalifikāciju;
 12) vienība - militārais formējums, kuram ir patstāvīga vadība un apstiprināts štats;
 13) apakšvienība - militārais formējums vienības sastāvā;
