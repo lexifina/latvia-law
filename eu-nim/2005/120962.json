@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Satiksmes ministrijas 2005. gada 5. aprīļa noteikumi Nr.8 \"Noteikumi par īpašām stabilitātes prasībām ro-ro pasažieru kuģiem\"",
+  "type_of_act": "Ministra noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "66",
+  "official_journal_page": null,
+  "official_journal_date": "2005-04-27",
+  "entry_into_force": "2005-04-28",
+  "notification_date": "2005-05-20",
+  "commission_reference": "MNE(2005)50962",
+  "nim_celex": "72003L0025LVA_120962",
+  "nim_id": "120962",
+  "transposes_celex": [
+    "32003L0025"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4d80c791-c688-40f9-b7dd-517985eebefc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
