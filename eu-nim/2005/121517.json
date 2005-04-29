@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Kartupeļu vēža izplatības ierobežošanas un apkarošanas kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "68",
+  "official_journal_page": null,
+  "official_journal_date": "2005-04-29",
+  "entry_into_force": null,
+  "notification_date": "2005-06-06",
+  "commission_reference": "MNE(2005)51517",
+  "nim_celex": "71969L0464LVA_121517",
+  "nim_id": "121517",
+  "transposes_celex": [
+    "31969L0464"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ac6514af-b866-4f33-b795-fb81c32fa62b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
