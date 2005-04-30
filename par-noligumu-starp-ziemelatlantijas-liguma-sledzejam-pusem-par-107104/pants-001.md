@@ -1,0 +1,1 @@
+1.pants. 1964.gada 18.jūnija Nolīgums starp Ziemeļatlantijas līguma slēdzējām pusēm par sadarbību ar atomieročiem saistītas informācijas jomā (turpmāk- Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
