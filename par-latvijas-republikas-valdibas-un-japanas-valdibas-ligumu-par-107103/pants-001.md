@@ -1,0 +1,1 @@
+1.pants. Latvijas Republikas valdības un Japānas valdības līgums par Japānas valdības neatmaksājamo tehnisko palīdzību Latvijai kultūras jomā - Latvijas Vēstures muzejam audiovizuālo iekārtu iegādei (turpmāk- Līgums) ar šo likumu tiek pieņemts un apstiprināts.
