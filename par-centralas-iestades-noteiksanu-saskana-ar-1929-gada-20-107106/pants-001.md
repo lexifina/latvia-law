@@ -1,0 +1,1 @@
+1.pants. Saskaņā ar 1929.gada 20.aprīļa Starptautiskās konvencijas par naudas viltošanas apkarošanu 12.pantu centrālās iestādes funkcijas Latvijā veic Valsts policijas Galvenās kriminālpolicijas pārvaldes Ekonomikas policijas pārvalde.
