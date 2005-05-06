@@ -1,0 +1,1 @@
+1.pants. 2004.gada 26.oktobrī Luksemburgā parakstītais Sadarbības nolīgums starp Eiropas Kopienu un tās dalībvalstīm, no vienas puses, un Šveices Konfederāciju, no otras puses, par cīņu pret krāpšanu un citām nelikumīgām darbībām, kas apdraud to finanšu intereses (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
