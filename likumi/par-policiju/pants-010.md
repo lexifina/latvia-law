@@ -7,12 +7,12 @@ Saskaņā ar policijas uzdevumiem policijas darbinieka pamatpienākumi atbilsto�
 5) izpildīt tiesas nolēmumus, prokurora lēmumus un norādījumus, kas saistīti ar meklēšanas un izmeklēšanas darbību veikšanu;
 6) novērst un pārtraukt administratīvos pārkāpumus, noskaidrot vainīgos, savas kompetences ietvaros sastādīt protokolus, izskatīt lietas par šiem pārkāpumiem vai arī nodot tās izskatīšanai pēc pakļautības;
 7) savu pilnvaru ietvaros atklāt noziedzīgu nodarījumu un administratīvo pārkāpumu cēloņus un tos veicinošos apstākļus un veikt pasākumus to novēršanai; piedalīties personu tiesiskajā audzināšanā;
-8) apsargāt, konvojēt un uzturēt aizturētās un apcietinātās personas, savas kompetences ietvaros izpildīt kriminālsodus un administratīvos sodus;
+8) apsargāt, konvojēt un uzturēt aizturētās un apcietinātās personas, savas kompetences ietvaros izpildīt kriminālsodus un administratīvos sodus, kā arī konvojēt un apsargāt ar brīvības atņemšanu notiesātās personas izmeklēšanas darbību veikšanai, sakarā ar lietas izskatīšanu tiesā un starp ieslodzījuma vietām;
 9) saskaņā ar noslēgtajiem līgumiem apsargāt objektus Latvijas Republikas Ministru kabineta noteiktajā kārtībā; kontrolēt apsardzes funkciju izpildīšanai izveidoto uzņēmumu darbību;
 10) veikt pasākumus bezsaimnieka vai atrastās apslēptās mantas saglabāšanai līdz tās nodošanai kompetentas valsts iestādes vai amatpersonas pārziņā; nodrošināt atrasto un policijai nodoto dokumentu, mantu, vērtspapīru un cita īpašuma saglabāšanu līdz tā nodošanai īpašniekam;
 11) regulēt transportlīdzekļu un gājēju kustību, veikt satiksmes uzraudzību, kontrolēt ceļu un ielu stāvokli, kā arī tehnisko regulēšanas līdzekļu un satiksmes līdzekļu tehnisko stāvokli;
-12) kontrolēt noteikumu ievērošanu to objektu atvēršanā un funkcionēšanā, pār kuru darbību noteikta policijas uzraudzība, kā arī ieroču, munīcijas, sprāgstvielu un citu likumā minēto materiālu, priekšmetu un vielu iegādes, glabāšanas, nēsāšanas un transportēšanas noteikumu ievērošanu;
-13) kontrolēt, kā personas ievēro pasu sistēmas noteikumus;
+12) kontrolēt noteikumu ievērošanu ieroču aprites jomā;
+13) (izslēgts ar 14.04.2005. likumu);
 14) (izslēgts ar 06.12.2001. likumu);
 15) (izslēgts ar 15.06.2000. likumu);
 16) gādāt par liecinieku, cietušo, citu personu un to ģimenes locekļu drošību, kā arī par viņu mantas apsardzību, ja apdraudēta šo personu dzīvība, veselība vai manta sakarā ar palīdzību, ko tās sniegušas tiesībaizsardzības iestādēm noziedzīgu nodarījumu atklāšanā un novēršanā;

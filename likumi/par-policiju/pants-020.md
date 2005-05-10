@@ -19,4 +19,4 @@ Kārtības policijas un kriminālpolicijas pārvaldes un nodaļas:
 4) izraugās kandidātus mācībām Latvijas Republikas iekšlietu ministrijas mācību iestādēs.
 Policijas iecirknis ir Latvijas Republikas Valsts policijas sistēmas pamatvienība, kuras darbinieki izpilda visus šā likuma 9., 10. un 11. pantā minētos pienākumus, izņemot tos, kas tieši ietilpst Valsts policijas centrālā aparāta, pārvalžu un nodaļu kompetencē.
 Instrukcijas par policijas pilnvaru nošķiršanu Valsts policijas ietvaros izdod Valsts policijas priekšnieks.
-Aizturēto, apcietināto un arestēto personu īslaicīgai turēšanai Kārtības policijas pārvaldēs, nodaļās un policijas iecirkņos var izveidot īslaicīgās aizturēšanas vietas.
+Aizturēto, apcietināto un arestēto personu īslaicīgai turēšanai un administratīvā aresta izpildei Valsts policijā un Drošības policijā izveido īslaicīgās aizturēšanas vietas.

@@ -1,4 +1,2 @@
-35. pants. Valsts policijas materiāltehniskā apgāde, sociālo un sadzīves vajadzību apmierināšana
-Valsts policijas materiāltehnisko apgādi, sociālo un sadzīves vajadzību apmierināšanu veic valsts.
-Ar formas tērpu, ieročiem, munīciju, kriminālistisko un operatīvo tehniku, sakaru un speciālajiem līdzekļiem valsts policiju apgādā Latvijas Republikas Iekšlietu ministrija.
-Valsts policijas iestāžu materiāltehniskās apgādes kārtību un normas nosaka Latvijas Republikas Ministru kabinets.
+35.pants. Valsts policijas un Drošības policijas materiāltehniskā apgāde
+Normas, pēc kādām Valsts policija un Drošības policija nodrošināmas ar tehniku, sakaru līdzekļiem, bruņojumu, speciālajiem līdzekļiem, ekipējumu, datortehniku un programmnodrošinājumu, transportlīdzekļiem un to ekspluatācijai nepieciešamajiem līdzekļiem, nosaka Ministru kabinets.
