@@ -1,0 +1,1 @@
+11. Līdz 2006.gada 31.decembrim specializētā civildienesta ierēdņi Valsts ieņēmumu dienestā saņem mēnešalgu atbilstoši Ministru kabineta 2002.gada 28.maija noteikumiem Nr.220 "Noteikumi par darba samaksas sistēmu Valsts ieņēmumu dienesta ierēdņiem un darbiniekiem".

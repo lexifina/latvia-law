@@ -1,0 +1,1 @@
+10. Līdz 2005.gada 31.decembrim ierēdnis saņem mēnešalgu atbilstoši Ministru kabineta 2004.gada 23.novembra noteikumiem Nr.959 "Noteikumi par ierēdņu un tiešās pārvaldes iestāžu darbinieku darba samaksu, kvalifikācijas pakāpēm un ierēdņu pabalstiem".
