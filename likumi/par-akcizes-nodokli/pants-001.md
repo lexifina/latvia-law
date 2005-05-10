@@ -14,4 +14,5 @@
 11) neapstiprināts tirgotājs - persona, kurai nav noliktavas turētāja statusa un kurai ir tiesības uz vienu noteiktu darbību - uz konkrētu akcīzes preču vienreizēju saņemšanu no citas dalībvalsts, piemērojot tām atlikto nodokļa maksāšanu;
 12) pārsūtītājtirgotājs - persona, kas no vienas dalībvalsts nosūta akcīzes preces uz citu dalībvalsti tādai personai, kurai nav noliktavas turētāja, apstiprināta tirgotāja vai neapstiprināta tirgotāja statusa;
 13) nodokļa maksātāja pārstāvis - persona, kurai ir tiesības samaksāt akcīzes nodokli par akcīzes precēm, ko noliktavas turētājs vai pārsūtītājtirgotājs no vienas dalībvalsts piegādā citas dalībvalsts personai, kurai nav noliktavas turētāja statusa;
-14) nodrošinājums - akcīzes nodokļa nodrošinājums, ar kuru tā iesniedzējs apņemas samaksāt akcīzes nodokli par akcīzes precēm saskaņā ar šo likumu, ja attiecīgā persona neizpilda likumā noteiktās prasības.
+14) nodrošinājums - akcīzes nodokļa nodrošinājums, ar kuru tā iesniedzējs apņemas samaksāt akcīzes nodokli par akcīzes precēm saskaņā ar šo likumu, ja attiecīgā persona neizpilda likumā noteiktās prasības;
+15) patstāvīga mazā alus darītava - alus darītava, kura ir juridiski un saimnieciski neatkarīga no citām alus darītavām un izmanto telpas, kas atrodas atsevišķi no citu alus darītavu telpām, un kuras saražotā alus apjoms nepārsniedz 50 tūkstošus hektolitru gadā.

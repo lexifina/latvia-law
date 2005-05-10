@@ -9,4 +9,4 @@
 (5) Ja nodokļa maksātājs, kas saskaņā ar šā likuma 27.pantu atdod saņemtās, bet neizmantotās vai bojātās akcīzes nodokļa markas Valsts ieņēmumu dienestam, pirms akcīzes nodokļa marku saņemšanas ir iesniedzis vienreizēju nodrošinājumu, kas aprēķināts atbilstoši izsniegtajām akcīzes nodokļa markām, tad nodrošinājumu, kas atbilst nodokļa summai, kuru nosaka atbilstoši atdotajām akcīzes nodokļa markām, dzēš vai atdod iesniedzējam pēc šā likuma 27.panta astotajā un devītajā daļā minēto izdevumu segšanas.
 (6) Ministru kabinets:
 1) paredz nosacījumus, kuru izpildes gadījumā nodokļa maksātājam var samazināt nodrošinājuma lielumu;
-2) nosaka kārtību, kādā iesniedz, dzēš un atdod nodrošinājumus.
+2) nosaka kārtību, kādā iesniedz, administrē, dzēš un atdod nodrošinājumus.

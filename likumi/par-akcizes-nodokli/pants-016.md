@@ -2,8 +2,8 @@
 (1) No nodokļa ir atbrīvoti šādi alkoholiskie dzērieni:
 1) denaturēts spirts;
 2) alkoholiskie dzērieni, kurus izmanto alkoholisko dzērienu kvalitātes noteikšanai;
-3) medicīnas vajadzībām paredzētais spirts, ko izmanto ārstniecības iestādēs un aptiekās;
-4) spirts to medikamentu ražošanai, kuri minēti Eiropas Savienības direktīvā 65/65/EEC;
+3) medicīnas un veterinārmedicīnas vajadzībām paredzētais spirts, ko izmanto ārstniecības un veterinārmedicīnas iestādēs un aptiekās;
+4) spirts zāļu un veterināro zāļu ražošanai saskaņā ar normatīvo aktu prasībām par zāļu un veterināro zāļu apriti.
 5) spirts (ja minētajos gadījumos nevar izmantot denaturētu spirtu):
 a) kuru izmanto zinātniskās pētniecības vajadzībām,
 b) kuru izmanto citu produktu vai preču (izņemot alkoholiskos dzērienus) kvalitātes noteikšanai,
