@@ -3,7 +3,7 @@
 1) (izslēgts ar 25.11.1999. likumu);
 2) transportlīdzekļu ikgadējā nodeva - likums "Par transportlīdzekļu ikgadējo nodevu";
 3) izložu un azartspēļu nodeva - likums "Par izložu un azartspēļu nodevu un nodokli";
-4) nodevas par darbību veikšanu tiesu iestādēs - Civilprocesa likums;
+4) nodevas par darbību veikšanu tiesu iestādēs - Civilprocesa likums un Administratīvā procesa likums;
 5) nodeva par uzvārda, vārda un tautības ieraksta maiņu personu apliecinošos dokumentos - likums "Par vārda, uzvārda un tautības ieraksta maiņu";
 6) nodeva par zemes rezervēšanu lauku apvidos - likums "Par zemes reformu Latvijas Republikas lauku apvidos";
 7) nodevas par apliecinājumiem un citu funkciju pildīšanu bāriņtiesās un pagasttiesās - likums "Par bāriņtiesām un pagasttiesām";
