@@ -1,5 +1,5 @@
 121.pants. Ieguldījumu brokeru sabiedrības darbību regulējošās prasības
-(1) Ieguldījumu brokeru sabiedrības pašu kapitāla attiecība pret riska svērto aktīvu un ārpusbilances posteņu kopsummu (kapitāla pietiekamība) nedrīkst būt mazāka par 10 procentiem. Kārtību, kādā aprēķināma ieguldījumu brokeru sabiedrības pašu kapitāla attiecība pret riska svērto aktīvu un ārpusbilances posteņu kopsummu, reglamentē Komisijas noteikumi.
+(1) Ieguldījumu brokeru sabiedrības pašu kapitāla attiecība pret riska svērto aktīvu un ārpusbilances posteņu kopsummu (kapitāla pietiekamība) nedrīkst būt mazāka par 8 procentiem. Kārtību, kādā aprēķināma ieguldījumu brokeru sabiedrības pašu kapitāla attiecība pret riska svērto aktīvu un ārpusbilances posteņu kopsummu, reglamentē Komisijas noteikumi.
 (2) Ieguldījumu brokeru sabiedrības pašu kapitāls nedrīkst būt mazāks par:
 1) minimālo sākotnējo kapitālu;
 2) 25 procentiem no iepriekšējā gada pastāvīgo izdevumu kopsummas.
