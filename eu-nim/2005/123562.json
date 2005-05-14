@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par tukšo materiālo nesēju un reproducēšanai izmantojamo iekārtu atlīdzības lielumu un tās iekasēšanas, atmaksāšanas, sadales un izmaksas kārtību",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "76",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-13",
+  "entry_into_force": "2005-05-14",
+  "notification_date": "2005-08-29",
+  "commission_reference": "MNE(2005)53562",
+  "nim_celex": "72001L0029LVA_123562",
+  "nim_id": "123562",
+  "transposes_celex": [
+    "32001L0029",
+    "32006L0115"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d80b6dcd-ad91-4377-99a8-3af025cc9f26",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
