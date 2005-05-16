@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Valsts ieņēmumu dienesta instrukcija Nr.2 \"Kopīgo starpvalstu nodokļu pārbaužu veikšanas kārtībā\"",
+  "type_of_act": "Ministrijas instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-24",
+  "entry_into_force": "2005-05-16",
+  "notification_date": "2005-05-25",
+  "commission_reference": "MNE(2005)51144",
+  "nim_celex": "72004L0056LVA_121144",
+  "nim_id": "121144",
+  "transposes_celex": [
+    "32004L0056"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5fe8ae03-25d6-49eb-ba9a-aac6c38d098a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
