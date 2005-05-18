@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Lauksaimniecībā vai mežsaimniecībā izmantojamo traktoru, piekabju, maināmu velkamo mašīnu un to sastāvdaļu atbilstības novērtēšanas noteikumi",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "78",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-18",
+  "entry_into_force": null,
+  "notification_date": "2005-05-18",
+  "commission_reference": "MNE(2005)50942",
+  "nim_celex": "72000L0025LVA_120942",
+  "nim_id": "120942",
+  "transposes_celex": [
+    "32000L0025",
+    "32003L0037"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/da1900a2-0e5f-4acd-be94-9ea745c02b50",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
