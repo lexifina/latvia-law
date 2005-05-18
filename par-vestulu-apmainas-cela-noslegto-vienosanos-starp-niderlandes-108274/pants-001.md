@@ -1,0 +1,1 @@
+1.pants. Nīderlandes Karalistes 2004.gada 27.augusta vēstules un Latvijas Republikas 2004.gada 7.jūnija vēstules apmaiņas ceļā noslēgtā Vienošanās attiecībā uz Nīderlandes Antiļu salām par ienākumu no uzkrājumiem aplikšanu ar nodokli un pagaidu piemērošanu saistībā ar to (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.
