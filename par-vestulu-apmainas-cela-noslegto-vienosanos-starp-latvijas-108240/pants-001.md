@@ -1,0 +1,1 @@
+1.pants. Latvijas Republikas 2004.gada 29.aprīļa vēstules un Menas salas 2004.gada 19.novembra vēstules apmaiņas ceļā noslēgtā vienošanās par ienākumu no uzkrājumiem aplikšanu ar nodokli un pagaidu piemērošanu saistībā ar to (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.
