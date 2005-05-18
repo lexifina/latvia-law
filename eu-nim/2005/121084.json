@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2005. gada 10.maija noteikumi Nr. 327 \"Grozījumi Ministru kabineta 1998. gada 15. septembra noteikumos Nr. 348 \"Noteikumi par kuģu ienākšanas un iziešanas formalitātēm ostā\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "77",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-17",
+  "entry_into_force": "2005-05-18",
+  "notification_date": "2005-05-25",
+  "commission_reference": "MNE(2005)51084",
+  "nim_celex": "72002L0006LVA_121084",
+  "nim_id": "121084",
+  "transposes_celex": [
+    "32002L0006"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4f901981-3452-4f8c-8546-b498d73ed7f4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
