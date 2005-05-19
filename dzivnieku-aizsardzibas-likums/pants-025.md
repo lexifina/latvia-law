@@ -1,1 +1,1 @@
-25.pants. Pārtikas un veterinārais dienests pēc Dzīvnieku aizsardzības ētikas padomes atzinuma izvērtēšanas izsniedz atļauju izmantot dzīvniekus eksperimentos un zinātniskos pētījumos.
+25.pants. Pārtikas un veterinārais dienests pēc Dzīvnieku aizsardzības ētikas padomes atzinuma izvērtēšanas izsniedz atļauju dzīvnieku izmantošanai eksperimentos un citos zinātniskos nolūkos, kā arī bioloģiskās, medicīniskās un veterinārmedicīniskās profesionālās izglītības apgūšanai.

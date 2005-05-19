@@ -1,1 +1,1 @@
-6.pants. Dzīvnieka īpašnieks nodrošina dzīvnieka reģistrēšanu un apzīmēšanu normatīvajos aktos noteiktajā kārtībā.
+6.pants. Dzīvnieka īpašnieks nodrošina dzīvnieka reģistrēšanu un apzīmēšanu normatīvajos aktos noteiktajā kārtībā. Dzīvnieka identitāti apliecinošu dokumentu - dzīvnieka pasi vai vakcinācijas apliecību, kurā ierakstīts dzīvnieka identitātes numurs, - izsniedz un apliecina kompetentas iestādes pilnvarota persona.

@@ -1,2 +1,2 @@
-11.pants. (1) Dzīvnieku aizsardzības ētikas padome ir konsultatīva institūcija, kas izglīto sabiedrību un dod ieteikumus valsts iestādēm dzīvnieku aizsardzības jomā. Tās sastāvā ir valsts, zinātnisko iestāžu un sabiedrisko organizāciju pārstāvji.
+11.pants. (1) Dzīvnieku aizsardzības ētikas padome ir konsultatīva institūcija, kas izglīto sabiedrību un dod ieteikumus valsts pārvaldes iestādēm un pašvaldībām dzīvnieku aizsardzības jomā. Tās sastāvā ir dzīvnieku labturības jautājumos kompetenti pārstāvji no valsts pārvaldes iestādēm, biedrībām un citām institūcijām, kas darbojas dzīvnieku aizsardzības jomā.
 (2) Dzīvnieku aizsardzības ētikas padomes sastāvu apstiprina zemkopības ministrs.
