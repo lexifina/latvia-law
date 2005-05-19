@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Zinātniskās darbības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "70",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-05",
+  "entry_into_force": "2005-05-19",
+  "notification_date": "2008-01-18",
+  "commission_reference": "MNE(2008)50503",
+  "nim_celex": "72005L0071LVA_152887",
+  "nim_id": "152887",
+  "transposes_celex": [
+    "32005L0071"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ed63deea-6949-40b0-9725-974cd8086e85",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
