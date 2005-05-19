@@ -1,0 +1,3 @@
+39.pants. Zinātniskā institūta - publiskās aģentūras grāmatvedības uzskaite un konti
+(1) Zinātniskais institūts - publiskā aģentūra Valsts kasē atver kontu, kurā ieskaita institūta bāzes finansējuma līdzekļus, un kredītiestādē kontu, kurā ieskaita konkursa kārtībā iegūto zinātnisko pētījumu projektu un programmu finansējumu un pārējos līdzekļus.
+(2) Gada beigās zinātniskā institūta - publiskās aģentūras kontā atlikušie līdzekļi, kas radušies no institūta visu veidu ieņēmumiem, izņemot bāzes finansējumu, ja tie nepārsniedz gada laikā faktiski saņemto līdzekļu apjomu, paliek institūta rīcībā un tiek izlietoti nākamajā gadā.

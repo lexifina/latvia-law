@@ -1,0 +1,3 @@
+35.pants. Valsts pētījumu programmas
+(1) Valsts pētījumu programmas ir valsts pasūtījums zinātnisku pētījumu veikšanai noteiktā ekonomikas, izglītības, kultūras vai citā valstij prioritārā nozarē ar mērķi veicināt šīs nozares attīstību.
+(2) Valsts pētījumu programmu mērķus un uzdevumus nosaka attiecīgās nozaru ministrijas kopīgi ar Latvijas Zinātnes padomi un Latvijas Zinātņu akadēmiju. Valsts pētījumu programmas tiek īstenotas Ministru kabineta apstiprinātajos prioritārajos zinātnes virzienos. Izglītības un zinātnes ministrija konkursa kārtībā piešķir programmām finansējumu no zinātnes finansēšanai paredzētajiem valsts budžeta līdzekļiem. Valsts pētījumu programmu pieteikšanas, ekspertīzes un finansēšanas kārtību nosaka Ministru kabinets.

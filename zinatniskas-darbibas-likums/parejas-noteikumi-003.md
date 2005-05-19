@@ -1,0 +1,1 @@
+3. Sešu mēnešu laikā no šā likuma spēkā stāšanās dienas Ministru kabinets izdod šajā likumā minētos normatīvos aktus. Līdz attiecīgo normatīvo aktu spēkā stāšanās dienai piemērojami uz likuma "Par zinātnisko darbību" pamata izdotie Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu, bet ne ilgāk kā sešus mēnešus no šā likuma spēkā stāšanās dienas.

@@ -1,0 +1,9 @@
+1.pants. Likumā lietotie termini
+Likumā ir lietoti šādi termini:
+1) inovācija - jaunu zinātniskās, tehniskās, sociālās, kultūras vai citas jomas ideju, izstrādņu un tehnoloģiju īstenošana produktā vai pakalpojumā;
+2) pētniecība - mērķtiecīga darbība ar zinātnes metodēm iegūto faktu, teoriju un dabas likumu izmantošanai jaunu produktu, procesu un metožu radīšanā vai pilnveidošanā;
+3) zinātne - intelektuālās darbības sfēra, kurā ar teorētiskām vai eksperimentālām metodēm tiek iegūtas un apkopotas zināšanas par dabā un sabiedrībā pastāvošajām likumsakarībām;
+4) zinātniskā darbība - radoša darbība, kas ietver zinātni, pētniecību un inovācijas;
+5) zinātnes tehniskais personāls - personas, kurām ir nepieciešamās tehniskās zināšanas un pieredze vienā vai vairākās jomās un kuras zinātnieku vadībā piedalās zinātniskajā darbībā, veicot tehniskos uzdevumus. Zinātnes tehniskajā personālā ietilpst inženieri, tehniķi, laboranti, tehnologi, operatori;
+6) zinātni apkalpojošais personāls - personas, kuras veic palīgfunkcijas zinātniski tehnisko darbu izpildē (plānošanas, ekonomisko, finanšu, zinātniski tehniskās informācijas struktūrvienību darbinieki, speciālo un zinātniski tehnisko bibliotēku darbinieki, patentu dienesta speciālisti, arhivāri, kā arī kvalificēti strādnieki, kuri nodrošina zinātniskās darbības veikšanai nepieciešamās aparatūras un ierīču montāžu, regulēšanu, apkopi un remontu);
+7) zinātniskās institūcijas - zinātniskie institūti, augstskolas, komercsabiedrības, kā arī citas institūcijas, kuru statūtos, nolikumā vai satversmē ir paredzēta zinātniskā darbība, piedalīšanās zinātniskās kvalifikācijas iegūšanas un pilnveidošanas procesā un kuras ir reģistrētas zinātnisko institūciju reģistrā. Zinātniskajā institūcijā jābūt vismaz piecām personām ar doktora zinātnisko grādu institūcijas darbībai atbilstošajā pētījumu virzienā.

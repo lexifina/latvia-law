@@ -1,0 +1,2 @@
+20.pants. Latvijas Zinātņu akadēmija
+Latvijas Zinātņu akadēmija sastāv no vēlētiem Latvijas Zinātņu akadēmijas locekļiem un valsts pārvaldes sistēmā ir atvasināta publisko tiesību persona ar autonomu kompetenci, kuras tiesības un pienākumi noteikti tās Hartā, šajā likumā un citos likumos, kā arī tās statūtos un kuru daļēji finansē no valsts budžeta. Latvijas Zinātņu akadēmijas Hartu apstiprina Saeima, un tajā ir norādīti Latvijas Zinātņu akadēmijas darbības mērķi, pamatvirzieni, tiesiskie un ekonomiskie pamati, pārvaldes sistēma, tiesības un pienākumi.

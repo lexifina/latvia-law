@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par zinātnisko darbību" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 46./47./48.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 15.nr.; 1998, 13.nr.; 2001, 12.nr.; 2003, 12., 15.nr.).

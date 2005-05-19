@@ -1,0 +1,2 @@
+36.pants. Tirgus orientēto pētījumu finansēšana
+Tirgus orientēto pētījumu finansēšana notiek, piešķirot valsts budžeta līdzekļus praktiskas ievirzes projektiem, kuru mērķis ir veicināt zinātnes un ražošanas integrāciju, tehnoloģiski orientētu nozaru attīstību, jaunu darba vietu radīšanu. Finansējumu tirgus orientēto pētījumu projektiem sadala Izglītības un zinātnes ministrija, pamatojoties uz zinātnisko un tautsaimniecisko ekspertīzi, saskaņā ar Ministru kabineta noteikumiem. Projektu zinātnisko ekspertīzi veic Latvijas Zinātnes padomes eksperti.
