@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2005.gada 17.maija noteikumi nr.342",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "80",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-20",
+  "entry_into_force": "2005-05-21",
+  "notification_date": "2005-06-28",
+  "commission_reference": "MNE(2005)52165",
+  "nim_celex": "71975L0442LVA_122165",
+  "nim_id": "122165",
+  "transposes_celex": [
+    "31975L0442",
+    "31991L0156",
+    "31991L0689",
+    "31994L0031",
+    "31999L0031",
+    "32006L0012"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8981b423-609e-4a1b-ac9f-72286241d701",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
