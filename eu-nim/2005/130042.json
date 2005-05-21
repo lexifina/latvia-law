@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Kārtība, kādā atļauts veikt pasažieru un kravas komercpārvadājumus ar citu personu īpašumā esošiem autotransporta līdzekļiem",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "80",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-20",
+  "entry_into_force": "2005-05-21",
+  "notification_date": "2006-03-30",
+  "commission_reference": "MNE(2006)52169",
+  "nim_celex": "72006L0001LVA_130042",
+  "nim_id": "130042",
+  "transposes_celex": [
+    "32006L0001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/eccc0f58-c8eb-4f71-942f-32d0de4dd592",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
