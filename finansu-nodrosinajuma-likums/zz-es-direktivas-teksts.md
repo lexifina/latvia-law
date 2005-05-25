@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2002.gada 6.jūnija direktīvas 2002/47/EK par finanšu nodrošinājuma līgumiem un Eiropas Parlamenta un Padomes 2000.gada 20.marta direktīvas 2000/12/EK par kredītiestāžu darbības sākšanu un veikšanu.
