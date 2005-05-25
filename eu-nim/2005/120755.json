@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Finanšu nodrošinājuma likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "74",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-11",
+  "entry_into_force": "2005-05-25",
+  "notification_date": "2005-05-12",
+  "commission_reference": "MNE(2005)50755",
+  "nim_celex": "72002L0047LVA_120755",
+  "nim_id": "120755",
+  "transposes_celex": [
+    "32002L0047"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9ae11aa3-60fd-4a76-b27f-cb0f213bfea0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
