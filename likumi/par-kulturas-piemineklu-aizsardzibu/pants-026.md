@@ -1,5 +1,5 @@
 26. pants. Valsts uzraudzība un kontrole pār kultūras pieminekļu aizsardzību
-Valsts kultūras pieminekļu aizsardzības inspekcija ir speciāli pilnvarota valsts pārvaldes institūcija, kas realizē valsts kontroli kultūras pieminekļu aizsardzībā, veic kultūras mantojuma apzināšanu, izpēti un pieminekļu uzskaiti. Inspekcija ir Kultūras ministrijas pārraudzībā. Tai ir juridiskās personas statuss, ģerboņzīmogs un konts bankā.Tās nolikumu apstiprina Ministru kabinets.
+Valsts kultūras pieminekļu aizsardzības inspekcija ir kultūras ministra padotībā esoša tiešās pārvaldes iestāde, kas īsteno valsts kontroli kultūras pieminekļu aizsardzībā, veic kultūras mantojuma apzināšanu, izpēti un pieminekļu uzskaiti. Tās nolikumu apstiprina Ministru kabinets.
 Latvijas Republikas Kultūras ministrijas Valsts kultūras pieminekļu aizsardzības inspekcijai ir tiesības:
 1) netraucēti pārbaudīt kultūras pieminekļu aizsardzības likumdošanas aktu ievērošanu jebkurā objektā visā Latvijas Republikas teritorijā neatkarīgi no tā, kā īpašumā vai izmantošanā piemineklis atrodas;
 2) apturēt jebkuru saimniecisko darbību kultūras pieminekļu tiešā tuvumā vai to aizsardzības zonā vai ierobežot transportlīdzekļu kustību gadījumos, kad tiek pārkāpti kultūras pieminekļu aizsardzības noteikumi un apdraudēti kultūras pieminekļi, līdz brīdim, kad draudi kultūras piemineklim novērsti;
