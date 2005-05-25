@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par tehnisko rezervju un to seguma saskaņošanu pa valūtu veidiem",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "82",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-25",
+  "entry_into_force": null,
+  "notification_date": "2005-05-25",
+  "commission_reference": "MNE(2005)51169",
+  "nim_celex": "71988L0357LVA_121169",
+  "nim_id": "121169",
+  "transposes_celex": [
+    "31988L0357",
+    "31992L0049",
+    "32002L0083"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7d786f8a-dbb5-4bad-8adf-148cb6b71586",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
