@@ -1,1 +1,1 @@
-20.pants. Latvijas Vides aģentūra katru gadu izstrādā un publicē ziņojumu par saražotā (importētā) iepakojuma apjomu un izlietotā iepakojuma apjomu un apsaimniekošanu valstī.
+20.pants. Latvijas Vides, ģeoloģijas un meteoroloģijas aģentūra katru gadu izstrādā un publicē ziņojumu par saražotā (no citām valstīm ievestā) iepakojuma apjomu un izlietotā iepakojuma apjomu un apsaimniekošanu valstī.

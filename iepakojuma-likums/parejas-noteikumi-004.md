@@ -1,0 +1,1 @@
+4. Ministru kabinets līdz 2005.gada 1.oktobrim izdara nepieciešamos grozījumus Ministru kabineta 2003.gada 22.jūlija noteikumos Nr.414 "Noteikumi par depozīta sistēmas piemērošanu atkārtoti lietojamam iepakojumam".

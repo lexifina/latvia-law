@@ -1,0 +1,1 @@
+3. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2005.gada 1.oktobrim ir spēkā Ministru kabineta 2002.gada 2.aprīļa noteikumi Nr.139 "Noteikumi par izlietotā iepakojuma reģenerācijas apjomiem un termiņiem, ziņojuma sniegšanas kārtību un veidlapas paraugu", ciktāl tie nav pretrunā ar šo likumu.
