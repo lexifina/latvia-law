@@ -1,1 +1,1 @@
-5. Ministru kabinets līdz 2004.gada 1.jūnijam izstrādā un iesniedz Saeimai likumprojektu, kas regulē kārtību, kādā izskatāmas administratīvo pārkāpumu lietas un izpildāmi lēmumi administratīvo pārkāpumu lietās.
+5. Ministru kabinets līdz 2006.gada 1.maijam izstrādā un iesniedz Saeimai likumprojektu, kas regulē kārtību, kādā izskatāmas administratīvo pārkāpumu lietas un izpildāmi lēmumi administratīvo pārkāpumu lietās (šā likuma 2.panta otrā daļa).
