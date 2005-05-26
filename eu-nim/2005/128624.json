@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par vispārējās atļaujas noteikumu pārkāpumu novēršanu un elektronisko sakaru komersantu darbības apturēšanu",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "82",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-25",
+  "entry_into_force": "2005-05-26",
+  "notification_date": "2006-02-22",
+  "commission_reference": "MNE(2006)51163",
+  "nim_celex": "72002L0020LVA_128624",
+  "nim_id": "128624",
+  "transposes_celex": [
+    "32002L0020"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b04a88b4-c3d4-402f-9b9e-2740e3ae9e56",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
