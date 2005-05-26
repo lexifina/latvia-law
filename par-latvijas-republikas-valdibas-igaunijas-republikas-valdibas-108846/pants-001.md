@@ -1,0 +1,1 @@
+1.pants. Denonsēt 1997.gada 10.decembrī Tallinā parakstīto Latvijas Republikas valdības, Igaunijas Republikas valdības un Lietuvas Republikas valdības vienošanos par Baltijas bataljonu (turpmāk - Vienošanās) (Latvijas Vēstnesis, 1998, 60./61.nr.).
