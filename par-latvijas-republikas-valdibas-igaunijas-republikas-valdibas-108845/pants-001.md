@@ -1,0 +1,1 @@
+1.pants. Denonsēt 1998.gada 16.aprīlī Rīgā parakstīto Latvijas Republikas valdības, Igaunijas Republikas valdības un Lietuvas Republikas valdības protokolu par Baltijas bataljona štāba un Baltijas bataljona personāla statusu (turpmāk - Protokols) (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1998, 15.nr.).
