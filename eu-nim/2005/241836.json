@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2005.gada 24.maija noteikumi Nr.351 „Noteikumi par vispārējās aprūpes māsas izglītību un profesionālo kvalifikāciju apliecinošiem dokumentiem, kurus atzīst, piemērojot speciālo profesionālās kvalifikācijas atzīšanas sistēmu”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "84 (3242)",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-27",
+  "entry_into_force": "2005-05-28",
+  "notification_date": "2016-11-07",
+  "commission_reference": "MNE(2016)56651",
+  "nim_celex": "72013L0055LVA_241836",
+  "nim_id": "241836",
+  "transposes_celex": [
+    "32013L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/96cdacbd-94ba-4503-963f-6ab76f44c749",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
