@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Valsts nodrošinātās juridiskās palīdzības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "52",
+  "official_journal_page": null,
+  "official_journal_date": "2005-04-01",
+  "entry_into_force": "2005-06-01",
+  "notification_date": "2005-04-06",
+  "commission_reference": "MNE(2005)50101",
+  "nim_celex": "72003L0008LVA_120101",
+  "nim_id": "120101",
+  "transposes_celex": [
+    "32003L0008"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/58768314-b1fc-4197-8b0b-88d2edf56f56",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
