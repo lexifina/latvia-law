@@ -1,0 +1,1 @@
+2.pants. Vienošanās stājas spēkā līdz ar otras puses atbildes vēstules saņemšanu, bet Vienošanās pielikumā iekļautais Līgums starp Latvijas Republiku un Gērnsi par ienākumu no uzkrājumiem aplikšanu ar nodokli - tā 15.pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo laikrakstā "Latvijas Vēstnesis".
