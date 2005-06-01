@@ -1,0 +1,1 @@
+1.pants. Tērksu un Kaikosu Salu valdības 2005.gada 1.marta vēstules un Latvijas Republikas valdības 2004.gada 22.decembra vēstules apmaiņas ceļā noslēgtā Vienošanās par ienākumu no uzkrājumiem aplikšanu ar nodokli (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.
