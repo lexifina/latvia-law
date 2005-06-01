@@ -1,4 +1,4 @@
-133.pants. Notiesātā pienākums pieteikties pašvaldībā soda izciešanai
-Notiesātajam, kuram piespriests piespiedu darbs, ir pienākums piecu dienu laikā pēc tam, kad saņemts noraksts no sprieduma, kas stājies likumīgā spēkā, pieteikties pašvaldībā, kuras teritorijā notiesātais dzīvo, piespriestā soda izciešanai.
-Ja notiesātais neizpilda šo pienākumu un nolūkā izvairīties no soda izciešanas noteiktā termiņā nepiesakās pašvaldībā, viņu brīdina par piespiedu darba aizstāšanu ar arestu.
-Transporta izdevumus, kas notiesātajam radušies, ierodoties pašvaldībā, lai pieteiktos soda izciešanai un pēc tam ierastos norīkotajā piespiedu darbā, sedz pašvaldība.
+133.pants. Notiesātā pienākums pieteikties piespiedu darba izpildes institūcijā soda izciešanai
+Notiesātajam, kuram piespriests piespiedu darbs, ir pienākums piecu darba dienu laikā no tiesas sprieduma spēkā stāšanās dienas pieteikties piespiedu darba izpildes institūcijā atbilstoši deklarētajai dzīvesvietai piespriestā soda izciešanai.
+Ja notiesātais, lai izvairītos no soda izciešanas, noteiktā termiņā nepiesakās piespiedu darba izpildes institūcijā, viņu rakstveidā brīdina par piespiedu darba aizstāšanu ar arestu.
+Valsts probācijas dienests sedz notiesātajam ar ierašanos piespiedu darba izpildes institūcijā un piespiedu darba veikšanu saistītos transporta izdevumus.

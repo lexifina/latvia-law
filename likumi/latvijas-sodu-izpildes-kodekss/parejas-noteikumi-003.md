@@ -1,0 +1,1 @@
+3. Līdz 2005.gada 31.decembrim Valsts probācijas dienesta funkcijas piespiedu darba izpildē veic pašvaldības, izņemot Bauskas, Cēsu, Daugavpils, Jelgavas, Jēkabpils, Rēzeknes, Saldus, Tukuma un Valmieras rajonu, kur piespiedu darba izpildes institūcija spriedumiem, kas stājušies likumīgā spēkā no 2005.gada 1.janvāra, ir Valsts probācijas dienests.
