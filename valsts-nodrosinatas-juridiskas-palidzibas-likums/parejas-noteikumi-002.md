@@ -1,0 +1,1 @@
+2. Juridiskās palīdzības administrāciju izveido līdz 2005.gada 30.decembrim. Līdz Juridiskās palīdzības administrācijas izveidošanai tās funkcijas veic Tieslietu ministrijas atbildīgā struktūrvienība.

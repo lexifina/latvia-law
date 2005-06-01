@@ -1,0 +1,4 @@
+31.pants. Kārtība, kādā izskata iesniegumus par juridiskās palīdzības sniedzēja statusa iegūšanu
+(1) Šā likuma 30.panta pirmajā daļā minētās personas, kuras vēlas sniegt juridisko palīdzību, aizpilda iesniegumu par juridiskās palīdzības sniedzēja statusa iegūšanu un iesniedz to Juridiskās palīdzības administrācijai. Iesnieguma veidlapas paraugu apstiprina Ministru kabinets.
+(2) Juridiskās palīdzības administrācija izvērtē ziņu atbilstību iesniegumā norādītajam un pārbauda ziņas par personas reputāciju un kvalifikāciju.
+(3) Juridiskās palīdzības administrācija, konstatējusi, ka persona ir kvalificēta, ar labu reputāciju un atbilst šā likuma 30.panta pirmajā daļā minēto personu kategorijai, mēneša laikā pēc iesnieguma saņemšanas pieņem lēmumu par juridiskās palīdzības līguma slēgšanu ar konkrēto personu. Juridiskās palīdzības administrācija nekavējoties informē par pieņemto lēmumu personu, kas iesniegusi šā panta pirmajā daļā minēto iesniegumu.
