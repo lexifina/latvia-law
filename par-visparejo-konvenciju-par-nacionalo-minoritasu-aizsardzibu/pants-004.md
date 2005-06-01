@@ -1,0 +1,1 @@
+4.pants. Latvijas Republika paziņo, ka Konvencijas 11.panta trešo daļu tā uzskata par saistošu, ciktāl tā nav pretrunā ar Latvijas Republikas Satversmi un citiem Latvijas Republikā spēkā esošajiem normatīvajiem aktiem, kas nosaka valsts valodas lietojumu.
