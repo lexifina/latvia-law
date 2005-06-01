@@ -1,0 +1,1 @@
+2.pants. Vienošanās stājas spēkā līdz ar otras puses atbildes vēstules saņemšanu, bet Vienošanās pielikumā ietvertais Līgums starp Britu Virdžīnu Salu valdību un Latvijas Republikas valdību par ienākumu no uzkrājumiem aplikšanu ar nodokli -tā 16.pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo laikrakstā "Latvijas Vēstnesis".
