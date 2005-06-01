@@ -1,0 +1,1 @@
+2.pants. Vienošanās stājas spēkā līdz ar otras puses atbildes vēstules saņemšanu, bet Vienošanās pielikumā ietvertais Līgums starp Kaimanu Salām un Latvijas Republiku par ienākumu no uzkrājumiem aplikšanu ar nodokli - tā 10.pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo laikrakstā "Latvijas Vēstnesis".

@@ -1,0 +1,1 @@
+1.pants. Kaimanu Salu 2005.gada 12.aprīļa vēstules un Latvijas Republikas 2004.gada 22.decembra vēstules apmaiņas ceļā noslēgtā Vienošanās par ienākumu no uzkrājumiem aplikšanu ar nodokli (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.
