@@ -1,0 +1,1 @@
+2.pants. Vienošanās stājas spēkā līdz ar otras puses atbildes vēstules saņemšanu, bet Vienošanās pielikumā ietvertais Līgums starp Latvijas Republiku un Apvienotās Karalistes aizjūras teritoriju Montserratu par ienākumu no uzkrājumiem aplikšanu ar nodokli - tā 9.pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo laikrakstā "Latvijas Vēstnesis".
