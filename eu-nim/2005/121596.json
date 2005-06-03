@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Kārtība, kādā kontrolē dzīvnieku barības kravas uz valsts robežas, brīvajās zonās, brīvajās noliktavās un muitas noliktavās",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "88",
+  "official_journal_page": null,
+  "official_journal_date": "2005-06-03",
+  "entry_into_force": null,
+  "notification_date": "2005-06-07",
+  "commission_reference": "MNE(2005)51596",
+  "nim_celex": "71998L0068LVA_121596",
+  "nim_id": "121596",
+  "transposes_celex": [
+    "31998L0068"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/99dda9ab-7deb-4442-8eec-67445eaea8d3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
