@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par klasifikācijas, kvalitātes un marķējuma prasībām dehidrētajiem piena produktiem un kārtību, kādā novērtējama minēto produktu atbilstība šīm prasībām",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "88",
+  "official_journal_page": null,
+  "official_journal_date": "2005-06-03",
+  "entry_into_force": null,
+  "notification_date": "2005-06-07",
+  "commission_reference": "MNE(2005)51594",
+  "nim_celex": "71979L1067LVA_121594",
+  "nim_id": "121594",
+  "transposes_celex": [
+    "31979L1067",
+    "31987L0524",
+    "32001L0114"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/555addf9-7cb4-461a-aed0-3952e9fb7aa8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
