@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Zemkopības ministrijas 2005.gada 22.marta instrukcijā Nr.9 \"Dzīvnieku barības paraugu analīžu metodika\"",
+  "type_of_act": "Ministrijas instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "89",
+  "official_journal_page": null,
+  "official_journal_date": "2005-06-07",
+  "entry_into_force": null,
+  "notification_date": "2005-06-15",
+  "commission_reference": "MNE(2005)51771",
+  "nim_celex": "72005L0006LVA_121771",
+  "nim_id": "121771",
+  "transposes_celex": [
+    "32005L0006",
+    "32005L0007"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/10dcb312-a984-4481-8d19-aac26b6388d3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
