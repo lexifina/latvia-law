@@ -1,4 +1,4 @@
 9.pants. Nacionālās operas darbības plānošana
-(1) Pēc kultūras ministra priekšlikuma Nacionālās operas darbības un attīstības stratēģiju pieciem gadiem apstiprina Ministru kabinets.
+(1) Nacionālās operas darbības un attīstības stratēģiju pieciem gadiem saskaņā ar Nacionālās operas konsultatīvās padomes priekšlikumu apstiprina kultūras ministrs.
 (2) Nacionālās operas direktors izstrādā Nacionālās operas darbības un attīstības stratēģijas projektu pieciem gadiem, paredzot noteiktā laika posmā sasniedzamos rezultātus un šo rezultātu sasniegšanai nepieciešamos resursus, un iesniedz projektu kultūras ministram.
 (3) Nacionālās operas darbības un attīstības stratēģija pieciem gadiem veido pamatu Nacionālās operas gadskārtējam darbības plānam. Gadskārtējā darbības plānā nosaka gada laikā sasniedzamos rezultātus un šo rezultātu sasniegšanai nepieciešamos pasākumus un resursus. Nacionālās operas ikgadējais budžets tiek pieņemts, pamatojoties uz gadskārtējo darbības plānu.

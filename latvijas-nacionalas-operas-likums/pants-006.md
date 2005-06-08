@@ -1,6 +1,6 @@
 6.pants. Nacionālās operas pārraudzība
 (1) Lai nodrošinātu Nacionālās operas pārraudzību, kultūras ministrs:
-1) iesniedz Ministru kabinetam apstiprināšanai Nacionālās operas darbības un attīstības stratēģijas projektu pieciem gadiem;
+1) apstiprina Nacionālās operas darbības un attīstības stratēģijas projektu pieciem gadiem;
 2) apstiprina Nacionālās operas gadskārtējo darbības plānu;
 3) novērtē Nacionālās operas gadskārtējā darbības plāna izpildi;
 4) pieņem darbā un atlaiž no darba Nacionālās operas direktoru;
