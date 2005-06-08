@@ -1,3 +1,0 @@
-41.pants
-(1) Ministru kabinets nosaka vienotas prasības koģenerācijas stacijām attiecībā uz to darbības režīmu, drošumu un efektivitāti, kā arī vienotu kārtību, kādā atkarībā no kurināmā veida un efektivitātes nosakāma cena saražotās elektroenerģijas pārpalikumam, kas atlicis pēc izlietošanas pašu vajadzībām un tiek iepirkts no šajā pantā noteiktajām prasībām atbilstošajām koģenerācijas stacijām.
-(2) Šā panta pirmajā daļā noteiktā kārtība nav attiecināma uz tiem ražotājiem, kuri līdz 2001.gada 1.jūnijam ir saņēmuši licenci elektroenerģijas ražošanai un licencē noteiktajā termiņā uzsākuši šo staciju un iekārtu ekspluatāciju.
