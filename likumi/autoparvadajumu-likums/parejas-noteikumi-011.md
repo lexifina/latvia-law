@@ -1,0 +1,1 @@
+11. Grozījumi šā likuma 1.panta 5.punktā, 6.panta pirmajā daļā un 30.panta pirmajā daļā par vārda "(administrators)" (attiecīgā locījumā) izslēgšanu stājas spēkā vienlaikus ar attiecīgiem grozījumiem likumā "Par reglamentētajām profesijām un profesionālās kvalifikācijas atzīšanu".
