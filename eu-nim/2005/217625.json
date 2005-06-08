@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Elektroenerģijas tirgus likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "82 (3240)",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-25",
+  "entry_into_force": "2005-06-08",
+  "notification_date": "2014-06-18",
+  "commission_reference": "MNE(2014)53710",
+  "nim_celex": "72012L0027LVA_217625",
+  "nim_id": "217625",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6bdeb945-280d-4b60-ae41-fb5f853a07a7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
