@@ -1,0 +1,4 @@
+34.pants. Pēdējais garantētais piegādātājs
+(1) Visi mājsaimniecības lietotāji un citi lietotāji, kas atbilst Ministru kabineta noteiktajām prasībām, ir tiesīgi saņemt universālo pakalpojumu.
+(2) Šā panta pirmajā daļā noteiktajiem lietotājiem pēc tam, kad tie izmantojuši lietotāja izvēles tiesības un kļuvuši par tirgus dalībniekiem, ir tiesības pārtraukt piegādātāja izvēles tiesību izmantošanu un saņemt elektroenerģiju no pēdējā garantētā piegādātāja. Pēdējais garantētais piegādātājs ir publiskais tirgotājs, un tam nav tiesību atteikt šiem lietotājiem elektroenerģijas piegādi, izņemot šā panta trešajā daļā minētos gadījumus.
+(3) Publiskajam tirgotājam ir tiesības atteikties piegādāt elektroenerģiju šā panta pirmajā daļā noteiktajam lietotājam, ja publiskais tirgotājs ir atjaunojis savu pienākumu būt par elektroenerģijas piegādātāju šim lietotājam vairāk nekā divas reizes pēdējo 12 mēnešu laikā.

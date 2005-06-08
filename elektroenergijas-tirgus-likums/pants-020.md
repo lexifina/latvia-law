@@ -1,0 +1,3 @@
+20.pants. Sadales sistēmas pakalpojumu tarifi
+(1) Sadales sistēmas pakalpojumu tarifus (turpmāk - sadales tarifi) nosaka regulators likumā "Par sabiedrisko pakalpojumu regulatoriem" paredzētajā kārtībā vai sadales sistēmas operators saskaņā ar regulatora noteikto tarifu aprēķināšanas metodiku, ja ir saņemta regulatora atļauja. Sadales tarifus pirms to stāšanās spēkā publicē regulatora noteiktajā kārtībā.
+(2) Sadales tarifi vienā licences darbības zonā nav atkarīgi no attāluma starp lietotāja un ražotāja atrašanās vietām. Tarifu atšķirības ir pieļaujamas starp sprieguma un patēriņa līmeņiem, ja tās ir ekonomiski pamatotas un visiem attiecīgā sprieguma un patēriņa līmeņa grupas lietotājiem vienādas.

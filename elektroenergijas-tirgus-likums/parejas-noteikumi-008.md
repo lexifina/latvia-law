@@ -1,0 +1,1 @@
+8. Šā likuma 4.panta otrajā daļā minētais Tīkla kodekss un 37.panta ceturtajā daļā minētie garantiju pieprasīšanas kritēriji un kārtība iesniedzami regulatoram apstiprināšanai līdz 2006.gada 1.janvārim.

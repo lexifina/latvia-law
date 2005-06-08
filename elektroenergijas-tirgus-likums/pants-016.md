@@ -1,0 +1,3 @@
+16.pants. Pārvades sistēmas pakalpojumu tarifi
+(1) Pārvades sistēmas pakalpojumu tarifus (turpmāk - pārvades tarifi) nosaka regulators likumā "Par sabiedrisko pakalpojumu regulatoriem" paredzētajā kārtībā vai pārvades sistēmas operators saskaņā ar regulatora noteikto tarifu aprēķināšanas metodiku, ja ir saņemta regulatora atļauja. Pārvades tarifus pirms to stāšanās spēkā publicē regulatora noteiktajā kārtībā.
+(2) Pārvades tarifi nav atkarīgi no attāluma starp lietotāja un ražotāja atrašanās vietām. Ir pieļaujamas citas atšķirības tarifos, ja regulators tādas ir noteicis tarifu aprēķināšanas metodikā.

@@ -1,0 +1,5 @@
+5. Ministru kabinets līdz 2006.gada 1.janvārim izdod šā likuma 9.panta trešajā daļā, 15.panta otrajā daļā, 22.panta pirmajā daļā, 28.panta otrajā un septītajā daļā, 29.panta otrajā un ceturtajā daļā, 30.panta trešajā daļā, 32.panta piektajā daļā, 33.panta otrajā daļā un 34.panta pirmajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai piemērojami šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:
+1) Ministru kabineta 1996.gada 22.oktobra noteikumi Nr.413 "Elektroenerģijas piegādes un lietošanas noteikumi";
+2) Ministru kabineta 1999.gada 21.septembra noteikumi Nr.326 "Noteikumi par kvalificētajiem elektroenerģijas lietotājiem";
+3) Ministru kabineta 2002.gada 8.janvāra noteikumi Nr.9 "Prasības koģenerācijas stacijām un kārtība, kādā nosakāma saražotās elektroenerģijas pārpalikuma iepirkšanas cena";
+4) Ministru kabineta 2002.gada 15.janvāra noteikumi Nr.29 "Elektroenerģijas ražošanas jaudu uzstādīšanas un izvietojuma kārtība, ja elektroenerģijas ražošanai izmanto reģeneratīvos energoresursus".

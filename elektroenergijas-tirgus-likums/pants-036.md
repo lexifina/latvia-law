@@ -1,0 +1,3 @@
+36.pants. Atbildība par balansēšanu
+(1) Latvijā balansēšanu nodrošina pārvades sistēmas operators. Pārvades sistēmai tieši pieslēgtajiem lietotājiem, elektroenerģijas ražotājiem un sadales sistēmas operatoriem balansēšanas pakalpojumu sniedz pārvades sistēmas operators. Sadales sistēmai tieši pieslēgtajiem lietotājiem, elektroenerģijas ražotājiem un citiem sadales sistēmas operatoriem balansēšanas pakalpojumu sniedz attiecīgais sadales sistēmas operators.
+(2) Katrs elektroenerģijas ražotājs un lietotājs, kas ir tirgus dalībnieks, un katrs sadales sistēmas operators slēdz līgumu ar attiecīgo sistēmas operatoru par balansējošās elektroenerģijas piegādi un tīklā ievadītās un patērētās elektroenerģijas līdzsvara nodrošināšanu jebkurā laikā.
