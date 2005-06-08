@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Elektronisko sakaru likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "82",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-25",
+  "entry_into_force": "2005-06-08",
+  "notification_date": "2005-11-10",
+  "commission_reference": "MNE(2005)55681",
+  "nim_celex": "72002L0019LVA_125681",
+  "nim_id": "125681",
+  "transposes_celex": [
+    "32002L0019",
+    "32002L0020",
+    "32002L0021",
+    "32002L0022",
+    "32002L0058",
+    "32002L0077"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a2f3c382-1944-4c41-bfec-ce7d90830cdd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
