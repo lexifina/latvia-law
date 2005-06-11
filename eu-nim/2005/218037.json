@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2005.gada 7.jūnija noteikumi Nr.397 \"Noteikumi par papildu prasībām ārvalstīs iegūtas profesionālās kvalifikācijas atzīšanai Latvijas Republikā reglamentētās profesijās un par kārtību, kādā šajās profesijās piemēro prasību par kvalifikācijas atbilstības pārbaudi vai adaptācijas periodu\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "92 (3250)",
+  "official_journal_page": null,
+  "official_journal_date": "2005-06-10",
+  "entry_into_force": "2005-06-11",
+  "notification_date": "2014-07-03",
+  "commission_reference": "MNE(2014)54044",
+  "nim_celex": "72013L0025LVA_218037",
+  "nim_id": "218037",
+  "transposes_celex": [
+    "32013L0025"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9377def4-c6ab-4458-ae25-1956db404827",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
