@@ -1,0 +1,29 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par papildu prasībām ārvalstīs iegūtas profesionālās kvalifikācijas atzīšanai Latvijas Republikā reglamentētās profesijās un par kārtību, kādā šajās profesijās piemēro prasību par kvalifikācijas atbilstības pārbaudi vai adaptācijas periodu",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "92",
+  "official_journal_page": null,
+  "official_journal_date": "2005-06-10",
+  "entry_into_force": "2005-06-11",
+  "notification_date": "2005-08-29",
+  "commission_reference": "MNE(2005)53577",
+  "nim_celex": "71989L0048LVA_123577",
+  "nim_id": "123577",
+  "transposes_celex": [
+    "31989L0048",
+    "31992L0051",
+    "31994L0038",
+    "31995L0043",
+    "31997L0038",
+    "31999L0042",
+    "32000L0005",
+    "32001L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9fbb8ec2-45e2-4dc6-98b0-5f6ad4345304",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
