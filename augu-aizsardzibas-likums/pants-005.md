@@ -11,4 +11,6 @@ Ministru kabinets augu aizsardzības jomā izdod:
 9) noteikumus par kārtību, kādā tiek izsniegts sertifikāts augu aizsardzības līdzekļu efektivitātes pārbaudes izmēģinājumu veikšanai;
 10) noteikumus par kaitīgo organismu, augu, augu produktu un ar tiem saskarē nonākušo, izmēģinājumiem vai zinātniskiem mērķiem un šķirņu selekcijas vajadzībām paredzēto priekšmetu ievešanu vai pārvietošanu;
 11) noteikumus par dzīvo organismu reģistrācijas kārtību;
-12) noteikumus par kārtību, kādā izsniedzamas speciālās atļaujas (licences) augu aizsardzības līdzekļu izplatīšanai.
+12) noteikumus par kārtību, kādā izsniedzamas speciālās atļaujas (licences) augu aizsardzības līdzekļu izplatīšanai;
+13) noteikumus par atsevišķu karantīnas organismu apkarošanas un izplatības ierobežošanas kārtību;
+14) noteikumus par fitosanitārajiem pasākumiem un to piemērošanas kārtību augu vai augu produktu aizsardzībā pret kaitīgajiem organismiem.
