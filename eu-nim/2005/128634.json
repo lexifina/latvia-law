@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Operatora izvēlas pakalpojuma vai operatora iepriekšējās izvēles pakalpojuma nodrošināšanas noteikumi",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "97",
+  "official_journal_page": null,
+  "official_journal_date": "2005-06-21",
+  "entry_into_force": "2005-06-22",
+  "notification_date": "2006-02-22",
+  "commission_reference": "MNE(2006)51173",
+  "nim_celex": "72002L0022LVA_128634",
+  "nim_id": "128634",
+  "transposes_celex": [
+    "32002L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/639b8d81-4b65-4220-b7dc-5bb898118d31",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
