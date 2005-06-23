@@ -12,3 +12,4 @@
 (6) Šajā pantā norādīto darbību veikšanai tiesnesis var noteikt sagatavošanas sēdi, uz kuru aicina puses un trešās personas.
 (7) Ja sagatavošanas sēde nav nepieciešama, tiesnesis nosaka tiesas sēdes dienu un laiku, uz tiesu aicināmās un izsaucamās personas.
 (8) Lietās par darbinieka atjaunošanu darbā un lietās par darba devēja uzteikuma atzīšanu par spēkā neesošu tiesas sēdes diena nosakāma ne vēlāk kā 15 dienu laikā pēc paskaidrojuma saņemšanas vai tā iesniegšanas termiņa notecēšanas vai pēc sagatavošanas sēdes.
+(9) Lietās par atlīdzības apmēra noteikšanu nekustamā īpašuma piespiedu atsavināšanas gadījumos tiesas sēde nosakāma 15 dienu laikā pēc paskaidrojumu saņemšanas vai tā iesniegšanas termiņa notecēšanas, vai pēc sagatavošanas sēdes.
