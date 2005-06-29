@@ -18,4 +18,5 @@ g) uz dzelzceļa pārbrauktuves;
 1) kuras nepieciešams atbrīvot oficiālo valsts vizīšu vai citu pasākumu nodrošināšanai;
 2) kurās paredzēts veikt ceļu būvniecības vai remonta darbus.
 (3) Transportlīdzekli no vietas, kur tas novietots stāvēšanai, uz citu -stāvēšanai atļautu vietu saskaņā ar ceļa pārvaldītāja vai attiecīga avārijas vai glābšanas dienesta amatpersonas lēmumu var pārvietot piespiedu kārtā īslaicīgu ceļu uzturēšanas (piemēram, sniega novākšanas), remonta vai avārijas seku likvidēšanas darbu vai glābšanas darbu veikšanas gadījumā.
+(3¹) Izdevumus, kas saistīti ar transportlīdzekļa piespiedu pārvietošanu uz speciālu stāvvietu un glabāšanu speciālajā stāvvietā, sedz transportlīdzekļa reģistrācijas apliecībā norādītais turētājs vai, ja turētājs nav norādīts, - transportlīdzekļa īpašnieks (valdītājs) vai viņa pilnvarota persona. Izdevumus sedz pirms transportlīdzekļa izņemšanas no speciālās stāvvietas.
 (4) Transportlīdzekļu piespiedu pārvietošanas kārtību nosaka Ministru kabinets.

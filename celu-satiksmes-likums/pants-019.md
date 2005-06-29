@@ -3,4 +3,4 @@
 (2) Ja tuvojas operatīvais transportlīdzeklis, citiem satiksmes dalībniekiem jādod tam ceļš, lai operatīvais transportlīdzeklis un transportlīdzekļi, kurus tas pavada, varētu braukt netraucēti.
 (3) Ceļu satiksmes dalībniekiem un citām personām jārīkojas tā, lai neradītu satiksmei bīstamas vai satiksmi traucējošas situācijas un nenodarītu zaudējumus.
 (4) Katram ceļu satiksmes dalībniekam ir tiesības uzskatīt, ka arī citas personas ceļu satiksmes norisē izpildīs noteiktās prasības.
-(5) Transportlīdzekļa vadītājam ir tiesības uzzināt viņa vadītā transportlīdzekļa apstādināšanas iemeslu, kā arī tās amatpersonas vārdu, uzvārdu un amatu, kura to apstādinājusi.
+(5) Transportlīdzekļa vadītājam ir tiesības uzzināt viņa vadītā transportlīdzekļa apturēšanas iemeslu, kā arī tās amatpersonas vārdu, uzvārdu un amatu, kura to apstādinājusi.

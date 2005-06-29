@@ -6,5 +6,5 @@
 3) par Ceļu satiksmes noteikumu pārkāpumu uzliktais naudas sods nav samaksāts gada laikā no soda uzlikšanas dienas, - līdz naudas soda samaksai;
 4) transportlīdzekļa vadītājs nav normatīvajos aktos noteiktajā termiņā veicis kārtējo veselības pārbaudi vai veselības pirmstermiņa pārbaudi, - līdz veselības pārbaudei;
 5) pārkāpumu uzskaites punktu sistēmas ietvaros transportlīdzekļa vadītājam ir piemērots ietekmēšanas līdzeklis - transportlīdzekļu vadīšanas tiesību izmantošanas aizliegums uz vienu gadu.
-(3) Par transportlīdzekļu vadīšanas tiesību izmantošanas aizliegumu izdara attiecīgu ierakstu transportlīdzekļu un to vadītāju valsts reģistrā, kā arī traktortehnikas un tās vadītāju informatīvajā sistēmā.
+(3) Par transportlīdzekļu vadīšanas tiesību izmantošanas aizliegumu izdara attiecīgu ierakstu transportlīdzekļu un to vadītāju valsts reģistrā, kā arī traktortehnikas un tās vadītāju informatīvajā sistēmā. Ziņas par nederīgām transportlīdzekļu vadītāja apliecībām Ministru kabineta noteiktajā kārtībā iekļauj nederīgo dokumentu reģistrā.
 (4) Ja transportlīdzekļa vadītājs pārkāpj noteikto vadīšanas tiesību izmantošanas aizliegumu, viņa transportlīdzekļa vadītāja apliecība tiek aizturēta.

@@ -1,0 +1,5 @@
+31.¹ pants. Transportlīdzekļa vadītāja darba un atpūtas laika, braukšanas attāluma un ātruma reģistrēšanas kontrolierīču uzstādīšana
+(1) Iekšzemes pārvadājumos papildus Padomes 1985.gada 20.decembra regulas (EEK) Nr. 3821/85 par reģistrācijas kontrolierīcēm, ko izmanto autotransportā, 3.panta 1.punktā minētajiem izņēmumiem ar kontrolierīci var neaprīkot transportlīdzekļus, kuri minēti regulas (EEK) Nr. 3820/85:
+1) 13.panta 1.punkta "b", "c", "d", "e", "f", "g" un "j" apakšpunktā;
+2) 13.panta 1.punkta "a" apakšpunktā, ja šos transportlīdzekļus izmanto tikai nekomerciālu pasažieru autopārvadājumu veikšanai.
+(2) Kontrolierīci transportlīdzeklī uzstāda, pārbauda un plombē inspicēšanas institūcija, kuras kompetenci atbilstoši standartam LVS EN 45004 "Galvenie kritēriji dažāda veida institūcijām, kas veic inspekciju" akreditējis Latvijas Nacionālais akreditācijas birojs un par kuras akreditāciju Ekonomikas ministrija publicējusi paziņojumu laikrakstā "Latvijas Vēstnesis", un kura ir iesniegusi Satiksmes ministrijai Padomes 1985.gada 20.decembra regulas (EEK) Nr. 3821/85 12.panta 2.punktā minētās plombas un 4.punktā minētās pārbaudes plāksnītes paraugus.

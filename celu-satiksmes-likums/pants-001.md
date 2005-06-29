@@ -9,12 +9,12 @@ Likumā ir lietoti šādi termini:
 7) ceļu satiksmes negadījums - ceļu satiksmē noticis nelaimes gadījums, kurā iesaistīts vismaz viens transportlīdzeklis un kura rezultātā cilvēks gājis bojā, viņam nodarīti miesas bojājumi vai arī nodarīti zaudējumi fiziskās vai juridiskās personas mantai vai videi, kā arī citā vietā, kur iespējama transportlīdzekļa braukšana, noticis negadījums, kurā iesaistīts transportlīdzeklis;
 8) Ceļu satiksmes noteikumi - Ministru kabineta normatīvais akts, kas nosaka ceļu satiksmes kārtību un ir saistošs visām fiziskajām un juridiskajām personām;
 9) diennakts tumšais laiks - laiks no vakara krēslas iestāšanās līdz rīta krēslas izzušanai;
-10) gājējs - persona, kas pārvietojas pa ceļu kājām vai invalīdu ratiņos. Šis termins neattiecas uz personām, kas veic darbus uz ceļa braucamās daļas;
-11) mehāniskais transportlīdzeklis - pašgājējs transportlīdzeklis, arī traktortehnika, kas pārvietojas pa ceļu ar savu enerģiju, izņemot mopēdus un sliežu transportlīdzekļus;
-12) mopēds - divriteņu, trīsriteņu vai četrriteņu transportlīdzeklis, kura motora darba tilpums ir mazāks par 50 kubikcentimetriem un konstrukcijā paredzētais maksimālais ātrums nepārsniedz 45 kilometrus stundā;
+10) gājējs - persona, kas pārvietojas pa ceļu kājām vai invalīdu ratiņos. Šis termins neattiecas uz personām, kas veic darbus uz brauktuves, un uz satiksmes regulētājiem;
+11) mehāniskais transportlīdzeklis - pašgājējs transportlīdzeklis, traktortehnika, kas pārvietojas pa ceļu ar savu enerģiju, izņemot mopēdus un sliežu transportlīdzekļus, kā arī trolejbuss;
+12) mopēds - divriteņu, trīsriteņu vai četrriteņu transportlīdzeklis, kura motora darba tilpums ir mazāks par 50 kubikcentimetriem (dzirksteļaizdedzes tipa motoriem) vai kura maksimālā jauda ir ne lielāka par 4 kW (elektromotoriem vai cita veida iekšdedzes tipa motoriem) un konstrukcijā paredzētais maksimālais ātrums nepārsniedz 45 kilometrus stundā;
 13) motocikls - divriteņu mehāniskais transportlīdzeklis ar blakusvāģi vai bez tā. Šis termins attiecas arī uz sniega motocikliem;
 14) nepietiekama redzamība - tādi laikapstākļi (migla, lietus, sniegs un tamlīdzīgi apstākļi), kuru dēļ redzamība uz ceļa ir tuvāka par 300 metriem, arī mijkrēslis;
-15) operatīvais transportlīdzeklis - mehāniskais transportlīdzeklis, kuram noteiktā kārtībā piešķirts operatīvā transportlīdzekļa statuss un kurš piedalās ceļu satiksmē ar ieslēgtu mirgojošu zilu vai sarkanu bākuguni un speciālu skaņu signālu;
+15) operatīvais transportlīdzeklis - mehāniskais transportlīdzeklis, kuram noteiktā kārtībā piešķirts operatīvā transportlīdzekļa statuss un kurš piedalās ceļu satiksmē ar iedegtu mirgojošu zilu vai zilu un sarkanu bākuguni un ieslēgtu speciālu skaņas signālu;
 16) pasažieris - persona, kas atrodas transportlīdzeklī vai uz tā (izņemot transportlīdzekļa vadītāju), kā arī persona, kas iekāpj transportlīdzeklī vai uzkāpj uz tā, izkāpj no transportlīdzekļa vai nokāpj no tā;
 17) pašmasa - atbilstoši valsts standartam nokomplektēta transportlīdzekļa masa kopā ar vadītāju, bet bez pasažieriem un kravas;
 18) piekabe (puspiekabe) - transportlīdzeklis, kas paredzēts braukšanai savienojumā ar mehānisko transportlīdzekli. Šis termins neattiecas uz motociklu blakusvāģiem;
@@ -23,6 +23,7 @@ Likumā ir lietoti šādi termini:
 21) traktortehnika - traktors, kombains vai cita speciāla pašgājēja mašīna ar iekšdedzes motoru, ja tā nav būvēta uz automobiļa bāzes;
 22) tramvajs - transportlīdzeklis, kas paredzēts braukšanai pa sliedēm savienojumā ar ārēju elektroenerģijas padeves avotu. Šis termins neattiecas uz elektrovilcieniem;
 23) transportlīdzeklis - ierīce, kas pēc savas konstrukcijas paredzēta braukšanai pa ceļiem ar motora palīdzību vai bez motora;
+23¹) transportlīdzekļa apkalpes loceklis - persona, kura vada transportlīdzekli vai atrodas tajā, lai veiktu pasažieru vai kravas komercpārvadājumu vai pašpārvadājumu tās fiziskās vai juridiskās personas uzdevumā, kura to nodarbina;
 24) transportlīdzekļa īpašnieks - fiziskā vai juridiskā persona, kurai pieder transportlīdzeklis. Par valsts vai pašvaldības transportlīdzekļa īpašnieku šā likuma izpratnē uzskatāma tiešā vai pastarpinātā valsts pārvaldes iestāde, uz kuras vārda transportlīdzeklis reģistrēts;
 25) transportlīdzekļa turētājs - fiziskā vai juridiskā persona, kura uz tiesiska pamata (mantas īres, nomas, patapinājuma līgums u.c.) lieto transportlīdzekli. Par transportlīdzekļa turētāju nav uzskatāma persona, kas transportlīdzekli lieto uz dienesta vai darba tiesisko attiecību pamata;
 26) transportlīdzekļa uzskaites tehniskie dati - tehnisko datu kopums, kas nepieciešams transportlīdzekļa reģistrācijai;
@@ -30,6 +31,6 @@ Likumā ir lietoti šādi termini:
 28) transportlīdzekļa vadītājs - fiziskā persona, kas vada transportlīdzekli vai apmāca vadīt transportlīdzekli personu, kurai nav atbilstošas kategorijas transportlīdzekļa vadīšanas tiesību. Šis jēdziens uz personu, kura ir vadījusi transportlīdzekli, attiecas līdz tam brīdim, kad šo transportlīdzekli sāk vadīt cita persona;
 29) transportlīdzekļa valdītājs - persona, kuras tiesiskā valdījumā ir transportlīdzeklis uz mantojuma tiesību pamata;
 30) tricikls un kvadricikls - attiecīgi trīsriteņu vai četrriteņu mehāniskais transportlīdzeklis, kura konstrukcijā paredzētais maksimālais ātrums pārsniedz 45 kilometrus stundā vai kuram ir iekšdedzes motors ar 50 kubikcentimetru vai lielāku darba tilpumu [kvadricikla pašmasa nepārsniedz 400 kilogramus (550 kilogramus, ja tas paredzēts kravu pārvadāšanai) un jauda - 15 kilovatus]. Šis termins attiecas uz četrriteņu mopēdiem ar pašmasu virs 350 kilogramiem, bet neattiecas uz motocikliem ar blakusvāģi;
-31) trolejbuss - transportlīdzeklis, kas paredzēts braukšanai pa ceļu savienojumā ar ārēju elektroenerģijas padeves avotu;
-32) velosipēds - transportlīdzeklis, kuru ar savu muskuļu spēku virza cilvēks, kas atrodas uz tā (izņemot invalīdu ratiņus);
+31) trolejbuss - mehāniskais transportlīdzeklis, kas paredzēts braukšanai pa ceļu savienojumā ar ārēju elektroenerģijas padeves avotu;
+32) velosipēds - transportlīdzeklis, kas paredzēts braukšanai, izmantojot uz tā esošā cilvēka muskuļu spēku (izņemot invalīdu ratiņus). Velosipēds var būt aprīkots ar palīgmotoru, kura jauda ir ne lielāka par 0,25 kW;
 33) vilcējs - mehāniskais transportlīdzeklis, kas brauc savienojumā ar piekabi (puspiekabi).
