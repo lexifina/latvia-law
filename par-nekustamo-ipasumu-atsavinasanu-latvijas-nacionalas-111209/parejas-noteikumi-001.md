@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē 2005.gada 11.janvārī Satversmes 81.panta kārtībā pieņemtie Ministru kabineta noteikumi Nr.18 "Par nekustamo īpašumu atsavināšanu valsts vajadzībām Latvijas Nacionālās bibliotēkas projekta īstenošanai nepieciešamajā teritorijā" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2005, 7.nr.).
