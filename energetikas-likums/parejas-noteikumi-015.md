@@ -1,0 +1,1 @@
+15. Šā likuma 15.panta piektās un septītās daļas, 42.panta, 42.¹panta trešās un ceturtās daļas, 42.²panta, 43.panta otrās un trešās daļas, 45.panta otrās, trešās un ceturtās daļas, 45.¹panta, 45.²panta otrās, trešās, ceturtās, piektās un sestās daļas, 45.³panta spēkā stāšanās laiku un kārtību nosaka ar īpašu likumu.

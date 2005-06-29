@@ -1,0 +1,19 @@
+45.³pants
+(1) Ja vertikāli integrēts energoapgādes komersants ir nonācis vai uzskata, ka nonāks nopietnās ekonomiskās un finansiālās grūtībās sakarā ar fiksēta maksājuma apjoma līguma saistībām, ko tas uzņēmies vienā vai vairākos gāzes iepirkšanas līgumos, šis komersants var iesniegt regulatoram pieteikumu par pagaidu atkāpes piešķiršanu no šā likuma 6.panta pirmajā daļā un 42.¹panta trešajā daļā noteiktajiem pienākumiem. Pieteikums iesniedzams nekavējoties - tūlīt pēc pieejas atteikuma. Komersants pieteikumam pievieno visu nepieciešamo informāciju, kas pamato un raksturo ekonomiskās un finansiālās grūtības sakarā ar fiksēta maksājuma apjoma līguma saistībām, kā arī viņa centienus tās atrisināt. Regulators likumā noteiktajā kārtībā izvērtē komersanta iesniegto pieteikumu un, ja nav iespējami citi risinājumi, piešķir pagaidu atkāpi. Regulators nevar piešķirt pagaidu atkāpi, ja komersanta gāzes pārdošanas apjomi nav mazāki par fiksēta maksājuma apjoma līgumos noteiktajiem gāzes pirkšanas apjomiem vai ja var pielāgot attiecīgo gāzes iepirkšanas fiksēta maksājuma apjoma līgumu. Pieņemot lēmumu par atkāpes piešķiršanu, regulators ņem vērā šādus kritērijus:
+1) nepieciešamība izpildīt sabiedrisko pakalpojumu sniegšanas saistības un garantēt gāzes apgādes drošumu;
+2) komersanta stāvoklis gāzes tirgū un konkurences stāvoklis šajā tirgū;
+3) to ekonomisko un finansiālo grūtību apjoms, ar kurām sastapies komersants vai enerģijas lietotāji;
+4) fiksētā maksājuma apjoma viena vai vairāku līgumu parakstīšanas datumi un darbības termiņi un tas, cik lielā mērā tie ļauj paredzēt izmaiņas gāzes tirgū;
+5) komersanta centieni atrisināt problēmu;
+6) vai un cik lielā mērā komersants, ņemot vērā visus apstākļus un esošo situāciju, varēja paredzēt nopietnu finansiālu un ekonomisku grūtību rašanos, uzņemoties fiksēta maksājuma apjoma līguma saistības;
+7) attiecīgo sistēmu saistības pakāpe ar citām sistēmām un šo sistēmu savstarpējā savietojamība;
+8) ietekme, kādu atkāpes piešķiršana atstās uz Eiropas Savienības iekšējā dabasgāzes tirgus netraucētu darbību un konkurences sekmēšanu tajā, kā arī komersanta dabasgāzes iepirkuma alternatīvas Eiropas Savienības iekšējā dabasgāzes tirgū un ārpus tā.
+(2) Regulators nevar atzīt komersanta finansiālo un ekonomisko grūtību pastāvēšanu, ja komersanta gāzes pārdošanas apjomi nav mazāki par fiksēta maksājuma apjoma līgumos noteiktajiem gāzes pirkšanas apjomiem vai ja var pielāgot attiecīgo gāzes iepirkšanas fiksēta maksājuma apjoma līgumu.
+(3) Energoapgādes komersants var iesniegt regulatoram pieteikumu par pagaidu atkāpes piešķiršanu no šā likuma 6.panta pirmajā daļā un 42.¹panta trešajā daļā noteikto pienākumu attiecināšanas uz:
+1) jauniem starpvalstu savienojumiem un jaunām dabasgāzes krātuvēm;
+2) esošajiem starpvalstu savienojumiem un dabasgāzes krātuvēm, ja to jauda tiek būtiski palielināta, kā rezultātā tiek attīstīti jauni gāzes piegādes avoti.
+(4) Regulators var pieņemt lēmumu par atkāpes piešķiršanu, ja:
+1) veiktās investīcijas uzlabo konkurenci un piegāžu drošumu gāzes apgādes jomā;
+2) investīcijas netiktu veiktas, ja netiktu piešķirtas atkāpes;
+3) starpvalstu savienojumi un dabasgāzes krātuves ir tādas personas īpašumā, kas vismaz juridiski ir nošķirta no sistēmas operatoriem, kuru sistēmās tie tiks ierīkoti;
+4) starpvalstu savienojumu un dabasgāzes krātuvju lietotāji maksā par to izmantošanu.

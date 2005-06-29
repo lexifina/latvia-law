@@ -1,4 +1,6 @@
 42.pants
-(1) Gāzes piegādi enerģijas lietotājiem nodrošina dabasgāzes apgādes sistēmas energoapgādes uzņēmumi un sašķidrinātās gāzes apgādes uzņēmumi.
-(2) Dabasgāzes apgādes sistēmā ietilpst augsta spiediena gāzes pārvades sistēmas vadi (ar darba spiedienu virs 1,6 megapaskāliem), lietas, priekšmeti (palīgobjekti) un cita manta, kas nepieciešama gāzes pārvadei, gāzes krātuves un gāzes sadales sistēmas tīkli (sadalošie tīkli ar darba spiedienu līdz 1,6 megapaskāliem), lietas, priekšmeti (palīgbūves) un cita manta, kas nepieciešama gāzes sadalei līdz savstarpēji noteiktai enerģijas lietotāju piederības robežai.
-(3) Dabasgāzes apgādes sistēmas īpašnieks izveido dabasgāzes apgādes sistēmas operatoru.
+(1) Visiem dabasgāzes lietotājiem ir tiesības brīvi izvēlēties dabasgāzes tirgotāju.
+(2) Galalietotājam, kuram ir pieslēgums pārvades sistēmai, ir tiesības mainīt tirgotāju bez ierobežojumiem, iepriekš par to paziņojot tirgotājam un pārvades sistēmas operatoram. Paziņošanas periodu nosaka tirdzniecības līgumā, lietotājam un tirgotājam savstarpēji vienojoties.
+(3) Galalietotājam, kam ir pieslēgums sadales sistēmai, ir tiesības mainīt tirgotāju, ievērojot šādus nosacījumus:
+1) vismaz trīs mēnešus iepriekš par to rakstveidā paziņojot tirgotājam, ar kuru tas noslēdzis līgumu par dabasgāzes tirdzniecību;
+2) vismaz trīs mēnešus iepriekš rakstveidā informējot par tirgotāja maiņu to sistēmas operatoru, kura tīkliem galalietotājam ir pieslēgums.

@@ -1,0 +1,1 @@
+14. Šā likuma 15.panta septītajā daļā minētie sistēmas lietošanas noteikumi un dabasgāzes krātuves lietošanas noteikumi, 45.²panta trešajā un sestajā daļā minētie balansēšanas aprēķinu noteikumi un garantiju pieprasīšanas kritēriji un kārtība iesniedzami regulatoram apstiprināšanai piecu mēnešu laikā no attiecīgo tiesību normu spēkā stāšanās dienas.

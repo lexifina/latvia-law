@@ -1,2 +1,3 @@
 9.pants
-Energoapgādes uzņēmumi garantē enerģētikā noteikto drošības prasību ievērošanu un darbinieku kvalifikācijas atbilstību, kā arī tehniskajiem noteikumiem, standartiem un līgumu nosacījumiem atbilstošu enerģijas kvalitāti un nodrošina to īpašumā vai lietošanā esošo objektu nepārtrauktu darbību un pienācīgu tehnisko stāvokli.
+(1) Energoapgādes komersanti nodrošina enerģētikā noteikto drošības prasību ievērošanu un darbinieku kvalifikācijas atbilstību, kā arī tehniskajiem noteikumiem, regulatora noteiktajām kvalitātes prasībām un līgumu nosacījumiem atbilstošu enerģijas kvalitāti un savu objektu nepārtrauktu darbību un atbilstošu tehnisko stāvokli līdz savstarpēji ar enerģijas lietotāju noteiktajai savu objektu piederības robežai.
+(2) Enerģijas lietotāji nodrošina to īpašumā, valdījumā vai lietojumā esošo tīklu, enerģijas izmantošanas ierīču un iekārtu tehnisko apkalpi un apkopi.

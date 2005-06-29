@@ -1,3 +1,3 @@
 III nodaļa
 Nekustamā īpašuma lietošanas tiesību aprobežojumi sakarā ar
-energoapgādes uzņēmuma objektu atrašanos tajā
+energoapgādes komersanta objektu atrašanos tajā

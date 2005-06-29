@@ -1,2 +1,2 @@
 21.pants
-Ekspluatācijas un drošības aizsargjoslas ap un gar energoapgādes uzņēmumu objektiem tiek noteiktas Aizsargjoslu likumā.
+Ekspluatācijas un drošības aizsargjoslas ap un gar energoapgādes komersantu objektiem tiek noteiktas Aizsargjoslu likumā.

@@ -1,4 +1,5 @@
 12.pants
-(1) Energoapgādes uzņēmumi, lai nodrošinātu enerģijas iepirkšanu, ražošanu, pārvadi, sadali un realizēšanu, var darboties horizontāli vai vertikāli integrēti vai atsevišķi, saņemot licenci katram energoapgādes veidam.
-(2) Enerģijas ražošanas, pārvades, sadales un realizācijas funkciju nodalīšana nedrīkst apdraudēt kopējo sistēmas tehnisko un finansiālo stabilitāti un enerģijas lietotāju apgādes drošumu.
-(3) Energoapgādes uzņēmumi var uzsākt horizontālu vai vertikālu integrāciju, kā arī atdalīšanos atsevišķos energoapgādes uzņēmumos pēc tam, kad saņemta regulatora rakstveida atļauja likumā "Par sabiedrisko pakalpojumu regulatoriem" noteiktajā kārtībā.
+(1) Energoapgādes komersanti, lai nodrošinātu enerģijas iepirkšanu, ražošanu, pārvadi, sadali un tirdzniecību, var darboties horizontāli vai vertikāli integrēti vai atsevišķi, saņemot licenci katram energoapgādes veidam.
+(2) Energoapgādes komersants, kas darbojas horizontāli vai vertikāli integrēti, iekšējā grāmatvedībā sastāda bilanci, peļņas un zaudējumu aprēķinu un naudas plūsmas pārskatu atsevišķi par katru licencēto energoapgādes veidu - tāpat kā tad, ja ar katru licencēto energoapgādes veidu nodarbotos atsevišķs komersants.
+(3) Šā panta otrajā daļā noteiktajā kārtībā sastādīto bilanci, peļņas un zaudējumu aprēķinu un naudas plūsmas pārskatu energoapgādes komersants iesniedz regulatoram ne vēlāk kā vienu mēnesi pēc gada pārskata apstiprināšanas likumā "Par uzņēmumu gada pārskatiem" noteiktajā kārtībā.
+(4) Regulators nosaka kārtību, kādā energoapgādes komersants nodrošina lietotājiem publisku pieejamību šā panta otrajā daļā noteiktajā kārtībā sastādītajai bilancei, peļņas un zaudējumu aprēķiniem, naudas plūsmas pārskatam un citai finanšu informācijai.

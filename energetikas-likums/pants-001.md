@@ -1,26 +1,43 @@
 1.pants
 Likumā ir lietoti šādi termini:
 1) enerģija - šā likuma izpratnē: prece ar noteiktu vērtību - iegūtā elektroenerģija vai siltumenerģija, kā arī gāze;
-2) energoapgāde - enerģētikas jomā veicama uzņēmējdarbība, kurai ir nepieciešama licence un kura ietver elektroenerģijas vai siltumenerģijas ražošanu, elektroenerģijas, siltumenerģijas vai gāzes iepirkšanu, pārveidi, uzglabāšanu, pārvadi, sadali vai realizāciju;
-3) energoapgādes uzņēmums - licencēts uzņēmums (uzņēmējsabiedrība), kas nodarbojas ar energoapgādi;
-4) energoapgādes uzņēmuma objekts - energoapgādes uzņēmumam piederoša vai tā lietošanā esoša manta (ēkas, būves, stacijas, iekārtas, ierīces, ietaises, tīkli, līnijas un to piederumi), kuru tieši izmanto energoapgādei;
+2) energoapgāde - enerģētikas jomā veicama komercdarbība, kurai ir nepieciešama licence un kura ietver elektroenerģijas vai siltumenerģijas ražošanu, elektroenerģijas, siltumenerģijas vai gāzes iepirkšanu, pārveidi, uzglabāšanu, pārvadi, sadali vai tirdzniecību;
+3) energoapgādes komersants - licencēts komersants, kas nodarbojas ar energoapgādi;
+4) energoapgādes komersanta objekts - energoapgādes komersantam piederoša vai tā lietošanā esoša manta (ēkas, būves, stacijas, iekārtas, ierīces, ietaises, tīkli, līnijas un to piederumi), kuru tieši izmanto energoapgādei;
 5) energoefektivitāte - enerģijas izmantošanas lietderīguma pakāpe, kas izpaužas kā galaprodukta veida un kvalitātes samērs ar enerģijas patēriņu;
 6) energoresursi - apzinātie kurināmā krājumi un enerģijas avoti, kurus var izmantot tiešai lietošanai vai enerģijas iegūšanai;
 7) (izslēgts ar 17.03.2005. likumu);
 8) sekundārie energoresursi - energoresursi, kuri rodas jebkura veida tehnoloģiskajos procesos kā blakusprodukts, arī tehnoloģiskajā procesā neizlietotā enerģija, kas ir derīga tālākai izmantošanai;
 9) vietējie energoresursi - Latvijā apzinātie atjaunojamie energoresursi un kurināmā krājumi, kurus var izmantot tiešai lietošanai vai enerģijas iegūšanai;
-10) enerģijas lietotājs - fiziskā vai juridiskā persona, kas no energoapgādes uzņēmumiem pērk un savām vajadzībām patērē konkrētā veida enerģiju vai kurināmo vai lieto to energoapgādē vai cita veida uzņēmējdarbībā;
+10) enerģijas lietotājs - fiziskā vai juridiskā persona, kas no energoapgādes komersantiem pērk un savām vajadzībām patērē konkrētā veida enerģiju vai kurināmo vai lieto to energoapgādē vai cita veida komercdarbībā;
 11) enerģijas pārvade - energoapgādes veids, kas ietver enerģijas transportēšanu pa augsta sprieguma tīkliem vai augsta spiediena vadiem, lai piegādātu to attiecīgai sadales sistēmai vai tieši lietotājiem, izņemot enerģijas tirdzniecību;
-12) enerģijas sadale - energoapgādes veids, kas ietver energoresursu vai enerģijas transportēšanu pa vidēja un zema sprieguma tīkliem vai vidēja un zema spiediena vadiem, izņemot enerģijas tirdzniecību;
-13) enerģijas realizācija - energoapgādes veids, kas ietver kurināmā vai enerģijas pārdošanu lietotājiem un līdzdalību pastāvīgas, drošas un stabilas energoapgādes nodrošināšanā;
+12) enerģijas sadale - energoapgādes veids, kas ietver energoresursu vai enerģijas transportēšanu pa vidēja un zema sprieguma tīkliem vai augsta, vidēja un zema spiediena vadiem, izņemot enerģijas tirdzniecību;
+13) enerģijas tirdzniecība - energoapgādes veids, kas ietver enerģijas iepirkšanu pārdošanai un pārdošanu enerģijas lietotājiem;
 14) enerģijas ražošana - energoapgādes veids, kas ietver energoresursu pārveidošanu lietošanai nepieciešamā enerģijā;
 15) (izslēgts ar 17.03.2005. likumu);
 16) kurināmais - nafta un naftas produkti, dabasgāze, sašķidrinātā gāze, degakmens, degakmens gāze un eļļa, ogles, kūdra, kurināmā koksne un cita biomasa, kodoldegviela, kuru sadedzina enerģijas iegūšanai;
-17) kurināmā drošības rezerve - energoapgādes uzņēmuma īpašumā esošs noteikts kurināmā krājums, kas ir nepieciešams, lai nodrošinātu enerģijas lietotāju nepārtrauktu apgādi ar attiecīgā veida enerģiju;
-18) licence - saskaņā ar likumu izsniegta speciāla atļauja, kas nosaka energoapgādes uzņēmuma tiesības un pienākumu nodarboties ar energoapgādi licences darbības zonā;
-19) licences darbības zona - licencē noteikta teritorija, kurā ir tiesīgs darboties konkrētais energoapgādes uzņēmums un enerģijas lietotājs;
+17) kurināmā drošības rezerve - energoapgādes komersanta īpašumā esošs noteikts kurināmā krājums, kas ir nepieciešams, lai nodrošinātu enerģijas lietotāju nepārtrauktu apgādi ar attiecīgā veida enerģiju;
+18) licence - saskaņā ar likumu izsniegta speciāla atļauja, kas nosaka energoapgādes komersanta tiesības un pienākumu nodarboties ar energoapgādi licences darbības zonā;
+19) licences darbības zona - licencē noteikta teritorija, kurā ir tiesīgs darboties konkrētais energoapgādes komersants un enerģijas lietotājs;
 20) regulators - valsts vai pašvaldības iestāde, kura saskaņā ar likumu regulē energoapgādi;
-21) horizontālā integrācija - dažādu energoapgādes uzņēmumu apvienošanās (elektroapgāde, gāzes apgāde, siltumapgāde un citi sabiedrisko pakalpojumu veidi jebkurā kombinācijā);
-22) vertikālā integrācija - divu vai vairāku energoapgādes veidu (ražošanas, pārvades un sadales) apvienošana vienā energoapgādes uzņēmumā;
-23) sistēmas operators (pārvades, sadales vai dabasgāzes krātuves operators) - energoapgādes uzņēmuma iecelts sistēmas vadītājs, kurš ir atbildīgs par enerģijas plūsmu nodrošināšanu, sistēmas darbību un apkalpošanu, ja nepieciešams - arī par šīs sistēmas attīstību attiecīgajā teritorijā, nolūkā garantēt apgādes drošumu;
-24) atjaunojamie energoresursi - vēja, saules, ģeotermālā, viļņu, paisuma-bēguma, ūdens enerģija, atkritumu poligonu un notekūdeņu attīrīšanas iekārtu gāzes un biogāze, biomasa [bioloģiski noārdāmā frakcija produktos, rūpniecības un sadzīves atkritumos, lauksaimniecības (ieskaitot augu un dzīvnieku izcelsmes vielas), kā arī mežsaimniecības un līdzīgu nozaru ražošanas atlikumos].
+21) horizontālā integrācija - viens energoapgādes komersants vai koncerns veic vismaz vienu no enerģijas ražošanas, pārvades, sadales, piegādes vai dabasgāzes uzglabāšanas funkcijām un kādu darbību, kas nav saistīta ar energoapgādi;
+22) vertikālā integrācija - viens energoapgādes komersants vai koncerns veic vismaz vienu no šādiem energoapgādes veidiem: enerģijas pārvade vai sadale vai dabasgāzes uzglabāšana un vismaz vienu no šādiem energoapgādes veidiem: enerģijas ražošana vai tirdzniecība;
+23) sistēmas operators - energoapgādes komersants, kas pilda enerģijas pārvades, sadales vai dabasgāzes uzglabāšanas funkcijas un atbild par sistēmas ekspluatāciju, uzturēšanas nodrošināšanu un, ja vajadzīgs, - attīstību noteiktā teritorijā, kā arī par sistēmas savstarpēju savienošanu ar citām sistēmām un par sistēmas spēju ilgtermiņā nodrošināt pamatotu pieprasījumu attiecībā uz enerģijas transportēšanu un uzglabāšanu;
+24) atjaunojamie energoresursi - vēja, saules, ģeotermālā, viļņu, paisuma-bēguma, ūdens enerģija, atkritumu poligonu un notekūdeņu attīrīšanas iekārtu gāzes un biogāze, biomasa [bioloģiski noārdāmā frakcija produktos, rūpniecības un sadzīves atkritumos, lauksaimniecības (ieskaitot augu un dzīvnieku izcelsmes vielas), kā arī mežsaimniecības un līdzīgu nozaru ražošanas atlikumos];
+25) sistēmas lietotājs - fiziskā vai juridiskā persona, kas izmanto enerģijas pārvades vai sadales sistēmas vai dabasgāzes krātuves pakalpojumus;
+26) savstarpēji savienota sistēma - vairākas sistēmas, kas savienotas savā starpā;
+27) fiksēta maksājuma apjoma līgums - līgums, kurā iekļauta pircēja un pārdevēja vienošanās, ka gadījumā, ja pircējs nevēlas saņemt visu līgumā noteikto preces apjomu, tas maksā par visu līgumā noteikto preces apjomu;
+28) tiešā līnija - dabasgāzes vads, kas papildina savstarpēji savienotas dabasgāzes pārvades sistēmas;
+29) pārvades sistēma - enerģijas pārvades tīkls ar visiem pārvades funkciju veikšanai nepieciešamajiem energoapgādes komersanta objektiem, kurus izmanto enerģijas transportēšanai;
+30) sadales sistēma - enerģijas sadales tīkls ar visiem sadales funkciju veikšanai nepieciešamajiem energoapgādes komersanta objektiem, kurus izmanto enerģijas transportēšanai un sadalei;
+31) tīkls - līniju un iekārtu kopums, kas nepieciešams enerģijas transportēšanai. Ielu apgaismojuma tīkls ir atsevišķs, ar uzskaites mēraparātu tehniski nodalīts līniju vai iekārtu kopums, ko izmanto ielu, laukumu un citu publiskai lietošanai paredzētu teritoriju apgaismošanai un kas netiek izmantots elektroenerģijas transportēšanai un sadalei citiem enerģijas lietotājiem;
+32) autonomais ražotājs - komersants, fiziskā vai juridiskā persona, kas ražo elektroenerģiju vai siltumenerģiju nolūkā patērēt to paša vajadzībām;
+33) neatkarīgais ražotājs - energoapgādes komersants, kas ražo elektroenerģiju vai siltumenerģiju, bet neveic tās sadali vai pārvadi sistēmā, kurā ir iekļauts;
+34) sistēma - visi pārvades un sadales tīkli un uzglabāšanas iekārtas, kas pieder dabasgāzes apgādes komersantam un ko tas ekspluatē, kā arī šim komersantam piederošās iekārtas, kas nodrošina papildpakalpojumus, un komersanti, kuru pakalpojumi nepieciešami, lai nodrošinātu pieeju pārvadei un sadalei;
+35) papildpakalpojumi - visi pakalpojumi, kas nepieciešami, lai piekļūtu pie pārvades un sadales tīkliem un uzglabāšanas iekārtām vai ekspluatētu šos tīklus un iekārtas, tostarp balansēšana, izņemot iekārtas, kuras izmanto tikai pārvades sistēmu operatori;
+36) balansēšana - nepārtraukts process, kas nodrošina pastāvīgu līdzsvaru starp sistēmā ievadīto enerģiju un enerģijas patēriņu;
+37) starpvalstu savienojums - enerģijas pārvades līnija, kas saista atsevišķās valstīs izvietotas pārvades sistēmas;
+38) galalietotājs - enerģijas lietotājs, kurš pērk enerģiju izlietošanai paša vajadzībām (galapatēriņam);
+39) mājsaimniecības lietotājs - galalietotājs, kurš pērk un izlieto enerģiju savā mājsaimniecībā paša vajadzībām (galapatēriņam), izņemot komercdarbības vai cita veida profesionālās darbības vajadzībām;
+40) saistītais lietotājs - enerģijas lietotājs, kurš neizmanto iespēju kļūt par tirgus dalībnieku, lai brīvi izvēlētos enerģijas tirgotāju;
+41) tirgotājs - lietotājs, kurš pērk un pārdod (piegādā - pārdošanas nozīmē) enerģiju citam enerģijas lietotājam.
