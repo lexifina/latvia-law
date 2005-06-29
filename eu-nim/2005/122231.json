@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par pārtikas kazeīnu un kazeinātu kvalitātes, klasifikācijas un marķējuma prasībām un atbilstības novērtēšanas kārtību",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "100",
+  "official_journal_page": null,
+  "official_journal_date": "2005-06-29",
+  "entry_into_force": null,
+  "notification_date": "2005-07-04",
+  "commission_reference": "MNE(2005)52231",
+  "nim_celex": "71983L0417LVA_122231",
+  "nim_id": "122231",
+  "transposes_celex": [
+    "31983L0417",
+    "31985L0503",
+    "31986L0424"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c651c0fd-3242-49cc-8f52-4301fbd86737",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
