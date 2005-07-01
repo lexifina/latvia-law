@@ -1,0 +1,3 @@
+11.pants. (1) Ja apaļos kokmateriālus izmanto personiskajam patēriņam, to apjomu nosaka, izmantojot metodes, kas nodrošina mērīšanas precizitāti ar pieļaujamo kļūdu līdz 10 procentiem.
+(2) Meža īpašnieks vai tiesiskais valdītājs veic personiskajam patēriņam iegūto apaļo kokmateriālu uzskaiti, norādot faktiski iegūto apaļo kokmateriālu apjomu, koku sugu, to ieguves vietu un izmantošanas mērķi.
+(3) Datus par personiskajam patēriņam izmantoto apaļo kokmateriālu apjomu meža īpašnieks vai tiesiskais valdītājs pievieno saimnieciskās darbības pārskatam. Pārskatu iesniedz Valsts meža dienestam Meža likumā noteiktajā kārtībā.

@@ -1,0 +1,3 @@
+6.pants. (1) Ja kāda no darījumā iesaistītajām pusēm nepiekrīt koku vai apaļo kokmateriālu uzmērījuma rezultātiem, apjoma noteikšanai pieaicina koku vai apaļo kokmateriālu uzmērīšanas jomā akreditētu organizāciju (turpmāk - akreditēta organizācija).
+(2) Akreditētas organizācijas slēdz profesionālās darbības riska (civiltiesiskās atbildības) apdrošināšanas līgumu (turpmāk -civiltiesiskās atbildības apdrošināšanas līgums).
+(3) Akreditācijas prasības organizācijām, kuras darbojas apaļo kokmateriālu uzmērīšanas jomā, kā arī minimālo summu, par kādu šīs organizācijas var slēgt civiltiesiskās atbildības apdrošināšanas līgumu, nosaka Ministru kabinets.

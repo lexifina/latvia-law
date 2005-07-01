@@ -1,0 +1,1 @@
+10.pants. Koku un apaļo kokmateriālu uzskaites kārtību, uzskaiti un darījumus apliecinošos dokumentus, kā arī personisko patēriņu apliecinošos dokumentus, to reģistrācijas kārtību un glabāšanas noteikumus reglamentē Ministru kabinets.

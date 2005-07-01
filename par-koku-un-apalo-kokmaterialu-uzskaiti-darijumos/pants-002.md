@@ -1,0 +1,1 @@
+2.pants. Likuma mērķis ir ieviest koku un apaļo kokmateriālu vienotu uzskaites kārtību darījumos visos koku un apaļo kokmateriālu aprites posmos, kā arī veicināt godīgu konkurenci un nodokļu iekasēšanu.
