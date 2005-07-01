@@ -1,0 +1,4 @@
+18.pants. Kārtība, kādā izskatāms iesniegums par tiešās pārvaldes iestādes nodarīta zaudējuma atlīdzinājumu
+(1) Tiešās pārvaldes iestāde, kas saņem privātpersonas iesniegumu par zaudējuma atlīdzinājumu, nekavējoties pārsūta to augstākai iestādei vai citai normatīvajos aktos noteiktajai iestādei (lēmējiestādei). Ja augstākas iestādes nav vai tā ir Ministru kabinets un normatīvajos aktos nav noteikta cita iestāde, iesniegumu izskata attiecīgā tiešās pārvaldes iestāde.
+(2) Lēmējiestāde mēneša laikā pēc iesnieguma saņemšanas izvērtē zaudējuma atlīdzinājuma tiesisko pamatu un pieņem lēmumu par zaudējuma atlīdzinājuma piešķiršanu un atlīdzinājuma apmēru vai arī par iesnieguma noraidīšanu.
+(3) Ja objektīvu iemeslu dēļ mēneša laikā to nav iespējams izdarīt, lēmējiestāde, pieņemot motivētu lēmumu, termiņu var pagarināt līdz četriem mēnešiem, par to rakstveidā informējot iesniedzēju. Šis lēmums nav apstrīdams vai pārsūdzams.

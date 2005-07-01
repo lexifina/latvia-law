@@ -1,0 +1,3 @@
+32.pants. Ar zaudējuma atlīdzinājumu saistīto gadījumu izvērtēšana
+(1) Lai noskaidrotu apstākļus, kas izraisījuši vai veicinājuši atlīdzināmo zaudējumu nodarīšanu, augstāka iestāde, kuras padotībā ir zaudējumus nodarījusī iestāde, izvērtē katru konkrēto gadījumu, kad zaudējumi atlīdzināmi saskaņā ar iestādes lēmumu vai tiesas nolēmumu.
+(2) Pēc visu zaudējuma atlīdzinājuma lietā esošo apstākļu izvērtēšanas augstāka iestāde pieņem lēmumu par materiālu nosūtīšanu piekritīgai iestādei, lai noteiktu, vai par zaudējumu nodarīšanu atbildīgā amatpersona nav saucama pie disciplināratbildības, administratīvās atbildības vai kriminālatbildības.

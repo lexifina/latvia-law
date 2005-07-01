@@ -1,0 +1,5 @@
+25.pants. Zaudējuma atlīdzinājums no pašvaldības budžeta
+(1) Ja iestādes lēmums vai tiesas nolēmums par zaudējuma atlīdzinājumu ir vērsts pret pašvaldību, tajā noteikto summu izmaksā no pašvaldības budžeta.
+(2) Pēc tam, kad stājies spēkā iestādes lēmums vai tiesas nolēmums par zaudējuma atlīdzinājumu, lēmējiestāde vai pašvaldības iestāde (amatpersona), kas piedalījās tiesas procesā, nekavējoties nosūta iestādes lēmuma vai tiesas nolēmuma norakstu piekritīgajai pašvaldības iestādei, kas mēneša laikā pēc tā saņemšanas izmaksā zaudējuma atlīdzinājumu, pārskaitot to uz privātpersonas norādīto bankas kontu.
+(3) Attiecīgā pašvaldības iestāde ar motivētu lēmumu var zaudējuma atlīdzinājumu izmaksāt pa daļām. Izmaksa veicama ne ilgāk kā gada laikā no iestādes lēmuma vai tiesas nolēmuma noraksta saņemšanas dienas. Attiecīgā pašvaldības iestāde par savu lēmumu rakstveidā informē privātpersonu. Šis lēmums nav apstrīdams vai pārsūdzams.
+(4) Ja nepieciešams un ja tas atbilst tiesību normām, pašvaldības dome (padome) pieņem lēmumu par grozījumiem pašvaldības budžetā kārtējam gadam.
