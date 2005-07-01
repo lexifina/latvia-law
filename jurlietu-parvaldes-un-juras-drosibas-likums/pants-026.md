@@ -1,9 +1,5 @@
 26.pants. Jūrnieku sagatavošana
-(1) Jūrnieku profesionālās izglītības programmu satura atbilstību starptautiskajām prasībām izglītības iestādēs, kā arī jūrnieku apmācību un kvalifikācijas celšanu uzrauga Latvijas Jūras administrācija satiksmes ministra noteiktajā kārtībā.
-(2) Lai nodrošinātu šā panta pirmajā daļā minēto, satiksmes ministrs atbilstoši STCW konvencijas un citu starptautisko normatīvo aktu prasībām var noteikt izpildes kārtību attiecībā uz:
-1) jūrnieku un iekšējo ūdeņu kuģu personāla sagatavošanu un sertifikāciju;
-2) sardzes pienākumu pildīšanu;
-3) jūrnieku izglītības un apmācības iestāžu uzraudzību;
-4) jūrnieku apmācības instruktoru un vērtētāju sertifikāciju;
-5) zvejas kuģu personāla apmācību un sertifikāciju;
-6) jahtu un citu ūdenssportam un izklaidei paredzēto kuģošanas līdzekļu vadītāju apmācību un sertifikāciju.
+(1) Jūrnieku profesionālās izglītības programmu atbilstību starptautisko normatīvo aktu prasībām, kā arī jūrnieku profesionālās izglītības īstenošanu uzrauga Latvijas Jūras administrācijas Jūrnieku reģistrs atbilstoši Ministru kabineta noteiktajai kārtībai un kritērijiem.
+(2) Jūrnieku sertificēšanu veic Latvijas Jūras administrācijas Jūrnieku reģistrs atbilstoši Ministru kabineta noteiktajai kārtībai un kritērijiem.
+(3) Satiksmes ministrs ir tiesīgs noteikt STCW un citu Latvijai saistošu starptautisko normatīvo aktu piemērošanas procedūras un kārtību.
+(4) Ministru kabinets var izdot noteikumus par atpūtai un sportam paredzēto kuģošanas līdzekļu vadītāju apmācību un sertificēšanu.
