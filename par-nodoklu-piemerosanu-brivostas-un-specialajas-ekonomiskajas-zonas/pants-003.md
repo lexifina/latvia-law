@@ -3,13 +3,13 @@
 (2) Pievienotās vērtības nodokļa 0 procentu likmi piemēro:
 1) apliekamo personu preču piegādēm licencētai uzņēmējsabiedrībai, zonas uzņēmējsabiedrībai, zonas pārvaldei vai brīvostas pārvaldei brīvostas vai speciālās ekonomiskās zonas teritorijā ietilpstošajā brīvajā zonā (turpmāk - brīvā zona) to tālākai eksportēšanai;
 2) tādām preču piegādēm licencētai uzņēmējsabiedrībai, zonas uzņēmējsabiedrībai, zonas pārvaldei vai brīvostas pārvaldei, kuras pilnībā atbilst šā likuma 1.panta otrās daļas 12.punktā noteiktajām prasībām;
-3) to kuģu piegādēm un importam (izlaišanai brīvam apgrozījumam), kuri paredzēti kursēšanai starptautiskajā satiksmē vai glābšanas vai palīdzības darbu veikšanai jūrā;
-4) apliekamo personu sniegtajiem pakalpojumiem brīvajā zonā, kuri tieši saistīti ar ārvalstu precēm, kā arī precēm, kas paredzētas eksportēšanai (to skaitā transporta, ekspedīcijas, preču uzglabāšanas, iekraušanas, izkraušanas, ekspertīzes, šķirošanas, iepakošanas, fasēšanas pakalpojumi);
-5) "Likumā par ostām" noteiktajām ostas maksām par pakalpojumiem, kurus brīvostas pārvalde brīvostas teritorijā vai zonas pārvalde zonas teritorijā sniedz starptautiskajā satiksmē kursējošiem kuģiem vai kuģiem, kas veic glābšanas vai palīdzības darbus jūrā.
+3) (izslēgts ar 20.01.2005. likumu);
+4) (izslēgts ar 20.01.2005. likumu);
+5) (izslēgts ar 20.01.2005. likumu).
 (3) Ja šā panta otrās daļas 1.punktā minētās preces tiek pārdotas, tās ir apliekamas ar pievienotās vērtības nodokļa 18 procentu vai 5 procentu likmi saskaņā ar likumu "Par pievienotās vērtības nodokli".
 (4) Ja licencēta uzņēmējsabiedrība, zonas uzņēmējsabiedrība, zonas pārvalde vai brīvostas pārvalde šā panta otrās daļas 2.punktā minētās preces piegādā citai personai ātrāk nekā piecu gadu laikā no to iegādes brīža, licencēta uzņēmējsabiedrība, zonas uzņēmējsabiedrība, zonas pārvalde vai brīvostas pārvalde aprēķina pievienotās vērtības nodokli no preces sākotnējās vērtības un iemaksā šo nodokli valsts budžetā tajā taksācijas periodā, kad notikusi preču piegāde, un šis nodoklis nav atskaitāms kā priekšnodoklis.
-(5) Valsts ieņēmumu dienests nodokļa pārmaksu (starpību starp aprēķināto nodokli un atskaitāmo priekšnodokli) 30 dienu laikā pēc licencētas uzņēmējsabiedrības, zonas uzņēmējsabiedrības, zonas pārvaldes vai brīvostas pārvaldes iesnieguma un darījumus apliecinošu dokumentu saņemšanas atmaksā licencētai uzņēmējsabiedrībai, zonas uzņēmējsabiedrībai, zonas pārvaldei vai brīvostas pārvaldei vai novirza citu nodokļu maksājumiem saskaņā ar likuma "Par pievienotās vērtības nodokli" 12.panta 10.¹ un vienpadsmitās daļas nosacījumiem.
-(6) Valsts ieņēmumu dienests apliekamajai personai neatmaksā šā panta piektajā daļā minēto nodokļa pārmaksu, ja licencētai uzņēmējsabiedrībai, zonas uzņēmējsabiedrībai, zonas pārvaldei vai brīvostas pārvaldei ir nodokļu vai citu obligāto maksājumu parādi valsts budžetam. Šādos gadījumos pārmaksātā summa tiek novirzīta attiecīgo nodokļu vai citu obligāto maksājumu segšanai.
+(5) (Izslēgta ar 20.01.2005. likumu.)
+(6) (Izslēgta ar 20.01.2005. likumu.)
 (7) Naftas produkti, kurus piegādā licencētai uzņēmējsabiedrībai, zonas uzņēmējsabiedrībai, zonas pārvaldei vai brīvostas pārvaldei, ir atbrīvoti no akcīzes nodokļa, kamēr tie atrodas licencētas uzņēmējsabiedrības, zonas uzņēmējsabiedrības, zonas pārvaldes vai brīvostas pārvaldes brīvās zonas teritorijā.
 (8) No akcīzes nodokļa atbrīvo naftas produktus, kurus licencēta uzņēmējsabiedrība, zonas uzņēmējsabiedrība, zonas pārvalde vai brīvostas pārvalde izmanto:
 1) kuģos un citos peldlīdzekļos, kuri netiek izmantoti atpūtas un izklaides vajadzībām;
@@ -22,3 +22,4 @@
 2) celtņos un citos tamlīdzīgos objektos;
 3) iekārtās, kuras tiek izmantotas celtniecības darbos tikai brīvās zonas teritorijā;
 4) tehnikā, kas pēc savas konstrukcijas nav paredzēta satiksmei pa koplietošanas ceļiem.
+(10) Ministru kabinets nosaka to naftas produktu aprites un kontroles nosacījumus, kuriem saskaņā ar šā panta septīto, astoto, 8.¹ un devīto daļu piemēro akcīzes nodokļa atbrīvojumu un atvieglojumus, kā arī šo naftas produktu lietotāju reģistrācijas nosacījumus.
