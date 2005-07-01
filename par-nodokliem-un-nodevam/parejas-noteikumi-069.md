@@ -1,0 +1,1 @@
+69. Šā likuma 42.panta pirmajā daļā un 45.panta trešajā daļā minēto informāciju izmaksātāji un 45.panta trešajā daļā minētās saimnieciskās vienības pirmo reizi iesniedz Valsts ieņēmumu dienestam par laika posmu no 2005.gada 1.jūlija līdz 2005.gada 31.decembrim. Šajā gadījumā minētā informācija iesniedzama ne vēlāk kā 2006.gada 31.martā.

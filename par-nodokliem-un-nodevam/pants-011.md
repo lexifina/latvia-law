@@ -65,4 +65,6 @@
 52) par personas datu apstrādes sistēmas reģistrēšanu vai Fizisko personu datu aizsardzības likumā noteikto reģistrējamo izmaiņu izdarīšanu;
 53) par sertifikācijas pakalpojumu sniedzēja akreditāciju un akreditācijas atjaunošanu (šo akreditāciju un akreditācijas atjaunošanu veic Datu valsts inspekcija);
 54) par informācijas sniegšanu no Valsts adrešu reģistra;
-55) par darba atļaujas pieprasīšanai nepieciešamo dokumentu izskatīšanu.
+55) par darba atļaujas pieprasīšanai nepieciešamo dokumentu izskatīšanu;
+56) par Elektronisko sakaru likumā noteiktajām radiofrekvenču spektra lietošanas tiesībām (ikgadējā nodeva);
+57) par Elektronisko sakaru likumā noteiktajām numerācijas resursu lietošanas tiesībām (ikgadējā nodeva).

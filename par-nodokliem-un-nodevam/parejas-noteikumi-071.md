@@ -1,0 +1,1 @@
+71. Šā likuma 43.panta pirmajā daļā minēto informāciju Valsts ieņēmumu dienests pirmo reizi nodod par laika posmu no 2005.gada 1.jūlija līdz 2005.gada 31.decembrim. Šajā gadījumā minētā informācija iesniedzama ne vēlāk kā 2006.gada 30.jūnijā.
