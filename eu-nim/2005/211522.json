@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2005.gada 28.jūnija noteikumi Nr. 475 „Noteikumi par ārvalstīs iegūtajiem advokātu profesionālajiem nosaukumiem, kurus atzīst Latvijas Republikā”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "102 (3260)",
+  "official_journal_page": null,
+  "official_journal_date": "2005-07-01",
+  "entry_into_force": "2005-07-02",
+  "notification_date": "2013-12-16",
+  "commission_reference": "MNE(2013)59696",
+  "nim_celex": "72013L0025LVA_211522",
+  "nim_id": "211522",
+  "transposes_celex": [
+    "32013L0025"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3170c24f-63f2-4065-b7be-4e5b3a67027d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
