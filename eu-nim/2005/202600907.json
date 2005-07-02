@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2005.gada 28.jūnija Noteikumi Nr.473 \"\"Noteikumi  izstrādāšanas, noformēšanas, glabāšanas un aprites kārtība valsts un pašvaldību iestādēs un kārtība, kādā notiek elektronisko dokumentu aprite starp valsts un pašvaldību iestādēm vai starp šīm iestādēm un fiziskajām un juridiskajām personām\"\"",
+  "type_of_act": null,
+  "official_journal": null,
+  "official_journal_reference": "102",
+  "official_journal_page": null,
+  "official_journal_date": "2005-07-01",
+  "entry_into_force": "2005-07-02",
+  "notification_date": "2026-02-03",
+  "commission_reference": "MNE(2026)00907",
+  "nim_celex": "72018L2001LVA_202600907",
+  "nim_id": "202600907",
+  "transposes_celex": [
+    "32018L2001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7ed9c5aa-9544-40fd-a928-4448120de882",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
