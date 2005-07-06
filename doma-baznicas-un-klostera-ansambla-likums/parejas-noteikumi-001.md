@@ -1,0 +1,1 @@
+1. Triju mēnešu laikā pēc šā likuma spēkā stāšanās Rīgas vēstures un kuģniecības muzejs nodod un Latvijas Evaņģēliski luteriskā baznīca pārņem savā īpašumā šā likuma 4.pantā minēto nekustamo īpašumu, sastādot par to nodošanas - pieņemšanas aktu.

@@ -1,0 +1,1 @@
+2. Attiecībā uz tiem Doma baznīcas un klostera ansambli veidojošajiem nekustamajiem īpašumiem, par kuriem zemesgrāmatā nav izdarīta atzīme, ka tie ir kultūras pieminekļi, Valsts kultūras pieminekļu aizsardzības inspekcija mēneša laikā pēc šā likuma spēkā stāšanās iesniedz Rīgas pilsētas zemesgrāmatu nodaļai nostiprinājuma lūgumus par attiecīgas atzīmes izdarīšanu.

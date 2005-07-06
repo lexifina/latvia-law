@@ -1,0 +1,4 @@
+2.pants. Doma baznīcas un klostera ansambļa kultūrvēsturiskā vērtība
+(1) Doma baznīcas un klostera ansamblis ar tajā esošajām mākslas vērtībām ir Latvijas kultūrvēsturiskā mantojuma daļa. Doma baznīcas un klostera ansamblis ir valsts nozīmes kultūras piemineklis, kas iekļauts Valsts aizsargājamo kultūras pieminekļu sarakstā ar valsts aizsardzības numuru 6537. Tajā esošie mākslas pieminekļi iekļauti Valsts aizsargājamo kultūras pieminekļu sarakstā ar valsts aizsardzības numuru 7077, 7079 - 7085, 7090, 7095, 7099, 7103 - 7148, 7150 - 7153, 7155 - 7165.
+(2) Doma baznīcas un klostera ansamblis ir nacionālas nozīmes svētvieta un atrodas Rīgas vēsturiskajā centrā, kas iekļauts Apvienoto Nāciju Izglītības, zinātnes un kultūras organizācijas Pasaules mantojuma sarakstā.
+(3) Doma baznīcas un klostera ansambļa saglabāšanu, uzturēšanu un izmantošanu reglamentē šis likums, likums "Par kultūras pieminekļu aizsardzību" un citi likumi un normatīvie akti.
