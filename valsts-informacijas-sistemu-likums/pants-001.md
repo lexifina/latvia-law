@@ -1,6 +1,6 @@
 1.pants. Likumā lietotie termini
 Likumā ir lietoti šādi termini:
-1) valsts informācijas sistēma - strukturizēts informācijas tehnoloģiju un telekomunikāciju aprīkojuma un datu bāzu kopums, kuru lietojot tiek nodrošināta valsts funkciju izpildei nepieciešamās informācijas ierosināšana, radīšana, apkopošana, uzkrāšana, apstrādāšana, izmantošana un iznīcināšana (turpmāk - informācijas aprite);
+1) valsts informācijas sistēma - strukturizēts informācijas tehnoloģiju un datu bāzu kopums, kuru lietojot tiek nodrošināta valsts funkciju izpildei nepieciešamās informācijas ierosināšana, radīšana, apkopošana, uzkrāšana, apstrādāšana, izmantošana un iznīcināšana (turpmāk - informācijas aprite);
 2) valsts informācijas sistēmas pārzinis - valsts institūcija, kas normatīvajos aktos noteiktajā kārtībā organizē un vada valsts informācijas sistēmas darbību;
 3) valsts informācijas sistēmas turētājs - valsts informācijas sistēmas pārzinis vai tā pilnvarota institūcija, kas uztur šīs sistēmas informācijas un tehnisko resursu funkcionalitāti un nodrošina informācijas apriti;
 4) valsts informācijas sistēmas lietotājs - juridiskā vai fiziskā persona, kura noslēgusi līgumu ar valsts informācijas sistēmas pārzini par datu lietošanu vai kura uz pieprasījuma pamata saņem datus valsts informācijas sistēmas pārziņa vai normatīvajos aktos noteiktajā kārtībā;
