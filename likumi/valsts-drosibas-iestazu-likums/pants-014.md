@@ -4,8 +4,8 @@
 1) nodrošina Aizsardzības ministriju, tās padotībā esošās iestādes un Nacionālos bruņotos spēkus ar to darbībai nepieciešamo pretizlūkošanas un izlūkošanas informāciju;
 2) atklāj un sadarbībā ar citām valsts drošības iestādēm novērš ārvalstu speciālo dienestu, kā arī organizāciju vai atsevišķu personu graujošo darbību Aizsardzības ministrijā, tās padotībā esošajās iestādēs un Nacionālajos bruņotajos spēkos;
 3) veic pasākumus, lai aizsargātu valsts noslēpumu Aizsardzības ministrijā, tās padotībā esošajās iestādēs un Nacionālajos bruņotajos spēkos, un kontrolē to izpildi;
-4) pārbauda pretendentus, kas vēlas saņemt speciālas atļaujas (licences), kuras izsniedz Aizsardzības ministrija atsevišķu licencēšanai pakļautu uzņēmējdarbības veidu veikšanai, un sniedz atzinumu par speciālo atļauju (licenču) izsniegšanu.
+4) pārbauda pretendentus, kas vēlas saņemt speciālas atļaujas (licences), kuras izsniedz Aizsardzības ministrija atsevišķu licencēšanai pakļautu komercdarbības veidu veikšanai, un sniedz atzinumu par speciālo atļauju (licenču) izsniegšanu.
 (3) Militārās izlūkošanas un drošības dienests darbojas atbilstoši Ministru kabineta apstiprinātam nolikumam.
 (4) Militārās izlūkošanas un drošības dienests savas kompetences ietvaros ir operatīvās darbības subjekts.
-(5) Militārās izlūkošanas un drošības dienesta personālsastāvā ir karavīri un darbinieki.
+(5) (Izslēgta ar 02.06.2005. likumu.)
 (6) (Izslēgta ar 27.06.2002. likumu.)
