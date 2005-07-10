@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2005.gada 5.jūlija noteikumi Nr.489 “Noteikumi par izglītības programmu minimālajām prasībām veterinārārsta profesionālās kvalifikācijas iegūšanai un par institūcijām, kuru tiešā kontrolē var apgūt praktisko izglītību veterinārārsta profesijā”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "107 (3265)",
+  "official_journal_page": null,
+  "official_journal_date": "2005-07-09",
+  "entry_into_force": "2005-07-10",
+  "notification_date": "2016-02-02",
+  "commission_reference": "MNE(2016)50955",
+  "nim_celex": "72013L0055LVA_234321",
+  "nim_id": "234321",
+  "transposes_celex": [
+    "32013L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/85f75882-4762-4fb7-b5a8-d040ee84fd50",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
