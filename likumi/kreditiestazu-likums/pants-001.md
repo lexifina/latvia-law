@@ -27,6 +27,8 @@ b) samazinājums par kredītiestādes īpašumā esošajām pašas akcijām, nem
 c) subordinētais kapitāls saskaņā ar šā likuma 36.panta prasībām;
 d) samazinājums par kredītiestādes būtisku līdzdalību citu kredītiestāžu un finanšu iestāžu pamatkapitālā, kā arī ieguldījumiem to kredītiestāžu un finanšu iestāžu subordinētajā kapitālā, kurās kredītiestādei ir būtiska līdzdalība, un saskaņā ar Finanšu un kapitāla tirgus komisijas normatīvajiem norādījumiem un noteikumiem - citos finanšu instrumentos;
 e) samazinājums par citās kredītiestādēs un finanšu iestādēs (pamatkapitālā, subordinētajā kapitālā un saskaņā ar Finanšu un kapitāla tirgus komisijas normatīvajiem norādījumiem un noteikumiem - citos finanšu instrumentos) izdarīto kredītiestādes ieguldījumu daļu, kura pārsniedz 10 procentus no kredītiestādes pašu kapitāla, kas aprēķināts saskaņā ar šā punkta "a"-"c" apakšpunktu. Ieguldījumu kopsummu aprēķina tikai tajās kredītiestādēs un finanšu iestādēs, kurās kredītiestādei nav būtiskas līdzdalības;
+f) samazinājums par ieguldījumiem tādu apdrošināšanas sabiedrību, pārapdrošinātāju un apdrošināšanas pārvaldītājsabiedrību pamatkapitālā, kurās kredītiestādei tieši vai netieši pieder 20 un vairāk procentu pamatkapitāla vai balsstiesīgo akciju skaita,
+g) samazinājums par ieguldījumiem apdrošināšanas sabiedrību, pārapdrošinātāju un apdrošināšanas pārvaldītājsabiedrību subordinētajā kapitālā un - saskaņā ar Finanšu un kapitāla tirgus komisijas normatīvajiem noteikumiem un rīkojumiem - citos finanšu instrumentos;
 8) subordinētais kapitāls - naudas līdzekļi, kurus kredītiestāde aizņemas uz laiku, kas nav īsāks par pieciem gadiem, turklāt aizņēmuma līgums paredz, ka aizdevējs var atprasīt aizdevumu pirms termiņa vienīgi kredītiestādes likvidācijas gadījumā un viņa prasība tiek apmierināta pēc visu citu kreditoru prasību, bet pirms akcionāru prasību apmierināšanas;
 9) klients - persona, kurai kredītiestāde sniedz finanšu pakalpojumus;
 10) mātes sabiedrība - komercsabiedrība, kura kontrolē citu komercsabiedrību;
@@ -48,8 +50,8 @@ a) kredītiestādes akcionāri, kuriem kredītiestādē ir būtiska līdzdalība
 b) bankas meitas sabiedrības un komercsabiedrības, kurās bankai ir būtiska ietekme;
 c) kredītiestādes padomes, valdes priekšsēdētājs un locekļi, iekšējā audita dienesta vadītājs un locekļi, sabiedrības kontrolieris un citi kredītiestādes darbinieki, kuri ir pilnvaroti veikt kredītiestādes darbības plānošanu, vadīšanu un kontroli un atbild par to, kā arī šo personu laulātie, vecāki un bērni;
 d) komercsabiedrības, kurās šā termina skaidrojuma "a" un "c" apakšpunktā minētajām personām ir būtiska līdzdalība;
-20) finanšu iestāde - komercsabiedrība, kas nodibināta, lai sniegtu vienu vai vairākus finanšu pakalpojumus, izņemot noguldījumu un citu atmaksājamo līdzekļu piesaistīšanu, kā arī lai veiktu apdrošināšanas operācijas vai lai iegūtu līdzdalību citu komercsabiedrību pamatkapitālā;
-21) finanšu pārvaldītājsabiedrība - finanšu iestāde, kuras meitas sabiedrības ir vienīgi vai galvenokārt kredītiestādes vai finanšu iestādes, no kurām vismaz viena ir kredītiestāde;
+20) finanšu iestāde - komercsabiedrība, kas nodibināta, lai sniegtu vienu vai vairākus finanšu pakalpojumus (izņemot noguldījumu un citu atmaksājamo līdzekļu piesaistīšanu) vai lai iegūtu līdzdalību citu komercsabiedrību pamatkapitālā;
+21) finanšu pārvaldītājsabiedrība - finanšu iestāde, kura nav jaukta finanšu pārvaldītājsabiedrība un kuras meitas sabiedrības ir vienīgi vai galvenokārt kredītiestādes vai finanšu iestādes, no kurām vismaz viena ir banka;
 22) tranzītkredīts - valdības kredīts, kas ar banku starpniecību tiek piešķirts uzņēmējiem konkrētu mērķu īstenošanai un netiek iekļauts bankas aktīvos, pret kuriem tiek vērsti kreditoru prasījumi bankas likvidācijas vai bankrota gadījumā;
 23) nodokļu administrācija - likumā "Par nodokļiem un nodevām" noteiktās institūcijas;
 24) pašlikvidācija - kredītiestādes darbības izbeigšana saskaņā ar kredītiestādes akcionāru sapulces lēmumu;
@@ -81,7 +83,7 @@ b) kontroles veidā,
 c) ja tās ir saistītas ar vienu un to pašu personu kontroles veidā;
 41) kreditoru sapulce - organizēta kreditoru kopīga darbības forma kredītiestādes sanācijas procesā;
 42) kreditoru komiteja - kreditoru sapulces ievēlēta institūcija, kas kredītiestādes sanācijas gadījumā pārstāv kreditoru sapulci atbilstoši noteiktajam pilnvaru apjomam;
-43) jaukta pārvaldītājsabiedrība - mātes sabiedrība, kura nav kredītiestāde vai finanšu pārvaldītājsabiedrība, bet starp kuras meitas sabiedrībām ir vismaz viena kredītiestāde;
+43) jaukta pārvaldītājsabiedrība - mātes sabiedrība, kura nav kredītiestāde, finanšu pārvaldītājsabiedrība vai jaukta finanšu pārvaldītājsabiedrība, bet no kuras meitas sabiedrībām vismaz viena ir banka;
 44) dalībvalsts - Eiropas Savienības vai Eiropas Ekonomikas zonas valsts;
 45) ārvalsts - valsts, kas nav dalībvalsts;
 46) mītnes valsts - dalībvalsts, kurā kredītiestāde reģistrēta un tai izsniegta licence kredītiestādes darbībai vai citādā veidā dota atļauja kredītiestādes darbībai;
@@ -97,4 +99,5 @@ e) kārtējā darbības gada peļņa, ja ir zvērināta revidenta vai zvērināt
 51) reorganizācijas pasākumi - maksātnespējas process, tai skaitā sanācija, kā arī citas tiesiska rakstura darbības, kas varētu ietekmēt trešo personu tiesības un kas tiek veiktas, lai saglabātu vai atjaunotu kredītiestādes, tai skaitā tās filiāles, maksātspēju;
 52) brīvais kapitāls - personai piederošo aktīvu vērtība, kas samazināta par šīs personas saistību vērtību un to aktīvu vērtību, kuri uzskatāmi par ilgtermiņa ieguldījumiem;
 53) prasījumu un saistību neto ieskaits - pirms parādnieka likvidācijas uzsākšanas vai likumā noteiktajā kārtībā atzītas maksātnespējas iestāšanās starp parādnieku un kreditoru uz rakstveida līguma pamata nodibinātas tiesiskas attiecības no savstarpējiem līgumiem izrietošo prasījumu un saistību izteikšanai vienā prasībā vai saistībā tā, ka tiek celta tikai viena prasība un jāizpilda tikai viena saistība;
-54) prasījumu un saistību dzēšana - pēc parādnieka likvidācijas uzsākšanas vai likumā noteiktajā kārtībā atzītas maksātnespējas iestāšanās no līguma izrietošo parādnieka un kreditora prasījumu un saistību pilnīga savstarpēja dzēšana neatkarīgi no prasījumu un saistību apmēra (summas).
+54) prasījumu un saistību dzēšana - pēc parādnieka likvidācijas uzsākšanas vai likumā noteiktajā kārtībā atzītas maksātnespējas iestāšanās no līguma izrietošo parādnieka un kreditora prasījumu un saistību pilnīga savstarpēja dzēšana neatkarīgi no prasījumu un saistību apmēra (summas);
+55) jaukta finanšu pārvaldītājsabiedrība - mātes sabiedrība, kas nav banka, apdrošināšanas sabiedrība vai ieguldījumu brokeru sabiedrība un kas kopā ar savām meitas sabiedrībām, no kurām vismaz viena ir dalībvalstī reģistrēta banka, apdrošināšanas sabiedrība vai ieguldījumu brokeru sabiedrība, un citām sabiedrībām veido finanšu konglomerātu.

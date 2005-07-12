@@ -1,1 +1,1 @@
-45.pants. Bankas būtiskas līdzdalības kopējais apjoms tādu komercsabiedrību pamatkapitālā, kuri nav kredītiestādes vai finanšu iestādes, nedrīkst pārsniegt 60 procentus no bankas pašu kapitāla.
+45.pants. Bankas būtiskas līdzdalības kopējais apjoms tādu komercsabiedrību pamatkapitālā, kuras nav kredītiestādes, finanšu iestādes, apdrošināšanas sabiedrības vai pārapdrošinātāji, nedrīkst pārsniegt 60procentus no bankas pašu kapitāla.

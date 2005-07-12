@@ -1,4 +1,5 @@
-19.¹pants. Finanšu un kapitāla tirgus komisija pirms licences (atļaujas) piešķiršanas jaundibināmai kredītiestādei konsultējas ar dalībvalsts kredītiestāžu uzraudzības institūciju par tādas kredītiestādes dibināšanu Latvijas Republikā:
-1) kura ir tādas kredītiestādes meitas sabiedrība, kurai licence (atļauja) piešķirta attiecīgajā dalībvalstī;
-2) kura ir meitas sabiedrība mātes sabiedrībai, kuras citai meitas sabiedrībai, kas ir kredītiestāde, licence (atļauja) piešķirta attiecīgajā dalībvalstī;
-3) kuru kontrolē tāda persona, kas kontrolē kredītiestādi, kurai licence (atļauja) piešķirta attiecīgajā dalībvalstī.
+19.¹pants. (1) Finanšu un kapitāla tirgus komisija konsultējas ar attiecīgās dalībvalsts uzraudzības institūciju pirms licences (atļaujas) izsniegšanas tādai jaundibināmai kredītiestādei:
+1) kura ir dalībvalstī reģistrētas kredītiestādes, apdrošināšanas sabiedrības vai ieguldījumu brokeru sabiedrības meitas sabiedrība;
+2) kura ir meitas sabiedrība tādai mātes sabiedrībai, kuras cita meitas sabiedrība ir dalībvalstī reģistrēta kredītiestāde, apdrošināšanas sabiedrība vai ieguldījumu brokeru sabiedrība;
+3) kuru kontrolē kāda fiziskā vai juridiskā persona, kas kontrolē arī citu dalībvalstī reģistrētu kredītiestādi, apdrošināšanas sabiedrību vai ieguldījumu brokeru sabiedrību.
+(2) Finanšu un kapitāla tirgus komisija pirms licences (atļaujas) izsniegšanas, kā arī licencētās kredītiestādes uzraudzības gaitā no attiecīgās dalībvalsts uzraudzības institūcijas pieprasa un novērtē informāciju par kredītiestādes akcionāru piemērotību un to kredītiestādes vadītāju reputāciju un pieredzi, kuri iesaistīti citu tās grupas uzņēmumu vadībā, kurā tiks iekļauta jaundibināmā kredītiestāde.

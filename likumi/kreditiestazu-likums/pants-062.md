@@ -3,3 +3,4 @@
 (3) (Izslēgta ar 26.05.2005. likumu.)
 (4) Ziņas par klientu, viņa kontiem un veiktajiem darījumiem saskaņā ar rakstveida līgumu sniedzamas trešajai personai, ja šādu ziņu sniegšanai trešajai personai klients nepārprotami piekritis ar kredītiestādi noslēgtajā līgumā.
 (5) Ziņas par klientu un viņa darījumiem, kuras kredītiestāde iegūst, sniedzot finanšu pakalpojumus saskaņā ar noslēgtajiem līgumiem, ir neizpaužamas ziņas, kas nesatur valsts noslēpumu.
+(6) Ziņas par klientu, viņa finanšu instrumentu kontiem un naudas kontiem, kas saistīti ar finanšu instrumentu norēķiniem, kā arī par veiktajiem darījumiem ar regulētajā tirgū iekļautajiem finanšu instrumentiem sniedzamas regulētā tirgus organizētājam pēc tā pieprasījuma, ja šīs ziņas ir nepieciešamas tirgus organizētājam, lai nodrošinātu iekšējās informācijas izmantošanas un tirgus manipulāciju novēršanai piešķirto uzraudzības funkciju veikšanu.
