@@ -1,0 +1,4 @@
+9.pants. (1) Finanšu un kapitāla tirgus komisija:
+1) šā likuma 14.panta pirmajā daļā noteiktajos gadījumos var neņemt vērā kādu no grupā ietilpstošajām regulētajām komercsabiedrībām, nosakot, vai grupas darbība apdrošināšanas sektorā vai banku sektorā un ieguldījumu pakalpojumu sektorā uzskatāma par nozīmīgu;
+2) lai izvairītos no pēkšņām uzraudzības režīma maiņām, grupā ietilpstošās komercsabiedrības var pakļaut šajā likumā noteiktajai papildu uzraudzībai vēl trīs gadus pēc tam, kad būtisku grupas struktūras izmaiņu rezultātā grupa vairs neatbilst šajā likumā noteiktajām finanšu konglomerāta pazīmēm.
+(2) Ja finanšu konglomerātā ietilpst regulētās komercsabiedrības ar juridiskajām adresēm dažādās dalībvalstīs, no kurām viena ir Latvija, un Finanšu un kapitāla tirgus komisija ir koordinators, tā ierosina pieņemt šā panta pirmajā daļā noteikto lēmumu, vienojoties visām nozīmīgajām uzraudzības institūcijām.

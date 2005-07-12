@@ -1,0 +1,2 @@
+III nodaļa
+Finanšu konglomerātā ietilpstošo regulēto komercsabiedrību papildu uzraudzība
