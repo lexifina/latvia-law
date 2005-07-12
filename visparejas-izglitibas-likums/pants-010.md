@@ -5,7 +5,7 @@
 2) izvēlas izglītošanas darba metodes un formas.
 (3) Vispārējās izglītības iestāde ir tiesīga patstāvīgi:
 1) īstenot interešu, tālākizglītības un citas izglītības programmas;
-2) izstrādāt iestādes iekšējās kārtības noteikumus;
+2) izstrādāt iestādes iekšējos normatīvos aktus;
 3) sniegt ēdināšanas pakalpojumus;
 4) sniegt dienesta viesnīcu, internātu pakalpojumus;
 5) veikt saimniecisko un citāda veida darbību, ja tas netraucē vispārējās izglītības programmu īstenošanu.

@@ -1,5 +1,5 @@
 60.pants. Sociālās vai pedagoģiskās korekcijas izglītības iestāžu dibināšana, klašu atvēršana un izglītojamo uzņemšana
-(1) Sociālās korekcijas izglītības iestādes ir Izglītības un zinātnes ministrijas pārziņā.
+(1) Sociālās korekcijas izglītības iestādes ir Izglītības un zinātnes ministrijas pakļautībā.
 (2) Pedagoģiskās korekcijas izglītības iestādes dibina valsts, pašvaldības, citas juridiskās un fiziskās personas.
 (3) Jebkura izglītības iestāde var atvērt klases izglītojamajiem, kuriem nepieciešama sociālā vai pedagoģiskā korekcija.
 (4) Uzņemšana sociālās korekcijas izglītības iestādēs notiek likumā noteiktajā kārtībā.
