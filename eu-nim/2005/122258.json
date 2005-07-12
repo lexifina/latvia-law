@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Finanšu konglomerātu likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "99",
+  "official_journal_page": null,
+  "official_journal_date": "2005-06-28",
+  "entry_into_force": "2005-07-12",
+  "notification_date": "2005-07-04",
+  "commission_reference": "MNE(2005)52258",
+  "nim_celex": "71973L0239LVA_122258",
+  "nim_id": "122258",
+  "transposes_celex": [
+    "31973L0239",
+    "31992L0049",
+    "31993L0006",
+    "31993L0022",
+    "31998L0078",
+    "32000L0012"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9376425e-29c5-4c16-bc3c-3eb35239ed6b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
