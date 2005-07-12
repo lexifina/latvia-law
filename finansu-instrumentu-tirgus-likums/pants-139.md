@@ -1,9 +1,9 @@
 139.pants. Ieguldījumu brokeru sabiedrību uzraudzība
-(1) Komisijai ir tiesības pārbaudīt ieguldījumu brokeru sabiedrību darbību, tai skaitā veikt iekšējās pārbaudes ieguldījumu brokeru sabiedrībās.
-(2) Komisijas pilnvaroti pārstāvji ne retāk kā reizi divos gados pārbauda ieguldījumu brokeru sabiedrības darbību.
+(1) Komisijai un tās pilnvarotajām personām ir tiesības pārbaudīt ieguldījumu brokeru sabiedrību darbību, tai skaitā veikt iekšējās pārbaudes ieguldījumu brokeru sabiedrībās.
+(2) (Izslēgta ar 09.06.2005. likumu.)
 (3) Komisijas pilnvarotiem pārstāvjiem ir tiesības iepazīties ar visiem ieguldījumu brokeru sabiedrības dokumentiem, grāmatvedības reģistriem un datu bāzēm, veikt no tiem izrakstus, izgatavot to norakstus (kopijas), kā arī saņemt no ieguldījumu brokeru sabiedrības pārvaldes institūciju locekļiem un citām atbildīgajām personām pārbaudes veikšanai nepieciešamos paskaidrojumus un informāciju.
 (4) Pēc Komisijas motivēta rakstveida pieprasījuma ieguldījumu brokeru sabiedrība iesniedz Komisijai dokumentu norakstus (kopijas) vai citu ar ieguldījumu brokeru sabiedrības darbību saistīto informāciju.
 (5) Par pārbaudes rezultātiem Komisija iesniedz ieguldījumu brokeru sabiedrībai rakstveida ziņojumu, kurā minēti pārkāpumi un sniegti norādījumi par nepieciešamajiem grozījumiem ieguldījumu brokeru sabiedrības turpmākajā darbībā.
-(6) Ja ieguldījumu brokeru sabiedrība nepiekrīt Komisijas pārbaudes atzinumam, tā ir tiesīga iesniegt sūdzību Komisijas padomei. Komisijas padome ir tiesīga noteikt jaunu pārbaudi vai lemt par grozījumu izdarīšanu pārbaudes atzinumā, vai arī noraidīt sūdzību.
+(6) Ja ieguldījumu brokeru sabiedrība nepiekrīt Komisijas ziņojumam par veikto pārbaudi, tā ir tiesīga iesniegt sūdzību Komisijas padomei. Komisijas padome ir tiesīga noteikt jaunu pārbaudi vai lemt par grozījumu izdarīšanu ziņojumā par veikto pārbaudi, vai arī noraidīt sūdzību.
 (7) Komisijai ir tiesības neatļaut ieguldījumu brokeru sabiedrībai nodibināt ciešas attiecības vai pieprasīt izbeigt ciešas attiecības ar trešajām personām, vai aizliegt darījumus ar tām, ja šādas attiecības var apdraudēt vai apdraud ieguldījumu brokeru sabiedrības finansiālo stabilitāti vai ierobežo Komisijas tiesības veikt likumā noteiktās uzraudzības funkcijas.
 (8) Komisijai ir tiesības atcelt ieguldījumu brokeru sabiedrības pārvaldes institūciju lēmumus par valdes un padomes (ja tāda ir izveidota) locekļu iecelšanu, ja tie neatbilst šā likuma prasībām.

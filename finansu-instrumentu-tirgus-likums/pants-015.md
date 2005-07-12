@@ -1,15 +1,4 @@
-15.pants. Atļauja izteikt publisko piedāvājumu
-(1) Publisko piedāvājumu drīkst izteikt tikai pēc tam, kad saņemts Komisijas lēmums par atļauju izteikt publisko piedāvājumu.
-(2) Lai saņemtu atļauju izteikt publisko piedāvājumu, emitents iesniedz atbildīgajai institūcijai iesniegumu, kuram pievieno:
-1) divus emisijas prospekta oriģināleksemplārus un emisijas prospekta tekstu elektroniskā veidā;
-2) emitenta pilnvarotas pārvaldes institūcijas lēmumu par attiecīgu pārvedamu vērtspapīru emisiju un publisko piedāvājumu.
-(3) Iesniegumā norāda:
-1) emitenta reģistrācijas numuru, vietu un iestādi, firmu, juridisko adresi, tālruņa numuru, kā arī faksa numuru un e-pasta adresi (ja tāda ir);
-2) pārvedamu vērtspapīru veidu, kategoriju, kopējo skaitu un viena pārvedama vērtspapīra nominālvērtību;
-3) prognozējamo pārdošanas vai izplatīšanas sākuma datumu.
-(4) Komisija izskata iesniegumu un tam pievienotos dokumentus un 15 dienu laikā pēc visu normatīvajos aktos noteikto un atbilstoši normatīvo aktu prasībām izstrādāto un noformēto dokumentu saņemšanas pieņem lēmumu par atļauju izteikt publisko piedāvājumu vai par atļaujas atteikumu.
-(5) Komisija pieņem lēmumu par atļaujas atteikumu, ja iesniegtajos dokumentos iekļautā informācija:
-1) neatbilst likumā un citos normatīvajos aktos noteiktajām prasībām;
-2) liecina, ka emisija neatbilst normatīvajos aktos noteiktajām prasībām.
-(6) Lēmumu par atļaujas atteikumu izsniedz emitentam vai personai, kas emitenta pilnvarojumā iesniegusi Komisijai iesniegumu par atļauju izteikt publisko piedāvājumu.
-(7) Pēc tam, kad pieņemts lēmums par atļauju izteikt publisko piedāvājumu, emisijas prospekts uzskatāms par reģistrētu Komisijā. Komisija ievieto lēmuma un emisijas prospekta tekstu savā mājas lapā internetā.
+15.pants. Emisijas prospekta publicēšanas pienākums
+(1) Izsakot publisko piedāvājumu par pārvedamiem vērtspapīriem, emitents vai publiskā piedāvājuma izteicējs sagatavo un publicē emisijas prospektu.
+(2) Izsakot publisko piedāvājumu par šā likuma 3.panta septītās daļas 2., 4., 8., 9. un 10.punktā minētajiem pārvedamiem vērtspapīriem, emitents vai publiskā piedāvājuma izteicējs ir tiesīgs brīvprātīgi sagatavot un publicēt emisijas prospektu saskaņā ar šā likuma C sadaļas prasībām.
+(3) Ja tālāk tiek pārdoti pārvedami vērtspapīri, par kuriem saskaņā ar šā likuma 16.panta otrās daļas nosacījumiem nebija jāpublicē emisijas prospekts, tad Komisija izvērtē, vai tas ir uzskatāms par publisku piedāvājumu šā likuma izpratnē. Izvietojot pārvedamus vērtspapīrus ar finanšu starpnieku palīdzību, piedāvājums ir uzskatāms par publisku piedāvājumu un emitentam vai publiskā piedāvājuma izteicējam ir pienākums publicēt emisijas prospektu, ja attiecībā uz galīgo izvietošanu nav izpildīts neviens no šā likuma 16.panta otrās daļas nosacījumiem.

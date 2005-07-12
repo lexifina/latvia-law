@@ -1,0 +1,1 @@
+13. Tie emitenti, kuri ir reģistrēti kādā ārvalstī un kuru pārvedami vērtspapīri jau ir iekļauti regulētajā tirgū, savu izcelsmes dalībvalsts kompetento institūciju izvēlas atbilstoši šā likuma prasībām un paziņo savu lēmumu izraudzītajai izcelsmes dalībvalsts kompetentajai institūcijai līdz 2005.gada 31.decembrim.

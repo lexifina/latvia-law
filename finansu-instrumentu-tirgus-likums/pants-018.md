@@ -1,5 +1,5 @@
-18.pants. Grozījumi emisijas prospektā
-(1) Emitents nekavējoties sagatavo grozījumus emisijas prospektā, ja laikā no emisijas prospekta iesniegšanas Komisijai līdz pārvedamu vērtspapīru sākotnējās izvietošanas termiņa beigām tam kļuvusi zināma jebkāda informācija, kas var ietekmēt ieguldītāja lēmumu par pārvedamu vērtspapīru iegūšanu vai šo vērtspapīru cenu.
-(2) Grozījumus emisijas prospektā un to tekstu elektroniskā veidā emitents iesniedz Komisijai un informāciju par grozījumiem nekavējoties publicē laikrakstā "Latvijas Vēstnesis".
-(3) Grozījumu teksts uzskatāms par emisijas prospekta neatņemamu sastāvdaļu, un tam vienmēr jābūt pieejamam kopā ar attiecīgo emisijas prospektu.
-(4) Emisijas prospekta grozījumu tekstu Komisija nekavējoties ievieto savā mājas lapā internetā.
+18.pants. Emisijas prospekta papildinājumi
+(1) Ja laikā no emisijas prospekta iesniegšanas Komisijai līdz pārvedamu vērtspapīru izvietošanas termiņa beigām rodas vai ir atklāti jebkādi svarīgi jauni apstākļi, būtiskas kļūdas vai neprecizitātes, kas saistītas ar emisijas prospektā iekļauto informāciju un var ietekmēt vērtspapīru novērtējumu, emitents vai publiskā piedāvājuma izteicējs sagatavo emisijas prospekta papildinājumus.
+(2) Emisijas prospekta papildinājumus un to tekstu elektroniskā veidā emitents vai publiskā piedāvājuma izteicējs iesniedz Komisijai, kas tos reģistrē septiņu darba dienu laikā pēc visu dokumentu saņemšanas. Emitents vai publiskā piedāvājuma izteicējs papildina arī kopsavilkumu un tā tulkojumu, ja nepieciešams ņemt vērā jauno informāciju, kas ietverta papildinājumos.
+(3) Emisijas prospekta papildinājumus publicē saskaņā ar šā likuma 21.panta prasībām. Papildinājumu teksts uzskatāms par neatņemamu emisijas prospekta sastāvdaļu, un tam vienmēr jābūt pieejamam kopā ar attiecīgo emisijas prospektu.
+(4) Ja ieguldītāji pirms emisijas prospekta papildinājumu publicēšanas jau ir piekrituši pirkt pārvedamus vērtspapīrus vai parakstīties uz tiem, viņiem ir tiesības divu darba dienu laikā vai emisijas prospektā noteiktajā termiņā, kas nav īsāks par divām darba dienām, pēc emisijas prospekta papildinājuma publicēšanas atsaukt savu piekrišanu.

@@ -1,6 +1,5 @@
 52.pants. Regulētajā tirgū iekļaujamo pārvedamu vērtspapīru reklamēšana
-(1) Regulētajā tirgū iekļaujamo pārvedamu vērtspapīru reklamēšanu drīkst uzsākt ar dienu, kad prospekts ir pieejams šā likuma 51.pantā noteiktajā kārtībā.
-(2) Reklāmā nedrīkst ietvert maldinošu informāciju vai informāciju, kas ir pretrunā ar prospektā norādītajām ziņām.
-(3) Reklāmā norāda vietu un laiku, kur un kad var iepazīties ar prospektu.
-(4) Sludinājumus, paziņojumus, plakātus un dokumentus, kuros reklamē pārvedamus vērtspapīrus, par kuru iekļaušanu regulētajā tirgū tirgus organizētājam ir iesniegts iesniegums, pirms publicēšanas nosūta attiecīgajam tirgus organizētājam. Tirgus organizētājam ir tiesības aizliegt to publicēšanu, ja nav ievērotas šā panta prasības.
-(5) Šā panta ceturtajā daļā noteikto informāciju emitents elektroniskā veidā nosūta tirgus organizētājam attiecīgā tirgus organizētāja noteiktajā kārtībā.
+(1) Regulētā tirgū iekļaujamo pārvedamu vērtspapīru reklāmā nedrīkst ietvert neprecīzu vai maldinošu informāciju vai informāciju, kas ir pretrunā ar prospektā norādītajām ziņām. Šai informācijai ir jāatbilst tai informācijai, kas ietverta prospektā, ja tas jau publicēts, vai informācijai, kura noteikti jāiekļauj prospektā, ja prospektu publicē vēlāk.
+(2) Informācijai, kas jebkādā veidā sniegta par pārvedamu vērtspapīru iekļaušanu regulētajā tirgū, jāatbilst tai informācijai, kas ietverta prospektā.
+(3) Reklāmā norāda to, ka prospekts ir vai tiks publicēts, kur un kad var iegūt prospektu. Reklāmai ir jābūt skaidri un nepārprotami atpazīstamai kā reklāmai.
+(4) Visai informācijai, kas attiecas uz pārvedamu vērtspapīru iekļaušanu regulētajā tirgū un kas, pat ja ne reklāmas nolūkā, izziņota mutvārdos vai rakstveidā, jāatbilst tai informācijai, kas ietverta prospektā.

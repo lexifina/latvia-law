@@ -1,0 +1,5 @@
+22.¹pants. Valodu lietošana
+(1) Ja publiskais piedāvājums tiks izteikts tikai Latvijā, emisijas prospektu sagatavo valsts valodā.
+(2) Ja publiskais piedāvājums tiks izteikts vienā vai vairākās dalībvalstīs, izņemot Latviju, emitents vai publiskā piedāvājuma izteicējs pēc savas izvēles emisijas prospektu sagatavo valodā, ko Komisija un attiecīgo uzņēmēju dalībvalstu kompetentās institūcijas ir atzinušas par pieņemamu, vai valodā, ko lieto starptautisko finanšu jomā.
+(3) Ja citas dalībvalsts emitents vai publiskā piedāvājuma izteicējs vēlas izteikt publisko piedāvājumu Latvijā, tam ir jāsagatavo emisijas prospekta kopsavilkums valsts valodā.
+(4) Ja publiskais piedāvājums tiks izteikts vairāk nekā vienā dalībvalstī, ieskaitot Latviju, emisijas prospektu sagatavo valsts valodā un pēc emitenta vai publiskā piedāvājuma izteicēja izvēles dara pieejamu valodā, ko attiecīgo uzņēmēju dalībvalstu kompetentās institūcijas ir atzinušas par pieņemamu, vai valodā, ko lieto starptautisko finanšu jomā.

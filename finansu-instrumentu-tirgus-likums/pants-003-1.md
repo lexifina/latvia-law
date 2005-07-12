@@ -1,0 +1,9 @@
+3.¹pants. Izcelsmes valsts noteikšana
+(1) Attiecībā uz ieguldījumu brokeru sabiedrībām izcelsmes valsts ir dalībvalsts, kurā ieguldījumu brokeru sabiedrība reģistrēta un saņēmusi licenci ieguldījumu pakalpojumu sniegšanai.
+(2) Attiecībā uz pārvedamu vērtspapīru emisiju, iekļaušanu regulētā tirgū vai publiska piedāvājuma izteikšanu izcelsmes valsts ir dalībvalsts, kurā:
+1) ir emitenta juridiskā adrese, izņemot šīs daļas 2.punktā minētos gadījumus;
+2) ir emitenta juridiskā adrese vai kurā ir vai tiks atļauta pārvedamu vērtspapīru tirdzniecība regulētā tirgū, vai kurā pārvedami vērtspapīri ir publiski piedāvāti pēc emitenta, publiskā piedāvājuma izteicēja vai tādas personas izvēles, kas lūdz pārvedamus vērtspapīrus iekļaut regulētajā tirgū, ja:
+a) pārvedama vērtspapīra, kas nav kapitāla vērtspapīrs, nominālvērtība ir vismaz 1000 eiru,
+b) tie ir tādi pārvedami vērtspapīri, kuri nav kapitāla vērtspapīri un kuru konversija vai tajos nostiprināto tiesību izmantošana ļauj iegādāties pārvedamus vērtspapīrus vai saņemt par tiem naudu, ja šo pārvedamo vērtspapīru emitents vienlaikus nav arī pašu bāzes pārvedamu vērtspapīru emitents;
+3) pārvedami vērtspapīri ir publiski piedāvāti pirmo reizi pēc 2003.gada 31.decembra vai kurā ir iesniegts pirmais pieteikums atļaut tirdzniecību regulētā tirgū attiecīgi pēc emitenta, publiskā piedāvājuma izteicēja vai tādas personas izvēles, kura lūdz iekļaut pārvedamus vērtspapīrus regulētajā tirgū. Šā punkta prasības piemērojamas tiem ārvalstīs reģistrētajiem pārvedamu vērtspapīru emitentiem, kas nav minēti šā panta otrās daļas 2.punktā. Ārvalstī reģistrētam emitentam ir tiesības mainīt izcelsmes valsti, ja sākotnēji tā netika noteikta pēc emitenta izvēles.
+(3) Šā panta otrās daļas 2.punkta prasības piemēro arī tādiem pārvedamiem vērtspapīriem, kuri nav kapitāla vērtspapīri un kuru nominālvērtība ir noteikta nevis eirās, bet citā valūtā, ja to mazākā nominālvērtība ir līdzvērtīga 1000 eirām.

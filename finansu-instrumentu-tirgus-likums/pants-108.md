@@ -9,7 +9,8 @@
 6) nav iespējams pārliecināties par to personu identitāti, reputāciju un finansiālā stāvokļa stabilitāti, kurām ieguldījumu brokeru sabiedrībā ir būtiska līdzdalība;
 7) Komisija konstatē, ka finanšu līdzekļi, kurus iegulda ieguldījumu brokeru sabiedrības kapitālā, iegūti neparastos vai aizdomīgos finanšu darījumos vai nav dokumentāri pierādīta šo finanšu līdzekļu tiesiska ieguve.
 (3) Ja Komisija pieņēmusi lēmumu par atteikumu izsniegt licenci, atkārtoti iesniegumu licences saņemšanai var iesniegt pēc visu atteikumā minēto trūkumu novēršanas.
-(4) Komisija konsultējas ar dalībvalstu uzraudzības institūcijām pirms licences izsniegšanas:
-1) dalībvalstī reģistrētas ieguldījumu brokeru sabiedrības vai kredītiestādes meitas sabiedrībai;
-2) tādai ieguldījumu brokeru sabiedrībai, kuras mātes sabiedrība ir dalībvalstī reģistrēta ieguldījumu brokeru sabiedrība vai kredītiestāde;
-3) tādai ieguldījumu brokeru sabiedrībai vai kredītiestādei, kuru kontrolē persona, kas kontrolē arī citu ieguldījumu brokeru sabiedrību vai kredītiestādi kādā no dalībvalstīm.
+(4) Komisija konsultējas ar attiecīgās dalībvalsts uzraudzības institūciju pirms licences izsniegšanas tādai ieguldījumu brokeru sabiedrībai:
+1) kura ir dalībvalstī licencētas ieguldījumu brokeru sabiedrības, kredītiestādes vai apdrošināšanas sabiedrības meitas sabiedrība;
+2) kura ir meitas sabiedrība tādai mātes sabiedrībai, kuras cita meitas sabiedrība ir dalībvalstī licencēta ieguldījumu brokeru sabiedrība, kredītiestāde vai apdrošināšanas sabiedrība;
+3) kuru kontrolē persona, kas kontrolē arī citu dalībvalstī licencētu ieguldījumu brokeru sabiedrību, kredītiestādi vai apdrošināšanas sabiedrību.
+(5) Komisija pirms licences izsniegšanas, kā arī licencētas ieguldījumu brokeru sabiedrības uzraudzības gaitā no attiecīgās dalībvalsts uzraudzības institūcijas pieprasa un novērtē informāciju par ieguldījumu brokeru sabiedrības akcionāru piemērotību un valdes locekļu reputāciju un pieredzi, ja šīs personas ir iesaistītas citu tās grupas komercsabiedrību vadībā, kurā tiks iekļauta attiecīgā ieguldījumu brokeru sabiedrība.

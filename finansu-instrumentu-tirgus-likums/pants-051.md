@@ -1,7 +1,13 @@
 51.pants. Prospekta izplatīšanas kārtība
-(1) Prospektu aizliegts izplatīt pirms tā reģistrācijas Komisijā.
+(1) Prospektu aizliegts izplatīt pirms tā reģistrācijas Komisijā. Emitents vai persona, kas lūdz pārvedamu vērtspapīru iekļaušanu regulētajā tirgū šajā likumā noteiktajā kārtībā, tiklīdz tas iespējams, publisko šo prospektu, taču jebkurā gadījumā savlaicīgi pirms pārvedamu vērtspapīru iekļaušanas regulētajā tirgū, bet ne vēlāk kā dienā, kad pieņemts lēmums par pārvedamu vērtspapīru iekļaušanu regulētajā tirgū.
 (2) Pēc tam, kad ir pieņemts lēmums par pārvedamu vērtspapīru iekļaušanu regulētajā tirgū, tirgus organizētājs nekavējoties ievieto lēmuma un prospekta tekstu savā mājas lapā internetā.
-(3) Ievietojot prospektu tirgus organizētāja mājas lapā internetā, norāda vismaz šādu informāciju:
-1) tā regulētā tirgus nosaukumu, kurā pārvedami vērtspapīri tiks tirgoti;
-2) informāciju, kas atbilstoši šā likuma 50.panta piektās, sestās un septītās daļas prasībām ietverta lēmumā par pārvedamu vērtspapīru iekļaušanu regulētajā tirgū;
-3) laiku, kad attiecīgā tirgus organizētāja telpās iespējams bez maksas iepazīties ar prospektu, iegūt prospekta norakstu (kopiju).
+(3) Prospekts tiek uzskatīts par pieejamu sabiedrībai, kad tas ir publicēts:
+1) ievietojot vienā vai vairākos laikrakstos, kas tiek izplatīti visās dalībvalstīs vai kas ir plašā apgrozībā dalībvalstīs, kurās pārvedami vērtspapīri tiek iekļauti regulētā tirgū, vai
+2) drukātā veidā. Šādā gadījumā tas bez maksas jādara pieejams sabiedrībai tā regulētā tirgus organizētāja birojā, kurā pārvedami vērtspapīri tiek iekļauti organizētajā regulētajā tirgū, vai emitenta juridiskās adreses birojā un to finanšu starpnieku birojos, kuri izvieto vai pārdod pārvedamus vērtspapīrus, tajā skaitā pie pilnvarotajiem maksātājiem, vai
+3) elektroniskā veidā emitenta mājas lapā internetā un to attiecīgo finanšu starpnieku mājas lapās internetā, kuri izvieto vai pārdod pārvedamus vērtspapīrus, tajā skaitā pie pilnvarotajiem maksātājiem, vai
+4) elektroniskā veidā tā regulētā tirgus organizētāja mājas lapā internetā, kurā ir lūgta pārvedamu vērtspapīru iekļaušana regulētajā tirgū.
+(4) Komisija ir tiesīga pieprasīt emitentiem vai personām, kuras lūdz pārvedamu vērtspapīru iekļaušanu regulētajā tirgū un publicē savus prospektus saskaņā ar šā panta trešās daļas 1. vai 2. punktu, arī publicēt prospektus elektroniskā veidā atbilstoši šā panta trešās daļas 3. punktam. Tāpat Komisija ir tiesīga pieprasīt publicēt paziņojumu, kurā jānorāda, kā prospekts ir darīts pieejams sabiedrībai un kur sabiedrība to var iegūt.
+(5) Gadījumā, kad prospektu veido vairāki dokumenti vai tajā ir iekļauta informācija atsauces veidā, dokumentus un informāciju, kas veido prospektu, var publicēt atsevišķi, ja minētie dokumenti ir bez maksas darīti pieejami sabiedrībai šā panta trešajā daļā noteiktajā kārtībā. Katrā dokumentā norāda, kur var iegūt citus pilnu prospektu veidojošos dokumentus.
+(6) Prospekta un prospekta papildinājumu tekstam, kas publicēts vai darīts pieejams sabiedrībai, un formātam jābūt identiskiem to sākotnējai versijai, kas reģistrēta Komisijā.
+(7) Ja prospektu publicē elektroniskā veidā, emitentam vai personai, kas lūdz pārvedamu vērtspapīru iekļaušanu regulētajā tirgū, prospekts papīra formā bez maksas jāizsniedz ieguldītājam pēc tā pieprasījuma.
+(8) Komisija reizi gadā savā mājas lapā internetā publicē to prospektu sarakstu, kurus tā ir reģistrējusi pēdējo 12 mēnešu laikā.

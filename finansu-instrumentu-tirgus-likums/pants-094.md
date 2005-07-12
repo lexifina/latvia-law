@@ -1,16 +1,17 @@
 94.pants. Centrālā depozitārija noteikumi
-(1) Centrālā depozitārija noteikumi ir dokumenti, kuros izvirzītas prasības, kas jāievēro tā dalībniekiem un emitentiem, kuru finanšu instrumenti ir iegrāmatoti Centrālajā depozitārijā.
+(1) Centrālā depozitārija noteikumi ir dokumenti, kuros izvirzītas prasības, kas jāievēro tā dalībniekiem un emitentiem, kuru finanšu instrumenti ir iegrāmatoti Centrālajā depozitārijā, un šā likuma 94.panta otrās daļas 1., 5. un 6.punktā minētajos jautājumos arī tām ieguldījumu brokeru sabiedrībām un kredītiestādēm, kuras nav Centrālā depozitārija dalībnieki, bet veic Centrālajā depozitārijā iegrāmatotu finanšu instrumentu turēšanu.
 (2) Lai nodrošinātu šajā likumā paredzēto funkciju izpildi, Centrālais depozitārijs noteikumos reglamentē vismaz:
 1) finanšu instrumentu iegrāmatošanas un uzskaites kārtību;
-2) Centrālā depozitārija dalībnieku uzņemšanas un izslēgšanas kārtību, biedru tiesības un pienākumus, kā arī biedra statusa apturēšanas kārtību;
+2) Centrālā depozitārija dalībnieku uzņemšanas un izslēgšanas kārtību, dalībnieku tiesības un pienākumus, kā arī dalībnieka statusa apturēšanas kārtību;
 3) kārtību, kādā ieguldījumu brokeru sabiedrības un kredītiestādes var atvērt finanšu instrumentu kontus Centrālajā depozitārijā;
 4) kārtību, kādā veicami norēķini par darījumiem ar Centrālajā depozitārijā iegrāmatotiem finanšu instrumentiem;
 5) dividenžu, procentu, pamatsummu un citu ar Centrālajā depozitārijā iegrāmatotiem finanšu instrumentiem saistītu ienākumu izmaksas kārtību;
 6) kārtību, kādā Centrālā depozitārija dalībnieks emitenta statusā var noskaidrot personas, kurām pieder vai kuru turējumā atrodas Centrālajā depozitārijā iegrāmatoti finanšu instrumenti;
 7) Centrālajā depozitārijā iegrāmatotu finanšu instrumentu ieķīlāšanas kārtību;
+7¹) sākotnējā reģistra izveidošanas un kārtošanas kārtību;
 8) citus jautājumus, kas saistīti ar Centrālā depozitārija funkciju izpildi.
-(3) Šā panta otrajā daļā paredzētos noteikumus un to grozījumus Centrālais depozitārijs iesniedz Komisijai.
-(4) Ja 30 dienu laikā no noteikumu vai to grozījumu iesniegšanas dienas Centrālais depozitārijs nav saņēmis Komisijas iebildumus, tas publicē attiecīgos noteikumus vai to grozījumus laikrakstā "Latvijas Vēstnesis".
-(5) Centrālā depozitārija noteikumi stājas spēkā nākamajā dienā pēc to publicēšanas laikrakstā "Latvijas Vēstnesis", ja attiecīgajos noteikumos vai to grozījumos nav noteikts citādi.
-(6) Noteikumus un to grozījumus pēc publicēšanas laikrakstā "Latvijas Vēstnesis" Centrālais depozitārijs ievieto savā mājas lapā internetā.
-(7) Noteikumus, kuros reglamentēta datu apmaiņas kārtība starp Centrālo depozitāriju un tā dalībniekiem, vai to grozījumus Centrālais depozitārijs ir tiesīgs nepublicēt laikrakstā "Latvijas Vēstnesis". Šādi noteikumi stājas spēkā, ja 30 dienu laikā no to iesniegšanas dienas Centrālais depozitārijs nav saņēmis Komisijas iebildumus.
+(3) Centrālais depozitārijs izstrādā šā panta otrajā daļā paredzēto noteikumu projektu un iesniedz to Komisijai. Komisija izvērtē noteikumu (arī noteikumu grozījumu, ja tie ir nepieciešami) projekta atbilstību likumu, citu normatīvo aktu prasībām un Centrālā depozitārija funkciju sekmīgai izpildei un 30 dienu laikā no projekta iesniegšanas dienas sagatavo par to atzinumu. Ja atzinumā nav izteikti iebildumi, Centrālais depozitārijs ir tiesīgs lemt par noteikumu apstiprināšanu.
+(4) Centrālais depozitārijs noteikumus un šo noteikumu grozījumus ievieto savā mājas lapā internetā nekavējoties pēc to apstiprināšanas Centrālā depozitārija padomē. Centrālā depozitārija noteikumi un šo noteikumu grozījumi stājas spēkā nākamajā dienā pēc to ievietošanas Centrālā depozitārija mājas lapā internetā, ja noteikumos nav paredzēts cits spēkā stāšanās termiņš. Par noteikumu apstiprināšanu Centrālais depozitārijs nekavējoties informē Komisiju.
+(5) (Izslēgta ar 09.06.2005. likumu.)
+(6) (Izslēgta ar 09.06.2005. likumu.)
+(7) (Izslēgta ar 09.06.2005. likumu.)

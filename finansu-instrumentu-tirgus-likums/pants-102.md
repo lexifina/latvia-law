@@ -5,3 +5,12 @@
 (4) Dalībvalstīs reģistrētas ieguldījumu brokeru sabiedrības ir tiesīgas uzsākt ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšanu Latvijas Republikā šā likuma 112.pantā noteiktajā kārtībā.
 (5) Ieguldījumu brokeru sabiedrība nedrīkst veikt komercdarbību, kas nav saistīta ar ieguldījumu pakalpojumu, ieguldījumu blakuspakalpojumu vai citu finanšu pakalpojumu sniegšanu.
 (6) Ieguldījumu brokeru sabiedrības firmā iekļaujama vārdkopa "ieguldījumu brokeru sabiedrība" vai tās saīsinājums "IBS". Tikai sabiedrībai, kas sniedz ieguldījumu pakalpojumus, ir tiesības firmā izmantot vārdkopu "ieguldījumu brokeru sabiedrība" vai tās saīsinājumu "IBS".
+(7) Ieguldījumu brokeru sabiedrībai, ievērojot šā likuma F¹ sadaļā noteikto kārtību, ir tiesības deleģēt ārpakalpojumu sniedzējam šādu ārpakalpojumu veikšanu:
+1) grāmatvedības kārtošanu;
+2) informācijas tehnoloģiju vai sistēmu pārvaldību vai attīstību;
+3) iekšējās kontroles organizēšanu;
+4) ieguldījumu pakalpojuma un ieguldījumu blakuspakalpojuma vai kāda būtiska tā elementa sniegšanu.
+(8) Ieguldījumu brokeru sabiedrība iekšējā revīzijas dienesta pienākumus kā ārpakalpojumu var deleģēt vienīgi zvērinātam revidentam vai zvērinātu revidentu komercsabiedrībai.
+(9) Ieguldījumu brokeru sabiedrība nedrīkst:
+1)deleģēt saskaņā ar normatīvajiem aktiem vai sabiedrības statūtiem noteiktos ieguldījumu brokeru sabiedrības pārvaldes institūciju pienākumus;
+2) licencē atļauto ieguldījumu pakalpojumu vai ieguldījumu blakuspakalpojumu sniegšanu pilnībā nodot ārpakalpojumu sniedzējiem.

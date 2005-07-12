@@ -1,6 +1,5 @@
 24.pants. Publiskā piedāvājuma reklamēšana
-(1) Publiskā piedāvājuma reklamēšanu drīkst uzsākt tikai pēc tam, kad publicēta šā likuma 21.panta trešajā daļā noteiktā informācija.
-(2) Reklāmā norāda vietu un laiku, kur un kad var iepazīties ar emisijas prospektu.
-(3) Pārvedamu vērtspapīru publiskā piedāvājuma laikā emitents vai tā pilnvarota persona nedrīkst izplatīt informāciju, kura nav ietverta emisijas prospektā vai šā prospekta grozījumos vai nepatiesi atspoguļo emisijas prospektā sniegto informāciju, vai ir pretrunā ar to.
-(4) Sludinājumu, paziņojumu, plakātu un citu publisko piedāvājumu reklamējošu dokumentu tekstu elektroniskā veidā nosūta Komisijai ne vēlāk kā piecas darbdienas pirms to publicēšanas.
-(5) Komisijai ir tiesības aizliegt šā panta ceturtajā daļā minēto dokumentu publicēšanu, ja nav ievērotas šajā pantā noteiktās prasības.
+(1) Publiskā piedāvājuma reklāmā norāda to, ka emisijas prospekts ir vai tiks publicēts, kur un kad var iegūt emisijas prospektu. Reklāmai ir jābūt skaidri un nepārprotami atpazīstamai kā reklāmai.
+(2) Emitents vai publiskā piedāvājuma izteicējs nedrīkst izplatīt informāciju par pārvedamu vērtspapīru publisko piedāvājumu, kura ir neprecīza vai maldinoša un kura nav iekļauta emisijas prospektā vai šā prospekta papildinājumos. Šai informācijai ir jāatbilst tai informācijai, kura iekļauta emisijas prospektā, ja tas jau publicēts, vai informācijai, kura noteikti jāiekļauj emisijas prospektā, ja emisijas prospektu publicē vēlāk.
+(3) Ja atbilstoši šā likuma prasībām emisijas prospekts nav jāsagatavo, būtisku informāciju, ko sniedz emitents vai publiskā piedāvājuma izteicējs un kas adresēta kvalificētajiem ieguldītājiem vai īpašām ieguldītāju kategorijām, tajā skaitā informāciju par sanāksmēm, kuras attiecas uz vērtspapīru piedāvājumiem, izziņo visiem kvalificētajiem ieguldītājiem vai īpašām ieguldītāju kategorijām, kurām piedāvājums ir sevišķi adresēts.
+(4) Visai informācijai, kas attiecas uz publisko piedāvājumu un kas, pat ja ne reklāmas nolūkā, izziņota mutvārdos vai rakstveidā, jāatbilst tai informācijai, kas ietverta emisijas prospektā.

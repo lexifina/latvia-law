@@ -1,15 +1,12 @@
-21.pants. Emisijas prospekta izplatīšanas kārtība
+21.pants. Emisijas prospekta publicēšanas kārtība
 (1) Emisijas prospektu aizliegts izplatīt, pirms Komisija pieņēmusi lēmumu par atļauju izteikt publisko piedāvājumu.
-(2) Emitents vai tā pilnvarota persona nodrošina, ka vismaz vienu darbdienu pirms dienas, kad tiek uzsākta parakstīšanās uz pārvedamiem vērtspapīriem, visām ieinteresētajām personām ir iespēja šā panta trešajā daļā noteiktajā kārtībā norādītajās vietās un norādītajā laikā bez maksas iepazīties ar emisijas prospektu vai iegūt emisijas prospekta norakstu (kopiju).
-(3) Ne vēlāk kā vienu darbdienu pirms dienas, kad iespējams uzsākt parakstīšanos uz pārvedamiem vērtspapīriem, emitents publicē laikrakstā "Latvijas Vēstnesis" šādu informāciju:
-1) emitenta reģistrācijas numuru, vietu un iestādi, firmu, juridisko adresi, tālruņa numuru, kā arī faksa numuru un e-pasta adresi (ja tāda ir);
-2) gadījumos, kad emitents izsaka publisko piedāvājumu ar pilnvarotas personas starpniecību, - emitenta pilnvarotas personas firmu, reģistrācijas numuru, vietu un iestādi, juridisko adresi, tālruņa numuru, kā arī faksa numuru un e-pasta adresi (ja tāda ir);
-3) datumu, kad pieņemts lēmums par atļauju izteikt publisko piedāvājumu;
-4) pārvedamu vērtspapīru veidu, kategoriju un kopējo skaitu;
-5) viena pārvedama vērtspapīra nominālvērtību un pārdošanas cenu;
-6) dienu, kurā uzsāk parakstīšanos uz pārvedamiem vērtspapīriem;
-7) dienu, kurā beidzas parakstīšanās uz pārvedamiem vērtspapīriem (ja tāda ir noteikta);
-8) vietas, kur iespējams iepazīties ar emisijas prospektu, un vietas, kur iespējams parakstīties uz pārvedamiem vērtspapīriem vai tos iegūt;
-9) laiku, kad iespējams iepazīties ar emisijas prospektu un kad iespējams parakstīties uz pārvedamiem vērtspapīriem vai tos iegūt.
-(4) Pēc tam, kad saņemts Komisijas lēmums par atļauju izteikt publisko piedāvājumu, publiskā piedāvājuma noteikumus drīkst grozīt tikai ar Komisijas iepriekšēju rakstveida atļauju.
-(5) Informāciju par grozījumiem publiskā piedāvājuma noteikumos publicē šā panta trešajā daļā noteiktajā kārtībā.
+(2) Emitents vai publiskā piedāvājuma izteicējs šā likuma 14.panta pirmajā daļā noteiktajā kārtībā, tiklīdz tas iespējams, dara pieejamu sabiedrībai emisijas prospektu, taču jebkurā gadījumā laikus pirms publiskā piedāvājuma, bet ne vēlāk kā publiskā piedāvājuma sākumā.
+(3) Tādu viena veida un vienas kategorijas pārvedamu vērtspapīru publiskā piedāvājuma gadījumā, kuri tiks iekļauti regulētajā tirgū pirmo reizi, prospektam jābūt pieejamam vismaz sešas darba dienas pirms piedāvājuma beigām. Šī prasība nav spēkā, ja saskaņā ar šā likuma 17.panta astoto daļu ir sagatavots viens prospekts.
+(4) Emisijas prospekts tiek uzskatīts par pieejamu sabiedrībai, kad tas ir publicēts:
+1) ievietojot vienā vai vairākos laikrakstos, kas tiek izplatīti visās dalībvalstīs vai kas ir plašā apgrozībā dalībvalstīs, kurās ir izteikts publiskais piedāvājums, vai
+2) elektroniskā veidā emitenta mājas lapā internetā un to attiecīgo finanšu starpnieku mājas lapās internetā, kuri izvieto vai pārdod pārvedamus vērtspapīrus, tajā skaitā pie pilnvarotajiem maksātājiem, vai
+3) elektroniskā veidā Komisijas mājas lapā internetā.
+(5) Komisija ir tiesīga pieprasīt emitentiem, kas publicē savus emisijas prospektus saskaņā ar šā panta ceturtās daļas 1.punktu, arī publicēt emisijas prospektus elektroniskā veidā atbilstoši šā panta ceturtās daļas 2.punktam. Tāpat Komisija ir tiesīga pieprasīt, lai tiek publicēts paziņojums, kurā jānorāda, kā emisijas prospekts ir darīts pieejams sabiedrībai un kur sabiedrība to var iegūt.
+(6) Gadījumā, kad emisijas prospektu veido vairāki dokumenti vai tajā ir iekļauta informācija atsauces veidā, dokumentus un informāciju, kas veido emisijas prospektu, var publicēt atsevišķi, ja minētie dokumenti ir bez maksas darīti pieejami sabiedrībai šā panta ceturtajā daļā noteiktajā kārtībā. Katrā dokumentā norāda, kur var iegūt citus pilnu emisijas prospektu veidojošos dokumentus.
+(7) Emisijas prospekta un emisijas prospekta papildinājumu tekstam, kas publicēts vai darīts pieejams sabiedrībai, un formātam jābūt identiskiem to sākotnējai redakcijai, kas reģistrēta Komisijā.
+(8) Ja emisijas prospektu publicē elektroniskā veidā, emitentam, publiskā piedāvājuma izteicējam vai finanšu starpniekam, kas izvieto vai pārdod pārvedamus vērtspapīrus, prospekts papīra formā bez maksas jāizsniedz ieguldītājam pēc tā pieprasījuma.

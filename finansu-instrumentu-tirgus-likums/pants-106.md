@@ -24,4 +24,5 @@
 (5) Ieguldījumu brokeru sabiedrības daļu īpašnieki (akcionāri) var būt tikai personas:
 1) kurām ir nevainojama reputācija;
 2) kurām ir pietiekami finanšu līdzekļi, kuru ieguves tiesiskumu iespējams dokumentāri pierādīt;
-3) kuru identitāti ir iespējams pārbaudīt.
+3) kuras iespējams identificēt.
+(6) Ieguldījumu brokeru sabiedrības pārvaldes institūcijai ir pienākums pašai vai pēc Komisijas pieprasījuma nekavējoties atsaukt no amata valdes vai padomes locekļus, ja tie neatbilst šā likuma prasībām.

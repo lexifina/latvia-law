@@ -1,6 +1,6 @@
 135.pants. Reģistrācija Komisijā
 (1) Komisija reģistrē ārvalsts sabiedrību tikai pēc tam, kad ar tās reģistrācijas valsts uzraudzības institūciju noslēgts līgums par tās informācijas apmaiņu, kura Komisijai nepieciešama ārvalsts sabiedrības uzraudzības veikšanai.
-(2) Šā panta pirmajā daļā minētā līguma noslēgšana nav nepieciešama, ja attiecīgās ārvalsts uzraudzības institūcijai ir pienākums sniegt Komisijai informāciju Starptautiskās vērtspapīru tirgus organizācijas dalībvalstu noslēgtā līguma ietvaros.
+(2) Šā panta pirmajā daļā minētā līguma noslēgšana nav nepieciešama, ja attiecīgās ārvalsts uzraudzības institūcijai ir pienākums sniegt Komisijai informāciju Starptautiskās vērtspapīru komisiju organizācijas dalībvalstu noslēgtā līguma ietvaros.
 (3) Ārvalsts sabiedrība vai dalībvalsts sabiedrība iesniedz reģistrācijai Komisijā šādus dokumentus:
 1) iesniegumu, kurā norāda:
 a) sabiedrības firmu,

@@ -1,0 +1,1 @@
+4.¹ Tās akciju sabiedrības, kuru akcijas ir laistas publiskajā apgrozībā līdz šā likuma spēkā stāšanās dienai, bet nav iekļautas regulētajā tirgū un kuras ir pieņēmušas lēmumu par akciju iekļaušanu regulētajā tirgū, līdz 2005.gada 31.decembrim iesniedz Komisijai šā likuma 48.panta pirmajā un otrajā daļā noteiktos dokumentus.

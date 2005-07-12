@@ -9,6 +9,7 @@
 6) izdot ieguldījumu brokeru sabiedrībām un kredītiestādēm, kas Centrālajā depozitārijā atvērušas kontus, iegrāmatojumus apliecinošus dokumentus par tiem finanšu instrumentiem, kuri iegrāmatoti ieguldījumu brokeru sabiedrību un kredītiestāžu kontos Centrālajā depozitārijā;
 7) organizēt un vadīt norēķinu operācijas ar finanšu instrumentiem;
 8) reģistrēt ķīlas tiesības darījumos, kuros ķīlas devējs ir ieguldījumu brokeru sabiedrība vai kredītiestāde, kas Centrālajā depozitārijā atvērusi finanšu instrumentu kontu, un kuros ķīlas priekšmets ir Centrālajā depozitārijā iegrāmatoti finanšu instrumenti;
-9) saskaņā ar Centrālā depozitārija noteikumiem kontrolēt Centrālā depozitārija dalībnieku darbību.
-(3) Šā panta otrajā daļā minētās funkcijas Latvijas Republikā ir tiesīgs veikt tikai Centrālais depozitārijs.
+9) saskaņā ar Centrālā depozitārija noteikumiem kontrolēt Centrālā depozitārija dalībnieku darbību;
+10) kārtot sākotnējo reģistru.
+(3) Šā panta otrajā daļā, izņemot 3.punktu, minētās funkcijas Latvijas Republikā ir tiesīgs veikt tikai Centrālais depozitārijs.
 (4) Centrālajam depozitārijam ir tiesības sniegt arī citus pakalpojumus.

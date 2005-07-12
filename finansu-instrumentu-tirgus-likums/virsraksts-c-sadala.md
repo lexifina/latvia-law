@@ -1,2 +1,2 @@
 C sadaļa
-Sākotnējā publiskā piedāvājuma izteikšana
+Publiskā piedāvājuma izteikšana

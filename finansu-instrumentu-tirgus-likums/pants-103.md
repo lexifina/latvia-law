@@ -1,8 +1,9 @@
 103.pants. Kredītiestādes tiesības sniegt ieguldījumu pakalpojumus un ieguldījumu blakuspakalpojumus
 (1) Latvijas Republikā reģistrētas bankas, ārvalstu banku filiāles, kas likumā noteiktajā kārtībā saņēmušas licenci kredītiestādes darbībai, pirms ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšanas uzsākšanas iesniedz Komisijai šādus dokumentus:
-1) finanšu instrumentu uzskaites kārtību;
+1) ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšanas un kontroles procedūras aprakstu;
 2) finanšu instrumentu uzskaites datu bāzes aizsardzības noteikumus;
-3) tās struktūrvienības nolikumu, kura sniedz ieguldījumu pakalpojumus. Ja paredzēta ieguldījumu pakalpojumu sniegšana kredītiestādes filiālēs vai tām pēc būtības pielīdzināmās struktūrvienībās, kredītiestāde nolikumā nosaka arī ieguldījumu pakalpojumu sniegšanu šajās struktūrvienībās.
+2¹) to darījumu identificēšanas procedūras aprakstu, kas veikti, izmantojot iekšējo informāciju vai nolūkā veikt tirgus manipulācijas finanšu instrumentu tirgū;
+3) tās struktūrvienības nolikumu, kura sniedz ieguldījumu pakalpojumus un ieguldījumu blakuspakalpojumus. Ja paredzēta ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšana kredītiestādes filiālēs vai tām pēc būtības pielīdzināmās struktūrvienībās, kredītiestāde nolikumā nosaka arī ieguldījumu pakalpojumu un blakuspakalpojumu sniegšanu šajās struktūrvienībās.
 (2) Latvijas Republikā reģistrētas bankas un ārvalstu banku filiāles ir tiesīgas uzsākt ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšanu, ja 30 dienu laikā no šā panta pirmajā daļā minēto dokumentu iesniegšanas dienas nav saņēmušas Komisijas iebildumus.
 (3) Jaundibināmas bankas un jaunatveramas ārvalstu banku filiāles, kuras vēlas sniegt ieguldījumu pakalpojumus un ieguldījumu blakuspakalpojumus, šā panta pirmajā daļā minētos dokumentus iesniedz Komisijai vienlaikus ar pārējiem dokumentiem, ko tās saskaņā ar likumiem un citiem normatīvajiem aktiem iesniedz Komisijai, lai saņemtu licenci kredītiestādes darbības uzsākšanai.
 (4) Dalībvalstīs reģistrētas kredītiestādes ir tiesīgas uzsākt ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšanu Latvijas Republikā pēc tam, kad saskaņā ar likumu tās ir tiesīgas uzsākt kredītiestādes darbību Latvijas Republikā, atverot filiāli vai bez filiāles atvēršanas.

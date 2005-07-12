@@ -1,8 +1,11 @@
 101.pants. Tiesības sniegt ieguldījumu pakalpojumus un ieguldījumu blakuspakalpojumus
 (1) Ieguldījumu pakalpojumus Latvijas Republikā ir tiesīgas sniegt tikai ieguldījumu brokeru sabiedrības un kredītiestādes, kā arī atvērtos ieguldījumu fondus pārvaldošās sabiedrības to darbību regulējošajos normatīvajos aktos noteiktajā kārtībā.
 (2) Par kredītiestādēm šā likuma F sadaļas izpratnē uzskatāmas Latvijas Republikā reģistrētas bankas un ārvalstu banku filiāles, kā arī dalībvalstīs reģistrētas kredītiestādes.
-(3) Par ieguldījumu brokeru sabiedrībām šā likuma F sadaļas izpratnē uzskatāmas Latvijas Republikā un dalībvalstīs reģistrētas ieguldījumu brokeru sabiedrības.
-(4) Par ieguldījumu pakalpojumiem, kas tiek sniegti Latvijas Republikā, uzskatāmi tādi ieguldījumu pakalpojumi, kuru reklamēšanas vai piedāvāšanas valoda, veids vai saturs liecina par to, ka attiecīgais pakalpojums tiek piedāvāts Latvijas Republikas rezidentiem.
+(3) Par ieguldījumu brokeru sabiedrībām šā likuma F sadaļas izpratnē uzskatāmas Latvijas Republikā reģistrētas ieguldījumu brokeru sabiedrības un ārvalstu ieguldījumu brokeru sabiedrību filiāles, kā arī dalībvalstīs reģistrētas ieguldījumu brokeru sabiedrības.
+(4) Par ieguldījumu pakalpojumiem un ieguldījumu blakuspakalpojumiem, kas tiek sniegti Latvijas Republikā, uzskatāmi ieguldījumu pakalpojumi un ieguldījumu blakuspakalpojumi, ja tos:
+1) sniedz Latvijas Republikā reģistrēta komercsabiedrība;
+2) sniedz ārpus Latvijas Republikas reģistrēta komercsabiedrība vai fiziskā persona, kuras dzīvesvieta nav Latvijas Republikā, bet ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu reklamēšanas vai piedāvāšanas valoda, veids vai saturs liecina par to, ka attiecīgais pakalpojums tiek piedāvāts Latvijas Republikā;
+3) piedāvā virtuāli no Latvijas Republikai piešķirtā interneta protokola adrešu apgabala vai arī kaut viens no pakalpojuma saņemšanai nepieciešamajiem pasākumiem kārtojams ar personu, kuras atrašanās vieta vai adrese ir Latvijas Republikā.
 (5) Ieguldījumu brokeru sabiedrības un kredītiestādes, kas sniedz ieguldījumu pakalpojumus, ievēro šo likumu, Komisijas noteikumus un attiecībā uz tām izdotos administratīvos aktus, kā arī iekšējo politiku un procedūras. Ieguldījumu brokeru sabiedrības un kredītiestādes, kuras sniedz ieguldījumu pakalpojumus ar Centrālajā depozitārijā iekļautiem finanšu instrumentiem, ievēro arī Centrālā depozitārija noteikumus. Ieguldījumu brokeru sabiedrības un kredītiestādes, kuras sniedz ieguldījumu pakalpojumus ar regulētajā tirgū iekļautiem finanšu instrumentiem, ievēro arī attiecīgā tirgus organizētāja noteikumus.
 (6) Šā likuma F sadaļas noteikumus neattiecina uz:
 1) apdrošinātājiem un pārapdrošinātājiem;

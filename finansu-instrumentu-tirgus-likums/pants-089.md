@@ -1,4 +1,15 @@
 89.pants. Pienākums atturēties no darījuma izpildes
 (1) Ieguldījumu brokeru sabiedrība un kredītiestāde atturas no darījuma izpildes ieguldītāja uzdevumā, ja rodas aizdomas, ka šis darījums tiek izpildīts, izmantojot iekšējo informāciju vai nolūkā veikt tirgus manipulācijas.
-(2) Ieguldījumu brokeru sabiedrība un kredītiestāde nekavējoties ziņo Komisijai par darījumiem, no kuriem tā atturējusies saskaņā ar šā panta pirmās daļas prasībām.
+(2) Ieguldījumu brokeru sabiedrība un kredītiestāde saskaņā ar tās iekšējā procedūrā noteikto kārtību nekavējoties ziņo Komisijai par darījumiem, no kuriem tā atturējusies saskaņā ar šā panta pirmās daļas prasībām.
 (3) Ja ieguldījumu brokeru sabiedrībai vai kredītiestādei nav iespējams atturēties no darījuma izpildes, ieguldījumu brokeru sabiedrībai vai kredītiestādei ir tiesības izpildīt darījumu, vienlaikus par to ziņojot Komisijai.
+(4) Ja ieguldījumu brokeru sabiedrība vai kredītiestāde ir atturējusies no darījuma izpildes atbilstoši šā panta pirmās daļas prasībām, šīs atturēšanās vai darījuma aizkavēšanas dēļ ieguldījumu brokeru sabiedrībai vai kredītiestādei, tās amatpersonai vai darbiniekam neiestājas juridiska atbildība neatkarīgi no tā, kādi ir sniegtās informācijas izmantošanas rezultāti.
+(5) Šā panta otrajā un trešajā daļā minēto paziņojumu ieguldījumu brokeru sabiedrība vai kredītiestāde sniedz rakstveidā (pa pastu, faksu vai e-pastu) vai mutvārdos. Ja paziņojums ir sniegts mutvārdos, Komisija var pieprasīt šāda paziņojuma rakstveida apstiprinājumu. Paziņojumā iekļauj šādu informāciju:
+1) darījuma aprakstu, tajā skaitā rīkojuma veidu, tirdzniecības veidu;
+2) ziņas par apstākļiem, kas ir pamatā aizdomām, ka darījums tiek veikts, izmantojot iekšējo informāciju vai nolūkā veikt tirgus manipulācijas;
+3) patieso labuma guvēju un darījumā iesaistītās personas identificējošus datus;
+4) paziņojuma sniedzēja statusu (brokeris, aģents, finanšu instrumenta sākotnējais izvietotājs);
+5) citu informāciju, kas var būt nozīmīga, izvērtējot iespējamo tirgus manipulāciju vai iekšējās informācijas ļaunprātīgu izmantošanu.
+(6) Ja brīdī, kad ieguldījumu brokeru sabiedrība vai kredītiestāde sniedz paziņojumu Komisijai, šā panta piektajā daļā norādītā informācija nav pieejama pilnībā, ieguldījumu brokeru sabiedrība vai kredītiestāde sniedz vismaz informāciju par apstākļiem, kuri ir pamatā aizdomām, ka darījums tiek veikts, izmantojot iekšējo informāciju vai nolūkā veikt tirgus manipulāciju. Pārējo informāciju ieguldījumu brokeru sabiedrība vai kredītiestāde iesniedz Komisijai, tiklīdz šī informācija ir pieejama.
+(7) Ieguldījumu brokeru sabiedrība vai kredītiestāde nedrīkst informēt personu, kas devusi rīkojumu par darījuma izpildi, vai trešās personas par šā panta kārtībā Komisijai iesniegto paziņojumu.
+(8) Ja ieguldījumu brokeru sabiedrība vai kredītiestāde šā panta kārtībā ziņojusi par darījumiem, par kuriem ir aizdomas, ka tie veikti, izmantojot iekšējo informāciju vai nolūkā veikt tirgus manipulācijas, ieguldījumu brokeru sabiedrībai un kredītiestādei, tās amatpersonai vai darbiniekam neiestājas juridiska atbildība par finanšu instrumentu konta vai darījumu noslēpuma neievērošanu.
+(9) Komisija nedrīkst izpaust ziņas par personām, kas tai sniegušas šajā pantā minēto paziņojumu, ja ziņu izpaušana var radīt kaitējumu šīm personām.

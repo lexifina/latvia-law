@@ -1,11 +1,13 @@
-16.pants. Emisijas prospekta sagatavošanas pienākuma izņēmumi
-(1) Nesagatavojot emisijas prospektu, publisko piedāvājumu drīkst izteikt šādos gadījumos:
-1) publisko piedāvājumu izsaka par parāda vērtspapīriem, kurus emitē Latvijas Republikā vai dalībvalstī reģistrēta persona, kas izveidota, pamatojoties uz īpašu likumu, ja šīs personas reģistrācijas valstī tai ir piešķirts monopolstatuss vai tās aizņēmumu atmaksu garantē reģistrācijas valsts vai pašvaldība;
-2) publisko piedāvājumu izsaka par parāda vērtspapīriem, kurus emitē Latvijas Republikā vai dalībvalstī reģistrēta persona, kas izveidota, pamatojoties uz īpašu likumu, un kas nav komercsabiedrība, ja:
-a) emisijas mērķis ir valsts kontrolēta līdzekļu piesaiste,
-b) šīs personas vienīgais darbības veids ir ražošanas finansēšana vai līdzdalības iegūšana šādā ražošanā no emisijas rezultātā piesaistītajiem līdzekļiem un reģistrācijas valsts piešķirtiem līdzekļiem,
-c) šīs personas emitētos parāda vērtspapīrus saskaņā ar tās valsts likumiem, kur tie emitēti, iespējams pielīdzināt valsts emitētiem vai valsts garantētiem pārvedamiem vērtspapīriem attiecībā uz iekļaušanu regulēto tirgu oficiālajos sarakstos;
-3) publisko piedāvājumu izsaka par parāda vērtspapīriem, kurus nepārtraukti vai atkārtoti emitē Latvijas Republikā reģistrēta kredītiestāde vai dalībvalstī reģistrēta kredītiestāde, vai kredītiestādei pielīdzināma finanšu iestāde, kura regulāri publicē gada pārskatus, ir izveidota vai darbojas, pamatojoties uz īpašu likumu, vai kuras darbību uzrauga īpašas valsts izveidotas iestādes, lai aizsargātu ieguldītāju intereses.
-(2) Šā panta pirmajā daļā noteiktajos gadījumos emitents sagatavo sākotnējās izvietošanas noteikumus un iesniedz tos atbildīgajā institūcijā reģistrācijai.
-(3) Šā panta pirmās daļas noteikumi neattiecas uz gadījumiem, kad tajā minētie emitenti pirmo reizi izsaka publisko piedāvājumu par šāda veida emisiju.
-(4) Ieguldījumu fondu apliecību publiskais piedāvājums notiek atbilstoši to sabiedrību darbību regulējošo normatīvo aktu prasībām, kuras saskaņā ar likumu ir tiesīgas pārvaldīt kopējo ieguldījumu uzņēmumus.
+16.pants. Emisijas prospekta publicēšanas pienākuma izņēmumi
+(1) Prasība publicēt emisijas prospektu neattiecas uz šādu pārvedamu vērtspapīru emisiju:
+1) akcijām, ko emitē, lai aizvietotu tādas pašas kategorijas akcijas, ja šādu jaunu akciju emisija nepalielina reģistrēto pamatkapitālu;
+2) pārvedamiem vērtspapīriem, ko piedāvā saistībā ar komercsabiedrības pārņemšanu, kuru īsteno ar apmaiņas piedāvājumu, ievērojot nosacījumu, ka publiski ir pieejams dokuments, kas satur informāciju, kuru Komisija atzinusi par līdzvērtīgu tai, kas būtu iekļaujama emisijas prospektā saskaņā ar Eiropas Savienības tiesību aktu prasībām;
+3) pārvedamiem vērtspapīriem, kas piedāvāti, piešķirti vai piešķirami saistībā ar apvienošanos, ievērojot nosacījumu, ka publiski ir pieejams dokuments, kas satur informāciju, kuru Komisija atzinusi par līdzvērtīgu tai, kas būtu iekļaujama emisijas prospektā saskaņā ar Eiropas Savienības tiesību aktu prasībām;
+4) akcijām, kas bez maksas piedāvātas, piešķirtas vai piešķiramas pašreizējiem akcionāriem, un dividendēm, ko izmaksā tā veida akcijās, par kurām šādas dividendes tiek izmaksātas, ievērojot nosacījumu, ka publiski ir pieejams dokuments, kas satur informāciju par akciju skaitu un veidu un par piedāvājuma iemesliem un noteikumiem;
+5) pārvedamiem vērtspapīriem, ko pašreizējiem vai bijušajiem vadītājiem vai darbiniekiem piedāvā, piešķir vai plāno piešķirt to darba devējs, kura pārvedami vērtspapīri ir iekļauti regulētā tirgū, vai saistītais uzņēmums, ja publiski ir pieejams dokuments, kas satur informāciju par pārvedamu vērtspapīru skaitu un veidu un piedāvājuma iemesliem un noteikumiem.
+(2) Prasība publicēt emisijas prospektu neattiecas arī uz publisko piedāvājumu:
+1) kas izteikts tikai kvalificētajiem ieguldītājiem;
+2) kas katrā dalībvalstī nepārprotami izteikts mazāk nekā 100fiziskajām personām vai juridiskajām personām, kas nav kvalificētie ieguldītāji;
+3) kurā pārvedamu vērtspapīru minimālais pirkuma apjoms katram ieguldītājam ir vismaz 50000 eiras un nav atļauta tāda viena pārvedama vērtspapīra iegūšana, kuras rezultātā šis pārvedamais vērtspapīrs pieder vairākām personām;
+4) kurā piedāvātā viena pārvedama vērtspapīra nominālvērtība nav mazāka par 50000 eirām;
+5) kas izteikts par pārvedamiem vērtspapīriem, kuru emisijas apjoms 12 mēnešu laikā nepārsniedz 100000 eiras.

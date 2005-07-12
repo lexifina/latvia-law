@@ -10,3 +10,14 @@
 6) ar veiktajiem darījumiem saistīto norēķinu organizēšanu un norēķinu veikšanas drošumu.
 (4) Tirgus organizētājs organizē vienu regulēto tirgu, kurā tiek iekļauti tādi finanšu instrumenti, kuru emitentiem iekļaušanai šajā regulētajā tirgū netiek izvirzītas kvantitatīvas prasības (tādas kā apmaksātais minimālais pamatkapitāls, akcionāru skaits, kapitalizācijas lielums, rentabilitāte vai arī publiskajā apgrozībā esošo akciju īpatsvars), bet ir saistošas visas šajā likumā noteiktās prasības attiecībā uz informācijas atklātumu.
 (5) Tirgus organizētājam ir tiesības no tā biedru veiktajām iemaksām organizēt garantiju fondu, lai nodrošinātu regulētajā tirgū noslēgto darījumu izpildi.
+(6) Garantiju fonda līdzekļus, kas pieder tirgus organizētāja biedriem, tirgus organizētājs tur šķirti no saviem naudas līdzekļiem. Garantiju fonda līdzekļus tirgus organizētājs tur kontā Latvijas Bankā, informējot Latvijas Banku, ka kontā esošie līdzekļi ir Garantiju fonda līdzekļi.
+(7) Garantiju fonda līdzekļus nedrīkst izmantot tirgus organizētāja kreditoru prasījumu apmierināšanai. Šī prasība attiecas arī uz gadījumiem, kad tirgus organizētājs likumā noteiktajā kārtībā atzīts par maksātnespējīgu.
+(8) Tirgus organizētājam, ievērojot šā likuma F¹ sadaļā noteikto kārtību, ir tiesības deleģēt vienai vai vairākām personām (turpmāk - ārpakalpojumu sniedzējs) šādu pakalpojumu (turpmāk - ārpakalpojumi) sniegšanu:
+1) grāmatvedības kārtošanu;
+2) informācijas tehnoloģiju vai sistēmu pārvaldību vai attīstību;
+3) iekšējās kontroles organizēšanu;
+4) citas darbības (ārpakalpojumus), kas nepieciešamas tirgus organizētāja darbības nodrošināšanai un ar finanšu instrumentu publisko apgrozību saistīto pakalpojumu sniegšanai.
+(9) Tirgus organizētājs iekšējā revīzijas dienesta pienākumus kā ārpakalpojumu var deleģēt vienīgi zvērinātam revidentam vai zvērinātu revidentu komercsabiedrībai.
+(10) Tirgus organizētājs nedrīkst:
+1) deleģēt saskaņā ar normatīvajiem aktiem vai statūtiem noteiktos savu pārvaldes institūciju pienākumus;
+2) licencē regulētā tirgus organizēšanai atļauto funkciju kopuma veikšanu pilnībā nodot ārpakalpojumu sniedzējiem.
