@@ -1,0 +1,1 @@
+5. Līdz 2006.gada 31.decembrim šā likuma 33.panta trešajā daļā paredzēto informāciju atļauts iesniegt gan digitālā, gan analogā (papīra) veidā, izmantojot Latvijas koordinātu sistēmas LKS 92 koordinātas un sedzot izdevumus, kas nepieciešami analogās informācijas pārveidošanai digitālā veidā.

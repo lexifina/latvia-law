@@ -1,18 +1,21 @@
-56.pants. Aprobežojumi aizsargjoslās ap gāzes vadiem, gāzes noliktavām un krātuvēm
-(1) Aizsargjoslās ap gāzes vadiem, gāzes noliktavām un krātuvēm papildus šā likuma 35.pantā minētajiem aprobežojumiem tiek noteikti šādi aprobežojumi:
-1) aizliegts izvietot lopbarības, minerālmēslu, augu aizsardzības līdzekļu, degvielas, eļļošanas materiālu, ķīmisko vielu un ķīmisko produktu, kokmateriālu un citu veidu materiālu un vielu glabātavas, izņemot šim nolūkam teritoriju plānojumos paredzētās vietas;
-2) aizliegts ierīkot atkritumu apglabāšanas poligonus un atkritumu izgāztuves;
-3) aizliegts izvietot degvielas uzpildes stacijas;
-4) aizliegts aizkraut pievedceļus un pieejas gāzes vadu, gāzes noliktavu un krātuvju objektiem;
-5) aizliegts veikt darbus ar triecienmehānismiem, nomest smagumus, izmest un izliet kodīgas un koroziju izraisošas vielas, degvielu un eļļošanas materiālus, kā arī veikt uguns un liesmu darbus;
-6) aizliegts veikt derīgo izrakteņu iegūšanas, iekraušanas un izkraušanas, gultnes padziļināšanas, zemes smelšanas, spridzināšanas un meliorācijas darbus;
-7) aizliegts staigāt pa virsūdens gāzes vadu pārejām;
-8) mehāniskajiem transporta līdzekļiem aizliegts apstāties un stāvēt uz autoceļiem aizsargjoslās ap gāzes vadiem, kuros spiediens ir lielāks par 1,6 megapaskāliem;
-9) aizliegts veikt darbus, kas saistīti ar zemes applūdināšanu uz laiku;
-10) aizliegts aizsargjoslās gar zemūdens gāzes vadiem iekārtot kuģu, liellaivu un peldošu celtņu piestātnes, braukt ar izmestu enkuru vai tīkliem, ierādīt zvejas vietas un zvejot, ķert ūdens dzīvniekus un iegūt ūdensaugus ar dziļūdens rīkiem;
-11) aizliegts bez komunikāciju īpašnieka atļaujas saņemšanas:
-a) celt, kapitāli remontēt, rekonstruēt vai nojaukt jebkuras ēkas un inženierbūves;
-b) veikt zemes darbus dziļāk par 0,3 metriem, bet aramzemēs - dziļāk par 0,45 metriem, kā arī grunts planēšanas darbus;
-c) veikt ģeoloģiskos, ģeodēziskos un citus pētniecības darbus, kas saistīti ar urbumu veidošanu un grunts paraugu ņemšanu (izņemot augsnes paraugus);
-d) veikt citus darbus, kas traucē gāzes vadu un uz tiem uzstādīto armatūru apkalpošanu vai bojā tās.
-(2) Gāzes apgādes uzņēmumi, kuriem saskaņā ar Enerģētikas likumu ir nepieciešama licence, izmanto nekustamo īpašumu aizsargjoslām ap gāzes vadiem, gāzes noliktavām un krātuvēm bez atlīdzības par nekustamā īpašuma īpašniekam, valdītājam vai lietotājam noteikto nekustamā īpašuma lietošanas tiesību aprobežojumu.
+56.pants. Aprobežojumi aizsargjoslās ap gāzesvadiem, gāzapgādes iekārtām un būvēm, gāzes noliktavām un krātuvēm
+Ekspluatācijas aizsargjoslās ap gāzesvadiem, gāzapgādes iekārtām un būvēm, gāzes noliktavām un krātuvēm papildus šā likuma 35. un 58.²pantā minētajiem aprobežojumiem tiek noteikti šādi aprobežojumi:
+1) aizliegts ierīkot atkritumu apglabāšanas poligonus un atkritumu izgāztuves;
+2) aizliegts nomest smagumus, izmest vai izliet zemē kodīgas vai koroziju izraisošas vielas, degvielu vai eļļošanas materiālus;
+3) aizliegts veikt darbus, kas saistīti ar spridzināšanu, meliorāciju un derīgo izrakteņu ieguvi;
+4) aizliegts aizkraut pievedceļus un pieejas gāzesvadiem, gāzapgādes iekārtām un būvēm, gāzes noliktavām un krātuvēm;
+5) aizliegts staigāt pa virsūdens gāzesvadu pārejām;
+6) aizliegts veikt darbus, kas saistīti ar zemes applūdināšanu;
+7) aizliegts aizsargjoslās gar zemūdens gāzesvadiem braukt ar izmestu enkuru vai tīkliem, ierādīt zvejas vietas un zvejot, ķert ūdens dzīvniekus un iegūt ūdensaugus ar dziļūdens rīkiem;
+8) aizliegts audzēt kokus un krūmus;
+9) aizliegts būvēt, renovēt vai rekonstruēt jebkuras ēkas un inženierbūves;
+10) aizliegts izvietot lopbarības, minerālmēslu, bīstamu ķīmisko vielu un produktu, kokmateriālu, uzliesmojošu, viegli un īpaši viegli uzliesmojošu vielu, produktu un materiālu glabātavas;
+11) aizliegts izvietot degvielas uzpildes stacijas;
+12) aizliegts ierīkot kuģu, liellaivu un peldošu celtņu piestātnes;
+13) ja nav noslēgta rakstveida vienošanās ar gāzesvadu, gāzapgādes iekārtu un būvju, gāzes noliktavu un krātuvju īpašnieku, aizliegts:
+a) veikt darbus ar uguni un liesmu, dzīt pāļus, lietot vibroveltņus ar svaru, kas lielāks par 5000 kilogramiem, un triecienmehānismus ar jaudu, kas lielāka par 100 kilovatiem,
+b) veikt zemes darbus dziļāk par 0,3 metriem, bet aramzemēs - dziļāk par 0,45 metriem, kā arī meliorācijas un grunts planēšanas darbus,
+c) veikt ģeoloģiskos, ģeodēziskos un citus pētniecības darbus, kas saistīti ar urbumu veidošanu un grunts paraugu ņemšanu (izņemot augsnes paraugus),
+d) veikt gultnes padziļināšanas un zemes smelšanas darbus,
+e) ierīkot brauktuves un brauktuvju šķērsojumus,
+f) veikt citus darbus, kas traucē gāzesvadu, gāzapgādes iekārtu un būvju, gāzes noliktavu un krātuvju apkalpošanu vai var bojāt šos objektus.

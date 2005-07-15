@@ -7,5 +7,5 @@ b) bez autoceļa īpašnieka atļaujas veikt jebkurus būvniecības un derīgo i
 a) veikt darbības, kuru rezultātā samazinās dzelzceļa pārredzamība vai palielinās aizputināmība,
 b) veikt darbības, kuru rezultātā pasliktinās hidroloģiskais režīms dzelzceļa aizsargjoslā vai tiek traucēta aizsargjoslas un tai piegulošo vai to šķērsojošo melioratīvo sistēmu un būvju funkcionēšana,
 c) veikt jebkurus būvniecības vai grunts rakšanas un pārvietošanas darbus bez saskaņošanas ar dzelzceļa infrastruktūras pārvaldītāju,
-d) ierīkot gāzes vadus gar sliežu ceļu,
+d) (izslēgts ar 22.06.2005. likumu),
 e) aizkraut pievedceļus un pieejas pie dzelzceļa apkalpošanas objektiem.

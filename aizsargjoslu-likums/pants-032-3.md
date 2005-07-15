@@ -1,0 +1,4 @@
+32.³pants. Aizsargjoslas gar dzelzceļiem, pa kuriem pārvadā naftu, naftas produktus, bīstamas ķīmiskās vielas un produktus
+(1) Aizsargjoslas gar dzelzceļiem, pa kuriem pārvadā naftu, naftas produktus, bīstamas ķīmiskās vielas vai produktus apjomos, kas pārsniedz 10 cisternas vai vagonus vienā dzelzceļa sastāvā, nosaka, lai samazinātu iespējamo negatīvo ietekmi uz cilvēkiem avārijas gadījumā.
+(2) Aizsargjoslu platums katrā pusē dzelzceļam, pa kuru pārvadā naftu, naftas produktus, bīstamas ķīmiskās vielas vai produktus, ir no 25 līdz 100 metriem atkarībā no esošā un plānotā apbūves blīvuma, apkārtnes reljefa, esošām un plānotām aizsardzības ietaisēm un stādījumiem.
+(3) Metodikas projektu, pēc kuras nosaka drošības aizsargjoslas gar dzelzceļiem, pa kuriem pārvadā naftu, naftas produktus, bīstamas ķīmiskās vielas un produktus, izstrādā Satiksmes ministrija pēc saskaņošanas ar Valsts ugunsdzēsības un glābšanas dienestu.

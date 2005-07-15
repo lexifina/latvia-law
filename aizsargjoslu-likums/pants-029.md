@@ -1,4 +1,9 @@
 29.pants. Drošības aizsargjoslu uzdevumi un veidi
-Drošības aizsargjoslas nosaka ap naftas, naftas produktu un ķīmisko vielu un produktu vadiem, noliktavām un krātuvēm, ūdens akvatorijās augšpus un lejpus aizsprostiem. Drošības aizsargjoslu galvenais uzdevums ir nodrošināt naftas, naftas produktu un ķīmisko vielu un produktu vadu, noliktavu un krātuvju, aizsprostu un to tuvumā esošo objektu drošību to ekspluatācijas laikā un iespējamo avāriju gadījumā, kā arī vides un cilvēku drošību. Ir šādi drošības aizsargjoslu veidi:
-1) aizsargjoslas ap naftas, naftas produktu un ķīmisko vielu un produktu vadiem, noliktavām un krātuvēm;
-2) aizsargjoslas ūdens akvatorijās augšpus un lejpus aizsprostiem.
+(1) Drošības aizsargjoslas nosaka ap ogļūdeņražu ieguves vietām, naftas, naftas produktu, bīstamu ķīmisko vielu un produktu cauruļvadiem, tilpnēm, krātuvēm, pārstrādes un pārkraušanas uzņēmumiem, ap aizsprostiem, ap vēja ģeneratoriem, gar gāzesvadiem ar spiedienu virs 1,6 megapaskāliem, gāzes regulēšanas stacijām, dabasgāzes kompresoru stacijām, dabasgāzes savākšanas punktiem, gāzes krātuvju urbumiem, sašķidrinātās ogļūdeņražu gāzes noliktavām, krātuvēm un uzpildes stacijām, sašķidrinātās ogļūdeņražu gāzes balonu noliktavām un tirdzniecības punktiem, automobiļu gāzes uzpildes stacijām, gar dzelzceļiem, pa kuriem pārvadā naftu, naftas produktus, bīstamas ķīmiskās vielas un produktus, kā arī gar virszemes siltumvadiem, kuru diametrs ir 400 milimetru un lielāks. Drošības aizsargjoslu galvenais uzdevums ir nodrošināt vides un cilvēku drošību šo objektu ekspluatācijas laikā un iespējamo avāriju gadījumā, kā arī pašu objektu un to tuvumā esošo objektu drošību.
+(2) Ir šādi drošības aizsargjoslu veidi:
+1) aizsargjoslas ap ogļūdeņražu ieguves vietām, naftas, naftas produktu, bīstamu ķīmisko vielu un produktu cauruļvadiem, tilpnēm, krātuvēm, pārstrādes un pārkraušanas uzņēmumiem;
+2) aizsargjoslas ap aizsprostiem;
+3) aizsargjoslas ap vēja ģeneratoriem;
+4) aizsargjoslas ap gāzesvadiem ar spiedienu virs 1,6megapaskāliem, gāzes regulēšanas stacijām, gāzes mērīšanas stacijām, dabasgāzes kompresoru stacijām, dabasgāzes savākšanas punktiem, gāzes krātuvju urbumiem, sašķidrinātās ogļūdeņražu gāzes noliktavām, krātuvēm un uzpildes stacijām, sašķidrinātās ogļūdeņražu gāzes balonu noliktavām un tirdzniecības punktiem, automobiļu gāzes uzpildes stacijām;
+5) aizsargjoslas gar dzelzceļiem, pa kuriem pārvadā naftu, naftas produktus, bīstamas ķīmiskās vielas un produktus;
+6) aizsargjoslas gar virszemes siltumvadiem, kuru diametrs ir 400 milimetri un lielāks.

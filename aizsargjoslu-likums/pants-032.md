@@ -1,4 +1,5 @@
-32.pants. Aizsargjoslas ūdens akvatorijās augšpus un lejpus aizsprostiem
-(1) Aizsargjoslas ūdens akvatorijās augšpus un lejpus aizsprostiem nosaka, lai nodrošinātu aizsprostu hidrotehnisko būvju ekspluatāciju un drošumu, kā arī cilvēku drošību ūdenstilpēs un ūdenstecēs augšpus un lejpus aizsprostiem.
-(2) Aizsargjoslas attālums no hidrotehniskās būves vistuvāk izvirzītās virszemes vai zemūdens daļas augšpus un lejpus aizsprosta tiek noteikts vismaz lejpus aizsprosta esošās ūdensteces platumā, bet ne vairāk kā 200 metrus platā joslā.
-(3) Metodikas projektu, pēc kuras nosaka aizsargjoslas ūdens akvatorijās augšpus un lejpus aizsprostiem, izstrādā Ekonomikas ministrija pēc saskaņošanas ar Vides ministriju.
+32.pants. Aizsargjoslas ap aizsprostiem
+(1) Aizsargjoslas ap aizsprostiem nosaka, lai nodrošinātu aizsprostu hidrotehnisko būvju ekspluatāciju un drošumu, kā arī cilvēku drošību pie aizsprostiem.
+(2) Aizsargjoslas minimālais platums augšpus un lejpus aizsprosta ir vienāds ar ūdensteces platumu lejpus aizsprosta, ja tas ir mazāks par 200 metriem. Aizsargjoslas maksimālais platums ir 200 metru. Aizsargjoslas platumu mēra no hidrotehnisko būvju vistālāk akvatorijā izvirzītajām virszemes, pazemes, virsūdens un zemūdens daļām.
+(3) Aizsargjoslas minimālais platums krastos pie aizsprosta un dambjiem ir 10 metru, maksimālais - 50 metru. Aizsargjoslas platumu mēra no aizsprosta vistālāk no ūdenstilpes vai ūdensteces izvirzītajām virszemes vai pazemes daļām, no dambja sausās nogāzes pamatnes vai arī no aizsprosta vai dambja drenāžas iekārtu vistālāk no ūdenstilpes vai ūdensteces izvirzītajām virszemes vai pazemes daļām, ja aizsprosts vai dambis aprīkots ar drenāžas iekārtām.
+(4) Metodikas projektu, pēc kuras nosaka drošības aizsargjoslas ap aizsprostiem, izstrādā Ekonomikas ministrija pēc saskaņošanas ar Vides ministriju.

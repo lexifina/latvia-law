@@ -6,7 +6,5 @@
 a) valsts galvenajiem autoceļiem - 100 metru,
 b) valsts 1.šķiras autoceļiem - 60 metru,
 c) valsts 2.šķiras un pašvaldību autoceļiem - 30 metru.
-(3) Aizsargjoslām gar dzelzceļiem ir šāds minimālais platums:
-1) pilsētās, ciemos un citās apdzīvotās vietās platumu aizsargjoslām gar dzelzceļiem nosaka teritoriju plānojumos likumā noteiktajā kārtībā;
-2) lauku apvidos platumu aizsargjoslām gar dzelzceļiem nosaka teritoriju plānojumos, bet tur, kur to nav, - 200 metru no malējās sliedes dzelzceļa katrā pusē.
-(4) Metodikas projektu, pēc kuras nosaka aizsargjoslas gar autoceļiem un dzelzceļiem, izstrādā Satiksmes ministrija.
+(3) Dzelzceļa ekspluatācijas aizsargjoslas minimālais platums ir vienāds ar dzelzceļa zemes nodalījuma joslas platumu. Pilsētās un ciemos ekspluatācijas aizsargjoslas maksimālais platums gar stratēģiskās (valsts) nozīmes un reģionālās nozīmes dzelzceļa infrastruktūrā ietilpstošajiem sliežu ceļiem, izņemot tiem piegulošos vai ar tiem saistītos staciju sliežu ceļus, speciālās nozīmes sliežu ceļus, pievedceļus un strupceļus, ir 50 metri katrā pusē no malējās sliedes, gar pārējiem sliežu ceļiem - 25 metri, bet lauku apvidū ekspluatācijas aizsargjoslas maksimālais platums gar stratēģiskās (valsts) nozīmes un reģionālās nozīmes dzelzceļa infrastruktūrā ietilpstošajiem sliežu ceļiem, izņemot tiem piegulošos vai ar tiem saistītos staciju sliežu ceļus, speciālās nozīmes sliežu ceļus, pievedceļus un strupceļus, ir 100 metri katrā pusē no malējās sliedes, gar pārējiem sliežu ceļiem - 50 metri. Ekspluatācijas aizsargjoslas platumu šajās robežās nosaka teritoriju plānojumos likumā noteiktajā kārtībā.
+(4) Metodikas projektu, pēc kuras nosaka ekspluatācijas aizsargjoslas gar autoceļiem un dzelzceļiem, izstrādā Satiksmes ministrija.

@@ -13,5 +13,5 @@
 11) aizliegts veikt darbus, kas saistīti ar zemju applūdināšanu uz laiku;
 12) aizliegts ar jebkādām darbībām traucēt energoapgādes uzņēmuma darbiniekus, kuri aizsargjoslā veic ekspluatācijas, remonta, rekonstrukcijas, avāriju novēršanas vai to seku likvidācijas darbus šajā likumā noteiktajā kārtībā.
 (2) Veicot apūdeņošanas grāvju un drenāžas kolektorgrāvju būvi, kā arī ierīkojot nožogojumus un veicot citus darbus, jāsaglabā pievedceļi un pieejas elektriskajiem tīkliem un to būvēm.
-(3) Koku un krūmu audzēšana elektrisko tīklu trasēs pieļaujama ar elektrisko tīklu īpašnieka rakstveida atļauju.
+(3) Zemes īpašnieks, tiesiskais valdītājs vai lietotājs aizsargjoslā var audzēt kokus un krūmus, ja par to noslēgta rakstveida vienošanās ar elektrisko tīklu īpašnieku.
 (4) Elektroenerģijas apgādes uzņēmumi, kuriem saskaņā ar Enerģētikas likumu ir nepieciešama licence, izmanto nekustamo īpašumu aizsargjoslām gar elektriskajiem tīkliem bez atlīdzības par nekustamā īpašuma īpašniekam, valdītājam vai lietotājam noteikto nekustamā īpašuma lietošanas tiesību aprobežojumu.

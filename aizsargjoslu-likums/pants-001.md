@@ -9,10 +9,11 @@ Likumā ir lietoti šādi termini:
 7) (izslēgts ar 21.02.2002. likumu);
 8) (izslēgts ar 21.02.2002. likumu);
 9) (izslēgts ar 21.02.2002. likumu);
-10) aizsprosts - hidrotehnisko būvju komplekss, kas nodrošina ūdens līmeņa pacelšanu ūdenstilpē vai ūdenstecē ar maksimālo līmeņa kritumu divi metri un vairāk;
+10) aizsprosts - hidrotehnisko būvju komplekss, kas nodrošina ūdens līmeņa pacelšanu ūdenstilpē vai ūdenstecē ar maksimālo līmeņu starpību divi metri un vairāk;
 11) applūdināmā zona - sauszemes teritorija, kura, palielinoties ūdens pieplūdumam ūdenstilpē vai ūdens caurplūdumam ūdenstecē, uz neilgu laikposmu tiek applūdināta;
 12) izobata - līnija, kas savieno punktus ar vienādu ūdenstilpju vai ūdensteču dziļumu;
-13) sarkanā līnija - pašvaldības apstiprinātajā teritorijas plānojumā noteiktā līnija, kas norobežo ceļa, ielas vai piebrauktuves (arī inženierkomunikāciju koridoru) izbūvei nepieciešamo teritoriju no apbūvējamās vai citādā veidā izmantojamās teritorijas;
+13) sarkanā līnija - pašvaldības apstiprinātajā teritorijas plānojumā noteiktā līnija, kas norobežo ceļa, ielas vai piebrauktuves (arī inženierkomunikāciju koridoru) izbūvei nepieciešamo teritoriju, kurā nekustamā īpašuma lietošanas tiesības aprobežotas saskaņā ar likumiem, no apbūvējamās vai citādā veidā izmantojamās teritorijas;
 14) kabeļu līnijas ass - nosacīta līnija, kas iet caur katra kabeļa diametra viduspunktu. Katram kabelim ir sava kabeļu līnijas ass, kas nosaka šā kabeļa aizsargjoslas novietojumu;
 15) purvi - ekosistēmas uz kūdras augsnēm, kurās koku augstums konkrētajā vietā nevar sasniegt vairāk par septiņiem metriem;
-16) dambis - hidrotehniska būve, ko ierīko, lai regulētu ūdens straumi gultnē vai aizsargātu teritoriju pret applūšanu.
+16) dambis - hidrotehniska būve, ko ierīko, lai regulētu ūdens straumi gultnē vai aizsargātu teritoriju pret applūšanu;
+17) iepriekšējā apbūve - likumīgi uzbūvētas būves vai ēkas (vai to pamati), kuras konstatējamas dabā.

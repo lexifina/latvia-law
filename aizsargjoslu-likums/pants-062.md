@@ -1,3 +1,3 @@
-62.pants. Aizsargjoslu iezīmēšana plānos
-(1) Aizsargjoslu iezīmēšanu zemes īpašuma vai lietojuma plānos nodrošina Valsts zemes dienests par valsts budžeta līdzekļiem saskaņā ar likumu "Par zemes lietošanu un zemes ierīcību".
-(2) Aizsargjoslu iezīmēšanu administratīvi teritoriālo vienību kartēs veic Valsts zemes dienests.
+62.pants. Aizsargjoslu datu bāzes uzturēšana un aizsargjoslu reģistrācija nekustamā īpašuma valsts kadastra informācijas sistēmā
+(1) Aizsargjoslu datu bāzes uzturēšanu, aizsargjoslu un ar aizsargjoslām saistīto nekustamo īpašumu apgrūtinājumu reģistrāciju nekustamā īpašuma valsts kadastra informācijas sistēmā nodrošina Valsts zemes dienests. Aizsargjoslu datu bāzes izveides un uzturēšanas kārtību, kā arī informācijas aprites kārtību nosaka Ministru kabinets.
+(2) Izdevumus, kas saistīti ar aizsargjoslu datu bāzes uzturēšanu un ar aizsargjoslām saistīto nekustamo īpašumu apgrūtinājumu reģistrēšanu nekustamā īpašuma valsts kadastrā, finansē no valsts budžeta līdzekļiem.
