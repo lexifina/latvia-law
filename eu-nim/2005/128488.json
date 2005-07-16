@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par Latvijas ūdeņu izmantošanas kārtību un kuģošanas režīmu tajos",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "111",
+  "official_journal_page": null,
+  "official_journal_date": "2005-07-15",
+  "entry_into_force": "2005-07-16",
+  "notification_date": "2006-02-14",
+  "commission_reference": "MNE(2006)51059",
+  "nim_celex": "72002L0059LVA_128488",
+  "nim_id": "128488",
+  "transposes_celex": [
+    "32002L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/76190d02-3fd8-44d7-979a-4c5488b02be1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
