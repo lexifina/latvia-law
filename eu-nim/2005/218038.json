@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2005.gada 12.jūlija noteikumi Nr.507 \"Noteikumi par arhitekta izglītību un profesionālo kvalifikāciju apliecinošiem dokumentiem, kurus atzīst, piemērojot speciālo profesionālās kvalifikācijas atzīšanas sistēmu\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "111 (3269)",
+  "official_journal_page": null,
+  "official_journal_date": "2005-07-15",
+  "entry_into_force": "2005-07-16",
+  "notification_date": "2014-07-03",
+  "commission_reference": "MNE(2014)54045",
+  "nim_celex": "72013L0025LVA_218038",
+  "nim_id": "218038",
+  "transposes_celex": [
+    "32013L0025"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d66c6016-3c8f-48fa-a9e3-52dd6926b805",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
