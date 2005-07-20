@@ -1,1 +1,1 @@
-32.pants. Valsts kontroles darbinieki ir Valsts kontroles revidenti un Valsts kontroles kancelejas darbinieki.
+32.pants. Valsts kontroles darbinieki ir Valsts kontroles revidenti un personāls, kurš nodrošina Valsts kontroles organizatorisko, finansiālo un saimniecisko darbību.

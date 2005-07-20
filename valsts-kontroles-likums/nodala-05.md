@@ -1,2 +1,2 @@
 V nodaļa
-Revīzijas departamenta kolēģija
+Revīzijas departamenta kompetence

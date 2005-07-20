@@ -1,1 +1,1 @@
-60.pants. Valsts kontroles padomes apstiprināto revīziju gada plānu valsts kontrolieris iesniedz zināšanai Saeimā.
+60.pants. Pēc tam kad Valsts kontroles padome ir apstiprinājusi revīziju gada plānu, valsts kontrolieris nosūta Saeimai izvērstu ziņojumu par plānotajiem revīzijas virzieniem, nenosaucot revidējamās vienības.

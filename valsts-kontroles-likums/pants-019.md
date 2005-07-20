@@ -1,5 +1,7 @@
-19.pants. Sektora vadītājs:
-1) vada sektora darbu un atbild par to;
-2) pārrauga Valsts kontroles revidentu darbu;
-3) izskata revīzijas darba plānu un Valsts kontroles revidentu ziņojumu;
-4) pieņem lēmumu par Valsts kontroles revidentu ziņojuma nosūtīšanu revidējamai vienībai.
+19.pants. Revīzijas departamenta sektora vadītājs:
+1) vada sektora darbu un nodrošina sektora revīziju kopējo stratēģiju atbilstoši Valsts kontrolē noteiktajiem revīzijas standartiem un metodoloģijai;
+2) pārbauda un apstiprina katru revīzijas plānu un tā atbilstību kārtējā gada revīziju plānam;
+3) pārstāv Valsts kontroli sarunās ar revidējamo vienību sektora veiktās revīzijas sakarā;
+4) pārrauga revīzijas pierādījumu iegūšanas procesu un, ja nepieciešams, arī iesaistās revīzijā;
+5) pārbauda un apstiprina revīzijas ziņojuma projektus pirms to nosūtīšanas revidējamai vienībai paskaidrojuma sniegšanai;
+6) veic citus pienākumus saskaņā ar amata aprakstu.

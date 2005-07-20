@@ -1,1 +1,1 @@
-53.pants. Pamatojoties uz revīzijā iegūtajiem revīzijas pierādījumiem un pārbaudītajiem dokumentiem, tiek sagatavots Valsts kontroles revidentu ziņojums, kuru nosūta revidējamai vienībai.
+53.pants. Pamatojoties uz revīzijā konstatētiem faktiem un pārbaudītajiem dokumentiem, tiek sagatavots Valsts kontroles revīzijas ziņojuma projekts, kuru nosūta revidējamai vienībai, nosakot termiņus paskaidrojumu iesniegšanai.

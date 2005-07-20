@@ -1,0 +1,1 @@
+9. Saeimas apstiprinātie revīzijas departamentu kolēģijas locekļi atlikušajā pilnvaru laikā pilda revīzijas departamenta sektora vadītāja amata pienākumus, bet pēc pilnvaru beigām, lai pretendētu uz atkārtotu iecelšanu amatā, ir nepieciešams pozitīvs atestācijas komisijas atzinums.

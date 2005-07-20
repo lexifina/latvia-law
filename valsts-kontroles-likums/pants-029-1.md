@@ -1,0 +1,1 @@
+29.¹pants. Valsts kontroles revīzijas departamenta sektora vadītāju no amata atbrīvo, ja valsts kontrolieris konstatē faktu, ka nav ievērots kāds no šā likuma 30.panta otrās daļas ierobežojumiem, vai sakarā ar atestācijas komisijas atzinumu par viņa neatbilstību ieņemamam amatam.

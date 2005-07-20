@@ -1,1 +1,0 @@
-63.pants. Revidējamās vienības pilnvarotiem pārstāvjiem ir tiesības piedalīties revīzijas departamenta kolēģijas sēdē, kurā tiek izskatīts revīzijas atzinuma projekts par šajā revidējamajā vienībā veikto revīziju, un pamatot Valsts kontroles revidentu ziņojumam pievienoto savu paskaidrojumu.

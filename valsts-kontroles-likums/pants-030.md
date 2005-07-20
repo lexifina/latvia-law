@@ -1,9 +1,9 @@
-30.pants. (1) Par Valsts kontroliera, Valsts kontroles padomes locekļa, revīzijas departamenta kolēģijas locekļa un Valsts kontroles kancelejas pārvaldnieka amata kandidātu var būt persona, kura:
+30.pants. (1) Par Valsts kontroliera, Valsts kontroles padomes locekļa, revīzijas departamenta sektora vadītāja amata kandidātu var būt persona, kura:
 1) ir Latvijas pilsonis;
 2) brīvi pārvalda valsts valodu;
 3) ir ieguvusi augstāko izglītību un kuras profesionālā kvalifikācija un pēdējo piecu gadu darba pieredze ir atbilstoša Valsts kontroles uzdevumu veikšanai;
-4) pārvalda vismaz divas svešvalodas.
-(2) Par Valsts kontroliera, Valsts kontroles padomes locekļa, revīzijas departamenta kolēģijas locekļa un Valsts kontroles kancelejas pārvaldnieka amata kandidātu nevar būt persona, kura:
+4) (izslēgts ar 22.06.2005. likumu).
+(2) Par Valsts kontroliera, Valsts kontroles padomes locekļa, revīzijas departamenta sektora vadītāja amata kandidātu nevar būt persona, kura:
 1) sasniegusi likumā noteikto pensijas vecumu;
 2) pēdējo triju gadu laikā bijusi Ministru kabineta loceklis;
 3) pēdējo triju gadu laikā bijusi vēlētos amatos politiskajās organizācijās (partijās);

@@ -1,1 +1,1 @@
-62.pants. Revidējamai vienībai ir tiesības pievienot Valsts kontroles revidentu ziņojumam rakstveida paskaidrojumu par šo ziņojumu.
+62.pants. Revidējamai vienībai ir tiesības rakstveidā izteikt savu viedokli par revīzijas ziņojuma projektu, kā arī sniegt paskaidrojumus.

@@ -1,1 +1,1 @@
-37.pants. Valsts kontrole uz vakantiem darbinieku amatiem izsludina atklātu konkursu laikrakstā "Latvijas Vēstnesis" un vērtē kandidātu atbilstību Valsts kontroles apstiprinātajām attiecīgā amata kvalifikācijas prasībām.
+37.pants. Valsts kontroles darbiniekus darbā pieņem un no darba atbrīvo valsts kontrolieris atbilstoši Darba likuma prasībām.
