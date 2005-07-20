@@ -1,0 +1,2 @@
+17.pants. Sadarbība ar valsts drošības dienestiem
+Attiecīgie valsts drošības dienesti informē pašvaldību, kas izsniedz atļauju, par plānotajā pasākumā iespējamiem sabiedriskās kārtības un drošības, tajā skaitā teroristiskiem apdraudējumiem. Pašvaldība, pieņemot lēmumu par atļaujas izsniegšanu, izvērtē valsts drošības dienestu sniegto informāciju. Ja atļauja publiska pasākuma rīkošanai nav nepieciešama, attiecīgie valsts drošības dienesti par minētajiem apdraudējumiem informē pasākuma organizatoru.

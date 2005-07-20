@@ -1,0 +1,7 @@
+1.pants. Likumā lietotie termini
+Likumā ir lietoti šādi termini:
+1) publisks pasākums - fiziskās vai juridiskās personas plānots un organizēts sabiedrībai pieejams svētku, piemiņas, izklaides, sporta vai atpūtas pasākums publiskā vietā neatkarīgi no īpašuma piederības;
+2) pasākuma organizators - rīcībspējīga fiziskā persona, juridiskā persona vai arī valsts vai pašvaldības iestāde, kas plāno un organizē publisku pasākumu;
+3) par sabiedrisko kārtību un drošību atbildīgā persona - rīcībspējīga fiziskā persona, kura uzņēmusies atbildību par sabiedriskās kārtības un drošības ievērošanu publiskā pasākumā un no šā pasākuma sākuma līdz beigām atrodas tā norises vietā;
+4) par tehnisko drošību atbildīgā persona - pasākuma organizators, kā arī cita fiziskā vai juridiskā persona, ar kuru pasākuma organizators ir noslēdzis līgumu par pasākumā izmantojamo iekārtu un būvju drošas ekspluatācijas un pasākuma norises kopējās tehniskās drošības uzraudzību;
+5) kārtības uzturētāji - Valsts policija vai pašvaldības policija, Zemessardze, kā arī juridiskā persona, kurai izsniegta licence apsardzes darbības veikšanai un ar kuru pasākuma organizators ir noslēdzis līgumu par sabiedriskās kārtības un drošības, kā arī ugunsdrošības prasību izpildi pasākuma laikā, vai pasākuma organizatora norīkotas personas, kas publiska pasākuma laikā gādā par sabiedriskās kārtības, drošības un ugunsdrošības prasību ievērošanu. Privātpersonu organizētā publiskā pasākumā Valsts policija, pašvaldības policija vai Zemessardze ir kārtības uzturētāji saskaņā ar savstarpēji noslēgtu līgumu.
