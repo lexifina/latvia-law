@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi likumā Par Valsts ieņēmumu dienestu",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "104",
+  "official_journal_page": null,
+  "official_journal_date": "2005-07-06",
+  "entry_into_force": "2005-07-20",
+  "notification_date": "2005-07-18",
+  "commission_reference": "MNE(2005)52678",
+  "nim_celex": "72004L0056LVA_122678",
+  "nim_id": "122678",
+  "transposes_celex": [
+    "32004L0056"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d11270da-a66c-45b1-a1d8-880cca717d4a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
