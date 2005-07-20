@@ -1,0 +1,1 @@
+10.Līdz šā likuma 6.panta pirmajā daļā minēto pašvaldības saistošo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2006.gada 1.janvārim ir spēkā satiksmes ministra apstiprinātie ostas noteikumi.

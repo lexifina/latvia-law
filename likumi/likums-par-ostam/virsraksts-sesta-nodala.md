@@ -1,2 +1,2 @@
 Sestā nodaļa
-UZŅĒMĒJDARBĪBA OSTĀ
+KOMERCDARBĪBA OSTĀ

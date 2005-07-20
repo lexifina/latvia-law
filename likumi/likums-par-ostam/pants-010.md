@@ -1,6 +1,6 @@
 10. pants. Latvijas Ostu padome
 (1) Valsts politiku ostu attīstībā un visu ostu darbību koordinē Latvijas Ostu padome.
-(2) Ministru kabinets izveido Latvijas Ostu padomi šādā sastāvā:
+(2) Latvijas Ostu padomes sastāvā ir:
 padomes priekšsēdētājs - Ministru prezidents; padomes locekļi:
 satiksmes ministrs un divi Satiksmes ministrijas pārstāvji;
 Rīgas domes priekšsēdētājs;
@@ -18,5 +18,5 @@ zemkopības ministrs;
 Jūrniecības savienības pārstāvis;
 Aizsardzības ministrijas pārstāvis;
 Latvijas Ostu asociācijas pārstāvis.
-(3) Pārstāvji Latvijas Ostu padomē tiek deleģēti ar attiecīgās institūcijas vadītāja lēmumu.
+(3) Pārstāvji Latvijas Ostu padomē tiek deleģēti ar attiecīgās institūcijas vadītāja lēmumu un par to tiek informēts Ministru prezidents.
 (4) Latvijas Ostu padomes nolikumu apstiprina Ministru prezidents.
