@@ -4,5 +4,5 @@
 (3) Ja valde nav sasaukusi kārtējo akcionāru sapulci paredzētajā termiņā, to var sasaukt:
 1) padome;
 2) komercreģistra iestāde;
-3) likvidatori.
-(4) Komercreģistra iestāde sasauc kārtējo akcionāru sapulci pēc viena akcionāra vai vairāku akcionāru pieprasījuma, ja to nav izdarījusi sabiedrības valde vai padome.
+3) (izslēgts ar 16.06.2005. likumu).
+(4) Komercreģistra iestāde par maksu sasauc kārtējo akcionāru sapulci pēc viena vai vairāku akcionāru pieprasījuma, ja to nav izdarījusi sabiedrības valde un padome.

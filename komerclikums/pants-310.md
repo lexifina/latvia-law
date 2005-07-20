@@ -1,6 +1,6 @@
 310.pants. Valdes lēmumu pieņemšana
 (1) Valde ir lemttiesīga, ja tās sēdē piedalās vairāk par pusi no valdes locekļiem. Ja valdes sastāvā ir mazāk locekļu, nekā paredzēts statūtos, kvorums nosakāms pēc statūtos noteiktā valdes locekļu skaita.
-(2) Valde pieņem savus lēmumus ar vienkāršu klātesošo balsu vairākumu, ja statūtos nav noteikts lielāks balsu vairākums.
+(2) Valde pieņem savus lēmumus ar vienkāršu klātesošo balsu vairākumu, ja statūtos nav noteikts lielāks balsu vairākums. Statūtos var noteikt, ka, balsīm sadaloties līdzīgi, izšķirošā ir valdes priekšsēdētāja balss.
 (3) Valdes sēdes tiek protokolētas. Protokolā norāda:
 1) sabiedrības firmu;
 2) valdes sēdes norises vietu un laiku;

@@ -1,6 +1,6 @@
 299.pants. Padomes lēmumu pieņemšana
 (1) Padome ir lemttiesīga, ja tās sēdē piedalās vairāk par pusi no padomes locekļiem. Ja padomes sastāvā ir mazāk locekļu, nekā paredzēts statūtos, kvorums nosakāms pēc statūtos noteiktā padomes locekļu skaita.
-(2) Padome pieņem savus lēmumus ar vienkāršu klātesošo balsu vairākumu, ja statūtos nav noteikts lielāks balsu vairākums.
+(2) Padome pieņem savus lēmumus ar vienkāršu klātesošo balsu vairākumu, ja statūtos nav noteikts lielāks balsu vairākums. Statūtos var noteikt, ka, balsīm sadaloties līdzīgi, izšķirošā ir padomes priekšsēdētāja balss.
 (3) Padomes loceklis, kas nepiedalās padomes sēdē, var nodot savu balsi rakstveidā, iesniedzot to citam padomes loceklim. Nodot savu balsi telefoniski vai citādā veidā drīkst tikai tad, ja izmantotie sakaru līdzekļi pieļauj padomes locekļiem vienlaikus piedalīties jautājuma apspriešanā un lēmuma pieņemšanā un ja šī darbība ir attiecīgi dokumentāri fiksēta.
 (4) Padomes sēdes tiek protokolētas. Protokolā norāda:
 1) sabiedrības firmu;

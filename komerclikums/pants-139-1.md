@@ -1,0 +1,6 @@
+139.¹ pants. Mantas iegūšana no dibinātājiem un dalībniekiem
+(1) Ja sabiedrība divu gadu laikā pēc tās nodibināšanas no dibinātāja, dalībnieka vai personas ar līdzīgu mantisko ieinteresētību (ģimenes loceklis, saistītais uzņēmums u.tml.) iegūst mantu, atlīdzība par kuru pārsniedz vienu divdesmitdaļu no sabiedrības pamatkapitāla, darījums, uz kura pamata manta tiek iegūta, stājas spēkā tikai pēc tam, kad šo darījumu apstiprinājusi dalībnieku sapulce.
+(2) Šā panta pirmās daļas noteikumi attiecas arī uz gadījumiem, kad manta no vienas šā panta pirmajā daļā minētās personas iegūta vairākkārt un kopsummā pārsniedz šā panta pirmajā daļā noteikto robežu. Šādā gadījumā dalībnieku sapulces apstiprinājums nepieciešams pēdējam darījumam, kura rezultātā minētā robeža tiek pārsniegta, kā arī katram turpmākajam darījumam, ko sabiedrība slēdz ar šo personu.
+(3) Šā panta pirmajā un otrajā daļā minēto mantu novērtē saskaņā ar šā likuma 154.panta noteikumiem.
+(4) Šā panta pirmās, otrās un trešās daļas noteikumi neattiecas uz gadījumiem, kad manta iegūta sabiedrības parasti veicamās komercdarbības ietvaros par parasto vērtību, bezatlīdzības darījumā, izsolē, biržas darījumā vai saskaņā ar tiesas nolēmumu.
+(5) Viena dalībnieka sabiedrībā darījumi starp dalībnieku un sabiedrību, kuru viņš pārstāv, noformējami rakstveidā.
