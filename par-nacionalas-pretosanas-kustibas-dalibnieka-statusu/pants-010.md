@@ -1,1 +1,1 @@
-10.pants. Nacionālās pretošanās kustības dalībniekiem piešķir Militārpersonu izdienas pensiju likumā paredzēto ikmēneša pabalstu.
+10.pants. Nacionālās pretošanās kustības dalībniekiem no Aizsardzības ministrijai piešķirtajiem valsts budžeta līdzekļiem izmaksā ikmēneša pabalstu Ministru kabineta noteiktajā kārtībā un apmērā.
