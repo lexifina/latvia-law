@@ -1,1 +1,1 @@
-6. Ministru kabinets līdz 2004.gada 1.novembrim izdod šā likuma 4., 9.pantā, 17.panta pirmajā daļā, 59. un 60.¹ pantā minētos noteikumus.
+6. Ministru kabinets līdz 2004.gada 1.novembrim izdod šā likuma 4., 9.panta pirmajā daļā, 17.panta pirmajā daļā, 59. un 60.¹ pantā minētos noteikumus.
