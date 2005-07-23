@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Kārtība profesionālās kvalifikācijas atzīšanai pastāvīgai profesionālajai darbībai Latvijas Republikā",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "115",
+  "official_journal_page": null,
+  "official_journal_date": "2005-07-22",
+  "entry_into_force": "2005-07-23",
+  "notification_date": "2008-01-18",
+  "commission_reference": "MNE(2008)50452",
+  "nim_celex": "72005L0036LVA_152824",
+  "nim_id": "152824",
+  "transposes_celex": [
+    "32005L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/725b6ea9-37e5-46ea-afb0-088805d6a324",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
