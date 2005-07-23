@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par akcīzes nodokļa un pievienotās vērtības nodokļa atbrīvojuma sertifikāta apstiprināšanu",
+  "type_of_act": "Ministrijas instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "115",
+  "official_journal_page": null,
+  "official_journal_date": "2005-07-22",
+  "entry_into_force": "2005-07-23",
+  "notification_date": "2007-03-08",
+  "commission_reference": "MNE(2007)51717",
+  "nim_celex": "72006L0112LVA_141993",
+  "nim_id": "141993",
+  "transposes_celex": [
+    "32006L0112"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6d1eded2-4371-403a-900a-33f2cc46070b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
