@@ -1,0 +1,1 @@
+1. Līdz Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2005.gada 31.decembrim piemēro vides ministra apstiprinātās ķīmisko vielu un ķīmisko produktu fizikālo, toksikoloģisko un ekotoksikoloģisko īpašību noteikšanas laboratoriskās metodes un bīstamo ķīmisko vielu sarakstu.

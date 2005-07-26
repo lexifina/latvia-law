@@ -1,3 +1,4 @@
 11.pants. Riska analīze
 (1) (Izslēgta ar 21.12.2000. likumu.)
 (2) Ministru kabinets nosaka ar bīstamajām ķīmiskajām vielām un bīstamajiem ķīmiskajiem produktiem saistīto rūpniecisko avāriju riska novērtēšanas kārtību un riska samazināšanas pasākumus un norāda, uz kurām vielām un kuriem produktiem (atkarībā no to daudzuma un bīstamības pakāpes) šī kārtība un šie pasākumi attiecas.
+(3) Rūpniecisko avāriju novēršanas programmu un drošības pārskatu izvērtē Vides pārraudzības valsts birojs, objekta civilās aizsardzības plānu - Valsts ugunsdzēsības un glābšanas dienests un 90 dienu laikā no programmas, pārskata vai plāna un visas nepieciešamās informācijas saņemšanas dienas pieņem lēmumu par programmas, pārskata vai plāna atbilstību normatīvo aktu prasībām civilās aizsardzības, darba drošības, vides un veselības aizsardzības jomā.

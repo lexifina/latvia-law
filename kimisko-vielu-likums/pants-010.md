@@ -17,4 +17,4 @@
 14) toksiskas ķīmiskās vielas vai ķīmiskie produkti;
 15) kaitīgas ķīmiskās vielas vai ķīmiskie produkti.
 (3) Ķīmisko vielu un ķīmisko produktu klasificēšanas kārtību atkarībā no minēto vielu un produktu bīstamajām īpašībām un pakāpes, kādā šīs īpašības tiem piemīt, reglamentē Ministru kabineta noteikumi.
-(4) Vides ministrs apstiprina bīstamo ķīmisko vielu sarakstu.
+(4) Ministru kabinets nosaka bīstamo ķīmisko vielu sarakstu.
