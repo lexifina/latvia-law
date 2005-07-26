@@ -1,5 +1,5 @@
-74. pants. Aviācijas nelaimes gadījumu un incidentu izmeklēšanas nodaļas izmeklētāju tiesības
-Veicot izmeklēšanu, Aviācijas nelaimes gadījumu un incidentu izmeklēšanas nodaļas izmeklētājiem ir tiesības:
+74. pants. Aviācijas nelaimes gadījumu un incidentu izmeklēšanas biroja izmeklētāju tiesības
+Veicot izmeklēšanu, Aviācijas nelaimes gadījumu un incidentu izmeklēšanas biroja izmeklētājiem ir tiesības:
 1) brīvi piekļūt aviācijas nelaimes gadījuma vai incidenta vietai, kā arī gaisa kuģim, tā saturam vai atliekām;
 2) nekavējoties nodrošināt pierādījumu uzskaiti un kontrolētu atlūzu vai sastāvdaļu savākšanu, lai veiktu pārbaudi vai analīzes;
 3) nekavējoties piekļūt lidojuma ieraksta aparātiem, iepazīties ar visu attiecīgo ierakstu saturu un tos izmantot izmeklēšanā;
@@ -8,6 +8,6 @@ Veicot izmeklēšanu, Aviācijas nelaimes gadījumu un incidentu izmeklēšanas 
 6) nekavējoties iepazīties ar gaisa kuģi vadījušo personu apskates un laboratorisko analīžu rezultātiem;
 7) izjautāt lieciniekus;
 8) brīvi piekļūt jebkādai attiecīgajai informācijai vai ierakstiem, kas atrodas pie gaisa kuģa īpašnieka, ekspluatanta vai ražotāja, kā arī pie institūcijām, kuras ir atbildīgas par civilo aviāciju, lidostu vai gaisa satiksmes vadību;
-9) pieprasīt, lai valsts un pašvaldību institūcijas, kā arī, ja nepieciešams, citas juridiskās personas, kuru darbības rajonā noticis aviācijas nelaimes gadījums, savu iespēju robežās apsargātu gaisa kuģi, tā atlūzas un citus pierādījumus un sniegtu palīdzību darbietilpīgu un citu nepieciešamo pasākumu veikšanā, kā arī ierādītu izmeklēšanas nodaļai telpas darbam un atpūtai;
+9) pieprasīt, lai valsts un pašvaldību institūcijas, kā arī, ja nepieciešams, citas juridiskās personas, kuru darbības rajonā noticis aviācijas nelaimes gadījums, savu iespēju robežās apsargātu gaisa kuģi, tā atlūzas un citus pierādījumus un sniegtu palīdzību darbietilpīgu un citu nepieciešamo pasākumu veikšanā, kā arī ierādītu Aviācijas nelaimes gadījumu un incidentu izmeklēšanas birojam telpas darbam un atpūtai;
 10) noteikt, kad gaisa kuģi, tā saturu, atlūzas un citus pierādījumus var aizvākt no notikuma vietas, kā arī iznīcināt normatīvajos aktos noteiktajā kārtībā.
-Aviācijas nelaimes gadījumu un incidentu izmeklēšanas nodaļai ir arī citas tiesības, kas nepieciešamas efektīvai izmeklēšanas mērķa sasniegšanai pēc iespējas īsākā laika posmā.
+Aviācijas nelaimes gadījumu un incidentu izmeklēšanas birojam ir arī citas tiesības, kas nepieciešamas efektīvai izmeklēšanas mērķa sasniegšanai pēc iespējas īsākā laika posmā.

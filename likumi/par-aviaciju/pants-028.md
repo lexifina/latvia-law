@@ -2,3 +2,4 @@
 Gaisa kuģa īpašnieks vai ekspluatants, ja gaisa kuģi ekspluatē cita persona, Latvijas Republikas gaisa telpas izmantošanas un gaisa satiksmes organizēšanas valsts uzņēmuma (dienesta) pakalpojumus un uz civilās aviācijas lidlauka sniegtos pakalpojumus, kā arī aeronavigācijas un citas radiotehniskās iekārtas izmanto par maksu.
 Šā panta pirmajā daļā noteiktos maksājumus pēc Latvijas Republikas gaisa telpas izmantošanas un gaisa satiksmes organizēšanas valsts uzņēmuma (dienesta) vai lidlauka administrācijas priekšlikuma apstiprina Aviācijas departaments.
 Kārtību, kādā saskaņā ar šā panta pirmās un otrās daļas noteikumiem paredzētos maksājumus kārto Latvijas Republikas Nacionālo bruņoto spēku aviācija, nosaka Latvijas Republikas Ministru kabinets.
+Kārtību, kādā saskaņā ar šā panta pirmās un otrās daļas noteikumiem paredzētos maksājumus kārto Valsts robežsardzes aviācija, nosaka Latvijas Republikas Ministru kabinets.

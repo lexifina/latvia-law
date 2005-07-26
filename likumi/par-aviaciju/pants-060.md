@@ -1,2 +1,2 @@
 60. pants. Sadarbība ar ārvalstīm un starptautiskajām organizācijām civilās aviācijas drošības jautājumos
-Informācijas apmaiņu ar citām valstīm, Starptautisko civilās aviācijas organizāciju (ICAO) un citām starptautiskajām organizācijām, kā arī cita veida sadarbību civilās aviācijas drošības jautājumos veic Aviācijas departaments un Civilās aviācijas administrācija.
+Informācijas apmaiņu ar citām valstīm, Starptautisko civilās aviācijas organizāciju (ICAO) un citām starptautiskajām organizācijām, kā arī cita veida sadarbību civilās aviācijas drošības jautājumos atbilstoši kompetencei veic Aviācijas departaments, Civilās aviācijas administrācija un Aviācijas nelaimes gadījumu un incidentu izmeklēšanas birojs.

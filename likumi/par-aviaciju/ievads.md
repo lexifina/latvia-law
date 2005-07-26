@@ -15,7 +15,7 @@ Civilā aviācija - gaisa kuģu, lidlauku un citu objektu kopums, kas paredzēts
 Civilās aviācijas drošība - pasākumu komplekss un cilvēku un materiālie resursi, kas paredzēti civilās aviācijas aizsardzībai pret nelikumīgas iejaukšanās aktiem tās darbībā.
 Civilās aviācijas drošības programma - pasākumi, kas nepieciešami civilās aviācijas aizsardzībai pret nelikumīgas iejaukšanās aktiem.
 Civilās aviācijas gaisa kuģa apkalpe - personas, kurām attiecīgās aviācijas institūcijas noteiktajā kārtībā uzdots gaisa kuģa lidojuma laikā veikt tā ekspluatāciju.
-Civilās aviācijas gaisa kuģis - civilās aviācijas gaisa kuģu reģistrā reģistrēts gaisa kuģis, kuru neizmanto militārie, muitas vai policijas dienesti.
+Civilās aviācijas gaisa kuģis - civilās aviācijas gaisa kuģu reģistrā reģistrēts gaisa kuģis, kuru neizmanto militārie, muitas vai Valsts robežsardzes dienesti.
 Dispečera norādījumi - direktīvi gaisa satiksmes vadības dienesta dispečera norādījumi pilotam attiecībā uz konkrētu darbību veikšanu.
 Gaisa kuģa ekspluatācijas instrukcija lidojuma veikšanai - noteikumi, kas attiecas uz gaisa kuģa derīgumu lidojumiem un ietver ierobežojumus, kuri jāievēro, lai gaisa kuģis tiktu atzīts par derīgu lidojumiem, kā arī ietver instrukcijas un informāciju, kas nepieciešama gaisa kuģa apkalpei, lai garantētu gaisa kuģa drošu ekspluatāciju.
 Gaisa kuģa ekspluatanta apliecība - dokuments, kas dod tiesības, ekspluatējot gaisa kuģi, veikt noteiktu darbību.
@@ -39,7 +39,7 @@ Kvalifikācijas atzīme - atzīme par īpašiem nosacījumiem, tiesībām un ier
 Latvijas Republikas Nacionālo bruņoto spēku aviācija - gaisa kuģu, lidlauku un citu objektu kopums, kas paredzēts valsts aizsardzībai.
 Latvijas Republikas civilās aviācijas gaisa kuģis - civilās aviācijas gaisa kuģis, kas reģistrēts Latvijas Republikas Civilās aviācijas gaisa kuģu reģistrā.
 Latvijas Republikas gaisa telpa - gaisa telpa virs Latvijas Republikas sauszemes teritorijas, tās iekšējiem un teritoriālajiem Baltijas jūras ūdeņiem.
-Latvijas Republikas muitas un policijas dienestu aviācija - gaisa kuģu, lidlauku un citu objektu kopums, kas galvenokārt paredzēts minēto dienestu funkciju izpildei.
+Latvijas Republikas muitas un Valsts robežsardzes dienestu aviācija - gaisa kuģu, lidlauku un citu objektu kopums, kas galvenokārt paredzēts minēto dienestu funkciju izpildei.
 Latvijas Republikas teritorija - Latvijas Republikas sauszemes teritorija, tās iekšējie un teritoriālie Baltijas jūras ūdeņi un gaisa telpa.
 Lidlauka kontrolējamā zona - lidostas ēkas daļa un lidlauka teritorija, kurā iekļūšana tiek kontrolēta.
 Lidlauka kontrolpunkts - nosacīts punkts, pēc kura konstatē lidlauka ģeogrāfisko atrašanās vietu (koordinātes).
@@ -50,7 +50,7 @@ Lidlauks - noteikta zemes teritorija vai ūdens akvatorija, kā arī ēkas, obje
 Lidojumu ierobežojumu zona - ierobežota gaisa telpa virs valsts sauszemes teritorijas un tās iekšējiem vai teritoriālajiem Baltijas jūras ūdeņiem, kurā gaisa kuģu lidojumi ir veicami saskaņā ar speciāliem noteikumiem.
 Lidostas aviodrošības dienests - struktūrvienība, kura nodrošina standartizētu starptautisko lidojumu drošību un ir atbildīga par lidostas drošības programmas izpildi.
 Meteoroloģiskā informācija - meteoroloģisks pārskats, analīze, prognoze un jebkurš cits biļetens par faktiskajiem vai gaidāmajiem meteoroloģiskajiem apstākļiem.
-Muitas un policijas dienestu gaisa kuģi - gaisa kuģi, kurus izmanto muitas vai policijas dienesti.
+Muitas un Valsts robežsardzes dienestu gaisa kuģi - gaisa kuģi, kurus izmanto muitas vai Valsts robežsardzes dienesti.
 Nelikumīgas iejaukšanās akts civilās aviācijas darbībā - darbības, kas apdraud vai var apdraudēt civilās aviācijas drošību (personu nesankcionēta iekļūšana lidlauku kontrolējamās zonās vai gaisa kuģī, bīstamas kravas, ieroču un sprāgstvielu pārvadāšana bez attiecīgas atļaujas, ieroču lietošana pret gaisa kuģa apkalpi vai pasažieriem, gaisa kuģa nolaupīšana u. c.).
 Otrais pilots - pilots, kam izsniegta attiecīga apliecība un kas veic pilota funkcijas, izņemot gaisa kuģa kapteiņa funkcijas; izņēmums ir pilots, kas atrodas gaisa kuģī mācību nolūkā, vai pilots, kas lidojuma laikā noteiktā kārtībā pārņem gaisa kuģa kapteiņa tiesības un pilda viņa pienākumus, ja gaisa kuģa kapteinis veselības stāvokļa dēļ tos nevar pildīt.
 Pārvadātājs - gaisa kuģa ekspluatants, kas, izmantojot viņam piešķirtās tiesības, veic gaisa pārvadājumus.

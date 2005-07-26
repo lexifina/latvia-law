@@ -1,0 +1,1 @@
+4. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2005.gada 30.novembrim piemērojami Ministru kabineta 2004.gada 19.oktobra noteikumi Nr.882 "Kārtība, kādā starptautisko publisko tiesību subjektiem piešķir atļauju izmantot Latvijas gaisa telpu lidojumiem ar militārajām vajadzībām paredzētajiem ārvalstu gaisa kuģiem".

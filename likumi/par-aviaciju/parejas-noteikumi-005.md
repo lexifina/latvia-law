@@ -1,0 +1,1 @@
+5. Līdz šā likuma 57.panta pirmajā daļā minēto noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2005.gada 30.novembrim ir spēkā Ministru kabineta 2005.gada 29.marta noteikumi Nr.210 "Noteikumi par civilās aviācijas drošības garantēšanai nepieciešamo pasākumu kompleksu", ciktāl tie nav pretrunā ar šo likumu.
