@@ -1,1 +1,1 @@
-4. Ministru kabinets līdz 2004.gada 31.decembrim izstrādā un iesniedz Saeimai likumprojektu par aroddarbību un līdz 2004.gada 1.septembrim izstrādā un iesniedz projektus par nepieciešamajiem grozījumiem citos likumos.
+4. Ministru kabinets līdz 2005.gada 1.septembrim iesniedz Saeimai likumprojektu, kurā noteikts individuālo uzņēmumu, zemnieku un zvejnieku saimniecību turpmākais statuss, un līdz 2004.gada 1.septembrim izstrādā un iesniedz projektus par nepieciešamajiem grozījumiem citos likumos.
