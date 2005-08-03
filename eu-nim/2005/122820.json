@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par prasībām, kuras jāievēro sniedzot ieguldījumu rekomendācijas",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "113",
+  "official_journal_page": null,
+  "official_journal_date": "2005-07-20",
+  "entry_into_force": "2005-08-03",
+  "notification_date": "2005-07-22",
+  "commission_reference": "MNE(2005)52820",
+  "nim_celex": "72003L0006LVA_122820",
+  "nim_id": "122820",
+  "transposes_celex": [
+    "32003L0006",
+    "32003L0125"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f3cdcfdd-782b-485b-ad9b-544088ca96a4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
