@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2005.gada 19.jūlija noteikumi Nr.532 \"Noteikumi par rūpniecisko avāriju riska novērtēšanas kārtību un riska samazināšanas pasākumiem\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "121 (3279)",
+  "official_journal_page": null,
+  "official_journal_date": "2005-08-03",
+  "entry_into_force": "2005-08-04",
+  "notification_date": "2014-02-26",
+  "commission_reference": "MNE(2014)51393",
+  "nim_celex": "72012L0018LVA_213867",
+  "nim_id": "213867",
+  "transposes_celex": [
+    "32012L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b8162885-45f0-45b4-b770-cb4c4fef3eaf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
