@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par ierobežojumiem zāļu lietošanā dzīvniekiem un dzīvnieku un dzīvnieku izcelsmes pārtikas produktu apriti, ja dzīvniekiem ievadītas lietošanas ierobežojumiem pakļautās zāles",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "122",
+  "official_journal_page": null,
+  "official_journal_date": "2005-08-04",
+  "entry_into_force": null,
+  "notification_date": "2005-08-15",
+  "commission_reference": "MNE(2005)53157",
+  "nim_celex": "71996L0022LVA_123157",
+  "nim_id": "123157",
+  "transposes_celex": [
+    "31996L0022",
+    "32003L0074"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/42b7c7c5-aebf-48b1-9e4f-5a6763869912",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
