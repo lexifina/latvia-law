@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Kartupeļu gaišās gredzenpuves apkarošanas un izplatības ierobežošanas kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "124",
+  "official_journal_page": null,
+  "official_journal_date": "2005-08-09",
+  "entry_into_force": null,
+  "notification_date": "2005-08-22",
+  "commission_reference": "MNE(2005)53251",
+  "nim_celex": "71993L0085LVA_123251",
+  "nim_id": "123251",
+  "transposes_celex": [
+    "31993L0085",
+    "32006L0063"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/968a63b9-df28-40bc-a78d-f4aea9d1cb5c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
