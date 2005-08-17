@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Mutes un nagu sērgas likvidēšanas un draudu novēršanas kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "129",
+  "official_journal_page": null,
+  "official_journal_date": "2005-08-17",
+  "entry_into_force": null,
+  "notification_date": "2005-08-22",
+  "commission_reference": "MNE(2005)53377",
+  "nim_celex": "72002L0099LVA_123377",
+  "nim_id": "123377",
+  "transposes_celex": [
+    "32002L0099",
+    "32003L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b2f6aba3-d6a4-4838-8f80-8a07d8910eb5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
