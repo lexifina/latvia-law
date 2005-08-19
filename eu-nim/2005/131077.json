@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Latvijas augu šķirņu kataloga nolikums",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "131",
+  "official_journal_page": null,
+  "official_journal_date": "2005-08-19",
+  "entry_into_force": null,
+  "notification_date": "2006-05-15",
+  "commission_reference": "MNE(2006)52945",
+  "nim_celex": "71978L0055LVA_131077",
+  "nim_id": "131077",
+  "transposes_celex": [
+    "31978L0055",
+    "31979L0692",
+    "31986L0155",
+    "31988L0380",
+    "31998L0095"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/076e0068-6b53-433f-a07c-3542e2cf01c0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
