@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2003.gada 15.aprīļa noteikumos Nr.182",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "131",
+  "official_journal_page": null,
+  "official_journal_date": "2005-08-19",
+  "entry_into_force": null,
+  "notification_date": "2005-08-22",
+  "commission_reference": "MNE(2005)53423",
+  "nim_celex": "72002L0053LVA_123423",
+  "nim_id": "123423",
+  "transposes_celex": [
+    "32002L0053",
+    "32002L0055",
+    "32003L0090",
+    "32003L0091"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/de59ab3a-705b-4c2c-9b96-988e91c0778f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
