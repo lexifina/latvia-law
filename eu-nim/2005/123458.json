@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Medicīnisko ierīču reģistrācijas, atbilstības novērtēšanas, izplatīšanas, ekspluatācijas un tehniskās uzraudzības kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "130",
+  "official_journal_page": null,
+  "official_journal_date": "2005-08-18",
+  "entry_into_force": "2005-08-19",
+  "notification_date": "2005-08-23",
+  "commission_reference": "MNE(2005)53458",
+  "nim_celex": "72003L0012LVA_123458",
+  "nim_id": "123458",
+  "transposes_celex": [
+    "32003L0012",
+    "32003L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d8be7dcc-0ac9-4cd3-99c7-1835d9e956c0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
