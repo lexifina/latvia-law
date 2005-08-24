@@ -4,3 +4,4 @@
 3) kuram radušies šā likuma 13.pantā norādītie šķēršļi amata pildīšanai;
 4) kuram atcelšana piemērota kā disciplinārsods;
 5) kurš nav izturējis zvērināta tiesu izpildītāja kvalifikācijas pārbaudi.
+(2) Tieslietu ministra lēmuma par zvērināta tiesu izpildītāja atcelšanu pārsūdzība neaptur tā darbību.
