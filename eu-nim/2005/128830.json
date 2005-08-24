@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par komercdarbībai izmantojamā radiofrekvenču spektra lietošanas tiesību piešķiršanas, pagarināšanas un anulēšanas kārtība",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "132",
+  "official_journal_page": null,
+  "official_journal_date": "2005-08-23",
+  "entry_into_force": "2005-08-24",
+  "notification_date": "2006-02-23",
+  "commission_reference": "MNE(2006)51322",
+  "nim_celex": "72002L0021LVA_128830",
+  "nim_id": "128830",
+  "transposes_celex": [
+    "32002L0021"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/86f8d68d-8e7c-4dab-813c-2f00e852448a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
