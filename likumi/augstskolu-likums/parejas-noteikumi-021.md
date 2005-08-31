@@ -1,0 +1,1 @@
+21. Augstskolu likuma 3.panta trešajā daļā noteiktie kritēriji stājas spēkā 2007.gada 1.septembrī. Līdz 2007.gada 31.augustam Latvijā ir šādas universitātes: Daugavpils Universitāte, Latvijas Universitāte, Latvijas Lauksaimniecības universitāte, Rīgas Stradiņa universitāte un Rīgas Tehniskā universitāte.

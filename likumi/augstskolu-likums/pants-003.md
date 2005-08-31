@@ -1,8 +1,19 @@
 3.pants. Augstskolas
-(1) Augstskolas ir augstākās izglītības un zinātnes iestādes, kurās īsteno akadēmiskas un profesionālas studiju programmas, kā arī nodarbojas ar zinātni, pētniecību un māksliniecisko jaunradi. Vienā augstskolā var īstenot gan akadēmiskās, gan profesionālās studiju programmas.
+(1) Augstskolas ir augstākās izglītības un zinātnes institūcijas, kas īsteno studiju programmas, kā arī nodarbojas ar zinātni, pētniecību un māksliniecisko jaunradi. Augstskolas var īstenot studiju programmas šādās izglītības tematiskajās grupās:
+1) izglītība;
+2) humanitārās zinātnes un māksla;
+3) sociālās zinātnes, komerczinības un tiesības;
+4) dabas zinātnes, matemātika un informācijas tehnoloģijas;
+5) inženierzinātnes, ražošana un būvniecība;
+6) lauksaimniecība;
+7) veselības aprūpe un sociālā labklājība;
+8) pakalpojumi.
 (2) Pēc akadēmiskās studiju programmas apgūšanas tiek piešķirts akadēmiskais grāds, pēc doktorantūras studiju programmas apgūšanas - doktora zinātniskais grāds. Pēc profesionālās studiju programmas apgūšanas tiek iegūta profesionālā kvalifikācija un attiecīga līmeņa profesionālais grāds.
-(3) Augstskolu iedalījums ir šāds:
-1) universitātes tipa augstskolas - augstskolas, kurās studijas notiek un zinātniskie pētījumi tiek veikti augstskolas darbības galvenajiem virzieniem atbilstošajās zinātņu nozarēs vai mākslas jomās; pētījumu rezultāti tiek publicēti starptautiski atzītos zinātniskajos žurnālos vai cita veida izdevumos; ir promocijas padomes galvenajos zinātniskās darbības virzienos un darbojas doktorantūra; vairāk nekā pusei no akadēmiskā personāla ir zinātniskie grādi; galvenajās zinātņu nozarēs augstskola izveido vai iekļauj savā struktūrā pētniecības iestādes, kuras veic starptautiski atzīta līmeņa zinātniskos pētījumus un piedalās studiju programmu īstenošanā, starptautiskos zinātniskos projektos, forumos un konferencēs; augstskola izdod zinātniskos rakstus;
-2) neuniversitātes tipa augstskolas - augstskolas, kurās studijas notiek un zinātniskie pētījumi tiek veikti atsevišķās zinātņu, tautsaimniecības, mākslas nozarēs vai mākslas jomās; studijas notiek profesionālās studiju programmās; pētījumu rezultāti tiek publicēti zinātniskajos žurnālos vai cita veida izdevumos; var būt promocijas padome (padomes) un darboties doktorantūra; galvenajās zinātņu nozarēs augstskola var izveidot pētniecības iestādes.
-(4) Augstskolas tipu nosaka izglītības un zinātnes ministrs saskaņā ar augstskolas priekšlikumiem, Augstākās izglītības padomes un Rektoru padomes atzinumiem.
-(5) Izglītības iestāde savā nosaukumā drīkst lietot vārdu "augstskola" tikai pēc tam, kad tā reģistrēta Izglītības iestāžu reģistrā. Augstskola savā nosaukumā vārdu "akadēmija" vai "universitāte" drīkst lietot tikai tad, ja augstskolas satversme apstiprināta šā likuma 10.panta trešajā daļā noteiktajā kārtībā.
+(3) Universitātes ir augstskolas, kas atbilst šādiem kritērijiem:
+1) īsteno bakalaura, maģistra un doktora studiju programmas. Doktora studiju programmu absolventi katru gadu aizstāv promocijas darbus un iegūst doktora zinātniskos grādus;
+2) vismaz pusei, bet ne mazāk kā 100 no akadēmiskajos amatos ievēlētajām personām ir doktora zinātniskais grāds;
+3) izdod zinātniskus periodiskus izdevumus augstskolā īstenotajās izglītības tematiskajās grupās;
+4) galvenajās zinātņu nozarēs, kurās īsteno studiju programmas, ir izveidotas zinātniskās institūcijas vai struktūrvienības.
+(4) (Izslēgta ar MK 23.08.2005. noteikumiem Nr.635.)
+(5) Vārdu "universitāte" atļauts lietot augstskolai, kas atbilst šā panta trešajā daļā minētajiem kritērijiem. Pārējām augstskolām atļauts nosaukumā lietot vārdu "augstskola" vai "akadēmija". Vārdus "universitāte", "augstskola", "akadēmija" un "koledža" ir tiesības izmantot tikai augstākās izglītības vai zinātnes institūciju nosaukumos. Citām personām vai institūcijām, kas dibinātas pēc šo noteikumu spēkā stāšanās, nav tiesību izmantot minētos vārdus nosaukumā.
+(6) Latvijas izglītības klasifikāciju nosaka Ministru kabinets.

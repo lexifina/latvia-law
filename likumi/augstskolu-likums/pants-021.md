@@ -1,3 +1,3 @@
-21. pants. Augstskolas dibinātās iestādes un uzņēmumi (uzņēmējsabiedrības)
-(1) Augstskola savā satversmē noteikto augstskolas darbības mērķu sasniegšanai var dibināt, reorganizēt un likvidēt iestādes un uzņēmumus (uzņēmējsabiedrības), ievērojot šā likuma un citu likumu noteikumus.
-(2) Augstskolas dibinātā iestāde vai uzņēmums (uzņēmējsabiedrība) darbojas kā patstāvīga juridiskā persona, ievērojot šā likuma un citu likumu noteikumus, kā arī savus statūtus (nolikumu), ko apstiprina augstskolas satversmē noteiktajā kārtībā.
+21.pants. Augstskolas dibinātās iestādes, komercsabiedrības, biedrības un nodibinājumi
+(1) Valsts dibināta augstskola ar senāta lēmumu satversmē noteikto darbības mērķu sasniegšanai var dibināt, reorganizēt un likvidēt iestādes, arī publiskās aģentūras un komercsabiedrības un būt par biedru un dibinātāju biedrībās un nodibinājumos.
+(2) Citu personu dibinātās augstskolas var dibināt, reorganizēt un likvidēt komercsabiedrības un būt par biedru un dibinātāju biedrībās un nodibinājumos.

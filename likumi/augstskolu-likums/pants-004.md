@@ -1,6 +1,6 @@
 4.pants. Augstskolu autonomija
-(1) Augstskolas ir autonomas izglītības un zinātnes iestādes ar pašpārvaldes tiesībām. Augstskolu autonomiju raksturo varas un atbildības sadale starp valsts institūcijām un augstskolu vadību, kā arī starp vadību un akadēmisko personālu.
-(2) Augstskolas autonomija izpaužas tiesībās brīvi izvēlēties augstskolas dibinātāju izvirzīto un šim likumam atbilstošo uzdevumu īstenošanas veidus un formas, kā arī atbildībā par augstskolā iegūtās izglītības kvalitāti, mērķtiecīgu un racionālu finansu un materiālo resursu izmantošanu, demokrātisma principu un augstskolu darbību reglamentējošu likumu un citu normatīvo aktu ievērošanu.
+(1) Augstskolas ir autonomas izglītības un zinātnes institūcijas ar pašpārvaldes tiesībām. Augstskolu autonomiju raksturo varas un atbildības sadale starp valsts institūcijām un augstskolu vadību, kā arī starp vadību un akadēmisko personālu.
+(2) Augstskolas autonomija izpaužas tiesībās brīvi izvēlēties augstskolas dibinātāju izvirzīto un šim likumam atbilstošo uzdevumu īstenošanas veidus un formas, kā arī atbildībā par augstskolā iegūtās izglītības kvalitāti, mērķtiecīgu un racionālu finanšu un materiālo resursu izmantošanu, demokrātisma principu un augstskolu darbību reglamentējošu likumu un citu normatīvo aktu ievērošanu.
 (3) Augstskolai ir tiesības:
 1) izstrādāt un pieņemt augstskolas satversmi;
 2) veidot augstskolas personālsastāvu;

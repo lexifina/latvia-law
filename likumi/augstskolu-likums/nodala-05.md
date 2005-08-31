@@ -1,2 +1,2 @@
 V nodaļa
-Augstskolās studējošie
+Augstskolās un koledžās studējošie

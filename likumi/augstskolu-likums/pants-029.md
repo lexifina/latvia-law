@@ -1,3 +1,0 @@
-29. pants. Profesoru amati valsts un pašvaldību augstskolās
-(1) Profesoru amatu skaitu un sarakstu attiecīgās zinātnes vai mākslas apakšnozarē valsts un pašvaldību augstskolās nosaka izglītības un zinātnes ministrs, ņemot vērā Augstākās izglītības padomes un augstskolu priekšlikumus, studējošo skaitu un finansējumu.
-(2) Ja valsts vai pašvaldības augstskolā ir brīvs profesora amats, augstskolas senāts pēc saskaņošanas ar izglītības un zinātnes ministru pieņem lēmumu par attiecīgās zinātnes vai mākslas apakšnozares saglabāšanu vai mainīšanu un atklāta konkursa izsludināšanu uz brīvo profesora amatu šajā zinātnes vai mākslas apakšnozarē.
