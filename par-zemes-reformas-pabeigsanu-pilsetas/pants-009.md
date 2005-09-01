@@ -2,5 +2,5 @@
 (2) Zemes īpašuma tiesības uz valsts vārda Latvijas Hipotēku un zemes bankas personā nostiprināmas zemesgrāmatā, pamatojoties uz uzziņu, kas sastādīta saskaņā ar likuma "Par valsts un pašvaldību zemes īpašuma tiesībām un to nostiprināšanu zemesgrāmatās" 10.pantu. Šai uzziņai pievieno:
 1) pilsētas zemes komisijas lēmumu par dzīvojamās ēkas būvei vai augļu dārza ar apbūves tiesībām lietošanai nodotā zemes gabala robežu, platības un kadastrālā novērtējuma apstiprināšanu, kā arī servitūtu un aprobežojumu noteikšanu;
 2) zemes gabala robežu plānu ar kadastra numuru. Nosakot zemes gabala platību, pilsētas zemes komisija ievēro likuma "Par zemes reformu Latvijas Republikas pilsētās" 12.panta noteikumus.
-(3) Šā panta pirmajā daļā minētās fiziskās personas pieteikumus zemes gabala pirkšanai iesniedz attiecīgās pilsētas zemes komisijai līdz 1999.gada 1.martam. Pēc šā termiņa izbeigšanās minētās personas zaudē tiesības pirkt zemi šajā likumā noteiktajā kārtībā.
+(3) Šā panta pirmajā daļā minētās fiziskās personas pieteikumus zemes gabala pirkšanai iesniedz attiecīgās pilsētas zemes komisijai līdz 1999.gada 1.martam.
 (4) Pilsētas zemes komisija iesniegtos pieteikumus izskata šā likuma 2.panta ceturtajā daļā noteiktajos termiņos.
