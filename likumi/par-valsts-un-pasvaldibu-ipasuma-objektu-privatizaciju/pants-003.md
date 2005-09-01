@@ -6,19 +6,16 @@
 2) pārdodot piedāvājumu konkursā;
 3) pārdodot ar tūlītēju samaksu;
 4) pārdodot uz nomaksu;
-5) pārveidojot statūtsabiedrībā un vienlaikus pārdodot šīs sabiedrības kapitāla daļas;
-6) pārdodot valsts vai pašvaldības statūtsabiedrības kapitāla daļas;
-7) pārdodot kapitāla daļas, kas pieder valstij vai pašvaldībai statūtsabiedrībā, kurā ir privātais kapitāls;
-8) likvidējot valsts vai pašvaldības uzņēmumu vai uzņēmējsabiedrību.
-4. Kārtību, kādā īpašuma objekts pārveidojams statūtsabiedrībā, un šīs statūtsabiedrības daļu pārdošanas kārtību nosaka likums «Par valsts un pašvaldību uzņēmumu pārveidošanu statūtsabiedrībās».
-5. Valsts un pašvaldību statūtsabiedrību kapitāla daļu pārdošanas kārtību nosaka likums «Par valsts un pašvaldību uzņēmumu pārveidošanu statūtsabiedrībās».
-6. Kārtību, kādā pārdodamas kapitāla daļas, kas pieder valstij vai pašvaldībām statūtsabiedrībās, kurās ir privātais kapitāls, regulē šā likuma V daļas noteikumi.
+5) (izslēgts ar 22.06.2005. likumu);
+6) pārdodot valsts vai pašvaldības kapitālsabiedrības kapitāla daļas;
+7) pārdodot kapitāla daļas, kas pieder valstij vai pašvaldībai kapitālsabiedrībā, kurā ir privātais kapitāls;
+8) likvidējot valsts vai pašvaldības kapitālsabiedrību.
+4. (Izslēgta ar 22.06.2005. likumu.)
+5. (Izslēgta ar 22.06.2005. likumu.)
+6. Kārtību, kādā pārdodamas kapitāla daļas, kas pieder valstij vai pašvaldībām kapitālsabiedrībās, kurās ir privātais kapitāls, regulē šā likuma V daļas noteikumi.
 7. (Izslēgta ar 31.01.2002. likumu.)
 8. Kopīpašumā esošas valsts vai pašvaldību mantas privatizācijas īpatnības nosaka šā likuma V daļas noteikumi.
-9. Valsts vai pašvaldības uzņēmumu vai uzņēmējsabiedrību likvidē, ja:
-1) valsts uzņēmuma vai uzņēmējsabiedrības privatizācija saskaņā ar vismaz divas reizes apstiprinātiem privatizācijas noteikumiem nav bijusi sekmīga;
-2) Privatizācijas aģentūra vai pašvaldība atzīst, ka uzņēmuma vai uzņēmējsabiedrības mantas pārdošana ir izdevīgāka nekā citi privatizācijas paņēmieni vai metodes;
-3) lēmumu par uzņēmuma vai uzņēmējsabiedrības likvidāciju ir pieņēmusi institūcija, kurai saskaņā ar likumu «Par uzņēmējdarbību» ir dotas šādas tiesības.
-10. Valsts vai pašvaldības uzņēmuma vai uzņēmējsabiedrības likvidācija notiek likumā «Par uzņēmējdarbību» noteiktajā kārtībā. Objekta kustamā un nekustamā manta, kas palikusi pēc kreditoru prasību apmierināšanas un izmaksām darbiniekiem, tiek pārdota ar vienu no šajā pantā minētajiem privatizācijas paņēmieniem.
-11. Ja privatizējamais valsts vai pašvaldības uzņēmums vai uzņēmējsabiedrība ir atzīta par bankrotējušu, tad, likvidācijas procesā pārdodot šā uzņēmuma vai uzņēmējsabiedrības nekustamo īpašumu, minimālais izsoles izsludināšanas termiņš ir viens mēnesis.
-12. Ja privatizējamais valsts vai pašvaldības uzņēmums vai uzņēmējsabiedrība tiek pasludināta par maksātnespējīgu, šā uzņēmuma vai uzņēmējsabiedrības maksātnespējas process notiek saskaņā ar likumu "Par uzņēmumu un uzņēmējsabiedrību maksātnespēju".
+9. Valsts vai pašvaldības kapitālsabiedrības likvidācija notiek likumos noteiktajā kārtībā.
+10. (Izslēgta ar 22.06.2005. likumu.)
+11. Ja privatizējamais valsts vai pašvaldības kapitālsabiedrība ir atzīta par bankrotējušu, tad, likvidācijas procesā pārdodot šā kapitālsabiedrības nekustamo īpašumu, minimālais izsoles izsludināšanas termiņš ir viens mēnesis.
+12. Ja privatizējamais valsts vai pašvaldības kapitālsabiedrība tiek pasludināta par maksātnespējīgu, šīs kapitālsabiedrības maksātnespējas process notiek saskaņā ar likumu "Par uzņēmumu un uzņēmējsabiedrību maksātnespēju".

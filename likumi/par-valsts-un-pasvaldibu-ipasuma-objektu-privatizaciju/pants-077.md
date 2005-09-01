@@ -24,4 +24,4 @@
 22) Privatizācijas aģentūras vai pašvaldības pirmpirkuma un atpakaļpirkuma tiesības.
 2. Privatizācijas aģentūra vai pašvaldība ir tiesīga zemesgabala privatizācijas noteikumos ietvert arī citu informāciju.
 3. Privatizācijas noteikumiem jāpievieno zemesgabala īpašuma tiesības apliecinošu dokumentu noraksti.
-4. Ja Privatizācijas aģentūra vai pašvaldība par privatizācijas paņēmienu izvēlējusies izsoli ar pretendentu atlasi, zemesgabala privatizācijas noteikumi vienlaikus ir arī izsoles pretendentu atlases noteikumi.
+4. (Izslēgta ar 22.06.2005. likumu.)

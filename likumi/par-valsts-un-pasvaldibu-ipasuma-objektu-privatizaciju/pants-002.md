@@ -1,9 +1,9 @@
 Privatizācija - vienveidīgu darbību kopums, kuru rezultātā mainās privatizējamā valsts vai pašvaldības īpašuma objekta īpašnieks. Privatizācijas metodes minētas šā likuma 2. pantā.
-Valsts vai pašvaldības īpašuma objekts - uzņēmums, uzņēmējsabiedrība, šā uzņēmuma, uzņēmējsabiedrības mantas sastāvā esošs nekustamais īpašums vai nekustamā īpašuma daļa, manta vai kapitāla daļa, kas ir valsts vai pašvaldības īpašumā, pašvaldības nekustamais īpašums.
+Valsts vai pašvaldības īpašuma objekts - nekustamais īpašums vai nekustamā īpašuma domājamā daļa, kapitālsabiedrība, kapitāla daļa vai cita manta, kas ir valsts vai pašvaldības īpašumā.
 Privatizācijas subjekts - šā likuma izpratnē: noteikta fiziskā vai juridiskā persona, kurai ir tiesības iegūt valsts vai pašvaldību īpašumu privatizācijas procesā.
-Kapitāls - šā likuma izpratnē: mantisku un nemantisku lietu kopums, kuram var noteikt cenu un kuru izmanto uzņēmējdarbībā.
-Privātais kapitāls - kapitāls, kas pieder fiziskajām vai juridiskajām personām, izņemot valsts un pašvaldību uzņēmumus vai valsts un pašvaldību uzņēmējsabiedrības.
-Kapitāla daļa - akcija, daļa vai paja statūtsabiedrībā.
+Kapitāls - šā likuma izpratnē: mantisku un nemantisku lietu kopums, kuram var noteikt cenu un kuru izmanto komercdarbībā.
+Privātais kapitāls - kapitāls, kas pieder fiziskajām vai juridiskajām personām, izņemot valsts vai pašvaldības kapitālsabiedrības.
+Kapitāla daļa - kapitālsabiedrības akcija vai kapitāla daļa.
 Privatizācijas metode - juridisku darbību kopums, kas jāveic, lai privatizētu valsts vai pašvaldības īpašuma objektu.
 Privatizācijas paņēmiens - veids, kādā tiek realizēta privatizācijas metode.
 Valsts īpašuma objekta privatizācijas priekšlikums - saskaņā ar šā likuma 21. pantu privatizācijas subjekta sagatavots priekšlikums par valsts īpašuma objekta privatizāciju.
@@ -16,13 +16,14 @@ Izsole ar pretendentu atlasi - izsole, kurā izsoles rīkotājs nosaka ierobežo
 Īpašuma objekta pārdošana piedāvājumu konkursā - šā likuma izpratnē: privatizācijas paņēmiens, kas paredz pirkuma līgumu slēgt ar personu (piedāvājumu konkursa dalībnieku), kura apņemas vislabākajā veidā pildīt Privatizācijas aģentūras vai pašvaldības izvirzītos noteikumus.
 Īpašuma objekta pārdošana ar tūlītēju samaksu - šā likuma izpratnē: privatizācijas paņēmiens, kas paredz pirkuma līgumu slēgt ar personu, kura apņemas samaksāt visu pirkuma cenu līgumā paredzētajā termiņā un pildīt Privatizācijas aģentūras vai pašvaldības izvirzītos noteikumus.
 Īpašuma objekta pārdošana uz nomaksu - šā likuma izpratnē: privatizācijas paņēmiens, kas paredz pirkuma līgumu slēgt ar personu, kura apņemas maksāt pirkuma cenu pa daļām un vislabākajā veidā pildīt Privatizācijas aģentūras vai pašvaldības izvirzītos noteikumus.
-Kapitāla daļu pārdošana - privatizācijas paņēmiens, kas paredz valsts vai pašvaldības uzņēmuma, pārveidošanu statūtsabiedrībā, vienlaikus pārdodot šīs statūtsabiedrības kapitāla daļas, vai arī valsts vai pašvaldības statūtsabiedrības kapitāla daļu pārdošanu vai to kapitāla daļu pārdošanu, kas pieder valstij vai pašvaldībai uzņēmējsabiedrībā, kurā ir privātais kapitāls.
+Kapitāla daļu pārdošana - privatizācijas paņēmiens, kura rezultātā tiek pārdota valsts vai pašvaldības kapitālsabiedrības kapitāla daļa vai kapitāla daļa, kas pieder valstij vai pašvaldībai kapitālsabiedrībā, kurā ir privātais kapitāls.
 Īpašuma objekts - privatizācijas rezultātā vai citos likumos un normatīvajos aktos paredzētajos gadījumos īpašumā iegūtās ar zemi cieši saistītās ēkas un būves.
 Bijušais valsts īpašuma objekts - īpašuma objekts, kas sākotnēji, pirms privatizācijas vai pirms citos likumos un normatīvajos aktos paredzētās īpašuma tiesību pārejas to jaunajam īpašniekam, bijis valsts īpašums.
 Bijušais pašvaldības īpašuma objekts - īpašuma objekts, kas sākotnēji, pirms privatizācijas vai pirms citos likumos un normatīvajos aktos paredzētās īpašuma tiesību pārejas to jaunajam īpašniekam, bijis pašvaldības īpašums.
-Privatizāciju veicošā institūcija - bezpeļņas organizācija valsts akciju sabiedrība "Privatizācijas aģentūra" vai attiecīgā pašvaldība, kas veic valsts vai pašvaldību īpašuma objektu vai zemesgabalu privatizāciju saskaņā ar šo likumu, kā arī Zemkopības ministrija, kas veic agroservisa uzņēmumu privatizāciju saskaņā ar likumu "Par agroservisa uzņēmumu privatizāciju".
+Privatizāciju veicošā institūcija - valsts akciju sabiedrība "Privatizācijas aģentūra" vai attiecīgā pašvaldība, kas veic valsts vai pašvaldību īpašuma objektu vai zemesgabalu privatizāciju saskaņā ar šo likumu, kā arī Zemkopības ministrija, kas veic agroservisa uzņēmumu privatizāciju saskaņā ar likumu "Par agroservisa uzņēmumu privatizāciju".
 Privatizējamais zemesgabals - apbūvēts vai neapbūvēts zemesgabals, kas nodots privatizācijai.
 Apbūvēts zemesgabals - zemesgabals, uz kura atrodas ēkas vai būves.
 Neapbūvēts zemesgabals - zemesgabals, uz kura neatrodas virszemes ēkas vai būves.
 Pašvaldībai piekrītošs zemesgabals - likuma "Par valsts un pašvaldību zemes īpašuma tiesībām un to nostiprināšanu zemesgrāmatās" 3.panta trešajā daļā minētais zemesgabals.
 Valstij piekrītošs zemesgabals - likuma "Par valsts un pašvaldību zemes īpašuma tiesībām un to nostiprināšanu zemesgrāmatās" 2.panta trešajā daļā minētais zemesgabals.
+Privatizācijas paziņojums - saskaņā ar Valsts un pašvaldību īpašuma privatizācijas un privatizācijas sertifikātu izmantošanas pabeigšanas likumu privatizāciju veicošās institūcijas sagatavots rakstveida piedāvājums ar nosacījumiem personai, kurai ir pirmpirkuma tiesības, iegādāties apbūvētu zemesgabalu.

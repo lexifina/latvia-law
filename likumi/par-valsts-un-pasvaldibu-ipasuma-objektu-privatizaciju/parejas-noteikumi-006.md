@@ -1,1 +1,0 @@
-6. Ministru kabinets rīkojumu par Privatizācijas aģentūras likvidāciju var izdot tikai pēc šā likuma pārejas noteikumu 5.punktā paredzētās Privatizācijas aģentūras funkciju nodošanas citām institūcijām.

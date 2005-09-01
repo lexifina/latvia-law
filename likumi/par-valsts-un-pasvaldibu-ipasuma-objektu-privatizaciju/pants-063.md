@@ -2,7 +2,7 @@
 1. Maksājumi par privatizējamo zemi veicami:
 1) latos;
 2) īpašuma kompensācijas sertifikātos.
-2. Īpašuma kompensācijas sertifikātu daudzumu maksājumos par privatizējamo zemesgabalu saskaņā ar Ministru kabineta noteikumiem par maksāšanas līdzekļu attiecību un maksāšanas kārtību nosaka privatizāciju veicošā institūcija.
+2. (Izslēgta ar 22.06.2005. likumu.)
 3. Maksājumi par privatizēto zemesgabalu latos ieskaitāmi attiecīgajos valsts vai pašvaldību īpašuma privatizācijas fondos.
 4. Ja uz valsts vārda zeme ir nostiprināta saskaņā ar likuma "Par valsts un pašvaldību zemes īpašuma tiesībām un to nostiprināšanu zemesgrāmatās" 2.panta trešo daļu, latos veiktie maksājumi par privatizēto zemesgabalu ieskaitāmi attiecīgajos valsts vai pašvaldību īpašuma privatizācijas fondos saskaņā ar likumu "Par valsts un pašvaldību īpašuma privatizācijas fondiem" kā maksājumi par pašvaldības īpašuma objektu.
 5. Ja uz pašvaldības vārda zeme ir nostiprināta saskaņā ar likuma "Par valsts un pašvaldību zemes īpašuma tiesībām un to nostiprināšanu zemesgrāmatās" 3.panta trešo daļu, latos veiktie maksājumi par privatizēto zemesgabalu ieskaitāmi attiecīgajos valsts vai pašvaldību īpašuma privatizācijas fondos saskaņā ar likumu "Par valsts un pašvaldību īpašuma privatizācijas fondiem" kā maksājumi par valsts īpašuma objektu.

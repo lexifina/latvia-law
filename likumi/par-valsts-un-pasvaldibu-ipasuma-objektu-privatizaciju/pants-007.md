@@ -1,7 +1,7 @@
 7. pants. Privatizācijas aģentūras juridiskais statuss
-1. Privatizācijas aģentūra ir valsts bezpeļņas organizācija, kas darbojas saskaņā ar šo likumu, likumu «Par bezpeļņas organizāciju», likumu «Par akciju sabiedrībām», citiem likumiem un saviem statūtiem. Statūtus apstiprina, kā arī grozījumus tajos izdara Ministru kabinets.
-2. Privatizācijas aģentūru saskaņā ar šo likumu dibina valsts Ministru kabineta personā.
-3. Privatizācijas aģentūra ir juridiskā persona, tai ir savi norēķinu konti bankās un zīmogs.
-4. Privatizācijas aģentūras ietvaros tiek izveidota šķīrējtiesa, kas darbojas saskaņā ar nolikumu. Šķīrējtiesa izskata strīdus, kas radušies no civiltiesiskajām attiecībām starp privatizētiem uzņēmumiem, privatizējamiem uzņēmumiem, kā arī jebkurus citus strīdus, ja strīdā iesaistītās puses tā ir pielīgušas.
+1. Privatizācijas aģentūra ir valsts akciju sabiedrība, kas darbojas saskaņā ar šo likumu, citiem likumiem un saviem statūtiem. Statūtus apstiprina, kā arī grozījumus tajos izdara Ministru kabinets.
+2. (Izslēgta ar 22.06.2005. likumu.)
+3. (Izslēgta ar 22.06.2005. likumu.)
+4. (Izslēgta ar 22.06.2005. likumu.)
 5. Privatizācijas aģentūras valdes un tās pilnvarotu institūciju lēmumus, kas aizskar kādas personas intereses, šī persona var pārsūdzēt tiesā.
 6. Lēmumu par Privatizācijas aģentūras likvidāciju pieņem Ministru kabinets, izdodot par to rīkojumu. Privatizācijas aģentūras likvidāciju veic likvidācijas komisija triju likvidatoru sastāvā, kurus pēc ekonomikas ministra priekšlikuma ieceļ Ministru kabinets. Ministru kabinets var jebkurā laikā likvidatoru atcelt vai atstādināt no viņam uzticēto pienākumu pildīšanas.

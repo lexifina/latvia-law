@@ -22,4 +22,4 @@
 2. Privatizācijas noteikumiem jāpievieno objekta īpašuma tiesības apliecinošu dokumentu noraksti.
 3. Ja Privatizācijas aģentūra par privatizācijas paņēmienu izvēlējusies izsoli ar pretendentu atlasi, valsts īpašuma objekta privatizācijas noteikumi vienlaikus ir arī izsoles pretendentu atlases noteikumi.
 4. Ja Privatizācijas aģentūra par privatizācijas paņēmienu izvēlējusies piedāvājumu konkursu, valsts īpašuma objekta privatizācijas noteikumi vienlaikus ir arī privatizējamā objekta piedāvājumu konkursa noteikumi.
-5. Apstiprinot valsts uzņēmuma vai uzņēmējsabiedrības privatizācijas noteikumus, Privatizācijas aģentūrai jāuzaicina privatizējamā uzņēmuma vai uzņēmējsabiedrības darbinieku arodu organizācijas pārstāvis, bet, ja privatizējamā uzņēmumā vai uzņēmējsabiedrībā nav arodu organizācijas, - privatizējamā uzņēmuma vai uzņēmējsabiedrības darbinieku pārstāvis.
+5. Apstiprinot valsts kapitālsabiedrības privatizācijas noteikumus, Privatizācijas aģentūrai jāuzaicina privatizējamā kapitālsabiedrības darbinieku arodu organizācijas pārstāvis, bet, ja privatizējamā kapitālsabiedrībā nav arodu organizācijas, - privatizējamā kapitālsabiedrības darbinieku pārstāvis.
