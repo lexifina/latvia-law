@@ -9,5 +9,5 @@
 2) personām, kuras pēc 1992. gada 28. janvāra atvaļinātas no aktīvā militārā dienesta, ja šīs personas dienestā iesaukšanas brīdī pastāvīgi nedzīvoja Latvijas teritorijā vai nav Latvijas pilsoņu ģimenes locekļi;
 3) šā panta trešās daļas 1. un 2. punktā norādīto personu laulātajiem un kopā ar viņiem dzīvojošajiem ģimenes locekļiem - bērniem un citiem apgādājamajiem, ja šīs personas ieradušās Latvijā sakarā ar Krievijas Federācijas (PSRS) bruņoto spēku militārpersonas dienestu neatkarīgi no tā, kad tās ieradušās Latvijā;
 4) personām, kuras saņēmušas atlīdzību (kompensāciju) par izbraukšanu uz pastāvīgu dzīvi ārvalstīs, neatkarīgi no tā, vai šo atlīdzību (kompensāciju) ir izmaksājušas Latvijas Republikas valsts vai pašvaldību iestādes vai starptautiskie (ārvalstu) fondi vai iestādes;
-5) personām, kuras pēc 1992. gada 1. jūlija ir bez termiņa ierobežojuma reģistrētas (pierakstītas) dzīvesvietā Neatkarīgo Valstu Sadraudzības dalībvalstī vai kuras ir saņēmušas pastāvīgās uzturēšanās atļauju ārvalstī.
+5) (atzīts par spēkā neesošu ar Satversmes tiesas 07.03.2005. spriedumu no 01.09.2005.)
 (4) Nepieciešamos dokumentus un kārtību, kādā personu atzīst par nepilsoni, nosaka Ministru kabinets.
