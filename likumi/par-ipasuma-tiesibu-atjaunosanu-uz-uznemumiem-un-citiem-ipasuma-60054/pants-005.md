@@ -1,6 +1,6 @@
 5. pants. Institūcijas, kuras atjauno īpašuma tiesības
 (1) Visas darbības, kas saistītas ar bijušā īpašnieka vai viņa mantinieku īpašuma tiesību atjaunošanu vai atzīšanu, uzņēmuma mantas vērtības noteikšanu un kompensācijai piešķiramo sertifikātu skaita noteikšanu, jāveic:
-1) Ekonomikas ministrijai vai attiecīgajai valsts īpašuma privatizācijas komisijai attiecībā uz uzņēmumu (uzņēmējsabiedrību), kas ir iekļauts privatizācijai vai atsavināšanai nodoto īpašuma objektu sarakstā. Uzņēmuma (uzņēmējsabiedrības) mantas vērtību aprēķina un kompensācijai piešķiramo privatizācijas sertifikātu daudzumu nosaka valsts akciju sabiedrība "Valsts nekustamā īpašuma aģentūra" (turpmāk - Valsts nekustamā īpašuma aģentūra);
+1) Valsts akciju sabiedrībai "Privatizācijas aģentūra" (turpmāk - Privatizācijas aģentūra) vai attiecīgajai valsts īpašuma privatizācijas komisijai attiecībā uz uzņēmumu (uzņēmējsabiedrību), kas ir iekļauts privatizācijai vai atsavināšanai nodoto īpašuma objektu sarakstā. Uzņēmuma (uzņēmējsabiedrības) mantas vērtību aprēķina un kompensācijai piešķiramo privatizācijas sertifikātu daudzumu nosaka Privatizācijas aģentūra;
 2) (izslēgts ar 10.10.1996. likumu);
 3) attiecīgās pašvaldības domei (padomei), kuras pārziņā ir pašvaldības uzņēmums (uzņēmējsabiedrība) vai kuras pārziņā esošajā pašvaldības uzņēmumā (uzņēmējsabiedrībā) atrodas manta, par kuru iesniegts pieteikums.
 (2) Lēmumu par bijušā īpašnieka vai viņa mantinieku īpašuma tiesību atjaunošanas vai atzīšanas veidu pieņem Ekonomikas ministrija.

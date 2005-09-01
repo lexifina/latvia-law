@@ -1,3 +1,4 @@
 1.pants. Likuma darbība
 (1) Šis likums nosaka kārtību, kādā atjaunojamas un atzīstamas bijušo īpašnieku vai viņu mantinieku īpašuma tiesības uz uzņēmumiem, viesnīcām, kinoteātriem, aptiekām, slimnīcām un citiem īpašuma objektiem, kuru sastāvā ir bijusi nekustamā manta un kuri nacionalizēti vai citādi nelikumīgi atņemti valsts vai pašvaldību iestāžu patvaļas dēļ (turpmāk - nacionalizēti). Bijušajam īpašniekam vai viņa mantiniekiem piešķirama kompensācija privatizācijas sertifikātos vai atjaunojamas īpašuma tiesības uz nacionalizētajiem uzņēmumiem, viesnīcām, kinoteātriem, aptiekām, slimnīcām un citiem īpašuma objektiem, ja uzņēmums izvietots uzņēmuma īpašniekam piederošā namīpašumā, bet namīpašums nav iekļauts uzņēmuma bilancē.
 (2) Šis likums neattiecas uz namīpašumiem un zemi.
+(3) Šā likuma normas ir piemērojamas, ja Valsts un pašvaldību īpašuma privatizācijas un privatizācijas sertifikātu izmantošanas pabeigšanas likumā nav noteikts citādi.

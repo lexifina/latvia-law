@@ -16,5 +16,5 @@
 (3) Ja uzņēmējdarbība, kuru pašlaik veic valsts uzņēmums saskaņā ar likumu "Par uzņēmējdarbību", ir atļauta tikai valsts uzņēmumiem, Ministru kabinetam ir tiesības bijušajam īpašniekam vai viņa mantiniekiem neatdot uzņēmumu, bet piešķirt kompensāciju.
 (4) Kompensācija bijušajam īpašniekam vai viņa mantiniekiem piešķirama saskaņā ar likumu "Par privatizācijas sertifikātiem" un šo likumu.
 (5) Ja tiesa taisījusi spriedumu par īpašuma prasības apmierināšanu, bet apmierinājuma apmērs ir mazāks par to mantas vērtību, uz kuru saskaņā ar šā likuma 7. pantu atjaunojamas bijušā īpašnieka vai viņa mantinieku īpašuma tiesībām, par trūkstošo daļu Ekonomikas ministrijai jāpiešķir bijušajam īpašniekam vai viņa mantiniekiem kompensācija privatizācijas sertifikātos.
-(6) Ja uzņēmuma valdītājs ir šā panta pirmās daļas 6. un 7.punktā minētā fiziskā vai juridiskā persona, lēmumu par kompensācijas piešķiršanu privatizācijas sertifikātos pieņem Ekonomikas ministrija, bet privatizācijas sertifikātu daudzumu nosaka Valsts nekustamā īpašuma aģentūra.
+(6) Ja uzņēmuma valdītājs ir šā panta pirmās daļas 6. un 7.punktā minētā fiziskā vai juridiskā persona, lēmumu par kompensācijas piešķiršanu privatizācijas sertifikātos pieņem Ekonomikas ministrija, bet privatizācijas sertifikātu daudzumu nosaka Privatizācijas aģentūra.
 (7) (Izslēgta ar 10.10.1996. likumu.)
