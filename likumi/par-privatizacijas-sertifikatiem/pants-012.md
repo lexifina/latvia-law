@@ -1,3 +1,3 @@
 12.pants. Kompensācija par pilsētu zemi
-(1) Lēmumu piešķirt kompensāciju par pilsētu zemi pieņem pilsētas dome, pamatojoties uz dokumentiem, ko iesniedz pieprasītājs saskaņā ar Augstākās padomes 1991.gada 12.jūnija lēmumu "Par pasākumiem zemes reformas nodrošināšanai Latvijas Republikas pilsētās" un likumu "Par zemes reformu Latvijas Republikas pilsētās".
+(1) Lēmumu piešķirt kompensāciju par pilsētu zemi pieņem pilsētas zemes komisija, bet, ja nokavēts termiņš, līdz kuram bija jāiesniedz dokumenti, kas apliecina zemes īpašuma vai mantošanas tiesības, - Centrālā zemes komisija, pamatojoties uz dokumentiem, ko iesniedz pieprasītājs saskaņā ar Augstākās padomes 1991.gada 12.jūnija lēmumu "Par pasākumiem zemes reformas nodrošināšanai Latvijas Republikas pilsētās" un likumu "Par zemes reformu Latvijas Republikas pilsētās".
 (2) Sertifikātu daudzumu, ar kādu kompensējama pilsētu zeme, nosaka Ministru kabineta noteikumos paredzētajā kārtībā un apmērā.
