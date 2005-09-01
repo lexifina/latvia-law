@@ -1,0 +1,1 @@
+6. Ministru kabinets ne vēlāk kā līdz 2005.gada 1.septembrim izdod noteikumus, kuros reglamentē šā likuma 32.panta septītajā daļā minētās priekšapmaksas kārtību, kā arī kārtību, kādā saskaņā ar šā likuma 23.panta pirmo daļu un 24.panta pirmo daļu iesniedzams apliecinājums par zemes izpirkšanas maksājumu privatizācijas sertifikātos pirms zemes izpirkšanas līguma slēgšanas.

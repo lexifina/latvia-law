@@ -1,0 +1,1 @@
+11. Šā likuma 19.panta pirmajā un trešajā daļā noteiktais lēmuma pieņemšanas termiņš par tiem atsavināšanas ierosinājumiem, kuri saņemti līdz šā likuma spēkā stāšanās dienai, skaitāms nevis no ierosinājuma iesniegšanas dienas, bet no dienas, kad attiecīgais atsavināšanas ierosinājums reģistrēts Atsavināšanas reģistrā.

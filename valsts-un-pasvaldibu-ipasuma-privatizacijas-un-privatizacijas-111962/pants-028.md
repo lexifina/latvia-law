@@ -1,0 +1,5 @@
+28.pants. Privatizācijas sertifikātu dzēšana, saņemot samaksu naudā
+(1) Tiesības dzēst privatizācijas sertifikātus likumos noteiktajos gadījumos, saņemot to vērtību naudā, noilgst, ja persona:
+1) tiesības dzēst privatizācijas sertifikātus ir ieguvusi līdz 2005.gada 30.septembrim, bet līdz 2006.gada 29.septembrim nav veikusi Ministru kabineta noteikumos paredzētās darbības ar privatizācijas sertifikātiem un nav paziņojusi bankas kontu, kurā ieskaitāma nauda;
+2) tiesības dzēst privatizācijas sertifikātus ir ieguvusi pēc 2005.gada 30.septembra, bet pēc tam 12 mēnešu laikā nav veikusi Ministru kabineta noteikumos paredzētās darbības ar privatizācijas sertifikātiem un nav paziņojusi bankas kontu, kurā ieskaitāma nauda.
+(2) Šā panta pirmā daļa nav piemērojama likuma "Par kompensāciju izmaksas atjaunošanu administratīvi nepamatoti izsūtītajām personām un šīm personām piešķirto īpašuma kompensācijas sertifikātu dzēšanu" izpildē, kā arī attiecībā uz likuma "Par zemes privatizāciju lauku apvidos" 12.pantā minētajām politiski represētajām personām.

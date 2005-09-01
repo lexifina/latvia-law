@@ -1,0 +1,4 @@
+17.pants. Rīcība ar tautsaimniecībai svarīgiem objektiem
+(1) Valsts akciju sabiedrību "Latvenergo", valsts akciju sabiedrību "Latvijas pasts", valsts akciju sabiedrību "Starptautiskā lidosta "Rīga"", valsts akciju sabiedrību "Latvijas dzelzceļš", valsts akciju sabiedrību "Latvijas gaisa satiksme" un valsts akciju sabiedrību "Latvijas valsts meži" un šo sabiedrību akcijas nedrīkst privatizēt vai atsavināt.
+(2) Ja šā panta pirmajā daļā minētajai valsts akciju sabiedrībai pieder 100procenti kapitāla daļu citā kapitālsabiedrībā, lēmumu par to, ka šā panta pirmajā daļā minētajai valsts akciju sabiedrībai citā kapitālsabiedrībā vairs nepiederēs 100 procenti kapitāla daļu, pieņem Ministru kabinets.
+(3) Lēmumu par šā panta pirmajā daļā minētās valsts akciju sabiedrības izšķirošās ietekmes (Koncernu likuma izpratnē) izbeigšanu citās sabiedrībās pieņem Ministru kabinets.

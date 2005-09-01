@@ -1,0 +1,1 @@
+10. Šā likuma 6.panta pirmajā un otrajā daļā, kā arī 7.panta pirmajā un ceturtajā daļā noteiktais lēmuma pieņemšanas termiņš par tiem privatizācijas ierosinājumiem, kuri saņemti līdz šā likuma spēkā stāšanās dienai, skaitāms nevis no ierosinājuma iesniegšanas dienas, bet no dienas, kad attiecīgais privatizācijas ierosinājums reģistrēts Privatizācijas reģistrā.

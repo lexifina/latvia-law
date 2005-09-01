@@ -1,0 +1,2 @@
+VI nodaļa
+Privatizācijas sertifikātu izmantošanas nosacījumi

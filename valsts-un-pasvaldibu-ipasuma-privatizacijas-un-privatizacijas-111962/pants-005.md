@@ -1,0 +1,12 @@
+5.pants. Privatizācijas ierosinājumu iesniegšana un reģistrācija
+(1) Valsts vai pašvaldības īpašuma objekta privatizācijas ierosinājumu likuma "Par valsts un pašvaldību īpašuma objektu privatizāciju" 12.panta pirmajā un otrajā daļā vai 31.panta pirmajā un otrajā daļā noteiktajā kārtībā un valstij vai pašvaldībai piederoša vai piekrītoša apbūvēta un neapbūvēta zemesgabala privatizācijas ierosinājumu likuma "Par valsts un pašvaldību īpašuma objektu privatizāciju" 65.pantā noteiktajā kārtībā ir tiesības iesniegt līdz 2006.gada 31.augustam (turpmāk - pabeigšanas datums).
+(2) Saskaņā ar likuma "Par valsts un pašvaldību īpašuma objektu privatizāciju" 65.panta pirmo daļu apbūvēta zemesgabala privatizācijas ierosinājumu ir tiesīga iesniegt:
+1) persona, kuras īpašuma tiesības uz ēkām (būvēm), kas atrodas uz šā zemesgabala, ir nostiprinātas zemesgrāmatā;
+2) persona, kuras īpašuma tiesības uz ēkām (būvēm), kas atrodas uz šā zemesgabala, nav nostiprinātas zemesgrāmatā likumos noteikto ierobežojumu dēļ, bet kura ieguvusi tiesības uz šīm ēkām (būvēm) privatizācijas rezultātā.
+(3) Visus valsts vai pašvaldību īpašuma objektu un apbūvētu un neapbūvētu zemesgabalu privatizācijas ierosinājumus reģistrē privatizācijas ierosinājumu reģistrā (turpmāk - Privatizācijas reģistrs).
+(4) Privatizācijas reģistru izveido un uztur privatizāciju veicošās institūcijas.
+(5) Privatizācijas ierosinājumus to iesniegšanas secībā Privatizācijas reģistrā reģistrē šo ierosinājumu saņemšanas dienā.
+(6) Privatizācijas reģistrā ierosinājumu iesniegšanas secībā reģistrē arī visus tos valsts vai pašvaldību īpašuma objektu un apbūvētu un neapbūvētu zemesgabalu privatizācijas ierosinājumus, kurus privatizāciju veicošā institūcija ir saņēmusi pirms šā likuma spēkā stāšanās un par kuros minētajiem objektiem vai zemesgabaliem nav noslēgts pirkuma līgums.
+(7) Pašvaldības pēc pabeigšanas datuma reizi ceturksnī iesniedz Ekonomikas ministrijai ziņas par saņemtajiem pašvaldības īpašuma objektu un apbūvētu un neapbūvētu zemesgabalu privatizācijas ierosinājumiem, lēmumiem par šo objektu un zemesgabalu nodošanu privatizācijai, pārdošanas cenu un samaksai izmantojamo privatizācijas sertifikātu daudzumu.
+(8) Privatizācijas reģistrā ierakstāmās ziņas ir publiski pieejamas, izņemot tās ziņas, kuras saskaņā ar Fizisko personu datu aizsardzības likumu nav izpaužamas trešajai personai.
+(9) Privatizācijas reģistrā ierakstāmās ziņas un reģistra vešanas kārtību nosaka Ministru kabinets.

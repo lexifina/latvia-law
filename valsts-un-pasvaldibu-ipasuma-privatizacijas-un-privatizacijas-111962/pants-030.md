@@ -1,0 +1,7 @@
+30.pants. Īpašuma kompensācijas sertifikātos maksājamā daļa par privatizējamo zemesgabalu
+(1) Privatizējot valstij vai pašvaldībai piederošu vai piekrītošu atsevišķu apbūvētu zemesgabalu vai nekustamā īpašuma sastāvā ietilpstošu zemi, kuras privatizācijas ierosinājums ir iesniegts un noteiktā kārtībā reģistrēts privatizāciju veicošajā institūcijā līdz 2003.gada 31.decembrim, īpašuma kompensācijas sertifikātos maksājamā daļa ir ne mazāka par 80 procentiem, bet zemesgabalam, kas atrodas īpaši atbalstāmajās teritorijās, - ne mazāka par 90 procentiem no zemesgabala pārdošanas cenas.
+(2) Privatizējot valstij vai pašvaldībai piederošu vai piekrītošu atsevišķu apbūvētu zemesgabalu, kura privatizācijas ierosinājums ir iesniegts un noteiktā kārtībā reģistrēts privatizāciju veicošajā institūcijā no 2004.gada 1.janvāra līdz pabeigšanas datumam, īpašuma kompensācijas sertifikātos maksājamā daļa no zemesgabala pārdošanas cenas ir šāda:
+1) Rīgā un Jūrmalā - 40 procenti;
+2) Daugavpilī, Liepājā, Jelgavā, Rēzeknē, Ventspilī un Rīgas rajona pilsētās - 50 procenti;
+3) citās pilsētās un lauku apvidos - 80 procenti.
+(3) Zemesgabala pircējs ir tiesīgs īpašuma kompensācijas sertifikātos maksājamo daļu samaksāt latos, bet likuma "Par zemes reformu Latvijas Republikas pilsētās" 31.panta septītajā un astotajā daļā un likuma "Par valsts un pašvaldību īpašuma objektu privatizāciju" 63.panta sestajā daļā minētajos gadījumos - latos maksājamo daļu samaksāt īpašuma kompensācijas sertifikātos.

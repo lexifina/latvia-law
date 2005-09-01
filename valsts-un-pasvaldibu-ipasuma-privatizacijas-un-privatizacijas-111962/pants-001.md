@@ -1,0 +1,5 @@
+1.pants. Likumā lietotie termini un jēdzieni
+(1) Termini un jēdzieni šā likuma normās, kuras regulē valsts vai pašvaldības īpašuma objektu un valstij vai pašvaldībai piederošo vai piekrītošo apbūvētu un neapbūvētu zemesgabalu privatizāciju, lietoti likuma "Par valsts un pašvaldību īpašuma objektu privatizāciju" izpratnē.
+(2) Termini un jēdzieni šā likuma normās, kuras regulē valsts vai pašvaldības mantas atsavināšanu, lietoti Valsts un pašvaldību mantas atsavināšanas likuma izpratnē.
+(3) Termini un jēdzieni šā likuma normās, kuras regulē privatizācijas sertifikātu piešķiršanu, darījumus ar privatizācijas sertifikātiem, kā arī privatizācijas sertifikātu izmantošanu, lietoti likuma "Par privatizācijas sertifikātiem" izpratnē.
+(4) Termini un jēdzieni šā likuma normās, kuras regulē zemes reformas pabeigšanu pilsētās un lauku apvidos, lietoti likumu "Par zemes reformu Latvijas Republikas pilsētās", "Par zemes reformas pabeigšanu pilsētās", "Par zemes privatizāciju lauku apvidos" un "Par zemes reformas pabeigšanu lauku apvidos" izpratnē.

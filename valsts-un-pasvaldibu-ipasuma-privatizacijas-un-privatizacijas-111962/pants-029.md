@@ -1,0 +1,2 @@
+29.pants. Privatizācijas sertifikātu atpakaļpārskaitīšanas izbeigšana
+Pēc tam, kad pieņemts lēmums par valsts vai pašvaldības īpašuma privatizācijas pabeigšanu, privatizāciju veicošā institūcija nav tiesīga veikt darbības, kuru rezultātā privatizācijas sertifikāti tiek pārskaitīti atpakaļ valsts vai pašvaldības īpašuma ieguvējam. Atsavināšanas gadījumā īpašuma kompensācijas sertifikāti netiek pārskaitīti atpakaļ pēc pirkuma līgumā paredzēto saistību izpildes.

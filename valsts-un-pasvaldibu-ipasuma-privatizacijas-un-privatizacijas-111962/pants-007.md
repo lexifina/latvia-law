@@ -1,0 +1,8 @@
+7.pants. Lēmums par apbūvēta zemesgabala nodošanu privatizācijai
+(1) Lēmumu par valstij piederoša apbūvēta zemesgabala nodošanu privatizācijai, ja uz šā zemesgabala esošās ēkas (būves) īpašniekam īpašuma tiesības ir nostiprinātas zemesgrāmatā, pieņem Privatizācijas aģentūra ne vēlāk kā divu mēnešu laikā no dienas, kad saņemts privatizācijas ierosinājums un visi privatizācijai nepieciešamie dokumenti, kas apliecina personas pirmpirkuma tiesības.
+(2) Privatizācijas aģentūra nedrīkst nodot privatizācijai apbūvētu zemesgabalu, par kuru Ministru kabinets ir pieņēmis lēmumu, ka zemesgabals saglabājams valsts īpašumā, jo tas ir nepieciešams valsts pārvaldes funkciju veikšanai saskaņā ar Valsts pārvaldes iekārtas likumu. Ministru kabineta lēmumā norādāms, kuras valsts pārvaldes funkcijas veikšanai zemesgabals nepieciešams.
+(3) Pēc tam, kad saņemts Privatizācijas aģentūras lēmums par apbūvēta zemesgabala privatizācijas uzsākšanu, valsts institūcija, kuras valdījumā atrodas attiecīgais zemesgabals, nodod to Privatizācijas aģentūrai likuma "Par valsts un pašvaldību īpašuma objektu privatizāciju" 67.pantā noteiktajā termiņā un kārtībā.
+(4) Lēmumu par pašvaldībai piederoša vai piekrītoša apbūvēta zemesgabala nodošanu privatizācijai pieņem pašvaldības dome (padome) ne vēlāk kā divu mēnešu laikā no dienas, kad saņemts privatizācijas ierosinājums un visi privatizācijai nepieciešamie dokumenti, kas apliecina personas pirmpirkuma tiesības.
+(5) Ministru kabinets šā likuma 6.pantā noteiktajā kārtībā pieņem lēmumu par:
+1) šā likuma 5.panta otrās daļas 2.punktā minētā apbūvēta zemesgabala nodošanu privatizācijai;
+2) valstij piekrītoša pašvaldības valdījumā esoša apbūvēta zemesgabala nodošanu privatizācijai.

@@ -1,0 +1,1 @@
+4.Pārejas noteikumu 3.punktā minēto zemesgabalu privatizē vai atsavina saskaņā ar šā likuma noteikumiem par apbūvēta zemesgabala privatizāciju vai atsavināšanu, ja ne vēlāk kā līdz 2007.gada 1.septembrim zemesgrāmatā tiek nostiprinātas nomnieka īpašuma tiesības uz ēkām (būvēm), kas atrodas uz zemesgabala.
