@@ -5,3 +5,4 @@
 4) nekustamo īpašumu iegūst šā likuma 4.panta ceturtajā daļā minētā persona. Šajā gadījumā pārdošanas cena ir vienāda ar nosacīto cenu (8.pants).
 (2) Sludinājums par valsts mantas pārdošanu publicējams laikrakstā "Latvijas Vēstnesis", bet par pašvaldības mantas pārdošanu - attiecīgās pašvaldības teritorijā izdotajā laikrakstā.
 (3) Ja piecu dienu laikā pēc šā panta otrajā daļā minētā sludinājuma publicēšanas piesakās vairāki pircēji, rīkojama izsole.
+(4) Šā panta otrā un trešā daļa tiek piemērota gadījumos, kad saskaņā ar šā likuma noteikumiem tiek rīkota valsts vai pašvaldības mantas izsole.

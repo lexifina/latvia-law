@@ -10,4 +10,4 @@
 6) dzīvokļa īpašnieks, ja viņam ir pirmpirkuma tiesības uz citu dzīvokļa īpašumu tajā pašā daudzdzīvokļu mājā;
 7) kopīpašnieks, ja viņš vēlas izbeigt kopīpašuma attiecības ar valsti vai pašvaldību;
 8) pēc zemes reformas pabeigšanas persona, kurai atbilstoši zemes reformas likumiem līdz šā likuma spēkā stāšanās dienai zeme piešķirta pastāvīgā lietošanā.
-(5) Šā panta ceturtajā daļā minēto personu ierosinājumu iesniegšanas un izskatīšanas kārtību, kā arī noraidīšanas nosacījumus nosaka Ministru kabinets.
+(5) Ministru kabinets izdod noteikumus, kuros paredz kārtību, kādā šā panta ceturtajā daļā minētās personas iesniedz atsavināšanas ierosinājumu, kā arī kārtību, kādā tiek izskatīti saņemtie atsavināšanas ierosinājumi, pieņemts lēmums par valsts vai pašvaldības mantas nodošanu atsavināšanai vai ierosinājuma noraidīšanu, un kārtību, kādā tiek atcelts lēmums par nodošanu atsavināšanai.
