@@ -2,8 +2,8 @@
 (1) Saskaņā ar šīs nodaļas noteikumiem privatizēt vai atsavināt var tikai to zemi, uz kuru valsts vai pašvaldības īpašuma tiesības ir nostiprinātas zemesgrāmatā.
 (2) (Otrā daļa izslēgta ar 01.11.2001. likumu.)
 (3) Zemes privatizāciju vai atsavināšanu gadījumos, kad uz tās atrodas privatizācijai vai atsavināšanai nodotie un privatizētie vai atsavinātie pašvaldību īpašuma objekti, veic tā pašvaldība, kuras īpašumā ir attiecīgā zeme.
-(4) Ja uz zemes atrodas valsts īpašuma objekti, kas nodoti atsavināšanai vai atsavināti saskaņā ar likumu "Par valsts un pašvaldību mantas atsavināšanas kārtību", vai valsts īpašuma objekti, kas nodoti privatizācijai vai privatizēti, šīs zemes privatizāciju veic vai šo zemi atsavina valsts akciju sabiedrība "Valsts nekustamā īpašuma aģentūra" (turpmāk - Valsts nekustamā īpašuma aģentūra).
-(5) Pārējos gadījumos, kas nav minēti šā panta trešajā un ceturtajā daļā, valsts zemi atsavina Valsts nekustamā īpašuma aģentūra saskaņā ar likumu "Par valsts un pašvaldību mantas atsavināšanas kārtību".
+(4) Ja uz zemes atrodas valsts īpašuma objekti, kas nodoti privatizācijai vai privatizēti, šīs zemes privatizāciju veic valsts akciju sabiedrība "Privatizācijas aģentūra" (turpmāk - Privatizācijas aģentūra).
+(5) Pārējos gadījumos, kas nav minēti šā panta trešajā un ceturtajā daļā, valsts zemi atsavina Valsts nekustamie īpašumi saskaņā ar Valsts un pašvaldību mantas atsavināšanas likumu.
 (6) Lai varētu privatizēt vai atsavināt zemi šā panta trešajā, ceturtajā un piektajā daļā paredzētajos gadījumos, Ministru kabinets izdod rīkojumu vai attiecīgā pašvaldība pieņem lēmumu par zemes nodošanu privatizācijai vai par tās atsavināšanu.
 (7) Valsts īpašuma objektus, kuri tiek nodoti privatizācijai pēc 1997.gada 17.janvāra, var privatizēt vai atsavināt kopā ar zemi, uz kuras atrodas privatizācijai vai atsavināšanai nodotais īpašuma objekts, pamatojoties uz lēmumu, kuru pieņem institūcija, kas veic attiecīgā objekta privatizāciju vai atsavināšanu.
 (8) Pašvaldību īpašuma objektus, kuri tiek nodoti privatizācijai pēc 1997.gada 17.janvāra, var privatizēt vai atsavināt kopā ar zemi, pamatojoties uz attiecīgās pašvaldības lēmumu.

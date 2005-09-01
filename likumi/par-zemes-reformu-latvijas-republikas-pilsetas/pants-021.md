@@ -4,3 +4,4 @@
 1) zemi valsts pierobežas joslās;
 2) zemi Baltijas jūras un Rīgas jūras līča kāpu aizsargjoslās un citu publisko ūdenstilpju un ūdensteču aizsargjoslās, izņemot gadījumus, kad tās paredzētas apbūvei atbilstoši pilsētas ģenerālplānam;
 3) lauksaimniecības un meža zemi atbilstoši pilsētas pašvaldības teritorijas plānojumam.
+(3) Šajā pantā minētie ierobežojumi darījumiem ar zemes īpašumiem neattiecas uz zemes iegūšanu īpašuma mantošanas ceļā.

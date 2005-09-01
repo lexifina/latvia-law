@@ -1,1 +1,0 @@
-1. Šā likuma 28.panta ceturtajā un piektajā daļā paredzētās Valsts nekustamā īpašuma aģentūras funkcijas attiecībā uz tās zemes privatizāciju, uz kuras atrodas privatizācijai nodotie vai privatizētie valsts īpašuma objekti, veic Privatizācijas aģentūra līdz brīdim, kad saskaņā ar Ministru kabineta lēmumu tā šīs funkcijas ir nodevusi Valsts nekustamā īpašuma aģentūrai.

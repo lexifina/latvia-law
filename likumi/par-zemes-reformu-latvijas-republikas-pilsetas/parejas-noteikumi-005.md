@@ -1,0 +1,1 @@
+5. Grozījums šā likuma 12.panta otrajā daļā attiecībā uz nomas maksu zemei, uz kuras atrodas ēkas un būves, kas privatizētas likumos un normatīvajos aktos paredzētajos gadījumos, piemērojams nomas līgumiem, kas noslēgti pēc 2005.gada 1.septembra.
