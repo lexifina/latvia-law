@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2003. gada 23. decembra noteikumos Nr. 747 \"Kuģu pasažieru reģistrācijas kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "143",
+  "official_journal_page": null,
+  "official_journal_date": "2005-09-08",
+  "entry_into_force": "2005-09-09",
+  "notification_date": "2005-12-20",
+  "commission_reference": "MNE(2005)60589",
+  "nim_celex": "71998L0041LVA_126663",
+  "nim_id": "126663",
+  "transposes_celex": [
+    "31998L0041",
+    "32002L0084"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/628511e5-ad0f-4cf5-b04a-0f8eb0c1487c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
