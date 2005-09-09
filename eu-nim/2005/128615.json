@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Par Noteikumiem par pamatpiedāvājuma izstrādes kārtību, iekļaujamo informāciju un publicēšanu",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "143",
+  "official_journal_page": null,
+  "official_journal_date": "2005-09-08",
+  "entry_into_force": "2005-09-09",
+  "notification_date": "2006-02-22",
+  "commission_reference": "MNE(2006)51154",
+  "nim_celex": "72002L0019LVA_128615",
+  "nim_id": "128615",
+  "transposes_celex": [
+    "32002L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/99ffd9d2-13f7-48e5-b965-4043f68a34fa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
