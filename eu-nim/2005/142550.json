@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Bīstamo kravu pārvadājumu noteikumi",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "144",
+  "official_journal_page": null,
+  "official_journal_date": "2005-09-09",
+  "entry_into_force": "2005-09-10",
+  "notification_date": "2007-03-08",
+  "commission_reference": "MNE(2007)52139",
+  "nim_celex": "72006L0089LVA_142550",
+  "nim_id": "142550",
+  "transposes_celex": [
+    "32006L0089"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b7746d88-7392-46ab-94b4-447f30ffc0ce",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
