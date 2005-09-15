@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2005. gada 30. augusta noteikumi Nr. 664 \"Sabiedrisko pakalpojumu licencēšanas noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "146",
+  "official_journal_page": null,
+  "official_journal_date": "2005-09-14",
+  "entry_into_force": "2005-09-15",
+  "notification_date": "2026-11-03",
+  "commission_reference": "MNE(2026)08230",
+  "nim_celex": "72024L1788LVA_202608230",
+  "nim_id": "202608230",
+  "transposes_celex": [
+    "32024L1788"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/438c1e9c-506a-4236-a75d-54901ed441f7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
