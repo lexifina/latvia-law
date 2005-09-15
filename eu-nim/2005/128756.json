@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par Sabiedrisko pakalpojumu regulēšanas komisijai iesniedzamo informāciju",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "146",
+  "official_journal_page": null,
+  "official_journal_date": "2005-09-14",
+  "entry_into_force": "2005-09-15",
+  "notification_date": "2006-02-23",
+  "commission_reference": "MNE(2006)51249",
+  "nim_celex": "72002L0021LVA_128756",
+  "nim_id": "128756",
+  "transposes_celex": [
+    "32002L0021"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/650a31e4-b273-4385-8034-fe8a4c01e3d2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
