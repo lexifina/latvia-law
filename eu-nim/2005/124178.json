@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Liellopu, cūku, aitu, kazu un zirgu vaislinieku, to bioprodukta un transplantējamo embriju sertifikācijas kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "147",
+  "official_journal_page": null,
+  "official_journal_date": "2005-09-15",
+  "entry_into_force": null,
+  "notification_date": "2005-09-30",
+  "commission_reference": "MNE(2005)54178",
+  "nim_celex": "71987L0328LVA_124178",
+  "nim_id": "124178",
+  "transposes_celex": [
+    "31987L0328",
+    "31989L0361",
+    "31990L0118",
+    "31990L0427"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/08bc19f4-c6fb-4661-a660-9a8eb639b23b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
