@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2000.gada 25.aprīļa noteikumos Nr.158 \"Noteikumi par bīstamo ķīmisko vielu un bīstamo ķīmisko produktu lietošanas un tirdzniecības ierobežojumiem un aizliegumiem\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "146",
+  "official_journal_page": null,
+  "official_journal_date": "2005-06-14",
+  "entry_into_force": "2005-09-15",
+  "notification_date": "2005-10-11",
+  "commission_reference": "MNE(2005)54953",
+  "nim_celex": "72004L0096LVA_124953",
+  "nim_id": "124953",
+  "transposes_celex": [
+    "32004L0096"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a21e79f0-abd1-4ee4-a041-fece75547aeb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
