@@ -1,0 +1,1 @@
+1.pants. Ar Apvienoto Nāciju Organizācijas Ģenerālās Asamblejas 1995.gada 21.decembra rezolūciju Nr.50/155 apstiprinātais grozījums Konvencijā par bērna tiesībām, kas paredz 43.panta otrajā daļā aizstāt vārdu "desmit" ar vārdu "astoņpadsmit" (turpmāk - Grozījums), ar šo likumu tiek pieņemts un apstiprināts.

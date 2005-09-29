@@ -1,0 +1,1 @@
+2.pants. Grozījums stājas spēkā dienā, kad Grozījuma apstiprināšanas dokuments ir deponēts Apvienoto Nāciju Organizācijas Ģenerālsekretāram, un Ārlietu ministrija par to paziņo laikrakstā "Latvijas Vēstnesis".
