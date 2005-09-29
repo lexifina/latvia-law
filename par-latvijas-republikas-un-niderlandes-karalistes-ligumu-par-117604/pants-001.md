@@ -1,0 +1,1 @@
+1.pants. Latvijas Republikas 2005.gada 25.aprīļa notas Nr.41/651-3235 un Nīderlandes Karalistes 2004.gada 17.februāra notas Nr.41/04 apmaiņas ceļā noslēgtais Latvijas Republikas un Nīderlandes Karalistes līgums par sakaru virsnieku privilēģijām un imunitāti (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
