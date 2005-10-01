@@ -12,4 +12,5 @@
 3) naudas sods;
 4) tiesību ierobežošana;
 5) policijas kontrole.
-(3) Sodu izciešanas kārtību nosaka saskaņā ar likumu.
+(3) Personai, kura izdarījusi kriminālpārkāpumu vai mazāk smagu noziegumu, prokurors, sastādot priekšrakstu par sodu, var noteikt naudas sodu vai piespiedu darbu, kā arī papildsodu - tiesību ierobežošanu.
+(4) Sodu izciešanas kārtību nosaka saskaņā ar likumu.
