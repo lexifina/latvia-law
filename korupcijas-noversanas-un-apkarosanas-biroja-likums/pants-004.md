@@ -7,7 +7,7 @@
 4) nav sasniegusi likumā noteikto pensijas vecumu;
 5) nav sodīta par noziedzīgu nodarījumu (neatkarīgi no sodāmības noņemšanas vai dzēšanas);
 6) nav notiesāta par noziedzīgu nodarījumu, atbrīvojot no soda;
-7) nav saukta pie kriminālatbildības, izņemot gadījumu, kad persona ir saukta pie kriminālatbildības, bet krimināllieta pret to izbeigta uz reabilitējoša pamata;
+7) nav saukta pie kriminālatbildības, izņemot gadījumu, kad persona ir saukta pie kriminālatbildības, bet kriminālprocess pret to izbeigts uz reabilitējoša pamata;
 8) nav un nav bijusi PSRS Aizsardzības ministrijas, PSRS vai Latvijas PSR Valsts drošības komitejas vai to valstu, kuras nav Eiropas Savienības vai Ziemeļatlantijas līguma organizācijas dalībvalstis, valsts drošības dienesta, izlūkdienesta vai pretizlūkošanas dienesta štata vai ārštata darbinieks, aģents, rezidents vai konspiratīvā dzīvokļa turētājs;
 9) nav un nav bijusi ar likumu vai tiesas nolēmumu aizliegtas organizācijas dalībnieks;
 10) atbilst likumā noteiktajām prasībām, lai saņemtu speciālo atļauju pieejai valsts noslēpumam.
