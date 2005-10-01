@@ -1,0 +1,2 @@
+15.pants. Vienošanās ar aizsargājamo personu par speciālās aizsardzības nodrošināšanu
+Ja speciālo aizsardzību nodrošina speciālās aizsardzības iestāde, tā pirms speciālās aizsardzības uzsākšanas noslēdz ar aizsargājamo personu rakstveida vienošanos par speciālās aizsardzības nodrošināšanu, kurā norāda aizsargājamās personas un speciālās aizsardzības iestādes tiesības un pienākumus, kā arī paredzētos speciālās aizsardzības pasākumus.

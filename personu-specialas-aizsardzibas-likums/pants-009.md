@@ -1,0 +1,3 @@
+9.pants. Speciālās aizsardzības uzsākšana neatliekamos gadījumos
+(1) Ja nepieciešams nekavējoties novērst vai nepieļaut personas reālu apdraudējumu, ar apdraudētās personas vai tās likumiskā pārstāvja piekrišanu var uzsākt un veikt speciālās aizsardzības pasākumus pirms tam, kad personai noteikta speciālā aizsardzība.
+(2) Šādā gadījumā procesa virzītājs nekavējoties, bet ne vēlāk kā 10 dienu laikā nosūta ģenerālprokuroram ierosinājumu par speciālās aizsardzības noteikšanu kriminālprocesā liecinošai personai vai pārtrauc aizsardzības pasākumus. Citu aizsargājamo personu par speciāli aizsargājamu atzīst nekavējoties vai aizsardzības pasākumus pārtrauc.
