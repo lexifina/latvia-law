@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Personu speciālās aizsardzības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "85 (3243)",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-31",
+  "entry_into_force": "2005-10-01",
+  "notification_date": "2015-05-28",
+  "commission_reference": "MNE(2015)54026",
+  "nim_celex": "72001F0220LVA_227044",
+  "nim_id": "227044",
+  "transposes_celex": [
+    "32001F0220"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b24a0554-d286-4474-99dd-a656cec650b1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
