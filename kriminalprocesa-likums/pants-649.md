@@ -1,0 +1,2 @@
+649.pants. Spriedumu izpilde, ja ir citi neizpildīti spriedumi
+Ja attiecībā uz notiesāto ir vairāki neizpildīti spriedumi, pēc sprieduma izpildes iestādes vai prokurora iesnieguma tās tiesas tiesnesis, kura taisījusi pēdējo spriedumu, vai tāda paša līmeņa tiesas tiesnesis pēc sprieduma izpildes vietas saskaņā ar Krimināllikuma 50.panta piekto daļu vai 51.pantu pieņem lēmumu par galīgā soda noteikšanu pēc šo spriedumu kopības.

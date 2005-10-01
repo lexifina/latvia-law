@@ -1,0 +1,5 @@
+82.pants. Aizstāvja tiesības un pienākumi, nodrošinot aizstāvību atsevišķā procesuālā darbībā
+(1) Nodrošinot aizturētā, aizdomās turētā vai apsūdzētā aizstāvību atsevišķā procesuālā darbībā, aizstāvim saistībā ar konkrēto procesuālo darbību ir tādas pašas tiesības un pienākumi, kādi būtu aizstāvim, ja viņš piedalītos visā procesā.
+(2) Aizstāvis gan pirms, gan pēc procesuālās darbības var tikties ar aizstāvamo personu, lai sagatavotos darbības veikšanai un apspriestu tās rezultātus.
+(3) Aizstāvim ir tiesības arī pēc darbības pabeigšanas un neatkarīgi no aizstāvamās personas izmantot aizstāvim noteiktās tiesības sūdzību iesniegšanā par amatpersonu rīcību un lūgumu pieteikšanā, ja tas tieši izriet no veiktās darbības un atbilst ar aizstāvamo personu saskaņotajai aizstāvības pozīcijai.
+(4) Aizstāvis aizturētajam, aizdomās turētajam vai apsūdzētajam, izmantojot savas profesionālās zināšanas un pieredzi, sniedz tiesisko informāciju un ieteikumus, kas nepieciešami, lai izraudzītos apstākļiem atbilstošu aizstāvības pozīciju un to īstenotu.

@@ -1,0 +1,3 @@
+522.pants. Audzinoša rakstura piespiedu līdzekļu piemērošana nepilngadīgajam
+(1) Ja tiesa atzīst, ka nepilngadīgais apsūdzētais izdarījis noziedzīgu nodarījumu, taču ievērojot šā nodarījuma izdarīšanas īpašos apstākļus un par vainīgā personu iegūtās ziņas, kas mīkstina viņa atbildību, tiesa var viņu atbrīvot no piespriestā soda un piemērot likumā paredzētos audzinoša rakstura piespiedu līdzekļus.
+(2) Piemērojot audzinoša rakstura piespiedu līdzekli, tiesa ņem vērā noziedzīga nodarījuma raksturu un bīstamību, apsūdzētā personu raksturojošos datus, kā arī viņa atbildību pastiprinošos un mīkstinošos apstākļus.

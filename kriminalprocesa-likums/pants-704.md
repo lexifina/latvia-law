@@ -1,0 +1,6 @@
+704.pants. Izdošanas lūguma pārbaude
+(1) Ģenerālprokuratūra, saņēmusi ārvalsts lūgumu par personas izdošanu, uzsāk tā pārbaudi. Prokurors noskaidro, vai pastāv šā likuma 696.pantā noteiktais personas izdošanas pamats un šā likuma 697.pantā noteiktie personas izdošanas atteikuma iemesli.
+(2) Ja lūgumā nav pietiekamas informācijas, lai izlemtu jautājumu par izdošanu, Ģenerālprokuratūra pieprasa ārvalstij nepieciešamo papildu informāciju, kā arī var noteikt informācijas iesniegšanas termiņu.
+(3) Pārbaude jāpabeidz 20 dienu laikā no izdošanas lūguma saņemšanas dienas. Ja pārbaudei nepieciešama papildu informācija, termiņu skaita no tās saņemšanas dienas. Pārbaudes termiņu var pagarināt ģenerālprokurors.
+(4) Prokurors iepazīstina izdodamo personu ar izdošanas lūgumu 48 stundu laikā no tā saņemšanas brīža un dod attiecīgajai personai iespēju sniegt paskaidrojumus.
+(5) Pārbaudes laikā prokurors var veikt visas kriminālprocesā paredzētās izmeklēšanas darbības.

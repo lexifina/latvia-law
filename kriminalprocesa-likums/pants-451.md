@@ -1,0 +1,2 @@
+451.pants. Tiesības iepazīties ar lietas materiāliem
+Apsūdzētais, viņa aizstāvis, prokurors, cietušais un viņa pārstāvis drīkst iepazīties ar materiāliem, kas papildus pievienoti krimināllietai pēc tās saņemšanas tiesā, izdarīt no tiem izrakstus, norakstus un lūgt izgatavot nepieciešamo lietas materiālu kopijas, izņemot likumā paredzētos gadījumus, bet, pastāvot objektīvai nepieciešamībai, drīkst iepazīties ar visiem krimināllietas materiāliem un lūgt izgatavot nepieciešamo lietas materiālu kopijas.

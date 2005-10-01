@@ -1,0 +1,1 @@
+9. Normatīvajos aktos lietotie termini "izziņas iestāde" un "izziņas izdarītājs" līdz šo aktu redakcijas pakāpeniskai precizēšanai turpmāk saprotami kā termini "izmeklēšanas iestāde" un "izmeklētājs".

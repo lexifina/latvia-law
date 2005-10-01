@@ -1,0 +1,3 @@
+561.pants. Lietas izskatīšana apelācijas instances tiesas sēdē
+(1) Lietu apelācijas instances tiesā izskata triju tiesnešu sastāvā, no kuriem viens ir tiesas sēdes priekšsēdētājs. Lieta izskatāma kārtībā, kāda noteikta krimināllietu izskatīšanai pirmās instances tiesā, izņemot šajā nodaļā noteikto.
+(2) Tiesas izmeklēšana sākas ar tiesneša ziņojumu par pirmās instances tiesas sprieduma būtību un apelācijas sūdzībā vai protestā izteiktajiem lūgumiem. Pēc ziņojuma tiesnesis jautā personai, kura iesniegusi apelācijas sūdzību vai protestu, vai tā uztur savu sūdzību vai protestu un kādā apjomā uztur.

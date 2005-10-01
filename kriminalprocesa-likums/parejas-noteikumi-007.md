@@ -1,0 +1,1 @@
+7. Ja persona ir atzīta par aizdomās turēto Latvijas Kriminālprocesa kodeksa 70.pantā paredzētajā kārtībā, procesa virzītājam 10 dienu laikā pēc šā likuma spēkā stāšanās dienas jālemj par personas atzīšanu par aizdomās turēto saskaņā ar šo likumu.

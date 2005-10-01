@@ -1,0 +1,3 @@
+78.pants. Personas tiesības, pret kuru kriminālprocess izbeigts sakarā ar apstākļiem, kas izslēdz kriminālatbildību
+(1) Ja kriminālprocess izbeigts sakarā ar to, ka persona noziedzīgu nodarījumu izdarījusi, nepārkāpjot nepieciešamās aizstāvēšanās robežas, izdarot aizturēšanu, atrodoties galējās nepieciešamības stāvoklī vai attaisnota profesionālā riska rezultātā, bet persona neatzīst noziedzīgu nodarījumu, tai ir tiesības iesniegt sūdzību par prokurora lēmumu rajona (pilsētas) tiesā.
+(2) Sūdzības izskatīšanas laikā šādai personai ir tādas pašas tiesības kā personai, kura apstrīd savu vainu tādā noziedzīgā nodarījumā, par kura izdarīšanu tai iestājies noilgums.

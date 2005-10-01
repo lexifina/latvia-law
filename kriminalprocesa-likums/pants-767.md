@@ -1,0 +1,2 @@
+767.pants. Notiesātās personas informēšana
+Brīvības atņemšanas iestādes administrācija 10 dienu laikā pēc tam, kad tā saņēmusi tiesneša rīkojumu par sprieduma nodošanu izpildei, informē Latvijā notiesāto ārvalsts pilsoni vai personu, kuras pastāvīgā dzīvesvieta nav Latvijā, par šīs personas tiesībām izteikt vēlēšanos, lai tā tiktu nodota soda izciešanai savas pilsonības vai pastāvīgās dzīvesvietas valstī. Notiesātajam izskaidro nodošanas juridiskās sekas.

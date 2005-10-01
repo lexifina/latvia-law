@@ -1,0 +1,3 @@
+711.pants. Personas nodošanas atlikšana vai nodošana uz laiku
+(1) Ja Latvijā jāpabeidz pret izdodamo personu uzsākts kriminālprocess vai jāizpilda tai piespriestais sods, pēc tam, kad pieņemts lēmums par personas izdošanu, ģenerālprokurors vai tieslietu ministrs atbilstoši šai likuma daļai var atlikt pieprasītās personas nodošanu ārvalstij.
+(2) Ja nodošanas atlikšana var izraisīt kriminālatbildības termiņa noilgumu vai apgrūtināt noziedzīga nodarījuma izmeklēšanu ārvalstī un šāda nodošana netraucē veikt tiesvedību Latvijā, tieslietu ministrs var nodot personu ārvalstij uz laiku, nosakot atpakaļ nodošanas laiku.

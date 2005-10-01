@@ -1,0 +1,4 @@
+161.pants. Eksperta vai revidenta piedalīšanās apskatē
+(1) Ja apskatē, kurā piedalās eksperts, atrod un izņem noziedzīga nodarījuma pēdas vai objektus, kuriem turpmāk ir nepieciešams izdarīt ekspertīzi, apskates protokolā norāda to atrašanas vietu, pazīmes, izņemšanas faktu, kā arī to, kuras personas atbildībā tie nodoti. Šādos gadījumos izņemto pēdu un lietu apskate notiek ekspertīzes gaitā.
+(2) Procesa virzītājs var uzdot ekspertam veikt visu apskati pilnībā, ja apskatāmais objekts kopumā ir pakļauts turpmākai ekspertīzei.
+(3) Ja apskatē piedalās revidents, procesa virzītājs var uzdot viņam veikt revīzijai vai inventarizācijai nepieciešamo dokumentu apskati un izņemšanu. Apskates protokolā tikai norāda šos dokumentus, to atrašanas vietu, izņemšanas faktu un revidentu, kura atbildībā nodoti revīzijas vai inventarizācijas veikšanai izņemtie dokumenti. Dokumentu apskate notiek revīzijas vai inventarizācijas gaitā.

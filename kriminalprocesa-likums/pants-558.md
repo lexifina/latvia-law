@@ -1,0 +1,3 @@
+558.pants. Apstākļi, kas jānoskaidro pirms lietas pieņemšanas izskatīšanai
+(1) Izlemjot jautājumu par lietas pieņemšanu izskatīšanai, tiesnesim jānoskaidro, vai nepastāv apstākļi, kas liedz iespēju izskatīt lietu apelācijas kārtībā.
+(2) Ja, saņemot lietu apelācijas instances tiesā, tiesnesis konstatē, ka pirmās instances tiesa nav izpildījusi prasības, kas paredzētas šā likuma 550. un 551.pantā, viņš pieņem lēmumu par lietas atdošanu atpakaļ pirmās instances tiesai trūkumu novēršanai un paziņo par to rakstveidā personām, kuru intereses un tiesības aizskar iesniegtā apelācijas sūdzība vai protests.

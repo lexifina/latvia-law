@@ -1,0 +1,3 @@
+700.pants. Pagaidu apcietinājuma piemērošanas pamats
+(1) Pēc ārvalsts lūguma par pagaidu apcietinājumu līdz izdošanas lūguma saņemšanai izdodamai personai var piemērot pagaidu apcietinājumu.
+(2) Ja lūgumā par pagaidu apcietinājumu norādīts ārvalsts lēmums par personas apcietinājumu vai spēkā stājies spriedums attiecībā uz šo personu, kā arī tas, ka ārvalsts iesniegs izdošanas lūgumu un par kādu noziedzīgu nodarījumu tiks lūgta izdošana, sniegtas ziņas par izdodamo personu un ja nav zināmi apstākļi, kas izslēdz izdošanas iespējamību, prokurors iesniedz tam izmeklēšanas tiesnesim, kura darbības teritorijā persona aizturēta vai atrodas Ģenerālprokuratūra, ierosinājumu par pagaidu apcietinājuma piemērošanu un to pamatojošos materiālus.

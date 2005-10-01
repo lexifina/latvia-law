@@ -1,0 +1,3 @@
+408.pants. Apsūdzības grozīšana
+(1) Ja prokurors pēc tam, kad izsniedzis apsūdzētajam lēmumu par viņa saukšanu pie kriminālatbildības, ieguvis papildu pierādījumus un tā rezultātā nepieciešams grozīt pieņemto lēmumu, prokurors raksta jaunu lēmumu par attiecīgās personas saukšanu pie kriminālatbildības un tā kopiju izsniedz apsūdzētajam.
+(2) Ja nav apstiprinājusies apsūdzība par kādu no noziedzīgiem nodarījumiem, par kuriem persona saukta pie kriminālatbildības, prokurors ar lēmumu izbeidz kriminālvajāšanu šajā daļā un lēmuma kopiju nekavējoties nosūta personai, pret kuru kriminālvajāšana izbeigta.

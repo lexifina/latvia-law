@@ -1,0 +1,6 @@
+731.pants. Kriminālprocesa pārņemšanas atsaukšana
+(1) Procesa virzītājs iesniedz motivētu ierosinājumu par kriminālprocesa pārņemšanas atsaukšanu tai pašai kompetentajai iestādei, kura pieņēmusi lēmumu par kriminālprocesa pārņemšanu, ja saskata iemeslus, kas izslēdz kriminālprocesa pārņemšanu.
+(2) Kompetentā iestāde 10 dienu laikā lemj par kriminālprocesa turpināšanu Latvijā vai par kriminālprocesa pārņemšanas atsaukšanu.
+(3) Kompetentā iestāde, atsaucot piekrišanu kriminālprocesa pārņemšanai, par to informē procesa virzītāju un uzdod viņam atcelt visus piemērotos piespiedu līdzekļus, kā arī izlemt rīcību ar lietiskajiem pierādījumiem.
+(4) Par kriminālprocesa pārņemšanas atsaukšanu kompetentā iestāde nekavējoties informē lūguma iesniedzēju valsti un nosūta tai krimināllietas materiālus.
+(5) Ja kriminālprocesa pārņemšana atsaukta sakarā ar kriminālprocesa politisku vai izteikti militāru raksturu vai tāpēc, ka persona vajāta tās rases, reliģiskās piederības, tautības, dzimuma vai politisko uzskatu dēļ, Latvijā iegūtos pierādījumus var nenodot lūguma iesniedzējai valstij. Citos gadījumos pierādījumus nenodod, ja izmeklēšanas darbības nevarētu veikt pēc ārvalsts lūguma par palīdzību kriminālprocesā.

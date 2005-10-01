@@ -1,0 +1,4 @@
+830.pants. Apvienotā izmeklēšanas grupa un tās veidošanas nosacījumi
+(1) Apvienotā izmeklēšanas grupa ir Latvijas un vienas ārvalsts vai vairāku ārvalstu pirmstiesas procesa veikšanai pilnvarotas amatpersonas, kuras darbojas kopīgi vienā valstī notiekoša kriminālprocesa ietvaros.
+(2) Apvienoto izmeklēšanas grupu izveido konkrēta kriminālprocesa veikšanai, iesaistītajām valstīm savstarpēji vienojoties par tās vadītāju, sastāvu un darbības periodu.
+(3) Apvienoto izmeklēšanas grupu izveido nolūkā novērst procesa neattaisnotu novilcināšanu, kas saistīta ar nepieciešamību veikt izmeklēšanas darbības vairākās valstīs, it īpaši gadījumos, kad vairākas valstis uzsākušas kriminālprocesu par vienu un to pašu nodarījumu vai nozīmīgs izmeklēšanas apjoms veicams ārpus tās valsts teritorijas, kurā notiek kriminālprocess.

@@ -1,0 +1,2 @@
+566.pants. Apelācijas instances tiesas kompetence krimināllietas nosūtīšanā jaunai izskatīšanai pirmās instances tiesā
+Ja apelācijas instances tiesa, izskatot lietu, konstatē šā likuma pārkāpumu, kas katrā ziņā izraisa sprieduma atcelšanu, tā pieņem lēmumu par pirmās instances tiesas sprieduma atcelšanu pilnībā vai kādā tā daļā un lietas nosūtīšanu jaunai izskatīšanai pirmās instances tiesai citā sastāvā.

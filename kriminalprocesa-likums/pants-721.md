@@ -1,0 +1,6 @@
+721.pants. Lēmuma par personas izdošanu Eiropas Savienības dalībvalstij izpilde
+(1) Spēkā stājušos lēmumu par personas izdošanu Ģenerālprokuratūra nekavējoties nosūta Iekšlietu ministrijai izpildei.
+(2) Personas izdošanas lēmuma izpilde notiek, ievērojot šā likuma 710.panta pirmajā un otrajā daļā paredzētos nosacījumus.
+(3) Pēc lēmuma pieņemšanas par personas izdošanu Ģenerālprokuratūra var atlikt attiecīgās personas izdošanu Eiropas Savienības dalībvalstij Latvijā iesākta kriminālprocesa pabeigšanai vai piespriestā soda izciešanai, kā arī nopietnu humānu iemeslu dēļ, ja ir pamatots iemesls domāt, ka izdošana konkrētajā situācijā acīmredzami apdraudētu personas dzīvību vai veselību. Par lēmumu atlikt izdošanu Ģenerālprokuratūra informē Eiropas Savienības dalībvalsts kompetento tiesu varas institūciju un vienojas par citu personas nodošanas laiku.
+(4) Ja persona nav pārņemta 10 dienu laikā no dienas, kad pieņemts lēmums par tās izdošanu, vai no dienas, par kuru panākta vienošanās ar Eiropas Savienības dalībvalsts kompetento tiesu varas institūciju, persona jāatbrīvo no apcietinājuma.
+(5) Ja pieņemts lēmums par personas neizdošanu, Ģenerālprokuratūra par to informē dalībvalsts kompetento tiesu varas institūciju.

@@ -1,0 +1,6 @@
+181.pants. Kratīšanā klātesošās personas
+(1) Kratīšanu izdara tās personas klātbūtnē, pie kuras kratīšana notiek, vai arī šīs personas pilngadīga ģimenes locekļa klātbūtnē. Ja attiecīgās personas klātbūtne nav iespējama vai šī persona izvairās no piedalīšanās kratīšanā, kratīšanu izdara kratīšanai pakļautā objekta valdītāja, apsaimniekotāja vai vietējās pašvaldības pārstāvja klātbūtnē.
+(2) Juridisko personu telpās kratīšanu izdara attiecīgās juridiskās personas pārstāvja klātbūtnē un tās personas klātbūtnē, saistībā ar kuras darbību vai bezdarbību kratīšanu juridiskās personas telpās izdara, ja nepastāv objektīvi šķēršļi šo personu nogādāt juridiskās personas telpās. Ja pārstāvja klātbūtne nav iespējama vai pārstāvis izvairās no piedalīšanās kratīšanā, kratīšanu izdara vietējās pašvaldības pārstāvja klātbūtnē.
+(3) Kratīšana izdarāma, klātesot aizdomās turētajai vai apsūdzētajai personai, izņemot gadījumu, kad tas nav iespējams objektīvu iemeslu dēļ.
+(4) Lai atpazītu meklējamos objektus, kratīšanā var pieaicināt arī cietušo vai liecinieku.
+(5) Personām, kuras atrodas kratīšanas vietā, izskaidro to tiesības būt klāt visu izmeklēšanas darbības veicēja darbību laikā un izteikt savas piezīmes par tām.

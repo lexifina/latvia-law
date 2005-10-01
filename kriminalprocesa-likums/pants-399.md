@@ -1,0 +1,3 @@
+399.pants. Pirmstiesas process uz tālbraucienos esošiem jūras kuģiem vai ārvalsts teritorijā esošā Latvijas Nacionālo bruņoto spēku vienībā
+(1) Izmeklēšanu uz tālbraucienos esošiem jūras kuģiem veic kuģa kapteinis, bet ārvalsts teritorijā esošā Latvijas Nacionālo bruņoto spēku vienībā - šīs vienības komandieris šajā likumā noteiktajā kārtībā un termiņos līdz brīdim, kad kriminālprocesa materiālus var nodot kompetentai Latvijas Republikas izmeklēšanas iestādei vai prokuratūrai.
+(2) Ja rodas nepieciešamība piemērot procesuālos piespiedu līdzekļus vai veikt izmeklēšanas darbības, kas veicamas, tikai pamatojoties uz izmeklēšanas tiesneša lēmumu, kuģa kapteinis vai vienības komandieris to var ierosināt un šādu lēmumu saņemt, izmantojot tehniskos sakaru līdzekļus.

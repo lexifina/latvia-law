@@ -1,0 +1,5 @@
+259.pants. Karavīra nodošana vienības komandiera (priekšnieka) pārraudzībā
+(1) Karavīra nodošana vienības komandiera (priekšnieka) pārraudzībā ir vienības komandiera (priekšnieka) rakstveida saistība saskaņā ar procesa virzītāja lēmumu par drošības līdzekļa piemērošanu nodrošināt, ka aizdomās turētais vai apsūdzētais karavīrs ieradīsies pēc procesa virzītāja uzaicinājuma un izpildīs citus procesuālos pienākumus.
+(2) Karavīra nodošana vienības komandiera (priekšnieka) pārraudzībā piemērojama tikai ar vienības komandiera (priekšnieka) piekrišanu, un viņš var jebkurā laikā atteikties no karavīra pārraudzības.
+(3) Saņemot no vienības komandiera (priekšnieka) rakstveida saistību par karavīra ņemšanu pārraudzībā, procesa virzītājs informē viņu par konkrētā kriminālprocesa būtību, sakarā ar kuru piemērots šis drošības līdzeklis, kā arī viņa atbildību.
+(4) Ja aizdomās turētais vai apsūdzētais nepilda savas saistības, vienības komandierim (priekšniekam), kura pārraudzībā viņš atrodas, izmeklēšanas tiesnesis vai tiesa var uzlikt piespiedu naudu līdz 10 Latvijas Republikā noteikto minimālo mēnešalgu apmēram.

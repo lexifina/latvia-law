@@ -1,0 +1,5 @@
+190.pants. Procesa virzītāja pieprasīto priekšmetu un dokumentu iesniegšana
+(1) Procesa virzītājs, neizdarot šā likuma 186.pantā paredzēto izņemšanu, ir tiesīgs rakstveidā pieprasīt no fiziskajām un juridiskajām personām kriminālprocesam nozīmīgus priekšmetus un dokumentus.
+(2) Ja fiziskās un juridiskās personas neiesniedz procesa virzītāja pieprasītos priekšmetus un dokumentus viņa noteiktajā termiņā, procesa virzītājs šajā likumā noteiktajā kārtībā izdara izņemšanu vai kratīšanu.
+(3) Juridisko personu vadītājiem pēc procesa virzītāja pieprasījuma ir pienākums savas kompetences ietvaros izdarīt dokumentālo revīziju, inventarizāciju, resorisko vai dienesta pārbaudi un noteiktajā laikā iesniegt dokumentus kopā ar attiecīgajiem pielikumiem par izpildīto pieprasījumu.
+(4) Pirmstiesas procesā pieprasīt no kredītiestādēm dokumentus, kuri satur informāciju par personas privāto dzīvi, var tikai ar izmeklēšanas tiesneša atļauju.

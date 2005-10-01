@@ -1,0 +1,2 @@
+Deviņpadsmitā sadaļa
+Atsevišķi starptautiskās sadarbības jautājumi

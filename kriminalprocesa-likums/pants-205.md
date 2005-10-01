@@ -1,0 +1,2 @@
+205.pants. Paziņojums par eksperta atzinuma došanas neiespējamību
+Ja pirms izpētes uzsākšanas eksperts pārliecinās, ka nevarēs atbildēt uz lēmumā uzdotajiem jautājumiem tādēļ, ka viņam nav attiecīgu speciālo zināšanu, attiecīgas izpētes metodikas vai izpētes objekti ir nepietiekami vai nekvalitatīvi, vai citu būtisku apstākļu dēļ, viņš par to raksta motivētu paziņojumu, kuru nodod procesa virzītājam.

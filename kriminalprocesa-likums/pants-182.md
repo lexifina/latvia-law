@@ -1,0 +1,11 @@
+182.pants. Kārtība, kādā izdarāma kratīšana
+(1) Izmeklēšanas darbības veicējs kopā ar izmeklēšanas darbībā klātesošajām personām ir tiesīgs ieiet lēmumā par kratīšanu norādītajās telpās vai apvidus teritorijā, lai atrastu lēmumā minētos priekšmetus, dokumentus, līķi vai meklējamo personu. Ja nepieciešams, var organizēt kratīšanas vietas apsargāšanu.
+(2) Uzsākot kratīšanu, izmeklēšanas darbības veicējs iepazīstina personu, pie kuras kratīšana notiek, ar lēmumu par kratīšanu. Šī persona par to parakstās lēmumā. Tad izmeklēšanas darbības veicējs uzaicina to labprātīgi izsniegt meklējamo objektu.
+(3) Ja persona, pie kuras kratīšana notiek, atsakās atvērt kratīšanas vietā esošās telpas vai glabātavas, izmeklēšanas darbības veicējs ir tiesīgs tās atvērt, nenodarot nevajadzīgus bojājumus.
+(4) Kratīšanas vietā esošajām personām var aizliegt atstāt šo vietu, pārvietoties un sarunāties savā starpā līdz izmeklēšanas darbības beigām. Ja ar savu rīcību vai skaita dēļ šīs personas traucē izdarīt kratīšanu, tās var pārvietot uz citām telpām.
+(5) Telpas vai apvidus teritorijas kratīšanā var būt iekļauta arī tajā esošo transportlīdzekļu un personu kratīšana. Ja nepieciešams, personas kratīšanu var izdarīt telpas vai apvidus teritorijas kratīšanas sākumā un arī beigās.
+(6) Kratīšanas laikā izņem lēmumā minētos priekšmetus un dokumentus, kā arī citus priekšmetus un dokumentus, kuriem var būt nozīme lietā. Ja tiek atrastas lietas, kuru glabāšana ir aizliegta, tās izņem, norādot protokolā šādas rīcības iemeslu.
+(7) Ja kratīšanā klātesošais cietušais vai liecinieks atpazīst kādu no atrastajiem objektiem, to norāda protokolā.
+(8) Visi kratīšanā atrastie un izņemtie priekšmeti uzrādāmi klātesošajām personām, aprakstāmi protokolā un, ja iespējams, iesaiņojami un apzīmogojami.
+(9) Ja procesa virzītājs uzdevis kratīšanā klātesošajam ekspertam vai revidentam izņemt kratīšanas laikā atrastos objektus un izdarīt nepieciešamo ekspertīzi vai revīziju, kratīšanas protokolā norāda šos objektus, to atrašanas vietu, identificējošās pazīmes, izņemšanas faktu un ekspertīzes iestādi vai revidentu, kura atbildībā nodoti izņemtie objekti.
+(10) Kratīšanas vieta pēc kratīšanas pabeigšanas, cik vien iespējams, savedama iepriekšējā kārtībā.

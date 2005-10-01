@@ -1,0 +1,1 @@
+17. Līdz brīdim, kad spēkā stāsies likums, kas nosaka apcietinājumā turēšanas kārtību, bet ne ilgāk kā līdz 2006.gada 1.aprīlim ir spēkā Ministru kabineta 2003.gada 29.aprīļa noteikumi Nr.211 "Izmeklēšanas cietumu iekšējās kārtības noteikumi" tiktāl, ciktāl tie nav pretrunā ar šo likumu.

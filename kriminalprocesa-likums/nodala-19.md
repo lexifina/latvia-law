@@ -1,0 +1,1 @@
+19.nodaļa. Nolēmumi

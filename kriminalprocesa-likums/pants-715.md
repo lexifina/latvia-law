@@ -1,0 +1,6 @@
+715.pants. Ar personas izdošanu Eiropas Savienības dalībvalstij saistītie nosacījumi
+(1) Izdodamajai personai ir šā likuma 698.pantā minētās tiesības, tiesības piekrist vai nepiekrist izdošanai, kā arī tiesības tikt sauktai pie kriminālatbildības un tiesātai tikai par tiem noziedzīgiem nodarījumiem, par kuriem tā tiek izdota, izņemot šā likuma 695.panta otrajā daļā paredzētos gadījumus.
+(2) Izdodamā persona savu piekrišanu izdošanai un atteikšanos no tiesībām tikt sauktai pie kriminālatbildības un tiesātai tikai par tiem noziedzīgiem nodarījumiem, par kuriem tā tiek izdota, apliecina prokuroram advokāta klātbūtnē, un par to tiek rakstīts protokols.
+(3) Ja izdodamā persona ir Latvijas pilsonis, tai ir tiesības atteikties no tiesībām, kas garantē, ka Latvijas pilsoni pēc tā notiesāšanas Eiropas Savienības dalībvalstī nodod atpakaļ Latvijai piespriestā soda izciešanai.
+(4) Attiecībā uz personu, kurai ir kriminālprocesuālā imunitāte, Eiropas apcietinājuma lēmuma izpildes termiņa tecējums sākas no brīža, kad šī persona likumā noteiktajā kārtībā zaudējusi šo imunitāti.
+(5) Latvija pieņem izpildīšanai Eiropas apcietinājuma lēmumus latviešu vai angļu valodā.

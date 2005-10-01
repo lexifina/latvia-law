@@ -1,0 +1,2 @@
+404.pants. Procesuālās imunitātes atcelšana kriminālvajāšanas uzsākšanai
+Procesa virzītājs, ja šajā likumā nav noteikts citādi, saskatot pamatu saukt pie kriminālatbildības personu, kurai ar likumu noteikta kriminālprocesuālā imunitāte, vēršas kompetentajā institūcijā ar ierosinājumu atļaut šīs personas kriminālvajāšanu. Ierosinājumam pievieno lēmuma projektu par personas saukšanu pie kriminālatbildības (apsūdzību), kurā papildus šā likuma 405.pantā norādītajam min pierādījumus, kas pamato apsūdzību.

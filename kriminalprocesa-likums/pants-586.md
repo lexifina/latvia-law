@@ -1,0 +1,8 @@
+586.pants. Lietas izskatīšana kasācijas instances tiesas sēdē mutvārdu procesā
+(1) Sēdi atklāj tiesas sēdes priekšsēdētājs un paziņo, kāda lieta tiks izskatīta, noskaidro, kas ieradies uz tiesas sēdi, un izlemj jautājumu par iespēju izskatīt lietu. Apsūdzētā vai viņa aizstāvja, kā arī cietušā vai viņa pārstāvja neierašanās, ja viņiem paziņots par kasācijas instances tiesas sēdes laiku un vietu, nav šķērslis lietas izskatīšanai.
+(2) Sēdes priekšsēdētājs paziņo tiesas sastāvu, tulka, prokurora un advokāta uzvārdu un noskaidro, vai ir noraidījumi. Ja tādi ir, tiesa par tiem pieņem lēmumu.
+(3) Lietas izskatīšana sākas ar referenta ziņojumu, kurā viņš izklāsta lietas apstākļus, kas attiecas uz sūdzības vai protesta priekšmetu, nolēmuma būtību, par kuru iesniegta kasācijas sūdzība vai protests, iemeslus, kuru dēļ iesniegta prasība atcelt vai grozīt nolēmumu.
+(4) Pēc referenta ziņojuma priekšsēdētājs uzaicina sūdzības iesniedzēju, viņa aizstāvi vai pārstāvi sniegt paskaidrojumus sūdzības pamatošanai. Ja lietu izskata sakarā ar protestu, pirmajam dod vārdu prokuroram protesta pamatošanai.
+(5) Gadījumos, kad sūdzības iesniedzējs, viņa aizstāvis vai pārstāvis nav ieradies, par sūdzības pamatojumu ziņo referents.
+(6) Pēc tam tiesa var uzklausīt citas personas, kurām paziņots par tiesas sēdi un kuru tiesības un intereses aizskar kasācijas sūdzība vai protests.
+(7) Pēc paskaidrojumu uzklausīšanas prokurors izsaka savu viedokli par tiem. Tad tiesa vēlreiz uzklausa apsūdzēto vai viņa aizstāvi un apspriežu istabā pieņem lēmumu.

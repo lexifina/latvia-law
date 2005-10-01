@@ -1,0 +1,5 @@
+77.pants. Personas tiesības, kura iestājas par mirušas personas reabilitāciju
+(1) Ja ar procesa virzītāja lēmumu ir izbeigts kriminālprocess uz nereabilitējoša pamata, pēc būtības atzīstot personu par vainīgu noziedzīga nodarījuma izdarīšanā, un persona pēc tam ir mirusi, šīs personas likumiskie pārstāvji, tuvi radinieki vai personas, kuru rīcībā ir fakti, kas liecina par mirušā nevainīgumu, var iestāties kriminālprocesā, lai panāktu mirušā reabilitāciju.
+(2) Šā panta pirmajā daļā minētajām personām ir tiesības pieprasīt kriminālprocesa turpināšanu, uzdodot pieteikumā minēto prasību aizstāvēšanu advokātam un nosakot viņa pilnvarojuma ietvarus.
+(3) Personai, kura pieprasījusi procesa turpināšanu, pirmstiesas procesā un tiesā ir tādas pašas tiesības kā apsūdzētajam, izņemot tiesības uz pēdējo vārdu tiesā.
+(4) Pirmstiesas procesā un tiesā advokātam, kas īsteno pieteikumā minēto prasību aizstāvību, ir tādas pašas tiesības kā aizstāvim procesā par medicīniska rakstura piespiedu līdzekļa noteikšanu, kad aizstāvamais nevar piedalīties procesā.

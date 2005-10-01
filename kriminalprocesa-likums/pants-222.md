@@ -1,0 +1,3 @@
+222.pants. Personas audiokontrole
+(1) Personas audiokontroli bez šīs personas ziņas veic, pamatojoties uz izmeklēšanas tiesneša lēmumu, ja ir pamats uzskatīt, ka personas sarunas vai citas skaņas var saturēt ziņas par pierādāmajos apstākļos ietilpstošajiem faktiem, un ja bez šīs darbības nepieciešamo ziņu iegūšana nav iespējama.
+(2) Personas audiokontroli ar šīs personas rakstveida piekrišanu, pamatojoties uz procesa virzītāja lēmumu, veic, ja ir pamats uzskatīt, ka pret šo personu vai tās tuviniekiem var tikt vērsts noziedzīgs nodarījums vai arī šī persona ir vai var tikt iesaistīta noziedzīga nodarījuma izdarīšanā.

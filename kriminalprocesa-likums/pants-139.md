@@ -1,0 +1,7 @@
+139.pants. Izmeklēšanas darbību veikšanas vispārīgie noteikumi
+(1) Iepriekš plānojamas izmeklēšanas darbības parasti veic laikā no pulksten 8.00 līdz 20.00. Gadījumos, kad izmeklēšanas darbība nav atliekama, jo tas var novest pie būtisku pierādījumu zaudēšanas un apdraud kriminālprocesa mērķa sasniegšanu, to veic nekavējoties.
+(2) Izmeklēšanas darbības sākumā tās veicējs informē konkrētajā procesā iesaistīto personu par tās tiesībām un pienākumiem, kā arī brīdina par atbildību par savu pienākumu nepildīšanu. Nav jāinformē un jābrīdina persona, kuras procesuālie pienākumi ir vienlaikus arī tās profesionālie darba pienākumi.
+(3) Pret personu, kura piedalās izmeklēšanas darbībā, aizliegts pielietot vardarbību, draudus, melus, kā arī citas pretlikumīgas un morāles normām neatbilstošas darbības vai tādas darbības, kas apdraud personas dzīvību vai veselību vai aizskar personas cieņu. Izmeklēšanas darbības, kas saistītas ar cilvēka ķermeņa atkailināšanu, aizliegts izdarīt un tajās piedalīties pretēja dzimuma personai, izņemot ārstniecības personas.
+(4) Aizliegts izpaust ziņas par tās personas privāto dzīvi, kura piedalās izmeklēšanas darbībā, kā arī ziņas, kas satur profesionālu noslēpumu vai komercnoslēpumu, izņemot gadījumus, kad tas nepieciešams pierādīšanā.
+(5) Izmeklēšanas darbību var veikt, izmantojot tehniskos līdzekļus šā likuma 140.pantā noteiktajā kārtībā.
+(6) Izmeklēšanas darbību veikšanas īpatnības iztiesāšanas stadijā nosaka šā likuma astotā līdz vienpadsmitā sadaļa.

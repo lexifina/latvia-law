@@ -1,0 +1,4 @@
+162.pants. Notikuma vietas apskate
+(1) Notikuma vietas apskate ir konkrētās vietas un tajā esošo objektu apskate, ja to veic pēc informācijas saņemšanas par izdarītu noziedzīgu nodarījumu un ja ir pietiekams pamats domāt, ka šajā vietā ir noticis vai turpinājies noziedzīgs nodarījums.
+(2) Ja notikuma vietas apskate veikta nepilnīgi un ir radušās neskaidrības vai papildu jautājumi, var veikt notikuma vietas papildu apskati. Ja notikuma vietas apskatē pieļauti procesuālās kārtības būtiski pārkāpumi, var veikt notikuma vietas atkārtotu apskati. Notikuma vietas papildu vai atkārtotu apskati veic, ievērojot šā likuma 163.panta nosacījumus.
+(3) Notikuma vietas apskates gaitā izmeklēšanas darbības veicējs var izņemt priekšmetus ar noziedzīga nodarījuma pēdām un dokumentus. Priekšmeti un dokumenti, kuru apgrozība aizliegta ar likumu, izņemami neatkarīgi no to sakara ar konkrēto kriminālprocesu. Priekšmetu un dokumentu izņemšana ir notikuma vietas apskates sastāvdaļa.

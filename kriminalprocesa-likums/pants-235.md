@@ -1,0 +1,4 @@
+235.pants. Lietisko pierādījumu vai dokumentu pievienošana lietai
+(1) Izmeklēšanas darbību gaitā iegūtās lietas un dokumentus, ja ir pamats uzskatīt, ka turpmākajā kriminālprocesā tiem varētu būt pierādījumu nozīme, procesa virzītājs reģistrē krimināllietā esošajā lietisko pierādījumu un dokumentu sarakstā.
+(2) Lietas un dokumentus, kuri iegūti izmeklēšanas darbību gaitā, bet kuriem, kā turpmākajā procesā konstatēts, nav pierādījumu nozīmes kriminālprocesā, pret parakstu nekavējoties atdod to īpašniekam vai likumīgajam valdītājam vai lemj par citu likumā noteiktu rīcību, to atzīmējot lietisko pierādījumu un dokumentu sarakstā.
+(3) Valsts arhīvu fonda pastāvīgi glabājamo dokumentu oriģināli izmeklēšanas darbību gaitā tiek izņemti tikai dokumentu tehniskās vai rokraksta ekspertīzes izdarīšanai, bet pārējos gadījumos lietas materiāliem pievienojamas apliecinātas to kopijas.

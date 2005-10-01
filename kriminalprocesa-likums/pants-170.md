@@ -1,0 +1,4 @@
+170.pants. Piespiedu aplūkošana
+(1) Ja persona nepiekrīt aplūkošanai, to izdara piespiedu kārtā.
+(2) Tās personas piespiedu aplūkošanu, kura konkrētajā kriminālprocesā nav aizturētais, aizdomās turētais vai apsūdzētais, var izdarīt, tikai pamatojoties uz izmeklēšanas tiesneša lēmumu.
+(3) Ja aplūkošanas izdarīšana ir neatliekama un vilcināšanās var novest pie pierādījumu zaudēšanas vai apdraudēt kriminālprocesa mērķa sasniegšanu, to var izdarīt ar prokurora piekrišanu, ne vēlāk kā nākamajā darba dienā pēc aplūkošanas paziņojot par to izmeklēšanas tiesnesim un uzrādot izmeklēšanas darbības protokolu un materiālus, kas pamatoja izmeklēšanas darbības nepieciešamību un neatliekamību. Tiesnesis pārbauda aplūkošanas tiesiskumu un pamatotību. Ja izmeklēšanas darbība nebija pamatota vai tā izdarīta prettiesiski, tiesnesis lemj par iegūto pierādījumu pieļaujamību.

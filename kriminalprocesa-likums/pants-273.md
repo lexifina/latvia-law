@@ -1,0 +1,4 @@
+273.pants. Apcietinājuma piemērošanas pamati nepilngadīgajiem, grūtniecēm un sievietēm pēcdzemdību periodā
+(1) Uz nepilngadīgajiem, grūtniecēm un sievietēm pēcdzemdību periodā līdz vienam gadam, bet, ja sieviete baro bērnu ar krūti, - visā barošanas laikā attiecas šā likuma 272.pantā minētie noteikumi ar izņēmumiem, kas noteikti šajā pantā.
+(2) Ja šā panta pirmajā daļā minētā persona tiek turēta aizdomās vai apsūdzēta noziegumā aiz neuzmanības vai kriminālpārkāpuma izdarīšanā, apcietinājumu nepiemēro.
+(3) Ja šā panta pirmajā daļā minētā persona tiek turēta aizdomās vai apsūdzēta tīša mazāk smaga nozieguma izdarīšanā, apcietinājumu drīkst piemērot vienīgi tad, ja attiecīgā persona pārkāpusi cita drošības līdzekļa noteikumus vai noziegumu izdarījusi, būdama aizdomās turētā vai apsūdzētā smaga vai sevišķi smaga nozieguma izdarīšanā.

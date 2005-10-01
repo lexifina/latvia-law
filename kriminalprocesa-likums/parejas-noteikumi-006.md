@@ -1,0 +1,1 @@
+6. Ja šis likums neparedz kādu agrāk piemērotu drošības līdzekli, procesa virzītājam viena mēneša laikā pēc šā likuma spēkā stāšanās dienas jāpieņem lēmums par šā drošības līdzekļa atcelšanu vai grozīšanu.

@@ -1,0 +1,1 @@
+56. Likuma regulējums par neizciestās soda daļas izpildi nosacīti pirms termiņa atbrīvotajam, kas bija spēkā līdz 2015.gada 31.janvārim, tiek piemērots attiecībā uz notiesāto, kurš atbrīvots nosacīti pirms termiņa, pamatojoties uz brīvības atņemšanas iestādes administratīvās komisijas iesniegumu.

@@ -1,0 +1,3 @@
+238.pants. Dokumentu glabāšana
+(1) Dokumentu oriģināli pēc tam, kad veiktas nepieciešamās izmeklēšanas darbības ar tiem, nekavējoties atdodami atpakaļ to īpašniekam vai likumīgajam valdītājam, bet lietas materiāliem pievienojamas to kopijas.
+(2) Ja dokumentu oriģinālu atdošana to īpašniekam vai likumīgajam valdītājam var kaitēt turpmākajam kriminālprocesam vai ir pamatotas aizdomas, ka tie pēc atdošanas varētu tikt izmantoti prettiesisku mērķu sasniegšanai, dokumentu īpašniekam vai likumīgajam valdītājam nodod dokumentu kopijas, bet dokumentu oriģinālus pievieno lietas materiāliem un uzglabā kopā ar lietu visu tās glabāšanas laiku.

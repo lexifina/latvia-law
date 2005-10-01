@@ -1,0 +1,3 @@
+736.pants. Nodarījumā aizdomās turētā un apsūdzētā tiesības
+(1) Ja persona, kura citā valstī tiek turēta aizdomās vai apsūdzēta nodarījuma izdarīšanā, uzturas Latvijā un šis nodarījums ir Latvijas kriminālajā jurisdikcijā vienīgi tāpēc, ka ārvalsts lūdz kriminālprocesa pārņemšanu, kompetentā iestāde pirms lēmuma pieņemšanas iepazīstina attiecīgo personu ar saņemto lūgumu un noskaidro, vai tā vēlas piedalīties kriminālprocesā lūguma iesniedzējā valstī. Personas viedokli var ņemt vērā, lemjot par kriminālprocesa pārņemšanas lūgumu, bet tas nav saistošs.
+(2) No kriminālprocesa pārņemšanas brīža persona iegūst tādas pašas tiesības, kādas aizdomās turētajam vai apsūdzētajam ir Latvijā.

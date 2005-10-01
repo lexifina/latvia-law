@@ -1,0 +1,1 @@
+4. Drošības līdzekļiem, kuri personām piemēroti līdz šā likuma spēkā stāšanās dienai un attiecībā uz kuriem Latvijas Kriminālprocesa kodekss nenoteica procesuālo termiņu, šo termiņu sāk skaitīt no šā likuma spēkā stāšanās dienas.

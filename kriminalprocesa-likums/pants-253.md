@@ -1,0 +1,4 @@
+253.pants. Aizliegums tuvoties noteiktai personai vai vietai
+(1) Aizliegums tuvoties noteiktai personai ir ar procesa virzītāja lēmumu paredzēts ierobežojums aizdomās turētajam vai apsūdzētajam atrasties attiecīgajai personai tuvāk par lēmumā minēto attālumu, izvairīties no fiziska vai vizuāla kontakta ar to un neizmantot nekādus sakaru līdzekļus vai informācijas nodošanas paņēmienus, lai kontaktētos ar šo personu.
+(2) Aizliegums tuvoties noteiktai vietai ir ar procesa virzītāja lēmumu paredzēts ierobežojums aizdomās turētajam vai apsūdzētajam apmeklēt attiecīgo vietu vai atrasties tai tuvāk par lēmumā minēto attālumu.
+(3) Par šā panta pirmajā un otrajā daļā minēto aizliegumu pārkāpumu nav uzskatāma tuvošanās noteiktai personai vai vietai, ja tas notiek kriminālprocesa ietvaros, pildot procesa virzītāja norādījumus.

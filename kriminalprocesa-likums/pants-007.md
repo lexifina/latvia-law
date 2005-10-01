@@ -1,0 +1,4 @@
+7.pants. Publiskā un privātā apsūdzība
+(1) Ja šajā likumā nav noteikts citādi, kriminālprocesu veic sabiedrības interesēs neatkarīgi no tās personas gribas, kurai nodarīts kaitējums. Šāds kriminālprocess ir publiskās apsūdzības kriminālprocess, kurā apsūdzības funkciju valsts vārdā īsteno prokurors.
+(2) Par Krimināllikuma 90., 130.pantā (ar vardarbību ģimenē saistītos gadījumos), 131., 132., 136., 145.pantā, 159. un 160.panta pirmajā daļā, 168., 169., 180., 197.pantā, 200. un 260.panta pirmajā daļā paredzēto nodarījumu publiskās apsūdzības kriminālprocesu uzsāk, ja saņemts pieteikums no personas, kurai nodarīts kaitējums.
+(3) Par Krimināllikuma 130.pantā (izņemot ar vardarbību ģimenē saistītus gadījumus), 156., 157. un 158.pantā paredzēto nodarījumu tiek veikts privātās apsūdzības kriminālprocess, kurā apsūdzības funkciju īsteno cietušais.

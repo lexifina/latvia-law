@@ -1,0 +1,4 @@
+88.pants. Atteikšanās no aizstāvja
+(1) Persona, kurai ir tiesības uz aizstāvību, ir tiesīga atteikties no aizstāvja. Šāda atteikšanās pieļaujama tikai pēc pašas personas iniciatīvas. Atteikšanās no aizstāvja nav šķērslis tam, lai kriminālprocesā piedalītos valsts apsūdzības uzturētājs un citas personas aizstāvis.
+(2) Ja persona, kurai ir tiesības uz aizstāvību, atsakās no aizstāvja, tas fiksējams procesuālās darbības protokolā. Personai ar parakstu nepārprotami ir jāapliecina, ka atteikšanās no aizstāvja ir notikusi labprātīgi un pēc personas pašas iniciatīvas. Ja persona, kurai ir tiesības uz aizstāvību, bija izteikusi lūgumu par aizstāvja piedalīšanos, atteikšanās no aizstāvja var notikt vienīgi aizstāvja klātbūtnē.
+(3) Atteikšanās no aizstāvja nav saistoša procesa virzītājam, ja no aizstāvja atsakās šā likuma 83.panta pirmajā daļā minētās personas.

@@ -1,0 +1,3 @@
+191.pants. Elektroniskās informācijas sistēmā esošo datu saglabāšana
+(1) Procesa virzītājs ar savu lēmumu var uzdot elektroniskās informācijas sistēmas īpašniekam vai likumīgajam valdītājam (tas ir, personai, kura nodrošina personu sazināšanos ar informācijas sistēmas palīdzību vai kura šā pakalpojuma ietvaros pārstrādā vai uzkrāj datus) nekavējoties nodrošināt tā valdījumā vai kontrolē esošo noteiktu, izmeklēšanas vajadzībām nepieciešamu datu veseluma saglabāšanu neizmainītā stāvoklī un to nepieejamību citiem sistēmas lietotājiem.
+(2) Datu saglabāšanas pienākumu var noteikt uz laiku līdz 30 dienām, bet šo termiņu, ja nepieciešams, vēl uz laiku līdz 30 dienām var pagarināt izmeklēšanas tiesnesis.

@@ -1,0 +1,4 @@
+247.pants. Citu personu informēšana par procesuālā piespiedu līdzekļa piemērošanu
+(1) Ja procesuālais piespiedu līdzeklis ir saistīts ar personas brīvības atņemšanu, par tā piemērošanu un attiecīgās personas atrašanās vietu procesa virzītājs nekavējoties, ievērojot personas gribu un norādījumus, informē tās ģimeni vai citu tuvu radinieku un darbavietu vai mācību vietu.
+(2) Par šā panta pirmajā daļā minētā piespiedu līdzekļa piemērošanu nepilngadīgajam procesa virzītājs nekavējoties informē viņa vecākus vai citu pilngadīgu tuvu radinieku, vai aizbildni, ja attiecīgā persona ir aizbildnībā.
+(3) Par šā panta pirmajā daļā minētā piespiedu līdzekļa piemērošanu ārvalsts pilsonim procesa virzītājs, ievērojot attiecīgās personas gribu, informē šīs valsts pārstāvniecību ar Latvijas Republikas Ārlietu ministrijas starpniecību.

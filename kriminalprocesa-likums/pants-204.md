@@ -1,0 +1,3 @@
+204.pants. Piespiedu līdzekļu lietošana, izdarot ekspertīzi
+(1) Lai nodrošinātu aizturētā, aizdomās turētā vai apsūdzētā tiesu psihiatriskās vai psiholoģiskās ekspertīzes vai ar viņa ķermeņa izpēti saistītas ekspertīzes izdarīšanu, ja nepieciešams, var pielietot piespiedu līdzekļus.
+(2) Piespiedu kārtā liecinieka, cietušā vai personas, pret kuru uzsākts kriminālprocess, tiesu psihiatrisko vai psiholoģisko ekspertīzi vai ar viņa ķermeņa izpēti saistītu ekspertīzi var izdarīt tikai ar izmeklēšanas tiesneša lēmumu un tikai tādā gadījumā, ja kriminālprocesā pierādāmie apstākļi bez šādas ekspertīzes nav noskaidrojami.

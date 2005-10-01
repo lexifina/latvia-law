@@ -1,0 +1,5 @@
+126.pants. Pierādīšanas subjekti un pierādīšanas pienākums
+(1) Par pierādīšanas subjektiem uzskatāmas visas kriminālprocesā iesaistītās personas, kurām ar šo likumu uzlikts pienākums vai piešķirtas tiesības veikt pierādīšanu.
+(2) Pierādīšanas pienākums pirmstiesas kriminālprocesā ir procesa virzītājam, bet tiesā - apsūdzības uzturētājam.
+(3) Ja kriminālprocesā iesaistīta persona uzskata, ka kāds no šā likuma 125.pantā prezumētajiem faktiem nav patiess, pienākums norādīt uz pierādījumiem par šā fakta neatbilstību īstenībai ir tai procesā iesaistītajai personai, kura to apgalvo.
+(4) Uz apstākļiem, kas izslēdz kriminālatbildību, kā arī uz alibi jānorāda personai, kurai ir tiesības uz aizstāvību saistībā ar šā nodarījuma izmeklēšanu, ja vien šādas ziņas jau nav iegūtas izmeklēšanā. Ja persona uz šādiem apstākļiem vai alibi nenorāda, apsūdzībai nav pienākuma pierādīt to neesamību, tiesai nav jādod to vērtējums spriedumā, bet personai tiek liegta iespēja saņemt atlīdzību par zaudējumiem, kas radušies, nepamatoti turot to aizdomās, ja kriminālprocesa izbeigšana vai personas attaisnošana saistīta ar minēto apstākļu noskaidrošanu.

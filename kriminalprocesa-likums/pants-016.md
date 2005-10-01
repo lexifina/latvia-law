@@ -1,0 +1,4 @@
+16.pants. Tiesības uz objektīvu kriminālprocesa norisi
+(1) Amatpersonām, kuras veic kriminālprocesu, tulkiem un speciālistiem jāatsakās no piedalīšanās kriminālprocesā, ja viņi ir personiski ieinteresēti rezultātā vai pastāv apstākļi, kas procesā iesaistītajām personām pamatoti dod iemeslu uzskatīt, ka šāda ieinteresētība varētu būt.
+(2) Personai, kura īsteno aizstāvību, cietušajam, cietušā pārstāvim un amatpersonai, kura ir pilnvarota veikt kriminālprocesu, bet nav procesa virzītāja, ir tiesības pieteikt noraidījumu, ja pastāv šā panta pirmajā daļā minētie apstākļi.
+(3) Procesa virzītājam vai likumā noteiktajām amatpersonām pēc savas iniciatīvas vai uz noraidījuma pamata jāpārtrauc šā panta pirmajā daļā minēto personu līdzdalība procesā, ja tās pašas nav sevi atstatījušas.

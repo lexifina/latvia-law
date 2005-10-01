@@ -1,0 +1,7 @@
+797.pants. Ārvalstī ārpustiesas kārtībā noteiktā soda (ordonnance penale) izpildīšana Latvijā
+(1) Starptautiskajos līgumos paredzētajos gadījumos ārvalstī ārpustiesas kārtībā noteikto sodu Latvijā izpilda tādā pašā kārtībā kā iztiesāšanas rezultātā piespriesto sodu.
+(2) Saņēmusi lūgumu par ārpustiesas kārtībā noteiktā soda izpildīšanu Latvijā, kompetentā iestāde izsniedz personai, kurai ārvalstī noteikts sods, paziņojumu, kurā norāda, ka:
+1) lūgumu par soda izpildīšanu iesniegusi ārvalsts, ar kuru Latvijai ir līgums par otrā valstī ārpustiesas kārtībā noteiktā soda izpildīšanu;
+2) 30 dienu laikā, iesniedzot sūdzību Latvijas kompetentajai iestādei, persona var pieprasīt lietas izskatīšanu tiesā ārvalstī vai Latvijā;
+3) sods tiks pielīdzināts un izpildīts vispārējā kārtībā, ja 30 dienu laikā netiks pieprasīta lietas izskatīšana tiesā personas klātbūtnē vai sūdzība tiks noraidīta vai atstāta bez izskatīšanas sakarā ar šīs personas neierašanos.
+(3) Sūdzībai par ārpustiesas kārtībā noteiktā soda izskatīšanu tiesā ir tādas pašas sekas un turpmākā izskatīšanas kārtība kā sūdzībai, ja sods piespriests aizmuguriski.

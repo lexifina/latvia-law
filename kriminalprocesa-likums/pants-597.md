@@ -1,0 +1,4 @@
+597.pants. Pirmstiesas procesa apturēšana sakarā ar personas ievietošanu ārstniecības iestādē
+(1) Ja persona, kas ar psihiskiem traucējumiem saslimusi pēc noziedzīga nodarījuma izdarīšanas, pēc eksperta atzinuma, nevar piedalīties pirmstiesas procesā un tai nepieciešama ārstēšana, procesa virzītājs iesniedz tiesai ierosinājumu par šīs personas ievietošanu ārstniecības iestādē. Tiesa pieņem lēmumu par minētās personas ievietošanu ārstniecības iestādē vai noraida ierosinājumu. Saņēmis šādu tiesas lēmumu, procesa virzītājs aptur pirmstiesas procesu.
+(2) Saņēmis no ārstniecības iestādes atzinumu, ka persona ir izārstēta un izmeklēšanu iespējams turpināt, procesa virzītājs atjauno un turpina pirmstiesas procesu.
+(3) Ja saskaņā ar eksperta atzinumu persona nav izārstējama un tai nepieciešams noteikt vienu no Krimināllikumā paredzētajiem medicīniska rakstura piespiedu līdzekļiem, procesa virzītājs pabeidz procesu medicīniska rakstura piespiedu līdzekļu noteikšanai.

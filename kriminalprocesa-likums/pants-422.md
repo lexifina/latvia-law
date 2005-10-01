@@ -1,0 +1,3 @@
+422.pants. Iepazīstināšana ar krimināllietas materiāliem
+(1) Personai, pret kuru izbeidz kriminālprocesu ar prokurora priekšrakstu par sodu, izsniedz šā priekšraksta un krimināllietas materiālu kopijas, izskaidro kriminālprocesa izbeigšanas sekas. Persona parakstās, ka piekrīt noziedzīga nodarījuma kvalifikācijai un apņemas izpildīt priekšrakstā noteikto sodu. Apsūdzētais savu piekrišanu var izteikt nekavējoties vai piecu darba dienu laikā no kopiju saņemšanas dienas.
+(2) Procesa virzītājs nosūta cietušajam priekšraksta par sodu kopiju un paziņo par viņa tiesībām iepazīties ar krimināllietas materiāliem, kā arī pārsūdzēt pieņemto lēmumu 10 dienu laikā pēc paziņojuma saņemšanas dienas.

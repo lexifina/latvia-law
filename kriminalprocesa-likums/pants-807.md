@@ -1,0 +1,6 @@
+807.pants. Latvijā notiesātās personas apcietinājums
+(1) Ja pastāv pamatotas aizdomas, ka notiesātais ārvalstī varētu izvairīties no brīvības atņemšanas soda izciešanas, Latvijas kompetentā iestāde var lūgt ārvalstij notiesāto apcietināt līdz Latvijā piespriestā soda izpildīšanas lūguma iesniegšanai un izlemšanai.
+(2) Ja persona ārvalstī apcietināta uz šā panta pirmajā daļā norādītā lūguma pamata, soda izpildīšanas lūgums iesniedzams iespējami īsākajā laikā, bet ne vēlāk kā piecpadsmitajā dienā pēc personas apcietināšanas.
+(3) Latvijā apcietinātā persona nododama ārvalstij līdzdalībai procesā par izpildāmā soda noteikšanu. Ja ārvalsts tiesa konstatē, ka Latvijā piespriestā soda izpilde šajā valstī nav iespējama, Latvija pārņem apcietināto personu un vispārējā kārtībā lemj par tās turēšanu apcietinājumā vai atbrīvošanu.
+(4) Ja ārvalsts likums to pieļauj, Latvijā apcietinātā persona soda noteikšanas procesā var piedalīties, izmantojot tehniskos līdzekļus.
+(5) Ja Latvijā tiek atcelts spriedums, uz kura pamata ārvalsts izpilda brīvības atņemšanas sodu, un lieta nodota jaunai izskatīšanai, kompetentā iestāde nekavējoties informē ārvalsti un var iesniegt lūgumu par pagaidu apcietinājuma piemērošanu šajā sadaļā paredzētajos gadījumos.

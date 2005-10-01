@@ -1,0 +1,4 @@
+75.pants. Personas tiesības, kura noziedzīgu nodarījumu izdarījusi, būdama nepieskaitāmības stāvoklī
+(1) Personai, kura noziedzīgu nodarījumu izdarījusi, būdama nepieskaitāmības stāvoklī, bet saskaņā ar tiesu psihiatriskās ekspertīzes atzinumu var piedalīties kriminālprocesā par medicīniska rakstura piespiedu līdzekļa noteikšanu, ir tādas pašas tiesības kā apsūdzētajam, izņemot tiesības atteikties no aizstāvja un tiesības uzstāties tiesas debatēs.
+(2) Šā panta pirmajā daļā minētajai personai ir tiesības uz aizstāvja palīdzības apmaksāšanu no valsts līdzekļiem.
+(3) Ja saskaņā ar tiesu psihiatriskās ekspertīzes atzinumu persona nevar piedalīties kriminālprocesā, visas tās tiesības uz aizstāvību īsteno aizstāvis un likumā noteiktajos ietvaros arī pārstāvis, kam procesa virzītājs atļāvis piedalīties procesā.

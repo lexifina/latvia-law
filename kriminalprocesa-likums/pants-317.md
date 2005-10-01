@@ -1,0 +1,7 @@
+317.pants. Nokavēta procesuālā termiņa atjaunošana
+(1) Ieinteresētajai personai, kura attaisnojoša iemesla dēļ nokavējusi tiesību realizācijai noteikto termiņu, ir tiesības iesniegt iesniegumu par šā termiņa atjaunošanu. Iesniegumā norādāmi iemesli, kāpēc termiņš nokavēts, un tam pievienojami dokumenti, kas apliecina termiņa nokavējuma attaisnojumu.
+(2) Ieinteresētās personas iesniegumu par nokavēta termiņa atjaunošanu procesa virzītājs izskata nākamo divu darba dienu laikā. Ja jautājuma izlemšana nav iespējama bez papildu paskaidrojumu saņemšanas no iesniedzēja vai citām personām, kā arī ja to lūdzis iesniedzējs, iesniegumu par termiņa atjaunošanu izskata iesniedzēja un citu uzaicināto personu klātbūtnē.
+(3) Izskatot iesniegumu par termiņa atjaunošanu, procesa virzītājs var pieņemt lēmumu par nokavēta termiņa atjaunošanu vai par atteikšanos atjaunot nokavētu termiņu.
+(4) Lēmumam par nokavēta termiņa atjaunošanu vai par atteikšanos atjaunot nokavētu termiņu jābūt motivētam, un tas nekavējoties jāpaziņo iesniedzējam.
+(5) Procesa virzītājs, saņēmis iesniegumu par nokavēta termiņa atjaunošanu, saskaņā ar iesniedzēja lūgumu vai pats pēc savas iniciatīvas līdz jautājuma izlemšanai par nokavēta termiņa atjaunošanu var apturēt tāda nolēmuma izpildi, kura pārsūdzēšanas termiņu tiek lūgts atjaunot.
+(6) Iesniegumus par nokavētu termiņu atjaunošanu sakarā ar izmeklēšanas tiesneša kompetencē esošu lēmumu pieņemšanu pirmstiesas procesa laikā izskata izmeklēšanas tiesnesis.

@@ -1,0 +1,2 @@
+718.pants. Pagaidu darbības līdz lēmuma pieņemšanai
+Ja Eiropas Savienības dalībvalsts Eiropas apcietinājuma lēmumu pieņēmusi, lai nodrošinātu personas kriminālvajāšanu, pirms pieņemts lēmums par personas izdošanu vai neizdošanu, pēc dalībvalsts kompetentās tiesu varas institūcijas lūguma Ģenerālprokuratūra personu nopratina, piedaloties personai, kuru izvēlas dalībvalsts kompetentās tiesu varas institūcija, vai arī piekrīt personas pagaidu pārvietošanai, nosakot atpakaļ nodošanas laiku.

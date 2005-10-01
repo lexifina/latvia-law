@@ -1,0 +1,3 @@
+218.pants. Sakaru līdzekļu kontrole
+(1) Telefonu un citu sakaru līdzekļu kontroli bez sarunas dalībnieku vai informācijas nosūtītāja un saņēmēja ziņas veic, pamatojoties uz izmeklēšanas tiesneša lēmumu, ja ir pamats uzskatīt, ka sarunas vai nodotā informācija var saturēt ziņas par pierādāmajos apstākļos ietilpstošajiem faktiem, un ja bez šīs darbības nepieciešamo ziņu iegūšana nav iespējama.
+(2) Telefonu un citu sakaru līdzekļu kontroli ar sarunas dalībnieka, informācijas nosūtītāja vai saņēmēja rakstveida piekrišanu veic, ja ir pamats uzskatīt, ka pret šo personu vai tās tuviniekiem var tikt vērsts noziedzīgs nodarījums vai arī šī persona ir vai var tikt iesaistīta noziedzīga nodarījuma izdarīšanā.

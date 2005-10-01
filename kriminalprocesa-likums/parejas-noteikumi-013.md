@@ -1,0 +1,3 @@
+13. Līdz 2006.gada 1.aprīlim atļaujas speciālo izmeklēšanas darbību veikšanai izsniedz:
+1) Augstākās tiesas priekšsēdētāja īpaši pilnvarots Augstākās tiesas tiesnesis - korespondences kontrolei, sakaru līdzekļu kontrolei, vietas vai personas audiokontrolei, vietas videokontrolei, elektroniskajā informācijas sistēmā esošo datu kontrolei, pārraidīto datu satura kontrolei;
+2) ģenerālprokurora īpaši pilnvaroti prokurori - personas novērošanai un izsekošanai, objekta novērošanai, speciālam izmeklēšanas eksperimentam, salīdzinošajai izpētei nepieciešamo paraugu iegūšanai speciālā veidā, noziedzīgas darbības kontrolei.

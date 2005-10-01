@@ -1,0 +1,2 @@
+Astoņpadsmitā sadaļa
+Palīdzība procesuālo darbību veikšanā

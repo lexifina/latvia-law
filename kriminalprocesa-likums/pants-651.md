@@ -1,0 +1,8 @@
+651.pants. Ar sprieduma izpildi saistīto jautājumu izlemšanas kārtība
+(1) Ar sprieduma izpildi saistītos jautājumus izlemj tiesnesis tiesas sēdē, piedaloties prokuroram un notiesātajam, kuram tiek nodrošinātas šā likuma 71.pantā paredzētās tiesības.
+(2) Ja tiesnesis izskata jautājumu par notiesātā atbrīvošanu no soda izciešanas slimības vai invaliditātes dēļ, kā arī jautājumu par atbrīvotā nodošanu ārstniecības iestāžu aizgādnībā, tiesas sēdē jāpiedalās atzinumu devušās ārstu komisijas pārstāvim.
+(3) Ja tiesnesis izskata jautājumus, kas saistīti ar soda izpildi pēc sprieduma, uz tiesas sēdi tiek uzaicināts tās iestādes pārstāvis, kura pārzina soda izpildi vai kontrolē nosacīti notiesātā uzvedību.
+(4) Ja uz tiesas sēdi bez attaisnojoša iemesla neierodas personas, kuras nosūtījušas iesniegumu vai izteikušas lūgumu, lietas izskatīšanu atliek.
+(5) Tiesnesis atklāj tiesas sēdi un paziņo, kāda lieta tiek izskatīta, pēc tam pārbauda, vai uz tiesas sēdi ieradušās uzaicinātās personas, izlemj jautājumu par tiesneša, prokurora, tiesas sēdes sekretāra, tulka noraidījumu.
+(6) Lietas izskatīšana sākas ar iesnieguma vai lūguma nolasīšanu, ko izdara iesniedzējs. Pēc tam tiesa uzklausa prokurora un citu personu viedokli. Pēdējais runā notiesātais un viņa aizstāvis. Pēc tam tiesnesis apspriežu istabā pieņem lēmumu.
+(7) Visus tiesas lēmumus, kas pieņemti ar sprieduma izpildi saistītajos jautājumos, var pārsūdzēt 10 dienu laikā. Augstākas instances tiesa sūdzību izskata šajā pantā noteiktajā kārtībā, un tās lēmums ir galīgs.

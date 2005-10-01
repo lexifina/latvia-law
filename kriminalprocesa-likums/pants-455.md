@@ -1,0 +1,3 @@
+455.pants. Procesuālās tiesības iztiesāšanā
+(1) Tiesas sēdē apsūdzētajam, viņa pārstāvim un aizstāvim, cietušajam un viņa pārstāvim un prokuroram ir vienādas tiesības pieteikt noraidījumus, pieteikt lūgumus, iesniegt pierādījumus, piedalīties pierādījumu pārbaudē, iesniegt tiesai rakstveida paskaidrojumus, piedalīties tiesas debatēs, kā arī citu jautājumu izskatīšanā, kuri radušies krimināllietas iztiesāšanas gaitā.
+(2) Tiesa ir tiesīga pēc savas iniciatīvas iegūt pierādījumus un tos pārbaudīt tiesas sēdē tikai tad, ja apsūdzētais aizstāvību īsteno pats, bet tiesai rodas pamatotas šaubas par viņa pieskaitāmību vai iespējamo vainu apsūdzībā.

@@ -1,0 +1,3 @@
+197.pants. Atkārtota ekspertīze
+(1) Atkārtotu ekspertīzi nosaka, ja procesa virzītājs apšauba eksperta atzinumu pēc būtības tā nepamatotības, būtisku nepilnību vai pieļautu metodiska rakstura kļūdu dēļ, kā arī tad, ja konstatēta eksperta nepietiekama kvalifikācija vai nekompetence vai ja pieļauti ekspertīzes izdarīšanas procesuālās kārtības būtiski pārkāpumi.
+(2) Atkārtotu ekspertīzi uzdod izdarīt citam ekspertam vai ekspertu komisijai, nododot eksperta vai komisijas rīcībā tos pašus izpētes objektus un sākotnējās ekspertīzes atzinumu. Eksperts, kas izdarījis sākotnējo ekspertīzi, var būt klāt atkārtotas ekspertīzes izdarīšanā, nepiedaloties pētījumos.

@@ -1,0 +1,4 @@
+114.pants. Personas - procesa virzītāja palīgi
+(1) Procesuālās darbības, kuras nav izmeklēšanas darbības un ir saistītas nevis ar lēmumu pieņemšanu, bet gan to izpildi, procesa virzītāja uzdevumā var veikt tiesneša palīgs, prokurora palīgs, tiesas sēdes sekretārs vai attiecīgās iestādes kancelejas darbinieks.
+(2) Izmeklēšanas iestāžu, prokuratūras, tiesas un brīvības atņemšanas iestāžu tulki nodrošina personu tiesības lietot valodu, kuru tās prot. Procesa virzītājs var uzdot tulka pienākuma veikšanu citai personai, kura prot attiecīgo valodu.
+(3) Amatpersona, kura uzaicina tulku, informē viņu par tulka tiesībām un pienākumiem, kā arī par atbildību par nepatiesu tulkošanu vai atteikšanos tulkot. Par tiesībām un pienākumiem nav jāinformē tulks, kuram tulkošana ir profesionāls amata pienākums un kurš, uzsākot amata pildīšanu, savu atbildību ir apliecinājis ar parakstu.

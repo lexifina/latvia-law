@@ -1,0 +1,5 @@
+745.pants. Kriminālprocesa pārņemšanas lūgums
+(1) Kriminālprocesa pārņemšanas lūgumā papildus šā likuma 678.pantā norādītajam jāmotivē, ka pastāv kriminālprocesa nodošanas nosacījumi un iemesli un nodošana atbilst kriminālprocesa interesēm.
+(2) Lūgumam pievienojami visi nododamā krimināllietā esošie procesuālie dokumenti vai to kopijas un to Krimināllikuma pantu teksts ar tulkojumu, kuri nosaka atbildību par lēmumā par personas atzīšanu par aizdomās turēto vai saukšanu pie kriminālatbildības norādīto noziedzīgu nodarījumu, ja to paredz līgums vai kompetento iestāžu vienošanās.
+(3) Ja ārvalstij iesniegts pagaidu apcietinājuma lūgums, kriminālprocesa pārņemšanas lūgums iesniedzams iespējami īsākajā laikā, bet ne vēlāk kā piecpadsmitajā dienā pēc personas apcietināšanas.
+(4) Ja kriminālprocesa pārņemšanas lūgums iesniegts bez pievienotajiem materiāliem, tie iesniedzami iespējami īsākajā laikā, bet, ja personai piemērots pagaidu apcietinājums, - ne vēlāk kā divpadsmitajā dienā pēc lūguma iesniegšanas.

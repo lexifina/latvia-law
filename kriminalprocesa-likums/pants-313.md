@@ -1,0 +1,4 @@
+313.pants. Procesuālā termiņa sākums
+(1) Ja procesuālais termiņš nosaka kādas procesuālās darbības veikšanu pirms vai pēc citas procesuālās darbības vai sakarā ar šajā likumā noteikta notikuma iestāšanos, vai vienlaikus ar citu procesuālo darbību, tad tas ir saistīts ar noteikto notikumu un uz to neattiecas šā likuma 314.pantā paredzētie termiņu aprēķināšanas noteikumi.
+(2) Stundās, dienās vai mēnešos noteikta procesuālā termiņa sākums tiek norādīts šajā likumā, bet, ja tas nav norādīts, par termiņa sākumu uzskatāms brīdis, kad izveidojas tās kriminālprocesuālās attiecības, kuru dēļ termiņš tiek noteikts.
+(3) Par kriminālprocesuālo attiecību izveidošanās brīdi uzskatāms brīdis, kad procesā iesaistītā persona ir uzzinājusi vai, ievērojot likumā noteiktu pienācīgā veidā izdarītu paziņojumu, tai bija jāuzzina par konkrētu procesuālo tiesību vai pienākumu rašanos.

@@ -1,0 +1,3 @@
+214.pants. Atļaujas saņemšanas kārtības pārkāpšanas sekas
+(1) Ja procesa virzītājs nav ievērojis šajā nodaļā noteikto atļaujas saņemšanas kārtību, speciālās izmeklēšanas darbības rezultātā iegūtie pierādījumi nav izmantojami pierādīšanas procesā.
+(2) Ja speciālā izmeklēšanas darbība uzsākta šā likuma 212.panta ceturtajā daļā paredzētajā kārtībā, izmeklēšanas tiesnesis lemj par šīs izmeklēšanas darbības uzsākšanas pamatotību, kā arī par tās turpināšanas nepieciešamību, ja tā nav pabeigta. Ja izmeklēšanas darbība nebija pamatota vai tika veikta prettiesiski, tiesnesis lemj par iegūto pierādījumu pieļaujamību un par rīcību ar izņemtajiem priekšmetiem.

@@ -1,0 +1,2 @@
+221.pants. Vietas audiokontrole vai videokontrole
+Publiski nepieejamas vietas audiokontroli vai videokontroli bez šīs vietas īpašnieka, valdītāja un apmeklētāju ziņas veic, pamatojoties uz izmeklēšanas tiesneša lēmumu, ja ir pamats uzskatīt, ka šajā vietā notiekošās sarunas, citas skaņas vai norises var saturēt ziņas par pierādāmajos apstākļos ietilpstošajiem faktiem. Publiski nepieejamas vietas audiokontroli vai videokontroli veic tikai tad, ja bez šīs darbības nepieciešamo ziņu iegūšana nav iespējama.

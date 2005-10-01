@@ -1,0 +1,4 @@
+228.pants. Pasākumi speciālo izmeklēšanas darbību nodrošināšanai
+(1) Speciālās izmeklēšanas darbības nodrošināšanai tajā iesaistītās amatpersonas un personas var izmantot iepriekš speciāli sagatavotas ziņas un dokumentus, iepriekš speciāli izveidotas organizācijas vai uzņēmumus, priekšmetu un vielu imitācijas, īpaši sagatavotus tehniskos līdzekļus, kā arī imitēt dalību noziedzīga nodarījuma izdarīšanā vai līdzdalību atbalstītāja veidā.
+(2) Imitējot noziedzīgu darbību, nedrīkst apdraudēt cilvēku dzīvību un veselību, nodarīt jebkādus zaudējumus, ja tas nav absolūti nepieciešams smagāka un bīstamāka nozieguma atklāšanai.
+(3) Par šā panta pirmajā daļā minēto nodrošināšanas līdzekļu izmantošanu ārpus speciālās izmeklēšanas darbības veikšanai nepieciešamajiem ietvariem persona atbild vispārējā kārtībā.

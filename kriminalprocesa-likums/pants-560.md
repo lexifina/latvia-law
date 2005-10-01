@@ -1,0 +1,5 @@
+560.pants. Personas, kuras piedalās lietas izskatīšanā apelācijas instances tiesas sēdē
+(1) Uz apelācijas instances tiesas sēdi uzaicina prokuroru (izņemot privātās apsūdzības lietās), personas, kuras pārsūdzējušas tiesas spriedumu, personas, attiecībā uz kurām pārsūdzēts vai noprotestēts tiesas spriedums, to aizstāvjus un pārstāvjus.
+(2) Citas personas var uzaicināt uz tiesas sēdi tad, ja šāds lūgums izteikts apelācijas sūdzībā vai protestā un ja šīs personas nav nopratinātas, izskatot lietu pirmās instances tiesā. Tiesa pēc savas iniciatīvas var uzaicināt personas, kas nopratinātas pirmās instances tiesā, ja tiesai rodas pamatotas šaubas par sniegto liecību pilnīgumu vai par apsūdzētā iespējamo vainu inkriminētajā apsūdzībā.
+(3) Ja persona, kura iesniegusi apelācijas sūdzību vai protestu, neierodas uz tiesas sēdi bez attaisnojoša iemesla, tās sūdzību vai protestu atstāj bez izskatīšanas.
+(4) Ja apsūdzētais, kurš savā apelācijas sūdzībā ir apstrīdējis savu vainu noziedzīga nodarījuma izdarīšanā vai nodarījuma faktiskos apstākļus, ir miris, viņa sūdzība ir jāizskata.

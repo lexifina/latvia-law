@@ -1,0 +1,15 @@
+387.pants. Institucionālā piekritība
+(1) Valsts policijas pilnvarotas amatpersonas izmeklē jebkuru noziedzīgu nodarījumu, izņemot šā panta otrajā līdz desmitajā daļā noteiktos gadījumus, ja vien ģenerālprokurors nav uzdevis to darīt.
+(2) Drošības policijas pilnvarotas amatpersonas izmeklē noziedzīgus nodarījumus, kas izdarīti valsts drošības jomā vai valsts drošības iestādēs, vai citus noziedzīgus nodarījumus savas kompetences ietvaros un gadījumos, kad izmeklēšanu uzdevis veikt ģenerālprokurors.
+(3) Finanšu policijas pilnvarotas amatpersonas izmeklē noziedzīgus nodarījumus valsts ieņēmumu jomā un Valsts ieņēmumu dienesta amatpersonu un darbinieku rīcībā.
+(4) Militārās policijas pilnvarotas amatpersonas izmeklē militārajā dienestā un militārajās vienībās vai to dislokācijas vietās izdarītus noziedzīgus nodarījumus, kā arī noziedzīgus nodarījumus, ko izdarījuši karavīri, zemessargi, militārajās vienībās strādājošas civilpersonas saistībā ar savu dienesta pienākumu izpildi.
+(5) Ieslodzījuma vietu pārvaldes pilnvarotas amatpersonas izmeklē noziedzīgus nodarījumus, ko izdarījuši apcietinātie vai notiesātie, kā arī Ieslodzījuma vietu pārvaldes darbinieki ieslodzījuma vietās.
+(6) Korupcijas novēršanas un apkarošanas biroja pilnvarotas amatpersonas izmeklē noziedzīgus nodarījumus, kuri saistīti ar politisko organizāciju (partiju) un to apvienību finansēšanas noteikumu pārkāpumiem, kā arī noziedzīgus nodarījumus valsts institūciju dienestā, ja tie ir saistīti ar korupciju.
+(7) Muitas iestāžu pilnvarotas amatpersonas izmeklē kontrabandas lietas.
+(8) Valsts robežsardzes pilnvarotas amatpersonas izmeklē noziedzīgus nodarījumus, kas saistīti ar valsts robežas nelikumīgu šķērsošanu, personas nelikumīgu pārvietošanu pāri valsts robežai vai nelikumīgu uzturēšanos valstī, kā arī robežsarga kā valsts amatpersonas izdarītus noziedzīgus nodarījumus.
+(9) Tālbraucienos esošu jūras kuģu kapteiņi izmeklē uz Latvijas Republikas kuģiem izdarītus noziedzīgus nodarījumus.
+(10) Ārvalsts teritorijā esošas Latvijas Nacionālo bruņoto spēku vienības komandieris izmeklē noziedzīgus nodarījumus, ko izdarījuši šīs vienības karavīri vai kas izdarīti šīs vienības dislokācijas vietā (uzturēšanās vietas slēgtajā teritorijā), ja vien šos nodarījumus neizmeklē attiecīgās ārvalsts izmeklēšanas iestādes.
+(11) Konkrētu noziedzīgu nodarījumu institucionālo piekritību nosaka ģenerālprokurors.
+(12) Ja konkrēta noziedzīga nodarījuma izmeklēšana ir piekritīga vairāk nekā vienai izmeklēšanas iestādei, to izmeklē iestāde, kura pirmā uzsākusi kriminālprocesu.
+(13) Ja kāda izmeklēšanas iestāde saņem ziņu par notiekošu vai notikušu smagu vai sevišķi smagu noziegumu, kura izmeklēšana neietilpst tās kompetencē, bet pierādījumu fiksēšanai vai nozieguma izdarītāja aizturēšanai nepieciešams veikt neatliekamas izmeklēšanas darbības, tā uzsāk kriminālprocesu, informē par to attiecīgo kompetento izmeklēšanas iestādi, veic neatliekamās izmeklēšanas darbības un nodod uzsāktā kriminālprocesa materiālus pēc piekritības.
+(14) Izmeklēšanas iestāžu strīdus par noziedzīgu nodarījumu piekritību izšķir ģenerālprokurors.

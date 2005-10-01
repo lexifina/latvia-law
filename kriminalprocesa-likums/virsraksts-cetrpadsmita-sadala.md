@@ -1,0 +1,2 @@
+Četrpadsmitā sadaļa
+Izdošana

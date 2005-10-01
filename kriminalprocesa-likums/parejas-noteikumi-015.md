@@ -1,0 +1,1 @@
+15. Prokuratūras un izmeklēšanas iestādes viena mēneša laikā pēc šā likuma spēkā stāšanās izlemj jautājumu par kriminālprocesa uzsākšanu vai atteikšanos uzsākt kriminālprocesu saistībā ar saņemtajiem pieteikumiem par gatavotiem vai izdarītiem noziedzīgiem nodarījumiem, attiecībā uz kuriem bija uzsākta pārbaude Latvijas Kriminālprocesa kodeksa 109.pantā noteiktajā kārtībā.

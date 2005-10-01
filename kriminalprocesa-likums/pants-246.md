@@ -1,0 +1,3 @@
+246.pants. Procesuālā piespiedu līdzekļa piemērošana
+(1) Uzsākot procesuālā piespiedu līdzekļa piemērošanu, persona, kura to piemēro, informē personu, kurai piespiedu līdzeklis tiek piemērots, par pieņemto lēmumu, kā arī izskaidro piespiedu līdzekļa būtību, saturu, pārsūdzības kārtību un piespiedu līdzekļa neievērošanas sekas.
+(2) Persona, kura īsteno tiesības uz aizstāvību, ir tiesīga iepazīties ar procesuālajiem dokumentiem, kuros fiksētās ziņas par faktiem izmantotas, lai pamatotu procesuālā piespiedu līdzekļa piemērošanu. Ja šāda iepazīstināšana apdraud pirmstiesas izmeklēšanu vai arī trešajai personai vai sabiedrībai svarīgas intereses, ar procesa virzītāja lēmumu to var atlikt līdz attiecīgā apdraudējuma novēršanai.

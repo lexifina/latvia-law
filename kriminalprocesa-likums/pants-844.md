@@ -1,0 +1,5 @@
+844.pants. Palīdzība starptautiskajai tiesai procesuālo darbību veikšanā
+(1) Kompetentā iestāde pēc starptautiskās tiesas lūguma organizē un sniedz tai izmeklēšanā un kriminālvajāšanā nepieciešamo palīdzību procesuālo darbību veikšanā. Lūgums var paredzēt arī sadarbību cietušo un liecinošo personu aizsardzības pasākumu izpildē un pasākumus konfiskācijas nolūkā, it īpaši cietušo personu interesēs.
+(2) Lūgumu izpilda šā likuma 813.-815., 817.-820., 824. un 825.pantā noteiktajā kārtībā.
+(3) Lūgumu var noraidīt, ja tas attiecas uz tādu dokumentu izdošanu vai pierādījumu atklāšanu, kuri skar valsts drošību, ja vien lūgumu nevar izpildīt ar īpašiem nosacījumiem vai vēlāk.
+(4) Starptautiskās tiesas pilnvarotām amatpersonām ir tiesības veikt nepieciešamās procesuālās darbības Latvijas teritorijā patstāvīgi vai sadarbībā ar kompetentu starptautisku organizāciju vai kompetento Latvijas iestādi. Ja procesuālās darbības nav saistītas ar kāda piespiedu līdzekļa piemērošanu, starptautiskās tiesas pilnvarota amatpersona pēc konsultācijām ar Latvijas kompetento iestādi tās var veikt bez kompetentās iestādes pārstāvja klātbūtnes.

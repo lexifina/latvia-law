@@ -1,0 +1,1 @@
+5. Attiecībā uz drošības līdzekļiem, kuri personām piemēroti pirms šā likuma spēkā stāšanās dienas, ir spēkā konkrētās krimināllietas procesuālajā lēmumā vai Latvijas Kriminālprocesa kodeksa attiecīgajā normā noteiktais termiņš.

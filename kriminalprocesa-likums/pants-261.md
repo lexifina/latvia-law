@@ -1,0 +1,5 @@
+261.pants. Nodošana policijas uzraudzībā
+(1) Nodošana policijas uzraudzībā ir aizdomās turētā vai apsūdzētā pārvietošanās un rīcības brīvības ierobežošana ar noteikumu, ka attiecīgā persona bez procesa virzītāja atļaujas nedrīkst mainīt pastāvīgo vai pagaidu dzīvesvietu, apmeklēt lēmumā minētās vietas vai iestādes, tikties ar lēmumā minētajām personām un ka tai noteiktās diennakts stundās ir jāatrodas savā dzīvesvietā, kā arī ne biežāk kā trīs reizes nedēļā jāpiesakās attiecīgajā policijas iestādē pēc savas dzīvesvietas. Ierobežojumi nosakāmi, ņemot vērā aizdomās turētā vai apsūdzētā darba vai mācību apstākļus.
+(2) Lēmumu par drošības līdzekļa piemērošanu nosūta izpildei policijas iestādei, kuras darbības teritorijā attiecīgā persona dzīvo.
+(3) Policijas iestādei uzraugāmais nekavējoties jāreģistrē un jāinformē procesa virzītājs par viņa ņemšanu uzraudzībā.
+(4) Lai pārbaudītu personas pārvietošanās un rīcības brīvības ierobežojumu ievērošanu, policijas darbiniekam ir tiesības ieiet tās pastāvīgajā vai pagaidu dzīvesvietā (dzīvoklī, mājā).

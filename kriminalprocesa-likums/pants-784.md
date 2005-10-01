@@ -1,0 +1,7 @@
+784.pants. Latvijā izpildāmā naudas soda noteikšana
+(1) Latvijā izpildāmo naudas sodu tiesa nosaka, ja ārvalstī piespriests naudas sods un arī Latvijas Krimināllikums par tādu pašu nodarījumu kā pamatsodu paredz naudas sodu vai bargāku sodu, vai arī naudas sods paredzēts kā papildsods.
+(2) Ārvalstī piespriestā naudas soda apmēru aprēķina pēc Latvijas Bankas noteiktā valūtas kursa, kāds bija spēkā notiesājošā sprieduma pasludināšanas dienā.
+(3) Latvijā izpildāmais naudas sods nedrīkst pārsniegt Latvijas Krimināllikumā paredzēto maksimālo naudas sodu robežu par šādu nodarījumu, izņemot gadījumu, kad Latvijā par šādu nodarījumu paredzēts tikai bargāks soda veids. Šādā gadījumā Latvijā izpildāmais naudas sods nedrīkst pārsniegt Krimināllikumā noteikto naudas soda maksimālo robežu lēmuma pieņemšanas brīdī.
+(4) Latvijā izpildāmā naudas soda samaksu tiesa var sadalīt termiņos vai atlikt uz laiku, kas nav ilgāks par vienu gadu no dienas, kad lēmums stājas spēkā.
+(5) Ārvalstī noteiktā samaksas sadalīšana termiņos vai atlikšana ir saistoša Latvijas tiesai, tomēr tiesa var papildus noteikt izpildes atvieglojumus, nepārsniedzot šā panta ceturtajā daļā noteiktās robežas.
+(6) Ja Latvijā izpildāmo naudas sodu nav iespējams piedzīt, to var aizstāt ar tādu soda veidu, kas saistīts ar brīvības atņemšanu, ja to pieļauj tās ārvalsts likumi, kura spriedumu taisījusi. Šādā gadījumā soda aizstāšana notiek Latvijas likumā paredzētajā kārtībā. Naudas soda aizstāšana nav pieļaujama, ja ārvalsts, iesniedzot soda izpildīšanas lūgumu, to īpaši atrunājusi.

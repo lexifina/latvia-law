@@ -1,0 +1,4 @@
+717.pants. Eiropas Savienības dalībvalstij izdodamās personas aizturēšana un apcietināšana
+(1) Personas aizturēšana izdošanas nolūkā notiek šā likuma 699.pantā noteiktajā kārtībā, ja par šo personu ir pieņemts Eiropas apcietinājuma lēmums vai starptautiskās meklēšanas sistēmā ievietots paziņojums par šāda lēmuma esamību.
+(2) Ja nav zināmi apstākļi, kas izslēdz personas izdošanas pieļaujamību, pārbaudes izdarītājs ierosinājumu par izdošanas apcietinājuma piemērošanu un Eiropas apcietinājuma lēmumu iesniedz rajona (pilsētas) tiesai, kuras darbības teritorijā persona aizturēta vai atrodas Ģenerālprokuratūra.
+(3) Izdošanas apcietinājumu piemēro šā likuma 701.pantā noteiktajā kārtībā uz 80 dienām no personas aizturēšanas dienas. Tiesa izņēmuma gadījumos šo termiņu var pagarināt vēl vienu reizi uz 30 dienām. Ģenerālprokuratūra informē Eiropas apcietinājuma lēmumu pieņēmušās valsts kompetento iestādi par lēmuma izpildes aizkavējuma iemeslu.
