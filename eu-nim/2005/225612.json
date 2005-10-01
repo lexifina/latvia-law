@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Kriminālprocesa likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "74 (3232)",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-11",
+  "entry_into_force": "2005-10-01",
+  "notification_date": "2015-04-15",
+  "commission_reference": "MNE(2015)52630",
+  "nim_celex": "72001F0500LVA_225612",
+  "nim_id": "225612",
+  "transposes_celex": [
+    "32001F0500"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9dff262b-3af0-4629-a27c-d6860fb441d5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
