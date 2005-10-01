@@ -1,0 +1,2 @@
+VIII¹ nodaļa
+Juridiskajām personām piemērojamie piespiedu ietekmēšanas līdzekļi
