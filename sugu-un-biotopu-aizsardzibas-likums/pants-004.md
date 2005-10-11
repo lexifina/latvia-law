@@ -5,4 +5,5 @@ Ministru kabinets nosaka:
 3) zaudējumu atlīdzību par īpaši aizsargājamo sugu indivīdu un biotopu iznīcināšanu vai bojāšanu;
 4) mikroliegumu izveidošanas kārtību un to aizsardzības un apsaimniekošanas noteikumus;
 5) šajā likumā noteikto atļauju izsniegšanas kārtību;
-6) kārtību, kādā zemes lietotājiem nosakāmi to zaudējumu apmēri, kas saistīti ar īpaši aizsargājamo nemedījamo sugu un migrējošo sugu dzīvnieku nodarītajiem būtiskiem postījumiem.
+6) kārtību, kādā zemes lietotājiem nosakāmi to zaudējumu apmēri, kas saistīti ar īpaši aizsargājamo nemedījamo sugu un migrējošo sugu dzīvnieku nodarītajiem būtiskiem postījumiem;
+7) Latvijā sastopamo Eiropas Savienības prioritāro sugu un biotopu sarakstu.
