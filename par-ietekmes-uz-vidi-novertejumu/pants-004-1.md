@@ -1,0 +1,3 @@
+4.¹ pants. Paredzētās darbības Eiropas nozīmes aizsargājamās dabas teritorijās (Natura 2000)
+(1) Ja paredzēta darbība, kuras īstenošana saskaņā ar šā likuma 6.pantā minētās kompetentās institūcijas lēmumu var būtiski ietekmēt Eiropas nozīmes aizsargājamo dabas teritoriju (Natura 2000), bet kura nav minēta šā likuma 1. un 2.pielikumā un kuras īstenošanai nav jāveic ietekmes novērtējums saskaņā ar šā likuma 14.pantu, tās ietekmi uz Eiropas nozīmes aizsargājamo dabas teritoriju (Natura 2000) novērtē saskaņā ar atsevišķi noteiktu kārtību.
+(2) Šā panta pirmajā daļā minēto atsevišķo kārtību, kādā novērtējama paredzētās darbības ietekme uz Eiropas nozīmes aizsargājamo dabas teritoriju (Natura 2000), nosaka Ministru kabinets.

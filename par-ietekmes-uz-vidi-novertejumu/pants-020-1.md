@@ -4,7 +4,7 @@
 (3) Paziņojumā tiek sniegta šāda informācija:
 1) paredzētās darbības iesniegums;
 2) jebkura pieejama informācija par paredzēto darbību, kurai var būt pārrobežu ietekme;
-3) informācija par valsts institūciju vai pašvaldību viedokli par paredzēto darbību;
+3) informācija par iespējamo lēmumu;
 4) termiņš un vieta, kur valsts var sniegt atbildi, norādot, vai tā ir paredzējusi piedalīties ietekmes novērtējumā.
 (4) Kompetentā institūcija, saņēmusi rakstveida pieprasījumu no jebkuras valsts, kuru paredzētā darbība var būtiski ietekmēt, nosūta tai šā panta trešajā daļā minēto paziņojumu, pirms ierosinātājs informē Latvijas sabiedrību par paredzēto darbību saskaņā ar šā likuma 15.panta pirmo daļu.
 (5) Ja valsts, kura ir saņēmusi šā panta trešajā daļā minēto paziņojumu, tajā norādītajā termiņā sniedz atbildi par to, ka tā nolēmusi piedalīties ietekmes novērtējumā, kompetentā institūcija nosūta tai programmu, darba ziņojumu un informāciju par ietekmes novērtējuma kārtību.

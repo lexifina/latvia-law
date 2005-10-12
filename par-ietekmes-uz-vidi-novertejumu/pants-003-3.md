@@ -6,4 +6,4 @@
 5) ogļu un brūnogļu briketēšanas iekārtu uzstādīšana;
 6) radioaktīvo atkritumu apstrādes un glabāšanas iekārtu uzstādīšana;
 7) hidroelektrostaciju būvniecība;
-8) vēja ģeneratoru kompleksu uzstādīšana un būvniecība.
+8) vēja ģeneratoru uzstādīšana un būvniecība, ja būves augstums pārsniedz 20 metrus.

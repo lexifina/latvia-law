@@ -2,7 +2,7 @@
 Paredzētās darbības ietekme uz vidi novērtējama pēc šādiem kritērijiem:
 1) paredzēto darbību raksturojošie faktori:
 a) apjoms,
-b) paredzētās darbības un citu pašreizējo vai kompetentā institūcijā pieteiktu plānoto darbību savstarpējā ietekme,
+b) paredzētās darbības un citu darbību savstarpējā un kopējā ietekme,
 c) dabas resursu izmantošana,
 d) atkritumu rašanās,
 e) piesārņojums un traucējumi,
@@ -15,7 +15,7 @@ d) teritorijas, kurās piesārņojuma līmenis ir augstāks, nekā paredz vides 
 e) iedzīvotāju blīvums attiecīgajā teritorijā,
 f) vēsturiski, arheoloģiski un kultūrvēsturiski nozīmīgas ainavas;
 2¹) paredzētās darbības ietekme uz:
-a) īpaši aizsargājamām dabas teritorijām, starptautiskas nozīmes mitrājiem, mikroliegumiem, Baltijas jūras un Rīgas jūras līča piekrastes aizsargjoslu, virszemes ūdensobjektu aizsargjoslām,
+a) īpaši aizsargājamām dabas teritorijām, starptautiskas nozīmes mitrājiem, mikroliegumiem, Baltijas jūras un Rīgas jūras līča piekrastes aizsargjoslu, aizsargjoslām ap pazemes ūdens ņemšanas vietām un virszemes ūdensobjektu aizsargjoslām,
 b) īpaši aizsargājamām sugām, to dzīvotnēm un īpaši aizsargājamiem biotopiem;
 3) paredzētās darbības iespējamā ietekme uz vidi, ko vērtē atbilstoši šā panta 1., 2. un 2.¹ punktā noteiktajiem kritērijiem un ņemot vērā paredzētās darbības:
 a) apjomu (ietekmei pakļautās teritorijas lielumu un cilvēku daudzumu tajā),

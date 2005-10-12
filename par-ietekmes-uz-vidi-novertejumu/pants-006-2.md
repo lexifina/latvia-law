@@ -1,1 +1,1 @@
-6. Uzņēmumi (uzņēmējsabiedrības), kas paredzēti melno un krāsaino metālu, izņemot dārgmetālus, pirmapstrādei un ieguvei no rūdas, koncentrāta vai metāllūžņiem, izmantojot metalurģiskos, ķīmiskos vai elektrolītiskos procesus.
+6. Integrētas čuguna vai tērauda ražotnes un iekārtas krāsaino metālu ražošanai no rūdas, koncentrātiem vai metāllūžņiem, izmantojot metalurģiskos, ķīmiskos vai elektrolītiskos procesus.

@@ -1,3 +1,3 @@
 3.¹ pants. Ietekmes novērtējuma procesa termiņi
-(1) Administratīvo procesu regulējošajos normatīvajos aktos noteiktie lēmuma pieņemšanas termiņi neattiecas uz lēmumu, kas pieņemts, pamatojoties uz paredzētās darbības ietekmes sākotnējā izvērtējuma rezultātu, kā arī neattiecas uz atzinumu par darba ziņojumu un atzinumu par noslēguma ziņojumu.
-(2) Katra šā panta pirmajā daļā minētā lēmuma, kā arī katra atzinuma pieņemšanas termiņš nedrīkst būt ilgāks par 60 dienām.
+(1) Ja lēmumu pieņem, pamatojoties uz paredzētās darbības ietekmes sākotnējā izvērtējuma rezultātu, atzinumu par ietekmes uz vidi novērtējuma darba ziņojumu un atzinumu par ietekmes uz vidi novērtējuma noslēguma ziņojumu, tā pieņemšanas termiņš nedrīkst pārsniegt 60 dienas.
+(2) Ja paredzētās darbības īstenošanai saskaņā ar likumu "Par īpaši aizsargājamām dabas teritorijām" nepieciešams saņemt Eiropas Komisijas atzinumu un lēmumu pieņem, pamatojoties uz atzinumu par noslēguma ziņojumu, tā pieņemšanas termiņš nedrīkst būt ilgāks par 60 dienām pēc Eiropas Komisijas atzinuma saņemšanas.
