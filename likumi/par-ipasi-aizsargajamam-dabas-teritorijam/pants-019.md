@@ -1,2 +1,3 @@
 19. pants. Aizsargājamo teritoriju iedalījums zonās
-Aizsargājamās teritorijas, kurām ir dažādi mērķi, var iedalīt funkcionālās zonās. Tām ir atšķirīgi aizsardzības un izmantošanas noteikumi.
+(1) Aizsargājamās teritorijas var iedalīt funkcionālajās zonās. Funkcionālajām zonām ir atšķirīgi aizsardzības un izmantošanas noteikumi.
+(2) Aizsargājamās teritorijas var iedalīt šādās funkcionālajās zonās: stingrā režīma, regulējamā režīma, dabas lieguma, dabas parka, ainavu aizsardzības un neitrālā zona. Nacionālajos parkos var izveidot arī kultūrvēsturisko zonu. Aizsargājamās teritorijās var noteikt sezonas liegumus.

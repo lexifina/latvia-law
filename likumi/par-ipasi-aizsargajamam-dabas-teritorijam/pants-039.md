@@ -1,3 +1,3 @@
 39. pants. Atbildība par aizsargājamās teritorijas aizsardzības un izmantošanas noteikumu pārkāpšanu
-Fiziskās un juridiskās personas, kas pārkāpušas aizsargājamās teritorijas aizsardzības un izmantošanas noteikumus, saucamas pie administratīvās atbildības, kriminālatbildības, disciplinārās vai citas atbildības saskaņā ar Latvijas Republikas likumiem.
-Fizisko un juridisko personu saukšana pie administratīvās atbildības, kriminālatbildības vai disciplinārās atbildības neatbrīvo tās no pienākuma veikt atjaunošanas darbus vai, ja atjaunošana nav iespējama, atlīdzināt nodarītos zaudējumus.
+(1) Personas, kas pārkāpušas aizsargājamās teritorijas aizsardzības un izmantošanas noteikumus, saucamas pie administratīvās atbildības, kriminālatbildības vai citas atbildības saskaņā ar Latvijas Republikas likumiem.
+(2) Personu saukšana pie administratīvās atbildības vai kriminālatbildības neatbrīvo tās no vides aizsardzības normatīvajos aktos noteiktajiem pienākumiem, ja videi nodarīts kaitējums.

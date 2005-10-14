@@ -1,2 +1,2 @@
 32.¹ pants. Aizsargājamo teritoriju monitorings
-Latvijas Vides aģentūra organizē un koordinē aizsargājamo teritoriju monitoringu.
+Latvijas Vides, ģeoloģijas un meteoroloģijas aģentūra organizē un koordinē aizsargājamo teritoriju monitoringu.

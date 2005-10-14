@@ -1,5 +1,4 @@
-11. pants. Priekšlikumu iesniegšana un to izskatīšanas kārtība
-Priekšlikumu par aizsargājamās teritorijas izveidošanu var izteikt fiziska vai juridiska persona rakstveidā, pievienojot pamatojumu un shēmu noteiktā mērogā.
-Priekšlikumus par aizsargājamās teritorijas izveidošanu iesniedz reģionālajai vides pārvaldei. Atbilde par priekšlikuma turpmāko izskatīšanu vai tā izskatīšanas izbeigšanu jāsniedz mēneša laikā no priekšlikuma saņemšanas dienas.
-Galīgo atzinumu par aizsargājamās teritorijas izveidošanu, pamatojoties uz ekspertu atzinumu, dod Vides ministrija. Eksperts ir atbildīgs par atzinuma pamatotību, objektivitāti un pilnīgumu.
-Reģionālā vides pārvalde informē pašvaldības, zemes īpašniekus un lietotājus par saņemto priekšlikumu un galīgo atzinumu izveidot aizsargājamo teritoriju.
+11. pants. Priekšlikumu iesniegšana
+Priekšlikumu par aizsargājamās teritorijas izveidošanu var izteikt fiziska vai juridiska persona rakstveidā, pievienojot pamatojumu un shēmu noteiktā mērogā. Priekšlikumu par aizsargājamās teritorijas izveidošanu fiziskās vai juridiskās personas iesniedz Valsts vides dienestam.
+Mēneša laikā pēc šā panta pirmajā daļā minētā priekšlikuma saņemšanas Valsts vides dienests par to rakstveidā informē attiecīgo pašvaldību un zemes īpašnieku.
+(Trešā un ceturtā daļa izslēgta ar 15.09.2005. likumu.)

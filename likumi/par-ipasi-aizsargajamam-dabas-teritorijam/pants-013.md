@@ -1,4 +1,6 @@
 13. pants. Izveidošanas kārtība
 Dabas rezervātus, nacionālos parkus un biosfēras rezervātus izveido Saeima ar attiecīgu likumu.
-Aizsargājamo ainavu apvidus, dabas liegumus, dabas parkus un dabas pieminekļus izveido Ministru kabinets.
+Aizsargājamo ainavu apvidus, dabas liegumus, dabas parkus, aizsargājamās jūras teritorijas un dabas pieminekļus izveido Ministru kabinets.
 Dabas liegumus, dabas parkus un dabas pieminekļus, kuri ir nozīmīgi dabas saglabāšanai attiecīgajā teritorijā, var izveidot arī pašvaldības.
+Aizsargājamās teritorijas robežas, zonējumu un kategoriju var mainīt, ja zinātniskie pētījumi, monitoringa dati vai aizsargājamās teritorijas apsaimniekošanas pasākumu monitorings apliecina, ka esošā kategorija, zonējums un attiecīgais aizsardzības režīms neatbilst teritorijas izveidošanas mērķiem. Valsts vides dienests mēneša laikā rakstveidā informē attiecīgās pašvaldības un zemes īpašniekus par plānotajām aizsargājamās teritorijas robežu, zonējuma, kategorijas vai aizsardzības režīma izmaiņām.
+Reģionālā vides pārvalde mēneša laikā pēc tam, kad stājies spēkā likums vai Ministru kabineta noteikumi par aizsargājamās teritorijas izveidošanu vai zonējuma noteikšanu, vai robežu izmaiņām, rakstveidā informē zemes īpašnieku par īpašuma tiesību aprobežojumiem. Pašvaldība pēc tam, kad tā ir pieņēmusi saistošos noteikumus par aizsargājamās teritorijas izveidošanu, informē zemes īpašnieku par īpašuma tiesību aprobežojumiem.
