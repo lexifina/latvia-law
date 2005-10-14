@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par papildu uzraudzībai pakļautās apdrošināšanas sabiedrības koriģētās maksātspējas normas un koriģēto pašu līdzekļu aprēķināšanas kārtību un par informācijas sniegšanu par papildu uzraudzībai pakļautās apdrošināšanas sabiedrības grupas savstarpējiem darījumiem",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "163",
+  "official_journal_page": null,
+  "official_journal_date": "2005-10-13",
+  "entry_into_force": "2005-10-14",
+  "notification_date": "2005-11-04",
+  "commission_reference": "MNE(2005)55537",
+  "nim_celex": "71998L0078LVA_125537",
+  "nim_id": "125537",
+  "transposes_celex": [
+    "31998L0078"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1f0b1ee8-0b18-4f1d-8222-fbba88d2ca08",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
