@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2004.gada 27.oktobra direktīvas 2004/101/EK, ar ko groza direktīvu 2003/87/EK, ar kuru izveido siltumnīcefekta gāzu emisijas kvotu tirdzniecības sistēmu Kopienā, ņemot vērā Kioto protokola projekta mehānismus.
