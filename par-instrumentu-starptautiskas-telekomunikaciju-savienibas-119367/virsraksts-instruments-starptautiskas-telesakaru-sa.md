@@ -1,0 +1,1 @@
+Instruments Starptautiskās telesakaru savienības konstitūcijas (Ženēva, 1992.gads) grozīšanai ar Pilnvaroto pārstāvju 1994.gada Kioto konferencē un Pilnvaroto pārstāvju 1998.gada Mineapoles konferencē veiktiem grozījumiem

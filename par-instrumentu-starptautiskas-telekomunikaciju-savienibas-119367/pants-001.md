@@ -1,0 +1,1 @@
+1.pants. 2002.gada 18.oktobrī Marakešā parakstītais Instruments Starptautiskās telekomunikāciju savienības konstitūcijas grozīšanai (turpmāk - Konstitūcijas grozījumi) un 2002.gada 18.oktobrī Marakešā parakstītais Instruments Starptautiskās telekomunikāciju savienības konvencijas grozīšanai (turpmāk - Konvencijas grozījumi) ar šo likumu tiek pieņemts un apstiprināts.

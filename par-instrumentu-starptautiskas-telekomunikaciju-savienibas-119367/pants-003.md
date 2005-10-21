@@ -1,0 +1,1 @@
+3.pants. Konstitūcijas grozījumi un Konvencijas grozījumi stājas spēkā Starptautiskās telekomunikāciju savienības konstitūcijas 52.pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo laikrakstā "Latvijas Vēstnesis".
