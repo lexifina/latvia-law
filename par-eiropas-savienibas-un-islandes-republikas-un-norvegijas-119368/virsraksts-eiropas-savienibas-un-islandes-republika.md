@@ -1,0 +1,1 @@
+Eiropas Savienības un Islandes Republikas, un Norvēģijas Karalistes līgums par to, kā piemērot dažus 2000. gada 29. maija Konvencijas par Eiropas Savienības dalībvalstu savstarpēju palīdzību krimināllietās un tās 2001. gada protokola noteikumus
