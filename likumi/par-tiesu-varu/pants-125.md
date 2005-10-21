@@ -5,3 +5,4 @@
 (4) Tiesnesim bērna piedzimšanas gadījumā izmaksā pabalstu triju mēneša amatalgu apmērā. Ja abi bērna vecāki ir tiesneši, tiesības uz pabalstu ir vienam no viņiem.
 (5) Ja tiesnesi atbrīvo no amata tiesnešu skaita samazināšanas dēļ, viņam izmaksā pabalstu triju mēneša amatalgu apmērā.
 (6) Valsts obligāti apdrošina tiesneša dzīvību un veselību līdz 15 mēneša amatalgu apmēram.
+(7) Ja tiesnesi pārceļ darbā uz citu administratīvo teritoriju, tiesnesim un viņa ģimenes locekļiem (apgādājamiem), pamatojoties uz izdevumus attaisnojošiem dokumentiem, kompensē pārcelšanās izdevumus, kas ietver ceļa izdevumus un izdevumus par tiesneša un viņa ģimenes locekļu (apgādājamo) īpašumā esošās iedzīves pārvešanu.

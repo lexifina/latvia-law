@@ -1,6 +1,6 @@
 107.pants. Tieslietu ministrijas kompetence
 (1) Tieslietu ministrija ir vadošā valsts pārvaldes iestāde tiesu administrēšanā, un tā veic šajā likumā noteiktās funkcijas.
 (2) Tieslietu ministrija:
-1) apstiprina rajonu (pilsētu) tiesu, apgabaltiesu un zemesgrāmatu nodaļu darba organizācijas noteikumus;
-2) izvirza kandidātus rajonu (pilsētu) tiesu, apgabaltiesu un zemesgrāmatu nodaļu tiesnešu amatam;
-3) nodrošina rajonu (pilsētu) tiesu, apgabaltiesu un zemesgrāmatu nodaļu organizatorisko vadību.
+1) apstiprina metodiskos norādījumus par rajonu (pilsētu) tiesu, apgabaltiesu un zemesgrāmatu nodaļu administratīvā darba organizēšanu;
+2) pieprasa no rajonu (pilsētu) tiesām, apgabaltiesām un zemesgrāmatu nodaļām ziņas, kas tai nepieciešamas normatīvajos aktos noteikto funkciju veikšanai;
+3) uzrauga rajonu (pilsētu) tiesu, apgabaltiesu un zemesgrāmatu nodaļu organizatorisko vadību.

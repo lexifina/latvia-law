@@ -1,4 +1,4 @@
 64. pants. Tiesas piesēdētāju ievēlēšanas kārtība
-(1) Tiesas piesēdētāju skaitu nosaka tieslietu ministrs. Apgabaltiesu piesēdētāju skaitu no katra rajona (pilsētas) nosaka tieslietu ministrs proporcionāli rajona iedzīvotāju skaitam.
-(2) Rajonu (pilsētu) tiesu un apgabaltiesu piesēdētājus ievēlē likumā noteiktajā kārtībā uz pieciem gadiem rajonu (pilsētu) pašvaldības.
+(1) Rajona (pilsētas) tiesas un apgabaltiesas tiesas piesēdētāju skaitu nosaka Ministru kabinets.
+(2) Rajona (pilsētas) tiesas un apgabaltiesas tiesas piesēdētājus ievēlē pašvaldības uz pieciem gadiem.
 (3) Ja tiesas piesēdētāju pilnvaras izbeidzas lietas iztiesāšanas laikā, tās tiek saglabātas līdz šīs lietas iztiesāšanas beigām.

@@ -1,12 +1,11 @@
 33. pants. Rajona (pilsētas) tiesas priekšsēdētājs
-(1) Rajona (pilsētas) tiesas priekšsēdētāju un viņa vietnieku no šīs tiesas tiesnešu vidus uz pieciem gadiem ieceļ tieslietu ministrs, pamatojoties uz tiesnešu kvalifikācijas kolēģijas atzinumu. Rajona (pilsētas) tiesas priekšsēdētāju un viņa vietnieku atbrīvo no amata pēc paša lūguma tieslietu ministrs. Rajona (pilsētas) tiesas priekšsēdētāju un viņa vietnieku atceļ no amata tieslietu ministrs, pamatojoties uz tiesnešu disciplinārkolēģijas atzinumu.
-(2) Rajona (pilsētas) tiesas priekšsēdētājs:
-1) vada un kontrolē tiesas darbu;
-2) norīko tiesnešus par tiesas sēžu priekšsēdētājiem pēc vispārīgiem, abstraktiem un lietišķi objektīviem principiem atbilstoši lietu sadales plānam, kā arī sadala citus pienākumus starp tiesnešiem;
-3) organizē juridiskās mācības piesēdētājiem;
-4) organizē tiesas darbu apmeklētāju pieņemšanā un iesniegumu izskatīšanā;
-5) vada tiesu prakses pētīšanas un vispārināšanas, kā ari tiesu statistikas kārtošanas darbu;
-6) organizē tiesas darbinieku kvalifikācijas celšanu;
-7) realizē citas likumdošanas aktos noteiktās pilnvaras;
-8) organizē darbu, kas saistīts ar tiesas nolēmumu nodošanu izpildei.
-(3) Tiesas priekšsēdētājs personiski piedalās lietu izskatīšanā tiesas sēdēs.
+(1) Rajona (pilsētas) tiesas iestādes darbu līdztekus tiesneša pienākumu pildīšanai vada tiesas priekšsēdētājs.
+(2) Rajona (pilsētas) tiesas priekšsēdētāju pēc Tiesu administrācijas priekšlikuma uz pieciem gadiem ieceļ amatā tieslietu ministrs, ievērojot dzimumu vienlīdzīgas pārstāvības principu. Tieslietu ministrs var tiesas priekšsēdētāju atbrīvot no amata pirms termiņa pēc viņa paša vēlēšanās vai pamatojoties uz Tiesnešu disciplinārkolēģijas atzinumu.
+(3) Rajona (pilsētas) tiesas priekšsēdētājs:
+1) rīkojas ar tiesas iestādei nodotajiem finanšu un citiem resursiem;
+2) nosaka tiesas darbinieku un tiesas priekšsēdētāja vietnieka amata pienākumus;
+3) nosaka tiesnešu pienākumus, kas saistīti ar tiesas iestādes efektīvu funkcionēšanu (piemēram, sadarbība ar ārvalstu tiesām un citām institūcijām, prakses apkopošana, atzinumu sniegšana, piedalīšanās normatīvo aktu projektu izstrādē, atzinumu sniegšana Tiesnešu kvalifikācijas kolēģijai);
+4) atbild par lietu un citu pienākumu sadali starp tiesnešiem;
+5) sagatavo ikgadējā tiesas iestādes finanšu pieprasījuma projektu un iesniedz to Tiesu administrācijai;
+6) atbild par resursu tiesisku un lietderīgu izmantošanu.
+(4) Rajona (pilsētas) tiesas priekšsēdētājs var dot tiesnesim rīkojumus, kas saistīti ar organizatoriskiem jautājumiem amata pienākumu pildīšanā.

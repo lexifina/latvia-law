@@ -1,1 +1,1 @@
-11. Līdz 2006.gada 1.februārim uz Augstākās tiesas un apgabaltiesu tiesnešiem neattiecas šā likuma 98.panta piektās un sestās daļas prasības.
+11. Augstākās tiesas un apgabaltiesas tiesnešiem, kas apstiprināti amatā līdz 2006.gada 1.februārim, piešķir šā likuma 98.panta piektajā un sestajā daļā minētās zemākās kvalifikācijas klases, ja viņiem nav šā likuma 98.panta piektajā un sestajā daļā noteiktās kvalifikācijas klases.

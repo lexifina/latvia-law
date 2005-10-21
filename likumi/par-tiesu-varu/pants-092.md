@@ -6,4 +6,4 @@
 3) apspriež materiālās un sociālās nodrošināšanas un citus būtiskus tiesnešu darba jautājumus;
 4) aizklāti balsojot, ievēlē tiesnešu kvalifikācijas kolēģiju un tās priekšsēdētāju uz četriem gadiem;
 5) ievēlē tiesnešu disciplinārkolēģiju uz četriem gadiem.
-(3) Nekustamo īpašumu reģistrēšanas un ar tiem saistīto tiesību nostiprināšanas prakses aktuālu jautājumu izskatīšanai var sasaukt zemesgrāmatu nodaļu tiesnešu konferenci.
+(3) Nekustamo īpašumu ierakstīšanas un ar tiem saistīto tiesību nostiprināšanas prakses aktuālu jautājumu izskatīšanai var sasaukt zemesgrāmatu nodaļu tiesnešu konferenci.

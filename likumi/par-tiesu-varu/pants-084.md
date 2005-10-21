@@ -1,3 +1,4 @@
 84. pants. Tiesneša atstādināšana no amata
 (1) Ja par rajona (pilsētas) tiesas vai apgabaltiesas tiesnesi ierosināta disciplinārlieta, tieslietu ministrs pēc tiesnešu disciplinārkolēģijas priekšlikuma var atstādināt šādu tiesnesi no amata līdz nolēmuma pieņemšanai disciplinārlietā. Ja rajona (pilsētas) tiesas vai apgabaltiesas tiesnesi likumā noteiktajā kārtībā sauc pie kriminālatbildības, tieslietu ministrs atstādina šādu tiesnesi no amata līdz nolēmuma pieņemšanai krimināllietā.
 (2) Ja par Augstākās tiesas tiesnesi ierosināta disciplinārlieta, Augstākās tiesas priekšsēdētājs pēc tiesnešu disciplinārkolēģijas priekšlikuma var atstādināt šādu tiesnesi no amata līdz nolēmuma pieņemšanai disciplinārlietā. Ja Augstākās tiesas tiesnesi likumā noteiktajā kārtībā sauc pie kriminālatbildības, Augstākās tiesas priekšsēdētājs atstādina šādu tiesnesi no amata līdz nolēmuma pieņemšanai krimināllietā.
+(3) Atstādinātajam tiesnesim saglabā minimālo mēneša amatalgu.

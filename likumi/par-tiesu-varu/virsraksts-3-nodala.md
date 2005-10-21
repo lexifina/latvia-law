@@ -1,0 +1,2 @@
+3.¹ nodaļa
+INFORMĀCIJAS PIEEJAMĪBA

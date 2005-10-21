@@ -1,4 +1,4 @@
-29.pants. Rajona (pilsētas) tiesas izveidošana
+29. pants. Rajona (pilsētas) tiesas izveidošana
 (1) Latvijas Republikā tiek izveidotas šādas rajona (pilsētas) tiesas:
 1) Kurzemes apgabaltiesas darbības teritorijā:
 a) Kuldīgas rajona tiesa,
@@ -41,4 +41,4 @@ e) Jēkabpils rajona tiesa,
 f) Tukuma rajona tiesa;
 6) Administratīvās apgabaltiesas darbības teritorijā:
 administratīvā rajona tiesa.
-(2) Administratīvās apgabaltiesas, administratīvās rajona tiesas, Rīgas pilsētas, Rīgas rajona un Siguldas tiesu rajonu teritorijas nosaka tieslietu ministrs.
+(2) Administratīvās apgabaltiesas, administratīvās rajona tiesas, Rīgas pilsētas, Rīgas rajona un Siguldas tiesu rajonu teritorijas nosaka Ministru kabinets.
