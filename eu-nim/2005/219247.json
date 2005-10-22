@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta noteikumi Nr. 772 \"Noteikumi par biodegvielas kvalitātes prasībām, tirgus uzraudzību un patērētāju informēšanas kārtību\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "168 (3326)",
+  "official_journal_page": null,
+  "official_journal_date": "2005-10-21",
+  "entry_into_force": "2005-10-22",
+  "notification_date": "2014-08-27",
+  "commission_reference": "MNE(2014)54973",
+  "nim_celex": "72009L0030LVA_219247",
+  "nim_id": "219247",
+  "transposes_celex": [
+    "32009L0030"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9a5e2861-3e5e-409f-b219-95ab17c41d35",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
