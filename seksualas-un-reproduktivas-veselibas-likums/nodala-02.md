@@ -1,2 +1,2 @@
 II nodaļa
-Dzemdībpalīdzības organizēšana
+Dzemdību palīdzības organizēšana
