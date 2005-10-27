@@ -7,6 +7,7 @@
 5) personas operatīvā aplūkošana;
 6) operatīvā iekļūšana;
 7) operatīvais eksperiments;
+7¹) kontrolētā piegāde;
 8) operatīvā detektīvdarbība;
 9) operatīvā korespondences kontrole;
 10) operatīvā informācijas iegūšana no tehniskajiem līdzekļiem;
