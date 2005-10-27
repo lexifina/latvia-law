@@ -1,7 +1,7 @@
 34.pants. Pārvadātāja licence
 (1) Speciālu atļauju dzelzceļa pārvadājumu veikšanai (turpmāk -pārvadātāja licence) tiesīgas saņemt komercsabiedrības, kuras var nodrošināt dzelzceļa pārvadājumu veikšanai nepieciešamos pamatnosacījumus, kā arī attiecīgo dzelzceļa speciālistu līdzdalību.
 (2) Pārvadātāja licence apliecina pārvadātāja tiesības nodarboties ar tajā norādīto komercdarbības veidu. Pārvadātāja licence, kas izsniegta dzelzceļa pārvadājumu veikšanai, nedod tiesības piekļūt dzelzceļa infrastruktūrai.
-(3) Pārvadātāja licence, nediskriminējot un ievērojot vienlīdzības principu, piešķirama komercsabiedrībai, kura iesniegusi pieteikumu pārvadātāja licences saņemšanai (turpmāk - pretendents) un kurai ir nevainojama reputācija un stabils finansiālais stāvoklis, šajā nolūkā pārbaudot tās:
+(3) Pārvadātāja licence, nediskriminējot un ievērojot vienlīdzības principu, piešķirama komercsabiedrībai, kura iesniegusi iesniegumu pārvadātāja licences saņemšanai (turpmāk - pretendents) un kurai ir nevainojama reputācija un stabils finansiālais stāvoklis, šajā nolūkā pārbaudot tās:
 1) finanšu resursu pietiekamību;
 2) darbības un vadības plānus;
 3) līdzšinējo darbību, profesionālo atbilstību un pieredzi.

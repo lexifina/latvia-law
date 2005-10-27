@@ -12,7 +12,7 @@
 10) izstrādā dzelzceļa vides aizsardzības politiku, ko apstiprina satiksmes ministrs, izstrādā un apstiprina rīcības programmu un uztur vides aizsardzības paškontroles sistēmu;
 11) izvērtē apdraudējumu, ko dzelzceļa infrastruktūra rada cilvēku veselībai un videi, un veic nepieciešamos šā apdraudējuma samazināšanas pasākumus;
 12) veic infrastruktūras reģistrāciju;
-13) veic ritošā sastāva reģistrāciju satiksmes ministra noteiktajā kārtībā;
+13) veic ritošā sastāva reģistrāciju Ministru kabineta noteiktajā kārtībā;
 14) izsniedz pārvadātāja licences dzelzceļa kravu pārvadājumu veikšanai;
 15) sniedz atzinumu par atsevišķu publiskās lietošanas sliežu ceļa posmu vai sliežu ceļa slēgšanu saskaņā ar šā likuma 14.panta ceturto daļu.
 (2) Valsts dzelzceļa administrācija, pildot ar šo likumu un citiem likumiem noteiktās funkcijas, ievēro valsts politiku dzelzceļa transporta nozarē un transporta attīstības nacionālo programmu.

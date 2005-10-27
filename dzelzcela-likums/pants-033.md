@@ -3,7 +3,7 @@
 (2) Valsts dzelzceļa tehniskā inspekcija atrodas Satiksmes ministrijas padotībā, kura tiek īstenota pārraudzības formā.
 (3) Valsts dzelzceļa tehniskās inspekcijas galvenās funkcijas ir:
 1) kontrolēt dzelzceļa ekspluatācijas un tās drošības jautājumos pieņemtajos likumos un citos normatīvajos aktos noteikto prasību izpildi;
-2) kontrolēt dzelzceļa civilās aizsardzības sistēmas, ārkārtējo (avārijas) situāciju novēršanas un avāriju seku likvidēšanas sistēmas gatavību un darbību;
+2) kontrolēt civilās aizsardzības pasākumu (to skaitā preventīvo, reaģēšanas un seku likvidēšanas pasākumu) veikšanu dzelzceļa ekspluatācijā;
 3) izmeklēt vilcienu un manevru darba avārijas un pārkāpumu gadījumus un piedalīties uz dzelzceļa notikušo nelaimes gadījumu izmeklēšanā;
 4) kontrolēt ritošā sastāva avāriju seku novēršanas darbu organizēšanu un veikšanu;
 5) kontrolēt jaunu vai rekonstruētu dzelzceļa infrastruktūras objektu nodošanu ekspluatācijā un pārbaudīt to atbilstību Dzelzceļa tehniskās ekspluatācijas noteikumu un darba aizsardzības noteikumu prasībām;

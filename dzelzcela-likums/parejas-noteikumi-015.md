@@ -1,0 +1,1 @@
+15. Ministru kabinets līdz 2006.gada 1.janvārim izdod šā likuma 27.panta divpadsmitajā daļā, 28.pantā, 31.panta pirmās daļas 13.punktā, 36.¹panta trešajā un ceturtajā daļā un 37.panta otrajā daļā paredzētos noteikumus.
