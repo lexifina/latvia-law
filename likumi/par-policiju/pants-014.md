@@ -5,7 +5,7 @@ Policijas darbinieks ir tiesīgs pielietot šaujamieroci galējas nepieciešamī
 1) aizsargātu citas personas un sevi no uzbrukuma, kas reāli apdraud dzīvību vai var nodarīt kaitējumu veselībai, novērstu mēģinājumu vardarbīgi iegūt šaujamieroci;
 2) atbrīvotu ķīlniekus;
 3) atvairītu grupveida vai bruņotu uzbrukumu policijas darbiniekiem vai citām personām, kuras pilda dienesta pienākumus sabiedrības drošības garantēšanā un cīņā pret noziedzību;
-4) atvairītu grupveida vai bruņotu uzbrukumu apsargājamiem objektiem, telpām, celtnēm, iestādēm, uzņēmumiem un organizācijām;
+4) atvairītu grupveida vai bruņotu uzbrukumu apsargājamiem objektiem, telpām, celtnēm, iestādēm, privāto tiesību juridiskajām personām un personu apvienībām;
 5) aizturētu personu, kura izrāda bruņotu pretošanos vai kura pārsteigta smaga vai sevišķi smaga nozieguma izdarīšanas brīdī, vai izbēgusi no apcietinājuma, kā arī lai aizturētu apbruņotu personu, kura atsakās izpildīt likumīgu prasību nodot ieroci vai sprāgstvielas;
 6) apturētu transportlīdzekli, nodarot tam bojājumus, ja tā vadītājs ar savu rīcību rada reālus draudus personu dzīvībai un veselībai un nepakļaujas policijas darbinieka prasībai apstādināt transportlīdzekli un ja nav citas iespējas viņu aizturēt;
 7) padarītu nekaitīgu dzīvnieku, kurš apdraud cilvēka dzīvību vai veselību.

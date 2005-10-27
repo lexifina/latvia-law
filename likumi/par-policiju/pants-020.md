@@ -15,8 +15,8 @@ Valsts policijas centrālais aparāts:
 Kārtības policijas un kriminālpolicijas pārvaldes un nodaļas:
 1) vada policijas darbu attiecīgajā republikas pilsētā, rajonā, dzelzceļa, gaisa un ūdens transporta darbības zonā; koordinē policijas dienestu un iecirkņu darbību noziedzīgu nodarījumu novēršanā un atklāšanā, kā arī sabiedrības drošības garantēšanā;
 2) vada noziedzīgu nodarījumu atklāšanu un novēršanu, noziedznieku un bez vēsts pazudušo personu meklēšanu;
-3) savas darbības zonā koordinē kārtības policijas, kriminālpolicijas un pašvaldības policijas darbu, kā arī policijas sadarbību ar pašvaldībām, uzņēmumiem, iestādēm, organizācijām un iedzīvotājiem;
+3) savas darbības zonā koordinē kārtības policijas, kriminālpolicijas un pašvaldības policijas darbu, kā arī policijas sadarbību ar pašvaldībām, iestādēm, privātpersonām un personu apvienībām;
 4) izraugās kandidātus mācībām Latvijas Republikas iekšlietu ministrijas mācību iestādēs.
 Policijas iecirknis ir Latvijas Republikas Valsts policijas sistēmas pamatvienība, kuras darbinieki izpilda visus šā likuma 9., 10. un 11. pantā minētos pienākumus, izņemot tos, kas tieši ietilpst Valsts policijas centrālā aparāta, pārvalžu un nodaļu kompetencē.
-Instrukcijas par policijas pilnvaru nošķiršanu Valsts policijas ietvaros izdod Valsts policijas priekšnieks.
+(Ceturtā daļa izslēgta ar 13.10.2005. likumu.)
 Aizturēto, apcietināto un arestēto personu īslaicīgai turēšanai un administratīvā aresta izpildei Valsts policijā un Drošības policijā izveido īslaicīgās aizturēšanas vietas.
