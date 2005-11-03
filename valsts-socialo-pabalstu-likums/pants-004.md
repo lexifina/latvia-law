@@ -5,4 +5,4 @@
 (4) Tiesības uz pabalstu aizbildnim par bērna uzturēšanu un atlīdzību par aizbildņa pienākumu pildīšanu ir visām šā panta pirmajā daļā minētajām personām, ja to aizbildnībā esošajiem bērniem piešķirts personas kods, izņemot personas, kuru aizbildnībā ir bērni, kas Latvijā saņēmuši termiņuzturēšanās atļauju.
 (5) Tiesības uz valsts sociālā nodrošinājuma pabalstu ir:
 1) invaliditātes vai vecuma gadījumā - tām šā panta pirmajā daļā minētajām personām, kuras Latvijas Republikā nodzīvojušas kopumā ne mazāk kā 60 mēnešus, no tiem pēdējos 12 mēnešus nepārtraukti;
-2) apgādnieka zaudējuma gadījumā - visām šā panta pirmajā daļā minētajām personām, kuras zaudējušas apgādnieku, ja bijušais apgādnieks atbilst šā panta pirmās daļas noteikumiem un Latvijas Republikā nodzīvojis kopumā ne mazāk kā 60 mēnešus, no tiem pēdējos 12 mēnešus nepārtraukti.
+2) apgādnieka zaudējuma gadījumā - visām šā panta pirmajā daļā minētajām personām, kuras zaudējušas apgādnieku.
