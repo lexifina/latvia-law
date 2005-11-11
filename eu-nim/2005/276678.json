@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2005. gada 8. novembra noteikumi Nr. 847 \"Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "180 (3338)",
+  "official_journal_page": null,
+  "official_journal_date": "2005-11-10",
+  "entry_into_force": "2005-11-11",
+  "notification_date": "2019-08-20",
+  "commission_reference": "MNE(2019)55073",
+  "nim_celex": "72019L0369LVA_276678",
+  "nim_id": "276678",
+  "transposes_celex": [
+    "32019L0369"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/32a5f03a-45f9-4795-bf1d-c144c6d0bf2e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
