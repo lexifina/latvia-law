@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Padomes Lēmums 2013/129/ES_Ministru kabineta 2005.gada 8.novembra noteikumi Nr.847 „Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "180 (3338)",
+  "official_journal_page": null,
+  "official_journal_date": "2005-11-10",
+  "entry_into_force": "2005-11-11",
+  "notification_date": "2015-05-14",
+  "commission_reference": "MNE(2015)53489",
+  "nim_celex": "72005D0387LVA_226497",
+  "nim_id": "226497",
+  "transposes_celex": [
+    "32005D0387"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ba17c514-6321-11e7-b2f2-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
