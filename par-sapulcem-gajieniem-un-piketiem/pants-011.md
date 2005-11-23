@@ -1,8 +1,8 @@
 11.pants. Sapulces, gājiena un piketa dalībniekam šo pasākumu laikā ir aizliegts:
-1) turēt pie sevis ieročus vai citus priekšmetus, kas pēc sava rakstura ir paredzēti vai var tikt piemēroti miesas bojājumu nodarīšanai cilvēkiem vai mantas bojāšanai;
+1) turēt pie sevis vielas, ieročus vai citus priekšmetus, kas pēc sava rakstura ir paredzēti vai var tikt piemēroti miesas bojājumu nodarīšanai cilvēkiem vai mantas bojāšanai;
 2) būt apgādātam ar pasīvās aizsardzības līdzekļiem (ķiveri, kasku, bruņuvesti u.tml.);
 3) slēpt savu seju zem maskas;
-4) tērpties formas tērpā vai tam līdzīgā tērpā, lai paustu noteiktus politiskos uzskatus;
+4) (izslēgts ar 03.11.2005. likumu);
 5) izmantot bijušās PSRS, Latvijas PSR un nacistiskās Vācijas karogus, ģerboņus, himnas un simboliku (arī stilizētā veidā);
 6) veikt darbības, kas ir pretrunā ar tikumību;
 7) rīkoties tādā veidā, kas rada draudus sapulces, gājiena vai piketa dalībnieku vai citu personu drošībai un veselībai.

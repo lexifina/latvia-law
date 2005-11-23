@@ -10,8 +10,8 @@
 9) pasākuma vadītāja palīgi, kā arī kārtības uzturētāji.
 (2) Iesniedzot pieteikumu, fiziskā persona uzrāda savu pasi, bet juridiskās personas pārstāvis uzrāda savu pasi un iesniedz juridiskās personas pilnvaru iesniegt pieteikumu.
 (3) Visām pieteikumā minētajām personām jānorāda vārds, uzvārds, personas kods un dzīvesvieta, bet juridiskajām personām - pilns nosaukums, juridiskā adrese un reģistrācijas numurs.
-(4) Par pasākuma vadītāju, viņa palīgiem un kārtības uzturētājiem var būt tikai pilngadīgas un rīcībspējīgas personas - Latvijas pilsoņi vai personas, kurām ir tiesības uz Latvijas Republikas izdotu nepilsoņa pasi, kā arī personas, kurām ir izsniegta pastāvīgās uzturēšanās atļauja.
-(5) Ja plānotais pasākuma dalībnieku skaits pārsniedz simtu, pasākuma vadītājam ir nepieciešami vismaz divi palīgi.
-(6) Kārtības uzturētāju skaitu nosaka organizators ar tādu aprēķinu, lai viņi spētu nodrošināt pasākuma mierīgu un organizētu norisi. Jebkurā gadījumā jābūt ne mazāk par diviem kārtības uzturētājiem uz katriem simt dalībniekiem. Organizators ir tiesīgs arī pēc pieteikuma iesniegšanas nomainīt atsevišķus kārtības uzturētājus vai palielināt to skaitu.
-(7) Organizators kārtības uzturēšanai var pieaicināt licencētu apsardzes firmu. Šajā gadījumā kārtības uzturētāju skaitu nosaka šī firma un ziņas par tiem nav jānorāda pieteikumā.
+(4) (Izslēgta ar 03.11.2005. likumu.)
+(5) Kārtības uzturētāju skaitu nosaka organizators ar tādu aprēķinu, lai viņi spētu nodrošināt pasākuma mierīgu un organizētu norisi. Organizators ir tiesīgs arī pēc pieteikuma iesniegšanas nomainīt atsevišķus kārtības uzturētājus vai palielināt viņu skaitu.
+(6) Ja plānotais pasākuma dalībnieku skaits pārsniedz simtu, uz katriem simt dalībniekiem norīko ne mazāk par diviem kārtības uzturētājiem. Ja no kompetentas iestādes saņemta informācija, ka pasākuma mierīga un organizēta norise ir apdraudēta, attiecīgā vietējā pašvaldība var pieprasīt, lai organizators nodrošina ne mazāk kā četrus kārtības uzturētājus uz katriem simt dalībniekiem.
+(7) Organizators kārtības uzturēšanai var pieaicināt licencētu apsardzes firmu. Šajā gadījumā kārtības uzturētāju skaits nosakāms, ievērojot šā panta sestās daļas nosacījumus.
 (8) Pasākuma vadītājs un viņa palīgi vienlaikus ar pieteikumu iesniedz paziņojumu, ka viņi uzņemas atbildību par šā likuma ievērošanu pasākuma laikā.
