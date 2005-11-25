@@ -17,6 +17,7 @@ vides ministrs;
 zemkopības ministrs;
 Jūrniecības savienības pārstāvis;
 Aizsardzības ministrijas pārstāvis;
+Iekšlietu ministrijas pārstāvis;
 Latvijas Ostu asociācijas pārstāvis.
 (3) Pārstāvji Latvijas Ostu padomē tiek deleģēti ar attiecīgās institūcijas vadītāja lēmumu un par to tiek informēts Ministru prezidents.
 (4) Latvijas Ostu padomes nolikumu apstiprina Ministru prezidents.
