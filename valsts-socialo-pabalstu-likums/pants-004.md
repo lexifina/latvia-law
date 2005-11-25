@@ -1,7 +1,7 @@
 4.pants. Personas, kurām ir tiesības uz valsts sociālajiem pabalstiem
 (1) Tiesības uz valsts sociālajiem pabalstiem ir Latvijas pilsoņiem, nepilsoņiem, ārvalstniekiem un bezvalstniekiem, kuriem piešķirts personas kods un kuri pastāvīgi dzīvo Latvijas teritorijā.
 (2) Tiesību uz valsts sociālajiem pabalstiem nav personām, kuras Latvijā saņēmušas termiņuzturēšanās atļauju.
-(3) Tiesības uz bērna piedzimšanas pabalstu, bērna kopšanas pabalstu, atlīdzību par adoptējamā bērna aprūpi, atlīdzību par adopciju, ģimenes valsts pabalstu, kā arī piemaksu pie ģimenes valsts pabalsta par bērnu invalīdu ir visām šā panta pirmajā daļā minētajām personām, ja to bērniem vai to adoptētajiem bērniem ir piešķirts personas kods.
+(3) Tiesības uz bērna piedzimšanas pabalstu, bērna kopšanas pabalstu, bērna invalīda kopšanas pabalstu, atlīdzību par adoptējamā bērna aprūpi, atlīdzību par adopciju, ģimenes valsts pabalstu, kā arī piemaksu pie ģimenes valsts pabalsta par bērnu invalīdu ir visām šā panta pirmajā daļā minētajām personām, ja to bērniem vai to adoptētajiem bērniem ir piešķirts personas kods.
 (4) Tiesības uz pabalstu aizbildnim par bērna uzturēšanu un atlīdzību par aizbildņa pienākumu pildīšanu ir visām šā panta pirmajā daļā minētajām personām, ja to aizbildnībā esošajiem bērniem piešķirts personas kods, izņemot personas, kuru aizbildnībā ir bērni, kas Latvijā saņēmuši termiņuzturēšanās atļauju.
 (5) Tiesības uz valsts sociālā nodrošinājuma pabalstu ir:
 1) invaliditātes vai vecuma gadījumā - tām šā panta pirmajā daļā minētajām personām, kuras Latvijas Republikā nodzīvojušas kopumā ne mazāk kā 60 mēnešus, no tiem pēdējos 12 mēnešus nepārtraukti;

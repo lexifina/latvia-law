@@ -1,0 +1,1 @@
+9. Šā likuma 3.panta pirmās daļas 9.punkts, grozījumi 4.panta trešajā daļā attiecībā uz bērna invalīda kopšanas pabalstu, 7.¹ pants un grozījumi 16.panta pirmajā un otrajā daļā, kā arī 20.panta otrajā un trešajā daļā, kuri attiecas uz 7.¹ pantu, stājas spēkā 2006.gada 1.janvārī.
