@@ -3,12 +3,12 @@ Likumā ir lietoti šādi termini:
 1) darba devējs - juridiskā vai fiziskā persona, kura pati nodarbina darba ņēmēju vai apmaksā darba ņēmēja darbu;
 2) darba ņēmējs:
 a) persona, kas uz darba līguma pamata par nolīgto darba samaksu veic noteiktu darbu darba devēja vadībā,
-b) uzņēmuma (uzņēmējsabiedrības) īpašnieks (īpašnieki), kas, nebūdams darba tiesiskajās attiecībās ar sava uzņēmuma (uzņēmējsabiedrības) pārvaldes institūciju, veic šā uzņēmuma (uzņēmējsabiedrības) operatīvās vadības funkciju, ja šajā uzņēmumā (uzņēmējsabiedrībā) likumā noteiktajā kārtībā nav iecelts (ievēlēts) pārvaldnieks (direktors), izņemot zemnieku (zvejnieku) saimniecības īpašnieku,
-c) Saeimas deputāts, pašvaldības deputāts, Ministru kabineta loceklis, uzņēmējsabiedrības (komercsabiedrības) valdes, padomes loceklis, prokūrists, kontrolieris, kā arī cita persona, kura ieņem amatu, kas dod tiesības uz atlīdzību,
+b) (izslēgts ar 27.10.2005. likumu),
+c) Saeimas deputāts, pašvaldības deputāts, Ministru kabineta loceklis, komercsabiedrības valdes, padomes loceklis, prokūrists, kontrolieris, kā arī cita persona, kura ieņem amatu, kas dod tiesības uz atlīdzību,
 d) persona, kura ir noslēgusi Civillikuma IV daļas 15.nodaļā paredzēto uzņēmuma, graudniecības vai pārvadājuma līgumu un nav reģistrējusies kā saimnieciskajā darbībā gūtā ienākuma nodokļa maksātāja,
-e) Iekšlietu ministrijas pakļautībā un pārraudzībā esošas iestādes ierindas vai komandējošā sastāva darbinieks vai Aizsardzības ministrijas pakļautībā un pārziņā esošas struktūrvienības militārpersona,
+e) Iekšlietu ministrijas padotībā esošas iestādes ierindas vai komandējošā sastāva darbinieks vai Aizsardzības ministrijas padotībā esošas struktūrvienības militārpersona,
 f) valsts civildienesta ierēdnis,
-g) likumā noteiktajā kārtībā iecelts (ievēlēts) uzņēmuma (uzņēmējsabiedrības vai nerezidenta pastāvīgās pārstāvniecības) pārvaldnieks (direktors), kas, nebūdams darba tiesiskajās attiecībās ar šo uzņēmumu (uzņēmējsabiedrību vai nerezidenta pastāvīgo pārstāvniecību), veic šā uzņēmuma (uzņēmējsabiedrības vai nerezidenta pastāvīgās pārstāvniecības) operatīvās vadības funkciju;
+g) ārvalsts komersanta pilnvarota persona, kura, nebūdama darba tiesiskajās attiecībās ar šo komersantu, pārstāv to darbībās, kas saistītas ar ārvalsts komersanta filiāli;
 3) pašnodarbinātais - persona, kura gūst ienākumu kā:
 a) persona, kas veic individuālo darbu,
 b) (izslēgts ar 25.11.1999. likumu),
