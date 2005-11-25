@@ -1,7 +1,7 @@
 12.pants. Atteikuma tiesības
 (1) Atteikuma tiesības ir patērētāja tiesības noteiktā termiņā vienpusēji atkāpties no līguma (atteikt pasūtījumu), nemaksājot līgumsodu, procentus vai zaudējuma atlīdzību.
 (2) Patērētājs var izmantot atteikuma tiesības, lai atkāptos no:
-1) līguma, kas noslēgts ārpus uzņēmuma (uzņēmējsabiedrības) pastāvīgās tirdzniecības vai pakalpojumu sniegšanas vietas;
+1) līguma, kas noslēgts ārpus pastāvīgās tirdzniecības vai pakalpojumu sniegšanas vietas;
 2) distances līguma;
 3) līguma par dzīvošanai paredzētas ēkas vai ēkas daļas lietošanas tiesību iegūšanu uz laiku.
 (3) Ražotājs, pārdevējs vai pakalpojuma sniedzējs šā panta otrajā daļā minēto līgumu noslēgšanas brīdī vai preces pārdošanas vai pasūtījuma nodošanas brīdī iesniedz patērētājam rakstveida atteikuma veidlapu, kurā minēts ražotāja, pārdevēja vai pakalpojuma sniedzēja nosaukums (firma), vārds, uzvārds un adrese, kā arī sniegts atteikuma tiesību apraksts.

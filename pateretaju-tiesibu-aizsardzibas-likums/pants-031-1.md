@@ -1,0 +1,4 @@
+31.¹ pants. Patērētāja tiesības, ja prettiesiski izmantota viņa maksājumu karte
+(1) Ja prettiesiski izmantota patērētāja maksājumu karte, viņam ir tiesības prasīt kredītiestādei, kura patērētājam izsniegusi maksājumu karti, attiecīgā maksājuma atcelšanu vai prettiesiski debetētās summas atmaksāšanu.
+(2) Ja patērētājs apgalvo, ka viņa maksājumu karte ir prettiesiski izmantota, un ja kredītiestāde, kura patērētājam izsniegusi maksājumu karti, nevar pierādīt, ka attiecīgais maksājums ir apstiprināts ar identifikācijas kodu vai kādu citu identifikācijas pierādījumu vai ka patērētājs ir rīkojies neuzmanīgi vai ar ļaunu nolūku, tā atmaksā prettiesiski debetēto summu.
+(3) Kredītiestāde, kura patērētājam izsniegusi maksājumu karti, ir atbildīga par ļaunu nolūku, kā arī neuzmanību, ko tā pieļāvusi, sniedzot pakalpojumu saistībā ar patērētājam izsniegto maksājumu karti.

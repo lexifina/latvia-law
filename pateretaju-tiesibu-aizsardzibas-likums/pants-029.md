@@ -1,7 +1,7 @@
 29.pants. Patērētāja tiesības, ja sniegts līguma noteikumiem neatbilstošs pakalpojums
 (1) Patērētājs, kuram sniegts līguma noteikumiem neatbilstošs pakalpojums, ir tiesīgs pieprasīt, lai pakalpojuma sniedzējs veic vienu no šādām darbībām:
 1) attiecīgi samazina pakalpojuma cenu;
-2) bez atlīdzības novērš sniegtā pakalpojuma neatbilstību līguma noteikumiem;
+2) bez atlīdzības novērš sniegtā pakalpojuma neatbilstību līguma noteikumiem vai atlīdzina patērētājiem izdevumus par neatbilstības novēršanu;
 3) izgatavo citu lietu no tāda paša vai tādas pašas kvalitātes materiāla vai sniedz līguma noteikumiem atbilstošu pakalpojumu;
 4) atceļ līgumu un atmaksā patērētājam par pakalpojumu samaksāto naudas summu.
 (2) Ja pakalpojuma sniedzējs pazaudē vai sabojā patērētāja materiālu vai izstrādājumu, patērētājs ir tiesīgs pēc savas izvēles pieprasīt:

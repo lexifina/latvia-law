@@ -1,2 +1,2 @@
 V nodaļa
-Patērētāju tiesību aizsardzības sabiedriskās organizācijas
+Patērētāju tiesību aizsardzības biedrības

@@ -1,0 +1,2 @@
+4.¹ pants. Atsevišķu likuma normu piemērošana
+Šā likuma III un IV nodaļas noteikumi piemērojami tādām tiesiskajām attiecībām, kuras tiek nodibinātas starp ražotāju, pārdevēju vai pakalpojuma sniedzēju un patērētāju, kā arī jebkuru citu tiesību subjektu, kurš izsaka vēlēšanos iegādāties, iegādājas vai varētu iegādāties preci vai izmantot pakalpojumu nolūkam, kas nav saistīts ar šā tiesību subjekta saimniecisko vai profesionālo darbību.
