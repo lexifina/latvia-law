@@ -1,0 +1,1 @@
+1.pants. 2004.gada 11.oktobrī Luksemburgā parakstītais Partnerības un sadarbības nolīgums, kas izveido partnerību starp Eiropas Kopienām un to dalībvalstīm, no vienas puses, un Tadžikistānas Republiku, no otras puses (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.
