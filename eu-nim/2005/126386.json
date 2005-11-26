@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2005.gada 21.jūnija noteikumos Nr.445 \"Pasta noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "189",
+  "official_journal_page": null,
+  "official_journal_date": "2005-11-25",
+  "entry_into_force": "2005-11-26",
+  "notification_date": "2005-12-08",
+  "commission_reference": "MNE(2005)60405",
+  "nim_celex": "71997L0067LVA_126386",
+  "nim_id": "126386",
+  "transposes_celex": [
+    "31997L0067",
+    "32002L0039"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/046b07f4-6e20-4308-a514-9674a30a75eb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
