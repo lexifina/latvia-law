@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Par Vispārējo pasta pakalpojumu tarifu noteikšanas metodiku",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "197",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-09",
+  "entry_into_force": "2005-11-30",
+  "notification_date": "2006-02-22",
+  "commission_reference": "MNE(2006)51140",
+  "nim_celex": "72002L0039LVA_128599",
+  "nim_id": "128599",
+  "transposes_celex": [
+    "32002L0039"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/326496dc-340d-44cc-b8ab-538604d7e472",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
