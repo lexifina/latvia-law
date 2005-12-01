@@ -1,0 +1,151 @@
+Article 53
+Measures for direct recovery of property
+Each State Party shall, in accordance with its domestic law:
+(a) Take such measures as may be necessary to permit another State Party to initiate civil action in its courts to establish title to or ownership of property acquired through the commission of an offence established in accordance with this Convention;
+(b) Take such measures as may be necessary to permit its courts to order those who have committed offences established in accordance with this Convention to pay compensation or damages to another State Party that has been harmed by such offences; and
+(c) Take such measures as may be necessary to permit its courts or competent authorities, when having to decide on confiscation, to recognize another State Party's claim as a legitimate owner of property acquired through the commission of an offence established in accordance with this Convention.
+Article 54
+Mechanisms for recovery of property through international cooperation in confiscation
+1. Each State Party, in order to provide mutual legal assistance pursuant to article 55 of this Convention with respect to property acquired through or involved in the commission of an offence established in accordance with this Convention, shall, in accordance with its domestic law:
+(a) Take such measures as may be necessary to permit its competent authorities to give effect to an order of confiscation issued by a court of another State Party;
+(b) Take such measures as may be necessary to permit its competent authorities, where they have jurisdiction, to order the confiscation of such property of foreign origin by adjudication of an offence of money-laundering or such other offence as may be within its jurisdiction or by other procedures authorized under its domestic law; and
+(c) Consider taking such measures as may be necessary to allow confiscation of such property without a criminal conviction in cases in which the offender cannot be prosecuted by reason of death, flight or absence or in other appropriate cases.
+2. Each State Party, in order to provide mutual legal assistance upon a request made pursuant to paragraph 2 of article 55 of this Convention, shall, in accordance with its domestic law:
+(a) Take such measures as may be necessary to permit its competent authorities to freeze or seize property upon a freezing or seizure order issued by a court or competent authority of a requesting State Party that provides a reasonable basis for the requested State Party to believe that there are sufficient grounds for taking such actions and that the property would eventually be subject to an order of confiscation for purposes of paragraph 1 (a) of this article;
+(b) Take such measures as may be necessary to permit its competent authorities to freeze or seize property upon a request that provides a reasonable basis for the requested State Party to believe that there are sufficient grounds for taking such actions and that the property would eventually be subject to an order of confiscation for purposes of paragraph 1 (a) of this article; and
+(c) Consider taking additional measures to permit its competent authorities to preserve property for confiscation, such as on the basis of a foreign arrest or criminal charge related to the acquisition of such property.
+Article 55
+International cooperation for purposes of confiscation
+1. A State Party that has received a request from another State Party having jurisdiction over an offence established in accordance with this Convention for confiscation of proceeds of crime, property, equipment or other instrumentalities referred to in article 31, paragraph 1, of this Convention situated in its territory shall, to the greatest extent possible within its domestic legal system:
+(a) Submit the request to its competent authorities for the purpose of obtaining an order of confiscation and, if such an order is granted, give effect to it; or
+(b) Submit to its competent authorities, with a view to giving effect to it to the extent requested, an order of confiscation issued by a court in the territory of the requesting State Party in accordance with articles 31, paragraph 1, and 54, paragraph 1 (a), of this Convention insofar as it relates to proceeds of crime, property, equipment or other instrumentalities referred to in article 31, paragraph 1, situated in the territory of the requested State Party.
+2. Following a request made by another State Party having jurisdiction over an offence established in accordance with this Convention, the requested State Party shall take measures to identify, trace and freeze or seize proceeds of crime, property, equipment or other instrumentalities referred to in article 31, paragraph 1, of this Convention for the purpose of eventual confiscation to be ordered either by the requesting State Party or, pursuant to a request under paragraph 1 of this article, by the requested State Party.
+3. The provisions of article 46 of this Convention are applicable, mutatis mutandis, to this article. In addition to the information specified in article 46, paragraph 15, requests made pursuant to this article shall contain:
+(a) In the case of a request pertaining to paragraph 1 (a) of this article, a description of the property to be confiscated, including, to the extent possible, the location and, where relevant, the estimated value of the property and a statement of the facts relied upon by the requesting State Party sufficient to enable the requested State Party to seek the order under its domestic law;
+(b) In the case of a request pertaining to paragraph 1 (b) of this article, a legally admissible copy of an order of confiscation upon which the request is based issued by the requesting State Party, a statement of the facts and information as to the extent to which execution of the order is requested, a statement specifying the measures taken by the requesting State Party to provide adequate notification to bona fide third parties and to ensure due process and a statement that the confiscation order is final;
+(c) In the case of a request pertaining to paragraph 2 of this article, a statement of the facts relied upon by the requesting State Party and a description of the actions requested and, where available, a legally admissible copy of an order on which the request is based.
+4. The decisions or actions provided for in paragraphs 1 and 2 of this article shall be taken by the requested State Party in accordance with and subject to the provisions of its domestic law and its procedural rules or any bilateral or multilateral agreement or arrangement to which it may be bound in relation to the requesting State Party.
+5. Each State Party shall furnish copies of its laws and regulations that give effect to this article and of any subsequent changes to such laws and regulations or a description thereof to the Secretary-General of the United Nations.
+6. If a State Party elects to make the taking of the measures referred to in paragraphs 1 and 2 of this article conditional on the existence of a relevant treaty, that State Party shall consider this Convention the necessary and sufficient treaty basis.
+7. Cooperation under this article may also be refused or provisional measures lifted if the requested State Party does not receive sufficient and timely evidence or if the property is of a de minimis value.
+8. Before lifting any provisional measure taken pursuant to this article, the requested State Party shall, wherever possible, give the requesting State Party an opportunity to present its reasons in favour of continuing the measure.
+9. The provisions of this article shall not be construed as prejudicing the rights of bona fide third parties.
+Article 56
+Special cooperation
+Without prejudice to its domestic law, each State Party shall endeavour to take measures to permit it to forward, without prejudice to its own investigations, prosecutions or judicial proceedings, information on proceeds of offences established in accordance with this Convention to another State Party without prior request, when it considers that the disclosure of such information might assist the receiving State Party in initiating or carrying out investigations, prosecutions or judicial proceedings or might lead to a request by that State Party under this chapter of the Convention.
+Article 57
+Return and disposal of assets
+1. Property confiscated by a State Party pursuant to article 31 or 55 of this Convention shall be disposed of, including by return to its prior legitimate owners, pursuant to paragraph 3 of this article, by that State Party in accordance with the provisions of this Convention and its domestic law.
+2. Each State Party shall adopt such legislative and other measures, in accordance with the fundamental principles of its domestic law, as may be necessary to enable its competent authorities to return confiscated property, when acting on the request made by another State Party, in accordance with this Convention, taking into account the rights of bona fide third parties.
+3. In accordance with articles 46 and 55 of this Convention and paragraphs 1 and 2 of this article, the requested State Party shall:
+(a) In the case of embezzlement of public funds or of laundering of embezzled public funds as referred to in articles 17 and 23 of this Convention, when confiscation was executed in accordance with article 55 and on the basis of a final judgement in the requesting State Party, a requirement that can be waived by the requested State Party, return the confiscated property to the requesting State Party;
+(b) In the case of proceeds of any other offence covered by this Convention, when the confiscation was executed in accordance with article 55 of this Convention and on the basis of a final judgement in the requesting State Party, a requirement that can be waived by the requested State Party, return the confiscated property to the requesting State Party, when the requesting State Party reasonably establishes its prior ownership of such confiscated property to the requested State Party or when the requested State Party recognizes damage to the requesting State Party as a basis for returning the confiscated property;
+(c) In all other cases, give priority consideration to returning confiscated property to the requesting State Party, returning such property to its prior legitimate owners or compensating the victims of the crime.
+4. Where appropriate, unless States Parties decide otherwise, the requested State Party may deduct reasonable expenses incurred in investigations, prosecutions or judicial proceedings leading to the return or disposition of confiscated property pursuant to this article.
+5. Where appropriate, States Parties may also give special consideration to concluding agreements or mutually acceptable arrangements, on a case-by-case basis, for the final disposal of confiscated property.
+Article 58
+Financial intelligence unit
+States Parties shall cooperate with one another for the purpose of preventing and combating the transfer of proceeds of offences established in accordance with this Convention and of promoting ways and means of recovering such proceeds and, to that end, shall consider establishing a financial intelligence unit to be responsible for receiving, analysing and disseminating to the competent authorities reports of suspicious financial transactions.
+Article 59
+Bilateral and multilateral agreements and arrangements
+States Parties shall consider concluding bilateral or multilateral agreements or arrangements to enhance the effectiveness of international cooperation undertaken pursuant to this chapter of the Convention.
+Chapter VI
+Technical assistance and information exchange
+Article 60
+Training and technical assistance
+1. Each State Party shall, to the extent necessary, initiate, develop or improve specific training programmes for its personnel responsible for preventing and combating corruption. Such training programmes could deal, inter alia, with the following areas:
+(a) Effective measures to prevent, detect, investigate, punish and control corruption, including the use of evidence-gathering and investigative methods;
+(b) Building capacity in the development and planning of strategic anticorruption policy;
+(c) Training competent authorities in the preparation of requests for mutual legal assistance that meet the requirements of this Convention;
+(d) Evaluation and strengthening of institutions, public service management and the management of public finances, including public procurement, and the private sector;
+(e) Preventing and combating the transfer of proceeds of offences established in accordance with this Convention and recovering such proceeds;
+(f) Detecting and freezing of the transfer of proceeds of offences established in accordance with this Convention;
+(g) Surveillance of the movement of proceeds of offences established in accordance with this Convention and of the methods used to transfer, conceal or disguise such proceeds;
+(h) Appropriate and efficient legal and administrative mechanisms and methods for facilitating the return of proceeds of offences established in accordance with this Convention;
+(i) Methods used in protecting victims and witnesses who cooperate with judicial authorities; and
+(j) Training in national and international regulations and in languages.
+2. States Parties shall, according to their capacity, consider affording one another the widest measure of technical assistance, especially for the benefit of developing countries, in their respective plans and programmes to combat corruption, including material support and training in the areas referred to in paragraph 1 of this article, and training and assistance and the mutual exchange of relevant experience and specialized knowledge, which will facilitate international cooperation between States Parties in the areas of extradition and mutual legal assistance.
+3. States Parties shall strengthen, to the extent necessary, efforts to maximize operational and training activities in international and regional organizations and in the framework of relevant bilateral and multilateral agreements or arrangements.
+4. States Parties shall consider assisting one another, upon request, in conducting evaluations, studies and research relating to the types, causes, effects and costs of corruption in their respective countries, with a view to developing, with the participation of competent authorities and society, strategies and action plans to combat corruption.
+5. In order to facilitate the recovery of proceeds of offences established in accordance with this Convention, States Parties may cooperate in providing each other with the names of experts who could assist in achieving that objective.
+6. States Parties shall consider using subregional, regional and international conferences and seminars to promote cooperation and technical assistance and to stimulate discussion on problems of mutual concern, including the special problems and needs of developing countries and countries with economies in transition.
+7. States Parties shall consider establishing voluntary mechanisms with a view to contributing financially to the efforts of developing countries and countries with economies in transition to apply this Convention through technical assistance programmes and projects.
+8. Each State Party shall consider making voluntary contributions to the United Nations Office on Drugs and Crime for the purpose of fostering, through the Office, programmes and projects in developing countries with a view to implementing this Convention.
+Article 61
+Collection, exchange and analysis of information on corruption
+1. Each State Party shall consider analysing, in consultation with experts, trends in corruption in its territory, as well as the circumstances in which corruption offences are committed.
+2. States Parties shall consider developing and sharing with each other and through international and regional organizations statistics, analytical expertise concerning corruption and information with a view to developing, insofar as possible, common definitions, standards and methodologies, as well as information on best practices to prevent and combat corruption. 3. Each State Party shall consider monitoring its policies and actual measures to combat corruption and making assessments of their effectiveness and efficiency.
+Article 62
+Other measures: implementation of the Convention through economic development and technical assistance
+1. States Parties shall take measures conducive to the optimal implementation of this Convention to the extent possible, through international cooperation, taking into account the negative effects of corruption on society in general, in particular on sustainable development.
+2. States Parties shall make concrete efforts to the extent possible and in coordination with each other, as well as with international and regional organizations:
+(a) To enhance their cooperation at various levels with developing countries, with a view to strengthening the capacity of the latter to prevent and combat corruption;
+(b) To enhance financial and material assistance to support the efforts of developing countries to prevent and fight corruption effectively and to help them implement this Convention successfully;
+(c) To provide technical assistance to developing countries and countries with economies in transition to assist them in meeting their needs for the implementation of this Convention. To that end, States Parties shall endeavour to make adequate and regular voluntary contributions to an account specifically designated for that purpose in a United Nations funding mechanism. States Parties may also give special consideration, in accordance with their domestic law and the provisions of this Convention, to contributing to that account a percentage of the money or of the corresponding value of proceeds of crime or property confiscated in accordance with the provisions of this Convention;
+(d) To encourage and persuade other States and financial institutions as appropriate to join them in efforts in accordance with this article, in particular by providing more training programmes and modern equipment to developing countries in order to assist them in achieving the objectives of this Convention.
+3. To the extent possible, these measures shall be without prejudice to existing foreign assistance commitments or to other financial cooperation arrangements at the bilateral, regional or international level.
+4. States Parties may conclude bilateral or multilateral agreements or arrangements on material and logistical assistance, taking into consideration the financial arrangements necessary for the means of international cooperation provided for by this Convention to be effective and for the prevention, detection and control of corruption.
+Chapter VII
+Mechanisms for implementation
+Article 63
+Conference of the States Parties to the Convention
+1. A Conference of the States Parties to the Convention is hereby established to improve the capacity of and cooperation between States Parties to achieve the objectives set forth in this Convention and to promote and review its implementation.
+2. The Secretary-General of the United Nations shall convene the Conference of the States Parties not later than one year following the entry into force of this Convention. Thereafter, regular meetings of the Conference of the States Parties shall be held in accordance with the rules of procedure adopted by the Conference.
+3. The Conference of the States Parties shall adopt rules of procedure and rules governing the functioning of the activities set forth in this article, including rules concerning the admission and participation of observers, and the payment of expenses incurred in carrying out those activities.
+4. The Conference of the States Parties shall agree upon activities, procedures and methods of work to achieve the objectives set forth in paragraph 1 of this article, including:
+(a) Facilitating activities by States Parties under articles 60 and 62 and chapters II to V of this Convention, including by encouraging the mobilization of voluntary contributions;
+(b) Facilitating the exchange of information among States Parties on patterns and trends in corruption and on successful practices for preventing and combating it and for the return of proceeds of crime, through, inter alia, the publication of relevant information as mentioned in this article;
+(c) Cooperating with relevant international and regional organizations and mechanisms and non-governmental organizations;
+(d) Making appropriate use of relevant information produced by other international and regional mechanisms for combating and preventing corruption in order to avoid unnecessary duplication of work;
+(e) Reviewing periodically the implementation of this Convention by its
+States Parties;
+(f) Making recommendations to improve this Convention and its implementation;
+(g) Taking note of the technical assistance requirements of States Parties with regard to the implementation of this Convention and recommending any action it may deem necessary in that respect.
+5. For the purpose of paragraph 4 of this article, the Conference of the States Parties shall acquire the necessary knowledge of the measures taken by States Parties in implementing this Convention and the difficulties encountered by them in doing so through information provided by them and through such supplemental review mechanisms as may be established by the Conference of the States Parties.
+6. Each State Party shall provide the Conference of the States Parties with information on its programmes, plans and practices, as well as on legislative and administrative measures to implement this Convention, as required by the Conference of the States Parties. The Conference of the States Parties shall examine the most effective way of receiving and acting upon information, including, inter alia, information received from States Parties and from competent international organizations. Inputs received from relevant non-governmental organizations duly accredited in accordance with procedures to be decided upon by the Conference of the States Parties may also be considered.
+7. Pursuant to paragraphs 4 to 6 of this article, the Conference of the States Parties shall establish, if it deems it necessary, any appropriate mechanism or body to assist in the effective implementation of the Convention.
+Article 64
+Secretariat
+1. The Secretary-General of the United Nations shall provide the necessary secretariat services to the Conference of the States Parties to the Convention.
+2. The secretariat shall:
+(a) Assist the Conference of the States Parties in carrying out the activities set forth in article 63 of this Convention and make arrangements and provide the necessary services for the sessions of the Conference of the States Parties;
+(b) Upon request, assist States Parties in providing information to the Conference of the States Parties as envisaged in article 63, paragraphs 5 and 6, of this Convention; and
+(c) Ensure the necessary coordination with the secretariats of relevant international and regional organizations.
+Chapter VIII
+Final provisions
+Article 65
+Implementation of the Convention
+1. Each State Party shall take the necessary measures, including legislative and administrative measures, in accordance with fundamental principles of its domestic law, to ensure the implementation of its obligations under this Convention.
+2. Each State Party may adopt more strict or severe measures than those provided for by this Convention for preventing and combating corruption.
+Article 66
+Settlement of disputes
+l. States Parties shall endeavour to settle disputes concerning the interpretation or application of this Convention through negotiation.
+2. Any dispute between two or more States Parties concerning the interpretation or application of this Convention that cannot be settled through negotiation within a reasonable time shall, at the request of one of those States Parties, be submitted to arbitration. If, six months after the date of the request for arbitration, those States Parties are unable to agree on the organization of the arbitration, any one of those States Parties may refer the dispute to the International Court of Justice by request in accordance with the Statute of the Court.
+3. Each State Party may, at the time of signature, ratification, acceptance or approval of or accession to this Convention, declare that it does not consider itself bound by paragraph 2 of this article. The other States Parties shall not be bound by paragraph 2 of this article with respect to any State Party that has made such a reservation.
+4. Any State Party that has made a reservation in accordance with paragraph 3 of this article may at any time withdraw that reservation by notification to the Secretary-General of the United Nations.
+Article 67
+Signature, ratification, acceptance, approval and accession
+1. This Convention shall be open to all States for signature from 9 to 11 December 2003 in Merida, Mexico, and thereafter at United Nations Headquarters in New York until 9 December 2005.
+2. This Convention shall also be open for signature by regional economic integration organizations provided that at least one member State of such organization has signed this Convention in accordance with paragraph 1 of this article.
+3. This Convention is subject to ratification, acceptance or approval. Instruments of ratification, acceptance or approval shall be deposited with the Secretary-General of the United Nations. A regional economic integration organization may deposit its instrument of ratification, acceptance or approval if at least one of its member States has done likewise. In that instrument of ratification, acceptance or approval, such organization shall declare the extent of its competence with respect to the matters governed by this Convention. Such organization shall also inform the depositary of any relevant modification in the extent of its competence.
+4. This Convention is open for accession by any State or any regional economic integration organization of which at least one member State is a Party to this Convention. Instruments of accession shall be deposited with the Secretary- General of the United Nations. At the time of its accession, a regional economic integration organization shall declare the extent of its competence with respect to matters governed by this Convention. Such organization shall also inform the depositary of any relevant modification in the extent of its competence.
+Article 68
+Entry into force
+1. This Convention shall enter into force on the ninetieth day after the date of deposit of the thirtieth instrument of ratification, acceptance, approval or accession. For the purpose of this paragraph, any instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by member States of such organization.
+2. For each State or regional economic integration organization ratifying, accepting, approving or acceding to this Convention after the deposit of the thirtieth instrument of such action, this Convention shall enter into force on the thirtieth day after the date of deposit by such State or organization of the relevant instrument or on the date this Convention enters into force pursuant to paragraph 1 of this article, whichever is later.
+Article 69
+Amendment
+1. After the expiry of five years from the entry into force of this Convention, a State Party may propose an amendment and transmit it to the Secretary-General of the United Nations, who shall thereupon communicate the proposed amendment to the States Parties and to the Conference of the States Parties to the Convention for the purpose of considering and deciding on the proposal. The Conference of the States Parties shall make every effort to achieve consensus on each amendment. If all efforts at consensus have been exhausted and no agreement has been reached, the amendment shall, as a last resort, require for its adoption a two-thirds majority vote of the States Parties present and voting at the meeting of the Conference of the States Parties.
+2. Regional economic integration organizations, in matters within their competence, shall exercise their right to vote under this article with a number of votes equal to the number of their member States that are Parties to this Convention. Such organizations shall not exercise their right to vote if their member States exercise theirs and vice versa.
+3. An amendment adopted in accordance with paragraph 1 of this article is subject to ratification, acceptance or approval by States Parties.
+4. An amendment adopted in accordance with paragraph 1 of this article shall enter into force in respect of a State Party ninety days after the date of the deposit with the Secretary-General of the United Nations of an instrument of ratification, acceptance or approval of such amendment.
+5. When an amendment enters into force, it shall be binding on those States Parties which have expressed their consent to be bound by it. Other States Parties shall still be bound by the provisions of this Convention and any earlier amendments that they have ratified, accepted or approved.
+Article 70
+Denunciation
+1. A State Party may denounce this Convention by written notification to the Secretary-General of the United Nations. Such denunciation shall become effective one year after the date of receipt of the notification by the Secretary- General.
+2. A regional economic integration organization shall cease to be a Party to this Convention when all of its member States have denounced it.
+Article 71
+Depositary and languages
+1. The Secretary-General of the United Nations is designated depositary of this Convention.
+2. The original of this Convention, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations.
+IN WITNESS WHEREOF, the undersigned plenipotentiaries, being duly authorized thereto by their respective Governments, have signed this Convention.

@@ -1,0 +1,1 @@
+9.pants. Korupcijas novēršanas un apkarošanas birojs informē Ārlietu ministriju par normatīvajiem aktiem, kas nodrošina Konvencijas 55.panta izpildi, kā arī par visiem grozījumiem šajos normatīvajos aktos.

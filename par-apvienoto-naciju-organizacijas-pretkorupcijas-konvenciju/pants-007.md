@@ -1,0 +1,1 @@
+7.pants. Saskaņā ar Konvencijas 55.panta sesto daļu Latvijas Republika atzīst Konvenciju par nepieciešamu un pietiekamu starptautisku līgumu sadarbībai ar citām Konvencijas dalībvalstīm konfiskācijas jautājumos.
