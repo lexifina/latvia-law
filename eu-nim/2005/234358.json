@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2005.gada 29.novembra noteikumi Nr.898 “Valsts bērnu tiesību aizsardzības inspekcijas nolikums”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "191 (3349)",
+  "official_journal_page": null,
+  "official_journal_date": "2005-11-30",
+  "entry_into_force": "2005-12-01",
+  "notification_date": "2016-02-04",
+  "commission_reference": "MNE(2016)50992",
+  "nim_celex": "72012L0029LVA_234358",
+  "nim_id": "234358",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c3fc40d8-4aa8-4faa-9114-60544f710c52",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
