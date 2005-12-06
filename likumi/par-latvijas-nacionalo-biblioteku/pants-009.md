@@ -1,2 +1,0 @@
-9. pants. Latvijas Nacionālās bibliotēkas dome
-Latvijas Nacionālās bibliotēkas darbību ar sabiedrības interesēm saskaņo Latvijas Nacionālās bibliotēkas dome. To izveido Latvijas Republikas valdība no izglītības, zinātnes, kultūras, tautsaimniecības un citu nozaru speciālistiem. Pusi no domes sastāva iesaka Latvijas Nacionālā bibliotēka. Domes nolikumu pēc Latvijas Nacionālās bibliotēkas priekšlikuma apstiprina Latvijas Republikas valdība.
