@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Sēklu aprites likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "195",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-07",
+  "entry_into_force": null,
+  "notification_date": "2005-12-08",
+  "commission_reference": "MNE(2005)60407",
+  "nim_celex": "72004L0117LVA_126399",
+  "nim_id": "126399",
+  "transposes_celex": [
+    "32004L0117"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1dfecc91-6744-4419-8859-584a3dbfe2e9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
