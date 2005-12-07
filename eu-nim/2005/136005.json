@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Augu šķirņu aizsardzības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "195",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-07",
+  "entry_into_force": null,
+  "notification_date": "2006-10-06",
+  "commission_reference": "MNE(2006)56467",
+  "nim_celex": "71998L0044LVA_136005",
+  "nim_id": "136005",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/331d720f-18e4-45a4-a9f7-38ff18740889",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
