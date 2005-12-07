@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sēklu aprites likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "195",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-07",
+  "entry_into_force": null,
+  "notification_date": "2006-10-06",
+  "commission_reference": "MNE(2006)56470",
+  "nim_celex": "71998L0096LVA_136008",
+  "nim_id": "136008",
+  "transposes_celex": [
+    "31998L0096",
+    "32003L0061",
+    "32004L0117"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9d473d0b-bd58-4f0b-a32d-16cce09af4ec",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
