@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Numura saglabāšanas pakalpojuma noteikumi",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "195",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-07",
+  "entry_into_force": "2005-12-08",
+  "notification_date": "2006-02-22",
+  "commission_reference": "MNE(2006)51178",
+  "nim_celex": "72002L0022LVA_128639",
+  "nim_id": "128639",
+  "transposes_celex": [
+    "32002L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e23dafb7-9e78-4c36-a774-5741aa21521b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
