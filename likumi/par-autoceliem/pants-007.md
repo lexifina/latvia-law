@@ -1,3 +1,4 @@
-7. pants. Iestādes, kas realizē autoceļu valsts pārvaldi, un to kompetence
-(1) Autoceļu valsts pārvaldi realizē Satiksmes ministrija un valsts ceļu dienests. Valsts ceļu dienesta izveidošanas kārtību un kompetenci nosaka Ministru kabinets.
-(2) Valsts ceļu dienests pārrauga pašvaldību, uzņēmumu un māju ceļu būvniecību, rekonstrukciju un uzturēšanu saskaņā ar Ministru kabineta noteikumiem.
+7. pants. Iestādes, kas īsteno autoceļu valsts pārvaldi, un to kompetence
+(1) Autoceļu valsts pārvaldi īsteno Satiksmes ministrija.
+(2) Ministru kabinets nosaka pašvaldību, uzņēmumu un māju ceļu būvniecības, rekonstrukcijas un uzturēšanas pārraudzības kārtību.
+(3) Satiksmes ministrija var deleģēt valsts autoceļu tīkla pārvaldīšanu, valsts autoceļu tīkla finansējuma administrēšanu, iepirkuma organizēšanu valsts vajadzībām, valsts autoceļu ikdienas uzturēšanas darbu programmu vadību un izpildes kontroli, ceļu satiksmes organizācijas uzraudzību, valsts autoceļu būvniecības programmu vadību un būvniecības uzraudzību, kā arī pašvaldību, uzņēmumu un māju ceļu būvniecības, rekonstrukcijas, ikdienas uzturēšanas un periodiskās uzturēšanas pārraudzību valsts akciju sabiedrībai "Latvijas Valsts ceļi" saskaņā ar līgumu.
