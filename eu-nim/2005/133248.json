@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Zāļu lietošanas izraisīto blakusparādību uzraudzības kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "196",
+  "official_journal_page": null,
+  "official_journal_date": "2006-12-08",
+  "entry_into_force": "2005-12-09",
+  "notification_date": "2006-07-12",
+  "commission_reference": "MNE(2006)54455",
+  "nim_celex": "72004L0027LVA_133248",
+  "nim_id": "133248",
+  "transposes_celex": [
+    "32004L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8e79f993-09d8-4f96-a056-50bd796e9efc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
