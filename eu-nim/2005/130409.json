@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Informācijas sabiedrības pakalpojumu likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "191",
+  "official_journal_page": null,
+  "official_journal_date": "2005-11-30",
+  "entry_into_force": "2005-12-14",
+  "notification_date": "2006-04-11",
+  "commission_reference": "MNE(2006)52453",
+  "nim_celex": "72002L0058LVA_130409",
+  "nim_id": "130409",
+  "transposes_celex": [
+    "32002L0058"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ce7f5bd1-453d-41a1-8211-96579cb62c96",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
