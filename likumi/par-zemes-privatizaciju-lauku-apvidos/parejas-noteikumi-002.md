@@ -1,0 +1,1 @@
+2. Grozījumi šā likuma 19.panta 3.punktā attiecībā uz zemes ierīcību un grozījumi 25.pantā attiecībā uz to, ka ar zemes privatizāciju saistītie zemes ierīcības darbi tiek veikti par valsts budžeta un pašvaldību budžetu līdzekļiem Ministru kabineta noteiktajā kārtībā un apmēros, stājas spēkā 2006.gada 1.janvārī.
