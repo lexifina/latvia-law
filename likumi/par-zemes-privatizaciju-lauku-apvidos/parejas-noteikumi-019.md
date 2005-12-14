@@ -1,1 +1,0 @@
-Šā likuma 19.panta 6.punktā un 30.panta pirmajā daļā minētās darbības Privatizācijas aģentūra veic līdz brīdim, kad atbilstoši attiecīgam Ministru kabineta lēmumam Valsts nekustamā īpašuma aģentūra ir pārņēmusi no Privatizācijas aģentūras lauku apvidu zemes privatizācijas funkcijas.
