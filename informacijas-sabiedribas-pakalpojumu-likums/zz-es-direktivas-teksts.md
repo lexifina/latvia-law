@@ -1,1 +1,4 @@
-Likumā ir ietvertas normas, kas izriet no Eiropas Savienības direktīvām 2000/31/EK un 98/48/EK.
+Likumā iekļautas tiesību normas, kas izriet no:
+1) Eiropas Parlamenta un Padomes 2000.gada 8.jūnija direktīvas 2000/31/EK par dažiem informācijas sabiedrības pakalpojumu tiesiskiem aspektiem, jo īpaši elektronisko tirdzniecību, iekšējā tirgū (direktīva par elektronisko tirdzniecību);
+2) Eiropas Parlamenta un Padomes 1998.gada 20.jūlija direktīvas 98/48/EK, ar kuru groza direktīvu 98/34/EK, ar ko nosaka informācijas sniegšanas kārtību tehnisko standartu un noteikumu jomā;
+3) Eiropas Parlamenta un Padomes 2002.gada 12.jūlija direktīvas 2002/58/EK par personas datu apstrādi un privātās dzīves aizsardzību elektronisko komunikāciju nozarē (direktīva par privāto dzīvi un elektronisko komunikāciju).
