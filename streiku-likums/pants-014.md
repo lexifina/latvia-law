@@ -1,4 +1,4 @@
-14.pants. (1) Streika komiteja ne vēlāk kā 10 dienas pirms streika uzsākšanas attiecīgajam darba devējam, Valsts darba inspekcijai un Nacionālās trīspusējās sadarbības padomes (turpmāk - Trīspusējā padome) sekretāram rakstveidā iesniedz:
+14.pants. (1) Streika komiteja ne vēlāk kā septiņas dienas pirms streika uzsākšanas attiecīgajam darba devējam, Valsts darba inspekcijai un Nacionālās trīspusējās sadarbības padomes (turpmāk - Trīspusējā padome) sekretāram rakstveidā iesniedz:
 1) streika pieteikumu, kurā norāda:
 a) streika uzsākšanas datumu, laiku un streika vietu,
 b) streika iemeslus,
