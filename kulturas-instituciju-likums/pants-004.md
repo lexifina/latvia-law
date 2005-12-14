@@ -1,1 +1,1 @@
-4.pants. Kultūras institūcijas neatkarīgi no to juridiskā statusa, pakļautības vai pārraudzības veida un Kultūras ministrija vai institūcija, kurai deleģētas koordinācijas funkcijas, nodrošina abpusēju informācijas apriti.
+4.pants. Kultūras institūcijas neatkarīgi no to juridiskā statusa un padotības un Kultūras ministrija nodrošina abpusēju informācijas apriti, kāda nepieciešama šā likuma 1.pantā norādīto mērķu sasniegšanai.

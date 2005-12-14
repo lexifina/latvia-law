@@ -1,1 +1,1 @@
-5.pants. Valsts kultūras institūciju dibinātāja ir valsts, un tās darbojas saskaņā ar šo likumu, citiem likumiem, normatīvajiem aktiem, attiecīgu nolikumu vai statūtiem.
+5.pants. Kultūras institūcijas dibina, reorganizē un likvidē saskaņā ar normatīvajiem aktiem, kas regulē attiecīgo personu darbību.

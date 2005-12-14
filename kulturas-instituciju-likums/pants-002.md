@@ -8,3 +8,4 @@
 6) finansiāli atbalsta kultūras aktivitātes;
 7) rosina sabiedrībā interesi par kultūru un apmierina sabiedrības kultūras vajadzības;
 8) veicina jebkura sabiedrības locekļa iespēju sevi radoši izpaust un pilnveidot amatiermākslā un tautas mākslā.
+(3) Institūcijas, kuras finansiāli atbalsta kultūras aktivitātes, bet kuru darbības pamatmērķis nav kultūras vērtību radīšana, izplatīšana vai saglabāšana, netiek uzskatītas par kultūras institūcijām.
