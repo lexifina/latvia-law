@@ -2,6 +2,6 @@
 1) sabiedrība ar ierobežotu atbildību "Latvijas standarts" (turpmāk - Nacionālā standartizācijas institūcija);
 2) nozaru standartizācijas institūcijas;
 3) standartizācijas tehniskās komitejas;
-4) uzņēmumi (uzņēmējsabiedrības).
-(2) Nacionālās standartizācijas institūcijas statūtus apstiprina ekonomikas ministrs.
+4) komersanti.
+(2) (Izslēgta ar 10.11.2005. likumu.)
 (3) Ministru kabinets pēc ekonomikas ministra ieteikuma izveido nozaru standartizācijas institūcijas.

@@ -2,4 +2,4 @@
 (2) Latvijas standarti iedalāmi šādi:
 1) Latvijas nacionālie standarti;
 2) Latvijas nacionālā standarta statusā adaptēti un noteiktā kārtībā reģistrēti starptautisko un reģionālo standartizācijas organizāciju standarti;
-3) atsevišķu nozaru, institūciju un uzņēmumu (uzņēmējsabiedrību) standarti.
+3) atsevišķu nozaru, institūciju un komersantu standarti.
