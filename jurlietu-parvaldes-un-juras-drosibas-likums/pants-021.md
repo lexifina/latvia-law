@@ -1,6 +1,6 @@
 21.pants. Kuģa žurnāli
-(1) Uz visiem Latvijas kuģiem ir jābūt kuģa žurnālam, kura paraugu, reģistrācijas, aizpildīšanas un uzglabāšanas kārtību nosaka satiksmes ministrs.
+(1) Uz visiem Latvijas kuģiem ir kuģa žurnāls un mašīnas žurnāls. Uz kuģiem, kuru tilpība ir mazāka par 500 BT, var izmantot apvienotās formas kuģa žurnālu, kurā paredzēti ieraksti par kuģa mehānismu darbību. Kuģa žurnāla un mašīnas žurnāla uzglabāšanas kārtību nosaka Ministru kabinets. Kuģa žurnāla un mašīnas žurnāla paraugus apstiprina Latvijas Jūras administrācija.
 (2) Uz Latvijas kuģiem, kuri piedalās starptautiskajā kuģošanā, ir jābūt starptautiskajos normatīvajos aktos noteiktā parauga naftas operāciju žurnālam, atkritumu uzskaites žurnālam, GMDSS žurnālam, kā arī citiem starptautiskajos normatīvajos aktos noteiktajiem dokumentu un sertifikātu oriģināliem. Ja kuģis pārvadā kaitīgās šķidrās vielas lejamkravas, jābūt arī kravas operāciju žurnālam.
-(3) Uz Latvijas kuģiem, kuru tilpība ir 500 BT vai lielāka un kuru galvenā dzinēja kopējā jauda ir 750 kW vai lielāka, ir jābūt mašīnas žurnālam, kura paraugu, reģistrācijas, aizpildīšanas un uzglabāšanas kārtību, ņemot vērā kuģa tipu un tā aprīkojumu, nosaka Latvijas Jūras administrācija.
-(4) Uz Latvijas kuģiem, kuru tilpība ir mazāka par 500 BT un kuru galvenā dzinēja kopējā jauda ir mazāka par 750 kW, mašīnas žurnāls nav obligāts un ierakstus par kuģa mehānismu darbību izdara kuģa žurnālā.
+(3) (Izslēgta ar 10.11.2005. likumu.)
+(4) (Izslēgta ar 10.11.2005. likumu.)
 (5) Kuģa žurnālus Latvijā reģistrē Latvijas ostu kapteiņi, bet ārvalstīs - Latvijas Republikas diplomātiskās vai konsulārās pārstāvniecības, izdarot par to ierakstu Kuģa žurnālu reģistrācijas grāmatā un reģistrējamos kuģu žurnālos.

@@ -31,11 +31,12 @@
 19) kravas iekraušanu, izvietošanu un nostiprināšanu uz kuģa, kā arī balasta operācijām;
 20) pasažieru kuģu, ro-ro pasažieru kuģu un ātrgaitas pasažieru kuģu drošību, kā arī pasažieru drošību;
 21) kuģu, terminālu un jūrā nostiprinātu platformu drošību;
-22) loču un kuģu satiksmes dienesta (VTS) operatoru apmācību un sertifikāciju;
+22) loču un kuģu satiksmes vadības (VTS)operatoru apmācību, sertifikāciju un kvalifikācijas pārbaudēm;
 23) kuģa navigācijas kartēm, dokumentāciju un informatīvajiem materiāliem;
 24) kuģa īpašnieka atbildību par kuģa atbilstību drošības normām;
 25) jūras komunikācijas un sakaru sistēmām;
-26) kuģa radio un navigācijas aprīkojuma drošību.
+26) kuģa radio un navigācijas aprīkojuma drošību;
+27) jūras negadījumu un incidentu izmeklēšanu.
 (3) Satiksmes ministrs ir tiesīgs noteikt šā panta pirmajā un otrajā daļā minēto starptautisko normatīvo aktu izpildes kārtību.
 (4) Ministru kabinets var noteikt drošības un aizsardzības prasību piemērošanu Latvijas kuģiem, uz kuriem, ievērojot to tilpību, garumu, kuģa tipu, uzbūvēšanas gadu un kuģošanas rajonu, neattiecas šā panta pirmajā un otrajā daļā minētajos starptautiskajos normatīvajos aktos noteiktās prasības.
 (5) Ministru kabinets var noteikt kārtību, kādā tiek izpildītas prasības, ko Helsinku konvencija vides piesārņojuma novēršanas jomā izvirza komercsabiedrībām, kuru darbība nav saistīta ar jūras transportu.
