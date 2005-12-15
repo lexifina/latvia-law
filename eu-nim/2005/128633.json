@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par elektronisko sakaru pakalpojumu kvalitātes prasībām un kvalitātes pārskatu iesniegšanas kārtība",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "199",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-14",
+  "entry_into_force": "2005-12-15",
+  "notification_date": "2006-02-22",
+  "commission_reference": "MNE(2006)51172",
+  "nim_celex": "72002L0022LVA_128633",
+  "nim_id": "128633",
+  "transposes_celex": [
+    "32002L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/448b9639-9c43-4b69-9e1a-b518d56a4004",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
