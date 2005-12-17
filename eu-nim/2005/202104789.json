@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2005. gada 22. novembra noteikumi Nr. 895 \"Jūrnieku sertificēšanas noteikumi\".",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "202",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-16",
+  "entry_into_force": "2005-12-17",
+  "notification_date": "2021-07-02",
+  "commission_reference": "MNE(2021)04789",
+  "nim_celex": "72019L1159LVA_202104789",
+  "nim_id": "202104789",
+  "transposes_celex": [
+    "32019L1159"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fd706b98-e084-11eb-895a-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
