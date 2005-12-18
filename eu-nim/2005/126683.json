@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Jūrnieku sertificēšanas noteikumi",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "202",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-17",
+  "entry_into_force": "2005-12-18",
+  "notification_date": "2005-12-20",
+  "commission_reference": "MNE(2005)60595",
+  "nim_celex": "72001L0025LVA_126683",
+  "nim_id": "126683",
+  "transposes_celex": [
+    "32001L0025",
+    "32002L0084",
+    "32003L0103",
+    "32005L0023",
+    "32005L0045"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e7140cb3-354f-4246-9e87-b6ca15f19fa0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
