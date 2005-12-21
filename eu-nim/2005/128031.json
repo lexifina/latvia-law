@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Par tiešās pārvaldes iestādes \"Aviācijas nelaimes gadījumu un incidentu izmeklēšanas birojs\" izveidi",
+  "type_of_act": "Ministru kabineta rīkojums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "207",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-24",
+  "entry_into_force": "2005-12-21",
+  "notification_date": "2006-02-03",
+  "commission_reference": "MNE(2006)50756",
+  "nim_celex": "71994L0056LVA_128031",
+  "nim_id": "128031",
+  "transposes_celex": [
+    "31994L0056"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8548eb56-6409-4b14-9d15-602aef2a9265",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
