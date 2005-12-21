@@ -1,2 +1,2 @@
 33.pants. Pavairošanas materiāla sertificēšana vai atbilstības novērtēšana
-Aizsargāto šķirņu pavairošanas materiāla sertificēšanu vai atbilstības novērtēšanu veic, ja pavairošanas materiāla audzētājs vai sagatavotājs ir selekcionāra tiesību īpašnieks vai viņam ir izsniegta Valsts augu aizsardzības dienestā reģistrēta licence.
+Šķirnēm, kurām selekcionāra tiesības piešķirtas Latvijā vai tās aizsargātas ar Eiropas Savienības selekcionāru tiesībām, pavairošanas materiāla sertificēšanu vai atbilstības novērtēšanu veic, ja pavairošanas materiāla audzētājs vai sagatavotājs ir selekcionāra tiesību īpašnieks vai viņam ir Valsts augu aizsardzības dienestā reģistrēts licences līgums.

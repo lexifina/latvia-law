@@ -3,11 +3,12 @@
 (2) Valsts augu aizsardzības dienests:
 1) pieņem un izvērtē iesniegumus un citus ar tiem saistītos dokumentus;
 2) veic selekcionāra tiesību piešķiršanas nosacījumu ekspertīzi;
-3) saskaņā ar zemkopības ministra apstiprinātajiem kritērijiem pieņem lēmumu par citās valstīs veiktas šķirnes pārbaudes rezultātu atzīšanu;
-4) organizē šķirņu pārbaudi;
+3) pieņem lēmumu par šķirnes atšķirīguma, viendabīguma un stabilitātes pārbaudes (turpmāk - šķirnes pārbaude) rezultātu atzīšanu;
+4) organizē, veic vai kontrolē šķirņu pārbaudi;
 5) pieņem lēmumu par selekcionāra tiesību piešķiršanu, spēka zaudēšanu un anulēšanu;
 6) izsniedz apliecības par selekcionāra tiesību piešķiršanu;
 7) reģistrē licences selekcionāra tiesību nodošanai;
 8) kārto Latvijas aizsargāto augu šķirņu valsts reģistru;
 9) atbilstoši savai kompetencei sadarbojas ar starptautiskajām organizācijām;
-10) veic citas šajā likumā paredzētās funkcijas.
+10) veic citas šajā likumā paredzētās funkcijas;
+11) veic visas darbības atbilstoši Eiropas Savienības tiesību aktiem par augu šķirņu aizsardzību.

@@ -3,4 +3,4 @@
 (2) Selekcionāra tiesības piešķir:
 1) ja iesniegta pilnībā aizpildīta iesnieguma veidlapa un pievienoti šā likuma 14.panta otrajā daļā minētie dokumenti;
 2) saskaņā ar šā likuma 3., 4., 5., 6. un 7.panta noteikumiem.
-(3) Selekcionāra tiesības piešķir ar Valsts augu aizsardzības dienesta lēmumu, kas stājas spēkā tā pieņemšanas dienā. Valsts augu aizsardzības dienests rakstveidā informē iesniedzēju par minēto lēmumu un izsniedz apliecību par selekcionāra tiesību piešķiršanu.
+(3) Selekcionāra tiesības piešķir ar Valsts augu aizsardzības dienesta lēmumu, kas stājas spēkā tā pieņemšanas dienā. Valsts augu aizsardzības dienests rakstveidā informē iesniedzēju par minēto lēmumu, izsniedz apliecību par selekcionāra tiesību piešķiršanu un iekļauj šķirni Reģistrā.
