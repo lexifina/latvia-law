@@ -1,0 +1,1 @@
+11. 2005.gada 17.novembrī pieņemtie grozījumi šā likuma 4.panta 10.¹ daļā, 19.panta pirmajā daļā, 20.pantā, 21.¹ panta pirmajā daļā, kā arī 21.panta otrās daļas 10.¹, 14. un 15.punkts stājas spēkā 2006.gada 1.janvārī.
