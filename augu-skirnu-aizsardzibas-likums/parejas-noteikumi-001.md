@@ -1,0 +1,1 @@
+1. Atzīt par spēku zaudējušu likumu "Par augu šķirņu aizsardzību" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1993, 18.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 22.nr.; 1999, 23.nr.).
