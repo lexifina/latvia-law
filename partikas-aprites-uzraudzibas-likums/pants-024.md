@@ -1,5 +1,5 @@
 24.pants. (1) Valsts uzraudzības un kontroles funkciju izpildē iesaistītajām institūcijām un amatpersonām jānodrošina uzraudzības un kontroles gaitā iegūtās informācijas neizpaušana, izņemot informāciju par iespējamo kaitējumu cilvēka veselībai, dzīvībai vai videi.
 (2) Valsts uzraudzībā un kontrolē iesaistītās institūcijas un amatpersonas par savu rīcību un lēmumiem atbild likumos un citos normatīvajos aktos noteiktajā kārtībā.
-(3) Pārtikas un veterinārā dienesta amatpersonas nedrīkst personiski vai ar trešo personu starpniecību piedalīties kontrolei pakļauto uzņēmumu (uzņēmējsabiedrību) saimnieciskajā darbībā.
+(3) Pārtikas un veterinārā dienesta amatpersonas nedrīkst personiski vai ar trešo personu starpniecību piedalīties kontrolei pakļauto pārtikas uzņēmumu saimnieciskajā darbībā.
 (4) Pārtikas un veterinārā dienesta amatpersonu rīkojumus un lēmumus var atcelt augstāka amatpersona. Valsts galvenā pārtikas un veterinārā inspektora rīkojumus un lēmumus var pārsūdzēt tiesā.
 (5) Pārtikas un veterinārā dienesta amatpersonu rīkojumu un lēmumu pārsūdzēšana neaptur to izpildi, izņemot lēmumus par administratīvā soda uzlikšanu Latvijas Administratīvo pārkāpumu kodeksā noteiktajos gadījumos.

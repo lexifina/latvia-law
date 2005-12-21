@@ -7,4 +7,4 @@
 (7) Sanitārās robežinspekcijas darbu vada Sanitārās robežinspekcijas priekšnieks. Sanitārās robežinspekcijas priekšnieka vietnieki ir valsts vecākie sanitārie robežinspektori veterinārajā, fitosanitārajā, pārtikas nekaitīguma un nepārtikas preču drošuma jomā.
 (8) Pārtikas un veterinārā dienesta finansu līdzekļus veido valsts pamatbudžeta dotācija no vispārējiem ieņēmumiem, ieņēmumi no maksas pakalpojumiem Ministru kabineta noteiktajā kārtībā, ārvalstu finansu palīdzība likumā par valsts budžetu kārtējam gadam noteiktajā apjomā, saņemtie ziedojumi un dāvinājumi.
 (9) Kārtību, kādā maksā par šajā likumā noteiktajām valsts uzraudzības un kontroles darbībām, un Pārtikas un veterinārā dienesta sniegto maksas pakalpojumu veidus nosaka Ministru kabinets.
-(10) Izmaksas, kas saistītas ar valsts uzraudzības un kontroles darbībām un Pārtikas un veterinārā dienesta sniegtajiem maksas pakalpojumiem, apstiprina zemkopības ministrs.
+(10) (Izslēgta ar 17.11.2005. likumu.)

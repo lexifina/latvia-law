@@ -1,5 +1,5 @@
 19.pants. (1) Veselības ministrija veido un koordinē uztura politiku, kā arī atbild par pārtikas nekaitīguma vispārīgo prasību izstrādāšanu un atbilstošo normatīvo aktu projektu iesniegšanu Ministru kabinetam.
-(2) Veselības ministrs uztura politikas izstrādāšanai un koordinēšanai izveido konsultatīvu uztura padomi.
+(2) Veselības ministrs uztura politikas izstrādāšanai un koordinēšanai izveido konsultatīvu uztura padomi, kura darbojas saskaņā ar Ministru kabineta apstiprinātu nolikumu.
 (3) Veselības ministrs apstiprina ieteicamās Latvijas iedzīvotāju uzturnormas un veselīga uztura ieteikumus.
 (4) Veselības ministrijas Valsts sanitārā inspekcija kontrolē dzeramā ūdens nekaitīguma nodrošināšanas prasību izpildi publiskajos dzeramā ūdens apgādes objektos no ūdens ņemšanas vietas līdz patērētājam.
 (5) Dzeramā ūdens monitoringa un kontroles kārtību nosaka Ministru kabinets.
