@@ -8,3 +8,4 @@ c) tā ir iekļauta Ekonomiskās sadarbības un attīstības organizācijas (OEC
 2) lauks, kurā sēklas audzē, atbilst sēklaudzēšanas un sēklu tirdzniecības noteikumu prasībām;
 3) sēklu kvalitāte atbilst sēklaudzēšanas un sēklu tirdzniecības noteikumu prasībām;
 4) ir nokārtoti ar sēklu sertificēšanu saistītie maksājumi.
+(3) Sēklas, kuras sertificējusi Eiropas Savienības dalībvalsts oficiālā institūcija vai sertifikācija veikta oficiālās institūcijas uzraudzībā saskaņā ar attiecīgās dalībvalsts normatīvajiem aktiem, kvalitātes ziņā pielīdzināmas Valsts augu aizsardzības dienesta sertificētajām sēklām.

@@ -7,4 +7,4 @@
 (2) Reģistrācija Sēklaudzētāju un sēklu tirgotāju reģistrā notiek sēklaudzēšanas un sēklu tirdzniecības noteikumos paredzētajā kārtībā.
 (3) Reģistrāciju var anulēt:
 1) normatīvajos aktos par sēklaudzēšanu un sēklu tirdzniecību paredzētajos gadījumos;
-2) ja divu gadu laikā (skaitot no pēdējā pieteikuma saņemšanas dienas) Valsts augu aizsardzības dienestam nav iesniegts pieteikums sēklu sertifikācijai.
+2) ja divu gadu laikā (skaitot no pēdējā iesnieguma saņemšanas dienas) Valsts augu aizsardzības dienestam nav iesniegts iesniegums sēklu sertifikācijai.

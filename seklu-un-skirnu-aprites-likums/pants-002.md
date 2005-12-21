@@ -4,7 +4,7 @@ Realizējot valsts funkcijas sēklkopībā:
 a) izdod sēklaudzēšanas un sēklu tirdzniecības noteikumus katrai kultūraugu grupai,
 b) apstiprina Latvijas augu šķirņu kataloga (turpmāk arī - katalogs) nolikumu, kurā nosaka šā kataloga apstiprināšanas kārtību un kārtību, kādā šķirni iekļauj un uztur katalogā vai svītro no tā, kā arī ar kataloga veidošanu saistītās informācijas glabāšanas un publicēšanas kārtību,
 c) (izslēgts ar 25.04.2002. likumu),
-d) izdod noteikumus par kārtību, kādā persona sedz izdevumus, kas saistīti ar sēklu sertifikāciju, augu šķirņu saimniecisko īpašību novērtēšanu, augu šķirņu iekļaušanu un uzturēšanu Latvijas augu šķirņu katalogā, laboratoriskajiem pakalpojumiem, personu reģistrāciju un dokumentu izsniegšanu;
+d) (izslēgts ar 17.11.2005. likumu);
 2) Zemkopības ministrija:
 a) izstrādā valsts sēklaudzēšanas politiku atbilstoši valsts agrārajai politikai,
 b) nodrošina lauksaimniecības augu sugu ģenētisko resursu kolekcionēšanu, saglabāšanu, raksturošanu, izvērtēšanu un izmantošanu atbilstoši Ministru kabineta noteiktajai valsts institūciju un komercsabiedrību specializācijai;
@@ -24,4 +24,7 @@ g) sadarbojas ar citu valstu attiecīgajām sertifikācijas institūcijām,
 h) nodrošina piedalīšanos Eiropas Savienības tiesību aktos paredzētajās salīdzinošajās pārbaudēs un attiecīgajos pētījumos,
 i) kārto un uztur Sēklaudzētāju un sēklu tirgotāju reģistru,
 j) uzrauga un kontrolē sēklu apriti,
-k) veic references laboratorijas funkcijas sēklu kvalitātes noteikšanā un sniedz citus laboratoriskos pakalpojumus.
+k) veic references laboratorijas funkcijas sēklu kvalitātes noteikšanā un sniedz citus laboratoriskos pakalpojumus,
+l) organizē vai veic šķirnes atšķirīguma, viendabīguma un stabilitātes pārbaudes,
+m) sēklaudzēšanas un sēklu tirdzniecības noteikumos paredzētajos gadījumos sertificē sēklas ar pazeminātu dīgtspēju,
+n) uztur šķirnes sēklu standartparaugus Latvijas augu šķirņu katalogā iekļautajām šķirnēm.

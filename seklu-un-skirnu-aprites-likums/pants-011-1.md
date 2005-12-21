@@ -9,7 +9,7 @@ c) stabilu, ja pēc vairākkārtējas tās pavairošanas vai katra pavairošanas
 (2) Šā panta pirmās daļas 1.punktā minētajām prasībām var piemērot atlaides, ja šķirne paredzēta augu ģenētisko resursu saglabāšanai.
 (3) Citu Eiropas Savienības dalībvalstu šķirnes tiek iekļautas katalogā pēc tiem pašiem principiem, pēc kuriem iekļauj Latvijā selekcionētās šķirnes.
 (4) Valsts augu aizsardzības dienests nodrošina katalogā iekļauto šķirņu pieteikšanu Eiropas Savienības kopējiem šķirņu katalogiem.
-(5) Valsts augu aizsardzības dienests nodrošina oriģinālo šķirnes sēklu paraugu saņemšanu pēcpārbaudes veikšanai no atšķirīguma, viendabīguma un stabilitātes testa veikšanas iestādes katalogā iekļautajām šķirnēm.
+(5) Valsts augu aizsardzības dienests nodrošina katalogā iekļauto šķirņu oriģinālo šķirnes sēklu paraugu saņemšanu no šķirnes atšķirīguma, viendabīguma un stabilitātes pārbaudes institūcijas un uztur šķirnes sēklu standartparaugus.
 (6) Kādā no Eiropas Savienības kopējiem šķirņu katalogiem un Latvijas augu šķirņu katalogā iekļautās šķirnes netiek pakļautas citiem tirdzniecības ierobežojumiem.
 (7) Ģenētiski modificētās šķirnes katalogā iekļauj saskaņā ar Eiropas Savienības tiesību aktu prasībām un Latvijas normatīvajos aktos noteikto kārtību par ģenētiski modificēto organismu izmantošanu un izplatīšanu.
 (8) Katalogā neiekļauj šķirnes, kas paredzētas tikai izvešanai.

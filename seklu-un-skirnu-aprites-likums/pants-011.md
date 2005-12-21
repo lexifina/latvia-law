@@ -5,7 +5,7 @@
 1) šķirnes nosaukums;
 2) laiks, uz kuru šķirne iekļauta katalogā;
 3) valsts, kurā šķirne selekcionēta;
-4) šķirnes uzturētājs, šķirnes pārstāvis un tā adrese;
+4) selekcionārs, šķirnes uzturētājs, šķirnes pārstāvis un tā adrese;
 5) šķirnes aizsardzība;
 6) šķirni raksturojošie rādītāji;
 7) norāde, ja šķirne ir ģenētiski modificēta.
