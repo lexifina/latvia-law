@@ -1,3 +1,3 @@
 IV nodaļa
-Prasības izglītībai un profesionālajai
-kvalifikācijai reglamentētajās profesijās transporta jomā
+Prasības izglītībai un profesionālajai kvalifikācijai reglamentētajās
+profesijās un reglamentētajās profesionālajās darbībās transporta jomā
