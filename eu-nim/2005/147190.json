@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Veterinārās prasības to dzīvnieku apritei, kas nav minēti citos normatīvajos aktos par veterināro kontroli",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "206",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-23",
+  "entry_into_force": null,
+  "notification_date": "2007-07-20",
+  "commission_reference": "MNE(2007)55603",
+  "nim_celex": "71992L0065LVA_147190",
+  "nim_id": "147190",
+  "transposes_celex": [
+    "31992L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c67598de-af5b-4eae-adfd-633be2bd0a86",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
