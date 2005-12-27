@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Imigrācijas likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "198",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-13",
+  "entry_into_force": "2005-12-27",
+  "notification_date": "2006-01-10",
+  "commission_reference": "MNE(2006)50131",
+  "nim_celex": "71990L0364LVA_127186",
+  "nim_id": "127186",
+  "transposes_celex": [
+    "31990L0364"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c60d198b-fd78-4731-a916-10eed2f650e8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
