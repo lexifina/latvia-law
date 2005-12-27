@@ -1,0 +1,1 @@
+77. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2006.gada 31.decembrim piemērojami Ministru kabineta 2003.gada 1.jūlija noteikumi Nr.361 "Noteikumi par nodokļu un citu maksājumu reģistrēšanas elektroniskajām ierīcēm un iekārtām".

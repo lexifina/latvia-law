@@ -67,4 +67,5 @@
 54) par informācijas sniegšanu no Valsts adrešu reģistra;
 55) par darba atļaujas pieprasīšanai nepieciešamo dokumentu izskatīšanu;
 56) par Elektronisko sakaru likumā noteiktajām radiofrekvenču spektra lietošanas tiesībām (ikgadējā nodeva);
-57) par Elektronisko sakaru likumā noteiktajām numerācijas resursu lietošanas tiesībām (ikgadējā nodeva).
+57) par Elektronisko sakaru likumā noteiktajām numerācijas resursu lietošanas tiesībām (ikgadējā nodeva);
+58) par Ģerboņu likumā noteikto ģerboņu reģistrāciju.

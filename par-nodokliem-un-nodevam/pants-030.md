@@ -7,3 +7,4 @@
 1) kredītiestāžu pakalpojumiem;
 2) skaidrās naudas iemaksām kredītiestādēs šā panta pirmajā daļā noteikto darījumu dalībnieku kontos.
 (6) Mazumtirdzniecībā veiktajos darījumos šā panta normas ir attiecināmas tikai uz preču pircēju.
+(7) Maksājumos par pakalpojumiem, kurus normatīvajos aktos noteiktajā kārtībā sniedz Ceļu satiksmes drošības direkcija, šā panta normas attiecināmas tikai uz pakalpojumu saņēmēju.

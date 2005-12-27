@@ -12,5 +12,10 @@
 9) Eiropas Savienības dalībvalstu kompetentās iestādes - saskaņā ar Eiropas Savienības normatīvajiem aktiem;
 10) valsts aģentūru "Maksātnespējas administrācija" - jautājumos, kas saistīti ar darbinieku aizsardzību darba devēja maksātnespējas gadījumā, un jautājumos, kas saistīti ar nodokļu maksātājiem, par kuriem ir ierosināta maksātnespējas lieta;
 11) Valsts civildienesta pārvaldi - jautājumos, kas saistīti ar nodokļu administrācijas ierēdņu disciplinārlietu ierosināšanu un izmeklēšanu;
-11¹) Pilsonības un migrācijas lietu pārvaldi - jautājumos par ārzemnieka un viņa uzaicinātāja nodokļu maksājumiem, ja uzaicinātājs ir uzņēmies segt izdevumus, kas saistīti ar ārvalstnieka veselības aprūpi, uzturēšanos Latvijas Republikā un atgriešanos mītnes zemē;
-12) citas personas - saskaņā ar šā likuma 18.panta 8.,12., 13., 14. un 15.punktu, 23.panta trīspadsmito daļu, 24.panta otro daļu un 25.panta pirmo daļu.
+12) Pilsonības un migrācijas lietu pārvaldi - jautājumos par ārzemnieka un viņa uzaicinātāja nodokļu maksājumiem, ja uzaicinātājs ir uzņēmies segt izdevumus, kas saistīti ar ārvalstnieka veselības aprūpi, uzturēšanos Latvijas Republikā un atgriešanos mītnes zemē;
+13) Nodarbinātības valsts aģentūru - par komersantu -licencēto darbiekārtošanas pakalpojumu sniedzēju -veiktajiem obligātajiem maksājumiem valsts vai pašvaldības budžetā un jautājumos par darba ņēmēju statusa iegūšanas vai zaudēšanas periodiem;
+14) Valsts darba inspekciju - par nodokļu maksātājiem, kā arī nodokļu maksājumiem, kas nepieciešami tās funkcijas un uzdevumu veikšanai;
+15) Lauku atbalsta dienestu - jautājumos, kas saistīti ar valsts atbalsta, Zivsaimniecības vadības finansēšanas instrumenta vai Eiropas Lauksaimniecības virzības un garantiju fonda finansējuma administrēšanu;
+16) Studiju fondu - par nodokļu maksājumiem, kurus veic no valsts budžeta līdzekļiem piešķirtā studiju kredīta ņēmējs, - jautājumos par studiju kredīta piedziņu;
+17) Juridiskās palīdzības administrāciju - par nodokļu maksātāja ienākumiem tās uzdevumu veikšanai;
+18) citas personas - saskaņā ar šā likuma 18.panta 8.,12., 13., 14. un 15.punktu, 23.panta trīspadsmito daļu, 24.panta otro daļu un 25.panta pirmo daļu.
