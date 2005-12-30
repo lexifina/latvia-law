@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par atsevišķu normatīvo aktu atcelšanu saistībā ar atsevišķu Eiropas Savienības direktīvu spēka zaudēšanu un Eiropas Parlamenta un Padomes regulu stāšanos spēkā",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "210",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-30",
+  "entry_into_force": null,
+  "notification_date": "2006-01-03",
+  "commission_reference": "MNE(2006)50004",
+  "nim_celex": "72004L0041LVA_126982",
+  "nim_id": "126982",
+  "transposes_celex": [
+    "32004L0041"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b26872cf-e95c-44e6-ac4a-17e8abcd79c4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
