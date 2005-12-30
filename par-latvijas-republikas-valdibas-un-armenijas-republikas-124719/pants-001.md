@@ -1,0 +1,1 @@
+1.pants. 2005.gada 7.oktobrī Erevānā parakstītais Latvijas Republikas valdības un Armēnijas Republikas valdības līgums par ieguldījumu veicināšanu un savstarpēju aizsardzību (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
