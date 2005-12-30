@@ -1,0 +1,1 @@
+7. Šā likuma 2.panta otrās daļas 3.punkts, kas noteic, ka likums neattiecas uz valsts vai pašvaldību zemesgabalu maiņu, ja valsts vai pašvaldības zemesgabals tiek izmantots kā kompensācija, stājas spēkā 2007.gada 1.janvārī.
