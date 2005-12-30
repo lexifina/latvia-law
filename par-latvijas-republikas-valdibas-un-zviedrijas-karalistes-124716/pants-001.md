@@ -1,0 +1,1 @@
+1.pants. 2005.gada 7.novembrī Rīgā parakstītais Latvijas Republikas valdības un Zviedrijas Karalistes valdības līgums par Rīgas Juridisko augstskolu (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
