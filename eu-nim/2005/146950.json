@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par obligātajām nekaitīguma un marķējuma prasībām uztura bagātinātājiem un uztura bagātinātāju reģistrācijas kārtību",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "210",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-30",
+  "entry_into_force": null,
+  "notification_date": "2007-07-13",
+  "commission_reference": "MNE(2007)55413",
+  "nim_celex": "72006L0037LVA_146950",
+  "nim_id": "146950",
+  "transposes_celex": [
+    "32006L0037"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1e7fcd1e-6407-4ef7-860c-1facd8a97ed6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
