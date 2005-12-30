@@ -1,0 +1,5 @@
+3.pants. Iesniegums par ģerboņa reģistrāciju vai atribūtikas ar valsts ģerboni apstiprināšanu
+(1) Ģerboni reģistrē un atribūtiku ar valsts ģerboni apstiprina Kultūras ministrija pēc tam, kad tai iesniegts attiecīgs iesniegums.
+(2) Iesniegumam par ģerboņa reģistrāciju pievieno ģerboņa apraksta projektu un ziņas par ģerboņa īpašnieku (fiziskajai personai - vārds, uzvārds, personas kods, dzīvesvieta; juridiskajai personai - pilns nosaukums, reģistrācijas numurs, juridiskā adrese). Iesniegumam var pievienot arī ģerboņa attēla projektu.
+(3) Iesniegumam par atribūtikas ar valsts ģerboni apstiprināšanu pievieno atribūtikas ar valsts ģerboni attēla projektu un ziņas par iesniedzēju (fiziskajai personai - vārds, uzvārds, personas kods, dzīvesvieta; juridiskajai personai - pilns nosaukums, reģistrācijas numurs, juridiskā adrese).
+(4) Iesniegumam par ģerboņa reģistrāciju vai atribūtikas ar valsts ģerboni apstiprināšanu pievieno dokumentu, uz kura pamata darbojas iesniedzēja pārstāvis, ja viņš iesniedzēja vietā kārto ģerboņa reģistrāciju vai atribūtikas ar valsts ģerboni apstiprināšanu.

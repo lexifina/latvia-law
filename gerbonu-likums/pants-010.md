@@ -1,0 +1,4 @@
+10.pants. Valsts Heraldikas komisija
+(1) Valsts Heraldikas komisija ir Valsts prezidenta izveidota koleģiāla institūcija, kurai nav juridiskās personas statusa. Valsts Heraldikas komisija veido un uztur informatīvu materiālu bāzi par ģerboņiem un ģerboņu veidošanas pamatprincipiem un nodrošina šo materiālu pieejamību sabiedrībai, izvērtē jaunu ģerboņu izveides heraldiskos un mākslinieciskos risinājumus, apzina un veido ģerboņu sistēmu un veic izpēti, kā arī pilda citus normatīvajos aktos noteiktos pienākumus.
+(2) Valsts Heraldikas komisijas darbību finansē no līdzekļiem, kas saskaņā ar likumu par valsts budžetu kārtējam gadam piešķirti Valsts prezidenta kancelejai Valsts Heraldikas komisijas darbības nodrošināšanai.
+(3) Valsts Heraldikas komisijas darbību nosaka šis likums un Valsts prezidenta apstiprināts Valsts Heraldikas komisijas nolikums.

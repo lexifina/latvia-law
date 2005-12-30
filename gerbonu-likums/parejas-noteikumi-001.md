@@ -1,0 +1,1 @@
+1.Ģerboņi, kurus apstiprinājusi heraldikas komisija līdz šā likuma spēkā stāšanās dienai, viena gada laikā no šā likuma spēkā stāšanās dienas reģistrējami Ģerboņu reģistrā. Līdz reģistrācijas brīdim uz šiem ģerboņiem un to īpašniekiem attiecināms šā likuma 7., 8. un 9.pants.
