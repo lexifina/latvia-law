@@ -1,0 +1,1 @@
+2.pants. Saskaņā ar Konvencijas par tiesību aktiem, kas piemērojami līgumsaistībām, kura atvērta parakstīšanai Romā 1980.gada 19.jūnijā (turpmāk - Konvencija), 22.pantu Latvijas Republika patur tiesības nepiemērot Konvencijas 7.panta 1.punkta noteikumus.

@@ -1,0 +1,3 @@
+- Dānijā - "Sølov" (jūrniecības likums) 252.punkts un 321.punkta 3. un 4.apakšpunkts,
+- Zviedrijā - "sjölagen" (jūrniecības likums) 13.nodaļas 2.panta 1. un 2.punkts un 14.nodaļas 1.panta 3.punkts,
+- Somijā - "merilaki"/ "sjölagen"(jūrniecības likums) 13.nodaļas 2.panta 1. un 2.punkts un 14.nodaļas 1.panta 3.punkts."
