@@ -1,0 +1,2 @@
+COUNCIL
+AGREEMENT between the Member States of the European Union concerning the status of military and civilian staff seconded to the institutions of the European Union, of the headquarters and forces which may be made available to the European Union in the context of the preparation and execution of the tasks referred to in Article 17(2) of the Treaty on European Union, including exercises, and of the military and civilian staff of the Member States put at the disposal of the European Union to act in this context

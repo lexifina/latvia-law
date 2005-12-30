@@ -1,0 +1,2 @@
+PADOME
+NOLĪGUMS starp Eiropas Savienības dalībvalstīm par militārā un civilā personāla statusu, kas norīkots darbam Eiropas Savienības iestādēs, štāba un spēku statusu, kuri ir pieejami Eiropas Savienībai saistībā ar tādu uzdevumu sagatavošanu un izpildi, kas minēti Līguma par Eiropas Savienību 17.panta otrajā daļā, tostarp mācībām, un par dalībvalstu militārā un civilā personāla statusu, kas, lai darbotos šajā sakarā, ir nodots Eiropas Savienības rīcībā
