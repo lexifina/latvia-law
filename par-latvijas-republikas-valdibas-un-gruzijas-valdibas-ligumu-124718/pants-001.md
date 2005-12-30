@@ -1,0 +1,1 @@
+1.pants. 2005.gada 5.oktobrī Tbilisi parakstītais Latvijas Republikas valdības un Gruzijas valdības līgums par ieguldījumu veicināšanu un savstarpēju aizsardzību (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
