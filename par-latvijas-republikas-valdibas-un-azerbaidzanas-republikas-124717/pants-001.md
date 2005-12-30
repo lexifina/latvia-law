@@ -1,0 +1,1 @@
+1.pants. 2005.gada 3.oktobrī Baku parakstītais Latvijas Republikas valdības un Azerbaidžānas Republikas valdības līgums par ieguldījumu veicināšanu un savstarpēju aizsardzību (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
