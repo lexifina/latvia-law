@@ -1,0 +1,1 @@
+26. Līdz 2006.gada 30.jūnijam pieteikumu par uzņēmumu un uzņēmējsabiedrību maksātnespēju iesniedz attiecīgajai apgabaltiesai. Līdz 2006.gada 30.jūnijam ierosinātās lietas par uzņēmumu un uzņēmējsabiedrību maksātnespēju izskata attiecīgā apgabaltiesa.

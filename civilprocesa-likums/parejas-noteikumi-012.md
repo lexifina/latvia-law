@@ -1,1 +1,1 @@
-12. Grozījumi Civilprocesa likumā par 34.panta otrās daļas 1. un 2.punkta un trešās daļas pirmā teikuma, 39.panta 8.punkta, 43.panta 9.punkta, par 40., 41., 42., 43., 44.nodaļas un 566.panta otrās daļas izslēgšanu stājas spēkā 2006.gada 1.janvārī.
+12. Grozījumi Civilprocesa likumā par 34.panta otrās daļas 1. un 2.punkta un trešās daļas pirmā teikuma, 39.panta 8.punkta, 43.panta 9.punkta, par 40., 41., 42., 43., 44.nodaļas un 566.panta otrās daļas izslēgšanu stājas spēkā 2009.gada 1.janvārī.
