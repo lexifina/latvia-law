@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Azartspēļu un izložu likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "195",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-07",
+  "entry_into_force": "2006-01-01",
+  "notification_date": "2018-09-07",
+  "commission_reference": "MNE(2018)54821",
+  "nim_celex": "72015L0849LVA_262816",
+  "nim_id": "262816",
+  "transposes_celex": [
+    "32015L0849"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4ee33be3-62e3-4136-94b3-71f2c242567c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
