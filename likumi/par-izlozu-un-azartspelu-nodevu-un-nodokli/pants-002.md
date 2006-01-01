@@ -4,7 +4,7 @@ a) par speciālās atļaujas (licences) izsniegšanu - Ls 300 000,
 b) par speciālās atļaujas (licences) pagarināšanu - Ls 25 000,
 c) par speciālās atļaujas (licences) ikgadējo pārreģistrāciju - Ls 25 000 par katru kārtējo gadu,
 d) par kazino atvēršanas atļauju (licenci) - Ls 20 000 par katru kārtējo gadu,
-e) par spēļu zāles vai bingo zāles atvēršanas atļauju (licenci) - Ls 1 500 par katru kārtējo gadu;
+e) par spēļu zāles vai bingo zāles atvēršanas atļauju (licenci) - Ls 3000 par katru kārtējo gadu;
 2) totalizatora vai derību organizēšanai un uzturēšanai:
 a) par speciālās atļaujas (licences) izsniegšanu - Ls 30 000,
 b) par speciālās atļaujas (licences) pagarināšanu - Ls 30 000,

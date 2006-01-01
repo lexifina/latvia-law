@@ -1,1 +1,1 @@
-1. pants. Izložu un azartspēļu nodokli maksā uzņēmumi (uzņēmējsabiedrības), kas likumā noteiktajā kārtībā saņēmuši speciālu atļauju (licenci) izložu un azartspēļu organizēšanai un uzturēšanai.
+1. pants. Izložu un azartspēļu nodokli maksā kapitālsabiedrības, kas likumā noteiktajā kārtībā saņēmušas speciālu atļauju (licenci) izložu un azartspēļu organizēšanai un uzturēšanai.

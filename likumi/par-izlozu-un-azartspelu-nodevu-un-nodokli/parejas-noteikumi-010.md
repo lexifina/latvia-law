@@ -1,0 +1,1 @@
+10.Grozījums šā likuma 2.panta pirmās daļas 1.punkta "e" apakšpunktā attiecībā uz valsts nodevas noteikšanu 3000 latu apmērā par spēļu zāles vai bingo zāles atvēršanas atļauju (licenci) piemērojams personām, kuras saņem, pagarina vai pārreģistrē speciālo atļauju (licenci), sākot ar 2006.gada 1.janvāri.

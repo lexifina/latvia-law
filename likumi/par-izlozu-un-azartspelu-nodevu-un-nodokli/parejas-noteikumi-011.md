@@ -1,0 +1,3 @@
+11.Grozījumi šā likuma 3.panta pirmās daļas 8. un 9.punktā attiecībā uz nodokļa likmes noteikšanu videospēlēm un mehāniskajiem automātiem (attiecīgi 1680 latu apmērā - kazino un spēļu zālēs un 2280 latu apmērā - ārpus kazino un spēļu zālēm) stājas spēkā 2007.gada 1.janvārī. No 2006.gada 1.janvāra līdz 31.decembrim videospēlēm un mehāniskajiem automātiem piemēro šādu nodokļa likmi:
+1) videospēles un mehāniskie automāti, kuri uzstādīti kazino un spēļu zālēs,- par katra automāta katru spēles vietu - Ls 1260;
+2) videospēles un mehāniskie automāti, kuri uzstādīti ārpus kazino un spēļu zālēm, - par katra automāta katru spēles vietu - Ls 1680.
