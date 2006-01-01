@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2005.gada 20.decembra noteikumi Nr.973 \"Transporta nelaimes gadījumu un incidentu izmeklēšanas biroja nolikums\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "206(3364)",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-23",
+  "entry_into_force": "2006-01-01",
+  "notification_date": "2012-10-25",
+  "commission_reference": "MNE(2012)55465",
+  "nim_celex": "72004L0049LVA_196932",
+  "nim_id": "196932",
+  "transposes_celex": [
+    "32004L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b6841d5b-3815-4e5d-8bfc-a1e21fbecc13",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
