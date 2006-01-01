@@ -1,0 +1,1 @@
+10. Šā likuma 4.panta pirmās daļas 23. un 24.punktā, kā arī 4.panta 2.¹ un 2.² daļā minētās valsts amatpersonas, kuras, pamatojoties uz šā likuma 4.panta pirmo, otro vai trešo daļu, valsts amatpersonu sarakstā iekļautas līdz 2006.gada 1.janvārim, šā likuma 23.panta pirmās daļas 2.punktā minēto deklarāciju iesniedz līdz 2006.gada 1.aprīlim.
