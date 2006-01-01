@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2005.gada 8.februāra noteikumi Nr.101 „Noteikumi par prasībām kompetentām institūcijām un kompetentiem speciālistiem darba aizsardzības jautājumos un kompetences novērtēšanas kārtību”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "27",
+  "official_journal_page": null,
+  "official_journal_date": "2005-02-17",
+  "entry_into_force": "2006-01-01",
+  "notification_date": "2008-06-26",
+  "commission_reference": "MNE(2008)53682",
+  "nim_celex": "71989L0391LVA_156606",
+  "nim_id": "156606",
+  "transposes_celex": [
+    "31989L0391"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6755dfa7-5bb2-4f96-aa44-21a51f9b3cb3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
