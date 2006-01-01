@@ -1,10 +1,10 @@
 25.pants. Transportlīdzekļu vadītāja pienākumi
-(1) Mehāniskā transportlīdzekļa vadītājam jābūt klāt turpmāk minētajiem dokumentiem, kas jāiedod pārbaudei pēc policijas darbinieku, robežsargu (uz valsts robežas vai pierobežā) vai muitas darbinieku (muitas zonā) pieprasījuma:
+(1) Mehāniskā transportlīdzekļa vadītājam jābūt klāt turpmāk minētajiem dokumentiem, kas jāiedod pārbaudei pēc policijas darbinieku, Autotransporta inspekcijas amatpersonu (pasažieru un kravas autopārvadājumu kontroles laikā), robežsargu (uz valsts robežas vai pierobežā) vai muitas darbinieku (muitas zonā) pieprasījuma:
 1) vadītāja apliecība;
 2) transportlīdzekļa reģistrācijas dokumenti;
 3) transportlīdzekļa īpašnieka civiltiesiskās atbildības obligātās apdrošināšanas polise, ja uz transportlīdzekļa nav attiecīgas vizuālas informācijas (uzlīme) par izdarīto apdrošināšanu;
 4) dokumenti, kuri saskaņā ar šo likumu un citiem normatīvajiem aktiem vadītājam nepieciešami, lai vadītu attiecīgu transportlīdzekli (operatīvo transportlīdzekli vai tamlīdzīgu transportlīdzekli) vai pārvadātu attiecīgu kravu (bīstamu, lielgabarīta, smagsvara un tamlīdzīgu kravu);
-5) pilnvara transportlīdzekļa lietošanai, izbraucot no Latvijas, ja nav klāt transportlīdzekļa īpašnieka, valdītāja vai transportlīdzekļa reģistrācijas apliecībā norādītā turētāja. Pilnvarai ir obligāts notāra vai citas Civillikuma 1474.pantā norādītās personas apliecinājums; ja transportlīdzekļa īpašnieks (turētājs) ir juridiskā persona, pilnvaru var apliecināt arī transportlīdzekļa īpašnieks (turētājs);
+5) (izslēgts ar 15.12.2005. likumu);
 6) dokuments par veikto valsts tehnisko apskati vai tehnisko kontroli uz ceļiem, ja uz transportlīdzekļa nav attiecīgās vizuālās informācijas (uzlīmes), vai Ceļu satiksmes drošības direkcijas izsniegta vienas dienas atļauja piedalīties ceļu satiksmē, lai veiktu valsts tehnisko apskati.
 (1¹) Mopēda vadītājam jābūt klāt šā panta pirmās daļas 1., 2. un 5.punktā minētajiem dokumentiem.
 (2) Vadītājam pirms izbraukšanas jāpārbauda, vai transportlīdzeklis ir tehniskā kārtībā un nokomplektēts, kā arī jāseko transportlīdzekļa tehniskajam stāvoklim ceļā.

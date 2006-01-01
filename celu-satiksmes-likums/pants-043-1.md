@@ -1,5 +1,5 @@
 43.¹ pants. Pārkāpumu uzskaites punktu sistēma
-(1) Lai ietekmētu transportlīdzekļu vadītāju uzvedību, veicinot transportlīdzekļu drošu vadīšanu un normatīvo aktu ievērošanu ceļu satiksmē, kā arī tāpēc, lai pēc iespējas mazāk būtu apdraudēta cilvēku dzīvība, veselība un manta, transportlīdzekļu vadītāju izdarītie administratīvie pārkāpumi tiek reģistrēti Sodu reģistrā, bet pārkāpumu uzskaites punkti - transportlīdzekļu un to vadītāju valsts reģistrā, kā arī traktortehnikas un tās vadītāju informatīvajā sistēmā.
+(1) Lai ietekmētu transportlīdzekļu vadītāju uzvedību, veicinot transportlīdzekļu drošu vadīšanu un normatīvo aktu ievērošanu ceļu satiksmē, kā arī tāpēc, lai pēc iespējas mazāk būtu apdraudēta cilvēku dzīvība, veselība un manta, transportlīdzekļu vadītāju izdarītie administratīvie pārkāpumi tiek reģistrēti Sodu reģistrā, bet pārkāpumu uzskaites punkti - transportlīdzekļu un to vadītāju valsts reģistrā.
 (2) Maksimālais reģistrējamo punktu skaits ir 10 punkti transportlīdzekļu vadītājiem, kuru transportlīdzekļu vadīšanas stāžs ir mazāks par diviem gadiem, un 16 punkti - pārējiem transportlīdzekļu vadītājiem.
 (3) Maksimālais par vienu pārkāpumu reģistrējamais punktu skaits ir astoņi punkti.
 (4) Atbilstoši izdarītajam pārkāpumam reģistrētie punkti ir spēkā divus līdz piecus gadus atkarībā no pārkāpuma smaguma.

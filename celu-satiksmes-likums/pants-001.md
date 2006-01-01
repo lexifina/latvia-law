@@ -11,7 +11,7 @@ Likumā ir lietoti šādi termini:
 9) diennakts tumšais laiks - laiks no vakara krēslas iestāšanās līdz rīta krēslas izzušanai;
 10) gājējs - persona, kas pārvietojas pa ceļu kājām vai invalīdu ratiņos. Šis termins neattiecas uz personām, kas veic darbus uz brauktuves, un uz satiksmes regulētājiem;
 11) mehāniskais transportlīdzeklis - pašgājējs transportlīdzeklis, traktortehnika, kas pārvietojas pa ceļu ar savu enerģiju, izņemot mopēdus un sliežu transportlīdzekļus, kā arī trolejbuss;
-12) mopēds - divriteņu, trīsriteņu vai četrriteņu transportlīdzeklis, kura motora darba tilpums ir mazāks par 50 kubikcentimetriem (dzirksteļaizdedzes tipa motoriem) vai kura maksimālā jauda ir ne lielāka par 4 kW (elektromotoriem vai cita veida iekšdedzes tipa motoriem) un konstrukcijā paredzētais maksimālais ātrums nepārsniedz 45 kilometrus stundā;
+12) mopēds - divriteņu, trīsriteņu vai četrriteņu transportlīdzeklis, kura motora darba tilpums ir ne lielāks par 50 kubikcentimetriem (dzirksteļaizdedzes tipa motoriem) vai kura maksimālā jauda ir ne lielāka par 4 kW (elektromotoriem vai cita veida iekšdedzes tipa motoriem) un konstrukcijā paredzētais maksimālais ātrums nepārsniedz 45 kilometrus stundā;
 13) motocikls - divriteņu mehāniskais transportlīdzeklis ar blakusvāģi vai bez tā. Šis termins attiecas arī uz sniega motocikliem;
 14) nepietiekama redzamība - tādi laikapstākļi (migla, lietus, sniegs un tamlīdzīgi apstākļi), kuru dēļ redzamība uz ceļa ir tuvāka par 300 metriem, arī mijkrēslis;
 15) operatīvais transportlīdzeklis - mehāniskais transportlīdzeklis, kuram noteiktā kārtībā piešķirts operatīvā transportlīdzekļa statuss un kurš piedalās ceļu satiksmē ar iedegtu mirgojošu zilu vai zilu un sarkanu bākuguni un ieslēgtu speciālu skaņas signālu;

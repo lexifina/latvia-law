@@ -1,6 +1,6 @@
 43.³ pants. Transportlīdzekļa piespiedu pārvietošana
 (1) Transportlīdzekli var pārvietot piespiedu kārtā, novietojot to speciālā stāvvietā, ja:
-1) tā vadītājs atrodas alkohola reibumā, narkotisko vai citu apreibinošu vielu iespaidā vai viņam nav transportlīdzekļu vadīšanas tiesību, izņemot gadījumu, kad transportlīdzekļa vadītājs pilnvaro pasažieri vai citu klātesošo personu, kurai ir attiecīgas kategorijas transportlīdzekļu vadīšanas tiesības, vadīt šo transportlīdzekli tālāk;
+1) (izslēgts ar 15.12.2005. likumu);
 2) nav iespējams noskaidrot transportlīdzekļa piederību;
 3) transportlīdzeklim ir normatīvajos aktos noteiktie bojājumi, kuru dēļ tas nedrīkst braukt, izņemot gadījumu, kad bojājumus novērš transportlīdzekļa atrašanās vietā vai transportlīdzekli noteiktajā kārtībā pārvieto uz stāvvietu vai trūkumu novēršanas vietu;
 4) pārkāpti apstāšanās vai stāvēšanas noteikumi, bet vadītāja nav klāt un transportlīdzeklis novietots stāvēšanai:

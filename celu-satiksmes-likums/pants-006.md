@@ -1,6 +1,6 @@
 6.pants. Ceļa pārvaldītāja pienākumi
 (1) Ceļa pārvaldītājam ir pienākums:
-1) nodrošināt, lai ceļš pastāvīgi tiktu uzturēts satiksmei drošā stāvoklī;
+1) nodrošināt, lai ceļš pastāvīgi tiktu uzturēts satiksmei drošā stāvoklī atbilstoši normatīvajiem aktiem un standartiem ceļu satiksmes drošības jomā;
 2) organizēt satiksmi un nodrošināt ceļa, tā mākslīgo būvju un inženierbūvju, kā arī satiksmes organizācijas tehnisko līdzekļu uzturēšanu lietošanas kārtībā atbilstoši normatīvajiem aktiem un standartiem ceļu satiksmes drošības jomā;
 3) nodrošināt, lai nekavējoties tiktu novērsti šķēršļi, kas traucē satiksmi un apdraud tās drošību, bet, ja tas nav iespējams, nodrošināt bīstamo vietu aprīkošanu ar atbilstošiem satiksmes organizācijas tehniskajiem līdzekļiem līdz šo šķēršļu likvidēšanai;
 4) nodrošināt, lai tiktu izanalizēti ceļu satiksmes negadījumi, tādējādi pastāvīgi pilnveidojot satiksmes organizāciju;

@@ -1,0 +1,5 @@
+31.² pants. Transportlīdzekļu apkalpes locekļu darba laika ilgums
+(1) Transportlīdzekļu apkalpes locekļu nedēļas darba laiks nedrīkst pārsniegt 48stundas, ievērojot to, ka nedēļa ir laikposms starp pulksten 00.00 pirmdienā un pulksten 24.00 svētdienā.
+(2) Transportlīdzekļa apkalpes locekli drīkst nodarbināt virs šā panta pirmajā daļā noteiktā darba laika, bet ne vairāk par 60 stundām nedēļā. Tādā gadījumā vidējais nedēļas darba laiks četru mēnešu periodā nedrīkst pārsniegt 48 stundas.
+(3) Darba devējs, vienojoties ar darbinieku pārstāvjiem, drīkst mainīt šā panta otrajā daļā noteikto nedēļas darba laiku, ja vidējais nedēļas darba laiks sešu mēnešu periodā nepārsniedz 48 stundas.
+(4) Ja transportlīdzekļa apkalpes loceklis veic darbu naktī no pulksten 01.00 līdz 05.00, tad kopējais darba laiks diennaktī nedrīkst pārsniegt 10 stundas. Darba devējs, vienojoties ar darbinieku pārstāvjiem, drīkst mainīt minēto darba laiku naktī, nosakot, ka tas ir vismaz četras stundas ilgs laikposms periodā no pulksten 00.00 līdz 07.00.
