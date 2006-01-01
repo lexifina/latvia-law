@@ -8,3 +8,5 @@
 (7) Valsts budžeta aizdevumu atmaksas veido visi atmaksātie aizdevumi.
 (8) Valsts budžeta finansiālā pārpalikuma vai finansiālā deficīta (finansiālā bilance) un tīro aizdevumu starpība veido valsts budžeta fiskālo deficītu vai fiskālo pārpalikumu (fiskālā bilance).
 (9) Ministru kabinets izdod noteikumus par valsts tiešās pārvaldes iestāžu sniegto maksas pakalpojumu cenrāžu apstiprināšanu.
+(10) Ministru kabinets divus mēnešus pēc gadskārtējā valsts budžeta likuma pieņemšanas izdod noteikumus par ministriju un citu centrālo valsts iestāžu programmu un apakšprogrammu rezultatīvajiem rādītājiem un kārtību, kādā nosaka rezultatīvos rādītājus un sniedz pārskatus par to izpildi.
+(11) Ministru kabinets nosaka tiesu sniegto maksas pakalpojumu veidus, samaksas apmēru un kārtību.

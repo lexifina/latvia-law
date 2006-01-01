@@ -1,6 +1,6 @@
 36. pants. Aizņēmuma vai aizdevuma pilnvarojums
-(1) Tikai finanšu ministrs drīkst kārtot valsts aizņēmumu vai aizdevumu lietas gadskārtējā valsts budžeta likumā noteiktajos ietvaros. Finanšu ministrs:
-1) pārstāv valsti visos aizņēmuma vai aizdevuma līgumos vai, pamatojoties uz Ministru kabineta lēmumu, pilnvaro citu personu parakstīt šos līgumus;
+(1) Valsts aizņēmumu vai aizdevumu lietas, darījumus ar atvasinātajiem finanšu instrumentiem, kā arī citus darījumus valsts parāda vadības ietvaros saskaņā ar gadskārtējo valsts budžeta likumu, ārvalstu finanšu institūciju aizdevuma līgumu nosacījumiem, kā arī pamatojoties uz finanšu tirgus resursu izmaksām, kārto finanšu ministrs. Finanšu ministrs:
+1) pārstāv valsti visos aizņēmuma vai aizdevuma līgumos vai pilnvaro citu personu parakstīt šos līgumus;
 2) pilnvaro atbildīgo institūciju glabāt dokumentu oriģinālus un visu valsts vārdā noslēgto aizņēmuma un aizdevuma līgumu un valsts vārdā sniegto galvojumu reģistrus, kā arī neparedzētu apstākļu radīto parādu saistību reģistrus;
 3) (izslēgts ar 20.12.2004. likumu);
 4) periodiski dara zināmus sabiedrībai valsts vārdā noslēgto līgumu noteikumus attiecībā uz aizņēmumiem naudas vai kapitāla tirgū;

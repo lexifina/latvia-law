@@ -12,3 +12,4 @@ b) ikgadējās parāda saistības attiecībā uz pieciem turpmākajiem gadiem;
 7) pārskatu par finanšu ministra veiktajām investīcijām šā likuma 34. panta kārtībā;
 8) pašvaldību budžetu izpildes kopsavilkumu un konsolidētā kopbudžeta izpildes pārskatu;
 9) citus paskaidrojumus, kurus finanšu ministrs atzīst par nepieciešamiem.
+(3) Finanšu ministrija līdz pārskata gadam sekojošā saimnieciskā gada 1.novembrim iesniedz Ministru kabinetam Valsts ieņēmumu dienesta apkopoto informāciju par valsts un pašvaldību nodokļu un nodevu ieņēmumiem, nodokļu parādiem, kā arī nesaņemtajām nodokļu summām, kas izveidojušās nodokļu maksātājiem likumos noteikto nodokļu atvieglojumu piemērošanas rezultātā.
