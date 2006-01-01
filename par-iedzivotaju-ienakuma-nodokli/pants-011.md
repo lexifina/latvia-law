@@ -16,7 +16,7 @@
 7) valsts sociālās apdrošināšanas obligātās iemaksas par darbiniekiem, kā arī atbilstoši šā likuma 8.panta piektās daļas noteikumiem par darbiniekiem iemaksātās dzīvības apdrošināšanas (ar līdzekļu uzkrāšanu) prēmiju summas un iemaksas privātajos pensiju fondos atbilstoši licencētiem pensiju plāniem un dzīvības, veselības un negadījumu apdrošināšanas (bez līdzekļu uzkrāšanas) prēmiju summas;
 7¹) obligātās apdrošināšanas prēmiju maksājumi par saimnieciskajā darbībā izmantotiem pamatlīdzekļiem;
 8) izdevumi par darbinieku izglītošanu un kvalifikācijas paaugstināšanu;
-9) izmaksas par ražošanas rakstura darbiem un pakalpojumiem, ko veikuši citi uzņēmumi, organizācijas vai fiziskās personas, izņemot izmaksas kapitālieguldījumiem;
+9) citu personu veikto ražošanas rakstura darbu un no citām personām saņemto pakalpojumu izmaksas, izņemot kapitālieguldījumu izmaksas;
 10) procentu maksa par banku kredīta izmantošanu, izņemot soda naudas maksājumus;
 11) maksa par licenci;
 12) zaudējumi tiesas noteiktajā apmērā, kuri nodarīti līgumpartneriem, neizpildot vai pienācīgi neizpildot savas saistības;

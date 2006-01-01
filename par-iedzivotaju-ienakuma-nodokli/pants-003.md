@@ -8,9 +8,9 @@
 1) ienākums no algota darba, ieskaitot darbu, kas veikts Latvijas Republikā tāda darba devēja labā, kurš nav Latvijas Republikas rezidents vai kuram nav pastāvīgās pārstāvniecības Latvijas Republikā, vai darbu, kas veikts ārpus Latvijas Republikas Latvijas Republikas darba devēja labā;
 2) ienākums no profesionālās darbības, kas veikta Latvijas Republikas rezidentu vai nerezidentu pastāvīgo pārstāvniecību labā Latvijas Republikā vai ārpus tās;
 3) ienākums no mākslinieku, sportistu vai treneru profesionālās darbības Latvijas Republikā neatkarīgi no tā, vai šo ienākumu saņem pats mākslinieks, sportists vai treneris, vai cita juridiskā vai fiziskā persona;
-4) ienākums no pienākumu pildīšanas Latvijas Republikā reģistrētas uzņēmējsabiedrības padomē vai valdē neatkarīgi no tā, vai ienākums tiek saņemts no Latvijas Republikā reģistrētas uzņēmējsabiedrības vai citas uzņēmējsabiedrības, kas nav Latvijas Republikas rezidents;
+4) ienākums no pienākumu pildīšanas Latvijas Republikā reģistrētas kapitālsabiedrības vai kooperatīvās sabiedrības padomē vai valdē neatkarīgi no tā, vai ienākums tiek saņemts no Latvijas Republikā reģistrētas kapitālsabiedrības vai kooperatīvās sabiedrības vai no citas kapitālsabiedrības vai kooperatīvās sabiedrības, kas nav Latvijas Republikas rezidents;
 5) ienākums no Latvijas Republikā reģistrētas personālsabiedrības;
-6) ienākums likvidācijas kvotas veidā no Latvijas Republikā reģistrētas uzņēmējsabiedrības likvidācijas - tādā apmērā, kādā tas pārsniedz izmaksājamo dividendi;
+6) ienākums likvidācijas kvotas veidā no Latvijas Republikā reģistrētas komercsabiedrības vai kooperatīvās sabiedrības likvidācijas - tādā apmērā, kādā tas pārsniedz izmaksājamo dividendi;
 7) ienākums no Latvijas Republikā esoša nekustamā īpašuma izmantošanas;
 7¹) ienākums no Latvijas Republikā esoša nekustamā īpašuma atsavināšanas;
 8) ienākums no kustamā īpašuma izmantošanas Latvijas Republikā;

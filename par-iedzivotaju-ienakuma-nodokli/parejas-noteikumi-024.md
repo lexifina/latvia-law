@@ -1,0 +1,1 @@
+24. Šā likuma 3.panta trešās daļas, 8., 17. un 34.panta normas, kurās ietverta atsauce uz komercsabiedrību vai kapitālsabiedrību, piemērojamas arī attiecībā uz uzņēmumu un uzņēmējsabiedrību, kura nav pārreģistrējusies komercreģistrā un ir maksātnespējas procesā.
