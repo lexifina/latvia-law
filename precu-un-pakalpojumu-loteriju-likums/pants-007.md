@@ -1,2 +1,2 @@
 7.pants. (1) Ja preču vai pakalpojumu loterijas laimests ir nauda, loterijas atļaujas saņēmējs identificē tā saņēmēju (norādot personas vārdu, uzvārdu, personas kodu, bet personām, kurām personas kods netiek piešķirts, - personu apliecinoša dokumenta izdošanas datumu, numuru un izdevējiestādes nosaukumu) un naudaszīmes nedrīkst atrasties preces iepakojumā.
-(2) Preču loterijas laimests nevar būt bezķermeniska lieta.
+(2) (Izslēgta ar 08.12.2005. likumu)
