@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Dabas resursu nodokļa likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "209",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-29",
+  "entry_into_force": "2006-01-01",
+  "notification_date": "2011-01-17",
+  "commission_reference": "MNE(2011)50378",
+  "nim_celex": "72008L0098LVA_176075",
+  "nim_id": "176075",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/bf7e3d92-e2d7-4d7d-948d-5e74f1b6d6e8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
