@@ -12,6 +12,6 @@ Nodokļu administrācijas pienākumi ir šādi:
 10) pieņemt lēmumu un informēt nodokļu maksātāju par nodokļu revīzijas (audita) veikšanu, norādot tās termiņu, pārbaudāmos nodokļus, nodokļu deklarācijas posteņus, pārbaudāmās nodevas vai citus valsts obligātos maksājumus un taksācijas periodus;
 11) piedzīt bezstrīda kārtībā termiņā nesamaksātos nodokļus, soda naudas, pamatparāda palielinājumu un nokavējuma naudas šā likuma 26.pantā paredzētajā kārtībā;
 12) nodrošināt publiski pieejamu pievienotās vērtības nodokļa maksātāju reģistru;
-13) nodrošināt publiski pieejamu izsniegto stingrās uzskaites pavadzīmju-rēķinu vienoto datu bāzi (reģistru);
+13) nodrošināt publiski pieejamu izsniegto stingrās uzskaites pavadzīmju-rēķinu un pavadzīmju numuru vienoto datu bāzi (reģistru);
 14) nodrošināt publiski pieejamu nodokļu un citu maksājumu reģistrēšanas elektronisko ierīču un iekārtu, to lietotāju, tirgotāju un apkalpojošo dienestu vienoto datu bāzi (reģistru);
 15) nodrošināt publiski pieejamu informāciju par tiem nodokļu maksātājiem, par kuru izslēgšanu no Latvijas Republikas Uzņēmumu reģistra nodokļu administrācija ir iesniegusi pieteikumu saskaņā ar šā likuma 35.panta pirmo daļu.
