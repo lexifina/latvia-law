@@ -6,8 +6,8 @@
 (5) Nosacīti notiesājot, var piespriest papildsodus.
 (6) Nosacīti notiesājot, tiesa var uzlikt notiesātajam par pienākumu:
 1) noteiktā termiņā novērst radīto kaitējumu;
-2) nemainīt dzīvesvietu bez tās iestādes piekrišanas, kurai uzlikts par pienākumu kontrolēt notiesātā uzvedību;
-3) periodiski ierasties uz reģistrāciju noteiktā institūcijā;
+2) nemainīt dzīvesvietu bez Valsts probācijas dienesta piekrišanas;
+3) periodiski reģistrēties Valsts probācijas dienestā un piedalīties probācijas programmās;
 4) neapmeklēt noteiktas vietas;
 5) noteiktā laikā atrasties savā dzīvesvietā;
 6) ievērot citus nosacījumus, kurus tiesa atzīst par nepieciešamiem soda mērķa sasniegšanai.

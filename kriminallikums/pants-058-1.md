@@ -5,7 +5,7 @@
 (4) Nosacīti atbrīvojot no kriminālatbildības, prokurors personai ar tās piekrišanu var uzlikt par pienākumu:
 1) atvainoties cietušajam;
 2) noteiktā termiņā novērst radīto kaitējumu;
-3) periodiski ierasties uz reģistrāciju noteiktā institūcijā;
+3) periodiski reģistrēties Valsts probācijas dienestā un piedalīties probācijas programmās;
 4) atturēties no noteiktas rīcības vai nodarbošanās veidiem;
 5) ārstēties no alkohola, narkotisko, psihotropo, toksisko vielu vai citas atkarības.
 (5) Ja persona, kura nosacīti atbrīvota no kriminālatbildības, pārbaudes laikā izdara jaunu tīšu noziedzīgu nodarījumu vai neizpilda uzliktos pienākumus, tās kriminālvajāšana tiek turpināta.
