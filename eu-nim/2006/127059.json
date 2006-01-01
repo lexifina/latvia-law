@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ceļu satiksmes likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "209",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-29",
+  "entry_into_force": "2006-01-01",
+  "notification_date": "2006-01-06",
+  "commission_reference": "MNE(2006)50063",
+  "nim_celex": "72002L0015LVA_127059",
+  "nim_id": "127059",
+  "transposes_celex": [
+    "32002L0015"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a66c880b-8b84-442a-917a-aedab98a1f53",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
