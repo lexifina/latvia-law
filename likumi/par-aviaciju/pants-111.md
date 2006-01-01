@@ -4,6 +4,6 @@ Civilās aviācijas gaisa kuģu un citu civilās aviācijas objektu un iekārtu 
 2) gaisa kuģa apkalpes locekļi;
 3) atbildība par nodarīto kaitējumu pasažierim, viņa mantai vai nosūtītajai bagāžai vai kravai;
 4) atbildība par kaitējumu, ko trešajai personai vai šīs personas mantai nodarījis lidojumā esošs gaisa kuģis vai no tā atdalījies priekšmets.
-Personas, kuru apmācības procesā nepieciešams veikt mācību lidojumus, apdrošina attiecīgā mācību iestāde, organizācija vai uzņēmums (uzņēmējsabiedrība), kas tās nosūtījis mācīties.
-Personas, kuras nav gaisa kuģa apkalpes locekļi, bet kuru darbs saistīts ar atrašanos gaisa kuģī lidojuma laikā, apdrošina attiecīgās organizācijas un uzņēmumi (uzņēmējsabiedrības), kuros tās strādā.
+Personas, kuru apmācības procesā nepieciešams veikt mācību lidojumus, apdrošina apmācības veicējs, iestāde vai komersants, kas tās nosūtījis mācīties.
+Personas, kuras nav gaisa kuģa apkalpes locekļi, bet kuru darbs saistīts ar atrašanos gaisa kuģī lidojuma laikā, apdrošina darba devējs vai komersants, ar kuru personai ir līgums par attiecīgo darbu veikšanu gaisa kuģī.
 Personas, kuras nodarbojas ar aviācijas sportu, apdrošina sevi pašas.

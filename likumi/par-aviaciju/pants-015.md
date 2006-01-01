@@ -1,4 +1,0 @@
-15. pants. Normas, kas nosaka gaisa kuģa derīgumu lidojumiem
-Latvijas Republikas Civilās aviācijas gaisa kuģu reģistrā reģistrēta gaisa kuģa ekspluatācija Latvijas Republikas teritorijā atļauta tikai tad, ja konstatēta tā atbilstība valsts izvirzītajām lidojumu drošības prasībām, ko paredz normas, kas nosaka gaisa kuģa derīgumu lidojumiem.
-Latvijas Republikā ir piemērojamas normas, kas nosaka gaisa kuģa derīgumu lidojumiem, ja šo normu prasības atbilst vai ir augstākas par Starptautiskās civilās aviācijas organizācijas (ICAO) standartos noteiktajām prasībām un ja šīs normas ir atzinusi Civilās aviācijas administrācija.
-Lidojumus ar gaisa kuģi, kurš neatbilst šā panta pirmajā daļā noteiktajām prasībām, drīkst veikt tikai ar Civilās aviācijas administrācijas atļauju, ja tā uzskata, ka, ievērojot speciālus gaisa kuģa ekspluatācijas ierobežojumus, tiks garantēta gaisa kuģu lidojumu drošība.

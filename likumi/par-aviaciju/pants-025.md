@@ -1,4 +1,4 @@
 25. pants. Apliecība par lidlauka derīgumu ekspluatācijai un gaisa trases ekspluatācijas sertifikāts
-Apliecību par lidlauka derīgumu ekspluatācijai izsniedz un pagarina, kā arī gaisa trases ekspluatācijas sertifikātu izsniedz Civilās aviācijas administrācijas noteiktajā kārtībā.
-Apliecība par lidlauka derīgumu ekspluatācijai nav spēkā, ja izbeidzies šīs apliecības derīguma termiņš vai tiek pārkāpta Civilās aviācijas administrācijas noteiktā lidlauku ekspluatācijas kārtība.
-Ja veicot pārbaudi vai citādi konstatēts, ka lidlauka darba organizācija, tā iekārtas vai gaisa trases aeronavigācijas un citas radiotehniskās iekārtas neatbilst noteiktām prasībām vai ierobežojumiem, ar Civilās aviācijas administrācijas ģenerāldirektora rīkojumu lidlauka vai gaisa trases ekspluatāciju ierobežo vai apliecību par lidlauka derīgumu vai gaisa trases ekspluatācijas sertifikātu atzīst par spēkā neesošu līdz brīdim, kad trūkumi ir novērsti.
+Apliecību par lidlauka derīgumu ekspluatācijai izsniedz un pagarina Ministru kabineta noteiktajā kārtībā.
+Apliecība par lidlauka derīgumu ekspluatācijai nav spēkā, ja izbeidzies šīs apliecības derīguma termiņš vai tiek pārkāpta Ministru kabineta noteiktā lidlauka ekspluatācijas kārtība.
+(Trešā daļa izslēgta ar 15.12.2005. likumu.)

@@ -1,3 +1,3 @@
-95. pants. Atbildība par nepatiesu ziņu apzinātu sniegšanu Aviācijas departamentam un Civilās aviācijas administrācijai
-Persona, kas Aviācijas departamentam un Civilās aviācijas administrācijai apzināti sniegusi nepatiesas ziņas, tiek saukta pie atbildības Latvijas Republikas likumdošanas aktos noteiktajā kārtībā.
-Personai, kas apzināti sniegusi nepatiesas ziņas attiecībā uz sertifikāta, licences, apliecības vai atļaujas izsniegšanas nosacījumiem, šos dokumentus neizsniedz vai ar Aviācijas departamenta direktora vai Civilās aviācijas administrācijas ģenerāldirektora rīkojumu anulē attiecīgo izsniegto dokumentu.
+95. pants. Atbildība par nepatiesu ziņu apzinātu sniegšanu Aviācijas departamentam un Civilās aviācijas aģentūrai
+Persona, kas Aviācijas departamentam un Civilās aviācijas aģentūrai apzināti sniegusi nepatiesas ziņas, tiek saukta pie atbildības Latvijas Republikas likumdošanas aktos noteiktajā kārtībā.
+Personai, kas apzināti sniegusi nepatiesas ziņas attiecībā uz sertifikāta, licences, apliecības vai atļaujas izsniegšanas nosacījumiem, šos dokumentus neizsniedz vai ar Aviācijas departamenta direktora vai Civilās aviācijas aģentūras direktora rīkojumu anulē attiecīgo izsniegto dokumentu.

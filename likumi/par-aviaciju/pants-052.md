@@ -1,2 +1,0 @@
-52. pants. Radiosakaru iekārtu lietošanas kārtība
-Gaisa kuģu apkalpju un gaisa satiksmes vadības dienesta dispečeru savstarpējo radiosakaru uzturēšanai nepieciešamo iekārtu uzstādīšanas un lietošanas kārtību gaisa kuģī un uz zemes pēc saskaņošanas ar Latvijas Republikas Satiksmes ministrijas Sakaru departamentu nosaka Aizsardzības ministrija (attiecībā uz militāro aviāciju) un Civilās aviācijas administrācija (attiecībā uz civilo aviāciju).

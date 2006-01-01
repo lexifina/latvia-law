@@ -1,2 +1,0 @@
-4. pants. Civilās aviācijas darbībai nepieciešamie sertifikāti, licences, apliecības un atļaujas
-Latvijas Republikā gaisa telpas izmantošana, civilās aviācijas darbība, civilās aviācijas speciālistu sagatavošana (pārkvalifikācija un kvalifikācijas celšana), kā arī šā likuma 40. panta otrajā daļā noteiktā darbība ir atļauta tikai pēc šā likuma 10., 17., 20., 22., 25., 31., 32., 40., 80., 82. un 92. pantā noteikto un attiecīgajai darbībai nepieciešamo sertifikātu, licenču, apliecību un atļauju saņemšanas.

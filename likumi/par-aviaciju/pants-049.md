@@ -1,4 +1,3 @@
 49. pants. Gaisa kuģa piespiedu nosēdināšana Latvijas Republikas teritorijā
-Ja gaisa kuģis novirzījies no lidojuma maršruta vai ielidojis teritorijā, kurā lidojumi aizliegti, tam nekavējoties jāveic nepieciešamie pasākumi, lai atjaunotu lidojumu saskaņā ar plānu.
-Šā panta pirmajā daļā paredzētajā gadījumā un citos gadījumos, kad tas nepieciešams sabiedriskās kārtības un drošības interesēs, Civilās aviācijas administrācijas noteiktajā kārtībā Latvijas Republikas gaisa, telpas izmantošanas un gaisa satiksmes organizēšanas valsts uzņēmuma (dienesta) dispečers var pieprasīt, lai gaisa kuģa kapteinis nosēdina gaisa kuģi tuvākajā piemērotajā lidlaukā. Par šādiem gadījumiem nekavējoties jāziņo Civilās aviācijas administrācijai un Latvijas Republikas Aizsardzības ministrijai.
-Apstākļus un kārtību, kādā Latvijas Republikas Nacionālo bruņoto spēku un muitas dienesti var pieprasīt civilās aviācijas gaisa kuģa piespiedu nosēšanos, nosaka Latvijas Republikas Ministru kabinets.
+Ja gaisa kuģis nesankcionēti ielidojis Latvijas Republikas teritorijā, gaisa kuģa apkalpe nekavējoties veic visus nepieciešamos pasākumus, lai atjaunotu lidojumu saskaņā ar lidojuma plānu.
+Ministru kabinets nosaka kārtību, kādā sabiedriskās kārtības un drošības interesēs var pieprasīt gaisa kuģa piespiedu nosēdināšanu.

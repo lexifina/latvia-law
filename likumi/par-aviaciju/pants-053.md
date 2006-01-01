@@ -6,6 +6,6 @@ Latvijas Republikas Civilās aviācijas gaisa kuģu reģistrā reģistrētajā g
 4) uzskaites žurnālam par gaisa kuģa tehnisko stāvokli lidojuma laikā;
 5) gaisa kuģa ekspluatācijas instrukcijai lidojumu veikšanai;
 6) dokumentācijai par pasažieriem un kravu, ja gaisa kuģī atrodas pasažieri vai krava;
-7) citiem Civilās aviācijas administrācijas noteiktajiem dokumentiem, kas nepieciešami gaisa kuģa lidojumu veikšanai.
-Civilās aviācijas administrācija apstiprina šā panta pirmajā daļā noteiktās dokumentācijas paraugus un nosaka dokumentācijas komplektu, kuram jāatrodas gaisa kuģī īpaša lidojuma laikā.
+7) citiem normatīvajos aktos noteiktajiem dokumentiem, kas nepieciešami gaisa kuģa lidojumu veikšanai.
+(Otrā daļa izslēgta ar 15.12.2005. likumu.)
 Gaisa kuģa ekspluatantam ir tiesības noteikt papildu dokumentāciju, kurai gaisa kuģu lidojumu laikā jāatrodas tā ekspluatējamajos gaisa kuģos.

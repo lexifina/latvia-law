@@ -1,2 +1,2 @@
-79. pants. Personas, kurām izsniedz gaisa kuģa ekspluatanta apliecību
-Civilās aviācijas administrācija gaisa kuģa ekspluatanta apliecību izsniedz Latvijas pilsoņiem un personām, kurām ir tiesības uz Latvijas Republikas izdotu nepilsoņa pasi, Eiropas Savienības dalībvalstu pilsoņiem, kā arī Latvijas Republikas Uzņēmumu reģistrā reģistrētajiem uzņēmumiem (uzņēmējsabiedrībām), kas atbilst Civilās aviācijas administrācijas noteiktajām prasībām un ir nokārtojuši šā likuma 111.panta pirmajā daļā noteikto obligāto apdrošināšanu.
+79. pants. Gaisa kuģa ekspluatanta apliecības izsniegšana
+Civilās aviācijas aģentūra gaisa kuģa ekspluatanta apliecību izsniedz Ministru kabineta noteiktajā kārtībā.

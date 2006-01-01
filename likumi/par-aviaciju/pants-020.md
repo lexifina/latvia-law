@@ -1,3 +1,0 @@
-20. pants. Sertifikāts par gaisa kuģa atbilstību vides aizsardzības prasībām
-Latvijas Republikas teritorijā civilās aviācijas gaisa kuģa ekspluatācija atļauta tikai tad, ja konstatēta tā atbilstība vides aizsardzības prasībām. To apliecina Civilās aviācijas administrācijas izsniegts vai par derīgu Latvijas Republikas teritorijā atzīts citas valsts izsniegts sertifikāts par gaisa kuģa atbilstību vides aizsardzības prasībām.
-Kārtību, kādā izsniedz sertifikātu par gaisa kuģa atbilstību vides aizsardzības prasībām, nosaka Civilās aviācijas administrācija pēc saskaņošanas ar Latvijas Republikas Vides aizsardzības un reģionālās attīstības ministriju.

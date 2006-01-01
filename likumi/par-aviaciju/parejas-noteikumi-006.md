@@ -1,0 +1,1 @@
+6. Līdz šā likuma 49.panta otrajā daļā minēto noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2006.gada 1.februārim ir spēkā Ministru kabineta 1995.gada 11.jūlija noteikumi Nr.195 "Noteikumi par apstākļiem un kārtību, kādā Nacionālo bruņoto spēku dienesti var pieprasīt civilās aviācijas gaisa kuģa piespiedu nosēšanos", ciktāl tie nav pretrunā ar šo likumu.

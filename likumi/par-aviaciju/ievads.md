@@ -1,6 +1,7 @@
 Likumā lietotie termini
 Aeronavigācijas informācija - informācija, kas ietver lidlauku un gaisa kuģu lidojumos izmantojamo aeronavigācijas un elektrotehnisko iekārtu raksturojumu un ziņas par to faktisko stāvokli, gaisa kuģu manevrēšanas kārtību lidlauka satiksmes zonās, gaisa trasēs, maršrutos un citās lidojumu zonās.
 Aizliegtā zona - ierobežota gaisa telpa virs valsts sauszemes teritorijas vai tās iekšējiem vai teritoriālajiem Baltijas jūras ūdeņiem, kurā gaisa kuģu lidojumi ir aizliegti.
+Atgadījums civilajā aviācijā - darbības pārtraukums, defekts, nepilnība vai kādi citi ārkārtas apstākļi, kas ir ietekmējuši vai var ietekmēt lidojumu drošību, bet ne tādā veidā, ka to dēļ noticis nelaimes gadījums vai nopietns incidents.
 Aviācijas nelaimes gadījums - notikums, kurš saistīts ar gaisa kuģa izmantošanu no brīža, kad vismaz viena persona iekāpj gaisa kuģī ar nolūku veikt lidojumu, līdz brīdim, kad visas gaisa kuģī esošās personas ir to atstājušas, un kura laikā:
 1) kāda no minētajām personām iegūst miesas bojājumus, kuru rezultātā iestājas nāve, vai smagus miesas bojājumus sakarā ar:
 a) atrašanos šajā gaisa kuģī,
