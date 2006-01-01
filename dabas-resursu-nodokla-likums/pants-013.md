@@ -1,0 +1,7 @@
+13.pants. Vispārīgās prasības nodokļa aprēķināšanai par dabas resursu ieguvi un lietošanu
+(1) Nodokli aprēķina atbilstoši nodokļa likmēm par katru iegūto vai izmantoto dabas resursu vai vidē emitētā piesārņojuma vienību. Nodokli maksā par faktisko dabas resursu ieguves apjomu, kā arī par kārtējā taksācijas periodā ģeoloģiskajās struktūrās iesūknēto dabasgāzes vai siltumnīcefekta gāzu apjomu un vides piesārņojuma veidu un apjomu.
+(2) Faktiski iegūto vai izmantoto dabas resursu veidu un apjomu vai emitētā piesārņojuma apjomu nodokļa maksātājs pierāda atbilstoši normatīvajos aktos, attiecīgajā atļaujā vai licencē noteiktajām metodēm, akreditētu laboratoriju veiktajām analīzēm vai standartizētiem aprēķiniem.
+(3) Nodokļa maksātājs nodrošina iegūto un izmantoto dabas resursu un piesārņojuma apjoma uzskaiti.
+(4) Nodokli par dabas resursu ieguvi un lietošanu limitos noteiktajos apjomos aprēķina saskaņā ar šā likuma pielikumos noteiktajām likmēm.
+(5) Ja nodokļa maksātājs taksācijas periodā dabas resursus ieguvis vai lietojis mazāk par noteikto limitu, bet nevar pierādīt faktisko apjomu, nodokli maksā par limitam atbilstošu dabas resursu ieguves vai piesārņojuma veidu un apjomu.
+(6) Ja nodokļa maksātājs taksācijas periodā nav ieguvis dabas resursus, to norāda uzskaites dokumentos un taksācijas perioda beigās par to informē reģionālo vides pārvaldi. Šajā gadījumā nodoklis par attiecīgo taksācijas periodu nav jāmaksā.

@@ -1,0 +1,3 @@
+12.pants. Dabas resursu ieguves un lietošanas limitēšana
+(1) Lai iegūtu vai lietotu dabas resursus, nodokļa maksātājam jāsaņem vides aizsardzības un zemes dzīļu izmantošanas normatīvajos aktos noteiktā atļauja, licence vai C kategorijas piesārņojošas darbības apliecinājums.
+(2) Lai izmantotu saimnieciskajā darbībā dabas resursus, kuri iegūti pazemes un virszemes būvju būvniecībā, virszemes ūdensobjektu ierīkošanā, to gultnes tīrīšanā vai padziļināšanā, kā arī lai izmantotu saimnieciskajā darbībā iegūtos derīgos izrakteņus, par kuriem nav samaksāts nodoklis, nepieciešams Ministru kabineta noteiktajā kārtībā saņemt dabas resursu lietošanas atļauju.

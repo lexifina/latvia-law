@@ -1,0 +1,1 @@
+3. Līdz 2006.gada 31.decembrim ir spēkā Ministru kabineta 2002.gada 25.jūnija noteikumi Nr.270 "Dabas resursu nodokļa atvieglojumu piemērošanas kārtība uzņēmumiem (uzņēmējsabiedrībām), kuri realizē brīvprātīgu izlietotā iepakojuma apsaimniekošanas programmu", ciktāl tie nav pretrunā ar šo likumu.

@@ -1,0 +1,1 @@
+6. Šā likuma 27.panta otrā daļa par pārskata iesniegšanu elektroniskā veidā saskaņošanai Valsts vides dienestā piemērojama ar dienu, kad elektroniskajam dokumentam tiek nodrošināts drošs elektroniskais paraksts. Līdz tam pārskats par iepriekšējo ceturksni iesniedzams Valsts vides dienesta attiecīgajai reģionālajai vides pārvaldei papīra formā un, ja iespējams, elektroniskā veidā.

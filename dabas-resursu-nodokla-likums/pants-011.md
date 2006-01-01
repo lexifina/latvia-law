@@ -1,0 +1,2 @@
+11.pants. Atbrīvojums no nodokļa samaksas par ozona slāni noārdošas vielas izmantošanu
+Nodokli par ozona slāni noārdošas vielas izmantošanu nemaksā komersants, kas atbilstoši vides aizsardzības normatīvajos aktos noteiktajām tehnoloģiskajām un vides aizsardzības prasībām ozona slāni noārdošu vielu izmanto citu ķīmisku vielu ražošanai, ja ķīmiskajā pārveides procesā ozona slāni noārdoša viela pilnībā maina savu ķīmisko sastāvu.

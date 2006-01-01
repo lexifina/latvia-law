@@ -1,0 +1,2 @@
+19.pants. Nodokļa aprēķināšana par ūdeņu ieguvi
+Nodokli par virszemes un pazemes ūdeņu (izņemot minerālūdeņus) ieguvi maksā, ja ūdeņu ieguve pārsniedz 10 kubikmetrus diennaktī, neatkarīgi no tā, vai nodokļa maksātājam ir nepieciešama atļauja. Ja nodokļa maksātājam attiecīgajā atļaujā ūdeņu ieguves limits noteikts mazāks par 10 kubikmetriem diennaktī, nodokli saskaņā ar šā likuma 21.pantu maksā tikai par to ūdeņu apjomu, kas iegūts virs limita, atbilstoši šā likuma 2.pielikumā noteiktajai nodokļa likmei.

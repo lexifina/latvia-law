@@ -1,0 +1,1 @@
+4. Līdz 2006.gada 1.jūlijam Ministru kabinets izdod šajā likumā minētos noteikumus, izņemot šā likuma 9.pantā minētos noteikumus, kurus Ministru kabinets izdod līdz 2006.gada 1.aprīlim. Šā likuma 23.panta sestās daļas 3. un 4.punktā minētos noteikumus un 24.panta trešās daļas 6. un 7.punktā minētos noteikumus Ministru kabinets izdod līdz 2006.gada 1.oktobrim.

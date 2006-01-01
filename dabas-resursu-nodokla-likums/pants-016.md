@@ -1,0 +1,3 @@
+16.pants. Nodokļa aprēķināšana par oglekļa dioksīda (CO2) emisiju
+(1) Šā likuma 4.pielikumā noteiktajai oglekļa dioksīda (CO2) emisijai nenosaka limitu, un nodokli par visu oglekļa dioksīda (CO2) emisijas apjomu aprēķina, piemērojot šā likuma 4.pielikumā noteiktās likmes. Oglekļa dioksīda (CO2) emisijas apjomu no stacionāras tehnoloģiskas iekārtas aprēķina, ņemot vērā kurināmā, izejvielu, palīgmateriālu un saražotās produkcijas veidu un ķīmisko sastāvu, izmantotā kurināmā, izejvielu un palīgmateriālu apjomu, saražotās produkcijas apjomu, zemākā sadegšanas siltuma faktoru un oksidācijas faktoru vai pārvēršanas faktoru.
+(2) Oglekļa dioksīda (CO2) emisijas apjoma aprēķināšanas kārtību nosaka Ministru kabinets.

@@ -1,0 +1,2 @@
+2.pants. Dabas resursu nodokļa mērķis
+Dabas resursu nodokļa (turpmāk - nodoklis) mērķis ir veicināt dabas resursu ekonomiski efektīvu izmantošanu, ierobežot vides piesārņošanu, samazināt vidi piesārņojošas produkcijas ražošanu un realizāciju, veicināt jaunu, vidi saudzējošu tehnoloģiju ieviešanu, atbalstīt tautsaimniecības ilgtspējīgu attīstību, kā arī finansiāli nodrošināt vides aizsardzības pasākumus.

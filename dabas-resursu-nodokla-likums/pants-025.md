@@ -1,0 +1,4 @@
+25.pants. Nodokļa aprēķināšana par radioaktīvajām vielām
+Nodokli par radioaktīvajām vielām, pamatojoties uz piegādātāja apstiprinātu dokumentu par radioaktīvo vielu sastāvu un kopējo radioaktivitāti, aprēķina atbilstoši šā likuma 8.pielikumā minētajām likmēm par katru radioaktīvo atkritumu kubikmetru, kas radies pēc šo vielu izmantošanas, kā arī ņemot vērā šādus nosacījumus:
+1) nodokli par radioaktīvo vielu izmantošanu aprēķina proporcionāli to radioaktīvo atkritumu radioaktivitātei, kuri radīsies pēc radioaktīvo vielu izmantošanas, saskaņā ar attiecīgo nodokļa likmi, bet nodoklis nav mazāks par 0,001 no likmes 1., 2., 3., 4., 5. un 6.radionuklīdu grupai un 0,2 no likmes 7.radionuklīdu grupai;
+2) ja vienlaikus tiek izmantots vaļējs un slēgts radioaktīvā starojuma avots, nodokli aprēķina katram radioaktīvā starojuma avotam atsevišķi, ņemot vērā šā panta 1.punktā minētos nosacījumus.

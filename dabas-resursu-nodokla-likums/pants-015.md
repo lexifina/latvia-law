@@ -1,0 +1,4 @@
+15.pants. Nodokļa aprēķināšana par vides piesārņošanu, veicot C kategorijas piesārņojošas darbības
+(1) Par piesārņojuma veidu un apjomu C kategorijas piesārņojošai darbībai nodokli aprēķina un maksā atbilstoši nodokļa maksātāja deklarētajam piesārņojuma veidam un apjomam. Piesārņojuma veida un apjoma deklarācijas formu un tajā iekļaujamo informāciju, tās aizpildīšanas un iesniegšanas kārtību nosaka Ministru kabinets.
+(2) Vidē emitētā piesārņojuma apjomu nosaka, pamatojoties uz vides aizsardzības normatīvajos aktos noteiktajiem nozaru nosacījumiem un metodikām vai izmantojot aprēķinus.
+(3) Ja iekārtu operatori veic C kategorijas piesārņojošas darbības nozarēs, attiecībā uz kurām normatīvajos aktos nav noteiktu nosacījumu un nav arī iespējams aprēķināt piesārņojošo vielu apjomu, nodokļa apmērs ir 50 latu gadā.

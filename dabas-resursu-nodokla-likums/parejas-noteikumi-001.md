@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par dabas resursu nodokli" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 22.nr.; 1997, 3.nr.; 2000, 10.nr.; 2002, 3.nr.; 2004, 2., 10.nr.).
