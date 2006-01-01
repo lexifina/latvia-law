@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 1998.gada 20.novembra direktīvas 98/84/EK par tiesisku aizsardzību pakalpojumiem, kas pamatojas uz ierobežotu piekļuvi vai nodrošina to.
