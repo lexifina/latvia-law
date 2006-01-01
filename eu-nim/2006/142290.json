@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Autotransporta inspekcijas nolikums",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "152",
+  "official_journal_page": null,
+  "official_journal_date": "2005-09-23",
+  "entry_into_force": "2006-01-01",
+  "notification_date": "2007-03-08",
+  "commission_reference": "MNE(2007)51958",
+  "nim_celex": "72006L0022LVA_142290",
+  "nim_id": "142290",
+  "transposes_celex": [
+    "32006L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d5ef5065-403e-4588-a150-bd29a9a08951",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
