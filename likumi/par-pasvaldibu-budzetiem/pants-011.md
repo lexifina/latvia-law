@@ -1,1 +1,1 @@
-11.pants. Pašvaldību budžetos ir ieņēmumu daļa, izdevumu daļa un finansēšanas daļa. Pašvaldības savus budžetus izstrādā atbilstoši budžeta ieņēmumu, izdevumu un finansēšanas klasifikācijai, kuru nosaka finansu ministrs.
+11.pants. Pašvaldību budžetos ir ieņēmumu daļa, izdevumu daļa un finansēšanas daļa. Pašvaldības savus budžetus izstrādā atbilstoši budžeta ieņēmumu, izdevumu un finansēšanas klasifikācijai, kuru nosaka Ministru kabinets.

@@ -1,1 +1,1 @@
-28.pants. Pašvaldību domes (padomes) organizē pašvaldību budžetu izpildi, nodrošina nodokļu iekasēšanu un līdzekļu racionālu izlietošanu, pamatojoties uz spēkā esošajiem likumdošanas aktiem, Ministru kabineta un Finansu ministrijas izstrādātajiem vispārējiem noteikumiem.
+28.pants. Pašvaldības dome (padome) organizē pašvaldības budžeta izpildi, nodrošina nodokļu iekasēšanu un līdzekļu racionālu izlietošanu, pamatojoties uz spēkā esošajiem normatīvajiem aktiem.

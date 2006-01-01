@@ -1,1 +1,1 @@
-6.pants. Pašvaldību budžetu izstrādāšanas un izlietošanas process ir atklāts. Pašvaldības budžeta projektam, budžetam un saimnieciskā gada pārskatam par pašvaldības budžeta izpildi atbilstoši šā likuma 16., 17. un 34.pantam jābūt publiski pieejamam katrā attiecīgajā pašvaldībā.
+6.pants. Pašvaldību budžetu izstrādāšanas un izlietošanas process ir atklāts. Pašvaldības budžeta projektam, budžetam un saimnieciskā gada pārskatam par pašvaldības budžeta izpildi atbilstoši šā likuma 16. un 17.pantam jābūt publiski pieejamam katrā attiecīgajā pašvaldībā.
