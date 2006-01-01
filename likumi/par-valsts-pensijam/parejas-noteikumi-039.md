@@ -1,0 +1,1 @@
+39. Ja iestājušies apstākļi, kas saskaņā ar šo pārejas noteikumu 29.punktu ļauj piešķirtās pensijas vietā saņemt pensiju pēc atvieglotiem noteikumiem, kādus nosaka šis likums, pensiju pārrēķina šā likuma 25.panta otrās daļas 1.punktā noteiktajā kārtībā.

@@ -4,11 +4,11 @@ P = 0.3 x VA + 0.004 x VA x AS x ĢL
 P - pensija,
 VA - pēdējā vidējā apdrošināšanas iemaksu alga, kas piemērota pensijas apmēra noteikšanai pirms pensijas pārrēķināšanas,
 AS - apdrošināšanas stāža pilni gadi,
-ĢL - to ģimenes locekļu skaits, kuriem ir tiesības uz apgādnieka zaudējuma pensiju. Tas ņemams vērā, vienīgi aprēķinot apgādnieka zaudējuma pensiju, kuras apmērs trim un vairāk bērniem nedrīkst būt mazāks par 50 procentiem no valsts sociālā nodrošinājuma pabalsta apmēra katram bērnam. Ja apgādnieka zaudējuma pensijas apmērs trim un vairāk bērniem nesasniedz iepriekš noteikto pensijas apmēru, starpība tiek segta no valsts pamatbudžeta Ministru kabineta noteiktajā kārtībā;
+ĢL - to ģimenes locekļu skaits, kuriem ir tiesības uz apgādnieka zaudējuma pensiju.
 2) (izslēgts ar 20.12.2001. likumu);
 3) pārrēķinot invaliditātes pensiju, pārrēķināma arī piemaksa pie tās, kas nosakāma pie I grupas invaliditātes pensijas 12 procentu apmērā un pie II grupas invaliditātes pensijas - sešu procentu apmērā no pēdējās vidējās apdrošināšanas iemaksu algas, kas piemērota pensijas apmēra noteikšanai pirms pensijas pārrēķināšanas;
-4) sakarā ar apdrošināšanas stāžu, kas uzkrāts pēc šā likuma spēkā stāšanās, vecuma pensija un izdienas pensija pārrēķināma šā likuma 24.pantā noteiktajā kārtībā;
-5) pārrēķinot pensiju, ņemami vērā šā likuma 25.panta otrās daļas 1. un 2.punktā un trešajā daļā noteiktie termiņi. Ja invaliditātes pensijas saņēmējam mainījusies invaliditātes grupa, invaliditātes pensija pārrēķināma no dienas, kad mainīta invaliditātes grupa;
+4) sakarā ar apdrošināšanas stāžu, kas uzkrāts pēc šā likuma stāšanās spēkā, vecuma pensija, izdienas pensija un I un II grupas invaliditātes pensija pārrēķināma šā likuma 24.pantā noteiktajā kārtībā;
+5) pārrēķinot pensiju, ņemami vērā šā likuma 25.panta otrās daļas 1. un 2.punktā un trešajā daļā noteiktie termiņi, izņemot šo pārejas noteikumu 23.punktā minētos gadījumus. Ja invaliditātes pensijas saņēmējam mainījusies invaliditātes grupa, invaliditātes pensija pārrēķināma no dienas, kad mainīta invaliditātes grupa;
 6) pensija palielināma šā likuma 26.pantā noteiktajā kārtībā, ievērojot šo pārejas noteikumu 15.punktu;
 7) politiski represētajām personām agrāk piešķirtās vecuma pensijas un invaliditātes pensijas bez piemaksas, kas noteikta šā punkta 3.apakšpunktā, pārrēķināmas, piemērojot koeficientu 1,1;
 8) pārejot no viena pensijas veida uz citu, personām, kuras šajā likumā noteikto vecuma pensijas piešķiršanai nepieciešamo vecumu sasniegušas līdz šā likuma spēkā stāšanās dienai, pensija netiek piešķirta no jauna; šajā gadījumā ņemams vērā šā likuma 25.panta otrās daļas 1.punktā noteiktais termiņš un piemērojama šā punkta 1.apakšpunktā noteiktā pensijas aprēķināšanas kārtība;

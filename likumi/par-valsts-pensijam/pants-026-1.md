@@ -1,2 +1,3 @@
 26.¹ pants. Vidējā apdrošināšanas iemaksu alga
-Vidējo apdrošināšanas iemaksu algu nosaka Labklājības ministrija.
+(1) Vidējo apdrošināšanas iemaksu algu nosaka Labklājības ministrija.
+(2) Pensijas teorētiskā apmēra noteikšanai [aprēķinā tiek ņemti vērā vairākās Eiropas Savienības (ES) un Eiropas Ekonomikas zonas (EEZ) dalībvalstīs uzkrātie apdrošināšanas un tai pielīdzinātie periodi] saskaņā ar Padomes 1971.gada 14.jūnija regulu (EEK) Nr. 1408/71 par sociālā nodrošinājuma shēmu piemērošanu nodarbinātām, pašnodarbinātām personām, kā arī to ģimenes locekļiem, kas pārvietojas Kopienas teritorijā (turpmāk - regula Nr. 1408/71), attiecībā uz citu ES un EEZ dalībvalstu apdrošināšanas periodiem pieņem, ka personas apdrošināšanas iemaksu alga konkrētajā gadā ir vienāda ar iepriekšējā gada vidējo apdrošināšanas iemaksu algu Latvijā.

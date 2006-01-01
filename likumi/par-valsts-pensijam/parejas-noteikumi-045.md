@@ -1,0 +1,1 @@
+45. Grozījumi šā likuma pārejas noteikumu 1.punkta ievaddaļā, kas nosaka līdz 1990.gada 31.decembrim apdrošināšanas stāžā ieskaitāmos darba un tam pielīdzināmos periodus, stājas spēkā 2007.gada 1.janvārī.

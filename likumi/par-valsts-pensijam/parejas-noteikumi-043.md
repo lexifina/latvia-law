@@ -1,0 +1,1 @@
+43. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2006.gada 30.jūnijam piemērojami Ministru kabineta 2002.gada 26.marta noteikumi Nr.134 "Latvijas Republikā piešķirto valsts pensiju izmaksas kārtība personām, kuras izbrauc uz pastāvīgu dzīvi ārvalstīs", ciktāl tie nav pretrunā ar šo likumu.

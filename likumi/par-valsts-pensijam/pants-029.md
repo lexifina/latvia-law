@@ -1,3 +1,2 @@
-29.pants. Valsts sociālās apdrošināšanas aģentūras filiāles lēmuma pārsūdzēšanas kārtība
-(1) Sūdzību sakarā ar Valsts sociālās apdrošināšanas aģentūras filiāles lēmumu var iesniegt Valsts sociālās apdrošināšanas aģentūrai.
-(2) Strīdi par šajā likumā paredzēto tiesību realizēšanu izskatāmi tiesā likumā noteiktajā kārtībā.
+29.pants. Valsts sociālās apdrošināšanas aģentūras administratīvo aktu apstrīdēšana un pārsūdzēšana
+Valsts sociālās apdrošināšanas aģentūras darbinieku izdotos administratīvos aktus vai faktisko rīcību persona var apstrīdēt, mēneša laikā no administratīvā akta spēkā stāšanās dienas iesniedzot iesniegumu Valsts sociālās apdrošināšanas aģentūras direktoram. Valsts sociālās apdrošināšanas aģentūras direktora lēmumu var pārsūdzēt tiesā mēneša laikā no tā spēkā stāšanās dienas.

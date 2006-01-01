@@ -1,5 +1,7 @@
 32.pants. Valsts pensijas izmaksāšanas kārtība
-(1) Valsts pensijas izmaksājamas katru mēnesi. Valsts pensija pēc pensijas saņēmēja pieprasījuma pārskaitāma viņa norādītajā Latvijas Republikas kredītiestādes vai pasta norēķinu sistēmas (PNS) kontā, izmaksājama pakalpojuma sniedzēja noteiktajā izmaksas vietā vai piegādājama pensijas saņēmēja dzīvesvietā. Pieprasījums pārskaitīt pensiju kontā atjaunojams reizi 12 mēnešos.
-(2) Pensijas saņēmējs var pilnvarot citu personu saņemt pensiju. Nepārtraukti pēc vienas pilnvaras pensija izmaksājama ne ilgāk par sešiem mēnešiem.
+(1) Valsts pensijas izmaksājamas katru mēnesi. Valsts pensija pēc pensijas saņēmēja pieprasījuma pārskaitāma viņa norādītajā Latvijas Republikas kredītiestādes vai pasta norēķinu sistēmas (PNS) kontā, izmaksājama pakalpojuma sniedzēja noteiktajā izmaksas vietā vai piegādājama pensijas saņēmēja dzīvesvietā.
+(2) Pensijas saņēmējs var pilnvarot citu personu saņemt pensiju.
 (3) (Izslēgta ar 05.08.1999. likumu.)
 (4) (Izslēgta ar 20.12.2001. likumu.)
+(5) Pensija, kuras izmaksa pārtraukta, pamatojoties uz pensijas saņēmēja iesniegumu, atjaunojama (neatkarīgi no izmaksas pārtraukšanas laika) ar dienu, kad saņemts iesniegums par pensijas izmaksas atjaunošanu. Atjaunotā pensija par laiku, kad tās izmaksa bija pārtraukta, pārskatāma saskaņā ar šā likuma 26.pantu.
+(6) Latvijas Republikā piešķirtā pensija, kuras izmaksa pārtraukta sakarā ar personas izbraukšanu uz dzīvi ārvalstīs, atjaunojama ar pieprasījuma iesniegšanas dienu, ja persona ir atgriezusies uz dzīvi Latvijas Republikā vai dzīvo citas ES vai EEZ dalībvalsts teritorijā. Ja ES vai EEZ teritorijā dzīvojoša persona pieprasījumu par pensijas atjaunošanu iesniedz līdz 2006.gada 30.aprīlim, pensijas izmaksu atjauno ar 2004.gada 1.maiju. Atjaunotā pensija par laiku, kad tās izmaksa bija pārtraukta, pārskatāma saskaņā ar šā likuma 26.pantu.
