@@ -1,0 +1,1 @@
+14. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par izlozēm un azartspēlēm" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 14.nr.; 1995, 22.nr.; 1996, 16.nr.; 1997, 10., 13.nr.; 1999, 24.nr.; 2001, 15.nr.; 2002, 14.nr.; 2003, 15.; 23.nr.).

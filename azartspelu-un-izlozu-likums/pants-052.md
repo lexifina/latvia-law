@@ -1,0 +1,2 @@
+52.pants. Interaktīvo azartspēļu organizēšanas licences anulēšana
+Izložu un azartspēļu uzraudzības inspekcijai ir tiesības anulēt interaktīvo azartspēļu organizēšanas licenci, ja ir iestājies kāds no šā likuma 87.pantā minētajiem nosacījumiem vai arī azartspēles organizētājs savstarpējos norēķinos ar spēlētājiem izmanto kontu vai kontus, par kuriem nav informējis Valsts ieņēmumu dienestu vai Izložu un azartspēļu uzraudzības inspekciju.

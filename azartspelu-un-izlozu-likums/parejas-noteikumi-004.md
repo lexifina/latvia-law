@@ -1,0 +1,1 @@
+4.Azartspēļu organizētājs nodrošina atsevišķu ieeju no ārpuses spēļu zālēm, kas atrodas ar būvkonstrukcijām norobežotās telpās veikalos, kultūras iestādēs, dzelzceļa stacijās, autoostās, lidostās un ostās, ne vēlāk kā līdz 2006.gada 1.jūlijam.

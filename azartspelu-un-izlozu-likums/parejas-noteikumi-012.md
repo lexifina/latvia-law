@@ -1,0 +1,1 @@
+12.Ministru kabinets šā likuma 39.panta sestajā daļā, 47.panta otrajā un trešajā daļā, 53.panta sestajā daļā, 54.pantā, 63.panta trešajā daļā un 84.panta otrajā un trešajā daļā paredzētos noteikumus izdod līdz 2007.gada 1.janvārim.

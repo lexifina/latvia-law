@@ -1,0 +1,1 @@
+2.Azartspēļu organizētājs nodrošina, ka šā likuma 9.panta noteikumi, kas attiecas uz padomes un valdes locekļiem un revidentam izvirzītajām prasībām, tiek izpildīti ne vēlāk kā līdz 2006.gada 1.jūlijam.

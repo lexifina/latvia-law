@@ -1,0 +1,1 @@
+5.Ārpus kazino un spēļu zālēm azartspēļu automātus drīkst uzstādīt un ekspluatēt tikai vietās, kuras 2002.gada 30.jūnijā bija reģistrētas Izložu un azartspēļu uzraudzības inspekcijas azartspēļu automātu uzstādīšanas vietu reģistrā.

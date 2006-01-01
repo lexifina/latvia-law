@@ -1,0 +1,2 @@
+28.pants. Azartspēļu organizēšanas vietas licences izsniegšana
+Izložu un azartspēļu uzraudzības inspekcija lēmumu par azartspēļu organizēšanas vietas licences izsniegšanu vai par atteikumu izsniegt šādu licenci pieņem 30 dienu laikā no iesnieguma saņemšanas dienas. Ja tiek pieprasītas papildu ziņas un dokumenti, Izložu un azartspēļu uzraudzības inspekcija lēmumu par azartspēļu organizēšanas vietas licences izsniegšanu vai par atteikumu izsniegt šādu licenci pieņem 30 dienu laikā no papildu ziņu un dokumentu saņemšanas dienas.

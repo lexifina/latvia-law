@@ -1,0 +1,4 @@
+84.pants. Azartspēļu un izložu organizētāja pārskata iesniegšana
+(1) Azartspēļu un izložu organizētājs likuma "Par uzņēmumu gada pārskatiem" 66.pantā noteiktajā termiņā un kārtībā iesniedz Izložu un azartspēļu uzraudzības inspekcijai pārbaudīta gada pārskata norakstu, ziņojumu un zvērināta revidenta atzinumu kopā ar paskaidrojumu par to, kad gada pārskats apstiprināts.
+(2) Azartspēļu un izložu organizētājs 20 dienu laikā pēc ceturkšņa beigām Ministru kabineta noteiktajā kārtībā iesniedz Izložu un azartspēļu uzraudzības inspekcijai ziņojumu par azartspēļu un izložu organizēšanu pārskata ceturksnī.
+(3) Azartspēļu un izložu organizētājs veic grāmatvedības uzskaiti saskaņā ar likumu "Par grāmatvedību", likumu "Par uzņēmumu gada pārskatiem" un Ministru kabineta noteikumiem, kas reglamentē vienotu azartspēļu un izložu organizācijas grāmatvedības uzskaites kārtību.
