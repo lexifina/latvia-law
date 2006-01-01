@@ -5,7 +5,7 @@
 2) pazeminātu braukšanas maksu (dzelzceļa tarifu) un īpašus nosacījumus attiecībā uz atsevišķām pasažieru kategorijām vai attiecībā uz atsevišķiem dzelzceļa maršrutiem, reģioniem;
 3) pa kalpojumu pielāgošanu reālajam tirgus pieprasījumam un citiem faktoriem.
 (3) Dzelzceļa pārvadājumu pasūtījumus pārvadātājs izpilda uz līguma pamata.
-(4) Dzelzceļa pārvadājumu pasūtītājs valsts vārdā var būt ieinteresētās ministrijas, pašvaldības vārdā - attiecīgā pašvaldība vai vairākas pašvaldības kopīgi.
+(4) Dzelzceļa pārvadājumu pasūtītājs valsts vārdā var būt Autotransporta direkcija un ieinteresētās ministrijas, pašvaldības vārdā - attiecīgā pašvaldība vai vairākas pašvaldības kopīgi.
 (5) Dzelzceļa pārvadājumu pasūtījuma līguma projektu sagatavo pasūtītājs, saskaņojot to ar pārvadātāju, ieinteresētajām ministrijām un institūcijām vai attiecīgo pašvaldību.
 (6) Dzelzceļa kravu pārvadājumu pasūtījuma līguma projekts iesniedzams saskaņošanai Valsts dzelzceļa administrācijā.
 (7) Kārtību, kādā saskaņojami un slēdzami dzelzceļa pasažieru pārvadājumu pasūtījumu līgumi, nosaka Ministru kabinets.

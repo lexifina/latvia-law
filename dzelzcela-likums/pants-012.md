@@ -22,7 +22,9 @@
 (7) Nosakot maksu par publiskās lietošanas dzelzceļa infrastruktūras izmantošanu pārvadājumiem, jāņem vērā šīs infrastruktūras uzturēšanai paredzētie valsts budžeta līdzekļi.
 (8) Maksu par dzelzceļa infrastruktūras izmantošanu iekasē dzelzceļa infrastruktūras pārvaldītājs.
 (9) Valsts publiskās lietošanas dzelzceļa infrastruktūras pārvaldītājs saņemto maksu par valsts publiskās lietošanas dzelzceļa infrastruktūras izmantošanu iemaksā dzelzceļa infrastruktūras fondā.
-(10) Maksu par dzelzceļa infrastruktūras izmantošanu nedrīkst noteikt institūcija (komercsabiedrība), kas sniedz arī pārvadājumu pakalpojumus.
+(10) Maksu par dzelzceļa infrastruktūras izmantošanu nedrīkst noteikt:
+1) institūcija (komercsabiedrība), kura sniedz arī dzelzceļa pārvadājumu pakalpojumus;
+2) publiskās lietošanas dzelzceļa infrastruktūras pārvaldītājs, kurš ietilpst vienā koncernā ar dzelzceļa pārvadājumu pakalpojumu sniedzēju.
 (11) Dzelzceļa infrastruktūras pārvaldītājam un pārvadātājam var kompensēt tās vides aizsardzības, negadījumu un infrastruktūras izmaksas, kuras nesedz konkurējošie transporta veidi. Katrā konkrētā gadījumā Ministru kabinets pieņem lēmumu par kompensācijas piešķiršanu, tās apmēru un izmaksāšanas kārtību.
 (12) Pārvadātājam ir tiesības saņemt kompensāciju par zaudējumiem, kas tam radušies dzelzceļa infrastruktūras darbības traucējumu dēļ.
 (13) Publiskās lietošanas dzelzceļa infrastruktūras pārvaldītāja un pārvadātāju strīdus par publiskās lietošanas dzelzceļa infrastruktūras izmantošanas maksas iekasēšanu izskata un abām pusēm saistošus lēmumus pieņem Sabiedrisko pakalpojumu regulēšanas komisija, informējot par to Valsts dzelzceļa administrāciju.
