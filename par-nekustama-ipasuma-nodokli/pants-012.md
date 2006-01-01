@@ -1,2 +1,2 @@
 12.pants. Atsevišķu likuma normu piemērošanas kārtība
-Atsevišķu likuma normu piemērošanas kārtību reglamentē Ministru kabineta noteikumi, kuros ietverta likuma normu interpretācija un skaidrojoši piemēri.
+Papildus šajā likumā Ministru kabinetam dotajam pilnvarojumam Ministru kabinets apstiprina nodokļa maksāšanas paziņojuma paraugu un nosaka kārtību ar nodokli apliekamā un neapliekamā objekta, nodokļa maksātāju noteikšanai un datu iesniegšanai Valsts zemes dienestam, kā arī nodokļa aprēķināšanas un uzskaites, nodokļa maksāšanas un atvieglojumu piemērošanas kārtību.

@@ -20,10 +20,10 @@
 10) kapsētu teritoriju zemi un ar to saistītās būves, sēru ceremoniju būves, krematorijas un zemi to uzturēšanai;
 11) valstij un pašvaldībām piekritīgo nekustamo īpašumu, kas nav nodots lietošanā vai iznomāts;
 12) ēkas, kuras izmanto tikai lauksaimnieciskajai ražošanai;
-13) saimnieciskās darbības veikšanai paredzētās uzceltās vai rekonstruētās ēkas, - vienu gadu, skaitot no nākamā mēneša kopš to nodošanas ekspluatācijā. Ja saimnieciskā darbība uzsākta pirms ēkas nodošanas ekspluatācijā, tad vienu gadu, skaitot no nākamā mēneša kopš saimnieciskās darbības uzsākšanas;
-14) valsts īpašumā esošās ēkas vai to daļas, kuras izmanto Nacionālo bruņoto spēku, soda izciešanas iestāžu, policijas, robežsardzes, ugunsdrošības un glābšanas dienestu, kā arī valsts drošības iestāžu funkciju izpildes nodrošināšanai;
-15) ēkas vai to daļas, kuras izmanto no valsts budžeta finansētās iestādes;
-16) ēkas vai to daļas, kuras izmanto izglītības, veselības, sociālās aprūpes vai kultūras (izņemot kinoteātrus un videotēkas) vajadzībām;
-17) ēkas vai to daļas, kuras izmanto dabas aizsardzības vajadzībām;
-18) sabiedriskajām organizācijām un to uzņēmumiem piederošas ēkas saskaņā ar Ministru kabineta apstiprinātu sarakstu.
+13) saimnieciskās darbības veikšanai paredzētās uzceltās vai rekonstruētās ēkas - vienu gadu, skaitot no nākamā mēneša kopš to nodošanas ekspluatācijā. Ja saimnieciskā darbība uzsākta ēkas daļā (telpu grupā) pirms visas ēkas nodošanas ekspluatācijā, tad vienu gadu, skaitot no nākamā mēneša kopš ēkas daļas (telpu grupas) nodošanas ekspluatācijā;
+14) valsts īpašumā esošās ēkas vai to daļas (telpu grupas), kuras izmanto Nacionālo bruņoto spēku, soda izciešanas iestāžu, policijas, robežsardzes, ugunsdrošības un glābšanas dienestu, kā arī valsts drošības iestāžu funkciju izpildes nodrošināšanai;
+15) ēkas vai to daļas (telpu grupas), kuras izmanto no valsts budžeta finansētās iestādes;
+16) ēkas vai to daļas (telpu grupas), kuras izmanto izglītības, veselības, sociālās aprūpes vai kultūras (izņemot kinoteātrus un videotēkas) vajadzībām;
+17) ēkas vai to daļas (telpu grupas), kuras izmanto dabas aizsardzības vajadzībām;
+18) biedrībām un nodibinājumiem piederošas ēkas un būves saskaņā ar Ministru kabineta noteiktajiem kritērijiem un apstiprināto sarakstu.
 (3) Ja šā panta otrās daļas 4., 6. un 9.punktā minētais nekustamais īpašums daļēji tiek izmantots saimnieciskajā darbībā vai iznomāts, ar nodokli apliekama attiecīgā nekustamā īpašuma daļa.

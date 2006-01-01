@@ -1,0 +1,1 @@
+19. Līdz šā likuma 12.pantā paredzēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2006.gada 1.jūlijam ir spēkā Ministru kabineta 2000.gada 4.aprīļa noteikumi Nr.131 "Likuma "Par nekustamā īpašuma nodokli" normu piemērošanas noteikumi", ciktāl tie nav pretrunā ar šo likumu.
