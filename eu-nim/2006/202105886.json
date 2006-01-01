@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2005. gada 15. novembra noteikumi Nr. 869 \"Juridiskās palīdzības administrācijas nolikums\".",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "186",
+  "official_journal_page": null,
+  "official_journal_date": "2005-11-22",
+  "entry_into_force": "2006-01-01",
+  "notification_date": "2021-08-05",
+  "commission_reference": "MNE(2021)05886",
+  "nim_celex": "72019L0713LVA_202105886",
+  "nim_id": "202105886",
+  "transposes_celex": [
+    "32019L0713"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/561e2a56-f686-11eb-9037-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
