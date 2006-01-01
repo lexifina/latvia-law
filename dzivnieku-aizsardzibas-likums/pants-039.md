@@ -1,1 +1,2 @@
-39.pants. Pašvaldības izveido un uztur dzīvnieku patversmes, kā arī slēdz līgumus ar juridisko vai fizisko personu pārraudzībā esošajām dzīvnieku patversmēm par klaiņojošu dzīvnieku izmitināšanu un aprūpi.
+39.pants. (1) Vietējās pašvaldības izveido un uztur dzīvnieku patversmes, izķer, izmitina un aprūpē klaiņojošus un konfiscētus mājas (istabas) dzīvniekus, kā arī izmitina un aprūpē bezpalīdzīgā stāvoklī nonākušus savvaļas dzīvniekus vai arī slēdz līgumu ar fizisko vai juridisko personu par šādu dzīvnieku izmitināšanu, uzturēšanu un aprūpi.
+(2) Vietējās pašvaldības organizē bezsaimnieku dzīvnieku līķu aizgādāšanu uz dzīvnieku kapsētām vai kremēšanas vietām un tos apglabā vai kremē saskaņā ar normatīvo aktu prasībām par dzīvnieku kapsētu uzturēšanu.
