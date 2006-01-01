@@ -1,0 +1,1 @@
+51.pants. Jaunu nekustamo īpašumu Kadastra informācijas sistēmā reģistrē, to veidojot no šajā sistēmā reģistrētiem nekustamā īpašuma objektiem, kuri neietilpst neviena nekustamā īpašuma sastāvā saskaņā ar šā likuma 20.panta 2.punktu, vai mainot Kadastra informācijas sistēmā reģistrēta nekustamā īpašuma sastāvu saskaņā ar šā likuma 33.panta 2. un 4.punktu.

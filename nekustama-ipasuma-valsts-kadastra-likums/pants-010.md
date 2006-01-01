@@ -1,0 +1,3 @@
+10.pants. (1) Kadastra objekta formēšana ir process, kas ietver nekustamā īpašuma objekta vai zemes vienības daļas noteikšanu un nekustamā īpašuma veidošanu, ievērojot šā likuma un citu normatīvo aktu prasības.
+(2) Nekustamā īpašuma objekta vai zemes vienības daļas noteikšana ir darbības, kuras personas veic, lai Kadastra informācijas sistēmā reģistrētu nekustamā īpašuma objektu vai zemes vienības daļu vai aktualizētu reģistrēta nekustamā īpašuma objekta vai zemes vienības daļas kadastra datus.
+(3) Nekustamā īpašuma veidošana ir darbības, kuras personas veic, lai Kadastra informācijas sistēmā reģistrētu jaunu nekustamo īpašumu kā nekustamā īpašuma objektu kopumu, ko veido viens vai vairāki nekustamā īpašuma objekti, vai grozītu nekustamā īpašuma sastāvu.

@@ -1,0 +1,1 @@
+14.pants. Kadastra subjekts obligāti ierosina, lai par nekustamā īpašuma objektu tiek noteikta būve, ko saskaņā ar likumu "Par nekustamā īpašuma ierakstīšanu zemesgrāmatās" ieraksta zemesgrāmatā vai saskaņā ar likumu "Par nekustamā īpašuma nodokli" apliek ar nekustamā īpašuma nodokli.

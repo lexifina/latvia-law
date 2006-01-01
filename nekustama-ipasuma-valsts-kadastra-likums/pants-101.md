@@ -1,0 +1,1 @@
+101.pants. Par kadastra informācijas sagatavošanu, izmantošanu un pieejamības nodrošināšanu (izņemot šā likuma 98.pantā minētos gadījumus), kā arī statistiskās un analītiskās informācijas sagatavošanu, izmantojot kadastra informāciju, pieprasītājs maksā Ministru kabineta noteiktajā kārtībā un normatīvajos aktos noteiktajā apmērā.

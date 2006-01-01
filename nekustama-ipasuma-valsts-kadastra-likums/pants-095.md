@@ -1,0 +1,1 @@
+95.pants. Ja šā likuma 93. un 94.pantā minētajos gadījumos kadastra datu labošanas dēļ mainās kadastra objekta sastāvs un kadastrālā vērtība, Valsts zemes dienests to paziņo (arī elektroniskā veidā) kadastra subjektam un vietējai pašvaldībai, kuras administratīvajā teritorijā atrodas nekustamais īpašums.

@@ -1,0 +1,3 @@
+13.pants. (1) Nekustamā īpašuma īpašniekam vai, ja tāda nav, - tiesiskajam valdītājam, vai, ja tāda nav, - lietotājam vai kadastra subjektam ir pienākums triju mēnešu laikā ierosināt nekustamā īpašuma objekta noteikšanu, ja kadastrālajā uzmērīšanā konstatēta Kadastra informācijas sistēmā nereģistrēta būve.
+(2) Kadastra subjektam ir pienākums triju mēnešu laikā ierosināt kadastra objekta kadastra datu aktualizāciju Kadastra informācijas sistēmā, ja mainīts nekustamā īpašuma sastāvs vai nekustamā īpašuma objektu raksturojošie dati.
+(3) Pieprasot kadastra informāciju, kadastra subjekts apliecina, ka nav mainīts nekustamā īpašuma sastāvs vai nekustamā īpašuma objektu raksturojošie dati.

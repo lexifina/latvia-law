@@ -1,0 +1,2 @@
+79.pants. (1) Lai noteiktu nekustamā īpašuma nodokļa objektu, vietējām pašvaldībām ir pienākums sniegt Valsts zemes dienestam ziņas par kadastra objektiem vai to daļām, ko saskaņā ar likumu "Par nekustamā īpašuma nodokli" apliek ar nekustamā īpašuma nodokli.
+(2) Valsts zemes dienests kadastra objektu vai tā daļu, ko saskaņā ar likumu "Par nekustamā īpašuma nodokli" apliek ar nekustamā īpašuma nodokli, ieraksta Kadastra informācijas sistēmā kā nekustamā īpašuma nodokļa objektu, ņemot vērā šā panta pirmajā daļā minēto informāciju.

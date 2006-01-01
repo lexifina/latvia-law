@@ -1,0 +1,2 @@
+94.pants. (1) Ja nekustamā īpašuma objekta noteikšanu normatīvajos aktos noteiktajā kārtībā ierosinājusi valsts institūcija vai vietējā pašvaldība, kadastra subjektam ir tiesības normatīvajos aktos noteiktajā kārtībā pieprasīt kļūdaino kadastra datu labošanu.
+(2) Šā panta pirmajā daļā minētajos gadījumos nekustamā īpašuma objekta kadastrālais uzmērītājs atkārtoti nosaka nekustamā īpašuma objektu un sedz ar to saistītos izdevumus.

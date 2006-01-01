@@ -1,0 +1,1 @@
+23.pants. Nekustamā īpašuma objekta vai zemes vienības daļas noteikšana ir pabeigta pēc nekustamā īpašuma objekta vai zemes vienības daļas datu reģistrācijas Kadastra informācijas sistēmā un noteikšanas dokumentu nodošanas Valsts zemes dienesta arhīvā.

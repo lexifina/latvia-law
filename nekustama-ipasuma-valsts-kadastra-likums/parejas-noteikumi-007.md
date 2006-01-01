@@ -1,0 +1,1 @@
+7. Dzīvokli, mākslinieka darbnīcu un neapdzīvojamo telpu līdz dzīvojamās mājas privatizācijai un ar to saistītās lietu tiesības reģistrē Kadastra informācijas sistēmā normatīvajos aktos noteiktajā kārtībā.

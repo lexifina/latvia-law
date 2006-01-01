@@ -1,0 +1,1 @@
+76.pants. Nekustamā īpašuma novērtējums kadastrā ir nekustamā īpašuma kadastrālās vērtības un nekustamā īpašuma sastāvā esošās mežaudzes vērtības summa. Mežaudzes vērtību Kadastra informācijas sistēmā ieraksta, pamatojoties uz Valsts meža dienesta ziņām.

@@ -1,0 +1,1 @@
+85.pants. Nekustamā īpašuma īpašnieks vai, ja tāda nav, - tiesiskais valdītājs, vai, ja tāda nav, - lietotājs ir tiesīgs reizi kalendāra gadā pieprasīt un bez maksas saņemt aktuālos kadastra datus par savu kadastra objektu.

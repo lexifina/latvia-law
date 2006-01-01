@@ -1,0 +1,1 @@
+97.pants. Izdevumus, kas saistīti ar Kadastra izveidošanu un uzturēšanu, sedz no valsts budžeta dotācijas no vispārējiem ieņēmumiem, maksas pakalpojumiem un citiem pašu ieņēmumiem, kā arī ārvalstu finanšu palīdzības līdzekļiem.

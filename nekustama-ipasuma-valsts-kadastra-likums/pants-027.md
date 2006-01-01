@@ -1,0 +1,1 @@
+27.pants. Kadastra informācijas sistēmā reģistrētas, ar robežzīmēm apvidū nostiprinātas zemes vienības platību, kas noteikta atbilstoši grafiskajiem materiāliem pieļaujamās nesaistes robežās, izmantojot vienus un tos pašus robežpunktus, aktualizē kadastrālās uzmērīšanas dokumentos un Kadastra informācijas sistēmā atbilstoši kadastrālajā uzmērīšanā noteiktajai platībai.

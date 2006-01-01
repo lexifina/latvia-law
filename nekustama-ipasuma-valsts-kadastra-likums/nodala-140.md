@@ -1,0 +1,2 @@
+Xlll nodaļa
+Kadastra finansēšana

@@ -1,0 +1,1 @@
+49.pants. Ja darījuma rezultātā nekustamo īpašumu iegūst cita persona, Kadastra informācijas sistēmā ieraksta ziņas par jauno valdītāju, saglabājot datus par īpašnieku līdz jaunas informācijas saņemšanai no valsts vienotās datorizētās zemesgrāmatas.

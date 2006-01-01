@@ -1,0 +1,5 @@
+55.pants. (1) Kadastra objektu un kadastra datus reģistrē, kā arī kadastra datus aktualizē Valsts zemes dienests.
+(2) Ja Valsts zemes dienests pieņem lēmumu atteikt kadastra objekta vai kadastra datu reģistrāciju vai kadastra datu aktualizāciju, tas iesniedzēju informē par atteikumu, norādot tā iemeslu. Lēmumu par atteikumu pieņem šādos gadījumos:
+1) dokumenti nesatur ziņas, kas nepieciešamas kadastra objekta vai kadastra datu reģistrācijai vai kadastra datu aktualizācijai;
+2) nekustamā īpašuma objekta noteikšanas dokumentu sagatavošanā nav izmantota šā likuma 17.pantā minētā pamatinformācija pēc stāvokļa kadastrālās uzmērīšanas uzsākšanas dienā.
+(3) Ja personas iesniegtie vai uzrādītie dokumenti satur ziņas, kas ir pretrunā ar valsts informācijas sistēmas datiem, tad kadastra objekta vai kadastra datu reģistrāciju un kadastra datu aktualizāciju atliek līdz apstiprinājuma saņemšanai no attiecīgās valsts informācijas sistēmas. Ja Valsts zemes dienests apstiprinājumu no attiecīgās valsts informācijas sistēmas nesaņem, tas pieņem lēmumu atteikt kadastra objekta vai kadastra datu reģistrāciju vai kadastra datu aktualizāciju.

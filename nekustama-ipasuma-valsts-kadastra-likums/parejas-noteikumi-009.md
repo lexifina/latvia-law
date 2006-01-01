@@ -1,0 +1,1 @@
+9. Pirms šā likuma spēkā stāšanās sagatavotie un izsniegtie kadastra objektu formēšanas un kadastra dokumenti ir spēkā. Sagatavoto kadastra objektu formēšanas un kadastra dokumentu arhīva eksemplārus glabā Valsts zemes dienesta arhīvā.

@@ -1,0 +1,1 @@
+80.pants. Valsts zemes dienests no Kadastra informācijas sistēmas normatīvajos aktos noteiktajā kārtībā un termiņos sagatavo un iesniedz vietējām pašvaldībām informāciju par nekustamā īpašuma nodokļa objektiem un maksātājiem.

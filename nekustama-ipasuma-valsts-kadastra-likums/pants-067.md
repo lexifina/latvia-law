@@ -1,0 +1,1 @@
+67.pants. Kadastrālo vērtību bāze ir kadastrālās vērtības aprēķinam nepieciešamo vērtību raksturojošo datu kopums - bāzes vērtības un korekcijas koeficienti, kas, pamatojoties uz nekustamā īpašuma tirgus datu analīzi, noteikts kadastra objektu grupai vērtību ziņā nosacīti viendabīgā teritorijā - zonā.

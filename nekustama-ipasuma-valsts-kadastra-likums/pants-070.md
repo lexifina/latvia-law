@@ -1,0 +1,1 @@
+70.pants. Valsts zemes dienests uzskaita un analizē nekustamā īpašuma tirgus cenas un nomas maksas un nosaka nekustamā īpašuma cenu līmeni. Lai uzkrātu un apstrādātu informāciju par nekustamā īpašuma tirgus darījumiem, Kadastra informācijas sistēmā uztur nekustamā īpašuma tirgus datu bāzi.

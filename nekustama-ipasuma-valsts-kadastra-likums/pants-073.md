@@ -1,0 +1,1 @@
+73.pants. Kadastra objekta kadastrālā vērtība ir aktuāla līdz jaunas kadastrālo vērtību bāzes spēkā stāšanās brīdim vai līdz šā likuma 71.panta 2., 3. vai 4.punktā minēto kadastra datu izmaiņu reģistrācijai Kadastra informācijas sistēmā.

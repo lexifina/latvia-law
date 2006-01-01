@@ -1,0 +1,1 @@
+10. Privatizācijas procesā īpašumā vai valdījumā iegūtā būve līdz īpašuma tiesību nostiprināšanai zemesgrāmatā uzskatāma par kadastra objektu, kuram var veikt nekustamā īpašuma veidošanu šā likuma 33.pantā noteiktajā kārtībā.

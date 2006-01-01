@@ -1,0 +1,1 @@
+59.pants. Kadastra informācijas sistēmā tās darbības nodrošināšanai, kadastra objektu un kadastra datu sistematizācijai, uzskaitei, reģistrācijai, vērtēšanai uztur normatīvajos aktos noteiktajā kārtībā apstiprinātas klasifikācijas un klasifikatorus, kā arī veido un uztur lokālas klasifikācijas un klasifikatorus.

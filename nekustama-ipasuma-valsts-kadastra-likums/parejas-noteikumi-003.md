@@ -1,0 +1,1 @@
+3. Normatīvajos aktos noteiktajā kārtībā zemes mērniecības darbu veikšanas licences izsniedz līdz 2007.gada 31.decembrim. Līdz 2007.gada 31.decembrim izsniegtās zemes mērniecības darbu veikšanas licences un sertifikāti ir spēkā līdz dokumentā norādītajam termiņam, bet ne ilgāk kā līdz 2010.gada 31.decembrim.

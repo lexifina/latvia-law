@@ -1,0 +1,1 @@
+4.pants. Kadastra informācijas sistēmā reģistrē un uztur Kadastra teksta un telpiskos datus par kadastra objektiem, kas atrodas valsts teritorijā, vienlaikus saglabājot vēsturiskos datus. Kadastra informācijas sistēmā ieraksta ziņas par kadastra subjektiem, nekustamā īpašuma nodokļa objektiem un maksātājiem.

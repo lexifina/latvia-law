@@ -1,0 +1,1 @@
+48.pants. Pēc kadastra subjekta pieprasījuma Kadastra informācijas sistēmā ieraksta šā likuma 44.pantā minētās ziņas par iznomātu nekustamā īpašuma objektu, bet attiecībā uz zemes vienības daļu - šā likuma 50.pantā minētās ziņas, norādot nomnieku.

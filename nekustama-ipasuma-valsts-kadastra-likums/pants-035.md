@@ -1,0 +1,1 @@
+35.pants. Ja zemes vienība un zemes īpašniekam piederošās būves ir reģistrētas Kadastra informācijas sistēmā kā vienots nekustamais īpašums, tad, dalot nekustamo īpašumu, būve nav atdalāma no zemes vienības, uz kuras tā atrodas.

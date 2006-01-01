@@ -1,0 +1,1 @@
+12.pants. Kadastra objekta formēšanu, izņemot šā likuma 18.panta 3.punktā minēto zemes vienības un zemes vienības daļas kadastrālo uzmērīšanu un 18.panta 4.punktā minētās darbības, veic Valsts zemes dienests.

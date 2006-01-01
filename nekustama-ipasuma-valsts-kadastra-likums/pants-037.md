@@ -1,0 +1,1 @@
+37.pants. Veidojot jaunu nekustamo īpašumu vai dzēšot ierakstu par nekustamo īpašumu, vienlaikus groza tā reģistrētā nekustamā īpašuma sastāvu, kuram pievieno vai no kura atdala nekustamo īpašumu vai nekustamā īpašuma objektu, kā arī to raksturojošos datus un aktualizē datus Kadastra informācijas sistēmā.

@@ -1,0 +1,1 @@
+6. Līdz zemes reformas pabeigšanai lietotājs, kas šā likuma izpratnē ir arī normatīvajos aktos par zemes reformu noteiktais zemes lietotājs, ir tiesīgs ierosināt nekustamā īpašuma veidošanu šā likuma 34.pantā minētajā kārtībā vai zemes vienības daļas noteikšanu šā likuma 24.panta trešajā daļā noteiktajā kārtībā.
