@@ -1,0 +1,1 @@
+2.Līdz šā likuma 8.panta trešajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2006.gada 1.aprīlim ir spēkā Ministru kabineta 2003.gada 16.decembra noteikumi Nr.715 "Latvijas vides aizsardzības fonda administrācijas nolikums", ciktāl tie nav pretrunā ar šo likumu.
