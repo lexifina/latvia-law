@@ -1,6 +1,6 @@
 2. pants. Sociālās drošības sistēmas darbības pamatprincipi
 Sociālās drošības sistēma darbojas saskaņā ar šādiem pamatprincipiem:
-1) sociālo pakalpojumu vienlīdzīga garantēšana neatkarīgi no dzimuma, rases, tautības, reliģiskās pārliecības;
+1) atšķirīgas attieksmes aizliegums;
 2) solidaritāte;
 3) sociālā apdrošināšana un palīdzība;
 4) profilakse;
