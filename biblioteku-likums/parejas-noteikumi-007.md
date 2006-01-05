@@ -1,0 +1,1 @@
+7. Šā likuma 15.panta otrās daļas 4.punkts, 17.panta otrās daļas 10.punkts un 23.panta trešā daļa stājas spēkā 2007.gada 1.janvārī, ja ir paredzēta valsts budžeta mērķdotācija atbilstoši pašvaldību pieprasījumam šo normu realizācijai pašvaldību bibliotēkās un lauku bibliotēku interneta pieslēgumu abonēšanai.

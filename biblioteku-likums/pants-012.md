@@ -1,6 +1,6 @@
 12.pants. Reģiona galvenā bibliotēka
 (1) Bibliotēku var akreditēt kā reģiona galveno bibliotēku, ja tā papildus šā likuma 9.panta otrajā daļā minētajam atbilst šādiem nosacījumiem:
-1) bibliotēka ir patstāvīga juridiskā persona;
+1) (izslēgts ar 08.12.2005. likumu);
 2) tās krājums ir universāls un tiek veidots atbilstoši attiecīgās administratīvās teritorijas attīstības interesēm;
 3) tā nodrošina sava krājuma, datu bāzu un informācijas sistēmu, kā arī citu bibliotēku krājumu pieejamību ikvienam lietotājam, izmantojot starpbibliotēku abonementu pakalpojumus;
 4) tā veido attiecīgās administratīvās teritorijas bibliotēku krājuma kopkatalogu un nodrošina tā pieejamību ikvienai no šīm bibliotēkām;

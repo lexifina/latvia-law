@@ -11,11 +11,11 @@
 9) izmantot maksas pakalpojumu, ziedojumu vai dāvinājumu, kā arī saimnieciskās darbības rezultātā iegūtos līdzekļus bibliotēkas darbības attīstīšanai - darbinieku profesionālo zināšanu pilnveidošanai, zinātniskās pētniecības darba nodrošināšanai, bibliotēkas krājuma papildināšanai, darbinieku materiālajai stimulēšanai un darba procesu uzlabošanai;
 10) slēgt civiltiesiskus darījumus, lai nodrošinātu bibliotēkas krājuma saglabāšanu, papildināšanu, darbinieku kvalifikācijas pilnīgošanu, pakalpojumu sniegšanu lietotājiem un citu šā likuma 15.pantā minēto pienākumu veikšanu;
 11) apvienoties asociācijās, apvienībās, biedrībās un citās sabiedriskajās organizācijās;
-12) reproducēt izdevumu kopijas, ievērojot likuma "Par autortiesībām un blakustiesībām" prasības;
+12) reproducēt izdevumu kopijas, ievērojot Autortiesību likuma prasības;
 13) uzturēt starpbibliotēku abonementu sakarus, veikt iespieddarbu un citu dokumentu apmaiņu ar Latvijas Republikas un ārvalstu bibliotēkām, citām juridiskajām un fiziskajām personām;
 14) saņemt metodisko palīdzību profesionālās darbības jautājumos;
 15) uz laiku izvest bibliotēkas krājumā esošus iespieddarbus un citus dokumentus uz ārvalstīm, ievērojot šā likuma un likuma "Par kultūras pieminekļu aizsardzību" prasības;
-16) valsts teritorijā bez maksas pārsūtīt starpbibliotēku abonementa ietvaros citu bibliotēku pieprasītus iespieddarbus un citus dokumentus;
-17) saņemt atlaidi 50 procentu apmērā starptautiskā starpbibliotēku abonementa ietvaros par bibliotēku pasta sūtījumiem (iespieddarbu un citu dokumentu sūtījumi) uz ārvalstīm;
+16) (izslēgts ar 08.12.2005. likumu);
+17) (izslēgts ar 08.12.2005. likumu);
 18) patstāvīgi sadarboties ar bibliotēkām ārvalstīs, iestāties starptautiskajās bibliotēku organizācijās un piedalīties to darbībā.
-(2) Poligrāfisko un citu izdevumu bezmaksas obligāto eksemplāru piegādes likumā noteiktajām bibliotēkām ir tiesības saņemt no izdevējiem iespieddarbu un cita veida izdevumu bezmaksas obligātos eksemplārus noteiktā skaitā.
+(2) Izdevumu obligāto eksemplāru piegādi regulējošā likumā noteiktajām bibliotēkām ir tiesības saņemt no izdevējiem iespieddarbu un cita veida izdevumu bezmaksas obligātos eksemplārus noteiktā skaitā.

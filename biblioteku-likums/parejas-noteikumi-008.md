@@ -1,0 +1,1 @@
+8. Līdz 2007.gada 1.janvārim dibinātājs budžeta līdzekļu ietvaros nodrošina katrā valsts un pašvaldības bibliotēkā ne mazāk kā vienu datora darbstaciju bezmaksas pieejai internetam un vispārpieejamiem elektroniskās informācijas resursiem.

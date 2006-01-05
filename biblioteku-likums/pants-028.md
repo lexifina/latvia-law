@@ -10,4 +10,4 @@
 8) sniedz atzinumus bibliotēku darbinieku profesionālās izglītības un tālākizglītības jautājumos;
 9) sniedz atzinumus par bibliotēku darbību regulējošiem normatīvo aktu projektiem.
 (2) Latvijas Bibliotēku padomes atzinumi ir pieejami ikvienai ieinteresētai personai.
-(3) Valsts un pašvaldību institūcijas un bibliotēkas savā darbībā ievēro Latvijas Bibliotēku padomes atzinumus.
+(3) (Izslēgta ar 08.12.2005. likumu)

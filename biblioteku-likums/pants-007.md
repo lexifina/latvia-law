@@ -1,3 +1,4 @@
-7.pants. Bibliotēkas juridiskais statuss
-(1) Bibliotēkas juridisko statusu nosaka tās dibinātājs. Bibliotēka var būt patstāvīga juridiskā persona vai kādas citas juridiskās personas struktūrvienība.
-(2) Valsts un pašvaldību dibinātās (izņemot valsts vai pašvaldības iestāžu dibinātās) bibliotēkas ir patstāvīgas juridiskās personas. Tām ir savs zīmogs ar pilnu bibliotēkas nosaukumu, kā arī konti kredītiestādēs.
+7.pants. Bibliotēku juridiskais statuss
+(1) Valsts bibliotēka ir Ministru kabineta izveidota iestāde vai tās struktūrvienība, kā arī atvasināto publisko tiesību juridiskās personas (izņemot pašvaldības) izveidota iestāde (aģentūra) vai tās struktūrvienība, kuras valdījumā atrodas bibliotēkas krājums.
+(2) Pašvaldības bibliotēka ir pašvaldības izveidota iestāde vai tās struktūrvienība, kuras valdījumā atrodas bibliotēkas krājums.
+(3) Privāta bibliotēka ir privāto tiesību juridiskā persona, kuras īpašumā vai valdījumā atrodas bibliotēkas krājums. Privātās bibliotēkas juridisko statusu nosaka tās dibinātājs.
