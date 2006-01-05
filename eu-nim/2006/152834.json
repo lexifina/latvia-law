@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi likumā “Par sociālo drošību”",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "205",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-22",
+  "entry_into_force": "2006-01-05",
+  "notification_date": "2008-01-16",
+  "commission_reference": "MNE(2008)50462",
+  "nim_celex": "72004L0113LVA_152834",
+  "nim_id": "152834",
+  "transposes_celex": [
+    "32004L0113"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f167e901-0134-4905-8313-f936a02c1a53",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
