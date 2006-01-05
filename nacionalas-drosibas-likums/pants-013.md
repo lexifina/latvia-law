@@ -1,5 +1,5 @@
 13.pants. Iekšlietu ministrijas kompetence
-Iekšlietu ministrija un tās pakļautībā un pārraudzībā esošās institūcijas:
+Iekšlietu ministrija un tās padotībā esošās institūcijas:
 1) izstrādā un īsteno valsts iekšlietu politiku;
 2) sargā sabiedrisko kārtību un drošību;
 3) aizsargā personu tiesības un likumīgās intereses;
