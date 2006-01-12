@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Likumā par Valsts cilvēktiesību biroju",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "209",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-29",
+  "entry_into_force": "2006-01-12",
+  "notification_date": "2006-02-03",
+  "commission_reference": "MNE(2006)50795",
+  "nim_celex": "72000L0043LVA_128082",
+  "nim_id": "128082",
+  "transposes_celex": [
+    "32000L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7eef0155-8a2a-493e-aa36-a72c4f7be9b5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
