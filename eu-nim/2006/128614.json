@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Patentu likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "209",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-29",
+  "entry_into_force": "2006-01-12",
+  "notification_date": "2006-02-17",
+  "commission_reference": "MNE(2006)51153",
+  "nim_celex": "71998L0044LVA_128614",
+  "nim_id": "128614",
+  "transposes_celex": [
+    "31998L0044"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bd9351c0-8243-40ce-b360-3698672d9da1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
