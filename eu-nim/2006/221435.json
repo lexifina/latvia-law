@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2005.gada 27.decembra Ministru kabineta noteikumi Nr.1047 \n\"Noteikumi par autoceļiem neparedzētās mobilās tehnikas iekšdedzes motoru radīto piesārņojošo vielu emisiju gaisā\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "8 (3376)",
+  "official_journal_page": null,
+  "official_journal_date": "2006-01-13",
+  "entry_into_force": "2006-01-14",
+  "notification_date": "2014-11-26",
+  "commission_reference": "MNE(2014)56600",
+  "nim_celex": "72012L0046LVA_221435",
+  "nim_id": "221435",
+  "transposes_celex": [
+    "32012L0046"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7c7157e0-4df3-4d22-8b99-5991136390ee",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
