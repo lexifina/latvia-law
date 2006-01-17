@@ -1,0 +1,3 @@
+5.pants. Latvijas Muzeju padome un tās sastāvs
+(1) Latvijas Muzeju padome (turpmāk - Muzeju padome) ir konsultatīva institūcija, kas izveidota, lai veicinātu institūciju sadarbību un lēmumu pieņemšanu jautājumos, kuri saistīti ar valsts stratēģiju muzeju jomā, kā arī ar muzeju darbību un Nacionālā krājuma veidošanu un saglabāšanu.
+(2) Muzeju padomes sastāvā ir 15 locekļu: astoņi Rīgas un Rīgas rajona akreditēto muzeju deleģēti pārstāvji, četri Latvijas novadu akreditēto muzeju deleģēti pārstāvji (pa vienam no katra novada), viens Latvijas Pašvaldību savienības deleģēts pārstāvis, viens Latvijas Muzeju asociācijas deleģēts pārstāvis un kultūras ministrs (vai viņa deleģēts pārstāvis).

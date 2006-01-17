@@ -1,0 +1,5 @@
+1.Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2006.gada 30.jūnijam piemērojami šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:
+1) Ministru kabineta 1998.gada 21.jūlija noteikumi Nr.265 "Latvijas Muzeju padomes nolikums" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1998, 18.nr.);
+2) Ministru kabineta 1998.gada 18.augusta noteikumi Nr.311 "Noteikumi par Nacionālo muzeju krājumu" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1998, 18.nr.);
+3) Ministru kabineta 1998.gada 27.oktobra noteikumi Nr.420 "Kārtība, kādā Kultūras ministrija akreditētajiem muzejiem piešķir valsts budžetā speciāli paredzētos līdzekļus īpašu kultūrvēsturisku, tēlotājas mākslas un citu nacionāli nozīmīgu projektu un programmu realizēšanai" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1998, 22.nr.);
+4) Ministru kabineta 2004.gada 30.marta noteikumi Nr.196 "Muzeju akreditācijas noteikumi" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2004, 11.nr.).

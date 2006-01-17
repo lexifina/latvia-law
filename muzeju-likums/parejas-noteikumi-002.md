@@ -1,0 +1,1 @@
+2.Autonomajiem muzejiem, kas ir atvasinātas publisko tiesību juridiskās personas (izņemot pašvaldības) izveidota publiska aģentūra (iestāde) vai šīs publiskās aģentūras (iestādes) struktūrvienība, ir pienākums nokārtot akreditāciju triju gadu laikā no šā likuma spēkā stāšanās dienas.
