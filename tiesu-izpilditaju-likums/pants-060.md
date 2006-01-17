@@ -1,3 +1,7 @@
-60.pants. Latvijas Zvērinātu tiesu izpildītāju padomes lēmums disciplinārlietā stājas spēkā, ja tieslietu ministrs mēneša laikā no padomes lēmuma pieņemšanas dienas nepaziņo, ka pret zvērinātu tiesu izpildītāju:
-1) ierosinātajā disciplinārlietā lēmums tiks pārskatīts;
-2) ierosinātā disciplinārlieta ir izbeigta.
+60.pants. (1) Disciplinārlietu komisijas sastāvā, kuru apstiprina tieslietu ministrs, ir:
+1) divi tieslietu ministrijas pārstāvji;
+2) divi zvērinātu tiesu izpildītāju kopsapulcē ievēlēti pārstāvji;
+3) viens Augstākās tiesas priekšsēdētāja norīkots Augstākās tiesas tiesnesis.
+(2) Disciplinārlietu komisijas priekšsēdētājs ir Tieslietu ministrijas pārstāvis.
+(3) Disciplinārlietu komisijas sastāvu apstiprina uz diviem gadiem.
+(4) Disciplinārlietu komisijas pārstāvjus var apstiprināt disciplinārlietu komisijas sastāvā ne vairāk kā divus termiņus pēc kārtas.

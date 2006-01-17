@@ -1,6 +1,6 @@
 119.pants. Tikai zvērinātu tiesu izpildītāju kopsapulce:
-1) nosaka Latvijas Zvērinātu tiesu izpildītāju padomes locekļu skaitu;
-2) ievēlē uz trijiem gadiem Latvijas Zvērinātu tiesu izpildītāju padomes priekšsēdētāju, priekšsēdētāja vietnieku, padomes locekļus un revīzijas komisiju;
+1) (izslēgts ar 22.12.2005. likumu);
+2) ievēlē uz trijiem gadiem Latvijas Zvērinātu tiesu izpildītāju padomes priekšsēdētāju, priekšsēdētāja vietnieku, padomes locekļus un revīzijas komisiju, kā arī divus disciplinārlietu komisijas locekļus;
 3) apstiprina Latvijas Zvērinātu tiesu izpildītāju padomes darbības pārskatu;
 4) apstiprina Latvijas Zvērinātu tiesu izpildītāju padomes kārtējā budžeta un iepriekšējā gada budžeta izpildes pārskatu;
 5) pieņem Latvijas Zvērinātu tiesu izpildītāju kolēģijas statūtus, revīzijas komisijas nolikumu, ētikas kodeksu;

@@ -1,1 +1,1 @@
-149.pants. Par ierakstu savlaicīgu un pareizu izdarīšanu, atbilstošo dokumentu aizpildīšanu un glabāšanu, kā arī par visām izmaksām no konta ir atbildīgs zvērināts tiesu izpildītājs.
+149.pants. Par savlaicīgu un pareizu ierakstu izdarīšanu depozītu summu uzskaites grāmatā, atbilstošo dokumentu aizpildīšanu un glabāšanu, kā arī par ierakstu atbilstību kredītiestādes depozīta konta izrakstam ir atbildīgs zvērināts tiesu izpildītājs.

@@ -1,1 +1,1 @@
-163.pants. Izpildu lietās esošos dokumentus un citus zvērināta tiesu izpildītāja rīcībā esošos dokumentus viņš glabā saskaņā ar likumu "Par arhīviem", lietvedību regulējošiem normatīvajiem aktiem un Zvērinātu tiesu izpildītāju padomes norādījumiem.
+163.pants. Izpildu lietās esošos dokumentus un citus zvērināta tiesu izpildītāja rīcībā esošos dokumentus viņš glabā saskaņā ar likumu "Par arhīviem", lietvedību regulējošiem normatīvajiem aktiem un Latvijas Zvērinātu tiesu izpildītāju padomes norādījumiem.

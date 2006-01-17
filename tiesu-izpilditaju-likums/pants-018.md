@@ -1,2 +1,3 @@
-18.pants. (1) Tieslietu ministrs pēc Latvijas Zvērinātu tiesu izpildītāju padomes priekšlikuma nosaka zvērināta tiesu izpildītāja eksāmena kārtību, eksaminācijas komisijas sastāvu, eksāmena jautājumus un minimālo zināšanu apjomu, kā arī nosaka eksāmena maksu.
-(2) Eksaminācijas komisija pēc tieslietu ministra rīkojuma veic arī zvērinātu tiesu izpildītāju kvalifikācijas pārbaudi (62.pants).
+18.pants. (1) Tieslietu ministrs pēc Latvijas Zvērinātu tiesu izpildītāju padomes priekšlikuma nosaka eksaminācijas komisijas sastāvu un eksāmena jautājumus.
+(2) Eksaminācijas komisija pēc tieslietu ministra rīkojuma veic arī zvērinātu tiesu izpildītāju kvalifikācijas pārbaudi (70.pants).
+(3) Zvērināta tiesu izpildītāja eksāmena kārtību, minimālo zināšanu apjomu un eksāmena maksu nosaka Ministru kabinets.

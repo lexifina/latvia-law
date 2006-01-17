@@ -1,0 +1,1 @@
+23.¹pants. Zvērināta tiesu izpildītāja amata pretendenti ir personas, kuras nokārtojušas zvērināta tiesu izpildītāja eksāmenu un kuru zvērināta tiesu izpildītāja eksāmena apliecībām nav beidzies derīguma termiņš. Šo personu uzskaiti veic tieslietu ministrs.

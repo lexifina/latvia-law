@@ -1,1 +1,2 @@
-59.pants. Latvijas Zvērinātu tiesu izpildītāju padome pēc tieslietu ministra pieprasījuma nosūta viņam visus attiecīgās disciplinārlietas materiālus.
+59.pants. (1) Tieslietu ministra vai Latvijas Zvērinātu tiesu izpildītāju padomes ierosinātās disciplinārlietas materiālus tieslietu ministrs nodod izskatīšanai disciplinārlietu komisijai.
+(2) Tieslietu ministrija nodrošina disciplinārlietu komisijas darbu.

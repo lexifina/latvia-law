@@ -1,0 +1,1 @@
+19. Šā likuma 73.panta pirmās daļas 9.punkts, kas nosaka tiesu izpildītāju pienākumu izpildīt nolēmumus par starptautisko organizāciju noteikto sankciju piespiedu izpildi, stājas spēkā 2007.gada 1.janvārī.

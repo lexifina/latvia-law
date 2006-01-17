@@ -1,2 +1,2 @@
 94.pants. (1) Atstājot zvērināta tiesu izpildītāja amatu, zvērināts tiesu izpildītājs sastāda sarakstu par lietvedībā esošajām lietām un grāmatām. Šo sarakstu pārbauda un paraksta Latvijas Zvērinātu tiesu izpildītāju padomes pārstāvis, norādot datumu. Ja nepieciešams, sarakstu par lietvedībā esošajām lietām un grāmatām sastāda Latvijas Zvērinātu tiesu izpildītāju padomes norīkots pārstāvis.
-(2) Atstājot zvērināta tiesu izpildītāja amatu, minētās lietas un grāmatas nododamas tieslietu ministra rīkojumā noteiktajām personām.
+(2) Atstājot zvērināta tiesu izpildītāja amatu, minētās lietas un grāmatas nododamas tieslietu ministra rīkojumā noteiktajai personai.

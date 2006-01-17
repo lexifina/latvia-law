@@ -1,1 +1,1 @@
-36.pants. Zvērinātam tiesu izpildītājam ir pienākums paziņot Latvijas Zvērinātu tiesu izpildītāju padomei par apdrošināšanas līguma noslēgšanu, kā arī par visiem grozījumiem tajā, par apdrošināšanas gadījuma iestāšanos, līguma darbības apturēšanu vai izbeigšanu.
+36.pants. Zvērinātam tiesu izpildītājam ir pienākums nekavējoties paziņot Latvijas Zvērinātu tiesu izpildītāju padomei par apdrošināšanas līguma noslēgšanu, kā arī par visiem grozījumiem noslēgtajā apdrošināšanas līgumā, par apdrošināšanas gadījuma iestāšanos, līguma darbības apturēšanu vai izbeigšanu.

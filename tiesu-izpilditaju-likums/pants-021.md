@@ -1,1 +1,1 @@
-21.pants. Iesniegumam pievienojami pierādījumi par pilsonību, valsts valodas prasmi, vecumu, izglītību un eksāmena nauda, ko atpakaļ neizmaksā.
+21.pants. Iesniegumam pievienojami pierādījumi par pilsonību, valsts valodas prasmi, vecumu, izglītību, darba pieredzi un kvīts, kas apliecina eksāmena naudas nomaksu. Eksāmena naudu atpakaļ neizmaksā.

@@ -1,2 +1,2 @@
 35.pants. (1) Zvērinātam tiesu izpildītājam apdrošināšanas līgums jānoslēdz, pirms viņš sācis pildīt savus pienākumus.
-(2) Apdrošināšanas līgums uzturams spēkā visu zvērināta tiesu izpildītāja amata darbības laiku.
+(2) Apdrošināšanas līgums uzturams spēkā visu zvērināta tiesu izpildītāja amata darbības laiku. Zvērinātam tiesu izpildītājam ir pienākums vismaz 10 dienas pirms individuālā apdrošināšanas līguma darbības termiņa beigām iesniegt Latvijas Zvērinātu tiesu izpildītāju padomei uz nākamo termiņu noslēgtā individuālā apdrošināšanas līguma kopiju.

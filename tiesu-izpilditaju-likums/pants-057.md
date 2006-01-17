@@ -1,3 +1,1 @@
-57.pants. Latvijas Zvērinātu tiesu izpildītāju padomei ir tiesības izskaidrot zvērinātam tiesu izpildītājam viņa rīcības nepareizību, kā arī par šā likuma 53.pantā minētajiem pārkāpumiem, uzņemto saistību vai uzlikto pienākumu nepildīšanu un rīcību, kas nav savienojama ar zvērināta tiesu izpildītāja darbību, uzlikt šādus disciplinārsodus:
-1) izteikt piezīmi;
-2) izteikt rājienu.
+57.pants. Ja persona iesniegusi sūdzību tiesā Civilprocesa likuma 632.panta kārtībā, jautājums par zvērināta tiesu izpildītāja saukšanu pie disciplināratbildības izskatāms pēc tam, kad likumīgā spēkā stājies tiesas nolēmums par attiecīgās zvērināta tiesu izpildītāja darbības atzīšanu par prettiesisku.
