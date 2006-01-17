@@ -1,1 +1,0 @@
-107.pants. Zvērinātu tiesu izpildītāju palīgus pēc viņu lūguma Latvijas Zvērinātu tiesu izpildītāju padome uzņem zvērinātu tiesu izpildītāju kandidātos. Ja zvērināta tiesu izpildītāja kandidātu atbrīvo vai atceļ no amata, viņš izslēdzams no zvērinātu tiesu izpildītāju kandidātu skaita.
