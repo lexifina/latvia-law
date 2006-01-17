@@ -1,1 +1,0 @@
-32.pants. Ne vēlāk kā 30 dienas pēc tam, kad pieņemts lēmums par reģistrācijas anulēšanu, Aģentūra vai - attiecībā uz veterinārajām zālēm - Pārtikas un veterinārais dienests attiecīgo lēmumu publicē laikrakstā "Latvijas Vēstnesis", kā arī rakstveidā paziņo par to zāļu reģistrācijas apliecības īpašniekam.

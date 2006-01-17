@@ -1,1 +1,1 @@
-26.pants. Zāļu un farmaceitisko produktu novērtēšanu, reģistrāciju un pārreģistrāciju veic Aģentūra. Veterināro zāļu un veterinārfarmaceitisko produktu novērtēšanas un reģistrācijas kārtību nosaka un reģistrāciju veic Pārtikas un veterinārais dienests, bet novērtēšanu organizē Pārtikas un veterinārā dienesta Veterinārfarmakoloģiskā padome.
+26.pants. Zāļu novērtēšanu, reģistrāciju, pārreģistrāciju un pēcreģistrācijas uzraudzību veic Zāļu valsts aģentūra.

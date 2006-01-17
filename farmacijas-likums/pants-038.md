@@ -2,4 +2,4 @@
 (2) Farmaceits un farmaceita asistents, kurš strādā aptiekā:
 1) reģistrējas Latvijas Farmaceitu biedrībā Ministru kabineta noteiktajā kārtībā un ievēro Latvijas Farmaceitu biedrības apstiprināto ētikas kodeksu;
 2) ceļ profesionālo kvalifikāciju, piedaloties Latvijas Farmaceitu biedrības atzītā tālākizglītības procesā.
-(3) Farmaceitam un farmaceita asistentam, kurš izglītību ieguvis valstī, kas nav Eiropas Savienības dalībvalsts un Eiropas ekonomiskās telpas valsts, un kuram nav Eiropas Savienības pilsonības vai Eiropas ekonomiskās telpas valsts pilsonības, un kura diploms ir atzīts normatīvajos aktos noteiktajā kārtībā, lai uzsāktu patstāvīgu praksi aptiekā, vismaz viens gads jānostrādā aptiekā farmaceita uzraudzībā.
+(3) Farmaceitam un farmaceita asistentam, kurš izglītību ieguvis valstī, kas nav Eiropas Savienības dalībvalsts un Eiropas Ekonomikas zonas valsts, kā arī citās valstīs, kā to paredz Saeimas apstiprinātie starptautiskie līgumi, un kura diploms ir atzīts likumā noteiktajā kārtībā, lai uzsāktu patstāvīgu praksi aptiekā, vismaz viens gads jānostrādā aptiekā farmaceita uzraudzībā.

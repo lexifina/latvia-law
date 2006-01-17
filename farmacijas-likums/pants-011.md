@@ -1,1 +1,1 @@
-11.pants. Līdzekļi Aģentūras pamatkapitāla izveidošanai un darbības uzsākšanai iegūstami Ministru kabineta noteiktajā kārtībā.
+11.pants. Zāļu cenu valsts aģentūra nodrošina par valsts budžeta vai pašvaldību budžetu līdzekļiem iepirkto zāļu un medicīnisko ierīču farmakoekonomisko novērtēšanu, zāļu farmakoterapijas ieteikumu izstrādi, kā arī ambulatorajai ārstniecībai paredzēto kompensējamo zāļu sarakstu veidošanu.
