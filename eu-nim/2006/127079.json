@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Jūras kodeksā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "1",
+  "official_journal_page": null,
+  "official_journal_date": "2006-01-03",
+  "entry_into_force": "2006-01-17",
+  "notification_date": "2006-01-06",
+  "commission_reference": "MNE(2006)50083",
+  "nim_celex": "71999L0063LVA_127079",
+  "nim_id": "127079",
+  "transposes_celex": [
+    "31999L0063"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/14c9cd35-96a0-475a-b7d1-0c8c618de149",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
