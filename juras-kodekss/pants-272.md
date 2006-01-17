@@ -1,2 +1,2 @@
-272.pants. Kuģa kapteiņa pilsonība
-Par Latvijas kuģa kapteini ir tiesīgs būt Latvijas pilsonis vai Latvijas nepilsonis, kā arī ārvalstnieks normatīvajos aktos paredzētajos gadījumos.
+272.pants. Kuģa kapteinis un apkalpes locekļi
+Par Latvijas kuģa kapteini un apkalpes locekli ir tiesīga būt jebkura atbilstoši Starptautiskās jūrniecības organizācijas 1978.gada Starptautiskajai konvencijai par jūrnieku sagatavošanu un diplomēšanu, kā arī sardzes pildīšanu (ar turpmākajiem grozījumiem) sertificēta fiziskā persona.

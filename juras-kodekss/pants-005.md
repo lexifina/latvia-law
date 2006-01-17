@@ -1,2 +1,5 @@
-5.pants. Kuģa karogs
-Latvijas kuģa karogs ir Latvijas valsts karogs.
+5.pants. Nosacījumi kuģu reģistrācijai Latvijā
+(1) Starptautiskā drošas pārvaldes kodeksa prasībām pakļautu kuģi reģistrē Kuģu reģistrā ar nosacījumu, ka tā tehnisko vadību veic Latvijas kuģa īpašnieks, vai uz šā kodeksa 13.pantā minētā kuģa menedžmenta līguma pamata uzdod to veikt Latvijā reģistrētai juridiskajai personai (turpmāk - Latvijas kuģa operators). Lai veiktu šāda kuģa tehnisko vadību, Latvijas kuģa īpašnieks vai Latvijas kuģa operators ir sertificēts atbilstoši Starptautiskā drošas pārvaldes kodeksa prasībām.
+(2) Kuģus, kuri nav pakļauti Starptautiskā drošas pārvaldes kodeksa prasībām, izņemot ārvalstu kuģu īpašnieku komercdarbībai paredzētos kuģus, reģistrē Kuģu reģistrā bez nosacījumiem par kuģu tehnisko vadību. Šādu ārvalstu kuģu īpašnieku kuģu tehnisko vadību uz kuģa menedžmenta līguma pamata veic Latvijas kuģa operators.
+(3) Tādas ārvalsts kuģa īpašnieka kuģi, kurai nav sava kuģu reģistra, reģistrē Kuģu reģistrā ar nosacījumu, ka kuģa tehnisko vadību uz kuģa menedžmenta līguma pamata veic Latvijas kuģa operators saskaņā ar šā panta pirmo daļu, ja šīs ārvalsts kompetenta valsts institūcija ir nodevusi savu karoga valsts funkciju veikšanu Latvijas Jūras administrācijai.
+(4) Ceļu satiksmes drošības direkcijas reģistrā kuģi reģistrē bez nosacījumiem par kuģa tehnisko vadību.

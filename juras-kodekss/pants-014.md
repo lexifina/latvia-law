@@ -1,5 +1,5 @@
 14.pants. Karoga pagaidu maiņa
-Ja, pamatojoties uz berbouta fraktēšanas līgumu, Latvijā reģistrētam kuģim atļauts uz laiku braukt zem citas valsts karoga vai arī citā valstī reģistrētam kuģim atļauts uz laiku braukt zem Latvijas karoga, attiecībā uz šo kuģi ievēro šādus noteikumus:
+Ja, pamatojoties uz berbouta līgumu, Latvijā reģistrētam kuģim atļauts uz laiku braukt zem citas valsts karoga vai arī citā valstī reģistrētam kuģim atļauts uz laiku braukt zem Latvijas karoga, attiecībā uz šo kuģi ievēro šādus noteikumus:
 1) atzīstot reģistrētās kuģa hipotēkas un citas tiesības, piemēro kuģa hipotēku reģistrācijas valsts normatīvos aktus;
 2) Kuģu reģistrā ieraksta valsti, zem kuras karoga kuģim atļauts uz laiku braukt, vai kuģa sākotnējās reģistrācijas valsti, ja kuģim atļauts uz laiku braukt zem Latvijas karoga;
 3) Latvijas kuģim nedrīkst dot atļauju uz laiku braukt zem citas valsts karoga, ja nav dzēstas visas reģistrētās kuģa hipotēkas un citas tiesības vai ja nav saņemta visu hipotekāro kreditoru un citu apgrūtinājumu turētāju piekrišana;

@@ -1,6 +1,10 @@
 4.pants. Valstiskās piederības nosacījumi
-(1) Kuģi uzskata par Latvijas kuģi, ja tas nav reģistrēts citas valsts kuģu reģistrā un tā īpašnieks ir:
-1) Latvijas pilsonis vai nepilsonis;
-2) Latvijā reģistrēta juridiskā persona.
-(2) Latvijas kuģu valstiskās piederības pazīmes nosaka Ministru kabinets.
-(3) Šā kodeksa 8.panta otrās daļas 1.punkta "a", "b" un "c" apakšpunktā minēto Latvijas kuģu īpašnieks nodrošina pats vai uz līguma pamata uzdod veikt Latvijā reģistrētai juridiskajai personai (turpmāk - kuģa operators) sava kuģa tehnisko un operatīvo vadību, tajā skaitā nokomplektēt kuģa apkalpi, nodrošināt kuģa ekspluatāciju un uzturēšanu kārtībā, kā arī apdrošināt kuģi.
+(1) Kuģi uzskata par Latvijas kuģi, ja tas ir reģistrēts valsts akciju sabiedrības "Latvijas Jūras administrācija" (turpmāk - Latvijas Jūras administrācija) Latvijas Kuģu reģistrā (turpmāk - Kuģu reģistrs) vai valsts akciju sabiedrības "Ceļu satiksmes drošības direkcija" (turpmāk - Ceļu satiksmes drošības direkcija) reģistrā.
+(2) Latvijas kuģu valstiskās piederības pazīmes ir:
+1) Latvijas valsts karogs;
+2) identifikācijas numurs;
+3) izsaukuma signāls;
+4) Starptautiskās burāšanas federācijas piešķirtais Latvijas Republikas jahtu nacionālais simbols "LAT";
+5) valsts reģistrācijas numurs.
+(3) Kuģis ir atbrīvots no šā panta otrajā daļā minēto pazīmju vai kādas no pazīmēm izmantošanas, ja tam par pamatu ir tehnisks iemesls vai kuģa konstrukcija.
+(4) Šā kodeksa 5.panta trešajā daļā minētais kuģis ir atbrīvots no šā panta otrās daļas 1.punktā minētās pazīmes izmantošanas.

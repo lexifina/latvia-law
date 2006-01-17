@@ -1,0 +1,1 @@
+7. Kuģu apliecības, kas izsniegtas līdz šā kodeksa 10.panta pirmajā daļā paredzēto Ministru kabineta noteikumu spēkā stāšanās dienai, ir spēkā līdz 2006.gada 31.decembrim vai līdz izsniegtās apliecības derīguma termiņa beigām, ja apliecība izsniegta uz noteiktu laiku.
