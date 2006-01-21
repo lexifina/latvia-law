@@ -1,0 +1,31 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par laboratoriskajām metodēm ķīmisko vielu un ķīmisko produktu fizikālo, ķīmisko, toksikoloģisko vai ekotoksikoloģisko īpašību noteikšanai",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "13",
+  "official_journal_page": null,
+  "official_journal_date": "2006-01-20",
+  "entry_into_force": "2006-01-21",
+  "notification_date": "2006-02-01",
+  "commission_reference": "MNE(2006)50680",
+  "nim_celex": "71967L0548LVA_127935",
+  "nim_id": "127935",
+  "transposes_celex": [
+    "31967L0548",
+    "31988L0302",
+    "31992L0069",
+    "31993L0021",
+    "31996L0054",
+    "31998L0073",
+    "32000L0032",
+    "32000L0033",
+    "32001L0059",
+    "32004L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f41b552e-e4c1-4da4-9e56-70c99ba122ea",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
