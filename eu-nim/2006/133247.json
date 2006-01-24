@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par zāļu marķēšanas kārtību un zāļu lietošanas instrukcijai izvirzāmajām prasībām",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "14",
+  "official_journal_page": null,
+  "official_journal_date": "2006-01-24",
+  "entry_into_force": "2006-01-24",
+  "notification_date": "2006-07-12",
+  "commission_reference": "MNE(2006)54454",
+  "nim_celex": "72004L0027LVA_133247",
+  "nim_id": "133247",
+  "transposes_celex": [
+    "32004L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/180b2ab6-091d-45a9-b9e7-6e2c608d4364",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
