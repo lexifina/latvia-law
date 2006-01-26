@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Kārtība pārtikas paraugu ņemšanai, sagatavošanai un laboratoriskai testēšanai benzo(a)pirēna koncentrācijas noteikšanai un testēšanas rezultātu izvērtēšanai",
+  "type_of_act": "Administrative measures",
+  "official_journal": "Administrative measures",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2006-01-26",
+  "entry_into_force": null,
+  "notification_date": null,
+  "commission_reference": "MNE(2006)51238",
+  "nim_celex": "72005L0010LVA_128745",
+  "nim_id": "128745",
+  "transposes_celex": [
+    "32005L0010"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/80270498-7d7e-4af4-8bb4-8e20559a1d3a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
