@@ -4,6 +4,6 @@
 2) uzraugošā prokurora lēmumu - amatā augstākam prokuroram;
 3) amatā augstāka prokurora lēmumu - izmeklēšanas tiesnesim;
 4) izmeklēšanas tiesneša lēmumu - tiesas priekšsēdētājam;
-5) tiesas priekšsēdētāja lēmumu - Augstākās tiesas Senātam.
+5) (izslēgts ar 19.01.2006. likumu).
 (2) Tiesas sēdē pieņemtais lēmums atsevišķi nav pārsūdzams.
 (3) Šā panta pirmajā daļā minēto personu lēmums ir galīgs un nav pārsūdzams.

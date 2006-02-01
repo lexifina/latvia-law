@@ -1,2 +1,2 @@
 328.pants. Pavēste
-Pavēste ir dokuments, ar kuru procesa virzītājs uzaicina personu uz izmeklēšanas iestādi, prokuratūru vai tiesu, lai tā piedalītos kriminālprocesā (turpmāk - aicināmā persona).
+Pavēste ir dokuments, ar kuru procesa virzītājs uzaicina personu uz izmeklēšanas iestādi, prokuratūru vai tiesu, lai tā piedalītos kriminālprocesā (turpmāk - aicināmā persona). Nepieciešamības gadījumā uzaicināšanai var izmantot citus saziņas veidus.

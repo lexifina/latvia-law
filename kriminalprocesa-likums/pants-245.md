@@ -3,7 +3,7 @@
 1) personu, kurai piemērojams piespiedu līdzeklis;
 2) piespiedu līdzekļa piemērošanas pamatu;
 3) piespiedu līdzekļa veidu;
-4) piemērošanas termiņu;
+4) (izslēgts ar 19.01.2006. likumu);
 5) iestādi vai personu, kurai uzdots lēmumu izpildīt;
 6) lēmuma pārsūdzēšanas kārtību.
 (2) Lēmumā par drošības līdzekļa piemērošanu papildus norāda, saistībā ar kāda noziedzīga nodarījuma izdarīšanu aizdomās turētajam vai apsūdzētajam tiek piemērots drošības līdzeklis.

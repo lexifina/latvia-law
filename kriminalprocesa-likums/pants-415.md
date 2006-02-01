@@ -8,10 +8,4 @@
 4) šādai procesa izbeigšanai piekrīt amatā augstāks prokurors un izdara par to atzīmi kriminālprocesa reģistrā.
 (4) Kriminālprocesa izbeigšana pieļaujama tikai ar apsūdzētā brīvprātīgu un nepārprotami izteiktu piekrišanu.
 (5) Izbeidzot kriminālprocesu, nosacīti atbrīvojot no kriminālatbildības, prokurors nosaka pārbaudes laiku no trim līdz astoņpadsmit mēnešiem.
-(6) Izbeidzot kriminālprocesu, nosacīti atbrīvojot no kriminālatbildības, prokurors var uzlikt apsūdzētajam par pienākumu:
-1) atvainoties cietušajam;
-2) noteiktā termiņā novērst radīto kaitējumu;
-3) nemainīt dzīvesvietu bez Valsts probācijas dienesta piekrišanas;
-4) periodiski reģistrēties Valsts probācijas dienestā un piedalīties probācijas programmās;
-5) atturēties no noteiktas rīcības vai nodarbošanās veidiem;
-6) ārstēties no alkohola, narkotisko, psihotropo, toksisko vielu vai citas atkarības.
+(6) Izbeidzot kriminālprocesu, nosacīti atbrīvojot no kriminālatbildības, prokurors var uzlikt apsūdzētajam Krimināllikumā paredzētos pienākumus.

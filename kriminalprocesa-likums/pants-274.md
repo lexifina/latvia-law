@@ -1,6 +1,6 @@
 274.pants. Apcietinājuma piemērošanas kārtība pirmstiesas procesā
 (1) Par apcietinājuma piemērošanu pirmstiesas procesā lemj izmeklēšanas tiesnesis, izskatot procesa virzītāja ierosinājumu, uzklausot attiecīgās personas viedokli, kā arī izskatot lietas materiālus un izvērtējot apcietināšanas iemeslus un pamatu.
-(2) Procesa virzītāja ierosinājuma izskatīšanā piedalās procesa virzītājs, persona, par kuras apcietināšanu tiek lemts, tās aizstāvis un pārstāvis.
+(2) Procesa virzītāja ierosinājuma izskatīšanā piedalās procesa virzītājs, persona, par kuras apcietināšanu tiek lemts, tās aizstāvis un pārstāvis. Procesa virzītāja ierosinājumu var izskatīt bez tās personas klātbūtnes, par kuras apcietināšanu tiek lemts, ja saskaņā ar ārsta atzinumu tās piedalīšanās nav pieļaujama un ja attiecīgajā procesuālajā darbībā piedalās personas aizstāvis.
 (3) Ja procesa virzītājs var pierādīt, ka attiecīgā persona izvairās un slēpjas no izmeklēšanas, jautājumu var izlemt tās prombūtnē. Juridiskās palīdzības sniegšanai uzaicinātā aizstāvja piedalīšanās ir obligāta.
 (4) Izmeklēšanas tiesnesis slēgtā tiesas sēdē, kuras gaita tiek fiksēta protokolā, pieņem vienu no šādiem lēmumiem:
 1) atteikt apcietinājuma piemērošanu;

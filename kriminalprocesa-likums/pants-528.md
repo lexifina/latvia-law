@@ -15,4 +15,4 @@
 13) nodevu cietušo kompensācijas fondam;
 14) apsūdzētā atbrīvošanu no apcietinājuma, mājas aresta vai sociālās korekcijas izglītības iestādes tiesas sēžu zālē, ja viņam noteikts ar brīvības atņemšanu nesaistīts sods.
 (2) Piemērojot nosacītu notiesāšanu, tiesa lemj par pārbaudes laiku, par to, kādi pienākumi nosacīti notiesātajam uzliekami un kam uzdodama nosacīti notiesātā pārraudzība.
-(3) Nosacīti notiesājot personu, kura noziedzīgu nodarījumu izdarījusi, būdama alkohola, narkotisko, psihotropo vai toksisko vielu iespaidā, tiesa ar apsūdzētā piekrišanu var uzlikt viņam par pienākumu ārstēties no alkohola, narkotisko, psihotropo vai toksisko vielu atkarības, uzdodot attiecīgajai policijas iestādei un ārstniecības iestādei kontrolēt šā pienākuma izpildi.
+(3) Nosacīti notiesājot personu, kura noziedzīgu nodarījumu izdarījusi, būdama alkohola, narkotisko, psihotropo vai toksisko vielu iespaidā, tiesa ar apsūdzētā piekrišanu var uzlikt viņam par pienākumu ārstēties no alkohola, narkotisko, psihotropo vai toksisko vielu atkarības, uzdodot attiecīgajai Valsts probācijas dienesta iestādei un ārstniecības iestādei kontrolēt šā pienākuma izpildi.

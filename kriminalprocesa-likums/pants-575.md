@@ -7,5 +7,5 @@
 5) apsūdzētajam nav dots vārds aizstāvības runai vai nav dota iespēja teikt pēdējo vārdu;
 6) lietā nav tiesas sēdes protokola, ja tas ir obligāts;
 7) taisot spriedumu, pārkāpts tiesas apspriedes noslēpums.
-(2) Par šā likuma būtisku pārkāpumu var atzīt personas izraidīšanu no tiesas zāles, ja augstāka līmeņa tiesa, izskatot sūdzību, atzinusi, ka izraidīšana ir bijusi nepamatota, tas ir būtiski ierobežojis apsūdzētā vai cietušā procesuālās tiesības un līdz ar to novedis pie nelikumīga nolēmuma.
+(2) Par šā likuma būtisku pārkāpumu var atzīt apsūdzētā vai cietušā izraidīšanu no tiesas zāles, ja tā ir bijusi nepamatota un tas ir būtiski ierobežojis šo personu procesuālās tiesības un līdz ar to novedis pie nelikumīga nolēmuma.
 (3) Par šā likuma būtisku pārkāpumu var atzīt arī citus šā likuma pārkāpumus, kas noveduši pie nelikumīga nolēmuma.

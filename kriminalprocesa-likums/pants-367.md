@@ -4,7 +4,7 @@
 2) summas, ko izmaksā lieciniekiem un cietušajiem kā vidējo darba samaksu par laiku, kurā viņi sakarā ar piedalīšanos procesuālajā darbībā neveica savu darbu, vai ko izmeklēšanas iestādes, prokuratūra vai Tieslietu ministrija ir atlīdzinājusi minēto personu darba devējiem par izmaksāto vidējo izpeļņu;
 3) samaksa ekspertiem, revidentiem, tulkiem un speciālistiem par darbu, izņemot gadījumus, kad viņi piedalās procesā, izpildot savus dienesta pienākumus;
 4) samaksa advokātam, kad izdevumus par juridisko palīdzību sedz no valsts līdzekļiem;
-5) summas, kas izlietotas lietisko pierādījumu glabāšanai un pārsūtīšanai;
+5) summas, kas izlietotas lietisko pierādījumu glabāšanai, pārsūtīšanai, realizācijai un iznīcināšanai;
 6) summas, kas izlietotas ekspertīzes izdarīšanai;
 7) citi izdevumi, kas radušies kriminālprocesā.
 (2) Šā panta pirmajā daļā minētos procesuālos izdevumus sedz no valsts līdzekļiem Ministru kabineta noteiktajā apmērā un kārtībā.

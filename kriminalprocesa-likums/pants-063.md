@@ -1,6 +1,6 @@
 63.pants. Aizturētā tiesības
 (1) Aizturētajam ir tiesības:
-1) nekavējoties uzaicināt aizstāvi un noslēgt ar viņu vienošanos. Aizturētajam šajā nolūkā ir tiesības saņemt no procesa virzītāja advokātu sarakstu un informāciju par juridisko palīdzību koordinējošām institūcijām, kā arī bez maksas izmantot telefonu aizstāvja uzaicināšanai;
+1) nekavējoties uzaicināt aizstāvi un noslēgt ar viņu vienošanos vai izmantot valsts nodrošināto juridisko palīdzību, ja viņš pats par saviem līdzekļiem nevar noslēgt vienošanos ar aizstāvi. Aizturētajam ir tiesības saņemt no procesa virzītāja attiecīgajā tiesas apgabalā praktizējošo advokātu sarakstu, kā arī aizstāvja uzaicināšanai bez maksas izmantot telefonu;
 2) pieprasīt, lai par aizturēšanu paziņo viņa tuvam radiniekam, mācību iestādei vai darba devējam;
 3) saņemt aizturēšanas protokola kopiju un rakstveida informāciju par aizturētā tiesībām un pienākumiem;
 4) tikties ar aizstāvi sarunas konfidencialitāti nodrošinošos apstākļos bez īpašas procesa virzītāja atļaujas un bez laika ierobežojumiem;

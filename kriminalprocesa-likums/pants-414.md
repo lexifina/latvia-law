@@ -15,3 +15,4 @@
 5) lēmuma pārsūdzēšanas kārtību.
 (5) Lēmuma kopiju nosūta vai izsniedz personai, pret kuru bija uzsākts kriminālprocess vai kura bija aizdomās turētais, apsūdzētais, cietušais, vai tās pārstāvim, kā arī personai vai iestādei, pēc kuras iesnieguma tika uzsākts kriminālprocess.
 (6) Ja kriminālprocess tiek izbeigts, bet krimināllietas materiāli satur ziņas par faktiem, sakarā ar kuriem personai būtu jāpiemēro disciplinārās ietekmēšanas līdzekļi vai administratīvais sods, procesa virzītājs nosūta nepieciešamos materiālus kompetentajai institūcijai vai amatpersonai.
+(7) Ja kriminālprocess tiek izbeigts, bet krimināllietas materiāli satur ziņas, ka nodarījumu izdarījis nepilngadīgais, kurš nav sasniedzis 14 gadu vecumu, procesa virzītājs lemj par materiālu nosūtīšanu tiesai audzinoša rakstura piespiedu līdzekļa piemērošanai.

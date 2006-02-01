@@ -1,7 +1,7 @@
 70.pants. Apsūdzētā tiesības pirmstiesas procesā
 (1) Apsūdzētajam pirmstiesas kriminālprocesā ir tādas pašas tiesības kā aizdomās turētajam, kā arī tiesības:
-1) pēc izmeklēšanas pabeigšanas saņemt visu tiesai nododamās krimināllietas materiālu kopijas, ja tās nav izsniegtas agrāk;
-2) procesa virzītāja - prokurora noteiktajā saprātīgā termiņā iepazīties ar saņemtajiem krimināllietas materiāliem un iesniegt noslēguma pieteikumus;
+1) pēc pirmstiesas kriminālprocesa pabeigšanas saņemt visu tiesai nododamās krimināllietas materiālu kopijas, ja tās nav izsniegtas agrāk, vai ar prokurora piekrišanu iepazīties ar tiesai nododamās krimināllietas materiāliem;
+2) iesniegt pieteikumus līdz pirmstiesas kriminālprocesa pabeigšanai un iepazīties ar saņemtajiem vai uzrādītajiem tiesai nododamās krimināllietas materiāliem.
 3) iesniegt pieteikumu izmeklēšanas tiesnesim, lūdzot iepazīstināt viņu ar speciālo izmeklēšanas darbību materiāliem, kuri netiek pievienoti krimināllietai (pirmdokumentiem);
 4) piekrist vai nepiekrist kriminālprocesa izbeigšanai, nosacīti atbrīvojot no kriminālatbildības, vai prokurora priekšrakstam par sodu;
 5) vienoties ar procesa virzītāju - prokuroru par krimināllietas pabeigšanu vienošanās procesā;

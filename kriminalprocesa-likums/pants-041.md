@@ -12,7 +12,7 @@
 10) lemt par personas, kurai ir tiesības uz aizstāvību, lūgumu atbrīvot no samaksas par advokāta palīdzības izmantošanu.
 (2) Pirmās instances tiesā līdz lietas iztiesāšanas uzsākšanai izmeklēšanas tiesnesim ir pienākums lemt par:
 1) apsūdzētā pieteikumu attiecībā uz drošības līdzekļu grozīšanu vai atcelšanu;
-2) apsūdzības ierosinājumu attiecībā uz drošības līdzekļa izraudzīšanu vai grozīšanu.
+2) prokurora ierosinājumu attiecībā uz drošības līdzekļa izraudzīšanu vai grozīšanu.
 (3) Izmeklēšanas tiesnesim nav atļauts aizstāt procesa virzītāju un uzraugošo prokuroru pirmstiesas kriminālprocesā, dodot norādījumus par izmeklēšanas virzienu un izmeklēšanas darbību veikšanu.
 (4) Izmeklēšanā un kriminālvajāšanā izmeklēšanas tiesnesim ir tiesības:
 1) iepazīties ar visiem materiāliem kriminālprocesā, kurā iesniegts procesa virzītāja ierosinājums, personas sūdzība vai pieteikums, pieteikts noraidījums;

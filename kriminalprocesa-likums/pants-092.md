@@ -4,7 +4,7 @@
 2) iepazīties ar kriminālprocesa reģistru un pieteikt noraidījumus tajā ierakstītajām amatpersonām;
 3) iesniegt sūdzības par amatpersonu rīcību un lēmumiem, pieteikt lūgumus tādā pašā kārtībā kā aizstāvim;
 4) saņemt tiesai iesniedzamās krimināllietas materiālu kopijas;
-5) iesniegt noslēguma pieteikumus;
+5) (izslēgts ar 19.01.2006. likumu);
 6) saņemt informāciju par krimināllietas izskatīšanas laiku un vietu jebkuras instances tiesā;
 7) piedalīties slēgtās tiesas sēdēs;
 8) iepazīties ar tiesas nolēmumiem un tos pārsūdzēt tādā pašā kārtībā kā aizstāvim.

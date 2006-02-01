@@ -1,5 +1,5 @@
 342.pants. Sūdzības izskatīšana
-(1) Saņēmis sūdzību, procesa virzītājs triju darba dienu laikā no tās saņemšanas dienas lemj par šīs sūdzības izskatīšanu vai nosūta to pēc piekritības.
+(1) Saņēmis sūdzību, tās saņēmējs triju darba dienu laikā no tās saņemšanas dienas lemj par šīs sūdzības izskatīšanu vai nosūta to pēc piekritības.
 (2) Aizliegts uzdot sūdzības izskatīšanu tai pašai personai, kuras rīcība vai nolēmums pārsūdzēts, kā arī amatpersonai, kura apstiprinājusi pārsūdzēto nolēmumu.
 (3) Amatpersona, kura izskata sūdzību, var ņemt vērā ne tikai sūdzības motīvus. Ja nepieciešams, tā var pārbaudīt visa pārsūdzētā nolēmuma vai pat visa kriminālprocesa likumību un pamatotību.
 (4) Amatpersonai, kura izskata sūdzību, ir pienākums savas kompetences ietvaros nekavējoties veikt pasākumus, lai atjaunotu personām to pārkāptās tiesības un likumiskās intereses.

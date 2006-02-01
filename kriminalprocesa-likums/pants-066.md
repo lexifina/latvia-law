@@ -1,7 +1,7 @@
 66.pants. Aizdomās turētā tiesības
 No brīža, kad personai paziņots, ka tā atzīta par aizdomās turēto, šai personai ir tiesības:
 1) saņemt tā lēmuma kopiju, ar kuru šī persona atzīta par aizdomās turēto, un rakstveida informāciju par aizdomās turētā tiesībām un pienākumiem;
-2) nekavējoties uzaicināt aizstāvi un noslēgt ar viņu vienošanos. Aizturētajām vai apcietinātajām personām šajā nolūkā ir tiesības saņemt no procesa virzītāja attiecīgajā tiesas apgabalā praktizējošo advokātu sarakstu un informāciju par juridisko palīdzību koordinējošām institūcijām, kā arī bez maksas izmantot telefonu aizstāvja uzaicināšanai;
+2) nekavējoties uzaicināt aizstāvi un noslēgt ar viņu vienošanos vai izmantot valsts nodrošināto juridisko palīdzību, ja viņš pats par saviem līdzekļiem nevar noslēgt vienošanos ar aizstāvi. Aizturētajam ir tiesības saņemt no procesa virzītāja attiecīgajā tiesas apgabalā praktizējošo advokātu sarakstu, kā arī aizstāvja uzaicināšanai bez maksas izmantot telefonu;
 3) pieteikt lūgumu par aizstāvja palīdzības apmaksāšanu no valsts līdzekļiem;
 4) likumā paredzētajos gadījumos pieprasīt advokāta piedalīšanos aizstāvības nodrošināšanai atsevišķā procesuālajā darbībā, ja vēl nav noslēgta vienošanās par aizstāvību ar konkrētu advokātu vai šis aizstāvis nav varējis ierasties;
 5) apcietinājuma vietā tikties ar aizstāvi sarunas konfidencialitāti nodrošinošos apstākļos bez īpašas procesa virzītāja atļaujas un bez laika ierobežojumiem;

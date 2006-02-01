@@ -5,7 +5,7 @@ Pirmās instances tiesā cietušajam ir tiesības:
 3) pašam piedalīties krimināllietas izskatīšanā;
 4) izteikt savu viedokli par katru apspriežamo jautājumu;
 5) piedalīties katra tiesā pārbaudāma pierādījuma tiešā un mutvārdos veiktā pārbaudē;
-6) pieteikt lūgumus;
+6) iesniegt pieteikumus;
 7) uzstāties tiesas debatēs;
 8) iepazīties ar tiesas nolēmumu un tiesas sēdes protokolu;
 9) pārsūdzēt tiesas nolēmumu likumā noteiktajā kārtībā.

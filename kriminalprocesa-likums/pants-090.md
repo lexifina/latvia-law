@@ -5,7 +5,7 @@
 3) iepazīties ar kriminālprocesa reģistru un pieteikt noraidījumus tajā ierakstītajām amatpersonām;
 4) iesniegt sūdzības par amatpersonu rīcību un lēmumiem, pieteikt lūgumus tādā pašā kārtībā kā pašam pārstāvamajam;
 5) saņemt tiesai iesniedzamās krimināllietas materiālu kopijas, ja nepilngadīgais atrodas apcietinājumā;
-6) iesniegt noslēguma pieteikumus;
+6) (izslēgts ar 19.01.2006. likumu);
 7) saņemt informāciju par krimināllietas iztiesāšanas laiku un vietu jebkuras instances tiesā;
 8) piedalīties slēgtās tiesas sēdēs;
 9) iepazīties ar tiesas nolēmumiem tādā pašā kārtībā kā aizstāvim;
