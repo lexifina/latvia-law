@@ -1,0 +1,1 @@
+5. Ekskluzīvās vienošanās, kas noslēgtas līdz 2006.gada 1.februārim un neatbilst šā likuma 18.panta pirmās daļas prasībām, tiek izbeigtas, beidzoties to termiņam, bet ne vēlāk kā līdz 2008.gada 31.decembrim.

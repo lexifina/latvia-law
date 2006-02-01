@@ -1,0 +1,1 @@
+7. Līdz šā likuma 10.panta piektajā daļā paredzēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2006.gada 30.jūnijam ir spēkā Ministru kabineta 1999.gada 3.augusta noteikumi Nr.275 "Kārtība, kādā valsts pārvaldes iestāžu un pašvaldību iestāžu rīcībā esošā informācija nododama atklātībai", ciktāl tie nav pretrunā ar šo likumu.

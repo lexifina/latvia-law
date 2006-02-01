@@ -7,5 +7,7 @@
 4) par fiziskās personas privāto dzīvi;
 5) kas attiecas uz atestācijas, eksāmenu, iesniegto projektu (izņemot projektus, kuru finansēšana paredzēta ar valsts sniegtu galvojumu), konkursu (izņemot konkursus, kas saistīti ar iepirkumiem valsts vai pašvaldību vajadzībām vai citādi saistīti ar rīcību ar valsts vai pašvaldību finanšu līdzekļiem un mantu) un citu līdzīga rakstura novērtējumu procesu;
 6) dienesta vajadzībām.
-(3) Norādot šajā likumā vai citos likumos paredzēto pamatojumu, ierobežotas pieejamības informācijas statusu ir tiesīgs ar savu rīkojumu noteikt informācijas autors vai iestādes vadītājs.
-(4) Par ierobežotas pieejamības informāciju nav uzskatāmas ziņas, kas ir pieejamas sabiedrībai bez likumā paredzētajiem ierobežojumiem vai kas ir jau publicētas.
+(3) Informācijas autors vai iestādes vadītājs, norādot šajā likumā vai citos likumos paredzēto pamatojumu, nosaka informācijai ierobežotas pieejamības statusu.
+(4) Informācijas autors vai iestādes vadītājs ierobežotas pieejamības statusu informācijai nosaka uz laiku, kas nav ilgāks par vienu gadu. Informācijas autors vai iestādes vadītājs var lemt par jauna termiņa noteikšanu, kā arī par šā statusa atcelšanu pirms noteiktā termiņa izbeigšanās. Ja beidzies termiņš, uz kādu informācijai noteikts ierobežotas pieejamības statuss, vai ja ierobežotas pieejamības statuss ir atcelts pirms likumā noteiktā termiņa, šāda informācija kļūst par vispārpieejamu informāciju.
+(5) Šā panta trešā un ceturtā daļa neattiecas uz gadījumiem, kad informācijai ierobežotas pieejamības statuss noteikts ar likumu.
+(6) Par ierobežotas pieejamības informāciju nav uzskatāmas ziņas, kas ir pieejamas sabiedrībai bez likumā paredzētajiem ierobežojumiem vai kas ir jau publicētas.

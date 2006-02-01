@@ -1,6 +1,5 @@
 9.pants. Informācijas uzskaite
-(1) Katra iestāde atkarībā no tās rīcībā esošās informācijas veida un rakstura informāciju uzskaita atbilstoši iestādē noteiktajai lietvedībai, norādot:
-1) informācijas grupu;
-2) informācijas nosaukumu, dokumentiem - nepieciešamos rekvizītus atbilstoši lietvedības noteikumiem;
-3) informācijas avotu.
+(1) Katra iestāde veic informācijas uzskaiti.
 (2) Informācijas pieprasītājam ir tiesības iepazīties ar vispārpieejamās informācijas uzskaiti.
+(3) Vispārpieejamās informācijas uzskaiti publicē iestādes mājas lapā internetā, ja tāda ir.
+(4) Ministru kabinets nosaka kārtību, kādā iestāde veic informācijas uzskaiti, kā arī kārtību un apjomu, kādā vispārpieejamās informācijas uzskaiti publicē mājas lapā internetā.

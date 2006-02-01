@@ -1,3 +1,4 @@
-7.pants. Informācija par uzņēmējdarbības noslēpumiem
-(1) Informācija kvalificējama kā uzņēmējdarbības noslēpums, ja iestāde, to izpaužot, varētu kaitēt tās personas konkurētspējai, kura šo informāciju sniegusi.
-(2) Fizisko un juridisko personu uzņēmējdarbības noslēpumu aizsardzību nedrīkt ierobežot citu fizisko un juridisko personu tiesības saņemt informāciju, kas ir pieejama saskaņā ar citu likumu normām.
+7.pants. Informācija par komercnoslēpumu
+(1) Par komercnoslēpumu uzskatāma komersanta radīta vai komersantam piederoša informācija, kuras atklāšana varētu būtiski negatīvi ietekmēt komersanta konkurētspēju.
+(2) Par komercnoslēpumu nevar uzskatīt informāciju, kas ir saistīta ar valsts pārvaldes funkciju vai uzdevumu izpildi.
+(3) Komersants, nododot informāciju iestādei, norāda, vai informācija ir komercnoslēpums un kāds ir šāda statusa tiesiskais pamats.

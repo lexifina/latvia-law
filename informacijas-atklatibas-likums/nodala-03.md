@@ -1,3 +1,3 @@
 III nodaļa
-Informācijas sniegšana un informācijas
-pieprasītāju tiesību aizsardzība
+Informācijas sniegšana, atkalizmantošana un
+informācijas pieprasītāja tiesību aizsardzība

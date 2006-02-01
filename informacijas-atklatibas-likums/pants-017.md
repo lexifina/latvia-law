@@ -1,2 +1,2 @@
-17.pants. Uzraudzības iestāde
-Šā likuma ievērošanu normatīvajos aktos noteiktajā kārtībā uzrauga Datu valsts inspekcija.
+17.pants. Informācijas atkalizmantošanas noteikumi
+Informācijas atkalizmantošanai netiek izvirzīti nosacījumi. Izņēmuma gadījumā, lai nodrošinātu kvalitatīvu un efektīvu informācijas atkalizmantošanu, iestāde, neierobežojot konkurenci, var paredzēt atkalizmantošanas nosacījumus.

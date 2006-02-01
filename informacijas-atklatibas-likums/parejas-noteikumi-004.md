@@ -1,0 +1,1 @@
+4. Informācija, kurai ierobežotas pieejamības statuss ir noteikts līdz šā likuma 5.panta ceturtās daļas spēkā stāšanās dienai un kurai minētais statuss netiek atcelts šajā likumā noteiktajā kārtībā, uzskatāma par ierobežotas pieejamības informāciju līdz 2006.gada 31.decembrim.
