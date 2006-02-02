@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Instrukcija par pārtikas paraugu ņemšanu, sagatavošanu un laboratorisko testēšanu “Fusarium” toksīnu koncentrācijas noteikšanai un testēšanas rezultātu izvērtēšanai",
+  "type_of_act": "Ministrijas instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "20",
+  "official_journal_page": null,
+  "official_journal_date": "2006-02-02",
+  "entry_into_force": null,
+  "notification_date": "2006-02-08",
+  "commission_reference": "MNE(2006)50876",
+  "nim_celex": "72005L0038LVA_128220",
+  "nim_id": "128220",
+  "transposes_celex": [
+    "32005L0038"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fbf75e8f-503d-4b7c-accb-8a8d26dc4794",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
