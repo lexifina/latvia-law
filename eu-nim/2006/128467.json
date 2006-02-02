@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Zemkopības ministrijas 2005.gada 24.februāra instrukcijā Nr.5 “Kārtība pārtikas paraugu ņemšanai, sagatavošanai un laboratoriskai testēšanai ohratoksīna A koncentrācijas noteikšanai un testēšanas rezultātu izvērtēšanai”",
+  "type_of_act": "Ministrijas instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "20",
+  "official_journal_page": null,
+  "official_journal_date": "2006-02-02",
+  "entry_into_force": null,
+  "notification_date": "2006-02-14",
+  "commission_reference": "MNE(2006)51039",
+  "nim_celex": "72005L0005LVA_128467",
+  "nim_id": "128467",
+  "transposes_celex": [
+    "32005L0005"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e837eaf0-5e4b-4f72-82bd-c8d328bc5793",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
