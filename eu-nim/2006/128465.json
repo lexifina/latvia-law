@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Zemkopības ministrijas 2005.gada 24.februāra instrukcijā Nr.6 “Kārtība pārtikas paraugu ņemšanai, sagatavošanai un laboratoriskai testēšanai svina, kadmija, dzīvsudraba (turpmāk — toksiskie elementi) un 3–monohlorpropān–1,2–diola (turpmāk — 3 – MHPD) koncentrācijas noteikšanai un testēšanas rezultātu izvērtēšanai”",
+  "type_of_act": "Ministrijas instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "20",
+  "official_journal_page": null,
+  "official_journal_date": "2006-02-02",
+  "entry_into_force": null,
+  "notification_date": "2006-02-14",
+  "commission_reference": "MNE(2006)51037",
+  "nim_celex": "72005L0004LVA_128465",
+  "nim_id": "128465",
+  "transposes_celex": [
+    "32005L0004"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b21ff60a-756d-4b95-bdd8-ceb092c87741",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
