@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par valsts nodevu par vīzas vai uzturēšanās atļaujas pieprasīšanai nepieciešamo dokumentu izskatīšanai un ar to saistītajiem pakalpojumiem",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "21",
+  "official_journal_page": null,
+  "official_journal_date": "2006-02-03",
+  "entry_into_force": "2006-02-04",
+  "notification_date": "2006-02-06",
+  "commission_reference": "MNE(2006)50819",
+  "nim_celex": "71990L0364LVA_128124",
+  "nim_id": "128124",
+  "transposes_celex": [
+    "31990L0364"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e4d8154c-0273-4075-8e3a-ee4c52dee85b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
