@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2004.gada 17.augusta noteikumos Nr.723 \"Noteikumi par ķīmisko vielu lietošanas ierobežojumiem elektriskajās un elektroniskajās iekārtās\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "21",
+  "official_journal_page": null,
+  "official_journal_date": "2006-02-03",
+  "entry_into_force": "2006-02-04",
+  "notification_date": "2006-02-09",
+  "commission_reference": "MNE(2006)50926",
+  "nim_celex": "72002L0095LVA_128280",
+  "nim_id": "128280",
+  "transposes_celex": [
+    "32002L0095"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ddc69094-8df1-4c2a-b8c8-b8dad91d2e9a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
