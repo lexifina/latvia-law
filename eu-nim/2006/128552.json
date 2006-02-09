@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi likumā \"Par darbinieku aizsardzību darba devēja maksātnespējas gadījumā\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "24",
+  "official_journal_page": null,
+  "official_journal_date": "2006-02-09",
+  "entry_into_force": null,
+  "notification_date": "2006-02-15",
+  "commission_reference": "MNE(2006)51104",
+  "nim_celex": "72002L0074LVA_128552",
+  "nim_id": "128552",
+  "transposes_celex": [
+    "32002L0074"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fdcc6d1b-0a86-47e2-8c03-d31888c73feb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
