@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2004.gada 13.jūlija noteikumos Nr.597 “Vides trokšņa novērtēšanas kārtība”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "23",
+  "official_journal_page": null,
+  "official_journal_date": "2006-02-08",
+  "entry_into_force": "2006-02-09",
+  "notification_date": "2006-02-22",
+  "commission_reference": "MNE(2006)51156",
+  "nim_celex": "72002L0049LVA_128617",
+  "nim_id": "128617",
+  "transposes_celex": [
+    "32002L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/da38e1c4-937c-421d-b5d8-91dab2290cd9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
