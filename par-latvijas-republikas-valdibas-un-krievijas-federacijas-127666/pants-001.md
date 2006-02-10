@@ -1,0 +1,1 @@
+1.pants. 2005.gada 21.septembrī parakstītais Latvijas Republikas valdības un Krievijas Federācijas valdības protokols par 1993.gada 2.jūnija Latvijas Republikas valdības un Krievijas Federācijas valdības vienošanās par pārceļošanas procesa regulēšanu un pārceļotāju tiesību aizsardzību pagarināšanu (turpmāk-Protokols) ar šo likumu tiek pieņemts un apstiprināts.

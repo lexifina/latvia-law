@@ -1,0 +1,1 @@
+Latvijas Republikas valdības un Krievijas Federācijas valdības PROTOKOLS par 1993.gada 2.jūnija Latvijas Republikas valdības un Krievijas Federācijas valdības vienošanās par pārceļošanas procesa regulēšanu un pārceļotāju tiesību aizsardzību pagarināšanu
