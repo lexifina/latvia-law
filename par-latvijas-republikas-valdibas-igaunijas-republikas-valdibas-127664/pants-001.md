@@ -1,0 +1,1 @@
+1.pants. 2005.gada 25.novembrī parakstītais Latvijas Republikas valdības, Igaunijas Republikas valdības un Lietuvas Republikas valdības vienošanās par sadarbību liecinieku un cietušo aizsardzībā Protokols par pārvietošanas kārtību (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
