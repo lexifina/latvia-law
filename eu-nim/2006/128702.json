@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2002.gada 23.aprīļa noteikumos Nr.163 “Noteikumi par trokšņa emisiju no iekārtām, kuras izmanto ārpus telpām”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "26",
+  "official_journal_page": null,
+  "official_journal_date": "2006-02-14",
+  "entry_into_force": "2006-02-15",
+  "notification_date": "2006-02-20",
+  "commission_reference": "MNE(2006)51208",
+  "nim_celex": "72000L0014LVA_128702",
+  "nim_id": "128702",
+  "transposes_celex": [
+    "32000L0014",
+    "32005L0088"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a248fb0a-fdb0-4538-98aa-5243217afd92",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
