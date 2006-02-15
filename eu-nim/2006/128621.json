@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2002.gada 8.oktobra noteikumos Nr.455 \"Kuģu radīto atkritumu un piesārņoto ūdeņu pieņemšanas kārtība un kuģu radīto atkritumu apsaimniekošanas plānu izstrādes kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "26",
+  "official_journal_page": null,
+  "official_journal_date": "2006-02-14",
+  "entry_into_force": "2006-02-15",
+  "notification_date": "2006-02-22",
+  "commission_reference": "MNE(2006)51160",
+  "nim_celex": "72000L0059LVA_128621",
+  "nim_id": "128621",
+  "transposes_celex": [
+    "32000L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/95a1ae28-3561-4be0-a484-0401e80cdcf5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
