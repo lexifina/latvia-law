@@ -1,0 +1,3 @@
+8.pants. Mēslošanas līdzekļu reģistrācija
+(1) Ražot, iepakot, gatavot maisījumus tirdzniecībai, kā arī ievest un tirgot drīkst tikai reģistrā iekļautos mēslošanas līdzekļus, izņemot gadījumus, ja mēslošanas līdzeklis ir ražots vai ievests izmēģinājumiem, pētījumiem vai testēšanai vai ja tas ir jauns mēslošanas līdzekļa veids, mēslošanas līdzekļa atsevišķa partija, kas neatbilst deklarētajai kvalitātei, kvalitātes vai identifikācijas prasībām, bet nav bīstama cilvēku un dzīvnieku veselībai un videi.
+(2) Ja mēslošanas līdzeklis nav bīstams cilvēku un dzīvnieku veselībai un videi, dienests izsniedz atļauju mēslošanas līdzekļa ievešanai vai tirdzniecībai.

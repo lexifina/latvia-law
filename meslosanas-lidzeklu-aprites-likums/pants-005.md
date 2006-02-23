@@ -1,0 +1,5 @@
+5.pants. Darbību veicēja pienākumi
+(1) Mēslošanas līdzekļu ražotājs, šo līdzekļu maisījumu gatavotājs, iepakotājs un ievedējs iesniedz dienestam:
+1) iesniegumu par tirdzniecībai ražotā, iepakotā vai ievestā mēslošanas līdzekļa vai sagatavotā maisījuma (izņemot individuālo pasūtījumu) reģistrāciju;
+2) katru gadu līdz 31.janvārim - ziņas par iepriekšējā gadā tirdzniecībai ražotajiem vai ievestajiem mēslošanas līdzekļiem (ar EK marķējumu vai bez tā) vai sagatavotajiem to maisījumiem (norāda mēslošanas līdzekļa veidu, nosaukumu un daudzumu).
+(2) Darbību veicējs pēc mēslošanas līdzekļa pircēja vai to personu pieprasījuma, kuras uzrauga un kontrolē mēslošanas līdzekļu apriti, uzrāda mēslošanas līdzekļa reģistrācijas apliecību (kopiju) vai atļauju (kopiju) attiecīgā mēslošanas līdzekļa pārdošanai vai ievešanai (ja mēslošanas līdzeklis nav iekļauts reģistrā vai neatbilst deklarētajai kvalitātei, kvalitātes vai identifikācijas prasībām) un akreditētas laboratorijas testēšanas pārskatu (kopiju) vai mēslošanas līdzekļa sertifikātu (kopiju).
