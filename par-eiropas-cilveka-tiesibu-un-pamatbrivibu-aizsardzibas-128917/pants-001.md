@@ -1,0 +1,1 @@
+1.pants. Eiropas Cilvēka tiesību un pamatbrīvību aizsardzības konvencija s (turpmāk - Konvencija) 14.protokols, kas groza Konvencijas kontroles sistēmu (turpmāk - Protokols), ar šo likumu tiek pieņemts un apstiprināts.
