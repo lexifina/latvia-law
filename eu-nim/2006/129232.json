@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par Apvienoto Nāciju Organizācijas Vispārējās konvencijas par klimata pārmaiņām Kioto protokola projektu mehānismu īstenošanu un darbībām, kas saistītas ar emisijas samazināšanas vienību, sertificētu emisijas samazināšanas vienību, piesaistes vienību un noteiktā daudzuma vienību piešķiršanu un izmantošanu",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "34",
+  "official_journal_page": null,
+  "official_journal_date": "2006-02-28",
+  "entry_into_force": "2006-03-01",
+  "notification_date": "2006-03-08",
+  "commission_reference": "MNE(2006)51607",
+  "nim_celex": "72004L0101LVA_129232",
+  "nim_id": "129232",
+  "transposes_celex": [
+    "32004L0101"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1bfde2d8-fb8b-476d-bb9a-6de5997e00f8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
