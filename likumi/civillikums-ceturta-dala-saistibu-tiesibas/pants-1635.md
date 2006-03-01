@@ -1,2 +1,4 @@
-1635. Katrs tiesību aizskārums, t.i. katra pati par sevi neatļauta darbība, dod tam, kam tā kaitējusi, tiesību prasīt apmierinājumu no aizskārēja, ciktāl viņu par šo darbību var vainot.
-P i e z ī m e. Darbība šeit pieņemta plašākā nozīmē, aptverot nevien darbību, bet arī atturēšanos no tās, t.i. bezdarbību.
+1635. Katrs tiesību aizskārums, tas ir, katra pati par sevi neatļauta darbība, kuras rezultātā nodarīts kaitējums (arī morālais kaitējums), dod tiesību cietušajam prasīt apmierinājumu no aizskārēja, ciktāl viņu par šo darbību var vainot.
+Ar morālo kaitējumu jāsaprot fiziskas vai garīgas ciešanas, kas izraisītas ar neatļautas darbības rezultātā nodarītu cietušā nemantisko tiesību vai nemantisko labumu aizskārumu. Atlīdzības apmēru par morālo kaitējumu nosaka tiesa pēc sava ieskata, ņemot vērā morālā kaitējuma smagumu un sekas.
+Ja šā panta otrajā daļā minētā neatļautā darbība izpaudusies kā noziedzīgs nodarījums pret personas dzīvību, veselību, tikumību, dzimumneaizskaramību, brīvību, godu, cieņu vai pret ģimeni, vai nepilngadīgo, pieņemams, ka cietušajam šādas darbības rezultātā ir nodarīts morālais kaitējums. Citos gadījumos morālais kaitējums cietušajam jāpierāda.
+P i e z ī m e. Darbība šeit jāsaprot plašākā nozīmē, aptverot ne vien darbību, bet arī atturēšanos no tās, tas ir, bezdarbību.
