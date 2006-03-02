@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Banku, ieguldījumu brokeru sabiedrību un ieguldījumu pārvaldes sabiedrību gada pārskata un konsolidētā gada pārskata sagatavošanas noteikumi",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "35",
+  "official_journal_page": null,
+  "official_journal_date": "2006-03-01",
+  "entry_into_force": "2006-03-02",
+  "notification_date": "2008-01-18",
+  "commission_reference": "MNE(2008)50497",
+  "nim_celex": "71986L0635LVA_152881",
+  "nim_id": "152881",
+  "transposes_celex": [
+    "31986L0635",
+    "32001L0065",
+    "32003L0051",
+    "32006L0046"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cef4ea60-eb29-4da6-ac3b-b84a4670c665",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
