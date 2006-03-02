@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Finanšu un kapitāla tirgus komisijas 2016.gada 24.februāra noteikumi Nr.46 “Kredītiestāžu, ieguldījumu brokeru sabiedrību un ieguldījumu pārvaldes sabiedrību gada pārskata un konsolidētā gada pārskata sagatavošanas normatīvie noteikumi”",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "35",
+  "official_journal_page": null,
+  "official_journal_date": "2006-03-01",
+  "entry_into_force": "2006-03-02",
+  "notification_date": "2018-05-02",
+  "commission_reference": "MNE(2018)52170",
+  "nim_celex": "72014L0091LVA_258325",
+  "nim_id": "258325",
+  "transposes_celex": [
+    "32014L0091"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/46be1a1c-a82a-47fd-ac54-105481d515c3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
