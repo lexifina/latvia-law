@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Beramkravu kuģu drošas kraušanas noteikumi",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "35",
+  "official_journal_page": null,
+  "official_journal_date": "2006-03-01",
+  "entry_into_force": "2006-03-02",
+  "notification_date": "2006-03-01",
+  "commission_reference": "MNE(2006)51425",
+  "nim_celex": "72001L0096LVA_128974",
+  "nim_id": "128974",
+  "transposes_celex": [
+    "32001L0096",
+    "32002L0084"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4b0a64de-f38e-432b-bbf7-af09770aa1ac",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
