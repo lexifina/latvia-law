@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2003.gada 22.jūlija noteikumos Nr.414 \"Noteikumi par depozīta sistēmas piemērošanu atkārtoti lietojamam iepakojumam\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2006-03-03",
+  "entry_into_force": "2006-03-04",
+  "notification_date": "2006-03-23",
+  "commission_reference": "MNE(2006)51958",
+  "nim_celex": "71994L0062LVA_129740",
+  "nim_id": "129740",
+  "transposes_celex": [
+    "31994L0062"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/629ec800-16f8-437e-b4b7-c6650cf71709",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
