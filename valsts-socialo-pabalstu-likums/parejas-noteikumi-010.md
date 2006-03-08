@@ -1,0 +1,1 @@
+10. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2006.gada 30.septembrim piemērojami Ministru kabineta 2004.gada 7.decembra noteikumi Nr.1003 "Kārtība, kādā piešķir un izmaksā bērna kopšanas pabalstu un piemaksu pie bērna kopšanas pabalsta par dvīņiem vai vairākiem vienās dzemdībās dzimušiem bērniem", ciktāl tie nav pretrunā ar šo likumu.
