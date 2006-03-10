@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par pasažieru kuģu drošības prasībām",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "40",
+  "official_journal_page": null,
+  "official_journal_date": "2006-03-09",
+  "entry_into_force": "2006-03-10",
+  "notification_date": "2006-03-10",
+  "commission_reference": "MNE(2006)51659",
+  "nim_celex": "71998L0018LVA_129292",
+  "nim_id": "129292",
+  "transposes_celex": [
+    "31998L0018",
+    "32002L0025",
+    "32002L0084",
+    "32003L0024",
+    "32003L0075",
+    "32009L0045"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7fe61686-36bb-419b-9c96-7949cfbe25e3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
