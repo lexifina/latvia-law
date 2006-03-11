@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2001.gada 18.septembra noteikumos Nr.406 \"Jonizējošā starojuma avotu iepakošanas un marķēšanas kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "41",
+  "official_journal_page": null,
+  "official_journal_date": "2006-03-10",
+  "entry_into_force": "2006-03-11",
+  "notification_date": "2006-03-23",
+  "commission_reference": "MNE(2006)51956",
+  "nim_celex": "72003L0122LVA_129738",
+  "nim_id": "129738",
+  "transposes_celex": [
+    "32003L0122"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/afab4da4-9ba4-42e0-b1cb-4eaabaa2cad6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
