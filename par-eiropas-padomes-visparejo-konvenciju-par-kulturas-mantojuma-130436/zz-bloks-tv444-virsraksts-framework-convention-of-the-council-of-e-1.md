@@ -1,0 +1,149 @@
+Preamble
+The member states of the Council of Europe, signatory hereto,
+Considering that one of the aims of the Council of Europe is to achieve greater unity between its members for the purpose of safeguarding and fostering the ideals and principles, founded upon respect for human rights, democracy and the rule of law, which are their common heritage;
+Recognising the need to put people and human values at the centre of an enlarged and cross-disciplinary concept of cultural heritage;
+Emphasising the value and potential of cultural heritage wisely used as a resource for sustainable development and quality of life in a constantly evolving society;
+Recognising that every person has a right to engage with the cultural heritage of their choice, while respecting the rights and freedoms of others, as an aspect of the right freely to participate in cultural life enshrined in the United Nations Universal Declaration of Human Rights (1948) and guaranteed by the International Covenant on Economic, Social and Cultural Rights (1966);
+Convinced of the need to involve everyone in society in the ongoing process of defining and managing cultural heritage;
+Committed to the principle of heritage policies and educational initiatives which treat all cultural heritages equitably and so promote dialogue among cultures and religions;
+Referring to the various instruments of the Council of Europe, in particular the European Cultural Convention (1954), the Convention for the Protection of the Architectural Heritage of Europe (1985), the European Convention on the Protection of the Archaeological Heritage (1992, revised) and the European Landscape Convention (2000);
+Convinced of the importance of creating a pan-European framework for co-operation in the dynamic process of putting these principles into effect;
+have agreed as follows:
+SECTION 1 - AIMS, DEFINITIONS AND PRINCIPLES
+Article 1 - Aims of the Convention
+The parties to this Convention agree to:
+a. recognise that rights relating to cultural heritage are inherent in the right to participate in cultural life, as defined in the Universal Declaration of Human Rights;
+b. recognise individual and collective responsibility towards cultural heritage;
+c. emphasise that both the conservation of cultural heritage and its sustainable use have as their goal in society human development and quality of life;
+d. take the necessary steps to apply the provisions of this Convention concerning:
+- the role of cultural heritage in the construction of a peaceful and democratic society, and in the processes of sustainable development and the promotion of cultural diversity;
+- greater synergy of competencies among all the public, institutional and private actors concerned.
+Article 2 - Definitions
+For the purposes of this Convention,
+a. cultural heritage is a group of resources inherited from the past which people identify, independently of ownership, as a reflection and expression of their constantly evolving values, beliefs, knowledge and traditions. It includes all aspects of the environment resulting from the interaction between people and places through time;
+b. a heritage community consists of people who value specific aspects of cultural heritage which they wish, within the framework of public action, to sustain and transmit to future generations.
+Article 3 - The common heritage of Europe
+The parties agree to promote an understanding of the common heritage of Europe as:
+a. all cultural heritages within Europe which together constitute a shared source of remembrance, understanding, identity, cohesion and creativity, and;
+b. the ideals, principles and values, derived from the experience of progress and past conflicts, which foster progress in the development of a peaceful and stable society, founded on respect for human rights, democracy and the rule of law.
+Article 4 - Rights and responsibilities relating to cultural heritage
+The parties recognise that:
+a. everyone, alone or collectively, has the right to benefit from the cultural heritage and to contribute towards its enrichment;
+b. everyone, alone or collectively, has the responsibility to respect the cultural heritage of others equally with their own heritage, and consequently the common heritage of Europe;
+c. exercise of the right to cultural heritage may be subject only to those restrictions which are necessary in a democratic society for the protection of the public interest and the rights and freedoms of others.
+Article 5 - Cultural heritage law and policies
+The parties undertake to:
+a. recognise the public interest associated with elements of the cultural heritage in accordance with their importance to society;
+b. enhance the value of the cultural heritage through its identification, study, interpretation, protection, conservation and presentation;
+c. ensure, in the specific context of each party that legislative provisions exist for exercising the right to cultural heritage as defined in Article 4;
+d. foster an economic and social climate which supports participation in cultural heritage activities;
+e. promote cultural heritage protection as a central factor in the mutually supporting objectives of sustainable development, cultural diversity and contemporary creativity;
+f. recognise the value of cultural heritage situated on territories under their jurisdiction, regardless of its origin;
+g. formulate integrated strategies to facilitate the implementation of the provisions of this Convention.
+Article 6 - Effects of the Convention
+No provision of this Convention shall be interpreted so as to:
+a. limit or derogate from the human rights and fundamental freedoms which may be safeguarded by international instruments, in particular, the Universal Declaration of Human Rights and the Convention for the Protection of Human Rights and Fundamental Freedoms;
+b. affect more favourable provisions concerning cultural heritage and environment contained in other national legislation or international legal instruments;
+c. create enforceable rights.
+SECTION 2 - CONTRIBUTION OF CULTURAL HERITAGE TO SOCIETY AND HUMAN DEVELOPMENT
+Article 7 - Cultural heritage and dialogue
+The parties undertake, through the public authorities and other competent bodies, to:
+a. encourage reflection on the ethics and methods of presentation of the cultural heritage, as well as respect for diversity of interpretations;
+b. establish processes for conciliation to deal equitably with situations where contradictory values are placed on the same cultural heritage by different communities;
+c. develop knowledge of cultural heritage as a resource to facilitate peaceful co-existence by promoting confidence and mutual understanding with a view to resolution and prevention of conflicts;
+d. integrate these approaches into all aspects of lifelong education and training.
+Article 8 - Environment, heritage and quality of life
+The parties undertake to utilise all heritage aspects of the cultural environment to:
+a. enrich the processes of economic, political, social and cultural development and land-use planning, where appropriate undertaking cultural heritage impact assessments and adopting mitigation strategies;
+b. promote an integrated approach to policies concerning cultural, biological, geological and landscape diversity to achieve a balance between these elements;
+c. reinforce social cohesion by fostering a sense of shared responsibility towards the places in which people live;
+d. promote the objective of quality in contemporary additions to the environment without endangering its cultural values.
+Article 9 - Sustainable use of the cultural heritage
+To sustain the cultural heritage, the parties undertake to:
+a. promote respect for the integrity of the cultural heritage by ensuring that decisions about change are informed by an understanding of the cultural values involved;
+b. define and promote principles for sustainable management and encourage maintenance;
+c. ensure that all general technical standards take account of the specific conservation requirements of cultural heritage;
+d. promote the use of materials, techniques and skills based on tradition and explore their potential for contemporary applications;
+e. promote high-quality work through systems of professional qualifications and accreditation for individuals, enterprises and institutions.
+Article 10 - Cultural heritage and economic activity
+In order to make full use of the potential of the cultural heritage as a factor in sustainable economic development, the parties undertake to:
+a. raise awareness of, and utilise the economic potential of, the cultural heritage;
+b. recognise the specific character and interests of the cultural heritage when devising economic policies; and
+c. ensure that these policies respect the integrity of the cultural heritage not compromising its inherent values.
+SECTION 3 - SHARED RESPONSIBILITY FOR CULTURAL HERITAGE AND PUBLIC PARTICIPATION
+Article 11 - The organisation of public responsibility for cultural heritage
+In the management of the cultural heritage, the parties undertake to:
+a. promote an integrated and informed approach by public authorities in all sectors and at all levels;
+b. develop the legal, financial and professional frameworks which make possible joint action by public authorities, experts, owners, investors, businesses, non-governmental organisations and civil society;
+c. develop innovative ways for public authorities to co-operate with other actors;
+d. respect and encourage voluntary initiatives which complement the roles of public bodies;
+e. encourage non-governmental organisations concerned with heritage conservation to act in the public interest.
+Article 12 - Access to cultural heritage and democratic participation
+The parties undertake to:
+a. encourage everyone to participate in:
+- the process of identification, study, interpretation, protection, conservation and presentation of the cultural heritage;
+- public reflection and debate on the opportunities and challenges which the cultural heritage represents;
+b. take into consideration the values attached by each heritage community to the cultural heritage with which it identifies;
+c. recognise the role of voluntary organisations both as partners in activities and as constructive critics of cultural heritage policies;
+d. take steps to improve access to the heritage, especially among young people and the disadvantaged, in order to raise awareness about its value, the need to maintain and preserve it and the benefits which may be derived from it.
+Article 13 - Cultural heritage and knowledge
+The parties undertake to:
+a. facilitate the inclusion of the cultural heritage dimension in curricula at all levels of education, not necessarily as a subject of study in its own right but as a fertile source for studies in other subjects;
+b. strengthen the linkage between cultural heritage education and vocational training;
+c. encourage interdisciplinary research on cultural heritage, heritage communities, the environment and their inter-relationship;
+d. encourage continuous professional development and the exchange of knowledge and skills, both within and outside the educational system.
+Article 14 - Cultural heritage and the information society
+The parties undertake to develop the use of digital technology to enhance access to cultural heritage and the benefits which derive from it, by:
+a. encouraging initiatives which promote the quality of content and endeavour to secure diversity of languages and cultures in the information society;
+b. supporting internationally compatible standards for the study, conservation, enhancement and security of cultural heritage, not least in combating illicit trafficking in cultural property;
+c. seeking to resolve obstacles to access to information relating to cultural heritage, particularly for educational purposes, whilst protecting intellectual property rights;
+d. recognising that the creation of digital content related to the heritage should not prejudice the conservation of the existing heritage.
+SECTION 4 - MONITORING AND CO-OPERATION
+Article 15 - Undertakings of the parties
+The parties undertake to:
+a. develop, through the Council of Europe, a monitoring function, covering law, policy and practice concerning cultural heritage, consistent with the principles established by this Convention;
+b. maintain, develop and contribute data to a shared information system, accessible to the public, which facilitates assessment of how each party fulfils its commitments under this Convention.
+Article 16 - Monitoring mechanism
+a. The Committee of Ministers, pursuant to Article 17 of the Statute of the Council of Europe, shall nominate an appropriate committee or specify an existing committee to monitor the application of the Convention and may authorise it to make rules for the conduct of its business;
+b. The nominated committee shall:
+- establish rules of procedure as necessary;
+- manage the shared information system referred to in Article 15, maintaining an overview of the means by which each commitment under this Convention is met;
+- at the request of one or more parties, give an advisory opinion on any question relating to the interpretation of the Convention, taking into consideration all Council of Europe legal instruments;
+- on the initiative of any party or parties, undertake an evaluation of any aspect of their implementation of the Convention;
+- foster the trans-sectoral application of this Convention by collaborating with other committees and participating in other initiatives of the Council of Europe;
+- report to the Committee of Ministers on its activities.
+The Committee may involve experts and observers in its work.
+Article 17 - Co-operation in follow-up activities
+The parties undertake to co-operate with each other and through the Council of Europe in pursuing the aims and principles of this Convention, and especially in promoting recognition of the common heritage of Europe, by:
+a. putting in place collaborative strategies to address priorities identified through the monitoring process;
+b. fostering multilateral and trans-frontier activities and developing networks for regional co-operation in order to implement these strategies;
+c. exchanging, developing, codifying and assuring the dissemination of good practice;
+d. informing the public about the aims and implementation of this Convention.
+Any parties may, by agreement, make financial arrangements to facilitate international co-operation.
+Article 18 - Signature and entry into force
+a. This Convention shall be open for signature by the member states of the Council of Europe.
+b. It shall be subject to ratification, acceptance or approval. Instruments of ratification, acceptance or approval shall be deposited with the Secretary General of the Council of Europe.
+c. This Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date on which ten member states of the Council of Europe have expressed their consent to be bound by the Convention in accordance with the provisions of the preceding paragraph.
+d. In respect of any signatory state which subsequently expresses its consent to be bound by it, this Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of deposit of the instrument of ratification, acceptance or approval.
+Article 19 - Accession
+a. After the entry into force of this Convention, the Committee of Ministers of the Council of Europe may invite any state not a member of the Council of Europe, and the European Union, to accede to the Convention by a decision taken by the majority provided for in Article 20.d of the Statute of the Council of Europe and by the unanimous vote of the representatives of the contracting states entitled to sit on the Committee.
+b. In respect of any acceding state, or the European Union in the event of its accession, this Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of deposit of the instrument of accession with the Secretary General of the Council of Europe.
+Article 20 - Territorial application
+a. Any state may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, specify the territory or territories to which this Convention shall apply.
+b. Any state may, at any later date, by a declaration addressed to the Secretary General of the Council of Europe, extend the application of this Convention to any other territory specified in the declaration. In respect of such territory, the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of receipt of such declaration by the Secretary General.
+c. Any declaration made under the two preceding paragraphs may, in respect of any territory specified in such declaration, be withdrawn by a notification addressed to the Secretary General. The withdrawal shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of such notification by the Secretary General.
+Article 21 - Denunciation
+a. Any party may, at any time, denounce this Convention by means of a notification addressed to the Secretary General of the Council of Europe.
+b. Such denunciation shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of the notification by the Secretary General.
+Article 22 - Amendments
+a. Any party, and the Committee mentioned in Article 16, may propose amendments to this Convention.
+b. Any proposal for amendment shall be notified to the Secretary General of the Council of Europe, who shall communicate it to the member states of the Council of Europe, to the other parties, and to any non-member states which have been invited to accede to this Convention in accordance with the provisions of Article 19.
+c. The Committee shall examine any amendment proposed and submit the text adopted by a majority of three-quarters of the parties' representatives to the Committee of Ministers for adoption. Following its adoption by the Committee of Ministers by the majority provided for in Article 20.d of the Statute of the Council of Europe, and by the unanimous vote of the states parties entitled to hold seats in the Committee of Ministers, the text shall be forwarded to the parties for acceptance.
+d. Any amendment shall enter into force in respect of the parties which have accepted it on the first day of the month following the expiry of a period of three months after the date on which three Council of Europe member sates have informed the Secretary General of their acceptance. In respect of any party which subsequently accepts it, such amendment shall enter into force on the first day of the month following the expiry of a period of three months after the date on which the said party has informed the Secretary General of its acceptance.
+Article 23 - Notifications
+The Secretary General of the Council of Europe shall notify the member states of the Council of Europe, any state which has acceded or been invited to accede to this Convention, and the European Union if it has acceded or been invited to accede, of:
+a. any signature;
+b. the deposit of any instrument of ratification, acceptance, approval or accession;
+c. any date of entry into force of this Convention in accordance with the provisions of Articles 18, 19 and 20;
+d. any amendment proposed to this Convention in accordance with the provisions of Article 22;
+e. any other act, declaration, notification or communication relating to this Convention.
