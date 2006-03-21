@@ -14,7 +14,7 @@ Likumā ir lietoti šādi termini:
 12) meža ieaudzēšana - meža sēšana un stādīšana, kā arī dabiskās atjaunošanās veicināšana ar mežu neapklātās zemēs;
 13) meža ilgtspējīga apsaimniekošana - mežu un meža zemju pārvaldīšana un izmantošana tādā veidā un pakāpē, lai saglabātu to bioloģisko daudzveidību, produktivitāti un vitalitāti, kā arī atjaunošanās spēju un spēju pildīt nozīmīgas ekoloģiskās, ekonomiskās un sociālās funkcijas tagad un nākotnē, vietējā un globālā mērogā;
 14) meža inventarizācija - informācijas iegūšana par mežu un tās dokumentēšana;
-15) meža monitorings - pastāvīgu novērojumu sistēma mežā augošo koku veselības stāvokļa, vides stāvokļa un vides piesārņojuma ietekmes novērtēšanai;
+15) meža monitorings - pastāvīga novērojumu sistēma meža un vides mijiedarbības novērtēšanai;
 16) meža reproduktīvā materiāla ieguves avoti - atsevišķi koki, mežaudzes un meža koku sēklu ieguves plantācijas;
 17) meža reproduktīvais materiāls - sēklas, sējeņi, stādi un augu daļas, ko paredzēts izmantot meža atjaunošanai vai ieaudzēšanai;
 18) meža tiesiskais valdītājs -

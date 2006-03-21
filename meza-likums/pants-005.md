@@ -3,5 +3,5 @@
 (2) Fizisko personu uzturēšanos un brīvu pārvietošanos citā mežā var ierobežot to īpašnieks vai tiesiskais valdītājs.
 (3) Pašvaldība pēc Valsts meža dienesta vai vides aizsardzības institūcijas ierosinājuma meža ugunsdrošības interesēs, kā arī īpaši aizsargājamo teritoriju, meža augu un dzīvnieku aizsardzības interesēs var ierobežot fizisko personu tiesības uzturēties un brīvi pārvietoties mežā.
 (4) Ja fiziskās personas tiesības uzturēties un brīvi pārvietoties mežā ir ierobežotas, meža īpašnieka vai tiesiskā valdītāja pienākums ir norobežot attiecīgo teritoriju ar pārskatāmiem brīdinājuma uzrakstiem.
-(5) Valsts amatpersonām, pildot dienesta pienākumus, ir tiesības bez ierobežojumiem pārvietoties mežā.
+(5) Valsts amatpersonām, pildot dienesta pienākumus, un meža inventarizācijas un meža monitoringa veicējiem, pildot darba pienākumus, ir tiesības bez ierobežojumiem pārvietoties mežā, nepieciešamības gadījumā uzrādot dienesta vai darba apliecību vai meža inventarizācijas veicēja reģistrācijas dokumentu.
 (6) Ierobežojums uzturēties un brīvi pārvietoties mežā ir spēkā tikai tad, ja izpildīta šā panta ceturtajā daļā noteiktā prasība.
