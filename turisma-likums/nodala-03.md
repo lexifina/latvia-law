@@ -1,2 +1,2 @@
 III nodaļa
-Uzņēmējdarbība tūrisma nozarē
+Tūrisma pakalpojumi
