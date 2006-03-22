@@ -1,0 +1,5 @@
+326.² pants. Prettiesiska labumu pieprasīšana un pieņemšana
+(1) Par materiālu vērtību, mantiska vai citāda rakstura labumu apzināti prettiesisku pieprasīšanu un pieņemšanu, ko pats vai ar starpnieku izdarījis valsts vai pašvaldības iestādes darbinieks, kurš nav valsts amatpersona, vai valsts institūcijas pilnvarota tāda pati persona par kādas darbības izdarīšanu vai neizdarīšanu labuma devēja interesēs, ļaunprātīgi izmantojot savas pilnvaras, neatkarīgi no tā, vai pieņemtās materiālās vērtības, mantiska vai citāda rakstura labumi domāti šai personai vai jebkurai citai personai, -
+soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar piespiedu darbu, vai ar naudas sodu līdz astoņdesmit minimālajām mēnešalgām.
+(2) Par tādām pašām darbībām, ja tās izdarītas atkārtoti vai lielā apmērā, vai tās izdarījusi personu grupa pēc iepriekšējas vienošanās, -
+soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar mantas konfiskāciju, vai ar piespiedu darbu, vai ar naudas sodu līdz simt minimālajām mēnešalgām, atņemot tiesības uz noteiktu nodarbošanos vai tiesības ieņemt noteiktu amatu uz laiku līdz diviem gadiem vai bez tā.
