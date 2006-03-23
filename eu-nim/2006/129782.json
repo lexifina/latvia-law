@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ostas valsts kontroles kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "47",
+  "official_journal_page": null,
+  "official_journal_date": "2006-03-22",
+  "entry_into_force": "2006-03-23",
+  "notification_date": "2006-03-23",
+  "commission_reference": "MNE(2006)52000",
+  "nim_celex": "71996L0040LVA_129782",
+  "nim_id": "129782",
+  "transposes_celex": [
+    "31996L0040"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9a298893-0f09-444e-b6fe-8cd6b95416e4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
