@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2006.gada 14.marta noteikumi Nr.198 \"Noteikumi par jūras kuģu aprīkojumu\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "47(3415)",
+  "official_journal_page": null,
+  "official_journal_date": "2006-03-22",
+  "entry_into_force": "2006-03-23",
+  "notification_date": "2012-10-05",
+  "commission_reference": "MNE(2012)54514",
+  "nim_celex": "72011L0075LVA_195862",
+  "nim_id": "195862",
+  "transposes_celex": [
+    "32011L0075"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5c0f1688-e97e-4584-bd8d-9d3ed74620d8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
