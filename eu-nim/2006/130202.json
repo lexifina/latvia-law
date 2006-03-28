@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par informāciju elektroenerģijas galalietotājiem",
+  "type_of_act": "SPRK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "50",
+  "official_journal_page": null,
+  "official_journal_date": "2006-03-28",
+  "entry_into_force": null,
+  "notification_date": "2006-04-06",
+  "commission_reference": "MNE(2006)52298",
+  "nim_celex": "72003L0054LVA_130202",
+  "nim_id": "130202",
+  "transposes_celex": [
+    "32003L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8c079202-f773-47a4-9751-c27fa380a5b6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
