@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Veterinārās prasības cūku sugas dzīvnieku spermas tirdzniecībai",
+  "type_of_act": "Ministra noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "52",
+  "official_journal_page": null,
+  "official_journal_date": "2006-03-30",
+  "entry_into_force": null,
+  "notification_date": "2008-03-04",
+  "commission_reference": "MNE(2008)51583",
+  "nim_celex": "71990L0429LVA_154326",
+  "nim_id": "154326",
+  "transposes_celex": [
+    "31990L0429"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/529a49dc-21c0-46fa-b1c6-893c3e6de80a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
