@@ -1,0 +1,1 @@
+1.pants. 2005.gada 3.oktobrī parakstītais Latvijas Republikas valdības un Azerbaidžānas Republikas valdības līgums par savstarpēju palīdzību muitas lietās (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
