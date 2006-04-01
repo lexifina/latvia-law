@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par zāļu klīniskās izpētes un lietošanas novērojumu veikšanu, pētāmo zāļu marķēšanu un kārtību, kādā tiek vērtēta atbilstība labas klīniskās prakses prasībām",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "45",
+  "official_journal_page": null,
+  "official_journal_date": "2006-03-17",
+  "entry_into_force": "2006-04-01",
+  "notification_date": "2006-03-29",
+  "commission_reference": "MNE(2006)52115",
+  "nim_celex": "72001L0020LVA_129976",
+  "nim_id": "129976",
+  "transposes_celex": [
+    "32001L0020",
+    "32005L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ea9a4726-a8fd-4d2b-b7bb-900ad4628f94",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
