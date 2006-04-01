@@ -1,0 +1,1 @@
+1.pants. 1991.gada 1.februāra Eiropas nolīgums par svarīgākajām starptautisko kombinēto pārvadājumu līnijām un atbilstošajiem objektiem (AGTC) (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
