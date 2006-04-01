@@ -1,0 +1,1 @@
+1.pants. 1992.gada 27.novembra Starptautiskās konvencijas par starptautiskā fonda nodibināšanu naftas piesārņojuma radīto zaudējumu kompensācijai (turpmāk - Konvencija) 2003.gada 16.maija protokols (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
