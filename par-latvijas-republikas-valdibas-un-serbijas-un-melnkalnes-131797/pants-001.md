@@ -1,0 +1,1 @@
+1.pants. 2005.gada 22.novembrī Belgradā parakstītā Latvijas Republikas valdības un Serbijas un Melnkalnes Ministru padomes konvencija par nodokļu dubultās uzlikšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
