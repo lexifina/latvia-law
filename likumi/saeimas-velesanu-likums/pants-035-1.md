@@ -1,0 +1,2 @@
+35.¹ pants. (1) Saraksta iesniedzējiem ir tiesības iepazīties ar balsu skaitīšanas protokolu un triju darbdienu laikā pēc tam, kad pieņemts lēmums par protokola rezultātu apstiprināšanu, apstrīdēt to Centrālajā vēlēšanu komisijā. Centrālā vēlēšanu komisija iesniegumu izskata un lēmumu pieņem triju dienu laikā.
+(2) Centrālās vēlēšanu komisijas lēmumu par apstrīdēto iecirkņa komisijas balsu skaitīšanas protokolu triju darbdienu laikā no tā pieņemšanas dienas var pārsūdzēt tiesā.

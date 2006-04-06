@@ -1,1 +1,2 @@
-51. pants. Kandidātu saraksta iesniedzējam, kā arī pieteiktajiem kandidātiem ir tiesības septiņu dienu laikā no vēlēšanu komisijas lēmuma pieņemšanas dienas pārsūdzēt šo lēmumu tiesā pēc vēlēšanu komisijas atrašanās vietas.
+51. pants. (1) Kandidātu sarakstu iesniedzējiem ir tiesības Centrālās vēlēšanu komisijas lēmumu par vēlēšanu rezultātu apstiprināšanu triju darbdienu laikā pēc tā pieņemšanas pārsūdzēt tiesā.
+(2) Pieteikuma iesniegšana tiesā neaptur šā panta pirmajā daļā minētā lēmuma darbību.

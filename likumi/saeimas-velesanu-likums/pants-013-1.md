@@ -1,0 +1,2 @@
+13.¹ pants. (1) Centrālās vēlēšanu komisijas lēmumu par kandidātu saraksta reģistrēšanu vai atteikumu reģistrēt kandidātu sarakstu, kā arī par pieteiktā kandidāta svītrošanu no reģistrētā kandidātu saraksta var pārsūdzēt tiesā triju darbdienu laikā no minētā lēmuma pieņemšanas.
+(2) Lai izpildītu tiesas spriedumu, ar kuru atcelts šā panta pirmajā daļā minētais lēmums, Centrālā vēlēšanu komisija reģistrē vai svītro attiecīgo kandidātu sarakstu vai arī pieteikto kandidātu atjauno reģistrētajā kandidātu sarakstā vai svītro no tā.

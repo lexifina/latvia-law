@@ -1,0 +1,2 @@
+52.² pants. (1) Saeimas Mandātu un iesniegumu komisija pēc tam, kad ir saņēmusi Centrālās vēlēšanu komisijas lēmumu par mandātu pārdali, par to paziņo nākamajā Saeimas sēdē.
+(2) Ja Saeima atbalsta Centrālās vēlēšanu komisijas lēmumu, ar tā paziņošanas brīdi izbeidzas Centrālās vēlēšanu komisijas lēmumā norādītās personas deputāta pilnvaras un Prezidijs uzaicina iestāties Saeimas sastāvā lēmumā norādīto personu.
