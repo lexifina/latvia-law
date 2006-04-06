@@ -1,2 +1,2 @@
-II. nodaļa
-Biržas kapitāls un akcijas
+II nodaļa
+Biržas pamatkapitāls, obligātā rezerve un akcijas

@@ -2,8 +2,7 @@ LIKUMĀ LIETOTIE TERMINI
 Birža ir akciju sabiedrība, kas veicina tirdzniecību ar precēm, finanšu instrumentiem, valūtu un nekustamo īpašumu (pirkšanu-pārdošanu), rīkojot publiskas izsoles, kurās piedalās biržā reģistrētie brokeri.
 Preču birža ir birža, kurā notiek darījumu slēgšana par precēm (aizstājamām lietām) pēc to paraugiem vai aprakstiem un standartiem.
 Fondu birža ir birža, kurā notiek darījumu slēgšana par finanšu instrumentiem un ārvalstu valūtu.
-Biržas biedri ir Latvijas Republikas uzņēmēji un ārvalstu fiziskās vai juridiskās personas, kuru īpašumā ir biržas akcijas un kuras piedalās biržas pārvaldē un veic biržas darījumus.
-Biržas dibinātāji ir fiziskās un juridiskās personas, kuras paraksta dibināšanas dokumentus un iegādājas vismaz vienu akciju.
+Biržas biedri ir personas, kuru īpašumā ir biržas akcijas un kuras piedalās biržas pārvaldē un veic biržas darījumus.
 Biržas apmeklētāji ir fiziskās personas vai juridisko personu pārstāvji, kuriem ir tiesības apmeklēt biržas sanāksmes, bet nav tiesību veikt biržas darījumus.
 Biržas sanāksme ir biržas biedru un brokeru sapulcēšanās biržas zālē noteiktā laikā biržas darījumu slēgšanai.
 Biržas darījums ir darījums, kas noslēgts biržas zālē biržas sanāksmes laikā publiskā izsolē, kurā piedalās brokeri, dīleri un biržas apmeklētāji, kuriem ir tiesības piedalīties biržas darījumos.

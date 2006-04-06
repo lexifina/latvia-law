@@ -1,5 +1,5 @@
 33. pants. Biržas biedru (akcionāru) pilnsapulce
-Papildus tām funkcijām, kas pilnsapulcei noteiktas Latvijas Republikas likumā «Par akciju sabiedrībām», biržas biedru (akcionāru) pilnsapulce veic šādas funkcijas:
+Papildus tām funkcijām, kas pilnsapulcei noteiktas Komerclikumā, biržas biedru (akcionāru) pilnsapulce veic šādas funkcijas:
 1) ievēlē preču kotācijas komisiju;
 2) ievēlē biržas arbitrāžas komisiju;
 3) var uzdot biržas valdei izveidot mākleriātu, norēķinu komisiju, reģistrācijas biroju, informācijas nodaļu un citus speciālos dienestus;
