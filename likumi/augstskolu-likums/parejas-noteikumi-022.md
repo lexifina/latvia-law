@@ -1,1 +1,1 @@
-22. Pirms šā likuma 26.panta septītās daļas (par ievēlēšanas vietu) spēkā stāšanās noslēgtie darba līgumi paliek spēkā līdz darba līgumā noteiktā termiņa beigām.
+22. Darba līgumi, kas noslēgti ar augstskolu akadēmisko personālu līdz 2005.gada 31.augustam, ir spēkā līdz attiecīgajā darba līgumā noteiktā termiņa beigām.

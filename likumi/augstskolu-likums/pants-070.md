@@ -1,6 +1,6 @@
 70.pants. Augstākās izglītības padomes pamatuzdevumi, kompetence un funkcijas
 Augstākās izglītības padome:
-1) izstrādā augstākās izglītības un augstskolu attīstības nacionālo koncepciju, paredzot gan valsts, gan pašvaldību un citu juridisko un fizisko personu dibināto augstskolu attīstību, un veicina visu veidu augstskolu un augstākās akadēmiskās un augstākās profesionālās izglītības līdztiesīgu un līdzsvarotu attīstību;
+1) izstrādā augstākās izglītības un augstskolu attīstības nacionālo koncepciju, paredzot gan valsts, gan citu juridisko un fizisko personu dibināto augstskolu attīstību, un veicina visu veidu augstskolu un augstākās akadēmiskās un augstākās profesionālās izglītības līdztiesīgu un līdzsvarotu attīstību;
 2) izstrādā ilgtermiņa plānus un priekšlikumus izglītības un zinātnes attīstībai augstākās izglītības sistēmā;
 3) izstrādā priekšlikumus par augstskolu zinātniskā darba, personāla kvalifikācijas un studiju programmu kvalitātes celšanu;
 4) prognozē valsts attīstībai nepieciešamo studentu skaitu valstī kopumā un izstrādā priekšlikumus par valsts budžeta finansēto studentu skaitu katrā nozarē;

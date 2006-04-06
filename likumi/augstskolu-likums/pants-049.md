@@ -4,5 +4,5 @@
 2) noskaidrojas, ka tās uzņemšanu ir ietekmējusi maldināšana, kukuļdošana vai cita rīcība, ar kuru pārkāpts pretendentu vienlīdzības princips;
 3) tā augstskolas noteiktajos termiņos nav nokārtojusi nepieciešamos pārbaudījumus vai nav veikusi citus studiju uzdevumus;
 4) tā ir pārkāpusi augstskolas iekšējās kārtības noteikumus.
-(2) Personas izslēgšanu no studējošo saraksta veic augstskolas vai koledžas rektors vai dekāns. Apelācijas izskata senāts vai fakultātes dome.
-(3) Izslēdzot studentu no pilna laika studējošo saraksta, augstskola un koledža par to informē Militārā dienesta iesaukšanas centru.
+(2) Augstskolā personas izslēgšanu no studējošo saraksta veic augstskolas rektors vai dekāns, koledžā - koledžas direktors. Apelācijas izskata senāts vai koledžas padome.
+(3) Izslēdzot studentu no pilna laika studējošo saraksta, augstskola vai koledža par to informē Militārā dienesta iesaukšanas centru.

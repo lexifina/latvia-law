@@ -1,0 +1,1 @@
+26. Šā likuma 3.panta piektās daļas trešajā teikumā ietvertais noteikums neattiecas uz augstskolām, kuras līdz šā likuma spēkā stāšanās brīdim reģistrētas Augstskolu reģistrā un kuru nosaukumos (kā arī to izveidoto institūciju nosaukumos) ietverts vārds "institūts".

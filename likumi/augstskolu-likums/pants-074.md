@@ -6,4 +6,4 @@
 2) ir Augstākās izglītības padomes finanšu rīkotājs;
 3) pieņem darbā un atbrīvo no darba Augstākās izglītības padomes sekretariāta darbiniekus;
 4) slēdz līgumus ar fiziskajām un juridiskajām personām Augstākās izglītības padomes darba nodrošināšanai.
-(4) Augstākās izglītības padomes priekšsēdētāja amatalga tiek pielīdzināta 1. kategorijas valsts civildienesta ierēdņa amatalgai.
+(4) Augstākās izglītības padomes priekšsēdētāja amatalga tiek pielīdzināta valsts ministra amatalgai.

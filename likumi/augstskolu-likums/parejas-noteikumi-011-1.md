@@ -1,0 +1,1 @@
+11.¹ Attiecībā uz Iekšlietu ministrijas sistēmā esošajām koledžām Ministru kabinets ir tiesīgs noteikt citu kārtību šo koledžu pārstāvības (10.¹ pants), studējošo komplektēšanas (45.pants) un studiju programmu apstiprināšanas (55.pants) jautājumos, ja to prasa šīs izglītības iestādes profesionālā specifika.
