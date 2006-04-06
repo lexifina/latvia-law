@@ -1,1 +1,1 @@
-2. Saeima ievēlē Mandātu un iesniegumu komisiju, kas pārbauda vēlēšanu materiālus, kā arī sūdzības par vēlēšanām, ja šādas sūdzības iesniegtas Centrālajai vēlēšanu komisijai ne vēlāk kā četras dienas pēc oficiālo vēlēšanu rezultātu izsludināšanas likumā noteiktajā kārtībā.
+2. Saeima ievēlē Mandātu, ētikas un iesniegumu komisiju, kas pārbauda vēlēšanu materiālus, kā arī sūdzības par vēlēšanām, ja šādas sūdzības iesniegtas Centrālajai vēlēšanu komisijai ne vēlāk kā četras dienas pēc oficiālo vēlēšanu rezultātu izsludināšanas likumā noteiktajā kārtībā.

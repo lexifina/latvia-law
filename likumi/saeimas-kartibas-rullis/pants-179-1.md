@@ -1,0 +1,1 @@
+179.¹ Pēc deputāta rakstveida lūguma Mandātu, ētikas un iesniegumu komisija izvērtē, vai tas, kā viņš nodomājis rīkoties sarežģītā situācijā, no ētikas viedokļa nebūs pretrunā ar Saeimas deputātu ētikas kodeksu. Ja saņemts šāds deputāta lūgums, komisijas sēde tiek sasaukta pēc iespējas tuvākajā laikā, vienojoties ar iesniedzēju.

@@ -1,1 +1,1 @@
-10. Saeimas deputātu uzņēmējdarbības, ienākumu gūšanas, amatu savienošanas, darbu pildīšanas ierobežojumus, kā arī ar tiem saistītos citus ierobežojumus un pienākumus nosaka Korupcijas novēršanas likums.
+10. Saeimas deputātu uzņēmējdarbības, ienākumu gūšanas, amatu savienošanas, darbu pildīšanas ierobežojumus, kā arī ar tiem saistītos citus ierobežojumus un pienākumus nosaka likums "Par interešu konflikta novēršanu valsts amatpersonu darbībā".

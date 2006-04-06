@@ -1,0 +1,1 @@
+Saeimas deputātu ētikas kodekss

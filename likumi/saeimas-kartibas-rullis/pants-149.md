@@ -8,7 +8,7 @@
 7) Valsts pārvaldes un pašvaldības komisija;
 8) Tautsaimniecības, agrārās, vides un reģionālās politikas komisija;
 9) Sociālo un darba lietu komisija;
-10) Mandātu un iesniegumu komisija;
+10) Mandātu, ētikas un iesniegumu komisija;
 11) Pieprasījumu komisija;
 12) Publisko izdevumu un revīzijas komisija;
 13) Saimnieciskā komisija;
