@@ -1,4 +1,4 @@
-10.pants. Par noziedzīga nodarījuma izdarīšanā aizdomās turēto, apsūdzēto, tiesājamo vai notiesāto personu DNS nacionālajā datu bāzē iekļaujama šāda informācija:
+10.pants. Par noziedzīga nodarījuma izdarīšanā aizdomās turēto, apsūdzēto vai notiesāto personu DNS nacionālajā datu bāzē iekļaujama šāda informācija:
 1) personas vārds (vārdi) un uzvārds;
 2) personas kods (ārvalstniekiem un bezvalstniekiem - dzimšanas datums);
 3) valstiskā piederība un tās veids;
