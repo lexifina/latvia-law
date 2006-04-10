@@ -1,0 +1,1 @@
+6. Likuma 10.panta otrās daļas jaunā redakcija, grozījumi 38.panta pirmās daļas otrajā teikumā, 107.panta trešajā daļā, 149.panta trešās daļas 6.punkta pirmajā teikumā, 320.panta pirmās daļas 3.punktā, kā arī 347.panta pirmās daļas 9.punkta otrais teikums (par komercreģistra iestādes amatpersonas tiesībām apliecināt paraksta paraugus) stājas spēkā 2006.gada 1.jūlijā.

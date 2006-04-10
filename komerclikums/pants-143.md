@@ -12,9 +12,9 @@ b) juridiskajai personai - nosaukumu, reģistrācijas numuru, juridisko adresi, 
 8) jebkurus īpašus pienākumus, tiesības vai priekšrocības, kas sabiedrības dibināšanas laikā piešķirtas personai, kura piedalījusies sabiedrības dibināšanā;
 9) sabiedrības valdes locekļu vārdu, uzvārdu, personas kodu un dzīvesvietu;
 10) sabiedrības padomes locekļu vārdu, uzvārdu, personas kodu un dzīvesvietu (ja sabiedrībai ir padome);
-11) revidenta vārdu, uzvārdu, personas kodu un dzīvesvietu;
+11) revidenta vārdu, uzvārdu, personas kodu un dzīvesvietu, ja revidents ir sabiedrībā paredzēts;
 12) citus noteikumus, ko dibinātāji uzskata par būtiskiem un kas nav pretrunā ar likumu.
 (2) Dibināšanas līgumu paraksta visi dibinātāji.
-(3) Dibināšanas līgums ir spēkā līdz tajā noteikto saistību pienācīgai izpildei un līdz tajā norādītā sabiedrības padomes, valdes un revidenta pilnvaru termiņa beigām saskaņā ar šā likuma 145.panta otrās daļas noteikumiem.
+(3) Dibināšanas līgums ir spēkā līdz tajā noteikto saistību pienācīgai izpildei un līdz tajā norādītā sabiedrības padomes un valdes pilnvaru termiņa beigām saskaņā ar šā likuma 145.panta otrās daļas noteikumiem.
 (4) (Izslēgta ar 14.02.2002. likumu)
 (5) Ja sabiedrību dibina viens dibinātājs, tas dibināšanas līguma vietā sastāda un paraksta lēmumu par sabiedrības dibināšanu. Uz lēmumu par sabiedrības dibināšanu attiecas šā likuma noteikumi, kuri regulē dibināšanas līgumu.

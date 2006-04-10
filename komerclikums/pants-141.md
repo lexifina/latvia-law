@@ -1,7 +1,7 @@
 141.pants. Sabiedrības dibināšanas kārtība
 (1) Dibinot sabiedrību, dibinātāji veic šādas darbības:
 1) izstrādā un paraksta sabiedrības dibināšanas dokumentus saskaņā ar šā likuma 142.pantu;
-2) izveido sabiedrības pārvaldes institūcijas un ieceļ revidentu;
+2) izveido sabiedrības pārvaldes institūcijas un, ja tas ir sabiedrībā paredzēts, ieceļ revidentu;
 3) apmaksā pamatkapitālu noteiktā apmērā, organizē dibinātāju naudas iemaksu noguldīšanu bankā un saņem izziņu par izdarīto ieguldījumu;
 4) organizē mantiskā ieguldījuma novērtēšanu (ja tiek izdarīts mantiskais ieguldījums);
 5) samaksā valsts nodevu par ierakstīšanu komercreģistrā un maksu par reģistra ierakstu izsludināšanu;

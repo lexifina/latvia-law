@@ -8,4 +8,4 @@
 (7) Padomes locekli var jebkurā laikā atsaukt no amata ar akcionāru sapulces lēmumu.
 (8) Padomes loceklis var jebkurā laikā atstāt padomes locekļa amatu, par to iesniedzot paziņojumu sabiedrībai.
 (9) Ja padomes loceklis atstāj amatu vai tiek atsaukts no amata pirms padomes termiņa beigām, notiek jaunas padomes locekļu vēlēšanas, kurās pārvēlē visu padomes sastāvu.
-(10) Par izmaiņām padomes locekļu sastāvā valde ziņo komercreģistra iestādei, iesniedzot padomes locekļu sarakstu un attiecīgo akcionāru sapulces lēmumu vai attiecīgā padomes locekļa paziņojumu.
+(10) Par izmaiņām padomes locekļu sastāvā valde ziņo komercreģistra iestādei, iesniedzot padomes locekļu sarakstu, katra padomes locekļa rakstveida piekrišanu un attiecīgo akcionāru sapulces lēmumu vai attiecīgā padomes locekļa paziņojumu.

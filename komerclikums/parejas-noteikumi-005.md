@@ -1,0 +1,1 @@
+5. Šā likuma 149.panta trešās daļas 5.punkta otrais teikums un 224.panta otrās daļas trešais teikums (par sabiedrības valdes locekļa tiesībām neiesniegt rakstveida piekrišanu būt par valdes locekli), kā arī grozījumi, saskaņā ar kuriem tiek izslēgts 25.panta otrās daļas 5.punkts un 75.panta trešās daļas 4.punkts, stājas spēkā 2006.gada 1.jūlijā.

@@ -16,7 +16,7 @@
 (3) Par kapitālsabiedrību komercreģistrā ierakstāmas šādas ziņas:
 1) firma;
 2) kapitālsabiedrības veids;
-3) kapitālsabiedrības valdes locekļu, padomes locekļu (ja kapitālsabiedrībai ir izveidota padome) un revidenta vārds, uzvārds, personas kods, dzīvesvieta un ieņemamais amats;
+3) kapitālsabiedrības valdes locekļu, padomes locekļu (ja kapitālsabiedrībai ir izveidota padome) vārds, uzvārds, personas kods, dzīvesvieta un ieņemamais amats;
 4) valdes locekļu tiesības pārstāvēt kapitālsabiedrību atsevišķi vai kopīgi;
 5) pamatkapitāla lielums, atsevišķi norādot parakstītā un apmaksātā pamatkapitāla lielumu;
 6) (izslēgts ar 14.02.2002. likumu);

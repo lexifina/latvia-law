@@ -1,0 +1,1 @@
+8. Sākot ar 2006.gada 10.aprīli, kad spēkā stājas likuma grozījumi, kas nosaka, ka ziņas par revidentu nav komercreģistrā ierakstāmās ziņas, komercreģistra iestādes amatpersona, nepieņemot atsevišķu lēmumu un nepiemērojot šā likuma 11.panta noteikumu, izdara komercreģistrā ierakstu par tādu ziņu izslēgšanu no komercreģistra, kuras satur informāciju par sabiedrības revidentu.

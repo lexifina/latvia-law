@@ -1,6 +1,7 @@
 285.pants. Akcionāru sapulces protokols
 (1) Akcionāru sapulces protokolā norāda:
 1) sabiedrības firmu;
+1¹) institūciju, kura sasauc akcionāru sapulci, un laiku, kad par akcionāru sapulces sasaukšanu ir izsūtīts paziņojums un kad tas ir publicēts, ja publicēšanu paredz likums;
 2) akcionāru sapulces norises vietu un laiku;
 3) sabiedrības parakstītā pamatkapitāla, apmaksātā pamatkapitāla un balsstiesīgā pamatkapitāla lielumu;
 4) akcionāru sapulcē pārstāvētā pamatkapitāla lielumu un klātesošo balsstiesīgo akcionāru balsu skaitu;

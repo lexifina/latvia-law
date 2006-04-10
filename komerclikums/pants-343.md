@@ -6,8 +6,8 @@
 2) prospektu;
 3) revidenta atzinumu;
 4) visu reorganizācijā iesaistīto sabiedrību gada pārskatiem par pēdējiem trim pārskata gadiem;
-5) sabiedrības saimnieciskās darbības pārskatu un ārkārtas bilanci, kas sastādīti ne agrāk kā trīs mēnešus līdz reorganizācijas paziņojuma iesniegšanai komercreģistra iestādei, ja iepriekšējais gada pārskats sastādīts vairāk nekā sešus mēnešus pirms paziņojuma iesniegšanas.
-(4) Šā panta trešās daļas 5.punktā minētais sabiedrības saimnieciskās darbības pārskats un ārkārtas bilance sastādāma saskaņā ar likuma prasībām par gada pārskata sastādīšanu.
+5) sabiedrības saimnieciskās darbības pārskatu, kas sagatavots ne agrāk kā trīs mēnešus līdz reorganizācijas paziņojuma iesniegšanai komercreģistra iestādei, ja iepriekšējais gada pārskats sastādīts vairāk nekā sešus mēnešus pirms paziņojuma iesniegšanas.
+(4) Šā panta trešās daļas 5.punktā minētais sabiedrības saimnieciskās darbības pārskats sagatavojams saskaņā ar likuma prasībām par gada pārskata sastādīšanu.
 (5) Dalībniekam ir tiesības bez maksas saņemt šā panta trešajā daļā minēto dokumentu kopijas vai izrakstus.
 (6) Kapitālsabiedrības dalībnieku sapulcē sabiedrības valdei pēc dalībnieku pieprasījuma jāsniedz paskaidrojumi par līguma projektu un prospektu, par reorganizācijas tiesiskajām un saimnieciskajām sekām, kā arī ziņas par citām reorganizācijas procesā iesaistītajām sabiedrībām.
 (7) Lēmums par reorganizāciju sastādāms atsevišķa dokumenta veidā.
