@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Dzīvnieku, ganāmpulku un novietņu reģistrēšanas un dzīvnieku apzīmēšanas kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "60",
+  "official_journal_page": null,
+  "official_journal_date": "2006-04-13",
+  "entry_into_force": null,
+  "notification_date": "2006-10-19",
+  "commission_reference": "MNE(2006)56907",
+  "nim_celex": "71990L0427LVA_136595",
+  "nim_id": "136595",
+  "transposes_celex": [
+    "31990L0427",
+    "31992L0102"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c2361ea7-daaf-4d7e-87f8-1990fd1fcd03",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
