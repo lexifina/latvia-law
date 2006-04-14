@@ -1,0 +1,1 @@
+2.pants. Labklājības ministrija informē Ārlietu ministriju par minimālo vecumu pieņemšanai darbā Latvijas Republikā, un Ārlietu ministrija Konvencijas 2.panta pirmajā daļā noteiktajā kārtībā par to informē Starptautisko darba organizāciju.
