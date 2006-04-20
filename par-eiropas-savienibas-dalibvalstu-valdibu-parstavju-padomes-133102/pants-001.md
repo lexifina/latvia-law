@@ -1,0 +1,1 @@
+1.pants. 2004.gada 10.novembrī Briselē parakstītais Eiropas Savienības dalībvalstu valdību pārstāvju padomes lēmums par Eiropas Aizsardzības aģentūras un tās personāla privilēģijām un imunitātēm (turpmāk - Lēmums) ar šo likumu tiek pieņemts un apstiprināts.
