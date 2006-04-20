@@ -12,3 +12,4 @@
 (4) Fonda nozares ekspertu komisijas sastāvā ir septiņi locekļi - attiecīgās kultūras nozares speciālisti.
 (5) Fonda nozares ekspertu komisijas pilnvaru laiks ir divi gadi. Fonda nozares ekspertu komisijas locekļi komisijā drīkst darboties ne vairāk kā vienu pilnvaru laiku pēc kārtas.
 (6) Fonda nozares ekspertu komisijas priekšsēdētāju no sava vidus ar balsu vairākumu ievēlē attiecīgās Fonda nozares ekspertu komisijas locekļi.
+(7) Atlīdzības apmēru Fonda nozaru ekspertu komisiju locekļiem un komisiju darbā iesaistītajiem lietpratējiem un ekspertiem nosaka Fonda padome Ministru kabineta noteiktajā kārtībā.
