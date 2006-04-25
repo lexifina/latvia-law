@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par finanšu konglomerāta kapitāla pietiekamības aprēķināšanas kārtību un par informācijas sniegšanu par nozīmīgiem riska koncentrācijas gadījumiem un nozīmīgiem grupas iekšējiem darījumiem",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "65",
+  "official_journal_page": null,
+  "official_journal_date": "2006-04-25",
+  "entry_into_force": "2006-04-25",
+  "notification_date": "2006-04-25",
+  "commission_reference": "MNE(2006)52710",
+  "nim_celex": "72002L0087LVA_130789",
+  "nim_id": "130789",
+  "transposes_celex": [
+    "32002L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e9c0765e-8e24-4e09-8af1-3bc8152b18b2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
