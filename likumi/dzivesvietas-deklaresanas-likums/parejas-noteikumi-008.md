@@ -1,0 +1,1 @@
+8. Grozījumi šā likuma 7.panta pirmajā daļā, kā arī šā likuma 7.panta ceturtās un piektās daļas, 8.panta otrās daļas, 8.1 panta un 9.panta trešās un ceturtās daļas jaunā redakcija, kas nosaka Pārvaldi par dzīvesvietas deklarēšanas iestādi un dzīvesvietas deklarēšanu elektroniski un pa pastu, stājas spēkā 2007.gada 1.janvārī.

@@ -4,5 +4,5 @@
 1) darba pienākumu izpildi jūrā;
 2) dienestu obligātajā aktīvajā militārajā dienestā;
 3) medicīniskās palīdzības saņemšanu ārstniecības iestādē;
-4) soda izciešanu ieslodzījuma vietā.
+4) apcietinājumu vai soda izciešanu ieslodzījuma vietā.
 (3) Par personu prombūtni šā panta otrajā daļā minēto iemeslu dēļ attiecīgās iestādes paziņo Pilsonības un migrācijas lietu pārvaldei (turpmāk - Pārvalde).
