@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 25.04.2006. noteikumi Nr.322 \"Noteikumi par pārvades sistēmas operatora ikgadējo novērtējuma ziņojumu\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "68",
+  "official_journal_page": null,
+  "official_journal_date": "2006-04-28",
+  "entry_into_force": "2006-04-29",
+  "notification_date": "2008-02-18",
+  "commission_reference": "MNE(2008)51022",
+  "nim_celex": "72003L0054LVA_153572",
+  "nim_id": "153572",
+  "transposes_celex": [
+    "32003L0054",
+    "32005L0089"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1ecc8919-ed40-4f82-b0c5-67abfb20eff2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
