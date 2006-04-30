@@ -1,0 +1,4 @@
+33.¹ pants. Smagu dzelzceļa avāriju izmeklēšanas institūcija
+(1) Smagas dzelzceļa avārijas gadījumā izmeklēšanas darbības organizē, veic un kontrolē smagu dzelzceļa avāriju izmeklēšanas institūcija.
+(2) Smagu dzelzceļa avāriju izmeklēšanas institūcija organizatoriski, juridiski un savu lēmumu pieņemšanā ir neatkarīga no dzelzceļa infrastruktūras pārvaldītāja, pārvadātāja un dzelzceļa tehniskās ekspluatācijas kontroles un uzraudzības institūcijas, kā arī no institūcijas, kas atbild par dzelzceļa infrastruktūras maksas noteikšanu un iekasēšanu, dzelzceļa infrastruktūras jaudas iedalīšanu vai valsts pārvaldes realizēšanu dzelzceļa transporta jomā, un no personām, kuru intereses var būt pretrunā ar izmeklēšanas institūcijas uzdevumiem.
+(3) Iestādi, kas pilda šā panta pirmajā daļā minētās funkcijas, nosaka Ministru kabinets.
