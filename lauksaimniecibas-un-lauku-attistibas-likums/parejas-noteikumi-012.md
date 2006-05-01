@@ -1,0 +1,1 @@
+12. Līdz šā likuma 5.panta sestajā daļā paredzēto noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2007.gada 1.janvārim piemērojami Ministru kabineta 2006.gada 3.janvāra noteikumi Nr.21 "Noteikumi par valsts atbalstu lauksaimniecībai 2006.gadā un tā piešķiršanas kārtību", ciktāl tie nav pretrunā ar šo likumu.
