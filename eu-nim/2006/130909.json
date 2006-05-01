@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Publisko iepirkumu likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "65",
+  "official_journal_page": null,
+  "official_journal_date": "2006-04-25",
+  "entry_into_force": "2006-05-01",
+  "notification_date": "2006-05-02",
+  "commission_reference": "MNE(2006)52812",
+  "nim_celex": "71989L0665LVA_130909",
+  "nim_id": "130909",
+  "transposes_celex": [
+    "31989L0665",
+    "32004L0018",
+    "32005L0051",
+    "32005L0075"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/85acd769-b572-409e-9f18-80276d7c9edf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
