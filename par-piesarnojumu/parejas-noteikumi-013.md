@@ -1,1 +1,1 @@
-13. Vides ministrija pieņem lēmumu par emisijas kvotu piešķiršanu šā likuma 24.¹ panta piektās daļas 1.punktā noteiktajam periodam līdz 2004.gada 1.decembrim, bet katram nākamajam 24.¹ panta piektajā daļā minētajam periodam - vismaz 13 mēnešus pirms attiecīgā perioda.
+13. Vides ministrija pieņem lēmumu par emisijas kvotu piešķiršanu šā likuma 24.¹ panta piektās daļas 1.punktā noteiktajam periodam līdz 2004.gada 1.decembrim.

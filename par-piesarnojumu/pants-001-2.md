@@ -40,10 +40,10 @@ b) skābju, piemēram, hromskābes, fluorūdeņražskābes, fosforskābes, slāp
 c) bāzu, piemēram, amonija hidroksīda, kālija hidroksīda, nātrija hidroksīda, ražošanai,
 d) sāļu, piemēram, amonija hlorīda, kālija hlorāta, kālija karbonāta, nātrija karbonāta, perborāta, sudraba nitrāta, ražošanai,
 e) nemetālu, metālu oksīdu vai citu neorganisko savienojumu, piemēram, kalcija karbīda, silīcija, silīcija karbīda, ražošanai;
-3) uzņēmumi fosforu, slāpekli vai kāliju saturošo vienkāršo vai kombinēto minerālmēslu ražošanai;
-4) uzņēmumi augu aizsardzības līdzekļu vai biocīdu ražošanai;
-5) uzņēmumi, kuri ražo farmaceitiskas vielas, izmantojot ķīmiskus vai bioloģiskus procesus;
-6) uzņēmumi sprāgstvielu ražošanai.
+3) iekārtas fosforu, slāpekli vai kāliju saturošo vienkāršo vai kombinēto minerālmēslu ražošanai;
+4) iekārtas augu aizsardzības līdzekļu vai biocīdu ražošanai;
+5) iekārtas, kurās ražo farmaceitiskas vielas, izmantojot ķīmiskus vai bioloģiskus procesus;
+6) iekārtas sprāgstvielu ražošanai.
 (5) Atkritumu saimniecībā:
 1) iekārtas bīstamo atkritumu, arī naftas produktu atkritumu, apglabāšanai vai pārstrādei, kuru jauda pārsniedz 10 tonnas dienā;
 2) iekārtas sadzīves atkritumu sadedzināšanai, kuru jauda pārsniedz 3 tonnas stundā;

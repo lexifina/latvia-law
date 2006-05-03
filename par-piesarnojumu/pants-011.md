@@ -17,5 +17,9 @@
 10) noteikumus par atsevišķu dzelzceļa un upju satiksmē izmantojamo iekšdedzes dzinēju radīto piesārņojošo vielu emisiju gaisā;
 11) noteikumus par notekūdeņu dūņu un to kompostu izmantošanu, monitoringu un kontroli;
 12) kārtību, kādā ierobežojama piesārņojošo vielu emisija no noteiktiem produktiem;
-13) atsevišķas bīstamas ķīmiskās vielas saturošu iekārtu un produktu lietošanas un marķēšanas prasības un videi kaitīgo preču sarakstu.
+13) atsevišķas bīstamas ķīmiskās vielas saturošu iekārtu un produktu lietošanas un marķēšanas prasības un videi kaitīgo preču sarakstu;
+14) šķidrās degvielas veidus ar paaugstinātu sēra saturu, kurus aizliegts izlaist brīvam apgrozījumam vai realizēt;
+15) vides kvalitātes normatīvus iekārtām un noteikta veida kuģošanas līdzekļiem, kuri izmanto sēru saturošu šķidro degvielu;
+16) izmēģinājumu un inovatīvo emisijas samazināšanas tehnoloģiju izmantošanu kuģošanas līdzekļos.
 (3) Ministru kabinets nosaka kopējo valstī maksimāli pieļaujamo emisiju gaisā konkrētā laikposmā un konkrētiem piesārņojuma veidiem.
+(4) Ministru kabinets nosaka kārtību, kādā biedrība "Latvijas Antīko automobiļu klubs" izsniedz apliecinājumu par to, ka transportlīdzeklis atbilst antīkā transportlīdzekļa statusam, lai iegādātos produktus ar paaugstinātu gaistošo organisko savienojumu saturu.
