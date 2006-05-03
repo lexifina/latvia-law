@@ -1,2 +1,1 @@
-43.pants. (1) Pārtikas un veterinārais dienests organizē dzīvnieku pirmskaušanas apskati un pēckaušanas veterināro ekspertīzi (turpmāk -veterinārā ekspertīze).
-(2) Veterinārā ekspertīze tiek veikta saskaņā ar Pārtikas un veterinārā dienesta ģenrāldirektora apstiprinātiem metodiskajiem norādījumiem.
+43.pants. Pārtikas un veterinārais dienests veic dzīvnieku pirmskaušanas un pēckaušanas veterināro ekspertīzi saskaņā ar prasībām, kas noteiktas regulā (EK) Nr. 854/2004.

@@ -1,1 +1,1 @@
-48.pants. Dzīvnieku izcelsmes pārtikas jēlproduktus (olas, medu, pienu) un mājas apstākļos ražotos dzīvnieku izcelsmes pārtikas produktus izplata tikai tādos tirgos, kuri ir reģistrēti Pārtikas aprites uzraudzības likumā noteiktajā kārtībā.
+48.pants. Dzīvnieku izcelsmes primāros produktus (olas, medu, pienu, zivis) izplata saskaņā ar prasībām, kas noteiktas regulā (EK) Nr. 852/2004, regulā (EK) Nr. 853/2004 un Pārtikas aprites uzraudzības likumā.

@@ -1,1 +1,0 @@
-44.pants. Kautproduktus, medījumus, svaigus zvejas produktus izplata tikai pēc Pārtikas un veterinārā dienesta pilnvarota veterinārārsta veiktas veterinārās ekspertīzes un saskaņā ar viņa atzinumu par produktu turpmāko izmantošanu (drīkst lietot cilvēku uzturā brīvi vai jāievēro kādi nosacījumi, drīkst izmantot citādā veidā vai tie iznīcināmi).

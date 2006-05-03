@@ -9,7 +9,7 @@
 8) nekavējoties ziņot:
 a) praktizējošam veterinārārstam par dzīvnieka nobeigšanos, abortiem, vairāku dzīvnieku vienlaicīgas saslimšanas gadījumiem un jebkuru gadījumu, kas rada aizdomas par dzīvnieku saslimšanu ar infekcijas slimību;
 b) komersantiem, kuri nodarbojas ar izmantošanai pārtikā neparedzēto dzīvnieku izcelsmes blakusproduktu savākšanu, par dzīvnieku nobeigšanās gadījumiem;
-9) dzīvniekus realizācijai nokaut kautuvēs Ministru kabineta noteiktajā kārtībā;
+9) nokaut dzīvniekus kautuvēs saskaņā ar prasībām, kas noteiktas regulā (EK) Nr. 853/2004;
 10) nodrošināt dzīvnieku līķu savākšanu normatīvajos aktos noteiktajā kārtībā;
 11) valsts uzraudzībā esošo dzīvnieku infekcijas slimību apkarošanas gadījumos pēc Pārtikas un veterinārā dienesta pārtikas un veterinārā inspektora vai praktizējoša veterinārārsta pieprasījuma:
 a) uzrādīt dzīvniekus, kā arī dzīvnieku mītnes un veterināro dokumentāciju (diagnostisko izmeklējumu un vakcinācijas aktus, diagnostiski izmeklēto un vakcinēto dzīvnieku sarakstus, laboratorisko izmeklējumu rezultātus),
