@@ -6,7 +6,7 @@ Latvijas Republikā ir šādi valsts nodokļi un tiem atbilstošie likumi par no
 4) pievienotās vērtības nodoklis - "Par pievienotās vērtības nodokli";
 5) akcīzes nodoklis - "Par akcīzes nodokli";
 6) muitas nodoklis - Muitas likums un citi muitas lietās noteikto kārtību reglamentējoši normatīvie akti;
-7) dabas resursu nodoklis - "Par dabas resursu nodokli";
+7) dabas resursu nodoklis - Dabas resursu nodokļa likums;
 8) izložu un azartspēļu nodoklis - "Par izložu un azartspēļu nodevu un nodokli";
 9) valsts sociālās apdrošināšanas obligātās iemaksas - "Par valsts sociālo apdrošināšanu";
 10) vieglo automobiļu un motociklu nodoklis - "Par vieglo automobiļu un motociklu nodokli".

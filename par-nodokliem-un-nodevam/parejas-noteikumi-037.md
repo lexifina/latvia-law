@@ -1,1 +1,1 @@
-37. Šā likuma 24.panta desmitajā un divpadsmitajā daļā un pārejas noteikumu 39.punktā paredzētās valsts īpašuma atsavināšanu veicošās institūcijas funkcijas pilda Privatizācijas aģentūra līdz brīdim, kad Privatizācijas aģentūra saskaņā ar Ministru kabineta rīkojumu šīs funkcijas ir nodevusi Ministru kabineta noteiktajai valsts īpašuma atsavināšanu veicošajai institūcijai.
+37. Šā likuma 24.panta desmitajā un divpadsmitajā daļā un pārejas noteikumu 39.punktā paredzētās valsts īpašuma atsavināšanu veicošās institūcijas funkcijas pilda Privatizācijas aģentūra.
