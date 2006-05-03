@@ -1,19 +1,20 @@
 8.pants. Dziesmu un deju svētku padome
 (1) Dziesmu un deju svētku tradīcijas saglabāšanas un attīstības programmas īstenošanas pārraudzībai Ministru kabinets izveido Dziesmu un deju svētku padomi.
 (2) Dziesmu un deju svētku padomes sastāvu apstiprina uz pieciem gadiem - laika posmam starp kārtējiem Vispārējiem latviešu dziesmu un deju svētkiem. Dziesmu un deju svētku padomes priekšsēdētāju no sava vidus uz pieciem gadiem ievēlē padomes locekļi.
-(3) Dziesmu un deju svētku padomes sastāvā ir 14 locekļi:
+(3) Dziesmu un deju svētku padomes sastāvā ir 15 locekļi:
 1) kultūras ministrs;
 2) izglītības un zinātnes ministrs;
 3) finanšu ministrs;
-4) Rīgas Domes priekšsēdētājs;
-5) Latvijas Pašvaldību savienības priekšsēdis;
-6) divi koru nozares pārstāvji (pieaugušo koru pārstāvis un skolēnu koru pārstāvis);
-7) divi deju nozares pārstāvji (pieaugušo deju kolektīvu pārstāvis un skolēnu deju kolektīvu pārstāvis);
-8) pūtēju orķestru nozares pārstāvis;
-9) tautas lietišķās mākslas nozares pārstāvis;
-10) tautas mūzikas nozares pārstāvis;
-11) tradicionālās kultūras nozares pārstāvis;
-12) profesionālās mūzikas pārstāvis.
+4) Saeimas Izglītības, kultūras un zinātnes komisijas deleģēts deputāts, kurš var būt arī šīs padomes priekšsēdētājs;
+5) Rīgas Domes priekšsēdētājs;
+6) Latvijas Pašvaldību savienības priekšsēdis;
+7) divi koru nozares pārstāvji (pieaugušo koru pārstāvis un skolēnu koru pārstāvis);
+8) divi deju nozares pārstāvji (pieaugušo deju kolektīvu pārstāvis un skolēnu deju kolektīvu pārstāvis);
+9) pūtēju orķestru nozares pārstāvis;
+10) tautas lietišķās mākslas nozares pārstāvis;
+11) tautas mūzikas nozares pārstāvis;
+12) tradicionālās kultūras nozares pārstāvis;
+13) profesionālās mūzikas pārstāvis.
 (4) Dziesmu un deju svētku padomes sastāvā, ja nepieciešams, var iekļaut arī citus ministrus un citu institūciju pārstāvjus.
 (5) Dziesmu un deju svētku padomes tehnisko un organizatorisko darbību nodrošina Kultūras ministrija. Dziesmu un deju svētku padomes priekšsēdētāja un sekretariāta darbs tiek apmaksāts no valsts budžeta.
 (6) Dziesmu un deju svētku padome:
