@@ -12,4 +12,8 @@
 2) specifisku uz parakstītāju attiecināmu juridisku faktu (ja tāds vajadzīgs) atkarībā no mērķa, kādam kvalificēts sertifikāts paredzēts;
 3) summas ierobežojumus darījumiem, kuru veikšanai var izmantot kvalificētu sertifikātu;
 4) parakstītāja personas identifikācijas numuru.
-(3) Kvalificētu sertifikātu paraksta ar uzticama sertifikācijas pakalpojumu sniedzēja drošu elektronisko parakstu.
+(3) Kvalificētu sertifikātu paraksta ar uzticama sertifikācijas pakalpojumu sniedzēja elektronisko parakstu. Elektroniskais paraksts atbilst šādām prasībām:
+1) tas ir piesaistīts vienīgi uzticamam sertifikācijas pakalpojumu sniedzējam;
+2) tas nodrošina uzticama sertifikācijas pakalpojumu sniedzēja identifikāciju;
+3) tas ir radīts ar līdzekļiem, kurus var kontrolēt tikai uzticams sertifikācijas pakalpojumu sniedzējs;
+4) tas ir saistīts ar parakstīto elektronisko dokumentu tā, lai vēlāk veiktas izmaiņas parakstītajā elektroniskajā dokumentā būtu pamanāmas.
