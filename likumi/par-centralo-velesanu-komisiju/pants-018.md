@@ -9,4 +9,4 @@
 7) ja to pieprasa ne mazāk kā 10 Saeimas deputāti, sniedz pārskatu Saeimai par vēlēšanu un tautas nobalsošanas, un likumu ierosināšanas sagatavošanu;
 8) atver un slēdz Centrālās vēlēšanu komisijas kontus kredītiestādēs, rīkojas ar Centrālās vēlēšanu komisijas naudas līdzekļiem;
 9) pilda citus ar vēlēšanām un tautas nobalsošanu, un likumu ierosināšanu saistītus pienākumus.
-Priekšsēdētāja prombūtnes laikā viņa amata pienākumus pilda priekšsēdētāja vietnieks.
+Priekšsēdētāja prombūtnes laikā viņa amata pienākumus pilda priekšsēdētāja vietnieks, bet priekšsēdētāja un priekšsēdētāja vietnieka prombūtnes laikā - Centrālās vēlēšanu komisijas sekretārs.
