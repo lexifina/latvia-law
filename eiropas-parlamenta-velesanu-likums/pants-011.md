@@ -8,7 +8,7 @@ b) personas kods vai vēlētāja kods,
 c) pilsonība,
 d) dzīvesvieta (rajons vai republikas pilsēta),
 e) darbavieta,
-f) kādas izglītības iestādes beidzis (kurā gadā, kādā specialitātē vai programmā),
+f) kādas izglītības iestādes beidzis un kurā gadā, kāda izglītības pakāpe iegūta un kādā specialitātē,
 g) vai viņš ir vai ir bijis PSRS, Latvijas PSR vai ārvalstu valsts drošības dienestu, izlūkdienestu vai pretizlūkošanas dienestu štata darbinieks,
 h) vai viņš ir vai nav sadarbojies ar PSRS vai Latvijas PSR valsts drošības dienestiem, izlūkdienestiem vai pretizlūkošanas dienestiem kā šo dienestu ārštata darbinieks, aģents, rezidents vai konspiratīvā dzīvokļa turētājs,
 i) vai pēc 1991.gada 13.janvāra viņš ir vai nav darbojies PSKP (LKP), Latvijas PSR Darbaļaužu internacionālajā frontē, Darba kolektīvu apvienotajā padomē, Kara un darba veterānu organizācijā, Vislatvijas Sabiedrības glābšanas komitejā vai tās reģionālajās komitejās.
