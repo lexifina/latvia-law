@@ -30,7 +30,7 @@ Likumā ir lietoti šādi termini:
 28) profilakses pasākumi - pasākumi infekcijas slimību izcelšanās un izplatīšanās novēršanai, cilvēku un vides veselības stiprināšanai (šādā nozīmē jāsaprot arī jēdzieni "profilakse" un "profilaktisks");
 29) slimnieks - persona, kas saslimusi ar infekcijas slimību;
 30) vakcinācija (potēšana) - specifisks profilakses pasākums, lai, ievadot vakcīnu, ierosinātu vai uzturētu organisma neuzņēmību pret kādu infekcijas slimību;
-31) Imunizācijas valsts programma - programma, kurā ir noteikti imunizācijas mērķi, uzdevumi, vakcinācijas kalendārs un citi valstī veicamie pasākumi tādu infekcijas slimību izplatības novēršanai vai likvidācijai, kuru pamatprofilakses veids ir vakcinācija;
+31) Imunizācijas valsts programma - programma, kurā ir noteikti imunizācijas mērķi, uzdevumi un citi valstī veicamie pasākumi tādu infekcijas slimību izplatības novēršanai vai likvidācijai, kuru pamatprofilakses veids ir vakcinācija;
 32) paaugstināta riska objekts - iestādes, uzņēmumi (uzņēmējsabiedrības) un organizācijas, kuru darbības veids ir pakalpojumu sniegšana patērētājiem un kuru darbības vai izmantojamo iekārtu darbības dēļ var plaši izplatīties infekcijas slimības, ja tiek pieļauta infekcijas slimību perēkļa rašanās;
 33) references laboratorija - noteiktā profilā akreditēta un pilnvarota laboratorija, kas nodarbojas ar infekcijas slimību diagnostiku, to izraisītāju noteikšanu un izpēti atbilstoši starptautiski atzītajām testēšanas metodēm un standartiem, veicina testēšanas metožu attīstību valstī;
 34) zoonoze - infekcijas slimība, ar kuru slimo gan cilvēki, gan dzīvnieki.
