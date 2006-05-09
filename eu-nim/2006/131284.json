@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par pesticīdu atlieku kontroli dzīvnieku izcelsmes produktos",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "71",
+  "official_journal_page": null,
+  "official_journal_date": "2006-05-09",
+  "entry_into_force": null,
+  "notification_date": "2006-05-15",
+  "commission_reference": "MNE(2006)53091",
+  "nim_celex": "72005L0048LVA_131284",
+  "nim_id": "131284",
+  "transposes_celex": [
+    "32005L0048",
+    "32005L0070",
+    "32006L0030"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/562e69b7-ed85-486d-b86a-61ad986401e2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
