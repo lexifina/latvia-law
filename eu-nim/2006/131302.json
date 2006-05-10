@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par kārtību, kādā Latvijas Republika saņem un sniedz palīdzību Eiropas Savienības dalībvalstīm un Šengenas līguma valstīmpiespiedu izraidīšanā pa gaisa telpu, šīs palīdzības apjomu un kārtībukādā organizējami kopīgi lidojumi starp Eiropas Savienības dalībvalstīm un Šengenas līguma valstīm",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "71",
+  "official_journal_page": null,
+  "official_journal_date": "2006-05-09",
+  "entry_into_force": "2006-05-10",
+  "notification_date": "2006-05-15",
+  "commission_reference": "MNE(2006)53106",
+  "nim_celex": "72003L0110LVA_131302",
+  "nim_id": "131302",
+  "transposes_celex": [
+    "32003L0110"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9dbc3abb-c6b2-4d44-ba23-63e301157b18",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
