@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas iekšējās kontroles sistēmas izstrādes noteikumi",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "76",
+  "official_journal_page": null,
+  "official_journal_date": "2006-05-17",
+  "entry_into_force": "2006-05-18",
+  "notification_date": "2008-03-04",
+  "commission_reference": "MNE(2008)51502",
+  "nim_celex": "72005L0060LVA_154177",
+  "nim_id": "154177",
+  "transposes_celex": [
+    "32005L0060",
+    "32006L0070"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/713a6032-1c25-4132-a1eb-55d24ab4c6cb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
