@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Privāto pensiju fondu gada pārskata sagatavošanas noteikumi",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "82",
+  "official_journal_page": null,
+  "official_journal_date": "2006-05-26",
+  "entry_into_force": "2006-05-27",
+  "notification_date": "2008-01-18",
+  "commission_reference": "MNE(2008)50509",
+  "nim_celex": "71986L0635LVA_152893",
+  "nim_id": "152893",
+  "transposes_celex": [
+    "31986L0635",
+    "32001L0065",
+    "32003L0051",
+    "32006L0046"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/629abb65-0939-44b6-95c2-e05d39361fc2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
