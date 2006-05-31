@@ -1,1 +1,1 @@
-Likumā iekļautas tiesību normas, kas izriet no direktīvas 93/109/EC.
+Likumā iekļautas tiesību normas, kas izriet no Padomes 1993.gada 6.decembra direktīvas 93/109/EK, ar ko nosaka sīki izstrādātu kārtību balsstiesību un tiesību kandidēt Eiropas Parlamenta vēlēšanās izmantošanai Savienības pilsoņiem, kas dzīvo dalībvalstī, kuras pilsoņi tie nav.

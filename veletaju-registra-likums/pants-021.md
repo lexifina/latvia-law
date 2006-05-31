@@ -1,1 +1,1 @@
-21.pants. Lēmumu par personas iekļaušanu Reģistrā, atteikšanos iekļaut Reģistrā vai izslēgšanu no tā var apstrīdēt tiesā Administratīvā procesa likumā noteiktajā kārtībā. Tiesa izskata pieteikumu ne vēlāk kā triju darba dienu laikā pēc lietas ierosināšanas.
+21.pants. Lēmumu par personas iekļaušanu Reģistrā, atteikšanos iekļaut Reģistrā vai izslēgšanu no tā var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā. Tiesa izskata pieteikumu ne vēlāk kā triju darbdienu laikā pēc lietas ierosināšanas. Tiesas spriedums izpildāms nekavējoties.
