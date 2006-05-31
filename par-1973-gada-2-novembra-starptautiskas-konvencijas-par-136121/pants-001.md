@@ -1,0 +1,1 @@
+1.pants. 1973.gada 2.novembra Starptautiskās konvencijas par piesārņojuma novēršanu no kuģiem, kas grozīta ar 1978.gada Protokolu, 1997.gada 26.septembra Protokols (konvencijas MARPOL 73/78 VI pielikums) (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.

@@ -1,0 +1,1 @@
+3.pants. Protokola pielikuma 11.noteikumā, 15.noteikuma pirmajā daļā, 17.noteikumā un 18.noteikuma septītās daļas "e" punktā paredzētās saistības kontrolē Vides ministrija. Protokola pielikuma 18.noteikuma septītās daļas "a", "b", "c" un "d" punktā paredzētās saistības pilda Valsts ieņēmumu dienests.
