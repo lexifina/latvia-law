@@ -1,2 +1,2 @@
 III nodaļa
-Ieguldījumi un uzņēmējdarbība Liepājas speciālajā ekonomiskajā zonā
+Ieguldījumi un komercdarbība Liepājas speciālajā ekonomiskajā zonā

@@ -1,4 +1,4 @@
 53. pants
 (1) Ārvalstniekiem atļauju strādāt algotu darbu Liepājas speciālās ekonomiskās zonas teritorijā, lai izpildītu noslēgtos līgumus, veiktu speciālus montāžas darbus un citos svarīgos gadījumos, dod Liepājas speciālās ekonomiskās zonas pārvalde.
 (2) Liepājas speciālās ekonomiskās zonas pārvaldei ir tiesības atvieglotā veidā iesniegt pieprasījumus ārvalstnieku termiņuzturēšanās atļauju saņemšanai Pilsonības un migrācijas lietu pārvaldes apstiprinātajā kārtībā, kas saskaņota ar Liepājas speciālo ekonomiskās zonas pārvaldi.
-(3) Liepājas speciālās ekonomiskās zonas uzņēmējsabiedrībām jāveic vietējā personāla apmācība, kā arī citi pasākumi, lai samazinātos ārvalstu personāla iesaistīšana algotā darbā Liepājas speciālajā ekonomiskajā zonā un Liepājas speciālās ekonomiskās zonas uzņēmējsabiedrībās.
+(3) Liepājas speciālās ekonomiskās zonas komercsabiedrībām jāveic vietējā personāla apmācība, kā arī citi pasākumi, lai samazinātos ārvalstu personāla iesaistīšana algotā darbā Liepājas speciālajā ekonomiskajā zonā un Liepājas speciālās ekonomiskās zonas komercsabiedrībās.
