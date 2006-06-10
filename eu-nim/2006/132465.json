@@ -1,0 +1,29 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2004.gada 20.aprīļa noteikumos Nr.354",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-09",
+  "entry_into_force": "2006-06-10",
+  "notification_date": "2006-06-13",
+  "commission_reference": "MNE(2006)53940",
+  "nim_celex": "71980L1335LVA_132465",
+  "nim_id": "132465",
+  "transposes_celex": [
+    "31980L1335",
+    "31982L0434",
+    "31983L0514",
+    "31985L0490",
+    "31993L0073",
+    "31995L0032",
+    "31996L0045",
+    "32005L0080"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7b7c1963-4e98-4e3e-bc96-1d71e50d56f6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
