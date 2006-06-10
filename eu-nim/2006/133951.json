@@ -1,0 +1,28 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2004.gada 17.februāra noteikumos Nr.87 'Kārtība, kādā novērtējama paredzētās darbības ietekme uz vidi'",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "90",
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-09",
+  "entry_into_force": "2006-06-10",
+  "notification_date": "2006-08-04",
+  "commission_reference": "MNE(2006)54976",
+  "nim_celex": "71979L0409LVA_133951",
+  "nim_id": "133951",
+  "transposes_celex": [
+    "31979L0409",
+    "31985L0337",
+    "31992L0043",
+    "31996L0061",
+    "31997L0011",
+    "32003L0035",
+    "32009L0147"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/22893e69-cea6-4c67-a381-8a9cbdd0d1eb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
