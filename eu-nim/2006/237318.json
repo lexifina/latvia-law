@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2006.gada 6.jūnija noteikumi Nr.453 “Noteikumi par radiofrekvences piešķīruma lietošanas atļaujām”",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "90 (3458)",
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-09",
+  "entry_into_force": "2006-06-10",
+  "notification_date": "2016-05-06",
+  "commission_reference": "MNE(2016)53023",
+  "nim_celex": "72014L0053LVA_237318",
+  "nim_id": "237318",
+  "transposes_celex": [
+    "32014L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e682f251-676e-4b7f-aa27-be99fde712cc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
