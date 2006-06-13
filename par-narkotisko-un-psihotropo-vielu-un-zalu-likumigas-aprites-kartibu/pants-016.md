@@ -1,3 +1,3 @@
-16.pants. (1) Valsts zāļu aģentūra veic narkotisko un psihotropo vielu un zāļu patēriņa aprēķinu analīzi un, pamatojoties uz to, sagatavo un iesniedz ANO Starptautiskajai narkotiku kontroles padomei apstiprināšanai narkotisko un psihotropo vielu gada patēriņa kvotu.
-(2) Valsts zāļu aģentūra apkopo un iesniedz ANO Starptautiskajai narkotiku kontroles padomei ceturkšņa un gada statistikas pārskatus par narkotisko un psihotropo vielu apriti.
-(3) Valsts zāļu aģentūra sniedz ziņojumus ANO Starptautiskajai narkotiku kontroles padomei par tādiem pasūtījumiem vai operācijām, kas narkotiskās un psihotropās vielas un zāles varētu novirzīt nelegālajā apritē.
+16.pants. (1) Zāļu valsts aģentūra veic narkotisko un psihotropo vielu un zāļu patēriņa aprēķinu analīzi un, pamatojoties uz to, sagatavo un iesniedz ANO Starptautiskajai narkotiku kontroles padomei apstiprināšanai narkotisko un psihotropo vielu gada patēriņa kvotu.
+(2) Zāļu valsts aģentūra apkopo un iesniedz ANO Starptautiskajai narkotiku kontroles padomei ceturkšņa un gada statistikas pārskatus par narkotisko un psihotropo vielu apriti.
+(3) Zāļu valsts aģentūra sniedz ziņojumus ANO Starptautiskajai narkotiku kontroles padomei par tādiem pasūtījumiem vai operācijām, kas narkotiskās un psihotropās vielas un zāles varētu novirzīt nelegālajā apritē.

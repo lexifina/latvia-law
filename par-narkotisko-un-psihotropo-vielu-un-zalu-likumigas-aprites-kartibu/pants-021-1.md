@@ -1,0 +1,3 @@
+21.¹ pants. (1) Katram sūtījumam uz valsti, kas ir Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts, nepieciešami trīs importa vai eksporta atļaujas eksemplāri.
+(2) Vienu importa atļaujas eksemplāru klients nosūta eksportētājam, otru eksemplāru pievieno sūtījumam, uz trešā eksemplāra pēc importa darījuma veikšanas norāda faktiski importēto vielu un zāļu daudzumu, datumu un iesniedz to Zāļu valsts aģentūrai.
+(3) Vienu eksporta atļaujas eksemplāru klients pievieno sūtījumam, otru eksemplāru Zāļu valsts aģentūra nosūta importētājas valsts kompetentajai institūcijai, trešo eksemplāru izsniedz klientam, kas pēc eksporta darījuma veikšanas norāda faktiski eksportēto vielu un zāļu daudzumu, datumu un iesniedz to Zāļu valsts aģentūrai.

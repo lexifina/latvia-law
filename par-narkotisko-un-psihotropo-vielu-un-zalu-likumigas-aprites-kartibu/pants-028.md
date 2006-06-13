@@ -1,1 +1,1 @@
-28.pants. Ministru kabinets nosaka tos muitas punktus, caur kuriem atļauts II un III sarakstā iekļauto vielu un zāļu imports, eksports un tranzīts.
+28.pants. Ministru kabinets nosaka tos muitas punktus, caur kuriem atļauts II un III sarakstā iekļauto vielu un zāļu imports, eksports un tranzīts uz valstīm, kas nav Eiropas Savienības dalībvalstis vai Eiropas Ekonomikas zonas valstis.

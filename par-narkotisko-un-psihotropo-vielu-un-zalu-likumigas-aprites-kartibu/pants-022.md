@@ -1,1 +1,1 @@
-22.pants. Tiklīdz importa sūtījums ir nonācis Latvijas teritorijā vai beidzies importa atļaujā minētais termiņš, Valsts zāļu aģentūra nosūta eksportētājas valsts kompetentajai institūcijai tās izsniegto eksporta atļauju, kurā norādīts faktiski importēto vielu vai zāļu daudzums.
+22.pants. Tiklīdz importa sūtījums ir nonācis Latvijas teritorijā vai beidzies importa atļaujā minētais termiņš, Zāļu valsts aģentūra nosūta eksportētājas valsts kompetentajai institūcijai tās izsniegto eksporta atļauju, kurā norādīts faktiski importēto vielu vai zāļu daudzums.

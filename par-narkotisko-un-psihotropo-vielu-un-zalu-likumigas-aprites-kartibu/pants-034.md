@@ -1,1 +1,1 @@
-34.pants. Juridiskās personas, kas saņēmušas šā likuma 9.pantā minēto licenci, drīkst šajā likumā minētās vielas un zāles, ja tās iepakotas kastēs, nosūtīt pa pastu ierakstītos sūtījumos, norādot to vērtību un pieprasot apstiprinājumu par izsniegšanu.
+34.pants. Personas, kas saņēmušas šā likuma 9.pantā minēto licenci, drīkst šajā likumā minētās vielas un zāles, ja tās iepakotas kastēs, nosūtīt pa pastu ierakstītos sūtījumos, norādot to vērtību un pieprasot apstiprinājumu par izsniegšanu.
