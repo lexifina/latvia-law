@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "DZELZCEĻA NOZARES ĢENERĀLVIENOŠANĀS",
+  "type_of_act": "Administrative measures",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "103",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-04",
+  "entry_into_force": "2006-06-13",
+  "notification_date": null,
+  "commission_reference": "MNE(2008)56161",
+  "nim_celex": "72005L0047LVA_159151",
+  "nim_id": "159151",
+  "transposes_celex": [
+    "32005L0047"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f81ccb5d-8d15-48b9-bf5a-e4cc1d78c069",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
