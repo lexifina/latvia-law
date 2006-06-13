@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Apsardzes darbības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "83",
+  "official_journal_page": null,
+  "official_journal_date": "2006-05-30",
+  "entry_into_force": "2006-06-13",
+  "notification_date": "2007-06-12",
+  "commission_reference": "MNE(2007)54543",
+  "nim_celex": "71998L0048LVA_145816",
+  "nim_id": "145816",
+  "transposes_celex": [
+    "31998L0048"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5539d194-83de-4d99-843f-7d3abdd0dd59",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
