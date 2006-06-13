@@ -1,2 +1,2 @@
 23. pants. Lidlauka izveidošana
-Lidlauka celtniecību uzsāk un veic Ministru kabineta noteiktajā kārtībā.
+Lidlauka izveidošanas kārtību nosaka Ministru kabinets.

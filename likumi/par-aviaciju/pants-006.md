@@ -6,7 +6,7 @@ Aviācijas departaments:
 4) sadarbojas ar citu valstu valdību pārstāvjiem un pilnvarotām aviācijas institūcijām, kā arī ar starptautiskajām civilās aviācijas organizācijām gaisa telpas izmantošanas un civilās aviācijas darbības attīstības jautājumos;
 5) pieprasa no juridiskajām un fiziskajām personām, kuru darbība saistīta ar Latvijas Republikas gaisa telpas izmantošanu vai civilās aviācijas līdzekļu ekspluatāciju, savu funkciju pildīšanai nepieciešamo informāciju;
 6) izsniedz atļaujas veikt pasažieru, bagāžas un kravas pārvadājumus, kā arī speciālos aviācijas darbus;
-7) apstiprina pasažieru, bagāžas un kravas gaisa pārvadājumu noteikumus.
+7) (izslēgts ar 11.05.2006. likumu).
 Civilās aviācijas aģentūra:
 1) veic Latvijas Republikas gaisa telpas izmantošanas un civilās aviācijas darbības valsts uzraudzību;
 2) aizliedz darbību, kas saistīta ar Latvijas Republikas gaisa telpas izmantošanu vai civilās aviācijas gaisa kuģu, lidlauku un citu civilās aviācijas objektu un iekārtu ekspluatāciju, ja tiek pārkāpti šā likuma un citu uz tā pamata izdoto normatīvo aktu noteikumi, kā arī darbību, kas apdraud gaisa kuģu lidojumu drošību;

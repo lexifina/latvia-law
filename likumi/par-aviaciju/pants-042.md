@@ -1,3 +1,5 @@
 42. pants. Latvijas Republikas gaisa telpas izmantošanas koordinācija un gaisa kuģu lidojumu vadība
 Darbību, kas saistīta ar Latvijas Republikas gaisa telpas izmantošanu, koordinē un gaisa kuģu lidojumus speciāli izveidotās gaisa satiksmes vadības zonās vada Latvijas Republikas gaisa telpas izmantošanas un gaisa satiksmes organizēšanas valsts komercsabiedrība. Atsevišķas gaisa satiksmes vadības zonas gaisa kuģu lidojumus var vadīt gaisa satiksmes vadības dienesta dispečeri, kas neietilpst Latvijas Republikas gaisa telpas izmantošanas un gaisa satiksmes organizēšanas valsts komercsabiedrībā.
 Gaisa satiksmes vadības dienesta dispečeri savā darbā ievēro šā likuma un uz tā pamata izdoto normatīvo aktu noteikumus.
+Aeronavigācijas pakalpojumu sniegšanai Latvijas Republikā izmanto tikai reģistrētas un sertificētas uz zemes izvietotas sakaru, navigācijas un novērošanas iekārtas. Iekārtas reģistrē un iekārtu ekspluatācijas derīguma apliecības izsniedz Civilās aviācijas aģentūra.
+Aeronavigācijas pakalpojumu sniegšanai nepieciešamo uz zemes izvietoto sakaru, navigācijas un novērošanas iekārtu drošuma prasības un tehniskās ekspluatācijas kārtību nosaka Ministru kabinets.

@@ -1,3 +1,0 @@
-8. pants. Gaisa kuģi, kurus reģistrē Latvijas Republikas Civilās aviācijas gaisa kuģu reģistra pielikumā
-Gaisa kuģus, kuri ir Latvijas Republikas valsts institūciju, pašvaldību, biedrību vai nodibinājumu, Uzņēmumu reģistrā reģistrētu komersantu un Latvijas pilsoņu īpašumā, bet kuru reģistrācijai Latvijas Republikas Civilās aviācijas gaisa kuģu reģistrā trūkst nepieciešamo priekšnoteikumu, var reģistrēt uz laiku Latvijas Republikas Civilās aviācijas gaisa kuģu reģistra pielikumā.
-Šā panta noteikumiem atbilstošos gaisa kuģus Latvijas Republikas Civilās aviācijas gaisa kuģu reģistra pielikumā reģistrē, ievērojot šā likuma 9. panta pirmās daļas 1. un 2. punkta noteikumus.

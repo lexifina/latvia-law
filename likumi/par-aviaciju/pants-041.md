@@ -1,14 +1,17 @@
-41. pants. Tādu objektu celtniecība un izvietošana, kuri var apdraudēt gaisa kuģu lidojumu drošību
-Lai garantētu gaisa kuģu un citu materiālo objektu lidojumu drošību, Civilās aviācijas aģentūrā pēc saskaņošanas ar Latvijas Republikas Aizsardzības ministriju ir jāsaņem atļauja celt un izvietot Latvijas Republikas teritorijā:
-1) sprādzienbīstamus objektus;
-2) objektus, kas var radīt traucējumus gaisa kuģu lidojumu nodrošināšanai nepieciešamo radiotehnisko līdzekļu darbā;
-3) objektus, kuru augstums virs zemes vai ūdens virsmas to atrašanās vietā pārsniedz 100 metrus;
-4) objektus neatkarīgi no to augstuma gaisa kuģu pacelšanās un nolaišanās sektoros - piecu kilometru attālumā no lidlauka kontrolpunkta, arī stādīt kokus;
-5) objektus, kuru augstums par 30 metriem un vairāk pārsniedz lidlauka kontrolpunkta augstumu, - 10 kilometru rādiusā no tā;
-6) objektus, kuru augstums par 50 metriem un vairāk pārsniedz lidlauka kontrolpunkta augstumu, - 30 kilometru rādiusā no tā;
-7) objektus, kuri iespaido redzamību gaisa kuģu pacelšanās vai nosēšanās laikā vai no kuriem izplūstošie dūmi, tvaiki vai citas vielas to samazina;
-8) objektus, kuri veicina putnu masveida atrašanos, - 15 kilometru rādiusā no lidlauka kontrolpunkta.
-Pilsētu un citu apdzīvoto vietu projektēšana, celtniecība un attīstība, kā arī rūpniecības, lauksaimniecības un citu objektu celtniecība un rekonstrukcija lidlaukam blakus esošajā teritorijā, virs kuras ir noteikta lidlauka satiksmes zona, jāveic, ievērojot gaisa kuģu lidojumu drošības prasības, ņemot vērā iespējamo aviācijas kaitīgo iedarbību uz iedzīvotāju veselību un uzņēmumu, iestāžu un organizāciju darbību.
-Personām, kas uzcēlušas vai izvietojušas Latvijas Republikas teritorijā šā panta pirmajā daļā paredzētos objektus bez Civilās aviācijas aģentūras atļaujas, pēc šīs administrācijas pieprasījuma uz sava rēķina un noteiktā termiņā tie jānojauc, jāpārveido vai jāpārvieto uz citu vietu, kā arī līdz šā panta pirmās daļas 2. un 7. punktā minēto traucējumu novēršanai jāpārtrauc darbība, kas šādus traucējumus rada. Ja minētie norādījumi netiek izpildīti, Civilās aviācijas aģentūra organizē pārkāpumu novēršanu uz tās personas rēķina, kura šos norādījumus nav ievērojusi.
-Šā panta pirmās daļas 3.-6. punktā minēto celtņu un citu objektu īpašniekiem saskaņā ar lidlauku tehniskās ekspluatācijas noteikumu prasībām par saviem līdzekļiem jāierīko šo objektu nakts un dienas marķēšanas zīmes.
+41.pants. Gaisa kuģu lidojumiem potenciāli bīstamu objektu būvniecības, ierīkošanas un izvietošanas kārtība
+Papildus citu normatīvo aktu prasību izpildei saņemama Civilās aviācijas aģentūras atļauja būvēt, ierīkot un izvietot šādus gaisa kuģu lidojumu drošībai potenciāli bīstamus objektus:
+1) kuri ir sprādzienbīstami un kuri ir redzamo lāzerstaru izstarotāji;
+2) kuri var radīt traucējumus gaisa kuģu lidojumu nodrošināšanai nepieciešamo radiotehnisko līdzekļu darbā;
+3) kuru augstums virs to atrašanās vietas reljefa sasniedz 100 metrus un vairāk un kuri neatradīsies šīs daļas 4. un 5.punktā minētajās vietās;
+4) kuru absolūtais augstums par 30 metriem un vairāk pārsniedz lidlauka kontrolpunkta absolūto augstumu, - piecu kilometru rādiusā no tā - vai kuri sasniedz vai pārsniedz jebkuru lidlauka šķēršļu ierobežošanas virsmu;
+5) kuri neatkarīgi no to augstuma atradīsies gaisa kuģu pacelšanās vai nosēšanās sektorā, - divu kilometru attālumā no skrejceļa tuvākā sliekšņa (atļauja jāsaņem arī tad, ja šajās vietās stāda kokus);
+6) kuri samazina vai var samazināt redzamību gaisa kuģu pacelšanās vai nosēšanās sektorā;
+7) jebkuru gaismas avotu, kurš netiek izmantots aeronavigācijai, ja tas atradīsies gaisa kuģu pacelšanās vai nosēšanās sektorā un var apdraudēt gaisa kuģu lidojumu drošību, - piecu kilometru attālumā no skrejceļa tuvākā sliekšņa;
+8) kuri veicina vai var veicināt putnu masveidīgu pulcēšanos (pastāvīgs barības avots un ligzdošanas vietas), - 15 kilometru rādiusā no lidlauka kontrolpunkta.
+Gadījumos, kad atbilstoši normatīvajiem aktiem objektu būvniecību, ierīkošanu vai izvietošanu nepieciešams saskaņot ar pašvaldību, Civilās aviācijas aģentūras atļauju būvēt, ierīkot un izvietot gaisa kuģu lidojumu drošībai potenciāli bīstamus objektus pieprasa attiecīgā pašvaldība. Pārējos gadījumos Civilās aviācijas aģentūras atļauju pieprasa objekta īpašnieks vai lietotājs.
+Kārtību, kādā pieprasa un saņem Civilās aviācijas aģentūras atļauju būvēt, ierīkot un izvietot gaisa kuģu lidojumu drošībai potenciāli bīstamus objektus, nosaka Ministru kabinets.
+Kārtību, kādā tiek veikta šā panta pirmajā daļā minēto objektu uzskaite, nosaka Ministru kabinets.
+Personas, kas Latvijas Republikas teritorijā uzbūvējušas, ierīkojušas vai izvietojušas šā panta pirmajā daļā minētos objektus, pārkāpjot šā likuma normas un Ministru kabineta noteikto kārtību, saskaņā ar attiecīgās pašvaldības lēmumu noteiktajā termiņā par saviem līdzekļiem tos nojauc, pārveido vai pārvieto uz citu vietu, bet attiecībā uz šā panta pirmās daļas 1., 2., 6., 7. un 8.punktā minētajiem objektiem nekavējoties pārtrauc gaisa kuģu lidojumu drošību apdraudošo darbību. Ja pašvaldības lēmums līdz noteiktajam laikam nav izpildīts, pašvaldība organizē objekta nojaukšanu, pārveidošanu vai pārvietošanu. Visus izdevumus, kas saistīti ar minētajām darbībām, sedz objekta īpašnieks.
+Objektu īpašnieki un valdītāji saskaņā ar Latvijas Republikas civilo lidlauku derīguma normām par pašu līdzekļiem marķē un aprīko ar aizsarggaismām objektus, kuru augstums virs to atrašanās vietas reljefa sasniedz 100 metrus un vairāk, un šā panta pirmās daļas 4. un 5.punktā minētos objektus.
+Pilsētu un citu apdzīvoto vietu projektēšana, būvniecība un attīstīšana, kā arī rūpniecības, lauksaimniecības un citu objektu būvniecība un rekonstrukcija lidlaukam blakus esošajā teritorijā, virs kuras atrodas lidlauka satiksmes zona, ir veicama, ievērojot gaisa kuģu lidojumu drošības prasības, ņemot vērā iespējamo aviācijas kaitīgo iedarbību uz personu veselību un vidi.
 Lidlauka tuvumā aizliegts izvietot jebkādas zīmes, kas ir līdzīgas lidlauka marķēšanas zīmēm un ierīcēm un var maldināt gaisa kuģa apkalpi lidojuma laikā.

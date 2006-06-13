@@ -2,6 +2,7 @@ Likumā lietotie termini
 Aeronavigācijas informācija - informācija, kas ietver lidlauku un gaisa kuģu lidojumos izmantojamo aeronavigācijas un elektrotehnisko iekārtu raksturojumu un ziņas par to faktisko stāvokli, gaisa kuģu manevrēšanas kārtību lidlauka satiksmes zonās, gaisa trasēs, maršrutos un citās lidojumu zonās.
 Aizliegtā zona - ierobežota gaisa telpa virs valsts sauszemes teritorijas vai tās iekšējiem vai teritoriālajiem Baltijas jūras ūdeņiem, kurā gaisa kuģu lidojumi ir aizliegti.
 Atgadījums civilajā aviācijā - darbības pārtraukums, defekts, nepilnība vai kādi citi ārkārtas apstākļi, kas ir ietekmējuši vai var ietekmēt lidojumu drošību, bet ne tādā veidā, ka to dēļ noticis nelaimes gadījums vai nopietns incidents.
+Aviācijas meteoroloģiskais minimums - minimālie meteoroloģiskie apstākļi, kuros atļauts veikt gaisa kuģa pacelšanos un nosēšanos civilajos lidlaukos. Minimālos meteoroloģiskos apstākļus raksturo vizuāli vai instrumentāli noteikta redzamība uz skrejceļa un mākoņu apakšējās robežas augstums.
 Aviācijas nelaimes gadījums - notikums, kurš saistīts ar gaisa kuģa izmantošanu no brīža, kad vismaz viena persona iekāpj gaisa kuģī ar nolūku veikt lidojumu, līdz brīdim, kad visas gaisa kuģī esošās personas ir to atstājušas, un kura laikā:
 1) kāda no minētajām personām iegūst miesas bojājumus, kuru rezultātā iestājas nāve, vai smagus miesas bojājumus sakarā ar:
 a) atrašanos šajā gaisa kuģī,
@@ -44,18 +45,19 @@ Latvijas Republikas muitas un Valsts robežsardzes dienestu aviācija - gaisa ku
 Latvijas Republikas teritorija - Latvijas Republikas sauszemes teritorija, tās iekšējie un teritoriālie Baltijas jūras ūdeņi un gaisa telpa.
 Lidlauka kontrolējamā zona - lidostas ēkas daļa un lidlauka teritorija, kurā iekļūšana tiek kontrolēta.
 Lidlauka kontrolpunkts - nosacīts punkts, pēc kura konstatē lidlauka ģeogrāfisko atrašanās vietu (koordinātes).
-Lidlauka manevrēšanas laukums - lidlauka daļa, izņemot peronu, kas paredzēts gaisa kuģu pacelšanās, nosēšanās un manevrēšanas vajadzībām.
+Lidlauka manevrēšanas teritorija - lidlauka daļa, izņemot peronu, kas paredzēts gaisa kuģu pacelšanās, nosēšanās un manevrēšanas vajadzībām.
 Lidlauka satiksme - visa kustība lidlauka manevrēšanas laukumā, kā arī gaisa kuģu lidojumi virs lidlaukam blakus esošās teritorijas.
 Lidlauka satiksmes zona - noteiktu izmēru gaisa telpa, kas atrodas virs lidlaukam blakus esošās teritorijas un ir paredzēta lidlauka satiksmes drošības garantēšanai.
 Lidlauks - noteikta zemes teritorija vai ūdens akvatorija, kā arī ēkas, objekti un iekārtas, kas pilnīgi vai daļēji paredzētas, lai organizētu gaisa kuģu pienākšanu un atiešanu (tas ir, gaisa kuģu pacelšanos, nosēšanos, manevrēšanu un stāvēšanu, pasažieru iekāpšanu un izkāpšanu, bagāžas, kravas un pasta iekraušanu un izkraušanu, kā arī gaisa kuģu tehnisko apkopi, degvielas uzpildi u. c.).
 Lidojumu ierobežojumu zona - ierobežota gaisa telpa virs valsts sauszemes teritorijas un tās iekšējiem vai teritoriālajiem Baltijas jūras ūdeņiem, kurā gaisa kuģu lidojumi ir veicami saskaņā ar speciāliem noteikumiem.
-Lidostas aviodrošības dienests - struktūrvienība, kura nodrošina standartizētu starptautisko lidojumu drošību un ir atbildīga par lidostas drošības programmas izpildi.
 Meteoroloģiskā informācija - meteoroloģisks pārskats, analīze, prognoze un jebkurš cits biļetens par faktiskajiem vai gaidāmajiem meteoroloģiskajiem apstākļiem.
+Meteoroloģisko pakalpojumu sniedzējs - institūcija, kura nodrošina visas ieinteresētās personas ar gaisa kuģu lidojumiem nepieciešamo meteoroloģisko informāciju pirms lidojuma un lidojuma laikā.
 Muitas un Valsts robežsardzes dienestu gaisa kuģi - gaisa kuģi, kurus izmanto muitas vai Valsts robežsardzes dienesti.
-Nelikumīgas iejaukšanās akts civilās aviācijas darbībā - darbības, kas apdraud vai var apdraudēt civilās aviācijas drošību (personu nesankcionēta iekļūšana lidlauku kontrolējamās zonās vai gaisa kuģī, bīstamas kravas, ieroču un sprāgstvielu pārvadāšana bez attiecīgas atļaujas, ieroču lietošana pret gaisa kuģa apkalpi vai pasažieriem, gaisa kuģa nolaupīšana u. c.).
+Nelikumīga iejaukšanās civilās aviācijas darbībā - darbības, kas apdraud vai var apdraudēt civilās aviācijas drošību (personu nesankcionēta iekļūšana lidlauku kontrolējamās zonās vai gaisa kuģī, bīstamas kravas, ieroču un sprāgstvielu pārvadāšana bez attiecīgas atļaujas, ieroču lietošana pret gaisa kuģa apkalpi vai pasažieriem, gaisa kuģa nolaupīšana u. c.).
 Otrais pilots - pilots, kam izsniegta attiecīga apliecība un kas veic pilota funkcijas, izņemot gaisa kuģa kapteiņa funkcijas; izņēmums ir pilots, kas atrodas gaisa kuģī mācību nolūkā, vai pilots, kas lidojuma laikā noteiktā kārtībā pārņem gaisa kuģa kapteiņa tiesības un pilda viņa pienākumus, ja gaisa kuģa kapteinis veselības stāvokļa dēļ tos nevar pildīt.
 Pārvadātājs - gaisa kuģa ekspluatants, kas, izmantojot viņam piešķirtās tiesības, veic gaisa pārvadājumus.
 Perons - lidlauka daļa, kas paredzēta gaisa kuģu izvietošanai, lai nodrošinātu pasažieru iekāpšanu un izkāpšanu, bagāžas, kravas vai pasta iekraušanu un izkraušanu, gaisa kuģu stāvēšanu, tehnisko apkopi un degvielas uzpildi.
 Speciālie aviācijas darbi - gaisa kuģa lidojumi, kuru laikā gaisa kuģis par atlīdzību tiek izmantots dabas aizsardzības, lauksaimniecības, mežsaimniecības un citu tautsaimniecības nozaru vajadzību apmierināšanai, aviācijas glābšanas darbu veikšanai, kā arī lai sniegtu medicīnisko palīdzību iedzīvotājiem un palīdzību stihisku nelaimju seku likvidēšanā.
 Starptautiskie lidojumi - gaisa kuģu lidojumi, kuri tiek veikti vairāk nekā vienas valsts gaisa telpā.
 Starptautiskie gaisa pārvadājumi - pārvadājumi, kuru sākumpunkts, apstāšanās vieta vai galapunkts atrodas vairāku valstu teritorijās.
+Trešā valsts - valsts, kas nav Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts.
