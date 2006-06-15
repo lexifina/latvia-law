@@ -1,0 +1,1 @@
+1.pants. 2005.gada 14.decembrī parakstītā Latvijas Republikas un Austrijas Republikas konvencija par nodokļu dubultās uzlikšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
