@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Par Noteikumiem par vispārējo atļauju pasta nozarē",
+  "type_of_act": "SPRK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "93",
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-15",
+  "entry_into_force": "2006-06-16",
+  "notification_date": "2006-07-11",
+  "commission_reference": "MNE(2006)54432",
+  "nim_celex": "71997L0067LVA_133216",
+  "nim_id": "133216",
+  "transposes_celex": [
+    "31997L0067"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e5fc30b4-3df1-40f7-8b7b-3f8ba051e7bc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
