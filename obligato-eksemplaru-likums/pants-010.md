@@ -1,0 +1,1 @@
+10.pants. Par šā likuma neievērošanu vainīgās personas saucamas pie atbildības Latvijas Administratīvo pārkāpumu kodeksā noteiktajā kārtībā. Protokolu par obligāto eksemplāru nepiegādāšanu, kā arī par noteiktās obligāto eksemplāru piegādes kārtības pārkāpumiem sastāda Latvijas Nacionālās bibliotēkas direktors vai viņa pilnvarota persona.

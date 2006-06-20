@@ -1,0 +1,2 @@
+Obligāto eksemplāru likuma
+pielikums

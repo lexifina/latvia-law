@@ -1,0 +1,2 @@
+3.pants. (1) Obligāto eksemplāru piegādātājs ir izdevējs, kurš izdevis iespieddarbu, elektronisku izdevumu vai nekonvencionālo jeb "pelēko literatūru". Obligāto eksemplāru piegādātājs var būt arī izdevuma tiražētājs, ja izdevējs ir rakstveidā vienojies ar tiražētāju par obligāto eksemplāru piegādi Latvijas Nacionālajai bibliotēkai.
+(2) Elektronisku izdevumu obligāto eksemplāru piegādātājam, piegādājot eksemplāru, vienlaikus jāuzrāda sistēmas prasības un pieejas nosacījumi izdevuma satura identificēšanai.
