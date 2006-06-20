@@ -1,0 +1,5 @@
+10. pants. Kārtība, kādā izskata valsts kompensācijas pieprasījumus
+(1) Juridiskās palīdzības administrācija 30 dienu laikā pēc valsts kompensācijas pieprasījuma saņemšanas pieņem lēmumu par valsts kompensācijas izmaksāšanu šajā likumā noteiktajos gadījumos.
+(2) Ja Juridiskās palīdzības administrācija konstatē, ka lēmuma pieņemšanai ir nepieciešama papildu informācija, tā septiņu dienu laikā pēc valsts kompensācijas pieprasījuma saņemšanas informē par to cietušo.
+(3) Ja lēmuma pieņemšanai nepieciešama papildu informācija, šā panta pirmajā daļā minētā lēmuma pieņemšanas termiņu aptur līdz visas Juridiskās palīdzības administrācijas pieprasītās informācijas saņemšanai.
+(4) Ja Juridiskās palīdzības administrācija 15 dienu laikā nesaņem pieprasīto informāciju, tā var lemt par atteikumu izmaksāt valsts kompensāciju. Lēmums par atteikumu izmaksāt valsts kompensāciju šajā gadījumā nav šķērslis, lai cietušais atkārtoti vērstos Juridiskās palīdzības administrācijā ar valsts kompensācijas pieprasījumu, ievērojot šajā likumā noteikto kārtību.

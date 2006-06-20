@@ -1,0 +1,1 @@
+2. Tiesības vērsties Juridiskās palīdzības administrācijā ar valsts kompensācijas pieprasījumu, ja noziedzīgs nodarījums bijis vērsts pret personas veselību un cietušajam nodarīti vidēja smaguma miesas bojājumi, ir tām personām, kuras šāda noziedzīga nodarījuma rezultātā atzītas par cietušajiem pēc 2007.gada 1.jūlija.
