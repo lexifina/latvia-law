@@ -1,0 +1,1 @@
+1.pants. Hāgas Starptautisko privāttiesību konferences statūtu grozījumi (turpmāk - Statūtu grozījumi), kas pieņemti Hāgas Starptautisko privāttiesību konferences 20.diplomātiskajā sesijā 2005.gada 30.jūnijā, ar šo likumu tiek pieņemti un apstiprināti.
