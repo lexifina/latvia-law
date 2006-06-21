@@ -1,0 +1,2 @@
+4.¹ (1) Deputātam ir tiesības uz grūtniecības un dzemdību atvaļinājumu, atvaļinājumu bērna tēvam, atvaļinājumu adoptētājam, kā arī bērna kopšanas atvaļinājumu. Šo atvaļinājumu piešķiršanā piemērojami Darba likuma 154., 155. un 156.panta noteikumi, ciktāl Kārtības rullī nav noteikts citādi.
+(2) Grūtniecības un dzemdību atvaļinājuma, atvaļinājuma bērna tēvam, atvaļinājuma adoptētājam, kā arī bērna kopšanas atvaļinājuma laikā deputātam saglabājas darba ņēmēja statuss attiecīgās Saeimas darbības laikā.
