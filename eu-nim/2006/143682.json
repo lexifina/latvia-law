@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par civilo zemskaņas reaktīvo gaisa kuģu ekspluatācijas ierobežojumiem lidlaukos",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "97",
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-22",
+  "entry_into_force": "2006-06-23",
+  "notification_date": "2007-04-12",
+  "commission_reference": "MNE(2007)53013",
+  "nim_celex": "72006L0093LVA_143682",
+  "nim_id": "143682",
+  "transposes_celex": [
+    "32006L0093"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bdb36e9d-f09f-403f-a772-dcb2ab6491dd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
