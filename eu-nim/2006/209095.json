@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2006.gada 9.maija noteikumi Nr.376 ”Zāļu reģistrēšanas kārtība”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "97 (3465)",
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-22",
+  "entry_into_force": "2006-06-23",
+  "notification_date": "2013-09-16",
+  "commission_reference": "MNE(2013)57857",
+  "nim_celex": "72011L0062LVA_209095",
+  "nim_id": "209095",
+  "transposes_celex": [
+    "32011L0062"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6b701fda-e86f-44fc-84d8-19e07fc27f5f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
