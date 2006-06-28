@@ -1,0 +1,1 @@
+8. Grozījumi šā likuma 7.panta ceturtajā daļā par Profesionālās karjeras izvēles valsts aģentūras finansēšanu no valsts pamatbudžeta un 9.panta trešajā daļā par bezdarba samazināšanas preventīvo pasākumu finansēšanu no valsts pamatbudžeta stājas spēkā 2007.gada 1.janvārī.

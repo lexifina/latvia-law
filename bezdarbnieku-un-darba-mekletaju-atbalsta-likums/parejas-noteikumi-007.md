@@ -1,0 +1,1 @@
+7. Šā likuma 4.panta trešajā daļā, 9.panta otrajā daļā un 13.panta 3.punktā izdarītie grozījumi attiecībā uz stipendiju neformālās izglītības ieguves laikā stājas spēkā 2006.gada 1.jūlijā.
