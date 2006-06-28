@@ -17,7 +17,7 @@ g) vairāk par 500 000 latiem - 2490 latu plus 0,05 procenti no prasības summas
 8) par pieteikumu par izpildu raksta izdošanu uz pastāvīgās šķīrējtiesas sprieduma pamata vai ārvalsts šķīrējtiesas nolēmuma atzīšanu un izpildīšanu - 1 procents no parāda summas, bet ne vairāk par 100 latiem;
 9) par pieteikumu par tiesvedības atjaunošanu un lietas jaunu izskatīšanu lietā, kurā taisīts aizmugurisks spriedums, - tādā pašā apmērā kā par prasības pieteikumu;
 10) par prasības pieteikumu par kopīgas mantas dalīšanu - 50 procenti no likmes, kas būtu jāmaksā par prasības pieteikumu vispārējā kārtībā no dalāmās mantas vērtības;
-11) par sūdzībām maksātnespējas lietās sakarā ar kreditoru sapulces vai kreditoru komitejas lēmumiem, kā arī par sūdzībām sakarā ar administratora vai likvidatora rīcību - 10 latu.
+11) par sūdzībām maksātnespējas lietās sakarā ar kreditoru sapulces vai kreditoru komitejas lēmumiem, par sūdzībām sakarā ar administratora vai likvidatora rīcību, kā arī par Padomes 2000.gada 29.maija regulas (EK) Nr. 1346/2000 par maksātnespējas procedūrām (turpmāk - Padomes regula Nr. 1346/2000) 33. un 37.pantā noteikto darbību veikšanu - 10 latu.
 (2) Taisot spriedumu, tiesa nosaka valsts nodevu šādā apmērā:
 1) lietās par apstiprināšanu mantojuma tiesībās, ja mantojuma vērtība pārsniedz 10 minimālās mēnešalgas:
 a) laulātajam un kopā ar mantojuma atstājēju dzīvojušajiem pirmās, otrās un trešās šķiras mantiniekiem - 0,5 procenti no mantojamās mantas vērtības,

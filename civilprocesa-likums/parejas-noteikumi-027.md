@@ -1,0 +1,1 @@
+27. Šā likuma 447.panta jaunā redakcija, kas nosaka blakus sūdzību par tiesneša lēmumiem un par zemesgrāmatu nodaļu tiesnešu lēmumiem izskatīšanu rakstveida procesā, stājas spēkā 2006.gada 1.jūlijā un attiecas uz blakus sūdzību izskatīšanu par tiem lēmumiem, kuri pieņemti no 2006.gada 1.jūlija.

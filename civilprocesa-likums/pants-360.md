@@ -1,7 +1,8 @@
-360.pants. Sūdzība par administratora rīcību
-(1) Tiesa izskata kreditoru sapulces sūdzību par administratora rīcību, ja pirms tam sūdzība iesniegta administratoram un viņš divu nedēļu laikā nav devis atbildi vai sūdzību noraidījis.
-(2) Tiesa izskata kreditoru komitejas sūdzību par administratora rīcību, ja pirms tam sūdzība izskatīta kreditoru sapulcē.
-(3) Tiesa izskata ikviena kreditora vai parādnieka sūdzību par administratora rīcību, ja pirms tam sūdzība iesniegta administratoram un viņš divu nedēļu laikā nav devis atbildi vai sūdzību noraidījis un kreditoru sapulce atteikusies pārsūdzēt tiesā administratora rīcību.
-(4) Izskatot sūdzību, tiesa var pieprasīt administratora darbības pārskatu.
-(5) Ja tiesa atzīst, ka pārsūdzētā rīcība neatbilst likumam, tā apmierina sūdzību un uzdod administratoram novērst pieļauto pārkāpumu.
-(6) Ja tiesa konstatē, ka pārsūdzētā rīcība ir likumīga, tā sūdzību noraida.
+360.pants. Sūdzība par aģentūras lēmumu
+(1) Tiesa izskata kreditoru sapulces, kreditoru komitejas, kreditora, parādnieka pārstāvja, administratora vai trešās personas, kuras tiesības vai tiesiskās intereses aizskartas, sūdzību par aģentūras lēmumu par administratora rīcību maksātnespējas procesā un tiesiskā pienākuma uzlikšanu.
+(2) Ja tiesa atzīst, ka pārsūdzētais lēmums neatbilst likumam, tā apmierina sūdzību un lemj par:
+1) aģentūras lēmuma atcelšanu pilnībā vai daļēji;
+2) pienākuma uzlikšanu aģentūrai pieņemt vai izskatīt sūdzību par administratora rīcību;
+3) pienākuma uzlikšanu administratoram novērst pieļauto pārkāpumu.
+(3) Ja tiesa konstatē, ka pārsūdzētais lēmums ir likumīgs, tā sūdzību noraida.
+(4) Izskatot sūdzību par aģentūras lēmumu, tiesa var pieprasīt administratora darbības pārskatu.

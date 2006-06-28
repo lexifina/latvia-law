@@ -6,3 +6,5 @@
 2) izlīgumu, ko parakstījis parādnieks un kreditoru komitejas pilnvarots pārstāvis;
 3) norakstu no kreditoru komitejas lēmuma par izlīguma noslēgšanu.
 (4) Tiesa apstiprina izlīgumu, ja tas noslēgts likumā noteiktajā kārtībā un tā noteikumi nav pretlikumīgi.
+(5) Ja tiesa pret parādnieku uzsākusi Padomes regulas Nr. 1346/2000 3.panta 2.punktā noteikto maksātnespējas procedūru, tiesa apstiprina izlīgumu, ja to vispirms ir rakstveidā apstiprinājis šīs regulas 3.panta 1.punktā noteiktās maksātnespējas procedūras likvidators.
+(6) Ja tiesa pret parādnieku uzsākusi Padomes regulas Nr. 1346/2000 3.panta 2.punktā noteikto maksātnespējas procedūru un izlīgumu nav apstiprinājis šīs regulas 3.panta 1.punktā noteiktās maksātnespējas procedūras likvidators, tiesa pirms izlīguma apstiprināšanas uzklausa minētās regulas 3.panta 1.punktā noteiktās maksātnespējas procedūras likvidatoru un apstiprina izlīgumu, ja konstatē, ka Padomes regulas Nr. 1346/2000 3.panta 2.punktā noteiktās maksātnespējas procedūras pabeigšana ar izlīgumu neietekmē šīs regulas 3.panta 1.punktā noteiktās maksātnespējas procedūras kreditoru finanšu intereses.
