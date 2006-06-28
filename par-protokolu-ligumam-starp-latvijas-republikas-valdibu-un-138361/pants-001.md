@@ -1,0 +1,1 @@
+1.pants. 2005.gada 7.decembrī Rīgā parakstītais Protokols līgumam starp Latvijas Republikas valdību un Amerikas Savienoto Valstu valdību par savstarpējo tiesisko palīdzību krimināllietās (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
