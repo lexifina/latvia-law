@@ -8,7 +8,7 @@
 6) bezdarbnieka pienākumu nepildīšana bez attaisnojoša iemesla;
 7) nepatiesu ziņu sniegšana bezdarbnieka statusa iegūšanai un saglabāšanai;
 8) pārcelšanās uz pastāvīgu dzīvi ārpus Latvijas;
-9) iesaukums valsts obligātajā militārajā dienestā;
+9) (izslēgts ar 25.05.2006. likumu);
 10) 100 procentu darbspēju zaudējums;
 11) atjaunošana darbā ar tiesas spriedumu;
 12) bezdarbnieka nāve;

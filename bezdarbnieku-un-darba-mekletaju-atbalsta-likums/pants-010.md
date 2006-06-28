@@ -10,3 +10,4 @@
 8) neveic komercdarbību vai tās komercdarbība apturēta saskaņā ar normatīvajiem aktiem;
 9) nav pilnā valsts apgādībā.
 (2) Par darbspējīgu šā likuma izpratnē uzskatāma arī persona, kurai ir noteikta invaliditāte, izņemot gadījumus, kad veselības un darbspēju ekspertīzes ārstu komisija ir noteikusi 100 procentu darbspēju zaudējumu.
+(3) Ja personai reģistrēšanās dienā ir pārejoša darbnespēja, Nodarbinātības valsts aģentūra bezdarbnieka statusu šai personai piešķir pēc pārejošas darbnespējas izbeigšanās.
