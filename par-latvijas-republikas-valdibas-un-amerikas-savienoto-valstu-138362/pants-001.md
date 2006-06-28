@@ -1,0 +1,1 @@
+1.pants. 2003.gada 12.martā Rīgā parakstītais Latvijas Republikas valdības un Amerikas Savienoto Valstu valdības līgums par privātās izglītības iestādes "Latvijas Starptautiskā skola" darbības nodrošināšanu (turpmāk - līgums) ar šo likumu tiek pieņemts un apstiprināts.
