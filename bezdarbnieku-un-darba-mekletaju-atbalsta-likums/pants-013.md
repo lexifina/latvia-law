@@ -1,6 +1,6 @@
 13.pants. Bezdarbnieka tiesības
 Bezdarbniekam ir tiesības:
-1) piedalīties Nodarbinātības valsts aģentūras piedāvātajos aktīvajos nodarbinātības pasākumos, noslēdzot aktīvo nodarbinātības pasākumu individuālā plānojuma līgumu;
+1) piedalīties individuālajā darba meklēšanas plānā paredzētajos aktīvajos nodarbinātības pasākumos, kā arī saņemt citus Nodarbinātības valsts aģentūras pakalpojumus;
 2) saņemt bezdarba apdrošināšanas pakalpojumus saskaņā ar likumu "Par apdrošināšanu bezdarba gadījumam";
 3) saņemt stipendiju un īres un transporta izdevumu kompensāciju profesionālās apmācības, pārkvalifikācijas vai kvalifikācijas paaugstināšanas laikā;
 4) saņemt informāciju par brīvajām darba vietām un ar tām saistītajām kvalifikācijas un citām prasībām;
