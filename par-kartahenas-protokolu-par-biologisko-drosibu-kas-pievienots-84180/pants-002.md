@@ -1,1 +1,1 @@
-2.pants. Saskaņā ar Protokola 19.pantu koordinācijas centra funkcijas pilda Latvijas Pārtikas centrs. Kompetentās institūcijas funkcijas atbilstoši normatīvajos aktos noteiktajai kompetencei pilda Vides ministrija un Veselības ministrija.
+2.pants. Saskaņā ar Protokola 19.pantu koordinācijas centra funkcijas pilda Zemkopības ministrija. Kompetentās institūcijas funkcijas atbilstoši normatīvajos aktos noteiktajai kompetencei pilda Vides ministrija, Zemkopības ministrija un tās padotībā esošais Pārtikas un veterinārais dienests.
