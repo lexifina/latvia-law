@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Virszemes ūdensobjektu un ostu akvatoriju tīrīšanas un padziļināšanas kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "98",
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-27",
+  "entry_into_force": "2006-06-28",
+  "notification_date": "2009-02-06",
+  "commission_reference": "MNE(2009)50595",
+  "nim_celex": "72006L0118LVA_160432",
+  "nim_id": "160432",
+  "transposes_celex": [
+    "32006L0118"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/98bf5477-8937-44ee-9aec-97c3295ca687",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
