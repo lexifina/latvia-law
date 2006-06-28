@@ -1,0 +1,1 @@
+11. Grozījumi šā likuma 13.panta pirmās daļas 4.punktā attiecībā uz pilngadīgām personām, 13.panta pirmās daļas 7.punktā attiecībā uz sociālās rehabilitācijas saņemšanas kārtību un kritērijiem personas atzīšanai par cilvēku tirdzniecības upuri, piektā un sestā daļa stājas spēkā 2007.gada 1.janvārī.
