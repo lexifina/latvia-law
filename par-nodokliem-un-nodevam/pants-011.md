@@ -22,7 +22,7 @@
 9) par speciālu atļauju (licenču) izsniegšanu atsevišķiem uzņēmējdarbības veidiem;
 10) par operācijām ar vekseļiem;
 11) par operācijām ar sertifikātiem;
-12) par uzturēšanās atļaujas pieprasīšanai nepieciešamo dokumentu izskatīšanu un ar to saistītajiem pakalpojumiem;
+12) par Eiropas Kopienas pastāvīgā iedzīvotāja statusa Latvijas Republikā un par uzturēšanās atļaujas pieprasīšanai nepieciešamo dokumentu izskatīšanu un ar to saistītajiem pakalpojumiem;
 13) par vīzas pieprasīšanai nepieciešamo dokumentu izskatīšanu un ar to saistītajiem pakalpojumiem;
 14) par Latvijas Republikas pasu un citu personu apliecinošu un tiesību apliecinošu dokumentu izsniegšanu;
 15) (izslēgts ar 09.10.2003. likumu);
@@ -46,11 +46,12 @@
 33) (izslēgts ar 31.03.2004. likumu);
 34) (izslēgts ar 31.03.2004. likumu);
 35) par filmu producētāju (ražotāju) un izplatītāju, filmu izplatīšanas vietu un filmu reģistrāciju;
-36) par izziņu izsniegšanu par nekustamo īpašumu piederību un sastāvu;
+36) (zaudējis spēku 01.07.2006.; skat. Pārejas noteikumus);
+36¹) par kadastra izziņas sagatavošanu un izsniegšanu;
 37) (izslēgts ar 09.10.2002. likumu);
 38) par dokumentu īstuma apliecināšanu (legalizāciju);
 39) par atļaujas izsniegšanu veikt darbības, kuras nav uzņēmējdarbība, ar jonizējošā starojuma avotiem vai arī iegūt īpašumā jonizējošā starojuma avotus;
-40) par valsts valodas prasmes atestāciju profesionālo un amata pienākumu veikšanai;
+40) par valsts valodas prasmes atestāciju profesionālo un amata pienākumu veikšanai un par valsts valodas prasmes pārbaudi pastāvīgās uzturēšanās atļaujas un Eiropas Kopienas pastāvīgā iedzīvotāja statusa Latvijas Republikā pieprasīšanai;
 41) par atteikšanās no Latvijas pilsonības dokumentēšanu;
 42) par Latvijas pilsonības atjaunošanas dokumentēšanu;
 43) par sertifikāta izsniegšanu un darbības laika pagarināšanu detektīvdarbības veikšanai;
@@ -68,4 +69,5 @@
 55) par darba atļaujas pieprasīšanai nepieciešamo dokumentu izskatīšanu;
 56) par Elektronisko sakaru likumā noteiktajām radiofrekvenču spektra lietošanas tiesībām (ikgadējā nodeva);
 57) par Elektronisko sakaru likumā noteiktajām numerācijas resursu lietošanas tiesībām (ikgadējā nodeva);
-58) par Ģerboņu likumā noteikto ģerboņu reģistrāciju.
+58) par Ģerboņu likumā noteikto ģerboņu reģistrāciju;
+59) par zemes kadastrālā uzmērītāja sertifikāta izsniegšanu vai sertifikāta darbības termiņa pagarināšanu.
