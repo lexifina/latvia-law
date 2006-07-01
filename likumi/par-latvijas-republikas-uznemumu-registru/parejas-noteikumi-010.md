@@ -1,0 +1,1 @@
+10. Šā likuma normas, kas nosaka Uzņēmumu reģistra funkciju - vest politisko partiju reģistru (grozījumi 1.panta 1.punktā, grozījumi 2.² pantā, 2.¹⁴ panta jaunā redakcija, jaunā sestā nodaļa, grozījumi 21.panta otrajā daļā), stājas spēkā vienlaikus ar Politisko partiju likumu.

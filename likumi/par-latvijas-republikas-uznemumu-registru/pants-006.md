@@ -41,3 +41,4 @@ Par izšķirošo ietekmi uz koncernu līguma pamata Uzņēmumu reģistra žurnā
 Ja fiziskajai personai nav personas koda, Uzņēmumu reģistra žurnālā ieraksta pases vai cita tai pielīdzināta dokumenta nosaukumu, izdevēju, izdošanas laiku un numuru.
 Uzņēmumu reģistra žurnālā ieraksta datumu, kad reģistrēti pamatdokumentu grozījumi vai izdarīts reģistrācijas ieraksts Uzņēmumu reģistra žurnālā, kā arī norāda, par ko izdarīts reģistrācijas ieraksts.
 Uzņēmumu reģistrs izslēdz no uzņēmumu reģistra uzņēmumus (uzņēmējsabiedrības), to filiāles, nodaļas vai pārstāvniecības, izdarot par to attiecīgu ierakstu Uzņēmumu reģistra žurnālā.
+Par ierakstu izdarīšanu Uzņēmumu reģistra žurnālā un dokumentu reģistrāciju (pievienošanu lietai) maksājama valsts nodeva, kuras apmēru, samaksas kārtību un atvieglojumus nosaka Ministru kabinets.

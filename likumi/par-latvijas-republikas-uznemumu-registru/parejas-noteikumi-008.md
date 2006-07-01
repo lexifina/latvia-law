@@ -1,0 +1,1 @@
+8. Šā likuma normas, kas nosaka Uzņēmumu reģistra funkciju - veikt Eiropas kooperatīvo sabiedrību reģistrāciju (grozījumi 1.panta 1.punktā, 2.¹⁵ panta jaunā redakcija un grozījumi 21.panta pirmajā daļā), piemērojamas, sākot ar 2006.gada 18.augustu.

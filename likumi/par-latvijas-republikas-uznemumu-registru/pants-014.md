@@ -1,12 +1,12 @@
 14.pants. Iesniegto dokumentu izskatīšana
-Izskatot iesniegtos dokumentus, Uzņēmumu reģistra valsts notārs pārliecinās par to, vai:
+Izskatot iesniegtos dokumentus, Uzņēmumu reģistra valsts notārs pārbauda, vai:
 1) ievērota reģistrācijas piekritība;
-2) iesniegti visi likumā paredzētie dokumenti;
-3) iesniegtie dokumenti atbilst likuma prasībām;
-4) iesniegtajos dokumentos ietvertie lēmumi, uz kuru pamata izdarāmi ieraksti komercreģistrā vai grozījumi komercreģistram iesniegtajos dokumentos, atbilst likuma prasībām;
-5) nav Uzņēmumu reģistrā reģistrēts cits tiesisks šķērslis.
+2) iesniegti visi likumos paredzētie dokumenti, kurus reģistrē (pievieno lietai) vai uz kuru pamata izdara ierakstu komercreģistrā;
+3) dokumentiem, kurus reģistrē (pievieno lietai) vai uz kuru pamata izdara ierakstu komercreģistrā (izņemot gada pārskatus), ir juridisks spēks un vai citas formas prasības atbilst normatīvajiem aktiem, kā arī vai ziņu un noteikumu apjoms un saturs atbilst normatīvajiem aktiem un citiem reģistrācijas lietā esošajiem dokumentiem;
+4) Uzņēmumu reģistrā nav reģistrēts cits tiesisks šķērslis.
 Uzņēmumu reģistra kompetencē neietilpst komersanta lēmuma pieņemšanas faktisko apstākļu pārbaude.
-Ja, pārbaudot šā panta pirmajā daļā minētos apstākļus, šķēršļi nav konstatēti, Uzņēmumu reģistra valsts notārs pieņem lēmumu par ieraksta izdarīšanu (15.pants).
-Ja nav ievērota reģistrācijas piekritība, nav iesniegti visi nepieciešamie dokumenti vai iesniegtie dokumenti pēc formas neatbilst likuma prasībām, bet šie trūkumi ir novēršami, Uzņēmumu reģistra valsts notārs pieņem lēmumu par ieraksta izdarīšanas atlikšanu, vienlaikus norādot trūkumu novēršanai saprātīgu termiņu, kurš nedrīkst būt īsāks par vienu mēnesi. Ja dokumenti, kuros trūkumi novērsti, tiek iesniegti pēc lēmumā norādītā termiņa, atkārtoti jāmaksā valsts nodeva.
-Pārbaudot Komerclikuma 28.pantā norādītos apstākļus, Uzņēmumu reģistra valsts notārs ir tiesīgs pieņemt lēmumu par ieraksta izdarīšanas atlikšanu tikai gadījumā, kad komersanta pieteiktā firma sakrīt ar komercreģistrā vai uzņēmumu reģistrā ierakstītu vai ierakstīšanai pieteiktu firmu.
-Ja no iesniegtajiem dokumentiem secināms, ka pieņemtie lēmumi neatbilst likuma prasībām un šie trūkumi nav novēršami, Uzņēmumu reģistra valsts notārs pieņem lēmumu par atteikumu izdarīt komercreģistra ierakstu. Valsts nodeva šādos gadījumos netiek atmaksāta.
+Ja, pārbaudot šā panta pirmajā daļā minētos apstākļus, šķēršļi nav konstatēti, Uzņēmumu reģistra valsts notārs pieņem lēmumu par ieraksta izdarīšanu (15.pants) vai dokumentu reģistrāciju (pievienošanu lietai).
+Ja tiek konstatēts, ka nav ievērotas šā panta pirmās daļas prasības, bet šie trūkumi ir novēršami, Uzņēmumu reģistra valsts notārs pieņem lēmumu par ieraksta izdarīšanas vai dokumentu reģistrācijas (pievienošanas lietai) atlikšanu un lēmumā norāda saprātīgu termiņu trūkumu novēršanai. Minētais termiņš nedrīkst būt īsāks par mēnesi. Ja dokumenti, kuros trūkumi novērsti, tiek iesniegti pēc lēmumā norādītā termiņa, atkārtoti jāmaksā valsts nodeva.
+Pārbaudot firmas atbilstību Komerclikuma 28.pantam, Uzņēmumu reģistra valsts notārs ir tiesīgs pieņemt lēmumu par ieraksta izdarīšanas atlikšanu tikai tad, ja komersanta pieteiktā firma sakrīt ar komercreģistrā vai uzņēmumu reģistrā ierakstītu vai ierakstīšanai pieteiktu firmu.
+Ja dokumentos konstatētie trūkumi nav novēršami vai iesniegtās ziņas nav reģistrējamas komercreģistrā, Uzņēmumu reģistra valsts notārs pieņem lēmumu par atteikumu reģistrēt (pievienot lietai) dokumentus vai izdarīt ierakstu komercreģistrā. Valsts nodeva šādos gadījumos netiek atmaksāta.
+Ja Uzņēmumu reģistram tiek iesniegti nepārprotami pierādījumi, kas apliecina paraksta viltošanas faktu, Uzņēmumu reģistra valsts notārs pieņem lēmumu par atteikumu reģistrēt (pievienot lietai) dokumentus vai izdarīt ierakstu komercreģistrā.
