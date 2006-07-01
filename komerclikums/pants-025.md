@@ -5,7 +5,7 @@
 2) ārvalsts komersanta firmu;
 3) filiāles juridisko adresi;
 4) ārvalsts komersanta atrašanās vietu (juridisko adresi);
-5) filiāles darbības veidus;
+5) (izslēgts ar 16.03.2006. likumu);
 6) reģistru, kurā ārvalsts komersants ir ierakstīts, un reģistrācijas numuru, ja komersanta atrašanās vietas valsts likums paredz komersanta ierakstīšanu reģistrā;
 7) personu, kura pilnvarota pārstāvēt ārvalsts komersantu darbībās, kas saistītas ar filiāli, un šā pilnvarojuma apjomu;
 8) ārvalsts komersanta veidu.

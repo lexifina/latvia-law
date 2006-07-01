@@ -7,4 +7,4 @@
 1) individuālā komersanta vārdu, uzvārdu, personas kodu un dzīvesvietu;
 2) individuālā komersanta firmu;
 3) individuālā komersanta juridisko adresi;
-4) komercdarbības veidus.
+4) (izslēgts ar 16.03.2006. likumu).
