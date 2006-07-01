@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2006. gada 18. aprīļa noteikumi Nr. 304 \"Noteikumi par zāļu ražošanas un kontroles kārtību, par zāļu ražošanu atbildīgās amatpersonas kvalifikācijas prasībām un profesionālo pieredzi un kārtību, kādā zāļu ražošanas uzņēmumam izsniedz labas ražošanas prakses sertifikātu\".",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "70 (3438)",
+  "official_journal_page": null,
+  "official_journal_date": "2006-05-08",
+  "entry_into_force": "2006-07-01",
+  "notification_date": "2018-10-11",
+  "commission_reference": "MNE(2018)55513",
+  "nim_celex": "72017L1572LVA_263994",
+  "nim_id": "263994",
+  "transposes_celex": [
+    "32017L1572"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a6121787-da4a-4b73-a338-4e8679c9203f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
