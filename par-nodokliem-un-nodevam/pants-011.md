@@ -15,7 +15,7 @@
 2) par notariālo darbību izpildi;
 3) par civilstāvokļa aktu reģistrēšanu, grozīšanu un papildināšanu;
 4) (izslēgts ar 16.12.2004. likumu);
-5) par reģistrācijas darbībām Uzņēmumu reģistrā;
+5) par reģistrācijas darbībām un parakstu apliecināšanu Uzņēmumu reģistrā;
 6) par informācijas sniegšanu no Latvijas Republikas Uzņēmumu reģistra reģistriem;
 7) par informācijas sniegšanu no Iedzīvotāju reģistra;
 8) par reliģisko organizāciju un to iestāžu reģistrāciju;
