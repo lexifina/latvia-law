@@ -19,7 +19,7 @@
 1) (izslēgts ar 20.11.2003. likumu);
 2) (izslēgts ar 20.11.2003. likumu);
 3) izdot pilsētu un pagastu dzīvojamo māju privatizācijas komisijām metodiskos norādījumus par dzīvojamo māju privatizācijas komisiju darba organizāciju;
-4) pieprasīt un saņemt no pilsētu un pagastu dzīvojamo māju privatizācijas komisijām, kā arī no valsts un pašvaldību iestādēm, uzņēmumiem un uzņēmējsabiedrībām informāciju, kas saistīta ar privatizāciju;
+4) pieprasīt un saņemt no pilsētu un pagastu dzīvojamo māju privatizācijas komisijām, kā arī no valsts un pašvaldību iestādēm, kapitālsabiedrībām informāciju, kas saistīta ar privatizāciju;
 5) veikt citas šajā likumā vai Ministru kabineta noteikumos paredzētās funkcijas;
 6) piedalīties privatizēto dzīvojamo māju uzturēšanas un apsaimniekošanas organizēšanā, kā arī organizēt privatizēto dzīvokļu īpašnieku un to apsaimniekotāju apmācību par dzīvojamo māju apsaimniekošanas jautājumiem;
 7) ar pilsētas un novada domes, pagasta padomes vai rajona padomes pilnvarojumu privatizēt attiecīgo pašvaldību dzīvojamās mājas;
