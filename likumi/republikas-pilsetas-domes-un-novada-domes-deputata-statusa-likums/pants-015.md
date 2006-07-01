@@ -8,6 +8,8 @@ Deputātam, kurš ievēlēts par domes (padomes) priekšsēdētāju vai tādu pr
 4) pabalstu sakarā ar bērna piedzimšanu sešu amatalgu apmērā;
 5) kompensāciju, kas sedz pusi no mācību maksas, ja viņš, nepārtraucot amata pienākumu pildīšanu, sekmīgi mācās izglītības iestādē, lai iegūtu amata pienākumu izpildei nepieciešamās zināšanas;
 6) kompensāciju ceļa izdevumu segšanai, ja viņš nedzīvo attiecīgās pašvaldības administratīvajā teritorijā;
-7) atvaļinājumu bez amatalgas saglabāšanas, ja to ļauj darba apstākļi.
+7) atvaļinājumu bez amatalgas saglabāšanas, ja to ļauj darba apstākļi;
+8) grūtniecības, dzemdību un bērna kopšanas atvaļinājumu, atvaļinājumu bērna tēvam, adoptētājam vai citai personai, kura faktiski kopj bērnu, piemērojot Darba likuma 153., 154., 155. un 156.panta noteikumus.
 Par domes (padomes) priekšsēdētāju vai tādu priekšsēdētāja vietnieku, kurš ieņem algotu amatu, vai par domes (padomes) algotu amatpersonu ievēlēta deputāta nāves gadījumā viņa ģimene saņem vienreizēju pabalstu vienas amatalgas apmērā.
 Par domes (padomes) priekšsēdētāju vai tādu priekšsēdētāja vietnieku, kurš ieņem algotu amatu, vai par domes (padomes) algotu amatpersonu ievēlētam deputātam ir tiesības uz apmaksātu ikgadējo atvaļinājumu, kura ilgums ir četras kalendārās nedēļas, neieskaitot svētku dienas, un papildatvaļinājumu. Papildatvaļinājuma ilgumu darba dienās nosaka dome (padome).
+Uz laiku, kad deputāts nolicis pilnvaras, lai izmantotu šā panta trešās daļas 8.punktā minēto atvaļinājumu, bet ne ilgāk kā uz attiecīgās domes (padomes) darbības laiku šim deputātam saglabājams darba ņēmēja statuss.
