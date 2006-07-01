@@ -1,0 +1,28 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi likumā \"Par pievienotās vērtības nodokli\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "94",
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-16",
+  "entry_into_force": "2006-07-01",
+  "notification_date": "2006-06-26",
+  "commission_reference": "MNE(2006)54141",
+  "nim_celex": "71995L0007LVA_132728",
+  "nim_id": "132728",
+  "transposes_celex": [
+    "31995L0007",
+    "31998L0080",
+    "31999L0049",
+    "31999L0059",
+    "32000L0065",
+    "32001L0004",
+    "32001L0115"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/840d10c3-0af7-4e65-8cf8-e8b1300310fb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
