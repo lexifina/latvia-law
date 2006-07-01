@@ -1,1 +1,6 @@
-60. Privātpersonu parakstiem uz iesniedzamiem nostiprinājumu lūgumiem jābūt notāra vai pagasttiesas apliecinātiem. Apliecinot parakstu, pārbauda šo personu rīcībspēju, pilnvarnieka vai pārstāvja pilnvaru apjomu, izņemot tos gadījumus, kad lūgums pamatots uz tādu tiesas spriedumu vai lēmumu, kas taisīts lūdzēja lietā, vai uz tādu notāra vai pagasttiesas taisītu vai apliecinātu aktu, kurā lūdzējs piedalījies kā līdzēja puse.
+60. Privātpersonu parakstiem uz iesniedzamiem nostiprinājuma lūgumiem jābūt notāra vai bāriņtiesas (pagasttiesas) apliecinātiem. Apliecinot parakstu, pārbauda šo personu rīcībspēju un pilnvarnieka vai pārstāvja pilnvaru apjomu.
+Privātpersonu parakstiem nav nepieciešams notāra vai bāriņtiesas (pagasttiesas) apliecinājums, ja nekustamā īpašuma īpašnieki un personas, kuru labā vai pret kurām taisāms nostiprinājums, nostiprinājuma lūgumu zemesgrāmatu nodaļai iesniedz personiski un lūgums pamatots:
+1) uz tiesas nolēmumu;
+2) uz notariālā akta kārtībā slēgtu darījumu;
+3) uz administratīvo aktu par īpašuma tiesību atjaunošanu;
+4) uz līgumu par īpašuma tiesību iegūšanu uz nekustamu īpašumu, privatizējot valsts vai pašvaldības īpašumu.
