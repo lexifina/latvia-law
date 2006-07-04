@@ -1,0 +1,1 @@
+7. Grozījumi šā likuma 4.panta otrajā daļā attiecībā uz nodarbinātības speciālā budžeta līdzekļu izmantošanu Bezdarbnieku un darba meklētāju atbalsta likumā noteiktajām stipendijām neformālās izglītības ieguves laikā stājas spēkā 2006.gada 1.jūlijā.
