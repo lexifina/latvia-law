@@ -1,5 +1,6 @@
 38.pants. Papildatvaļinājumi
 (1) Karavīram, kas, dienesta pienākumus pildot, guvis ievainojumu (traumu, kontūziju) vai smagu slimību, ambulatorajai ārstēšanai un atveseļošanās nolūkam piešķir apmaksātu papildatvaļinājumu uz laiku līdz sešiem mēnešiem, pamatojoties uz Nacionālo bruņoto spēku Centrālās medicīniskās ekspertīzes komisijas atzinumu.
 (2) Karavīram var piešķirt apmaksātu papildatvaļinājumu uz laiku līdz 10 kalendāra dienām kā apbalvojumu, ģimenes apstākļu vai citu svarīgu iemeslu dēļ.
+(2¹) Karavīram var piešķirt apmaksātu papildatvaļinājumu starptautiskās operācijas laikā, ja viņa atrašanās tajā ir ilgāka par četriem mēnešiem. Papildatvaļinājums nedrīkst pārsniegt 15 dienas, un tā laikā karavīrs saņem mēneša algu. Karavīram tiek segti ceļa izdevumi uz Latviju un atpakaļ uz starptautiskās operācijas rajonu.
 (3) Profesionālā dienesta karavīram, kurš, nepārtraucot dienestu, sekmīgi mācās izglītības iestādē, iestājeksāmenu, ieskaišu un eksāmenu kārtošanai piešķir apmaksātu atvaļinājumu līdz 20 darba dienām gadā. Valsts eksāmena kārtošanai vai diplomdarba izstrādāšanai un aizstāvēšanai papildus piešķir apmaksātu atvaļinājumu līdz 20 darba dienām.
 (4) Karavīram, kurš ārstniecības iestādē nodod asinis, pēc katras šādas dienas piešķir atpūtas dienu, saglabājot atalgojumu. Pēc karavīra pieprasījuma šo dienu pievieno ikgadējam apmaksātajam atvaļinājumam.

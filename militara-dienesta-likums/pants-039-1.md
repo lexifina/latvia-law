@@ -1,0 +1,2 @@
+39.¹ pants. Atvaļinājums bērna tēvam
+Bērna tēvam pēc viņa vēlēšanās piešķir 10 kalendāra dienas ilgu atvaļinājumu sakarā ar bērna piedzimšanu un par šo laiku izmaksā karavīra uzturdevas kompensāciju. Atvaļinājumu bērna tēvam piešķir tūlīt pēc bērna piedzimšanas, bet ne vēlāk kā divu mēnešu laikā pēc bērna piedzimšanas. Paternitātes pabalstu karavīram piešķir normatīvajos aktos noteiktajā kārtībā un apmērā.
