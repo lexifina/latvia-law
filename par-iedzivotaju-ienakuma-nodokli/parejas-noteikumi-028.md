@@ -1,0 +1,1 @@
+28. Ministru kabinets izvērtē grozījuma šā likuma 13.panta pirmās daļas 3.punktā (attiecībā uz neapliekamā minimuma palielināšanu no 1320 latiem uz 1980 latiem) ietekmi uz pašvaldību ieņēmumiem 2006.gadā un, ja tas nepieciešams, sagatavo grozījumus likumā "Par valsts budžetu 2006.gadam", lai segtu pašvaldību ieņēmumu samazinājumu."
