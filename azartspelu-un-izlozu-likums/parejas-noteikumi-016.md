@@ -1,0 +1,1 @@
+16.Grozījumi 41.panta otrās daļas 7.punktā attiecībā uz punkta papildināšanu ar totalizatoru un derību likmju pieņemšanas vietām un prasību par atsevišķu ieeju tikai no ārpuses stājas spēkā 2007.gada 1.janvārī.

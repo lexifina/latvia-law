@@ -14,8 +14,11 @@
 4) aptiekās, pasta struktūrvienībās vai kredītiestādēs;
 5) publisko pasākumu rīkošanas vietās šo pasākumu norises laikā, izņemot totalizatoru un derības;
 6) teritorijās, kurām noteiktā kārtībā piešķirts tirgus statuss;
-7) veikalos, kultūras iestādēs, dzelzceļa stacijās, autoostās, lidostās, ostās, izņemot spēļu zāles, kas izveidotas ar būvkonstrukcijām norobežotās telpās ar atsevišķu ieeju no ārpuses;
-8) bāros un kafejnīcās, izņemot totalizatoru un derības.
+7) veikalos, kultūras iestādēs, dzelzceļa stacijās, autoostās, lidostās, ostās, izņemot spēļu zāles, totalizatoru vai derību likmju pieņemšanas vietas, kas izveidotas ar būvkonstrukcijām norobežotās telpās ar atsevišķu ieeju tikai no ārpuses;
+8) bāros un kafejnīcās, izņemot totalizatoru un derības;
+9) dienesta viesnīcās;
+10) ēkās, kurās ir dzīvokļi un ieeja uz tiem no ēkas ārpuses ir kopēja ar ieeju uz azartspēļu organizēšanas vietu.
 (3) Azartspēļu organizētājam aizliegts izsniegt spēlētājiem jebkāda veida aizdevumus vai kredītus.
 (4) Ikviens aizdevums, kas dots azartspēļu organizēšanas vietā, uzskatāms par apzināti dotu aizdevumu spēlei Civillikuma 2284.panta izpratnē.
 (5) Azartspēļu reklāma ir aizliegta ārpus azartspēļu organizēšanas vietām. Azartspēļu organizēšanas vietās atļauts norādīt tikai azartspēļu vietas nosaukumu un azartspēļu organizētāja reģistrētu preču zīmi.
+(6) Aizliegts piedāvāt piedalīšanos azartspēlē par velti, kā dāvanu vai balvu vai kā kompensāciju par preces iegādi vai pakalpojumu saņemšanu.
