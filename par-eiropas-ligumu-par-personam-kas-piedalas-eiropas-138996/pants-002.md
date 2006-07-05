@@ -1,0 +1,1 @@
+2.pants. Latvijas Republika izdara šādu iztulkojošo paziņojumu - tā neattiecinās Līguma 4.panta 1.punkta "a" apakšpunktu uz personām, kas atrodas ieslodzījuma vietās vai vietās, kuras tām pielīdzinātas saskaņā ar Eiropas Cilvēktiesību tiesas praksi.

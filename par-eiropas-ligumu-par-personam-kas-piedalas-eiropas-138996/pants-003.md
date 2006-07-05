@@ -1,0 +1,1 @@
+3.pants. Latvijas Republika izdara šādu iztulkojošo paziņojumu - tā neattiecinās Līguma 4.panta 2.punkta "a" apakšpunktu uz Latvijas Republikas pilsoņiem, nepilsoņiem un Latvijā pastāvīgi dzīvojošajiem bezvalstniekiem.
