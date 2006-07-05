@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Atkritumu poligonu ierīkošanas, atkritumu poligonu un izgāztuvju apsaimniekošanas, slēgšanas un rekultivācijas noteikumi",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "103",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-04",
+  "entry_into_force": "2006-07-05",
+  "notification_date": "2006-08-04",
+  "commission_reference": "MNE(2006)54968",
+  "nim_celex": "71999L0031LVA_133943",
+  "nim_id": "133943",
+  "transposes_celex": [
+    "31999L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/143c5d82-d4c6-4813-9950-17d1093e018b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
