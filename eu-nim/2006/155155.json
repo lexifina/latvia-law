@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Riteņu transportlīdzekļu un to sastāvdaļu atbilstības novērtēšanas noteikumi",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "104",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-04",
+  "entry_into_force": "2006-07-05",
+  "notification_date": "2008-04-15",
+  "commission_reference": "MNE(2008)52339",
+  "nim_celex": "72007L0015LVA_155155",
+  "nim_id": "155155",
+  "transposes_celex": [
+    "32007L0015",
+    "32007L0034",
+    "32007L0035",
+    "32007L0037"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6ddfc5af-b795-411a-8416-198e0ecc2a80",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
