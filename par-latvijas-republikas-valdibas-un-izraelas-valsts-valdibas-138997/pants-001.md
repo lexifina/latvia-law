@@ -1,0 +1,1 @@
+1.pants. 2006.gada 20.februārī Jeruzalemē parakstītā Latvijas Republikas valdības un Izraēlas Valsts valdības konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem (turpmāk - Konvencija) un tās 2006.gada 20.februārī Jeruzalemē parakstītais protokols (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.
