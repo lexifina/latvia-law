@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2006.gada 27.jūnija noteikumi Nr.535 „Lauksaimniecībā vai mežsaimniecībā izmantojamo traktoru, piekabju un to sastāvdaļu atbilstības novērtēšanas noteikumi”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "104 (3472)",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-04",
+  "entry_into_force": "2006-07-05",
+  "notification_date": "2014-01-14",
+  "commission_reference": "MNE(2014)50273",
+  "nim_celex": "72013L0008LVA_212493",
+  "nim_id": "212493",
+  "transposes_celex": [
+    "32013L0008"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/21862631-1b0b-4848-a4de-5acdb1fb0faf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
