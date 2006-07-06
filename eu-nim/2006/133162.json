@@ -1,0 +1,31 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par Valsts statistiskās informācijas programmu 2006.gadam",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "105",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-05",
+  "entry_into_force": "2006-07-06",
+  "notification_date": "2006-07-10",
+  "commission_reference": "MNE(2006)54394",
+  "nim_celex": "71989L0130LVA_133162",
+  "nim_id": "133162",
+  "transposes_celex": [
+    "31989L0130",
+    "31989L0391",
+    "31993L0023",
+    "31993L0024",
+    "31993L0025",
+    "31995L0057",
+    "31995L0064",
+    "31996L0016",
+    "31997L0077",
+    "32003L0107"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/766866c3-4e16-4d8b-8aca-36fc5981bfcd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
