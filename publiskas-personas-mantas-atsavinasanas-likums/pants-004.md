@@ -6,8 +6,8 @@
 2) zemes kopīpašnieks, ja viņš vēlas nopirkt zemesgrāmatā ierakstītu ēku (būvi), kas visa atrodas uz kopīpašumā esošās zemes, vai domājamo daļu no tās samērīgi savai zemes daļai;
 3) zemesgrāmatā ierakstītas ēkas (būves) īpašnieks vai visi kopīpašnieki, ja viņi vēlas nopirkt zemesgabalu, uz kura atrodas ēka (būve), vai zemes starpgabalu, kas piegul šai zemei;
 4) zemesgrāmatā ierakstītas ēkas (būves) kopīpašnieks, ja viņš vēlas nopirkt tā zemesgabala domājamo daļu, uz kura atrodas ēka (būve), samērīgi savai ēkas (būves) daļai;
-5) īrnieks vai viņa ģimenes loceklis, ja viņš vēlas nopirkt attiecīgo dzīvokļa īpašumu vai viendzīvokļa dzīvojamo māju (45.pants);
-6) dzīvokļa īpašnieks, ja viņam ir pirmpirkuma tiesības uz citu dzīvokļa īpašumu tajā pašā daudzdzīvokļu mājā;
+5) īrnieks vai viņa ģimenes loceklis, ja viņš vēlas nopirkt dzīvojamo māju, tās domājamo daļu vai dzīvokļa īpašumu šā likuma 45.pantā noteiktajā kārtībā;
+6) dzīvokļa īpašnieks, ja viņam ir pirmpirkuma tiesības uz citu dzīvokļa īpašumu tajā pašā daudzdzīvokļu mājā un ja viņš vēlas nopirkt dzīvokļa īpašumu šā likuma 45.pantā noteiktajā kārtībā;
 7) kopīpašnieks, ja viņš vēlas izbeigt kopīpašuma attiecības ar valsti vai pašvaldību;
 8) pēc zemes reformas pabeigšanas persona, kurai atbilstoši zemes reformas likumiem līdz šā likuma spēkā stāšanās dienai zeme piešķirta pastāvīgā lietošanā.
 (5) Ministru kabinets izdod noteikumus, kuros paredz kārtību, kādā šā panta ceturtajā daļā minētās personas iesniedz atsavināšanas ierosinājumu, kā arī kārtību, kādā tiek izskatīti saņemtie atsavināšanas ierosinājumi, pieņemts lēmums par valsts vai pašvaldības mantas nodošanu atsavināšanai vai ierosinājuma noraidīšanu, un kārtību, kādā tiek atcelts lēmums par nodošanu atsavināšanai.
