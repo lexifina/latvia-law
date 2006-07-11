@@ -1,0 +1,3 @@
+13.pants. Kreditoru prasījumu apmierināšana
+(1) Piemērojot likvidāciju, likvidējamās juridiskās personas kreditoru prasījumus apmierina maksātnespējas procesu reglamentējošajos normatīvajos aktos noteiktajā kārtībā.
+(2) No likvidējamās juridiskās personas līdzekļiem attiecīgajā maksātnespējas procesā netiek segti to kreditoru prasījumi, kuri attiecīgās krimināllietas ietvaros notiesāti par noziedzīga nodarījuma izdarīšanu un rīkojušies individuāli vai kā attiecīgās juridiskās personas koleģiālās institūcijas locekļi, pamatojoties uz tiesībām pārstāvēt juridisko personu, darboties tās uzdevumā vai pieņemt lēmumus juridiskās personas vārdā, vai īstenojuši kontroli juridiskās personas ietvaros, vai bijuši juridiskās personas dienestā.

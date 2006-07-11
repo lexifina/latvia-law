@@ -1,0 +1,2 @@
+18.pants. Sprieduma par mantas konfiskāciju nodošana izpildei
+Pēc sprieduma stāšanās likumīgā spēkā pirmās instances tiesa nosūta izpildu rakstu par juridiskajai personai piemēroto mantas konfiskāciju un protokola par aresta uzlikšanu mantai kopiju tiesu izpildītājam pēc mantas atrašanās vietas un vienlaikus informē par to reģistra iestādi, kas reģistrējusi juridisko personu, un finanšu institūcijas.
