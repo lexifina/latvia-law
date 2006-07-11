@@ -1,1 +1,1 @@
-28.pants. Medicīniskās izglītības diploma iegūšana ļauj personai līdz sertifikācijai specialitātē darboties ārstniecībā tikai tādas ārstniecības personas uzraudzībā vai vadībā, kurai ir sertifikāts un kura ir reģistrēta normatīvajos aktos noteiktajā kārtībā.
+28.pants. Medicīniskās izglītības diploma iegūšana ļauj ārstniecības personai līdz reģistrācijai ārstniecības personu reģistrā darboties ārstniecībā tikai tādas ārstniecības personas uzraudzībā vai vadībā, kurai ir sertifikāts un kura ir reģistrēta normatīvajos aktos par ārstniecības personu reģistru noteiktajā kārtībā.

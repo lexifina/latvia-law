@@ -1,2 +1,2 @@
 26.pants. (1) Patstāvīgi nodarboties ar ārstniecību savas kompetences ietvaros atļauts ārstniecības personām, kuras ir sertificētas un reģistrētas ārstniecības personu reģistrā.
-(2) Tiesības pretendēt uz ārstniecības personas sertifikātu noteiktā specialitātē ir personām, kuras apguvušas akreditētu tālākizglītības programmu, kas ir iepriekš iegūtās vidējās profesionālās vai augstākās medicīniskās izglītības turpinājums specializācijas vai profesionālās kvalifikācijas pilnveidošanas ietvaros.
+(2) Tiesības pretendēt uz ārstniecības personas sertifikātu noteiktā specialitātē ir reģistrētām ārstniecības personām, kuras apguvušas akreditētu tālākizglītības programmu specializācijas vai profesionālās kvalifikācijas pilnveidošanas ietvaros.

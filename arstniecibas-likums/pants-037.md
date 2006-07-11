@@ -1,8 +1,5 @@
-37.pants. Ārsts ir ārstniecības persona, kura ieguvusi izglītību, kas atbilst likumā "Par reglamentētajām profesijām un profesionālās kvalifikācijas atzīšanu" noteiktajām prasībām, un kura ar zinātniski pamatotu medicīnisko darbību tieši vai netieši iedarbojas uz cilvēku un savas profesionālās darbības ietvaros:
-1) izmeklē pacientus fizisku un psihisku slimību konstatēšanai vai noliegšanai un ārstēšanai;
-2) novērtē slimības un to radītās sekas;
-3) ārstē šā panta 1.punktā minētās slimības;
-4) veic profilaktiskos pasākumus slimību novēršanai;
-5) sniedz dzemdībpalīdzību;
-6) veic rehabilitāciju;
-7) izdara līķa sekcijas.
+37.pants. (1) Ārsts ir ārstniecības persona, kura ieguvusi izglītību, kas atbilst likumā "Par reglamentētajām profesijām un profesionālās kvalifikācijas atzīšanu" noteiktajām prasībām, un kura ar zinātniski pamatotu medicīnisko darbību tieši vai netieši iedarbojas uz cilvēku un savas profesionālās darbības ietvaros:
+1) veic slimību profilaksi, diagnostiku, ārstēšanu un pacientu medicīnisko rehabilitāciju;
+2) novērtē slimības un to izraisītos funkcionēšanas ierobežojumus ķermeņa, aktivitātes un dalības līmenī;
+3) pēta slimības izcelsmi un profilakses iespējas.
+(2) Ārsts, kurš ir reģistrēts ārstniecības personu reģistrā, bet nav sertificēts noteiktā ārstniecības personas specialitātē, drīkst patstāvīgi nodarboties ar ārstniecību atbilstoši Ministru kabineta noteiktajai kompetencei.

@@ -1,0 +1,1 @@
+10. Šā likuma 37.panta jaunās redakcijas pirmās daļas 2.punkts stājas spēkā 2009.gada 1.jūlijā. Līdz 2009.gada 30.jūnijam ārsts savas profesionālās darbības ietvaros novērtē slimības un to radītās sekas.

@@ -1,1 +1,1 @@
-33.pants. Medicīniskās izglītības iestādēs izglītojamie izglītības programmas ietvaros var nodarboties ar ārstniecību tikai tiešā sertificētas ārstniecības personas uzraudzībā.
+33.pants. Medicīniskās izglītības iestādēs izglītojamie izglītības programmas ietvaros var nodarboties ar ārstniecību tikai tiešā sertificētas ārstniecības personas uzraudzībā. Kārtību, kādā ārstniecības iestādes un ārstniecības personas iegūst tiesības veikt ārstniecības personu apmācību, nosaka Ministru kabinets.

@@ -1,0 +1,2 @@
+9.¹ pants. (1) Ārstniecību veic atbilstoši klīniskajām vadlīnijām vai ārstniecībā izmantojamo metožu un zāļu lietošanas drošības un ārstēšanas efektivitātes novērtējumam, kas veikts, ievērojot uz pierādījumiem balstītas medicīnas principus.
+(2) Ministru kabinets nosaka kārtību, kādā izstrādājamas klīniskās vadlīnijas.

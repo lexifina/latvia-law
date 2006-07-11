@@ -1,3 +1,10 @@
-17.pants. (1) Valsts garantētais medicīniskās palīdzības apjoms Ministru kabineta noteiktajā kārtībā tiek sniegts Latvijas pilsoņiem, nepilsoņiem, ārvalstniekiem un bezvalstniekiem, kuru pasē ir personas kods un kuri reģistrēti Iedzīvotāju reģistrā, kā arī aizturētajām, apcietinātajām un ar brīvības atņemšanu notiesātajām personām. Šāda palīdzība tiek sniegta tajā laikā un vietā, kur tā ir nepieciešama, un ārstniecība šādos gadījumos tiek veikta atbilstoši Ministru kabineta noteiktajā kārtībā izstrādātām klīniskajām vadlīnijām.
-(2) Šā panta pirmajā daļā noteikto valsts garantēto medicīnisko palīdzību ir tiesības saņemt jebkuram Latvijas teritorijā dzīvojošam bērnam, arī bērnam, kuram nav piešķirts personas kods un kurš nav reģistrēts Iedzīvotāju reģistrā.
-(3) Bērnam ir tiesības saņemt bezmaksas valsts garantēto medicīnisko palīdzību.
+17.pants. (1) No valsts pamatbudžeta un pakalpojumu saņēmēju līdzekļiem apmaksāto ārstniecības pakalpojumu apjomu Ministru kabineta noteiktajā kārtībā sniedz:
+1) Latvijas pilsoņiem;
+2) Latvijas nepilsoņiem;
+3) Eiropas Savienības dalībvalstu, Eiropas Ekonomikas zonas valstu un Šveices Konfederācijas pilsoņiem, kuri uzturas Latvijā sakarā ar nodarbinātību vai kā pašnodarbinātas personas, kā arī viņu ģimenes locekļiem;
+4) ārzemniekiem, kuriem ir pastāvīgās uzturēšanās atļauja Latvijā;
+5) bēgļiem un personām, kurām piešķirts alternatīvais statuss;
+6) aizturētajām, apcietinātajām un ar brīvības atņemšanu notiesātajām personām.
+(2) Ārstniecības pakalpojumus šā panta pirmajā daļā minētajā apjomā sniedz tajā laikā un vietā, kad un kur tas nepieciešams, atbilstoši ārstniecības personu kvalifikācijai un attiecīgajā ārstniecības iestādē diagnostikā, ārstnieciskajā un pacientu aprūpē izmantojamā aprīkojuma līmenim.
+(3) Šā panta pirmajā daļā minēto personu bērniem no valsts pamatbudžeta un pakalpojumu saņēmēju līdzekļiem apmaksātos ārstniecības pakalpojumus ir tiesības saņemt bez maksas.
+(4) Personas, kuras nav minētas šā panta pirmajā un trešajā daļā, ārstniecības pakalpojumus saņem par maksu.
