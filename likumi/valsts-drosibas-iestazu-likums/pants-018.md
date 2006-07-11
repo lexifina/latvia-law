@@ -21,7 +21,7 @@
 (7) Valsts drošības iestāžu amatpersonas valsts teritorijā bez ģenerālprokurora piekrišanas nav saucamas pie kriminālatbildības, tās nedrīkst pakļaut aizturēšanai (arī administratīvajai aizturēšanai), kratīšanai, piespiedu atvešanai; kratīšanai vai apskatei nav pakļaujamas to dzīvojamās vai dienesta telpas, personiskie vai dienesta transporta līdzekļi. Kriminālprocesuālie ierobežojumi uz šīm amatpersonām nav attiecināmi gadījumos, kad tās ir notvertas noziedzīga nodarījuma izdarīšanā, par ko 24 stundu laikā jāinformē ģenerālprokurors un attiecīgās valsts drošības iestādes vadītājs.
 (8) (Izslēgta ar 20.06.2000. likumu.)
 (9) Valsts drošības iestāžu amatpersonām un darbiniekiem ir šādas sociālās garantijas:
-1) pabalsts sešu mēneša amatalgu apmērā sakarā ar bērna piedzimšanu. Ja abi vecāki ir valsts drošības iestāžu amatpersonas vai darbinieki, tiesības uz pabalstu ir vienam no viņiem;
+1) pabalsts sešu mēneša amatalgu apmērā sakarā ar bērna piedzimšanu. Ja abi bērna vecāki strādā valsts institūcijās, kuru darbību regulējošos normatīvajos aktos ir paredzētas tiesības uz bērna piedzimšanas pabalstu, tiesības uz pabalstu ir vienam no bērna vecākiem;
 2) pabalsts ģimenes locekļa vai apgādājamā nāves gadījumā;
 3) pabalsts veselības uzlabošanai, ja veselības pasliktināšanās saistīta ar dienesta pienākumu pildīšanu;
 4) valsts apmaksāta medicīniskā aprūpe;
