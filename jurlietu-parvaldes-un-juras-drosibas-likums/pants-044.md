@@ -1,3 +1,4 @@
 44.pants. Kuģa aizturēšana jūrā
 (1) Lai nodrošinātu normatīvo aktu un Latvijai saistošo starptautisko līgumu izpildi Latvijas ūdeņos ārpus ostas akvatorijas, Krasta apsardze var kontrolēt, pārbaudīt un aizturēt kuģi atbilstoši Apvienoto Nāciju Organizācijas 1982.gada Jūras tiesību konvencijai.
+(1¹) Lai nodrošinātu normatīvo aktu un Latvijai saistošo starptautisko līgumu izpildi, kā arī stiprinātu valsts drošības un aizsardzības spējas, Latvijas ūdeņos ārpus ostas akvatorijas esošo kuģu kontrolē, pārbaudē un aizturēšanā var iesaistīt Ziemeļatlantijas līguma organizācijas (NATO) un Eiropas Savienības (ES) dalībvalsts karakuģus. Veicot minētos uzdevumus, Ziemeļatlantijas līguma organizācijas (NATO) un Eiropas Savienības (ES) dalībvalsts karakuģiem un to amatpersonām ir visas Krasta apsardzes un tās amatpersonu tiesības un pienākumi.
 (2) Ministru kabinets nosaka kuģu kontroles, pārbaudes un aizturēšanas kārtību Latvijas ūdeņos.

@@ -9,7 +9,7 @@ Satiksmes ministrija atbilstoši savai kompetencei jūrlietās:
 7) izsniedz atbilstības sertifikātu jūrnieku profesionālās izglītības programmām;
 8) izsniedz atbilstības sertifikātu klasifikācijas sabiedrībām (atzītām organizācijām) un publicē klasifikācijas sabiedrību (atzīto organizāciju) sarakstu;
 9) izsniedz speciālo atļauju (licenci) komersantam, kas kuģa īpašnieka vārdā komplektē kuģa apkalpi un iekārto personas darbā uz kuģiem;
-10) izsniedz speciālo atļauju (licenci) komersantam, kas veic kuģa drošības aprīkojuma pārbaudes;
+10) (izslēgts ar 15.06.2006. likumu);
 11) (izslēgts ar 28.10.2004. likumu);
 12) nosaka un publicē ārstu un to ārstniecības iestāžu sarakstu, kas veic jūrnieku veselības pārbaudes atbilstoši 1978.gada Starptautiskajā konvencijā par jūrnieku sagatavošanu un diplomēšanu, kā arī sardzes pildīšanu un tās grozījumos noteiktajām prasībām;
 12¹) nodrošina jūrnieku apmācības un kompetences novērtēšanas vadību, kontroli un uzraudzību atbilstoši 1978.gada Starptautiskajā konvencijā par jūrnieku sagatavošanu un diplomēšanu, kā arī sardzes pildīšanu un tās grozījumos noteiktajām prasībām;
