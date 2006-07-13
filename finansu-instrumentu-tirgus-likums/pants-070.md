@@ -1,5 +1,5 @@
 70.pants. Akciju atpirkšanas piedāvājuma prospekta iesniegšanas kārtība
-(1) Piedāvātājs ne vēlāk kā 10 darbdienu laikā pēc šā likuma 66.panta pirmās daļas 1.punktā minēto apstākļu iestāšanās vai 66.panta pirmās daļas 2.punktā minētā akcionāru sapulces lēmuma pieņemšanas iesniedz Komisijai iesniegumu par akciju atpirkšanas piedāvājuma izteikšanu.
+(1) Piedāvātājs ne vēlāk kā 10 darbdienu laikā pēc šā likuma 66.panta pirmās daļas 1.punktā minēto apstākļu iestāšanās vai 66.panta pirmās daļas 2.punktā minētā akcionāru sapulces lēmuma pieņemšanas, vai piedāvātāja lēmuma izteikt brīvprātīgo akciju atpirkšanas piedāvājumu iesniedz Komisijai iesniegumu par akciju atpirkšanas piedāvājuma izteikšanu.
 (2) Vienlaikus ar iesniegumu piedāvātājs iesniedz:
 1) akciju atpirkšanas piedāvājuma prospektu un tā tekstu elektroniskā veidā;
 2) piedāvājuma cenas atbilstības izvērtējumu;

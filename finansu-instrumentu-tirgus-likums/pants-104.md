@@ -10,6 +10,6 @@
 2) kredītiestāde nav pildījusi administratīvos norādījumus, kas ietverti attiecībā uz to izdotajos Komisijas administratīvajos aktos vai citu tādu iestāžu izdotajos administratīvajos aktos, kuras nodrošina šā likuma un tam pakārtoto Komisijas noteikumu izpildi;
 3) Komisija ir piemērojusi kredītiestādei pastiprinātās uzraudzības kārtību;
 4) Komisija ir saņēmusi maksātnespējas pieteikumu vai pati pieņem lēmumu par kredītiestādes maksātnespējas pieteikuma iesniegšanu tiesā;
-5) Komisija ir saņēmusi pieteikumu par kredītiestādes likvidāciju;
+5) Komisija ir saņēmusi iesniegumu par kredītiestādes likvidāciju;
 6) kredītiestāde veic darbību, kas apdraud vai varētu apdraudēt šīs kredītiestādes finansiālo stabilitāti, maksātspēju vai reputāciju vai arī finanšu instrumentu tirgus stabilitāti.
 (3) Ja Komisija ierobežo ieguldījumu brokeru sabiedrības vai kredītiestādes tiesības veikt finanšu instrumentu turēšanu, tai ir tiesības uzdot ieguldījumu brokeru sabiedrībai vai kredītiestādei pārvest visus klientiem piederošos finanšu instrumentus uz citu ieguldījumu brokeru sabiedrību vai kredītiestādi, kas veic finanšu instrumentu turēšanu.

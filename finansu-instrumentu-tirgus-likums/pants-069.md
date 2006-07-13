@@ -1,9 +1,17 @@
 69.pants. Akciju atpirkšanas piedāvājuma vispārīgie noteikumi
-(1) Piedāvātājs sagatavo un iesniedz Komisijai akciju atpirkšanas piedāvājuma prospektu.
-(2) Piedāvātājs nodrošina mērķa sabiedrības akcionāriem iespēju atsavināt akcijas ar vienlīdzīgiem noteikumiem.
-(3) Akciju atpirkšanas piedāvājuma termiņš nedrīkst būt īsāks par 30 dienām un garāks par 50 dienām, skaitot no tā izteikšanas dienas.
-(4) Akciju atpirkšanas piedāvājuma termiņā nedrīkst notikt:
-1) mērķa sabiedrības dividenžu aprēķins;
-2) mērķa sabiedrības akciju nominālvērtības maiņa;
-3) mērķa sabiedrības akciju emisiju apvienošana un dalīšana.
-(5) Nekādi mērķa sabiedrības statūtos vai mērķa sabiedrības un tās akcionāru savstarpējos līgumos noteikti akciju atsavināšanas ierobežojumi nav spēkā attiecībā uz akciju atpirkšanas piedāvājuma izteicēju akciju atpirkšanas piedāvājuma termiņā.
+(1) Lai nodrošinātu mērķa sabiedrības akcionārus ar pietiekamu informāciju pamatota lēmuma pieņemšanai par piedāvājumu, piedāvātājs sagatavo un iesniedz Komisijai akciju atpirkšanas piedāvājuma prospektu.
+(2) Piedāvātājs piedāvā visiem vienas kategorijas mērķa sabiedrības akciju īpašniekiem vienādus akciju atsavināšanas noteikumus.
+(3) Akciju atpirkšanas piedāvājuma termiņš nedrīkst būt īsāks par 30 dienām un garāks par 70 dienām, skaitot no tā izteikšanas dienas. Ja brīvprātīgā akciju atpirkšanas piedāvājuma laikā tiek nolemts sasaukt mērķa sabiedrības akcionāru sapulci, kuras darba kārtībā ir iekļauts jautājums par izteikto akciju atpirkšanas piedāvājumu, piedāvājuma termiņš tiek pagarināts par laiku, kas nepieciešams sapulces sasaukšanai, bet tas nedrīkst pārsniegt 70 dienas.
+(4) Obligātā un galīgā akciju atpirkšanas piedāvājuma termiņā nedrīkst:
+1) aprēķināt mērķa sabiedrības dividendes;
+2) mainīt mērķa sabiedrības akciju nominālvērtību;
+3) apvienot un dalīt mērķa sabiedrības akciju emisijas.
+(5) Ja kāda no šā panta ceturtajā daļā minētajām darbībām ir iepriekš ieplānota un publiski izziņota, Komisija nosaka obligātā akciju atpirkšanas piedāvājuma sākuma termiņu pēc minētās darbības pabeigšanas. Šādā gadījumā obligātā akciju atpirkšanas piedāvājuma cena tiek precizēta pēc šā panta ceturtajā daļā minētās darbības pabeigšanas.
+(6) Nekādi mērķa sabiedrības statūtos vai mērķa sabiedrības un tās akcionāru savstarpējos līgumos noteiktie akciju atsavināšanas ierobežojumi nav spēkā attiecībā uz akciju atpirkšanas piedāvājuma izteicēju akciju atpirkšanas piedāvājuma termiņā.
+(7) Izsakot brīvprātīgo akciju atpirkšanas piedāvājumu, mērķa sabiedrības darbību nedrīkst kavēt ilgāk nekā nepieciešams, lai varētu veikt akciju atpirkšanas piedāvājumu, un brīvprātīgā akciju atpirkšanas piedāvājuma termiņš nedrīkst būt garāks par šā panta trešajā daļā noteikto termiņu.
+(8) Ja komercsabiedrība ir emitējusi akcijas ar dažādas nominālvērtības balsstiesīgo kategoriju akcijām, akcionāru sapulcē, kurā lemj par aizstāvības pasākumiem pret sabiedrības pārņemšanu brīvprātīgā akciju atpirkšanas piedāvājuma laikā, katra akcionāra balsstiesību skaits atbilst viņa ieguldījumam mērķa sabiedrības kapitālā.
+(9) Ja komercsabiedrība ir emitējusi akcijas ar dažādas nominālvērtības balsstiesīgo kategoriju akcijām, pirmajā akcionāru sapulcē, ko pēc piedāvājuma beigu termiņa sasauc pēc piedāvātāja iniciatīvas, lai grozītu statūtus vai atbrīvotu no amata esošos padomes locekļus un ieceltu amatā jaunus padomes locekļus, katra akcionāra balsstiesību skaits atbilst viņa ieguldījumam mērķa sabiedrības kapitālā.
+(10) Ja pēc piedāvājuma izteikšanas piedāvātājam ir vismaz 75 procenti balsstiesīgo akciju, mērķa sabiedrības akcionāriem nav saistoši mērķa sabiedrības statūtos noteiktie akciju atsavināšanas vai balsstiesību ierobežojumi. Nav spēkā arī mērķa sabiedrības statūtos vai akcionāru savstarpējos līgumos noteiktās izņēmuma tiesības kādam no akcionāriem ievēlēt amatā vai atbrīvot no amata valdes vai padomes locekļus.
+(11) Ja, pamatojoties uz šā panta piekto, septīto, astoto un devīto daļu, tiek ierobežotas kāda mērķa sabiedrības akcionāra tiesības un tādēļ viņam rodas zaudējumi, šim akcionāram ir tiesības pieprasīt no akciju atpirkšanas piedāvājuma izteicēja atbilstošu kompensāciju. Ja puses nespēj vienoties par kompensācijas apmēru, to nosaka tiesa.
+(12) Šā panta septītajā, astotajā un devītajā daļā noteiktie ierobežojumi nav spēkā, ja balsstiesību ierobežojumiem ir paredzēta atbilstoša mantiska kompensācija.
+(13) Šo pantu nepiemēro attiecībā uz kooperatīvajām sabiedrībām, dalībvalstu tiesību aktos paredzētām īpašām tiesībām, kas atbilst Eiropas Kopienas dibināšanas līguma noteikumiem, un gadījumos, kad dalībvalstīm pieder mērķa sabiedrības akcijas, kuras tām piešķir īpašas tiesības, kas atbilst Eiropas Kopienas dibināšanas līguma noteikumiem.

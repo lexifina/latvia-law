@@ -19,8 +19,8 @@ d) jebkura cita juridiskā persona, kura ieguldījumu brokeru sabiedrībai vai k
 13) sākotnējā izvietošana - emitenta vai tā pilnvarotas personas izteikts publiskais piedāvājums iegūt pārvedamus vērtspapīrus vai citus finanšu instrumentus un to pirmreizējā iegūšana;
 14) emisijas prospekts - dokuments, kurā ietverta detalizēta informācija par emitentu un tā emitētiem pārvedamiem vērtspapīriem, par kuriem emitents vēlas izteikt publisko piedāvājumu;
 15) prospekts - dokuments, kurā ietverta detalizēta informācija par emitentu un tā emitētiem pārvedamiem vērtspapīriem, kurus emitents vēlas iekļaut regulētajā tirgū;
-16) mērķa sabiedrība - akciju sabiedrība, kuras akcijas atrodas publiskajā apgrozībā un par kuras akciju atpirkšanu izteikts obligātais vai brīvprātīgais akciju atpirkšanas piedāvājums;
-17) piedāvātājs - viena vai vairākas personas, kuras izsaka vienu un to pašu piedāvājumu atpirkt akcijas;
+16) mērķa sabiedrība - akciju sabiedrība, kuras akcijas atrodas publiskajā apgrozībā un par kuras akcijām ir izteikts atpirkšanas piedāvājums;
+17) piedāvātājs - persona vai personu grupa, kura izsaka obligāto, brīvprātīgo vai galīgo akciju atpirkšanas piedāvājumu vai kurai ir pienākums izteikt obligāto akciju atpirkšanas piedāvājumu;
 18) Latvijas Centrālais depozitārijs - kapitālsabiedrība, kas iegrāmato un uzskaita Latvijas Republikā publiskajā apgrozībā izlaistos finanšu instrumentus, kā arī nodrošina finanšu instrumentu un naudas norēķinus finanšu instrumentu darījumos regulētajā tirgū un finanšu instrumentu norēķinus starp finanšu instrumentu turētājiem;
 19) finanšu instrumentu tirgus dalībnieki - kredītiestādes, kuras sniedz ieguldījumu pakalpojumus vai ieguldījumu blakuspakalpojumus, ieguldījumu brokeru sabiedrības, emitenti, ieguldītāji, sabiedrības, kuras saskaņā ar likumu ir tiesīgas pārvaldīt kopējo ieguldījumu uzņēmumus, tirgus organizētāji, Latvijas Centrālais depozitārijs un citas personas, kuras veic šajā likumā regulētās darbības;
 20) būtiska līdzdalība - tieši vai netieši iegūta līdzdalība, kas aptver 10 un vairāk procentus no komercsabiedrības pamatkapitāla vai balsstiesīgo akciju (daļu) skaita vai arī dod iespēju būtiski ietekmēt komercsabiedrības finanšu un darbības politikas noteikšanu;
@@ -53,8 +53,8 @@ c) akciju sertifikāti,
 d) citi vērtspapīri, kuros nostiprinātas tiesības iegādāties šā punkta "a" un "b" apakšpunktā minētos pārvedamos vērtspapīrus parakstīšanās vai apmaiņas ceļā vai paredzēti norēķini naudā;
 33) mazie un vidējie komersanti - komersanti, kas saskaņā ar to individuālajiem gada pārskatiem vai konsolidētajiem gada pārskatiem atbilst vismaz diviem no šādiem trim kritērijiem:
 a) vidējais darbinieku skaits finansiālajā gadā ir mazāks par 250,
-b) aktīvu kopsumma nepārsniedz 43000000 eiras,
-c) gada tīrais apgrozījums nepārsniedz 50 000 000 eiras;
+b) aktīvu kopsumma nepārsniedz 43000000 eiro,
+c) gada tīrais apgrozījums nepārsniedz 50 000 000 eiro;
 34) publiskā piedāvājuma izteicējs - persona, kas publiski piedāvā pārvedamus vērtspapīrus;
 35) piedāvājuma programma - pasākumu kopums līdzīgas vai vienādas kategorijas pārvedamu vērtspapīru (izņemot kapitāla vērtspapīrus) nepārtrauktai vai atkārtotai emisijai noteiktā laika posmā;
 36) nepārtraukti vai atkārtoti emitēti pārvedami vērtspapīri - līdzīgas vai vienādas kategorijas pārvedami vērtspapīri, kas emitēti nepārtrauktas emisijas vai 12 mēnešu laikā notikušu vismaz divu atsevišķu emisiju rezultātā;
@@ -68,4 +68,6 @@ e) mazie un vidējie komersanti, kas par kvalificētiem ieguldītājiem ir atzī
 39) publiskais piedāvājums - ar jebkuru līdzekļu starpniecību sniegta tāda informācija par piedāvājuma noteikumiem un piedāvājamiem pārvedamiem vērtspapīriem, kas ļauj ieguldītājiem lemt par šo vērts-papīru iegādi vai parakstīšanos uz tiem;
 40) ārvalsts - valsts, kas nav Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts;
 41) kompetentā institūcija - institūcija, kurai dalībvalsts deleģējusi funkciju uzraudzīt emisijas prospektu un prospektu sagatavošanas, reģistrēšanas un izplatīšanas kārtību un kura veic pienākumus, kas saistīti ar starptautisko sadarbību ar citu dalībvalstu kompetentajām institūcijām;
-42) saistītais uzņēmums - līdzdalība uzņēmumā, kurā grupas uzņēmumiem tieši vai netieši (ar meitas uzņēmumu starpniecību) pieder 20 vai vairāk procentu no balsstiesīgo akciju (daļu) skaita, vai līdzdalība, kas dod tiesības būtiski ietekmēt, bet ne kontrolēt ar uzņēmuma finansiālās darbības un pamatdarbības politiku saistīto lēmumu pieņemšanu.
+42) saistītais uzņēmums - līdzdalība uzņēmumā, kurā grupas uzņēmumiem tieši vai netieši (ar meitas uzņēmumu starpniecību) pieder 20 vai vairāk procentu no balsstiesīgo akciju (daļu) skaita, vai līdzdalība, kas dod tiesības būtiski ietekmēt, bet ne kontrolēt ar uzņēmuma finansiālās darbības un pamatdarbības politiku saistīto lēmumu pieņemšanu;
+43) atpirkšanas piedāvājums - publiski izteikts piedāvājums (kas nav pašas mērķa sabiedrības izteikts piedāvājums) mērķa sabiedrības akcionāriem iegādāties no tiem visas akcijas vai daļu akciju, lai iegūtu kontroli mērķa sabiedrībā;
+44) personas, kuras rīkojas saskaņoti - piedāvātājs un personas, kas sadarbojas ar piedāvātāju vai mērķa sabiedrību saskaņā ar vienošanos, lai iegūtu mērķa sabiedrībā kontroli vai izjauktu veiksmīgu piedāvājumu.

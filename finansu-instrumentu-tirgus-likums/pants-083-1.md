@@ -1,0 +1,2 @@
+83.¹ pants. Mazākuma akcionāru pieprasījums atpirkt akcijas
+Ja personai tiešā vai netiešā veidā pieder 90 vai vairāk procentu no kapitālsabiedrības akcijām, katrs no pārējiem šīs kapitālsabiedrības akcionāriem līdz brīdim, kad tiek izteikts galīgais akciju atpirkšanas piedāvājums, var pieprasīt, lai šī persona atpērk viņam piederošās akcijas par cenu, kas nav mazāka par to cenu, ko nosaka atbilstoši šā likuma 74.pantam.

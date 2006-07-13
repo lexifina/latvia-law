@@ -1,8 +1,8 @@
-47.pants. Prospekta publicēšanas pienākuma izņēmumi
-Pienākums publicēt prospektu neattiecas uz šādu pārvedamu vērtspapīru iekļaušanu regulētajā tirgū:
+47.pants. Prospekta sagatavošanas pienākuma izņēmumi
+Pienākums sagatavot prospektu neattiecas uz šādu pārvedamu vērtspapīru iekļaušanu regulētajā tirgū:
 1) akcijām, kas 12 mēnešu laika posmā veido mazāk nekā 10 procentus no tādas pašas kategorijas akciju skaita, kas jau ir iekļautas tajā pašā regulētajā tirgū;
 2) akcijām, ko emitē, lai aizvietotu tādas pašas kategorijas akcijas, kuras jau iekļautas tajā pašā regulētajā tirgū, ja šādu akciju emisija nepalielina reģistrēto pamatkapitālu;
-3) pārvedamiem vērtspapīriem, ko piedāvā saistībā ar pārņemšanu, kuru īsteno ar apmaiņas piedāvājumu, ievērojot nosacījumu, ka publiski ir pieejams dokuments, kas satur informāciju, kuru Komisija atzinusi par līdzvērtīgu tai, kas būtu iekļaujama prospektā saskaņā ar Eiropas Savienības normatīvo aktu prasībām;
+3) pārvedamiem vērtspapīriem, ko piedāvā saistībā ar pārņemšanu, kuru īsteno ar apmaiņas piedāvājumu, ievērojot nosacījumu, ka publiski ir pieejams dokuments, kas satur informāciju, kuru Komisija atzinusi par līdzvērtīgu tai, kas būtu iekļaujama prospektā saskaņā ar Eiropas Savienības tiesību aktu prasībām;
 4) pārvedamiem vērtspapīriem, kas piedāvāti, piešķirti vai piešķirami saistībā ar apvienošanos, ievērojot nosacījumu, ka publiski ir pieejams dokuments, kas satur informāciju, kuru Komisija atzinusi par līdzvērtīgu tai, kas būtu iekļaujama prospektā saskaņā ar Eiropas Savienības tiesību aktu prasībām;
 5) akcijām, kas bez maksas piedāvātas, piešķirtas vai piešķiramas pašreizējiem akcionāriem, un dividendēm, ko izmaksā tā veida akcijās, par kurām šādas dividendes tiek izmaksātas, ievērojot nosacījumu, ka minētās akcijas ir tāda paša veida akcijas, kādas jau iekļautas tajā pašā regulētajā tirgū, un ka publiski ir pieejams dokuments, kas satur informāciju par akciju skaitu un veidu un piedāvājuma iemesliem un noteikumiem;
 6) pārvedamiem vērtspapīriem, ko pašreizējiem vai bijušajiem vadītājiem vai darbiniekiem piedāvā, piešķir vai plāno piešķirt to darba devējs vai saistītais uzņēmums, ievērojot nosacījumu, ka minētie pārvedamie vērtspapīri ir tādas pašas kategorijas pārvedami vērtspapīri, kādi jau iekļauti tajā pašā regulētajā tirgū, un ka publiski ir pieejams dokuments, kas satur informāciju par pārvedamu vērtspapīru skaitu un veidu un piedāvājuma iemesliem un noteikumiem;
@@ -10,7 +10,7 @@ Pienākums publicēt prospektu neattiecas uz šādu pārvedamu vērtspapīru iek
 8) pārvedamiem vērtspapīriem, kas jau iekļauti citā regulētajā tirgū, ievērojot šādus nosacījumus:
 a) šie pārvedamie vērtspapīri vai tādas pašas kategorijas pārvedami vērtspapīri ir jau vairāk nekā 18 mēnešus iekļauti citā regulētajā tirgū,
 b) attiecībā uz pārvedamiem vērtspapīriem, kas pirmo reizi iekļauti regulētā tirgū pēc 2003.gada 31decembra, iekļaušana citā regulētajā tirgū ir saistīta ar reģistrētu prospektu, kas darīts pieejams sabiedrībai saskaņā ar šā likuma 51.pantu,
-c) attiecībā uz pārvedamiem vērtspapīriem, kuri pirmo reizi iekļauti dalībvalstu biržas sarakstos no 1983.gada 30.jūnija līdz 2005.gada 30.jūnijam un par kuriem prospekti reģistrēti saskaņā ar dalībvalstu normatīvajiem aktiem, kuros pārņemtas Eiropas Savienības normatīvo aktu prasības, izņemot gadījumus, uz kuriem attiecas šā punkta "b" apakšpunkts,
+c) attiecībā uz pārvedamiem vērtspapīriem, kuri pirmo reizi iekļauti dalībvalstu biržas sarakstos no 1983.gada 30.jūnija līdz 2005.gada 30.jūnijam un par kuriem prospekti reģistrēti saskaņā ar dalībvalstu normatīvajiem aktiem, kuros pārņemtas Eiropas Savienības tiesību aktu prasības, izņemot gadījumus, uz kuriem attiecas šā punkta "b" apakšpunkts,
 d) ir izpildītas saistības par pārvedamu vērtspapīru tirdzniecību citā regulētajā tirgū,
 e) persona, kas lūdz pārvedamu vērtspapīru iekļaušanu regulētajā tirgū atbilstoši šim atbrīvojumam, dara pieejamu sabiedrībai kopsavilkuma dokumentu latviešu valodā,
 f) kopsavilkuma dokuments, kas minēts šā punkta "e" apakšpunktā, ir darīts pieejams sabiedrībai tajā dalībvalstī, kuras regulētajā tirgū pārvedamus vērtspapīrus ir lūgts iekļaut,

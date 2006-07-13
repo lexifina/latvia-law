@@ -21,7 +21,7 @@
 3) pret kuru ierosinātā krimināllieta par tīša noziedzīga nodarījuma izdarīšanu ir izbeigta sakarā ar noilgumu vai amnestiju;
 4) kura saukta pie kriminālatbildības, bet pret kuru krimināllieta izbeigta uz nereabilitējoša pamata;
 5) kura apzināti sniegusi Komisijai nepatiesas ziņas par sevi, iesniedzot Komisijai dokumentus, lai saņemtu licenci jebkādas darbības veikšanai finanšu un kapitāla tirgū.
-(5) Ieguldījumu brokeru sabiedrības daļu īpašnieki (akcionāri) var būt tikai personas:
+(5) Ieguldījumu brokeru sabiedrības daļu īpašnieki (akcionāri), kuriem ir būtiska līdzdalība, var būt tikai personas:
 1) kurām ir nevainojama reputācija;
 2) kurām ir pietiekami finanšu līdzekļi, kuru ieguves tiesiskumu iespējams dokumentāri pierādīt;
 3) kuras iespējams identificēt.

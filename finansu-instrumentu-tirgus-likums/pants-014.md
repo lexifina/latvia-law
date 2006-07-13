@@ -2,7 +2,7 @@
 (1) Publisko piedāvājumu drīkst izteikt tikai pēc tam, kad saņemts Komisijas lēmums par atļauju izteikt publisko piedāvājumu un emisijas prospekts ir publicēts saskaņā ar šā likuma 21.panta prasībām.
 (2) Lai saņemtu atļauju izteikt publisko piedāvājumu, emitents vai publiskā piedāvājuma izteicējs iesniedz Komisijai iesniegumu, kuram pievieno:
 1) divus emisijas prospekta oriģināleksemplārus un emisijas prospekta tekstu elektroniskā veidā;
-2) emitenta pilnvarotas pārvaldes institūcijas lēmumu par attiecīgu pārvedamu vērtspapīru emisiju un publisko piedāvājumu.
+2) publiskā piedāvājuma izteicēja lēmumu par attiecīgu pārvedamu vērtspapīru emisiju un publisku piedāvājumu, ja publiskā piedāvājuma izteicējs ir juridiskā persona.
 (3) Iesniegumā norāda:
 1) emitenta reģistrācijas numuru, vietu un iestādi, firmu, juridisko adresi, tālruņa numuru, kā arī faksa numuru un e-pasta adresi (ja tāda ir);
 2) pārvedamu vērtspapīru veidu, kategoriju, kopējo skaitu un viena pārvedama vērtspapīra nominālvērtību;

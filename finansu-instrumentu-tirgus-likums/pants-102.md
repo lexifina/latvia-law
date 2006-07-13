@@ -10,7 +10,7 @@
 2) informācijas tehnoloģiju vai sistēmu pārvaldību vai attīstību;
 3) iekšējās kontroles organizēšanu;
 4) ieguldījumu pakalpojuma un ieguldījumu blakuspakalpojuma vai kāda būtiska tā elementa sniegšanu.
-(8) Ieguldījumu brokeru sabiedrība iekšējā revīzijas dienesta pienākumus kā ārpakalpojumu var deleģēt vienīgi zvērinātam revidentam vai zvērinātu revidentu komercsabiedrībai.
+(8) Ieguldījumu brokeru sabiedrība iekšējā audita dienesta pienākumus kā ārpakalpojumu var deleģēt vienīgi zvērinātam revidentam, zvērinātu revidentu komercsabiedrībai vai ieguldījumu brokeru sabiedrības mātes sabiedrībai - dalībvalstī reģistrētai kredītiestādei, apdrošināšanas sabiedrībai vai ieguldījumu brokeru sabiedrībai.
 (9) Ieguldījumu brokeru sabiedrība nedrīkst:
 1)deleģēt saskaņā ar normatīvajiem aktiem vai sabiedrības statūtiem noteiktos ieguldījumu brokeru sabiedrības pārvaldes institūciju pienākumus;
 2) licencē atļauto ieguldījumu pakalpojumu vai ieguldījumu blakuspakalpojumu sniegšanu pilnībā nodot ārpakalpojumu sniedzējiem.

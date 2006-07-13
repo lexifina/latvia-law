@@ -1,5 +1,5 @@
 94.pants. Centrālā depozitārija noteikumi
-(1) Centrālā depozitārija noteikumi ir dokumenti, kuros izvirzītas prasības, kas jāievēro tā dalībniekiem un emitentiem, kuru finanšu instrumenti ir iegrāmatoti Centrālajā depozitārijā, un šā likuma 94.panta otrās daļas 1., 5. un 6.punktā minētajos jautājumos arī tām ieguldījumu brokeru sabiedrībām un kredītiestādēm, kuras nav Centrālā depozitārija dalībnieki, bet veic Centrālajā depozitārijā iegrāmatotu finanšu instrumentu turēšanu.
+(1) Centrālā depozitārija noteikumi ir dokumenti, kuros izvirzītas prasības, kas jāievēro tā dalībniekiem un emitentiem, kuru finanšu instrumenti ir iegrāmatoti Centrālajā depozitārijā, un šā likuma 94.panta otrās daļas 5. un 6.punktā minētajos jautājumos arī tām ieguldījumu brokeru sabiedrībām un kredītiestādēm, kuras nav Centrālā depozitārija dalībnieki, bet veic Centrālajā depozitārijā iegrāmatotu finanšu instrumentu turēšanu.
 (2) Lai nodrošinātu šajā likumā paredzēto funkciju izpildi, Centrālais depozitārijs noteikumos reglamentē vismaz:
 1) finanšu instrumentu iegrāmatošanas un uzskaites kārtību;
 2) Centrālā depozitārija dalībnieku uzņemšanas un izslēgšanas kārtību, dalībnieku tiesības un pienākumus, kā arī dalībnieka statusa apturēšanas kārtību;

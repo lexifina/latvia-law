@@ -1,4 +1,4 @@
 57.¹pants. Informācija
 (1) Emitenti, kuru pārvedami vērtspapīri ir iekļauti regulētajā tirgū, vismaz reizi gadā iesniedz dokumentus, kurus tie saskaņā ar spēkā esošajiem normatīvajiem aktiem un Eiropas Parlamenta un Padomes 2002.gada 19.jūlija regulu (EK) Nr. 1606/2002 par starptautisko grāmatvedības standartu piemērošanu ir publicējuši vai darījuši pieejamus sabiedrībai iepriekšējos 12 mēnešos vienā vai vairākās dalībvalstīs un ārvalstīs. Emitents ir tiesīgs iesniegt tikai publicēto dokumentu sarakstu, norādot, kur tie ir pieejami.
 (2) Šā panta pirmajā daļā minētā informācija iesniedzama Komisijai pēc finanšu pārskatu publikācijas.
-(3) Šā panta pirmā daļa neattiecas uz to pārvedamu vērtspapīru emitentiem, kuri nav kapitāla vērtspapīru emitenti, un uz tiem gadījumiem, kad viena vērtspapīra nominālvērtība ir ne mazāka par 50000 eirām.
+(3) Šā panta pirmā daļa neattiecas uz to pārvedamu vērtspapīru emitentiem, kuri nav kapitāla vērtspapīru emitenti, un uz tiem gadījumiem, kad viena vērtspapīra nominālvērtība ir ne mazāka par 50000 eiro.

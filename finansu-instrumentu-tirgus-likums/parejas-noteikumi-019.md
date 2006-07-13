@@ -1,0 +1,1 @@
+19. Akciju sabiedrību (kuru akcijas laistas publiskajā apgrozībā) akcionāri, kuri ieguvuši vismaz 95 procentus no balsstiesīgo akciju kopskaita, ir tiesīgi izteikt galīgo akciju atpirkšanas piedāvājumu triju mēnešu laikā no šā likuma 69.¹ panta spēkā stāšanās dienas.
