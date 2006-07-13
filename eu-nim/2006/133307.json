@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2004.gada 23.marta noteikumos Nr.156 \"Augu aizsardzības līdzekļu reģistrācijas kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "110",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-13",
+  "entry_into_force": null,
+  "notification_date": "2006-07-13",
+  "commission_reference": "MNE(2006)54499",
+  "nim_celex": "72005L0025LVA_133307",
+  "nim_id": "133307",
+  "transposes_celex": [
+    "32005L0025"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9c675973-294b-446e-8726-0ea13e07547c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
