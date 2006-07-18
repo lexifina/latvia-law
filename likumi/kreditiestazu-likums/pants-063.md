@@ -1,4 +1,4 @@
-63.pants. (1) Kredītiestādes rīcībā esošās neizpaužamās ziņas valsts institūcijai vai valsts amatpersonai sniedzamas šajā likumā noteiktajā kārtībā šādos gadījumos:
+63.pants. (1) Kredītiestādes rīcībā esošās neizpaužamās ziņas valsts institūcijai, valsts amatpersonai vai citai iestādei un amatpersonai sniedzamas šajā likumā noteiktajā kārtībā šādos gadījumos:
 1) Finanšu un kapitāla tirgus komisijai - likumā noteikto uzraudzības funkciju īstenošanai;
 2) Noziedzīgi iegūtu līdzekļu legalizācijas novēršanas dienestam-likumā "Par noziedzīgi iegūtu līdzekļu legalizācijas novēršanu" noteiktajā kārtībā un apjomā;
 3) tiesām - to lietvedībā esošo lietu ietvaros uz tiesas (tiesneša) lēmuma pamata;
@@ -14,8 +14,11 @@ a) nodokļu maksātājs neiesniedz nodokļu administrācijai konkrēto nodokļu 
 b) nodokļu maksātāja nodokļu audita laikā ir konstatēti grāmatvedības uzskaites vai nodokļu normatīvo aktu pārkāpumi,
 c) nodokļu maksātājs neveic nodokļu maksājumus atbilstoši nodokļu likumu prasībām;
 12) Valsts ieņēmumu dienestam, ja kredītiestāde ir uzkrājumu ienākumu izmaksātājs saskaņā ar likuma "Par nodokļiem un nodevām" 45.panta pirmo daļu vai tā izmaksā vai nodrošina uzkrājumu ienākuma izmaksu saskaņā ar minētā likuma 45.panta trešo daļu;
-13) notāram, kas ved mantojuma lietu, ziņas, kas nepieciešamas fiziskās personas - mantojuma atstājēja mantojuma masas apzināšanai.
-(2) Izņemot šā panta pirmās daļas 1. un 12.punktā minēto gadījumu, valsts institūcija vai valsts amatpersona nepieciešamās ziņas pieprasa rakstveidā, pieprasījumā norādot ziņu precīzu nosaukumu un apjomu, kā arī ziņu pieprasīšanas pamatojumu - attiecīgo normatīvo aktu, starptautisko līgumu vai Eiropas Savienības normatīvo aktu.
+13) notāram, kas ved mantojuma lietu, ziņas, kas nepieciešamas fiziskās personas - mantojuma atstājēja mantojuma masas apzināšanai;
+14) bāriņtiesai, pamatojoties uz bāriņtiesas priekšsēdētāja pieprasījumu, par:
+a) mantojuma masas, bērna vai citas rīcībnespējīgas personas vārdā veiktajiem darījumiem un kontu atlikumiem, ja vecāks, aizbildnis vai aizgādnis bāriņtiesai nesniedz pieprasīto informāciju par bērna vai citas rīcībnespējīgas personas mantas pārvaldību vai ir pamatotas aizdomas, ka vecāka, aizbildņa vai aizgādņa sniegtā informācija nav patiesa,
+b) fiziskās personas - mantojuma atstājēja - kontu atlikumiem mantas saraksta (mantojuma inventāra saraksta) sastādīšanai.
+(2) Izņemot šā panta pirmās daļas 1. un 12.punktā minēto gadījumu, valsts institūcija, valsts amatpersona vai cita iestāde un amatpersona nepieciešamās ziņas pieprasa rakstveidā, pieprasījumā norādot ziņu precīzu nosaukumu un apjomu, kā arī ziņu pieprasīšanas pamatojumu - attiecīgo normatīvo aktu, starptautisko līgumu vai Eiropas Savienības normatīvo aktu.
 (3) Kredītiestāde nekavējoties, bet ne vēlāk kā 14 dienu laikā sniedz pieprasītās ziņas, ja ievērota šā panta pirmajā un otrajā daļā noteiktā kārtība. Šā panta pirmās daļas 12.punktā minētajā gadījumā kredītiestāde ziņas sniedz likumā "Par nodokļiem un nodevām" noteiktajā kārtībā un termiņos.
 (4) Dalībvalsts un ārvalsts tiesu un izmeklēšanas iestādei neizpaužamās ziņas kredītiestāde sniedz starptautiskajos līgumos noteiktajā kārtībā.
 (5) Dalībvalsts, izņemot Latviju, un ārvalsts noziedzīgi iegūtu līdzekļu legalizācijas vai terorisma finansēšanas novēršanas kontroles dienestam vai kredītiestāžu darbības uzraudzības institūcijai atbilstošā Latvijas institūcija neizpaužamās ziņas sniedz, pamatojoties uz savstarpējas sadarbības līgumu vai citu vienošanos. Attiecīgā Latvijas Republikas institūcija neizpaužamās ziņas iegūst šā panta pirmajā un otrajā daļā noteiktajā kārtībā. Šai institūcijai pirms informācijas sniegšanas dalībvalsts vai ārvalsts institūcijai jāpārliecinās par attiecīgo ziņu aizsardzību pret izpaušanu.
