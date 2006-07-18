@@ -1,0 +1,4 @@
+31.pants. Soda par izmeklēšanas cietumu iekšējās kārtības noteikumu neievērošanu piemērošanas kārtība
+(1) Šā likuma 30.panta pirmajā daļā minētais sods piemērojams ne vēlāk kā 10 dienu laikā no pārkāpuma konstatēšanas dienas, bet, ja sakarā ar pārkāpumu izmeklēšanas cietuma priekšnieka pilnvarota amatpersona ir veikusi pārbaudi, - 10 dienu laikā no tās pabeigšanas dienas, bet ne vēlāk kā sešu mēnešu laikā no pārkāpuma izdarīšanas dienas.
+(2) Pārbaude veicama izmeklēšanas cietuma priekšnieka norādītajos termiņos, bet ne vēlāk kā 10 dienu laikā no dienas, kad izmeklēšanas cietuma priekšniekam kļuvis zināms par izdarīto pārkāpumu.
+(3) Pirms lēmuma pieņemšanas par soda uzlikšanu apcietināto informē par pārkāpuma būtību un dod iespēju sniegt paskaidrojumus sevis aizstāvībai. Ziņas par izdarītā pārkāpuma būtību, konstatētajiem pārkāpuma apstākļiem un apcietinātā paskaidrojumu iekļauj lēmumā par soda uzlikšanu.

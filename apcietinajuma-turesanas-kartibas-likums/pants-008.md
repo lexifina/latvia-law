@@ -1,0 +1,4 @@
+8.pants. Apcietinātā mantu pieņemšana glabāšanā
+(1) Izmeklēšanas cietumu iekšējās kārtības noteikumi nosaka individuālai lietošanai izmeklēšanas cietumos atļauto mantu sarakstu un daudzumu. Mantas, kuras neietilpst minētajā sarakstā vai pārsniedz tajā norādīto daudzumu, apcietinātais nodod uzglabāšanai izmeklēšanas cietumā.
+(2) Apcietināto pārvietojot no izmeklēšanas cietuma uz īslaicīgās aizturēšanas vietu, viņam atstāj īslaicīgās aizturēšanas vietas kamerā atļauto priekšmetu sarakstā noteikto mantu daudzumu, bet pārējās mantas apcietinātais nodod uzglabāšanai izmeklēšanas cietumā.
+(3) Izmeklēšanas cietumā uzglabāšanai pieņemtās mantas uzskaita un norāda pieņemšanas aktā. Aktu paraksta apcietinātais un cietuma darbinieks, kurš pieņem mantas. Apcietinātajam izsniedz parakstītu pieņemšanas akta eksemplāru.

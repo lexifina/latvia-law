@@ -1,0 +1,2 @@
+12.pants. Iepazīstināšana ar apcietinātā tiesībām
+Pēc ievietošanas izmeklēšanas cietumā administrācija apcietināto viņam saprotamā valodā (ja nepieciešams, pieaicinot tulku) nekavējoties iepazīstina ar viņa tiesībām un pienākumiem, kā arī informē par amatpersonām, pie kurām apcietinātais var vērsties ar sūdzībām un lūgumiem. Apcietinātais ar parakstu apliecina, ka ir iepazīstināts ar minēto informāciju.

@@ -1,0 +1,6 @@
+40.pants. Apcietinātā atbrīvošanas kārtība
+(1) Ja beidzies apcietinājuma termiņš un nav saņemts lēmums par apcietinājuma termiņa pagarināšanu, apcietināto atbrīvo pēdējā apcietinājuma termiņa dienā līdz pulksten 15.00. Ja apcietinājuma termiņa beigas iekrīt sestdienā, svētdienā vai svētku dienā, apcietināto atbrīvo piektdienā vai dienā pirms svētku dienas.
+(2) Apcietinātajam, kuru atbrīvo no izmeklēšanas cietuma, izsniedz izmeklēšanas cietumu iekšējās kārtības noteikumos paredzētā parauga izziņu par atbrīvošanu. Izziņu paraksta un ar izmeklēšanas cietuma ģerboņzīmogu apliecina izmeklēšanas cietuma priekšnieks.
+(3) Pirms atbrīvošanas apcietinātajam pret parakstu izsniedz viņa personiskās naudas uzskaites kartē esošo naudu, viņam piederošās mantas, dārglietas un dokumentus.
+(4) Apcietinātajam, kuru atbrīvo no izmeklēšanas cietuma, apmaksā minimālos sabiedriskā transporta izdevumus biļetes iegādei līdz dzīvesvietai Latvijas teritorijā, bet, ja personas dzīvesvieta ir ārpus
+Latvijas, - minimālos sabiedriskā transporta izdevumus biļetes iegādei līdz valsts robežas šķērsošanas vietai vai līdz tuvākajai dzelzceļa stacijai valstī, ar kuru Latvijai ir sauszemes robeža. Apcietinātajam, kuru atbrīvo no izmeklēšanas cietuma, ja nepieciešams, nodrošina sezonai atbilstošu apģērbu.
