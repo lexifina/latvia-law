@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Par Eiropas Kopienas pastāvīgā iedzīvotāja statusu Latvijas Republikā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "107",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-07",
+  "entry_into_force": "2006-07-21",
+  "notification_date": "2006-07-18",
+  "commission_reference": "MNE(2006)54552",
+  "nim_celex": "72003L0109LVA_133395",
+  "nim_id": "133395",
+  "transposes_celex": [
+    "32003L0109"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d38b5b0b-7e54-4609-9f20-12b652c3850a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
