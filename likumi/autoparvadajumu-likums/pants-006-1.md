@@ -1,0 +1,11 @@
+6.¹ pants. Prasības attiecībā uz kravas pārvadājumus veicošo autovadītāju profesionālo kompetenci
+(1) Kravas pārvadājumus ar kravas automobiļiem, kuru pilna masa pārsniedz 3,5 tonnas, atļauts veikt autovadītājiem, kuriem ir šo pārvadājumu veikšanai nepieciešamās profesionālās zināšanas. Iegūtās profesionālās zināšanas apliecina attiecīgs ieraksts transportlīdzekļu vadītāja apliecībā vai vadītāja kvalifikācijas kartē.
+(2) No šā panta pirmajā daļā noteiktās prasības ir atbrīvoti autovadītāji, kas vada:
+1) transportlīdzekļus, kuru maksimālais atļautais ātrums nepārsniedz 45 kilometrus stundā;
+2) transportlīdzekļus, kurus izmanto vai kontrolē valsts bruņotie spēki, civilās aizsardzības dienests, ugunsdzēsības dienests un sabiedriskās kārtības uzturēšanas spēki;
+3) transportlīdzekļus, kuriem veic braukšanas pārbaudi tehniskās attīstības, remonta vai apkopes mērķiem, vai pārbūvētiem transportlīdzekļiem, kuri vēl nav nodoti ekspluatācijā;
+4) transportlīdzekļus, kurus izmanto ārkārtas situācijās vai kuri paredzēti glābšanas uzdevumu veikšanai;
+5) transportlīdzekļus, kurus izmanto transportlīdzekļu vadīšanas nodarbībās, apmācot jebkuru personu, kas vēlas iegūt vadīšanas tiesības;
+6) transportlīdzekļus, kurus izmanto nekomerciālai kravu pārvadāšanai, tai skaitā pašpārvadājumiem un personiskajām vajadzībām;
+7) transportlīdzekļus, ar kuriem pārvadā materiālus vai iekārtas, kuras vadītājs izmanto sava darba laikā, ja transportlīdzekļa vadīšana nav vadītāja galvenā darbības joma.
+(3) Autovadītājiem nepieciešamās zināšanas kravas pārvadājumu veikšanai, kā arī sākotnējās un periodiskās apmācības kārtību nosaka Ministru kabinets.
