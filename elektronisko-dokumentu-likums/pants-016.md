@@ -15,5 +15,10 @@
 (3) Kvalificētu sertifikātu paraksta ar uzticama sertifikācijas pakalpojumu sniedzēja elektronisko parakstu. Elektroniskais paraksts atbilst šādām prasībām:
 1) tas ir piesaistīts vienīgi uzticamam sertifikācijas pakalpojumu sniedzējam;
 2) tas nodrošina uzticama sertifikācijas pakalpojumu sniedzēja identifikāciju;
-3) tas ir radīts ar līdzekļiem, kurus var kontrolēt tikai uzticams sertifikācijas pakalpojumu sniedzējs;
+3) tas ir radīts ar uzticama sertifikācijas pakalpojumu sniedzēja elektroniskā paraksta radīšanas līdzekļiem;
 4) tas ir saistīts ar parakstīto elektronisko dokumentu tā, lai vēlāk veiktas izmaiņas parakstītajā elektroniskajā dokumentā būtu pamanāmas.
+(4) Ar uzticama sertifikācijas pakalpojumu sniedzēja elektroniskā paraksta radīšanas līdzekļiem šajā likumā saprot programmatūru, aparatūru un elektroniskā paraksta radīšanas datus, kas atbilst visām šādām prasībām:
+1) elektroniskā paraksta radīšanas dati ir radīti stingri kontrolētā vidē, un ir nodrošināta to slepenība;
+2) elektroniskā paraksta radīšanas datus nevar atvasināt, un, izmantojot tehnoloģijas, elektroniskais paraksts ir nodrošināts pret viltošanu;
+3) elektroniskā paraksta radīšanas dati ir droši aizsargāti pret to, ka trešās personas varētu tos nelikumīgi izmantot;
+4) droši elektroniskā paraksta radīšanas līdzekļi nemaina parakstāmo elektronisko dokumentu un neliedz iepazīties ar šo dokumentu pirms tā parakstīšanas.
