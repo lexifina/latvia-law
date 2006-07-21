@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Eksporta kredītu garantēšanas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "107",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-07",
+  "entry_into_force": "2006-07-21",
+  "notification_date": "2006-07-13",
+  "commission_reference": "MNE(2006)54495",
+  "nim_celex": "71984L0568LVA_133303",
+  "nim_id": "133303",
+  "transposes_celex": [
+    "31984L0568",
+    "31998L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b92ba6c8-0019-418a-be7b-872ed336d951",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
