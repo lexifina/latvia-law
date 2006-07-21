@@ -8,4 +8,4 @@
 6) energoresursu un citu resursu uzskaitē;
 7) ģeodēzijas un hidrometeoroloģijas darbos;
 8) veicot izmeklēšanu un ekspertīzi.
-(2) Valsts metroloģiskajai kontrolei pakļauto mērīšanas līdzekļu sarakstu, norādot to verificēšanas periodiskumu, apstiprina Ministru kabinets, ņemot vērā Metroloģijas centra un citu valsts institūciju priekšlikumus.
+(2) Valsts metroloģiskajai kontrolei pakļauto mērīšanas līdzekļu sarakstu, norādot to pirmreizējo verificēšanu, kā arī atkārtotās verificēšanas periodiskumu, apstiprina Ministru kabinets.

@@ -1,0 +1,1 @@
+10. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2006.gada 31.decembrim ir spēkā Ministru kabineta 2005.gada 28.jūnija noteikumi Nr.452 "Noteikumi par mērīšanas līdzekļu verificēšanu, verificēšanas sertifikātiem un verificēšanas atzīmēm", ciktāl tie nav pretrunā ar šo likumu.

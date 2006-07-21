@@ -1,0 +1,1 @@
+7. Līdz 2006.gada 31.decembrim valsts sabiedrība ar ierobežotu atbildību "Latvijas Nacionālais metroloģijas centrs" veic valsts metroloģiskajai kontrolei pakļauto mērīšanas līdzekļu pirmreizējo un atkārtoto verificēšanu un nodrošina laboratoriju akreditāciju reglamentētajā sfērā valsts aģentūrā "Latvijas Nacionālais akreditācijas birojs."
