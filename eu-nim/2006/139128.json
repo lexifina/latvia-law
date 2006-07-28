@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru Kabineta 2006.gada 25.jūlija noteikumi Nr. 612 \"Grozījumi Ministru kabineta 2003.gada 21.oktobra noteikumos Nr.588 \"Noteikumi par gaisa kvalitāti\" \"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "118",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-27",
+  "entry_into_force": "2006-07-28",
+  "notification_date": "2006-12-22",
+  "commission_reference": "MNE(2006)58748",
+  "nim_celex": "72004L0107LVA_139128",
+  "nim_id": "139128",
+  "transposes_celex": [
+    "32004L0107"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f4d1299f-709b-4413-a936-f8cc56cb2e38",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
