@@ -1,0 +1,1 @@
+10. Plānošanas reģiona attīstības padome, kas izveidota un darbojas līdz 2006.gada 1.augustam, uzskatāma par šā likuma 5.panta pirmajā daļā minētās atvasinātas publiskas personas lēmējorgānu līdz dienai, kad Plānošanas reģiona attīstības padome tiek ievēlēta atbilstoši šā likuma 17.panta pirmās daļas noteikumiem.
