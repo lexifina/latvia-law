@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2006.gada 1.augusta rīkojums Nr. 571 \"Par Enerģētikas attīstības pamatnostādnēm 2007.-2016.gadam\"",
+  "type_of_act": "Ministru kabineta rīkojums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "122 (3490)",
+  "official_journal_page": null,
+  "official_journal_date": "2006-08-03",
+  "entry_into_force": "2006-08-01",
+  "notification_date": "2013-07-18",
+  "commission_reference": "MNE(2013)56794",
+  "nim_celex": "72010L0031LVA_207797",
+  "nim_id": "207797",
+  "transposes_celex": [
+    "32010L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2bcb29fa-c692-4ba5-8c53-bb36a34d682a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
