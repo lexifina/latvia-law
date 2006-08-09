@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2006.gada 1.augusta noteikumi Nr.632 “Patērētāju tiesību aizsardzības centra nolikums”",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "125",
+  "official_journal_page": null,
+  "official_journal_date": "2006-08-08",
+  "entry_into_force": "2006-08-09",
+  "notification_date": "2024-03-22",
+  "commission_reference": "MNE(2024)01358",
+  "nim_celex": "72021L2167LVA_202401358",
+  "nim_id": "202401358",
+  "transposes_celex": [
+    "32021L2167"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8f057837-c21c-44e2-8fc7-260a4cf32ec5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
