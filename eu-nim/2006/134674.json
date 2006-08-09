@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Par Emisijas kvotu sadales plānu 2008.–2012.gadam",
+  "type_of_act": "Ministru kabineta rīkojums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "128",
+  "official_journal_page": null,
+  "official_journal_date": "2006-08-11",
+  "entry_into_force": "2006-08-09",
+  "notification_date": "2006-08-25",
+  "commission_reference": "MNE(2006)55508",
+  "nim_celex": "72003L0087LVA_134674",
+  "nim_id": "134674",
+  "transposes_celex": [
+    "32003L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6f18a1af-3a50-4b39-b0c3-1d73ca0a438f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
