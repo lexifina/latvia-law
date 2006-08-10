@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Veterināro zāļu reģistrēšanas kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "127",
+  "official_journal_page": null,
+  "official_journal_date": "2006-08-10",
+  "entry_into_force": null,
+  "notification_date": "2006-08-10",
+  "commission_reference": "MNE(2006)55160",
+  "nim_celex": "72001L0082LVA_134202",
+  "nim_id": "134202",
+  "transposes_celex": [
+    "32001L0082",
+    "32004L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7685aa9c-0c0c-4120-9d6d-3f3fcd474214",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
