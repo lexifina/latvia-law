@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2004.gada 20.aprīļa noteikumos Nr.354 \"Noteikumi par būtiskajām prasībām kosmētikas līdzekļiem un to uzraudzības kārtību\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "149",
+  "official_journal_page": null,
+  "official_journal_date": "2006-09-19",
+  "entry_into_force": "2006-08-20",
+  "notification_date": "2006-10-18",
+  "commission_reference": "MNE(2006)56833",
+  "nim_celex": "72006L0065LVA_136492",
+  "nim_id": "136492",
+  "transposes_celex": [
+    "32006L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0b58440a-1dd0-403d-bd83-60e4bd31e951",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
