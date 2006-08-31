@@ -1,1 +1,0 @@
-Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta noteikumi nr.32 "Par valsts nekustamā īpašuma reģistrāciju un izmantošanu līdz īpašuma tiesību nostiprināšanai zemesgrāmatās" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 3. nr.).
