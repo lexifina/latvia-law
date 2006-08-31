@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2005.gada 19.aprīļa noteikumos Nr.272 \"Noteikumi par tekstilšķiedru sastāva norādīšanu tekstilizstrādājumu marķējumā\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "138",
+  "official_journal_page": null,
+  "official_journal_date": "2006-08-30",
+  "entry_into_force": "2006-08-31",
+  "notification_date": "2006-09-29",
+  "commission_reference": "MNE(2006)56364",
+  "nim_celex": "72006L0003LVA_135865",
+  "nim_id": "135865",
+  "transposes_celex": [
+    "32006L0003"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4e3cfa49-e718-41fd-90eb-b6784d43ea47",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
