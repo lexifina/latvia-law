@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Kārtība, kādā veic dažādšķiedru maisījuma sastāva kvantitatīvās pārbaudes, lai noteiktu tekstilizstrādājuma sastāva atbilstību marķējumā norādītajai informācijai",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "138",
+  "official_journal_page": null,
+  "official_journal_date": "2006-08-30",
+  "entry_into_force": "2006-08-31",
+  "notification_date": "2006-10-05",
+  "commission_reference": "MNE(2006)56479",
+  "nim_celex": "71973L0044LVA_136024",
+  "nim_id": "136024",
+  "transposes_celex": [
+    "31973L0044",
+    "31996L0073",
+    "32006L0002"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/61c400f1-ae7f-4dfd-b176-7ee533b8bd46",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
