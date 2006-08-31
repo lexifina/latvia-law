@@ -10,3 +10,4 @@
 1) valstij piederošas ēkas (būves) un valsts uzņēmumi (uzņēmējsabiedrības);
 2) privatizēti valsts īpašuma objekti vai citādi atsavinātas valsts vai valsts uzņēmumu (uzņēmējsabiedrību) ēkas (būves).
 (4) Zemes reformas laikā valstij piekrīt un uz valsts vārda zemesgrāmatās ierakstāma zeme, kura 1940.gada 21.jūlijā piederēja fiziskajām un juridiskajām personām, ja šīs personas par šo zemi saņēmušas līdzvērtīgu zemi no bijušajām valsts zemēm.
+(5) Valstij piekrīt un uz valsts vārda arī pēc zemes reformas pabeigšanas zemesgrāmatās ierakstāma zeme, kuru valsts varēja ierakstīt uz valsts vārda zemesgrāmatās zemes reformas laikā.
