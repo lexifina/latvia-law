@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par dējējvistu labturības prasībām un dējējvistu turēšanas uzņēmumu reģistrācijas kārtību",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "140",
+  "official_journal_page": null,
+  "official_journal_date": "2006-09-01",
+  "entry_into_force": null,
+  "notification_date": "2007-07-20",
+  "commission_reference": "MNE(2007)55612",
+  "nim_celex": "71999L0074LVA_147201",
+  "nim_id": "147201",
+  "transposes_celex": [
+    "31999L0074",
+    "32002L0004"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8ba4194d-709e-4bf6-93e9-b03d8335e4b3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
