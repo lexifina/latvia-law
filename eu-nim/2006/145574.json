@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Kārtība, kādā veic uzraudzību un informācijas apmaiņu par infekcijas slimībām, ar kurām slimo gan dzīvnieki, gan cilvēki, par šo slimību ierosinātājiem, kā arī par ierosinātāju antimikrobo rezistenci",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "144",
+  "official_journal_page": null,
+  "official_journal_date": "2006-09-08",
+  "entry_into_force": null,
+  "notification_date": "2007-06-01",
+  "commission_reference": "MNE(2007)54409",
+  "nim_celex": "71982L0894LVA_145574",
+  "nim_id": "145574",
+  "transposes_celex": [
+    "31982L0894",
+    "32003L0099"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9e5d6bc0-b1a2-46d0-97c0-19e3af9d2326",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
