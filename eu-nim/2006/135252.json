@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par ārvalstu civilās aviācijas lidojuma apkalpes personāla apliecību atzīšanu",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "143",
+  "official_journal_page": null,
+  "official_journal_date": "2006-09-07",
+  "entry_into_force": "2006-09-08",
+  "notification_date": "2006-09-14",
+  "commission_reference": "MNE(2006)55938",
+  "nim_celex": "71991L0670LVA_135252",
+  "nim_id": "135252",
+  "transposes_celex": [
+    "31991L0670"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c0937a29-85fa-4c0a-b79b-ba00cac8d5dc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
