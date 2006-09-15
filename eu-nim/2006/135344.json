@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ceļu lietotāju maksājumu elektronisko iekasēšanas sistēmu savstarpējās izmantojamības kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "147",
+  "official_journal_page": null,
+  "official_journal_date": "2006-09-14",
+  "entry_into_force": "2006-09-15",
+  "notification_date": "2006-09-14",
+  "commission_reference": "MNE(2006)55994",
+  "nim_celex": "72004L0052LVA_135344",
+  "nim_id": "135344",
+  "transposes_celex": [
+    "32004L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f716f783-1db9-42cd-96a7-5ac1c2e59c9d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
