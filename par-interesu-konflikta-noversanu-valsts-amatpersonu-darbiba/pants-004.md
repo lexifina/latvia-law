@@ -6,7 +6,7 @@
 4) Valsts prezidenta kancelejas vadītājs un viņa vietnieks, Saeimas Kancelejas direktors un viņa vietnieks;
 5) Valsts prezidenta padomnieks, Ministru prezidenta, Ministru prezidenta biedra, ministra, īpašu uzdevumu ministra un valsts ministra biroja vadītājs, padomnieks, konsultants un palīgs;
 6) Latvijas Bankas prezidents, viņa vietnieks un Latvijas Bankas padomes loceklis;
-7) valsts kontrolieris, Valsts kontroles padomes loceklis, Valsts kontroles revīzijas departamentu kolēģijas loceklis un Valsts kontroles kancelejas pārvaldnieks;
+7) valsts kontrolieris, Valsts kontroles padomes loceklis, Valsts kontroles revīzijas departamenta sektora vadītājs;
 8) Centrālās vēlēšanu komisijas priekšsēdētājs, viņa vietnieks un Centrālās vēlēšanu komisijas sekretārs;
 9) Satversmes aizsardzības biroja direktors un viņa vietnieks;
 10) Korupcijas novēršanas un apkarošanas biroja priekšnieks, viņa vietnieki, centrālā aparāta nodaļu vadītāji un viņu vietnieki, teritoriālo nodaļu vadītāji un izmeklētāji;
@@ -23,7 +23,8 @@
 21) tiesnesis, prokurors, zvērināts notārs un zvērināts tiesu izpildītājs;
 22) Nacionālo bruņoto spēku profesionālā dienesta karavīrs un militārais darbinieks;
 23) Informācijas analīzes dienesta vadītājs;
-24) publiskā iepirkuma komisijas loceklis.
+24) publiskā iepirkuma komisijas loceklis;
+25) Iekšlietu ministrijas sistēmas iestādes un Ieslodzījuma vietu pārvaldes amatpersona ar speciālo dienesta pakāpi.
 (2) Par valsts amatpersonām uzskatāmas arī personas, kurām, pildot amata pienākumus valsts vai pašvaldības institūcijās, saskaņā ar normatīvajiem aktiem ir tiesības izdot administratīvos aktus, kā arī veikt uzraudzības, kontroles, izziņas vai sodīšanas funkcijas attiecībā uz personām, kas neatrodas to tiešā vai netiešā pakļautībā, vai tiesības rīkoties ar valsts vai pašvaldības mantu, tai skaitā finanšu līdzekļiem.
 (2¹) Par valsts amatpersonām uzskatāmas arī personas, kuras, pildot amata pienākumus valsts drošības iestādēs un Informācijas analīzes dienestā, veic vismaz vienu no šādām darbībām:
 1) izlūkošanu;
