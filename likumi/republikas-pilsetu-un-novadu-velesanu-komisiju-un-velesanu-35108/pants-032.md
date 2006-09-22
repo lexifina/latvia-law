@@ -1,1 +1,1 @@
-32. pants. Vēlēšanu komisijas lēmumu var apstrīdēt tiesā septiņu dienu laikā pēc tā pieņemšanas.
+32. pants. Vēlēšanu komisijas vai iecirkņa komisijas lēmumu likumā noteiktajā kārtībā var apstrīdēt Centrālajā vēlēšanu komisijā. Centrālās vēlēšanu komisijas lēmumu par vēlēšanu komisijas vai iecirkņa komisijas lēmumu likumā noteiktajā kārtībā var pārsūdzēt tiesā.
