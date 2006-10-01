@@ -2,12 +2,7 @@
 Policijas darbinieks, pildot viņam uzliktos pienākumus, ir pakļauts savam tiešajam priekšniekam un augstākam priekšniekam. Ja policijas darbinieks ir saņēmis priekšnieka pavēli, rīkojumu vai norādījumu, kas ir pretrunā ar likumu, viņš ievēro likuma prasības.
 Policijas darbiniekam nav saistoši partiju un citu sabiedriski politisko organizāciju un kustību vai to pārstāvju rīkojumi un lēmumi.
 Partiju un citu sabiedriski politisko organizāciju un kustību vai to pārstāvju iejaukšanās policijas darbībā ir aizliegta.
-Par likumpārkāpumu netiek atzīta policijas darbinieka rīcība attaisnota profesionāla riska situācijā, kaut arī šajā rīcībā būtu nodarījuma pazīmes, par kuru noteikta disciplinārā, administratīvā, materiālā vai kriminālā atbildība. Profesionāls risks atzīstams par attaisnotu, ja policijas darbinieks rīkojies atbilstoši viņa rīcībā esošajai informācijai par faktiem un apstākļiem, bet likumīgais mērķis nav bijis sasniedzams bez riska darbībām un ja viņš, pieļaudams risku, darījis visu iespējamo kaitējuma novēršanai.
+(Ceturtā daļa izslēgta ar 15.06.2006. likumu.)
 Policijas darbinieku arodbiedrībām nav tiesību pieteikt streikus. Policijas darbiniekam ir tiesības pārsūdzēt tiesā par viņu pieņemtos policijas un Iekšlietu ministrijas iestāžu amatpersonu lēmumus, ja viņš uzskata, ka šie lēmumi nepamatoti ierobežo viņa tiesības vai pilnvaras vai aizskar viņa cieņu. Savu kultūras un sporta vajadzību apmierināšanai policijas darbinieki var izveidot biedrības un klubus, kuru darbību reglamentē likumā noteiktajā kārtībā pieņemti un reģistrēti statūti.
 (Sestā daļa izslēgta ar 19.12.2002. likumu.)
-Zaudējumi, kas nodarīti policijas darbinieka vai tuvu viņa radinieku mantai sakarā ar policijas darbinieka dienesta darbību, atlīdzināmi pilnā apmērā no budžeta līdzekļiem.
-Ja policijas darbinieks, pildot dienesta pienākumus, ir guvis ievainojumu vai sakropļojumu vai saistībā ar dienesta pienākumu veikšanu viņa veselībai ir nodarīts citāds kaitējums, viņam papildus likumā noteiktajām kompensācijām un pabalstiem izmaksā vienreizēju kompensāciju Ministru kabineta noteiktajā kārtībā un apmērā.
-Ja policijas darbinieks, pildot dienesta pienākumus, ir gājis bojā, viņa neatraidāmajiem mantiniekiem izmaksā vienreizēju pabalstu 50 000 latu apmērā.
-Policijas darbinieks, kurš ir specializētā valsts civildienesta ierēdnis, bērna piedzimšanas gadījumā saņem vienreizēju pabalstu sešu amatalgu apmērā. Ja abi bērna vecāki ir ierēdņi, tiesības uz pabalstu ir vienam no viņiem.
-Policijas darbinieks, kurš ir specializētā valsts civildienesta ierēdnis, aizejot ikgadējā atvaļinājumā, saņem atvaļinājuma pabalstu amatalgas apmērā.
-Šā panta astotajā, devītajā, desmitajā un vienpadsmitajā daļā paredzētās garantijas neattiecas uz Drošības policijas darbiniekiem, kuru garantijas nosaka Valsts drošības iestāžu likums.
+(Septītā, astotā, devītā, desmitā, vienpadsmitā un divpadsmitā daļa izslēgta ar 15.06.2006. likumu.)
