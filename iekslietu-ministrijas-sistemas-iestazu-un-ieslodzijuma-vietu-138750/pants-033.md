@@ -1,0 +1,12 @@
+33.pants. Ikgadējais apmaksātais atvaļinājums
+(1) Amatpersonai katrā kalendāra gadā piešķir ikgadējo apmaksāto atvaļinājumu, izmaksājot par šo laiku vidējo izpeļņu un uzturdevas kompensāciju.
+(2) Amatpersonai piešķir ikgadējo apmaksāto atvaļinājumu - 30 kalendāra dienas, neskaitot svētku dienas.
+(3) Amatpersonām, kuras veic tiešu noziedzības apkarošanu, tiešu valsts robežas apsardzību un kontroli, tiešu apcietinājuma kā drošības līdzekļa vai brīvības atņemšanas kā kriminālsoda izpildes nodrošināšanu, kā arī ugunsgrēku dzēšanas darbus, glābšanas darbus un zemūdens meklēšanas darbus, piešķir ikgadējo apmaksāto atvaļinājumu - 40 kalendāra dienas, neskaitot svētku dienas.
+(4) Amatpersonai pēc katriem pieciem izdienas gadiem Iekšlietu ministrijas sistēmā vai Ieslodzījuma vietu pārvaldē ikgadējo apmaksāto atvaļinājumu pagarina par trim kalendāra dienām, bet ne vairāk kā par 15 kalendāra dienām kopumā.
+(5) Gadā, kad amatpersona pieņemta dienestā, ikgadējo apmaksāto atvaļinājumu tai aprēķina par laika posmu no dienestā pieņemšanas dienas līdz kalendāra gada beigām un piešķir, kad šī amatpersona Iestādē nepārtraukti nodienējusi vismaz sešus mēnešus, vai pārceļ uz nākamo gadu.
+(6) Ikgadējo apmaksāto atvaļinājumu amatpersonai piešķir saskaņā ar Iestādes vadītāja vai viņa pilnvarotas amatpersonas apstiprinātu atvaļinājumu grafiku. Atvaļinājumu grafiku izstrādā tā, lai nodrošinātu Iestādes funkciju nepārtrauktu izpildi.
+(7) Amatpersonai ikgadējo apmaksāto atvaļinājumu piešķir Iestādes vadītājs vai viņa pilnvarota amatpersona, koledžas vadītājam - tās iestādes vadītājs, kuras padotībā atrodas koledža. Iestādes vadītājam ikgadējo apmaksāto atvaļinājumu piešķir attiecīgais ministrs.
+(8) Amatpersonai ikgadējo apmaksāto atvaļinājumu var piešķirt pa daļām. Atvaļinājuma daļas nedrīkst būt īsākas par 15 kalendāra dienām. Nav pieļaujams ikgadējo apmaksāto atvaļinājumu sadalīt vairāk kā trijās daļās.
+(9) Izņēmuma gadījumos ar amatpersonas rakstveida piekrišanu ikgadējā apmaksātā atvaļinājuma daļu var pārcelt uz nākamo gadu. Pārcelto atvaļinājuma daļu pēc iespējas pievieno nākamā gada atvaļinājumam. Atvaļinājuma daļu var pārcelt tikai uz vienu gadu.
+(10) Ikgadējo apmaksāto atvaļinājumu pārceļ vai pagarina amatpersonas pārejošas darbnespējas gadījumā.
+(11) Izņēmuma gadījumos, ja ir neatliekama nepieciešamība, amatpersonu var atsaukt no apmaksātā atvaļinājuma ar tās amatpersonas rīkojumu, kura ir tiesīga iecelt amatpersonu amatā. Šādā gadījumā atvaļinājumu pārceļ vai pagarina par to dienu skaitu, uz kurām amatpersona bijusi atsaukta.

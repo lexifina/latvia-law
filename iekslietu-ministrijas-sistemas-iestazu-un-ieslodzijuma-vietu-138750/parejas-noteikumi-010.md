@@ -1,0 +1,1 @@
+10. Līdz jaunu Ministru kabineta noteikumu izdošanai, bet ne ilgāk kā līdz 2006.gada 31.decembrim piemērojami Ministru kabineta 2003.gada 14.oktobra noteikumi Nr.567 "Noteikumi par Iekšlietu ministrijas sistēmas iestāžu darbinieku ar speciālajām dienesta pakāpēm darba samaksu".

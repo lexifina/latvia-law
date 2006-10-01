@@ -1,0 +1,1 @@
+2. Šā likuma 4.panta 1.punktā paredzētais nosacījums par Latvijas pilsonību nevar būt par pamatu to amatpersonu atbrīvošanai no amata un atvaļināšanai no dienesta, kuras stājušās dienestā līdz 2002.gada 31.decembrim un ieņem amatus Valsts ugunsdzēsības un glābšanas dienestā.
