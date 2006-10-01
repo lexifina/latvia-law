@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Iekšlietu ministrijas sistēmas iestāžu un Ieslodzījuma vietu pārvaldes amatpersonu \nar speciālajām dienesta pakāpēm dienesta gaitas likums ar grozījumiem, kas izsludināti līdz 08.05.2008",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "101",
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-30",
+  "entry_into_force": "2006-10-01",
+  "notification_date": "2008-07-11",
+  "commission_reference": "MNE(2008)54038",
+  "nim_celex": "72000L0078LVA_156965",
+  "nim_id": "156965",
+  "transposes_celex": [
+    "32000L0078"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/026d8ad4-f78e-4d6e-920e-9356310f12ad",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
