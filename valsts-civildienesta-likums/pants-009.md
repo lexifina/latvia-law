@@ -3,7 +3,7 @@
 1) konkursam uz iestādes vadītāja amatu - attiecīgais ministrs. Personu sarakstu, kuras var tikt iekļautas pretendentu un ierēdņu vērtēšanas komisijā, apstiprina Ministru kabinets pēc attiecīgā ministra ieteikuma;
 2) konkursam uz pārējiem ierēdņu amatiem - attiecīgās iestādes vadītājs.
 (2) Pretendentu atbilstību vakantā ierēdņa amata aprakstā izvirzītajām prasībām izvērtē, ievērojot attiecīgā ierēdņa amata pārbaudes kritērijus, kurus nosaka:
-1) iestādes vadītāja amatam - ministrs, informējot par to Pārvaldi;
+1) iestādes vadītāja amatam - ministrs, saskaņojot tos ar Pārvaldi;
 2) pārējiem ierēdņu amatiem - attiecīgā iestāde.
 (3) Pretendentu un ierēdņu vērtēšanas komisija izvēlas vienu vai vairākus pretendentus, kas vislabāk atbilst ierēdņa amata aprakstā izvirzītajām prasībām, un, motivējot savu izvēli, iesaka viņus:
 1) Ministru prezidentam - iecelšanai Valsts kancelejas direktora amatā;

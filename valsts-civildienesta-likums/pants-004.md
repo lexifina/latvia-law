@@ -1,10 +1,10 @@
 4.pants. Valsts civildienesta pārvalde
 (1) Valsts civildienesta pārvalde (turpmāk - Pārvalde) ir Ministru prezidenta tiešā pakļautībā esoša valsts pārvaldes iestāde, kas īsteno valsts politiku valsts civildienestā.
 (2) Pārvaldes funkcijas ir:
-1) kontrolēt šā likuma, ierēdņu disciplinārsodu likuma un citu ar valsts civildienesta jomu saistīto normatīvo aktu piemērošanu iestāžu darbībā un atcelt to nelikumīgos lēmumus valsts civildienesta jomā;
+1) kontrolēt šā likuma un citu ar valsts civildienesta jomu saistīto normatīvo aktu piemērošanu iestāžu darbībā, atcelt iestāžu nelikumīgos lēmumus valsts civildienesta jomā un uzdot tām novērst konstatētos pārkāpumus;
 2) (izslēgts ar 15.05.2003. likumu);
-3) izstrādāt vienotus personāla vadības principus valsts pārvaldes iestādēs un veicināt to īstenošanu;
-4) Ministru kabineta noteiktajā kārtībā izveidot, pilnveidot un aktualizēt valsts pārvaldes iestāžu, to funkciju, personāla un civildienesta attiecības izbeigušu personu, kurām ir ierēdņa statuss, vienotās uzskaites sistēmu, kā arī noteikt šīs uzskaites sistēmas pieejamību;
+3) (izslēgts ar 14.09.2006. likumu);
+4) Ministru kabineta noteiktajā kārtībā izveidot, pilnveidot un aktualizēt personāla un civildienesta attiecības izbeigušu personu, kurām ir ierēdņa statuss, vienotās uzskaites sistēmu, kā arī noteikt šīs uzskaites sistēmas pieejamību;
 5) nodrošināt ierēdņu karjeras vienotu plānošanu;
 6) (izslēgts ar 15.05.2003. likumu);
 7) (izslēgts ar 15.05.2003. likumu);
