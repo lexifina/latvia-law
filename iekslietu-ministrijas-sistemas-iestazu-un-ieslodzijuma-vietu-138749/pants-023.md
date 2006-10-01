@@ -1,0 +1,5 @@
+23.pants. Disciplinārlietas pārņemšana
+(1) Disciplinārlietu pēc savas iniciatīvas jebkurā tās izskatīšanas stadijā no zemākas amatpersonas var pārņemt Iestādes vadītājs vai attiecīgais ministrs.
+(2) Lēmumā par disciplinārlietas pārņemšanu norāda disciplinārlietas pārņemšanas pamatojumu.
+(3) Pieņemot lēmumu par disciplinārlietas pārņemšanu, Iestādes vadītājs vai attiecīgais ministrs norīko disciplinārlietas izmeklēšanas veicēju un iepazīstina amatpersonu, pret kuru ierosināta disciplinārlieta, ar lēmumu par disciplinārlietas pārņemšanu. Attiecīgais ministrs vai iestāde, kura pārņēmusi disciplinārlietu, to izmeklē un pieņem lēmumu par disciplinārsoda piemērošanu vai par disciplinārlietas izbeigšanu šajā likumā noteiktajā kārtībā.
+(4) Ja disciplinārlieta pārņemta no citas iestādes, lēmumu par disciplinārsoda piemērošanu vai par disciplinārlietas izbeigšanu pieņem termiņā, kas noteikts, skaitot no dienas, kad pieņemts lēmums par disciplinārlietas pārņemšanu, bet ne ilgāk kā četru mēnešu laikā, un triju darbdienu laikā nosūta to amatpersonai, kura ierosinājusi disciplinārlietu.

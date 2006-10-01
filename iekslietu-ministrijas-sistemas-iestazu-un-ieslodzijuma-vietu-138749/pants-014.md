@@ -1,0 +1,3 @@
+14.pants. Amatpersonu tiesības piemērot disciplinārsodus
+(1) Piezīmi, rājienu, mēneša amatalgas samazināšanu līdz 20 procentiem no mēneša amatalgas uz laiku no viena mēneša līdz sešiem mēnešiem, brīdinājumu par neatbilstību ieņemamam amatam uz laiku no sešiem mēnešiem līdz vienam gadam, pazemināšanu amatā uz laiku no viena gada līdz diviem gadiem un atvaļināšanu no dienesta ir tiesīgs piemērot attiecīgais ministrs, iestādes vadītājs vai viņa pilnvarota amatpersona.
+(2) Pazemināšanu dienesta pakāpē par vienu pakāpi uz laiku no sešiem mēnešiem līdz vienam gadam ir tiesīga piemērot amatpersona, kurai ir tiesības piešķirt attiecīgo dienesta pakāpi.

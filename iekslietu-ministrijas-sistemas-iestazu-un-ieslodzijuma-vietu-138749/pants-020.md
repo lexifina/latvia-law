@@ -1,0 +1,6 @@
+20.pants. Disciplinārlietas izmeklēšanas termiņi
+(1) Disciplinārlietu izmeklē un lēmumu par disciplinārsoda piemērošanu vai disciplinārlietas izbeigšanu pieņem mēneša laikā pēc tās ierosināšanas.
+(2) Ja objektīvu iemeslu dēļ viena mēneša termiņu nav iespējams ievērot, saskaņā ar pamatotu šā likuma 16.panta trešajā daļā minētās amatpersonas lēmumu disciplinārlietas izmeklēšanas termiņu var pagarināt līdz trim mēnešiem. Ar lēmumu iepazīstina amatpersonu, pret kuru ierosināta disciplinārlieta.
+(3) Disciplinārlietas izmeklēšanas termiņā neieskaita amatpersonas, pret kuru ierosināta disciplinārlieta, darba nespējas, atvaļinājuma vai komandējuma laiku.
+(4) Ja ir uzsākta amatpersonas kriminālvajāšana par to pašu nodarījumu, par kuru ierosināta disciplinārlieta, disciplinārlietas izmeklēšanu aptur. Disciplinārlietas izmeklēšanu atjauno mēneša laikā pēc tam, kad saņemts lēmums par kriminālprocesa izbeigšanu vai stājies spēkā attaisnojošs tiesas spriedums krimināllietā un kopš disciplinārpārkāpuma izdarīšanas nav pagājuši vairāk kā trīs gadi.
+(5) Disciplinārlietu, kas apturēta tādēļ, ka uzsākta amatpersonas kriminālvajāšana par to pašu nodarījumu, izbeidz, pamatojoties uz notiesājošu tiesas spriedumu krimināllietā.

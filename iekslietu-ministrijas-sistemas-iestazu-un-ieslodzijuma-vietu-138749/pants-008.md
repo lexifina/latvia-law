@@ -1,0 +1,2 @@
+8.pants. Tiesiskuma un lietderības kontrole
+Augstāka iestāde un augstāka amatpersona kontrolē, vai amatpersonas saukšana pie disciplināratbildības ir tiesiska un lietderīga. Augstāka iestāde un augstāka amatpersona attiecīgi iekšlietu ministra vai tieslietu ministra (turpmāk - attiecīgais ministrs) noteiktajā kārtībā ir tiesīga pēc savas iniciatīvas pārbaudīt lēmumu par disciplinārsoda piemērošanu.

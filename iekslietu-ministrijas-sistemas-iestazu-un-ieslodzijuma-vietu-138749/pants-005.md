@@ -1,0 +1,2 @@
+5.pants. Galējā nepieciešamība
+Amatpersona nav saucama pie disciplināratbildības, ja tā atradusies galējās nepieciešamības situācijā, tas ir, veikusi darbības, kas bija nepieciešamas, lai novērstu valstij vai sabiedriskajai kārtībai, īpašumam, personu tiesībām un brīvībām vai noteiktai pārvaldes kārtībai draudošas briesmas, un konkrētajos apstākļos tās nav bijis iespējams novērst ar citiem līdzekļiem, kā arī radītais kaitējums ir mazāks par novērsto kaitējumu.
