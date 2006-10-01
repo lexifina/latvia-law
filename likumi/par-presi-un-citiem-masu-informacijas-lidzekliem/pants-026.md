@@ -1,6 +1,5 @@
 26. pants. Akreditācija
-Masu informācijas līdzekļi, saskaņojot to ar iestāžu, uzņēmumu un organizāciju institūcijām vai pilnvarotajām amatpersonām, var akreditēt tajās savus žurnālistus.
-Akreditētajam žurnālistam ir tiesības piedalīties akreditētājorganizācijas rīkotajās atklātajās sapulcēs un citos pasākumos, viņu apgādā ar stenogrammām, protokoliem un citiem dokumentiem šīs organizācijas noteiktajā kārtībā.
-Ārvalstu masu informācijas līdzekļu pastāvīgos pārstāvjus Latvijas Republikā akreditē Latvijas Republikas Ārlietu ministrija.
-Akreditētājorganizācija var pārtraukt žurnālista akreditāciju, ja viņš neievēro šā likuma 25. panta noteikumus.
-Latvijas Republikas Ārlietu ministrija var pārtraukt ārvalstu žurnālistu akreditāciju, ja viņi pārkāpj Latvijas Republikas likumus.
+Latvijas Republikas vai ārvalstu masu informācijas līdzekļi pēc saskaņošanas ar attiecīgo iestādi (turpmāk - akreditētājinstitūcija) var akreditēt tajā savus žurnālistus un citus pārstāvjus.
+Akreditācija nodrošina iekļūšanu akreditētājinstitūcijas telpās, tiesības piedalīties akreditētājinstitūcijas rīkotajās atklātajās sēdēs, sapulcēs un citos pasākumos, kā arī saņemt stenogrammas, protokolus un citus dokumentus.
+Ministru kabinets nosaka akreditācijas veidus un termiņus, uz kādiem piešķir akreditāciju, kā arī akreditēšanas kārtību un gadījumus, kad akreditāciju var apturēt vai anulēt.
+Ja iestāde aptur vai anulē akreditāciju, lēmumu par to var apstrīdēt un pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā. Lēmuma pārsūdzēšana neaptur tā darbību.
