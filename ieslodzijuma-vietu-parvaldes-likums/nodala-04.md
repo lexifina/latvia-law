@@ -1,2 +1,2 @@
 IV nodaļa
-Ierēdņa tiesības un pienākumi
+Amatpersonas tiesības un pienākumi

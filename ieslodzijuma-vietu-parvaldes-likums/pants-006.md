@@ -6,7 +6,7 @@
 3) daļēji slēgtie cietumi;
 4) atklātie cietumi;
 5) audzināšanas iestādes nepilngadīgajiem.
-(3) Ieslodzījuma vieta ir Ieslodzījuma vietu pārvaldes iestāde. Ieslodzījuma vietu vada priekšnieks.
+(3) Ieslodzījuma vieta ir Pārvaldes struktūrvienība.
 (4) Ieslodzījuma vietas priekšniekam ir:
 1) Operatīvās darbības likumā noteiktās operatīvās darbības iestādes vadītāja tiesības;
-2) izziņas iestādes vadītāja tiesības krimināllietās par noziedzīgiem nodarījumiem, ko izdarījuši apcietinātie vai notiesātie, kā arī Pārvaldes un ieslodzījuma vietas darbinieki ieslodzījuma vietās.
+2) (izslēgts ar 15.06.2006. likumu).

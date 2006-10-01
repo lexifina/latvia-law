@@ -1,2 +1,2 @@
 V nodaļa
-Ierēdņa tiesiskā aizsardzība un darbības garantijas
+Amatpersonas tiesiskā aizsardzība un darbības garantijas
