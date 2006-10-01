@@ -6,7 +6,7 @@ a) persona, kas uz darba līguma pamata par nolīgto darba samaksu veic noteiktu
 b) (izslēgts ar 27.10.2005. likumu),
 c) Saeimas deputāts, pašvaldības deputāts, Ministru kabineta loceklis, komercsabiedrības valdes, padomes loceklis, prokūrists, kontrolieris, kā arī cita persona, kura ieņem amatu, kas dod tiesības uz atlīdzību,
 d) persona, kura ir noslēgusi Civillikuma IV daļas 15.nodaļā paredzēto uzņēmuma, graudniecības vai pārvadājuma līgumu un nav reģistrējusies kā saimnieciskajā darbībā gūtā ienākuma nodokļa maksātāja,
-e) Iekšlietu ministrijas padotībā esošas iestādes ierindas vai komandējošā sastāva darbinieks vai Aizsardzības ministrijas padotībā esošas struktūrvienības militārpersona,
+e) Iekšlietu ministrijas sistēmas iestādes un Ieslodzījuma vietu pārvaldes amatpersona ar speciālo dienesta pakāpi vai Aizsardzības ministrijas padotībā esošas struktūrvienības militārpersona,
 f) valsts civildienesta ierēdnis,
 g) ārvalsts komersanta pilnvarota persona, kura, nebūdama darba tiesiskajās attiecībās ar šo komersantu, pārstāv to darbībās, kas saistītas ar ārvalsts komersanta filiāli;
 3) pašnodarbinātais - persona, kura gūst ienākumu kā:
