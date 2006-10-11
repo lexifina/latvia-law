@@ -1,21 +1,16 @@
 22.pants. Konfidencialitāte
-(1) Nodokļu administrācijas ierēdnim (darbiniekam) aizliegts izpaust par nodokļu maksātāju jebkādu informāciju, kas viņam kļuvusi zināma, pildot dienesta pienākumus, ja šā panta otrajā daļā nav noteikts citādi. Par informācijas izpaušanu vainīgais ierēdnis (darbinieks) tiek saukts pie likumos noteiktās atbildības.
-(2) Nodokļu administrācijas ierēdnis (darbinieks) jautājumos, kas attiecas uz nodokļu maksātāju, bez maksātāja atļaujas drīkst informēt:
-1) Finanšu ministriju - jautājumos par valsts ieņēmumu nodrošināšanu;
-2) citu nodokļu administrācijas pārstāvi - gadījumos, kad nepieciešams izskatīt jautājumu par aplikšanu ar nodokli;
-3) izmeklēšanas institūcijas un tiesu iestādes - likumdošanas aktos noteiktajos gadījumos;
-4) Valsts kontroli - jautājumos, kas saistīti ar revīziju veikšanu;
-5) pašvaldības domi (padomi) - jautājumos par pašvaldības ieņēmumu nodrošināšanu;
-6) ārvalsts pilnvaroto pārstāvi - saskaņā ar starptautisko līgumu noteikumiem, informējot par to nodokļu maksātāju. Ja nodokļu administrācijai ir aizdomas par apliekamo objektu slēpšanu vai izvairīšanos no nodokļu maksāšanas, tā nodokļu maksātāju var informēt 90 dienas pēc ārvalsts pilnvarotā pārstāvja informēšanas;
-7) Naturalizācijas pārvaldi - par to, vai nodokļu maksātāji, kuri atsakās no Latvijas pilsonības, ir izpildījuši valsts nodokļu, nodevu un citu valsts noteikto obligāto maksājumu saistības pret valsti;
-8) Centrālo statistikas pārvaldi - jautājumos, kas attiecas uz statistiskās informācijas valsts programmas izpildi;
-9) Eiropas Savienības dalībvalstu kompetentās iestādes - saskaņā ar Eiropas Savienības normatīvajiem aktiem;
-10) valsts aģentūru "Maksātnespējas administrācija" - jautājumos, kas saistīti ar darbinieku aizsardzību darba devēja maksātnespējas gadījumā, un jautājumos, kas saistīti ar nodokļu maksātājiem, par kuriem ir ierosināta maksātnespējas lieta;
-11) Valsts civildienesta pārvaldi - jautājumos, kas saistīti ar nodokļu administrācijas ierēdņu disciplinārlietu ierosināšanu un izmeklēšanu;
-12) Pilsonības un migrācijas lietu pārvaldi - jautājumos par ārzemnieka un viņa uzaicinātāja nodokļu maksājumiem, ja uzaicinātājs ir uzņēmies segt izdevumus, kas saistīti ar ārvalstnieka veselības aprūpi, uzturēšanos Latvijas Republikā un atgriešanos mītnes zemē;
-13) Nodarbinātības valsts aģentūru - par komersantu -licencēto darbiekārtošanas pakalpojumu sniedzēju -veiktajiem obligātajiem maksājumiem valsts vai pašvaldības budžetā un jautājumos par darba ņēmēju statusa iegūšanas vai zaudēšanas periodiem;
-14) Valsts darba inspekciju - par nodokļu maksātājiem, kā arī nodokļu maksājumiem, kas nepieciešami tās funkcijas un uzdevumu veikšanai;
-15) Lauku atbalsta dienestu - jautājumos, kas saistīti ar valsts atbalsta, Zivsaimniecības vadības finansēšanas instrumenta vai Eiropas Lauksaimniecības virzības un garantiju fonda finansējuma administrēšanu;
-16) Studiju fondu - par nodokļu maksājumiem, kurus veic no valsts budžeta līdzekļiem piešķirtā studiju kredīta ņēmējs, - jautājumos par studiju kredīta piedziņu;
-17) Juridiskās palīdzības administrāciju - par nodokļu maksātāja ienākumiem tās uzdevumu veikšanai;
-18) citas personas - saskaņā ar šā likuma 18.panta 8.,12., 13., 14. un 15.punktu, 23.panta trīspadsmito daļu, 24.panta otro daļu un 25.panta pirmo daļu.
+(1) Nodokļu administrācijas ierēdnim (darbiniekam), ja šajā pantā nav noteikts citādi, aizliegts izpaust par nodokļu maksātāju bez viņa piekrišanas jebkādu informāciju, kas šim ierēdnim (darbiniekam) kļuvusi zināma, pildot dienesta (darba) pienākumus, izņemot:
+1) informāciju par nodokļu maksātāja nodokļu parādiem, kas izveidojušies nodokļu revīzijas (audita) rezultātā vai nodokļu maksājumu kavējuma dēļ, norādot nodokļa parāda lielumu, nodokļu maksātāja nosaukumu vai vārdu, uzvārdu un reģistrācijas kodu;
+2) informāciju par fizisko personu - saimnieciskās darbības veicēju, kas nav reģistrēts komercreģistrā, norādot fiziskās personas vārdu, uzvārdu un reģistrācijas kodu.
+(2) Nodokļu administrācijas ierēdnis (darbinieks) drīkst sniegt informāciju par nodokļu maksātāju bez viņa piekrišanas šādos gadījumos:
+1) valsts ieņēmumu nodrošināšanai, kā arī pārraudzības funkciju veikšanai - Finanšu ministrijai;
+2) valsts budžeta un pašvaldību budžetu līdzekļu ieņēmumu un izdevumu, kā arī valsts budžetā vai pašvaldību budžetos iekļauto Eiropas Savienības un citu starptautisko organizāciju vai institūciju līdzekļu izlietošanas un rīcības ar valsts un pašvaldību mantu vai tās daļu kontrolei;
+3) nodokļu administrēšanas funkciju izpildei - citai nodokļu administrācijai, Eiropas Savienības dalībvalstu kompetentajām iestādēm un saskaņā ar starptautisko līgumu noteikumiem ārvalstu kompetentajām iestādēm;
+4) normatīvajos aktos noteikto funkciju izpildes nodrošināšanai- pirmstiesas izmeklēšanas iestādēm, tiesai, prokuratūrai un citām tiesībaizsardzības iestādēm;
+5) citu valsts pārvaldes funkciju un uzdevumu izpildes nodrošināšanai vai speciālajās tiesību normās par sabiedrisko pakalpojumu regulēšanu noteikto regulēšanas funkciju izpildes nodrošināšanai, kā arī valsts institūciju funkciju izpildes nodrošināšanai - informāciju, kura ir vienīgi nodokļu administrācijas rīcībā vai kuru nodokļu administrācijai atbilstoši tās kompetencei ir pienākums radīt;
+6) šā likuma 18.panta 8., 12., 13., 14. un 15.punktā, 23.panta trīspadsmitajā daļā, 24.panta otrajā daļā un 25.panta pirmajā daļā noteiktajos gadījumos.
+(3) Informācija par nodokļu maksātāja nodokļu parādu gadījumos, kad šis parāds tiek noteikts, pamatojoties uz nodokļu administrācijas lēmumu, tiek izpausta pēc tam, kad attiecīgais lēmums kļuvis neapstrīdams.
+(4) Sniedzot informāciju šā panta otrās daļas 3.punktā noteiktajā gadījumā Eiropas Savienības dalībvalstu kompetentajām iestādēm un ārvalstu kompetentajām iestādēm, nodokļu administrācija vienlaikus par to paziņo arī nodokļu maksātājam. Ja nodokļu administrācija ir konstatējusi faktus, kas liecina par apliekamā objekta slēpšanu vai izvairīšanos no nodokļu maksāšanas, tā nodokļu maksātājam par informācijas sniegšanu paziņo 90 dienu laikā pēc ārvalsts pilnvarotā pārstāvja informēšanas.
+(5) Lai saņemtu informāciju šā panta otrās daļas 5.punktā noteiktajā gadījumā, valsts pārvaldes iestāde ar nodokļu administrāciju noslēdz starpresoru vienošanos, kurā norāda sniedzamās informācijas apjomu, izsniegšanas, izmantošanas un apstrādes kārtību saskaņā ar informācijas pieprasītāja iesniegto pamatojumu.
+(6) Šā panta noteikumi par informācijas konfidencialitāti ir jāievēro šā panta otrajā daļā minētajā iestādē, kā arī pēc ierēdņa (darbinieka) civildienesta (darba) attiecību izbeigšanas nodokļu administrācijā un citās iestādēs.
+(7) Persona, kas izpaudusi konfidenciālo informāciju par nodokļu maksātāju, tiek saukta pie likumos noteiktās atbildības.
