@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2006.gada 26.septembra noteikumu Nr.801 \"Noteikumi par sēra satura ierobežošanu atsevišķiem šķidrās degvielas veidiem\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "161 (3529)",
+  "official_journal_page": null,
+  "official_journal_date": "2006-10-10",
+  "entry_into_force": "2006-10-11",
+  "notification_date": "2014-08-27",
+  "commission_reference": "MNE(2014)54975",
+  "nim_celex": "72009L0030LVA_219249",
+  "nim_id": "219249",
+  "transposes_celex": [
+    "32009L0030"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d6413917-7d14-4414-a647-439de1ed32f8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
