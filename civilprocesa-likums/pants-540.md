@@ -5,4 +5,6 @@ Izpildu dokumenti ir:
 3) uz administratīvā akta pamata izdotie izpildrīkojumi (šā likuma 539.panta otrās daļas 2.punkts);
 4) tiesneša lēmumi par saistību bezstrīdus piespiedu izpildīšanu, saistību piespiedu izpildīšanu brīdinājuma kārtībā vai nekustamā īpašuma labprātīgu pārdošanu izsolē tiesas ceļā;
 5) tiesas lēmumi par procesuālo sankciju piemērošanu - naudas sodu uzlikšanu;
-6) notāru, advokātu un tiesu izpildītāju izrakstītie rēķini.
+6) notāru, advokātu un tiesu izpildītāju izrakstītie rēķini;
+7) ārvalsts tiesas vai kompetentās iestādes izsniegts Eiropas izpildes rīkojums saskaņā ar Eiropas Parlamenta un Padomes 2004.gada 21.aprīļa regulu (EK) Nr. 805/2004, ar ko izveido Eiropas izpildes rīkojumu neapstrīdētiem prasījumiem (Eiropas Parlamenta un Padomes regula Nr. 805/2004);
+8) ārvalsts tiesas vai kompetentās iestādes izsniegta apliecība saskaņā ar Padomes regulas Nr. 2201/2003 41.panta 1.punktu vai 42.panta 1.punktu.

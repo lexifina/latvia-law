@@ -9,6 +9,7 @@
 7) pieteikuma iesniedzēji - par aizgādnības nodibināšanu personai tās izlaidīgas vai izšķērdīgas dzīves dēļ, kā arī alkohola vai narkotiku pārmērīgas lietošanas dēļ;
 8) atbildētāji - lietās par tiesas piespriesto uzturlīdzekļu samazināšanu un to maksājumu samazināšanu, kurus tiesa piespriedusi prasībās, kas izriet no personiskiem aizskārumiem, kuru rezultātā radies sakropļojums vai cits veselības bojājums vai iestājusies personas nāve;
 9) pieteikuma iesniedzēji - laulātais, kā arī pirmās un otrās pakāpes radinieki - mantojuma lietās daļā par privatizācijas sertifikātu mantošanu;
+9¹) pieteikuma iesniedzēji - lietās par bērna prettiesisku pārvietošanu pāri robežai vai aizturēšanu;
 10) administratori - prasībās, kas celtas par maksātnespējīgu atzītas personas labā;
 11) piedzinēji - izpildu lietās par piedziņām valsts ienākumos;
 12) Valsts ieņēmumu dienests, Uzņēmumu reģistrs vai tā ieceltie likvidatori - pieteikumos par personu atzīšanu par maksātnespējīgām.

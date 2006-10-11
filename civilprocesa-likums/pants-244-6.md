@@ -1,0 +1,3 @@
+244.⁶ pants. Pušu izlīgums
+(1) Lietās, kas izriet no aizgādības un saskarsmes tiesībām, puses ir tiesīgas slēgt izlīgumu.
+(2) Izlīgums apstiprināms, tiesai pēc savas iniciatīvas pieprasot attiecīgās bāriņtiesas atzinumu vai uzaicinot tās pārstāvi piedalīties tiesas sēdē.

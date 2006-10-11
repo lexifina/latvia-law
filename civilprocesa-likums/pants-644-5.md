@@ -1,0 +1,2 @@
+644.⁵ pants. Iesniegtā pieteikuma par ārvalsts tiesas nolēmuma - Eiropas Savienības izpildu dokumenta - izpildes atlikšanu, sadalīšanu termiņos, izpildes veida vai kārtības grozīšanu vai izpildes atteikšanu atstāšana bez virzības
+Ja saskaņā ar šā likuma 644.¹, 644.² vai 644.³ pantu iesniegtais pieteikums neatbilst šā likuma 644.⁴ panta prasībām, tiesnesis atstāj pieteikumu bez virzības un iestājas šā likuma 133.pantā paredzētās sekas.

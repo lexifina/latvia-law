@@ -1,4 +1,4 @@
 559.pants. Izpildu darbības atlikšana
-(1) Tiesu izpildītājs izpildu darbību atliek, pamatojoties uz piedzinēja pieteikumu vai tiesas vai tiesneša lēmumu par izpildu darbības atlikšanu vai mantas pārdošanas apturēšanu, kas pieņemts saskaņā ar šā likuma 139.panta pirmās daļas 7.punktu vai tiesas lēmumu par sprieduma izpildes atlikšanu vai sadalīšanu termiņos, kas pieņemts saskaņā ar šā likuma 206. vai 438.pantu.
-(2) Tiesu izpildītājs var atlikt izpildu darbību, ja to nav iespējams veikt tehnisku vai citu no tiesu izpildītāja neatkarīgu iemeslu dēļ.
-(3) Par izpildu darbības atlikšanu tiesu izpildītājs paziņo piedzinējam un parādniekam.
+(1) Tiesu izpildītājs izpildu darbību atliek, pamatojoties uz piedzinēja pieteikumu vai tiesas vai tiesneša lēmumu par izpildu darbības atlikšanu vai mantas pārdošanas apturēšanu, kas pieņemts saskaņā ar šā likuma 138.panta pirmās daļas 7.punktu vai tiesas lēmumu par sprieduma izpildes atlikšanu vai sadalīšanu termiņos, kas pieņemts saskaņā ar šā likuma 206., 438. vai 644.¹ pantu.
+(2) Tiesu izpildītājs izpildu darbību atliek, pamatojoties uz tiesas lēmumu par ārvalsts tiesas vai kompetentās iestādes nolēmuma (kas ir apstiprināts par Eiropas izpildes rīkojumu) izpildes aizstāšanu ar šā likuma 138.pantā paredzētajiem pasākumiem šā nolēmuma izpildīšanas nodrošinājumam (644.² pants).
+(3) Tiesu izpildītājs paziņo piedzinējam un parādniekam par izpildu darbības atlikšanu, ja to nav iespējams veikt tehnisku vai citu no tiesu izpildītāja neatkarīgu iemeslu dēļ.

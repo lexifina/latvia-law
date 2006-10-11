@@ -7,4 +7,4 @@
 4) lūgumus par pierādījumu pieņemšanu vai to izprasīšanu;
 5) citus apstākļus, kurus viņš uzskata par nozīmīgiem lietas izskatīšanā.
 (3) Atbildētājs pievieno paskaidrojumam tā norakstus atbilstoši lietas dalībnieku skaitam un rakstveida pierādījumus, kas apstiprina apstākļus, uz kuriem pamatoti iebildumi.
-(4) Pēc paskaidrojuma saņemšanas tiesnesis tā norakstu nekavējoties nosūta prasītājam un trešajām personām. Ja tiesnesis atzīst par nepieciešamu, viņš ir tiesīgs pieprasīt no prasītāja atsauksmi par paskaidrojumu.
+(4) Pēc paskaidrojuma saņemšanas tā norakstu nekavējoties nosūta prasītājam un trešajām personām. Ja tiesnesis atzīst par nepieciešamu, viņš ir tiesīgs pieprasīt no prasītāja atsauksmi par paskaidrojumu.

@@ -1,7 +1,7 @@
 549.pants. Tiesu izpildītāja darbības vispārīgie noteikumi
 (1) Tiesu izpildītājs uzsāk izpildu darbības pēc piedzinēja rakstveida pieteikuma un likumā noteiktajos gadījumos pēc Latvijas Zvērinātu tiesu izpildītāju padomes vai pēc tiesas iniciatīvas, pamatojoties uz izpildu dokumentu.
 (2) Tiesu izpildītājam jāpieņem izpildei izpildu dokuments, ja parādnieka dzīvesvieta (juridiskajām personām - juridiskā adrese), mantas atrašanās vieta vai darbavieta ir tiesu izpildītāja amata vietai noteiktajās robežās (iecirknī). Tiesu izpildītājs var pieņemt arī citus izpildu dokumentus, kuru izpilde veicama tās apgabaltiesas darbības teritorijā, pie kuras viņš pastāv.
-(3) Ārpus sava iecirkņa robežām, kā arī attiecībā uz parādnieku, kura dzīvesvieta (juridiskajām personām - juridiskā adrese) ir citā iecirknī, tiesu izpildītājs sprieduma izpildi veic saziņā ar attiecīgā iecirkņa tiesu izpildītāju tieslietu ministra noteiktajā kārtībā.
+(3) Ārpus sava iecirkņa robežām, kā arī attiecībā uz parādnieku, kura dzīvesvieta (juridiskajām personām - juridiskā adrese) ir citā iecirknī, tiesu izpildītājs sprieduma izpildi veic saziņā ar attiecīgā iecirkņa tiesu izpildītāju kārtībā, kuru nosaka Ministru kabinets.
 (4) Svētdienās un svētku dienās sprieduma izpilde tiek pieļauta tikai neatliekamos gadījumos.
 (5) Sprieduma izpilde laikā no pulksten 24 līdz pulksten 6 netiek pieļauta.
 (6) Piedzinējam un parādniekam ir tiesības būt klāt pie izpildu darbībām, pieaicināt ne vairāk kā divus lieciniekus un saņemt ziņas, kas saistītas ar sprieduma izpildi.
