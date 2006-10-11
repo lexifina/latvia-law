@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Kārtība, kādā nodrošināma Automātiskās identifikācijas sistēmas (AIS) krasta sakaru tīkla darbība Kuģu satiksmes uzraudzības un informācijas datu apmaiņas sistēmas ietvaros",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "161",
+  "official_journal_page": null,
+  "official_journal_date": "2006-10-10",
+  "entry_into_force": "2006-10-11",
+  "notification_date": "2006-10-17",
+  "commission_reference": "MNE(2006)56713",
+  "nim_celex": "72002L0059LVA_136345",
+  "nim_id": "136345",
+  "transposes_celex": [
+    "32002L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b7fc4f35-7ac0-4d15-96d9-98ae9c4bfc21",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
