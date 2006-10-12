@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par šķirnes dzīvnieku audzēšanas saimniecību atbilstības kritērijiem un šķirnes dzīvnieku audzēšanas saimniecību statusa piešķiršanas kārtību",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "163",
+  "official_journal_page": null,
+  "official_journal_date": "2006-10-12",
+  "entry_into_force": null,
+  "notification_date": "2007-07-20",
+  "commission_reference": "MNE(2007)55591",
+  "nim_celex": "71990L0118LVA_147178",
+  "nim_id": "147178",
+  "transposes_celex": [
+    "31990L0118",
+    "31990L0119"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c612628b-3a7e-4cf6-9e07-409abf807735",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
