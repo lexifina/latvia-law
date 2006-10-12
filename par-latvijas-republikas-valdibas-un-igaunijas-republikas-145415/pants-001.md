@@ -1,0 +1,1 @@
+1.pants. 2006.gada 7.jūnijā Viļņā, Lietuvā, parakstītais Latvijas Republikas valdības un Igaunijas Republikas valdības līgums par pārrobežu sadarbību noziedzības apkarošanā (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
