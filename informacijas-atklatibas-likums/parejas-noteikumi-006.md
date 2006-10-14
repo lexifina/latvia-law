@@ -1,1 +1,1 @@
-6. Ministru kabinets līdz 2006.gada 1.jūlijam izdod šā likuma 9.panta ceturtajā daļā, 10.panta piektajā un sestajā daļā, 13.panta trešajā un ceturtajā daļā, kā arī 18.panta otrajā daļā minētos noteikumus.
+6. Ministru kabinets līdz 2006.gada 31.decembrim izdod šā likuma 10.panta sestajā daļā, 13.panta trešajā un ceturtajā daļā, kā arī 18.panta otrajā daļā minētos noteikumus.
