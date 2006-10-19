@@ -1,0 +1,1 @@
+1.pants. 2006.gada 28.martā Rīgā parakstītais Latvijas Republikas valdības un Albānijas Republikas Ministru padomes nolīgums par starptautiskajiem pārvadājumiem ar autotransportu (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
