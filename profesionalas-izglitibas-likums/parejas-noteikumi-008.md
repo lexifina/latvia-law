@@ -1,0 +1,1 @@
+8. Profesionālās izglītības administrācijas funkcijas veic Profesionālās izglītības centrs līdz brīdim, kamēr Ministru kabinets izdara nepieciešamos grozījumus iestādes darbību regulējošos normatīvajos aktos. Šie grozījumi izdarāmi līdz 2006.gada 31.decembrim.

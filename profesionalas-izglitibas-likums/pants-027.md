@@ -7,4 +7,4 @@
 (6) Profesionālās tālākizglītības programmās, kuru apguve dod iespēju iegūt otro profesionālās kvalifikācijas līmeni, persona tiek uzņemta bez iepriekšējās izglītības ierobežojuma.
 (7) Profesionālās tālākizglītības programmās, kuru apguve dod iespēju iegūt trešo profesionālās kvalifikācijas līmeni, persona tiek uzņemta pēc arodizglītības vai vidējās izglītības ieguves.
 (8) Profesionālās tālākizglītības programmās, kuru apguve dod iespēju iegūt ceturto profesionālās kvalifikācijas līmeni un kuras tiek īstenotas koledžā vai augstskolā, persona tiek uzņemta, ja tai ir vismaz pirmā līmeņa profesionālā augstākā izglītība.
-(9) Uzņemšanas noteikumus profesionālās ievirzes izglītības programmā nosaka attiecīgā izglītības programma.
+(9) Prasības uzņemšanai izglītības programmā, kuras apguve dod iespēju iegūt pirmo profesionālās kvalifikācijas līmeni, vai prasības uzņemšanai profesionālās ievirzes izglītības programmā nosaka attiecīgā izglītības programma.
