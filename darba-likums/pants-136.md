@@ -7,4 +7,5 @@
 3) steidzama, iepriekš neparedzēta darba pabeigšanai noteiktā laikā.
 (4) Ja šā panta trešajā daļā minētajos gadījumos virsstundu darbs turpinās ilgāk par sešām dienām pēc kārtas, darba devējam ir nepieciešama Valsts darba inspekcijas atļauja turpmākajam virsstundu darbam, izņemot gadījumus, kad līdzīgu darbu atkārtošanās nav paredzama.
 (5) Virsstundu darbs nedrīkst pārsniegt 144 stundas četru mēnešu periodā.
-(6) Aizliegts nodarbināt virsstundu darbā personas, kuras ir jaunākas par 18 gadiem, grūtnieces un sievietes pēcdzemdību periodā līdz vienam gadam, bet, ja sieviete baro bērnu ar krūti, - visā barošanas laikā.
+(6) Aizliegts nodarbināt virsstundu darbā personas, kas ir jaunākas par 18 gadiem.
+(7) Grūtnieci, sievieti pēcdzemdību periodā līdz vienam gadam un sievieti, kas baro bērnu ar krūti, visā barošanas laikā var nodarbināt virsstundu darbā, ja viņa devusi rakstveida piekrišanu.
