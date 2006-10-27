@@ -1,3 +1,3 @@
 30.pants. (1) Ar Atzinības krustu (turpmāk šajā nodaļā arī - ordenis) apbalvo par izcilu Tēvijas mīlestību un par sevišķiem nopelniem valsts, sabiedriskajā, kultūras, zinātnes, sporta un izglītības darbā. Par nopelniem uzskatāma uzticīga un uzcītīga kalpošana valsts vai pašvaldības dienestā, priekšzīmīga un godīga darba izpilde, ikviena sabiedriska kalpošana, tautas gara, pašdarbības un saimniecisko spēku attīstīšana.
 (2) Ar Atzinības krustu un tā goda zīmi var apbalvot fiziskās personas, arī ārvalstu fiziskās personas.
-(3) Ar Atzinības krustu kā protokolāro apbalvojumu var apbalvot ārvalstu ārkārtējos un pilnvarotos vēstniekus, viņiem beidzot dienestu Latvijā.
+(3) Ar Atzinības krustu var apbalvot ārvalstu vadītājus un ārvalstu valdību vadītājus, starptautisko organizāciju vadītājus, ārvalstu vēstniekus un citas ārvalstu amatpersonas.
