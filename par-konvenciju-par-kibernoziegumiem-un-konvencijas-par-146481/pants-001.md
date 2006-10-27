@@ -1,0 +1,1 @@
+1.pants. 2001.gada 23.novembra Konvencija par kibernoziegumiem (turpmāk - Konvencija) un Konvencijas par kibernoziegumiem 2003.gada 28.janvāra Papildu protokols par rasisma un ksenofobijas noziedzīgajiem nodarījumiem, kas tiek izdarīti datorsistēmās (turpmāk - Protokols), ar šo likumu tiek pieņemti un apstiprināti.

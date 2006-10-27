@@ -1,0 +1,1 @@
+8.pants. Likums stājas spēkā nākamajā dienā pēc tā izsludināšanas, bet ne agrāk par Krimināllikuma grozījumiem, kas paredz juridiskās personas kriminālatbildību un Konvencijas noteikumu ieviešanu. Līdz ar likumu izsludināms Konvencijas un Protokola teksts angļu valodā un tā tulkojums latviešu valodā.

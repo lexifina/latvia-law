@@ -1,0 +1,1 @@
+3.pants. Saskaņā ar Protokola 8.panta pirmo daļu Latvijas Republika izdara atrunu attiecībā uz Konvencijas 22.panta pirmās daļas "d" punktu par ārpus Latvijas Republikas teritorijas izdarītiem noziedzīgiem nodarījumiem.
