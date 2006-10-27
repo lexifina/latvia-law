@@ -1,5 +1,5 @@
 14.pants. Dienesta akreditācija
-(1) Dienestu akreditē to funkciju pildīšanai, kuras nepieciešamas Eiropas Savienības atbalsta administrēšanai.
-(2) Dienesta atbilstību akreditācijai attiecībā uz to funkciju pildīšanu, kuras nepieciešamas Eiropas Savienības atbalsta administrēšanai, izvērtē saskaņā ar Eiropas Savienības atbalsta piešķiršanas nosacījumiem un kritērijiem, kas ietverti divpusējos Eiropas Savienības un Latvijas Republikas līgumos par attiecīgā Eiropas Savienības atbalsta piešķiršanu (turpmāk - akreditācijas kritēriji).
-(3) Lēmumu par Dienesta akreditāciju pieņem Finanšu ministrija.
-(4) Par Dienesta akreditācijas lēmuma pieņemšanu Finanšu ministrija paziņo zemkopības ministram un attiecīgajām Eiropas Savienības institūcijām.
+(1) Zemkopības ministrija akreditē Dienestu to funkciju pildīšanai, kuras nepieciešamas Eiropas Savienības atbalsta administrēšanai.
+(2) Dienesta atbilstību akreditācijai attiecībā uz to funkciju pildīšanu, kuras nepieciešamas Eiropas Savienības atbalsta administrēšanai, izvērtē saskaņā ar nosacījumiem un kritērijiem, kas ietverti Padomes regulā Nr. 1290/2005 par kopējās lauksaimniecības politikas finansēšanu un Komisijas regulā Nr. 885/2006, ar ko reglamentē noteikumus par to, kā piemērot Padomes regulu (EK) Nr. 1290/2005 attiecībā uz maksājumu aģentūru un citu struktūru akreditāciju un ELGF un ELFLA grāmatojumu noskaidrošanas prasības (turpmāk - akreditācijas kritēriji).
+(3) Pamatojoties uz sertificējošās institūcijas atzinumu, Zemkopības ministrija mēneša laikā pēc sertificējošās institūcijas atzinuma saņemšanas pieņem lēmumu par akreditācijas piešķiršanu Dienestam.
+(4) Par Dienesta akreditācijas lēmuma pieņemšanu Zemkopības ministrija rakstveidā informē Eiropas Komisiju.

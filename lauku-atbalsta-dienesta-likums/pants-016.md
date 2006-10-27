@@ -1,3 +1,3 @@
 16.pants. Pagaidu akreditācija
-(1) Ja Dienests daļēji neizpilda kādu no akreditācijas kritērijiem, Finanšu ministrija var tam piešķirt pagaidu akreditāciju, nosakot termiņu atklāto trūkumu novēršanai.
-(2) Ja Dienests noteiktajā termiņā šos trūkumus nenovērš, Finanšu ministrija anulē Dienestam piešķirto pagaidu akreditāciju un par to informē zemkopības ministru un Eiropas Savienības institūcijas.
+(1) Ja Dienests neizpilda kādu no akreditācijas kritērijiem, Zemkopības ministrija tam piešķir pagaidu akreditāciju, nosakot termiņu atklāto trūkumu novēršanai.
+(2) Ja Dienests noteiktajā termiņā šos trūkumus nenovērš, Zemkopības ministrija anulē Dienestam piešķirto pagaidu akreditāciju un par to informē Eiropas Komisiju.

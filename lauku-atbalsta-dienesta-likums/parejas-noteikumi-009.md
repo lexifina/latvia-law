@@ -1,0 +1,1 @@
+9. Dienesta atbilstība akreditācijai, kas piešķirta attiecībā uz to funkciju pildīšanu, kuras nepieciešamas tāda Eiropas Savienības atbalsta administrēšanai, kas izsniegts uz Eiropas Savienības un Latvijas Republikas līgumu pamata, saglabā spēku līdz attiecīgajos līgumos noteikto saistību pilnīgai izpildei.
