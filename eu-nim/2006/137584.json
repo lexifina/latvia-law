@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Uzturēšanās atļauju noteikumi",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "171",
+  "official_journal_page": null,
+  "official_journal_date": "2006-10-26",
+  "entry_into_force": "2006-10-27",
+  "notification_date": "2006-11-13",
+  "commission_reference": "MNE(2006)57635",
+  "nim_celex": "72004L0081LVA_137584",
+  "nim_id": "137584",
+  "transposes_celex": [
+    "32004L0081"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/794e68cb-23a1-464a-90c7-f6a40fe0ecad",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
