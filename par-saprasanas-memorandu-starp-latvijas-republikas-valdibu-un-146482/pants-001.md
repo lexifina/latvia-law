@@ -1,0 +1,1 @@
+1.pants. Saprašanās memorands starp Latvijas Republikas valdību un Sabiedroto spēku augstāko virspavēlniecību Eiropā, un Sabiedroto spēku augstākās virspavēlniecības transformācijas komandiera štābu par uzņemošās valsts atbalsta sniegšanu Ziemeļatlantijas līguma organizācijas operāciju/mācību īstenošanai (turpmāk - Memorands) ar šo likumu tiek pieņemts un apstiprināts.
