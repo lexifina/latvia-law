@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par prasībām, kritērijiem un kārtību uzņemšanai studiju programmās",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "172",
+  "official_journal_page": null,
+  "official_journal_date": "2006-10-27",
+  "entry_into_force": "2006-10-28",
+  "notification_date": "2007-04-24",
+  "commission_reference": "MNE(2007)53517",
+  "nim_celex": "72004L0114LVA_144337",
+  "nim_id": "144337",
+  "transposes_celex": [
+    "32004L0114"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6a177436-eb70-4738-a6db-6a04cf8c3bbe",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
