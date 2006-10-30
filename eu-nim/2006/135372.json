@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par metroloģiskajām prasībām dimensionālajiem mērīšanas līdzekļiem",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "137",
+  "official_journal_page": null,
+  "official_journal_date": "2006-08-29",
+  "entry_into_force": "2006-10-30",
+  "notification_date": "2006-09-18",
+  "commission_reference": "MNE(2006)56022",
+  "nim_celex": "72004L0022LVA_135372",
+  "nim_id": "135372",
+  "transposes_celex": [
+    "32004L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2185b679-5a04-4f13-a5f6-913077e30172",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
