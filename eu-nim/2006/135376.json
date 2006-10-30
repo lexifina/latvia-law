@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par metroloģiskajām prasībām siltumenerģijas skaitītājiem",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "137",
+  "official_journal_page": null,
+  "official_journal_date": "2006-08-29",
+  "entry_into_force": "2006-10-30",
+  "notification_date": "2006-09-18",
+  "commission_reference": "MNE(2006)56026",
+  "nim_celex": "72004L0022LVA_135376",
+  "nim_id": "135376",
+  "transposes_celex": [
+    "32004L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a1b7dd24-d377-40db-b245-731da7a6e5ad",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
