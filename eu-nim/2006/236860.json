@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2006.gada 22.augusta noteikumi Nr.671 \"Noteikumi par metroloģiskajām prasībām materiālajiem mēriem\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "137 (3505)",
+  "official_journal_page": null,
+  "official_journal_date": "2006-08-29",
+  "entry_into_force": "2006-10-30",
+  "notification_date": "2016-04-21",
+  "commission_reference": "MNE(2016)52637",
+  "nim_celex": "72014L0032LVA_236860",
+  "nim_id": "236860",
+  "transposes_celex": [
+    "32014L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1fa3312b-fd34-45f6-9594-a2c43e551a0c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
