@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2006.gada 22.augusta noteikumi Nr.669 \"Noteikumi par metroloģiskajām prasībām šķidrumu (izņemot ūdeni) mērsistēmām\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "137 (3505)",
+  "official_journal_page": null,
+  "official_journal_date": "2006-08-29",
+  "entry_into_force": "2006-10-30",
+  "notification_date": "2016-04-21",
+  "commission_reference": "MNE(2016)52638",
+  "nim_celex": "72014L0032LVA_236861",
+  "nim_id": "236861",
+  "transposes_celex": [
+    "32014L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/98f3c963-0c50-41f4-bd74-f2d0295a33fd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
