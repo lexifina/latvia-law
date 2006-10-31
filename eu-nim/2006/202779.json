@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2006.gada 31.oktobra rīkojums Nr.835 \"Par Atjaunojamo energoresursu izmantošanas pamatnostādnēm 2006.-2013.gadam\"",
+  "type_of_act": "Ministru kabineta rīkojums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "174 (3542)",
+  "official_journal_page": null,
+  "official_journal_date": "2006-11-01",
+  "entry_into_force": "2006-10-31",
+  "notification_date": "2013-04-04",
+  "commission_reference": "MNE(2013)52445",
+  "nim_celex": "72009L0028LVA_202779",
+  "nim_id": "202779",
+  "transposes_celex": [
+    "32009L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d8bccaae-64ae-4f96-9b07-c47202cc4347",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
