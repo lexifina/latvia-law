@@ -1,2 +1,2 @@
 23. pants. Zemes reformas darbu izpildītāji
-Zemes reformas darbus veic Valsts zemes dienests, sadarbojoties ar vietējām Tautas deputātu padomēm un zemes pieprasītājiem. Šajos darbos iesaistītajiem pensionāriem saglabājas pilna pensija neatkarīgi no izpeļņas.
+Zemes reformas darbus atbilstoši kompetencei veic Valsts zemes dienests un zemes ierīcībā un zemes kadastrālajā uzmērīšanā sertificētas personas sadarbībā ar vietējām pašvaldībām.

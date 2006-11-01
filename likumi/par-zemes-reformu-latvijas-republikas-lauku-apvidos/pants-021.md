@@ -1,2 +1,2 @@
 21. pants. Zemes lietojuma plāna izgatavošana, reģistrācija un izsniegšana
-Pēc piešķirtās zemes norobežošanas, uzmērīšanas un kadastrālās vērtēšanas, kā arī šīs vērtēšanas materiālu apstiprināšanas Latvijas Republikas zemes likumdošanas noteiktajā kārtībā Valsts zemes dienests izgatavo zemes lietojuma plānu, to reģistrē un izsniedz zemes lietotājam.
+Kad piešķirtā zeme ir norobežota un uzmērīta, zemes kadastrālajā uzmērīšanā sertificēta persona izgatavo zemes robežu plānu un pēc tā reģistrēšanas Nekustamā īpašuma valsts kadastra informācijas sistēmā izsniedz šo plānu zemes lietotājam.
