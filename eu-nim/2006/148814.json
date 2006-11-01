@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par notekūdeņu dūņu un to komposta izmantošanu, monitoringu un kontroli",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "73",
+  "official_journal_page": null,
+  "official_journal_date": "2006-05-11",
+  "entry_into_force": "2006-11-01",
+  "notification_date": "2007-09-13",
+  "commission_reference": "MNE(2007)56748",
+  "nim_celex": "71986L0278LVA_148814",
+  "nim_id": "148814",
+  "transposes_celex": [
+    "31986L0278"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0721f1a9-bd38-408d-ac1e-24e2680e6bc6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
