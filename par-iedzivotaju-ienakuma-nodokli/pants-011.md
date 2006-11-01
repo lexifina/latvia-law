@@ -5,7 +5,8 @@
 2. Ieņēmumos, kas gūti no saimnieciskās darbības, tiek ieskaitīti:
 1) ieņēmumi no preču, darbu un pakalpojumu pārdošanas;
 2) ieņēmumi no īpašuma un telpu iznomāšanas vai izīrēšanas;
-3) summas, kas saņemtas soda naudas veidā.
+3) summas, kas saņemtas soda naudas veidā;
+4) citi saimnieciskās darbības ieņēmumi.
 3. Izdevumos, ja tie saistīti ar taksācijas gada ienākuma gūšanu no saimnieciskās darbības, tiek ieskaitīti:
 1) izdevumi par iegādātām izejvielām, materiāliem, pusfabrikātiem, izstrādājumiem, par inventāru, kura vērtība nepārsniedz 100 latu, par precēm, kurināmo un enerģiju;
 2) izdevumi, kas saistīti ar algotā darbaspēka izmantošanu likumdošanas aktos atļautajos gadījumos;
@@ -17,7 +18,7 @@
 7¹) obligātās apdrošināšanas prēmiju maksājumi par saimnieciskajā darbībā izmantotiem pamatlīdzekļiem;
 8) izdevumi par darbinieku izglītošanu un kvalifikācijas paaugstināšanu;
 9) citu personu veikto ražošanas rakstura darbu un no citām personām saņemto pakalpojumu izmaksas, izņemot kapitālieguldījumu izmaksas;
-10) procentu maksa par banku kredīta izmantošanu, izņemot soda naudas maksājumus;
+10) procentu maksa par banku kredīta vai līzinga pakalpojumu izmantošanu, izņemot soda naudas maksājumus;
 11) maksa par licenci;
 12) zaudējumi tiesas noteiktajā apmērā, kuri nodarīti līgumpartneriem, neizpildot vai pienācīgi neizpildot savas saistības;
 13) Latvijas Republikā noteikto nodokļu (izņemot iedzīvotāju ienākuma nodokli un pievienotās vērtības nodokli) un nodevu (izņemot valsts nodevu par prasības pieteikumu tiesā) maksājumi valsts vai pašvaldības budžetā;

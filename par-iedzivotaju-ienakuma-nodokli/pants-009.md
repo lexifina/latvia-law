@@ -20,7 +20,7 @@
 18) atlīdzība par asiņu nodošanu un cita veida donorpalīdzību;
 19) ienākumi no sava īpašuma pārdošanas, izņemot ienākumu no:
 a) pārdošanai izgatavotu vai iegādātu izstrādājumu (mantas) pārdošanas,
-b) fiziskās personas īpašumā esoša augoša meža pārdošanas izciršanai,
+b) fiziskās personas īpašumā esoša augoša meža pārdošanas izciršanai un tajā iegūto kokmateriālu pārdošanas, ja mežs ir bijis šīs personas īpašumā mazāk par 12 mēnešiem,
 c) tāda nekustamā īpašuma pārdošanas, kas ir bijis personas īpašumā mazāk par 12 mēnešiem,
 d) personāla akciju atpirkšanas;
 20) palīdzība, kas sniegta, pamatojoties uz arodbiedrības institūcijas lēmumu, no arodbiedrības naudas līdzekļiem, kuri veidojas no arodbiedrības biedru naudas maksājumiem un ārvalstu arodbiedrību ziedojumiem (dāvinājumiem) - gada neapliekamā minimuma apmērā;
