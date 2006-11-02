@@ -1,0 +1,1 @@
+1.pants. 1995.gada 7.jūlija Starptautiskā konvencija par zvejas kuģu personāla sagatavošanas un diplomēšanas, kā arī sardzes pildīšanas standartiem (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
