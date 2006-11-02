@@ -1,0 +1,1 @@
+1.pants. 2006.gada 7.jūnijā Viļņā, Lietuvā, parakstītais Latvijas Republikas valdības un Lietuvas Republikas valdības līgums par sadarbību organizētās noziedzības un citu noziedzīgu nodarījumu apkarošanā un kopīgām darbībām pierobežas apgabalos (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
