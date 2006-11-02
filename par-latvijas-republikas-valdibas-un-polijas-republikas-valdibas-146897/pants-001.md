@@ -1,0 +1,1 @@
+1.pants. 2006.gada 29.martā Rīgā parakstītais Latvijas Republikas valdības un Polijas Republikas valdības līgums par tādu personu nodošanu un pieņemšanu, kuras uzturas nelikumīgi (turpmāk - Līgums), ar šo likumu tiek pieņemts un apstiprināts.
