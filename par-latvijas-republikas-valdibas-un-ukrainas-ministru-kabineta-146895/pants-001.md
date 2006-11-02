@@ -1,0 +1,1 @@
+1.pants. 2006.gada 27.aprīlī Rīgā parakstītais Latvijas Republikas valdības un Ukrainas Ministru kabineta līgums par sadarbību katastrofu novēršanas un to seku likvidēšanas jomā (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
