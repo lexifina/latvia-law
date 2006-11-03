@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par institūcijām, kas izsniedz ārvalstīs iegūtās profesionālās kvalifikācijas atzīšanas apliecības reglamentētajās profesijās",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "176",
+  "official_journal_page": null,
+  "official_journal_date": "2006-11-03",
+  "entry_into_force": "2006-11-03",
+  "notification_date": "2008-01-16",
+  "commission_reference": "MNE(2008)50454",
+  "nim_celex": "72005L0036LVA_152826",
+  "nim_id": "152826",
+  "transposes_celex": [
+    "32005L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/913154d8-4c67-4f94-9695-84b63ae0f9e5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
