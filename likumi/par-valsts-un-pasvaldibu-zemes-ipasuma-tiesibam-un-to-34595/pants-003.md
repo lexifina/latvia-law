@@ -11,10 +11,3 @@
 2) privatizēti pašvaldības īpašuma objekti vai citādi atsavinātas pašvaldības vai pašvaldības uzņēmumu (uzņēmējsabiedrību) ēkas (būves);
 3) dzīvojamās mājas, kurās esošie dzīvokļi privatizēti saskaņā ar likumu "Par kooperatīvo dzīvokļu privatizāciju" un likumu "Par lauksaimniecības uzņēmumu un zvejnieku kolhozu privatizāciju".
 (4) Uz pašvaldības vārda zemesgrāmatās var ierakstīt zemi, uz kuras par valsts vai pašvaldības budžeta līdzekļiem ir izbūvētas ielas, ja tās ir pašvaldības valdījumā.
-(5) Pašvaldībām piekrīt un uz attiecīgās pašvaldības vārda zemesgrāmatās ierakstāma lauku apvidu zeme:
-1) uz kuru fiziskajām vai juridiskajām personām izbeidzas zemes pastāvīgās lietošanas tiesības saskaņā ar Valsts un pašvaldību īpašuma privatizācijas un privatizācijas sertifikātu izmantošanas pabeigšanas likuma 25.panta pirmās daļas 1. vai 2.punktu;
-2) uz kuru fiziskajām vai juridiskajām personām izbeidzas zemes pastāvīgās lietošanas tiesības, jo šīs personas līdz 2009.gada 30.decembrim nav noslēgušas līgumu par zemes izpirkšanu saskaņā ar likuma "Par zemes reformas pabeigšanu lauku apvidos" 2.panta astoto daļu.
-(6) Pašvaldībām piekrīt un uz attiecīgās pašvaldības vārda zemesgrāmatās ierakstāma pilsētas zeme:
-1) uz kuru dzīvojamās ēkas īpašniekiem vai augļu dārzu lietotājiem, kuriem zeme piešķirta ar apbūves tiesībām, izbeidzas zemes lietošanas tiesības saskaņā ar Valsts un pašvaldību īpašuma privatizācijas un privatizācijas sertifikātu izmantošanas pabeigšanas likuma 26.panta pirmās daļas 1. vai 2.punktu;
-2) uz kuru dzīvojamās ēkas īpašniekiem vai augļu dārzu lietotājiem, kuriem zeme piešķirta ar apbūves tiesībām, izbeidzas zemes lietošanas tiesības, jo šīs personas līdz 2009.gada 30.decembrim nav noslēgušas līgumu par zemes izpirkšanu saskaņā ar likuma "Par zemes reformas pabeigšanu pilsētās" 2.panta piekto daļu.
-(7) Pašvaldībām piekrīt un uz attiecīgās pašvaldības vārda arī pēc zemes reformas pabeigšanas zemesgrāmatās ierakstāma zeme, kuru attiecīgā pašvaldība varēja ierakstīt uz sava vārda zemesgrāmatās zemes reformas laikā.

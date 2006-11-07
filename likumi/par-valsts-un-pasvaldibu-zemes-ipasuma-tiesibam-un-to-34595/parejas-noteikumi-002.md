@@ -1,1 +1,0 @@
-2. Šā likuma 2.panta piektajā daļā un 3.panta piektajā, sestajā un septītajā daļā minētā zeme uz valsts vai pašvaldības vārda ierakstāma zemesgrāmatās līdz 2010.gada 30.decembrim. Pēc minētā termiņa beigām īpašuma tiesības nosaka saskaņā ar Civillikumu.

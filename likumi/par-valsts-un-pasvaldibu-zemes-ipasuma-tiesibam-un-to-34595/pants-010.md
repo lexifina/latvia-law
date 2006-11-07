@@ -1,4 +1,4 @@
-10.pants. (1) Par valstij vai pašvaldībām piekrītošiem zemes gabaliem (2.panta otrā, trešā, ceturtā un piektā daļa un 3.panta otrā, trešā, piektā, sestā un septītā daļa) sastādāma uzziņa, kurā jānorāda:
+10.pants. (1) Par valstij vai pašvaldībām piekrītošiem zemes gabaliem (2.panta otrā, trešā un ceturtā daļa un 3.panta otrā un trešā daļa) sastādāma uzziņa, kurā jānorāda:
 1) zemes gabala piederība 1940.gada 21.jūlijā atbilstoši īpašuma tiesības apliecinošiem dokumentiem vai Valsts zemes dienesta ziņas par to, ka pēc dokumentiem zemes gabala piederība nav konstatēta;
 2) zemes gabala platība;
 3) pašreizējais zemes lietotājs, zemes lietošanas nosacījumi (pastāvīgā lietošana, termiņlietošana, noma);
