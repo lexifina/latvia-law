@@ -1,0 +1,2 @@
+NOLĪGUMS
+par 1982.gada 10.decembra Apvienoto Nāciju Jūras tiesību konvencijas īstenošanu attiecībā uz transzonālo zivju krājumu un tālu migrējošo zivju krājumu saglabāšanu un pārvaldību
