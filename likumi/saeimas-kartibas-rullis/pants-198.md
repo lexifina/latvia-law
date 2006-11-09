@@ -1,2 +1,4 @@
-198. (1) Deputāta palīgu pieņem darbā uz deputāta pilnvaru laiku un atlaiž no darba Saeimas Kancelejā pēc deputāta ierosinājuma un saskaņā ar Darba likuma noteikumiem. Uz viņiem neattiecas Darba likuma 45.panta pirmajā daļā noteiktais darba līguma termiņa ierobežojums.
-(2) (Izslēgta ar 16.05.2002. likumu.)
+198. (1) Darba tiesiskās attiecības ar deputāta palīgu nodibina un izbeidz Saeimas Kancelejas direktors pēc deputāta priekšlikuma saskaņā ar Darba likuma noteikumiem.
+(2) Darba līgumu slēdz uz vienu no šādiem termiņiem:
+1) uz deputāta pilnvaru laiku;
+2) uz noteiktu laiku, kas nav īsāks par sešiem mēnešiem, un šo darba līgumu var pagarināt. Ja deputāta pilnvaras izbeidzas pirms noslēgtā darba līguma termiņa, deputāta palīga darba līgums izbeidzas ar dienu, kad izbeidzas deputāta pilnvaras.

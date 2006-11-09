@@ -1,1 +1,4 @@
-187. Frakciju darbiniekus pieņem darbā uz frakcijas darbības laiku un atlaiž no darba Saeimas Kanceleja pēc frakcijas vadītāja ierosinājuma Darba likumā noteiktajā kārtībā. Uz viņiem neattiecas Darba likuma 45.panta pirmajā daļā noteiktais darba līguma termiņa ierobežojums.
+187. (1) Darba tiesiskās attiecības ar frakcijas darbinieku nodibina un izbeidz Saeimas Kancelejas direktors pēc frakcijas vadītāja priekšlikuma saskaņā ar Darba likuma noteikumiem.
+(2) Darba līgumu slēdz uz vienu no šādiem termiņiem:
+1) uz frakcijas darbības periodu attiecīgās Saeimas pilnvaru laikā;
+2) uz noteiktu laiku, kas nav īsāks par sešiem mēnešiem, un šo darba līgumu var pagarināt. Ja frakcijas darbība izbeidzas pirms noslēgtā darba līguma termiņa, frakcijas darbinieka darba līgums izbeidzas ar dienu, kad frakcija izbeidz darbību.
