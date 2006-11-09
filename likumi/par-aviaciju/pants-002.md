@@ -1,2 +1,2 @@
-2. pants. Normatīvie akti, kas regulē Latvijas Republikas gaisa telpas izmantošanu un civilās aviācijas darbību
-Latvijas Republikas gaisa telpas izmantošanu un civilās aviācijas darbību Latvijas Republikā valsts un tās iedzīvotāju interesēs regulē šis likums, šā likuma noteiktās kompetences ietvaros izdotie normatīvie akti, Latvijas Republikai saistoši starptautiskie līgumi un Eiropas Savienības normatīvie akti.
+2. pants. Normatīvie akti, kas regulē Latvijas Republikas gaisa telpas izmantošanu un civilās un militārās aviācijas darbību
+Latvijas Republikas gaisa telpas izmantošanu, kā arī civilās un militārās aviācijas darbību Latvijas Republikā valsts un tās iedzīvotāju interesēs regulē šis likums, šā likuma noteiktās kompetences ietvaros izdotie normatīvie akti, Latvijas Republikai saistoši starptautiskie līgumi un Eiropas Savienības normatīvie akti.

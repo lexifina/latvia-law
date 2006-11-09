@@ -38,9 +38,9 @@ Gaisa trase - kontrolēta gaisa telpa vai tās daļa koridora veidā, kurā ir n
 Incidents - jebkurš ar gaisa kuģa izmantošanu saistīts notikums, izņemot aviācijas nelaimes gadījumu, kas apdraud vai var apdraudēt gaisa kuģa ekspluatācijas drošību.
 Izmeklēšana - process, kura uzdevums ir novērst aviācijas nelaimes gadījumus un kurš ietver informācijas savākšanu un analīzi, atzinumu sagatavošanu, arī cēloņu noskaidrošanu un, ja nepieciešams, rekomendāciju izstrādāšanu gaisa kuģu lidojumu drošības garantēšanai.
 Kvalifikācijas atzīme - atzīme par īpašiem nosacījumiem, tiesībām un ierobežojumiem, kas izdarīta attiecīgā apliecībā vai ir tās neatņemama sastāvdaļa.
-Latvijas Republikas Nacionālo bruņoto spēku aviācija - gaisa kuģu, lidlauku un citu objektu kopums, kas paredzēts valsts aizsardzībai.
 Latvijas Republikas civilās aviācijas gaisa kuģis - civilās aviācijas gaisa kuģis, kas reģistrēts Latvijas Republikas Civilās aviācijas gaisa kuģu reģistrā.
 Latvijas Republikas gaisa telpa - gaisa telpa virs Latvijas Republikas sauszemes teritorijas, tās iekšējiem un teritoriālajiem Baltijas jūras ūdeņiem.
+Latvijas Republikas militārā aviācija - Latvijas Republikā reģistrēto militāro gaisa kuģu, Latvijas Republikā reģistrēto Latvijas Nacionālo bruņoto spēku militārajām vajadzībām izmantoto civilo gaisa kuģu, militāro lidlauku un citu objektu kopums, kas paredzēts valsts aizsardzības funkciju veikšanai.
 Latvijas Republikas muitas un Valsts robežsardzes dienestu aviācija - gaisa kuģu, lidlauku un citu objektu kopums, kas galvenokārt paredzēts minēto dienestu funkciju izpildei.
 Latvijas Republikas teritorija - Latvijas Republikas sauszemes teritorija, tās iekšējie un teritoriālie Baltijas jūras ūdeņi un gaisa telpa.
 Lidlauka kontrolējamā zona - lidostas ēkas daļa un lidlauka teritorija, kurā iekļūšana tiek kontrolēta.
@@ -52,6 +52,8 @@ Lidlauks - noteikta zemes teritorija vai ūdens akvatorija, kā arī ēkas, obje
 Lidojumu ierobežojumu zona - ierobežota gaisa telpa virs valsts sauszemes teritorijas un tās iekšējiem vai teritoriālajiem Baltijas jūras ūdeņiem, kurā gaisa kuģu lidojumi ir veicami saskaņā ar speciāliem noteikumiem.
 Meteoroloģiskā informācija - meteoroloģisks pārskats, analīze, prognoze un jebkurš cits biļetens par faktiskajiem vai gaidāmajiem meteoroloģiskajiem apstākļiem.
 Meteoroloģisko pakalpojumu sniedzējs - institūcija, kura nodrošina visas ieinteresētās personas ar gaisa kuģu lidojumiem nepieciešamo meteoroloģisko informāciju pirms lidojuma un lidojuma laikā.
+Militārās aviācijas gaisa kuģis - Latvijas Republikas militārās aviācijas gaisa kuģu reģistrā reģistrēts gaisa kuģis, kuru Latvijas Nacionālie bruņotie spēki izmanto valsts aizsardzības funkciju veikšanai.
+Militārais lidlauks - militārais objekts, kas ietver noteiktu zemes teritoriju vai ūdens akvatoriju, kā arī ēkas, objektus un iekārtas, kuras paredzētas, lai organizētu militāro gaisa kuģu pienākšanu un atiešanu, un kas tiek uzturēts un izmantots valsts aizsardzībai.
 Muitas un Valsts robežsardzes dienestu gaisa kuģi - gaisa kuģi, kurus izmanto muitas vai Valsts robežsardzes dienesti.
 Nelikumīga iejaukšanās civilās aviācijas darbībā - darbības, kas apdraud vai var apdraudēt civilās aviācijas drošību (personu nesankcionēta iekļūšana lidlauku kontrolējamās zonās vai gaisa kuģī, bīstamas kravas, ieroču un sprāgstvielu pārvadāšana bez attiecīgas atļaujas, ieroču lietošana pret gaisa kuģa apkalpi vai pasažieriem, gaisa kuģa nolaupīšana u. c.).
 Otrais pilots - pilots, kam izsniegta attiecīga apliecība un kas veic pilota funkcijas, izņemot gaisa kuģa kapteiņa funkcijas; izņēmums ir pilots, kas atrodas gaisa kuģī mācību nolūkā, vai pilots, kas lidojuma laikā noteiktā kārtībā pārņem gaisa kuģa kapteiņa tiesības un pilda viņa pienākumus, ja gaisa kuģa kapteinis veselības stāvokļa dēļ tos nevar pildīt.

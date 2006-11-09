@@ -1,2 +1,2 @@
 23. pants. Lidlauka izveidošana
-Lidlauka izveidošanas kārtību nosaka Ministru kabinets.
+Civilās aviācijas lidlauka izveidošanas kārtību nosaka Ministru kabinets.
