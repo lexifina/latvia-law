@@ -1,0 +1,1 @@
+KONVENCIJA par Čehijas Republikas, Igaunijas Republikas, Kipras Republikas, Latvijas Republikas, Lietuvas Republikas, Ungārijas Republikas, Maltas Republikas, Polijas Republikas, Slovēnijas Republikas un Slovākijas Republikas pievienošanos Konvencijai par nodokļu dubultās uzlikšanas novēršanu sakarā ar asociēto uzņēmumu peļņas korekciju
