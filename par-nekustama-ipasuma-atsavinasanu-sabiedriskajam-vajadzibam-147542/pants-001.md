@@ -1,0 +1,1 @@
+1.pants. Atsavināt sabiedriskajām vajadzībām - Dienvidu tilta pār Daugavu būvniecībai nekustamo īpašumu Rīgā, Maskavas ielā 255 (kadastra Nr.0100 572 0230, reģistrēts Rīgas pilsētas zemesgrāmatas nodalījumā Nr.100000212984), kas sastāv no divām būvēm (kadastra apzīmējumi 0100 072 0047 006 un 0100 072 0047 007).
