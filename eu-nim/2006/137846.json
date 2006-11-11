@@ -1,0 +1,30 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Valsts statistikas pārskatu un anketu veidlapu paraugu apstiprināšanas noteikumi",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "181",
+  "official_journal_page": null,
+  "official_journal_date": "2006-11-10",
+  "entry_into_force": "2006-11-11",
+  "notification_date": "2006-11-20",
+  "commission_reference": "MNE(2006)57815",
+  "nim_celex": "71993L0023LVA_137846",
+  "nim_id": "137846",
+  "transposes_celex": [
+    "31993L0023",
+    "31993L0024",
+    "31993L0025",
+    "31995L0057",
+    "31995L0064",
+    "31996L0016",
+    "31997L0077",
+    "32001L0109",
+    "32003L0107"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7c9e4b6b-c5b7-45ce-b7f5-cca40eca660b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
