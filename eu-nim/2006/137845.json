@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par elektroenerģijas ražošanu koģenerācijā",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "181",
+  "official_journal_page": null,
+  "official_journal_date": "2006-11-10",
+  "entry_into_force": "2006-11-11",
+  "notification_date": "2006-11-20",
+  "commission_reference": "MNE(2006)57814",
+  "nim_celex": "72004L0008LVA_137845",
+  "nim_id": "137845",
+  "transposes_celex": [
+    "32004L0008"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3b212f27-b26f-4aea-9218-e56cf88252e1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
