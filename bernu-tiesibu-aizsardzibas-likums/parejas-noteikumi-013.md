@@ -1,0 +1,1 @@
+13. Grozījumi šā likuma 65.² pantā (par vārdu "Valsts cilvēktiesību birojs" aizstāšanu ar vārdiem "Tiesībsarga birojs") un 67.¹ pantā (par papildināšanu ar vārdiem "un Tiesībsarga birojam") stājas spēkā 2007.gada 1.janvārī.

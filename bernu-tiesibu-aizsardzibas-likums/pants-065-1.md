@@ -1,4 +1,2 @@
-65.¹ pants. Valsts bērna tiesību aizsardzības inspektori
-(1) Bērnu un ģimenes lietu ministrijas valsts bērna tiesību aizsardzības inspektoru pienākums ir uzraudzīt attiecīgo likumu izpildi noteiktā administratīvajā teritorijā.
-(2) Valsts bērna tiesību aizsardzības inspektoram ir tiesības pēc savas iniciatīvas vai sakarā ar sūdzību pārbaudīt jebkuras valsts vai pašvaldības institūcijas, sabiedriskās organizācijas vai citas fiziskās vai juridiskās personas darbību bērna tiesību aizsardzības jautājumos, pieprasīt no minētajām institūcijām, organizācijām un personām informāciju vai paskaidrojumus šajā jomā.
-(3) Pamatojoties uz pārbaudes rezultātiem, inspektors dod ieteikumus pārkāpumu novēršanai un, ja nepieciešams, atbilstoši savai kompetencei sastāda administratīvā pārkāpuma protokolu, uzliek administratīvo sodu vai ierosina, lai attiecīgā institūcija vainīgo amatpersonu sauc pie disciplinārās vai citas likumā noteiktās atbildības.
+65.¹ pants. Valsts bērnu tiesību aizsardzības inspekcijas kompetence
+Valsts bērnu tiesību aizsardzības inspekcija uzrauga un kontrolē normatīvo aktu ievērošanu bērnu tiesību aizsardzības jomā.
