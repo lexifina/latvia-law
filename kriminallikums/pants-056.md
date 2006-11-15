@@ -1,6 +1,6 @@
 56.pants. Kriminālatbildības noilgums
 (1) Personu nevar saukt pie kriminālatbildības, ja no dienas, kad tā izdarījusi noziedzīgu nodarījumu, pagājis šāds laiks:
-1) seši mēneši no tāda kriminālpārkāpuma izdarīšanas dienas, par kuru var ierosināt lietu tikai pēc cietušā vai viņa likumiskā pārstāvja sūdzības;
+1) seši mēneši no tāda kriminālpārkāpuma izdarīšanas dienas, par kuru var uzsākt privātās apsūdzības kriminālprocesu;
 2) divi gadi no tāda kriminālpārkāpuma izdarīšanas dienas, kas nav minēts šā panta pirmās daļas 1.punktā;
 3) pieci gadi no mazāk smaga nozieguma izdarīšanas dienas;
 4) desmit gadi no smaga nozieguma izdarīšanas dienas;
