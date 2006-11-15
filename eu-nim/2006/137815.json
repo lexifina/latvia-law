@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "likums Par darbinieku iesaistīšanos Eiropas kooperatīvajā sabiedrībā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "183",
+  "official_journal_page": null,
+  "official_journal_date": "2006-11-15",
+  "entry_into_force": null,
+  "notification_date": "2006-11-16",
+  "commission_reference": "MNE(2006)57799",
+  "nim_celex": "72003L0072LVA_137815",
+  "nim_id": "137815",
+  "transposes_celex": [
+    "32003L0072"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/32fa5aba-0466-452a-a216-616bb75a1afa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
