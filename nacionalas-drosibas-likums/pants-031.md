@@ -3,5 +3,5 @@
 (2) Valsts aizsardzības plānu:
 1) izstrādā Aizsardzības ministrija sadarbībā ar pārējām ministrijām;
 2) apstiprina Ministru kabinets.
-(3) Aizsardzības ministrs ar Valsts aizsardzības plānu iepazīstina Saeimas Aizsardzības un iekšlietu komisiju.
+(3) Aizsardzības ministrs ar Valsts aizsardzības plānu iepazīstina Saeimas Aizsardzības, iekšlietu un korupcijas novēršanas komisiju.
 (4) Aizsardzības ministrs pēc saskaņošanas ar Satversmes aizsardzības biroju var iesaistīt valsts aizsardzības plāna izstrādē speciālistus no ārvalstīm, starptautiskajām organizācijām un to institūcijām, ar kurām noslēgts līgums par klasificētās informācijas aizsardzību.

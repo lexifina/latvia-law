@@ -3,7 +3,7 @@
 1) Valsts prezidents;
 2) Saeimas priekšsēdētājs;
 3) Saeimas Nacionālās drošības komisijas priekšsēdētājs;
-4) Saeimas Aizsardzības un iekšlietu komisijas priekšsēdētājs;
+4) Saeimas Aizsardzības, iekšlietu un korupcijas novēršanas komisijas priekšsēdētājs;
 5) Ministru prezidents;
 6) aizsardzības ministrs;
 7) ārlietu ministrs;
