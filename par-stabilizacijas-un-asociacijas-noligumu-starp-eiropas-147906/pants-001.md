@@ -1,0 +1,1 @@
+1.pants. 2006.gada 12.jūnijā Luksemburgā parakstītais Stabilizācijas un asociācijas nolīgums starp Eiropas Kopienām un to dalībvalstīm, no vienas puses, un Albānijas Republiku, no otras puses (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.
