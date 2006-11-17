@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Obligātās nekaitīguma prasības diētiskajai pārtikai ar samazinātu enerģētisko vērtību un tās marķējumam",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "185",
+  "official_journal_page": null,
+  "official_journal_date": "2006-11-17",
+  "entry_into_force": null,
+  "notification_date": "2006-11-20",
+  "commission_reference": "MNE(2006)57843",
+  "nim_celex": "72006L0034LVA_137876",
+  "nim_id": "137876",
+  "transposes_celex": [
+    "32006L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cddf26ba-5981-4ef6-a7d3-b4832a830c3a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
