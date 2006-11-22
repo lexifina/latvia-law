@@ -1,0 +1,1 @@
+10. Ja par pašvaldības regulatora izdoto administratīvo aktu par tarifa apstiprināšanu ir iesniegts pieteikums tiesā un tādēļ šā akta darbība apturēta saskaņā ar Administratīvā procesa likuma 185.panta pirmo daļu, attiecīgā akta darbība atjaunojas ar 2006.gada 1.decembri. Pēc 2006.gada 1.decembra šā administratīvā akta darbību likumā noteiktajā kārtībā var lūgt apturēt.

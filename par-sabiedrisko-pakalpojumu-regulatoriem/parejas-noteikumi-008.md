@@ -1,0 +1,1 @@
+8. Šā likuma 2.panta trešās daļas 1.punkta jaunā redakcija (par pašvaldības regulatora tiesībām regulēt sadzīves atkritumu apglabāšanu atkritumu poligonos un izgāztuvēs) stājas spēkā 2007.gada 1.janvārī.
