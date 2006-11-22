@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Konsolidēto gada pārskatu likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "178",
+  "official_journal_page": null,
+  "official_journal_date": "2006-11-08",
+  "entry_into_force": "2006-11-22",
+  "notification_date": "2008-01-22",
+  "commission_reference": "MNE(2008)50654",
+  "nim_celex": "72006L0043LVA_153045",
+  "nim_id": "153045",
+  "transposes_celex": [
+    "32006L0043",
+    "32006L0046"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e7de0cfe-cbe3-4637-a427-216d0ecdbfdb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
