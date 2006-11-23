@@ -1,5 +1,5 @@
 13.pants. Iekšlietu ministrijas kompetence
-Iekšlietu ministrija un tās padotībā esošās institūcijas:
+(1) Iekšlietu ministrija un tās padotībā esošās institūcijas:
 1) izstrādā un īsteno valsts iekšlietu politiku;
 2) sargā sabiedrisko kārtību un drošību;
 3) aizsargā personu tiesības un likumīgās intereses;
@@ -8,3 +8,4 @@ Iekšlietu ministrija un tās padotībā esošās institūcijas:
 6) likumā noteiktās kompetences apjomā apsargā un kontrolē Latvijas valsts robežu;
 7) koordinē valsts un pašvaldību institūciju un sabiedrisko organizāciju darbību sabiedriskās kārtības uzturēšanas jautājumos;
 8) prognozē un novērš valsts un sabiedrības drošības, kā arī tautsaimniecības apdraudējumus.
+(2) Pamatojoties uz Drošības policijas priekšnieka ieteikumu, iekšlietu ministrs Ministru kabineta noteiktajā kārtībā izsludina terorisma draudu līmeni.

@@ -1,7 +1,7 @@
 23.⁴ pants. Krīzes vadības padomes sekretariāts
 (1) Krīzes vadības padomes darbu nodrošina Krīzes vadības padomes sekretariāts.
-(2) Krīzes vadības padomes sekretariāts nodrošina atbildīgo institūciju sistemātisku, mērķtiecīgu un pastāvīgu sadarbību un atbalsta sniegšanu Krīzes vadības padomei savas kompetences ietvaros šādos jautājumos:
-1) priekšlikumu sagatavošana Krīzes vadības padomei par krīzes vadības sistēmas attīstību un pilnveidošanu;
-2) iespējamo valsts apdraudējumu novēršanas vienotu un saskaņotu valsts pārvaldes institūciju plānu izstrādāšanas pastāvīga koordinēšana;
-3) valsts apdraudējumu novēršanas operatīvās plānošanas un vadības koordinācija, tās izpildes rezultātu apkopošana un analīze;
-4) krīzes vadības sistēmas stratēģiska līmeņa mācību plānošana, koordinēšana un vadīšana.
+(2) Krīzes vadības padomes sekretariāts nodrošina atbildīgo institūciju mērķtiecīgu un pastāvīgu sadarbību un atbalsta sniegšanu Krīzes vadības padomei savas kompetences ietvaros šādos jautājumos:
+1) priekšlikumu sagatavošana Krīzes vadības padomei par krīzes vadības attīstību;
+2) ministriju sagatavoto nozaru apdraudējumu prognožu, to novēršanas, pārvarēšanas un iespējamo seku likvidēšanas plānu izstrādes koordinēšana un izskatīšana;
+3) valsts apdraudējumu novēršanas koordinēšana un operatīvā plānošana, tās izpildes analīze;
+4) valsts un starptautiska līmeņa krīzes vadības mācību vadīšana vai piedalīšanās mācībās.
