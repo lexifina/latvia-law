@@ -1,2 +1,2 @@
 V nodaļa
-Valsts probācijas dienesta Konsultatīvā padome
+Valsts probācijas dienesta konsultatīvās padomes

@@ -1,2 +1,2 @@
 IV nodaļa
-Valsts probācijas dienesta sadarbība, kompetence un finansēšana
+Valsts probācijas dienesta uzdevumi

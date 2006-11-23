@@ -2,12 +2,9 @@
 Likumā ir lietoti šādi termini:
 1) brīvprātīgais probācijas darbinieks - persona, kuru Valsts probācijas dienests pilnvaro pildīt kādu atsevišķu uzdevumu;
 2) izlīgums ar starpnieka palīdzību - pārrunu process, kurā piedalās cietušais un probācijas klients un kurā izmanto starpnieka palīdzību, lai novērstu noziedzīga nodarījuma sekas un panāktu cietušā un probācijas klienta izlīgumu;
-3) izvērtēšanas ziņojums - Valsts probācijas dienesta sagatavota informācija, kas raksturo probācijas klientu;
-4) postpenitenciārā palīdzība - pasākumu kopums personu iekļaušanai sabiedrībā pēc pamatsoda izciešanas brīvības atņemšanas iestādē;
-5) probācija - probācijas klienta uzraudzība un viņa sociālās uzvedības korekcija nolūkā novērst atkārtotu likumpārkāpuma izdarīšanu;
-6) probācijas klients - persona, kura izcieš sodu brīvības atņemšanas iestādē vai ir atbrīvota no brīvības atņemšanas iestādes pēc soda izciešanas un noslēgusi vienošanos ar Valsts probācijas dienestu par postpenitenciārās palīdzības saņemšanu, kā arī persona, kura nosacīti atbrīvota no kriminālatbildības, nosacīti notiesāta vai nosacīti pirms termiņa atbrīvota no pamatsoda, ja tai uzlikti likumā paredzētie pienākumi;
-7) sociālās rehabilitācijas centrs - institūcija, kura atbilst sociālās rehabilitācijas institūcijām izvirzītajām prasībām un kuras galvenais uzdevums ir veikt probācijas klientu sociālās uzvedības korekciju;
-8) sociālās uzvedības korekcija - metodoloģiski organizēts pasākumu kopums, kura mērķis ir integrēt personu sabiedrībā;
-9) starpnieks - izlīguma procesa veikšanai īpaši apmācīta persona;
-10) uzraudzība - pasākumi, lai integrētu probācijas klientu sabiedrībā un nodrošinātu, ka probācijas klients respektē tiesību normu prasības;
-11) uzraudzības plāns - dokuments, kurā noteikta probācijas klienta uzraudzības īstenošanas kārtība.
+3) postpenitenciārā palīdzība - pasākumu kopums personu iekļaušanai sabiedrībā pēc atbrīvošanas no brīvības atņemšanas iestādes;
+4) probācija - kriminālsoda - piespiedu darbs - un audzinoša rakstura piespiedu līdzekļa - sabiedriskais darbs - izpildes, kā arī probācijas klientu uzraudzības un sociālās uzvedības korekcijas pasākumu sistēma, kas izveidota, lai novērstu atkārtota noziedzīga nodarījuma izdarīšanu;
+5) probācijas klients - nosacīti notiesāta persona; nosacīti pirms termiņa no soda izciešanas atbrīvota persona; persona, pret kuru izbeigts kriminālprocess, nosacīti atbrīvojot no kriminālatbildības; ar piespiedu darbu notiesāta persona; persona, kurai piemērots sabiedriskais darbs; persona, kurai ar prokurora priekšrakstu par sodu noteikts piespiedu darbs; persona, par kuru tiesa, prokurors vai brīvības atņemšanas iestādes administrācija ir pieprasījusi izvērtēšanas ziņojumu; persona, kura izdarījusi noziedzīgu nodarījumu un ir piekritusi iesaistīties izlīgumā; persona, kurai tiek sniegta postpenitenciārā palīdzība;
+6) probācijas programma - pasākumu kopums, kuru mērķis ir veicināt probācijas klienta integrāciju sabiedrībā;
+7) sociālās uzvedības korekcija - pasākumu kopums, kuru mērķis ir panākt probācijas klienta tiesisku uzvedību;
+8) starpnieks - persona, kas ir īpaši apmācīta vadīt izlīgumu.

@@ -1,0 +1,1 @@
+2. Valsts probācijas dienests uzrauga tās nosacīti notiesātās personas, nosacīti pirms termiņa no brīvības atņemšanas iestādēm atbrīvotās personas un nosacīti no kriminālatbildības atbrīvotās personas, par kurām tiesas nolēmums vai prokurora lēmums stājies spēkā pēc 2005.gada 31.decembra.

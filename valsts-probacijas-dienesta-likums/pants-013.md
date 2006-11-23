@@ -1,8 +1,9 @@
-13.pants. Valsts probācijas dienesta kompetence, īstenojot izlīgumu ar starpnieka palīdzību
-(1) Valsts probācijas dienests nodrošina iespēju cietušajam un probācijas klientam brīvprātīgi iesaistīties izlīguma ar starpnieka palīdzību procesā.
-(2) Valsts probācijas dienests, īstenojot izlīgumu ar starpnieka palīdzību, pilda šādas funkcijas:
+13.pants. Izlīgums ar starpnieka palīdzību
+(1) Valsts probācijas dienests nodrošina iespēju cietušajam un personai, kura izdarījusi noziedzīgu nodarījumu, brīvprātīgi iesaistīties izlīgumā ar starpnieka palīdzību.
+(2) Lai nodrošinātu izlīgumu ar starpnieka palīdzību, Valsts probācijas dienests:
 1) veic starpnieku apmācību;
-2) sniedz procesa virzītājam informāciju par iespējām īstenot izlīgumu ar starpnieka palīdzību un šā izlīguma mērķiem;
-3) īsteno izlīguma ar starpnieka palīdzību procesu;
-4) paziņo procesa virzītājam par izlīguma ar starpnieka palīdzību rezultātiem;
-5) sniedz sabiedrībai, cietušajiem un probācijas klientiem informāciju par iespējām īstenot izlīgumu ar starpnieka palīdzību un šā izlīguma mērķiem.
+2) informē procesa virzītāju par iespējām īstenot izlīgumu un tā mērķiem;
+3) īsteno izlīgumu;
+4) paziņo procesa virzītājam par izlīguma rezultātiem;
+5) sniedz sabiedrībai informāciju par iespējām īstenot izlīgumu un tā mērķiem.
+(3) Ministru kabinets nosaka kārtību, kādā Valsts probācijas dienests organizē un vada izlīgumu ar starpnieka palīdzību.
