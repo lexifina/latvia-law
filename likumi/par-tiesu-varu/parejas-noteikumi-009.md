@@ -1,1 +1,1 @@
-9. Līdz 2006.gada 1.februārim par administratīvās rajona tiesas tiesnesi var apstiprināt personu, kura atbilst šā likuma 52.panta pirmās daļas 1., 2., 3., 4. un 6.punkta prasībām un kurai ir vismaz triju gadu kopējais darba stāžs juridiskajā specialitātē vai ierēdņa amatā.
+9. Līdz 2009.gada 1.februārim par administratīvās rajona tiesas tiesnesi var apstiprināt personu, kura atbilst šā likuma 52.panta pirmās daļas 1., 2., 3., 4. un 6.punkta prasībām un kurai ir vismaz triju gadu kopējais darba stāžs juridiskajā specialitātē vai ierēdņa amatā.
