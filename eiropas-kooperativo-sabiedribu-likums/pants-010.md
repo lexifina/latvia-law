@@ -1,0 +1,3 @@
+10.pants. Valsts pārvaldes iestāžu kompetence gadījumā, kad Eiropas kooperatīvās sabiedrības juridisko adresi pārceļ no Latvijas uz citu dalībvalsti
+(1) Saskaņā ar regulas Nr. 1435/2003 7.panta četrpadsmito daļu juridiskās adreses pārcelšana no Latvijas uz citu dalībvalsti nestājas spēkā, ja atbilstoši kompetencei pret to iebilst Finanšu un kapitāla tirgus komisija, Valsts ieņēmumu dienests vai Ekonomikas ministrija.
+(2) Finanšu un kapitāla tirgus komisijas, Valsts ieņēmumu dienesta un Ekonomikas ministrijas lēmumu var pārsūdzēt tiesā administratīvo procesu regulējošos normatīvajos aktos noteiktajā kārtībā.

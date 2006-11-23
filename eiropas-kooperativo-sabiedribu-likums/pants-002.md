@@ -1,0 +1,3 @@
+2.pants. Eiropas kooperatīvajai sabiedrībai piemērojamie normatīvie akti
+(1) Eiropas kooperatīvajai sabiedrībai tiek piemēroti normatīvie akti, kas attiecas uz kooperatīvo sabiedrību dibināšanu un darbību un akciju sabiedrību apvienošanos un pārveidošanu, kā arī Uzņēmumu reģistra žurnāla vešanu, ciktāl Padomes 2003.gada 22.jūlija regulā (EK) Nr. 1435/2003 par Eiropas kooperatīvās sabiedrības (SCE) statūtiem (turpmāk - regula Nr. 1435/2003) un šajā likumā nav noteikts citādi.
+(2) Darbinieku iesaistīšanu Eiropas kooperatīvajā sabiedrībā nosaka likums "Par darbinieku iesaistīšanos Eiropas kooperatīvajā sabiedrībā".

@@ -1,0 +1,2 @@
+16.pants. Eiropas kooperatīvās sabiedrības likvidācija
+Regulas Nr. 1435/2003 73.pantā noteiktajos gadījumos Uzņēmumu reģistrs rakstveidā brīdina Eiropas kooperatīvo sabiedrību un nosaka tai saprātīgu termiņu, bet ne ilgāku par trim mēnešiem, attiecīgo pārkāpumu novēršanai. Ja noteiktajā termiņā pēc rakstveida brīdinājuma saņemšanas trūkumi nav novērsti, Uzņēmumu reģistrs ir tiesīgs celt tiesā prasību par Eiropas kooperatīvās sabiedrības likvidāciju.
