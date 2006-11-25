@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2006. gada 21. novembra noteikumi Nr. 940 \"Noteikumi par informācijas sniegšanas maksas pakalpojumiem\".",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "190",
+  "official_journal_page": null,
+  "official_journal_date": "2006-11-24",
+  "entry_into_force": "2006-11-25",
+  "notification_date": "2023-01-24",
+  "commission_reference": "MNE(2023)00567",
+  "nim_celex": "72019L1024LVA_202300567",
+  "nim_id": "202300567",
+  "transposes_celex": [
+    "32019L1024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c986139d-9e21-11ed-b508-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
