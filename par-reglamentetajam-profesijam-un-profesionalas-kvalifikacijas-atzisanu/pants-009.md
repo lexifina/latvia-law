@@ -22,5 +22,8 @@
 14) kosmētiķis;
 15) zobārsta asistents;
 16) māsas palīgs;
-17) zobārstniecības māsa.
+17) zobārstniecības māsa;
+18) audiologopēds;
+19) radiologa asistents;
+20) uztura speciālists.
 (3) Medicīniskās izglītības klīnisko un praktisko daļu, arī rezidentūrā iegūstamo, šajā pantā minētajās ārstniecības profesijās un specialitātēs īsteno ārstniecības iestādes un ārstniecības personas, kuras atbilst likumā ārstniecības jomai izvirzītajām prasībām un kuras ir ieguvušas attiecīgu likuma prasībām atbilstošu izglītību.
