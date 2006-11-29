@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Vides aizsardzības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "183",
+  "official_journal_page": null,
+  "official_journal_date": "2006-11-15",
+  "entry_into_force": "2006-11-29",
+  "notification_date": "2009-05-28",
+  "commission_reference": "MNE(2009)52301",
+  "nim_celex": "72003L0004LVA_162184",
+  "nim_id": "162184",
+  "transposes_celex": [
+    "32003L0004",
+    "32009L0126"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/aac4ee95-350f-4ff8-b94b-f28280ab00ef",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
