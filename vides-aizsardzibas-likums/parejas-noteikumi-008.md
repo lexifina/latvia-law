@@ -1,0 +1,1 @@
+8. Šā likuma 26.panta pirmās daļas 4.punkts stājas spēkā vienlaikus ar 1996.gada 3.maija Starptautiskās konvencijas par atbildību un kaitējuma kompensēšanu saistībā ar bīstamu un kaitīgu vielu pārvadāšanu pa jūru spēkā stāšanos.

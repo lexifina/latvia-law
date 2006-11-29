@@ -1,0 +1,2 @@
+40.pants. Vides zinātnes attīstība
+Vides ministrija sadarbībā ar Izglītības un zinātnes ministriju veic nepieciešamos pasākumus vides zinātnes attīstībai, lai sekmētu zinātnisko darbību ilgtspējīgas attīstības, vides aizsardzības un vides izglītības jomā, nodrošinot vides kvalitātes pētījumu veikšanu, ekoinovācijas un vides tehnoloģiju attīstību, kā arī vides aizsardzības problēmu apzināšanu un risināšanu.

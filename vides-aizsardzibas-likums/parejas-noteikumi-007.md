@@ -1,0 +1,1 @@
+7. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2008.gada 1.decembrim piemēro Ministru kabineta 2004.gada 20.aprīļa noteikumus Nr.333 "Noteikumi par ģenētiski modificēto organismu ierobežotu izmantošanu un apzinātu izplatīšanu vidē un tirgū, kā arī par monitoringa kārtību", ciktāl tie nav pretrunā ar šo likumu.

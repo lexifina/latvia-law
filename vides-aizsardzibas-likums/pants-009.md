@@ -1,0 +1,6 @@
+9.pants. Sabiedrības tiesību aizsardzība
+(1) Ikviena persona, kas pieprasījusi informāciju atbilstoši šā likuma 7.pantam un uzskata, ka informācijas pieprasījums ir ignorēts vai nepamatoti noraidīts (pilnībā vai daļēji), nav saņemta atbilstoša atbilde vai citādi pārkāptas tiesības uz vides informāciju, ir tiesīga apstrīdēt un pārsūdzēt attiecīgo darbību vai bezdarbību Administratīvā procesa likumā noteiktajā kārtībā.
+(2) Ja ir aizskartas personas tiesības, kas paredzētas šā likuma 8.pantā, vai nav ievērotas šajā likumā noteiktās sabiedrības līdzdalības tiesības, persona ir tiesīga apstrīdēt un pārsūdzēt attiecīgo darbību vai bezdarbību Administratīvā procesa likumā noteiktajā kārtībā.
+(3) Sabiedrība ir tiesīga apstrīdēt un pārsūdzēt valsts iestādes vai pašvaldības administratīvo aktu vai faktisko rīcību, kas neatbilst vides normatīvo aktu prasībām, rada kaitējuma draudus vai kaitējumu videi.
+(4) Ja kāda privātpersona pārkāpj vides normatīvo aktu prasības, ikviena cita persona var, sniedzot pamatotu informāciju par iespējamo pārkāpumu, vērsties iestādē, kuras kompetencē ir attiecīgā normatīvā akta ievērošanas kontrole, un prasīt, lai iestāde rīkotos atbilstoši kompetencei.
+(5) Šajā pantā privātpersonai noteikto tiesību izmantošana pati par sevi nevar radīt šai personai nelabvēlīgas, tai skaitā privāttiesiskas, sekas.

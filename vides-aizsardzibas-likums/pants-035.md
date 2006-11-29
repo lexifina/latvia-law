@@ -1,0 +1,5 @@
+35.pants. Nepārvarama vara un citi izņēmumi
+(1) Šīs nodaļas nosacījumi neattiecas uz gadījumiem, kad kaitējums videi vai tieši kaitējuma draudi radušies ārkārtējas, neizbēgamas, laikus neparedzamas un nenovēršamas dabas parādības dēļ vai bruņota konflikta, karadarbības, pilsoņu kara vai sacelšanās dēļ (turpmāk - nepārvarama vara).
+(2) Šīs nodaļas nosacījumi neattiecas uz darbībām, kuru galvenais mērķis ir valsts aizsardzība vai starptautiskā drošība, kā arī uz darbībām, kuru vienīgais mērķis ir aizsardzība pret dabas katastrofu.
+(3) Nepārvaramas varas gadījumā operators nekavējoties rakstveidā informē Valsts vides dienestu par kaitējumu videi vai tiešiem kaitējuma draudiem, ja iespējams, norādot veiktos un plānotos pasākumus, lai novērstu, ierobežotu vai samazinātu kaitējumu videi vai tiešus kaitējuma draudus, kā arī nekavējoties veic visus neatliekamos pasākumus.
+(4) Pēc nepārvaramas varas seku likvidēšanas operators sniedz Valsts vides dienestam informāciju par kaitējumu videi, tā apjomu un veiktajiem pasākumiem tā ierobežošanai vai novēršanai, kā arī pašreizējās situācijas novērtējumu.

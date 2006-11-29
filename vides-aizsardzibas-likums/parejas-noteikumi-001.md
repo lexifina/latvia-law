@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par vides aizsardzību" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 33./34.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1997, 13.nr.; 2000, 15.nr.; 2002, 3., 22.nr.; 2003, 12.nr.; 2004, 9.nr.; 2005, 6.nr.; 2006, 15.nr.).
