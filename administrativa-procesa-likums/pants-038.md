@@ -3,5 +3,5 @@
 (2) Personu apvienības pārstāvību noformē ar notariāli apliecinātu pilnvaru vai apliecina ar līgumu, no kura izriet attiecīgās personas tiesības bez īpaša pilnvarojuma pārstāvēt personu apvienību.
 (3) Juridiskās personas vai iestādes pārstāvību noformē ar rakstveida pilnvaru vai apliecina ar dokumentiem, no kuriem izriet amatpersonas tiesības bez īpaša pilnvarojuma pārstāvēt juridisko personu vai iestādi. Attiecībā uz iestādes pilnvarotu pārstāvi nav piemērojami šā likuma 39. un 147.panta noteikumi par īpaša pilnvarojuma nepieciešamību.
 (4) Uz iestādes norīkotu darbinieku (amatpersonu) nav attiecināmi šā likuma 40.panta noteikumi par atteikšanos no pārstāvības, kā arī 39. un 147.panta noteikumi par īpaša pilnvarojuma nepieciešamību.
-(5) Vecāki, adoptētāji, aizbildņi un aizgādņi uzrāda iestādei vai tiesai dokumentus, kas apliecina viņu tiesības.
+(5) Vecāki, aizbildņi un aizgādņi uzrāda iestādei vai tiesai dokumentus, kas apliecina viņu tiesības.
 (6) Ja administratīvā procesa dalībnieks pats piedalās lietā, viņam ir tiesības uzaicināt juridiskās palīdzības sniegšanai zvērinātu advokātu. Advokāta pilnvarojumu šādā gadījumā apliecina orderis.

@@ -1,5 +1,5 @@
 81.pants. Lēmums par apstrīdēto administratīvo aktu
-(1) Augstāka iestāde izskata lietu vēlreiz pēc būtības kopumā vai tajā daļā, uz kuru attiecas iesniedzēja iebildumi.
+(1) Augstāka iestāde izskata lietu vēlreiz pēc būtības kopumā vai tajā daļā, uz kuru attiecas iesniedzēja iebildumi. Augstāka iestāde, pieņemot lēmumu par apstrīdēto administratīvo aktu, citastarp ievēro Valsts pārvaldes iekārtas likumā noteikto formu, kādā tiek īstenota padotība pār zemāku iestādi, kā arī apstrīdētā administratīvā akta veidu (65.pants).
 (2) Augstāka iestāde ar savu lēmumu var:
 1) atstāt administratīvo aktu negrozītu;
 2) atcelt administratīvo aktu;

@@ -13,3 +13,4 @@
 11) procesuālā taisnīguma princips (14.¹ pants).
 (2) Administratīvajā procesā piemēro arī šā panta pirmajā daļā neminētus vispārējos tiesību principus, kuri atklāti, atvasināti vai attīstīti iestāžu praksē vai tiesu judikatūrā, kā arī tiesību zinātnē.
 (3) Administratīvajam aktam un iestādes faktiskajai rīcībai (7.nodaļa) jāatbilst šā panta pirmajā daļā minētajiem vispārējiem tiesību principiem.
+(4) Šajā likumā privātpersonai noteikto tiesību izmantošana pati par sevi nevar privātpersonai radīt nelabvēlīgas, tai skaitā privāttiesiskas sekas.

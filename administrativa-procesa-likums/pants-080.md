@@ -1,3 +1,3 @@
 80.pants. Apstrīdēta administratīvā akta darbības apturēšana
-(1) Iesniegums par administratīvā akta apstrīdēšanu aptur tā darbību no brīža, kad iesniegums saņemts iestādē.
+(1) Iesniegums par administratīvā akta apstrīdēšanu aptur tā darbību no dienas, kad iesniegums saņemts iestādē, izņemot gadījumus, kas paredzēti šā likuma 360.panta otrajā un trešajā daļā, kā arī gadījumos, kad iesniegumu iesniedzis labvēlīga administratīvā akta adresāts, lai panāktu vēl labvēlīgāka administratīvā akta izdošanu.
 (2) Ja augstāka iestāde atstāj administratīvo aktu negrozītu, administratīvā akta darbība atjaunojas ar dienu, kad beidzies termiņš administratīvā akta pārsūdzēšanai un tas nav pārsūdzēts.

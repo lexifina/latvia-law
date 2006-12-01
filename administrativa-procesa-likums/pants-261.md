@@ -3,5 +3,5 @@
 1) nav taisīts spriedums par kādu no prasījumiem, par kuru bija iesniegti pierādījumi un par kuru, ja lieta izskatīta mutvārdu procesā, administratīvā procesa dalībnieki ir devuši paskaidrojumus;
 2) tiesa nav noteikusi darbības, kas jāveic iestādei, piespriestās summas apmēru, mantu, kas jānodod, vai valsts nodevas atlīdzināšanu pieteicējam vai valstij.
 (2) Papildsprieduma taisīšanu var ierosināt likumā noteiktajā sprieduma pārsūdzēšanas termiņā.
-(3) Par šā jautājuma izskatīšanas laiku un vietu tiesa paziņo administratīvā procesa dalībniekiem. Šo personu neierašanās nav šķērslis izlemt jautājumu par papildsprieduma taisīšanu.
+(3) Tiesa jautājumu par papildsprieduma taisīšanu izskata rakstveida procesā.
 (4) Par tiesas lēmumu atteikt papildsprieduma taisīšanu var iesniegt blakus sūdzību.

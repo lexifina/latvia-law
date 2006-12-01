@@ -12,6 +12,7 @@
 9) norāde, kur un kādā termiņā šo administratīvo aktu var apstrīdēt vai pārsūdzēt.
 (3) Administratīvā akta faktu konstatējuma daļā norāda pierādījumus, uz kuriem pamatoti secinājumi, un argumentus, uz kuru pamata pierādījumi noraidīti.
 (4) Iestāde administratīvo aktu pamato ar Satversmi, likumiem, Ministru kabineta noteikumiem vai pašvaldību saistošajiem noteikumiem, starptautisko tiesību vai Eiropas Savienības (Kopienu) normām, kā arī vispārējiem tiesību principiem. Pamatojumā norāda attiecīgā ārējā normatīvā akta pantu, tā daļu, punktu vai apakšpunktu.
-(5) Administratīvā akta pamatojumā iestāde var izmantot argumentus, kas izteikti publicētos tiesas spriedumos un juridiskajā literatūrā, kā arī citā speciālajā literatūrā.
+(5) Administratīvā akta pamatojumā iestāde var izmantot argumentus, kas izteikti tiesas spriedumos un juridiskajā literatūrā, kā arī citā speciālajā literatūrā.
 (6) Iestāde nedrīkst pamatot administratīvo aktu ar iekšējo normatīvo aktu. Ja iestāde ir piemērojusi iekšējo normatīvo aktu, to administratīvā akta pamatojumā min, norādot iekšējā normatīvā akta izdevēju, izdošanas datumu, nosaukumu un piemēroto tiesību normu. Šai norādei ir informatīvs raksturs.
 (7) Ja iestāde pilnībā apmierina iesniedzēja prasījumu un citi administratīvā procesa dalībnieki nav izteikuši atšķirīgu viedokli, šā panta otrās daļas 4., 6. un 9.punktā minētās ziņas nav nepieciešamas.
+(8) Ja iestādei lietas apstākļu objektīvai noskaidrošanai ir nepieciešams pārbaudīt valsts noslēpumu saturošu informāciju, administratīvajā aktā šādu informāciju neatspoguļo.

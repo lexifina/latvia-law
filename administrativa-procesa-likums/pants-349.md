@@ -15,4 +15,5 @@
 (4) Motīvu daļā norāda:
 1) noraidot kasācijas sūdzību - argumentus, kuru dēļ sūdzība noraidīta;
 2) apmierinot kasācijas sūdzību - argumentus par apelācijas instances tiesas pieļautajiem tiesību normu pārkāpumiem, tiesību normu nepareizu piemērošanu vai kompetences robežu pārkāpumu.
+Ja tiesa, izskatot lietu, atzīst, ka zemākās instances tiesas spriedumā ietvertais pamatojums ir pareizs un pilnībā pietiekams, tā sprieduma motīvu daļā var norādīt, ka pievienojas zemākās instances tiesas sprieduma motivācijai. Šādā gadījumā izvērstāks argumentu izklāsts nav nepieciešams.
 (5) Rezolutīvajā daļā norāda Senāta nolēmumu saskaņā ar šā likuma 348.panta attiecīgo punktu.

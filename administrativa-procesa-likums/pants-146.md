@@ -4,3 +4,4 @@
 (3) Trešajai personai ar patstāvīgiem prasījumiem ir pieteicēja tiesības un pienākumi.
 (4) Trešajai personai, kas nepiesaka patstāvīgus prasījumus, ir pieteicēja un atbildētāja procesuālās tiesības un pienākumi, izņemot tiesības grozīt pieteikuma pamatu vai priekšmetu, atteikties no prasījuma, atzīt prasījumu, kā arī prasīt tiesas sprieduma izpildi.
 (5) Iesniegumā par trešās personas pieaicināšanu un trešās personas iesniegumā par iestāšanos lietā pieteicēja vai atbildētāja pusē norāda, kādēļ trešā persona pielaižama piedalīties lietā.
+(6) Ja administratīvajā lietā kā trešās personas ar tādu pašu subjektīvo tiesību vai interesi (204.panta piektā daļa) ir pieaicinātas vairāk nekā 10 personas, šīm personām ir pienākums savu interešu pārstāvībai noteikt vienu kopīgu pārstāvi.

@@ -1,0 +1,1 @@
+3. Lietās, kurās attiecīgās instances tiesa ir noteikusi tiesas sēdes dienu sprieduma pasludināšanai un nav pasludinājusi spriedumu līdz 2006.gada 1.decembrim, pasludina spriedumu saskaņā ar tām Administratīvā procesa likuma normām, kas bija spēkā dienā, kad attiecīgās instances tiesa noteica tiesas sēdes dienu sprieduma pasludināšanai.

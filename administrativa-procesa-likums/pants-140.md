@@ -1,5 +1,5 @@
-140.pants. Procesuālo sankciju veidi
-Šajā likumā noteiktajos gadījumos tiesa var piemērot šādas procesuālās sankcijas:
+140.pants. Procesuālo piespiedu līdzekļu veidi
+Šajā likumā noteiktajos gadījumos tiesa var piemērot šādus procesuālos piespiedu līdzekļus:
 1) brīdinājumu;
 2) izraidīšanu no sēžu zāles;
 3) piespiedu naudu;

@@ -1,0 +1,1 @@
+5. Ministru kabinets līdz 2007.gada 1.novembrim sagatavo un iesniedz Saeimai atzinumu (izvērtējumu) par to, kuros likumos ir saglabājama vai ietverama norāde, ka administratīvā akta apstrīdēšana vai pārsūdzēšana neaptur administratīvā akta darbību vai izpildi.

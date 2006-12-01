@@ -1,4 +1,4 @@
 114.pants. Rakstveida process
-(1) Tiesa var izspriest lietu bez tiesas sēdes, ja lietā esošie dokumenti ir pietiekami un tam rakstveidā piekrituši administratīvā procesa dalībnieki.
-(2) (Izslēgta ar 15.01.2004. likumu.)
-(3) Ja administratīvā procesa dalībnieks piekritis lietas izskatīšanai rakstveida procesā, uzskatāms, ka viņš piekritis rakstveida procesam arī nākamajās tiesu instancēs. Piekrišana rakstveida procesam neliedz administratīvā procesa dalībniekam nākamajā tiesu instancē prasīt lietas iztiesāšanu mutvārdu procesā.
+(1) Ja lietā esošie dokumenti ir pietiekami un tam rakstveidā piekritis pieteicējs, trešā persona un šā likuma 29.pantā minētais tiesību subjekts, tiesa var izspriest lietu bez tiesas sēdes (rakstveida procesā). Lietās par publisko tiesību līguma atbilstību tiesību normām, tā spēkā esamību un izpildes pareizību gadījumos, kad atbildētājs ir privātpersona, nepieciešama arī atbildētāja piekrišana rakstveida procesam.
+(2) Ja administratīvā procesa dalībnieks piekritis lietas izskatīšanai rakstveida procesā, uzskatāms, ka viņš piekritis rakstveida procesam arī nākamajās tiesu instancēs. Piekrišana rakstveida procesam neliedz administratīvā procesa dalībniekam nākamajā tiesu instancē prasīt lietas iztiesāšanu mutvārdu procesā.
+(3) Ja tiesa uzskata, ka jautājumu, kura izlemšana saskaņā ar likumu noteikta rakstveida procesā, lietderīgāk izskatīt tiesas sēdē, tā var noteikt šā jautājuma izskatīšanu mutvārdu procesā.

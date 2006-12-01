@@ -1,3 +1,3 @@
-265.pants. Nekavējoties izpildāmie spriedumi
-(1) Tiesa pēc pieteicēja lūguma spriedumā var noteikt, ka tas izpildāms nekavējoties pilnībā vai daļā.
-(2) Sprieduma izpilde nekavējoties pieļaujama tad, ja sevišķu apstākļu dēļ sprieduma izpildes novilcināšana var radīt ievērojamus zaudējumus pieteicējam vai arī sprieduma izpilde var kļūt neiespējama.
+265.pants. Nekavējoties izpildāmi spriedumi
+(1) Pamatojoties uz pieteicēja lūgumu, tiesa var noteikt, ka spriedums pilnībā vai daļā izpildāms nekavējoties, ja sevišķu apstākļu dēļ sprieduma izpildes novilcināšana var radīt ievērojamus zaudējumus pieteicējam vai arī sprieduma izpilde var kļūt neiespējama.
+(2) Ja tas paredzēts likumā, tiesa pati nosaka, ka spriedums pilnībā vai daļā izpildāms nekavējoties.

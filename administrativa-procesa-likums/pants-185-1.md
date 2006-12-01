@@ -1,0 +1,4 @@
+185.¹ pants. Kārtība, kādā izlemjams lūgums par administratīvā akta vai faktiskās rīcības darbības apturēšanu vai atjaunošanu
+(1) Tiesa lūgumu par administratīvā akta vai faktiskās rīcības darbības apturēšanu vai administratīvā akta darbības atjaunošanu izskata rakstveida procesā.
+(2) Tiesa, izlemjot lūgumu par administratīvā akta vai faktiskās rīcības darbības apturēšanu vai administratīvā akta darbības atjaunošanu, ņem vērā to, vai pārsūdzētais administratīvais akts ir pirmšķietami (prima facie) prettiesisks.
+(3) Tiesa var atteikties pieņemt izskatīšanai lūgumu par administratīvā akta darbības apturēšanu vai atjaunošanu, ja lūgums iesniegts atkārtoti un no tā neizriet, ka jautājuma izlemšanai būtiskie faktiskie vai tiesiskie apstākļi mainījušies. Par šādu tiesas lēmumu var iesniegt blakus sūdzību.

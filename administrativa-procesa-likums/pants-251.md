@@ -7,6 +7,6 @@
 1) lietā konstatētos faktus, pierādījumus, uz kuriem pamatoti tiesas secinājumi, un argumentus, ar kuriem noraidīti vieni vai otri pierādījumi;
 2) tiesību normas, uz kurām tiesa pamatojusies;
 3) konstatēto lietas apstākļu juridisko novērtējumu;
-4) atsauces uz publicētiem tiesas spriedumiem un juridisko literatūru, kā arī citu speciālo literatūru, ko tiesa izmantojusi savā argumentācijā;
+4) atsauces uz tiesas spriedumiem un juridisko literatūru, kā arī citu speciālo literatūru, ko tiesa izmantojusi savā argumentācijā;
 5) tiesas secinājumus par pieteikuma pamatotību.
 (6) Rezolutīvajā daļā norāda tiesas spriedumu par pieteikuma apmierināšanu pilnībā vai daļā vai par tā noraidīšanu pilnībā vai daļā un sprieduma būtību. Turklāt norāda, kam jāmaksā valsts nodeva, šā likuma 253., 254. un 255.pantā minētos termiņus, kā arī sprieduma pārsūdzēšanas termiņu un kārtību.
