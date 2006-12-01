@@ -1,2 +1,2 @@
 16.nodaļa
-Procesuālās sankcijas
+Procesuālie piespiedu līdzekļi
