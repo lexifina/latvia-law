@@ -4,7 +4,7 @@
 1) organizators ir ievērojis visas šā likuma prasības;
 2) pasākums netraucēs citus pasākumus, par kuriem pieteikumi ir iesniegti jau iepriekš;
 3) pasākuma rīkošana paredzētajā laikā un vietā neradīs būtiskus transporta vai gājēju kustības traucējumus, neapdraudēs sabiedrisko drošību vai sabiedrisko kārtību.
-(4) Pēc tam, kad pašvaldības amatpersona izskatījusi pieteikumu par sapulces, gājiena vai piketa rīkošanu, tā ne agrāk kā 10 dienas un ne vēlāk kā 48 stundas pirms pasākuma sākuma veic vienu no šādām darbībām:
+(4) Pēc tam, kad pašvaldības amatpersona izskatījusi pieteikumu par sapulces, gājiena vai piketa rīkošanu, tā veic vienu no šādām darbībām:
 1) izsniedz izziņu, kas apliecina, ka pašvaldībai nav iebildumu pret pasākuma rīkošanu;
 2) izsniedz izziņu, kas apliecina, ka pašvaldībai nav iebildumu pret pasākuma rīkošanu, nosakot ierobežojumus pasākuma rīkošanai;
 3) izsniedz motivētu atteikumu.
