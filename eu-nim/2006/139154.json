@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2006.gada 12.decembra noteikumi Nr.998 \"Grozījumi Ministru kabineta 2004.gada 20.janvāra noteikumos Nr.44 “Noteikumi par darba atļaujām ārzemniekiem”\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "200",
+  "official_journal_page": null,
+  "official_journal_date": "2006-12-15",
+  "entry_into_force": "2006-12-16",
+  "notification_date": "2006-12-22",
+  "commission_reference": "MNE(2006)58774",
+  "nim_celex": "72004L0114LVA_139154",
+  "nim_id": "139154",
+  "transposes_celex": [
+    "32004L0114"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9811d6bc-4ef9-4bde-b51c-65f577bb2b9a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
