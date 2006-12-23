@@ -1,0 +1,31 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2002.gada 9.jūlija noteikumos Nr.294 \"Kārtība, kādā piesakāmas A, B un C kategorijas piesārņojošas darbības un izsniedzamas atļaujas A un B kategorijas piesārņojošo darbību veikšanai\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "204",
+  "official_journal_page": null,
+  "official_journal_date": "2006-12-22",
+  "entry_into_force": "2006-12-23",
+  "notification_date": "2007-01-05",
+  "commission_reference": "MNE(2007)50079",
+  "nim_celex": "71975L0442LVA_139860",
+  "nim_id": "139860",
+  "transposes_celex": [
+    "31975L0442",
+    "31980L0068",
+    "31985L0337",
+    "31991L0271",
+    "31991L0689",
+    "31996L0061",
+    "31999L0031",
+    "32000L0060",
+    "32000L0076",
+    "32003L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/269cd799-26bc-4876-b067-83d70fc7efcb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
