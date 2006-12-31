@@ -1,7 +1,10 @@
 21.pants. Zinātniskais institūts
-(1) Valsts vai pašvaldības, valsts vai pašvaldības augstskolas, kā arī Latvijas Zinātņu akadēmijas dibinātie zinātniskie institūti darbojas kā publiskas aģentūras. To tiesisko pamatu, pārvaldi, finansēšanas un uzraudzības kārtību nosaka šis likums un Publisko aģentūru likums, ciktāl tas nav pretrunā ar šo likumu.
-(2) Lēmumu par valsts zinātniskā institūta dibināšanu, reorganizāciju vai likvidēšanu pieņem Ministru kabinets pēc izglītības un zinātnes ministra vai attiecīgās nozares ministra ierosinājuma un Latvijas Zinātnes padomes sniegtā atzinuma. Valsts zinātniskais institūts atrodas attiecīgās nozares ministrijas pārraudzībā, un tā nosaukumā ietver vārdu "valsts".
-(3) Zinātniskais institūts veic zinātnisko darbību, kā arī ar zinātniskās kvalifikācijas iegūšanu un pilnveidošanu saistītu darbību dibinātāja noteiktajā zinātnisko pētījumu nozarē.
-(4) Zinātniskā institūta darbības materiālo pamatu veido tā valdījumā vai lietošanā nodota mantas daļa. Rīcību ar zinātniskajam institūtam nošķirto mantu nosaka Publisko aģentūru likums, citi normatīvie akti un attiecīgā institūta nolikums.
-(5) Zinātniskais institūts akadēmisko mērķu sasniegšanā ir brīvs no dibinātāja ietekmes. Zinātniskais institūts normatīvajos aktos noteiktajā kārtībā un atbilstoši savam nolikumam rīkojas ar tā rīcībā nodoto mantu un finanšu līdzekļiem, izsludina konkursus, slēdz līgumus, nosaka maksu par sniegtajiem pakalpojumiem pētniecības un kvalifikācijas pilnveidošanas jomā.
-(6) Zinātnisko institūtu var izveidot kā dibinātāja institūcijas struktūrvienību. Šāda zinātniskā institūta tiesisko pamatu, pārvaldi, finansēšanas un uzraudzības kārtību, kā arī citus ar tā darbību saistītus jautājumus nosaka dibinātāja nolikums, statūti vai satversme. Zinātnisko institūtu, kas izveidots kā dibinātāja institūcijas struktūrvienība, reģistrē zinātnisko institūciju reģistrā neatkarīgi no tā, vai šajā reģistrā ir reģistrēta dibinātāja institūcija.
+(1) Zinātniskais institūts veic zinātnisko darbību, kā arī ar zinātniskās kvalifikācijas iegūšanu un pilnveidošanu saistītas darbības tā izveidotāja noteiktajā zinātnisko pētījumu nozarē. Zinātniskais institūts akadēmisko mērķu sasniegšanā ir brīvs no izveidotāja ietekmes.
+(2) Zinātniskais institūts var būt:
+1) publiska aģentūra;
+2) atvasināta publiska persona;
+3) valsts augstskolas struktūrvienība;
+4) privāto tiesību juridiska persona vai tās struktūrvienība.
+(3) Valsts zinātnisko institūtu izveidošanai, reorganizēšanai un likvidēšanai nepieciešams Latvijas Zinātnes padomes atzinums.
+(4) Valsts zinātniskais institūts ir izveidots kā valsts aģentūra vai atvasināta publiska persona. Valsts zinātniskais institūts atrodas izglītības un zinātnes ministra vai attiecīgās nozares ministra pārraudzībā. Valsts zinātniskā institūta nosaukumā ietver apzīmētāju "valsts".
+(5) Šā panta otrās daļas 2.punktā minētais zinātniskais institūts normatīvajos aktos noteiktajā kārtībā un atbilstoši institūta nolikumam rīkojas ar tā rīcībā nodoto mantu un finanšu līdzekļiem, izsludina konkursus, slēdz līgumus, nosaka maksu par sniegtajiem pakalpojumiem pētniecības un kvalifikācijas pilnveidošanas jomā.

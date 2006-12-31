@@ -1,3 +1,4 @@
 33.pants. Zinātniskās darbības finansēšana no valsts budžeta līdzekļiem
-(1) Valsts budžeta līdzekļus zinātniskajai darbībai var piešķirt tikai zinātnisko institūciju reģistrā reģistrētajām institūcijām.
+(1) Valsts budžeta līdzekļus zinātniskajai darbībai var piešķirt zinātnisko institūciju reģistrā reģistrētajām institūcijām. Komersantiem valsts budžeta līdzekļus valsts atbalsta veidā piešķir projektu īstenošanai pētniecības, tehnoloģiju attīstības un inovāciju jomā saskaņā ar attiecīgajām valsts atbalsta programmām.
 (2) Ministru kabinets, iesniedzot Saeimai gadskārtējo likumu par valsts budžetu, paredz ikgadēju finansējuma pieaugumu zinātniskajai darbībai ne mazāku par 0,15procentiem no iekšzemes kopprodukta, līdz valsts piešķirtais finansējums zinātniskajai darbībai sasniedz vismaz vienu procentu no iekšzemes kopprodukta.
+(3) Kārtību, kādā piešķir valsts atbalstu zinātnisko institūciju reģistrā reģistrētajām institūcijām, kā arī komersantiem projektu īstenošanai pētniecības, tehnoloģiju attīstības un inovāciju jomā, nosaka Ministru kabinets.

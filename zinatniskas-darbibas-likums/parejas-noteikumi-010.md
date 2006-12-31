@@ -1,0 +1,1 @@
+10. Šā likuma pārejas noteikumu 8.punktā minēto zinātnisko institūtu ievēlētā zinātniskā padome uzskatāma par zinātniskā institūta - atvasinātas publiskas personas - lēmējorgānu. Zinātniskā institūta direktors turpina pildīt pienākumus, līdz zinātniskā padome šajā likumā noteiktajā kārtībā ievēlē citu institūta direktoru, bet ne ilgāk kā līdz 2007.gada 1.martam.

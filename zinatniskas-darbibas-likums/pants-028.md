@@ -2,7 +2,7 @@
 (1) Reģistrā par zinātnisko institūciju norāda šādas ziņas:
 1) zinātniskās institūcijas nosaukums;
 2) zinātniskās institūcijas juridiskā adrese;
-3) zinātniskās institūcijas dibinātājs un vadītājs;
+3) zinātniskās institūcijas izveidotājs un vadītājs;
 4) zinātniskās institūcijas juridiskais statuss;
 5) datums, kad pieņemts lēmums par zinātniskās institūcijas dibināšanu;
 6) zinātniskās institūcijas tālruņa un faksa numurs, elektroniskā pasta adrese;
