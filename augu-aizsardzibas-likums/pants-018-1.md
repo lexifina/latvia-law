@@ -1,0 +1,10 @@
+18.¹ pants. Invazīvo augu sugas un to izplatības ierobežošana
+(1) Invazīvo augu sugu var iekļaut invazīvo augu sugu sarakstā, ja šī suga ir iekļauta Eiropas un Vidusjūras augu aizsardzības organizācijas apstiprinātajā invazīvo augu sugu sarakstā vai iesniedzot attiecīgu priekšlikumu Ministru kabineta noteiktajā kārtībā.
+(2) Latvijā aizliegts ievest invazīvo augu sugu sarakstā iekļautās augu sugas. Ministru kabinets nosaka valsts institūciju, kas uz valsts robežas kontrolē invazīvo augu sugu ievešanu.
+(3) Latvijā aizliegts audzēt invazīvo augu sugu sarakstā iekļautās augu sugas. Zemes īpašnieka vai valdītāja pienākums ir šīs invazīvās augu sugas iznīcināt, ja tās izplatījušās zemē, kas atrodas viņa īpašumā vai valdījumā.
+(4) Valsts augu aizsardzības dienests veic invazīvo augu sugu izplatības valsts uzraudzību un kontroli.
+(5) Invazīvo augu sugu iznīcināšana visās teritorijās, kurās tās izplatījušās, kā arī šīm teritorijām piegulošajās teritorijās uzsākama un veicama vienā sezonā. Par piegulošajām teritorijām uzskatāmas tādas teritorijas, kuras no apkārtējās teritorijas ir norobežotas ar dabiskiem šķēršļiem (ceļš, ūdenstece, mežs u.tml.), kas traucē minēto augu sugu tālāku izplatību.
+(6) Atsevišķu invazīvo augu sugu izplatības ierobežošanas pasākumu īstenošanai Ministru kabineta noteiktajā kārtībā iesaista rajona un vietējās pašvaldības. Invazīvo augu sugu izplatības ierobežošanas pasākumu īstenošanai rajona pašvaldība:
+1) pieņem lēmumu par Ministru kabineta noteikto invazīvo augu sugu izplatības ierobežošanas pasākumiem attiecīgā rajona teritorijā un publicē to laikrakstā "Latvijas Vēstnesis";
+2) izveido ekspertu grupu, kuras sastāvā iekļauj Valsts augu aizsardzības dienesta pārstāvi. Ekspertu grupa izstrādā attiecīgā rajona invazīvo augu sugu izplatības ierobežošanas pasākumu plānu;
+3) organizē un koordinē sadarbībā ar Valsts augu aizsardzības dienestu invazīvo augu sugu ierobežošanas pasākumu veikšanu, ja zemes īpašnieks vai valdītājs neveic invazīvo augu sugu izplatības ierobežošanas pasākumus.

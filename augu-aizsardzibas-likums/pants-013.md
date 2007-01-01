@@ -1,5 +1,5 @@
 13.pants. Personu reģistrācija
-(1) Personas, kas nodarbojas ar fitosanitārajai kontrolei pakļauto augu audzēšanu, augu un augu produktu pārstrādi, uzglabāšanu, ievešanu, tirdzniecību, eksportu un pārvietošanu valsts iekšienē, reģistrējas Valsts augu aizsardzības dienestā.
+(1) Personas, kas nodarbojas ar fitosanitārajai kontrolei pakļauto augu audzēšanu, augu un augu produktu pārstrādi, uzglabāšanu, ievešanu, tirdzniecību, eksportu un pārvietošanu valsts iekšienē, reģistrējas Valsts augu aizsardzības dienestā. Par iesnieguma izvērtēšanu personas reģistrācijai vai izmaiņu veikšanu fitosanitārajai kontrolei pakļauto augu un augu produktu apritē iesaistīto personu reģistrā maksājama valsts nodeva Ministru kabineta noteiktajā kārtībā.
 (2) Reģistrēto personu pienākums ir:
 1) glabāt ar augiem un augu produktiem saistīto dokumentāciju un pēc pieprasījuma uzrādīt to Valsts augu aizsardzības dienesta inspektoriem;
 2) vizuāli pārbaudīt augus un augu produktus un par augu karantīnas organismu vai citu nepazīstamu organismu vai simptomu parādīšanos nekavējoties informēt Valsts augu aizsardzības dienestu;
