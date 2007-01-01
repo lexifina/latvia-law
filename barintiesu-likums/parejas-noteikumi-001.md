@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par bāriņtiesām un pagasttiesām" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 1.nr.; 1997, 3., 23.nr.; 2001, 13.nr.; 2002, 22.nr.; 2003, 17.nr.; 2004, 12.nr.; 2005, 9.nr.; 2006, 1.nr.).

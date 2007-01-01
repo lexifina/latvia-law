@@ -1,0 +1,1 @@
+5. Līdz 2007.gada 31.janvārim pagasttiesas pārdēvē par bāriņtiesām. Līdz 2007.gada 31.janvārim pagasttiesām, kuras nav pārdēvētas par bāriņtiesām, ir saistoši šā likuma un citu normatīvo aktu noteikumi, kas attiecināmi uz bāriņtiesām.

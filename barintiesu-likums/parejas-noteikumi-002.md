@@ -1,0 +1,1 @@
+2. Bāriņtiesas priekšsēdētājam, bāriņtiesas priekšsēdētāja vietniekam vai bāriņtiesas loceklim, kuram šā likuma spēkā stāšanās dienā nav tā 10.panta pirmajā un otrajā daļā noteiktās izglītības, ir tiesības turpināt pienākumu pildīšanu līdz ievēlēšanas termiņa beigām.

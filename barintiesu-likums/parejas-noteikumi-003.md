@@ -1,0 +1,1 @@
+3. Šā likuma 15.pantā minētais amatu savienošanas ierobežojums neattiecas uz tiem bāriņtiesu priekšsēdētājiem, bāriņtiesu priekšsēdētāju vietniekiem vai bāriņtiesu locekļiem, kuri ir ievēlēti līdz šā likuma spēkā stāšanās dienai.

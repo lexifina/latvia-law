@@ -1,0 +1,2 @@
+71.pants. Paraksta īstuma apliecināšana
+Pirms paraksta īstuma apliecināšanas bāriņtiesas priekšsēdētājs, bāriņtiesas priekšsēdētāja vietnieks vai bāriņtiesas loceklis pārbauda parakstītāja identitāti, kā arī izdara ierakstu reģistrā. Apliecinot paraksta īstumu uz nostiprinājuma lūguma, Zemesgrāmatu likumā noteiktajos gadījumos bāriņtiesa pārbauda arī parakstītāja rīcībspēju un izdara par to atzīmi apliecinājuma uzrakstā.

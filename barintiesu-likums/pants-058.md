@@ -1,0 +1,4 @@
+58.pants. Atzinuma sniegšana tiesai
+(1) Atzinumu tiesai šā likuma 50.pantā minētajos gadījumos sniedz bāriņtiesa, kuras darbības teritorijā ir deklarēta bērna vecāku dzīvesvieta.
+(2) Ja bērna vecāku dzīvesvieta ir deklarēta dažādu pašvaldību administratīvajās teritorijās, atzinumu tiesai par saskarsmes tiesību izmantošanas kārtību un atsevišķas aizgādības noteikšanu sniedz katra vecāka dzīvesvietas bāriņtiesa.
+(3) Atzinumu tiesai par saskarsmes tiesību izmantošanas kārtību brāļiem, māsām, vecvecākiem, kā arī citām personām, ar kurām bērns ilgu laiku ir dzīvojis nedalītā saimniecībā, sniedz tā bāriņtiesa, kuras darbības teritorijā dzīvo bērns un vecāki. Minētā bāriņtiesa pieprasa lietas izskatīšanai nepieciešamo informāciju no tās personas dzīvesvietas bāriņtiesas, kura vērsusies tiesā ar prasību par saskarsmes tiesību izmantošanas kārtību.

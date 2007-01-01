@@ -1,0 +1,2 @@
+15.pants. Amatu savienošanas ierobežojumi
+Bāriņtiesas priekšsēdētājs un bāriņtiesas priekšsēdētāja vietnieks papildus likumā "Par interešu konflikta novēršanu valsts amatpersonu darbībā" noteiktajiem amatu savienošanas ierobežojumiem vienlaikus nedrīkst pildīt arī tās pašvaldības sociālā dienesta vadītāja vai sociālā darba speciālista pienākumus, kuras administratīvajā teritorijā atrodas attiecīgā bāriņtiesa.

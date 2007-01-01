@@ -1,0 +1,2 @@
+65.pants. Testamenta apliecināšana
+Taisot testamentu, bāriņtiesas priekšsēdētājs, bāriņtiesas priekšsēdētāja vietnieks vai bāriņtiesas loceklis, diviem lieciniekiem klātesot (Civillikuma 435. un 448.pants), nolasa testatoram sastādītā akta projektu un jautā, vai viņš piekrīt visiem akta noteikumiem un vai tāda patiesi ir viņa pēdējā griba. Ja atbilde ir apstiprinoša, testamentu paraksta testators un liecinieki un tiek izdarīts apliecinājums.

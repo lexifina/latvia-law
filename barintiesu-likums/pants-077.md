@@ -1,0 +1,2 @@
+77.pants. Ierobežojums izdarīt apliecinājumu
+Bāriņtiesas priekšsēdētājam, bāriņtiesas priekšsēdētāja vietniekam vai bāriņtiesas loceklim aizliegts izdarīt apliecinājumu savās paša lietās, sava laulātā (arī bijušā), savu un laulātā radinieku taisnā līnijā visās pakāpēs, sāņu līnijā - līdz ceturtajai pakāpei un svainiešu - līdz trešajai pakāpei, kā arī sava paša vai sava laulātā aizbildnībā vai aizgādnībā esošu personu vai sava paša vai sava laulātā adoptētāju vai adoptēto lietās.
