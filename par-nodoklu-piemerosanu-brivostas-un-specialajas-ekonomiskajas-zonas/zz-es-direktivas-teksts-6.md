@@ -1,0 +1,1 @@
+Akmeņogļu rūpniecības nozares kapitālsabiedrības šā likuma izpratnē ir kapitālsabiedrības, kuras iegūst vai ražo Padomes 2002.gada 23.jūlija regulas (EK) Nr. 1407/2002 par valsts atbalstu ogļu rūpniecībai 2.panta "a" apakšpunktā minētās ogles.

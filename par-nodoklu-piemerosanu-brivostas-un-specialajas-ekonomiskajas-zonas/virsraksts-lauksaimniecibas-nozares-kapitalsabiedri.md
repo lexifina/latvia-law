@@ -1,0 +1,1 @@
+Lauksaimniecības nozares kapitālsabiedrības

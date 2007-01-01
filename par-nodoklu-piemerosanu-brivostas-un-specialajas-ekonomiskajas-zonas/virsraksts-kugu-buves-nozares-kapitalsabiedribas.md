@@ -1,0 +1,1 @@
+Kuģu būves nozares kapitālsabiedrības

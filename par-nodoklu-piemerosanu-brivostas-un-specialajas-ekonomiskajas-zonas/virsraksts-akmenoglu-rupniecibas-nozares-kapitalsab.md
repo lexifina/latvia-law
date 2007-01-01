@@ -1,0 +1,1 @@
+Akmeņogļu rūpniecības nozares kapitālsabiedrības

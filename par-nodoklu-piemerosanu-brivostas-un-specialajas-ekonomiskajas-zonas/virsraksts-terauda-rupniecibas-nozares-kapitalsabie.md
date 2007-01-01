@@ -1,0 +1,1 @@
+Tērauda rūpniecības nozares kapitālsabiedrības

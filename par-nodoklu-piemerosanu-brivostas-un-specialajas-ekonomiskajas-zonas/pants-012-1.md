@@ -1,0 +1,2 @@
+12.¹ pants. Informācijas par tiešo nodokļu atlaižu piemērošanu glabāšana
+Zonas kapitālsabiedrība vai licencēta kapitālsabiedrība, kura saņem tiešo nodokļu atlaides šā likuma ietvaros, glabā datus par veiktajiem ieguldījumiem un saņemtajām tiešo nodokļu atlaidēm 10 gadus kopš gada, kurā pēdējoreiz zonas kapitālsabiedrība vai licencēta kapitālsabiedrība piemērojusi tiešo nodokļu atlaides saskaņā ar šā likuma nosacījumiem.

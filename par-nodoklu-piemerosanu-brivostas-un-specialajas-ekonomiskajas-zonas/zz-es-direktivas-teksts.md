@@ -1,1 +1,1 @@
-Likumā iekļauta atsauce uz Komisijas 2001.gada 12.janvāra regulu (EK) Nr. 70/2001 par Eiropas Kopienas dibināšanas līguma 87. un 88.panta piemērošanu, sniedzot valsts palīdzību mazajiem un vidējiem uzņēmumiem (publicēta "Eiropas Savienības Oficiālajā Vēstnesī" L 10, 13.01.2001.).
+Atbalstu šā likuma ietvaros sniedz saskaņā ar Eiropas Komisijas 2006.gada 24.oktobra regulu (EK) Nr. 1628/2006 par Eiropas Kopienas dibināšanas līguma 87. un 88.panta piemērošanu valstu reģionālajam ieguldījumu atbalstam (publicēta Eiropas Savienības Oficiālajā Vēstnesī L 302, 1.11.2006., 29.lpp.).

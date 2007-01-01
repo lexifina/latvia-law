@@ -1,0 +1,1 @@
+Transporta nozares kapitālsabiedrības

@@ -1,0 +1,1 @@
+Sintētisko šķiedru ražošanas nozares kapitālsabiedrības

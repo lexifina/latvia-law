@@ -1,0 +1,1 @@
+Zivsaimniecības nozares kapitālsabiedrības
