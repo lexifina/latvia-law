@@ -1,5 +1,5 @@
 11.pants
-(1) Pēc darbinieku prasījumu apmierināšanai izmaksājamo summu apstiprināšanas Maksātnespējas administrācija valsts sociālās apdrošināšanas obligātās iemaksas, iedzīvotāju ienākuma nodokli un kaitējuma atlīdzības summu par trim gadiem uz priekšu ieskaita normatīvajos aktos noteiktajos budžetos, bet darbiniekiem izmaksājamās summas pārskaita administratoram maksātnespējīgā darba devēja kontā tālākai samaksai darbiniekiem.
+(1) Pēc darbinieku prasījumu apmierināšanai izmaksājamo summu apstiprināšanas Maksātnespējas administrācija valsts sociālās apdrošināšanas obligātās iemaksas, iedzīvotāju ienākuma nodokli un kaitējuma atlīdzības summu par četriem gadiem uz priekšu ieskaita normatīvajos aktos noteiktajos budžetos, bet darbiniekiem izmaksājamās summas pārskaita administratoram maksātnespējīgā darba devēja kontā tālākai samaksai darbiniekiem.
 (2) Pēc tam, kad izmaksātas apstiprinātās darbinieku prasījumu summas, Maksātnespējas administrācija iegūst:
 1) prioritāro kreditoru pirmās kreditoru grupas kreditora tiesības saskaņā ar likumu "Par uzņēmumu un uzņēmējsabiedrību maksātnespēju";
 2) apmierinātā kreditora tiesības saskaņā ar Kredītiestāžu likumu vai Apdrošināšanas sabiedrību un to uzraudzības likumu.
