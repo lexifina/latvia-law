@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ieguldījumu fondu pārskatu sagatavošanas noteikumi",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "198",
+  "official_journal_page": null,
+  "official_journal_date": "2006-12-13",
+  "entry_into_force": "2007-01-01",
+  "notification_date": "2008-02-18",
+  "commission_reference": "MNE(2008)50929",
+  "nim_celex": "71985L0611LVA_153414",
+  "nim_id": "153414",
+  "transposes_celex": [
+    "31985L0611"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ffde8ba1-40a4-4c81-abad-bfbb533a4cea",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
