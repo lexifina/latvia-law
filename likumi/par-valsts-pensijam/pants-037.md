@@ -1,3 +1,4 @@
 37.pants. Sakarā ar pensijas saņēmēja nāvi nesaņemtās pensijas un apbedīšanas pabalsta izmaksāšana
-(1) Izmaksai aprēķinātās pensijas summas, kas nav izmaksātas līdz pensionāra nāvei, ir tiesības saņemt pensijas saņēmēja laulātajam un visiem pirmās un otrās pakāpes radiniekiem.
+(1) Izmaksai aprēķinātās pensijas summas, kas nav izmaksātas līdz pensionāra nāvei, ir tiesības saņemt pensijas saņēmēja laulātajam, pirmās un otrās pakāpes radiniekiem, bet citai personai - uz mantojuma apliecības vai tiesas nolēmuma pamata.
 (2) Pensijas saņēmēja nāves gadījumā viņa ģimenei vai personai, kas uzņēmusies apbedīšanu, izmaksā apbedīšanas pabalstu divu mēnešu pensijas apmērā.
+(3) Pensijas saņēmēja nāves gadījumā pārdzīvojušajam laulātajam, pamatojoties uz viņa pieprasījumu, piešķir un izmaksā vienreizēju pabalstu mirušā laulātā divu pensiju apmērā. Tiesības uz vienreizējo pabalstu ir tad, ja mirušā laulātā nāves dienā pārdzīvojušais laulātais arī ir šajā likumā noteiktās pensijas saņēmējs un nāve iestājusies pēc 2007.gada 1.janvāra.

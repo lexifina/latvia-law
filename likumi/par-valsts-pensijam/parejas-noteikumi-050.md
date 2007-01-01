@@ -1,0 +1,1 @@
+50. Attiecībā uz personām, kuras laika posmā no 2007.gada 1.janvāra līdz 2007.gada 28.februārim pieprasījušas vecuma pensijas pārrēķināšanu saskaņā ar šā likuma 24.pantu vai vecuma pensijas piešķiršanu no jauna saskaņā ar šo pārejas noteikumu 46.punktu, Valsts sociālās apdrošināšanas aģentūras nodaļas amatpersona pieņem lēmumu laikā no 2007.gada 1.marta līdz 31.martam.
