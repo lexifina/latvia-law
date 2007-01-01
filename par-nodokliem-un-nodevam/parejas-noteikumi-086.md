@@ -1,0 +1,1 @@
+86. Līdz jaunu šā likuma 30.pantā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2007.gada 1.jūlijam piemērojami Ministru kabineta 2001.gada 24.jūlija noteikumi Nr.329 "Skaidrā naudā veikto darījumu deklarēšanas noteikumi", ciktāl tie nav pretrunā ar šo likumu.

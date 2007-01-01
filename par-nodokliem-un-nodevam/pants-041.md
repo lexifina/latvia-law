@@ -7,4 +7,4 @@
 (3) Šā panta otrās daļas 1. un 2.punktā noteiktajos gadījumos nodokļu maksātājs iesniegumu par iespējamā vienošanās līguma noslēgšanu Valsts ieņēmumu dienesta ģenerāldirektoram iesniedz 30 dienu laikā pēc attiecīgā lēmuma saņemšanas.
 (4) Izlemjot jautājumu par vienošanās līguma noslēgšanu, ņem vērā nodokļu parāda rašanās iemeslus un apmēru, kā arī strīda turpināšanas lietderību un ar to saistītās izmaksas.
 (5) Ja nodokļu maksātājs nepilda vienošanās līguma noteikumus, nodokļu administrācija veic nokavēto nodokļu maksājumu piedziņu normatīvajos aktos noteiktajā kārtībā.
-(6) Vienošanās līgums netiek noslēgts, ja nodokļu administrācija ir iesniegusi materiālus jautājuma izlemšanai par krimināllietas ierosināšanu.
+(6) Vienošanās līgums netiek noslēgts, ja nodokļu administrācija ir iesniegusi materiālus jautājuma izlemšanai par kriminālprocesa uzsākšanu.

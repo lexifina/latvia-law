@@ -1,0 +1,4 @@
+33.² pants. Nodokļu maksātāja tiesības precizēt nodokļu administrācijai iesniegtās nodokļu deklarācijas
+Nodokļu maksātājam ir tiesības precizēt iesniegtās nodokļu deklarācijas un iemaksāt budžetā samazināto nodokļa summu un ar to saistīto nokavējuma naudu par periodu no minētās nodokļa summas maksāšanas termiņa, kas noteikts konkrētā nodokļa likumā, līdz samaksas dienai. Ja nodokļu maksātājs nodokļu deklarācijas precizējumu un deklarācijā precizēto nodokļa maksājumu veic:
+1) pirms saņemts nodokļu administrācijas paziņojums par nodokļu revīzijas (audita) uzsākšanu, nokavējuma naudu piemēro šā likuma 29.panta otrajā daļā noteiktajā apmērā;
+2) pēc tam, kad saņemts nodokļu administrācijas paziņojums par nodokļu revīzijas (audita) uzsākšanu, un līdz nodokļu revīzijas (audita) uzsākšanas dienai, nokavējuma naudu piemēro šā likuma 29.panta otrajā daļā noteiktajā apmērā un soda naudu - 10 procentu apmērā no samazinātās nodokļa summas.

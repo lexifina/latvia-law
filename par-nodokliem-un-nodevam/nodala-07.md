@@ -1,2 +1,2 @@
 VII nodaļa
-Atbildība par nodokļu likumu pārkāpšanu
+Atbildība par nodokļu pārkāpumiem

@@ -15,10 +15,10 @@
 (7) Tiks uzskatīts, ka nerezidentam (ārvalsts komersantam) ir pastāvīgā pārstāvniecība Latvijā, ja vienlaikus ir ievēroti visi turpmāk minētie noteikumi:
 1) nerezidents (ārvalsts komersants) Latvijā izmanto noteiktu darbības vietu;
 2) darbības vieta tiek izmantota pastāvīgi vai ir izveidota nolūkā to izmantot pastāvīgi;
-3) darbības vieta tiek izmantota uzņēmējdarbības (komercdarbības) veikšanai.
+3) darbības vieta tiek izmantota saimnieciskās darbības veikšanai.
 (8) Papildus septītajā daļā minētajam tiks uzskatīts, ka nerezidentam (ārvalsts komersantam) ir pastāvīgā pārstāvniecība Latvijā, ja nerezidents (ārvalsts komersants) Latvijā veic vismaz vienu no turpmāk minētajām darbībām:
 1) izmanto būvlaukumu vai veic celtniecības, montāžas vai instalācijas darbus, vai veic ar būvlaukumu vai minētajiem darbiem saistītu uzraudzības vai konsultatīvo darbību;
 2) izmanto dabas resursu pētīšanai vai iegūšanai paredzēto aprīkojumu vai iekārtas, urbšanas platformas un speciālos kuģus vai veic ar tiem saistīto pārraudzības vai konsultatīvo darbību;
 3) laika posmā vai laika posmos, kas kopumā pārsniedz 30 dienas jebkurā sešu mēnešu periodā, sniedz pakalpojumus, to skaitā konsultatīvos, vadības un tehniskos pakalpojumus, izmantojot savus darbiniekus vai piesaistīto personālu;
-4) izmanto fiziskās, juridiskās vai citas personas darbību savas uzņēmējdarbības (komercdarbības) vajadzībām, ja minētajai personai ir piešķirtas un tā regulāri (vairāk nekā vienu reizi taksācijas periodā) izmanto pilnvaras noslēgt līgumus ārvalstu uzņēmuma vārdā.
+4) izmanto fiziskās, juridiskās vai citas personas darbību savas saimnieciskās darbības vajadzībām, ja minētajai personai ir piešķirtas un tā regulāri (vairāk nekā vienu reizi taksācijas periodā) izmanto pilnvaras noslēgt līgumus nerezidenta (ārvalsts komersanta) vārdā.
 (9) Nerezidenta (ārvalsts komersanta) pastāvīgā pārstāvniecība Latvijā maksā nodokļus saskaņā ar Latvijas Republikas likumiem par Latvijas Republikā, tās teritoriālajos ūdeņos, ekskluzīvajā ekonomiskajā zonā un gaisa telpā gūto ienākumu, par ārvalstīs gūto ienākumu, kas attiecināms uz šo pārstāvniecību, kā arī citus nodokļus atbilstoši konkrēto nodokļu likumiem.

@@ -1,0 +1,1 @@
+87. Nodokļu maksātāji līdz 2006.gada 31.decembrim Valsts ieņēmumu dienestā iegādātās stingrās uzskaites pavadzīmes-rēķinus darījumu noformēšanai pēc izvēles var izmantot līdz 2008.gada 1.janvārim. Stingrās uzskaites pavadzīmes-rēķinus noformē un lieto, ievērojot Ministru kabineta 2003.gada 25.jūnija noteikumus Nr.339 "Noteikumi par stingrās uzskaites preču pavadzīmēm-rēķiniem".
