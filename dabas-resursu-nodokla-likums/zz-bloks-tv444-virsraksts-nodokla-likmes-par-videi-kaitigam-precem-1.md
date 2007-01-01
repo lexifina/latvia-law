@@ -1,10 +1,11 @@
 Nr. p.k.
 Preces veids
-Mērvienība
-Likme
-laikposmā no 2006.gada 1.janvāra līdz 2006.gada 30.jūnijam (Ls)
-Likme
-laikposmā no 2006.gada 1.jūlija
+Mēr-
+vie-
+nība
+Likme laikposmā no 2006.gada 1.janvāra līdz 2006.gada 30.jūnijam (Ls)
+Likme laikposmā no 2006.gada 1.jūlija
+līdz 2006.gada 31.decembrim
 (Ls)
 1.
 Smēreļļas
@@ -15,22 +16,22 @@ kg
 Strāvas akumulatori un ķīmiskie strāvas avoti (svina):
 2.1.
 līdz 50 Ah
-gabals
+gab.
 1,50
 1,50
 2.2.
 no 51 līdz 100 Ah
-gabals
+gab.
 3,00
 3,00
 2.3.
 no 101 līdz 150 Ah
-gabals
+gab.
 4,50
 4,50
 2.4.
 no 151 un vairāk Ah
-gabals
+gab.
 6,00
 6,00
 2.5.
@@ -39,10 +40,8 @@ no vērtības latos
 15 %
 20 %
 3.
-Ozona slāni noārdošās vielas (freoni, haloni un citas)
-kg/onp
-(ozona
-noārdīšanas potenciāls)
+Ozona slāni noārdošās vielas (freoni, haloni un citas) (onp - ozona noārdīšanas potenciāls)
+kg onp
 1,00
 1,00
 4.
@@ -52,18 +51,18 @@ kg
 0,10
 5.
 Eļļas filtri
-gabals
+gab.
 0,10
 0,10
 6.
 Elektriskās un elektroniskās iekārtas atbilstoši Atkritumu apsaimniekošanas likuma 20.¹ panta pirmajai daļai:
 6.1.
-liela izmēra mājsaimniecības iekārtas (izņemot liela izmēra dzesēšanas iekārtas, saldētavas un ledusskapjus)
+liela izmēra mājsaimniecības iekārtas (izņemot liela izmēra dzesēšanas iekārtas, saldētavas, ledusskapjus)
 kg
 0
 0,65
 6.2.
-liela izmēra dzesēšanas iekārtas, saldētavas un ledusskapji
+liela izmēra dzesēšanas iekārtas, saldētavas, ledusskapji
 kg
 0
 1,05
@@ -73,7 +72,7 @@ kg
 0
 1,35
 6.4.
-informācijas tehnoloģijas un elektronisko sakaru iekārtas (izņemot monitorus un mobilos telefonus)
+informācijas tehnoloģijas un elektronisko sakaru iekārtas (izņemot monitorus, mobilos telefonus)
 kg
 0
 1,35
@@ -104,11 +103,11 @@ kg
 1,35
 6.10.
 dzīvsudrabu saturošas spuldzes
-gabals
+gab.
 0,10
 0,40
 6.11.
-apgaismes iekārtas (izņemot dzīvsudrabu saturošas spuldzes)
+apgaismes ķermeņi (izņemot dzīvsudrabu saturošas spuldzes)
 kg
 0
 1,00

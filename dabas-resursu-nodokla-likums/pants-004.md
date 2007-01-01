@@ -7,7 +7,8 @@
 5) videi kaitīgas preces atbilstoši šā likuma 6.pielikumam;
 6) preču un izstrādājumu iepakojumu (turpmāk arī - iepakojums) un vienreiz lietojamos galda traukus un piederumus atbilstoši šā likuma 7.pielikumam. Ar nodokli apliek arī to iepakojumu, ko pakalpojumu sniedzējs pievieno izstrādājumiem un kas pēc pakalpojuma sniegšanas nonāk pie pakalpojuma saņēmēja;
 7) radioaktīvās vielas atbilstoši šā likuma 8.pielikumam;
-8) transportlīdzekļus, uz kuriem attiecas Nolietotu transportlīdzekļu apsaimniekošanas likuma 3.panta pirmā daļa.
+8) transportlīdzekļus, uz kuriem attiecas Nolietotu transportlīdzekļu apsaimniekošanas likuma 3.panta pirmā daļa;
+9) ogles, koksu un lignītu (brūnogles) atbilstoši šā likuma 9.pielikumam.
 (2) Nodokļa likmes par zemes dzīļu derīgo īpašību izmantošanu, iesūknējot ģeoloģiskajās struktūrās dabasgāzi vai siltumnīcefekta gāzes; par C kategorijas piesārņojošu darbību nozarēs, attiecībā uz kurām normatīvajos aktos nav noteiktu nosacījumu un nav arī iespējams aprēķināt piesārņojošo vielu apjomu; par parka vīngliemežu (Helix pomatia L.) vākšanu tālākai saimnieciskai izmantošanai; par iepakojumu, gadījumos, kad tā materiāla veidu un svaru nav iespējams pamatot ar uzskaites dokumentiem; par transportlīdzekļiem ir noteiktas attiecīgi šā likuma 14., 15., 20., 24. un 26.pantā. Pārējos gadījumos nodokļa likmes, arī to spēkā esamības periodi, ir noteikti šā likuma pielikumos.
 (3) Ministru kabinets saskaņā ar šā likuma pielikumos minēto nodokļa likmju iedalījumu nosaka:
 1) dabas resursu, piesārņojošu vielu, atkritumu un radioaktīvo vielu klasifikāciju un atbilstību nodokļa likmju grupām;
