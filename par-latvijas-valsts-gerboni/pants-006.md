@@ -8,5 +8,6 @@
 7) prokuratūras iestādes;
 8) zvērināti notāri;
 9) vēlēšanu komisijas;
-10) publisko tiesību pašpārvaldes autonomie subjekti.
+10) publisko tiesību pašpārvaldes autonomie subjekti;
+11) bāriņtiesas, izdarot apliecinājumus.
 (2) Papildināto mazo valsts ģerboni drīkst lietot uz diplomiem, apliecībām, atestātiem, kurus izdevušas izglītības iestādes, izņemot augstskolas, un kuri apliecina izglītības vai kvalifikācijas ieguvi pēc akreditētas izglītības programmas.
