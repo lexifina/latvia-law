@@ -1,0 +1,3 @@
+39.pants. Mantas nozaudēšana, bojāšana vai naudas nozaudēšana
+(1) Par mantas nozaudēšanu, bojāšanu vai naudas nozaudēšanu izsaka rājienu, samazina mēnešalgu uz laiku no trim mēnešiem līdz vienam gadam, ieturot līdz 20 procentiem no mēnešalgas.
+(2) Par tādu pašu disciplinārpārkāpumu, ja tā dēļ valstij vai personai nodarīts būtisks mantisks zaudējums vai valsts interesēm būtisks kaitējums, samazina mēnešalgu uz laiku no trim mēnešiem līdz vienam gadam, ieturot līdz 20 procentiem no mēnešalgas, pazemina amatā uz laiku līdz trim gadiem, atbrīvo no amata vai atbrīvo no amata bez tiesībām vienu gadu pretendēt uz amatu valsts pārvaldē.

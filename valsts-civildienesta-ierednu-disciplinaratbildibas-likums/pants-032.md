@@ -1,0 +1,4 @@
+32.pants. Par disciplinārsoda piemērošanu pieņemtā lēmuma apstrīdēšana, pārsūdzēšana un izpilde
+(1) Lēmumu par disciplinārsoda piemērošanu ierēdnis var apstrīdēt Valsts civildienesta pārvaldē viena mēneša laikā no lēmuma spēkā stāšanās dienas. Valsts civildienesta pārvaldes lēmumu, kas pieņemts attiecībā uz lēmumu par disciplinārsoda piemērošanu, ierēdnis var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā.
+(2) Ja lēmumu par disciplinārsoda piemērošanu pieņēmusi Valsts civildienesta pārvalde, Ministru prezidents vai šā likuma 31.panta otrās daļas otrajā teikumā minētā amatpersona, ierēdnis lēmumu viena mēneša laikā no tā spēkā stāšanās dienas var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā.
+(3) Tāda lēmuma apstrīdēšana vai pārsūdzēšana, kurš paredz šā likuma 11.panta 3., 4. vai 5.punktā noteiktā disciplinārsoda piemērošanu, neaptur šā lēmuma izpildi.

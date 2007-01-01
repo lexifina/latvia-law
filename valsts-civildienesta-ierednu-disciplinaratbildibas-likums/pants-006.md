@@ -1,0 +1,2 @@
+6.pants. Galējā nepieciešamība
+Ierēdnis nav saucams pie disciplināratbildības, ja viņš atradies galējās nepieciešamības situācijā, tas ir, veicis darbības, kas bija nepieciešamas, lai novērstu kaitējumu valstij vai sabiedriskajai kārtībai, īpašumam, personu tiesībām un brīvībām vai noteiktai pārvaldes kārtībai, ja attiecīgo kaitējumu konkrētajos apstākļos nav bijis iespējams novērst ar citiem līdzekļiem un ja radītais kaitējums ir mazāks nekā novērstais.

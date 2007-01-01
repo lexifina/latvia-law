@@ -1,0 +1,4 @@
+40.pants. Nekorekta attieksme pret personu, pildot amata pienākumus
+(1) Par nesamērīgi sīkumainu amata pienākumu pildīšanu attiecībā uz personu un par personas tiesību neievērošanu, kā arī par klaji aizvainojošu izturēšanos pret personu, pildot amata pienākumus, izsaka rājienu vai samazina mēnešalgu uz laiku no trim mēnešiem līdz vienam gadam, ieturot līdz 20 procentiem no mēnešalgas, vai pazemina amatā uz laiku līdz trim gadiem.
+(2) Par tādu pašu disciplinārpārkāpumu, ja tā dēļ valstij vai personai nodarīts būtisks mantisks zaudējums vai valsts interesēm būtisks kaitējums, vai personai būtisks personisks kaitējums, pazemina amatā uz laiku līdz trim gadiem, atbrīvo no amata vai atbrīvo no amata bez tiesībām vienu gadu pretendēt uz amatu valsts pārvaldē.
+(3) Par personas fizisku ietekmēšanu, pildot amata pienākumus, atbrīvo no amata vai atbrīvo no amata bez tiesībām vienu gadu pretendēt uz amatu valsts pārvaldē.
