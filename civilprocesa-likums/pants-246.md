@@ -2,5 +2,5 @@
 (1) Paternitātes pieņēmumu tiesā var apstrīdēt bērna māte, bērna mātes vīrs un bērns pats pēc pilngadības sasniegšanas.
 (2) Pēc bērna mātes vīra nāves šādu prasību var celt vīra vecāki, ja vīrs līdz nāves brīdim nav zinājis par bērna dzimšanu.
 (3) Pēc bērna mātes vīra nāves viņa likumiskie mantinieki var iestāties viņa uzsāktajā procesā kā tiesību pārņēmēji.
-(4) Ja tiesa personu, kurai ir tiesības apstrīdēt paternitātes pieņēmumu, atzinusi par rīcībnespējīgu gara slimības vai plānprātības dēļ, tās vietā prasību var celt rīcībnespējīgās personas aizgādnis. Šajos gadījumos tiesa pieaicina lietā bāriņtiesu (pagasttiesu).
+(4) Ja tiesa personu, kurai ir tiesības apstrīdēt paternitātes pieņēmumu, atzinusi par rīcībnespējīgu gara slimības vai plānprātības dēļ, tās vietā prasību var celt rīcībnespējīgās personas aizgādnis. Šajos gadījumos tiesa pieaicina lietā bāriņtiesu.
 (5) Šajā pantā minēto prasību var celt saskaņā ar Civillikuma 149.panta noteikumiem.
