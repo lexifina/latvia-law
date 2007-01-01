@@ -1,0 +1,1 @@
+27.pants. Manta, kura palikusi pēc politiskās organizācijas (partijas) vai politisko organizāciju (partiju) apvienības likvidācijas un izslēgšanas no politisko partiju reģistra, kas tika izveidots saskaņā ar likumu "Par sabiedriskajām organizācijām un to apvienībām", saskaņā ar Civillikuma 417.pantu pielīdzināma bezmantinieka mantai.

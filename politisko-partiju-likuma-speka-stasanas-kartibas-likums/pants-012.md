@@ -1,0 +1,1 @@
+12.pants. Politisko organizāciju (partiju) vai politisko organizāciju (partiju) apvienību ieraksta partiju reģistrā, pamatojoties uz pieteikumu. Pieteikumu Uzņēmumu reģistram iesniedz līdz 2007.gada 31.decembrim.

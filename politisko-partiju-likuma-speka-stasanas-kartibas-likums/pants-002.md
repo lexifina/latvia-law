@@ -1,0 +1,1 @@
+2.pants. Ar Politisko partiju likuma spēkā stāšanās dienu politiskās organizācijas (partijas) un politisko organizāciju (partiju) apvienības ierakstāmas (pārreģistrējamas) partiju reģistrā saskaņā ar Politisko partiju likumu un šo likumu.

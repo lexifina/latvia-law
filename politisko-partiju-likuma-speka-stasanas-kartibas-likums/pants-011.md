@@ -1,0 +1,1 @@
+11.pants. Lēmums par politiskās organizācijas (partijas) vai politisko organizāciju (partiju) apvienības pārveidošanu par politisko partiju vai politisko partiju apvienību stājas spēkā pēc šo ziņu ierakstīšanas partiju reģistrā. Pēc statūtu pieņemšanas jaunā redakcijā biedru sapulce un citas pārvaldes institūcijas lēmumus pieņem atbilstoši statūtos noteiktajai kārtībai.

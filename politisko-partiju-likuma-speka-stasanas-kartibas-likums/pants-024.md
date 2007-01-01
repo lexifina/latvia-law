@@ -1,0 +1,1 @@
+24.pants. Triju mēnešu laikā pēc šā likuma 23.pantā minētā saraksta publicēšanas visi attiecīgās politiskās organizācijas (partijas) vai politisko organizāciju (partiju) apvienības kreditori un nodokļu administrācija var paziņot Uzņēmumu reģistram par saviem mantiskajiem prasījumiem pret politisko organizāciju (partiju) vai politisko organizāciju (partiju) apvienību.

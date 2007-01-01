@@ -1,0 +1,1 @@
+7.pants. Līdz pārejas perioda beigām (šā likuma 12.pants) Politisko partiju likuma 20.panta otro daļu nepiemēro un lēmumu par ieraksta izdarīšanu partiju reģistrā, par atteikumu izdarīt ierakstu vai par ieraksta izdarīšanas atlikšanu pieņem 30 dienu laikā pēc pieteikuma saņemšanas.

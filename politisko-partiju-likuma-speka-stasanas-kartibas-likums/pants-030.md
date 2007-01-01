@@ -1,0 +1,1 @@
+30.pants. Šā likuma 28. un 29.pantā minētajiem likvidācijas procesiem piemēro likumus, kuri regulē politisko organizāciju (partiju) un to apvienību darbību, un statūtus, kuri bija spēkā dienā, kad tika pieņemts lēmums par likvidāciju.

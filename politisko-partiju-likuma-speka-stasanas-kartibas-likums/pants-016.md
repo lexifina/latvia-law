@@ -1,0 +1,1 @@
+16.pants. Politiskā organizācija (partija) vai politisko organizāciju (partiju) apvienība pēc ierakstīšanas partiju reģistrā tiek izslēgta no politisko partiju reģistra, kas tika izveidots saskaņā ar likumu "Par sabiedriskajām organizācijām un to apvienībām", un par to tiek izdarīts attiecīgs ieraksts.

@@ -1,0 +1,1 @@
+17.pants. Partiju reģistrā ierakstītā politiskā partija vai politisko partiju apvienība ir attiecīgās pārveidotās politiskās organizācijas (partijas) vai politisko organizāciju (partiju) apvienības tiesību un saistību pārņēmēja.

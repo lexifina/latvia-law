@@ -1,0 +1,1 @@
+8.pants. Par politiskās organizācijas (partijas) un politisko organizāciju (partiju) apvienības ierakstīšanu partiju reģistrā maksājamās valsts nodevas apmēru un samaksas kārtību nosaka Ministru kabinets.

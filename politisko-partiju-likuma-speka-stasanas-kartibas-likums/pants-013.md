@@ -1,0 +1,1 @@
+13.pants. Pieteikumā par ierakstīšanu partiju reģistrā norāda Politisko partiju likuma 18.panta pirmajā daļā minētās ziņas, kā arī reģistrācijas numuru politisko partiju reģistrā, kas tika izveidots saskaņā ar likumu "Par sabiedriskajām organizācijām un to apvienībām".
