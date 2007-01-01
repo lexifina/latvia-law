@@ -5,4 +5,4 @@
 3) tā augstskolas noteiktajos termiņos nav nokārtojusi nepieciešamos pārbaudījumus vai nav veikusi citus studiju uzdevumus;
 4) tā ir pārkāpusi augstskolas iekšējās kārtības noteikumus.
 (2) Augstskolā personas izslēgšanu no studējošo saraksta veic augstskolas rektors vai dekāns, koledžā - koledžas direktors. Apelācijas izskata senāts vai koledžas padome.
-(3) Izslēdzot studentu no pilna laika studējošo saraksta, augstskola vai koledža par to informē Militārā dienesta iesaukšanas centru.
+(3) (Zaudējusi spēku ar 01.01.2007. Skat. Pārejas noteikumus.)
