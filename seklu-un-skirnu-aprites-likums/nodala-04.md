@@ -1,2 +1,2 @@
 IV nodaļa
-Sēklu sertifikācija un pēcpārbaude kontrollauciņos
+Sēklu sertifikācija un šķirnes sējumu reģistrācija

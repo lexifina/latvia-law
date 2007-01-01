@@ -9,7 +9,7 @@ d) (izslēgts ar 17.11.2005. likumu);
 a) izstrādā valsts sēklaudzēšanas politiku atbilstoši valsts agrārajai politikai,
 b) nodrošina lauksaimniecības augu sugu ģenētisko resursu kolekcionēšanu, saglabāšanu, raksturošanu, izvērtēšanu un izmantošanu atbilstoši Ministru kabineta noteiktajai valsts institūciju un komercsabiedrību specializācijai;
 3) zemkopības ministrs:
-a) apstiprina cenrādi sēklu sertifikācijai, šķirņu iekļaušanai Latvijas augu šķirņu katalogā un citām ar sēklu tirdzniecību saistītām darbībām, izņemot sēklu tirdzniecības kontroli,
+a) (izslēgts ar 19.12.2006. likumu),
 b) apstiprina kultūraugu sēklaudzēšanas lauku apskates metodiku un šķirnes sējumu reģistrācijas metodiku,
 c) apstiprina metodiku sēklu pēcpārbaudei kontrollauciņos,
 d) apstiprina augu šķirņu saimniecisko īpašību novērtēšanas metodikas;
