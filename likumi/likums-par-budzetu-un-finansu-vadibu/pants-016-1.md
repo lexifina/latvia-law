@@ -1,0 +1,3 @@
+16.¹ pants. Vidēja termiņa budžeta mērķi un prioritārie attīstības virzieni
+(1) Finanšu ministrija sadarbībā ar Valsts kanceleju izstrādā nākamajiem trijiem saimnieciskajiem gadiem normatīvo aktu par vidēja termiņa budžeta mērķiem un prioritārajiem attīstības virzieniem un līdz kārtējā gada 28.februārim iesniedz to apstiprināšanai Ministru kabinetā. Minētais normatīvais akts tiek izstrādāts, aktualizējot iepriekšējā saimnieciskā gadā apstiprināto vidēja termiņa makroekonomiskās attīstības un fiskālās politikas ietvaru.
+(2) Ministru kabinets līdz kārtējā gada 15.martam apstiprina šā panta pirmajā daļā minēto normatīvo aktu.

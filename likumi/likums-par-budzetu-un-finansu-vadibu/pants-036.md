@@ -5,5 +5,6 @@
 3) (izslēgts ar 20.12.2004. likumu);
 4) periodiski dara zināmus sabiedrībai valsts vārdā noslēgto līgumu noteikumus attiecībā uz aizņēmumiem naudas vai kapitāla tirgū;
 5) saskaņā ar Ministru kabineta noteikto kārtību dzēš valsts aizdevumus.
-(2) Valsts budžeta finansētām institūcijām nav tiesību ņemt aizņēmumus un slēgt līzinga līgumus ar kredītiestādēm vai citām institūcijām bez saskaņošanas ar finanšu ministru.
+(2) Valsts budžeta iestādēm nav tiesību slēgt finanšu līzinga līgumus un ņemt aizņēmumus, ja citos likumos nav noteikts citādi.
 (3) Valsts budžeta izpildītāji attiecībā uz speciālo budžetu var ņemt aizņēmumus īstermiņa finanšu vadības nolūkiem, nodrošinot aizņēmumu atmaksu tā saimnieciskā gada ietvaros, kurā ņemts aizņēmums.
+(4) Valsts aizdevumu izsniegšanas un apkalpošanas kārtību nosaka Ministru kabinets.

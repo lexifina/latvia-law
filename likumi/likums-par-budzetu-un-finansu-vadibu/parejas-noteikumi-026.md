@@ -1,0 +1,1 @@
+26. Līdz šā likuma 5.panta divpadsmitajā daļā paredzēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2007.gada 31.decembrim piemēro Ministru kabineta 1997.gada 6.maija instrukciju Nr.4 "Kārtība, kādā no valsts budžeta finansējamās iestādes var sniegt maksas pakalpojumus", ciktāl tā nav pretrunā ar šo likumu.

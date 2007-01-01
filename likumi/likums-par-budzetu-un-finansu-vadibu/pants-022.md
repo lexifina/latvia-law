@@ -1,7 +1,7 @@
 22. pants. Gadskārtējā valsts budžeta likuma pieņemšana
 (1) Ministru kabineta iesniegto valsts budžeta likuma projektu (budžeta likumprojektu paketi) Saeima pārbauda un apstiprina likumdošanas kārtībā.
 (2) Valsts budžeta likums ietver:
-1) valsts parāda un budžeta fiskālā deficīta maksimāli pieļaujamo summu saimnieciskā gada beigās, fiskālā deficīta segšanai izlietojamā valsts aizņēmuma maksimāli pieļaujamo summu saimnieciskā gada beigās, kā arī valsts vārdā izsniegto galvojumu saistību izpildei paredzamo summu valsts parādā un no jauna saimnieciskajā gadā izsniedzamo galvojumu apjomus;
+1) valsts parāda un budžeta finansiālā deficīta maksimāli pieļaujamo apjomu saimnieciskā gada beigās, finansiālā deficīta segšanai izlietojamā valsts aizņēmuma maksimāli pieļaujamo apjomu saimnieciskā gada beigās, kā arī valsts vārdā izsniegto galvojumu saistību izpildei paredzamo apjomu valsts parādā un no jauna saimnieciskajā gadā izsniedzamo galvojumu apjomus;
 2) to līdzekļu apjomus, kas nākamajā saimnieciskajā gadā apropriācijas kārtībā piešķirami katrai izdevumu kategorijai saskaņā ar budžeta klasifikāciju, norādot katras kategorijas līdzekļu izmantošanas mērķi;
 3) (izslēgts ar 23.11.2000. likumu);
 4) valsts ilgtermiņa saistības atbilstoši budžeta izdevumu klasifikācijai;

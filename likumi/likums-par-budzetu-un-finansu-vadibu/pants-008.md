@@ -4,4 +4,4 @@
 2) ja valsts, pašvaldība vai noteikta budžeta iestāde (izpildītājs) ir saņēmusi ziedojumu vai dāvinājumu ar norādītu mērķi vai bez tā;
 3) (izslēgts ar 25.11.1996. likumu).
 (2) (Izslēgta ar 23.11.2000. likumu)
-(3) Pārskaitījumi no pamatbudžeta konta uz speciālā budžeta kontu ir atjauti tikai ar apropriāciju.
+(3) Transferti no pamatbudžeta konta uz speciālā budžeta kontu ir atļauti tikai ar apropriāciju.
