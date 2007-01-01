@@ -19,14 +19,14 @@
 6) par informācijas sniegšanu no Latvijas Republikas Uzņēmumu reģistra reģistriem;
 7) par informācijas sniegšanu no Iedzīvotāju reģistra;
 8) par reliģisko organizāciju un to iestāžu reģistrāciju;
-9) par speciālu atļauju (licenču) izsniegšanu atsevišķiem uzņēmējdarbības veidiem;
+9) par speciālu atļauju (licenču) izsniegšanu atsevišķiem komercdarbības veidiem;
 10) par operācijām ar vekseļiem;
 11) par operācijām ar sertifikātiem;
 12) par Eiropas Kopienas pastāvīgā iedzīvotāja statusa Latvijas Republikā un par uzturēšanās atļaujas pieprasīšanai nepieciešamo dokumentu izskatīšanu un ar to saistītajiem pakalpojumiem;
 13) par vīzas pieprasīšanai nepieciešamo dokumentu izskatīšanu un ar to saistītajiem pakalpojumiem;
 14) par Latvijas Republikas pasu un citu personu apliecinošu un tiesību apliecinošu dokumentu izsniegšanu;
 15) (izslēgts ar 09.10.2003. likumu);
-16) par selekcionāru tiesību aizsardzību;
+16) par iesnieguma izskatīšanu selekcionāra tiesību piešķiršanai, par selekcionāra tiesību aizsardzību un par licences līguma reģistrāciju Valsts augu aizsardzības dienestā;
 17) par rūpnieciskā īpašuma (izgudrojumu, preču zīmju, dizainparaugu un cita rūpnieciskā īpašuma) aizsardzību;
 18) par naturalizācijas iesniegumu iesniegšanu;
 19) par muitas iestāžu pakalpojumiem;
@@ -50,7 +50,7 @@
 36¹) par kadastra izziņas sagatavošanu un izsniegšanu;
 37) (izslēgts ar 09.10.2002. likumu);
 38) par dokumentu īstuma apliecināšanu (legalizāciju);
-39) par atļaujas izsniegšanu veikt darbības, kuras nav uzņēmējdarbība, ar jonizējošā starojuma avotiem vai arī iegūt īpašumā jonizējošā starojuma avotus;
+39) par atļaujas izsniegšanu veikt darbības, kuras nav komercdarbība, ar jonizējošā starojuma avotiem vai arī iegūt īpašumā jonizējošā starojuma avotus;
 40) par valsts valodas prasmes atestāciju profesionālo un amata pienākumu veikšanai un par valsts valodas prasmes pārbaudi pastāvīgās uzturēšanās atļaujas un Eiropas Kopienas pastāvīgā iedzīvotāja statusa Latvijas Republikā pieprasīšanai;
 41) par atteikšanās no Latvijas pilsonības dokumentēšanu;
 42) par Latvijas pilsonības atjaunošanas dokumentēšanu;
@@ -62,7 +62,7 @@
 48) par nodrošinājumu darbinieku prasījumu apmierināšanai no darbinieku prasījumu garantiju fonda līdzekļiem un citiem likumā paredzētiem speciāliem mērķiem (uzņēmējdarbības riska valsts nodeva);
 49) par būvprojektēšanai nepieciešamo tehnisko un īpašo noteikumu saņemšanu valsts un pašvaldību institūcijās;
 50) par apsardzes darbības kvalifikācijas pārbaudījuma kārtošanu un apsardzes sertifikāta izsniegšanu;
-51) par mednieka apliecības, mednieka sezonas kartes un medību atļaujas izsniegšanu, par atļaujas izsniegšanu ārvalstu medniekam medīt Latvijas Republikā un atļaujas izsniegšanu izvest medību trofejas no Latvijas Republikas;
+51) par mednieka apliecības, mednieka sezonas kartes un medību atļaujas izsniegšanu, par atļaujas izsniegšanu ārvalstu medniekam medīt Latvijas Republikā un atļaujas izsniegšanu izvest medību trofejas no Latvijas Republikas, par mednieku un medību vadītāju eksāmeniem un par medījamo dzīvnieku nodarīto zaudējumu aprēķinu;
 52) par personas datu apstrādes sistēmas reģistrēšanu vai Fizisko personu datu aizsardzības likumā noteikto reģistrējamo izmaiņu izdarīšanu;
 53) par sertifikācijas pakalpojumu sniedzēja akreditāciju un akreditācijas atjaunošanu (šo akreditāciju un akreditācijas atjaunošanu veic Datu valsts inspekcija);
 54) par informācijas sniegšanu no Valsts adrešu reģistra;
@@ -75,4 +75,24 @@
 61) par bieži sastopamo derīgo izrakteņu ieguves atļaujas izsniegšanu;
 62) par derīgo izrakteņu atradnes pases izsniegšanu;
 63) par 1973.gada Vašingtonas konvencijā par starptautisko tirdzniecību ar apdraudētajām savvaļas dzīvnieku un augu sugām noteiktās atļaujas (CITES atļauja) izsniegšanu;
-64) par 1973.gada Vašingtonas konvencijā par starptautisko tirdzniecību ar apdraudētajām savvaļas dzīvnieku un augu sugām noteiktā sertifikāta (CITES sertifikāts) izsniegšanu.
+64) par 1973.gada Vašingtonas konvencijā par starptautisko tirdzniecību ar apdraudētajām savvaļas dzīvnieku un augu sugām noteiktā sertifikāta (CITES sertifikāts) izsniegšanu;
+65) par iesnieguma izvērtēšanu personas reģistrācijai vai izmaiņu veikšanu fitosanitārajai kontrolei pakļauto augu un augu produktu apritē iesaistīto personu reģistrā, par iesnieguma izskatīšanu personas iekļaušanai koka iepakojuma marķētāju reģistrā, par augu aizsardzības līdzekļa reģistrāciju un uzturēšanu augu aizsardzības līdzekļu reģistrā;
+66) par iesnieguma izvērtēšanu personas reģistrācijai un izmaiņu veikšanu Sēklaudzētāju un sēklu tirgotāju reģistrā;
+67) par šķirnes uzturēšanu, iesnieguma izvērtēšanu šķirnes iekļaušanai un uzturēšanas termiņa pagarināšanai Latvijas augu šķirņu katalogā;
+68) par iesnieguma izvērtēšanu atļaujas izsniegšanai par tādu sēklu un sēklas kartupeļu materiāla izmantošanu, kas nav iegūts ar bioloģisko lauksaimnieciskās ražošanas metodi;
+69) par atļaujas saņemšanu mēslošanas līdzekļa ievešanai vai tirdzniecībai;
+70) par Ciltsdarba likumā noteikto sertificējamo personu kvalifikācijas sertifikāta izsniegšanu, par ganāmpulka, dzīvnieku un novietņu reģistrēšanu un par dzīvnieku apzīmēšanai nepieciešamo dokumentu izsniegšanu;
+71) par atļaujas izsniegšanu transportlīdzeklim pārtikas pārvadāšanai;
+72) par tāda suņa reģistrāciju, kurš apmācīts uzbrukt cilvēkam;
+73) par atļauju izmantot dzīvnieku eksperimentos un apmācībās;
+74) par dzīvnieka pārvadātāja apliecības izsniegšanu;
+75) par atļaujas izsniegšanu transportlīdzeklim dzīvnieku pārvadāšanai;
+76) par atļauju savvaļas dzīvnieku kolekcijas izveidei un darbībai;
+77) par cirka dzīvnieka, dresūras dzīvnieka, cirka un dresūras numura viesizrāžu vietas reģistrāciju;
+78) par lauksaimniecībā izmantojamās zemes transformācijas dokumentu sagatavošanu;
+79) par Meža likumā noteiktajām mežsaimnieciskajām darbībām;
+80) par sociālo pakalpojumu sniedzēja reģistrācijas apliecības un tās dublikāta izsniegšanu;
+81) par pārbaudījuma organizēšanu maksātnespējas procesa administratora kvalifikācijas iegūšanai;
+82) par maksātnespējas procesa administratora sertifikāta darbības termiņa pagarināšanu;
+83) par ārējo personas datu apstrādes sistēmu auditoru akreditāciju;
+84) par ārējā personas datu apstrādes sistēmas auditora akreditācijas termiņa pagarināšanu, apliecības dublikāta izsniegšanu un akreditācijas darbības atjaunošanu.

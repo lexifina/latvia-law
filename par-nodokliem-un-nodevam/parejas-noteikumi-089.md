@@ -1,0 +1,1 @@
+89. Šā likuma 23.panta trešajā daļā minētie nodokļu revīzijas (audita) termiņa ierobežojumi neattiecas uz gadījumiem, kad nodokļu revīzija (audits) ir uzsākta pēc kriminālprocesa virzītāja pieprasījuma vai nodokļu administrācija ir saņēmusi kriminālprocesa virzītāja pieprasījumu par nodokļu revīzijas (audita) veikšanu līdz 2007.gada 1.janvārim.
