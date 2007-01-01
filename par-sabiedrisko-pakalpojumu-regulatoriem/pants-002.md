@@ -6,7 +6,7 @@
 3) pasts;
 4) dzelzceļa transports (tajā skaitā pasažieru pārvadājumi pa dzelzceļu).
 (3) Pašvaldības, izpildot vienu no likumā noteiktajām pastāvīgajām funkcijām - komunālo pakalpojumu organizēšanu iedzīvotājiem, savā administratīvajā teritorijā regulē sabiedrisko pakalpojumu sniegšanu kā komercdarbību šādās nozarēs (turpmāk - pašvaldību regulējamās nozares):
-1) sadzīves atkritumu apsaimniekošana, izņemot sadzīves atkritumu pārstrādi;
+1) sadzīves atkritumu apglabāšana atkritumu poligonos un izgāztuvēs;
 2) ūdensapgāde un kanalizācija;
 3) siltumapgāde, kur ražošanas procesā netiek izstrādāta elektroenerģija.
 (4) To sabiedrisko pakalpojumu veidus, kuru sniegšanu nepieciešams regulēt, valsts regulējamās nozarēs nosaka Ministru kabinets, bet pašvaldību regulējamās nozarēs - attiecīgās pašvaldības saskaņā ar šo likumu un citiem normatīvajiem aktiem.
