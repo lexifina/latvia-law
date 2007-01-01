@@ -1,0 +1,1 @@
+33. Līdz likuma "Par grāmatvedību" 9.panta otrās daļas 1.punktā paredzēto noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2007.gada 1.jūlijam ir spēkā Ministru kabineta 2001.gada 31.jūlija noteikumi Nr.338 "Kārtība, kādā veicama ieņēmumu un izdevumu uzskaite iedzīvotāju ienākuma nodokļa aprēķināšanas vajadzībām", ciktāl tie nav pretrunā ar šo likumu.

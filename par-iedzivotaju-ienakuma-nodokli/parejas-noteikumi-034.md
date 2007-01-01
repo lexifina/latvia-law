@@ -1,0 +1,1 @@
+34. Grozījums šā likuma 9.panta pirmajā daļā par 23.punkta izslēgšanu netiek piemērots attiecībā uz nodibinājuma "Sorosa fonds - Latvija" līdz 2006.gada 31.decembrim apstiprināto projektu ietvaros izmaksājamo stipendiju un atlīdzību, kura personai izmaksāta ārpus darba tiesiskajām attiecībām ar nodibinājumu "Sorosa fonds - Latvija", bet ne ilgāk kā līdz 2007.gada 31.decembrim.

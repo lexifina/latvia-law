@@ -1,0 +1,1 @@
+29. Ja individuālais uzņēmums (zemnieku vai zvejnieku saimniecība) pārreģistrējas par individuālo komersantu, individuālais komersants ir tiesīgs pārņemt individuālā uzņēmuma (zemnieku vai zvejnieku saimniecības) pirmstaksācijas perioda zaudējumus un segt tos likumā noteiktajā kārtībā.
