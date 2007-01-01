@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Tiesībsarga likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "65",
+  "official_journal_page": null,
+  "official_journal_date": "2006-04-25",
+  "entry_into_force": "2007-01-01",
+  "notification_date": "2007-03-08",
+  "commission_reference": "MNE(2007)52063",
+  "nim_celex": "71976L0207LVA_142449",
+  "nim_id": "142449",
+  "transposes_celex": [
+    "31976L0207",
+    "32000L0043",
+    "32000L0078",
+    "32002L0073",
+    "32004L0113"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c86812bd-45ac-4990-a15f-1f35bbd6ffef",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
