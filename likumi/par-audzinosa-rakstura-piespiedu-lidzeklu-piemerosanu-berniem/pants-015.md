@@ -1,1 +1,1 @@
-15.pants. Faktus par bērna izdarīto nodarījumu likumā noteiktajā kārtībā pārbauda izziņas izdarītājs vai prokurors, bet faktus par pārkāpumu - institūcijas (amatpersonas), kas pilnvarotas uzsākt lietvedību administratīvā pārkāpuma lietā vai izskatīt administratīvo pārkāpumu lietas.
+15.pants. Faktus par bērna izdarīto nodarījumu likumā noteiktajā kārtībā pārbauda procesuāli pilnvarota amatpersona, bet faktus par pārkāpumu - institūcijas (amatpersonas), kas pilnvarotas uzsākt lietvedību administratīvā pārkāpuma lietā vai izskatīt administratīvo pārkāpumu lietas.

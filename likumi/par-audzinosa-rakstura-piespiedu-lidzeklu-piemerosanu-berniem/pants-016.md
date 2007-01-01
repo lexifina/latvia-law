@@ -3,4 +3,4 @@
 2) izziņa no ģimenes ārsta par bērna veselības stāvokli;
 3) raksturojums no izglītības iestādes vai darbavietas;
 4) izziņa no pašvaldības sociālās palīdzības dienesta par bērna sadzīves apstākļiem.
-(2) Šā panta pirmajā daļā minētos dokumentus pieprasa izziņas izdarītājs vai prokurors.
+(2) Šā panta pirmajā daļā minētos dokumentus pieprasa procesuāli pilnvarota amatpersona.
