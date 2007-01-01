@@ -3,7 +3,7 @@
 1) invalīdu profesionālo rehabilitāciju;
 2) redzes un dzirdes invalīdu sociālo rehabilitāciju;
 3) no vardarbības cietušo bērnu sociālo rehabilitāciju;
-4) sociālo rehabilitāciju attiecīgās institūcijās bērniem, kuriem ir izveidojusies atkarība no narkotiskajām, toksiskajām vai citām apreibinošām vielām;
+4) sociālo rehabilitāciju attiecīgās institūcijās pilngadīgām personām un bērniem, kuriem ir izveidojusies atkarība no narkotiskajām, toksiskajām vai citām apreibinošām vielām;
 5) tehniskos palīglīdzekļus šā likuma 25.panta pirmajā daļā minētajām personām;
 6) personām ar funkcionāliem traucējumiem - sociālās rehabilitācijas pakalpojumus sociālās rehabilitācijas iestādēs. Funkcionālo traucējumu sarakstu apstiprina Ministru kabinets;
 7) cilvēku tirdzniecības upuru sociālo rehabilitāciju. Sociālās rehabilitācijas saņemšanas kārtību un kritērijus personas atzīšanai par cilvēku tirdzniecības upuri nosaka Ministru kabinets;
