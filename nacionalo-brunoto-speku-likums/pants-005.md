@@ -1,12 +1,10 @@
 5.pants. Nacionālo bruņoto spēku personālsastāva komplektēšanas pamatprincipi
 (1) Nacionālo bruņoto spēku personālsastāvu komplektē tikai no Latvijas pilsoņiem.
 (2) Nacionālo bruņoto spēku personālsastāvu miera laikā veido:
-1) aktīvā militārā dienesta karavīri:
-a) profesionālā dienesta karavīri, kuri pilda dienestu saskaņā ar līgumu,
-b) obligātā militārā dienesta karavīri;
+1) profesionālā dienesta karavīri, kuri pilda dienestu saskaņā ar līgumu;
 2) zemessargi;
 3) militārie un civilie darbinieki;
-4) uz apmācībām iesauktie rezerves karavīri.
+4) uz kārtējām vai pārbaudes militārajām mācībām iesauktie rezerves karavīri.
 (2¹) Nacionālo bruņoto spēku personālsastāvu dalībai starptautiskajās operācijās veido:
 1) profesionālā dienesta karavīri, kuri pilda dienestu saskaņā ar līgumu;
 2) militārie darbinieki.
