@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2006.gada 19.decembra noteikumi Nr.1046 \"Veselības aprūpes organizēšanas un finansēšanas kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "208 (3576)",
+  "official_journal_page": null,
+  "official_journal_date": "2006-12-30",
+  "entry_into_force": "2007-01-01",
+  "notification_date": "2013-11-28",
+  "commission_reference": "MNE(2013)59283",
+  "nim_celex": "72012L0052LVA_211007",
+  "nim_id": "211007",
+  "transposes_celex": [
+    "32012L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1e7d8c6b-8051-491c-9c32-4683efabd1bd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
