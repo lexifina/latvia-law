@@ -1,1 +1,1 @@
-442. Testaments, ko pēc nodošanas notāram, konsulam vai pagasttiesai glabāt testators vēlāk ņem atpakaļ, zaudē ar to publiska testamenta spēku un tādā gadījumā ir spēkā tikai tad, ja ievēroti visi privāto testamentu noteikumi.
+442. Testaments, ko pēc nodošanas notāram, konsulam vai bāriņtiesai glabāt testators vēlāk ņem atpakaļ, zaudē ar to publiska testamenta spēku un tādā gadījumā ir spēkā tikai tad, ja ievēroti visi privāto testamentu noteikumi.

@@ -1,1 +1,1 @@
-433. Publiskos testamentus taisa pie notāra, pagasttiesā vai pie Latvijas konsula ārzemēs.
+433. Publiskos testamentus taisa pie notāra, bāriņtiesā vai pie Latvijas konsula ārzemēs.

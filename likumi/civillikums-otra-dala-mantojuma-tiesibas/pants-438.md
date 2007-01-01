@@ -1,1 +1,1 @@
-438. Privātus testamentus var nodot glabāt notāram vai Latvijas konsulam ārzemēs, ievērojot Notariāta likumu, vai pagasttiesai, ievērojot likuma "Par bāriņtiesām un pagasttiesām" noteikumus. Pieņemot testamentu glabāt, jāpārliecinās par testatora personību.
+438. Privātus testamentus var nodot glabāšanā notāram vai Latvijas konsulam ārzemēs, ievērojot Notariāta likumu, vai bāriņtiesai, ievērojot Bāriņtiesu likumu. Pieņemot testamentu glabāšanā, jāpārliecinās par testatora personību.
