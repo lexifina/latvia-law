@@ -1,0 +1,3 @@
+13.¹ pants. Atļauja putnu turēšanai nebrīvē, transportēšanai, dāvināšanai, pārdošanai, mainīšanai vai turēšanai pārdošanai vai apmaiņai
+(1) Pirms izsniegt atļauju šā likuma 4.panta 11.punktā minēto putnu sugu turēšanai nebrīvē, transportēšanai, dāvināšanai, pārdošanai, mainīšanai vai turēšanai pārdošanai vai apmaiņai, Dabas aizsardzības pārvalde konsultējas ar Eiropas Komisiju, lai noskaidrotu, vai tirdzniecība ar attiecīgās sugas īpatņiem var apdraudēt šo sugu populācijas lielumu, ģeogrāfisko izplatību vai vairošanās spēju Eiropas Kopienas teritorijā.
+(2) Dabas aizsardzības pārvalde atļauju izsniedz pēc Eiropas Komisijas ieteikuma saņemšanas. Dabas aizsardzības pārvalde nodrošina atļaujas izsniegšanas nosacījumu ievērošanu.
