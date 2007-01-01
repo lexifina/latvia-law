@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Bāriņtiesu likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "107",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-07",
+  "entry_into_force": "2007-01-01",
+  "notification_date": "2010-02-24",
+  "commission_reference": "MNE(2010)51453",
+  "nim_celex": "72004L0083LVA_167208",
+  "nim_id": "167208",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/7f2647b8-6907-4745-b2cc-95d6fa56a67c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
