@@ -1,0 +1,4 @@
+18. Ministru kabinets līdz 2007.gada 1.jūlijam izdod šā likuma 5.panta piektajā daļā, 14.panta 2.¹ un septītajā daļā un 24.panta trešajā daļā paredzētos noteikumus. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2007.gada 1.jūlijam piemērojami attiecīgi šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:
+1) Ministru kabineta 2005.gada 28.jūnija noteikumi Nr.485 "Kārtība, kādā atsevišķiem naftas produktiem piemēro samazinātu akcīzes nodokļa likmi vai atbrīvojumu no akcīzes nodokļa";
+2) Ministru kabineta 2005.gada 5.jūlija noteikumi Nr.498 "Bioproduktus saturošas degvielas aprites un attiecīgā akcīzes nodokļa administrēšanas kārtība";
+3) Ministru kabineta 2006.gada 31.janvāra noteikumi Nr.97 "Noteikumi par akcīzes nodokļa deklarāciju veidlapām".

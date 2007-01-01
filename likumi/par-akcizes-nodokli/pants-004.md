@@ -23,3 +23,4 @@ b) cita smēķējamā tabaka.
 2) homogenizētas tabakas ārējais un iekšējais aptinums;
 3) homogenizētas tabakas ārējais aptinums.
 (7) Izstrādājumi, kas pilnībā vai daļēji sastāv no citām vielām, nevis tabakas, bet citādi atbilst šā panta trešās vai ceturtās daļas nosacījumiem, uzskatāmi attiecīgi par cigaretēm vai smēķējamo tabaku.
+(8) Izstrādājumus, kuru sastāvā nav tabakas un kurus lieto vienīgi medicīniskiem mērķiem, ko apliecina Veselības ministrija, neuzskata par tabakas izstrādājumiem.

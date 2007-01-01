@@ -17,4 +17,7 @@
 1.7.3.4. pārējās vieglās eļļas,
 1.7.3.5. naftas produkti ar svina saturu ne vairāk kā 0,013 g/l, kuriem pievienots etilspirts, kas iegūts no lauksaimniecības izejvielām, dehidratēts (ar spirta saturu vismaz 99,5 tilpumprocenti) un denaturēts, vai etilspirta atvasinājums ETBE (atsevišķi vai kopā ar etilspirtu);
 1.8. metanols (metilspirts);
-1.9. zemākie alkiltretbutilēteri [metiltretbutilēteris (MTBE) un etiltretbutilēteris (ETBE)].
+1.9. zemākie alkiltretbutilēteri [metiltretbutilēteris (MTBE) un etiltretbutilēteris (ETBE)];
+1.10. gatavi antidetonatori un citādas gatavās piedevas minerāleļļām, ko izmanto tādām pašām vajadzībām kā minerāleļļas;
+1.11. lietošanai gatavās saistvielas, ķīmiskie produkti (arī produkti, kas satur dabīgu produktu maisījumus), kas nav minēti vai iekļauti citur;
+1.12. eļļas atkritumi, kuri ietilpst Kombinētās nomenklatūras 2710.preču pozīcijā.

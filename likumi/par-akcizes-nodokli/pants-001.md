@@ -3,6 +3,9 @@
 (2) Likumā ir lietoti arī šādi termini:
 1) akcīzes preces - alkoholiskie dzērieni, tabakas izstrādājumi, naftas produkti, bezalkoholiskie dzērieni un kafija;
 2) akcīzes nodokļa marka - alkoholisko dzērienu vai tabakas izstrādājumu akcīzes nodokļa marka, kuru piestiprina alkoholisko dzērienu iepakojumam (pudelei vai citam iepakojumam) vai tabakas izstrādājumu iepakojumam (paciņai vai citam iepakojumam) un kura apliecina, ka marķētiem alkoholiskajiem dzērieniem vai tabakas izstrādājumiem ir legāla izcelsme un tie ņemti valsts kontrolē atbilstoši noteiktajiem akcīzes nodokļa samaksas nosacījumiem;
+2¹) bojāta akcīzes nodokļa marka - akcīzes nodokļa marka, kas ir kļuvusi nelietojama alkoholisko dzērienu un tabakas izstrādājumu ražošanas, apstrādes, pārstrādes, fasēšanas vai marķēšanas procesā;
+2²) nederīga akcīzes nodokļa marka - akcīzes nodokļa marka, kurai tās ražošanas procesā ir radušies defekti un tāpēc to nevar izmantot alkoholisko dzērienu un tabakas izstrādājumu marķēšanā;
+2³) neizmantota akcīzes nodokļa marka - akcīzes nodokļa marka, kuru nodokļa maksātājs ir saņēmis, bet nav piestiprinājis alkoholisko dzērienu vai tabakas izstrādājumu iepakojuma vienībai;
 3) atliktā nodokļa maksāšana - akcīzes nodokļa samaksas atlikšana attiecībā uz akcīzes preču ražošanu, pārstrādi, uzglabāšanu un pārvadāšanu;
 4) dalībvalsts - jebkura Eiropas Savienības dalībvalsts;
 5) maksimālā mazumtirdzniecības cena - cigarešu cena (ieskaitot visus nodokļus), kuru norāda uz akcīzes nodokļa markas un kuru konkrētām cigaretēm nosaka importētājs, noliktavas turētājs Latvijas Republikā vai citas dalībvalsts noliktavas turētāja vai pārsūtītājtirgotāja ieceltais nodokļa maksātāja pārstāvis, pasūtot akcīzes nodokļa markas šīm cigaretēm;

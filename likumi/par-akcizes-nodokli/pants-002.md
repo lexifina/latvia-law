@@ -1,6 +1,7 @@
 2.pants. Likuma darbības joma
 (1) Šis likums nosaka kārtību, kādā akcīzes preces apliek ar akcīzes nodokli (turpmāk - nodoklis), un tas attiecas uz akcīzes precēm, ar kurām Latvijas Republikā tiek veiktas likumā noteiktās darbības.
 (2) Šā likuma 8.panta piektā daļa, 25.panta trešā, ceturtā, piektā, sestā, septītā un astotā daļa, 26.panta trešā, ceturtā un piektā daļa, 31. un 32.pants neattiecas uz bezalkoholiskajiem dzērieniem un kafiju.
+(2¹) Šā likuma nosacījumi (tajā skaitā par nodokļa samaksu, dokumentu iesniegšanu un citi) neattiecas uz tādu akcīzes preču uzglabāšanu, pārvietošanu un iznīcināšanu, kuras ir lietiskais pierādījums vai arestētā manta kriminālprocesā, izņemtā manta administratīvo pārkāpumu lietā vai valstij piekritīgā manta.
 (3) Šā likuma noteikumus par akcīzes preču pārvietošanu no citām dalībvalstīm vai uz citām dalībvalstīm attiecina arī uz šādām teritorijām:
 1) Monako firstisti (darījumus ar šo teritoriju uzskata par darījumiem, kuri uzsākti Francijas Republikā vai paredzēti tai);
 2) Jungholcu un Mitelbergu (Mazajā Valzertālē) (darījumus ar šo teritoriju uzskata par darījumiem, kuri uzsākti Vācijas Federatīvajā Republikā vai paredzēti tai);
@@ -27,4 +28,4 @@
 2) citas prasības noliktavas turētāja, apstiprināta tirgotāja vai nodokļa maksātāja pārstāvja darbībai;
 3) prasības importētāja, neapstiprināta tirgotāja un pārsūtītājtirgotāja darbībai;
 4) citas prasības saskaņā ar šo likumu.
-(8) Lēmuma apstrīdēšana vai pārsūdzēšana par tādu licenču, atļauju, apliecību vai izziņu apturēšanu vai anulēšanu, kuras paredzētas uz likuma pamata izdotajos normatīvajos aktos, neaptur šā lēmuma darbību.
+(8) Lēmuma apstrīdēšana vai pārsūdzēšana saistībā ar tādu licenču vai atsevišķu to nosacījumu, atļauju, apliecību, sertifikātu vai izziņu izsniegšanu, pārreģistrāciju, apturēšanu vai anulēšanu, kuras paredzētas uz likuma pamata izdotajos normatīvajos aktos, neaptur šā lēmuma darbību.

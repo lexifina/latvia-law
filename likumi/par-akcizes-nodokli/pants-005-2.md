@@ -2,4 +2,6 @@
 5.1. degvieleļļas specifiskiem pārstrādes procesiem;
 5.2. degvieleļļas ķīmiskām pārvērtībām procesos;
 5.3. degvieleļļas citām vajadzībām;
-5.4. degvieleļļas, to aizstājējprodukti un komponenti, kuru kolorimetriskais indekss ir vienāds ar 2,0 vai lielāks vai kinemātiskā viskozitāte 50°C ir vienāda ar 25 cSt vai lielāka.
+5.4. degvieleļļas, to aizstājējprodukti un komponenti, kuru kolorimetriskais indekss ir vienāds ar 2,0 vai lielāks vai kinemātiskā viskozitāte 50°C ir vienāda ar 25 mm²/s vai lielāka;
+5.5. lietošanai gatavās saistvielas, ķīmiskie produkti (arī produkti, kas satur dabīgu produktu maisījumus), kas nav minēti vai iekļauti citur;
+5.6. eļļas atkritumi, kuri ietilpst Kombinētās nomenklatūras 2710.preču pozīcijā.
