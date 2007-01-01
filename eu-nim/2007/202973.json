@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par kārtību, kādā cilvēku tirdzniecības upuri saņem sociālās rehabilitācijas pakalpojumus, un kritērijiem personas atzīšanai par cilvēku tirdzniecības upuri",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "176",
+  "official_journal_page": null,
+  "official_journal_date": "2006-11-03",
+  "entry_into_force": "2007-01-01",
+  "notification_date": "2013-04-08",
+  "commission_reference": "MNE(2013)52589",
+  "nim_celex": "72011L0036LVA_202973",
+  "nim_id": "202973",
+  "transposes_celex": [
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5308730d-4289-4cc2-b8a0-91be55a7f1ae",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
