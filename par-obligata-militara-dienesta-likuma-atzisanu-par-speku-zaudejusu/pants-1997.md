@@ -1,0 +1,1 @@
+Atzīt par spēku zaudējušu Obligātā militārā dienesta likumu (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1997, 6.nr.; 1998, 1.nr.; 2000, 2.nr.; 2001, 1., 10., 24.nr.; 2002, 14.nr.; 2003, 22.nr.; 2004, 2.nr.; 2005, 2.nr., 2006, 14.nr.).
