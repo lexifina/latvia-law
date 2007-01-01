@@ -15,7 +15,7 @@ b) veidot un uzturēt to personu sarakstu, kuras nodarbojas ar bioloģisko lauks
 a) kontrolēt valsts intervencē iepērkamo pārtikas produktu atbilstību obligātajām kvalitātes un nekaitīguma prasībām,
 b) veikt intervences noliktavu uzraudzību atbilstoši normatīvo aktu prasībām;
 7) nodrošināt savas kompetences ietvaros sadarbību ar starptautiskajām organizācijām, kā arī starptautisko pārtikas kontroles sistēmu darbību. Riska faktoru izpētes un riska samazināšanas nolūkā noskaidrot obligātajām nekaitīguma prasībām neatbilstošas pārtikas ražotājus un izplatītājus;
-8) uzraudzīt un kontrolēt ģeogrāfiskas izcelsmes norāžu un cilmes vietu nosaukumu, kā arī īpaša rakstura sertifikāta aizsardzību;
+8) uzraudzīt un kontrolēt ģeogrāfiskas izcelsmes norāžu un cilmes vietu nosaukumu, kā arī tradicionālo īpatnību aizsardzību;
 9) veikt veterināro uzraudzību un kontroli saskaņā ar normatīvajiem aktiem;
 10) noteikt riska vadības pagaidu pasākumus bīstamības samazināšanai līdz riska novērtēšanai un riska vadības pasākumu izstrādāšanai, ja ir konstatēts iespējamais apdraudējums cilvēku vai dzīvnieku veselībai un nav veikta riska analīze;
 10¹) izvērtēt diētiskās pārtikas un uztura bagātinātāju atbilstību normatīvajos aktos noteiktajām prasībām, kā arī mātes piena aizstājēju reklāmas atbilstību normatīvajos aktos noteiktajām prasībām;
@@ -23,7 +23,9 @@ b) veikt intervences noliktavu uzraudzību atbilstoši normatīvo aktu prasībā
 12) iesaistoties Eiropas Savienības ātrās izziņošanas sistēmā, veikt riska faktoru izpēti un panākt riska samazināšanu, novēršot obligātajām nekaitīguma prasībām neatbilstošas un cilvēku veselībai vai dzīvībai draudus radošas pārtikas izplatīšanu Latvijā;
 13) uzraudzīt un kontrolēt Eiropas Savienības tiesību aktos noteikto prasību ievērošanu pārtikas aprites jomā, kā arī sniegt nepieciešamo informāciju Eiropas Savienības institūcijām;
 14) izveidot, aktualizēt un uzturēt 4.panta 10.¹daļā minētos reģistrus un datu bāzes;
-15) nodrošināt Ģenētiski modificēto organismu un jaunās pārtikas uzraudzības padomes darbu.
+14¹) izveidot un uzturēt šā likuma 10.panta ceturtajā daļā minēto pārtikas pārvadāšanas atļauju datubāzi;
+15) nodrošināt Ģenētiski modificēto organismu un jaunās pārtikas uzraudzības padomes darbu;
+16) uzraudzīt un kontrolēt institūcijas, kas pārbauda to personu darbību, kuras piedalās pārtikas kvalitātes shēmās.
 (3) Pārtikas aprites valsts uzraudzību un kontroli Pārtikas un veterinārais dienests veic saskaņā ar Pārtikas padomē izvērtētajām uzraudzības programmām, ievērojot likumā par valsts budžetu kārtējam gadam piešķirto apropriāciju.
 (4) Prasības tādas pārtikas ievešanai no trešajām valstīm, kura nav pakļauta veterinārajai kontrolei, kā arī kontroles kārtību valsts robežkontroles punktos, brīvajās zonās, brīvajās noliktavās un muitas noliktavās nosaka Ministru kabinets.
 (5) Prasības iekārtojumam kontroles punktos, kuros veic pārtikas sanitāro robežkontroli, un kontroles punktu atzīšanas kārtību nosaka Ministru kabinets.
