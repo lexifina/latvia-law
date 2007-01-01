@@ -10,4 +10,10 @@
 9) Dzīvnieku aizsardzības ētikas padomes nolikumu, nosakot tās funkcijas un darbību;
 10) kārtību un prasības tādu savvaļas dzīvnieku turēšanai iežogotās platībās (briežu dārzos, savvaļas putnu fermās, kažokzvēru fermās u.c.), kuri izmantojami dzīvnieku izcelsmes produktu ieguvei vai sugas selekcijas nolūkos;
 11) kritērijus un kārtību, kādā suni atzīst par bīstamu, nosaka turpmāko rīcību ar to un prasības bīstama suņa turēšanai;
-12) kārtību, kādā dzīvnieku nodod dzīvnieku patversmē vai dzīvnieku viesnīcā.
+12) kārtību, kādā dzīvnieku nodod dzīvnieku patversmē vai dzīvnieku viesnīcā;
+13) valsts nodevas apmēru un samaksas kārtību par cirka dzīvnieka, dresūras dzīvnieka, cirka un dresūras numura viesizrāžu vietas reģistrāciju;
+14) valsts nodevas apmēru un samaksas kārtību par tāda suņa reģistrāciju, kurš apmācīts uzbrukt cilvēkam;
+15) valsts nodevas apmēru un samaksas kārtību par atļauju izmantot dzīvnieku eksperimentos un apmācībās;
+16) valsts nodevas apmēru un samaksas kārtību par dzīvnieka pārvadātāja apliecības izsniegšanu;
+17) valsts nodevas apmēru un samaksas kārtību par atļaujas izsniegšanu transportlīdzeklim dzīvnieku pārvadāšanai;
+18) valsts nodevas apmēru un samaksas kārtību par atļauju savvaļas dzīvnieku kolekcijas izveidei un darbībai.
