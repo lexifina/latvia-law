@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ieguldījumu fondu pārskatu sagatavošanas noteikumi",
+  "type_of_act": "Ministrijas instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "198",
+  "official_journal_page": null,
+  "official_journal_date": "2006-12-13",
+  "entry_into_force": "2007-01-01",
+  "notification_date": "2008-05-08",
+  "commission_reference": "MNE(2008)52194",
+  "nim_celex": "72007L0016LVA_154988",
+  "nim_id": "154988",
+  "transposes_celex": [
+    "32007L0016"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6b7d7ba4-0a5f-4b13-a10d-0abe6dab2c63",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
