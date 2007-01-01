@@ -8,3 +8,4 @@
 5) gadījumos, kad persona no tiesas izdevumu samaksas atbrīvota ar tiesas lēmumu, - pilnībā vai daļēji atbilstoši tiesas lēmumam.
 (3) Gadījumos, kad piedzinējs ir atbrīvots no sprieduma izpildes izdevumu samaksas, izpildu darbību veikšanai nepieciešamie izdevumi tiek segti no valsts budžeta līdzekļiem.
 (4) Izpildu darbību veikšanai nepieciešamo izdevumu apmēru un to maksāšanas kārtību nosaka Ministru kabinets.
+(5) Ja izpildāms atbildīgās iestādes lēmums par starptautisko organizāciju noteikto sankciju piespiedu izpildi, amata atlīdzība takses apmērā un izpildu darbību veikšanai nepieciešamie izdevumi tiesu izpildītājam tiek segti no valsts budžeta līdzekļiem kārtībā, kuru nosaka Ministru kabinets.

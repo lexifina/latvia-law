@@ -7,4 +7,5 @@ Izpildu dokumenti ir:
 5) tiesas lēmumi par procesuālo sankciju piemērošanu - naudas sodu uzlikšanu;
 6) notāru, advokātu un tiesu izpildītāju izrakstītie rēķini;
 7) ārvalsts tiesas vai kompetentās iestādes izsniegts Eiropas izpildes rīkojums saskaņā ar Eiropas Parlamenta un Padomes 2004.gada 21.aprīļa regulu (EK) Nr. 805/2004, ar ko izveido Eiropas izpildes rīkojumu neapstrīdētiem prasījumiem (Eiropas Parlamenta un Padomes regula Nr. 805/2004);
-8) ārvalsts tiesas vai kompetentās iestādes izsniegta apliecība saskaņā ar Padomes regulas Nr. 2201/2003 41.panta 1.punktu vai 42.panta 1.punktu.
+8) ārvalsts tiesas vai kompetentās iestādes izsniegta apliecība saskaņā ar Padomes regulas Nr. 2201/2003 41.panta 1.punktu vai 42.panta 1.punktu;
+9) atbildīgās iestādes lēmumi par starptautisko organizāciju noteikto sankciju piespiedu izpildi.
