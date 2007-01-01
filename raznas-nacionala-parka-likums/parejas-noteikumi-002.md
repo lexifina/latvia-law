@@ -1,0 +1,1 @@
+2. Līdz šā likuma 3.panta otrajā daļā paredzēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2007.gada 1.jūlijam ir spēkā Ministru kabineta 2004.gada 8.aprīļa noteikumi Nr.264 "Dabas parka "Rāzna" individuālie aizsardzības un izmantošanas noteikumi", ciktāl tie nav pretrunā ar šo likumu.
