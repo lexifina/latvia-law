@@ -15,6 +15,7 @@
 13) veikt bibliotēkas darba procesus atbilstoši Latvijas Nacionālā standartizācijas un metroloģijas centra izstrādātajām bibliotēku darba nacionālo standartu prasībām.
 (2) Valsts un pašvaldību bibliotēku īpašie pienākumi ir:
 1) darīt pieejamu bibliotēku lietotājiem valsts un pašvaldību institūciju sagatavoto un publicēto informāciju;
-2) nodrošināt publisku pieejamību bibliotēkas pārskatam par finansu līdzekļu izlietojumu iepriekšējā budžeta gadā;
-3) bez maksas uz laiku no saviem krājumiem izsniegt iespieddarbus un citus dokumentus un to kopas pēc citu bibliotēku pieprasījuma.
+2) nodrošināt publisku pieejamību bibliotēkas gada publiskajam pārskatam;
+3) bez maksas uz laiku no saviem krājumiem izsniegt iespieddarbus un citus dokumentus un to kopas pēc citu bibliotēku pieprasījuma;
+4) nodrošināt bibliotēkas lietotājiem bezmaksas pieeju internetam un vispārpieejamiem elektroniskās informācijas resursiem, kā arī nodrošināt iespēju bez maksas izmantot datoru. Datora bezmaksas izmantošanas kārtību nosaka bibliotēkas lietošanas noteikumos.
 (3) Bibliotēkām, kuras sniedz pakalpojumus bērniem un jauniešiem, ir pienākums pievērst īpašu uzmanību bibliotēku krājumu kvalitātes uzlabošanai, jaunu informācijas tehnoloģiju ieviešanai nolūkā veicināt bērnu un jauniešu tieksmi lasīt un izkopt viņu iemaņas informācijas tehnoloģiju un līdzekļu apguvē.

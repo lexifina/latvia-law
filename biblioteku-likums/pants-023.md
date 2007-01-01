@@ -7,3 +7,4 @@
 5) iepazīties ar bibliotēkas lietošanas noteikumiem;
 6) piedalīties bibliotēkas darba organizatorisko jautājumu risināšanā un bibliotekāru profesionālo organizāciju darbā.
 (2) Ja valsts un pašvaldību bibliotēku lietotāji ir invalīdi ar kustību, redzes un citiem traucējumiem, viņiem ir tiesības saņemt bibliotēkas pakalpojumus savā dzīvesvietā.
+(3) Valsts un pašvaldību bibliotēku lietotājiem ir tiesības bez maksas izmantot publiski pieejamos datorus, kā arī internetu un vispārpieejamos elektroniskās informācijas resursus.
