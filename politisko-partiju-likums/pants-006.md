@@ -1,0 +1,11 @@
+6.pants. Partijas nosaukums un simbolika
+(1) Partijas nosaukumam, nosaukuma saīsinājumam vai simbolikai ir nepārprotami jāatšķiras no Latvijā agrāk reģistrētas (neatkarīgi no darbības turpināšanas) partijas vai partiju apvienības nosaukuma, nosaukuma saīsinājuma vai simbolikas, kā arī biedrības vai nodibinājuma nosaukuma. Agrāk reģistrētas partijas nosaukuma, nosaukuma saīsinājuma vai simbolikas izmantošana atļauta gadījumos, kad partijas reorganizējot apvieno vai pārveido par biedrību. Partijas nosaukumu veido atbilstoši valsts valodas prasībām.
+(2) Partiju apvienības nosaukumā, nosaukuma saīsinājumā un simbolikā var iekļaut to veidojošo partiju nosaukumus, nosaukumu saīsinājumus vai simboliku.
+(3) Ja visas partiju apvienībā ietilpstošās partijas reorganizējoties apvienojas un izveido vienu partiju, tā var pārņemt attiecīgās partiju apvienības nosaukumu, nosaukuma saīsinājumu un simboliku vai arī izmantot vienu vai vairākus no minētajiem elementiem.
+(4) Ir aizliegti partiju nosaukumi, nosaukumu saīsinājumi un simbolika, kas:
+1) ir pretrunā ar normatīvajiem aktiem un labiem tikumiem. Nosaukumā nedrīkst ietvert militāra formējuma nosaukumu vai tādas organizācijas vai grupas nosaukumu, kura atzīta par noziedzīgu vai antikonstitucionālu, tas nedrīkst radīt pozitīvu attieksmi pret vardarbību;
+2) sakrīt ar tādas organizācijas nosaukumu, nosaukuma saīsinājumu vai simboliku, kuras mērķis vai darbība ir vērsta pret Latvijas neatkarību, suverenitāti vai drošību vai kura atveido šādas organizācijas nosaukumu, nosaukuma saīsinājumu vai simboliku.
+(5) Partijas nosaukumā lietojami vienīgi latviešu alfabēta burti.
+(6) Partijas nosaukumā nedrīkst ietvert maldinošas ziņas par partijas darbības mērķi, darbības veidu un tiesisko formu.
+(7) Partijas nosaukumā nedrīkst ietvert vārdus "Latvijas Republika", valsts un pašvaldību institūciju nosaukumus, kā arī vārdus "valsts" vai "pašvaldība". Partijas simbolika nedrīkst sakrist ar valsts, pašvaldību vai to institūciju simboliku.
+(8) Partija, kuras tiesības ir aizskartas, prettiesīgi izmantojot tās nosaukumu, nosaukuma saīsinājumu vai simboliku, var no aizskārēja prasīt, lai tas izbeidz izmantot attiecīgo nosaukumu, nosaukuma saīsinājumu vai simboliku un lai atlīdzina partijai ar tās nosaukuma, nosaukuma saīsinājuma vai simbolikas prettiesīgu izmantošanu nodarītos zaudējumus (kaitējumu).

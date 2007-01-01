@@ -1,0 +1,2 @@
+37.pants. Partijas saimnieciskās un finansiālās darbības revīzija
+Partijas saimniecisko un finansiālo darbību ne retāk kā reizi gadā pārbauda zvērināts revidents. Zvērināta revidenta atzinums par attiecīgās partijas finansiālo un saimniecisko darbību pievienojams ikgadējai finansiālās darbības deklarācijai, kuru partija saskaņā ar partiju finansēšanu regulējošajiem normatīvajiem aktiem iesniedz Korupcijas novēršanas un apkarošanas birojam.

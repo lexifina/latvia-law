@@ -1,0 +1,3 @@
+2.pants. Partijas un partiju apvienības jēdziens
+(1) Partija ir organizācija, kas tiek izveidota, lai veiktu politisko darbību, piedalītos vēlēšanu kampaņā, izvirzītu deputātu kandidātus, piedalītos Saeimas vai pašvaldību domju (padomju), Eiropas Parlamenta darbā, ar deputātu starpniecību īstenotu partijas programmu, kā arī iesaistītos publiskās pārvaldes institūciju izveidē.
+(2) Lai savstarpēji koordinētu darbību un sasniegtu statūtos noteiktos mērķus, vairākas partijas uz mērķu kopības pamata šajā likumā noteiktajā kārtībā var nodibināt partiju apvienību. Partija vienlaikus var būt tikai vienā reģistrētā partiju apvienībā. Uz partiju apvienībām attiecināmi šā likuma noteikumi par partijām, ciktāl tas nenosaka citādi.

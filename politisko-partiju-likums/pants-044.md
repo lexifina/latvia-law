@@ -1,0 +1,3 @@
+44.pants. Partijas darbības izbeigšana ar valdes lēmumu
+(1) Ja biedru skaits samazinājies un ir mazāks par 150 biedriem vai par citu statūtos noteiktu skaitu (kas nav mazāks par 150), kā arī tad, ja izbeidzas statūtos noteiktais termiņš, uz kādu partija bija dibināta, lēmumu par darbības izbeigšanu pieņem partijas valde vai cita statūtos noteikta pārvaldes institūcija.
+(2) Partiju apvienības valde pieņem lēmumu par partiju apvienības darbības izbeigšanu šā likuma 41.panta 4. un 6.punktā minētajos gadījumos, kā arī gadījumā, kad partiju apvienībā ietilpstošo partiju skaits ir samazinājies līdz vienai partijai.
