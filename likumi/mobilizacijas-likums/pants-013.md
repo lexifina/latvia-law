@@ -1,2 +1,2 @@
-13.pants. Pilsoņu iesaukšana aktīvajā militārajā dienestā
-Latvijas pilsoņu - rezerves karavīru un rezervistu - iesaukšana aktīvajā militārajā dienestā mobilizācijas gadījumā notiek saskaņā ar Obligātā militārā dienesta likumu Ministru kabineta noteiktajā kārtībā.
+13.pants. Pilsoņu iesaukšana aktīvajā dienestā
+Latvijas pilsoņu - rezerves karavīru un rezervistu - iesaukšana aktīvajā dienestā mobilizācijas gadījumā notiek saskaņā ar Militārā dienesta likumu Ministru kabineta noteiktajā kārtībā.
