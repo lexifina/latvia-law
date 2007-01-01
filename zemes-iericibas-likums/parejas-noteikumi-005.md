@@ -1,0 +1,1 @@
+5. Valstij un pašvaldībai piekrītošo zemi ieraksta zemesgrāmatā atbilstoši likumam "Par valsts un pašvaldību zemes īpašuma tiesībām un to nostiprināšanu zemesgrāmatās", zemes īpašuma tiesību nostiprināšanai iesniedz zemesgrāmatu nodaļai zemes robežu plānu un zemes ierīcības projektu neizstrādā.

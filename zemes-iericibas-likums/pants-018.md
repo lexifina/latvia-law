@@ -1,0 +1,2 @@
+18.pants. (1) Par zemes ierīcības projekta izstrādi, tā finansēšanas kārtību un būtiskajiem zemes ierīcības darba uzdevumiem ieinteresētie zemesgabalu īpašnieki noslēdz vienošanos.
+(2) Pēc zemes ierīcības projekta izstrādes zemesgabalu īpašnieki ar savu parakstu apliecina, ka piekrīt projekta risinājumu īstenošanai, zemesgabalu apmaiņas vai kompensācijas nosacījumiem, kā arī saskaņo projektēto zemesgabalu robežas.

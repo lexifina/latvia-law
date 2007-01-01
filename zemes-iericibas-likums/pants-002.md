@@ -1,0 +1,1 @@
+2.pants. Likuma mērķis ir sekmēt zemes īpašumu sakārtošanu, kā arī zemes resursu ilgtspējīgu izmantošanu, nosakot zemes ierīcības darbu veidus, izpildes kārtību un zemes ierīcībā iesaistīto personu tiesības un pienākumus.

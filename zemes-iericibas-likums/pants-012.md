@@ -1,0 +1,2 @@
+12.pants. (1) Zemes ierīcības projekta izstrādātājam ir pienākums izvērtēt šā likuma 11.panta pirmajā daļā minēto personu priekšlikumus un divu nedēļu laikā rakstveidā informēt tās par šo priekšlikumu ievērošanu vai noraidīšanu, norādot noraidīšanas pamatojumu. Priekšlikumus un atbildes uz tiem reģistrē un apkopo atbilstoši lietvedības noteikumiem un pievieno zemes ierīcības projektam.
+(2) Izstrādājot zemes ierīcības projektu, tā izstrādātājs uzaicina projekta īstenošanā iesaistītās personas uz pārrunām par iesniegtajiem priekšlikumiem un iespējām tos realizēt.

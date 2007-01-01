@@ -1,0 +1,1 @@
+21.pants. Ja zemes ierīcības projektā ietvertais īpašums ir bijis apgrūtināts ar kredītsaistībām, šo kredītsaistību pārvedumu uz jaunizveidojamo īpašumu (īpašumiem) un projektējamā zemesgabala ierakstīšanu zemesgrāmatā saskaņo ar kreditoru.
