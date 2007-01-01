@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi likumā \"Par darbinieku aizsardzību darba\ndevēja maksātnespējas gadījumā\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "207",
+  "official_journal_page": null,
+  "official_journal_date": "2006-12-29",
+  "entry_into_force": "2007-01-01",
+  "notification_date": "2007-02-01",
+  "commission_reference": "MNE(2007)50764",
+  "nim_celex": "71980L0987LVA_140748",
+  "nim_id": "140748",
+  "transposes_celex": [
+    "31980L0987"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e5c5ef33-90f8-4c66-b2e8-8850dd032b5b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
