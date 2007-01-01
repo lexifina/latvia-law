@@ -2,7 +2,7 @@
 (1) Bezdarba samazināšanas preventīvie pasākumi ir profesionālās orientācijas un konsultēšanas pakalpojumi, kuri tiek sniegti personām, kas vēlas iegūt izglītību vai kas strādā vai vēlas strādāt algotu darbu, un kuru mērķis ir veicināt personu konkurētspēju darba tirgū un sniegt tām palīdzību profesionālās karjeras izvēlē.
 (2) Profesionālās orientācijas pakalpojumus ir tiesīgas izmantot personas, kuru pastāvīgā dzīvesvieta ir Latvijā un kuras vēlas iegūt izglītību vai kuras strādā vai vēlas strādāt algotu darbu.
 (3) Profesionālās orientācijas pakalpojumus sniedz Profesionālās karjeras izvēles valsts aģentūra, kas ir Labklājības ministrijas pārraudzībā.
-(4) Profesionālās karjeras izvēles valsts aģentūru finansē no nodarbinātības speciālā budžeta, ienākumiem no pakalpojumu sniegšanas, dāvinājumiem un ziedojumiem, kā arī citiem līdzekļiem saskaņā ar normatīvajiem aktiem.
+(4) Profesionālās karjeras izvēles valsts aģentūru finansē no valsts pamatbudžeta, ienākumiem no pakalpojumu sniegšanas, dāvinājumiem un ziedojumiem, kā arī citiem līdzekļiem saskaņā ar normatīvajiem aktiem.
 (5) Profesionālās karjeras izvēles valsts aģentūra:
 1) atbilstoši savai kompetencei piedalās Latvijas Nacionālā rīcības plāna nodarbinātības veicināšanai izstrādāšanā un īstenošanā;
 2) bez maksas sniedz profesionālās orientācijas pakalpojumus, konsultējot personas profesionālās piemērotības jautājumos, piemērotas profesijas un pārkvalifikācijas izvēlē;

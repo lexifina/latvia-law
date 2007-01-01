@@ -1,4 +1,4 @@
 9.pants. Aktīvo nodarbinātības pasākumu, bezdarba samazināšanas preventīvo pasākumu un projektu finansēšana
 (1) Aktīvo nodarbinātības pasākumu, bezdarba samazināšanas preventīvo pasākumu un šā likuma 5.panta piektajā daļā, 6.panta trešās daļas 17.punktā un 8.panta trešajā daļā minēto projektu finansēšanā kopā ar valsts vai pašvaldību, vai ārvalstu, vai starptautisko organizāciju piešķirtajiem līdzekļiem izmantojami arī projekta īstenotāja vai palīdzības saņēmēja līdzekļi.
 (2) Aktīvos nodarbinātības pasākumus finansē, kā arī stipendiju un īres un transporta izdevumus bezdarbnieka profesionālās apmācības, pārkvalifikācijas un kvalifikācijas paaugstināšanas laikā un stipendiju neformālās izglītības ieguves laikā apmaksā no valsts pamatbudžeta un no nodarbinātības speciālā budžeta.
-(3) Algotus pagaidu darbus un šā likuma 3.panta pirmās daļas 4.punktā minētos pasākumus finansē no valsts pamatbudžeta.
+(3) Bezdarba samazināšanas preventīvos pasākumus finansē no valsts pamatbudžeta.
