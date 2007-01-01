@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2006.gada 6.novembra noteikumi Nr.908 \"Arodslimību izmeklēšanas un uzskaites kārtība\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "180",
+  "official_journal_page": null,
+  "official_journal_date": "2006-11-09",
+  "entry_into_force": "2007-01-01",
+  "notification_date": "2025-12-16",
+  "commission_reference": "MNE(2025)07038",
+  "nim_celex": "72023L2668LVA_202507038",
+  "nim_id": "202507038",
+  "transposes_celex": [
+    "32023L2668"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bb9ad742-d7e5-4856-9a0e-b71164b9076c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
