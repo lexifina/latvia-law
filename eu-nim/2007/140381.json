@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par Latvijas Republikas eksporta kredītu garantētāja paziņošanas procedūrām Eiropas Komisijai un citiem Eiropas Savienības dalībvalstu eksporta kredītu garantētājiem",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "4",
+  "official_journal_page": null,
+  "official_journal_date": "2007-01-05",
+  "entry_into_force": "2007-01-06",
+  "notification_date": "2007-02-01",
+  "commission_reference": "MNE(2007)50474",
+  "nim_celex": "71998L0029LVA_140381",
+  "nim_id": "140381",
+  "transposes_celex": [
+    "31998L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cb0b72dd-b9fc-4e7e-97c5-5dc33faa8dcd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
