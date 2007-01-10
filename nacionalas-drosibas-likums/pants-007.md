@@ -3,7 +3,7 @@
 (2) Saeimas Nacionālās drošības komisija:
 1) (izslēgts ar 07.04.2004. likumu);
 2) izvērtē un akceptē valsts drošības iestāžu budžetu projektus;
-3) veic valsts drošības iestāžu darbības un budžeta līdzekļu izlietošanas parlamentāro kontroli;
+3) veic valsts drošības iestāžu darbības un budžeta līdzekļu izlietošanas parlamentāro kontroli. Veicot parlamentāro kontroli, Saeimas Nacionālās drošības komisijas deputātiem vai tās pilnvarotām amatpersonām, kurām ir pirmās kategorijas speciālā atļauja pieejai valsts noslēpumam, ir tiesības veikt pārbaudes valsts drošības iestādēs un iepazīties ar nepieciešamo informāciju un dokumentiem, uzklausīt valsts drošības iestāžu amatpersonas, pārbaudīt veikto izlūkošanas, pretizlūkošanas darbību un operatīvās darbības pasākumu likumību un pamatotību;
 4) noklausās Ministru kabineta un valsts drošības iestāžu vadītāju ziņojumus par valsts drošības iestāžu darbību, kā arī izskata šo iestāžu darbības pārbaudes rezultātus;
 5) (izslēgts ar 07.04.2004. likumu);
 6) (izslēgts ar 07.04.2004. likumu);
