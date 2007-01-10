@@ -1,1 +1,1 @@
-2. Līdz šā likuma 22.pantā minēto noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2006.gada 29.decembrim piemērojami Ministru kabineta 1993.gada 26.oktobra noteikumi Nr.16 "Par zemes reformas un zemes privatizācijas darbu finansēšanas kārtību", ciktāl tie nav pretrunā ar šo likumu.
+2. Līdz šā likuma 22.pantā minēto noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2007.gada 30.aprīlim piemērojami Ministru kabineta 1993.gada 26.oktobra noteikumi Nr.16 "Par zemes reformas un zemes privatizācijas darbu finansēšanas kārtību", ciktāl tie nav pretrunā ar šo likumu.
