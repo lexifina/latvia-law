@@ -8,4 +8,4 @@
 2) zemesgabala kadastrālo vērtību;
 3) konta numuru, kurā pārskaitāmi privatizācijas sertifikāti.
 (6) Veicot priekšapmaksu, privatizācijas sertifikātu pārveduma uzdevumā jābūt norādei par priekšapmaksu.
-(7) Priekšapmaksas kārtību nosaka Ministru kabinets.
+(7) Priekšapmaksas kārtību un lietošanā piešķirtās zemes izpirkšanas līgumu slēgšanas kārtību nosaka Ministru kabinets.

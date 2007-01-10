@@ -1,0 +1,1 @@
+13. Uz valsts vārda Privatizācijas aģentūras personā zemesgrāmatā var tikt ierakstīti privatizācijai nodoti valsts īpašuma objekti, kā arī valstij piekrītoši vai piederoši neapbūvēti un apbūvēti zemesgabali.
