@@ -23,5 +23,5 @@
 5) veikt citas šajā likumā vai Ministru kabineta noteikumos paredzētās funkcijas;
 6) piedalīties privatizēto dzīvojamo māju uzturēšanas un apsaimniekošanas organizēšanā, kā arī organizēt privatizēto dzīvokļu īpašnieku un to apsaimniekotāju apmācību par dzīvojamo māju apsaimniekošanas jautājumiem;
 7) ar pilsētas un novada domes, pagasta padomes vai rajona padomes pilnvarojumu privatizēt attiecīgo pašvaldību dzīvojamās mājas;
-8) sniegt maksas pakalpojumus savas kompetences ietvaros atbilstoši reģionālās attīstības un pašvaldību lietu ministra apstiprinātajiem pakalpojumu veidiem un tarifiem;
+8) sniegt maksas pakalpojumus savas kompetences ietvaros atbilstoši ekonomikas ministra apstiprinātajiem pakalpojumu veidiem un tarifiem;
 9) pieprasīt un saņemt no citām valsts informācijas sistēmām bezmaksas informāciju, kas nepieciešama dzīvojamo māju privatizācijas elektroniskās datu bāzes uzturēšanai un aktualizēšanai.
