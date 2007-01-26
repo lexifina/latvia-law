@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par visa izlietotā iepakojuma reģenerācijas procentuālo apjomu (īpatsvaru) un termiņiem, reģistrēšanas un ziņojumu sniegšanas kārtību un veidlapu paraugiem, prasībām, kas komercsabiedrībai jāizpilda, lai tā tiktu reģistrēta kā iepakojuma apsaimniekotājs, iepakojuma definīcijas kritēriju piemērošanas piemēriem un izņēmumiem attiecībā uz smago metālu saturu iepakojumā",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "15",
+  "official_journal_page": null,
+  "official_journal_date": "2007-01-25",
+  "entry_into_force": "2007-01-26",
+  "notification_date": "2007-04-12",
+  "commission_reference": "MNE(2007)53049",
+  "nim_celex": "71994L0062LVA_143724",
+  "nim_id": "143724",
+  "transposes_celex": [
+    "31994L0062",
+    "32004L0012"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c06d66c6-43fd-4a73-b857-78c92a5076a8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
