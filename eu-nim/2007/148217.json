@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par atbilstības kritērijiem komersantu uzņēmumiem, kuri nodarbojas ar mākslīgo apsēklošanu un embriju transplantāciju, kā arī šo komersantu reģistrēšanas kārtību",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "28",
+  "official_journal_page": null,
+  "official_journal_date": "2007-02-16",
+  "entry_into_force": null,
+  "notification_date": "2007-09-05",
+  "commission_reference": "MNE(2007)56277",
+  "nim_celex": "71987L0328LVA_148217",
+  "nim_id": "148217",
+  "transposes_celex": [
+    "31987L0328"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/df088ec4-4eb3-4ae2-b485-fc32c9ca63db",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
