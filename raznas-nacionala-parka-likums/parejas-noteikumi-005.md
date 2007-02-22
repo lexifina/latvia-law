@@ -1,1 +1,1 @@
-5. Līdz nacionālā parka administrācijas izveidošanai likumā noteiktās funkcijas veic Valsts vides dienesta Rēzeknes reģionālā vides pārvalde.
+5. Līdz nacionālā parka administrācijas izveidošanai normatīvajos aktos noteiktās funkcijas veic Valsts vides dienesta Rēzeknes reģionālā vides pārvalde, izņemot Meža likuma 39.panta pirmajā daļā minēto apliecinājumu un medības regulējošos normatīvajos aktos minēto administratīvo aktu izdošanu.

@@ -1,0 +1,1 @@
+7. Līdz 2007.gada 1.janvārim noslēgtie līgumi par koksnes ieguves tiesībām un nekoksnes vērtību izmantošanas tiesībām valsts meža zemēs, kas saskaņā ar šo likumu ierakstāmas zemesgrāmatā uz valsts vārda Vides ministrijas personā, ir spēkā līdz to saistību izpildei, ja tie nav pretrunā ar šo likumu.
