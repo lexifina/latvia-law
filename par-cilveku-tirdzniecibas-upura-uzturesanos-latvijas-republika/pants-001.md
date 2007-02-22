@@ -1,0 +1,3 @@
+1.pants. Likumā ir lietoti šādi termini:
+1) sociālās rehabilitācijas pakalpojumu sniedzējs - persona, kura sniedz sociālās rehabilitācijas pakalpojumus un ir reģistrēta sociālo pakalpojumu sniedzēju reģistrā atbilstoši normatīvajos aktos noteiktajām prasībām;
+2) nogaidīšanas periods - laikposms, kas tiek piešķirts personai, kura atzīta par cilvēku tirdzniecības upuri (turpmāk - cilvēku tirdzniecības upuris), lai tā apsvērtu iespēju sniegt izmeklēšanas iestādei vai procesa virzītājam, kas pilda šajā likumā noteiktās funkcijas, informāciju, kura sekmētu cilvēku tirdzniecības gadījumu atklāšanu vai novēršanu.

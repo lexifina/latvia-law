@@ -1,0 +1,1 @@
+10.pants. No brīža, kad izsniegta termiņuzturēšanās atļauja, cilvēku tirdzniecības upura, kā arī tā pavadībā esoša nepilngadīga bērna uzturēšanos Latvijas Republikā nosaka saskaņā ar Imigrācijas likumu.

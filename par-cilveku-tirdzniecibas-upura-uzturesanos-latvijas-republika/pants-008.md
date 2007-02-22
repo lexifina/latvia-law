@@ -1,0 +1,1 @@
+8.pants. Šā likuma 7.pantā paredzētos pakalpojumus ir tiesības saņemt cilvēku tirdzniecības upurim, kā arī tā pavadībā esošam nepilngadīgam bērnam, ja Pārvalde, pamatojoties uz procesa virzītāja pieprasījumu, cilvēku tirdzniecības upurim ir izsniegusi termiņuzturēšanās atļauju.

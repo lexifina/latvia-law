@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Padomes direktīvas 2004/81/EK (2004.gada 29.aprīlis) par uzturēšanās atļauju, ko izdod trešo valstu valstspiederīgām personām, kuras ir cilvēku tirdzniecības upuri vai kurām ir palīdzēts nelegāli imigrēt un kuras sadarbojas ar kompetentajām iestādēm.
