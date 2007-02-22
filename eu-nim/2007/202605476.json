@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums “Par cilvēku tirdzniecības upura uzturēšanos Latvijas Republikā”",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "23",
+  "official_journal_page": null,
+  "official_journal_date": "2007-02-08",
+  "entry_into_force": "2007-02-22",
+  "notification_date": "2026-07-14",
+  "commission_reference": "MNE(2026)05476",
+  "nim_celex": "72024L1712LVA_202605476",
+  "nim_id": "202605476",
+  "transposes_celex": [
+    "32024L1712"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d3e9d6ea-2d11-4052-aab8-4c4c3f955c16",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
