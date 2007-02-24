@@ -1,0 +1,1 @@
+1.pants. 2005.gada 23.novembra Frankofonijas statūti un dokuments "Iestāšanās statuss un nosacījumi franciski runājošo valstu un to valdību vadītāju konferencē" (turpmāk - Statūti) ar šo likumu tiek pieņemti un apstiprināti.

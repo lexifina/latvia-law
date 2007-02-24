@@ -1,0 +1,1 @@
+3.pants. Statūti stājas spēkā dokumenta "Iestāšanās statuss un nosacījumi franciski runājošo valstu un to valdību vadītāju konferencē" III nodaļas "B" apakšnodaļā noteiktajā kārtībā, un Ārlietu ministrija par to paziņo laikrakstā "Latvijas Vēstnesis".
