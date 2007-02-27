@@ -1,5 +1,5 @@
 7.¹ pants. Bērna invalīda kopšanas pabalsts
-(1) Bērna invalīda kopšanas pabalstu piešķir personai, kas kopj bērnu, kuram Veselības un darbspēju ekspertīzes ārstu valsts komisija ir noteikusi invaliditāti un izsniegusi atzinumu par īpašas kopšanas nepieciešamību sakarā ar smagiem fiziskiem un funkcionāliem traucējumiem, ja minētā persona nav nodarbināta (nav uzskatāma par darba ņēmēju vai pašnodarbināto saskaņā ar likumu "Par valsts sociālo apdrošināšanu").
+(1) Bērna invalīda kopšanas pabalstu piešķir personai, kas kopj bērnu, kuram Veselības un darbspēju ekspertīzes ārstu valsts komisija ir noteikusi invaliditāti un izsniegusi atzinumu par īpašas kopšanas nepieciešamību sakarā ar smagiem fiziskiem un funkcionāliem traucējumiem.
 (2) Bērna invalīda kopšanas pabalstu nepiešķir, ja tajā pašā laikposmā vienam bērna vecākam sakarā ar šā bērna piedzimšanu vai kopšanu ir piešķirts maternitātes pabalsts vai bērna kopšanas pabalsts.
 (3) Tiesības saņemt bērna invalīda kopšanas pabalstu rodas no dienas, kad bērnam invalīdam izsniegts Veselības un darbspēju ekspertīzes ārstu valsts komisijas atzinums par īpašas kopšanas nepieciešamību.
 (4) Bērna invalīda kopšanas pabalsta izmaksu izbeidz, kad beidzas termiņš, uz kuru noteikta invaliditāte un īpašas kopšanas nepieciešamība, vai kad bērns sasniedz 18 gadu vecumu.
