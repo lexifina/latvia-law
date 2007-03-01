@@ -1,0 +1,7 @@
+15.pants. Eiropas Savienības fonda finansējuma saņēmējs un tā pienākumi
+(1) Eiropas Savienības fonda finansējuma saņēmējs ir tiešās vai pastarpinātās valsts pārvaldes iestāde, atvasināta publiska persona, cita valsts iestāde, kā arī fiziskā persona, Latvijas Republikā reģistrēta juridiskā persona vai šādu personu apvienība, kuras iesniegtais Eiropas Savienības fonda projekta iesniegums ir apstiprināts šajā likumā noteiktajā kārtībā.
+(2) Eiropas Savienības fonda finansējuma saņēmējam ir šādi pienākumi:
+1) nodrošināt Eiropas Savienības fonda projekta īstenošanu atbilstoši civiltiesiskā līguma noteikumiem - ja Eiropas Savienības fonda finansējuma saņēmējs ir fiziskā persona, Latvijas Republikā reģistrēta juridiskā persona vai šādu personu apvienība;
+2) nodrošināt Eiropas Savienības fonda projekta īstenošanu saskaņā ar vienošanos par Eiropas Savienības fonda projekta ieviešanu - ja Eiropas Savienības fonda finansējuma saņēmējs ir tiešās vai pastarpinātās valsts pārvaldes iestāde, atvasināta publiska persona vai cita valsts iestāde;
+3) nodrošināt grāmatvedības uzskaiti atsevišķi katram Eiropas Savienības fonda projektam;
+4) sniegt informāciju par Eiropas Savienības fonda projekta īstenošanu un nodrošināt Eiropas Komisijas un Eiropas Savienības fondu vadībā iesaistīto institūciju pārstāvjiem pieeju visu ar Eiropas Savienības fonda projekta īstenošanu saistīto dokumentu oriģināliem, kā arī attiecīgā projekta īstenošanas vietai.

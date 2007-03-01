@@ -1,0 +1,1 @@
+3. Eiropas Savienības fondu vadībā iesaistītās institūcijas un Eiropas Savienības fondu finansējuma saņēmējs glabā visu ar Eiropas Savienības fondu projektu īstenošanu saistīto dokumentu oriģinālus līdz 2021.gada 31.decembrim.

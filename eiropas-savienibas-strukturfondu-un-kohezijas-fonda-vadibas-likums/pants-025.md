@@ -1,0 +1,3 @@
+25.pants. Strīdu risināšana civiltiesiskā kārtībā
+(1) Ja šā likuma 24.pantā noteiktās finansējuma atgūšanas kārtības piemērošana nav lietderīga, kā arī gadījumos, kad piešķirtā finansējuma atgūšanai nav piemērojami šā likuma 19.panta ceturtās daļas un 24.panta noteikumi, piešķirto finansējumu atgūst vai strīdu par finanšu līdzekļu izmaksāšanu vai izmaksāšanas turpināšanu risina civiltiesiskā kārtībā.
+(2) Ja Eiropas Savienības fonda finansējuma saņēmējs ir tiešās vai pastarpinātās valsts pārvaldes iestāde, atvasināta publiska persona vai cita valsts iestāde, strīdu par piešķirto finanšu līdzekļu izmaksāšanu vai izmaksāšanas turpināšanu risina civiltiesiskā kārtībā, izņemot iespēju strīdu risināt tiesas ceļā.

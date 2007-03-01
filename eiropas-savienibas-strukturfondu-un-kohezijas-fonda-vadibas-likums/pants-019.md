@@ -1,0 +1,5 @@
+19.pants. Atbildīgās iestādes un sadarbības iestādes lēmumi
+(1) Atbildīgās iestādes vai sadarbības iestādes vadītājs pieņem lēmumu par Eiropas Savienības fonda projekta iesnieguma apstiprināšanu vai noraidīšanu, kā arī lēmumu par piešķirtā finansējuma atgūšanu.
+(2) Lēmumu par Eiropas Savienības fonda projekta iesnieguma apstiprināšanu pieņem, ja tas atbilst Eiropas Savienības fondu projektu iesniegumu vērtēšanas kritērijiem. Šo lēmumu var pieņemt arī ar nosacījumu, ka Eiropas Savienības fonda projekta iesniedzējs veic atbildīgās iestādes vai sadarbības iestādes noteiktās darbības, lai Eiropas Savienības fonda projektu varētu atbilstoši sagatavot un īstenot.
+(3) Lēmumu par Eiropas Savienības fonda projekta iesnieguma noraidīšanu pieņem, ja tas neatbilst Eiropas Savienības fondu projektu iesniegumu vērtēšanas kritērijiem.
+(4) Lēmumu par piešķirtā finansējuma atgūšanu pieņem, ja Eiropas Savienības fonda finansējuma saņēmējam ir izmaksāts piešķirtais finansējums, bet tas nav izmantots atbilstoši normatīvo aktu prasībām vai līguma noteikumiem.
