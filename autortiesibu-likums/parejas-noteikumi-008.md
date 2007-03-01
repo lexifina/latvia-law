@@ -1,0 +1,1 @@
+8. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2007.gada 1.septembrim piemērojami Ministru kabineta 2004.gada 27.aprīļa noteikumi Nr.444 "Noteikumi par publisko patapinājumu", ciktāl tie nav pretrunā ar šo likumu.

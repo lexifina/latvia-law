@@ -1,0 +1,4 @@
+69.¹ pants. Zaudējumu atlīdzības un morālā kaitējuma apmēra noteikšanas kārtība
+(1) Ja personas vainas dēļ notikusi autortiesību vai blakustiesību objektu prettiesiska izmantošana, autortiesību vai blakustiesību subjekti ir tiesīgi prasīt radītā zaudējuma un morālā kaitējuma atlīdzību.
+(2) Zaudējumu atlīdzības un morālā kaitējuma apmērs nosakāms saskaņā ar Civillikumu. Nosakot zaudējumu atlīdzības apmēru, var ņemt vērā arī tās personas negodīgi gūto peļņu, kura prettiesiski izmantojusi autortiesību vai blakustiesību objektu.
+(3) Ja faktisko zaudējumu atlīdzības apmēru nevar noteikt saskaņā ar šā panta otro daļu, zaudējuma atlīdzības apmērs nosakāms atbilstoši tai summai, kuru autortiesību vai blakustiesību subjekts varētu saņemt par autortiesību vai blakustiesību objekta izmantošanas atļaujas izsniegšanu.

@@ -1,6 +1,6 @@
 64.pants. Mantisko tiesību kolektīvā pārvaldījuma organizācijas pārstāvības tiesību apjoms
 (1) (Izslēgta ar 22.04.2004. likumu.)
 (2) Autoru mantisko tiesību kolektīvā pārvaldījuma organizācijas un blakustiesību kolektīvā pārvaldījuma organizācijas saskaņā ar noslēgtajiem rakstveida līgumiem aizstāv autortiesību un blakustiesību subjektu mantiskās tiesības, kuras izriet no autortiesībām vai blakustiesībām.
-(3) Savā darbībā autoru un blakustiesību subjektu mantisko tiesību kolektīvā pārvaldījuma organizācijas saskaņā ar autortiesību un blakustiesību subjektu pilnvarojuma līgumiem pārstāv minēto subjektu tiesības un likumīgās intereses visās attiecībās ar jebkuru publisko vai privāto tiesību subjektu, arī tiesās un visos jautājumos, kas attiecas uz šāda veida darbību.
+(3) Attiecībā uz šā likuma 63.panta piektajā daļā minētajiem darbu izmantošanas veidiem mantisko tiesību kolektīvā pārvaldījuma organizācija ir tiesīga pārstāvēt tiesību īpašniekus bez attiecīga līguma slēgšanas.
 (4) Mantisko tiesību kolektīvā pārvaldījuma organizācija kolektīvās administrēšanas darbu var uzticēt citai Latvijas vai ārvalstu mantisko tiesību kolektīvā pārvaldījuma organizācijai.
 (5) Mantisko tiesību kolektīvā pārvaldījuma organizācijām ir tiesības rezervēt savos banku kontos nepieprasītās un nenoskaidrotās atlīdzības summas, kas iekasētas no darbu un blakustiesību objektu izmantotājiem, un pēc trim gadiem no dienas, kad šīs summas iemaksātas organizācijas kontā, iekļaut tās, kā arī banku samaksātos noguldījuma procentus kārtējā sadalāmo izmaksu summā.

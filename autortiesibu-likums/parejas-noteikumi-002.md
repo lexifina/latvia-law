@@ -1,1 +1,1 @@
-2. Šajā likumā noteiktie autortiesību un blakustiesību aizsardzības termiņi attiecas uz visiem darbiem un tiesību objektiem, kas bija aizsargājami likuma spēkā stāšanās dienā.
+2. Šajā likumā noteiktie autortiesību un blakustiesību aizsardzības termiņi attiecas uz visiem darbiem un tiesību objektiem, kas 1995.gada 1.jūlijā bija aizsargājami vismaz vienā Eiropas Savienības dalībvalstī saskaņā ar attiecīgās valsts noteikumiem par autortiesībām vai blakustiesībām.
