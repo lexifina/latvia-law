@@ -3,4 +3,4 @@ Tiesu izpildītājs var apturēt izpildu lietvedību, ja:
 1) parādnieks atrodas ārstniecības iestādē un tas kavē izpildu darbību veikšanu;
 2) iesniegta sūdzība par tiesu izpildītāja darbībām;
 3) (izslēgts ar 31.10.2002. likumu);
-4) parādnieks atrodas obligātajā aktīvajā militārajā dienestā.
+4) (izslēgts ar 14.12.2006. likumu).

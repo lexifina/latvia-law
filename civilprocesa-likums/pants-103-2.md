@@ -1,0 +1,2 @@
+103.² pants. Ar pierādījumu nodrošināšanu radīto zaudējumu atlīdzināšana
+Atbildētājs ir tiesīgs prasīt atlīdzību par zaudējumiem, kas viņam radušies sakarā ar pierādījumu nodrošināšanu, ja pierādījumu nodrošināšana ir atcelta šā likuma 103.¹ pantā noteiktajā gadījumā, ja pret viņu celtā prasība ir noraidīta, atstāta bez izskatīšanas vai tiesvedība izbeigta šā likuma 223.panta 2. un 4. punktā noteiktajos gadījumos.

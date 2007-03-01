@@ -11,8 +11,8 @@ g) vairāk par 500 000 latiem - 2490 latu plus 0,05 procenti no prasības summas
 2) par prasības pieteikumu laulības šķiršanas lietā - 50 latu, bet par prasības pieteikumu laulības šķiršanas lietā ar personu, kas noteiktā kārtībā atzīta par bezvēsts promesošu vai rīcībnespējīgu gara slimības vai plānprātības dēļ, vai ar personu, kas notiesāta ar brīvības atņemšanu uz laiku, kas nav mazāks par trim gadiem, - 5 lati;
 3) par pieteikumu sevišķās tiesāšanas kārtības lietās - 10 latu, bet par pieteikumu lietās par uzņēmumu un uzņēmējsabiedrību maksātnespēju vai kredītiestāžu maksātnespēju vai likvidāciju - 100 latu;
 4) par citām prasībām, kam nav mantiska rakstura vai kas nav jānovērtē, - 20 latu;
-5) par prasības nodrošinājuma pieteikumu - 20 latu, bet par prasības nodrošinājuma pieteikumu lietās, kurās prasības summa ir lielāka par 4000 latiem, - 0,5 procenti no prasības summas;
-6) par pierādījumu nodrošināšanas pieteikumu, ja tas iesniegts pirms lietas ierosināšanas, - 10 latu;
+5) par prasības nodrošinājuma pieteikumu vai pagaidu aizsardzības līdzekļa pieteikumu - 20 latu, bet par prasības nodrošinājuma vai pagaidu aizsardzības līdzekļa pieteikumu lietās, kurās prasības summa ir lielāka par 4000 latiem, - 0,5 procenti no prasības summas;
+6) par pierādījumu nodrošināšanas pieteikumu, ja tas iesniegts pirms prasības celšanas, - 10 latu;
 7) par pieteikumu par bezstrīdus piespiedu izpildīšanu, par saistību piespiedu izpildīšanu brīdinājuma kārtībā, par nekustamā īpašuma labprātīgu pārdošanu izsolē tiesas ceļā vai saistības priekšmeta iesniegšanu tiesai glabājumā - 1 procents no parāda summas, atdodamās vai labprātīgā izsolē pārdodamās mantas vērtības vai glabājumā nododamā priekšmeta vērtības, bet ne vairāk par 100 latiem;
 8) par pieteikumu par izpildu raksta izdošanu uz pastāvīgās šķīrējtiesas sprieduma pamata vai ārvalsts šķīrējtiesas nolēmuma atzīšanu un izpildīšanu - 1 procents no parāda summas, bet ne vairāk par 100 latiem;
 9) par pieteikumu par tiesvedības atjaunošanu un lietas jaunu izskatīšanu lietā, kurā taisīts aizmugurisks spriedums, - tādā pašā apmērā kā par prasības pieteikumu;
