@@ -1,0 +1,4 @@
+73.pants. Maksa par Eiropas patenta uzturēšanu spēkā
+(1) Par katru gadu, kas seko gadam, kurā publicēts Eiropas patentu iestādes paziņojums par Eiropas patenta piešķiršanu, patenta īpašnieks maksā Patentu valdei par patenta uzturēšanu spēkā. Maksājumi izdarāmi tādā pašā kārtībā, kādā saskaņā ar šā likuma 43.pantu maksājama valsts nodeva par nacionālajiem patentiem.
+(2) Ja samaksa veicama triju mēnešu laikā pēc tam, kad paziņojums par Eiropas patenta piešķiršanu publicēts Eiropas patentu iestādes oficiālajā izdevumā, uzskatāms, ka samaksa, kura veikta šajā laikposmā, ir veikta termiņā. Minētajā gadījumā šā likuma 43.pantā paredzēto papildnodevu nemaksā.
+(3) Atbilstoši Eiropas patentu konvencijas 39.pantam daļu no ikgadējās maksas par patenta uzturēšanu spēkā Patentu valde atmaksā Eiropas Patentu organizācijai Eiropas patentu konvencijā noteiktajā kārtībā.

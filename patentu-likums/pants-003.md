@@ -1,0 +1,4 @@
+3.pants. Tiesisko attiecību regulējums patentu jomā
+(1) Likuma noteikumi par patentiem attiecas arī uz izgudrojumu starptautisko pieteikumu un Eiropas patentu pieteikumu iesniegšanu, kā arī uz tiesībām, kas saistītas ar Eiropas patentiem, to spēkā esību, izmantošanu un aizsardzību, ciktāl Eiropas patentu konvencijas un Patentu kooperācijas līguma noteikumi vai šā likuma XI un XII nodaļas īpašie noteikumi par starptautisko patentu pieteikumu iesniegšanu, Eiropas patenta pieteikumu un Eiropas patentu neparedz citādi.
+(2) Persona ir tiesīga patentēt, izmantot un aizsargāt izgudrojumus citās valstīs saskaņā ar šo valstu normatīvajiem aktiem un starptautiskajiem nolīgumiem.
+(3) Ja Latvijai saistošos starptautiskos nolīgumos paredzēti noteikumi, kas atšķiras no šā likuma normām, piemērojami starptautisko nolīgumu noteikumi.

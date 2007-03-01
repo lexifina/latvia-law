@@ -1,0 +1,3 @@
+49.pants. Valsts nodevas par darbībām Patentu valdē
+(1) Par izgudrojumu aizsardzību maksājamās valsts nodevas apmēru un attiecīgos atvieglojumus nosaka Ministru kabinets.
+(2) Valsts nodeva maksājama šā likuma 28.panta sestajā daļā, 30.panta trešajā daļā, 36.panta pirmajā daļā, 38.panta pirmajā daļā, 39.pantā, 41.panta pirmajā daļā, 43.panta pirmajā daļā, 44.panta pirmajā daļā, 45.panta otrajā daļā, 46.panta otrajā daļā, 48.panta sestajā daļā, 51.panta ceturtajā daļā, 52.panta ceturtajā daļā, 58.panta pirmās daļas 2.punktā, 71.panta otrajā un trešajā daļā, 74.panta otrajā daļā un 76.panta trešajā un ceturtajā daļā paredzētajos gadījumos un noteiktajā kārtībā.

@@ -1,0 +1,1 @@
+7. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2007.gada 1.septembrim ir spēkā Ministru kabineta 1998.gada 18.augusta noteikumi Nr.309 "Noteikumi par rūpnieciskā īpašuma aizsardzības valsts nodevu", ciktāl tie nav pretrunā ar šo likumu.

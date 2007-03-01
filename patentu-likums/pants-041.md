@@ -1,0 +1,6 @@
+41.pants. Iebildums pret patenta piešķiršanu
+(1) Jebkura persona deviņu mēnešu laikā pēc tam, kad publicēts paziņojums par patenta piešķiršanu, samaksājot attiecīgu valsts nodevu, var iesniegt Patentu valdei iebildumu pret patenta piešķiršanu. Iebildums iesniedzams rakstveidā. Tajā iebilduma iesniedzējs norāda argumentus un atsauces uz likumu. Pēc minētā termiņa beigām iebilduma iesniedzējs nav tiesīgs iebilduma sākotnējā tiesiskajā pamatojumā izdarīt grozījumus, kas to paplašina, bet līdz Apelācijas padomes lēmuma pieņemšanai var iesniegt papildu dokumentus un materiālus, kas apstiprina (precizē) faktus, uz kuriem pamatots iebildums.
+(2) Iebildumu pret patenta piešķiršanu var iesniegt, pamatojoties uz šā likuma 8., 9. un 10.pantu, 30.panta pirmo un otro daļu vai 36.panta pirmo daļu.
+(3) Patenta piešķiršanu, pamatojoties uz citām šā likuma prasībām, var apstrīdēt tiesā Civilprocesa likumā noteiktajā kārtībā.
+(4) Apelācijas padome iepazīstina patenta īpašnieku ar iesniegto iebildumu un nosaka triju mēnešu termiņu atbildes iesniegšanai.
+(5) Ja šā panta pirmajā daļā noteiktajā termiņā iebildums nav iesniegts, patenta piešķiršanu var apstrīdēt tiesā Civilprocesa likumā noteiktajā kārtībā.

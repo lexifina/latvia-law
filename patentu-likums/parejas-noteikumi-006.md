@@ -1,0 +1,4 @@
+6. Reģistrētajam Eiropas patentam ir tāds pats tiesiskais spēks un piemērojami tie paši likuma noteikumi, kādi piemērojami nacionālajam patentam, ar šādiem izņēmumiem:
+1) izņēmuma tiesības, ko piešķir patents, stājas spēkā dienā, kad Patentu valde publicē paziņojumu par Eiropas patenta reģistrāciju, un beidzas ne vēlāk kā pēc 20 gadiem no dienas, kad Patentu valde saņēmusi iesniegumu par Eiropas patenta reģistrāciju;
+2) šā likuma 22.panta noteikumi attiecībā uz reģistrēto Eiropas patentu piemērojami, ja pirms tam, kad Patentu valdē saņemts iesniegums par Eiropas patenta reģistrāciju Latvijā, ir sākusies izgudrojuma godprātīga izmantošana vai ir veikti šādai izmantošanai nepieciešamie priekšdarbi;
+3) Eiropas patenta atzīšana par spēkā neesošu vai tā spēkā esības pirmstermiņa pārtraukšana citā Eiropas patentu konvencijas dalībvalstī nav uzskatāma par pamatu reģistrētā patenta atzīšanai par spēkā neesošu Latvijā.

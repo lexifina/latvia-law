@@ -1,0 +1,1 @@
+4. Patenti, kas piešķirti saskaņā ar 1995.gada 30.marta Patentu likumu un ir spēkā, ar šā likuma spēkā stāšanās dienu izmantojami un aizsargājami atbilstoši šā likuma noteikumiem. Šo patentu tiesiskās aizsardzības apjomu un no tiem izrietošās tiesības, arī izņēmuma tiesības, pielīdzina šajā likumā noteiktajam patenta aizsardzības apjomam un tiesībām.

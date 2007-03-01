@@ -1,0 +1,5 @@
+45.pants. Lietvedības turpināšana pēc termiņu neievērošanas
+(1) Pieteicējs, kurš nav ievērojis šajā likumā attiecībā uz darbībām Patentu valdē noteiktos termiņus, var lūgt lietvedības turpināšanu.
+(2) Lūgumu par lietvedības turpināšanu iesniedz ne vēlāk kā divus mēnešus pēc tam, kad saņemts Patentu valdes paziņojums par termiņu neievērošanu vai paziņojums par tiesību zaudēšanu, ja ir izpildītas neievērotajā termiņā paredzētās darbības un samaksāta valsts nodeva par lietvedības turpināšanu. Ja paredzētās darbības nav veiktas vai valsts nodeva par lietvedības turpināšanu nav samaksāta, uzskata, ka lūgums ir atsaukts.
+(3) Ja lūgums par lietvedības turpināšanu tiek apmierināts, termiņa neievērošanai nav nekādu juridisku seku.
+(4) Lietvedības turpināšanu nevar lūgt, ja nav ievērots šā panta otrajā daļā minētais termiņš, apelācijas un iebildumu iesniegšanas termiņš, ikgadējās valsts nodevas maksājuma termiņš, termiņš, līdz kuram iesniedzams Eiropas patenta pretenziju tulkojums latviešu valodā, vai ja ir iesniegts lūgums par tiesību atjaunošanu vai par prioritātes grozīšanu vai pievienošanu, vai par prioritātes tiesību atjaunošanu.
