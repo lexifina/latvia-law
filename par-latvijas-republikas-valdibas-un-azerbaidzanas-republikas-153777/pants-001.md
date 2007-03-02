@@ -1,0 +1,1 @@
+1.pants. 2006.gada 4.oktobrī Rīgā parakstītais Latvijas Republikas valdības un Azerbaidžānas Republikas valdības nolīgums par gaisa satiksmi (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
