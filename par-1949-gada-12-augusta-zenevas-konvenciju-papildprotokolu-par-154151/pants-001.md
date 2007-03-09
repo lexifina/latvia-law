@@ -1,0 +1,1 @@
+1.pants. 1949.gada 12.augusta Ženēvas konvenciju 2005.gada 8.decembra Papildprotokols par papildu atšķirības emblēmas apstiprināšanu (turpmāk - Papildprotokols) ar šo likumu tiek pieņemts un apstiprināts.
