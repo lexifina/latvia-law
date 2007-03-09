@@ -1,0 +1,1 @@
+93. Nodokļu administrācijas augstākās institūcijas vadītājam ir tiesības atcelt nodokļu administrācijas teritoriālo iestāžu vadītāju saskaņā ar 91.punktu nepamatoti pieņemtos lēmumus par soda naudas samazināšanu 30 dienu laikā no teritoriālās iestādes vadītāja paziņojuma vai nodokļu maksātāja sūdzības saņemšanas dienas.
