@@ -1,0 +1,1 @@
+12. Šā likuma grozījumi par 31.panta teksta izteikšanu jaunā redakcijā, 31.¹ panta pirmās daļas izslēgšanu un 31.² panta papildināšanu ar sesto daļu stājas spēkā 2007.gada 11.aprīlī. Līdz šo grozījumu spēkā stāšanās dienai Ministru kabinets izdod šā likuma 31.panta pirmajā un otrajā daļā (jaunajā redakcijā) minētos noteikumus.

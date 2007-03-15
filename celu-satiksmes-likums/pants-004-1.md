@@ -1,6 +1,5 @@
-4.¹ pants. Transportlīdzekļu un to numurēto agregātu mazumtirdzniecība
-(1) Transportlīdzekļu (izņemot tramvaju, trolejbusu un velosipēdu) un to numurēto agregātu mazumtirdzniecībai ir nepieciešama atļauja (licence). Ar transportlīdzekļu un to numurēto agregātu mazumtirdzniecību ir tiesīgs nodarboties licencēts komersants.
-(2) Atļauju (licenci) transportlīdzekļu (izņemot traktortehniku un tās piekabes) un to numurēto agregātu mazumtirdzniecībai izsniedz Satiksmes ministrija.
-(3) Atļauju (licenci) traktortehnikas, tās piekabju un to numurēto agregātu mazumtirdzniecībai izsniedz Zemkopības ministrija.
-(4) Par atļaujas (licences) saņemšanu transportlīdzekļu un to numurēto agregātu mazumtirdzniecībai maksājama valsts nodeva. Valsts nodevas apmēru un maksāšanas kārtību nosaka Ministru kabinets.
-(5) Transportlīdzekļu un to numurēto agregātu mazumtirdzniecības atļauju (licenču) izsniegšanas kārtību un prasības transportlīdzekļu un to numurēto agregātu mazumtirdzniecībai, kā arī tirdzniecības valsts reģistrācijas numura zīmju izmantošanai nosaka Ministru kabinets.
+4.¹ pants. Transportlīdzekļu un to numurēto agregātu tirdzniecība
+(1) Transportlīdzekļu un to numurēto agregātu (transportlīdzekļa virsbūvju, kabīņu vai rāmju, uz kuriem transportlīdzekļa izgatavotājs norāda transportlīdzekļa identifikācijas numuru) tirdzniecība ir šo preču pārdošana, veicot komercdarbību.
+(2) Ar transportlīdzekļu (izņemot tramvaju, trolejbusu un velosipēdu) un to numurēto agregātu tirdzniecību ir tiesības nodarboties komersantam, kas normatīvajos aktos noteiktajā kārtībā ir ierīkojis un reģistrējis transportlīdzekļu tirdzniecības vietu.
+(3) Transportlīdzekļu un to numurēto agregātu (izņemot traktortehnikas, to piekabju un numurēto agregātu) tirdzniecības vietu reģistrē un tirdzniecības vietas reģistrācijas apliecību komersantam izsniedz Ceļu satiksmes drošības direkcija. Traktortehnikas, to piekabju un numurēto agregātu tirdzniecības vietu reģistrē un tirdzniecības vietas reģistrācijas apliecību izsniedz Valsts tehniskās uzraudzības aģentūra. Transportlīdzekļu tirdzniecības vietu reģistrācijas kārtību nosaka Ministru kabinets.
+(4) Prasības transportlīdzekļu un to numurēto agregātu tirdzniecībai, kā arī tirdzniecības valsts reģistrācijas numura zīmju izmantošanai nosaka Ministru kabinets.

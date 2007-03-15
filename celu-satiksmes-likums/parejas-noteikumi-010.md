@@ -1,0 +1,1 @@
+10. Grozījumi šā likuma 22.panta 3.¹ daļā par vārdu "teorētisko apmācību vai" aizstāšanu ar vārdiem "tai skaitā" un par vārda "teorētiskajai" izslēgšanu šā likuma 22.panta 3.² un piektajā daļā stājas spēkā 2008.gada 1.janvārī. Līdz šo grozījumu spēkā stāšanās dienai Ministru kabinets izdod tiem atbilstošus šā likuma 22.panta piektajā daļā minētos noteikumus.

@@ -1,1 +1,0 @@
-7. Līdz pārejas noteikumu 6.punktā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2006.gada 1.jūlijam piemērojami spēkā esošie normatīvie akti, ciktāl tie nav pretrunā ar šo likumu.

@@ -1,1 +1,0 @@
-6. Ministru kabinets līdz 2006.gada 1.jūlijam izdod šā likuma 4.¹ panta ceturtajā un piektajā daļā, 6.panta otrajā daļā par ceļu drošības auditoru sertificēšanu, 10.¹ pantā, 14.¹ panta pirmajā un astotajā daļā, 15.¹ panta ceturtajā daļā, 22.panta piektajā daļā, 30.panta trešajā daļā, 43.² panta astotajā daļā, 43.⁶ panta pirmajā daļā un 45.panta otrajā daļā paredzētos noteikumus.

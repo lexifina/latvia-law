@@ -1,0 +1,1 @@
+11. Šā likuma grozījumi par 22.panta trešās daļas izslēgšanu un 30.¹ panta izteikšanu jaunā redakcijā stājas spēkā 2007.gada 1.oktobrī. Līdz šo grozījumu spēkā stāšanās dienai Ministru kabinets izdod šā likuma 30.¹ panta piektajā, sestajā, septītajā un astotajā daļā (jaunajā redakcijā) minētos noteikumus.
