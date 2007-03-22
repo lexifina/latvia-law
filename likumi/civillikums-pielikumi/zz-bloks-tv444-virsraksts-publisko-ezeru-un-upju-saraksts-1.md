@@ -1,450 +1,895 @@
-Nr.
-Ezera nosaukumsPagasts, pilsētaPlatība
-p.k.
-(ha)
+Nr. p.k.
+Ezera nosaukums
+Pagasts, pilsēta
+Platība (ha)
 Aizkraukles rajons
 1.
-Odzes ezersAiviekstes pag.268,7
+Dāmenezers
+Aiviekstes pag.
+46,1
 2.
-Taurkalnes AklezersValles pag.20,0
+Līdaces ezers
+Aiviekstes pag.
+8,5
 3.
-Znotiņu ezers (Aklais ezers)Daudzeses pag.24,6
-Alūksnes rajons
+Odzes ezers
+Aiviekstes pag.
+268,7
 4.
-Alūksnes ezersAlūksne,1543,7
-Jaunalūksnes pag.
+Taurkalnes Aklezers
+Valles pag.
+20,0
 5.
-Ilgāja ezers (Latvijas daļa)Veclaicenes pag.8,7
+Znotiņu ezers (Aklais ezers)
+Daudzeses pag.
+24,6
+Alūksnes rajons
 6.
-Indzera ezersAlsviķu pag.145,3
+Alūksnes ezers
+Alūksne, Jaunalūksnes pag.
+1543,7
 7.
-Muratu ezers (Latvijas daļa)Ziemera pag.11,2
+Ilgāja ezers (Latvijas daļa)
+Veclaicenes pag.
+8,7
 8.
-Sudalezers (daļa Gulbenes raj.)Zeltiņu pag.182,3
+Indzera ezers
+Alsviķu pag.
+145,3
 9.
-Vaidavas ezersZiemera pag.23,3
+Muratu ezers (Latvijas daļa)
+Ziemeru pag.
+11,2
 10.
-Zvārtavas ezersGaujienas pag.33,9
-Balvu rajons
+Sudalezers (daļa Gulbenes raj.)
+Zeltiņu pag.
+182,3
 11.
-Balvu ezersKubuļu pag.167,9
+Vaidavas ezers
+Ziemeru pag.
+23,3
 12.
-Pērkonu ezersKubuļu pag.229,7
+Zvārtavas ezers
+Gaujienas pag.
+33,9
+Balvu rajons
 13.
-Svētaunes ezers (Jorzavas ezers)Baltinavas pag.36,0
+Balvu ezers
+Kubuļu pag.
+167,9
 14.
-Viļakas ezersViļaka137,6
-Cēsu rajons
+Pērkonu ezers
+Kubuļu pag.
+229,7
 15.
-Alauksta ezersVecpiebalgas pag.774,8
+Svētaunes ezers (Jorzavas ezers)
+Baltinavas pag.
+36,0
 16.
-Āraišu ezersDrabešu pag.32,6
+Viļakas ezers
+Viļaka
+137,6
+Cēsu rajons
 17.
-Ineša ezersInešu pag.519,5
+Alauksta ezers
+Vecpiebalgas pag.
+774,8
 18.
-Juvera ezersDzērbenes pag.77,5
+Āraišu ezers
+Drabešu pag.
+32,6
 19.
-Mazuma ezersVaives pag.25,9
+Ineša ezers
+Inešu pag.
+519,5
 20.
-Ratnieku ezersLīgatnes pag.44,1
+Juvera ezers
+Dzērbenes pag.
+77,5
 21.
-Riebiņu ezersStraupes pag.75,5
+Mazuma ezers
+Vaives pag.
+25,9
 22.
-Rustēga ezers (Unguru ezers)Raiskuma pag.393,6
+Ratnieku ezers
+Līgatnes pag.
+44,1
 23.
-Skolas ezers (Drustu ezers)Drustu pag.34,3
+Riebiņu ezers
+Straupes pag.
+75,5
 24.
-Taurenes ezersTaurenes pag.31,6
-Daugavpils
+Rustēga ezers (Unguru ezers)
+Raiskuma pag.
+393,6
 25.
-Lielais Stropu ezersDaugavpils417,9
+Skolas ezers (Drustu ezers)
+Drustu pag.
+34,3
 26.
-ŠuņezersDaugavpils74,8
-Daugavpils rajons
+Taurenes ezers
+Taurenes pag.
+31,6
+Daugavpils
 27.
-BaltezersVaboles pag.48,5
+Lielais Stropu ezers
+Daugavpils
+417,9
 28.
-Beļānu ezers (Baltais ezers)Skrudalienas pag.55,4
+Šuņezers
+Daugavpils
+74,8
+Daugavpils rajons
 29.
-Briģenes ezersDemenes pag.136,4
+Baltezers
+Vaboles pag.
+48,5
 30.
-Demenes ezersDemenes pag.30,2
+Beļānu ezers (Baltais ezers)
+Skrudalienas pag.
+55,4
 31.
-Galiņu ezers (Latvijas daļa)Šēderes pag.20,0
+Briģenes ezers
+Demenes pag.
+136,4
 32.
-Kamenkas ezersSalienas pag.11,0
+Demenes ezers
+Demenes pag.
+30,2
 33.
-Kāša ezers (Koša ezers)Līksnas pag.59,2
+Galiņu ezers (Latvijas daļa)
+Šēderes pag.
+20,0
 34.
-Kurcuma ezersMedumu pag.12,1
+Kamenkas ezers
+Salienas pag.
+11,0
 35.
-Laucesas ezers (Smelīnes ezers)Medumu pag.94,8
+Kāša ezers (Koša ezers)
+Līksnas pag.
+59,2
 36.
-Lielais Kalupes ezersKalupes pag.175,0
-(Salenieku ezers) (daļa Preiļu raj.)
+Kurcuma ezers
+Medumu pag.
+12,1
 37.
-Lielais Kumpinišķu ezersMedumu pag.44,1
-(Latvijas daļa)
+Laucesas ezers (Smelīnes ezers)
+Medumu pag.
+94,8
 38.
-Lielais Kumpoša ezersMedumu pag.7,4
-(Latvijas daļa)
+Lielais Kalupes ezers (Salenieku ezers)
+(daļa Preiļu raj.)
+Kalupes pag.
+175,0
 39.
-Lielais Subates ezersSubates pils. (ar lauku terit.)51,0
+Lielais Kumpinišķu ezers (Latvijas daļa)
+Medumu pag.
+44,1
 40.
-Luknas ezersVišķu pag.409,0
+Lielais Kumpoša ezers (Latvijas daļa)
+Medumu pag.
+7,4
 41.
-Marijas ezersŠēderes pag.19,3
+Lielais Subates ezers
+Subates pils. (ar lauku terit.)
+51,0
 42.
-Mazais Kalupes ezers (Keišu ezers)Kalupes pag.110,0
+Luknas ezers
+Višķu pag.
+409,0
 43.
-Mazais Kumpinišķu ezersMedumu pag.3,6
+Marijas ezers
+Šēderes pag.
+19,3
 44.
-Mazais Subates ezersSubates pils. (ar lauku terit.)22,0
-(Latvijas daļa)
+Mazais Kalupes ezers (Keišu ezers)
+Kalupes pag.
+110,0
 45.
-Riču ezers (Latvijas daļa)Līdumnieku pag.587,7
+Mazais Kumpinišķu ezers
+Medumu pag.
+3,6
 46.
-Robežas ezers (Latvijas daļa)Medumu pag.12,0
+Mazais Subates ezers (Latvijas daļa)
+Subates pils. (ar lauku terit.)
+22,0
 47.
-Samaņkas ezers (Latvijas daļa)Medumu pag.18,0
+Riču ezers (Latvijas daļa)
+Līdumnieku pag.
+587,7
 48.
-Sasaļu ezersSventes pag.27,4
+Robežas ezers (Latvijas daļa)
+Medumu pag.
+12,0
 49.
-Sila ezersSkrudalienas pag.262,0
+Samaņkas ezers (Latvijas daļa)
+Medumu pag.
+18,0
 50.
-Sitas ezers (Latvijas daļa)Skrudalienas pag.43,1
+Sasaļu ezers
+Sventes pag.
+27,4
 51.
-Skirnas ezers (Latvijas daļa)Demenes pag.31,8
+Sila ezers
+Skrudalienas pag.
+262,0
 52.
-Sventes ezersSventes pag.734,8
+Sitas ezers (Latvijas daļa)
+Skrudalienas pag.
+43,1
 53.
-Šķ irnates ezersDemenes pag.10,0
-(Kimbarcišķu ezers) (Latvijas daļa)
+Skirnas ezers (Latvijas daļa)
+Demenes pag.
+31,8
 54.
-Višķu ezersVišķu pag.360,1
-Dobeles rajons
+Sventes ezers
+Sventes pag.
+734,8
 55.
-Lielauces ezersLielauces pag.376,0
+Šarlotes ezers
+Šēderes pag.
+27,2
 56.
-Zebrus ezersBikstu pag.443,0
-Gulbenes rajons
+Šķirnates ezers (Kimbarcišķu ezers) (Latvijas daļa)
+Demenes pag.
+10,0
 57.
-Ādmiņu ezersLejasciema pag.28,2
+Višķu ezers
+Višķu pag.
+360,1
+Dobeles rajons
 58.
-Kalmodu ezersRankas pag.23,0
+Apguldes ezers
+Naudītes pag.
+40,8
 59.
-Lielais Virānes ezersTirzas pag.60,9
+Lielauces ezers
+Lielauces pag.
+376,0
 60.
-Ludza ezersStāmerienas pag.280,9
-SudalezersLejasciema pag.182,3
-(daļa Alūksnes raj., sk. nr.8)
+Zebrus ezers
+Bikstu pag.
+443,0
+Gulbenes rajons
 61.
-Ušura ezersJaungulbenes pag.160,8
-Jēkabpils rajons
+Ādmiņu ezers
+Lejasciema pag.
+28,2
 62.
-Baļotes ezersKūku pag.149,2
+Kalmodu ezers
+Rankas pag.
+23,0
 63.
-Garais ezers (Akmeņu ezers,Rites pag.39,0
-Ilzes ezers) (Latvijas daļa)
+Lielais Virānes ezers
+Tirzas pag.
+60,9
 64.
-Pieslaista ezersAtašienes pag.54,7
+Ludza ezers
+Stāmerienas pag.
+280,9
+Sudalezers (daļa Alūksnes raj., sk. Nr.10)
+Lejasciema pag.
+182,3
 65.
-Saukas ezersSaukas pag.718,2
+Ušura ezers
+Jaungulbenes pag.
+160,8
+Jēkabpils rajons
 66.
-Vārzgūnes ezersKalna pag.43,0
+Baļotes ezers
+Kūku pag.
+149,2
 67.
-Viesītes ezersViesīte232,2
-Jūrmala
+Garais ezers (Akmeņu ezers, Ilzes ezers) (Latvijas daļa)
+Rites pag.
+39,0
 68.
-Slokas ezersJūrmala250,0
-Krāslavas rajons
+Pieslaista ezers
+Atašienes pag.
+54,7
 69.
-Baltais ezers (Belojes ezers)Robežnieku pag.35,3
-(Latvijas daļa)
+Saukas ezers
+Saukas pag.
+718,2
 70.
-Cērmenes ezers (Cārmaņa ezers)Aulejas pag.221,8
+Vārzgūnes ezers
+Kalna pag.
+43,0
 71.
-Dagdas ezersAsūnes pag.484,1
+Viesītes ezers
+Viesīte
+232,2
+Jūrmala
 72.
-Dolgojes ezers (Latvijas daļa)Indras pag.15,0
+Slokas ezers
+Jūrmala
+250,0
+Krāslavas rajons
 73.
-Drīdža ezersKombuļu pag., Skaistas pag.753,2
+Baltais ezers (Belojes ezers) (Latvijas daļa)
+Robežnieku pag.
+35,3
 74.
-Ežezers (Ješa ezers)Ezernieku pag.987,9
+Cērmenes ezers (Cārmaņa ezers)
+Aulejas pag.
+221,8
 75.
-Lielais Gusena ezersRobežnieku pag.120,5
+Dagdas ezers
+Asūnes pag.
+484,1
 76.
-Maksimovas ezers (Latvijas daļa)Indras pag.16,1
+Dolgojes ezers (Latvijas daļa)
+Indras pag.
+15,0
 77.
-Melnais ezers (Čornojes ezers)Robežnieku pag.8,0
+Drīdža ezers
+Kombuļu pag.,
+Skaistas pag.
+753,2
 78.
-Osvas ezersBērziņu pag.51,8
+Ežezers (Ješa ezers)
+Ezernieku pag.
+987,9
 79.
-Rušona ezers (Cīruļu ezers)Kastuļinas pag.2373,0
-(daļa Rēzeknes raj., Preiļu raj.)
+Kairīšu ezers
+Svariņu pag.
+31,7
 80.
-Sīvera ezersAulejas pag., Skaistas pag.1759,0
-Kuldīgas rajons
+Lielais Gusena ezers
+Robežnieku pag.
+120,5
 81.
-Ķikuru ezersTurlavas pag.21,6
+Maksimovas ezers (Latvijas daļa)
+Indras pag.
+16,1
 82.
-Lielais Nabas ezersPadures pag.70,5
+Matejka ezers
+Robežnieku pag.
+9,9
 83.
-Mazais Nabas ezersPadures pag.66,8
+Medvedka ezers (Lāču ezers)
+Robežnieku pag.
+8,4
 84.
-Slujas ezersRendas pag.57,3
+Melnais ezers (Čornojes ezers)
+Robežnieku pag.
+8,0
 85.
-Vilgāles ezersKurmāles pag.242,5
+Nauļānu ezers
+Robežnieku pag.
+55,9
 86.
-Zvirgzdu ezersAlsungas pag., Gudenieku pag.74,7
-Liepāja
+Nāzaru ezers (Malcānu ezers)
+Bērziņu pag.
+12,5
 87.
-Liepājas ezers (daļa Liepājas raj.)Liepāja3715,0
+Osvas ezers
+Bērziņu pag.
+51,8
 88.
-Tosmares ezersLiepāja405,0
-Liepājas rajons
+Rušona ezers (Cīruļu ezers)
+(daļa Rēzeknes raj., Preiļu raj.)
+Kastuļinas pag.
+2373,0
 89.
-Durbes ezersDunalkas pag., Tadaiķu pag.,670,0
-Durbes pils. (ar lauku terit.)
+Sīvera ezers
+Aulejas pag., Skaistas pag.
+1759,0
 90.
-Kalšu ezers (Latvijas daļa)Vaiņodes pag.21,0
-Liepājas ezersGrobiņas pag., Nīcas pag.,3715,0
-(daļa Liepājā, sk. nr.87)Otaņķu pag.
+Žabinka ezers
+Robežnieku pag.
+3,4
+Kuldīgas rajons
 91.
-Papes ezersNīcas pag., Rucavas pag.1205,0
+Ķikuru ezers
+Turlavas pag.
+21,6
 92.
-Tāšu ezersMedzes pag.94,9
-Limbažu rajons
+Lielais Nabas ezers
+Padures pag.
+70,5
 93.
-Aijažu ezersLēdurgas pag.311,4
+Mazais Nabas ezers
+Padures pag.
+66,8
 94.
-Augstrozes LielezersUmurgas pag.400,0
+Slujas ezers
+Rendas pag.
+57,3
 95.
-DūņezersLimbaži, Limbažu pag.135,6
+Vilgāles ezers
+Kurmāles pag.
+242,5
 96.
-Katvaru ezersKatvaru pag.64,7
+Zvirgzdu ezers
+Alsungas pag., Gudenieku pag.
+74,7
+Liepāja
 97.
-Lādes ezersLimbažu pag.246,0
+Liepājas ezers (daļa Liepājas raj.)
+Liepāja
+3715,0
 98.
-Limbažu LielezersLimbaži, Limbažu pag.256,4
-Ludzas rajons
+Tosmares ezers
+Liepāja
+405,0
+Liepājas rajons
 99.
-Cirma ezersCirmas pag.1261,2
+Durbes ezers
+Dunalkas pag., Tadaiķu pag., Durbes pils. (ar lauku terit.)
+670,0
 100.
-Čornojes ezers (Latvijas daļa)Briģu pag.7,4
+Kalšu ezers (Latvijas daļa)
+Liepājas ezers (daļa Liepājā, sk. Nr.97)
+Vaiņodes pag.
+Grobiņas pag., Nīcas pag., Otaņķu pag.
+21,0
+3715,0
 101.
-DziļezersIstras pag.150,9
+Papes ezers
+Nīcas pag., Rucavas pag.
+1205,0
 102.
-Idzipoles ezers (daļa Rēzeknes raj.)Pildas pag.48,0
+Tāšu ezers
+Medzes pag.
+94,9
+Limbažu rajons
 103.
-Istras ezersIstras pag.155,3
+Aijažu ezers
+Lēdurgas pag.
+311,4
 104.
-Kurjanovas ezersLīdumnieku pag.127,8
+Augstrozes Lielezers
+Umurgas pag.
+400,0
 105.
-Laudera ezersLauderu pag.55,3
+Dūņezers
+Limbaži, Limbažu pag.
+135,6
 106.
-Lielais Ludzas ezersZvirgzdenes pag.846,4
+Katvaru ezers
+Katvaru pag.
+64,7
 107.
-Mazais Ludzas ezersLudza36,5
+Lādes ezers
+Limbažu pag.
+246,0
 108.
-Nirzas ezers (Nierzas ezers)Nirzas pag.551,6
+Limbažu Lielezers
+Limbaži, Limbažu pag.
+256,4
+Ludzas rajons
 109.
-Nūmērnes ezersSalnavas pag.73,8
+Cirma ezers
+Cirmas pag.
+1261,2
 110.
-Pildas ezersNukšas pag.294,6
+Čornojes ezers (Latvijas daļa)
+Briģu pag.
+7,4
 111.
-Pīteļa ezers (Latvijas daļa)Līdumnieku pag.138,5
+Dziļezers
+Istras pag.
+150,9
 112.
-Plisūna ezers (Plusons,Istras pag.480,0
-Dunduru ezers)
+Idzipoles ezers (daļa Rēzeknes raj.)
+Pildas pag.
+48,0
 113.
-Zilezers (Latvijas daļa)Līdumnieku pag.57,0
+Istras ezers
+Istras pag.
+155,3
 114.
-Zvirgzdenes ezersZvirgzdenes pag.134,2
-Madonas rajons
+Kurjanovas ezers
+Līdumnieku pag.
+127,8
 115.
-Dreimaņa ezers (Svētes ezers)Mārcienas pag.49,0
+Laudera ezers
+Lauderu pag.
+55,3
 116.
-Gulbēra ezersLiezēres pag.87,2
+Lielais Ludzas ezers
+Zvirgzdenes pag.
+846,4
 117.
-Jumurdas ezersJumurdas pag.173,7
+Mazais Ludzas ezers
+Ludza
+36,5
 118.
-Kalsnavas ezersKalsnavas pag.23,4
+Nirzas ezers (Nierzas ezers)
+Nirzas pag.
+551,6
 119.
-KālezersVestienas pag.407,1
+Nūmērnes ezers
+Salnavas pag.
+73,8
 120.
-Kurtavas ezersMētrienas pag.74,0
+Pildas ezers
+Nukšas pag.
+294,6
 121.
-Lielais Līdēra ezersAronas pag.125,2
+Pīteļa ezers (Latvijas daļa)
+Līdumnieku pag.
+138,5
 122.
-Liezēra ezersLiezēres pag.105,9
+Plisūna ezers (Plusons, Dunduru ezers)
+Istras pag.
+480,0
 123.
-Lubāna ezers (daļa Rēzeknes raj.)Ošupes pag., Barkavas pag.8210,0
+Šešku ezers
+Pasienes pag.
+38,7
 124.
-Mazais Virānes ezersCesvaines pils. (ar lauku terit.)47,2
+Zilezers (Latvijas daļa)
+Līdumnieku pag.
+57,0
 125.
-Odzienas ezersMētrienas pag.47,0
+Zvirgzdenes ezers
+Zvirgzdenes pag.
+134,2
+Madonas rajons
 126.
-Rāceņu ezersLazdonas pag.34,9
+Apaļais ezers
+Aronas pag.
+0,6
 127.
-Salas ezersPraulienas pag.31,8
+Dreimaņa ezers (Svētes ezers)
+Mārcienas pag.
+49,0
 128.
-Viešūra ezers (Kaķīšu ezers)Vestienas pag.176,0
-Ogres rajons
+Gulbēra ezers
+Liezēres pag.
+87,2
 129.
-Lobes ezersKrapes pag.533,5
+Ilziņa ezers
+Vestienas pag.
+21,9
 130.
-Pečora ezersĶeipenes pag.102,6
+Jumurdas ezers
+Jumurdas pag.
+173,7
 131.
-Plaužu ezersĶeipenes pag., Taurupes pag.95,6
-Preiļu rajons
+Kaijenieks
+Aronas pag.
+9,4
 132.
-Bicānu ezersRušonas pag.149,4
+Kālezers
+Vestienas pag.
+407,1
 133.
-Biržgaļa ezersAglonas pag.272,2
-(Biržkalnu ezers, Kapiņu ezers)
+Kalsnavas ezers
+Kalsnavas pag.
+23,4
 134.
-Ciriša ezersAglonas pag.630,6
+Kurtavas ezers
+Mētrienas pag.
+74,0
 135.
-Deguma ezers (Pelēčāres ezers)Rudzātu pag.59,0
+Lielais Līdēra ezers
+Aronas pag.
+125,2
 136.
-Feimaņu ezers (daļa Rēzeknes raj.)Gailīšu pag., Rušonas pag.625,7
+Liezēra ezers
+Liezēres pag.
+105,9
 137.
-Jersikas ezersJersikas pag.41,0
-Lielais Kalupes ezersRožkalnu pag.175,0
-(Salenieku ezers)
-(daļa Daugavpils raj., sk. nr.36)
+Lubāna ezers (daļa Rēzeknes raj.)
+Ošupes pag., Barkavas pag.
+8210,0
 138.
-Pelēča ezersAizkalnes pag.82,0
-Rušona ezers (Cīruļu ezers)Rušonas pag.2373,0
-(daļa Rēzeknes raj.,
-Krāslavas raj., sk. nr.79)
-Rēzekne
+Mazais Virānes ezers
+Cesvaines pils. (ar lauku terit.)
+47,2
 139.
-Rēzeknes ezersRēzekne22,0
-Rēzeknes rajons
+Odzienas ezers
+Mētrienas pag.
+47,0
 140.
-Černostes ezersMaltas pag.213,3
+Rāceņu ezers
+Lazdonas pag.
+34,9
 141.
-Dziļūta ezersStoļerovas pag.33,1
-Feimaņu ezersFeimaņu pag.625,7
-(daļa Preiļu raj., sk. nr.136)
-Idzipoles ezersKaunatas pag.48,0
-(daļa Ludzas raj., sk. nr.102)
+Salas ezers
+Praulienas pag.
+31,8
 142.
-Kaunatas ezersKaunatas pag.54,5
-Lubāna ezersNagļu pag.,8210,0
-(daļa Madonas raj., sk. nr.123)Gaigalavas pag.
+Talejas ezers
+Vestienas pag.
+79,7
 143.
-Meirānu ezersBērzgales pag.114,7
+Viešūra ezers (Kaķīšu ezers)
+Vestienas pag.
+176,0
+Ogres rajons
 144.
-Pušas ezersPušas pag.241,4
+Lobes ezers
+Krapes pag.
+533,5
 145.
-Rāznas ezers (Rēznas ezers)Kaunatas pag., Čornajas pag.,5756,4
-Mākoņkalna pag.
-Rušona ezers (Cīruļu ezers)Feimaņu pag.2373,0
-(daļa Krāslavas raj.,
-Preiļu raj., sk. nr.79)
+Pečora ezers
+Ķeipenes pag.
+102,6
 146.
-Salāja ezersMākoņkalna pag.174,7
-(Lakstīgalu ezers, Solovju ezers)
+Plaužu ezers
+Ķeipenes pag., Taurupes pag.
+95,6
+Preiļu rajons
 147.
-Tiskādu ezers (Ciskada ezers)Silmalas pag.179,5
+Bicānu ezers
+Rušonas pag.
+149,4
 148.
-Viraudas ezersLendžu pag.95,4
+Biržgaļa ezers (Biržkalnu ezers, Kapiņu ezers)
+Aglonas pag.
+272,2
 149.
-Virtūkšņa ezers (Vertūkšņas ezers)Lūznavas pag.52,8
+Ciriša ezers
+Aglonas pag.
+630,6
 150.
-Zosnas ezersLūznavas pag.156,5
-Rīga
+Deguma ezers (Pelēčāres ezers)
+Rudzātu pag.
+59,0
 151.
-Juglas ezersRīga570,0
+Feimaņu ezers (daļa Rēzeknes raj.)
+Gailīšu pag., Rušonas pag.
+625,7
 152.
-ĶīšezersRīga1730,0
-Rīgas rajons
+Jersikas ezers
+Jersikas pag.
+41,0
+Lielais Kalupes ezers (Salenieku ezers)
+(daļa Daugavpils raj., sk. Nr.38)
+Rožkalnu pag.
+175,0
 153.
-Babītes ezersSalas pag., Babītes pag.2555,7
+Pelēča ezers
+Aizkalnes pag.
+82,0
+Rušona ezers (Cīruļu ezers)
+(daļa Rēzeknes raj., Krāslavas raj., sk. Nr.88)
+Rušonas pag.
+2373,0
+Rēzekne
 154.
-DūņezersCarnikavas pag.274,1
+Rēzeknes ezers
+Rēzekne
+22,0
+Rēzeknes rajons
 155.
-DzirnezersCarnikavas pag.173,0
+Černostes ezers
+Maltas pag.
+213,3
 156.
-GarezeriCarnikavas pag.24,4
+Dziļūta ezers
+Stoļerovas pag.
+33,1
+Feimaņu ezers (daļa Preiļu raj., sk. Nr.151)
+Feimaņu pag.
+625,7
+Idzipoles ezers (daļa Ludzas raj., sk. Nr.112)
+Kaunatas pag.
+48,0
 157.
-Jūdažu ezersSiguldas pag.32,7
+Ismeru-Žogotu ezers
+Čornajas pag.
+147,0
 158.
-Langstiņu ezersGarkalnes pag.35,7
+Kaunatas ezers
+Kaunatas pag.
+54,5
+Lubāna ezers (daļa Madonas raj., sk. Nr.137)
+Nagļu pag., Gaigalavas pag.
+8210,0
 159.
-Lielais BaltezersĀdažu pag., Garkalnes pag.597,5
+Meirānu ezers
+Bērzgales pag.
+114,7
 160.
-Lielais JūgezersGarkalnes pag.35,5
+Pušas ezers
+Pušas pag.
+241,4
 161.
-Līlastes ezersĀdažu pag.183,6
+Rāznas ezers (Rēznas ezers)
+Kaunatas pag., Čornajas pag., Mākoņkalna pag.
+5756,4
+Rušona ezers (Cīruļu ezers)
+(daļa Krāslavas raj., Preiļu raj., sk. Nr.88)
+Feimaņu pag.
+2373,0
 162.
-Mazais BaltezersĀdažu pag., Garkalnes pag.198,7
+Salāja ezers (Lakstīgalu ezers, Solovju ezers)
+Mākoņkalna pag.
+174,7
 163.
-Pabažu ezersSējas pag.38,2
-Saldus rajons
+Tiskādu ezers (Ciskada ezers)
+Silmalas pag.
+179,5
 164.
-Brocēnu ezersBrocēnu pils. (ar lauku terit.)43,6
+Viraudas ezers
+Lendžu pag.
+95,4
 165.
-Cieceres ezersBrocēnu pils. (ar lauku terit.)276,8
+Virtūkšņa ezers (Vertūkšņas ezers)
+Lūznavas pag.
+52,8
 166.
-Remtes ezersRemtes pag.75,5
+Zosnas ezers
+Lūznavas pag.
+156,5
+Rīga
 167.
-Saldus ezersSaldus,22,0
-Brocēnu pils. (ar lauku terit.)
-Talsu rajons
+Juglas ezers
+Rīga
+570,0
 168.
-Engures ezers (daļa Tukuma raj.)Mērsraga pag., Ķūļciema pag.4130,7
+Ķīšezers
+Rīga
+1730,0
+Rīgas rajons
 169.
-Sasmakas ezersValdemārpils (ar lauku terit.)252,0
-(Valdemārpils ezers, Ārlavas ezers)
-Tukuma rajons
+Babītes ezers
+Salas pag., Babītes pag.
+2555,7
 170.
-Dūņiera ezersLapmežciema pag.25,3
+Dūņezers
+Carnikavas pag.
+274,1
 171.
-Dzirciema ezersZentenes pag.27,1
-Engures ezersZentenes pag.,4130,7
-(daļa Talsu raj., sk. nr.168)Engures pag.
+Dzirnezers
+Carnikavas pag.
+173,0
 172.
-Kaņiera ezersLapmežciema pag.1122,1
+Garezeri
+Carnikavas pag.
+24,4
 173.
-Lielapsauju ezers (Apsauju ezers)Jaunpils pag.20,0
+Jūdažu ezers
+Siguldas pag.
+32,7
 174.
-Pālansu ezers (Lestenes ezers)Lestenes pag.36,0
+Langstiņu ezers
+Garkalnes pag.
+35,7
 175.
-Sēmes ezersSēmes pag.48,6
+Lielais Baltezers
+Ādažu pag., Garkalnes pag.
+597,5
 176.
-Valguma ezersSmārdes pag.60,3
-Valkas rajons
+Lielais Jūgezers
+Garkalnes pag.
+35,5
 177.
-Cepšu ezersKārķu pag.25,3
+Līlastes ezers
+Ādažu pag.
+183,6
 178.
-Lizdoles ezersLaunkalnes pag.53,9
+Mazais Baltezers
+Ādažu pag., Garkalnes pag.
+198,7
 179.
-Valda ezersĒrģemes pag.24,8
-Valmieras rajons
+Pabažu ezers
+Sējas pag.
+38,2
+Saldus rajons
 180.
-Burtnieku ezersBurtnieku pag., Matīšu pag.,4006,0
-Vecates pag.
+Brocēnu ezers
+Brocēnu pils. (ar lauku terit.)
+43,6
 181.
-Dauguļu MazezersDikļu pag.62,5
+Cieceres ezers
+Brocēnu pils. (ar lauku terit.)
+276,8
 182.
-Ķiruma ezersVecates pag.53,5
+Ķerkliņu ezers
+Zvārdes pag.
+50,0
 183.
-Ramatas LielezersRamatas pag.162,0
+Remtes ezers
+Remtes pag.
+75,5
 184.
-Rāķa ezersDikļu pag.67,0
+Saldus ezers
+Saldus, Brocēnu pils. (ar lauku terit.)
+22,0
 185.
-Vaidavas ezersVaidavas pag.87,2
-Ventspils
+Zvārdes ezers (Odzānu ezers)
+Zvārdes pag.
+20,0
+Talsu rajons
 186.
-Būšnieku ezersVentspils330,0
-Ventspils rajons
+Engures ezers (daļa Tukuma raj.)
+Mērsraga pag., Ķūļciema pag.
+4130,7
 187.
-KlāņezersTārgales pag., Popes pag.67,0
+Sasmakas ezers (Valdemārpils ezers, Ārlavas ezers)
+Valdemārpils (ar lauku terit.)
+252,0
+Tukuma rajons
 188.
-Puzes ezersPuzes pag.520,5
+Dūņiera ezers
+Lapmežciema pag.
+25,3
 189.
-Usmas ezersUsmas pag.3469,2
+Dzirciema ezers
+Zentenes pag.
+27,1
+Engures ezers (daļa Talsu raj., sk. Nr.186)
+Zentenes pag., Engures pag.
+4130,7
+190.
+Kaņiera ezers
+Lapmežciema pag.
+1122,1
+191.
+Lielapsauju ezers (Apsauju ezers)
+Jaunpils pag.
+20,0
+192.
+Pālansu ezers (Lestenes ezers)
+Lestenes pag.
+36,0
+193.
+Sēmes ezers
+Sēmes pag.
+48,6
+194.
+Valguma ezers
+Smārdes pag.
+60,3
+Valkas rajons
+195.
+Cepšu ezers
+Kārķu pag.
+25,3
+196.
+Lizdoles ezers
+Launkalnes pag.
+53,9
+197.
+Valda ezers
+Ērģemes pag.
+24,8
+Valmieras rajons
+198.
+Burtnieku ezers
+Burtnieku pag., Matīšu pag., Vecates pag.
+4006,0
+199.
+Dauguļu Mazezers
+Dikļu pag.
+62,5
+200.
+Ķiruma ezers
+Vecates pag.
+53,5
+201.
+Ramatas Lielezers
+Ramatas pag.
+162,0
+202.
+Rāķa ezers
+Dikļu pag.
+67,0
+203.
+Vaidavas ezers
+Vaidavas pag.
+87,2
+Ventspils
+204.
+Būšnieku ezers
+Ventspils
+330,0
+Ventspils rajons
+205.
+Klāņezers
+Tārgales pag., Popes pag.
+67,0
+206.
+Puzes ezers
+Puzes pag.
+520,5
+207.
+Usmas ezers
+Usmas pag.
+3469,2
