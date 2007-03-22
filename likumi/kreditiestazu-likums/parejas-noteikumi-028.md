@@ -1,0 +1,1 @@
+28. Ja riska svērto vērtību visiem riska darījumiem aprēķina saskaņā ar šā likuma pārejas noteikumu 24.punktu, kredītiestādes lielo riska darījumu un ar kredītiestādi saistīto personu riska darījumu ierobežojumu izpildi nodrošina kārtībā, kādu noteica Finanšu un kapitāla tirgus komisija pirms šo grozījumu spēkā stāšanās.

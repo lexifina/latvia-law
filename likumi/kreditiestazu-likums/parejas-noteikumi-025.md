@@ -1,0 +1,1 @@
+25. Ja kredītiestāde izmanto šā likuma pārejas noteikumu 24.punktā minēto iespēju, tā līdz 2007.gada 31.decembrim šā likuma 35.pantā noteikto parāda vērtspapīru un kapitāla vērtspapīru pozīcijas riska kapitāla prasību aprēķinu var sagatavot Finanšu un kapitāla tirgus komisijas noteiktajā kapitāla pietiekamības aprēķināšanas kārtībā.

@@ -1,0 +1,1 @@
+23. Šā likuma pārejas noteikumu 18., 19., 20., 21. un 22.punkta prasību izpildei kredītiestāžu darbību raksturojošos rādītājus rēķina individuāli vai konsolidācijas grupas līmenī saskaņā ar šā likuma 50.⁸ un 50.⁹ pantu.

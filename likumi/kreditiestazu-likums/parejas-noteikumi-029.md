@@ -1,0 +1,1 @@
+29. Grozījumi par šā likuma papildināšanu ar 131.¹ pantu attiecībā uz prasību par valsts aģentūras "Maksātnespējas administrācija" izsniegta sertifikāta nepieciešamību kredītiestādes administratora pienākumu veikšanai nav piemērojami tam kredītiestādes administratoram, kurš savu darbību kā kredītiestādes administrators ir uzsācis pirms šo grozījumu spēkā stāšanās.

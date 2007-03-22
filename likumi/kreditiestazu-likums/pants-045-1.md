@@ -1,0 +1,1 @@
+45.¹ pants. Banka vai finanšu pārvaldītājsabiedrība pirms līdzdalības iegūšanas kādas ārvalstī reģistrētas komercsabiedrības pamatkapitālā, kā rezultātā komercsabiedrība saskaņā ar šo likumu tiks pakļauta konsolidētajai uzraudzībai, pārliecinās, ka banka varēs saņemt konsolidētajai uzraudzībai nepieciešamo informāciju no attiecīgās komercsabiedrības.

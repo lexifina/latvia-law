@@ -1,3 +1,3 @@
 138.pants. (1) Ja likvidators kredītiestādes likvidācijas gaitā konstatē, ka likvidējamās kredītiestādes mantas nepietiek visu kreditoru prasījumu pilnīgai apmierināšanai, likvidatora pienākums ir pieņemt lēmumu par bankrota procedūras uzsākšanu un iesniegt tiesā maksātnespējas pieteikumu, kredītiestādes vārdā lūdzot tiesu pasludināt kredītiestādi par maksātnespējīgu un pieņemt lēmumu par bankrota procedūras uzsākšanu.
 (2) Pasludinot kredītiestādi par maksātnespējīgu pēc šā panta pirmajā daļā minētā pieteikuma izskatīšanas tiesā, vienlaikus tiek pieņemts lēmums par bankrota procedūras uzsākšanu.
-(3) Šādā gadījumā par kredītiestādes administratoru ar tiesas nolēmumu apstiprināms likvidators, ja ievērotas šā likuma 131.panta prasības un nav 132.pantā noteikto ierobežojumu.
+(3) Šādā gadījumā par kredītiestādes administratoru ar tiesas nolēmumu apstiprināms likvidators, ja ievērotas šā likuma 131.¹ panta prasības un nav 132.¹ pantā noteikto ierobežojumu.

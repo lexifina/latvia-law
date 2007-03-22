@@ -1,0 +1,1 @@
+17. Uz iekšējiem reitingiem balstīto attīstīto pieeju kredītriska kapitāla prasības aprēķinam un attīstīto operacionālā riska mērīšanas pieeju šā riska kapitāla prasības aprēķinam kredītiestādes piemēro ar 2008. gada 1.janvāri.

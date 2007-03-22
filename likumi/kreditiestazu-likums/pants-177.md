@@ -7,5 +7,5 @@
 2) šo pasākumu veikšanas termiņi;
 3) nepieciešamie līdzekļi un to iegūšanas avoti;
 4) paredzētie kredītiestādes maksātspējas uzlabošanās termiņi un apjoms;
-5) termiņi, kad kredītiestāde spēs izpildīt visas likumu un Finanšu un kapitāla tirgus komisijas normatīvo norādījumu un noteikumu prasības;
+5) termiņi, kad kredītiestāde spēs izpildīt visas likumu un Finanšu un kapitāla tirgus komisijas normatīvo noteikumu un rīkojumu prasības;
 6) kārtība, kādā paredzēts veikt maksājumus kreditoru prasījumu apmierināšanai, un to veikšanas termiņi.

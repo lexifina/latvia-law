@@ -1,3 +1,0 @@
-50.⁷pants. (1) Kredītiestādei, kuras mātes sabiedrība ir jaukta pārvaldītājsabiedrība, ir pienākums sniegt Finanšu un kapitāla tirgus komisijai informāciju par darījumiem, kurus tā veikusi ar mātes sabiedrību un citām tās meitas sabiedrībām (izņemot liela riska darījumus, par kuriem informācija Finanšu un kapitāla tirgus komisijai sniegta atbilstoši citiem normatīvajiem aktiem).
-(2) Kredītiestādei jāizveido piemērota risku vadības un iekšējās kontroles sistēma, tai skaitā jāizstrādā attiecīgas grāmatvedības procedūras, lai pienācīgi noteiktu, novērtētu un kontrolētu grupas iekšējos darījumus.
-(3) Finanšu un kapitāla tirgus komisijai ir tiesības noteikt iekšējo darījumu ierobežojumus, ja grupas iekšējie darījumi apdraud kredītiestādes finansiālo stāvokli.

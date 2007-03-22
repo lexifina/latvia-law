@@ -1,0 +1,1 @@
+24. Līdz 2007.gada 31.decembrim kredītiestāde šā likuma 35.pantā noteikto kredītriska un darījumu partnera riska kapitāla prasību aprēķinu saskaņā ar standartizēto pieeju var sagatavot Finanšu un kapitāla tirgus komisijas noteiktajā kapitāla pietiekamības aprēķināšanas kārtībā.

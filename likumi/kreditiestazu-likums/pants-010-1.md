@@ -1,13 +1,14 @@
-10.¹pants. (1) Ārpakalpojumus kredītiestādei ir tiesīgs sniegt tikai tāds ārpakalpojumu sniedzējs, kuram ir nepieciešamā kvalifikācija un pieredze tam deleģēto pienākumu izpildē.
+10.¹ pants. (1) Ārpakalpojumus kredītiestādei ir tiesīgs sniegt tikai tāds ārpakalpojumu sniedzējs, kuram ir nepieciešamā kvalifikācija un pieredze tam deleģēto pienākumu izpildē.
 (2) Ārpakalpojums šā likuma izpratnē ir pakalpojums, kas atbilst šādām pazīmēm:
-1) kredītiestādei to sniedz ārpakalpojumu sniedzējs, kurš nav saņēmis Finanšu un kapitāla tirgus komisijas licenci (atļauju) attiecīgā pakalpojuma sniegšanai;
+1) kredītiestādei to sniedz ārpakalpojumu sniedzējs, kurš nav saņēmis dalībvalsts attiecīgās uzraudzības institūcijas licenci (atļauju) konkrētā pakalpojuma sniegšanai;
 2) tas ir kāds no šādiem pakalpojumiem:
-a) kredītiestādes grāmatvedības kārtošana, informācijas tehnoloģiju vai sistēmu pārvaldība vai attīstība, iekšējās kontroles organizēšana, iekšējā audita dienesta pienākumu veikšana,
+a) kredītiestādes grāmatvedības kārtošana, informācijas tehnoloģiju vai sistēmu pārvaldība vai attīstīšana, iekšējās kontroles sistēmas organizēšana, iekšējā audita dienesta pienākumu veikšana,
 b) kredītiestādes finanšu pakalpojuma vai kāda būtiska tā elementa sniegšana.
-(3) Kredītiestādes iekšējā audita dienesta pienākumus var deleģēt vienīgi zvērinātam revidentam vai zvērinātu revidentu komercsabiedrībai.
+(3) Kredītiestādes iekšējā audita dienesta pienākumus var deleģēt vienīgi zvērinātam revidentam, zvērinātu revidentu komercsabiedrībai vai kredītiestādes mātes sabiedrībai - dalībvalstī reģistrētai kredītiestādei.
 (4) Kredītiestāde nedrīkst deleģēt saskaņā ar normatīvajiem aktiem vai kredītiestādes statūtiem noteiktos kredītiestādes pārvaldes institūciju pienākumus, kā arī:
 1) noguldījumu un citu atmaksājamo līdzekļu piesaistīšanu;
-2) galvojumu un citu tādu saistību aktu izsniegšanu, ar kuriem tā uzņēmusies pienākumu atbildēt kreditoram par trešās personas parādu.
+2) galvojumu un citu tādu saistību aktu izsniegšanu, ar kuriem tā uzņēmusies pienākumu atbildēt kreditoram par trešās personas parādu;
+3) ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšanu.
 (5) Pirms ārpakalpojuma saņemšanas kredītiestāde iesniedz Finanšu un kapitāla tirgus komisijai motivētu rakstveida iesniegumu par plānoto ārpakalpojuma saņemšanu. Iesniegumam pievieno ārpakalpojuma politikas, procedūras aprakstu un ārpakalpojuma līguma oriģinālu vai tā apliecinātu kopiju.
 (6) Ārpakalpojuma līgumā nosaka:
 1) saņemamā ārpakalpojuma aprakstu;

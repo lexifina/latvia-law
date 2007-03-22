@@ -1,0 +1,1 @@
+20. Līdz 2007.gada 31.decembrim kredītiestādes pašu kapitāls ir vismaz 95 procenti no minimālā pašu kapitāla, kas aprēķināts saskaņā ar Finanšu un kapitāla tirgus komisijas noteikto kapitāla pietiekamības aprēķināšanas kārtību.

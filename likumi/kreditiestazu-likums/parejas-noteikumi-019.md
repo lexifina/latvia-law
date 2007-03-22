@@ -1,0 +1,1 @@
+19. Kredītiestādes, kas operacionālā riska kapitāla prasību aprēķinam izmanto attīstīto mērīšanas pieeju, no 2008.gada 1.janvāra līdz 2009.gada 31.decembrim nodrošina pašu kapitālu, kas vienmēr ir lielāks par šā likuma pārejas noteikumu 21. un 22.punktā norādītajām summām vai vienāds ar tām.

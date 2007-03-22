@@ -1,2 +1,4 @@
-72.¹pants. (1) Vienā Latvijas Republikā reģistrētas kredītiestādes vai ārvalsts kredītiestādes filiāles emitētā elektroniskās naudas līdzeklī uzkrātā elektroniskās naudas nominālvērtība nedrīkst pārsniegt 150 eiro ekvivalentu latos.
-(2) Pēc klienta pieprasījuma kredītiestādei ir pienākums atpirkt no klienta elektronisko naudu, izmaksājot elektroniskās naudas nominālvērtībai atbilstošu summu.
+72.¹ pants. (1) (Izslēgta ar 22.02.2007. likumu.)
+(2) Elektroniskās naudas derīguma laikā kredītiestādei (attiecīgās elektroniskās naudas emitentam) pēc klienta pieprasījuma ir pienākums atpirkt no klienta šo elektronisko naudu, izmaksājot elektroniskās naudas nominālvērtībai atbilstošu summu. Šāda pakalpojuma nodrošināšanai elektroniskās naudas institūcija var prasīt no klienta komisijas maksu.
+(3) Starp kredītiestādi un klientu noslēgtajā līgumā norāda nepārprotamus elektroniskās naudas atpirkšanas noteikumus. Elektroniskās naudas institūcija, kurai saskaņā ar šo likumu nav jāsaņem licence, nodrošina klientam brīvu pieeju elektroniskās naudas atpirkšanas noteikumiem, ja sniegtā pakalpojuma rakstura un specifikas dēļ ar klientu netiek slēgts līgums.
+(4) Elektroniskās naudas atpirkšanas noteikumi var paredzēt minimālo atpērkamo elektroniskās naudas summu, taču tā nedrīkst būt lielāka par 10 eiro ekvivalentu latos.

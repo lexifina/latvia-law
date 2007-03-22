@@ -1,5 +1,5 @@
 24.pants. (1) Par kredītiestādes valdes priekšsēdētāju, valdes locekli, iekšējā audita dienesta vadītāju, sabiedrības kontrolieri, ārvalstu kredītiestādes filiāles vadītāju, kā arī par tādu personu, kura kredītiestādes vārdā, pieņemot būtiskus lēmumus, rada kredītiestādei civiltiesiskas saistības, var būt persona:
-1) kura ir iekšzemes nodokļu maksātājs (rezidents);
+1) (izslēgts ar 22.02.2007. likumu);
 2) kura ir kompetenta finanšu vadības jautājumos;
 3) kurai ir nepieciešamā izglītība un triju gadu profesionālā darba pieredze atbilstoša lieluma komercsabiedrībā, organizācijā vai iestādē;
 4) kurai ir nevainojama reputācija;
