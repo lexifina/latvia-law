@@ -1,0 +1,1 @@
+Nolīgums, ar kuru groza Partnerattiecību nolīgumu starp Āfrikas, Karību jūras reģiona un Klusā okeāna valstu grupas locekļiem, no vienas puses, un Eiropas Kopienu un tās dalībvalstīm, no otras puses, kas parakstīts Kotonū, 2000. gada 23. jūnijā

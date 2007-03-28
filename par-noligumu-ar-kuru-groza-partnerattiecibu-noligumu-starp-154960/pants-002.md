@@ -1,0 +1,1 @@
+2.pants. Līgums stājas spēkā Partnerattiecību nolīguma starp Āfrikas, Karību jūras reģiona un Klusā okeāna valstu grupas locekļiem, no vienas puses, un Eiropas Kopienu un tās dalībvalstīm, no otras puses, kas parakstīts Kotonū 2000.gada 23.jūnijā, 93.pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo laikrakstā "Latvijas Vēstnesis".
