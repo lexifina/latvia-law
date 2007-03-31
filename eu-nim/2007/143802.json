@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par kritērijiem, kurus izmanto, novērtējot īpaši aizsargājamām sugām vai īpaši aizsargājamiem biotopiem nodarītā kaitējuma ietekmes būtiskumu",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "54",
+  "official_journal_page": null,
+  "official_journal_date": "2007-03-30",
+  "entry_into_force": "2007-03-31",
+  "notification_date": "2007-04-12",
+  "commission_reference": "MNE(2007)53116",
+  "nim_celex": "72004L0035LVA_143802",
+  "nim_id": "143802",
+  "transposes_celex": [
+    "32004L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/73eb58ac-8c3b-41dd-ba2a-fcf149eece41",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
