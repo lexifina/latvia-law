@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par putnu sugu sarakstu, kurām piemēro īpašus dzīvotņu aizsardzības pasākumus, lai nodrošinātu sugu izdzīvošanu un vairošanos izplatības areālā",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "54",
+  "official_journal_page": null,
+  "official_journal_date": "2007-03-30",
+  "entry_into_force": "2007-03-31",
+  "notification_date": "2007-04-27",
+  "commission_reference": "MNE(2007)53626",
+  "nim_celex": "71979L0409LVA_144489",
+  "nim_id": "144489",
+  "transposes_celex": [
+    "31979L0409",
+    "32009L0147"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a57fefa7-4095-41f2-a990-477266360ca3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
