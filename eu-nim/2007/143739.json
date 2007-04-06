@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Kārtība, kādā ceļu lietotājiem nodrošina minimālo drošības līmeni Eiropas ceļu tīkla tuneļos, kas garāki par 500 metriem",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "57",
+  "official_journal_page": null,
+  "official_journal_date": "2007-04-05",
+  "entry_into_force": "2007-04-06",
+  "notification_date": "2007-04-12",
+  "commission_reference": "MNE(2007)53064",
+  "nim_celex": "72004L0054LVA_143739",
+  "nim_id": "143739",
+  "transposes_celex": [
+    "32004L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8dfbe86d-5303-4a81-9bef-5b5fc87ca448",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
