@@ -8,4 +8,4 @@
 (4) Ja ārpusģimenes aprūpe tiek noteikta sakarā ar šā panta pirmās daļas 1.punktā minētajiem apstākļiem:
 1) vienas ģimenes bērni nav šķirami, izņemot īpašus gadījumus, kad tas tiek darīts bērnu interesēs;
 2) izvēloties ārpusģimenes aprūpes veidu, vērā ņemams arī bērna viedoklis.
-(5) Bāriņtiesa (pagasttiesa) pēc tam, kad pieņemts lēmums par bērna šķiršanu no ģimenes, nekavējoties informē par to pašvaldības sociālo dienestu vai pašvaldības deleģēto personu. Šajos gadījumos pašvaldības sociālais dienests kopā ar citām pašvaldības institūcijām, bērna vecākiem un bērna tiesību aizsardzības iestādēm izstrādā ģimenes atbalsta un palīdzības programmu.
+(5) Bāriņtiesa pēc tam, kad pieņemts lēmums par bērna šķiršanu no ģimenes, nekavējoties informē par to pašvaldības sociālo dienestu vai pašvaldības deleģēto personu. Šajos gadījumos pašvaldības sociālais dienests kopā ar citām pašvaldības institūcijām, bērna vecākiem un bērna tiesību aizsardzības iestādēm izstrādā ģimenes atbalsta un palīdzības programmu.
