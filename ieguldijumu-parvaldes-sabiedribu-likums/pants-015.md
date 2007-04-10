@@ -1,6 +1,6 @@
 15.pants. Fonda pārvaldes pakalpojumu deleģēšana
 (1) Sabiedrība uz līguma pamata var nodot tiesības sniegt atsevišķus fonda pārvaldē ietilpstošos pakalpojumus (turpmāk - fonda pārvaldes pakalpojumi) citai personai, kurai ir atbilstoša kvalifikācija un pieredze minēto pakalpojumu sniegšanā.
-(2) Fonda ieguldījumu pārvaldīšanu sabiedrība drīkst nodot tikai citai sabiedrībai.
+(2) Fonda ieguldījumu pārvaldīšanu sabiedrība drīkst nodot tikai citai sabiedrībai vai citā dalībvalstī licencētam pārvaldes pakalpojumu sniedzējam.
 (3) Fonda ieguldījumu pārvaldīšanu nedrīkst nodot sabiedrībai, kura vienlaikus ir turētājbankas ieinteresētā persona, sabiedrības ieinteresētā persona vai jebkura cita persona, kuras intereses var būt pretrunā ar sabiedrības vai fonda ieguldītāju interesēm.
 (4) Pirms fonda pārvaldes pakalpojumu nodošanas citai personai sabiedrība iesniedz Komisijai motivētu iesniegumu. Iesniegumam pievieno fonda pārvaldes pakalpojuma nodošanas līgumu. Līgumā iekļauj noteikumus par sabiedrības un pakalpojuma sniedzēja sadarbību līguma darbības laikā, kā arī šādas sabiedrības tiesības:
 1) jebkurā laikā dot attiecīgā pakalpojuma sniedzējam norādījumus jautājumos, kas saistīti ar nodotā pakalpojuma sniegšanu;

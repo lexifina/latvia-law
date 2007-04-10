@@ -12,8 +12,7 @@ f) sabiedrības izcelsmes valsts uzraudzības institūcijas rakstveida apliecin�
 (3) Dalībvalstī licencēta sabiedrība ir tiesīga uzsākt pārvaldes pakalpojumu sniegšanu Latvijā, neatverot filiāli, ja Komisija ir saņēmusi no sabiedrības izcelsmes valsts uzraudzības institūcijas paziņojumu, kurā ietverta šā panta otrās daļas 1.punkta "a", "b" un "e" apakšpunktā minētā informācija.
 (4) Ja dalībvalstī licencēta sabiedrība šajā pantā noteiktajā kārtībā uzsākusi pārvaldes pakalpojumu sniegšanu Latvijā, tās pienākums ir paziņot Komisijai par jebkurām plānotajām pārmaiņām informācijā, kas sniegta saskaņā ar šā panta otrās daļas 1.punkta "b", "c" un "d" apakšpunktu, vismaz 30 dienas pirms attiecīgo pārmaiņu īstenošanas.
 (5) Dalībvalstī licencēta sabiedrība, kura uzsākusi pārvaldes pakalpojumu sniegšanu Latvijā šajā pantā noteiktajā kārtībā, sagatavo un iesniedz Komisijai tās noteiktajā kārtībā Komisijas uzraudzības funkciju veikšanai un statistikas datu apkopošanai nepieciešamo informāciju un pārskatus par sabiedrības darbību Latvijā.
-(6) Dalībvalstī licencēta sabiedrība, kura šajā pantā noteiktajā kārtībā uzsākusi pārvaldes pakalpojumu sniegšanu Latvijā, laižot publiskajā apgrozībā tās pārvaldīto fondu daļas, drīkst neņemt vērā šā likuma 60.pantā noteikto kārtību, ja tā izpilda šādas prasības:
-1) uzsākot fonda daļu pārdošanu, publicē paziņojumu atbilstoši šā likuma 59.pantam;
-2) nodrošina, lai ieguldītāji Latvijā tiktu laikus informēti par pārmaiņām fonda un sabiedrības darbībā;
-3) nodrošina, ka norēķini par fonda daļu pārdošanu un atpakaļpirkšanu tiek izpildīti;
-4) pēc ieguldītāju pieprasījuma bez maksas izsniedz tiem fonda prospektu un fonda pārvaldes nolikumu latviešu valodā.
+(6) Dalībvalstī licencēta sabiedrība, kura šajā pantā noteiktajā kārtībā uzsākusi pārvaldes pakalpojumu sniegšanu Latvijā, laižot publiskajā apgrozībā tās pārvaldīto atvērto ieguldījumu fondu apliecības, drīkst neņemt vērā šā likuma 60.pantā noteikto kārtību, ja tā izpilda šādas prasības:
+1) nodrošina, lai ieguldītāji Latvijā tiktu laikus informēti par pārmaiņām fonda un sabiedrības darbībā;
+2) nodrošina, lai tiktu veikti norēķini par fonda daļu pārdošanu un atpakaļpirkšanu;
+3) pēc ieguldītāju pieprasījuma bez maksas izsniedz tiem fonda prospektu, fonda saīsināto prospektu un fonda pārvaldes nolikumu latviešu valodā.

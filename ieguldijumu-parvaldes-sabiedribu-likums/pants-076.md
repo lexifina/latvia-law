@@ -1,7 +1,7 @@
 76.pants. Latvijā licencētas sabiedrības tiesības sniegt pārvaldes pakalpojumus dalībvalstī
 (1) Latvijā licencēta sabiedrība ir tiesīga sniegt dalībvalstī tikai tos pārvaldes pakalpojumus, kurus tai ir atļauts sniegt Latvijā.
 (2) Latvijā licencēta sabiedrība ir tiesīga uzsākt pārvaldes pakalpojumu sniegšanu dalībvalstī šajā pantā noteiktajā kārtībā, atverot filiāli vai bez filiāles atvēršanas.
-(3) Ja sabiedrība vēlas uzsākt pārvaldes pakalpojumu sniegšanu kādā no dalībvalstīm, tā iesniedz Komisijai iesniegumu. Iesniegumā norāda:
+(3) Ja sabiedrība vēlas uzsākt pārvaldes pakalpojumu sniegšanu kādā no dalībvalstīm, tā iesniedz Komisijai iesniegumu, kuram pievieno aprakstu par sabiedrības plānoto darbību attiecīgajā dalībvalstī. Iesniegumā norāda:
 1) pārvaldes pakalpojumus, kurus paredzēts sniegt dalībvalstī;
 2) dalībvalsti, kurā paredzēts sniegt pārvaldes pakalpojumus;
 3) veidu, kādā paredzēts sniegt pārvaldes pakalpojumus (atverot filiāli vai bez filiāles atvēršanas).

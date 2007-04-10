@@ -3,8 +3,8 @@
 (2) Sabiedrība veic fonda likvidāciju ja:
 1) nākamajā dienā pēc turētājbankas līguma izbeigšanās nav stājies spēkā jauns turētājbankas līgums;
 2) gada laikā pēc fonda nodibināšanas nav laista apgrozībā neviena ieguldījumu apliecība;
-3) visi atvērtā fonda ieguldītāji ir izmantojuši atpakaļpārdošanas tiesības un sabiedrība pieņem lēmumu par fonda likvidāciju.
-(3) Šā panta otrās daļas 3.punktā minētie noteikumi netiek piemēroti sešu mēnešu laikā pēc fonda nodibināšanas.
+3) sabiedrība ir pieņēmusi lēmumu par atvērtā fonda likvidāciju.
+(3) (Izslēgta ar 08.03.2007. likumu.)
 (4) Sabiedrība veic slēgtā fonda likvidāciju, ja šā fonda ieguldītāju pilnsapulce pieņem lēmumu par fonda likvidāciju.
 (5) Turētājbanka veic fonda likvidāciju, ja tā nenodod fonda pārvaldi ieguldījumu sabiedrībai šā likuma 16.panta septītajā daļā noteiktajā termiņā.
 (6) Ja sabiedrība vai turētājbanka neuzsāk fonda likvidāciju mēneša laikā no dienas, kad šāda likvidācija bija jāuzsāk, Komisijai ir tiesības iecelt fonda likvidatoru. Šādam fonda likvidatoram ir visas tās pašas tiesības, kuras ir sabiedrībai, ja tā veic likvidāciju.

@@ -11,18 +11,19 @@
 2) (izslēgts ar 24.10.2002. likumu);
 3) citiem fondiem, ko pārvalda tā pati sabiedrība.
 (6) Sabiedrība nedrīkst, tieši vienojoties, iegādāties uz fonda rēķina mantu no šā panta piektajā daļā minētajām personām.
-(7) Tādu vērtspapīru iegādei, kurus emitējusi kāda no šā panta piektajā daļā minētajām personām, fonda mantu drīkst izmantot tikai ar fondu biržas vai cita regulēta un publiska vērtspapīru tirgus starpniecību.
+(6¹) Šā panta piektās daļas 1.punktā un sestajā daļā noteiktie ierobežojumi darījumiem ar sabiedrības ieinteresētajām personām nav attiecināmi uz darījumiem ar sabiedrības ieinteresētajām personām, kuras ir Latvijā vai citā dalībvalstī reģistrētas kredītiestādes.
+(7) Tādu vērtspapīru iegādei, kurus emitējusi kāda no šā panta piektās daļas 1.punktā minētajām personām, fonda mantu drīkst izmantot tikai ar regulētā tirgus starpniecību. Iegādāties uz fonda rēķina citu sabiedrības vai tās ieinteresēto personu pārvaldīto ieguldījumu fondu apliecības drīkst tikai tad, ja šādam darījumam netiek piemērota ne ieguldījumu apliecību pārdošanas, ne atpakaļpirkšanas komisijas nauda.
 (8) Uz fonda rēķina nedrīkst veikt šādas darbības:
 1) izpildīt sabiedrības saistības, kuras tai radušās tās vārdā un uz tās rēķina;
 2) emitēt vērtspapīrus, izņemot ieguldījumu apliecības;
 3) uzņemties saistības, kuras izriet no galvojuma līgumiem;
-4) piešķirt aizdevumus. Minētais aizliegums nav attiecināms uz aktīvu atpakaļpirkuma darījumiem, kurus ir atļauts veikt, ievērojot, ka darījumā iesaistītajam finanšu instrumentam tiek piemēroti šā likuma 66.pantā noteiktie ierobežojumi.
+4) piešķirt aizdevumus. Minētais aizliegums nav attiecināms uz aktīvu atpakaļpirkuma darījumiem, kurus ir atļauts veikt, ievērojot, ka darījumā iesaistītajam finanšu instrumentam tiek piemēroti šā likuma 66.pantā noteiktie ierobežojumi, kā arī uz slēgtā ieguldījumu fonda līdzekļu ieguldīšanu nekustamajā īpašumā un tā lietošanas tiesībās.
 (9) Sabiedrība drīkst ņemt aizņēmumus uz atvērtā fonda rēķina, ja šie aizņēmumi tiek ņemti uz laiku līdz trim mēnešiem un to kopsumma nepārsniedz 10 procentus no atvērtā fonda vērtības.
-(10) Sabiedrība drīkst ņemt aizņēmumus uz slēgtā fonda rēķina, ja šie aizņēmumi tiek ņemti uz laiku līdz trim mēnešiem un to kopsumma nepārsniedz 25 procentus no slēgtā fonda vērtības. Ja slēgtā fonda prospektā ir paredzēts ne mazāk kā 50 procentus no slēgtā fonda līdzekļiem ieguldīt nekustamajā īpašumā, sabiedrība drīkst ņemt aizņēmumus uz slēgtā fonda rēķina bez laika ierobežojuma un to kopsumma nedrīkst pārsniegt 80 procentus no slēgtā fonda vērtības.
+(10) Sabiedrība drīkst ņemt aizņēmumus uz slēgtā fonda rēķina, ja šie aizņēmumi tiek ņemti uz laiku līdz trim mēnešiem un to kopsumma nepārsniedz 25 procentus no slēgtā fonda vērtības. Ja slēgtā fonda prospektā ir paredzēts ne mazāk kā 50 procentus no slēgtā fonda līdzekļiem ieguldīt nekustamajā īpašumā, sabiedrība drīkst ņemt aizņēmumus uz slēgtā fonda rēķina bez laika ierobežojuma un to kopsumma nedrīkst pārsniegt slēgtā fonda vērtību vairāk kā četras reizes.
 (11) Sabiedrība nedrīkst ņemt aizņēmumus uz atvērtā fonda rēķina no šā panta piektajā daļā minētajām personām, izņemot bezprocentu aizņēmumus no sabiedrības un aizņēmumus no turētājbankas par procentu likmi, kas nepārsniedz finanšu tirgus vidējo kredītprocentu likmi aizņēmuma ņemšanas brīdī.
 (12) Sabiedrība nedrīkst uz fonda rēķina pārdot vērtspapīrus vai uzņemties saistības par vērtspapīru pārdošanu, ja tie darījuma noslēgšanas brīdī nav fonda manta. Šā noteikuma pārkāpums neietekmē darījuma spēkā esamību.
 (13) Sabiedrība nedrīkst uz fonda rēķina iegādāties mantu par cenu, kas ir augstāka par tirgus cenu, vai atsavināt fonda mantu par cenu, kas ir zemāka par tirgus cenu.
 (14) Sabiedrības akcionāri, kuriem ir būtiska līdzdalība sabiedrībā, drīkst veikt ieguldījumu sabiedrības nodibinātajā ieguldījumu fondā, ja tiek ievēroti šādi nosacījumi:
 1) akcionāram ieguldot līdzekļus fondā vai izstājoties no fonda, netiek aizskartas citu fonda ieguldītāju likumīgās intereses;
-2) ieguldījumu fonda vērtība nepārsniedz desmit miljonus latu.
+2) atvērtā ieguldījumu fonda vērtība nepārsniedz desmit miljonus latu. Ja fonda vērtība pārsniedz desmit miljonus latu, sabiedrības akcionāri, kuriem ir būtiska līdzdalība sabiedrībā, var saglabāt savus ieguldījumus fondā, bet nedrīkst tos palielināt.
 (15) Ja sabiedrības akcionārs, kuram ir būtiska līdzdalība sabiedrībā, ir ieguldījis līdzekļus atbilstoši šā panta četrpadsmitās daļas noteikumiem, fonda pārskatos sniedzama informācija par šāda ieguldījuma apjomu.

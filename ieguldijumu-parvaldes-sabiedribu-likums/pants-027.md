@@ -10,7 +10,9 @@
 1) fonda prospekta apstiprināšanu un grozījumu izdarīšanu tajā;
 2) sabiedrības vai turētājbankas maiņu;
 3) fonda likvidāciju;
+3¹) dividenžu izmaksu;
 4) citiem jautājumiem, kurus ir noteikusi Komisija vai kuri ir paredzēti fonda prospektā.
+(8¹) Slēgtā ieguldījumu fonda izmaksāto dividenžu summa nedrīkst pārsniegt realizēto ieguldījumu vērtības pieaugumu.
 (9) Ieguldītāju pilnsapulce ir tiesīga, ja tajā piedalās ieguldītāji, kas pārstāv vismaz pusi no fonda vērtības.
 (10) Ieguldītāju pilnsapulces lēmums ir pieņemts, ja par to nobalso ieguldītāji, kas pārstāv ne mazāk kā trīs ceturtdaļas no pilnsapulcē kopumā pārstāvētās fonda vērtības.
 (11) Sabiedrības un turētājbankas pārstāvjiem, Komisijas locekļiem un revidentam ir tiesības piedalīties ieguldītāju pilnsapulcē bez balsstiesībām, bet ar padomdevēju tiesībām.

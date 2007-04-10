@@ -7,7 +7,7 @@
 4) iepriekšējo gadu nesadalītā peļņa vai zaudējumi;
 5) kārtējā darbības gada peļņa, ja ir zvērināta revidenta ziņojums par peļņas esamību un tā aprēķināta, ņemot vērā visus nepieciešamos uzkrājumus aktīvu vērtības samazinājumam, paredzamajiem nodokļu maksājumiem un dividendēm, un Komisija ir piekritusi kārtējā darbības gada peļņas iekļaušanai sākotnējā kapitālā.
 (3) Ja sabiedrības pārvaldīšanā esošo līdzekļu apmērs pārsniedz 250000000 eiro ekvivalentu latos pēc Latvijas Bankas noteiktā kursa, sabiedrībai jānodrošina pašu kapitālā papildu summa, kuras apmērs ir 0,02 procenti no summas, par kādu pārvaldīšanā esošo līdzekļu vērtība pārsniedz 250000000 eiro ekvivalentu latos pēc Latvijas Bankas noteiktā kursa.
-(4) Neņemot vērā šā panta otrās daļas noteikumus, sabiedrības sākotnējais kapitāls un papildu summa nepārsniedz 10000000 eiro ekvivalentu latos pēc Latvijas Bankas noteiktā kursa.
+(4) Neņemot vērā šā panta trešās daļas noteikumus, sabiedrības sākotnējais kapitāls un papildu summa nepārsniedz 10000000 eiro ekvivalentu latos pēc Latvijas Bankas noteiktā kursa.
 (5) Nosakot sabiedrības kapitāla atbilstību šā likuma prasībām, par pārvaldīšanā esošajiem līdzekļiem uzskata:
 1) sabiedrības pārvaldīto atvērto ieguldījumu fondu līdzekļus, ieskaitot tos līdzekļus, kurus tā ir nodevusi pārvaldīšanai citai sabiedrībai, bet neieskaitot līdzekļus, ko tā ir saņēmusi pārvaldīšanā no citas sabiedrības;
 2) sabiedrības pārvaldīto slēgto ieguldījumu fondu līdzekļus, ieskaitot līdzekļus, kurus tā ir nodevusi pārvaldīšanā citai sabiedrībai, bet neieskaitot līdzekļus, ko tā ir saņēmusi pārvaldīšanā no citas sabiedrības;

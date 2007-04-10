@@ -10,7 +10,8 @@
 2) pirms pakalpojuma sniegšanas uzsākšanas noslēdz ar klientu rakstveida līgumu par pakalpojuma sniegšanu;
 3) pirms līguma par pakalpojuma sniegšanu noslēgšanas, kā arī visā līguma darbības laikā nodrošina, lai klientam būtu pietiekama informācija, kas ļauj izvērtēt sniegtā pakalpojuma būtību un ar to saistītos finanšu riskus;
 4) pirms līguma noslēgšanas informē klientu par tiem līgumā paredzētajiem strīdus gadījumiem, kuri tiks izskatīti ārpustiesas ceļā, un šādu strīdu izskatīšanas kārtību;
-5) piedalās ieguldītāju aizsardzības sistēmā atbilstoši to regulējošajiem normatīvajiem aktiem.
+5) piedalās ieguldītāju aizsardzības sistēmā atbilstoši to regulējošajiem normatīvajiem aktiem;
+6) ievēro un izpilda citas prasības, kas saskaņā ar Finanšu instrumentu tirgus likuma XII nodaļu ir noteiktas ieguldījumu brokeru sabiedrībām, kuras veic ieguldītāju finanšu instrumentu individuālu pārvaldīšanu saskaņā ar ieguldītāju pilnvarojumu un sniedz konsultācijas par ieguldījumiem finanšu instrumentos.
 (3) Sabiedrība, ciktāl tas nepieciešams klienta interešu nodrošināšanai un aizsardzībai, atbilstoši klientam sniegtā pakalpojuma raksturam un apjomam pieprasa no klienta informāciju par:
 1) klienta pieredzi un zināšanām par pakalpojuma sniegšanas gaitā slēdzamajiem darījumiem;
 2) mērķiem, kurus klients vēlas sasniegt ar attiecīgajiem darījumiem;

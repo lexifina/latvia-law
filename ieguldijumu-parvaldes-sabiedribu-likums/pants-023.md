@@ -1,6 +1,7 @@
 23.pants. Fonda reģistrācija
 (1) Lai reģistrētu fondu, sabiedrība iesniedz Komisijai iesniegumu. Iesniegumam pievieno:
 1) fonda prospektu (divus oriģināleksemplārus);
+1¹) fonda saīsināto prospektu (divus oriģināleksemplārus) - atvērtajiem ieguldījumu fondiem;
 2) fonda pārvaldes nolikumu (divus oriģināleksemplārus);
 3) turētājbankas līgumu;
 4) to turētājbankas darbinieku sarakstu, kuri būs atbildīgi par turētājbankas funkciju izpildi (norāda darbinieka vārdu, uzvārdu, personas kodu un pēdējo triju gadu darba pieredzi).

@@ -1,8 +1,8 @@
 56.pants. Fonda prospekts un tā grozījumi
-(1) Ieguldījumu apliecību emisiju nedrīkst uzsākt bez sabiedrības apstiprināta fonda prospekta. Atvērtajam fondam sabiedrība izstrādā un apstiprina divas fonda prospekta versijas- pilno un saīsināto fonda prospektu (turpmāk- fonda prospekts).
+(1) Ieguldījumu apliecību emisiju nedrīkst uzsākt bez sabiedrības apstiprināta fonda prospekta. Atvērtajam fondam sabiedrība izstrādā arī fonda saīsināto prospektu, kurā norāda šā likuma 57.panta ceturtajā daļā minēto informāciju.
 (2) Fonda prospektā sniedz informāciju, kas nepieciešama ieguldītājiem, lai viņi varētu pieņemt pamatotu lēmumu par piedāvāto ieguldījumu un potenciālo risku, kas ir saistīts ar šādu ieguldījumu.
 (3) Fonda prospektā sniedz šā likuma 57.pantā minēto informāciju. Fonda prospektā nav jāatkārto tā informācija, kas iekļauta attiecīgā fonda pārvaldes nolikumā un ir līdzvērtīga šā likuma 57.pantā minētajai informācijai.
-(4) Fonda prospekts stājas spēkā ar brīdi, kad fonds ir reģistrēts Komisijā.
+(4) Fonda prospekts un fonda saīsinātais prospekts stājas spēkā ar brīdi, kad fonds ir reģistrēts Komisijā.
 (5) Ja sabiedrība vēlas izdarīt grozījumus informācijā, kura tiek sniegta atbilstoši šā likuma 57.panta trešās daļas 1., 2., 3., 4., 5., 7., 8., 9., 11., 12., 13., 14., 15. un 16.punktam, pirms attiecīgo grozījumu izdarīšanas sabiedrība Komisijai iesniedz:
 1) attiecīgās sabiedrības pārvaldes institūcijas lēmumu par fonda prospekta grozījumu apstiprināšanu;
 2) fonda prospekta grozījumus (divos eksemplāros);
@@ -12,3 +12,4 @@
 (8) Sabiedrība pēc fonda prospekta grozījumu reģistrācijas Komisijā fonda pārvaldes nolikumā noteiktajā kārtībā nekavējoties informē fonda ieguldītājus par fonda prospekta grozījumiem un to spēkā stāšanos.
 (9) Šā panta piektajā daļā minētie fonda prospekta grozījumi stājas spēkā mēnesi pēc to reģistrācijas Komisijā.
 (10) Šā panta septītajā daļā minētie fonda prospekta grozījumi stājas spēkā pēc to apstiprināšanas sabiedrības pārvaldes institūcijā.
+(11) Fonda saīsinātā prospekta grozījumiem piemēro šajā pantā minētos fonda prospekta grozīšanas nosacījumus.

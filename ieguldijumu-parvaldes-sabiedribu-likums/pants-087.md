@@ -8,6 +8,6 @@
 6) par fonda prospektā neparedzētu maksājumu veikšanu no fonda mantas;
 7) par sabiedrības vai fonda likvidācijas kārtības pārkāpšanu;
 8) par neziņošanu, ja konstatēti šā likuma, fonda prospekta vai fonda pārvaldes nolikuma noteikumu pārkāpumi;
-9) par to, ka nav nodrošināta šajā likumā noteiktā iespēja iepazīties ar fonda prospektu, fonda pārvaldes nolikumu un gada un pusgada pārskatiem;
+9) par to, ka nav nodrošināta šajā likumā noteiktā iespēja iepazīties ar fonda prospektu, fonda saīsināto prospektu, fonda pārvaldes nolikumu un gada un pusgada pārskatiem;
 10) par ieguldījumu ierobežojumu pārsniegšanu, izņemot gadījumus, kuros pārsniegšana pieļaujama saskaņā ar šo likumu.
 (2) Soda naudas samaksa neatbrīvo no citas likumā noteiktās atbildības.

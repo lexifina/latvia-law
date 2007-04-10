@@ -4,7 +4,7 @@ Likumā ir lietoti šādi termini:
 2) fonda manta - lietas, kuru kopība veido ieguldījumu fondu;
 3) ieguldījumu apliecība - pārvedams vērtspapīrs, kas apliecina fonda ieguldītāja līdzdalību ieguldījumu fondā un no šīs līdzdalības izrietošās tiesības;
 4) ieguldījumu fonds (turpmāk arī - fonds) - lietu kopība, ko veido pret ieguldījumu apliecībām izdarītie ieguldījumi, kā arī darījumos ar ieguldījumu fonda mantu un uz tajā esošo tiesību pamata iegūtās lietas;
-5) ieguldījuma objekts - pārvedami vērtspapīri, naudas tirgus instrumenti, nekustamais īpašums, noguldījums kredītiestādē un citi finanšu instrumenti, kurus saskaņā ar šā likuma noteikumiem ieguldījumu pārvaldes sabiedrība ir tiesīga iegādāties par fonda mantu;
+5) ieguldījuma objekts - pārvedami vērtspapīri, naudas tirgus instrumenti, nekustamais īpašums un tā lietošanas tiesības, noguldījums kredītiestādē un citi finanšu instrumenti, kurus saskaņā ar šā likuma noteikumiem ieguldījumu pārvaldes sabiedrība ir tiesīga iegādāties par fonda mantu;
 6) sabiedrības amatpersonas - ieguldījumu pārvaldes sabiedrības valdes locekļi, ieguldījumu fondu pārvaldnieki, kā arī citas personas, kuras ir pilnvarotas dot rīkojumus attiecībā uz fonda mantu vai rīkoties ar to šīs sabiedrības vārdā;
 7) sabiedrības ieinteresētās personas - ieguldījumu pārvaldes sabiedrības padomes locekļi, amatpersonas, akcionāri, kuriem pieder 10 un vairāk procentu sabiedrības balsstiesīgo akciju, kā arī visu šajā punktā minēto fizisko personu laulātie, vecāki vai bērni;
 8) riska samazināšanas princips - finansiālo zaudējumu riska samazināšana, sadalot ieguldījumu fonda mantu ieguldījuma objektos un ievērojot darījumu ierobežojumus, kā arī saglabājot iespēju iegūt vislielākos gaidāmos ienākumus;
@@ -25,4 +25,6 @@ b) starp personu un komercsabiedrību pastāv šā punkta "a" apakšpunktā min�
 21) ciešas attiecības - divu vai vairāku personu savstarpēja saistība:
 a) dalības veidā - tieša līdzdalība, kas aptver 20 un vairāk procentus no balsstiesībām vai pamatkapitāla, vai kontrole pār šāda apjoma balsstiesībām vai pamatkapitālu,
 b) kontroles veidā,
-c) ar vienu un to pašu personu kontroles veidā.
+c) ar vienu un to pašu personu kontroles veidā;
+22) apakšfonds - nošķirta ieguldījumu fonda mantas daļa, ko veido pret ieguldījumu apliecībām izdarītie ieguldījumi, kā arī darījumos ar šo mantu un uz tajā esošo tiesību pamata iegūtās lietas;
+23) ieguldījumi nekustamajā īpašumā vai tā lietošanas tiesībās - tieši vai netieši fonda līdzekļu ieguldījumi nekustamajā īpašumā, tā lietošanas tiesībās, darījumos, kas saistīti ar nekustamā īpašuma projektu attīstības finansēšanu, tai skaitā darījumos ar atliktu izpildes termiņu, ja šādi ieguldījumi ne pēc to būtības, ne juridiskās formas nav pretrunā ar šajā likumā un citos likumos noteiktajiem darījumu ierobežojumiem.
