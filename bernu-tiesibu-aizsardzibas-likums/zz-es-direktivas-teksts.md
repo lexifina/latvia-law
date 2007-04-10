@@ -1,0 +1,1 @@
+Likumā iekļautas normas, kas izriet no Padomes 2004.gada 29.aprīļa direktīvas 2004/83/EK par obligātajiem standartiem, lai kvalificētu trešo valstu valstspiederīgos vai bezvalstniekus kā bēgļus vai kā personas, kam citādi nepieciešama starptautiska aizsardzība, šādu personu statusu un piešķirtās aizsardzības saturu.

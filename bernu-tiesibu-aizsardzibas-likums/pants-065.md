@@ -13,7 +13,7 @@
 3) piedalās bāreņu un bez vecāku gādības palikušu bērnu alternatīvās aprūpes politikas projekta izstrādāšanā;
 4) organizē un koordinē normatīvo aktu ievērošanas uzraudzību bērna tiesību aizsardzības jomā un izstrādā priekšlikumus par grozījumiem normatīvajos aktos, lai nodrošinātu bērna tiesību aizsardzību;
 5) metodiski vada bērnu ārpusģimenes aprūpes iestāžu darbu bērna tiesību aizsardzības jomā;
-6) pārrauga un metodiski vada bāriņtiesu (pagasttiesu) darbu (izņemot funkcijas, kas noteiktas likuma "Par bāriņtiesām un pagasttiesām" VII un VIII nodaļā);
+6) pārrauga un metodiski vada bāriņtiesu darbu (izņemot funkcijas, kas noteiktas Bāriņtiesu likuma VII un VIII nodaļā);
 7) sniedz metodisku palīdzību bērna tiesību aizsardzības speciālistiem pašvaldībās;
 8) sagatavo iesniegšanai Apvienoto Nāciju Organizācijas Bērnu tiesību komitejā ziņojumu par bērnu stāvokli Latvijā un pasākumiem, kas veikti bērna tiesību nodrošināšanai;
 9) informē sabiedrību par bērna tiesību aizsardzības jomā pieņemto likumu un normatīvo aktu noteikumiem, kā arī par starptautisko tiesību principiem šajā jomā.
