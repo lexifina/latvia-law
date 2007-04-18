@@ -1,0 +1,1 @@
+9.pants. Ja Latvijā izsniegts publisks dokuments paredzēts izmantošanai ārvalstī, kura nav 1961.gada 5.oktobra Hāgas konvencijas par ārvalstu publisko dokumentu legalizācijas prasības atcelšanu dalībvalsts, to legalizē, apliecinot paraksta īstumu, dokumentu parakstījušās personas statusu un - ja nepieciešams - uz dokumenta esošā zīmoga vai spiedoga nospieduma īstumu.

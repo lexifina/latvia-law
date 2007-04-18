@@ -1,0 +1,1 @@
+11.pants. Ja publisks dokuments ir izsniegts ārvalstī, kura ir 1961.gada 5.oktobra Hāgas konvencijas par ārvalstu publisko dokumentu legalizācijas prasības atcelšanu dalībvalsts, dokumentam nepieciešams apliecinājums (apostille) atbilstoši šai konvencijai.

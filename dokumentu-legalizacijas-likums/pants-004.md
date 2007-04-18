@@ -1,0 +1,1 @@
+4.pants. Latvijā izsniegta publiska dokumenta legalizāciju, ja tas paredzēts izmantošanai ārvalstīs, un ārvalstī izsniegta publiska dokumenta legalizāciju, ja tas paredzēts izmantošanai Latvijā, veic tam pilnvarotas diplomātiskā un konsulārā dienesta amatpersonas.

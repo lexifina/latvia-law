@@ -1,0 +1,1 @@
+6.pants. Latvijā izsniegta publiska dokumenta legalizācijai persona aizpilda iesnieguma veidlapu un iesniedz legalizējamo dokumentu. Ministru kabinets apstiprina iesnieguma veidlapas paraugu un nosaka kārtību, kādā tiek veikta legalizācija vai pieņemts lēmums atteikt legalizāciju.

@@ -1,0 +1,1 @@
+12.pants. Ja publisks dokuments ir izsniegts ārvalstī, kura nav 1961.gada 5.oktobra Hāgas konvencijas par ārvalstu publisko dokumentu legalizācijas prasības atcelšanu dalībvalsts, to legalizē kārtībā, kuru nosaka Ministru kabinets.
