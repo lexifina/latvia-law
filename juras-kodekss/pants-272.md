@@ -1,2 +1,2 @@
 272.pants. Kuģa kapteinis un apkalpes locekļi
-Par Latvijas kuģa kapteini un apkalpes locekli ir tiesīga būt jebkura atbilstoši Starptautiskās jūrniecības organizācijas 1978.gada Starptautiskajai konvencijai par jūrnieku sagatavošanu un diplomēšanu, kā arī sardzes pildīšanu (ar turpmākajiem grozījumiem) sertificēta fiziskā persona.
+Par Latvijas kuģa kapteini un apkalpes locekli ir tiesīga būt jebkura fiziskā persona, kura ir sertificēta atbilstoši Latvijas normatīvo aktu un starptautisko tiesību aktu prasībām.

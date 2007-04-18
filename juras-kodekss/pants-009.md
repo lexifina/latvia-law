@@ -5,7 +5,7 @@
 2) otrajā - kuģus, pamatojoties uz noslēgtajiem berbouta līgumiem vai kuģa menedžmenta līgumiem;
 3) trešajā - kuģu apgrūtinājumus;
 4) ceturtajā - būvniecības stadijā esošus kuģus;
-5) piektajā - atpūtas kuģus un jahtas;
+5) piektajā - atpūtas kuģus (buru jahtas un motorjahtas);
 6) sestajā - zvejas kuģus.
 (3) Katram Kuģu reģistrā reģistrētam kuģim iekārto kuģa lietu, kurā glabājami visi dokumenti, kas attiecas uz šo kuģi.
 (4) Ikvienam ir tiesības iepazīties ar kuģu reģistra grāmatām. Pēc attiecīga rakstveida pieprasījuma iesniegšanas ikvienam ir tiesības saņemt izrakstu no Kuģu reģistra. Pēc saņēmēja pieprasījuma izraksta pareizība apliecināma ar Latvijas Jūras administrācijas amatpersonas (turpmāk - kuģu reģistrators) parakstu un zīmogu, norādot izsniegšanas datumu.

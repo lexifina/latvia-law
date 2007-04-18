@@ -1,1 +1,1 @@
-8. Ministru kabinets ne vēlāk kā līdz 2006.gada 1.septembrim izdod šā kodeksa 112.panta piektajā daļā paredzētos noteikumus.
+8. Ministru kabinets ne vēlāk kā līdz 2007.gada 1.septembrim izdod šā kodeksa 112.panta sestajā daļā paredzētos noteikumus. Līdz šo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2007.gada 1.septembrim piemērojami Ministru kabineta 1996.gada 26.novembra noteikumi Nr.439 "Kuģu aģentu darbības noteikumi", ciktāl tie nav pretrunā ar šo kodeksu.

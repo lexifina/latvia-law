@@ -10,4 +10,5 @@
 (4) Kuģu reģistrators anulē visas kuģa apliecības, izņemot īpašuma apliecību, ja:
 1) tiek slēptas kuģim raksturīgās valstiskās piederības pazīmes;
 2) konstatē, ka attiecībā uz kuģi netiek ievērotas Latvijai saistošu starptautisko tiesību normu un Latvijas normatīvo aktu prasības vai kuģis faktiski ir zaudējis patieso saikni ar Latvijas valsti.
+(4¹) Kuģu reģistrators anulē visas kuģa apliecības un izslēdz kuģi no Kuģu reģistra, ja tiek konstatēts, ka kuģis faktiski ir zaudējis patieso saikni ar Latvijas valsti, tas neeksistē vai nav sasniedzams un tam nav reģistrētu spēkā esošu apgrūtinājumu.
 (5) Ja kuģis netiek ekspluatēts ilgāk par sešiem mēnešiem, pēc kuģa īpašnieka iesnieguma Kuģu reģistrā reģistrē atzīmi par kuģa ekspluatācijas pārtraukšanu uz laiku, kuģi neizslēdzot no Kuģu reģistra. Šādā gadījumā kuģa īpašnieks nodod Latvijas Jūras administrācijai tās izsniegtos dokumentus.
