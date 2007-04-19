@@ -1,0 +1,1 @@
+1.pants. Latvijas valdības un Maķedonijas valdības līgums par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
