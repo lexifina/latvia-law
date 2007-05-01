@@ -1,0 +1,2 @@
+Trīsdesmitā nodaļa
+Nosacīti notiesātā uzraudzības noteikumi
