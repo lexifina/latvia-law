@@ -1,0 +1,1 @@
+22. Ne vēlāk kā līdz 2007.gada 30.jūnijam akcionārs, uz kuru attiecas šā likuma D sadaļas IV nodaļas prasības, informē emitentu par to balsstiesību un kapitāla īpatsvaru, kas tam pieder informācijas sniegšanas dienā, ja vien šis akcionārs nav iesniedzis līdzvērtīgu informāciju pirms šā likuma stāšanās spēkā.

@@ -1,5 +1,4 @@
-58.pants. Būtiski notikumi
-(1) Emitents, kura finanšu instrumenti iekļauti regulētajā tirgū, nekavējoties, bet ne vēlāk, kā tiek paziņots plašsaziņas līdzekļiem, tirgus organizētāja noteiktajā kārtībā ziņo tam par būtiskiem notikumiem.
-(2) Būtisks notikums šā panta izpratnē ir jebkurš ar emitentu saistīts notikums, kas emitentam ir zināms vai būtu bijis jāzina un kas var ietekmēt regulētajā tirgū iekļauto emitenta finanšu instrumentu cenu vai ieguldītāja lēmumu pirkt vai pārdot šos finanšu instrumentus.
-(3) Tirgus organizētājs informāciju par būtiskiem notikumiem pēc tās saņemšanas nekavējoties ievieto savā mājas lapā internetā.
-(4) Emitents nedrīkst sniegt nepatiesas vai maldinošas ziņas par viņam būtiskiem notikumiem.
+58.pants. Atbrīvojumi
+Šā likuma 56. un 57.panta prasības neattiecas uz:
+1) dalībvalsts, pašvaldības, tās iestādes vai aģentūras tādu organizāciju, kuras ir starptautisko publisko tiesību subjekti un kurās viena vai vairākas dalībvalstis ir biedri, kā arī Eiropas Centrālās bankas vai dalībvalstu centrālo banku emitētiem pārvedamiem vērtspapīriem;
+2) emitentiem, kas ir emitējuši vienīgi parāda vērtspapīrus, kuri ir iekļauti regulētajā tirgū un kuru viena parāda vērtspapīra nominālvērtība nav mazāka par 50 000 eiro ekvivalentu latos pēc Latvijas Bankas noteiktā kursa vai, ja parāda vērtspapīri ir emitēti citā valūtā, nevis eiro, viena parāda vērtspapīra nominālvērtība emisijas dienā nav mazāka par 50 000 eiro ekvivalentu.

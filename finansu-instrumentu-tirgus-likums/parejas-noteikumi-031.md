@@ -1,0 +1,1 @@
+31. Līdz 2007.gada 31.decembrim ieguldījumu brokeru sabiedrība šā likuma 121.pantā noteikto kredītriska un darījumu partnera riska kapitāla prasības aprēķinu saskaņā ar standartizēto pieeju var sagatavot, piemērojot Komisijas noteikto kapitāla pietiekamības aprēķināšanas kārtību.

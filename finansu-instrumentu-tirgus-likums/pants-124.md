@@ -8,7 +8,12 @@
 6) saskaņā ar normatīvajiem aktiem, Komisijas noteikumiem un iekšējās kārtības noteikumiem veic datu apstrādes, glabāšanas un pārraides drošības pasākumus;
 7) nodrošina klienta un pašas ieguldījumu brokeru sabiedrības finanšu instrumentu pastāvīgu šķirtu turēšanu;
 8) nodrošina klienta un pašas ieguldījumu brokeru sabiedrības naudas līdzekļu pastāvīgu šķirtu turēšanu;
-9) nodrošina ar finanšu instrumentiem veikto darījumu attaisnojuma dokumentu uzglabāšanu 10 gadus, kā arī citu Komisijas noteikumos izvirzīto prasību izpildi attiecībā uz attaisnojuma dokumentu aizpildīšanu un glabāšanu.
+9) nodrošina ar finanšu instrumentiem veikto darījumu attaisnojuma dokumentu uzglabāšanu 10 gadus, kā arī citu Komisijas noteikumos izvirzīto prasību izpildi attiecībā uz attaisnojuma dokumentu aizpildīšanu un glabāšanu;
+10) nodrošina citu ar šā likuma XII nodaļas prasību ievērošanu saistīto dokumentu uzglabāšanu 10 gadus. Nepieciešamo dokumentu sarakstu nosaka Komisija;
+11) nodrošina savas darbības raksturam, apjomam un sarežģītības pakāpei piemērotas visaptverošas un efektīvas iekšējās kontroles sistēmas izveidi un darbību, kas aptver šādus pamatelementus:
+a) ieguldījumu brokeru sabiedrības lielumam un darbības riskiem atbilstošu organizatorisko struktūru ar skaidri noteiktu, nepārprotamu un sistemātisku ieguldījumu brokeru sabiedrības struktūrvienību un atbildīgo darbinieku pienākumu, pilnvaru un atbildības sadalījumu darījumu veikšanā un kontrolē,
+b) ieguldījumu brokeru sabiedrības darbībai piemītošo un varbūtējo risku identificēšanas, pārvaldīšanas, uzraudzības un paziņošanas sistēmu,
+c) iekšējās kontroles procedūras.
 (2) Kredītiestāde, kura sniedz ieguldījumu pakalpojumus vai ieguldījumu blakuspakalpojumus, izpilda un ievēro šādas prasības:
 1) izveido attiecīgas struktūrvienības ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšanai un nodrošina šo struktūrvienību pārvaldi, iekšējo uzraudzību un revīziju, tai skaitā nosaka kārtību, kādā šīs struktūrvienības darbinieki var saņemt ieguldījumu pakalpojumus šajā struktūrvienībā, kā arī citā kredītiestādē vai ieguldījumu brokeru sabiedrībā;
 2) nodrošina, lai šīs struktūrvienības vadītājs ir persona, kura ir kompetenta ieguldījumu jautājumos un kurai ir nevainojama reputācija;

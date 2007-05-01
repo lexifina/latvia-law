@@ -1,0 +1,2 @@
+119.¹ pants. Vispārīgie jautājumi
+Šajā nodaļā noteiktās prasības, izņemot 120.panta prasības, nav attiecināmas uz tādām ieguldījumu brokeru sabiedrībām, kurām saņemtā licence atļauj tikai pieņemt un nodot izpildei ieguldītāju rīkojumus par darījumiem ar finanšu instrumentiem vai sniegt konsultācijas par ieguldījumiem finanšu instrumentos, kuras neveic klientu finanšu instrumentu un naudas līdzekļu turēšanu un kurām nevar izveidoties saistības pret klientiem.

@@ -15,24 +15,31 @@ d) jebkura cita juridiskā persona, kura ieguldījumu brokeru sabiedrībai vai k
 9) regulētā tirgus organizētājs - kapitālsabiedrība, kas organizē regulēto tirgu;
 10) oficiālais saraksts - tāds regulētais tirgus, kuram tirgus organizētājs noteicis visaugstākās prasības salīdzinājumā ar citiem tā organizētajiem regulētajiem tirgiem un kura darbība notiek saskaņā ar šajā likumā tam noteiktajām minimālajām prasībām;
 11) publiskā apgrozība - darījumu slēgšana ar regulētajā tirgū iekļautiem finanšu instrumentiem;
-12) emitents - persona, kas savā vārdā emitē vai paredz emitēt pārvedamus vērtspapīrus vai citus finanšu instrumentus;
+12) emitents - persona, kuras pārvedami vērtspapīri ir iekļauti regulētajā tirgū, kā arī persona, kura savā vārdā emitē vai paredz emitēt pārvedamus vērtspapīrus vai citus finanšu instrumentus. Attiecībā uz depozitārajiem sertifikātiem par emitentu uzskata to vērtspapīru emitentu, uz kuriem tiesības ir nostiprinātas depozitārajā sertifikātā;
 13) sākotnējā izvietošana - emitenta vai tā pilnvarotas personas izteikts publiskais piedāvājums iegūt pārvedamus vērtspapīrus vai citus finanšu instrumentus un to pirmreizējā iegūšana;
 14) emisijas prospekts - dokuments, kurā ietverta detalizēta informācija par emitentu un tā emitētiem pārvedamiem vērtspapīriem, par kuriem emitents vēlas izteikt publisko piedāvājumu;
 15) prospekts - dokuments, kurā ietverta detalizēta informācija par emitentu un tā emitētiem pārvedamiem vērtspapīriem, kurus emitents vēlas iekļaut regulētajā tirgū;
 16) mērķa sabiedrība - akciju sabiedrība, kuras akcijas atrodas publiskajā apgrozībā un par kuras akcijām ir izteikts atpirkšanas piedāvājums;
 17) piedāvātājs - persona vai personu grupa, kura izsaka obligāto, brīvprātīgo vai galīgo akciju atpirkšanas piedāvājumu vai kurai ir pienākums izteikt obligāto akciju atpirkšanas piedāvājumu;
-18) Latvijas Centrālais depozitārijs - kapitālsabiedrība, kas iegrāmato un uzskaita Latvijas Republikā publiskajā apgrozībā izlaistos finanšu instrumentus, kā arī nodrošina finanšu instrumentu un naudas norēķinus finanšu instrumentu darījumos regulētajā tirgū un finanšu instrumentu norēķinus starp finanšu instrumentu turētājiem;
+18) Latvijas Centrālais depozitārijs - kapitālsabiedrība, kas iegrāmato un uzskaita šajā likumā noteiktajā kārtībā izlaistos finanšu instrumentus, kā arī nodrošina finanšu instrumentu un naudas norēķinus par darījumiem, kas noslēgti ar finanšu instrumentiem;
 19) finanšu instrumentu tirgus dalībnieki - kredītiestādes, kuras sniedz ieguldījumu pakalpojumus vai ieguldījumu blakuspakalpojumus, ieguldījumu brokeru sabiedrības, emitenti, ieguldītāji, sabiedrības, kuras saskaņā ar likumu ir tiesīgas pārvaldīt kopējo ieguldījumu uzņēmumus, tirgus organizētāji, Latvijas Centrālais depozitārijs un citas personas, kuras veic šajā likumā regulētās darbības;
 20) būtiska līdzdalība - tieši vai netieši iegūta līdzdalība, kas aptver 10 un vairāk procentus no komercsabiedrības pamatkapitāla vai balsstiesīgo akciju (daļu) skaita vai arī dod iespēju būtiski ietekmēt komercsabiedrības finanšu un darbības politikas noteikšanu;
 21) kontrole - personai ir kontrole pār komercsabiedrību, ja:
 a) šai personai komercsabiedrībā ir izšķirošā ietekme uz līdzdalības pamata,
 b) šai personai komercsabiedrībā ir izšķirošā ietekme uz koncerna līguma pamata,
 c) starp šo personu un komercsabiedrību pastāv jebkādas citas šā punkta "a" vai "b" apakšpunktā minētajām attiecībām analogas attiecības;
+21¹) nozīmīga līdzdalība - tieši vai netieši iegūta līdzdalība, kas aptver piecus un vairāk procentus no emitenta balsstiesīgā kapitāla;
 22) mātes sabiedrība - komercsabiedrība, kura kontrolē citu komercsabiedrību;
 23) meitas sabiedrība - komercsabiedrība, kuru kontrolē cita komercsabiedrība;
 24) finanšu iestāde - kapitālsabiedrība, kas nodibināta, lai sniegtu vienu vai vairākus finanšu pakalpojumus, izņemot noguldījumu un citu atmaksājamo līdzekļu piesaistīšanu, kā arī lai veiktu apdrošināšanas operācijas vai iegūtu līdzdalību citu kapitālsabiedrību pamatkapitālā;
 25) finanšu pārvaldītājsabiedrība - finanšu iestāde, kura nav jaukta finanšu pārvaldītājsabiedrība un kuras meitas sabiedrības ir vienīgi vai galvenokārt (ieguldījumu brokeru sabiedrības un citu finanšu iestāžu aktīvu vai ienākumu kopsumma pēdējā apstiprinātajā gada pārskatā veido vairāk par pusi no visu finanšu pārvaldītājsabiedrības kontrolēto meitas sabiedrību aktīvu vai ienākumu kopsummas) ieguldījumu brokeru sabiedrības vai citas finanšu iestādes, turklāt vismaz viena no tām ir ieguldījumu brokeru sabiedrība;
 26) jaukta pārvaldītājsabiedrība - mātes sabiedrība, kura nav finanšu pārvaldītājsabiedrība, ieguldījumu brokeru sabiedrība, kredītiestāde vai jaukta finanšu pārvaldītājsabiedrība un starp kuras meitas sabiedrībām ir vismaz viena ieguldījumu brokeru sabiedrība;
+26¹) dalībvalsts mātes ieguldījumu brokeru sabiedrība - dalībvalstī reģistrēta ieguldījumu brokeru sabiedrība, kurai ir meitas sabiedrība - ieguldījumu brokeru sabiedrība, cita finanšu iestāde vai kredītiestāde - vai kurai ir dalība ieguldījumu brokeru sabiedrībā, citā finanšu iestādē vai kredītiestādē, bet kura pati nav citas šajā dalībvalstī licencētas ieguldījumu brokeru sabiedrības vai kredītiestādes meitas sabiedrība vai šajā dalībvalstī reģistrētas finanšu pārvaldītājsabiedrības meitas sabiedrība;
+26²) dalībvalsts mātes finanšu pārvaldītājsabiedrība - dalībvalstī reģistrēta finanšu pārvaldītājsabiedrība, kura nav šajā dalībvalstī licencētas ieguldījumu brokeru sabiedrības vai kredītiestādes meitas sabiedrība vai citas šajā dalībvalstī reģistrētas finanšu pārvaldītājsabiedrības meitas sabiedrība;
+26³) Eiropas Savienības mātes ieguldījumu brokeru sabiedrība - dalībvalsts mātes ieguldījumu brokeru sabiedrība, kas nav jebkurā citā dalībvalstī licencētas ieguldījumu brokeru sabiedrības vai kredītiestādes meitas sabiedrība vai jebkurā dalībvalstī reģistrētas finanšu pārvaldītājsabiedrības meitas sabiedrība;
+26⁴) Eiropas Savienības mātes finanšu pārvaldītājsabiedrība - dalībvalsts mātes finanšu pārvaldītājsabiedrība, kas nav jebkurā dalībvalstī licencētas ieguldījumu brokeru sabiedrības vai kredītiestādes meitas sabiedrība vai citas jebkurā dalībvalstī reģistrētas finanšu pārvaldītājsabiedrības meitas sabiedrība;
+26⁵) Latvijas Republikas mātes ieguldījumu brokeru sabiedrība - Latvijas Republikā reģistrēta ieguldījumu brokeru sabiedrība, kurai ir meitas sabiedrība - ieguldījumu brokeru sabiedrība, cita finanšu iestāde vai kredītiestāde - vai kurai ir dalība ieguldījumu brokeru sabiedrībā, citā finanšu iestādē vai kredītiestādē, bet kura pati nav citas Latvijas Republikā reģistrētas licencētas ieguldījumu brokeru sabiedrības vai kredītiestādes meitas sabiedrība vai Latvijas Republikā reģistrētas finanšu pārvaldītājsabiedrības meitas sabiedrība;
+26⁶) Latvijas Republikas mātes finanšu pārvaldītājsabiedrība - Latvijas Republikā reģistrēta finanšu pārvaldītājsabiedrība, kura nav Latvijas Republikā reģistrētas ieguldījumu brokeru sabiedrības vai kredītiestādes meitas sabiedrība vai citas Latvijas Republikā reģistrētas finanšu pārvaldītājsabiedrības meitas sabiedrība;
 27) ciešas attiecības - divu vai vairāku personu savstarpēja saistība:
 a) dalības veidā - personai tiešā vai kontroles veidā ir 20 vai vairāk procentu balsstiesību komercsabiedrībā vai persona tiešā vai kontroles veidā ieguvusi līdzdalību, kas aptver 20 vai vairāk procentus no komercsabiedrības pamatkapitāla,
 b) kontroles veidā,
@@ -45,19 +52,19 @@ d) iepriekšējo gadu nesadalītā peļņa vai zaudējumi,
 e) kārtējā darbības gada peļņa, ja ir zvērināta revidenta vai zvērinātu revidentu komercsabiedrības (turpmāk - zvērināts revidents) ziņojums par peļņas esamību un tā aprēķināta, ņemot vērā visus nepieciešamos uzkrājumus aktīvu vērtības samazinājumam, paredzamajiem nodokļu maksājumiem un dividendēm, un ja Finanšu un kapitāla tirgus komisija ir piekritusi kārtējās darbības gada peļņas iekļaušanai sākotnējā kapitālā;
 29) sākotnējais reģistrs - saraksts, kurā iekļautas personas, kurām pieder viena vai vairāku emitentu emitētie finanšu instrumenti un kuras finanšu instrumentus ieguvušas sākotnējās izvietošanas rezultātā vai pēc finanšu instrumentu laišanas publiskajā apgrozībā sev piederošo finanšu instrumentu uzskaiti nav pārvietojušas no sākotnējā reģistra uz sev piederošo finanšu instrumentu kontu;
 30) kapitāla vērtspapīri - akcijas un tām pielīdzināmi pārvedami vērtspapīri, kas nodrošina līdzdalību kapitālsabiedrības kapitālā, kā arī jebkura cita veida vērtspapīri, kas to konvertēšanas vai ar tiem piešķirto tiesību izmantošanas rezultātā dod tiesības iegūt jebkurus iepriekš minētos vērtspapīrus ar nosacījumu, ka šos vērtspapīrus emitējis to akciju emitents, uz ko tie attiecas, vai kapitālsabiedrība, kas ietilpst minētā emitenta uzņēmumu grupā;
-31) akciju sertifikāti - kapitāla vērtspapīri, kas emitēti, lai aizstātu citā valstī reģistrēta emitenta akcijas, un dod tā ieguvējam tiesības izmantot aizstātajās akcijās nostiprinātās tiesības;
+31) depozitārie sertifikāti - pārvedami vērtspapīri, kas emitēti, lai aizstātu citā valstī reģistrēta emitenta finanšu instrumentus, un dod tā ieguvējam tiesības izmantot aizstātajos finanšu instrumentos nostiprinātās tiesības;
 32) pārvedami vērtspapīri - vērtspapīri, kuru atsavināšanas tiesības nav ierobežotas, izņemot maksāšanas līdzekļus. Šādi vērtspapīri ir:
 a) kapitāla vērtspapīri,
 b) obligācijas un citi parāda vērtspapīri,
-c) akciju sertifikāti,
+c) depozitārie sertifikāti,
 d) citi vērtspapīri, kuros nostiprinātas tiesības iegādāties šā punkta "a" un "b" apakšpunktā minētos pārvedamos vērtspapīrus parakstīšanās vai apmaiņas ceļā vai paredzēti norēķini naudā;
 33) mazie un vidējie komersanti - komersanti, kas saskaņā ar to individuālajiem gada pārskatiem vai konsolidētajiem gada pārskatiem atbilst vismaz diviem no šādiem trim kritērijiem:
 a) vidējais darbinieku skaits finansiālajā gadā ir mazāks par 250,
-b) aktīvu kopsumma nepārsniedz 43000000 eiro,
-c) gada tīrais apgrozījums nepārsniedz 50 000 000 eiro;
+b) aktīvu kopsumma nepārsniedz 43000000 eiro ekvivalentu latos pēc Latvijas Bankas noteiktā kursa,
+c) gada tīrais apgrozījums nepārsniedz 50 000 000 eiro ekvivalentu latos pēc Latvijas Bankas noteiktā kursa;
 34) publiskā piedāvājuma izteicējs - persona, kas publiski piedāvā pārvedamus vērtspapīrus;
 35) piedāvājuma programma - pasākumu kopums līdzīgas vai vienādas kategorijas pārvedamu vērtspapīru (izņemot kapitāla vērtspapīrus) nepārtrauktai vai atkārtotai emisijai noteiktā laika posmā;
-36) nepārtraukti vai atkārtoti emitēti pārvedami vērtspapīri - līdzīgas vai vienādas kategorijas pārvedami vērtspapīri, kas emitēti nepārtrauktas emisijas vai 12 mēnešu laikā notikušu vismaz divu atsevišķu emisiju rezultātā;
+36) nepārtraukti vai atkārtoti emitēti pārvedami vērtspapīri - līdzīgas vai vienādas kategorijas pārvedami vērtspapīri, kas emitēti nepārtrauktā emisijā vai vismaz divās atsevišķās emisijās, kuras notikušas 12 mēnešu laikā no publiskā piedāvājuma sākuma datuma;
 37) uzņēmēja dalībvalsts - valsts, kurā tiek izteikts publiskais piedāvājums vai tiek lūgta pārvedamu vērtspapīru iekļaušana regulētā tirgū, ja tā atšķiras no izcelsmes dalībvalsts;
 38) kvalificētie ieguldītāji:
 a) Latvijas Republikā vai citā valstī reģistrēta banka, sabiedrība, kas saskaņā ar likumu ir tiesīga pārvaldīt kopējo ieguldījumu uzņēmumus, ieguldījumu brokeru sabiedrība, pensiju fonds, apdrošinātājs, pārapdrošinātājs, preču dīleri, kā arī juridiskās personas, kuras ir licencētas veikt darbības finanšu tirgos, vai arī personas, kuras nav šādā veidā licencētas vai regulētas, bet kuru komercdarbības mērķis ir vienīgi ieguldīšana vērtspapīros,
@@ -70,4 +77,16 @@ e) mazie un vidējie komersanti, kas par kvalificētiem ieguldītājiem ir atzī
 41) kompetentā institūcija - institūcija, kurai dalībvalsts deleģējusi funkciju uzraudzīt emisijas prospektu un prospektu sagatavošanas, reģistrēšanas un izplatīšanas kārtību un kura veic pienākumus, kas saistīti ar starptautisko sadarbību ar citu dalībvalstu kompetentajām institūcijām;
 42) saistītais uzņēmums - līdzdalība uzņēmumā, kurā grupas uzņēmumiem tieši vai netieši (ar meitas uzņēmumu starpniecību) pieder 20 vai vairāk procentu no balsstiesīgo akciju (daļu) skaita, vai līdzdalība, kas dod tiesības būtiski ietekmēt, bet ne kontrolēt ar uzņēmuma finansiālās darbības un pamatdarbības politiku saistīto lēmumu pieņemšanu;
 43) atpirkšanas piedāvājums - publiski izteikts piedāvājums (kas nav pašas mērķa sabiedrības izteikts piedāvājums) mērķa sabiedrības akcionāriem iegādāties no tiem visas akcijas vai daļu akciju, lai iegūtu kontroli mērķa sabiedrībā;
-44) personas, kuras rīkojas saskaņoti - piedāvātājs un personas, kas sadarbojas ar piedāvātāju vai mērķa sabiedrību saskaņā ar vienošanos, lai iegūtu mērķa sabiedrībā kontroli vai izjauktu veiksmīgu piedāvājumu.
+44) personas, kuras rīkojas saskaņoti - piedāvātājs un personas, kas sadarbojas ar piedāvātāju vai mērķa sabiedrību saskaņā ar vienošanos, lai iegūtu mērķa sabiedrībā kontroli vai izjauktu veiksmīgu piedāvājumu;
+45) parāda vērtspapīri - obligācijas vai cita veida pārvedami vērtspapirizēti parādi, izņemot vērtspapīrus, kuri ir pielīdzināmi kapitāla vērtspapīriem;
+46) kontrolēta komercsabiedrība - tāda komercsabiedrība, kura atbilst vismaz vienam no šādiem nosacījumiem:
+a) komercsabiedrībā personai ir balsstiesību vairākums,
+b) personai tieši vai netieši ir tiesības ievēlēt vai atsaukt vairākumu valdes vai padomes locekļu, un šī persona vienlaikus ir arī komercsabiedrības akcionārs (dalībnieks),
+c) komercsabiedrības akcionārs (dalībnieks) ir persona, kas viena pati kontrolē akcionāru vai dalībnieku balsstiesību vairākumu saskaņā ar vienošanos, ko šāda persona ir noslēgusi ar citiem attiecīgās komercsabiedrības akcionāriem vai dalībniekiem,
+d) personai ir kontrole pār komercsabiedrību, un šī persona to faktiski izmanto vai var izmantot;
+47) obligātā informācija - visu veidu informācija, kuru emitents vai persona, kas lūgusi pārvedamu vērtspapīru iekļaušanu regulētajā tirgū, dara zināmu atklātībai saskaņā ar šā likuma 54.panta un D sadaļas III, IV un VI nodaļas prasībām;
+48) elektroniskie līdzekļi - elektroniskais aprīkojums datu apstrādei, uzglabāšanai un pārraidīšanai, izmantojot kabeļus, radioviļņus, optiskās tehnoloģijas vai citus elektromagnētiskos līdzekļus;
+49) tirgus uzturētājs - persona, kas pastāvīgi nodrošina viena vai vairāku finanšu instrumentu aktīvu tirdzniecību (likviditāti) tirdzniecības dienas laikā, pērkot un pārdodot finanšu instrumentus pašas noteiktās cenas robežās un par saviem līdzekļiem;
+50) tirdzniecības diena - diena vai laikposms attiecīgajā dienā, kad saskaņā ar tirgus organizētāja noteikumiem attiecīgajā regulētajā tirgū ir iespējams veikt darījumus ar finanšu instrumentiem;
+51) pašu kapitāls - ieguldījumu brokeru sabiedrības revidētajos finanšu pārskatos atspoguļotie kapitāla, rezervju un saistību elementi, kas ir brīvi pieejami ieguldījumu brokeru sabiedrībai ar parastiem darbības riskiem saistīto, bet vēl neidentificēto iespējamo zaudējumu segšanai;
+52) vērtspapirizētais parāds - aktīvu kopums (aktīvu portfelī iekļautie aktīvi), kas nodots vai pārdots īpašam nolūkam izveidotai komercsabiedrībai, kas to ir pārveidojusi vērtspapīros.

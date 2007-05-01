@@ -1,3 +1,5 @@
 60.pants. Šīs nodaļas darbības joma
-(1) Šīs nodaļas noteikumi par paziņošanas pienākumu un neziņošanas sekām attiecas uz personām, kuras iegūst tādu Latvijas Republikā reģistrētu akciju sabiedrību akcijas, kuru akcijas iekļautas regulētajā tirgū.
-(2) Ja par tādas akciju sabiedrības akcijām, kuras akcijas iekļautas regulētajā tirgū, tikuši emitēti akciju sertifikāti, paziņošanas pienākums attiecas uz sertifikātu ieguvēju, nevis uz to emitentu.
+(1) Šīs nodaļas noteikumi par paziņošanas pienākumu un neziņošanas sekām attiecas uz personām, kuras iegūst vai atsavina Latvijas Republikas regulētajā tirgū iekļautās akcijas.
+(2) Ja par tādas akciju sabiedrības akcijām, kuras akcijas iekļautas regulētajā tirgū, tikuši emitēti depozitārie sertifikāti, paziņošanas pienākums attiecas uz sertifikātu ieguvēju, nevis uz to emitentu.
+(3) Šā likuma 61.panta pirmās, otrās, trešās, piektās un sestās daļas prasības attiecas arī uz personām, kas ir tiesīgas iegūt, atsavināt vai izmantot balsstiesības vienā vai vairākos šā likuma 8.pantā minētajos gadījumos.
+(4) Šā likuma 61.pantā noteiktais paziņošanas pienākums attiecas uz personu, kura tieši vai netieši ir ieguvusi līdzdalību, pamatojoties uz balsstiesībām, kas izriet no finanšu instrumentiem, kas minēti šā likuma 3.panta otrajā daļā un kas dod personai tiesības saskaņā ar pušu rakstveida vienošanos pēc tādas personas iniciatīvas, kurai pieder finanšu instrumenti, iegūt emitenta, kura akcijas ir iekļautas regulētā tirgū, jau emitētās balsstiesīgās akcijas.

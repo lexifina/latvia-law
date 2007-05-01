@@ -1,0 +1,4 @@
+123.² pants. Ar regulējošajām prasībām saistītās informācijas atklāšana
+(1) Ieguldījumu brokeru sabiedrība publisko informāciju par tās darbībai piemītošo risku pārvaldīšanas mērķiem, metodēm un politikām, kā arī par pašu kapitāla prasībām un kapitāla pietiekamību. Komisija nosaka prasības šīs informācijas atklāšanai.
+(2) Ieguldījumu brokeru sabiedrība pēc tās komercsabiedrības pieprasījuma, kura vēlas saņemt kredītu, skaidro tai piešķirtā iekšējā reitinga pamatojumu, nepieciešamības gadījumā nodrošinot arī rakstveida skaidrojumu. Skaidrojumu sagatavo, ja tā sagatavošanas izmaksas ir samērojamas ar kredīta lielumu.
+(3) Komisija var noteikt prasības reitinga piešķiršanas skaidrojumā ietveramai informācijai, ja finanšu sektorā izveidojusies prakse nenodrošina pietiekamu šā panta otrajā daļā minētā iekšējā reitinga pamatojuma skaidrojumu.

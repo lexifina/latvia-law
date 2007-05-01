@@ -6,7 +6,7 @@
 1) akcijām;
 2) obligācijām un citiem parāda vērtspapīriem;
 3) tiesībām iegādāties akcijas, obligācijas un citus parāda vērtspapīrus;
-4) akciju sertifikātiem;
+4) depozitārajiem sertifikātiem;
 5) atvasinātiem finanšu instrumentiem, kuru pamatā ir akcijas.
 (3) (Izslēgta ar 09.06.2005. likumu.)
 (4) Paziņojumā ietver vismaz šādu informāciju:

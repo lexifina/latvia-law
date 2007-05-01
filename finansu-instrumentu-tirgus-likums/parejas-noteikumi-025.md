@@ -1,0 +1,1 @@
+25. Ieguldījumu brokeru sabiedrības, kas riska svērto vērtību aprēķinam piemēro uz iekšējiem reitingiem balstīto pieeju, līdz 2009.gada 31.decembrim nodrošina pašu kapitālu, kas vienmēr ir lielāks par šo pārejas noteikumu 27., 28. un 29.punktā norādītajām summām vai vienāds ar tām.

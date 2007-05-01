@@ -9,4 +9,7 @@
 4) apturēt finanšu instrumentu tirdzniecību;
 5) pieprasīt, lai nekavējoties tiek pārtraukta būtisku līdzdalību ieguvušo personu ietekme regulētā tirgus organizētājā, Latvijas Centrālajā depozitārijā vai ieguldījumu brokeru sabiedrībā;
 6) pieprasīt regulētā tirgus organizētāja, Latvijas Centrālā depozitārija vai ieguldījumu brokeru sabiedrības valdes vai padomes, vai kāda valdes vai padomes locekļa atsaukšanu;
-7) aizliegt izmantot balsstiesības.
+7) aizliegt izmantot balsstiesības;
+8) noteikt ieguldījumu brokeru sabiedrībai pienākumu uzturēt tādu pašu kapitāla līmeni, kas pārsniedz šā likuma 121.panta pirmajā daļā paredzēto minimālo līmeni;
+9) uzlikt par pienākumu ieguldījumu brokeru sabiedrībai pārskatīt procedūras, lai pastiprinātu pasākumus, kurus tā ieviesusi šā likuma 123.¹ panta un 124.panta pirmās daļas 11.punkta prasību īstenošanai;
+10) pieprasīt ieguldījumu brokeru sabiedrībai, lai tā piemēro speciālu uzkrājumu politiku vai aktīvu atzīšanas politiku saistībā ar pašu kapitālu.

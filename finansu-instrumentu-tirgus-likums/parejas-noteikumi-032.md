@@ -1,0 +1,1 @@
+32. Ja ieguldījumu brokeru sabiedrība izmanto šo pārejas noteikumu 31.punktā minēto iespēju, tā līdz 2007.gada 31.decembrim šā likuma 121.pantā noteikto parāda vērtspapīru un kapitāla vērtspapīru pozīcijas riska kapitāla prasību aprēķinu var sagatavot saskaņā ar Komisijas noteikto kapitāla pietiekamības aprēķināšanas kārtību.

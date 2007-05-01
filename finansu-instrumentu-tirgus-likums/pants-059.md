@@ -1,3 +1,4 @@
-59.pants. Līdzvērtīgas informācijas sniegšana
-(1) Emitents, kura finanšu instrumenti ir iekļauti vairākos Latvijas Republikas vai dalībvalstu regulētajos tirgos, ir atbildīgs par līdzvērtīgas informācijas sniegšanu katram no šo regulēto tirgu organizētājiem.
-(2) Emitents, kura finanšu instrumenti ir iekļauti kādā no Latvijas Republikas vai dalībvalstu regulētajiem tirgiem un vienā vai vairākos ārvalstu regulētajos tirgos, ir atbildīgs par to, lai Latvijas Republikas un dalībvalstu tirgus organizētājiem tiktu sniegta informācija, kas ir līdzvērtīga ārvalsts tirgus organizētājam sniegtajai informācijai, ja šī informācija var ietekmēt regulētajā tirgū iekļauto emitenta finanšu instrumentu cenu vai ieguldītāja lēmumu pirkt vai pārdot šos finanšu instrumentus.
+59.pants. Būtiski notikumi
+(1) Emitents, kura finanšu instrumenti iekļauti regulētajā tirgū, nekavējoties, bet ne vēlāk, kā tiek paziņots plašsaziņas līdzekļiem, ziņo par būtiskiem notikumiem, informāciju sniedzot oficiālajai glabāšanas sistēmai šā likuma 64.² pantā noteiktajā kārtībā.
+(2) Būtisks notikums šā panta izpratnē ir jebkurš ar emitentu saistīts notikums, kas emitentam ir zināms vai būtu bijis jāzina un kas var ietekmēt regulētajā tirgū iekļauto emitenta finanšu instrumentu cenu vai ieguldītāja lēmumu pirkt vai pārdot šos finanšu instrumentus.
+(3) Emitents nedrīkst sniegt nepatiesas vai maldinošas ziņas par tam būtiskiem notikumiem.

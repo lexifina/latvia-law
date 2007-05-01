@@ -1,0 +1,1 @@
+35. Ja riska svērto vērtību visiem riska darījumiem aprēķina saskaņā ar šo pārejas noteikumu 31.punktu, ieguldījumu brokeru sabiedrība lielo riska darījumu un ar ieguldījumu brokeru sabiedrību saistīto personu riska darījumu ierobežojumu izpildi nodrošina saskaņā ar kārtību, kādu Komisija bija noteikusi pirms šo grozījumu stāšanās spēkā.

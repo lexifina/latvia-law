@@ -1,0 +1,7 @@
+64.² pants. Obligātās informācijas sniegšana un pieeja obligātajai informācijai
+(1) Emitents vai persona, kas lūgusi pārvedamu vērtspapīru iekļaušanu regulētajā tirgū, obligāto informāciju nosūta oficiālajai glabāšanas sistēmai un vienlaikus dara to publiski pieejamu tādiem plašsaziņas līdzekļiem, kas nodrošina informācijas izplatīšanu pēc iespējas plašākai sabiedrībai vienlaikus izcelsmes dalībvalstī un citās dalībvalstīs.
+(2) Oficiālās glabāšanas sistēmas izveidošanas un uzturēšanas kārtību, tajā skaitā oficiālās glabāšanas sistēmas drošības prasības un prasības obligātās informācijas izplatīšanai, kā arī kārtību, kādā informācija nosūtāma oficiālajai glabāšanas sistēmai, nosaka Komisija.
+(3) Minimālās prasības emitentiem obligātās informācijas izplatīšanai plašsaziņas līdzekļos nosaka Komisija.
+(4) Obligātā informācija ir brīvi pieejama ikvienam interesentam vismaz piecus gadus kopš tās ievietošanas oficiālajā glabāšanas sistēmā.
+(5) Emitentam vai personai, kas lūdz pārvedamu vērtspapīru iekļaušanu regulētajā tirgū, par šajā likumā minētās obligātās informācijas sniegšanu nav tiesību ņemt maksu no ieguldītājiem.
+(6) Lai nodrošinātu, ka jebkuram interesentam ir viegli atrodama saskaņā ar normatīvo aktu prasībām publiskota informācija, Komisija savā mājaslapā internetā ievieto sarakstu ar tirgus organizētāju, Uzņēmumu reģistra, kā arī citu dalībvalstu oficiālo glabāšanas sistēmu interneta mājaslapu adresēm.

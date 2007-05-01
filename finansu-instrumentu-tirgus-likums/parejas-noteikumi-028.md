@@ -1,0 +1,1 @@
+28. No 2008.gada 1.janvāra līdz 31.decembrim ieguldījumu brokeru sabiedrības pašu kapitāls ir vismaz 90 procenti no minimālā pašu kapitāla, kas aprēķināts saskaņā ar Komisijas noteikto kapitāla pietiekamības aprēķināšanas kārtību.

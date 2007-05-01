@@ -1,22 +1,16 @@
-122.pants. Ieguldījumu brokeru sabiedrības pašu kapitāls
-(1) Ieguldījumu brokeru sabiedrības pašu kapitālu veido pirmā un otrā līmeņa kapitāla kopsumma, no kuras atskaita pašu kapitāla samazinājumu, ko veido:
-1) ieguldījumi to kredītiestāžu, ieguldījumu brokeru sabiedrību un finanšu iestāžu pamatkapitālā, subordinētajā kapitālā un - saskaņā ar Komisijas noteikumiem - citos finanšu instrumentos, kurās ieguldījumu brokeru sabiedrībai ir būtiska līdzdalība;
-2) ieguldījumu kopsummas daļa, kas pārsniedz 10 procentus no ieguldījumu brokeru sabiedrības pirmā un otrā līmeņa kapitāla kopsummas, to kredītiestāžu, ieguldījumu brokeru sabiedrību un finanšu iestāžu pamatkapitālā, subordinētajā kapitālā un- saskaņā ar Komisijas noteikumiem - citos finanšu instrumentos, kurās ieguldījumu brokeru sabiedrībai nav būtiskas līdzdalības;
-3) ieguldījumi tādu apdrošināšanas sabiedrību, pārapdrošinātāju un apdrošināšanas pārvaldītājsabiedrību pamatkapitālā, kurās ieguldījumu brokeru sabiedrībai tieši vai netieši pieder 20 un vairāk procentu no pamatkapitāla vai balsstiesīgo akciju skaita;
-4) ieguldījumi apdrošināšanas sabiedrību, pārapdrošinātāju un apdrošināšanas pārvaldītājsabiedrību subordinētajā kapitālā un-saskaņā ar Komisijas noteikumiem - citos finanšu instrumentos.
-(2) Aprēķināto pašu kapitālu ar Komisijas iepriekšēju piekrišanu un saskaņā ar Komisijas noteikumos paredzētajām prasībām var papildināt ar trešā līmeņa kapitālu.
-(3) Pirmā līmeņa kapitālu veido:
-1) apmaksātais akciju vai daļu kapitāls (pamatkapitāls), kas samazināts par priekšrocību akciju ar dividenžu uzkrāšanu vērtību;
-2) akciju emisijas uzcenojums;
-3) rezerves kapitāls un pārējās rezerves, kas izveidotas no iepriekšējo gadu peļņas;
-4) vispārējo risku rezerve, kas izveidota no iepriekšējo gadu peļņas;
-5) finanšu pārskatos, par kuriem sniegts zvērināta revidenta ziņojums, norādītā iepriekšējo gadu nesadalītā peļņa vai zaudējumi;
-6) samazinājums par ieguldījumu brokeru sabiedrībai piederošajām pašas akcijām (daļām), nemateriālajiem aktīviem, kārtējā darbības gada zaudējumiem;
-7) palielinājums vai samazinājums par citiem elementiem saskaņā ar Komisijas noteikumiem.
-(4) Otrā līmeņa kapitālu veido subordinētais kapitāls un noteiktā termiņā dzēšamas priekšrocību akcijas (daļas) ar dividenžu uzkrāšanu, kuru kopējais apmērs nepārsniedz 50 procentus no pirmā līmeņa kapitāla, un citi elementi saskaņā ar Komisijas noteikumiem. Otrā līmeņa kapitālā var iekļaut tikai pilnīgi apmaksātas priekšrocību akcijas (daļas).
-(5) Aprēķinot otrā līmeņa kapitālu, subordinētā kapitāla un noteiktā termiņā dzēšamu priekšrocību akciju (daļu) ar dividenžu uzkrāšanu vērtība pēdējos piecus gadus pirms to samaksas termiņa katru gadu jāsamazina par 20 procentiem.
-(6) Trešā līmeņa kapitālu veido pakārtotās saistības - aizņēmuma, noguldījuma un līdzīgu līgumu radītās saistības, kuras ieguldījumu brokeru sabiedrības bankrota vai likvidācijas gadījumā apmierināmas pēc visu citu kreditoru prasību apmierināšanas, bet pirms akcionāru (daļu īpašnieku) prasību apmierināšanas, un kuras atbilst šādiem noteikumiem:
-1) pakārtoto saistību sākotnējais termiņš nav īsāks par trim gadiem vai, ja termiņš nav noteikts, līgums paredz, ka kreditoram jāpieprasa parāda samaksa ne vēlāk kā trīs gadus pirms tā apmierināšanas;
-2) līgums paredz, ka pakārtotās saistības nevar samaksāt pirms termiņa bez Komisijas piekrišanas, izņemot gadījumu, kad ieguldījumu brokeru sabiedrību likvidē;
-3) līgums paredz, ka samaksas termiņā netiks samaksāti ne procenti, ne pakārtoto saistību pamatsumma, ja netiek ievērota vai šo maksājumu rezultātā netiks ievērota tirgus riskiem noteiktā prasība ieguldījumu brokeru sabiedrības pašu kapitālam.
-(7) Trešā līmeņa kapitālā nedrīkst iekļaut šā panta piektajā daļā noteikto subordinētā kapitāla samazinājumu.
+122.pants. Ieguldījumu brokeru sabiedrības riska darījumu ierobežojumi
+(1) Ieguldījumu brokeru sabiedrība ievēro šādus riska darījumu ierobežojumus:
+1) lielo riska darījumu kopsumma nedrīkst pārsniegt ieguldījumu brokeru sabiedrības pašu kapitālu vairāk par astoņām reizēm. Darījumu risks tiek kvalificēts kā liels, ja darījumu apmērs ar vienu klientu vai savstarpēji saistītu klientu grupu pārsniedz 10 procentus no ieguldījumu brokeru sabiedrības pašu kapitāla;
+2) ar vienu klientu vai savstarpēji saistītu klientu grupu veikto riska darījumu kopsumma nedrīkst pārsniegt 25 procentus no ieguldījumu brokeru sabiedrības pašu kapitāla;
+3) ja klients vai savstarpēji saistītu klientu grupa ir ieguldījumu brokeru sabiedrības mātes sabiedrība vai meitas sabiedrība, vai viena vai vairākas tās mātes sabiedrības meitas sabiedrības, tad ar šādu klientu vai savstarpēji saistītu klientu grupu veikto riska darījumu apmērs nedrīkst pārsniegt 20 procentus no ieguldījumu brokeru sabiedrības pašu kapitāla;
+4) ar tādām personām veikto riska darījumu kopsumma, kuras saistītas ar ieguldījumu brokeru sabiedrību, nedrīkst pārsniegt 15 procentus no ieguldījumu brokeru sabiedrības pašu kapitāla. Šis ierobežojums neattiecas uz šīs daļas 3.punktā minētajiem riska darījumiem.
+(2) Par savstarpēji saistītu klientu grupu šā likuma izpratnē uzskatāmas divas vai vairākas personas, kuras veido ieguldījumu brokeru sabiedrībai vienu kopīgu risku, ja:
+1) vienai no šīm personām ir tieša vai netieša kontrole pār citu personu vai citām personām, izņemot gadījumus, kad personas, kurām ir tieša vai netieša kontrole pār citu personu vai citām personām, ir Latvijas valsts un pašvaldības, Eiropas Savienības dalībvalstis, Eiropas Ekonomiskās attīstības un sadarbības organizācijas un Eiropas Ekonomikas zonas valstis, Eiropas Savienības un Eiropas Ekonomikas zonas valstu pašvaldības;
+2) tās ir saistītas tādā veidā, ka vienas personas finansiālās problēmas var radīt citai personai vai citām personām parādu samaksas grūtības, kaut arī starp šīm personām nepastāv šīs daļas 1.punktā minētās attiecības.
+(3) Par personām, kas saistītas ar ieguldījumu brokeru sabiedrību, šā likuma izpratnē uzskatāmas personas, kuras ir:
+1) ieguldījumu brokeru sabiedrības akcionāri (dalībnieki), kam ieguldījumu brokeru sabiedrībā ir būtiska līdzdalība;
+2) ieguldījumu brokeru sabiedrības meitas sabiedrības un sabiedrības, kurās ieguldījumu brokeru sabiedrībai ir tiešā vai netiešā veidā iegūta līdzdalība, kas rada iespēju būtiski ietekmēt šīs sabiedrības finanšu un darbības politikas noteikšanu;
+3) ieguldījumu brokeru sabiedrības padomes (ja tāda ir izveidota), valdes priekšsēdētājs un locekļi, iekšējā audita dienesta vadītājs un darbinieki, sabiedrības kontrolieris un citi ieguldījumu brokeru sabiedrības darbinieki, kuri ir pilnvaroti plānot, vadīt un kontrolēt ieguldījumu brokeru sabiedrības darbību un kuri atbild par to;
+4) sabiedrības, kurās šīs daļas 1. un 3.punktā minētajām personām ir būtiska līdzdalība.
+(4) Riska darījumu ierobežojumiem pakļauto riska darījumu kopumu nosaka Komisija. Komisija ir tiesīga atļaut pārsniegt lielo riska darījumu ierobežojumus tirdzniecības portfeļa riska darījumiem, ja ieguldījumu brokeru sabiedrība aprēķina papildu kapitāla prasību šādam pārsniegumam.
+(5) Komisija ir tiesīga atļaut ieguldījumu brokeru sabiedrībai nepiemērot šā panta pirmās daļas 1., 2. un 3.punktā minētos ierobežojumus riska darījumiem ar ieguldījumu brokeru sabiedrības meitas sabiedrībām, tās mātes sabiedrību vai mātes sabiedrības meitas sabiedrībām, ja ieguldījumu brokeru sabiedrība un šā panta pirmās daļas 3.punktā minētie klienti tiek pakļauti konsolidētajai uzraudzībai, kuru veic Komisija, citas dalībvalsts uzraudzības institūcija vai arī ārvalsts uzraudzības institūcija tādā ārvalstī, kur konsolidēto uzraudzību veic saskaņā ar tādām pašām prasībām, kādas ir noteiktas dalībvalstīm.

@@ -14,14 +14,15 @@
 4) finanšu instrumentu sākotnējā izvietošana, ja ieguldījumu pakalpojumu sniedzējs neizpērk finanšu instrumentus vai negarantē to izpirkšanu;
 5) finanšu instrumentu izpirkšana sākotnējai izvietošanai vai sākotnējās izvietošanas laikā neizvietoto finanšu instrumentu izpirkšanas garantēšana;
 6) darījumu ar finanšu instrumentiem izpilde uz kredītiestādes vai ieguldījumu brokeru sabiedrības rēķina;
-7) (izslēgts ar 15.06.2006. likumu).
+7) (izslēgts ar 15.06.2006. likumu);
+8) konsultāciju sniegšana par ieguldījumiem finanšu instrumentos.
 (5) Ieguldījumu blakuspakalpojumi šā likuma izpratnē ir:
 1) finanšu instrumentu turēšana;
 2) kredītu vai aizdevumu piešķiršana ieguldītājam darījumu veikšanai ar finanšu instrumentiem, ja komercsabiedrība, kas izsniedz kredītu vai aizdevumu, ir iesaistīta darījumā ar finanšu instrumentiem kā darījuma otrā puse;
 3) ieteikumu sniegšana attiecībā uz kapitāla struktūru, darbības stratēģiju un ar to saistītiem jautājumiem, kā arī ieteikumu un pakalpojumu sniegšana attiecībā uz komercsabiedrību apvienošanos un uzņēmumu iegādi;
 4) tādu pakalpojumu sniegšana, kas saistīti ar šā panta ceturtās daļas 5.punktā noteikto ieguldījumu pakalpojumu sniegšanu;
 5) valūtas maiņas pakalpojumi, ja tie saistīti ar ieguldījumu pakalpojumu sniegšanu;
-6) konsultāciju sniegšana par ieguldījumiem finanšu instrumentos.
+6) (izslēgts ar 29.03.2007. likumu).
 (6) Šis likums neierobežo citos likumos noteiktās patērētāju tiesības.
 (7) Šā likuma C sadaļas noteikumi neattiecas uz:
 1) atvērto ieguldījumu fondu ieguldījumu apliecībām vai tām pielīdzināmiem vērtspapīriem, kas apliecina līdzdalību atvērtajos ieguldījumu fondos vai tiem pielīdzināmos kopējo ieguldījumu uzņēmumos;
@@ -35,12 +36,15 @@ b) šie pārvedamie vērtspapīri nedod tiesības parakstīties uz cita veida p�
 c) šie pārvedamie vērtspapīri realizē atmaksājamu noguldījumu saņemšanu,
 d) uz šiem pārvedamiem vērtspapīriem attiecas dalībvalstu normatīvie akti par noguldījumu garantiju shēmām;
 7) neatvietojamām kapitāla daļām, kuru galvenais mērķis ir nodrošināt to turētājam tajās ietvertās tiesības izmantot dzīvokli vai cita veida nekustamo īpašumu vai tā daļu, turklāt šīs kapitāla daļas nevar pārdot, paturot šajās daļās ietvertās tiesības;
-8) vērtspapīriem, kas iekļauti piedāvājumā, ja par 12 mēnešiem aprēķinātā kopējā samaksa par piedāvājumu ir mazāka nekā 2500000 eiro;
+8) vērtspapīriem, kas iekļauti piedāvājumā, ja par 12 mēnešiem aprēķinātā kopējā samaksa par piedāvājumu ir mazāka nekā 2500000 eiro ekvivalents latos pēc Latvijas Bankas noteiktā kursa;
 9) Zviedrijas banku atkārtoti emitētām ķīlu zīmēm bostadsobligationer, kuru galvenais mērķis ir garantēt hipotekāros aizdevumus, ja:
 a) emitētās bostadsobligationer ir no vienas sērijas,
 b) bostadsobligationer ir nepārtraukti emitētas noteiktā emisijas laika posmā,
 c) noteikumi, kas attiecas uz bostadsobligationer, emisijas laika posmā nav mainīti,
 d) summas, kas iegūtas no minēto bostadsobligationer emisijas, saskaņā ar statūtiem tiek iegrāmatotas aktīvos, kas nodrošina pietiekamu segumu no vērtspapīriem izrietošām saistībām;
-10) pārvedamiem vērtspapīriem, kas nav kapitāla vērtspapīri un ko nepārtraukti vai atkārtoti emitējušas bankas, ja par 12 mēnešiem aprēķinātā kopējā iegūstamā summa par piedāvājumu ir mazāka nekā 50000000 eiro, ar nosacījumu, ka šie pārvedamie vērtspapīri:
+10) pārvedamiem vērtspapīriem, kas nav kapitāla vērtspapīri un ko nepārtraukti vai atkārtoti emitējušas bankas, ja par 12 mēnešiem aprēķinātā kopējā iegūstamā summa par piedāvājumu ir mazāka nekā 50000000 eiro ekvivalents latos pēc Latvijas Bankas noteiktā kursa, ar nosacījumu, ka šie pārvedamie vērtspapīri:
 a) nav pakārtoti (subordinēti), konvertējami vai aizvietojami,
 b) nedod tiesības parakstīties uz cita veida vērtspapīriem vai iegūt tos un tie nav saistīti ar atvasinātiem finanšu instrumentiem.
+(8) Šā likuma 54.panta un D sadaļas III un IV nodaļas prasības neattiecas uz atvērto ieguldījumu fondu ieguldījumu apliecībām vai tām pielīdzināmiem vērtspapīriem, kas apliecina līdzdalību atvērtajos ieguldījumu fondos vai tiem pielīdzināmos kopējo ieguldījumu uzņēmumos.
+(9) Šā likuma 54.panta trešās, septītās, astotās un devītās daļas prasības neattiecas uz pārvedamiem vērtspapīriem, kuri ir iekļauti regulētajā tirgū un kurus emitējusi dalībvalsts vai dalībvalsts pašvaldība, tās iestāde vai aģentūra.
+(10) Šā likuma 54.panta pirmās, otrās un devītās daļas prasības neattiecas uz dalībvalstu centrālo banku emitētajām akcijām, kuras ir iekļautas regulētajā tirgū, ja lēmums par akciju iekļaušanu regulētajā tirgū pieņemts līdz 2005.gada 20.janvārim un šādu izņēmumu paredz attiecīgās dalībvalsts normatīvie akti, kas regulē centrālo banku akciju emitēšanas kārtību.

@@ -1,0 +1,1 @@
+24. Uz iekšējiem reitingiem balstīto attīstīto pieeju kredītriska kapitāla prasības aprēķinam un attīstīto operacionāla riska mērīšanas pieeju šā riska kapitāla prasības aprēķinam ieguldījumu brokeru sabiedrības piemēro no 2008.gada 1.janvāra.

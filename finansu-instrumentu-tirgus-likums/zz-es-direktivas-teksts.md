@@ -10,4 +10,6 @@ Likumā iekļautas tiesību normas, kas izriet no:
 9) Eiropas Parlamenta un Padomes 2003.gada 28.janvāra direktīvas 2003/6/EK par iekšējās informācijas ļaunprātīgu izmantošanu un tirgus manipulācijām (tirgus ļaunprātīgu izmantošanu);
 10) Komisijas 2003.gada 22.decembra direktīvas 2003/124/EK, ar ko Eiropas Parlamenta un Padomes direktīvu 2003/6/EK īsteno attiecībā uz iekšējās informācijas definīciju un publisku izziņošanu, kā arī tirgus manipulācijas definīciju;
 11) Komisijas 2004.gada 29.aprīļa direktīvas 2004/72/EK, ar ko īsteno Eiropas Parlamenta un Padomes direktīvu 2003/6/EK attiecībā uz pieņemto tirgus praksi, ar atvasinātiem preču instrumentiem saistītās iekšējās informācijas definēšanu, to personu saraksta sastādīšanu, kam ir pieejama iekšējā informācija, vadības veikto darījumu izziņošanu un paziņošanu par aizdomīgiem darījumiem;
-12) Eiropas Parlamenta un Padomes 2004.gada 21.aprīļa direktīvas 2004/25/EK par pārņemšanas piedāvājumiem.
+12) Eiropas Parlamenta un Padomes 2004.gada 21.aprīļa direktīvas 2004/25/EK par pārņemšanas piedāvājumiem;
+13) Eiropas Parlamenta un Padomes 2004.gada 15.decembra direktīvas 2004/109/EK par atklātības prasību saskaņošanu attiecībā uz informāciju par emitentiem, kuru vērtspapīrus atļauts tirgot regulētā tirgū, un par grozījumiem direktīvā 2001/34/EK;
+14) Eiropas Parlamenta un Padomes 2006.gada 14.jūnija direktīvas 2006/49/EK par ieguldījumu sabiedrību un kredītiestāžu kapitāla pietiekamību.

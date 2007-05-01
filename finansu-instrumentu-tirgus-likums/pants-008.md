@@ -1,11 +1,10 @@
 8.pants. Netieši iegūta līdzdalība
-Nosakot personas netieši iegūtās līdzdalības apmēru, ņem vērā šādas personas iegūtās balsstiesības:
-1) balsstiesības, kas izriet no akcijām (daļām), kuras šīs personas uzdevumā ieguvušas trešās personas savā vārdā;
-2) balsstiesības, kas izriet no akcijām (daļām), kuras ieguvusi tāda komercsabiedrība, kas atrodas šīs personas kontrolē;
-3) balsstiesības, kas noteiktas personas noslēgtā rakstveida līgumā ar trešajām personām par ilgstošu vai sistemātisku kopīgu rīcību attiecībā uz kapitālsabiedrības pārvaldi;
-4) trešajām personām piederošas balsstiesības, kuras personai vai komercsabiedrībai, kas atrodas šīs personas kontrolē, saskaņā ar rakstveida līgumu ir tiesības izmantot noteiktu termiņu vai bez termiņa ierobežojuma, par atlīdzību vai bez tās;
-5) balsstiesības, kas izriet no personas turējumā nodotajām akcijām (daļām), kuras persona ir tiesīga izmantot pēc saviem ieskatiem bez atsevišķa uzdevuma saņemšanas no personas, kurai pieder akcijas (daļas);
-6) balsstiesības, kas izriet no akcijām (daļām), kuras persona nodevusi trešajām personām kā nodrošinājumu, nezaudējot no tām izrietošās balsstiesības;
-7) balsstiesības, kas izriet no akcijām (daļām), kuras persona ir tiesīga iegūt saskaņā ar rakstveida līgumu, kura izpilde atkarīga tikai no šīs personas;
-8) balsstiesības, kas izriet no akcijām (daļām), kuras persona ir ieguvusi to aizņemšanās, atpakaļpirkuma vai līdzīgos darījumos;
-9) balsstiesības, kas izriet no personas jebkurā citā netiešā veidā iegūtajām akcijām (daļām).
+Nosakot personas netieši iegūtās līdzdalības apmēru, ņem vērā šādas personas (turpmāk - konkrētā persona) iegūtās balsstiesības:
+1) balsstiesības, kuras ir tiesīga izmantot trešā persona, ar kuru konkrētā persona ir noslēgusi vienošanos, uzliekot par pienākumu saskaņot balsstiesību izmantošanas un rīcības politiku ilgtermiņā attiecībā uz konkrētā emitenta pārvaldi;
+2) balsstiesības, kuras ir tiesīga izmantot trešā persona saskaņā ar vienošanos, kas noslēgta ar konkrēto personu un paredz attiecīgo balsstiesību pagaidu nodošanu;
+3) balsstiesības, kas izriet no akcijām, kuras konkrētā persona ir saņēmusi kā nodrošinājumu, ja tā var izmantot balsstiesības un ir paudusi savu nodomu tās izmantot;
+4) balsstiesības, kuras ir tiesīga izmantot konkrētā persona neierobežotā laikposmā;
+5) balsstiesības, kuras ir tiesīga izmantot konkrētās personas kontrolētā komercsabiedrība vai kuras šāda komercsabiedrība var izmantot saskaņā ar šā panta 1., 2., 3. un 4.punkta noteikumiem;
+6) balsstiesības, kuras izriet no akcijām, kas nodotas turējumā konkrētajai personai un ko tā var izmantot pēc saviem ieskatiem, ja nav saņemti īpaši norādījumi;
+7) balsstiesības, kuras izriet no trešās personas vārdā un konkrētās personas labā turētām akcijām;
+8) balsstiesības, kuras konkrētā persona var izmantot kā pilnvarnieks tad, kad tā ir tiesīga izmantot balsstiesības pēc saviem ieskatiem, ja nav saņemti īpaši norādījumi.

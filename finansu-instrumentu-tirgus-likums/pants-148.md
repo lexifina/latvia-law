@@ -1,7 +1,8 @@
 148.pants. Atbildība
 (1) Par finanšu instrumentu publisku piedāvāšanu, neievērojot šā likuma prasības, Komisijai ir tiesības izteikt emitentam brīdinājumu vai uzlikt soda naudu līdz 10000 latiem.
 (2) Par nepatiesas vai maldinošas informācijas sniegšanu par emitentam būtiskiem notikumiem Komisijai ir tiesības izteikt emitentam brīdinājumu vai uzlikt soda naudu līdz 10 000 latiem.
-(3) Par šā likuma 61.panta prasību neievērošanu Komisijai ir tiesības personai, kas nav izpildījusi tai uzlikto pienākumu un nav noteiktā kārtībā ziņojusi tirgus organizētājam par nozīmīgas līdzdalības iegūšanu vai zaudēšanu akciju sabiedrībā, izteikt brīdinājumu vai uzlikt soda naudu līdz 10000 latiem.
+(3) Par šā likuma 61.panta prasību neievērošanu Komisijai ir tiesības personai, kas nav izpildījusi tai uzlikto pienākumu un nav noteiktā kārtībā ziņojusi par nozīmīgas līdzdalības iegūšanu vai zaudēšanu akciju sabiedrībā, izteikt brīdinājumu vai uzlikt soda naudu līdz 10000 latiem.
 (4) Ja persona, kurai saskaņā ar šā likuma 55. un 66.panta un pārejas noteikumu nosacījumiem ir pienākums izteikt obligāto akciju atpirkšanas piedāvājumu, to noteiktajā kārtībā neizdara, Komisijai ir tiesības izteikt personai brīdinājumu vai uzlikt soda naudu līdz 10 000 latiem.
 (5) Par citiem šā likuma un saskaņā ar to izdoto normatīvo aktu pārkāpumiem Komisijai ir tiesības izteikt normatīvos aktus pārkāpušajai personai brīdinājumu vai uzlikt soda naudu līdz 10 000 latiem.
 (6) Par publiskā piedāvājuma izteikšanas, finanšu instrumentu iekļaušanas regulētajos tirgos un Eiropas Komisijas regulas Nr. 809/2004 prasību neievērošanu Komisijai ir tiesības izteikt brīdinājumu vai uzlikt soda naudu līdz 10000 latiem.
+(7) Par šā likuma 54.panta otrās daļas 5.punkta, trešās daļas 6.punkta un septītās daļas, 56. un 57.panta prasību neievērošanu Komisijai ir tiesības emitentam izteikt brīdinājumu vai uzlikt naudas sodu līdz 10 000 latiem.

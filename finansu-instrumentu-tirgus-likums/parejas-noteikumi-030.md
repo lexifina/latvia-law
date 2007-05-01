@@ -1,0 +1,1 @@
+30. Šo pārejas noteikumu 25., 26., 27., 28. un 29.punkta prasību izpildei ieguldījumu brokeru sabiedrības darbību raksturojošos rādītājus aprēķina individuāli vai konsolidācijas grupas līmenī saskaņā ar šā likuma 123.³ un 123.⁴ pantu.
