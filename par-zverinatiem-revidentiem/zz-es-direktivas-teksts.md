@@ -1,1 +1,5 @@
-Likumā iekļautas tiesību normas, kas izriet no direktīvām 84/253/EEC, 89/48/EEC un 95/26/EEC.
+Likumā iekļautas tiesību normas, kas izriet no:
+1) Padomes 1984.gada 10.aprīļa Astotās direktīvas 84/253/EEK, kas pamatojas uz līguma 54.panta 3.punkta "g" apakšpunktu un attiecas uz personu apstiprināšanu grāmatvedības dokumentu obligāto revīziju veikšanai;
+2) Padomes 1988.gada 21.decembra direktīvas 89/48/EEK par vispārēju sistēmu tādu augstākās izglītības diplomu atzīšanai, ko piešķir par vismaz trīs gadu profesionālo izglītību;
+3) Eiropas Parlamenta un Padomes 1995.gada 29.jūnija direktīvas 95/26/EK, ar ko groza direktīvu 77/780/EEK un direktīvu 89/646/EEK kredītiestāžu jomā, direktīvu 73/239/EEK un direktīvu 92/49/EEK nedzīvības apdrošināšanas jomā, direktīvu 79/267/EEK un direktīvu 92/96/EEK dzīvības apdrošināšanas jomā, direktīvu 93/22/EEK ieguldījumu sabiedrību jomā un direktīvu 85/611/EEK attiecībā uz pārvedamo vērtspapīru kolektīvo ieguldījumu uzņēmumiem (PVKIU), lai stiprinātu konsultatīvo uzraudzību;
+4) Eiropas Parlamenta un Padomes 2004.gada 15.decembra direktīvas 2004/109/EK par atklātības prasību saskaņošanu attiecībā uz informāciju par emitentiem, kuru vērtspapīrus atļauts tirgot regulētā tirgū, un par grozījumiem direktīvā 2001/34/EK.
