@@ -1,6 +1,6 @@
-68.pants. Rezerves karavīra noņemšana no uzskaites
-Rezerves karavīru no uzskaites noņem:
-1) ja viņš ir sasniedzis dienestam rezervē noteikto maksimālo vecumu;
+68.pants. Rezerves karavīru un rezervistu noņemšana no militārā dienesta uzskaites
+Rezerves karavīru un rezervistu no militārā dienesta uzskaites noņem:
+1) ja viņš ir sasniedzis Nacionālo bruņoto spēku rezervei noteikto maksimālo vecumu;
 2) ja viņš veselības stāvokļa dēļ atzīts par nederīgu militārajam dienestam;
 3) pieņemot profesionālajā dienestā;
 4) ja viņš zaudē Latvijas pilsonību;

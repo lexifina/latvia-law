@@ -1,2 +1,4 @@
-63.pants. Dienests rezervē
-Dienests rezervē miera laikā ietver militārās uzskaites noteikumu un kārtības ievērošanu, militārajam dienestam pakļauto militārās mācības, kaujas zinību, iemaņu un sagatavotības saglabāšanu un pilnveidošanu noteiktas militārās specialitātes izpildei kara laikā.
+63.pants. Nacionālo bruņoto spēku rezerve
+Nacionālo bruņoto spēku rezervē ieskaita:
+1) karavīrus, kas atvaļināti no profesionālā dienesta (līdz šā likuma spēkā stāšanās brīdim - aktīvā dienesta un ierindas dienesta) un nav noņemti no militārā dienesta uzskaites;
+2) Latvijas pilsoņus - vīriešus, kuri sasnieguši 18 gadu vecumu un ir derīgi militārajam dienestam.

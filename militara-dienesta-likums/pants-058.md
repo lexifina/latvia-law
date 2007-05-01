@@ -1,2 +1,3 @@
 58.pants. Atvaļināto karavīru pienākumi
-No aktīvā dienesta atvaļinātajam karavīram jāstājas militārā dienesta rezerves uzskaitē pastāvīgajā dzīvesvietā attiecīgajā Valsts militārā dienesta pārvaldē 10 dienu laikā pēc atvaļināšanas dienas, ierodoties personiski, un jāpilda rezerves karavīra pienākumi.
+(1) No profesionālā dienesta atvaļinātais karavīrs stājas militārā dienesta rezerves uzskaitē Nacionālo bruņoto spēku rezerves uzskaites struktūrvienībā pēc savas dzīvesvietas 10 dienu laikā pēc atvaļināšanas no profesionālā dienesta, ierodoties personiski.
+(2) Šā panta pirmajā daļā noteiktie pienākumi neattiecas uz karavīru, kurš atvaļināts no profesionālā dienesta šā likuma 42.panta otrajā daļā minēto iemeslu dēļ.

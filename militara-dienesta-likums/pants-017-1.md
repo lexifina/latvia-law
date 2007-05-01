@@ -1,0 +1,3 @@
+17.¹ pants. Jaunatnes izglītošana valsts aizsardzības jomā
+(1) Jaunieši vecumā līdz 18 gadiem var brīvprātīgi iesaistīties jaunsardzē, kuras mērķis ir jaunatnes izglītošana valsts aizsardzības jomā, pilsoniskās apziņas un patriotisma veicināšana. Jaunsardzes nolikumu pēc saskaņošanas ar Izglītības un zinātnes ministriju apstiprina aizsardzības ministrs. Jaunsardzes nolikums paredz kārtību, kādā jaunatne izglītojama valsts aizsardzības jomā, un šīs izglītošanas nosacījumus. Jaunsardzes mācību procesu organizē Aizsardzības ministrijas padotībā esoša valsts iestāde - Jaunsardzes centrs.
+(2) Latvijas pilsoņi, kas iegūst izglītību akreditētā augstskolā, var apgūt speciālu militārās apmācības kursu Ministru kabineta noteiktajā kārtībā.

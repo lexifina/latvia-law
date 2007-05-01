@@ -1,2 +1,2 @@
 XII nodaļa
-Dienests rezervē
+Nacionālo bruņoto spēku rezerve un tās pienākumi

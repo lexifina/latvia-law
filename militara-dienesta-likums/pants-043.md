@@ -5,7 +5,7 @@
 2) karavīrs atzīts par nederīgu aktīvajam dienestam veselības stāvokļa dēļ;
 3) pārbaudes laikā noskaidrojas, ka karavīrs neatbilst dienesta prasībām;
 4) ir atklājušies apstākļi, kas saskaņā ar likumu liedz karavīram pildīt aktīvo dienestu vai ieņemt amatu, un šos apstākļus nevar novērst;
-5) karavīrs divas reizes pēc kārtas saņēmis neapmierinošu atestācijas vērtējumu;
+5) (izslēgts ar 29.03.2007. likumu);
 6) karavīra dienesta nespējas laiks slimības dēļ ir ilgāks par četriem mēnešiem (120 dienām), ja slimība vai ievainojums (trauma) nav gūti, pildot dienesta pienākumus;
 7) likvidē vai reorganizē vienību (apakšvienību) vai samazina karavīru skaitu, ievērojot šā likuma 26.panta trešajā daļā noteikto;
 8) karavīram kā disciplinārsods piemērota atvaļināšana no aktīvā dienesta;

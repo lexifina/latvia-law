@@ -1,2 +1,2 @@
 1.pants. Likuma mērķis
-Šā likuma mērķis ir noteikt vienotu militārā dienesta gaitu.
+Šā likuma mērķis ir vienotas militārā dienesta gaitas nodrošināšana Nacionālajos bruņotajos spēkos.

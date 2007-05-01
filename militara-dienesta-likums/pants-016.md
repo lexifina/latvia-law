@@ -1,8 +1,8 @@
 16.pants. Komplektēšanas pamatprincipi
 (1) Vienības miera laikā komplektē no Latvijas pilsoņiem, kas:
-1) iesaukti obligātajā aktīvajā militārajā dienestā;
+1) (izslēgts ar 29.03.2007. likumu);
 2) pieņemti profesionālajā dienestā;
-3) iestājušies militārajās izglītības iestādēs;
+3) (izslēgts ar 29.03.2007. likumu);
 4) pieņemti darbā par militārajiem darbiniekiem;
 5) pieņemti darbā štatā paredzētajos civilajos amatos.
 (2) Militārajā dienestā nevar iesaukt un nevar pieņemt Latvijas pilsoni, kas:

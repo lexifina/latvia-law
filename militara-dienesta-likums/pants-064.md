@@ -1,5 +1,4 @@
-64.pants. Ieskaitīšana dienestam rezervē
-(1) Dienestam rezervē ieskaita:
-1) no profesionālā dienesta rezervē atvaļinātos karavīrus;
-2) pārējos Latvijas pilsoņus - saskaņā ar Obligātā militārā dienesta likumu.
-(2) Latvijas pilsonim, kas nav dienējis aktīvajā dienestā un kam nav piešķirta dienesta pakāpe, reizē ar ieskaitīšanu rezervē Valsts militārā dienesta pārvaldes vadītājs piešķir dienesta pakāpi - kareivis, izņemot to pilsoni, kurš ieskaitīts rezervē pēc alternatīvā dienesta beigšanas.
+64.pants. Rezerves karavīru un rezervistu reģistrācija un uzskaite
+(1) Rezerves karavīru un rezervistu reģistrāciju, uzskaiti un iesaukšanu aktīvajā dienestā veic Nacionālo bruņoto spēku rezerves uzskaites struktūrvienības Ministru kabineta noteiktajā kārtībā.
+(2) Nacionālo bruņoto spēku rezerves uzskaites struktūrvienības likumā noteikto funkciju izpildei ir tiesīgas pieprasīt un saņemt bez maksas no Iedzīvotāju reģistra, valsts pārvaldes iestādēm, pašvaldībām, veselības aprūpes iestādēm un citām juridiskajām personām nepieciešamo informāciju par militārā dienesta uzskaitei pakļauto personu. Informācijas pieprasīšanas un izsniegšanas kārtību reglamentē Ministru kabineta noteikumi.
+(3) Rezerves karavīri atrodas Nacionālo bruņoto spēku rezervē līdz šajā likumā dienestam Nacionālo bruņoto spēku rezervē noteiktā maksimālā vecuma sasniegšanai. Rezervisti atrodas Nacionālo bruņoto spēku rezervē līdz 55 gadu vecuma sasniegšanai.

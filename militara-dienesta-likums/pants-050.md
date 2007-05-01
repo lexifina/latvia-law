@@ -8,7 +8,8 @@
 6) kompensāciju dzīvokļa īrei, tai skaitā ar dzīvokļa īres līguma noslēgšanu saistītiem izdevumiem, un komunālajiem izdevumiem;
 7) bērnu skolas un pirmsskolas izdevumu kompensāciju;
 8) pilnu kompensāciju par ceļa un pārcelšanās izdevumiem, dodoties uz dienesta vietu un atgriežoties no tās;
-9) kompensāciju par izdevumiem veselības apdrošināšanai un apdrošināšanai pret nelaimes gadījumiem;
+9) kompensāciju par viņa paša un viņa ģimenes locekļu izdevumiem veselības apdrošināšanai un apdrošināšanai pret nelaimes gadījumiem;
 10) pilnu kompensāciju par viņa paša un viņa ģimenes locekļu ceļa izdevumiem, vienu reizi gadā dodoties ikgadējā atvaļinājumā uz Latviju un atgriežoties dienesta vietā.
+(1¹) Karavīriem, kuri nosūtīti dienestam Ziemeļatlantijas līguma organizācijas štābos, Eiropas Savienības militārajos štābos un šo organizāciju dalībvalstu daudznacionālajos štābos un kuri, pamatojoties uz iepriekšminēto organizāciju lēmumu, tiek nosūtīti uz starptautiskajām operācijām, saglabājas tiesības, kas noteiktas šā panta pirmajā daļā, izņemot tiesības uz algas pabalstu par dienestu ārvalstī. Ja karavīra ģimenes locekļi uzturas ārvalstī, no kuras karavīrs šajā pantā noteiktajā kārtībā tiek nosūtīts uz starptautisko operāciju, karavīram ir tiesības saņemt algas pabalstu par dienestu ārvalstī 50 procentu apmērā.
 (2) Atkarībā no ārvalstī esošās dienesta vietas specifiskajiem apstākļiem šajā pantā noteikto pabalstu un kompensāciju apmērus un izmaksas kārtību nosaka Ministru kabinets.
 (3) Šajā pantā minētos pabalstus neapliek ar likumos paredzētajiem nodokļiem un citiem obligātajiem maksājumiem.

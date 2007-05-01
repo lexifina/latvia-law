@@ -5,28 +5,21 @@
 2) II grupas invalīdam - 40 pēdējā mēneša karavīra algu apmērā;
 3) III grupas invalīdam - 20 pēdējā mēneša karavīra algu apmērā.
 (3) Ja obligātā militārā dienesta karavīram aktīvā dienesta laikā vai gada laikā pēc atvaļināšanas no aktīvā dienesta noteikta invaliditāte ievainojuma (sakropļojuma, kontūzijas) dēļ, kas iegūts dienesta laikā, pildot dienesta pienākumus, vai slimības dēļ, kuras cēlonis saistīts ar militārā dienesta izpildi (arodslimība), viņam katru mēnesi izmaksā kompensāciju par darbspēju zaudējumu:
-1) I grupas invalīdam - 50 latu apmērā;
-2) II grupas invalīdam - 40 latu apmērā;
-3) III grupas invalīdam - 20 latu apmērā.
+1) I grupas invalīdam - 300 latu apmērā;
+2) II grupas invalīdam - 200 latu apmērā;
+3) III grupas invalīdam - 150 latu apmērā.
 Ja šajā daļā minētajām personām maina invaliditātes grupu, atbilstoši no jauna noteiktajai invaliditātes grupai maināms arī noteiktais kompensācijas apmērs.
 (4) Ja karavīrs dienesta laikā, pildot dienesta pienākumus, ir guvis veselības traucējumus, bet nav kļuvis par invalīdu, viņam izmaksā vienreizēju kompensāciju:
-1) smaga veselības traucējuma gadījumā:
-a) obligātā aktīvā militārā dienesta karavīram un rezerves karavīram - 250 latu apmērā,
-b) profesionālā dienesta karavīram - piecu pēdējā mēneša karavīra algu apmērā;
-2) vidēji smaga veselības traucējuma gadījumā:
-a) obligātā aktīvā militārā dienesta karavīram un rezerves karavīram - 150 latu apmērā,
-b) profesionālā dienesta karavīram - triju pēdējā mēneša karavīra algu apmērā;
-3) viegla veselības traucējuma gadījumā:
-a) obligātā aktīvā militārā dienesta karavīram un rezerves karavīram - 100 latu apmērā,
-b) profesionālā dienesta karavīram - pēdējā mēneša karavīra algas apmērā, bet ne mazāk kā 100 latu.
-(5) Ja karavīrs, pildot militāro dienestu, ir saslimis un pēc ārstēšanās atzīts par nederīgu turpmākajam aktīvajam dienestam un viņš pirms dienesta (līguma) termiņa beigām jāatvaļina no aktīvā dienesta, viņam papildus likumos noteiktajām kompensācijām un pabalstiem izmaksā vienreizēju kompensāciju:
-1) obligātā aktīvā militārā dienesta karavīram - 150 latu apmērā;
-2) profesionālā dienesta karavīram - triju pēdējā mēneša karavīra algu apmērā.
+1) smaga veselības traucējuma gadījumā - pēdējā mēneša karavīra algas pieckāršā apmērā;
+2) vidēji smaga veselības traucējuma gadījumā - pēdējā mēneša karavīra algas trīskāršā apmērā;
+3) viegla veselības traucējuma gadījumā - pēdējā mēneša karavīra algas apmērā, bet ne mazāk kā 100 latu.
+(5) Ja profesionālā dienesta karavīrs, pildot militāro dienestu, ir saslimis un pēc ārstēšanās atzīts par nederīgu turpmākajam aktīvajam dienestam un tāpēc viņš pirms dienesta (līguma) termiņa beigām jāatvaļina no profesionālā dienesta, karavīram papildus likumos noteiktajām kompensācijām un pabalstiem izmaksā vienreizēju kompensāciju pēdējā mēneša karavīra algas trīskāršā apmērā.
 (6) Bojā gājušo aktīvā dienesta karavīru neatraidāmajiem mantiniekiem (Civillikuma 423.pants) izmaksā kompensāciju šādā apmērā:
-1) ja obligātā aktīvā militārā dienesta karavīrs vai rezerves karavīrs gājis bojā dienesta laikā, pildot dienesta pienākumus, vai gada laikā pēc atvaļināšanas no aktīvā dienesta miris ievainojuma (sakropļojuma, kontūzijas) vai slimības dēļ, kuras cēlonis saistīts ar militārā dienesta izpildi (arodslimība), - 50 000 latu apmērā;
+1) ja rezerves karavīrs vai rezervists gājis bojā aktīvā dienesta laikā, pildot dienesta pienākumus, - 50 000 latu apmērā;
 2) ja profesionālā dienesta karavīrs gājis bojā, Latvijas Nacionālo bruņoto spēku kontingenta sastāvā saskaņā ar starptautiskas organizācijas apstiprinātu mandātu piedaloties starptautiskajā operācijā vai piedaloties starptautiskajā operācijā, kurā dalība noteikta ar Saeimas lēmumu, vai pildot ar komandiera (priekšnieka) pavēli noteiktus uzdevumus, kas saistīti ar ieroču vai bruņojuma pielietošanu un paredz reālu apdraudējumu karavīra veselībai un dzīvībai, - 50 000 latu apmērā, bet ne mazāk kā karavīra pēdējā mēneša 120 algu apmērā;
 3) ja profesionālā dienesta karavīrs gājis bojā, pildot dienesta pienākumus, vai gada laikā pēc atvaļināšanas no aktīvā dienesta miris ievainojuma (sakropļojuma, kontūzijas) vai slimības dēļ, kuras cēlonis saistīts ar militārā dienesta izpildi (arodslimība), - karavīra pēdējā mēneša 120 algu apmērā, bet ne mazāk kā 2500 latu katram apgādājamam.
 (6¹) Ja aktīvā dienesta karavīrs gājis bojā dienesta laikā, pildot dienesta pienākumus, vai gada laikā pēc atvaļināšanas no aktīvā dienesta miris ievainojuma (sakropļojuma, kontūzijas) vai slimības dēļ, kuras cēlonis saistīts ar militārā dienesta izpildi (arodslimība), Aizsardzības ministrija sedz izdevumus par nepieciešamo medicīniskās rehabilitācijas pakalpojumu kursu viņa ģimenes locekļiem (laulātajam, bērniem un vecākiem).
+(6²) Ja aktīvā dienesta karavīrs, pildot dienesta pienākumus, ir guvis ievainojumu (sakropļojumu, kontūziju) vai slimību, kuras cēlonis ir saistīts ar militārā dienesta izpildi (arodslimību), un ārstēšanās notiek ārpus Latvijas robežām, Aizsardzības ministrija sedz viņa ģimenes locekļiem (laulātajam, bērniem un vecākiem) ceļa izdevumus uz šā karavīra ārstēšanās vietu un viesnīcas (naktsmītnes) izdevumus. Izdevumi par viesnīcu (naktsmītni) nedrīkst pārsniegt Ministru kabineta noteiktos limitus.
 (7) Ja dienesta laikā karavīrs gājis bojā vai karavīra veselības traucējums gūts viņa neuzmanības dēļ un viņš kļuvis par invalīdu, bet bojāejas vai veselības traucējuma cēlonis nav saistīts ar tiešo dienesta pienākumu pildīšanu vai viņa ļaunprātīgu vai nepiedienīgu darbību, viņam vai viņa neatraidāmajiem mantiniekiem (Civillikuma 423.pants) var izmaksāt daļu no šajā pantā noteiktās atbilstošās kompensācijas, kuras apmēru katrā atsevišķā gadījumā nosaka aizsardzības ministrs.
 (8) Karavīra bojāejas vai ievainojuma (sakropļojuma, kontūzijas) cēloņa saistību ar tiešo dienesta pienākumu pildīšanu nosaka dienesta izmeklēšanas veicējs. Karavīra ievainojuma (sakropļojuma, kontūzijas) smaguma pakāpi nosaka ārstējošais ārsts vai Nacionālo bruņoto spēku Centrālā medicīniskās ekspertīzes komisija normatīvajos aktos noteiktajā kārtībā. Šos lēmumus 10 dienu laikā no atzinuma izsniegšanas karavīram, viņa ģimenes locekļiem vai pēc viņa lūguma citai personai, kas pārstāv karavīra intereses, var apstrīdēt, iesniedzot aizsardzības ministram attiecīgu iesniegumu. Aizsardzības ministra lēmumu var pārsūdzēt tiesā. Dienesta laikā iegūtas slimības cēloņa saistību ar dienesta pienākumu izpildi nosaka Arodslimību un staru patoloģiju centrs.
 (9) Šajā pantā minētās kompensācijas karavīram izmaksā kā šā panta pirmajā daļā minētās apdrošināšanas atlīdzību.

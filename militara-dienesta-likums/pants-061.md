@@ -1,5 +1,5 @@
 61.pants. Militārā darbinieka darba tiesiskās attiecības
-(1) Militārie darbinieki ir civilpersonas, kas uz darba līguma pamata pilda aizsardzības ministra noteiktos karavīru amatus, kurus vienībās (apakšvienībās) objektīvu apstākļu dēļ nav iespējams nokomplektēt ar karavīriem.
+(1) Militārie darbinieki ir civilpersonas, kas uz darba līguma pamata pilda karavīru amatus, kurus vienībās (apakšvienībās) objektīvu apstākļu dēļ nav iespējams nokomplektēt ar karavīriem. Karavīru amatus, kuros var iecelt militāros darbiniekus, nosaka Nacionālo bruņoto spēku komandieris aizsardzības ministra noteiktajā kārtībā.
 (2) Ar militāro darbinieku slēdz darba līgumu uz noteiktu laiku - līdz brīdim, kad amatā ieceļ karavīru. Militārā darbinieka darba dienas ilgumu nosaka saskaņā ar šā likuma 12.panta trešās daļas noteikumiem. Kārtību, kādā militāro darbinieku pieņem darbā, nosaka aizsardzības ministrs.
 (3) Militārais darbinieks saņem algu, kāda paredzēta attiecīgajam amatam noteiktās dienesta pakāpes karavīram karavīra dienesta pirmajā gadā, un karavīra uzturdevu vai tās kompensāciju.
 (4) Orķestra militārajiem darbiniekiem ir savs formas tērps. Orķestra militārā darbinieka formas tērpu un tā valkāšanas kārtību nosaka aizsardzības ministrs.
