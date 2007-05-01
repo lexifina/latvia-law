@@ -1,0 +1,4 @@
+10.pants. Projekta iesnieguma saskaņošana
+(1) Vadošā iestāde izvērtē projekta iesniegumu un pieņem lēmumu par projekta iesnieguma iesniegšanu apstiprināšanai Eiropas Komisijā vai tā noraidīšanu.
+(2) Ja projekta iesniegums ir nepilnīgs, vadošā iestāde sagatavo atzinumu par projekta iesniegumu un nosūta to projekta iesniedzējam. Projekta iesniedzējs rakstveidā vienu reizi var precizēt projekta iesniegumu un atzinumā norādītajā termiņā atkārtoti iesniegt to vadošajai iestādei. Projekta iesnieguma precizēšana uzskatāma par projekta iesniedzēja uzklausīšanu.
+(3) Šā panta pirmajā daļā minēto lēmumu Latvijā reģistrēta juridiskā persona vai šādu personu apvienība, kā arī starptautiska organizācija var pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā. Lēmuma pārsūdzēšana neaptur tā darbību. Šā panta otrajā daļā minētais atzinums nav uzskatāms par administratīvo aktu, un to nevar apstrīdēt vai pārsūdzēt.

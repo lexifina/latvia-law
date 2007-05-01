@@ -1,0 +1,5 @@
+3.pants. Likuma darbība
+(1) Likums, ciktāl to nenosaka Eiropas Savienības normatīvie akti, paredz par Eiropas komunikāciju tīklu budžeta līdzekļiem līdzfinansēto transporta un enerģētikas infrastruktūras projektu (turpmāk - projekts) sagatavošanu, apstiprināšanu, īstenošanu, kā arī īstenošanas uzraudzību un kontroli.
+(2) Eiropas Savienības finansiālā palīdzība projektu īstenošanai par Eiropas komunikāciju tīklu budžeta līdzekļiem tiek piešķirta saskaņā ar Eiropas Padomes 1995.gada 18.septembra regulu (EK) Nr. 2236/95, ar ko paredz vispārējus noteikumus Kopienas finansiāla atbalsta piešķiršanai Eiropas komunikāciju tīklu jomā [grozīta ar Eiropas Parlamenta un Padomes 1999.gada 19.jūlija regulu (EK) Nr. 1655/1999, Eiropas Parlamenta un Padomes 2004.gada 21.aprīļa regulu (EK) Nr. 807/2004 un Eiropas parlamenta un Padomes 2005.gada 6.jūlija regulu (EK) Nr.1159/2005] [turpmāk - regula (EK) Nr. 2236/95].
+(3) Šo likumu piemēro projektiem, kuri tiek iesniegti apstiprināšanai Eiropas Komisijā līdz 2013.gada 31.decembrim.
+(4) Šo likumu nepiemēro telekomunikāciju projektiem.
