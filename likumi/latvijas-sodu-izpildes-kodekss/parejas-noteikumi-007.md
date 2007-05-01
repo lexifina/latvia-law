@@ -1,0 +1,1 @@
+7. Tiesas nolēmumi par nosacītu pirmstermiņa atbrīvošanu no soda izciešanas un nosacītu notiesāšanu, kas stājušies spēkā pirms 2007.gada 1.jūnija, izpildāmi pēc šā kodeksa 115.¹ panta un 30.nodaļas nosacījumiem tiktāl, ciktāl šie nosacījumi nav pretrunā ar tiesas nolēmumā noteikto.

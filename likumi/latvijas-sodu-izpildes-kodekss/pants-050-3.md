@@ -1,7 +1,7 @@
-50.3 pants. Soda izpildes režīma noteikšana
+50.³ pants. Soda izpildes režīma noteikšana
 Notiesātie slēgtajos un daļēji slēgtajos cietumos sodu izcieš trijās režīma pakāpēs - zemākajā, vidējā un augstākajā.
 Soda izpildes režīmu slēgtajos cietumos un daļēji slēgtajos cietumos nosaka šis kodekss, kas paredz soda izpildes režīma:
 1) pakāpenisku mīkstināšanu, lai sagatavotu notiesāto atbrīvošanai un veicinātu viņa iekļaušanos dzīvē pēc soda izciešanas;
 2) pastiprināšanu, lai nodrošinātu likumā noteiktajām prasībām atbilstošu notiesātā uzvedību.
-Notiesāto var pārvietot no slēgtā cietuma soda izciešanas režīma augstākās pakāpes uz daļēji slēgtā cietuma soda izciešanas režīma augstāko pakāpi pēc tam, kad izciesta ne mazāk kā puse no soda laika, bet no daļēji slēgtā cietuma soda izciešanas režīma augstākās pakāpes uz atklāto cietumu - pēc tam, kad izciestas ne mazāk kā divas piektdaļas no soda laika, ievērojot nosacījumu, ka notiesātais nav bijis disciplināri sodīts un tas veicinās viņa iekļaušanos dzīvē pēc atbrīvošanas.
+Notiesāto var pārvietot no slēgtā cietuma soda izciešanas režīma augstākās pakāpes uz daļēji slēgtā cietuma soda izciešanas režīma augstāko pakāpi pēc tam, kad izciesta ne mazāk kā puse no soda laika, bet no daļēji slēgtā cietuma soda izciešanas režīma augstākās pakāpes uz atklāto cietumu - pēc tam, kad izciestas ne mazāk kā divas piektdaļas no soda laika, ievērojot nosacījumu, ka notiesātajam nav spēkā esošu sodu par soda izciešanas režīma prasību pārkāpumiem vai administratīvo sodu un tas veicinās viņa iekļaušanos dzīvē pēc atbrīvošanas.
 Ja notiesātajam šajā kodeksā noteiktajā kārtībā bijis piemērots disciplinārais sods par atsevišķu rupju pārkāpumu vai sistemātiskiem pārkāpumiem, viņu ar brīvības atņemšanas iestādes administratīvās komisijas lēmumu var pārvietot no atklātā cietuma uz daļēji slēgtā cietuma soda izciešanas režīma zemāko pakāpi, bet no daļēji slēgtā cietuma - uz slēgtā cietuma soda izciešanas režīma zemāko pakāpi.

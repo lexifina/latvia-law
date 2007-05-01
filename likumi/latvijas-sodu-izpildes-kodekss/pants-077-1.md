@@ -1,0 +1,4 @@
+77.¹ pants. Kārtība, kādā izmantojams notiesātajām piešķirtais vienreizējais bērna piedzimšanas pabalsts
+Vienreizējo bērna piedzimšanas pabalstu mātēm, kuras uzturas brīvības atņemšanas iestādē ar bērniem, ieskaita notiesātās mātes personiskajā kontā un izmaksā ne agrāk kā mātes atbrīvošanas dienā.
+Izņēmuma gadījumos - saskaņā ar bērna ārsta norādījumiem un saņemot brīvības atņemšanas iestādes priekšnieka atļauju - notiesātā var izmantot vienreizējo bērna piedzimšanas pabalstu bērna ārstniecības nolūkos.
+Ja beidzas šā likuma 77.panta piektajā daļā noteiktais laiks, kuru bērns var pavadīt kopā ar māti brīvības atņemšanas iestādē pilnā valsts apgādībā, un bērns tiek nodots aizbildnībā vai bērnu aprūpes iestādē, pabalsts vai atlikusī pabalsta summa tiek pārskaitīta attiecīgi aizbildnim vai bērnu aprūpes iestādei.

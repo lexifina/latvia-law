@@ -6,3 +6,4 @@ Darbus un amatus, kuros aizliegts nodarbināt notiesātos, reglamentē Brīvība
 Par padarīto darbu maksā Ministru kabineta noteiktajā kārtībā. Stundas tarifa likmi aprēķina atbilstoši normatīvajiem aktiem par darba samaksas noteikšanu un šā kodeksa 52.panta pirmajā daļā noteiktajam darba laikam.
 Brīvības atņemšanas iestādēs notiesātos iesaista darbā bez darba līguma noslēgšanas. Katru notiesāto darbā iesaista ar brīvības atņemšanas iestādes priekšnieka rīkojumu.
 Darba devēji, kas nodarbina notiesātos, drīkst izmantot nodokļu likumos paredzētos nodokļu atvieglojumus.
+Kārtību, kādā komersanti tiek iesaistīti notiesāto nodarbinātības organizēšanā, un kārtību, kādā slēdzami līgumi notiesāto nodarbinātības organizēšanai, nosaka Ministru kabinets.

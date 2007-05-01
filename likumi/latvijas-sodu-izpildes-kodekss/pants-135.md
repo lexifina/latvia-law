@@ -1,3 +1,6 @@
 135.pants. Nosacījumi, kas jāievēro notiesātajiem, kuriem piespriests piespiedu darbs
 Soda izciešanas laikā piespiedu darbā iesaistītajiem jāievēro darbavietā pieņemtie iekšējās kārtības noteikumi, darba disciplīna, darba drošības un darba aizsardzības noteikumi, godprātīgi jāveic uzdotais darbs, jāizpilda darba devēja norādījumi, katru dienu jānostrādā noteiktais stundu skaits.
 Ja notiesātais slimības vai citu viņam svarīgu iemeslu dēļ nav spējīgs veikt darbu, viņš par to paziņo piespiedu darba izpildes institūcijai, kas, atzīstot notiesātā darbā neierašanās iemeslus par attaisnojošiem, var soda izpildīšanu apturēt uz laiku, ne ilgāku par vienu nedēļu, vai uz slimošanas laiku, izdarot par to attiecīgu ierakstu personas lietā. Notiesātā atvaļinājums pamatdarba vietā vai mācību atvaļinājums nav pamats soda izpildes apturēšanai.
+Notiesātais soda izciešanas laikā nedrīkst izbraukt no valsts bez piespiedu darba izpildes institūcijas rakstveida piekrišanas.
+Notiesātajam ir pienākums ierasties piespiedu darba izpildes institūcijā tās noteiktajā laikā.
+Soda izciešanas laikā notiesātais piespiedu darba izpildes institūcijā un piespiedu darba izpildes vietā nedrīkst atrasties alkohola, narkotisko vai psihotropo vielu reibumā.

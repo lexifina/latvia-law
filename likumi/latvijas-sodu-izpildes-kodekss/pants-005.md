@@ -5,4 +5,4 @@ Kriminālsodus, kas piespriesti kā pamatsodi, izpilda:
 3) tiesu izpildītāji - naudas sodu un mantas konfiskāciju;
 4) Valsts probācijas dienests - piespiedu darbu.
 Kriminālsodus, kas piespriesti kā papildsodi, izpilda tiesu izpildītāji un ministriju pārraudzībā vai pakļautībā esošās iestādes atbilstoši savai kompetencei.
-Ja tiesa piespriedusi sodu nosacīti, tad šāda sprieduma izpildi kontrolē un notiesātā uzvedību pārbaudes laikā uzrauga Valsts probācijas dienests.
+Ja tiesa piespriedusi sodu nosacīti vai nosacīti pirms termiņa atbrīvojusi no brīvības atņemšanas soda vai aresta izciešanas, šāda tiesas nolēmuma izpildi kontrolē un notiesātos uzrauga Valsts probācijas dienests.
