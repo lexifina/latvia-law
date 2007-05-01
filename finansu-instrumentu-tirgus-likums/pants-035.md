@@ -8,3 +8,4 @@
 (2) Ja objektīvu iemeslu dēļ valdi nav iespējams sasaukt, par finanšu instrumentu tirdzniecības apturēšanu un tirgus organizētāja biedru darbības apturēšanu ir tiesīgs lemt speciāli deleģēts valdes loceklis.
 (3) (Izslēgta ar 15.06.2006. likumu.)
 (4) Tirgus organizētāja attiecīgajai pārvaldes institūcijai ir pienākums pašai vai pēc Komisijas pieprasījuma nekavējoties atsaukt no amata valdes vai padomes locekļus, ja tie neatbilst šā likuma prasībām.
+(5) Šā panta pirmās daļas 1., 2. un 3.punktā noteiktos valdes pienākumus tirgus organizētājs var deleģēt tirgus organizētāja padomes apstiprinātajai neatkarīgu ekspertu komitejai, kuras darbību regulē tirgus organizētāja padomes apstiprināts nolikums.
