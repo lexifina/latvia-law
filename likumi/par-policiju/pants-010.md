@@ -17,5 +17,8 @@ Saskaņā ar policijas uzdevumiem policijas darbinieka pamatpienākumi atbilsto�
 15) (izslēgts ar 15.06.2000. likumu);
 16) gādāt par liecinieku, cietušo, citu personu un to ģimenes locekļu drošību, kā arī par viņu mantas apsardzību, ja apdraudēta šo personu dzīvība, veselība vai manta sakarā ar palīdzību, ko tās sniegušas tiesībaizsardzības iestādēm noziedzīgu nodarījumu atklāšanā un novēršanā;
 17) izpildīt tiesu (tiesnešu), prokuroru lēmumus par to personu piespiedu atvešanu, kuras izvairās no ierašanās pēc izsaukuma, kā arī izpildīt tiesu lēmumus par apcietinājumu;
-18) reģistrēt un uzskaitīt ceļu satiksmes negadījumus, kurus dokumentāri noformē Valsts policijas darbinieki.
+18) reģistrēt un uzskaitīt ceļu satiksmes negadījumus, kurus dokumentāri noformē Valsts policijas darbinieki;
+19) kontrolēt ūdens satiksmes drošības noteikumu ievērošanu iekšējos ūdeņos, kā arī atpūtas kuģu reģistrācijas noteikumu ievērošanu;
+20) reģistrēt un uzskaitīt ūdens satiksmes negadījumus iekšējos ūdeņos, kā arī personas, kuras uzskatāmas par cietušām un bojā gājušām ūdens satiksmes negadījumos.
 Ceļu satiksmes negadījumu veidus, personu loku, kuras uzskatāmas par cietušām un bojā gājušām ceļu satiksmes negadījumos, kā arī ceļu satiksmes negadījumu reģistrēšanas un uzskaites, reģistrējamo ziņu saņemšanas un izsniegšanas kārtību un apjomu nosaka Ministru kabinets.
+Ūdens satiksmes negadījumu reģistrēšanas un uzskaites, reģistrējamo ziņu saņemšanas un izsniegšanas kārtību un apjomu nosaka Ministru kabinets.
