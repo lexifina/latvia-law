@@ -14,7 +14,7 @@ Civilās aviācijas aģentūra:
 4) izstrādā pasākumus gaisa kuģu lidojumu un civilās aviācijas drošības garantēšanai, kā arī uzrauga Aviācijas meklēšanas un glābšanas koordinācijas centra darbību;
 5) pieprasa no juridiskajām un fiziskajām personām, kuru darbība saistīta ar Latvijas Republikas gaisa telpas izmantošanu vai civilās aviācijas līdzekļu ekspluatāciju, savu funkciju pildīšanai nepieciešamo informāciju;
 6) reģistrē civilās aviācijas gaisa kuģus Latvijas Republikas Civilās aviācijas gaisa kuģu reģistrā;
-7) uzrauga gaisa telpas izmantošanu;
+7) (izslēgts ar 29.03.2007. likumu);
 8) (izslēgts ar 12.06.2003. likumu);
 9) sagatavo normatīvos aktus, kuri regulē civilās aviācijas darbību;
 10) sadarbojas ar citu valstu valdību pilnvarotām aviācijas institūcijām Latvijas Republikas gaisa telpas izmantošanas un civilās aviācijas darbības valsts uzraudzības un gaisa kuģu meklēšanas un glābšanas jomā;

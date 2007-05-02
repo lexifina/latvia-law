@@ -1,0 +1,2 @@
+55.¹ pants. Meteoroloģisko pakalpojumu sniedzēji
+Valsts akciju sabiedrība "Latvijas gaisa satiksme" un valsts aģentūra "Latvijas Vides, ģeoloģijas un meteoroloģijas aģentūra" ir meteoroloģisko pakalpojumu sniedzēji Latvijas Republikā Eiropas Parlamenta un Padomes 2004.gada 10.marta regulas (EK) Nr. 550/2004 par aeronavigācijas pakalpojumu sniegšanu vienotajā Eiropas gaisa telpā (Pakalpojumu sniegšanas regula) izpratnē.

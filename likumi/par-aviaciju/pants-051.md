@@ -1,2 +1,2 @@
 51. pants. Noteiktos maksājumus nenokārtojuša gaisa kuģa izlidošanas aizkavēšana
-Civilās aviācijas lidlauka vai Latvijas Republikas gaisa telpas izmantošanas un gaisa satiksmes organizēšanas valsts komercsabiedrības administrācija vai tās pilnvarota persona var aizkavēt gaisa kuģa izlidošanu līdz šā likuma 28. pantā noteikto maksājumu nokārtošanai vai garantiju sniegšanai par šo maksājumu nokārtošanu.
+Civilās aviācijas lidlauka vai valsts akciju sabiedrības "Latvijas gaisa satiksme" administrācija vai tās pilnvarota persona var aizkavēt gaisa kuģa izlidošanu līdz šā likuma 28. pantā noteikto maksājumu nokārtošanai vai garantiju sniegšanai par šo maksājumu nokārtošanu.

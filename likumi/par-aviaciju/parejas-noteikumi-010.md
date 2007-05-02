@@ -1,0 +1,1 @@
+10. Grozījumi attiecībā uz vārdu "Aviācijas nelaimes gadījumu un incidentu izmeklēšanas birojs" aizstāšanu visā likumā ar vārdiem "Transporta nelaimes gadījumu un incidentu izmeklēšanas birojs" stājas spēkā 2007.gada 1.jūlijā.
