@@ -6,7 +6,7 @@ Likumā ir lietoti šādi termini:
 4) autopārvadājums - jebkura autotransporta līdzekļa pārvietošanās pa ceļu, pārvadājot pasažierus vai kravu;
 5) autopārvadājumu vadītājs - pārvadātāja pilnvarota fiziskā persona, kas vada pārvadājumu operācijas;
 6) autotransporta līdzeklis - transportlīdzeklis ar motoru (izņemot traktorus un pašgājējas mašīnas), kuru lieto pasažieru vai kravas pārvadāšanai pa bezsliežu ceļiem. Piekabes un puspiekabes tiek uzskatītas par autotransporta līdzekļa daļu;
-7) autovadītājs - persona, kas uz tiesiska pamata vada autotransporta līdzekli. Autovadītājs vienlaikus var būt arī autotransporta līdzekļa īpašnieks;
+7) autovadītājs - persona, kas uz tiesiska pamata vada autotransporta līdzekli;
 8) ātri bojājošās kravas - lauksaimniecības un zivju produkti, kā arī cita krava, kuru pārvadājot jāievēro īpašs temperatūras režīms un kura jāpārvadā ar specializētiem autotransporta līdzekļiem;
 9) bagāža - lietas, kuras pasažieris ved sev līdzi vai nosūta ar autotransporta līdzekli;
 10) beramā krava - krava, kas sastāv no birstošas masas un tiek pārvadāta neiesaiņota (smiltis, graudi un cita līdzīga krava);

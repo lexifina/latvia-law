@@ -1,1 +1,0 @@
-8. Šā likuma 49. panta pirmās daļas noteikumi attiecas uz starptautiskajos pārvadājumos iesaistītajiem transportlīdzekļiem, kas pirmo reizi reģistrēti pēc 1988. gada 1. janvāra, un iekšzemes pārvadājumos iesaistītajiem transportlīdzekļiem, kas tiek pirmo reizi reģistrēti pēc 2003. gada 1. janvāra.

@@ -1,3 +1,4 @@
 5.² pants. Autotransporta inspekcija
 (1) Autotransporta inspekcija ir satiksmes ministra pārraudzībā esoša tiešās pārvaldes iestāde, kuras darbības mērķis ir, veicot autopārvadājumu uzraudzību un kontroli, nodrošināt Latvijas Republikas normatīvajiem aktiem un Latvijas Republikai saistošiem starptautiskajiem normatīvajiem aktiem atbilstošus autopārvadājumus.
 (2) Autotransporta inspekcijas inspektoru formas tērpa un dienesta apliecības paraugu apstiprina Ministru kabinets.
+(3) Lai kontrolētu autopārvadājumu atbilstību normatīvo aktu prasībām, Autotransporta inspekcijas amatpersonas ir tiesīgas apturēt autobusus un transportlīdzekļus, kas paredzēti kravu pārvadāšanai. Kārtību, kādā Autotransporta inspekcijas amatpersonas aptur autobusus un transportlīdzekļus, kas paredzēti kravu pārvadāšanai, nosaka Ministru kabinets.

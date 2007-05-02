@@ -7,4 +7,4 @@
 5) Latvijas dalību starptautisko autopārvadājumu nolīgumu darbības ietvaros izveidoto kopējo komisiju, Eiropas transporta ministru konferences (ETMK) Autotransporta grupas un citu ar autotransporta nozari saistītu starptautisku organizāciju sanāksmēs;
 6) transportlīdzekļa vadītāja darba un atpūtas laika uzskaites digitālās kontrolierīces (tahogrāfa) karšu izsniegšanu, anulēšanu un apturēšanu uz laiku Ministru kabineta noteiktajā kārtībā;
 7) atļauju izsniegšanu starptautiskajiem pasažieru un kravas pārvadājumiem ar autotransportu.
-(2) Autotransporta direkcija par sniegtajiem publiskajiem pakalpojumiem iekasē maksu satiksmes ministra noteiktajā apmērā. Ministru kabinets nosaka kārtību, kādā tiek aprēķināti publisko maksas pakalpojumu izcenojumi.
+(2) Ministru kabinets izdod noteikumus par to pakalpojumu cenrāža apstiprināšanu, kurus Autotransporta direkcija sniedz, pildot tai deleģētos valsts pārvaldes uzdevumus.

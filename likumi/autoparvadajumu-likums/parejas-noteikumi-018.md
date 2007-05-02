@@ -1,0 +1,1 @@
+18. Šā likuma 39.panta 5.¹ daļa stājas spēkā 2007.gada 1.augustā. Ministru kabinets līdz 2007.gada 1.augustam nosaka šā likuma 39.panta 5.¹ daļā minēto kārtību, kādā ārpusē uz vieglā taksometra virsbūves tiek norādīta pārvadātāja noteiktā maksa (tarifi) par pasažieru un bagāžas pārvadājumu pakalpojumiem ar vieglo taksometru.
