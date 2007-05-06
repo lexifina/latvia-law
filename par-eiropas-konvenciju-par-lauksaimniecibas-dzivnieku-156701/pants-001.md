@@ -1,0 +1,1 @@
+1.pants. 1976.gada 10.marta Eiropas konvencija par lauksaimniecības dzīvnieku aizsardzību (turpmāk - Konvencija) un 1992.gada 6.februāra Eiropas konvencijas par lauksaimniecības dzīvnieku aizsardzību grozījumu protokols (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.

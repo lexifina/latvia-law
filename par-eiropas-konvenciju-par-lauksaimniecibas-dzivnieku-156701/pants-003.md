@@ -1,0 +1,1 @@
+3.pants. Konvencija stājas spēkā tās 14.pantā noteiktajā laikā un kārtībā, Protokols stājas spēkā tā 7.pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo laikrakstā "Latvijas Vēstnesis".
