@@ -1,0 +1,1 @@
+Protocol drawn up on the basis of Article K.3 of the Treaty on European Union, on the scope of the laundering of proceeds in the Convention on the use of information technology for customs purposes and the inclusion of the registration number of the means of transport in the Convention

@@ -1,0 +1,1 @@
+Protokols, kas izstrādāts, pamatojoties uz K3. pantu Līgumā par Eiropas Savienību, par nelegāli iegūtu ieņēmumu legalizēšanas apjomu Konvencijā par informāciju tehnoloģiju izmantošanu muitas vajadzībām un par transportlīdzekļa reģistrācijas numura iekļaušanu konvencijā
