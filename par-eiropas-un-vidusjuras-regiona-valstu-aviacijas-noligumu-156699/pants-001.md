@@ -1,0 +1,1 @@
+1.pants. 2006.gada 12.decembrī Briselē parakstītais Eiropas un Vidusjūras reģiona valstu aviācijas nolīgums starp Eiropas Kopienu un tās dalībvalstīm, no vienas puses, un Marokas Karalisti, no otras puses (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.
