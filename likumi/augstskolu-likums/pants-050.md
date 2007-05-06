@@ -9,4 +9,5 @@
 7) vēlēt un tikt ievēlētiem studējošo pašpārvaldē, līdzdarboties augstskolas visu līmeņu pašpārvaldes institūcijās;
 8) noteiktā kārtībā kā klausītājiem apmeklēt citas augstskolas mācību pasākumus un kārtot nepieciešamos pārbaudījumus;
 9) dibināt biedrības, pulciņus un klubus.
+(1¹) Augstskolu un koledžu studentiem, kuri bija labprātīgi pieteikušies obligātajam militārajam dienestam un tam bija piekritusi Aizsardzības ministrija, pēc atvaļināšanas no obligātā militārā dienesta, bet ne vēlāk kā līdz 2008.gada 31.decembrim ir tiesības atsākt studijas pirms dienesta uzsāktajā studiju programmā.
 (2) Augstskolas studējošo intereses attiecībās ar valsts institūcijām pārstāv studējošo pašpārvalde.
