@@ -1,0 +1,1 @@
+4.¹ pants. Latvijas Republikas paziņojums par šā likuma 3.¹ pantā minēto Konvencijas papildinājumu nepiemērošanu stājas spēkā Konvencijas 42.pantā noteiktajā kārtībā, un Ārlietu ministrija par to paziņo laikrakstā "Latvijas Vēstnesis".
