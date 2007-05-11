@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Finanšu un kapitāla tirgus komisijas 2007.gada 2.maija normatīvie noteikumi Nr.60 \"Minimālo kapitāla prasību aprēķināšanas noteikumi\"",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "75 (3651)",
+  "official_journal_page": null,
+  "official_journal_date": "2007-05-10",
+  "entry_into_force": "2007-05-11",
+  "notification_date": "2013-06-12",
+  "commission_reference": "MNE(2013)54862",
+  "nim_celex": "72011L0089LVA_205699",
+  "nim_id": "205699",
+  "transposes_celex": [
+    "32011L0089"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/00bd45e5-8ff4-4ff8-b11d-cba67f01208f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
