@@ -1,0 +1,1 @@
+1.pants. 2006.gada 16.oktobra Nolīgums starp Eiropas Savienību un Amerikas Savienotajām Valstīm par gaisa pārvadātāju veikto pasažieru datu reģistra (PDR) datu apstrādi un pārsūtīšanu Amerikas Savienoto Valstu Iekšzemes drošības departamentam (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
