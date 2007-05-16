@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Riska darījumu ierobežojumu izpildes noteikumi",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "78",
+  "official_journal_page": null,
+  "official_journal_date": "2007-05-16",
+  "entry_into_force": null,
+  "notification_date": "2007-12-20",
+  "commission_reference": "MNE(2007)59107",
+  "nim_celex": "72006L0048LVA_152003",
+  "nim_id": "152003",
+  "transposes_celex": [
+    "32006L0048",
+    "32006L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7e2979de-4769-43aa-b65d-586bcc8ceb67",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
