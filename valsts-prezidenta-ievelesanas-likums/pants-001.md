@@ -1,0 +1,1 @@
+1.pants. Par Valsts prezidentu var ievēlēt Latvijas pilsoni, kurš vēlēšanu dienā ir sasniedzis 40 gadu vecumu un kuram nav citas valsts pilsonības, ja uz viņu neattiecas kāds no šā likuma 3.pantā minētajiem ierobežojumiem.

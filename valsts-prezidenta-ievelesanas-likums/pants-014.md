@@ -1,0 +1,1 @@
+14.pants. Ja jaunievēlētais Valsts prezidents atsakās dot svinīgo solījumu Saeimas Prezidija noteiktajā dienā, tiek rīkotas jaunas Valsts prezidenta vēlēšanas. Kandidatūru iesniegšanas termiņu un Valsts prezidenta vēlēšanu dienu nosaka Saeimas Prezidijs.

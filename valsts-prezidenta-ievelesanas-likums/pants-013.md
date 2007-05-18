@@ -1,0 +1,2 @@
+13.pants. (1) Ja Saeimas pilnvaru termiņa izbeigšanās dēļ nav iespējams ievērot šajā likumā noteiktos kandidātu pieteikšanas un Valsts prezidenta vēlēšanu termiņus, Valsts prezidentu ievēlē jaunievēlētā Saeima.
+(2) Šajā gadījumā kandidatūras Valsts prezidenta amatam iesniedzamas Saeimas Prezidijam rakstveidā ne agrāk kā 10 dienas un ne vēlāk kā 15 dienas pēc jaunievēlētās Saeimas pilnvaru pirmās dienas. Valsts prezidenta vēlēšanām Saeimas Prezidijs sasauc Saeimas sēdi ne agrāk kā 20 dienas un ne vēlāk kā 30 dienas pēc jaunievēlētās Saeimas pilnvaru pirmās dienas.

@@ -1,0 +1,1 @@
+9.pants. Ja Valsts prezidenta vēlēšanu pēdējā kārtā neviens kandidāts nav ieguvis ievēlēšanai nepieciešamo balsu skaitu, tiek rīkotas jaunas vēlēšanas. Kandidatūras jaunām Valsts prezidenta vēlēšanām izvirza ne vēlāk kā piecas dienas pēc pēdējās vēlēšanu kārtas.
