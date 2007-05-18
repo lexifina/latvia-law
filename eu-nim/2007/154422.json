@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 02.09.2003 noteikumi Nr.491 'Teļu labturības prasības' ar pēdējiem grozījumiem, kas izdarīti 18.05.2007.",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "80",
+  "official_journal_page": null,
+  "official_journal_date": "2007-05-18",
+  "entry_into_force": null,
+  "notification_date": "2008-03-18",
+  "commission_reference": "MNE(2008)51679",
+  "nim_celex": "71991L0629LVA_154422",
+  "nim_id": "154422",
+  "transposes_celex": [
+    "31991L0629",
+    "31997L0002",
+    "32008L0119"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c94b75f5-1203-4aaf-9293-b5cc14c720ae",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
