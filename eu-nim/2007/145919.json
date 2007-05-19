@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabinete 2007.gada 15.maija noteikumi nr.325 \"Darba aizsardzības prasības saskarē ar ķīmiskajām vielām darba vietās\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "80",
+  "official_journal_page": null,
+  "official_journal_date": "2007-05-18",
+  "entry_into_force": "2007-05-19",
+  "notification_date": "2007-06-19",
+  "commission_reference": "MNE(2007)54614",
+  "nim_celex": "71991L0322LVA_145919",
+  "nim_id": "145919",
+  "transposes_celex": [
+    "31991L0322",
+    "31998L0024",
+    "32000L0039",
+    "32004L0037",
+    "32006L0015"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d8c15b11-fa1f-4c42-afc3-d1700a724353",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
