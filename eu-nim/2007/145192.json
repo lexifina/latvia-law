@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Uz iekšējiem reitingiem balstītās pieejas, attīstītās mērīšanas pieejas, iekšējā modeļa metodes un riskam pakļautās vērtības iekšējā modeļa zmantošanas atļauju saņemšanas noteikumi",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "80",
+  "official_journal_page": null,
+  "official_journal_date": "2007-05-18",
+  "entry_into_force": "2007-05-21",
+  "notification_date": "2007-05-18",
+  "commission_reference": "MNE(2007)54150",
+  "nim_celex": "72006L0048LVA_145192",
+  "nim_id": "145192",
+  "transposes_celex": [
+    "32006L0048",
+    "32006L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e15f4a50-7891-4706-8d09-413fde5bc024",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
