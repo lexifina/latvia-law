@@ -1,0 +1,5 @@
+22.¹ pants. (1) Pilsētas, novada vai pagasta vēlēšanu komisijas lēmumu par kandidātu saraksta pieņemšanu vai atteikumu pieņemt kandidātu sarakstu, kā arī tās lēmumu par pieteiktā kandidāta svītrošanu no reģistrētā kandidātu saraksta var apstrīdēt Centrālajā vēlēšanu komisijā triju darbdienu laikā no attiecīgā lēmuma pieņemšanas dienas.
+(2) Centrālā vēlēšanu komisija izskata sūdzību un pieņem lēmumu triju dienu laikā no sūdzības saņemšanas dienas. Centrālās vēlēšanu komisijas lēmumu triju darbdienu laikā no tā pieņemšanas dienas var pārsūdzēt tiesā.
+(3) Lai izpildītu tiesas spriedumu, ar kuru tiek atcelts pilsētas, novada vai pagasta vēlēšanu komisijas lēmums par kandidātu saraksta pieņemšanu vai atteikumu pieņemt kandidātu sarakstu, vai pieteiktā kandidāta svītrošanu no reģistrētā kandidātu saraksta, pilsētas, novada vai pagasta vēlēšanu komisija:
+1) pieņem kandidātu sarakstu vai atsaka pieņemt attiecīgo kandidātu sarakstu;
+2) pieteikto kandidātu atjauno reģistrētajā kandidātu sarakstā vai svītro no tā.

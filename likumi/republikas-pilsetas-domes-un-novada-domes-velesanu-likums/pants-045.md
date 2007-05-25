@@ -1,1 +1,2 @@
-45. pants. Ne vēlāk kā 10 dienu laikā pēc vēlēšanu rezultātu paziņošanas pilsētas, novada vai pagasta vēlēšanu komisijas priekšsēdētājs uzaicina jaunievēlētos deputātus uz pirmo domes (padomes) sēdi.
+45. pants. (1) Ne agrāk kā 10 dienas un ne vēlāk kā 20 dienas pēc vēlēšanu rezultātu paziņošanas pilsētas, novada vai pagasta vēlēšanu komisijas priekšsēdētājs uzaicina jaunievēlētos deputātus uz pirmo domes (padomes) sēdi.
+(2) Lai izpildītu tiesas spriedumu, ar kuru atstāts negrozīts vēlēšanu komisijas lēmums par vēlēšanu rezultātu apstiprināšanu, pilsētas, novada vai pagasta vēlēšanu komisijas priekšsēdētājs uzaicina jaunievēlētos deputātus uz pirmo domes (padomes) sēdi 10 dienu laikā pēc tiesas sprieduma pasludināšanas dienas.

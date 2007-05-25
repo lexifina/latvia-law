@@ -1,5 +1,5 @@
 41. pants. (1) Pilsētas, novada un pagasta vēlēšanu komisijas vēlēšanu rezultātus aprēķina pēc protokoliem, ko tās saņēmušas no vēlēšanu iecirkņu komisijām.
-(2) Deputātu vietu sadalē Rīgas Domē nepiedalās tie viena nosaukuma kandidātu saraksti, kuri Rīgas Domes vēlēšanās saņēmuši mazāk nekā piecus procentus no nodoto balsu kopskaita. Par nodoto balsu kopskaitu (vēlēšanās piedalījušos vēlētāju kopskaitu) uzskatāms derīgo vēlēšanu aplokšņu skaits.
+(2) Deputātu vietu sadalē pašvaldībā, kuras administratīvajā teritorijā vēlēšanu izsludināšanas dienā Iedzīvotāju reģistrā ir reģistrēti ne mazāk kā 20 000 iedzīvotāju, nepiedalās tie kandidātu saraksti, kuri šīs pašvaldības vēlēšanās saņēmuši mazāk nekā piecus procentus no nodoto balsu kopskaita. Par nodoto balsu kopskaitu (vēlēšanās piedalījušos vēlētāju kopskaitu) uzskatāms derīgo vēlēšanu aplokšņu skaits.
 (3) Lai sadalītu domes (padomes) deputātu vietas starp kandidātu sarakstiem, piemēro šādu kārtību:
 1) nosaka par katru kandidātu sarakstu nodoto derīgo vēlēšanu zīmju skaitu;
 2) par katru kandidātu sarakstu nodoto vēlēšanu zīmju skaitu dala secīgi ar 1, 3, 5, 7 un tā tālāk, līdz dalījumu skaits ir vienāds ar kandidātu sarakstā pieteikto kandidātu skaitu;

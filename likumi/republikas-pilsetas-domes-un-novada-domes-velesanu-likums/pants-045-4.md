@@ -1,0 +1,2 @@
+45.⁴ pants. (1) Ja ir stājies spēkā tiesas spriedums, ar kuru atceļ attiecīgās pilsētas, novada vai pagasta vēlēšanu komisijas lēmumu par domes (padomes) vēlēšanu rezultātu apstiprināšanu, un ir pieņemts lēmums par atkārtotu vēlēšanu izsludināšanu, Centrālā vēlēšanu komisija likumā noteiktajā kārtībā izsludina attiecīgās domes (padomes) atkārtotas vēlēšanas.
+(2) No pieteikuma iesniegšanas dienas līdz dienai, kad stājas spēkā lēmums par atkārtoto vēlēšanu rezultātu apstiprināšanu, domes (padomes) darbu nodrošina esošā dome (padome).

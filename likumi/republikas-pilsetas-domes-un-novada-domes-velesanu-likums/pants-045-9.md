@@ -1,0 +1,2 @@
+45.⁹ pants. (1) Pilsētas, novada un pagasta vēlēšanu komisija pavairo uz attiecīgajām vēlēšanām nodrukātos kandidātu sarakstus.
+(2) Pilsētas, novada un pagasta vēlēšanu komisija ne vēlāk kā piecas dienas pirms atkārtotas balsošanas dienas izsūta visām iecirkņu komisijām vēlēšanu aploksnes un vēlēšanu zīmes. Ja atkārtota balsošana ir izsludināta atsevišķos vēlēšanu iecirkņos, vēlēšanu aploksnes un vēlēšanu zīmes izsūta attiecīgajām iecirkņu komisijām. Vēlēšanu aplokšņu izgatavošanu un sadali pilsētas, novada vai pagasta vēlēšanu komisijai nodrošina Centrālā vēlēšanu komisija.

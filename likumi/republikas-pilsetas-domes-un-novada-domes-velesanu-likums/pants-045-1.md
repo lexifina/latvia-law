@@ -1,0 +1,1 @@
+45.¹ pants. Kandidātu sarakstu iesniedzējiem, kā arī pieteiktajiem kandidātiem ir tiesības vēlēšanu komisijas lēmumu par vēlēšanu rezultātu apstiprināšanu triju darbdienu laikā pēc tā pieņemšanas dienas apstrīdēt Centrālajā vēlēšanu komisijā. Centrālā vēlēšanu komisija lēmumu pieņem triju dienu laikā.
