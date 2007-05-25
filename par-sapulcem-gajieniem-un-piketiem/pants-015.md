@@ -1,15 +1,8 @@
-15.pants. (1) Pieteikumu par sapulces, gājiena vai piketa rīkošanu izskata attiecīgās pašvaldības domes (padomes) priekšsēdētājs vai viņa pilnvarota pašvaldības amatpersona (turpmāk - pašvaldības amatpersona).
-(2) Par izskatīšanas laiku paziņo organizatoram. Ja nepieciešams, izskatīšanā pieaicina policijas un citu ieinteresēto organizāciju pārstāvjus.
-(3) Pieteikumu izskatot, pašvaldības amatpersona pārliecinās, vai:
-1) organizators ir ievērojis visas šā likuma prasības;
-2) pasākums netraucēs citus pasākumus, par kuriem pieteikumi ir iesniegti jau iepriekš;
-3) pasākuma rīkošana paredzētajā laikā un vietā neradīs būtiskus transporta vai gājēju kustības traucējumus, neapdraudēs sabiedrisko drošību vai sabiedrisko kārtību.
-(4) Pēc tam, kad pašvaldības amatpersona izskatījusi pieteikumu par sapulces, gājiena vai piketa rīkošanu, tā veic vienu no šādām darbībām:
-1) izsniedz izziņu, kas apliecina, ka pašvaldībai nav iebildumu pret pasākuma rīkošanu;
-2) izsniedz izziņu, kas apliecina, ka pašvaldībai nav iebildumu pret pasākuma rīkošanu, nosakot ierobežojumus pasākuma rīkošanai;
-3) izsniedz motivētu atteikumu.
-(5) Pēc tam, kad izsniegta šā panta ceturtās daļas 1. vai 2.punktā minētā izziņa, attiecīgā vietējā pašvaldība veic visas nepieciešamās darbības, lai nodrošinātu pasākuma netraucētu norisi. Izziņā tiek norādīts pasākuma veids, laiks, vieta, vadītājs, vadītāja palīgs un kārtības uzturētājs.
-(6) Ja organizators nav ievērojis šā likuma prasības vai ja pasākums var apdraudēt valsts un sabiedrības drošību, labklājību un tikumību, kā arī citu cilvēku tiesības un brīvības, izraisīt nekārtības vai noziedzīgus nodarījumus, pašvaldības amatpersona nekavējoties informē organizatoru par konstatētajiem trūkumiem, norādot, ka gadījumā, ja minētie trūkumi netiks novērsti, attiecībā uz pasākuma rīkošanu tiks izsniegts atteikums. Organizatoram ir tiesības novērst norādītos trūkumus un iesniegt jaunu pieteikumu šā likuma 14.pantā noteiktajā kārtībā.
-(7) Lai novērstu šā panta sestajā daļā minētos apdraudējumus, pašvaldības amatpersona kopīgi ar organizatoru izskata nepieciešamās izmaiņas pasākuma norises vietā, laikā vai gājiena maršrutā. Pēc tam, kad pasākuma vieta, laiks vai gājiena maršruts ir mainīts, pašvaldības amatpersona izsniedz izziņu, kas apliecina to, ka pašvaldībai nav iebildumu pret pasākuma rīkošanu. Ja pašvaldības amatpersona pamatoti uzskata, ka pasākuma rīkošana var apdraudēt valsts un sabiedrības drošību, labklājību un tikumību, tā var noteikt ierobežojumus pasākuma rīkošanai vai izsniegt motivētu atteikumu.
-(8) Pašvaldības amatpersona var noteikt tādus ierobežojumus, lai vairāki pasākumi netraucētu cits cita norisei un lai netiktu apdraudēti attiecīgo pasākumu dalībnieki.
-(9) Pašvaldības amatpersona var noteikt tādus ierobežojumus, lai sapulce, gājiens vai pikets netraucētu tāda publiska pasākuma norisi un neapdraudētu tā dalībniekus, kurš tiek rīkots svētku, atceres vai atzīmējamās dienās un atbilst attiecīgo dienu raksturam.
+15.pants. (1) Pēc pieteikuma saņemšanas pašvaldība pārliecinās, vai ir ievērotas visas šā likuma prasības.
+(2) Papildus šā panta pirmajā daļā norādītajam pašvaldība pārliecinās, vai:
+1) pasākums netraucēs citus publiskus pasākumus, valsts vai pašvaldības rīkotus pasākumus vai iepriekš pieteiktas sapulces, gājienus vai piketus;
+2) pasākuma rīkošana paredzētajā laikā un vietā neradīs būtiskus transporta vai gājēju kustības traucējumus;
+3) pasākuma rīkošana paredzētajā laikā, vietā un veidā neapdraudēs citu cilvēku tiesības, demokrātisko valsts iekārtu, sabiedrības drošību, labklājību vai tikumību.
+(3) Lai novērstu šā panta otrajā daļā minētos apdraudējumus, pašvaldība kopīgi ar organizatoru izskata, kādas izmaiņas nepieciešamas pasākuma norises vietā, laikā vai veidā. Izskatīšanā pieaicina policijas un, ja nepieciešams, citu ieinteresēto institūciju pārstāvjus.
+(4) Izskatot pieteikumu par sapulces, gājiena vai piketa rīkošanu, pašvaldība ņem vērā policijas un citu kompetentu valsts institūciju atzinumu par šā panta otrajā daļā minētajiem apdraudējumiem.
+(5) Pašvaldība ir tiesīga noteikt pasākuma norisei tādus ierobežojumus, lai netiktu apdraudēti attiecīgā pasākuma dalībnieki un tiktu novērsti šā panta otrajā daļā minētie apdraudējumi.

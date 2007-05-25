@@ -1,2 +1,2 @@
 III nodaļa
-Pieteikumu iesniegšana
+Pieteikuma iesniegšana un izskatīšana

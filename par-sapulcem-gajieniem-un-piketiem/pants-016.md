@@ -1,1 +1,3 @@
-16.pants.
+16.pants.(1) Pašvaldība ir tiesīga pieņemt lēmumu aizliegt pasākuma norisi, ja ir konstatēts, ka tā rīkošana apdraudēs citu cilvēku tiesības, demokrātisko valsts iekārtu, sabiedrības drošību, labklājību vai tikumību.
+(2) Šā panta pirmajā daļā minēto lēmumu pašvaldība ir tiesīga pieņemt ne vēlāk kā piecas darbdienas pirms pieteiktā pasākuma norises dienas. Ja pasākums pieteikts, ievērojot šā likuma 13.panta otrās daļas otrajā teikumā noteikto kārtību un termiņu, šā panta pirmajā daļā minēto lēmumu pašvaldība ir tiesīga pieņemt ne vēlāk kā sešas stundas pirms pieteiktā pasākuma norises.
+(3) Ja apstākļi, kas norāda uz to, ka pasākuma rīkošana apdraudēs citu cilvēku tiesības, demokrātisko valsts iekārtu, sabiedrības drošību, labklājību vai tikumību, ir noskaidroti pēc šā panta otrajā daļā noteiktā termiņa, pašvaldība minēto lēmumu ir tiesīga pieņemt pēc attiecīgo apstākļu noskaidrošanas.

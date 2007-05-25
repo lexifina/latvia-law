@@ -1,8 +1,3 @@
-13.pants. (1) Pieteikums nav jāiesniedz par:
-1) slēgtām sapulcēm;
-2) piketiem, kuri netiek organizēti vai publiski izsludināti;
-3) sapulcēm un gājieniem, kurus rīko valsts iestādes, kā arī pašvaldības;
-4) (izslēgts ar 18.03.2004. likumu);
-5) sapulcēm, kuras rīko arodbiedrības darbavietu telpās vai teritorijā, kā arī īrētās telpās;
-6) atklātām sapulcēm, kuras tiek rīkotas telpās.
-(2) Jebkurā gadījumā pieteikums iesniedzams, ja sapulce, gājiens vai pikets traucē transporta un gājēju kustību.
+13.pants. (1) Pieteikums iesniedzams pašvaldībai, kuras administratīvajā teritorijā ir paredzēts attiecīgais pasākums. Ja pasākums notiek vairāku pašvaldību administratīvajā teritorijā, pieteikums iesniedzams visām attiecīgajām pašvaldībām. Pieteikuma norakstu pašvaldība nosūta attiecīgajai teritoriālajai Valsts policijas struktūrvienībai.
+(2) Pieteikumu iesniedz ne vēlāk kā 10 darbdienas pirms attiecīgā pasākuma norises. Ja pieteikumu nav iespējams iesniegt šajā termiņā, jo par notikumu, saistībā ar kuru attiecīgais pasākums tiek rīkots, objektīvi nebija iespējams uzzināt agrāk kā 10 darbdienas pirms attiecīgā notikuma, tad pieteikumu par sapulces, gājiena vai piketa rīkošanu iesniedz pēc iespējas agrāk, bet ne vēlāk kā 24 stundas pirms plānotā pasākuma norises.
+(3) Par pieteikuma iesniegšanas laiku pašvaldības darbinieki izdara atzīmi uz pieteikuma eksemplāra, kas paliek pie iesniedzēja.
