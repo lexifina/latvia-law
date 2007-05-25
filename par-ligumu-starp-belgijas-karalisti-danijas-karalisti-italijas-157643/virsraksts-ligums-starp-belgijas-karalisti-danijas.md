@@ -1,0 +1,1 @@
+Līgums starp Beļģijas Karalisti, Dānijas Karalisti, Itālijas Republiku, Īriju, Luksemburgas Lielhercogisti, Nīderlandes Karalisti, Vācijas Federatīvo Republiku, Eiropas Atomenerģijas kopienu (Euratom) un Starptautisko atomenerģijas aģentūru, kas noslēgts, pildot III panta 1. un 4.punktu Līgumā par kodolieroču neizplatīšanu

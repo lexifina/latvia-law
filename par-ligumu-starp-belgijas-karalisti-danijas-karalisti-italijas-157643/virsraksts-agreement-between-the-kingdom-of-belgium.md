@@ -1,0 +1,1 @@
+Agreement between the Kingdom of Belgium, the Kingdom of Denmark, the Federal Republic of Germany, Ireland, the Italian Republic, the Grand Duchy of Luxembourg, the Kingdom of the Netherlands, the European Atomic Energy Community and the International Atomic Energy Agency in implementation of Article III (1) and (4) of the Treaty on the non-proliferation of nuclear weapons
