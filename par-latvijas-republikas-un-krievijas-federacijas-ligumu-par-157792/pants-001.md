@@ -1,0 +1,1 @@
+1.pants. 2007.gada 27.martā Maskavā parakstītais Latvijas Republikas un Krievijas Federācijas līgums par Latvijas un Krievijas valsts robežu (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts, ievērojot Eiropas Drošības un sadarbības organizācijas pieņemto robežu nemainības principu.
