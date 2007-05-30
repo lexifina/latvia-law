@@ -3,7 +3,7 @@
 (2) Darba ņēmēji, kuri sasnieguši vecumu, kas dod tiesības saņemt valsts vecuma pensiju, ir pakļauti pensiju apdrošināšanai, maternitātes un slimības apdrošināšanai un darba negadījumu apdrošināšanai. Darba ņēmēji, kuri ir izdienas pensiju saņēmēji vai III grupas invalīdi - valsts speciālo pensiju saņēmēji, ir pakļauti pensiju apdrošināšanai, invaliditātes apdrošināšanai, maternitātes un slimības apdrošināšanai un darba negadījumu apdrošināšanai.
 (3) Pašnodarbinātie, kuru ienākumi sasniedz Ministru kabineta noteikto obligāto iemaksu objekta minimālo apmēru, ir pakļauti pensiju apdrošināšanai, invaliditātes apdrošināšanai, maternitātes un slimības apdrošināšanai, bet pašnodarbinātie, kuri sasnieguši vecumu, kas dod tiesības saņemt valsts vecuma pensiju, ir pakļauti pensiju apdrošināšanai, maternitātes un slimības apdrošināšanai.
 (4) Papildus šā panta pirmajā, otrajā un trešajā daļā minētajām personām pensiju apdrošināšanai ir pakļauti:
-1) obligātā aktīvā militārā dienesta karavīri un alternatīvā dienesta veicēji;
+1) (izslēgts ar 26.04.2007. likumu);
 2) personas, kuras kopj bērnu, kas nav sasniedzis pusotra gada vecumu;
 3) personas, kuras saņem bezdarbnieka pabalstu;
 4) nestrādājoši invalīdi;
@@ -13,7 +13,7 @@
 8) personas, kuras atrodas attiecīgajā ārvalstī dienesta pienākumus pildoša karavīra laulātā statusā, izņemot gadījumu, kad karavīrs piedalās starptautiskajā operācijā, militārajās mācībās, manevros vai atrodas komandējumā;
 9) personas, kuras saņem bērna invalīda kopšanas pabalstu.
 (5) Papildus šā panta pirmajā daļā minētajām personām apdrošināšanai pret bezdarbu ir pakļauti:
-1) obligātā aktīvā militārā dienesta karavīri un alternatīvā dienesta veicēji;
+1) (izslēgts ar 26.04.2007. likumu);
 2) personas, kuras kopj bērnu, kas nav sasniedzis pusotra gada vecumu;
 3) personas, kuras saņem maternitātes vai slimības pabalstu;
 4) personas, kuras saņem atlīdzību par adoptējamā bērna aprūpi;
