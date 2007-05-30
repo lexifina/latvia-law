@@ -1,0 +1,3 @@
+11.² pants. Fondēto pensiju shēmas līdzekļu pārvaldes pakalpojumu deleģēšana
+(1) Ja ieguldījumu plāna prospektā ir sniegta informācija par atsevišķiem ar valsts fondēto pensiju shēmas līdzekļu pārvaldīšanu saistītiem pakalpojumiem, kurus fondēto pensiju shēmas līdzekļu pārvaldītājs plāno nodot (deleģēt) citām personām, fondēto pensiju shēmas līdzekļu pārvaldītājs ievēro Ieguldījumu pārvaldes sabiedrību likumā noteikto ieguldījumu pārvaldes pakalpojumu nodošanas (deleģēšanas) kārtību.
+(2) Piemērojot šā panta pirmo daļu, ieguldījumu plāns ir pielīdzināms ieguldījumu fondam Ieguldījumu pārvaldes sabiedrību likuma izpratnē.
