@@ -1,12 +1,11 @@
 15.pants. Nacionālā reģionālās attīstības padome
-(1) Reģionālās attīstības un teritorijas plānošanas koordinācijai valstī izveido Nacionālo reģionālās attīstības padomi.
-(2) Nacionālās reģionālās attīstības padomes priekšsēdētājs ir reģionālās attīstības un pašvaldību lietu ministrs. Padomes sastāvā ir ekonomikas ministrs, finanšu ministrs, labklājības ministrs, izglītības un zinātnes ministrs, satiksmes ministrs, zemkopības ministrs, vides ministrs, kultūras ministrs, ministrs, kas atbildīgs par Eiropas Savienības līdzekļu apguves jautājumiem, un plānošanas reģionu attīstības padomju priekšsēdētāji vai viņu norīkotie pārstāvji.
-(3) Nacionālās reģionālās attīstības padomes nolikumu apstiprina Ministru kabinets.
-(4) Nacionālā reģionālās attīstības padome attiecībā uz reģionālo attīstību veic šādas funkcijas:
-1) izvērtē reģionālās politikas pamatnostādnes pirms apstiprināšanas Ministru kabinetā;
-2) izvērtē nacionālo attīstības plānu pirms apstiprināšanas Ministru kabinetā;
-3) izvērtē nacionālā plānojuma, nacionālā attīstības plāna, plānošanas reģionu attīstības programmu un teritoriju plānojumu savstarpējo atbilstību un lemj par priekšlikumiem šo plānojumu un programmu savstarpējai saskaņošanai;
-4) nodrošina reģionālās attīstības plānošanas un tās atbalsta pasākumu saskaņotību starp nozarēm un reģioniem;
-5) koordinē reģionālās attīstības plānošanas un tās atbalsta pasākumu īstenošanu;
-6) izvērtē projektu finansējuma sadalījumu pa reģioniem investīciju un uzņēmējdarbības atbalsta programmās;
-7) veic citas normatīvajos aktos noteiktās funkcijas.
+1) Reģionālās attīstības, teritorijas plānošanas un zemes politikas koordinācijai valstī Ministru kabinets izveido Nacionālo reģionālās attīstības padomi.
+(2) Nacionālās reģionālās attīstības padomes sastāvā vienādā skaitā ietilpst valsts pārvaldes institūciju pārstāvji un pārstāvji no plānošanas reģioniem un pašvaldībām. Nacionālās reģionālās attīstības padomes priekšsēdētājs ir reģionālās attīstības un pašvaldību lietu ministrs.
+(3) Nacionālā reģionālās attīstības padome attiecībā uz reģionālo attīstību, teritorijas plānošanu un zemes politiku veic šādas funkcijas:
+1) izvērtē politikas plānošanas dokumentu un normatīvo aktu projektus reģionālās politikas, teritorijas plānošanas un zemes politikas jomā;
+2) izvērtē reģionālā līmeņa attīstības plānošanas dokumentus, sekmējot to savstarpējo saskaņotību un koordināciju ar valsts līmeņa politikas plānošanas dokumentiem;
+3) izskata ziņojumus par reģionālās politikas, teritorijas plānošanas un zemes politikas īstenošanas gaitu un sniedz priekšlikumus minēto politiku pilnveidošanai;
+4) izvērtē priekšlikumus par reģionālās attīstības atbalsta pasākumiem un ziņojumus par attiecīgo pasākumu ieviešanas efektivitāti, nodrošinot reģionālās attīstības atbalsta pasākumu savstarpējo koordināciju;
+5) izvērtē kritērijus reģionālās attīstības atbalsta pasākumu finansējuma teritoriālajam sadalījumam;
+6) veic citas normatīvajos aktos noteiktās funkcijas.
+(4) Nacionālās reģionālās attīstības padomes pārstāvju skaitu un viņu izvirzīšanas kārtību, kā arī šīs padomes darba organizāciju nosaka Ministru kabinets.
