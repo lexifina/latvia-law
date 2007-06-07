@@ -3,7 +3,7 @@
 1) bāreņiem un bez vecāku gādības palikušiem bērniem, ja nav iespējams nodrošināt viņu aprūpi un audzināšanu audžuģimenē vai pie aizbildņa;
 2) pensijas vecuma personām un invalīdiem ar redzes vai fiziska rakstura traucējumiem, ja nepieciešamais pakalpojuma apjoms pārsniedz aprūpei mājās vai dienas aprūpes un sociālās rehabilitācijas institūcijā noteikto apjomu;
 3) bērniem ar smagiem garīgās attīstības traucējumiem, ja nepieciešamais pakalpojuma apjoms pārsniedz aprūpei mājās vai dienas aprūpes un sociālās rehabilitācijas institūcijā noteikto apjomu;
-4) pilngadīgām personām ar smagiem garīgā rakstura traucējumiem, kurām nav nepieciešama atrašanās specializētā ārstniecības iestādē un kuru stāvoklis neapdraud apkārtējos, ja nepieciešamais pakalpojuma apjoms pārsniedz aprūpei mājās vai dienas aprūpes un sociālās rehabilitācijas institūcijā noteikto apjomu.
+4) pilngadīgām personām ar smagiem garīga rakstura traucējumiem, kurām nav nepieciešama atrašanās specializētā ārstniecības iestādē un kuru stāvoklis neapdraud apkārtējos, ja nepieciešamā pakalpojuma apjoms pārsniedz aprūpei mājās, dienas aprūpes centrā vai grupu mājā (dzīvoklī) noteikto sociālās aprūpes un sociālās rehabilitācijas pakalpojuma apjomu.
 (2) Pakalpojuma sniegšanu ilgstošas aprūpes un sociālās rehabilitācijas institūcijā pilngadīgai personai var pārtraukt, ja:
 1) persona apdraud citu personu veselību, dzīvību vai sistemātiski pārkāpj noslēgtā līguma noteikumus;
 2) personai rehabilitācijas rezultātā vairs nav nepieciešami ilgstošas aprūpes un sociālās rehabilitācijas institūcijas pakalpojumi un tos var nomainīt ar pakalpojumiem dzīvesvietā;

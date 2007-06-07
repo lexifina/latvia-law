@@ -1,0 +1,1 @@
+13. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2007.gada 1.oktobrim piemērojami Ministru kabineta 2003.gada 27.maija noteikumi Nr.285 "Kārtība, kādā personas saņem tehniskos palīglīdzekļus", ciktāl tie nav pretrunā ar šo likumu.
