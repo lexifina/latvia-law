@@ -10,7 +10,7 @@
 3) dzimšanas apliecības kopiju;
 4) divas fotokartītes (35x45 mm);
 5) ārvalstu pilsonis - Latvijas Republikā atzīta derīga ceļošanas dokumenta kopiju, kurā norādīta pilsonība, bezvalstnieks - Latvijas Republikā atzīta derīga ceļošanas dokumenta kopiju;
-6) rakstveida apliecinājumu tam, ka personai nav tādu veselības traucējumu vai slimību, kas apdraud sabiedrības drošību un tās locekļu veselību un ir minēti Veselības ministrijas apstiprinātajā sarakstā;
+6) rakstveida apliecinājumu tam, ka personai nav tādu veselības traucējumu vai slimību, kas apdraud sabiedrības drošību un tās locekļu veselību un kas noteiktas saskaņā ar Imigrācijas likumu;
 7) pilsonības vai mītnes zemes kompetentas iestādes izziņu par sodāmību (personām, kas vecākas par 14 gadiem);
 8) rakstveida apliecinājumu, kurā norādīta paredzētā dzīvesvieta Latvijas Republikā.
 (3) Repatrianta ģimenes loceklis, kurš vēlas ieceļot Latvijas Republikā kopā ar repatriantu, iesniedz:
@@ -18,7 +18,7 @@
 2) dzimšanas apliecības kopiju;
 3) divas fotokartītes (35x45 mm);
 4) ārvalstu pilsonis - Latvijas Republikā atzīta derīga ceļošanas dokumenta kopiju, kurā norādīta pilsonība, bezvalstnieks - Latvijas Republikā atzīta derīga ceļošanas dokumenta kopiju;
-5) rakstveida apliecinājumu tam, ka personai nav tādu veselības traucējumu vai slimību, kas apdraud sabiedrības drošību un tās locekļu veselību un ir minēti Veselības ministrijas apstiprinātajā sarakstā;
+5) rakstveida apliecinājumu tam, ka personai nav tādu veselības traucējumu vai slimību, kas apdraud sabiedrības drošību un tās locekļu veselību un kas noteiktas saskaņā ar Imigrācijas likumu;
 6) pilsonības vai mītnes zemes kompetentas iestādes izziņu par sodāmību (personām, kas vecākas par 14 gadiem);
 7) dokumentu, kas apliecina laulību vai radniecību;
 8) rakstveida apliecinājumu, kurā norādīta paredzētā dzīvesvieta Latvijas Republikā.
