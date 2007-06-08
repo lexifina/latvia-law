@@ -1,0 +1,1 @@
+1.pants. 2007.gada 19.janvārī Minskā parakstītais Latvijas Republikas valdības un Baltkrievijas Republikas valdības protokols par grozījumiem 1993.gada 18.augusta Latvijas Republikas valdības un Baltkrievijas Republikas valdības vienošanās par robežu caurlaides punktiem (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.

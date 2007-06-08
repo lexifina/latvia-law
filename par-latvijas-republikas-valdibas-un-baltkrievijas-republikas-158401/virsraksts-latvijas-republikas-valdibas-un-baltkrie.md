@@ -1,0 +1,1 @@
+Latvijas Republikas valdības un Baltkrievijas Republikas valdības PROTOKOLS par grozījumiem 1993.gada 18.augusta Latvijas Republikas valdības un Baltkrievijas Republikas valdības vienošanās par robežas caurlaides punktiem
