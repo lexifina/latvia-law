@@ -95,4 +95,5 @@
 81) par pārbaudījuma organizēšanu maksātnespējas procesa administratora kvalifikācijas iegūšanai;
 82) par maksātnespējas procesa administratora sertifikāta darbības termiņa pagarināšanu;
 83) par ārējo personas datu apstrādes sistēmu auditoru akreditāciju;
-84) par ārējā personas datu apstrādes sistēmas auditora akreditācijas termiņa pagarināšanu, apliecības dublikāta izsniegšanu un akreditācijas darbības atjaunošanu.
+84) par ārējā personas datu apstrādes sistēmas auditora akreditācijas termiņa pagarināšanu, apliecības dublikāta izsniegšanu un akreditācijas darbības atjaunošanu;
+85) par ietekmes uz vidi sākotnējā izvērtējuma veikšanu.
