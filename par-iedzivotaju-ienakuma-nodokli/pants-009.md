@@ -18,11 +18,12 @@
 16) kompensācijas izmaksas likumos un Ministru kabineta noteikto normu ietvaros, izņemot kompensāciju par neizmantoto atvaļinājumu;
 17) ar Ministru kabineta lēmumu noteiktā apgāde natūrā, kā arī summas, kas izmaksātas šīs apgādes vietā;
 18) atlīdzība par asiņu nodošanu un cita veida donorpalīdzību;
-19) ienākumi no sava īpašuma pārdošanas, izņemot ienākumu no:
+19) ienākumi no sava īpašuma atsavināšanas, izņemot ienākumu no:
 a) pārdošanai izgatavotas vai iegādātas lietas (ķermeniskas vai bezķermeniskas) pārdošanas,
-b) fiziskās personas īpašumā esoša augoša meža pārdošanas izciršanai un tajā iegūto kokmateriālu pārdošanas, ja mežs ir bijis šīs personas īpašumā mazāk par 12 mēnešiem,
-c) tāda nekustamā īpašuma pārdošanas, kas ir bijis personas īpašumā mazāk par 12 mēnešiem,
+b) fiziskās personas īpašumā esoša augoša meža atsavināšanas izciršanai un tajā iegūto kokmateriālu atsavināšanas, ja mežs ir bijis šīs personas īpašumā mazāk par 36 mēnešiem,
+c) (izslēgts ar 17.05.2007. likumu),
 d) personāla akciju atpirkšanas;
+19¹) ienākums no tāda nekustamā īpašuma atsavināšanas, kas maksātāja īpašumā (no dienas, kad attiecīgais nekustamais īpašums reģistrēts zemesgrāmatā) ir ilgāk par 60 mēnešiem un vismaz divpadsmit mēnešus līdz atsavināšanas līguma noslēgšanas brīdim ir personas deklarētā dzīvesvieta (kas nav deklarēta kā maksātāja papildu adrese).
 20) palīdzība, kas sniegta, pamatojoties uz arodbiedrības institūcijas lēmumu, no arodbiedrības naudas līdzekļiem, kuri veidojas no arodbiedrības biedru naudas maksājumiem un ārvalstu arodbiedrību ziedojumiem (dāvinājumiem) - gada neapliekamā minimuma apmērā;
 21) (izslēgts ar 19.12.2006. likumu);
 22) summas, kas izmaksātas kā valsts atbalsts lauksaimniecībai vai Eiropas Savienības atbalsts lauksaimniecībai un lauku attīstībai;
@@ -33,7 +34,8 @@ d) personāla akciju atpirkšanas;
 27) palīdzība naudā vai citās lietās, vai pakalpojuma veidā, kas sniegta no sabiedriskā labuma organizācijas (izņemot reliģisko organizāciju) līdzekļiem, vai palīdzība, ko budžeta finansētas institūcijas, labdarības vai filantropiskas organizācijas sniegušas lietās, kurām piemērots atbrīvojums no muitas nodokļa, - gada neapliekamā minimuma apmērā;
 28) kompensācija par īres līguma izbeigšanu un dzīvojamo telpu atbrīvošanu denacionalizēta vai likumīgajam īpašniekam atdota nama īrniekam, kurš attiecīgajā namā dzīvojis līdz īpašuma tiesību atjaunošanai likumīgajam īpašniekam (viņa mantiniekam);
 29) ienākums, kas gūts, sniedzot palīdzību vai slepeni sadarbojoties ar operatīvās darbības subjektiem;
-30) uzturēšanas līdzekļi, kas saņemti no speciālās aizsardzības iestādes.
+30) ienākums no fiziskajai personai piederošu ieguldījumu fondu ieguldījumu apliecību pārdošanas;
+31) uzturēšanas līdzekļi, kas saņemti no speciālās aizsardzības iestādes.
 2. Šā panta pirmās daļas 1., 10., 14., 16., 20., 25. un 27.punktā minēto ienākumu, ja tie pārsniedz attiecīgās šajos punktos noteiktās summas (normas) lielumu, pārsnieguma summa tiek aplikta ar nodokli.
 3. Uz nerezidenta Latvijā gūto ienākumu nav attiecināmi šā panta noteikumi, izņemot nerezidentu, kurš ir citas Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts rezidents un kurš taksācijas gadā Latvijā guvis vairāk par 75 procentiem no saviem kopējiem ienākumiem, kā arī izņemot gadījumus, ja nerezidents ir guvis šā panta pirmās daļas 14. un 17.punktā minētos ienākumus vai šā panta pirmās daļas 16.punktā minētās kompensāciju izmaksas, lai segtu personas izdevumus sakarā ar darba vai amata pienākumu veikšanu komandējumos vai darba braucienos.
 3.¹ Šā panta pirmās daļas 1.punktā minētā lauksaimnieciskā ražošana šā likuma izpratnē ir augkopības (arī koku stādu audzēšana, sēņu audzēšana, savvaļas ogu audzēšana), lopkopības (arī truškopība, putnkopība, biškopība un zvērkopība), iekšējo ūdeņu zivsaimniecības (zivju audzēšana privātajās ūdenstilpēs vai fiziskajai personai lietošanā nodotajās ūdenstilpēs) un dārzkopības (arī puķkopība, siltumnīcu saimniecība) produkcijas ražošana. Par maksātāja saimniecības lauksaimnieciskās ražošanas produkciju šā likuma izpratnē uzskatāma augu vai dzīvnieku valsts produkcija, kas tiek realizēta sākotnējā (nepārstrādātā) veidā vai pēc pirmapstrādes. Maksātāja saimniecībā pārdošanai sagatavotā lauksaimnieciskās ražošanas produkcija var būt ar augstāku pārstrādes pakāpi, ja visa pārstrāde (izņemot lopu kaušanu) ir veikta pašā saimniecībā.
@@ -45,3 +47,4 @@ d) personāla akciju atpirkšanas;
 3) tās pētniecības darba vai radošā darba atbalstam.
 5. Šā panta pirmās daļas 7.punkta izpratnē pabalsti ir arī saskaņā ar Ministru kabineta noteikumiem piešķirtie mūža granti valsts emeritētajiem zinātniekiem un Kultūrkapitāla fonda piešķirtās mūža stipendijas kultūras un mākslas darbiniekiem par nopelniem kultūras un mākslas attīstībā.
 6. Ministru kabinets nosaka kārtību, kādā stipendijām no šā panta pirmās daļas 8.punktā minēto fondu vai starptautisko izglītības vai sadarbības programmu līdzekļiem piešķirams atbrīvojums no aplikšanas ar iedzīvotāju ienākuma nodokli.
+7. Ja tiek atsavināta nekustamā īpašuma daļa, kas neietver dzīvojamo ēku, bet nekustamais īpašums personas īpašumā (no dienas, kad attiecīgais nekustamais īpašums reģistrēts zemesgrāmatā) ir ilgāk par 60 mēnešiem un vismaz divpadsmit mēnešus līdz atsavināšanas līguma noslēgšanas brīdim ir personas deklarētā dzīvesvieta (kas nav deklarēta kā maksātāja papildu adrese), ienākums no šīs nekustamā īpašuma daļas atsavināšanas ir apliekams ar nodokli, izņemot šā likuma 11.⁷ pantā noteiktos gadījumus.
