@@ -7,4 +7,5 @@
 5) uzlikt kredītiestādei par pienākumu mazināt risku, kas saistīts ar tās darījumiem, pakalpojumiem un sistēmām;
 6) lūgt Latvijas Banku pārtraukt tās kredītu izsniegšanu kredītiestādei;
 7) uzlikt šajā likumā paredzētas soda naudas.
-(3) Finanšu un kapitāla tirgus komisijas izdotā administratīvā akta pārsūdzēšana saistībā ar šajā pantā minētajiem jautājumiem neaptur tā izpildi.
+(3) Finanšu un kapitāla tirgus komisija ir tiesīga īstenot vienu vai vairākus šā panta otrajā daļā minētos pasākumus, ja kādas no kredītiestādes konsolidācijas grupā esošo komercsabiedrību darbībām apdraud vai var apdraudēt attiecīgās kredītiestādes vai visa kredītiestāžu sektora stabilu darbību, traucē pienācīgi veikt darījumus vai sniegt finanšu pakalpojumus.
+(4) Finanšu un kapitāla tirgus komisijas izdotā administratīvā akta pārsūdzēšana saistībā ar šajā pantā minētajiem jautājumiem neaptur tā izpildi.
