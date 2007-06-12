@@ -1,0 +1,1 @@
+8. Šā likuma grozījumi attiecībā uz 17. un 20.panta izslēgšanu un 19.panta izteikšanu jaunā redakcijā stājas spēkā 2007.gada 1.oktobrī. Līdz attiecīgo grozījumu spēkā stāšanās dienai šā likuma 17., 19. un 20.pantā ar terminu "uzņēmumu ceļš" saprotams komersantu ceļš šā likuma 3.panta pirmās un 1.¹ daļas izpratnē.

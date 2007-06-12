@@ -1,6 +1,6 @@
-22. pants. Valsts akciju sabiedrības "Latvijas Valsts ceļi" tiesības autoceļu lietošanas un aizsardzības nodrošināšanā
-Autoceļu lietošanas un aizsardzības nodrošināšanai valsts akciju sabiedrības "Latvijas Valsts ceļi" darbiniekiem ir tiesības:
-- apturēt un novietot ārpus ceļa braucamās daļas vai ceļa klātnes transportlīdzekļus, kuri bojā, piesārņo vai piegružo ceļu vai kuru svars un gabarīti neatbilst noteiktajām normām vai aizkavē kustību;
-- kopā ar ceļu policijas darbiniekiem aizturēt transportlīdzekļu vadītājus vai citas fiziskās personas, kuras bojā, piesārņo vai piegružo ceļus;
-- sastādīt administratīvo pārkāpumu protokolus gadījumos, kad pārkāpts šis likums un Ministru kabineta noteikumi par autoceļu valsts aizsardzību;
-- aizvākt no ceļa klātnes pamestos transportlīdzekļus un kravas priekšmetus, kas apdraud satiksmes drošību.
+22. pants. Autoceļa īpašnieka tiesības autoceļu lietošanas un aizsardzības nodrošināšanā
+Lai nodrošinātu autoceļa lietošanu un aizsardzību, autoceļa īpašniekam ir šādas tiesības:
+1) aizvākt no autoceļa klātnes un ceļu zemes nodalījuma joslas izbirušus kravas priekšmetus, kokmateriālus, kā arī augošus un gāztus kokus vai krūmus un citas lietas, kas apdraud satiksmes drošību vai traucē autoceļa uzturēšanu, un pieprasīt juridiskajām vai fiziskajām personām ar šo priekšmetu pārvietošanu un uzglabāšanu saistīto zaudējumu atlīdzināšanu;
+2) pieaicināt kompetentās iestādes vai amatpersonas, lai apturētu transportlīdzekli, kas bojā vai piesārņo autoceļu vai pārsniedz normatīvajos aktos noteiktos gabarītus, svaru vai ass slodzi, kā arī pieprasīt juridiskajām vai fiziskajām personām, lai minētais transportlīdzeklis tiktu novietots ārpus autoceļa braucamās daļas;
+3) atbilstoši normatīvajiem aktiem pārtraukt jebkuru neatļautu darbību, kas ir pretrunā ar šajā likumā un citos normatīvajos aktos noteikto autoceļu lietošanas, saglabāšanas un aizsardzības kārtību, un pieprasīt juridiskajām vai fiziskajām personām ar neatļautās darbības seku likvidēšanu saistīto zaudējumu atlīdzināšanu;
+4) normatīvajos aktos noteiktajā kārtībā pieprasīt juridiskajām vai fiziskajām personām autoceļa īpašniekam nodarīto zaudējumu atlīdzināšanu.

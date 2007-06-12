@@ -2,11 +2,12 @@
 (1) Visi Latvijas autoceļi pēc to nozīmes iedalāmi:
 - valsts autoceļos;
 - pašvaldību ceļos;
-- uzņēmumu (lauksaimniecības, mežsaimniecības, energosaimniecības u. c. uzņēmumu) ceļos;
+- komersantu ceļos;
 - māju ceļos.
+(1¹) Šā likuma izpratnē ar terminu "komersantu ceļi" saprotami arī ceļi, kas pieder uzņēmumiem (uzņēmējsabiedrībām) kā tiesību subjektiem, kā arī citām privāto tiesību juridiskajām personām.
 (2) Māju ceļš nesavieno citus augstāka līmeņa ceļus.
 (3) Valsts autoceļi iedalāmi:
-- galvenajos valsts autoceļos, kas Latvijas Republikas ceļu tīklu savieno ar citu valstu ceļu tīklu un Latvijas Republikas galvaspilsētu - ar rajonu administratīvajiem centriem;
-- 1. šķiras valsts autoceļos, kas rajonu administratīvos centrus savieno savā starpā un citus republikas nozīmes administratīvos, saimnieciskos un kultūras centrus - savā starpā un ar rajonu administratīvajiem centriem vai ar valsts autoceļiem;
-- 2. šķiras valsts autoceļos. Tie ir pārējie valsts autoceļi, kuri par tādiem noteikti saskaņā ar Latvijas Republikas Satiksmes ministrijas un pašvaldību iestāžu vienošanos.
-(4) Autoceļu sarakstus apstiprina Ministru kabinets.
+1) galvenajos autoceļos, kas valsts autoceļu tīklu savieno ar citu valstu galveno ceļu tīklu un galvaspilsētu - ar nozīmīgākajiem rajonu administratīvajiem centriem;
+2) 1.šķiras autoceļos, kas rajonu administratīvos centrus, kā arī citus valsts nozīmes administratīvos, saimnieciskos un kultūras centrus savieno savā starpā vai ar rajonu administratīvajiem centriem, vai ar galvenajiem vai 1.šķiras autoceļiem;
+3) 2.šķiras autoceļos, kas pagastu vai novadu administratīvos centrus savieno savā starpā vai ar rajonu administratīvajiem centriem, vai ar citām vietējās nozīmes apdzīvotām vietām, saimnieciskajiem un kultūras centriem, vai ar valsts autoceļiem.
+(4) Valsts autoceļu un valsts autoceļu maršrutā ietverto pašvaldībām piederošo autoceļu posmu sarakstus nosaka Ministru kabinets.
