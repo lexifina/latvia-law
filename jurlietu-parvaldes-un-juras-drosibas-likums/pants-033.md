@@ -4,4 +4,4 @@
 (3) Ja šā panta otrajā daļā minētie dienesti netiek izveidoti, ostas kapteiņa pienākumus var pildīt ostas pārvaldnieks vai cita ostas pārvaldnieka norīkota atbilstoši sertificēta persona.
 (4) Ostas kapteinis vada ledlauža darbu ostas pievedceļos ledus navigācijas periodā.
 (5) Ostas kapteinis vada ostā notikušo avāriju seku likvidācijas darbus un cilvēku glābšanas darbus, ja to nosaka operatīvās rīcības plāni.
-(6) Ja ostā vai pieejā ostai noticis jūras negadījums, ostas kapteinis par to ziņo Krasta apsardzei un Latvijas Jūras administrācijai, bet piesārņojuma gadījumā - arī Valsts vides dienestam un nekavējoties uzsāk negadījuma izmeklēšanai nepieciešamo liecību un dokumentu vākšanu.
+(6) Ja ostā vai pieejā ostai noticis jūras negadījums, ostas kapteinis par to ziņo Krasta apsardzei, Transporta nelaimes gadījumu un incidentu izmeklēšanas birojam un Latvijas Jūras administrācijai, bet piesārņojuma gadījumā - arī Valsts vides dienestam un nekavējoties uzsāk negadījuma izmeklēšanai nepieciešamo liecību un dokumentu vākšanu.

@@ -1,10 +1,11 @@
 6.pants. Latvijas Jūras administrācijas kompetence
 (1) Latvijas Jūras administrācija atbilstoši normatīvajiem aktiem un starptautiskajām tiesību normām, kā arī savai kompetencei jūrlietās:
 1) uzrauga Kuģu reģistrā iekļauto kuģu atbilstību drošības prasībām, atzīst kuģu būves un modernizācijas tehniskos projektus un izsniedz kuģu sertifikātus;
+1¹) veic Kuģu reģistrā iekļauto kuģu tilpības mērīšanu un izsniedz tilpību apliecinošus dokumentus;
 2) apstiprina kuģu dokumentāciju;
 3) īsteno ostas valsts kontroli attiecībā uz ārvalstu kuģiem;
 4) kontrolē Starptautiskā drošas pārvaldes kodeksa (turpmāk - ISM kodekss) prasību izpildi attiecībā uz Kuģu reģistrā iekļautajiem kuģiem;
-5) izmeklē un analizē jūras negadījumus, kā arī veic jūrnieku profesionālās kompetences novērtēšanu, ja noticis pārkāpums, kas saistīts ar profesionālo pienākumu nepienācīgu izpildi vai neizpildi;
+5) veic jūrnieku profesionālās kompetences novērtēšanu, ja noticis pārkāpums, kas saistīts ar profesionālo pienākumu nepienācīgu izpildi vai neizpildi;
 6) kontrolē, kā Latvijas ūdeņos tiek ievērota kārtība, kādā sniedzami ziņojumi par pasažieriem uz kuģa, kā arī par bīstamām un piesārņojošām kravām;
 7) saskaņo ostu noteikumus kuģošanas drošības jautājumos un kontrolē to ievērošanu;
 8) izsniedz sertifikātus ločiem un kuģu satiksmes vadības (VTS) operatoriem, kā arī veic loču un kuģu satiksmes vadības (VTS) operatoru apmācības un kvalifikācijas pārbaužu uzraudzību;
@@ -25,8 +26,9 @@
 22) uzrauga atzīto aizsardzības organizāciju, kā arī klasifikācijas sabiedrību (atzīto organizāciju) darbību;
 23) veic atbildīgās organizācijas funkcijas Starptautiskā kuģu un ostu iekārtu aizsardzības kodeksa (turpmāk - ISPS kodekss) prasību ieviešanai un kontrolei;
 24) saskaņo kuģu, kuģošanas kompāniju, ostu un ostas iekārtu aizsardzības personāla apmācības programmu atbilstību ISPS kodeksa prasībām;
-25) uzrauga, lai kuģu īpašnieki, kā arī komersanti, kas kuģa īpašnieka vārdā komplektē apkalpi un iekārto personas darbā uz kuģiem, atbilstu 1978.gada Starptautiskajā konvencijā par jūrnieku sagatavošanu un diplomēšanu, kā arī sardzes pildīšanu un tās grozījumos noteiktajām prasībām;
+25) uzrauga, lai komersanti, kas komplektē apkalpi un iekārto personas darbā uz kuģiem, atbilstu prasībām, kuras noteiktas 1978.gada Starptautiskajā konvencijā par jūrnieku sagatavošanu un diplomēšanu, kā arī sardzes pildīšanu un tās grozījumos;
 26) izsniedz jūrnieku profesionālās apmācības instruktoriem un jūrnieku profesionālās kvalifikācijas vērtētājiem sertifikātus, kas apliecina viņu atbilstību 1978.gada Starptautiskajā konvencijā par jūrnieku sagatavošanu un diplomēšanu, kā arī sardzes pildīšanu un tās grozījumos noteiktajām prasībām;
 27) izsniedz atbilstības apliecību (sertifikātu) komersantam, kas veic kuģa drošības aprīkojuma pārbaudes.
-(2) Latvijas Jūras administrācija par sniegtajiem publiskajiem pakalpojumiem iekasē maksu satiksmes ministra noteiktajā apmērā. Ministru kabinets nosaka kārtību, kādā tiek aprēķināti publisko maksas pakalpojumu izcenojumi. Maksa par navigācijas pakalpojumiem tiek noteikta atbilstoši "Likumam par ostām".
+(2) Ministru kabinets izdod noteikumus par to pakalpojumu cenrāža apstiprināšanu, kurus Latvijas Jūras administrācija sniedz, pildot tai deleģētos valsts pārvaldes uzdevumus, kā arī nosaka to personu loku, kuras ir atbrīvojamas no samaksas par sniegtajiem pakalpojumiem. Maksa par navigācijas pakalpojumiem tiek noteikta atbilstoši "Likumam par ostām".
 (3) Lai veiktu šā panta pirmajā daļā minētās funkcijas, Latvijas Jūras administrācija nodrošina Jūrnieku reģistra, Kuģu reģistra, Kuģošanas drošības inspekcijas un Avāriju izmeklēšanas nodaļas, Kuģu un ostu aizsardzības inspekcijas, kā arī Hidrogrāfijas dienesta darbību.
+(4) Šā panta pirmajā daļā minēto funkciju īstenošanai pieņemtie Latvijas Jūras administrācijas lēmumi izpildāmi ar to spēkā stāšanās dienu. Šo lēmumu apstrīdēšana un pārsūdzēšana neaptur to darbību.

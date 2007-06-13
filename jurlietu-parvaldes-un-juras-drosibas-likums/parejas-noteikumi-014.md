@@ -1,0 +1,1 @@
+14. Transporta nelaimes gadījumu un incidentu izmeklēšanas birojs šā likuma 8.¹ pantā minētās funkcijas realizāciju uzsāk ar 2008.gada 1.janvāri. Līdz brīdim, kad šā likuma 8.¹ pantā minētās funkcijas realizāciju uzsāk Transporta nelaimes gadījumu un incidentu izmeklēšanas birojs, tās realizāciju nodrošina Latvijas Jūras administrācija.

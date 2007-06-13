@@ -6,7 +6,7 @@
 4) 1992.gada Konvencija par Baltijas jūras reģiona jūras vides aizsardzību (turpmāk - Helsinku konvencija);
 5) 1972.gada Konvencija par starptautiskajiem kuģu sadursmju novēršanas noteikumiem (turpmāk - COLREG konvencija);
 6) 1969.gada Starptautiskā konvencija par kuģu tilpības mērīšanu (turpmāk - Tilpības konvencija);
-7) Starptautiskās darba organizācijas 1976.gada Konvencija par minimālajām normām tirdzniecības kuģiem;
+7) Starptautiskās darba organizācijas 1976.gada Konvencija par minimālajām normām tirdzniecības kuģiem un tās 1996.gada protokols;
 8) 1978.gada Starptautiskā konvencija par jūrnieku sagatavošanu un diplomēšanu, kā arī sardzes pildīšanu ar grozījumiem (turpmāk - STCW konvencija);
 9) 1969.gada Pasaules veselības organizācijas Starptautiskie medicīniski sanitārie noteikumi.
 (2) Nosakot kuģu drošības prasību piemērošanu un kuģu drošības uzraudzības kārtību, tiek ņemtas vērā starptautisko normatīvo aktu prasības attiecībā uz:
@@ -42,3 +42,4 @@
 (5) Ministru kabinets var noteikt kārtību, kādā tiek izpildītas prasības, ko Helsinku konvencija vides piesārņojuma novēršanas jomā izvirza komercsabiedrībām, kuru darbība nav saistīta ar jūras transportu.
 (6) Latvijas Jūras administrācija vai tās pilnvarota kuģu klasifikācijas sabiedrība (atzītā organizācija) apliecina Latvijas kuģu būves un modernizācijas projektu dokumentācijas un kuģu aprīkojuma atbilstību starptautiskajām prasībām. Kuģu būvi, modernizāciju un remontu uzrauga Latvijas Jūras administrācija vai tās pilnvarota kuģu klasifikācijas sabiedrība (atzītā organizācija).
 (7) Uz Latvijas kuģiem ir jābūt dokumentācijai par kuģa stabilitāti, tilpības un kravas zīmes aprēķiniem, rīcības plāniem piesārņojuma likvidācijai avārijas gadījumā, kā arī šā panta pirmajā daļā minētajos starptautiskajos normatīvajos aktos noteiktajām rokasgrāmatām un citiem dokumentiem, kuru atbilstību starptautiskajām prasībām apliecinājusi Latvijas Jūras administrācija vai tās pilnvarota kuģu klasifikācijas sabiedrība (atzītā organizācija).
+(8) Ministru kabinets nosaka kārtību, kādā mēra kuģa tilpību un izsniedz tilpību apliecinošus dokumentus.
