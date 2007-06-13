@@ -1,0 +1,1 @@
+1.pants. 2007.gada 28.februārī Viļņā parakstītā Latvijas Republikas valdības un Lietuvas Republikas valdības vienošanās par grozījumu izdarīšanu 1995.gada 9.jūnija Nolīgumā starp Latvijas Republikas valdību un Lietuvas Republikas valdību par valsts robežas šķērsošanas vietām (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.
