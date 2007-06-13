@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Jūrlietu pārvaldes un jūras drošības likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "86",
+  "official_journal_page": null,
+  "official_journal_date": "2007-05-30",
+  "entry_into_force": "2007-06-13",
+  "notification_date": "2007-06-19",
+  "commission_reference": "MNE(2007)54736",
+  "nim_celex": "72005L0035LVA_146057",
+  "nim_id": "146057",
+  "transposes_celex": [
+    "32005L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0acf5ad3-10e7-47df-8156-549c64dbc91d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
