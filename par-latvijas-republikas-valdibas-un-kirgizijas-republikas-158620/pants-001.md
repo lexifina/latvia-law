@@ -1,0 +1,1 @@
+1.pants. 2006.gada 7.decembrī Biškekā parakstītais Latvijas Republikas valdības un Kirgīzijas Republikas valdības līgums par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma nodokļiem (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
