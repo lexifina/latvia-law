@@ -1,5 +1,5 @@
 84.¹ pants. Pārvadātāja pienākums sniegt pasažieru datus
-Pārvadātājam, kas veic starptautiskos lidojumus no trešās valsts uz Latvijas Republiku, ir pienākums stundas laikā pēc pasažieru iekāpšanas reģistrācijas pabeigšanas iesniegt Valsts robežsardzei datus par trešās valsts pilsoņiem un bezvalstniekiem, kas tiks pārvadāti līdz noteiktai valsts robežas šķērsošanas vietai, caur kuru šīs personas ieceļos Latvijas Republikā.
+Pārvadātājam, kas veic starptautiskos lidojumus no trešās valsts uz Latvijas Republiku, pēc Valsts robežsardzes pieprasījuma ir pienākums tūlīt pēc pasažieru iekāpšanas reģistrācijas pabeigšanas iesniegt Valsts robežsardzei datus par pasažieriem, kas tiks pārvadāti līdz noteiktai valsts robežas šķērsošanas vietai, caur kuru šīs personas ieceļos Latvijas Republikā.
 Pārvadātājs par šā panta pirmajā daļā minētajām personām sniedz šādus datus:
 1) pasažiera vārds un uzvārds;
 2) pasažiera dzimšanas datums;

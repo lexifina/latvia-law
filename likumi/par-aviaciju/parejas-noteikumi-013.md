@@ -1,0 +1,1 @@
+13. Līdz šā likuma 40.panta otrajā daļā minēto noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2007.gada 30.novembrim piemērojami Ministru kabineta 2007.gada 24.aprīļa noteikumi Nr.273 "Gaisa kuģu akrobātisko lidojumu noteikumi", ciktāl tie nav pretrunā ar šo likumu.

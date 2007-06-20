@@ -5,6 +5,6 @@ Par darbību, kas saistīta ar Latvijas Republikas gaisa telpas izmantošanu, uz
 3) šaušanu, kas var apdraudēt gaisa kuģu un citu materiālo objektu lidojumu drošību;
 4) spridzināšanas darbus, kas var apdraudēt gaisa kuģu un citu materiālo objektu lidojumu drošību;
 5) izpletņlēcēju desantēšanu.
-Šā panta pirmajā daļā paredzēto darbību un citu darbību, kas var radīt draudus gaisa kuģu un citu materiālo objektu lidojumu drošībai, veikšanas kārtību nosaka Ministru kabinets.
+Šā panta pirmajā daļā paredzētās darbības un citas darbības, kas var radīt draudus gaisa kuģu un citu materiālo objektu lidojumu drošībai, drīkst veikt tikai pēc attiecīgas atļaujas saņemšanas. Šo darbību veikšanas kārtību, kā arī attiecīgās atļaujas izsniegšanas kārtību nosaka Ministru kabinets.
 (Trešā daļa izslēgta ar 15.12.2005. likumu.)
 Ministru kabinets nosaka kārtību, kādā starptautisko publisko tiesību subjektiem piešķir atļauju izmantot Latvijas gaisa telpu publisko funkciju veikšanai paredzēto ārvalstu gaisa kuģu lidojumiem 1944.gada 7.decembra Konvencijas par starptautisko civilo aviāciju 3.panta izpratnē.
