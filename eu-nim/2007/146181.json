@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi likumā \"Par aviāciju\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "98",
+  "official_journal_page": null,
+  "official_journal_date": "2007-06-20",
+  "entry_into_force": "2007-06-20",
+  "notification_date": "2007-06-20",
+  "commission_reference": "MNE(2007)54801",
+  "nim_celex": "72004L0082LVA_146181",
+  "nim_id": "146181",
+  "transposes_celex": [
+    "32004L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3ef58124-59ed-44d9-8352-654343c9647f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
