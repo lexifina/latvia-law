@@ -6,4 +6,4 @@
 4) rīkojumu par sprieduma izpildi vai apliecinātu tā kopiju;
 5) informāciju, kas var palīdzēt identificēt personu;
 6) citus dokumentus, ja tos pieprasa ārvalsts.
-(2) Izdošanas lūgumam pievienoto dokumentu noraksti, kopijas un izraksti izgatavojami un apliecināmi Ministru kabineta noteiktajā kārtībā.
+(2) Izdošanas lūgumam pievienoto dokumentu noraksti, kopijas un izraksti izgatavojami un apliecināmi dokumentu izstrādāšanas un noformēšanas normatīvajos aktos noteiktajā kārtībā.

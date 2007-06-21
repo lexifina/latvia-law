@@ -3,4 +3,4 @@
 (2) Pasta iestādes vai personas, kuras sniedz sūtījumu nogādāšanas pakalpojumu, informē lēmumā minēto amatpersonu par kontrolei pakļauta sūtījuma atrašanos to rīcībā. Amatpersona nekavējoties, bet ne vēlāk kā 48 stundu laikā no informācijas saņemšanas brīža iepazīstas ar sūtījuma saturu un lemj par šā sūtījuma izņemšanu vai tālāku nosūtīšanu ar vai bez satura kopēšanas, fotografēšanas vai citādas fiksēšanas. Visos gadījumos amatpersona raksta sūtījuma apskates protokolu nogādātāja pārstāvja klātbūtnē.
 (3) Sūtījumu izņem tikai tad, ja ir pamats uzskatīt, ka pierādīšanas procesā tā oriģinālam būs būtiski lielāka nozīme nekā kopijai vai vizuālajai fiksācijai.
 (4) Ja sūtījumu izņem vai izņemtu sūtījumu nodod adresātam vai nosūtītājam ar būtisku nokavēšanos, viņu informē par sūtījuma aizkavēšanās iemesliem un kontroles pamatu, ciktāl tas ir iespējams, nekaitējot kriminālprocesa interesēm.
-(5) Zaudējumus, kas pastam vai citam nogādātājam radušies sūtījuma izņemšanas rezultātā, atlīdzina valsts Ministru kabineta noteiktajā kārtībā.
+(5) (Izslēgta ar 17.05.2007. likumu.)

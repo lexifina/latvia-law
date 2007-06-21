@@ -1,3 +1,4 @@
 268.pants. Aizturēšanas termiņš
-(1) Procesa virzītājam nekavējoties, bet ne vēlāk kā 48 stundu laikā aizturētais jānogādā pie izmeklēšanas tiesneša, lai izlemtu jautājumu par tāda drošības līdzekļa piemērošanu, kas saistīts ar brīvības atņemšanu, vai arī aizturētajam jāpiemēro cits drošības līdzeklis, vai viņš jāatbrīvo.
-(2) Aizturēšanas termiņu aprēķina no faktiskās aizturēšanas brīža. Aizturēšanas laiku ieskaita ar brīvības atņemšanu saistīta drošības līdzekļa termiņā.
+(1) Procesa virzītājam nekavējoties, bet ne vēlāk kā 48 stundu laikā jāizlemj par aizturētā atzīšanu par aizdomās turēto vai apsūdzēto un par drošības līdzekļa piemērošanu.
+(2) Pēc aizturētā atzīšanas par aizdomās turēto vai apsūdzēto un nopratināšanas, ja tā ir nepieciešama, procesa virzītājs nekavējoties lemj par šīs personas atbrīvošanu no īslaicīgās aizturēšanas vietas, ja tai piemērots drošības līdzeklis, kas nav saistīts ar brīvības atņemšanu.
+(3) Ja aizturētais tiek atzīts par aizdomās turēto vai apsūdzēto un nepieciešamības gadījumā nopratināts, bet procesa virzītāja izraudzītais drošības līdzeklis ir saistīts ar personas brīvības atņemšanu, persona var atrasties īslaicīgās aizturēšanas vietā līdz tās nogādāšanai pie izmeklēšanas tiesneša, ievērojot 48 stundu noteikto ierobežojumu no faktiskās aizturēšanas brīža.

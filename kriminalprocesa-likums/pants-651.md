@@ -5,4 +5,4 @@
 (4) Ja uz tiesas sēdi bez attaisnojoša iemesla neierodas personas, kuras nosūtījušas iesniegumu vai izteikušas lūgumu, lietas izskatīšanu atliek.
 (5) Tiesnesis atklāj tiesas sēdi un paziņo, kāda lieta tiek izskatīta, pēc tam pārbauda, vai uz tiesas sēdi ieradušās uzaicinātās personas, izlemj jautājumu par tiesneša, prokurora, tiesas sēdes sekretāra, tulka noraidījumu.
 (6) Lietas izskatīšana sākas ar iesnieguma vai lūguma nolasīšanu, ko izdara iesniedzējs. Pēc tam tiesa uzklausa prokurora un citu personu viedokli. Pēdējais runā notiesātais un viņa aizstāvis. Pēc tam tiesnesis apspriežu istabā pieņem lēmumu.
-(7) Visus tiesas lēmumus, kas pieņemti ar sprieduma izpildi saistītajos jautājumos, var pārsūdzēt 10 dienu laikā. Augstākas instances tiesa sūdzību izskata šajā pantā noteiktajā kārtībā, un tās lēmums ir galīgs.
+(7) Visus tiesas lēmumus, kas pieņemti ar sprieduma izpildi saistītajos jautājumos, izņemot šā likuma 633.panta piektajā daļā paredzēto gadījumu, var pārsūdzēt 10 dienu laikā. Augstākas instances tiesa sūdzību izskata šajā pantā noteiktajā kārtībā, un tās lēmums ir galīgs.

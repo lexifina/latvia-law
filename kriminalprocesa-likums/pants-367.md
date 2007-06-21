@@ -6,5 +6,6 @@
 4) samaksa advokātam, kad izdevumus par juridisko palīdzību sedz no valsts līdzekļiem;
 5) summas, kas izlietotas lietisko pierādījumu glabāšanai, pārsūtīšanai, realizācijai un iznīcināšanai;
 6) summas, kas izlietotas ekspertīzes izdarīšanai;
-7) citi izdevumi, kas radušies kriminālprocesā.
+7) summas, kas izlietotas mantas aizsardzībai;
+8) citi izdevumi, kas radušies kriminālprocesā.
 (2) Šā panta pirmajā daļā minētos procesuālos izdevumus sedz no valsts līdzekļiem Ministru kabineta noteiktajā apmērā un kārtībā.
