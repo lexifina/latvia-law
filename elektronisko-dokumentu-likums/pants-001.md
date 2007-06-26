@@ -17,6 +17,6 @@ e) tas ir apliecināts ar kvalificētu sertifikātu;
 6) elektroniskā paraksta radīšanas dati - tikai vienreiz radīti dati, kurus parakstītājs izmanto, lai radītu elektronisko parakstu;
 7) kvalificēts sertifikāts - sertifikāts, kurš ietver šajā likumā noteikto informāciju un kuru izsniedzis uzticams sertifikācijas pakalpojumu sniedzējs;
 8) laika zīmogs - elektroniski parakstīts apstiprinājums tam, ka elektroniskais dokuments ir noteiktā datumā un laikā iezīmēts pie sertifikācijas pakalpojumu sniedzēja;
-9) parakstītājs - persona, kurai ir elektroniskā paraksta radīšanas līdzekļi un kura darbojas vai nu savā vārdā, vai tās fiziskās vai juridiskās personas vai iestādes vārdā, kuru tā pārstāv;
+9) parakstītājs - fiziskā persona, kurai ir elektroniskā paraksta radīšanas līdzekļi un kura darbojas vai nu savā vārdā, vai tās fiziskās vai juridiskās personas vai iestādes vārdā, kuru tā pārstāv;
 10) sertifikācijas pakalpojumi - sertifikātu izsniegšana, anulēšana, sertifikātu darbības apturēšana un atjaunošana, sertifikātu reģistrēšana, elektroniskā paraksta pārbaudes datu reģistra uzturēšana, elektroniskā dokumenta iezīmēšana ar laika zīmogu, kā arī ar elektroniskajiem parakstiem saistītu konsultāciju sniegšana;
 11) sertifikāts - elektronisks apliecinājums, kas saista elektroniskā paraksta pārbaudes datus ar parakstītāju un kalpo parakstītāja identitātes noteikšanai.

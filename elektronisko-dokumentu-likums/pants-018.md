@@ -13,6 +13,6 @@
 2) pamatojoties uz parakstītāja rakstveida pieprasījumu;
 3) līgumā par sertifikācijas pakalpojumu sniegšanu noteiktajos gadījumos.
 (6) Kvalificētu sertifikātu nevar anulēt un tā darbību nevar apturēt vai atjaunot ar atpakaļejošu datumu.
-(7) Drošs elektroniskais paraksts nav derīgs no kvalificēta sertifikāta anulēšanas vai tā darbības apturēšanas brīža.
-(8) Parakstītāja nāves gadījumā drošs elektroniskais paraksts nav derīgs no parakstītāja nāves brīža.
+(7) Drošs elektroniskais paraksts, kas radīts pēc kvalificēta sertifikāta anulēšanas vai laikā, kad sertifikāta darbība ir bijusi apturēta, nav derīgs.
+(8) Drošs elektroniskais paraksts, kas radīts pēc parakstītāja nāves, nav derīgs.
 (9) Ja uzticams sertifikācijas pakalpojumu sniedzējs bez tiesiska pamata, ar ļaunu nolūku vai aiz neuzmanības anulē kvalificētu sertifikātu, aptur vai atjauno tā darbību, uzticams sertifikācijas pakalpojumu sniedzējs atlīdzina personām nodarītos zaudējumus, kas radušies, nepamatoti anulējot kvalificētu sertifikātu, apturot vai atjaunojot tā darbību.
