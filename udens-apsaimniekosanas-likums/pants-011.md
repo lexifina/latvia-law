@@ -7,6 +7,6 @@
 5) aizsargāt pazemes ūdensobjektus, saglabāt vai uzlabot ūdeņu stāvokli tajos, kā arī nodrošināt līdzsvaru starp ūdens ieguvi un ūdens resursu atjaunošanos, lai visos pazemes ūdensobjektos sasniegtu labu pazemes ūdeņu stāvokli;
 6) apturēt cilvēka darbības izraisītu piesārņojošas vielas koncentrācijas pieaugumu pazemes ūdeņos vai panākt pakāpenisku tās samazināšanos;
 7) ievērot nosacījumus un mērķus, kas apsaimniekošanas plānā noteikti īpaši aizsargājamām teritorijām.
-(2) Vides kvalitātes mērķus sasniedz, īstenojot šajā likumā noteiktos apsaimniekošanas plānus un programmas. Nosakot pasākumus vides kvalitātes mērķu sasniegšanai, ņem vērā konkrētā ūdensobjekta stāvokli un ūdeņu stāvokli pārējos upju baseinu apgabalā esošajos ūdensobjektos.
+(2) Vides kvalitātes mērķus sasniedz, īstenojot šajā likumā noteiktos apsaimniekošanas plānus un programmas. Nosakot pasākumus vides kvalitātes mērķu sasniegšanai, ņem vērā konkrētā ūdensobjekta stāvokli un ūdeņu stāvokli pārējos ūdensobjektos, kuri atrodas vienā sateces baseinā.
 (3) Vides kvalitātes normatīvus, kuri nepieciešami šā panta pirmajā daļā minēto mērķu sasniegšanai, nosaka saskaņā ar likumu "Par piesārņojumu".
 (4) Ja uz vienu ūdensobjektu attiecas vairāki vides kvalitātes mērķi, piemēro tos kvalitātes mērķus, kuri izvirza stingrākās prasības.

@@ -1,6 +1,6 @@
 1.pants. Likumā lietotie termini
 Likumā ir lietoti šādi termini:
-1) aizsargājamās teritorijas - teritorijas, kuras paredzētas ūdens ieguvei cilvēku patēriņam, teritorijas, kuras izveidotas bioloģisko resursu aizsardzībai, ūdensobjekti, kuri atzīti par rekreācijas objektiem vai peldūdeņiem, īpaši jutīgas teritorijas, kā arī īpaši aizsargājamas dabas teritorijas;
+1) aizsargājamās teritorijas - teritorijas, kuras paredzētas ūdens ieguvei cilvēku patēriņam, teritorijas, kuras izveidotas bioloģisko resursu aizsardzībai, ūdensobjekti, kuri atzīti par rekreācijas objektiem vai peldvietu ūdeņiem, īpaši jutīgas teritorijas, kā arī īpaši aizsargājamas dabas teritorijas;
 2) apakšbaseins - zemes platība (teritorija), no kuras visi virszemes noteces ūdeņi pa strautiem, upēm un ezeriem nonāk kādā konkrētā ūdensteces vietā (parasti ezerā vai upju satekā);
 3) ekoloģiskās un ķīmiskās kvalitātes rādītāji - ūdensobjekta hidroloģiskās, bioloģiskās, fizikālās un ķīmiskās īpašības, pēc kuru kvantitatīvajām vai kvalitatīvajām vērtībām var spriest par ūdeņu kvalitāti;
 4) emisijas ierobežošana - pasākumi, kas nodrošina emisijas limitēšanu, arī emisijas robežvērtības vai ierobežojumi un nosacījumi emisijas ietekmei, raksturam vai citām tās iezīmēm vai piesārņojošās darbības norises apstākļiem, kas ietekmē emisiju;

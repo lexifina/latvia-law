@@ -5,4 +5,4 @@
 2) ekoloģiskā un ķīmiskā stāvokļa un ekoloģiskā potenciāla monitoringu.
 (3) Pazemes ūdeņu monitoringa programmā ietver ķīmiskās kvalitātes un kvantitatīvā stāvokļa monitoringu.
 (4) Aizsargājamo teritoriju monitoringa programmā ietver pasākumus, kuri tiek veikti papildus normatīvajos aktos noteiktajām aizsargājamo teritoriju monitoringa prasībām.
-(5) Ministru kabinets nosaka prasības šajā pantā noteiktajam monitoringam un monitoringa programmu izstrādei, kā arī prasības peldūdeņu un peldvietu monitoringam.
+(5) Ministru kabinets nosaka prasības šajā pantā noteiktajam monitoringam un monitoringa programmu izstrādei, kā arī prasības peldvietu ūdeņu monitoringam.
