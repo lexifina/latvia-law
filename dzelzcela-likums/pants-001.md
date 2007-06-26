@@ -20,4 +20,5 @@ Likumā ir lietoti šādi termini:
 18) vilciens - saformēti un sakabināti vagoni vai cits ritošais sastāvs ar vienu vai vairākiem vilces līdzekļiem, kam piešķirts vilciena numurs un kas aprīkots ar īpašām signālierīcēm;
 19) tarifs - likmju sistēma, pēc kuras nosaka maksu par dzelzceļa pārvadājumiem vai par citiem dzelzceļa sniegtajiem pakalpojumiem;
 20) drošības apliecība - dokuments, kas apliecina konkrētās komercsabiedrības spēju darboties attiecīgajā komercdarbības sfērā dzelzceļa nozarē, ievērojot drošības prasības;
-21) zemes klātne - grunts būvju komplekss, kuru iegūst, apstrādājot zemes virsmu, un kurš paredzēts virsbūves novietošanai, sliežu ceļu noturības nodrošināšanai un to aizsardzībai pret atmosfēras ūdeņiem un gruntsūdeņiem.
+21) zemes klātne - grunts būvju komplekss, kuru iegūst, apstrādājot zemes virsmu, un kurš paredzēts virsbūves novietošanai, sliežu ceļu noturības nodrošināšanai un to aizsardzībai pret atmosfēras ūdeņiem un gruntsūdeņiem;
+22) drošības pārvaldījuma sistēma - organizatorisko pasākumu kopums, ko ieviesis dzelzceļa infrastruktūras pārvaldītājs un pārvadātājs, lai garantētu savu darbību drošu vadību.

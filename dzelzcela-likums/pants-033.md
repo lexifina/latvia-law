@@ -4,7 +4,7 @@
 (3) Valsts dzelzceļa tehniskās inspekcijas galvenās funkcijas ir:
 1) kontrolēt dzelzceļa ekspluatācijas un tās drošības jautājumos pieņemtajos likumos un citos normatīvajos aktos noteikto prasību izpildi;
 2) kontrolēt civilās aizsardzības pasākumu (to skaitā preventīvo, reaģēšanas un seku likvidēšanas pasākumu) veikšanu dzelzceļa ekspluatācijā;
-3) izmeklēt vilcienu un manevru darba avārijas un pārkāpumu gadījumus un piedalīties uz dzelzceļa notikušo nelaimes gadījumu izmeklēšanā;
+3) izmeklēt dzelzceļa satiksmes negadījumus;
 4) kontrolēt ritošā sastāva avāriju seku novēršanas darbu organizēšanu un veikšanu;
 5) kontrolēt jaunu vai rekonstruētu dzelzceļa infrastruktūras objektu nodošanu ekspluatācijā un pārbaudīt to atbilstību Dzelzceļa tehniskās ekspluatācijas noteikumu un darba aizsardzības noteikumu prasībām;
 6) saskaņā ar normatīvajiem aktiem izsniegt pārvadātājiem drošības sertifikātus;
@@ -15,5 +15,5 @@
 2) uz laiku pārtraukt vilcienu satiksmi, samazināt kustības ātrumu un aizliegt tehnisko līdzekļu ekspluatāciju, ja ir apdraudēta cilvēku dzīvība vai veselība, satiksmes drošība vai vide;
 3) līdz pilnīgai trūkumu novēršanai aizliegt lietot ritošo sastāvu un sliežu ceļu, ja to lietošana var apdraudēt vai apdraud cilvēku dzīvību vai veselību, satiksmes drošību vai vidi;
 4) dot saistošus norādījumus par Dzelzceļa tehniskās ekspluatācijas noteikumu ievērošanu visām juridiskajām un fiziskajām personām, kas darbojas dzelzceļa sistēmā;
-5) pārbaudīt atsevišķu kategoriju dzelzceļa speciālistu atbilstību kvalifikācijas prasībām.
+5) pārbaudīt komersanta komisijas locekļu un tādu atbildīgo personu, kas veic komersanta dzelzceļa speciālistu zināšanu pārbaudi, atbilstību kvalifikācijas prasībām.
 (5) Valsts dzelzceļa tehnisko inspekciju finansē no valsts pamatbudžeta. Valsts dzelzceļa tehniskās inspekcijas funkciju izpildes nodrošināšanai finanšu līdzekļus no Dzelzceļa infrastruktūras fonda ieskaita valsts pamatbudžeta ieņēmumos.

@@ -18,3 +18,4 @@
 (7) Valsts dzelzceļa administrācija izsniedz pārvadātāja licenci dzelzceļa kravu pārvadājumu veikšanai un Sabiedrisko pakalpojumu regulēšanas komisija izsniedz pārvadātāja licenci dzelzceļa pasažieru pārvadājumu veikšanai, ja ir izpildītas šajā likumā noteiktās prasības un samaksāta valsts nodeva. Valsts nodevas apmēru nosaka Ministru kabinets. Par pārvadātāja licences izsniegšanu saņemtā nodeva tiek ieskaitīta valsts budžetā.
 (8) Pārvadātāja licenci izsniedz uz pieciem gadiem. Ja licences saņēmējs pilda saistības, kas paredzētas šajā likumā, un atbilst licencē norādītajiem nosacījumiem, licenci pēc tās derīguma termiņa izbeigšanās pagarina, to pārreģistrējot.
 (9) (Izslēgta ar 23.11.2000. likumu.)
+(10) Latvijā ir derīga arī citas Eiropas Savienības dalībvalsts attiecīgo iestāžu izsniegta licence.
