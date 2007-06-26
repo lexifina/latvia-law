@@ -11,6 +11,6 @@ g) sakarā ar iestādes vai ierēdņa amata likvidāciju vai ierēdņu skaita sa
 h) sakarā ar to, ka viņš pārejošas darbnespējas dēļ nav pildījis amata pienākumus ilgāk par četriem mēnešiem pēc kārtas,
 i) atbrīvošanu no ierēdņa amata piemērojot kā disciplinārsodu,
 j) sakarā ar ievēlēšanu amatā valsts vai pašvaldības iestādē,
-k) sakarā ar iesaukšanu obligātajā militārajā dienestā,
+k) (izslēgts ar 24.05.2007. likumu),
 l) sakarā ar tiesas spriedumu krimināllietā;
 2) sakarā ar ierēdņa nāvi.
