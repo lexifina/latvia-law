@@ -1,1 +1,1 @@
-1.pants. 1993.gada 13.janvārī parakstītā Konvencija par ķīmisko ieroču izstrādes, izgatavošanas, uzkrāšanas un pielietošanas aizliegumu un ķīmisko ieroču iznīcināšanu (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
+1.pants. 1992.gada 3.septembra Konvencija par ķīmisko ieroču izstrādes, izgatavošanas, uzkrāšanas un pielietošanas aizliegumu un ķīmisko ieroču iznīcināšanu (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
