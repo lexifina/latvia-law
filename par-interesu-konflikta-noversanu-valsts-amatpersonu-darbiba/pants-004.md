@@ -11,7 +11,7 @@
 9) Satversmes aizsardzības biroja direktors un viņa vietnieks;
 10) Korupcijas novēršanas un apkarošanas biroja priekšnieks, viņa vietnieki, centrālā aparāta nodaļu vadītāji un viņu vietnieki, teritoriālo nodaļu vadītāji un izmeklētāji;
 11) Noziedzīgi iegūtu līdzekļu legalizācijas novēršanas dienesta priekšnieks un viņa vietnieks;
-12) Valsts cilvēktiesību biroja direktors un viņa vietnieks;
+12) tiesībsargs un viņa vietnieks;
 13) Nacionālās radio un televīzijas padomes loceklis, Sabiedrisko pakalpojumu regulēšanas komisijas padomes loceklis, Finanšu un kapitāla tirgus komisijas padomes loceklis;
 14) pašvaldības domes (padomes) priekšsēdētājs un viņa vietnieks, pašvaldības izpilddirektors un viņa vietnieks;
 15) pašvaldības domes (padomes) deputāts;
@@ -35,4 +35,5 @@
 1) pilda uzraudzības, kontroles vai sodīšanas funkcijas attiecībā uz personām, kuras nav to tiešā vai netiešā pakļautībā;
 2) pieņem lēmumu par iesniegto projektu vai projekta iesniegumu;
 3) pieņem tādu lēmumu, kas skar piešķirtā finanšu atbalsta izlietojumu.
+(2³) Par valsts amatpersonām uzskatāmas arī personas, kuras ieņem ostu valdes priekšsēdētāja, ostas pārvaldnieka vai ostas valdes locekļa amatu. Privātajās ostās nodarbinātās personas uzskatāmas par valsts amatpersonām tikai tad, ja to paredz šā panta trešā daļa.
 (3) Par valsts amatpersonām uzskatāmas arī personas, kuras pilda amata pienākumus ārpus valsts vai pašvaldības institūcijām, ja tām saskaņā ar normatīvajiem aktiem pastāvīgi vai uz laiku valsts vai pašvaldība ir deleģējusi kādu no šā panta otrajā daļā minētajām funkcijām.

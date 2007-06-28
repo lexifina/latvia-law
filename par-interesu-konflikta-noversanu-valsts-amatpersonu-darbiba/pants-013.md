@@ -1,14 +1,9 @@
-13.pants. Dāvanu pieņemšanas ierobežojumi
-(1) Valsts amatpersonai ir aizliegts tieši vai netieši pieņemt dāvanas, izņemot šā panta trešajā un sestajā daļā noteiktos gadījumus.
-(2) Par dāvanām šā likuma izpratnē uzskatāmi jebkuri mantiski vai citāda veida labumi, to skaitā pakalpojumi, tiesību nodošana, atsvabināšana no pienākuma, atteikšanās no kādas tiesības valsts amatpersonai vai tās radiniekam par labu, kā arī citas darbības, ar kurām šīm personām tiek piešķirts kāds labums. Diplomātiskās dāvanas šā likuma izpratnē ir dāvanas, ko ārvalstu oficiālas amatpersonas pasniedz Valsts prezidentam, Saeimas priekšsēdētājam, Ministru prezidentam, ārlietu ministram un šā likuma 4.panta pirmās daļas 17.punktā un otrajā daļā minētajām Ārlietu ministrijas amatpersonām valsts, oficiālo vai darba vizīšu laikā saskaņā ar protokolu.
-(3) Valsts amatpersonai saistībā ar tās darbību valsts amatpersonas amatā ir atļauts pieņemt tikai diplomātiskās dāvanas un dāvanas, kuras pasniedz:
-1) ārvalstu amatpersonas oficiālo vai darba vizīšu laikā ārvalstīs;
-2) ārvalstu delegācijas vai ārvalstu amatpersonas savu valsts, oficiālo vai darba vizīšu laikā Latvijas Republikā;
-3) ārvalstu amatpersonas Latvijas Republikas diplomātisko un konsulāro pārstāvniecību valsts amatpersonām;
-4) ārvalstu amatpersonas darba vizīšu laikā Latvijas Republikā - Valsts prezidentam, Ministru prezidentam, Ministru prezidenta biedram, ministram, īpašu uzdevumu ministram un valsts ministram;
-5) Latvijas Republikas valsts svētkos un atceres un atzīmējamās dienās;
-6) tās valsts vai pašvaldības institūcijas jubilejā, kurā strādā šī amatpersona;
-7) likumos paredzētajos citos gadījumos.
-(4) Valsts amatpersonai ir aizliegts pieņemt dāvanas šā panta trešajā daļā noteiktajos gadījumos, ja dāvana ir šā panta otrajā daļā minētie citāda veida labumi.
-(5) Šā panta trešajā daļā minētās dāvanas ir valsts vai attiecīgās pašvaldības īpašums. Diplomātiskās dāvanas reģistrē Ārlietu ministrijas Vienotā valsts protokola reģistrā, un par to izmantošanu lemj ārlietu ministrs. Par pārējo dāvanu izmantošanu un izpirkšanu saskaņā ar Ministru kabineta noteikumos paredzēto kārtību lemj tās valsts vai pašvaldības institūcijas vadītājs, kurā valsts amatpersonas amatu ieņem dāvanas saņēmējs.
-(6) Valsts amatpersonām ārpus valsts amatpersonas amata pienākumu pildīšanas ir atļauts pieņemt dāvanas no radiniekiem. No citām fiziskajām vai juridiskajām personām ārpus valsts amatpersonas amata pienākumu pildīšanas ir atļauts pieņemt dāvanas tikai tad, ja no vienas personas gada laikā saņemtās dāvanas vērtība nepārsniedz minimālās mēnešalgas apmēru un attiecībā uz dāvinātāju valsts amatpersona divu gadu laikposmā pirms dāvanas saņemšanas nav izdevusi administratīvo aktu vai veikusi uzraudzības, kontroles, izziņas vai sodīšanas funkcijas. Ja valsts amatpersona ārpus valsts amatpersonas amata pienākumu pildīšanas ir pieņēmusi dāvanas no fiziskajām vai juridiskajām personām, tā divus gadus pēc dāvanas pieņemšanas nav tiesīga attiecībā uz dāvanas devēju izdot administratīvo aktu vai veikt uzraudzības, kontroles, izziņas un sodīšanas funkcijas.
+13.pants. Vispārīgie dāvanu pieņemšanas ierobežojumi
+(1) Valsts amatpersonai, pildot amata pienākumus, ir atļauts pieņemt dāvanas šā likuma 13.¹ panta pirmajā daļā minētajos gadījumos. Ārpus amata pienākumu pildīšanas valsts amatpersonai ir atļauts pieņemt dāvanas, ievērojot šā likuma 13.² pantā noteiktos ierobežojumus.
+(2) Dāvana šā likuma izpratnē ir jebkurš mantisks vai citāda veida labums (tai skaitā pakalpojumi, tiesību piešķiršana, nodošana, atbrīvošana no pienākuma, atteikšanās no kādas tiesības, kā arī citas darbības, kuru rezultātā rodas kāds labums), kura tiešs vai netiešs guvējs ir valsts amatpersona.
+(3) Par dāvanu šā likuma izpratnē nav uzskatāmi:
+1) ziedi;
+2) suvenīri, grāmatas vai reprezentācijas priekšmeti, ja no vienas personas gada laikā saņemto suvenīru, grāmatu vai reprezentācijas priekšmetu kopējā vērtība naudas izteiksmē nepārsniedz vienas minimālās mēnešalgas apmēru;
+3) apbalvojumi, balvas vai godalgas, kuru pasniegšana paredzēta ārējos normatīvajos aktos;
+4) jebkuri labumi un garantijas, ko valsts amatpersonai, pildot amata pienākumus, normatīvajos aktos noteiktajā kārtībā nodrošina valsts vai pašvaldības institūcija, kurā attiecīgā persona pilda amata pienākumus;
+5) pakalpojumi un dažāda veida atlaides, ko piedāvā komercsabiedrības, individuālie komersanti, kā arī zemnieku un zvejnieku saimniecības un kas ir publiski pieejamas.
