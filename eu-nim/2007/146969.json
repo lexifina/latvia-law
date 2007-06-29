@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par mātes piena aizstājēju sastāva obligātajām nekaitīguma prasībām, to marķējuma un reklāmas prasībām, kā arī reklāmas izvērtēšanas kārtību",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "104",
+  "official_journal_page": null,
+  "official_journal_date": "2007-06-29",
+  "entry_into_force": null,
+  "notification_date": "2007-07-13",
+  "commission_reference": "MNE(2007)55431",
+  "nim_celex": "71991L0321LVA_146969",
+  "nim_id": "146969",
+  "transposes_celex": [
+    "31991L0321",
+    "31996L0004",
+    "31999L0050",
+    "32001L0015",
+    "32006L0082",
+    "32006L0141"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/84397bb5-a3c4-4ac6-bf0c-f2281a24bc79",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
