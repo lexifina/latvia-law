@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Kārtība, kādā izsniedz, aptur, pārreģistrē un anulē speciālas atļaujas (licences) farmaceitiskajai un veterinārfarmaceitiskajai darbībai, maksā valsts nodevu par to izsniegšanu un pārreģistrēšanu, kā arī novērtē aptieku, zāļu un veterināro zāļu lieltirgotavu, zāļu un veterināro zāļu ražošanas uzņēmumu atbilstību un zāļu labas izplatīšanas prakses atbilstību",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "104",
+  "official_journal_page": null,
+  "official_journal_date": "2007-06-29",
+  "entry_into_force": null,
+  "notification_date": "2007-07-20",
+  "commission_reference": "MNE(2007)55631",
+  "nim_celex": "72001L0082LVA_147221",
+  "nim_id": "147221",
+  "transposes_celex": [
+    "32001L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/abb33cba-fc7b-4916-95f5-a786bdc49e4c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
