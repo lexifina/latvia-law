@@ -1,0 +1,1 @@
+3.pants. Ja biedrība "Latvijas Ebreju draudžu un kopienu padome" beidz pastāvēt vai Latvijas ebreju un holokausta muzejs tiek likvidēts, šā likuma 1.pantā minētais nekustamais īpašums nododams valstij.

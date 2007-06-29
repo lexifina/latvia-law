@@ -1,0 +1,1 @@
+1.pants. Nodot nekustamo īpašumu - zemes vienību 218 m² platībā (kadastra apzīmējums 0100 003 0106) un darbnīcas divstāvu ēku (kadastra apzīmējums 0100 003 0106 001) - Rīgā, Alksnāja ielā 5 bez atlīdzības biedrības "Latvijas Ebreju draudžu un kopienu padome" īpašumā Latvijas ebreju un holokausta muzeja vajadzībām.
