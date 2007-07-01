@@ -1,4 +1,4 @@
-6.pants. Iesniegums palīdzības saņemšanai
-(1) Persona, kura vēlas saņemt palīdzību (izņemot 27.¹ panta pirmajā daļā minēto palīdzību), iesniedz attiecīgajai pašvaldībai rakstveida iesniegumu un dokumentus, kas apliecina, ka šī persona ir tiesīga saņemt palīdzību. Iesniegumā norādāmi iespējamie personai vēlamie palīdzības veidi.
-(2) Dokumentus, kas nepieciešami, lai apliecinātu personas tiesības saņemt palīdzību dzīvokļa jautājumu risināšanā, valsts un pašvaldību institūcijas izsniedz bez maksas.
-(3) Personas iesniegumu palīdzības saņemšanai izskata un rakstveida atbildi personai sniedz likumā noteiktajā kārtībā.
+6.pants. Kārtība, kādā persona atzīstama par tiesīgu saņemt palīdzību pašvaldībā
+(1) Persona, kura vēlas saņemt palīdzību (izņemot 13.pantā, 27.¹ panta pirmajā daļā un 27.² panta pirmajā daļā minēto palīdzību), iesniedz attiecīgajai pašvaldībai rakstveida iesniegumu, kurā norādāmi iespējamie personai vēlamie palīdzības veidi, un dokumentus, kas apliecina, ka šī persona ir tiesīga saņemt palīdzību.
+(2) Dokumentus, kas nepieciešami, lai apliecinātu personas tiesības saņemt palīdzību dzīvokļa jautājumu risināšanā, pašvaldība nosaka saistošajos noteikumos. Minētos dokumentus valsts un pašvaldību institūcijas personai izsniedz bez maksas.
+(3) Personas iesniegumu palīdzības saņemšanai izskata un lēmumu par personas atzīšanu par tiesīgu saņemt palīdzību un reģistrēšanu personas iesniegumā norādītā veida palīdzības saņemšanai vai par atteikumu atzīt personu par tiesīgu saņemt palīdzību pieņem pašvaldības dome (padome) vai tās deleģēta institūcija. Par lēmuma pieņemšanu pašvaldība iesniedzējam uz tā norādīto adresi nosūta rakstveida paziņojumu.

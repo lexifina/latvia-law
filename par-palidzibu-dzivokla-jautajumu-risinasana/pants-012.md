@@ -1,6 +1,6 @@
-12.pants. Pašvaldībai piederošo vai tās lietojumā esošo dzīvojamo telpu uzskaite
-(1) Pašvaldība veic tai piederošo vai tās lietojumā esošo neizīrēto dzīvojamo telpu vienotu uzskaiti.
-(2) Ja atbrīvojas pašvaldībai piederoša dzīvojamā telpa, tās apsaimniekotājs septiņu dienu laikā paziņo par to attiecīgajai pašvaldības domes (padomes) deleģētajai institūcijai, kas šo dzīvojamo telpu nekavējoties ņem uzskaitē kā neizīrētu un iekļauj neizīrēto dzīvojamo telpu sarakstā.
+12.pants. Pašvaldībai piederošo vai tās nomāto dzīvojamo telpu uzskaite
+(1) Pašvaldība veic tai piederošo vai tās nomāto dzīvojamo telpu vienotu uzskaiti.
+(2) Ja atbrīvojas pašvaldībai piederoša vai pašvaldības nomāta dzīvojamā telpa, tās apsaimniekotājs septiņu dienu laikā paziņo par to attiecīgajai pašvaldības domes (padomes) deleģētajai institūcijai, kas šo dzīvojamo telpu nekavējoties ņem uzskaitē kā neizīrētu un iekļauj neizīrēto dzīvojamo telpu sarakstā.
 (3) Ikvienai personai, kura reģistrēta attiecīgās palīdzības saņemšanai vai kurai neatliekami sniedzama palīdzība, ir brīvi pieejams neizīrēto dzīvojamo telpu saraksts, kurā iekļauta šāda informācija:
 1) tā pašvaldības teritoriālā dalījuma nosaukums, kurā atrodas dzīvojamā telpa;
 2) dzīvojamās telpas platība un istabu skaits, stāvs, kurā šī dzīvojamā telpa atrodas;

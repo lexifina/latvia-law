@@ -1,2 +1,3 @@
 25.pants. Dzīvokļa pabalsts
-Dzīvokļa pabalstu pašvaldība maksā pašvaldības domes (padomes) saistošajos noteikumos paredzētajā kārtībā un apmērā.
+(1) Pašvaldībai ir tiesības domes (padomes) saistošajos noteikumos noteiktajā kārtībā un apmērā maksāt dzīvokļa pabalstu personām, kas denacionalizētā vai likumīgajam īpašniekam atdotā mājā lieto dzīvojamo telpu, kuru tās ir lietojušas līdz īpašuma tiesību atjaunošanai. Pašvaldības dome (padome) saistošajos noteikumos var noteikt arī citas personu kategorijas, kurām ir tiesības saņemt dzīvokļa pabalstu.
+(2) Dzīvokļa pabalstu var saņemt tās šā panta pirmajā daļā minētās personas, kuras saskaņā ar šo likumu un pašvaldības domes (padomes) saistošajiem noteikumiem ir tiesīgas saņemt šā likuma 3.panta 1. un 2.punktā paredzēto palīdzību.

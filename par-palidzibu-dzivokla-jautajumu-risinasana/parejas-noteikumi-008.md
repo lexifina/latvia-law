@@ -1,0 +1,1 @@
+8. Grozījumi šā likuma 7.panta piektās daļas 3.punktā un 14.panta pirmās daļas 1.¹ punktā un 2.punkta "c" apakšpunktā neattiecas uz tām personām, kuras līdz 2007.gada 30.jūnijam ir reģistrētas pašvaldībā šā likuma 3.panta 1.punktā noteiktās palīdzības saņemšanai.
