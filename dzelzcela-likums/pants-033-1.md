@@ -1,4 +1,13 @@
-33.¹ pants. Smagu dzelzceļa avāriju izmeklēšanas institūcija
-(1) Smagas dzelzceļa avārijas gadījumā izmeklēšanas darbības organizē, veic un kontrolē smagu dzelzceļa avāriju izmeklēšanas institūcija.
-(2) Smagu dzelzceļa avāriju izmeklēšanas institūcija organizatoriski, juridiski un savu lēmumu pieņemšanā ir neatkarīga no dzelzceļa infrastruktūras pārvaldītāja, pārvadātāja un dzelzceļa tehniskās ekspluatācijas kontroles un uzraudzības institūcijas, kā arī no institūcijas, kas atbild par dzelzceļa infrastruktūras maksas noteikšanu un iekasēšanu, dzelzceļa infrastruktūras jaudas iedalīšanu vai valsts pārvaldes realizēšanu dzelzceļa transporta jomā, un no personām, kuru intereses var būt pretrunā ar izmeklēšanas institūcijas uzdevumiem.
-(3) Iestādi, kas pilda šā panta pirmajā daļā minētās funkcijas, nosaka Ministru kabinets.
+33.¹ pants. Transporta nelaimes gadījumu un incidentu izmeklēšanas birojs
+(1) Smagas dzelzceļa avārijas gadījumā izmeklēšanas darbības organizē, veic un kontrolē Transporta nelaimes gadījumu un incidentu izmeklēšanas birojs - Satiksmes ministrijas pārraudzībā esoša tiešās valsts pārvaldes iestāde.
+(2) Transporta nelaimes gadījumu un incidentu izmeklēšanas birojs organizatoriski, juridiski un savu lēmumu pieņemšanā ir neatkarīgs no dzelzceļa infrastruktūras pārvaldītāja, pārvadātāja un dzelzceļa tehniskās ekspluatācijas kontroles un uzraudzības institūcijas, kā arī no institūcijas, kas atbild par dzelzceļa infrastruktūras maksas noteikšanu un iekasēšanu, dzelzceļa infrastruktūras jaudas iedalīšanu vai valsts pārvaldes realizēšanu dzelzceļa transporta jomā, un no personām, kuru intereses var būt pretrunā ar Transporta nelaimes gadījumu un incidentu izmeklēšanas biroja uzdevumiem.
+(3) Veicot dzelzceļa avāriju izmeklēšanu, Transporta nelaimes gadījumu un incidentu izmeklēšanas biroja izmeklētājiem ir tiesības:
+1) brīvi piekļūt dzelzceļa avārijas vietai, avārijā iesaistītajam ritošajam sastāvam, attiecīgajai dzelzceļa infrastruktūrai, kustības vadības un signalizācijas iekārtām;
+2) nekavējoties uzsākt tiešo pierādījumu, ritošā sastāva vraku un atlūzu, dzelzceļa infrastruktūras iekārtu vai to komponentu savākšanu pārbaudei vai analīzēm;
+3) piekļūt ritošā sastāva datu reģistrēšanas ierīču, balss sakaru ierakstīšanas ierīču, signalizācijas un kustības vadības sistēmas darbības reģistrācijas iekārtu saturam un to izmantot;
+4) iepazīties ar upuru mirstīgo atlieku un cietušo apskates rezultātiem;
+5) iepazīties ar dzelzceļa avārijā iesaistīto dzelzceļa speciālistu, citu avārijā iesaistīto personu, kā arī liecinieku nopratināšanas un aptaujas rezultātiem un liecībām;
+6) iztaujāt avārijā iesaistītos dzelzceļa speciālistus, citas avārijā iesaistītās personas, kā arī lieciniekus;
+7) piekļūt Valsts dzelzceļa tehniskās inspekcijas, dzelzceļa infrastruktūras pārvaldītāja un avārijā iesaistītā pārvadātāja informācijai un dokumentācijai;
+8) noteikt, kad ritošo sastāvu, tā detaļas vai atlūzas, vrakus, kravu un citus pierādījumus var aizvākt no notikuma vietas, kā arī iznīcināt normatīvajos aktos noteiktajā kārtībā;
+9) savas kompetences ietvaros veikt citos normatīvajos aktos noteiktās darbības.
