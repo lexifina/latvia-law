@@ -6,3 +6,5 @@
 (5) Valsts informācijas sistēmu pārziņu sadarbību regulē savstarpēji līgumi un normatīvie akti.
 (6) Informatīvie pakalpojumi sniedzami saskaņā ar normatīvajiem aktiem, ievērojot principu - vienāda cena par vienādiem informatīvajiem pakalpojumiem.
 (7) Sistēmas pārzinim ir pienākums veidot valsts informācijas sistēmās publiski pieejamu daļu vispārpieejamu informatīvo pakalpojumu nodrošināšanai.
+(8) Valsts informācijas sistēmas pārzinis var izmantot valsts informācijas sistēmu savietotājus normatīvajos aktos noteiktajā kārtībā valsts informācijas sistēmas darbības nodrošināšanai integrētas valsts informācijas sistēmas ietvaros.
+(9) Centralizētas valsts informācijas sistēmas pārzinis centralizētas valsts informācijas sistēmas turētāja funkcijas normatīvajos aktos noteiktajā kārtībā, ievērojot šā panta ceturtās daļas noteikumus, var nodot institūcijai, kura nodrošina valsts informācijas sistēmu savietotāja darbību.
