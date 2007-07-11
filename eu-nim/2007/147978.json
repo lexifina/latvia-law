@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Epidemioloģiskās drošības likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "102",
+  "official_journal_page": null,
+  "official_journal_date": "2007-06-27",
+  "entry_into_force": "2007-07-11",
+  "notification_date": "2007-08-20",
+  "commission_reference": "MNE(2007)56114",
+  "nim_celex": "72006L0007LVA_147978",
+  "nim_id": "147978",
+  "transposes_celex": [
+    "32006L0007"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9a082e26-6471-4c90-92c7-92802e882ab1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
