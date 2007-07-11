@@ -14,6 +14,7 @@ c) (izslēgts ar 15.09.2005. likumu).
 (4) Stratēģisko novērtējumu veic plānošanas dokumentiem jomās, kuras nav minētas šā panta trešās daļas 1.punktā, ja tie ietver pamatnosacījumus paredzēto darbību īstenošanai un plānošanas dokumentu īstenošana var būtiski ietekmēt vidi.
 (5) Šā panta trešajā daļā minētajiem plānošanas dokumentiem, kuri attiecas uz nelielu teritoriju izmantošanu vietējās pašvaldības līmenī, kā arī šā panta trešajā daļā minēto plānošanas dokumentu nelieliem tehniskiem grozījumiem stratēģisko novērtējumu neveic, izņemot gadījumus, kad šo dokumentu īstenošana var būtiski ietekmēt vidi.
 (6) Šā likuma noteikumi neattiecas uz:
-1) paredzētajām darbībām un plānošanas dokumentiem, kas saistīti tikai ar valsts aizsardzību;
+1) plānošanas dokumentiem, kas saistīti tikai ar valsts aizsardzību;
 2) plānošanas dokumentiem, kas saistīti tikai ar ārkārtas situācijām;
 3) plānošanas dokumentiem finanšu vai budžeta jomā.
+(7) Ministru kabinets, izdodot atsevišķu rīkojumu, var nepiemērot ietekmes novērtējumu paredzētajām darbībām, kas saistītas ar valsts aizsardzību, ja ietekmes novērtējuma procedūras piemērošana var nelabvēlīgi ietekmēt attiecīgo paredzēto darbību mērķu sasniegšanu.

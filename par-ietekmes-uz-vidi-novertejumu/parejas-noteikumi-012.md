@@ -1,0 +1,1 @@
+12. Ministru kabinets līdz 2008.gada 1.janvārim izdod šā likuma 5.pantā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2008.gada 1.janvārim piemērojami Ministru kabineta 2006.gada 7.februāra noteikumi Nr.117 "Noteikumi par Valsts vides dienesta sniegto maksas pakalpojumu cenrādi", ciktāl tie nav pretrunā ar šo likumu.

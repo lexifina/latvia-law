@@ -1,0 +1,1 @@
+17.¹ Projekti, kas paredz ūdens resursu pārdali starp upju baseiniem (izņemot centralizētu dzeramā ūdens ieguvi), ja šo resursu pārdales mērķis ir novērst iespējamo ūdens trūkumu un ja pārvietotā ūdens daudzums pārsniedz 100 miljonus kubikmetru gadā.

@@ -1,1 +1,1 @@
-4. Iekārtas, kas paredzētas izmantotās kodoldegvielas atkārtotai apstrādei.
+4. Iekārtas, kas paredzētas apstarotās kodoldegvielas atkārtotai apstrādei.

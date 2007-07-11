@@ -7,6 +7,6 @@
 6) motoru, turbīnu un reaktoru stacionāro izmēģinājumu stendu (laboratoriju) uzstādīšana;
 7) mākslīgo minerālšķiedru ražošanas iekārtu uzstādīšana;
 8) sprāgstvielu iznīcināšanas iekārtu uzstādīšana;
-9) kapsētu ierīkošana;
+9) kapsētu ierīkošana [arī mājas (istabas) dzīvnieku kapsētu ierīkošana];
 10) iekārtu būvniecība tādu dzīvnieku izcelsmes blakusproduktu pārstrādei, kuri nav paredzēti izmantošanai pārtikā;
 11) bīstamo atkritumu šķirošanas laukumi.

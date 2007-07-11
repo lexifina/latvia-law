@@ -6,7 +6,7 @@
 5) ceļu, ostu un kuģu piestātņu (arī zvejas ostu) būvniecība (visas darbības, uz kurām neattiecas šā likuma 1.pielikums);
 6) iekšējo ūdensceļu būvniecība (visas darbības, uz kurām neattiecas šā likuma 1.pielikums);
 7) aizsprostu un citu ūdens uzkrāšanai paredzētu konstrukciju būvniecība, ja ūdens tilpums ūdenskrātuvē pārsniedz 3 000 000 kubikmetrus;
-8) tramvaja un metro līniju būvniecība;
+8) tramvaja un metro līniju būvniecība vai cita veida sliežu transports pasažieru pārvadāšanai;
 9) cauruļvadu ierīkošana naftas un gāzes transportēšanai, ja to garums pārsniedz 20 kilometrus;
 10) ūdensvadu ierīkošana, ja to kopgarums pārsniedz 20 kilometrus;
 11) ēku un būvju būvniecība, rekonstrukcija, renovācija un restaurācija Baltijas jūras un Rīgas jūras līča piekrastes krasta kāpu aizsargjoslā; dambju, molu un citu būvju būvniecība jūrā, kur iespējamas krasta pārmaiņas, izņemot esošo būvju uzturēšanu;
