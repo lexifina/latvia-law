@@ -33,4 +33,5 @@ Likumā ir lietoti šādi termini:
 31) Imunizācijas valsts programma - programma, kurā ir noteikti imunizācijas mērķi, uzdevumi un citi valstī veicamie pasākumi tādu infekcijas slimību izplatības novēršanai vai likvidācijai, kuru pamatprofilakses veids ir vakcinācija;
 32) paaugstināta riska objekts - iestādes, uzņēmumi (uzņēmējsabiedrības) un organizācijas, kuru darbības veids ir pakalpojumu sniegšana patērētājiem un kuru darbības vai izmantojamo iekārtu darbības dēļ var plaši izplatīties infekcijas slimības, ja tiek pieļauta infekcijas slimību perēkļa rašanās;
 33) references laboratorija - noteiktā profilā akreditēta un pilnvarota laboratorija, kas nodarbojas ar infekcijas slimību diagnostiku, to izraisītāju noteikšanu un izpēti atbilstoši starptautiski atzītajām testēšanas metodēm un standartiem, veicina testēšanas metožu attīstību valstī;
-34) zoonoze - infekcijas slimība, ar kuru slimo gan cilvēki, gan dzīvnieki.
+34) zoonoze - infekcijas slimība, ar kuru slimo gan cilvēki, gan dzīvnieki;
+35) pandēmija - epidēmija, kas skar plašas ģeogrāfiskas teritorijas vai kontinentus.

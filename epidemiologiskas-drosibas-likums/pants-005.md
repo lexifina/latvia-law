@@ -4,7 +4,7 @@
 2) izstrādā normatīvo aktu projektus par infekcijas slimību profilaksi un pretepidēmijas pasākumu veikšanu;
 3) (izslēgts ar 22.04.2004. likumu);
 4) koordinē infekcijas slimību apkarošanas un likvidācijas valsts un reģionālo programmu izstrādāšanu;
-5) ārkārtējas situācijas vai katastrofas gadījumā iesniedz Ministru kabinetam priekšlikumus epidēmijas izcelšanās draudu novēršanai vai esošās epidēmijas apkarošanai;
+5) ārkārtējas situācijas vai katastrofas vai to draudu gadījumā iesniedz Ministru kabinetam priekšlikumus epidēmijas vai pandēmijas izcelšanās draudu novēršanai vai esošās epidēmijas apkarošanai;
 6) kopīgi ar Izglītības un zinātnes ministriju koordinē iedzīvotāju izglītošanu infekcijas slimību profilakses jomā;
 7) koordinē infekcijas slimību profilakses un pretepidēmijas pasākumos iesaistīto dienestu un institūciju darbību;
 8) ar pakļauto institūciju starpniecību kontrolē ārstniecības, profilakses un pretepidēmijas pasākumu kvalitāti valstī;

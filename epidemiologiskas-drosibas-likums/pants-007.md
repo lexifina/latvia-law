@@ -10,7 +10,7 @@ c) infekcijas slimību izraisītāju cirkulāciju ūdeņos un citos vides objekt
 d) iedzīvotāju vakcināciju un imunitāti;
 5) koordinē Imunizācijas valsts programmas īstenošanu, novērtē tās efektivitāti, plāno iedzīvotāju vakcināciju, organizē un veic iedzīvotāju specifiskās imunitātes izpēti;
 6) veic epidemioloģisko izmeklēšanu, organizē vides objektu un kontaktpersonu laboratorisko pārbaudi, organizē profilakses un pretepidēmijas pasākumus infekcijas slimību perēkļos;
-7) informē un konsultē ieinteresētās personas, institūcijas un iedzīvotājus ar plašsaziņas līdzekļu starpniecību, izplata īpašus informatīvos materiālus par infekcijas slimību profilaksi un apkarošanu, kā arī par epidemioloģisko situāciju valstī un brīdina par epidēmijām ārvalstīs;
+7) informē un konsultē ieinteresētās personas, institūcijas un iedzīvotājus ar plašsaziņas līdzekļu starpniecību, izplata īpašus informatīvos materiālus par infekcijas slimību profilaksi un apkarošanu par peldūdens kvalitāti, kā arī par epidemioloģisko situāciju valstī un brīdina par epidēmijām ārvalstīs;
 8) organizē medicīniski sanitāros pasākumus infekcijas slimību izraisītāju ievešanas un šo slimību izplatīšanās novēršanai, neatliekamus pretepidēmijas pasākumus katastrofu gadījumos un citās ārkārtas situācijās;
 9) informē attiecīgas kontrolējošās institūcijas par šā likuma un citu epidemioloģisko drošību reglamentējošo normatīvo aktu pārkāpumiem, ja tie konstatēti, veicot epidemioloģisko izmeklēšanu.
 (2) Veicot epidemioloģisko uzraudzību vai epidemioloģisko izmeklēšanu, Sabiedrības veselības aģentūras epidemiologiem ir tiesības:
