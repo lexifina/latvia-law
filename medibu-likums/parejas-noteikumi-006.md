@@ -1,0 +1,1 @@
+6. Ja medību platības atrodas Gaujas, Slīteres vai Ķemeru nacionālā parka vai arī Teiču, Krustkalnu, Grīņu vai Moricsalas dabas rezervāta teritorijā, attiecīgās teritorijas administrācija izsniedz medību atļaujas medību tiesību lietotājiem un mednieka sezonas kartes medniekiem līdz 2008.gada 31.martam.

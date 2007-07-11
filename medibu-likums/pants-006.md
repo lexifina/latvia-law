@@ -1,1 +1,1 @@
-6.pants. Medību resursi izmantojami tā, lai nodrošinātu medījamo dzīvnieku sugu populāciju, genofonda un medījamo dzīvnieku apdzīvotās vides aizsardzību un saglabāšanu.
+6.pants. Medību resursi izmantojami tā, lai nodrošinātu medījamo dzīvnieku sugu populāciju, genofonda un medījamo dzīvnieku apdzīvotās vides aizsardzību un saglabāšanu. Medījamo putnu sugu resursus izmanto tā, lai šo sugu medības neapdraudētu dabas aizsardzības pasākumu īstenošanu sugu izplatības teritorijā.

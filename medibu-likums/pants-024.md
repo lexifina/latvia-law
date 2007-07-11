@@ -18,9 +18,10 @@ i) pusautomātiskus vai automātiskus ieročus, kuros vienlaicīgi var ielādēt
 j) lidaparātus, motorizētus braucošus sauszemes un ūdens transportlīdzekļus,
 k) ieročus, kuri nav klasificēti kā medību šaujamieroči;
 8) medīšanu, izmantojot šādus aizliegtus vispārbīstamus medību līdzekļus, rīkus, metodes un paņēmienus:
-a) ķerambedres, cilpas, āķus ar ēsmu, asu priekšmetu uzstādīšanu uz dzīvnieku takām,
+a) ķerambedres, cilpas, āķus, asu priekšmetu uzstādīšanu uz dzīvnieku takām,
 b) elektriskas vai elektroniskas ierīces, kuras spēj apdullināt vai nogalināt dzīvnieku,
 c) sprāgstvielas, patšāvējus,
 d) indes un saindētu vai imobilizējošu ēsmu,
 e) gāzes vai dūmus;
-9) medījamo dzīvnieku turēšanu nebrīvē, ja nav saņemta Valsts meža dienesta atļauja.
+9) medījamo dzīvnieku turēšanu nebrīvē, ja nav saņemta Valsts meža dienesta atļauja;
+10) medīšana, izmantojot jebkādus masveidīgas vai neselektīvas putnu sagūstīšanas vai nonāvēšanas līdzekļus, pasākumus vai paņēmienus, arī tādus, kas var izraisīt sugas izzušanu vietējās pašvaldības vai valsts teritorijā.
