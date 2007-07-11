@@ -1,0 +1,1 @@
+12. Ja meža īpašums vai tiesiskais valdījums atrodas Gaujas, Slīteres vai Ķemeru nacionālā parka vai arī Teiču, Krustkalnu, Grīņu vai Moricsalas dabas rezervāta teritorijā, šā likuma 39.panta pirmajā daļā minētie apliecinājumi saņemami attiecīgās teritorijas administrācijā līdz 2007.gada 31.decembrim.
