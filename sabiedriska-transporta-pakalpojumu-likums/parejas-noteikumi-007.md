@@ -1,0 +1,1 @@
+7. Ministru kabinets līdz 2007.gada 30.septembrim izdod šā likuma 5.panta pirmās daļas 3.punktā un 4.punkta "a" apakšpunktā, 6.panta pirmajā un desmitajā daļā, 8.panta septītajā daļā, 11.panta otrajā daļā, 12.panta trešajā daļā, 13.panta ceturtajā un piektajā daļā, 14.panta otrajā daļā, kā arī 16.panta otrajā daļā minētos noteikumus.

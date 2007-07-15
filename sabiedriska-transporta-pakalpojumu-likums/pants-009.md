@@ -1,0 +1,11 @@
+9.pants. Sabiedriskā transporta pakalpojumu pasūtījums
+(1) Sabiedriskā transporta pakalpojumu pasūtījumu var izdarīt maršrutu tīkla vai atsevišķa maršruta apkalpošanai.
+(2) Pasūtījumu organizē saskaņā ar Publisko iepirkumu likumu vai likumu, kas reglamentē koncesiju piešķiršanu, ciktāl šis likums nenosaka citādi.
+(3) Viens pārvadātājs reģionālo maršrutu tīklā drīkst apkalpot ne vairāk kā 40 procentus no šā tīkla, izņemot gadījumus, kad tiek veikti pārvadājumi pa sliežu ceļiem. Ja pārvadātājs ir noslēdzis pakalpojumu līgumu saskaņā ar tiesību piešķiršanas vai pienākuma (saistību) uzlikšanas procedūru, sabiedriskā transporta pakalpojumus ne mazāk kā 50 procentos no maršrutu skaita sniedz līguma slēdzējs.
+(4) Organizējot pasūtījumus saskaņā ar Publisko iepirkumu likumu vai likumu, kas reglamentē koncesiju piešķiršanu, pārvadātāji var iesniegt kopīgu sabiedriskā transporta pakalpojumu piedāvājumu.
+(5) Tiesības sniegt sabiedriskā transporta pakalpojumus maršrutu tīklā vai maršrutā piešķir un sabiedriskā transporta pakalpojumu pasūtījuma līgumu slēdz:
+1) sabiedriskā transporta pakalpojumu sniegšanai pa sliežu ceļiem - uz 15 gadiem, bet, ja sabiedriskā transporta pakalpojumu sniegšanā pārvadātājiem jāiesaista pilnīgi jauni transportlīdzekļi, - uz laiku līdz 30 gadiem;
+2) sabiedriskā transporta pakalpojumu sniegšanai ar autobusiem - uz 8 gadiem, bet, ja sabiedriskā transporta pakalpojumu sniegšanā pārvadātājiem jāiesaista pilnīgi jauni transportlīdzekļi, - uz laiku līdz 12 gadiem.
+(6) Tiesības sniegt sabiedriskā transporta pakalpojumus maršrutu tīklā vai maršrutā piešķir šajā likumā noteiktajā kārtībā komersantam, kas ir saņēmis pasažieru pārvadājumu veicēja speciālo atļauju (licenci).
+(7) Piešķirot sabiedriskā transporta pakalpojuma sniegšanas tiesības un slēdzot pakalpojuma pasūtījuma līgumu, kura izpildē iesaistīti vairāki sabiedrisko transportlīdzekļu veidi, sabiedriskā transporta pakalpojumu sniegšanas tiesības var piešķirt uz šā panta piektās daļas 1.punktā noteikto termiņu, ja vismaz 50 procentus no līguma vērtības veido sabiedriskā transporta pakalpojumi, kurus nesniedz ar autobusiem.
+(8) Organizējot pasūtījumu saskaņā ar likumu, kas reglamentē koncesiju piešķiršanu, lēmuma par tiesību piešķiršanu sniegt sabiedriskā transporta pakalpojumus apstrīdēšana vai pārsūdzēšana neaptur šā lēmuma darbību.

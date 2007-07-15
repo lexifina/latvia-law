@@ -1,0 +1,1 @@
+2. Līdz 2007.gada 31.decembrim sniedzamo sabiedriskā transporta pakalpojumu rajonu, tālsatiksmes autobusu un dzelzceļa maršrutu tīklā (maršrutos) organizēšana un sniegšana notiek atbilstoši nozaru likumiem.

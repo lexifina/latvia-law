@@ -1,0 +1,4 @@
+12.pants. Pārvadātāja izdevumi
+(1) Ja sabiedriskā transporta pakalpojumiem valsts nosaka minimālās kvalitātes prasības, kuras pārvadātājs, darbojoties komerciālos nolūkos, neieviestu un kuru ieviešana tam rada papildu izdevumus, pārvadātājam ir tiesības prasīt no valsts visu šo izdevumu kompensēšanu.
+(2) Šā panta pirmajā daļā minētos izdevumus kompensē pārvadātājiem, kuri sniedz sabiedriskā transporta pakalpojumus sabiedriskā transporta pakalpojumu pasūtījuma ietvaros, ja minimālās kvalitātes prasības tiek noteiktas pēc sabiedriskā transporta pakalpojumu sniegšanas uzsākšanas.
+(3) Kārtību, kādā nosaka, aprēķina un pārvadātājam kompensē šā panta pirmajā daļā minētos izdevumus un piešķir pašvaldībām finansējumu no valsts budžeta šā panta pirmajā daļā minēto izdevumu segšanai, kā arī kontrolē šo līdzekļu izmantošanas tiesiskumu un pareizību, nosaka Ministru kabinets.

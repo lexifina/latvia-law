@@ -1,0 +1,1 @@
+8. Ar sabiedriskā transporta pakalpojumu sniegšanu saistītos zaudējumus rajonu pilsētās pilsētu nozīmes maršrutu tīkla pamata maršrutos pārvadātājiem kompensē no valsts budžeta 100 procentu apmērā līdz administratīvi teritoriālās reformas pabeigšanai.
