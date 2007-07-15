@@ -10,4 +10,4 @@
 2) ūdensapgāde un kanalizācija;
 3) siltumapgāde, kur ražošanas procesā netiek izstrādāta elektroenerģija.
 (4) To sabiedrisko pakalpojumu veidus, kuru sniegšanu nepieciešams regulēt, valsts regulējamās nozarēs nosaka Ministru kabinets, bet pašvaldību regulējamās nozarēs - attiecīgās pašvaldības saskaņā ar šo likumu un citiem normatīvajiem aktiem.
-(5) Pasažieru regulāros autopārvadājumus (izņemot autopārvadājumus starptautiskajos maršrutos), kas tiek dotēti no valsts budžeta vai valsts speciālā budžeta, regulē valsts vai pašvaldība attiecīgi savas kompetences ietvaros saskaņā ar Autopārvadājumu likumu. Likumā "Par sabiedrisko pakalpojumu regulatoriem" noteiktajā kārtībā nosaka tarifu aprēķināšanas metodiku un maksimālo robežtarifu maksai par šādiem pasažieru pārvadājumiem.
+(5) (Izslēgta ar 14.06.2007. likumu.)
