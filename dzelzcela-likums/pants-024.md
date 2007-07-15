@@ -12,4 +12,4 @@
 (8) (Izslēgta ar 04.03.2004. likumu.)
 (9) Ja tiek noslēgts dzelzceļa pārvadājumu pasūtījuma līgums, pārvadātājs atver atsevišķu norēķinu kontu maksājumiem par dzelzceļa pārvadājumu pasūtījuma izpildi un šos naudas līdzekļus grāmatvedības dokumentos uzrāda atsevišķi. Pārvadātājs nav tiesīgs naudas līdzekļus, kas samaksāti par dzelzceļa pārvadājumu pasūtījumu, izmantot citiem transporta pakalpojumiem, kurus tas sniedz, vai citiem komercdarbības veidiem, kurus tas veic.
 (10) Noslēgtos dzelzceļa kravu pārvadājumu pasūtījuma līgumus reģistrē un to izpildi kontrolē Valsts dzelzceļa administrācija.
-(11) Noslēgtos dzelzceļa pasažieru pārvadājumu pasūtījuma līgumus reģistrē un to izpildi kontrolē Sabiedrisko pakalpojumu regulēšanas komisija.
+(11) (Izslēgta ar 14.06.2007. likumu.)
