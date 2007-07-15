@@ -1,0 +1,1 @@
+19. Šā likuma grozījumi par 29.¹, 29.², 31. un 32.panta, 37.panta ceturtās daļas un 38.panta izslēgšanu un šā likuma papildināšanu ar 1.panta 29.¹ punktu, 32.¹ un 38.¹ pantu un 34.panta otrās un trešās daļas izteikšanu jaunā redakcijā stājas spēkā 2008.gada 1.janvārī.
