@@ -1,0 +1,1 @@
+4. Grozījumi šā likuma 4.panta nosaukumā un ievaddaļā, 10.panta nosaukuma jaunā redakcija, grozījumi 11.panta nosaukumā un pirmās daļas jaunā redakcija, grozījumi 18.panta pirmajā daļā un otrās daļas izslēgums, kā arī grozījumi 20.panta 4.punktā stājas spēkā 2008.gada 1.janvārī.
