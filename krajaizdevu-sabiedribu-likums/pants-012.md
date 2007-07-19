@@ -1,10 +1,10 @@
 12.pants. Prasības krājaizdevu sabiedrības amatpersonām
 (1) Par krājaizdevu sabiedrības valdes priekšsēdētāju, valdes locekli, galveno grāmatvedi, revīzijas komisijas priekšsēdētāju un locekli var būt persona:
-1) kura ir iekšzemes nodokļu maksātājs (rezidents);
+1) (izslēgts ar 21.06.2007. likumu);
 2) kura ir kompetenta finanšu vadības jautājumos;
-3) kurai ir nepieciešamā izglītība un profesionālā pieredze krājaizdevu sabiedrību darbībā;
+3) kurai ir nepieciešamā izglītība vai profesionālā pieredze krājaizdevu sabiedrību darbībā;
 4) kurai ir nevainojama reputācija (uz to neattiecas neviens no šā panta otrajā daļā minētajiem nosacījumiem);
-5) kurai nav atņemtas tiesības veikt uzņēmējdarbību.
+5) kurai nav atņemtas tiesības veikt komercdarbību.
 (2) Par krājaizdevu sabiedrības valdes priekšsēdētāju, valdes locekli, galveno grāmatvedi, revīzijas komisijas priekšsēdētāju un locekli nevar būt persona:
 1) kura ir notiesāta par tīša noziedzīga nodarījuma izdarīšanu, arī ļaunprātīgu bankrotu;
 2) kura ir notiesāta par tīša noziedzīga nodarījuma izdarīšanu, kaut arī atbrīvota no soda izciešanas sakarā ar noilgumu, apžēlošanu vai amnestiju;

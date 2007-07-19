@@ -1,6 +1,6 @@
 19.pants. Krājaizdevu sabiedrības darbības veidi
 (1) Krājaizdevu sabiedrība pēc reģistrācijas Latvijas Republikas Uzņēmumu reģistrā ir tiesīga veikt savos statūtos un Komisijas izsniegtajā speciālajā atļaujā (licencē) noteikto darbību.
-(2) Krājaizdevu sabiedrība pieņem noguldījumus tikai no saviem biedriem atbilstoši kopsapulces (pilnvaroto sapulces) apstiprinātajiem noguldījumu pieņemšanas noteikumiem.
+(2) Krājaizdevu sabiedrība pieņem noguldījumus tikai no saviem biedriem.
 (3) Krājaizdevu sabiedrība izsniedz aizdevumus tikai saviem biedriem - fiziskajām personām atbilstoši kopsapulces (pilnvaroto sapulces) apstiprinātajiem kredītpolitikas noteikumiem.
 (4) Krājaizdevu sabiedrības kredītpolitikā nosaka:
 1) mērķus, kādiem izsniedzami aizdevumi;

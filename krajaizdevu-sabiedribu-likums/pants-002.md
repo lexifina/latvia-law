@@ -14,4 +14,4 @@
 (3) Krājaizdevu sabiedrībai ir komersanta statuss.
 (4) Krājaizdevu sabiedrība ir juridiskā persona. Krājaizdevu sabiedrībai ir tiesības statūtos noteiktajā kārtībā iegūt un atsavināt kustamu un nekustamu mantu, tai skaitā pieņemt dāvinājumus, ziedojumus un mantojumus, kā arī uzņemties saistības un būt par prasītāju un atbildētāju tiesā.
 (5) Krājaizdevu sabiedrības tiesībspēja rodas ar brīdi, kad šī sabiedrība ir reģistrēta Latvijas Republikas Uzņēmumu reģistrā.
-(6) Krājaizdevu sabiedrība nav tiesīga atvērt kontus ārvalstīs reģistrētajās finanšu iestādēs un kredītiestādēs.
+(6) (Izslēgta ar 21.06.2007. likumu.)
