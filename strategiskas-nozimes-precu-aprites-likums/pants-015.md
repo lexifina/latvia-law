@@ -1,0 +1,2 @@
+15.pants. Dubulta pielietojuma preču kontrole
+Regulas 1334/2000 1.pielikumā minēto dubultā pielietojuma preču apriti kontrolē komiteja. Latvijas Republikas Nacionālajā stratēģiskas nozīmes preču un pakalpojumu sarakstā minēto stratēģiskas nozīmes preču apriti kontrolē komiteja un Drošības policija. Regulas 1334/2000 1.pielikumā minēto kodolmateriālu un kodoliekārtu apriti kontrolē komiteja, Radiācijas drošības centrs un Drošības policija.

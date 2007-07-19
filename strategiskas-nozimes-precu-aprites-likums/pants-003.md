@@ -1,0 +1,3 @@
+3.pants. Vispārīgie noteikumi
+(1) Latvijas Republikas Nacionālo stratēģiskas nozīmes preču un pakalpojumu sarakstu nosaka Ministru kabinets.
+(2) Komitejas izsniegta stratēģiskas nozīmes preču licence ir nepieciešama katram Eiropas Savienības Kopējā militāro preču sarakstā, regulas 1334/2000 1.pielikumā un Latvijas Republikas Nacionālajā stratēģiskas nozīmes preču un pakalpojumu sarakstā minēto preču eksporta, importa vai tranzīta sūtījumam, kā arī katrai Eiropas Savienības Kopējā militāro preču sarakstā, regulas 1334/2000 4.pielikumā un Latvijas Republikas Nacionālajā stratēģiskas nozīmes preču un pakalpojumu sarakstā minēto preču pārvietošanai starp Eiropas Savienības dalībvalstīm.
