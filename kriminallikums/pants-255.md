@@ -3,3 +3,5 @@
 soda ar brīvības atņemšanu uz laiku no viena gada līdz trim gadiem.
 (2) Par tādām pašām darbībām, ja tās izdarītas nolūkā realizēt šīs iekārtas, ierīces, priekšmetus, materiālus vai vielas (prekursorus), vai par narkotisko vai psihotropo vielu neatļautai izgatavošanai paredzētu iekārtu, ierīču, priekšmetu, materiālu vai vielu (prekursoru) realizēšanu -
 soda ar brīvības atņemšanu uz laiku no trim līdz desmit gadiem, konfiscējot mantu vai atņemot tiesības uz zināmu nodarbošanos uz laiku no diviem līdz pieciem gadiem vai bez tā.
+(3) Par šā panta pirmajā vai otrajā daļā paredzētajām darbībām, ja tās izdarījusi personu grupa pēc iepriekšējas vienošanās, -
+soda ar brīvības atņemšanu uz laiku no pieciem līdz desmit gadiem, konfiscējot mantu vai atņemot tiesības uz zināmu nodarbošanos uz laiku no diviem līdz pieciem gadiem.
