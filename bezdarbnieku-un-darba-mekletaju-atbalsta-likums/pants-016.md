@@ -1,8 +1,14 @@
-16.pants. Darba meklētāja tiesības
+16.pants. Darba meklētāja tiesības un pienākumi
 (1) Darba meklētājam ir tiesības:
 1) piedalīties konkurētspējas paaugstināšanas pasākumos;
 2) saņemt informāciju par brīvajām darba vietām un ar tām saistītām kvalifikācijas un citām prasībām;
-3) saņemt ar profesionālo orientāciju un konsultēšanu saistītos pakalpojumus.
-(2) Šā panta pirmajā daļā noteiktās tiesības ir arī personai, kura atbilst šā likuma 15.panta 1., 3., 4., 5. un 6.punkta prasībām un vismaz vienam no šādiem priekšnoteikumiem:
+3) saņemt karjeras konsultācijas.
+(2) Šā panta pirmajā daļā noteiktās tiesības un tiesības iesaistīties šā likuma 3.¹ panta pirmajā daļā minētajos preventīvajos bezdarba samazināšanas pasākumos ir arī darbspējīgai, bezdarba riskam pakļautajai personai, kura atbilst šā likuma 2.panta otrās daļas un 15.panta pirmās daļas 4. un 5.punkta prasībām un vismaz vienam no šādiem priekšnoteikumiem:
 1) kurai uzteikts darba līgums, pamatojoties uz apstākļiem, kas saistīti ar neatliekamu saimniecisku, organizatorisku, tehnoloģisku vai līdzīga rakstura pasākumu veikšanu;
-2) kura iegūst izglītību vispārējās, speciālās vai profesionālās izglītības iestādē.
+2) kura ir komersanta nodarbinātā persona vai pašnodarbinātais un kurai nepieciešami kvalifikācijas paaugstināšanas, pārkvalifikācijas un tālākizglītības pasākumi, lai uzturētu savu spēju konkurēt darba tirgū un mazinātu bezdarba iestāšanās risku;
+3) kura ir komersanta nodarbinātā persona un kurai nepieciešami pasākumi reģionālās mobilitātes veicināšanai, lai mazinātu bezdarba iestāšanās risku, kas saistīts ar personas pārvietošanos starp dzīvesvietu un darbavietu.
+(3) Šā panta pirmās daļas 2. un 3.punktā noteiktās tiesības un tiesības iesaistīties šā likuma 3.panta pirmās daļas 3.punktā minētajos nodarbinātības pasākumos vasaras brīvlaikā ir arī 13 gadu vecumu sasniegušām personām, kuras atbilst šā likuma 2.panta otrās daļas un 15.panta pirmās daļas 1., 2. un 5.punkta prasībām un kuras iegūst izglītību vispārējās, speciālās vai profesionālās izglītības iestādēs.
+(4) Darba meklētājam ir pienākums:
+1) patstāvīgi un ar Nodarbinātības valsts aģentūras palīdzību aktīvi meklēt darbu;
+2) Nodarbinātības valsts aģentūras noteiktajā laikā, bet ne vēlāk kā pēc trim mēnešiem no dienas, kad viņš iepriekšējo reizi apmeklēja Nodarbinātības valsts aģentūru, ierasties Nodarbinātības valsts aģentūrā un uzrādīt normatīvajos aktos noteiktos dokumentus;
+3) triju darba dienu laikā ziņot Nodarbinātības valsts aģentūrai par to, ka viņš vairs neatbilst šā likuma 15.panta pirmās daļas 1., 3. un 5.punktā minētajiem darba meklētāja statusa iegūšanas nosacījumiem.

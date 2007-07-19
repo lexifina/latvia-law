@@ -1,2 +1,2 @@
 1.pants. Likuma mērķis
-Likuma mērķis ir izveidot bezdarbnieku un darba meklētāju atbalsta sistēmu, lai nodrošinātu viņiem iespēju atgriezties darba tirgū.
+Likuma mērķis ir sniegt atbalstu bezdarbniekiem, darba meklētājiem un bezdarba riskam pakļautajām personām, lai veicinātu to spēju konkurēt darba tirgū.

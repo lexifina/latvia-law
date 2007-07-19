@@ -1,1 +1,1 @@
-4. Ministru kabinets līdz 2002.gada 30.septembrim izdod šā likuma 4.panta ceturtajā daļā minētos noteikumus.
+4. Ministru kabinets līdz 2002.gada 30.septembrim izdod šā likuma 4.panta ceturtajā daļā 2002.gada 9.maija redakcijā minētos noteikumus.

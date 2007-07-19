@@ -1,13 +1,13 @@
 14.pants. Bezdarbnieka pienākumi
 (1) Bezdarbniekam ir pienākums:
 1) patstāvīgi un ar Nodarbinātības valsts aģentūras palīdzību aktīvi meklēt darbu un pēc bezdarbnieka statusa iegūšanas nekavējoties sniegt priekšlikumus Nodarbinātības valsts aģentūrai individuālā darba meklēšanas plāna izstrādei;
-2) mēneša laikā no iepriekšējā Nodarbinātības valsts aģentūras apmeklējuma dienas ierasties aģentūrā un uzrādīt bezdarbnieka statusa saglabāšanai nepieciešamos dokumentus;
+2) individuālajā darba meklēšanas plānā noteiktajā dienā ierasties Nodarbinātības valsts aģentūrā un uzrādīt normatīvajos aktos noteiktos dokumentus;
 3) ierasties Nodarbinātības valsts aģentūrā triju darba dienu laikā no izsaukuma saņemšanas dienas;
 4) piedalīties individuālajā darba meklēšanas plānā paredzētajos pasākumos;
 5) ziņot Nodarbinātības valsts aģentūrai:
-a) triju darba dienu laikā - ja ir mainījušies šā likuma 12.panta pirmajā daļā minētie bezdarbnieka statusa zaudēšanas nosacījumi,
+a) triju darba dienu laikā - ja persona vairs neatbilst šā likuma 10.panta pirmās daļas 2., 4., 6., 7., 8. un 9.punktā minētajiem bezdarbnieka statusa iegūšanas nosacījumiem,
 b) triju darba dienu laikā - ja ir iegūts darba ņēmēja statuss uz laiku līdz diviem mēnešiem saskaņā ar likumu "Par valsts sociālo apdrošināšanu",
-c) triju darba dienu laikā - par deklarētās dzīvesvietas maiņu,
+c) (izslēgts ar 21.06.2007. likumu),
 d) triju nedēļu laikā no pārejošas darbnespējas sākuma - par pārejošas darbnespējas laiku, ja tas ir bijis ilgāks par divām nedēļām.
 (2) Aktīva darba meklēšana šā likuma izpratnē ir personas mērķtiecīgas darbības nolūkā atrast algotu darbu - piedalīšanās konkursos uz vakantajām darba vietām, kā arī citas darbības, kuru mērķis ir atrast darbu.
 (3) Neierašanās Nodarbinātības valsts aģentūrā šā panta pirmās daļas 2. un 3.punktā minētajos gadījumos tiek uzskatīta par attaisnotu, ja:
@@ -18,4 +18,4 @@ d) triju nedēļu laikā no pārejošas darbnespējas sākuma - par pārejošas 
 5) ierašanās nav iespējama sakarā ar dalību aktīvajos nodarbinātības pasākumos vai citu individuālajā darba meklēšanas plānā paredzēto pasākumu īstenošanu;
 6) ir citi objektīvi apstākļi, kas nav atkarīgi no bezdarbnieka gribas.
 (4) Bezdarbniekam jāierodas Nodarbinātības valsts aģentūrā pirmajā darba dienā pēc šā panta trešajā daļā minēto attaisnojošo iemeslu izbeigšanās, uzrādot attaisnojošo iemeslu apstiprinošu dokumentu.
-(5) Ja bezdarbnieks maina deklarēto dzīvesvietu Latvijas teritorijā, viņam jāiesniedz attiecīgs iesniegums Nodarbinātības valsts aģentūrai pēc iepriekšējās deklarētās dzīvesvietas. Bezdarbniekam jāierodas Nodarbinātības valsts aģentūrā pēc jaunās deklarētās dzīvesvietas mēneša laikā no iesnieguma par dzīvesvietas maiņu iesniegšanas dienas.
+(5) (Izslēgta ar 21.06.2007. likumu.)

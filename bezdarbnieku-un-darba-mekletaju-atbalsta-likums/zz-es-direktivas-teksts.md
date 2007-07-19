@@ -1,0 +1,6 @@
+Likumā iekļautas tiesību normas, kas izriet no:
+1) Padomes 2001.gada 20.jūlija direktīvas 2001/55/EK par obligātajiem standartiem, lai pārvietoto personu masveida pieplūduma gadījumā sniegtu tām pagaidu aizsardzību, un par pasākumiem, lai līdzsvarotu dalībvalstu pūliņus, uzņemot šādas personas un uzņemoties ar to saistītās sekas;
+2) Padomes 2003.gada 25.novembra direktīvas 2003/109/EK par trešo valstu pilsoņu statusu, kuri ir kādas dalībvalsts pastāvīgie iedzīvotāji;
+3) Padomes 2004.gada 29.aprīļa direktīvas 2004/38/EK par Savienības pilsoņu un viņu ģimenes locekļu tiesībām brīvi pārvietoties un uzturēties dalībvalstu teritorijā, ar ko groza regulu (EEK) Nr. 1612/68 un atceļ direktīvas 64/221/EEK, 68/360/EEK, 72/194/EEK, 73/148/EEK, 75/34/EEK, 75/35/EEK, 90/364/EEK, 90/365/EEK un 93/96/EEK;
+4) Padomes 2004.gada 29.aprīļa direktīvas 2004/83/EK par obligātajiem standartiem, lai kvalificētu trešo valstu valstspiederīgos vai bezvalstniekus kā bēgļus vai kā personas, kam citādi nepieciešama starptautiska aizsardzība, šādu personu statusu un piešķirtās aizsardzības saturu;
+5) Padomes 2005.gada 12.oktobra direktīvas 2005/71/EK par īpašu procedūru trešo valstu valstspiederīgo uzņemšanai zinātniskās pētniecības nolūkos.

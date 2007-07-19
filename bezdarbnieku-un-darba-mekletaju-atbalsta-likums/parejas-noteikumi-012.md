@@ -1,0 +1,1 @@
+12. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2008.gada 1.janvārim piemērojami Ministru kabineta 2003.gada 20.janvāra noteikumi Nr.24 "Bezdarbnieka statusa piešķiršanas kārtība", ciktāl tie nav pretrunā ar šo likumu.
