@@ -1,1 +1,3 @@
-1. Šā likuma 10.panta pirmā daļa, 41. un 42.pants stājas spēkā 2008.gada 1.janvārī.
+1. Šā likuma 10.panta pirmā daļa, 41. un 42.pants stājas spēkā 2008.gada 1.janvārī. Pēc 2008.gada 1.janvāra tiesības veikt sociālo darbu, sniegt sociālās aprūpes, sociālās rehabilitācijas pakalpojumus un sociālo palīdzību ir arī personām, kuras:
+1) jau veic minēto darbu un kurām 2007.gada 31.decembrī līdz valsts vecuma pensijas piešķiršanai noteiktā vecuma sasniegšanai palikuši ne vairāk kā pieci gadi;
+2) līdz 2007.gada 31.decembrim uzsākušas studijas vai turpina iegūt šā likuma 41. un 42.pantā noteikto izglītību. Minētās personas katru gadu līdz 15.oktobrim iesniedz darba devējam augstskolas vai koledžas izsniegtu izziņu par to, ka šīs personas ir augstskolas vai koledžas studējošo sarakstā.
