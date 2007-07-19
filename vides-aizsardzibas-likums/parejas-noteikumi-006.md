@@ -1,4 +1,4 @@
-6. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2007.gada 1.decembrim piemēro šādus Ministru kabineta noteikumus, ciktāl tie nav pretrunā ar šo likumu:
+6. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2008.gada 1.martam piemēro šādus Ministru kabineta noteikumus, ciktāl tie nav pretrunā ar šo likumu:
 1) Ministru kabineta 2003.gada 8.aprīļa noteikumi Nr.162 "Noteikumi par vides monitoringu un piesārņojošo vielu reģistru";
 2) Ministru kabineta 2005.gada 24.maija noteikumi Nr.357 "Dabas pieminekļiem nodarītā kaitējuma dēļ radīto zaudējumu aprēķināšanas kārtība";
 3) Ministru kabineta 2004.gada 20.aprīļa noteikumi Nr.320 "Kārtība, kādā izveido un uztur vides pārvaldības un audita sistēmas reģistru un reģistrē tajā organizācijas";

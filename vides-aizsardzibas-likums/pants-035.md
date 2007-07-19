@@ -3,3 +3,4 @@
 (2) Šīs nodaļas nosacījumi neattiecas uz darbībām, kuru galvenais mērķis ir valsts aizsardzība vai starptautiskā drošība, kā arī uz darbībām, kuru vienīgais mērķis ir aizsardzība pret dabas katastrofu.
 (3) Nepārvaramas varas gadījumā operators nekavējoties rakstveidā informē Valsts vides dienestu par kaitējumu videi vai tiešiem kaitējuma draudiem, ja iespējams, norādot veiktos un plānotos pasākumus, lai novērstu, ierobežotu vai samazinātu kaitējumu videi vai tiešus kaitējuma draudus, kā arī nekavējoties veic visus neatliekamos pasākumus.
 (4) Pēc nepārvaramas varas seku likvidēšanas operators sniedz Valsts vides dienestam informāciju par kaitējumu videi, tā apjomu un veiktajiem pasākumiem tā ierobežošanai vai novēršanai, kā arī pašreizējās situācijas novērtējumu.
+(5) Šīs nodaļas nosacījumi neattiecas uz emisiju, avāriju vai kādu citu gadījumu, kas izraisījis kaitējumu videi, ja kopš šā kaitējuma izraisīšanas ir pagājuši vairāk nekā 30 gadi.

@@ -1,3 +1,4 @@
 22.pants. Vietējās pašvaldības kontrole vides jomā
 (1) Vietējā pašvaldība atbilstoši likumā "Par pašvaldībām" vai vides normatīvajos aktos noteiktajai pašvaldības atbildībai veic kontroli vides jomā.
 (2) Pašvaldības vides kontroles amatpersonām ir šā likuma 21.panta pirmās daļas 1., 2., 5. un 9.punktā minētās tiesības.
+(3) Ja tiek pārkāptas normatīvo aktu prasības attiecībā uz mehānisko transportlīdzekļu stāvēšanu vai apstāšanos ārpus autoceļiem Baltijas jūras un Rīgas jūras līča piekrastes krasta kāpu aizsargjoslā un pludmalē vai īpaši aizsargājamā dabas teritorijā un transportlīdzekļa vadītājs neatrodas pārkāpuma izdarīšanas vietā, pašvaldības vides kontroles amatpersonām un pilnvarotajām amatpersonām ir tiesības rīkoties saskaņā ar šā likuma 21.panta otrajā daļā noteikto administratīvo sodu piemērošanas kārtību.

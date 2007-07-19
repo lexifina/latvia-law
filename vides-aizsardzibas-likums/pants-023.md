@@ -4,4 +4,8 @@
 (3) Sabiedriskajiem vides inspektoriem ir tiesības:
 1) veikt pārbaudes kopā ar valsts vides inspektoru;
 2) sastādīt pārbaudes aktu, konstatējot faktisko situāciju, un nosūtīt to Valsts vides dienestam;
-3) normatīvajos aktos noteiktajos gadījumos veikt pārbaudes bez valsts vides inspektora klātbūtnes, sastādīt administratīvo protokolu un nosūtīt to izskatīšanai attiecīgajai kompetentajai iestādei.
+3) veikt pārbaudes bez valsts vides inspektora klātbūtnes, sastādīt administratīvā pārkāpuma protokolu un nosūtīt to izskatīšanai Valsts vides dienestam šādos gadījumos:
+a) ar atkritumiem tiek piegružota publiski pieejama teritorija (teritorija, kas bez ierobežojumiem pieejama sabiedrībai neatkarīgi no tā, kā īpašumā atrodas),
+b) mehāniskais transportlīdzeklis pārvietojas, arī stāv vai apstājas ārpus autoceļiem Baltijas jūras un Rīgas jūras līča piekrastes krasta kāpu aizsargjoslā un pludmalē vai īpaši aizsargājamā dabas teritorijā,
+c) ugunskuri tiek kurināti ārpus šim nolūkam iekārtotām vietām un tādējādi tiek bojāta dabiskā zemsedze Baltijas jūras un Rīgas jūras līča piekrastes krasta kāpu aizsargjoslā,
+d) normatīvajos aktos paredzētajos citos gadījumos.
