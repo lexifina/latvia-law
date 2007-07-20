@@ -1,1 +1,1 @@
-9. Līdz 2007.gada 1.februārim zinātniskā institūta lēmējorgāns apstiprina zinātniskā institūta - atvasinātas publiskas personas - nolikumu.
+9. Šā likuma 21.² panta sestajā daļā minēto zinātnisko institūtu - atvasinātu publisku personu - lēmējinstitūcijas ir attiecīgo pārveidoto zinātnisko institūtu - valsts aģentūru zinātniskās padomes, kas ievēlētas laikā līdz 2007.gada 6.janvārim un darbojas līdz tām noteiktā pilnvaru termiņa beigām.
