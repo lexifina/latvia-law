@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Par iekārtu elektromagnētisko saderību",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "97",
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-22",
+  "entry_into_force": "2007-07-20",
+  "notification_date": "2006-07-06",
+  "commission_reference": "MNE(2006)54365",
+  "nim_celex": "72004L0108LVA_133105",
+  "nim_id": "133105",
+  "transposes_celex": [
+    "32004L0108"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/25ca65b8-5d5e-4344-8557-b870753c522a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
