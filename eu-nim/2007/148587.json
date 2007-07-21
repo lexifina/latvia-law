@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Transportlīdzekļu apkalpes locekļu darba laika organizēšanas, ievērošanas un uzskaites noteikumi",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "117",
+  "official_journal_page": null,
+  "official_journal_date": "2007-07-20",
+  "entry_into_force": "2007-07-21",
+  "notification_date": "2007-09-06",
+  "commission_reference": "MNE(2007)56567",
+  "nim_celex": "72002L0015LVA_148587",
+  "nim_id": "148587",
+  "transposes_celex": [
+    "32002L0015",
+    "32006L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b3afe04d-0691-42d0-9d77-665580e40929",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
