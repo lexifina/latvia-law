@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Dārzeņu sēklaudzēšanas un sēklu tirdzniecības noteikumi",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "121",
+  "official_journal_page": null,
+  "official_journal_date": "2007-07-27",
+  "entry_into_force": null,
+  "notification_date": "2007-07-30",
+  "commission_reference": "MNE(2007)55800",
+  "nim_celex": "71996L0018LVA_147489",
+  "nim_id": "147489",
+  "transposes_celex": [
+    "31996L0018",
+    "31996L0072",
+    "31998L0095",
+    "32002L0055",
+    "32006L0124"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c5bd23ea-283a-40e0-ae27-3afdc04fabc9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
