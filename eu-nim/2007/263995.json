@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2007.gada 26.jūnija noteikumi Nr. 436 \"Zāļu ievešanas un izvešanas kārtība\".",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "104 (3680)",
+  "official_journal_page": null,
+  "official_journal_date": "2007-06-29",
+  "entry_into_force": "2007-08-01",
+  "notification_date": "2018-10-11",
+  "commission_reference": "MNE(2018)55514",
+  "nim_celex": "72017L1572LVA_263995",
+  "nim_id": "263995",
+  "transposes_celex": [
+    "32017L1572"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/802c50c1-3836-44cb-9c44-50298a442433",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
