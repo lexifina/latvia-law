@@ -1,0 +1,4 @@
+26.¹ pants. Līdzvērtīgas zemes kompensācijas fonds pilsētās
+(1) Lai bijušajiem zemes īpašniekiem vai viņu mantiniekiem nodotu īpašumā līdzvērtīgu zemi likumā "Par zemes reformu Latvijas Republikas pilsētās" 12.pantā noteiktajos gadījumos un saskaņā ar likuma "Par valsts un pašvaldību zemes īpašuma tiesībām un to nostiprināšanu zemesgrāmatās" 6.panta pirmo daļu, pilsētas dome izveido līdzvērtīgas zemes kompensācijas fondu.
+(2) Bijušajiem zemes īpašniekiem vai viņu mantiniekiem bijušā īpašuma vietā tās pašas pilsētas administratīvajā teritorijā piešķir līdzvērtīgu zemi, kuras pašreizējā kadastrālā vērtība kompensē bijušā zemes īpašuma vērtību, kāda tā bija 1940.gada 21.jūlijā.
+(3) Līdzvērtīgas zemes kompensācijas fonda izveidošanas un līdzvērtīgas zemes piešķiršanas kārtību bijušajiem zemes īpašniekiem vai viņu mantiniekiem nosaka Ministru kabinets.

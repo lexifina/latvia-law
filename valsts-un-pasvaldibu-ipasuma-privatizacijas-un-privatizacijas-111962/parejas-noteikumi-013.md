@@ -1,1 +1,1 @@
-13. Uz valsts vārda Privatizācijas aģentūras personā zemesgrāmatā var tikt ierakstīti privatizācijai nodoti valsts īpašuma objekti, kā arī valstij piekrītoši vai piederoši neapbūvēti un apbūvēti zemesgabali.
+13. Par tiem privatizācijas ierosinājumiem, kuri saskaņā ar šā likuma 5.panta pirmo, ceturto un piekto daļu reģistrēti Privatizācijas reģistrā no 2006.gada 1.jūlija, Ministru kabineta rīkojuma projektu Privatizācijas aģentūra sagatavo un iesniedz Ekonomikas ministrijai 15 mēnešu laikā no privatizācijas ierosinājuma saņemšanas dienas.

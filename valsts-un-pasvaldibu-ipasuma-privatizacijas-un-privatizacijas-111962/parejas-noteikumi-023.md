@@ -1,0 +1,1 @@
+23. Personas, kuras no 2006.gada 1.aprīļa līdz 2007.gada 1.augustam bija zaudējušas tiesības tām piešķirtos privatizācijas sertifikātus ieskaitīt privatizācijas sertifikātu kontā, var privatizācijas sertifikātus ieskaitīt šajā kontā saskaņā ar šā likuma 27.panta piektās daļas noteikumiem.

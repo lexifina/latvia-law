@@ -1,0 +1,4 @@
+14. Rīgas pilsētas pašvaldības dome šā likuma 6.panta otrajā daļā minēto lēmumu par nodošanu privatizācijai vai pamatotu atteikumu par privatizācijas ierosinājumu noraidīšanu pieņem:
+1) līdz 2007.gada 31.augustam - par tiem privatizācijas ierosinājumiem, kuri saskaņā ar šā likuma 5.panta pirmo, ceturto un piekto daļu reģistrēti Privatizācijas reģistrā no 2005.gada 1.septembra līdz 2005.gada 31.decembrim;
+2) līdz 2008.gada 29.februārim - par tiem privatizācijas ierosinājumiem, kuri saskaņā ar šā likuma 5.panta pirmo, ceturto un piekto daļu reģistrēti Privatizācijas reģistrā no 2006.gada 1.janvāra līdz 2006.gada 30.jūnijam;
+3) līdz 2008.gada 31.decembrim - par tiem privatizācijas ierosinājumiem, kuri saskaņā ar šā likuma 5.panta pirmo, ceturto un piekto daļu reģistrēti Privatizācijas reģistrā no 2006.gada 1.jūlija.

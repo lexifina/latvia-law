@@ -1,1 +1,4 @@
-6. Ministru kabinets līdz 2007.gada 31.martam izdod noteikumus, kuros reglamentē šā likuma 32.panta septītajā daļā minētās priekšapmaksas kārtību un lietošanā piešķirtās zemes izpirkšanas līgumu slēgšanas kārtību, kā arī kārtību, kādā saskaņā ar šā likuma 23.panta pirmo daļu un 24.panta pirmo daļu iesniedzams apliecinājums par zemes izpirkšanas maksājumu privatizācijas sertifikātos pirms zemes izpirkšanas līguma slēgšanas.
+6. Ministru kabinets līdz 2007.gada 30.septembrim izdod noteikumus, kas reglamentē šā likuma:
+1) 32.panta septītajā daļā minēto priekšapmaksas kārtību un kārtību, kādā valsts akciju sabiedrība "Latvijas Hipotēku un zemes banka" paziņo par veiktajām priekšapmaksām;
+2) 32.panta astotajā daļā minēto zemes izpirkuma (pirkuma) līguma noslēgšanas kārtību, līguma būtiskos noteikumus, ar līguma slēgšanu saistīto izdevumu samaksas kārtību un apmēru, kā arī zemes izpirkuma (pirkuma) tipveida līgumu;
+3) 26.¹ panta trešajā daļā minēto līdzvērtīgas zemes kompensācijas fonda izveidošanas kārtību, kā arī kārtību, kādā piešķirama līdzvērtīga zeme bijušajiem zemes īpašniekiem vai viņu mantiniekiem.

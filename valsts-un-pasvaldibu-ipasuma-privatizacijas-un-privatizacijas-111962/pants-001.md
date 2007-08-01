@@ -3,3 +3,4 @@
 (2) Termini un jēdzieni šā likuma normās, kuras regulē valsts vai pašvaldības mantas atsavināšanu, lietoti Valsts un pašvaldību mantas atsavināšanas likuma izpratnē.
 (3) Termini un jēdzieni šā likuma normās, kuras regulē privatizācijas sertifikātu piešķiršanu, darījumus ar privatizācijas sertifikātiem, kā arī privatizācijas sertifikātu izmantošanu, lietoti likuma "Par privatizācijas sertifikātiem" izpratnē.
 (4) Termini un jēdzieni šā likuma normās, kuras regulē zemes reformas pabeigšanu pilsētās un lauku apvidos, lietoti likumu "Par zemes reformu Latvijas Republikas pilsētās", "Par zemes reformas pabeigšanu pilsētās", "Par zemes privatizāciju lauku apvidos" un "Par zemes reformas pabeigšanu lauku apvidos" izpratnē.
+(5) Šajā likumā un zemes reformas likumos lietotie termini "zeme" un "zemesgabals" atbilst Nekustamā īpašuma valsts kadastra likumā lietotajam terminam "zemes vienība".

@@ -1,1 +1,1 @@
-7. Ministru kabinets līdz 2007.gada 1.septembrim izanalizē situāciju, kāda ir sertifikātu izmantošanā, un situāciju attiecībā uz pastāvīgajā lietošanā nodotajām, bet neiemērītajām zemēm un sniedz par to ziņojumu Saeimai.
+7. Ministru kabinets līdz 2008.gada 30.novembrim izanalizē situāciju, kāda ir sertifikātu izmantošanā, un situāciju attiecībā uz pastāvīgajā lietošanā nodotajām, bet neiemērītajām zemēm un sniedz par to ziņojumu Saeimai.

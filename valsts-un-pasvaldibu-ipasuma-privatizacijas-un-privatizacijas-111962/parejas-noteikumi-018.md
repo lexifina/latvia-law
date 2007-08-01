@@ -1,0 +1,1 @@
+18. Ja līdz 2007.gada 1.augustam pašvaldība nav iesniegusi nostiprinājuma lūgumu reģistrācijai zemesgrāmatā par zemi, uz kuru personai saskaņā ar šā likuma 25.pantu izbeidzās zemes pastāvīgās lietošanas tiesības ar 2006.gada 1.septembri, tiesības uz šo zemi nav nostiprināmas zemesgrāmatā uz pašvaldības vārda līdz 2009.gada 30.decembrim.

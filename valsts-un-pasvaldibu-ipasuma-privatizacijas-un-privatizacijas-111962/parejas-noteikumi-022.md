@@ -1,0 +1,1 @@
+22. Ministru kabinets vai pašvaldības dome (padome) pēc šā likuma 6.panta astotajā daļā noteiktā termiņa, bet ne vēlāk kā līdz 2009.gada 30.decembrim ir tiesīga pati nodot privatizācijai tādas kapitālsabiedrības valsts vai pašvaldības kapitāla daļas, kurā valstij vai pašvaldībai jau pieder privatizācijai nodotas, bet vēl neprivatizētas kapitāla daļas.
