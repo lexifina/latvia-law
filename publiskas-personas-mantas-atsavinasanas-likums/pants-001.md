@@ -9,5 +9,7 @@
 8) slepenā cena - cena, par kuru lētāk izsolē ar lejupejošu soli mantu nedrīkst pārdot;
 9) valsts vai pašvaldības iestāde (turpmāk arī - iestāde) - Valsts prezidenta kanceleja, Saeimas Kanceleja, Valsts kanceleja, Latvijas Banka, Valsts kontrole, visas valsts pārvaldes iestādes, pašvaldību domes (padomes), tiesu un prokuratūras iestādes, kā arī citas valsts vai pašvaldību iestādes;
 10) valsts vai pašvaldības manta - valsts vai pašvaldības īpašumā esoša manta, kas atrodas valsts vai pašvaldības iestādes, aģentūras vai kapitālsabiedrības valdījumā vai turējumā;
-11) zemes starpgabals - valstij vai pašvaldībai piederošs zemesgabals, kura platība pilsētā ir mazāka par pašvaldības apstiprinātajos apbūves noteikumos paredzēto minimālo apbūves gabala platību, bet laukos - mazāka par 0,5 hektāriem;
+11) zemes starpgabals - valstij vai pašvaldībai piederošs zemesgabals, kura platība:
+a) pilsētā ir mazāka par pašvaldības apstiprinātajos apbūves noteikumos paredzēto minimālo apbūves gabala platību vai kura konfigurācija nepieļauj attiecīgā zemesgabala izmantošanu apbūvei, vai kuram nav iespējams nodrošināt pieslēgumu koplietošanas ielai,
+b) lauku apvidos ir mazāka par pašvaldības saistošajos noteikumos paredzēto minimālo zemesgabala platību vai kura konfigurācija nepieļauj attiecīgā zemesgabala izmantošanu atbilstoši apstiprinātajam teritorijas plānojumam, vai kuram nav iespējams nodrošināt pieslēgumu koplietošanas ielai (ceļam);
 12) atsavināšanas ierosinājums - šā likuma 4.panta ceturtajā daļā minētās personas iesniegums, kurš normatīvajos aktos noteiktajā kārtībā noformēts un reģistrēts attiecīgajā valsts vai pašvaldības institūcijā un uz kuru pamatojoties valsts vai pašvaldības institūcija var uzsākt valsts vai pašvaldības nekustamā īpašuma atsavināšanu.

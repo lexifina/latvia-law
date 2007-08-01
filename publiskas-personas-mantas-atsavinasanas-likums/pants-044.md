@@ -3,4 +3,5 @@
 (3) Valstij vai pašvaldībai piederošu zemesgabalu, ja attiecībā uz to ir iesniegts pieteikums par īpašuma tiesību atjaunošanu, kā arī zemesgabalu, uz kura atrodas nacionalizēts namīpašums vai cits nacionalizēts objekts, ja attiecībā uz to ir iesniegts pieteikums par īpašuma tiesību atjaunošanu, nevar atsavināt līdz pieteikuma izlemšanai, bet, ja ir ierosināta tiesvedība, - līdz dienai, kad tiesas nolēmums stājies likumīgā spēkā.
 (4) Valstij vai pašvaldībai piederošu zemesgabalu, uz kura atrodas citai personai (kopīpašniekiem) piederošas ēkas (būves), var pārdot tikai zemesgrāmatā ierakstītas ēkas (būves) īpašniekam (visiem kopīpašniekiem proporcionāli viņu kopīpašuma daļām).
 (5) Ja šā panta ceturtajā daļā minētā persona, kura savas pirmpirkuma tiesības uz apbūvētu zemesgabalu nevar izmantot vai neizmanto, tai ir zemes nomas tiesības uz to pašu zemesgabalu, uz kuru tai ir pirmpirkuma tiesības, un minētais zemesgabals netiek atsavināts citām personām.
-(6) Valstij vai pašvaldībai piederošā zemesgabala un uz tā esošas ēkas (būves) atšķirīgās domājamās daļas atsavina kopumā šajā likumā noteiktajā kārtībā.
+(6) (Izslēgta ar 21.06.2007. likumu.)
+(7) Valstij vai pašvaldībai piederošu zemesgabalu, kas iznomāts šā likuma 4.panta ceturtās daļas 8.punktā minētajai personai, nevar atsavināt citām personām nomas līguma darbības laikā.
