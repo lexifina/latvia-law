@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta noteikumi nr. 271 "Noteikumi par zemes reformas pabeigšanas kārtību lauku apvidos" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1997, 18.nr.).
