@@ -1,0 +1,1 @@
+6. Zeme, kura piekrīt pašvaldībai saskaņā ar šā likuma 3.panta otrās daļas 4.punktu, ir ierakstāma zemesgrāmatā uz valsts vārda, ja līdz 2007.gada 1.augustam pašvaldības dome (padome) ir pieņēmusi lēmumu, ka tai zemes gabals nav nepieciešams zemes reformas pabeigšanai, un ir piekritusi tā ierakstīšanai zemesgrāmatā uz valsts vārda.

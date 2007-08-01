@@ -1,0 +1,1 @@
+5. Ja zemes gabalu ieraksta zemesgrāmatā uz pašvaldības vārda saskaņā ar pārejas noteikumu 3.punktu, uzziņai pievieno Finanšu ministrijas un Reģionālās attīstības un pašvaldību lietu ministrijas saskaņojumus. Ja zemes gabalu ieraksta zemesgrāmatā uz valsts vārda saskaņā ar pārejas noteikumu 4.punktu, uzziņai pievieno attiecīgo pašvaldības domes (padomes) lēmumu.

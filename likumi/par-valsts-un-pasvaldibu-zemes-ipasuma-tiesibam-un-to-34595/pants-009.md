@@ -7,4 +7,4 @@
 6) ziņas no pagasta vai pilsētas zemes komisijas par citiem zemes gabala pieprasītājiem.
 (2) Uzziņai pievienojami dokumenti, kas apstiprina uzziņā norādītos apstākļus. Ja valsts zemi pieprasījusi pašvaldība vai pašvaldības zemi - valsts, šis zemes gabals nav ierakstāms zemesgrāmatā, kamēr nav panākta vienošanās starp attiecīgo valsts institūciju un pašvaldību vai zemes strīds nav izskatīts šā likuma 11.pantā noteiktajā kārtībā.
 (3) Par valsts zemes gabaliem (2.panta pirmā daļa un 3.panta pirmā daļa) uzziņu sastāda šā likuma 8.pantā noteiktā valsts institūcija, un to paraksta tās vadītājs.
-(4) Par pašvaldības zemes gabaliem uzziņu sastāda attiecīgās pilsētas domes (pagasta padomes) noteiktā institūcija, un to paraksta domes (padomes) priekšsēdētājs.
+(4) Par pašvaldības zemes gabaliem uzziņu sastāda attiecīgās pašvaldības domes (padomes) noteiktā institūcija, un to paraksta domes (padomes) priekšsēdētājs.
