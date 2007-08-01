@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2007.gada 26.jūnija noteikumi Nr. 416 „Zāļu izplatīšanas un kvalitātes kontroles kārtība””",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "104 (3680)",
+  "official_journal_page": null,
+  "official_journal_date": "2007-06-29",
+  "entry_into_force": "2007-08-01",
+  "notification_date": "2013-12-14",
+  "commission_reference": "MNE(2013)59683",
+  "nim_celex": "72012L0052LVA_211509",
+  "nim_id": "211509",
+  "transposes_celex": [
+    "32012L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b814de1f-1bfd-4df1-950f-2fc71710bfaa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
