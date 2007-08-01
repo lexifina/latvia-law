@@ -1,0 +1,19 @@
+17.pants. (1) Centrālā zemes komisija bijušajiem zemes īpašniekiem vai viņu mantiniekiem, arī bijušajiem zemes īpašniekiem, kuri līdz 1940.gada 21.jūlijam uzsāka izpirkt (aizpirka) Latvijā atstātos vācu izceļotāju nekustamos īpašumus no Vispārējās Lauksaimniecības bankas vai Valsts zemes bankas, vai viņu mantiniekiem, saskaņā ar šā likuma 16.panta otrās daļas 2.punktu atjauno īpašuma tiesības:
+1) uz viņiem pastāvīgā lietošanā piešķirto zemi;
+2) ja zemes pastāvīgās lietošanas tiesības izbeigušās, - uz zemi, kura nav ierakstīta zemesgrāmatā un kuru viņi nomā no vietējās pašvaldības atbilstoši Valsts un pašvaldību īpašuma privatizācijas un privatizācijas sertifikātu izmantošanas pabeigšanas likuma 25.panta otrajai daļai;
+3) uz zemes reformas pabeigšanai paredzēto zemi.
+(2) Uz zemes reformas pabeigšanai paredzēto zemi Centrālā zemes komisija atjauno zemes īpašuma tiesības bijušajiem zemes īpašniekiem vai viņu mantiniekiem, arī bijušajiem zemes īpašniekiem, kuri līdz 1940.gada 21.jūlijam uzsāka izpirkt (aizpirka) Latvijā atstātos vācu izceļotāju nekustamos īpašumus no Vispārējās Lauksaimniecības bankas vai Valsts zemes bankas, vai viņu mantiniekiem, šādā secībā:
+1) tās vietējās pašvaldības teritorijā, kurā atrodas bijušais zemes īpašums;
+2) tā rajona teritorijā, kurā atrodas bijušais zemes īpašums;
+3) citu pašvaldību teritorijā.
+(3) Centrālā zemes komisija atjauno īpašuma tiesības uz zemes reformas pabeigšanai paredzēto zemi, ievērojot šādas prioritātes:
+1) pieprasījums par zemes īpašuma tiesību atjaunošanu, kā arī īpašuma un mantošanas tiesības apliecinošie dokumenti iesniegti likumā "Par zemes reformu Latvijas Republikas lauku apvidos" noteiktajos termiņos, bet bijušajiem zemes īpašniekiem, kuri līdz 1940.gada 21.jūlijam uzsāka izpirkt (aizpirka) Latvijā atstātos vācu izceļotāju nekustamos īpašumus no Vispārējās Lauksaimniecības bankas vai Valsts zemes bankas, vai viņu mantiniekiem neatkarīgi no pieprasījuma iesniegšanas termiņa;
+2) pieprasījums par zemes īpašuma tiesību atjaunošanu iesniegts likumā "Par zemes reformu Latvijas Republikas lauku apvidos" noteiktajos termiņos, bet īpašuma un mantošanas tiesības apliecinošie dokumenti iesniegti pēc likumā noteiktā termiņa;
+3) pieprasījums par zemes īpašuma tiesību atjaunošanu, kā arī īpašuma un mantošanas tiesības apliecinošie dokumenti iesniegti pēc likumā "Par zemes reformu Latvijas Republikas lauku apvidos" noteiktajiem termiņiem.
+(4) Ja uz vienu zemes gabalu ir iesniegti vairāki vienas prioritātes bijušo zemes īpašnieku vai viņu mantinieku pieprasījumi par īpašuma tiesību atjaunošanu, īpašuma tiesību atjaunošanas priekšrocību, ievērojot Civillikumā noteikto mantošanas kārtību, nosaka šādā secībā:
+1) bijušajiem zemes īpašniekiem, kuriem pieprasītais zemes gabals vai tā daļa bija īpašumā 1940.gada 21.jūlijā, vai viņu mantiniekiem, arī bijušajiem zemes īpašniekiem, kuri līdz 1940.gada 21.jūlijam uzsāka izpirkt (aizpirka) Latvijā atstātos vācu izceļotāju nekustamos īpašumus no Vispārējās Lauksaimniecības bankas vai Valsts zemes bankas, vai viņu mantiniekiem;
+2) bijušajiem zemes īpašniekiem vai viņu mantiniekiem, kas pieprasījuši līdzvērtīgu zemi tai zemei, uz kuru viņiem likumā paredzēto ierobežojumu dēļ netiek atjaunotas īpašuma tiesības;
+3) bijušajiem zemes īpašniekiem vai viņu mantiniekiem, kas pieprasījuši zemi tās pašvaldības teritorijā, kuras budžetā tiek ieskaitītas viņu iemaksātās iedzīvotāju ienākuma nodokļa summas;
+4) bijušajiem zemes īpašniekiem vai viņu mantiniekiem, kas pieprasījuši zemi tās pašvaldības teritorijā, kurā atrodas viņiem īpašumā esošā zeme.
+(5) Pastāvot vienādiem nosacījumiem, šā panta ceturtajā daļā minēto īpašuma tiesību atjaunošanas priekšrocību nosaka lozējot.
+(6) Centrālajā zemes komisijā iesniegto pieprasījumu par zemes īpašuma tiesību atjaunošanu iesniegšanas, izskatīšanas un zemes gabala saņemšanas izlozes kārtību, kā arī lēmuma pieņemšanas un paziņošanas kārtību nosaka Ministru kabinets.

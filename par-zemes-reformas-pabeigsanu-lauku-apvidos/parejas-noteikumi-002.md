@@ -1,0 +1,1 @@
+2. Latvijas Valsts vēstures arhīvs viena mēneša laikā no šā likuma spēkā stāšanās dienas publicē laikrakstā "Latvijas Vēstnesis" to personu sarakstu, kuras līdz 1940.gada 21.jūlijam uzsāka izpirkt (aizpirka) Latvijā atstātos vācu izceļotāju nekustamos īpašumus no Vispārējās Lauksaimniecības bankas vai Valsts zemes bankas.

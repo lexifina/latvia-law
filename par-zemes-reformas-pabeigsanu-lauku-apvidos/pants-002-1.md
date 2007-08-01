@@ -1,0 +1,1 @@
+2.¹ pants. Brīvā, valstij piekrītošā zeme, kas nav pieprasīta līdz 2006.gada 1.jūnijam, ir izmantojama zemes reformas pabeigšanai. Informāciju par zemes reformas pabeigšanai paredzēto zemi apkopo un publisko Valsts zemes dienests, ievietojot to mājaslapā internetā.

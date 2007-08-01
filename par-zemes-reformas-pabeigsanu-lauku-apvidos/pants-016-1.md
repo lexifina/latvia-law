@@ -1,1 +1,1 @@
-16.¹ pants. Ja bijušajiem zemes īpašniekiem vai viņu mantiniekiem pastāvīgā lietošanā piešķirtā zemes platība ir mazāka nekā platība, uz kuru atjaunojamas īpašuma tiesības, kompensējot nepietiekamo platību, Centrālā zemes komisija var īpašuma tiesības atjaunot uz brīvo, valstij piekrītošo zemi šā likuma 16.pantā noteiktajā kārtībā.
+16.¹ pants.
