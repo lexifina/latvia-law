@@ -5,4 +5,3 @@
 2) Militārās izlūkošanas un drošības dienests;
 3) Drošības policija.
 (3) Valsts drošības iestāžu kompetenci nosaka speciāli likumi.
-(4) Valsts drošības iestāžu darbības koordināciju atbilstoši valsts drošības politikai nodrošina Valsts drošības iestāžu padome.
