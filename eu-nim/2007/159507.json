@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "MK 14.08.2007. noteikumi Nr.554 „Noteikumi par šķirnes dzīvnieku audzētāju organizāciju atbilstības kritērijiem un šķirnes dzīvnieku audzētāju organizācijas statusa piešķiršanas kārtību”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "133",
+  "official_journal_page": null,
+  "official_journal_date": "2007-08-17",
+  "entry_into_force": "2007-08-18",
+  "notification_date": "2008-12-05",
+  "commission_reference": "MNE(2008)56516",
+  "nim_celex": "72008L0073LVA_159507",
+  "nim_id": "159507",
+  "transposes_celex": [
+    "32008L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6b399f67-eb45-4855-991f-802bfebfb2dd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
