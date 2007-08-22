@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par elektroenerģijas ražošanu, izmantojot atjaunojamos energoresursus",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "134",
+  "official_journal_page": null,
+  "official_journal_date": "2007-08-21",
+  "entry_into_force": "2007-08-22",
+  "notification_date": "2007-09-05",
+  "commission_reference": "MNE(2007)56537",
+  "nim_celex": "72001L0077LVA_148552",
+  "nim_id": "148552",
+  "transposes_celex": [
+    "32001L0077"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0f5252ce-97f9-44e9-bec2-7fd5944f3fa2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
