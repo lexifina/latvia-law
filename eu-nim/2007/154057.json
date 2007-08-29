@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Par Noteikumiem par vispārējās atļaujas noteikumu pārkāpumiem",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "144",
+  "official_journal_page": null,
+  "official_journal_date": "2007-09-06",
+  "entry_into_force": "2007-08-29",
+  "notification_date": "2008-02-25",
+  "commission_reference": "MNE(2008)51420",
+  "nim_celex": "72002L0020LVA_154057",
+  "nim_id": "154057",
+  "transposes_celex": [
+    "32002L0020"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9f04bb8e-6cc7-49e3-a177-6134aaf2d59e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
