@@ -1,0 +1,4 @@
+17.pants. Papildinformācijas apstrādāšanas nosacījumi
+(1) Birojs pēc papildinformācijas saņemšanas uzsāk pārbaudes lietu un visus ar papildinformācijas pārbaudi un ziņojuma izpildi saistītos materiālus glabā vienkopus. Uzsākot pārbaudes lietu, tā reģistrējama SIRENE informācijas sistēmā, norādot reģistrācijas numuru, lietas uzsākšanas datumu un sniedzot īsu satura aprakstu.
+(2) Ja ir uzsākta pārbaudes lieta un Sistēmā ir ziņojums par pārbaudāmo personu, priekšmetu vai dokumentu, Birojs šādu lietu iznīcina (dzēš) pēc gada, skaitot no dienas, kad attiecīgais ziņojums dzēsts Sistēmā. Ja uzsākta pārbaudes lieta, bet Sistēmā nav ziņojuma par pārbaudāmo personu, priekšmetu vai dokumentu, Birojs šādu lietu iznīcina (dzēš) pēc gada, skaitot no dienas, kad uzsākta pārbaudes lieta.
+(3) Ja Latvijā ir veikti pasākumi ziņojumā norādītā mērķa sasniegšanai, Birojs pārbaudes lietu glabā savā arhīvā 10 gadus.

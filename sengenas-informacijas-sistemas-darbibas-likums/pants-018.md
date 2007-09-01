@@ -1,0 +1,4 @@
+18.pants. Personu tiesības saņemt informāciju
+(1) Datu subjekts (vai tā pilnvarota persona) par sevi var saņemt informāciju, kas glabājas Sistēmā un SIRENE informācijas sistēmā, kā arī informāciju par savu personas datu saņēmējiem, ja šo informāciju izpaust nav aizliegts ar likumu nacionālās drošības, aizsardzības un krimināltiesību jomā, kā arī ja datu izsniegšanas ierobežojumus nav noteikusi cita dalībvalsts.
+(2) Informācijas pieprasīšanas un izsniegšanas kārtību nosaka Ministru kabinets.
+(3) Ja ziņojumi iekļauti Sistēmā un papildinformācija iekļauta SIRENE informācijas sistēmā sakarā ar Latvijā notiekošu kriminālprocesu vai operatīvās darbības procesu, informācija sniedzama ar procesa virzītāja vai attiecīgā operatīvās darbības subjekta atļauju, izņemot šā likuma 7.panta ceturtās daļas 1. un 2.punktā paredzētos gadījumus.

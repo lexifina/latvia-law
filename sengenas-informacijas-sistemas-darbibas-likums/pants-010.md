@@ -1,0 +1,6 @@
+10.pants. Ziņojumu iekļaušana Sistēmā nederīgu dokumentu un transportlīdzekļu valsts reģistrācijas numura zīmju izmantošanas novēršanai, šo ziņojumu labošana un dzēšana
+(1) Pilsonības un migrācijas lietu pārvalde Sistēmā iekļauj ziņojumus par personu apliecinošiem dokumentiem (pases, personu apliecības), atgriešanās apliecībām, uzturēšanās atļaujām, vīzām, lai izņemtu minētos dokumentus, ja tie atzīti par nederīgiem, bet ir iespējama to nelikumīga izmantošana.
+(2) Latvijas Jūras administrācijas Jūrnieku reģistrs Sistēmā iekļauj ziņojumus par jūrnieka grāmatiņām, lai izņemtu jūrnieka grāmatiņas, ja tās atzītas par nederīgām, bet ir iespējama to nelikumīga izmantošana.
+(3) Ceļu satiksmes drošības direkcija un Valsts tehniskās uzraudzības aģentūra Sistēmā iekļauj ziņojumus par transportlīdzekļu vadītāja apliecībām, transportlīdzekļu reģistrācijas apliecībām un transportlīdzekļu valsts reģistrācijas numura zīmēm, lai tās izņemtu, ja minētie dokumenti un numura zīmes atzītas par nederīgām, bet ir iespējama to nelikumīga izmantošana.
+(4) Ziņojuma iekļaušana Sistēmā ir pieļaujama, ja kādā Latvijas datubāzē ir ziņojumam līdzvērtīgs ieraksts. Dzēšot ziņojumam līdzvērtīgo ierakstu, dzēšams arī ziņojums Sistēmā.
+(5) Kārtību, kādā šā panta pirmajā, otrajā un trešajā daļā minētie ziņojumi iekļaujami Sistēmā, kā arī labojami un dzēšami, nosaka Ministru kabinets.

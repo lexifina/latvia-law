@@ -1,0 +1,3 @@
+13.pants. Dalībvalstu ziņojumu līdzāspastāvēšana
+(1) Ja tiek saņemts dalībvalsts lūgums dzēst Sistēmā Latvijas Republikas iekļautu ziņojumu, Birojs to dzēš, saskaņojot ar attiecīgo šā likuma 7.pantā minēto amatpersonu vai 10.pantā minēto iestādi. Ja šā likuma 7.pantā minētā amatpersona vai 10.pantā minētā iestāde nepiekrīt ziņojuma dzēšanai un pamato savu rīcību, ziņojums Sistēmā saglabājams.
+(2) Ja Sistēmā ir iekļauts Sistēmas darbību regulējošos normatīvajos aktos noteiktais dalībvalsts zemākas prioritātes ziņojums, kas liedz iekļaut ziņojumu Sistēmā, Birojs nosūta attiecīgajai dalībvalstij lūgumu dzēst Sistēmā šo ziņojumu.

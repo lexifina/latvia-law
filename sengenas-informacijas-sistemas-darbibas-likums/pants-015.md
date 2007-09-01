@@ -1,0 +1,3 @@
+15.pants. Dalībvalstu iekļauto ziņojumu izvērtēšana
+(1) Birojs, izvērtējot dalībvalsts ziņojumu un ar to saistīto papildinformāciju, pieņem lēmumu par ziņojumā prasītās darbības nepildīšanu Latvijā, ja ziņojuma izpildi nepieļauj normatīvie akti vai ja attiecībā uz konkrētajā ziņojumā prasīto darbību likumā noteiktajā kārtībā jau ir pieņemts lēmums, kas nepieļauj tās izpildi.
+(2) Ja, pieņemot šā panta pirmajā daļā noteikto lēmumu, Biroja amatpersonai rodas pamatotas šaubas par ziņojumā prasītās darbības izpildes pieļaujamību, lēmumu pieņem, saskaņojot ar institūciju vai iestādi, kura ir kompetenta izlemt jautājumu par rīcību, kas seko ziņojumā prasītās darbības izpildei pēc personas atrašanās vietas konstatēšanas.
