@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "MK 2007.gada 28.augusta noteikumi Nr.582 \"Noteikumi par tiesu informatīvās sistēmas izveidošanas, uzturēšanas un izmantošanas kārtību un minimālo iekļaujamās informācijas apjomu\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "142 (3718)",
+  "official_journal_page": null,
+  "official_journal_date": "2007-09-04",
+  "entry_into_force": "2007-09-05",
+  "notification_date": "2014-11-06",
+  "commission_reference": "MNE(2014)56282",
+  "nim_celex": "72013L0040LVA_221028",
+  "nim_id": "221028",
+  "transposes_celex": [
+    "32013L0040"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f5a6a5c1-6e47-4c06-8538-8e6af2498d40",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
