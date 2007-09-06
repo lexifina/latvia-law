@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Instrukcija par ekodizaina prasību sistēmu enerģiju patērējošām precēm (produktiem)",
+  "type_of_act": "Ministru kabineta instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "143",
+  "official_journal_page": null,
+  "official_journal_date": "2007-09-05",
+  "entry_into_force": "2007-09-06",
+  "notification_date": "2007-10-02",
+  "commission_reference": "MNE(2007)56827",
+  "nim_celex": "72005L0032LVA_148940",
+  "nim_id": "148940",
+  "transposes_celex": [
+    "32005L0032",
+    "32009L0125"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5cc1948e-9cd3-40c3-ade3-3540b65dc129",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
