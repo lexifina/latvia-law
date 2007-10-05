@@ -5,4 +5,4 @@
 3) atļaujas nosacījumu ievērošanu;
 4) vides kvalitātes normatīvu un Ministru kabineta noteikumu ievērošanu;
 5) piesārņotu vai potenciāli piesārņotu vietu izpētes uzdevumu, piesārņotu vietu sanācijas uzdevumu un programmu izpildi.
-(2) Trokšņa robežlielumu ievērošanu kontrolē Valsts sanitārā inspekcija, kā arī attiecīgās pašvaldības institūcijas, kurām pašvaldība ir deleģējusi minēto funkciju.
+(2) Trokšņa robežlielumu ievērošanu kontrolē Veselības inspekcija, kā arī attiecīgās pašvaldības institūcijas, kurām pašvaldība ir deleģējusi minēto funkciju.
