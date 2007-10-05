@@ -2,7 +2,7 @@
 1) organizē informācijas vākšanu par aktualitātēm zāļu kvalitātes kontroles jomā, kā arī zāļu patēriņa statistikas veidošanu valstī, izmantojot aptieku, zāļu lieltirgotavu, zāļu ražošanas uzņēmumu, ārstniecības iestāžu, veterinārmedicīnas aprūpes iestāžu sniegto informāciju, un šīs informācijas apkopošanu un izplatīšanu;
 2) veido un regulāri aktualizē Latvijas zāļu reģistru, piešķir zāļu reģistrācijas numurus un zāļu kodus, veido un uztur datu bāzi par novērotajām zāļu lietošanas izraisītajām blakusparādībām, par zāļu patēriņa statistiku, kā arī par zāļu klīnisko izpēti un zāļu lietošanas novērojumiem;
 3) novērtē un reģistrē zāles;
-4) veic zāļu kvalitātes kontroli, arī pēc Valsts farmācijas inspekcijas pieprasījuma;
+4) veic zāļu kvalitātes kontroli, arī pēc Veselības inspekcijas pieprasījuma;
 5) organizē sadarbību ar citu valstu kompetentajām institūcijām zāļu novērtēšanas, reģistrēšanas un kontroles jomā;
 6) veido sadarbību ar ārstu un farmaceitu sabiedriskajām organizācijām;
 7) normatīvajos aktos noteiktajā kārtībā izsniedz zāļu, kā arī klīniskiem pētījumiem paredzēto preparātu ievešanas, izvešanas, tranzīta un izplatīšanas atļaujas. Izsniedz medikamentu izplatīšanas atļaujas ārvalstīs reģistrētām un lietotām zālēm (ja tās būtiski nepieciešamas ārstniecības procesa nodrošināšanai, paredzētas retu slimību ārstēšanai un izplatāmas ierobežotā daudzumā vai lietojamas katastrofas, dabas stihijas vai dzīvnieku infekcijas slimību uzliesmojuma gadījumā), norādot konkrētu ražošanas sēriju un apjomu:
