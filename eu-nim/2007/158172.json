@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2007.gada 2.oktobra noteikumi Nr.660 \"Darba vides iekšējās uzraudzības veikšanas kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "161",
+  "official_journal_page": null,
+  "official_journal_date": "2007-10-05",
+  "entry_into_force": "2007-10-06",
+  "notification_date": "2008-09-25",
+  "commission_reference": "MNE(2008)55219",
+  "nim_celex": "71991L0383LVA_158172",
+  "nim_id": "158172",
+  "transposes_celex": [
+    "31991L0383"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8e965385-4472-4617-aec8-c2695669f0d6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
