@@ -10,3 +10,4 @@
 4) pēc aizsargājamās personas lūguma nodrošināt tai tikšanos ar savu pārstāvi vai aizstāvi;
 5) ja nepieciešams, nodrošināt aizsargājamai personai medicīnisko un psihologa palīdzību;
 6) uzraudzīt un kontrolēt, vai turpina pastāvēt apdraudējums un ir nepieciešama speciālā aizsardzība.
+(3) Ministru kabinets nosaka šā panta otrās daļas 2., 3. un 5.punktā paredzēto pienākumu veikšanas kārtību un apmēru.

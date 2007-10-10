@@ -1,6 +1,6 @@
 13.pants. Aizsargājamās personas tiesības un pienākumi
 (1) Aizsargājamai personai ir šādas tiesības:
-1) tikt informētai par lēmumu noteikt tai speciālo aizsardzību;
+1) tikt iepazīstinātai ar lēmumu par speciālās aizsardzības noteikšanu;
 2) iepazīties ar informāciju par paredzētajiem pasākumiem, kuri tiks izmantoti tās aizsardzībai;
 3) lūgt, lai piemēro vai atceļ šajā likumā noteiktos speciālos aizsardzības pasākumus;
 4) pieaicināt savu interešu pārstāvēšanai advokātu;

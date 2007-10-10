@@ -1,6 +1,6 @@
 12.pants. Lēmuma par speciālo aizsardzību izpilde
 Pēc tam kad pieņemts lēmums par speciālās aizsardzības noteikšanu, speciālās aizsardzības veicējs:
-1) informē par pieņemto lēmumu personu, kura lūgusi noteikt aizsardzību;
+1) iepazīstina ar pieņemto lēmumu personu, kura lūgusi noteikt aizsardzību;
 2) izskaidro šai personai tiesības pārsūdzēt lēmumu;
 3) izskaidro aizsargājamās personas tiesības un pienākumus;
 4) brīdina aizsargājamo personu neizpaust informāciju, kas saistīta ar tās aizsardzības pasākumiem. Aizsargājamā persona parakstās par minētās informācijas neizpaušanu;
