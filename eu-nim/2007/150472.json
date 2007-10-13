@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2004.gada 2.marta noteikumos Nr.120 'Noteikumi par mājsaimniecības gaisa kondicionieru marķēšanu un distances līgumā ietveramo informāciju'",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "165",
+  "official_journal_page": null,
+  "official_journal_date": "2007-10-12",
+  "entry_into_force": "2007-10-13",
+  "notification_date": "2007-11-08",
+  "commission_reference": "MNE(2007)57942",
+  "nim_celex": "71992L0075LVA_150472",
+  "nim_id": "150472",
+  "transposes_celex": [
+    "31992L0075",
+    "32002L0031",
+    "32005L0032",
+    "32009L0125"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c4950915-bcea-4174-b2b6-0369edad9503",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
