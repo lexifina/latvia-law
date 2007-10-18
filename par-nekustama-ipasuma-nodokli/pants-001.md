@@ -25,5 +25,6 @@
 15) ēkas vai to daļas (telpu grupas), kuras izmanto no valsts budžeta finansētās iestādes;
 16) ēkas vai to daļas (telpu grupas), kuras izmanto izglītības, veselības, sociālās aprūpes vai kultūras (izņemot kinoteātrus un videotēkas) vajadzībām;
 17) ēkas vai to daļas (telpu grupas), kuras izmanto dabas aizsardzības vajadzībām;
-18) biedrībām un nodibinājumiem piederošas ēkas un būves saskaņā ar Ministru kabineta noteiktajiem kritērijiem un apstiprināto sarakstu.
+18) biedrībām un nodibinājumiem piederošas ēkas un būves saskaņā ar Ministru kabineta noteiktajiem kritērijiem un apstiprināto sarakstu;
+19) Eiropas Savienības militāru vai aizsardzības operāciju kopējo izmaksu finansēšanas pārvaldīšanai izveidotā mehānisma ATHENA nekustamo īpašumu Latvijas Republikā.
 (3) Ja šā panta otrās daļas 4., 6. un 9.punktā minētais nekustamais īpašums daļēji tiek izmantots saimnieciskajā darbībā vai iznomāts, ar nodokli apliekama attiecīgā nekustamā īpašuma daļa.
