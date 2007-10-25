@@ -4,4 +4,4 @@
 (3) Par otro bērnu ģimenē ģimenes valsts pabalsts ir 1,2 reizes, par trešo - 1,6 reizes, bet par ceturto bērnu un nākamajiem bērniem - 1,8 reizes lielāks nekā par pirmo bērnu ģimenē.
 (4) (Izslēgta ar 12.12.2002. likumu.)
 (5) (Izslēgta ar 12.12.2002. likumu.)
-(6) (Atzīta par spēkā neesošu ar Satversmes tiesas 02.11.2006. spriedumu no 01.03.2007.)
+(6) (Izslēgta ar 20.09.2007. likumu.)
