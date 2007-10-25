@@ -1,0 +1,14 @@
+15.¹ pants. Pabalsts pašvaldības domes (padomes) priekšsēdētājam vai viņa vietniekam
+Tiesības saņemt ikmēneša pabalstu divu minimālo mēnešalgu apmērā (turpmāk - pabalsts) ir personai, kura pēc 1990.gada 4.maija vienā pašvaldībā bijusi pilsētas domes, novada domes vai pagasta padomes:
+1) priekšsēdētājs divus sasaukumus;
+2) priekšsēdētājs vienu sasaukumu un priekšsēdētāja vietnieks, kurš ieņēmis algotu amatu, citu sasaukumu;
+3) tāds priekšsēdētāja vietnieks divus sasaukumus, kurš ieņēmis algotu amatu.
+Pabalstu pašvaldība piešķir, pamatojoties uz attiecīgās personas iesniegumu, kuru iesniedz attiecīgajai pašvaldībai, ja persona atbilst visiem šādiem kritērijiem:
+1) sasniegusi vecumu, kas ir vismaz par pieciem gadiem mazāks nekā vecums, kurā personai saskaņā ar likumu "Par valsts pensijām" rodas tiesības uz vecuma pensiju, vai persona atzīta par invalīdu;
+2) nav uzskatāma par darba ņēmēju vai pašnodarbināto saskaņā ar likumu "Par valsts sociālo apdrošināšanu", izņemot zemnieku (zvejnieku) saimniecības īpašnieku, kas, nebūdams darba tiesiskajās attiecībās ar savas zemnieku (zvejnieku) saimniecības pārvaldes institūciju, veic šīs saimniecības vadītāja funkciju, ja attiecīgajā saimniecībā likumā noteiktajā kārtībā nav iecelts (ievēlēts) pārvaldnieks (direktors);
+3) nesaņem bezdarbnieka pabalstu saskaņā ar likumu "Par apdrošināšanu bezdarba gadījumam".
+Ja personai vienlaikus ir tiesības uz šajā pantā noteikto pabalstu un invaliditātes pensiju, vecuma pensiju vai atlīdzību par darbspēju zaudējumu, tad izmaksā to pabalsta daļu, kas pārsniedz attiecīgi invaliditātes pensijas, vecuma pensijas vai atlīdzības par darbspēju zaudējumu apmēru.
+Personai, kas saņem pabalstu, ir pienākums ziņot pašvaldībai par tādu apstākļu iestāšanos, kuri izraisa pabalsta izmaksas samazināšanu vai pārtraukšanu. Pabalsts, kas saņemts, pārkāpjot šā panta noteikumus, atmaksājams pašvaldībai.
+Pabalsta izmaksu pārtrauc, ja persona neatbilst šajā pantā noteiktajiem kritērijiem pabalsta piešķiršanai, kā arī gadījumā, ja persona izbrauc uz pastāvīgu dzīvi ārvalstīs. Pabalsta izmaksu izbeidz sakarā ar tās personas nāvi, kurai pabalsts piešķirts.
+Pašvaldība veic valsts sociālās apdrošināšanas iemaksas valsts pensiju apdrošināšanai par personu, kurai ir piešķirts un tiek izmaksāts pabalsts un kura nav sasniegusi vecuma pensijas piešķiršanai nepieciešamo vecumu. Valsts sociālās apdrošināšanas iemaksas valsts pensiju apdrošināšanai neveic par laikposmu, kurā persona ir nestrādājošs invalīds. Kārtību, kādā pašvaldība veic valsts sociālās apdrošināšanas iemaksas valsts pensiju apdrošināšanai par personu, kura saņem pabalstu, nosaka Ministru kabinets.
+Pabalstu, kā arī izdevumus, kas saistīti ar pabalsta piešķiršanu un izmaksu un valsts sociālās apdrošināšanas iemaksu veikšanu, finansē no tās pašvaldības budžeta līdzekļiem, kurā persona ieņēmusi šā panta pirmajā daļā minētos amatus, vai tā pašvaldība, kas ir attiecīgās pašvaldības saistību un tiesību pārņēmēja.

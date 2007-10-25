@@ -9,3 +9,4 @@ Deputātam savā vēlēšanu apgabalā ir tiesības:
 7) rīkot tikšanos ar iedzīvotājiem;
 8) realizēt pārējās šajā un citos likumos paredzētās deputāta tiesības.
 Deputāts savas tiesības realizē bez īpaša pilnvarojuma, ja nepieciešams, - uzrādot deputāta apliecību.
+Šā panta pirmās daļas 3.punktā minētos paskaidrojumus iesniedz 15 dienu laikā no deputāta pieprasījuma saņemšanas dienas. Par šā panta 5. un 6.punktā minēto pieprasījumu izskatīšanas rezultātiem deputātu informē saprātīgā termiņā, bet ne vēlāk kā 15 dienu laikā no deputāta pieprasījuma saņemšanas dienas.
