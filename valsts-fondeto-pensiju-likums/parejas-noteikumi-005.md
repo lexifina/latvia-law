@@ -1,1 +1,0 @@
-5. Valsts kase fondēto pensiju shēmas līdzekļus drīkst ieguldīt Latvijas valsts vērtspapīros vai naudas tirgus instrumentos, hipotekārajās ķīlu zīmēs, noguldījumu sertifikātos un termiņnoguldījumos bankās, ievērojot šā likuma 12.panta otrajā daļā noteiktos ierobežojumus, un tikai tādā valūtā, kādā tiek veiktas fondētās pensijas kapitāla izmaksas.

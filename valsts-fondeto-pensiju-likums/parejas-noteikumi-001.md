@@ -1,1 +1,0 @@
-1. Līdz 2003.gada 1.janvārim fondēto pensiju shēmas līdzekļu pārvaldītājs ir tikai Valsts kase. Ministru kabinets izvērtē fondēto pensiju shēmas darbības rezultātus 2003.gadā un līdz 2004.gada 31.decembrim sagatavo un iesniedz Saeimai priekšlikumus par Valsts kases turpmāko darbību fondēto pensiju shēmas līdzekļu pārvaldīšanā.

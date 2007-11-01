@@ -1,1 +1,0 @@
-6. Uz Valsts kasi neattiecas šā likuma normas par fondēto pensiju shēmas līdzekļu pārvaldītāja licencēšanu, kā arī 11.panta septītā un astotā daļa, 12.panta pirmā daļa, trešā daļa un ceturtās daļas 3.punkts, kā arī 13.panta ceturtā un piektā daļa.
