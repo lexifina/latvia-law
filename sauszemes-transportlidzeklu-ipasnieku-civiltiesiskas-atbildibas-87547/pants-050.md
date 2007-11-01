@@ -1,7 +1,7 @@
-50.pants. Informācijas sniegšana trešajām personām
-(1) Trešajai personai ir tiesības pieprasīt un saņemt no Transportlīdzekļu apdrošinātāju biroja šādu informāciju:
-1) ceļu satiksmes negadījumu izraisījušā transportlīdzekļa īpašnieka civiltiesiskās atbildības apdrošinātāja nosaukumu un adresi;
-2) ceļu satiksmes negadījumu izraisījušā transportlīdzekļa īpašnieka apdrošināšanas polises numuru;
-3) apdrošinātāja vai tā pārstāvja nosaukumu un adresi, ja ceļu satiksmes negadījumu izraisījis ārvalstī reģistrēts transportlīdzeklis.
-(2) Lai realizētu savas likumiskās rakstveidā pamatotās tiesības, trešā persona ir tiesīga pieprasīt un saņemt informāciju par ceļu satiksmes negadījumu izraisījušā transportlīdzekļa īpašnieku vai tiesīgo lietotāju - vārdu un uzvārdu vai nosaukumu un adresi.
-(3) Šā panta pirmajā un otrajā daļā minēto informāciju trešā persona ir tiesīga pieprasīt desmit gadu laikā no ceļu satiksmes negadījuma dienas.
+50.pants. Informācijas sniegšana ceļu satiksmes negadījumā iesaistītajām personām
+(1) Ceļu satiksmes negadījumā iesaistītajām personām ir tiesības pieprasīt un saņemt no Transportlīdzekļu apdrošinātāju biroja šādu informāciju:
+1) ceļu satiksmes negadījumā zaudējumu nodarījušā transportlīdzekļa īpašnieka civiltiesiskās atbildības apdrošinātāja nosaukumu un adresi, ja šim transportlīdzeklim ir Latvijas Republikas numura zīme;
+2) ceļu satiksmes negadījumā zaudējumu nodarījušā transportlīdzekļa īpašnieka civiltiesiskās atbildības apdrošināšanas līguma numuru, ja ceļu satiksmes negadījuma brīdī šis līgums ir spēkā un ja attiecīgajam transportlīdzeklim ir Latvijas Republikas numura zīme;
+3) apdrošinātāja vai tā pārstāvja nosaukumu un adresi, ja ceļu satiksmes negadījumā zaudējumu nodarījis transportlīdzeklis, kuram ir Eiropas Ekonomikas zonas valsts numura zīme, vai transportlīdzeklis, kuram ir trešās valsts numura zīme un ārvalsts apdrošinātāja izsniegta civiltiesiskās atbildības apdrošināšanas polise.
+(2) Lai īstenotu savas likumiskās, rakstveidā pamatotās tiesības, trešā persona ir tiesīga pieprasīt un saņemt šādu informāciju par ceļu satiksmes negadījumā zaudējumu nodarījušā transportlīdzekļa īpašnieku vai tiesīgo lietotāju - vārdu, uzvārdu un adresi (fiziskajai personai), nosaukumu un adresi (juridiskajai personai), ja šim transportlīdzeklim ir Latvijas Republikas numura zīme.
+(3) Šā panta pirmajā un otrajā daļā minēto informāciju ceļu satiksmes negadījumā iesaistītā persona ir tiesīga pieprasīt 10 gadu laikā no ceļu satiksmes negadījuma dienas.

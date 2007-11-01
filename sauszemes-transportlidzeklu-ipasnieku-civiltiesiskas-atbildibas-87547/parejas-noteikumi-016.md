@@ -1,0 +1,1 @@
+16. Šā likuma 4.¹ pants, grozījumi attiecībā uz 8.panta izteikšanu jaunā redakcijā, grozījumi šā likuma 16.panta pirmajā daļā, 17.panta sestajā daļā un 53.panta pirmajā daļā stājas spēkā 2008.gada 1.jūnijā.

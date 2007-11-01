@@ -1,3 +1,3 @@
-13.pants. Apdrošināšanas prēmijas samazināšana un palielināšana
-(1) Noslēdzot apdrošināšanas līgumu, apdrošināšanas prēmija transportlīdzekļa īpašniekam tiek palielināta vai samazināta atkarībā no iepriekšējo apdrošināšanas līgumu darbības laikā veikto apdrošināšanas atlīdzības izmaksu skaita un normatīvajos aktos noteiktajā kārtībā konstatēto to gadījumu skaita, kad transportlīdzeklis vadīts alkoholisko dzērienu, narkotisko, psihotoksisko, psihotropo vai citu apreibinošu vielu iespaidā.
-(2) Slēdzot apdrošināšanas līgumu, apdrošināšanas prēmijas palielinājuma vai samazinājuma noteikšanai līzinga ņēmējs tiek pielīdzināts transportlīdzekļa īpašniekam.
+13.pants. Apdrošināšanas prēmijas apmēra noteikšana
+(1) Noslēdzot apdrošināšanas līgumu, apdrošināšanas prēmijas apmērs transportlīdzekļa īpašniekam tiek noteikts, izvērtējot iepriekšējo apdrošināšanas līgumu darbības laikā izmaksāto apdrošināšanas atlīdzību skaitu, normatīvajos aktos noteiktajā kārtībā konstatēto gadījumu skaitu, kad transportlīdzeklis vadīts, izdarot administratīvus pārkāpumus, par kuriem reģistrē pārkāpumu uzskaites punktus, un noziedzīgus nodarījumus pret satiksmes drošību, kā arī izvērtējot citus risku ietekmējošus faktorus.
+(2) Slēdzot apdrošināšanas līgumu, apdrošināšanas prēmijas apmēra noteikšanai līzinga ņēmējs tiek pielīdzināts transportlīdzekļa īpašniekam.

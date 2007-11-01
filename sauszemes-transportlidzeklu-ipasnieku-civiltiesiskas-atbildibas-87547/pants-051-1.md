@@ -1,0 +1,25 @@
+51.¹ pants. Garantijas fonda līdzekļu glabāšana un ieguldīšana
+(1) Transportlīdzekļu apdrošinātāju birojs Garantijas fonda līdzekļus glabā Latvijas Republikā, citā Eiropas Savienības dalībvalstī vai Eiropas Ekonomikas zonas valstī (turpmāk arī - dalībvalsts) reģistrētā kredītiestādē.
+(2) Garantijas fonda līdzekļu ieguldījumus drīkst veikt un pārvaldīt, noslēdzot līgumu ar Transportlīdzekļu apdrošinātāju biroju par Garantijas fonda līdzekļu pārvaldi:
+1) kredītiestāde, kura ir tiesīga sniegt ieguldījumu pakalpojumus un ieguldījumu blakuspakalpojumus Latvijas Republikā;
+2) ieguldījumu brokeru sabiedrība, kura ir tiesīga sniegt ieguldījumu pakalpojumus Latvijas Republikā;
+3) ieguldījumu pārvaldes sabiedrība, kura ir tiesīga sniegt pārvaldes pakalpojumus (arī individuāli pārvaldīt ieguldītāju finanšu instrumentus) Latvijas Republikā.
+(3) Garantijas fonda līdzekļu ieguldījumi veicami šajā pantā noteiktajā kārtībā, īstenojot tādu ieguldījumu politiku, kas nodrošina šajā likumā noteikto no Garantijas fonda līdzekļiem veicamo maksājumu saistību izpildi un ieguldījumu likviditāti.
+(4) Garantijas fonda līdzekļus drīkst ieguldīt:
+1) Latvijas Republikas, Eiropas Savienības dalībvalstu vai Eiropas Ekonomikas zonas valstu un to pašvaldību emitētajos vai garantētajos vērtspapīros vai naudas tirgus instrumentos;
+2) termiņnoguldījumos kredītiestādē, kura saņēmusi licenci kredītiestādes darbībai dalībvalstī un kurai ir tiesības sniegt finanšu pakalpojumus dalībvalstī;
+3) ieguldījumu fondos vai tiem pielīdzināmos kopīgo ieguldījumu uzņēmumos (turpmāk - ieguldījumu fonds), ja tie ir reģistrēti dalībvalstī vai Ekonomiskās sadarbības un attīstības organizācijas dalībvalstī un to ieguldītāji ir tiesīgi bez ierobežojumiem atsavināt savas ieguldījumu apliecības;
+4) Ekonomiskās sadarbības un attīstības organizācijas dalībvalstu emitētajos vai garantētajos vērtspapīros vai naudas tirgus instrumentos, ja attiecīgās valsts ilgtermiņa kredītreitings ārvalstu valūtā, pēc starptautisko reitinga aģentūru vērtējuma, atbilst investīciju kategorijai;
+5) akcijās un citos kapitāla vērtspapīros, ja tie ir iekļauti dalībvalstī reģistrētas fondu biržas (regulēta tirgus) oficiālajā vai tam pielīdzināmā sarakstā (turpmāk - oficiālais saraksts) vai Ekonomiskās sadarbības un attīstības organizācijas dalībvalstī reģistrētas fondu biržas - Starptautiskās fondu biržas pilntiesīgas biedres (locekles) - oficiālajā sarakstā vai tiek tirgoti citos regulētos un atklāti pieejamos finanšu instrumentu tirgos;
+6) komercsabiedrību parāda vērtspapīros, ja tie ir iekļauti dalībvalstī reģistrētas fondu biržas (regulēta tirgus) oficiālajā sarakstā vai Ekonomiskās sadarbības un attīstības organizācijas dalībvalstī reģistrētas fondu biržas - Starptautiskās fondu biržas pilntiesīgas biedres (locekles) - oficiālajā sarakstā vai tiek tirgoti citos regulētos un atklāti pieejamos finanšu instrumentu tirgos;
+7) komercsabiedrību kapitāla un parāda vērtspapīros, ja tie nav iekļauti fondu biržas (regulēta tirgus) oficiālajā sarakstā, bet to emisijas noteikumos ir paredzēts, ka vērtspapīri dalībvalsts oficiālajā sarakstā vai Ekonomiskās sadarbības un attīstības organizācijas dalībvalstī reģistrētas fondu biržas - Starptautiskās fondu biržas pilntiesīgas biedres (locekles) - oficiālajos sarakstos tiks iekļauti gada laikā no dienas, kad uzsākta parakstīšanās, lai veiktu darījumus ar šiem vērtspapīriem;
+8) nekustamajā īpašumā, kas ir reģistrēts dalībvalstī, ja tam ir vērtējums, kas apliecina, ka ieguldījums atbilst nekustamā īpašuma vērtībai.
+(5) Garantijas fonda līdzekļi ieguldāmi, ievērojot šādus ieguldījumu ierobežojumus:
+1) ieguldījumi vienas valsts vai pašvaldības emitētajos vai garantētajos vērtspapīros vai naudas tirgus instrumentos nedrīkst pārsniegt 25 procentus no Garantijas fonda līdzekļiem;
+2) ieguldījumi vienas komercsabiedrības emitētajos parāda vērtspapīros nedrīkst pārsniegt 10 procentus no Garantijas fonda līdzekļiem un 10 procentus no viena emitenta emitēto parāda vērtspapīru kopējā apjoma;
+3) ieguldījumi vienas komercsabiedrības emitētajos kapitāla vērtspapīros nedrīkst pārsniegt 10 procentus no Garantijas fonda līdzekļiem un 10 procentus no attiecīgā emitenta pamatkapitāla un balsstiesīgo akciju skaita;
+4) noguldījumi vienā kredītiestādē nedrīkst pārsniegt 20 procentus no Garantijas fonda līdzekļiem, bet kopējās prasības pret vienu kredītiestādi nedrīkst pārsniegt 25 procentus no Garantijas fonda līdzekļiem, izņemot prasību, kas ir kārtojama pēc pieprasījuma pret līdzekļu turētāju;
+5) ieguldījumi vienā ieguldījumu fondā nedrīkst pārsniegt 10 procentus no Garantijas fonda līdzekļiem;
+6) ieguldījumi vienā nedalītā nekustamajā īpašumā nedrīkst pārsniegt 10 procentus no Garantijas fonda līdzekļiem, bet kopējie ieguldījumi nekustamajā īpašumā nedrīkst pārsniegt 25 procentus no Garantijas fonda līdzekļiem;
+7) ieguldījumi vienā koncernā esošu komercsabiedrību emitētajos finanšu instrumentos nedrīkst pārsniegt 25 procentus no Garantijas fonda līdzekļiem;
+8) Garantijas fonda līdzekļus nedrīkst izmantot aizņēmumam un piešķirt aizdevumos, kā arī izsniegt garantijās.

@@ -1,9 +1,9 @@
-59.pants. Apdrošinātāja tiesības un pienākumi informācijas sistēmā
-(1) Slēdzot apdrošināšanas līgumu, saņemot šā likuma 36.panta ceturtajā daļā minēto pieteikumu un izmaksājot apdrošināšanas atlīdzību, apdrošinātājs nodrošina datu nodošanu informācijas sistēmai.
-(2) Pirms apdrošināšanas līguma slēgšanas apdrošinātājs no informācijas sistēmas saņem datus par transportlīdzekli un tā īpašnieku, apdrošināšanas līgumu darbības laiku, veiktajām apdrošināšanas atlīdzības izmaksām, gadījumiem, kad transportlīdzeklis vadīts alkoholisko dzērienu, narkotisko, psihotoksisko, psihotropo vai citu apreibinošu vielu iespaidā, kā arī citus datus, kas nepieciešami apdrošināšanas prēmijas apmēra noteikšanai, tā palielināšanai vai samazināšanai.
-(3) Pēc apdrošināšanas gadījuma iestāšanās apdrošinātājs ir tiesīgs saņemt no informācijas sistēmas datus par transportlīdzekli un tā īpašnieku ceļu satiksmes negadījuma brīdī, kā arī par ceļu satiksmes negadījumu.
+59.pants. Apdrošinātāja un Transportlīdzekļu apdrošinātāju biroja tiesības un pienākumi, apstrādājot datus informācijas sistēmā
+(1) Apdrošinātājam pirms apdrošināšanas līguma slēgšanas ir tiesības saņemt no informācijas sistēmas datus, kas nepieciešami apdrošināšanas līguma noslēgšanai un apdrošināšanas prēmijas apmēra noteikšanai, tostarp datus par iepriekšējo apdrošināšanas līgumu darbības laikā veikto apdrošināšanas atlīdzības izmaksu skaitu, normatīvajos aktos noteiktajā kārtībā konstatēto to gadījumu skaitu, kad transportlīdzeklis vadīts, izdarot administratīvus pārkāpumus, par kuriem reģistrē pārkāpumu uzskaites punktus, un noziedzīgus nodarījumus pret satiksmes drošību.
+(2) Apdrošinātājam, noslēdzot apdrošināšanas līgumu, ir pienākums nodot informācijas sistēmai datus par attiecīgo līgumu.
+(3) Apdrošinātājam vai Transportlīdzekļu apdrošinātāju birojam ir tiesības saņemt no informācijas sistēmas datus, kas nepieciešami apdrošināšanas gadījuma administrēšanai, un pienākums nodot informācijas sistēmai datus par:
+1) pieteikto apdrošināšanas gadījumu;
+2) pieņemto lēmumu par apdrošināšanas atlīdzību.
 (4) Šajā pantā minēto datu apjomu un sniegšanas kārtību nosaka Ministru kabinets.
-(5) Saņemot fizisko personu datus, apdrošinātājs informē attiecīgās personas par to, ka:
-1) iegūtie dati tiks izmantoti informācijas sistēmā apdrošināšanas prēmijas apmēra noteikšanai;
-2) labojumus sniegtajos datos ir tiesīgs izdarīt tikai tas apdrošinātājs, kas tos nodevis informācijas sistēmai;
-3) ziņas par sniegto datu izmantošanu attiecīgā persona ir tiesīga saņemt Transportlīdzekļu apdrošinātāju birojā.
+(5) Apdrošinātājs vai Transportlīdzekļu apdrošinātāju birojs, iegūstot un apstrādājot fizisko personu datus, ievēro Fizisko personu datu aizsardzības likuma prasības.
+(6) Pēc datu nodošanas informācijas sistēmai labojumus tajos ir tiesīgs izdarīt tikai tas apdrošinātājs, kas tos nodevis, vai Transportlīdzekļu apdrošinātāju birojs.

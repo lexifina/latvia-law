@@ -1,4 +1,6 @@
 21.pants. Zaudējumi sakarā ar cietušās personas pārejošu darbnespēju
 (1) Zaudējumi sakarā ar cietušās personas pārejošu darbnespēju ir nesaņemtie ienākumi par ārstniecības iestādes apliecināto darbnespējas laiku.
-(2) Nesaņemtie ienākumi ir naudas summa, ko veido par ārstniecības iestādes apliecināto darbnespējas laiku Darba likumā noteiktajā kārtībā aprēķinātā cietušās personas vidējā izpeļņa, no kuras atskaitīta pēc veselības kaitējuma nodarīšanas cietušajai personai piešķirtā slimības nauda un slimības pabalsti.
+(2) Nesaņemtos ienākumus veido:
+1) cietušajai personai, kura ceļu satiksmes negadījuma brīdī uzskatāma par darba ņēmēju, - Darba likumā noteiktajā kārtībā aprēķinātā cietušās personas vidējā izpeļņa, no kuras atskaitīta pēc veselības kaitējuma nodarīšanas cietušajai personai piešķirtā slimības nauda un slimības pabalsti;
+2) cietušajai personai, kura ceļu satiksmes negadījuma brīdī uzskatāma par pašnodarbināto personu, - summa, kuru aprēķina kā starpību starp iepriekšējā (pirms ceļu satiksmes negadījuma) kalendāra gadā ar nodokli apliekamiem darba ienākumiem un darba ienākumiem, kas saņemti tajā kalendāra gadā, kad personai ir bijusi pārejoša darbnespēja, un no kuras atskaitīti pēc veselības kaitējuma nodarīšanas cietušajai personai piešķirtie slimības pabalsti.
 (3) Apdrošinātājs vai Transportlīdzekļu apdrošinātāju birojs atlīdzina cietušās personas darba devējam cietušajai personai izmaksāto slimības naudu par cietušās personas pārejošas darbnespējas laiku, kuru apliecina darba nespējas lapa.

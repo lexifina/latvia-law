@@ -1,1 +1,7 @@
-Likumā iekļautas tiesību normas, kas izriet no direktīvām 72/166/EEC, 84/5/EEC, 90/232/EEC, 92/49/EEC un 2000/26/EC.
+Likumā iekļautas tiesību normas, kas izriet no:
+1) Eiropas Padomes 1972.gada 24.aprīļa direktīvas 72/166/EEK par dalībvalstu tiesību aktu tuvināšanu attiecībā uz civiltiesiskās atbildības apdrošināšanu saistībā ar mehānisko transportlīdzekļu izmantošanu un attiecībā uz kontroli saistībā ar pienākumu apdrošināt šādu atbildību;
+2) Eiropas Padomes 1983.gada 30.decembra otrās direktīvas 84/5/EEK par dalībvalstu tiesību aktu tuvināšanu attiecībā uz transportlīdzekļu īpašnieku civiltiesiskās atbildības apdrošināšanu;
+3) Eiropas Padomes 1990.gada 14.maija trešās direktīvas 90/232/EEK par dalībvalstu tiesību aktu tuvināšanu attiecībā uz transportlīdzekļu īpašnieku civiltiesiskās atbildības obligāto apdrošināšanu;
+4) Eiropas Padomes 1992.gada 18.jūnija direktīvas 92/49/EEK par normatīvo un administratīvo aktu koordinēšanu attiecībā uz tiešo apdrošināšanu, kas nav dzīvības apdrošināšana, ar kuru groza direktīvu 73/239/EEK un direktīvu 88/357/EEK (Trešā nedzīvības apdrošināšanas direktīva);
+5) Eiropas Parlamenta un Padomes 2000.gada 16.maija direktīvas 2000/26/EK par dalībvalstu tiesību aktu tuvināšanu attiecībā uz transportlīdzekļu lietošanas civiltiesiskās atbildības apdrošināšanu, ar kuru tiek grozītas Padomes direktīvas 73/239/EEK un 88/357/EEK (Ceturtā direktīva par mehānisko transportlīdzekļu apdrošināšanu);
+6) Eiropas Parlamenta un Padomes 2005.gada 11.maija direktīvas 2005/14/EK, ar ko groza Padomes direktīvas 72/166/EEK, 84/5/EEK, 88/357/EEK un 90/232/EEK un Eiropas Parlamenta un Padomes direktīvu 2000/26/EK attiecībā uz civiltiesiskās atbildības apdrošināšanu saistībā ar mehānisko transportlīdzekļu lietošanu.

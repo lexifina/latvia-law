@@ -1,0 +1,4 @@
+4.¹ pants. Apdrošināšanas līguma slēgšana
+(1) Standartlīgumu slēdz klātienē vai izmantojot distances saziņas līdzekļus.
+(2) Robežapdrošināšanas līgumu un starptautisko apdrošināšanas līgumu (Zaļo karti) slēdz tikai klātienē.
+(3) Slēdzot standartlīgumu un starptautisko apdrošināšanas līgumu (Zaļo karti) attiecībā uz Latvijas Republikā reģistrētu transportlīdzekli, apdrošinātājs līguma noslēgšanas brīdī nodod datus par noslēgto līgumu sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas informācijas sistēmai. Ja standartlīgums slēgts, izmantojot distances saziņas līdzekļus, apdrošinātājs nosūta apdrošinājuma ņēmējam ar drošu elektronisko parakstu un ar laika zīmogu apliecinātu apstiprinājumu par noslēgto apdrošināšanas līgumu.

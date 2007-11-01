@@ -1,0 +1,2 @@
+23.¹ pants. Zaudējumu sakarā ar cietušās personas darbspēju zaudējumu un cietušās personas nāvi indeksācija
+Aprēķinot apdrošināšanas atlīdzību par zaudējumiem sakarā ar cietušās personas darbspēju zaudējumu vai cietušās personas nāvi, apdrošinātājs vai Transportlīdzekļu apdrošinātāju birojs reizi gadā indeksē darba ienākumus, ko cietusī persona vai bojā gājusī persona saņēma pirms ceļu satiksmes negadījuma, ņemot vērā Centrālās statistikas pārvaldes oficiāli noteikto iepriekšējā gada patēriņa cenu indeksu (inflācijas koeficentu).
