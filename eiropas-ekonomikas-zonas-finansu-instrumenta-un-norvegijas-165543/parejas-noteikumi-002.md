@@ -1,0 +1,1 @@
+2. Ministru kabinets apstiprina apsaimniekotāja iesniegtos šā likuma 18.panta 4.punktā minētos apakšprojektu atklāta konkursa nolikumus atbilstoši granta līgumā noteiktajiem apakšprojektu atklātu konkursu izsludināšanas termiņiem.

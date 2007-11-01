@@ -1,0 +1,4 @@
+22.pants. Lēmuma pieņemšanas termiņš
+(1) Starpniekinstitūcija lēmumu par individuālā projekta iesnieguma atbilstību administratīvajiem vērtēšanas kritērijiem un virzīšanu tālākai vērtēšanai vai par neatbilstību administratīvajiem vērtēšanas kritērijiem un noraidīšanu pieņem ne vēlāk kā četru mēnešu laikā no individuālā projekta iesnieguma iesniegšanas dienas.
+(2) Vadošā iestāde lēmumu par programmas, grantu shēmas vai individuālā projekta iesnieguma nosūtīšanu birojam pieņem ne vēlāk kā divu mēnešu laikā no dienas, kad programmas, grantu shēmas vai individuālā projekta iesniegums iesniegts vadošajai iestādei.
+(3) Apsaimniekotājs lēmumu par apakšprojekta iesnieguma apstiprināšanu vai noraidīšanu pieņem ne vēlāk kā četru mēnešu laikā no apakšprojekta iesnieguma iesniegšanas dienas.

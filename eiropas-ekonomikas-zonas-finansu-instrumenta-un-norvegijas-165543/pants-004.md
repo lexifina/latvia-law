@@ -1,0 +1,2 @@
+4.pants. Finanšu instrumentu vadība
+Finanšu instrumentu vadība ietver finanšu instrumentu īstenošanas organizēšanu, individuālo projektu un apakšprojektu iesniegumu vērtēšanas kritēriju izstrādi, programmu, grantu shēmu un individuālo projektu iesniegumu atlasi nosūtīšanai uz biroju, apakšprojektu iesniegumu atlasi un apstiprināšanu, finanšu instrumentu programmu, grantu shēmu (arī apakšprojektu) un individuālo projektu īstenošanu, kontroli, auditu, maksājumu veikšanu, ziņošanu par konstatētajām neatbilstībām, uzraudzību un izvērtēšanu.

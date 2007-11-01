@@ -1,0 +1,2 @@
+23.pants. Eiropas Ekonomikas zonas finanšu instrumenta komitejas vai Norvēģijas Ārlietu ministrijas lēmums
+Ja vadošā iestāde pieņēmusi lēmumu un nosūtījusi birojam programmas, grantu shēmas vai individuālā projekta iesniegumu, attiecīgi Eiropas Ekonomikas zonas finanšu instrumenta komiteja vai Norvēģijas Ārlietu ministrija pieņem galīgo lēmumu par programmas, grantu shēmas vai individuālā projekta iesnieguma apstiprināšanu vai noraidīšanu.

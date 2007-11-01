@@ -1,0 +1,3 @@
+1. Ministru kabinets līdz 2008.gada 1.martam izdod šā likuma 18.panta 1., 2., 3., 5. un 6.punktā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2008.gada 1.martam piemērojami šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:
+1) Ministru kabineta 2005.gada 8.novembra noteikumi Nr.852 "Noteikumi par Eiropas Ekonomikas zonas finanšu instrumenta un Norvēģijas valdības divpusējā finanšu instrumenta vadības, īstenošanas, uzraudzības, kontroles un novērtēšanas sistēmu";
+2) Ministru kabineta 2007.gada 19.jūnija noteikumi Nr.396 "Kārtība, kādā valsts budžetā plāno līdzekļus Eiropas Ekonomikas zonas finanšu instrumenta un Norvēģijas valdības divpusējā finanšu instrumenta finansēto projektu īstenošanai un veic maksājumus".
