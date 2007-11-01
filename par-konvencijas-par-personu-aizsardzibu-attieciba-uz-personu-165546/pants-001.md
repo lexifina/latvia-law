@@ -1,0 +1,1 @@
+1.pants. Konvencijas par personu aizsardzību attiecībā uz personu datu automātisko apstrādi Papildu protokols par uzraudzības institūcijām un pārrobežu datu plūsmām (turpmāk - Papildu protokols) ar šo likumu tiek pieņemts un apstiprināts.
