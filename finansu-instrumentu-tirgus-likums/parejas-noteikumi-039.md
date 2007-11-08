@@ -1,0 +1,1 @@
+39. Ieguldījumu brokeru sabiedrības, kas saņēmušas Komisijas licenci ieguldījumu pakalpojumu sniegšanai, un kredītiestādes, kas šajā likumā noteiktajā kārtībā ir ieguvušas tiesības sniegt ieguldījumu pakalpojumus, līdz 2008.gada 1.februārim informē esošos klientus par viņu statusu saskaņā ar šā likuma 124.¹ panta prasībām.

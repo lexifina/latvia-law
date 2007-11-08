@@ -6,7 +6,7 @@ b) pases vai cita likumā noteikta personu identificējoša dokumenta tās lapas
 c) izglītības dokumentu kopijas;
 2) ziņas par akcionāriem (dalībniekiem), kuriem tirgus organizētājā ir būtiska līdzdalība:
 a) fiziskajām personām - pases vai cita likumā noteikta personu identificējoša dokumenta tās lapas kopiju, kurā norādīti personu identificējošie dati [vārds, uzvārds, pilsonība, personas kods (ja tāds ir) vai dzimšanas gads un datums],
-b) juridiskajām personām - firmu, juridisko adresi, reģistrācijas numuru un vietu. Ārvalstīs un dalībvalstīs reģistrētas juridiskās personas iesniedz arī reģistrācijas dokumentu kopijas;
+b) juridiskajām personām - firmu, juridisko adresi, reģistrācijas numuru un vietu. Ārvalstīs un citās dalībvalstīs reģistrētas juridiskās personas iesniedz arī reģistrācijas dokumentu kopijas;
 3) tirgus organizētāja organizatoriskās struktūras aprakstu, kurā skaidri norādītas padomes un valdes tiesības, pienākumi un pilnvaras, kā arī precīzi noteikti un sadalīti tirgus organizētāja struktūrvienību uzdevumi un struktūrvienību vadītāju un valdes locekļu pienākumi un pilnvaras;
 4) grāmatvedības politikas un uzskaites organizācijas galveno principu aprakstu;
 5) vadības informācijas sistēmu aprakstu;
@@ -29,3 +29,4 @@ b) juridiskajām personām - firmu, juridisko adresi, reģistrācijas numuru un 
 (3) Komisijai ir tiesības pieprasīt, lai kapitālsabiedrība precizē iesniegtos dokumentus un informāciju.
 (4) Ja līdz lēmuma pieņemšanai par licences izsniegšanu notiek izmaiņas šā panta pirmajā daļā norādītajā informācijā vai dokumentos tiek izdarīti grozījumi, kapitālsabiedrības pienākums ir nekavējoties iesniegt Komisijai jauno informāciju vai attiecīgo dokumentu pilnu tekstu ar izdarītajiem grozījumiem.
 (5) Grozījumus licences saņemšanai iesniegtajos dokumentos tirgus organizētājs pēc licences saņemšanas iesniedz Komisijai ne vēlāk kā septiņu dienu laikā pēc grozījumu pieņemšanas dienas vai pēc dienas, kad attiecīgā informācija kļuva tam zināma.
+(6) Komisija var atteikties apstiprināt grozījumus dokumentos, ja paredzamās izmaiņas apdraud finansiāli stabilu, piesardzīgu un normatīvajiem aktiem atbilstošu regulētā tirgus organizētāja darbību.

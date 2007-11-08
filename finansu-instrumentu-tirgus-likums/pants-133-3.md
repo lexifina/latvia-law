@@ -1,0 +1,7 @@
+133.³ pants. Daudzpusējās tirdzniecības sistēmas dalībnieki
+(1) Daudzpusējās tirdzniecības sistēmas dalībnieks ir persona, kas saskaņā ar šā likuma 133.² panta otrās daļas 3.punktā noteikto kārtību ir tiesīga veikt darījumus šajā sistēmā.
+(2) Par daudzpusējās tirdzniecības sistēmas dalībnieku var kļūt:
+1) ieguldījumu brokeru sabiedrība, kurai Komisija izsniegusi licenci ieguldījumu pakalpojumu sniegšanai, vai kredītiestāde, kurai Komisija izsniegusi licenci kredītiestādes darbībai un kura šajā likumā noteiktajā kārtībā uzsākusi ieguldījumu pakalpojumu sniegšanu;
+2) citas dalībvalsts ieguldījumu brokeru sabiedrība vai kredītiestāde, kura savā reģistrācijas valstī ir saņēmusi licenci ieguldījumu pakalpojumu sniegšanai.
+(3) Daudzpusējās tirdzniecības sistēmas uzturētājs ir tiesīgs piešķirt dalībnieka statusu arī personai, kura nav minēta šā panta otrajā daļā, bet kura saskaņā ar sistēmas uzturētāja apstiprinātajiem kritērijiem ir piemērota un atbilstoša un kurai ir pietiekams prasmju un kompetences līmenis attiecībā uz tirdzniecību daudzpusējā tirdzniecības sistēmā, un kurai ir pietiekami resursi un organizatoriskā struktūra, lai veiktu daudzpusējās tirdzniecības sistēmas dalībnieka pienākumus un garantētu pienācīgus norēķinus par darījumiem.
+(4) Daudzpusējās tirdzniecības sistēmas dalībnieks, slēdzot darījumus daudzpusējā tirdzniecības sistēmā, attiecībā uz citu daudzpusējās tirdzniecības sistēmas dalībnieku ir tiesīgs nepiemērot šā likuma 126., 126.¹, 126.², 128., 128.¹, 128.² un 128.³ pantā minētās prasības.

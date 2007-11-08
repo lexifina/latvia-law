@@ -1,0 +1,5 @@
+92.¹ pants. Centrālā depozitārija darbības nepārtrauktība
+(1) Lai nodrošinātu šā likuma 92.pantā noteikto funkciju veikšanu, kā arī informācijas saglabāšanu, Centrālais depozitārijs izstrādā Centrālā depozitārija darbības nepārtrauktības nodrošināšanas plānu.
+(2) Ja esošais Centrālais depozitārijs nevar pildīt šajā likumā noteiktās funkcijas maksātnespējas, likvidācijas vai citu iemeslu dēļ, Centrālā depozitārija statuss konkursa kārtībā tiek piešķirts citai komercsabiedrībai. Konkursu rīko Finanšu ministrija.
+(3) Līdz šā likuma 92.panta otrajā daļā noteikto funkciju nodošanai komercsabiedrībai, kurai šā panta otrajā daļā noteiktajā kārtībā piešķirts Centrālā depozitārija statuss, esošais Centrālais depozitārijs turpina savu darbību. Šo darbību finansē no Komisijas budžeta.
+(4) Komisija veic esošā Centrālā depozitārija uzraudzību tik ilgi, kamēr tas pilnībā nokārtojis saistības pret saviem dalībniekiem un šā likuma 92.panta otrajā daļā noteiktās Centrālā depozitārija funkcijas tiek nodotas komercsabiedrībai, kurai šā panta otrajā daļā noteiktajā kārtībā piešķirts Latvijas Centrālā depozitārija statuss.

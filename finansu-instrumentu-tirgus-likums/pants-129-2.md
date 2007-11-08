@@ -1,0 +1,2 @@
+129.² pants. Zvērināta revidenta ziņojums
+Ieguldījumu brokeru sabiedrība un kredītiestāde nodrošina, ka zvērināts revidents vismaz reizi gadā pārbauda, vai tās veiktie pasākumi ir pietiekami, lai izpildītu šajā likumā noteikto prasību par ieguldījumu brokeru sabiedrības vai kredītiestādes un klienta finanšu instrumentu un naudas līdzekļu šķirtu turēšanu. Zvērināts revidents iesniedz Komisijai rakstveida ziņojumu par ieguldījumu brokeru sabiedrības vai kredītiestādes veikto pasākumu pietiekamību likumā noteikto prasību izpildei.

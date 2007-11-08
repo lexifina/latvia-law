@@ -7,5 +7,6 @@
 5) ieguldījumu brokeru sabiedrība Komisijas noteiktajā termiņā nav novērsusi Komisijas konstatētos normatīvo aktu pārkāpumus;
 6) ieguldījumu brokeru sabiedrība pati uzsākusi likvidācijas procesu;
 7) likumā noteiktajā kārtībā tiek uzsākta ieguldījumu brokeru sabiedrības bankrota procedūra;
-8) ieguldījumu brokeru sabiedrība iesniegusi rakstveida iesniegumu par licences anulēšanu.
+8) ieguldījumu brokeru sabiedrība iesniegusi rakstveida iesniegumu par licences anulēšanu;
+9) tiek konstatēts, ka ieguldījumu brokeru sabiedrība vairs neatbilst šajā likumā noteiktajām prasībām licences saņemšanai.
 (2) Komisija īsteno šajā likumā noteikto ieguldījumu brokeru sabiedrības uzraudzību līdz brīdim, kad ieguldījumu brokeru sabiedrība pilnībā nokārtojusi saistības pret saviem klientiem.

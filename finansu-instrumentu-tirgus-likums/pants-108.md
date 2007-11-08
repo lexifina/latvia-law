@@ -6,7 +6,7 @@
 3) ārvalsts likumi un citi normatīvie akti, kas attiecas uz personām, kurām ir ciešas attiecības ar ieguldījumu brokeru sabiedrību, ierobežo Komisijas tiesības veikt likumā noteiktās uzraudzības funkcijas;
 4) ieguldījumu brokeru sabiedrības iesniegtajos dokumentos ir nepatiesas vai nepilnīgas ziņas;
 5) ieguldījumu brokeru sabiedrības valdes locekļi neatbilst likumā noteiktajām prasībām;
-6) nav iespējams pārliecināties par to personu identitāti, reputāciju un finansiālā stāvokļa stabilitāti, kurām ieguldījumu brokeru sabiedrībā ir būtiska līdzdalība;
+6) nav iespējams pārliecināties par to personu identitāti, reputāciju un finansiālā stāvokļa stabilitāti, kurām ieguldījumu brokeru sabiedrībā ir būtiska līdzdalība, vai ja Komisija konstatē, ka to personu ietekme, kuras ieguvušas būtisku līdzdalību ieguldījumu brokeru sabiedrībā, nenodrošinās tās finansiāli stabilu, piesardzīgu un ieguldījumu brokeru sabiedrību darbību regulējošiem normatīvajiem aktiem atbilstošu vadību;
 7) Komisija konstatē, ka finanšu līdzekļi, kurus iegulda ieguldījumu brokeru sabiedrības kapitālā, iegūti neparastos vai aizdomīgos finanšu darījumos vai nav dokumentāri pierādīta šo finanšu līdzekļu tiesiska ieguve.
 (3) Ja Komisija pieņēmusi lēmumu par atteikumu izsniegt licenci, atkārtoti iesniegumu licences saņemšanai var iesniegt pēc visu atteikumā minēto trūkumu novēršanas.
 (4) Komisija konsultējas ar attiecīgās dalībvalsts uzraudzības institūciju pirms licences izsniegšanas tādai ieguldījumu brokeru sabiedrībai:

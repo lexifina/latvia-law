@@ -1,14 +1,10 @@
-130.pants. Finanšu instrumentu konti un to izraksti
+130.pants. Finanšu instrumentu konti
 (1) Pirms finanšu instrumentu konta atvēršanas ieguldījumu brokeru sabiedrība vai kredītiestāde identificē personu, kas vēlas atvērt kontu, kā arī noskaidro, vai kontā iegrāmatojamie finanšu instrumenti piederēs šai personai vai arī tie būs personas turējumā esoši finanšu instrumenti. Kontu, kurā iegrāmatotie finanšu instrumenti ir personas turējumā esoši finanšu instrumenti, identificē kā nominālo kontu.
 (2) Aizliegts atvērt finanšu instrumentu kontus bez klienta identifikācijas. Šī prasība attiecas arī uz ieguldījumu brokeru sabiedrību atvērtajiem klientu naudas kontiem, kas atvērti ar finanšu instrumentiem veicamo klientu darījumu nodrošināšanai.
 (3) Nominālā konta atvēršanas gadījumā konta identifikācijā atspoguļo informāciju par to, ka tas ir nominālais konts un tajā esošie finanšu instrumenti nepieder personai, kas atver kontu.
 (4) Ieguldījumu brokeru sabiedrība un kredītiestāde ir tiesīga atvērt nominālo kontu tikai tad, ja persona, kurai tiek atvērts nominālais konts, darbojas saskaņā ar normatīvajiem aktiem, kuros noteiktās prasības attiecībā uz klientu identifikāciju nav mazāk stingras par Latvijas Republikas normatīvajos aktos noteiktajām prasībām.
-(5) Identificējot personu, kura vēlas atvērt finanšu instrumentu kontu, ieguldījumu brokeru sabiedrība vai kredītiestāde pieprasa no attiecīgās personas informāciju par to, vai šī persona nav iekļauta šā likuma 86.pantā minētajā iekšējās informācijas turētāju sarakstā. Ja persona tiek iekļauta iekšējās informācijas turētāju sarakstā pēc tam, kad tai ticis atvērts finanšu instrumentu konts ieguldījumu brokeru sabiedrībā vai kredītiestādē, šīs personas pienākums ir par to paziņot attiecīgajai ieguldījumu brokeru sabiedrībai vai kredītiestādei.
+(5) (Izslēgta ar 04.10.2007. likumu.)
 (6) (Izslēgta ar 09.06.2005. likumu.)
-(7) Ieguldījumu brokeru sabiedrība un kredītiestāde klientam saskaņā ar savstarpējo līgumu, kas regulē klienta finanšu instrumentu turēšanu, kā arī pēc klienta pieprasījuma izsniedz finanšu instrumentu konta izrakstu par:
-1) noteiktā laikposmā veiktajiem darījumiem ar vienu, vairākiem vai visiem finanšu instrumentiem;
-2) visā konta pastāvēšanas laikā veiktajiem darījumiem ar vienu, vairākiem vai visiem finanšu instrumentiem;
-3) noteiktu darījumu ar finanšu instrumentiem;
-4) kontā iegrāmatotajiem klientam piederošajiem finanšu instrumentiem.
-(8) Konta izrakstos norāda ieguldījumu brokeru sabiedrību vai kredītiestādi identificējošos datus, klientu identificējošos datus, konta numuru, laikposmu, par kuru atspoguļoti darījumi kontā, konta izraksta izsniegšanas datumu, finanšu instrumentu identificējošos datus (nosaukums, ISIN kods), konta sākuma un beigu bilanci, datumu, kurā finanšu instrumenti iegrāmatoti kontā, katra ar finanšu instrumentiem veiktā darījuma rezultātā iegrāmatoto finanšu instrumentu daudzumu un cenu (ja tāda ir zināma), kontā ieskaitīto un no konta norakstīto finanšu instrumentu kopskaitu laikposmā, par kuru izsniegts konta izraksts.
-(9) Ieguldījumu brokeru sabiedrībā atvērtā klienta naudas konta izrakstā norāda attiecīgus datus, kas sniedz šā panta septītajā daļā minētajai informācijai par finanšu instrumentu kontu līdzvērtīgu informāciju.
+(7) (Izslēgta ar 04.10.2007. likumu.)
+(8) (Izslēgta ar 04.10.2007. likumu.)
+(9) (Izslēgta ar 04.10.2007. likumu.)

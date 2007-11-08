@@ -10,3 +10,4 @@
 3) pret kuru ierosinātā krimināllieta par tīša noziedzīga nodarījuma izdarīšanu ir izbeigta sakarā ar noilgumu vai amnestiju;
 4) kura saukta pie kriminālatbildības, bet pret kuru krimināllieta izbeigta uz nereabilitējoša pamata;
 5) kura apzināti sniegusi Komisijai nepatiesas ziņas par sevi, iesniedzot dokumentus, lai saņemtu licenci jebkādas darbības veikšanai finanšu un kapitāla tirgū.
+(3) Ja persona jau pilda pārvaldes institūcijas locekļa pienākumus citā tirgus organizētājā, kas šā likuma vai dalībvalsts normatīvā akta kārtībā saņēmis licenci regulētā tirgus organizēšanai, tā ir uzskatāma par atbilstošu šā panta pirmās daļas prasībām.

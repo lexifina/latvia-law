@@ -4,7 +4,8 @@
 2) gadījumiem, kad būtiskas līdzdalības iegūšanas rezultātā Latvijas Republikā reģistrēta ieguldījumu brokeru sabiedrība kļūst par ārvalstīs reģistrētas sabiedrības meitas sabiedrību;
 3) gadījumiem, kas minēti šā likuma 24.¹panta trešajā daļā un 55.¹panta ceturtajā daļā;
 4) akciju atpirkšanas piedāvājumiem, kas izteikti par mērķa sabiedrībām, kuru akcijas ir laistas publiskajā apgrozībā Latvijā;
-5) gadījumiem, kas minēti šā likuma 64.³ panta trešajā daļā.
+5) gadījumiem, kas minēti šā likuma 64.³ panta trešajā daļā;
+6) darbībām, ko tā veikusi saskaņā ar šā likuma 40.¹ panta otro daļu un 140.panta otro un piekto daļu.
 (2) Šā panta pirmās daļas 1. un 2.punktā minētajos gadījumos Komisija nosūta Eiropas Komisijai arī informāciju par tā koncerna struktūru, kurā ietilpst attiecīgā ieguldījumu brokeru sabiedrība.
 (3) Komisija informē Eiropas Komisiju par vispārēja rakstura grūtībām, ar kādām, sniedzot ieguldījumu pakalpojumus vai uzsākot ieguldījumu pakalpojumu sniegšanu ārvalstīs, saskaras ieguldījumu brokeru sabiedrības, kuras Komisijā saņēmušas licenci ieguldījumu pakalpojumu vai ieguldījumu blakuspakalpojumu sniegšanai.
 (4) Komisija informē Eiropas Komisiju, kā arī pārējās dalībvalstis par tiem starpperiodu finanšu pārskatiem, kas jāiesniedz kapitālsabiedrībai, kuras akcijas ir iekļautas regulētajā tirgū, un par šā likuma 62.panta ceturtās daļas prasību piemērošanu.

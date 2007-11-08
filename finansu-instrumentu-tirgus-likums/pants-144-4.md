@@ -1,0 +1,5 @@
+144.⁴ pants. Informācijas apmaiņa ar citu dalībvalstu uzraudzības institūcijām par darījumiem ar finanšu instrumentiem
+(1) Komisija ir atbildīga par sadarbību ar citu dalībvalstu uzraudzības institūcijām, lai nodrošinātu informācijas apmaiņu par darījumiem ar regulētajā tirgū iekļautiem finanšu instrumentiem.
+(2) Komisija informācijas apmaiņu ar citu dalībvalstu uzraudzības institūcijām par darījumiem ar finanšu instrumentiem veic saskaņā ar Eiropas Komisijas regulas Nr. 1287/2006 14.panta prasībām.
+(3) Informāciju, kuru Komisija saņēmusi šā likuma 133.⁶ panta kārtībā par darījumiem, ko veikusi citas dalībvalsts ieguldījumu brokeru sabiedrības un kredītiestādes filiāle, tā nosūta attiecīgās dalībvalsts uzraudzības iestādei.
+(4) Informāciju, kuru Komisija saņēmusi šā likuma 133.⁶ panta kārtībā par darījumiem, ko veikusi Latvijas Republikā reģistrēta ieguldījumu brokeru sabiedrība un kredītiestāde ar citas dalībvalsts regulētajā tirgū iekļautajiem finanšu instrumentiem, tā nosūta attiecīgās dalībvalsts kompetentajai iestādei, kas ir konkrētā finanšu instrumenta atbilstošā kompetentā iestāde saskaņā ar Eiropas Komisijas regulas Nr. 1287/2006 8.pantu.

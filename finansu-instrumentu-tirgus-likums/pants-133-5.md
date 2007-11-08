@@ -1,0 +1,4 @@
+133.⁵ pants. Kārtība, kādā citā dalībvalstī reģistrēts daudzpusējās tirdzniecības sistēmas uzturētājs uzsāk darbību Latvijas Republikā
+(1) Citā dalībvalstī reģistrēts daudzpusējās tirdzniecības sistēmas uzturētājs ir tiesīgs veikt darbību Latvijas Republikā, lai veicinātu Latvijas Republikā reģistrētu ieguldījumu brokeru sabiedrību un kredītiestāžu piekļuvi daudzpusējai tirdzniecības sistēmai.
+(2) Citā dalībvalstī reģistrēts daudzpusējās tirdzniecības sistēmas uzturētājs ir tiesīgs uzsākt darbību Latvijas Republikā, ja Komisija ir saņēmusi attiecīgu paziņojumu no daudzpusējās tirdzniecības sistēmas uzturētāja izcelsmes valsts uzraudzības institūcijas.
+(3) Komisijai ir tiesības pieprasīt daudzpusējās tirdzniecības sistēmas uzturētāja izcelsmes valsts uzraudzības institūcijai identificējošus datus par daudzpusējās tirdzniecības sistēmas dalībniekiem, kas reģistrēti Latvijas Republikā.

@@ -8,7 +8,8 @@
 2) regulētajā tirgū iekļauto finanšu instrumentu emitentu pienākumus un emitentu uzraudzības kārtību;
 3) finanšu instrumentu tirdzniecības un kotēšanas kārtību;
 4) finanšu instrumentu un naudas norēķinu kārtību;
-5) tirgus organizētāja biedru uzņemšanas un izslēgšanas kārtību, biedru tiesības un pienākumus, kā arī biedra statusa apturēšanas kārtību;
+5) tirgus organizētāja biedru uzņemšanas un izslēgšanas kārtību, biedru tiesības un pienākumus, kā arī biedra statusa apturēšanas kārtību un profesionālās prasības biedra statusā esošas sabiedrības darbiniekiem, kas veic darījumus regulētajā tirgū;
 6) tirgus manipulāciju identificēšanas un novēršanas kārtību;
 6¹) Garantiju fonda darbības kārtību;
 7) citas attiecības, kas saistītas ar regulētā tirgus darbību un finanšu instrumentu publisko apgrozību.
+(6) Tirgus organizētājs, izstrādājot šā panta piektās daļas 1.punktā minētos noteikumus, ņem vērā Eiropas Komisijas regulas Nr. 1287/2006 35., 36. un 37.panta prasības finanšu instrumentu iekļaušanai regulētajā tirgū.

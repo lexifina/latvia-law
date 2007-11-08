@@ -3,11 +3,7 @@ Likumā ir lietoti šādi termini:
 1) finanšu instrumenti - vienošanās, kas vienlaikus vienai personai rada finanšu aktīvus, bet citai personai - finanšu saistības vai kapitāla vērtspapīrus;
 2) kategorija - viena veida finanšu instrumenti, kuros nostiprinātas viena un tā paša veida tiesības ar vienādiem šo tiesību īstenošanas noteikumiem;
 3) ieguldījumu brokeru sabiedrība - kapitālsabiedrība, kas regulāri un profesionāli sniedz ieguldījumu pakalpojumus;
-4) profesionālie ieguldītāji:
-a) Latvijas Republikā vai dalībvalstī reģistrēta ieguldījumu brokeru sabiedrība, kredītiestāde, sabiedrība, kas saskaņā ar likumu ir tiesīga pārvaldīt kopējo ieguldījumu uzņēmumus, pensiju fonds, apdrošinātājs un pārapdrošinātājs,
-b) starptautiska finanšu iestāde,
-c) jebkura persona, kura par profesionālu ieguldītāju tiek uzskatīta saskaņā ar tās reģistrācijas valsts likumiem,
-d) jebkura cita juridiskā persona, kura ieguldījumu brokeru sabiedrībai vai kredītiestādei, kas sniedz ieguldījumu pakalpojumus, iesniegusi iesniegumu ar lūgumu uzskatīt sevi par profesionālu ieguldītāju;
+4) (izslēgts ar 04.10.2007. likumu);
 5) dalībvalsts - Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts;
 6) izcelsmes valsts - dalībvalsts, ko nosaka saskaņā ar šā likuma 3.¹ panta prasībām;
 7) dalībvalsts uzraudzības institūcija - institūcija, kurai dalībvalsts deleģējusi ieguldījumu pakalpojumu sniegšanas uzraudzības funkciju, neatkarīgi no tā, vai šī institūcija izveidota uz likuma pamata vai arī šīs funkcijas veikšanu tai deleģējusi valsts pārvaldes iestāde, ja par šo institūciju un tās tiesībām un pienākumiem attiecīgā dalībvalsts paziņojusi Eiropas Savienības Komisijai;
@@ -31,7 +27,7 @@ c) starp šo personu un komercsabiedrību pastāv jebkādas citas šā punkta "a
 21¹) nozīmīga līdzdalība - tieši vai netieši iegūta līdzdalība, kas aptver piecus un vairāk procentus no emitenta balsstiesīgā kapitāla;
 22) mātes sabiedrība - komercsabiedrība, kura kontrolē citu komercsabiedrību;
 23) meitas sabiedrība - komercsabiedrība, kuru kontrolē cita komercsabiedrība;
-24) finanšu iestāde - kapitālsabiedrība, kas nodibināta, lai sniegtu vienu vai vairākus finanšu pakalpojumus, izņemot noguldījumu un citu atmaksājamo līdzekļu piesaistīšanu, kā arī lai veiktu apdrošināšanas operācijas vai iegūtu līdzdalību citu kapitālsabiedrību pamatkapitālā;
+24) finanšu iestāde - komercsabiedrība, kas nodibināta, lai sniegtu vienu vai vairākus finanšu pakalpojumus (izņemot noguldījumu un citu atmaksājamo līdzekļu piesaistīšanu) vai lai iegūtu līdzdalību citu komercsabiedrību pamatkapitālā;
 25) finanšu pārvaldītājsabiedrība - finanšu iestāde, kura nav jaukta finanšu pārvaldītājsabiedrība un kuras meitas sabiedrības ir vienīgi vai galvenokārt (ieguldījumu brokeru sabiedrības un citu finanšu iestāžu aktīvu vai ienākumu kopsumma pēdējā apstiprinātajā gada pārskatā veido vairāk par pusi no visu finanšu pārvaldītājsabiedrības kontrolēto meitas sabiedrību aktīvu vai ienākumu kopsummas) ieguldījumu brokeru sabiedrības vai citas finanšu iestādes, turklāt vismaz viena no tām ir ieguldījumu brokeru sabiedrība;
 26) jaukta pārvaldītājsabiedrība - mātes sabiedrība, kura nav finanšu pārvaldītājsabiedrība, ieguldījumu brokeru sabiedrība, kredītiestāde vai jaukta finanšu pārvaldītājsabiedrība un starp kuras meitas sabiedrībām ir vismaz viena ieguldījumu brokeru sabiedrība;
 26¹) dalībvalsts mātes ieguldījumu brokeru sabiedrība - dalībvalstī reģistrēta ieguldījumu brokeru sabiedrība, kurai ir meitas sabiedrība - ieguldījumu brokeru sabiedrība, cita finanšu iestāde vai kredītiestāde - vai kurai ir dalība ieguldījumu brokeru sabiedrībā, citā finanšu iestādē vai kredītiestādē, bet kura pati nav citas šajā dalībvalstī licencētas ieguldījumu brokeru sabiedrības vai kredītiestādes meitas sabiedrība vai šajā dalībvalstī reģistrētas finanšu pārvaldītājsabiedrības meitas sabiedrība;
@@ -55,9 +51,8 @@ e) kārtējā darbības gada peļņa, ja ir zvērināta revidenta vai zvērināt
 31) depozitārie sertifikāti - pārvedami vērtspapīri, kas emitēti, lai aizstātu citā valstī reģistrēta emitenta finanšu instrumentus, un dod tā ieguvējam tiesības izmantot aizstātajos finanšu instrumentos nostiprinātās tiesības;
 32) pārvedami vērtspapīri - vērtspapīri, kuru atsavināšanas tiesības nav ierobežotas, izņemot maksāšanas līdzekļus. Šādi vērtspapīri ir:
 a) kapitāla vērtspapīri,
-b) obligācijas un citi parāda vērtspapīri,
-c) depozitārie sertifikāti,
-d) citi vērtspapīri, kuros nostiprinātas tiesības iegādāties šā punkta "a" un "b" apakšpunktā minētos pārvedamos vērtspapīrus parakstīšanās vai apmaiņas ceļā vai paredzēti norēķini naudā;
+b) parāda vērtspapīri,
+c) citi vērtspapīri, kuros nostiprinātas tiesības iegādāties vai atsavināt pārvedamus vērtspapīrus vai kuri paredz norēķinus naudā, ko nosaka pārvedami vērtspapīri, valūta, procentu likme, preces vai cits bāzes aktīvs;
 33) mazie un vidējie komersanti - komersanti, kas saskaņā ar to individuālajiem gada pārskatiem vai konsolidētajiem gada pārskatiem atbilst vismaz diviem no šādiem trim kritērijiem:
 a) vidējais darbinieku skaits finansiālajā gadā ir mazāks par 250,
 b) aktīvu kopsumma nepārsniedz 43000000 eiro ekvivalentu latos pēc Latvijas Bankas noteiktā kursa,
@@ -65,7 +60,7 @@ c) gada tīrais apgrozījums nepārsniedz 50 000 000 eiro ekvivalentu latos pēc
 34) publiskā piedāvājuma izteicējs - persona, kas publiski piedāvā pārvedamus vērtspapīrus;
 35) piedāvājuma programma - pasākumu kopums līdzīgas vai vienādas kategorijas pārvedamu vērtspapīru (izņemot kapitāla vērtspapīrus) nepārtrauktai vai atkārtotai emisijai noteiktā laika posmā;
 36) nepārtraukti vai atkārtoti emitēti pārvedami vērtspapīri - līdzīgas vai vienādas kategorijas pārvedami vērtspapīri, kas emitēti nepārtrauktā emisijā vai vismaz divās atsevišķās emisijās, kuras notikušas 12 mēnešu laikā no publiskā piedāvājuma sākuma datuma;
-37) uzņēmēja dalībvalsts - valsts, kurā tiek izteikts publiskais piedāvājums vai tiek lūgta pārvedamu vērtspapīru iekļaušana regulētā tirgū, ja tā atšķiras no izcelsmes dalībvalsts;
+37) uzņēmēja dalībvalsts - valsts, kurā tiek izteikts publiskais piedāvājums vai tiek lūgta pārvedamu vērtspapīru iekļaušana regulētajā tirgū, vai valsts, kurā ieguldījumu brokeru sabiedrībai vai kredītiestādei ir filiāle vai tā sniedz ieguldījumu pakalpojumus vai ieguldījumu blakuspakalpojumus, vai valsts, kurā regulētā tirgus organizētājs veic atbilstošus pasākumus, lai veicinātu šajā valstī esošo tirgus dalībnieku piekļuvi tirdzniecībai tā sistēmā no attāluma, ja šī valsts atšķiras no izcelsmes dalībvalsts;
 38) kvalificētie ieguldītāji:
 a) Latvijas Republikā vai citā valstī reģistrēta banka, sabiedrība, kas saskaņā ar likumu ir tiesīga pārvaldīt kopējo ieguldījumu uzņēmumus, ieguldījumu brokeru sabiedrība, pensiju fonds, apdrošinātājs, pārapdrošinātājs, preču dīleri, kā arī juridiskās personas, kuras ir licencētas veikt darbības finanšu tirgos, vai arī personas, kuras nav šādā veidā licencētas vai regulētas, bet kuru komercdarbības mērķis ir vienīgi ieguldīšana vērtspapīros,
 b) valstis un pašvaldības, valstu centrālās bankas un starptautiskas finanšu iestādes,
@@ -89,4 +84,14 @@ d) personai ir kontrole pār komercsabiedrību, un šī persona to faktiski izma
 49) tirgus uzturētājs - persona, kas pastāvīgi nodrošina viena vai vairāku finanšu instrumentu aktīvu tirdzniecību (likviditāti) tirdzniecības dienas laikā, pērkot un pārdodot finanšu instrumentus pašas noteiktās cenas robežās un par saviem līdzekļiem;
 50) tirdzniecības diena - diena vai laikposms attiecīgajā dienā, kad saskaņā ar tirgus organizētāja noteikumiem attiecīgajā regulētajā tirgū ir iespējams veikt darījumus ar finanšu instrumentiem;
 51) pašu kapitāls - ieguldījumu brokeru sabiedrības revidētajos finanšu pārskatos atspoguļotie kapitāla, rezervju un saistību elementi, kas ir brīvi pieejami ieguldījumu brokeru sabiedrībai ar parastiem darbības riskiem saistīto, bet vēl neidentificēto iespējamo zaudējumu segšanai;
-52) vērtspapirizētais parāds - aktīvu kopums (aktīvu portfelī iekļautie aktīvi), kas nodots vai pārdots īpašam nolūkam izveidotai komercsabiedrībai, kas to ir pārveidojusi vērtspapīros.
+52) vērtspapirizētais parāds - aktīvu kopums (aktīvu portfelī iekļautie aktīvi), kas nodots vai pārdots īpašam nolūkam izveidotai komercsabiedrībai, kas to ir pārveidojusi vērtspapīros;
+53) daudzpusējā tirdzniecības sistēma - sistēma, kuru uztur ieguldījumu brokeru sabiedrība, kredītiestāde vai tirgus organizētājs un kurā, ievērojot līdzvērtīgus nosacījumus, apvieno trešo pušu finanšu instrumentu pirkšanas un pārdošanas rīkojumus tā, ka tiek noslēgts darījums;
+54) daudzpusējās tirdzniecības sistēmas uzturētājs (operators) - ieguldījumu brokeru sabiedrība, kredītiestāde vai tirgus organizētājs, kas saskaņā ar sistēmas noteikumiem nodrošina tās darbību;
+55) piesaistītais aģents - fiziskā vai juridiskā persona, kas vienas ieguldījumu brokeru sabiedrības vai kredītiestādes vārdā klientiem vai iespējamiem klientiem reklamē ieguldījumu pakalpojumus vai blakuspakalpojumus, ko sniedz ieguldījumu brokeru sabiedrība vai kredītiestāde, saņem no klientiem un nosūta tiem norādījumus un rīkojumus attiecībā uz ieguldījumu pakalpojumiem vai finanšu instrumentiem, izvieto finanšu instrumentus vai sniedz konsultācijas klientiem vai iespējamiem klientiem attiecībā uz minētajiem finanšu instrumentiem vai pakalpojumiem;
+56) piesaistītā aģenta atbildīgā persona - pašnodarbinātā persona, piesaistītā aģenta izpildinstitūcijas loceklis vai cita persona, kas atbilstoši savai kompetencei piesaistītā aģenta vadības līmenī ir atbildīga par piesaistītā aģenta profesionālo darbību;
+57) sistemātisks internalizētājs - ieguldījumu brokeru sabiedrība vai kredītiestāde, kas organizēti, bieži un sistemātiski veic darījumus uz pašas rēķina, izpildot klientu rīkojumus ārpus regulētā tirgus vai daudzpusējās tirdzniecības sistēmas;
+58) ierobežojošs rīkojums - rīkojums pirkt vai pārdot noteiktu finanšu instrumentu daudzumu par īpaši noteiktu cenu vai par labāku cenu;
+59) konsultāciju sniegšana par ieguldījumiem finanšu instrumentos - klientam piemērota vai ar klienta individuālajiem apstākļiem pamatota personiska ieteikuma sniegšana klientam par vienu darījumu vai vairākiem darījumiem ar finanšu instrumentiem, iesakot pirkt, pārdot, parakstīties, apmainīt, paturēt, izpirkt, izvietot konkrētu finanšu instrumentu vai izmantot vai atturēties izmantot ar konkrētu finanšu instrumentu piešķirtās tiesības, ko ieguldījumu brokeru sabiedrība vai kredītiestāde sniedz pēc klienta pieprasījuma vai savas iniciatīvas un kas nav izplatīts sabiedrībai;
+60) profesionāls klients - klients, kuram ir attiecīga pieredze, zināšanas un kompetence, lai patstāvīgi pieņemtu ieguldījumu lēmumu un pienācīgi novērtētu riskus, ko viņš uzņemas;
+61) privāts klients - klients, kas nav profesionāls klients;
+62) finanšu analītiķis - ieguldījumu brokeru sabiedrības vai kredītiestādes darbinieks, kas izstrādā ieguldījumu pētījuma saturu.

@@ -1,0 +1,5 @@
+133.⁴ pants. Kārtība, kādā Latvijas Republikā licencēts daudzpusējās tirdzniecības sistēmas uzturētājs uzsāk darbību citā dalībvalstī
+(1) Latvijas Republikā licencēts daudzpusējās tirdzniecības sistēmas uzturētājs ir tiesīgs citā dalībvalstī uzsākt darbību, lai veicinātu šajā dalībvalstī reģistrētu ieguldījumu brokeru sabiedrību un kredītiestāžu piekļuvi daudzpusējai tirdzniecības sistēmai.
+(2) Latvijas Republikā licencēts daudzpusējās tirdzniecības sistēmas uzturētājs, kas vēlas uzsākt darbību kādā no dalībvalstīm, iesniedz Komisijai iesniegumu, kurā norāda šo valsti.
+(3) Komisija 30 dienu laikā pēc iesnieguma saņemšanas to nosūta attiecīgās dalībvalsts uzraudzības institūcijai. Daudzpusējās tirdzniecības sistēmas uzturētājs drīkst uzsākt darbību no dienas, kad attiecīgās dalībvalsts uzraudzības institūcija saņēmusi no Komisijas paziņojumu.
+(4) Komisija pēc attiecīgās dalībvalsts uzraudzības institūcijas pieprasījuma nosūta identificējošus datus par Latvijas Republikā reģistrētu ieguldījumu brokeru sabiedrību vai kredītiestādi, kas ir daudzpusējās tirdzniecības sistēmas dalībnieki šajā dalībvalstī.

@@ -1,1 +1,1 @@
-4.⁴ Akciju sabiedrības, kuru akcijas ir laistas publiskajā apgrozībā līdz šā likuma spēkā stāšanās dienai, bet nav iekļautas regulētajā tirgū, un šādu sabiedrību akciju ieguvēji par šā likuma pārkāpumiem atbild saskaņā ar šā likuma 148.pantu.
+4.⁴ Akciju sabiedrības, kuru akcijas ir laistas publiskajā apgrozībā līdz šā likuma spēkā stāšanās dienai, bet nav iekļautas regulētajā tirgū, un šādu sabiedrību akcionāri par šā likuma pārkāpumiem atbild saskaņā ar šā likuma 148.pantu.

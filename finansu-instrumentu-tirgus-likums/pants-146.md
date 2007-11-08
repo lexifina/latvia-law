@@ -5,7 +5,8 @@
 1) lai pārbaudītu informāciju, ko ieguldījumu brokeru sabiedrības sniegušas nolūkā saņemt licenci ieguldījumu pakalpojumu sniegšanai;
 2) lai pārliecinātos par kredītiestādes vai ieguldījumu brokeru sabiedrības darbības atbilstību likuma prasībām;
 3) lai piemērotu likumos noteikto atbildību par šā likuma pārkāpumiem;
-4) tiesvedības procesā, kurā tiek apstrīdēti Komisijas izdotie administratīvie akti vai tās faktiskā rīcība.
+4) tiesvedības procesā, kurā tiek apstrīdēti Komisijas izdotie administratīvie akti vai tās faktiskā rīcība;
+5) lai uzraudzītu finanšu instrumentu tirdzniecības vietu darbību.
 (4) Šā panta noteikumi neierobežo Komisijas tiesības sniegt ierobežotas pieejamības informāciju:
 1) institūcijām, kuras dalībvalstīs vai ārvalstīs ir atbildīgas par kredītiestāžu, apdrošinātāju, citu finanšu institūciju un finanšu tirgus uzraudzību;
 2) iestādēm vai personām, kas Latvijas Republikā, dalībvalstīs vai ārvalstīs ir atbildīgas par ieguldījumu brokeru sabiedrību bankrota un likvidācijas procedūru;

@@ -1,0 +1,32 @@
+124.¹ pants. Klienta statuss
+(1) Personai, kurai ieguldījumu brokeru sabiedrība un kredītiestāde sniedz ieguldījumu pakalpojumus un ieguldījumu blakuspakalpojumus, var būt profesionāla klienta, privāta klienta vai tiesīgā darījumu partnera statuss.
+(2) Profesionāli klienti attiecībā uz visiem ieguldījumu pakalpojumiem un instrumentiem ir:
+1) Latvijas Republikā vai citā valstī darbībai finanšu tirgū licencētas un uzraudzītas iestādes:
+a) kredītiestādes,
+b) ieguldījumu brokeru sabiedrības,
+c) citas licencētas vai regulētas finanšu iestādes,
+d) ieguldījumu fondi un ieguldījumu pārvaldes sabiedrības,
+e) apdrošinātāji,
+f) pensiju fondi,
+g) preču dīleri,
+h) sabiedrības, kas iespējas līgumu, nākotnes līgumu vai atvasināto finanšu instrumentu tirgos vai atvasināta instrumenta bāzes aktīva tirgos veic darījumus uz pašu rēķina, kuru vienīgais mērķis ir ierobežot finanšu risku atvasināto finanšu instrumentu tirgū, vai kas veic darījumus uz citu šo tirgus dalībnieku rēķina vai veido tiem cenas, un ko garantē norēķinu sistēmas dalībnieki šajā tirgū, ja atbildību par šādu sabiedrību noslēgto līgumu izpildes nodrošināšanu uzņemas norēķinu sistēmas dalībnieki šajā tirgū,
+i) citas komercsabiedrības, kuru pamatdarbība ir ieguldīšana finanšu instrumentos un kuras šādus ieguldījumus veic lielos apmēros;
+2) komercsabiedrības, kas atbilst divām no minētajām trim prasībām:
+a) pašu kapitāls - ne mazāks kā 2 miljonu eiro ekvivalents latos pēc Latvijas Bankas noteiktā kursa,
+b) neto apgrozījums - ne mazāks kā 40 miljonu eiro ekvivalents latos pēc Latvijas Bankas noteiktā kursa,
+c) bilances vērtība - ne mazāka kā 20 miljonu eiro ekvivalents latos pēc Latvijas Bankas noteiktā kursa;
+3) valstis un pašvaldības, valsts iestādes, kas pārvalda valsts parādu, valstu centrālās bankas, Pasaules Banka, Starptautiskais Valūtas fonds, Eiropas Centrālā banka un citas starptautiskās finanšu institūcijas;
+4) citas komercsabiedrības, kuru pamatdarbība ir ieguldīšana finanšu instrumentos un kuras šādus ieguldījumus veic lielos apmēros;
+5) persona, kura citā valstī atzīta par profesionālu klientu saskaņā ar procedūru, kas līdzvērtīga šajā pantā noteiktajai.
+(3) Ieguldījumu brokeru sabiedrība vai kredītiestāde pirms ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšanas uzsākšanas informē klientu par tā statusu.
+(4) Klientam ir tiesības pieprasīt, lai ieguldījumu brokeru sabiedrība vai kredītiestāde piešķir tam citu klienta statusu. Privāts klients var iegūt profesionāla klienta statusu šā panta piektajā, sestajā un septītajā daļā noteiktajā kārtībā. Profesionāls klients var iegūt privāta klienta statusu šā panta devītajā un desmitajā daļā noteiktajā kārtībā. Ieguldījumu brokeru sabiedrība un kredītiestāde informē klientu par šīm tiesībām saskaņā ar šā likuma 126.¹ pantā noteikto kārtību.
+(5) Ieguldījumu brokeru sabiedrība vai kredītiestāde, kas sniedz ieguldījumu pakalpojumus un ieguldījumu blakuspakalpojumus, ir tiesīga atzīt par profesionālu klientu ikvienu personu, kura nav minēta šā panta otrajā daļā, bet ir izteikusi attiecīgu lūgumu, kuras zināšanas un pieredzi ieguldījumu brokeru sabiedrība un kredītiestāde ir izvērtējusi un kura atbilst vismaz diviem no šādiem kritērijiem:
+1) persona ir veikusi būtiska apmēra darījumus attiecīgajā tirgū - vismaz 10 darījumus ceturksnī iepriekšējo četru ceturkšņu laikā;
+2) personas finanšu instrumentu portfeļa vērtība, kas aptver finanšu līdzekļus un finanšu instrumentus, pārsniedz 500 000 eiro ekvivalentu latos pēc Latvijas Bankas noteiktā kursa;
+3) personai ir vismaz vienu gadu ilga pieredze finanšu sektorā amatā, kurā nepieciešamas zināšanas attiecībā uz darījumiem un pakalpojumiem, ko persona plāno veikt vai saņemt kā profesionāls klients.
+(6) Ieguldījumu brokeru sabiedrība vai kredītiestāde, pirms atzīt šā panta piektajā daļā minēto personu par profesionālu klientu, izvērtē tās kompetenci, pieredzi un zināšanas, lai gūtu apliecinājumu, ka, ņemot vērā paredzēto darījumu vai pakalpojumu specifiku, klients patstāvīgi spēj pieņemt ieguldījumu lēmumu un apzinās attiecīgos riskus.
+(7) Profesionāla klienta statusu šā panta piektajā daļā minētajai personai var piešķirt kopumā vai attiecībā uz ieguldījumu pakalpojuma atsevišķu veidu, darījuma veidu vai konkrētu darījumu vai produktu. Persona, kura vēlas, lai to atzīst par profesionālu klientu, iesniedz ieguldījumu brokeru sabiedrībai vai kredītiestādei iesniegumu, tajā norādot ieguldījumu pakalpojuma, darījuma vai produkta veidu, attiecībā uz kuru tā vēlas saņemt profesionāla klienta statusu. Ieguldījumu brokeru sabiedrība vai kredītiestāde pirms profesionāla klienta statusa piešķiršanas personai to rakstveidā brīdina par ieguldītāja aizsardzības tiesībām, ko tā var zaudēt profesionāla klienta statusā, un persona paraksta apliecinājumu, ka tā šādu brīdinājumu ir saņēmusi un apzinās šādu tiesību zaudējuma sekas. Par profesionāla statusa piešķiršanu tiek noslēgta rakstveida vienošanās.
+(8) Persona, kura atzīta par profesionālu klientu šā panta piektajā, sestajā un septītajā daļā minētajā kārtībā, sniedz ieguldījumu brokeru sabiedrībai vai kredītiestādei informāciju par tās darbībā notikušajām izmaiņām, kas var ietekmēt šīs personas atbilstību profesionāla klienta statusam izvirzītajām prasībām. Ieguldījumu brokeru sabiedrība vai kredītiestāde, kas saņem informāciju, ka klients vairs neatbilst profesionālam klientam izvirzītajām prasībām, pieņem lēmumu par šāda statusa atsaukšanu un rakstveidā informē par to attiecīgo personu.
+(9) Profesionālam klientam privāta klienta statusu var piešķirt kopumā uz visiem sniedzamajiem pakalpojumiem vai uz atsevišķiem ieguldījumu pakalpojumu, darījumu vai produktu veidiem. Profesionāls klients, kas vēlas, lai viņam piešķir privāta klienta statusu, iesniedz ieguldījumu brokeru sabiedrībai vai kredītiestādei iesniegumu, tajā norādot ieguldījumu pakalpojuma, darījuma vai produkta veidu, attiecībā uz kuru viņš vēlas saņemt privāta klienta statusu.
+(10) Lai profesionālam klientam piešķirtu privāta klienta statusu, ieguldījumu brokeru sabiedrība vai kredītiestāde un persona, kas tiek uzskatīta par profesionālu klientu, noslēdz rakstveida vienošanos. Šāda vienošanās paredz ieguldījumu pakalpojumu, darījumu vai produktu veidus, kuriem tiek piemērots privāta klienta statuss.
+(11) Ieguldījumu brokeru sabiedrība vai kredītiestāde, kura sniedz ieguldījumu pakalpojumus un ieguldījumu blakuspakalpojumus, izstrādā un apstiprina iekšējo politiku un procedūru, kas nodrošina šā panta prasību ievērošanu attiecībā uz klientu statusu.

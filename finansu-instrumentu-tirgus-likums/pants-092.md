@@ -1,5 +1,5 @@
 92.pants. Latvijas Centrālā depozitārija darbība un funkcijas
-(1) Latvijas Centrālais depozitārijs (turpmāk - Centrālais depozitārijs) darbojas saskaņā ar likumu, Komisijas noteikumiem, statūtiem un Centrālā depozitārija noteikumiem.
+(1) Latvijas Centrālais depozitārijs (turpmāk - Centrālais depozitārijs) darbojas saskaņā ar likumu, Komisijas normatīvajiem noteikumiem, statūtiem un Centrālā depozitārija noteikumiem.
 (2) Centrālā depozitārija funkcijas ir šādas:
 1) šajā likumā noteiktajos gadījumos un kārtībā iegrāmatot un uzskaitīt finanšu instrumentus, kā arī nodrošināt identificējošo pazīmju (ISIN koda) piešķiršanu;
 2) uzraudzīt kopējā katras emisijas Centrālajā depozitārijā iegrāmatoto finanšu instrumentu apjoma atbilstību apgrozībā esošo katras emisijas finanšu instrumentu skaitam;
@@ -12,5 +12,11 @@
 9) saskaņā ar Centrālā depozitārija noteikumiem kontrolēt Centrālā depozitārija dalībnieku darbību;
 10) kārtot sākotnējo reģistru;
 11) nodrošināt finanšu instrumentu uzskaites nodošanu no viena Centrālā depozitārija dalībnieka citam dalībniekam.
-(3) Šā panta otrajā daļā, izņemot 3.punktu, minētās funkcijas Latvijas Republikā ir tiesīgs veikt tikai Centrālais depozitārijs.
+(3) Latvijas Republikā tikai Centrālais depozitārijs ir tiesīgs:
+1) šajā likumā noteiktajos gadījumos un kārtībā iegrāmatot un uzskaitīt publiskajā apgrozībā esošos finanšu instrumentus;
+2) nodrošināt identificējošo pazīmju (ISIN koda) piešķiršanu;
+3) veikt finanšu instrumentu pārskaitījuma operācijas starp Centrālajā depozitārijā atvērtajiem ieguldījumu brokeru sabiedrību un kredītiestāžu finanšu instrumentu kontiem;
+4) organizēt un vadīt norēķinu operācijas ar publiskajā apgrozībā esošajiem finanšu instrumentiem;
+5) kārtot sākotnējo reģistru;
+6) nodrošināt finanšu instrumentu uzskaites nodošanu no viena Centrālā depozitārija dalībnieka citam.
 (4) Centrālajam depozitārijam ir tiesības sniegt arī citus pakalpojumus.

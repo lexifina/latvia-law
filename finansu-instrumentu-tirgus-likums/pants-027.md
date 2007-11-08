@@ -1,6 +1,11 @@
 27.pants. Tirgus organizētāja pienākumi un tiesības
-(1) Tirgus organizētājs atbilstoši likumam, Komisijas noteikumiem, kā arī saviem statūtiem un noteikumiem organizē regulēto tirgu un sniedz pakalpojumus, kas saistīti ar finanšu instrumentu publisko apgrozību.
+(1) Tirgus organizētājs atbilstoši likumam, Komisijas normatīvajiem noteikumiem, kā arī saviem statūtiem un noteikumiem organizē regulēto tirgu un sniedz pakalpojumus, kas saistīti ar finanšu instrumentu publisko apgrozību.
 (2) Tirgus organizētājs ir visiem finanšu instrumentu tirgus dalībniekiem atklāta un pieejama organizācija, kura nodrošina katra tā organizētā regulētā tirgus atklātumu un labas vadības principiem atbilstošu darbību.
+(2¹) Tirgus organizētājs veic nepieciešamos pasākumus, lai:
+1) identificētu un pārvaldītu iespējamos interešu konfliktus starp regulētā tirgus organizētāja vai tā akcionāru interesēm un pienākumu nodrošināt regulētā tirgus stabilu darbību, kā arī novērstu šāda interešu konflikta nelabvēlīgo ietekmi uz regulētā tirgus darbību vai tā biedru interesēm, īpaši tad, ja šādi interešu konflikti var kaitēt regulētā tirgus organizētāja tiesībām veikt tirgus uzraudzības funkciju;
+2) identificētu riskus, kam tas pakļauts, un šos riskus atbilstoši pārvaldītu;
+3) nodrošinātu sistēmas tehnisko darbību pienācīgu vadību, tajā skaitā izstrādātu rīcības plānu sistēmas traucējumu riska kontrolei ārkārtas situācijā;
+4) nodrošinātu efektīvu un savlaicīgu tā sistēmās veikto darījumu pabeigšanu.
 (3) Tirgus organizētājs nodrošina:
 1) finanšu instrumentu godīgu un atklātu iekļaušanu regulētajā tirgū un tirdzniecības norisi, kā arī vienlīdzīgu attieksmi pret visām vienā statusā esošām personām (piemēram, emitenti, dalībnieki);
 2) regulētajos tirgos iekļauto finanšu instrumentu emitentu uzraudzību;
@@ -21,3 +26,4 @@
 (10) Tirgus organizētājs nedrīkst:
 1) deleģēt saskaņā ar normatīvajiem aktiem vai statūtiem noteiktos savu pārvaldes institūciju pienākumus;
 2) licencē regulētā tirgus organizēšanai atļauto funkciju kopuma veikšanu pilnībā nodot ārpakalpojumu sniedzējiem.
+(11) Tirgus organizētājs ievieto savā mājaslapā internetā to akcionāru vai dalībnieku sarakstu, kuriem ir būtiska līdzdalība regulētā tirgus organizētāja kapitālā, un šo sarakstu pastāvīgi atjauno.
