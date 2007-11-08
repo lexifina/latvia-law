@@ -7,4 +7,5 @@ Likumā ir lietoti šādi termini:
 5) lauku teritorija - visa Latvijas teritorija, izņemot republikas nozīmes pilsētas un rajonu centrus;
 6) lauksaimniecībā izmantojamās zemes transformācija - lauksaimniecībā izmantojamās zemes lietošanas veidu maiņa;
 7 (zaudējis spēku 01.05.2004.; skat. Pārejas noteikumus);
-8) (zaudējis spēku 01.05.2004.; skat. Pārejas noteikumus).
+8) (zaudējis spēku 01.05.2004.; skat. Pārejas noteikumus);
+9) lauksaimniecības produktu integrētā audzēšana - lauksaimniecības produktu audzēšana, izmantojot vidi saudzējošus pasākumus, saglabājot bioloģisko daudzveidību un samazinot risku cilvēku veselībai un videi, vienlaikus nodrošinot augu aizsardzības, dzīvnieku veselības un labturības pasākumus.

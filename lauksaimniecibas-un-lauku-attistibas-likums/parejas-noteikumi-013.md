@@ -1,0 +1,1 @@
+13. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2008.gada 31.decembrim piemērojami Ministru kabineta 2007.gada 12.jūnija noteikumi Nr.379 "Bioloģiskās lauksaimniecības uzraudzības un kontroles kārtība", ciktāl tie nav pretrunā ar šo likumu.
