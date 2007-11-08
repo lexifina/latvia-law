@@ -8,7 +8,7 @@ Izglītības un zinātnes ministrija:
 6) (izslēgts ar 16.06.2005. likumu);
 7) (izslēgts ar 16.06.2005. likumu);
 8) (izslēgts ar 16.06.2005. likumu);
-9) organizē vispārējās izglītības iestāžu vadītāju atestāciju un pedagogu profesionālās kvalifikācijas vērtēšanu;
+9) (izslēgts ar 11.10.2007. likumu);
 10) (izslēgts ar 16.06.2005. likumu);
 11) (izslēgts ar 16.06.2005. likumu);
 12) (izslēgts ar 16.06.2005. likumu);

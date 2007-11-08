@@ -5,7 +5,7 @@
 2) atestāts par vispārējo vidējo izglītību - izglītības dokuments, kas apliecina vispārējās vidējās izglītības programmas apguvi;
 3) liecība - dokuments, kas apliecina pamatizglītības vai vispārējās vidējās izglītības programmas daļas apguvi;
 4) mācību līdzekļi - izglītības programmu īstenošanai nepieciešamā literatūra, uzskates un tehniskie līdzekļi, materiāli un iekārtas;
-5) mācību priekšmets - pamatota zināšanu, prasmju un attieksmju sistēma, kas izstrādāta atbilstoši kādai zinātnes, tehnikas, mākslas nozarei un paredzēta apgūšanai pēc noteiktas izglītības programmas;
+5) mācību priekšmets - noteiktas izglītības programmas ietvaros apgūstama zināšanu, prasmju un attieksmju sistēma, kas izstrādāta atbilstoši kādai zinātnes, tehnikas vai mākslas nozarei, ņemot vērā zinātniski pamatotas izglītojamā vecumposma īpatnības;
 6) mācību stundu (nodarbību) slodze - izglītības programmā ietvertais regulāri apmeklējamo mācību priekšmetu stundu skaits mācību nedēļā;
 7) pedagoģiskā korekcija - izglītības programma, kas metodiski un organizatoriski pielāgota personām obligātās izglītības vecumā, kurām nepieciešams papildināt zināšanas pamatizglītības programmas ietvaros;
 8) sociālā korekcija - izglītības programma, kas metodiski un organizatoriski pielāgota personām obligātās izglītības vecumā ar sociālās uzvedības novirzēm;
