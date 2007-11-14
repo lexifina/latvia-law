@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Komercdarbības atbalsta kontroles likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "175",
+  "official_journal_page": null,
+  "official_journal_date": "2007-10-31",
+  "entry_into_force": "2007-11-14",
+  "notification_date": "2007-11-08",
+  "commission_reference": "MNE(2007)57917",
+  "nim_celex": "72005L0081LVA_150442",
+  "nim_id": "150442",
+  "transposes_celex": [
+    "32005L0081"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bf3d48a2-194f-444a-8237-5f08d172aaf3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
