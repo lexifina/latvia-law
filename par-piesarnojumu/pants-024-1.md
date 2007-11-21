@@ -2,6 +2,7 @@
 (1) Siltumnīcefekta gāzu emisijas atļauja ir nepieciešama stacionārai tehnoloģiskajai iekārtai, kurā tiek veikta viena vai vairākas šā likuma 2.pielikumā minētās piesārņojošās darbības.
 (2) Šā likuma 2.pielikumā minētie rādītāji attiecas uz iekārtas ražošanas jaudu vai saražotās produkcijas apjomu. Operators, kurš veic vairākas šā likuma 2.pielikumā minētās piesārņojošās darbības, summē to jaudas, ja visas darbības attiecas uz vienu šā likuma 2.pielikumā minēto rūpnieciskās darbības jomu un tiek veiktas vienā vietā vai izmantojot vienu iekārtu.
 (3) Ministru kabineta noteiktajā kārtībā operators var iesniegt iesniegumu un saņemt siltumnīcefekta gāzu emisijas atļauju arī tām šā likuma 2.pielikumā minētajām piesārņojošām darbībām, kuru ražošanas jauda vai saražotais produkcijas apjoms nepārsniedz šā likuma 2.pielikumā minētos rādītājus.
+(3¹) Operatoram ir tiesības iesniegt attiecīgajai reģionālajai vides pārvaldei iesniegumu, kurā prasīts atcelt saskaņā ar šā panta trešo daļu izdoto siltumnīcefekta gāzu emisijas atļauju. Reģionālā vides pārvalde 15 dienu laikā izskata iesniegumu un atceļ atļauju ar nākamā kalendāra gada 1.janvāri.
 (4) Siltumnīcefekta gāzu emisijas atļauja nav nepieciešama iekārtām, kuras izmanto jaunu produktu vai ražošanas procesu pētīšanai, izstrādei vai pārbaudei.
 (5) Siltumnīcefekta gāzu emisijas atļaujas izsniedz uz šādiem periodiem:
 1) pirmais periods - no 2005.gada 1.janvāra līdz 2007.gada 31.decembrim;

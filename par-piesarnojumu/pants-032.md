@@ -1,5 +1,5 @@
 32.pants. A un B kategorijas atļauju pārskatīšana un atjaunošana
-(1) A un B kategorijas atļaujas izsniedz uz pieciem gadiem. Ja piesārņojošas darbības ietekme uz cilvēku veselību vai vidi nav pietiekami noskaidrota, atļauju izsniedz uz īsāku termiņu.
+(1) A un B kategorijas atļaujas izsniedz uz pieciem gadiem. Ja piesārņojošas darbības ietekme uz cilvēku veselību vai vidi nav pietiekami noskaidrota, atļauju izsniedz uz īsāku termiņu. Iekārtām, kuras atrodas vides pārvaldības un audita sistēmas (EMAS) reģistrētajās organizācijās, atļauju izsniedz uz astoņiem gadiem.
 (2) Reģionālā vides pārvalde Ministru kabineta noteiktajā kārtībā pārskata atļaujas nosacījumus un, ja nepieciešams, tos atjauno vai papildina.
 (3) Jautājumu par atļaujas izsniegšanu vai atļaujas nosacījumus pārskata šādos gadījumos:
 1) ir saņemta informācija par piesārņojuma negatīvo ietekmi uz cilvēku veselību vai vidi, ir pārsniegti vides kvalitātes normatīvu robežlielumi vai izdarīti grozījumi normatīvajos aktos, kas nosaka vides kvalitātes normatīvus;

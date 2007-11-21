@@ -7,4 +7,6 @@ Likumā iekļautas tiesību normas, kas izriet no:
 6) Eiropas Parlamenta un Padomes 2004.gada 27.oktobra direktīvas 2004/101/EK, ar ko groza direktīvu 2003/87/EK, ar kuru izveido siltumnīcefekta gāzu emisijas kvotu tirdzniecības sistēmu Kopienā, ņemot vērā Kioto protokola projekta mehānismus;
 7) Eiropas Parlamenta un Padomes 2004.gada 21.aprīļa direktīvas 2004/42/EK, ar ko ierobežo gaistošo organisko savienojumu emisijas, kuras rada organisko šķīdinātāju izmantošana noteiktās krāsās, lakās un transportlīdzekļu galīgās apdares materiālos, un ar ko groza direktīvu 1999/13/EK;
 8) Eiropas Parlamenta un Padomes 1999.gada 26.aprīļa direktīvas 1999/32/EK, ar ko paredz sēra satura samazināšanu konkrētiem šķidrā kurināmā veidiem un ar ko groza direktīvu 93/12/EEK;
-9) Eiropas Parlamenta un Padomes 2005.gada 6.jūlija direktīvas 2005/33/EK, ar ko groza direktīvu 1999/32/EK attiecībā uz sēra saturu flotes degvielā.
+9) Eiropas Parlamenta un Padomes 2005.gada 6.jūlija direktīvas 2005/33/EK, ar ko groza direktīvu 1999/32/EK attiecībā uz sēra saturu flotes degvielā;
+10) Eiropas Padomes 1996.gada 9.decembra direktīvas 96/82/EK par tādu smagu nelaimes gadījumu briesmu pārzināšanu, kuros iesaistītas bīstamas vielas;
+11) Eiropas Parlamenta un Padomes 2003.gada 16.decembra direktīvas 2003/105/EK, ar ko groza Padomes direktīvu 96/82/EK par tādu smagu nelaimes gadījumu briesmu pārzināšanu, kuros iesaistītas bīstamas vielas.

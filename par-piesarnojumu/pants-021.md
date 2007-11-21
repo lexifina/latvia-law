@@ -1,5 +1,5 @@
 21.pants. Labākie pieejamie tehniskie paņēmieni un to izvēle attiecībā uz A kategorijas darbībām
-(1) Tehniskie paņēmieni, kurus ir iespējams visefektīvāk un visrezultatīvāk lietot praksē, lai novērstu vai, ja tas nav iespējams, samazinātu emisiju līdz noteiktajai robežvērtībai un limitam, kā arī lai samazinātu tās ietekmi uz vidi kopumā, ir labākie pieejamie tehniskie paņēmieni.
+(1) Labākie tehniskie paņēmieni attiecināmi uz visefektīvāko un progresīvāko tehnoloģiju un ekspluatācijas metožu izstrādes posmu, kurā parādīta konkrēto metožu faktiskā piemērotība, lai novērstu un - gadījumos, kad novēršana ir neiespējama, - samazinātu emisiju un ietekmi uz vidi kopumā, un tie paredzēti, lai noteiktu pamatprincipus emisijas limitu aprēķināšanai.
 (2) Jēdziens "tehniskie paņēmieni" ietver lietojamo tehnoloģiju un veidu, kādā iekārta ir projektēta, uzbūvēta, uzturēta, darbināta vai demontēta.
 (3) Tehniskie paņēmieni ir pieejami, ja tie ir ekonomiski un tehnoloģiski pamatoti un neatkarīgi no tā, vai tie iepriekš lietoti Latvijā, tos ir iespējams ieviest noteiktā rūpniecības nozarē, ņemot vērā attiecīgās izmaksas.
 (4) Tehniskie paņēmieni ir labākie, ja tie ietver tādas tehnoloģijas un metodes, kuras izmantojot iespējams nodrošināt augstāko vides aizsardzības līmeni.

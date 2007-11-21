@@ -1,5 +1,5 @@
 10.pants. Emisijas robežvērtība un limits
 (1) Emisijas robežvērtība ir maksimālais emitētās vielas daudzums vai citi noteiktos parametros izteikti faktori (koncentrācija vai emisijas līmenis), kurus nedrīkst pārsniegt noteiktā laika periodā vai periodos vai kurus nedrīkst pārsniegt iekārtas normālas darbības apstākļos. Emisijas robežvērtību nosaka konkrētām vielām vai vielu grupām.
 (2) Emisijas robežvērtību parasti nosaka vietā, kur piesārņojums izplūst no iekārtas, turklāt koncentrācijas samazinājums robežvērtības noteikšanas brīdī netiek ņemts vērā.
-(3) Nosakot emisijas robežvērtību iekārtas radītā piesārņojuma izplūdei ūdenī, ņem vērā ūdens attīrīšanas iekārtu ietekmi, ja rezultātā nepaaugstinās vides piesārņojuma līmenis.
+(3) Nosakot iekārtas emisijas robežvērtības attiecībā uz netiešu piesārņojuma noplūdi ūdenī, var ņemt vērā notekūdeņu attīrīšanas iekārtu darbību, ja videi kopumā tiek nodrošināts līdzvērtīgs aizsardzības līmenis un vides piesārņojuma līmenis nepaaugstinās.
 (4) Emisijas limits ir atļaujā noteiktais emitētās vielas daudzums vai citi noteiktos parametros izteikti faktori (koncentrācija vai emisijas līmenis), ko nedrīkst pārsniegt noteiktā laika periodā vai periodos, vai emitētās vielas daudzums vai koncentrācija, kuru nedrīkst pārsniegt iekārtas normālas darbības apstākļos un kura nepārsniedz attiecīgo emisijas robežvērtību.
