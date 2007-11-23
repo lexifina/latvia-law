@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par atzītajām aizsardzības organizācijām kuģošanas un ostu darbības jomā",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "188",
+  "official_journal_page": null,
+  "official_journal_date": "2007-11-22",
+  "entry_into_force": "2007-11-23",
+  "notification_date": "2007-12-05",
+  "commission_reference": "MNE(2007)58587",
+  "nim_celex": "72005L0065LVA_151376",
+  "nim_id": "151376",
+  "transposes_celex": [
+    "32005L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fc95c13f-0e94-4d22-b718-1d2b27510a8a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
