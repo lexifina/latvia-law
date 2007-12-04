@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ķīmisko vielu un ķīmisko produktu likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "186",
+  "official_journal_page": null,
+  "official_journal_date": "2007-11-20",
+  "entry_into_force": "2007-12-04",
+  "notification_date": "2007-11-27",
+  "commission_reference": "MNE(2007)58377",
+  "nim_celex": "72006L0121LVA_151101",
+  "nim_id": "151101",
+  "transposes_celex": [
+    "32006L0121"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/28ad5765-a6dd-4d4c-94ce-77b6ba1d2525",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
