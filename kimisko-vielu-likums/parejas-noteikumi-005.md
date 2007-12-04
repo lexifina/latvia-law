@@ -1,0 +1,1 @@
+5. Līdz 2009.gada 1.jūnijam piemērojami Ministru kabineta 2000.gada 25.aprīļa noteikumi Nr.158 "Noteikumi par bīstamo ķīmisko vielu un bīstamo ķīmisko produktu lietošanas un tirdzniecības ierobežojumiem un aizliegumiem", ciktāl tie nav pretrunā ar šo likumu.

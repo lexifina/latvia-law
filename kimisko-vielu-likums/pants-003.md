@@ -1,5 +1,6 @@
 3.pants. Likuma darbība
 (1) Šis likums reglamentē darbības ar ķīmiskajām vielām un ķīmiskajiem produktiem, kā arī biocīdiem.
+(1¹) Šis likums nosaka kompetento iestādi un palīdzības dienesta izveidošanu Eiropas Parlamenta un Padomes 2006.gada 18.decembra regulas Nr. 1907/2006, kas attiecas uz ķimikāliju reģistrēšanu, vērtēšanu, licencēšanu un ierobežošanu (REACH) un ar kuru izveido Eiropas Ķimikāliju aģentūru, groza direktīvu 1999/45/EK un atceļ Padomes regulu (EEK) Nr. 793/93 un Komisijas regulu (EK) Nr. 1488/94, kā arī Padomes direktīvu 76/769/EEK un Komisijas direktīvu 91/155/EEK, direktīvu 93/67/EEK, direktīvu 93/105/EK un direktīvu 2000/21/EK (turpmāk - regula 1907/2006), izpratnē.
 (2) Papildus šim likumam darbības ar ķīmiskajām vielām un ķīmiskajiem produktiem regulē:
 1) attiecībā uz ķīmiskajām vielām vai ķīmiskajiem produktiem, kas ir atkritumu sastāvā, - normatīvie akti, kuri reglamentē atkritumu apsaimniekošanu;
 2) attiecībā uz ķīmisko produktu pārvadājumiem (arī tranzītpārvadājumiem) pa ceļiem, dzelzceļu, gaisu, jūru, pastu vai pārvietošanu pa cauruļvadiem, ja netiek veikta jebkāda šo vielu vai produktu apstrāde vai pārstrāde, - normatīvie akti, kas reglamentē bīstamo kravu pārvadāšanas kārtību;

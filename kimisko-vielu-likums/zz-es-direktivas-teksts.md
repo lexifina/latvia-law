@@ -1,6 +1,7 @@
 Likumā iekļautas tiesību normas, kas izriet no:
-1) Eiropas Komisijas 1991.gada 5.marta direktīvas 91/155/EEK, ar ko nosaka un izklāsta sīki izstrādātu kārtību, kādā izveidojama īpašas informācijas sistēma attiecībā uz bīstamiem preparātiem, īstenojot direktīvas 88/379/EEK 10.pantu;
+1) (izslēgts ar 01.11.2007. likumu);
 2) Eiropas Parlamenta un Padomes 1992.gada 30.aprīļa direktīvas 92/32/EEK, ar ko septīto reizi groza direktīvu 67/548/EEK par normatīvo un administratīvo aktu tuvināšanu attiecībā uz bīstamu vielu klasifikāciju, iepakošanu un marķēšanu;
 3) Eiropas Parlamenta un Padomes 1967.gada 27.jūnija direktīvas 67/548/EEK par normatīvo un administratīvo aktu tuvināšanu attiecībā uz bīstamu vielu klasifikāciju, iepakošanu un marķēšanu;
 4) Eiropas Parlamenta un Padomes 1999.gada 31.maija direktīvas 1999/45/EK par dalībvalstu normatīvo un administratīvo aktu tuvināšanu jautājumos, kas attiecas uz bīstamu preparātu klasifikāciju, iepakošanu un marķēšanu;
-5) Eiropas Komisijas 2001.gada 27.jūlija direktīvas 2001/58/EK, ar kuru otro reizi groza direktīvu 91/155/EEK, ar ko nosaka un izklāsta sīki izstrādātu kārtību, kādā izveidojama īpašas informācijas sistēma attiecībā uz bīstamiem preparātiem, īstenojot Eiropas Parlamenta un Padomes direktīvas 1999/45/EK 14.pantu, un attiecībā uz bīstamām vielām, īstenojot Padomes direktīvas 67/548/EEK 27.pantu (drošības datu lapas).
+5) (izslēgts ar 01.11.2007. likumu);
+6) Eiropas Parlamenta un Padomes 2006.gada 18.decembra direktīvas 2006/121/EK, ar ko groza Padomes direktīvu 67/548/EEK par normatīvo un administratīvo aktu tuvināšanu attiecībā uz bīstamu vielu klasifikāciju, iepakošanu un marķēšanu, lai to pielāgotu regulai (EK) Nr. 1907/2006, kas attiecas uz ķimikāliju reģistrēšanu, vērtēšanu, licencēšanu un ierobežošanu (REACH) un ar kuru izveido Eiropas Ķimikāliju aģentūru.
