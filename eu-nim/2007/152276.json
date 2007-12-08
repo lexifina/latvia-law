@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Kārtība, kādā pirmstiesas izmeklēšanas iestādes, operatīvās darbības subjekti, valsts drošības iestādes, prokuratūra un tiesa pieprasa un elektronisko sakaru komersants nodod saglabājamos datus, kā arī kārtība, kādā apkopo statistisko informāciju par saglabājamo datu pieprasījumiem un to izsniegšanu",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "197",
+  "official_journal_page": null,
+  "official_journal_date": "2007-12-07",
+  "entry_into_force": "2007-12-08",
+  "notification_date": "2008-01-02",
+  "commission_reference": "MNE(2008)50003",
+  "nim_celex": "72006L0024LVA_152276",
+  "nim_id": "152276",
+  "transposes_celex": [
+    "32006L0024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/aefc6ac7-b60d-4565-b5fe-eaa92aeca895",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
