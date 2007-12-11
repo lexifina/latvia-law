@@ -4,3 +4,4 @@
 2.¹ Nodokļa likme, ko maksā no saimnieciskās darbības ienākuma, ir 15 procenti.
 3. (Izslēgta ar 19.12.1996. likumu.)
 4. Šā likuma 3.panta trešās daļas 7.¹ punktā minētajam ienākumam, ja šī ienākuma izmaksātājs atbilstoši šā likuma 17.panta 12. un 12.² daļai ietur nodokli ienākuma izmaksas vietā, tiek piemērota 2 procentu likme no izmaksātās atlīdzības apmēra.
+5. Fiksētā ienākuma nodokļa apmēru nosaka saskaņā ar šā likuma pielikumu.

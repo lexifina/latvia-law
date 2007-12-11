@@ -8,3 +8,4 @@ Maksātāja pienākums ir:
 6) uzsākot saimniecisko darbību, mēneša laikā reģistrēties Valsts ieņēmumu dienesta teritoriālajā iestādē pēc savas dzīvesvietas kā saimnieciskās darbības veicējam;
 7) ziņot Valsts ieņēmumu dienesta teritoriālajai iestādei par saimnieciskās darbības pārtraukšanu, mēneša laikā iesniedzot paziņojumu par ienākumiem, kas šajā periodā gūti no saimnieciskās darbības, un ar to gūšanu saistītajiem izdevumiem;
 8) piecu darbdienu laikā no līguma noslēgšanas dienas, kā arī no līguma darbības izbeigšanās dienas informēt par to Valsts ieņēmumu dienesta teritoriālo iestādi, ja viņš saimnieciskās darbības ienākumu nosaka atbilstoši šā likuma 11.panta divpadsmitajai daļai.
+9) līdz taksācijas gada 1.februārim informēt Valsts ieņēmumu dienesta teritoriālo iestādi par to, ka maksātājs ir izvēlējies maksāt fiksēto ienākuma nodokli.

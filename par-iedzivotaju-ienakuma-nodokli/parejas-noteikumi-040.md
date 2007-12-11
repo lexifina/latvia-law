@@ -1,0 +1,1 @@
+40. Piemērojot šā likuma 19.panta desmito un vienpadsmito daļu, apdrošināšanas sabiedrība un privātais pensiju fonds informāciju par 2007.taksācijas gadu Valsts ieņēmumu dienestam iesniedz līdz 2008.gada 1.martam.

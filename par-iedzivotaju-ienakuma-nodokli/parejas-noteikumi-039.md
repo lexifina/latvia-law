@@ -1,0 +1,1 @@
+39. Patenta darbības laikā maksātājs piemēro šā likuma normas, kas bija spēkā līdz 2008.gada 1.janvārim. Ja maksātājam uz 2008.taksācijas gadu ir izsniegts patents un 2008.taksācijas gadā viņa saimnieciskās darbības ieņēmumi nepārsniedz 10 000 latu, šis maksātājs ir tiesīgs izvēlēties maksāt fiksēto ienākuma nodokli ar 2009.taksācijas gadu.
