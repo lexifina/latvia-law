@@ -4,5 +4,5 @@
 2) valsts nodevas, kuras tiek uzliktas saskaņā ar šo likumu, citiem likumiem un Ministru kabineta noteikumiem;
 3) pašvaldību nodevas, kuras tiek uzliktas saskaņā ar šo likumu un pašvaldības domes (padomes) izdotiem saistošiem noteikumiem;
 4) tieši piemērojamos Eiropas Savienības normatīvajos aktos noteiktie nodokļi.
-(2) Konkrētā nodokļa likumā pašvaldībām var dot tiesības piemērot atvieglojumus tiem maksājumiem, kuri ieskaitāmi pašvaldību budžetos.
+(2) Konkrētā nodokļa likumā pašvaldībām var dot tiesības piemērot atvieglojumus tiem maksājumiem, kuri ieskaitāmi pašvaldību budžetos, kā arī noteikt nekustamā īpašuma nodokļa papildlikmi.
 (3) Konkrētās valsts nodevas likumā vai Ministru kabineta noteikumos pašvaldībām var dot tiesības piemērot atvieglojumus tām valsts nodevām, kuras ieskaitāmas pašvaldību budžetos.

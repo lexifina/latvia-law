@@ -6,7 +6,7 @@
 4) nodevas par darbību veikšanu tiesu iestādēs - Civilprocesa likums un Administratīvā procesa likums;
 5) nodeva par uzvārda, vārda un tautības ieraksta maiņu personu apliecinošos dokumentos - likums "Par vārda, uzvārda un tautības ieraksta maiņu";
 6) nodeva par zemes rezervēšanu lauku apvidos - likums "Par zemes reformu Latvijas Republikas lauku apvidos";
-7) nodevas par apliecinājumiem un citu funkciju pildīšanu bāriņtiesās un pagasttiesās - likums "Par bāriņtiesām un pagasttiesām";
+7) nodevas par apliecinājumiem un citu funkciju pildīšanu bāriņtiesās - Bāriņtiesu likums;
 8) (izslēgts ar 25.11.1999. likumu);
 9) (izslēgts ar 13.04.2000. likumu);
 10) preču vai pakalpojumu loterijas organizēšanas valsts nodeva - Preču un pakalpojumu loteriju likums.
