@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Cūku vezikulārās eksantēmas uzliesmojuma likvidēšanas un draudu novēršanas kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "201",
+  "official_journal_page": null,
+  "official_journal_date": "2007-12-14",
+  "entry_into_force": null,
+  "notification_date": "2008-01-09",
+  "commission_reference": "MNE(2008)50217",
+  "nim_celex": "72007L0010LVA_152546",
+  "nim_id": "152546",
+  "transposes_celex": [
+    "32007L0010"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/eca8921f-e96d-488b-914f-4ce49e03af0f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
