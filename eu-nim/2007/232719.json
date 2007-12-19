@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ģenētiski modificēto organismu aprites likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "195 (3771)",
+  "official_journal_page": null,
+  "official_journal_date": "2007-12-05",
+  "entry_into_force": "2007-12-19",
+  "notification_date": "2015-12-14",
+  "commission_reference": "MNE(2015)59264",
+  "nim_celex": "72015L0412LVA_232719",
+  "nim_id": "232719",
+  "transposes_celex": [
+    "32015L0412"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/933b9d87-5de8-4249-8e37-57abd8fa397b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
