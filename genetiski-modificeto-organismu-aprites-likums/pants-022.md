@@ -1,0 +1,2 @@
+22.pants. Ģenētiski modificēto kultūraugu audzēšanas ierobežojumi
+Ģenētiski modificēto kultūraugu audzēšanu var aizliegt noteiktās teritorijās, kurās saskaņā ar zinātnisko pamatojumu ģenētiski modificēto kultūraugu audzēšana var nodarīt būtiskus zaudējumus ekonomikai un kavēt tās attīstību, nodarīt kaitējumu cilvēku un dzīvnieku veselībai vai videi. Par minēto aizliegumu tiek informēta Eiropas Komisija.

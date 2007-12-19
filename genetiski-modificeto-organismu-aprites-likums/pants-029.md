@@ -1,0 +1,2 @@
+29.pants. Pašvaldību, biedrību un nodibinājumu funkcijas
+Pašvaldības, biedrības un nodibinājumi var iesniegt priekšlikumus Zemkopības ministrijai, lai konkrēta teritorija tiktu pasludināta par brīvu no ģenētiski modificēto kultūraugu audzēšanas, ja saskaņā ar zinātnisko pamatojumu ģenētiski modificēto kultūraugu audzēšana var nodarīt būtiskus zaudējumus teritorijas ekonomikai vai kavēt tās attīstību, nodarīt kaitējumu cilvēku un dzīvnieku veselībai vai videi.

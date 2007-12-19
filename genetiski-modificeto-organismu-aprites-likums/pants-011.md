@@ -1,0 +1,2 @@
+11.pants. Latvijas Vides, ģeoloģijas un meteoroloģijas aģentūras kompetence
+Latvijas Vides, ģeoloģijas un meteoroloģijas aģentūra pēc iesnieguma saņemšanas no personas, kas izplata vidē vai tirgū ģenētiski modificētos organismus, sagatavo monitoringa programmu. Pamatojoties uz veiktā monitoringa rezultātiem, personas, kas izplata vidē vai tirgū ģenētiski modificētos organismus, informē Zemkopības ministriju par riska novērtēšanas un vides aizsardzības pasākumiem, kas īstenojami, veicot darbības ar ģenētiski modificētajiem organismiem un izplatot tos vidē.

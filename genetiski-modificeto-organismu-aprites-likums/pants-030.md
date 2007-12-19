@@ -1,0 +1,3 @@
+30.pants. Pienākums sniegt informāciju
+(1) Persona, kura veic darbības ar ģenētiski modificētajiem organismiem, sistematizē un uzglabā informāciju, kas saistīta ar ģenētiski modificēto organismu apriti, un uzrāda to pēc kompetento institūciju pieprasījuma.
+(2) Persona, kura veic darbības ar ģenētiski modificētajiem organismiem, nekavējoties atbilstoši normatīvajiem aktiem par ģenētiski modificēto organismu apriti informē attiecīgās kompetentās institūcijas un sabiedrību par gadījumiem, kad saņemti zinātniski pamatoti atzinumi par ģenētiski modificēto organismu iespējamo negatīvo ietekmi uz cilvēku un dzīvnieku veselību vai vidi.
