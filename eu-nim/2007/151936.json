@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi \"Kapitāla pietiekamības aprēķināšanas noteikumos\"",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "203",
+  "official_journal_page": null,
+  "official_journal_date": "2007-12-19",
+  "entry_into_force": "2007-12-20",
+  "notification_date": "2007-12-20",
+  "commission_reference": "MNE(2007)59049",
+  "nim_celex": "71985L0611LVA_151936",
+  "nim_id": "151936",
+  "transposes_celex": [
+    "31985L0611",
+    "32000L0012"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9b8493d4-fc99-44e4-bee9-d9cc0787585a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
