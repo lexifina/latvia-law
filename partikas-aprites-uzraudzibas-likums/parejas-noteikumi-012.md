@@ -1,0 +1,1 @@
+12. Pārtikas un veterinārā dienesta amatpersonu izdotie brīdinājumi un pieņemtie lēmumi par pārtikas uzņēmumu darbības apturēšanu vai ierobežošanu, kas izdoti vai pieņemti, pamatojoties uz likumu "Par uzņēmumu, iestāžu un organizāciju darbības apturēšanas kārtību", ir spēkā arī pēc 2008.gada 1.janvāra.

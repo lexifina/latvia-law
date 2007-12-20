@@ -1,2 +1,2 @@
 VI nodaļa
-Nobeiguma noteikumi
+Pārtikas uzņēmumu darbības apturēšana un atjaunošana
