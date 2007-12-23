@@ -1,2 +1,0 @@
-Saeimas kārtības ruļļa
-pielikums
