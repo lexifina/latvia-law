@@ -1,0 +1,1 @@
+No 2008.gada 1.janvāra līdz 2008.gada 31.decembrim, piemērojot 12.panta pirmās daļas otro teikumu, otro, trešo un ceturto daļu, kā arī 14.panta otro daļu, izmantojams Centrālās statistikas pārvaldes oficiālajā statistikas paziņojumā publicētais sabiedriskajā sektorā strādājošo vidējās darba samaksas apmērs 2006.gadā, šim darba samaksas apmēram piemērojot koeficentu 1,1.
