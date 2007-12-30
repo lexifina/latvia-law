@@ -1,0 +1,1 @@
+1.pants. 1992.gada 17.marta Konvencijas par robežšķērsojošo ūdensteču un starptautisko ezeru aizsardzību un izmantošanu (turpmāk - Konvencija) 2003.gada 28.novembra grozījumi (turpmāk - Grozījumi) ar šo likumu tiek pieņemti un apstiprināti.
