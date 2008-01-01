@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2006.gada 5.septembra noteikumi \"Darba aizsardzības prasības nodarbināto aizsardzībai pret elektromagnētiskā lauka radīto risku darba vidē\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "145",
+  "official_journal_page": null,
+  "official_journal_date": "2006-09-12",
+  "entry_into_force": "2008-01-01",
+  "notification_date": "2006-09-19",
+  "commission_reference": "MNE(2006)56060",
+  "nim_celex": "72004L0040LVA_135426",
+  "nim_id": "135426",
+  "transposes_celex": [
+    "32004L0040"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6be82720-13f5-4aef-933a-888e3d31b5a5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
