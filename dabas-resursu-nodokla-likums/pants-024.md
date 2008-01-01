@@ -10,3 +10,6 @@
 6) kārtību, kādā nosaka personu, kura drīkst veikt izlietotā iepakojuma apsaimniekošanas sistēmu un vienreiz lietojamo galda trauku un piederumu apsaimniekošanas sistēmu auditu;
 7) izlietotā iepakojuma apsaimniekošanas sistēmu un vienreiz lietojamo galda trauku un piederumu apsaimniekošanas sistēmu auditēšanas kārtību.
 (4) Nodokļa maksātājs, kurš maksā nodokli par iepakojumu un kuram atbilstoši vides aizsardzības normatīvajiem aktiem nav jāveic izlietotā iepakojuma pārstrāde un reģenerācija, nodokli aprēķina atbilstoši šā likuma 7.pielikumā noteiktajām nodokļa likmēm par katru iepakojuma materiāla veida svara vienību vai, ja nevar nodrošināt iepakojuma materiāla veida un svara pamatošanu ar uzskaites dokumentiem, 15 latus gadā.
+(5) Plastmasas maisiņiem šā likuma 4.panta piektajā daļā minētajā gadījumā piemēro nodokļa likmi:
+1) maisiņiem, kuru viena maisiņa svars nepārsniedz 0,003 kilogramus (1000 maisiņu svars nepārsniedz 3 kilogramus), - 2,60 latu par vienu kilogramu;
+2) maisiņiem, kuru viena maisiņa svars ir lielāks par 0,003 kilogramiem (1000 maisiņu svars pārsniedz 3 kilogramus), - 0,80 latu par vienu kilogramu.
