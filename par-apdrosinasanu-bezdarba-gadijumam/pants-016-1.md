@@ -1,0 +1,2 @@
+16.¹ pants. Izmaksātā bezdarbnieka pabalsta atmaksāšana
+Ja, izpildot attiecīgo tiesas spriedumu, no darba devēja par labu personai tiek piedzīta un izmaksāta atlīdzība par darba piespiedu kavējumu attiecīgajā bezdarbnieka pabalsta saņemšanas periodā, personai ir pienākums Ministru kabineta noteiktajā kārtībā atmaksāt valsts sociālās apdrošināšanas nodarbinātības speciālajā budžetā saņemtā bezdarbnieka pabalsta summu.

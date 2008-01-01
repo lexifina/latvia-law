@@ -7,4 +7,4 @@
 (2) Apdrošināšanas stāžu nosaka:
 1) šā likuma 5.panta pirmajā daļā noteiktajai personai - līdz bezdarbnieka statusa iegūšanas dienai;
 2) šā likuma 5.panta otrajā daļā noteiktajai personai - līdz pabalsta pieprasīšanas dienai;
-3) šā likuma 5.panta piektajā daļā noteiktajai personai - līdz pabalsta pieprasīšanas dienai.
+3) (izslēgts ar 08.11.2007. likumu).
