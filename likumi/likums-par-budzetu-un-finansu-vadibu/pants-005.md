@@ -8,6 +8,6 @@
 (7) Valsts budžeta aizdevumu atmaksas veido visi atmaksātie aizdevumi.
 (8) (Izslēgta ar 19.12.2006. likumu)
 (9) Ministru kabinets izdod noteikumus par valsts tiešās pārvaldes iestāžu sniegto maksas pakalpojumu cenrāžu apstiprināšanu.
-(10) Ministru kabinets divus mēnešus pēc gadskārtējā valsts budžeta likuma pieņemšanas izdod noteikumus par ministriju un citu centrālo valsts iestāžu programmu un apakšprogrammu rezultatīvajiem rādītājiem un kārtību, kādā nosaka rezultatīvos rādītājus un sniedz pārskatus par to izpildi.
+(10) Ministru kabinets nosaka kārtību, kādā ministrijas un citas centrālās valsts iestādes plāno, īsteno, uzrauga un uzskaita valsts budžeta programmu (apakšprogrammu) rezultātus un to rādītājus, kā arī sniedz pārskatus par tiem.
 (11) Ministru kabinets nosaka tiesu sniegto maksas pakalpojumu veidus, samaksas apmēru un kārtību.
-(12) Ministru kabinets nosaka kārtību, kādā plānojami un uzskaitāmi valsts budžeta iestāžu sniegtie maksas pakalpojumi.
+(12) Ministru kabinets nosaka kārtību, kādā plānojami un uzskaitāmi ieņēmumi no valsts budžeta iestāžu sniegtajiem maksas pakalpojumiem un ar šo pakalpojumu sniegšanu saistītie izdevumi.

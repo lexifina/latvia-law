@@ -1,0 +1,1 @@
+32. Līdz šā likuma 17.panta pirmajā daļā paredzēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2008.gada 30.aprīlim piemēro Ministru kabineta 2007.gada 8.maija instrukciju Nr.9 "Instrukcija par budžeta pieprasījumu izstrādāšanas pamatprincipiem", ciktāl tā nav pretrunā ar šo likumu.

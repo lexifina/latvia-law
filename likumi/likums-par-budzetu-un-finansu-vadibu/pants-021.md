@@ -1,5 +1,5 @@
 21. pants. Gadskārtējā valsts budžeta likuma projekta (budžeta likumprojektu paketes) un grozījumu gadskārtējā valsts budžeta likumā iesniegšana
-(1) Ministru kabinets līdz attiecīgā gada 1.oktobrim iesniedz Saeimai pieņemšanai gadskārtējo valsts budžeta likuma projektu (budžeta likumu projektu paketi) nākamajam saimnieciskajam gadam, priekšlikumus par grozījumiem likumos, lai tie atbilstu budžeta pieprasījumiem, un valsts budžeta likuma projekta (budžeta likumu projektu paketes) paskaidrojumus, kā arī vidējā termiņa makroekonomiskās attīstības un fiskālās politikas ietvaru.
+(1) Ministru kabinets līdz attiecīgā gada 1.oktobrim iesniedz Saeimai gadskārtējo valsts budžeta likuma projektu (budžeta likumu projektu paketi) nākamajam saimnieciskajam gadam, priekšlikumus par grozījumiem likumos, lai tie atbilstu budžeta pieprasījumiem, un valsts budžeta likuma projekta (budžeta likumu projektu paketes) paskaidrojumus, kā arī vidējā termiņa makroekonomiskās attīstības un fiskālās politikas ietvaru.
 (2) Valsts budžeta likuma projekta (budžeta likumu projektu paketes) paskaidrojumi ietver:
 1) Ministru prezidenta ievadziņojumu;
 2) finanšu ministra ziņojumu, kurā sniegti galvenie valsts budžeta likuma projekta (budžeta likumu projektu paketes) paskaidrojumi;

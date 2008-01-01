@@ -6,14 +6,14 @@ Apropriācijas rezerve - gadskārtējā valsts budžeta likumā noteikta apropri
 Asignējums - pilnvara uzņemties īstermiņa saistības vai veikt no valsts budžeta līdzekļiem maksājumus noteiktam mērķim, pamatojoties uz apropriāciju.
 Asignējumu aizkavēšana - valsts budžeta līdzekļu asignējumu piešķiršana nākamajam mēnesim nepilnā apjomā, nemainot kopējo asignējumu apjomu.
 Asignējumu samazināšana - valsts budžeta līdzekļu asignējumu samazināšana līdz saimnieciskā gada beigām, mainot attiecīgo mēnešu finansēšanas plānus.
-Budžeta finansētas institūcijas - budžeta iestādes, visi pilnīgi vai daļēji tieši no budžeta finansētie komersanti un organizācijas.
-Budžeta iestāde - valsts vai pašvaldības iestāde, kurai ar normatīvu aktu piešķirtas noteiktas publiskas varas pilnvaras valsts vai pašvaldības funkciju veikšanai un kuru pilnīgi finansē no valsts vai pašvaldības budžeta, kā arī valsts un pašvaldību aģentūras.
+Budžeta finansētas institūcijas - budžeta iestādes, atvasinātas publiskas personas, kuras daļēji finansē no valsts vai pašvaldības budžeta, visi pilnīgi vai daļēji tieši no budžeta finansēti komersanti, biedrības vai nodibinājumi.
+Budžeta iestāde - valsts vai pašvaldības iestāde, atvasināta publiska persona, kuru pilnīgi finansē no valsts vai pašvaldības budžeta, kā arī valsts vai pašvaldības aģentūra.
 Budžeta izpildītāji - no budžeta finansētu institūciju vadītāji, kuri ar asignējumu pilnvaroti izdarīt budžeta izdevumus vai uzņemties īstermiņa saistības, vai arī tiesīgi uzņemties ilgtermiņa saistības attiecībā uz budžetu.
 Budžeta likumprojektu pakete - likumprojektu pakete, kas sastāv no gadskārtējā valsts budžeta likuma projekta vai gadskārtējā valsts budžeta likuma grozījumu projekta un likumprojektiem, kuri nosaka vai groza valsts budžetu.
 Budžeta programma - savstarpēji saistītu, uz kopēju mērķi orientētu pasākumu vai pakalpojumu kopums, kurš tiek plānots, izpildīts, uzskaitīts un kontrolēts no budžeta finansētās institūcijās saskaņā ar šo likumu un par kura izpildi atbild budžeta izpildītāji. Budžeta programma var būt sadalīta apakšprogrammās.
 Centrālā valsts iestāde - valsts budžeta iestāde, kurai gadskārtējā valsts budžeta likumā budžeta līdzekļus paredz tieši apropriācijas kārtībā.
 Dividendes - ieņēmumi no valsts kapitāla izmantošanas, neskaitot procentu maksājumus.
-Dotācijas - budžeta līdzekļi, kurus piešķir citiem budžetiem, komersantiem, organizācijām, lai nodrošinātu valsts vai pašvaldību funkciju izpildi.
+Dotācijas - budžeta līdzekļi, kurus piešķir citiem budžetiem, komersantiem, biedrībām un nodibinājumiem un citām institūcijām normatīvajos aktos noteiktajā kārtībā, lai nodrošinātu valsts vai pašvaldību funkciju izpildi.
 Dotācijas no vispārējiem ieņēmumiem - līdzekļi, kurus valsts budžeta institūcijas vai pašvaldības saņem no centralizētā kārtībā valsts budžeta ieņēmumos iemaksātiem nodokļiem, nodevām un citiem maksājumiem ar norādītu (iezīmētu) mērķi vai bez tā.
 Eiropas Kopienas pašu resursi - Eiropas Kopienas tiesību aktos noteiktie resursi, kas paredzēti Eiropas Kopienas budžeta finansējuma nodrošināšanai.
 Eiropas Savienības politiku instrumenti - Eiropas Savienības struktūrfondi, Kohēzijas fonds, kopējās lauksaimniecības politikas un citi Eiropas Savienības finanšu līdzekļi, ko Eiropas Komisija novirza savu politiku īstenošanai dalībvalstī Līgumā par Eiropas Savienību noteikto mērķu sasniegšanai.

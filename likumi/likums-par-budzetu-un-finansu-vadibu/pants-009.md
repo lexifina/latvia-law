@@ -7,7 +7,7 @@
 1) valsts budžeta iestāžu ieņēmumu no maksas pakalpojumiem un citu pašu ieņēmumu, ārvalstu finanšu palīdzības līdzekļu, gadskārtējā valsts budžeta izpildes procesā veikto transfertu, kā arī šā likuma 27.pantā noteiktajā kārtībā aprēķināto ieņēmumu atlikumu saimnieciskā gada sākumā izmantošanai;
 2) Eiropas Kopienas pašu resursu palielināšanai;
 3) norēķiniem ar Eiropas Savienību;
-4) starptautisko tiesu spriedumu izpildei;
+4) starptautisko tiesu un Satversmes tiesas spriedumu izpildei;
 5) valsts parāda saistību dzēšanai;
 6) Eiropas Savienības politiku instrumentu līdzfinansēto projektu īstenošanai;
 7) Eiropas Savienības politiku instrumentiem, lai īstenotu tādus Eiropas lauksaimniecības garantiju fonda pasākumus, kuri izriet no Eiropas Savienības tieši piemērojamiem tiesību aktiem.
@@ -15,3 +15,4 @@
 (7) Ministru kabinetam ir tiesības ministrijai vai citai centrālajai valsts iestādei gadskārtējā valsts budžeta likumā noteiktās apropriācijas ietvaros pārdalīt apropriāciju starp programmām, apakšprogrammām un izdevumu ekonomiskās klasifikācijas kodiem.
 (8) Gadskārtējais valsts budžeta likums ietver nosacījumus, ko Ministru kabinets ievēro, lemjot par šā panta septītajā daļā paredzēto apropriācijas pārdali, kā arī apropriācijas pārdales apjomu.
 (9) Ministrijas un citas centrālās valsts iestādes izstrādā un Finanšu ministrija izvērtē pieprasījumus par apropriācijas pārdali starp programmām, apakšprogrammām un izdevumu ekonomiskās klasifikācijas kodiem atbilstoši Ministru kabineta noteiktajai kārtībai.
+(10) Finanšu ministrijas budžetā atsevišķā programmā plānoto apropriāciju Eiropas Savienības politiku instrumentiem un citu ārvalstu finanšu palīdzības projektu un pasākumu īstenošanai sadala Ministru kabineta noteiktajā kārtībā.

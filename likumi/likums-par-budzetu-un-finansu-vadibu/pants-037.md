@@ -6,7 +6,7 @@
 (3) Finanšu ministrs nesniedz galvojumu, ja:
 1) nav iesniegts galvojuma sniegšanai nepieciešamais pamatojums;
 2) ir paaugstināts aizdevuma atmaksas risks;
-3) valsts galvojuma saņēmējs neievēro noteikto galvojumu sniegšanas un apkalpošanas kārtību;
-4) komersantiem nav galvojuma nodrošinājuma.
+3) kredīta ņēmējs, par kura saistībām jau iepriekš bija izsniegts galvojums valsts vārdā, ir pārkāpis noteikto galvojumu sniegšanas un uzraudzības kārtību;
+4) nav galvojuma nodrošinājuma.
 (4) Atsakot galvojuma sniegšanu, finanšu ministrs galvojuma pieprasītājam sniedz atteikuma motivāciju.
 (5) Galvojumus valsts vārdā sniedz tikai studiju un studējošo kreditēšanas, Valsts investīciju programmas projektu un komercdarbības atbalsta programmu īstenošanai.
