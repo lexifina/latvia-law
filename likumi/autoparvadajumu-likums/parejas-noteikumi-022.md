@@ -1,0 +1,1 @@
+22. Grozījums šā likuma 5.¹ panta pirmajā daļā par tās papildināšanu ar 8.punktu stājas spēkā 2008.gada 1.martā. Līdz attiecīgās normas spēkā stāšanās dienai Ministru kabinets izdod tai atbilstošus Ministru kabineta noteikumus.

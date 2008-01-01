@@ -1,3 +1,4 @@
-38.¹ pants. Biļešu un citu braukšanas dokumentu paraugi un obligātie rekvizīti starptautiskajos pasažieru pārvadājumos
-(1) Biļešu un citu braukšanas dokumentu obligātos rekvizītus starptautiskajos pasažieru pārvadājumos nosaka Ministru kabinets.
-(2) Starptautiskajos maršrutos kursējošu autotransporta līdzekļu biļešu un citu braukšanas dokumentu paraugus pārvadātājs iesniedz Satiksmes ministrijā saskaņošanai.
+38.¹ pants. Biļešu paraugi un obligātie rekvizīti regulārajos starptautiskajos pasažieru pārvadājumos
+(1) Biļešu obligātos rekvizītus regulārajos starptautiskajos pasažieru pārvadājumos starp Latviju un valstīm, kas nav Eiropas Savienības dalībvalstis, nosaka Ministru kabinets.
+(2) Pārvadātājs, kas veic regulāros starptautiskos pasažieru pārvadājumus starp Latviju un valstīm, kas nav Eiropas Savienības dalībvalstis, attiecīgo biļešu paraugus iesniedz saskaņošanai Satiksmes ministrijā.
+(3) Biļešu obligātos rekvizītus regulārajos starptautiskajos pasažieru pārvadājumos starp Eiropas Savienības dalībvalstīm nosaka Padomes 1992.gada 16.marta regula (EEK) Nr. 684/92 par kopējiem noteikumiem attiecībā uz starptautiskiem pasažieru pārvadājumiem ar autobusiem.

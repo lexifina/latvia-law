@@ -1,0 +1,1 @@
+24. Ministru kabinets līdz 2008.gada 1.aprīlim izdod šā likuma 38.¹ pantā minētos noteikumus par biļešu obligātajiem rekvizītiem regulārajos starptautiskajos pasažieru pārvadājumos starp Latviju un valstīm, kas nav Eiropas Savienības dalībvalstis. Līdz šo noteikumu spēkā stāšanās dienai attiecīgo biļešu rekvizītus nosaka pārvadātājs.
