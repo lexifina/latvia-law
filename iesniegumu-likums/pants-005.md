@@ -1,0 +1,8 @@
+5.pants. Iesnieguma izskatīšana un atbildēšana uz to
+(1) Izskatot iesniegumu un lemjot par pasākumiem, kas veicami saistībā ar to, iestādes sadarbojas. Iestāde iesniegumu izskata, vadoties pēc tā satura.
+(2) Amatpersona vai cits iestādes darbinieks, par kura objektivitāti var rasties pamatotas šaubas, nepiedalās iesnieguma izskatīšanā un atbildes sagatavošanā.
+(3) Iestāde atbildi pēc būtības sniedz saprātīgā termiņā, ņemot vērā iesniegumā minētā jautājuma risināšanas steidzamību, bet ne vēlāk kā viena mēneša laikā no iesnieguma saņemšanas, ja likumā nav noteikts citādi.
+(4) Ja iesnieguma saturs neprasa atbildi pēc būtības, iestāde septiņu darbdienu laikā informē iesniedzēju, ka attiecīgo iesniegumu ir saņēmusi. Ja nepieciešams, iestāde norāda, ka detalizētāku informāciju par sava iesnieguma turpmāko virzību iesniedzējs var saņemt Informācijas atklātības likumā noteiktajā kārtībā.
+(5) Ja iesniegumā ietverta sūdzība, kurā iestādei izteikts aizrādījums vai neapmierinātība par tās kompetencē esošu jautājumu vai iestādes darbinieka rīcību, iestāde atbildē uz iesniegumu norāda apsvērumus, kas ir par pamatu šādai iestādes vai tās darbinieka rīcībai.
+(6) Ja privātpersona iesniegumā norādījusi, ka uz tās iesniegumu nav nepieciešams atbildēt, iestāde var neatbildēt uz šādu iesniegumu.
+(7) Ja privātpersona nav devusi norādījumus attiecībā uz atbildes nosūtīšanu, iestāde atbildi uz iesniegumu nosūta uz iesniedzēja norādīto adresi. Ja elektroniskā veidā iesniegtā iesniegumā privātpersona nav devusi norādījumus attiecībā uz atbildes nosūtīšanu, iestāde atbildi uz iesniegumu nosūta tikai elektroniskā veidā.

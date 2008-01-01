@@ -1,0 +1,1 @@
+2. Iesniegumu, sūdzību vai priekšlikumu, kura izskatīšana uzsākta saskaņā ar likumu "Iesniegumu, sūdzību un priekšlikumu izskatīšanas kārtība valsts un pašvaldību institūcijās" līdz šā likuma spēkā stāšanās dienai, pabeidz izskatīt saskaņā ar likumu "Iesniegumu, sūdzību un priekšlikumu izskatīšanas kārtība valsts un pašvaldību institūcijās".

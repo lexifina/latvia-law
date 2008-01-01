@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Iesniegumu, sūdzību un priekšlikumu izskatīšanas kārtība valsts un pašvaldību institūcijās" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 23.nr.; 1999, 24.nr.; 2001, 10.nr.).
