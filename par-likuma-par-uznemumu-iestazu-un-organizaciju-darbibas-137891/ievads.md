@@ -1,0 +1,1 @@
+Atzīt par spēku zaudējušu likumu "Par uzņēmumu, iestāžu un organizāciju darbības apturēšanas kārtību" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 6.nr.; 1993, 20./21.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 3.nr.; 1995, 8., 22.nr.; 1997, 3., 15.nr.; 1998, 15., 22.nr.; 2002, 2.nr.; 2003, 15.nr.; 2004, 14., 22.nr.; 2005, 9.nr.).
