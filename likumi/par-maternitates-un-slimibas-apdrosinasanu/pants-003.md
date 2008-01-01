@@ -3,5 +3,6 @@
 1) maternitātes pabalsts;
 2) slimības pabalsts;
 3) apbedīšanas pabalsts;
-4) paternitātes pabalsts.
+4) paternitātes pabalsts;
+5) vecāku pabalsts.
 (2) (Izslēgta ar 19.06.1998. likumu)

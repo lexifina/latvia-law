@@ -1,2 +1,2 @@
-38.pants. Valsts sociālās apdrošināšanas aģentūras lēmumu pārsūdzēšana
-Valsts sociālās apdrošināšanas aģentūras lēmumu ieinteresētā persona mēneša laikā var pārsūdzēt tiesā.
+38.pants. Valsts sociālās apdrošināšanas aģentūras lēmumu apstrīdēšana un pārsūdzēšana
+Valsts sociālās apdrošināšanas aģentūras nodaļas amatpersonas lēmumu par valsts sociālās apdrošināšanas pabalsta piešķiršanu, aprēķināšanu, izmaksu vai atteikumu to piešķirt var apstrīdēt, mēneša laikā no attiecīgā lēmuma spēkā stāšanās dienas iesniedzot attiecīgu iesniegumu Valsts sociālās apdrošināšanas aģentūras direktoram. Valsts sociālās apdrošināšanas aģentūras direktora lēmumu var pārsūdzēt tiesā mēneša laikā no direktora lēmuma spēkā stāšanās dienas.
