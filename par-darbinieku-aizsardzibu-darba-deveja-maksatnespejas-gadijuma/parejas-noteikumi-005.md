@@ -1,0 +1,1 @@
+5. To darbinieku prasījumu apmierināšanai, kuru darba devēja maksātnespēja iestājusies līdz 2007.gada 31.decembrim, tiek piemērotas šā likuma normas par darbinieku prasījumu apmierināšanas kārtību tādā redakcijā, kāda tā bija spēkā 2007.gada 31.decembrī.

@@ -1,8 +1,8 @@
 5.pants
 (1) No darbinieku prasījumu garantiju fonda līdzekļiem darbinieku prasījumus apmierina šādā apmērā:
-1) darba samaksu par pēdējiem trim darba tiesisko attiecību mēnešiem 12 mēnešu periodā pirms darba devēja maksātnespējas iestāšanās;
-2) atlīdzību par ikgadējo apmaksāto atvaļinājumu, uz kuru tiesības iegūtas 12 mēnešu periodā pirms darba devēja maksātnespējas iestāšanās;
-3) atlīdzību par cita veida apmaksātu prombūtni pēdējo triju darba tiesisko attiecību mēnešos 12 mēnešu periodā pirms darba devēja maksātnespējas iestāšanās;
+1) darba samaksu par pēdējiem trim darba tiesisko attiecību mēnešiem 12 mēnešu periodā pirms darba devēja maksātnespējas gadījuma iestāšanās;
+2) atlīdzību par ikgadējo apmaksāto atvaļinājumu, uz kuru tiesības iegūtas 12 mēnešu periodā pirms darba devēja maksātnespējas gadījuma iestāšanās;
+3) atlīdzību par cita veida apmaksātu prombūtni pēdējo triju darba tiesisko attiecību mēnešos 12 mēnešu periodā pirms darba devēja maksātnespējas gadījuma iestāšanās;
 4) atlaišanas pabalstu likumā noteiktajā minimālajā apmērā;
 5) kaitējuma atlīdzību par visu nesamaksāto laikposmu;
 6) kaitējuma atlīdzības summu par četriem gadiem uz priekšu.
