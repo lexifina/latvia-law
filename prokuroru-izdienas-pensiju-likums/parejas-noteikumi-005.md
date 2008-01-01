@@ -1,0 +1,1 @@
+5. Ja persona 2007.gada 31.decembrī vienlaikus ir gan izdienas pensijas, gan bezdarbnieka pabalsta saņēmēja, tad šai personai ar 2008.gada 1.februāri pārtrauc izdienas pensijas izmaksu uz atlikušo bezdarbnieka pabalsta izmaksas termiņu.
