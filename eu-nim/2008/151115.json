@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Apdrošināšanas un pārapdrošināšanas starpnieku darbības likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "190",
+  "official_journal_page": null,
+  "official_journal_date": "2007-11-27",
+  "entry_into_force": "2008-01-01",
+  "notification_date": "2007-11-30",
+  "commission_reference": "MNE(2007)58389",
+  "nim_celex": "72002L0092LVA_151115",
+  "nim_id": "151115",
+  "transposes_celex": [
+    "32002L0092"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6c5bccd4-5e63-4a3f-a3a1-779b2c4e1e34",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
