@@ -4,3 +4,5 @@
 (3) Maksas apmēru par valsts autoceļu lietošanu un kārtību, kādā veicama samaksa par lielgabarīta un smagsvara pārvadājumiem pa valsts autoceļiem, nosaka Ministru kabinets.
 (4) Maksu var ņemt par tādu autoceļu lietošanu, kas izbūvēti par privātiem līdzekļiem. Šādos gadījumos maksu nosaka autoceļa īpašnieks.
 (5) Ceļu lietotāju maksājumu elektronisko iekasēšanas sistēmu savstarpējas izmantojamības kārtību nosaka Ministru kabinets.
+(6) Ja pašvaldību, komersantu un māju ceļi nodoti valsts lietošanā, tad transportlīdzekļi attiecīgos ceļus var izmantot atbilstoši šā panta pirmās daļas noteikumiem, izņemot gadījumus, kad likumā paredzēts citādi.
+(7) Latvijas Republikas pierobežas joslā pirms robežkontroles punktiem Terehovā un Grebņevā var tikt izveidoti speciāli maksas stāvlaukumi, kuros valsts nodrošina iebraukšanai atbilstošu secīgu izbraukšanu uz robežkontroles punktiem. Stāvlaukumu izmantošanas kārtību, to izmantošanas maksas apmēru un šīs maksas iekasēšanas kārtību nosaka Ministru kabinets.
