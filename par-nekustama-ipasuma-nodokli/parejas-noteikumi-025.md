@@ -1,0 +1,1 @@
+25. Ja nekustamā īpašuma nodokļa maksātājs vai daudzdzīvokļu mājas apsaimniekotājs līdz 2008.gada 1.martam nav saņēmis maksāšanas paziņojumu, viņa pienākums ir mēneša laikā rakstveidā par to informēt pašvaldību, kura iekasē nodokli.

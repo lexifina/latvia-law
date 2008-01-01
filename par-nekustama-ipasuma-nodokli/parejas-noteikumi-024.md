@@ -1,0 +1,1 @@
+24. 2008.gadā pašvaldības par nekustamā īpašuma nodokļa apmēru taksācijas (kalendārajam) gadam paziņo maksātājam vai daudzdzīvokļu mājas apsaimniekotājam līdz 2008.gada 1.martam, nosūtot maksāšanas paziņojumu viņam vai viņa pilnvarniekam.
