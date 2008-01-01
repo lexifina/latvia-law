@@ -1,6 +1,6 @@
 425.pants. Apelācijas tiesvedības ierosināšana
 (1) Pārliecinājies, ka ir ievērota apelācijas sūdzības iesniegšanas kārtība, tiesnesis pēc paskaidrojuma saņemšanas vai pēc tā iesniegšanai noteiktā termiņa notecēšanas pieņem lēmumu par apelācijas tiesvedības ierosināšanu un noliek lietu izskatīšanai apelācijas instances tiesas sēdē.
-(1¹) Lietās par darbinieka atjaunošanu darbā un lietās par darba devēja uzteikuma atzīšanu par spēkā neesošu tiesas sēdes diena nosakāma ne vēlāk kā 15 dienu laikā pēc paskaidrojuma saņemšanas vai tā iesniegšanas termiņa notecēšanas.
+(1¹) Lietās par darbinieka atjaunošanu darbā un lietās par darba devēja uzteikuma atzīšanu par spēkā neesošu, kā arī maksātnespējas procesa lietās tiesas sēdes diena nosakāma ne vēlāk kā 15 dienu laikā pēc paskaidrojuma saņemšanas vai tā iesniegšanas termiņa notecēšanas.
 (2) Konstatējis, ka apelācijas sūdzība nosūtīta apelācijas instances tiesai, pārkāpjot šajā likumā noteikto apelācijas sūdzību iesniegšanas kārtību, tiesnesis pieņem vienu no šādiem lēmumiem:
 1) par atteikšanos ierosināt apelācijas tiesvedību, ja nokavēts apelācijas sūdzības iesniegšanai noteiktais termiņš vai ja apelācijas sūdzību iesniegusi persona, kas nav pilnvarota pārsūdzēt tiesas spriedumu; šajā gadījumā sūdzību kopā ar lietu nosūta pirmās instances tiesai, kura sūdzību atdod iesniedzējam;
 2) par lietas nosūtīšanu pirmās instances tiesai likumā noteikto darbību izpildei, ja, iesniedzot apelācijas sūdzību, pieļauti šā likuma 416.panta pirmajā daļā norādītie trūkumi vai nav samaksāta valsts nodeva.

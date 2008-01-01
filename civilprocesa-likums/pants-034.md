@@ -9,7 +9,7 @@ e) no 20 001 lata līdz 100 000 latiem - 490 latu plus 1 procents no prasības s
 f) no 100 001 lata līdz 500 000 latiem - 1290 latu plus 0,3 procenti no prasības summas, kas pārsniedz 100 000 latus,
 g) vairāk par 500 000 latiem - 2490 latu plus 0,05 procenti no prasības summas, kas pārsniedz 500 000 latus;
 2) par prasības pieteikumu laulības šķiršanas lietā - 50 latu, bet par prasības pieteikumu laulības šķiršanas lietā ar personu, kas noteiktā kārtībā atzīta par bezvēsts promesošu vai rīcībnespējīgu gara slimības vai plānprātības dēļ, vai ar personu, kas notiesāta ar brīvības atņemšanu uz laiku, kas nav mazāks par trim gadiem, - 5 lati;
-3) par pieteikumu sevišķās tiesāšanas kārtības lietās - 10 latu, bet par pieteikumu lietās par uzņēmumu un uzņēmējsabiedrību maksātnespēju vai kredītiestāžu maksātnespēju vai likvidāciju - 100 latu;
+3) par pieteikumu sevišķās tiesāšanas kārtības lietās - 10 latu, par pieteikumu tiesiskās aizsardzības procesa lietā, maksātnespējas procesa lietā vai lietā par kredītiestāžu maksātnespēju vai likvidāciju - 100 latu;
 4) par citām prasībām, kam nav mantiska rakstura vai kas nav jānovērtē, - 20 latu;
 5) par prasības nodrošinājuma pieteikumu vai pagaidu aizsardzības līdzekļa pieteikumu - 20 latu, bet par prasības nodrošinājuma vai pagaidu aizsardzības līdzekļa pieteikumu lietās, kurās prasības summa ir lielāka par 4000 latiem, - 0,5 procenti no prasības summas;
 6) par pierādījumu nodrošināšanas pieteikumu, ja tas iesniegts pirms prasības celšanas, - 10 latu;
@@ -17,7 +17,7 @@ g) vairāk par 500 000 latiem - 2490 latu plus 0,05 procenti no prasības summas
 8) par pieteikumu par izpildu raksta izdošanu uz pastāvīgās šķīrējtiesas sprieduma pamata vai ārvalsts šķīrējtiesas nolēmuma atzīšanu un izpildīšanu - 1 procents no parāda summas, bet ne vairāk par 100 latiem;
 9) par pieteikumu par tiesvedības atjaunošanu un lietas jaunu izskatīšanu lietā, kurā taisīts aizmugurisks spriedums, - tādā pašā apmērā kā par prasības pieteikumu;
 10) par prasības pieteikumu par kopīgas mantas dalīšanu - 50 procenti no likmes, kas būtu jāmaksā par prasības pieteikumu vispārējā kārtībā no dalāmās mantas vērtības;
-11) par sūdzībām maksātnespējas lietās sakarā ar kreditoru sapulces vai kreditoru komitejas lēmumiem, par sūdzībām sakarā ar administratora vai likvidatora rīcību, kā arī par Padomes 2000.gada 29.maija regulas (EK) Nr. 1346/2000 par maksātnespējas procedūrām (turpmāk - Padomes regula Nr. 1346/2000) 33. un 37.pantā noteikto darbību veikšanu - 10 latu.
+11) par sūdzībām tiesiskās aizsardzības procesa lietās, par sūdzībām maksātnespējas procesa lietās sakarā ar kreditoru sapulces lēmumu, par sūdzībām sakarā ar maksātnespējas procesa administratora (turpmāk - administrators) lēmumu vai rīcību, par sūdzībām par valsts aģentūras "Maksātnespējas administrācija" (turpmāk - Maksātnespējas administrācija) lēmumiem, kā arī par Padomes 2000.gada 29.maija regulas (EK) Nr. 1346/2000 par maksātnespējas procedūrām (turpmāk - Padomes regula Nr. 1346/2000) 33. un 37.pantā noteikto darbību veikšanu - 10 latu.
 (2) Taisot spriedumu, tiesa nosaka valsts nodevu šādā apmērā:
 1) lietās par apstiprināšanu mantojuma tiesībās, ja mantojuma vērtība pārsniedz 10 minimālās mēnešalgas:
 a) laulātajam un kopā ar mantojuma atstājēju dzīvojušajiem pirmās, otrās un trešās šķiras mantiniekiem - 0,5 procenti no mantojamās mantas vērtības,

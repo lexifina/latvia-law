@@ -9,8 +9,8 @@ Sevišķā tiesāšanas kārtībā tiesa izskata lietas:
 7) par tiesību dzēšanu uzaicinājuma kārtībā;
 8) par tiesību atjaunošanu pēc parāda aktiem vai uzrādītāja vērtspapīriem;
 9) par mantojuma tiesībām;
-10) par nekustam ā īpašuma izpirkšanu;
-11) par uzņēmumu un uzņēmējsabiedrību maksātnespēju;
+10) par nekustamā īpašuma izpirkšanu;
+11) par tiesiskās aizsardzības procesu un maksātnespējas procesu;
 12) par kredītiestāžu likvidāciju vai maksātnespēju;
 13) par streika vai streika pieteikuma atzīšanu par nelikumīgu;
 14) par lokauta vai lokauta pieteikuma atzīšanu par nelikumīgu.

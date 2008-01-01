@@ -1,10 +1,12 @@
-348.pants. Tiesas spriedums maksātnespējas lietā
-(1) Ja tiesa konstatē kādu no uzņēmuma vai uzņēmējsabiedrības maksātnespējas pazīmēm, tā ar savu spriedumu pasludina parādnieku par maksātnespējīgu un nosaka maksātnespējas iestāšanās dienu. Par maksātnespējas iestāšanās dienu atzīstama maksātnespējas pieteikuma iesniegšanas diena, ja tiesa nav konstatējusi agrāku faktiskās maksātnespējas iestāšanās dienu.
-(1¹) Ja tiesa taisa spriedumu par Padomes regulas Nr. 1346/2000 3.panta 2.punktā noteiktās maksātnespējas procedūras uzsākšanu pret parādnieku, tad nepiemēro šā panta pirmajā daļā noteikto kārtību.
-(2) Taisot spriedumu par parādnieka maksātnespēju, tiesa apstiprina iecelto administratoru.
-(2¹) Taisot spriedumu par parādnieka maksātnespēju, tiesa lemj, vai uzlikt administratoram par pienākumu publicēt paziņojumu par parādnieka maksātnespējas procesu citas Eiropas Savienības dalībvalsts (turpmāk - cita dalībvalsts) oficiālajā laikrakstā, kuras teritorijā atrodas parādnieka uzņēmums Padomes regulas Nr. 1346/2000 2.panta "h" punkta izpratnē vai manta, ja administratoram ir izvēles tiesības publicēt citā dalībvalstī šādu paziņojumu un tiesa pret parādnieku uzsāk minētās regulas 3.panta 1.punktā noteikto maksātnespējas procedūru.
-(3) Uz administratora iesniegtā parādnieka pārstāvju saraksta pamata tiesa nosaka tos parādnieka pārstāvjus, kuriem obligāti jāpiedalās maksātnespējas procesā.
-(4) Pēc administratora motivēta lūguma tiesa var noteikt saīsinātu termiņu kreditoru prasījumu pieteikšanai.
-(5) Ja uzņēmuma vai uzņēmējsabiedrības maksātnespējas pazīmes netiek konstatētas, tiesa pieteikumu noraida, vienlaikus izbeidzot maksātnespējas procesu un izlemjot jautājumu, vai pieteikums atzīstams par nepamatotu vai apzināti nepatiesu atbilstoši likumam "Par uzņēmumu un uzņēmējsabiedrību maksātnespēju".
-(6) Atzinusi pieteikumu par nepamatotu vai apzināti nepatiesu, tiesa piedzen no pieteikuma iesniedzēja tiesas izdevumus un administratora atlīdzību. Pārējos gadījumos šie izdevumi piedzenami no parādnieka.
-(7) Tiesas spriedums maksātnespējas lietā ir galīgs un apelācijas kārtībā nav pārsūdzams.
+348.pants. Tiesiskās aizsardzības procesa lietas izskatīšana un spriedums parādnieka tiesiskās aizsardzības procesa lietā
+(1) Tiesiskās aizsardzības procesa lietu tiesa izskata 35 dienu laikā no lietas ierosināšanas dienas.
+(2) Uz tiesas sēdi aicina tiesiskās aizsardzības procesa pieteikuma iesniedzēju, administratoru un nodrošināto kreditoru.
+(3) Lietas izskatīšanas gaitā tiesa:
+1) izvērtē, vai tiesiskās aizsardzības procesa pasākumu plāns ir saskaņots Maksātnespējas likumā noteiktajā kārtībā;
+2) noskaidro tiesiskās aizsardzības procesa pieteikuma iesniedzēja, administratora un nodrošinātā kreditora viedokli par tiesiskās aizsardzības procesa pasākumu plāna izpildes iespējām.
+(4) Taisot spriedumu par tiesiskās aizsardzības procesa īstenošanu, tiesa apstiprina tiesiskās aizsardzības procesa pasākumu plānu un nosaka tiesiskās aizsardzības procesa īstenošanas termiņu.
+(5) Noraidot tiesiskās aizsardzības procesa pieteikumu, tiesa vienlaikus izbeidz tiesiskās aizsardzības procesu un lemj, vai tiesiskās aizsardzības procesa pieteikums ir izmantots, lai izvairītos no saistību izpildes.
+(6) Atzinusi pieteikumu par nepamatotu vai apzināti nepatiesu, tiesa piedzen no tiesiskās aizsardzības procesa pieteikuma iesniedzēja tiesas izdevumus un administratora atlīdzību.
+(7) Tiesas spriedums tiesiskās aizsardzības procesa lietā nav pārsūdzams.
+(8) Tiesa sprieduma norakstu izsniedz tiesiskās aizsardzības procesa pieteikuma iesniedzējam un administratoram, kā arī nosūta ar likumu pilnvarotajai iestādei, kas veic ierakstus maksātnespējas reģistrā.
+(9) Noraidījusi tiesiskās aizsardzības procesa pieteikumu, tiesa sprieduma norakstu nosūta ar likumu pilnvarotajai iestādei, kas veic ierakstus maksātnespējas reģistrā.
