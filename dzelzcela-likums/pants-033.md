@@ -6,7 +6,7 @@
 2) kontrolēt civilās aizsardzības pasākumu (to skaitā preventīvo, reaģēšanas un seku likvidēšanas pasākumu) veikšanu dzelzceļa ekspluatācijā;
 3) izmeklēt dzelzceļa satiksmes negadījumus;
 4) kontrolēt ritošā sastāva avāriju seku novēršanas darbu organizēšanu un veikšanu;
-5) kontrolēt jaunu vai rekonstruētu dzelzceļa infrastruktūras objektu nodošanu ekspluatācijā un pārbaudīt to atbilstību Dzelzceļa tehniskās ekspluatācijas noteikumu un darba aizsardzības noteikumu prasībām;
+5) izskatīt dzelzceļa infrastruktūras būvprojektus un pieņemt lēmumus par tiem, izsniegt būvatļaujas un kontrolēt, kā dzelzceļa infrastruktūras būvniecības dalībnieki ievēro šā likuma un citu būvniecību reglamentējošo normatīvo aktu prasības;
 6) saskaņā ar normatīvajiem aktiem izsniegt pārvadātājiem drošības sertifikātus;
 7) noteiktā kārtībā izsniegt drošības apliecības;
 8) saskaņā ar normatīvajiem aktiem izsniegt profesionālās kompetences sertifikātus reglamentētajās sfērās.
