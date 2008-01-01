@@ -1,0 +1,4 @@
+5.pants. Labas prakses kodekss
+(1) Lai veicinātu patērētāju tiesību un ekonomisko interešu aizsardzību un šā likuma noteikumu ievērošanu, saimnieciskās vai profesionālās darbības veicēji vai to izveidotās profesionālās biedrības var izstrādāt labas prakses kodeksu.
+(2) Labas prakses kodekss ir brīvprātīga saimnieciskās vai profesionālās darbības veicēju vienošanās vai noteikumu kopums, kas nav reglamentēts tiesību aktos un regulē to komercprakses īstenotāju rīcību, kuri ir apņēmušies pildīt labas prakses kodeksā noteiktās saistības vienā vai vairākos komercprakses veidos, kā arī vienā vai vairākās saimnieciskās vai profesionālās darbības jomās.
+(3) Labas prakses kodeksā var ietvert godīgas komercprakses vadlīnijas un profesionālās rūpības kritērijus, kas atbilst attiecīgajā saimnieciskās vai profesionālās darbības jomā vispāratzītai godīgai tirgus praksei un labas ticības principam.
