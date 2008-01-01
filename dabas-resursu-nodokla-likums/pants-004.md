@@ -5,7 +5,7 @@
 3) atkritumu apglabāšanu un piesārņojošu vielu emisiju vidē atbilstoši šā likuma 3., 4. un 5.pielikumam;
 4) stacionāras tehnoloģiskas iekārtas emitēto siltumnīcefekta gāzu apjomu, kas nav ietverts nodoto emisijas kvotu skaitā, atbilstoši šā likuma 4.pielikumam;
 5) videi kaitīgas preces atbilstoši šā likuma 6.pielikumam;
-6) preču un izstrādājumu iepakojumu (turpmāk arī - iepakojums) un vienreiz lietojamos galda traukus un piederumus atbilstoši šā likuma 7.pielikumam. Ar nodokli apliek arī to iepakojumu, ko pakalpojumu sniedzējs pievieno izstrādājumiem un kas pēc pakalpojuma sniegšanas nonāk pie pakalpojuma saņēmēja;
+6) preču un izstrādājumu iepakojumu (turpmāk arī - iepakojums) un vienreiz lietojamos galda traukus un piederumus atbilstoši šā likuma 24.pantam un 7.pielikumam. Ar nodokli apliek arī to iepakojumu, ko pakalpojumu sniedzējs pievieno izstrādājumiem un kas pēc pakalpojuma sniegšanas nonāk pie pakalpojuma saņēmēja;
 7) radioaktīvās vielas atbilstoši šā likuma 8.pielikumam;
 8) transportlīdzekļus, uz kuriem attiecas Nolietotu transportlīdzekļu apsaimniekošanas likuma 3.panta pirmā daļa;
 9) ogles, koksu un lignītu (brūnogles) atbilstoši šā likuma 9.pielikumam.
@@ -14,3 +14,4 @@
 1) dabas resursu, piesārņojošu vielu, atkritumu un radioaktīvo vielu klasifikāciju un atbilstību nodokļa likmju grupām;
 2) videi kaitīgu preču klasifikāciju, tehniskos raksturojumus un atbilstību nodokļa likmju grupām.
 (4) Ministru kabinets nosaka preču un izstrādājumu iepakojumu, ko neapliek ar nodokli.
+(5) Plastmasas maisiņiem, ko pircēja ērtības vai reklāmas noformējuma dēļ iepakotu vai neiepakotu preču vai produktu kopumam (pirkumam) pievieno tirgotājs, piemēro nodokļa likmi, kas noteikta šā likuma 24.pantā. Šajā daļā minētajiem plastmasas maisiņiem, kas izgatavoti no bioplastmasas, piemēro nodokļa likmi, kas noteikta šā likuma 7.pielikumā.

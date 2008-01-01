@@ -13,7 +13,7 @@ No stikla izejmateriāliem
 0,20
 0,25
 2.
-No plastmasas (polimēru) izejmateriāliem
+No plastmasas (polimēru) izejmateriāliem, izņemot no bioplastmasas izejmateriāliem
 0,10
 0,40
 0,60
@@ -25,7 +25,7 @@ No metāla izejmateriāliem
 0,45
 0,70
 4.
-No koksnes, papīra un kartona vai citu dabisko šķiedru izejmateriāliem
+No koksnes, papīra un kartona vai citu dabisko šķiedru un bioplastmasas izejmateriāliem
 0,012
 0,05
 0,15
