@@ -4,4 +4,5 @@ Sociālās apdrošināšanas veidi ir šādi:
 2) sociālā apdrošināšana bezdarba gadījumam (turpmāk - apdrošināšana pret bezdarbu);
 3) sociālā apdrošināšana pret nelaimes gadījumiem darbā un arodslimībām (turpmāk - darba negadījumu apdrošināšana);
 4) invaliditātes apdrošināšana;
-5) maternitātes un slimības apdrošināšana.
+5) maternitātes un slimības apdrošināšana;
+6) vecāku apdrošināšana.

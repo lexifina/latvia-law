@@ -1,5 +1,5 @@
 13.pants. Sociālajai apdrošināšanai pakļauto personu un darba devēju reģistrācija
 (1) Darba devēji un pašnodarbinātie tiek reģistrēti Valsts ieņēmumu dienesta Nodokļu maksātāju reģistrā Ministru kabineta noteiktajā kārtībā.
 (2) Darba devējs reģistrē katru darba ņēmēju Valsts ieņēmumu dienestā pēc darba devēja reģistrācijas vietas līdz tam mēnesim, kurā persona atbilstoši šā likuma 1.panta 2.punktam ieguvusi, mainījusi vai zaudējusi darba ņēmēja statusu, sekojošā mēneša piektajam datumam Ministru kabineta noteiktajā kārtībā.
-(3) Personas, kuras brīvprātīgi pievienojušās pensiju apdrošināšanai, invaliditātes apdrošināšanai, maternitātes un slimības apdrošināšanai, tiek reģistrētas Valsts sociālās apdrošināšanas aģentūrā Ministru kabineta noteiktajā kārtībā.
+(3) Personas, kuras brīvprātīgi pievienojušās pensiju apdrošināšanai, invaliditātes apdrošināšanai, maternitātes un slimības apdrošināšanai un vecāku apdrošināšanai, tiek reģistrētas Valsts sociālās apdrošināšanas aģentūrā Ministru kabineta noteiktajā kārtībā.
 (4) Iekšzemes darba ņēmēji pie darba devēja - ārvalstnieka un ārvalstu darba ņēmēji pie darba devēja - ārvalstnieka reģistrējas Valsts ieņēmumu dienesta Nodokļu maksātāju reģistrā pēc savas dzīvesvietas adreses Ministru kabineta noteiktajā kārtībā 10 dienu laikā no statusa iegūšanas dienas.

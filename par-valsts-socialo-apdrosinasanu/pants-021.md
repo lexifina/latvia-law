@@ -3,7 +3,7 @@
 (2) Darba ņēmējs veic obligātās iemaksas ar darba devēja starpniecību. Darba devējs ietur iemaksas, kas jāveic darba ņēmējam, un iemaksā tās speciālā budžeta kontā šā panta pirmajā daļā noteiktajos termiņos.
 (3) Pašnodarbinātais veic obligātās iemaksas līdz ceturksnim sekojošā mēneša 15.datumam.
 (4) Iekšzemes darba ņēmējs pie darba devēja - ārvalstnieka un ārvalstu darba ņēmējs pie darba devēja - ārvalstnieka veic obligātās iemaksas līdz ceturksnim sekojošā mēneša 15.datumam.
-(5) Personas, kuras brīvprātīgi pievienojušās pensiju apdrošināšanai, invaliditātes apdrošināšanai, maternitātes un slimības apdrošināšanai, veic brīvprātīgās iemaksas līdz katra mēneša pēdējai dienai.
+(5) Personas, kuras brīvprātīgi pievienojušās pensiju apdrošināšanai, invaliditātes apdrošināšanai, maternitātes un slimības apdrošināšanai un vecāku apdrošināšanai, veic brīvprātīgās iemaksas līdz katra mēneša pēdējai dienai.
 (6) (Izslēgta ar 20.06.2001. likumu.)
 (7) Nokavētās obligātās iemaksas veicamas saskaņā ar likumu "Par nodokļiem un nodevām".
 (8) (Izslēgta ar 20.06.2001. likumu.)
