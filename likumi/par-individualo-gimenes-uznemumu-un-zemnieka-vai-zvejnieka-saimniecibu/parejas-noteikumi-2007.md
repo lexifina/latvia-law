@@ -1,0 +1,1 @@
+Patents, ko fiziskā persona saimnieciskās darbības veikšanai iegādājusies līdz 2007.gada 31.decembrim, ir derīgs līdz tam noteiktā derīguma termiņa beigām, bet ne ilgāk kā līdz 2008.gada 31.decembrim.

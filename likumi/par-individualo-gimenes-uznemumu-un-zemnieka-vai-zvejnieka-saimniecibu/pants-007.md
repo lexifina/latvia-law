@@ -5,7 +5,7 @@ Dibināšanas līgumā jānorāda:
 2) dibināmā uzņēmuma nosaukums un atrašanās vieta;
 3) dibināmā uzņēmuma mērķi un darbības virziens;
 4) uzņēmuma dibināšanas kārtība un dibinātāju pārstāvis, kuram pārējie dibinātāji, savstarpēji vienojoties, uzdevuši veikt ar uzņēmuma dibināšanu saistītās darbības;
-5) īpašums, ar kuru uzņēmējdarbības veikšanā piedalās katrs individuālā uzņēmuma dibinātājs, kā arī šā īpašuma vērtība;
+5) īpašums, ar kuru saimnieciskās darbības veikšanā piedalās katrs individuālā uzņēmuma dibinātājs, kā arī šā īpašuma vērtība;
 6) katra uzņēmuma dibinātāja kopējā ieguldījuma vērtība naudas izteiksmē un procentos;
 7) peļņas sadales un zaudējumu atlīdzināšanas kārtība;
 8) dibinātāju apgādībā esošās personas;

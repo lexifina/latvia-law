@@ -1,2 +1,2 @@
 IV nodaļa
-Darba līgums
+Darba tiesiskās attiecības un komercnoslēpums

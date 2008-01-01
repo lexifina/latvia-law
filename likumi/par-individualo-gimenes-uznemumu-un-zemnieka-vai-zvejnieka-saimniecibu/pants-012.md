@@ -1,3 +1,2 @@
-12. pants. Individuālā (ģimenes) uzņēmuma komercnoslēpumu glabāšana
-Algotais darbinieks nedrīkst izpaust uzņēmuma komercnoslēpumus, kas tam kļuvuši pieejami.
-Individuālais uzņēmējs ir tiesīgs slēgt rakstveida vienošanos ar uzņēmuma darbiniekiem par uzņēmuma komercnoslēpumu saglabāšanu.
+12.pants. Komercnoslēpuma statusa noteikšana
+Ievērojot Komerclikuma 19.panta noteikumus, individuālā (ģimenes) uzņēmuma, zemnieka vai zvejnieka saimniecības īpašnieks lietai vai informācijai var noteikt komercnoslēpuma statusu.

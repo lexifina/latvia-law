@@ -1,2 +1,2 @@
-11. pants. Darba līgums individuālajā (ģimenes) uzņēmumā un zemnieka vai zvejnieka saimniecībā
-Individuālais uzņēmējs (zemnieks vai zvejnieks) ir tiesīgs nodarbināt algotus darbiniekus Latvijas Republikas darba likumdošanas aktos noteiktajā kārtībā.
+11.pants. Darba tiesiskās attiecības individuālajā (ģimenes) uzņēmumā, zemnieka vai zvejnieka saimniecībā
+Darba tiesiskās attiecības individuālajā (ģimenes) uzņēmumā, zemnieka vai zvejnieka saimniecībā tiek nodibinātas saskaņā ar darba tiesiskās attiecības regulējošiem normatīvajiem aktiem.

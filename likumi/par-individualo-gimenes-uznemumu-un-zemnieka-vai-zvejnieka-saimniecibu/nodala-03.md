@@ -1,2 +1,2 @@
 III nodaļa
-Individuālā (ģimenes) uzņēmuma manta
+Individuālā (ģimenes) uzņēmuma un zemnieka vai zvejnieka saimniecības manta

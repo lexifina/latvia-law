@@ -1,3 +1,2 @@
-1. pants. Likuma darbība
-Šis likums attiecas uz individuālajiem (ģimenes) uzņēmumiem, zemnieku vai zvejnieku saimniecībām un lauku amatnieku uzņēmumiem vai saimniecībām.
-Šis likums nav attiecināms uz fizisko personu darbu pie citām fiziskajām personām, kas, pamatojoties uz darba līgumu, veic darbības, kuras saskaņā ar normatīvajiem aktiem nav uzskatāmas par uzņēmējdarbību, vai veic šīs darbības attiecībā uz īpašumu, kas saskaņā ar normatīvajiem aktiem nav uzskatāms par uzņēmējdarbībā iesaistītu īpašumu.
+1.pants. Likuma darbības joma
+Šis likums nosaka kārtību, kādā dibināmi, reorganizējami un likvidējami individuālie (ģimenes) uzņēmumi, zemnieku vai zvejnieku saimniecības, lauku amatnieku uzņēmumi vai saimniecības, kā arī šo uzņēmumu un saimniecību darbības tiesiskos pamatus.
