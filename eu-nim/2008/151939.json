@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Negodīgas komercprakses aizlieguma likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "199",
+  "official_journal_page": null,
+  "official_journal_date": "2007-12-12",
+  "entry_into_force": "2008-01-01",
+  "notification_date": "2007-12-20",
+  "commission_reference": "MNE(2007)59052",
+  "nim_celex": "72005L0029LVA_151939",
+  "nim_id": "151939",
+  "transposes_celex": [
+    "32005L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fd72c39b-0a31-4057-951f-b684f831ffd3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
