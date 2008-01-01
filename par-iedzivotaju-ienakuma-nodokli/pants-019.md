@@ -4,7 +4,7 @@
 3. Maksātājs ne vēlāk kā 15 dienu laikā no šajā likumā noteiktās deklarācijas iesniegšanas dienas iemaksā budžetā aprēķinātā nodokļa summu, bet, ja aprēķinātā nodokļa summa pārsniedz 100 latus, maksātājs to var iemaksāt budžetā trijās reizēs - līdz 16.aprīlim, 16.maijam un 16.jūnijam, iemaksājot katru reizi trešo daļu no šīs summas. Turklāt šī summa ir samazināma par to nodokļa daļu, kuru taksācijas gada laikā darba devēji samaksājuši kā algas nodokli vai pats maksātājs - kā avansu vai nodokli, kas ieturēts no maksātāja ienākuma, izmaksājot viņam šā likuma 17.panta desmitajā daļā minētos ienākumus.
 3.¹ Maksātājs ne vēlāk kā 15 dienu laikā no šajā likumā noteiktās deklarācijas iesniegšanas dienas iemaksā budžetā fiksētā ienākuma nodokļa atlikušo daļu, ko nosaka kā starpību starp fiksētā ienākuma nodokļa summu, kas noteikta atbilstoši šā likuma 15.panta piektajai daļai, un saskaņā ar šā likuma 18.panta devīto daļu noteikto avansa maksājumu.
 4. Ja rezumējošā kārtībā aprēķinātā summa pēc pārbaudes izrādās mazāka par avansā samaksāto, Valsts ieņēmumu dienesta teritoriālā iestāde triju mēnešu laikā no deklarācijas iesniegšanas dienas atmaksā maksātājam radušos starpību.
-4.¹ Personai, kam rezumējošā kārtībā taksācijas gadam aprēķinātais nodoklis no saimnieciskās darbības, kuras veikšanai tā ir iegādājusies patentu, ir mazāks nekā samaksātā gada patentmaksa, šī starpība netiek atmaksāta.
+4.¹ (Izslēgta ar 08.11.2007. likumu.)
 5. Deklarācija ar tai pievienotajiem dokumentiem, kas apliecina nodokļa iemaksāšanu budžetā, iesniedzama Valsts ieņēmumu dienesta teritoriālajai iestādei pēc maksātāja dzīvesvietas ne vēlāk kā taksācijas gadam sekojošā gada 1.aprīlī. Nerezidents tajos gadījumos, kad tam saskaņā ar šā likuma 20.panta trešo daļu ir jāiesniedz deklarācija, to iesniedz Valsts ieņēmumu dienesta teritoriālajai iestādei:
 1) pēc nekustamā īpašuma atrašanās vietas - par šā likuma 3.panta trešās daļas 7., 7.¹ un 9.punktā minēto ienākumu;
 2) pēc paša maksātāja izvēles - par šā likuma 3.panta trešās daļas 1.punktā minēto ienākumu;
@@ -14,7 +14,7 @@
 6. Deklarācijai ir pievienojami vai reizē ar to uzrādāmi un, ja nepieciešams, iesniedzami dokumenti, kas apliecina:
 1) maksātāja tiesības uz atvieglojumiem;
 2) taksācijas gada laikā izdarītos attaisnotos izdevumus, izņemot gadījumus, kad informāciju par maksātāja attaisnotajiem izdevumiem Valsts ieņēmumu dienests saņem saskaņā ar šā panta desmito un vienpadsmito daļu;
-3) kā avansu, arī kā algas nodokli un patentmaksu samaksāto nodokli;
+3) kā avansu, arī kā algas nodokli samaksāto nodokli;
 4) nodokļa ieturēšanu no šā likuma 17.panta desmitajā daļā minētajiem ienākumiem;
 5) ārvalstīs samaksāto nodokli;
 6) ka persona, kas ir citas Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts rezidents, taksācijas gadā Latvijā guvusi vairāk nekā 75 procentus no saviem kopējiem ienākumiem un ka tā vai tās laulātais nav izmantojuši šajā likumā noteiktajiem nodokļa atvieglojumiem un attaisnotajiem izdevumiem analoģiskus atskaitījumus savā rezidences valstī.
