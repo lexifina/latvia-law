@@ -1,5 +1,5 @@
-4.pants. Dzelzceļa pasažieru un bagāžas pārvadājumu noteikumi
-Ministru kabinets izdod Dzelzceļa pasažieru un bagāžas pārvadājumu noteikumus, kuros nosaka:
+4.pants. Dzelzceļa pasažieru un bagāžas starptautisko pārvadājumu noteikumi
+Ministru kabinets izdod Dzelzceļa pasažieru un bagāžas starptautisko pārvadājumu noteikumus, kuros nosaka:
 1) pasažieru, rokas bagāžas, bagāžas un kravas bagāžas pārvadāšanas kārtību;
 2) biļešu derīguma termiņus, biļešu, rokas bagāžas, bagāžas un kravas bagāžas kvīšu nodošanas un pārformēšanas kārtību;
 3) bagāžas un kravas bagāžas pieņemšanas un izsniegšanas kārtību;

@@ -1,4 +1,4 @@
-10.pants. Biļetes rekvizīti
+10.pants. Biļetes rekvizīti starptautiskajos dzelzceļa pārvadājumos
 (1) Biļetes paraugu nosaka pārvadātājs.
 (2) Biļetē norāda:
 1) pārvadātāju;
