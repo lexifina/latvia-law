@@ -8,7 +8,8 @@
 6) pabalsts transporta izdevumu kompensēšanai invalīdiem, kuriem ir apgrūtināta pārvietošanās;
 7) valsts sociālā nodrošinājuma pabalsts;
 8) atlīdzība par adoptējamā bērna aprūpi;
-9) bērna invalīda kopšanas pabalsts.
+9) bērna invalīda kopšanas pabalsts;
+10) pabalsts invalīdam, kuram nepieciešama kopšana.
 (2) Vienreiz izmaksājamie valsts sociālie pabalsti ir šādi:
 1) bērna piedzimšanas pabalsts;
 2) apbedīšanas pabalsts;
