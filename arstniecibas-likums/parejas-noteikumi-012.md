@@ -1,0 +1,1 @@
+12. Lai saņemtu samaksu par pacientu pārstāvību, kas lietā veikta līdz 2007.gada 31.decembrim, Latvijas Zvērinātu advokātu padomes norīkotie advokāti līdz 2008.gada 1.martam iesniedz Juridiskās palīdzības administrācijai šā likuma 68.¹ panta ceturtajā un piektajā daļā noteiktajā kārtībā noformētu paziņojumu, pievienojot dokumentus, kas apliecina citus atlīdzināmos izdevumus.
