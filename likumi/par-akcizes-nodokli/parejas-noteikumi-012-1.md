@@ -1,1 +1,9 @@
-12.¹ Ar 2007.gada 1.jūliju, palielinoties akcīzes nodokļa likmēm, personām, kas saņēmušas licenci alkoholisko dzērienu, tabakas izstrādājumu vai naftas produktu vairumtirdzniecībai, un personām, kas saņēmušas licenci apstiprināta tirgotāja darbībai ar alkoholiskajiem dzērieniem, tabakas izstrādājumiem vai naftas produktiem, jāveic attiecīgo akcīzes preču krājumu inventarizācija pēc stāvokļa dienā, kad notiek akcīzes nodokļa likmju maiņa, inventarizācijas akti jāiesniedz Valsts ieņēmumu dienestam un jāveic akcīzes nodokļa likmju starpības samaksa 15 dienu laikā (ieskaitot dienu, kad notiek akcīzes nodokļa likmju maiņa). Ja akcīzes nodokļa likmes tiek samazinātas, akcīzes nodokļa starpību neatmaksā.
+12.¹ Sākot ar 2008.gada 1.janvāri, palielinoties nodokļa likmēm alkoholiskajiem dzērieniem, tabakas izstrādājumiem vai naftas produktiem pēc stāvokļa dienā, kad notiek nodokļa likmju maiņa, inventarizē:
+1) uzskaitē esošo attiecīgo alkoholisko dzērienu, tabakas izstrādājumu vai naftas produktu krājumus:
+a) apstiprināts tirgotājs,
+b) persona, kas saņēmusi speciālo atļauju (licenci) alkoholisko dzērienu vai tabakas izstrādājumu vai naftas produktu vairumtirdzniecībai,
+c) persona, kas saņēmusi speciālo atļauju (licenci) alkoholisko dzērienu vai naftas produktu mazumtirdzniecībai;
+2) uzskaitē esošo alkoholisko dzērienu un tabakas izstrādājumu akcīzes nodokļa marku krājumus, ja par attiecīgajām akcīzes precēm nodoklis atbilstoši saņemtajām akcīzes nodokļa markām samaksāts saskaņā ar šā likuma 23.panta trīspadsmito daļu:
+a) akcīzes preču noliktavas turētājs,
+b) importētājs, ja ar attiecīgajām akcīzes nodokļa markām marķēt paredzētajām vai marķētajām akcīzes precēm nav piemērota muitas procedūra - laišana brīvā apgrozībā;
+c) nodokļa maksātāja pārstāvis, ja ar attiecīgajām akcīzes nodokļa markām marķētās akcīzes preces nav saņemtas Latvijas Republikā.

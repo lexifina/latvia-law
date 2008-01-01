@@ -4,3 +4,4 @@
 2) kurus izgatavojusi fiziskā persona savam patēriņam ar nosacījumu, ka tie netiek realizēti;
 3) kuri ir nefasēti un izgatavoti sabiedriskās ēdināšanas uzņēmumā patērēšanai šajā uzņēmumā.
 (2) No nodokļa ir atbrīvoti bezalkoholiskie dzērieni un kafija, ko izmanto citu pārtikas preču (arī alkoholisko dzērienu) ražošanā.
+(3) No nodokļa ir atbrīvoti bezalkoholiskie dzērieni un kafija, kuru iznīcina pilnvarotas Valsts ieņēmumu dienesta amatpersonas klātbūtnē.

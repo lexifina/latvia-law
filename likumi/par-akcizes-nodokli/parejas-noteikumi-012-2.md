@@ -1,0 +1,1 @@
+12.² Sākot ar 2008.gada 1.janvāri, palielinoties nodokļa likmēm tabakas izstrādājumiem pēc stāvokļa nākamā mēneša pirmajā datumā pēc nodokļa likmju maiņas, persona, kas saņēmusi speciālo atļauju (licenci) tabakas izstrādājumu mazumtirdzniecībai, inventarizē uzskaitē esošo tabakas izstrādājumu krājumus.

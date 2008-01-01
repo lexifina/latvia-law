@@ -7,4 +7,4 @@
 1) drošības naudu;
 2) saistību izpildes apdrošināšanas polisi;
 3) kredītiestādes galvojumu;
-4) ķīlas līgumu, ko noslēdz ar Valsts ieņēmumu dienestu.
+4) (izslēgts ar 08.11.2007. likumu).
