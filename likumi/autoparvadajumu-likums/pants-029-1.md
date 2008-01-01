@@ -1,4 +1,0 @@
-29.¹ pants. Pasažieru regulāro pārvadājumu veidi
-(1) Ir šādi pasažieru regulārie pārvadājumi: pasažieru regulārie pārvadājumi ar autobusu un pasažieru regulārie pārvadājumi ar maršruta taksometru (izņemot pasažieru regulāros starptautiskos pārvadājumus).
-(2) Pasažieru regulārajos pārvadājumos ar autobusu pasažierus pārvadā ar autobusu par noteiktu braukšanas maksu iepriekš noteiktā maršrutā pēc noteikta kustības saraksta, uzņemot un izlaižot pasažierus iepriekš noteiktās pieturvietās.
-(3) Pasažieru regulārajos pārvadājumos ar maršruta taksometru pasažierus pārvadā ar piemērotiem transportlīdzekļiem (bez stāvvietām), kuru ietilpība nav lielāka par 16 sēdvietām (neieskaitot šoferi), par noteiktu braukšanas maksu iepriekš noteiktā maršrutā pēc noteikta kustības saraksta, uzņemot un izlaižot pasažierus jebkurā maršruta punktā.
