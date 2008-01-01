@@ -1,7 +1,7 @@
 28.⁶ pants. Tiesu informatīvā sistēma
 (1) Tiesu informatīvās sistēmas un tās programmnodrošinājuma īpašniece ir Latvijas valsts.
 (2) Tiesu informatīvās sistēmas uzturēšanu un attīstību finansē no valsts pamatbudžeta.
-(3) Tiesu informatīvās sistēmas turētāja ir Tieslietu ministrija.
+(3) Tiesu informatīvās sistēmas pārzine ir Tieslietu ministrija. Tiesu informatīvās sistēmas turētāja ir Tiesu administrācija.
 (4) Tiesu informatīvās sistēmas ietvaros Augstākā tiesa veido judikatūras datubāzi.
 (5) Judikatūras datubāzē iekļaujamās informācijas atlases un apstrādes kārtību pēc saskaņošanas ar Tieslietu ministriju nosaka Augstākās tiesas priekšsēdētājs.
 (6) Ministru kabinets nosaka tiesu informatīvās sistēmas izveidošanas, uzturēšanas un izmantošanas kārtību, kā arī minimālo iekļaujamās informācijas apjomu, ievērojot normatīvajos aktos noteiktos ierobežojumus.

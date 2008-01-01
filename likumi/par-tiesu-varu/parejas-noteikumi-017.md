@@ -1,0 +1,1 @@
+17. Līdz 2009.gada 1.janvārim zemesgrāmatu nodaļas tiesneša mēneša amatalgu aprēķina atbilstoši Centrālās statistikas pārvaldes iepriekšējā gada oficiālajā statistikas paziņojumā publicētajai valstī strādājošo vidējai mēneša bruto darba samaksai, kas noapaļota latos, piemērojot koeficientu 2,5.
