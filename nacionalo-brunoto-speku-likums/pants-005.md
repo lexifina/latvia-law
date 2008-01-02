@@ -7,5 +7,6 @@
 4) uz kārtējām vai pārbaudes militārajām mācībām iesauktie rezerves karavīri.
 (2¹) Nacionālo bruņoto spēku personālsastāvu dalībai starptautiskajās operācijās veido:
 1) profesionālā dienesta karavīri, kuri pilda dienestu saskaņā ar līgumu;
-2) militārie darbinieki.
+2) militārie darbinieki;
+3) zemessargi.
 (3) Personālsastāva komplektēšanu un militārā dienesta gaitu reglamentē speciāls likums.
