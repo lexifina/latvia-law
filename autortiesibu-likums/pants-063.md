@@ -7,10 +7,10 @@
 1) publisku izpildījumu, ja tas notiek izklaides vietās, kafejnīcās, veikalos, viesnīcās un citās tamlīdzīgās vietās;
 2) nomu, īri un publisku patapināšanu (izņemot datorprogrammas, datu bāzes un mākslas darbus);
 3) retranslēšanu pa kabeļiem (izņemot raidorganizāciju tiesības, neatkarīgi no tā, vai tās ir pašas raidorganizācijas tiesības vai tās raidorganizācijai nodevuši autortiesību vai blakustiesību subjekti);
-4) reproducēšanu personiskām vajadzībām;
-5) reprogrāfisku reproducēšanu personiskām vai dienesta vajadzībām;
+4) reproducēšanu personiskai lietošanai;
+5) reprogrāfisku reproducēšanu personiskai lietošanai;
 6) vizuālās mākslas oriģināldarbu tālākpārdošanu;
 7) komerciālos nolūkos publicētu fonogrammu izmantošanu.
 (6) Mantisko tiesību kolektīvo pārvaldījumu attiecībā uz šā panta piektajā daļā noteikto autortiesību vai blakustiesību objektu izmantošanu vienlaikus var veikt tikai viena mantisko tiesību kolektīvā pārvaldījuma organizācija.
 (7) Mantisko tiesību kolektīvā pārvaldījuma organizācija uz pilnvarojuma pamata var pārstāvēt citas organizācijas pārstāvēto tiesību subjektu intereses.
-(8) Tikai viena mantisko tiesību pārvaldījuma organizācija bez citas mantisko tiesību pārvaldījuma organizācijas pilnvarojuma veic mantisko tiesību kolektīvo pārvaldījumu attiecībā uz publisku patapinājumu, reproducēšanu personiskām vajadzībām un reprogrāfisku reproducēšanu personiskām vai dienesta vajadzībām.
+(8) Tikai viena mantisko tiesību pārvaldījuma organizācija bez citas mantisko tiesību pārvaldījuma organizācijas pilnvarojuma veic mantisko tiesību kolektīvo pārvaldījumu attiecībā uz publisku patapinājumu, kā arī reproducēšanu un reprogrāfisku reproducēšanu personiskai lietošanai.
