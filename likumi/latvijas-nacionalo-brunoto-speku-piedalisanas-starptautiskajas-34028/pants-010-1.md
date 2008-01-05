@@ -1,0 +1,15 @@
+10.¹ pants. Sociālās garantijas civilpersonām sakarā ar komandējumiem uz starptautisko operāciju rajoniem
+(1) Ja Valsts prezidents, Saeimas deputāts, Ministru kabineta loceklis, parlamentārais sekretārs, ierēdnis vai cits valsts institūcijā nodarbinātais, kurš laikā, kad viņš atradās komandējumā uz starptautiskās operācijas rajonu, pildot darba (dienesta) pienākumus, ir cietis nelaimes gadījumā un guvis sakropļojumu vai citādu veselības bojājumu, bet nav kļuvis par invalīdu, viņam izmaksā šādu atlīdzību par kaitējumu darbspēju zaudējuma gadījumā:
+1) smaga veselības traucējuma gadījumā - piecu mēnešalgu apmērā;
+2) vidēji smaga veselības traucējuma gadījumā - triju mēnešalgu apmērā;
+3) viegla veselības traucējuma gadījumā - vienas mēnešalgas apmērā.
+(2) Ja Valsts prezidentam, Saeimas deputātam, Ministru kabineta loceklim, parlamentārajam sekretāram, ierēdnim vai citam valsts institūcijā nodarbinātajam amata pienākumu pildīšanas laikā vai dienesta vai darba tiesisko attiecību pastāvēšanas laikā, vai gada laikā pēc amata atstāšanas vai dienesta vai darba tiesisko attiecību izbeigšanas noteikta invaliditāte tāda ievainojuma (sakropļojuma, kontūzijas) dēļ, kas iegūts laikā, kad viņš atradās komandējumā uz starptautiskās operācijas rajonu, pildot darba (dienesta) pienākumus, viņam izmaksā šādu atlīdzību par kaitējumu darbspēju zaudējuma gadījumā:
+1) I grupas invalīdam - 20 mēnešalgu apmērā;
+2) II grupas invalīdam - 15 mēnešalgu apmērā;
+3) III grupas invalīdam - 10 mēnešalgu apmērā.
+(3) Veselības traucējuma smaguma pakāpi un invaliditāti nosaka Veselības un darbspēju ekspertīzes ārstu komisija.
+(4) Ja Valsts prezidents, Saeimas deputāts, Ministru kabineta loceklis, parlamentārais sekretārs, ierēdnis vai cits valsts institūcijā nodarbinātais, kurš laikā, kad viņš atradās komandējumā uz starptautiskās operācijas rajonu, pildot darba (dienesta) pienākumus, gājis bojā, viņš tiek apbedīts par valsts līdzekļiem un viņa ģimenes locekļi (laulātais, bērni vai vecāki, ja viņam nav bērnu vai laulātā) saņem kompensāciju 50 000 latu apmērā.
+(5) Ja Valsts prezidents, Saeimas deputāts, Ministru kabineta loceklis, parlamentārais sekretārs, ierēdnis vai cits valsts institūcijā nodarbinātais darba vai dienesta tiesisko attiecību pastāvēšanas laikā vai gada laikā pēc amata atstāšanas vai dienesta vai darba attiecību izbeigšanas tāda ievainojuma (sakropļojuma, kontūzijas) dēļ, kas iegūts laikā, kad viņš atradās komandējumā uz starptautiskās operācijas rajonu, pildot darba (dienesta) pienākumus, gājis bojā, viņa ģimenes locekļi (laulātais, bērni vai vecāki, ja viņam nav bērnu vai laulātā) saņem kompensāciju 50 000 latu apmērā.
+(6) Šā panta pirmajā un otrajā daļā noteikto atlīdzību izmaksā papildus normatīvajos aktos noteiktajām kompensācijām vai pabalstiem sakarā ar amata pienākumu izpildes laikā gūto sakropļojumu vai citādu veselības bojājumu.
+(7) Šajā pantā minētās atlīdzības un kompensācijas neapliek ar likumos paredzētajiem nodokļiem un citiem obligātajiem maksājumiem.
+(8) Ministru kabinets nosaka šā panta pirmajā, otrajā, ceturtajā un piektajā daļā noteikto atlīdzību un kompensāciju izmaksas kārtību.
