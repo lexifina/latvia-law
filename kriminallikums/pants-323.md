@@ -3,3 +3,5 @@
 soda ar brīvības atņemšanu uz laiku līdz sešiem gadiem.
 (2) Par tādām pašām darbībām, ja tās izdarītas atkārtoti vai ja tās izdarījusi valsts amatpersona, vai arī ja tās izdarījusi personu grupa pēc iepriekšējas vienošanās, -
 soda ar brīvības atņemšanu uz laiku no pieciem līdz divpadsmit gadiem, konfiscējot mantu vai bez mantas konfiskācijas.
+(3) Par tādām pašām darbībām, ja tās izdarījusi organizēta grupa, -
+soda ar brīvības atņemšanu uz laiku no pieciem līdz piecpadsmit gadiem, konfiscējot mantu, un ar policijas kontroli uz laiku līdz trim gadiem.

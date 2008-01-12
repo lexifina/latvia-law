@@ -6,4 +6,4 @@ soda ar brīvības atņemšanu uz laiku līdz desmit gadiem, konfiscējot mantu 
 (3) Par finanšu instrumenta vai maksāšanas līdzekļa viltošanu, kā arī par šāda viltojuma izplatīšanu vai izmantošanu, ja nav šā likuma 192.pantā paredzētā nozieguma pazīmju, -
 soda ar brīvības atņemšanu uz laiku no trim līdz desmit gadiem, konfiscējot mantu.
 (4) Par šā panta pirmajā, otrajā vai trešajā daļā paredzētajām darbībām, ja tās izdarītas atkārtoti vai lielā apmērā vai ja tās izdarījusi organizēta grupa, -
-soda ar brīvības atņemšanu uz laiku no pieciem līdz piecpadsmit gadiem, konfiscējot mantu.
+soda ar brīvības atņemšanu uz laiku no pieciem līdz piecpadsmit gadiem, konfiscējot mantu, un ar policijas kontroli uz laiku līdz trim gadiem vai bez tās.

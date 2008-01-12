@@ -3,5 +3,5 @@
 soda ar brīvības atņemšanu uz laiku līdz desmit gadiem, konfiscējot mantu vai bez mantas konfiskācijas.
 (2) Par tādām pašām darbībām, ja tās izdarītas atkārtoti, -
 soda ar brīvības atņemšanu uz laiku no pieciem līdz divpadsmit gadiem, konfiscējot mantu vai bez mantas konfiskācijas.
-(3) Par personas nolaupīšanu, ja tā izraisījusi smagas sekas, -
-soda ar brīvības atņemšanu uz laiku no pieciem līdz piecpadsmit gadiem, konfiscējot mantu.
+(3) Par personas nolaupīšanu, ja tā izraisījusi smagas sekas vai to izdarījusi organizēta grupa, -
+soda ar brīvības atņemšanu uz laiku no pieciem līdz piecpadsmit gadiem, konfiscējot mantu, un ar policijas kontroli uz laiku līdz trim gadiem vai bez tās.

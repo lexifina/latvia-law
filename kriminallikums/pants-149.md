@@ -5,3 +5,5 @@ soda ar arestu vai ar piespiedu darbu, vai ar naudas sodu līdz simt minimālaj�
 soda ar brīvības atņemšanu uz laiku līdz diviem gadiem vai ar arestu, vai ar piespiedu darbu, vai ar naudas sodu līdz simt minimālajām mēnešalgām, konfiscējot mantu vai bez mantas konfiskācijas.
 (3) Par tādām pašām darbībām, ja tās izdarītas atkārtoti vai ja tās izdarījusi personu grupa pēc iepriekšējas vienošanās, vai ja tās izdarītas lielā apmērā, -
 soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar arestu, vai ar naudas sodu līdz divsimt minimālajām mēnešalgām, konfiscējot mantu vai bez mantas konfiskācijas.
+(4) Par tādām pašām darbībām, ja tās izdarījusi organizēta grupa, -
+soda ar brīvības atņemšanu uz laiku no trim līdz septiņiem gadiem, konfiscējot mantu, un ar policijas kontroli uz laiku līdz trim gadiem.

@@ -12,3 +12,5 @@ soda ar brīvības atņemšanu uz laiku līdz desmit gadiem un ar policijas kont
 soda ar brīvības atņemšanu uz laiku no trim līdz divpadsmit gadiem un ar policijas kontroli uz laiku līdz trim gadiem vai bez tās.
 (3) Par tīša smaga miesas bojājuma nodarīšanu, kas vainīgā neuzmanības dēļ bijis par iemeslu cietušā nāvei, -
 soda ar brīvības atņemšanu uz laiku no trim līdz piecpadsmit gadiem un ar policijas kontroli uz laiku līdz trim gadiem vai bez tās.
+(4) Par tīša smaga miesas bojājuma nodarīšanu, ja to izdarījusi organizēta grupa, -
+soda ar brīvības atņemšanu uz laiku no desmit līdz piecpadsmit gadiem, konfiscējot mantu, un ar policijas kontroli uz laiku līdz trim gadiem.

@@ -3,3 +3,5 @@
 soda ar brīvības atņemšanu uz laiku līdz četriem gadiem vai ar naudas sodu līdz astoņdesmit minimālajām mēnešalgām, atņemot tiesības veikt zināma veida uzņēmējdarbību uz laiku līdz pieciem gadiem vai bez tā.
 (2) Par šaujamieroča, šaujamieroča munīcijas, lielas enerģijas pneimatiskā ieroča, sprāgstvielas vai spridzināšanas ietaises izgatavošanu, remontēšanu, iegādāšanos, glabāšanu, nēsāšanu, pārvadāšanu, pārsūtīšanu vai realizēšanu bez attiecīgas atļaujas -
 soda ar brīvības atņemšanu uz laiku līdz desmit gadiem vai ar arestu, atņemot tiesības veikt zināma veida uzņēmējdarbību uz laiku no diviem līdz pieciem gadiem vai bez tā.
+(3) Par šā panta otrajā daļā paredzētajām darbībām, ja tās izdarījusi organizēta grupa, -
+soda ar brīvības atņemšanu uz laiku no pieciem līdz piecpadsmit gadiem, konfiscējot mantu, atņemot tiesības veikt zināma veida uzņēmējdarbību uz laiku no diviem līdz pieciem gadiem, un ar policijas kontroli uz laiku līdz trim gadiem.
