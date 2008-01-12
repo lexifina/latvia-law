@@ -1,5 +1,5 @@
 55.pants. Ieturējumi no darba samaksas ar brīvības atņemšanu notiesātajiem
 Darba devējs, kas nodarbina notiesātos, veic valsts sociālās apdrošināšanas obligātās iemaksas par katru darba ņēmēju, kā arī iemaksā budžetā no darba ņēmēja darba samaksas ieturētās valsts sociālās apdrošināšanas obligātās iemaksas daļu un ieturēto iedzīvotāju ienākuma nodokli.
-(Otrā daļa atzīta par spēkā neesošu ar Satversmes tiesas 14.06.2007. spriedumu no 15.12.2007.)
-Notiesātajam, kurš darba pienākumus pilda nepilnu darba dienu (darba nedēļu), darba samaksu aprēķina un ieturējumu izdara proporcionāli pienākumu pildīšanas laikam. Piemērojot akorda algas sistēmu, ieturējumus izdara proporcionāli izstrādes normu izpildei, bet ne vairāk kā 50 procentu apmērā no valstī noteiktās minimālās mēneša darba algas.
+(Otrā daļa izslēgta ar 13.12.2007. likumu.)
+Notiesātajam, kurš darba pienākumus pilda nepilnu darba dienu (darba nedēļu), darba samaksu aprēķina proporcionāli darba pienākumu pildīšanas laikam.
 Notiesātajiem no aprēķinātās darba samaksas izdara ieturējumus pēc izpildrakstiem un citiem izpildu dokumentiem Civilprocesa likumā paredzētajā kārtībā tādā apmērā, lai pēc visu ieturējumu izdarīšanas notiesātā personiskajā kontā varētu ieskaitīt vismaz 20 procentus no aprēķinātās darba samaksas, bet pensijas vecumu sasniegušo notiesāto, notiesāto pirmās un otrās grupas invalīdu, nepilngadīgo, grūtnieču, kā arī to notiesāto sieviešu personiskajā kontā, kurām ir bērni cietuma bērnunamā, - vismaz 40 procentus no aprēķinātās darba samaksas.
