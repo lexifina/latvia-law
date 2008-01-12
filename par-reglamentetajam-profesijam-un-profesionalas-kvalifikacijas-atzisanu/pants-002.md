@@ -7,7 +7,7 @@
 (2) Likums nosaka reglamentētās profesijas, kā arī pamatprasības, kas jāievēro Latvijas Republikā un ārvalstīs iegūtās kvalifikācijas atzīšanā šajās profesijās.
 (3) Likuma noteikumi par izglītībai un profesionālajai kvalifikācijai izvirzāmajām prasībām attiecas uz fiziskajām personām, kuras vēlas uzsākt darbu reglamentētajās profesijās vai darboties tajās patstāvīgi kā pašnodarbinātas personas vai darbinieki.
 (4) Uz Latvijas pilsoņiem un nepilsoņiem, kuri izglītību un profesionālo kvalifikāciju ieguvuši ārvalstīs, attiecas šā likuma noteikumi par attiecīgajās ārvalstīs iegūtās profesionālās kvalifikācijas atzīšanu Eiropas Savienības dalībvalstu pilsoņiem.
-(5) Uz bezvalstniekiem, kas ieradušies no ārvalstīm, un personām, kas atzītas par bēgļiem saskaņā ar 1951.gada 28.jūlija Konvenciju par bēgļa statusu, attiecas šā likuma noteikumi par profesionālās kvalifikācijas atzīšanu.
+(5) Uz bezvalstniekiem, kas saņēmuši ārvalstīs izsniegtus bezvalstnieka ceļošanas dokumentus, kā arī uz bēgļiem un personām, kurām piešķirts alternatīvais statuss, attiecas šā likuma noteikumi par profesionālās kvalifikācijas atzīšanu.
 (6) Uz to valstu pilsoņiem, kurām saskaņā ar Eiropas Ekonomikas zonas līgumu ir minētajā līgumā noteiktās Eiropas Savienības dalībvalstu tiesības profesionālās kvalifikācijas atzīšanas jomā, attiecas tie paši šā likuma noteikumi, kuri attiecas uz Eiropas Savienības dalībvalstu pilsoņiem.
 (7) Šā likuma noteikumi neattiecas:
 1) uz gadījumiem, kad darbība reglamentētajās profesijās ir saistīta ar valsts pārvaldes vai tiesu varas funkciju izpildi;
