@@ -1,2 +1,2 @@
+Ķemeru nacionālā parka likuma
 1.pielikums
-Ķemeru nacionālā parka likumam

@@ -1,3 +1,3 @@
 7.pants
 (1) Dabas lieguma zona izveidota, lai aizsargātu cilvēku darbības maz pārveidotas ekosistēmas, retu un izzūdošu sugu atradnes un retus biotopu veidus, kā arī izstrādātos kūdras karjerus un minerālūdeņu veidošanās procesus.
-(2) Dabas lieguma zonā ir aizliegta tāda saimnieciskā darbība, kas traucē ekosistēmu dabisko attīstību, izņemot nacionālā parka individuālajos aizsardzības un izmantošanas noteikumos un dabas aizsardzības plānā minētos gadījumus.
+(2) Dabas lieguma zonā ir aizliegta tāda saimnieciskā darbība, kas traucē ekosistēmu dabisko attīstību, izņemot nacionālā parka individuālajos aizsardzības un izmantošanas noteikumos minētos gadījumus.

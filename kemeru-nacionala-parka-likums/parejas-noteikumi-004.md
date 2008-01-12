@@ -1,0 +1,1 @@
+4. Pašvaldības, kuru teritorijā atrodas parks, izstrādājot vietējās pašvaldības teritorijas plānojumu vai izdarot tajā grozījumus, plānojumā attēlo parka funkcionālo zonējumu saskaņā ar šā likuma 1. un 2.pielikumu.

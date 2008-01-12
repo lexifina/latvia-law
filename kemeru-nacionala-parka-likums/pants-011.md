@@ -1,2 +1,2 @@
 11.pants
-Nacionālā parka pārvaldi īsteno Vides aizsardzības un reģionālās attīstības ministrijas pakļautībā esoša valsts pārvaldes iestāde - Ķemeru nacionālā parka administrācija, kas darbojas saskaņā ar Ministru kabineta apstiprinātu nolikumu.
+Nacionālā parka pārvaldi īsteno Vides ministrijas pakļautībā esoša tiešās pārvaldes iestāde - Ķemeru nacionālā parka administrācija, kas darbojas saskaņā ar Ministru kabineta pieņemto nolikumu.
