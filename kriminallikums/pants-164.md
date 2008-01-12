@@ -7,3 +7,5 @@ soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar naudas sodu 
 soda ar brīvības atņemšanu uz laiku līdz sešiem gadiem, konfiscējot mantu vai bez mantas konfiskācijas.
 (4) Par mazgadīgā pamudināšanu vai piespiešanu nodarboties ar prostitūciju -
 soda ar brīvības atņemšanu uz laiku no pieciem līdz divpadsmit gadiem, konfiscējot mantu vai bez mantas konfiskācijas.
+(5) Par šajā pantā paredzētajām darbībām, ja tās izdarījusi organizēta grupa, -
+soda ar brīvības atņemšanu uz laiku no pieciem līdz piecpadsmit gadiem, konfiscējot mantu, un ar policijas kontroli uz laiku līdz trim gadiem.

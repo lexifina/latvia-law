@@ -3,5 +3,5 @@
 soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar arestu, vai ar piespiedu darbu, vai ar naudas sodu līdz astoņdesmit minimālajām mēnešalgām.
 (2) Par datorkrāpšanu, ja tā izdarīta atkārtoti vai ja to izdarījusi personu grupa pēc iepriekšējas vienošanās, -
 soda ar brīvības atņemšanu uz laiku līdz astoņiem gadiem vai ar mantas konfiskāciju, vai ar naudas sodu līdz simt piecdesmit minimālajām mēnešalgām.
-(3) Par datorkrāpšanu, ja tā izdarīta lielā apmērā, -
-soda ar brīvības atņemšanu uz laiku no astoņiem līdz piecpadsmit gadiem vai ar naudas sodu līdz divsimt minimālajām mēnešalgām, konfiscējot mantu vai bez mantas konfiskācijas.
+(3) Par datorkrāpšanu, ja tā izdarīta lielā apmērā vai ja to izdarījusi organizēta grupa, -
+soda ar brīvības atņemšanu uz laiku no pieciem līdz piecpadsmit gadiem vai ar naudas sodu līdz divsimt minimālajām mēnešalgām, konfiscējot mantu vai bez mantas konfiskācijas, un ar policijas kontroli uz laiku līdz trim gadiem vai bez tās.

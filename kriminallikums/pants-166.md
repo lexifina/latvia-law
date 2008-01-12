@@ -7,3 +7,5 @@ soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar piespiedu darbu
 soda ar brīvības atņemšanu uz laiku līdz sešiem gadiem vai ar naudas sodu līdz astoņdesmit minimālajām mēnešalgām, konfiscējot mantu vai bez mantas konfiskācijas.
 (4) Par mazgadīgā iesaistīšanu vai izmantošanu pornogrāfiska vai erotiska rakstura materiālu izgatavošanā (ražošanā) -
 soda ar brīvības atņemšanu uz laiku no pieciem līdz divpadsmit gadiem, konfiscējot mantu vai bez mantas konfiskācijas.
+(5) Par šā panta trešajā vai ceturtajā daļā paredzētajām darbībām, ja tās izdarījusi organizēta grupa, -
+soda ar brīvības atņemšanu uz laiku no pieciem līdz piecpadsmit gadiem, konfiscējot mantu, un ar policijas kontroli uz laiku līdz trim gadiem.

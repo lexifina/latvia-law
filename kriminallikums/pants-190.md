@@ -6,4 +6,4 @@ soda ar brīvības atņemšanu uz laiku no trim līdz astoņiem gadiem vai ar pi
 (3) Par šā panta otrajā daļā paredzētajām darbībām, ja tās izdarījusi personu grupa pēc iepriekšējas vienošanās, -
 soda ar brīvības atņemšanu uz laiku no pieciem līdz desmit gadiem vai ar piespiedu darbu, vai ar naudas sodu līdz divsimt minimālajām mēnešalgām, konfiscējot mantu vai bez mantas konfiskācijas.
 (4) Par kontrabandu, ja to izdarījusi organizēta grupa, -
-soda ar brīvības atņemšanu uz laiku no astoņiem līdz piecpadsmit gadiem, konfiscējot mantu.
+soda ar brīvības atņemšanu uz laiku no astoņiem līdz piecpadsmit gadiem, konfiscējot mantu, un ar policijas kontroli uz laiku līdz trim gadiem.

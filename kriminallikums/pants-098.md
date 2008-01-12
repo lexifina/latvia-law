@@ -3,5 +3,5 @@
 soda ar brīvības atņemšanu uz laiku līdz diviem gadiem vai ar arestu, vai ar piespiedu darbu, vai ar naudas sodu līdz četrdesmit minimālajām mēnešalgām.
 (2) Par šā panta pirmajā daļā norādīto noteikumu pārkāpšanu, ja ar to radīts būtisks kaitējums dabas videi, cilvēku veselībai, mantiskajām vai saimnieciskajām interesēm, -
 soda ar brīvības atņemšanu uz laiku līdz četriem gadiem vai ar piespiedu darbu, vai ar naudas sodu līdz astoņdesmit minimālajām mēnešalgām.
-(3) Par šā panta pirmajā daļā norādīto noteikumu pārkāpšanu, ja tā izraisījusi smagas sekas, -
-soda ar brīvības atņemšanu uz laiku no četriem līdz desmit gadiem, konfiscējot mantu vai bez mantas konfiskācijas.
+(3) Par šā panta pirmajā daļā norādīto noteikumu pārkāpšanu, ja tā izraisījusi smagas sekas vai ja to izdarījusi organizēta grupa, -
+soda ar brīvības atņemšanu uz laiku no četriem līdz desmit gadiem, konfiscējot mantu vai bez mantas konfiskācijas, un ar policijas kontroli uz laiku līdz trim gadiem vai bez tās.
