@@ -1,0 +1,1 @@
+35.¹ pants. Lai nodrošinātu Grenlandes roņu Phoca groenlandica balto pūkaino mazuļu un zilmuguras roņu Cystophora cristata mazuļu starptautisku aizsardzību, aizliegts komerciālos nolūkos importēt to jēlādas, miecētas vai apdarinātas (arī dažādā veidā komplektētas) kažokādas, kā arī kažokādu izstrādājumus.
