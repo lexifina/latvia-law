@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Dzīvnieku aizsardzības likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2",
+  "official_journal_page": null,
+  "official_journal_date": "2008-01-04",
+  "entry_into_force": "2008-01-18",
+  "notification_date": "2008-01-09",
+  "commission_reference": "MNE(2008)50223",
+  "nim_celex": "71983L0129LVA_152554",
+  "nim_id": "152554",
+  "transposes_celex": [
+    "31983L0129",
+    "31989L0370"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b18aab14-fec8-4111-be6a-eff767a357bc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
