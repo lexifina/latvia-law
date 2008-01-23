@@ -1,2 +1,0 @@
-Pirmā apakšnodaļa
-Vispārīgie noteikumi

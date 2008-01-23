@@ -1,1 +1,0 @@
-11. Pilnvarojumu atsaukšana

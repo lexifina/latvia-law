@@ -1,2 +1,0 @@
-Sestā apakšnodaļa
-Mantojuma pieņemšana

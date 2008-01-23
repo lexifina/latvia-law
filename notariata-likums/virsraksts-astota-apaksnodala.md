@@ -1,2 +1,0 @@
-Astotā apakšnodaļa
-Mantojuma dalīšana

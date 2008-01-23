@@ -1,2 +1,0 @@
-Otrā apakšnodaļa
-Pārdzīvojušā laulātā tiesību apliecināšana
