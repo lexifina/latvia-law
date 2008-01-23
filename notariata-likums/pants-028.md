@@ -1,2 +1,2 @@
-28. Latvijas Zvērinātu notāru padome raugās, lai apdrošināšanas līgums būtu spēkā nepārtraukti, kā arī uzrauga apdrošināšanas maksājumu savlaicīgu izdarīšanu.
-Ja apdrošināšanas līguma darbība ir apturēta vai līgums izbeigts, zvērināts notārs atstādināms vai atceļams no amata.
+28. Latvijas Zvērinātu notāru padome raugās, lai apdrošināšanas līgums būtu spēkā nepārtraukti, kā arī uzrauga apdrošināšanas maksājumu savlaicīgu izdarīšanu. Zvērinātam notāram ir pienākums septiņu dienu laikā pēc termiņa, kurā izdarāms apdrošināšanas prēmijas maksājums, iesniegt Latvijas Zvērinātu notāru padomei maksājuma uzdevuma kopiju.
+Ja apdrošināšanas līguma darbība ir apturēta vai līgums neatbilst šā likuma vai Ministru kabineta apstiprinātajiem obligātajiem līguma noteikumiem, vai līgums ir izbeigts, zvērināts notārs atstādināms vai atceļams no amata.

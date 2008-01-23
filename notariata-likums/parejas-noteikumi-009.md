@@ -1,0 +1,1 @@
+9. Ministru kabinets līdz 2008.gada 1.jūlijam izdod šā likuma 20.panta pirmajā, otrajā un trešajā daļā, 23.¹ panta trešajā daļā, 43.panta pirmajā daļā, 45.¹ pantā, 64.pantā, 67.panta otrajā daļā, 165.panta pirmajā daļā, 230.panta 9.punktā un 319.pantā minētos noteikumus.

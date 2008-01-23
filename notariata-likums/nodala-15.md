@@ -1,0 +1,2 @@
+XV nodaļa
+Pilnvarojumu atsaukšanas apliecināšana

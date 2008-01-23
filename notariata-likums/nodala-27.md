@@ -1,0 +1,2 @@
+XXVII nodaļa
+Mantojuma pieņemšana

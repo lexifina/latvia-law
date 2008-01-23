@@ -1,1 +1,1 @@
-64. Instrukciju par zvērinātu notāru reģistru un grāmatu formu un to vešanas kārtību un par mantojuma reģistra un mantojuma lietu vešanu pēc Latvijas Zvērinātu notāru padomes priekšlikuma izdod tieslietu ministrs.
+64. Noteikumus par zvērinātu notāru reģistru un grāmatu formu un vešanas kārtību un par mantojuma reģistra un mantojuma lietu vešanu izdod Ministru kabinets.

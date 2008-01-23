@@ -1,0 +1,2 @@
+XXV nodaļa
+Mantojuma apsardzība

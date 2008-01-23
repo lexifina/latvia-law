@@ -1,0 +1,1 @@
+18. Eksāmenu komisija lēmumu par atestācijas rezultātiem iesniedz apstiprināšanai tieslietu ministram. Tieslietu ministrs eksāmenu komisijas lēmumu apstiprina septiņu dienu laikā no lēmuma saņemšanas dienas. Eksāmenu komisijas lēmums stājas spēkā dienā, kad tieslietu ministrs to apstiprinājis.

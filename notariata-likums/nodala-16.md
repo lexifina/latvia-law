@@ -1,0 +1,2 @@
+XVI nodaļa
+Paziņojumu apliecināšana

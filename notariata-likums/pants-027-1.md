@@ -1,1 +1,1 @@
-27.¹ Zvērinātam notāram ir pienākums paziņot Latvijas Zvērinātu notāru padomei par apdrošināšanas līguma noslēgšanu, kā arī par visiem grozījumiem tajā, par apdrošināšanas gadījuma iestāšanos, līguma darbības apturēšanu vai izbeigšanu.
+27.¹ Zvērinātam notāram ir pienākums nekavējoties paziņot Latvijas Zvērinātu notāru padomei par apdrošināšanas līguma noslēgšanu, kā arī par visiem grozījumiem noslēgtajā apdrošināšanas līgumā, par apdrošināšanas gadījuma iestāšanos, līguma darbības apturēšanu vai izbeigšanu.

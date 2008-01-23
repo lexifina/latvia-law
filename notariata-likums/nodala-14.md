@@ -1,0 +1,2 @@
+XIV nodaļa
+Protestu apliecināšana

@@ -1,0 +1,1 @@
+14. Zvērinātiem notāriem, kuri sekmīgi nokārtojuši eksāmenu atbilstoši Ministru kabineta 2005.gada 12.aprīļa noteikumiem Nr.247 "Noteikumi par zvērinātu notāru eksāmena nokārtošanai nepieciešamo minimālo zināšanu apjomu un maksu par zvērinātu notāru eksāmenu", atestācijā tiek vērtēta tikai sociālā kompetence un sociālais intelekts.

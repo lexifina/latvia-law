@@ -3,4 +3,4 @@
 2) sasniegušas divdesmit viena gada vecumu;
 3) pēc akreditētas studiju programmas apguves augstskolā ieguvušas otrā līmeņa augstāko profesionālo izglītību tiesību zinātnē un jurista kvalifikāciju;
 4) prot valsts valodu;
-5) vismaz trīs gadus darbojušās pie zvērināta notāra.
+5) vismaz divus gadus darbojušās pie zvērināta notāra.

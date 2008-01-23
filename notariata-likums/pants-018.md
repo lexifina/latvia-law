@@ -1,2 +1,1 @@
-18. Latvijas Zvērinātu notāru padome katru gadu personām, kuras vēlas ieņemt zvērināta notāra amatu, rīko zvērināta notāra eksāmenu.
-Pie zvērināta notāra eksāmena tiek pielaistas personas, kuras atbilst šā likuma 9.panta prasībām un ir iemaksājušas eksāmena maksu Latvijas Zvērinātu notāru padomes kontā.
+18. Eksāmenā un kvalifikācijas pārbaudē vērtē zvērināta notāra darbībā nepieciešamās teorētiskās zināšanas, tai skaitā par normatīvajiem aktiem, kā arī prasmi piemērot šīs zināšanas praksē, lai veiktu zvērināta notāra amata pienākumus, ieskaitot aktu sastādīšanu un zvērināta notāra lietvedības kārtošanu. Eksāmenā un ārkārtas kvalifikācijas pārbaudē vērtē arī pretendenta un zvērināta notāra sociālo kompetenci un sociālo intelektu.

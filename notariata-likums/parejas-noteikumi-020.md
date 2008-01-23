@@ -1,0 +1,1 @@
+20. Šo pārejas noteikumu 15.punktā minētās eksāmenu komisijas darbs atestācijas procesā noris atbilstoši normatīvajam aktam, kas regulē zvērinātu notāru eksāmena kārtību, ciktāl tas nav pretrunā ar šo likumu.

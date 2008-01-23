@@ -1,0 +1,1 @@
+13. Šo pārejas noteikumu 12.punktā minēto zvērinātu notāru apmācību atbilstoši tieslietu ministra saskaņotajai zvērinātu notāru apmācības programmai un pārbaudi, kā arī eksāmenu komisijas darbu atestācijas procesā organizē Latvijas Zvērinātu notāru padome.

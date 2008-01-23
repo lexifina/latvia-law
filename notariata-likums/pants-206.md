@@ -1,2 +1,3 @@
 206. Ja apgabaltiesas priekšsēdētājs neatzīst par iespējamu sūdzībā norādītās nepareizības zvērināta notāra rīcībā novērst, dodot viņam norādījumus uzraudzības kārtībā, tad sūdzību izskata tiesa.
 Ja tiesa atzīst par vajadzīgu, tā paziņo par sūdzības iesniegšanu gan pārējām ieinteresētajām personām, gan pašam zvērinātam notāram, informējot par sūdzības izskatīšanas dienu.
+Ja apgabaltiesas priekšsēdētājs, iepazīstoties ar sūdzību, konstatē savu tiešu vai netiešu ieinteresētību lietas iznākumā vai citus apstākļus, kas rada pamatotas šaubas par viņa objektivitāti, viņš nodod šo sūdzību izskatīšanai citam šīs apgabaltiesas tiesnesim, bet, ja tas nav iespējams, - citas apgabaltiesas priekšsēdētājam.

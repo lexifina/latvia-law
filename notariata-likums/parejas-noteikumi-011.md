@@ -1,0 +1,1 @@
+11. Grozījumi šā likuma 192.pantā, saskaņā ar kuriem disciplinārlietas ierosināšanai noteiktais termiņš tiek pagarināts no viena gada uz diviem gadiem, piemērojami attiecībā uz tiem pārkāpumiem, kas izdarīti pēc 2008.gada 1.marta.

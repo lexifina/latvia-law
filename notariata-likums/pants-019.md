@@ -1,2 +1,2 @@
-19. Tieslietu ministrs pēc Latvijas Zvērinātu notāru padomes priekšlikuma apstiprina zvērinātu notāru eksāmena kārtību, eksāmena komisijas sastāvu un eksāmena jautājumus.
-Zvērinātu notāru eksāmena nokārtošanai nepieciešamo minimālo zināšanu apjomu un maksu par eksāmenu nosaka Ministru kabinets.
+19. Eksāmenu un regulāro kvalifikācijas pārbaudi organizē un nodrošina Latvijas Zvērinātu notāru padome ne retāk kā reizi gadā. Ārkārtas kvalifikācijas pārbaudi rīko divu mēnešu laikā pēc atkārtotā disciplinārsoda piemērošanas.
+Lēmumu par eksāmena un kvalifikācijas pārbaudes rīkošanu un norises dienu pieņem tieslietu ministrs pēc savas iniciatīvas vai pēc Latvijas Zvērinātu notāru padomes priekšlikuma.

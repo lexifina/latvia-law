@@ -1,1 +1,3 @@
-87.³ Ja zvērinātam notāram rodas šaubas par darījuma atsevišķu noteikumu spēku, viņam tas jādara zināms notariālā akta dalībniekiem un par to jānorāda notariālajā aktā.
+87.³ Zvērināts notārs nedrīkst taisīt notariālos aktus, kuri aizliegti ar likumu vai kuru saturs ir acīmredzamā pretrunā ar likumiem, kas aizsargā pārvaldes kārtību, sabiedrības tikumību vai personas godu.
+Ja zvērinātam notāram rodas šaubas par darījuma atsevišķu noteikumu spēku, viņam tas jādara zināms notariālā akta dalībniekiem un jānorāda notariālajā aktā.
+Ja zvērinātam notāram rodas šaubas par darījuma atbilstību likumam vai dalībnieku patiesajai gribai, viņam šīs šaubas jāapspriež ar darījuma dalībniekiem. Ja darījuma dalībnieki tomēr pastāv uz akta taisīšanu, zvērinātam notāram aktā jāieraksta gan savi paskaidrojumi, gan darījuma dalībnieku šajā sakarā sniegtie paskaidrojumi.

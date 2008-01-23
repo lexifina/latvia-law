@@ -1,1 +1,0 @@
-31. Apdrošināšanas iestāde ir tiesīga pieprasīt no zvērināta notāra atlīdzību par zaudējumiem, ja tie radušies, zvērinātam notāram tīši, ar nodomu pārkāpjot amata pienākumus vai pieļaujot rupju neuzmanību.

@@ -7,5 +7,5 @@
 6) uzrauga un kontrolē zvērinātu notāru un zvērinātu notāru palīgu darbību, izskata par viņiem iesniegtās sūdzības un ziņojumus, kā arī uzliek viņiem disciplinārsodus;
 7) pēc zvērināta notāra vai klienta lūguma nosaka atlīdzības apmēru par zvērināta notāra darbībām gadījumos, kad par to takse nav paredzēta vai par to radušās domstarpības;
 8) izveido zvērinātu notāru amata darbību iekšējās kontroles pastāvīgu komisiju un nosaka tās darbības kārtību;
-9) tieslietu ministra noteiktajā kārtībā reizi pusgadā sniedz viņam pārskatu par zvērinātu notāru veiktajām darbībām;
+9) Ministru kabineta noteiktajā kārtībā reizi pusgadā sniedz tieslietu ministram pārskatu par zvērinātu notāru veiktajām darbībām;
 10) veic citus pienākumus, kas noteikti normatīvajos aktos vai ko uzdevusi Latvijas Zvērinātu notāru kolēģija.

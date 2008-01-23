@@ -1,2 +1,2 @@
-43. Sākot pildīt amata pienākumus, zvērināts notārs saņem tieslietu ministra apstiprinātas zvērināta notāra amata apliecības un amata zīmi. To veidus un lietošanas kārtību nosaka tieslietu ministrs.
+43. Sākot pildīt amata pienākumus, zvērināts notārs saņem zvērināta notāra amata apliecību un amata zīmi. Zvērinātu notāru amata apliecības un amata zīmes paraugus, izsniegšanas un anulēšanas kārtību nosaka Ministru kabinets.
 Pildot amata pienākumus, zvērināts notārs nēsā amata zīmi.
