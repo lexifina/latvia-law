@@ -1,0 +1,1 @@
+23. Zvērināti tiesu izpildītāji, kuri iekļauti eksaminācijas komisijas sastāvā un kuriem atbilstoši šo pārejas noteikumu 22.punktam ir iestājies kvalifikācijas eksāmena kārtošanas termiņš, kvalifikācijas eksāmenu kārto nākamajā gadā.

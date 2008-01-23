@@ -1,0 +1,1 @@
+22. Regulāro kvalifikācijas eksāmenu kārto visi zvērināti tiesu izpildītāji, kuri nodevuši zvērestu līdz 2004.gada 1.janvārim. Zvērināti tiesu izpildītāji, kuri nodevuši zvērestu pēc 2004.gada 1.janvāra, regulāro kvalifikācijas eksāmenu pirmo reizi kārto ne vēlāk kā šā likuma 32.¹ panta pirmajā daļā noteiktajā termiņā.

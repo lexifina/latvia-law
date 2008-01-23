@@ -1,1 +1,1 @@
-156.pants. Lietu nomenklatūru un to glabāšanas termiņus nosaka, kā arī zvērinātu tiesu izpildītāju lietvedības un statistiskās uzskaites noteikumus pēc Latvijas Zvērinātu tiesu izpildītāju padomes priekšlikuma izdod tieslietu ministrs.
+156.pants. Lietu nomenklatūru un glabāšanas termiņus, kā arī zvērinātu tiesu izpildītāju lietvedības un statistiskās uzskaites kārtību nosaka Ministru kabinets.

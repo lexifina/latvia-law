@@ -1,0 +1,2 @@
+32.⁸ pants. (1) Zvērināts tiesu izpildītājs, kurš nenokārto kvalifikācijas eksāmenu, atkārtoti to kārto ne vēlāk kā sešu mēnešu laikā (skaitot no sākotnējā kvalifikācijas eksāmena rezultātu apstiprināšanas dienas), bet, ja šajā laikā tieslietu ministrs nepieņem lēmumu par kvalifikācijas eksāmena rīkošanu, - nākamajā kvalifikācijas eksāmena rīkošanas reizē.
+(2) Ja zvērināts tiesu izpildītājs, atkārtoti kārtojot kvalifikācijas eksāmenu, iegūst negatīvu vērtējumu, tieslietu ministrs pieņem lēmumu saskaņā ar šā likuma 92.panta pirmās daļas 6.punktu.

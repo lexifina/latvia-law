@@ -1,1 +1,1 @@
-40.pants. Zvērināta tiesu izpildītāja prasības un rīkojumi, ko viņš izvirza un dod, pildot amata pienākumus, ir saistoši visām personām valsts teritorijā.
+40.pants. Zvērināta tiesu izpildītāja izvirzītās prasības un izdotie rīkojumi, veicot ar tiesas un citu institūciju nolēmumu izpildi saistītās amata darbības, ir saistoši visām personām valsts teritorijā.

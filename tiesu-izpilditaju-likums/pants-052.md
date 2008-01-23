@@ -1,7 +1,9 @@
 52.pants. (1) Zvērināts tiesu izpildītājs, viņa palīgs un darbinieki nedrīkst izpaust trešajai personai ziņas par sastādītajiem aktiem un veiktajām amata darbībām, kā arī ziņas, kas iegūtas, veicot zvērināta tiesu izpildītāja profesionālo darbību. Šis noteikums ir spēkā arī pēc tam, kad viņi ir atstājuši savu amatu.
 (2) Ziņas par sastādītajiem aktiem un veiktajām amata darbībām sniedzamas likumā noteiktajā kārtībā:
 1) tiesai, prokuroram un izmeklēšanas iestādēm - sakarā ar amata pienākumu pildīšanu;
-2) citām valsts iestādēm vai amatpersonām, kā arī privātpersonām - ar visu lietas dalībnieku piekrišanu vai ar rajona (pilsētas) tiesas priekšsēdētāja rakstveida atļauju.
+2) citām valsts iestādēm vai amatpersonām, kā arī privātpersonām - ar visu lietas dalībnieku piekrišanu vai ar rajona (pilsētas) tiesas priekšsēdētāja rakstveida atļauju;
+3) Tieslietu ministrijai - tai normatīvajos aktos noteikto funkciju veikšanai;
+4) Latvijas Zvērinātu tiesu izpildītāju padomei - tai normatīvajos aktos noteikto funkciju veikšanai.
 (3) Zvērināts tiesu izpildītājs ziņas sniedz, pamatojoties uz personas rakstveida pieprasījumu, kurā norādīts nepieciešamās informācijas apjoms un pamatota ziņu nepieciešamība.
 (4) Zvērinātu tiesu izpildītāju depozītu un dokumentu grāmatas, izpildu lietas, kā arī atsevišķus dokumentus (to skaitā dokumentus, kas sastādīti, veicot šā likuma 74. un 75.pantā norādītās darbības) nedrīkst izdot ārpus prakses telpām, izņemot šā panta piektajā daļā noteikto gadījumu.
 (5) Ja uzsākts kriminālprocess, ekspertīzes izdarīšanai krimināllietā, pamatojoties uz procesa virzītāja lēmumu, var izņemt attiecīgus zvērināta tiesu izpildītāja dokumentus no viņa lietām, to vietā atstājot zvērināta tiesu izpildītāja apliecinātus norakstus. Pēc ekspertīzes izdarīšanas vai lietas izskatīšanas tiesā izņemtie dokumenti nekavējoties atdodami atpakaļ zvērinātam tiesu izpildītājam.

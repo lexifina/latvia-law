@@ -1,0 +1,1 @@
+32.⁴ pants. Kvalifikācijas eksāmenu rīko ne retāk kā reizi gadā. Lēmumu par kvalifikācijas eksāmena rīkošanu un tā norises dienu pieņem tieslietu ministrs pēc savas iniciatīvas vai pēc Latvijas Zvērinātu tiesu izpildītāju padomes priekšlikuma. Kvalifikācijas eksāmenu organizē un tā norisi nodrošina Latvijas Zvērinātu tiesu izpildītāju padome.

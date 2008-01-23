@@ -1,0 +1,1 @@
+21. Šā likuma III sadaļas trešās nodaļas normas un citas šā likuma normas, kas regulē zvērinātu tiesu izpildītāju regulāro kvalifikācijas eksāmenu un ārkārtas kvalifikācijas eksāmenu norisi, piemērojamas no 2008.gada 1.jūlija.

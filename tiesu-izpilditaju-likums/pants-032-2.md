@@ -1,0 +1,1 @@
+32.² pants. Kvalifikācijas eksāmenā eksaminācijas komisija pārbauda zvērināta tiesu izpildītāja teorētiskās zināšanas (arī normatīvo aktu pārzināšanu), kas nepieciešamas, lai veiktu zvērināta tiesu izpildītāja amata pienākumus, kā arī šo zināšanu piemērošanas prasmi.

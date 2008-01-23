@@ -1,3 +1,3 @@
 72.pants. (1) Zvērināts tiesu izpildītājs par amata darbībām, ko viņš veicis ārpus savas amata vietas iecirkņa vai arī veicis attiecībā uz parādnieku, kura dzīvesvieta vai atrašanās vieta vai juridiskā adrese ir cita iecirkņa teritorijā, paziņo zvērinātam tiesu izpildītājam pēc parādnieka dzīvesvietas vai atrašanās vietas vai juridiskās adreses.
 (2) Izpildes gaitā saņemtās naudas summas starp piedzinējiem sadala atbilstoši Civilprocesa likumā noteiktajai prasījumu apmierināšanas secībai, ņemot vērā visus izpildei iesniegtos izpildu dokumentus.
-(3) Tieslietu ministrs izdod instrukciju par kārtību, kādā izpildu darbības veicamas amata darbības iecirknī, kas nesakrīt ar parādnieka dzīvesvietu vai atrašanās vietu (juridisko adresi).
+(3) (Izslēgta ar 20.12.2007. likumu.)

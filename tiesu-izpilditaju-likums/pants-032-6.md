@@ -1,0 +1,2 @@
+32.⁶ pants. (1) Kvalifikācijas eksāmena kārtību, jomas, kurās tiek pārbaudītas zvērināta tiesu izpildītāja zināšanas un prasmes, kā arī vērtēšanas kārtību nosaka Ministru kabinets.
+(2) Latvijas Zvērinātu tiesu izpildītāju padome sagatavo priekšlikumus kvalifikācijas eksāmena jautājumiem. Pirms kvalifikācijas eksāmena tieslietu ministrs no iesniegtajiem priekšlikumiem izvēlas kvalifikācijas eksāmena jautājumus un tos apstiprina.
