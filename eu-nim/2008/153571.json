@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sabiedrisko pakalpojumu regulēšanas komisijas padomes 16.01.2008 lēmums Nr.16 \"Par Tīkla kodeksu\"",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "16",
+  "official_journal_page": null,
+  "official_journal_date": "2008-01-30",
+  "entry_into_force": "2008-01-31",
+  "notification_date": "2008-02-18",
+  "commission_reference": "MNE(2008)51021",
+  "nim_celex": "72005L0089LVA_153571",
+  "nim_id": "153571",
+  "transposes_celex": [
+    "32005L0089"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0d5874bb-718b-4e7b-bfa4-890bec31acfb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
