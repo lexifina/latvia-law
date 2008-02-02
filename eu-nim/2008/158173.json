@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2008.gada 29.janvāra noteikumi Nr.48 \"Grozījumi Ministru kabineta 2003.gada 25.februāra noteikumos Nr.92 \"Darba aizsardzības prasības, veicot būvdarbus\"\"",
+  "type_of_act": "Ministru kabineta instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "18",
+  "official_journal_page": null,
+  "official_journal_date": "2008-02-01",
+  "entry_into_force": "2008-02-02",
+  "notification_date": "2008-09-25",
+  "commission_reference": "MNE(2008)55220",
+  "nim_celex": "71992L0057LVA_158173",
+  "nim_id": "158173",
+  "transposes_celex": [
+    "31992L0057"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7206263e-1e90-40cc-8734-036eff42b480",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
