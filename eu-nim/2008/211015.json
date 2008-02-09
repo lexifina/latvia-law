@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2008.gada 5.februāra noteikumi Nr.76 \"Veselības inspekcijas nolikums\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "22 (3806)",
+  "official_journal_page": null,
+  "official_journal_date": "2008-02-08",
+  "entry_into_force": "2008-02-09",
+  "notification_date": "2013-11-28",
+  "commission_reference": "MNE(2013)59291",
+  "nim_celex": "72011L0024LVA_211015",
+  "nim_id": "211015",
+  "transposes_celex": [
+    "32011L0024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c00e1f56-ffc0-4664-977a-8a6ace1c3273",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
