@@ -1,0 +1,1 @@
+2.pants. Saskaņā ar Konvencijas 31.panta 2.punktu Ārlietu ministrija informē Eiropas Padomes ģenerālsekretāru par to, ka Latvijas Republika nepiemēros jurisdikciju Konvencijas 31.panta 1.punkta "d" un "e" apakšpunkta noteikumiem.
