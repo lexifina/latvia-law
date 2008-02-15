@@ -1,0 +1,1 @@
+34. Ja šā likuma 26.¹ panta otrajā daļā noteiktajā kārtībā bijušajiem īpašniekiem vai viņu mantiniekiem bijušā īpašuma vietā piešķir līdzvērtīgu zemi pēc 2008.gada 1.janvāra, zemes kadastrālo vērtību līdzvērtīgas zemes platības noteikšanai aprēķina pēc vērtības, kāda tā bija 2007.gada 31.decembrī.

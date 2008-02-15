@@ -1,0 +1,1 @@
+14.¹ Rīgas pilsētas pašvaldības dome šā likuma 6.panta otrajā daļā minēto lēmumu par neapbūvēta zemesgabala nodošanu privatizācijai vai pamatotu atteikumu par neapbūvēta zemesgabala privatizācijas ierosinājuma noraidīšanu pieņem līdz 2009.gada 30.decembrim.

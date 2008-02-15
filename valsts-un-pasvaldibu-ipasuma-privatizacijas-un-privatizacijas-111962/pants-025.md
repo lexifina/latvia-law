@@ -1,6 +1,6 @@
 25.pants. Rīcība ar neizpirkto lauku apvidus zemi
 (1) Juridiskajām un fiziskajām personām, kurām zeme piešķirta pastāvīgā lietošanā, zemes pastāvīgās lietošanas tiesības izbeidzas, ja:
-1) līdz pabeigšanas datumam vai - šā likuma 23.panta otrās daļas 1.punktā minētajā gadījumā - līdz 2007.gada 30.novembrim persona nav iesniegusi zemes izpirkšanas (pirkšanas) pieprasījumu vai tas nav iekļauts Lauku zemes izpirkšanas reģistrā;
+1) līdz pabeigšanas datumam vai - šā likuma 23.panta otrajā daļā minētajos gadījumos - līdz 2007.gada 30.novembrim persona nav iesniegusi zemes izpirkšanas (pirkšanas) pieprasījumu vai tas nav iekļauts Lauku zemes izpirkšanas reģistrā;
 2) līdz 2008.gada 1.septembrim nav iesniegts Valsts zemes dienesta reģionālajā nodaļā reģistrācijai Valsts nekustamā īpašuma kadastra informācijas sistēmā zemes robežu plāns vai apliecinājums par priekšapmaksas veikšanu privatizācijas sertifikātos pirms zemes izpirkuma (pirkuma) līguma slēgšanas (32.pants);
 3) līdz 2009.gada 31.augustam Valsts zemes dienesta reģionālajai nodaļai nav iesniegts iesniegums un attiecīgie dokumenti lēmuma pieņemšanai par zemes piešķiršanu īpašumā par samaksu vai saņemts atteikums izpirkt (pirkt) zemi;
 4) līdz 2009.gada 30.decembrim nav noslēgts zemes izpirkuma (pirkuma) līgums ar valsts akciju sabiedrību "Latvijas Hipotēku un zemes banka", arī tādā gadījumā, ja līdz zemes kadastrālajai uzmērīšanai un izpirkuma (pirkuma) līguma slēgšanai ir veikta priekšapmaksa.
