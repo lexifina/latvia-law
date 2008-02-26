@@ -25,7 +25,8 @@ b) veikt intervences noliktavu uzraudzību atbilstoši normatīvo aktu prasībā
 14) izveidot, aktualizēt un uzturēt 4.panta 10.¹daļā minētos reģistrus un datu bāzes;
 14¹) izveidot un uzturēt šā likuma 10.panta ceturtajā daļā minēto pārtikas pārvadāšanas atļauju datubāzi;
 15) nodrošināt Ģenētiski modificēto organismu un jaunās pārtikas uzraudzības padomes darbu;
-16) uzraudzīt un kontrolēt institūcijas, kas pārbauda to personu darbību, kuras piedalās pārtikas kvalitātes shēmās.
+16) uzraudzīt un kontrolēt institūcijas, kas pārbauda to personu darbību, kuras piedalās pārtikas kvalitātes shēmās;
+17) atzīt un uzraudzīt laboratorijas, kas veic svaigpiena kvalitātes laboratoriskos izmeklējumus.
 (3) Pārtikas aprites valsts uzraudzību un kontroli Pārtikas un veterinārais dienests veic saskaņā ar Pārtikas padomē izvērtētajām uzraudzības programmām, ievērojot likumā par valsts budžetu kārtējam gadam piešķirto apropriāciju.
 (4) Prasības tādas pārtikas ievešanai no trešajām valstīm, kura nav pakļauta veterinārajai kontrolei, kā arī kontroles kārtību valsts robežkontroles punktos, brīvajās zonās, brīvajās noliktavās un muitas noliktavās nosaka Ministru kabinets.
 (5) Prasības iekārtojumam kontroles punktos, kuros veic pārtikas sanitāro robežkontroli, un kontroles punktu atzīšanas kārtību nosaka Ministru kabinets.

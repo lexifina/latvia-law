@@ -11,3 +11,5 @@
 (10¹) Ministru kabinets nosaka kārtību, kādā Pārtikas un veterinārais dienests reģistrē uztura bagātinātājus un diētisko pārtiku, izveido un uztur attiecīgos reģistrus un datu bāzes, izsniedz atļaujas ģenētiski modificēto organismu ierobežotai izmantošanai un izplatīšanai tirgū un dabīgā minerālūdens izplatīšanai, kā arī izvērtē mātes piena aizstājēju reklāmas atbilstību normatīvajos aktos noteiktajām prasībām.
 (11) Ātrās reaģēšanas sistēmas darbību, kas ir pārtikas apritē iesaistīto personu un kompetento institūciju saskaņota un organizēta informācijas apmaiņa un rīcība, gadījumos, kad pastāv tiešs vai netiešs pārtikas radīts risks cilvēku veselībai un dzīvībai, nosaka Ministru kabinets.
 (12) Ministru kabinets nosaka pārtikas kvalitātes shēmu prasības, kā arī to ieviešanas, darbības, uzraudzības un kontroles kārtību.
+(13) Ministru kabinets nosaka dzīvnieku liemeņu klasificētāju un Pārtikas un veterinārā dienesta inspektoru apmācības kārtību.
+(14) Ministru kabinets nosaka kārtību, kādā atzīst un uzrauga laboratorijas, kas veic svaigpiena kvalitātes laboratoriskos izmeklējumus.
