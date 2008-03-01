@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2000.gada 7.marta noteikumos Nr.92 'Noteikumi par mājsaimniecības elektrisko ledusskapju un saldētavu energoefektivitāti un atbilstības novērtēšanu'",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "34",
+  "official_journal_page": null,
+  "official_journal_date": "2008-02-29",
+  "entry_into_force": "2008-03-01",
+  "notification_date": "2008-03-18",
+  "commission_reference": "MNE(2008)51772",
+  "nim_celex": "71996L0057LVA_154531",
+  "nim_id": "154531",
+  "transposes_celex": [
+    "31996L0057",
+    "32005L0032",
+    "32009L0125"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8e74542e-b37f-423b-b78e-85546579810c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
