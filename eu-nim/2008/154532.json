@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2002.gada 8.oktobra noteikumos Nr.453 'Būtiskās prasības un marķēšanas kārtība luminiscējošo spuldžu balastiem'",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "34",
+  "official_journal_page": null,
+  "official_journal_date": "2008-02-29",
+  "entry_into_force": "2008-03-01",
+  "notification_date": "2008-03-18",
+  "commission_reference": "MNE(2008)51773",
+  "nim_celex": "72000L0055LVA_154532",
+  "nim_id": "154532",
+  "transposes_celex": [
+    "32000L0055",
+    "32005L0032",
+    "32009L0125"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b3a18f1c-c8aa-453a-8903-32d7e230c5d8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
