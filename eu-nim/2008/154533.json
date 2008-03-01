@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2004.gada 22.aprīļa noteikumos Nr.416 'Noteikumi par ūdenssildāmajiem katliem'",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "34",
+  "official_journal_page": null,
+  "official_journal_date": "2008-02-29",
+  "entry_into_force": "2008-03-01",
+  "notification_date": "2008-03-18",
+  "commission_reference": "MNE(2008)51774",
+  "nim_celex": "72005L0032LVA_154533",
+  "nim_id": "154533",
+  "transposes_celex": [
+    "32005L0032",
+    "32009L0125"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ba976673-88bb-4b9c-8a3d-12b09037c5ef",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
