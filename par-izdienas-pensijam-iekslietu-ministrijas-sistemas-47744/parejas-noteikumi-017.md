@@ -1,0 +1,1 @@
+17. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2008.gada 1.maijam ir spēkā Ministru kabineta 1999.gada 23.marta noteikumi Nr.118 "Kārtība, kādā izmaksājama izdienas pensija Iekšlietu ministrijas sistēmas darbiniekiem ar speciālajām dienesta pakāpēm", ciktāl tie nav pretrunā ar šo likumu.

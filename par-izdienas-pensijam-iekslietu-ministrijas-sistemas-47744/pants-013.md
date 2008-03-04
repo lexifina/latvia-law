@@ -1,3 +1,4 @@
 13.pants. Sakarā ar personas nāvi nesaņemtās izdienas pensijas un apbedīšanas pabalsta izmaksa
 (1) Izmaksai aprēķinātās izdienas pensijas summas, kas nav izmaksātas līdz izdienas pensijas saņēmēja nāvei, ir tiesības saņemt pensijas saņēmēja laulātajam vai arī pirmās vai otrās pakāpes radiniekam.
 (2) Izdienas pensijas saņēmēja nāves gadījumā viņa ģimenei vai personai, kas uzņēmusies apbedīšanu, izmaksā apbedīšanas pabalstu divu mēnešu izdienas pensijas apmērā.
+(3) Apbedīšanas pabalsta saņemšanai tā pieprasītājs vai viņa pilnvarota persona 12 mēnešu laikā no izdienas pensijas saņēmēja nāves dienas iesniedz iesniegumu Iekšlietu ministrijas Veselības un sociālo lietu valsts aģentūrai vai - ārpus Rīgas, Jūrmalas, Ogres un Jelgavas pilsētu un rajonu administratīvajām teritorijām - jebkurai Valsts policijas teritoriālajai struktūrvienībai, uzrāda personu apliecinošu dokumentu un izdienas pensijas saņēmēja miršanas apliecības oriģinālu.
