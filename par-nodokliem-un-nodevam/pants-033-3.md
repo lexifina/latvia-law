@@ -3,3 +3,6 @@
 (2) Ja nodokļu pārkāpums (budžetā iemaksājamās nodokļa summas samazināšana) triju gadu laikā ir izdarīts pirmo reizi, nodokļu administrācijas uzlikto (aprēķināto) atlikušo soda naudu samazina pilnā apmērā.
 (3) Ja nodokļu pārkāpums triju gadu laikā ir izdarīts atkārtoti un abos gadījumos budžetā iemaksājamā nodokļa summa ir samazināta ne vairāk kā par 15 procentiem, nodokļu administrācijas uzlikto (aprēķināto) atlikušo soda naudu samazina līdz 35 procentiem.
 (4) Ja nodokļu pārkāpums triju gadu laikā ir izdarīts atkārtoti un vienā no abiem gadījumiem budžetā iemaksājamā nodokļa summa ir samazināta ne vairāk kā par 15 procentiem, nodokļu administrācijas uzlikto (aprēķināto) atlikušo soda naudu samazina līdz 50 procentiem.
+(5) Nodokļu administrācijas uzlikto (aprēķināto) atlikušo soda naudu samazina līdz 65 procentiem šādos gadījumos:
+1) ja nodokļu maksātājam ir aprēķināta soda nauda saskaņā ar šā likuma 34.pantu;
+2) ja nodokļu maksātājam ir aprēķināta soda nauda saskaņā ar likuma "Par valsts sociālo apdrošināšanu" 16.¹ panta pirmo daļu.

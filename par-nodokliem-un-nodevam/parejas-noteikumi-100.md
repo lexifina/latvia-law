@@ -1,0 +1,1 @@
+100. Šā likuma 22.panta 2.¹ daļa stājas spēkā vienlaikus ar attiecīgiem grozījumiem Fizisko personu datu aizsardzības likuma 15.pantā, kas paredz informācijas izpaušanas aizlieguma noteikšanu valsts finanšu interešu nodrošināšanai nodokļu jomā.

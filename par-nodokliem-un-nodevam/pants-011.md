@@ -96,4 +96,5 @@
 82) par maksātnespējas procesa administratora sertifikāta darbības termiņa pagarināšanu;
 83) par ārējo personas datu apstrādes sistēmu auditoru akreditāciju;
 84) par ārējā personas datu apstrādes sistēmas auditora akreditācijas termiņa pagarināšanu, apliecības dublikāta izsniegšanu un akreditācijas darbības atjaunošanu;
-85) par ietekmes uz vidi sākotnējā izvērtējuma veikšanu.
+85) par ietekmes uz vidi sākotnējā izvērtējuma veikšanu;
+86) par stratēģiskas nozīmes preču ekspertu izziņu, galīgā izlietojuma apliecinājumu, importa sertifikātu, piegādes kontroles sertifikātu un stratēģiskas nozīmes preču pārvietošanas, eksporta, importa un tranzīta licenču izsniegšanu.
