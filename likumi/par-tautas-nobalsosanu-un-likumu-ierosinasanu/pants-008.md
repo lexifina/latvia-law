@@ -1,1 +1,2 @@
-8. pants. Parakstu vākšanas lapās saskaņā ar ierakstu Latvijas pilsoņa pasē atzīmējams katra tautas nobalsošanas ierosinājuma parakstītāja vārds, uzvārds, personas kods un parakstīšanas datums.
+8. pants. (1) Parakstu vākšanas lapās saskaņā ar ierakstu Latvijas pilsoņa pasē atzīmējams katra tautas nobalsošanas ierosinājuma parakstītāja vārds, uzvārds, personas kods un parakstīšanas datums.
+(2) Ja vēlētājs fizisku trūkumu dēļ pats nespēj parakstīties parakstu vākšanas lapā, šā vēlētāja klātbūtnē pēc viņa mutvārdu norādījuma sarakstā parakstās viņa ģimenes loceklis vai kāda cita persona, kurai vēlētājs uzticas. Par to sarakstā tiek izdarīta attiecīga atzīme.
