@@ -1,0 +1,1 @@
+3.pants. Nolīgums stājas spēkā tā 26.pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo laikrakstā "Latvijas Vēstnesis". Nolīgumu piemēro pagaidu kārtībā saskaņā ar tā 25.panta 1.punktu.

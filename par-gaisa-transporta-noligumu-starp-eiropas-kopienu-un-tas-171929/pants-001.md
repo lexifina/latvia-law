@@ -1,0 +1,1 @@
+1.pants. 2007.gada 25.aprīlī Briselē un 2007.gada 30.aprīlī Vašingtonā parakstītais Gaisa transporta nolīgums starp Eiropas Kopienu un tās dalībvalstīm, no vienas puses, un Amerikas Savienotajām Valstīm, no otras puses (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.
