@@ -1,0 +1,1 @@
+3.pants. Grozījums stājas spēkā Konvencijas par pieeju informācijai, sabiedrības dalību lēmumu pieņemšanā un iespēju griezties tiesu iestādēs saistībā ar vides jautājumiem 14.pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo laikrakstā "Latvijas Vēstnesis".
