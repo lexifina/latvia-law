@@ -1,0 +1,1 @@
+1.pants. 1998.gada 25.jūnija Konvencijas par pieeju informācijai, sabiedrības dalību lēmumu pieņemšanā un iespēju griezties tiesu iestādēs saistībā ar vides jautājumiem 2003.gada 21.maija Protokols par piesārņojošo vielu un izmešu pārneses reģistriem (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
