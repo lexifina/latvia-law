@@ -1,0 +1,1 @@
+1.pants. 2007.gada 12.oktobrī Tallinā parakstītais Latvijas Republikas valdības un Igaunijas Republikas valdības līgums par bijušajā PSRS uzkrāto apdrošināšanas periodu ieskaitīšanu (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
