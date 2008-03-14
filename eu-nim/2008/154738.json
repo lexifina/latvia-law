@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2005.gada 28.jūnija noteikumos Nr.455 \"Kārtība, kādā tiek veikta mērīšanas līdzekļu tipa apstiprināšana, pirmreizējā verificēšana un tirgus uzraudzība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "41",
+  "official_journal_page": null,
+  "official_journal_date": "2008-03-13",
+  "entry_into_force": "2008-03-14",
+  "notification_date": "2008-04-10",
+  "commission_reference": "MNE(2008)51975",
+  "nim_celex": "71971L0316LVA_154738",
+  "nim_id": "154738",
+  "transposes_celex": [
+    "31971L0316",
+    "32004L0022",
+    "32006L0096",
+    "32007L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f109f822-aff5-475a-9f52-bb08aa3cba48",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
