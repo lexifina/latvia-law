@@ -7,4 +7,5 @@
 5) ja pasludināts spriedums citā lietā par to pašu prasījuma priekšmetu;
 6) citos gadījumos, kad tiesvedības turpināšana lietā nav iespējama.
 (2) Pārmaiņas vēlētas institūcijas sastāvā vai amatpersonas nomaiņa pēc tam, kad iesniegts pieteikums, nav pietiekams pamats, lai atteiktos ierosināt lietu vai izbeigtu tiesvedību lietā.
-(3) Ja pieņemts lēmums par tiesvedības izbeigšanu lietā, triju dienu laikā pēc tā pieņemšanas lēmuma norakstu nosūta lietas dalībniekiem un publicēšanai laikrakstā "Latvijas Vēstnesis".
+(2¹) Satversmes tiesas lēmumā par tiesvedības izbeigšanu sniegtā tiesību normas interpretācija ir obligāta visām valsts un pašvaldību institūcijām (arī tiesām) un amatpersonām, kā arī fiziskajām un juridiskajām personām.
+(3) Satversmes tiesas lēmumu par tiesvedības izbeigšanu ne vēlāk kā piecu dienu laikā pēc tā pieņemšanas publicē laikrakstā "Latvijas Vēstnesis", kā arī atbilstoši Satversmes tiesas reglamentam nosūta vai izsniedz lietas dalībniekiem.

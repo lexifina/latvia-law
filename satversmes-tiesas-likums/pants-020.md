@@ -14,6 +14,6 @@
 (9) Ja pieņemts lēmums par lietas ierosināšanu, triju dienu laikā pēc tā pieņemšanas:
 1) nosūta lēmuma norakstu lietas dalībniekiem;
 2) nosūta pieteikuma norakstu institūcijai vai amatpersonai, kas izdevusi apstrīdēto aktu;
-3) uzaicina institūciju vai amatpersonu, kas izdevusi apstrīdēto aktu, Satversmes tiesas tiesneša noteiktajā laikā iesniegt savu atbildes rakstu ar lietas faktisko apstākļu izklāstu un juridisku pamatojumu;
+3) uzaicina institūciju vai amatpersonu, kas izdevusi apstrīdēto aktu, lēmumā par lietas ierosināšanu noteiktajā laikā, kas nav īsāks par vienu mēnesi, iesniegt atbildes rakstu ar lietas faktisko apstākļu izklāstu un juridisku pamatojumu;
 4) nosūta publicēšanai laikrakstā "Latvijas Vēstnesis" informāciju par lietas ierosināšanu, kurā norāda kolēģiju, kas lietu ierosinājusi, pieteikuma iesniedzēju un lietas nosaukumu.
 (10) Ja pieņemts lēmums par atteikšanos ierosināt lietu, triju dienu laikā pēc tā pieņemšanas lēmuma norakstu nosūta pieteikuma iesniedzējam, bet gadījumos, kad pieteikumu iesniedz ne mazāk kā divdesmit Saeimas deputātu, - viņu pilnvarotajam pārstāvim.

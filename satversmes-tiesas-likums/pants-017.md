@@ -7,7 +7,7 @@
 5) ģenerālprokuroram;
 6) Valsts kontroles padomei;
 7) pašvaldības domei (padomei);
-8) Valsts cilvēktiesību birojam;
+8) tiesībsargam, ja institūcija vai amatpersona, kas izdevusi apstrīdēto aktu, nav tiesībsarga norādītajā termiņā novērsusi konstatētos trūkumus;
 9) tiesai, izskatot civillietu, krimināllietu vai administratīvo lietu;
 10) zemesgrāmatu nodaļas tiesnesim, veicot nekustamā īpašuma ierakstīšanu vai ar to saistīto tiesību nostiprināšanu zemesgrāmatā;
 11) personai Satversmē noteikto pamattiesību aizskāruma gadījumā.

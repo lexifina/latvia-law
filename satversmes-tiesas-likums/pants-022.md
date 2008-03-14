@@ -1,7 +1,7 @@
 22.pants. Lietas sagatavošana izskatīšanai
 (1) Kad lieta ierosināta, Satversmes tiesas priekšsēdētājs uzdod vienam no tiesnešiem to sagatavot izskatīšanai.
 (2) Lietu sagatavojot, tiesnesis, ja nepieciešams:
-1) pieprasa papildu paskaidrojumus un dokumentus no pieteikuma iesniedzēja, no institūcijas vai amatpersonas, kas izdevusi apstrīdēto aktu, kā arī no jebkuras valsts vai pašvaldības institūcijas, iestādes vai amatpersonas;
+1) lemj par atbildes raksta iesniegšanas termiņa pagarināšanu, pieprasa papildu paskaidrojumus un dokumentus no pieteikuma iesniedzēja, no institūcijas vai amatpersonas, kas izdevusi apstrīdēto aktu, kā arī no jebkuras valsts vai pašvaldības institūcijas, iestādes vai amatpersonas;
 2) nosaka pieaicinātās personas un pieprasa, lai tās izsaka savu viedokli;
 3) lemj par ekspertīzes noteikšanu lietā.
 (3) Par pieaicināto personu ar tiesneša lēmumu var atzīt ikvienu personu, kuras viedokļa uzklausīšana var sekmēt vispusīgu un objektīvu lietas izskatīšanu.
