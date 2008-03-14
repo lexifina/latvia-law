@@ -1,0 +1,1 @@
+1.pants. 2007.gada 22.novembrī Rīgā parakstītais Latvijas Republikas valdības un Ungārijas Republikas valdības līgums par abpusēju pārstāvību diplomātiskajās un konsulārajās pārstāvniecībās vīzu izsniegšanā un biometrisko datu vākšanā (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.

@@ -1,0 +1,1 @@
+2.pants. Līgumā paredzēto saistību izpildi koordinē Ārlietu ministrija. Ārlietu ministrija laikrakstā "Latvijas Vēstnesis" paziņo par diplomātiskajām un konsulārajām pārstāvniecībām, uz kurām attiecināms Līgums saskaņā ar tā 7.pantu.
