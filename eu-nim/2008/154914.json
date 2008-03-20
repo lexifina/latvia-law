@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "MK 26.08.2003.noteikumi Nr.476 'Noteikumi par pesticīdu atlieku kontroli augu valsts izcelsmes produktos'.",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "45",
+  "official_journal_page": null,
+  "official_journal_date": "2008-03-20",
+  "entry_into_force": null,
+  "notification_date": "2008-04-10",
+  "commission_reference": "MNE(2008)52139",
+  "nim_celex": "72006L0009LVA_154914",
+  "nim_id": "154914",
+  "transposes_celex": [
+    "32006L0009",
+    "32007L0055",
+    "32007L0057",
+    "32007L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/60d4490a-0fd2-464c-afea-9dc8b6e796b3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
