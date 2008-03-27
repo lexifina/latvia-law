@@ -22,7 +22,8 @@
 20) normatīvajos aktos noteiktajā kārtībā administrē soda naudas par valstij piešķirtās piena ražošanas kvotas pārsniegšanu;
 21) normatīvajos aktos noteiktajā kārtībā administrē augkopības produkcijas kvotas;
 22) veic ražotāju grupu atzīšanu un to atzīšanas kontroli;
-23) normatīvajos aktos noteiktajā kārtībā sniedz informāciju Eiropas Komisijai.
+23) normatīvajos aktos noteiktajā kārtībā sniedz informāciju Eiropas Komisijai;
+24) normatīvajos aktos noteiktajā kārtībā administrē lauksaimniecības risku fondu.
 (2) (Izslēgta ar 07.04.2004. likumu.)
 (3) (Izslēgta ar 07.04.2004. likumu.)
 (4) (Izslēgta ar 07.04.2004. likumu.)
