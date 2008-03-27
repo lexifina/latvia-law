@@ -5,6 +5,7 @@
 (2) Lauksaimniecības un lauku attīstības politikas īstenošanas veidi ir šādi:
 1) valsts un Eiropas Savienības atbalsts;
 2) kredītu un nodokļu politika;
+2¹) risku vadības politika;
 3) tirgus intervence;
 4) kvotu piemērošana;
 5) ārējās tirdzniecības režīma piemērošana;
