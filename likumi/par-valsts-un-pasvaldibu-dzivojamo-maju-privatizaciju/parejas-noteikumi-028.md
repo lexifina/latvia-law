@@ -1,1 +1,1 @@
-28. Centrālā dzīvojamo māju privatizācijas komisija saņem dotāciju no valsts budžeta vispārējiem ieņēmumiem dzīvojamo māju uzturēšanai to privatizācijas procesa laikā līdz šo māju nodošanai valsts aģentūrai "Mājokļu aģentūra" saskaņā ar valsts budžeta likumu 2004.gadam.
+28. Centrālā dzīvojamo māju privatizācijas komisija saņem dotāciju no valsts budžeta vispārējiem ieņēmumiem dzīvojamo māju uzturēšanai to privatizācijas procesa laikā līdz šo māju nodošanai Būvniecības, enerģētikas un mājokļu valsts aģentūrai saskaņā ar valsts budžeta likumu 2004.gadam.

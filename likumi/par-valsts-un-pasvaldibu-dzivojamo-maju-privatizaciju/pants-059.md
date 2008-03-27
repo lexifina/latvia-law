@@ -1,5 +1,5 @@
-59.pants. Valsts aģentūras "Mājokļu aģentūra" kompetence
-(1) Valsts aģentūrai "Mājokļu aģentūra" ir pienākums:
+59.pants. Būvniecības, enerģētikas un mājokļu valsts aģentūras kompetence
+(1) Būvniecības, enerģētikas un mājokļu valsts aģentūrai ir pienākums:
 1) uzraudzīt pilsētu un pagastu dzīvojamo māju privatizācijas komisiju darbību;
 2) (izslēgts ar 20.11.2003. likumu);
 3) izstrādāt privatizācijas nodrošināšanai nepieciešamo normatīvo aktu projektus;
@@ -15,7 +15,7 @@
 13) veikt dzīvojamās mājās esošo valsts daļu pārvaldīšanas un apsaimniekošanas uzraudzību;
 14) pārvaldīt tās valdījumā esošās valsts dzīvojamās mājas līdz to nodošanai dzīvokļu īpašnieku pārvaldīšanā un apsaimniekošanā, ievērojot Civillikuma un citu likumu noteikumus;
 15) izstrādāt un likumos noteiktajā kārtībā saskaņot namu pārvaldnieku izglītības programmu paraugus namu pārvaldīšanas un apsaimniekošanas jomā.
-(2) Valsts aģentūrai "Mājokļu aģentūra" ir tiesības:
+(2) Būvniecības, enerģētikas un mājokļu valsts aģentūrai ir tiesības:
 1) (izslēgts ar 20.11.2003. likumu);
 2) (izslēgts ar 20.11.2003. likumu);
 3) izdot pilsētu un pagastu dzīvojamo māju privatizācijas komisijām metodiskos norādījumus par dzīvojamo māju privatizācijas komisiju darba organizāciju;

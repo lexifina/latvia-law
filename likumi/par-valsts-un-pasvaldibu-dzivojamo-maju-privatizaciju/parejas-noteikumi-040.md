@@ -1,0 +1,1 @@
+40. Privatizētā dzīvokļa un mākslinieka darbnīcas īpašniekam zemes gabala nomas maksa, kas noteikta atbilstoši šā likuma 54.panta otrās daļas pirmajā teikumā noteiktajai kārtībai, 2008., 2009. un 2010.gadā nedrīkst pārsniegt iepriekšējam gadam aprēķināto zemes gabala nomas maksas apmēru vairāk kā par 25 procentiem.

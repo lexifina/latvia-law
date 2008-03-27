@@ -6,6 +6,7 @@
 2) nav celta prasība tiesā par īres līguma izbeigšanu un īrnieka un viņa ģimenes locekļu izlikšanu.
 (3¹) Kopējā dzīvokļa īrnieks un viņa ģimenes locekļi var privatizēt kopējā dzīvokļa domājamo daļu atbilstoši viņa īrētajai dzīvokļa platībai, ja:
 1) kopējā dzīvokļa īrnieki un viņu ģimenes locekļi ir atteikušies no kopējā dzīvokļa privatizācijas šā panta otrajā daļā paredzētajā kārtībā;
+1¹) kopējā dzīvokļa īrnieks un viņa ģimenes locekļi noslēdz notariāli vai privatizācijas komisijas apliecinātu vienošanos par to, kurš vai kuri no viņiem privatizēs kopējā dzīvokļa domājamo daļu;
 2) nav celta prasība tiesā par to īres līgumu izbeigšanu un to īrnieku un viņu ģimenes locekļu izlikšanu, kuri vēlas privatizēt kopējā dzīvokļa domājamo daļu;
 3) ir noslēgta vienošanās ar valsts vai pašvaldības pilnvarotu institūciju par kopējā dzīvokļa turpmākās lietošanas kārtību.
 (4) Ja īrnieki un viņu ģimenes locekļi nevienojas par to, kurš vai kuri no viņiem privatizēs kopējo dzīvokli, vai atsakās no tā privatizācijas, privatizācijas komisija dzīvokli nepiedāvā privatizācijai citām personām. Īrnieki un viņu ģimenes locekļi nezaudē tiesības turpmāk privatizēt kopējo dzīvokli, ievērojot šajā likumā noteikto kārtību, izņemot šā panta piektajā daļā paredzēto gadījumu.

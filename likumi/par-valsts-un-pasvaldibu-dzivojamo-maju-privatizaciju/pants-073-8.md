@@ -1,3 +1,3 @@
 73.⁸ pants. Dzīvokļa, mākslinieka darbnīcas, neapdzīvojamās telpas un to īpašnieku reģistrēšana
 (1) Dzīvoklis, mākslinieka darbnīca, neapdzīvojamā telpa un to īpašnieki līdz dzīvojamās mājas privatizācijai tiek reģistrēti Kadastra reģistrā. Kadastra reģistrā reģistrējamas arī ķīlas tiesības, kas nodibinātas uz dzīvokļa īpašumu, un citi dzīvokļa īpašuma apgrūtinājumi. Reģistrācija Kadastra reģistrā pēc juridiskām sekām pielīdzināma reģistrācijai zemesgrāmatā.
-(2) Valsts zemes dienests ne retāk kā reizi mēnesī ziņo valsts aģentūrai "Mājokļu aģentūra" un attiecīgajām pašvaldībām par reģistrētajiem dzīvokļiem, mākslinieku darbnīcām, neapdzīvojamām telpām un to īpašniekiem.
+(2) Valsts zemes dienests ne retāk kā reizi mēnesī ziņo Būvniecības, enerģētikas un mājokļu valsts aģentūrai un attiecīgajām pašvaldībām par reģistrētajiem dzīvokļiem, mākslinieku darbnīcām, neapdzīvojamām telpām un to īpašniekiem.

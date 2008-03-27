@@ -1,1 +1,0 @@
-16. Pašvaldības dome (padome) vai valsts aģentūra "Mājokļu aģentūra" var pieņemt lēmumu uzsākt to dzīvojamo māju privatizāciju, kuras atrodas brīvajā ekonomiskajā zonā vai speciālajā ekonomiskajā zonā, tikai tad, ja šo māju privatizācija ir saskaņota ar attiecīgās brīvās ekonomiskās zonas vai speciālās ekonomiskās zonas valdi.

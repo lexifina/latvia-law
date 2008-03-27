@@ -1,4 +1,5 @@
 30.¹ Pēc 2006.gada 1.septembra šajā likumā noteiktajā kārtībā privatizē:
-1) dzīvojamās mājas un tajās esošos privatizācijas objektus, ja lēmumi par šo dzīvojamo māju privatizācijas uzsākšanu valsts aģentūrai "Mājokļu aģentūra" vai pašvaldības domei (padomei) jāpieņem ne vēlāk kā līdz 2007.gada 31.decembrim;
-2) dzīvojamo māju domājamās daļas, ja māja ir valsts vai pašvaldības un kādas citas personas kopīpašumā un ja lēmums par dzīvojamās mājas privatizācijas uzsākšanu valsts aģentūrai "Mājokļu aģentūra" vai pašvaldības domei (padomei) jāpieņem ne vēlāk kā līdz 2007.gada 31.decembrim. Šis noteikums attiecas uz tām valsts vai pašvaldības un kādas citas personas kopīpašumā esošajām daudzdzīvokļu mājām, kurās kopīpašums ir izveidojies laikā līdz 2006.gada 31.augustam;
-3) privatizācijas objektus šā likuma 83.pantā paredzētajos gadījumos.
+1) dzīvojamās mājas un tajās esošos dzīvokļus, neapdzīvojamās telpas un mākslinieku darbnīcas, kuru privatizācija Būvniecības, enerģētikas un mājokļu valsts aģentūrai vai pašvaldības domei (padomei) bija jāuzsāk saskaņā ar šā likuma nosacījumiem;
+2) dzīvojamo māju domājamās daļas, ja māja ir valsts vai pašvaldības un kādas citas personas kopīpašumā, kas izveidojies laikā līdz 2006.gada 31.augustam;
+3) likumā noteiktajā kārtībā par bezīpašnieka mantu atzītās dzīvojamās mājas, to domājamās daļas un dzīvokļu īpašumus, kuri tiek izīrēti vai kuros dzīvojošās personas tur iemitinātas tiesiski;
+4) privatizācijas objektus šā likuma 83.pantā paredzētajos gadījumos.
