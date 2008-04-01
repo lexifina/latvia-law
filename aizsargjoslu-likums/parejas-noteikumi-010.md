@@ -1,0 +1,1 @@
+10. Vietējo pašvaldību domes (padomes) izvērtē savus teritorijas plānojumus un, ja nepieciešams, ne vēlāk kā 18 mēnešu laikā pēc tam, kad stājušies spēkā grozījumi šā likuma 1., 7. un 37.pantā, izstrādā un apstiprina nepieciešamos grozījumus teritoriju plānojumos, lai nodrošinātu virszemes ūdensobjektu aizsargjoslas noteikšanu atbilstoši likumā paredzētajam.

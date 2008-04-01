@@ -1,0 +1,1 @@
+11. Ministru kabinets līdz 2008.gada 1.jūnijam izdod virszemes ūdensobjektu aizsargjoslu noteikšanas metodiku. Līdz jaunās metodikas spēkā stāšanās dienai tiek piemēroti Ministru kabineta 1998.gada 4.augusta noteikumi Nr.284 "Ūdenstilpju un ūdensteču aizsargjoslu noteikšanas metodika", ciktāl tie nav pretrunā ar šo likumu.
