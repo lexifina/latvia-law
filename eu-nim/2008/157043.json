@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2008.gada 01.aprīļa noteikumi Nr.222 \"Noteikumi par valsts nodevu par vīzas, uzturēšanās atļaujas vai Eiropas Kopienas pastāvīgā iedzīvotāja statusa Latvijas Republikā pieprasīšanai nepieciešamo dokumentu izskatīšanu un ar to saistītajiem pakalpojumiem\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "52",
+  "official_journal_page": null,
+  "official_journal_date": "2008-04-03",
+  "entry_into_force": "2008-04-02",
+  "notification_date": "2008-07-17",
+  "commission_reference": "MNE(2008)54116",
+  "nim_celex": "72004L0038LVA_157043",
+  "nim_id": "157043",
+  "transposes_celex": [
+    "32004L0038"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bcc1a171-aab6-4bf2-b30e-0d034e88157a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
