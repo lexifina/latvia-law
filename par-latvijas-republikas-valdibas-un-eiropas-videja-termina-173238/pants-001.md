@@ -1,0 +1,1 @@
+1.pants. 2008.gada 18.janvārī Redingā parakstītais Latvijas Republikas valdības un Eiropas vidēja termiņa laika prognožu centra (ECMWF) sadarbības līgums (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
