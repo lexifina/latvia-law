@@ -1,2 +1,2 @@
 15. pants. Atbildība par šā likuma noteikumu izpildi
-Par šā likuma 2.-12.panta noteikumu izpildi atbild attiecīgās pašvaldības domes (padomes) priekšsēdētājs, valsts vai pašvaldības iestādes vai uzņēmuma vadītājs, statūtsabiedrības vai arī uzņēmējsabiedrības koleģiālās lēmējinstitūcijas vadītājs.
+Personas, kuras pārkāpušas šā likuma 2.-12.panta noteikumus, saucamas pie likumā noteiktās atbildības. Ja minētos noteikumus pārkāpusi koleģiāla institūcija, saucot pie atbildības šīs institūcijas locekļus, ņem vērā attiecīgā likuma noteikumus par koleģiālas institūcijas locekļu atbildību.

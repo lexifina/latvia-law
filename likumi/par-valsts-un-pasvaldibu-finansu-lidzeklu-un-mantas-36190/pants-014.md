@@ -1,2 +1,2 @@
 14. pants. Dāvinājuma (ziedojuma) piešķiršanas publiskums
-Ar valsts vai pašvaldību institūciju noslēgtajiem dāvinājuma (ziedojuma) līgumiem, kā arī ar informāciju par dāvinājumiem (ziedojumiem), kas izdarīti šā likuma 10.pantā noteiktajā kārtībā, ir tiesības iepazīties jebkuram Latvijas iedzīvotājam un masu informācijas līdzekļa žurnālistam.
+Valsts vai pašvaldību institūciju noslēgtie dāvinājuma (ziedojuma) līgumi, kā arī informācija par dāvinājumiem (ziedojumiem), kas izdarīti šā likuma 10.pantā noteiktajā kārtībā, uzskatāma par vispārpieejamu informāciju un ir ikvienam pieejama saskaņā ar Informācijas atklātības likumu.
