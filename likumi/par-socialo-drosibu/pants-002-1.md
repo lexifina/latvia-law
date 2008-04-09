@@ -1,5 +1,5 @@
 2.¹ pants. Atšķirīgas attieksmes aizliegums
-(1) Nodrošinot sociālos pakalpojumus, aizliegta atšķirīga attieksme atkarībā no personas rases, ādas krāsas, dzimuma, vecuma, invaliditātes, veselības stāvokļa, reliģiskās, politiskās vai citas pārliecības, nacionālās vai sociālās izcelsmes, mantiskā vai ģimenes stāvokļa vai citiem apstākļiem.
+(1) Nodrošinot sociālos pakalpojumus, aizliegta atšķirīga attieksme atkarībā no personas rases, etniskās piederības, ādas krāsas, dzimuma, vecuma, invaliditātes, veselības stāvokļa, reliģiskās, politiskās vai citas pārliecības, nacionālās vai sociālās izcelsmes, mantiskā vai ģimenes stāvokļa vai citiem apstākļiem.
 (2) Atšķirīga attieksme ietver personas tiešu vai netiešu diskrimināciju, personas aizskaršanu vai norādījumu to diskriminēt.
 (3) Tieša diskriminācija pastāv, ja salīdzināmā situācijā attieksme pret personu saistībā ar kādu no šā panta pirmajā daļā minētajiem apstākļiem ir, bija vai var būt mazāk labvēlīga nekā pret citu personu.
 (4) Netieša diskriminācija pastāv, ja salīdzināmā situācijā šķietami neitrāls noteikums, kritērijs vai prakse rada vai var radīt nelabvēlīgas sekas personai saistībā ar kādu no šā panta pirmajā daļā minētajiem apstākļiem.
