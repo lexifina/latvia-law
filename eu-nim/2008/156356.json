@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Par Latvijas Republikas Uzņēmumu reģistru",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "47",
+  "official_journal_page": null,
+  "official_journal_date": "2008-03-26",
+  "entry_into_force": "2008-04-09",
+  "notification_date": "2008-06-17",
+  "commission_reference": "MNE(2008)53448",
+  "nim_celex": "72005L0056LVA_156356",
+  "nim_id": "156356",
+  "transposes_celex": [
+    "32005L0056"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a9743eb6-2e3f-4d63-8bf7-db8f314d3941",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
