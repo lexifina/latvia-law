@@ -1,0 +1,3 @@
+4.⁴ pants. Ierakstu izdarīšanas tiesiskais pamats
+Uzņēmumu reģistra amatpersona izdara ierakstus Uzņēmumu reģistra vestajos reģistros, pamatojoties uz ieinteresētās personas pieteikumu, tiesas nolēmumu vai valsts pārvaldes iestādes lēmumu. Ierakstus, pamatojoties uz valsts pārvaldes iestādes lēmumu, izdara tiesību subjekta darbības apturēšanas vai atjaunošanas gadījumā.
+Uzņēmumu reģistra amatpersonai, pamatojoties uz Iedzīvotāju reģistra informāciju, ir tiesības Uzņēmumu reģistra vestajos reģistros aktualizēt ziņas par fiziskajām personām (vārds, uzvārds, personas kods, ziņas par personas nāvi), ja likumā noteiktajā termiņā nav saņemts pieteikums vai tiesas nolēmums par attiecīgu izmaiņu ierakstīšanu.

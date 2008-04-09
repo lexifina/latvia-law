@@ -1,0 +1,1 @@
+11. Šā likuma normas, kas nosaka personas tiesības saņemt ziņas elektroniski no Uzņēmumu reģistra žurnāla un uzņēmuma (uzņēmējsabiedrības) reģistrācijas lietā esošajiem dokumentiem, piemērojamas attiecībā uz ziņām, kuras Uzņēmumu reģistra žurnālā reģistrētas pēc 1997.gada 1.janvāra.

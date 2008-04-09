@@ -5,6 +5,6 @@ Uzņēmuma (uzņēmējsabiedrības) oficiālais un saīsinātais nosaukums (firm
 Uzņēmuma (uzņēmējsabiedrības) oficiālais un saīsinātais nosaukums (firma) nav tulkojami.
 Uzņēmuma (uzņēmējsabiedrības) oficiālais un saīsinātais nosaukums (firma) nedrīkst sakrist ar Uzņēmumu reģistrā agrāk reģistrēta uzņēmuma nosaukumu. Uzņēmuma (uzņēmējsabiedrības) oficiālajā un saīsinātajā nosaukumā (firmā) nedrīkst ietvert tādu valsts, pašvaldību un citu publisko institūciju nosaukumus, kuras realizē valsts varas un pārvaldes funkcijas, kā arī ziņas, kas varētu maldināt par uzņēmuma (uzņēmējsabiedrības) saistību ar šādām institūcijām.
 Uzņēmuma (uzņēmējsabiedrības) oficiālo (firmas) nosaukumu var izmantot uzņēmējdarbībā (komerciālajos līgumos, reklāmā u. c.) no brīža, kad tas reģistrēts Uzņēmumu reģistra žurnālā.
-Katram reģistrācijas numuram Uzņēmumu reģistra žurnālā atbilst lieta (dokumentu krājums) ar tādu pašu numuru. Lietā glabājas visi dokumenti, uz kuru pamata izdarīts ieraksts Uzņēmumu reģistra žurnālā, kā arī citi likumā noteiktie dokumenti.
+Katram reģistrācijas numuram Uzņēmumu reģistra žurnālā atbilst lieta (dokumentu krājums) ar tādu pašu numuru. Lietā glabājas visi dokumenti, uz kuru pamata izdarīts ieraksts Uzņēmumu reģistra žurnālā, kā arī citi likumā noteiktie dokumenti. Gada pārskats un tam pievienojamie dokumenti lietā glabājas tikai elektroniskā formā.
 Uzņēmumu reģistra žurnāls ir pastāvīgi glabājams dokuments.
 Uzņēmumu reģistram pievienotie dokumenti jāuzglabā 20 gadus pēc attiecīgas uzņēmuma (uzņēmējsabiedrības) izslēgšanas no Uzņēmumu reģistra žurnāla.

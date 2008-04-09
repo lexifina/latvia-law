@@ -25,12 +25,13 @@ Par individuālo uzņēmumu un zemnieku saimniecību Uzņēmumu reģistra žurn�
 Par kooperatīvajām sabiedrībām papildus šā panta pirmās daļas 1.-8.punktā norādītajam Uzņēmumu reģistra žurnālā ierakstāmas šādas ziņas:
 1) valdes locekļu tiesības pārstāvēt kooperatīvo sabiedrību atsevišķi, kopīgi vai kopīgi ar prokūristu;
 2) prokūrista vārds, uzvārds un personas kods, kā arī norāde uz kopprokūru vai filiāles prokūru, ja tāda izdota, un norāde uz Komerclikuma 34.panta otrajā daļā minēto tiesību piešķiršanu, ja tādas piešķirtas.
-Par uzņēmuma (uzņēmējsabiedrības) darbības izbeigšanos Uzņēmumu reģistra žurnālā ieraksta:
+Par uzņēmuma (uzņēmējsabiedrības) darbības apturēšanu, atjaunošanu vai izbeigšanu Uzņēmumu reģistra žurnālā ierakstāms:
 1) tiesas lēmums par administratora iecelšanu un atcelšanu, kā arī administratora vārds, uzvārds, personas kods, adrese, darbības vieta, bet, ja administrators ir juridiskā persona, - nosaukums, reģistrācijas numurs un juridiskā adrese, kā arī iepriekš minētā informācija par administratora pārstāvjiem maksātnespējas procesā;
 2) tiesas spriedums par uzņēmuma (uzņēmējsabiedrības) maksātnespējas pasludināšanu, kreditoru sapulces lēmums par uzņēmuma (uzņēmējsabiedrības) bankrota procedūras uzsākšanu, par sanācijas plāna pieņemšanu, par grozījumiem sanācijas plānā, par sanācijas termiņa pagarināšanu, tiesas lēmums par mierizlīguma apstiprināšanu, par mierizlīguma atcelšanu, par uzņēmuma (uzņēmējsabiedrības) bankrota procedūras pabeigšanu, par maksātnespējas procesa izbeigšanu;
 3) lēmums par uzņēmuma (uzņēmējsabiedrības) darbības izbeigšanu un likvidācijas uzsākšanu, kā arī likvidatoru vārds, uzvārds, personas kods, adrese un paraksta tiesības, bet, ja likvidators ir juridiskā persona, - nosaukums, reģistrācijas numurs un juridiskā adrese, kā arī iepriekš minētā informācija par likvidatora pārstāvjiem likvidācijas procesā;
 4) tiesas spriedums, ar kuru aizliegts Uzņēmumu reģistra žurnālā ierakstītajam uzņēmumam (uzņēmējsabiedrībai), tā filiālēm un pārstāvniecībām veikt uzņēmējdarbību;
-5) tiesas spriedums par aizgādnības vai aizbildnības nodibināšanu, atcelšanu vai izbeigšanu un aizgādņu vai aizbildņu iecelšanu, kā arī aizgādņu vai aizbildņu vārds un uzvārds.
+5) tiesas spriedums par aizgādnības vai aizbildnības nodibināšanu, atcelšanu vai izbeigšanu un aizgādņu vai aizbildņu iecelšanu, kā arī aizgādņu vai aizbildņu vārds un uzvārds;
+6) valsts pārvaldes iestādes lēmums par uzņēmuma (uzņēmējsabiedrības) darbības apturēšanu vai atjaunošanu.
 Ja tiesa ar spriedumu aizliedz uzņēmumam (uzņēmējsabiedrībai) darboties vai slēdz šādu uzņēmumu vai tā filiāli, vai pārstāvniecību, uzņēmumam (uzņēmējsabiedrībai) pēc tiesas sprieduma spēkā stāšanās tas 7 dienu laikā jāpieteic reģistrācijai.
 Par izšķirošo ietekmi uz līdzdalības pamata Uzņēmumu reģistra žurnālā ieraksta:
 1) izšķirošās ietekmes pamatu;
