@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ēku energoefektivitātes likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "51 (3835)",
+  "official_journal_page": null,
+  "official_journal_date": "2008-04-02",
+  "entry_into_force": "2008-04-16",
+  "notification_date": "2010-12-14",
+  "commission_reference": "MNE(2010)57467",
+  "nim_celex": "72009L0028LVA_174403",
+  "nim_id": "174403",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/1d1e6af9-95b1-4fd6-bf29-c3ed971ddcae",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
