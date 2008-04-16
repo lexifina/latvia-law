@@ -1,0 +1,1 @@
+5. Šā likuma 1.panta 1.punkta jaunā redakcija (termina "dominējošais stāvoklis" skaidrojums), kā arī 13.panta jaunā redakcija (dominējošā stāvokļa ļaunprātīgas izmantošanas aizliegums) un 14.panta jaunā redakcija (atbildība par dominējošā stāvokļa ļaunprātīgu izmantošanu) stājas spēkā 2008.gada 1.oktobrī.

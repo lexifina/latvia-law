@@ -1,7 +1,7 @@
 6.pants. Konkurences padomes uzdevumi
 (1) Konkurences padome:
-1) uzrauga, kā tiek ievērots tirgus dalībnieku dominējošā stāvokļa ļaunprātīgas izmantošanas, negodīgas konkurences un vienošanās aizliegums, kas noteikts šajā likumā, citos normatīvajos aktos un starptautiskajos līgumos;
-2) uzrauga Reklāmas likuma ievērošanu;
+1) uzrauga, kā tiek ievērots tirgus dalībnieku dominējošā stāvokļa ļaunprātīgas izmantošanas un vienošanās aizliegums, kas noteikts šajā likumā, citos normatīvajos aktos un starptautiskajos līgumos;
+2) uzrauga negodīgas konkurences aizlieguma un Reklāmas likuma ievērošanu savas kompetences ietvaros;
 3) izskata iesniegtos ziņojumus par tirgus dalībnieku vienošanos un pieņem lēmumus par tiem;
 4) ierobežo tirgus koncentrāciju, pieņemot lēmumus sakarā ar tirgus dalībnieku apvienošanos;
 5) atbilstoši savai kompetencei sadarbojas ar attiecīgām ārvalstu institūcijām.

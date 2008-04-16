@@ -7,10 +7,10 @@
 5) piedalīšanos vai nepiedalīšanos konkursos vai izsolēs vai par šīs darbības (bezdarbības) noteikumiem, izņemot gadījumus, kad konkurenti publiski darījuši zināmu kopīgu piedāvājumu un šā piedāvājuma mērķis nav kavēt, ierobežot vai deformēt konkurenci;
 6) nevienādu noteikumu piemērošanu ekvivalentos darījumos ar trešajām personām, radot tām konkurences ziņā nelabvēlīgākus apstākļus;
 7) darbībām (bezdarbību), kuru dēļ cits tirgus dalībnieks ir spiests atstāt kādu konkrēto tirgu vai tiek apgrūtināta potenciāla tirgus dalībnieka iekļūšana kādā konkrētajā tirgū.
-(2) Konkurences padome šā panta pirmajā daļā minētās vienošanās, pieņemot attiecīgu lēmumu, var atļaut vai atļaut ar nosacījumiem uz noteiktu termiņu, ja Ministru kabineta noteiktajā kārtībā tirgus dalībnieki ir iesnieguši Konkurences padomei paziņojumu par vienošanos un par to nav ierosināta lieta, un ja tā konstatē, ka vienošanās veicina preču ražošanas vai realizācijas uzlabošanu vai ekonomisko progresu un tādējādi dod labumu patērētājam, turklāt šīs vienošanās:
-1) neuzliek attiecīgajiem tirgus dalībniekiem ierobežojumus, kuri nav nepieciešami šo mērķu sasniegšanai;
+(2) Par spēkā esošām tiek atzītas tādas vienošanās, kuras veicina preču ražošanas vai realizācijas uzlabošanu vai ekonomisko attīstību, radot labumu patērētājiem, un tām šā panta pirmajā daļā noteikto aizliegumu nepiemēro, turklāt šīs vienošanās:
+1) neuzliek attiecīgajiem tirgus dalībniekiem ierobežojumus, kuri nav nepieciešami minēto mērķu sasniegšanai;
 2) nedod iespēju likvidēt konkurenci ievērojamā konkrētā tirgus daļā.
-(3) Šā panta pirmajā daļā paredzētās vienošanās ir atļautas, ja tirgus dalībnieki Ministru kabineta noteiktajā kārtībā saņēmuši Konkurences padomes atļauju.
-(4) Ministru kabinets izdod noteikumus, kuri reglamentē:
-1) atsevišķu tirgus dalībnieku vienošanās, lēmumus un saskaņotu darbību, kas tiek atbrīvota no šā panta pirmajā daļā minētajiem aizliegumiem, ja šī darbība atbilst konkrētām šajos noteikumos izvirzītajām prasībām;
-2) atsevišķu tirgus dalībnieku vienošanās, lēmumus un saskaņotu darbību, par kuru nav jāinformē Konkurences padome saskaņā ar šā panta otro un trešo daļu, ja šī darbība būtiski neietekmē konkurenci.
+(3) Tirgus dalībnieki pirms vienošanās noslēgšanas, kā arī pirms tās spēkā stāšanās, ja par šo vienošanos nav ierosināta lieta, ir tiesīgi iesniegt Konkurences padomei ziņojumu par attiecīgo vienošanos. Konkurences padome ir tiesīga atļaut vai atļaut ar nosacījumiem uz noteiktu termiņu paziņoto vienošanos, ja tā atbilst šā panta otrajai daļai vai kritērijiem, saskaņā ar kuriem atsevišķas tirgus dalībnieku vienošanās netiek pakļautas šā panta pirmajā daļā minētajam vienošanās aizliegumam. Kārtību, kādā tiek iesniegts un izskatīts ziņojums par tirgus dalībnieku vienošanos, nosaka Ministru kabinets.
+(4) Ministru kabinets nosaka:
+1) atsevišķas tirgus dalībnieku vienošanās, kuras būtiski neietekmē konkurenci;
+2) kritērijus, saskaņā ar kuriem atsevišķas tirgus dalībnieku vienošanās netiek pakļautas šā panta pirmajā daļā minētajam vienošanās aizliegumam.

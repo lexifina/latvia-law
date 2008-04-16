@@ -1,2 +1,2 @@
 21.pants. Zaudējumu atlīdzināšana
-Tirgus dalībnieks, kas tīši vai aiz neuzmanības pārkāpj šā likuma 11., 13., 15. vai 18.panta noteikumus, sedz zaudējumus, kas pārkāpuma dēļ radušies citam tirgus dalībniekam vai līguma pusei.
+Persona, kura ir cietusi zaudējumus šā likuma pārkāpuma dēļ, ir tiesīga prasīt no pārkāpēja zaudējumu atlīdzību un likumiskos procentus. Pēc prasītāja lūguma tiesa var noteikt zaudējumu atlīdzības apmēru pēc saviem ieskatiem.
