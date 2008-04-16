@@ -3,4 +3,8 @@ Darbību, kas saistīta ar Latvijas Republikas gaisa telpas izmantošanu civilaj
 Gaisa satiksmes vadības dienesta dispečeri savā darbā ievēro šā likuma un uz tā pamata izdoto normatīvo aktu noteikumus.
 Aeronavigācijas pakalpojumu sniegšanai Latvijas Republikā izmanto tikai reģistrētas un sertificētas uz zemes izvietotas sakaru, navigācijas un novērošanas iekārtas. Iekārtas reģistrē un iekārtu ekspluatācijas derīguma apliecības izsniedz Civilās aviācijas aģentūra.
 Aeronavigācijas pakalpojumu sniegšanai nepieciešamo uz zemes izvietoto sakaru, navigācijas un novērošanas iekārtu drošuma prasības un tehniskās ekspluatācijas kārtību nosaka Ministru kabinets.
-Kārtību, kādā valsts akciju sabiedrība "Latvijas gaisa satiksme" sniedz aeronavigācijas pakalpojumus militārās aviācijas gaisa kuģiem Latvijas Republikas gaisa telpā, nosaka Ministru kabinets.
+(Piektā daļa izslēgta ar 13.03.2008. likumu.)
+Latvijas Republikas gaisa telpā gaisa kuģu lidojumus vada atbilstoši sagatavoti un sertificēti gaisa satiksmes vadības dispečeri. Gaisa satiksmes vadības dispečeru sertifikāciju, uzraudzību un dispečeru apliecību izsniegšanu un atzīšanu veic Civilās aviācijas aģentūra. Ministru kabinets nosaka:
+1) kārtību, kādā sertificē un uzrauga gaisa satiksmes vadības dispečeru apmācību sniedzēju un kādā izsniedz gaisa satiksmes vadības dispečeru-studentu un dispečeru apliecības;
+2) kārtību, kādā Latvijas Republikā atzīst Eiropas Ekonomikas zonas valstu izsniegtas gaisa satiksmes vadības dispečeru apliecības;
+3) prasības gaisa satiksmes vadības dispečeru apliecības derīguma uzturēšanai.

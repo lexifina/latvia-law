@@ -9,5 +9,6 @@ Veicot izmeklēšanu, Transporta nelaimes gadījumu un incidentu izmeklēšanas 
 7) izjautāt lieciniekus;
 8) brīvi piekļūt jebkādai attiecīgajai informācijai vai ierakstiem, kas atrodas pie gaisa kuģa īpašnieka, ekspluatanta vai ražotāja, kā arī pie institūcijām, kuras ir atbildīgas par civilo aviāciju, lidostu vai gaisa satiksmes vadību;
 9) pieprasīt, lai valsts un pašvaldību institūcijas, kā arī, ja nepieciešams, citas juridiskās personas, kuru darbības rajonā noticis aviācijas nelaimes gadījums, savu iespēju robežās apsargātu gaisa kuģi, tā atlūzas un citus pierādījumus un sniegtu palīdzību darbietilpīgu un citu nepieciešamo pasākumu veikšanā, kā arī ierādītu Transporta nelaimes gadījumu un incidentu izmeklēšanas birojam telpas darbam un atpūtai;
-10) noteikt, kad gaisa kuģi, tā saturu, atlūzas un citus pierādījumus var aizvākt no notikuma vietas, kā arī iznīcināt normatīvajos aktos noteiktajā kārtībā.
+10) noteikt, kad gaisa kuģi, tā saturu, atlūzas un citus pierādījumus var aizvākt no notikuma vietas, kā arī iznīcināt normatīvajos aktos noteiktajā kārtībā;
+11) pieaicināt policijas darbinieku, lai aviācijas nelaimes gadījumā vai incidentā iesaistītajām personām veiktu alkoholisko, narkotisko, psihotropo, toksisko vai citu apreibinošo vielu ietekmes konstatēšanu vai nogādātu šīs personas jebkurā ārstniecības iestādē minēto vielu ietekmes noteikšanai.
 Transporta nelaimes gadījumu un incidentu izmeklēšanas birojam ir arī citas tiesības, kas nepieciešamas efektīvai izmeklēšanas mērķa sasniegšanai pēc iespējas īsākā laika posmā.

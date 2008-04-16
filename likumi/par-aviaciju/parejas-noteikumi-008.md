@@ -1,1 +1,1 @@
-8. Ministru kabinets līdz 2007.gada 1.oktobrim izdod šā likuma 41.panta trešajā, ceturtajā un sestajā daļā, 42.panta piektajā daļā, 48.panta otrajā daļā, 84.panta otrajā daļā un 115.panta otrajā daļā minētos noteikumus.
+8. Ministru kabinets līdz 2008.gada 1.jūnijam izdod šā likuma 41.panta trešajā, ceturtajā un sestajā daļā minētos noteikumus.

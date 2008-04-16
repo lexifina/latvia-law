@@ -1,0 +1,4 @@
+23.¹ pants. Valsts nozīmes civilās aviācijas lidlauks
+Valsts nozīmes civilās aviācijas lidlauks var būt valsts, pašvaldības vai arī privātpersonas īpašums. Valsts nozīmes civilās aviācijas lidlauka statusu piešķir Ministru kabinets.
+Valsts nozīmes civilās aviācijas lidlauka teritorijas, arī turpmākajai attīstībai nepieciešamās teritorijas, robežas un teritorijas plānoto (atļauto) izmantošanu nosaka Ministru kabinets. Vietējā pašvaldība, izstrādājot teritorijas plānojumus vai to grozījumus, tajos attēlo noteiktās valsts nozīmes civilās aviācijas lidlauka teritorijas robežas un ņem vērā Ministru kabineta noteikto teritorijas plānoto (atļauto) izmantošanu.
+Ja īpašnieks atsavina nekustamo īpašumu, kas ir iekļauts šā panta otrajā daļā minētajā valsts nozīmes civilās aviācijas lidlauka teritorijas, arī turpmākajai attīstībai nepieciešamās teritorijas, robežās, valstij ir pirmpirkuma tiesības. Kārtību, kādā valsts realizē pirmpirkuma tiesības, nosaka Ministru kabinets.

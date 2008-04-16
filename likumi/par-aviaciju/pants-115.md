@@ -1,3 +1,3 @@
 115.pants. Civilās aviācijas gaisa kuģu izmantošana militārajām vajadzībām
-Civilās aviācijas gaisa kuģi, kurus Latvijas Nacionālie bruņotie spēki izmanto militārajām vajadzībām, ir pielīdzināmi militārās aviācijas gaisa kuģiem, ja Latvijas Republikai saistoši starptautiskie līgumi neparedz citādi. Uz šādiem gaisa kuģiem neattiecas šā likuma 114.pants.
+Civilās aviācijas gaisa kuģi, kurus Latvijas Nacionālie bruņotie spēki izmanto militārajām vajadzībām, ir pielīdzināmi militārās aviācijas gaisa kuģiem, ja Latvijas Republikai saistoši starptautiskie līgumi neparedz citādi. Civilās aviācijas gaisa kuģi, kurus Latvijas Nacionālie bruņotie spēki izmanto militārajām vajadzībām bez civilās aviācijas gaisa kuģa apkalpes, reģistrējami Latvijas Republikas militārās aviācijas gaisa kuģu reģistrā.
 Kārtību, kādā civilās aviācijas gaisa kuģus izmanto militārajām vajadzībām, nosaka Ministru kabinets.

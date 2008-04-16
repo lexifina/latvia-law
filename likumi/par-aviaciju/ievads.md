@@ -48,7 +48,7 @@ Lidlauka kontrolpunkts - nosacīts punkts, pēc kura konstatē lidlauka ģeogrā
 Lidlauka manevrēšanas teritorija - lidlauka daļa, izņemot peronu, kas paredzēts gaisa kuģu pacelšanās, nosēšanās un manevrēšanas vajadzībām.
 Lidlauka satiksme - visa kustība lidlauka manevrēšanas laukumā, kā arī gaisa kuģu lidojumi virs lidlaukam blakus esošās teritorijas.
 Lidlauka satiksmes zona - noteiktu izmēru gaisa telpa, kas atrodas virs lidlaukam blakus esošās teritorijas un ir paredzēta lidlauka satiksmes drošības garantēšanai.
-Lidlauks - noteikta zemes teritorija vai ūdens akvatorija, kā arī ēkas, objekti un iekārtas, kas pilnīgi vai daļēji paredzētas, lai organizētu gaisa kuģu pienākšanu un atiešanu (tas ir, gaisa kuģu pacelšanos, nosēšanos, manevrēšanu un stāvēšanu, pasažieru iekāpšanu un izkāpšanu, bagāžas, kravas un pasta iekraušanu un izkraušanu, kā arī gaisa kuģu tehnisko apkopi, degvielas uzpildi u. c.).
+Lidlauks - noteikta zemes teritorija vai ūdens akvatorija, kā arī ēkas, objekti un iekārtas, kas pilnīgi vai daļēji paredzētas, lai organizētu gaisa kuģu pienākšanu un atiešanu (tas ir, gaisa kuģu pacelšanos, nosēšanos, manevrēšanu un stāvēšanu, pasažieru iekāpšanu un izkāpšanu, tranzīta pasažieru apkalpošanu, bagāžas, kravas un pasta iekraušanu un izkraušanu, kā arī gaisa kuģu tehnisko apkopi, degvielas uzpildi u. c.).
 Lidojumu ierobežojumu zona - ierobežota gaisa telpa virs valsts sauszemes teritorijas un tās iekšējiem vai teritoriālajiem Baltijas jūras ūdeņiem, kurā gaisa kuģu lidojumi ir veicami saskaņā ar speciāliem noteikumiem.
 Meteoroloģiskā informācija - meteoroloģisks pārskats, analīze, prognoze un jebkurš cits biļetens par faktiskajiem vai gaidāmajiem meteoroloģiskajiem apstākļiem.
 Meteoroloģisko pakalpojumu sniedzējs - institūcija, kura nodrošina visas ieinteresētās personas ar gaisa kuģu lidojumiem nepieciešamo meteoroloģisko informāciju pirms lidojuma un lidojuma laikā.
@@ -63,3 +63,4 @@ Speciālie aviācijas darbi - gaisa kuģa lidojumi, kuru laikā gaisa kuģis par
 Starptautiskie lidojumi - gaisa kuģu lidojumi, kuri tiek veikti vairāk nekā vienas valsts gaisa telpā.
 Starptautiskie gaisa pārvadājumi - pārvadājumi, kuru sākumpunkts, apstāšanās vieta vai galapunkts atrodas vairāku valstu teritorijās.
 Trešā valsts - valsts, kas nav Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts.
+Valsts nozīmes civilās aviācijas lidlauks - stratēģiski svarīgs, civilās aviācijas infrastruktūras attīstībai un sabiedrības interešu nodrošināšanai vajadzīgs lidlauks, kurā tiek nodrošināti nepieciešamie augstas kvalitātes un drošības standarti.
