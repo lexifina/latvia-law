@@ -41,4 +41,5 @@ e) Jēkabpils rajona tiesa,
 f) Tukuma rajona tiesa;
 6) Administratīvās apgabaltiesas darbības teritorijā:
 administratīvā rajona tiesa.
-(2) Administratīvās apgabaltiesas, administratīvās rajona tiesas, Rīgas pilsētas, Rīgas rajona un Siguldas tiesu rajonu teritorijas nosaka Ministru kabinets.
+(2) Rajona (pilsētas) tiesai var būt struktūrvienības - tiesu nami, kurus izvieto attiecīgās rajona (pilsētas) tiesas darbības teritorijā.
+(3) Administratīvās apgabaltiesas, Administratīvās rajona tiesas un tās tiesu namu, Rīgas pilsētas, Rīgas rajona un Siguldas tiesu darbības teritorijas nosaka Ministru kabinets.

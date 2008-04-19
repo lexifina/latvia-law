@@ -1,0 +1,1 @@
+19. Līdz šā likuma 29.panta trešajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2009.gada 1.janvārim ir piemērojami Ministru kabineta 2005.gada 27.decembra noteikumi Nr.1023 "Noteikumi par Administratīvās apgabaltiesas, administratīvās rajona tiesas, Rīgas pilsētas, Rīgas rajona un Siguldas tiesu rajonu teritorijām".

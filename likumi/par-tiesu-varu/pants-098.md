@@ -5,7 +5,7 @@
 3) trešo kvalifikācijas klasi - pēc četriem amatā ar ceturto kvalifikācijas klasi nostrādātiem gadiem;
 4) otro kvalifikācijas klasi - pēc pieciem amatā ar trešo kvalifikācijas klasi nostrādātiem gadiem;
 5) pirmo kvalifikācijas klasi - pēc pieciem amatā ar otro kvalifikācijas klasi nostrādātiem gadiem.
-(2) Tiesnesim var piešķirt augstāku kvalifikācijas klasi, ja viņš ar iepriekšējo kvalifikācijas klasi ir nostrādājis ne mazāk kā divas trešdaļas no šā panta pirmajā daļā noteiktā termiņa un ir nokārtojis nākamās kvalifikācijas klases eksāmenu.
+(2) Tiesnesim var piešķirt augstāku kvalifikācijas klasi, ja viņš ar iepriekšējo kvalifikācijas klasi ir nostrādājis ne mazāk kā divas trešdaļas no šā panta pirmajā daļā noteiktā termiņa un saņēmis pozitīvu Tiesnešu kvalifikācijas kolēģijas atzinumu.
 (3) Tiesneša atestācijas, kvalifikācijas eksāmenu kārtošanas un kvalifikācijas klašu piešķiršanas kārtību pēc tieslietu ministra priekšlikuma nosaka Augstākās tiesas priekšsēdētājs.
 (4) Rajona (pilsētas) tiesas tiesnesim var piešķirt piekto, ceturto, trešo un otro kvalifikācijas klasi.
 (5) Par apgabaltiesas tiesnesi var strādāt tiesnesis ar trešo, otro vai pirmo kvalifikācijas klasi.

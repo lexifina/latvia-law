@@ -1,0 +1,1 @@
+18. Tiesneša amata kandidāti, kuru virzīšana iecelšanai tiesneša amatā uzsākta pirms grozījuma šā likuma 52.panta pirmās daļas 5.punktā spēkā stāšanās, tiesneša amatā ieceļami līdz 2008.gada 1.oktobrim.

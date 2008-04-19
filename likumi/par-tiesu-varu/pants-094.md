@@ -1,8 +1,5 @@
-94. pants. Tiesnešu kvalifikācijas kolēģijas pilnvaras
-Tiesnešu kvalifikācijas kolēģija:
-1) novērtē katra pirmo reizi izvirzītā kandidāta sagatavotību tiesneša amatam un pieņem tiesneša kandidāta kvalifikācijas eksāmenu;
-2) dod atzinumu par rajona (pilsētas) tiesas, apgabaltiesas, Augstākās tiesas vai zemesgrāmatu nodaļu tiesnešu kandidatūrām;
-3) atestē tiesnešus un piešķir viņiem kvalifikācijas klasi;
-4) pēc tieslietu ministra, Augstākās tiesas priekšsēdētāja, apgabaltiesas priekšsēdētāja, rajona (pilsētas) tiesas priekšsēdētāja, zemesgrāmatu nodaļas priekšnieka ierosinājuma izlemj jautājumu par kvalifikācijas klases pazemināšanu tiesnesim;
-5) apstiprina tiesnešu kvalifikācijas kolēģijas nolikumu;
-6) (izslēgts ar 15.10.1998. likumu).
+94. pants. Tiesnešu kvalifikācijas kolēģijas pilnvaras un darbība
+(1) Tiesnešu kvalifikācijas kolēģija pirms kvalifikācijas eksāmena pieņemšanas, pamatojoties uz pieteikumu par tiesneša amata kandidāta kvalifikācijas eksāmena pieņemšanu un tam pievienotajiem dokumentiem, novērtē katra pirmo reizi izvirzītā tiesneša amata kandidāta piemērotību tiesneša amatam. Ja kandidāts tiek atzīts par piemērotu tiesneša amatam, Tiesnešu kvalifikācijas kolēģija novērtē tiesneša amata kandidāta profesionālo sagatavotību, pieņemot kvalifikācijas eksāmenu.
+(2) Tiesnešu kvalifikācijas kolēģija dod atzinumu par rajona (pilsētas) tiesas, apgabaltiesas, Augstākās tiesas vai zemesgrāmatu nodaļu tiesnešu kandidatūrām, kā arī par Augstākās tiesas Senāta departamenta senatora kandidatūru.
+(3) Tiesnešu kvalifikācijas kolēģija atestē tiesnešus un lemj par kvalifikācijas klases piešķiršanu, kā arī pēc tieslietu ministra, Augstākās tiesas priekšsēdētāja, apgabaltiesas priekšsēdētāja, rajona (pilsētas) tiesas priekšsēdētāja vai zemesgrāmatu nodaļas priekšnieka ierosinājuma izlemj jautājumu par kvalifikācijas klases pazemināšanu tiesnesim.
+(4) Tiesnešu kvalifikācijas kolēģija darbojas saskaņā ar reglamentu. Reglamentu apstiprina Tiesnešu konference.
