@@ -1,0 +1,1 @@
+13. Tām atvaļinātajām militārpersonām, kurām, aprēķinot izdienas pensiju, tika ņemts vērā laikposms pēc 2004.gada 8.marta, dienesta atalgojumā, no kura aprēķina izdienas pensiju, ietilpst alga atkarībā no dienesta pakāpes un izdienas stāža, kā arī piemaksas, kuru veidus nosaka likumi un citi normatīvie akti. Aprēķinot izdienas pensiju, ņem vērā piešķirtās naudas balvas.
