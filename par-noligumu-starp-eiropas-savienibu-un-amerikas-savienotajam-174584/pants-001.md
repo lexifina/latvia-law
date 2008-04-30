@@ -1,0 +1,1 @@
+1.pants. 2007.gada 23.jūlijā Briselē un 2007.gada 26.jūlijā Vašingtonā parakstītais Nolīgums starp Eiropas Savienību un Amerikas Savienotajām Valstīm par gaisa pārvadātāju veikto pasažieru datu reģistra (PDR) datu apstrādi un pārsūtīšanu Amerikas Savienoto Valstu Iekšzemes drošības departamentam (IDD) (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
