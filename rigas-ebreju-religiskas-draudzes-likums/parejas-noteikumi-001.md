@@ -1,0 +1,1 @@
+1. Līdz 2008.gada 1.maijam Draudze saskaņo statūtus ar šo likumu, izdarot statūtos attiecīgus grozījumus, apstiprinot tos jaunā redakcijā un iesniedzot Tieslietu ministrijā reģistrācijai Reliģisko organizāciju likumā noteiktajā kārtībā.

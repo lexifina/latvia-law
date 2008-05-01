@@ -1,0 +1,3 @@
+2.pants. Likuma mērķis un uzdevums
+(1) Likuma mērķis ir sekmēt atklātas, tiesiskas un harmoniskas sabiedrības, kā arī kultūrvides attīstību.
+(2) Likuma uzdevums ir atbilstoši konstitucionālajām tradīcijām un Latvijas Republikas Satversmes 99.panta noteikumam, ievērojot Draudzes kā Latvijā tradicionālas reliģiskās organizācijas ilglaicīgu pastāvēšanu Latvijas teritorijā, respektējot tās uzticību garīgajām un morālajām vērtībām, kā arī ievērojot to, ka ebreju reliģiskās draudzes nav izveidojušas reliģisku savienību Latvijā un ka Draudzes īpašumā atrodas nacionālas nozīmes kultūras un mākslas mantojums, regulēt valsts un Draudzes tiesiskās attiecības un noteikt valsts un Draudzes kopīgos uzdevumus sociālajā, tiesiskajā un kultūras jomā.
