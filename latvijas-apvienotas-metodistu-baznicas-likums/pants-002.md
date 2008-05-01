@@ -1,0 +1,3 @@
+2.pants. Likuma mērķis un uzdevums
+(1) Likuma mērķis ir sekmēt atklātas, tiesiskas un harmoniskas sabiedrības, kā arī kultūrvides attīstību.
+(2) Likuma uzdevums ir atbilstoši konstitucionālajām tradīcijām un Latvijas Republikas Satversmes 99.panta noteikumam, ievērojot Baznīcas kā Latvijā tradicionālas reliģiskās organizācijas ilglaicīgu pastāvēšanu un izplatību Latvijas teritorijā, kā arī atzīstot tās ieguldījumu un bagāto pieredzi sabiedrības fiziskās un garīgās veselības, izglītības, kultūras, sociālās palīdzības un citās jomās, regulēt valsts un Baznīcas tiesiskās attiecības un noteikt valsts un Baznīcas kopīgos uzdevumus sociālajā, tiesiskajā, izglītības un kultūras jomā.
