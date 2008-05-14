@@ -4,4 +4,4 @@
 (3) Valsts apdraudējuma gadījumā apdraudējuma pārvarēšanas pasākumus vada par attiecīgo nozari atbildīgā ministrija.
 (4) (Izslēgta ar 21.04.2005. likumu.)
 (5) Valsts apdraudējuma gadījumā Ministru kabinets ir tiesīgs pieņemt lēmumu par Nacionālo bruņoto spēku iesaistīšanu sabiedriskās kārtības uzturēšanā un apdraudējuma izraisīto seku likvidēšanā.
-(6) Pēc Krīzes vadības padomes priekšlikuma Ministru kabinets var noteikt attiecīgās pakāpes nacionālās drošības sistēmas ārkārtējo gatavību.
+(6) (Izslēgta ar 17.04.2008. likumu.)
