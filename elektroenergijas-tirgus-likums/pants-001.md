@@ -17,9 +17,9 @@
 14) obligātais iepirkums - šajā likumā un citos normatīvajos aktos noteikts pienākums iepirkt elektroenerģiju;
 15) palīgpakalpojumi - pakalpojumi, kas nepieciešami elektroenerģijas pārvades sistēmas balansētas darbības nodrošināšanai;
 16) publiskais tirgotājs - elektroenerģijas tirgotājs, kuram šajā likumā un citos normatīvajos aktos ir noteikti īpaši pienākumi un kura licencē iekļautas speciālas prasības publiskā tirgotāja pienākumu izpildes nodrošināšanai;
-17) saistītais lietotājs - elektroenerģijas lietotājs, kurš neizmanto iespēju kļūt par elektroenerģijas tirgus dalībnieku un līdz ar to brīvi izvēlēties elektroenerģijas tirgotāju, bet pērk elektroenerģiju no publiskā tirgotāja vai attiecīgā sadales sistēmas operatora par regulatora apstiprinātiem tarifiem;
+17) saistītais lietotājs - elektroenerģijas lietotājs, kuram ir tiesības saņemt universālo pakalpojumu un kurš neizmanto iespēju kļūt par elektroenerģijas tirgus dalībnieku;
 18) sistēmas pakalpojums - elektroenerģijas pārvade vai sadale, kas nodrošina elektroenerģijas plūsmas no ražotājiem līdz lietotājiem;
 19) starpvalstu savienojums - elektrolīnija, kas sasaista atsevišķās valstīs izvietotas pārvades sistēmas;
-20) tiešā līnija - elektrolīnija, kas sasaista savrupu elektroenerģijas ražošanas objektu ar savrupu lietotāju, vai elektrolīnija, kas sasaista elektroenerģijas ražotāju un tirgotāju, kurš tieši apgādā savā īpašumā vai valdījumā esošus objektus, saistītos uzņēmumus un savus lietotājus;
+20) tiešā līnija - elektrolīnija, kas sasaista savrupu elektroenerģijas ražošanas objektu ar savrupu lietotāju, vai elektrolīnija, kas sasaista savrupu elektroenerģijas ražotāju un tirgotāju, kurš tieši apgādā savā īpašumā vai valdījumā esošus objektus, saistītos uzņēmumus un savus lietotājus;
 21) universālais pakalpojums - garantētas tiesības uz elektroenerģijas piegādi noteiktā kvalitātē par viegli un skaidri salīdzināmu un pārskatāmu cenu;
 22) vertikāli integrēts elektroapgādes komersants - komersants vai komersantu kopums (koncerns), kas veic vismaz vienu no šādām elektroapgādes darbībām - elektroenerģijas pārvade vai sadale - un vismaz vienu no šādām elektroapgādes darbībām - elektroenerģijas ražošana vai tirdzniecība.

@@ -1,0 +1,1 @@
+14. Pieslēgumus, par kuru ierīkošanu pieslēguma līgumi saskaņā ar šā likuma 8.panta otro daļu un 9.panta otro daļu ir noslēgti līdz 2008.gada 31.augustam, sistēmas operators ierīko atbilstoši tiem sistēmas dalībnieku pieslēguma noteikumiem un saskaņā ar regulatora noteikto pieslēguma maksas aprēķināšanas metodiku, kas bija spēkā pieslēguma līguma slēgšanas brīdī.

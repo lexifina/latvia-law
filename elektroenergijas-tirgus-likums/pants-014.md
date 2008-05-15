@@ -1,2 +1,2 @@
 14.pants. Palīgpakalpojumi pārvades sistēmā
-Pārvades sistēmas operators var palīgpakalpojumus sniegt patstāvīgi vai arī pirkt. Pērkot palīgpakalpojumus, pārvades sistēmas operatoram jāņem vērā efektivitātes kritēriji, kā arī vienlīdzības un taisnīguma principi, lai iespēju robežās nodrošinātu brīvu konkurenci palīgpakalpojumu pirkšanā. Pārvades sistēmas operatoram ir jāpadara atklāti palīgpakalpojumu pirkšanas nosacījumi, kas saistīti ar sistēmas atbildību.
+Pārvades sistēmas operators patstāvīgi sniedz palīgpakalpojumus, to skaitā balansēšanas pakalpojumus, vai tos pērk. Pārvades sistēmas operators pērk palīgpakalpojumus, ievērojot atklātas, nediskriminējošas un uz tirgus principiem balstītas procedūras.

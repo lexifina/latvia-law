@@ -8,6 +8,6 @@
 4) sistēmas operatora publicēto informāciju par starpvalstu savienojumiem, tīklu izmantošanu un sistēmas jaudas sadalījumu lietotājiem, ņemot vērā, ka neapkopota informācija uzskatāma par komercnoslēpumu;
 5) grāmatvedības nodalīšanu atbilstoši šā likuma 38. - 40.pantā noteiktajai kārtībai;
 6) šā likuma 9.panta otrajā daļā noteikto sistēmas dalībnieku pieslēguma noteikumu izpildi;
-7) šajā likumā noteikto pārvades un sadales operatoru pienākumu izpildi;
+7) šajā likumā noteikto pārvades un sadales sistēmas operatoru pienākumu izpildi;
 8) elektroenerģijas tirgus pārskatāmību un konkurences līmeni tajā.
 (4) Regulators reizi gadā savā interneta mājas lapā publicē ziņojumu par šā panta trešajā daļā noteikto sistēmas darbības aspektu uzraudzības rezultātiem.

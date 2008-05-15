@@ -1,0 +1,1 @@
+10. Administratīvās lietas, kuras par sistēmas dalībnieku vai elektroenerģijas tirgotāju izsniegtajiem rēķiniem vai ar tiem saistītajiem dokumentiem administratīvajā tiesā ierosinātas līdz 2008.gada 14.maijam, administratīvā tiesa pabeidz izskatīt saskaņā ar Administratīvā procesa likumu.

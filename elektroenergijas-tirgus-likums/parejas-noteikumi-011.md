@@ -1,0 +1,1 @@
+11. Grozījumi šā likuma 8.panta otrajā daļā attiecībā uz pieslēguma noteikumiem ražotājiem un lietotājiem, grozījumi 9.panta otrajā daļā attiecībā uz pieslēguma izmaksu sadalījumu starp sistēmas dalībnieku un sistēmas operatoru, kā arī 9.panta 2.¹ daļa stājas spēkā 2008.gada 1.septembrī.
