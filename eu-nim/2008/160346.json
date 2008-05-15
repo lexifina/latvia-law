@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Elektroenerģijas tirgus likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "64",
+  "official_journal_page": null,
+  "official_journal_date": "2008-04-24",
+  "entry_into_force": "2008-05-15",
+  "notification_date": "2009-02-02",
+  "commission_reference": "MNE(2009)50512",
+  "nim_celex": "71996L0092LVA_160346",
+  "nim_id": "160346",
+  "transposes_celex": [
+    "31996L0092"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ca7126cc-9274-4e98-bc47-a587a33ca4c7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
