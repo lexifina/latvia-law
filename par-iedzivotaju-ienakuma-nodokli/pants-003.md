@@ -4,6 +4,8 @@
 1) šā likuma 10.pantā noteiktie attaisnotie izdevumi;
 2) maksātāja gada (mēneša) neapliekamais minimums;
 3) šā likuma 13.pantā noteiktie atvieglojumi.
+2.¹ Ja maksātājs taksācijas gada laikā gūst ienākumus, kuri tiek aplikti ar nodokli pēc atšķirīgām likmēm, apliekamo ienākumu saskaņā ar šā panta otro daļu nosaka, šā panta otrās daļas 1., 2. un 3.punktā minētos atskaitījumus sadalot proporcionāli starp attiecīgajiem ienākumu veidiem.
+2.² Ja ienākumi, kurus apliek ar vienu nodokļa likmi, ir mazāki nekā uz tiem attiecinātie atskaitījumi saskaņā ar šā panta otrās daļas 1., 2. un 3.punktu un 2.¹ daļu, par atlikušo atskaitījumu daļu samazina ienākumus, kas apliekami ar citu nodokļa likmi.
 3. Ārvalsts nodokļa maksātāja (nerezidenta) ar nodokli apliekamais ienākums ir:
 1) ienākums no algota darba, ieskaitot darbu, kas veikts Latvijas Republikā tāda darba devēja labā, kurš nav Latvijas Republikas rezidents vai kuram nav pastāvīgās pārstāvniecības Latvijas Republikā, vai darbu, kas veikts ārpus Latvijas Republikas Latvijas Republikas darba devēja labā;
 2) ienākums no profesionālās darbības, kas veikta Latvijas Republikas rezidentu vai nerezidentu pastāvīgo pārstāvniecību labā Latvijas Republikā vai ārpus tās;

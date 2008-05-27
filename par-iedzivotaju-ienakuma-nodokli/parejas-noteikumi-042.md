@@ -1,0 +1,1 @@
+42. Ministru kabinets izvērtē šā likuma 3.panta 2.¹ un 2.² daļas ietekmi uz pašvaldību ieņēmumiem 2008.gadā un, ja nepieciešams, sagatavo grozījumus likumā "Par valsts budžetu 2008.gadam", lai segtu pašvaldību ieņēmumu samazinājumu.

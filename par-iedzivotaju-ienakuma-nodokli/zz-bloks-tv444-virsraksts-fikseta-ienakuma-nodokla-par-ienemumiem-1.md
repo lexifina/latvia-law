@@ -2,7 +2,7 @@ Taksācijas gada saimnieciskās darbības ieņēmumi (latos)
 Fiksētā ienākuma nodokļa summa (latos)
 0-500,00
 25
-501,01-1000,00
+500,01-1000,00
 50
 1000,01-1500,00
 75
