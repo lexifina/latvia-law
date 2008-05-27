@@ -1,0 +1,1 @@
+25.²pants. Eiropas Komisijas ieteikumus (vadlīnijas), kas publicēti Eiropas Kopienas Zāļu tiesiskā regulējuma dokumentu krājumos (Eudralex), piemēro, sagatavojot dokumentāciju par zāļu lietošanas izraisītajām blakusparādībām un dokumentāciju, kas attiecas uz zāļu ražošanu, klīnisko izpēti, reģistrēšanu, klasificēšanu, marķēšanu un lietošanas instrukcijām.

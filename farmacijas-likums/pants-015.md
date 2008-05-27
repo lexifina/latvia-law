@@ -1,1 +1,0 @@
-15.pants. Veselības inspekcijas finanšu līdzekļus veido valsts pamatbudžeta dotācija no vispārējiem ieņēmumiem un ieņēmumi no maksas pakalpojumiem. Maksas pakalpojumu veidus un to sniegšanas kārtību nosaka Ministru kabinets.
