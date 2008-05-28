@@ -1,0 +1,2 @@
+2.pants. Likuma mērķis
+Likuma mērķis ir nodrošināt efektīvu un caurredzamu Latvijas Republikas sniegtās starptautiskās palīdzības plānošanu un īstenošanu, lai, ievērojot Apvienoto Nāciju Organizācijas, Eiropas Savienības, Ziemeļatlantijas līguma organizācijas (NATO), Eiropas Drošības un sadarbības organizācijas un Ekonomiskās sadarbības un attīstības organizācijas Attīstības palīdzības komitejas principus un labo praksi starptautiskās palīdzības īstenošanā, nodrošinātu un sniegtu kvalitatīvu un efektīvu starptautisko palīdzību saņēmējvalstīm.

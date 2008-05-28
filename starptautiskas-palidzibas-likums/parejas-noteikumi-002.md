@@ -1,0 +1,1 @@
+2. Līdz Attīstības sadarbības valsts aģentūras izveidei šajā likumā noteiktās aģentūras funkcijas veic Ārlietu ministrija. Ārlietu ministrija ir tiesīga deleģēt daļu no aģentūras funkcijām citai publiskai personai, līgumā atrunājot funkciju deleģēšanas apjomu.

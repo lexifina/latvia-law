@@ -1,0 +1,5 @@
+8.pants. Aģentūras funkcijas
+(1) Aģentūra veic šā likuma 5.panta 1., 3., 4., 5. un 6.punktā noteikto apstiprināšanas instrumentu vadību saskaņā ar šajā likumā, citos normatīvajos aktos un aģentūras nolikumā noteikto kārtību.
+(2) Aģentūra slēdz vienošanos ar ārvalstu finansētājiem par kopīgu (trīspusējas vai daudzpusējas) starptautiskās palīdzības aktivitātes vai deleģētās sadarbības īstenošanu.
+(3) Aģentūrai ir tiesības uzņemties ne vairāk kā triju gadu saistības par starptautiskās palīdzības aktivitāšu vai aktivitāšu programmu finansēšanu attīstības sadarbības jomā. Katra nākamā gada kopējais saistību apjoms nedrīkst pārsniegt kārtējā gadā Ārlietu ministrijai piešķirto valsts budžeta līdzekļu apjomu attīstības sadarbības finansēšanai atbilstoši vidēja termiņa makroekonomiskajai attīstībai un fiskālajai politikai.
+(4) Lēmumu aģentūras vārdā pieņem aģentūras direktors. Ārlietu ministrijas lēmumu var pārsūdzēt tiesā. Aģentūras lēmuma apstrīdēšana vai Ārlietu ministrijas pieņemtā lēmuma par apstrīdēto aģentūras lēmumu pārsūdzēšana neaptur tā izpildi. Lēmuma apstrīdēšana vai pārsūdzēšana neaptur tā darbību.
