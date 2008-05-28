@@ -1,2 +1,2 @@
 7. pants. Amatniecības reģistrs
-Amatniecības reģistrs ir Latvijas Amatniecības kameras institūcija, kas veic amata meistaru, zeļļu un mācekļu reģistrāciju un amatniecības uzņēmumu uzskaiti.
+Amatniecības reģistrs ir elektroniska datubāze, kurā elektroniski tiek uzturēta informācija par amatniecības uzņēmumiem, amata meistariem, zeļļiem un mācekļiem, kā arī cita ar amatniekiem un amatniecību saistītā informācija.

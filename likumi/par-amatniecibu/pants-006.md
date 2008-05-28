@@ -2,4 +2,5 @@
 Latvijas Amatniecības kamera veic šādas amatniecības pašpārvaldes funkcijas:
 1) organizē amatapmācību;
 2) nosaka un piešķir amatnieka kvalifikāciju;
-3) reģistrē amata meistarus, zeļļus un mācekļus, veic amatniecības uzņēmumu uzskaiti.
+3) reģistrē amata meistarus, zeļļus un mācekļus, veic amatniecības uzņēmumu un meistardarbnīcu uzskaiti;
+4) ved amatniecības reģistru.
