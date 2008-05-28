@@ -15,7 +15,7 @@
 3) komersanta statūtu, dibināšanas līguma vai tiem pielīdzināma dokumenta notariāli apliecinātu kopiju;
 4) dokumentu, kas apliecina personas pilnvarojumu pārstāvēt ārvalsts komersantu visās ar filiāli saistītajās darbībās, un šā pilnvarojuma apjomu.
 (4) Šā panta otrās daļas 7.punktā minētā persona, ārvalsts komersants vai tā likumiskie pārstāvji iesniedz komercreģistra iestādei pieteikumu par:
-1) komersanta darbības izbeigšanu, maksātnespējas, konkursa vai tam pielīdzināma procesa uzsākšanu un pabeigšanu;
+1) komersanta darbības izbeigšanu, tiesiskās aizsardzības vai maksātnespējas procesa, konkursa vai tam pielīdzināma procesa uzsākšanu un pabeigšanu;
 2) komersanta likvidāciju, kā arī reorganizāciju, ja ārvalsts komersants ir sabiedrība;
 3) administratora vai likvidatora iecelšanu, norādot administratora (likvidatora) vārdu, uzvārdu, dzīvesvietu un pilnvarojuma apjomu;
 4) filiāles izslēgšanu no komercreģistra.

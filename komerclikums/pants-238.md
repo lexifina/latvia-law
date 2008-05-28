@@ -1,6 +1,6 @@
 238.pants. Akcijas atsavināšana
 (1) Akcionārs var brīvi atsavināt savas akcijas.
 (2) Statūtos var paredzēt, ka vārda akcijas pārdošanai nepieciešama akcionāru sapulces piekrišana, kā arī iemeslus, kuru dēļ šo piekrišanu var atteikt, un pārējo akcionāru pirmpirkuma tiesības uz pārdodamo akciju. Ja statūtos paredzētas pirmpirkuma tiesības, tad to izmantošanas termiņš ir viens mēnesis no dienas, kad paziņojums par akciju pārdošanu iesniegts valdei. Valde pēc šāda paziņojuma saņemšanas nekavējoties izsludina to šā likuma 252.pantā noteiktajā kārtībā. Akcionārs var rakstveidā atteikties no pirmpirkuma tiesībām pirms noteiktā termiņa beigām.
-(3) Dematerializētas akcijas atsavināmas, pārskaitot tās uz ieguvēja vērtspapīru kontu.
+(3) Dematerializētas akcijas atsavināmas, pārskaitot tās uz ieguvēja finanšu instrumentu kontu.
 (4) Papīra formas vārda akcijas atsavināmas, izdarot uz tām nodošanas uzrakstu (indosamentu).
 (5) Vārda akcijas ieguvējs paziņo par akcijas iegūšanu sabiedrībai, iesniedzot pieteikumu un uzrādot papīra formas vārda akciju ar nodošanas uzrakstu (indosamentu), bet dematerializētu vārda akciju atsavināšanas gadījumā - iesniedzot atsavinātāja un ieguvēja kopīgu pieteikumu vai darījuma aktu. Par to tiek izdarīts ieraksts akcionāru reģistrā saskaņā ar šā likuma 235.panta noteikumiem.

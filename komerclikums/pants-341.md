@@ -1,5 +1,5 @@
 341.pants. Revidenta atzinums
-(1) Par līguma projekta pārbaudes rezultātiem revidents sastāda rakstveida atzinumu un iesniedz to sabiedrībai. Ja ir apstiprināts viens revidents visām sabiedrībām, viņš iesniedz atzinumu visām sabiedrībām.
+(1) Par līguma projekta pārbaudes rezultātiem revidents sastāda rakstveida atzinumu un iesniedz to sabiedrībai. Ja ir ievēlēts viens revidents visām sabiedrībām, viņš iesniedz atzinumu visām sabiedrībām.
 (2) Atzinumā norāda:
 1) vai revidentam ir iesniegti visi nepieciešamie dokumenti;
 2) vai līguma projektā norādītais kapitāla daļu (akciju) apmaiņas koeficients un piemaksu lielums ir taisnīgs un pamatots;

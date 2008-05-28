@@ -1,5 +1,5 @@
-372.pants. Mantiskā ieguldījuma novērtēšana
+372.pants. Mantiskā ieguldījuma novērtēšana, ja iegūstošā sabiedrība ir sabiedrība ar ierobežotu atbildību
 (1) Ja iegūstošā sabiedrība ir sabiedrība ar ierobežotu atbildību, kurai reorganizācijas rezultātā jāpalielina pamatkapitāls vai kura tiek dibināta kā jauna sabiedrība, veicams katras pievienojamās sabiedrības mantas vai sadalāmās sabiedrības attiecīgās mantas daļas novērtējums, lai noteiktu tās pietiekamību iegūstošās sabiedrības pamatkapitāla palielināšanai vai tās dibināšanai.
-(2) Novērtēšanu veic un rakstveida atzinumu sastāda persona, kura pārbaudījusi reorganizācijas līgumu attiecīgajā sabiedrībā.
+(2) Novērtēšanu veic un rakstveida atzinumu sastāda persona, kura pārbaudījusi reorganizācijas līgumu attiecīgajā sabiedrībā. Šā likuma 340.panta trešajā daļā minētajā gadījumā novērtēšanu veic un rakstveida atzinumu sniedz revidents, kurš atbilst šā likuma 340.panta pirmajā un otrajā daļā noteiktajiem kritērijiem.
 (3) Visiem attiecīgās sabiedrības dalībniekiem, kā arī iegūstošās sabiedrības dalībniekiem ir tiesības iepazīties ar atzinumu par mantiskā ieguldījuma novērtējumu šā likuma 343.panta trešajā un piektajā daļā noteiktajā kārtībā.
 (4) Atzinums pievienojams komercreģistra iestādei iesniedzamajam pieteikumam par reorganizāciju.

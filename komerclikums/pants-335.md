@@ -4,4 +4,4 @@
 (3) Saplūšana ir process, kurā divas vai vairākas sabiedrības (pievienojamās sabiedrības) nodod visu savu mantu jaundibināmai sabiedrībai (iegūstošā sabiedrība).
 (4) Apvienošanas gadījumā pievienojamā sabiedrība beidz pastāvēt bez likvidācijas procesa.
 (5) Apvienošanas gadījumā pievienojamās sabiedrības tiesības un saistības pāriet iegūstošajai sabiedrībai.
-(6) Apvienošanas gadījumā pievienojamās sabiedrības dalībnieki vai biedri (turpmāk šīs sadaļas ietvaros - dalībnieki) kļūst par iegūstošās sabiedrības dalībniekiem.
+(6) Apvienošanas gadījumā pievienojamās sabiedrības akcionāri, dalībnieki vai biedri (turpmāk šīs daļas ietvaros - dalībnieki) kļūst par iegūstošās sabiedrības dalībniekiem.

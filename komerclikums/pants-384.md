@@ -1,0 +1,2 @@
+384.pants. Pieteikuma un tam pievienojamo dokumentu iesniegšana komercreģistra iestādei
+Ja iegūstošā kapitālsabiedrība tiek reģistrēta Latvijā, papildus šā likuma 347.pantā minētajiem dokumentiem komercreģistra iestādei iesniedz citas dalībvalsts komercreģistra iestādes ne vēlāk kā pirms sešiem mēnešiem izsniegtu dokumentu, kas apliecina, ka citā dalībvalstī reģistrētā pievienojamā kapitālsabiedrība ir veikusi visas nepieciešamās darbības pārrobežu apvienošanas pabeigšanai.

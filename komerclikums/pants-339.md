@@ -4,4 +4,4 @@
 2) reorganizācijas tiesiskos un saimnieciskos aspektus;
 3) kapitāla daļu (akciju) apmaiņas koeficientu un piemaksu (ja tādas paredzētas) lielumu;
 4) metodes, kuras izmantotas kapitāla daļu (akciju) apmaiņas koeficienta un piemaksu lieluma noteikšanai, kā arī problēmas, kuras rodas, izmantojot šīs metodes.
-(2) Sabiedrības var sagatavot kopēju prospektu.
+(2) Sabiedrības var sagatavot kopēju prospektu. Šādā gadījumā katra reorganizācijas procesā iesaistītā sabiedrība prospektā norāda šā panta pirmajā daļā minētās ziņas.

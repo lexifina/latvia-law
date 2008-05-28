@@ -1,0 +1,1 @@
+9. Fiziskā persona, kuras veiktā saimnieciskā darbība atbilst komercaģenta darbībai (šā likuma 45.pants) vai māklera darbībai (šā likuma 64.panta pirmā daļa) un kura nav reģistrēta komercreģistrā, piesaka sevi reģistrācijai komercreģistrā līdz 2008.gada 31.decembrim.

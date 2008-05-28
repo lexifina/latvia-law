@@ -6,3 +6,9 @@
 3) reģistrācijas numuru;
 4) reģistrācijas vietu;
 5) reģistrācijas datumu.
+(3) Pēc komersanta filiāles ierakstīšanas komercreģistrā tai izsniedz reģistrācijas apliecību. Reģistrācijas apliecībā norāda filiāles:
+1) firmu;
+2) komersanta (izņemot ārvalsts komersantu) reģistrācijas numuru;
+3) reģistrācijas numuru;
+4) reģistrācijas vietu;
+5) reģistrācijas datumu.

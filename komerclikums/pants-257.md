@@ -11,3 +11,5 @@
 9) termiņu, kādā līdzšinējie akcionāri var izmantot pirmtiesības uz jaunās emisijas akcijām, ja viņiem ir šādas tiesības;
 10) vietu un laiku, kur un kad notiks parakstīšanās uz akcijām.
 (2) Palielinot pamatkapitālu ar īpašu mērķi, pamatkapitāla palielināšanas noteikumos nav jānorāda šā panta pirmās daļas 8. punktā noteiktās ziņas.
+(3) Palielinot pamatkapitālu šā likuma 249.panta ceturtajā daļā minētajā gadījumā, jaunās emisijas akcijas apmaksājamas tikai naudā.
+(4) Palielinot pamatkapitālu šā likuma 249.panta ceturtajā daļā minētajā gadījumā, jaunās emisijas akciju apmaksas termiņš nosakāms ne ilgāks par trim mēnešiem no dienas, kad pieņemts lēmums par pamatkapitāla palielināšanu.

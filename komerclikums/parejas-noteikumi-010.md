@@ -1,0 +1,1 @@
+10. Grozījumi attiecībā uz 181.pantu (par šā panta izslēgšanu) stājas spēkā vienlaikus ar grozījumiem Gada pārskatu likumā un Konsolidēto gada pārskatu likumā, kuros noteikta kārtība, kādā iesniedzami gada pārskati un konsolidētie gada pārskati.

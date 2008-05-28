@@ -1,4 +1,4 @@
-357.pants. Lēmums par reorganizāciju
+357.pants. Lēmums par pārveidošanu
 (1) Lēmumā par reorganizāciju norādāmas šā likuma 338.panta otrajā daļā minētās ziņas, papildus norādot iegūstošās sabiedrības veidu.
 (2) Lēmuma projektam kā pielikums tiek pievienots iegūstošās sabiedrības statūtu vai sabiedrības līguma (ja iegūstošā sabiedrība ir personālsabiedrība) projekts.
 (3) Lēmums aizstāj šā likuma 338.pantā minēto reorganizācijas līgumu, un uz to attiecināmi šā likuma 338. - 343.panta noteikumi.

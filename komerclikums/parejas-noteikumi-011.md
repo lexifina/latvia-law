@@ -1,0 +1,1 @@
+11. Ja akciju sabiedrībai ir uzrādītāja akcijas, kuras nav iegrāmatotas Latvijas Centrālajā depozitārijā saskaņā ar Finanšu instrumentu tirgus likuma noteikumiem, akciju sabiedrība ne vēlāk kā līdz 2009.gada 31.decembrim pieņem lēmumu par uzrādītāja akciju konversiju uz vārda akcijām vai nodrošina uzrādītāja akciju iegrāmatošanu Latvijas Centrālajā depozitārijā.

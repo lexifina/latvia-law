@@ -1,0 +1,1 @@
+12. Ja akciju sabiedrības statūtos nav norādīti tās galvenie komercdarbības veidi, sabiedrība, ievērojot šā likuma 144.panta otrās daļas 4.punkta prasības, izdara attiecīgus grozījumus savos statūtos un iesniedz tos komercreģistra iestādei ne vēlāk kā līdz 2009.gada 31.decembrim.
