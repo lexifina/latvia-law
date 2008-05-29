@@ -1,0 +1,1 @@
+1.pants. Šā likuma mērķis ir novērst to, ka Rīgas rajona Ķekavas pagasta padome pieņem normatīvajiem aktiem neatbilstošus lēmumus un nenodrošina normatīvajos aktos noteikto pašvaldības funkciju izpildi.

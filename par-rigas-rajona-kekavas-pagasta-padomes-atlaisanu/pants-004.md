@@ -1,0 +1,1 @@
+4.pants. Pagaidu administrācija pilda normatīvajos aktos paredzētās vietējās pašvaldības padomes funkcijas un nodrošina pašvaldības iestāžu darba nepārtrauktību, kā arī finansiālo un saimniecisko darbību. Pagaidu administrācijas vadītājs pilda vietējās pašvaldības padomes priekšsēdētājam normatīvajos aktos noteiktos pienākumus.
