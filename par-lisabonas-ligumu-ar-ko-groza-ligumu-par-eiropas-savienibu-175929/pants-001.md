@@ -1,0 +1,1 @@
+1.pants. 2007.gada 13.decembrī Lisabonā parakstītais Lisabonas līgums, ar ko groza Līgumu par Eiropas Savienību un Eiropas Kopienas dibināšanas līgumu (turpmāk - Līgums), ar šo likumu tiek pieņemts un apstiprināts.
