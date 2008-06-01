@@ -2,7 +2,7 @@
 (1) Mehāniskā transportlīdzekļa vadītājam jābūt klāt turpmāk minētajiem dokumentiem, kas jāiedod pārbaudei pēc policijas darbinieku, Autotransporta inspekcijas amatpersonu (pasažieru un kravas autopārvadājumu kontroles laikā), robežsargu (uz valsts robežas vai pierobežā) vai muitas darbinieku (muitas zonā) pieprasījuma:
 1) vadītāja apliecība;
 2) transportlīdzekļa reģistrācijas dokumenti;
-3) transportlīdzekļa īpašnieka civiltiesiskās atbildības obligātās apdrošināšanas polise, ja uz transportlīdzekļa nav attiecīgas vizuālas informācijas (uzlīme) par izdarīto apdrošināšanu;
+3) (izslēgts ar 27.09.2007. likumu);
 4) dokumenti, kuri saskaņā ar šo likumu un citiem normatīvajiem aktiem vadītājam nepieciešami, lai vadītu attiecīgu transportlīdzekli (operatīvo transportlīdzekli vai tamlīdzīgu transportlīdzekli) vai pārvadātu attiecīgu kravu (bīstamu, lielgabarīta, smagsvara un tamlīdzīgu kravu);
 5) (izslēgts ar 15.12.2005. likumu);
 6) dokuments par veikto valsts tehnisko apskati vai tehnisko kontroli uz ceļiem, ja uz transportlīdzekļa nav attiecīgās vizuālās informācijas (uzlīmes), vai Ceļu satiksmes drošības direkcijas izsniegta vienas dienas atļauja piedalīties ceļu satiksmē, lai veiktu valsts tehnisko apskati.
