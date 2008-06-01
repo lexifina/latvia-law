@@ -7,5 +7,7 @@
 1) Garantijas fondā;
 2) ceļu satiksmes negadījumu novēršanai un profilakses pasākumu veikšanai;
 3) Transportlīdzekļu apdrošinātāju biroja darbības nodrošināšanai.
-(6) Apdrošinātājs kopā ar apdrošināšanas polisi pēc apdrošinājuma ņēmēja pieprasījuma izsniedz līguma slēdzējam saskaņotā paziņojuma veidlapas un transportlīdzekļa īpašnieka civiltiesiskās atbildības obligātās apdrošināšanas vizuālo informāciju (uzlīmi).
+(6) Apdrošinātājs pēc apdrošinājuma ņēmēja (transportlīdzekļa īpašnieka vai apdrošināšanas līgumu noslēgušās personas) pieprasījuma izsniedz saskaņotā paziņojuma veidlapas:
+1) uzreiz pēc pieprasījuma saņemšanas, ja tas saņemts, neizmantojot distances saziņas līdzekli;
+2) piecu darbdienu laikā pēc pieprasījuma saņemšanas, ja tas saņemts, izmantojot distances saziņas līdzekli.
 (7) Katrs apdrošinātājs arī pēc tam, kad ir izbeidzis dalību Transportlīdzekļu apdrošinātāju birojā, pilda savas saistības un sedz administratīvos izdevumus, kas radušies laikā, kad tas bija Transportlīdzekļu apdrošinātāju biroja biedrs.
