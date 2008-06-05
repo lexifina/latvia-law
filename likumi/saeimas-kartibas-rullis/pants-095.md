@@ -5,7 +5,8 @@
 4) deputāts;
 5) Ministru prezidents, Ministru prezidenta biedrs, ministrs, valsts ministrs;
 6) ministra pilnvarojumā ministrijas parlamentārais sekretārs;
-7) Saeimas juridiskais dienests, ja šie priekšlikumi attiecas uz likumdošanas tehniku un kodifikāciju.
+7) Saeimas juridiskais dienests, ja šie priekšlikumi attiecas uz likumdošanas tehniku un kodifikāciju;
+8) tiesībsargs.
 (2) Priekšlikumi iesniedzami rakstveidā atbildīgajai komisijai vai Saeimas Kancelejai, kas tos nekavējoties nodod atbildīgajai komisijai. Ja atbilstoši Kārtības ruļļa 90.¹ pantam noteikta priekšlikumu iesniegšanas kārtība (forma) likumprojektam par budžetu, priekšlikumi iesniedzami šajā lēmumā noteiktajā kārtībā.
 (3) (Izslēgta ar 07.10.1998. likumu.)
 (4) Priekšlikumus likumprojektam par budžetu atbildīgā komisija nosūta Ministru kabinetam vismaz piecas dienas pirms to izskatīšanas komisijas sēdē, vienlaikus paziņojot, kad priekšlikumi tiks izskatīti komisijā.

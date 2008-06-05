@@ -1,0 +1,4 @@
+118.² (1) Ja Ministru prezidents iesniedz Saeimai priekšlikumu dot Saeimas sēdē vārdu viņam vai ministram (vienam vai vairākiem) ziņojumam par konkrēto tēmu, vienlaikus ar priekšlikumu iesniedzams arī attiecīgs rakstveida ziņojums. Priekšlikumā norāda, kurš ministrs vai kuri ministri ziņos par to. Ziņojuma kopijas nekavējoties izsniedz deputātiem un nosūta attiecīgajai Saeimas komisijai.
+(2) Ja nav priekšlikuma vai prasības par Saeimas ārkārtas sesijas vai ārkārtas sēdes sasaukšanu, Prezidijs Ministru prezidenta priekšlikumu iekļauj Saeimas nākamās kārtējās sēdes darba kārtībā un Saeima lemj, vai ziņojums par konkrēto tēmu iekļaujams Saeimas nākamās kārtējās sēdes darba kārtībā.
+(3) Pēc Ministru prezidenta vai ministra ziņojuma par konkrēto tēmu Saeimas sēdē tiek atklātas debates. Pēc debatēm runā, ja to vēlas, vienīgi Ministru prezidents un ministrs, kas sniedzis ziņojumu.
+(4) Saeima balso par Ministru prezidenta vai attiecīgā ministra ziņojuma pieņemšanu.
