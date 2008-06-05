@@ -1,0 +1,1 @@
+2. Ministru kabinets līdz 2009.gada 1.janvārim izdod šā likuma 17.panta otrajā daļā minētos noteikumus. Līdz to spēkā stāšanās dienai, bet ne ilgāk kā līdz 2008.gada 31.decembrim ir piemērojami Ministru kabineta 2000.gada 1.augusta noteikumi Nr.259 "Teiču dabas rezervāta konsultatīvās padomes nolikums", ciktāl tie nav pretrunā ar šo likumu.
