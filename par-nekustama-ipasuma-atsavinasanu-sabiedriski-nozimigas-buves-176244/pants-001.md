@@ -1,0 +1,1 @@
+1.pants. Atsavināt sabiedriskajām vajadzībām (braucamās daļas paplašināšanai, inženierkomunikāciju izvietošanai un ietves ierīkošanai gar Kārļa Ulmaņa gatvi) nekustamo īpašumu - daļu zemesgabala 269 m² platībā, ko norobežo sarkanā līnija, Rīgā, Šampētera ielā 153 (kadastra Nr.0100 099 0087, reģistrēts Rīgas pilsētas zemesgrāmatas nodalījumā Nr.9627).
