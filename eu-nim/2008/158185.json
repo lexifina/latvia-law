@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Tiesībsarga likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "82",
+  "official_journal_page": null,
+  "official_journal_date": "2008-05-28",
+  "entry_into_force": "2008-06-11",
+  "notification_date": "2008-09-25",
+  "commission_reference": "MNE(2008)55232",
+  "nim_celex": "72000L0078LVA_158185",
+  "nim_id": "158185",
+  "transposes_celex": [
+    "32000L0078",
+    "32002L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a99624a2-dd70-4644-97c7-399414274c0e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
