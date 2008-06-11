@@ -9,7 +9,8 @@
 7) reklāmas, afišu un sludinājumu izvietošanu publiskās vietās;
 8) laivu, motorlaivu un jahtu turēšanu;
 9) pašvaldību simbolikas izmantošanu;
-10) būvatļaujas saņemšanu.
+10) būvatļaujas saņemšanu;
+11) pašvaldības infrastruktūras uzturēšanu un attīstību.
 (2) Rajona padomei ir tiesības Ministru kabineta noteikumos noteiktajā kārtībā savā administratīvajā teritorijā uzlikt nodevu par:
 1) rajona padomes izstrādāto oficiālo dokumentu un apliecinātu to kopiju saņemšanu;
 2) rajona pašvaldības simbolikas izmantošanu.
