@@ -6,5 +6,6 @@
 5) bēgļiem un personām, kurām piešķirts alternatīvais statuss;
 6) aizturētajām, apcietinātajām un ar brīvības atņemšanu notiesātajām personām.
 (2) Ārstniecības pakalpojumus šā panta pirmajā daļā minētajā apjomā sniedz tajā laikā un vietā, kad un kur tas nepieciešams, atbilstoši ārstniecības personu kvalifikācijai un attiecīgajā ārstniecības iestādē diagnostikā, ārstnieciskajā un pacientu aprūpē izmantojamā aprīkojuma līmenim.
-(3) Šā panta pirmajā daļā minēto personu bērniem no valsts pamatbudžeta un pakalpojumu saņēmēju līdzekļiem apmaksātos ārstniecības pakalpojumus ir tiesības saņemt bez maksas.
-(4) Personas, kuras nav minētas šā panta pirmajā un trešajā daļā, ārstniecības pakalpojumus saņem par maksu.
+(3) Latvijas pilsoņu un Latvijas nepilsoņu laulātajiem, kuriem ir termiņuzturēšanās atļauja Latvijā, no valsts pamatbudžeta un pakalpojumu saņēmēju līdzekļiem apmaksāto grūtnieču aprūpi un dzemdību palīdzību ir tiesības saņemt bez maksas Ministru kabineta noteiktajā kārtībā.
+(4) Šā panta pirmajā daļā minēto personu bērniem no valsts pamatbudžeta un pakalpojumu saņēmēju līdzekļiem apmaksātos ārstniecības pakalpojumus ir tiesības saņemt bez maksas.
+(5) Personas, kuras nav minētas šā panta pirmajā, trešajā un ceturtajā daļā, ārstniecības pakalpojumus saņem par maksu.

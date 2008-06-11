@@ -2,4 +2,4 @@
 1) veic slimību profilaksi, diagnostiku, ārstēšanu un pacientu medicīnisko rehabilitāciju;
 2) novērtē slimības un to izraisītos funkcionēšanas ierobežojumus ķermeņa, aktivitātes un dalības līmenī;
 3) pēta slimības izcelsmi un profilakses iespējas.
-(2) Ārsts, kurš ir reģistrēts ārstniecības personu reģistrā, bet nav sertificēts noteiktā ārstniecības personas specialitātē, drīkst patstāvīgi nodarboties ar ārstniecību atbilstoši Ministru kabineta noteiktajai kompetencei.
+(2) (Izslēgta ar 08.05.2008. likumu.)

@@ -1,0 +1,1 @@
+74.pants. Lēmumu par ārstniecības iestādes vai tās struktūrvienības darbības apturēšanu, ja pārkāpti ārstniecības jomu regulējošie normatīvie akti, pieņem Veselības inspekcijas vadītājs un viņa vietnieki, kā arī Veselības inspekcijas teritoriālo nodaļu vadītāji un viņu vietnieki.

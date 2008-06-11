@@ -1,0 +1,14 @@
+75.pants. (1) Ja Veselības inspekcijas inspektors ir konstatējis tādu ārstniecības jomu regulējošo normatīvo aktu pārkāpumu, kas rada risku veiksmīgai ārstniecības procesa norisei, viņš izsaka rakstveida brīdinājumu ārstniecības iestādei. Brīdinājumā norāda visus konstatētos ārstniecības jomu regulējošo normatīvo aktu pārkāpumus un sniedz ieteikumus, kā arī nosaka pārkāpumu novēršanas termiņu.
+(2) Ņemot vērā pārkāpuma ietekmi uz ārstniecības procesu un tā faktiskās novēršanas iespējas, brīdinājumā ietverto pārkāpumu novēršanas termiņu nosaka ne īsāku par:
+1) diviem gadiem, ja pārkāpuma novēršanai nepieciešama kapitālā celtniecība;
+2) sešiem mēnešiem, ja pārkāpuma novēršanai nepieciešama ēku daļēja pārbūve vai iekārtu kapitālremonts.
+(3) Pārējos gadījumos, kas nav minēti šā panta otrajā daļā, Veselības inspekcijas inspektors, ņemot vērā pārkāpuma ietekmi uz ārstniecības procesu un tā faktiskās novēršanas iespējas, nosaka pārkāpuma novēršanas termiņu no viena mēneša līdz trim mēnešiem.
+(4) Ja brīdinājumā norādītie pārkāpumi noteiktajā termiņā netiek novērsti, šā likuma 74.pantā minētās amatpersonas pieņem lēmumu par attiecīgās ārstniecības iestādes vai tās struktūrvienības darbības apturēšanu.
+(5) Ārstniecības iestādes vai tās struktūrvienības darbības apturēšanu nodrošina iestādes vadītājs, piedaloties amatpersonai, kura pieņēmusi lēmumu par darbības apturēšanu, vai tās pilnvarotai amatpersonai.
+(6) Ārstniecības iestādes vai tās struktūrvienības darbības apturēšanu veic tā, lai:
+1) varētu netraucēti novērst konstatētos pārkāpumus;
+2) iespējami samazinātu telpu un iekārtu bojāšanos meteoroloģisko apstākļu vai korozijas dēļ;
+3) iespējami mazāk tiktu traucēta citu struktūrvienību un iekārtu darbība.
+(7) Darbības apturēšanas kontroli nodrošina amatpersona, kura pieņēmusi lēmumu par darbības apturēšanu, vai tās pilnvarota amatpersona.
+(8) Ārstniecības iestādes vai tās struktūrvienības darbību var apturēt bez iepriekšēja brīdinājuma, ja ārstniecības jomu regulējošo normatīvo aktu pārkāpumu dēļ rodas draudi cilvēku veselībai un dzīvībai.
+(9) Amatpersona, kurai ir tiesības pieņemt šā panta astotajā daļā minēto lēmumu par ārstniecības iestādes darbības apturēšanu, šo lēmumu pieņem ne vēlāk kā triju darbdienu laikā pēc tam, kad tai kļuvis zināms par šā panta astotajā daļā minētajiem ārstniecības jomu regulējošo normatīvo aktu pārkāpumiem, un tas izpildāms nekavējoties.
