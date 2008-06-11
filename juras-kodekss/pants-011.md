@@ -1,7 +1,12 @@
 11.pants. Kārtība, kādā kuģi reģistrē Kuģu reģistrā un izsniedz kuģa apliecības
-(1) Kuģi reģistrē Kuģu reģistrā, pamatojoties uz dokumentu, kas apliecina kuģa tiesisku iegūšanu, noslēdzot kuģa menedžmenta līgumu, vai uz dokumentu, kas apliecina kuģa pārņemšanu valdījumā, noslēdzot berbouta līgumu.
+(1) Kuģi reģistrē Kuģu reģistrā, pamatojoties uz:
+1) dokumentu, kas ir par pamatu īpašuma tiesību iegūšanai uz kuģi;
+2) berbouta līgumu;
+3) kuģa menedžmenta līgumu;
+4) valsts iestādes izsniegtu izziņu, kas apliecina, ka kuģis ir attiecīgās valsts institūcijas bilancē.
+(1¹) Ja kuģis ir valsts īpašums, tas reģistrējams Kuģu reģistrā uz valsts vārda attiecīgās valsts institūcijas personā.
 (2) Pēc kuģa reģistrēšanas Kuģu reģistrā kuģa īpašniekam izsniedz kuģa reģistrācijas apliecību, kā arī:
-1) īpašuma apliecību un reģistrē Kuģu reģistrā īpašuma tiesības uz kuģi - tikai kuģa īpašniekam, kas ir Latvijā reģistrēta juridiskā persona, kā arī Latvijas pilsonis, nepilsonis vai ārzemnieks, kuram piešķirta pastāvīgās uzturēšanās atļauja Latvijā;
+1) īpašuma apliecību un reģistrē Kuģu reģistrā īpašuma tiesības uz kuģi - tikai kuģa īpašniekam, kas ir Latvijā reģistrēts tiesību subjekts (komersants, biedrība, kooperatīvā sabiedrība u.tml.), kā arī Latvijas pilsonis, nepilsonis vai ārzemnieks, kuram piešķirta pastāvīgās uzturēšanās atļauja Latvijā;
 2) karoga apliecību - tikai šā kodeksa 5.panta trešajā daļā minētā kuģa īpašniekam;
 3) citas apliecības saskaņā ar šā kodeksa noteikumiem.
 (3) Ja kuģis neatbilst šā kodeksa 10.panta trešās daļas prasībām, to nereģistrē Kuģu reģistrā līdz laikam, kad tiek novērstas kuģa neatbilstības izvirzītajām prasībām, izņemot īpašuma tiesības uz kuģi tām personām, kuras minētas šā panta otrās daļas 1.punktā. Šādā gadījumā īpašniekam kuģa reģistrācijas apliecības vietā izsniedz pagaidu reģistrācijas apliecību uz laiku līdz sešiem mēnešiem. Pagaidu reģistrācijas apliecība nedod tiesības ekspluatēt kuģi. Kuģa reģistrācijas apliecību izsniedz, kad ir novērstas kuģa neatbilstības izvirzītajām prasībām.

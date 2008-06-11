@@ -1,5 +1,5 @@
 268.pants. Vraka bīstamības novērtēšana
-(1) Kuģa kapteinis vai kuģa īpašnieks, berbouta fraktētājs vai kuģa operators, kura kuģis Latvijas ūdeņos kļuvis par vraku, paziņo Latvijas Jūras administrācijai šā vraka atrašanās vietu, vraka izmēru, veidu un konstrukciju, kuģa kravas daudzumu un veidu, kā arī sniedz citas nepieciešamās ziņas par vraku.
+(1) Kuģa kapteinis vai kuģa īpašnieks, berbouta fraktētājs vai kuģa operators, ievērojot Jūrlietu pārvaldes un jūras drošības likumā noteikto kārtību, ziņo par kuģi, kas jūras negadījuma rezultātā kļuvis par vraku Latvijas ūdeņos.
 (2) Latvijas Jūras administrācija, saņēmusi informāciju par vraku Latvijas ūdeņos, novērtē vraka bīstamību, ņemot vērā šādus kritērijus:
 1) vraka izmēru, veidu un konstrukciju;
 2) ūdens dziļumu vraka atrašanās vietā;

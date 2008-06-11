@@ -8,5 +8,5 @@
 2) ir finansiāli droša:
 a) tās pamatkapitāls nav mazāks par 5000 latu, finanšu resursi atbilst veicamajiem darījumiem (apliecināms ar gada pārskatu, auditora ziņojumu vai kredītiestāžu izsniegtām izziņām), kā arī ir veikti visi maksājumi valsts budžetā (apliecināms ar attiecīgās institūcijas izsniegtām izziņām par veiktajiem maksājumiem valsts budžetā),
 b) ir noslēgusi kuģu aģenta profesionālās darbības civiltiesiskās atbildības apdrošināšanas līgumu.
-(6) Kārtību, kādā komercsabiedrības veic kuģu aģentēšanu Latvijas ostās, pilnvarotāja tiesības un pienākumus, kuģu aģentu tiesības, pienākumus un atbildību, maksājumu noteikšanas un veikšanas kārtību, prasības attiecībā uz kuģu aģentēšanas līgumiem nosaka Ministru kabinets.
+(6) (Izslēgta ar 15.05.2008. likumu.)
 (7) Latvijas Kuģu brokeru un aģentu nacionālā asociācija pārbauda fizisko personu - kuģu aģentu darbinieku - profesionālās prasmes un iemaņas kuģu aģentēšanā attiecīgajās Latvijas ostās un izsniedz sertifikātus par kuģu aģentu darbinieku profesionālo prasmju un iemaņu atbilstību.

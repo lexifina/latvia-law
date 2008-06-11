@@ -6,10 +6,10 @@ a) komercdarbībai paredzētus kuģus, kuri reģistrācijas brīdī nav vecāki 
 b) pasažieru pārvadāšanai paredzētus kuģus, kuri reģistrācijas brīdī nav vecāki par 23 gadiem, kā arī mācībām un zinātniskās pētniecības nolūkiem paredzētus kuģus,
 c) zvejas kuģus un laivas,
 d) valsts dienestu (tādu funkciju veikšanai kā robežas apsargāšana, vides aizsardzība, avāriju novēršana u.tml.) kuģus,
-e) atpūtas kuģus (buru jahtas un motorjahtas);
+e) šādus atpūtas kuģus: buru jahtas un motorjahtas;
 2) Ceļu satiksmes drošības direkcijas reģistrā:
 a) kuģošanas līdzekļus, kuru maksimālais garums ir mazāks par 12metriem, izņemot kuģus, kurus izmanto komercdarbībai jūrā un ostās,
-b) ūdenssportam un atpūtai paredzētus kuģošanas līdzekļus (arī ūdens motociklus), kuru maksimālais garums ir mazāks par 12 metriem, izņemot jahtas.
+b) šādus atpūtas kuģus: ūdenssportam un atpūtai paredzētus kuģošanas līdzekļus (arī ūdens motociklus), kuru maksimālais garums ir mazāks par 12 metriem, izņemot jahtas.
 (3) Šā panta otrās daļas 2.punktā minēto kuģošanas līdzekļu reģistrācijas kārtību, kā arī noteikumus par visu kuģošanas līdzekļu satiksmi iekšējos ūdeņos nosaka Ministru kabinets.
 (4) Latvijas kuģu tehniskās uzraudzības un klasifikācijas prasības nosaka Jūrlietu pārvaldes un jūras drošības likums.
 (5) (Izslēgta ar 22.12.2005. likumu.)
