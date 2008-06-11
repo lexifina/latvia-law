@@ -1,1 +1,1 @@
-4. Iesniegumus, sūdzības un priekšlikumus, kuri iesniegti Valsts cilvēktiesību birojam līdz šā likuma spēkā stāšanās dienai un pēc kuriem uzsāktas pārbaudes, pabeidz izskatīt saskaņā ar tiem normatīvajiem aktiem, kas bija spēkā to iesniegšanas dienā.
+4. Iesniegumus, kuri iesniegti Valsts cilvēktiesību birojam līdz šā likuma spēkā stāšanās dienai un pēc kuriem uzsāktas pārbaudes, pabeidz izskatīt saskaņā ar tiem normatīvajiem aktiem, kas bija spēkā to iesniegšanas dienā.

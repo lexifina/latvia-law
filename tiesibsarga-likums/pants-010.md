@@ -5,4 +5,4 @@
 3) ir pieļāvis apkaunojošu nodarījumu, kas nav savienojams ar tiesībsarga statusu;
 4) bez attaisnojoša iemesla nepilda savus pienākumus;
 5) ir ievēlēts vai iecelts citā amatā.
-(2) Jautājumu par tiesībsarga atbrīvošanu no amata var ierosināt ne mazāk kā pieci Saeimas deputāti.
+(2) Jautājumu par tiesībsarga atbrīvošanu no amata var ierosināt ne mazāk kā viena trešdaļa Saeimas deputātu.

@@ -1,0 +1,1 @@
+6. Tiesībsarga pilnvaru termiņš, kas apstiprināts pirms dienas, kad stājas spēkā grozījumi šā likuma 7.panta pirmajā daļā, ir četri gadi no dienas, kad tiesībsargs atbilstoši šā likuma 6.pantam devis zvērestu (svinīgo solījumu).
