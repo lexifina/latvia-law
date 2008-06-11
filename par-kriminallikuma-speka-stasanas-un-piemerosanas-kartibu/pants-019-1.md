@@ -1,0 +1,1 @@
+19.¹ pants. Svešas kustamas mantas nolaupīšana uzskatāma par pabeigtu noziedzīgu nodarījumu ar brīdi, kad persona to prettiesiski ieguvusi, neatkarīgi no tā, vai šai personai bija iespēja rīkoties ar attiecīgo mantu kā ar savu.
