@@ -7,7 +7,7 @@ c) izmanto zemes dzīļu derīgās īpašības, iesūknējot ģeoloģiskajās st
 d) emitē vidē ar nodokli apliekamas piesārņojošas vielas vai apglabā atkritumus,
 e) emitē vidē siltumnīcefekta gāzes no stacionāras tehnoloģiskas iekārtas, kurā tiek veikta viena vai vairākas likuma "Par piesārņojumu" 2.pielikumā minētās piesārņojošās darbības (arī tādas piesārņojošas darbības, kuru ražošanas jauda vai saražotais produkcijas apjoms nepārsniedz likuma "Par piesārņojumu" 2.pielikumā minētos rādītājus);
 2) pirmā Latvijas Republikas teritorijā:
-a) realizē videi kaitīgas preces vai preces iepakojumā (arī kopā ar preci ievesto precei pievienoto primāro, sekundāro un terciāro iepakojumu) vai ogles, koksu un lignītu (brūnogles),
+a) realizē videi kaitīgas preces vai preces iepakojumā (arī kopā ar preci ievesto precei pievienoto primāro, sekundāro un terciāro iepakojumu) vai ogles, koksu un lignītu (brūnogles), kā arī pircēja ērtības vai reklāmas noformējuma dēļ iepakotu vai neiepakotu preču vai produktu kopumam (pirkumam) pievieno iepakojumu,
 b) savas saimnieciskās darbības nodrošināšanai izmanto videi kaitīgas preces, izņemot preces, kuras apliekamas ar nodokli, tās realizējot, vai iepakojumā iegādātas preces (arī kopā ar preci ievesto precei pievienoto primāro, sekundāro un terciāro iepakojumu), izņemot preces iepakojumā, kuras apliekamas ar nodokli, tās realizējot,
 c) sniedzot pakalpojumu, pievieno izstrādājumam iepakojumu, un šis iepakojums pēc pakalpojuma sniegšanas nonāk pie pakalpojuma saņēmēja,
 d) savas saimnieciskās darbības nodrošināšanai izmanto ogles, koksu un lignītu (brūnogles), izņemot ogles, koksu un lignītu (brūnogles), kuras apliekamas ar nodokli, tās realizējot;

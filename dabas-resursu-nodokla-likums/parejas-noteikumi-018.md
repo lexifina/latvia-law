@@ -1,0 +1,1 @@
+18. Grozījumi likuma 19.pantā attiecībā uz nodokļa likmes noteikšanu pazemes ūdeņiem, ko izmanto par dzērienu sastāvdaļu vai par pārtikas produktu sastāvdaļu ražošanas procesā, piemērojami, sākot ar 2008.gada 1.janvāri.
