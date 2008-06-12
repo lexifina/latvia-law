@@ -1,0 +1,1 @@
+1.pants. 2007.gada 15.oktobrī parakstītais Stabilizācijas un asociācijas nolīgums starp Eiropas Kopienām un to dalībvalstīm, no vienas puses, un Melnkalnes Republiku, no otras puses (turpmāk - nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
