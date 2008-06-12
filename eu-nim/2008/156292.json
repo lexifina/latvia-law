@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Derīgo izrakteņu ieguves atkritumu apsaimniekošanas kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "90",
+  "official_journal_page": null,
+  "official_journal_date": "2008-06-11",
+  "entry_into_force": "2008-06-12",
+  "notification_date": "2008-06-18",
+  "commission_reference": "MNE(2008)53386",
+  "nim_celex": "72006L0021LVA_156292",
+  "nim_id": "156292",
+  "transposes_celex": [
+    "32006L0021"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/46f6e8ee-1404-45b2-9a0a-311f3a81b8fd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
