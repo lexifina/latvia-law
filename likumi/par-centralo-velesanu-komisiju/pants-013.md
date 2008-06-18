@@ -1,1 +1,1 @@
-13. pants. Centrālās vēlēšanu komisijas lēmumi ir pārsūdzami likumā noteiktajā kārtībā.
+13. pants. Centrālās vēlēšanu komisijas lēmumi, kuru apstrīdēšanas kārtība nav noteikta attiecīgajā likumā, pārsūdzami tiesā Administratīvā procesa likumā noteiktajā kārtībā.
