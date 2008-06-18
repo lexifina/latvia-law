@@ -1,1 +1,1 @@
-1. Cukurbiešu audzētāju sabiedriskā organizācija, kura līdz šā likuma spēkā stāšanās dienai uzturēja cukurbiešu audzētāju reģistru, turpina to uzturēt līdz dienai, kad Zemkopības ministrija saskaņā ar šā likuma 7.panta pirmo daļu noteikusi jaunu deleģējumu.
+1. Cukurbiešu audzētāju reģistru, kuru līdz šā likuma spēkā stāšanās dienai uzturēja cukurbiešu audzētāju sabiedriskā organizācija, pārņem Lauku atbalsta dienests.
