@@ -1,1 +1,0 @@
-9.pants. Cukurbiešu audzētāju personu apvienības lēmumi, kas pieņemti, realizējot šā likuma 8.pantā noteiktos uzdevumus, ir apstrīdami Zemkopības ministrijā un pārsūdzami tiesā Administratīvā procesa likumā noteiktajā kārtībā.

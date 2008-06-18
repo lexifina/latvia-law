@@ -1,1 +1,0 @@
-12.pants. Ja cukura ražotājam kārtējā gadā atbilstoši piešķirtajai cukura ražošanas kvotai nepieciešamais cukurbiešu piegādes apjoms ir lielāks par kopējo cukurbiešu piegādes pamatapjomu, kārtējā gada cukurbiešu piegādes apjoms proporcionāli tiek palielināts tiem cukurbiešu audzētājiem, kuri iepriekšējā gadā ir pilnīgi izpildījuši tiem noteikto cukurbiešu piegādes apjomu.

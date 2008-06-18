@@ -1,3 +1,0 @@
-5.pants. (1) Cukura ražotāji katru gadu līdz 5.janvārim iesniedz Zemkopības ministrijai pieteikumu par nepieciešamās cukura ražošanas kvotas apjomu kārtējam gadam.
-(2) Ministru kabinets katru gadu līdz 15.februārim sadala cukura ražotājiem cukura ražošanas kvotas, pamatojoties uz pēdējos trijos gados noteikto kvotu ietvaros cukura ražotāju attiecīgi saražotā cukura proporcijām un ievērojot noslēgto cukurbiešu piegādes līgumu atbilstību Latvijas un Eiropas Savienības tiesību aktiem, kā arī līgumā pārrēķināto cukura daudzumu.
-(3) Ja cukura ražotājs saražojis cukuru tādā apjomā, kas neatbilst Latvijas un Eiropas Savienības tiesību aktiem, cukura ražošanas kvota tiek proporcionāli pārdalīta.
