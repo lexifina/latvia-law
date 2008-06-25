@@ -1,5 +1,5 @@
-348.pants. Tiesiskās aizsardzības procesa lietas izskatīšana un spriedums parādnieka tiesiskās aizsardzības procesa lietā
-(1) Tiesiskās aizsardzības procesa lietu tiesa izskata 35 dienu laikā no lietas ierosināšanas dienas.
+348.pants. Tiesiskās aizsardzības procesa lietas izskatīšana un spriedums tiesiskās aizsardzības procesa lietā
+(1) Tiesiskās aizsardzības procesa lietu tiesa izskata 45 dienu laikā no lietas ierosināšanas dienas.
 (2) Uz tiesas sēdi aicina tiesiskās aizsardzības procesa pieteikuma iesniedzēju, administratoru un nodrošināto kreditoru.
 (3) Lietas izskatīšanas gaitā tiesa:
 1) izvērtē, vai tiesiskās aizsardzības procesa pasākumu plāns ir saskaņots Maksātnespējas likumā noteiktajā kārtībā;

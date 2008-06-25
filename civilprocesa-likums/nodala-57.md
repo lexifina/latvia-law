@@ -1,2 +1,2 @@
 57.nodaļa
-Lietas izskatīšana kasācijas instancē
+Kasācijas tiesvedības ierosināšana un lietas izskatīšana kasācijas instancē

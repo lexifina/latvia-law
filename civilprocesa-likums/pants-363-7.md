@@ -8,7 +8,7 @@
 (7) Apmierinot pieteikumu, tiesa:
 1) uzklausa administratora pamatotu viedokli un nosaka kreditoru prasījumu pieteikšanas termiņu;
 2) dzēš aizlieguma atzīmi zemesgrāmatā, ja tā ierakstīta prasījumu nodrošināšanas kārtībā, un lemj par maksātnespējas atzīmes ierakstīšanu zemesgrāmatā;
-3) apstiprina izmaksas, kas radušās līdz tiesas spriedumam maksātnespējas procesa lietā;
+3) apstiprina maksātnespējas procesa izdevumus, kas radušies līdz tiesas spriedumam maksātnespējas procesa lietā;
 4) lemj, vai uzlikt administratoram par pienākumu publicēt paziņojumu par parādnieka maksātnespējas procesu tās valsts oficiālajā laikrakstā, kuras teritorijā atrodas parādnieka uzņēmums Padomes regulas Nr. 1346/2000 2.panta "h" punkta izpratnē vai manta, ja administratoram ir izvēles tiesības publicēt citā Eiropas Savienības dalībvalstī (turpmāk - cita dalībvalsts) šādu paziņojumu un tiesa pret parādnieku uzsāk minētās regulas 3.panta 1.punktā noteikto maksātnespējas procedūru.
 (8) Ja maksātnespējas procesa pazīmes netiek konstatētas, tiesa maksātnespējas procesa pieteikumu noraida, vienlaikus atceļot piemēroto prasības nodrošinājuma līdzekli, un izbeidz maksātnespējas procesu, kā arī izlemj jautājumu, vai maksātnespējas procesa pieteikums atzīstams par nepamatotu vai apzināti nepatiesu vai arī maksātnespējas procesa pieteikums bijis pamatots, bet parādnieks, būdams maksātspējīgs, nav pildījis savas saistības.
 (9) Atzinusi maksātnespējas procesa pieteikumu par nepamatotu vai apzināti nepatiesu, tiesa piedzen no maksātnespējas procesa pieteikuma iesniedzēja tiesas izdevumus un administratora atlīdzību. Pārējos gadījumos šie izdevumi piedzenami no parādnieka.

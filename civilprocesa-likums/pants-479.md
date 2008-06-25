@@ -4,4 +4,5 @@ Par jaunatklātiem apstākļiem atzīst:
 2) ar likumīgā spēkā stājušos tiesas spriedumu krimināllietā konstatētas apzināti nepatiesas liecinieku liecības, apzināti nepatiesu eksperta atzinumu, apzināti nepatiesu tulkojumu, viltotus rakstveida vai lietiskos pierādījumus, uz kuru pamata taisīts spriedums;
 3) ar likumīgā spēkā stājušos tiesas spriedumu krimināllietā konstatētas noziedzīgās darbības, kuru dēļ taisīts nelikumīgs vai nepamatots spriedums vai pieņemts lēmums;
 4) tā tiesas sprieduma vai citas iestādes lēmuma atcelšanu, uz kura pamata taisīts spriedums vai pieņemts lēmums šajā lietā;
-5) lietas izspriešanā piemērotās tiesību normas atzīšanu par neatbilstošu augstāka juridiska spēka tiesību normai.
+5) lietas izspriešanā piemērotās tiesību normas atzīšanu par neatbilstošu augstāka juridiska spēka tiesību normai;
+6) Eiropas Cilvēktiesību tiesas vai citas starptautiskas vai pārnacionālas tiesas nolēmums šajā lietā, no kura izriet, ka tiesvedība ir jāuzsāk no jauna. Šādā gadījumā tiesai, pieņemot nolēmumu atsāktajā lietā, jābalstās uz Eiropas Cilvēktiesību tiesas vai citas starptautiskas vai pārnacionālas tiesas nolēmumā konstatētajiem faktiem un to juridisko vērtējumu.
