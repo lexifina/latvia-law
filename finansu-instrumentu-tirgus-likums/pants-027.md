@@ -27,3 +27,4 @@
 1) deleģēt saskaņā ar normatīvajiem aktiem vai statūtiem noteiktos savu pārvaldes institūciju pienākumus;
 2) licencē regulētā tirgus organizēšanai atļauto funkciju kopuma veikšanu pilnībā nodot ārpakalpojumu sniedzējiem.
 (11) Tirgus organizētājs ievieto savā mājaslapā internetā to akcionāru vai dalībnieku sarakstu, kuriem ir būtiska līdzdalība regulētā tirgus organizētāja kapitālā, un šo sarakstu pastāvīgi atjauno.
+(12) Tirgus organizētājs katra kalendāra gada pirmo triju darba dienu laikā publicē attiecīgā kalendāra gada finanšu instrumentu tirdzniecības dienu kalendāru savā mājas lapā internetā.

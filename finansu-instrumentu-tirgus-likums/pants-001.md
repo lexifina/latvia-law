@@ -5,7 +5,7 @@ Likumā ir lietoti šādi termini:
 3) ieguldījumu brokeru sabiedrība - kapitālsabiedrība, kas regulāri un profesionāli sniedz ieguldījumu pakalpojumus;
 4) (izslēgts ar 04.10.2007. likumu);
 5) dalībvalsts - Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts;
-6) izcelsmes valsts - dalībvalsts, ko nosaka saskaņā ar šā likuma 3.¹ panta prasībām;
+6) izcelsmes dalībvalsts - dalībvalsts, ko nosaka saskaņā ar šā likuma 3.¹ panta prasībām;
 7) dalībvalsts uzraudzības institūcija - institūcija, kurai dalībvalsts deleģējusi ieguldījumu pakalpojumu sniegšanas uzraudzības funkciju, neatkarīgi no tā, vai šī institūcija izveidota uz likuma pamata vai arī šīs funkcijas veikšanu tai deleģējusi valsts pārvaldes iestāde, ja par šo institūciju un tās tiesībām un pienākumiem attiecīgā dalībvalsts paziņojusi Eiropas Savienības Komisijai;
 8) regulētais tirgus - organizatorisku, juridisku un tehnisku pasākumu kopums, kas padara iespējamu atklātu un regulāru finanšu instrumentu darījumu slēgšanu;
 9) regulētā tirgus organizētājs - kapitālsabiedrība, kas organizē regulēto tirgu;
@@ -94,4 +94,5 @@ d) personai ir kontrole pār komercsabiedrību, un šī persona to faktiski izma
 59) konsultāciju sniegšana par ieguldījumiem finanšu instrumentos - klientam piemērota vai ar klienta individuālajiem apstākļiem pamatota personiska ieteikuma sniegšana klientam par vienu darījumu vai vairākiem darījumiem ar finanšu instrumentiem, iesakot pirkt, pārdot, parakstīties, apmainīt, paturēt, izpirkt, izvietot konkrētu finanšu instrumentu vai izmantot vai atturēties izmantot ar konkrētu finanšu instrumentu piešķirtās tiesības, ko ieguldījumu brokeru sabiedrība vai kredītiestāde sniedz pēc klienta pieprasījuma vai savas iniciatīvas un kas nav izplatīts sabiedrībai;
 60) profesionāls klients - klients, kuram ir attiecīga pieredze, zināšanas un kompetence, lai patstāvīgi pieņemtu ieguldījumu lēmumu un pienācīgi novērtētu riskus, ko viņš uzņemas;
 61) privāts klients - klients, kas nav profesionāls klients;
-62) finanšu analītiķis - ieguldījumu brokeru sabiedrības vai kredītiestādes darbinieks, kas izstrādā ieguldījumu pētījuma saturu.
+62) finanšu analītiķis - ieguldījumu brokeru sabiedrības vai kredītiestādes darbinieks, kas izstrādā ieguldījumu pētījuma saturu;
+63) korporatīvā pārvaldība - pasākumu kopums komercsabiedrības darbības mērķu sasniegšanai un komercsabiedrības darbības kontrolei, kā arī ar komercsabiedrības darbību saistīto risku novērtēšanai un pārvaldīšanai.

@@ -1,10 +1,10 @@
 72.pants. Akciju atpirkšanas piedāvājuma prospekta izskatīšanas kārtība
-(1) Komisija, saņemot prospektu par akciju atpirkšanas piedāvājuma izteikšanu, izmantojot tai pieejamos sakaru un informācijas līdzekļus, nekavējoties, bet ne vēlāk kā nākamajā darbdienā paziņo attiecīgajam regulētā tirgus organizētājam šādu informāciju:
+(1) Pēc tam, kad Komisija saņēmusi prospektu par akciju atpirkšanas piedāvājuma izteikšanu, tā, izmantojot pieejamos sakaru un informācijas līdzekļus, nekavējoties, bet ne vēlāk kā nākamajā darba dienā ievieto oficiālajā glabāšanas sistēmā, kā arī paziņo attiecīgajam regulētā tirgus organizētājam šādu informāciju:
 1) 71.panta 2.punktā minēto informāciju par piedāvātāju;
-2) vienas akcijas atpirkšanas cenu;
+2) prospektā norādīto vienas akcijas atpirkšanas cenu;
 3) piedāvājuma termiņu.
 (2) Tirgus organizētājs šā panta pirmajā daļā minēto informāciju nekavējoties ievieto savā mājas lapā internetā.
-(3) Komisija izskata iesniegumu un akciju atpirkšanas piedāvājuma prospektu un 10 dienu laikā pēc visu šā likuma 70.pantā minēto atbilstoši normatīvo aktu prasībām sagatavoto un noformēto dokumentu saņemšanas pieņem lēmumu par atļauju vai atteikumu izteikt piedāvājumu.
+(3) Komisija izskata iesniegumu un akciju atpirkšanas piedāvājuma prospektu un 10 darba dienu laikā pēc visu šā likuma 70.pantā minēto atbilstoši normatīvo aktu prasībām sagatavoto un noformēto dokumentu saņemšanas pieņem lēmumu par atļauju vai atteikumu izteikt piedāvājumu.
 (4) Ja Komisijai nav iesniegti visi nepieciešamie dokumenti vai tie nav noformēti atbilstoši normatīvo aktu prasībām, Komisija nelemj par atļauju vai atteikumu izteikt piedāvājumu un rakstveidā piedāvātājam dara zināmus konstatētos trūkumus, kā arī termiņu to novēršanai. Ja piedāvātājs Komisijas noteiktajā termiņā novērš iepriekš rakstveidā Komisijas norādītos trūkumus, iesniegums uzskatāms par iesniegtu Komisijai pirmreizējā tā iesniegšanas dienā un Komisija pieņem lēmumu par atļauju vai atteikumu izteikt piedāvājumu. Ja piedāvātājs Komisijas noteiktajā termiņā nenovērš iepriekš rakstveidā Komisijas norādītos trūkumus, iesniegums uzskatāms par neiesniegtu.
 (5) Komisija nekavējoties, bet ne vēlāk kā nākamajā darbdienā pēc lēmuma pieņemšanas informē piedāvātāju par pieņemto lēmumu.
 (6) Pēc tam, kad pieņemts lēmums par atļauju izteikt piedāvājumu, Komisija par to vienlaikus informē gan piedāvātāju, gan arī attiecīgo tirgus organizētāju, kura regulētajā tirgū iekļautas akcijas, un elektroniskā veidā nosūta tam akciju atpirkšanas piedāvājuma prospektu.

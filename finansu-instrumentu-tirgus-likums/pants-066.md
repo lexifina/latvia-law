@@ -8,3 +8,4 @@
 2) izsaka akciju atpirkšanas piedāvājumu, kas neatbilst likuma prasībām;
 3) nav šajā likumā noteiktajā kārtībā veikusi norēķinus ar ieguldītājiem, kuri pieņēmuši akciju atpirkšanas piedāvājumu.
 (3) Akcionāru sapulces lēmumi, kas pieņemti, izmantojot balsstiesības pretēji šā panta otrās daļas noteikumiem, nav spēkā, un uz šo lēmumu pamata nedrīkst lūgt izdarīt ierakstus jebkāda veida publiskajos reģistros.
+(4) Šā panta otrajā daļā minētās balsstiesības persona var atsākt izmantot tikai tad, kad tā kaut vai ar kavēšanos, bet ir izpildījusi šajā nodaļā noteiktos pienākumus un novērsusi Komisijas konstatētos trūkumus.

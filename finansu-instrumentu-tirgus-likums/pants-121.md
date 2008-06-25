@@ -8,7 +8,7 @@
 (3) Kredītriska kapitāla prasības aprēķinam ieguldījumu brokeru sabiedrība var piemērot standartizēto pieeju vai, ja Komisija to atļauj, uz iekšējiem reitingiem balstīto pieeju.
 (4) Saņemot atļauju kredītriska kapitāla prasības aprēķinam piemērot uz iekšējiem reitingiem balstīto pieeju, ieguldījumu brokeru sabiedrība aprēķina arī atgūstamās vērtības samazinājuma riska kapitāla prasību.
 (5) Ārvalstu valūtas riska kapitāla prasības, preču riska kapitāla prasības, parāda vērtspapīru un kapitāla vērtspapīru pozīcijas riska kapitāla prasības aprēķinam ieguldījumu brokeru sabiedrība var piemērot standartizēto pieeju vai, ja Komisija to atļauj, izmantot iekšējos modeļus.
-(6) Operacionālā riska kapitāla prasības aprēķinam banka var piemērot pamatrādītāja pieeju, standartizēto pieeju vai, ja Komisija to atļauj, alternatīvo standartizēto pieeju vai attīstīto operacionālā riska mērīšanas pieeju.
+(6) Operacionālā riska kapitāla prasības aprēķinam ieguldījumu brokeru sabiedrība var piemērot pamatrādītāja pieeju, standartizēto pieeju vai, ja Komisija to atļauj, alternatīvo standartizēto pieeju vai attīstīto operacionālā riska mērīšanas pieeju.
 (7) Ieguldījumu brokeru sabiedrība šajā pantā minētajam kredītriska kapitāla prasības aprēķinam var izmantot tikai tādas ārējās kredītu novērtējuma institūcijas (reitinga aģentūras) kredīta novērtējumu, kuru Komisija ir atzinusi par piemērotu saskaņā ar Kredītiestāžu likuma noteikumiem.
 (8) Komisija nosaka pašu kapitālā iekļaujamos elementus un tā aprēķina kārtību.
 (9) Komisijai ir tiesības papildus šajā likumā izvirzītajām prasībām noteikt vēl citas ieguldījumu brokeru sabiedrību darbību regulējošas prasības, lai mazinātu šo sabiedrību darbības risku un aizsargātu ieguldītāju intereses.

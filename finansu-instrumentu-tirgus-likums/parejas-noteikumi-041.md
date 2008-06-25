@@ -1,0 +1,1 @@
+41. Kapitālsabiedrība, kuras pārvedami vērtspapīri ir iekļauti regulētajā tirgū, šā likuma 54.¹ panta noteikumus piemēro pēc revīzijas komitejas izveidošanas. Kapitālsabiedrība, kuras pārvedami vērtspapīri ir iekļauti regulētajā tirgū, revīzijas komitejas locekļus ievēlē tuvākajā akcionāru vai dalībnieku sapulcē.
