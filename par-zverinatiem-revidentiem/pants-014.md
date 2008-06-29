@@ -11,4 +11,6 @@ Zvērinātu revidentu kvalifikācijas eksāmenu priekšmetu programmās ietveram
 9) vispārējā un finanšu ekonomika;
 10) komercdarbības riska pārvaldīšana un analīze;
 11) finanšu vadības pamatprincipi;
-12) matemātika un statistika.
+12) matemātika un statistika;
+13) starptautiskie grāmatvedības standarti;
+14) profesionālā ētika un neatkarība.

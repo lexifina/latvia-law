@@ -1,0 +1,4 @@
+37.² pants. Revīzijas konsultatīvā padome
+(1) Ministru kabinets izveido Revīzijas konsultatīvo padomi (turpmāk - Padome), kuras darbības mērķis ir veicināt revīzijas pakalpojumu kvalitātes paaugstināšanu. Padomes darbību finansē no valsts budžeta līdzekļiem.
+(2) Padomes sastāvā ir pa vienam pārstāvim no Finanšu ministrijas, Tieslietu ministrijas, Finanšu un kapitāla tirgus komisijas, Latvijas Zvērinātu revidentu asociācijas, Latvijas Grāmatvežu asociācijas, Rīgas Fondu biržas, Ārvalstu investoru padomes Latvijā, Latvijas Darba devēju konfederācijas un kādas no Latvijas augstskolām. Padomes personālsastāvu apstiprina Ministru kabinets.
+(3) Padome darbojas saskaņā ar Ministru kabineta apstiprinātu nolikumu. Padomes darbību nodrošina Finanšu ministrija no tai šim mērķim valsts budžetā piešķirtiem līdzekļiem.

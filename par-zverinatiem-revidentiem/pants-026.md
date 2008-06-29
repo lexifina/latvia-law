@@ -6,6 +6,8 @@
 3) klienta vadības funkciju pildīšana;
 4) zvērināta revidenta vai viņa laulātā atrašanās radniecībā vai svainībā līdz otrajai pakāpei ar klienta amatpersonu vai dalībnieku;
 5) būtiska atkarība ieņēmumos no viena vai vairāku savstarpēji saistītu klientu apkalpošanas;
-6) par revīzijas pakalpojumiem saņemtās atlīdzības atkarība no revīzijas iznākuma;
+6) par revīzijas pakalpojumiem saņemtās atlīdzības atkarība no revīzijas iznākuma vai sniegtajiem papildu pakalpojumiem;
 7) dāvanu, atlaižu vai citu labvēlīgu darījuma nosacījumu pieņemšana no klienta;
 8) citi apstākļi, ko par tādiem atzinusi Latvijas Zvērinātu revidentu asociācija.
+(3) Zvērināta revidenta, zvērinātu revidentu komercsabiedrības iecelta atbildīgā zvērināta revidenta un zvērinātu revidentu komercsabiedrības neatkarība ir apdraudēta arī tad, ja vismaz viens no šā panta otrajā daļā minētajiem apstākļiem attiecas uz revidentu komercsabiedrību tīkla, kuram ir piederīgs zvērināts revidents vai zvērinātu revidentu komercsabiedrība, sadarbības partneri.
+(4) Zvērināta revidenta, zvērinātu revidentu komercsabiedrības iecelta atbildīgā zvērināta revidenta un zvērinātu revidentu komercsabiedrības pienākums ir revīzijas darba dokumentos norādīt šā panta otrajā daļā minētos apstākļus, ja tādi ir konstatēti, kā arī norādīt pasākumus, kas veikti, lai šos apstākļus novērstu.

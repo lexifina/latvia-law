@@ -6,4 +6,4 @@ Lai zvērināta revidenta ziņojums iegūtu juridisku spēku, tam ir nepiecieša
 4) zvērināta revidenta (likumā paredzētajos gadījumos - atbildīgā zvērināta revidenta) vārds un uzvārds;
 5) sertifikāta numurs;
 6) zvērināta revidenta (likumā paredzētajos gadījumos - atbildīgā zvērināta revidenta) paraksts;
-7) šajā likumā paredzētajos gadījumos - tās personas vārds, uzvārds, personas kods un paraksts, kura rīkojas zvērinātu revidentu komercsabiedrības vārdā, un zvērinātu revidentu komercsabiedrības licences numurs.
+7) šajā likumā paredzētajos gadījumos - tās personas vārds, uzvārds, paraksts, kura rīkojas zvērinātu revidentu komercsabiedrības vārdā, un zvērinātu revidentu komercsabiedrības licences numurs.
