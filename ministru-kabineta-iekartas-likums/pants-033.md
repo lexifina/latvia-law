@@ -1,0 +1,3 @@
+33.pants. Citi tiesību akti
+(1) Ministru kabinets un Ministru kabineta loceklis, ievērojot Valsts pārvaldes iekārtas likuma, Administratīvā procesa likuma un citu normatīvo aktu prasības, izdod administratīvos aktus, pieņem politiskus lēmumus, pārvaldes lēmumus un citus tiesību aktus.
+(2) Papildus citiem politiskajiem lēmumiem, kurus pieņem Ministru prezidents vai ministrs, par politiskiem lēmumiem uzskatāmi arī lēmumi par ministra atbrīvošanu no amata, parlamentārā sekretāra iecelšanu vai atbrīvošanu no amata, kā arī par Ministru kabineta locekļa konsultatīvo amatpersonu iecelšanu vai atbrīvošanu no amata.

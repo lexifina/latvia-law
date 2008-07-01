@@ -1,0 +1,1 @@
+4. Līdz dienai, kad stājas spēkā attiecīgi grozījumi likumā "Par valsts budžetu 2008.gadam", Ministru kabineta locekļu un parlamentāro sekretāru mēnešalgas izmaksai nepieciešamie papildu izdevumi tiek segti no Finanšu ministrijas pamatbudžeta apakšprogrammā "Līdzekļi neparedzētiem gadījumiem" paredzētajiem līdzekļiem.

@@ -1,0 +1,8 @@
+24.pants. Parlamentārais sekretārs
+(1) Ministru prezidents uz savu pilnvaru laiku ieceļ Ministru prezidenta parlamentāro sekretāru. Ministru prezidents, pamatojoties uz attiecīgā ministra ierosinājumu, katram ministram uz viņa pilnvaru laiku ieceļ parlamentāro sekretāru.
+(2) Par parlamentāro sekretāru nevar iecelt personu, kuru saskaņā ar Saeimas vēlēšanu likumu nevar pieteikt par Saeimas deputāta kandidātu un ievēlēt Saeimā.
+(3) Parlamentārais sekretārs atbilstoši attiecīgā Ministru kabineta locekļa kompetencei uztur saikni ar Saeimu un tās komisijām, pārstāv attiecīgo Ministru kabineta locekli likumdošanas procesā Saeimā, piedalās likumprojektu sagatavošanā un izskatīšanā, kā arī veic citus Ministru kabineta locekļa dotos uzdevumus un pilda normatīvajos aktos noteiktos pienākumus.
+(4) Ministru prezidenta parlamentārais sekretārs pilda šā panta trešajā daļā minētos parlamentārā sekretāra kompetencē ietilpstošos pienākumus, kā arī sasauc un vada parlamentāro sekretāru sanāksmes, lai nodrošinātu informācijas apmaiņu un parlamentāro sekretāru darbības koordināciju.
+(5) Ja amatu zaudē Ministru kabineta loceklis, to zaudē arī attiecīgais parlamentārais sekretārs.
+(6) Ministru prezidenta parlamentāro sekretāru Ministru prezidents atbrīvo no amata pēc savas iniciatīvas vai pēc parlamentārā sekretāra paša vēlēšanās. Ministru prezidents ministra parlamentāro sekretāru atbrīvo no amata pēc ministra priekšlikuma vai parlamentārā sekretāra paša vēlēšanās.
+(7) Parlamentārais sekretārs pēc amata zaudēšanas turpina pildīt savus pienākumus līdz brīdim, kad Ministru prezidents iecēlis amatā jaunu parlamentāro sekretāru, ja Ministru prezidents nav noteicis citādi.

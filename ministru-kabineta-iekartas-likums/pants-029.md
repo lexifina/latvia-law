@@ -1,0 +1,4 @@
+29.pants. Ministru kabineta darbības atklātums
+(1) Ministru kabinets un tam padotās valsts pārvaldes iestādes informē sabiedrību par savu darbību un pieņemtajiem lēmumiem. Informācijas izsniegšanu ierobežo saskaņā ar Informācijas atklātības likumu un citiem normatīvajiem aktiem.
+(2) Ministru kabineta sēdes ir atklātas. Ministru prezidents var pasludināt atsevišķas Ministru kabineta sēdes vai to daļas par slēgtām. Pieteikšanās kārtību, ierobežojumus un dalības norises kārtību Ministru kabineta sēdēs nosaka Ministru kabineta kārtības rullis.
+(3) Ministru kabineta sēdes darba kārtību, tai pievienotos publiski pieejamos tiesību aktu projektus un sēdes protokolu publicē Ministru kabineta mājaslapā internetā.

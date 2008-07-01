@@ -1,0 +1,1 @@
+6. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2010.gada 1.jūlijam ir spēkā Ministru kabineta noteikumi, kas izdoti, pamatojoties uz Saeimas 1993.gada 15.jūlijā pieņemtā Ministru kabineta iekārtas likuma 14.panta pirmās daļas 3.punktu.

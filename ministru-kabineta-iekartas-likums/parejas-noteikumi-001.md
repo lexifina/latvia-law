@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Ministru kabineta iekārtas likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1993, 28.nr.; 1994, 13.nr.; 1995, 14.nr.; 1996, 13.nr.; 1998, 15.nr.; 2000, 6.nr.; 2002, 10.nr.; 2003, 9., 14.nr.; 2004, 11.nr.).

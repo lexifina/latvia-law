@@ -1,0 +1,5 @@
+22.pants. Lietu pārņemšana
+(1) Ministru kabineta loceklim pēc viņa apstiprināšanas amatā nodod lietvedību un dokumentus, kā arī sniedz rakstveida informāciju par viņa kompetencē esošajiem jautājumiem, iesākto lietu virzību un citiem ar amata pienākumu pildīšanu saistītiem jautājumiem.
+(2) Lai nodrošinātu Ministru kabineta darbības nepārtrauktību un izstrādātu Deklarāciju, tūlīt pēc tam, kad Valsts prezidents aicinājis Ministru prezidenta amata kandidātu, Valsts kancelejai iesniedzama informācija par attiecīgā Ministru kabineta locekļa kompetencē esošajiem jautājumiem un iesākto lietu virzību. Valsts kanceleja to apkopo un nodod Ministru prezidenta amata kandidātam.
+(3) Par šā panta pirmajā un otrajā daļā minētās informācijas sniegšanu attiecībā uz Ministru prezidenta darbu atbild Valsts kancelejas direktors, bet par informācijas sniegšanu, kura attiecas uz citiem Ministru kabineta locekļiem, - attiecīgi ministrijas valsts sekretārs vai īpašu uzdevumu ministra sekretariāta vadītājs.
+(4) Šā panta pirmajā un otrajā daļā minētās informācijas saturu, apjomu un sniegšanas kārtību, kā arī vienoto formu nosaka Ministru kabineta kārtības rullis.

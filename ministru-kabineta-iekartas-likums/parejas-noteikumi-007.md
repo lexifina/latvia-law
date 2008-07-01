@@ -1,0 +1,1 @@
+7. Ministru kabinets līdz 2009.gada 1.martam izdod šā likuma 27.panta otrajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2009.gada 1.martam tiek piemēroti Ministru kabineta 2002.gada 12.marta noteikumi Nr.111 "Ministru kabineta kārtības rullis", ciktāl tie nav pretrunā ar šo likumu.

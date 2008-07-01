@@ -1,0 +1,2 @@
+18.pants. Atkārtota uzticības izteikšana
+Ja Ministru prezidents uzskata, ka Ministru kabinetam darbības turpināšanai nepieciešama atkārtota uzticības izteikšana, viņš iesniedz Saeimas Prezidijam atsevišķa lēmuma projektu par atkārtotu uzticības izteikšanu vai rakstveida iesniegumu par atkārtotas uzticības izteikšanas saistīšanu ar kādu Saeimā balsojamu lietu. Atkārtotu uzticības izteikšanu Ministru kabinetam vai Ministru prezidentam nosaka Saeimas kārtības rullis.

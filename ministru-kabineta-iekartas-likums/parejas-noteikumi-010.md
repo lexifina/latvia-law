@@ -1,0 +1,1 @@
+10. Ievērojot Latvijas Republikas starptautiskās saistības, pēc šā likuma spēkā stāšanās paliek spēkā Ministru kabineta noteikumi, kas izdoti, pamatojoties uz Saeimas 1993.gada 15.jūlijā pieņemtā Ministru kabineta iekārtas likuma 14.panta pirmās daļas 3.punktu, un kas apstiprina starptautiskus līgumus.
