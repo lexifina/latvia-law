@@ -10,4 +10,4 @@ Likumā ir lietoti šādi termini:
 8) amatpersona - fiziskā persona, kura vispārīgi vai konkrētajā gadījumā ir pilnvarota pieņemt vai sagatavot pārvaldes lēmumu;
 9) politiska amatpersona - amatpersona, kuru ievēlē vai ieceļ, pamatojoties uz politiskiem kritērijiem;
 10) pārvaldes amatpersona - amatpersona, kura ir civildienesta ierēdnis vai iestādes darbinieks un kuru ieceļ amatā vai pieņem darbā, pamatojoties uz profesionāliem kritērijiem;
-11) privātpersona - fiziskā persona vai privāto tiesību juridiskā persona.
+11) privātpersona - fiziskā persona, privāto tiesību juridiskā persona vai šādu personu apvienība.
