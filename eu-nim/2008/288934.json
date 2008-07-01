@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta iekārtas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "82",
+  "official_journal_page": null,
+  "official_journal_date": "2008-05-28",
+  "entry_into_force": "2008-07-01",
+  "notification_date": "2020-09-29",
+  "commission_reference": "MNE(2020)57177",
+  "nim_celex": "72018L1972LVA_288934",
+  "nim_id": "288934",
+  "transposes_celex": [
+    "32018L1972"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/34c9c64e-0477-11eb-a511-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
