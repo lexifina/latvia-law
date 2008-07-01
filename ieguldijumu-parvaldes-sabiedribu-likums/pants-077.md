@@ -16,3 +16,4 @@ f) sabiedrības izcelsmes valsts uzraudzības institūcijas rakstveida apliecin�
 1) nodrošina, lai ieguldītāji Latvijā tiktu laikus informēti par pārmaiņām fonda un sabiedrības darbībā;
 2) nodrošina, lai tiktu veikti norēķini par fonda daļu pārdošanu un atpakaļpirkšanu;
 3) pēc ieguldītāju pieprasījuma bez maksas izsniedz tiem fonda prospektu, fonda saīsināto prospektu un fonda pārvaldes nolikumu latviešu valodā.
+(7) Dalībvalstī licencētas sabiedrības filiāle nodrošina, lai dalībvalsts sabiedrības gada pārskats tiktu publiskots ne vēlāk kā septiņus mēnešus pēc pārskata gada beigām. Vismaz gada pārskata bilancei, peļņas vai zaudējumu aprēķinam un zvērināta revidenta atzinumam jābūt tulkotam latviešu valodā. Attiecīgo informāciju dalībvalsts sabiedrības filiāle var publiskot savā mājaslapā internetā vai arī izvēlēties informācijas publiskošanai citu piemērotu informācijas nesēju vai vietu.
