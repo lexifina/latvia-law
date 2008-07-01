@@ -1,5 +1,5 @@
 4.pants. Administratīvo aktu izdošana un apstrīdēšana
-(1) Likumā noteiktajos gadījumos Finanšu un kapitāla tirgus komisija (turpmāk - Komisija) izdod administratīvos aktus. Kārtību, kādā Komisija izdod administratīvos aktus, nosaka administratīvo aktu izdošanas kārtību reglamentējošie normatīvie akti.
+(1) Likumā noteiktajos gadījumos Komisija izdod administratīvos aktus. Kārtību, kādā Komisija izdod administratīvos aktus, nosaka administratīvo aktu izdošanas kārtību reglamentējošie normatīvie akti.
 (2) Komisijas izdota administratīvā akta tiesiskumu vai Komisijas faktisko rīcību var apstrīdēt saskaņā ar vispārējām administratīvo procesu regulējošajām tiesību normām, ja likums nenosaka citādi.
 (3) Ja dokumenti Komisijā tiek izskatīti atkārtoti, Komisija nedrīkst norādīt trūkumus vai neprecizitātes ziņās, kuras tā jau bija izskatījusi un kurās iepriekšējā dokumentu izskatīšanas reizē nebija norādījusi šos trūkumus vai neprecizitātes, izņemot gadījumus, kad saistībā ar šīm ziņām tiek iegūta jauna informācija.
 (4) Komisijas izdotu administratīvo aktu pārsūdzēšana tiesā neaptur to izpildi, ja Komisijas izdotais administratīvais akts ir lēmums:
