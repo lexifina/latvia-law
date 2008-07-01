@@ -1,2 +1,2 @@
 Trešā nodaļa
-Zvērinātu tiesu izpildītāju disciplinārā atbildība
+Zvērināta tiesu izpildītāja kvalifikācijas eksāmens
