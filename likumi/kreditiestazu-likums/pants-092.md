@@ -1,1 +1,0 @@
-92.pants. Kredītiestāde gada pārskata bilanci un zvērināta revidenta ziņojumu ne vēlāk kā pārskata gadam sekojošā gada 1.maijā publicē laikrakstā "Latvijas Vēstnesis", norādot, ka tiek publicēts saīsināts gada pārskats, bet pilns gada pārskats brīvi pieejams kredītiestādē.

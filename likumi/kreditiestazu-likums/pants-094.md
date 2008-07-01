@@ -1,1 +1,0 @@
-94.pants. Ja kredītiestādes gada pārskats tiek publicēts pilnībā, tam jābūt identiskam ar zvērinātu revidentu pārbaudīto, turklāt kopā ar zvērinātu revidentu pilnu atzinumu par gada pārskatu. Ja zvērināts revidents atteicies apstiprināt gada pārskatu, šis atteikums publicējams kopā ar gada pārskatu, norādot atteikuma iemeslu.

@@ -1,2 +1,2 @@
-95.pants. (1) Ārvalstu kredītiestādes filiāle Finanšu un kapitāla tirgus komisijai iesniedz attiecīgās ārvalstu kredītiestādes gada pārskata un pilna zvērināta revidenta ziņojuma tulkojumu latviešu valodā ne vēlāk kā septiņus mēnešus pēc pārskata gada beigām.
-(2) Ārvalstu kredītiestādes gada pārskatam jābūt pārbaudītam saskaņā ar starptautiskajiem auditorpārbaudes standartiem.
+95.pants. (1) (Izslēgta ar 29.05.2008. likumu.)
+(2) Ārvalsts vai citas dalībvalsts kredītiestādes gada pārskatam jābūt pārbaudītam saskaņā ar starptautiskajiem auditorpārbaudes standartiem.

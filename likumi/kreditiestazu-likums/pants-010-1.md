@@ -5,10 +5,11 @@
 a) kredītiestādes grāmatvedības kārtošana, informācijas tehnoloģiju vai sistēmu pārvaldība vai attīstīšana, iekšējās kontroles sistēmas organizēšana, iekšējā audita dienesta pienākumu veikšana,
 b) kredītiestādes finanšu pakalpojuma vai kāda būtiska tā elementa sniegšana.
 (3) Kredītiestādes iekšējā audita dienesta pienākumus var deleģēt vienīgi zvērinātam revidentam, zvērinātu revidentu komercsabiedrībai vai kredītiestādes mātes sabiedrībai - dalībvalstī reģistrētai kredītiestādei.
+(3¹) Ja kredītiestāde deleģē ārpakalpojumu sniedzējam ieguldījumu pakalpojuma, ieguldījumu blakuspakalpojuma vai kāda būtiska šā pakalpojuma elementa sniegšanu, tā papildus šajā likumā noteiktajām prasībām ievēro Finanšu instrumentu tirgus likumā ieguldījumu brokeru sabiedrībai noteiktās prasības ārpakalpojumu deleģēšanai.
 (4) Kredītiestāde nedrīkst deleģēt saskaņā ar normatīvajiem aktiem vai kredītiestādes statūtiem noteiktos kredītiestādes pārvaldes institūciju pienākumus, kā arī:
 1) noguldījumu un citu atmaksājamo līdzekļu piesaistīšanu;
 2) galvojumu un citu tādu saistību aktu izsniegšanu, ar kuriem tā uzņēmusies pienākumu atbildēt kreditoram par trešās personas parādu;
-3) ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšanu.
+3) (izslēgts ar 29.05.2008. likumu)
 (5) Pirms ārpakalpojuma saņemšanas kredītiestāde iesniedz Finanšu un kapitāla tirgus komisijai motivētu rakstveida iesniegumu par plānoto ārpakalpojuma saņemšanu. Iesniegumam pievieno ārpakalpojuma politikas, procedūras aprakstu un ārpakalpojuma līguma oriģinālu vai tā apliecinātu kopiju.
 (6) Ārpakalpojuma līgumā nosaka:
 1) saņemamā ārpakalpojuma aprakstu;

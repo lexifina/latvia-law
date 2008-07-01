@@ -1,1 +1,0 @@
-82.pants. Izņēmuma gadījumos var atkāpties no šā likuma 81.pantā minētajiem novērtēšanas principiem, pamatojot jebkuru šādu atkāpšanos pielikumā, kurā norāda, kā tā ietekmēs kredītiestādes aktīvus, saistības, finanšu stāvokli un peļņu vai zaudējumus.
