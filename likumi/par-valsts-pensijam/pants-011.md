@@ -2,5 +2,5 @@
 (1) Tiesības uz vecuma pensiju ir sievietēm un vīriešiem, kuri sasnieguši 62 gadu vecumu un kuru apdrošināšanas stāžs nav mazāks par 10 gadiem.
 (2) (Izslēgta ar 05.08.1999. likumu.)
 (3) (Izslēgta ar 20.12.2001. likumu.)
-(4) Personai, kuras apdrošināšanas stāžs nav mazāks par 30 gadiem un kura ir aprūpējusi piecus vai vairāk bērnus vai bērnu invalīdu, ir tiesības pieprasīt vecuma pensiju piecus gadus pirms šā panta pirmajā daļā noteiktā vecuma sasniegšanas. Šādā gadījumā visiem bērniem jābūt sasniegušiem vismaz astoņu gadu vecumu. Šādu tiesību nav personai, kurai atņemtas aprūpes vai aizgādības tiesības.
+(4) Personām, kuru apdrošināšanas stāžs nav mazāks par 30 gadiem un kuras aprūpējušas līdz astoņu gadu vecuma sasniegšanai piecus vai vairāk bērnus vai bērnu invalīdu, ir tiesības pieprasīt vecuma pensiju piecus gadus pirms šā panta pirmajā daļā noteiktā vecuma sasniegšanas. Šādu tiesību nav personām, kurām atņemtas aprūpes vai aizgādības tiesības.
 (5) Personām, kurām piešķirta vecuma pensija, Valsts sociālās apdrošināšanas aģentūra Ministru kabineta noteiktajā kārtībā izsniedz pensionāra apliecību.

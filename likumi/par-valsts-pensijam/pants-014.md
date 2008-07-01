@@ -1,3 +1,3 @@
 14.pants. Tiesības uz invaliditātes pensiju
 (1) Pirms šā likuma 11.pantā noteiktā vecuma sasniegšanas tiesības uz invaliditātes pensiju saskaņā ar šo likumu ir apdrošinātajām personām ar apdrošināšanas stāžu, kas nav mazāks par trim gadiem, ja tās atzītas par invalīdiem, izņemot personas, kuru invaliditātes cēlonis ir nelaimes gadījums darbā vai arodslimība.
-(2) Personām, kuru invaliditātes cēlonis ir nelaimes gadījums darbā vai arodslimība, invaliditātes pensiju piešķir un izmaksā saskaņā ar likumu "Par obligāto sociālo apdrošināšanu pret nelaimes gadījumiem darbā vai arodslimībām".
+(2) Personām, kuru invaliditātes cēlonis ir nelaimes gadījums darbā vai arodslimība, atlīdzību par darbspēju zaudējumu piešķir un izmaksā saskaņā ar likumu "Par obligāto sociālo apdrošināšanu pret nelaimes gadījumiem darbā vai arodslimībām".

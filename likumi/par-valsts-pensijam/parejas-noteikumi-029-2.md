@@ -1,0 +1,1 @@
+29.² Politiski represētajām personām, kuru apdrošināšanas stāžs nav mazāks par 30 gadiem, ir tiesības pieprasīt vecuma pensiju piecus gadus pirms šā likuma 11.panta pirmajā daļā noteiktā vecuma sasniegšanas.

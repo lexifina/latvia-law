@@ -1,0 +1,1 @@
+55. Šā likuma pārejas noteikumu 41.punkta grozījumi, kas atceļ vecuma pensijas apmēra ierobežojumu - 225 lati - un nosaka piemaksu ne mazāku par 0,70 latiem vecuma un invaliditātes pensijas saņēmējiem, stājas spēkā 2009.gada 1.janvārī.

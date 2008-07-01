@@ -1,0 +1,1 @@
+52. Šā likuma 3.panta trešā daļa par personas, uz kuru attiecas Padomes regula Nr. 259/68, valsts obligātajā pensiju apdrošināšanas sistēmā uzkrātā pensijas kapitāla aprēķināšanu, nodošanu Eiropas Savienības pensiju shēmai un saņemšanu no tās stājas spēkā 2009.gada 1.janvārī.

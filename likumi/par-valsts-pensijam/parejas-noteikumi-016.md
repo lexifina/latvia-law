@@ -15,5 +15,5 @@ AS - apdrošināšanas stāža pilni gadi,
 9) pensijas izmaksa veicama šā likuma IV nodaļā noteiktajā kārtībā;
 10) piešķirot pensiju no jauna, tā piešķirama šajā likumā noteiktajā kārtībā;
 11) (izslēgts ar 05.08.1999. likumu);
-12) apdrošinātā persona, kurai valsts pensija piešķirta līdz 1997.gada 1.janvārim un kurai, pēc 1996.gada 1.janvāra nostrādājot vismaz trīs gadus, līdz 1999.gada 1.septembrim no jauna piešķirta pensija, kuras apmērs piešķiršanas brīdī pārsniedza 100 latus, turpina atmaksāt vecuma vai izdienas pensiju valsts pensiju speciālajā budžetā no 1996.gada 1.janvāra līdz pensijas piešķiršanai no jauna saņemto vecuma vai izdienas pensiju. Atmaksājamās summas ikmēneša ieturēšanu neizdara laikposmā, kurā ir pārtraukta pensijas izmaksa;
+12) apdrošinātā persona, kurai valsts pensija piešķirta līdz 1997.gada 1.janvārim un kurai, pēc 1996.gada 1.janvāra nostrādājot vismaz trīs gadus, līdz 1999.gada 6.decembrim no jauna piešķirta pensija, kuras apmērs piešķiršanas brīdī pārsniedza 100 latus, turpina atmaksāt vecuma vai izdienas pensiju valsts pensiju speciālajā budžetā no 1996.gada 1.janvāra līdz pensijas piešķiršanai no jauna saņemto vecuma vai izdienas pensiju. Atmaksājamās summas ikmēneša ieturēšanu neizdara laikposmā, kurā ir pārtraukta pensijas izmaksa;
 13) (izslēgts ar 05.08.1999. likumu).

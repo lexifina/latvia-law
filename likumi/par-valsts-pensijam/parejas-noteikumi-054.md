@@ -1,0 +1,1 @@
+54. Šā likuma 26.¹ panta trešā daļa par personas, uz kuru attiecas Padomes regula Nr. 259/68, vidējās apdrošināšanas iemaksu algas aprēķināšanu par Eiropas Savienības institūcijās nostrādāto periodu stājas spēkā 2009.gada 1.janvārī.
