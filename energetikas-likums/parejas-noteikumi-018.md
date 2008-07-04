@@ -1,0 +1,1 @@
+18. Līdz jaunu šā likuma 42.¹ panta pirmajā daļā paredzēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2008.gada 30.decembrim piemērojami Ministru kabineta 2008.gada 12.februāra noteikumi Nr.99 "Dabasgāzes piegādes un lietošanas noteikumi", ciktāl tie nav pretrunā ar šo likumu.

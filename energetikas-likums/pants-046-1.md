@@ -1,0 +1,5 @@
+46.¹ pants
+(1) Siltumenerģiju lietotājam piegādā šā likuma 46.panta pirmajā daļā paredzētajā kārtībā un saskaņā ar energoapgādes komersanta un enerģijas lietotāja noslēgto līgumu par siltumenerģijas piegādi (turpmāk - līgums). Ja līgums nav noslēgts, siltumenerģiju lietot aizliegts.
+(2) Enerģijas lietotājs brīdina energoapgādes komersantu par līguma pārtraukšanu vismaz 30 dienas iepriekš un norēķinās par izlietoto siltumenerģiju.
+(3) Ja energoapgādes komersants konstatē, ka enerģijas lietotājs ir pārkāpis Ministru kabineta noteikumus par siltumenerģijas piegādi un lietošanu vai līgumu par siltumenerģijas piegādi, bet energoapgādes komersants uz piederības robežas ir nodrošinājis siltumnesēja parametrus, enerģijas lietotājs samaksā energoapgādes komersantam kompensāciju. Kompensācijas apmēru un aprēķināšanas kārtību, kā arī gadījumus, kādos kompensācija aprēķināma, nosaka Ministru kabinets.
+(4) Energoapgādes komersants, kura vainas dēļ nav piegādāts noteiktais siltumenerģijas daudzums, atlīdzina enerģijas lietotājam nepiegādātās siltumenerģijas daudzuma vērtību.

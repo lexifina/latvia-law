@@ -15,7 +15,7 @@ Likumā ir lietoti šādi termini:
 13) enerģijas tirdzniecība - energoapgādes veids, kas ietver enerģijas iepirkšanu pārdošanai un pārdošanu enerģijas lietotājiem;
 14) enerģijas ražošana - energoapgādes veids, kas ietver energoresursu pārveidošanu lietošanai nepieciešamā enerģijā;
 15) (izslēgts ar 17.03.2005. likumu);
-16) kurināmais - nafta un naftas produkti, dabasgāze, sašķidrinātā gāze, degakmens, degakmens gāze un eļļa, ogles, kūdra, kurināmā koksne un cita biomasa, kodoldegviela, kuru sadedzina enerģijas iegūšanai;
+16) kurināmais - nafta un naftas produkti, arī sašķidrinātā naftas gāze, dabasgāze, arī sašķidrinātā dabasgāze, degakmens, degakmens gāze un eļļa, ogles, kūdra, kurināmā koksne un cita biomasa, kuru sadedzina enerģijas iegūšanai;
 17) kurināmā drošības rezerve - energoapgādes komersanta īpašumā esošs noteikts kurināmā krājums, kas ir nepieciešams, lai nodrošinātu enerģijas lietotāju nepārtrauktu apgādi ar attiecīgā veida enerģiju;
 18) licence - saskaņā ar likumu izsniegta speciāla atļauja, kas nosaka energoapgādes komersanta tiesības un pienākumu nodarboties ar energoapgādi licences darbības zonā;
 19) licences darbības zona - licencē noteikta teritorija, kurā ir tiesīgs darboties konkrētais energoapgādes komersants un enerģijas lietotājs;

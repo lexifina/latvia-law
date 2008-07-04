@@ -1,0 +1,1 @@
+19. Administratīvās lietas, kuras par maksājuma dokumentiem, energoapgādes komersantu aktiem un citiem dokumentiem, kas sastādīti, lai sagatavotu un pamatotu maksājuma dokumentus, administratīvajā tiesā ierosinātas līdz dienai, kad stājas spēkā šā likuma 6.panta ceturtā daļa, administratīvā tiesa pabeidz izskatīt saskaņā ar Administratīvā procesa likumu.

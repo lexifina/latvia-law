@@ -1,2 +1,2 @@
 4.pants
-Enerģētikas politika ir valsts tautsaimniecības politikas sastāvdaļa, un tās īstenošanas stratēģiju nosaka Ministru kabinets Latvijas enerģētikas nacionālajā programmā, kuru izstrādā 15 gadiem un periodiski - ik pēc pieciem gadiem - koriģē, pamatojoties uz zinātniskajiem pētījumiem, pārmaiņām tautsaimniecībā un tās attīstību, kā arī ņemot vērā starptautiskus faktorus, kuri ietekmē enerģētiku un energoapgādi valstī.
+Enerģētikas politika ir valsts tautsaimniecības politikas sastāvdaļa, un tās pamatprincipus, mērķus un virzienus nosaka Ministru kabinets politikas plānošanas dokumentos.

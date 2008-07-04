@@ -1,0 +1,1 @@
+17. Līdz jaunu šā likuma 46.panta pirmajā daļā paredzēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2008.gada 1.oktobrim piemērojami Ministru kabineta 2006.gada 30.novembra noteikumi Nr.971 "Siltumenerģijas piegādes un lietošanas noteikumi", ciktāl tie nav pretrunā ar šo likumu.

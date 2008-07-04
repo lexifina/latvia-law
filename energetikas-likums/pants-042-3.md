@@ -1,0 +1,3 @@
+42.³ pants
+(1) Ja energoapgādes komersants konstatē, ka enerģijas lietotājs ir pārkāpis Ministru kabineta noteikumus par dabasgāzes piegādi un lietošanu vai līgumu par dabasgāzes piegādi un tā rezultātā enerģijas lietotājam ir samazināts uzskaitītais dabasgāzes patēriņa apjoms vai radīta iespēja dabasgāzi patērēt bez maksas, enerģijas lietotājs samaksā energoapgādes komersantam par izlietoto dabasgāzi, kā arī kompensāciju. Kārtību, kādā energoapgādes komersants nosaka faktiski patērētās dabasgāzes daudzumu, kā arī kompensācijas apmēru un aprēķināšanas kārtību, nosaka Ministru kabinets.
+(2) Par katru veicamā maksājuma kavējuma dienu enerģijas lietotājs maksā energoapgādes komersantam nokavējuma procentus. Nokavējuma procentu apmēru nosaka Ministru kabinets.
