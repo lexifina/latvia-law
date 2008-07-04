@@ -1,1 +1,1 @@
-8.pants. Valsts garantijas zīme ir Latvijas Republikas proves uzraudzības zīme. Tiesības zīmogot ar to ir tikai inspekcijai.
+8.pants. Proves uzraudzības iestādes zīmogs un proves zīmogs ir Latvijas Republikas proves uzraudzības zīmes. Tiesības zīmogot ar tām ir tikai inspekcijai.

@@ -1,1 +1,1 @@
-14.pants. Gada atšķirības zīmi var apvienot ar personisko zīmogu. Ja visus zīmogus uz izstrādājuma nevar izvietot, gada atšķirības zīmi var nelikt.
+14.pants. Gada atšķirības zīmi var apvienot ar personisko zīmogu. Gada atšķirības zīme nav obligāta.
