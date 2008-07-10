@@ -1,0 +1,1 @@
+17.pants. Pēc 2009.gada 31.decembra vietējā pašvaldība, kurai nav bijušā rajona pašvaldības funkciju izpildei nepieciešamās institūcijas, normatīvajos aktos noteiktajā kārtībā sadarbojas ar to vietējo pašvaldību, kura ir pārņēmusi attiecīgo institūciju.

@@ -1,0 +1,1 @@
+16.pants. Rajona pašvaldības institūcijas (gan līdz nodošanai vietējai pašvaldībai vai plānošanas reģionam, gan pēc tās) nodrošina bijušās rajona pašvaldības funkciju izpildi rajona teritorijā līdz 2009.gada 31.decembrim, ja vietējās pašvaldības nav lēmušas citādi.

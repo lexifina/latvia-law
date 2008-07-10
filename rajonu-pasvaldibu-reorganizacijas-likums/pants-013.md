@@ -1,0 +1,2 @@
+13.pants. (1) Rajona pašvaldības reorganizācijas izdevumus 2009.gadā finansē no rajona pašvaldības budžeta. Ja rajona pašvaldības reorganizācijai nepieciešami papildu resursi, par to piešķiršanu lemj Ministru kabinets.
+(2) Ja rajona teritorijā izveido vismaz divus novadus, par finansējuma sadalījuma grozīšanu iestādēm vai pasākumiem rajona pašvaldības apstiprinātajā budžetā no 2009.gada 1.jūlija līdz 2009.gada 31.decembrim lemj Ministru kabineta noteiktajā kārtībā.

@@ -1,0 +1,2 @@
+14.pants. (1) Ja rajona teritorijā izveido vismaz divus novadus, tad līdz 2009.gada 31.decembrim tiek saglabāti rajona padomes vai rajona pašvaldības atvērtie konti Valsts kasē un kredītiestādēs, kā arī reģistrācijas numurs nodokļu maksātāju reģistrā.
+(2) Ja rajona teritorijā izveido vienu novadu, tad no 2009.gada 1.jūlija rajona pašvaldībai paredzētos finanšu līdzekļus no valsts budžeta (mērķdotācijas un dotācijas, tai skaitā dotāciju no pašvaldību finanšu izlīdzināšanas fonda) pilnā apmērā pārskaita uz attiecīgā novada pašvaldības norādīto kontu.
