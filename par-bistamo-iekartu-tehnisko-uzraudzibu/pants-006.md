@@ -1,1 +1,1 @@
-6.pants. Valsts darba inspekcija veic bīstamo iekārtu reģistrāciju, izsniedz atļaujas bīstamo iekārtu lietošanai, kā arī uzrauga un kontrolē bīstamo iekārtu drošības ievērošanu saskaņā ar Valsts darba inspekcijas likumu, šo likumu un citiem normatīvajiem aktiem.
+6.pants. Bīstamo iekārtu uzraudzību un kontroli veic, kā arī tehniskās uzraudzības normatīvo aktu prasību ievērošanu uzrauga Valsts būvinspekcija saskaņā ar šo likumu, Valsts būvinspekcijas nolikumu un citiem normatīvajiem aktiem un citas institūcijas Ministru kabineta noteiktajā kārtībā.

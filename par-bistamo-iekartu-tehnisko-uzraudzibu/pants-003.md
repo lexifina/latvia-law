@@ -4,3 +4,4 @@
 1) uzstādītas lietošanai ūdens, gaisa vai dzelzceļa transporta līdzekļos un kuru lietošanas drošību nosaka Latvijas Republikai saistoši starptautiskie līgumi;
 2) negadījuma rezultātā var izraisīt radioaktīvu vielu noplūdi;
 3) tiek izmantotas militāriem nolūkiem.
+(4) Bīstamo iekārtu avāriju izmeklēšanas kārtību nosaka Ministru kabinets.

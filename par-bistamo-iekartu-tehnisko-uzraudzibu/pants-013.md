@@ -1,1 +1,1 @@
-13.pants. Inspicēšanas institūcijām ir pienākums reizi mēnesī, kā arī pēc Valsts darba inspekcijas pieprasījuma sniegt Valsts darba inspekcijai ziņas par veiktajām bīstamo iekārtu pārbaudēm.
+13.pants. Inspicēšanas institūcijām ir pienākums reģistrēt bīstamās iekārtas bīstamo iekārtu reģistrā un atjaunot datus par veiktajām bīstamo iekārtu pārbaudēm.

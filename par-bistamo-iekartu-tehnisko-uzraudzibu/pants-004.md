@@ -1,1 +1,1 @@
-4.pants. Personām, kuras savā komercdarbībā veic bīstamo iekārtu montāžu, remontu, tehnisko apkopi un modernizāciju, ir pienākums 10darba dienu laikā paziņot Valsts darba inspekcijai par komercdarbības uzsākšanu un izbeigšanu šajā jomā.
+4.pants. Personām, kuras savā komercdarbībā veic bīstamo iekārtu montāžu, remontu, tehnisko apkopi un modernizāciju, ir pienākums 10 darba dienu laikā paziņot Valsts būvinspekcijai par komercdarbības uzsākšanu un izbeigšanu šajā jomā.
