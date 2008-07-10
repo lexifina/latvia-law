@@ -1,0 +1,1 @@
+3. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2009.gada 1.jūlijam piemērojami Ministru kabineta 2005.gada 21.jūnija noteikumi Nr.431 "Informācijas operatīvas apmaiņas kārtība", ciktāl tie nav pretrunā ar šo likumu.

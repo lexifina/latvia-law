@@ -1,0 +1,5 @@
+12.pants.Darba inspekcijas nodrošināšana ar informāciju
+(1) Darba devēji, darbinieki un citas personas pēc Darba inspekcijas amatpersonu pieprasījuma sniedz Darba inspekcijai tās uzdevumu izpildei nepieciešamo informāciju, kā arī uzrāda personu apliecinošu dokumentu vai transportlīdzekļa vadītāja apliecību, vai nodarbinātā apliecību.
+(2) Tiešās un pastarpinātās pārvaldes institūcijas, atvasinātās publiskās personas vai jebkura cita valsts iestāde bez maksas sniedz Darba inspekcijai informāciju, kas nepieciešama tās uzdevumu veikšanai, ne vēlāk kā viena mēneša laikā no Darba inspekcijas pieprasījuma saņemšanas dienas.
+(3) Ārstniecības iestāde un ārstniecības persona pēc Darba inspekcijas pieprasījuma bez maksas sniedz informāciju, kas nepieciešama nelaimes gadījumu darbā un arodslimību izmeklēšanai un uzskaitei, ne vēlāk kā viena mēneša laikā no Darba inspekcijas pieprasījuma saņemšanas dienas.
+(4) Informācijas apmaiņas kārtību, nosacījumus tās sniegšanai un prasības Valsts darba inspekcijas integrētai sistēmai nosaka Ministru kabinets.

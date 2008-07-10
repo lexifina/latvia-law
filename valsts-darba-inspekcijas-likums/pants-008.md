@@ -1,0 +1,5 @@
+8.pants. Uzraudzībai un kontrolei pakļauto personu vai objektu darbības atjaunošana
+(1) Darba inspekcija ne vēlāk kā piecu darbdienu laikā pēc tam, kad saņemts paziņojums par normatīvo aktu pārkāpumu novēršanu, pārbauda, vai tie ir novērsti, un, ja:
+1) pārbaudes rezultāti liecina, ka brīdinājumā vai lēmumā par uzraudzībai un kontrolei pakļauto personu vai objektu darbības apturēšanu minētie normatīvo aktu pārkāpumi ir novērsti, dod rakstveida atļauju atjaunot uzraudzībai un kontrolei pakļauto personu vai objektu darbību;
+2) bija noplombētas vai aizzīmogotas iekārtu vadības un komunikāciju ierīces, Darba inspekcijas amatpersona atplombē attiecīgās ierīces un noņem aizzīmogojumus, par to sastādot aktu.
+(2) Ja rakstveida brīdinājumā vai lēmumā par uzraudzībai un kontrolei pakļauto personu vai objektu pilnīgu vai daļēju apturēšanu minētie normatīvo aktu pārkāpumi nav novērsti, Darba inspekcija ne vēlāk kā septiņu darbdienu laikā pēc paziņojuma saņemšanas sniedz pamatotu rakstveida atteikumu atjaunot šo personu vai objektu darbību.

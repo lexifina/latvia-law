@@ -1,0 +1,3 @@
+13.pants. Tiesības apstrīdēt vai pārsūdzēt Darba inspekcijas amatpersonu izdotos administratīvos aktus un faktisko rīcību
+(1) Darba inspekcijas amatpersonas izdoto administratīvo aktu vai faktisko rīcību var apstrīdēt Darba inspekcijas direktoram. Direktora izdoto administratīvo aktu vai faktisko rīcību, kā arī lēmumu par apstrīdēto administratīvo aktu vai faktisko rīcību var pārsūdzēt tiesā likumā noteiktajā kārtībā.
+(2) Administratīvā akta vai faktiskās rīcības apstrīdēšana vai pārsūdzēšana neaptur to darbību, izņemot gadījumus, kad tā tiek apturēta ar iesnieguma vai pieteikuma izskatītāja lēmumu.

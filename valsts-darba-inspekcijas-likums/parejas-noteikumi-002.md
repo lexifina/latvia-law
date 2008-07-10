@@ -1,0 +1,1 @@
+2. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2008.gada 1.oktobrim piemērojami Ministru kabineta 2002.gada 25.jūnija noteikumi Nr.258 "Bīstamo iekārtu avāriju izmeklēšanas kārtība".

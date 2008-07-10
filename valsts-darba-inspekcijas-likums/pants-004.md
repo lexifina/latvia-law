@@ -1,0 +1,4 @@
+4.pants. Darba inspekcijas uzraudzībai un kontrolei pakļautās personas un objekti
+Darba inspekcijas uzraudzībai un kontrolei ir pakļauti:
+1) darba devēji, jebkuras citas personas, kas faktiskos apstākļos uzskatāmas par darba devējiem, kā arī komersanti un to pilnvarotas personas (turpmāk - uzraudzībai un kontrolei pakļautās personas);
+2) uzņēmumi (organizatoriskas vienības, kurās strādā nodarbinātie), darba vietas, kurās nodarbinātais vai jebkura cita persona, kas faktiskos apstākļos uzskatāma par nodarbināto, veic darbu, kā arī jebkura cita vieta uzņēmuma ietvaros, kura nodarbinātajam ir pieejama darba gaitā vai kurā nodarbinātais strādā ar darba devēja atļauju vai rīkojumu, un darba aprīkojums, arī būvobjekti, tajā skaitā privātpersonai piederošie būvobjekti būvdarbu laikā (turpmāk - uzraudzībai un kontrolei pakļautie objekti).
