@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Dabas pieminekļiem nodarītā kaitējuma novērtēšanas un sanācijas pasākumu izmaksu aprēķināšanas kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "106",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-11",
+  "entry_into_force": "2008-07-12",
+  "notification_date": "2008-11-07",
+  "commission_reference": "MNE(2008)55958",
+  "nim_celex": "72004L0035LVA_158946",
+  "nim_id": "158946",
+  "transposes_celex": [
+    "32004L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/864e0e9d-df5b-46be-bc2c-7f7fa438712a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
