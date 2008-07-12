@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru Kabineta 2008. gada 7.jūlija noteikumi Nr.510 \"Kioto protokola projektu mehānismu īstenošanas kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "106 (3890)",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-11",
+  "entry_into_force": "2008-07-12",
+  "notification_date": "2014-06-26",
+  "commission_reference": "MNE(2014)53893",
+  "nim_celex": "72008L0101LVA_217851",
+  "nim_id": "217851",
+  "transposes_celex": [
+    "32008L0101"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c9924c2f-fb2f-41aa-8014-8d0dcc2cb03d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
