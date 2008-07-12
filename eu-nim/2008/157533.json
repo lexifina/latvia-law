@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "MK 07.07.2008. Noteikumi Nr.516 ”Noteikumi par tehniskajām prasībām lauksaimniecības un mežsaimniecības riteņtraktoru redzamības laukam un priekšējā stikla tīrītājiem”.",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "106",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-11",
+  "entry_into_force": "2008-07-12",
+  "notification_date": "2008-08-13",
+  "commission_reference": "MNE(2008)54591",
+  "nim_celex": "72008L0002LVA_157533",
+  "nim_id": "157533",
+  "transposes_celex": [
+    "32008L0002"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c4095dee-6b76-4e7d-8008-885a8c635366",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
