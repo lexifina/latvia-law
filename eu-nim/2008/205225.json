@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Pārapdrošināšanas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "100 (3884)",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-02",
+  "entry_into_force": "2008-07-16",
+  "notification_date": "2013-06-06",
+  "commission_reference": "MNE(2013)54432",
+  "nim_celex": "72011L0089LVA_205225",
+  "nim_id": "205225",
+  "transposes_celex": [
+    "32011L0089"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e82197e7-7b1d-4dec-99f9-57aa34bee562",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
