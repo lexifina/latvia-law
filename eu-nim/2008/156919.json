@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Apdrošināšanas sabiedrību un to uzraudzības likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "100",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-02",
+  "entry_into_force": "2008-07-16",
+  "notification_date": "2008-07-10",
+  "commission_reference": "MNE(2008)53994",
+  "nim_celex": "72005L0068LVA_156919",
+  "nim_id": "156919",
+  "transposes_celex": [
+    "32005L0068"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b0f1bf07-081e-4caf-96b1-a846fe2678d9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
