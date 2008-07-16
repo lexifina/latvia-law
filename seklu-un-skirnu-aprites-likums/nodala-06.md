@@ -1,2 +1,2 @@
 VI nodaļa
-Sēklu tirdzniecība
+Sēklu tirdzniecība un izvietošana tirgū

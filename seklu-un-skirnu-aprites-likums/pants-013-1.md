@@ -1,6 +1,8 @@
 13.¹ pants. Sēklu pārdošana
 (1) Drīkst pārdot:
-1) sēklas, kuras sertificētas vai pārbaudītas šajā likumā un sēklaudzēšanas un sēklu tirdzniecības noteikumos paredzētajā kārtībā, kā arī Eiropas Savienības kopējos šķirņu katalogos iekļauto šķirņu sertificētās sēklas;
+1) sēklas, kuras sertificētas vai pārbaudītas kā standartsēklas šajā likumā un normatīvajos aktos par sēklaudzēšanu un sēklu tirdzniecību paredzētajā kārtībā;
+1¹) Eiropas Savienības kopējos šķirņu katalogos iekļauto šķirņu sertificētās sēklas vai dārzeņu standartsēklas, kas sagatavotas citās Eiropas Savienības dalībvalstīs vai ievestas šā likuma 17.panta otrajā daļā noteiktajā kārtībā;
+1²) komercsēklas (sēklas, kuras iespējams identificēt kā sugai piederīgas sēklas), kas sagatavotas šajā likumā un normatīvajos aktos par sēklaudzēšanu un sēklu tirdzniecību paredzētajā kārtībā vai sagatavotas citās Eiropas Savienības dalībvalstīs, vai ievestas šā likuma 17.panta otrajā daļā noteiktajā kārtībā;
 2) labības un lopbarības augu sēklu maisījumus, ja to komponenti atbilst sēklaudzēšanas un sēklu tirdzniecības noteikumu prasībām (pirms maisījuma sagatavošanas) un ja maisījumi nerada labvēlīgākus apstākļus augu kaitēkļu vai slimību attīstībai vai izplatībai salīdzinājumā ar komponentu audzēšanu tīrsējā;
 3) pietiekami viendabīgas sēklu partijas, kas atbilst Starptautiskās sēklu kontroles asociācijas (ISTA) noteikumiem;
 4) tikai Latvijas teritorijā to šķirņu sēklas, kuras pārdotas atbilstoši šā likuma 14.panta septītajā daļā minētajiem gadījumiem.

@@ -8,6 +8,6 @@
 6) nodrošināt uzskaites dokumentu kārtošanu, lai Valsts augu aizsardzības dienesta inspektoram būtu pieejama informācija par visiem sēklu aprites posmiem.
 (2) Sēklu saiņotāja pienākums ir nodrošināt iesaiņojumā esošo sēklu kvalitātes atbilstību etiķetei vai marķējumam un kvalitāti apstiprinošam dokumentam.
 (3) Sēklaudzētājam, kurš nodarbojas ar sēklaudzēšanu bioloģiskajā lauksaimniecībā, ir pienākums nodrošināt uzņēmuma vai tā daļas atbilstību normatīvajos aktos par bioloģisko lauksaimniecību noteiktajām prasībām.
-(4) Bioloģiskās lauksaimniecības sēklaudzētājs katru gadu Valsts augu aizsardzības dienestam sniedz informāciju par bioloģiskās sēklas krājumiem pa šķirnēm pēc stāvokļa 31.janvārī, 28.februārī, 31.martā un 31.augustā.
+(4) (Izslēgta ar 19.06.2008. likumu)
 (5) Ja šķirne ir ģenētiski modificēta, sēklu tirgotājs to norāda savā tirdzniecības katalogā vai informācijā par sēklas piedāvājumu tirgum.
 (6) Ja šķirne ir iekļauta kādā no Eiropas Savienības kopējiem šķirņu katalogiem, persona, kura vēlas attiecīgās šķirnes sēklu audzēt vai tirgot Latvijā pavairošanai, līdz 1.martam iesniedz oficiālo šķirnes aprakstu Valsts augu aizsardzības dienestam (ja Valsts augu aizsardzības dienests apstiprina, ka šāda šķirnes apraksta vēl nav).
