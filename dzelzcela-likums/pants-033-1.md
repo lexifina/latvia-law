@@ -10,4 +10,5 @@
 6) iztaujāt avārijā iesaistītos dzelzceļa speciālistus, citas avārijā iesaistītās personas, kā arī lieciniekus;
 7) piekļūt Valsts dzelzceļa tehniskās inspekcijas, dzelzceļa infrastruktūras pārvaldītāja un avārijā iesaistītā pārvadātāja informācijai un dokumentācijai;
 8) noteikt, kad ritošo sastāvu, tā detaļas vai atlūzas, vrakus, kravu un citus pierādījumus var aizvākt no notikuma vietas, kā arī iznīcināt normatīvajos aktos noteiktajā kārtībā;
-9) savas kompetences ietvaros veikt citos normatīvajos aktos noteiktās darbības.
+9) pieaicināt policijas darbiniekus, lai dzelzceļa satiksmes negadījumā iesaistītajiem dzelzceļa speciālistiem veiktu alkohola, narkotisko, psihotropo vai toksisko vielu ietekmes konstatēšanu vai nogādātu šīs personas ārstniecības iestādē minēto vielu ietekmes noteikšanai.
+(4) Transporta nelaimes gadījumu un incidentu izmeklēšanas biroja izmeklētājiem savas kompetences ietvaros ir tiesības veikt arī citos normatīvajos aktos noteiktās darbības.
