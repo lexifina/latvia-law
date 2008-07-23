@@ -4,7 +4,7 @@
 2) fonda sabiedrības firma un juridiskā adrese;
 3) fonda turētājbankas firma;
 4) fonda ieguldījumu apliecību izplatītāja firma un izplatīšanas vietu adreses;
-5) fonda revidenta vārds un uzvārds vai firma;
+5) fonda zvērināta revidenta vārds un uzvārds vai zvērinātu revidentu komercsabiedrības firma;
 6) fonda dibināšanas datums un darbības termiņš (ja tāds paredzēts);
 7) atzīme par fonda reģistrāciju Komisijā;
 8) atzīme par fonda prospektā izdarītajiem grozījumiem un to spēkā stāšanās datums;
@@ -41,8 +41,9 @@
 2) uzraudzības institūcijas nosaukumu;
 3) norādi par sabiedrības kontaktpersonu (atbildīgo struktūrvienību), ar kuru sazinoties fonda ieguldītājs var saņemt papildu informāciju par fonda darbību. Norāda atbildīgās personas vārdu, uzvārdu un amatu vai sabiedrības attiecīgās struktūrvienības nosaukumu, kontaktinformāciju (tālruņa numuru vai cita saziņas līdzekļa rekvizītus) un darba laiku.
 (5) Slēgtā fonda prospektā papildus norāda:
-1) fonda ieguldījumu apliecību emisijas cenu, apjomu un laiku;
+1) fonda ieguldījumu apliecību emisijas cenu, apjomu un laiku, bet, ja emisiju ir paredzēts veikt vairākos laidienos, norāda arī ieguldījumu apliecību emisijas laidienu veikšanas kārtību;
 2) fonda ieguldītāju tiesības pieprasīt ieguldītāju pilnsapulces sasaukšanu un piedalīties tajā;
-3) ieguldītāju pilnsapulces kompetenci un lēmumu pieņemšanas kārtību.
+3) ieguldītāju pilnsapulces kompetenci un lēmumu pieņemšanas kārtību;
+4) nekustamā īpašuma novērtēšanas kārtību, ja fonda līdzekļus plānots ieguldīt nekustamajā īpašumā vai tā lietošanas tiesībās.
 (6) Fonda prospekta pielikumā pievieno fonda pēdējā gada pārskatu vai pusgada pārskatu, ja tas ir apstiprināts pēc pēdējā gada pārskata apstiprināšanas.
 (7) Fonda prospekta noteikumi kļūst saistoši sabiedrības un ieguldītāja savstarpējās attiecībās, tiklīdz ieguldītājs fonda prospektā un pārvaldes nolikumā noteiktajā kārtībā ir ieguvis attiecīgā fonda ieguldījumu apliecības.

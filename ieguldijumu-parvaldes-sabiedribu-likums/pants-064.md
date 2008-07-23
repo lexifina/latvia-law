@@ -1,7 +1,7 @@
 64.pants. Ieguldījumi fonda ieguldījumu apliecībās (daļās)
 (1) Fonda līdzekļus drīkst ieguldīt Latvijā, citā dalībvalstī reģistrētu atvērto fondu vai tiem pielīdzināmu kopējo ieguldījumu uzņēmumu ieguldījumu apliecībās (daļās).
 (2) Fonda līdzekļus drīkst ieguldīt atvērto fondu vai tiem pielīdzināmu kopējo ieguldījumu uzņēmumu apliecībās (daļās) šā panta pirmajā daļā neminētajās valstīs, ja atvērtie fondi vai tiem pielīdzināmi kopējo ieguldījumu uzņēmumi atbilst šādām prasībām:
-1) tie ir reģistrēti valstī, kurā tiesiskais regulējums paredz šādu uzņēmumu valstisko uzraudzību, kas līdzvērtīga šajā likumā noteiktajai uzraudzībai;
+1) tie ir reģistrēti valstī, kurā tiesiskais regulējums paredz šādu uzņēmumu valstisko uzraudzību, kas līdzvērtīga šajā likumā noteiktajai uzraudzībai, un attiecīgās valsts uzraudzības institūcija sadarbojas ar Komisiju;
 2) to darbības principi (ieguldītāju aizsardzība, ieguldīšanas noteikumi u.tml.) ir analoģiski šā likuma noteikumiem par atvērto fondu darbību;
 3) tie sagatavo un publisko pusgada un gada pārskatus, lai būtu iespējams novērtēt to aktīvus, saistības, ienākumus un darbību pārskata periodā.
 (3) Fonda līdzekļus drīkst ieguldīt šā panta pirmajā un otrajā daļā minēto atvērto fondu un kopējo ieguldījumu uzņēmumu apliecībās (daļās), ja atvērtā fonda vai kopējo ieguldījumu uzņēmuma [kura ieguldījumu apliecības (daļas) paredzēts iegādāties] prospektā, pārvaldes nolikumā vai tiem pielīdzināmā dokumentā ir noteikts, ka ieguldījumi citos fondos vai kopējo ieguldījumu uzņēmumos nedrīkst pārsniegt 10 procentus no fonda vai kopējo ieguldījumu uzņēmuma aktīviem.
