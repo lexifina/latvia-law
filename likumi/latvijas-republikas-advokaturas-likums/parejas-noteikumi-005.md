@@ -1,0 +1,1 @@
+5. Latvijas Zvērinātu advokātu padome līdz 2009.gada 1.novembrim organizē tiesu darbības teritoriju zvērinātu advokātu vecāko atlasi un apstiprina tiesas darbības teritoriju zvērinātu advokātu vecākos, kuri darbību uzsāk ar 2010.gada 1.janvāri.

@@ -1,0 +1,1 @@
+4. Latvijas Zvērinātu advokātu padome ne vēlāk kā līdz 2009.gada 1.janvārim, ievērojot līdz 2009.gada 1.janvārim pastāvošo advokātu dežūru grafiku sastādīšanas kārtību, nodrošina, lai advokātu dežūru grafiki, kuri piemērojami ar 2009.gada 1.janvāri, tiktu sastādīti vismaz vienam mēnesim visām tiesu darbības teritorijām.

@@ -1,0 +1,1 @@
+7. Šā likuma 12., 34., 51., 52., 54. un 100.panta grozījumi, kas paredz Latvijas Zvērinātu advokātu padomes, zvērinātu advokātu vecāko un zvērinātu advokātu dalību valsts nodrošinātās juridiskās palīdzības sniegšanā, stājas spēkā 2009.gada 1.janvārī.

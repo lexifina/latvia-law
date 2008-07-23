@@ -1,0 +1,1 @@
+6. Līdz šā likuma 41.² panta otrajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2009.gada 1.janvārim piemērojami Ministru kabineta 2007.gada 27.februāra noteikumi Nr.160 "Noteikumi par advokāta eksāmena kārtību un minimālo zināšanu apjomu", ciktāl tie nav pretrunā ar šo likumu.

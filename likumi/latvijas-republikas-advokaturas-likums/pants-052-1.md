@@ -1,0 +1,2 @@
+52.¹ Zvērinātiem advokātiem ir pienākums atbilstoši Latvijas Zvērinātu advokātu padomes noteiktajā kārtībā sastādītajam advokātu dežūru grafikam veikt procesa virzītāja norādītajā laikā valsts nodrošināto aizstāvību vai pārstāvību Kriminālprocesa likumā noteiktajās atsevišķajās procesuālajās darbībās.
+Ja zvērināts advokāts procesa virzītāja norādītajā laikā nevar pats piedalīties atsevišķajā procesuālajā darbībā, viņam jānodrošina, lai viņa vietā cits zvērināts advokāts ierastos juridiskās palīdzības sniegšanai, un par to jāinformē procesa virzītājs.

@@ -1,1 +1,1 @@
-45. Uzņemot zvērinātu advokātu skaitā, Latvijas Zvērinātu advokātu padome nosaka, pie kuras apgabaltiesas šie zvērināti advokāti darbosies un kuras tiesas rajonā šiem zvērinātiem advokātiem būs praktizēšanas vieta.
+45. Uzņemot zvērinātu advokātu skaitā, Latvijas Zvērinātu advokātu padome nosaka, pie kuras apgabaltiesas šie zvērināti advokāti darbosies un kuras tiesas darbības teritorijā šiem zvērinātiem advokātiem būs praktizēšanas vieta.

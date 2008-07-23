@@ -1,2 +1,0 @@
-61. Ja tiesas priekšsēdētājs, procesa virzītājs vai Latvijas Zvērinātu advokātu padome uzdevusi zvērinātam advokātam vest pēc nozīmējuma krimināllietu vai to personu lietas, kuras likumā noteiktajā kārtībā atzītas par trūcīgām (maznodrošinātām), šim advokātam likumā noteiktajā kārtībā par lietas vešanu piespriežama šā likuma 58.pantā paredzētā atlīdzība no valsts budžeta līdzekļiem.
-Šīs atlīdzības summas likumā noteiktajā kārtībā un gadījumos piedzenamas valsts labā.

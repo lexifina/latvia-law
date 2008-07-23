@@ -1,1 +1,1 @@
-41.³ Ja pretendents nokārtojis advokāta eksāmenu, Latvijas Zvērinātu advokātu padome uzņem viņu zvērinātu advokātu skaitā.
+41.³ Ja pretendents nokārtojis advokāta eksāmenu un Latvijas Zvērinātu advokātu padome nav saņēmusi papildu ziņas, ka pretendenta uzņemšanai ir radušies šā likuma 15.pantā minētie šķēršļi, Latvijas Zvērinātu advokātu padome uzņem viņu zvērinātu advokātu skaitā.

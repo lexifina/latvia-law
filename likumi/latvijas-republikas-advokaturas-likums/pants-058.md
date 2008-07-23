@@ -1,1 +1,0 @@
-58. Zvērinātu advokātu atlīdzības taksi un citus atlīdzināmos izdevumus, kas radušies zvērinātam advokātam, sniedzot juridisko palīdzību, nosaka Ministru kabinets. Ja izdevumi zvērināta advokāta palīdzības sniegšanai atlīdzināmi ar tiesas nolēmumu, tiesa atlīdzības summu par zvērināta advokāta darbu piespriež saskaņā ar atlīdzības taksi.

@@ -1,0 +1,1 @@
+3. Latvijas Zvērinātu advokātu padome ne vēlāk kā līdz 2009.gada 1.janvārim, ievērojot līdz 2009.gada 1.janvārim pastāvošo zvērinātu advokātu vecāko atlases kārtību, uz vienu gadu apstiprina tiesas darbības teritorijas zvērinātu advokātu vecākos, kuri darbību uzsāk ar 2009.gada 1.janvāri.

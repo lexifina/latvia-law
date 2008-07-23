@@ -1,1 +1,2 @@
-86. Par zvērinātu advokātu palīgiem nevar uzņemt personas, kuras minētas šā likuma 15.panta 2-9.punktā, bet no zvērinātu advokātu palīgu skaita izslēdzamas personas, kuras minētas šā likuma 16.panta 1.-3., 5. un 6.punktā. Zvērinātu advokātu palīgi atstādināmi no pienākumu pildīšanas saskaņā ar šā likuma 17.panta noteikumiem.
+86. Par zvērinātu advokātu palīgiem nevar uzņemt personas, kuras minētas šā likuma 15.panta 2., 3., 4., 5., 6., 7., 8., 9., 10. un 11.punktā, bet no zvērinātu advokātu palīgu skaita izslēdzamas personas, kuras minētas šā likuma 16.panta 1., 2., 3., 4., 5., 6. un 8.punktā.
+Zvērinātu advokātu palīgu darbība apturama vai viņi atstādināmi no pienākumu pildīšanas saskaņā ar šā likuma 16.¹ un 17.panta noteikumiem.

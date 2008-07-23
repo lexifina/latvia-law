@@ -1,1 +1,1 @@
-55. Zvērināti advokāti nevar atteikties no viņiem dota uzdevuma pildīšanas, nenorādot pamatotus iemeslus.
+55. Zvērināti advokāti nedrīkst atteikties no noslēgtās vienošanās vai dotā uzdevuma pildīšanas, nenorādot pamatotus iemeslus.
