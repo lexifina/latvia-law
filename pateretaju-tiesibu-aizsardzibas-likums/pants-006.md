@@ -1,6 +1,7 @@
 6.pants. Netaisnīgi līguma noteikumi
 (1) Ražotājs, pārdevējs vai pakalpojuma sniedzējs nedrīkst piedāvāt tādus līguma noteikumus, kas ir pretrunā ar līgumslēdzēju pušu tiesiskās vienlīdzības principu, šo likumu un citiem normatīvajiem aktiem.
-(2) Līguma noteikumi formulējami vienkāršā un saprotamā valodā. Neskaidri un neprecīzi rakstveida līguma noteikumi tiek tulkoti par labu patērētājam.
+(2) Līguma noteikumi formulējami vienkāršā un saprotamā valodā.
+(2¹) Neskaidri un neprecīzi rakstveida līguma noteikumi tiek tulkoti par labu patērētājam.
 (3) Līguma noteikums, kuru līgumslēdzējas puses savstarpēji nav apspriedušas, ir netaisnīgs, ja tas pretēji labticīguma prasībām rada būtisku neatbilstību līgumā noteiktajās līgumslēdzēju pušu tiesībās un pienākumos par sliktu patērētājam. Par netaisnīgiem līguma noteikumiem uzskatāmi noteikumi, kas:
 1) ir pretrunā ar šā likuma 5.pantu;
 2) samazina ražotāja, pārdevēja vai pakalpojuma sniedzēja atbildību vai atbrīvo tos no atbildības gadījumos, kad patērētājs guvis kaitējumu veselībai, vai patērētāja nāves gadījumā, kuram par cēloni bijusi ražotāja, pārdevēja vai pakalpojuma sniedzēja darbība vai bezdarbība;
@@ -15,8 +16,10 @@
 11) atļauj ražotājam, pārdevējam vai pakalpojuma sniedzējam nodot tālāk savas tiesības un pienākumus, tādējādi samazinot piedāvātās garantijas apjomu bez patērētāja piekrišanas;
 12) atļauj ražotājam, pārdevējam vai pakalpojuma sniedzējam vienpusēji grozīt līguma noteikumus vai preces vai pakalpojuma raksturojumu.
 (4) Novērtējot līguma noteikumus, ņem vērā pārdotās preces vai sniegtā pakalpojuma raksturu, visus apstākļus, kādos līgums noslēgts, kā arī noslēgtā līguma un ar to saistītā līguma noteikumus.
-(5) Līguma noteikums vienmēr ir uzskatāms par savstarpēji neapspriestu, ja līgums sastādīts iepriekš un patērētājam nav bijis iespējams ietekmēt attiecīgā līguma noteikumus.
+(5) Līguma noteikums vienmēr ir uzskatāms par savstarpēji neapspriestu, ja līgums sastādīts iepriekš un patērētājam līdz ar to nav bijis iespējams ietekmēt attiecīgā līguma noteikumus.
 (6) Ja ir apspriesti līguma atsevišķi noteikumi vai atsevišķu noteikumu attiecīgi aspekti, tad nevar uzskatīt, ka savstarpēji apspriesti ir arī pārējie līguma noteikumi.
 (7) Ja ražotājs, pārdevējs vai pakalpojuma sniedzējs apgalvo, ka līguma noteikumi ir savstarpēji apspriesti ar patērētāju, viņa pienākums ir to pierādīt.
-(8) Ražotāja, pārdevēja vai pakalpojuma sniedzēja un patērētāja noslēgtajā līgumā ietvertie netaisnīgie noteikumi pēc patērētāja prasības atzīstami par spēkā neesošiem, bet līgums paliek spēkā, ja tas var pastāvēt arī turpmāk, kad izslēgti netaisnīgie noteikumi.
-(9) Šā panta noteikumi neattiecas uz tādiem līgumiem, kuri noslēgti saskaņā ar Latvijas Republikas noslēgtu starptautisko līgumu vai ievērojot cita normatīvā akta prasības.
+(8) Ražotāja, pārdevēja vai pakalpojuma sniedzēja un patērētāja noslēgtajā līgumā ietvertie netaisnīgie noteikumi nav spēkā no līguma noslēgšanas brīža, bet līgums paliek spēkā, ja tas var pastāvēt arī turpmāk, kad izslēgti netaisnīgie noteikumi.
+(9) (Izslēgta ar 19.06.2008. likumu.)
+(10) Ja starp ražotāju, pārdevēju vai pakalpojuma sniedzēju un patērētāju rodas strīds par to, vai noslēgtajā līgumā ietvertie noteikumi ir netaisnīgi, jebkurai no līgumslēdzējām pusēm ir tiesības vērsties tiesā, bet patērētājs ir tiesīgs vērsties arī Patērētāju tiesību aizsardzības centrā.
+(11) Tiesa, izšķirot strīdu vai veicot citas no ražotāja, pārdevēja vai pakalpojuma sniedzēja un patērētāja noslēgtā līguma izrietošās procesuālās darbības, izvērtē līguma noteikumus un strīda atrisināšanai attiecībā uz patērētāju nepiemēro līgumā ietvertos netaisnīgos noteikumus.
