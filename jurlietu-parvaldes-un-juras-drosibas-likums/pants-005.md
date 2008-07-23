@@ -6,9 +6,9 @@ Satiksmes ministrija atbilstoši savai kompetencei jūrlietās:
 4) nodrošina Latvijai saistošo starptautisko līgumu un citu starptautisko tiesību normu ievērošanu;
 5) nodrošina Latvijas Jūras administrācijai nodoto funkciju izpildes uzraudzību un kontroli;
 6) šajā likumā paredzētajos gadījumos nosaka Latvijas ūdeņu izmantošanas kārtību, lai gādātu par kuģošanas drošību un nepieļautu piesārņošanu no kuģiem;
-7) izsniedz atbilstības sertifikātu jūrnieku profesionālās sagatavošanas programmām;
-8) izsniedz atbilstības sertifikātu klasifikācijas sabiedrībām (atzītām organizācijām) un publicē klasifikācijas sabiedrību (atzīto organizāciju) sarakstu;
-9) izsniedz speciālo atļauju (licenci) komersantam, kas komplektē kuģa apkalpi un iekārto personas darbā uz kuģiem;
+7) izsniedz un anulē atbilstības sertifikātu jūrnieku profesionālās sagatavošanas programmām;
+8) izsniedz un anulē atbilstības sertifikātu klasifikācijas sabiedrībām (atzītām organizācijām) un publicē klasifikācijas sabiedrību (atzīto organizāciju) sarakstu;
+9) izsniedz un anulē speciālo atļauju (licenci) komersantam, kas komplektē kuģa apkalpi un iekārto personas darbā uz kuģiem;
 10) (izslēgts ar 15.06.2006. likumu);
 11) (izslēgts ar 28.10.2004. likumu);
 12) nosaka un publicē ārstu un to ārstniecības iestāžu sarakstu, kas veic jūrnieku veselības pārbaudes atbilstoši 1978.gada Starptautiskajā konvencijā par jūrnieku sagatavošanu un diplomēšanu, kā arī sardzes pildīšanu un tās grozījumos noteiktajām prasībām;

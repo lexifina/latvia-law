@@ -1,5 +1,5 @@
 26.pants. Jūrnieku un kuģošanas līdzekļu vadītāju sagatavošana
-(1) Jūrnieku profesionālās sagatavošanas programmu atbilstību starptautisko normatīvo aktu prasībām, kā arī jūrnieku profesionālās sagatavošanas īstenošanu uzrauga Latvijas Jūras administrācijas Jūrnieku reģistrs atbilstoši Ministru kabineta noteiktajai kārtībai un kritērijiem.
+(1) Satiksmes ministrija izsniedz atbilstības sertifikātu jūrnieku profesionālās sagatavošanas programmām, kuru atbilstību starptautisko normatīvo aktu prasībām, kā arī jūrnieku profesionālās sagatavošanas īstenošanu uzrauga Latvijas Jūras administrācijas Jūrnieku reģistrs. Ministru kabinets nosaka kārtību, kādā notiek atbilstības sertifikātu izsniegšana un anulēšana un jūrnieku profesionālās sagatavošanas programmu uzraudzība.
 (2) Jūrnieku sertificēšanu veic Latvijas Jūras administrācijas Jūrnieku reģistrs atbilstoši Ministru kabineta noteiktajai kārtībai un kritērijiem.
 (3) Satiksmes ministrs ir tiesīgs noteikt STCW un citu Latvijai saistošu starptautisko normatīvo aktu piemērošanas procedūras un kārtību.
 (4) Atpūtai un sportam paredzēto mazizmēra kuģošanas līdzekļu vadītāju sertificēšanu atbilstoši savai kompetencei veic Ceļu satiksmes drošības direkcija. Ministru kabinets izdod noteikumus par atpūtai un sportam paredzēto mazizmēra kuģošanas līdzekļu vadītāju apmācību un sertificēšanu.

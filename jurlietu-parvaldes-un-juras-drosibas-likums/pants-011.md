@@ -8,7 +8,8 @@
 6) 1969.gada Starptautiskā konvencija par kuģu tilpības mērīšanu (turpmāk - Tilpības konvencija);
 7) Starptautiskās darba organizācijas 1976.gada Konvencija par minimālajām normām tirdzniecības kuģiem un tās 1996.gada protokols;
 8) 1978.gada Starptautiskā konvencija par jūrnieku sagatavošanu un diplomēšanu, kā arī sardzes pildīšanu ar grozījumiem (turpmāk - STCW konvencija);
-9) 1969.gada Pasaules veselības organizācijas Starptautiskie medicīniski sanitārie noteikumi.
+9) 2005.gada Pasaules veselības organizācijas Starptautiskie veselības aizsardzības noteikumi;
+10) 2001.gada Starptautiskā konvencija par kuģu kaitīgo pretapaugšanas sistēmu kontroli.
 (2) Nosakot kuģu drošības prasību piemērošanu un kuģu drošības uzraudzības kārtību, tiek ņemtas vērā starptautisko normatīvo aktu prasības attiecībā uz:
 1) pasažieru kuģu drošību un standartiem;
 2) obligāto pārbaužu sistēmu, lai nodrošinātu kuģu ar horizontālu un vertikālu kravas apstrādi (turpmāk - ro-ro kuģi) un ātrgaitas pasažieru kuģu drošu darbību;
