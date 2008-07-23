@@ -9,7 +9,7 @@ d) persona, kura ir noslēgusi Civillikuma IV daļas 15.nodaļā paredzēto uzņ
 e) Iekšlietu ministrijas sistēmas iestādes un Ieslodzījuma vietu pārvaldes amatpersona ar speciālo dienesta pakāpi vai Aizsardzības ministrijas padotībā esošas struktūrvienības militārpersona,
 f) valsts civildienesta ierēdnis,
 g) ārvalsts komersanta pilnvarota persona, kura, nebūdama darba tiesiskajās attiecībās ar šo komersantu, pārstāv to darbībās, kas saistītas ar ārvalsts komersanta filiāli;
-3) pašnodarbinātais - persona, kura gūst ienākumu kā:
+3) pašnodarbinātais - persona, kura gūst ienākumu (vai ieņēmumus) kā:
 a) persona, kas veic individuālo darbu,
 b) (izslēgts ar 25.11.1999. likumu),
 c) persona, kuras pastāvīgā dzīvesvieta ir Latvijas Republikā un kura saņem autoratlīdzību (autortiesību un blakustiesību atlīdzību), izņemot autortiesību mantinieku un citu autortiesību pārņēmēju,
@@ -24,5 +24,5 @@ k) zvērināts tiesu izpildītājs,
 l) individuālais komersants;
 4) iekšzemes darba ņēmējs pie darba devēja - ārvalstnieka:
 a) persona, kuru Latvijas Republikas teritorijā nodarbina darba devējs - ārvalstu nodokļu maksātājs, ja šīs personas pastāvīgā dzīvesvieta ir Latvijas Republikā,
-b) persona, kuru nodarbina citas Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas dalībvalsts (turpmāk - cita dalībvalsts) darba devējs un kurai saskaņā ar Padomes 1971.gada 14.jūnija regulas (EEK) Nr. 1408/71 par sociālā nodrošinājuma shēmu piemērošanu nodarbinātām, pašnodarbinātām personām, kā arī to ģimenes locekļiem, kas pārvietojas Kopienas teritorijā (turpmāk - regula), 13., 14., 15., 16. un 17.pantu piemēro Latvijas Republikas normatīvos aktus;
+b) persona, kuru nodarbina citas Eiropas Savienības dalībvalsts, Šveices Konfederācijas vai Eiropas Ekonomikas zonas dalībvalsts (turpmāk - cita dalībvalsts) darba devējs un kurai saskaņā ar Padomes 1971.gada 14.jūnija regulas (EEK) Nr. 1408/71 par sociālā nodrošinājuma shēmu piemērošanu nodarbinātām, pašnodarbinātām personām, kā arī to ģimenes locekļiem, kas pārvietojas Kopienas teritorijā (turpmāk - regula), 13., 14., 15., 16. un 17.pantu piemēro Latvijas Republikas normatīvos aktus;
 5) ārvalstu darba ņēmējs pie darba devēja - ārvalstnieka - persona, kuru nodarbina darba devējs - ārvalstu nodokļu maksātājs, ja šīs personas pastāvīgā dzīvesvieta nav Latvijas Republikā un tā uzturas Latvijas Republikā 183 dienas vai ilgāk jebkurā 12 mēnešu periodā, kas sākas vai beidzas taksācijas gadā.

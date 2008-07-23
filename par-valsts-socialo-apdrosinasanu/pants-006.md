@@ -2,12 +2,13 @@
 (1) Darba ņēmēji ir sociāli apdrošināmi atbilstoši visiem sociālās apdrošināšanas veidiem.
 (2) Darba ņēmēji, kuri sasnieguši vecumu, kas dod tiesības saņemt valsts vecuma pensiju, ir pakļauti pensiju apdrošināšanai, maternitātes un slimības apdrošināšanai, vecāku apdrošināšanai un darba negadījumu apdrošināšanai. Darba ņēmēji, kuri ir izdienas pensiju saņēmēji vai III grupas invalīdi - valsts speciālo pensiju saņēmēji, ir pakļauti pensiju apdrošināšanai, invaliditātes apdrošināšanai, maternitātes un slimības apdrošināšanai, vecāku apdrošināšanai un darba negadījumu apdrošināšanai.
 (3) Pašnodarbinātie, kuru ienākumi sasniedz Ministru kabineta noteikto obligāto iemaksu objekta minimālo apmēru, ir pakļauti pensiju apdrošināšanai, invaliditātes apdrošināšanai, maternitātes un slimības apdrošināšanai un vecāku apdrošināšanai, bet pašnodarbinātie, kuri sasnieguši vecumu, kas dod tiesības saņemt valsts vecuma pensiju, ir pakļauti pensiju apdrošināšanai, maternitātes un slimības apdrošināšanai un vecāku apdrošināšanai.
+(3¹) Pašnodarbinātie, kuri maksā fiksēto iedzīvotāju ienākuma nodokli un kuru ieņēmumi sasniedz Ministru kabineta noteikto obligāto iemaksu objekta minimālo apmēru, kas reizināts ar koeficientu 3,3, ir pakļauti pensiju apdrošināšanai, invaliditātes apdrošināšanai, maternitātes un slimības apdrošināšanai un vecāku apdrošināšanai, bet pašnodarbinātie, kuri sasnieguši vecumu, kas dod tiesības saņemt valsts vecuma pensiju, ir pakļauti pensiju apdrošināšanai, maternitātes un slimības apdrošināšanai un vecāku apdrošināšanai.
 (4) Papildus šā panta pirmajā, otrajā un trešajā daļā minētajām personām pensiju apdrošināšanai ir pakļauti:
 1) (izslēgts ar 26.04.2007. likumu);
 2) personas, kuras kopj bērnu, kas nav sasniedzis pusotra gada vecumu un saņem bērna kopšanas pabalstu;
 3) personas, kuras saņem bezdarbnieka pabalstu;
 4) nestrādājoši invalīdi;
-5) personas, kuras saņem maternitātes vai slimības pabalstu;
+5) personas, kuras saņem maternitātes, paternitātes vai slimības pabalstu;
 6) personas, kuru laulātais (kam piešķirts diplomātiskais rangs saskaņā ar Diplomātiskā un konsulārā dienesta likumu) pilda diplomātisko un konsulāro dienestu ārvalstīs un kuras uzturas attiecīgajā ārvalstī kā diplomātisko un konsulāro dienestu pildošas personas laulātais;
 7) personas, kuras saņem atlīdzību par adoptējamā bērna aprūpi;
 8) personas, kuras atrodas attiecīgajā ārvalstī dienesta pienākumus pildoša karavīra laulātā statusā, izņemot gadījumu, kad karavīrs piedalās starptautiskajā operācijā, militārajās mācībās, manevros vai atrodas komandējumā;
@@ -16,10 +17,14 @@
 (5) Papildus šā panta pirmajā daļā minētajām personām apdrošināšanai pret bezdarbu ir pakļauti:
 1) (izslēgts ar 26.04.2007. likumu);
 2) personas, kuras kopj bērnu, kas nav sasniedzis pusotra gada vecumu un saņem bērna kopšanas pabalstu;
-3) personas, kuras saņem maternitātes vai slimības pabalstu;
+3) personas, kuras saņem maternitātes, paternitātes vai slimības pabalstu;
 4) personas, kuras saņem atlīdzību par adoptējamā bērna aprūpi;
 5) personas, kuras atrodas attiecīgajā ārvalstī dienesta pienākumus pildoša karavīra laulātā statusā, izņemot gadījumu, kad karavīrs piedalās starptautiskajā operācijā, militārajās mācībās, manevros vai atrodas komandējumā;
 6) personas, kuras kopj bērnu, kas nav sasniedzis gada vecumu, un saņem vecāku pabalstu.
+(5¹) Papildus šā panta pirmajā, otrajā un trešajā daļā minētajām personām invaliditātes apdrošināšanai ir pakļautas personas, kuras:
+1) saņem maternitātes vai paternitātes pabalstu;
+2) kopj bērnu, kas nav sasniedzis gada vecumu, un saņem vecāku pabalstu;
+3) kopj bērnu, kas nav sasniedzis pusotra gada vecumu, un saņem bērna kopšanas pabalstu.
 (6) Ārvalstu darba ņēmēji pie darba devēja - ārvalstnieka ir pakļauti pensiju apdrošināšanai, invaliditātes apdrošināšanai, maternitātes un slimības apdrošināšanai un vecāku apdrošināšanai.
 (7) Zemnieku (zvejnieku) saimniecību īpašnieki, kuri, nebūdami darba tiesiskajās attiecībās ar savas zemnieku (zvejnieku) saimniecības pārvaldes institūciju, veic šīs zemnieku (zvejnieku) saimniecības vadības funkciju, ja šajā zemnieku (zvejnieku) saimniecībā likumā noteiktajā kārtībā nav iecelts (ievēlēts) pārvaldnieks (direktors), un kuri ir sasnieguši vecumu, kas dod tiesības saņemt valsts vecuma pensiju, vai ir I vai II grupas invalīdi, nav obligāti sociāli apdrošināmās personas.
 (8) Iekšzemes darba ņēmēji pie darba devēja - ārvalstnieka ir pakļauti pensiju apdrošināšanai, apdrošināšanai pret bezdarbu, invaliditātes apdrošināšanai, maternitātes un slimības apdrošināšanai, vecāku apdrošināšanai un darba negadījumu apdrošināšanai.
@@ -28,7 +33,7 @@
 (11) Fiziskā persona, kura veic nekustamā īpašuma apsaimniekošanu vai gūst ienākumu no personīgās palīgsaimniecības vai piemājas saimniecības un ir reģistrējusies kā saimnieciskajā darbībā gūtā ienākuma nodokļa maksātāja, un ir sasniegusi vecumu, kas dod tiesības saņemt valsts vecuma pensiju, vai ir I vai II grupas invalīds vai kuras pastāvīgā dzīvesvieta nav Latvijas Republikā, nav obligāti sociāli apdrošināmā persona.
 (12) Fiziskā persona, kura veic nekustamā īpašuma apsaimniekošanu un ir reģistrējusies kā saimnieciskajā darbībā gūtā ienākuma nodokļa maksātāja, ir pakļauta pensiju apdrošināšanai un invaliditātes apdrošināšanai.
 (13) Fiziskā persona, kuras pastāvīgā dzīvesvieta ir Latvijas Republikā un kura saņem autoratlīdzību (autortiesību un blakustiesību atlīdzību), izņemot autortiesību mantinieku un citu autortiesību pārņēmēju, un ir sasniegusi vecumu, kas dod tiesības saņemt valsts vecuma pensiju, vai ir I vai II grupas invalīds, nav obligāti sociāli apdrošināmā persona.
-(14) Personai, kura ir darba ņēmējs un vienlaikus saņem arī autoratlīdzību (autortiesību un blakustiesību atlīdzību), ir tiesības izvēlēties: vai nu no autoratlīdzības (autortiesību un blakustiesību atlīdzības) ienākuma neveikt sociālās apdrošināšanas obligātās iemaksas, vai no autoratlīdzības (autortiesību un blakustiesību atlīdzības) ienākuma veikt sociālās apdrošināšanas obligātās iemaksas atbilstoši pašnodarbinātajiem noteiktajai likmei un kārtībai.
+(14) Personai, kura ir darba ņēmējs un vienlaikus saņem arī autoratlīdzību (autortiesību un blakustiesību atlīdzību), ir tiesības izvēlēties: vai nu no autoratlīdzības (autortiesību un blakustiesību atlīdzības) ienākuma neveikt sociālās apdrošināšanas obligātās iemaksas, vai no autoratlīdzības (autortiesību un blakustiesību atlīdzības) ienākuma veikt sociālās apdrošināšanas obligātās iemaksas atbilstoši pašnodarbinātajiem noteiktajai likmei un kārtībai. Šādu izvēli persona var izdarīt tikai vienu reizi par pārskata ceturksni līdz termiņam, kas pašnodarbinātajam noteikts obligāto iemaksu veikšanai.
 (15) Persona, kas, gūstot vienu un to pašu ienākumu, vienlaikus atbilst vairākiem sociāli apdrošināmās personas statusiem, sociālajai apdrošināšanai ir pakļauta kā darba ņēmējs vai iekšzemes darba ņēmējs pie darba devēja - ārvalstnieka.
 (16) Ārvalstu darba ņēmējs pie darba devēja - ārvalstnieka, kas, gūstot vienu un to pašu ienākumu, vienlaikus atbilst vairākiem sociāli apdrošināmās personas statusiem, sociālajai apdrošināšanai ir pakļauts kā ārvalstu darba ņēmējs pie darba devēja - ārvalstnieka.
 (17) Citas dalībvalsts darba devējs ar personu, kurai saskaņā ar regulas 13., 14., 15., 16. un 17.pantu piemēro Latvijas Republikas normatīvos aktus, var vienoties par to, kādā statusā šī persona veiks obligātās iemaksas: darba ņēmēja statusā vai iekšzemes darba ņēmēja pie darba devēja - ārvalstnieka statusā. Par šādu vienošanos citas dalībvalsts darba devējs informē Valsts ieņēmumu dienestu.

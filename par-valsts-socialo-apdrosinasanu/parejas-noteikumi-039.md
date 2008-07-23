@@ -1,0 +1,1 @@
+39. Šā likuma 6.panta 5.¹ daļa un grozījumi 19.pantā attiecībā uz to personu pakļaušanu invaliditātes apdrošināšanai, kuras saņem maternitātes vai paternitātes pabalstu vai kuras kopj bērnu, kas nav sasniedzis pusotra gada vecumu, un saņem bērna kopšanas pabalstu, vai kuras kopj bērnu, kas nav sasniedzis gada vecumu, un saņem vecāku pabalstu, stājas spēkā 2009.gada 1.janvārī.

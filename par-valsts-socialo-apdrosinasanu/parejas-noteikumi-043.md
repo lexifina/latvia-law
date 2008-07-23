@@ -1,0 +1,1 @@
+43. Šā likuma 14.panta piektajā un sestajā daļā paredzētais obligāto un brīvprātīgo iemaksu objekta maksimālā apmēra ierobežojums (Ministru kabinetam deleģētās tiesības noteikt iemaksu objekta maksimālo apmēru) netiek piemērots laikā no 2009.gada 1.janvāra līdz 2013.gada 31.decembrim.

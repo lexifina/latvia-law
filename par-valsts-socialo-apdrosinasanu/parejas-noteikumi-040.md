@@ -1,0 +1,1 @@
+40. Grozījumi šā likuma 6.panta otrajā un devītajā daļā, 20.panta trešās daļas 2.punktā, ceturtās daļas 2.punktā un septītās daļas 3.punktā attiecībā uz invalīdu - valsts speciālās pensijas saņēmēju pakļaušanu sociālās apdrošināšanas veidiem stājas spēkā 2009.gada 1.janvārī.

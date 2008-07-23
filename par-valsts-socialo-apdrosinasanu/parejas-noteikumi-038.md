@@ -1,0 +1,1 @@
+38. Grozījumi šā likuma 5.panta pirmajā daļā, 6.panta ceturtajā un piektajā daļā attiecībā uz to personu pakļaušanu pensiju apdrošināšanai un apdrošināšanai pret bezdarbu, kuras saņem paternitātes pabalstu, stājas spēkā 2009.gada 1.janvārī.

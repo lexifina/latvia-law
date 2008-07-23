@@ -1,0 +1,1 @@
+42. Grozījumi šā likuma 14.panta septītajā daļā attiecībā uz obligāto iemaksu objektā neietveramajām darba ņēmēja labā veiktajām darba devēja iemaksām privātajos pensiju fondos atbilstoši licencētajiem pensiju plāniem un iemaksātajām apdrošināšanas prēmiju summām stājas spēkā 2009.gada 1.janvārī.
