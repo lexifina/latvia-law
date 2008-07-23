@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Normatīvie noteikumi par kritērijiem atvērto fondu ieguldījumu objektu atbilstībai Ieguldījumu pārvaldes sabiedrību likuma prasībām",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "111 (3895)",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-22",
+  "entry_into_force": "2008-07-23",
+  "notification_date": "2008-07-24",
+  "commission_reference": "MNE(2008)54200",
+  "nim_celex": "72007L0016LVA_157131",
+  "nim_id": "157131",
+  "transposes_celex": [
+    "32007L0016"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9d8616c0-6fe7-471e-9e0a-84ee4e6096e1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
