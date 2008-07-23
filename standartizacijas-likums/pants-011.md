@@ -1,1 +1,2 @@
-11.pants. Standartizācijas tehniskās komitejas izstrādā standartus un ir atbildīgas par standartizāciju noteiktās jomās.
+11.pants. (1) Standartizācijas tehniskās komitejas izstrādā standartus un ir atbildīgas par standartizāciju noteiktās jomās.
+(2) Standartizācijas tehniskās komitejas pēc konsultācijām ar attiecīgo ministriju iesaka Nacionālajai standartizācijas institūcijai tos Eiropas standartizācijas institūciju pieņemtos standartus, kuri adaptējami Latvijas nacionālā standarta statusā, lai šie standarti iegūtu piemērojamā standarta statusu.
