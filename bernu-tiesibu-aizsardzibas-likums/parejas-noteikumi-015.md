@@ -1,0 +1,1 @@
+15. Ministru kabinets līdz 2008.gada 1.oktobrim izdod šā likuma 31.panta ceturtajā daļā minētos noteikumus. Līdz attiecīgo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2008.gada 1.oktobrim piemērojami Ministru kabineta 2003.gada 9.septembra noteikumi Nr.512 "Noteikumi par adopcijas reģistru", ciktāl tie nav pretrunā ar šo likumu.
