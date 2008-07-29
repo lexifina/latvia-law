@@ -2,7 +2,7 @@
 (1) Personu var izdot ārvalstij vienkāršotā kārtībā, ja:
 1) saņemta izdodamās personas rakstveida piekrišana tās izdošanai vienkāršotā kārtībā;
 2) izdodamā persona nav Latvijas pilsonis;
-3) Latvijā pret izdodamo personu nav jāpabeidz uzsākts kriminālprocess vai nav jāizpilda tai piespriestais sods.
+3) (izslēgts ar 29.06.2008. likumu).
 (2) Izdodamā persona savu piekrišanu izdošanai vienkāršotā kārtībā apliecina prokuroram advokāta klātbūtnē, pirms pieņemts lēmums par izdošanas pieļaujamību.
 (3) Pēc piekrišanas saņemšanas prokurors noskaidro tikai šā panta pirmajā daļā minēto un nekavējoties iesniedz ar izdošanu saistītos materiālus ģenerālprokuroram.
 (4) Ģenerālprokurors pieņem vienu no šādiem lēmumiem:

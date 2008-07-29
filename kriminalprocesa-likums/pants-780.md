@@ -1,5 +1,5 @@
 780.pants. Ārvalstī piespriesta soda izpildīšanas lūguma atteikšanas iemesli
-Ārvalstī piespriesta soda izpildīšanas lūgumu var atteikt, ja:
+Ārvalstī piespriesta soda izpildīšanas lūgumu atsaka, ja:
 1) ir pamats uzskatīt, ka sods noteikts personas rases, reliģiskās piederības, tautības, dzimuma vai politisko uzskatu dēļ, vai ja nodarījums atzīstams par politisku vai izteikti militāru;
 2) soda izpilde būtu pretrunā ar Latvijas starptautiskajām saistībām pret citu valsti;
 3) soda izpilde būtu pretrunā ar Latvijas tiesību sistēmas pamatprincipiem;

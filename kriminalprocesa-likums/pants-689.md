@@ -1,5 +1,5 @@
 689.pants. Ārvalsts izdotās personas kriminālatbildības un soda izpildes ietvari
-(1) Personu var saukt pie kriminālatbildības un tiesāt tikai par to noziedzīgu nodarījumu, par kuru tā izdota.
+(1) Personu var saukt pie kriminālatbildības, tiesāt un izpildīt sodu tikai par to noziedzīgu nodarījumu, par kuru tā izdota.
 (2) Šie nosacījumi neattiecas uz gadījumiem, kad:
 1) saņemta izdevējas valsts piekrišana kriminālvajāšanai un tiesāšanai par citiem pirms izdošanas izdarītiem nodarījumiem;
 2) nodarījums izdarīts pēc tam, kad persona nodota Latvijai;

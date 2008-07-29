@@ -1,0 +1,2 @@
+801.¹ pants. Eiropas Savienības dalībvalstī pieņemta nolēmuma par mantiska rakstura piedziņu izpildīšanas nosacījumi
+Latvijā izpilda Eiropas Savienības dalībvalsts pieņemto nolēmumu par naudas sodu (juridiskajām personām - naudas piedziņu), šajā pašā nolēmumā noteikto kompensāciju cietušajam, procesuālo izdevumu atlīdzību un maksājumu cietušo atbalsta fondam vai organizācijai (turpmāk - nolēmums par mantiska rakstura piedziņu).

@@ -1,0 +1,5 @@
+801.⁵ pants. Latvijā izpildāmās mantiska rakstura piedziņas noteikšana
+(1) Latvijā nolēmumā noteiktās mantiska rakstura piedziņas izpildi nosaka rajona (pilsētas) tiesas tiesnesis pēc personas vai tās īpašuma atrašanās vietas.
+(2) Jautājumu par nolēmuma par mantiska rakstura piedziņu izpildi Latvijā rajona (pilsētas) tiesas tiesnesis izskata šā likuma 651.pantā un 784.panta otrajā, ceturtajā un piektajā daļā noteiktajā kārtībā.
+(3) Ja Eiropas Savienības dalībvalsts apliecinājumā ir norādījusi, ka tās likumi atļauj nolēmumā par mantiska rakstura piedziņu noteiktā naudas soda aizstāšanu, tā notiek šā likuma 645.pantā noteiktajā kārtībā.
+(4) Ja persona, attiecībā uz kuru Eiropas Savienības dalībvalstī pieņemts nolēmums par mantiska rakstura piedziņu, iesniedz pierādījumu par nolēmuma par mantiska rakstura piedziņu pilnīgu vai daļēju izpildi, tiesa ar Tieslietu ministrijas starpniecību vai tieši sazinās ar nolēmumu izsniegušās Eiropas Savienības dalībvalsts kompetento iestādi, lai saņemtu tā apstiprinājumu.
