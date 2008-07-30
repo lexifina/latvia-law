@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likums - konsolidētā versija",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "116",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-30",
+  "entry_into_force": "2008-07-30",
+  "notification_date": "2025-04-25",
+  "commission_reference": "MNE(2025)02281",
+  "nim_celex": "72023R1113LVA_202502281",
+  "nim_id": "202502281",
+  "transposes_celex": [
+    "32023R1113"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2602e80c-d57d-47c9-9664-a7bd706c3a1f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
