@@ -1,0 +1,1 @@
+1.pants. 2007.gada 18.decembrī Rīgā parakstītā Latvijas Republikas valdības un Krievijas Federācijas valdības vienošanās par Latvijas apbedījumu statusu Krievijas Federācijas teritorijā un Krievijas apbedījumu statusu Latvijas Republikas teritorijā (turpmāk- Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.
