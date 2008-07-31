@@ -1,0 +1,1 @@
+3.pants. Konstitūcija, Konvencija, Noslēguma protokols, Reglaments un Nolīgums attiecībā uz Latvijas Republiku stājas spēkā pievienošanās dienā, un Ārlietu ministrija par to paziņo laikrakstā "Latvijas Vēstnesis".
