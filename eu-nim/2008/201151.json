@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2008.gada 2.jūnija noteikumi Nr.400 „Veterinārās prasības akvakultūras dzīvniekiem, no tiem iegūtiem produktiem un to apritei, kā arī atsevišķu akvakultūras dzīvnieku infekcijas slimību profilaksei un apkarošanai”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "88 (3872)",
+  "official_journal_page": null,
+  "official_journal_date": "2008-06-06",
+  "entry_into_force": "2008-08-01",
+  "notification_date": "2013-02-04",
+  "commission_reference": "MNE(2013)51253",
+  "nim_celex": "72012L0031LVA_201151",
+  "nim_id": "201151",
+  "transposes_celex": [
+    "32012L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/47328f4e-a62d-41cf-ab65-c559aac755d2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
