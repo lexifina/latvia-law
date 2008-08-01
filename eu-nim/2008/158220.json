@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2004.gada 9.novembra noteikumos Nr.923 \"Elektrisko un elektronisko iekārtu atkritumu apsaimniekošanas noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "117",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-31",
+  "entry_into_force": "2008-08-01",
+  "notification_date": "2008-09-29",
+  "commission_reference": "MNE(2008)55267",
+  "nim_celex": "72002L0096LVA_158220",
+  "nim_id": "158220",
+  "transposes_celex": [
+    "32002L0096"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f3e0d1ff-0e4f-4287-81f1-6591565c9d91",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
