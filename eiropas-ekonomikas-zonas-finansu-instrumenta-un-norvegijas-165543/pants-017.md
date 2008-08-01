@@ -4,7 +4,7 @@
 2) nodrošināt katram individuālajam projektam atsevišķu grāmatvedības uzskaiti;
 3) sniegt informāciju par individuālā projekta īstenošanu un nodrošināt Eiropas Brīvās tirdzniecības asociācijas auditoru padomes, Eiropas Ekonomikas zonas finanšu instrumenta komitejas, Norvēģijas Ārlietu ministrijas, Latvijas Republikas Valsts kontroles un finanšu instrumentu vadībā iesaistīto institūciju pārstāvjiem pieeju visu ar individuālā projekta īstenošanu saistīto dokumentu oriģināliem, kā arī attiecīgā individuālā projekta īstenošanas vietai;
 4) sagatavot un iesniegt aģentūrai projekta starpposma pārskatu un projekta noslēguma pārskatu;
-5) sagatavot un iesniegt starpniekinstitūcijai projekta gada progresa pārskatu;
+5) (izslēgts ar 10.07.2008. likumu);
 6) īstenot finanšu instrumentu vadībā iesaistīto institūciju norādījumus;
 7) nodrošināt individuālo projektu publicitātes prasību izpildi.
 (2) Apakšprojekta līdzfinansējuma saņēmējam ir šādi pienākumi:

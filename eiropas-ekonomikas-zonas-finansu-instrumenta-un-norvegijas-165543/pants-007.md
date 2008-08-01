@@ -5,7 +5,7 @@
 3) nodrošināt granta līgumu noslēgšanu;
 4) pēc aģentūras veiktās projekta starpposma pārskata pārbaudes apstiprināt šā pārskata progresa daļu un iesniegt pārskatu aģentūrai;
 5) pēc aģentūras veiktās projekta noslēguma pārskata pārbaudes apstiprināt šo pārskatu un iesniegt aģentūrai;
-6) apstiprināt un iesniegt birojam projekta progresa gada pārskatu;
+6) (izslēgts ar 10.07.2008. likumu);
 7) sagatavot un iesniegt birojam gada pārskatu;
 8) nodrošināt finanšu instrumentu ieviešanas publicitāti Latvijā.
 (2) Vadošajai iestādei ir šādas tiesības:

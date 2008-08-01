@@ -6,5 +6,5 @@
 3) piešķirtā finanšu instrumentu līdzfinansējuma apjoms;
 4) programmas, grantu shēmas, individuālā projekta vai apakšprojekta īstenošanas vieta;
 5) kopsavilkums par programmas, grantu shēmas, individuālā projekta vai apakšprojekta ietvaros veicamajiem pasākumiem.
-(3) Šā panta otrajā daļā minētā informācija ir pieejama pēc tam, kad stājies spēkā galīgais lēmums par programmas, grantu shēmas, individuālā projekta vai apakšprojekta iesniegumu.
-(4) Informācija par personām, kuras vērtējušas individuālā projekta vai apakšprojekta iesniegumu, netiek izpausta.
+(3) Šā panta otrajā daļā minētā informācija ir pieejama pēc tam, kad stājies spēkā galīgais lēmums par programmas, grantu shēmas, individuālā projekta vai apakšprojekta iesnieguma apstiprināšanu.
+(4) Informācija par personām, kuras vērtē vai ir vērtējušas individuālā projekta vai apakšprojekta iesniegumu, netiek izpausta.
