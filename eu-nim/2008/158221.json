@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Atkritumu apsaimniekošanas atļauju izsniegšanas, pagarināšanas, pārskatīšanas un anulēšanas kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "119",
+  "official_journal_page": null,
+  "official_journal_date": "2008-08-05",
+  "entry_into_force": "2008-08-06",
+  "notification_date": "2008-09-29",
+  "commission_reference": "MNE(2008)55268",
+  "nim_celex": "71991L0689LVA_158221",
+  "nim_id": "158221",
+  "transposes_celex": [
+    "31991L0689",
+    "32006L0012"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9bf0ca2f-5d46-40b3-8693-c1c2935557e6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
