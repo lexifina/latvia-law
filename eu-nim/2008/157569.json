@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2008. gada 4. augusta noteikumi Nr. 639 “Grozījumi Ministru kabineta 2004. gada 20. aprīļa noteikumos Nr. 354 \"Noteikumi par būtiskajām prasībām kosmētikas līdzekļiem un to uzraudzības kārtību\"”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "122",
+  "official_journal_page": "00001-00025",
+  "official_journal_date": "2008-08-08",
+  "entry_into_force": "2008-08-09",
+  "notification_date": "2008-08-18",
+  "commission_reference": "MNE(2008)54626",
+  "nim_celex": "72008L0042LVA_157569",
+  "nim_id": "157569",
+  "transposes_celex": [
+    "32008L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f7923bc3-d5bf-455f-a676-6574d2bf6f91",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
