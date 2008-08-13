@@ -1,0 +1,1 @@
+4. Līdz šā likuma 7.panta ceturtajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2008.gada 1.novembrim ir piemērojami Ministru kabineta 2005.gada 18.janvāra noteikumi Nr.52 "Noteikumi par biedrības vai nodibinājuma iepriekšējā gada darbības pārskata un turpmākās darbības plāna veidlapas paraugu", ciktāl tie nav pretrunā ar šo likumu.
