@@ -1,6 +1,7 @@
 1.pants. Likumā lietotie termini
 Likumā ir lietoti šādi termini:
 1) publisks pasākums - fiziskās vai juridiskās personas plānots un organizēts sabiedrībai pieejams svētku, piemiņas, izklaides, sporta vai atpūtas pasākums publiskā vietā neatkarīgi no īpašuma piederības;
+1¹) publiska vieta - šā likuma izpratnē jebkura vieta, kura neatkarīgi no tās faktiskās izmantošanas vai īpašuma formas kalpo sabiedrības kopējo vajadzību un interešu nodrošināšanai un kura par maksu vai bez maksas ir pieejama ikvienai fiziskajai personai, kas nav attiecīgās vietas īpašnieks, tiesiskais valdītājs, turētājs, algots darbinieks vai cita persona, kuras atrašanās attiecīgajā vietā ir saistīta ar darba pienākumu izpildi, pasākuma organizēšanu vai ir uz uzņēmuma līguma pamata;
 2) pasākuma organizators - rīcībspējīga fiziskā persona, juridiskā persona vai arī valsts vai pašvaldības iestāde, kas plāno un organizē publisku pasākumu;
 3) par sabiedrisko kārtību un drošību atbildīgā persona - rīcībspējīga fiziskā persona, kura uzņēmusies atbildību par sabiedriskās kārtības un drošības ievērošanu publiskā pasākumā un no šā pasākuma sākuma līdz beigām atrodas tā norises vietā;
 4) par tehnisko drošību atbildīgā persona - pasākuma organizators, kā arī cita fiziskā vai juridiskā persona, ar kuru pasākuma organizators ir noslēdzis līgumu par pasākumā izmantojamo iekārtu un būvju drošas ekspluatācijas un pasākuma norises kopējās tehniskās drošības uzraudzību;

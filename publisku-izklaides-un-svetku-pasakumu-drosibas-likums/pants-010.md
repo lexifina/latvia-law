@@ -14,4 +14,5 @@
 9) nodrošināt, lai pirotehniskie pakalpojumi pasākuma laikā tiktu sniegti normatīvajos aktos noteiktajā kārtībā;
 10) pārtraukt attiecīgo pasākumu, ja netiek ievērotas šajā likumā noteiktās publiska pasākuma organizēšanas prasības vai to pieprasa par tehnisko drošību atbildīgā persona vai sakarā ar draudiem pasākuma apmeklētāja vai dalībnieka drošībai - Valsts policijas atbildīgā amatpersona;
 11) nodrošināt publiska pasākuma organizēšanas un norises laikā šā likuma un citu normatīvo aktu ievērošanu.
+(2¹) Ja publiska pasākuma vienīgais organizators ir valsts vai pašvaldības iestāde, tā ir tiesīga neievērot šā panta otrās daļas 8.punkta prasības. Valsts un pašvaldības iestādei ir pienākums atlīdzināt zaudējumus, kas pasākuma organizatora darbības vai bezdarbības dēļ pasākuma laikā var rasties trešajām personām.
 (3) Pasākuma organizators ir atbildīgs par tā drošību kopumā un par šajā pantā minēto pienākumu nepildīšanu saucams pie atbildības normatīvajos aktos noteiktajā kārtībā.
