@@ -1,6 +1,6 @@
 15.pants. (1) Valsts zemes dienesta reģionālās nodaļas zemes robežu strīdu komisija izskata zemes robežu strīdu starp personām par zemes vienībām, kuras nav ierakstītas zemesgrāmatā.
-(2) Tiesa izskata zemes robežu strīdu starp personām par zemes vienībām, no kurām kaut viena ir ierakstīta zemesgrāmatā.
-(3) Ja šā panta otrajā daļā minētajā gadījumā rodas strīds par to, vai robežzīmju izvietojums apvidū atbilst zemes kadastrālās uzmērīšanas dokumentiem, šo strīdu izskata Valsts zemes dienesta reģionālās nodaļas zemes robežu strīdu komisija.
+(2) Tiesa izskata zemes robežu strīdu starp personām par zemes vienībām, ja šīs zemes vienības ir ierakstītas zemesgrāmatā.
+(3) Zemes robežu strīdu starp personām par zemes vienībām, no kurām kaut viena ir ierakstīta zemesgrāmatā, izskata normatīvajos aktos noteiktajā kārtībā (šā panta piektā daļa).
 (4) Valsts zemes dienesta reģionālās nodaļas komisijas lēmumu viena mēneša laikā var apstrīdēt Valsts zemes dienesta ģenerāldirektoram. Ģenerāldirektora lēmumu viena mēneša laikā var pārsūdzēt tiesā.
 (5) Valsts zemes dienesta reģionālās nodaļas zemes robežu strīdu komisijas izveidošanu, tās tiesības un pienākumus, pieteikumu iesniegšanas, lēmumu pieņemšanas un paziņošanas kārtību nosaka Ministru kabinets.
 (6) Attiecīgo institūciju lēmumus, kas saistīti ar zemes lietošanas un zemes īpašuma tiesībām, samaksu par zemi, par zemi paredzētās kompensācijas piešķiršanu, kompensācijas apmēriem, zemes īpašuma kompensācijas sertifikātu dzēšanu, kā arī zemes īpašuma tiesību aprobežojumiem, viena mēneša laikā pēc to spēkā stāšanās var pārsūdzēt tiesā.

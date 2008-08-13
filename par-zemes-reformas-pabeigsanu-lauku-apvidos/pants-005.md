@@ -1,1 +1,1 @@
-5.pants. Tieslietu ministrs iesniedz izskatīšanai Ministru kabinetam Valsts zemes dienesta sagatavotos rīkojumu projektus par zemes reformas pabeigšanu attiecīgo pašvaldību teritorijā.
+5.pants. Tieslietu ministrs iesniedz izskatīšanai Ministru kabinetam Valsts zemes dienesta sagatavotos rīkojumu projektus par zemes reformas pabeigšanu attiecīgo pašvaldību teritorijā vai novada pašvaldības teritoriālajā vienībā (pilsētā, pagastā).

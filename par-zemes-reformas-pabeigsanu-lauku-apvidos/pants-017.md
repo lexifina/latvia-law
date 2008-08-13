@@ -6,6 +6,7 @@
 1) tās vietējās pašvaldības teritorijā, kurā atrodas bijušais zemes īpašums;
 2) tā rajona teritorijā, kurā atrodas bijušais zemes īpašums;
 3) citu pašvaldību teritorijā.
+(2¹) Centrālā zemes komisija īpašuma tiesības uz zemes reformas pabeigšanai paredzēto zemi šā panta otrajā daļā noteiktajā secībā atjauno, ievērojot administratīvi teritoriālo iedalījumu 2009.gada 2.janvārī.
 (3) Centrālā zemes komisija atjauno īpašuma tiesības uz zemes reformas pabeigšanai paredzēto zemi, ievērojot šādas prioritātes:
 1) pieprasījums par zemes īpašuma tiesību atjaunošanu, kā arī īpašuma un mantošanas tiesības apliecinošie dokumenti iesniegti likumā "Par zemes reformu Latvijas Republikas lauku apvidos" noteiktajos termiņos, bet bijušajiem zemes īpašniekiem, kuri līdz 1940.gada 21.jūlijam uzsāka izpirkt (aizpirka) Latvijā atstātos vācu izceļotāju nekustamos īpašumus no Vispārējās Lauksaimniecības bankas vai Valsts zemes bankas, vai viņu mantiniekiem neatkarīgi no pieprasījuma iesniegšanas termiņa;
 2) pieprasījums par zemes īpašuma tiesību atjaunošanu iesniegts likumā "Par zemes reformu Latvijas Republikas lauku apvidos" noteiktajos termiņos, bet īpašuma un mantošanas tiesības apliecinošie dokumenti iesniegti pēc likumā noteiktā termiņa;
