@@ -1,0 +1,1 @@
+3.¹ pants. Saskaņā ar Konvencijas 32.panta ceturto daļu Latvijas Republika paziņo, ka piemēro Konvenciju (izņemot tās 23.pantu) attiecībās ar dalībvalstīm, kas ir sniegušas tāda paša veida paziņojumu.
