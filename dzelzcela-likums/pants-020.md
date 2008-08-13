@@ -1,7 +1,7 @@
 20.pants. Pārbrauktuves un pārejas
 (1) Pārbrauktuve ir ar nepieciešamajām ierīcēm vilcienu un autotransporta satiksmes drošības garantēšanai aprīkots sliežu ceļa un autoceļa krustojums vienā līmenī.
 (2) Pārbrauktuves atkarībā no tās šķērsojošo autoceļu piederības iedalāmas šādi:
-1) publiskās lietošanas pārbrauktuves (sliežu ceļu šķērso valsts autoceļi, pagastu ceļi vai pilsētu ielas);
+1) publiskās lietošanas pārbrauktuves (sliežu ceļu šķērso valsts autoceļi, pašvaldību ceļi vai pilsētu ielas);
 2) atsevišķu lietotāju pārbrauktuves (sliežu ceļu šķērso citām personām piederoši ceļi, un šīs pārbrauktuves tiek izmantotas saskaņā ar līgumu, kas noslēgts ar attiecīgās dzelzceļa infrastruktūras pārvaldītāju).
 (3) Pāreja ir speciāli izbūvēta un aprīkota vieta, kur sliežu ceļu šķērso gājēji vai mājdzīvnieki.
 (4) Pārejas iedalāmas šādi:

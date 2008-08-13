@@ -1,0 +1,1 @@
+25. Grozījums šā likuma 14.panta pirmajā daļā par vārdu "un rajona" izslēgšanu un grozījums ceturtajā daļā par vārdu "attiecīgo rajonu pašvaldības" aizstāšanu ar vārdiem "attiecīgās vietējās pašvaldības" stājas spēkā 2009.gada 1.jūlijā.
