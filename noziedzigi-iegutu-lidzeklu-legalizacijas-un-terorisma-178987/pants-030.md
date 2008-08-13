@@ -1,0 +1,10 @@
+30.pants. Ziņošanas pienākums
+(1) Šā likuma subjekta pienākums ir:
+1) nekavējoties ziņot Kontroles dienestam par katru neparastu darījumu;
+2) nekavējoties ziņot Kontroles dienestam par katru aizdomīgu darījumu;
+3) septiņu dienu laikā pēc Kontroles dienesta rakstveida pieprasījuma saņemšanas sniegt tam šajā likumā paredzēto funkciju veikšanai nepieciešamo likuma subjekta rīcībā esošo papildu informāciju un dokumentus par tādu klientu vai tā darījumu, līdzekļu izcelsmi un to tālāku kustību, par kuru saņemts ziņojums no citiem šā likuma subjektiem vai par kuru veikta informācijas apmaiņa ar šā likuma 62.pantā minētajām iestādēm un institūcijām, bet par pārējiem šā klienta darījumiem - ar ģenerālprokurora vai īpaši pilnvarota prokurora piekrišanu. Ņemot vērā sniedzamās informācijas un dokumentu apjomu, pēc saskaņošanas ar Kontroles dienestu pieprasījuma izpildes termiņu var pagarināt.
+(2) Ministru kabinets izdod noteikumus, kuros apstiprināts neparasta darījuma pazīmju saraksts un kārtība, kādā sniedzami ziņojumi par neparastiem vai aizdomīgiem darījumiem, un apstiprina ziņojuma veidlapu.
+(3) Šā panta pirmās daļas un šā likuma V nodaļas prasības nav attiecināmas uz nodokļu konsultantiem, ārpakalpojuma grāmatvežiem, zvērinātiem revidentiem, zvērinātu revidentu komercsabiedrībām, zvērinātiem notāriem, zvērinātiem advokātiem un citiem neatkarīgiem juridisko pakalpojumu sniedzējiem gadījumos, kad tie aizstāv vai pārstāv klientus pirmstiesas kriminālprocesā vai tiesas procesā vai sniedz konsultācijas par tiesas procesa uzsākšanu vai izvairīšanos no tā.
+(4) Ziņojumi iesniedzami rakstveidā vai elektroniski.
+(5) Kontroles dienestam nav tiesību izpaust to personu datus, kuras sniegušas informāciju par neparastiem vai aizdomīgiem darījumiem. Šis ierobežojums neattiecas uz šā likuma 56.panta pirmajā daļā paredzētajiem gadījumiem.
+(6) Likuma subjekts ne vēlāk kā nākamajā darbdienā reģistrē Kontroles dienestam sniegtos ziņojumus un nodrošina to pieejamību uzraudzības un kontroles institūcijām.

@@ -1,0 +1,1 @@
+2. Šajā likumā noteikto klienta identifikāciju un patiesā labuma guvēja noskaidrošanu tiem klientiem, ar kuriem ir spēkā darījuma attiecības un kuriem tā nav veikta, likuma subjekti veic ne vēlāk kā līdz 2009.gada 1.jūlijam vai līdz minētajam termiņam pārtrauc ar tiem darījuma attiecības.

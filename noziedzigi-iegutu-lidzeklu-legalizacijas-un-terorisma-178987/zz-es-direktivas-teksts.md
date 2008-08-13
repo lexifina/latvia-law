@@ -1,0 +1,3 @@
+Likumā iekļautas tiesību normas, kas izriet no:
+1) Eiropas Parlamenta un Padomes 2005.gada 26.oktobra direktīvas 2005/60/EK par to, lai nepieļautu finanšu sistēmas izmantošanu nelikumīgi iegūtu līdzekļu legalizēšanai un teroristu finansēšanai;
+2) Eiropas Komisijas 2006.gada 1.augusta direktīvas 2006/70/EK, ar ko nosaka īstenošanas pasākumus Eiropas Parlamenta un Padomes direktīvai 2005/60/EK attiecībā uz "politiski ietekmējamas personas" definīciju un tehniskajiem kritērijiem vienkāršotām klienta uzticamības pārbaudes procedūrām un atbrīvojumam sakarā ar finanšu darbību, kuru veic reti vai ļoti ierobežotos apjomos.

@@ -1,0 +1,2 @@
+55.pants. Kontroles dienesta sadarbība ar pirmstiesas izmeklēšanas iestādēm, prokuratūru un tiesu
+Kontroles dienests sniedz informāciju pirmstiesas izmeklēšanas iestādēm, prokuratūrai vai tiesai, ja šī informācija rada pamatotas aizdomas, ka attiecīgā persona ir izdarījusi noziedzīgu nodarījumu, tajā skaitā veikusi noziedzīgi iegūtu līdzekļu legalizāciju, terorisma finansēšanu vai šo darbību mēģinājumu.

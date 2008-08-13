@@ -1,0 +1,1 @@
+4. Likuma subjekti, kurus atbilstoši šā likuma 45.panta otrajai daļai uzrauga Valsts ieņēmumu dienests un kuri savu darbību uzsākuši līdz šā likuma spēkā stāšanās dienai, par savas darbības veidu rakstveidā informē Valsts ieņēmumu dienesta teritoriālo iestādi 30 darbdienu laikā pēc šā likuma spēkā stāšanās.

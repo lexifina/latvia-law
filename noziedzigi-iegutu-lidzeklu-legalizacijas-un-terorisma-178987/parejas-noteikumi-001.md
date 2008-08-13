@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par noziedzīgi iegūtu līdzekļu legalizācijas novēršanu" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1998, 3.nr.; 2000, 14.nr.; 2002, 16.nr.; 2004, 2.nr.; 2005, 13.nr.; 2006, 12.nr.).

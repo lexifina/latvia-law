@@ -1,0 +1,3 @@
+34.pants. Kontroles dienesta rīkojumu apstrīdēšanas kārtība
+(1) Šajā likumā noteiktajos gadījumos un kārtībā izdotos Kontroles dienesta rīkojumus personas, kuru darījums ir apturēts, kuru kontā ir apturētas noteikta veida debeta operācijas vai attiecībā uz kurām piederošu līdzekļu pārreģistrāciju ir noteikts ierobežojums valsts informācijas sistēmas pārzinim, vai šo personu pilnvarotie pārstāvji var apstrīdēt īpaši pilnvarotam prokuroram šajā likumā noteiktajos termiņos.
+(2) Īpaši pilnvarota prokurora lēmumu šā panta pirmajā daļā minētās personas var apstrīdēt ģenerālprokuroram, kura lēmums ir galīgs.

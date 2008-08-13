@@ -1,0 +1,22 @@
+45.pants. Likuma subjektu uzraudzības un kontroles institūcijas
+(1) Likuma subjektus šā likuma prasību izpildē uzrauga un kontrolē šādas uzraudzības un kontroles institūcijas:
+1) kredītiestādes, apdrošināšanas sabiedrības, kas veic dzīvības apdrošināšanu, privātos pensiju fondus, apdrošināšanas starpniekus, kas sniedz dzīvības apdrošināšanas pakalpojumus, ieguldījumu brokeru sabiedrības, ieguldījumu pārvaldes sabiedrības un citus naudas pārvedumu un pārskaitījumu pakalpojumu sniedzējus - Finanšu un kapitāla tirgus komisija;
+2) zvērinātus advokātus - Latvijas Zvērinātu advokātu padome;
+3) zvērinātus notārus - Latvijas Zvērinātu notāru padome;
+4) zvērinātus revidentus un zvērinātu revidentu komercsabiedrības - Latvijas Zvērinātu revidentu asociācija;
+5) VAS "Latvijas Pasts" - Satiksmes ministrija;
+6) kapitālsabiedrības, kas saņēmušas Latvijas Bankas licenci ārvalstu valūtas skaidrās naudas pirkšanai un pārdošanai, - Latvijas Banka;
+7) izložu un azartspēļu organizētājus - Izložu un azartspēļu uzraudzības inspekcija;
+8) juridiskās vai fiziskās personas, kas nodarbojas ar dārgmetālu, dārgakmeņu un to izstrādājumu tirdzniecību, kā arī starpniecību, - Valsts proves uzraudzības inspekcija;
+9) juridiskās vai fiziskās personas, kas veic darījumus ar Valsts aizsargājamo kultūras pieminekļu sarakstā iekļautiem kultūras pieminekļiem, - Valsts kultūras pieminekļu aizsardzības inspekcija.
+(2) Valsts ieņēmumu dienests uzrauga šādus šā panta pirmajā daļā neminētos likuma subjektus:
+1) nodokļu konsultantus, ārpakalpojuma grāmatvežus;
+2) neatkarīgus juridisko pakalpojumu sniedzējus, kad tie, darbojoties savu klientu vārdā, sniedz palīdzību darījumu plānošanā vai veikšanā, piedalās tajos vai veic citas ar darījumiem saistītas profesionālas darbības vai apstiprina darījumu sava klienta labā saistībā ar:
+a) nekustamā īpašuma, uzņēmuma pirkšanu vai pārdošanu,
+b) klienta naudas, finanšu instrumentu un citu līdzekļu pārvaldīšanu,
+c) visu veidu kontu atvēršanu vai pārvaldīšanu kredītiestādēs vai finanšu iestādēs,
+d) juridisku veidojumu dibināšanu, vadību vai darbības nodrošināšanu, kā arī attiecībā uz juridiska veidojuma dibināšanai, vadīšanai vai pārvaldīšanai nepieciešamo ieguldījumu veikšanu;
+3) juridiska veidojuma dibināšanas un darbības nodrošināšanas pakalpojumu sniedzējus;
+4) personas, kas darbojas kā aģenti vai starpnieki darījumos ar nekustamo īpašumu;
+5) citas juridiskās vai fiziskās personas, kas nodarbojas ar nekustamā īpašuma, transportlīdzekļu un citu preču tirdzniecību, kā arī starpniecību minētajos darījumos vai pakalpojumu sniegšanu, ja maksājums notiek skaidrā naudā latos vai citā valūtā, kas pēc Latvijas Bankas noteiktā kursa darījuma veikšanas dienā ir ekvivalenta 15 000 eiro vai lielākai summai, neatkarīgi no tā, vai šo darījumu veic kā vienu operāciju vai kā vairākas savstarpēji saistītas operācijas. Ja darījums tiek veikts ārvalstu valūtā, kurai Latvijas Banka nenosaka oficiālo maiņas kursu, aprēķiniem izmanto Latvijas Bankas norādītajā informācijas avotā kārtējās nedēļas pirmajā darbdienā publicēto valūtas kursu.
+(3) Šā panta otrajā daļā minētie likuma subjekti 10 darbdienu laikā pēc darbības uzsākšanas par savu darbības veidu rakstveidā informē Valsts ieņēmumu dienesta teritoriālo iestādi atbilstoši savai juridiskajai adresei vai deklarētās dzīvesvietas adresei.

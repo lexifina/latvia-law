@@ -1,0 +1,2 @@
+9.pants. Darbinieku apmācība
+Likuma subjekts nodrošina, lai atbildīgie darbinieki pārzina ar noziedzīgi iegūtu līdzekļu legalizāciju un terorisma finansēšanu saistītos riskus, noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanu regulējošos normatīvos aktus, kā arī veic regulāru darbinieku apmācību, lai pilnveidotu viņu prasmi konstatēt neparasta darījuma pazīmes un aizdomīgus darījumus un izpildīt iekšējās kontroles sistēmā paredzētās darbības.

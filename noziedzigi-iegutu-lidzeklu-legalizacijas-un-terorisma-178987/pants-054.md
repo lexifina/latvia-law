@@ -1,0 +1,2 @@
+54.pants. Valsts un pašvaldību institūciju sadarbības pienākums
+Visām valsts un pašvaldību institūcijām ir pienākums Ministru kabineta noteiktajā kārtībā sniegt Kontroles dienestam tā funkciju veikšanai pieprasīto informāciju. Veicot informācijas apmaiņu ar Kontroles dienestu, personai, kura veic datu apstrādi, ir aizliegts izpaust citām juridiskajām vai fiziskajām personām informācijas apmaiņas faktu un informācijas saturu, izņemot gadījumus, kad informācija tiek sniegta pirmstiesas izmeklēšanas iestādēm, prokuratūrai vai tiesai.
