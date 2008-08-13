@@ -2,7 +2,8 @@
 (1) Ministru kabinets apstiprina profesionālās kvalifikācijas atzīšanas koordinatoru.
 (2) Profesionālās kvalifikācijas atzīšanas koordinators:
 1) koordinē sadarbību starp institūcijām, kuras izsniedz kvalifikācijas atzīšanas apliecības, un informācijas institūcijām profesionālās kvalifikācijas atzīšanas jautājumos;
-2) uztur sakarus ar Eiropas Komisiju un attiecīgajām ārvalstu institūcijām un nodrošina informācijas apmaiņu par normatīvajiem aktiem un atbildīgajām institūcijām profesionālās kvalifikācijas atzīšanas jomā.
+2) uztur sakarus ar Eiropas Komisiju un attiecīgajām ārvalstu institūcijām un nodrošina informācijas apmaiņu par normatīvajiem aktiem un atbildīgajām institūcijām profesionālās kvalifikācijas atzīšanas jomā;
+3) piedalās Eiropas Komisijas Profesionālās kvalifikācijas atzīšanas komitejas darbā.
 (3) Informācijas institūcijas funkcijas attiecībā uz tām reglamentētajām profesijām, kurām Latvijas Republikā vai ārvalstīs ir nepieciešama augstākā izglītība, veic Akadēmiskās informācijas centrs.
 (4) Informācijas institūcijas pārējām reglamentētajām profesijām nosaka Ministru kabinets, nodrošinot vienotu sistēmu šā likuma 55., 56., 57. un 58.pantā noteikto prasību izpildei.
 (5) Informācijas institūcijas savas darbības jomā:

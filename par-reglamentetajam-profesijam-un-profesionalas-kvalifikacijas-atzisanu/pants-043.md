@@ -4,8 +4,8 @@
 (3) Pretendenta iesniegumu un tam pievienotos dokumentus izskata un lēmumu ar tā pamatojumu pretendentam paziņo:
 1) ne vēlāk kā triju mēnešu laikā pēc visu dokumentu iesniegšanas attiecībā uz reglamentētajām profesijām, kurām piemēro speciālo profesionālās kvalifikācijas atzīšanas sistēmu, ja persona vēlas veikt pastāvīgu profesionālo darbību Latvijas Republikā;
 2) ne vēlāk kā četru mēnešu laikā pēc visu dokumentu iesniegšanas attiecībā uz reglamentētajām profesijām, kurām piemēro vispārējo profesionālās kvalifikācijas atzīšanas sistēmu un profesionālās kvalifikācijas atzīšanu, pamatojoties uz pretendenta profesionālo pieredzi;
-3) ne vēlāk kā četru mēnešu laikā pēc visu dokumentu iesniegšanas attiecībā uz reglamentētajām profesijām, kurām piemēro speciālo profesionālās kvalifikācijas atzīšanas sistēmu saskaņā ar šā likuma 49.panta piekto daļu;
-4) ne vēlāk kā triju mēnešu laikā pēc visu dokumentu iesniegšanas attiecībā uz reglamentētajām profesijām, kurām piemēro speciālo profesionālās kvalifikācijas atzīšanas sistēmu saskaņā ar šā likuma 54.pantu.
+3) (izslēgts ar 17.07.2008. likumu);
+4) (izslēgts ar 17.07.2008. likumu).
 (4) Šā panta trešajā daļā noteikto izskatīšanas termiņu skaita no dienas, kad pretendents iesniedzis visus profesionālās kvalifikācijas atzīšanas apliecības iegūšanai nepieciešamos dokumentus.
 (5) Šā panta trešajā daļā minēto lēmumu pretendents var apstrīdēt Administratīvā procesa likumā noteiktajā kārtībā.
 (6) Ja institūcijai, kura izsniedz kvalifikācijas atzīšanas apliecības, rodas pamatotas šaubas par pretendenta dokumentu autentiskumu vai tai ir informācija par profesionālajā ziņā nepieļaujamu pretendenta rīcību ārpus Latvijas Republikas, šai institūcijai ir tiesības pieprasīt no attiecīgās valsts papildu informāciju. Pieprasījumā tā norāda termiņu atbildes sniegšanai, ņemot vērā šā panta trešajā daļā noteikto kopējo iesnieguma izskatīšanas termiņu. Ja atbilde noteiktajā termiņā netiek saņemta, institūcija pieņem lēmumu atbilstoši tās rīcībā esošajai informācijai.

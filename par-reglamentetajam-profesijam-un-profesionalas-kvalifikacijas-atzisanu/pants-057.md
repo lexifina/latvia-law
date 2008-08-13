@@ -1,6 +1,6 @@
 57.pants. Institūcijas, kas izsniedz profesionālās kvalifikācijas atzīšanas apliecības reglamentētajās profesijās
 (1) Institūcijas, kas izsniedz profesionālās kvalifikācijas atzīšanas apliecības reglamentētajās profesijās attiecīgajā darbības jomā:
-1) Ministru kabineta noteiktajā kārtībā izskata pretendentu iesniegumus par kvalifikācijas atzīšanas apliecības saņemšanu konkrētā reglamentētajā profesijā un tiem pievienotos dokumentus un pieņem lēmumu par pretendentu profesionālās kvalifikācijas atzīšanu vai neatzīšanu:
+1) Ministru kabineta noteiktajā kārtībā izskata pretendentu iesniegumus par kvalifikācijas atzīšanas apliecības saņemšanu attiecīgā reglamentētajā profesijā un tiem pievienotos dokumentus un pieņem lēmumu par pretendentu profesionālās kvalifikācijas atzīšanu vai neatzīšanu:
 a) ja pieņemts lēmums atzīt pretendenta profesionālo kvalifikāciju, - sagatavo kvalifikācijas atzīšanas apliecību, ievērojot šajā likumā noteiktos dokumentu izskatīšanas termiņus,
 b) ja pieņemts lēmums neatzīt pretendenta profesionālo kvalifikāciju, - sagatavo lēmuma un tā pamatojuma izrakstu, ievērojot šajā likumā noteiktos dokumentu izskatīšanas termiņus;
 2) nodrošina pretendentam iespēju kārtot kvalifikācijas atbilstības pārbaudi vai adaptēties;

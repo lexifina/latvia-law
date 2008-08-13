@@ -1,21 +1,22 @@
 34.pants. Speciālās profesionālās kvalifikācijas atzīšanas sistēmas piemērošana
 (1) Speciālo profesionālās kvalifikācijas atzīšanas sistēmu piemēro:
-1) reglamentētajām profesijām, kurām profesionālās kvalifikācijas prasības nosaka Saeimas apstiprinātie starptautiskie līgumi, tas ir, šādām profesijām:
+1) reglamentētajām profesijām, kurām profesionālās kvalifikācijas prasības nosaka Latvijas Republikai saistoši starptautiskie līgumi, tas ir, šādām profesijām:
 a) jūrnieku profesijām,
 b) civilās aviācijas un lidostu darbinieku profesijām;
-2) reglamentētajām profesijām, kurām ārvalstīs ir noteiktas vienotas prasības, tas ir, šādām profesijām:
+2) Eiropas Savienības dalībvalstīs noteiktajām vienotajām minimālajām prasībām tādu izglītību un profesionālo kvalifikāciju apliecinošu dokumentu iegūšanai, kuri atbilst Eiropas Savienības dalībvalstu vai Eiropas Brīvās tirdzniecības asociācijas dalībvalstu kompetento institūciju izsniegtiem izglītību un profesionālo kvalifikāciju apliecinošiem dokumentiem, kuru nosaukumi ir noteikti saskaņā ar šā likuma 36.panta 5. un 6.punktu vai Eiropas Savienības tieši piemērojamos normatīvajos aktos profesionālo kvalifikāciju atzīšanas jomā, šādās reglamentētajās profesijās:
 a) arhitekts,
 b) ārsts,
 c) zobārsts,
 d) farmaceits,
-e) māsa (medicīnas māsa),
+e) māsa (vispārējās aprūpes medicīnas māsa),
 f) vecmāte,
-g) veterinārārsts,
-h) mehāniskā transportlīdzekļa vadītājs,
-i) autopārvadājumu vadītājs (administrators),
-j) (izslēgts ar 23.10.2003. likumu),
-k) bīstamo kravu pārvadājumu drošības konsultants (padomnieks);
-3) advokāta prakses tiesību atzīšanā.
+g) veterinārārsts;
+3) advokāta prakses tiesību atzīšanā, ja Eiropas Savienības dalībvalsts vai Eiropas Brīvās tirdzniecības asociācijas dalībvalsts advokāts vēlas Latvijas Republikā praktizēt ar savas mītnes valsts profesionālo nosaukumu;
+4) šādām reglamentētajām profesijām, kurām Eiropas Savienības dalībvalstīs ir noteiktas vienotas minimālās prasības izglītību un profesionālo kvalifikāciju apliecinošu dokumentu iegūšanai, ja pretendenta izglītību un profesionālo kvalifikāciju apliecinošie dokumenti ir iegūti Eiropas Savienības dalībvalstīs vai Eiropas Brīvās tirdzniecības asociācijas dalībvalstīs un apliecina minimālo prasību izpildi:
+a) mehānisko transportlīdzekļu vadītājs,
+b) bīstamu kravu pārvadājumu drošības konsultants (padomnieks),
+c) bīstamu kravu pārvadāšanas transportlīdzekļu vadītājs;
+5) Eiropas Savienības dalībvalstu un Eiropas Brīvās tirdzniecības asociācijas dalībvalstu kompetento institūciju izsniegtiem dokumentiem, kas apliecina pretendenta kompetenci starptautisko kravu autopārvadājumu operāciju vadīšanā, starptautisko pasažieru autopārvadājumu operāciju vadīšanā, iekšzemes kravu autopārvadājumu operāciju vadīšanā un iekšzemes pasažieru autopārvadājumu operāciju vadīšanā.
 (2) Ja pretendenta mītnes valsts nav pievienojusies šā panta pirmajā daļā minētajiem starptautiskajiem līgumiem, pretendenta profesionālo kvalifikāciju atzīst tikai tad, ja viņa izglītība un profesionālā pieredze līmeņa, satura un ilguma ziņā būtiski neatšķiras no Latvijas Republikā attiecīgajai profesijai noteiktajām prasībām.
-(3) Šā panta pirmās daļas 2. un 3.punktā minētajām profesijām piemēro speciālo profesionālās kvalifikācijas atzīšanas sistēmu attiecībā uz Eiropas Savienības dalībvalstu pilsoņiem, Eiropas Ekonomikas zonas valstu pilsoņiem, kā arī citu valstu pilsoņiem, kā to paredz Saeimas apstiprinātie starptautiskie līgumi.
-(4) Ja Eiropas Savienības dalībvalsts ārsts, zobārsts, māsa (medicīnas māsa), vecmāte, veterinārārsts vai arhitekts sniedz tikai īslaicīgus profesionālos pakalpojumus Latvijas Republikā, piemēro šā likuma 50.pantu.
+(3) (Izslēgta ar 17.07.2008. likumu.)
+(4) (Izslēgta ar 17.07.2008. likumu.)

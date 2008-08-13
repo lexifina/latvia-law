@@ -26,4 +26,4 @@
 18) audiologopēds;
 19) radiologa asistents;
 20) uztura speciālists.
-(3) Medicīniskās izglītības klīnisko un praktisko daļu, arī rezidentūrā iegūstamo, šajā pantā minētajās ārstniecības profesijās un specialitātēs īsteno ārstniecības iestādes un ārstniecības personas, kuras atbilst likumā ārstniecības jomai izvirzītajām prasībām un kuras ir ieguvušas attiecīgu likuma prasībām atbilstošu izglītību.
+(3) Medicīniskās izglītības klīnisko un praktisko daļu (arī rezidentūrā iegūstamo) šajā pantā minētajās ārstniecības profesijās un specialitātēs īsteno ārstniecības iestādes un ārstniecības personas, kuras normatīvajos aktos noteiktajā kārtībā ir ieguvušas tiesības izglītot ārstniecības personas.
