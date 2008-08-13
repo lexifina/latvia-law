@@ -1,0 +1,1 @@
+12. Politiskā organizācija (partija), kas iesniegusi deputātu kandidātu sarakstus gan 2009.gadā plānotajām Eiropas Parlamenta vēlēšanām, gan 2009.gadā plānotajām pašvaldības domes vēlēšanām, atbilstoši normatīvo aktu prasībām iesniedz Korupcijas novēršanas un apkarošanas birojam vienu kopēju vēlēšanu ieņēmumu un izdevumu deklarāciju.
