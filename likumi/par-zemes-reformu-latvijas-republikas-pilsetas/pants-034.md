@@ -1,2 +1,2 @@
 34.pants. Zemes reformas pabeigšana
-Lēmumu par zemes reformas pabeigšanu attiecīgās pašvaldības teritorijā pieņem Ministru kabinets, izdodot rīkojumu uz attiecīgās pašvaldības iesnieguma pamata.
+Lēmumu par zemes reformas pabeigšanu attiecīgās pašvaldības teritorijā vai novada pašvaldības teritoriālajā vienībā (pilsētā) pieņem Ministru kabinets, izdodot rīkojumu uz attiecīgās pašvaldības iesnieguma pamata.

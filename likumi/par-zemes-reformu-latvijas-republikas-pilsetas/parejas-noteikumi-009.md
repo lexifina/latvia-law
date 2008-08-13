@@ -1,0 +1,1 @@
+9. Pēc 2009.gada 1.jūlija šajā likumā noteiktos pilsētas pašvaldības, pilsētas domes un pilsētas zemes komisijas pienākumus līdz zemes reformas pabeigšanai turpina veikt attiecīgā republikas pilsētas pašvaldība, republikas pilsētas dome un republikas pilsētas zemes komisija.

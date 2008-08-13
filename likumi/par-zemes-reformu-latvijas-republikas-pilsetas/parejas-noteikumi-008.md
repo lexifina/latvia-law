@@ -1,0 +1,1 @@
+8. Ja novada pašvaldība ir uzsākusi darbu un novadā ir pilsēta, šajā likumā noteiktos pilsētas pašvaldības, pilsētas domes un pilsētas zemes komisijas pienākumus līdz zemes reformas pabeigšanai veic attiecīgā novada pašvaldība, novada dome un pilsētas zemes komisija.
