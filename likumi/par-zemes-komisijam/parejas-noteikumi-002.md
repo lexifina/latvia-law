@@ -1,0 +1,1 @@
+2. Ja novada pašvaldība ir uzsākusi darbu un novadā ir pilsēta, tad līdzšinējā pilsētas zemes komisija turpina savu darbu līdz zemes reformas pabeigšanai attiecīgajā novada pilsētā saskaņā ar normatīvajos aktos noteikto kārtību un attiecīgie zemes komisijas lēmumi turpmāk ir pārsūdzami novada domei.
