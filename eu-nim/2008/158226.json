@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2007.gada 3.aprīļa noteikumos Nr.231 \"Noteikumi par gaistošo organisko savienojumu emisijas ierobežošanu no noteiktiem produktiem\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "134",
+  "official_journal_page": null,
+  "official_journal_date": "2008-08-29",
+  "entry_into_force": "2008-08-30",
+  "notification_date": "2008-09-29",
+  "commission_reference": "MNE(2008)55273",
+  "nim_celex": "72004L0042LVA_158226",
+  "nim_id": "158226",
+  "transposes_celex": [
+    "32004L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/61d7be4c-5a15-4e79-94c0-7057d0579b66",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
