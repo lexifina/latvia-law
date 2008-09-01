@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2008.gada 25.augusta noteikumi Nr.693 \"Noteikumi par mērīšanas līdzekļu kalibrēšanu\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "134",
+  "official_journal_page": null,
+  "official_journal_date": "2008-08-29",
+  "entry_into_force": "2008-09-01",
+  "notification_date": "2023-11-03",
+  "commission_reference": "MNE(2023)05704",
+  "nim_celex": "72014L0045LVA_202305704",
+  "nim_id": "202305704",
+  "transposes_celex": [
+    "32014L0045"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/91f29886-a20b-4539-8d8d-3966295915ff",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
