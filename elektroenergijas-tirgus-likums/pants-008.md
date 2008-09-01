@@ -1,6 +1,6 @@
 8.pants. Sistēmas operatora darbības regulēšana un uzraudzība
 (1) Sistēmas operatora darbību regulē regulators Enerģētikas likumā, likumā "Par sabiedrisko pakalpojumu regulatoriem" un šajā likumā noteiktajā kārtībā.
-(2) Regulators nosaka vienotus sistēmas pieslēguma noteikumus un pieslēguma maksas aprēķināšanas metodiku.
+(2) Regulators nosaka vienotus sistēmas pieslēguma noteikumus ražotājiem un lietotājiem, kā arī pieslēguma maksas noteikšanas metodiku.
 (3) Regulators uzrauga:
 1) starpvalstu savienojumu jaudu vadības un sadales noteikumus sadarbībā ar to dalībvalstu attiecīgo iestādi vai iestādēm, ar kurām ir šāds starpvalstu savienojums;
 2) rīcību un metodes, ko sistēmas operators izmanto sistēmas jaudas pārslodzes vadībai;
