@@ -2,7 +2,7 @@
 (1) Sodāmība ir noziedzīgu nodarījumu izdarījušas personas notiesāšanas vai soda noteikšanas juridiskās sekas, kas ir spēkā tiesas vai prokurora priekšrakstā par sodu noteiktajā soda izciešanas laikā, kā arī pēc tam līdz sodāmības dzēšanai vai noņemšanai likumā noteiktajā kārtībā.
 (2) Persona uzskatāma par sodītu no notiesājoša sprieduma spēkā stāšanās brīža vai prokurora priekšraksta par sodu spēkā stāšanās dienas. Persona, kas atbrīvota no soda ar tiesas spriedumu, nav uzskatāma par sodītu.
 (3) Par nesodītām atzīstamas:
-1) nosacīti notiesātas personas, ja pārbaudes laikā, bet papildsoda piemērošanas gadījumā arī papildsoda izciešanas laikā tās neizdara noziedzīgu nodarījumu un ja pārbaudes laikā nosacītā notiesāšana nav atcelta saskaņā ar citiem likumā paredzētajiem noteikumiem;
+1) nosacīti notiesātas personas, ja gadu pēc pārbaudes laika, bet papildsoda piemērošanas gadījumā - arī gadu pēc papildsoda izciešanas laika beigām tās neizdara noziedzīgu nodarījumu un ja pārbaudes laikā nosacītā notiesāšana nav atcelta saskaņā ar citiem likumā paredzētajiem noteikumiem;
 2) personas, kas notiesātas ar arestu, mantas konfiskāciju, piespiedu darbu vai naudas sodu, ja viena gada laikā no soda izciešanas dienas tās neizdara jaunu noziedzīgu nodarījumu;
 3) pēc diviem gadiem - personas, kas izcietušas brīvības atņemšanas sodu, ne ilgāku par trim gadiem;
 4) pēc pieciem gadiem - personas, kas izcietušas brīvības atņemšanas sodu, ilgāku par trim gadiem, bet ne ilgāku par pieciem gadiem;
