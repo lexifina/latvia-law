@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi \"Dzīvības apdrošinātāju maksātspējas normas un pašu līdzekļu aprēķināšanas noteikumos\"",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "140 (3924)",
+  "official_journal_page": null,
+  "official_journal_date": "2008-09-10",
+  "entry_into_force": "2008-09-11",
+  "notification_date": "2008-10-01",
+  "commission_reference": "MNE(2008)55376",
+  "nim_celex": "72005L0068LVA_158334",
+  "nim_id": "158334",
+  "transposes_celex": [
+    "32005L0068"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/741d9341-5563-4204-942f-43db454aa881",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
