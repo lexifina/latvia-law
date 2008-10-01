@@ -1,6 +1,6 @@
 1.pants. Likumā lietotie termini
 Likumā ir lietoti šādi termini:
-1) dominējošais stāvoklis - tirgus dalībnieka vai vairāku tirgus dalībnieku ekonomisks (saimniecisks) stāvoklis konkrētajā tirgū, ja šā dalībnieka vai šo dalībnieku tirgus daļa šajā tirgū ir vismaz 40 procentu un šis dalībnieks vai šie dalībnieki spēj ievērojami kavēt, ierobežot vai deformēt konkurenci jebkurā konkrētajā tirgū pietiekami ilgā laika posmā, darbojoties pilnīgi vai daļēji neatkarīgi no konkurentiem, klientiem vai patērētājiem;
+1) dominējošais stāvoklis - tirgus dalībnieka vai vairāku tirgus dalībnieku ekonomisks (saimniecisks) stāvoklis konkrētajā tirgū, ja šis dalībnieks vai šie dalībnieki spēj ievērojami kavēt, ierobežot vai deformēt konkurenci jebkurā konkrētajā tirgū pietiekami ilgā laika posmā, darbojoties pilnīgi vai daļēji neatkarīgi no konkurentiem, klientiem, piegādātājiem vai patērētājiem;
 2) izšķiroša ietekme - iespēja tieši vai netieši:
 a) kontrolēt (regulāri vai neregulāri) lēmumu pieņemšanu tirgus dalībnieka pārvaldes institūcijās, realizējot līdzdalību vai bez tās,
 b) iecelt tādu tirgus dalībnieka pārraudzības institūcijas vai izpildinstitūcijas locekļu skaitu, kas izšķirošās ietekmes realizētājam nodrošina balsu vairākumu attiecīgajā institūcijā;
