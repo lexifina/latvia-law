@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Atsevišķu veidu bīstamo atkritumu apsaimniekošanas kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "152",
+  "official_journal_page": null,
+  "official_journal_date": "2008-10-01",
+  "entry_into_force": "2008-10-02",
+  "notification_date": "2008-10-29",
+  "commission_reference": "MNE(2008)55732",
+  "nim_celex": "71975L0439LVA_158703",
+  "nim_id": "158703",
+  "transposes_celex": [
+    "31975L0439",
+    "31978L0176",
+    "31982L0883",
+    "31983L0029",
+    "31996L0059",
+    "32006L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8c4476b8-b2d4-4a39-82dc-36e9a5c7287f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
