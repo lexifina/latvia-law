@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2006.gada 14.februāra noteikumos Nr.139 \"Noteikumi par atsevišķu bīstamas ķīmiskas vielas saturošu iekārtu un produktu lietošanas un marķēšanas prasībām un  par videi kaitīgo preču sarakstu\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "153",
+  "official_journal_page": null,
+  "official_journal_date": "2008-10-02",
+  "entry_into_force": "2008-10-03",
+  "notification_date": "2008-10-29",
+  "commission_reference": "MNE(2008)55711",
+  "nim_celex": "71996L0059LVA_158681",
+  "nim_id": "158681",
+  "transposes_celex": [
+    "31996L0059",
+    "32006L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3fa7dffc-9434-4f2d-9d5c-8ba987f54e13",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
