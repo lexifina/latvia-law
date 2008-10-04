@@ -1,0 +1,1 @@
+Protokols par Horvātijas Republikas pievienošanos Ziemeļatlantijas līgumam
