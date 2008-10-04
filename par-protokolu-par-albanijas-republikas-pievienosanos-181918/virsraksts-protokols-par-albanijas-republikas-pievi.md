@@ -1,0 +1,1 @@
+Protokols par Albānijas Republikas pievienošanos Ziemeļatlantijas līgumam
