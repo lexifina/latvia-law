@@ -4,3 +4,4 @@
 (3) Ja valsts teritorijā rodas kaitīgo organismu izplatīšanās risks, Valsts augu aizsardzības dienests var ierosināt zemkopības ministram noteikt fitosanitāros pasākumus augu, augu produktu un ar tiem saskarē nonākušo priekšmetu ievešanai, audzēšanai un pārvietošanai.
 (4) Personai ir pienākums nekavējoties informēt Valsts augu aizsardzības dienestu par augu karantīnas organismu vai citu nepazīstamu organismu vai simptomu parādīšanos.
 (5) Valsts augu aizsardzības dienests izstrādā ilgtermiņa programmu noteiktu kaitīgo organismu izplatības ierobežošanai.
+(6) Persona var saņemt kompensāciju par tai uzdoto fitosanitāro pasākumu izpildi normatīvajos aktos noteiktajā kārtībā. Kompensācija tiek maksāta no valsts budžeta.

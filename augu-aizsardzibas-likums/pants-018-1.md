@@ -8,3 +8,4 @@
 1) pieņem lēmumu par Ministru kabineta noteikto invazīvo augu sugu izplatības ierobežošanas pasākumiem attiecīgā rajona teritorijā un publicē to laikrakstā "Latvijas Vēstnesis";
 2) izveido ekspertu grupu, kuras sastāvā iekļauj Valsts augu aizsardzības dienesta pārstāvi. Ekspertu grupa izstrādā attiecīgā rajona invazīvo augu sugu izplatības ierobežošanas pasākumu plānu;
 3) organizē un koordinē sadarbībā ar Valsts augu aizsardzības dienestu invazīvo augu sugu ierobežošanas pasākumu veikšanu, ja zemes īpašnieks vai valdītājs neveic invazīvo augu sugu izplatības ierobežošanas pasākumus.
+(7) Invazīvo augu sugu zinātniskiem un pētniecības mērķiem drīkst ievest vai audzēt, ja ir saņemta Valsts augu aizsardzības dienesta atļauja normatīvajos aktos par invazīvo augu sugu izplatības ierobežošanu noteiktajā kārtībā.
