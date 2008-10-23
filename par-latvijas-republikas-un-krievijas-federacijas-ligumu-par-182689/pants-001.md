@@ -1,0 +1,1 @@
+1.pants. 2007.gada 18.decembrī Rīgā parakstītais Latvijas Republikas un Krievijas Federācijas līgums par sadarbību sociālās drošības jomā (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
