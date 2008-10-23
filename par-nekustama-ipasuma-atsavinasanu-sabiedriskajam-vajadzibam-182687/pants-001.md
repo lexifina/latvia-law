@@ -1,0 +1,1 @@
+1.pants. Atsavināt sabiedriskajām vajadzībām - Dienvidu tilta pār Daugavu 3.kārtas būvniecībai (ielas izbūvei no Bauskas ielas līdz Ziepniekkalna ielai) - nekustamo īpašumu - zemes gabala Rīgā, Gulbju ielā 14 (kadastra Nr.0100 119 0262, reģistrēts Rīgas pilsētas zemesgrāmatas nodalījumā Nr.100000088107) daļu 233 kvadrātmetru platībā, kas atrodas ielas sarkanajās līnijās.
