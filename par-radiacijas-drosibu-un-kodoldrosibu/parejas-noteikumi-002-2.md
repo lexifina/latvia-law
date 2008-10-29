@@ -1,0 +1,1 @@
+2.² Ministru kabinets līdz 2009.gada 1.martam izdod šā likuma 11.panta piektajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2009.gada 1.martam piemērojami Ministru kabineta 2001.gada 3.jūlija noteikumi Nr.289 "Noteikumi par valsts nodevu par speciālās atļaujas (licences) vai atļaujas izsniegšanu darbībām ar jonizējošā starojuma avotiem".
