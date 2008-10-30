@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2008.gada 21.oktobra noteikumi Nr.876 “Siltumenerģijas piegādes un lietošanas noteikumi”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "168 (3952)",
+  "official_journal_page": null,
+  "official_journal_date": "2008-10-29",
+  "entry_into_force": "2008-10-30",
+  "notification_date": "2015-11-12",
+  "commission_reference": "MNE(2015)58277",
+  "nim_celex": "72012L0027LVA_231668",
+  "nim_id": "231668",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b727d343-3f92-41e2-8d60-f037e6ca4ca7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
