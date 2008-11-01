@@ -1,2 +1,2 @@
 49. pants. (1) Valsts un pašvaldību iestādēm un kapitālsabiedrībām ir pienākums bez maksas nodrošināt vēlēšanu komisijas ar darbam nepieciešamajām telpām.
-(2) Valsts un pašvaldību iestādēm un kapitālsabiedrībām ir pienākums nodrošināt politiskās organizācijas (partijas), politisko organizāciju (partiju) apvienības un vēlētāju apvienības ar telpām priekšvēlēšanu pasākumu organizēšanai par maksu tādā apmērā, kas sedz šo telpu izmantošanas faktiskos izdevumus.
+(2) Valsts un pašvaldību iestādēm un kapitālsabiedrībām ir pienākums nodrošināt politiskās partijas, politisko partiju apvienības un vēlētāju apvienības ar telpām priekšvēlēšanu pasākumu organizēšanai par maksu tādā apmērā, kas sedz šo telpu izmantošanas faktiskos izdevumus.

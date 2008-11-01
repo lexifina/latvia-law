@@ -1,1 +1,1 @@
-45.⁷ pants. Atkārtotā balsošanā tiesības kandidēt ir tikai tiem kandidātiem, kas bija reģistrēti attiecīgajās domes (padomes) vēlēšanās, kuru rezultāts tika atcelts saskaņā ar šā likuma 37.¹ pantu vai 45.³ panta pirmo daļu.
+45.⁷ pants. Atkārtotā balsošanā tiesības kandidēt ir tikai tiem kandidātiem, kas bija reģistrēti attiecīgajās domes vēlēšanās, kuru rezultāts tika atcelts saskaņā ar šā likuma 37.¹ pantu vai 45.³ panta pirmo daļu.

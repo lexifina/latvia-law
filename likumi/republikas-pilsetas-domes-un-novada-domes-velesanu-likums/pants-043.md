@@ -1,2 +1,2 @@
-43. pants. Ja ievēlētais domes (padomes) deputāts miris, atteicies vai citu iemeslu dēļ zaudējis vai nolicis savu mandātu, viņa vietā stājas nākamais kandidāts no tā paša kandidātu saraksta, no kura bija ievēlēts iepriekšējais deputāts.
-Ja šā panta pirmajā daļā paredzēto iemeslu dēļ kādam kandidātu sarakstam pietrūkst kandidātu, tad šā likuma 41.panta otrajā daļā noteiktajā kārtībā Centrālā vēlēšanu komisija nosaka, no kura kandidātu saraksta ņemams nākamais deputāts.
+43. pants. (1) Ja ievēlētais domes deputāts miris, atteicies vai citu iemeslu dēļ zaudējis vai nolicis savu mandātu, viņa vietā stājas nākamais kandidāts no tā paša kandidātu saraksta, no kura bija ievēlēts iepriekšējais deputāts.
+(2) Ja šā panta pirmajā daļā paredzēto iemeslu dēļ kādam kandidātu sarakstam pietrūkst kandidātu, tad šā likuma 41.panta otrajā daļā noteiktajā kārtībā Centrālā vēlēšanu komisija nosaka, no kura kandidātu saraksta ņemams nākamais deputāts.

@@ -1,1 +1,1 @@
-1. pants. Pilsētas domi, novada domi un pagasta padomi [turpmāk - domi (padomi)] ievēlē vienlīdzīgās, tiešās, aizklātās un proporcionālās vēlēšanās uz četriem gadiem. Domes (padomes) kārtējās vēlēšanas notiek jūnija otrajā sestdienā.
+1. pants. Republikas pilsētas domi un novada domi (turpmāk - dome) ievēlē vienlīdzīgās, tiešās, aizklātās un proporcionālās vēlēšanās uz četriem gadiem. Domes kārtējās vēlēšanas notiek jūnija pirmajā sestdienā.

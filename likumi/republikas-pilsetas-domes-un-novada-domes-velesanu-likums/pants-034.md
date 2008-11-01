@@ -1,1 +1,2 @@
-34. pants. Vēlēšanu laikā kārtību vēlēšanu telpās uzrauga vēlēšanu komisijas priekšsēdētājs. Viņš raugās, lai vēlēšanu telpās un tuvāk par 50 metriem no ieejas ēkā, kurā atrodas vēlēšanu iecirknis, nenotiktu vēlēšanu brīvības ierobežošana un kārtības traucēšana, kā arī aģitācija.
+34. pants. (1) Vēlēšanu laikā kārtību vēlēšanu telpās uzrauga vēlēšanu komisijas priekšsēdētājs. Viņš raugās, lai vēlēšanu telpās un tuvāk par 50 metriem no ieejas ēkā, kurā atrodas vēlēšanu iecirknis, nenotiktu vēlēšanu brīvības ierobežošana un kārtības traucēšana, kā arī aģitācija.
+(2) Vēlēšanu iecirkņa komisijas priekšsēdētājs atbild par vēlēšanu dokumentu, materiālu un attiecīgajai iecirkņa komisijai nodotās mantas uzraudzību un glabāšanu.
