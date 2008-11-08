@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ārvalstu gaisa kuģu pirmslidojuma (pēclidojuma) pārbaudes kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "174",
+  "official_journal_page": null,
+  "official_journal_date": "2008-11-07",
+  "entry_into_force": "2008-11-08",
+  "notification_date": "2008-11-12",
+  "commission_reference": "MNE(2008)56015",
+  "nim_celex": "72004L0036LVA_159005",
+  "nim_id": "159005",
+  "transposes_celex": [
+    "32004L0036",
+    "32008L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e3d60bd5-e593-4369-bd21-41a63f881308",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
