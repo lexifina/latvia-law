@@ -1,0 +1,4 @@
+18.pants. Tehniskās palīdzības fonds un Projektu sagatavošanas fonds
+(1) Vadošā iestāde nodrošina Tehniskās palīdzības fonda un Projektu sagatavošanas fonda īstenošanu saskaņā ar savstarpēju līgumu, ko slēdz vadošā iestāde un Šveices Konfederācijas padomes pilnvarotā iestāde. Līgumu paraksta vadošās iestādes vadītājs.
+(2) Tehniskās palīdzības fonda un Projektu sagatavošanas fonda īstenošanas nodrošināšanai sadarbības programmas vadībā iesaistītās institūcijas sadarbojas Valsts pārvaldes iekārtas likumā noteiktajā kārtībā.
+(3) Tehniskās palīdzības fonda finansējuma saņēmējus nosaka ietvarlīgums un šā panta pirmajā daļā minētais līgums. Projektu sagatavošanas fonda finansējuma saņēmēji var būt individuālā projekta iesniedzējs un starpniekinstitūcija, ja Šveices kompetentās iestādes atbalsta finansējuma piešķiršanu tiem Projektu sagatavošanas fonda ietvaros.

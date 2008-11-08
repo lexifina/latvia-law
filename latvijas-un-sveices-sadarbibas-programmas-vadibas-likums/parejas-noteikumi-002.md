@@ -1,0 +1,1 @@
+2. Ministru kabinets apstiprina starpniekinstitūcijas un Stipendiju fonda koordinējošās iestādes izstrādātos šā likuma 11.panta 2. un 3.punktā minētos atklāta konkursa nolikumus atbilstoši apstiprinātajā grantu shēmā vai Stipendiju fondā noteiktajiem atklāto konkursu izsludināšanas termiņiem.

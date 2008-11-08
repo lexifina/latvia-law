@@ -1,0 +1,3 @@
+4.pants. Sadarbības programmas vadība
+(1) Sadarbības programmas vadība ietver sadarbības programmas vadības sistēmas izveidi, projektu izklāstu un projektu iesniegumu sagatavošanu un apstiprināšanu, individuālo projektu, programmu, grantu shēmu, apakšprojektu un īpašo atbalsta formu īstenošanu, kā arī sadarbības programmas finanšu kontroli, uzraudzību, auditu, izvērtēšanu, ziņošanu par konstatētajām neatbilstībām un neatbilstoši izlietoto līdzekļu atgūšanu.
+(2) Sadarbības programmas vadības nodrošināšanu attiecībā uz īpašajām atbalsta formām nosaka šis likums, izņemot tā 8., 10. un 12.pantu, kā arī III nodaļu.
