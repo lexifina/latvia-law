@@ -1,0 +1,29 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Dzīvnieku barības aprites likums ar pēdējiem grozījumiem 23.10.2008.",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "177",
+  "official_journal_page": null,
+  "official_journal_date": "2008-11-13",
+  "entry_into_force": null,
+  "notification_date": "2009-05-18",
+  "commission_reference": "MNE(2009)52149",
+  "nim_celex": "71976L0371LVA_162025",
+  "nim_id": "162025",
+  "transposes_celex": [
+    "31976L0371",
+    "31979L0373",
+    "31980L0511",
+    "31982L0471",
+    "31996L0025",
+    "31998L0068",
+    "31999L0029",
+    "32002L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/db0829e8-28b2-4272-841c-a8f312aa4538",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
