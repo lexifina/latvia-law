@@ -1,1 +1,3 @@
-2.¹ pants. Šā likuma normas ir piemērojamas, ja Valsts un pašvaldību īpašuma privatizācijas un privatizācijas sertifikātu izmantošanas pabeigšanas likumā nav noteikts citādi.
+2.¹ pants. Atsavinot apbūvētus zemesgabalus, šā likuma normas ir piemērojamas, ja Valsts un pašvaldību īpašuma privatizācijas un privatizācijas sertifikātu izmantošanas pabeigšanas likumā nav noteikts citādi.
+(2) Zemesgabalus, kas nav atsavināmi saskaņā ar Valsts un pašvaldību īpašuma privatizācijas un privatizācijas sertifikātu izmantošanas pabeigšanas likuma noteikumiem, atsavina un to cenu nosaka saskaņā ar šā likuma noteikumiem.
+(3) Atsavinot zemesgabalu likumā noteiktajā kārtībā, ievēro arī tās likuma normas, kurās noteikts to personu loks, kuras saskaņā ar likumu var būt zemes īpašuma tiesību subjekti.

@@ -1,7 +1,7 @@
 8.pants. (1) Atsavināšanai paredzētā valsts nekustamā īpašuma novērtēšanu organizē valsts akciju sabiedrība "Valsts nekustamie īpašumi", izņemot šā panta 1.¹, 1.² un 1.³ daļā minētos gadījumus.
 (1¹) Maināmo nekustamo īpašumu novērtēšanu organizē tā ministrija, valsts iestāde, aģentūra vai valsts kapitālsabiedrība, kuras valdījumā ir maināmais valsts nekustamais īpašums.
 (1²) Valsts kapitālsabiedrības pamatkapitālā ieguldāmā valsts nekustamā īpašuma novērtēšanu organizē tā valsts kapitālsabiedrība, kuras pamatkapitālā iegulda valsts nekustamo īpašumu.
-(1³) Ja dzīvojamā māja, tās domājamā daļa vai dzīvokļa īpašums ir valsts aģentūras "Mājokļu aģentūra" valdījumā, to novērtēšanu organizē valsts aģentūra "Mājokļu aģentūra".
+(1³) Ja dzīvojamā māja, tās domājamā daļa vai dzīvokļa īpašums ir Būvniecības, enerģētikas un mājokļu valsts aģentūras valdījumā, dzīvojamās mājas, tās domājamās daļas vai dzīvokļa īpašuma novērtēšanu organizē pati valsts aģentūra.
 (2) Atsavināšanai paredzētā pašvaldības nekustamā īpašuma novērtēšanu organizē attiecīgās pašvaldības domes (padomes) noteiktajā kārtībā.
 (3) Nekustamā īpašuma novērtēšanas komisijas sastāvu un mantas nosacīto cenu apstiprina institūcija (amatpersona), kura saskaņā ar šā panta pirmo un otro daļu organizē nekustamā īpašuma novērtēšanu.
 (4) Atsavināšanai paredzētās kustamās mantas novērtēšanu organizē iestāde vai kapitālsabiedrība, kuras valdījumā vai turējumā atrodas attiecīgā manta.

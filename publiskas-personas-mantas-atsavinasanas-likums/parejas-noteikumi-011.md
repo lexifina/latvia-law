@@ -1,0 +1,1 @@
+11. Līdz brīdim, kad spēku zaudē Valsts un pašvaldību īpašuma privatizācijas un privatizācijas sertifikātu izmantošanas pabeigšanas likums, atsavināmā apbūvētā zemesgabala nosacītā cena nedrīkst būt zemāka par attiecīgā zemesgabala kadastrālo vērtību 2007.gada 31.decembrī.

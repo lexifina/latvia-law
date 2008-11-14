@@ -1,1 +1,1 @@
-9. Ministru kabinets līdz 2008.gada 1.martam izstrādā un iesniedz Saeimai likumprojektu par publiskas personas (arī valsts augstskolas - atvasinātas publiskas personas) mantas atsavināšanu, kā arī citus ar publiskas personas mantas atsavināšanu saistītos likumprojektus.
+9. Ministru kabinets līdz 2008.gada 1.decembrim izstrādā un iesniedz Saeimai likumprojektu par publiskas personas (arī valsts augstskolas - atvasinātas publiskas personas) mantas atsavināšanu, kā arī citus ar publiskas personas mantas atsavināšanu saistītos likumprojektus.
