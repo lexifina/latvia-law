@@ -14,7 +14,8 @@
 (3) No Garantijas fonda līdzekļiem sedz:
 1) izdevumus par ekspertīzi vai citām prasības nokārtošanai nepieciešamajām darbībām, ja saskaņā ar šo likumu Transportlīdzekļu apdrošinātāju birojs pieņem lēmumu par apdrošināšanas atlīdzību, un izdevumus, kas radušies, atgūstot no Garantijas fonda izmaksātās apdrošināšanas atlīdzības regresa kārtībā;
 2) šajā likumā noteikto kompensāciju apdrošinātājam par apdrošināšanas prēmijas maksājuma samazinājumu;
-3) izdevumus, kas radušies, nodrošinot Garantijas fonda līdzekļu glabāšanu un ieguldīšanu.
+3) izdevumus, kas radušies, nodrošinot Garantijas fonda līdzekļu glabāšanu un ieguldīšanu;
+4) izdevumus, kas radušies, nodrošinot šā panta pirmās daļas 1., 2., 3., 4., 5. un 6.punktā noteikto apdrošināšanas atlīdzību izmaksu riska nodošanu pārapdrošināšanā.
 (4) Ārvalstniekam vai ārvalstu juridiskajai personai, kuras dzīvesvietas vai reģistrācijas valsts normatīvie akti ierobežo zaudējumu atlīdzības izmaksu no Garantijas fonda vai atbilstošas institūcijas attiecīgajā ārvalstī, zaudējumi no Garantijas fonda tiek atlīdzināti, piemērojot šādus pašus ierobežojumus.
 (5) No Garantijas fonda līdzekļiem izmaksā zaudējumu atlīdzību vienā no šādiem gadījumiem:
 1) ja starp apdrošinātāju un Transportlīdzekļu apdrošinātāju biroju rodas strīds par pienākumu izmaksāt apdrošināšanas atlīdzību;
