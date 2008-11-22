@@ -7,3 +7,4 @@
 2) pieņemt dāvanas no attiecīgās kapitālsabiedrības, tās pārraudzības vai izpildinstitūcijas locekļiem;
 3) iegūt attiecīgās kapitālsabiedrības kapitāla daļas, akcijas vai mantu;
 4) ieņemt citus amatus attiecīgajā kapitālsabiedrībā.
+(5) Valsts amatpersonai, kura saskaņā ar šā likuma 7.panta piektās daļas 3.² punktu ieņem amatu kapitālsabiedrībā, kurā valsts vai pašvaldības kapitālsabiedrība ir dalībnieks, aizliegts gūt ienākumus no tās kapitālsabiedrības, kurā valsts vai pašvaldības kapitālsabiedrība ir dalībnieks un kurā valsts amatpersona ieņem attiecīgo amatu.

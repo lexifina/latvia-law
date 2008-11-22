@@ -17,6 +17,7 @@
 2) amatu arodbiedrībā, biedrībā vai nodibinājumā, politiskajā partijā, politisko partiju apvienībā vai reliģiskajā organizācijā;
 3) pedagoga, zinātnieka, ārsta, profesionāla sportista un radošo darbu, kā arī dienestu Zemessardzē, ja likumā nav noteikts citādi;
 3¹) amatu kapitālsabiedrībā, kurā valsts vai pašvaldība ir dalībnieks, ja tas saistīts ar valsts vai pašvaldības interešu pārstāvēšanu šajā sabiedrībā, nerada interešu konfliktu un ir saņemta tās valsts amatpersonas vai koleģiālās institūcijas rakstveida atļauja, kura attiecīgo personu iecēlusi, ievēlējusi vai apstiprinājusi amatā;
+3²) amatu kapitālsabiedrībā, kurā valsts vai pašvaldības kapitālsabiedrība ir dalībnieks, ja tas saistīts ar valsts vai pašvaldības interešu pārstāvēšanu šajā sabiedrībā, nerada interešu konfliktu un ir saņemta tās valsts amatpersonas vai koleģiālās institūcijas rakstveida atļauja, kura attiecīgo personu iecēlusi, ievēlējusi vai apstiprinājusi amatā;
 4) citu amatu valsts vai pašvaldības institūcijā, ja to savienošana nerada interešu konfliktu un ir saņemta tās valsts amatpersonas vai koleģiālās institūcijas rakstveida atļauja, kura attiecīgo personu iecēlusi, ievēlējusi vai apstiprinājusi amatā.
 (5¹) Šā likuma 4.panta 2.³ daļā minētajām amatpersonām, kurām šajā pantā nav noteikti īpaši amata savienošanas nosacījumi, ir atļauts savienot valsts amatpersonas amatu tikai ar:
 1) amatu, kuru tās ieņem saskaņā ar likumu, Ministru kabineta noteikumiem un rīkojumiem;
