@@ -10,7 +10,8 @@
 4) starptautisko tiesu un Satversmes tiesas spriedumu izpildei;
 5) valsts parāda saistību dzēšanai;
 6) Eiropas Savienības politiku instrumentu līdzfinansēto projektu īstenošanai;
-7) Eiropas Savienības politiku instrumentiem, lai īstenotu tādus Eiropas lauksaimniecības garantiju fonda pasākumus, kuri izriet no Eiropas Savienības tieši piemērojamiem tiesību aktiem.
+7) Eiropas Savienības politiku instrumentiem, lai īstenotu tādus Eiropas lauksaimniecības garantiju fonda pasākumus, kuri izriet no Eiropas Savienības tieši piemērojamiem tiesību aktiem;
+8) normatīvajos aktos noteikto sociālās apdrošināšanas speciālā budžeta izdevumu segšanai.
 (6) Par apropriācijas palielināšanu šā panta piektajā daļā minētajiem mērķiem, izņemot tos valsts budžeta izpildes procesā veiktos transfertus, kas saistīti ar līdzekļu neparedzētiem gadījumiem izlietojumu, finanšu ministrs nekavējoties informē Ministru kabinetu un Saeimu. Izdevumus minētajiem mērķiem finanšu ministrs ir tiesīgs veikt, ja Saeimas Budžeta un finanšu (nodokļu) komisija piecu dienu laikā no attiecīgās informācijas saņemšanas nav iebildusi pret apropriācijas palielinājumu.
 (7) Ministru kabinetam ir tiesības ministrijai vai citai centrālajai valsts iestādei gadskārtējā valsts budžeta likumā noteiktās apropriācijas ietvaros pārdalīt apropriāciju starp programmām, apakšprogrammām un izdevumu ekonomiskās klasifikācijas kodiem.
 (8) Gadskārtējais valsts budžeta likums ietver nosacījumus, ko Ministru kabinets ievēro, lemjot par šā panta septītajā daļā paredzēto apropriācijas pārdali, kā arī apropriācijas pārdales apjomu.
