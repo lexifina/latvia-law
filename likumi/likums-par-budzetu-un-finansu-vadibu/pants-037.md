@@ -10,3 +10,7 @@
 4) nav galvojuma nodrošinājuma.
 (4) Atsakot galvojuma sniegšanu, finanšu ministrs galvojuma pieprasītājam sniedz atteikuma motivāciju.
 (5) Galvojumus valsts vārdā sniedz tikai studiju un studējošo kreditēšanas, Valsts investīciju programmas projektu un komercdarbības atbalsta programmu īstenošanai.
+(6) Finanšu ministrs Ministru kabineta noteiktajā kārtībā ir tiesīgs, nepiemērojot šā panta pirmās, otrās, trešās, ceturtās un piektās daļas nosacījumus, lemt par galvojuma sniegšanu šā likuma 8.1 panta pirmajā daļā noteikto mērķu realizācijai. Šīs tiesības finanšu ministrs drīkst izmantot, ja ievēroti abi šādi nosacījumi:
+1) šā likuma 8.¹ panta pirmajā daļā noteikto mērķu realizācijai paredzamo galvojumu kopējais apjoms saimnieciskā gada laikā nepārsniedz 10 procentus no gadskārtējā valsts budžeta likumā noteiktā iekšzemes kopprodukta apjoma saimnieciskajā gadā;
+2) Saeimas Budžeta un finanšu (nodokļu) komisija vienas darba dienas laikā no attiecīgās finanšu ministra sniegtās informācijas saņemšanas brīža nav iebildusi pret galvojuma sniegšanu.
+(7) Ja šā likuma 8.¹ panta pirmajā daļā noteikto mērķu realizācijai paredzamo galvojumu kopējais apjoms saimnieciskā gada laikā pārsniedz 10 procentus no gadskārtējā valsts budžeta likumā noteiktā iekšzemes kopprodukta apjoma saimnieciskajā gadā, Ministru kabinets iesniedz grozījumus gadskārtējā valsts budžeta likumā.
