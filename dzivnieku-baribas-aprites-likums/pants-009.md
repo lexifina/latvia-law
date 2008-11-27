@@ -1,0 +1,1 @@
+9.pants. Premiksus, kas satur augšanas stimulatorus un kokcidiostatus, atļauts izplatīt tikai atzītam uzņēmumam, kurā ražo barības maisījumus vai kurš tos izmanto kā galapatērētājs, izgatavojot barības maisījumu savas saimniecības vajadzībām.

@@ -1,0 +1,1 @@
+22.pants. Ja ir konstatēta neatbilstība barības apriti reglamentējošo normatīvo aktu prasībām, lēmumu par uzņēmuma darbības apturēšanu ir tiesīgs pieņemt Pārtikas un veterinārā dienesta valsts galvenais pārtikas un veterinārais inspektors, valsts vecākie veterinārie inspektori un valsts veterinārie inspektori (turpmāk - Pārtikas un veterinārā dienesta amatpersona).

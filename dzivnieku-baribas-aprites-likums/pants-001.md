@@ -1,0 +1,10 @@
+1.pants. Likumā ir lietoti šādi termini:
+1) barības sastāvdaļa - neapstrādāts, svaigs vai konservēts augu vai dzīvnieku izcelsmes produkts, rūpnieciskās pārstrādes blakusprodukts vai organiska vai neorganiska viela ar vai bez piedevām, kuru izmanto dzīvnieku barošanai, dzīvnieku barības maisījumu gatavošanai vai kā premiksu papildvielu;
+2) barības maisījums - barības sastāvdaļu maisījums, kas satur vai arī nesatur barības piedevas un ir paredzēts dzīvnieku barošanai kā pilnvērtīga barība vai papildbarība;
+3) pilnvērtīga barība - barības maisījums, kura sastāvs apmierina dzīvnieka diennakts vajadzības pēc barības vielām atbilstoši tā sugai, vecumam, produktivitātei un fizioloģiskajam stāvoklim;
+4) papildbarība - barības piedevu vai premiksu maisījums ar barības sastāvdaļām, kuru drīkst izmantot dzīvnieku barošanai tikai kopā ar citu barību un kura koncentrācija pilnvērtīgā barībā ir lielāka nekā 20 kilogrami tonnā;
+5) diētiskā barība - pilnvērtīga barība vai papildbarība, kas apmierina specifiskas dzīvnieku vajadzības pēc atsevišķām barības vielām, ja dzīvniekiem ir īslaicīgi vai neatgriezeniski traucēti vielmaiņas un citi fizioloģiskie procesi;
+6) ārstnieciskais premikss - veterinārās zāles, kas sagatavotas ārstnieciskās barības ražošanai;
+7) ārstnieciskā barība - ārstniecisko premiksu un barības maisījums, kas sagatavots dzīvnieku barošanai un paredzēts ārstēšanai vai profilaksei;
+8) barības apritē iesaistītā persona - tiesību subjekts Eiropas Parlamenta un Padomes 2002.gada 28.janvāra regulas (EK) Nr. 178/2002, ar ko paredz pārtikas aprites tiesību aktu vispārīgus principus un prasības, izveido Eiropas Pārtikas nekaitīguma iestādi un paredz procedūras saistībā ar pārtikas nekaitīgumu, 3.panta 6.punktā minētās definīcijas izpratnē;
+9) barības apritē iesaistītais uzņēmums - tiesību subjekts Eiropas Parlamenta un Padomes 2002.gada 28.janvāra regulas (EK) Nr. 178/2002, ar ko paredz pārtikas aprites tiesību aktu vispārīgus principus un prasības, izveido Eiropas Pārtikas nekaitīguma iestādi un paredz procedūras saistībā ar pārtikas nekaitīgumu, 3.panta 5.punktā minētās definīcijas izpratnē.

@@ -1,0 +1,1 @@
+2. Šā likuma 3.panta trešajā, ceturtajā, piektajā un sestajā daļā, 4.panta trešajā daļā, 5.panta trešajā daļā, 8., 10., 14., 18.pantā un 20.panta otrajā daļā minētos noteikumus Ministru kabinets izdod līdz 2009.gada 30.jūnijam.

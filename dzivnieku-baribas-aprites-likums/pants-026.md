@@ -1,0 +1,1 @@
+26.pants. Uzņēmuma darbību bez iepriekšēja brīdinājuma drīkst apturēt, pieņemot rakstveida lēmumu, ja barības apriti reglamentējošos normatīvajos aktos minēto prasību pārkāpumu dēļ barībā var nonākt aizliegtas vai neatļautas vielas, slimību izraisītāji vai rodas draudi cilvēku un dzīvnieku veselībai vai dzīvībai.

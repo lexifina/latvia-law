@@ -1,0 +1,1 @@
+8.pants. Latvijā atļautās barības piedevas un bioproteīnus, uz kuriem neattiecas Eiropas Parlamenta un Padomes 2003.gada 22.septembra regula (EK) Nr. 1831/2003 par dzīvnieku ēdināšanā lietotām piedevām (dokuments attiecas uz EEZ), kā arī to aprites kārtību nosaka Ministru kabinets.

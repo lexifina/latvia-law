@@ -1,0 +1,6 @@
+3.pants. (1) Eiropas Parlamenta un Padomes 2005.gada 12.janvāra regulā (EK) Nr. 183/2005, ar ko paredz barības higiēnas prasības (dokuments attiecas uz EEZ), izņemot šīs regulas 9.panta 3.punktu, un Eiropas Parlamenta un Padomes 2004.gada 29.aprīļa regulā (EK) Nr. 882/2004 par oficiālo kontroli, ko veic, lai nodrošinātu atbilstības pārbaudi saistībā ar dzīvnieku barības un pārtikas aprites tiesību aktiem un dzīvnieku veselības un labturības noteikumiem, noteiktās kompetentās iestādes funkcijas veic Pārtikas un veterinārais dienests.
+(2) Eiropas Parlamenta un Padomes 2005.gada 12.janvāra regulā (EK) Nr. 183/2005, ar ko paredz barības higiēnas prasības (dokuments attiecas uz EEZ), 9.panta 3.punktā noteiktās kompetentās iestādes funkcijas veic valsts aģentūra "Lauksaimniecības datu centrs".
+(3) Barības apritē iesaistītā uzņēmuma (turpmāk - uzņēmums) atzīšanas un reģistrācijas kārtību nosaka Ministru kabinets.
+(4) Izdevumus, kas saistīti ar uzņēmuma atzīšanu, sedz barības apritē iesaistītā persona Ministru kabineta noteiktajā kārtībā.
+(5) Par uzņēmuma reģistrāciju maksājama valsts nodeva. Valsts nodevas apmēru un maksāšanas kārtību nosaka Ministru kabinets.
+(6) Higiēnas prasības dzīvnieku barības primārajai ražošanai un tiešajām piegādēm mazos daudzumos nosaka Ministru kabinets.
