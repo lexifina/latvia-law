@@ -1,1 +1,1 @@
-43.pants. Zāļu lieltirgotava ir uzņēmums, kas nodarbojas ar zāļu un citu ārstniecības līdzekļu, kā arī veselības aprūpei vai ķermeņa kopšanai lietojamo preču, invalīdiem domāto medicīnas preču, aptieku iekārtu, medicīnisko instrumentu un aparatūras iepirkšanu, uzglabāšanu un izplatīšanu.
+43.pants. Zāļu lieltirgotava nodarbojas ar zāļu un citu ārstniecības līdzekļu, kā arī veselības aprūpei vai ķermeņa kopšanai lietojamo preču, invalīdiem domāto medicīnas preču, aptieku iekārtu, medicīnisko instrumentu un aparatūras iepirkšanu, uzglabāšanu un izplatīšanu.

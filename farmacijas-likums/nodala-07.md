@@ -1,2 +1,2 @@
 VII nodaļa
-Zāļu ražošanas uzņēmumi
+Zāļu ražošana

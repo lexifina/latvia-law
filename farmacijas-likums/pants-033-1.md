@@ -1,0 +1,1 @@
+33.¹ pants. Veterinārā aptieka nodarbojas ar veterināro zāļu, veterinārmedicīnā izmantojamo instrumentu un preču, dzīvnieku aprūpei paredzēto preču iepirkšanu, uzglabāšanu un izplatīšanu, kā arī veterināro zāļu izgatavošanu pēc veterinārajām receptēm un konsultāciju sniegšanu par veterināro zāļu, instrumentu un dzīvnieku aprūpes līdzekļu lietošanu.

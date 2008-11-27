@@ -1,1 +1,1 @@
-50.pants. Zāļu ražošanas uzņēmums ir uzņēmums, kas ražo un izplata zāles un vielas.
+50.pants. Zāļu ražotājs ražo un izplata zāles un aktīvās vielas.

@@ -1,5 +1,5 @@
 10.pants. Zāļu valsts aģentūra veic šādas funkcijas:
-1) organizē informācijas vākšanu par aktualitātēm zāļu kvalitātes kontroles jomā, kā arī zāļu patēriņa statistikas veidošanu valstī, izmantojot aptieku, zāļu lieltirgotavu, zāļu ražošanas uzņēmumu, ārstniecības iestāžu, veterinārmedicīnas aprūpes iestāžu sniegto informāciju, un šīs informācijas apkopošanu un izplatīšanu;
+1) organizē informācijas vākšanu par aktualitātēm zāļu kvalitātes kontroles jomā, kā arī zāļu patēriņa statistikas veidošanu valstī, izmantojot aptieku, zāļu lieltirgotavu, zāļu ražotāju, ārstniecības iestāžu, veterinārmedicīnas aprūpes iestāžu sniegto informāciju, un šīs informācijas apkopošanu un izplatīšanu;
 2) veido un regulāri aktualizē Latvijas zāļu reģistru, piešķir zāļu reģistrācijas numurus un zāļu kodus, veido un uztur datu bāzi par novērotajām zāļu lietošanas izraisītajām blakusparādībām, par zāļu patēriņa statistiku, kā arī par zāļu klīnisko izpēti un zāļu lietošanas novērojumiem;
 3) novērtē un reģistrē zāles;
 4) veic zāļu kvalitātes kontroli, arī pēc Veselības inspekcijas pieprasījuma;
@@ -14,5 +14,5 @@ d) ja medikaments ir nepieciešams veterinārmedicīniskās palīdzības sniegš
 9) izsniedz atļaujas zāļu klīniskās izpētes veikšanai un uzrauga tās norisi;
 10) pirms zāļu reklāmas izplatīšanas novērtē reklāmas devēja iesniegto reklāmas materiālu atbilstību normatīvo aktu prasībām;
 11) vērtē zāļu klīniskās izpētes atbilstību labas klīniskās prakses prasībām;
-12) novērtē farmaceitiskās darbības uzņēmumu (arī ārvalsts zāļu ražošanas uzņēmumu) atbilstību, pārbauda zāļu ražošanas uzņēmuma un zāļu lieltirgotavas atbildīgās amatpersonas kvalifikācijas un pieredzes atbilstību normatīvajos aktos par zāļu ražošanu un izplatīšanu noteiktajām prasībām un izsniedz speciālās atļaujas (licences) farmaceitiskajai darbībai, kā arī atzīst citas valsts kompetentās institūcijas izdotās speciālās atļaujas (licences);
+12) novērtē aptieku, zāļu vai veterināro lieltirgotavu, zāļu ražotāju (arī ārvalsts zāļu ražotāju) atbilstību, pārbauda zāļu ražošanas uzņēmuma un zāļu lieltirgotavas atbildīgās amatpersonas kvalifikācijas un pieredzes atbilstību normatīvajos aktos par zāļu ražošanu un izplatīšanu noteiktajām prasībām un izsniedz speciālās atļaujas (licences) farmaceitiskajai darbībai, kā arī atzīst citas valsts kompetentās institūcijas izdotās speciālās atļaujas (licences);
 13) nosaka zāļu piederību pie bezrecepšu vai recepšu zālēm Ministru kabineta noteiktajā kārtībā.

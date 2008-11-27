@@ -1,1 +1,0 @@
-24.pants. Ārpus aptiekām atļauts izplatīt tikai veselības ministra apstiprinātajā sarakstā iekļautos bezrecepšu medikamentus. Pārtikas un veterinārais dienests apstiprina to veterināro zāļu sarakstu, kuras atļauts izplatīt ārpus aptiekām.

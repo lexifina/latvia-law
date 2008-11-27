@@ -1,1 +1,1 @@
-30.pants. Zāļu valsts aģentūra un - attiecībā uz veterinārajām zālēm - Pārtikas un veterinārais dienests savas kompetences ietvaros nosaka ārstniecības iestādes, kuras ir tiesīgas veikt zāļu klīniskos pētījumus.
+30.pants. Zāļu valsts aģentūra izsniedz atļaujas un uzrauga zāļu un veterināro zāļu klīnisko pētījumu veikšanu.
