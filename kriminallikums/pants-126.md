@@ -6,5 +6,6 @@ soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar arestu, vai 
 2) tām bijis mocīšanas vai spīdzināšanas raksturs;
 3) tās izdarījusi personu grupa;
 4) tās izdarījusi persona, kas jau agrāk izdarījusi slepkavību vai nodarījusi tīšus smagus vai tīšus vidēja smaguma miesas bojājumus, izņemot slepkavību, smagus vai vidēja smaguma miesas bojājumus, kas nodarīti stipra psihiska uzbudinājuma stāvoklī vai pārkāpjot nepieciešamās aizstāvēšanās robežas vai personas aizturēšanas nosacījumus;
-5) tās izdarījusi persona, kas ievietota aizturēto turēšanas, iepriekšējā apcietinājuma vai ieslodzījuma vietā, -
+5) tās izdarījusi persona, kas ievietota aizturēto turēšanas, iepriekšējā apcietinājuma vai ieslodzījuma vietā;
+6) tās izdarītas pret personu bezpalīdzības stāvoklī, -
 soda ar brīvības atņemšanu uz laiku līdz astoņiem gadiem.
