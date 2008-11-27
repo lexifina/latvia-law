@@ -1,1 +1,1 @@
-2.pants. Latvijas Republika izdara atrunas attiecībā uz Konvencijas 22.panta pirmās daļas "d" punktu par ārpus Latvijas Republikas teritorijas izdarītiem noziedzīgiem nodarījumiem, kā arī attiecībā uz Konvencijas 29.panta ceturto daļu.
+2.pants. Latvijas Republika izdara atrunu, pamatojoties uz Konvencijas 29.panta ceturto daļu par atteikšanos izpildīt tiesiskās palīdzības lūgumu.
