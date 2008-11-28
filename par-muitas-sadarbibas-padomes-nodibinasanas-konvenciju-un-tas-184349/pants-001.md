@@ -1,0 +1,1 @@
+1.pants. 1950.gada 15.decembra Muitas sadarbības padomes nodibināšanas konvencija (turpmāk - Konvencija) un Muitas sadarbības padomes 2007.gada 30.jūnija ieteikums grozījumu veikšanai Muitas sadarbības padomes nodibināšanas konvencijā (turpmāk - Grozījumi) ar šo likumu tiek pieņemti un apstiprināti.
