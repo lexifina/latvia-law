@@ -1,0 +1,1 @@
+1.pants. 2008.gada 11.jūlijā Rīgā parakstītais Latvijas Republikas valdības un Gruzijas valdības līgums par personu atpakaļuzņemšanu, kuras neatbilst ieceļošanas vai uzturēšanās nosacījumiem otras valsts teritorijā (turpmāk - Līgums), ar šo likumu tiek pieņemts un apstiprināts.
