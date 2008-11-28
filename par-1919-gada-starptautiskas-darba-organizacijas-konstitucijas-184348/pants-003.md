@@ -1,0 +1,1 @@
+3.pants. Konstitūcijas grozījumu dokuments stājas spēkā Starptautiskās darba organizācijas konstitūcijas 36.pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo laikrakstā "Latvijas Vēstnesis".
