@@ -1,0 +1,1 @@
+1.pants. 2008.gada 21.februārī Tirānā parakstītā Latvijas Republikas valdības un Albānijas Republikas Ministru padomes konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
