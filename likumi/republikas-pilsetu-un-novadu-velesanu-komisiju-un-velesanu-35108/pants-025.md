@@ -1,5 +1,5 @@
 25. pants. (1) Pilsētas, novada un pagasta vēlēšanu komisija atbilstoši Pilsētas domes, novada domes un pagasta padomes vēlēšanu likumam Centrālās vēlēšanu komisijas noteiktajā kārtībā:
-1) pieņem, reģistrē un publicē deputātu kandidātu sarakstus, republikas pilsētās reģistrētos deputātu kandidātu sarakstus publicē laikrakstā "Latvijas Vēstnesis", bet rajona pilsētās, novados un pagastos izliek domes (padomes) informācijas sniegšanas vietā;
+1) pieņem, reģistrē un publicē deputātu kandidātu sarakstus normatīvajos aktos noteiktajā kārtībā;
 2) apstiprina vēlēšanu zīmju saturu, nodrošina vēlēšanu zīmju izgatavošanu un nogādāšanu iecirkņu komisijām;
 3) nosaka vēlēšanu iecirkni, kurā notiek balsošana pirms vispārējās vēlēšanu dienas;
 4) kontrolē iecirkņu komisiju darbību un sniedz šīm komisijām palīdzību to nodrošināšanā ar transportu, sakaru un citiem tehniskajiem līdzekļiem un apsardzi;
@@ -8,7 +8,7 @@
 7) izskata ar vēlēšanām saistītas sūdzības un iesniegumus;
 8) ir tiesīga izskatīt jebkuru ar vēlēšanu sagatavošanu un vadīšanu saistītu jautājumu;
 9) (izslēgts ar 29.01.2004. likumu);
-10) pēc vēlēšanu pabeigšanas saņem no iecirkņu komisijām balsu skaitīšanas protokolus un citus materiālus, pārbauda iecirkņu komisiju protokolus, saskaita vēlēšanu rezultātus attiecīgi pilsētā, novadā vai pagastā;
+10) apstiprina vēlēšanu rezultātus, nosaka ievēlētos deputātus un notikušo vēlēšanu rezultātus publicē normatīvajos aktos noteiktajā kārtībā;
 11) apstiprina vēlēšanu rezultātus, nosaka ievēlētos deputātus un republikas pilsētās notikušo vēlēšanu rezultātus publicē laikrakstā "Latvijas Vēstnesis", bet rajona pilsētās, novados un pagastos izliek domes (padomes) informācijas sniegšanas vietā;
 12) nosūta savu lēmumu par vēlēšanu rezultātu apstiprināšanu kopā ar vēlēšanu komisijas protokoliem Centrālajai vēlēšanu komisijai;
 13) pilda citus ar domes (padomes) vēlēšanām saistītus pienākumus.
