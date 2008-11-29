@@ -1,0 +1,1 @@
+21. Šā likuma 12.panta pirmās daļas 5.punktā noteiktā nodokļa likme pārējiem alkoholiskajiem dzērieniem stājas spēkā 2009.gada 1.februārī. Līdz dienai, kad stājas spēkā šā likuma 12.panta pirmās daļas 5.punktā noteiktā nodokļa likme pārējiem alkoholiskajiem dzērieniem, pārējos alkoholiskos dzērienus apliek ar nodokli pēc likmes 630 lati par 100 litriem absolūtā spirta.

@@ -9,12 +9,15 @@ a) alkoholiskos dzērienus, kuri iepildīti pudelēs ar tilpumu līdz 100 milili
 b) alu,
 c) alkoholiskos dzērienus, kurus saskaņā ar normatīvajiem aktiem muitas jomā realizē beznodokļu tirdzniecības veikalos;
 2) alkoholiskos dzērienus un tabakas izstrādājumus, kuri ir atbrīvoti no nodokļa saskaņā ar šā likuma 16., 17., 20. un 21.pantu vai kuriem piemēro nodokli saskaņā ar šā likuma 16.panta ceturto daļu;
-3) alkoholiskos dzērienus un tabakas izstrādājumus, kurus uzglabā, pārvieto vai realizē vai piegādā, piemērojot atlikto nodokļa maksāšanu saskaņā ar šā likuma 25.pantu, vai kuriem piemēro šā likuma 2.panta ceturtās daļas nosacījumus.
+3) alkoholiskos dzērienus un tabakas izstrādājumus, kurus uzglabā, pārvieto vai realizē vai piegādā, piemērojot atlikto nodokļa maksāšanu saskaņā ar šā likuma 25.pantu, vai kuriem piemēro šā likuma 2.panta ceturtās daļas nosacījumus;
+4) alkoholiskos dzērienus un tabakas izstrādājumus, kurus fiziskā persona ieved personīgajā bagāžā un kuru daudzums pārsniedz šā likuma 21.panta ceturtajā daļā noteikto.
 (4) Akcīzes nodokļa markas izsniedz Valsts ieņēmumu dienests.
 (5) Akcīzes nodokļa markas saņem:
 1) importētājs;
 2) noliktavas turētājs Latvijas Republikā;
-3) citas dalībvalsts noliktavas turētāja vai pārsūtītājtirgotāja iecelts nodokļa maksātāja pārstāvis.
+3) citas dalībvalsts noliktavas turētāja vai pārsūtītājtirgotāja iecelts nodokļa maksātāja pārstāvis;
+4) apstiprināts tirgotājs;
+5) neapstiprināts tirgotājs.
 (6) Saņemot akcīzes nodokļa markas, attiecīgais nodokļa maksātājs saskaņā ar šo likumu iesniedz nodrošinājumu par nodokļa apmēru, kas atbilst izsniegto akcīzes nodokļa marku daudzumam.
 (7) Alkoholiskajiem dzērieniem un tabakas izstrādājumiem, par kuriem ir izsniegtas akcīzes nodokļa markas, piemēro atlikto nodokļa maksāšanu līdz brīdim, kad par tiem samaksā nodokli vai akcīzes nodokļa markas atdod saskaņā ar šo likumu.
 (8) Ja nodokļa maksātājs atdod saņemtās, bet neizmantotās bojātās vai no laistām brīvā apgrozījumā akcīzes precēm noņemtās akcīzes nodokļa markas Valsts ieņēmumu dienestam, to iegādes izdevumus sedz attiecīgais nodokļa maksātājs, izņemot šā panta desmitajā daļā minēto gadījumu. Ja nodokļa maksātājs pasūta akcīzes nodokļa markas, bet neizņem tās noteiktajā termiņā, to iegādes izdevumus sedz nodokļa maksātājs, kas pasūtījis attiecīgās akcīzes nodokļa markas. Ja nodokļa markas ir iznīcinātas citā dalībvalstī, nodokļa marku iegādes izdevumus sedz nodokļa maksātājs, kuram ir izsniegtas nodokļa markas.

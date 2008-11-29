@@ -6,4 +6,4 @@ c) persona, kas saņēmusi speciālo atļauju (licenci) alkoholisko dzērienu va
 2) uzskaitē esošo alkoholisko dzērienu un tabakas izstrādājumu akcīzes nodokļa marku krājumus, ja par attiecīgajām akcīzes precēm nodoklis atbilstoši saņemtajām akcīzes nodokļa markām samaksāts saskaņā ar šā likuma 23.panta trīspadsmito daļu:
 a) akcīzes preču noliktavas turētājs,
 b) importētājs, ja ar attiecīgajām akcīzes nodokļa markām marķēt paredzētajām vai marķētajām akcīzes precēm nav piemērota muitas procedūra - laišana brīvā apgrozībā;
-c) nodokļa maksātāja pārstāvis, ja ar attiecīgajām akcīzes nodokļa markām marķētās akcīzes preces nav saņemtas Latvijas Republikā.
+c) nodokļa maksātāja pārstāvis, apstiprināts tirgotājs un neapstiprināts tirgotājs, ja ar attiecīgajām akcīzes nodokļa markām marķētās akcīzes preces nav saņemtas Latvijas Republikā.

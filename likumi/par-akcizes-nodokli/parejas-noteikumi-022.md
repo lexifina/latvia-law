@@ -1,0 +1,1 @@
+22. Šā likuma 13.panta pirmās daļas 3.punkta "b" apakšpunktā noteiktā nodokļa likme citai smēķējamai tabakai stājas spēkā 2009.gada 1.februārī. Līdz dienai, kad stājas spēkā šā likuma 13.panta pirmās daļas 3.punkta "b" apakšpunktā noteiktā nodokļa likme citai smēķējamai tabakai, citu smēķējamo tabaku apliek ar nodokli pēc likmes 14 lati par 1000 gramiem tabakas.

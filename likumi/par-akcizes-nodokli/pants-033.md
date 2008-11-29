@@ -3,8 +3,18 @@
 (2) Latvijas Republikā aizliegts ražot, izmantot, pārstrādāt, uzglabāt, pārvietot un realizēt akcīzes preces, par kurām nav samaksāts akcīzes nodoklis, izņemot šajā likumā noteiktos gadījumus.
 (3) Latvijas Republikā aizliegts ražot, izmantot, pārstrādāt, uzglabāt, pārvietot un realizēt alkoholiskos dzērienus un tabakas izstrādājumus, kuri nav marķēti ar akcīzes nodokļa markām, izņemot normatīvajos aktos noteiktos gadījumus.
 (4) Attiecīgajām valsts uzraudzības un kontroles iestādēm ir tiesības normatīvajos aktos noteiktajā kārtībā konfiscēt akcīzes preces, kuras Latvijas Republikā ievestas vai izvestas no akcīzes preču noliktavas, bet par kurām nav samaksāts nodoklis saskaņā ar šo likumu vai nav iesniegts šajā likumā noteiktais nodrošinājums par minēto darbību izpildi vai kuras nav marķētas ar akcīzes nodokļa markām, ja to paredz šis likums.
-(5) Akcīzes preču konfiskācija par šā likuma vai citu normatīvo aktu pārkāpumiem vai citu normatīvo aktu piemērošana attiecībā uz pārkāpumiem akcīzes preču apritē neatbrīvo konkrēto personu no saistībām samaksāt nodokli saskaņā ar šo likumu un soda naudu saskaņā ar likumu "Par nodokļiem un nodevām".
-(6) (Izslēgta ar 08.11.2007. likumu.)
+(5) Akcīzes preču konfiskācija par šā likuma vai citu normatīvo aktu pārkāpumiem vai citu normatīvo aktu piemērošana attiecībā uz pārkāpumiem akcīzes preču apritē neatbrīvo konkrēto personu no saistībām samaksāt nodokli saskaņā ar šo likumu un soda naudu saskaņā ar likumu "Par nodokļiem un nodevām". Valsts ieņēmumu dienests neaprēķina nodokli un soda naudu par konfiscētajām akcīzes precēm, kas nepārsniedz šādus daudzumus:
+1) alkoholiskie dzērieni:
+a) starpprodukti un pārējie alkoholiskie dzērieni - 5 litrus,
+b) alus, vīns un raudzētie dzērieni - 30 litrus;
+2) tabakas izstrādājumi:
+a) cigaretes - 300 cigaretes,
+b) cigāri vai cigarillas - 900 cigārus vai cigarillas,
+c) smēķējamā tabaka - 500 gramus;
+3) naftas produkti - 40 litrus;
+4) bezalkoholiskie dzērieni - 500 litrus;
+5) kafija - 20 kilogramus.
+(6) (Izslēgta ar 08.11.2007. likumu)
 (7) Ja persona veic jebkuras darbības ar akcīzes precēm, neievērojot šā likuma noteikumus (tajā skaitā veic akcīzes preču nedeklarētu vai citādu ievešanu valstī, neievērojot normatīvajos aktos noteikto ievešanas kārtību vai neizpildot attiecīgās muitas procedūras, veic akcīzes preču nereģistrētu vai citādu ražošanu, neievērojot normatīvajos aktos noteikto kārtību, kādā atļauts ražot akcīzes preces, veic jebkuras citas darbības ar akcīzes precēm, par kurām nav samaksāts nodoklis vai nav iesniegts šajā likumā noteiktais nodrošinājums vai kuras nav marķētas ar akcīzes nodokļa markām saskaņā ar šo likumu), Valsts ieņēmumu dienests bezstrīda kārtībā piedzen valsts budžetā atbilstoši šajā likumā noteiktajām nodokļa likmēm nesamaksātās nodokļa summas un soda naudu saskaņā ar likumu "Par nodokļiem un nodevām".
 (8) Ja Valsts ieņēmumu dienests, pārbaudot attiecīgās personas darbības ar akcīzes precēm, konstatē akcīzes preču pārpalikumu, kas nav norādīts šīs personas grāmatvedības reģistros, un tā nevar pierādīt, kā pārpalikums radies, vai nevar pierādīt, ka nodoklis par konstatēto pārpalikumu ir samaksāts, uzskata, ka attiecīgā persona ir saražojusi, iegādājusies vai veikusi citas darbības ar akcīzes precēm, par kurām nav samaksāts nodoklis, un no šīs personas piedzen nesamaksātā nodokļa summu un soda naudu saskaņā ar likumu "Par nodokļiem un nodevām".
 (9) Šā panta septītajā un astotajā daļā minētajos gadījumos Valsts ieņēmumu dienests nodokli aprēķina pēc likmēm, kas bija spēkā dienā, kad minētās darbības tika veiktas. Ja to nevar noteikt, nodokli aprēķina pēc likmēm, kas ir spēkā dienā, kad minētās darbības konstatētas.
