@@ -1,0 +1,1 @@
+13. Līdz šā likuma 14.panta 6.punktā minēto noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2009.gada 1.jūlijam ir piemērojami Ministru kabineta 2008.gada 30.septembra noteikumi Nr.815 "Noteikumi par kritērijiem valsts budžeta dotācijas piešķiršanai pašvaldībām un plānošanas reģioniem Eiropas Savienības struktūrfondu un Kohēzijas fonda līdzfinansēto projektu īstenošanai".

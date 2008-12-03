@@ -1,0 +1,1 @@
+11. Rajona pašvaldība līdz 2009.gada 1.augustam nodod tās attīstības programmu plānošanas reģionam. Ja rajona teritorijā izveido vienu novadu, rajona pašvaldības attīstības programmu nodod attiecīgajam novadam.

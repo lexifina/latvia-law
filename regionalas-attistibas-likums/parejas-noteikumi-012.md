@@ -1,0 +1,1 @@
+12. Līdz šā likuma 14.panta 5.punktā minēto noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2009.gada 1.aprīlim ir piemērojami Ministru kabineta 2008.gada 15.septembra noteikumi Nr.730 "Teritorijas attīstības indeksa aprēķināšanas un piemērošanas kārtība".
