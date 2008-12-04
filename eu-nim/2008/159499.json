@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "EM estime MNE non nécessaire - MS does not consider NEM necessary.",
+  "type_of_act": null,
+  "official_journal": null,
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": null,
+  "entry_into_force": null,
+  "notification_date": "2008-12-04",
+  "commission_reference": "MNE(2008)56508",
+  "nim_celex": "72008L0027LVA_159499",
+  "nim_id": "159499",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/629c5c6c-4976-47f6-abc2-4c383708b8b3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
