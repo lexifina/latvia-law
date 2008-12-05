@@ -1,5 +1,5 @@
 15.pants. Sabiedriskā transporta pakalpojumu pasūtījuma līgums
-Ja pārvadātājam piešķir tiesības vai uzliek pienākumu (saistības) apkalpot maršrutu tīklu vai atsevišķu maršrutu, papildus regulā Nr. 1191/69 un citos normatīvajos aktos noteiktajam sabiedriskā transporta pakalpojumu pasūtījuma līgumā var paredzēt:
+Papildus šā likuma 3.panta trešajā daļā minētajā regulā, Publisko iepirkumu likumā vai likumā, kas reglamentē koncesiju piešķiršanu, un citos sabiedriskā transporta pakalpojumu nozari reglamentējošos normatīvajos aktos noteiktajam sabiedriskā transporta pakalpojumu pasūtījuma līgumā var paredzēt:
 1) biļešu tirdzniecības noteikumus;
 2) noteikumus par informācijas sniegšanu par sabiedriskā transporta pakalpojumiem;
 3) līniju būvju vai infrastruktūras izmantošanas noteikumus;

@@ -1,0 +1,1 @@
+15. No 2009.gada 1.jūlija līdz šo pārejas noteikumu 14.punktā minēto grozījumu spēkā stāšanās dienai ar šajā likumā lietoto terminu "rajons" saprot teritoriju, kas pastāvēja administratīvi teritoriālās reformas pabeigšanas brīdī.

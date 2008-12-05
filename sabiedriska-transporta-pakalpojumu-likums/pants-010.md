@@ -1,7 +1,5 @@
 10.pants. Pasažieru pārvadājumu finansēšanas apmērs
-(1) Ar sabiedriskā transporta pakalpojumu sniegšanu maršrutu tīkla pamata maršrutos saistītos pārvadātāja zaudējumus un izdevumus pārvadātājam kompensē pilnā apmērā:
-1) regulā Nr. 1191/69 noteiktajā kārtībā un apmērā, ja pārvadātājam ir uzlikts pienākums (saistības) sniegt sabiedriskā transporta pakalpojumus saskaņā ar šā likuma 8.panta trešo daļu;
-2) Ministru kabineta noteiktajā kārtībā un apmērā, ja pārvadātājam, kurš apkalpo maršrutu tīklu vai atsevišķu maršrutu, piešķirtas tiesības sniegt sabiedriskā transporta pakalpojumus.
-(2) Sabiedriskā transporta pakalpojumus maršrutu tīklā ārpus pamata maršrutiem sniedz atbilstoši komerciāliem principiem, ar šo pakalpojumu sniegšanu saistītie zaudējumi un izdevumi ir pārvadātāja pašrisks, un tie netiek kompensēti, izņemot papildu izdevumus, kas pārvadātājam radušies, izpildot pasūtītāja prasības, kas netika izvirzītas sabiedriskā transporta pakalpojumu pasūtījuma procedūras laikā.
+(1) Pārvadātājam radušos zaudējumus un izdevumus, kas saistīti ar sabiedriskā transporta pakalpojumu sniegšanu, kompensē atbilstoši šā likuma 11. un 12.panta prasībām.
+(2) (Izslēgta ar 06.11.2008. likumu.)
 (3) Šā likuma izpratnē zaudējumi ir arī maksa par pakalpojumu, ja pasūtītājs sabiedriskā transporta pakalpojumu pasūtījumu organizējis saskaņā ar Publisko iepirkumu likumu.
-(4) Ja pasūtītājs maršrutu tīkla vai atsevišķa maršruta apkalpošanai pārvadātāju izvēlas saskaņā ar likumu, kas reglamentē koncesiju piešķiršanu, pārvadātājam kompensē ar sabiedriskā transporta pakalpojumu sniegšanu saistītos zaudējumus un izdevumus.
+(4) (Izslēgta ar 06.11.2008. likumu.)
