@@ -6,7 +6,7 @@
 4) sagatavo un koordinē ārvalstu un starptautisko institūciju finanšu palīdzības projektus;
 5) atbilstoši savai kompetencei pārbauda sūdzības un iesniegumus, kā arī veic Valsts prezidenta, Saeimas, Ministru kabineta un ģenerālprokurora ierosinātās pārbaudes;
 6) apkopo un analizē informāciju par veiktajām pārbaudēm, valsts amatpersonu iesniegtajām deklarācijām, konstatētajiem pārkāpumiem to iesniegšanā un par likumā noteikto ierobežojumu neievērošanu;
-7) analizē valsts iestāžu praksi korupcijas novēršanā un atklātos korupcijas gadījumus, iesniedz attiecīgajai ministrijai un Valsts civildienesta pārvaldei priekšlikumus konstatēto trūkumu novēršanai;
+7) analizē valsts iestāžu praksi korupcijas novēršanā un atklātos korupcijas gadījumus, iesniedz attiecīgajai ministrijai un Valsts kancelejai priekšlikumus konstatēto trūkumu novēršanai;
 8) izstrādā metodiku korupcijas novēršanai un apkarošanai valsts un pašvaldību iestādēs un privātajā sektorā;
 9) apkopo un analizē citu valstu pieredzi korupcijas novēršanā un apkarošanā;
 10) analizē normatīvos aktus un normatīvo aktu projektus, kā arī ierosina izdarīt tajos grozījumus, iesniedz priekšlikumus jaunu normatīvo aktu projektu izstrādāšanai;
