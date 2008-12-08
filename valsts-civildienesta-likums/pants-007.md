@@ -1,5 +1,5 @@
 7.pants. Pretendentam izvirzāmās obligātās prasības
-Uz ierēdņa amatu var pretendēt persona:
+(1) Uz ierēdņa amatu var pretendēt persona:
 1) kura ir Latvijas Republikas pilsonis;
 2) kura pārvalda latviešu valodu;
 3) kurai ir augstākā izglītība;
@@ -11,3 +11,4 @@ Uz ierēdņa amatu var pretendēt persona:
 9) kura nav vai nav bijusi ar likumiem vai tiesas nolēmumiem aizliegto organizāciju dalībnieks;
 10) kura nav iestādes vadītāja vai tiešā priekšnieka radinieks (persona, kura ar ierēdni ir laulībā, svainībā vai radniecībā līdz pirmajai pakāpei, kā arī brāļi un māsas). Ministru kabinets var noteikt izņēmumus gadījumos, ja citādi attiecīgā iestāde nevar nodrošināt tai noteikto funkciju izpildi;
 11) kurai nav saglabājušās tāda disciplinārsoda darbības sekas, kas uz noteiktu laiku liedz ieņemt ierēdņa amatu.
+(2) Personas, kuras pretendē uz ierēdņa amatu, likumos noteiktajā kārtībā atbild par iesniegto dokumentu un tajos ietverto ziņu pareizību.

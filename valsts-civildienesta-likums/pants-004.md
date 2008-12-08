@@ -1,20 +1,10 @@
-4.pants. Valsts civildienesta pārvalde
-(1) Valsts civildienesta pārvalde (turpmāk - Pārvalde) ir Ministru prezidenta tiešā pakļautībā esoša valsts pārvaldes iestāde, kas īsteno valsts politiku valsts civildienestā.
-(2) Pārvaldes funkcijas ir:
-1) kontrolēt šā likuma un citu ar valsts civildienesta jomu saistīto normatīvo aktu piemērošanu iestāžu darbībā, atcelt iestāžu nelikumīgos lēmumus valsts civildienesta jomā un uzdot tām novērst konstatētos pārkāpumus;
-2) (izslēgts ar 15.05.2003. likumu);
-3) (izslēgts ar 14.09.2006. likumu);
-4) Ministru kabineta noteiktajā kārtībā izveidot, pilnveidot un aktualizēt personāla un civildienesta attiecības izbeigušu personu, kurām ir ierēdņa statuss, vienotās uzskaites sistēmu, kā arī noteikt šīs uzskaites sistēmas pieejamību;
-5) nodrošināt ierēdņu karjeras vienotu plānošanu;
-6) (izslēgts ar 15.05.2003. likumu);
-7) (izslēgts ar 15.05.2003. likumu);
-8) izskatīt sūdzības par pretendentu konkursu;
-9) piešķirt ierēdņa statusu;
-10) likumā noteiktajos gadījumos pārbaudīt ierēdņu atbilstību šā likuma prasībām;
-11) sniegt informāciju valsts civildienesta jomā;
-12) izskatīt fizisko un juridisko personu sūdzības par ierēdņu rīcību;
-13) likumā noteiktajos gadījumos un kārtībā ierosināt un izmeklēt disciplinārlietas;
-14) likumā noteiktajos gadījumos un kārtībā uzlikt disciplinārsodus;
-15) izskatīt ierēdņu sūdzības par piemērotajiem disciplinārsodiem;
-16) (izslēgts ar 15.05.2003. likumu).
-(3) Pārvalde ir tiesīga pieprasīt un saņemt no amatpersonām un valsts iestādēm tās funkciju veikšanai nepieciešamo informāciju.
+4.pants. Iestāžu kompetence
+(1) Iestādes kontrolē šā likuma un citu ar valsts civildienesta jomu saistīto normatīvo aktu piemērošanu iestādes padotībā esošo ierēdņu darbībā, tai skaitā:
+1) atceļ padotībā esošo ierēdņu lēmumus valsts civildienesta jomā un uzdod tiem novērst konstatētos pārkāpumus;
+2) likumā noteiktajos gadījumos un kārtībā ierosina, izmeklē disciplinārlietas un uzliek disciplinārsodus, kā arī izskata ierēdņu sūdzības par piemērotajiem disciplinārsodiem;
+3) izskata sūdzības par pretendentu konkursu.
+(2) Valsts kanceleja:
+1) izstrādā un koordinē valsts civildienesta attīstības politiku;
+2) koordinē ierēdņu karjeras attīstību;
+3) saskaņo ierēdņu amatus.
+(3) Ministru kabinets nosaka kārtību, kādā tiek uzkrāta un aktualizēta informācija par ierēdņu amatiem, kā arī nosaka par informācijas uzkrāšanu un aktualizāciju atbildīgo institūciju.

@@ -1,4 +1,4 @@
 14.pants. Ierēdņa statusa piešķiršana
 (1) Ne vēlāk kā trīs nedēļas pirms ierēdņa amatā pirmo reizi ieceltā pretendenta pārbaudes laika beigām šajā likumā noteiktajā kārtībā tiek novērtēta viņa piemērotība darbam civildienestā.
-(2) Ja novērtējums ir pozitīvs, iestādes vadītājs ierosina Pārvaldei piešķirt pretendentam ierēdņa statusu. Ja novērtējums ir negatīvs, iestādes vadītājs atbrīvo pretendentu no ierēdņa amata sakarā ar pārbaudes neizturēšanu, par to informējot Pārvaldi.
+(2) Ja novērtējums ir pozitīvs, iestādes vadītājs piešķir pretendentam ierēdņa statusu. Ja novērtējums ir negatīvs un pārbaude nav izturēta, iestādes vadītājs atbrīvo pretendentu no ierēdņa amata.
 (3) Lēmumu par iestādes vadītāja atbrīvošanu no amata pieņem ministrs, bet par Valsts kancelejas direktora atbrīvošanu - Ministru prezidents. Lēmumu par valsts sekretāra, Ministru prezidenta biedra sekretariāta vadītāja, īpašu uzdevumu ministra sekretariāta, Valsts kancelejas direktora un pārraudzībā esošas iestādes vadītāja atbrīvošanu no amata attiecīgā amatpersona pieņem, pamatojoties uz Ministru kabineta lēmumu.

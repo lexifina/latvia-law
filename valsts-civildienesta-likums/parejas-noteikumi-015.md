@@ -1,0 +1,1 @@
+15. Līdz 2008.gada 15.decembrim Valsts civildienesta pārvalde nodod Finanšu ministrijai personāla un to civildienesta attiecības izbeigušo personu vienotās uzskaites sistēmu, kurām ir ierēdņa statuss.
