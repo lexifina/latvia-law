@@ -1,0 +1,1 @@
+4. Ja Valsts civildienesta pārvalde līdz 2008.gada 8.decembrim disciplinārlietas izskatīšanu nav pabeigusi, disciplinārlietu izskata un lēmumu tajā pieņem Valsts civildienesta likumā noteiktā amatpersona.
