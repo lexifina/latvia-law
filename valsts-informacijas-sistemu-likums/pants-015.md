@@ -1,0 +1,6 @@
+15.pants. Valsts informācijas sistēmas drošības pārvaldnieks
+(1) Valsts informācijas sistēmas drošības pārvaldnieks ir fiziskā persona, kura atrodas darba tiesiskajās vai civildienesta attiecībās ar valsts institūciju - attiecīgās valsts informācijas sistēmas pārzini - un saskaņā ar normatīvajiem aktiem noklausījusies apmācības kursu, sekmīgi nokārtojusi zināšanu pārbaudi un ieguvusi valsts informācijas sistēmas drošības pārvaldnieka sertifikātu.
+(2) Valsts informācijas sistēmas drošības pārvaldnieka apmācība ir obligāts zināšanu pārbaudes kārtošanas priekšnosacījums.
+(3) Valsts informācijas sistēmas drošības pārvaldniekam izsniedz sertifikātu, ja viņš sekmīgi nokārtojis zināšanu pārbaudi.
+(4) Ministru kabinets izdod noteikumus, kuros reglamentē valsts informācijas sistēmas drošības pārvaldnieka apmācības un zināšanu pārbaudes kārtību, kā arī sertifikāta izsniegšanas, atjaunošanas, darbības izbeigšanas un anulēšanas kārtību.
+(5) Valsts pārvaldes iekārtas likumā noteiktajā kārtībā privātpersonai ar līgumu var deleģēt valsts informācijas sistēmas drošības pārvaldnieka apmācības veikšanu, zināšanu pārbaudi, kā arī uzdevumu izsniegt, atjaunot sertifikātu, izbeigt sertifikāta darbību un anulēt sertifikātu.
