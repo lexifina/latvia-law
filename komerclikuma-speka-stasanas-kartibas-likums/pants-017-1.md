@@ -1,0 +1,4 @@
+17.¹ pants. Zemnieku un zvejnieku saimniecību statusa noteikšana, individuālā uzņēmuma, zemnieka un zvejnieka saimniecības pārreģistrācija vai likvidācija
+(1) Zemnieku un zvejnieku saimniecību statusu no 2010.gada 1.janvāra nosaka Zemnieku un zvejnieku saimniecību likums.
+(2) Ar 2010.gada 1.janvāri jaunus individuālos uzņēmumus, zemnieku un zvejnieku saimniecības uzņēmumu reģistrā nereģistrē.
+(3) Ja individuālā uzņēmuma, zemnieka un zvejnieka saimniecības īpašnieks saskaņā ar šā likuma 17.panta noteikumiem nav pārveidojis savu uzņēmumu par komercsabiedrību vai pieteicis sevi par individuālo komersantu, individuālais uzņēmums, zemnieka un zvejnieka saimniecība piesakāma ierakstīšanai komercreģistrā vai uzsākama to likvidācija Zemnieku un zvejnieku saimniecību likumā noteiktajā kārtībā un termiņā. Šis nosacījums attiecas arī uz tādu individuālo uzņēmumu, kura galvenais darbības veids ir amatniecība likuma "Par amatniecību" 1.panta izpratnē.
