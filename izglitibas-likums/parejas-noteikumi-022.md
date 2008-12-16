@@ -1,0 +1,1 @@
+22. Grozījumi šā likuma 1.panta 9.punktā (par termina "izglītības pārvaldes iestāde" papildināšanu ar vārdu "struktūrvienība"), 17.panta trešajā daļā (par republikas pilsētas pašvaldības un novada pašvaldības funkciju noteikšanu), kā arī 18.panta jaunā redakcija (par pašvaldību funkciju nodrošināšanu izglītības jomā) stājas spēkā 2009.gada 1.jūlijā.
