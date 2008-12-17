@@ -1,0 +1,1 @@
+1. Baznīca līdz 2009.gada 1.jūlijam saskaņo Baznīcas satversmi ar šo likumu, attiecīgi grozot Baznīcas satversmi, apstiprinot to jaunā redakcijā un iesniedzot Tieslietu ministrijai reģistrācijai Reliģisko organizāciju likumā noteiktajā kārtībā.

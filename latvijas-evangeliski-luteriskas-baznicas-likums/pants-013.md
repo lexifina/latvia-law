@@ -1,0 +1,3 @@
+13.pants. Baznīcas attiecības ar darbiniekiem un garīdzniekiem
+(1) Baznīca darba tiesisko attiecību nodibināšanā ar darbiniekiem, šo attiecību pastāvēšanā, grozīšanā un izbeigšanā ir tiesīga balstīties uz personas reliģisko piederību, gatavību un spēju darboties labā ticībā un lojalitātē attiecībā uz Baznīcas mācību (doktrīnu), kā arī Baznīcas morāles un uzvedības normu, principu un ideālu kopumu (ētosu).
+(2) Garīdznieku norīko uz kalpošanas vietu un atbrīvo no kalpošanas Baznīcas galva, pamatojoties uz Baznīcas satversmi. Baznīcas galvas rīkojums ir vienīgais pamats garīdznieka kalpošanas uzsākšanai, grozīšanai un atbrīvošanai no kalpošanas.
