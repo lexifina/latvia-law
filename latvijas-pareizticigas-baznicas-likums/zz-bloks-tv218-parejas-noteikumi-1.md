@@ -1,0 +1,1 @@
+Latvijas Pareizticīgās Baznīcas likuma pielikums

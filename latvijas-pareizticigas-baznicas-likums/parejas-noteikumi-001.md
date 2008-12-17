@@ -1,0 +1,1 @@
+1. Līdz 2009.gada 1.maijam Baznīca saskaņo savus statūtus ar šo likumu, izdarot statūtos attiecīgus grozījumus, apstiprinot tos jaunā redakcijā un iesniedzot Tieslietu ministrijai reģistrācijai Reliģisko organizāciju likumā noteiktajā kārtībā.

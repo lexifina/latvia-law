@@ -1,0 +1,4 @@
+8.pants. Kultūras pieminekļu aizsardzība un pieejamība
+(1) Baznīca nodrošina tās īpašumā vai valdījumā esošo kultūras pieminekļu saglabāšanu un izmantošanu saskaņā ar kultūras pieminekļu aizsardzību regulējošiem normatīvajiem aktiem.
+(2) Baznīca nodrošina tās īpašumā vai valdījumā esošo kultūras pieminekļu pieejamību sabiedrības apskatei Baznīcas noteiktajā kārtībā.
+(3) Baznīcas īpašumā vai valdījumā esošo kultūras pieminekļu izpētes finansēšanā un saimnieciski neizmantojamu valsts nozīmes kultūras pieminekļu konservācijā un restaurācijā valsts piedalās normatīvajos aktos noteiktajā kārtībā gadskārtējā valsts budžeta likumā paredzēto finanšu līdzekļu apmērā. Pašvaldībai ir tiesības piedalīties saimnieciski neizmantojamu vietējas nozīmes kultūras pieminekļu konservācijā un restaurācijā, kā arī Valgundes svētvietā esošo valsts nozīmes kultūras pieminekļu konservācijā un restaurācijā.

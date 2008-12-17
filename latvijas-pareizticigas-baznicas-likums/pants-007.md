@@ -1,0 +1,4 @@
+7.pants. Valgundes svētvieta, tās robežas un izmantošana
+(1) Valgundes svētvieta ir pareizticīgo svētvieta un reliģisku svētceļojumu vieta.
+(2) Valgundes svētvieta atrodas Latvijas Pareizticīgās Baznīcas Rīgas Svētās Trijādības-Sergija sieviešu klosterim piederošā nekustamā īpašuma "Ķīšu Klosteris" teritorijā (kadastra numurs 5486 011 0100), kura adrese ir Valgundes novada Jelgavas rajons. Valgundes svētvietu veido Latvijas Pareizticīgās Baznīcas Rīgas Svētās Trijādības-Sergija sieviešu klostera filiāle Jelgavas rajonā ar visām tās sastāvā esošajām ēkām un būvēm un teritorija ap to, šā klostera kapsēta, ceļš uz Svēto kalnu un teritorija ap to, Svētais kalns un teritorija ap to. Valgundes svētvietas teritorijas robežas noteiktas šā likuma pielikumā.
+(3) Baznīcas noteiktajā kārtībā Valgundes svētvietu var izmantot arī kā kultūras tūrisma objektu.
