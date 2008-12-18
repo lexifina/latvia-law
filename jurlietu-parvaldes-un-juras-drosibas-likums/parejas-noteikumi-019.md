@@ -1,0 +1,1 @@
+19. Ministru kabinets līdz 2010.gada 1.jūlijam izdod šā likuma 11.panta devītajā daļā paredzētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai piemērojami Ministru kabineta 2005.gada 27.decembra noteikumi Nr.1042 "Noteikumi par īpašām stabilitātes prasībām ro-ro pasažieru kuģiem".
