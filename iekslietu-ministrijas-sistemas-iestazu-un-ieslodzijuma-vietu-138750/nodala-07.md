@@ -1,2 +1,2 @@
 VII nodaļa
-Darba laika organizācija
+Dienesta pienākumu izpildes laika organizācija

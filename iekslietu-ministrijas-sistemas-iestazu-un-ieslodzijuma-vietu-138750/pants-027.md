@@ -1,4 +1,3 @@
-27.pants. Normālais darba laiks
-(1) Amatpersonas normālais dienas darba laiks ir astoņas stundas diennakts periodā, bet pirmssvētku dienā - septiņas stundas.
-(2) Amatpersonai ir noteikta piecu dienu darba nedēļa un normālais nedēļas darba laiks - 40 stundas nedēļā.
-(3) Nedēļas atpūtas dienas ir sestdiena un svētdiena. Amatpersonas netiek nodarbinātas likumā noteiktajās svētku dienās.
+27.pants. Normālais dienesta pienākumu izpildes laiks
+(1) Amatpersonas normālais dienesta pienākumu izpildes laiks ir astoņas stundas diennakts periodā, pirmssvētku dienās - septiņas stundas, bet nedēļā - 40 stundas.
+(2) Nedēļas atpūtas dienas ir sestdiena un svētdiena. Amatpersonu dienesta pienākumu izpildē nenodarbina likumā noteiktajās svētku dienās.

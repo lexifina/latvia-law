@@ -1,0 +1,1 @@
+11. Amatpersona, kura dienesta interesēs pārcelta amatā uz citu administratīvo teritoriju (izņemot pārcelšanu uz izglītības iestādi vai no izglītības iestādes) uz nenoteiktu laiku un kurai šajā likumā noteiktajā kārtībā piešķirta kompensācija par jaunās dzīvojamās telpas īri un komunālajiem pakalpojumiem, minēto kompensāciju turpina saņemt līdz 2011.gada 1.janvārim.

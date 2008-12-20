@@ -1,3 +1,3 @@
-32.pants. Amatpersonas darba samaksa
-(1) Amatpersona saņem darba samaksu, ko veido mēneša amatalga, piemaksas un prēmijas.
-(2) Amatpersonu darba samaksas sistēmu nosaka Ministru kabinets.
+32.pants. Amatpersonas dienesta atalgojums
+(1) Amatpersona saņem dienesta atalgojumu, ko veido mēneša amatalga, piemaksas un prēmijas. Amatpersona, kas mācās Iekšlietu ministrijas sistēmas izglītības iestādē, nesaņem normatīvajos aktos paredzēto studējošā (izglītojamā) stipendiju.
+(2) Amatpersonu dienesta atalgojuma sistēmu nosaka Ministru kabinets.
