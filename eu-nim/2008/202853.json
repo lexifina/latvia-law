@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Informatīvais ziņojums par ieteikumiem zaļā publiskā iepirkuma veicināšanai valsts un pašvaldību institūcijās un ieteikumiem videi draudzīgas būvniecības veicināšanai (apstiprināts Ministru kabinetā 2008.gada 22.decembrī, prot. Nr.94, 92. paragrāfs)",
+  "type_of_act": "Administrative measures",
+  "official_journal": "Administrative measures",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2008-12-22",
+  "entry_into_force": "2008-12-22",
+  "notification_date": null,
+  "commission_reference": "MNE(2013)52499",
+  "nim_celex": "72009L0028LVA_202853",
+  "nim_id": "202853",
+  "transposes_celex": [
+    "32009L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ed6c30fd-39b6-458f-b8dd-a65d67ca659d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
