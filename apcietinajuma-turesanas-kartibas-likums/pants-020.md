@@ -2,3 +2,4 @@
 (1) Naudu, kas apcietinātajam atsūtīta ar pārvedumu vai iemaksāta izmeklēšanas cietuma kasē, viņam neizsniedz, bet ieskaita izmeklēšanas cietuma depozīta kontā Valsts kasē un uzskaita apcietinātā personiskās naudas uzskaites kartē.
 (2) Apcietinātais savas personiskās naudas uzskaites kartē esošo naudu pārskaitījumu veidā ar izmeklēšanas cietuma darbinieku starpniecību var izmantot pārtikas produktu un pirmās nepieciešamības priekšmetu iegādei izmeklēšanas cietuma veikalā.
 (3) Naudas pārvedumus apcietinātais drīkst sūtīt tikai ar procesa virzītāja atļauju.
+(4) Apcietinātā naudu izmeklēšanas cietumā uzglabā, pārsūta un izmaksā apcietinātajam latos. Citā valūtā saņemto naudu pārrēķina latos saskaņā ar Latvijas Bankas noteikto valūtas kursu dienā, kad nauda saņemta izmeklēšanas cietumā.
