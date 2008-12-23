@@ -2,7 +2,7 @@
 Par soda izciešanas režīma prasību pārkāpšanu notiesātajiem var uzlikt šādus sodus:
 1) izteikt brīdinājumu;
 2) izteikt rājienu;
-3) aizliegt uz laiku līdz vienam mēnesim pirkt pārtikas produktus;
+3) aizliegt uz laiku līdz vienam mēnesim pirkt pārtikas produktus un tabakas izstrādājumus brīvības atņemšanas iestādes veikalā;
 4) aizliegt kārtējo telefonsarunu;
 5) aizliegt kārtējo satikšanos;
 6) notiesātos, kas sodu izcieš cietumos, ievietot soda izolatorā līdz piecpadsmit diennaktīm;

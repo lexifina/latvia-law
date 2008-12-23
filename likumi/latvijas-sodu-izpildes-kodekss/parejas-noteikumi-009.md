@@ -1,0 +1,1 @@
+9. Grozījums šā likuma 50.⁶ panta trešajā daļā, kas paredz aizstāt vārdu "pagasta" ar vārdiem "novada vai republikas pilsētas", un grozījums 119.panta otrajā daļā, kas paredz aizstāt vārdus "pašvaldības dome (padome)" ar vārdiem "novada vai republikas pilsētas dome", stājas spēkā 2009.gada 1.jūlijā.
