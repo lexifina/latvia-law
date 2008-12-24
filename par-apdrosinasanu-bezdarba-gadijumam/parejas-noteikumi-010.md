@@ -1,0 +1,1 @@
+10. Šā likuma 8.panta piektajā daļā paredzētais kalendāra dienas vidējās apdrošināšanas iemaksu algas ierobežojums, kas noteikts saistībā ar valsts sociālās apdrošināšanas obligāto iemaksu objekta gada maksimālo apmēru, netiek piemērots apdrošināšanas iemaksu algai, kura gūta laikā no 2009.gada 1.janvāra līdz 2013.gada 31.decembrim.
