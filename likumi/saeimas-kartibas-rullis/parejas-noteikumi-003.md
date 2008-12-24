@@ -1,0 +1,1 @@
+3. Līdz Saeimas Sabiedrisko attiecību biroja darba uzsākšanai Saeimas Iesniegumu birojs sniedz Saeimas Mandātu, ētikas un iesniegumu komisijai informāciju par iesniegumiem, kas saņemti Saeimas Iesniegumu birojā, un par to izskatīšanu Saeimas frakcijās un komisijās.

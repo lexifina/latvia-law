@@ -1,0 +1,1 @@
+2. No 2009.gada 1.janvāra līdz 2009.gada 31.decembrim, piemērojot 12.panta pirmās daļas otro teikumu, otro, trešo un ceturto daļu, kā arī 14.panta otro daļu, izmantojams Centrālās statistikas pārvaldes oficiālajā statistikas paziņojumā publicētais sabiedriskajā sektorā strādājošo vidējās darba samaksas apmērs 2007.gadā, šim darba samaksas apmēram piemērojot koeficientu 0,812.

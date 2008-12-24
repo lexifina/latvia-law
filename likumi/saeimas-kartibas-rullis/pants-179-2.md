@@ -1,0 +1,1 @@
+179.² Juridiskā komisija sagatavo Saeimas lēmuma projektu par atļauju uzsākt kriminālvajāšanu pret tiesnesi vai tiesībsargu vai viņa apcietināšanu, kā arī priekšlikumus sakarā ar iesniegumiem par administratīvā soda uzlikšanu tiesībsargam.
