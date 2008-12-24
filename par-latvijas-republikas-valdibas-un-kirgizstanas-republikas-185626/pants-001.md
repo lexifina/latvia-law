@@ -1,0 +1,1 @@
+1.pants. 2008.gada 22.maijā Rīgā parakstītais Latvijas Republikas valdības un Kirgizstānas Republikas valdības līgums par ieguldījumu veicināšanu un aizsardzību (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
