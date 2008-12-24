@@ -1,0 +1,1 @@
+4. Ne vēlāk kā viena mēneša laikā pēc valsts sabiedrības ar ierobežotu atbildību "Latvijas Nacionālā opera" reģistrācijas Latvijas Republikas Uzņēmumu reģistrā Nacionālās operas direktors apstiprina darbinieku amatu sarakstu.

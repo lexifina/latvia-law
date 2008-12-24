@@ -1,0 +1,1 @@
+3. Rīkojumā par valsts kultūras iestādes pārveidošanu par valsts kapitālsabiedrību Ministru kabinets nosaka valsts sabiedrības ar ierobežotu atbildību "Latvijas Nacionālā opera" pamatkapitāla lielumu un apstiprina tās mantas sastāvu, tajā skaitā tā nekustamā īpašuma sarakstu, kurš tiks ieguldīts valsts kapitālsabiedrības pamatkapitālā.

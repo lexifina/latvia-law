@@ -1,0 +1,1 @@
+2. Pārveidojamās valsts kultūras iestādes "Latvijas Nacionālā opera" manta pāriet attiecīgajai valsts kapitālsabiedrībai "Latvijas Nacionālā opera". Valsts kapitālsabiedrība ir pārveidojamās kultūras iestādes saistību, tiesību, mantas un finanšu līdzekļu pārņēmēja.

@@ -1,0 +1,1 @@
+5. Nacionālās operas konsultatīvā padome, kas izveidota ar Ministru kabineta 2003.gada 24.janvāra rīkojumu Nr.48 "Par Latvijas Nacionālās operas konsultatīvo padomi", darbojas līdz tās pilnvaru termiņa beigām.

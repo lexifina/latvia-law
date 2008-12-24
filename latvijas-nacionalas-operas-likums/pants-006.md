@@ -5,5 +5,6 @@
 3) novērtē Nacionālās operas gadskārtējā darbības plāna izpildi;
 4) pieņem darbā un atlaiž no darba Nacionālās operas direktoru;
 5) ierosina veikt revīziju Nacionālajā operā;
-6) atceļ prettiesiskus Nacionālās operas direktora lēmumus.
+6) (izslēgts ar 11.12.2008. likumu);
+7) sagatavo pieprasījumu ikgadējo valsts budžeta dotācijas līdzekļu piešķiršanai nacionālā pasūtījuma īstenošanai.
 (2) Veicot šā panta pirmajā daļā noteiktos pienākumus, kultūras ministram ir tiesības pieprasīt un saņemt no Nacionālās operas informāciju par tās darbību.
