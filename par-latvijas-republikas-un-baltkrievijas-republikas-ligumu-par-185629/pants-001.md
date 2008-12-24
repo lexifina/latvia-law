@@ -1,0 +1,1 @@
+1.pants. 2008.gada 29.februārī Minskā parakstītais Latvijas Republikas un Baltkrievijas Republikas līgums par sadarbību sociālās drošības jomā (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
