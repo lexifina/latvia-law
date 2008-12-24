@@ -1,0 +1,3 @@
+4.pants. Programmu vadības nodrošināšana
+(1) Šā likuma 3.panta pirmajā un otrajā daļā minēto programmu vadība Latvijā ietver sadarbībā ar attiecīgās programmas partnervalstīm īstenotu līdzdalību programmu dokumentu izstrādē, to iesniegšanu apstiprināšanai Ministru kabinetā, līdzdalību programmas ieviešanā, uzraudzībā un izvērtēšanā, finanšu kontroles un revīzijas veikšanā.
+(2) Latvijas un Lietuvas pārrobežu sadarbības programmas un Igaunijas, Latvijas un Krievijas pārrobežu sadarbības programmas vadība papildus šā panta pirmajā daļā minētajam ietver programmu dokumentu iesniegšanu apstiprināšanai Eiropas Komisijā, programmu vadības un kontroles sistēmu izveidi un to darbības nodrošināšanu.
