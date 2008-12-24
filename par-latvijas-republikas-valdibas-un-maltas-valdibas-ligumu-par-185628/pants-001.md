@@ -1,0 +1,1 @@
+1.pants. 2008.gada 24.jūlijā Briselē parakstītais Latvijas Republikas valdības un Maltas valdības līgums par sadarbību cīņā pret terorismu, nelegālu narkotisko vielu, psihotropo vielu un prekursoru apriti un organizēto noziedzību (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
