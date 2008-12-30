@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2008.gada 22.decembra noteikumi Nr.1078 \"Ģenētiski modificēto organismu riska novērtēšanas metodoloģija\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "201 (3985)",
+  "official_journal_page": null,
+  "official_journal_date": "2008-12-29",
+  "entry_into_force": "2008-12-30",
+  "notification_date": "2019-03-18",
+  "commission_reference": "MNE(2019)51645",
+  "nim_celex": "72018L0350LVA_270815",
+  "nim_id": "270815",
+  "transposes_celex": [
+    "32018L0350"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/de55adf3-3d85-4c99-af0c-d99e79321bb8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
