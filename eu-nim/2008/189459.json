@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "MK 16.12.2008. noteikumi Nr.1048 \"Dabasgāzes piegādes un lietošanas noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "201 (3985)",
+  "official_journal_page": null,
+  "official_journal_date": "2008-12-29",
+  "entry_into_force": "2008-12-30",
+  "notification_date": "2012-02-23",
+  "commission_reference": "MNE(2012)51046",
+  "nim_celex": "72002L0091LVA_189459",
+  "nim_id": "189459",
+  "transposes_celex": [
+    "32002L0091"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f43b455e-77aa-4bbf-9e15-584eb8b38c8f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
