@@ -1,0 +1,1 @@
+2.pants. Nolīgumi stājas spēkā Padomes un Padomē sanākušo dalībvalstu valdību pārstāvju Lēmuma 2.pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo laikrakstā "Latvijas Vēstnesis".
