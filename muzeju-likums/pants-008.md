@@ -1,6 +1,6 @@
 8.pants. Publisko muzeju dibināšanas, reorganizācijas un likvidācijas kārtība
 (1) Valsts muzejus un to filiāles dibina, reorganizē un likvidē Ministru kabinets pēc Kultūras ministrijas vai citas ministrijas ierosinājuma, konsultējoties ar Muzeju padomi.
-(2) Pašvaldību muzejus un to filiāles dibina, reorganizē un likvidē attiecīgās pašvaldības dome (padome), konsultējoties ar Muzeju padomi.
+(2) Pašvaldību muzejus un to filiāles dibina, reorganizē un likvidē attiecīgā pašvaldība, konsultējoties ar Muzeju padomi.
 (3) Autonomos muzejus un to filiāles, kas ir atvasinātas publisko tiesību juridiskās personas (izņemot pašvaldības) izveidota publiska aģentūra (iestāde) vai šīs publiskās aģentūras (iestādes) struktūrvienība, dibina, reorganizē un likvidē īpašnieks.
 (4) Šā panta pirmajā, otrajā un trešajā daļā minēto muzeju reorganizācijas un likvidācijas gadījumos muzejam ir pienākums konsultēties ar Muzeju padomi jautājumos par turpmāko rīcību ar Nacionālajā krājumā iekļautajiem attiecīgā muzeja priekšmetiem.
 (5) Ja tiek likvidēts akreditēts privātais muzejs vai akreditēts autonomais muzejs, kas ir valsts vai pašvaldības kapitālsabiedrība vai cita privāto tiesību juridiskā persona, kuras dalībnieks vai dibinātājs ir publisko tiesību juridiskā persona, un šis muzejs ir saņēmis valsts budžeta līdzekļus, valsts muzejiem un pašvaldību muzejiem ir pirmpirkuma tiesības likvidējamā muzeja priekšmetu iegūšanā.
