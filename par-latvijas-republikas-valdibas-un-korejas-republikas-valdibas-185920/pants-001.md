@@ -1,0 +1,1 @@
+1.pants. 2008.gada 15.jūnijā Džedžu parakstītā Latvijas Republikas valdības un Korejas Republikas valdības konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma nodokļiem (turpmāk - Konvencija) un tās 2008.gada 15.jūnijā Džedžu parakstītais protokols (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.
