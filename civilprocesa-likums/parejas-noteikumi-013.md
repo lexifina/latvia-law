@@ -1,1 +1,1 @@
-13. Lietas par mantojuma tiesībām, kuras līdz 2002.gada 31.decembrim pieņemtas izskatīšanai sevišķās tiesāšanas kārtībā, tiesas izskata Civilprocesa likumā noteiktajā kārtībā līdz 2008.gada 31.decembrim.
+13. Lietas par mantojuma tiesībām, kuras līdz 2002.gada 31.decembrim pieņemtas izskatīšanai sevišķās tiesāšanas kārtībā, tiesas izskata Civilprocesa likumā noteiktajā kārtībā līdz 2011.gada 31.decembrim.
