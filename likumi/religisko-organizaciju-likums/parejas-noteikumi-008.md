@@ -1,0 +1,1 @@
+8. Līdz šā likuma 9.panta devītajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2009.gada 30.martam piemērojami Ministru kabineta 2000.gada 15.februāra noteikumi Nr.57 "Noteikumi par reliģisko organizāciju un to iestāžu reģistrācijas valsts nodevu".
