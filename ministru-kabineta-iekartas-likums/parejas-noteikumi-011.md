@@ -1,0 +1,1 @@
+11. Šā likuma 34.panta piektajā daļā minēto prēmiju un 36.panta trešajā daļā minēto pabalstu 2009.gadā izmaksā atbilstoši likumam "Par valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzību 2009.gadā".
