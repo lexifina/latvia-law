@@ -9,7 +9,7 @@
 3) Gaisa spēkiem;
 4) Mācību vadības pavēlniecības;
 5) Nodrošinājuma pavēlniecības;
-6) Saeimas un Valsts prezidenta drošības dienesta;
+6) (izslēgts ar 27.11.2008. likumu);
 7) Militārās policijas;
 8) vienībām, kuras izveidotas ar aizsardzības ministra pavēli īpašu uzdevumu veikšanai.
 (3) Kara vai izņēmuma stāvokļa laikā Nacionālo bruņoto spēku sastāvā tiek iekļauta Latvijas Bankas Aizsardzības pārvalde. Kara laikā Nacionālo bruņoto spēku sastāvā tiek iekļauta Valsts robežsardze.
