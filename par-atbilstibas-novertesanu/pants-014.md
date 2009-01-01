@@ -1,5 +1,5 @@
-14.pants. (1) Latvijas Nacionālais akreditācijas birojs veic vadības sistēmu, personāla un produktu sertificēšanas un inspicēšanas institūciju un testēšanas un kalibrēšanas laboratoriju akreditēšanu un uzraudzību reglamentētajā un nereglamentētajā sfērā.
-(2) Latvijas Nacionālā akreditācijas biroja galvenās funkcijas ir:
+14.pants. (1) Metroloģijas un akreditācijas valsts aģentūra veic vadības sistēmu, personāla un produktu sertificēšanas un inspicēšanas institūciju un testēšanas un kalibrēšanas laboratoriju akreditēšanu un uzraudzību reglamentētajā un nereglamentētajā sfērā.
+(2) Metroloģijas un akreditācijas valsts aģentūras galvenās funkcijas ir:
 1) novērtēt, akreditēt un uzraudzīt sertificēšanas un inspicēšanas institūcijas un testēšanas un kalibrēšanas laboratorijas atbilstoši Latvijas nacionālajos standartos, normatīvajos aktos, Eiropas vai starptautiskajos standartos noteiktajām prasībām;
 2) tehniski nodrošināt Latvijas Nacionālās akreditācijas padomes darbu;
 3) organizēt akreditācijas nozaru tehnisko komiteju darbu;
@@ -12,6 +12,6 @@
 10) informēt Ekonomikas ministriju par reglamentētajā sfērā akreditētajām institūcijām.
 (3) Akreditācijas sistēmu finansēšanas kārtība ir šāda:
 1) no valsts budžeta līdzekļiem finansē:
-a) Latvijas Nacionālā akreditācijas biroja funkciju veikšanu,
+a) Metroloģijas un akreditācijas valsts aģentūras funkciju veikšanu,
 b) dalības maksu starptautiskajās akreditācijas organizācijās;
 2) visus izdevumus, kas saistīti ar akreditāciju un uzraudzību reglamentētajā sfērā, sedz akreditējamā institūcija normatīvajos aktos noteiktajā kārtībā.
