@@ -1,1 +1,1 @@
-54. Vest lietas tiesas priekšsēdētājs, procesa virzītājs, kā arī Latvijas Zvērinātu advokātu padome uzdod zvērinātiem advokātiem tikai pēc saskaņošanas ar katras tiesas rajonā praktizējošo zvērinātu advokātu vecāko.
+54. Latvijas Zvērinātu advokātu padome uzdod zvērinātam advokātam vest lietas tikai pēc saskaņošanas ar attiecīgās tiesas darbības teritorijas zvērinātu advokātu vecāko.

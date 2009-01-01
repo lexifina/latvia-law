@@ -4,13 +4,13 @@
 3) pārzina Latvijas Zvērinātu advokātu kolēģijas organizācijas lietas;
 4) uzrauga zvērinātu advokātu un zvērinātu advokātu palīgu darbību, izskata par viņiem iesniegtās sūdzības un ziņojumus, kā arī ierosina disciplinārlietas;
 5) pārzina zvērinātu advokātu palīgu sagatavošanu;
-6) (izslēgts ar 19.02.2004. likumu);
-7) apstiprina tiesas rajonā praktizējošo zvērinātu advokātu vecāko;
+6) ņemot vērā tiesu, prokuratūras un pirmstiesas izmeklēšanas iestāžu izvietojumu, kā arī iedzīvotāju skaitu attiecīgajā tiesas darbības teritorijā, nosaka tajā minimālo zvērinātu advokātu skaitu, kāds ir nepieciešams, lai nodrošinātu pietiekamu juridisko palīdzību, bet neierobežo maksimālo šajā tiesas darbības teritorijā praktizējošo zvērinātu advokātu skaitu;
+7) apstiprina tiesas darbības teritorijā praktizējošo zvērinātu advokātu vecāko, kā arī atbrīvo viņu no zvērinātu advokātu vecākā pienākumiem pēc viņa lūguma vai ja viņš nepilda šajā likumā noteiktos pienākumus;
 8) izdod zvērinātu advokātu un zvērinātu advokātu palīgu apliecības;
-9) uzdod zvērinātiem advokātiem un zvērinātu advokātu palīgiem tiesās un pirmstiesas izmeklēšanas iestādēs pēc nozīmējuma vest krimināllietas un to personu lietas, kuras likumā noteiktajā kārtībā atzītas par trūcīgām (maznodrošinātām), kā arī par atlīdzību vest tādu personu lietas, kas dibinātu iemeslu dēļ nevar atrast advokātu savas lietas vešanai;
-10) izveido konsultācijas juridiskās palīdzības sniegšanai mazturīgām personām;
+9) uzdod advokātiem tiesās, pirmstiesas izmeklēšanas un citās iestādēs par atlīdzību vest tādu personu lietas, kas dibinātu iemeslu dēļ nevar atrast advokātu savas lietas vešanai, kā arī pēc tiesas darbības teritorijas zvērinātu advokātu vecāko lūguma uzdod advokātiem veikt valsts nodrošināto aizstāvību vai pārstāvību kriminālprocesā vai likumā noteiktajos gadījumos sniegt valsts nodrošināto juridisko palīdzību;
+10) organizē konsultācijas juridiskās palīdzības sniegšanai trūcīgām vai maznodrošinātām personām;
 11) gādā par to zvērinātu advokātu un zvērinātu advokātu palīgu lietu nokārtošanu, kuri miruši, bez vēsts pazuduši, saslimuši vai citu iemeslu dēļ paši nevar kārtot savas un klientu lietas;
-12) nosaka atlīdzības lielumu advokātam pēc takses, ja viņam ar klientu šajā ziņā ir domstarpības un ja starp viņiem nav rakstveida vienošanās;
+12) nosaka advokāta atlīdzības apmēru un citus ar juridiskās palīdzības sniegšanu saistītos izdevumus atbilstoši šā likuma 57.pantam, ja advokātam ar klientu šajā ziņā pastāv strīds un ja starp viņiem nav noslēgta rakstveida vienošanās;
 13) nosaka zvērinātiem advokātiem un zvērinātu advokātu palīgiem Latvijas Zvērinātu advokātu kolēģijas uzturēšanai izdarāmo maksājumu kārtību un apmērus;
 14) nosaka kārtību, kādā zvērinātu advokātu vecākie organizē tiesas darbības teritorijā praktizējošo advokātu darbu, kā arī nosaka valsts nodrošinātās aizstāvības un pārstāvības veikšanai kriminālprocesā nepieciešamo advokātu dežūru grafiku sastādīšanas kārtību;
 15) nodrošina advokātu darba organizēšanu aizstāvības vai pārstāvības veikšanai kriminālprocesā pēc procesa virzītāja pieprasījuma, kā arī likumā noteiktajos gadījumos valsts nodrošinātās juridiskās palīdzības sniegšanai;

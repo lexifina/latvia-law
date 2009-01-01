@@ -1,1 +1,3 @@
-12. Likumā noteiktajos gadījumos valsts apmaksā advokātu sniegto juridisko palīdzību.
+12. Likumā noteiktajos gadījumos valsts apmaksā advokātu sniegto juridisko palīdzību un ar tās sniegšanu saistītos izdevumus.
+Atlīdzību un atlīdzināmos izdevumus, kas zvērinātu advokātu vecākajam radušies, organizējot valsts nodrošinātās aizstāvības vai pārstāvības veikšanu kriminālprocesā, sedz no valsts budžetā paredzētajiem līdzekļiem.
+Zvērinātu advokātu vecākā atlīdzības noteikšanas kārtību un apmērus, atlīdzināmo izdevumu veidus, atlīdzināmo izdevumu noteikšanas kārtību un apmērus, kā arī zvērinātu advokātu vecākā atlīdzības un atlīdzināmo izdevumu piešķiršanas kārtību un minēto finanšu līdzekļu izlietojuma pārskata saturu un iesniegšanas kārtību nosaka Ministru kabinets.
