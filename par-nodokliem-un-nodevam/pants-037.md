@@ -6,7 +6,7 @@
 3) Valsts ieņēmumu dienesta centrālā aparāta amatpersonas pieņemto lēmumu - Valsts ieņēmumu dienesta ģenerāldirektoram.
 (3) Nodokļu maksātājs, apstrīdot lēmumu, ir tiesīgs:
 1) prasīt atcelt lēmumu pilnīgi vai kādā tā daļā;
-2) prasīt samazināt aprēķināto soda naudu šajā likumā noteiktajā kārtībā;
+2) (izslēgts ar 11.12.2008. likumu);
 3) ierosināt noslēgt vienošanās līgumu šajā likumā noteiktajā kārtībā.
 (4) Izskatot nodokļu maksātāja iesniegumu, šā panta otrajā daļā minētās amatpersonas var pieņemt šādu lēmumu:
 1) atstāt apstrīdēto lēmumu negrozītu;

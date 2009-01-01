@@ -9,7 +9,8 @@
 7) nodevas par apliecinājumiem un citu funkciju pildīšanu bāriņtiesās - Bāriņtiesu likums;
 8) (izslēgts ar 25.11.1999. likumu);
 9) (izslēgts ar 13.04.2000. likumu);
-10) preču vai pakalpojumu loterijas organizēšanas valsts nodeva - Preču un pakalpojumu loteriju likums.
+10) preču vai pakalpojumu loterijas organizēšanas valsts nodeva - Preču un pakalpojumu loteriju likums;
+11) autoceļu lietošanas nodeva - Autoceļu lietošanas nodevas likums.
 (2) Valsts nodevas ir maksājamas par valsts sniegto nodrošinājumu, šādiem juridiskajiem pakalpojumiem un likumos paredzētajiem speciāliem mērķiem:
 1) (izslēgts ar 20.12.2001. likumu);
 2) par notariālo darbību izpildi;
@@ -50,7 +51,7 @@
 36¹) par kadastra izziņas sagatavošanu un izsniegšanu;
 37) (izslēgts ar 09.10.2002. likumu);
 38) par dokumentu īstuma apliecināšanu (legalizāciju);
-39) par atļaujas izsniegšanu veikt darbības, kuras nav komercdarbība, ar jonizējošā starojuma avotiem vai arī iegūt īpašumā jonizējošā starojuma avotus;
+39) par speciālās atļaujas (licences) vai atļaujas izsniegšanu darbībām ar jonizējošā starojuma avotiem;
 40) par valsts valodas prasmes atestāciju profesionālo un amata pienākumu veikšanai un par valsts valodas prasmes pārbaudi pastāvīgās uzturēšanās atļaujas un Eiropas Kopienas pastāvīgā iedzīvotāja statusa Latvijas Republikā pieprasīšanai;
 41) par atteikšanās no Latvijas pilsonības dokumentēšanu;
 42) par Latvijas pilsonības atjaunošanas dokumentēšanu;
@@ -63,7 +64,7 @@
 49) par būvprojektēšanai nepieciešamo tehnisko un īpašo noteikumu saņemšanu valsts un pašvaldību institūcijās;
 50) par apsardzes darbības kvalifikācijas pārbaudījuma kārtošanu un apsardzes sertifikāta izsniegšanu;
 51) par mednieka apliecības, mednieka sezonas kartes un medību atļaujas izsniegšanu, par atļaujas izsniegšanu ārvalstu medniekam medīt Latvijas Republikā un atļaujas izsniegšanu izvest medību trofejas no Latvijas Republikas, par mednieku un medību vadītāju eksāmeniem un par medījamo dzīvnieku nodarīto zaudējumu aprēķinu;
-52) par personas datu apstrādes sistēmas reģistrēšanu vai Fizisko personu datu aizsardzības likumā noteikto reģistrējamo izmaiņu izdarīšanu;
+52) par personas datu apstrādes reģistrēšanu vai Fizisko personu datu aizsardzības likumā noteikto reģistrējamo izmaiņu izdarīšanu;
 53) par sertifikācijas pakalpojumu sniedzēja akreditāciju un akreditācijas atjaunošanu (šo akreditāciju un akreditācijas atjaunošanu veic Datu valsts inspekcija);
 54) par informācijas sniegšanu no Valsts adrešu reģistra;
 55) par darba atļaujas pieprasīšanai nepieciešamo dokumentu izskatīšanu;
@@ -94,7 +95,12 @@
 80) par sociālo pakalpojumu sniedzēja reģistrācijas apliecības un tās dublikāta izsniegšanu;
 81) par pārbaudījuma organizēšanu maksātnespējas procesa administratora kvalifikācijas iegūšanai;
 82) par maksātnespējas procesa administratora sertifikāta darbības termiņa pagarināšanu;
-83) par ārējo personas datu apstrādes sistēmu auditoru akreditāciju;
-84) par ārējā personas datu apstrādes sistēmas auditora akreditācijas termiņa pagarināšanu, apliecības dublikāta izsniegšanu un akreditācijas darbības atjaunošanu;
+83) par personas datu apstrādes ārējā auditora pirmreizēju akreditāciju, atkārtotu akreditāciju, akreditācijas termiņa pagarināšanu, akreditācijas apliecības dublikāta izsniegšanu un akreditācijas darbības atjaunošanu;
+84) (izslēgts ar 11.12.2008. likumu);
 85) par ietekmes uz vidi sākotnējā izvērtējuma veikšanu;
-86) par stratēģiskas nozīmes preču ekspertu izziņu, galīgā izlietojuma apliecinājumu, importa sertifikātu, piegādes kontroles sertifikātu un stratēģiskas nozīmes preču pārvietošanas, eksporta, importa un tranzīta licenču izsniegšanu.
+86) par stratēģiskas nozīmes preču ekspertu izziņu, galīgā izlietojuma apliecinājumu, importa sertifikātu, piegādes kontroles sertifikātu un stratēģiskas nozīmes preču pārvietošanas, eksporta, importa un tranzīta licenču izsniegšanu;
+87) par atļaujas izsniegšanu un tās termiņa pagarināšanu tādu šķirņu sēklu izvietošanai tirgū, par kurām ir iesniegts iesniegums, bet kuras vēl nav iekļautas Latvijas augu šķirņu katalogā vai kādā no Eiropas Savienības dalībvalstu nacionālajiem katalogiem;
+88) par atļaujas izsniegšanu uz laiku tirgot sēklas, kas neatbilst minimālās dīgtspējas prasībām;
+89) par dzīvnieku barības apritē iesaistītā uzņēmuma reģistrāciju;
+90) par ģenētiski modificēto organismu riska novērtējuma atzinuma sagatavošanu;
+91) par speciālās atļaujas (licences) izsniegšanu kremācijas veikšanai.

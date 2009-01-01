@@ -1,0 +1,1 @@
+106. Attiecībā uz nokavētiem nodokļu maksājumiem, kuru maksāšanas termiņš iestājās 2008.gadā, šā likuma 24.panta pirmās daļas 5.punktā paredzētais iesnieguma iesniegšanas termiņš ir nosakāms, skaitot no 2009.gada 1.janvāra.
