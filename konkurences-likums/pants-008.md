@@ -7,7 +7,7 @@
 5) tirgus dalībnieku apvienošanos;
 6) paziņoto vienošanos;
 7) Reklāmas likuma pārkāpumiem.
-(2) Šā panta pirmajā daļā minētos Konkurences padomes lēmumus, izņemot lēmumus par lietas ierosināšanu un lēmuma pieņemšanas termiņa pagarināšanu, procesa dalībnieks var pārsūdzēt Administratīvajā apgabaltiesā viena mēneša laikā no šo lēmumu spēkā stāšanās dienas.
+(2) Šā panta pirmajā daļā minētos Konkurences padomes lēmumus, izņemot lēmumus par lietas ierosināšanu un lēmuma pieņemšanas termiņa pagarināšanu, procesa dalībnieks var pārsūdzēt Administratīvajā apgabaltiesā viena mēneša laikā no šo lēmumu spēkā stāšanās dienas. Tiesa lietu izskata kā pirmās instances tiesa. Lieta tiek izskatīta triju tiesnešu sastāvā. Administratīvās apgabaltiesas spriedumu var pārsūdzēt, iesniedzot kasācijas sūdzību.
 (3) Par Konkurences padomes amatpersonu likumīgo prasību neizpildīšanu noteiktajā termiņā iestājas administratīvā atbildība.
 (4) Konkurences padome ir tiesīga veikt citas normatīvajos aktos atļautās darbības, lai izpildītu šajā likumā tai paredzētos uzdevumus.
 (5) Konkurences padome ir atbrīvota no tiesas izdevumiem, ja tā iesniedz tiesā pieteikumu, iesniegumu vai sūdzību sakarā ar šā likuma un citu šajā jomā pieņemto normatīvo aktu pārkāpumiem.

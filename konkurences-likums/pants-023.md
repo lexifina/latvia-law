@@ -6,7 +6,7 @@
 3) Konkurences likuma normām, kuras, iespējams, ir pārkāptas;
 4) faktiem, kas liecina par personas pamatotu ieinteresētību likuma pārkāpuma novēršanā;
 5) pasākumiem, kas veikti pārkāpuma izbeigšanai pirms tam, kad Konkurences padome saņēmusi iesniegumu;
-6) faktiem, kas liecina par būtisku kaitējumu konkurencei, ja iesniegums iesniegts par šā likuma 18.panta trešās daļas 3. vai 4.punktā minēto pārkāpumu.
+6) (izslēgts ar 14.11.2008. likumu).
 (3) Konkurences padome pēc iesnieguma saņemšanas:
 1) izvērtē iesniegumā ietverto informāciju, ja nepieciešams, iegūst papildu informāciju;
 2) pārbauda, vai ir likumīgs iemesls un pietiekams pamats lietas ierosināšanai;

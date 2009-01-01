@@ -7,7 +7,7 @@
 3) analizē Konkurences padomē saņemtos iesniegumus un sagatavo lietas materiālus izskatīšanai Konkurences padomes sēdē;
 4) uzrauga šā likuma un Reklāmas likuma ievērošanu, veic tirgus uzraudzību un abu minēto likumu pārkāpumu izmeklēšanu;
 5) pārstāv Konkurences padomi tiesā un organizē Konkurences padomes lēmumu izpildi attiecībā uz šā likuma un Reklāmas likuma pārkāpumu izbeigšanu un naudas soda maksāšanu;
-6) sagatavo Konkurences padomes atzinumus par tirgus dalībnieku un citu personu darbības atbilstību šim likumam un Reklāmas likumam;
+6) sagatavo Konkurences padomes atzinumus par tirgus dalībnieku un citu personu darbības atbilstību šim likumam;
 7) sagatavo Konkurences padomes atzinumu projektus par Ministru kabinetā izskatāmajiem tiesību aktu projektiem, kuru realizācija tieši vai netieši var radīt draudus konkurences aizsardzībai, saglabāšanai vai attīstībai;
 8) sagatavo Konkurences padomes atzinumu projektus par konkurences aizsardzības principu ievērošanu valsts vai pašvaldības uzņēmumu (uzņēmējsabiedrību) privatizācijas, reorganizācijas un demonopolizācijas procesos;
 9) sagatavo Konkurences padomes priekšlikumus normatīvo aktu projektiem konkurences aizsardzības jomā;
