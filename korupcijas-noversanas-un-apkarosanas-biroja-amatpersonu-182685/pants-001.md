@@ -1,0 +1,2 @@
+1.pants. Likuma mērķis
+Likuma mērķis ir nodrošināt Korupcijas novēršanas un apkarošanas biroja amatpersonām Korupcijas novēršanas un apkarošanas biroja likumā noteiktās tiesības uz izdienas pensiju un noteikt kārtību, kādā izdienas pensija tiek piešķirta, aprēķināta un izmaksāta, garantējot Korupcijas novēršanas un apkarošanas biroja amatpersonām sociālo interešu aizsardzību, kompensējot darbspēju priekšlaicīgu zaudējumu, dienesta laikā noteiktos papildu ierobežojumus un slodzi, kā arī nodrošinot Korupcijas novēršanas un apkarošanas biroja stabilitāti un kvalitatīvu darbību.
