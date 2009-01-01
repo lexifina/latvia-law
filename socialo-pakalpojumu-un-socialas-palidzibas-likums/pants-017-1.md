@@ -2,3 +2,4 @@
 (1) Tiešās pārvaldes iestādes kā sociālo pakalpojumu sniedzējas izdotu administratīvo aktu vai faktisko rīcību apstrīd Sociālo pakalpojumu pārvaldē, bet tās lēmumu pārsūdz tiesā, ja likumā vai Ministru kabineta noteikumos nav noteikts citādi.
 (2) Citu personu kā sociālo pakalpojumu sniedzēju izdotu administratīvo aktu vai faktisko rīcību apstrīd un pārsūdz Administratīvā procesa likumā noteiktajā kārtībā.
 (3) Sociālo pakalpojumu pārvaldes darbinieku izdotu administratīvo aktu vai faktisko rīcību apstrīd Sociālo pakalpojumu pārvaldes direktoram, bet viņa lēmumu pārsūdz tiesā.
+(4) Šā likuma 13.panta 2.² daļā noteikto personu izdotos administratīvos aktus vai faktisko rīcību apstrīd Sociālo pakalpojumu pārvaldē kā augstākā iestādē, bet tās lēmumu pārsūdz tiesā.

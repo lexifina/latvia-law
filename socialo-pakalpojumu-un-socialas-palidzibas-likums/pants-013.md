@@ -1,16 +1,18 @@
 13.pants. Valsts pienākumi sociālo pakalpojumu sniegšanā
-(1) Valsts nodrošina:
+(1) Valsts nodrošina atbilstoši ikgadējā valsts budžeta likumā piešķirtajiem līdzekļiem:
 1) invalīdu profesionālo rehabilitāciju;
 2) redzes un dzirdes invalīdu sociālo rehabilitāciju;
 3) no vardarbības cietušo bērnu sociālo rehabilitāciju;
 4) sociālo rehabilitāciju attiecīgās institūcijās pilngadīgām personām un bērniem, kuriem ir izveidojusies atkarība no narkotiskajām, toksiskajām vai citām apreibinošām vielām;
 5) tehniskos palīglīdzekļus šā likuma 25.panta pirmajā daļā minētajām personām;
-6) personām ar funkcionāliem traucējumiem - sociālās rehabilitācijas pakalpojumus sociālās rehabilitācijas iestādēs. Funkcionālo traucējumu sarakstu apstiprina Ministru kabinets;
+6) personām ar funkcionāliem traucējumiem darbspējīgā vecumā- sociālās rehabilitācijas pakalpojumus sociālās rehabilitācijas iestādēs. Funkcionālo traucējumu sarakstu apstiprina Ministru kabinets;
 7) cilvēku tirdzniecības upuru sociālo rehabilitāciju. Sociālās rehabilitācijas saņemšanas kārtību un kritērijus personas atzīšanai par cilvēku tirdzniecības upuri nosaka Ministru kabinets;
 8) atbalsta programmu ar celiakiju slimajiem bērniem, kuriem nav noteikta invaliditāte. Atbalsta apjomu un nosacījumus tā saņemšanai nosaka Ministru kabinets;
 9) atbalstu profesionāla sociālā darba ieviešanai un attīstībai pašvaldībās. Atbalsta veidu, apjomu un nosacījumus tā saņemšanai nosaka Ministru kabinets;
-10) atbalstu pašvaldībām dzīvokļa pabalsta piešķiršanai personai (ģimenei) mantiskā veidā. Atbalsta apjomu un nosacījumus tā saņemšanai reglamentē Ministru kabinets.
+10) (izslēgts ar 18.12.2008. likumu).
 (2) Lai nodrošinātu šā panta pirmajā daļā minēto pienākumu izpildi, valsts var izveidot sociālās aprūpes un sociālās rehabilitācijas iestādes vai slēgt līgumus ar citiem sociālo pakalpojumu sniedzējiem.
+(2¹) Lai nodrošinātu šā panta pirmajā daļā minēto pienākumu izpildi, tās 2.punktā noteiktos pakalpojumus sniedz Latvijas Neredzīgo biedrība un Latvijas Nedzirdīgo savienība; tās 3.punktā noteiktos pakalpojumus sniedz Latvijas Bērnu fonds; tās 5.punktā noteiktos tehniskos palīglīdzekļus - tiflotehniku un surdotehniku - nodrošina Latvijas Neredzīgo biedrība un Latvijas Nedzirdīgo savienība. Ministru kabinets nosaka kārtību, kādā Latvijas Neredzīgo biedrība, Latvijas Nedzirdīgo savienība un Latvijas Bērnu fonds sniedz šīs daļas 1., 2. un 3.punktā noteiktos pakalpojumus.
+(2²) Īstenojot šā panta 2.¹ daļā minēto pienākumu izpildi, Latvijas Neredzīgo biedrība, Latvijas Nedzirdīgo savienība un Latvijas Bērnu fonds ir tiesīgi izdot administratīvos aktus.
 (3) Valsts piedalās personām ar garīga rakstura traucējumiem paredzēto dienas centru finansēšanā un atbilstoši ikgadējā valsts budžeta likumā piešķirtajām apropriācijām atbalsta un finansē citas programmas jaunu sociālo pakalpojumu veidu attīstīšanai pašvaldībās.
 (4) Šā panta trešajā daļā minēto dienas centru izveidošanas un uzturēšanas izdevumi tiek finansēti no valsts budžeta: centru izveidošanas gadā - 80 procentu, darbības pirmajā gadā - 60 procentu, otrajā gadā - 40 procentu, trešajā gadā - 20 procentu apmērā. Kritērijus dienas centru izveidošanas un uzturēšanas izdevumu noteikšanai, kā arī valsts līdzfinansējuma piešķiršanas un līdzfinansēšanas kārtību nosaka Ministru kabinets. Turpmākajos gados šie izdevumi 100 procentu apmērā tiek segti no pašvaldību budžetiem.
 (5) Valsts piedalās personām ar garīga rakstura traucējumiem paredzēto grupu māju (dzīvokļu) un pusceļa māju izveidošanas un aprīkošanas finansēšanā to izveidošanas gadā 50 procentu apmērā atbilstoši ikgadējā valsts budžeta likumā piešķirtajām apropriācijām. Kritērijus grupu māju (dzīvokļu) un pusceļa māju izveidošanas un aprīkošanas izdevumu noteikšanai, kā arī valsts līdzfinansējuma piešķiršanas un līdzfinansēšanas kārtību nosaka Ministru kabinets.
