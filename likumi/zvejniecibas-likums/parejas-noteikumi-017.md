@@ -1,0 +1,1 @@
+17. Ministru kabinets līdz 2009.gada 1.decembrim izdod šā likuma 7.panta otrajā daļā minētos noteikumus. Līdz to spēkā stāšanās dienai, bet ne ilgāk kā līdz 2009.gada 30.novembrim ir piemērojami Ministru kabineta 2005.gada 11.janvāra noteikumi Nr.39 "Kārtība, kādā izsniedzamas speciālās atļaujas (licences) komercdarbībai zvejniecībā", ciktāl tie nav pretrunā ar šo likumu.
