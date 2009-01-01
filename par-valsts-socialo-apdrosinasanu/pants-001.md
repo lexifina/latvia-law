@@ -4,7 +4,7 @@ Likumā ir lietoti šādi termini:
 2) darba ņēmējs:
 a) persona, kas uz darba līguma pamata par nolīgto darba samaksu veic noteiktu darbu darba devēja vadībā,
 b) (izslēgts ar 27.10.2005. likumu),
-c) Saeimas deputāts, pašvaldības deputāts, Ministru kabineta loceklis, komercsabiedrības valdes, padomes loceklis, prokūrists, kontrolieris, kā arī cita persona, kura ieņem amatu, kas dod tiesības uz atlīdzību,
+c) Saeimas deputāts, pašvaldības deputāts, Ministru kabineta loceklis, komercsabiedrības valdes, padomes loceklis, prokūrists, kontrolieris, Valsts probācijas dienesta brīvprātīgais probācijas darbinieks, kā arī cita persona, kura ieņem amatu, kas dod tiesības uz atlīdzību,
 d) persona, kura ir noslēgusi Civillikuma IV daļas 15.nodaļā paredzēto uzņēmuma, graudniecības vai pārvadājuma līgumu un nav reģistrējusies kā saimnieciskajā darbībā gūtā ienākuma nodokļa maksātāja,
 e) Iekšlietu ministrijas sistēmas iestādes un Ieslodzījuma vietu pārvaldes amatpersona ar speciālo dienesta pakāpi vai Aizsardzības ministrijas padotībā esošas struktūrvienības militārpersona,
 f) valsts civildienesta ierēdnis,
