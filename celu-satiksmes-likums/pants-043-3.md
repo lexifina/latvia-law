@@ -7,13 +7,15 @@
 a) vietā, kur uzstādīta papildzīme "Strādā autoevakuators",
 b) uz tramvaja sliežu klātnes vai tās tiešā tuvumā un neļauj braukt tramvajam,
 c) pasažieru sabiedrisko transportlīdzekļu pieturvietā vai stāvvietā vai tās tiešā tuvumā un neļauj iebraukt vai izbraukt pasažieru sabiedriskajam transportlīdzeklim,
-d) tā, ka tas neļauj braukt citiem transportlīdzekļiem vai to braukšanai tiek radīti būtiski traucējumi (citu transportlīdzekļu vadītāji ir spiesti nobraukt no brauktuves vai iebraukt tajā ceļa pusē, kas paredzēta braukšanai pretējā virzienā),
+d) tā, ka tas neļauj braukt citiem transportlīdzekļiem vai to braukšanai tiek radīti būtiski traucējumi (citu transportlīdzekļu vadītāji ir spiesti izbraukt no braukšanas joslas, nobraukt no brauktuves vai iebraukt tajā ceļa pusē, kas paredzēta braukšanai pretējā virzienā),
 e) uz gājēju pārejas,
 f) pilnīgi vai daļēji uz ietves un gājēji tā dēļ ir spiesti iziet uz brauktuves,
 g) uz dzelzceļa pārbrauktuves;
+h) uz tiltiem, estakādēm, ceļa pārvadiem un zem tiem;
 5) transportlīdzeklis novietots stāvēšanai apdzīvotās vietās pilnīgi vai daļēji uz brauktuves diennakts tumšajā laikā vai nepietiekamas redzamības apstākļos neapgaismotā ceļa posmā, kur apstāties aizliegts, tam nav iedegtas noteiktās ārējās apgaismes ierīces un tas citiem vadītājiem nav saredzams pietiekamā attālumā;
 6) transportlīdzeklis novietots stāvēšanai pilnīgi vai daļēji uz brauktuves ārpus apdzīvotām vietām diennakts tumšajā laikā vai nepietiekamas redzamības apstākļos un tam nav iedegtas noteiktās ārējās apgaismes ierīces;
-7) transportlīdzeklis Ministru kabineta noteiktajā kārtībā atzīstams par ilgstoši atstātu uz ceļa.
+7) transportlīdzeklis Ministru kabineta noteiktajā kārtībā atzīstams par ilgstoši atstātu uz ceļa;
+8) transportlīdzeklis atkārtoti (divas vai vairākas reizes gada laikā) novietots invalīdiem paredzētā un attiecīgi apzīmētā stāvvietā, ja transportlīdzeklī nav ievietota invalīdu stāvvietu izmantošanas karte atbilstoši Ceļu satiksmes noteikumos minētajām prasībām.
 (2) Transportlīdzekli no vietas, kur tas novietots stāvēšanai, uz citu -stāvēšanai atļautu vietu var pārvietot piespiedu kārtā saskaņā ar pašvaldības pilnvarotas amatpersonas lēmumu vai Valsts policijas priekšnieka rīkojumu no ielām:
 1) kuras nepieciešams atbrīvot oficiālo valsts vizīšu vai citu pasākumu nodrošināšanai;
 2) kurās paredzēts veikt ceļu būvniecības vai remonta darbus.

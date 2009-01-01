@@ -22,9 +22,12 @@
 (4) Transportlīdzekļa vadītājam, kuram ir tiesības vadīt A, B, C1, D1, C vai D kategorijas transportlīdzekļus, atļauts vadīt arī A1 un B1 kategorijas transportlīdzekļus.
 (4¹) Transportlīdzekļu vadītājam, kuram ir tiesības vadīt trolejbusu un vadītāja apliecībā izdarīta attiecīga atzīme, apdzīvotās vietās atļauts vadīt arī D1 un D kategorijai atbilstošu pasažieru sabiedrisko transportlīdzekli.
 (5) Traktortehnikas vadītāja apliecību kategorijām atbilstoša traktortehnika:
-1) A - riteņtraktori ar motora jaudu līdz 150 zirgspēkiem;
-2) B - visi riteņtraktori;
-3) C - visi kāpurķēžu traktori;
-4) D - graudaugu, tehnisko kultūru un zāles novākšanas kompleksa pašgājējmašīnas;
-5) E - autogreideri.
-(6) Speciālās traktortehnikas vadītāja apliecībās ieraksta tās traktortehnikas (meliorācijas, meža izstrādes un kopšanas mašīnas, ekskavatori, buldozeri, cauruļu licējmašīnas u.c.) nosaukumu, kuras vadīšanā reflektants nolicis eksāmenu.
+1) A - traktori, komunālā pašgājēja traktortehnika un universālās pašgājējmašīnas ar pilnu masu līdz 7500 kilogramiem;
+2) B - visi traktori, komunālā pašgājēja traktortehnika, buldozeri un universālās pašgājējmašīnas;
+3) C - ekskavatori un pašgājēji iekrāvēji;
+4) D - lauksaimniecības pašgājējmašīnas;
+5) E - autogreideri;
+6) F - meža izstrādes un kopšanas mašīnas;
+7) G - ceļu būves mašīnas;
+8) H - cita speciālā pašgājējtehnika.
+(6) (Izslēgta ar 15.05.2008. likumu.)
