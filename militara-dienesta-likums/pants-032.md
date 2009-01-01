@@ -1,5 +1,5 @@
 32.pants. Dienesta pakāpju piešķiršanas vispārīgie noteikumi
-(1) Aktīvajā dienestā iesauktajai vai pieņemtajai personai reizē ar ieskaitīšanu vienības personālsastāvā piešķir pirmo dienesta pakāpi. Aktīvajā dienestā pieņemtajam vai iesauktajam rezerves karavīram saglabā jau esošo dienesta pakāpi neatkarīgi no ieņemamā amata.
+(1) Aktīvajā dienestā iesauktajai vai pieņemtajai personai reizē ar ieskaitīšanu vienības personālsastāvā piešķir pirmo dienesta pakāpi. Aktīvajā dienestā pieņemtajam vai iesauktajam rezerves karavīram un rezervistam saglabā jau esošo dienesta pakāpi neatkarīgi no ieņemamā amata.
 (2) Dienesta pakāpes karavīriem piešķir:
 1) virsnieku dienesta pakāpes - Valsts prezidents pēc aizsardzības ministra ieteikuma, ja karavīra atbilstību likumā noteiktajām prasībām ir izvērtējusi Augstākā atestācijas komisija;
 2) augstāko instruktoru dienesta pakāpes - Nacionālo bruņoto spēku komandieris pēc spēku veida vai Nacionālo bruņoto spēku komandierim tieši pakļautās vienības komandiera (priekšnieka) ieteikuma;
