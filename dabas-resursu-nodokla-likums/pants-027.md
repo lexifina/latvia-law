@@ -18,3 +18,6 @@
 1) nodokli nemaksā, ja videi kaitīgu preču vai preču iepakojumā realizācija un izvešana notikusi vienā nodokļa maksāšanas periodā;
 2) samaksāto nodokļa summu ieskaita kā nodokļa avansa maksājumu, ja videi kaitīgu preču vai preču iepakojumā realizācija un izvešana notikusi dažādos nodokļa maksāšanas periodos un nodokļa maksātājs var dokumentāri pamatot nodokļa samaksu.
 (12) Persona, kuras saimnieciskajai darbībai ir sezonas raksturs un kura maksā nodokli par dabas resursu ieguvi un lietošanu un vidē emitēto piesārņojumu, pārskatu attiecīgajai Valsts ieņēmumu dienesta teritoriālajai iestādei iesniedz par attiecīgo taksācijas periodu, kad jāmaksā nodoklis.
+(13) Nodokļa maksātājs, kas savas saimnieciskās darbības nodrošināšanai ieved videi kaitīgas preces, kuras tiek izmantotas jaunu preču ražošanai, ja šīs jaunās preces tiek izvestas ārpus Latvijas Republikas teritorijas un nodokļa maksātājs var dokumentāri pamatot attiecīgo preču izvešanu:
+1) nodokli nemaksā, ja videi kaitīgu preču ievešana, izmantošana jaunu preču ražošanai un šo jauno preču izvešana notikusi vienā nodokļa maksāšanas periodā;
+2) par šīm precēm samaksāto nodokļa summu ieskaita kā nodokļa avansa maksājumu, ja videi kaitīgu preču ievešana, izmantošana jaunu preču ražošanai un šo jauno preču izvešana notikusi dažādos nodokļa maksāšanas periodos.

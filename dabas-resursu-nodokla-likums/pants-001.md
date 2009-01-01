@@ -8,4 +8,5 @@ Likumā ir lietoti šādi termini:
 6) limits - atļaujā vai licencē noteiktais maksimālais pieļaujamais dabas resursu ieguves, lietošanas vai emitējamā piesārņojuma (arī apglabājamo atkritumu) daudzums vai C kategorijas piesārņojošas darbības deklarācijā norādītais vidē emitētais piesārņojuma apjoms;
 7) saimnieciskā darbība - dabas resursu realizācija, preču ražošana, darbu izpilde, pakalpojumu sniegšana un cita veida darbība, ko veic par atlīdzību;
 8) videi kaitīgas preces - preces, kuru ražošanai vai izplatīšanai noteikti ierobežojumi vai kuru atkritumu apsaimniekošanai tiek noteiktas īpašas prasības, ja tās savā aprites ciklā negatīvi ietekmē vai var ietekmēt vidi, cilvēka dzīvību vai veselību;
-9) bioplastmasa - bioloģiski noārdāma plastmasa (biopolimērs), kuras sastāvdaļas pilnībā vai gandrīz pilnībā iegūtas no atjaunojamām izejvielām.
+9) bioplastmasa - bioloģiski noārdāma plastmasa (biopolimērs), kuras sastāvdaļas pilnībā vai gandrīz pilnībā iegūtas no atjaunojamām izejvielām;
+10) oksi-sadalāmā plastmasa - plastmasa (polimērs), kura iegūta no neatjaunojamām izejvielām un skābekļa un gaismas ietekmē sadalās sīkās sastāvdaļās, bet nav bioloģiski sadalāma (kompostējama).
