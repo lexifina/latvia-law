@@ -1,0 +1,1 @@
+6. Saskaņā ar šo likumu paredzēto atlīdzību (amatalgu, pabalstus u.c.) bāriņtiesas priekšsēdētājam, bāriņtiesas priekšsēdētāja vietniekam un bāriņtiesas loceklim 2009.gadā nosaka atbilstoši likumam "Par valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzību 2009.gadā".
