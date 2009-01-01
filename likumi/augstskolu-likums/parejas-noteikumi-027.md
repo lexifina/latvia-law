@@ -1,0 +1,1 @@
+27. Saskaņā ar šo likumu valsts un pašvaldību institūcijās noteikto atlīdzību (mēnešalgu, prēmijas, naudas balvas, pabalstus u.c.) 2009.gadā nosaka atbilstoši likumam "Par valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzību 2009.gadā".
