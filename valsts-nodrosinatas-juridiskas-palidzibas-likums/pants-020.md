@@ -1,3 +1,3 @@
 20.pants. Pārstāvības nodrošinājums
-(1) Kriminālprocesā noteiktajos gadījumos lēmumu par advokāta kā cietušās personas pārstāvja pieaicināšanu, ņemot vērā kriminālprocesa nosacījumus, pieņem procesa virzītājs, informējot par to Juridiskās palīdzības administrāciju.
-(2) Advokātu šajā pantā minētajos gadījumos izvēlas no to personu vidus, ar kurām Juridiskās palīdzības administrācija ir noslēgusi juridiskās palīdzības līgumu, ievērojot kriminālprocesa noteiktos ierobežojumus.
+(1) Valsts nodrošinātu advokātu par pārstāvi kriminālprocesā personai, kura atzīta par cietušo privātās apsūdzības lietā, nodrošina šajā likumā noteiktajā kārtībā.
+(2) Kārtība, kādā tiek iesniegts un izskatīts šajā likumā noteiktais iesniegums par juridisko palīdzību un pieņemts lēmums par juridiskās palīdzības piešķiršanu vai atteikumu to piešķirt, neattiecas uz pārstāvības nodrošināšanu publiskās apsūdzības lietā. Valsts nodrošinātu advokātu par personas pārstāvi publiskās apsūdzības lietās uzaicina Kriminālprocesa likumā noteiktajos gadījumos un kārtībā.
