@@ -1,6 +1,6 @@
 9. pants. Ar nodokli neapliekamo ienākumu veidi
 1. Gada apliekamajā ienākumā netiek ietverti un ar nodokli netiek aplikti šādi ienākumu veidi:
-1) ienākumi no maksātāja lauksaimnieciskās ražošanas un lauku tūrisma pakalpojumu sniegšanas, ja tie nepārsniedz 3000 latu gadā, ņemot vērā šā panta 3.¹ un 3.² daļas nosacījumus;
+1) ienākumi no maksātāja lauksaimnieciskās ražošanas un lauku tūrisma pakalpojumu sniegšanas, ja tie nepārsniedz 4000 latu gadā, ņemot vērā šā panta 3.¹ un 3.² daļas nosacījumus;
 2) fiziskās personas - individuālā uzņēmuma īpašnieka - ienākums no individuālā uzņēmuma, kurš ir uzņēmumu ienākuma nodokļa maksātājs, un fiziskajām personām izmaksātās dividendes no Latvijas Republikas kapitālsabiedrības vai kooperatīvās sabiedrības peļņas, kā arī no citas Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts rezidenta - sabiedrības peļņas, izņemot dividendes no iekšzemes uzņēmuma, kuram nav jāmaksā uzņēmumu ienākuma nodoklis, vai citas Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts rezidenta - sabiedrības, kurai nav jāmaksā uzņēmumu ienākuma nodoklim pēc būtības līdzīgs ienākuma nodoklis savā rezidences valstī, kā arī no tām kapitālsabiedrībām, kuras izmanto citos Latvijas Republikas likumos (izņemot likumā "Par uzņēmumu ienākuma nodokli") noteiktos uzņēmumu ienākuma nodokļa atvieglojumus vai atlaides vai pēc būtības līdzīgus citā Eiropas Savienības dalībvalstī un Eiropas Ekonomikas zonas valstī noteiktus ienākuma nodokļa atvieglojumus vai atlaides dividenžu deklarēšanas gadā vai iepriekšējā gadā;
 3) ienākumi no noguldījumiem un depozītiem Latvijas Republikā un citās Eiropas Savienības dalībvalstīs vai Eiropas Ekonomikas zonas valstīs reģistrētās kredītiestādēs un krājaizdevu sabiedrībās, kā arī ienākumi no hipotekārajām ķīlu zīmēm;
 4) apdrošināšanas atlīdzības, kuras izmaksājušas Latvijas Republikā reģistrētas apdrošināšanas sabiedrības, kas nodibinātas un darbojas saskaņā ar Apdrošināšanas sabiedrību un to uzraudzības likumu, kā arī citā Eiropas Savienības dalībvalstī vai Eiropas Ekonomikas zonas valstī reģistrētas apdrošināšanas sabiedrības, kas nodibinātas un darbojas saskaņā ar attiecīgās Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts normatīvajiem aktiem, izņemot tās apdrošināšanas atlīdzības, kas izmaksātas pēc dzīvības, veselības un negadījuma apdrošināšanas līguma, kuru apdrošinātā interesēs noslēdzis darba devējs (vai cits apdrošinājuma ņēmējs - juridiskā persona), pienākot apdrošināšanas līgumā paredzētajam līguma beigu termiņam vai laužot līgumu pirms termiņa;
@@ -22,8 +22,9 @@
 a) pārdošanai izgatavotas vai iegādātas lietas (ķermeniskas vai bezķermeniskas) pārdošanas,
 b) fiziskās personas īpašumā esoša augoša meža atsavināšanas izciršanai un tajā iegūto kokmateriālu atsavināšanas, ja mežs ir bijis šīs personas īpašumā mazāk par 36 mēnešiem,
 c) (izslēgts ar 17.05.2007. likumu),
-d) personāla akciju atpirkšanas;
-19¹) ienākums no tāda nekustamā īpašuma atsavināšanas, kas maksātāja īpašumā (no dienas, kad attiecīgais nekustamais īpašums reģistrēts zemesgrāmatā) ir ilgāk par 60 mēnešiem un vismaz divpadsmit mēnešus līdz atsavināšanas līguma noslēgšanas brīdim ir personas deklarētā dzīvesvieta (kas nav deklarēta kā maksātāja papildu adrese).
+d) personāla akciju atpirkšanas,
+e) tāda nekustamā īpašuma pārdošanas, kas ir bijis personas īpašumā mazāk par 12 mēnešiem;
+19¹) (izslēgts ar 14.11.2008. likumu);
 20) palīdzība, kas sniegta, pamatojoties uz arodbiedrības institūcijas lēmumu, no arodbiedrības naudas līdzekļiem, kuri veidojas no arodbiedrības biedru naudas maksājumiem un ārvalstu arodbiedrību ziedojumiem (dāvinājumiem) - gada neapliekamā minimuma apmērā;
 21) (izslēgts ar 19.12.2006. likumu);
 22) summas, kas izmaksātas kā valsts atbalsts lauksaimniecībai vai Eiropas Savienības atbalsts lauksaimniecībai un lauku attīstībai;
@@ -47,5 +48,5 @@ d) personāla akciju atpirkšanas;
 3) tās pētniecības darba vai radošā darba atbalstam.
 5. Šā panta pirmās daļas 7.punkta izpratnē pabalsti ir arī saskaņā ar Ministru kabineta noteikumiem piešķirtie mūža granti valsts emeritētajiem zinātniekiem un Kultūrkapitāla fonda piešķirtās mūža stipendijas kultūras un mākslas darbiniekiem par nopelniem kultūras un mākslas attīstībā.
 6. Ministru kabinets nosaka kārtību, kādā stipendijām no šā panta pirmās daļas 8.punktā minēto fondu vai starptautisko izglītības vai sadarbības programmu līdzekļiem piešķirams atbrīvojums no aplikšanas ar iedzīvotāju ienākuma nodokli.
-7. Ja tiek atsavināta nekustamā īpašuma daļa, kas neietver dzīvojamo ēku, bet nekustamais īpašums personas īpašumā (no dienas, kad attiecīgais nekustamais īpašums reģistrēts zemesgrāmatā) ir ilgāk par 60 mēnešiem un vismaz divpadsmit mēnešus līdz atsavināšanas līguma noslēgšanas brīdim ir personas deklarētā dzīvesvieta (kas nav deklarēta kā maksātāja papildu adrese), ienākums no šīs nekustamā īpašuma daļas atsavināšanas ir apliekams ar nodokli, izņemot šā likuma 11.⁷ pantā noteiktos gadījumus.
+7. (Izslēgta ar 14.11.2008. likumu.)
 8. Ja tiek atsavināts nekustamais īpašums, ko veido ēka vai būve un zeme, uz kuras atrodas ēka vai būve, bet uz šo zemi īpašuma tiesības iegūtas un zemesgrāmatā nostiprinātas vēlāk nekā uz ēku vai būvi, tad par nekustamā īpašuma iegādes brīdi uzskata dienu, kad ēka vai būve ierakstīta zemesgrāmatā.

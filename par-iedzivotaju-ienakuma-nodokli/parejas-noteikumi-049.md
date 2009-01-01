@@ -1,0 +1,1 @@
+49. Fiziskā persona, kura pirmstaksācijas gadā ir bijusi individuālā uzņēmuma īpašnieks un kura taksācijas gadā ir reģistrēta komercreģistrā kā individuālais komersants, taksācijas gadā veic avansa maksājumus.
