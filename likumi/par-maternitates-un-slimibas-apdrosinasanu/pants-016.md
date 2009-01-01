@@ -1,3 +1,3 @@
 16.pants. Slimības pabalsta piešķiršana personām, kurām darba nespēja iestājusies ikgadējā atvaļinājuma laikā vai laikā, kad tās bijušas atvaļinājumā bez darba samaksas saglabāšanas
 (1) Ja darba nespēja iestājusies ikgadējā atvaļinājuma laikā sakarā ar slima bērna kopšanu, pabalstu piešķir ar darba nespējas dienu, kad personai bija jāierodas darbā pēc atvaļinājuma beigām.
-(2) Ja darba nespēja iestājusies laikā, kad persona bijusi atvaļinājumā bez darba samaksas saglabāšanas, slimības pabalstu piešķir ar darba nespējas 15.dienu, taču ne ātrāk par dienu, kad personai bija jāierodas darbā pēc šā atvaļinājuma beigām.
+(2) Ja darba nespēja iestājusies laikā, kad persona bijusi atvaļinājumā bez darba samaksas saglabāšanas, slimības pabalstu piešķir ar darba nespējas 11.dienu, taču ne ātrāk par dienu, kad personai bija jāierodas darbā pēc šā atvaļinājuma beigām.
