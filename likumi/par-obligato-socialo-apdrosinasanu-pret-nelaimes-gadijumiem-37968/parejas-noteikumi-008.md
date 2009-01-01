@@ -1,0 +1,1 @@
+8. Darba ņēmējam, kuram saskaņā ar Ministru kabineta noteiktajā kārtībā izsniegtu darba nespējas lapu tiesības uz darba devēja izmaksājamo slimības naudu ir radušās līdz 2008.gada 31.decembrim un darba nespēja nepārtraukti turpinās pēc 2009.gada 1.janvāra, slimības naudu par pārejošas darbnespējas perioda 11. līdz 14.kalendāra dienu turpina izmaksāt darba devējs.
