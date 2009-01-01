@@ -1,0 +1,1 @@
+2. Šā likuma 11.panta piektajā daļā paredzētais nosacījums par apcietinātās personas izvietošanu atsevišķi no pārējiem ieslodzītajiem attiecināms uz Saeimas un Valsts prezidenta drošības dienesta bijušo darbinieku, viņa laulāto vai pirmās pakāpes radinieku.
