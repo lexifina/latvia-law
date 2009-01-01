@@ -1,0 +1,1 @@
+17. Saskaņā ar šo likumu noteikto atlīdzību (dienesta atalgojumu, naudas balvas, pabalstus u.c.) 2009.gadā nosaka atbilstoši likumam "Par valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzību 2009.gadā".
