@@ -1,7 +1,8 @@
 10.pants. Aģentūras kompetence
 (1) Saskaņā ar šo likumu Aģentūra:
 1) nodrošina fondēto pensiju shēmas dalībnieku kontu izveidi un aktualizāciju, reģistrējot veiktās iemaksas un uzkrāto fondētās pensijas kapitālu;
-2) periodiski informē fondēto pensiju shēmas dalībniekus par viņu konta stāvokli, kā arī citām būtiskām izmaiņām fondēto pensiju shēmas darbībā;
+2) informē personu par reģistrāciju fondēto pensiju shēmā un citām būtiskām izmaiņām fondēto pensiju shēmas darbībā;
+2¹) izsniedz vai nosūta fondēto pensiju shēmas dalībnieka konta izrakstu un informāciju par veikto līdzekļu pārvaldītāja vai ieguldījumu plāna maiņu, fondēto pensiju shēmas dalībniekam ierodoties personīgi vai iesniedzot rakstveida pieprasījumu;
 3) slēdz līgumus ar līdzekļu pārvaldītājiem par fondēto pensiju shēmas līdzekļu pārvaldīšanu un tās nosacījumiem;
 4) nodrošina fondēto pensiju shēmas dalībnieku iesniegumu izpildi par fondēto pensiju shēmas līdzekļu pārvaldītāju un ieguldījumu plānu izvēli un maiņu. Aģentūra nav tiesīga pēc savas iniciatīvas lemt par fondēto pensiju shēmas līdzekļu pārvaldītāja un ieguldījumu plāna maiņu, izņemot šā likuma 13.panta sestajā un septītajā daļā paredzētos gadījumus;
 5) Ministru kabineta noteiktajā kārtībā nodrošina šā likuma 7.panta izpildi;
