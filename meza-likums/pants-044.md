@@ -3,7 +3,7 @@
 (2) Valsts meža zeme ierakstāma zemesgrāmatā uz valsts vārda likumā noteiktajā kārtībā.
 (3) Valsts meža zeme pastāvīgā lietošanā netiek piešķirta un nav atsavināma vai privatizējama, izņemot šā panta ceturtajā daļā noteiktos gadījumus.
 (4) Zemesgrāmatā ierakstītās valsts meža zemes atsavināšanu vai privatizāciju var atļaut ar ikreizēju Ministru kabineta rīkojumu šādos gadījumos:
-1) veicot zemes maiņu likumā "Par zemes īpašnieku tiesībām uz kompensāciju par saimnieciskās darbības ierobežojumiem īpaši aizsargājamās dabas teritorijās un mikroliegumos" noteiktajos gadījumos un kārtībā;
+1) (izslēgts ar 14.11.2008. likumu);
 2) ja valsts meža zeme nepieciešama likumā "Par pašvaldībām" noteikto šādu pašvaldības autonomo funkciju veikšanai:
 a) ceļu būvniecība,
 b) kapsētu izveidošana vai paplašināšana,
