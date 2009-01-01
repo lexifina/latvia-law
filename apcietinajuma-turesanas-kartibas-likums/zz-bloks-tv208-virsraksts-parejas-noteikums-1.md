@@ -1,1 +1,0 @@
-Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta noteikumi Nr.288 "Apcietinājumā turēšanas kārtības likums" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2006, 11.nr.).
