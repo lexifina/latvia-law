@@ -1,0 +1,6 @@
+5.pants. Pašvaldības kompetence jaunatnes politikas jomā
+(1) Pašvaldība, pildot savas funkcijas, piedalās valsts jaunatnes politikas īstenošanā. Pašvaldība var izstrādāt arī vietēja līmeņa dokumentus jaunatnes politikas jomā.
+(2) Pašvaldības savā darbībā nodrošina jaunatnes organizācijām un jauniešu iniciatīvu grupām iespēju iesaistīties jaunatnes politiku ietekmējošu lēmumu apspriešanā pirms to pieņemšanas.
+(3) Pašvaldība var izveidot institucionālu sistēmu, lai nodrošinātu darbu ar jaunatni, nosakot atbildīgo institūciju vai ieceļot jaunatnes lietu speciālistu - personu, kas plāno, veic un koordinē darbu ar jaunatni, izveidojot jaunatnes lietu konsultatīvo komisiju vai paredzot citu kārtību, kādā veicams darbs ar jaunatni.
+(4) Ja pašvaldībā darbu ar jaunatni nodrošina jaunatnes lietu speciālists, viņš ir apmācāms Ministru kabineta noteiktajā kārtībā.
+(5) Ja pašvaldība izveido jaunatnes lietu konsultatīvo komisiju, kas veicina vietējās jaunatnes politikas saskaņotu izstrādi un īstenošanu, kā arī jauniešu līdzdalību lēmumu pieņemšanā, tās sastāvā iekļauj pašvaldības speciālistus, kuri veic darbu ar jaunatni, jaunatnes organizāciju, jauniešu iniciatīvu grupu vai citu biedrību un nodibinājumu, kas veic darbu ar jaunatni, pārstāvjus.
