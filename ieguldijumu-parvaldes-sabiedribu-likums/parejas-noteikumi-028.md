@@ -1,0 +1,1 @@
+28. Ja pieteikums par Finanšu un kapitāla tirgus komisijas administratīvo aktu administratīvajai rajona tiesai iesniegts līdz 2009.gada 1.janvārim, lēmumu par iesniegto pieteikumu pieņem, kā arī ierosināto administratīvo lietu izskata un tiesas nolēmumu šajā lietā pieņem un pārsūdz saskaņā ar Administratīvā procesa likuma noteikumiem.
