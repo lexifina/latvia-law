@@ -1,0 +1,1 @@
+3. Līdz dienai, kad ar šā likuma normām tiek saskaņotas citu likumu normu prasības par attīstības plānošanu teritorijā, šā likuma normas par attīstības plānošanu teritorijā piemērojamas tiktāl, ciktāl tās nav pretrunā ar citu likumu normām, kas attiecas uz teritorijas plānošanas un reģionālās attīstības plānošanas dokumentiem.

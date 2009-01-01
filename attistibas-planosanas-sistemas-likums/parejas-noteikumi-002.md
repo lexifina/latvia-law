@@ -1,0 +1,1 @@
+2. Tiešās pārvaldes iestādes pēc šā likuma spēkā stāšanās attīstības plānošanas dokumentus izstrādā atbilstoši šim likumam un līdz 2010.gada 1.janvārim nodrošina savā kompetencē esošo iepriekš pieņemto attīstības plānošanas dokumentu atbilstību šim likumam.
