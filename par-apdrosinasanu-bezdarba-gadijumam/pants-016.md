@@ -1,5 +1,4 @@
-16.pants. Ieturējumi no bezdarbnieka pabalsta un apbedīšanas pabalsta
-(1) Ieturējumus no bezdarbnieka pabalsta var izdarīt, pamatojoties uz:
-1) tiesas nolēmumiem un citu institūciju (amatpersonu) nolēmumiem, kurus izpilda normatīvajos aktos noteiktajā kārtībā;
-2) Valsts sociālās apdrošināšanas aģentūras direktora vai viņa pilnvarotas amatpersonas lēmumu, lai piedzītu tās bezdarbnieka pabalsta summas, kas bezdarbniekam pārmaksātas viņa vainas dēļ, ja viņš sniedzis nepatiesu vai nepilnīgu informāciju vai nav paziņojis par pārmaiņām, kuras ietekmē tiesības uz pabalstu. Šajā gadījumā katru mēnesi ieturami ne vairāk kā 10 procenti no izmaksājamā pabalsta apmēra un ieturētās summas ieskaitāmas nodarbinātības speciālajā budžetā.
-(2) Ieturējumus no apbedīšanas pabalsta neizdara.
+16.pants. Nepamatoti izmaksāto bezdarbnieka pabalsta summu atgūšana
+(1) Ieturējumus no bezdarbnieka pabalsta var izdarīt, pamatojoties uz tiesas nolēmumiem un citu institūciju (amatpersonu) nolēmumiem, kurus izpilda normatīvajos aktos noteiktajā kārtībā.
+(2) Valsts sociālās apdrošināšanas aģentūra lēmumu par personai piešķirtā bezdarbnieka pabalsta pārmaksu atgūšanu pieņem, lai atgūtu summas, kas personai pārmaksātas pašas personas vainas dēļ, ja tā sniegusi nepatiesu vai nepilnīgu informāciju vai nav paziņojusi par pārmaiņām, kuras ietekmē tiesības uz pabalstu.
+(3) Ja Valsts sociālās apdrošināšanas aģentūra konstatē, ka personai bezdarbnieka pabalsta saņemšanas laikā ir bijis vai ir darba ņēmēja vai pašnodarbinātā statuss un līdz ar to šī persona nepamatoti saņēmusi bezdarbnieka pabalstu, Valsts sociālās apdrošināšanas aģentūra pieņem lēmumu par šajā periodā pārmaksātās bezdarbnieka pabalsta summas atgūšanu, pamatojoties uz Valsts ieņēmumu dienesta informāciju par periodiem, kuros persona reģistrēta kā darba ņēmējs vai pašnodarbinātais.

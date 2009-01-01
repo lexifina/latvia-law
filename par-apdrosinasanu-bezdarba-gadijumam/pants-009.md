@@ -4,7 +4,7 @@
 2) bezdarbniekam ar apdrošināšanas stāžu no 10 līdz 19 gadiem (ieskaitot) - seši mēneši;
 3) bezdarbniekam ar apdrošināšanas stāžu no 20 gadiem (ieskaitot) - deviņi mēneši.
 (2) Bezdarbniekam, par kuru pirms bezdarbnieka statusa iegūšanas dienas iemaksas bezdarba gadījumam ir veiktas no valsts pamatbudžeta, un šā likuma 5.panta trešajā daļā noteiktajiem bezdarbniekiem bezdarbnieka pabalsta izmaksas ilgums ir deviņi mēneši.
-(3) Ja 12 mēnešu periodā personai bezdarbnieka pabalsts tiek piešķirts atkārtoti, to piešķir, ņemot vērā iepriekšējo šajā periodā piešķirto bezdarbnieka pabalsta saņemšanas ilgumu.
+(3) Ja 12 mēnešu periodā personai bezdarbnieka pabalsts tiek piešķirts atkārtoti, to piešķir, ņemot vērā šajā periodā iepriekš piešķirto bezdarbnieka pabalstu saņemšanas ilgumu dienās un ar bezdarbnieka pabalstu saņemšanas ilgumu saistīto pabalsta apmēra procentuālo sadalījumu.
 (4) Bezdarbnieka pabalstu atkarībā no bezdarba ilguma izmaksā šādā apmērā:
 1) bezdarbniekam ar apdrošināšanas stāžu no viena gada līdz deviņiem gadiem (ieskaitot):
 a) pirmos divus mēnešus - pilnā apmērā,
