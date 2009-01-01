@@ -1,4 +1,4 @@
 373.pants. Lietderības apsvērumi attiecībā uz tiešā spēka pielietošanu
 (1) Izvēloties tiešā spēka veidu un tā konkrēto formu, iestāde pamatojas uz attiecīgiem lietderības apsvērumiem (66.pants) un izvēlas visefektīvāko veidu un tā konkrēto formu, kas potenciāli vismazāk apdraud citu privātpersonu un sabiedrības intereses un vienlaikus vismazāk aizskar tās privātpersonas intereses, pret kuru tiešo spēku pielieto, it sevišķi vismazāk apdraud tās dzīvību, veselību un mantu.
 (2) Iespējamie zaudējumi, kas var rasties privātpersonai, pret kuru tiešo spēku pielieto, kā arī citai privātpersonai, nedrīkst būt acīmredzami nesamērīgi ar sabiedrības ieguvumu no administratīvā akta piespiedu izpildes.
-(3) Tiešā spēka pielietošana, kas tieši apdraud tās privātpersonas dzīvību, pret kuru piespiedu izpilde vērsta, ir pieļaujama vienīgi nolūkā glābt citas privātpersonas dzīvību.
+(3) Tiešā spēka pielietošana, kas tieši apdraud tās privātpersonas dzīvību, pret kuru piespiedu izpilde vērsta, ir pieļaujama vienīgi nolūkā glābt citas personas dzīvību.

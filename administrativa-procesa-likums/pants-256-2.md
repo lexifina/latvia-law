@@ -1,0 +1,3 @@
+256.² pants. Spriedums par procesuālā pārkāpuma konstatēšanu
+(1) Ja tiesa atzīst par pamatotu pieteikumu par administratīvā akta izdošanas procesā pieļauta procesuālā pārkāpuma konstatēšanu, tā taisa spriedumu, kurā tiek atzīts, ka administratīvā akta izdošanas procesā ir pieļauts attiecīgs procesuālais pārkāpums vai pārkāpumi, kas radījuši būtisku personas konkrētu tiesību vai tiesisko interešu aizskārumu.
+(2) Ja līdz ar pieteikumu par administratīvā akta izdošanas procesā pieļauta procesuālā pārkāpuma konstatēšanu likumā noteiktajā kārtībā prasīta zaudējumu vai kaitējumu atlīdzināšana un tiesa to atzīst par pamatotu, tā taisa spriedumu arī par atlīdzinājuma apmēru.

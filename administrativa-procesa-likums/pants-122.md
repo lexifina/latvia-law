@@ -1,3 +1,2 @@
 122.pants. Piekritība
-(1) Administratīvo lietu pirmajā instancē izskata administratīvā rajona tiesa.
-(2) Pieteikumu administratīvajā lietā iesniedz tiesā pēc tās iestādes adreses, kuras rīcība tiek pārsūdzēta, ja likums nenosaka citādi.
+Administratīvo lietu pirmajā instancē izskata tajā Administratīvās rajona tiesas tiesu namā, kurā atbilstoši šā likuma 189.panta pirmajai daļai iesniedzams pieteikums, ja likums nenosaka citādi. Ja lietu kā pirmās instances tiesa izskata Administratīvā rajona tiesa un tai ir nepieciešams pārbaudīt informāciju, kas ir valsts noslēpuma objekts, šādu lietu izskata Administratīvās rajona tiesas Rīgas tiesu namā.

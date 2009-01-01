@@ -9,4 +9,4 @@
 7) lēmuma pārsūdzēšanas kārtību un termiņu.
 (2) Izņēmuma gadījumā tiesa var sastādīt lēmumu bez tā motīvu daļas (saīsināts lēmums). Pilnu lēmumu tiesa sastāda septiņu dienu laikā.
 (3) Gadījumā, kad tiesa, izskatot blakus sūdzību, atzīst, ka zemākās instances tiesas lēmumā ietvertais pamatojums ir pareizs un pilnībā pietiekams, tiesa par blakus sūdzību pieņemtā lēmuma motīvu daļā var norādīt, ka pievienojas zemākās instances tiesas nolēmuma motivācijai. Šādā gadījumā izvērstāks argumentu izklāsts nav nepieciešams.
-(4) Izņēmuma gadījumā, ja tiesa atzīst, ka konkrētajā tiesas sēdē (vai dienā, kad jautājums izskatāms rakstveida procesa kārtībā) nav iespējams taisīt lēmuma rezolutīvo daļu, tā procesa dalībniekiem paziņo datumu tuvāko 10 dienu laikā, kad lēmums būs sastādīts un pieejams tiesas kancelejā.
+(4) Izņēmuma gadījumā, ja tiesa atzīst, ka konkrētajā tiesas sēdē (vai dienā, kad jautājums izskatāms rakstveida procesa kārtībā) nav iespējams taisīt lēmuma rezolutīvo daļu, tā procesa dalībniekiem paziņo datumu tuvāko 14 dienu laikā, kad lēmums būs sastādīts un pieejams tiesas kancelejā.

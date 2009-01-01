@@ -1,6 +1,6 @@
 69.pants. Administratīvā akta formas neievērošana
 (1) Administratīvo aktu var izdot mutvārdos vai citādi, neievērojot šā likuma 67.panta noteikumus, ja ir viens no šādiem nosacījumiem:
-1) administratīvā akta izdošana ir steidzama un jebkura kavēšanās tieši apdraud valsts drošību, sabiedrisko kārtību, privātpersonas dzīvību, veselību vai mantu;
+1) administratīvā akta izdošana ir steidzama un jebkura kavēšanās tieši apdraud valsts drošību, sabiedrisko kārtību, vidi, personas dzīvību, veselību vai mantu;
 2) tas paredzēts piemērojamā normatīvajā aktā;
 3) gadījums ir objektīvi mazsvarīgs;
 4) administratīvā akta izdošana rakstveidā nav iespējama vai nav adekvāta.

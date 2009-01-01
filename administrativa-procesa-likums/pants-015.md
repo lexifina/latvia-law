@@ -2,7 +2,7 @@
 (1) Iestāde un tiesa administratīvajā procesā piemēro ārējos normatīvos aktus, starptautisko tiesību un Eiropas Savienības (Kopienu) tiesību normas, kā arī vispārējos tiesību principus (4.pants).
 (2) Iestāde un tiesa ievēro šādu ārējo normatīvo aktu juridiskā spēka hierarhiju:
 1) Satversme;
-2) likums un Satversmes 81.panta kārtībā izdotie Ministru kabineta noteikumi;
+2) likums;
 3) Ministru kabineta noteikumi;
 4) pašvaldību saistošie noteikumi.
 (3) Starptautisko tiesību normas neatkarīgi no to avota piemēro atbilstoši to vietai ārējo normatīvo aktu juridiskā spēka hierarhijā. Ja konstatē pretrunu starp starptautisko tiesību normu un tāda paša juridiskā spēka Latvijas tiesību normu, piemēro starptautisko tiesību normu.

@@ -1,0 +1,1 @@
+4.¹ Ja šā likuma 185.panta ceturtās daļas 9., 10. vai 11.punktā minēto administratīvo aktu darbība pirms 2009.gada 1.janvāra ir apturēta atbilstoši šā likuma 185.panta pirmajai daļai, attiecīgo administratīvo aktu darbība atjaunojas ar 2009.gada 1.februāri. Šo administratīvo aktu darbību var likumā noteiktajā kārtībā lūgt apturēt.

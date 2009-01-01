@@ -4,3 +4,4 @@
 (3) Ja jautājums, par kuru sniegta uzziņa, vēlākā administratīvajā lietā ir viens no vairākiem jautājumiem, kas iestādei jāvērtē, tad šis vērtējums nevar būt adresātam nelabvēlīgāks, izņemot gadījumu, kad citādi lietas kopējais iznākums būtu adresātam nelabvēlīgāks vai arī tas būtu prettiesisks.
 (4) Uzziņu var apstrīdēt augstākā iestādē. Ja augstākas iestādes nav vai tā ir Ministru kabinets, tad uzziņa nav apstrīdama. Tā nav pārsūdzama tiesā.
 (5) Šā panta otrajā un trešajā daļā noteiktās tiesiskās sekas neiestājas, ja uzziņa nav izdota rakstveidā vai ja tā panākta ar apzināti nepatiesu ziņu sniegšanu, kukuļošanu, spaidiem, draudiem vai citām krimināli vai administratīvi sodāmām darbībām.
+(6) Iestādes rīcība, nesniedzot uzziņu vai atsakot uzziņas sniegšanu, apstrīdama un pārsūdzama šā likuma 91.panta trešajā daļā noteiktajā kārtībā.

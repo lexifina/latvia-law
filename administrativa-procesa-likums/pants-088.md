@@ -1,5 +1,4 @@
-88.pants. Administratīvā procesa uzsākšana no jauna pēc iestādes iniciatīvas
-(1) Ja administratīvais akts stājies spēkā un kļuvis neapstrīdams, iestāde pēc savas iniciatīvas var uzsākt administratīvo procesu no jauna tajā pašā lietā, ja tai kļuvuši zināmi vai ir pieejami jauni pierādījumi, kas var būt par pamatu adresātam labvēlīgāka administratīvā akta izdošanai nekā spēkā esošais administratīvais akts.
-(2) Iestādei ir pienākums uzsākt administratīvo procesu no jauna tajā pašā lietā tad, ja tas nepieciešams, lai izpildītu šajā lietā pieņemtu Satversmes tiesas spriedumu, ar kuru piemērotā tiesību norma atzīta par neatbilstošu augstāka juridiska spēka tiesību normai.
-(3) Iestādei ir pienākums uzsākt administratīvo procesu no jauna tajā pašā lietā tad, ja tas nepieciešams, lai izpildītu šajā lietā pieņemtu Eiropas Cilvēktiesību tiesas vai citas starptautiskas vai pārnacionālas tiesas nolēmumu. Šādā gadījumā iestāde, pieņemot lēmumu atsāktajā lietā, balstās uz attiecīgās tiesas nolēmumā konstatētajiem faktiem un to juridisko vērtējumu.
-(4) Administratīvo procesu no jauna tajā pašā lietā var uzsākt iestāde, kurai lieta ir piekritīga no jauna ierosinātajā administratīvajā procesā, neatkarīgi no tā, kura iestāde izdevusi attiecīgo administratīvo aktu sākotnējā administratīvajā procesā.
+88.pants. Iestādes pienākums uzsākt administratīvo procesu no jauna
+Iestādei ir pienākums uzsākt administratīvo procesu no jauna tajā pašā lietā tad, ja tas nepieciešams, lai izpildītu šajā lietā pieņemtu:
+1) Satversmes tiesas spriedumu, ar kuru piemērotā tiesību norma atzīta par neatbilstošu augstāka juridiska spēka tiesību normai;
+2) Eiropas Cilvēktiesību tiesas vai citas starptautiskas vai pārnacionālas tiesas nolēmumu. Šādā gadījumā iestāde, pieņemot lēmumu atsāktajā lietā, balstās uz attiecīgās tiesas nolēmumā konstatētajiem faktiem un to juridisko vērtējumu.

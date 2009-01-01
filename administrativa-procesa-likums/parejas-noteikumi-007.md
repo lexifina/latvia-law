@@ -1,0 +1,1 @@
+7. Administratīvā apgabaltiesa un Augstākās tiesas Senāts lietās, kuras ierosinātas par iestādes rīcību, kas izpaudusies kā izziņas nesniegšana vai atteikums sniegt izziņu, kā arī kā uzziņas nesniegšana vai atteikums sniegt uzziņu, pabeidz uzsāktās lietas izskatīšanu. Administratīvās apgabaltiesas nolēmums šādos gadījumos nav tālāk pārsūdzams.

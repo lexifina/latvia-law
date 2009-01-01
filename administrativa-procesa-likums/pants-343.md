@@ -1,2 +1,2 @@
-343.pants. Administratīvā procesa dalībnieku pieteikumu izlemšana
-Administratīvā procesa dalībnieka pieteikumu, kas saistīts ar lietas izskatīšanu, izlemj tiesas sēdē pēc citu administratīvā procesa dalībnieku viedokļa noklausīšanās.
+343.pants. Administratīvā procesa dalībnieku lūgumu izlemšana
+Administratīvā procesa dalībnieka lūgumu, kas saistīts ar lietas izskatīšanu, izlemj pēc citu administratīvā procesa dalībnieku viedokļa noklausīšanās.

@@ -1,7 +1,7 @@
 251.pants. Sprieduma forma un saturs
 (1) Spriedumu sastāda rakstveidā.
 (2) Spriedums sastāv no ievaddaļas, aprakstošās daļas, motīvu daļas un rezolutīvās daļas.
-(3) Ievaddaļā norāda, ka spriedums taisīts Latvijas tautas vārdā, kā arī sprieduma taisīšanas laiku, tās tiesas nosaukumu, kura taisījusi spriedumu, tiesas sastāvu, administratīvā procesa dalībniekus un pieteikuma priekšmetu. Ja lieta izskatīta rakstveida procesā, ievaddaļā norāda uz šo faktu.
+(3) Ievaddaļā norāda, ka spriedums taisīts Latvijas tautas vārdā, kā arī sprieduma taisīšanas vietu un laiku, tās tiesas nosaukumu, kura taisījusi spriedumu, tiesas sastāvu, administratīvā procesa dalībniekus un pieteikuma priekšmetu. Ja lieta izskatīta rakstveida procesā, ievaddaļā norāda uz šo faktu.
 (4) Aprakstošajā daļā norāda pieteicēja prasījumus un atbildētāja iebildumus, kā arī administratīvā procesa dalībnieku sniegto paskaidrojumu būtību. Ja lieta izskatīta rakstveida procesā, aprakstošajā daļā norāda uz administratīvā procesa dalībnieku piekrišanu.
 (5) Motīvu daļā norāda:
 1) lietā konstatētos faktus, pierādījumus, uz kuriem pamatoti tiesas secinājumi, un argumentus, ar kuriem noraidīti vieni vai otri pierādījumi;
