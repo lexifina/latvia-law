@@ -12,7 +12,7 @@
 10) pieņemt lēmumu par nodokļu revīzijas (audita) veikšanu un ne vēlāk kā 10 darbdienas pirms tās uzsākšanas rakstveidā informēt nodokļu maksātāju par nodokļu revīzijas (audita) veikšanu, norādot nodokļu revīzijas (audita) uzsākšanas dienu, revīzijas (audita) termiņu, pārbaudāmos nodokļus, nodokļu deklarācijas posteņus, pārbaudāmās nodevas vai citus valsts noteiktos maksājumus un taksācijas periodus;
 11) piedzīt bezstrīda kārtībā termiņā nesamaksātos nodokļus, nokavējuma naudas, soda naudas un citus valsts noteiktos maksājumus šā likuma 26.pantā paredzētajā kārtībā;
 12) nodrošināt publiski pieejamu pievienotās vērtības nodokļa maksātāju reģistru;
-13) nodrošināt publiski pieejamu izsniegto stingrās uzskaites pavadzīmju-rēķinu un pavadzīmju numuru vienoto datu bāzi (reģistru);
+13) nodrošināt publiski pieejamu izsniegto pavadzīmju numuru vienoto datu bāzi (reģistru);
 14) nodrošināt publiski pieejamu nodokļu un citu maksājumu reģistrēšanas elektronisko ierīču un iekārtu, to lietotāju un apkalpojošo dienestu vienoto datu bāzi (reģistru);
 15) (izslēgts ar 31.01.2008. likumu);
 16) visos gadījumos, kad nodokļu maksātājs izdarījis nodokļu pārkāpumu, par kuru paredzēta kriminālatbildība, 10 dienu laikā no dienas, kad nodokļu administrācijas ierēdnis (darbinieks) to konstatējis, iesniegt par to ziņojumu attiecīgajai valsts institūcijai, kura izlemj jautājumu par kriminālprocesa uzsākšanu;
