@@ -1,2 +1,2 @@
 21.pants. Lēmuma pieņemšanas termiņš
-Atbildīgā iestāde vai sadarbības iestāde lēmumu par Eiropas Savienības fonda projekta iesnieguma apstiprināšanu vai noraidīšanu pieņem ne ilgāk kā triju mēnešu laikā pēc Eiropas Savienības fonda projekta iesniegumu iesniegšanas beigu datuma.
+Atbildīgā iestāde vai sadarbības iestāde lēmumu par Eiropas Savienības fonda projekta iesnieguma apstiprināšanu, apstiprināšanu ar nosacījumu vai noraidīšanu pieņem ne vēlāk kā triju mēnešu laikā pēc Eiropas Savienības fonda projekta iesnieguma iesniegšanas beigu datuma.

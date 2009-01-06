@@ -10,4 +10,5 @@ Lai nodrošinātu Eiropas Savienības fondu vadību, Ministru kabinets nosaka:
 8) kārtību, kādā nodrošina Eiropas Savienības fondu publicitāti un vizuālās identitātes prasību ievērošanu;
 9) Eiropas Savienības fondu vadības informācijas sistēmas izveidošanas un izmantošanas kārtību;
 10) kārtību, kādā īsteno darbības programmas papildinājumā norādītās Eiropas Savienības fonda aktivitātes, nosaka projektu iesniegumu vērtēšanas kritērijus, prasības projekta iesniedzējam, atbildīgo iestādi un sadarbības iestādi, kompetences sadalījumu starp šīm iestādēm un sadarbības kārtību, kā arī atbildīgās iestādes un sadarbības iestādes funkcionālās padotības formu;
-11) prasības Eiropas Savienības fondu vadības un kontroles sistēmas izveidošanai.
+11) prasības Eiropas Savienības fondu vadības un kontroles sistēmas izveidošanai;
+12) kārtību, kādā sniedz un pārbauda informāciju par pievienotās vērtības nodokļa piemērošanu Eiropas Savienības struktūrfondu līdzfinansēto un Eiropas Kopienas iniciatīvas EQUAL finansēto projektu ietvaros un pieņem lēmumu par pievienotās vērtības nodokļa iekļaušanu projektu attiecināmajās izmaksās.

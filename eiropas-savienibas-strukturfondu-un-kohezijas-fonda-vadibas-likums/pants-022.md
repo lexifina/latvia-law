@@ -2,4 +2,5 @@
 (1) Eiropas Savienības fonda projekta iesniedzējs var apstrīdēt un pārsūdzēt šā likuma 19.panta pirmajā daļā minētos lēmumus, ievērojot šā likuma 20.panta trešās daļas noteikumus.
 (2) Sadarbības iestādes lēmumu var apstrīdēt par Eiropas Savienības fonda aktivitātes vadību atbildīgajā iestādē. Atbildīgās iestādes lēmumu par sadarbības iestādes apstrīdēto lēmumu var pārsūdzēt administratīvajā tiesā.
 (3) Atbildīgās iestādes lēmumu var apstrīdēt tās tiešās pārvaldes iestādes vadītājam, kuras ietvaros izveidota atbildīgā iestāde. Lēmumu nevar apstrīdēt Ministru kabineta loceklim. Tiešās pārvaldes iestādes vadītāja lēmumu par atbildīgās iestādes apstrīdēto lēmumu, ja ievērota šajā likumā noteiktā lietas ārpustiesas izskatīšanas kārtība, var pārsūdzēt administratīvajā tiesā.
+(3¹) Atzinumu par lēmumā ietvertā nosacījuma izpildi apstrīd un pārsūdz tādā kārtībā un termiņos kā lēmumu, par kurā ietvertā nosacījuma izpildi sagatavots atzinums. Atzinumu par lēmumā ietvertā nosacījuma izpildi var apstrīdēt un pārsūdzēt arī atsevišķi no lēmuma, kurā ietverts nosacījums.
 (4) Lēmuma apstrīdēšana vai pārsūdzēšana neaptur tā darbību.
