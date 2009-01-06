@@ -1,0 +1,1 @@
+8. Līdz zemnieku un zvejnieku saimniecību tiesiskā regulējuma nodrošināšanai atbilstoši Zemnieku un zvejnieku saimniecību likumam par vienas krājaizdevu sabiedrības biedru bez balsstiesībām var būt zemnieka vai zvejnieka saimniecība, ja krājaizdevu sabiedrības biedram pieder 100 procenti attiecīgās saimniecības daļu.

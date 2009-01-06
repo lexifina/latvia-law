@@ -2,7 +2,7 @@
 Komisija var anulēt krājaizdevu sabiedrībai izsniegto speciālo atļauju (licenci), ja:
 1) krājaizdevu sabiedrība nav uzsākusi savu darbību 12 mēnešu laikā kopš speciālās atļaujas (licences) izsniegšanas dienas;
 2) tiek konstatēts, ka krājaizdevu sabiedrība sniegusi nepatiesas ziņas speciālās atļaujas (licences) saņemšanai;
-3) krājaizdevu sabiedrība neievēro Komisijas noteiktos darbības ierobežojumus, tajā skaitā pastiprinātās uzraudzības kārtībā noteiktos darbības ierobežojumus;
+3) krājaizdevu sabiedrība neievēro Komisijas noteiktos darbības ierobežojumus;
 4) krājaizdevu sabiedrība regulāri neievēro šā likuma prasības un Komisijas normatīvos noteikumus un rīkojumus;
 5) tiesa apstiprinājusi šajā likumā noteiktajā kārtībā pieņemtu lēmumu par krājaizdevu sabiedrības bankrota procedūras uzsākšanu;
 6) Komisija saņēmusi krājaizdevu sabiedrības iesniegumu par speciālās atļaujas (licences) anulēšanu sakarā ar krājaizdevu sabiedrības darbības izbeigšanu saskaņā ar šo likumu;

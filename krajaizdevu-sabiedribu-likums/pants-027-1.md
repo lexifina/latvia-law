@@ -4,5 +4,5 @@
 (3) Ziņu apjomu un kārtību, kādā Kredītu reģistrā esošās ziņas tiek sniegtas aizņēmējam, aizņēmēja galviniekam, krājaizdevu sabiedrībai un Finanšu un kapitāla tirgus komisijai, nosaka Latvijas Banka.
 (4) No Kredītu reģistra saņemtās ziņas krājaizdevu sabiedrība nedrīkst izpaust trešajām personām, izņemot to personu, par kuru ziņas saņemtas.
 (5) Lai segtu Kredītu reģistra uzturēšanas izdevumus, krājaizdevu sabiedrība un Finanšu un kapitāla tirgus komisija maksā Latvijas Bankai maksu par Kredītu reģistra izmantošanu. Maksas apmēru un maksāšanas kārtību nosaka Latvijas Banka.
-(6) Ja krājaizdevu sabiedrība nepilda šā panta pirmās daļas prasības vai nepamatoti pieprasa Kredītu reģistrā esošās ziņas, Latvijas Banka ir tiesīga uzlikt tai soda naudu līdz 5000 latiem.
+(6) (Izslēgta ar 04.12.2008. likumu.)
 (7) Latvijas Banka izmanto Kredītu reģistrā esošās ziņas likumā noteikto funkciju īstenošanai. Latvijas Bankai ir tiesības daļēji segt Kredītu reģistra uzturēšanas izdevumus.
