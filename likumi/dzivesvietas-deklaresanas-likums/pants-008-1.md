@@ -5,7 +5,7 @@
 2) uzvārds;
 3) personas kods;
 4) dzīvesvietas adrese;
-5) iepriekšējās dzīvesvietas adrese;
+5) (izslēgts ar 04.12.2008. likumu);
 6) tiesiskais pamats dzīvot deklarējamā dzīvesvietā;
 7) pases vai cita Latvijā derīga personu apliecinoša dokumenta numurs.
 (3) Dzīvesvietas deklarētājam vai viņa likumiskajam pārstāvim ir tiesības deklarācijas iesniegumā norādīt dzīvesvietas deklarētāja papildu adresi (adreses), minot laikposmu, kurā viņš tajā (tajās) ir sasniedzams.

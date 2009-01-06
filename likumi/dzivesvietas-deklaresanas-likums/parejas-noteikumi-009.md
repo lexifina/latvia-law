@@ -1,0 +1,1 @@
+9. Šā likuma 8.panta otrajā daļā minētais nosacījums, ka dzīvesvietas deklarētājs vai viņa likumiskais pārstāvis deklarāciju Pārvaldei var iesniegt elektroniski, izmantojot tikai speciālu tiešsaistes formu, stājas spēkā 2009.gada 1.jūlijā.
