@@ -1,6 +1,6 @@
-27.¹ pants. Valsts, pašvaldību, komersantu un māju ceļu zemes nodalījuma josla
-(1) Autoceļu būvniecībai, uzturēšanai un aizsardzībai tiek noteikta ceļu zemes nodalījuma josla.
-(2) Valsts, pašvaldību, komersantu un māju ceļu zemes nodalījuma joslas minimālais platums no autoceļa ass uz katru pusi ir:
+27.¹ pants. Valsts, pašvaldību un komersantu autoceļu ceļu zemes nodalījuma josla
+(1) Valsts, pašvaldību un komersantu autoceļu būvniecībai, uzturēšanai un aizsardzībai tiek noteikta ceļu zemes nodalījuma josla.
+(2) Valsts, pašvaldību un komersantu autoceļu ceļu zemes nodalījuma joslas minimālais platums no autoceļa ass uz katru pusi ir:
 1) 25 metri - divu brauktuvju autoceļam ar sadalošo joslu līdz 10 metriem;
 2) 15,5 metri - vienas brauktuves autoceļam ar klātnes platumu no 12,5 metriem līdz 20 metriem;
 3) 13,5 metri - vienas brauktuves autoceļam ar klātnes platumu no 10,5 metriem līdz 12 metriem;

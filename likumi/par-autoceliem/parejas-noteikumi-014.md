@@ -1,0 +1,1 @@
+14. Ministru kabinets līdz 2009.gada 1.jūlijam izdod šā likuma 5.panta septītajā daļā minētos noteikumus. Līdz attiecīgo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2009.gada 1.jūlijam piemērojami Ministru kabineta 2001.gada 6.februāra noteikumi Nr.48 "Noteikumi par lielgabarīta un smagsvara pārvadājumiem", ciktāl tie nav pretrunā ar šo likumu.
