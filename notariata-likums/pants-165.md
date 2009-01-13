@@ -1,2 +1,2 @@
 165. Zvērinātu notāru atlīdzības taksi un tās noteikšanas kārtību nosaka Ministru kabinets.
-Taksi nosaka, ievērojot akta vai apliecinājuma vērtību (darījuma summu) un ar aktu vai apliecinājumu saistīto zvērināta notāra atbildību, sociālo līdzsvaru sabiedrībā un akta vai apliecinājuma taisīšanai nepieciešamo laiku.
+Taksi nosaka, ievērojot akta vai apliecinājuma vērtību (darījuma summu) un ar aktu vai apliecinājumu saistīto zvērināta notāra atbildību, sociālo līdzsvaru sabiedrībā un akta vai apliecinājuma taisīšanai nepieciešamo laiku. Nosakot taksi likuma "Par tautas nobalsošanu un likumu ierosināšanu" paredzētajā paraksta apliecināšanas gadījumā, tās apmērs nedrīkst ierobežot parakstīšanās tiesības pēc būtības.
