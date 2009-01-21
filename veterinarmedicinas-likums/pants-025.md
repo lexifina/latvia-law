@@ -1,7 +1,7 @@
 25.pants. Ministru kabinets nosaka:
 1) veterinārās prasības attiecībā uz dzīvnieku, dzīvnieku spermas, olšūnu, embriju un dzīvnieku izcelsmes produktu apriti;
 2) (izslēgts ar 28.10.2004. likumu);
-3) dzīvnieku kapsētu iekārtošanas un uzturēšanas kārtību;
+3) dzīvnieku kapsētu iekārtošanas, uzturēšanas, darbības izbeigšanas un likvidēšanas kārtību;
 4) kārtību, kādā valstī veic to infekcijas slimību profilaksi un apkarošanu, ar kurām slimo gan dzīvnieki, gan cilvēki;
 5) dzīvnieku, dzīvnieku spermas, olšūnu, embriju un dzīvnieku izcelsmes produktu kontroles un uzraudzības kārtību tirdzniecībā ar Eiropas Savienības dalībvalstīm
 6) dzīvnieku reģistrācijas kārtību;
@@ -10,4 +10,8 @@
 9) kārtību, kādā veic uzraudzību un informācijas apmaiņu par infekcijas slimībām, ar kurām slimo gan dzīvnieki, gan cilvēki, par šo slimību ierosinātājiem, kā arī par šo ierosinātāju antimikrobo rezistenci;
 10) veterinārās prasības attiecībā uz akvakultūras dzīvniekiem un no tiem iegūtajiem produktiem, kā arī atsevišķu akvakultūras dzīvnieku infekcijas slimību profilaksi un apkarošanu;
 11) valsts veterinārās uzraudzības objektu reģistrācijas kārtību;
-12) prasības veterinārmedicīnas un dzīvnieku izcelsmes pārtikas nekaitīguma jomā atbilstoši Eiropas Savienības normatīvajiem aktiem.
+12) prasības veterinārmedicīnas un dzīvnieku izcelsmes pārtikas nekaitīguma jomā atbilstoši Eiropas Savienības normatīvajiem aktiem;
+13) specializēto tirdzniecības vietu atvēršanas un darbības prasības, kā arī kvalifikācijas prasības personālam;
+14) govju, cūku, aitu un kazu mākslīgās apsēklošanas pakalpojumu sniedzēja minimālo aprīkojumu;
+15) dzīvnieku kopšanas līdzekļu ražošanas, marķēšanas, izplatīšanas un kontroles kārtību;
+16) reģistrēto dzīvnieku datubāzēs esošās informācijas izmantošanas kārtību.

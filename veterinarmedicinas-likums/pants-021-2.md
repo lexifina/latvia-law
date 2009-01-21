@@ -1,0 +1,1 @@
+21.² pants. Pašvaldība, pēc tam kad saņemta Pārtikas un veterinārā dienesta informācija par dzīvnieku infekcijas slimības iespējamo izplatīšanos, nekavējoties izdod saistošos noteikumus, nosakot attiecīgus ierobežojumus savā administratīvajā teritorijā.

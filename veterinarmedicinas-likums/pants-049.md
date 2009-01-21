@@ -1,1 +1,0 @@
-49.pants. Tirgos dzīvnieku izcelsmes pārtikas jēlproduktus (olas, pienu) un mājas apstākļos ražotos dzīvnieku izcelsmes pārtikas produktus drīkst realizēt tikai pēc tam, kad Pārtikas un veterinārā dienesta pilnvarots veterinārārsts veicis tirgū veterināro ekspertīzi, un tikai saskaņā ar viņa atzinumu par produktu turpmāko izmantošanu.

@@ -1,0 +1,1 @@
+8.² pants. Pārtikas un veterinārais dienests kopā ar ekspertu, kas nav Eiropas Savienības dalībvalsts eksperts, var veikt kontroli Latvijas teritorijā esošajos valsts veterinārās uzraudzības objektos, no kuriem paredzēts dzīvnieku un dzīvnieku izcelsmes produktu eksports uz attiecīgo valsti, un novērtēt šo objektu atbilstību šajā valstī noteiktajām prasībām.

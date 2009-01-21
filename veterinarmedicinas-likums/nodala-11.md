@@ -1,2 +1,2 @@
 XI nodaļa
-Dzīvnieku īpašnieku tiesības un pienākumi
+Dzīvnieku īpašnieku vai turētāju tiesības un pienākumi

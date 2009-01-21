@@ -1,0 +1,1 @@
+63.pants. Lēmumu par objekta darbības apturēšanu var apstrīdēt un pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā. Pārtikas un veterinārā dienesta amatpersonas brīdinājuma vai lēmuma par objekta darbības apturēšanu apstrīdēšana vai pārsūdzēšana neaptur tā darbību.

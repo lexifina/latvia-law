@@ -1,1 +1,1 @@
-43.pants. Pārtikas un veterinārais dienests veic dzīvnieku pirmskaušanas un pēckaušanas veterināro ekspertīzi saskaņā ar prasībām, kas noteiktas regulā (EK) Nr. 854/2004.
+43.pants. Pārtikas un veterinārais dienests veic dzīvnieku pirmskaušanas apskati un pēckaušanas veterināro ekspertīzi saskaņā ar prasībām, kas noteiktas Parlamenta un Padomes 2004.gada 29.aprīļa regulā (EK) Nr. 854/2004, ar ko paredz īpašus noteikumus par lietošanai pārtikā paredzētu dzīvnieku izcelsmes produktu oficiālās kontroles organizēšanu (turpmāk - Parlamenta un Padomes regula Nr. 854/2004).

@@ -1,0 +1,1 @@
+20. Ministru kabinets līdz 2009.gada 31.decembrim izdod šā likuma 25.panta 3.punktā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2009.gada 31.decembrim ir piemērojami Ministru kabineta 2004.gada 27.jūlija noteikumi Nr.632 "Dzīvnieku kapsētu iekārtošanas un uzturēšanas kārtība", ciktāl tie nav pretrunā ar šo likumu.

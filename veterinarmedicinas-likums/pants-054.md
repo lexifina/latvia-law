@@ -5,3 +5,4 @@
 (3) Ārvalstīs iegūtā veterinārārsta kvalifikācija Latvijas pilsonim vai personai, kurai ir Latvijas Republikas nepilsoņa pase, tiek atzīta normatīvajos aktos noteiktajā kārtībā.
 (4) Tiesības nodarboties ar veterinārmedicīnisko praksi apliecina sertifikāts, kuru Ministru kabineta noteiktajā kārtībā izsniedz un anulē Latvijas Veterinārārstu biedrība.
 (5) Personas, kuras ieguvušas tiesības nodarboties ar veterinārmedicīnisko praksi, drīkst nodarboties ar veterinārmedicīnisko praksi visā Latvijas teritorijā.
+(6) Ministru kabinets nosaka lauksaimniecības dzīvniekiem veicamo neārstniecisku operāciju veidus un to personu loku, kuras papildus šā panta pirmajā un otrajā daļā minētajām personām ir tiesīgas šādas operācijas veikt.
