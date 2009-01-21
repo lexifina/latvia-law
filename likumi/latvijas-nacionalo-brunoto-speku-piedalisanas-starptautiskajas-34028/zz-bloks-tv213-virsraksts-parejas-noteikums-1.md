@@ -1,1 +1,0 @@
-Noteikt, ka līdz brīdim, kad stājas spēkā grozījumi likumā "Par valsts aizsardzību", kas paredz Ministru kabineta tiesības lemt par Nacionālo bruņoto spēku vienību piedalīšanos starptautiskajās glābšanas operācijās un starptautiskajās humānajās operācijās, lēmumu par to pieņem Saeima.
