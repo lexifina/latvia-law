@@ -1,0 +1,4 @@
+459.pants. Noliktavas zīmes spēks
+(1) Glabātāja un noliktavas zīmes leģitimētā turētāja savstarpējās tiesiskajās attiecībās noteicošā ir noliktavas zīme.
+(2) Noliktavas zīme nodibina pieņēmumu, ka ārējā izskata un stāvokļa ziņā, kā arī iepakojuma vienību skaita, marķējuma un numerācijas ziņā glabātājs ir pieņēmis glabājumā tādu lietu un tās iepakojumu, kāds aprakstīts noliktavas zīmē. Ja glabātājs ir pārbaudījis glabājumā nodotās lietas bruto masu vai daudzumu citās mērvienībās vai arī lietas sastāvu un šīs pārbaudes rezultātus norādījis noliktavas zīmē, noliktavas zīme nodibina pieņēmumu, ka lietas masa, daudzums vai sastāvs atbilst šajā zīmē norādītajām ziņām. Nav pieļaujami pierādījumi par pretējo, ja noliktavas zīme ir nodota labticīgai trešajai personai.
+(3) Glabātāja un glabājuma devēja savstarpējās tiesiskajās attiecībās noteicošais ir glabājuma līgums.

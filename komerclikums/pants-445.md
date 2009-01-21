@@ -1,0 +1,3 @@
+445.pants. Prasījumu noilgums
+(1) Prasījumi pret ekspeditoru par ekspedīcijai nodotās kravas bojājumiem, bojāšanos, iztrūkumu, bojāeju vai nozaudēšanu, kā arī par kravas nogādāšanas nokavējumu noilgst viena gada laikā. Ja ekspeditors rīkojies ar ļaunu nolūku vai pieļāvis rupju neuzmanību, minētie prasījumi noilgst triju gadu laikā. Visi pārējie prasījumi pret ekspeditoru noilgst triju gadu laikā.
+(2) Ja ekspedīcijai nodotā krava nav saglabāta bojājumu, bojāšanās vai iztrūkuma dēļ, noilguma termiņš sākas ar dienu, kurā krava nogādāta saņēmējam, bet kravas bojāejas, nozaudēšanas vai kravas nogādāšanas nokavējuma dēļ - ar dienu, kad kravu vajadzēja nogādāt saņēmējam.

@@ -1,0 +1,5 @@
+477.pants. Franšīzes ņēmēja pienākumi
+(1) Franšīzes ņēmējam ir pienākums pirms franšīzes līguma noslēgšanas sniegt franšīzes devējam aktuālas un patiesas ziņas par apstākļiem, kuriem ir būtiska nozīme, slēdzot franšīzes līgumu.
+(2) Franšīzes ņēmējam ir pienākums izmantot franšīzi atbilstoši franšīzes līguma noteikumiem, pakļaujoties saprātīgiem franšīzes devēja norādījumiem, respektējot franšīzes devēja preču zīmi, citas intelektuālā īpašuma tiesības, zinātību preču pārdošanā, izplatīšanā vai pakalpojumu sniegšanā un nekaitējot franšīzes devēja labajai slavai.
+(3) Franšīzes ņēmējam ir pienākums neizmantot pretēji franšīzes līguma mērķim un neizpaust trešajām personām komercnoslēpumus, kas franšīzes ņēmējam uzticēti vai kļuvuši zināmi, izmantojot franšīzi. Šāds pienākums franšīzes ņēmējam ir arī piecus gadus pēc franšīzes līguma izbeigšanās.
+(4) Franšīzes ņēmējam ir pienākums sniegt franšīzes devējam informāciju, kas nepieciešama franšīzes līgumā nolīgto franšīzes devēja saistību izpildei, kā arī atļaut franšīzes devējam parastajā darba laikā pārbaudīt franšīzes ņēmēja darbu preču pārdošanas vai pakalpojumu sniegšanas vietā.

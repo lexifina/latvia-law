@@ -1,0 +1,4 @@
+452.pants. Glabājuma ilgums
+(1) Glabājuma devējs var katrā laikā atprasīt no glabātāja glabājumā nodoto lietu.
+(2) Ja glabājuma līgums noslēgts uz nenoteiktu laiku, glabājuma devējs ir tiesīgs uzteikt glabājuma līgumu vienu mēnesi iepriekš. Ja glabājuma devējam ir svarīgs iemesls, viņš ir tiesīgs uzteikt glabājuma līgumu, neievērojot uzteikuma termiņu.
+(3) Glabātājs var prasīt, lai glabājuma devējs ņem atpakaļ glabājumā nodoto lietu tikai pēc nolīgtā laika izbeigšanās, bet, ja glabājuma līgums noslēgts uz nenoteiktu laiku, - uzteicot glabājuma līgumu vienu mēnesi iepriekš. Ja glabātājam ir svarīgs iemesls, viņš ir tiesīgs, neievērojot uzteikuma termiņu, prasīt, lai glabājuma devējs ņem atpakaļ glabājumā nodoto lietu pirms nolīgtā laika izbeigšanās. Ja glabātājs izdevis noliktavas zīmi, glabājuma līguma uzteikumu un prasījumu par lietas ņemšanu atpakaļ vērš pret pēdējo viņam zināmo noliktavas zīmes leģitimēto turētāju.

@@ -1,0 +1,2 @@
+451.pants. Glabājumā nodotās lietas apskate un pasākumi tās saglabāšanai
+Glabātājam ir pienākums atļaut glabājuma devējam parastajā darba laikā apskatīt glabājumā nodoto lietu, ņemt paraugus, kā arī atļaut veikt lietas saglabāšanai nepieciešamos pasākumus. Glabātājam ir tiesības, bet, ja glabājumā nodotās atvietojamās lietas ir savienotas, - pienākums pašam veikt lietas saglabāšanai nepieciešamos pasākumus.

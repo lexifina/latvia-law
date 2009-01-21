@@ -1,0 +1,3 @@
+457.pants. Glabātāja likumiskās rokasķīlas tiesības
+(1) Uz glabājumā nodoto un glabātāja valdījumā esošo lietu viņam ir likumiskās rokasķīlas tiesības, kas nodrošina no glabājuma līguma izrietošos glabātāja prasījumus pret glabājuma devēju.
+(2) Ja ordera noliktavas zīme nodota tālāk ar indosamentu, glabātājam ir likumiskās rokasķīlas tiesības pret noliktavas zīmes leģitimēto turētāju, kas nodrošina vienīgi tādus glabātāja prasījumus par atlīdzības samaksu vai izdevumu atlīdzināšanu, kuri izriet no noliktavas zīmes vai par kuru pastāvēšanu noliktavas zīmes leģitimētais turētājs noliktavas zīmes iegūšanas brīdī ir zinājis vai nav zinājis rupjas neuzmanības dēļ.

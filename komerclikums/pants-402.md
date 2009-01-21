@@ -1,0 +1,5 @@
+402.pants. Likumiskās rokasķīlas tiesības
+(1) Komersanta likumiskajām rokasķīlas tiesībām attiecīgi piemēro Civillikuma noteikumus par rokasķīlas tiesībām, ciktāl šajā pantā nav noteikts citādi.
+(2) Ķīlas ņēmējs, kura prasījumu parādnieks nav noteiktā laikā apmierinājis, ir tiesīgs, iepriekš par to paziņojot parādniekam, uz parādnieka rēķina pārdot likumisko rokasķīlas tiesību priekšmetu labprātīgā publiskā izsolē ar zvērināta tiesu izpildītāja starpniecību, ievērojot Civillikuma noteikumus par pārdošanu izsolē. Izsoles izziņošanai un izsoles kārtībai piemērojami attiecīgie Civilprocesa likuma noteikumi par kustamās mantas izsoli.
+(3) Likumisko rokasķīlas tiesību priekšmetu pārdod par visaugstāko cenu, kāda ir iespējama pārdošanas laikā un nenovilcina pārdošanu.
+(4) Ķīlas ņēmējs atbild parādniekam par likumisko rokasķīlas tiesību priekšmeta pārdošanu kā pilnvarnieks, un viņa pienākums ir atlīdzināt parādniekam visus zaudējumus, kurus ķīlas ņēmējs varēja novērst, ievērojot krietna un kārtīga komersanta rūpību.

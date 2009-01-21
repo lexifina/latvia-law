@@ -1,0 +1,3 @@
+415.pants. Komerciālās komisijas līguma jēdziens un komisijas aģents
+(1) Komerciālās komisijas līgums ir tāds līgums, ar kuru komersants (komisionārs) apņemas savā vārdā, bet uz citas personas (komitenta) rēķina pirkt vai pārdot preci vai vērtspapīrus vai arī slēgt citu veidu darījumus ar trešajām personām, bet komitents apņemas samaksāt nolīgto provīziju.
+(2) Komisijas aģents ir tāds komisionārs, kurš apņēmies savā vārdā, bet uz komitenta rēķina pastāvīgi slēgt darījumus ar trešajām personām. Komisijas aģenta un komitenta savstarpējām attiecībām attiecīgi piemērojami šā likuma 46., 47., 48., 49., 50., 51., 52., 53., 54., 55., 56., 57., 58., 59., 60. un 61.panta noteikumi.

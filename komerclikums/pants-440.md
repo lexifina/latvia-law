@@ -1,0 +1,2 @@
+440.pants. Kravas nodošana glabājumā
+Ja kravas saņēmējs, pieļaujot nokavējumu, nepieņem piegādāto kravu vai krava pārvadāšanas laikā tiek aizturēta no ekspeditora neatkarīgu apstākļu dēļ, ekspeditors ir tiesīgs uz nosūtītāja rēķina un riska nodot kravu glabājumā publiskā noliktavā vai citā drošā vietā, par to nekavējoties paziņojot nosūtītājam un pārvadājuma apdrošinātājam, ja apdrošināšanu veicis ekspeditors.

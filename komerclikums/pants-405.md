@@ -1,0 +1,4 @@
+405.pants. Ordera vērtspapīra turētāja leģitimācija
+(1) Persona, kuras rokās nonācis ordera vērtspapīrs, atzīstama par tā leģitimēto turētāju, ciktāl tā pierāda savas tiesības ar indosamentu nepārtrauktu rindu, turklāt arī tad, ja pēdējais ir blanko indosaments. Šajā ziņā izsvītrotie indosamenti uzskatāmi par neierakstītiem. Ja blanko indosamentam seko kāds cits indosaments, pieņem, ka šā pēdējā indosamenta parakstītājs ieguvis ordera vērtspapīru uz blanko indosamenta pamata.
+(2) Ja ordera vērtspapīrs tā agrākajam turētājam ir nozudis, jaunajam turētājam, kurš savas tiesības pierāda saskaņā ar šā panta pirmās daļas noteikumiem, ir pienākums atdot ordera vērtspapīru tikai tad, ja viņš to ir ieguvis ļaunā ticībā vai arī pieļaujot rupju neuzmanību.
+(3) Parādniekam ir pienākums pārbaudīt, vai ordera vērtspapīrā ierakstīto indosamentu rinda ir nepārtraukta, bet viņam nav pienākuma pārliecināties par indosantu parakstu īstumu.

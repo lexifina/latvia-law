@@ -1,0 +1,4 @@
+409.pants. Pirkums ar specifikāciju
+(1) Ja atbilstoši pirkuma līgumam pircējs ir tiesīgs tuvāk noteikt preces formu, izmēru, kvalitāti, šķiru vai citas preces pazīmes, pircēja pienākums ir tās noteikt nolīgtajā termiņā vai iespējami īsā laikā pēc pārdevēja pieprasījuma saņemšanas.
+(2) Ja pircējs pieļauj nokavējumu preces pazīmju noteikšanā, pārdevējs ir tiesīgs pircēja vietā noteikt minētās pazīmes vai vienpusēji atkāpties no līguma, vai prasīt atlīdzību par zaudējumiem, kas viņam radušies pircēja nokavējuma dēļ.
+(3) Ja pārdevējs pircēja vietā pats nosaka preces pazīmes, viņa pienākums ir paziņot pircējam par šo specifikāciju un nolikt saprātīgu termiņu, kurā pircējs var noteikt citu specifikāciju. Ja minētajā termiņā pircējs nepaziņo pārdevējam citu specifikāciju, pircējam ir saistoša pārdevēja noteiktā specifikācija.

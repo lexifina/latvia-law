@@ -1,0 +1,2 @@
+429.pants. Komisionāra tiesības gūt apmierinājumu no prasījumiem
+Komisionāram ir pirmtiesības salīdzinājumā ar komitentu un viņa kreditoriem apmierināt šā likuma 424.pantā minētos prasījumus, kuriem iestājies no komisijas darījuma izrietošā prasījuma izpildes termiņš vai nosacījums. Šajā ziņā komisionārs ir tiesīgs no komisijas darījuma izrietošos prasījumus atteikties cedēt par labu komitentam, saņemt un paturēt uz šo prasījumu pamata doto izpildījumu, likt šos prasījumus priekšā ieskaitam, kā arī tos cedēt citai personai.

@@ -1,0 +1,3 @@
+456.pants. Noilgums un noilguma termiņa sākums
+(1) Prasījumi pret glabātāju par glabājumā nodotās lietas bojājumiem, bojāšanos, iztrūkumu, atdošanas nokavējumu vai bojāeju noilgst viena gada laikā. Ja glabātājs rīkojies ar ļaunu nolūku vai pieļāvis rupju neuzmanību, minētie prasījumi noilgst triju gadu laikā.
+(2) Ja glabājumā nodotā lieta nav saglabāta bojājumu, bojāšanās vai iztrūkuma dēļ, noilguma termiņš sākas ar dienu, kad glabājumā nodoto lietu atdod, bet lietas atdošanas nokavējuma dēļ - ar dienu, kad lietu vajadzēja atdot. Glabājumā nodotās lietas pilnīgas bojāejas gadījumā noilguma termiņš sākas ar dienu, kad glabātājs par minēto bojāeju paziņo glabājuma devējam vai pēdējam viņam zināmajam noliktavas zīmes leģitimētajam turētājam, ja izdota noliktavas zīme.

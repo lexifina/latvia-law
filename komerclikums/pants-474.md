@@ -1,0 +1,2 @@
+474.pants. Franšīzes līguma jēdziens
+Franšīzes līgums ir tāds līgums, ar kuru komersants (franšīzes devējs) piešķir otram līdzējam (franšīzes ņēmējam) tiesības izmantot preču zīmi, citas intelektuālā īpašuma tiesības, zinātību preču pārdošanā, izplatīšanā vai pakalpojumu sniegšanā atbilstoši franšīzes devēja izstrādātajai un pārbaudītajai sistēmai (franšīze), bet franšīzes ņēmējs samaksā nolīgto atlīdzību.

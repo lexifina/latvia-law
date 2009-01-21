@@ -1,0 +1,3 @@
+442.pants. Kravas vērtības atlīdzināšana
+(1) Ja ekspeditoram ir pienākums atlīdzināt zaudējumus, kas radušies kravas bojājumu vai bojāšanās dēļ, zaudējumu atlīdzību nosaka tādā apmērā, par kādu samazinājusies kravas vērtība, bet kravas iztrūkuma, bojāejas vai nozaudēšanas dēļ - atbilstoši iztrūkstošās, bojāgājušās vai nozaudētās kravas vērtībai.
+(2) Kravas vērtību nosaka atbilstoši tās tirgus cenai vai arī atbilstoši tādas pašas šķiras un labuma lietu parastajai vērtībai kravas nodošanas vietā un laikā. Ja krava nodota ekspedīcijai ar pieteiktu vērtību, zaudējumu atlīdzības apmēru nosaka atbilstoši šai vērtībai, ja ekspeditors nepierāda, ka ekspedīcijai nodotās kravas vērtība bijusi mazāka.

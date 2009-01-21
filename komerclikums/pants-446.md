@@ -1,0 +1,3 @@
+446.pants. Ekspeditora likumiskās rokasķīlas tiesības
+(1) Uz ekspedīcijai nodoto un ekspeditora valdījumā esošo kravu viņam ir likumiskās rokasķīlas tiesības, kas nodrošina ekspeditora prasījumus pret nosūtītāju. Likumiskās rokasķīlas tiesības attiecas arī uz kravas pavaddokumentiem.
+(2) Ja ekspeditors ir piesaistījis apakšekspeditoru, lai izpildītu ekspedīcijas līgumā nolīgto pienākumu par kravas ekspedīcijas pakalpojumu sniegšanu, ekspeditora prasījumi un šā panta pirmajā daļā paredzētās likumiskās rokasķīlas tiesības pāriet apakšekspeditoram, līdzko viņš apmierina no ekspedīcijas līguma izrietošos ekspeditora prasījumus.

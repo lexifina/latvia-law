@@ -1,0 +1,3 @@
+423.pants. Pienākums pārbaudīt preci un preces pagaidu uzglabāšana
+(1) Ja komisionāram uzticēts veikt iepirkuma komisiju un ja komisionārs un komitents ir komersanti, uz komitenta pienākumu pārbaudīt preci un paziņot komisionāram par konstatētajiem preces trūkumiem, kā arī uz pienākumu uzglabāt preci un tiesībām to pārdot attiecināmi šā likuma 411. un 412.panta noteikumi.
+(2) Arī tad, ja komitents nav savlaicīgi paziņojis komisionāram par preces trūkumiem, komitents ir tiesīgs prasīt, lai komisionārs viņam cedē savus prasījumus pret trešo personu, no kuras viņš nopircis preci uz komitenta rēķina.

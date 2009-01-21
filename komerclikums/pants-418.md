@@ -1,0 +1,3 @@
+418.pants. Cenas robežas
+(1) Ja komisionārs, noslēdzot darījumu ar trešo personu, pārkāpj komitenta noteiktās cenas robežas un komitents negrib atzīt, ka attiecīgais darījums ir noslēgts uz viņa rēķina, komitenta pienākums ir nekavējoties, tiklīdz saņemts paziņojums par komisijas izpildi, to darīt zināmu komisionāram. Pretējā gadījumā uzskatāms, ka komitents ir piekritis komisionāra pieļautajai atkāpei no cenas robežas.
+(2) Ja komisionārs vienlaikus ar paziņojumu par komisijas izpildi piedāvā segt komitenta noteiktās un darījumā ar trešo personu nolīgtās cenas starpību, komitents nav tiesīgs atteikties atzīt, ka darījums ir noslēgts uz viņa rēķina.

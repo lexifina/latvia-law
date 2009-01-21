@@ -1,0 +1,3 @@
+392.pants. Komersanta klusēšana
+(1) Ja komersantam (komercaģentam, māklerim, komisionāram, ekspeditoram u.tml.), kurš slēdz darījumus citu personu labā vai sagatavo to noslēgšanu, priekšlikumu par šāda darījuma slēgšanu vai noslēgšanas sagatavošanu izsaka persona, ar kuru viņam ir komercdarījumu attiecības, komersanta pienākums ir iespējami īsā laikā atbildēt uz šo priekšlikumu.
+(2) Arī tad, ja komersants noraida priekšlikumu par darījuma slēgšanu vai noslēgšanas sagatavošanu, viņam ir pienākums uz priekšlikuma izteicēja rēķina nodrošināt tādas kustamas lietas pagaidu uzglabāšanu, kura nosūtīta līdz ar priekšlikumu, ciktāl tas nav saistīts ar nesamērīgiem izdevumiem un ciktāl komersantam ir nodrošināta kustamas lietas uzglabāšanas izdevumu segšana.

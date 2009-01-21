@@ -1,0 +1,2 @@
+447.pants. Komerciālā glabājuma līguma jēdziens
+Komerciālais glabājuma līgums (turpmāk šīs nodaļas ietvaros - glabājuma līgums) ir tāds līgums, ar kuru komersants, kurš nodarbojas ar kustamu lietu glabāšanu (glabātājs), apņemas par labu glabājuma devējam izvietot noliktavā vai citā glabāšanai piemērotā vietā un uzglabāt glabājumā nodoto lietu, bet glabājuma devējs apņemas samaksāt nolīgto atlīdzību.

@@ -1,0 +1,4 @@
+401.pants. Kustamu lietu labticīga iegūšana īpašumā
+(1) Arī tad, ja komersants uz komercdarījuma pamata atsavina viņam nepiederošu lietu par labu citai personai, ieguvējs iegūst īpašuma tiesības uz šo lietu, izņemot gadījumu, kad viņš nodošanas brīdī nav bijis labticīgs. Ieguvējs nav labticīgs, ja viņam ir zināms, ka lieta nepieder atsavinātājam vai atsavinātājs nav tiesīgs rīkoties ar šo lietu, vai arī ieguvējam tas nav zināms rupjas neuzmanības dēļ.
+(2) Ja atsavinātā lieta ir apgrūtināta ar trešo personu tiesībām, šīs tiesības izbeidzas līdz ar īpašuma tiesību pāreju labticīgam ieguvējam, izņemot gadījumu, kad viņš nodošanas brīdī ir zinājis par minētajām tiesībām vai arī nav zinājis rupjas neuzmanības dēļ.
+(3) Šā panta noteikumi neattiecas uz noziedzīgā ceļā iegūtām, nozaudētām vai tādām lietām, uz kurām pretēji īpašnieka gribai lietas valdījums izbeidzies, izņemot naudu, uzrādītāja vērtspapīrus, kā arī lietas, kuras pārdotas izsolē ar tiesas starpniecību.

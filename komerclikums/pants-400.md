@@ -1,0 +1,3 @@
+400.pants. Aizturētāja tiesības apmierināt prasījumu
+(1) Aizturētājs ir tiesīgs apmierināt savu prasījumu pret otru komersantu, pārdodot aizturētos priekšmetus izsolē ar tiesas starpniecību, ja vien viņi nav noteikti vienojušies, ka aizturētājam ir tiesības pārdot aizturētos priekšmetus par brīvu cenu. Aizturētāja prasījuma apmierināšanai attiecīgi piemērojami Civillikuma noteikumi par rokasķīlas tiesībām.
+(2) Pret citām personām, kuras nav minētas šā likuma 399.panta trešajā daļā un kurām par labu aizturētie priekšmeti tikuši apķīlāti pēc aizturējuma tiesību izmantošanas, aizturētājam ir pirmtiesības apmierināt savu prasījumu, pārdodot aizturētos priekšmetus.

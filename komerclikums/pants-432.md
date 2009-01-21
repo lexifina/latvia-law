@@ -1,0 +1,9 @@
+432.pants. Kravas iepakošana, marķēšana, pavaddokumenti un pienākums sniegt informāciju par kravu
+(1) Nosūtītājam ir pienākums, ciktāl tas nepieciešams, iepakot un marķēt ekspedīcijai nododamo kravu, iesniegt ekspeditoram kravas pavaddokumentus, kā arī sniegt viņam visu informāciju, kas vajadzīga, lai ekspeditors varētu izpildīt savus pienākumus, arī informāciju par kravu, kura pārvadājama un uzglabājama atbilstoši īpašiem noteikumiem un kurai nepieciešams speciāls aprīkojums vai apkalpošana. Ja ekspedīcijai tiek nodota bīstama krava, kas pārvadāšanas vai uzglabāšanas procesā savu īpašību dēļ var izraisīt sprādzienu, ugunsgrēku vai radīt citus kaitējumus, apdraudēt cilvēku dzīvību, veselību, personu mantu vai vidi, nosūtītāja pienākums ir rakstveidā informēt ekspeditoru par kravas bīstamības veidu un nepieciešamajiem drošības pasākumiem.
+(2) Pasūtījums bīstamas kravas vai ar akcīzes nodokli apliekamas preces nogādāšanai piesakāms ekspeditoram rakstveidā.
+(3) Nosūtītājs, arī tad, ja viņš nav vainojams, atbild ekspeditoram par zaudējumiem un izdevumiem, kas radušies šādu iemeslu dēļ:
+1) krava nav pienācīgi iepakota vai marķēta;
+2) ekspeditors nav informēts par kravas bīstamību;
+3) nosūtītājs nav iesniedzis visus šā panta pirmajā daļā minētos pavaddokumentus vai nav sniedzis nepieciešamo informāciju, vai arī informācija ir nepilnīga, neprecīza vai nepareiza.
+(4) Ja šā panta trešajā daļā minētie zaudējumi vai izdevumi radušies arī ekspeditora rīcības dēļ, nosūtītāja pienākums ir atlīdzināt zaudējumus vai izdevumus. Maksājamās atlīdzības apmērs atkarīgs no tā, ciktāl zaudējumu vai izdevumu rašanās cēlonis bijusi nosūtītāja vai ekspeditora rīcība.
+(5) Ja nosūtītājs ir patērētājs, viņš saskaņā ar šā panta trešās un ceturtās daļas noteikumiem atbild ekspeditoram par zaudējumiem un izdevumiem, ciktāl tie radušies nosūtītāja vainas dēļ.
