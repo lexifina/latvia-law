@@ -1,5 +1,5 @@
 245.pants. Konvertējamo obligāciju emisija
-(1) Lēmumu par konvertējamo obligāciju emisiju pieņem akcionāru sapulce ar ne mazāk par trim ceturtdaļām no klātesošā balsstiesīgā pamatkapitāla.
+(1) (Izslēgta ar 18.12.2008. likumu.)
 (2) Ar lēmumu par konvertējamo obligāciju emisiju apstiprina arī obligāciju emisijas noteikumus, kuros norāda:
 1) emitējamo obligāciju skaitu, vienas obligācijas nominālvērtību un kopējo nominālvērtību summu;
 2) obligācijas cenu;

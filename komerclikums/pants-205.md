@@ -4,4 +4,4 @@
 2) pamatkapitāla samazināšanas veidu un kārtību;
 3) samazinātā pamatkapitāla lielumu un apmēru, par kādu tas samazināts;
 4) daļas nominālvērtību.
-(2) Paziņojums par pamatkapitāla samazināšanu nekavējoties nosūtāms komercreģistra iestādei. Paziņojumam pievieno dalībnieku sapulces protokola izrakstu vai šā likuma 215.pantā minētajā gadījumā - balsošanas protokola izrakstu ar lēmumu par pamatkapitāla samazināšanu un pamatkapitāla samazināšanas noteikumus.
+(2) Paziņojums par pamatkapitāla samazināšanu nekavējoties nosūtāms komercreģistra iestādei. Paziņojumam pievieno dalībnieku sapulces protokola izrakstu un pamatkapitāla samazināšanas noteikumus.

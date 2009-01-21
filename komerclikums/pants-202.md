@@ -1,7 +1,7 @@
 202.pants. Pieteikums komercreģistra iestādei par pamatkapitāla palielināšanu
 (1) Pēc jauno ziņu ierakstīšanas dalībnieku reģistrā valde iesniedz komercreģistra iestādei pieteikumu par pamatkapitāla palielināšanu.
 (2) Pieteikumam pievieno:
-1) dalībnieku sapulces protokola izrakstu vai šā likuma 215.pantā minētajā gadījumā - balsošanas protokola izrakstu ar lēmumu par pamatkapitāla palielināšanu;
+1) dalībnieku sapulces protokola izrakstu;
 2) pamatkapitāla palielināšanas noteikumus;
 3) statūtos izdarīto grozījumu tekstu un pilnu statūtu tekstu jaunajā redakcijā;
 4) dalībnieku vai trešo personu pieteikumus daļu iegūšanai;
