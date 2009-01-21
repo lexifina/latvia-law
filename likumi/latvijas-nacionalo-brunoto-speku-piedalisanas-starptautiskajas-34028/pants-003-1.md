@@ -1,0 +1,3 @@
+3.¹ pants. Ātrās reaģēšanas spēki un piedalīšanās tajos
+(1) Par ātrās reaģēšanas spēkiem uzskatāmas Ziemeļatlantijas līguma organizācijas vai Eiropas Savienības izveidotās kopējās militārās ātrās reaģēšanas vienības, kuras var iesaistīt starptautiskajās operācijās. Ātrās reaģēšanas spēki sastāv no jūras, gaisa un sauszemes spēku vienībām ar augstu, vidēju un zemu gatavības pakāpi.
+(2) Latvijas Nacionālo bruņoto spēku vienības piedalās ātrās reaģēšanas spēkos saskaņā ar Ziemeļatlantijas līguma organizācijas vai Eiropas Savienības dokumentiem, Latvijas Republikai saistošiem starptautiskajiem līgumiem un Latvijas Republikas likumiem.
