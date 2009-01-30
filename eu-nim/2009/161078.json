@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2007.gada 16.janvāra noteikumos Nr.64 \"Kārtība, kādā pievienotās vērtības nodoklis piemērojams preču piegādēm un pakalpojumiem, kas sniegti Latvijas Republikā vai citā Eiropas Savienības dalībvalstī reģistrētajām diplomātiskajām un konsulārajām pārstāvniecībām un starptautisko organizāciju pārstāvniecībām un ar šīm pārstāvniecībām saistītajām personām, Eiropas Kopienas institūcijām, Ziemeļatlantijas līguma organizācijai (NATO), tās dalībvalstu bruņotajiem spēkiem un to sastāvā ietilpstošajām personām, un kārtība, kādā atmaksājams akcīzes nodoklis par Latvijas Republikā iegādātajām akcīzes precēm\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "16",
+  "official_journal_page": null,
+  "official_journal_date": "2009-01-29",
+  "entry_into_force": "2009-01-30",
+  "notification_date": "2009-03-20",
+  "commission_reference": "MNE(2009)51216",
+  "nim_celex": "72006L0112LVA_161078",
+  "nim_id": "161078",
+  "transposes_celex": [
+    "32006L0112"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9323a5c9-e7c2-4645-a49e-d89eaffeb762",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
