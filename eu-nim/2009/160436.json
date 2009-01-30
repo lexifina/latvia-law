@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par pazemes ūdens resursu apzināšanas kārtību un kvalitātes kritērijiem",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "16",
+  "official_journal_page": null,
+  "official_journal_date": "2009-01-29",
+  "entry_into_force": "2009-01-30",
+  "notification_date": "2009-02-06",
+  "commission_reference": "MNE(2009)50599",
+  "nim_celex": "72000L0060LVA_160436",
+  "nim_id": "160436",
+  "transposes_celex": [
+    "32000L0060",
+    "32006L0118"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bea4c47c-62c3-40fa-99a7-afba38a4e4ae",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
