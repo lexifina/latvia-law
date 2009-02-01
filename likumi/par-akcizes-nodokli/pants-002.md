@@ -28,4 +28,4 @@
 2) citas prasības noliktavas turētāja, apstiprināta tirgotāja vai nodokļa maksātāja pārstāvja darbībai;
 3) prasības importētāja, neapstiprināta tirgotāja un pārsūtītājtirgotāja darbībai;
 4) citas prasības saskaņā ar šo likumu.
-(8) Lēmuma apstrīdēšana vai pārsūdzēšana saistībā ar tādu licenču vai atsevišķu to nosacījumu, atļauju, apliecību, sertifikātu vai izziņu izsniegšanu, pārreģistrāciju, apturēšanu vai anulēšanu, kuras paredzētas uz likuma pamata izdotajos normatīvajos aktos, neaptur šā lēmuma darbību.
+(8) Nelabvēlīga lēmuma apstrīdēšana vai pārsūdzēšana saistībā ar tādu licenču vai atsevišķu to nosacījumu, atļauju, apliecību, sertifikātu vai izziņu pārreģistrāciju, apturēšanu vai anulēšanu, kuras paredzētas uz likuma pamata izdotajos normatīvajos aktos, neaptur šā lēmuma darbību.
