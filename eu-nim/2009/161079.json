@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījums Ministru kabineta 2007.gada 31.jūlija noteikumos Nr.525 \"Kārtība, kādā atsevišķiem naftas produktiem piemēro samazinātu akcīzes nodokļa likmi vai atbrīvojumu no akcīzes nodokļa\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "23",
+  "official_journal_page": null,
+  "official_journal_date": "2009-02-11",
+  "entry_into_force": "2009-02-12",
+  "notification_date": "2009-03-20",
+  "commission_reference": "MNE(2009)51217",
+  "nim_celex": "72003L0096LVA_161079",
+  "nim_id": "161079",
+  "transposes_celex": [
+    "32003L0096"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/359dbd35-9b3c-4e83-9652-0618f91267d2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
