@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Noguldījumu garantiju likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "27",
+  "official_journal_page": null,
+  "official_journal_date": "2009-02-18",
+  "entry_into_force": "2009-02-19",
+  "notification_date": "2009-05-05",
+  "commission_reference": "MNE(2009)51952",
+  "nim_celex": "72009L0014LVA_161823",
+  "nim_id": "161823",
+  "transposes_celex": [
+    "32009L0014"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dd36942f-0844-468c-8434-87e771c66cde",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
