@@ -1,1 +1,11 @@
-113.pants. Banka, no kuras notiek pārmērīga noguldījumu vai citu piesaistīto līdzekļu aizplūde, var lūgt Finanšu un kapitāla tirgus komisiju noteikt bankas saistību izpildes ierobežojumus.
+113.pants. (1) Ja Finanšu un kapitāla tirgus komisija konstatē, ka kredītiestāde neievēro šā likuma, tieši piemērojamo Eiropas Savienības institūciju izdoto normatīvo aktu vai Finanšu un kapitāla tirgus komisijas izdoto lēmumu vai normatīvo noteikumu prasības, vai ja kredītiestādes darbība apdraud tās stabilitāti vai maksātspēju, Latvijas kredītiestāžu sektora drošību vai stabilitāti, draud nodarīt ievērojamus zaudējumus valsts tautsaimniecībai, vai ja no bankas notiek pārmērīga noguldījumu vai citu piesaistīto līdzekļu aizplūde, Finanšu un kapitāla tirgus komisija, pieņemot lēmumu, ir tiesīga īstenot vienu vai vairākas šādas darbības:
+1) pieprasīt, lai kredītiestāde nekavējoties veic nepieciešamās darbības šādas situācijas novēršanai un iesniedz Finanšu un kapitāla tirgus komisijai tās noteiktajā termiņā rīcības plānu;
+2) brīdināt kredītiestādi;
+3) dot kredītiestādes pārvaldes institūcijām, to vadītājiem un locekļiem saistošus rakstveida norādījumus, kas nepieciešami šādas situācijas novēršanai;
+4) noteikt kredītiestādes tiesību un darbības ierobežojumus, tajā skaitā pilnīgi vai daļēji apturēt finanšu pakalpojumu sniegšanu, kā arī noteikt saistību izpildes ierobežojumus, izņemot šīs daļas 5.punktā minētos noguldījumu saistību izpildes ierobežojumus;
+5) noteikt bankai noguldījumu saistību izpildes ierobežojumus (turpmāk - lēmums par noguldījumu ierobežojumu noteikšanu);
+6) iecelt kredītiestādē vienu vai vairākus Finanšu un kapitāla tirgus komisijas pilnvarniekus (turpmāk - lēmums par pilnvarnieka iecelšanu);
+7) uzlikt kredītiestādei par pienākumu mazināt risku, kas saistīts ar tās darījumiem, pakalpojumiem un norēķinu sistēmām;
+8) uzlikt šajā likumā paredzētās soda naudas.
+(2) Finanšu un kapitāla tirgus komisija ir tiesīga īstenot vienu vai vairākas šā panta pirmajā daļā minētās darbības arī tad, ja kredītiestādes konsolidācijas grupā esošas komercsabiedrības darbība apdraud vai var apdraudēt attiecīgās kredītiestādes vai visa kredītiestāžu sektora stabilu darbību.
+(3) Ja tiek noteikti šā panta pirmās daļas 4.punktā minētie ierobežojumi bankai, kas apkalpo tranzītkredītu, Finanšu ministrija pieņem lēmumu par tranzītkredīta apkalpošanas turpināšanu šajā bankā vai nodošanu citām bankām.

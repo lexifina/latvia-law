@@ -1,2 +1,2 @@
 VIII nodaļa
-Kredītiestāžu saistību izpildes ierobežojumi
+Kredītiestādēm piemērojamie ierobežojumi

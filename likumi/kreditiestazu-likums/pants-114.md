@@ -1,2 +1,4 @@
-114.pants. (1) Lēmumu par ierobežojumu noteikšanu pieņem kopīgi Finanšu un kapitāla tirgus komisija un Ministru kabinets, nosakot šo ierobežojumu darbības laiku, taču tas nedrīkst pārsniegt 12 mēnešus. Nosakot saistību izpildes ierobežojumus bankai, kas apkalpo tranzītkredītu, Finanšu ministrija kopīgi ar Finanšu un kapitāla tirgus komisiju pieņem lēmumu par tranzītkredīta apkalpošanas turpināšanu šajā bankā vai nodošanu citām bankām.
-(2) Šā panta pirmajā daļā minēto lēmumu par ierobežojumu noteikšanu Finanšu un kapitāla tirgus komisija un Ministru kabinets ir tiesīgs pieņemt arī bez bankas lūguma.
+114.pants. (1) Lēmumu par noguldījumu ierobežojumu noteikšanu Finanšu un kapitāla tirgus komisija var pieņemt vienīgi attiecībā uz banku, kura šā lēmuma pieņemšanas dienā spēj apmierināt savu kreditoru pieteiktos likumīgos prasījumus. Šādu lēmumu var pieņemt arī pēc attiecīgās bankas lūguma.
+(2) Lēmumā par noguldījumu ierobežojumu noteikšanu tiek norādīti ierobežojumu veidi un to darbības laiks, kas nedrīkst pārsniegt 12 mēnešus.
+(3) Lēmums par noguldījumu ierobežojumu noteikšanu ir piemērojams attiecībā uz jebkuru bankas klientu.
+(4) Finanšu un kapitāla tirgus komisija var dot bankai saistošus norādījumus par to, kā izpildāms lēmums par noguldījumu ierobežojumu noteikšanu.

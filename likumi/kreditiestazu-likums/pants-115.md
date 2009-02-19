@@ -1,1 +1,3 @@
-115.pants. Kredītiestādes saistību izpildes ierobežojumus var noteikt vienīgi tad, ja kredītiestāde spēj apmierināt kreditoru likumīgās prasības.
+115.pants. (1) Lēmumā par pilnvarnieka iecelšanu tiek noteikts pilnvarnieka darbības mērķis, uzdevumi un funkcijas, pilnvaru apjoms un termiņš, pilnvarnieka atalgojuma apmērs, pilnvarnieka uzdevumu veikšanai pieļaujamo izdevumu apmērs, kā arī citi noteikumi, kurus Finanšu un kapitāla tirgus komisija uzskata par būtiskiem.
+(2) Ja tiek iecelti vairāki pilnvarnieki, tad papildus šā panta pirmajā daļā minētajam lēmumā par pilnvarnieka iecelšanu tiek noteikts pilnvarnieku pilnvaru apjoma sadalījums un viņu savstarpējā pakļautība.
+(3) Personu nevar iecelt par pilnvarnieku bez tās rakstveida piekrišanas.

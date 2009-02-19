@@ -1,1 +1,4 @@
-119.pants. Finanšu un kapitāla tirgus komisijas pilnvarnieks novērtē kredītiestādes stāvokli, paziņo par to Finanšu un kapitāla tirgus komisijai un veic nepieciešamos pasākumus, lai stabilizētu kredītiestādes darbību.
+119.pants. (1) Kredītiestādes pārvaldes institūcijām, struktūrvienībām, darbiniekiem un citiem kredītiestādes pārstāvjiem un akcionāriem ir pienākums sadarboties ar pilnvarnieku un pēc viņa pieprasījuma:
+1) nodot viņam lietas (dokumentus, atslēgas, pieejas kodus, paroles u.tml.);
+2) sniegt viņam nepieciešamo informāciju, dokumentus, paskaidrojumus un palīdzību.
+(2) Pilnvarnieks nekavējoties ziņo Finanšu un kapitāla tirgus komisijai par šā panta pirmajā daļā minēto noteikumu neizpildi, kā arī par citiem šķēršļiem viņa uzdevumu izpildei.

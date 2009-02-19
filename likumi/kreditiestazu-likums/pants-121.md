@@ -1,1 +1,2 @@
-121.pants. Saistību izpildes ierobežojumu laikā kredītiestāde turpina savu darbību pilnvarnieka pārraudzībā.
+121.pants. (1) Pilnvarnieks ir tiesīgs atteikties no savu pienākumu veikšanas, iesniedzot Finanšu un kapitāla tirgus komisijai motivētu iesniegumu, kam pievienojams pilnvarnieka darbības pārskats par visu viņa darbības laiku.
+(2) Finanšu un kapitāla tirgus komisija izskata pilnvarnieka iesniegumu par atteikšanos no pienākumu veikšanas viena mēneša laikā no tā saņemšanas dienas un pieņem attiecīgu lēmumu. Līdz šā lēmuma pieņemšanai un lietu nodošanai pilnvarnieks turpina veikt viņam noteiktos pienākumus.
