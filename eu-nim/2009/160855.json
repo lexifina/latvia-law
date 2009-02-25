@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par prasībām attiecībā uz vides monitoringu un tā veikšanas kārtību, piesārņojošo vielu reģistra izveidi un informācijas pieejamību sabiedrībai",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "30",
+  "official_journal_page": null,
+  "official_journal_date": "2009-02-24",
+  "entry_into_force": "2009-02-25",
+  "notification_date": "2009-03-06",
+  "commission_reference": "MNE(2009)50995",
+  "nim_celex": "71996L0061LVA_160855",
+  "nim_id": "160855",
+  "transposes_celex": [
+    "31996L0061",
+    "31999L0031",
+    "32000L0060",
+    "32003L0004"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bc571636-51df-46e9-b12c-76dd8ef5f575",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
