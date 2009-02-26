@@ -1,0 +1,1 @@
+3.pants. Sadarbības līgums stājas spēkā tā 21.pantā noteiktajā laikā un kārtībā, Saistītie līgumi un Atbrīvojums stājas spēkā tajos noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo laikrakstā "Latvijas Vēstnesis".
