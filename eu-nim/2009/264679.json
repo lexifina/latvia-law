@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2009. gada 17. februāra noteikumi Nr. 152 \"Lopbarības augu sēklaudzēšanas un sēklu tirdzniecības noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "32 (4018",
+  "official_journal_page": null,
+  "official_journal_date": "2009-02-26",
+  "entry_into_force": "2009-02-27",
+  "notification_date": "2018-11-02",
+  "commission_reference": "MNE(2018)55834",
+  "nim_celex": "72018L1028LVA_264679",
+  "nim_id": "264679",
+  "transposes_celex": [
+    "32018L1028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2e603db3-8340-46c8-90b9-b20b242f9be2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
