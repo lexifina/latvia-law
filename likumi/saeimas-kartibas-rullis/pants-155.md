@@ -1,1 +1,1 @@
-155. Darbu sagatavošanai vai sevišķu uzdevumu veikšanai komisija var ievēlēt no saviem locekļiem vienu vai vairākas apakškomisijas. Apakškomisijas sastāvā var iekļaut arī deputātus, kas nav attiecīgās komisijas locekļi, ja viņi tam piekrīt.
+155. Darbu sagatavošanai vai sevišķu uzdevumu veikšanai komisija var ievēlēt no saviem locekļiem ne vairāk kā divas apakškomisijas. Apakškomisijas sastāvā var iekļaut arī deputātus, kas nav attiecīgās komisijas locekļi, ja viņi tam piekrīt.
