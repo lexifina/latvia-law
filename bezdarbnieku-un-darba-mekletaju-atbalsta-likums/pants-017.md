@@ -8,5 +8,5 @@ c) pakalpojumi darba devējiem potenciālo darbinieku atlasei, izņemot pakalpoj
 (2) Sniegt darbiekārtošanas pakalpojumus (izņemot personu iekārtošanu darbā uz kuģiem) atļauts komersantiem, kuriem Nodarbinātības valsts aģentūra izsniegusi attiecīgu licenci.
 (3) Ar personu iekārtošanu darbā uz kuģiem atļauts nodarboties komersantiem, kuriem Satiksmes ministrija izsniegusi attiecīgu licenci.
 (4) Ja citā Eiropas Savienības dalībvalstī reģistrēts komersants ir tiesīgs sniegt darbiekārtošanas pakalpojumus saskaņā ar attiecīgās valsts normatīvajiem aktiem, minētajam komersantam, pirms viņš uzsāk šādu pakalpojumu sniegšanu Latvijā, ir pienākums rakstveidā par to informēt Nodarbinātības valsts aģentūru.
-(5) Administratīvo aktu par licences izsniegšanu, kā arī par licences darbības apturēšanu vai licences anulēšanu izdod Nodarbinātības valsts aģentūras izveidota licencēšanas komisija.
+(5) Administratīvo aktu par licences izsniegšanu, kā arī par licences darbības apturēšanu vai licences anulēšanu izdod Nodarbinātības valsts aģentūra.
 (6) Administratīvā akta par licences izsniegšanu, licences darbības apturēšanu vai licences anulēšanu apstrīdēšana vai pārsūdzēšana neaptur tā darbību.
