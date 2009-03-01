@@ -12,7 +12,8 @@
 9¹) pieteikuma iesniedzēji - lietās par bērna prettiesisku pārvietošanu pāri robežai vai aizturēšanu;
 10) administratori - prasībās, kas celtas par maksātnespējīgu atzītas personas labā;
 11) piedzinēji - izpildu lietās par piedziņām valsts ienākumos;
-12) nodokļu (nodevu) administrācija - pieteikumos juridiskās personas maksātnespējas procesa lietās.
+12) nodokļu (nodevu) administrācija - pieteikumos juridiskās personas maksātnespējas procesa lietās;
+13) Naturalizācijas pārvalde - lietās par Latvijas pilsonības atņemšanu.
 (2) Ja prokurors, tās valsts vai pašvaldību iestādes un personas, kurām ar likumu piešķirtas tiesības aizstāvēt tiesā citu personu tiesības un ar likumu aizsargātās intereses, atsakās no pieteikuma, kas iesniegts citas personas labā, bet šī persona prasa lietas izskatīšanu pēc būtības, tiesas izdevumi jāmaksā saskaņā ar vispārīgiem noteikumiem.
 (3) Puses atbrīvojamas no tiesas izdevumu samaksas valsts ienākumos arī citos likumā paredzētajos gadījumos.
 (4) Tiesa vai tiesnesis, ievērojot fiziskās personas mantisko stāvokli, pilnīgi vai daļēji atbrīvo to no tiesas izdevumu samaksas valsts ienākumos, kā arī atliek valsts ienākumos piespriesto tiesas izdevumu samaksu vai sadala to termiņos.

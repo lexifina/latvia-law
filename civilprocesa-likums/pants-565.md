@@ -5,9 +5,10 @@
 3) ja piedzinējs atteicies saņemt parādniekam izņemtos priekšmetus, kas norādīti tiesas spriedumā;
 4) ja pēc piedzinēja norādītās adreses parādnieks nedzīvo vai nestrādā vai tur neatrodas viņa manta;
 5) ja piedzinējs, kas nav atbrīvots no sprieduma izpildes izdevumu samaksas, nav tos samaksājis;
-6) ja, piemērojot piedzinēja norādīto piespiedu izpildes līdzekli, spriedumu izpildīt nav iespējams un pēc uzaicinājuma viņš nav paziņojis par cita piespiedu izpildu līdzekļa piemērošanu.
+6) ja, piemērojot piedzinēja norādīto piespiedu izpildes līdzekli, spriedumu izpildīt nav iespējams un piedzinējs 10 dienu laikā pēc uzaicinājuma izsniegšanas nav paziņojis par cita piespiedu izpildu līdzekļa piemērošanu.
 (2) Šā panta pirmās daļas 2., 3. un 4.punktā minētajos gadījumos tiesu izpildītājs sastāda attiecīgu aktu.
-(3) Izsniedzot izpildu dokumentu piedzinējam, tiesu izpildītājs atceļ visus pieņemtos piespiedu izpildes līdzekļus.
+(2¹) Ja izpildu lietā par periodisku maksājumu piedziņu pilnībā tiek segts parāds un sprieduma izpildes izdevumi, izpildu dokumentu izsniedz piedzinējam.
+(3) Izpildu dokumentu piedzinējam izsniedz, ja ir segti sprieduma izpildes izdevumi, izņemot gadījumu, kad sprieduma izpildes izdevumus saskaņā ar šā likuma noteikumiem maksā piedzinējs. Izsniedzot izpildu dokumentu piedzinējam, tiesu izpildītājs atceļ visus pieņemtos piespiedu izpildes līdzekļus.
 (4) Izpildu dokumenta izsniegšana atpakaļ piedzinējam nav šķērslis šā dokumenta jaunai iesniegšanai izpildei likumā noteiktajā termiņā.
 (5) Izpildu dokumentu, pēc kura izpilde izdarāma valsts ienākumos, tiesu izpildītājs izsniedz Valsts ieņēmumu dienestam.
-(6) Uzturlīdzekļu garantiju fonda administrācijas izpildrīkojumu par nepamatoti izmaksāto uzturlīdzekļu summu piedziņu no iesniedzēja piedzinējam atpakaļ neizsniedz. Ja uzturlīdzekļu piedzinējs saņēmis tiesu izpildītāja izziņu par uzturlīdzekļu piedziņas neiespējamību vai daļēju piedziņu, izpildu dokumentu piedzinējam izsniedz tikai pēc tam, kad no Uzturlīdzekļu garantiju fonda administrācijas saņemts apliecinājums par prasījuma neesamību. Tiesu izpildītāja pienākums ir ne retāk kā reizi pusgadā veikt parādnieka mantas un ienākumu pārbaudi.
+(6) (Izslēgta ar 05.02.2009. likumu.)

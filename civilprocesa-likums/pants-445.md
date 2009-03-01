@@ -1,3 +1,3 @@
 445.pants. Blakus sūdzības atstāšana bez virzības
-(1) Ja iesniedzējs nav parakstījis blakus sūdzību vai tai nav pievienoti visi nepieciešamie noraksti, tiesnesis pieņem lēmumu atstāt blakus sūdzību bez virzības un nosaka termiņu trūkumu novēršanai.
+(1) Ja iesniedzējs nav parakstījis blakus sūdzību vai tai nav pievienoti visi nepieciešamie noraksti vai likumā paredzētajos gadījumos nav pievienots noteiktā kārtībā apliecināts blakus sūdzības un tai pievienoto dokumentu norakstu tulkojums, tiesnesis pieņem lēmumu atstāt blakus sūdzību bez virzības un nosaka termiņu trūkumu novēršanai.
 (2) Ja iesniedzējs noteiktā termiņā novērš lēmumā norādītos trūkumus, blakus sūdzība uzskatāma par iesniegtu dienā, kad tā pirmoreiz iesniegta tiesai. Pretējā gadījumā blakus sūdzība uzskatāma par neiesniegtu un atdodama iesniedzējam.

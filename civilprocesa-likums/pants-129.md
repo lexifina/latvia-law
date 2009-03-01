@@ -5,3 +5,4 @@
 2) lietas iepriekšējās ārpustiesas izskatīšanas kārtības ievērošanu, ja tāda noteikta likumā;
 3) apstākļus, uz kuriem prasījums pamatots.
 (3) Tiesnesis atkarībā no lietas apstākļiem un rakstura var uzlikt prasītājam par pienākumu iesniegt prasības pieteikumam pievienoto dokumentu norakstus nosūtīšanai atbildētājam un trešajām personām.
+(4) Likumā paredzētajos gadījumos prasības pieteikumam un tam pievienoto dokumentu norakstiem pievienojams noteiktā kārtībā apliecināts tulkojums, ja dokumenti paredzēti izsniegšanai personai saskaņā ar šā likuma 56.² pantu. Tulkojumu nepievieno persona, kas atbrīvota no tiesas izdevumu samaksas.

@@ -3,4 +3,5 @@
 (2) Saistību piespiedu izpildīšana brīdinājuma kārtībā nav pieļaujama:
 1) par maksājumiem, kas ir saistīti ar neizpildītu pretizpildījumu;
 2) ja parādnieka dzīvesvieta nav zināma;
-3) ja parādnieka dzīvesvieta vai atrašanās vieta nav Latvijas Republikā.
+3) ja parādnieka dzīvesvieta vai atrašanās vieta nav Latvijas Republikā;
+4) ja pieprasītais līgumsods pārsniedz galvenā parāda summu.

@@ -6,5 +6,5 @@ Izsoles aktā tiesu izpildītājs norāda:
 4) pārdodamā priekšmeta nosaukumu vai numuru pēc aprakstes akta;
 5) pārdodamā priekšmeta izsoles sākumcenu un izsoles soli;
 6) izsolē solīto augstāko cenu;
-7) pircēja vārdu, uzvārdu, personas kodu un adresi;
+7) nosolītāja vārdu, uzvārdu, personas kodu un adresi;
 8) vai pie pārdošanas bijis klāt parādnieks vai viņa pārstāvis.

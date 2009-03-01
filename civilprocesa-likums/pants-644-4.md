@@ -9,7 +9,7 @@
 7) pieteikuma sastādīšanas laiku.
 (2) Pieteikumam pievieno:
 1) pienācīgi apliecinātu ārvalsts tiesas nolēmuma norakstu;
-2) attiecīgajos gadījumos - pienācīgi apliecinātu ārvalsts tiesas izsniegtā Eiropas izpildes rīkojuma vai Padomes regulas Nr. 2201/2003 41.panta 1.punktā minētās apliecības norakstu;
+2) attiecīgajos gadījumos - pienācīgi apliecinātu ārvalsts tiesas izsniegtā Eiropas izpildes rīkojuma, Eiropas maksājuma rīkojuma, Padomes regulas Nr. 2201/2003 41.panta 1.punktā minētās apliecības vai Eiropas Parlamenta un Padomes regulas Nr. 861/2007 20.panta 2.punktā minētās apliecības norakstu;
 3) citus dokumentus, uz kuriem pamatots pieteicēja pieteikums;
 4) pieteikuma un noteiktā kārtībā apliecinātu šīs daļas 1., 2. un 3.punktā minēto dokumentu tulkojumu valsts valodā.
 (3) Pieteikumu paraksta pieteicējs vai tā pārstāvis. Ja pieteikumu parakstījis pieteicēja pārstāvis, pieteikumam pievieno pilnvaru vai citu dokumentu, kas apliecina pilnvarojumu iesniegt pieteikumu.

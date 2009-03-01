@@ -1,4 +1,4 @@
 581.pants. Apķīlātās mantas pārdošana
 (1) Tiesu izpildītājam ir tiesības pārdot parādnieka mantu, ja 10 dienu laikā pēc mantas apķīlāšanas nav iesniegtas sūdzības par tiesu izpildītāja darbībām vai nav iesniegts lūgums par eksperta pieaicināšanu atkārtotai mantas novērtēšanai. Ja iesniegtas sūdzības, tiesu izpildītājam ir tiesības pārdot parādnieka mantu pēc sūdzību izlemšanas, bet ne agrāk par 10 dienām pēc mantas apķīlāšanas. Ja iesniegts lūgums par eksperta pieaicināšanu, - pēc mantas atkārtotas novērtēšanas vai lūguma noraidīšanas, bet ne agrāk par 10 dienām pēc mantas apķīlāšanas.
 (2) Gadījumos, kad sevišķu apstākļu dēļ nolēmuma izpildes kavēšanās var radīt ievērojamus zaudējumus piedzinējam vai arī pati piedziņa var kļūt neiespējama, manta izņemama un pārdodama nekavējoties.
-(3) Apķīlāto mantu tiesu izpildītājs var pārdot izsolē kā vienu izsoles priekšmetu, ja ir apķīlātas vienādas lietas vai lietu komplekti.
+(3) Apķīlāto mantu tiesu izpildītājs var pārdot izsolē kā vienu izsoles priekšmetu, ja ir apķīlātas vienādas lietas vai galvenā lieta un tās blakus lietas vai apķīlātās lietas ir nelietderīgi pārdot atsevišķi.

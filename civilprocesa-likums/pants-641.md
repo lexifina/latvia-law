@@ -1,3 +1,5 @@
-641.pants. Pirmās instances tiesas un apelācijas instances tiesas lēmuma pārsūdzēšana
+641.pants. Pirmās instances tiesas un apelācijas instances tiesas lēmuma spēkā stāšanās pārsūdzēšana
 (1) Par pirmās instances tiesas lēmumu ārvalsts tiesas nolēmuma atzīšanas lietā var iesniegt blakus sūdzību apgabaltiesai, bet apgabaltiesas lēmumu par blakus sūdzību var pārsūdzēt Senātā, iesniedzot blakus sūdzību.
-(2) Lietas dalībnieks, kura dzīvesvieta vai atrašanās vieta ir Latvijā, šā panta pirmajā daļā minēto blakus sūdzību var iesniegt 30 dienu laikā no lēmuma noraksta saņemšanas dienas, bet lietas dalībnieks, kura dzīvesvieta vai atrašanās vieta nav Latvijā, - 60 dienu laikā no lēmuma noraksta saņemšanas dienas.
+(2) Lietas dalībnieks, kura dzīvesvieta vai atrašanās vieta ir Latvijā, šā panta pirmajā daļā minēto blakus sūdzību var iesniegt 30 dienu laikā no lēmuma noraksta izsniegšanas dienas, bet lietas dalībnieks, kura dzīvesvieta vai atrašanās vieta nav Latvijā, - 60 dienu laikā no lēmuma noraksta izsniegšanas dienas.
+(3) Pirmās instances tiesas lēmums un apelācijas instances tiesas lēmums stājas likumīgā spēkā pēc tam, kad notecējis tā pārsūdzēšanas termiņš, skaitot no vēlākā lēmuma noraksta izsniegšanas datuma, un blakus sūdzība nav iesniegta.
+(4) Ja šā panta trešajā daļā minētajā gadījumā nav saņemts attiecīgs apstiprinājums par lēmuma noraksta izsniegšanu, lēmums stājas likumīgā spēkā sešus mēnešus pēc tā pasludināšanas.

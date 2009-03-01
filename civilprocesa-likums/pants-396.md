@@ -9,3 +9,4 @@
 5) tiesības nekustamajā īpašumā, kuras īpašnieks patur sev;
 6) citus pārdošanas nosacījumus, kurus pārdevējs atzīst par nepieciešamiem.
 (4) Ja pārdodamais nekustamais īpašums atrodas vairāku personu kopīgā īpašumā, tad, nosakot pārdošanu izsolē tiesas ceļā pēc īpašnieka pieteikuma, ir vajadzīga visu līdzīpašnieku piekrišana.
+(5) Ja vienam un tam pašam ķīlas ņēmējam viena un tā paša parādnieka nekustamajiem īpašumiem ir reģistrētas pirmās hipotēkas un tie savstarpēji ir funkcionāli saistīti vai tiem ir kopēja robeža, pieteicējam ir tiesības lūgt tiesu pieteikumā norādītos nekustamos īpašumus izsolīt kā kopību.

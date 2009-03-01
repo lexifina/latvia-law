@@ -7,13 +7,13 @@
 (3) Sludinājumā par nekustamā īpašuma izsoli norāda:
 1) nekustamā īpašuma īpašnieka un piedzinēja vārdu un uzvārdu, juridiskajām personām - nosaukumu un atrašanās vietu (juridisko adresi);
 2) tiesu izpildītāja vārdu, uzvārdu, amata vietu un prakses vietu;
-3) nekustamā īpašuma īsu aprakstu un atrašanās vietu;
+3) nekustamā īpašuma īsu aprakstu, atrašanās vietu un kadastra numuru;
 4) nekustamā īpašuma novērtējumu;
-5) hipotekāros kreditorus un viņu prasījumus;
+5) (izslēgts ar 05.02.2009. likumu);
 6) ka visām personām, kurām uz nekustamo īpašumu ir tiesības, kas nepieļauj tā pārdošanu izsolē, jāpieteic savas prasības tiesā līdz izsoles dienai;
 7) kura izsole pēc kārtas tā ir;
 8) izsoles laiku un vietu;
 9) nodrošinājuma summu, kas iemaksājama tiesu izpildītāja depozīta kontā.
-(4) Par nekustamā īpašuma izsoli tiesu izpildītājs paziņo parādniekam, piedzinējam, kā arī kopīpašniekam un hipotekārajam kreditoram, ja tādi ir.
+(4) Par nekustamā īpašuma izsoli tiesu izpildītājs vismaz divas nedēļas iepriekš ierakstītā sūtījumā paziņo parādniekam un piedzinējam, nekustamā īpašuma īpašniekam, kopīpašniekam, hipotekārajam kreditoram un personai, kuras labā nostiprināta ķīlas tiesību vai aizlieguma atzīme, ja tāda ir.
 (5) No izsoles izsludināšanas dienas visi dokumenti, kas attiecas uz pārdošanu izsolē, ir pieejami visām personām, kuras vēlas ar tiem iepazīties.
 (6) Izziņojot nekustamā īpašuma izsoli, piemērojami arī šā likuma 584.panta ceturtās daļas noteikumi.

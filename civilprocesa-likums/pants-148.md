@@ -1,5 +1,7 @@
 148.pants. Prasības pieteikuma un tam pievienoto dokumentu nosūtīšana atbildētājam
-(1) Pēc lietas ierosināšanas prasības pieteikums un tam pievienoto dokumentu noraksti (129.panta trešā daļa) nekavējoties nosūtāmi atbildētājam ierakstītā sūtījumā, nosakot rakstveida paskaidrojuma iesniegšanai termiņu - 15-30 dienas no prasības pieteikuma nosūtīšanas dienas.
+(1) Pēc lietas ierosināšanas prasības pieteikums un tam pievienoto dokumentu noraksti (129.panta trešā daļa) nekavējoties nosūtāmi atbildētājam ierakstītā pasta sūtījumā, nosakot rakstveida paskaidrojuma iesniegšanai termiņu - 15-30 dienas no prasības pieteikuma nosūtīšanas dienas.
+(1¹) Ja prasības pieteikums un tam pievienoto dokumentu noraksti (129.panta trešā un ceturtā daļa) pēc lietas ierosināšanas nosūtāmi atbildētājam saskaņā ar šā likuma 56.² pantu, rakstveida paskaidrojuma iesniegšanas termiņš ir 30 dienas, skaitot no dienas, kad prasības pieteikums izsniegts atbildētājam.
+(1²) Prasītājam paziņo par prasības pieteikuma un tam pievienoto dokumentu norakstu nosūtīšanu atbildētājam.
 (2) Paskaidrojumā atbildētājs norāda:
 1) vai viņš atzīst prasību pilnīgi vai kādā tās daļā;
 2) savus iebildumus pret prasību un to pamatojumu;

@@ -1,0 +1,1 @@
+39. Līdz šā likuma 39.panta otrajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2009.gada 1.septembrim piemērojami Ministru kabineta 1999.gada 27.aprīļa noteikumi Nr.154 "Kārtība, kādā civillietās aprēķināmas lieciniekiem un ekspertiem izmaksājamās summas un ar atbildētāja meklēšanu saistītie izdevumi", ciktāl tie nav pretrunā ar šo likumu.

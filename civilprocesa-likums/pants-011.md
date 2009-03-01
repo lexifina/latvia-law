@@ -11,6 +11,7 @@
 3) nepilngadīgo interesēs;
 4) ja nepieciešams nopratināt personu, kas nav sasniegusi 15 gadu vecumu;
 5) tiesas spriešanas interesēs.
+(3¹) Tiesa rakstveidā brīdina personas, kuras piedalās tādas lietas izskatīšanā, kuras materiālos ir iekļauts valsts noslēpuma objekts, un kurām ir tiesības iepazīties ar lietas materiāliem, par pienākumu glabāt valsts noslēpumu un par atbildību, kas paredzēta par valsts noslēpuma izpaušanu. Valsts noslēpumu saturošu dokumentu kopiju izgatavošana nav pieļaujama.
 (4) Slēgtā tiesas sēdē piedalās lietas dalībnieki, bet, ja nepieciešams, - arī eksperti un tulki.
 (5) Ja neviens lietas dalībnieks neiebilst, ar tiesas sēdes priekšsēdētāja atļauju slēgtā tiesas sēdē var piedalīties personas, kam to darīt ir īpašs iemesls.
 (6) Lietu slēgtā tiesas sēdē izskata, ievērojot visus tiesvedības noteikumus.

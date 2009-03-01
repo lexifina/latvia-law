@@ -5,7 +5,7 @@
 3) prasības nodrošināšanas atzīmes ierakstīšana zemesgrāmatā vai kuģu reģistrā;
 4) kuģa arests;
 5) aizliegums atbildētājam veikt noteiktas darbības;
-6) to maksājumu (arī noguldījumu kredītiestādē) apķīlāšana, kuri pienākas no trešajām personām;
+6) to maksājumu apķīlāšana, kuri pienākas no trešajām personām, tajā skaitā naudas līdzekļi kredītiestādēs un citās finanšu institūcijās;
 7) izpildu darbības atlikšana (arī aizliegums tiesu izpildītājam nodot naudu vai mantu piedzinējam vai parādniekam vai mantas pārdošanas apturēšana).
 (2) Nodrošinot prasību ar aizlieguma atzīmes ierakstīšanu attiecīgās kustamas mantas reģistrā vai citā publiskā reģistrā, lēmumā norāda, kāda veida aizliegums ierakstāms.
 (3) Ja prasības priekšmets ir īpašuma tiesība uz kustamu mantu vai nekustamo īpašumu vai prasība vērsta uz tiesības nostiprinājuma izdarīšanu, prasības nodrošinājums izdarāms, apķīlājot strīdā esošo kustamo mantu vai ierakstot zemesgrāmatā attiecīgā nekustamā īpašuma nodalījumā aizlieguma atzīmi.
