@@ -1,0 +1,2 @@
+82.nodaļa
+Starptautiskā civilprocesuālā sadarbība dokumentu izsniegšanā saskaņā ar Latvijas Republikai saistošiem starptautiskajiem līgumiem

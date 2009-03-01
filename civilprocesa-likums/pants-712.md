@@ -1,0 +1,6 @@
+712.pants. Ārvalsts pierādījumu iegūšanas lūguma izpildes vispārīgie noteikumi
+(1) Ārvalsts pierādījumu iegūšanas lūgumu izpilda rajona (pilsētas) tiesa, kuras darbības teritorijā atrodas iegūstamā pierādījuma avots.
+(2) Ja tiesa, kurai ārvalsts pierādījumu iegūšanas lūgums iesniegts saskaņā ar šā panta pirmo daļu, konstatē, ka daļa pierādījumu atrodas citā pilsētā vai rajonā, tā uzdod attiecīgajai tiesai izdarīt noteiktas procesuālās darbības atbilstoši šā likuma 102. un 103.pantam.
+(3) Ārvalsts pierādījumu iegūšanas lūgumu izpilda šajā likumā noteiktajā kārtībā, izņemot gadījumus, kad ārvalsts pierādījumu iegūšanas lūguma izpilde pieļauta ārvalsts procesuālajā kārtībā pēc ārvalsts kompetentās iestādes lūguma.
+(4) Ārvalsts pierādījumu iegūšanas lūguma izpildi uzsāk nekavējoties pēc tam, kad pieņemts lēmums par pierādījumu iegūšanas lūguma izpildes pieļaujamību. Ja nav iespējams ārvalsts pierādījumu iegūšanas lūgumu izpildīt 90 dienu laikā no tā saņemšanas dienas, tiesa par to rakstveidā paziņo Tieslietu ministrijai, norādot iemeslus, kas kavē minētā lūguma izpildi.
+(5) Ja ārvalsts pierādījumu iegūšanas lūguma izpilde ir apgrūtināta vai neiespējama, tiesa rakstveidā paziņo Tieslietu ministrijai minētā lūguma neizpildes iemeslus.

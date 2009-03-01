@@ -1,0 +1,4 @@
+702.pants. Ārvalsts pierādījumu iegūšanas lūguma izpilde ar pušu vai ārvalsts kompetentās tiesas pārstāvju līdzdalību
+(1) Ja ir pieļauta ārvalsts pierādījumu iegūšanas lūguma izpilde, ārvalsts kompetentās tiesas pārstāvjiem vai pusēm, vai to pārstāvjiem klātesot vai piedaloties pierādījumu iegūšanā saskaņā ar Hāgas 1970.gada konvencijas 7. vai 8.pantu, tiesa, kas izpilda ārvalsts pierādījumu iegūšanas lūgumu, paziņo ārvalsts kompetentajai iestādei vai tieši ārvalsts kompetentās tiesas pārstāvjiem vai pusēm, vai to pārstāvjiem par pierādījumu iegūšanas laiku un vietu, kā arī par līdzdalības nosacījumiem.
+(2) Tiesa noskaidro, vai ārvalsts kompetentās tiesas pārstāvjiem, pusēm vai to pārstāvjiem nepieciešams tulks.
+(3) Ja šā panta pirmajā daļā minētās personas nesaprot valsts valodu un ja nav būtisku praktisko grūtību, pēc ārvalsts kompetentās tiesas pārstāvju vai pušu, vai to pārstāvju lūguma pierādījumu iegūšanā piedalās tulks.

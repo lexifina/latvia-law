@@ -1,0 +1,3 @@
+658.pants. Ārvalsts dokumentu izsniegšanas lūguma valoda un forma
+(1) Saskaņā ar Eiropas Parlamenta un Padomes regulas Nr. 1393/2007 2., 4. un 10.pantu ārvalsts dokumentu izsniegšanas lūgumu, dokumentu izsniegšanas apliecinājumu un citas minētajā regulā paredzētās veidlapas pieņem, ja šie dokumenti sagatavoti valsts valodā vai angļu valodā.
+(2) Saskaņā ar Eiropas Parlamenta un Padomes regulas Nr. 1393/2007 2.pantu ārvalsts dokumentu izsniegšanas lūgumu un dokumentu izsniegšanas apliecinājumu var pieņemt rakstveidā vai ar pieejamiem komunikācijas līdzekļiem, ja tos iesniedz arī rakstveidā. Citas Eiropas Parlamenta un Padomes regulā Nr. 1393/2007 paredzētās veidlapas var pieņemt ar pieejamiem komunikācijas līdzekļiem, tās nav nepieciešams iesniegt rakstveidā.

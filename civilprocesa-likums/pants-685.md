@@ -1,0 +1,3 @@
+685.pants. Pierādījumu iegūšanā kompetentās iestādes
+(1) Saskaņā ar Padomes 2001.gada 28.maija regulas (EK) Nr. 1206/2001 par sadarbību starp dalībvalstu tiesām pierādījumu iegūšanā civillietās un komerclietās (turpmāk - Padomes regula Nr. 1206/2001) 2.pantu tiesa saņem un izlemj ārvalsts pierādījumu iegūšanas lūgumus, kā arī lemj par pierādījumu iegūšanu ārvalstī un iesniedz Latvijas pierādījumu iegūšanas lūgumus tieši ārvalstij vai - Padomes regulas Nr. 1206/2001 3.panta 1.punkta "c" apakšpunktā paredzētajos gadījumos - Tieslietu ministrijai.
+(2) Tieslietu ministrija veic Padomes regulas Nr. 1206/2001 3.pantā minētās funkcijas.

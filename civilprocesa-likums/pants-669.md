@@ -1,0 +1,4 @@
+669.pants. Latvijas dokumentu izsniegšanas lūgumam pievienoto dokumentu valoda
+(1) Latvijas dokumentu izsniegšanas lūgumam pievienotos tiesas dokumentus sagatavo valsts valodā. Tiem var pievienot tulkojumu lūguma saņēmējas valsts valodā vai citā valodā, ja Latvijas Republikai saistoši starptautiskie līgumi pieļauj šādu iespēju.
+(2) Ja saskaņā ar Latvijas Republikai saistošiem starptautiskajiem līgumiem lūguma saņēmēja valsts vai adresāts ir atteicies pieņemt dokumentus valodā, kas nav šās valsts valoda, dokumentiem pievieno tulkojumu lūguma saņēmējas valsts valodā vai citā valodā, kuru lūguma saņēmēja valsts ir paziņojusi kā pieņemamu saziņā.
+(3) Ja nav iespējams nodrošināt tulkojumu kādā no šā panta otrajā daļā minētajām valodām, Latvijas un ārvalsts kompetentās iestādes savstarpēji vienojas par citu valodu, kādā sagatavojami dokumenti vai kādā tiem pievienojams tulkojums.
