@@ -1,0 +1,2 @@
+24.³ pants. Reģistrā ierakstītu trešo valstu revidentu un trešo valstu revidentu komercsabiedrību revīzijas pakalpojumu kvalitātes kontrole
+Trešo valstu revidentu un trešo valstu revidentu komercsabiedrību reģistrā ierakstītu trešās valsts revidentu vai trešās valsts revidentu komercsabiedrību pakļauj šā likuma 35.¹ pantā noteiktajai revīzijas pakalpojumu kvalitātes kontrolei un šiem revidentiem un revidentu komercsabiedrībām piemēro šajā likumā noteikto disciplinārlietu ierosināšanas un sodu piemērošanas sistēmu.
