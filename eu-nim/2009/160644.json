@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi likumā \"Par zvērinātiem revidentiem\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "27",
+  "official_journal_page": null,
+  "official_journal_date": "2009-02-18",
+  "entry_into_force": "2009-03-04",
+  "notification_date": "2009-02-18",
+  "commission_reference": "MNE(2009)50796",
+  "nim_celex": "72006L0043LVA_160644",
+  "nim_id": "160644",
+  "transposes_celex": [
+    "32006L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/07063b09-30b8-4bc8-bd03-b5984ab483dd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
