@@ -13,6 +13,7 @@ d) derīguma termiņš,
 e) izdevējvalsts un izdevējiestāde;
 7) dzīvesvietas adrese;
 8) adrese ārvalstī, uz kuru izsūtāmi dokumenti balsošanai pa pastu, ja vēlētājs pieteicies balsot pa pastu;
+8¹) adrese ieslodzījuma vietā, uz kuru izsūtāmi dokumenti balsošanai pa pastu, ja vēlētājs pieteicies balsot pa pastu;
 9) ziņas par vēlēšanu iecirkni:
 a) numurs,
 b) adrese;
@@ -22,5 +23,8 @@ b) adrese;
 a) kandidāta pieteikšanas datums,
 b) saraksta iesniedzējs - reģistrēta politiskā organizācija (partija) vai reģistrētu politisko organizāciju (partiju) reģistrēta apvienība, vai divas vai vairākas reģistrētas politiskās organizācijas (partijas), kuras nav apvienojušās reģistrētā politisko organizāciju (partiju) apvienībā, vai vēlētāju apvienības,
 c) saraksta nosaukums,
-d) pašvaldības administratīvā teritorija, kurā kandidē.
+d) pašvaldības administratīvā teritorija, kurā kandidē;
+13) ziņas par kandidēšanu Eiropas Parlamenta vēlēšanās:
+a) kandidāta pieteikšanas datums,
+b) saraksta iesniedzējs - reģistrēta politiskā organizācija (partija) vai reģistrēta politisko organizāciju (partiju) apvienība.
 (2) Iekļaujot ziņas Reģistrā vai aktualizējot tās, papildus norāda ziņu iekļaušanas vai aktualizēšanas datumu un iemeslu.

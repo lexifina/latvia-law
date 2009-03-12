@@ -1,4 +1,4 @@
-15.pants. (1) Ja saņemts Eiropas Savienības pilsoņa iesniegums, kurā pieprasīts anulēt Reģistrā ierakstu par viņu, vai ja Eiropas Savienības pilsonis ir zaudējis tiesības vēlēt tajā Eiropas Savienības dalībvalstī, kuras pilsonis viņš ir, Centrālā vēlēšanu komisija pieņem lēmumu par ziņu izslēgšanu no Reģistra un attiecīgi aktualizē ziņas.
+15.pants. (1) Ja saņemts Eiropas Savienības pilsoņa iesniegums, kurā pieprasīts anulēt Reģistrā ierakstu par viņu, vai ja Eiropas Savienības pilsonis ir zaudējis tiesības vēlēt tajā Eiropas Savienības dalībvalstī, kuras pilsonis viņš ir, Centrālā vēlēšanu komisija izslēdz attiecīgās ziņas no Reģistra.
 (2) Pārvalde saskaņā ar Iedzīvotāju reģistrā ietverto informāciju iekļauj ziņas Reģistrā un aktualizē tās, ja:
 1) vēlētājs miris;
 2) vēlētājs atzīts par rīcībnespējīgu vai rīcībspējīgu;
