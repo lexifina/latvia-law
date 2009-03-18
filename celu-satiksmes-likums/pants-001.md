@@ -20,6 +20,8 @@ Likumā ir lietoti šādi termini:
 17) pašmasa - atbilstoši valsts standartam nokomplektēta transportlīdzekļa masa kopā ar vadītāju, bet bez pasažieriem un kravas;
 18) piekabe (puspiekabe) - transportlīdzeklis, kas paredzēts braukšanai savienojumā ar mehānisko transportlīdzekli. Šis termins neattiecas uz motociklu blakusvāģiem;
 19) pilna masa - izgatavotāja noteikta transportlīdzekļa maksimālā pieļaujamā masa kopā ar vadītāju, pasažieriem un kravu. Vilcējam ar piekabi pilna masa ir vilcēja un piekabes pilnu masu summa, bet vilcējam ar puspiekabi - vilcēja pašmasas, pasažieru masas un puspiekabes pilnas masas summa;
+19¹) specializētais tūristu transportlīdzeklis - mehāniskais transportlīdzeklis, kas savienojumā ar vienu vai vairākām pasažieru pārvadāšanai paredzētām piekabēm brauc pa noteiktu maršrutu;
+19²) speciālā traktortehnika - traktortehnika, kuru ražotājs nav paredzējis izmantošanai ceļu satiksmē;
 20) starptautiskie autotransporta pārvadājumi - jebkuri pārvadājumi ar autotransporta līdzekļiem, šķērsojot vismaz vienas valsts robežu;
 21) traktortehnika - traktors, kombains vai cita speciāla pašgājēja mašīna ar iekšdedzes motoru, ja tā nav būvēta uz automobiļa bāzes;
 22) tramvajs - transportlīdzeklis, kas paredzēts braukšanai pa sliedēm savienojumā ar ārēju elektroenerģijas padeves avotu. Šis termins neattiecas uz elektrovilcieniem;

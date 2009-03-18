@@ -1,11 +1,11 @@
 12.pants. Īpašuma tiesības apliecinoši dokumenti
-(1) Lai reģistrētu transportlīdzekli, tā īpašniekam jāiesniedz pietiekami dokumentāri pierādījumi par transportlīdzekļa iegūšanu legālā ceļā.
+(1) Lai reģistrētu transportlīdzekli, tā īpašniekam jāiesniedz pietiekami dokumentāri pierādījumi par transportlīdzekļa iegūšanu legālā ceļā. Dokumenti nav jāiesniedz, ja atsavinātājs transportlīdzekļu un to vadītāju valsts reģistrā izdarījis atzīmi par transportlīdzekļa nodošanu īpašumā ieguvējam.
 (2) Dokumenti, ar kuriem pierādāmas īpašuma tiesības, ir:
 1) izraksts no notariālo aktu grāmatas vai noteiktā kārtībā apliecināts līgums (Civillikuma 1474.pants) par transportlīdzekļa atsavinājumu (dāvinājums, pirkums, maiņa u.tml.), kopmantas dalīšanas līgums vai līgums par kopīpašuma izbeigšanu;
 2) mantojuma apliecība, tiesas spriedums par mantošanu, mantojuma, laulāto kopmantas vai kopīpašuma sadali, īpašuma tiesību atzīšanu, iegūšanu ar ieilgumu vai uz citiem Civillikumā paredzētiem īpašuma tiesību iegūšanas pamatiem;
 3) rēķins - uzziņa, kuru izsniedzis komersants, kas nodarbojas ar transportlīdzekļu tirdzniecību;
 4) dokuments par transportlīdzekļa iegādi ārvalstīs;
-5) akts par juridiskajai personai piederoša Latvijā reģistrēta transportlīdzekļa nodošanu īpašumā citai personai. Ja transportlīdzeklis nav iepriekš reģistrēts uz šīs juridiskās personas vārda, papildus jāiesniedz dokuments par tā likumīgu iegādi;
+5) akts par atsavinātājam - juridiskajai personai Latvijā reģistrēta transportlīdzekļa nodošanu īpašumā ieguvējam;
 6) akts par apdrošinājuma ņēmējam - juridiskajai vai fiziskajai personai - piederoša transportlīdzekļa nodošanu īpašumā Apdrošināšanas sabiedrību un to uzraudzības likumā noteiktajam apdrošinātājam sakarā ar apdrošināšanas gadījuma iestāšanos;
 7) dokuments par loterijā vai citā ceļā legāli laimētu transportlīdzekli;
 8) dokuments par Latvijā izgatavota vai pārbūvēta transportlīdzekļa leģitimāciju;

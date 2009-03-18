@@ -1,4 +1,4 @@
 21.pants. Pilnvarojumi darbībām ar transportlīdzekļiem
 (1) Transportlīdzekļa atsavināšanai vai noņemšanai no uzskaites izdotajā pilnvarā (speciālpilnvara, ģenerālpilnvara vai universālpilnvara) jābūt speciālai norādei par atļauju atsavināt transportlīdzekli vai noņemt to no uzskaites. Fiziskās personas izdotajai pilnvarai nepieciešams notāra vai citas Civillikuma 1474.pantā norādītās personas apliecinājums. Pilnvaru juridiskajai personai piederoša transportlīdzekļa atsavināšanai vai noņemšanai no uzskaites izdod transportlīdzekļa īpašnieks, un šajā gadījumā Civillikuma 1474.pantā norādītās personas apliecinājums nav obligāts.
-(2) Pilnvarojumu Latvijā reģistrēta transportlīdzekļa lietošanai var dot jebkurā Civillikuma 1474.pantā noteiktajā formā.
-(3) Ja nav klāt transportlīdzekļa īpašnieka, ārvalstīs reģistrēta transportlīdzekļa lietošanai personai, kuras pastāvīgā dzīvesvieta ir Latvijā, nepieciešama pilnvara. Fiziskās personas izdotajai pilnvarai nepieciešams notāra vai citas Civillikuma 1474.pantā norādītās personas apliecinājums. Pilnvaru juridiskajai personai piederoša transportlīdzekļa lietošanai izdod transportlīdzekļa īpašnieks, un šajā gadījumā Civillikuma 1474.pantā norādītās personas apliecinājums nav obligāts.
+(2) (Izslēgta ar 19.02.2009. likumu.)
+(3) (Izslēgta ar 19.02.2009. likumu.)

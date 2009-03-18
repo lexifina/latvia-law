@@ -19,7 +19,7 @@
 16) TROL - trolejbusi;
 17) M - mopēdi.
 (3) Transportlīdzekļa vadītājam, kuram ir tiesības vadīt vismaz vienas kategorijas mehānisko transportlīdzekli vai tramvaju, atļauts vadīt arī M kategorijas transportlīdzekļus.
-(4) Transportlīdzekļa vadītājam, kuram ir tiesības vadīt A, B, C1, D1, C vai D kategorijas transportlīdzekļus, atļauts vadīt arī A1 un B1 kategorijas transportlīdzekļus.
+(4) Transportlīdzekļa vadītājam, kuram ir tiesības vadīt A, B, C1, D1, C vai D kategorijas transportlīdzekļus, atļauts vadīt arī A1 un B1 kategorijas transportlīdzekļus. Transportlīdzekļa vadītājam, kuram ir tiesības vadīt B, C1, D1, C vai D kategorijas transportlīdzekļus, atļauts vadīt arī specializētos tūristu transportlīdzekļus.
 (4¹) Transportlīdzekļu vadītājam, kuram ir tiesības vadīt trolejbusu un vadītāja apliecībā izdarīta attiecīga atzīme, apdzīvotās vietās atļauts vadīt arī D1 un D kategorijai atbilstošu pasažieru sabiedrisko transportlīdzekli.
 (5) Traktortehnikas vadītāja apliecību kategorijām atbilstoša traktortehnika:
 1) A - traktori, komunālā pašgājēja traktortehnika un universālās pašgājējmašīnas ar pilnu masu līdz 7500 kilogramiem;
