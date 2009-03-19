@@ -1,0 +1,1 @@
+9.pants. Saskaņā ar Konvencijas 15.panta otro daļu tiesa Civilprocesa likumā noteiktajā kārtībā var taisīt spriedumu pat tad, ja nav saņemts apliecinājums par izsniegšanu vai nodošanu un tiek ievēroti Konvencijā minētie nosacījumi.

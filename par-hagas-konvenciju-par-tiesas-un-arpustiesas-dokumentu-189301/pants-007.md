@@ -1,0 +1,1 @@
+7.pants. Saskaņā ar Konvencijas 10.pantu Latvija neiebilst pret dokumenta nosūtīšanu pa pastu tieši adresātam Latvijā saskaņā ar Konvencijas 10.panta "a" punktu, ja dokuments ir sastādīts latviešu valodā vai tam ir pievienots tulkojums latviešu valodā un tas ir nosūtīts adresātam ar ierakstītu pasta sūtījumu (ar paziņojumu par saņemšanu).

@@ -1,0 +1,1 @@
+4.pants. Saskaņā ar Konvencijas 5.panta otro un trešo daļu Latvijas centrālā iestāde lūdz nodrošināt izsniedzamā dokumenta tulkojumu valsts valodā vai adresātam saprotamā valodā, ja adresāts ir atteicies pieņemt izsniedzamo dokumentu Civilprocesa likumā paredzētajos gadījumos.
