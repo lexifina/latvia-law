@@ -3,6 +3,7 @@
 (2) Emitents ne vēlāk kā līdz dienai, kad tā finanšu instrumenti tiek iekļauti regulētajā tirgū, izstrādā iekšējās informācijas turētāju sarakstu. Sarakstā emitents iekļauj informāciju par:
 1) emitenta valdes un padomes locekļiem un iekšējo revidentu (sabiedrības kontrolieri);
 2) citām personām (emitenta darbiniekiem), kuru rīcībā saskaņā ar darba pienākumiem nonāk iekšējā informācija;
+2¹) revīzijas komitejas locekļiem;
 3) citiem vadošiem darbiniekiem, kuri nav šā panta otrās daļas 1.punktā minēto institūciju locekļi, bet kuru rīcībā pastāvīgi atrodas ar emitentu tieši vai netieši saistīta iekšējā informācija un kuru lēmumi var ietekmēt emitenta darbību un attīstību;
 4) personām, kas saistītas ar šā panta otrās daļas 1. un 3.punktā minētajām personām. Par saistītām personām uzskatāmi: laulātais, aizgādībā esoši bērni, citi radinieki, kuriem vismaz gadu ar minēto personu ir kopīga saimniecība, jebkura juridiskā persona, ja tajā pārvaldes pienākumus pilda vai tieši vai netieši šo juridisko personu kontrolē šā panta otrās daļas 1. un 3.punktā minētās personas vai šo personu laulātais, aizgādībā esoši bērni vai šajā punktā minētie radinieki.
 (3) Iekšējās informācijas turētāju sarakstā emitents norāda šādu informāciju:

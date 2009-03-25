@@ -1,6 +1,6 @@
 57.pants. Starpperiodu pārskati
-(1) Kapitālsabiedrība, kuras akcijas ir iekļautas regulētajā tirgū, šā likuma 64.² pantā noteiktajā kārtībā iesniedz starpperiodu pārskatu par trim, sešiem, deviņiem un divpadsmit mēnešiem.
-(2) Kapitālsabiedrība, kuras parāda vērtspapīri ir iekļauti regulētajā tirgū, šā likuma 64.² pantā noteiktajā kārtībā iesniedz starpperiodu pārskatu par sešiem un divpadsmit mēnešiem.
+(1) Kapitālsabiedrība, kuras akcijas ir iekļautas regulētajā tirgū, starpperiodu pārskatu par trim, sešiem, deviņiem un divpadsmit mēnešiem izplata šā likuma 64.² pantā noteiktajā kārtībā.
+(2) Kapitālsabiedrība, kuras parāda vērtspapīri ir iekļauti regulētajā tirgū, starpperiodu pārskatu par sešiem un divpadsmit mēnešiem izplata šā likuma 64.² pantā noteiktajā kārtībā.
 (3) Šā panta pirmajā un otrajā daļā minētos pārskatus kapitālsabiedrība iesniedz ne vēlāk kā divus mēnešus pēc attiecīgā pārskata perioda beigām.
 (4) Šā panta pirmajā un otrajā daļā minētais starpperiodu pārskats par sešiem un divpadsmit mēnešiem sastāv no:
 1) saīsinātajiem finanšu pārskatiem;

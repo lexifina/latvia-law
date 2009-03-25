@@ -19,7 +19,7 @@ Likumā ir lietoti šādi termini:
 17) piedāvātājs - persona vai personu grupa, kura izsaka obligāto, brīvprātīgo vai galīgo akciju atpirkšanas piedāvājumu vai kurai ir pienākums izteikt obligāto akciju atpirkšanas piedāvājumu;
 18) Latvijas Centrālais depozitārijs - kapitālsabiedrība, kas iegrāmato un uzskaita šajā likumā noteiktajā kārtībā izlaistos finanšu instrumentus, kā arī nodrošina finanšu instrumentu un naudas norēķinus par darījumiem, kas noslēgti ar finanšu instrumentiem;
 19) finanšu instrumentu tirgus dalībnieki - kredītiestādes, kuras sniedz ieguldījumu pakalpojumus vai ieguldījumu blakuspakalpojumus, ieguldījumu brokeru sabiedrības, emitenti, ieguldītāji, sabiedrības, kuras saskaņā ar likumu ir tiesīgas pārvaldīt kopējo ieguldījumu uzņēmumus, tirgus organizētāji, Latvijas Centrālais depozitārijs un citas personas, kuras veic šajā likumā regulētās darbības;
-20) būtiska līdzdalība - tieši vai netieši iegūta līdzdalība, kas aptver 10 un vairāk procentus no komercsabiedrības pamatkapitāla vai balsstiesīgo akciju (daļu) skaita vai arī dod iespēju būtiski ietekmēt komercsabiedrības finanšu un darbības politikas noteikšanu;
+20) būtiska līdzdalība - personas vai vairāku personu, kas uz vienošanās pamata rīkojas saskaņoti, tieši vai netieši iegūta līdzdalība, kura aptver 10 un vairāk procentu no komercsabiedrības pamatkapitāla vai balsstiesīgo akciju vai daļu skaita vai dod iespēju būtiski ietekmēt komercsabiedrības finanšu un darbības politikas noteikšanu;
 21) kontrole - personai ir kontrole pār komercsabiedrību, ja:
 a) šai personai komercsabiedrībā ir izšķirošā ietekme uz līdzdalības pamata,
 b) šai personai komercsabiedrībā ir izšķirošā ietekme uz koncerna līguma pamata,

@@ -13,7 +13,7 @@ b) juridiskajām personām - firmu, reģistrācijas numuru, datumu un vietu, kā
 a) personas, kurām pieder publiskajā apgrozībā esošas mērķa sabiedrības akcijas,
 b) personas, kurām pieder publiskajā apgrozībā neesošas mērķa sabiedrības akcijas;
 9) piedāvātāja nodomus par mērķa sabiedrības turpmāko darbību, darba vietu saglabāšanu, ieskaitot visas būtiskās izmaiņas nodarbinātības nosacījumos, piedāvātāja komercsabiedrību (ja piedāvātājs ir juridiskā persona un piedāvājums ietekmē tā turpmāko darbību) un stratēģiskos plānus attiecībā uz abām komercsabiedrībām un to iespējamo ietekmi uz mērķa sabiedrības un piedāvātāja komercsabiedrības nodarbinātību un komercsabiedrības atrašanās vietas maiņu;
-10) citu būtisku informāciju, kura tieši attiecināma uz piedāvājumu un kuru piedāvātājs uzskata par nepieciešamu;
+10) citu būtisku informāciju, kura tieši attiecināma uz piedāvājumu vai piedāvātāju un kuru piedāvātājs vai Komisija uzskata par nepieciešamu atklāt prospektā;
 11) piedāvāto zaudējumu kompensācijas apmēru mērķa sabiedrības akcionāriem, kuru tiesības tiek ierobežotas saskaņā ar šā likuma 69.panta vienpadsmito daļu, sniedzot detalizētu informāciju par to, kā šī kompensācija tiks izmaksāta, un norādot metodi, kas izmantota kompensācijas noteikšanā;
 12) informāciju par piedāvājuma finansēšanas avotiem;
 13) kādi tiesību akti reglamentēs piedāvātāja un mērķa sabiedrības akcionāru noslēgtos līgumus saistībā ar piedāvājumu, un informāciju par tiesām, kas izskata savstarpējos strīdus.

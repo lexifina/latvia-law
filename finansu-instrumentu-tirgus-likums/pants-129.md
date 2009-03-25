@@ -16,6 +16,6 @@
 1) ir iespējams jebkurā brīdī nošķirt viena klienta naudas līdzekļus no cita klienta naudas līdzekļiem vai ieguldījumu brokeru sabiedrības naudas līdzekļiem;
 2) uzskaite tiek regulāri salīdzināta ar tās trešās personas uzskaiti, kurā sabiedrība tur klientu līdzekļus.
 (8) Naudas līdzekļus, kas pieder ieguldījumu brokeru sabiedrības klientam, nedrīkst izmantot ieguldījumu brokeru sabiedrības kreditoru prasījumu apmierināšanai. Šī prasība attiecas arī uz gadījumiem, kad ieguldījumu brokeru sabiedrība likumā noteiktajā kārtībā atzīta par maksātnespējīgu.
-(9) Ja kredītiestāde klientu naudas līdzekļus, kas nepieciešami ar finanšu instrumentu veicamo darījumu nodrošināšanai, tur pie trešās personas, tā ievēro šā panta otrās, trešās, ceturtās, piektās, sestās, 6.¹ un astotās daļas prasības un nodrošina, ka:
+(9) Ja kredītiestāde klientu uzdevumā tur pie trešās personas klientu naudas līdzekļus, kas nepieciešami ar finanšu instrumentu veicamo darījumu nodrošināšanai, neatspoguļojot minētos klientu naudas līdzekļus kredītiestādes bilancē, tā ievēro šā panta otrās, trešās, ceturtās, piektās, sestās, 6.¹ un astotās daļas prasības un nodrošina, ka:
 1) ir iespējams jebkurā brīdī nošķirt viena klienta naudas līdzekļus no cita klienta naudas līdzekļiem vai kredītiestādes naudas līdzekļiem;
 2) kredītiestādes turēto klientu naudas līdzekļu uzskaite tiek regulāri salīdzināta ar tās trešās personas uzskaiti, pie kuras kredītiestāde tur klientu naudas līdzekļus.
