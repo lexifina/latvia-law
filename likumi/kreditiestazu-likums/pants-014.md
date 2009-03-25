@@ -1,4 +1,4 @@
-14.pants. Finanšu un kapitāla tirgus komisija iesniegumu par licences (atļaujas) saņemšanu izskata triju mēnešu laikā pēc visu nepieciešamo dokumentu saņemšanas. Finanšu un kapitāla tirgus komisijai ir tiesības neizsniegt licenci (atļauju) jaundibināmai kredītiestādei, ja:
+14.pants. (1) Finanšu un kapitāla tirgus komisija iesniegumu par licences (atļaujas) saņemšanu izskata triju mēnešu laikā pēc visu nepieciešamo dokumentu saņemšanas. Finanšu un kapitāla tirgus komisijai ir tiesības neizsniegt licenci (atļauju) jaundibināmai kredītiestādei, ja:
 1) dibinot kredītiestādi, nav ievēroti likumi;
 2) kredītiestādes ciešas attiecības ar trešajām personām var apdraudēt tās finansiālo stabilitāti vai ierobežo Finanšu un kapitāla tirgus komisijas tiesības veikt likumā noteiktās uzraudzības funkcijas;
 3) citas valsts likumi un citi normatīvie akti, kas attiecas uz personām, kurām ir ciešas attiecības ar jaundibināmo kredītiestādi, ierobežo Finanšu un kapitāla tirgus komisijas tiesības veikt likumā noteiktās uzraudzības funkcijas;
@@ -6,3 +6,4 @@
 5) viena vai vairākas no šā likuma 24.pantā minētajām personām neatbilst likumā noteiktajām prasībām;
 6) Finanšu un kapitāla tirgus komisija konstatē, ka finanšu līdzekļi, kurus iegulda kredītiestādes pamatkapitālā, iegūti neparastos vai aizdomīgos finanšu darījumos vai nav dokumentāri pierādīta šo finanšu līdzekļu tiesiska ieguve;
 7) jaundibināmā kredītiestāde ir meitas sabiedrība kādai ārvalstu kredītiestādei vai finanšu iestādei, kurai tās reģistrācijas valstī netiek veikta dalībvalstīs pieņemtajām prasībām līdzvērtīga uzraudzība uz konsolidēto finanšu pārskatu pamata, vai ja par tās uzraudzību atbildīgā ārvalsts institūcija ar Finanšu un kapitāla tirgus komisiju nav noslēgusi vienošanos par sadarbību un informācijas apmaiņu.
+(2) Finanšu un kapitāla tirgus komisija atsaka licences (atļaujas) izsniegšanu, ja kredītiestādes darbību reglamentējošie dokumenti paredz, ka šī kredītiestāde, ieskaitot tās vadību, neatradīsies Latvijā un nav saistīta ar kādu finanšu grupu.

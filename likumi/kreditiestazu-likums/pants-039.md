@@ -1,2 +1,2 @@
-39.pants. (1) Kredītiestādes darījuma risks tiek kvalificēts kā liels, ja darījuma apmērs pārsniedz 10 procentus no kredītiestādes pašu kapitāla.
+39.pants. (1) Kredītiestādes riska darījums tiek kvalificēts kā liels, ja riska darījuma apmērs ir 10 vai vairāk procentu no kredītiestādes pašu kapitāla.
 (2) Kredītiestāde izstrādā pamatotas lielo riska darījumu pārvaldīšanas un uzskaites procedūras un atbilstošus iekšējās kontroles mehānismus, lai laikus identificētu un reģistrētu visus lielos riska darījumus un turpmākās izmaiņas to apmēros un uzraudzītu šos riska darījumus saskaņā ar kredītiestādes politiku attiecībā uz riska darījumu ierobežojumiem.

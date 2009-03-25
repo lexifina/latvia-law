@@ -6,8 +6,8 @@
 2) lai piemērotu likumā noteiktos tiesību ierobežojumus un sodus;
 3) tiesvedības procesā, kurā tiek apstrīdēti Finanšu un kapitāla tirgus komisijas izdotie administratīvie akti vai tās faktiskā rīcība.
 (5) Šā panta pirmās un ceturtās daļas noteikumi neierobežo Finanšu un kapitāla tirgus komisiju atbilstoši tās kompetencei apmainīties ar ierobežotas pieejamības informāciju ar:
-1) citas dalībvalsts finanšu un kapitāla tirgus dalībnieku uzraudzības institūcijām;
-2) iestādēm vai personām, kas dalībvalstīs ir atbildīgas par kredītiestāžu maksājumu pārtraukšanas, maksātnespējas, likvidācijas un kredītiestāžu un citu finanšu iestāžu uzskaites pārbaužu procedūrām;
+1) citas dalībvalsts finanšu un kapitāla tirgus dalībnieku uzraudzības institūcijām un finanšu ministriju;
+2) valsts institūcijām, konsultatīvajām padomēm, darba grupām vai personu apvienībām, kas dalībvalstīs vai starptautiskajās organizācijās ir atbildīgas par kredītiestāžu maksājumu pārtraukšanas, maksātnespējas, likvidācijas, krīžu vadības vai kredītiestāžu un citu finanšu iestāžu uzskaites pārbaužu procedūrām;
 3) personām, kas dalībvalstīs veic likumā noteiktās iekšējās pārbaudes un revīzijas kredītiestādēs, apdrošinātājos, ieguldījumu brokeru, ieguldījumu pārvaldes sabiedrībās un citās finanšu iestādēs;
 4) dalībvalsts iestādēm, kas pārvalda ieguldījumu un noguldījumu kompensācijas shēmas, ja šāda informācija nepieciešama to funkciju veikšanai.
 (6) Šā panta noteikumi neaizliedz Finanšu un kapitāla tirgus komisijai apmainīties ar ierobežotas pieejamības informāciju ar dalībvalstu centrālajām bankām un citām institūcijām, kas ir atbildīgas par maksājumu sistēmu pārraudzīšanu, ja šādas informācijas sniegšana tām nepieciešama savu likumā noteikto funkciju veikšanai.

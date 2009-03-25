@@ -39,7 +39,7 @@ b) šai personai komercsabiedrībā ir izšķiroša ietekme uz koncerna līguma 
 c) starp šo personu un komercsabiedrību pastāv jebkādas citas šā punkta "a" vai "b" apakšpunktā minētajām attiecībām analogas attiecības;
 13) (izslēgts ar 22.02.2007. likumu);
 14) uzticības operācijas (trasts) - darījumi, kuros attiecības starp banku un klientu balstās uz savstarpēju uzticēšanos un saskaņā ar kuru noteikumiem banka uzņemas atbildību par klientam piederoša īpašuma pārvaldīšanu klienta labā, pārvaldot šo īpašumu šķirti no sava īpašuma;
-15) būtiska līdzdalība - tiešā vai netiešā ceļā iegūta līdzdalība, kas aptver 10 un vairāk procentus no komercsabiedrības pamatkapitāla vai balsstiesīgo akciju skaita, vai dod iespēju būtiski ietekmēt komercsabiedrības darbību;
+15) būtiska līdzdalība - personas vai vairāku personu, kas uz vienošanās pamata rīkojas saskaņoti, tieši vai netieši iegūta līdzdalība, kura aptver 10 un vairāk procentu no komercsabiedrības pamatkapitāla vai balsstiesīgo akciju skaita vai dod iespēju būtiski ietekmēt komercsabiedrības finanšu un darbības politikas noteikšanu;
 15¹) dalība - tiesības uz komercsabiedrības kapitāla daļu (neatkarīgi no tā, vai tiesības ir dokumentētas vai nav), ko, veidojot ilgstošu saikni ar šo komercsabiedrību, izmanto, lai piedalītos tās pārvaldībā, vai tiešā vai netiešā ceļā iegūta līdzdalība, kas aptver 20 un vairāk procentus no komercsabiedrības pamatkapitāla vai balsstiesīgo akciju skaita;
 16) riska darījumi - kredītiestādes bilances aktīva un ārpusbilances posteņos uzrādītās operācijas, no kurām kredītiestāde var ciest zaudējumus;
 17) (izslēgts ar 11.04.2002. likumu.);
