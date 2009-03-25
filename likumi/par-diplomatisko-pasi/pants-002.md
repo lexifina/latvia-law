@@ -1,1 +1,1 @@
-2. pants. Diplomātiskās pases izsniedz, to derīguma termiņu pagarina un uzskaiti veic Latvijas Republikas Ārlietu ministrija.
+2. pants. Diplomātiskās pases izsniedz un to uzskaiti veic Latvijas Republikas Ārlietu ministrija.

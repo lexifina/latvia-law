@@ -1,2 +1,1 @@
-5. pants. Diplomātiskās pases aizliegts izmantot privātiem, tūrisma un citiem neoficiāla rakstura ceļojumiem.
-Ja diplomātiska pase ir nozaudēta, nozagta vai iznicināta, par to nekavējoties jāziņo Latvijas Republikas Ārlietu ministrijai, bet ārvalstis - Latvijas diplomātiskajai vai konsulārajai pārstāvniecībai. Pārbaudījusi lietas apstākļus, pārstāvniecība saziņā ar Latvijas Republikas Ārlietu ministriju nozaudētās, nozagtās vai iznīcinātās diplomātiskās pases vietā izsniedz personas pagaidu apliecību.
+5. pants. Ja diplomātiskā pase ir nozaudēta, nozagta vai iznīcināta, par to nekavējoties jāziņo Latvijas Republikas Ārlietu ministrijai, bet ārvalstīs - Latvijas diplomātiskajai vai konsulārajai pārstāvniecībai.
