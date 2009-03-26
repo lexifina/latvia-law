@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Finanšu un kapitāla tirgus komisijas normatīvie noteikumi Nr.36 \"Grozījumi \"Kredītiestāžu un krājaizdevu sabiedrību darbību reglamentējošo Finanšu un kapitāla tirgus komisijas atļauju saņemšanas un informācijas sniegšanas noteikumos\"\"",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2009-03-25",
+  "entry_into_force": "2009-03-26",
+  "notification_date": "2009-03-31",
+  "commission_reference": "MNE(2009)51359",
+  "nim_celex": "72000L0012LVA_161223",
+  "nim_id": "161223",
+  "transposes_celex": [
+    "32000L0012"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2ed376a9-d326-4848-922f-ef6ff3c02dc1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
