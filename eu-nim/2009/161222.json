@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Finanšu un kapitāla tirgus komisijas normatīvie noteikumi Nr.35 \"Pārapdrošināšanas darbību reglamentējošo Finanšu un kapitāla tirgus komisijas atļauju saņemšanas, informācijas sniegšanas un saskaņošanas normatīvie noteikumi\"",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2009-03-25",
+  "entry_into_force": "2009-03-26",
+  "notification_date": "2009-03-31",
+  "commission_reference": "MNE(2009)51358",
+  "nim_celex": "72005L0068LVA_161222",
+  "nim_id": "161222",
+  "transposes_celex": [
+    "32005L0068"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/783c4558-c4f5-4c76-8e31-d863b0edb39e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
