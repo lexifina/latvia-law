@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par bateriju un akumulatoru ražotāju reģistrācijas kārtību un reģistra turētāju",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "187",
+  "official_journal_page": null,
+  "official_journal_date": "2008-12-02",
+  "entry_into_force": "2009-04-01",
+  "notification_date": "2008-12-10",
+  "commission_reference": "MNE(2008)56558",
+  "nim_celex": "72006L0066LVA_159550",
+  "nim_id": "159550",
+  "transposes_celex": [
+    "32006L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ec8b5930-0bdf-403e-8329-ba5f0f165a6d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
