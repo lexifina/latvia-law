@@ -1,2 +1,2 @@
-26.pants. Valsts pensijas palielināšana atkarībā no patēriņa cenu un apdrošināšanas iemaksu algas indeksa izmaiņām
-Valsts pensijas apmērs pārskatāms Ministru kabineta noteiktajā kārtībā ik gadu, ņemot vērā faktisko patēriņa cenu indeksu un 50 procentus no apdrošināšanas iemaksu algas reālā pieauguma indeksa.
+26.pants. Valsts pensijas palielināšana atbilstoši patēriņa cenu indeksa izmaiņām
+Valsts pensijas apmērs pārskatāms reizi gadā 1.oktobrī, ņemot vērā faktisko patēriņa cenu indeksu. Ja indekss ir mazāks par skaitli "1", valsts pensijas pārskatītas netiek. Ministru kabinets nosaka valsts pensiju pārskatīšanas kārtību.
