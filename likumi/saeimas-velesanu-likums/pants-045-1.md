@@ -1,0 +1,5 @@
+45.¹ pants. (1) Vēlētāji, kuriem kā drošības līdzeklis piemērots apcietinājums vai kuri izcieš ar brīvības atņemšanu saistītu sodu, vēlēšanās var piedalīties ieslodzījuma vietā.
+(2) Vēlētājs, kurš vēlas balsot ieslodzījuma vietā, ieslodzījuma vietas administrācijai iesniedz iesniegumu, kurā norāda savu vārdu, uzvārdu un personas kodu. Balsošanai var pieteikties ne vēlāk kā otrajā dienā pirms vēlēšanu dienas.
+(3) Ieslodzījuma vietas administrācija pārbauda, vai persona, kura vēlas balsot ieslodzījuma vietā, ir Latvijas pilsonis, kas vēlēšanu dienā būs sasniedzis 18 gadu vecumu, un reģistrē iesniegumu sarakstā par balsošanu ieslodzījuma vietā.
+(4) Dienā pirms vēlēšanu dienas ieslodzījuma vietas administrācija šā panta trešajā daļā minēto sarakstu nogādā attiecīgajai vēlēšanu iecirkņa komisijai.
+(5) Vēlēšanu dienā pēc iecirkņa atvēršanas un vēlēšanu kastu aizzīmogošanas iecirkņa komisija izsniedz ieslodzījuma vietas administrācijai balsotāju sarakstu veidlapas, visu attiecīgajā vēlēšanu apgabalā pieteikto kandidātu sarakstu vēlēšanu zīmes, ar attiecīgās iecirkņa komisijas zīmogu apzīmogotas vēlēšanu aploksnes un aizzīmogotu vēlēšanu kasti.
