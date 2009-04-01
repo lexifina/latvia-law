@@ -1,0 +1,1 @@
+8. Šā likuma 15.panta otrā daļa neattiecas uz tām lietām, kurās Administratīvā rajona tiesa spriedumu pieņēmusi līdz 2009.gada 31.martam. Šajās lietās spriedums pārsūdzams Administratīvā procesa likumā noteiktajā kārtībā.
