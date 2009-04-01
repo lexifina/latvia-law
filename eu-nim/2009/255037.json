@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2009.gada 10.marta Ministru kabineta noteikumi Nr.219 \n\nKārtība, kādā veicama obligātā veselības pārbaude",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "41 (4027), 13.03.2009.",
+  "official_journal_page": null,
+  "official_journal_date": "2009-03-13",
+  "entry_into_force": "2009-04-01",
+  "notification_date": "2018-01-23",
+  "commission_reference": "MNE(2018)50528",
+  "nim_celex": "72013L0059LVA_255037",
+  "nim_id": "255037",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e5e8ed46-9742-41c1-a870-aa16c221a8f8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
