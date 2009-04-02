@@ -1,0 +1,1 @@
+1.pants. 2008.gada 6.oktobrī Taškentā parakstītā Latvijas Republikas valdības un Uzbekistānas Republikas valdības vienošanās par sadarbību ārkārtējo situāciju novēršanas un likvidēšanas jomā (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.
