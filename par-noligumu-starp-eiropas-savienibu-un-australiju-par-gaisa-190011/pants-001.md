@@ -1,0 +1,1 @@
+1.pants. 2008.gada 30.jūnija Nolīgums starp Eiropas Savienību un Austrāliju par gaisa pārvadātāju veikto Eiropas Savienības pasažieru datu reģistra (PDR) datu apstrādi un pārsūtīšanu Austrālijas muitas dienestam (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
