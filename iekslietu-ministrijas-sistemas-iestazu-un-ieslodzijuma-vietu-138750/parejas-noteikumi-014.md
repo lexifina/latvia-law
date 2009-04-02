@@ -1,0 +1,1 @@
+14. Ja no dienesta atvaļina amatpersonu, kura nav izmantojusi 40 kalendāra dienu atvaļinājumu, kas bija noteikts šā likuma 33.panta trešajā daļā līdz attiecīgu grozījumu izdarīšanai, neizmantotā atvaļinājuma dienu skaitu aprēķina proporcionāli attiecīgajā laikposmā likumā noteiktajam atvaļinājuma ilgumam.

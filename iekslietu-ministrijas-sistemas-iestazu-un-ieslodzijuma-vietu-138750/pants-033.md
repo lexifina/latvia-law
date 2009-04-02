@@ -1,7 +1,7 @@
 33.pants. Ikgadējais apmaksātais atvaļinājums
 (1) Amatpersonai katrā kalendāra gadā piešķir ikgadējo apmaksāto atvaļinājumu, izmaksājot par šo laiku vidējo izpeļņu un uzturdevas kompensāciju.
 (2) Amatpersonai piešķir ikgadējo apmaksāto atvaļinājumu - 30 kalendāra dienas, neskaitot svētku dienas.
-(3) Amatpersonām, kuras veic tiešu noziedzības apkarošanu, tiešu valsts robežas apsardzību un kontroli, tiešu apcietinājuma kā drošības līdzekļa vai brīvības atņemšanas kā kriminālsoda izpildes nodrošināšanu, kā arī ugunsgrēku dzēšanas darbus, glābšanas darbus un zemūdens meklēšanas darbus, piešķir ikgadējo apmaksāto atvaļinājumu - 40 kalendāra dienas, neskaitot svētku dienas.
+(3) (Izslēgta ar 12.03.2009. likumu.)
 (4) Amatpersonai pēc katriem pieciem izdienas gadiem Iekšlietu ministrijas sistēmā vai Ieslodzījuma vietu pārvaldē ikgadējo apmaksāto atvaļinājumu pagarina par trim kalendāra dienām, bet ne vairāk kā par 15 kalendāra dienām kopumā.
 (5) Gadā, kad amatpersona pieņemta dienestā, ikgadējo apmaksāto atvaļinājumu tai aprēķina par laika posmu no dienestā pieņemšanas dienas līdz kalendāra gada beigām un piešķir, kad šī amatpersona Iestādē nepārtraukti nodienējusi vismaz sešus mēnešus, vai pārceļ uz nākamo gadu.
 (6) Ikgadējo apmaksāto atvaļinājumu amatpersonai piešķir saskaņā ar Iestādes vadītāja vai viņa pilnvarotas amatpersonas apstiprinātu atvaļinājumu grafiku. Atvaļinājumu grafiku izstrādā tā, lai nodrošinātu Iestādes funkciju nepārtrauktu izpildi.

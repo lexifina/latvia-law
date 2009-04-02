@@ -1,1 +1,1 @@
-10.¹ Saskaņā ar šo likumu noteikto atlīdzību (darba samaksu, prēmijas, pabalstus u.c.) 2009.gadā nosaka atbilstoši likumam "Par valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzību 2009.gadā".
+10.¹ Saskaņā ar šo likumu noteikto atlīdzību (dienesta atalgojumu, pabalstus u.c.) 2009.gadā nosaka atbilstoši likumam "Par valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzību 2009.gadā".
