@@ -7,4 +7,4 @@ Uzņēmuma (uzņēmējsabiedrības) oficiālais un saīsinātais nosaukums (firm
 Uzņēmuma (uzņēmējsabiedrības) oficiālo (firmas) nosaukumu var izmantot uzņēmējdarbībā (komerciālajos līgumos, reklāmā u. c.) no brīža, kad tas reģistrēts Uzņēmumu reģistra žurnālā.
 Katram reģistrācijas numuram Uzņēmumu reģistra žurnālā atbilst lieta (dokumentu krājums) ar tādu pašu numuru. Lietā glabājas visi dokumenti, uz kuru pamata izdarīts ieraksts Uzņēmumu reģistra žurnālā, kā arī citi likumā noteiktie dokumenti. Gada pārskats un tam pievienojamie dokumenti lietā glabājas tikai elektroniskā formā.
 Uzņēmumu reģistra žurnāls ir pastāvīgi glabājams dokuments.
-Uzņēmumu reģistram pievienotie dokumenti jāuzglabā 20 gadus pēc attiecīgas uzņēmuma (uzņēmējsabiedrības) izslēgšanas no Uzņēmumu reģistra žurnāla.
+(Devītā daļa izslēgta ar 05.03.2009. likumu.)
