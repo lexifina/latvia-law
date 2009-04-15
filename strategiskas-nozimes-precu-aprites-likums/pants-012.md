@@ -7,5 +7,5 @@
 (6) Satversmes aizsardzības birojs, Valsts ieņēmumu dienests un Drošības policija pēc komitejas pieprasījuma nodrošina to ar riska faktoru analīzi par atsevišķiem darījumiem ar stratēģiskas nozīmes precēm.
 (7) Komiteja nodrošina tās rīcībā esošās informācijas aizsardzību saskaņā ar likumu "Par valsts noslēpumu".
 (8) Komitejai ir pienākums sniegt valstīm vai starptautiskajām organizācijām informāciju par stratēģiskas nozīmes preču apriti un eksporta vai tranzīta licenču atteikumiem, ja to paredz divpusējās vai daudzpusējās vienošanās.
-(9) Komiteja ir tiesīga atteikt stratēģiskas nozīmes preču licences izsniegšanu, ja tās izsniegšana ir pretrunā ar Latvijas Republikas ārpolitikas pamatnostādnēm, Eiropas Savienības, Apvienoto Nāciju Organizācijas un Eiropas Drošības un sadarbības organizācijas noteiktajiem embargo, Ķīmisko ieroču izplatīšanas, ražošanas, uzkrāšanas un lietošanas aizliegšanas un to iznīcināšanas konvenciju, Eiropas Savienības Rīcības kodeksa kritērijiem vai šā likuma mērķiem.
+(9) Komiteja ir tiesīga Ministru kabineta noteiktajā kārtībā atteikt stratēģiskas nozīmes preču licences izsniegšanu.
 (10) Ja eksportējamās stratēģiskas nozīmes preces vai to nozīmīgākās sastāvdaļas ir ražotas citā valstī, komiteja pirms licences izsniegšanas ir tiesīga pieprasīt stratēģiskas nozīmes preču aprites subjektam attiecīgās valsts eksporta licenci (atļauju).
