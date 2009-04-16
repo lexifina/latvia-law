@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta noteikumi Nr.303 \"Grozījumi Ministru kabineta 2002.gada 20.augusta noteikumos Nr.367 \"Kārtība, kādā reģistrējamas saimnieciskās darbības vietas darbam ar dārgmetāliem, dārgakmeņiem un to izstrādājumiem, to obligātās provēšanas un marķēšanas kārtība un neprovētu dārgmetālu, dārgakmeņu un to izstrādājumu uzglabāšanas kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "57",
+  "official_journal_page": null,
+  "official_journal_date": "2009-04-15",
+  "entry_into_force": "2009-04-16",
+  "notification_date": "2009-04-22",
+  "commission_reference": "MNE(2009)51722",
+  "nim_celex": "71998L0034LVA_161587",
+  "nim_id": "161587",
+  "transposes_celex": [
+    "31998L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a4d75512-9f7d-4b5f-b0b7-c7e1f437d996",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
