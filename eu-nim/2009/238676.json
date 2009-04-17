@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2009.gada 24.marta noteikumi Nr.268 “Noteikumi par ārstniecības personu un studējošo, kuri apgūst pirmā vai otrā līmeņa profesionālās augstākās medicīniskās izglītības programmas, kompetenci ārstniecībā un šo personu teorētisko un praktisko zināšanu apjomu”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "58 (4044)",
+  "official_journal_page": null,
+  "official_journal_date": "2009-04-16",
+  "entry_into_force": "2009-04-17",
+  "notification_date": "2016-06-17",
+  "commission_reference": "MNE(2016)54222",
+  "nim_celex": "72013L0055LVA_238676",
+  "nim_id": "238676",
+  "transposes_celex": [
+    "32013L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/aa8ae32e-6bd4-42a3-b48c-f9782491ac8e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
