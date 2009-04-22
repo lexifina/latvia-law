@@ -1,2 +1,3 @@
 33. pants. Operatīvās darbības finansēšana
-Operatīvo darbību finansē no valsts budžeta līdzekļiem. Šo līdzekļu izlietošanas un iekšējās kontroles kārtību nosaka operatīvās darbības iestādes vadītājs.
+(1) Operatīvo darbību finansē no valsts budžeta līdzekļiem. Operatīvās darbības finansēšanai saņemtos valsts budžeta līdzekļus uzskaita atbilstoši normatīvajiem aktiem grāmatvedības uzskaites jomā, ievērojot valsts noslēpuma aizsardzības noteikumus.
+(2) Šo līdzekļu izlietošanas, uzskaites un iekšējās kontroles kārtību nosaka operatīvās darbības iestādes vadītājs.
