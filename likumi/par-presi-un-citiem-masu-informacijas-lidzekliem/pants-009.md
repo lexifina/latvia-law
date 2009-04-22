@@ -7,6 +7,6 @@ Pieteikumā norādāmas šādas ziņas:
 4) teritorija vai auditorija, kurā paredzēts izplatīt vai pārraidīt masu informācijas līdzekļa produkcijas galveno daļu,
 5) sākotnējais masu informācijas līdzekļa periodiskums un apjoms,
 6) masu informācijas līdzekļa redakcijas adrese.
-Kopā ar reģistrācijas pieteikumu iesniedzams dokuments par reģistrācijas nodevas samaksu un lēmums par attiecīgā masu informācijas līdzekļa dibināšanu un izdošanu. Ja dibinātājs, izdevējs vai redakcija ir dažādas personas, iesniedzams līgums, kas regulē attiecības starp šīm personām.
+Kopā ar reģistrācijas pieteikumu iesniedzams dokuments par reģistrācijas nodevas samaksu un lēmums par attiecīgā masu informācijas līdzekļa dibināšanu un izdošanu. Ja dibinātājs, izdevējs vai redakcija ir dažādas personas, iesniedzams līgums, kas regulē attiecības starp šīm personām. Par masu informācijas līdzekļa reģistrēšanu un iesniedzamo dokumentu reģistrāciju maksājama valsts nodeva, kuras apmēru, samaksas kārtību un atvieglojumus nosaka Ministru kabinets.
 Pēc masu informācijas līdzekļa reģistrēšanas izsniedz reģistrācijas apliecību.
 Masu informācijas līdzekļa dibinātāja (izdevēja) tiesības uzsākt darbību saglabājas vienu gadu no reģistrācijas apliecības saņemšanas dienas.
