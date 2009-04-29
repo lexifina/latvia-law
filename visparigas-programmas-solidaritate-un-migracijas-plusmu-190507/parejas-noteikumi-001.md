@@ -1,0 +1,1 @@
+1) Ministru kabineta 2008.gada 10.marta noteikumi Nr.167 "Solidaritātes un migrācijas plūsmu pārvaldīšanas pamatprogrammas 2007.-2013.gadam fondu īstenošanas, vadības, kontroles un uzraudzības kārtība";

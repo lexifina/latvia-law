@@ -1,0 +1,1 @@
+2) Ministru kabineta 2008.gada 10.jūnija noteikumi Nr.425 "Solidaritātes un migrācijas plūsmu pārvaldīšanas pamatprogrammas 2007.-2013.gadam Ārējo robežu fonda, Eiropas Atgriešanās fonda un Eiropas Bēgļu fonda projektu atlases un tehniskās palīdzības aktivitātes īstenošanas kārtība".

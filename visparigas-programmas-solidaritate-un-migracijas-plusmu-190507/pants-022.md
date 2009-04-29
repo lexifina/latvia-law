@@ -1,0 +1,3 @@
+22.pants. Tiesības iepazīties ar dokumentiem
+(1) Fonda projekta iesniedzējs ir tiesīgs iepazīties ar tā iesniegtā fonda projekta iesnieguma izvērtēšanas materiāliem tikai pēc tam, kad pieņemts lēmums par fonda projekta iesnieguma apstiprināšanu vai noraidīšanu.
+(2) Fonda projekta iesniedzējam, iepazīstoties ar šā panta pirmajā daļā minētajiem materiāliem, netiek izpausta informācija par personām, kuras vērtē vai ir vērtējušas fonda projekta iesniegumu, izņemot vērtēšanas komisijas locekļus. Informācija par vērtēšanas komisijas locekļiem ir pieejama šajā likumā un citos normatīvajos aktos noteiktajā apjomā un kārtībā.

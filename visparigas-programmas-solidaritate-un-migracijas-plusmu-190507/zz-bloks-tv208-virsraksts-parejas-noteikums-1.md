@@ -1,0 +1,1 @@
+Ministru kabinets līdz 2009.gada 31.decembrim izdod šajā likumā paredzētos noteikumus. Līdz minēto noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2009.gada 31.decembrim ir piemērojami šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:
