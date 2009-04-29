@@ -1,0 +1,1 @@
+9. Šā likuma 3.panta otrā daļa un 77.panta 5.punkts, kā arī 10. un 30.panta jaunā redakcija, kas terminoloģiski precizē administratīvās teritorijas sakarā ar administratīvi teritoriālo reformu, stājas spēkā 2009.gada 1.jūlijā.

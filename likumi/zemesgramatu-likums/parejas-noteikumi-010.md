@@ -1,0 +1,1 @@
+10. Līdz šā likuma 106.panta otrajā daļā minēto noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2009.gada 1.decembrim piemērojami Ministru kabineta 2001.gada 23.janvāra noteikumi Nr.28 "Noteikumi par valsts nodevu par notariālo darbību izpildi un īpašuma tiesību un ķīlas tiesību nostiprināšanu zemesgrāmatās", ciktāl tie nav pretrunā ar šo likumu.

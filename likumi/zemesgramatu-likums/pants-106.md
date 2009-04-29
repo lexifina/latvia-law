@@ -1,3 +1,2 @@
-106. Zemesgrāmatu lietās par apgabaltiesu zemesgrāmatu nodaļu veiktajām darbībām ņem:
-1) nodevas, kas paredzētas sevišķos likumos, un
-2) kancelejas nodevas pēc 107. pantā paredzētās takses.
+106. Zemesgrāmatu lietās par apgabaltiesu zemesgrāmatu nodaļu veiktajām darbībām ņem kancelejas un valsts nodevu.
+Par īpašuma tiesību un ķīlas tiesību nostiprināšanu zemesgrāmatā maksājamās valsts nodevas apmēru un samaksas kārtību, kā arī atbrīvojumus no valsts nodevas samaksas nosaka Ministru kabinets.
