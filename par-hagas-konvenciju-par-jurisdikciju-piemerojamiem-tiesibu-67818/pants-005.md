@@ -1,1 +1,1 @@
-5.pants. Saskaņā ar Konvencijas 54.panta otro daļu Latvija nepieņem paziņojumus franču valodā.
+5.pants. Saskaņā ar Konvencijas 54.panta otro punktu Latvija nepieņem paziņojumus franču valodā.
