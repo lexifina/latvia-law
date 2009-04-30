@@ -1,0 +1,1 @@
+4.pants. Likums stājas spēkā nākamajā dienā pēc tā izsludināšanas. Līdz ar likumu izsludināms arī līguma un Konvencijas par EUMETSAT dibināšanu un EUMETSAT Protokola par privilēģijām un imunitātēm teksts angļu valodā un tā tulkojums latviešu valodā.
