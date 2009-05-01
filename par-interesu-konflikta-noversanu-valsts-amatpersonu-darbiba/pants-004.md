@@ -2,9 +2,9 @@
 (1) Valsts amatpersonas ir:
 1) Valsts prezidents;
 2) Saeimas deputāts;
-3) Ministru prezidents, Ministru prezidenta biedrs, ministrs, īpašu uzdevumu ministrs, valsts ministrs un parlamentārais sekretārs;
+3) Ministru prezidents, Ministru prezidenta biedrs, ministrs, īpašu uzdevumu ministrs, parlamentārais sekretārs;
 4) Valsts prezidenta kancelejas vadītājs un viņa vietnieks, Saeimas Kancelejas direktors un viņa vietnieks;
-5) Valsts prezidenta padomnieks, Ministru prezidenta, Ministru prezidenta biedra, ministra, īpašu uzdevumu ministra un valsts ministra biroja vadītājs, padomnieks, konsultants un palīgs;
+5) Valsts prezidenta padomnieks, Ministru prezidenta, Ministru prezidenta biedra, ministra, īpašu uzdevumu ministra biroja vadītājs, padomnieks, konsultants un palīgs;
 6) Latvijas Bankas prezidents, viņa vietnieks un Latvijas Bankas padomes loceklis;
 7) valsts kontrolieris, Valsts kontroles padomes loceklis, Valsts kontroles revīzijas departamenta sektora vadītājs;
 8) Centrālās vēlēšanu komisijas priekšsēdētājs, viņa vietnieks un Centrālās vēlēšanu komisijas sekretārs;

@@ -1,3 +1,3 @@
 18.pants. Ierobežojums rīkoties ar valsts vai pašvaldību mantu
-(1) Valsts amatpersona drīkst rīkoties ar valsts vai pašvaldības mantu, tai skaitā finanšu līdzekļiem, likumā, Ministru kabineta noteikumos, kā arī pašvaldību domju (padomju) saistošajos noteikumos paredzētajā kārtībā.
+(1) Valsts amatpersona drīkst rīkoties ar valsts vai pašvaldības mantu, tai skaitā finanšu līdzekļiem, likumā, Ministru kabineta noteikumos, kā arī pašvaldību saistošajos noteikumos paredzētajā kārtībā.
 (2) Rīcība ar valsts vai pašvaldības mantu, tai skaitā finanšu līdzekļiem, šā likuma izpratnē ir pilnvarotas valsts amatpersonas lēmuma sagatavošana vai pieņemšana par valsts vai pašvaldības mantas iegūšanu vai nodošanu īpašumā vai lietošanā, vai atsavināšanu citām personām, kā arī par valsts vai pašvaldības finanšu līdzekļu pārdali.
