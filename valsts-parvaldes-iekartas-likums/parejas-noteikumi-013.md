@@ -1,0 +1,1 @@
+13. Ja darba līgums ar Ministru kabineta locekļa konsultatīvo amatpersonu vai darbinieku ir izbeidzies pirms šā likuma 25.panta otrās daļas grozījumu spēkā stāšanās dienas, amatpersonai vai darbiniekam ir tiesības saņemt atlīdzību atbilstoši šā likuma 25.panta otrās daļas redakcijai, kāda tā bija spēkā darba līguma izbeigšanās dienā.
