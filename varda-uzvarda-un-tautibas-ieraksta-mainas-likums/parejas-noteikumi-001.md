@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par vārda, uzvārda un tautības ieraksta maiņu" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 14.nr.; 1996, 14.nr.; 1997, 4.nr.; 1998, 24.nr.; 1999, 5.nr.; 2003, 14.nr.).
