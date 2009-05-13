@@ -1,0 +1,1 @@
+4.pants. Latvijas Sarkanā Krusta darbību regulē 1949.gada 12.augusta Ženēvas konvencijas (turpmāk - Ženēvas konvencijas) un šo konvenciju 1977.gada 8.jūnija un 2005.gada 8.decembra papildprotokoli (turpmāk - papildprotokoli), Biedrību un nodibinājumu likums, šis likums un citi normatīvie akti.

@@ -1,0 +1,1 @@
+3.pants. Latvijas Sarkanais Krusts ietilpst Starptautiskajā Sarkanā Krusta un Sarkanā Pusmēness kustībā. Šajā kustībā apvienojušās Starptautiskā Sarkanā Krusta komiteja, Starptautiskā Sarkanā Krusta un Sarkanā Pusmēness biedrību federācija un Sarkanā Krusta un Sarkanā Pusmēness nacionālās biedrības.

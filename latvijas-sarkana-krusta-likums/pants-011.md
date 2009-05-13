@@ -1,0 +1,1 @@
+11.pants. Latvijas Sarkanais Krusts ir tiesīgs izsniegt rakstveida atļauju citām personām izmantot Sarkanā Krusta emblēmu mērķiem, kas atbilst Latvijas Sarkanā Krusta darbības pamatuzdevumiem un Starptautiskā Sarkanā Krusta un Sarkanā Pusmēness kustības pamatprincipiem un veicina Latvijas Sarkanā Krusta darbību.

@@ -1,0 +1,2 @@
+1.pants. (1) Likuma mērķis ir veicināt sociālo labklājību un starptautisko humanitāro tiesību ievērošanu, atbalstot biedrības "Latvijas Sarkanais Krusts" (turpmāk - Latvijas Sarkanais Krusts) sadarbību ar valsts un pašvaldību institūcijām, sabiedrības iesaistīšanos minētās organizācijas darbā un nodrošinot Sarkanā Krusta emblēmas izmantošanu.
+(2) Šis likums nosaka Latvijas Sarkanā Krusta tiesisko statusu, darbības pamatuzdevumus, Sarkanā Krusta emblēmas un nosaukuma "Sarkanais Krusts" lietošanas pamatu.
