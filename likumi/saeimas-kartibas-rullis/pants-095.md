@@ -9,5 +9,5 @@
 8) tiesībsargs.
 (2) Priekšlikumi iesniedzami rakstveidā atbildīgajai komisijai vai Saeimas Kancelejai, kas tos nekavējoties nodod atbildīgajai komisijai. Ja atbilstoši Kārtības ruļļa 90.¹ pantam noteikta priekšlikumu iesniegšanas kārtība (forma) likumprojektam par budžetu, priekšlikumi iesniedzami šajā lēmumā noteiktajā kārtībā.
 (3) (Izslēgta ar 07.10.1998. likumu.)
-(4) Priekšlikumus likumprojektam par budžetu atbildīgā komisija nosūta Ministru kabinetam vismaz piecas dienas pirms to izskatīšanas komisijas sēdē, vienlaikus paziņojot, kad priekšlikumi tiks izskatīti komisijā.
+(4) Priekšlikumus likumprojektam par budžetu atbildīgā komisija apkopo un nekavējoties nosūta Ministru kabinetam, vienlaikus paziņojot, kad priekšlikumi tiks izskatīti komisijā.
 (5) Šā panta ceturtajā daļā minētajiem priekšlikumiem alternatīvus priekšlikumus Ministru kabinets var iesniegt līdz brīdim, kad atbildīgā komisija pieņem lēmumu par attiecīgā likumprojekta iesniegšanu izskatīšanai otrajā lasījumā.
