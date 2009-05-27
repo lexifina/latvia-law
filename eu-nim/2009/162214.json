@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ūdens apsaimniekošanas likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "73",
+  "official_journal_page": null,
+  "official_journal_date": "2009-05-13",
+  "entry_into_force": "2009-05-27",
+  "notification_date": "2009-06-01",
+  "commission_reference": "MNE(2009)52331",
+  "nim_celex": "72000L0060LVA_162214",
+  "nim_id": "162214",
+  "transposes_celex": [
+    "32000L0060",
+    "32006L0007",
+    "32006L0118",
+    "32007L0060",
+    "32008L0105"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/27b5cf5a-7e85-46ce-98e6-e5785feada04",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
