@@ -4,5 +4,5 @@
 2) mazu upju baseinus var apvienot ar lielāku upju baseiniem vai savienot ar blakus esošiem mazu upju baseiniem;
 3) ja pazemes ūdensobjekts atrodas vairākos upju baseinos, to pievieno tuvākajam vai piemērotākajam upju baseinu apgabalam;
 4) piekrastes ūdeņus nosaka un pievieno tuvākajam vai piemērotākajam upju baseinu apgabalam.
-(2) Ar šo likumu tiek noteikti šādi upju baseinu apgabali - Daugavas, Lielupes, Gaujas un Ventas baseinu apgabali. Latvijas upju baseinu apgabalu shēma ir noteikta šā likuma pielikumā.
+(2) Ar šo likumu tiek noteikti šādi upju baseinu apgabali - Daugavas, Lielupes, Gaujas un Ventas baseinu apgabali. Latvijas upju baseinu apgabalu shēma ir noteikta šā likuma pielikumā. Šā likuma 2.pantā noteikto mērķu sasniegšanai nepieciešamos pasākumus plāno un īsteno minēto upju baseinu apgabalu robežās.
 (3) Ministru kabinets apstiprina upju baseinu apgabalu robežu aprakstus.

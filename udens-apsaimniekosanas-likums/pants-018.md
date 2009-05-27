@@ -11,4 +11,4 @@
 9) pārskatu par sabiedrības informēšanu un konsultācijām, kas veiktas, izstrādājot vai atjaunojot plānu.
 (2) Ministru kabinets nosaka apsaimniekošanas plānā sniedzamās informācijas saturu un veidu, kā arī papildu informāciju, kas iekļaujama plānā, to atjaunojot.
 (3) Latvijas Vides, ģeoloģijas un meteoroloģijas aģentūra nodrošina apsaimniekošanas plānu pieejamību sabiedrībai.
-(4) Apsaimniekošanas plānu ņem vērā, izstrādājot attiecīgā reģiona, rajona vai vietējās pašvaldības teritorijas plānojumu vai tā grozījumus. Ja apsaimniekošanas plānā paredzētie pasākumi attiecas uz vairāku pašvaldību teritoriju attīstību, bet attiecīgās pašvaldības nav vienojušās par to iekļaušanu teritorijas plānojumā, lēmumu pēc konsultatīvās padomes ierosinājuma pieņem Vides ministrija.
+(4) Apsaimniekošanas plānu ņem vērā, izstrādājot attiecīgā reģiona vai vietējās pašvaldības teritorijas plānojumu vai tā grozījumus. Ja apsaimniekošanas plānā paredzētie pasākumi attiecas uz vairāku pašvaldību teritoriju attīstību, bet attiecīgās pašvaldības nav vienojušās par to iekļaušanu teritorijas plānojumā, lēmumu pēc konsultatīvās padomes ierosinājuma pieņem Vides ministrija.

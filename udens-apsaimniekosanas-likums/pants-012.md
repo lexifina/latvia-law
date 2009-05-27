@@ -1,6 +1,12 @@
-12.pants. Izņēmumi vides kvalitātes mērķu noteikšanai atsevišķiem ūdensobjektiem
-Apsaimniekošanas plānā atsevišķiem ūdensobjektiem var paredzēt vides kvalitātes mērķus, kas atšķiras no šā likuma 11.panta pirmajā daļā noteiktajiem, ja, ņemot vērā cilvēka darbības ietekmi vai šo ūdensobjektu dabisko stāvokli, nav iespējams sasniegt šā likuma 11.panta pirmajā daļā minētos mērķus vai šo mērķu sasniegšana prasītu nepamatoti augstas izmaksas, kā arī tad, ja:
+12.pants. Izņēmumi vides kvalitātes mērķu un to sasniegšanas termiņa noteikšanai atsevišķiem ūdensobjektiem
+(1) Apsaimniekošanas plānā atsevišķiem ūdensobjektiem var paredzēt vides kvalitātes mērķus, kas atšķiras no šā likuma 11.panta pirmajā daļā noteiktajiem, ja, ņemot vērā cilvēka darbības ietekmi vai šo ūdensobjektu dabisko stāvokli, nav iespējams sasniegt šā likuma 11.panta pirmajā daļā minētos mērķus vai šo mērķu sasniegšana prasītu nepamatoti augstas izmaksas, kā arī tad, ja:
 1) ekoloģiskās vai sociālekonomiskās vajadzības, kuras nodrošina šāda antropogēnā darbība, nevar apmierināt ar citiem paņēmieniem, kas būtu piemērotāki no vides aizsardzības viedokļa un neprasītu nepamatoti augstas izmaksas;
 2) virszemes ūdeņiem paredzēts sasniegt augstāko iespējamo ekoloģisko un ķīmisko kvalitāti, bet pazemes ūdeņiem nodrošināt mazāko iespējamo atšķirību no laba pazemes ūdeņu stāvokļa, ņemot vērā cilvēka darbības vai piesārņojuma ietekmi, no kuras nav iespējams izvairīties;
 3) ūdensobjekta stāvoklis turpmāk nepasliktinās;
 4) atšķirīgu vides kvalitātes mērķu noteikšana un tās iemesli ir pamatoti apsaimniekošanas plānā un minētos mērķus pārskata ne retāk kā reizi sešos gados.
+(2) Šajā likumā noteikto termiņu vides kvalitātes mērķu sasniegšanai atsevišķos ūdensobjektos var pagarināt, ja attiecīgā ūdensobjekta stāvoklis šajā laikā nepasliktinās un ja tā stāvokli nevar pilnībā uzlabot šajā likumā noteiktajā termiņā, pastāvot vienam no šādiem iemesliem:
+1) tehnisku iemeslu dēļ nepieciešamo uzlabojumu līmeni iespējams sasniegt ilgākā laikā, nekā paredz likumā noteiktais termiņš;
+2) uzlabojumu pabeigšanas izmaksas likumā noteiktajā termiņā ir nesamērīgi augstas;
+3) dabas apstākļi nepieļauj ūdensobjekta stāvokļa uzlabošanos likumā noteiktajā termiņā.
+(3) Iemeslus termiņa pagarinājumam norāda apsaimniekošanas plānā. Termiņa pagarinājums nedrīkst pārsniegt 12 gadus, izņemot gadījumus, kad dabas apstākļi neļauj sasniegt vides kvalitātes mērķus minētajā laikā.
+(4) Apsaimniekošanas plānā īsi apraksta, kādi obligātie un papildu pasākumi veicami, lai līdz termiņa pagarinājuma beigām pakāpeniski sasniegtu vēlamo ūdensobjekta stāvokli, kā arī pievieno pasākumu izpildes laika grafiku un tā neizpildes gadījumā izklāsta cēloņus, kas būtiski kavējuši īstenot šos pasākumus. Pārskatu par minēto pasākumu īstenošanu un kopsavilkumu par citiem veiktajiem pasākumiem iekļauj atjaunotajā apsaimniekošanas plānā.

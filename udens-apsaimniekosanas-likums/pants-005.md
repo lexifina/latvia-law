@@ -14,4 +14,8 @@
 3) virszemes ūdeņu augstas, labas, vidējas, sliktas un ļoti sliktas ekoloģiskās kvalitātes kritērijus un labas un sliktas ķīmiskās kvalitātes kritērijus, kā arī pazemes ūdeņu labas un sliktas ķīmiskās kvalitātes kritērijus;
 4) prioritāro vielu sarakstu un to emisijas ierobežošanas kārtību;
 5) ūdens objektu ekspluatācijas (apsaimniekošanas) noteikumu izstrādāšanas kārtību un virszemes ūdens objektu un ostu akvatoriju tīrīšanas un padziļināšanas kārtību;
-6) peldvietu ūdeņu kvalitātes novērtēšanas un klasifikācijas kārtību, kā arī prasības peldvietu ūdeņu aprakstiem un sabiedrības informēšanai.
+6) peldvietu ūdeņu kvalitātes novērtēšanas un klasifikācijas kārtību, kā arī prasības peldvietu ūdeņu aprakstiem un sabiedrības informēšanai;
+7) peldvietu izveidošanas un uzturēšanas kārtību un drošības prasības;
+8) kārtību, kādā izvietojami informatīvie uzraksti vai simboli par peldvietu;
+9) to peldvietu sarakstu, kurās peldvietas ūdens monitoringu peldsezonas laikā veic par valsts budžeta līdzekļiem;
+10) pasākumus peldvietu ūdens kvalitātes nodrošināšanai un cilvēku veselības aizsardzībai.

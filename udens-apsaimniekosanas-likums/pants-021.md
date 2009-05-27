@@ -6,4 +6,5 @@
 4) darbībām, kuru rezultātā rastos mākslīgs vai stipri pārveidots ūdensobjekts;
 5) citām darbībām, kas saistītas ar regulāru virszemes ūdeņu līmeņa vai režīma maiņu.
 (2) Ministru kabinets nosaka ūdens resursu lietošanas nosacījumus, ūdens resursu lietošanas atļaujas pieteikšanas un izsniegšanas kārtību, termiņus, atļaujā noteikto prasību kontroles un monitoringa nosacījumus, kā arī pieteikuma un atļaujas veidlapu paraugus.
+(2¹) Ja atbilstoši normatīvo aktu prasībām darbības uzsākšanai vai turpināšanai nepieciešama A vai B kategorijas atļauja, reģionālā vides pārvalde ūdens resursu lietošanas atļauju neizsniedz, bet pazemes vai virszemes ūdens resursu lietošanas limitus un nosacījumus norāda A vai B kategorijas atļaujā.
 (3) Ministru kabinets nosaka kritērijus, kurus ievērojot šā panta pirmajā daļā minēto darbību ietekme uz ūdens kvalitāti, daudzumu vai ūdens ekosistēmām uzskatāma par nebūtisku un atļauja ūdens resursu lietošanai nav nepieciešama.
