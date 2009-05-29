@@ -47,7 +47,7 @@
 33) (izslēgts ar 31.03.2004. likumu);
 34) (izslēgts ar 31.03.2004. likumu);
 35) par filmu producētāju (ražotāju) un izplatītāju, filmu izplatīšanas vietu un filmu reģistrāciju;
-36) (zaudējis spēku 01.07.2006.; skat. Pārejas noteikumus);
+36) (zaudējis spēku 01.07.2006.; sk. Pārejas noteikumus);
 36¹) par kadastra izziņas sagatavošanu un izsniegšanu;
 37) (izslēgts ar 09.10.2002. likumu);
 38) par dokumentu īstuma apliecināšanu (legalizāciju);
@@ -77,6 +77,7 @@
 62) par derīgo izrakteņu atradnes pases izsniegšanu;
 63) par 1973.gada Vašingtonas konvencijā par starptautisko tirdzniecību ar apdraudētajām savvaļas dzīvnieku un augu sugām noteiktās atļaujas (CITES atļauja) izsniegšanu;
 64) par 1973.gada Vašingtonas konvencijā par starptautisko tirdzniecību ar apdraudētajām savvaļas dzīvnieku un augu sugām noteiktā sertifikāta (CITES sertifikāts) izsniegšanu;
+64¹) par starptautiskās tirdzniecības apdraudēta savvaļas dzīvnieka reģistrēšanu;
 65) par iesnieguma izvērtēšanu personas reģistrācijai vai izmaiņu veikšanu fitosanitārajai kontrolei pakļauto augu un augu produktu apritē iesaistīto personu reģistrā, par iesnieguma izskatīšanu personas iekļaušanai koka iepakojuma marķētāju reģistrā, par augu aizsardzības līdzekļa reģistrāciju un uzturēšanu augu aizsardzības līdzekļu reģistrā;
 66) par iesnieguma izvērtēšanu personas reģistrācijai un izmaiņu veikšanu Sēklaudzētāju un sēklu tirgotāju reģistrā;
 67) par šķirnes uzturēšanu, iesnieguma izvērtēšanu šķirnes iekļaušanai un uzturēšanas termiņa pagarināšanai Latvijas augu šķirņu katalogā;
@@ -103,4 +104,6 @@
 88) par atļaujas izsniegšanu uz laiku tirgot sēklas, kas neatbilst minimālās dīgtspējas prasībām;
 89) par dzīvnieku barības apritē iesaistītā uzņēmuma reģistrāciju;
 90) par ģenētiski modificēto organismu riska novērtējuma atzinuma sagatavošanu;
-91) par speciālās atļaujas (licences) izsniegšanu kremācijas veikšanai.
+91) par speciālās atļaujas (licences) izsniegšanu kremācijas veikšanai;
+92) par atļaujas izsniegšanu tādu pārtikas sastāvdaļu izmantošanai bioloģisko pārtikas produktu pārstrādē, kas nav iegūtas ar bioloģiskās lauksaimniecības ražošanas metodi;
+93) par bioloģiskās lauksaimniecības kontroles institūcijas atbilstības apliecinājuma izsniegšanu.

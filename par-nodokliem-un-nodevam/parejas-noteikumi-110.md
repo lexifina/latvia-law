@@ -1,0 +1,1 @@
+110. Grozījums šā likuma 11.panta otrās daļas 78.punktā par tā izslēgšanu stājas spēkā 2009.gada 1.jūlijā. Grozījums šā likuma 11.panta otrās daļas 68.punktā par tā izteikšanu jaunā redakcijā un 11.panta otrās daļas 92. un 93.punkts stājas spēkā 2009.gada 1.decembrī. Šā likuma 11.panta otrās daļas 64.¹ punkts stājas spēkā 2010.gada 1.aprīlī.
