@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2009. gada 26. maija noteikumi Nr. 457 “Noteikumi par ģenētiski modificēto organismu apzinātu izplatīšanu”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "84 (4070)",
+  "official_journal_page": null,
+  "official_journal_date": "2009-05-29",
+  "entry_into_force": "2009-05-30",
+  "notification_date": "2019-03-18",
+  "commission_reference": "MNE(2019)51644",
+  "nim_celex": "72018L0350LVA_270814",
+  "nim_id": "270814",
+  "transposes_celex": [
+    "32018L0350"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/58bbe27a-418b-4899-96a9-f8df979e7789",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
