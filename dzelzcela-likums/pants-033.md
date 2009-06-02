@@ -9,7 +9,8 @@
 5) izskatīt dzelzceļa infrastruktūras būvprojektus un pieņemt lēmumus par tiem, izsniegt būvatļaujas un kontrolēt, kā dzelzceļa infrastruktūras būvniecības dalībnieki ievēro šā likuma un citu būvniecību reglamentējošo normatīvo aktu prasības;
 6) saskaņā ar normatīvajiem aktiem izsniegt pārvadātājiem drošības sertifikātus;
 7) noteiktā kārtībā izsniegt drošības apliecības;
-8) saskaņā ar normatīvajiem aktiem izsniegt profesionālās kompetences sertifikātus reglamentētajās sfērās.
+8) saskaņā ar normatīvajiem aktiem izsniegt profesionālās kompetences sertifikātus reglamentētajās sfērās;
+9) apmainīties ar informāciju par savu darbu un lēmumu pieņemšanas principiem un praksi ar citu Eiropas Savienības dalībvalstu attiecīgajām institūcijām.
 (4) Valsts dzelzceļa tehniskā inspekcija savas kompetences ietvaros ir tiesīga:
 1) pārbaudīt Dzelzceļa tehniskās ekspluatācijas noteikumu ievērošanu neatkarīgi no tā, kam pieder pārbaudāmais objekts;
 2) uz laiku pārtraukt vilcienu satiksmi, samazināt kustības ātrumu un aizliegt tehnisko līdzekļu ekspluatāciju, ja ir apdraudēta cilvēku dzīvība vai veselība, satiksmes drošība vai vide;

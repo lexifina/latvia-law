@@ -1,3 +1,4 @@
 35.¹ pants. Drošības apliecība
 (1) Dzelzceļa infrastruktūras pārvaldītājam un personām, kas nodarbojas ar šā likuma 3.panta 5.punktā minēto komercdarbību, jāsaņem drošības apliecība.
 (2) Drošības apliecību izsniedz, anulē, tās darbību aptur Valsts dzelzceļa tehniskā inspekcija Ministru kabineta noteiktajā kārtībā.
+(3) Lēmuma par drošības apliecības izsniegšanu, anulēšanu vai tās darbības apturēšanu apstrīdēšana un pārsūdzēšana neaptur tā darbību.
