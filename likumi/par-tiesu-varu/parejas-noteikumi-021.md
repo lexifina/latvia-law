@@ -1,0 +1,1 @@
+21. Grozījumi šā likuma 29.panta trešajā daļā un 35.panta trešajā daļā, kas piešķir Ministru kabinetam tiesības noteikt rajonu (pilsētu) tiesu un attiecīgo tiesu namu, kā arī apgabaltiesu tiesu namu darbības teritorijas, stājas spēkā 2009.gada 1.jūlijā.

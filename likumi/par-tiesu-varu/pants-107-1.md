@@ -1,14 +1,15 @@
 107.¹ pants. Tiesu administrācija
 (1) Tiesu administrācija ir tieslietu ministra padotībā esoša tiešās pārvaldes iestāde, kas organizē un nodrošina rajonu (pilsētu) tiesu, apgabaltiesu un zemesgrāmatu nodaļu administratīvo darbu.
 (2) Tiesu administrācija:
-1) sagatavo metodiskos norādījumus par tiesu un zemesgrāmatu nodaļu administratīvā darba organizēšanu;
+1) (izslēgts ar 30.04.2009. likumu);
 2) nodrošina tiesu un zemesgrāmatu nodaļu auditu, kā arī pārbaužu veikšanu;
 3) kārto tiesnešu, tiesu un zemesgrāmatu nodaļu darbinieku personāllietas;
 4) nodrošina tiesnešu amata kandidātu atlasi un organizē viņu stažēšanos;
-5) sagatavo dokumentus un veic pasākumus, kas saistīti ar tiesnešu iecelšanu un apstiprināšanu amatā, kā arī viņu atstādināšanu, atbrīvošanu un atcelšanu no amata, izdod rīkojumus par tiesnešu atvaļinājumiem un komandējumiem;
+5) sagatavo dokumentus un veic pasākumus, kas saistīti ar tiesnešu iecelšanu un apstiprināšanu amatā, kā arī viņu atstādināšanu, atbrīvošanu un atcelšanu no amata;
+5¹) izdod vai sagatavo (ja nosakāma tiesneša aizstāšana šā likuma 74.pantā minētajā gadījumā) rīkojumus par tiesnešu atvaļinājumiem, komandējumiem un apmācību;
 6) sagatavo tiesnešu amatu sarakstus un apstiprina tiesas un zemesgrāmatu nodaļas darbinieku amatu sarakstus;
 7) apstiprina tiesas un zemesgrāmatu nodaļas darbinieku amatu aprakstus;
-8) saskaņojot ar tiesas priekšsēdētāju vai zemesgrāmatu nodaļas priekšnieku, pieņem darbā un atlaiž no darba tiesas vai zemesgrāmatu nodaļas darbiniekus, izdod rīkojumus par darbinieku atvaļinājumiem un komandējumiem;
+8) saskaņojot ar tiesas priekšsēdētāju vai zemesgrāmatu nodaļas priekšnieku, pieņem darbā un atlaiž no darba tiesas vai zemesgrāmatu nodaļas darbiniekus, izdod rīkojumus par darbinieku atvaļinājumiem, komandējumiem un apmācību;
 9) plāno un nodrošina tiesnešu, tiesas un zemesgrāmatu nodaļas darbinieku un tiesu piesēdētāju apmācību;
 10) pieprasa no tiesām vai zemesgrāmatu nodaļām nepieciešamās ziņas un no to darbiniekiem - paskaidrojumus;
 11) sagatavo materiālus par disciplinārlietas ierosināšanu pret tiesnesi;
