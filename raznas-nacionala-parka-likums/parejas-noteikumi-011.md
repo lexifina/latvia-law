@@ -1,0 +1,1 @@
+11. Līdz 2009.gada 1.jūlijam ar šā likuma 2.pielikumā lietoto terminu "reģionālais autoceļš" (attiecīgā locījumā) saprot terminu "1.šķiras autoceļš" (attiecīgā locījumā), bet ar terminu "vietējais autoceļš" (attiecīgā locījumā) - terminu "2.šķiras autoceļš" (attiecīgā locījumā).

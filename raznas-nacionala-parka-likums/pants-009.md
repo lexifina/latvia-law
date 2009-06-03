@@ -1,3 +1,3 @@
 9.pants
-(1) Nacionālā parka pārvaldi īsteno Vides ministrijas pakļautībā esoša tiešās pārvaldes iestāde - Rāznas nacionālā parka administrācija (turpmāk - nacionālā parka administrācija).
-(2) Nacionālā parka administrācijas darbību reglamentē Ministru kabineta apstiprināts nolikums.
+(1) Nacionālā parka pārvaldi īsteno vides ministra pakļautībā esoša tiešās pārvaldes iestāde - Dabas aizsardzības pārvalde (turpmāk - pārvalde).
+(2) Nacionālā parka pārvaldes darbību reglamentē Ministru kabineta apstiprināts nolikums.

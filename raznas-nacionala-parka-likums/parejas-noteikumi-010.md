@@ -1,0 +1,1 @@
+10. Šā likuma grozījumi, kas paredz 2.pielikumā aizstāt vārdus "Rēzeknes rajons" (attiecīgā locījumā) ar vārdiem "Rēzeknes novads" (attiecīgā locījumā), "Krāslavas rajons" (attiecīgā locījumā) - ar vārdiem "Dagdas novads" (attiecīgā locījumā), kā arī 17.20.apakšpunktā vārdus "Čornajas pagasta" - ar vārdu "pašvaldības", stājas spēkā 2009.gada 1.jūlijā.
