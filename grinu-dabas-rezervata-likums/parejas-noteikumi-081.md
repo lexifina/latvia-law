@@ -1,1 +1,0 @@
-Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta noteikumi nr.421 "Noteikumi par Grīņu dabas rezervātu" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2000, 2.nr.).
