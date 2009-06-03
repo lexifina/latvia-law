@@ -4,8 +4,8 @@ Likumā ir lietoti šādi termini:
 2) lauku attīstība - nelauksaimniecisko produktu ražošana lauku teritorijā, kā arī ar ūdens un zemes resursu izmantošanu saistīto pakalpojumu sniegšana un lauku ainavas saglabāšana;
 3) (zaudējis spēku 01.05.2004.; skat. Pārejas noteikumus);
 4) (zaudējis spēku 01.05.2004.; skat. Pārejas noteikumus);
-5) lauku teritorija - visa Latvijas teritorija, izņemot republikas nozīmes pilsētas un rajonu centrus;
+5) (izslēgts ar 30.04.2009. likumu);
 6) lauksaimniecībā izmantojamās zemes transformācija - lauksaimniecībā izmantojamās zemes lietošanas veidu maiņa;
-7 (zaudējis spēku 01.05.2004.; skat. Pārejas noteikumus);
+7) (zaudējis spēku 01.05.2004.; skat. Pārejas noteikumus);
 8) (zaudējis spēku 01.05.2004.; skat. Pārejas noteikumus);
 9) lauksaimniecības produktu integrētā audzēšana - lauksaimniecības produktu audzēšana, izmantojot vidi saudzējošus pasākumus, saglabājot bioloģisko daudzveidību un samazinot risku cilvēku veselībai un videi, vienlaikus nodrošinot augu aizsardzības, dzīvnieku veselības un labturības pasākumus.

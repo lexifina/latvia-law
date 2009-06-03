@@ -1,0 +1,1 @@
+17. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2010.gada 1.jūlijam piemērojami Ministru kabineta 2008.gada 15.aprīļa noteikumi Nr.276 "Dzīvnieku, savvaļas augu un no tiem iegūto produktu aprites kārtība, kas nav regulēta Eiropas Savienības tieši piemērojamos aktos par bioloģisko lauksaimniecību", ciktāl tie nav pretrunā ar šo likumu.

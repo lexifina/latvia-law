@@ -1,7 +1,10 @@
 11.pants. Bioloģiskā lauksaimniecība un lauksaimniecības produktu integrētā audzēšana
-Ministru kabinets nosaka:
+(1) Kontroles organizācijas funkcijas, ko paredz Padomes 2007.gada 28.jūnija regula (EEK) Nr. 834/2007 par bioloģisko ražošanu un bioloģisko produktu marķēšanu un par regulas (EEK) Nr. 2092/91 atcelšanu (turpmāk - Padomes regula Nr. 834/2007) un Komisijas 2008.gada 5.septembra regula (EK) Nr. 889/2008, ar ko paredz sīki izstrādātus bioloģiskās ražošanas, marķēšanas un kontroles noteikumus, lai īstenotu Padomes regulu (EK) Nr. 834/2007 par bioloģisko ražošanu un bioloģisko produktu marķēšanu (turpmāk - Komisijas regula Nr. 889/2008), veic Ministru kabineta noteiktas institūcijas, kuras atbilstoši normatīvajiem aktiem akreditētas Metroloģijas un akreditācijas valsts aģentūrā un kurām ir izsniegts Pārtikas un veterinārā dienesta apliecinājums, ka tās atbilst Padomes regulas Nr. 834/2007 kritērijiem. Par apliecinājuma izsniegšanu maksājama valsts nodeva.
+(2) Bioloģiskās lauksaimniecības kontroles institūcijas lēmumu attiecībā uz operatora pievienošanos bioloģiskās lauksaimniecības kontroles sistēmai pieņem mēneša laikā pēc Komisijas regulas Nr. 889/2008 65.panta 3.punktā minētā kontroles ziņojuma sagatavošanas.
+(3) Ministru kabinets nosaka:
 1) bioloģiskās lauksaimniecības uzraudzības un kontroles kārtību;
-2) Eiropas Savienības tieši piemērojamos tiesību aktos par bioloģisko lauksaimniecību neregulēto dzīvnieku, savvaļas augu un no tiem iegūto produktu aprites kārtību;
-3) lauksaimniecības produktu integrētās audzēšanas, šo produktu uzglabāšanas un marķēšanas prasības, kā arī kontroles kārtību;
-4) valsts nodevas apmēru un samaksas kārtību par iesnieguma izvērtēšanu atļaujas izsniegšanai par veģetatīvā pavairošanas materiāla izmantošanu, kas nav iegūts ar bioloģisko lauksaimnieciskās ražošanas metodi;
-5) valsts nodevas apmēru un samaksas kārtību par iesnieguma izvērtēšanu atļaujas izsniegšanai vai pagarināšanai tādu sastāvdaļu izmantošanai bioloģiskajā lauksaimniecībā, kas nav iegūtas ar bioloģiskās lauksaimniecības ražošanas metodi.
+2) dzīvnieku un no tiem iegūto produktu aprites kārtību, kas nav regulēta Eiropas Savienības tieši piemērojamos aktos par bioloģisko lauksaimniecību;
+3) lauksaimniecības produktu integrētās audzēšanas, uzglabāšanas un marķēšanas prasības, kā arī kontroles kārtību;
+4) valsts nodevas apmēru, tās samaksas kārtību un atvieglojumus par atļaujas izsniegšanu veģetatīvā pavairošanas materiāla un sēklu izmantošanai bioloģiskajā lauksaimniecībā, ja šis materiāls un sēklas nav iegūtas ar bioloģiskās lauksaimniecības ražošanas metodi;
+5) valsts nodevas apmēru un kārtību, kādā veicama samaksa par atļaujas izsniegšanu pārtikas sastāvdaļu izmantošanai bioloģisko pārtikas produktu pārstrādē, ja šīs pārtikas sastāvdaļas nav iegūtas ar bioloģiskās lauksaimniecības ražošanas metodi;
+6) valsts nodevas apmēru un kārtību, kādā veicama samaksa par bioloģiskās lauksaimniecības kontroles institūcijas atbilstības apliecinājuma izsniegšanu.

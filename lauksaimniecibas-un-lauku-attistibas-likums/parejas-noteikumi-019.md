@@ -1,0 +1,1 @@
+19. Grozījumi šā likuma 10.panta pirmajā daļā par lauksaimniecībā izmantojamās zemes lietošanas kategorijas maiņas kārtību un šā likuma 1.panta 6.punkta un 10.panta 1.¹ daļas izslēgšanu stājas spēkā 2009.gada 1.jūlijā.

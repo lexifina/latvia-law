@@ -1,0 +1,1 @@
+18. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2010.gada 1.jūlijam piemērojami Ministru kabineta 2008.gada 2.jūnija noteikumi Nr.401 "Lauksaimniecības produktu integrētas audzēšanas, uzglabāšanas un marķēšanas prasības, kā arī kontroles kārtība", ciktāl tie nav pretrunā ar šo likumu.
