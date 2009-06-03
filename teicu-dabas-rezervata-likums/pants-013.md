@@ -1,2 +1,2 @@
 13.pants
-Administrācija saskaņo visu līmeņu teritorijas plānojumus, kuri attiecas uz rezervāta un tā ārējās aizsargjoslas teritoriju.
+Ar pārvaldi saskaņo visu līmeņu teritorijas plānojumu projektus, kuri attiecas uz rezervāta un tā ārējās aizsargjoslas teritoriju.

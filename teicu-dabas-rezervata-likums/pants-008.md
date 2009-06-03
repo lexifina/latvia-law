@@ -1,7 +1,7 @@
 8.pants
 (1) Dabas parka zona izveidota, lai saglabātu vēsturiski veidojušos ekstensīvos vides apsaimniekošanas veidus un sabalansētu dabas aizsardzības, vides izglītības un vietējo iedzīvotāju intereses.
 (2) Dabas parka zonā aizliegts:
-1) veikt zemes transformāciju;
+1) mainīt zemes lietošanas kategoriju;
 2) ierīkot kārklu, Sahalīnas sūrenes, lupīnas un lucernas sējumus un stādījumus;
 3) ierīkot iežogotas savvaļas dzīvnieku sugu brīvdabas audzētavas;
 4) cirst kokus galvenajā cirtē;

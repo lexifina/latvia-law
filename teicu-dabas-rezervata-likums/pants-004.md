@@ -1,2 +1,2 @@
 4.pants
-Rezervāta pārvaldi īsteno Vides ministrijas pakļautībā esoša tiešās pārvaldes iestāde - Teiču dabas rezervāta administrācija (turpmāk - administrācija). Administrācijas nolikumu apstiprina Ministru kabinets.
+Rezervāta pārvaldi īsteno vides ministra pakļautībā esoša tiešās pārvaldes iestāde - Dabas aizsardzības pārvalde (turpmāk - pārvalde).
