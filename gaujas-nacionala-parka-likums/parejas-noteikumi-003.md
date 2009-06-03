@@ -1,0 +1,1 @@
+3. Ministru kabinets līdz 2009.gada 1.oktobrim apstiprina šā likuma 14.panta otrajā daļā minēto nolikumu. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2009.gada 1.oktobrim tiek piemēroti Ministru kabineta 2000.gada 18.jūlija noteikumi Nr.239 "Gaujas nacionālā parka konsultatīvās padomes nolikums", ciktāl tie nav pretrunā ar šo likumu.

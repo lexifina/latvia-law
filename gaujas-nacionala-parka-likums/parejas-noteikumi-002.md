@@ -1,0 +1,1 @@
+2. Ministru kabinets līdz 2010.gada 30.decembrim izdod šā likuma 2.panta trešajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2010.gada 30.decembrim tiek piemēroti Ministru kabineta 2001.gada 7.augusta noteikumi Nr.352 "Gaujas nacionālā parka individuālie aizsardzības un izmantošanas noteikumi", ciktāl tie nav pretrunā ar šo likumu.
