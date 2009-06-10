@@ -4,4 +4,4 @@
 1) zinātnisko izpēti;
 2) meža ugunsdrošības pasākumus;
 3) pasākumus, kas nepieciešami dabas rezervāta zonas aizsardzībai un saglabāšanai (saskaņā ar nacionālā parka individuālajiem aizsardzības un izmantošanas noteikumiem);
-4) dabas rezervāta zonas šķērsošanu pa noteiktiem maršrutiem nacionālā parka administrācijas noteiktajā kārtībā.
+4) dabas rezervāta zonas šķērsošanu pa noteiktiem maršrutiem Dabas aizsardzības pārvaldes noteiktajā kārtībā.
