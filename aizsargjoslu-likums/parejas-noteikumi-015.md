@@ -1,0 +1,1 @@
+15. Šā likuma 35.panta devītā daļa, kā arī grozījumi šā likuma 45.panta ceturtajā daļā un 46.panta otrajā daļā (par šo daļu izslēgšanu) stājas spēkā 2009.gada 1.jūlijā. Atbilstoši šā likuma 35.panta devītās daļas pirmā teikuma nosacījumiem apspriežamas tās tiesiskās attiecības, kuras nodibinātas pēc 2009.gada 1.jūlija.

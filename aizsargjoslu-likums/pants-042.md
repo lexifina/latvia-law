@@ -1,5 +1,5 @@
 42.pants. Aprobežojumi aizsargjoslās gar autoceļiem un dzelzceļiem
-Aizsargjoslās gar autoceļiem un dzelzceļiem papildus šā likuma 35.pantā minētajam tiek noteikti šādi aprobežojumi:
+(1) Aizsargjoslās gar autoceļiem un dzelzceļiem papildus šā likuma 35.pantā minētajam tiek noteikti šādi aprobežojumi:
 1) lai nodrošinātu autoceļa pārredzamību un transportlīdzekļu satiksmes drošību, aizsargjoslās gar autoceļiem aizliegts:
 a) 30 metru joslā no ceļa malas cirst kokus un izvietot kokmateriālu krautuves, par to rakstveidā neinformējot autoceļa īpašnieku divas nedēļas pirms koku ciršanas uzsākšanas, kā arī ieaudzēt mežu bez saskaņošanas ar autoceļa īpašnieku,
 b) bez autoceļa īpašnieka atļaujas veikt jebkurus būvniecības un derīgo izrakteņu ieguves darbus, kā arī grunts rakšanas un pārvietošanas darbus, izņemot lauksaimniecības vajadzībām nepieciešamos darbus;
@@ -9,3 +9,4 @@ b) veikt darbības, kuru rezultātā pasliktinās hidroloģiskais režīms dzelz
 c) veikt jebkurus būvniecības vai grunts rakšanas un pārvietošanas darbus bez saskaņošanas ar dzelzceļa infrastruktūras pārvaldītāju,
 d) (izslēgts ar 22.06.2005. likumu),
 e) aizkraut pievedceļus un pieejas pie dzelzceļa apkalpošanas objektiem.
+(2) Ministru kabinets nosaka, kādos gadījumos valsts autoceļu īpašnieks vai dzelzceļa infrastruktūras pārvaldītājs dod atļauju būvniecībai aizsargjoslās gar autoceļiem un dzelzceļiem.

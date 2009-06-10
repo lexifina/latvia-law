@@ -11,7 +11,8 @@
 9) aizliegts braukt ar mašīnām un mehānismiem, kā arī strādāt ar lauksaimniecības tehniku, kuras augstums, mērot no ceļa (zemes) virsmas, pārsniedz 4,5 metrus;
 10) aizliegts veikt zemes darbus dziļāk par 0,3 metriem, bet aramzemēs - dziļāk par 0,45 metriem, kā arī veikt grunts planēšanu ar tehniku;
 11) aizliegts veikt darbus, kas saistīti ar zemju applūdināšanu uz laiku;
-12) aizliegts ar jebkādām darbībām traucēt energoapgādes uzņēmuma darbiniekus, kuri aizsargjoslā veic ekspluatācijas, remonta, rekonstrukcijas, avāriju novēršanas vai to seku likvidācijas darbus šajā likumā noteiktajā kārtībā.
+12) aizliegts ar jebkādām darbībām traucēt energoapgādes uzņēmuma darbiniekus, kuri aizsargjoslā veic ekspluatācijas, remonta, rekonstrukcijas, avāriju novēršanas vai to seku likvidācijas darbus šajā likumā noteiktajā kārtībā;
+13) aizliegts audzēt kokus un krūmus meža zemēs - platībās, kuras norādītas aizsargjoslu noteikšanas metodikā, ārpus meža zemēm - visā aizsargjoslas platumā. Ārpus meža zemēm zemes īpašnieks vai tiesiskais valdītājs aizsargjoslā var audzēt kokus un krūmus, ja par to noslēgta rakstveida vienošanās ar elektrisko tīklu īpašnieku.
 (2) Veicot apūdeņošanas grāvju un drenāžas kolektorgrāvju būvi, kā arī ierīkojot nožogojumus un veicot citus darbus, jāsaglabā pievedceļi un pieejas elektriskajiem tīkliem un to būvēm.
-(3) Zemes īpašnieks, tiesiskais valdītājs vai lietotājs aizsargjoslā var audzēt kokus un krūmus, ja par to noslēgta rakstveida vienošanās ar elektrisko tīklu īpašnieku.
+(3) (Izslēgta ar 14.05.2009. likumu.)
 (4) Elektroenerģijas apgādes uzņēmumi, kuriem saskaņā ar Enerģētikas likumu ir nepieciešama licence, izmanto nekustamo īpašumu aizsargjoslām gar elektriskajiem tīkliem bez atlīdzības par nekustamā īpašuma īpašniekam, valdītājam vai lietotājam noteikto nekustamā īpašuma lietošanas tiesību aprobežojumu.

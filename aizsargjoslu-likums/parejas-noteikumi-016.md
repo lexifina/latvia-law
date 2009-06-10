@@ -1,0 +1,1 @@
+16. Līdz šā likuma 58.⁵ pantā paredzēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2009.gada 1.decembrim piemērojami Ministru kabineta 2006.gada 27.jūnija noteikumi Nr.509 "Noteikumi par uzturēšanās ierobežojumiem aizsargjoslās ap valsts aizsardzības objektiem", ciktāl tie nav pretrunā ar šo likumu.

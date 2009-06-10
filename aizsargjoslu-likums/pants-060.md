@@ -1,3 +1,3 @@
 60.pants. Aprobežojumu ierakstīšana zemesgrāmatā
 (1) Īpašuma tiesību aprobežojumi, ja aizsargjosla atrodas uz īpašumā esoša zemes gabala, ierakstāmi zemesgrāmatā likumā noteiktajā kārtībā.
-(2) Izdevumus, kas saistīti ar aizsargjoslu, kā arī ar aizsargjoslām saistīto nekustamo īpašumu apgrūtinājumu iezīmēšanu zemes īpašuma vai lietojuma robežu plānā, sedz tā objekta, kuram ir noteikta aizsargjosla, īpašnieks, izņemot Ministru kabineta noteiktos gadījumus. Ministru kabinets nosaka, kādos gadījumos un kādā kārtībā objekta, kuram ir noteikta aizsargjosla, īpašnieks vai atbildīgā ministrija sedz izdevumus, kas saistīti ar aizsargjoslu, kā arī ar aizsargjoslām saistīto nekustamo īpašumu apgrūtinājumu iezīmēšanu zemes īpašuma vai lietojuma robežu plānā un īpašuma tiesību aprobežojumu ierakstīšanu zemesgrāmatā.
+(2) (Izslēgta ar 14.05.2009. likumu.)

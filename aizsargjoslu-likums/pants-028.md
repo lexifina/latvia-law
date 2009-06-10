@@ -9,5 +9,5 @@
 2) atklātām notekūdeņu apstrādes tilpēm un slēgtai dūņu apstrādei vai slēgtai to uzglabāšanai - 100 metru;
 3) atklātai notekūdeņu apstrādei un atklātiem dūņu laukiem - 200 metru;
 4) atklātiem filtrācijas laukiem - 50 metru;
-5) slēgta tipa bioloģiskajām attīrīšanas ietaisēm un tiem filtrācijas laukiem, kuros ietek attīrīts ūdens no slēgta tipa bioloģiskajām attīrīšanas ietaisēm, ja attīrīšanas ietaišu jauda nepārsniedz 15 m³ diennaktī, - 2 metri.
+5) slēgta tipa filtrācijas laukiem, kuros ietek attīrīts ūdens no slēgta tipa bioloģiskajām attīrīšanas ietaisēm, - 2 metri.
 (4) Aizsargjoslas nosaka no objekta ārējās robežas vai ārējās malas.

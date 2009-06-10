@@ -20,7 +20,7 @@ o) ūdenstilpei vai ūdenstecei ar applūstošo teritoriju - ne mazāk kā visas
 2) pilsētās un ciemos - teritoriju plānojumos:
 a) ne mazāk kā 10 metrus plata josla gar virszemes ūdensobjekta krasta līniju, izņemot gadījumus, kad tas nav iespējams esošās apbūves dēļ,
 b) gar ūdensobjektiem ar applūstošo teritoriju - visā tās platumā vai ne mazāk kā līdz esošai norobežojošai būvei (ceļa uzbērumam, aizsargdambim), ja aiz tās esošā teritorija neapplūst;
-3) mākslīgam ūdensobjektam (izņemot gadījumus, kad tas atrodas fiziskās personas īpašuma robežās vai kalpo ūdens novadīšanai no piegulošās teritorijas) - teritorijas plānojumā, bet ne mazāk kā 10 metrus plata josla katrā krastā;
+3) mākslīgam ūdensobjektam (izņemot tādam, kas kalpo ūdens novadīšanai no piegulošās teritorijas), kura platība ir lielāka par 0,1 hektāru, - teritorijas plānojumā, bet ne mazāk kā 10 metrus plata josla katrā krastā;
 4) uz salām un pussalām - teritoriju plānojumos, bet ne mazāk kā 20 metrus plata josla.
 (3) Aizsargjoslas platumu nosaka, ņemot vērā gada vidējo ūdens līmeni, bet, ja ir skaidri izteikts stāvs pamatkrasts, - no tā augšējās krants.
 (4) Ja krastu veido vienlaidu dambis, aizsargjosla tiek noteikta līdz dambja ārējās nogāzes pakājei, ja citos normatīvajos aktos nav noteikts citādi.

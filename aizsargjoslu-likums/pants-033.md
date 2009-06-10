@@ -1,5 +1,11 @@
-33.pants. Aizsargjoslu izveidošana
-(1) Visu veidu aizsargjoslas nosaka vietējo pašvaldību teritoriju plānojumos, ievērojot normatīvo aktu prasības.
-(2) Ierosinot tādu objektu būvniecību (ierīkošanu), kuriem šā likuma 9., 13., 14., 15., 16., 17., 18., 19., 20., 21., 22., 23., 25., 26., 28., 30., 32., 32.¹, 32.², 32.³ un 32.⁴ pantā noteiktas aizsargjoslas, kā arī ierosinot šo objektu paplašināšanu, ja paredzēts, ka pēc tās aizsargjoslas aizņems jaunas zemes platības, aizsargjoslas vai izmaiņas tajās saskaņo ar zemes īpašniekiem vai tiesiskajiem valdītājiem un vietējām pašvaldībām. Ministru kabinets nosaka kārtību, kādā notiek aizsargjoslas saskaņošana objektam, kuram aizsargjosla noteikta šā likuma 16., 17., 19. un 22. pantā un tā aizņem zemi, kas ir daudzdzīvokļu māju dzīvokļu īpašnieku kopīpašums.
-(3) Vietējā pašvaldība iesniedz Valsts zemes dienestam apstiprinātu informāciju par šā panta otrajā daļā minētajiem objektiem un šo objektu aizsargjoslu robežām vai to izmaiņām.
-(4) Aizsargjoslu robežas iezīmē zemes īpašuma vai lietojuma robežu plānos un likumā noteiktajā kārtībā ieraksta zemesgrāmatā.
+33.pants. Aizsargjoslu izveidošana, grozīšana un likvidēšana
+(1) Aizsargjoslas nosaka ar šo likumu un normatīvajos aktos noteiktajā kārtībā attēlo teritorijas plānojumos.
+(2) Ierosinot tādu objektu būvniecību (ierīkošanu), kuriem šā likuma 9., 13., 14., 15., 16., 17., 18., 19., 20., 21., 22., 23., 23.¹, 23.², 25., 26., 28., 30., 32., 32.¹, 32.², 32.³ un 32.⁴ pantā noteiktas aizsargjoslas, kā arī ierosinot šo objektu paplašināšanu, ja paredzēts, ka pēc tās aizsargjoslas aizņems jaunas zemes platības, objekta īpašnieks vai valdītājs attiecīgā objekta būvniecību (ierīkošanu) saskaņo ar zemes īpašnieku vai tiesisko valdītāju vai - normatīvajos aktos noteiktajos gadījumos - informē zemes īpašnieku vai tiesisko valdītāju, uz kura nekustamo īpašumu attiecas aizsargjosla, kā arī vietējo pašvaldību par aizsargjoslu vai tās izmaiņām. Ministru kabinets nosaka kārtību, kādā tiek saskaņots objekts, kura aizsargjosla noteikta šā likuma 14., 16., 17., 19. un 22.pantā un aizņems zemi, kas ir daudzdzīvokļu māju dzīvokļu īpašnieku kopīpašums.
+(3) (Izslēgta ar 14.05.2009. likumu.)
+(4) (Izslēgta ar 14.05.2009. likumu.)
+(5) Aizsargjosla tiek grozīta, ja saskaņā ar normatīvajiem aktiem maina aizsargjoslas platumu vai aizsargjoslas lielums mainās, renovējot vai rekonstruējot objektu, kuram ir noteikta aizsargjosla.
+(6) Aizsargjosla tiek likvidēta, ja ir likvidēts objekts, kuram noteikta aizsargjosla.
+(7) Objekta īpašnieks vai valdītājs pēc objekta likvidēšanas par to informē Valsts zemes dienestu.
+(8) Objekta īpašnieks vai valdītājs grafiski attēlo šā likuma 15., 18., 21. un 23.¹ pantā noteikto aizsargjoslu robežas, saskaņo tās ar attiecīgo pašvaldību un aizsargjoslu robežu datus iesniedz Valsts zemes dienestam.
+(9) Ja aizsargjoslas lielums ir noteikts tieši un bez papildu nosacījumiem (šā likuma 14., 16., 17., 19., 20., 22., 23., 30., 32.¹, 32.² un 32.⁴ pantā noteiktās aizsargjoslas), tās robežu grafiski attēlo Apgrūtināto teritoriju informācijas sistēmas likumā noteiktajā kārtībā.
+(10) Vietējā pašvaldība grafiski attēlo šā likuma 6., 7., 7.¹, 8., 9., 11., 13., 25., 26., 28., 32. un 32.³ pantā noteikto aizsargjoslu robežas un šo aizsargjoslu robežu datus iesniedz Valsts zemes dienestam.

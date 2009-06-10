@@ -1,8 +1,6 @@
-49.pants. Aprobežojumi aizsargjoslās ap ģeodēziskajiem punktiem
-(1) Aizsargjoslās ap ģeodēziskajiem punktiem papildus šā likuma 35.pantā minētajam tiek noteikti šādi aprobežojumi:
-1) aizliegts novietot priekšmetus, kuri traucē pieeju ģeodēziskajiem punktiem un mērījumu izdarīšanu;
-2) aizliegts veikt būvniecības darbus, ja projekti nav saskaņoti ar attiecīgo Valsts zemes dienesta nodaļu.
-(2) Zemes īpašnieks nevar liegt veikt aizsargjoslā darbības, kas nepieciešamas, lai nodrošinātu:
-1) triangulācijas un poligonometrijas punktiem - redzamību uz blakus punktiem;
-2) globālās pozicionēšanas sistēmas punktiem - ģeodēzisko Zemes mākslīgo pavadoņu netraucētu uztveršanu (redzamību);
-3) augstuma punktiem - iespēju novietot vertikāli vismaz trīs metrus garu nivelēšanas latiņu.
+49.pants. Aprobežojumi aizsargjoslās ap ģeodēziskā tīkla punktiem
+Aizsargjoslās ap ģeodēziskā tīkla punktiem papildus šā likuma 35.pantā minētajam tiek noteikti šādi aprobežojumi:
+1) aizliegts veikt darbības, kas traucē pieeju ģeodēziskā tīkla punktiem un ģeodēzisko darbu veikšanu tajos;
+2) aizliegts novietot metāliskus priekšmetus vai priekšmetus ar stipru magnētisko lauku ap ģeomagnētiskā tīkla 1.klases punktiem;
+3) aizliegts veikt masas pārvietošanu (rakt vai uzbērt grunti, mainīt grunts blīvumu u.tml.) ap gravimetriskā tīkla 1.klases punktiem;
+4) aizliegts veikt būvniecības darbus, ja projekti nav saskaņoti ar valsts aģentūru "Latvijas Ģeotelpiskās informācijas aģentūra".
