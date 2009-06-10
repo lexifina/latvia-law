@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Fizisko personu — saimnieciskās darbības veicēju — diskriminācijas aizlieguma likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "89",
+  "official_journal_page": null,
+  "official_journal_date": "2009-06-09",
+  "entry_into_force": "2009-06-10",
+  "notification_date": "2009-07-01",
+  "commission_reference": "MNE(2009)52935",
+  "nim_celex": "72000L0043LVA_162836",
+  "nim_id": "162836",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/2a40bf16-4b00-402b-ac7d-947c388354aa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
