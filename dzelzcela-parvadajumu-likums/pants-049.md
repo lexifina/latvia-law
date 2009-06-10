@@ -2,7 +2,7 @@
 (1) Bīstamo kravu nosūtītājam, saņēmējam un pārvadātājam ir pienākums apmācīt darbiniekus, kas klasificē, iesaiņo un marķē bīstamās kravas, sagatavo attiecīgos dokumentus, pieņem vai nodod kravas, pārvadā, iekrauj vai izkrauj minētās kravas vai ir kādā citā veidā saistīti ar bīstamo kravu pārvadāšanu.
 (2) Bīstamo kravu nosūtītājam un saņēmējam atbilstoši kravas apjomam jābūt neitralizācijas līdzekļu rezervei, bīstamo kravu pārsūknēšanas un savākšanas ierīcēm un glābšanas komandai bīstamo kravu pārvadāšanas laikā notikušas avārijas seku likvidēšanai. Pēc pārvadātāja, Valsts ugunsdzēsības un glābšanas dienesta vai citu avārijas dienestu pieprasījuma šie spēki un līdzekļi nosūtāmi uz avārijas vietu.
 (3) Bīstamo kravu nosūtītājam, saņēmējam un pārvadātājam ir pienākums:
-1) normatīvajos aktos noteiktajā kārtībā reģistrēt Valsts darba inspekcijā bīstamo kravu iekraušanai, pārvadāšanai un izkraušanai izmantojamās bīstamās iekārtas;
+1) nodrošināt bīstamo kravu iekraušanai, pārvadāšanai un izkraušanai izmantojamo bīstamo iekārtu reģistrāciju, kā arī to lietošanu atbilstoši normatīvajiem aktiem par bīstamo iekārtu tehnisko uzraudzību;
 2) nodrošināt, lai tiek veikta bīstamo kravu iekraušanai, pārvadāšanai un izkraušanai izmantojamo bīstamo iekārtu sertificēšana attiecīgajās institūcijās un to regulāras tehniskās pārbaudes;
 3) nodrošināt bīstamo kravu iekraušanai, pārvadāšanai un izkraušanai izmantojamās bīstamās iekārtas ar attiecīgu aprīkojumu un marķējumu.
 (4) Ministru kabinets izdod noteikumus par bīstamo kravu pārvadāšanu pa dzelzceļu, kuros nosaka:

@@ -1,8 +1,3 @@
-4.pants. Dzelzceļa pasažieru un bagāžas starptautisko pārvadājumu noteikumi
-Ministru kabinets izdod Dzelzceļa pasažieru un bagāžas starptautisko pārvadājumu noteikumus, kuros nosaka:
-1) pasažieru, rokas bagāžas, bagāžas un kravas bagāžas pārvadāšanas kārtību;
-2) biļešu derīguma termiņus, biļešu, rokas bagāžas, bagāžas un kravas bagāžas kvīšu nodošanas un pārformēšanas kārtību;
-3) bagāžas un kravas bagāžas pieņemšanas un izsniegšanas kārtību;
-4) lietas (arī vielas), ko aizliegts pārvadāt rokas bagāžā, bagāžā vai kravas bagāžā;
-5) dzīvnieku pārvadāšanas noteikumus;
-6) pasažieru, rokas bagāžas, bagāžas un kravas bagāžas pārvadāšanas kontroles kārtību.
+4.pants. Starptautiskie dzelzceļa pasažieru un bagāžas pārvadājumi
+(1) Starptautiskie dzelzceļa pasažieru un bagāžas pārvadājumi notiek atbilstoši starptautiskajiem līgumiem, kuri ir saistoši Latvijas Republikai.
+(2) Eiropas Parlamenta un Padomes 2007.gada 23.oktobra regulu (EK) Nr. 1371/2007 par dzelzceļa pasažieru tiesībām un pienākumiem līdz 2014.gada 3.decembrim nepiemēro attiecībā uz starptautiskajiem dzelzceļa pasažieru un bagāžas pārvadājumiem, kas tiek veikti starp stacijām, kuras atrodas Latvijā un trešajā valstī.
