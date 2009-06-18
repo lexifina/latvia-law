@@ -1,0 +1,1 @@
+1.pants. Starptautiskā Valūtas fonda Vienošanās līguma (turpmāk - Līgums) grozījumi Starptautiskā Valūtas fonda dalībvalstu balsstiesību un līdzdalības palielināšanai un Starptautiskā Valūtas fonda investīciju mandāta paplašināšanai (turpmāk - Grozījumi) ar šo likumu tiek pieņemti un apstiprināti.

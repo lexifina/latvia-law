@@ -1,0 +1,1 @@
+Priekšlikums Starptautiskā Valūtas fonda Vienošanās līguma grozījumiem
