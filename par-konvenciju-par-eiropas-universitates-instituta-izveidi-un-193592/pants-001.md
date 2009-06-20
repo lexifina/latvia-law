@@ -1,0 +1,1 @@
+1.pants. 1972.gada 19.aprīļa Konvencija par Eiropas Universitātes institūta izveidi (turpmāk - Konvencija) un 1992.gada 17.jūnija Konvencija, ar ko groza Konvenciju par Eiropas Universitātes institūta izveidi (turpmāk - Grozījumu konvencija), ar šo likumu tiek pieņemta un apstiprināta.
