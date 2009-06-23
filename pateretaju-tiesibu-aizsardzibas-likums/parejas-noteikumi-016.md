@@ -1,0 +1,1 @@
+16. Šā likuma 25.panta 10.¹ daļa stājas spēkā 2009.gada 1.jūlijā. Patērētāju tiesību aizsardzības centra lēmumi, kuri līdz 2009.gada 30.jūnijam apstrīdēti, iesniedzot iesniegumu Ekonomikas ministrijai, izskatāmi saskaņā ar tiem normatīvajiem aktiem, kuri bija spēkā dienā, kad Patērētāju tiesību aizsardzības centrs pieņēma attiecīgo lēmumu.

@@ -1,0 +1,1 @@
+14. Līdz 2009.gada 1.jūlijam ir spēkā Ministru kabineta 1999.gada 31.augusta noteikumi Nr.312 "Vairumtirdzniecības un mazumtirdzniecības organizēšanas kārtība", kas izdoti saskaņā ar Saeimas 1993.gada 15.jūlijā pieņemtā Ministru kabineta iekārtas likuma 14.panta pirmās daļas 3.punktu.

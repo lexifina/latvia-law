@@ -6,7 +6,7 @@
 1) ir pretrunā ar šā likuma 5.pantu;
 2) samazina ražotāja, pārdevēja vai pakalpojuma sniedzēja atbildību vai atbrīvo tos no atbildības gadījumos, kad patērētājs guvis kaitējumu veselībai, vai patērētāja nāves gadījumā, kuram par cēloni bijusi ražotāja, pārdevēja vai pakalpojuma sniedzēja darbība vai bezdarbība;
 3) ierobežo vai izslēdz iespēju patērētājam izmantot savas likumīgās prasījuma tiesības gadījumā, kad ražotājs, pārdevējs vai pakalpojuma sniedzējs nav izpildījis līgumsaistības vai ir tās izpildījis daļēji, ieskaitot arī ražotāja, pārdevēja vai pakalpojuma sniedzēja prasījuma dzēšanu ar patērētāja pretprasījumu;
-4) uzliek patērētājam, kurš neizpilda līgumsaistības, neproporcionāli lielu līgumsodu;
+4) uzliek patērētājam, kurš neizpilda līgumsaistības, neproporcionāli lielu līgumsodu vai citu kompensāciju par līgumsaistību neizpildi;
 5) paredz preces vai pakalpojuma cenas noteikšanu piegādes brīdī vai atļauj ražotājam, pārdevējam vai pakalpojuma sniedzējam palielināt cenu un nedod patērētājam tiesības atcelt līgumu, ja galīgā cena ir pārmērīgi augsta salīdzinājumā ar cenu, par kuru līgumslēdzējas puses vienojās, slēdzot līgumu;
 6) ierobežo ražotāja, pārdevēja vai pakalpojuma sniedzēja pienākumu pildīt saistības, ko uzņēmies viņa pārstāvis, vai pakārto šīs saistības kādai formalitātei;
 7) izslēdz vai kavē patērētāja tiesības vērsties patērētāju tiesību aizsardzības iestādēs vai tiesā, paredz strīdu izskatīšanu tikai šķīrējtiesā;
@@ -22,4 +22,5 @@
 (8) Ražotāja, pārdevēja vai pakalpojuma sniedzēja un patērētāja noslēgtajā līgumā ietvertie netaisnīgie noteikumi nav spēkā no līguma noslēgšanas brīža, bet līgums paliek spēkā, ja tas var pastāvēt arī turpmāk, kad izslēgti netaisnīgie noteikumi.
 (9) (Izslēgta ar 19.06.2008. likumu.)
 (10) Ja starp ražotāju, pārdevēju vai pakalpojuma sniedzēju un patērētāju rodas strīds par to, vai noslēgtajā līgumā ietvertie noteikumi ir netaisnīgi, jebkurai no līgumslēdzējām pusēm ir tiesības vērsties tiesā, bet patērētājs ir tiesīgs vērsties arī Patērētāju tiesību aizsardzības centrā.
+(10¹) Ja netaisnīgo līguma noteikumu dēļ patērētājam rodas zaudējumi, savu likumisko tiesību un interešu aizsardzībai patērētājs ir tiesīgs vērsties ar prasību tiesā.
 (11) Tiesa, izšķirot strīdu vai veicot citas no ražotāja, pārdevēja vai pakalpojuma sniedzēja un patērētāja noslēgtā līguma izrietošās procesuālās darbības, izvērtē līguma noteikumus un strīda atrisināšanai attiecībā uz patērētāju nepiemēro līgumā ietvertos netaisnīgos noteikumus.
