@@ -1,1 +1,0 @@
-1. Biosfēras rezervāta teritorijā attiecībā uz īpaši aizsargājamām teritorijām saglabājas piekrītošu īpašuma tiesību aprobežojumi un līdz jaunu līgumu slēgšanai spēkā ir līgumi "Par īpaši aizsargājamā dabas objekta vai tā daļas režīma nodrošināšanu".

@@ -1,1 +1,0 @@
-17.pants. Zemes īpašnieki un tiesiskie valdītāji, kuru zeme atrodas dabas lieguma zonā, Biosfēras rezervāta teritorijā esošajos dabas liegumos un dabas parkos, kā arī Baltijas jūras un Rīgas jūras līča piekrastes aizsargjoslas teritorijā, saskaņo ar Biosfēras rezervāta administrāciju meža apsaimniekošanas plānus un koku ciršanu ārpus meža zemes.
