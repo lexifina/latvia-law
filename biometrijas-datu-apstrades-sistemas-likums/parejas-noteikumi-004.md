@@ -1,0 +1,1 @@
+4. Latvijas Jūras administrācija nodrošina biometrijas datu apstrādi šajā likumā noteiktajā kārtībā pēc Starptautiskās darba organizācijas 2003.gada 19.jūnija konvencijas "Jūrnieku identifikācijas dokumentu konvencija" ratifikācijas Latvijas Republikā, bet ne agrāk kā ar 2011.gada 1.janvāri.

@@ -1,0 +1,1 @@
+15.pants. Biometrijas datu apstrādes sistēmā iekļauto datu sniegšana ārvalstu kompetentajām iestādēm pieļaujama, ievērojot Latvijas Republikai saistošus starptautiskos līgumus un Eiropas Savienības tiesību aktus.
