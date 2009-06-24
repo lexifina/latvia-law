@@ -1,2 +1,2 @@
-13. pants. Prokurora pilnvaras pirmstiesas izmeklēšanā
-Prokurors kriminālprocesa likumā noteiktajā kārtībā organizē, vada un veic pirmstiesas izmeklēšanu, kā arī dod norādījumus izziņas iestādēm kriminālās meklēšanas un procesuālo darbību izpildei.
+13. pants. Prokurora pilnvaras pirmstiesas procesā
+Prokurors uzsāk un veic kriminālvajāšanu. Izņēmuma gadījumā prokurors Kriminālprocesa likumā noteiktajā kārtībā veic izmeklēšanu.

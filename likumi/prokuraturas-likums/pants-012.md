@@ -1,2 +1,2 @@
-12. pants. Izziņas iestāžu darba un citu iestāžu operatīvās darbības uzraudzība
-Prokurors kriminālprocesa likumā un citos likumos noteiktajā kārtībā uzrauga izziņas iestāžu darbu un citu iestāžu operatīvo darbību.
+12. pants. Pirmstiesas izmeklēšanas un operatīvās darbības, izlūkošanas un pretizlūkošanas procesu uzraudzība
+Prokurors uzrauga pirmstiesas izmeklēšanas un operatīvās darbības, valsts drošības iestāžu izlūkošanas un pretizlūkošanas procesu un valsts noslēpuma aizsardzības sistēmas atbilstību likumiem.

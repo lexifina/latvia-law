@@ -1,7 +1,7 @@
 2. pants. Prokuratūras funkcijas
 Prokuratūra:
-1) uzrauga izziņas iestāžu darbu un citu iestāžu operatīvo darbību;
-2) organizē, vada un veic pirmstiesas izmeklēšanu;
+1) uzrauga pirmstiesas izmeklēšanas un operatīvās darbības, valsts drošības iestāžu izlūkošanas un pretizlūkošanas procesu un valsts noslēpuma aizsardzības sistēmas atbilstību likumiem;
+2) veic pirmstiesas izmeklēšanu;
 3) uzsāk un veic kriminālvajāšanu;
 4) uztur valsts apsūdzību;
 5) uzrauga sodu izpildi;
