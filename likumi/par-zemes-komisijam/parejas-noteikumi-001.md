@@ -1,1 +1,1 @@
-1. No 1997.gada 1.janvāra līdz pilsētu un pagastu zemes komisiju darbības izbeigšanai to finansiālo nodrošinājumu no valsts pamatbudžeta saskaņā ar šā likuma 9.pantu veic Valsts zemes dienests.
+1. No 1997.gada 1.janvāra līdz 2009.gada 31.jūlijam pilsētu zemes komisiju finansiālo nodrošinājumu no valsts pamatbudžeta saskaņā ar šā likuma 9.pantu veic Valsts zemes dienests. Valsts zemes dienests līdz 2009.gada 31.jūlijam izbeidz darba tiesiskās attiecības ar pilsētu zemes komisiju priekšsēdētājiem.
