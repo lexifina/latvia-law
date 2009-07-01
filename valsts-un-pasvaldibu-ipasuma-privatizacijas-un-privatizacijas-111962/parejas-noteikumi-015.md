@@ -1,1 +1,0 @@
-15. Ja lēmums par apbūvēta zemesgabala (atsevišķs apbūvēts zemesgabals vai apbūvēts zemesgabals kopā ar privatizējamo valsts un pašvaldību īpašuma objektu) nodošanu privatizācijai pieņemts pēc 2007.gada 31.augusta, šo zemesgabalu privatizē par tādu vērtību privatizācijas vajadzībām, kāda tā bija 2007.gada 31.augustā.

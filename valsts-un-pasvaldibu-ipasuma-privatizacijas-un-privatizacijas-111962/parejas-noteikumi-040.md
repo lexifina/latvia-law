@@ -1,0 +1,1 @@
+40. Ja šo pārejas noteikumu 39.punktā minētā persona piekrīt pirms privatizējamā vai atsavināmā zemesgabala novērtēšanas samaksāt novērtēšanas izdevumus, tai atbilde jāsniedz un novērtēšanas izdevumi jāsamaksā 30 dienu laikā no paziņojuma saņemšanas dienas.

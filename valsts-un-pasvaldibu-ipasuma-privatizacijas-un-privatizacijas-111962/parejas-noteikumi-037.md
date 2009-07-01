@@ -1,0 +1,1 @@
+37. Tiesiskās attiecības, kas, pamatojoties uz šā likuma 9.panta septīto daļu, 16.panta piekto daļu, 20.panta devīto daļu un 26.panta ceturto daļu, nodibinātas līdz 2009.gada 1.jūlijam, tiek apspriestas saskaņā ar noslēgto zemesgabala nomas līgumu un likuma normām, kuras bija spēkā tad, kad šīs attiecības radušās.

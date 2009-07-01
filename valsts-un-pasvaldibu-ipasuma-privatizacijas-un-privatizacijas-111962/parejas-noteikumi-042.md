@@ -1,0 +1,1 @@
+42. Valsts vai pašvaldības īpašuma objekta, kā arī apbūvēta vai neapbūvēta zemesgabala pirkuma līgumā, kurā piemērots atliktais maksājums (nomaksa), kurā noteikts norēķinu termiņš līdz pieciem gadiem un kurš noslēgts līdz 2009.gada 1.jūlijam, pēc personas rakstveida gribas izteikuma maksimālais norēķinu termiņš var tikt pagarināts līdz 10 gadiem.
