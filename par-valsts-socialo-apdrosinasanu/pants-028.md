@@ -1,2 +1,2 @@
 28.pants. Tiesības norakstīt speciālajā budžetā izveidojušos parādu summas
-Aģentūra noraksta un izslēdz no bilances tās uzskaitē esošo parādu summas, kas sociālās apdrošināšanas pakalpojumu saņēmēju vainas dēļ veidojušās kā pārmaksas, kuru piedziņa nav iespējama, jo parādnieks ir miris vai parāda piedziņai iestājies noilgums, vai kas nepārsniedz 35 procentus no valsts sociālā nodrošinājuma pabalsta.
+Aģentūra noraksta un izslēdz no bilances tās uzskaitē esošo parādu summas, kas sociālās apdrošināšanas pakalpojumu saņēmēju vainas dēļ veidojušās kā pārmaksas, kuru piedziņa nav iespējama, jo parādnieks ir miris vai parāda piedziņai iestājies 10 gadu noilgums, vai kas nepārsniedz 35 procentus no valsts sociālā nodrošinājuma pabalsta.

@@ -1,0 +1,1 @@
+46. Grozījumi šā likuma 3.panta pirmajā daļā attiecībā uz vārdu "saslimšanu ar arodslimību, kā arī papildu izdevumiem sakarā ar bērna kopšanu un" aizstāšanu ar vārdiem "saslimšanu ar arodslimību, bērna kopšanu, kā arī papildu izdevumiem sakarā ar" stājas spēkā 2010.gada 3.maijā.
