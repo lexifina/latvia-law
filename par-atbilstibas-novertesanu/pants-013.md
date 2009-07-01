@@ -1,3 +1,3 @@
 13.pants. (1) Latvijas Republikā darbojas vienota, starptautiskajām prasībām atbilstoša nacionālā akreditācijas sistēma, kas veic noteiktas akreditēšanas procedūras un ievēro vienotas vadības principus. Nacionālas akreditācijas sistēmas darbību reglamentē Ministru kabineta noteikumi.
 (2) Latvijas Nacionālā akreditācijas padome ir konsultatīva institūcija testēšanas un kalibrēšanas laboratoriju un sertificēšanas un inspicēšanas institūciju akreditācijai reglamentētajā un nereglamentētajā sfērā, tā piedalās valsts politikas izstrādē akreditācijas jomā un veicina sadarbību ar starptautiskajām akreditācijas organizācijām. Šīs padomes nolikumu un personālsastāvu pēc ekonomikas ministra ieteikuma apstiprina Ministru kabinets.
-(3) Metroloģijas un akreditācijas valsts aģentūra var veidot nozaru tehniskās komitejas, kas konsultē Metroloģijas un akreditācijas valsts aģentūru konkrētu tehnisku jautājumu risināšanā attiecīgajās nozarēs.
+(3) (Izslēgta ar 12.06.2009. likumu.)
