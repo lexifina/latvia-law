@@ -1,0 +1,1 @@
+14. Grozījumi šā likuma 17.panta trešajā daļā, kuri paredz valsts sociālā nodrošinājuma pabalsta, pabalsta invalīdam, kuram nepieciešama kopšana, un pabalsta transporta izdevumu kompensēšanai invalīdiem, kuriem ir apgrūtināta pārvietošanās, piegādi dzīvesvietā par maksu, stājas spēkā 2009.gada 1.jūlijā.

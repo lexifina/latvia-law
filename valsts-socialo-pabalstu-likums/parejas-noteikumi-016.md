@@ -1,0 +1,1 @@
+16. Laika periodā no 2009.gada 1.jūlija līdz 2012.gada 31.decembrim saskaņā ar šo likumu noteiktā ģimenes valsts pabalsta apmēru nosaka atbilstoši likumam "Par valsts pensiju un valsts pabalstu izmaksu laika periodā no 2009.gada līdz 2012.gadam".
