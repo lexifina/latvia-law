@@ -1,1 +1,1 @@
-3.pants. Ārlietu ministrija paziņo Eiropas Padomes ģenerālsekretāram Bērnu un ģimenes lietu ministrijas adresi.
+3.pants. Ārlietu ministrija paziņo Eiropas Padomes ģenerālsekretāram Labklājības ministrijas adresi.
