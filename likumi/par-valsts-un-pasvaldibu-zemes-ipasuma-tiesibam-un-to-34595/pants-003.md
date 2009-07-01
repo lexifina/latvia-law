@@ -6,7 +6,7 @@
 1) uz šīs zemes ir pašvaldībai piederošas ēkas (būves);
 2) vietējās pašvaldības teritorijas plānojumā attiecīgi neapbūvēti zemes gabali paredzēti jaunu pašvaldības ēku (būvju) celtniecībai vai pašvaldību funkciju īstenošanai;
 3) uz šīs zemes ir dzīvojamās mājas, kurās esošie dzīvokļi privatizēti saskaņā ar likumu "Par kooperatīvo dzīvokļu privatizāciju" un likumu "Par lauksaimniecības uzņēmumu un zvejnieku kolhozu privatizāciju";
-4) zemes starpgabals (zemes gabals, kura platība pilsētā ir mazāka par pašvaldības apstiprinātajos apbūves noteikumos paredzēto minimālo apbūves gabala platību vai kura konfigurācija nepieļauj attiecīgā zemes gabala izmantošanu apbūvei, vai kuram nav iespējams nodrošināt pieslēgumu koplietošanas ielai), kurš atrodas pilsētas administratīvajā teritorijā un par kuru pašvaldības dome ir pieņēmusi lēmumu, ka tas turpmāk nav izmantojams zemes reformas pabeigšanai;
+4) tā ir zemes starpgabals atbilstoši Valsts un pašvaldību mantas atsavināšanas likumā noteiktajam un par to pašvaldības dome (padome) ir pieņēmusi lēmumu, ka tā ir starpgabals, izņemot šā likuma 8.pantā minēto uz valsts vārda zemesgrāmatā ierakstāmo zemi;
 5) šī zeme piešķirta pašvaldībai personisko palīgsaimniecību vajadzībām atbilstoši likuma "Par zemes reformu Latvijas Republikas lauku apvidos" 7.pantam un saskaņā ar pašvaldības teritorijas plānojumu to paredzēts izmantot tikai šīm vajadzībām.
 (3) Zemes reformas laikā pašvaldībai piekrīt un uz attiecīgās pašvaldības vārda zemesgrāmatā ierakstāma zeme, kura 1940.gada 21.jūlijā piederēja valstij, tikai gadījumos, ja:
 1) uz šīs zemes ir pašvaldībai piederošas ēkas (būves);
@@ -15,5 +15,7 @@
 3) uz šīs zemes ir dzīvojamās mājas, kurās esošie dzīvokļi privatizēti saskaņā ar likumu "Par kooperatīvo dzīvokļu privatizāciju" un likumu "Par lauksaimniecības uzņēmumu un zvejnieku kolhozu privatizāciju";
 4) šī zeme paredzēta ielu (ceļu) būvniecībai saskaņā ar vietējās pašvaldības teritorijas plānojumu, veidojot to kā atsevišķu zemes vienību.
 (4) Uz pašvaldības vārda zemesgrāmatās var ierakstīt zemi, uz kuras par valsts vai pašvaldības budžeta līdzekļiem ir izbūvētas ielas, ja tās ir pašvaldības valdījumā.
-(5) Zemes reformas laikā pašvaldībām piekrīt un uz attiecīgās pašvaldības vārda zemesgrāmatā ierakstāma lauku apvidu zeme, uz kuru fiziskajām vai juridiskajām personām izbeidzas zemes pastāvīgās lietošanas tiesības saskaņā ar Valsts un pašvaldību īpašuma privatizācijas un privatizācijas sertifikātu izmantošanas pabeigšanas likuma 25. panta pirmo daļu, un ar bijušajiem šīs zemes pastāvīgajiem lietotājiem noslēdzami zemes nomas līgumi.
+(5) Zemes reformas laikā pašvaldībām piekrīt un uz attiecīgās pašvaldības vārda zemesgrāmatā ierakstāma:
+1) apbūvēta lauku apvidu zeme, par kuru atbilstoši Valsts un pašvaldību īpašuma privatizācijas un privatizācijas sertifikātu izmantošanas pabeigšanas likuma 25.panta ceturtajai daļai noslēdzami zemes nomas līgumi;
+2) neapbūvēta lauku apvidu zeme, par kuru Valsts un pašvaldību īpašuma privatizācijas un privatizācijas sertifikātu izmantošanas pabeigšanas likuma 25. panta 2.1 daļā noteiktajā termiņā ir noslēgti zemes nomas līgumi.
 (6) Zemes reformas laikā pašvaldībām piekrīt un uz attiecīgās pašvaldības vārda zemesgrāmatā ierakstāma pilsētas zeme, uz kuru izbeidzas zemes lietošanas tiesības saskaņā ar Valsts un pašvaldību īpašuma privatizācijas un privatizācijas sertifikātu izmantošanas pabeigšanas likuma 26. panta pirmo daļu.

@@ -9,6 +9,7 @@
 2) uz šīs zemes ir privatizēti pašvaldības īpašuma objekti vai citādi atsavinātas pašvaldības vai pašvaldības kapitālsabiedrību ēkas (būves);
 3) uz šīs zemes ir pašvaldības kapitālsabiedrībai piederošas ēkas (būves) vai ēkas (būves), kuras, pirms tās kļuva par privātpersonas īpašumu, ir piederējušas pašvaldības kapitālsabiedrībai;
 4) uz šīs zemes ir dzīvojamās mājas, kurās esošie dzīvokļi privatizēti saskaņā ar likumu "Par kooperatīvo dzīvokļu privatizāciju" un likumu "Par lauksaimniecības uzņēmumu un zvejnieku kolhozu privatizāciju";
-5) vietējās pašvaldības teritorijas plānojumā attiecīgi neapbūvēti zemes gabali paredzēti jaunu pašvaldības ēku (būvju) celtniecībai vai pašvaldību funkciju īstenošanai.
+5) vietējās pašvaldības teritorijas plānojumā attiecīgi neapbūvēti zemes gabali paredzēti jaunu pašvaldības ēku (būvju) celtniecībai vai pašvaldību funkciju īstenošanai;
+6) tā ir zemes starpgabals atbilstoši šā likuma 3.panta otrās daļas 4.punktam.
 (3) Zeme, kuras piederība 1940.gada 21.jūlijā nav konstatēta, izņemot zemi, kas saskaņā ar šā panta pirmo un otro daļu ierakstāma zemesgrāmatā uz valsts vai pašvaldības vārda, turpmāk izmantojama zemes reformas pabeigšanai.
 (4) Šā panta pirmā, otrā un trešā daļa nav attiecināma uz zemi, kura zemes reformas gaitā piešķirta īpašumā personai vai kuru šai personai ir tiesības iegūt īpašumā saskaņā ar zemes reformas likumiem.

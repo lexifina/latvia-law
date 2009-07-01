@@ -1,8 +1,11 @@
-13.pants. (1) Valsts vai pašvaldības zemes īpašuma tiesību nostiprināšanai zemesgrāmatās par pamatu ir šādi dokumenti:
-1) šā likuma 9. vai 10.pantā noteiktajā kārtībā sastādīta uzziņa;
-2) Valsts zemes dienesta izsniegts zemes gabala robežu plāns ar zemes gabala kadastra numuru;
-3) Valsts zemes dienesta izziņa par ēkām (būvēm), kas atrodas uz zemes, vai izziņa par to, ka zeme ir neapbūvēta;
-4) ēku (būvju) piederību apliecinoši dokumenti, bet attiecībā uz ielām - domes (padomes) priekšsēdētāja parakstīta izziņa par to, ka tās izbūvētas par valsts vai pašvaldības budžeta līdzekļiem un ir pašvaldības valdījumā;
-5) strīda gadījumā - spēkā stājies Centrālās zemes komisijas lēmums vai tiesas spriedums;
-6) iesniegums attiecīgajai zemesgrāmatu nodaļai.
-(2) Vienlaikus ar valsts vai pašvaldības zemes īpašuma tiesībām zemesgrāmatās nostiprināmas īpašuma tiesības attiecīgi uz valstij vai pašvaldībām piederošām ēkām (būvēm), kas atrodas uz zemes gabala.
+13.pants. (1) Valsts un pašvaldības zemes īpašuma tiesību nostiprināšanai zemesgrāmatās par pamatu ir šādi dokumenti:
+1) šā likuma 9., 10. vai 10.¹ pantā noteiktajā kārtībā sastādīta uzziņa;
+2) šā likuma 9. vai 10.pantā minētajā gadījumā - zemes robežu plāns;
+3) šā likuma 10.¹ pantā minētajā gadījumā - zemes robežu plāns vai informācija no Nekustamā īpašuma valsts kadastra informācijas sistēmas telpiskajiem datiem par zemes gabala platību un izvietojumu apvidū;
+4) ja netiek pievienots zemes robežu plāns, - pašvaldības izziņa par nekustamā īpašuma objekta apgrūtinājumiem. Izziņa sastādāma atbilstoši vietējās pašvaldības teritorijas plānojumam, ja tāds ir apstiprināts. Ja vietējās pašvaldības teritorijas plānojums ir apstiprināšanas procesā, tad pašvaldība izziņu sastāda atbilstoši tās rīcībā esošajai informācijai;
+5) Valsts zemes dienesta kadastra izziņa;
+6) šā likuma 10. vai 10.¹ pantā minētajā gadījumā - ēku (būvju) piederību apliecinoši dokumenti, bet attiecībā uz publiskās lietošanas transporta infrastruktūras objektiem - konkrētā objekta pārvaldītāja parakstīta izziņa, kas apliecina, ka konkrētais publiskās lietošanas transporta infrastruktūras objekts ir valsts, pašvaldības vai valsts akciju sabiedrības "Latvijas Dzelzceļš" valdījumā;
+7) strīda gadījumā - spēkā stājies Centrālās zemes komisijas lēmums vai tiesas spriedums;
+8) pašvaldības domes (padomes) lēmums vai Ministru kabineta rīkojums par zemes piederību vai piekritību;
+9) iesniegums attiecīgajai zemesgrāmatu nodaļai.
+(2) Vienlaikus ar valsts vai pašvaldības zemes īpašuma tiesībām zemesgrāmatās nostiprināmas īpašuma tiesības attiecīgi uz valstij vai pašvaldībām piederošām ēkām (būvēm), kas atrodas uz zemes gabala, atbilstoši likumā "Par nekustamā īpašuma ierakstīšanu zemesgrāmatās" noteiktajam.
