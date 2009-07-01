@@ -1,0 +1,1 @@
+20. Laika periodā no 2009.gada 1.septembra līdz 2009.gada 31.decembrim valsts sabiedrība ar ierobežotu atbildību "Nacionālais rehabilitācijas centrs "Vaivari"" nodrošina personas arī ar tiflotehniku un surdotehniku.

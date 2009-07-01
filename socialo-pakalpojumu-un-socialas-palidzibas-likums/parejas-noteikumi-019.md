@@ -1,0 +1,1 @@
+19. Likvidējamās valsts aģentūras "Tehnisko palīglīdzekļu centrs" tiesības, pienākumus, mantu, tajā skaitā lietvedību un arhīvu, pārņem valsts sabiedrība ar ierobežotu atbildību "Nacionālais rehabilitācijas centrs "Vaivari"".
