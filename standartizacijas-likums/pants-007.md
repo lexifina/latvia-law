@@ -1,5 +1,5 @@
 7.pants. (1) Standartizāciju Latvijā veic:
-1) sabiedrība ar ierobežotu atbildību "Latvijas standarts" (turpmāk - Nacionālā standartizācijas institūcija);
+1) sabiedrība ar ierobežotu atbildību "Standartizācijas, akreditācijas un metroloģijas centrs" (turpmāk - Nacionālā standartizācijas institūcija);
 2) nozaru standartizācijas institūcijas;
 3) standartizācijas tehniskās komitejas;
 4) komersanti.

@@ -4,5 +4,5 @@
 3) Latvijas nacionālo standartu izstrādāšanu reglamentētajā sfērā;
 4) starptautisko standartu adaptāciju reglamentētajā sfērā;
 5) dalības maksu starptautiskajās standartizācijas organizācijās;
-6) piemērojamo standartu sarakstu publicēšanu laikrakstā "Latvijas Vēstnesis".
+6) (izslēgts ar 12.06.2009. likumu).
 (2) Latvijas nacionālo standartu izstrādāšanu nereglamentētajā sfērā finansē juridiskās un fiziskās personas, kas ir ieinteresētas šos standartus lietot.
