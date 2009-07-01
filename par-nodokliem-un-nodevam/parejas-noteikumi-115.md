@@ -1,0 +1,1 @@
+115. Grozījums šā likuma 37.pantā, ar kuru nosaka Valsts ieņēmumu dienesta amatpersonu lēmumu vienpakāpes apstrīdēšanas kārtību, piemērojams ar brīdi, kad Valsts ieņēmumu dienesta teritoriālās iestādes ir pabeigušas tām noteikto uzdevumu un lietu nodošanu Valsts ieņēmumu dienesta ģenerāldirektora noteiktajām struktūrvienībām, bet ne vēlāk kā ar 2009.gada 1.novembri.

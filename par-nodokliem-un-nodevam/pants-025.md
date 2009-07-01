@@ -1,5 +1,5 @@
 25.pants. Nodokļu parādu dzēšana
-(1) Valsts budžetā pilnīgi vai daļēji ieskaitāmo nodokļu parādus, kā arī ar tiem saistītās nokavējuma naudas un soda naudas dzēš Valsts ieņēmumu dienesta ģenerāldirektors, viņa vietnieks vai teritoriālās iestādes direktors šādos gadījumos:
+(1) Valsts budžetā pilnīgi vai daļēji ieskaitāmo nodokļu parādus, kā arī ar tiem saistītās nokavējuma naudas un soda naudas dzēš Valsts ieņēmumu dienesta ģenerāldirektors, viņa vietnieks vai nodokļu administrēšanas struktūrvienības vadītājs šādos gadījumos:
 1) komercsabiedrībai, kooperatīvajai sabiedrībai vai citai privāto tiesību juridiskajai personai - ja ar tiesas nolēmumu ir pabeigta bankrota procedūra un izbeigta maksātnespējas lieta;
 2) individuālajam (ģimenes) uzņēmumam, arī zemnieku vai zvejnieku saimniecībai, dibinātāja - īpašnieka nāves gadījumā, ja nav iespējams no mantiniekiem piedzīt nodokļu parādus, kā arī ar tiem saistītās soda naudas, nokavējuma naudas;
 3) fiziskajai personai - nodokļu maksātājam - viņa nāves gadījumā, ja nav iespējams no mantiniekiem piedzīt nodokļu parādus, kā arī ar tiem saistītās soda naudas, nokavējuma naudas;
@@ -9,4 +9,4 @@
 (4) Finanšu ministrija, Valsts ieņēmumu dienests vai attiecīgās pašvaldības publicē laikrakstā "Latvijas Vēstnesis" informāciju par nodokļu parādu dzēšanu, ja normatīvajos aktos nav noteikts citādi.
 (5) Latvijas Republikas Uzņēmumu reģistram nosūta:
 1) Valsts ieņēmumu dienests - Valsts ieņēmumu dienesta ģenerāldirektora, viņa vietnieka vai teritoriālās iestādes direktora rīkojumu par to komercsabiedrību, kooperatīvo sabiedrību, individuālo uzņēmumu (arī zemnieku vai zvejnieku saimniecību) un citu privāto tiesību juridisko personu valsts budžetā ieskaitāmo nodokļu parādu dzēšanu, kuriem ar tiesas nolēmumu ir pabeigta bankrota procedūra un izbeigta maksātnespējas lieta;
-2) pašvaldības - domes (padomes) lēmumu par to komercsabiedrību, kooperatīvo sabiedrību, individuālo uzņēmumu (arī zemnieku vai zvejnieku saimniecību) un citu privāto tiesību juridisko personu pašvaldību budžetā ieskaitāmo nodokļu parādu dzēšanu, kuriem ar tiesas nolēmumu ir pabeigta bankrota procedūra un izbeigta maksātnespējas lieta.
+2) pašvaldības - domes lēmumu par to komercsabiedrību, kooperatīvo sabiedrību, individuālo uzņēmumu (arī zemnieku vai zvejnieku saimniecību) un citu privāto tiesību juridisko personu pašvaldību budžetā ieskaitāmo nodokļu parādu dzēšanu, kuriem ar tiesas nolēmumu ir pabeigta bankrota procedūra un izbeigta maksātnespējas lieta.
