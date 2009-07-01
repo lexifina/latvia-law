@@ -1,5 +1,5 @@
 67.pants. Pašvaldību kompetences norobežošana
-(1) Par bērna tiesību aizsardzību atbild rajona un vietējā pašvaldība pēc bērna dzīvesvietas. Pagasta (pilsētas) pašvaldība ņem uzskaitē katru tās teritorijā dzīvojošo bērnu.
+(1) Par bērna tiesību aizsardzību atbild novada pašvaldība un republikas pilsētas pašvaldība pēc bērna dzīvesvietas. Novada (republikas pilsētas) pašvaldība ņem uzskaitē katru tās teritorijā dzīvojošo bērnu.
 (2) Par bērna dzīvesvietu šā likuma izpratnē uzskatāma viņa vecāku deklarētā dzīvesvieta. Ja bērna vecāku deklarētās dzīvesvietas atrodas dažādās administratīvajās teritorijās, par bērna dzīvesvietu uzskatāma tā vecāka deklarētā dzīvesvieta, pie kura viņš dzīvo.
 (3) Ja bērna vecākiem vai bērnam nav deklarētas dzīvesvietas, par bērna dzīvesvietu uzskatāma viņa vecāku faktiskā dzīvesvieta.
 (4) Laikā, kad bērns atrodas ārpusģimenes aprūpē, viņa dzīvesvieta saglabājas tās pašvaldības administratīvajā teritorijā, kura pieņēmusi lēmumu par ārpusģimenes aprūpi.
