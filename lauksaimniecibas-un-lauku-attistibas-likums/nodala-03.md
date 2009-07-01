@@ -1,2 +1,2 @@
 III nodaļa
-Lauksaimniecības un lauku attīstības politikas uzraudzībai un novērtēšanai nepieciešamā informācija
+Lauksaimniecības un lauku attīstības politikas nodrošināšanai, uzraudzībai un novērtēšanai nepieciešamā informācija
