@@ -1,2 +1,2 @@
 10.pants. Juridiskās palīdzības sniegšana civillietās
-Juridisko palīdzību civillietā persona var pieprasīt tikmēr, kamēr tiesas nolēmums nav izpildīts.
+Juridisko palīdzību civillietā persona var pieprasīt līdz galīgā tiesas nolēmuma spēkā stāšanās brīdim.

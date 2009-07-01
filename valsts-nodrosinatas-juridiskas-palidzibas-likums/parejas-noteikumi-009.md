@@ -1,0 +1,1 @@
+9. Lietās, kurās juridiskā palīdzība piešķirta līdz 2009.gada 30.jūnijam, iesniegumus par turpmāko juridisko palīdzību Juridiskās palīdzības administrācija izskata un juridisko palīdzību piešķir tādos gadījumos un apjomā, kādu nosaka tiesiskais regulējums, kas bija spēkā līdz 2009.gada 30.jūnijam.

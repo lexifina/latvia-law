@@ -1,12 +1,17 @@
 6.pants. Juridiskās palīdzības atteikuma pamats
-(1) Juridisko palīdzību nesniedz, ja:
-1) personas pieprasītā juridiskā palīdzība ir nepamatota;
-2) persona nav savlaicīgi pieprasījusi juridisko palīdzību;
-3) valsts pārvaldes iestāde ir palīdzējusi personai, norādot uz tiesiskās situācijas risināšanas iespējām, sagatavojot personas tiesību aizsardzībai vai īstenošanai nepieciešamos dokumentus vai sniedzot cita veida juridisko palīdzību, kas norāda uz to, ka juridiskā palīdzība nav nepieciešama;
-4) divu pēdējo gadu laikā kopš iepriekšējās juridiskās palīdzības pieprasīšanas personai ir bijusi pārtraukta juridiskās palīdzības sniegšana tādēļ, ka šī persona, pieprasot juridisko palīdzību, sniegusi īstenībai neatbilstošas ziņas;
-5) persona, kurai ir bijis uzlikts par pienākumu daļēji vai pilnībā atmaksāt ar juridisko palīdzību saistītos izdevumus, nav to izdarījusi noteiktajā laikā un apmērā;
-6) tā attiecas uz prasījumu, kas tieši saistīts ar prasītāja komercdarbību vai neatkarīgu profesionālo darbību;
-7) tā ir saistīta ar muitas vai nodokļu jautājumiem;
-8) tā attiecas uz prasījumu par goda un cieņas aizskaršanu;
-9) strīdu izšķir šķīrējtiesā vai izmantojot citus alternatīvus strīdu risināšanas mehānismus.
-(2) Izņēmuma gadījumos juridisko palīdzību sniedz, neņemot vērā šā panta pirmās daļas 4. un 5.punktā minētos nosacījumus, ja juridiskās palīdzības nesniegšana nozīmētu, ka tiek būtiski ierobežotas Latvijas Republikas Satversmē garantētās personas pamattiesības.
+Juridisko palīdzību atsaka, ja:
+1) persona neatbilst šā likuma 3.pantā minētajiem kritērijiem;
+2) šis likums neparedz attiecīgu juridiskās palīdzības nodrošināšanas gadījumu;
+3) personas pieprasītā juridiskā palīdzība ir nepamatota;
+4) persona nav savlaicīgi pieprasījusi juridisko palīdzību;
+5) kompetentā iestāde ir palīdzējusi personai, norādot uz situācijas risināšanas tiesiskajām iespējām, sagatavojot personas tiesību aizsardzībai vai īstenošanai nepieciešamos dokumentus vai sniedzot cita veida palīdzību, un tāpēc juridiskā palīdzība vairs nav nepieciešama;
+6) divu pēdējo gadu laikā kopš iepriekšējās juridiskās palīdzības pieprasīšanas personai tās sniegšana bijusi pārtraukta tādēļ, ka šī persona, pieprasot juridisko palīdzību, sniegusi īstenībai neatbilstošas ziņas;
+7) persona, kurai bijis uzlikts par pienākumu atmaksāt ar juridisko palīdzību saistītos izdevumus, nav to izdarījusi noteiktajā laikā un apmērā;
+8) tā attiecas uz prasījumu, kas ir tieši saistīts ar personas saimniecisko darbību vai komercdarbību, vai neatkarīgu profesionālo darbību;
+9) tā ir saistīta ar muitas vai nodokļu jautājumiem;
+10) tā attiecas uz prasījumu par goda un cieņas aizskaršanu;
+11) tā ir saistīta ar morālā kaitējuma atlīdzināšanu;
+12) strīdu izšķir šķīrējtiesā vai izmantojot citus alternatīvus strīdu risināšanas mehānismus;
+13) tā ir saistīta ar tāda aizdevuma līguma saistību izpildi, kurā persona, kas juridisko palīdzību pieprasa, ir aizdevējs;
+14) tā attiecas uz prasījumu, kas saistīts ar greznumlietām vai greznuma pakalpojumiem;
+15) tā attiecas uz prasījumu par līguma saistību izpildi, ja ar juridiskās palīdzības nodrošināšanu saistītie izdevumi ir nesamērīgi lieli salīdzinājumā ar prasījuma summu.

@@ -4,7 +4,7 @@
 2) persona ļaunprātīgi izmanto savas tiesības uz juridisko palīdzību;
 3) persona ir nepamatoti saņēmusi juridisko palīdzību;
 4) (izslēgts ar 19.06.2008. likumu);
-5) personas īpašā situācija, īpašuma stāvoklis vai ienākumu līmenis gada laikā pēc juridiskās palīdzības saņemšanas ir būtiski uzlabojies.
-(2) Ministru kabinets nosaka kārtību, kādā šā panta pirmajā un ceturtajā daļā minētās personas samaksā ar juridisko palīdzību saistītos izdevumus.
-(3) Ministru kabinets nosaka kārtību, kādā tiek izvērtēti šā panta pirmās daļas 5.punktā minētie nosacījumi.
+5) (izslēgts ar 12.06.2009. likumu).
+(2) (Izslēgta ar 12.06.2009. likumu.)
+(3) (Izslēgta ar 12.06.2009. likumu.)
 (4) Persona, kas pieprasa juridisko palīdzību pārrobežu strīdā, samaksā tulkošanas izdevumus, kas segti no valsts budžeta, ja citas valsts kompetentā iestāde atsaka juridiskās palīdzības sniegšanu.

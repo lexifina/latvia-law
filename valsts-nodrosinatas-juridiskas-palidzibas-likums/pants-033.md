@@ -1,17 +1,24 @@
 33.pants. Juridiskās palīdzības sniedzēja norīkošana
-(1) Kad pieņemts lēmums par juridiskās palīdzības piešķiršanu, Juridiskās palīdzības administrācija norīko juridiskās palīdzības sniedzēju konkrētajā lietā.
-(2) Juridiskās palīdzības administrācija izvēlas juridiskās palīdzības sniedzēju konkrētajā lietā, ņemot vērā juridiskās palīdzības sniedzēja:
+(1) Pieņemot lēmumu par juridiskās palīdzības piešķiršanu, Juridiskās palīdzības administrācija norīko juridiskās palīdzības sniedzēju konkrētajā lietā.
+(2) Juridiskās palīdzības administrācija izvēlas juridiskās palīdzības sniedzēju, ņemot vērā tā:
 1) kompetenci;
 2) specializāciju;
 3) noslogojumu;
-4) spēju konkrētajā lietā sniegt juridisko palīdzību (piemēram, izvērtē interešu konflikta iespējamību);
+4) spēju konkrētajā lietā sniegt juridisko palīdzību (piemēram, izvērtē interešu konflikta iespējamību u.c.);
 5) atrašanās vietu, lai izvērtētu, kāds attālums jāveic personai, lai saņemtu juridisko palīdzību.
-(3) Juridiskās palīdzības administrācija informē juridiskās palīdzības pieprasītāju par norīkoto juridiskās palīdzības sniedzēju, juridiskās palīdzības apjomu, kā arī par vietu un laiku, kur un kad būs pirmā tikšanās ar juridiskās palīdzības sniedzēju.
+(3) Izņēmuma gadījumos, kad, pieņemot lēmumu par juridiskās palīdzības piešķiršanu, nav iespējams norīkot juridiskās palīdzības sniedzēju un noteikt juridiskās palīdzības pieprasītāja un sniedzēja pirmās tikšanās laiku un vietu, Juridiskās palīdzības administrācija norīko juridiskās palīdzības sniedzēju pēc tam, kad pieņemts lēmums par juridiskās palīdzības piešķiršanu, un informē juridiskās palīdzības pieprasītāju par juridiskās palīdzības apjomu un pirmās tikšanās ar juridiskās palīdzības sniedzēju laiku un vietu.
 (4) Norīkojumā Juridiskās palīdzības administrācija norāda:
-1) juridiskās palīdzības pieprasītāja vārdu, uzvārdu, personas kodu un dzīvesvietu;
+1) juridiskās palīdzības pieprasītāja vārdu, uzvārdu, personas kodu, dzīvesvietu un kontaktinformāciju;
 2) juridiskās palīdzības sniedzēja vārdu, uzvārdu vai nosaukumu, prakses vietu un kontaktinformāciju;
-3) juridiskās palīdzības veidu;
-4) juridiskās palīdzības sniegšanas laiku;
-5) to, cik ilgi un kādā apjomā valsts apņemas maksāt par juridisko palīdzību;
-6) laiku un vietu, kad un kur paredzēta pirmā tikšanās ar juridiskās palīdzības sniedzēju.
+3) lietu kategoriju, kurā piešķirta juridiskā palīdzība;
+4) juridiskās palīdzības veidu un apjomu;
+5) juridiskās palīdzības sniegšanas laiku;
+6) juridiskās palīdzības pieprasītāja un sniedzēja pirmās tikšanās laiku un vietu vai kārtību, kādā juridiskās palīdzības pieprasītājs var sazināties ar juridiskās palīdzības sniedzēju.
 (5) Norīkojums nav administratīvs akts.
+(6) Juridiskās palīdzības administrācija norīko juridiskās palīdzības sniedzēju patvēruma meklētājam, ja no institūcijas, kas ir atbildīga par patvēruma iesniegumu izskatīšanu un juridiskās palīdzības nepieciešamības izvērtēšanu, saņemts attiecīgs pieprasījums.
+(7) Juridiskās palīdzības administrācija nenodrošina pieņemtā lēmuma par juridiskās palīdzības piešķiršanu izpildi un pārtrauc juridiskās palīdzības sniegšanas nodrošināšanu, ja:
+1) persona rakstveidā iesniedz attiecīgu lūgumu;
+2) persona, kurai piešķirta juridiskā palīdzība, ir mirusi;
+3) saņemts juridiskās palīdzības sniedzēja atzinums par turpmākās juridiskās palīdzības nelietderību;
+4) persona atkārtoti bez attaisnojoša iemesla nav ieradusies pie juridiskās palīdzības sniedzēja norādītajā laikā un vietā un nav paziņojusi par neierašanos Juridiskās palīdzības administrācijai vai juridiskās palīdzības sniedzējam vai atsakās līdzdarboties juridiskās palīdzības saņemšanai vai lēmuma par juridiskās palīdzības piešķiršanu izpildes nodrošināšanai;
+5) pēc lēmuma par juridiskās palīdzības piešķiršanu pieņemšanas tiek konstatēts, ka persona neatbilst šā likuma 3.panta prasībām.

@@ -1,5 +1,9 @@
 35.pants. Ar juridisko palīdzību saistīto izdevumu samaksas kārtība
 (1) Juridiskās palīdzības administrācija, konstatējusi kādu no šā likuma 34.panta pirmās daļas 1., 2. un 3.punktā minētajiem gadījumiem, pieņem lēmumu par to izdevumu samaksu, kuri saistīti ar juridiskās palīdzības sniegšanu. Minēto lēmumu pieņem ne vēlāk kā trīs gadus no attiecīgās juridiskās palīdzības sniegšanas pēdējās dienas.
-(2) Juridiskās palīdzības administrācija, konstatējusi šā likuma 34.panta pirmās daļas 5.punktā minēto gadījumu, pieņem lēmumu par to izdevumu samaksu, kuri saistīti ar juridiskās palīdzības sniegšanu. Minēto lēmumu pieņem ne agrāk kā gadu un ne vēlāk kā divus gadus no attiecīgās juridiskās palīdzības sniegšanas pēdējās dienas.
-(3) Juridiskās palīdzības administrācija iepazīstina personu ar pieņemto lēmumu.
-(4) Ar juridisko palīdzību saistītie izdevumi ieskaitāmi valsts budžetā.
+(2) Juridiskās palīdzības administrācija šā likuma 25.pantā paredzētajā kārtībā paziņo personai par pieņemto lēmumu. Šo lēmumu persona var apstrīdēt šā likuma 26.pantā noteiktajā kārtībā.
+(3) Lēmumā par to izdevumu samaksu, kuri saistīti ar juridiskās palīdzības sniegšanu, Juridiskās palīdzības administrācija norāda atmaksājamo izdevumu summu un valsts budžeta kontu, kurā tā ieskaitāma.
+(4) Persona samaksā ar juridiskās palīdzības sniegšanu saistītos izdevumus 30 dienu laikā pēc šā panta pirmajā daļā noteiktā lēmuma spēkā stāšanās dienas un iesniedz Juridiskās palīdzības administrācijai maksājumu apliecinošus dokumentus.
+(5) Ja ir pamatoti iemesli, persona, iesniedzot motivētu rakstveida iesniegumu, var lūgt Juridiskās palīdzības administrāciju šā panta pirmajā daļā noteiktajā lēmumā norādītās summas samaksu sadalīt termiņos. Juridiskās palīdzības administrācija pieņem lēmumu par atmaksājamo izdevumu summas samaksas sadalīšanu termiņos vai atteikumu atmaksājamās summas samaksu sadalīt termiņos.
+(6) Ja atmaksājamo izdevumu summas samaksa tiek sadalīta termiņos, visa summa atmaksājama ne vēlāk kā gada laikā no dienas, kad stājies spēkā Juridiskās palīdzības administrācijas lēmums par to izdevumu samaksu, kuri saistīti ar juridiskās palīdzības sniegšanu.
+(7) Ja persona šā panta pirmajā daļā noteikto lēmumu neizpilda un labprātīgi nesamaksā ar juridisko palīdzību saistītos izdevumus, Juridiskās palīdzības administrācija iesniedz zvērinātam tiesu izpildītājam Administratīvā procesa likumā noteiktajā kārtībā izdotu izpildrīkojumu.
+(8) Ar juridisko palīdzību saistītie atmaksātie izdevumi ieskaitāmi valsts budžetā.

@@ -3,10 +3,12 @@
 1) Latvijas pilsonim;
 2) Latvijas nepilsonim;
 3) bezvalstniekam;
-4) Eiropas Savienības pilsonim, kas nav Latvijas Republikas pilsonis, bet tiesiski uzturas Latvijas Republikā;
-5) tādas valsts pilsonim, kas nav Eiropas Savienības dalībvalsts, ja viņš tiesiski uzturas Latvijas Republikā un ir saņēmis pastāvīgās uzturēšanās atļauju;
-6) personai, kurai atbilstoši Latvijas Republikas noslēgtam starptautiskajam līgumam ir tiesības uz Latvijas Republikas nodrošināto juridisko palīdzību;
-7) patvēruma meklētājam, bēglim un personai, kurai piešķirts alternatīvais statuss Latvijas Republikā.
-(2) Šā panta pirmajā daļā minētajām fiziskajām personām ir tiesības uz juridisko palīdzību, ja šīs personas, ievērojot to īpašo situāciju, īpašuma stāvokli un ienākumu līmeni, nav spējīgas daļēji vai pilnībā nodrošināt savu tiesību aizsardzību. Ministru kabinets nosaka, kādos gadījumos personas īpašā situācija, īpašuma stāvoklis un ienākumu līmenis uzskatāms par atbilstošu juridiskās palīdzības piešķiršanai.
-(3) Valsts nodrošina juridisko palīdzību jebkurai personai, kas ieguvusi maznodrošinātas vai trūcīgas personas statusu.
-(4) Personām, kas atbilst šā panta pirmajā, otrajā un trešajā daļā minētajiem kritērijiem, ir tiesības pieprasīt juridisko palīdzību un izdarīt grozījumus sākotnējā juridiskās palīdzības pieprasījumā.
+4) Eiropas Savienības pilsonim, kas nav Latvijas pilsonis, bet tiesiski uzturas Latvijas Republikā;
+5) ārzemniekam (tai skaitā bēglim un personai, kurai ir piešķirts alternatīvais statuss Latvijas Republikā), kas nav Eiropas Savienības dalībvalsts pilsonis, ja viņš tiesiski uzturas Latvijas Republikā un ir saņēmis pastāvīgās uzturēšanās atļauju;
+6) personai, kurai atbilstoši Latvijas Republikas starptautiskajām saistībām ir tiesības uz Latvijas Republikas nodrošināto juridisko palīdzību;
+7) patvēruma meklētājam;
+8) personai, kuras pastāvīgā dzīvesvieta vai domicils ir kāda no Eiropas Savienības dalībvalstīm, pārrobežu strīdos.
+(2) Šā panta pirmās daļas 1., 2., 3., 4. un 5.punktā minētajām fiziskajām personām ir tiesības pieprasīt juridisko palīdzību, ja:
+1) tās ir ieguvušas maznodrošinātas vai trūcīgas personas statusu atbilstoši normatīvajos aktos noteiktajai kārtībai, kādā fiziskā persona atzīstama par maznodrošinātu vai trūcīgu;
+2) tās pēkšņi nonākušas tādā situācijā un materiālajā stāvoklī, kas tām liedz nodrošināt savu tiesību aizsardzību (stihisku nelaimju, nepārvaramas varas vai citu no personas neatkarīgu apstākļu dēļ), vai atrodas pilnā valsts vai pašvaldības apgādībā (turpmāk - īpašā situācija).
+(3) Šā panta pirmās daļas 6. un 8.punktā minētajām fiziskajām personām ir tiesības pieprasīt juridisko palīdzību, ja šīs personas, ievērojot to īpašo situāciju vai īpašuma stāvokli un ienākumu līmeni, nav spējīgas nodrošināt savu tiesību aizsardzību. Ministru kabinets nosaka, kādos gadījumos šā panta pirmās daļas 6. un 8.punktā minēto personu īpašuma stāvoklis un ienākumu līmenis uzskatāms par atbilstošu juridiskās palīdzības piešķiršanai, un to izvērtēšanas kārtību.
