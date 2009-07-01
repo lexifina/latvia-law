@@ -2,10 +2,10 @@
 Nr. p.k.
 Robežposmu numurs pēc plāna
 Pa kādiem plāna situācijas elementiem robeža noteikta
-Rēzeknes rajons. Lūznavas pagasts
+Rēzeknes novads. Lūznavas pagasts
 1.1.
 1-2
-No 2.šķiras valsts ceļa Lūznava-Ismeri un zemes īpašuma (kadastra Nr.78680050121) robežas krustpunkta uz dienvidiem, dienvidaustrumiem un austrumiem pa zemes īpašuma (kadastra Nr.78680050121) robežu līdz zemes īpašuma (kadastra Nr.78680050229) dienvidu robežai
+No vietējā autoceļa Lūznava-Ismeri un zemes īpašuma (kadastra Nr.78680050121) robežas krustpunkta uz dienvidiem, dienvidaustrumiem un austrumiem pa zemes īpašuma (kadastra Nr.78680050121) robežu līdz zemes īpašuma (kadastra Nr.78680050229) dienvidu robežai
 1.2.
 2-3
 Uz austrumiem pa zemes īpašuma (kadastra Nr.78680050229) dienvidu robežu līdz zemes īpašuma (kadastra Nr.78680050229) dienvidaustrumu stūrim
@@ -58,10 +58,10 @@ Uz dienvidaustrumiem, ziemeļiem un rietumiem pa zemes īpašuma (kadastra Nr.78
 Uz ziemeļaustrumiem un ziemeļrietumiem pa Harčenku ezera austrumu krastu līdz strauta ietekai ezera ziemeļu krastā
 1.18.
 18-19
-Uz ziemeļiem pa strautu līdz 2.šķiras valsts ceļa Lūznava-Ismeri dienvidu malai
+Uz ziemeļiem pa strautu līdz vietējam autoceļam Lūznava-Ismeri dienvidu malai
 1.19.
 19-1
-Uz austrumiem pa 2.šķiras valsts ceļa Lūznava-Ismeri dienvidu malu līdz sākumpunktam
+Uz austrumiem pa vietējā autoceļa Lūznava-Ismeri dienvidu malu līdz sākumpunktam
 2. Harčenku purva dabas lieguma zonas robežpunktu koordinātas
 Nr.
 p.k.
@@ -148,7 +148,7 @@ Y koordināta
 Nr. p.k.
 Robežposmu numurs pēc plāna
 Pa kādiem plāna situācijas elementiem robeža noteikta
-Rēzeknes rajons. Lūznavas pagasts
+Rēzeknes novads. Lūznavas pagasts
 3.1.
 1-2
 No ceļa Zosna-Višķeri rietumu malas un zemes īpašuma (kadastra Nr.78680050127) dienvidu robežas krustpunkta uz rietumiem, dienvidiem un ziemeļrietumiem pa zemes īpašuma (kadastra Nr.78680050127) dienvidu robežu līdz kanalizētai caurtekai Zosnas ezers-Rāznas ezers
@@ -200,17 +200,17 @@ Y koordināta
 Nr. p.k.
 Robežposmu numurs pēc plāna
 Pa kādiem plāna situācijas elementiem robeža noteikta
-Rēzeknes rajons. Mākoņkalna pagasts
+Rēzeknes novads. Mākoņkalna pagasts
 5.1.
 Sešas Rāznas ezera salas Rāznas ezera rietumu daļā. Dabas lieguma robeža sakrīt ar salu krasta līniju
 6. Mākoņkalna dabas lieguma zonas robežas apraksts
 Nr. p.k.
 Robežposmu numurs pēc plāna
 Pa kādiem plāna situācijas elementiem robeža noteikta
-Rēzeknes rajons. Mākoņkalna pagasts
+Rēzeknes novads. Mākoņkalna pagasts
 6.1.
 1-2
-No zemes īpašuma (kadastra Nr.78720070003) ziemeļu robežas un 2.šķiras valsts autoceļa Andrupene-Ļipuški krustpunkta pa 2.šķiras valsts autoceļa Andrupene-Ļipuški rietumu malu līdz zemes īpašuma (kadastra Nr.78720070087) dienvidu stūrim
+No zemes īpašuma (kadastra Nr.78720070003) ziemeļu robežas un vietējā autoceļa Andrupene-Ļipuški krustpunkta pa vietējā autoceļa Andrupene-Ļipuški rietumu malu līdz zemes īpašuma (kadastra Nr.78720070087) dienvidu stūrim
 6.2.
 2-3
 Uz ziemeļrietumiem pa zemes īpašuma (kadastra Nr.78720070087) dienvidrietumu robežu līdz zemes īpašuma (kadastra Nr.78720070074) austrumu stūrim
@@ -273,7 +273,7 @@ Y koordināta
 Nr. p.k.
 Robežposmu numurs pēc plāna
 Pa kādiem plāna situācijas elementiem robeža noteikta
-Rēzeknes rajons. Kaunatas pagasts
+Rēzeknes novads. Kaunatas pagasts
 8.1.
 1-2
 No zemes īpašuma (kadastra Nr.78620130016) rietumu stūra pa zemes īpašuma (kadastra Nr.78620130016) ziemeļu robežu līdz zemes īpašuma (kadastra Nr.78620130018) ziemeļu robežai
@@ -318,10 +318,10 @@ Y koordināta
 Nr. p.k.
 Robežposmu numurs pēc plāna
 Pa kādiem plāna situācijas elementiem robeža noteikta
-Rēzeknes rajons. Mākoņkalna pagasts
+Rēzeknes novads. Mākoņkalna pagasts
 10.1.
 1-2
-No Krāslavas rajona Andrupenes pagasta un Rēzeknes rajona Mākoņkalna pagasta robežas krustpunkta ar 2.šķiras valsts ceļu Andrupene-Ļipuški uz ziemeļaustrumiem pa 2.šķiras valsts ceļa Andrupene-Ļipuški dienvidaustrumu malu līdz zemes īpašuma (kadastra Nr.78720100162) ziemeļaustrumu robežai
+No Dagdas novada Andrupenes pagasta un Rēzeknes novada Mākoņkalna pagasta robežas krustpunkta ar vietējo autoceļu Andrupene-Ļipuški uz ziemeļaustrumiem pa vietējā autoceļa Andrupene-Ļipuški dienvidaustrumu malu līdz zemes īpašuma (kadastra Nr.78720100162) ziemeļaustrumu robežai
 10.2.
 2-3
 Uz dienvidaustrumiem pa zemes īpašuma (kadastra Nr.78720100162) ziemeļaustrumu robežu līdz zemes īpašuma (kadastra Nr.78720100188) ziemeļu robežai
@@ -416,16 +416,16 @@ Nr.60420040150) dienvidaustrumu robežu līdz zemes īpašuma (kadastra Nr.60420
 10.30.
 30-31
 Uz dienvidiem pa zemes īpašuma (kadastra
-Nr.60420040149) austrumu robežu līdz 2.šķiras valsts ceļa Andrupene-Ļipuški ziemeļaustrumu malai
+Nr.60420040149) austrumu robežu līdz vietējā autoceļa Andrupene-Ļipuški ziemeļaustrumu malai
 10.31.
 31-32
-Uz ziemeļrietumiem pa 2.šķiras valsts ceļa Andrupene-Ļipuški ziemeļaustrumu malu līdz zemes īpašuma (kadastra Nr.60420040036) rietumu stūrim
+Uz ziemeļrietumiem pa vietējā autoceļa Andrupene-Ļipuški ziemeļaustrumu malu līdz zemes īpašuma (kadastra Nr.60420040036) rietumu stūrim
 10.32.
 32-33
-Uz austrumiem, ziemeļaustrumiem, ziemeļiem un rietumiem pa zemes īpašuma (kadastra Nr.60420040036) rietumu robežu līdz 2.šķiras valsts ceļa Andrupene-Ļipuški ziemeļaustrumu malai
+Uz austrumiem, ziemeļaustrumiem, ziemeļiem un rietumiem pa zemes īpašuma (kadastra Nr.60420040036) rietumu robežu līdz vietējā autoceļa Andrupene-Ļipuški ziemeļaustrumu malai
 10.33.
 33-1
-Uz ziemeļrietumiem un ziemeļiem pa 2.šķiras valsts ceļa Andrupene-Ļipuški ziemeļaustrumu malu
+Uz ziemeļrietumiem un ziemeļiem pa vietējā autoceļa Andrupene-Ļipuški ziemeļaustrumu malu
 līdz sākumpunktam
 11. Salāju ezera dabas lieguma zonas robežpunktu koordinātas
 Nr.p.k.
@@ -568,10 +568,10 @@ Y koordināta
 Nr. p.k.
 Robežposmu numurs pēc plāna
 Pa kādiem plāna situācijas elementiem robeža noteikta
-Krāslavas rajons. Andrupenes pagasts
+Dagdas novads. Andrupenes pagasts
 12.1.
 1-2
-No 1.šķiras valsts ceļa P-57 Dagda-Andrupene-Malta un zemesceļa Biža-Bronkas-Litaunīki krustojuma pa zemesceļa Biža-Bronkas-Litaunīki austrumu malu uz dienvidiem līdz Baldas upītei
+No reģionālā autoceļa P-57 Dagda-Andrupene-Malta un zemesceļa Biža-Bronkas-Litaunīki krustojuma pa zemesceļa Biža-Bronkas-Litaunīki austrumu malu uz dienvidiem līdz Baldas upītei
 12.2.
 2-3
 Uz rietumiem pa Baldas upīti līdz zemes īpašuma (kadastra Nr.60420010135) rietumu robežai
@@ -583,10 +583,10 @@ Uz ziemeļiem pa zemes īpašuma (kadastra Nr.60420010135) rietumu robežu līdz
 Uz rietumiem un ziemeļiem pa zemes īpašuma (kadastra Nr.60420010130) dienvidu un rietumu robežu līdz zemes īpašuma (kadastra Nr.60420010015) dienvidrietumu robežai
 12.5.
 5-6
-Uz ziemeļrietumiem un ziemeļiem pa zemes īpašuma (kadastra Nr.60420010015) dienvidrietumu un rietumu robežu līdz 1.šķiras valsts ceļam P-57 Dagda- Andrupene-Malta
+Uz ziemeļrietumiem un ziemeļiem pa zemes īpašuma (kadastra Nr.60420010015) dienvidrietumu un rietumu robežu līdz reģionālajam autoceļam P-57 Dagda- Andrupene-Malta
 12.6.
 6-1
-Uz dienvidaustrumiem pa 1.šķiras valsts ceļa P-57 Dagda-Andrupene-Malta dienvidrietumu malu līdz sākumpunktam
+Uz dienvidaustrumiem pa reģionālo autoceļu P-57 Dagda-Andrupene-Malta dienvidrietumu malu līdz sākumpunktam
 13. Dabas lieguma "Litaunīku Mēness kalendārs" zonas robežpunktu koordinātas
 Nr.p.k.
 Robežpunkts
@@ -620,7 +620,7 @@ Y koordināta
 Nr. p.k.
 Robežposmu numurs pēc plāna
 Pa kādiem plāna situācijas elementiem robeža noteikta
-Krāslavas rajons.
+Dagdas novads.
 14.1. Ezernieku pagasts
 14.1.1.
 Dabas liegumā ietilpst visas Ežezera salas un Pahatnieku pussalas ozolu audze (valsts meža 311.kvartāls)

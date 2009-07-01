@@ -2,16 +2,16 @@
 Nr. p.k.
 Robežposmu numurs pēc plāna
 Pa kādiem plāna situācijas elementiem robeža noteikta
-Rēzeknes rajons. Kaunatas pagasts
+Rēzeknes novads. Kaunatas pagasts
 35.1.
 1-2
-No 1.šķiras valsts ceļa P-55 Rēzekne-Ezernieki-Dagda un zemes īpašuma (kadastra Nr.78620120019) krustpunkta uz austrumiem un dienvidaustrumiem pa zemes īpašuma (kadastra Nr.78620120019) robežu līdz 1.šķiras valsts ceļam P-55 Rēzekne-Ezernieki-Dagda
+No reģionālā autoceļa P-55 Rēzekne-Ezernieki-Dagda un zemes īpašuma (kadastra Nr.78620120019) krustpunkta uz austrumiem un dienvidaustrumiem pa zemes īpašuma (kadastra Nr.78620120019) robežu līdz reģionālajam autoceļam P-55 Rēzekne-Ezernieki-Dagda
 35.2.
 2-3
-Uz dienvidaustrumiem pa 1.šķiras valsts ceļa Rēzekne-Ezernieki-Dagda ziemeļaustrumu malu līdz pagasta zemesceļam Dubuļi-Eisaki
+Uz dienvidaustrumiem pa reģionālā autoceļa Rēzekne-Ezernieki-Dagda ziemeļaustrumu malu līdz pašvaldības ceļam Dubuļi-Eisaki
 35.3.
 3-4
-Uz austrumiem, ziemeļiem un ziemeļaustrumiem pa pagasta zemesceļa Dubuļi-Eisaki ziemeļrietumu malu līdz zemes īpašuma (kadastra Nr.78620120016) dienvidu robežai
+Uz austrumiem, ziemeļiem un ziemeļaustrumiem pa pašvaldības ceļa Dubuļi-Eisaki ziemeļrietumu malu līdz zemes īpašuma (kadastra Nr.78620120016) dienvidu robežai
 35.4.
 4-5
 Uz ziemeļaustrumiem pa zemes īpašuma (kadastra Nr.78620120016) robežu līdz Dubuļu dīķim
@@ -33,19 +33,19 @@ Uz ziemeļaustrumiem pa zemes īpašuma (kadastra Nr.78620120202) dienvidu robe�
 Uz dienvidrietumiem pa Dubuļu ezera austrumu krastu līdz zemes īpašuma (kadastra Nr.78620120044) austrumu robežai
 35.10.
 10-11
-Uz dienvidiem pa zemes īpašuma (kadastra Nr.78620120044) austrumu robežu līdz 1.šķiras valsts ceļam P-55 Rēzekne-Ezernieki-Dagda
+Uz dienvidiem pa zemes īpašuma (kadastra Nr.78620120044) austrumu robežu līdz reģionālajam autoceļam P-55 Rēzekne-Ezernieki-Dagda
 35.11.
 11-12
-Uz dienvidiem no 1.šķiras valsts ceļa P-55 Rēzekne-Ezernieki-Dagda pa zemes īpašuma (kadastra Nr.78620120094) rietumu robežu līdz zemes īpašuma (kadastra Nr.78620120093) ziemeļu stūrim
+Uz dienvidiem no reģionālā autoceļa P-55 Rēzekne-Ezernieki-Dagda pa zemes īpašuma (kadastra Nr.78620120094) rietumu robežu līdz zemes īpašuma (kadastra Nr.78620120093) ziemeļu stūrim
 35.12.
 12-13
 Uz dienvidrietumiem un dienvidiem pa zemes īpašumu (kadastra Nr.78620120093; kadastra Nr.78620120316) robežu līdz zemes īpašuma (kadastra Nr.78620120033) ziemeļaustrumu stūrim
 35.13.
 13-14
-Uz rietumiem pa zemes īpašuma (kadastra Nr.78620120033) ziemeļu robežu līdz pagasta zemesceļam Dubuļi-Patmalnīki
+Uz rietumiem pa zemes īpašuma (kadastra Nr.78620120033) ziemeļu robežu līdz pašvaldības ceļam Dubuļi-Patmalnīki
 35.14.
 14-15
-Uz dienvidiem pa pagasta zemesceļa Dubuļi- Patmalnīki austrumu malu līdz zemes īpašuma (kadastra Nr.78620120082) robežai
+Uz dienvidiem pa pašvaldības ceļa Dubuļi- Patmalnīki austrumu malu līdz zemes īpašuma (kadastra Nr.78620120082) robežai
 35.15.
 15-16
 Uz rietumiem un dienvidrietumiem pa zemes īpašumu (kadastra Nr.78620120082; kadastra Nr.78620120065) robežu līdz zemes īpašuma (kadastra Nr.78620120109) austrumu robežai
@@ -64,19 +64,19 @@ Uz ziemeļiem un ziemeļaustrumiem pa zemes īpašuma (kadastra Nr.78620120037) 
 Nr.78620120320) dienvidu stūrim
 35.20.
 20-21
-Uz ziemeļaustrumiem pa zemes īpašuma (kadastra Nr.78620120320) austrumu robežu līdz 1.šķiras valsts ceļam P-55 Rēzekne-Ezernieki-Dagda
+Uz ziemeļaustrumiem pa zemes īpašuma (kadastra Nr.78620120320) austrumu robežu līdz reģionālajam autoceļam P-55 Rēzekne-Ezernieki-Dagda
 35.21.
 21-22
-Uz ziemeļaustrumiem pa 1.šķiras valsts ceļa P-55 Rēzekne-Ezernieki-Dagda dienvidrietumu malu līdz zemes īpašuma (kadastra Nr.78620120138) austrumu robežai
+Uz ziemeļaustrumiem pa reģionālā autoceļa P-55 Rēzekne-Ezernieki-Dagda dienvidrietumu malu līdz zemes īpašuma (kadastra Nr.78620120138) austrumu robežai
 35.22.
 22-23
 Uz dienvidrietumiem un rietumiem pa zemes īpašuma (kadastra Nr.78620120138) austrumu un dienvidu robežu līdz zemes īpašuma (kadastra Nr.78620120020) dienvidu robežai
 35.23.
 23-24
-Uz ziemeļrietumiem un ziemeļiem pa zemes īpašuma (kadastra Nr.78620120020) dienvidu un rietumu robežu līdz 1.šķiras valsts ceļam P-55 Rēzekne-Ezernieki-Dagda
+Uz ziemeļrietumiem un ziemeļiem pa zemes īpašuma (kadastra Nr.78620120020) dienvidu un rietumu robežu līdz reģionālajam autoceļam P-55 Rēzekne-Ezernieki-Dagda
 35.24.
 24-1
-Uz dienvidaustrumiem pa 1.šķiras valsts ceļa Rēzekne-Ezernieki-Dagda ziemeļaustrumu malu līdz sākumpunktam
+Uz dienvidaustrumiem pa reģionālā autoceļa Rēzekne-Ezernieki-Dagda ziemeļaustrumu malu līdz sākumpunktam
 36. Dubuļu neitrālās zonas robežpunktu koordinātas
 Nr.p.k.
 Robežpunkts
@@ -182,13 +182,13 @@ Y koordināta
 Nr. p.k.
 Robežposmu numurs pēc plāna
 Pa kādiem plāna situācijas elementiem robeža noteikta
-Rēzeknes rajons. Mākoņkalna pagasts
+Rēzeknes novads. Mākoņkalna pagasts
 37.1.
 1-2
-No Viraudas ezera dienvidrietumu krasta un zemes īpašuma (kadastra Nr.78720100054) ziemeļrietumu robežas krustpunkta uz dienvidrietumiem pa zemes īpašuma (kadastra Nr.78720100054) ziemeļrietumu robežu līdz 2.šķiras valsts autoceļam Andrupene-Ļipuški
+No Viraudas ezera dienvidrietumu krasta un zemes īpašuma (kadastra Nr.78720100054) ziemeļrietumu robežas krustpunkta uz dienvidrietumiem pa zemes īpašuma (kadastra Nr.78720100054) ziemeļrietumu robežu līdz vietējam autoceļam Andrupene-Ļipuški
 37.2.
 2-3
-Uz dienvidiem pa 2.šķiras valsts autoceļa Andrupene-Ļipuški rietumu malu līdz zemes īpašuma (kadastra Nr.78720100162) ziemeļu stūrim
+Uz dienvidiem pa vietējā autoceļa Andrupene-Ļipuški rietumu malu līdz zemes īpašuma (kadastra Nr.78720100162) ziemeļu stūrim
 37.3.
 3-4
 Uz dienvidaustrumiem pa zemes īpašuma (kadastra Nr.78720100162) ziemeļaustrumu robežu līdz zemes īpašuma (kadastra Nr.78720100188) ziemeļu robežai
@@ -209,10 +209,10 @@ Uz ziemeļaustrumiem, austrumiem, dienvidaustrumiem un ziemeļaustrumiem pa zeme
 Uz dienvidaustrumiem un ziemeļiem pa Adaļeņa ezera dienvidrietumu un austrumu krastu līdz zemes īpašuma (kadastra Nr.78720100066) dienvidaustrumu robežai
 37.9.
 9-10
-Uz ziemeļaustrumiem un rietumiem pa zemes īpašuma (kadastra Nr.78720100066) dienvidaustrumu un ziemeļu robežu līdz pagasta koplietošanas zemesceļam Zeļonki-Krievu Virauda
+Uz ziemeļaustrumiem un rietumiem pa zemes īpašuma (kadastra Nr.78720100066) dienvidaustrumu un ziemeļu robežu līdz pašvaldības ceļam Zeļonki-Krievu Virauda
 37.10.
 10-11
-Uz ziemeļiem pa pagasta koplietošanas zemesceļu Zeļonki-Krievu Virauda līdz meliorācijas notekgrāvim
+Uz ziemeļiem pa pašvaldības ceļu Zeļonki-Krievu Virauda līdz meliorācijas notekgrāvim
 37.11.
 11-12
 Uz dienvidaustrumiem pa meliorācijas notekgrāvi līdz Viraudas ezera ziemeļu krastam
@@ -276,10 +276,10 @@ Y koordināta
 Nr. p.k.
 Robežposmu numurs pēc plāna
 Pa kādiem plāna situācijas elementiem robeža noteikta
-Krāslavas rajons. Andrupenes pagasts
+Dagdas novads. Andrupenes pagasts
 39.1.
 1-2
-No 1.šķiras valsts ceļa P-57 Dagda-Andrupene-Malta un zemesceļa Bergofa-Zundi krustojuma pa 1.šķiras valsts ceļa P-57 Dagda-Andrupene-Malta ziemeļaustrumu malu uz dienvidaustrumiem līdz zemes īpašuma (kadastra Nr.60420010093) ziemeļu stūrim
+No reģionālā autoceļa P-57 Dagda-Andrupene-Malta un zemesceļa Bergofa-Zundi krustojuma pa reģionālā autoceļa P-57 Dagda-Andrupene-Malta ziemeļaustrumu malu uz dienvidaustrumiem līdz zemes īpašuma (kadastra Nr.60420010093) ziemeļu stūrim
 39.2.
 2-3
 Uz dienvidrietumiem pa zemes īpašuma (kadastra Nr.60420010093) ziemeļrietumu robežu līdz zemes īpašuma (kadastra Nr.60420010123) ziemeļu stūrim
@@ -342,16 +342,16 @@ Y koordināta
 Nr. p.k.
 Robežposmu numurs pēc plāna
 Pa kādiem plāna situācijas elementiem robeža noteikta
-Krāslavas rajons. Andrupenes pagasts
+Dagdas novads. Andrupenes pagasts
 41.1.
 1-2
-No 1.šķiras valsts ceļa P-57 Dagda-Andrupene-Malta un 2.šķiras valsts ceļa Andrupene-Mariampole- Jaunokra krustojuma pa 2.šķiras valsts ceļa Andrupene-Mariampole-Jaunokra dienvidu malu uz rietumiem līdz zemesceļam Biža-Bronkas-Litaunīki
+No reģionālā autoceļa P-57 Dagda-Andrupene-Malta un vietējā autoceļa Andrupene-Mariampole- Jaunokra krustojuma pa vietējā autoceļa Andrupene-Mariampole-Jaunokra dienvidu malu uz rietumiem līdz zemesceļam Biža-Bronkas-Litaunīki
 41.2.
 2-3
-Uz rietumiem, ziemeļrietumiem un ziemeļiem pa zemesceļa Biža-Bronkas-Litaunīki rietumu malu līdz 1.šķiras valsts ceļam P-57 Dagda-Andrupene-Malta
+Uz rietumiem, ziemeļrietumiem un ziemeļiem pa zemesceļa Biža-Bronkas-Litaunīki rietumu malu līdz reģionālajam autoceļam P-57 Dagda-Andrupene-Malta
 41.3.
 3-4
-Uz dienvidaustrumiem pa 1.šķiras valsts ceļa P-57 Dagda-Andrupene-Malta ziemeļaustrumu malu līdz zemes īpašuma (kadastra Nr.60420040291) ziemeļrietumu robežai
+Uz dienvidaustrumiem pa reģionālā autoceļa P-57 Dagda-Andrupene-Malta ziemeļaustrumu malu līdz zemes īpašuma (kadastra Nr.60420040291) ziemeļrietumu robežai
 41.4.
 4-5
 Uz ziemeļaustrumiem pa zemes īpašumu (kadastra
@@ -367,10 +367,10 @@ Uz ziemeļiem pa zemes īpašuma (kadastra Nr.60420040121) austrumu robežu līd
 Uz austrumiem pa zemes īpašuma (kadastra Nr.60420040545) ziemeļu robežu līdz zemesceļam
 41.8.
 8-9
-Uz ziemeļaustrumiem pa zemesceļa ziemeļrietumu malu līdz 2.šķiras valsts ceļam Andrupene-Ļipuški
+Uz ziemeļaustrumiem pa zemesceļa ziemeļrietumu malu līdz vietējam autoceļam Andrupene-Ļipuški
 41.9.
 9-10
-Uz ziemeļiem pa 2.šķiras valsts ceļa Andrupene- Ļipuški rietumu malu līdz zemes īpašuma (kadastra Nr.60420040456) ziemeļrietumu stūrim
+Uz ziemeļiem pa vietējā autoceļa Andrupene- Ļipuški rietumu malu līdz zemes īpašuma (kadastra Nr.60420040456) ziemeļrietumu stūrim
 41.10.
 10-11
 Uz ziemeļaustrumiem un dienvidaustrumiem pa zemes īpašuma (kadastra Nr.60420040456) ziemeļu robežu līdz zemes īpašuma (kadastra Nr.60420040548) ziemeļu stūrim
@@ -388,13 +388,13 @@ Uz dienvidaustrumiem pa zemes īpašuma (kadastra Nr.60420040447) ziemeļaustrum
 Uz dienvidiem pa zemes īpašumu (kadastra Nr.60420040503; kadastra Nr.60420040431; kadastra Nr.60420040217) austrumu robežu līdz meliorācijas grāvim
 41.15.
 15-16
-Uz dienvidaustrumiem pa meliorācijas grāvi līdz 2.šķiras valsts ceļa Andrupene-Andzeļi krustpunktam ar meliorācijas grāvi
+Uz dienvidaustrumiem pa meliorācijas grāvi līdz vietējā autoceļa Andrupene-Andzeļi krustpunktam ar meliorācijas grāvi
 41.16.
 16-17
-Uz dienvidaustrumiem, dienvidiem un dienvidrietumiem no 2.šķiras valsts ceļa Andrupene- Andzeļi krustpunkta ar meliorācijas grāvi pa meliorācijas grāvi līdz 1.šķiras valsts ceļam P-57 Dagda-Andrupene-Malta
+Uz dienvidaustrumiem, dienvidiem un dienvidrietumiem no vietējā autoceļa Andrupene- Andzeļi krustpunkta ar meliorācijas grāvi pa meliorācijas grāvi līdz reģionālajam autoceļam P-57 Dagda-Andrupene-Malta
 41.17.
 17-1
-Uz dienvidiem pa 1.šķiras valsts ceļa P-57 Dagda- Andrupene-Malta austrumu malu līdz sākumpunktam
+Uz dienvidiem pa reģionālā autoceļa P-57 Dagda- Andrupene-Malta austrumu malu līdz sākumpunktam
 42. Andrupenes neitrālās zonas robežpunktu koordinātas
 Nr.p.k.
 Robežpunkts
@@ -472,22 +472,22 @@ Y koordināta
 Nr. p.k.
 Robežposmu numurs pēc plāna
 Pa kādiem plāna situācijas elementiem robeža noteikta
-Krāslavas rajons. Andzeļu pagasts
+Dagdas novads. Andzeļu pagasts
 43.1.
 1-2
-No 2.šķiras valsts ceļa Ruduški-Andzeļi krustojuma ar zemesceļu Kļukuški-Andzeļi uz austrumiem pa zemesceļa Kļukuški-Andzeļi ziemeļu malu līdz pagasta zemesceļam Andzeļi-Rokoli
+No vietējā autoceļa Ruduški-Andzeļi krustojuma ar zemesceļu Kļukuški-Andzeļi uz austrumiem pa zemesceļa Kļukuški-Andzeļi ziemeļu malu līdz pašvaldības ceļam Andzeļi-Rokoli
 43.2.
 2-3
-Uz dienvidiem pa pagasta zemesceļa Andzeļi-Rokoli austrumu malu līdz novadgrāvim
+Uz dienvidiem pa pašvaldības ceļa Andzeļi-Rokoli austrumu malu līdz novadgrāvim
 43.3.
 3-4
 Uz austrumiem, ziemeļaustrumiem, austrumiem un dienvidaustrumiem pa novadgrāvi līdz zemesceļam Bondariški-Andzeļi
 43.4.
 4-5
-Uz dienvidrietumiem un dienvidiem pa zemesceļa Bondariški-Andzeļi austrumu malu līdz 2.šķiras valsts ceļam Andzeļi-Ezernieki
+Uz dienvidrietumiem un dienvidiem pa zemesceļa Bondariški-Andzeļi austrumu malu līdz vietējam autoceļam Andzeļi-Ezernieki
 43.5.
 5-6
-Uz ziemeļaustrumiem pa 2.šķiras valsts ceļa Andzeļi- Ezernieki dienvidaustrumu malu līdz zemes īpašuma (kadastra Nr.60440050140) ziemeļu stūrim
+Uz ziemeļaustrumiem pa vietējā autoceļa Andzeļi- Ezernieki dienvidaustrumu malu līdz zemes īpašuma (kadastra Nr.60440050140) ziemeļu stūrim
 43.6.
 6-7
 Uz dienvidaustrumiem pa zemes īpašumu (kadastra Nr.60440050140; kadastra Nr.60440050233; kadastra Nr.60440050139) ziemeļaustrumu robežu līdz zemes īpašuma (kadastra Nr.60440050065) ziemeļu stūrim
@@ -499,13 +499,13 @@ Uz dienvidaustrumiem pa zemes īpašuma (kadastra Nr.60440050065) ziemeļaustrum
 Uz rietumiem pa Ežezera (Ješa ezera) krasta līniju līdz zemes īpašuma (kadastra Nr.60440050295) austrumu robežai
 43.9.
 9-10
-Uz ziemeļiem un ziemeļrietumiem pa zemes īpašuma (kadastra Nr.60440050295) robežu līdz 2.šķiras valsts ceļam Andzeļi-Dagda
+Uz ziemeļiem un ziemeļrietumiem pa zemes īpašuma (kadastra Nr.60440050295) robežu līdz vietējam autoceļam Andzeļi-Dagda
 43.10.
 10-11
-Uz ziemeļaustrumiem pa 2.šķiras valsts ceļa Andzeļi- Dagda dienvidaustrumu malu līdz 2.šķiras valsts ceļam Andzeļi-Ruduški
+Uz ziemeļaustrumiem pa vietējā autoceļa Andzeļi- Dagda dienvidaustrumu malu līdz vietējam autoceļam Andzeļi-Ruduški
 43.11.
 11-1
-Uz ziemeļrietumiem pa 2.šķiras valsts ceļa Andzeļi- Ruduški rietumu malu līdz sākumpunktam
+Uz ziemeļrietumiem pa vietējā autoceļa Andzeļi- Ruduški rietumu malu līdz sākumpunktam
 44. Andzeļu neitrālās zonas robežpunktu koordinātas
 Nr.p.k.
 Robežpunkts
@@ -559,28 +559,28 @@ Y koordināta
 Nr. p.k.
 Robežposmu numurs pēc plāna
 Pa kādiem plāna situācijas elementiem robeža noteikta
-Krāslavas rajons. Ezernieku pagasts
+Dagdas novads. Ezernieku pagasts
 45.1.
 1-2
-No pagasta zemesceļu Ezernieki-Udrija un Patmalnieki-Ezernieki krustojuma uz dienvidaustrumiem un dienvidiem pa ceļa Patmalnieki-Ezernieki ziemeļaustrumu un austrumu malu līdz pagasta zemesceļam Udrija-Garaudži
+No pašvaldības ceļu Ezernieki-Udrija un Patmalnieki-Ezernieki krustojuma uz dienvidaustrumiem un dienvidiem pa ceļa Patmalnieki-Ezernieki ziemeļaustrumu un austrumu malu līdz pašvaldības ceļam Udrija-Garaudži
 45.2.
 2-3
-Uz austrumiem pa pagasta zemesceļa Udrija-Garaudži ziemeļu malu līdz 1.šķiras valsts ceļam P-55 Rēzekne-Ezernieki-Dagda
+Uz austrumiem pa pašvaldības ceļa Udrija-Garaudži ziemeļu malu līdz reģionālajam autoceļam P-55 Rēzekne-Ezernieki-Dagda
 45.3.
 3-4
-Uz dienvidiem pa 1.šķiras valsts ceļa P-55 Rēzekne-Ezernieki-Dagda austrumu malu līdz pagasta zemesceļam Garaudži-Pohalki-Ezernieki
+Uz dienvidiem pa reģionālā autoceļa P-55 Rēzekne-Ezernieki-Dagda austrumu malu līdz pašvaldības ceļam Garaudži-Pohalki-Ezernieki
 45.4.
 4-5
-Uz dienvidaustrumiem, dienvidiem un rietumiem pa pagasta zemesceļa Garaudži-Pohalki-Ezernieki ziemeļaustrumu un dienvidaustrumu malu līdz 1.šķiras valsts ceļam P-49 Rundāni-Ezernieki
+Uz dienvidaustrumiem, dienvidiem un rietumiem pa pašvaldības ceļa Garaudži-Pohalki-Ezernieki ziemeļaustrumu un dienvidaustrumu malu līdz reģionālajam autoceļam P-49 Rundāni-Ezernieki
 45.5.
 5-6
-Uz rietumiem pa 1.šķiras valsts ceļa P-49 Rundāni- Ezernieki dienvidu malu līdz 1.šķiras valsts ceļam P-55 Rēzekne-Ezernieki-Dagda
+Uz rietumiem pa reģionālā autoceļa P-49 Rundāni- Ezernieki dienvidu malu līdz reģionālajam autoceļam P-55 Rēzekne-Ezernieki-Dagda
 45.6.
 6-7
-Uz dienvidiem pa 1.šķiras valsts ceļa P-55 Rēzekne- Ezernieki-Dagda austrumu malu līdz pagasta ceļam uz Ezernieku tūristu bāzi
+Uz dienvidiem pa reģionālā autoceļa P-55 Rēzekne- Ezernieki-Dagda austrumu malu līdz pašvaldības ceļam uz Ezernieku tūristu bāzi
 45.7.
 7-8
-Uz rietumiem pa pagasta ceļa uz Ezernieku tūristu bāzi dienvidu malu līdz zemes īpašuma (kadastra Nr.60560040042) dienvidrietumu stūrim
+Uz rietumiem pa pašvaldības ceļa uz Ezernieku tūristu bāzi dienvidu malu līdz zemes īpašuma (kadastra Nr.60560040042) dienvidrietumu stūrim
 45.8.
 8-9
 Uz ziemeļrietumiem pa zemes īpašuma (kadastra Nr.60560040042) rietumu robežu līdz Ežezera (Ješa ezera) austrumu krastam
@@ -590,10 +590,10 @@ Uz ziemeļiem un ziemeļaustrumiem pa Ežezera (Ješa ezera) austrumu un ziemeļ
 45.10.
 10-11
 Uz ziemeļrietumiem pa zemes īpašuma (kadastra
-Nr.60560030146) ziemeļu robežu līdz 2.šķiras valsts ceļa Ezernieki-Andzeļi un pagasta zemesceļa Ezernieki- Udrija krustojumam
+Nr.60560030146) ziemeļu robežu līdz vietējā autoceļa Ezernieki-Andzeļi un pašvaldības ceļa Ezernieki- Udrija krustojumam
 45.11.
 11-1
-Uz ziemeļiem no 2.šķiras valsts ceļa Ezernieki-Andzeļi un pagasta zemesceļa Ezernieki-Udrija krustojuma pa pagasta zemesceļa Ezernieki-Udrija rietumu malu līdz sākumpunktam
+Uz ziemeļiem no vietējā autoceļa Ezernieki-Andzeļi un pašvaldības ceļa Ezernieki-Udrija krustojuma pa pašvaldības ceļa Ezernieki-Udrija rietumu malu līdz sākumpunktam
 46. Ezernieku neitrālās zonas robežpunktu koordinātas
 Nr.p.k.
 Robežpunkts
@@ -647,13 +647,13 @@ Y koordināta
 Nr. p.k.
 Robežposmu numurs pēc plāna
 Pa kādiem plāna situācijas elementiem robeža noteikta
-Rēzeknes rajons. Mākoņkalna pagasts
+Rēzeknes novads. Mākoņkalna pagasts
 47.1.
 1-2
-No 2.šķiras valsts autoceļa Andrupene-Zosna un 2.šķiras valsts autoceļa Andrupene-Ļipuški krustojuma uz ziemeļaustrumiem pa 2.šķiras valsts autoceļa Andrupene-Ļipuški dienvidrietumu malu līdz zemes īpašuma (kadastra Nr.78720070116) austrumu robežai
+No vietējā autoceļa Andrupene-Zosna un vietējā autoceļa Andrupene-Ļipuški krustojuma uz ziemeļaustrumiem pa vietējā autoceļa Andrupene-Ļipuški dienvidrietumu malu līdz zemes īpašuma (kadastra Nr.78720070116) austrumu robežai
 47.2.
 2-3
-Uz dienvidiem un austrumiem no 2.šķiras valsts autoceļa Andrupene-Ļipuški un zemes īpašuma (kadastra Nr.78720070116) austrumu robežas krustpunkta pa zemes īpašuma (kadastra
+Uz dienvidiem un austrumiem no vietējā autoceļa Andrupene-Ļipuški un zemes īpašuma (kadastra Nr.78720070116) austrumu robežas krustpunkta pa zemes īpašuma (kadastra
 Nr.78720070116) austrumu robežu līdz zemes īpašuma (kadastra Nr.78720070047) rietumu robežai
 47.3.
 3-4
@@ -663,10 +663,10 @@ Uz dienvidiem pa zemes īpašuma (kadastra Nr.78720070047) rietumu robežu līdz
 Uz dienvidiem pa zemes īpašuma (kadastra Nr.78720070077) rietumu robežu līdz zemes īpašuma (kadastra Nr.78720070114) dienvidu robežai
 47.5.
 5-6
-Uz rietumiem pa zemes īpašuma (kadastra Nr.78720070114) dienvidu robežu līdz 2.šķiras valsts autoceļam Andrupene-Zosna
+Uz rietumiem pa zemes īpašuma (kadastra Nr.78720070114) dienvidu robežu līdz vietējam autoceļam Andrupene-Zosna
 47.6.
 6-1
-Uz ziemeļiem no zemes īpašuma (kadastra Nr.78720070114) dienvidu robežas un 2.šķiras valsts autoceļa Andrupene-Zosna krustpunkta pa 2.šķiras valsts autoceļa Andrupene-Zosna austrumu malu līdz sākumpunktam
+Uz ziemeļiem no zemes īpašuma (kadastra Nr.78720070114) dienvidu robežas un vietējā autoceļa Andrupene-Zosna krustpunkta pa vietējā autoceļa Andrupene-Zosna austrumu malu līdz sākumpunktam
 48. Rukmaņu neitrālās zonas robežpunktu koordinātas
 Nr.p.k.
 Robežpunkts

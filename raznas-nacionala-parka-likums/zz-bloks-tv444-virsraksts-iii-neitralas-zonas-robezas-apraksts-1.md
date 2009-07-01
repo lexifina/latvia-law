@@ -2,13 +2,13 @@
 Nr. p.k.
 Robežposmu numurs pēc plāna
 Pa kādiem plāna situācijas elementiem robeža noteikta
-Rēzeknes rajons. Čornajas pagasts
+Rēzeknes novads. Čornajas pagasts
 15.1.
 1-2
-No 1.šķiras valsts ceļa P-55 Rēzekne-Dagda un novadgrāvja krustpunkta uz dienvidiem pa 1.šķiras valsts ceļa P-55 Rēzekne-Dagda austrumu malu līdz 2.šķiras valsts ceļam Treuhi-Ismeri
+No reģionālā autoceļa P-55 Rēzekne-Dagda un novadgrāvja krustpunkta uz dienvidiem pa reģionālā autoceļa P-55 Rēzekne-Dagda austrumu malu līdz vietējam autoceļam Treuhi-Ismeri
 15.2.
 2-3
-Uz dienvidrietumiem pa 2.šķiras valsts ceļa Treuhi-Ismeri dienvidaustrumu malu līdz zemes īpašuma (kadastra Nr.78460040167) dienvidu robežai
+Uz dienvidrietumiem pa vietējā autoceļa Treuhi-Ismeri dienvidaustrumu malu līdz zemes īpašuma (kadastra Nr.78460040167) dienvidu robežai
 15.3.
 3-4
 Uz rietumiem pa zemes īpašuma (kadastra Nr.78460040167) dienvidu robežu līdz zemes īpašuma (kadastra Nr.78460040165) austrumu robežai
@@ -20,10 +20,10 @@ Uz ziemeļrietumiem pa zemes īpašuma (kadastra Nr.78460040165) austrumu robež
 Uz dienvidrietumiem, dienvidiem, rietumiem, ziemeļiem un dienvidaustrumiem pa zemes īpašuma (kadastra Nr.78460040172) dienvidu robežu līdz zemes īpašuma (kadastra Nr.78460040176) rietumu robežai
 15.6.
 6-7
-Uz ziemeļiem pa zemes īpašuma (kadastra Nr.78460040176) rietumu robežu līdz pagasta zemesceļam Treuhi-Bratova
+Uz ziemeļiem pa zemes īpašuma (kadastra Nr.78460040176) rietumu robežu līdz pašvaldības ceļam Treuhi-Bratova
 15.7.
 7-8
-Uz austrumiem pa pagasta zemesceļa Treuhi-Bratova ziemeļu malu līdz zemes īpašuma (kadastra Nr.78460040170) rietumu robežai
+Uz austrumiem pa pašvaldības ceļa Treuhi-Bratova ziemeļu malu līdz zemes īpašuma (kadastra Nr.78460040170) rietumu robežai
 15.8.
 8-9
 Uz ziemeļiem pa zemes īpašuma (kadastra Nr.78460040170) rietumu robežu līdz zemes īpašuma (kadastra Nr.78460040019) rietumu stūrim
@@ -82,10 +82,10 @@ Y koordināta
 Nr. p.k.
 Robežposmu numurs pēc plāna
 Pa kādiem plāna situācijas elementiem robeža noteikta
-Rēzeknes rajons. Čornajas pagasts
+Rēzeknes novads. Čornajas pagasts
 17.1.
 1-2
-No 1.šķiras valsts ceļa P-55 Rēzekne-Dagda un ceļa Čornaja-Balinova krustojuma uz ziemeļaustrumiem pa ceļa Čornaja-Balinova ziemeļrietumu malu līdz zemes īpašuma (kadastra Nr.78460070056) ziemeļu stūrim
+No reģionālā autoceļa P-55 Rēzekne-Dagda un ceļa Čornaja-Balinova krustojuma uz ziemeļaustrumiem pa ceļa Čornaja-Balinova ziemeļrietumu malu līdz zemes īpašuma (kadastra Nr.78460070056) ziemeļu stūrim
 17.2.
 2-3
 Uz dienvidaustrumiem un austrumiem pa zemes īpašuma (kadastra Nr.78460070056) ziemeļu un austrumu robežu līdz zemes īpašuma (kadastra Nr.78460070057) ziemeļu robežai
@@ -98,10 +98,10 @@ Nr.78460070142) rietumu robežai
 Uz dienvidrietumiem pa zemes īpašuma (kadastra Nr.78460070142) rietumu robežu līdz zemes īpašuma (kadastra Nr.78460070058) austrumu robežai
 17.5.
 5-6
-Uz dienvidiem pa zemes īpašuma (kadastra Nr.78460070058) austrumu robežu līdz 1.šķiras valsts ceļam P-55 Rēzekne-Dagda
+Uz dienvidiem pa zemes īpašuma (kadastra Nr.78460070058) austrumu robežu līdz reģionālajam autoceļam P-55 Rēzekne-Dagda
 17.6.
 6-7
-Uz dienvidaustrumiem pa 1.šķiras valsts ceļa P-55 Rēzekne-Dagda austrumu malu līdz novadgrāvim uz Rāznas ezeru
+Uz dienvidaustrumiem pa reģionālā autoceļa P-55 Rēzekne-Dagda austrumu malu līdz novadgrāvim uz Rāznas ezeru
 17.7.
 7-8
 Uz dienvidiem pa novadgrāvi līdz Rāznas ezera krastam
@@ -116,10 +116,10 @@ Uz ziemeļrietumiem pa zemes īpašuma (kadastra Nr.78460070076) dienvidrietumu 
 Uz ziemeļrietumiem pa zemes īpašuma (kadastra Nr.78460070075) dienvidrietumu robežu līdz zemes īpašuma (kadastra Nr.78460070230) dienvidu robežai
 17.11.
 11-12
-Uz rietumiem pa zemes īpašuma (kadastra Nr.78460070230) dienvidu robežu līdz pagasta zemesceļam Čornaja-Melndukstigals
+Uz rietumiem pa zemes īpašuma (kadastra Nr.78460070230) dienvidu robežu līdz pašvaldības ceļam Čornaja-Melndukstigals
 17.12.
 12-13
-Uz dienvidrietumiem pa pagasta zemesceļa Čornaja-Melndukstigals dienvidaustrumu malu līdz zemes īpašuma (kadastra Nr.78460070177) austrumu stūrim
+Uz dienvidrietumiem pa pašvaldības ceļa Čornaja-Melndukstigals dienvidaustrumu malu līdz zemes īpašuma (kadastra Nr.78460070177) austrumu stūrim
 17.13.
 13-14
 Uz ziemeļrietumiem pa zemes īpašuma (kadastra Nr.78460070177) ziemeļu robežu līdz zemes īpašuma (kadastra Nr.78460070064) austrumu robežai
@@ -143,16 +143,16 @@ Uz ziemeļrietumiem pa zemes īpašuma (kadastra Nr.78460070005) dienvidrietumu 
 Uz ziemeļaustrumiem pa zemes īpašuma (kadastra Nr.78460070086) dienvidaustrumu robežu līdz zemes īpašuma (kadastra Nr.78460070085) dienvidu stūrim
 17.20.
 20-21
-Uz ziemeļaustrumiem pa Čornajas pagasta zemes īpašuma robežu līdz zemes īpašuma (kadastra Nr.78460070085) robežai
+Uz ziemeļaustrumiem pa pašvaldības zemes īpašuma robežu līdz zemes īpašuma (kadastra Nr.78460070085) robežai
 17.21.
 21-22
 Uz ziemeļaustrumiem pa zemes īpašuma (kadastra Nr.78460070085) dienvidaustrumu robežu līdz zemes īpašuma (kadastra Nr.78460070087) dienvidaustrumu robežai
 17.22.
 22-23
-Uz ziemeļaustrumiem pa zemes īpašuma (kadastra Nr.78460070087) dienvidaustrumu robežu līdz Čornajas pagasta zemesceļam Čornaja-Žogoti
+Uz ziemeļaustrumiem pa zemes īpašuma (kadastra Nr.78460070087) dienvidaustrumu robežu līdz pašvaldības ceļam Čornaja-Žogoti
 17.23.
 23-24
-Uz ziemeļrietumiem pa Čornajas pagasta zemes ceļa Čornaja-Žogoti dienvidrietumu malu līdz zemes īpašuma (kadastra Nr.78460070051) rietumu stūrim
+Uz ziemeļrietumiem pa pašvaldības ceļa Čornaja-Žogoti dienvidrietumu malu līdz zemes īpašuma (kadastra Nr.78460070051) rietumu stūrim
 17.24.
 24-25
 Uz ziemeļaustrumiem un austrumiem pa zemes īpašuma (kadastra Nr.78460070051) ziemeļu robežu līdz zemes īpašuma (kadastra Nr.78460070176) ziemeļu robežai
@@ -266,22 +266,22 @@ Nr.
 p.k.
 Robežposmu numurs pēc plāna
 Pa kādiem plāna situācijas elementiem robeža noteikta
-Rēzeknes rajons. Lūznavas pagasts
+Rēzeknes novads. Lūznavas pagasts
 19.1.
 1-2
-No 2.šķiras valsts ceļa Vērtūkšņa-Lūznava-Ismeri un Rāznas ielas krustojuma Lūznavā uz ziemeļaustrumiem pa 2.šķiras valsts ceļa Vērtūkšņa-Lūznava-Ismeri ziemeļrietumu malu līdz novadgrāvim
+No vietējā autoceļa Vērtūkšņa-Lūznava-Ismeri un Rāznas ielas krustojuma Lūznavā uz ziemeļaustrumiem pa vietējā autoceļa Vērtūkšņa-Lūznava-Ismeri ziemeļrietumu malu līdz novadgrāvim
 19.2.
 2-3
 Uz dienvidaustrumiem pa novadgrāvi līdz zemesceļam Harčenki-Lūznava
 19.3.
 3-4
-Uz dienvidrietumiem un rietumiem pa zemesceļa Harčenki-Lūznava dienvidu malu līdz 2.šķiras valsts ceļa Lūznava-Zosna un zemes īpašuma (kadastra Nr.78680020055) robežas krustpunktam
+Uz dienvidrietumiem un rietumiem pa zemesceļa Harčenki-Lūznava dienvidu malu līdz vietējā autoceļa Lūznava-Zosna un zemes īpašuma (kadastra Nr.78680020055) robežas krustpunktam
 19.4.
 4-5
-Uz dienvidaustrumiem, dienvidiem un rietumiem pa zemes īpašuma (kadastra Nr.78680020055) austrumu robežu un zemes īpašumu (kadastra Nr.78680020362; kadastra Nr.78680020098) austrumu un dienvidu robežu līdz 2.šķiras valsts ceļam Lūznava-Zosna
+Uz dienvidaustrumiem, dienvidiem un rietumiem pa zemes īpašuma (kadastra Nr.78680020055) austrumu robežu un zemes īpašumu (kadastra Nr.78680020362; kadastra Nr.78680020098) austrumu un dienvidu robežu līdz vietējam autoceļam Lūznava-Zosna
 19.5.
 5-6
-Uz dienvidiem pa 2.šķiras valsts ceļa Lūznava-Zosna austrumu malu līdz novadgrāvim
+Uz dienvidiem pa vietējā autoceļa Lūznava-Zosna austrumu malu līdz novadgrāvim
 19.6.
 6-7
 Uz rietumiem un ziemeļrietumiem pa novadgrāvi un pa zemes īpašumu (kadastra Nr.78680040222; kadastra Nr.78680020333; kadastra Nr.78680020248; kadastra Nr.78680020304; kadastra Nr.78680020276; kadastra Nr.78680020325; kadastra Nr.78680020402) dienvidu un dienvidaustrumu robežu līdz Vertušankas upītei un zemes īpašuma (kadastra Nr.78680020402) rietumu stūrim
@@ -296,7 +296,7 @@ Uz austrumiem un ziemeļiem pa zemes īpašumu (kadastra Nr.78680020172; kadastr
 Uz ziemeļiem no Bērzu alejas Lūznavā pa zemesceļu un zemes īpašumu (kadastra Nr.78680020261; kadastra Nr.78680020022) rietumu robežu līdz ceļam Vērtūkšņa-Lūznava
 19.10.
 10-1
-Uz austrumiem pa 2.šķiras valsts ceļa Vērtūkšņa-Lūznava ziemeļu malu līdz sākumpunktam
+Uz austrumiem pa vietējā autoceļa Vērtūkšņa-Lūznava ziemeļu malu līdz sākumpunktam
 20. Lūznavas neitrālās zonas robežpunktu koordinātas
 Nr.p.k.
 Robežpunkts
@@ -346,16 +346,16 @@ Y koordināta
 Nr. p.k.
 Robežposmu numurs pēc plāna
 Pa kādiem plāna situācijas elementiem robeža noteikta
-Rēzeknes rajons. Lūznavas pagasts
+Rēzeknes novads. Lūznavas pagasts
 21.1.
 1-2
 No Zosnas ezera rietumu krasta un zemes īpašuma (kadastra Nr.78680040012) robežas krustpunkta uz dienvidiem pa Zosnas ezera rietumu krastu līdz zemes īpašuma (kadastra Nr.78680040129) robežai
 21.2.
 2-3
-Uz dienvidiem un dienvidrietumiem pa zemes īpašuma (kadastra Nr.78680040129) dienvidaustrumu un dienvidu robežu līdz 2.šķiras valsts ceļam Veczosna-Lūznava
+Uz dienvidiem un dienvidrietumiem pa zemes īpašuma (kadastra Nr.78680040129) dienvidaustrumu un dienvidu robežu līdz vietējam autoceļam Veczosna-Lūznava
 21.3.
 3-4
-Uz ziemeļrietumiem pa 2.šķiras valsts ceļa Veczosna-Lūznava dienvidrietumu malu līdz zemesceļam Veczosna-Rutki
+Uz ziemeļrietumiem pa vietējā autoceļa Veczosna-Lūznava dienvidrietumu malu līdz zemesceļam Veczosna-Rutki
 21.4.
 4-5
 Uz ziemeļiem pa ceļa Veczosna-Rutki rietumu malu līdz zemes īpašuma (kadastra Nr.78680040179) ziemeļrietumu stūrim
@@ -399,7 +399,7 @@ Nr.
 p.k.
 Robežposmu numurs pēc plāna
 Pa kādiem plāna situācijas elementiem robeža noteikta
-Rēzeknes rajons. Lūznavas pagasts
+Rēzeknes novads. Lūznavas pagasts
 23.1.
 1-2
 No ceļa Zosna-Višķeri un zemes īpašuma (kadastra Nr.78680060256) ziemeļu robežas krustpunkta uz austrumiem pa zemes īpašuma (kadastra Nr.78680060256) ziemeļu robežu līdz Rāznas ezera krastam
@@ -528,22 +528,22 @@ Y koordināta
 Nr. p.k.
 Robežposmu numurs pēc plāna
 Pa kādiem plāna situācijas elementiem robeža noteikta
-Rēzeknes rajons. Mākoņkalna pagasts
+Rēzeknes novads. Mākoņkalna pagasts
 25.1.
 1-2
-No Rāznas ezera krasta un zemes īpašuma (kadastra Nr.78720030039) austrumu robežas krustpunkta uz dienvidiem pa zemes īpašuma (kadastra Nr.78720030039) austrumu robežu līdz 1.šķiras valsts autoceļam P-56 Malta-Zosna-Ļipuški-Kaunata
+No Rāznas ezera krasta un zemes īpašuma (kadastra Nr.78720030039) austrumu robežas krustpunkta uz dienvidiem pa zemes īpašuma (kadastra Nr.78720030039) austrumu robežu līdz reģionālajam autoceļam P-56 Malta-Zosna-Ļipuški-Kaunata
 25.2.
 2-3
-Uz rietumiem pa 1.šķiras valsts autoceļa P-56 Malta-Zosna-Ļipuški-Kaunata dienvidu malu līdz zemes īpašuma (kadastra Nr.78720030045) austrumu robežai
+Uz rietumiem pa reģionālā autoceļa P-56 Malta-Zosna-Ļipuški-Kaunata dienvidu malu līdz zemes īpašuma (kadastra Nr.78720030045) austrumu robežai
 25.3.
 3-4
 Uz dienvidiem un rietumiem pa zemes īpašuma (kadastra Nr.78720030045) robežu līdz zemes īpašuma (kadastra Nr.787200300675) dienvidu robežai
 25.4.
 4-5
-Uz rietumiem un ziemeļiem pa zemes īpašuma (kadastra Nr.787200300675) dienvidu robežu līdz pagasta koplietošanas zemesceļam Gineviči- Rabskova
+Uz rietumiem un ziemeļiem pa zemes īpašuma (kadastra Nr.787200300675) dienvidu robežu līdz pašvaldības ceļam Gineviči- Rabskova
 25.5.
 5-6
-Uz rietumiem un ziemeļrietumiem pa pagasta koplietošanas zemesceļa Gineviči-Rabskova dienvidu malu līdz Mākoņkalna un Lūznavas pagasta robežai
+Uz rietumiem un ziemeļrietumiem pa pašvaldības ceļa Gineviči-Rabskova dienvidu malu līdz Mākoņkalna un Lūznavas pagasta robežai
 25.6.
 6-7
 Uz ziemeļiem pa Mākoņkalna un Lūznavas pagasta robežu līdz Rāznas ezera krastam
@@ -587,19 +587,19 @@ Y koordināta
 Nr. p.k.
 Robežposmu numurs pēc plāna
 Pa kādiem plāna situācijas elementiem robeža noteikta
-Rēzeknes rajons. Mākoņkalna pagasts
+Rēzeknes novads. Mākoņkalna pagasts
 27.1.
 1-2
-No zemes īpašuma (kadastra Nr.78720030106) austrumu robežas un 1.šķiras valsts autoceļa P-56 Malta-Zosna-Ļipuški-Kaunata krustpunkta uz dienvidiem un dienvidrietumiem pa zemes īpašuma (kadastra Nr.78720030106) austrumu robežu līdz zemes īpašuma (kadastra Nr.78720030052) ziemeļaustrumu robežai
+No zemes īpašuma (kadastra Nr.78720030106) austrumu robežas un reģionālā autoceļa P-56 Malta-Zosna-Ļipuški-Kaunata krustpunkta uz dienvidiem un dienvidrietumiem pa zemes īpašuma (kadastra Nr.78720030106) austrumu robežu līdz zemes īpašuma (kadastra Nr.78720030052) ziemeļaustrumu robežai
 27.2.
 2-3
-Uz ziemeļrietumiem pa zemes īpašuma (kadastra Nr.78720030052) ziemeļaustrumu robežu līdz pagasta koplietošanas zemesceļam Gaļdeņi-Bereznīki
+Uz ziemeļrietumiem pa zemes īpašuma (kadastra Nr.78720030052) ziemeļaustrumu robežu līdz pašvaldības ceļam Gaļdeņi-Bereznīki
 27.3.
 3-4
-Uz ziemeļiem pa pagasta koplietošanas zemesceļa Gaļdeņi-Bereznīki austrumu malu līdz 1.šķiras valsts autoceļam P-56 Malta-Zosna-Ļipuški-Kaunata
+Uz ziemeļiem pa pašvaldības ceļa Gaļdeņi-Bereznīki austrumu malu līdz reģionālajam autoceļam P-56 Malta-Zosna-Ļipuški-Kaunata
 27.4.
 4-1
-Uz dienvidaustrumiem pa 1.šķiras valsts autoceļa P-56 Malta-Zosna-Ļipuški-Kaunata dienvidrietumu malu līdz sākumpunktam
+Uz dienvidaustrumiem pa reģionālā autoceļa P-56 Malta-Zosna-Ļipuški-Kaunata dienvidrietumu malu līdz sākumpunktam
 28. Bereznīku neitrālās zonas robežpunktu koordinātas
 Nr.p.k.
 Robežpunkts
@@ -626,22 +626,22 @@ Nr.
 p.k.
 Robežposmu numurs pēc plāna
 Pa kādiem plāna situācijas elementiem robeža noteikta
-Rēzeknes rajons. Mākoņkalna pagasts
+Rēzeknes novads. Mākoņkalna pagasts
 29.1.
 1-2
 No Rāznas ezera dienvidrietumu krasta un zemes īpašuma (kadastra Nr.78720080354) dienvidu robežas krustpunkta uz dienvidaustrumiem pa Rāznas ezera krastu līdz zemes īpašuma (kadastra Nr.78720090088) austrumu robežai
 29.2.
 2-3
-Uz dienvidiem pa zemes īpašuma (kadastra Nr.78720090088) austrumu robežu līdz 1.šķiras valsts autoceļam P-56 Malta-Zosna-Ļipuški-Kaunata
+Uz dienvidiem pa zemes īpašuma (kadastra Nr.78720090088) austrumu robežu līdz reģionālajam autoceļam P-56 Malta-Zosna-Ļipuški-Kaunata
 29.3.
 3-4
-Uz dienvidrietumiem pa 1.šķiras valsts autoceļa P-56 Malta-Zosna-Ļipuški-Kaunata dienvidaustrumu malu līdz zemes īpašuma (kadastra Nr.78720090007) austrumu robežai
+Uz dienvidrietumiem pa reģionālā autoceļa P-56 Malta-Zosna-Ļipuški-Kaunata dienvidaustrumu malu līdz zemes īpašuma (kadastra Nr.78720090007) austrumu robežai
 29.4.
 4-5
-Uz dienvidiem un rietumiem pa zemes īpašuma (kadastra Nr.78720090007) robežu līdz 2.šķiras valsts autoceļam Andzeļi-Ļipuški-Malukšta
+Uz dienvidiem un rietumiem pa zemes īpašuma (kadastra Nr.78720090007) robežu līdz vietējam autoceļam Andzeļi-Ļipuški-Malukšta
 29.5.
 5-6
-Uz dienvidiem pa 2.šķiras valsts autoceļa Andzeļi- Ļipuški-Malukšta austrumu malu līdz zemes īpašuma (kadastra Nr.78720090005) dienvidaustrumu robežai
+Uz dienvidiem pa vietējā autoceļa Andzeļi- Ļipuški-Malukšta austrumu malu līdz zemes īpašuma (kadastra Nr.78720090005) dienvidaustrumu robežai
 29.6.
 6-7
 Uz dienvidrietumiem pa zemes īpašuma (kadastra Nr.78720090005) dienvidaustrumu robežu līdz zemes īpašuma (kadastra Nr.78720090077) dienvidaustrumu robežai
@@ -653,10 +653,10 @@ Uz dienvidrietumiem pa zemes īpašuma (kadastra Nr.78720090077) dienvidaustrumu
 Uz dienvidrietumiem pa zemes īpašuma (kadastra Nr.78720080126) dienvidaustrumu robežu līdz zemes īpašuma (kadastra Nr.78720080001) austrumu robežai
 29.9.
 9-10
-Uz dienvidiem un dienvidrietumiem pa zemes īpašuma (kadastra Nr.78720080001) austrumu robežu līdz pagasta zemesceļam Malukšta-Škrjabi
+Uz dienvidiem un dienvidrietumiem pa zemes īpašuma (kadastra Nr.78720080001) austrumu robežu līdz pašvaldības ceļam Malukšta-Škrjabi
 29.10.
 10-11
-Uz ziemeļrietumiem pa pagasta zemesceļa Malukšta-Škrjabi dienvidrietumu malu līdz zemes īpašuma (kadastra Nr.78720080043) austrumu robežai
+Uz ziemeļrietumiem pa pašvaldības ceļa Malukšta-Škrjabi dienvidrietumu malu līdz zemes īpašuma (kadastra Nr.78720080043) austrumu robežai
 29.11.
 11-12
 Uz dienvidrietumiem, rietumiem un ziemeļrietumiem pa zemes īpašuma (kadastra Nr.78720080043) robežu līdz zemes īpašuma (kadastra Nr.78720080097) dienvidu robežai
@@ -674,10 +674,10 @@ Uz rietumiem pa zemes īpašuma (kadastra Nr.78720080027) ziemeļu robežu līdz
 Uz rietumiem pa zemes īpašuma (kadastra Nr.78720080107) ziemeļu robežu līdz zemes īpašuma (kadastra Nr.78720080109) ziemeļu robežai
 29.16.
 16-17
-Uz ziemeļiem pa zemes īpašuma (kadastra Nr.78720080109) robežu līdz 1.šķiras valsts autoceļam P-56 Malta-Zosna-Ļipuški-Kaunata
+Uz ziemeļiem pa zemes īpašuma (kadastra Nr.78720080109) robežu līdz reģionālajam autoceļam P-56 Malta-Zosna-Ļipuški-Kaunata
 29.17.
 17-18
-Uz ziemeļrietumiem pa 1.šķiras valsts autoceļa P-56 Malta-Zosna-Ļipuški-Kaunata dienvidrietumu malu līdz zemes īpašuma (kadastra Nr.78720080358) austrumu robežai
+Uz ziemeļrietumiem pa reģionālā autoceļa P-56 Malta-Zosna-Ļipuški-Kaunata dienvidrietumu malu līdz zemes īpašuma (kadastra Nr.78720080358) austrumu robežai
 29.18.
 18-19
 Uz dienvidiem pa zemes īpašuma (kadastra Nr.78720080358) austrumu robežu līdz zemes īpašuma (kadastra Nr.78720080037) austrumu robežai
@@ -686,16 +686,16 @@ Uz dienvidiem pa zemes īpašuma (kadastra Nr.78720080358) austrumu robežu līd
 Uz dienvidiem pa zemes īpašuma (kadastra Nr.78720080037) austrumu robežu, uz rietumiem pa zemes īpašuma (kadastra Nr.78720080037) dienvidu robežu un uz ziemeļiem pa zemes īpašuma (kadastra Nr.78720080037) rietumu robežu līdz zemes īpašuma (kadastra Nr.78720080021) dienvidrietumu robežai
 29.20.
 20-21
-Uz ziemeļrietumiem pa zemes īpašuma (kadastra Nr.78720080021) dienvidrietumu robežu līdz pagasta zemesceļam Ļipuški-Lutiški-Ļipuški
+Uz ziemeļrietumiem pa zemes īpašuma (kadastra Nr.78720080021) dienvidrietumu robežu līdz pašvaldības ceļam Ļipuški-Lutiški-Ļipuški
 29.21.
 21-22
-Uz rietumiem un ziemeļiem pa pagasta zemesceļa Ļipuški-Lutiški-Ļipuški dienvidu un rietumu malu līdz 2.šķiras valsts autoceļam Ļipuški-Andrupene
+Uz rietumiem un ziemeļiem pa pašvaldības ceļa Ļipuški-Lutiški-Ļipuški dienvidu un rietumu malu līdz vietējam autoceļam Ļipuški-Andrupene
 29.22.
 22-23
-Uz ziemeļiem pa 2.šķiras valsts autoceļa Ļipuški- Andrupene austrumu malu līdz pagasta zemesceļam Ļipuški-Dvarči
+Uz ziemeļiem pa vietējā autoceļa Ļipuški- Andrupene austrumu malu līdz pašvaldības ceļam Ļipuški-Dvarči
 29.23.
 23-24
-Uz rietumiem pa pagasta zemesceļa Ļipuški- Dvarči dienvidu malu līdz zemes īpašuma (kadastra Nr.78720080048) rietumu robežai
+Uz rietumiem pa pašvaldības ceļa Ļipuški- Dvarči dienvidu malu līdz zemes īpašuma (kadastra Nr.78720080048) rietumu robežai
 29.24.
 24-25
 Uz ziemeļiem pa zemes īpašuma (kadastra Nr.78720080048) rietumu robežu līdz zemes īpašuma (kadastra Nr.78720080012) rietumu stūrim
@@ -832,14 +832,14 @@ Y koordināta
 Nr. p.k.
 Robežposmu numurs pēc plāna
 Pa kādiem plāna situācijas elementiem robeža noteikta
-Rēzeknes rajons. Mākoņkalna pagasts
+Rēzeknes novads. Mākoņkalna pagasts
 31.1.
 1-2
-No 2.šķiras valsts autoceļa Andzeļi-Ruduški-Malukšta un zemes īpašuma (kadastra Nr.78720090070) ziemeļrietumu robežas krustpunkta uz dienvidrietumiem un dienvidaustrumiem pa zemes īpašuma (kadastra Nr.78720090070) rietumu robežu līdz 2.šķiras valsts autoceļam Andzeļi-Ruduški-Malukšta
+No vietējā autoceļa Andzeļi-Ruduški-Malukšta un zemes īpašuma (kadastra Nr.78720090070) ziemeļrietumu robežas krustpunkta uz dienvidrietumiem un dienvidaustrumiem pa zemes īpašuma (kadastra Nr.78720090070) rietumu robežu līdz vietējam autoceļam Andzeļi-Ruduški-Malukšta
 31.2.
 2-1
 Uz ziemeļiem no zemes īpašuma (kadastra
-Nr.78720090070) dienvidrietumu robežas un 2.šķiras valsts autoceļa Andzeļi-Ruduški-Malukšta krustpunkta pa 2.šķiras valsts autoceļa Andzeļi-Ruduški-Malukšta rietumu malu līdz sākumpunktam
+Nr.78720090070) dienvidrietumu robežas un vietējā autoceļa Andzeļi-Ruduški-Malukšta krustpunkta pa vietējā autoceļa Andzeļi-Ruduški-Malukšta rietumu malu līdz sākumpunktam
 32. Zelenpoles neitrālās zonas robežpunktu koordinātas
 Nr.p.k.
 Robežpunkts
@@ -857,7 +857,7 @@ Y koordināta
 Nr. p.k.
 Robežposmu numurs pēc plāna
 Pa kādiem plāna situācijas elementiem robeža noteikta
-Rēzeknes rajons. Kaunatas pagasts
+Rēzeknes novads. Kaunatas pagasts
 33.1.
 1-2
 No ceļa Rēzekne-Kaunata un zemes īpašuma (kadastra Nr.78620050150) rietumu robežas krustpunkta uz ziemeļiem pa zemes īpašuma (kadastra Nr.78620050150) rietumu robežu un austrumiem pa novadgrāvi līdz zemes īpašuma (kadastra Nr.78620050151) ziemeļrietumu stūrim
@@ -884,10 +884,10 @@ Uz ziemeļiem pa zemes īpašuma (kadastra Nr.78620050154) rietumu robežu līdz
 Uz austrumiem un dienvidiem pa Partovas strauta kreiso krastu līdz zemes īpašuma (kadastra Nr.78620050024) ziemeļu robežai
 33.9.
 9-10
-Uz rietumiem pa zemes īpašuma (kadastra Nr.78620050024) ziemeļu robežu līdz pagasta zemesceļam Kaunata-Katkovski
+Uz rietumiem pa zemes īpašuma (kadastra Nr.78620050024) ziemeļu robežu līdz pašvaldības ceļam Kaunata-Katkovski
 33.10.
 10-11
-Uz dienvidiem un dienvidaustrumiem pa pagasta zemesceļu Kaunata-Katkovski līdz zemes īpašuma (kadastra Nr.78620050023) austrumu robežai
+Uz dienvidiem un dienvidaustrumiem pa pašvaldības ceļu Kaunata-Katkovski līdz zemes īpašuma (kadastra Nr.78620050023) austrumu robežai
 33.11.
 11-12
 Uz dienvidiem un rietumiem pa zemes īpašuma (kadastra Nr.78620050023) robežu līdz zemes īpašuma (kadastra Nr.78620050141) austrumu robežai
@@ -896,7 +896,7 @@ Uz dienvidiem un rietumiem pa zemes īpašuma (kadastra Nr.78620050023) robežu 
 Uz ziemeļiem, rietumiem un dienvidrietumiem pa zemes īpašuma (kadastra Nr.78620050141) austrumu un ziemeļu robežu līdz zemes īpašuma (kadastra Nr.78620050301) dienvidu robežai
 33.13.
 13-14
-Uz rietumiem pa zemes īpašuma (kadastra Nr.78620050301) dienvidu robežu līdz pagasta zemesceļam Katkovski-Kaunata
+Uz rietumiem pa zemes īpašuma (kadastra Nr.78620050301) dienvidu robežu līdz pašvaldības ceļam Katkovski-Kaunata
 33.14.
 14-15
 Uz dienvidiem un rietumiem pa ceļu Katkovski- Kaunata un zemes īpašuma (kadastra Nr.78620050133) ziemeļu robežu līdz zemes īpašuma (kadastra Nr.78620050209) austrumu robežai
@@ -917,10 +917,10 @@ Uz ziemeļrietumiem un rietumiem pa zemes īpašuma (kadastra Nr.78620050027) ro
 Uz ziemeļiem pa Kaunatas ezera austrumu krastu līdz Rēzeknes upes iztekai
 33.20.
 20-21
-Uz ziemeļiem pa Rēzeknes upi līdz 2.šķiras valsts ceļam Rēzekne-Kaunata
+Uz ziemeļiem pa Rēzeknes upi līdz vietējam autoceļam Rēzekne-Kaunata
 33.21.
 21-1
-Uz austrumiem pa 2.šķiras valsts ceļu Rēzekne-Kaunata līdz sākumpunktam
+Uz austrumiem pa vietējo autoceļu Rēzekne-Kaunata līdz sākumpunktam
 34. Kaunatas neitrālās zonas robežpunktu koordinātas
 Nr.p.k.
 Robežpunkts
