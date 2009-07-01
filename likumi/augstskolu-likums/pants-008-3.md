@@ -4,5 +4,5 @@
 (3) Filiāles reģistrāciju reģistrā nodrošina augstskola, kura to atvērusi. Augstskolas pilnvarota persona divu mēnešu laikā no dienas, kad pieņemts lēmums par filiāles atvēršanu, iesniedz reģistram iesniegumu par augstskolas filiāles reģistrāciju. Iesniegumam par filiāles reģistrāciju pievieno augstskolas satversmē noteiktās institūcijas apstiprinātu filiāles nolikumu.
 (4) Dokumenti, uz kuru pamata izdarāmi jauni ieraksti vai grozījumi reģistrā, iesniedzami reģistram 10 dienu laikā no attiecīgā lēmuma pieņemšanas dienas, ja šajā likumā nav noteikts citādi.
 (5) Reģistram iesniedzamie dokumenti, uz kuru pamata izdarīti ieraksti reģistrā vai to grozījumi, ir derīgi, ja tie izsniegti ne agrāk kā mēnesi pirms to iesniegšanas reģistram. Šis noteikums neattiecas uz tiesas nolēmumiem.
-(6) Izglītības valsts inspekcijai ir tiesības pārbaudīt reģistram sniegto ziņu atbilstību īstenībai.
+(6) Izglītības kvalitātes valsts dienestam ir tiesības pārbaudīt reģistram sniegto ziņu atbilstību īstenībai.
 (7) Reģistram iesniegtie dokumenti glabājas attiecīgās augstskolas vai filiāles reģistrācijas lietā, ja uz to pamata izdarīts ieraksts reģistrā.
