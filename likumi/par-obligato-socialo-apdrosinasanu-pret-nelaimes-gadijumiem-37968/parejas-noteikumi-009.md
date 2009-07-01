@@ -1,0 +1,1 @@
+9. Šo pārejas noteikumu 4.punktā noteikto kaitējuma atlīdzību piešķir personām, kurām VDEĀK noteiktais darbspēju zaudējums atbilst šā likuma 20.panta ceturtajā daļā noteiktajam zaudējumam. Ja minētajām personām piešķirts bezdarbnieka pabalsts, kaitējuma atlīdzību izmaksā, ievērojot šā likuma 14.panta septītajā daļā noteikto.

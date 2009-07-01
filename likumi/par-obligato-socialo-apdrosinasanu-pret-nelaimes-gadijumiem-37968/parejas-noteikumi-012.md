@@ -1,0 +1,1 @@
+12. Personai, kurai VDEĀK ir noteikusi darbspēju zaudējumu robežās no 10 līdz 24 procentiem, līdz 2009.gada 31.decembrim piešķirto atlīdzību par darbspēju zaudējumu vai kaitējuma atlīdzību turpina izmaksāt lēmumā par pakalpojuma piešķiršanu, pārrēķināšanu vai izmaksas termiņa pagarināšanu noteikto laiku.

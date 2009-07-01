@@ -1,0 +1,2 @@
+21.¹ pants. Apdrošināšanas atlīdzības izmaksāšana
+Apdrošināšanas atlīdzību Valsts sociālās apdrošināšanas aģentūra pārskaita uz atlīdzības saņēmēja iesniegumā norādīto Latvijas Republikas kredītiestādes vai pasta norēķinu sistēmas (PNS) kontu. Atlīdzību par darbspēju zaudējumu un atlīdzību par apgādnieka zaudējumu pēc atlīdzības saņēmēja pieprasījuma piegādā viņa dzīvesvietā par maksu, ieturot no atlīdzības tās piegādes izdevumus atbilstoši gadskārtējā valsts budžeta likumā noteiktajai maksai par pensijas, pabalsta vai atlīdzības piegādi.

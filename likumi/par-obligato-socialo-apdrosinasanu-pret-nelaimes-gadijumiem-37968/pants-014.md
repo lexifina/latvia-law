@@ -3,7 +3,7 @@
 (2) Apdrošinātajai personai paredzētas šādas naudas izmaksas:
 1) slimības pabalsts;
 2) atlīdzība par darbspēju zaudējumu;
-3) vienreizējs pabalsts, ar ko var aizstāt atlīdzību par darbspēju zaudējumu, ja VDEĀK noteikusi apdrošinātajai personai nepārejošu darbspēju zaudējumu 10 līdz 24 procentu robežās;
+3) (izslēgts ar 16.06.2009. likumu);
 4) papildu izdevumu kompensācija.
 (3) Apdrošinātajai personai paredzēti šādi pakalpojumi:
 1) ārstēšana, aprūpe un medicīniskā rehabilitācija;

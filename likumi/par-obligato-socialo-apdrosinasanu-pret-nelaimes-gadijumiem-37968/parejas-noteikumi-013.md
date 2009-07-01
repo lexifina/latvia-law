@@ -1,0 +1,1 @@
+13. Atlīdzības par darbspēju zaudējumu saņēmējam, kuram līdz 2009.gada 30.jūnijam piešķirta izdienas pensija vai vecuma pensija, līdz minētajam datumam piešķirto atlīdzību par darbspēju zaudējumu turpina izmaksāt lēmumā par pakalpojuma piešķiršanu, pārrēķināšanu vai izmaksas termiņa pagarināšanu noteikto laiku.
