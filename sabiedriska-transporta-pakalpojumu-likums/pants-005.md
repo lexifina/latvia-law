@@ -16,9 +16,9 @@ b) sadarboties ar līniju būvju īpašniekiem un infrastruktūras pārvaldītā
 4) racionāli apsaimniekot no valsts budžeta, pašvaldības budžeta un pašvaldības speciālā budžeta sabiedriskajam transportam iedalītos finanšu līdzekļus;
 5) nodrošināt savā administratīvajā teritorijā sabiedriskā transporta pieturvietu izbūvi un infrastruktūras uzturēšanu.
 (3) Rajona pašvaldības kompetencē ir:
-1) pārzināt maršrutu tīkla reģionālos vietējās nozīmes maršrutus un - pēc saskaņošanas ar attiecīgo pašvaldību - pilsētas nozīmes maršrutus rajona pilsētās un novados;
-2) organizēt sabiedriskā transporta pakalpojumus maršruta tīkla reģionālajos vietējās nozīmes maršrutos un - pēc saskaņošanas ar attiecīgām pašvaldībām - rajona pilsētas nozīmes maršrutos;
-3) iesniegt Autotransporta direkcijai lēmuma projektu par reģionālā vietējās nozīmes maršruta (maršrutu tīkla) izveidi;
+1) pārzināt maršrutu tīkla reģionālos vietējās nozīmes maršrutus, tai skaitā tos reģionālos vietējās nozīmes maršrutus, kas nodrošina pārvietošanos novadā ietilpstošo pilsētu teritorijās, atbilstoši valsts budžetā sabiedriskā transporta pakalpojumu nodrošināšanai paredzētajiem līdzekļiem pēc saskaņošanas ar attiecīgo pašvaldību un Autotransporta direkciju;
+2) organizēt sabiedriskā transporta pakalpojumus maršrutu tīkla reģionālajos vietējās nozīmes maršrutos, tai skaitā tajos reģionālajos vietējās nozīmes maršrutos, kas nodrošina pārvietošanos novadā ietilpstošo pilsētu teritorijās, atbilstoši valsts budžetā sabiedriskā transporta pakalpojumu nodrošināšanai paredzētajiem līdzekļiem pēc saskaņošanas ar attiecīgo pašvaldību un Autotransporta direkciju;
+3) iesniegt Autotransporta direkcijai saskaņošanai lēmuma projektu par reģionālā vietējās nozīmes maršruta (maršrutu tīkla) izveidi vai grozīšanu;
 4) ja Autotransporta direkcija nesaskaņo iesniegto lēmuma projektu - lemt par tā tālāku neskatīšanu, grozīšanu vai saskaņošanas atteikuma iesniegšanu izskatīšanai Satiksmes ministrijā;
 5) sniegt priekšlikumus Autotransporta direkcijai un republikas pilsētas pašvaldībai par sabiedriskā transporta pakalpojumu organizēšanu attiecīgi maršrutu tīkla reģionālajos starppilsētu vai pilsētas nozīmes maršrutos;
 6) racionāli apsaimniekot no valsts budžeta un pašvaldības budžeta sabiedriskajam transportam iedalītos finanšu līdzekļus.

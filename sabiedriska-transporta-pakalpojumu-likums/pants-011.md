@@ -1,7 +1,7 @@
 11.pants. Pārvadātāja zaudējumi
 (1) Ar sabiedriskā transporta pakalpojumu sniegšanu saistītos zaudējumus pārvadātājam kompensē:
 1) pilnā apmērā no valsts budžetā šim mērķim paredzētajiem līdzekļiem - reģionālo starppilsētu un reģionālo vietējās nozīmes maršrutu tīkla maršrutos;
-2) 35 procentu apmērā no valsts budžetā šim mērķim paredzētajiem līdzekļiem un 65 procentu apmērā no pašvaldību budžetos šim mērķim paredzētajiem līdzekļiem - pilsētas nozīmes maršrutu tīkla maršrutos;
+2) pilnā apmērā no pašvaldību budžetos šim mērķim paredzētajiem līdzekļiem - pilsētas nozīmes maršrutu tīkla maršrutos;
 3) pilnā apmērā no pašvaldību budžetos šim mērķim paredzētajiem līdzekļiem - pilsētas nozīmes maršrutu tīkla maršrutos, ja zaudējumi radušies sakarā ar pašvaldības noteikto tarifu ievērošanu.
 (2) Ministru kabinets nosaka kārtību, kādā:
 1) nosaka un aprēķina pārvadātāju zaudējumus, kā arī pārvadātājiem kompensē ar sabiedriskā transporta pakalpojumu sniegšanu saistītos zaudējumus un kontrolē šo līdzekļu izmantošanas tiesiskumu un pareizību;

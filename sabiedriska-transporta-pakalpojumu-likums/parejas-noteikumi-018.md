@@ -1,0 +1,1 @@
+18. Ar šā likuma 5.panta trešās daļas 1. un 2.punktā minētajiem reģionālajiem vietējās nozīmes maršrutiem, kas nodrošina pārvietošanos novadā ietilpstošo pilsētu teritorijās, līdz 2009.gada 31.decembrim saprot arī pilsētas nozīmes maršrutus.
