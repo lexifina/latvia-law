@@ -6,4 +6,4 @@
 4) jaunā nozarē;
 5) nozarē, kuras infrastruktūras attīstībai nepieciešami lieli kapitālieguldījumi;
 6) nozarē, kurā atbilstoši sabiedrības interesēm nepieciešams nodrošināt augstāku kvalitātes standartu.
-(2) Komercdarbības veikšanai publiska persona saskaņā ar likumu dibina komercsabiedrību.
+(2) Komercdarbības veikšanai publiska persona (publiskas personas) saskaņā ar likumu dibina kapitālsabiedrību.

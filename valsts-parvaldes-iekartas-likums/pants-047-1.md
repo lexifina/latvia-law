@@ -1,0 +1,4 @@
+47.¹ pants. Deleģēšanas līguma izbeigšanās sekas
+(1) Deleģēšanas līguma izbeigšanās gadījumā līdzēji nodrošina valsts pārvaldes uzdevuma izpildes nepārtrauktību.
+(2) Ja pilnvarotā persona, kas ir kapitālsabiedrība, kuras visas kapitāla daļas (akcijas) pieder vienai vai vairākām publiskām personām, tiek likvidēta, kapitālsabiedrības manta, tiesības un saistības (tai skaitā tiesības un pienākumi, kas izriet no darba tiesiskajām attiecībām un ir nepieciešami valsts pārvaldes uzdevuma turpmākai izpildei) tiek nodotas attiecīgās publiskās personas institūcijai, kura ir kapitālsabiedrības kapitāla daļu (akciju) turētājs, ja lēmumā par kapitālsabiedrības darbības izbeigšanu un likvidāciju nav noteikts citādi.
+(3) Kapitālsabiedrības likvidācija un deleģēto valsts pārvaldes uzdevumu nodošana tiešai vai pastarpinātai pārvaldes iestādei tiek īstenota gadskārtējā valsts vai pašvaldības budžeta plānošanas procesa ietvaros.

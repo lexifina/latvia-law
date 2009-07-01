@@ -1,0 +1,5 @@
+43.¹ pants. Pakalpojumu sniegšana, veicot valsts pārvaldes uzdevumus
+(1) Pakalpojumus, veicot valsts pārvaldes uzdevumus, privātpersona sniedz saimnieciskās darbības veidā par atlīdzību, kuru privātpersona izmanto savas darbības nodrošināšanai un attiecīgā valsts pārvaldes uzdevuma veikšanai, ja normatīvajos aktos nodokļu un nodevu jomā nav noteikts citādi.
+(2) Valsts pārvaldes uzdevuma ietvaros privātpersonu sniegto pakalpojumu maksas apmēra noteikšanas un apstiprināšanas kārtību, kā arī atbrīvojumus nosaka Ministru kabinets.
+(3) Valsts pārvaldes uzdevuma ietvaros pašvaldību pilnvaroto privātpersonu sniegto pakalpojumu maksas apmēra noteikšanas un apstiprināšanas kārtību, kā arī atbrīvojumus privātpersonām nosaka pašvaldības dome.
+(4) Valsts pārvaldes uzdevuma ietvaros šā panta trešajā daļā neminētu atvasinātu publisku personu pilnvaroto privātpersonu sniegto pakalpojumu maksas apmēra noteikšanas un apstiprināšanas kārtību, kā arī atbrīvojumus privātpersonām nosaka attiecīgās atvasinātās publiskās personas augstākā lēmējinstitūcija.
