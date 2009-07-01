@@ -3,7 +3,7 @@
 (2) Šā panta pirmajā daļā minētā persona pēc zemesgabala iekļaušanas Lauku zemes izpirkšanas reģistrā vai Pilsētas zemes izpirkšanas reģistrā ir tiesīga pirms zemes kadastrālās uzmērīšanas un zemes izpirkuma (pirkuma) līguma noslēgšanas veikt priekšapmaksu par visu izpērkamo (pērkamo) zemi privatizācijas sertifikātos atbilstoši zemes kadastrālajai vērtībai (turpmāk - priekšapmaksa). Priekšapmaksā neiekļauj mežaudzes vērtību.
 (3) Ja dienā, kad pieņemts lēmums par zemes piešķiršanu īpašumā par samaksu, tā zemesgabala kadastrālā vērtība, par kuru veikta priekšapmaksa, zemes kadastrālo vērtēšanu regulējošos normatīvajos aktos noteiktajā kārtībā ir mainījusies, samaksas apmēru lēmumā par zemes piešķiršanu īpašumā par samaksu nosaka pēc zemes kadastrālās vērtības, kas bija par pamatu priekšapmaksas aprēķināšanai.
 (4) Ja persona ir veikusi priekšapmaksu, bet šajā likumā noteiktajā termiņā nav noslēgusi līgumu ar valsts akciju sabiedrību "Latvijas Hipotēku un zemes banka", pārskaitītie privatizācijas sertifikāti tiek dzēsti saskaņā ar Ministru kabineta noteikumiem, kas izdoti, pamatojoties uz likumu "Par privatizācijas sertifikātiem".
-(5) Pēc tās personas rakstveida pieprasījuma, kurai ir izpirkuma (pirkuma) tiesības, attiecīgās pilsētas (novada) dome par pilsētas zemi vai Valsts zemes dienests par lauku apvidus zemi izsniedz izziņu, kurā norāda:
+(5) Pēc tās personas rakstveida pieprasījuma, kurai ir izpirkuma (pirkuma) tiesības, attiecīgās republikas pilsētas (novada) dome par pilsētas zemi vai Valsts zemes dienests par lauku apvidus zemi izsniedz izziņu, kurā norāda:
 1) ziņas par zemesgabalu, kura izpirkuma (pirkuma) tiesības ir personai;
 2) zemesgabala kadastrālo vērtību;
 3) konta numuru, uz kuru pārskaitāmi privatizācijas sertifikāti.
