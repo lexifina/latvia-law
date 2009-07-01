@@ -1,5 +1,5 @@
 17.pants. Bibliotēku finansēšana
-(1) Valsts bibliotēkas finanšu līdzekļus veido valsts budžeta dotācija no vispārējiem ieņēmumiem, ieņēmumi no sniegtajiem maksas pakalpojumiem un citi pašu ieņēmumi, ziedojumi, dāvinājumi un ārvalstu finanšu palīdzības līdzekļi. Pašvaldību bibliotēkas tiek finansētas ar Likumā par budžetu un finanšu vadību un likumā "Par pašvaldību budžetiem" noteiktajā kārtībā izdarītu apropriāciju no pašvaldību budžeta atbilstoši domes (padomes) apstiprinātajam finansējumam šim mērķim.
+(1) Valsts bibliotēkas finanšu līdzekļus veido valsts budžeta dotācija no vispārējiem ieņēmumiem, ieņēmumi no sniegtajiem maksas pakalpojumiem un citi pašu ieņēmumi, ziedojumi, dāvinājumi un ārvalstu finanšu palīdzības līdzekļi. Pašvaldību bibliotēkas tiek finansētas ar Likumā par budžetu un finanšu vadību un likumā "Par pašvaldību budžetiem" noteiktajā kārtībā izdarītu apropriāciju no pašvaldību budžeta atbilstoši domes apstiprinātajam finansējumam šim mērķim.
 (2) Valsts un pašvaldības finansē to īpašumā esošās bibliotēkas, nodrošinot līdzekļus:
 1) bibliotēku krājumu organizēšanai, papildināšanai, restaurācijai, konservācijai un cita veida saglabāšanai, kā arī to fiziskajai drošībai (apsardzei, aizsardzības, ugunsdrošības un citām iekārtām) atbilstoši Ministru kabineta noteikumiem par Nacionālo bibliotēku krājumu;
 2) bibliotēku ēku, telpu, iekārtu, tehniskā aprīkojuma uzturēšanai, jaunu informācijas tehnoloģiju ieviešanai un uzturēšanai;
@@ -19,7 +19,7 @@
 (5) Reģiona galvenās bibliotēkas finansējumu veido:
 1) dibinātāja finansu līdzekļi;
 2) valsts finansējums mērķdotāciju veidā;
-3) finansu līdzekļi, kurus noteiktu uzdevumu veikšanai saskaņā ar savstarpēju vienošanos piešķir attiecīgās administratīvās teritorijas bibliotēku dibinātāji.
+3) finanšu līdzekļi, kurus noteiktu uzdevumu veikšanai saskaņā ar savstarpēju vienošanos piešķir pašvaldības, kas pieņēmušas saskaņotu lēmumu par attiecīgās bibliotēkas izvirzīšanu reģiona galvenās bibliotēkas statusam.
 (6) Bibliotēku darbībai nepieciešamā finansējuma normatīvus nosaka Ministru kabinets.
 (7) Privātās bibliotēkas finansē atbilstoši to nolikumā (statūtos) noteiktajai kārtībai.
 (8) Bibliotēkas var saņemt arī valsts budžetā vai pašvaldību budžetos paredzētos finansu līdzekļus īpašu ar bibliotēku darbību, attīstību un zinātnisko pētniecību saistītu projektu un programmu realizēšanai.

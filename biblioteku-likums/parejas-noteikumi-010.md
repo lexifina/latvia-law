@@ -1,0 +1,1 @@
+10. Novadu domes un republikas pilsētas dome šā likuma 12.panta otrajā daļā noteiktajā kārtībā bibliotēku reģiona galvenās bibliotēkas statusam izvirza pēc tam, kad beidzies attiecīgās līdz 2009.gada 1.jūlijam akreditētās reģiona galvenās bibliotēkas akreditācijas termiņš.
