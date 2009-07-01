@@ -2,9 +2,9 @@
 Izglītības un zinātnes ministrija:
 1) īsteno vienotu valsts politiku un attīstības stratēģiju izglītībā;
 2) izstrādā normatīvo aktu projektus izglītībā;
-3) izveido un aktualizē izglītības iestāžu, izglītības programmu un pedagogu reģistrus;
-4) veic izglītības programmu licencēšanu;
-5) veic izglītības programmu un izglītības iestāžu akreditāciju Ministru kabineta noteiktajā kārtībā;
+3) (izslēgts ar 16.06.2009. likumu);
+4) (izslēgts ar 16.06.2009. likumu);
+5) (izslēgts ar 16.06.2009. likumu);
 6) organizē pedagogu izglītošanas un profesionālās meistarības pilnveides darbu, koordinē pētnieciski metodisko darbu;
 7) izstrādā valsts izglītības standartus;
 8) izstrādā priekšlikumus un noteiktā kārtībā iesniedz pieprasījumu valsts budžeta līdzekļu piešķiršanai izglītībai, zinātnei, sportam un jaunatnes lietām;
@@ -14,7 +14,7 @@ Izglītības un zinātnes ministrija:
 12) izstrādā izglītības iestāžu un izglītības atbalsta iestāžu paraugnolikumus;
 13) organizē valsts pasūtījumu izglītības pamatprogrammām atbilstošu mācību līdzekļu izstrādei un izdošanai;
 14) nosaka un koordinē pedagogu izglītības ieguves un profesionālās pilnveides kārtību;
-15) organizē pedagogu un izglītības iestāžu (izņemot augstskolas) vadītāju profesionālās kvalifikācijas vērtēšanu;
+15) (izslēgts ar 16.06.2009. likumu);
 16) nosaka valsts pārbaudījumu kārtību akreditētām izglītības programmām;
 17) organizē izglītības standartiem atbilstošu mācību grāmatu satura izstrādi;
 18) kontrolē valsts finansēto izglītības iestāžu mācību procesa rezultātus, izstrādā un īsteno pasākumus mācību procesa kvalitātes uzlabošanai;

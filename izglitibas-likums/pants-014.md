@@ -8,7 +8,7 @@ Ministru kabinets:
 6) apstiprina augstskolu (izņemot universitātes tipa) satversmes;
 7) dibina, reorganizē un likvidē valsts izglītības iestādes un valsts izglītības atbalsta iestādes pēc izglītības un zinātnes ministra vai citu ministru priekšlikuma;
 8) nosaka izglītības iestāžu reģistrācijas un akreditācijas kārtību;
-9) nosaka valsts vai pašvaldību dibināto pamatizglītības vai vidējās izglītības iestāžu vadītāju atestācijas kārtību;
+9) (izslēgts ar 16.06.2009. likumu);
 10) reglamentē augstskolu akreditācijas noteikumus un kārtību;
 11) nosaka izglītības programmu licencēšanas un akreditācijas kārtību;
 12) apstiprina pedagogu profesiju un amatu sarakstu;
@@ -25,4 +25,7 @@ Ministru kabinets:
 23) nosaka stipendiju saņemšanas kārtību un stipendiju minimālo apmēru augstākās izglītības programmās izglītojamajiem, kuri uzņemti konkursa kārtībā atbilstoši valsts finansēto vietu skaitam, un profesionālās izglītības programmās izglītojamajiem, kuri uzņemti atbilstoši valsts vai pašvaldību finansēto vietu skaitam;
 24) nosaka interešu izglītības programmu finansēšanas kārtību;
 25) reglamentē bērnu nometņu organizēšanas un darbības noteikumus;
-26) nosaka kārtību, kādā valsts finansē profesionālās ievirzes izglītības programmas, kuras īsteno pašvaldību izglītības iestādes.
+26) nosaka kārtību, kādā valsts finansē profesionālās ievirzes izglītības programmas, kuras īsteno pašvaldību izglītības iestādes;
+27) nosaka institūciju, kas kārto pedagogu un izglītības programmu reģistrus;
+28) nosaka institūciju, kas licencē izglītības programmas;
+29) nosaka institūciju, kas akreditē izglītības programmas un izglītības iestādes.
