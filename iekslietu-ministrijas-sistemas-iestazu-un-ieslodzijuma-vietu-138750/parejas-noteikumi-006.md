@@ -1,1 +1,0 @@
-6. Izdienā, kas dod amatpersonām tiesības uz šā likuma 37.panta sestajā daļā minēto pabalstu, izņemot amatpersonas, kuras ieņem amatu Valsts robežsardzē, ieskaita kopš 2006.gada 1.oktobra nepārtraukti nodienēto laiku.

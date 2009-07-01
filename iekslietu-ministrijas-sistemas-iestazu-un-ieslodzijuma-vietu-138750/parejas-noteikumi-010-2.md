@@ -1,0 +1,1 @@
+10.² 2009. un 2010.gadā amatpersonai atvaļinājumu bez dienesta atalgojuma un uzturdevas kompensācijas saglabāšanas uz laiku līdz 30 kalendāra dienām gadā var piešķirt arī pēc iestādes vadītāja iniciatīvas.
