@@ -1,2 +1,2 @@
-9. pants. (1) Parakstu vākšanas lapas noslēdz ar attiecīgās pilsētas, novada vai pagasta vēlēšanu komisijas zīmogu un priekšsēdētāja parakstu, kas apliecina, ka parakstu vākšana notikusi likumā paredzētajā kārtībā.
-(2) Pilsētu, novadu un pagastu vēlēšanu komisijas pēc Centrālās vēlēšanu komisijas noteiktā parakstu vākšanas termiņa izbeigšanās nosūta parakstu vākšanas lapas Centrālajai vēlēšanu komisijai tās noteiktajā kārtībā.
+9. pants. (1) Parakstu vākšanas lapas noslēdz ar attiecīgās republikas pilsētas vai novada vēlēšanu komisijas zīmogu un priekšsēdētāja parakstu, kas apliecina, ka parakstu vākšana notikusi likumā paredzētajā kārtībā.
+(2) Republikas pilsētu un novadu vēlēšanu komisijas pēc Centrālās vēlēšanu komisijas noteiktā parakstu vākšanas termiņa izbeigšanās nosūta parakstu vākšanas lapas Centrālajai vēlēšanu komisijai tās noteiktajā kārtībā.
