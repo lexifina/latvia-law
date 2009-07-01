@@ -1,1 +1,3 @@
-1776. Cietušais nevar prasīt atlīdzību, ja viņš pats varējis zaudējumu novērst, ievērojot pienācīgo rūpību (1646.p.). Izņēmums no šā noteikuma pielaižams tikai ļaunprātīga tiesību aizskāruma gadījumā.
+1776. Cietušajam zaudējumu novēršanai jāveic tādi pasākumi, kas attiecīgajos apstākļos ir saprātīgi.
+Tiesību aizskārējs var prasīt atlīdzināmo zaudējumu apmēra samazinājumu tādā apmērā, kādā cietušais, ievērojot pienācīgu rūpību (1646.p.), varēja zaudējumus novērst, izņemot gadījumu, kad tiesību aizskārums izdarīts ļaunā nolūkā.
+Cietušajam ir tiesības prasīt to zaudējumu atlīdzību, no kuriem tam nav bijis iespējams izvairīties, veicot šā panta pirmajā daļā minētos pasākumus.

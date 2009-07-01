@@ -1,1 +1,1 @@
-1668. Ja nokavēto izpildījumu pretinieks bez iebilduma pieņem, vai ja saistību atceļ to pārjaunojot, vai arī ja prasījuma tiesība izbeidzas ar noilgumu, tad arī ar nokavējumu nevar pamatot nekādas prasības.
+1668. Ja otra puse bez iebildumiem pieņem nokavētu izpildījumu, tad tas neatņem tiesības vēlāk izvirzīt citus ar nokavējumu saistītus prasījumus, ja vien viņa no šādiem blakus prasījumiem nav noteikti atteikusies.
