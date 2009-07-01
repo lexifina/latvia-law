@@ -1,4 +1,4 @@
-Ventspils rajons
+Ventspils novads
 Usmas pagasts
 I. Stingrā režīma zona
 1. Stingrā režīma funkcionālajā zonā ietilpst visa Moricsala un Lielā Alkšņu sala.
