@@ -9,7 +9,7 @@ Likumā ir lietoti šādi termini:
 6) izglītības dokuments - dokuments, kas apliecina personas iegūto izglītību atbilstoši noteiktai izglītības pakāpei, veidam un programmai vai šīs izglītības daļēju apgūšanu;
 7) izglītības iestāde - valsts, pašvaldību vai citu juridisko vai fizisko personu dibināta iestāde, kuras uzdevums ir izglītības programmu īstenošana, vai uzņēmums (uzņēmējsabiedrība), kuram izglītības programmu īstenošana ir viens no nodarbošanās veidiem;
 8) izglītības pakāpe - nobeigts izglītības posms, kas ietver organizētu un secīgi īstenotu izglītības ieguvi;
-9) izglītības pārvaldes iestāde - valsts vai pašvaldību iestāde, kas pilda izglītības pārvaldes funkcijas;
+9) izglītības pārvaldes iestāde - valsts vai pašvaldības iestāde vai pašvaldības struktūrvienība, kas pilda izglītības pārvaldes funkcijas;
 10) izglītības programmas akreditācija - tiesību iegūšana izglītības iestādei izsniegt valsts atzītu izglītības dokumentu par konkrētai izglītības programmai atbilstošas izglītības ieguvi. Akreditācijas gaitā vērtē attiecīgās izglītības programmas īstenošanas kvalitāti;
 11) izglītības programmas licencēšana - tiesību piešķiršana izglītības iestādei īstenot noteiktu izglītības programmu;
 12) izglītojamais - skolēns, audzēknis, students vai klausītājs, kas apgūst izglītības programmu izglītības iestādē vai pie privātpraksē strādājoša pedagoga;
