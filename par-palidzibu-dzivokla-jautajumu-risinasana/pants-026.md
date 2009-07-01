@@ -1,3 +1,3 @@
 26.pants. Vienreizējs pabalsts dzīvojamās telpas vai dzīvojamās mājas remontam
-(1) Kārtību, kādā pašvaldība šā likuma 13.panta otrajā daļā noteiktajā gadījumā piešķir vienreizēju pabalstu personas īrētās vai īpašumā esošās dzīvojamās telpas vai dzīvojamās mājas remontam, kā arī šā pabalsta apmēru pašvaldības dome (padome) nosaka saistošajos noteikumos.
+(1) Kārtību, kādā pašvaldība šā likuma 13.panta otrajā daļā noteiktajā gadījumā piešķir vienreizēju pabalstu personas īrētās vai īpašumā esošās dzīvojamās telpas vai dzīvojamās mājas remontam, kā arī šā pabalsta apmēru pašvaldības dome nosaka saistošajos noteikumos.
 (2) Pašvaldība saistošajos noteikumos var noteikt arī citas personu kategorijas, kuras nav minētas šā likuma 13.panta otrajā daļā un kurām sniedzama palīdzība, piešķirot vienreizēju pabalstu īrētās vai īpašumā esošās dzīvojamās telpas vai dzīvojamās mājas remontam.
