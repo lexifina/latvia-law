@@ -1,0 +1,1 @@
+24. Grozījumi 14.panta trešajā daļā, grozījums 18.panta piektajā daļā par daļas papildināšanu ar 6.punktu, grozījums par šā likuma 18.panta septītās daļas izslēgšanu un grozījums 20.panta ceturtajā daļā stājas spēkā 2010.gada 1.janvārī.

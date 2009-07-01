@@ -9,5 +9,5 @@
 (4) Nodrošinājumu iesniedz neatkarīgi no tā, vai minētās akcīzes preces tiks atbrīvotas no nodokļa, tiks izmantotas citu akcīzes preču ražošanā vai arī nodoklis netiks samaksāts citu iemeslu dēļ. Minētais nosacījums attiecas arī uz spirtu vai uz jebkuru citu alkoholisko dzērienu, kuru izmanto kā izejvielu alkoholisko dzērienu ražošanā.
 (5) Ja nodokļa maksātājs, kas saskaņā ar šā likuma 27.pantu atdod saņemtās, bet neizmantotās vai bojātās akcīzes nodokļa markas Valsts ieņēmumu dienestam, pirms akcīzes nodokļa marku saņemšanas ir iesniedzis vienreizēju nodrošinājumu, kas aprēķināts atbilstoši izsniegtajām akcīzes nodokļa markām, tad nodrošinājumu, kas atbilst nodokļa summai, kuru nosaka atbilstoši atdotajām akcīzes nodokļa markām, dzēš vai atdod iesniedzējam pēc šā likuma 27.panta astotajā un devītajā daļā minēto izdevumu segšanas.
 (6) Ministru kabinets:
-1) paredz nosacījumus, kuru izpildes gadījumā nodokļa maksātājam var samazināt nodrošinājuma lielumu;
+1) paredz gadījumus, kad nodrošinājums nav jāiesniedz, un nosacījumus, kuru izpildes gadījumā nodokļa maksātājam var samazināt nodrošinājuma lielumu;
 2) nosaka kārtību, kādā iesniedz, administrē, dzēš un atdod nodrošinājumus.

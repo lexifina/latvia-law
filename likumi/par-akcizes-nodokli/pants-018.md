@@ -19,7 +19,10 @@ a) naudas līdzekļi pārskaitīti no lauksaimniecības produkcijas ražotāja k
 b) izmantotas maksājuma kartes (kredītkartes, debetkartes un citas tamlīdzīgas kartes), kuras uzskata par maksāšanas līdzekli saskaņā ar Kredītiestāžu likumu un kuras pieder lauksaimniecības produkcijas ražotājam,
 c) izdarītas skaidras naudas iemaksas degvielas pārdevēja kontā kredītiestādē, ja norēķinus veic lauksaimniecības produkcijas ražotājs - fiziskā persona;
 4) dīzeļdegviela (gāzeļļa) un dīzeļdegviela (gāzeļļa), kurai saskaņā ar šā likuma nosacījumiem ir pievienota rapšu sēklu eļļa vai no rapšu sēklu eļļas iegūta biodīzeļdegviela, iegādāta konkrētajā kalendāra gadā, par kuru tiek pieprasīta nodokļa atmaksāšana;
-5) ja lauksaimniecības produkcijas ražotājam ir nodokļu, nodevu vai citu valsts noteikto obligāto maksājumu parādi, - atmaksājamā summa vispirms tiek novirzīta šo parādu segšanai.
+5) ja lauksaimniecības produkcijas ražotājam ir nodokļu, nodevu vai citu valsts noteikto obligāto maksājumu parādi, - atmaksājamā summa vispirms tiek novirzīta šo parādu segšanai;
+6) atmaksājamo summu aprēķina par:
+a) šā likuma 14.panta pirmās daļas 4.punktā un ceturtās daļas 1.punktā minēto produktu - pēc šā likuma 14.panta ceturtās daļas 1.punktā norādītās nodokļa likmes,
+b) šā likuma 14.panta ceturtās daļas 2.punktā minēto produktu - pēc šā likuma 14.panta ceturtās daļas 2.punktā norādītās nodokļa likmes.
 (6) Ministru kabinets nosaka kārtību (arī iesniedzamos dokumentus, dokumentu iesniegšanas termiņus, nodokļa atmaksāšanas termiņus, kā arī iestādes, kuras veic lauksaimniecībā izmantotās zemes pārbaudes), kādā lauksaimniecības produkcijas ražotājiem atmaksājams nodoklis par dīzeļdegvielu (gāzeļļu) un dīzeļdegvielu (gāzeļļu), kurai saskaņā ar šā likuma nosacījumiem ir pievienota rapšu sēklu eļļa vai no rapšu sēklu eļļas iegūta biodīzeļdegviela, saskaņā ar šā panta piekto daļu.
 (7) Komersantiem Ministru kabineta noteiktajā kārtībā atmaksā samaksāto nodokli par šā likuma 14.panta pirmās daļas 7.punktā minētajiem naftas produktiem, kuri izmantoti siltuma ražošanai telpu apkurei un karstā ūdens sagatavošanai.
 (8) (Izslēgta ar 20.12.2004. likumu.)

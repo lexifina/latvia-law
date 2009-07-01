@@ -1,0 +1,1 @@
+25. Saskaņā ar šā likuma 18.panta septīto daļu izdotie Ministru kabineta 2004.gada 30.marta noteikumi Nr.213 "Kārtība, kādā atmaksājams akcīzes nodoklis par degvieleļļu, tās aizstājējproduktiem un komponentiem, ko izmanto par kurināmo" par 2009. gadā faktiski iegādāto un izlietoto degvieleļļas daudzumu piemērojami līdz 2010.gada 20.februārim.
