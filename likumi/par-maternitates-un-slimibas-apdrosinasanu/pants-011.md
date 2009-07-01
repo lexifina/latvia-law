@@ -3,6 +3,6 @@ Slimības pabalstu piešķir, ja persona neierodas darbā un tādējādi zaudē 
 1) darbspēju zaudēšana sakarā ar slimību vai traumu;
 2) nepieciešamība saņemt ārstnieciska vai profilaktiska rakstura medicīnisko palīdzību;
 3) nepieciešama izolācija sakarā ar karantīnu;
-4) ārstēšanās ārstniecības iestādē atveseļošanās periodā pēc slimības vai traumas, ja saskaņā ar medicīnisku atzinumu šāda ārstēšanās nepieciešama darbspēju atjaunošanai;
+4) ārstēšanās ārstniecības iestādē atveseļošanās periodā pēc slimības vai traumas, ja šāda ārstēšanās nepieciešama darbspēju atjaunošanai;
 5) līdz 14 gadus veca slima bērna kopšana;
 6) protezēšana vai ortozēšana stacionārā.

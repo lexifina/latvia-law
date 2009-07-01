@@ -1,0 +1,1 @@
+11. Par bērnu, kas piedzimis līdz 2009.gada 30.jūnijam vai 306 dienu laikā, sākot no 2009.gada 1.jūlija, vecāku pabalstu piešķir arī personai, kura bērna kopšanas laikā ir nodarbināta vai gūst ienākumus kā pašnodarbinātais.

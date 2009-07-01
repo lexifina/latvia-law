@@ -1,0 +1,1 @@
+15. Darba ņēmējam, kuram pārejoša darba nespēja iestājusies līdz 2009.gada 30.jūnijam un nepārtraukti turpinās pēc 2009.gada 1.jūlija, slimības pabalstu piešķir un izmaksā arī gadījumā, ja persona darba nespējas laikā gūst ienākumus kā darba ņēmējs kādā no savām darba vietām, vienlaikus vismaz vienā darba vietā nestrādājot, vai gūst ienākumus kā pašnodarbinātais.

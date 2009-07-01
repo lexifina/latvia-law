@@ -1,0 +1,1 @@
+17. Laika periodā no 2009.gada 1.jūlija līdz 2010.gada 2.maijam personai, kura bērna kopšanas laikā gūst ienākumus kā darba ņēmējs vai pašnodarbinātais, saskaņā ar šo likumu noteikto vecāku pabalstu izmaksā atbilstoši likumam "Par valsts pensiju un valsts pabalstu izmaksu laika periodā no 2009.gada līdz 2012.gadam".

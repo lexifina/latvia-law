@@ -1,0 +1,1 @@
+10. Personai, kurai bērns piedzimis līdz 2009.gada 31.martam, vidējo apdrošināšanas iemaksu algu vecāku pabalsta apmēra noteikšanai aprēķina saskaņā ar šo pārejas noteikumu 5.punktu, nepiemērojot noteikumu par personas apdrošināšanas iemaksu algu, no kuras veiktas vai bija jāveic valsts sociālās apdrošināšanas iemaksas vecāku apdrošināšanai.

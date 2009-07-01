@@ -1,4 +1,4 @@
-5. Līdz 2009.gada 31.decembrim vidējo apdrošināšanas iemaksu algu vecāku pabalsta apmēra noteikšanai aprēķina:
+5. Līdz 2009.gada 31.decembrim vidējo apdrošināšanas iemaksu algu vecāku pabalsta apmēra noteikšanai aprēķina no personas apdrošināšanas iemaksu algas, no kuras veiktas vai bija jāveic valsts sociālās apdrošināšanas iemaksas vecāku apdrošināšanai:
 1) darba ņēmējam - no personas apdrošināšanas iemaksu algas par 12 kalendāra mēnešu periodu, šo periodu beidzot trīs kalendāra mēnešus pirms mēneša, kurā bērns piedzimis, izmantojot šādu formulu:
 Vmēn = (A1 + A2... + A12): 12
 Vmēn - mēneša vidējā apdrošināšanas iemaksu alga,
