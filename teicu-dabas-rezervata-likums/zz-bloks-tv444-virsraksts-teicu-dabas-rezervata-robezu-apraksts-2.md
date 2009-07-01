@@ -7,10 +7,10 @@ Pa kādiem plāna situācijas elementiem robeža noteikta
 2
 3
 2.1.
-Madonas rajons, Murmastienes pagasts, Siksala
+Varakļānu novads, Murmastienes pagasts, Siksala
 2.1.1.
 158-159
-No Murmastienes pagasta pašvaldības ceļa Murmastiene-Siksala (kadastra Nr.70780030201) ziemeļu malas, šķērsojot šo ceļu, tālāk pa īpašuma "Aizvējiņi" (kadastra Nr.70780020026) robežu uz dienvidiem līdz Siksalas ezeram
+No pašvaldības ceļa Murmastiene-Siksala (kadastra Nr.70780030201) ziemeļu malas, šķērsojot šo ceļu, tālāk pa īpašuma "Aizvējiņi" (kadastra Nr.70780020026) robežu uz dienvidiem līdz Siksalas ezeram
 2.1.2.
 159-160
 Apliecot Siksalas ezera rietumu krastu, pa īpašumu "Aizvējiņi" (kadastra Nr.70780020026), "Ezerkrasts" (kadastra Nr.70780020020), "Kapsētas" (kadastra Nr.70780020017), "Bebri" (kadastra Nr.70780020009) un "Līvlandi" (kadastra Nr.70780020013) robežām līdz īpašuma "Teiči 2" (kadastra Nr.70780020022) robežai
@@ -64,10 +64,10 @@ Uz austrumiem pa īpašumu "Ļadi" (kadastra Nr.70780020010) un "Līvlandi" (kad
 Uz austrumiem un dienvidaustrumiem pa īpašuma "Bebri" (kadastra Nr.70780020008) robežu līdz šā īpašuma ziemeļaustrumu stūrim
 2.1.19.
 176-177
-Uz dienvidiem pa īpašuma "Bebri" (kadastra Nr.70780020008) robežu līdz Murmastienes pagasta pašvaldības ceļam Murmastiene-Siksala (kadastra Nr.70780030201)
+Uz dienvidiem pa īpašuma "Bebri" (kadastra Nr.70780020008) robežu līdz pašvaldības ceļam Murmastiene-Siksala (kadastra Nr.70780030201)
 2.1.20.
 177-158
-Uz austrumiem gar Murmastienes pagasta pašvaldības ceļa Murmastiene-Siksala (kadastra Nr.70780030201) ziemeļu malu līdz rezervāta robežas pagrieziena punktam dienvidu virzienā
+Uz austrumiem gar pašvaldības ceļa Murmastiene-Siksala (kadastra Nr.70780030201) ziemeļu malu līdz rezervāta robežas pagrieziena punktam dienvidu virzienā
 3. Stingrā režīma zonas robežas apraksts
 Nr.
 p.k.
@@ -136,8 +136,8 @@ Y koordināta
 6286187
 4.5.
 5
-652206
-6285791
+651882
+6286025
 4.6.
 6
 652152

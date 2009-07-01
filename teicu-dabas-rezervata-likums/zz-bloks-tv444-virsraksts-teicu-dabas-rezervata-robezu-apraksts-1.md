@@ -7,7 +7,7 @@ Pa kādiem plāna situācijas elementiem robeža noteikta
 2
 3
 1.1.
-Madonas rajons, Barkavas pagasts
+Madonas novads, Barkavas pagasts
 1.1.1.
 1-2
 No Mētrienas un Barkavas pagastu robežpunkta pie Islienas upes uz dienvidrietumiem un dienvidaustrumiem pa īpašuma "Teiči" (kadastra Nr.70440070024) robežu līdz īpašuma "Pulcenes" (kadastra Nr.70440070104) robežai
@@ -36,7 +36,7 @@ Uz austrumiem pa Zemkopības ministrijas valdījumā esošā valsts meža (kadas
 9-10
 Uz dienvidiem pa Zemkopības ministrijas valdījumā esošā valsts meža (kadastra Nr.70440070068) rietumu robežu līdz īpašuma "Jaunsudrabiņi" (kadastra Nr.70780030273) robežai (sakrīt ar Barkavas un Murmastienes pagastu robežu)
 1.2.
-Madonas rajons, Murmastienes pagasts
+Varakļānu novads, Murmastienes pagasts
 1.2.1.
 10-11
 Uz dienvidrietumiem pa īpašuma "Jaunsudrabiņi" (kadastra Nr.70780030273) robežu līdz šā īpašuma austrumu stūrim
@@ -66,10 +66,10 @@ Uz dienvidrietumiem un rietumiem pa īpašuma "Mežmaļi" (kadastra Nr.707800302
 Uz dienvidrietumiem, dienvidaustrumiem un dienvidrietumiem pa īpašuma "Jaunarāji" (kadastra Nr.70780030131) robežu līdz īpašuma "Līvlandi" (kadastra Nr.70780030278) robežai
 1.2.10.
 19-20
-Uz dienvidrietumiem pa īpašumu "Līvlandi" (kadastra Nr.70780030278), "Avoti" (kadastra Nr.70780030081), "Iecelnieki" (kadastra Nr.70780030277), "Avotiņi" (kadastra Nr.70780030175), "Kļavinieki" (kadastra Nr.70780030002), "Kolneji" (kadastra Nr.70780030032), "Blisiņi" (kadastra Nr.70780030272), "Jāņu mājas" (kadastra Nr.7078003121), "Ābeles" (kadastra Nr.70780030113), "Silzemes" (kadastra Nr.70780030066), "Irbes" (kadastra Nr.7078003004), "Virši" (kadastra Nr.70780030006), "Eglinieki" (kadastra Nr.70780030077), "Ceriņi1" (kadastra Nr.70780030108) un "Tolkāja" (kadastra Nr.70780030016) robežām līdz Murmastienes pagasta pašvaldības ceļam Murmastiene-Silagals (kadastra Nr.70780030201)
+Uz dienvidrietumiem pa īpašumu "Līvlandi" (kadastra Nr.70780030278), "Avoti" (kadastra Nr.70780030081), "Iecelnieki" (kadastra Nr.70780030277), "Avotiņi" (kadastra Nr.70780030175), "Kļavinieki" (kadastra Nr.70780030002), "Kolneji" (kadastra Nr.70780030032), "Blisiņi" (kadastra Nr.70780030272), "Jāņu mājas" (kadastra Nr.7078003121), "Ābeles" (kadastra Nr.70780030113), "Silzemes" (kadastra Nr.70780030066), "Irbes" (kadastra Nr.7078003004), "Virši" (kadastra Nr.70780030006), "Eglinieki" (kadastra Nr.70780030077), "Ceriņi1" (kadastra Nr.70780030108) un "Tolkāja" (kadastra Nr.70780030016) robežām līdz pašvaldības ceļam Murmastiene-Silagals (kadastra Nr.70780030201)
 1.2.11.
 20-21
-Šķērsojot Murmastienes pagasta pašvaldības ceļu Murmastiene-Silagals (kadastra Nr.70780030201) uz dienvidiem pa īpašuma "Tolkāja" (kadastra Nr.70780030017) robežu līdz īpašuma "Skangaļi" (kadastra Nr.70780030182) robežai
+Šķērsojot pašvaldības ceļu Murmastiene-Silagals (kadastra Nr.70780030201) uz dienvidiem pa īpašuma "Tolkāja" (kadastra Nr.70780030017) robežu līdz īpašuma "Skangaļi" (kadastra Nr.70780030182) robežai
 1.2.12.
 21-22
 Uz dienvidiem un ziemeļaustrumiem pa īpašuma "Skangaļi" (kadastra Nr.70780030182) robežu līdz īpašuma "Ābeles" (kadastra Nr.70780030181) robežai
@@ -144,10 +144,10 @@ Uz austrumiem un ziemeļaustrumiem pa meliorācijas grāvi un īpašuma "Broki" 
 Uz dienvidaustrumiem pa meliorācijas grāvi un īpašuma "Skariņi" (kadastra Nr.70780040082) robežu līdz īpašuma "Broki" (kadastra Nr.70780040090) robežai
 1.2.36.
 45-46
-Uz dienvidaustrumiem, austrumiem un ziemeļiem pa īpašuma "Broki" (kadastra Nr.70780040090) robežu līdz Murmastienes pagasta pašvaldības ceļam Veipi-Tiltagals (kadastra Nr.70780040278)
+Uz dienvidaustrumiem, austrumiem un ziemeļiem pa īpašuma "Broki" (kadastra Nr.70780040090) robežu līdz pašvaldības ceļam Veipi-Tiltagals (kadastra Nr.70780040278)
 1.2.37.
 46-47
-Uz austrumiem gar Murmastienes pagasta pašvaldības ceļu Veipi-Tiltagals (kadastra Nr.70780040278) līdz īpašuma "Priedaine" (kadastra Nr.70780080055) robežai
+Uz austrumiem gar pašvaldības ceļu Veipi-Tiltagals (kadastra Nr.70780040278) līdz īpašuma "Priedaine" (kadastra Nr.70780080055) robežai
 1.2.38.
 47-48
 Uz dienvidaustrumiem, austrumiem un dienvidaustrumiem pa īpašuma "Priedaine" (kadastra Nr.70780080055) robežu līdz īpašuma "Gredzentiņi" (kadastra Nr.70780080103) robežai
@@ -155,7 +155,7 @@ Uz dienvidaustrumiem, austrumiem un dienvidaustrumiem pa īpašuma "Priedaine" (
 48-49
 Uz dienvidaustrumiem pa īpašuma "Gredzentiņi" (kadastra Nr.70780080103) robežu līdz īpašuma "Pekši" (kadastra Nr.70940020230) robežai (sakrīt ar Murmastienes un Varakļānu pagastu robežu)
 1.3.
-Madonas rajons, Varakļānu pagasts
+Varakļānu novads, Varakļānu pagasts
 1.3.1.
 49-50
 Uz dienvidrietumiem pa īpašumu "Pekši" (kadastra Nr.70940020230), "Piekalnes" (kadastra Nr.70940020022), "Pelši" (kadastra Nr.70940020044), "Lejaspļava" (kadastra Nr.70940020050), "Ozolpļava" (kadastra Nr.70940020254), "Čeičinieki" (kadastra Nr.70940020018), "Lapu mājas" (kadastra Nr.70940020054), "Aizupes" (kadastra Nr.70940020027), "Ogu sala" (kadastra Nr.70940020045) un "Odiņi" (kadastra Nr.70940020180) robežām līdz īpašuma "Elki" (kadastra Nr.70940020063) robežai
@@ -232,7 +232,7 @@ Uz ziemeļaustrumiem gar valsts autoceļa A12 Jēkabpils-Rēzekne (kadastra Nr.7
 73-74
 Uz dienvidaustrumiem līdz dzelzceļa līnijai Rīga-Zilupe (kadastra Nr.56460070002)
 1.4.
-Jēkabpils rajons, Atašienes pagasts
+Krustpils novads, Atašienes pagasts
 1.4.1.
 74-75
 Uz dienvidrietumiem un rietumiem gar dzelzceļa līniju Rīga-Zilupe (kadastra Nr.56460070002) līdz īpašuma "Caunas" (kadastra Nr.56460060265) robežai
@@ -301,10 +301,10 @@ Uz rietumiem pa īpašuma "Vecstutka" (kadastra Nr.56460050032) robežu līdz ī
 Uz ziemeļaustrumiem pa īpašumu "Meldri" (kadastra Nr.56460050064) un "Lejiņas" (kadastra Nr.56460050050) robežām līdz īpašuma "Ozolkalns" (kadastra Nr.56460050009) robežai
 1.4.23.
 96-97
-Uz ziemeļaustrumiem un ziemeļrietumiem pa īpašuma "Ozolkalns" (kadastra Nr.56460050009) robežu līdz Atašienes pagasta pašvaldības zemes (kadastra Nr.56460050013) robežai
+Uz ziemeļaustrumiem un ziemeļrietumiem pa īpašuma "Ozolkalns" (kadastra Nr.56460050009) robežu līdz pašvaldības zemes (kadastra Nr.56460050013) robežai
 1.4.24.
 97-98
-Uz ziemeļrietumiem pa Atašienes pagasta pašvaldības zemes (kadastra Nr.56460050013) robežu līdz īpašuma "Lejiņas" (kadastra Nr.56460050049) robežai
+Uz ziemeļrietumiem pa pašvaldības zemes (kadastra Nr.56460050013) robežu līdz īpašuma "Lejiņas" (kadastra Nr.56460050049) robežai
 1.4.25.
 98-99
 Uz rietumiem pa īpašumu "Lejiņas" (kadastra Nr.56460050049), "Meldri" (kadastra Nr.56460050001) robežām līdz īpašuma "Ezernīca" (kadastra Nr.56460040053) robežai
@@ -384,7 +384,7 @@ Uz ziemeļrietumiem gar valsts autoceļa P62 Mētriena-Atašiene (kadastra Nr.70
 123-124
 Uz ziemeļaustrumiem pa īpašumu "Austriņi" (kadastra Nr.70760110032) un "Jaunāres" (kadastra Nr.70760110015) robežām līdz Atašienes un Mētrienas pagastu robežpunktam
 1.5.
-Madonas rajons, Mētrienas pagasts
+Madonas novads, Mētrienas pagasts
 1.5.1.
 124-125
 Uz ziemeļiem pa īpašumu "Jaunāres" (kadastra Nr.70760110015) un "Jaunrāksalas" (kadastra Nr.70760110007) austrumu robežām līdz īpašuma "Jaunrāksalas 2" (kadastra Nr.70760110008) robežai
@@ -435,7 +435,7 @@ Uz ziemeļrietumiem un ziemeļiem pa īpašuma "Pilskalni 2" (kadastra Nr.707600
 Uz ziemeļaustrumiem, dienvidaustrumiem un dienvidiem pa īpašuma "Tīrumnieki 2" (kadastra Nr.70760080436) ārējo robežu līdz īpašuma "Tīrumnieki" (kadastra Nr.70760080059) robežai
 1.5.17.
 140-141
-Uz ziemeļaustrumiem pa īpašuma "Tīrumnieki" (kadastra Nr.70760080059) robežu, šķērsojot Mētrienas pagasta pašvaldības ceļu Ozolkalns-Sildi (kadastra Nr.70760080350), tālāk pa īpašumu "Priežukalns" (kadastra Nr.70760080058), "Stūrīši" (kadastra Nr.70760080400), "Saulgrieži" (kadastra Nr.70760080177), "Valtersala" (kadastra Nr.70760080381) un "Sanitas" (kadastra Nr.70760060032) robežām līdz īpašuma "Gravāni" (kadastra Nr.70760060027) robežai
+Uz ziemeļaustrumiem pa īpašuma "Tīrumnieki" (kadastra Nr.70760080059) robežu, šķērsojot pašvaldības ceļu Ozolkalns-Sildi (kadastra Nr.70760080350), tālāk pa īpašumu "Priežukalns" (kadastra Nr.70760080058), "Stūrīši" (kadastra Nr.70760080400), "Saulgrieži" (kadastra Nr.70760080177), "Valtersala" (kadastra Nr.70760080381) un "Sanitas" (kadastra Nr.70760060032) robežām līdz īpašuma "Gravāni" (kadastra Nr.70760060027) robežai
 1.5.18.
 141-142
 Uz ziemeļaustrumiem pa īpašumu "Gravāni" (kadastra Nr.70760060027), "Dūkstupieši" (kadastra Nr.70760060023), "Purmalas" (kadastra Nr.70760060011) robežām līdz īpašuma "Isliena" (kadastra Nr.70760060047) robežai
@@ -474,10 +474,10 @@ Uz ziemeļrietumiem pa īpašumu "Bākšāni" (kadastra Nr.70760020118) un "Rita
 Uz austrumiem pa Zemkopības ministrijas valdījumā esošā valsts meža (kadastra Nr.70760030027) dienvidu robežu līdz īpašuma "Lapsukalns" (kadastra Nr.70440010039) robežai (sakrīt ar Mētrienas un Barkavas pagastu robežpunktu)
 1.5.30.
 153-154
-Uz dienvidiem pa īpašuma "Lapsukalns" (kadastra Nr.70440010039) robežu, Zemkopības ministrijas valdījumā esošā valsts meža (kadastra Nr.70440060026) rietumu robežu un īpašumu "Jānīši" (kadastra Nr.70440060010) un "Apsala" (kadastra Nr.70440060073) robežām līdz Mētrienas pagasta pašvaldības īpašuma "Apsala" (kadastra Nr.70760070004) robežai (sakrīt ar Barkavas un Mētrienas pagastu robežpunktu)
+Uz dienvidiem pa īpašuma "Lapsukalns" (kadastra Nr.70440010039) robežu, Zemkopības ministrijas valdījumā esošā valsts meža (kadastra Nr.70440060026) rietumu robežu un īpašumu "Jānīši" (kadastra Nr.70440060010) un "Apsala" (kadastra Nr.70440060073) robežām līdz pašvaldības īpašuma "Apsala" (kadastra Nr.70760070004) robežai (sakrīt ar Barkavas un Mētrienas pagastu robežpunktu)
 1.5.31.
 154-155
-Uz dienvidrietumiem pa Mētrienas pagasta pašvaldības īpašuma "Apsala" (kadastra Nr.70760070004) robežu līdz minētā īpašuma rietumu stūrim
+Uz dienvidrietumiem pa pašvaldības īpašuma "Apsala" (kadastra Nr.70760070004) robežu līdz minētā īpašuma rietumu stūrim
 1.5.32.
 155-156
 Uz austrumiem pa meliorācijas grāvi un īpašuma "Apsala" (kadastra Nr.70760070004) robežu līdz šā īpašuma robežas pagrieziena punktam dienvidu virzienā
