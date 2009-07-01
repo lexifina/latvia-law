@@ -1,1 +1,1 @@
-12. Sakarā ar 1996.gada 22.augustā izdarītajiem grozījumiem šā likuma 18.pantā un iznomāto neapdzīvojamo telpu izsoļu atcelšanu neapdzīvojamo telpu izsoles, kuras tika izsludinātas līdz 1996.gada 15.augustam, var atcelt attiecīgās pašvaldības dome (padome).
+12. Sakarā ar 1996.gada 22.augustā izdarītajiem grozījumiem šā likuma 18.pantā un iznomāto neapdzīvojamo telpu izsoļu atcelšanu neapdzīvojamo telpu izsoles, kuras tika izsludinātas līdz 1996.gada 15.augustam, var atcelt attiecīgās pašvaldības dome.
