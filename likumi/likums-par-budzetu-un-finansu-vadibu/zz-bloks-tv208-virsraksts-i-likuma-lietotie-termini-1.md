@@ -1,6 +1,6 @@
 Aizdevumi - pašvaldībām un citām juridiskajām personām nodoti budžeta līdzekļi, ar kuriem šīm personām ir tiesības rīkoties un kurus ir pienākums atdot, kā arī aizdevumi pārņemto saistību pildīšanai, ja aizdevuma ņēmējs palicis parādā valstij vai pašvaldībai.
 Aizdevumu atmaksas - valstij vai pašvaldībai atmaksātie aizdevumi.
-Apropriācija - valsts budžeta likuma piešķirtā pilnvara noteiktā apjomā, kas atļauj Valsts kasei asignēt un veikt maksājumus noteiktiem mērķiem no valsts budžeta ieņēmumiem, vai pašvaldības domes (padomes) lēmums veikt maksājumus pašvaldības mērķiem no pašvaldības budžeta ieņēmumiem.
+Apropriācija - valsts budžeta likuma piešķirtā pilnvara noteiktā apjomā, kas atļauj Valsts kasei asignēt un veikt maksājumus noteiktiem mērķiem no valsts budžeta ieņēmumiem, vai pašvaldības domes lēmums veikt maksājumus pašvaldības mērķiem no pašvaldības budžeta ieņēmumiem.
 Apropriācijas rezerve - gadskārtējā valsts budžeta likumā noteikta apropriācijas daļa, ko Ministru kabinets sadala atbilstoši gadskārtējā valsts budžeta likumā ietvertajiem nosacījumiem.
 Ārvalstu finanšu palīdzība - finanšu palīdzība, kuru saņem no Eiropas Savienības, ārvalstu valdībām, starptautiskajām organizācijām vai citiem ārvalstu palīdzības sniedzējiem.
 Asignējums - pilnvara uzņemties īstermiņa saistības vai veikt no valsts budžeta līdzekļiem maksājumus noteiktam mērķim, pamatojoties uz apropriāciju.
