@@ -16,4 +16,4 @@
 14) par paraksta apliecināšanu uz nostiprinājuma lūguma - 3 latus;
 15) par mantojuma saraksta sastādīšanu - 34 latus;
 16) par cita veida dokumentu sastādīšanu - 3 latus (par katru lappusi).
-(2) Pašvaldības domei (padomei) ir tiesības piemērot valsts nodevu atvieglojumus.
+(2) Pašvaldības domei ir tiesības piemērot valsts nodevu atvieglojumus.
