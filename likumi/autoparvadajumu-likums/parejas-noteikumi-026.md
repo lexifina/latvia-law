@@ -1,0 +1,1 @@
+26. Rajona padomes izsniegta speciālā atļauja (licence) pasažieru pārvadājumiem ar vieglajiem taksometriem bijušā rajona teritorijā ir spēkā līdz tās derīguma termiņa beigām, bet ne ilgāk kā līdz 2011.gada 31.decembrim.
