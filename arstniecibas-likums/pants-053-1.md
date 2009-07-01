@@ -4,3 +4,4 @@
 (4) Ārstniecības personu aizliegts sodīt vai citādi tieši vai netieši radīt tai nelabvēlīgas sekas, ja šī persona nepiekrīt pagarināta normālā darba laika noteikšanai.
 (5) Ja ārstniecības personai noteikts pagarināts normālais darba laiks, tad ne retāk kā ik pēc četriem mēnešiem ārstniecības iestādei nepieciešams saņemt šīs personas rakstveida piekrišanu pagarinātā normālā darba laika noteikšanai.
 (6) Ārstniecības iestāde veic to ārstniecības personu uzskaiti, kurām noteikts pagarināts normālais darba laiks, un nodrošina šīs informācijas pieejamību Valsts darba inspekcijai.
+(7) Ja ārstniecības personai noteikts pagarināts normālais darba laiks, darba samaksu par darbu laiku, kas pārsniedz Darba likumā noteikto normālo darba laiku, nosaka proporcionāli darba laika pieaugumam ne mazāk kā noteiktās stundas vai dienas algas likmes apmērā, bet, ja nolīgta akordalga, - atbilstoši akorddarba izcenojumam par paveiktā darba daudzumu.
