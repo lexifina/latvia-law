@@ -9,4 +9,4 @@
 7) vides monitoringa programmas, plāni un rezultāti;
 8) pētījumi par ietekmi uz vidi un riska novērtējumi attiecībā uz vides sastāvdaļām vai norāde, kur šo informāciju var pieprasīt vai atrast;
 9) informācija par ziņojumu sniegšanu Eiropas Komisijai un citām starptautiskajām institūcijām.
-(2) Latvijas Vides, ģeoloģijas un meteoroloģijas aģentūra izveido un uztur aizsargājamo teritoriju reģistru, kurā informāciju grupē atbilstoši katram upju baseinu apgabalam. Aizsargājamās teritorijas šā panta izpratnē ir Ūdens apsaimniekošanas likuma 1.panta 1.punktā minētās teritorijas.
+(2) Centrs izveido un uztur aizsargājamo teritoriju reģistru, kurā informāciju grupē atbilstoši katram upju baseinu apgabalam. Aizsargājamās teritorijas šā panta izpratnē ir Ūdens apsaimniekošanas likuma 1.panta 1.punktā minētās teritorijas.
