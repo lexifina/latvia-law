@@ -1,5 +1,5 @@
-5. pants. (1) Pilsētas, rajona, novada vai pagasta vēlēšanu komisiju ievēlē attiecīgās pilsētas dome, rajona padome, novada dome vai pagasta padome triju mēnešu laikā pēc domes (padomes) ievēlēšanas vai viena mēneša laikā pēc domes (padomes) izveidošanas.
-(2) Iecirkņa komisiju izveido attiecīgās pilsētas, novada vai pagasta vēlēšanu komisija Centrālās vēlēšanu komisijas noteiktajā kārtībā.
+5. pants. (1) Republikas pilsētas vai novada vēlēšanu komisiju ievēlē attiecīgās republikas pilsētas dome vai novada dome triju mēnešu laikā pēc domes ievēlēšanas vai viena mēneša laikā pēc domes izveidošanas.
+(2) Iecirkņa komisiju izveido attiecīgās republikas pilsētas vai novada vēlēšanu komisija Centrālās vēlēšanu komisijas noteiktajā kārtībā.
 (3) Saeimas vēlēšanām un tautas nobalsošanai ārvalstīs Centrālā vēlēšanu komisija no attiecīgo konsulāro iestāžu ieteiktajiem Latvijas pilsoņiem ieceļ iecirkņu komisijas. Ja vēlēšanu iecirkņus izveido uz kuģiem, Centrālā vēlēšanu komisija ieceļ iecirkņu komisijas no Latvijas pilsoņiem pēc attiecīgā kuģa īpašnieka ieteikuma.
 (4) Šā panta trešajā daļā paredzētajos gadījumos par iecirkņa komisijas skaitlisko sastāvu Centrālā vēlēšanu komisija vienojas attiecīgi ar konsulāro iestādi vai kuģa īpašnieku, tomēr iecirkņa komisijā nedrīkst būt mazāk par trim un vairāk par septiņiem locekļiem.
 (5) Eiropas Parlamenta vēlēšanām ārvalstīs Ārlietu ministrija ieceļ vēlēšanu iecirkņa komisiju balsošanai pa pastu septiņu locekļu sastāvā.

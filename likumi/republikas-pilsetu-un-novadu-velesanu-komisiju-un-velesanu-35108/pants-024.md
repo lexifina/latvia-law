@@ -7,7 +7,7 @@
 6) sakarā ar saņemtajām sūdzībām vai pēc savas iniciatīvas pārbauda vēlēšanu rezultātus atsevišķos vēlēšanu iecirkņos;
 7) informē vēlētājus par vēlēšanu kārtību;
 8) izskata sūdzības un iesniegumus par attiecīgo vēlēšanu komisiju (iecirkņu komisiju) lēmumiem un darbību;
+8¹) pēc vēlēšanu pabeigšanas Centrālās vēlēšanu komisijas noteiktajā kārtībā saņem no iecirkņu komisijām balsu skaitīšanas protokolus un citus materiālus, pārbauda iecirkņu komisiju protokolus un nogādā tos Centrālajai vēlēšanu komisijai;
+8²) sniedz Centrālajai vēlēšanu komisijai noteiktas formas pārskatu par finanšu līdzekļu izlietošanu;
 9) pilda citus ar attiecīgajām vēlēšanām saistītus pienākumus.
-(2) Papildus šā panta pirmajā daļā noteiktajiem pienākumiem republikas pilsētu un rajonu vēlēšanu komisijas:
-1) pēc vēlēšanu pabeigšanas Centrālās vēlēšanu komisijas noteiktajā kārtībā saņem no iecirkņu komisijām balsu skaitīšanas protokolus un citus materiālus, pārbauda iecirkņu komisiju protokolus, saskaita balsošanas rezultātus attiecīgajā pilsētā vai rajonā, sastāda par to protokolu, kuru kopā ar iecirkņu komisiju protokoliem nogādā Centrālajai vēlēšanu komisijai;
-2) sniedz Centrālajai vēlēšanu komisijai noteiktas formas pārskatu par finansu līdzekļu izlietošanu.
+(2) (Izslēgta ar 13.11.2008. likumu.)
