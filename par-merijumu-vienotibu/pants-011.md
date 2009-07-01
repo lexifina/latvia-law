@@ -1,6 +1,6 @@
 11.pants. Fizisko un juridisko personu tiesības un pienākumi
 (1) Fiziskā vai juridiskā persona šā likuma izpratnē ir persona, kas lieto, izgatavo, remontē vai realizē valsts metroloģiskajai kontrolei pakļautos mērīšanas līdzekļus šā likuma 7.pantā norādītajās jomās.
-(2) Fiziskajām un juridiskajām personām ir tiesības saņemt no Metroloģijas aģentūras visu veidu informāciju, kas saistīta ar mērījumu vienotības nodrošināšanu valstī.
+(2) Fiziskajām un juridiskajām personām ir tiesības saņemt no Metroloģijas biroja visu veidu informāciju, kas saistīta ar mērījumu vienotības nodrošināšanu valstī.
 (3) Ievērojot šā likuma un citu normatīvo aktu prasības, fiziskajām un juridiskajām personām ir pienākums pastāvīgi nodrošināt:
 1) mērījumu pareizību;
 2) mērvienību un to apzīmējumu pareizu lietošanu;

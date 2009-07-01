@@ -1,7 +1,7 @@
 9.pants. Mērīšanas līdzekļu kontroles un uzraudzības organizācija
-(1) Valsts metroloģiskajai kontrolei pakļautajiem mērīšanas līdzekļu tipiem jābūt apstiprinātiem un iekļautiem Valsts mērīšanas līdzekļu reģistrā. Mērīšanas līdzekļu tipus, izņemot likuma "Par atbilstības novērtēšanu" noteiktajā kārtībā atzītos, reģistrē Metroloģijas aģentūra.
+(1) Valsts metroloģiskajai kontrolei pakļautajiem mērīšanas līdzekļu tipiem jābūt apstiprinātiem un iekļautiem Valsts mērīšanas līdzekļu reģistrā. Mērīšanas līdzekļu tipus, izņemot likuma "Par atbilstības novērtēšanu" noteiktajā kārtībā atzītos, reģistrē Metroloģijas birojs.
 (2) Mērīšanas līdzekļu tipu apstiprināšana un pirmreizējā un atkārtotā verificēšana tiek veikta saskaņā ar Starptautiskās reglamentētās metroloģijas organizācijas un Eiropas savienības prasībām šajā jomā.
-(3) Valsts metroloģiskajai kontrolei pakļauto mērīšanas līdzekļu tipu apstiprina Metroloģijas aģentūra.
+(3) Valsts metroloģiskajai kontrolei pakļauto mērīšanas līdzekļu tipu apstiprina Metroloģijas birojs.
 (4) Valsts metroloģiskajai kontrolei pakļauto mērīšanas līdzekļu pirmreizējo un atkārtoto verificēšanu var veikt Ministru kabineta noteiktajā kārtībā reglamentētajā sfērā akreditētas laboratorijas.
 (4¹) Ministru kabineta noteiktajos gadījumos valsts metroloģiskajai kontrolei pakļauto mērīšanas līdzekļu tipa apstiprināšanu veic akreditētas sertifikācijas institūcijas, par kuru akreditāciju publicēti paziņojumi laikrakstā "Latvijas Vēstnesis".
 (5) Mērīšanas līdzekļu pirmreizējās un atkārtotās verificēšanas pozitīvu rezultātu apstiprina, izdarot īpašu atzīmi uz mērīšanas līdzekļa vai izsniedzot verificēšanas sertifikātu.
