@@ -1,0 +1,1 @@
+2. Individuālais (ģimenes) uzņēmums, kura nosaukumā iekļauts rajona nosaukums, ir tiesīgs izmantot šo nosaukumu līdz individuālā (ģimenes) uzņēmuma pārreģistrācijai vai likvidācijai saskaņā ar Komerclikuma spēkā stāšanās kārtības likuma noteikumiem.
