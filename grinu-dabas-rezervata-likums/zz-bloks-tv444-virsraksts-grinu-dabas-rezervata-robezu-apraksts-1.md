@@ -1,4 +1,4 @@
-Liepājas rajons Sakas pagasts Aizputes virsmežniecība Vērgales mežniecība
+Pāvilostas novads Sakas pagasts Aizputes virsmežniecība Vērgales mežniecība
 Grīņu dabas rezervātam ir šādas robežas:
 no 1. līdz 2. -no valsts meža 626.kvartāla (turpmāk - kv.) dienvidaustrumu stūra pa 626., 622., 617. un 610.kv. austrumu malas stigu uz ziemeļiem līdz Kārpas upei;
 no 2. līdz 3. -gar Kārpas upes krastu uz ziemeļiem līdz Ventspils-Liepājas autoceļam;
