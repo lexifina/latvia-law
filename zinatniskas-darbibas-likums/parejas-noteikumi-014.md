@@ -1,0 +1,1 @@
+14. Zinātnisko institūciju reģistrā reģistrētie valsts zinātniskie institūti, valsts augstskolas un valsts augstskolu zinātniskie institūti līdz 2009.gada 31.oktobrim izstrādā un iesniedz apstiprināšanai attiecīgajā nozares ministrijā zinātniskās institūcijas darbības stratēģiju.
