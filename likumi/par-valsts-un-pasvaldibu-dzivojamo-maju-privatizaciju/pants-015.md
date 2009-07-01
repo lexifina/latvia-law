@@ -14,4 +14,4 @@
 (5) Persona, kura šā panta pirmajā un otrajā daļā noteiktajā kārtībā ir privatizējusi neizīrētu dzīvokli, to nevar atsavināt trīs gadus pēc tam, kad šī persona izsolē ieguvusi attiecīgo dzīvokli.
 (6) Šajā pantā noteiktajā kārtībā tā pirmajā un otrajā daļā minētās personas var privatizēt neizīrētu dzīvokli tikai vienu reizi.
 (7) Viendzīvokļa māju, par kuras lietošanu nav noslēgts dzīvojamās telpas īres līgums (turpmāk - neizīrēta viendzīvokļa māja), privatizē, ievērojot šajā pantā noteikto.
-(8) Neizīrētu pašvaldības dzīvokli vai viendzīvokļa māju ar pašvaldības domes (padomes) lēmumu, bet neizīrētu valsts dzīvokli vai viendzīvokļa māju ar Būvniecības, enerģētikas un mājokļu valsts aģentūras lēmumu var piedāvāt privatizēt atklātā izsolē par latiem.
+(8) Neizīrētu pašvaldības dzīvokli vai viendzīvokļa māju ar pašvaldības domes lēmumu, bet neizīrētu valsts dzīvokli vai viendzīvokļa māju ar valsts akciju sabiedrības "Privatizācijas aģentūra" lēmumu var piedāvāt privatizēt atklātā izsolē par latiem.

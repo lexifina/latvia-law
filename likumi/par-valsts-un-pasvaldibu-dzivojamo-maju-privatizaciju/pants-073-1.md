@@ -1,5 +1,5 @@
 73.¹ pants. Gadījumi, kad piemērojama dzīvokļu, mākslinieku darbnīcu un neapdzīvojamo telpu nodošana īpašumā līdz dzīvojamās mājas privatizācijai
-(1) Šīs nodaļas noteikumi piemērojami gadījumos, kad Būvniecības, enerģētikas un mājokļu valsts aģentūra vai pašvaldība nav uzsākusi dzīvojamās mājas privatizāciju šajā likumā noteiktajā kārtībā un valsts vai pašvaldību viendzīvokļa vai daudzdzīvokļu mājā esošo:
+(1) Šīs nodaļas noteikumi piemērojami gadījumos, kad valsts akciju sabiedrība "Privatizācijas aģentūra" vai pašvaldība nav uzsākusi dzīvojamās mājas privatizāciju šajā likumā noteiktajā kārtībā un valsts vai pašvaldību viendzīvokļa vai daudzdzīvokļu mājā esošo:
 1) dzīvokļu īrnieki, viņu ģimenes locekļi vai citas šajā likumā norādītās personas vēlas iegūt īpašumā viņu īrēto dzīvokli;
 2) mākslinieku darbnīcu nomnieki, kuri ir mākslinieki atbilstoši šā likuma 1.panta 19.punkta prasībām, vēlas iegūt īpašumā viņu nomāto mākslinieka darbnīcu;
 3) neapdzīvojamo telpu nomnieki vēlas iegūt īpašumā viņu nomāto neapdzīvojamo telpu.

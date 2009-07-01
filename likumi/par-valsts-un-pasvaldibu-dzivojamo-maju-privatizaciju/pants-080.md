@@ -1,2 +1,2 @@
 80.pants. Paziņojuma par privatizāciju kavējošiem iemesliem nosūtīšana
-Šā likuma 79.pantā minētais privatizācijas komisijas vai Būvniecības, enerģētikas un mājokļu valsts aģentūras nosūtītais paziņojums uzskatāms par saņemtu no brīža, kad dzīvokļa vai viendzīvokļa mājas īrnieks vai kāds no viņa pilngadīgajiem ģimenes locekļiem vai mākslinieka darbnīcas nomnieks ar savu parakstu apliecinājis, ka šo paziņojumu saņēmis.
+Šā likuma 79.pantā minētais privatizācijas komisijas vai valsts akciju sabiedrības "Privatizācijas aģentūra" nosūtītais paziņojums uzskatāms par saņemtu no brīža, kad dzīvokļa vai viendzīvokļa mājas īrnieks vai kāds no viņa pilngadīgajiem ģimenes locekļiem vai mākslinieka darbnīcas nomnieks ar savu parakstu apliecinājis, ka šo paziņojumu saņēmis.

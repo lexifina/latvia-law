@@ -1,6 +1,6 @@
-60.pants. Pilsētu dzīvojamo māju privatizācijas komisijas un pagastu dzīvojamo māju privatizācijas komisijas
-(1) Pilsētas dzīvojamo māju privatizācijas komisiju piecu locekļu sastāvā un tās priekšsēdētāju ieceļ attiecīgās pilsētas dome.
-(2) Pagasta dzīvojamo māju privatizācijas komisiju piecu locekļu sastāvā un tās priekšsēdētāju ieceļ attiecīgā pagasta padome.
+60.pants. Republikas pilsētu dzīvojamo māju privatizācijas komisijas un novadu dzīvojamo māju privatizācijas komisijas
+(1) Republikas pilsētas dzīvojamo māju privatizācijas komisiju piecu locekļu sastāvā un tās priekšsēdētāju ieceļ attiecīgās republikas pilsētas dome.
+(2) Novada dzīvojamo māju privatizācijas komisiju piecu locekļu sastāvā un tās priekšsēdētāju ieceļ attiecīgā novada dome.
 (3) (Izslēgta ar 20.11.2003. likumu.)
-(4) Pilsētas dzīvojamo māju privatizācijas komisija un pagasta dzīvojamo māju privatizācijas komisija organizē attiecīgās pilsētas un attiecīgā pagasta administratīvajā teritorijā esošo valsts un pašvaldības dzīvojamo māju privatizāciju.
-(5) Pilsētas dzīvojamo māju privatizācijas komisijas un pagasta dzīvojamo māju privatizācijas komisijas darbību finansē no attiecīgās pašvaldības budžeta, valsts īpašuma privatizācijas fonda līdzekļiem un pašvaldības īpašuma privatizācijas fonda līdzekļiem.
+(4) Republikas pilsētas dzīvojamo māju privatizācijas komisija un novada dzīvojamo māju privatizācijas komisija organizē attiecīgās republikas pilsētas un attiecīgā novada administratīvajā teritorijā esošo valsts un pašvaldības dzīvojamo māju privatizāciju.
+(5) Novada dzīvojamo māju privatizācijas komisijas un republikas pilsētas dzīvojamo māju privatizācijas komisijas darbību finansē no attiecīgās pašvaldības budžeta.

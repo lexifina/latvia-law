@@ -1,0 +1,1 @@
+43. Valsts akciju sabiedrībai "Privatizācijas aģentūra", pārņemot uzdevumus no Būvniecības, enerģētikas un mājokļu valsts aģentūras, uzdevumu izpilde tiek dotēta no 2009.gada budžeta, kas piešķirts Būvniecības, enerģētikas un mājokļu valsts aģentūrai atbilstoši šā likuma 67.panta piektās daļas 4.punktam.
