@@ -4,7 +4,7 @@
 1) pilsētās un ciemos gar ielām un autoceļiem - teritoriju plānojumos likumā noteiktajā kārtībā un atzīmē zemes gabalu plānos kā sarkano līniju (esoša vai projektēta ielas robeža) un būvlaidi (līnija, kas nosaka attālumu no sarkanās līnijas līdz apbūvei);
 2) lauku apvidos aizsargjoslu platums gar autoceļiem no ceļa ass uz katru pusi ir:
 a) valsts galvenajiem autoceļiem - 100 metru,
-b) valsts 1.šķiras autoceļiem - 60 metru,
-c) valsts 2.šķiras un pašvaldību autoceļiem - 30 metru.
+b) valsts reģionālajiem autoceļiem - 60 metru,
+c) valsts vietējiem un pašvaldību autoceļiem - 30 metru.
 (3) Dzelzceļa ekspluatācijas aizsargjoslas minimālais platums ir vienāds ar dzelzceļa zemes nodalījuma joslas platumu. Pilsētās un ciemos ekspluatācijas aizsargjoslas maksimālais platums gar stratēģiskās (valsts) nozīmes un reģionālās nozīmes dzelzceļa infrastruktūrā ietilpstošajiem sliežu ceļiem, izņemot tiem piegulošos vai ar tiem saistītos staciju sliežu ceļus, speciālās nozīmes sliežu ceļus, pievedceļus un strupceļus, ir 50 metri katrā pusē no malējās sliedes, gar pārējiem sliežu ceļiem - 25 metri, bet lauku apvidū ekspluatācijas aizsargjoslas maksimālais platums gar stratēģiskās (valsts) nozīmes un reģionālās nozīmes dzelzceļa infrastruktūrā ietilpstošajiem sliežu ceļiem, izņemot tiem piegulošos vai ar tiem saistītos staciju sliežu ceļus, speciālās nozīmes sliežu ceļus, pievedceļus un strupceļus, ir 100 metri katrā pusē no malējās sliedes, gar pārējiem sliežu ceļiem - 50 metri. Ekspluatācijas aizsargjoslas platumu šajās robežās nosaka teritoriju plānojumos likumā noteiktajā kārtībā.
 (4) Metodikas projektu, pēc kuras nosaka ekspluatācijas aizsargjoslas gar autoceļiem un dzelzceļiem, izstrādā Satiksmes ministrija.

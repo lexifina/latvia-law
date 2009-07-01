@@ -15,4 +15,4 @@
 13) aizliegts audzēt kokus un krūmus meža zemēs - platībās, kuras norādītas aizsargjoslu noteikšanas metodikā, ārpus meža zemēm - visā aizsargjoslas platumā. Ārpus meža zemēm zemes īpašnieks vai tiesiskais valdītājs aizsargjoslā var audzēt kokus un krūmus, ja par to noslēgta rakstveida vienošanās ar elektrisko tīklu īpašnieku.
 (2) Veicot apūdeņošanas grāvju un drenāžas kolektorgrāvju būvi, kā arī ierīkojot nožogojumus un veicot citus darbus, jāsaglabā pievedceļi un pieejas elektriskajiem tīkliem un to būvēm.
 (3) (Izslēgta ar 14.05.2009. likumu.)
-(4) Elektroenerģijas apgādes uzņēmumi, kuriem saskaņā ar Enerģētikas likumu ir nepieciešama licence, izmanto nekustamo īpašumu aizsargjoslām gar elektriskajiem tīkliem bez atlīdzības par nekustamā īpašuma īpašniekam, valdītājam vai lietotājam noteikto nekustamā īpašuma lietošanas tiesību aprobežojumu.
+(4) (Izslēgta ar 14.05.2009. likumu.)

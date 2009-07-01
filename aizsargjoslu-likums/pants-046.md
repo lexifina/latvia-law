@@ -9,4 +9,4 @@
 a) celt, kapitāli remontēt, rekonstruēt vai nojaukt jebkuras ēkas un būves, kā arī jebkuras komunikācijas,
 b) veikt zemes darbus dziļāk par 0,3 metriem, kā arī veikt grunts planēšanu ar tehniku,
 c) veikt citus darbus, kas traucē siltumtīklu apkalpošanu un var tos bojāt.
-(2) Siltumenerģijas apgādes uzņēmumi izmanto nekustamo īpašumu aizsargjoslām gar siltumtīkliem bez atlīdzības par nekustamā īpašuma īpašniekam, valdītājam vai lietotājam noteikto nekustamā īpašuma lietošanas tiesību aprobežojumu.
+(2) (Izslēgta ar 14.05.2009. likumu.)
