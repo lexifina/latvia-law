@@ -12,6 +12,6 @@
 3) naudas sods;
 4) tiesību ierobežošana;
 5) policijas kontrole;
-6) aizliegums kandidēt Saeimas, Eiropas Parlamenta, pilsētas domes, novada domes un pagasta padomes vēlēšanās.
+6) aizliegums kandidēt Saeimas, Eiropas Parlamenta, republikas pilsētas domes un novada domes vēlēšanās.
 (3) Personai, kura izdarījusi kriminālpārkāpumu vai mazāk smagu noziegumu, prokurors, sastādot priekšrakstu par sodu, var noteikt naudas sodu vai piespiedu darbu, kā arī papildsodu - tiesību ierobežošanu.
 (4) Sodu izciešanas kārtību nosaka saskaņā ar likumu.

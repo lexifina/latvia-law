@@ -1,5 +1,5 @@
 165.¹ pants. Personas nosūtīšana seksuālai izmantošanai
-(1) Par personas nosūtīšanu ar tās piekrišanu seksuālai izmantošanai -
+(1) Par personas nosūtīšanu ar tās piekrišanu seksuālai izmantošanai, tas ir, par jebkādu rīcību, kas šajā nolūkā veicina legālu vai nelegālu personas pārvietošanos, tranzītu vai uzturēšanos vienas valsts vai vairāku valstu teritorijā, -
 soda ar brīvības atņemšanu uz laiku līdz sešiem gadiem.
 (2) Par tādām pašām darbībām, ja tās izdarītas iedzīvošanās nolūkā vai ja tās izdarījusi personu grupa pēc iepriekšējas vienošanās, vai ja tās izdarītas atkārtoti, -
 soda ar brīvības atņemšanu uz laiku līdz desmit gadiem, konfiscējot mantu vai bez mantas konfiskācijas.
