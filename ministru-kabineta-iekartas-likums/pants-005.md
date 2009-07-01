@@ -2,7 +2,7 @@
 (1) Ministru kabineta sastāvā ir Ministru prezidents un šādi ministri, kuriem ir pakļautas attiecīgās ministrijas:
 1) aizsardzības ministrs;
 2) ārlietu ministrs;
-3) bērnu, ģimenes un sabiedrības integrācijas lietu ministrs;
+3) (izslēgts ar 28.05.2009. likumu);
 4) ekonomikas ministrs;
 5) finanšu ministrs;
 6) iekšlietu ministrs;
