@@ -13,8 +13,8 @@
 11) Noziedzīgi iegūtu līdzekļu legalizācijas novēršanas dienesta priekšnieks un viņa vietnieks;
 12) tiesībsargs un viņa vietnieks;
 13) Nacionālās radio un televīzijas padomes loceklis, Sabiedrisko pakalpojumu regulēšanas komisijas padomes loceklis, Finanšu un kapitāla tirgus komisijas padomes loceklis;
-14) pašvaldības domes (padomes) priekšsēdētājs un viņa vietnieks, pašvaldības izpilddirektors un viņa vietnieks;
-15) pašvaldības domes (padomes) deputāts;
+14) pašvaldības domes priekšsēdētājs un viņa vietnieks, pašvaldības izpilddirektors un viņa vietnieks, kā arī pagasta vai pilsētas pārvaldes vadītājs novada pašvaldībā;
+15) pašvaldības domes deputāts;
 16) valsts vai pašvaldības iestādes vadītājs un viņa vietnieks;
 17) vispārējā un specializētā valsts civildienesta ierēdnis;
 18) kapitālsabiedrības padomes loceklis, kurš pārstāv Latvijas valsts vai pašvaldības intereses kapitālsabiedrībā, vai valdes loceklis kapitālsabiedrībā, kurā valsts vai pašvaldības daļa pamatkapitālā atsevišķi vai kopumā pārsniedz 50 procentus;
