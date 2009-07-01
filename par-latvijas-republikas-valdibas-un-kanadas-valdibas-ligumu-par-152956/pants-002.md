@@ -1,1 +1,1 @@
-2.pants. Līgumā paredzēto saistību izpildi koordinē Bērnu un ģimenes lietu ministrija.
+2.pants. Līgumā paredzēto saistību izpildi koordinē Izglītības un zinātnes ministrija.
