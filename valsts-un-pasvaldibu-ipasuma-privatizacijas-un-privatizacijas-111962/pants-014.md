@@ -3,7 +3,7 @@
 1) valsts īpašuma objekta privatizācijas noteikumi ir apstiprināti divas reizes un neviens pretendents nav pieteicies privatizēt šo objektu vai nav apstiprināts par pircēju;
 2) valsts neapbūvēta zemesgabala izsole ir izsludināta divas reizes un neviens pretendents nav pieteicies pirkt šo zemesgabalu vai nav apstiprināts par pircēju;
 3) apstiprinātais valsts īpašuma objekta, kā arī šā likuma 5.panta otrās daļas 2.punktā minētā apbūvētā zemesgabala vai neapbūvēta zemesgabala pircējs divu mēnešu laikā no dienas, kad saņēmis uzaicinājumu noslēgt pirkuma līgumu, vai pirkuma līguma slēgšanas termiņa pagarinājuma laikā nav noslēdzis pirkuma līgumu.
-(2) Pašvaldības dome (padome) var pieņemt lēmumu par pašvaldības īpašuma objekta, kā arī apbūvēta un neapbūvēta zemesgabala privatizācijas izbeigšanu, ja:
+(2) Pašvaldības dome var pieņemt lēmumu par pašvaldības īpašuma objekta, kā arī apbūvēta un neapbūvēta zemesgabala privatizācijas izbeigšanu, ja:
 1) pašvaldības īpašuma objekta privatizācijas projekts ir apstiprināts divas reizes un neviens pretendents nav pieteicies privatizēt šo objektu vai nav apstiprināts par pircēju;
 2) pašvaldības neapbūvēta zemesgabala izsole ir izsludināta divas reizes un neviens pretendents nav pieteicies pirkt šo zemesgabalu vai nav apstiprināts par pircēju;
 3) apstiprinātais pašvaldības īpašuma objekta, kā arī apbūvēta vai neapbūvēta zemesgabala pircējs divu mēnešu laikā no dienas, kad saņēmis uzaicinājumu noslēgt pirkuma līgumu, vai pirkuma līguma slēgšanas termiņa pagarinājuma laikā nav noslēdzis pirkuma līgumu;
