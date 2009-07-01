@@ -1,4 +1,4 @@
 37.pants. Kārtība, kādā apstrīdams piemērotais sods par izmeklēšanas cietumu iekšējās kārtības noteikumu pārkāpšanu
-(1) Apcietinātais uzlikto sodu 10 dienu laikā var apstrīdēt Ieslodzījuma vietu pārvaldes priekšniekam.
+(1) Uzlikto sodu apcietinātais var apstrīdēt Ieslodzījuma vietu pārvaldes priekšniekam Administratīvā procesa likumā noteiktajā kārtībā. Ieslodzījuma vietu pārvaldes priekšnieka lēmumu var pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā. Administratīvās rajona tiesas spriedums, kas pieņemts par šā likuma 30.panta pirmās daļas 1., 2., 3., 4. un 5.punktā minēto sodu uzlikšanu apcietinātajam, nav pārsūdzams. Administratīvās rajona tiesas spriedumu, kas pieņemts par šā likuma 30.panta pirmās daļas 6. un 7.punktā minēto sodu uzlikšanu apcietinātajam, var pārsūdzēt, iesniedzot kasācijas sūdzību Augstākās tiesas Senāta Administratīvo lietu departamentam.
 (2) Sūdzības iesniegšana neaptur soda izpildi.
 (3) Prokurora protests attiecībā uz apcietinātajam nelikumīgi uzlikto sodu aptur tā tālāko izpildi līdz protesta izskatīšanai.
