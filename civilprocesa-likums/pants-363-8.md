@@ -1,7 +1,7 @@
 363.⁸ pants. Jautājumi, kas tiesai izlemjami pēc maksātnespējas procesa pasludināšanas
 (1) Pēc parādnieka maksātnespējas procesa pasludināšanas uz attiecīga pieteikuma pamata tiesa lemj par:
-1) kreditoru sapulces lēmuma par bankrota procedūras uzsākšanu apstiprināšanu un kreditoru sapulces lēmuma par bankrota procedūras pabeigšanu apstiprināšanu;
-2) izlīguma apstiprināšanu;
+1) (izslēgts ar 11.06.2009. likumu);
+2) izlīguma apstiprināšanu vai atcelšanu;
 3) kreditoru sapulces lēmuma par sanācijas plāna pieņemšanu vai grozīšanu, kā arī sanācijas plāna vai tā grozījuma jaunās redakcijas apstiprināšanu;
 4) kreditoru sapulces lēmuma par sanācijas plāna īstenošanu un sanācijas pabeigšanu apstiprināšanu;
 5) kreditoru sapulces lēmuma par sanācijas atcelšanu apstiprināšanu;

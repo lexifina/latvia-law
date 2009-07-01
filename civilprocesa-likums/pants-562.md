@@ -8,6 +8,7 @@
 6) šā likuma 560.panta otrajā daļā paredzētajā gadījumā - līdz parādnieka tiesību pārņēmēja noteikšanai un uzņēmuma nodošanai viņam vai uzņēmējsabiedrības pamatdokumentu grozījumu izdarīšanai Uzņēmumu reģistrā;
 7) šā likuma 561.panta 1.punktā paredzētajā gadījumā - līdz brīdim, kad atkrituši šajā punktā minētie apstākļi;
 8) šā likuma 561.panta 2.punktā paredzētajos gadījumos - līdz tam brīdim, kad likumīgā spēkā stājas tiesas spriedums vai lēmums sakarā ar sūdzību;
-9) (izslēgts ar 19.06.2003. likumu).
+9) (izslēgts ar 19.06.2003. likumu);
+10) šā likuma 560.panta pirmās daļas 7.punktā paredzētajos gadījumos - līdz brīdim, kad attiecībā uz parādnieku tiek izbeigts tiesiskās aizsardzības process vai tiesa šā likuma 349.panta pirmās daļas 1.¹ punktā minētajā gadījumā dod atļauju pārdot ieķīlāto komercsabiedrības mantu.
 (2) Laikā, kad izpildu lietvedība ir apturēta, tiesu izpildītājs piespiedu izpildes darbības neveic.
 (3) Izpildu lietvedība tiek atjaunota pēc piedzinēja pieteikuma vai tiesu izpildītāja iniciatīvas.
