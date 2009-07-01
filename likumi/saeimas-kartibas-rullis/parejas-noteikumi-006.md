@@ -1,0 +1,1 @@
+6. No 2009.gada 1.jūlija līdz 31.decembrim kompensācija, kas noteikta atbilstoši Saeimas kārtības ruļļa 14.panta otrās daļas 2.punktam, samazināma par 20 procentiem, bet kompensācija, kas noteikta atbilstoši 14.panta 3.punktam, samazināma par 30 procentiem.
