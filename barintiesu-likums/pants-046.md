@@ -5,4 +5,5 @@ Bāriņtiesas priekšsēdētājs:
 3) norīko bāriņtiesas priekšsēdētāja vietnieku un bāriņtiesas locekļus par bāriņtiesas sēžu priekšsēdētājiem, kā arī sadala citus pienākumus bāriņtiesas darbiniekiem;
 4) organizē bāriņtiesas darbinieku kvalifikācijas paaugstināšanu;
 5) organizē bāriņtiesas darbu apmeklētāju pieņemšanā un iesniegumu izskatīšanā;
-6) nodrošina datu sniegšanu valsts statistikas pārskata sagatavošanai par bāriņtiesas darbu.
+6) nodrošina datu sniegšanu valsts statistikas pārskata sagatavošanai par bāriņtiesas darbu;
+7) šā likuma 12.panta pirmajā daļā, 13. un 14.pantā noteiktajos gadījumos nodod bāriņtiesas lietas jaunieceltajam bāriņtiesas priekšsēdētājam vai domes pilnvarotai amatpersonai.

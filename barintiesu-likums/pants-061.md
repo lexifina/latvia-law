@@ -10,4 +10,4 @@
 8) apliecina parakstu uz nostiprinājuma lūguma zemesgrāmatai (Zemesgrāmatu likuma 60.pants), ja viens no līdzējiem dzīvo attiecīgās bāriņtiesas darbības teritorijā;
 9) sagatavo dokumentu projektus.
 (2) Bāriņtiesas apliecinājums juridiskā spēka ziņā pielīdzināms notariālajam apliecinājumam.
-(3) Visi apliecinājumi un citas darbības ierakstāmas attiecīgajā bāriņtiesas reģistrā. Reģistrā ierakstāmās ziņas un reģistra vešanas kārtību nosaka Ministru kabinets.
+(3) Visi apliecinājumi un citas darbības ierakstāmas attiecīgajā bāriņtiesas reģistrā. Novada pagastos un novada pilsētās bāriņtiesa izveido atsevišķus apliecinājumu un citu darbību reģistrus, to nosaukumā norādot bāriņtiesas nosaukumu un attiecīgā novada pagasta vai attiecīgās novada pilsētas nosaukumu. Reģistrā ierakstāmās ziņas un reģistra vešanas kārtību nosaka Ministru kabinets.

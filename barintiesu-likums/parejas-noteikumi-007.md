@@ -1,0 +1,1 @@
+7. Līdz vienas vai vairāku bāriņtiesu izveidošanai novadā, bet ne ilgāk kā līdz 2009.gada 30.septembrim darbību turpina pagastu un pilsētu bāriņtiesas atbilstoši to kompetencei un darbības teritorijai.
