@@ -8,7 +8,7 @@ soda ar brīvības atņemšanu uz laiku līdz desmit gadiem un ar policijas kont
 4) tām bijis mocīšanas vai spīdzināšanas raksturs;
 5) tās izdarījusi personu grupa;
 6) tās izdarījusi persona, kas jau agrāk izdarījusi slepkavību vai nodarījusi tīšus smagus miesas bojājumus, izņemot slepkavību vai smagus miesas bojājumus, kas nodarīti stipra psihiska uzbudinājuma stāvoklī vai pārkāpjot nepieciešamās aizstāvēšanās robežas vai personas aizturēšanas nosacījumus;
-7) tās izdarījusi persona, kas ievietota aizturēto turēšanas, iepriekšējā apcietinājuma vai ieslodzījuma vietā;
+7) tās izdarījusi persona, kas ievietota īslaicīgās aizturēšanas vai ieslodzījuma vietā;
 8) tās izdarītas pret personu bezpalīdzības stāvoklī, -
 soda ar brīvības atņemšanu uz laiku no trim līdz divpadsmit gadiem un ar policijas kontroli uz laiku līdz trim gadiem vai bez tās;
 (3) Par tīša smaga miesas bojājuma nodarīšanu, kas vainīgā neuzmanības dēļ bijis par iemeslu cietušā nāvei, -

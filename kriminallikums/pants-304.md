@@ -1,3 +1,3 @@
-304.pants. Pirmstiesas izmeklēšanas datu izpaušana
-Par pirmstiesas izmeklēšanas datu izpaušanu bez prokurora vai izziņas izdarītāja atļaujas personu, kura ir bijusi brīdināta par šo ziņu neizpaušanu, -
-soda ar piespiedu darbu vai ar naudas sodu līdz desmit minimālajām mēnešalgām.
+304.pants. Pirmstiesas kriminālprocesā iegūto ziņu izpaušana
+Par pirmstiesas kriminālprocesā iegūto ziņu izpaušanu bez izmeklētāja vai prokurora atļaujas līdz šā procesa pabeigšanai, ja to izdarījusi persona, kura ir bijusi brīdināta par attiecīgo ziņu neizpaušanu, -
+soda ar brīvības atņemšanu uz laiku līdz vienam gadam vai ar arestu, vai ar piespiedu darbu, vai ar naudas sodu līdz divdesmit minimālajām mēnešalgām.
