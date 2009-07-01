@@ -1,1 +1,1 @@
-10. Zemesgrāmatas iekārto atsevišķi katram pagastam un katrai pilsētai, kas atrodas zemesgrāmatu nodaļas rajonā.
+10. Zemesgrāmatas iekārto atsevišķi katrai zemesgrāmatu nodaļas darbības rajonā esošai administratīvajai teritorijai, bet, ja administratīvajā teritorijā ir novada teritoriālā iedalījuma vienības, zemesgrāmatas iekārto katrai teritoriālajai iedalījuma vienībai.
