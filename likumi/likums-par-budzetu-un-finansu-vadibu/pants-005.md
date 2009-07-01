@@ -11,3 +11,4 @@
 (10) Ministru kabinets nosaka kārtību, kādā ministrijas un citas centrālās valsts iestādes plāno, īsteno, uzrauga un uzskaita valsts budžeta programmu (apakšprogrammu) rezultātus un to rādītājus, kā arī sniedz pārskatus par tiem.
 (11) Ministru kabinets nosaka tiesu sniegto maksas pakalpojumu veidus, samaksas apmēru un kārtību.
 (12) Ministru kabinets nosaka kārtību, kādā plānojami un uzskaitāmi ieņēmumi no valsts budžeta iestāžu sniegtajiem maksas pakalpojumiem un ar šo pakalpojumu sniegšanu saistītie izdevumi.
+(13) Ministru kabinets nosaka kārtību, kādā budžeta finansēta institūcija piedalās Eiropas Savienības un starptautisko institūciju finansēto programmu īstenošanā citā valstī un plāno un uzskaita projekta finansējumu.

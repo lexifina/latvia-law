@@ -1,0 +1,1 @@
+39. Ministru kabinets neietver šā likuma 31.panta otrās daļas 8.² punktā minēto ilgtermiņa stabilizācijas rezerves bilanci un tās pielikumus saimnieciskā gada pārskatā par periodu no 2010.gada 1.janvāra līdz 2012.gada 31.decembrim.

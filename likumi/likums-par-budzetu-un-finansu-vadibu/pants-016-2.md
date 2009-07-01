@@ -7,6 +7,7 @@
 4) maksimāli pieļaujamo valsts budžeta izdevumu kopapjomu vidējam termiņam;
 5) valsts budžetā plānojamo apropriācijas rezervi vidējam termiņam;
 6) maksimāli pieļaujamo valsts budžeta kopējo izdevumu apjomu katrai ministrijai un citām centrālajām valsts iestādēm vidējam termiņam.
+(2²) Finanšu ministrs sadarbībā ar ekonomikas ministru un konsultējoties ar Latvijas Banku ne retāk kā reizi ceturksnī izvērtē un, ja nepieciešams, pārskata šā likuma 16.² panta otrās daļas 1.punktā minētās prognozes.
 (3) Maksimāli pieļaujamo valsts budžeta izdevumu kopapjomu vidējam termiņam un maksimāli pieļaujamo valsts budžeta izdevumu kopējo apjomu katrai ministrijai un citām centrālajām valsts iestādēm vidējam termiņam nosaka atbilstoši Ministru kabineta noteikumos paredzētajai metodikai, ievērojot šā likuma 19.panta piektās daļas nosacījumus.
 (4) Ministru kabinets apstiprina vidēja termiņa makroekonomiskās attīstības un fiskālās politikas ietvaru.
 (5) Finanšu ministrs informē Saeimu par Ministru kabineta apstiprināto vidēja termiņa makroekonomiskās attīstības un fiskālās politikas ietvaru.
