@@ -1,0 +1,1 @@
+3. Šā likuma 6.panta 5.punktā noteikto funkciju Valsts probācijas dienests neīsteno no 2009.gada jūnija grozījumu likumā "Par valsts budžetu 2009.gadam" spēkā stāšanās dienas līdz 2012.gada 31.decembrim.

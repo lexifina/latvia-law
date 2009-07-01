@@ -5,4 +5,4 @@ Valsts probācijas dienesta ierēdņiem un darbiniekiem ir šādi pienākumi:
 3) veikt probācijas klientu uzskaiti;
 4) pārbaudīt, kā probācijas klients pilda savus pienākumus;
 5) atbilstoši savai kompetencei sniegt probācijas klientam nepieciešamo atbalstu un palīdzību;
-6) kopā ar potenciālo probācijas klientu sagatavot vienošanās projektu par postpenitenciārās palīdzības sniegšanu.
+6) (izslēgts ar 16.06.2009. likumu).

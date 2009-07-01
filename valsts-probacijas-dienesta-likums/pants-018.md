@@ -1,2 +1,0 @@
-18.pants. Sadarbība ar institūcijām, sniedzot postpenitenciāro palīdzību nepilngadīgajām personām
-Valsts probācijas dienests informē bāriņtiesu (pagasttiesu) par nepilngadīgajām personām, kuras atbrīvotas no brīvības atņemšanas soda izciešanas un kurām nav vecāku vai citu likumisku pārstāvju, kā arī sadarbībā ar bāriņtiesu (pagasttiesu), sociālo dienestu un citām iesaistītajām institūcijām veic pasākumus, lai atrisinātu minēto personu sociālās problēmas.
