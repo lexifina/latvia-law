@@ -3,8 +3,8 @@
 2) kandidāta parakstītas ziņas:
 a) kandidāta vārds, uzvārds, dzimšanas gads, dzimums, ja vēlas, - arī tautība, ģimenes stāvoklis,
 b) personas kods,
-c) dzīvesvieta (pilsēta vai rajons un apdzīvota vieta),
-d) darbavietas un amati (arī amati sabiedriskajās organizācijās, biedrībās, politiskajās, reliģiskajās organizācijās un arodbiedrībās) vai - ja darbavietas nav - nodarbošanās, statuss,
+c) dzīvesvieta (republikas pilsēta vai novads un apdzīvota vieta),
+d) darbavietas un amati (arī amati biedrībās, nodibinājumos, arodbiedrībās, arodbiedrību savienībās, politiskajās partijās, politisko partiju apvienībās un reliģiskajās organizācijās) vai - ja darbavietas nav - nodarbošanās, statuss,
 e) kādas izglītības iestādes beidzis un kurā gadā, kāda izglītības pakāpe iegūta un kādā specialitātē,
 f) pašnovērtējums par latviešu valodas prasmi,
 g) ir vai nav sadarbojies ar PSRS, Latvijas PSR vai ārvalstu valsts drošības dienestiem, izlūkdienestiem vai pretizlūkošanas dienestiem kā šo dienestu ārštata darbinieks, aģents, rezidents vai konspiratīvā dzīvokļa turētājs,
