@@ -1,4 +1,4 @@
-5.pants. Radiācijas drošības centra galvenās funkcijas
+5.pants. Valsts vides dienesta Radiācijas drošības centra galvenās funkcijas
 Centra galvenās funkcijas ir šādas:
 1) sagatavot priekšlikumus par radiācijas drošības un kodoldrošības uzraudzības un kontroles politiku valstī;
 2) veikt radiācijas drošības un kodoldrošības uzraudzību un kontroli;

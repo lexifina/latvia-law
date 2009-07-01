@@ -1,4 +1,4 @@
-7.pants. Radiācijas drošības centra inspektoru tiesības
+7.pants. Valsts vides dienesta Radiācijas drošības centra inspektoru tiesības
 (1) Centra inspektoriem ir tiesības pārbaudīt vietas, kur tiek veiktas darbības ar jonizējošā starojuma avotiem, un ņemt paraugus uzraudzības mērķiem nepieciešamā daudzumā. Šādu paraugu ņemšana netiek uzskatīta par zaudējumu nodarīšanu.
 (2) Lai kontrolētu šā likuma un citu normatīvo aktu prasību izpildi radiācijas drošības un kodoldrošības jomā, Centra inspektoriem ir tiesības:
 1) pieņemt lēmumus un dot atzinumus par situāciju radiācijas drošības un kodoldrošības jomā;
