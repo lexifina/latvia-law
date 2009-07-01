@@ -1,5 +1,5 @@
 28.pants. Nodokļa maksājumu ieskaitīšana budžetā
-(1) Nodokļa maksājumus attiecīgi pa budžetiem sadala Valsts ieņēmumu dienesta iestādes atbilstoši nodokļa maksātāja reģistrācijas vietai.
+(1) Nodokļa maksājumus attiecīgi pa budžetiem sadala Valsts ieņēmumu dienests atbilstoši nodokļa maksātāja reģistrācijas vietai.
 (2) Nodokļa maksājumus par dabas resursu ieguvi vai izmantošanu vai vides piesārņošanu (izņemot šā panta trešajā daļā minētos gadījumus) limitos noteiktajos apmēros ieskaita:
 1) 40 procentus - valsts pamatbudžetā;
 2) 60 procentus - tās vietējās pašvaldības vides aizsardzības speciālajā budžetā, kuras teritorijā tiek veikta attiecīgā darbība.
