@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Autoceļu lietošanas nodevas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "200",
+  "official_journal_page": null,
+  "official_journal_date": "2008-12-23",
+  "entry_into_force": "2009-07-01",
+  "notification_date": "2009-01-06",
+  "commission_reference": "MNE(2009)50010",
+  "nim_celex": "72006L0038LVA_159835",
+  "nim_id": "159835",
+  "transposes_celex": [
+    "32006L0038"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/58796193-2be0-4776-bc1e-e53377bacd1c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
