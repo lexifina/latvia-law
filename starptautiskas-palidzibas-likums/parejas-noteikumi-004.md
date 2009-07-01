@@ -1,0 +1,1 @@
+4. Ministru kabinets līdz 2010.gada 1.jūlijam izdod šā likuma 13.panta pirmajā daļā minētos noteikumus, kas paredz attīstības sadarbības projekta īstenošanā iesaistītās personas maksimālo atlīdzības, dienas naudas un viesnīcas (naktsmītnes) izdevumu apmēru.

@@ -1,5 +1,5 @@
-13.pants. Attīstības sadarbības projekta īstenotāja finansēšanas kārtība un civilā eksperta sociālās garantijas
-(1) Attīstības sadarbības projekta īstenotāja finansēšanas kārtību nosaka Ministru kabinets.
+13.pants. Attīstības sadarbības projekta īstenošanā iesaistītās personas maksimālais atlīdzības, dienas naudas un viesnīcas (naktsmītnes) izdevumu apmērs un civilā eksperta sociālās garantijas
+(1) Attīstības sadarbības projekta īstenošanā iesaistītās personas maksimālo atlīdzības, dienas naudas un viesnīcas (naktsmītnes) izdevumu apmēru nosaka Ministru kabinets.
 (2) Ja civilais eksperts starptautiskās misijas laikā gūst savainojumus vai veselības traucējumus, Ministru kabinets, pamatojoties uz Veselības un darbspēju ekspertīzes ārstu valsts komisijas lēmumu, lemj par vienreizējas kompensācijas piešķiršanu šādā apmērā:
 1) ja civilais eksperts zaudējis līdz 20% darbspēju, - 10 civilā eksperta mēnešalgu apmērā;
 2) ja civilais eksperts zaudējis no 21% līdz 40% darbspēju, - 20 civilā eksperta mēnešalgu apmērā;
