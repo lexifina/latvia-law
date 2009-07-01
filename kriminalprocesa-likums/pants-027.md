@@ -6,8 +6,9 @@
 4) pieprasa, lai ikviena persona izpilda kriminālprocesuālo pienākumu un ievēro procesuālo kārtību;
 5) nodrošina iespēju kriminālprocesā iesaistītajām personām īstenot likumā noteiktās tiesības.
 (2) Procesa virzītāji ir:
-1) izmeklēšanā - izmeklētājs;
+1) izmeklēšanā - izmeklētājs vai izņēmuma gadījumā prokurors;
 2) kriminālvajāšanā - prokurors;
 3) sagatavojot lietu iztiesāšanai, kā arī no brīža, kad pasludināts nolēmums, ar kuru pabeigta tiesvedība attiecīgās instances tiesā, līdz lietas nodošanai nākamajai tiesu instancei vai nolēmuma izpildei - tiesnesis, kurš vada iztiesāšanu;
-4) iztiesāšanas laikā - tiesas sastāvs.
+4) iztiesāšanas laikā - tiesas sastāvs;
+5) pēc tiesas nolēmuma spēkā stāšanās - tiesnesis.
 (3) Pirmstiesas kriminālprocesa veikšanai var izveidot izmeklēšanas grupu, kuras vadītājs ir attiecīgais procesa virzītājs.

@@ -8,7 +8,7 @@
 (2) Izmeklētājam ir tiesības:
 1) likumā noteiktajā kārtībā pieņemt jebkuru procesuālo lēmumu un veikt jebkuru procesuālo darbību vai uzdot tās veikšanu izmeklēšanas grupas dalībniekam vai procesuālo uzdevumu izpildītājam;
 2) ierosināt uzraugošajam prokuroram lemt jautājumu par kriminālvajāšanas uzsākšanu;
-3) pārsūdzēt sava tiešā priekšnieka norādījumus uzraugošajam prokuroram;
-4) pārsūdzēt uzraugošā prokurora lēmumus un norādījumus amatā augstākam prokuroram;
-5) pārsūdzēt amatā augstāka prokurora norādījumus nākamajam amatā augstākam prokuroram;
-6) pārsūdzēt izmeklēšanas tiesneša lēmumus tiesas priekšsēdētājam.
+3) pārsūdzēt sava tiešā priekšnieka norādījumus;
+4) pārsūdzēt uzraugošā prokurora lēmumus un norādījumus;
+5) pārsūdzēt amatā augstāka prokurora norādījumus;
+6) pārsūdzēt izmeklēšanas tiesneša lēmumus.

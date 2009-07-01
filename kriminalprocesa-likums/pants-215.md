@@ -2,7 +2,7 @@
 (1) Saskaņā ar šīs nodaļas noteikumiem veicamas šādas speciālās izmeklēšanas darbības:
 1) legālās korespondences kontrole;
 2) sakaru līdzekļu kontrole;
-3) elektroniskajā informācijas sistēmā esošo datu kontrole;
+3) automatizētās datu apstrādes sistēmā esošo datu kontrole;
 4) pārraidīto datu satura kontrole;
 5) vietas vai personas audiokontrole;
 6) vietas videokontrole;

@@ -1,5 +1,5 @@
 249.pants. Procesuālā piespiedu līdzekļa grozīšana vai atcelšana
 (1) Ja procesuālā piespiedu līdzekļa piemērošanas laikā ir zudis vai mainījies tā piemērošanas pamats, mainījušies piemērošanas nosacījumi, personas uzvedība vai ir noskaidroti citi apstākļi, kas noteica piespiedu līdzekļa izvēli, procesa virzītājs pieņem lēmumu par tā grozīšanu vai atcelšanu.
-(2) Ja persona pārkāpj piemērotā drošības līdzekļa noteikumus, procesa virzītājs ir tiesīgs izvēlēties un piemērot citu vairāk ierobežojošu drošības līdzekli.
-(3) Lēmumu par piespiedu līdzekļa grozīšanu vai atcelšanu nekavējoties paziņo iestādei vai amatpersonai, kura nodrošina tā izpildi, un personai, kurai šis piespiedu līdzeklis piemērots.
+(2) Ja persona pārkāpj piemērotā drošības līdzekļa noteikumus vai nepilda savus procesuālos pienākumus, procesa virzītājs ir tiesīgs izvēlēties un piemērot citu vairāk ierobežojošu drošības līdzekli.
+(3) Lēmumu par piespiedu līdzekļa grozīšanu vai atcelšanu nekavējoties paziņo iestādei vai amatpersonai, kura nodrošina tā izpildi, un personai, kurai šis piespiedu līdzeklis piemērots, bet, ja bijis piemērots ar brīvības atņemšanu saistīts drošības līdzeklis, arī izmeklēšanas tiesnesim.
 (4) Ja sūdzības izskatīšanas rezultātā agrāk piemērotais drošības līdzeklis ir atcelts, vairāk ierobežojošu drošības līdzekli drīkst piemērot tikai tad, ja pastāv jauni apstākļi.

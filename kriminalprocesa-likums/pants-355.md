@@ -1,5 +1,5 @@
 355.pants. Noziedzīgi iegūta manta
-(1) Manta ir atzīstama par noziedzīgi iegūtu, ja personas īpašumā vai valdījumā tā nonākusi noziedzīga nodarījuma rezultātā.
+(1) Manta ir atzīstama par noziedzīgi iegūtu, ja personas īpašumā vai valdījumā tā tieši vai netieši nonākusi noziedzīga nodarījuma rezultātā.
 (2) Ja netiek pierādīts pretējais, par noziedzīgi iegūtu uzskatāma manta, arī finanšu līdzekļi, kas pieder personai, kura:
 1) ir organizētas noziedzīgas grupas dalībnieks vai atbalsta to;
 2) pati iesaistījusies teroristiskās darbībās vai uztur pastāvīgas attiecības ar personu, kas iesaistīta teroristiskās darbībās;

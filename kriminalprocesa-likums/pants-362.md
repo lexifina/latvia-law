@@ -1,5 +1,5 @@
 362.pants. Protokols par aresta uzlikšanu mantai
-(1) Par aresta uzlikšanu mantai raksta protokolu.
+(1) Par aresta uzlikšanu mantai raksta protokolu. Protokols nav jāraksta, ja lēmums par mantas arestu nodots izpildei kredītiestādei vai publiskajam reģistram un nav nepieciešams aprakstīt mantas individuālās pazīmes.
 (2) Protokolā fiksē:
 1) katru lietu, kurai uzlikts arests, norādot tās nosaukumu, marku, svaru, nodiluma pakāpi, kā arī citas individuālās pazīmes;
 2) ja arestu uzliek visai mantai, - arī lietas, kurām arests netiek uzlikts;

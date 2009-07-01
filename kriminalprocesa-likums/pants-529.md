@@ -3,4 +3,5 @@ Sprieduma rezolutīvajā daļā papildus norāda tiesas lēmumu par:
 1) rīcību ar lietiskajiem pierādījumiem un dokumentiem;
 2) procesuālo izdevumu atlīdzību;
 3) sprieduma pārsūdzēšanas kārtību un termiņu;
-4) pilnā sprieduma sagatavošanas laiku, ja lietā pasludināts saīsinātais spriedums.
+3¹) pārsūdzības termiņa pagarināšanu vēl par 10 dienām kriminālprocesa īpašas sarežģītības un apjoma dēļ;
+4) pilnā sprieduma pieejamības dienu.

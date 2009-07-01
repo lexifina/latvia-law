@@ -5,4 +5,4 @@
 1) atstāt ģenerālprokurora lēmumu negrozītu;
 2) grozīt ģenerālprokurora lēmumu;
 3) atcelt ģenerālprokurora lēmumu.
-(4) Tiesas lēmums ir galīgs un nav pārsūdzams.
+(4) Tiesas lēmums nav pārsūdzams.

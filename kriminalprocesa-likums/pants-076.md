@@ -1,4 +1,3 @@
-76.pants. Personas tiesības, par kuras izdarīto noziedzīgu nodarījumu iestājies noilgums
-(1) Ja persona atzīst savu vainu noziedzīga nodarījuma izdarīšanā, tai ir tiesības pieprasīt kriminālprocesa izbeigšanu sakarā ar kriminālatbildības noilguma iestāšanos.
-(2) Ja persona neatzīst savu vainu noziedzīga nodarījuma izdarīšanā, tai ir tiesības iesniegt sūdzību par prokurora lēmumu par kriminālprocesa izbeigšanu sakarā ar kriminālatbildības noilgumu tajā tiesā, kurai ir piekritīga attiecīgā noziedzīga nodarījuma izskatīšana pirmajā instancē.
-(3) Sūdzības izskatīšanas laikā sūdzības iesniedzējam ir tādas pašas tiesības kā apsūdzētajam pirmās instances tiesā, izņemot tiesības uz pēdējo vārdu un tiesības pārsūdzēt tiesas nolēmumu.
+76.pants. Personas tiesības, pret kuru kriminālprocess izbeigts uz nereabilitējoša pamata
+(1) Ja persona, pret kuru kriminālprocess izbeigts sakarā ar kriminālatbildības noilgumu vai amnestijas aktu, neatzīst savu vainu noziedzīga nodarījuma izdarīšanā, tai ir tiesības iesniegt sūdzību par izmeklētāja vai prokurora lēmumu par kriminālprocesa izbeigšanu tajā tiesā, kurai ir piekritīga attiecīgā noziedzīgā nodarījuma izskatīšana pirmajā instancē.
+(2) Sūdzības izskatīšanas laikā sūdzības iesniedzējam ir tādas pašas tiesības kā apsūdzētajam pirmās instances tiesā, izņemot tiesības uz pēdējo vārdu un tiesības pārsūdzēt tiesas nolēmumu.

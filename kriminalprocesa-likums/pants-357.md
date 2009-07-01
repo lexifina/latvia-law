@@ -1,3 +1,4 @@
 357.pants. Noziedzīgi iegūtas mantas atdošana
 (1) Manta atdodama pēc piederības īpašniekam vai likumīgajam valdītājam ar procesa virzītāja lēmumu pēc tam, kad mantas uzglabāšana kriminālprocesa mērķu sasniegšanai vairs nav nepieciešama.
-(2) Mantu, kuras apgrozība aizliegta ar likumu un kura līdz ar to personas valdījumā atrodas nelikumīgi, šim valdītājam neatdod, bet ar tiesas lēmumu nodod attiecīgai valsts institūcijai vai tādai juridiskajai personai, kura ir tiesīga to iegūt un lietot.
+(2) Mantu, kuras apgrozība aizliegta ar likumu un kura līdz ar to personas valdījumā atrodas nelikumīgi, šim valdītājam neatdod, bet ar procesa virzītāja lēmumu nodod attiecīgai valsts institūcijai vai tādai juridiskajai personai, kura ir tiesīga to iegūt un lietot.
+(3) Manta, arī finanšu līdzekļi, kuru izcelsme ir noziedzīga nodarījuma atklāšanai izmantoti valsts līdzekļi, atdodami likumīgajam valdītājam vai piedzenami tā labā. Ja šāda manta ir atsavināta, iznīcināta vai noslēpta un to nav iespējams atdot, piedziņai var pakļaut citu mantu, arī finanšu līdzekļus, atdodamās mantas vērtībā.

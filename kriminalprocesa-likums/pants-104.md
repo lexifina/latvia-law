@@ -2,7 +2,7 @@
 (1) Cietušo - pilngadīgu fizisko personu var pārstāvēt jebkura pilngadīga un rīcībspējīga fiziskā persona uz cietušā pilnvarojuma pamata.
 (2) Ja kaitējums radīts nepilngadīgai personai, cietušo pārstāv:
 1) māte, tēvs vai aizbildnis;
-2) viens no vecvecākiem, pilngadīgs brālis vai pilngadīga māsa, ja nepilngadīgais dzīvojis kopā ar kādu no viņiem un attiecīgais radinieks par nepilngadīgo rūpējies;
+2) viens no vecvecākiem, pilngadīgs brālis vai pilngadīga māsa, ja nepilngadīgais dzīvojis kopā ar kādu no viņiem un attiecīgais tuvinieks par nepilngadīgo rūpējies;
 3) bērnu tiesību aizsardzības institūcijas pārstāvis;
 4) tādas nevalstiskās organizācijas pārstāvis, kura veic bērnu tiesību aizsardzības funkciju.
 (3) Ja kaitējums radīts personai, kura atzīta par rīcībnespējīgu, cietušo pārstāv tās aizgādnis vai kāda no šā panta otrajā daļā minētajām personām.

@@ -4,4 +4,4 @@
 2) vai ir zināms mantas īpašnieks vai likumīgais valdītājs;
 3) vai kādai personai ir likumīgas tiesības uz mantu;
 4) rīcība ar noziedzīgi iegūtu mantu.
-(2) Ja tiesa atzīst, ka mantas saistība ar noziedzīgu nodarījumu nav pierādīta, tā pieņem lēmumu izbeigt procesu par noziedzīgi iegūtu mantu un norāda šajā lēmumā turpmāko rīcību ar attiecīgo mantu.
+(2) Ja tiesa atzīst, ka mantas saistība ar noziedzīgu nodarījumu nav pierādīta, tā pieņem lēmumu izbeigt procesu par noziedzīgi iegūtu mantu.

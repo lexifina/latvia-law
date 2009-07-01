@@ -3,7 +3,7 @@
 1) saņemt informāciju par savām un pārstāvamā tiesībām;
 2) iepazīties ar kriminālprocesa reģistru un pieteikt noraidījumus tajā ierakstītajām amatpersonām;
 3) iesniegt sūdzības par amatpersonu rīcību un lēmumiem, pieteikt lūgumus tādā pašā kārtībā kā aizstāvim;
-4) saņemt tiesai iesniedzamās krimināllietas materiālu kopijas;
+4) pēc pirmstiesas kriminālprocesa pabeigšanas saņemt to tiesai nododamās krimināllietas materiālu kopijas, kuri tieši attiecas uz pārstāvamā izdarīto noziedzīgo nodarījumu, ja tās nav izsniegtas agrāk, vai ar prokurora piekrišanu iepazīties ar šiem krimināllietas materiāliem;
 5) (izslēgts ar 19.01.2006. likumu);
 6) saņemt informāciju par krimināllietas izskatīšanas laiku un vietu jebkuras instances tiesā;
 7) piedalīties slēgtās tiesas sēdēs;

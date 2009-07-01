@@ -4,7 +4,7 @@
 1) aizgādnis;
 2) laulātais;
 3) māte, tēvs vai aizbildnis;
-4) viens no vecvecākiem, pilngadīgie - brālis vai māsa, dēls vai meita vai cits tuvs radinieks, ja persona dzīvo kopā ar viņu un viņš par to rūpējas;
+4) viens no vecvecākiem, pilngadīgie - brālis vai māsa, dēls vai meita vai cits tuvinieks, ja persona dzīvo kopā ar viņu un viņš par to rūpējas;
 5) pārstāvis no ārstniecības iestādes, kurā persona ārstējas;
 6) bāriņtiesas (pagasttiesas) pārstāvis.
 (3) Pārstāvim kriminālprocesā atļauj piedalīties vai viņu nomaina ar procesa virzītāja lēmumu, ko var uzrakstīt arī rezolūcijas veidā. Izlemjot šo jautājumu, procesa virzītājs ievēro šā panta otrajā daļā noteikto secību un konkrēto personu iespējas un vēlēšanos patiesi aizsargāt nepieskaitāmās personas intereses.

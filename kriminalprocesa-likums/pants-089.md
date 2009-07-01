@@ -7,5 +7,5 @@
 4) tādas nevalstiskās organizācijas pārstāvis, kura veic bērnu tiesību aizsardzības funkciju.
 (3) Pārstāvim kriminālprocesā atļauj piedalīties vai viņu nomaina ar procesa virzītāja lēmumu, ko var uzrakstīt arī rezolūcijas veidā. Izlemjot šo jautājumu, procesa virzītājs ievēro šā panta otrajā daļā noteikto secību un konkrēto personu iespējas un vēlēšanos patiesi aizsargāt nepilngadīgā intereses.
 (4) Pārstāvim atļauj piedalīties kriminālprocesā no brīža, kad nepilngadīgais ieguvis tiesības uz aizstāvību un pieņemts lēmums par viņa pārstāvja piedalīšanos.
-(5) Lēmums jāpieņem nekavējoties, bet ne vēlāk kā triju darba dienu laikā. Ja šajā laikā nav iespējams izvēlēties kādu no šā panta otrās daļas 1. un 2.punktā minētajām personām, tiek uzaicināts bērnu tiesību aizsardzības institūcijas pārstāvis.
+(5) Lēmums jāpieņem nekavējoties, bet ne vēlāk kā triju darba dienu laikā.
 (6) Pārstāvis izbeidz savu līdzdalību kriminālprocesā, kad pārstāvamais sasniedz pilngadību.

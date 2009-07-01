@@ -14,3 +14,4 @@
 (5) Lēmuma kopiju kopā ar lietas materiālu kopijām nekavējoties izsniedz apsūdzētajam. Lēmuma kopiju izsniedz arī cietušajam.
 (6) Pēc lēmuma kopijas izsniegšanas prokurors pieņemto lēmumu un krimināllietas materiālus nosūta tiesai.
 (7) Lēmums par krimināllietas nodošanu tiesai neatliekamības kārtībā nav pārsūdzams.
+(8) Pēc lietas nosūtīšanas tiesai visi lūgumi un sūdzības sūtāmas tieši tiesai.

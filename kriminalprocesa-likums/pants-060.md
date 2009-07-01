@@ -6,5 +6,6 @@
 4) pret kuru kriminālprocess izbeigts sakarā ar tādu apstākļu pastāvēšanu, kuri izslēdz kriminālatbildību, ja šī persona apstrīd pašu Krimināllikumā paredzēto rīcību.
 (2) Uz procesuālo aizstāvību tiesīgas personas tiesības uz aizstāvību īsteno arī:
 1) aizstāvis;
-2) pārstāvis.
+2) pārstāvis;
+3) persona, kura iestājas par mirušās personas reabilitāciju.
 (3) Juridiskā persona, par kuras interesēs darbojušos fizisko personu izteikts šā likuma 59.pantā minētais pieņēmums vai apgalvojums, savas procesuālās tiesības uz aizstāvību īsteno ar pārstāvja palīdzību.

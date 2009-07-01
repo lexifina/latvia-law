@@ -4,7 +4,7 @@
 2) saņemt pārstāvamā statusu noteicošo lēmumu kopijas un informāciju par savām un pārstāvamā tiesībām;
 3) iepazīties ar kriminālprocesa reģistru un pieteikt noraidījumus tajā ierakstītajām amatpersonām;
 4) iesniegt sūdzības par amatpersonu rīcību un lēmumiem, pieteikt lūgumus tādā pašā kārtībā kā pašam pārstāvamajam;
-5) saņemt tiesai iesniedzamās krimināllietas materiālu kopijas, ja nepilngadīgais atrodas apcietinājumā;
+5) pēc pirmstiesas kriminālprocesa pabeigšanas, ja nepilngadīgajam piemērots ar brīvības atņemšanu saistīts drošības līdzeklis, saņemt to tiesai nododamās krimināllietas materiālu kopijas, kas attiecas uz pārstāvamajam izvirzīto apsūdzību un viņa personību, ja tās nav izsniegtas agrāk, vai ar prokurora piekrišanu iepazīties ar šiem materiāliem;
 6) (izslēgts ar 19.01.2006. likumu);
 7) saņemt informāciju par krimināllietas iztiesāšanas laiku un vietu jebkuras instances tiesā;
 8) piedalīties slēgtās tiesas sēdēs;

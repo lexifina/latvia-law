@@ -1,4 +1,5 @@
 475.pants. Kriminālprocesu apvienošana
 (1) Ja vienā tiesā ir divas vai vairākās krimināllietas par vienas personas izdarītiem noziedzīgiem nodarījumiem vai vairāku personu dalību vai līdzdalību viena vai vairāku noziedzīgu nodarījumu izdarīšanā, kriminālprocesus par šiem nodarījumiem apvieno, izņemot gadījumus, kad kriminālprocesu apvienošana būtiski sarežģītu krimināllietas izskatīšanu.
-(2) Kriminālprocesus var apvienot līdz tiesas izmeklēšanas sākumam ar tiesneša vai tiesas lēmumu.
+(2) Kriminālprocesus var apvienot līdz tiesas izmeklēšanas sākumam ar tiesneša vai tiesas lēmumu, un tas nav pārsūdzams.
+(2¹) Tiesas izmeklēšanas laikā pirmās instances tiesā vienā kriminālprocesā var apvienot krimināllietas par vairāku personu dalību vai līdzdalību viena vai vairāku noziedzīgu nodarījumu izdarīšanā, ja tas kļuvis zināms iztiesāšanā pirmās instances tiesā.
 (3) Apvienojot kriminālprocesus, parasti materiālus par vieglāku noziedzīgu nodarījumu pievieno krimināllietai par smagāku noziedzīgu nodarījumu.

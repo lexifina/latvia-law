@@ -1,1 +1,1 @@
-23.nodaļa. Pieteikumi
+23.nodaļa. Pieteikumi, iesniegumi un lūgumi

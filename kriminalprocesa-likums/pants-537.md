@@ -1,4 +1,4 @@
 537.pants. Lietas materiālu pārbaude izlīguma gadījumā
-(1) Ja izlīgumu iesniedz vai par to parakstās tiesas sēdes protokolā pēc tam, kad uzsākta tiesas izmeklēšana, un tiesai nav šaubu par apsūdzētā vainu, tā izmeklēšanu pārtrauc un pāriet pie tiesas debatēm.
-(2) Ja cietušais un apsūdzētais par izlīgumu paziņo tiesas debašu laikā, tiesa pārtrauc debates un dod apsūdzētajam pēdējo vārdu.
-(3) Ja cietušais un apsūdzētais par izlīgumu paziņo pēc tiesas debatēm, tiesa dod vārdu tiesas debašu dalībniekiem viedokļa izteikšanai.
+(1) Ja izlīgumu iesniedz vai par to parakstās tiesas sēdes protokolā pēc tam, kad uzsākta tiesas izmeklēšana, un tiesai nav šaubu par apsūdzētā vainu, tā izmeklēšanu var pārtraukt un pāriet pie tiesas debatēm.
+(2) Ja cietušais un apsūdzētais par izlīgumu šā likuma 377.panta 9.punktā paredzētajā gadījumā paziņo tiesas debašu laikā vai pēc debatēm, tiesa pārtrauc debates, noskaidro, vai izlīgums noticis labprātīgi, izskaidro tā sekas un pieņem lēmumu.
+(3) (Izslēgta ar 12.03.2009. likumu.)

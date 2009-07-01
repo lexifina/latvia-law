@@ -1,6 +1,6 @@
 180.pants. Lēmums par kratīšanu
-(1) Kratīšanu izdara ar izmeklēšanas tiesneša vai tiesas lēmumu. Izmeklēšanas tiesnesis lēmumu pieņem, pamatojoties uz procesa virzītāja pieteikumu un tam pievienotajiem materiāliem.
+(1) Kratīšanu izdara ar izmeklēšanas tiesneša vai tiesas lēmumu. Izmeklēšanas tiesnesis lēmumu pieņem, pamatojoties uz procesa virzītāja ierosinājumu un tam pievienotajiem materiāliem.
 (2) Lēmumā par kratīšanu norāda, kas, kur, pie kā, kādā lietā un kādus priekšmetus un dokumentus meklēs un izņems.
-(3) Neatliekamos gadījumos, kad novilcināšanas dēļ meklējamie priekšmeti vai dokumenti var tikt iznīcināti, noslēpti vai sabojāti vai arī meklējamā persona var aizbēgt, procesa virzītājs var izdarīt kratīšanu ar prokurora piekrišanu.
+(3) Neatliekamos gadījumos, kad novilcināšanas dēļ meklējamie priekšmeti vai dokumenti var tikt iznīcināti, noslēpti vai sabojāti vai arī meklējamā persona var aizbēgt, kratīšanu var izdarīt ar procesa virzītāja lēmumu. Ja lēmumu pieņem izmeklētājs, tad kratīšanu izdara ar prokurora piekrišanu.
 (4) Lēmums par kratīšanu nav nepieciešams, izdarot aizturamās personas kratīšanu, kā arī šā likuma 182.panta piektajā daļā noteiktajā gadījumā.
 (5) Par šā panta trešajā daļā norādīto kratīšanu procesa virzītājs ne vēlāk kā nākamajā darba dienā pēc tās izdarīšanas paziņo izmeklēšanas tiesnesim, uzrādot materiālus, kas pamatoja izmeklēšanas darbības nepieciešamību un neatliekamību, kā arī izmeklēšanas darbības protokolu. Tiesnesis pārbauda kratīšanas tiesiskumu un pamatotību. Ja izmeklēšanas darbība izdarīta prettiesiski, izmeklēšanas tiesnesis iegūtos pierādījumus atzīst par nepieļaujamiem kriminālprocesā un lemj par rīcību ar izņemtajiem priekšmetiem.

@@ -15,5 +15,6 @@
 2) likumā noteiktajā kārtībā pieņemt jebkuru procesuālo lēmumu un veikt jebkuru procesuālo darbību vai uzdot tās veikšanu izmeklēšanas grupas dalībniekam vai procesuālo uzdevumu izpildītājam;
 3) pabeigt kriminālprocesu, piemērojot prokurora priekšrakstu par sodu;
 4) sagatavot vienošanās projektu;
-5) iesniegt priekšlikumus noteiktu faktu atzīšanai par pierādītiem bez pierādījumu pārbaudes tiesā.
+5) iesniegt priekšlikumus noteiktu faktu atzīšanai par pierādītiem bez pierādījumu pārbaudes tiesā;
+6) ja nepieciešams, pieprasīt no Valsts probācijas dienesta personas izvērtēšanas ziņojumu.
 (3) Ja procesuālā lēmuma pieņemšanai ir nepieciešams Eiropas Kopienu Tiesas prejudiciāls nolēmums par Eiropas Savienības (Kopienu) tiesību normas interpretāciju vai spēkā esamību, prokurors var ierosināt, lai ģenerālprokurors nosūta neskaidro jautājumu Eiropas Kopienu Tiesai.

@@ -1,2 +1,2 @@
 540.pants. Tiesas sastāvs
-Krimināllietu vienošanās procesā izskata tiesnesis vienpersoniski.
+Krimināllietu vienošanās procesā iztiesā tiesnesis vienpersoniski.

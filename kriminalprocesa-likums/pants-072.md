@@ -9,4 +9,10 @@
 2) saņemt informāciju par sūdzību izskatīšanas laiku;
 3) iesniegt iebildumus vai paskaidrojumus par apelācijas sūdzību vai protestu;
 4) uzturēt un pamatot savu sūdzību vai atsaukt savu vai aizstāvja sūdzību.
-(3) Apsūdzētajam ir tiesības, sākot ar tiesas noteikto dienu, saņemt apelācijas tiesas nolēmuma kopiju un iesniegt kasācijas sūdzību.
+(3) Ja apelācijas instances tiesā sūdzība tiek izskatīta rakstveida procesā, apsūdzētajam ir tiesības:
+1) saņemt tās apelācijas sūdzības vai tā protesta kopiju, kas ir par pamatu viņa līdzdalībai apelācijas instances tiesā;
+2) iesniegt iebildumus vai paskaidrojumus par saņemtajām apelācijas sūdzībām un protestu, kā arī iesniegt iebildumus pret lietas iztiesāšanu rakstveida procesā;
+3) pieteikt noraidījumu tiesas sastāvam vai atsevišķam tiesnesim;
+4) saņemt informāciju par sūdzības un protesta izskatīšanas kārtību un nolēmuma pieejamības dienu;
+5) atsaukt savu vai aizstāvja sūdzību.
+(4) Apsūdzētajam ir tiesības, sākot ar tiesas noteikto dienu, saņemt apelācijas instances tiesas nolēmuma kopiju un iesniegt kasācijas sūdzību.

@@ -1,1 +1,1 @@
-53.nodaļa. Lietas izskatīšana apelācijas kārtībā
+53.nodaļa. Lietas iztiesāšana apelācijas kārtībā

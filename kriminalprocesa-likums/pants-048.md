@@ -7,4 +7,4 @@
 4) izlemj saņemtos pieteikumus, lūgumus un noraidījumus;
 5) izskata un izspriež lietu un pasludina nolēmumu;
 6) veic pasākumus, lai tiktu sauktas pie atbildības amatpersonas, kuras veic kriminālprocesu un savas pilnvaras īsteno negodprātīgi.
-(3) Tiesa piedalās starptautiskajā sadarbībā krimināltiesiskajā jomā šajā likumā noteiktajā kārtībā.
+(3) (Izslēgta ar 12.03.2009. likumu.)

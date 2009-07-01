@@ -4,4 +4,4 @@ Ja izmeklēšanas tiesnesis nav piemērojis apcietinājumu, procesa virzītājs 
 2) persona pārkāpusi piemērotā drošības līdzekļa noteikumus;
 3) iegūti pierādījumi par mēģinājumiem nelikumīgi ietekmēt liecinošo personu;
 4) persona ir iznīcinājusi vai mēģinājusi iznīcināt noziedzīga nodarījuma pēdas;
-5) izmeklēšanā iegūtie materiāli rada pamatotas aizdomas, ka persona izdarījusi citu tīšu noziedzīgu nodarījumu vai grasās izvairīties no pirmstiesas izmeklēšanas vai tiesas.
+5) pirmstiesas kriminālprocesā iegūtie materiāli rada pamatotas aizdomas, ka persona izdarījusi citu tīšu noziedzīgu nodarījumu vai grasās izvairīties no pirmstiesas kriminālprocesa vai tiesas.

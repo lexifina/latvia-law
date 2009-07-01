@@ -5,5 +5,5 @@
 (4) Nolēmuma motīvu daļā norādāms apelācijas instances tiesas atzinums par apelācijas sūdzības vai protesta pamatotību, apstākļi, ko noskaidrojusi apelācijas instances tiesa, pierādījumi, kas apstiprina apelācijas instances tiesas atzinumu, motīvi, kāpēc apelācijas instances tiesa noraida kādus pierādījumus, un likumi, pēc kuriem tā vadās.
 (5) Ja apelācijas instances tiesa konstatē tādus noziedzīga nodarījuma apstākļus, kas atšķiras no pirmās instances tiesas spriedumā norādītajiem apstākļiem, tā sniedz jaunu noziedzīga nodarījuma aprakstu.
 (6) Ja apelācijas instances tiesa atstāj pirmās instances tiesas spriedumu bez grozījumiem, tā var neatkārtot pirmās instances tiesas spriedumā minētos pierādījumus un atzinumus.
-(7) Nolēmuma rezolutīvajā daļā norādāms viens no šā likuma 563.pantā paredzētajiem nolēmumiem.
+(7) Nolēmuma rezolutīvajā daļā norādāms viens no šā likuma 563.pantā paredzētajiem nolēmumiem. Tiesa var pieņemt lēmumu par pārsūdzības termiņa pagarināšanu par 10 dienām kriminālprocesa īpašas sarežģītības un apjoma dēļ.
 (8) Ja apelācijas instances tiesa taisa pēc būtības jaunu spriedumu, tā aprakstošajai daļai, motīvu daļai un rezolutīvajai daļai jāatbilst prasībām, kādas šajā likumā noteiktas pirmās instances tiesas spriedumam.

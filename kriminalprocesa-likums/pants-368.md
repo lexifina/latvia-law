@@ -1,5 +1,5 @@
 368.pants. Procesuālo izdevumu piedziņa
-(1) Procesuālos izdevumus ar tiesas nolēmumu piedzen no notiesātajiem, izņemot šā panta trešajā, ceturtajā un piektajā daļā minētos gadījumus.
+(1) Procesuālos izdevumus ar tiesas nolēmumu piedzen no notiesātajiem, izņemot šā panta trešajā, ceturtajā un piektajā daļā minētos gadījumus. Procesuālo izdevumu atlīdzināšanas pienākums gulstas arī uz nepilngadīga notiesātā vecākiem vai aizbildņiem.
 (2) Ja ar tiesas spriedumu notiesātas vairākas personas, tiesa nosaka, kādā apmērā no katra notiesātā piedzenami procesuālie izdevumi. Tiesa ņem vērā noziedzīga nodarījuma raksturu, notiesātā atbildības pakāpi un mantisko stāvokli.
 (3) Ja ar tiesas spriedumu persona ir attaisnota, procesuālos izdevumus sedz no valsts līdzekļiem. Ja apsūdzētais attaisnots daļēji, no viņa var piedzīt procesuālos izdevumus, kas saistīti ar apsūdzību, kurā persona atzīta par vainīgu un notiesāta.
 (4) Procesuālos izdevumus sedz no valsts līdzekļiem, ja persona, no kuras tie piedzenami, ir maznodrošināta. Tiesa var atbrīvot notiesāto no procesuālo izdevumu piedziņas pilnībā vai daļēji arī citos gadījumos, ja piedziņa var būtiski ietekmēt to personu mantisko stāvokli, kuras atrodas notiesātā apgādībā.

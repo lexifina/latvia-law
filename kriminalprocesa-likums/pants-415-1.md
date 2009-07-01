@@ -1,0 +1,3 @@
+415.¹ pants. Kriminālprocesa izbeigšana, nosacīti atbrīvojot no kriminālatbildības par smagu noziegumu
+(1) Ja ir šā likuma 415.pantā minētie nosacījumi, virsprokurors ar amatā augstāka prokurora piekrišanu var izbeigt kriminālprocesu, nosacīti atbrīvojot no kriminālatbildības personu, kuru apsūdz smaga nozieguma izdarīšanā un kura būtiski palīdzējusi atklāt smagu vai sevišķi smagu noziegumu, kas ir smagāks vai bīstamāks par šīs personas pašas izdarīto noziedzīgo nodarījumu.
+(2) Šā panta pirmajā daļā noteiktais nav piemērojams personai, kura tiek saukta pie kriminālatbildības par Krimināllikuma 125., 159., 160., 176., 190.¹, 251., 252. un 253.¹ pantā paredzēto smago noziegumu izdarīšanu vai kura pati bijusi nozieguma organizētāja.

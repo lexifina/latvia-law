@@ -4,3 +4,4 @@
 (3) Ja apskates gaitā rodas nepieciešamība izdarīt kratīšanu, uzrādīšanu atpazīšanai vai citas izmeklēšanas darbības, tās veicamas, ievērojot attiecīgās izmeklēšanas darbības veikšanas noteikumus.
 (4) Ja citas izmeklēšanas darbības gaitā tiek atrasts objekts, tā apskati var izdarīt tajā pašā izmeklēšanas darbībā, apskates rezultātus fiksējot izmeklēšanas darbības protokolā.
 (5) Vairāku telpu vai apvidu teritoriju apskati vienlaikus var izdarīt vairākas amatpersonas, kas pilnvarotas veikt kriminālprocesu. Katra no tām apskates gaitu fiksē atsevišķi, norādot konkrēti apskatītā objekta robežas un apskates rezultātus.
+(6) Automatizētās datu apstrādes sistēmas (tās daļas) apskati parasti uz vietas neveic, bet šo sistēmu (tās daļu) izņem, nodrošinot datu veseluma saglabāšanu neizmainītā stāvoklī.

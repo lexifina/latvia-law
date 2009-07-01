@@ -6,5 +6,6 @@ Tiesnesis, sagatavojot krimināllietu iztiesāšanai tiesas sēdē, izlemj šād
 4) par lietas izskatīšanu atklātā vai slēgtā tiesas sēdē;
 5) vai lieta skatāma ar vai bez pierādījumu pārbaudes tiesas sēdē;
 6) par kompensācijas vai iespējamās mantas konfiskācijas nodrošināšanu, ja ir attiecīgs pieteikums;
+6¹) par arhīva lietas materiālu vai pirmdokumentu pievienošanu lietai pēc pieteiktā lūguma;
 7) citus jautājumus, par kuriem iesniegts apsūdzētā, aizstāvja, prokurora, cietušā vai cietušā pārstāvja lūgums;
 8) par izvērtēšanas ziņojuma pieprasīšanu no Valsts probācijas dienesta.

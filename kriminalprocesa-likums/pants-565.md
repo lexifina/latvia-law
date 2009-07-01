@@ -10,5 +10,5 @@
 1) atzīt apsūdzēto par vainīgu smagāka noziedzīga nodarījuma izdarīšanā, nekā to atzinusi pirmās instances tiesa, nosakot smagāku sodu vai nemainot sodu;
 2) atcelt attaisnojošu pirmās instances tiesas spriedumu un taisīt notiesājošu spriedumu;
 3) atzīt apsūdzēto par vainīgu atsevišķu noziedzīga nodarījuma epizožu izdarīšanā, kuras pirmās instances tiesa izslēgusi no apsūdzības, nosakot smagāku sodu vai nemainot sodu;
-4) atcelt pirmās instances tiesas spriedumu daļā par sodu, nosakot smagāku sodu.
-(4) Pamatojoties uz cietušā sūdzību publiskās apsūdzības lietā, apelācijas instances tiesa var atcelt pirmās instances tiesas spriedumu daļā par sodu, nosakot smagāku sodu.
+4) (izslēgts ar 12.03.2009. likumu).
+(4) Pamatojoties uz prokurora protestu vai cietušā sūdzību, apelācijas instances tiesa var atcelt pirmās instances tiesas spriedumu daļā par sodu, nosakot smagāku sodu.

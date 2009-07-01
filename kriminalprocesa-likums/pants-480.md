@@ -1,4 +1,4 @@
 480.pants. Kriminālprocesa apturēšana sakarā ar apsūdzētā izvairīšanos no tiesas
 (1) Ja apsūdzētais izvairās no tiesas, tiesa pieņem lēmumu par apsūdzētā meklēšanu un par kriminālprocesa apturēšanu līdz laikam, kad tiks atrasts apsūdzētais.
-(2) Lēmumu par apsūdzētā meklēšanu izpilda tiesas norādītā policijas iestāde.
+(2) Lēmumu par apsūdzētā meklēšanu nodod izpildei operatīvās darbības subjektam atbilstoši tā kompetencei.
 (3) Pēc apsūdzētā atrašanas tiesnesis atjauno iztiesāšanu, lēmumu uzrakstot rezolūcijas veidā.

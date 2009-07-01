@@ -6,4 +6,4 @@
 4) piedalīties tiesas sēdēs un sniegt liecības;
 5) iesniegt materiālus, kas sagatavoti, lai izskatītu jautājumu par sprieduma izpildi;
 6) iesniegt sūdzības par tiesneša lēmumiem.
-(2) Izskatot jautājumus, kas saistīti ar sprieduma izpildi attiecībā uz notiesātajiem, kuri nav sasnieguši 18 gadu vecumu, kā arī notiesātajiem, kuriem ir fiziski vai psihiski trūkumi, aizstāvja piedalīšanās ir obligāta.
+(2) Izskatot jautājumus, kas saistīti ar sprieduma izpildi, šā likuma 83.panta pirmajā daļā noteiktajos gadījumos aizstāvja piedalīšanās ir obligāta.

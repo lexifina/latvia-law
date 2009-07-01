@@ -7,5 +7,5 @@
 3) pret personu pēdējo piecu gadu laikā kriminālprocess nav izbeigts, nosacīti atbrīvojot no kriminālatbildības;
 4) šādai procesa izbeigšanai piekrīt amatā augstāks prokurors un izdara par to atzīmi kriminālprocesa reģistrā.
 (4) Kriminālprocesa izbeigšana pieļaujama tikai ar apsūdzētā brīvprātīgu un nepārprotami izteiktu piekrišanu.
-(5) Izbeidzot kriminālprocesu, nosacīti atbrīvojot no kriminālatbildības, prokurors nosaka pārbaudes laiku no trim līdz astoņpadsmit mēnešiem.
+(5) Izbeidzot kriminālprocesu, nosacīti atbrīvojot no kriminālatbildības, prokurors nosaka pārbaudes laiku atbilstoši Krimināllikumā noteiktajam.
 (6) Izbeidzot kriminālprocesu, nosacīti atbrīvojot no kriminālatbildības, prokurors var uzlikt apsūdzētajam Krimināllikumā paredzētos pienākumus.

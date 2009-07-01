@@ -1,3 +1,3 @@
-650.pants. Tiesas, kas izlemj ar sprieduma izpildi saistītos jautājumus
-(1) Jautājumus, kuri saistīti ar spriedumā noteiktā soda izpildi, kā arī šaubas un neskaidrības, kas rodas, izpildot spriedumu, pēc sprieduma izpildes iestādes vai prokurora iesnieguma izlemj tās tiesas tiesnesis, kura taisījusi spriedumu.
-(2) Ja spriedums tiek izpildīts ārpus tās tiesas darbības rajona, kura taisījusi spriedumu, pēc sprieduma izpildes iestādes vai prokurora iesnieguma šos jautājumus izlemj tās tāda paša līmeņa tiesas tiesnesis, kuras darbības rajonā notiesātais izcieš sodu.
+650.pants. Tiesas, kas izlemj ar sprieduma un lēmuma izpildi saistītos jautājumus
+(1) Jautājumus, kuri saistīti ar spriedumā noteiktā soda izpildi, kā arī šaubas un neskaidrības, kas rodas, izpildot tiesas nolēmumu, pēc nolēmuma izpildes iestādes vai prokurora iesnieguma izlemj tās pirmās instances tiesas tiesnesis, kura pieņēmusi nolēmumu, izņemot šā likuma 638., 642. un 647.pantā minētos gadījumus.
+(2) Ja nolēmums tiek izpildīts ārpus tās tiesas darbības teritorijas, kura to pieņēmusi, šā panta pirmajā daļā minētos jautājumus izlemj tās tāda paša līmeņa tiesas tiesnesis, kuras darbības teritorijā notiesātais izcieš sodu.

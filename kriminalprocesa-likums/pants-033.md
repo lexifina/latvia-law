@@ -11,8 +11,8 @@
 1) iepazīties ar krimināllietas materiāliem;
 2) pieprasīt no procesa virzītāja ekspertīzes veikšanai nepieciešamo papildu informāciju un materiālus;
 3) atteikties izdarīt ekspertīzi (dot atzinumu), ja iesniegtie materiāli nav pietiekami vai uzdotie jautājumi pārsniedz viņa kompetenci;
-4) saņemt to izdevumu atlīdzību, kas radušies sakarā ar ierašanos pēc procesa virzītāja aicinājuma.
-(4) Ekspertam ir tiesības veikt tikai lēmumā noteikto ekspertīzi un sniegt atbildes uz uzdotajiem jautājumiem. Ja eksperts uzskata, ka, izmantojot speciālās zināšanas, var iegūt kriminālprocesam svarīgas ziņas, par kurām jautājums nav uzdots, viņš rakstveidā informē par to procesa virzītāju.
+4) ar procesa virzītāja atļauju vai starpniecību uzdot jautājumus ekspertīzes priekšmeta robežās personām, kas tiek nopratinātas.
+(4) Ekspertam ir tiesības veikt procesa virzītāja vai izmeklēšanas grupas dalībnieka noteikto ekspertīzi un sniegt atbildes uz uzdotajiem jautājumiem. Ja eksperts uzskata, ka, izmantojot speciālās zināšanas, var iegūt kriminālprocesam svarīgas ziņas, par kurām jautājums nav uzdots, viņš rakstveidā informē par to procesa virzītāju.
 (5) Eksperts savus pienākumus veic:
 1) pēc procesa virzītāja dotā norādījuma, kas fiksēts tās izmeklēšanas darbības protokolā, kurā piedalās eksperts;
 2) saskaņā ar procesuālo lēmumu par ekspertīzes noteikšanu.

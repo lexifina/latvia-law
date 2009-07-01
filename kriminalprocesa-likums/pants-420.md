@@ -3,4 +3,4 @@
 (2) Lai iegūtu personu raksturojošus datus, prokurors var pieprasīt no Valsts probācijas dienesta izvērtēšanas ziņojumu.
 (3) Ja viena persona izdarījusi vairākus noziedzīgus nodarījumus, priekšrakstu par sodu var piemērot tikai par visiem tās noziedzīgiem nodarījumiem.
 (4) Ja par vienu noziedzīgu nodarījumu apsūdzētas vairākas personas, priekšrakstu par sodu var piemērot personai, kurai šāda piemērošana iespējama saskaņā ar šo likumu.
-(5) Prokurors priekšrakstu par sodu sastāda, ja apsūdzētais savu vainu atzīst, ir kompensējis cietušajam radīto kaitējumu un piekrīt kriminālprocesa izbeigšanai, piemērojot viņam sodu.
+(5) Prokurors priekšrakstu par sodu sastāda, ja apsūdzētais savu vainu atzīst, ir kompensējis cietušajam radīto kaitējumu, kā arī atlīdzinājis valsts izmaksāto kompensāciju un piekrīt kriminālprocesa pabeigšanai, piemērojot viņam sodu.

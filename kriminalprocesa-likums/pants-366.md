@@ -5,6 +5,7 @@
 3) procesa virzītājs izbeidz kriminālprocesu ar reabilitējošu lēmumu;
 4) kriminālprocesā nav pieprasīta kaitējuma kompensācija vai cietušais to atsaucis;
 5) noziedzīgs nodarījums pārkvalificēts pēc cita Krimināllikuma panta, kas neparedz mantas konfiskāciju;
+5¹) arestēto mantu ar procesa virzītāja atļauju Civilprocesa likumā noteiktajā kārtībā tiesu izpildītājs pārdevis, lai veiktu nolēmuma izpildi;
 6) zudis jebkurš cits iemesls mantisko jautājumu risinājuma nodrošināšanai.
 (2) Procesa virzītājs var saglabāt arestu tādai mantas daļai, kas var būt nepieciešama procesuālo izdevumu segšanai.
 (3) Par aresta noņemšanu procesa virzītājs pēc nolēmuma spēkā stāšanās nekavējoties paziņo arī attiecīgajam publiskajam reģistram, kurā reģistrētas tiesības uz šo mantu.

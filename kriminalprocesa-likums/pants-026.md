@@ -1,5 +1,5 @@
 26.pants. Pilnvaras veikt kriminālprocesu
-(1) Pilnvaras veikt kriminālprocesu valsts vārdā ir tikai šajā likumā noteikto iestāžu amatpersonām, kurām tās piešķirtas sakarā ar ieņemamo amatu vai iestāžu vadītāju rīkojumiem.
+(1) Pilnvaras veikt kriminālprocesu valsts vārdā ir tikai šajā likumā noteikto iestāžu amatpersonām, kurām tās piešķirtas sakarā ar šo personu ieņemamo amatu, iestādes vadītāja rīkojumu vai kriminālprocesa virzītāja lēmumu.
 (2) Konkrētajā kriminālprocesā pilnvaras ir:
 1) procesa virzītājam;
 2) izmeklēšanas grupas dalībniekam;

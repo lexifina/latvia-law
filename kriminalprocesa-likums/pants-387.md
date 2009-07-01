@@ -5,7 +5,7 @@
 (4) Militārās policijas pilnvarotas amatpersonas izmeklē militārajā dienestā un militārajās vienībās vai to dislokācijas vietās izdarītus noziedzīgus nodarījumus, kā arī noziedzīgus nodarījumus, ko izdarījuši karavīri, zemessargi, militārajās vienībās strādājošas civilpersonas saistībā ar savu dienesta pienākumu izpildi.
 (5) Ieslodzījuma vietu pārvaldes pilnvarotas amatpersonas izmeklē noziedzīgus nodarījumus, ko izdarījuši apcietinātie vai notiesātie, kā arī Ieslodzījuma vietu pārvaldes darbinieki ieslodzījuma vietās.
 (6) Korupcijas novēršanas un apkarošanas biroja pilnvarotas amatpersonas izmeklē noziedzīgus nodarījumus, kuri saistīti ar politisko organizāciju (partiju) un to apvienību finansēšanas noteikumu pārkāpumiem, kā arī noziedzīgus nodarījumus valsts institūciju dienestā, ja tie ir saistīti ar korupciju.
-(7) Muitas iestāžu pilnvarotas amatpersonas izmeklē kontrabandas lietas.
+(7) Muitas iestāžu pilnvarotas amatpersonas izmeklē noziedzīgus nodarījumus muitas lietu jomā.
 (8) Valsts robežsardzes pilnvarotas amatpersonas izmeklē noziedzīgus nodarījumus, kas saistīti ar valsts robežas nelikumīgu šķērsošanu, personas nelikumīgu pārvietošanu pāri valsts robežai vai nelikumīgu uzturēšanos valstī, kā arī robežsarga kā valsts amatpersonas izdarītus noziedzīgus nodarījumus.
 (9) Tālbraucienos esošu jūras kuģu kapteiņi izmeklē uz Latvijas Republikas kuģiem izdarītus noziedzīgus nodarījumus.
 (10) Ārvalsts teritorijā esošas Latvijas Nacionālo bruņoto spēku vienības komandieris izmeklē noziedzīgus nodarījumus, ko izdarījuši šīs vienības karavīri vai kas izdarīti šīs vienības dislokācijas vietā (uzturēšanās vietas slēgtajā teritorijā), ja vien šos nodarījumus neizmeklē attiecīgās ārvalsts izmeklēšanas iestādes.
