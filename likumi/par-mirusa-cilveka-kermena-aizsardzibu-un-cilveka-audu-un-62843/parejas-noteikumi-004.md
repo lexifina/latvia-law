@@ -1,0 +1,1 @@
+4. Speciālās atļaujas (licences) kremācijas veikšanai, kuras komersantiem izsniegtas līdz 2009.gada 30.jūnijam, ir derīgas līdz attiecīgās licences termiņa beigām, bet ne ilgāk kā līdz 2010.gada 1.jūlijam.
