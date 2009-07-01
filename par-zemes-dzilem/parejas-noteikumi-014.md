@@ -1,0 +1,1 @@
+14. Grozījumi šā likuma 4.panta trešajā un piektajā daļā, 5.panta pirmajā daļā, 10.panta pirmajā un vienpadsmitajā daļā, 11.panta otrajā daļā, 14.panta 4. un 10.punktā, 16.panta ceturtajā daļā, 17.panta otrajā daļā un 23.panta otrajā daļā par kompetentās institūcijas maiņu stājas spēkā 2009.gada 1.augustā.

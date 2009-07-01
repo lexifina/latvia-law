@@ -2,7 +2,7 @@
 (1) Uzsākt zemes dzīļu izmantošanu drīkst tikai tad, ja Ministru kabineta noteiktajā kārtībā (izņemot šā likuma 11.pantā minētos gadījumus) saņemta:
 1) vietējās pašvaldības izsniegta atļauja - šā likuma 4.panta piektajā daļā noteiktajos gadījumos;
 2) Ekonomikas ministrijas izsniegta licence - šā likuma 4.panta ceturtajā daļā noteiktajos gadījumos;
-3) Latvijas Vides, ģeoloģijas un meteoroloģijas aģentūras izsniegta licence:
+3) Valsts vides dienesta izsniegta licence:
 a) gadījumā, kad bieži sastopamo derīgo izrakteņu atradne ietilpst vairāku pašvaldību administratīvajā teritorijā,
 b) gadījumā, kad derīgo izrakteņu atradnē papildus bieži sastopamajiem derīgajiem izrakteņiem ir akceptēti citu derīgo izrakteņu krājumi,
 c) visos pārējos gadījumos.
@@ -15,4 +15,5 @@ c) visos pārējos gadījumos.
 (8) Zemes dzīļu valsts nozīmes nogabalu izmantošanas noteikumus katram nogabalam atsevišķi nosaka Ministru kabinets.
 (9) Pazemes ūdeņus drīkst izmantot tad, ja saņemta ūdens resursu lietošanas atļauja, A vai B kategorijas piesārņojošās darbības atļauja vai C kategorijas piesārņojošās darbības apliecinājums saskaņā ar vides aizsardzības normatīvajiem aktiem.
 (10) Derīgo izrakteņu ieguves atļauju un zemes dzīļu izmantošanas licenču izsniegšanas konkursa vai izsoles vispārējo kārtību, kā arī ogļūdeņražu meklēšanas, izpētes un ieguves darbu licencēšanas kārtību nosaka Ministru kabinets.
-(11) Lai uzsāktu derīgo izrakteņu (izņemot ogļūdeņražus) ieguvi, saņemama Latvijas Vides, ģeoloģijas un meteoroloģijas aģentūras sagatavota atradnes pase. Pases saturu nosaka Ministru kabinets.
+(11) Lai uzsāktu derīgo izrakteņu (izņemot ogļūdeņražus) ieguvi, saņemama Valsts vides dienesta sagatavota atradnes pase. Pases saturu nosaka Ministru kabinets.
+(12) Par ogļūdeņražu ieguvi maksājama valsts nodeva. Nodevas apmēru, aprēķināšanas un maksāšanas kārtību nosaka Ministru kabinets.
