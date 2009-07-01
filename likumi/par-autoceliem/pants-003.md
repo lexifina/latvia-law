@@ -7,7 +7,7 @@
 (1¹) Šā likuma izpratnē ar terminu "komersantu ceļi" saprotami arī ceļi, kas pieder uzņēmumiem (uzņēmējsabiedrībām) kā tiesību subjektiem, kā arī citām privāto tiesību juridiskajām personām.
 (2) Māju ceļš nesavieno citus augstāka līmeņa ceļus.
 (3) Valsts autoceļi iedalāmi:
-1) galvenajos autoceļos, kas valsts autoceļu tīklu savieno ar citu valstu galveno ceļu tīklu un galvaspilsētu - ar nozīmīgākajiem rajonu administratīvajiem centriem;
-2) 1.šķiras autoceļos, kas rajonu administratīvos centrus, kā arī citus valsts nozīmes administratīvos, saimnieciskos un kultūras centrus savieno savā starpā vai ar rajonu administratīvajiem centriem, vai ar galvenajiem vai 1.šķiras autoceļiem;
-3) 2.šķiras autoceļos, kas pagastu vai novadu administratīvos centrus savieno savā starpā vai ar rajonu administratīvajiem centriem, vai ar citām vietējās nozīmes apdzīvotām vietām, saimnieciskajiem un kultūras centriem, vai ar valsts autoceļiem.
-(4) Valsts autoceļu un valsts autoceļu maršrutā ietverto pašvaldībām piederošo autoceļu posmu sarakstus nosaka Ministru kabinets.
+1) galvenajos autoceļos, kas valsts autoceļu tīklu savieno ar citu valstu galvenās nozīmes autoceļu tīklu un galvaspilsētu - ar pārējām republikas pilsētām vai kas ir republikas pilsētu apvedceļi;
+2) reģionālajos autoceļos, kas novadu administratīvos centrus savieno savā starpā vai ar republikas pilsētām vai galvaspilsētu, vai ar galvenajiem vai reģionālajiem autoceļiem vai savā starpā republikas pilsētas;
+3) vietējos autoceļos, kas novada administratīvos centrus savieno ar novada pilsētām, novada apdzīvotām teritorijām, kurās atrodas pagastu pārvaldes, ciemiem vai citiem valsts autoceļiem vai savā starpā atsevišķu novadu administratīvos centrus.
+(4) (Izslēgta ar 18.12.2008. likumu.)
