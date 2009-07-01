@@ -1,0 +1,1 @@
+13. Grozījumi attiecībā uz naudas soda izpildes izslēgšanu no Latvijas Sodu izpildes kodeksa un 55.panta papildināšanu ar piekto daļu attiecas uz tiesas spriedumiem, kas stājušies spēkā pēc 2009.gada 1.jūlija.

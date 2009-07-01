@@ -1,1 +1,1 @@
-2. Līdz 2010.gada 1.martam apstākļus, kādos tiek turēta persona, kurai tiesa neizciesto sodu - piespiedu darbu vai naudas sodu - aizstāj ar arestu, pielīdzina to notiesāto turēšanas apstākļiem, kuri sodu izcieš daļēji slēgtā cietumā soda izciešanas režīma zemākajā pakāpē.
+2. Līdz 2010.gada 1.martam apstākļus, kādos tiek turēta persona, kurai tiesa neizciesto sodu - piespiedu darbu vai naudas sodu - aizstāj ar arestu, pielīdzina to notiesāto turēšanas apstākļiem, kuri sodu izcieš daļēji slēgtā cietumā soda izciešanas režīma vidējā pakāpē.

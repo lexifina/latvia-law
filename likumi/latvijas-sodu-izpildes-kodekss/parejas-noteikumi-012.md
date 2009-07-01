@@ -1,0 +1,1 @@
+12. Grozījumi šā likuma 71.panta piektajā un sestajā daļā attiecībā uz notiesātajiem uzlikto sodu pārsūdzēšanu neattiecas uz lietām, kurās Administratīvā rajona tiesa spriedumu pieņēmusi līdz šo grozījumu spēkā stāšanās dienai. Šajās lietās spriedums pārsūdzams Administratīvā procesa likumā noteiktajā kārtībā.
