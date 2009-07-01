@@ -17,5 +17,5 @@
 8. Kopīpašumā esošas valsts vai pašvaldību mantas privatizācijas īpatnības nosaka šā likuma V daļas noteikumi.
 9. Valsts vai pašvaldības kapitālsabiedrības likvidācija notiek likumos noteiktajā kārtībā.
 10. (Izslēgta ar 22.06.2005. likumu.)
-11. Ja privatizējamais valsts vai pašvaldības kapitālsabiedrība ir atzīta par bankrotējušu, tad, likvidācijas procesā pārdodot šā kapitālsabiedrības nekustamo īpašumu, minimālais izsoles izsludināšanas termiņš ir viens mēnesis.
-12. Ja privatizējamais valsts vai pašvaldības kapitālsabiedrība tiek pasludināta par maksātnespējīgu, šīs kapitālsabiedrības maksātnespējas process notiek saskaņā ar likumu "Par uzņēmumu un uzņēmējsabiedrību maksātnespēju".
+11. Ja ir pieņemts lēmums par privatizējamās valsts vai pašvaldības kapitālsabiedrības bankrota procedūras uzsākšanu, tad, likvidācijas procesā pārdodot šīs kapitālsabiedrības nekustamo īpašumu, minimālais izsoles izsludināšanas termiņš ir viens mēnesis.
+12. Ja privatizējamais valsts vai pašvaldības kapitālsabiedrība tiek pasludināta par maksātnespējīgu, šīs kapitālsabiedrības maksātnespējas process notiek saskaņā ar Maksātnespējas likumu.

@@ -1,0 +1,1 @@
+12. Ja valsts kapitālsabiedrības maksātnespējas process uzsākts pirms 2003.gada 1.janvāra, Privatizācijas aģentūra veic valsts kapitālsabiedrības administratora pienākumus likumā "Par uzņēmumu un uzņēmējsabiedrību maksātnespēju" noteiktajā kārtībā.
