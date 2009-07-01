@@ -1,3 +1,3 @@
 13. pants. Ziedoto finanšu līdzekļu un dāvinātās mantas izlietošanas kontrole
 (1) Valsts kontrolei ir tiesības pārbaudīt, kā fiziskās un juridiskās personas ir izlietojušas finanšu līdzekļus un mantu, ko tām dāvinājušas (ziedojušas) valsts vai pašvaldību kapitālsabiedrības vai kapitālsabiedrības, kuru pamatkapitālā ir valsts vai pašvaldības daļa.
-(2) Attiecīgās pašvaldības domes (padomes) revīzijas komisijai ir tiesības pārbaudīt, kā fiziskās un juridiskās personas ir izlietojušas finanšu līdzekļus vai mantu, ko tām dāvinājušas (ziedojušas) pašvaldības kapitālsabiedrības vai kapitālsabiedrības, kurās ir attiecīgās pašvaldības kapitāla daļa.
+(2) Attiecīgās pašvaldības domes revīzijas komisijai ir tiesības pārbaudīt, kā fiziskās un juridiskās personas ir izlietojušas finanšu līdzekļus vai mantu, ko tām dāvinājušas (ziedojušas) pašvaldības kapitālsabiedrības vai kapitālsabiedrības, kurās ir attiecīgās pašvaldības kapitāla daļa.
