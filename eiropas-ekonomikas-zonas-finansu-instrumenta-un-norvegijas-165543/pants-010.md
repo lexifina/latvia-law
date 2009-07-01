@@ -3,7 +3,7 @@
 1) Vides ministrija - prioritātēs "Vides aizsardzība" un "Ilgtspējīga attīstība";
 2) Kultūras ministrija - prioritātē "Eiropas kultūras mantojuma saglabāšana";
 3) Veselības ministrija - prioritātē "Veselība";
-4) Bērnu un ģimenes lietu ministrija - prioritātē "Bērni ar īpašām vajadzībām (bērni invalīdi)";
+4) Labklājības ministrija - prioritātē "Bērni ar īpašām vajadzībām (bērni invalīdi)";
 5) Izglītības un zinātnes ministrija - prioritātēs "Cilvēkresursu attīstība un izglītība" un "Akadēmiskie pētījumi";
 6) Iekšlietu ministrija - prioritātē "Šengena";
 7) Tieslietu ministrija - prioritātēs "Tieslietas" un "Tehniskā palīdzība", kas paredzēta Kopienas tiesību kopuma (acquis communautaire) ieviešanai;

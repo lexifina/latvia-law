@@ -6,7 +6,7 @@
 (3) Kompetentās nozares ministrijas pienākumus veic šādas tiešās pārvaldes iestādes:
 1) Ārlietu ministrija;
 2) Ekonomikas ministrija;
-3) Īpašu uzdevumu ministra sabiedrības integrācijas lietās sekretariāts;
+3) Tieslietu ministrija;
 4) Zemkopības ministrija;
 5) šā likuma 10.panta pirmajā daļā minētās tiešās pārvaldes iestādes, kuras neveic starpniekinstitūcijas funkcijas attiecīgajā prioritātē.
 (4) Kompetentajai nozares ministrijai ir šādas tiesības:
