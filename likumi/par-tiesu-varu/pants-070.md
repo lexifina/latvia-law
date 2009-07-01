@@ -1,4 +1,4 @@
-70. pants. Tiesneša un tiesas piesēdētāja zvēresta došanas kārtība
-(1) Tiesnesis un tiesas piesēdētājs svinīgos apstākļos nolasa zvēresta tekstu. To paraksta katrs tiesnesis vai tiesas piesēdētājs, kā arī amatpersona, kas zvērestu pieņem.
-(2) Tiesnesis dod zvērestu, tērpies mantijā.
-(3) Pēc zvēresta pieņemšanas valsts prezidents izsniedz tiesnesim amata zīmi.
+70. pants. Tiesneša svinīgā solījuma došanas kārtība
+(1) Tiesnesis nolasa svinīgā solījuma tekstu. To paraksta tiesnesis, kas devis svinīgo solījumu, kā arī valsts prezidents.
+(2) Tiesnesis dod svinīgo solījumu, tērpies mantijā.
+(3) Pēc svinīgā solījuma pieņemšanas valsts prezidents izsniedz tiesnesim amata zīmi.
