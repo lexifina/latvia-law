@@ -1,6 +1,6 @@
 4.pants. (1) Valsts mantas atsavināšanu var ierosināt, ja tā nav nepieciešama attiecīgajai iestādei vai citām valsts iestādēm to funkciju nodrošināšanai. Pašvaldības mantas atsavināšanu var ierosināt, ja tā nav nepieciešama attiecīgās pašvaldības iestādēm to funkciju nodrošināšanai.
 (2) Valsts vai pašvaldības mantas atsavināšanu var ierosināt attiecīgās iestādes vadītājs, kā arī cita institūcija (amatpersona), kuras valdījumā vai turējumā atrodas valsts vai pašvaldības manta.
-(3) Kārtību, kādā noskaidro iestāžu vajadzību pēc citām iestādēm nevajadzīgās mantas, kā arī mantas turētāja maiņas kārtību attiecībā uz valsts mantu nosaka Ministru kabinets, bet attiecībā uz pašvaldības mantu - attiecīgā dome (padome).
+(3) Kārtību, kādā noskaidro iestāžu vajadzību pēc citām iestādēm nevajadzīgās mantas, kā arī mantas turētāja maiņas kārtību attiecībā uz valsts mantu nosaka Ministru kabinets, bet attiecībā uz pašvaldības mantu - attiecīgā dome.
 (4) Atsevišķos gadījumos valsts vai pašvaldības nekustamā īpašuma atsavināšanu var ierosināt šādas personas:
 1) zemes īpašnieks vai visi kopīpašnieki, ja viņi vēlas nopirkt zemesgrāmatā ierakstītu ēku (būvi), kas atrodas uz īpašumā esošās zemes, vai zemes starpgabalu, kas piegul viņu zemei;
 2) zemes kopīpašnieks, ja viņš vēlas nopirkt zemesgrāmatā ierakstītu ēku (būvi), kas atrodas uz kopīpašumā esošās zemes, vai domājamo daļu no tās samērīgi savai zemes daļai;

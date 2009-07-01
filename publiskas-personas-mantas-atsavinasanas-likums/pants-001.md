@@ -7,7 +7,7 @@
 6) nosacītā cena - nekustamā īpašuma vērtība, kas noteikta atbilstoši Standartizācijas likumā paredzētajā kārtībā apstiprinātajiem Latvijas īpašuma vērtēšanas standartiem, vai kustamās mantas vērtība, kas noteikta, ņemot vērā tās atlikušo bilances vērtību pēc grāmatvedības uzskaites datiem;
 7) pārdošana par brīvu cenu - mantas pārdošana par atsavinātāja noteiktu cenu, kas nav zemāka par nosacīto cenu;
 8) slepenā cena - cena, par kuru lētāk izsolē ar lejupejošu soli mantu nedrīkst pārdot;
-9) valsts vai pašvaldības iestāde (turpmāk arī - iestāde) - Valsts prezidenta kanceleja, Saeimas Kanceleja, Valsts kanceleja, Latvijas Banka, Valsts kontrole, visas valsts pārvaldes iestādes, pašvaldību domes (padomes), tiesu un prokuratūras iestādes, kā arī citas valsts vai pašvaldību iestādes;
+9) valsts vai pašvaldības iestāde (turpmāk arī - iestāde) - Valsts prezidenta kanceleja, Saeimas Kanceleja, Valsts kanceleja, Latvijas Banka, Valsts kontrole, visas valsts pārvaldes iestādes, pašvaldību domes, tiesu un prokuratūras iestādes, kā arī citas valsts vai pašvaldību iestādes;
 10) valsts vai pašvaldības manta - valsts vai pašvaldības īpašumā esoša manta, kas atrodas valsts vai pašvaldības iestādes, aģentūras vai kapitālsabiedrības valdījumā vai turējumā;
 11) zemes starpgabals - valstij vai pašvaldībai piederošs zemesgabals, kura platība:
 a) pilsētā ir mazāka par pašvaldības apstiprinātajos apbūves noteikumos paredzēto minimālo apbūves gabala platību vai kura konfigurācija nepieļauj attiecīgā zemesgabala izmantošanu apbūvei, vai kuram nav iespējams nodrošināt pieslēgumu koplietošanas ielai,
