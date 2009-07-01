@@ -1,0 +1,1 @@
+8. Grozījums šā likuma 65.panta otrajā daļā par brīvības atņemšanas soda termiņa samazināšanu un šā soda veida nepiemērošanu attiecas uz nepilngadīgajiem, kuri noziedzīgu nodarījumu izdarījuši pēc šā grozījuma spēkā stāšanās.
