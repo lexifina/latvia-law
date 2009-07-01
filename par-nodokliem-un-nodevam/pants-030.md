@@ -7,6 +7,6 @@
 (3) Šā panta normas neattiecas uz:
 1) kredītiestāžu pakalpojumiem;
 2) skaidras naudas iemaksām kredītiestādēs šā panta pirmajā daļā minēto darījumu dalībnieku kontos.
-(4) Mazumtirdzniecībā veiktajos darījumos šā panta normas attiecināmas tikai uz preču pircēju.
+(4) Mazumtirdzniecībā veiktajos darījumos šā panta pirmajā un otrajā daļā noteiktais skaidrās naudas ierobežojums, kā arī skaidrā naudā veikto darījumu deklarēšanas pienākums attiecināms tikai uz preču pircēju.
 (5) Maksājumos par pakalpojumiem, kurus normatīvajos aktos noteiktajā kārtībā sniedz Ceļu satiksmes drošības direkcija, šā panta normas attiecināmas tikai uz pakalpojumu saņēmēju.
 (6) Šā panta piemērošanā par vairumtirdzniecību uzskatāma preču pārdošana savā vārdā saimnieciskās darbības veicējam tālākpārdošanai, ražošanai vai savas darbības nodrošināšanai. Šā panta piemērošanā par mazumtirdzniecību uzskatāma preču pārdošana gala patēriņam vai izmantošanai.
