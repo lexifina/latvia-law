@@ -1,0 +1,1 @@
+14. Grozījums likuma 12.panta otrajā daļā attiecībā uz tās papildināšanu ar 15.punktu un grozījumi likuma 12.panta ceturtajā daļā attiecībā uz tās izteikšanu jaunā redakcijā stājas spēkā 2009.gada 1.decembrī.

@@ -1,2 +1,3 @@
 15.pants. Strīdu izskatīšanas kārtība
-Aģentūras amatpersonu izdotos administratīvos aktus un faktisko rīcību persona var apstrīdēt mēneša laikā no administratīvā akta spēkā stāšanās dienas, iesniedzot attiecīgu iesniegumu Aģentūras direktoram. Aģentūras direktora lēmumu var pārsūdzēt tiesā mēneša laikā no tā spēkā stāšanās dienas.
+(1) Aģentūras amatpersonu izdotos administratīvos aktus un faktisko rīcību persona var apstrīdēt mēneša laikā no administratīvā akta spēkā stāšanās dienas, iesniedzot attiecīgu iesniegumu Aģentūras direktoram. Aģentūras direktora lēmumu var pārsūdzēt tiesā mēneša laikā no tā spēkā stāšanās dienas.
+(2) Komisijas administratīvo aktu, kas izdots saskaņā ar šo likumu, var pārsūdzēt Administratīvajā apgabaltiesā. Tiesa lietu izskata kā pirmās instances tiesa. Lieta tiek izskatīta triju tiesnešu sastāvā. Administratīvās apgabaltiesas spriedumu var pārsūdzēt, iesniedzot kasācijas sūdzību.
