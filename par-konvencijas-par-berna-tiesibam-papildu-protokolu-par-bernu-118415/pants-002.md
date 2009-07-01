@@ -1,1 +1,1 @@
-2.pants. Bērnu un ģimenes lietu ministrija koordinē Protokolā paredzēto saistību izpildi.
+2.pants. Labklājības ministrija koordinē Protokolā paredzēto saistību izpildi.
