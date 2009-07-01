@@ -1,0 +1,1 @@
+26. No 2009.gada 1.jūlija līdz 2012.gada 31.decembrim šā likuma 381.panta pirmajā un otrajā daļā paredzētajā gadījumā Valsts probācijas dienesta apmācīts starpnieks iesaistās tikai pirmstiesas kriminālprocesa laikā. Līdz 2009.gada 1.jūlijam uzsāktajos izlīguma gadījumos Valsts probācijas dienesta apmācīts starpnieks iztiesāšanas laikā piedalās līdz 2009.gada 1.augustam.

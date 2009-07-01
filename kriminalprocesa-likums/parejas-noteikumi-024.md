@@ -1,0 +1,1 @@
+24. Prokurors un tiesa no 2009.gada 1.jūlija līdz 2012.gada 31.decembrim pieprasa un Valsts probācijas dienests sniedz izvērtēšanas ziņojumu tikai par tām personām, kuras apsūdzētas noziedzīga nodarījuma izdarīšanā pret dzimumneaizskaramību un tikumību, kā arī par apsūdzētajiem, kuri noziedzīga nodarījuma izdarīšanas brīdī bija nepilngadīgi.

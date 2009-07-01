@@ -1,7 +1,5 @@
-447.pants. Krimināllietas vienpersoniska un koleģiāla izskatīšana
-(1) Pirmās instances tiesā krimināllietu izskata tiesnesis vienpersoniski, izņemot šā panta otrajā un trešajā daļā minētos gadījumus.
-(2) Pirmās instances tiesā tiesnesis un divi piesēdētāji koleģiāli izskata krimināllietas par:
-1) sevišķi smagu noziegumu;
-2) smagu noziegumu, ja prokurors, apsūdzētais vai viņa aizstāvis rakstveidā prasa krimināllietas koleģiālu izskatīšanu.
-(3) Pirmās instances tiesas tiesnesis var noteikt lietas koleģiālu izskatīšanu arī tad, ja krimināllieta ir sevišķi sarežģīta.
-(4) Apelācijas un kasācijas instances tiesā krimināllietu izskata koleģiāli.
+447.pants. Krimināllietas vienpersoniska un koleģiāla iztiesāšana
+(1) Pirmās instances tiesā krimināllietu iztiesā tiesnesis vienpersoniski.
+(2) (Izslēgta ar 16.06.2009. likumu.)
+(3) Ja lieta ir sevišķi sarežģīta, pirmās instances tiesas priekšsēdētājs var noteikt krimināllietas koleģiālu iztiesāšanu. Šādā gadījumā krimināllieta iztiesājama triju pirmās instances tiesas tiesnešu sastāvā.
+(4) Apelācijas un kasācijas instances tiesā krimināllietu iztiesā koleģiāli.
