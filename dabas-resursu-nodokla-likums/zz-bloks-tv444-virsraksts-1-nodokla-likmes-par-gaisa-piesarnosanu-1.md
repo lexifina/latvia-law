@@ -6,7 +6,7 @@ nība
 Likme laikposmā no 2006.gada 1.janvāra līdz 2006.gada 31.decembrim (Ls)
 Likme laikposmā no 2007.gada 1.janvāra līdz 2007.gada 31.decembrim (Ls)
 Likme laikposmā no 2008.gada 1.janvāra līdz 2008.gada 30.jūnijam (Ls)
-Likme laikposmā no 2008.gada 1.jūlija (Ls)
+Likme laikposmā no 2008.gada 1.jūlija līdz 2009.gada 30.jūnijam (Ls)
 1.
 Oglekļa dioksīda (CO2) emisija no stacionāras tehnoloģiskas iekārtas (izņemot šā likuma 10.pantā noteiktos atbrīvojumus)
 t
