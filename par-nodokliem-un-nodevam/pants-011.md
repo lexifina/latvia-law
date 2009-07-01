@@ -36,7 +36,7 @@
 22) (izslēgts ar 12.12.2002. likumu);
 23) par būvprakses un arhitekta prakses sertifikātu reģistrāciju;
 24) par sabiedrisko pakalpojumu regulēšanu;
-25) par naftas ieguvi;
+25) par ogļūdeņražu ieguvi;
 26) par visu veidu šaujamieroču un speciālo līdzekļu atļauju izsniegšanu un to termiņa pagarināšanu (šīs atļaujas izsniedz Valsts policijas iestādes);
 27) par iekšējās drošības dienesta reģistrāciju;
 28) par azartspēļu iekārtu marķēšanu;
@@ -91,12 +91,12 @@
 75) par atļaujas izsniegšanu transportlīdzeklim dzīvnieku pārvadāšanai;
 76) par atļauju savvaļas dzīvnieku kolekcijas izveidei un darbībai;
 77) par cirka dzīvnieka, dresūras dzīvnieka, cirka un dresūras numura viesizrāžu vietas reģistrāciju;
-78) par lauksaimniecībā izmantojamās zemes transformācijas dokumentu sagatavošanu;
+78) (izslēgts ar 30.04.2009. likumu);
 79) par Meža likumā noteiktajām mežsaimnieciskajām darbībām;
 80) par sociālo pakalpojumu sniedzēja reģistrācijas apliecības un tās dublikāta izsniegšanu;
 81) par pārbaudījuma organizēšanu maksātnespējas procesa administratora kvalifikācijas iegūšanai;
 82) par maksātnespējas procesa administratora sertifikāta darbības termiņa pagarināšanu;
-83) par personas datu apstrādes ārējā auditora pirmreizēju akreditāciju, atkārtotu akreditāciju, akreditācijas termiņa pagarināšanu, akreditācijas apliecības dublikāta izsniegšanu un akreditācijas darbības atjaunošanu;
+83) (izslēgts ar 12.06.2009. likumu);
 84) (izslēgts ar 11.12.2008. likumu);
 85) par ietekmes uz vidi sākotnējā izvērtējuma veikšanu;
 86) par stratēģiskas nozīmes preču ekspertu izziņu, galīgā izlietojuma apliecinājumu, importa sertifikātu, piegādes kontroles sertifikātu un stratēģiskas nozīmes preču pārvietošanas, eksporta, importa un tranzīta licenču izsniegšanu;
@@ -106,4 +106,5 @@
 90) par ģenētiski modificēto organismu riska novērtējuma atzinuma sagatavošanu;
 91) par speciālās atļaujas (licences) izsniegšanu kremācijas veikšanai;
 92) par atļaujas izsniegšanu tādu pārtikas sastāvdaļu izmantošanai bioloģisko pārtikas produktu pārstrādē, kas nav iegūtas ar bioloģiskās lauksaimniecības ražošanas metodi;
-93) par bioloģiskās lauksaimniecības kontroles institūcijas atbilstības apliecinājuma izsniegšanu.
+93) par bioloģiskās lauksaimniecības kontroles institūcijas atbilstības apliecinājuma izsniegšanu;
+94) par ziņu par deklarēto dzīvesvietu reģistrāciju.
