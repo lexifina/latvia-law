@@ -3,7 +3,7 @@
 1) līdz 2006.gada 31.decembrim - zemi, ēkas un būves (turpmāk - nekustamais īpašums), izņemot šā panta otrajā daļā minēto nekustamo īpašumu;
 2) no 2007.gada 1.janvāra - zemi un ēkas (turpmāk - nekustamais īpašums), izņemot šā panta otrajā daļā minēto nekustamo īpašumu.
 (2) Ar nekustamā īpašuma nodokli neapliek:
-1) pašvaldības nekustamo īpašumu, kuru lieto pašvaldības dome (padome), kā arī tās izveidotās iestādes, kuras tiek finansētas no pašvaldības budžeta līdzekļiem un atrodas šīs pašvaldības administratīvajā teritorijā, kā arī citām personām iznomāto vai valdījumā nodoto pašvaldības nekustamo īpašumu, kurš tiek izmantots medicīnas vai sociālās aprūpes pakalpojumu sniegšanai;
+1) pašvaldības nekustamo īpašumu, kuru lieto pašvaldības dome, kā arī tās izveidotās iestādes, kuras tiek finansētas no pašvaldības budžeta līdzekļiem un atrodas šīs pašvaldības administratīvajā teritorijā, kā arī citām personām iznomāto vai valdījumā nodoto pašvaldības nekustamo īpašumu, kurš tiek izmantots medicīnas vai sociālās aprūpes pakalpojumu sniegšanai;
 1¹) (izslēgts ar 23.11.2000. likumu);
 2) ārvalstij piederošo nekustamo īpašumu, kurš tiek izmantots tās diplomātisko vai konsulāro pārstāvniecību vajadzībām, ja Latvijas Republika saskaņā ar attiecīgās ārvalsts likumiem bauda tādas pašas tiesības attiecībā uz Latvijai piederošo nekustamo īpašumu šajā ārvalstī;
 2¹) līdz 2006.gada 31.decembrim - koplietošanas satiksmes ceļus, ielas, gaisa un ūdens navigācijas būves un publiskos ūdeņus;
