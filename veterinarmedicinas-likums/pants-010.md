@@ -1,3 +1,3 @@
-10.pants. (1) Pārtikas un veterinārā dienesta pārtikas un veterinārie inspektori ir atbildīgi par izdoto rīkojumu, pieņemto lēmumu un veikto darbību atbilstību normatīvo aktu prasībām.
-(2) Pārtikas un veterinārā dienesta pārtikas un veterināro inspektoru rīkojumus un lēmumus var atcelt amatā augstāks inspektors. Valsts galvenā pārtikas un veterinārā inspektora rīkojumus un lēmumus var pārsūdzēt tiesā.
-(3) Ja ir aizdomas par dzīvnieku iespējamu saslimšanu ar infekcijas slimību vai pastāv draudi cilvēku vai dzīvnieku veselībai, pārtikas un veterinārā dienesta pārtikas un veterināro inspektoru rīkojumu un lēmumu apstrīdēšana un pārsūdzēšana neaptur to izpildi.
+10.pants. (1) Pārtikas un veterinārā dienesta valsts vecākie inspektori un valsts inspektori ir atbildīgi par izdoto rīkojumu, pieņemto lēmumu un veikto darbību atbilstību normatīvo aktu prasībām.
+(2) Pārtikas un veterinārā dienesta valsts vecāko inspektoru un valsts inspektoru rīkojumus un lēmumus var atcelt amatā augstāks inspektors. Valsts galvenā pārtikas un veterinārā inspektora rīkojumus un lēmumus var pārsūdzēt tiesā.
+(3) Ja ir aizdomas par dzīvnieku iespējamu saslimšanu ar infekcijas slimību vai pastāv draudi cilvēku vai dzīvnieku veselībai, pārtikas un veterinārā dienesta valsts vecāko inspektoru un valsts inspektoru rīkojumu un lēmumu apstrīdēšana un pārsūdzēšana neaptur to izpildi.

@@ -1,1 +1,1 @@
-4.¹ pants. Valsts galvenais pārtikas un veterinārais inspektors pilnvaro Pārtikas un veterinārā dienesta valsts vecākos veterināros inspektorus, valsts veterināros inspektorus, valsts vecākos sanitāros robežinspektorus, valsts sanitāros robežinspektorus veikt valsts uzraudzību un kontroli šā likuma 4.pantā minētajās jomās.
+4.¹ pants. Valsts galvenais pārtikas un veterinārais inspektors pilnvaro Pārtikas un veterinārā dienesta valsts vecākos inspektorus un valsts inspektorus veikt valsts uzraudzību un kontroli šā likuma 4.pantā minētajās jomās.

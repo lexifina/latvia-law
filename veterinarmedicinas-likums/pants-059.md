@@ -11,7 +11,7 @@ a) praktizējošam veterinārārstam par dzīvnieka nobeigšanos, abortiem, vair
 b) komersantiem, kuri nodarbojas ar blakusproduktu, kas nav paredzēti cilvēku patēriņam, savākšanu, par dzīvnieku nobeigšanās gadījumiem;
 9) nokaut dzīvniekus kautuvēs saskaņā ar prasībām, kas noteiktas regulā (EK) Nr. 853/2004;
 10) nodrošināt dzīvnieku līķu savākšanu normatīvajos aktos noteiktajā kārtībā;
-11) valsts uzraudzībā esošo dzīvnieku infekcijas slimību apkarošanas gadījumos pēc Pārtikas un veterinārā dienesta pārtikas un veterinārā inspektora vai praktizējoša veterinārārsta pieprasījuma:
+11) valsts uzraudzībā esošo dzīvnieku infekcijas slimību apkarošanas gadījumos pēc Pārtikas un veterinārā dienesta amatpersonas vai praktizējoša veterinārārsta pieprasījuma:
 a) uzrādīt dzīvniekus, kā arī dzīvnieku mītnes un veterināro dokumentāciju (diagnostisko izmeklējumu un vakcinācijas aktus, diagnostiski izmeklēto un vakcinēto dzīvnieku sarakstus, laboratorisko izmeklējumu rezultātus),
 b) pakļaut dzīvniekus infekcijas slimību diagnosticēšanai, ārstēšanai un profilakses pasākumiem,
 c) nodrošināt dzīvnieku mītņu un iekārtu dezinfekciju,
