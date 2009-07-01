@@ -19,9 +19,9 @@ a) numurs,
 b) adrese;
 10) kārtas numurs vēlēšanu iecirkņa vēlētāju sarakstā;
 11) ziņas par iekļaušanu Reģistrā vai izslēgšanu no tā;
-12) ziņas par kandidēšanu pilsētas domes, novada domes un pagasta padomes vēlēšanās:
+12) ziņas par kandidēšanu republikas pilsētas un novada domes vēlēšanās:
 a) kandidāta pieteikšanas datums,
-b) saraksta iesniedzējs - reģistrēta politiskā organizācija (partija) vai reģistrētu politisko organizāciju (partiju) reģistrēta apvienība, vai divas vai vairākas reģistrētas politiskās organizācijas (partijas), kuras nav apvienojušās reģistrētā politisko organizāciju (partiju) apvienībā, vai vēlētāju apvienības,
+b) saraksta iesniedzējs - reģistrēta politiskā partija vai reģistrētu politisko partiju reģistrēta apvienība, vai divas vai vairākas reģistrētas politiskās partijas, kuras nav apvienojušās reģistrētā politisko partiju apvienībā, vai vēlētāju apvienības,
 c) saraksta nosaukums,
 d) pašvaldības administratīvā teritorija, kurā kandidē;
 13) ziņas par kandidēšanu Eiropas Parlamenta vēlēšanās:
