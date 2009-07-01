@@ -1,5 +1,0 @@
-140.pants. Naudas soda piedziņas kārtība
-Pēc izpildraksta saņemšanas tiesu izpildītājs nosūta notiesātajam uz izpildrakstā norādīto dzīvesvietu vai izsniedz viņam pret parakstu priekšlikumu par pienākumu 10 dienu laikā samaksāt izpildrakstā norādīto naudas summu un sprieduma izpildes izdevumus vai izdarīt pirmo iemaksu līdz tiesas noteiktajam termiņam, ja tiesa sadalījusi sprieduma izpildīšanu termiņos.
-Notiesātais iesniedz tiesu izpildītājam attiecīgu kvīti vai citu bankas norēķinu dokumentu par naudas soda samaksāšanu vai paziņo viņam, ka iesniedzis tiesai lūgumu sadalīt sprieduma izpildīšanu termiņos vai atlikt naudas soda izpildi.
-Ja notiesātais noteiktajā 10 dienu termiņā naudas sodu nesamaksā, kā arī nav paziņojis tiesu izpildītājam par to, ka iesniedzis tiesai lūgumu sadalīt sprieduma izpildīšanu termiņos vai atlikt naudas soda izpildi, tiesu izpildītājs rakstveidā ierosina tiesai, kas piespriedusi naudas sodu, izlemt jautājumu par naudas soda aizstāšanu ar arestu vai brīvības atņemšanu Krimināllikumā noteiktajā kārtībā.
-Tiesu izpildītājs par sprieduma izpildi nekavējoties paziņo tiesai, kas taisījusi spriedumu.

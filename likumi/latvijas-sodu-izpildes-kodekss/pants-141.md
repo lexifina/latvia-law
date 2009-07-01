@@ -1,2 +1,0 @@
-141.pants. Naudas soda kā papildsoda piedziņas kārtība
-Ja piedzenams naudas sods, kas kā papildsods uzlikts notiesātajam ar brīvības atņemšanu, tiesas izpildrakstu par naudas soda piedziņu nosūta brīvības atņemšanas iestādes administrācijai, kas katru mēnesi no notiesātā darba algas ieturēto summu pārskaita tā tiesu izpildītāja depozīta kontā, kura darbības iecirknī atrodas brīvības atņemšanas iestāde.
