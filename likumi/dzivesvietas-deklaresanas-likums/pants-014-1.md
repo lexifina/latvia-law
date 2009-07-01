@@ -1,2 +1,0 @@
-14.¹ pants. Izdevumi par dzīvesvietas reģistrēšanu
-Ar dzīvesvietas reģistrēšanu saistītos izdevumus sedz no valsts budžeta. Ikgadējo izdevumu apjomu pašvaldībai nosaka saskaņā ar pašvaldības iepriekšējā gadā izlietotā apjoma prognozi dzīvesvietas reģistrēšanai. Ikgadējo izdevumu apjomu Iekšlietu ministrijai nosaka saskaņā ar Pārvaldes iepriekšējā gadā izlietotā apjoma prognozi dzīvesvietas reģistrēšanai.
