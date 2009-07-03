@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Pasta likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "96",
+  "official_journal_page": null,
+  "official_journal_date": "2009-06-19",
+  "entry_into_force": "2009-07-03",
+  "notification_date": "2010-07-08",
+  "commission_reference": "MNE(2010)54625",
+  "nim_celex": "72008L0006LVA_170386",
+  "nim_id": "170386",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/4be45dde-5822-47fe-9c5b-018886795bc5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
