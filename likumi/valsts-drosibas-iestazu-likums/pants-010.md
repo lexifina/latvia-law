@@ -9,4 +9,4 @@
 7) par valsts drošības jomā konstatētajiem noziedzīgiem nodarījumiem iegūtās informācijas un materiālu iesniegšana prokuratūrai vai izmeklēšanas iestādei, kuras kompetencē ir veikt pirmstiesas izmeklēšanu par konkrēto noziedzīgu nodarījumu;
 8) izmeklēšanas veikšana tām noteiktās kompetences ietvaros;
 9) sadarbība un līdzdalība starptautiskā miera uzturēšanā.
-(2) Visu sagatavoto informāciju, kas skar vai var skart valsts drošības intereses, valsts drošības iestādes nodod Informācijas analīzes dienestam, neatklājot ziņas par informācijas iegūšanas slepenajiem avotiem.
+(2) (Izslēgta ar 18.06.2009. likumu.)
