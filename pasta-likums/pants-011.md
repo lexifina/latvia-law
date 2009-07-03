@@ -1,0 +1,5 @@
+11.pants. Pasta pakalpojumu sniegšanas tiesību atņemšana
+(1) Ja gada laikā atkārtoti izdarīts vispārējās atļaujas noteikumu pārkāpums, Regulators var pasta komersantam uz laiku līdz pieciem gadiem atņemt tiesības sniegt pasta pakalpojumus. Regulators pasta komersantu reģistrā izdara ierakstu par to, ka attiecīgajam pasta komersantam atņemtas tiesības sniegt pasta pakalpojumus.
+(2) Komersants, kuram Regulators atņēmis tiesības sniegt pasta pakalpojumus, ir tiesīgs atsākt pasta pakalpojumu sniegšanu tikai pēc tam, kad beidzies Regulatora noteiktais pasta pakalpojumu sniegšanas tiesību aizliegums un novērsti vispārējās atļaujas noteikumu pārkāpumi.
+(3) Lai atsāktu pasta pakalpojumu sniegšanu, pasta komersants iesniedz Regulatoram šā likuma 8.pantā minēto reģistrācijas paziņojumu.
+(4) Ja vispārējās atļaujas noteikumu pārkāpumi nav novērsti vai reģistrācijas pieteikums Regulatoram iesniegts, pirms beidzies pasta pakalpojumu sniegšanas tiesību aizliegums, Regulators attiecīgo komersantu nereģistrē.

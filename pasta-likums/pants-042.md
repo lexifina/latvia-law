@@ -1,0 +1,3 @@
+42.pants. Pasta sūtījumu noslēpums un datu aizsardzība
+(1) Pasta komersanta darbiniekiem, kā arī muitas iestāžu amatpersonām un muitas brokeriem (tajā skaitā to darbiniekiem), kas piedalās nosūtāmo pasta sūtījumu muitošanā, aizliegts izpaust informāciju par lietotāju pasta sūtījumiem un ziņas par lietotājiem, izņemot gadījumus, kad šī informācija nepieciešama kompetentām valsts iestādēm normatīvajos aktos noteikto funkciju veikšanai.
+(2) Šā panta pirmajā daļā minētais aizliegums amatpersonai un darbiniekam paliek spēkā arī pēc tam, kad izbeigtas darba tiesiskās attiecības ar attiecīgo darba devēju.

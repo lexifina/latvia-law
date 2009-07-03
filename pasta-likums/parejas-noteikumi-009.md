@@ -1,0 +1,1 @@
+9. Līdz brīdim, kad Regulators saskaņā ar šā likuma 27.pantu nosaka pasta komersantam universālā pasta pakalpojuma saistības, bet ne agrāk kā 2012.gada 31.decembrī universālo pasta pakalpojumu visā Latvijas Republikas teritorijā sniedz pasta komersants, kam līdz šā likuma spēkā stāšanās dienai ir izsniegta individuālā licence vispārējo pasta pakalpojumu sniegšanai.

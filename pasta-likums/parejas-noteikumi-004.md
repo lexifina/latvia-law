@@ -1,0 +1,1 @@
+4. Šajā likumā lietotais termins "universālais pasta pakalpojums" atbilst citos tiesību aktos un individuālajā licencē lietotajam terminam "vispārējie pasta pakalpojumi", ciktāl tas nav pretrunā ar šo likumu.

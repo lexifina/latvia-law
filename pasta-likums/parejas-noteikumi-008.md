@@ -1,0 +1,1 @@
+8. Citu universālā pasta pakalpojuma saistību izpildes rezultātā radušos zaudējumu (zaudējumi, kuri nav minēti šo pārejas noteikumu 5.punktā) kompensēšana attiecināma uz periodu, kas sākas ar šā likuma spēkā stāšanās dienu.

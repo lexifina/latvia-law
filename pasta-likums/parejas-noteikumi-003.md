@@ -1,0 +1,3 @@
+3. Regulators sešu mēnešu laikā no šā likuma spēkā stāšanās dienas izdod šā likuma 9.panta pirmajā daļā, 10.pantā, 12.pantā, 27.panta otrajā daļā, 30.panta otrajā daļā, 32.panta otrajā un piektajā daļā noteiktos normatīvos aktus. Līdz šā likuma 10.pantā un 32.panta otrajā daļā noteikto Regulatora izdoto normatīvo aktu spēkā stāšanās dienai piemēro šādus Regulatora izdotus normatīvos aktus, ciktāl tie nav pretrunā ar šo likumu:
+1) Noteikumi par vispārējo atļauju pasta nozarē [apstiprināti ar Regulatora 2005.gada 30.novembra lēmumu Nr.289 (Latvijas Vēstnesis, 2005, 196.nr.; 2006, 93.nr.)];
+2) Vispārējo pasta pakalpojumu tarifu noteikšanas metodika [apstiprināta ar Regulatora 2005.gada 30.novembra lēmumu Nr.290 (Latvijas Vēstnesis, 2005, 197.nr.; 2006, 93.nr.)].

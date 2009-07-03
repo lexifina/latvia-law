@@ -1,0 +1,1 @@
+6. Pasta komersantam, kas sniedz universālo pasta pakalpojumu, rezervētās īpašās tiesības pieņemt, pārsūtīt un izsniegt vēstuļu korespondences sūtījumus, kuru svars nepārsniedz 50 gramus, ir spēkā līdz 2012.gada 31.decembrim.

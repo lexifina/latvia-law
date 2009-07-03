@@ -1,0 +1,2 @@
+29.pants. Universālā pasta pakalpojuma kvalitātes pārbaude
+Pasta komersants, kas sniedz universālo pasta pakalpojumu, nodrošina, ka tiek veikta neatkarīga universālā pasta pakalpojuma pārbaude saskaņā ar noteiktiem obligāti piemērojamiem pasta pakalpojumu kvalitātes standartiem, un vismaz reizi gadā publisko ziņojumu par mērījumu rezultātiem un universālā pasta pakalpojuma atbilstību obligāti piemērojamo pasta pakalpojumu kvalitātes standartu prasībām.

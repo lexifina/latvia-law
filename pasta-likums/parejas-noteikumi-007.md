@@ -1,0 +1,1 @@
+7. Šo pārejas noteikumu 6.punktā minētās rezervētās īpašās tiesības var neievērot cits pasta komersants, kuram 6.punktā minēto sūtījumu tarifs 2,5 reizes vai vēl vairāk pārsniedz tarifu, kas attiecībā uz pirmās svara grupas visātrākās piegādes kategoriju noteikts pasta komersantam, kas sniedz universālo pasta pakalpojumu.
