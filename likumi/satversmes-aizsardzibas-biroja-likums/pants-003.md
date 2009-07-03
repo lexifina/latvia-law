@@ -9,4 +9,5 @@ Satversmes aizsardzības biroja galvenie uzdevumi ir:
 7) (izslēgts ar 27.06.2002. likumu);
 8) informācijas un materiālu iesniegšana prokuratūrai vai attiecīgajai izziņas iestādei par noziedzīgiem nodarījumiem un personām, kuras var tikt apsūdzētas to izdarīšanā;
 9) atsevišķu Ministru kabineta rakstveidā dotu uzdevumu izpilde vai izpildes organizēšana savas kompetences ietvaros;
-10) sniegt Informācijas analīzes dienestam biroja rīcībā esošo informāciju, kas skar vai var skart valsts drošības intereses, neatklājot ziņas par informācijas iegūšanas slepenajiem avotiem.
+10) (izslēgts ar 18.06.2009. likumu);
+11) Valsts apdraudējuma analīzes sagatavošana sadarbībā ar Drošības policiju un Militārās izlūkošanas un drošības dienestu.

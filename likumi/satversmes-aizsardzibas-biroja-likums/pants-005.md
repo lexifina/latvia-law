@@ -23,7 +23,7 @@
 10) nosaka, saskaņojot ar attiecīgo valsts pārvaldes institūciju vadītājiem, kārtību, kādā izmantojami šo institūciju darbinieki, kā arī tehniskie līdzekļi un visu veidu informācijas nesēji, ja tas nepieciešams likumos noteikto uzdevumu veikšanai.
 (7) Satversmes aizsardzības biroja direktors vai viņa īpaši pilnvarota biroja amatpersona ir tiesīgi brīvi iepazīties ar valsts iestāžu un pašvaldību rīcībā esošo visu veidu informāciju un materiāliem neatkarīgi no to izmantošanas lieguma, saņemt šo informāciju un materiālus.
 (8) (Izslēgta ar 07.04.2004. likumu.)
-(9) Satversmes aizsardzības biroja direktors atbilstoši savai kompetencei ir atbildīgs par valsts drošības apdraudējumu savlaicīgu atklāšanu, un viņa pienākums ir nekavējoties ziņot par to Valsts prezidentam, Ministru prezidentam, Saeimas Nacionālās drošības komisijai, Nacionālās drošības padomei un Informācijas analīzes dienestam.
+(9) Satversmes aizsardzības biroja direktors atbilstoši savai kompetencei ir atbildīgs par valsts drošības apdraudējumu savlaicīgu atklāšanu, un viņa pienākums ir nekavējoties ziņot par to Valsts prezidentam, Ministru prezidentam, Saeimas Nacionālās drošības komisijai un Nacionālās drošības padomei.
 (10) (Izslēgta ar 07.04.2004. likumu.)
 (11) Satversmes aizsardzības biroja direktors savas kompetences ietvaros izdod iekšējos normatīvos aktus.
 (12) Par priekšzīmīgu darba (dienesta) pienākumu veikšanu Satversmes aizsardzības biroja direktors var apbalvot Satversmes aizsardzības biroja darbiniekus ar personiskajiem apbalvojuma ieročiem vai citiem dienesta apbalvojumiem un godazīmēm.
