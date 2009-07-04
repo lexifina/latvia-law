@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2009.gada 25.jūnija noteikumi Nr.646  \n\"Noteikumi par upju baseinu apgabalu apsaimniekošanas plāniem un pasākumu programmām\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "03 (4089)",
+  "official_journal_page": null,
+  "official_journal_date": "2009-07-03",
+  "entry_into_force": "2009-07-04",
+  "notification_date": "2015-07-29",
+  "commission_reference": "MNE(2015)55589",
+  "nim_celex": "72013L0039LVA_228765",
+  "nim_id": "228765",
+  "transposes_celex": [
+    "32013L0039"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/78817539-ad2b-4f51-8b77-c7832e9599d6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
