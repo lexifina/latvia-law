@@ -3,7 +3,7 @@
 1) darba samaksu par pēdējiem trim darba tiesisko attiecību mēnešiem 12 mēnešu periodā pirms darba devēja maksātnespējas gadījuma iestāšanās;
 2) atlīdzību par ikgadējo apmaksāto atvaļinājumu, uz kuru tiesības iegūtas 12 mēnešu periodā pirms darba devēja maksātnespējas gadījuma iestāšanās;
 3) atlīdzību par cita veida apmaksātu prombūtni pēdējo triju darba tiesisko attiecību mēnešos 12 mēnešu periodā pirms darba devēja maksātnespējas gadījuma iestāšanās;
-4) atlaišanas pabalstu likumā noteiktajā minimālajā apmērā;
+4) atlaišanas pabalstu likumā noteiktajā minimālajā apmērā uz kuru tiesības iegūtas ne agrāk kā 12 mēnešu periodā pirms darba devēja maksātnespējas gadījuma iestāšanās;
 5) kaitējuma atlīdzību par visu nesamaksāto laikposmu;
 6) kaitējuma atlīdzības summu par četriem gadiem uz priekšu.
 (2) (Zaudējusi spēku 01.01.2005. Skat. Pārejas noteikumus.)
