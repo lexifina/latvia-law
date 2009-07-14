@@ -1,0 +1,1 @@
+16. Sabiedrisko pakalpojumu regulēšanas komisija saskaņā ar šā likuma 15.¹ pantu līdz 2009.gada 31.oktobrim izveido konsultatīvu institūciju pašvaldību interešu pārstāvēšanai un viedokļu izzināšanai. Latvijas Pašvaldību savienība līdz 2009.gada 31.augustam izvirza konsultatīvās institūcijas locekļu kandidātus.

@@ -1,0 +1,1 @@
+18. Grozījums šā likuma 37.pantā un 38.panta pirmās daļas 5.punkts, kas izvirza prasības un nosaka ierobežojumus padomes locekļiem un to kandidātiem saistībā ar atbilstību likumam "Par valsts noslēpumu", neattiecas uz tiem padomes locekļiem, kuri iecelti amatā pirms attiecīgo grozījumu stāšanās spēkā.

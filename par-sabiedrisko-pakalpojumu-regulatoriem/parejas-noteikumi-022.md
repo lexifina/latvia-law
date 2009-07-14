@@ -1,0 +1,1 @@
+22. Pašvaldības regulatora likvidācijas komisijas darbību finansē no attiecīgā pašvaldības regulatora budžeta. 2009.gada valsts nodeva par sabiedrisko pakalpojumu regulēšanu pašvaldību regulējamās nozarēs iemaksājama pilnā apmērā attiecīgās pašvaldības budžetā un tiek ieskaitīta pašvaldības regulatora kontā.

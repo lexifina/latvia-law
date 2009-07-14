@@ -1,0 +1,1 @@
+20. Ja pašvaldības regulatoru ir izveidojušas vairākas pašvaldības, pašvaldību domes (padomes) vai novadu domes, kas ir attiecīgo pašvaldību domju (padomju), pašvaldību institūciju, finanšu, mantas un saistību pārņēmējas, pirms pašvaldības regulatora likvidēšanas vienojas par tās nosacījumiem.

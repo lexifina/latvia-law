@@ -1,7 +1,7 @@
-7.pants. Regulators valsts regulējamās nozarēs
-(1) Valsts regulējamās nozarēs regulators ir valsts iestāde, kas uzrauga, lai sabiedrisko pakalpojumu sniegšanā šajās nozarēs tiktu ievērots šis likums, kā arī attiecīgo valsts regulējamo nozaru speciālie normatīvie akti.
-(2) Valsts regulējamās nozarēs tiek izveidots vienots regulators - sabiedrisko pakalpojumu regulēšanas komisija (turpmāk - komisija). Komisija ir ekonomikas ministra pārraudzībā esoša atvasināta publiska persona.
-(3) Komisijas lēmējinstitūcija ir padome. Padome komisijas vārdā pieņem lēmumus un izdod administratīvos aktus, kas ir saistoši konkrētiem sabiedrisko pakalpojumu sniedzējiem un lietotājiem.
-(4) Saeima pēc Ministru kabineta priekšlikuma uz pieciem gadiem ieceļ amatā komisijas priekšsēdētāju, kas ir arī padomes priekšsēdētājs (turpmāk - priekšsēdētājs), un četrus padomes locekļus. Ministru kabinets padomes locekļu amata pretendentus izraugās konkursa kārtībā.
+7.pants. Regulators
+(1) Regulators uzrauga, lai sabiedrisko pakalpojumu sniegšanā regulējamās nozarēs tiktu ievērots šis likums, kā arī regulējamo nozaru speciālie normatīvie akti.
+(2) Regulējamās nozarēs tiek izveidots vienots regulators - Sabiedrisko pakalpojumu regulēšanas komisija, kas ir ekonomikas ministra pārraudzībā esoša atvasināta publiska persona.
+(3) Regulatora lēmējinstitūcija ir padome. Padome regulatora vārdā pieņem lēmumus un izdod administratīvos aktus, kas ir saistoši konkrētiem sabiedrisko pakalpojumu sniedzējiem un lietotājiem.
+(4) Saeima pēc Ministru kabineta priekšlikuma uz pieciem gadiem ieceļ amatā regulatora priekšsēdētāju, kas ir arī padomes priekšsēdētājs (turpmāk - priekšsēdētājs), un četrus padomes locekļus. Ministru kabinets padomes locekļu amata pretendentus izraugās konkursa kārtībā.
 (5) Ja padomes locekļa pilnvaras kāda iemesla dēļ izbeidzas pirms noteiktā pilnvaru termiņa beigām, Saeima pēc Ministru kabineta priekšlikuma ieceļ amatā citu padomes locekli.
-(6) Komisija ir juridiskā persona. Komisijai ir sava manta, patstāvīga bilance un konts Valsts kasē.
+(6) Regulators ir juridiskā persona. Regulatoram ir sava manta, patstāvīga bilance un konts Valsts kasē.

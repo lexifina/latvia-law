@@ -1,0 +1,1 @@
+17. Ja pieteikums Administratīvajai rajona tiesai iesniegts par regulatora administratīvo aktu, kas izdots līdz 2009.gada 31.oktobrim, lēmumu par iesniegto pieteikumu pieņem, kā arī ierosināto administratīvo lietu izskata un tiesas nolēmumu šajā lietā pieņem un pārsūdz saskaņā ar Administratīvā procesa likumu.

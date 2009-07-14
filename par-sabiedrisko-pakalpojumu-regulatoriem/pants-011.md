@@ -1,5 +1,6 @@
 11.pants. Regulatora neatkarība
 (1) Regulators ir neatkarīgs likumā noteikto funkciju pildīšanā.
-(2) Komisija savu funkciju pildīšanā, lēmumu pieņemšanā vai administratīvo aktu izdošanā nav pakļauta valdības vai tās institūciju lēmumiem.
-(3) Pašvaldības regulators savu funkciju pildīšanā, lēmumu pieņemšanā vai administratīvo aktu izdošanā nav pakļauts pašvaldības vai tās institūciju lēmumiem.
-(4) Regulatora pieņemtos lēmumus un izdotos administratīvos aktus par prettiesiskiem var atzīt un atcelt tikai tiesa.
+(2) Regulators savu funkciju pildīšanā nav padots valsts vai pašvaldību institūcijām.
+(3) (Izslēgta ar 11.06.2009. likumu.)
+(4) Regulatora administratīvo aktu, kas izdots saskaņā ar šo likumu, var pārsūdzēt Administratīvajā apgabaltiesā. Administratīvā apgabaltiesa lietu izskata kā pirmās instances tiesa triju tiesnešu sastāvā. Tiesas spriedumu var pārsūdzēt, iesniedzot kasācijas sūdzību.
+(5) Pieteikuma par regulatora izdotā administratīvā akta atcelšanu, atzīšanu par spēku zaudējušu vai spēkā neesošu iesniegšana tiesā neaptur šā administratīvā akta darbību.

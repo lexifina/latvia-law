@@ -3,7 +3,8 @@
 1) kuras ir vai ir bijušas ar Latvijas Republikas likumiem, Augstākās padomes lēmumiem vai tiesas nolēmumiem aizliegto organizāciju dalībnieki (biedri) pēc šo organizāciju aizliegšanas;
 2) kuras sodītas par tīšu noziedzīga nodarījuma izdarīšanu;
 3) kuras agrāk izdarījušas noziegumu, bet no soda izciešanas atbrīvotas sakarā ar noilgumu, amnestiju vai apžēlošanu;
-4) pret kurām uzsākta kriminālvajāšana.
+4) pret kurām uzsākta kriminālvajāšana par tīšu noziedzīgu nodarījumu;
+5) kuras atzītas par neatbilstošām likuma "Par valsts noslēpumu" prasībām, kas jāizpilda, lai saņemtu speciālo atļauju pieejai valsts noslēpumam.
 (2) Padomes locekļa komercdarbības, ienākumu gūšanas, amatu savienošanas, darbu pildīšanas ierobežojumus, kā arī ar tiem saistītos citus ierobežojumus un pienākumus, ciktāl tie nav noteikti šajā likumā, nosaka likums "Par interešu konflikta novēršanu valsts amatpersonu darbībā".
-(3) Padomes loceklis nevar būt Saeimas vai pašvaldības domes (padomes) deputāts vai ieņemt vēlētus amatus politisko organizāciju vai partiju vadībā.
+(3) Padomes loceklis nevar būt Saeimas vai pašvaldības domes deputāts vai ieņemt vēlētus amatus politisko organizāciju vai partiju vadībā.
 (4) Padomes loceklis trīs gadus pēc padomes locekļa pilnvaru termiņa izbeigšanās nevar būt tā sabiedrisko pakalpojumu sniedzēja īpašnieks, akcionārs vai darbinieks, kas ir tiesīgs pieņemt lēmumus un rīkoties ar sabiedrisko pakalpojumu sniedzēja mantu vai finanšu līdzekļiem, par kuru viņš ir pieņēmis lēmumu.

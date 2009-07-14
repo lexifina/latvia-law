@@ -1,2 +1,2 @@
 20.pants. Tarifu apmērs
-Tarifi nosakāmi tādā apmērā, lai lietotāju izdarītie tarifu maksājumi segtu sabiedrisko pakalpojumu izmaksas un nodrošinātu sabiedrisko pakalpojumu rentabilitāti atbilstoši licences nosacījumiem tās termiņā, ja nozares speciālie likumi neparedz citus tarifu noteikšanas principus. Ja mainās rentabilitāti ietekmējošie faktori, regulators var ierosināt tarifu pārskatīšanu.
+Tarifi nosakāmi tādā apmērā, lai lietotāju izdarītie tarifu maksājumi segtu sabiedrisko pakalpojumu izmaksas un nodrošinātu sabiedrisko pakalpojumu rentabilitāti atbilstoši licences nosacījumiem tās termiņā, ja nozares speciālie likumi neparedz citus tarifu noteikšanas principus. Ja mainās tarifus ietekmējošie faktori, regulators var ierosināt tarifu pārskatīšanu.

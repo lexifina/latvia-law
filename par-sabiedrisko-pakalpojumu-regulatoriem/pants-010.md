@@ -1,8 +1,8 @@
 10.pants. Regulatora tiesības
-(1) Regulators, pildot likumā noteiktās funkcijas, ir tiesīgs pieprasīt un netraucēti saņemt no sabiedrisko pakalpojumu sniedzējiem un lietotājiem, no valsts un pašvaldību iestādēm, kā arī no amatpersonām šo uzdevumu veikšanai nepieciešamo informāciju.
-(2) Komisijas priekšsēdētājs piedalās Ministru kabineta komitejas sēdēs. Komisija iesniedz normatīvo aktu projektus Ministru kabineta noteiktajā kārtībā. Institūcijām, kas iesniedz Ministru kabinetam ar sabiedrisko pakalpojumu regulēšanu saistītu normatīvo aktu projektus, tie jāiesniedz arī komisijai saskaņošanai.
+(1) Regulators, pildot likumā noteiktās funkcijas, ir tiesīgs pieprasīt un netraucēti saņemt no sabiedrisko pakalpojumu sniedzējiem un lietotājiem, no valsts un pašvaldību iestādēm, kā arī no amatpersonām šo uzdevumu veikšanai nepieciešamo informāciju neatkarīgi no tās slepenības pakāpes.
+(2) Regulatora priekšsēdētājs piedalās Ministru kabineta komitejas sēdēs. Regulators iesniedz normatīvo aktu projektus Ministru kabineta noteiktajā kārtībā. Institūcijām, kas iesniedz Ministru kabinetam ar sabiedrisko pakalpojumu regulēšanu saistītu normatīvo aktu projektus, tie jāiesniedz arī regulatoram saskaņošanai.
 (3) Regulators izskata iesniegumus un sūdzības par sabiedrisko pakalpojumu sniegšanu.
-(4) Komisijas priekšsēdētājs vai viņa pilnvarota amatpersona ir tiesīga sastādīt sabiedrisko pakalpojumu sniedzējam vai lietotājam administratīvo pārkāpumu protokolu, kas tiek izskatīts likumā noteiktajā kārtībā.
-(5) Komisija likumā "Par pašvaldībām" noteiktajā kārtībā var pilnvarot pašvaldību veikt sabiedrisko pakalpojumu regulēšanas funkciju valsts regulējamās nozarēs, ja attiecīgā pašvaldība tam piekrīt. Šādu pilnvarojumu komisija publicē laikrakstā "Latvijas Vēstnesis" un vismaz vienā attiecīgās pašvaldības vietējā laikrakstā.
-(6) Pašvaldībām nodoto sabiedrisko pakalpojumu regulēšanas funkciju izpildi valsts regulējamās nozarēs organizē attiecīgās pašvaldības regulators kārtībā, kāda šajā likumā noteikta komisijai attiecībā uz sabiedrisko pakalpojumu regulēšanu valsts regulējamās nozarēs. Komisijas nodotās sabiedrisko pakalpojumu regulēšanas funkcijas attiecīgās pašvaldības regulators pilda par līdzekļiem, kas komisijas budžetā paredzēti nodotās sabiedrisko pakalpojumu regulēšanas funkcijas izpildei.
+(4) Regulatora priekšsēdētājs vai viņa pilnvarota amatpersona ir tiesīga sastādīt sabiedrisko pakalpojumu sniedzējam vai lietotājam administratīvo pārkāpumu protokolu, kas tiek izskatīts likumā noteiktajā kārtībā.
+(5) (Izslēgta ar 11.06.2009. likumu.)
+(6) (Izslēgta ar 11.06.2009. likumu.)
 (7) Regulators nosaka kvalitātes prasības sabiedrisko pakalpojumu sniegšanai.

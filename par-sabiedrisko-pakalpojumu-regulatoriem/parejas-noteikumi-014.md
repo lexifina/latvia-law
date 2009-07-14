@@ -1,0 +1,1 @@
+14. Līdz dienai, kad stājas spēkā Sabiedrisko pakalpojumu regulēšanas komisijas izdotās metodikas enerģētikas, sadzīves atkritumu apsaimniekošanas un ūdenssaimniecības nozarēs, tiek piemēroti Ministru kabineta 2001.gada 26.jūnija noteikumi Nr.281 "Sabiedrisko pakalpojumu tarifu aprēķināšanas metodika pašvaldību regulējamās nozarēs".

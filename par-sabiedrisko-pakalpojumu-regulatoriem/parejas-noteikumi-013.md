@@ -1,0 +1,1 @@
+13. Pašvaldības regulatora priekšsēdētāja pilnvaras ir spēkā līdz 2009.gada 31.decembrim, bet padomes locekļu pilnvaras - līdz 2009.gada 31.oktobrim neatkarīgi no pilnvarās noteiktā beigu termiņa. Pašvaldību regulatoru priekšsēdētāji ar sabiedrisko pakalpojumu regulēšanu saistītās lietas nodod Sabiedrisko pakalpojumu regulēšanas komisijai līdz 2009.gada 31.oktobrim.

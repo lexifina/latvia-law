@@ -1,0 +1,1 @@
+12. Sabiedrisko pakalpojumu regulēšanas komisija līdz 2009.gada 1.novembrim pārņem no pašvaldību regulatoriem vai pašvaldību domēm (padomēm) regulēšanas funkcijas attiecīgajās pašvaldību regulējamās nozarēs.

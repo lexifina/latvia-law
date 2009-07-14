@@ -1,2 +1,2 @@
 3.pants. Regulējamie sabiedriskie pakalpojumi
-Regulējamie sabiedriskie pakalpojumi (turpmāk - sabiedriskie pakalpojumi), kuru sniegšanu regulē saskaņā ar šo likumu, ir preču ražošana un pakalpojumu sniegšana valsts regulējamās nozarēs un pašvaldību regulējamās nozarēs (turpmāk arī - regulējamās nozares).
+Regulējamie sabiedriskie pakalpojumi, kuru sniegšanu regulē saskaņā ar šo likumu, ir preču ražošana, pakalpojumu sniegšana un infrastruktūras (inženierbūvju vai inženiertehnisku risinājumu, kā arī ar to izmantošanu saistītu resursu komplekss, kas nepieciešams preču ražošanai vai pakalpojumu sniegšanai) pakalpojumi regulējamās nozarēs atbilstoši nozaru speciālajiem normatīvajiem aktiem (turpmāk - sabiedriskie pakalpojumi).

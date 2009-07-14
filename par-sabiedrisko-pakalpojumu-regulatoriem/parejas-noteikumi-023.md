@@ -1,0 +1,1 @@
+23. Ministru kabinets atbilstoši šā likuma 9.panta pirmās daļas 10. un 11.punktā noteiktajam līdz 2009.gada 1.septembrim iesniedz Saeimai attiecīgus grozījumus Enerģētikas likumā un likumā "Par hidroelektrostaciju hidrotehnisko būvju drošumu".

@@ -4,7 +4,7 @@
 1) ir stājušies spēkā grozījumi normatīvajos aktos, kas attiecas uz regulējamo sabiedrisko pakalpojumu veidu;
 2) citādi nav iespējams nodrošināt ekonomiski pamatotu sabiedrisko pakalpojumu sniegšanu licences darbības zonā;
 3) sabiedrisko pakalpojumu sniedzējs ir iesniedzis pamatotu ierosinājumu.
-(3) Regulators, informējot attiecīgās regulējamās nozares ministriju vai attiecīgo pašvaldību, anulē (atceļ) sabiedrisko pakalpojumu sniedzējam izsniegto licenci, ja sabiedrisko pakalpojumu sniedzējs:
+(3) Regulators anulē (atceļ) sabiedrisko pakalpojumu sniedzējam izsniegto licenci, ja sabiedrisko pakalpojumu sniedzējs:
 1) neievēro vai pārkāpj tam izsniegtās licences nosacījumus;
 2) neievēro vai pārkāpj normatīvajos aktos noteiktās prasības sabiedrisko pakalpojumu sniegšanā;
 3) atzīts par likvidējamu;

@@ -1,4 +1,0 @@
-23.pants. Sabiedrisko pakalpojumu sniedzēja pārveidošana un darbības izbeigšana
-(1) Sabiedrisko pakalpojumu sniedzēja pārveidošanu, ja tās rezultātā mainās licencē ietvertie nosacījumi, valsts regulējamās nozarēs sabiedrisko pakalpojumu komersants var uzsākt pēc regulatora rakstveida atļaujas saņemšanas, bet pašvaldību regulējamās nozarēs - pēc regulatora un attiecīgās pašvaldības rakstveida atļaujas saņemšanas. Šādas atļaujas tiek izsniegtas laikposmā, kas nevar būt ilgāks par pusgadu.
-(2) Regulators saskaņā ar izsniegto atļauju sabiedrisko pakalpojumu sniedzēja pārveidošanai izdara attiecīgu grozījumu sabiedrisko pakalpojumu sniedzēja licences nosacījumos.
-(3) Sabiedrisko pakalpojumu sniedzēja darbību valsts regulējamās nozarēs var apturēt, pārtraukt vai izbeigt pēc regulatora rakstveida atļaujas saņemšanas, bet pašvaldību regulējamās nozarēs - pēc regulatora un attiecīgās pašvaldības rakstveida atļaujas saņemšanas.
