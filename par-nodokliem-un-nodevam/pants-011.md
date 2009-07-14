@@ -94,8 +94,8 @@
 78) (izslēgts ar 30.04.2009. likumu);
 79) par Meža likumā noteiktajām mežsaimnieciskajām darbībām;
 80) par sociālo pakalpojumu sniedzēja reģistrācijas apliecības un tās dublikāta izsniegšanu;
-81) par pārbaudījuma organizēšanu maksātnespējas procesa administratora kvalifikācijas iegūšanai;
-82) par maksātnespējas procesa administratora sertifikāta darbības termiņa pagarināšanu;
+81) (izslēgts ar 11.06.2009. likumu);
+82) (izslēgts ar 11.06.2009. likumu);
 83) (izslēgts ar 12.06.2009. likumu);
 84) (izslēgts ar 11.12.2008. likumu);
 85) par ietekmes uz vidi sākotnējā izvērtējuma veikšanu;

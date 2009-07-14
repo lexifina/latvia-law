@@ -1,0 +1,1 @@
+113. Grozījumi šā likuma 29.pantā par nokavējuma naudas aprēķināšanas pārtraukšanu un atjaunošanu komercsabiedrībām tiesiskās aizsardzības procesā stājas spēkā vienlaikus ar attiecīgajiem grozījumiem Maksātnespējas likumā.

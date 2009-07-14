@@ -14,7 +14,7 @@
 2) pagarināts, atlikts vai sadalīts nodokļu samaksas termiņš, - attiecībā uz pagarināto nodokļu maksājuma daļu vai atlikto nodokļu maksājumu;
 3) iestājas Civilprocesa likuma 560.pantā, 563.panta pirmās daļas 4. vai 5.punktā vai otrajā daļā noteiktie apstākļi;
 4) pieņemts nodokļu administrācijas lēmums vai tiesas nolēmums, ar kuru apturēta nokavēto nodokļu maksājumu piedziņa bezstrīda kārtībā;
-5) stājies spēkā tiesas spriedums, ar kuru nodokļu maksātājs pasludināts par maksātnespējīgu. Par maksātnespējīgu pasludinātais nodokļu maksātājs veic visus kārtējos nodokļu maksājumus saskaņā ar konkrēto nodokļu likumiem.
+5) stājies spēkā tiesas spriedums, ar kuru nodokļu maksātājam pasludināts maksātnespējas process, vai stājies spēkā tiesas lēmums par tiesiskās aizsardzības procesa ierosināšanu. Pēc maksātnespējas procesa pasludināšanas vai tiesiskās aizsardzības procesa lietas ierosināšanas tiesā nodokļu maksātājs veic visus kārtējos nodokļu maksājumus saskaņā ar nodokļu likumiem.
 (7) Lēmums par nokavēto nodokļu maksājumu piedziņu ir izpildu dokuments, un to izpilda:
 1) nodokļu administrācijas amatpersonas atbilstoši amata pienākumiem;
 2) zvērināti tiesu izpildītāji saskaņā ar Civilprocesa likumu un pamatojoties uz lēmumu par nokavēto nodokļu maksājumu piedziņu, ja nodokļu administrācija Civilprocesa likumā noteiktajā kārtībā zvērinātam tiesu izpildītājam ir iesniegusi izpildu dokumentu.
@@ -25,7 +25,7 @@
 4) parādnieks miris vai juridiskā persona beigusi pastāvēt un tiesas nodibinātā tiesiskā attiecība pieļauj tiesību pārņemšanu, - līdz parādnieka tiesību pārņēmēja noteikšanai;
 5) parādnieks zaudējis rīcībspēju, - līdz aizgādņa iecelšanai;
 6) ir tiesas lēmums par nodokļu administrācijas lēmuma izpildes apturēšanu, - līdz tiesas lēmuma atcelšanai vai uz tiesas lēmumā norādīto laiku;
-7) ierosināta nodokļu maksātāja maksātnespējas lieta, - līdz maksātnespējas procesa pabeigšanai;
+7) ierosināta nodokļu maksātāja maksātnespējas lieta, - līdz maksātnespējas procesa vai tiesiskās aizsardzības procesa izbeigšanai maksātnespējas lietā;
 8) pieņemts un reģistrēts lēmums par nodokļu maksātāja likvidāciju, - līdz likvidācijas procesa pabeigšanai;
 9) lēmums ir iesniegts izpildei zvērinātam tiesu izpildītājam un nodokļu administrācijas ierēdnim, kuram saskaņā ar likumu ir piešķirtas tiesu izpildītāja tiesības, - līdz lēmuma izpildei vai līdz brīdim, kad ir izdots akts par piedziņas neiespējamību.
 (9) Lēmums par nokavēto nodokļu maksājumu piedziņu zaudē spēku:

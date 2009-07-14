@@ -5,13 +5,16 @@
 (4) Nokavējuma naudas aprēķināšana:
 1) tiek pārtraukta, ja šā likuma 24.pantā nav noteikts citādi:
 a) privatizējamām kapitālsabiedrībām - no dienas, kad tās nodotas privatizācijai, kapitālsabiedrībām - no dienas, kad tās nodotas atsavināšanai, līdz dienai, kad saistības tiek nodotas ar pieņemšanas un nodošanas aktu jaunajam īpašniekam, bet ne ilgāk kā uz 12 mēnešiem,
-b) komersantiem, individuālajiem uzņēmumiem (arī zemnieku vai zvejnieku saimniecībām), kurus tiesa pasludinājusi par maksātnespējīgiem, - no tiesas nolēmuma pieņemšanas dienas,
-c) komersantiem, individuālajiem uzņēmumiem (arī zemnieku vai zvejnieku saimniecībām), kuriem Ministru kabineta noteiktajā kārtībā un termiņā tiek kapitalizēti nodokļu maksājumu pamatparādi;
+b) nodokļu maksātājiem, kuriem tiesa pasludinājusi maksātnespējas procesu, - no dienas, kad tiesa pasludinājusi spriedumu attiecīgajā maksātnespējas procesa lietā,
+c) komersantiem, individuālajiem uzņēmumiem (arī zemnieku vai zvejnieku saimniecībām), kuriem Ministru kabineta noteiktajā kārtībā un termiņā tiek kapitalizēti nodokļu maksājumu pamatparādi,
+d) komercsabiedrībām, kurām tiesa ierosinājusi tiesiskās aizsardzības procesu, - no dienas, kad tiesa pieņēmusi nolēmumu par attiecīgās tiesiskās aizsardzības procesa lietas ierosināšanu,
+e) komercsabiedrībām ārpustiesas tiesiskās aizsardzības procesā - no dienas, kad tiesa pieņēmusi nolēmumu par tiesiskās aizsardzības procesa īstenošanu;
 2) tiek atjaunota, ja:
-a) šīs daļas 1.punkta "a" vai "c" apakšpunktā noteiktajam termiņam beidzoties, nokavētie nodokļu maksājumi nav samaksāti vai nav kapitalizēti un ar kapitalizāciju saistītie grozījumi nav reģistrēti Latvijas Republikas Uzņēmumu reģistrā. Nokavējuma nauda tiek aprēķināta vispārējā kārtībā no dienas, kad tās aprēķināšana tika pārtraukta;
-b) šīs daļas 1.punkta "b" apakšpunktā minēto komersantu, individuālo uzņēmumu (arī zemnieku vai zvejnieku saimniecību) maksātspēja ir atjaunota no dienas, kad tiesa pieņēmusi nolēmumu par maksātnespējas procesa izbeigšanu.
+a) šīs daļas 1.punkta "a" vai "c" apakšpunktā noteiktajam termiņam beidzoties, nokavētie nodokļu maksājumi nav samaksāti vai nav kapitalizēti un ar kapitalizāciju saistītie grozījumi nav reģistrēti Latvijas Republikas Uzņēmumu reģistrā. Nokavējuma nauda tiek aprēķināta vispārējā kārtībā no dienas, kad tās aprēķināšana tika pārtraukta,
+b) šīs daļas 1.punkta "b", "d" un "e" apakšpunktā minēto nodokļu maksātāju maksātspēja ir atjaunota no dienas, kad tiesa pieņēmusi nolēmumu par maksātnespējas procesa izbeigšanu vai tiesiskās aizsardzības procesa izbeigšanu, izpildot tiesiskās aizsardzības procesa pasākumu plānu,
+c) šīs daļas 1.punkta "d" apakšpunktā minēto nodokļu maksātāju tiesiskās aizsardzības procesa pieteikums ir noraidīts. Nokavējuma nauda tiek aprēķināta no dienas, kad nokavējuma naudas aprēķināšana tika apturēta.
 (5) Nodokļu maksātājiem, kuriem bankas pieņēmušas izpildei maksājuma uzdevumus par nodokļu samaksu, tos neizpildot sakarā ar bankas darbības apturēšanu, nokavējuma naudas aprēķināšana tiek pārtraukta uz laiku, līdz tiek pieņemts lēmums par kredītiestādes darbības atjaunošanu vai bankrotu.
 (6) Šā panta piektajā daļā noteiktā nokavējuma naudas aprēķināšana tiek pārtraukta:
-1) summām, kuras norādītas izpildei pieņemtajos maksājuma uzdevumos, no dienas, kad banka tos pieņēmusi izpildei;
+1) summām, kuras norādītas izpildei pieņemtajos maksājuma uzdevumos, no dienas, kad banka tos pieņēmusi izpildei,
 2) tikai tādā gadījumā, ja bankas kontos iesaldēto (aizturēto) naudas līdzekļu īpašnieks-pārvaldītājs nav atteicies no savām prasījuma tiesībām par labu citai personai vai arī savas tiesības nav nodevis jebkurai citai personai.
 (7) Nokavējuma naudas aprēķināšana tiek pārtraukta, ja nokavējuma naudas summa sasniedz nokavētā maksājuma (pamatparāda) apmēru.
