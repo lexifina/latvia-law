@@ -4,4 +4,5 @@
 (3) Tiesa ierosinājumu izskata 10 dienu laikā un par pieņemto lēmumu informē procesa virzītāju. Ja persona aizturēta Eiropas Savienības dalībvalstī, ierosinājumu izskata 24 stundu laikā.
 (4) Ja pirmstiesas kriminālprocesā ir konstatēts pamats Eiropas apcietinājuma lēmuma pieņemšanai, izmeklēšanas tiesnesis pieņem Eiropas apcietinājuma lēmumu un to kopā ar pievienotajiem dokumentiem nosūta Ģenerālprokuratūrai.
 (5) Krimināllietas iztiesāšanas laikā Eiropas apcietinājuma lēmumu pieņem tiesa, kuras lietvedībā krimināllieta atrodas.
+(5¹) Pēc nolēmuma stāšanās spēkā Eiropas apcietinājuma lēmumu pieņem tiesa, kas kontrolē sprieduma vai lēmuma pilnīgu izpildi, vai tiesa, kas lemj par soda aizstāšanu ar arestu vai brīvības atņemšanu.
 (6) Eiropas apcietinājuma lēmums nav pārsūdzams.

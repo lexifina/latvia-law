@@ -1,4 +1,5 @@
 716.pants. Pārbaude attiecībā uz personas izdošanu Eiropas Savienības dalībvalstij
 (1) Ģenerālprokuratūra, saņēmusi Eiropas apcietinājuma lēmumu, organizē tā pārbaudi.
 (2) Pārbaudi prokurors veic šā likuma 704.pantā noteiktajā kārtībā, noskaidrojot, vai pastāv personas izdošanas pamats un vai nepastāv personas izdošanas atteikuma iemesli, kas noteikti šā likuma 714.pantā.
+(2¹) Ja persona piekrīt izdošanai, pārbaudi pabeidz 10 dienu laikā no Eiropas apcietinājuma lēmuma saņemšanas dienas.
 (3) Ja Ģenerālprokuratūra vienlaicīgi saņēmusi izdošanas lūgumus no trešajām valstīm un Eiropas apcietinājuma lēmumus no Eiropas Savienības dalībvalstīm attiecībā uz vienu un to pašu personu, šo lēmumu pārbaudi apvieno vienā procesā, ja vien nav pieņemts lēmums par personas izdošanu vai par atteikšanos personu izdot. Izskatot vienlaicīgi saņemtos lūgumus par personas izdošanu un izlemjot jautājumu par to, kurai valstij dodama priekšrocība, vērā ņem nodarījuma smagumu, tā izdarīšanas vietu, laiku un lūgumu saņemšanas secību.

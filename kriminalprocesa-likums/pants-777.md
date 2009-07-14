@@ -9,3 +9,4 @@
 5) soda izpildei nav iestājies noilgums ne ārvalstī, ne Latvijā;
 6) sprieduma taisīšanas brīdī nebija iestājies kriminālatbildības noilgums saskaņā ar Latvijas Krimināllikumu;
 7) ārvalstī pastāv vismaz viens no šā likuma 804.pantā minētajiem soda izpildīšanas lūguma iesniegšanas iemesliem.
+(4) Eiropas Savienības dalībvalstī piespriesta soda izpilde iespējama, ja ir atteikta izdošana saskaņā ar šā likuma 714.panta piektās daļas 4.punktu.

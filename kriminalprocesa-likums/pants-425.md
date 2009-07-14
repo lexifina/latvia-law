@@ -9,4 +9,4 @@
 7) visu konstatēto var fiksēt vienā protokolā;
 8) pieņem lēmumu par personas atzīšanu par aizdomās turēto, var izlemt jautājumu par drošības līdzekļa piemērošanu;
 9) noskaidro citus apstākļus, kam ir nozīme lietas izlemšanā.
-(2) Triju darba dienu laikā no izmeklēšanas uzsākšanas procesa virzītājs lietas materiālus ar pavadrakstu iesniedz uzraugošajam prokuroram un izdara par to atzīmi kriminālprocesa reģistrā.
+(2) Piecu darba dienu laikā no izmeklēšanas uzsākšanas procesa virzītājs lietas materiālus ar pavadrakstu iesniedz uzraugošajam prokuroram un izdara par to atzīmi kriminālprocesa reģistrā.

@@ -1,0 +1,2 @@
+720.¹ pants. Latvijas kompetentās iestādes piekrišana personas tālākai izdošanai, kriminālvajāšanai un tiesāšanai
+Kompetentā iestāde 20 dienu laikā pēc Eiropas Savienības dalībvalsts lūguma saņemšanas lemj par piekrišanu izdotās personas izdošanai tālāk citai Eiropas Savienības dalībvalstij, kā arī tās kriminālvajāšanai, tiesāšanai un soda izpildei par citiem pirms izdošanas izdarītajiem nodarījumiem.

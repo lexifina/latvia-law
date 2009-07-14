@@ -1,5 +1,5 @@
 770. pants. Ārvalsts informēšana
-(1) Ja ir saņemts notiesātās personas lūgums vai piekrišana tās pārstāvja iesniegtajam lūgumam par šīs personas nodošanu soda izciešanai ārvalstī, kompetentā iestāde par šo lūgumu nekavējoties, bet ne vēlāk kā 10 dienu laikā informē ārvalsti.
+(1) Ja ir saņemts notiesātās personas lūgums vai piekrišana tās pārstāvja iesniegtajam lūgumam par šīs personas nodošanu soda izciešanai ārvalstī, kompetentā iestāde pēc šā panta otrajā daļā minētās informācijas saņemšanas nekavējoties par šo lūgumu informē ārvalsti.
 (2) Informācijā ārvalstij norāda:
 1) notiesātās personas vārdu, uzvārdu, dzimšanas vietu un laiku;
 2) notiesātās personas adresi šajā ārvalstī, ja tāda adrese ir;
