@@ -1,6 +1,6 @@
 16.pants. Klienta iemaksātās naudas drošības garantijas
 (1) Komersantiem, kuri pārdod kompleksus tūrisma pakalpojumus, obligāti nepieciešama klienta iemaksātās naudas drošības garantija.
-(2) Klienta iemaksātās naudas drošības garantija komersantu maksātnespējas vai faktiskās maksātnespējas gadījumos, kad komersanti līdz to atzīšanai par maksātnespējīgiem neizpilda vai daļēji neizpilda pielīgtās saistības pret klientu, nodrošina:
+(2) Ja komersants nespēj pilnībā vai daļēji izpildīt līgumsaistības pret klientu līdz savas maksātnespējas procesa pasludināšanai vai savas maksātnespējas gadījumā, klienta iemaksātās naudas drošības garantija nodrošina:
 1) saistību neizpildes vai daļējas neizpildes rezultātā radušos zaudējumu kompensāciju klientam;
 2) tūrista atgriešanos valstī, no kuras sācies ceļojums, ja līgumā nav noteikts citādi.
 (3) Klienta iemaksātās naudas drošības garantija ir:
