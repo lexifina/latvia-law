@@ -1,0 +1,2 @@
+26.¹ pants. Prasības attiecībā uz tādu pārtikas produktu tirdzniecību, kuri satur ģenētiski modificētos organismus, sastāv vai ir iegūti no tiem
+Pārtikas produktus, kuru marķējumā saskaņā ar normatīvajiem aktiem ir ietverta norāde par to, ka šie produkti satur ģenētiski modificētos organismus, sastāv vai ir iegūti no tiem, tirdzniecības vietās pārdošanai novieto savrup no citiem pārtikas produktiem tādā veidā, lai tie būtu viegli identificējami.

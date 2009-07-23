@@ -1,6 +1,6 @@
 3.pants. Ģenētiski modificēto organismu aprites principi
 Lēmumu, kas saistīts ar ģenētiski modificēto organismu apriti, pieņem, ievērojot šādus principus:
-1) riska novērtēšanas princips, kas paredz, ka risku novērtē pirms darbībām, kuras saistītas ar ģenētiski modificēto organismu apriti;
+1) riska novērtēšanas princips, kas paredz, ka risku novērtē pirms darbībām, kuras saistītas ar ģenētiski modificēto organismu apriti, tai skaitā attiecībā uz konkrēto ekosistēmu, kuru var ietekmēt ģenētiski modificēto organismu izplatīšana;
 2) ilgtspējīgas attīstības princips, kas paredz, ka ģenētiski modificēto organismu apriti var atļaut, ja attiecīgā darbība vērsta uz valsts ekonomikas attīstības veicināšanu un tiek ievēroti vides aizsardzību regulējošos normatīvajos aktos noteiktie ilgtspējīgas attīstības un bioloģiskās daudzveidības saglabāšanas pamatprincipi;
 3) piesardzības princips, kas paredz attiecīgus pagaidu riska pārvaldes pasākumus bīstamības samazināšanai līdz riska novērtēšanai un riska vadības izstrādāšanai, ja riska novērtēšanas procesā pastāv nenoteiktība, kas saistīta ar iespējamo negatīvo ietekmi uz cilvēku un dzīvnieku veselību vai vidi, ģenētiski modificētos organismus izplatot vidē vai tirgū;
 4) sabiedrības informēšanas un līdzdalības princips, kas paredz, ka institūcijas veicina sabiedrības izglītošanu un informēšanu, uzklausa un izvērtē sabiedrības viedokli jautājumos, kas saistīti ar ģenētiski modificēto organismu apriti;
