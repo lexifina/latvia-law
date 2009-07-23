@@ -1,6 +1,6 @@
 28. pants. Finansēšanas avoti
-Saeimas un Ministru kabineta apstiprināto aizsargājamo teritoriju izveidošanu, saglabāšanu, uzturēšanu un pārvaldi finansē no valsts budžeta līdzekļiem.
-Pašvaldību izveidoto aizsargājamo teritoriju saglabāšanu, uzturēšanu un pārvaldi finansē no pašvaldību budžetu līdzekļiem.
-Aizsargājamo teritoriju pārvaldes institūcijām un pašvaldībām (ja nav speciālās pārvaldes institūcijas) ir tiesības izmantot ienākumus no biedrību un nodibinājumu saimnieciskās darbības un ziedojumus naudas līdzekļu vai mantas veidā, kā arī līdzekļus no naudas sodiem un videi nodarīto zaudējumu atlīdzības, kas iegūti par šo teritoriju aizsardzības un izmantošanas noteikumu pārkāpumiem. Šos līdzekļus var izmantot tikai aizsargājamās teritorijas saglabāšanai un uzturēšanai.
-Aizsargājamo teritoriju izveidošanai, saglabāšanai un uzturēšanai var izveidot arī speciālus fondus.
-(Piektā daļa izslēgta ar 15.09.2005. likumu.)
+(1) Saeimas un Ministru kabineta apstiprināto aizsargājamo teritoriju izveidošanu, saglabāšanu, uzturēšanu un pārvaldi finansē no valsts budžeta līdzekļiem.
+(2) Pašvaldību izveidoto aizsargājamo teritoriju saglabāšanu, uzturēšanu un pārvaldi finansē no pašvaldību budžetu līdzekļiem.
+(3) (Izslēgta ar 18.06.2009. likumu.)
+(4) Aizsargājamo teritoriju izveidošanai, saglabāšanai un uzturēšanai var izveidot arī speciālus fondus.
+(5) (Izslēgta ar 15.09.2005. likumu.)

@@ -1,4 +1,3 @@
 11. pants. Priekšlikumu iesniegšana
-Priekšlikumu par aizsargājamās teritorijas izveidošanu var izteikt fiziska vai juridiska persona rakstveidā, pievienojot pamatojumu un shēmu noteiktā mērogā. Priekšlikumu par aizsargājamās teritorijas izveidošanu fiziskās vai juridiskās personas iesniedz Valsts vides dienestam.
-Mēneša laikā pēc šā panta pirmajā daļā minētā priekšlikuma saņemšanas Valsts vides dienests par to rakstveidā informē attiecīgo pašvaldību un zemes īpašnieku.
-(Trešā un ceturtā daļa izslēgta ar 15.09.2005. likumu.)
+(1) Priekšlikumu par aizsargājamās teritorijas izveidošanu var izteikt fiziskā vai juridiskā persona rakstveidā, pievienojot pamatojumu un shēmu noteiktā mērogā. Priekšlikumu par aizsargājamās teritorijas izveidošanu fiziskās vai juridiskās personas iesniedz Dabas aizsardzības pārvaldei.
+(2) Divu nedēļu laikā pēc šā panta pirmajā daļā minētā priekšlikuma saņemšanas un izvērtēšanas Dabas aizsardzības pārvalde par to rakstveidā informē attiecīgo pašvaldību, kā arī publicē paziņojumu laikrakstā "Latvijas Vēstnesis" un vismaz vienā vietējā laikrakstā un rakstveidā (nosūtot vēstuli) informē zemes īpašnieku.

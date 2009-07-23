@@ -1,3 +1,3 @@
 14. pants. Aizsargājamo teritoriju iezīmēšana plānos un apzīmēšana dabā
-Izveidoto aizsargājamo teritoriju iezīmēšanu administratīvi teritoriālo vienību plānos un valsts kadastrālās uzmērīšanas dokumentos nodrošina Valsts zemes dienests par valsts budžeta līdzekļiem.
-Aizsargājamo teritoriju apzīmēšanai dabā lieto speciālas informatīvas zīmes, kuru paraugus, lietošanas un izveidošanas kārtību nosaka Ministru kabinets.
+(1) Aizsargājamo teritoriju un to funkcionālo zonu robežas attēlo vietējās pašvaldības teritorijas plānojumā.
+(2) Aizsargājamo teritoriju apzīmēšanai dabā lieto speciālas informatīvas zīmes, kuru paraugus, lietošanas un izveidošanas kārtību nosaka Ministru kabinets.

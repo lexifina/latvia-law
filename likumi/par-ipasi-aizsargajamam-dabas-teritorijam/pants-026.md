@@ -1,2 +1,2 @@
 26. pants. Aizsargājamās teritorijas apsaimniekošanas organizēšana
-Nepieciešamo saimniecisko pasākumu veikšanai aizsargājamās teritorijās likumā noteiktajā kārtībā var izveidot biedrības un nodibinājumus.
+Nepieciešamo saimniecisko pasākumu veikšanai aizsargājamās teritorijās likumā noteiktajā kārtībā var izveidot biedrības un nodibinājumus. Vietējās pašvaldības var finansēt un veikt savā administratīvajā teritorijā esošo aizsargājamo teritoriju apsaimniekošanu. Biedrības, nodibinājumi un pašvaldības par plānotajiem apsaimniekošanas pasākumiem informē Dabas aizsardzības pārvaldi.

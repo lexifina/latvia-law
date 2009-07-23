@@ -17,7 +17,7 @@ C
 LV0000130
 Ziemeļvidzemes biosfēras rezervāta dabas lieguma zona "Ziemeļu purvi"
 4.
-B
+C
 LV0100200
 Moricsalas dabas rezervāts
 5.
@@ -405,7 +405,7 @@ B
 LV0507000
 dabas liegums "Čertoka ezers (Valnezers)"
 101.
-B
+C
 LV0507100
 dabas liegums "Ventas ieleja"
 102.
@@ -465,7 +465,7 @@ C
 LV0509100
 dabas liegums "Randu pļavas"
 116.
-B
+C
 LV0509300
 dabas liegums "Limšānu purvs"
 117.
@@ -529,9 +529,7 @@ B
 LV0511300
 dabas liegums "Jumurdas ezers"
 132.
-B
-LV0511500
-dabas liegums "Seldžu ozolu audze"
+(izslēgts ar 18.06.2009. likumu)
 133.
 B
 LV0511600
@@ -549,13 +547,9 @@ C
 LV0512300
 dabas liegums "Ašinieku purvs"
 137.
-B
-LV0512400
-dabas liegums "Tīrumnieku purvs"
+(izslēgts ar 18.06.2009. likumu)
 138.
-C
-LV0512500
-dabas liegums "Salas purvs"
+(izslēgts ar 18.06.2009. likumu)
 139.
 B
 LV0512700
@@ -661,9 +655,7 @@ B
 LV0518300
 dabas liegums "Vecdaugava"
 165.
-C
-LV0518400
-dabas liegums "Lagažu-Šņitkas purvs"
+(izslēgts ar 18.06.2009. likumu)
 166.
 C
 LV0518500
@@ -689,21 +681,13 @@ B
 LV0519100
 dabas liegums "Kreiču purvs"
 172.
-C
-LV0519300
-dabas liegums "Īdeņas un Kvāpānu dīķi"
+(izslēgts ar 18.06.2009. likumu)
 173.
-C
-LV0519500
-dabas liegums "Bērzpils purvs"
+(izslēgts ar 18.06.2009. likumu)
 174.
-C
-LV0519600
-dabas liegums "Pededzes lejtece"
+(izslēgts ar 18.06.2009. likumu)
 175.
-C
-LV0519700
-dabas liegums "Lubānas ieplakas"
+(izslēgts ar 18.06.2009. likumu)
 176.
 C
 LV0519800
@@ -841,9 +825,7 @@ B
 LV0525900
 dabas liegums "Jaunanna"
 210.
-C
-LV0526000
-dabas liegums "Pārabaine"
+(izslēgts ar 18.06.2009. likumu)
 211.
 B
 LV0526100
@@ -857,13 +839,11 @@ C
 LV0526400
 dabas liegums "Sventājas upes ieleja"
 214.
-B
+C
 LV0526500
 dabas liegums "Eiduku purvs"
 215.
-C
-LV0526600
-dabas liegums "Lubānas un Sūļagala purvs"
+(izslēgts ar 18.06.2009. likumu)
 216.
 B
 LV0526700
@@ -877,9 +857,7 @@ C
 LV0527000
 dabas liegums "Melnsalas purvs"
 219.
-C
-LV0527100
-dabas liegums "Īdiņu purvs"
+(izslēgts ar 18.06.2009. likumu)
 220.
 A
 LV0527200

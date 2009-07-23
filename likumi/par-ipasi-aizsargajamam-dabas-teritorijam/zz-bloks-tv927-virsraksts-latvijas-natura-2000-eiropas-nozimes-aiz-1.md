@@ -7,7 +7,7 @@ C
 LV0528600
 dabas liegums "Kalnciema pļavas"
 234.
-A
+C
 LV0528700
 dabas liegums "Melnā ezera purvs"
 235.
@@ -99,7 +99,7 @@ B
 LV0531200
 dabas liegums "Rukšu purvs"
 257.
-B
+C
 LV0531300
 dabas liegums "Pāces pļavas"
 258.
@@ -143,11 +143,9 @@ C
 LV0532400
 dabas liegums "Asūnes ezers"
 268.
-B
-LV0532500
-dabas liegums "Audīles mežs"
+(izslēgts ar 18.06.2009. likumu)
 269.
-A
+C
 LV0532600
 dabas liegums "Burgas pļavas"
 270.
@@ -418,6 +416,18 @@ mikroliegums "Mežamatveju kadiķu pļavas"
 B
 LV0831900
 mikroliegums "Mežamatveju pļavas"
+337.
+B
+LV0536500
+dabas liegums "Pāvilostas pelēkā kāpa"
+338.
+B
+LV0843500
+mikroliegums "Igaunijas riests"
+339.
+C
+LV0536600
+dabas liegums "Lubāna mitrājs"
 Šā pielikuma tabulas ailē "Tips" ar:
 "A" apzīmētas
 teritorijas, kas noteiktas īpaši aizsargājamo putnu sugu aizsardzībai;
