@@ -1,0 +1,1 @@
+1.pants. 2009.gada 9.februārī Rīgā parakstītais Latvijas Republikas valdības un Tadžikistānas Republikas valdības nolīgums par gaisa satiksmi (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
