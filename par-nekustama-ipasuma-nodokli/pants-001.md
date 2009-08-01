@@ -15,7 +15,7 @@
 6) nekustamo īpašumu, kas atzīts par valsts aizsargājamo kultūras pieminekli, un zemi tā uzturēšanai, izņemot zemi dzīvojamo māju uzturēšanai, kā arī saimnieciskajā darbībā izmantotu nekustamo īpašumu. Attiecībā uz nekustamo īpašumu - valsts aizsargājamo kultūras pieminekli - par saimniecisku darbību nav uzskatāma tā izmantošana kultūras vajadzībām, izņemot kinoteātrus un videotēkas;
 7) Ministru kabineta noteiktajā kārtībā zemi, kuru aizņem atjaunotās vai ieaudzētās mežaudzes (jaunaudzes);
 7¹) (izslēgts ar 22.11.2001. likumu);
-8) masu aktīvās atpūtas centrus, sporta būves un ēkas un zemi to uzturēšanai neatkarīgi no īpašuma piederības atbilstoši Ministru kabineta noteikumiem;
+8) nacionālās sporta bāzes un zemi to uzturēšanai;
 9) individuālo dzīvojamo māju apbūvē ietilpstošās ēkas, ja tās netiek izmantotas saimnieciskās darbības veikšanai, daudzdzīvokļu dzīvojamo māju daļas, ko izmanto dzīvošanai, un mākslinieku darbnīcas, kas netiek izmantotas saimnieciskās darbības veikšanai, kā arī šo māju apbūvē ietilpstošās palīgēkas;
 10) kapsētu teritoriju zemi, sēru ceremoniju ēkas, krematorijas un zemi to uzturēšanai;
 11) valstij un pašvaldībām piekritīgo nekustamo īpašumu, kas nav nodots lietošanā vai iznomāts;
