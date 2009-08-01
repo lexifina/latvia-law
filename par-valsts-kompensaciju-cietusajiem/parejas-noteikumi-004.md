@@ -1,0 +1,1 @@
+4. Valsts kompensācijas pieprasījumus, kurus Juridiskās palīdzības administrācija saņēmusi līdz 2009.gada 1.augustam, tā izskata un valsts kompensāciju piešķir atbilstoši normatīvajiem aktiem, kas bija spēkā līdz 2009.gada 1.augustam.
