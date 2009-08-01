@@ -23,4 +23,4 @@
 16) izmēģinājumu un inovatīvo emisijas samazināšanas tehnoloģiju izmantošanu kuģošanas līdzekļos.
 (3) Ministru kabinets nosaka kopējo valstī maksimāli pieļaujamo emisiju gaisā konkrētā laikposmā un konkrētiem piesārņojuma veidiem.
 (4) Ministru kabinets nosaka kārtību, kādā biedrība "Latvijas Antīko automobiļu klubs" izsniedz apliecinājumu par to, ka transportlīdzeklis atbilst antīkā transportlīdzekļa statusam, lai iegādātos produktus ar paaugstinātu gaistošo organisko savienojumu saturu.
-(5) Ministru kabinets nosaka bioeļļas kvalitātes prasības, izmantošanas un kontroles kārtību.
+(5) Ministru kabinets nosaka bioeļļas kvalitātes prasības un mežizstrādes darbos izmantojamo griezējinstrumentu eļļošanai lietojamās bioeļļas izmantošanas un kontroles kārtību.
