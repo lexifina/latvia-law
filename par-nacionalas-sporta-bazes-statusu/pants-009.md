@@ -1,0 +1,2 @@
+9.pants. Paziņošana par rīcību ar nacionālās sporta bāzes sastāvā esošo nekustamo īpašumu
+Ja nacionālo sporta bāzi veidojošais nekustamais īpašums ir sadalīts (arī ja no tā tiek atdalīta kāda atsevišķa daļa), atsavināts vai apgrūtināts ar lietu tiesībām normatīvajos aktos noteiktajā kārtībā, sporta bāzes īpašniekam ir pienākums 30 dienu laikā pēc attiecīgā darījuma noslēgšanas (nekustamā īpašuma sadales gadījumā - pēc attiecīgu izmaiņu izdarīšanas Nekustamā īpašuma valsts kadastrā) par to rakstveidā paziņot Izglītības un zinātnes ministrijai.

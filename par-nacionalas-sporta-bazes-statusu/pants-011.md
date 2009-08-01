@@ -1,0 +1,2 @@
+11.pants. Nacionālo sporta bāzu reģistrs
+Informācija par sporta bāzēm, kurām šajā likumā noteiktajā kārtībā piešķirts nacionālās sporta bāzes statuss, tiek apkopota Nacionālo sporta bāzu reģistrā. Nacionālo sporta bāzu reģistra turētājs un pārzinis ir Izglītības un zinātnes ministrija. Nacionālo sporta bāzu reģistrā iekļaujamās informācijas saturu un aktualizēšanas kārtību nosaka Ministru kabinets.

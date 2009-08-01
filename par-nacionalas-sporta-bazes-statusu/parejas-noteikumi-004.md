@@ -1,0 +1,1 @@
+4. Ja šo pārejas noteikumu 2.punktā minētās sporta bāzes īpašnieks līdz 2010.gada 31.maijam nav šajā likumā noteiktajā kārtībā iesniedzis iesniegumu par nacionālās sporta bāzes statusa piešķiršanu, attiecīgā sporta bāze ar 2011.gada 1.janvāri zaudē nacionālās sporta bāzes statusu.
