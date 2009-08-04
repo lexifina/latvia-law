@@ -14,6 +14,7 @@
 jūlija otro sestdienu - Jūras svētku dienu;
 11. augustu - Latvijas brīvības cīnītāju piemiņas dienu;
 21. augustu - Konstitucionālā likuma "Par Latvijas Republikas valstisko statusu" pieņemšanas un Latvijas Republikas faktiskās neatkarības atjaunošanas dienu;
+23. augustu - staļinisma un nacisma upuru atceres dienu;
 1. septembri - Zinību dienu;
 22. septembri - Baltu vienības dienu;
 oktobra pirmo svētdienu - Skolotāju dienu;
