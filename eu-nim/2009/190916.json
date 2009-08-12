@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2009.gada 4.augusta noteikumi Nr.857 \"Kārtība, kādā nodrošināma sakaru tīklu darbība Kuģu satiksmes uzraudzības un informācijas datu apmaiņas sistēmas ietvaros\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "126(4112)",
+  "official_journal_page": null,
+  "official_journal_date": "2009-08-11",
+  "entry_into_force": "2009-08-12",
+  "notification_date": "2012-05-22",
+  "commission_reference": "MNE(2012)52444",
+  "nim_celex": "72010L0065LVA_190916",
+  "nim_id": "190916",
+  "transposes_celex": [
+    "32010L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/77831eda-a83d-4ec3-a014-842fb604d5e5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
