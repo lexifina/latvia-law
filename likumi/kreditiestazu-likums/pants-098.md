@@ -1,1 +1,1 @@
-98.pants. Kredītiestāde veic lietvedības un citu dokumentu sagatavošanu, reģistrāciju un uzglabāšanu saskaņā ar valstī noteikto dokumentu standartu, likumu "Par arhīviem" un Finanšu un kapitāla tirgus komisijas norādījumiem.
+98.pants. Kredītiestāde sagatavo lietvedības un citus dokumentus, reģistrē un uzglabā tos saskaņā ar valstī noteikto dokumentu standartu un likumu "Par arhīviem".

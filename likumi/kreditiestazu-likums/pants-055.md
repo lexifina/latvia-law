@@ -1,1 +1,1 @@
-55.pants. Kredītiestāde veic savu aktīvu un ārpusbilances saistību novērtēšanu saskaņā ar likumiem un Finanšu un kapitāla tirgus komisijas norādījumiem.
+55.pants. Kredītiestāde novērtē savu aktīvu kvalitāti saskaņā ar šo likumu un Finanšu un kapitāla tirgus komisijas normatīvajiem noteikumiem.

@@ -9,7 +9,7 @@
 7) ne vēlāk kā mēneša laikā pēc Finanšu ministrijas pieprasījuma saņemšanas nodot tranzītkredītu apkalpošanu Finanšu ministrijai vai tās norādītajai bankai;
 8) informēt tiesu par sanācijas piemērošanu un nosūtīt tiesai zināšanai lēmumu par sanācijas piemērošanu, un likumā noteiktajā kārtībā iesniegt tiesā pieteikumu par bankrota procedūras uzsākšanu;
 9) sniegt Finanšu un kapitāla tirgus komisijai un Latvijas Bankai informāciju par maksātnespējas procesa gaitu un to noteiktajos termiņos iesniegt visu pieprasīto informāciju, kas tām nepieciešama savu funkciju pildīšanai;
-10) katra mēneša pirmo 10 dienu laikā iesniegt publicēšanai laikrakstā "Latvijas Vēstnesis" kredītiestādes iepriekšējā mēneša pēdējās dienas bilanci un pārskatu par atgūtajiem aktīviem (mantu) un maksātnespējas procesa izdevumiem iepriekšējā mēnesī;
+10) katra mēneša pirmo 10 dienu laikā iesniegt publicēšanai laikrakstā "Latvijas Vēstnesis" kredītiestādes iepriekšējā mēneša pārskatu, kas atspoguļo finanšu stāvokli pārskata perioda beigās, un pārskatu par atgūtajiem aktīviem, tai skaitā mantu, un maksātnespējas procesa izdevumiem iepriekšējā mēnesī;
 11) kārtot grāmatvedību atbilstoši šā likuma 75.panta prasībām;
 12) sniegt šajā likumā un likumā "Par Latvijas Republikas Uzņēmumu reģistru", kā arī Zemesgrāmatu likumā paredzēto informāciju Uzņēmumu reģistram un zemesgrāmatu nodaļām;
 13) iesniegt likumos noteiktajā kārtībā kompetentām institūcijām ziņojumus un materiālus par maksātnespējas procesa gaitā atklātajiem faktiem, kuri var būt par pamatu krimināllietas ierosināšanai;
