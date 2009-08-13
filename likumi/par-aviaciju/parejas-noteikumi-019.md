@@ -1,0 +1,1 @@
+19. Ministru kabinets līdz 2010.gada 31.decembrim izdod šā likuma 39.panta otrajā daļā minētos noteikumus. Līdz to spēkā stāšanās dienai piemērojami Ministru kabineta 2006.gada 21.marta noteikumi Nr.213 "Noteikumi par Latvijas Republikas gaisa telpas struktūru un tās mainīšanas kārtību", ciktāl tie nav pretrunā ar šo likumu.

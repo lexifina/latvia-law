@@ -1,3 +1,3 @@
 88.¹ pants. Pasažieru tiesību aizsardzība
 Atbildīgā iestāde Eiropas Parlamenta un Padomes 2004.gada 11.februāra regulas Nr. 261/2004, ar ko paredz kopīgus noteikumus par kompensāciju un atbalstu pasažieriem sakarā ar iekāpšanas atteikumu un lidojumu atcelšanu vai ilgu kavēšanos un ar ko atceļ regulu Nr. 295/91, izpratnē ir Patērētāju tiesību aizsardzības centrs.
-Atbildīgā iestāde Eiropas Parlamenta un Padomes 2006.gada 5.jūlija regulas Nr. 1107/2006 par invalīdu un personu ar ierobežotām pārvietošanās spējām tiesībām, ceļojot ar gaisa transportu, izpratnē ir Civilās aviācijas aģentūra.
+Atbildīgā iestāde Eiropas Parlamenta un Padomes 2006.gada 5.jūlija regulas Nr. 1107/2006 par invalīdu un personu ar ierobežotām pārvietošanās spējām tiesībām, ceļojot ar gaisa transportu, izpratnē ir Civilās aviācijas aģentūra un Patērētāju tiesību aizsardzības centrs (attiecībā uz administratīvo naudas sodu uzlikšanu).

@@ -20,8 +20,10 @@ Civilās aviācijas aģentūra:
 10) sadarbojas ar citu valstu valdību pilnvarotām aviācijas institūcijām Latvijas Republikas gaisa telpas izmantošanas un civilās aviācijas darbības valsts uzraudzības un gaisa kuģu meklēšanas un glābšanas jomā;
 11) izmeklē incidentus gadījumos, kad to neveic Transporta nelaimes gadījumu un incidentu izmeklēšanas birojs atbilstoši šā panta trešās daļas 1.punktam.
 Transporta nelaimes gadījumu un incidentu izmeklēšanas birojs:
-1) izmeklē aviācijas nelaimes gadījumus, nopietnus incidentus un, ja tas nepieciešams lidojumu drošības uzlabošanai, arī incidentus;
-2) izstrādā rekomendācijas aviācijas nelaimes gadījumu un incidentu cēloņu novēršanai turpmākajā civilās aviācijas darbībā;
-3) ziņo Satiksmes ministrijai par Latvijas Republikas teritorijā un citās valstīs notikušajiem aviācijas nelaimes gadījumiem un incidentiem;
-4) ziņo ieinteresēto valstu aviācijas institūcijām, personām un Starptautiskās civilās aviācijas organizācijai (ICAO) par Latvijas Republikas teritorijā notikušajiem aviācijas nelaimes gadījumiem un incidentiem.
+1) izmeklē civilās aviācijas nelaimes gadījumus, nopietnus incidentus un, ja tas nepieciešams lidojumu drošības uzlabošanai, arī incidentus;
+2) izstrādā rekomendācijas civilās aviācijas nelaimes gadījumu un incidentu cēloņu novēršanai turpmākajā civilās aviācijas darbībā;
+3) ziņo Satiksmes ministrijai par Latvijas Republikas teritorijā un citās valstīs notikušajiem civilās aviācijas nelaimes gadījumiem un incidentiem;
+4) ziņo ieinteresēto valstu aviācijas institūcijām, personām un Starptautiskās civilās aviācijas organizācijai (ICAO) par Latvijas Republikas teritorijā notikušajiem civilās aviācijas nelaimes gadījumiem un incidentiem.
 Aviācijas departamenta, Civilās aviācijas aģentūras un Transporta nelaimes gadījumu un incidentu izmeklēšanas biroja speciālistiem ir tiesības iekļūt un netraucēti pildīt dienesta pienākumus visos civilās aviācijas objektos, kas atrodas Latvijas Republikas teritorijā.
+Civilās aviācijas aģentūra var izdot administratīvos aktus par aizliegumu vai ierobežojumu piemērošanu darbībām, kas saistītas ar civilās aviācijas personāla sertificēšanu, Latvijas Republikas gaisa telpas izmantošanu vai civilās aviācijas gaisa kuģu, lidlauku un citu civilās aviācijas objektu un iekārtu ekspluatāciju, lai nodrošinātu Eiropas Savienības tiesību aktos noteikto aviācijas drošības prasību īstenošanu. Administratīvā akta pārsūdzēšana neaptur tā darbību.
+Civilās aviācijas aģentūra Valsts pārvaldes iekārtas likumā noteiktajā kārtībā privātpersonai ar līgumu var deleģēt izpletņlēcēju desantēšanas, ultravieglo gaisa kuģu ekspluatācijas uzraudzību, ultravieglo gaisa kuģu pilotu un tehniskās apkopes personāla sertificēšanu un motoparaplānu un motodeltaplānu reģistrāciju.

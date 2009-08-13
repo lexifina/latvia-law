@@ -1,0 +1,1 @@
+20. Ministru kabinets līdz 2009.gada 31.decembrim izdod šā likuma 57.panta pirmajā daļā minētos noteikumus. Līdz to spēkā stāšanās dienai piemērojami Ministru kabineta 2006.gada 24.janvāra noteikumi Nr.76 "Kārtība, kādā tiek veikti civilās aviācijas drošības uzturēšanas pasākumi", ciktāl tie nav pretrunā ar šo likumu.

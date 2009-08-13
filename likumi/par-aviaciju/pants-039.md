@@ -1,3 +1,5 @@
-39. pants. Latvijas Republikas gaisa telpas struktūra
-Lai organizētu šā likuma 40. pantā minēto darbību un veiktu tās uzraudzību, valsts akciju sabiedrība "Latvijas gaisa satiksme" izstrādā Latvijas Republikas gaisa telpas struktūru (gaisa trases, maršrutus, nekontrolējamo lidojumu un speciālo lidojumu zonas, lidlauku satiksmes zonas un gaisa satiksmes vadības zonas, aizliegtās zonas u. c.), kas nodrošina gaisa telpas kompleksu izmantošanu atbilstoši visu fizisko un juridisko personu interesēm.
-Latvijas Republikas gaisa telpas struktūru un tās mainīšanas kārtību nosaka Ministru kabinets.
+39. pants. Latvijas Republikas gaisa telpas pārvaldība
+Lai organizētu šā likuma 40.pantā minēto darbību un nodrošinātu gaisa telpas pārvaldību, izveido tādu Latvijas Republikas gaisa telpas struktūru, kas atbilst Eiropas Savienības tiesību aktos noteiktajiem elastīgas gaisa telpas izmantošanas principiem.
+Ministru kabinets nosaka:
+1) Latvijas Republikas gaisa telpas struktūru un tās mainīšanas kārtību;
+2) Latvijas Republikas gaisa telpas pārvaldības kārtību.
