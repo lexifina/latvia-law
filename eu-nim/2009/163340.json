@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Publisko iepirkumu likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "120",
+  "official_journal_page": null,
+  "official_journal_date": "2009-07-30",
+  "entry_into_force": "2009-08-13",
+  "notification_date": "2009-08-03",
+  "commission_reference": "MNE(2009)53422",
+  "nim_celex": "72004L0018LVA_163340",
+  "nim_id": "163340",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/adb1e24f-3bc3-4ff3-81dd-0b506660d209",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
