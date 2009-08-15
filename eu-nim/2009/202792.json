@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2009.gada 11.augusta noteikumi Nr.883 \"Noteikumi par atļaujām elektroenerģijas ražošanas  jaudu palielināšanai vai jaunu ražošanas iekārtu ieviešanai\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "129 (4115)",
+  "official_journal_page": null,
+  "official_journal_date": "2009-09-14",
+  "entry_into_force": "2009-08-15",
+  "notification_date": "2013-04-04",
+  "commission_reference": "MNE(2013)52458",
+  "nim_celex": "72009L0028LVA_202792",
+  "nim_id": "202792",
+  "transposes_celex": [
+    "32009L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2ec86c23-c718-441e-93b7-fe8c10a0c195",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
