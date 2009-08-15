@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2009.gada 11.augusta noteikumi Nr.886 \"Noteikumi par noziedzīgo nodarījumu novēršanas, atklāšanas un izmeklēšanas ziņu sniegšanas veidlapu saturu un formu\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "129 (4115)",
+  "official_journal_page": null,
+  "official_journal_date": "2009-08-14",
+  "entry_into_force": "2009-08-15",
+  "notification_date": "2015-05-14",
+  "commission_reference": "MNE(2015)53464",
+  "nim_celex": "72006F0960LVA_226472",
+  "nim_id": "226472",
+  "transposes_celex": [
+    "32006F0960"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/40e369a4-6323-11e7-b2f2-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
