@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Programma cilvēku tirdzniecības novēršanai \n2009.–2013.gadam",
+  "type_of_act": "Administrative measures",
+  "official_journal": "Administrative measures",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2009-08-27",
+  "entry_into_force": "2009-08-27",
+  "notification_date": null,
+  "commission_reference": "MNE(2013)52593",
+  "nim_celex": "72011L0036LVA_202977",
+  "nim_id": "202977",
+  "transposes_celex": [
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1cd18293-42ee-40b1-b38e-214149440366",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
