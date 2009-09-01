@@ -9,7 +9,7 @@
 (8) Konkurences padomes lēmumu paraksta Konkurences padomes priekšsēdētājs.
 (9) Konkurences padomes priekšsēdētājs:
 1) vada un organizē Konkurences padomes darbu un ir atbildīgs par to;
-2) ir Konkurences padomes finansu līdzekļu rīkotājs un atbild par to izlietošanu;
+2) ir Konkurences padomes finanšu līdzekļu rīkotājs un atbild par to izlietošanu;
 3) vada un organizē Konkurences padomes sēdes;
 4) bez īpaša pilnvarojuma pārstāv Konkurences padomi;
 5) (izslēgts ar 22.04.2004. likumu);
