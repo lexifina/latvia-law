@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2009. gada 25. augusta noteikumi Nr. 970 \"Sabiedrības līdzdalības kārtība attīstības plānošanas procesā\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "141",
+  "official_journal_page": null,
+  "official_journal_date": "2009-09-04",
+  "entry_into_force": "2009-09-05",
+  "notification_date": "2021-09-08",
+  "commission_reference": "MNE(2021)06400",
+  "nim_celex": "72018L0958LVA_202106400",
+  "nim_id": "202106400",
+  "transposes_celex": [
+    "32018L0958"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0b4f0a9f-1247-11ec-b4fe-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
