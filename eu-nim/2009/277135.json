@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2009.gada 15.septembra noteikumi Nr.1056 “Lauksaimniecības produktu integrētās audzēšanas, uzglabāšanas un marķēšanas prasības un kontroles kārtība”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "149",
+  "official_journal_page": null,
+  "official_journal_date": "2009-09-18",
+  "entry_into_force": "2009-09-19",
+  "notification_date": "2019-09-16",
+  "commission_reference": "MNE(2019)55426",
+  "nim_celex": "72019L0782LVA_277135",
+  "nim_id": "277135",
+  "transposes_celex": [
+    "32019L0782"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f2d5298b-db85-11e9-9c4e-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
