@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par universālā pasta pakalpojuma sarakstu",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "151",
+  "official_journal_page": null,
+  "official_journal_date": "2009-09-23",
+  "entry_into_force": "2009-09-24",
+  "notification_date": "2009-12-28",
+  "commission_reference": "MNE(2009)55682",
+  "nim_celex": "71997L0067LVA_165641",
+  "nim_id": "165641",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/2201fd8d-2475-487e-b493-dfc0e487f5ec",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
