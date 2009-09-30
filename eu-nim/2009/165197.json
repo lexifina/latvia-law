@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Par Valsts civilās aizsardzības plānu",
+  "type_of_act": "Ministru kabineta rīkojums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "157",
+  "official_journal_page": null,
+  "official_journal_date": "2009-10-02",
+  "entry_into_force": "2009-09-30",
+  "notification_date": "2009-12-09",
+  "commission_reference": "MNE(2009)55247",
+  "nim_celex": "72007L0060LVA_165197",
+  "nim_id": "165197",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/718abf8b-366f-4919-9625-6097240533a5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
