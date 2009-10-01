@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Publiskās un privātās partnerības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "107",
+  "official_journal_page": null,
+  "official_journal_date": "2009-07-09",
+  "entry_into_force": "2009-10-01",
+  "notification_date": "2009-07-14",
+  "commission_reference": "MNE(2009)53179",
+  "nim_celex": "72005L0075LVA_163084",
+  "nim_id": "163084",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/2b1abbef-12d6-4df3-96ad-f6a861f8697e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
