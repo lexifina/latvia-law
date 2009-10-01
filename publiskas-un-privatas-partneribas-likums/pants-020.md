@@ -1,0 +1,3 @@
+20.pants. Paziņojumi, to veidlapas
+(1) Ministru kabinets nosaka šā likuma 38.panta pirmajā daļā un 53.panta pirmajā daļā minēto paziņojumu saturu, kārtību, kādā tie iesniedzami Iepirkumu uzraudzības birojam, un apstiprina paziņojumu veidlapu paraugus.
+(2) Ja paredzamā līgumcena būvdarbu koncesijas līgumiem ir vienāda ar Ministru kabineta noteiktajām līgumcenu robežām vai lielāka, šā likuma 57.panta pirmajā daļā minētā paziņojuma veidlapas paraugu nosaka Eiropas Komisijas 2005.gada 7.septembra regula (EK) Nr. 1564/2005, ar ko izveido standarta veidlapas paziņojumu publicēšanai iepirkuma procedūru ietvaros, ievērojot Eiropas Parlamenta un Padomes direktīvu 2004/17/EK un 2004/18/EK.

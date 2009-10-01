@@ -1,0 +1,5 @@
+42.pants. Pretendentu atlase
+(1) Nolikumā paredzētajā laikā koncesijas procedūras komisija izvērtē pretendentu iesniegto informāciju un dokumentus, lai noteiktu to atbilstību nolikumā noteiktajiem pretendentu atlases kritērijiem.
+(2) Koncesijas procedūras komisija ir tiesīga pārbaudīt nepieciešamo informāciju kompetentā institūcijā, publiski pieejamās datubāzēs vai citos publiski pieejamos avotos. Ja koncesijas procedūras komisija ir ieguvusi informāciju minētajā veidā un šī informācija neatbilst faktiskajai situācijai, pretendents ir tiesīgs iesniegt izziņu vai citu dokumentu par attiecīgo faktu.
+(3) Ja koncesijas procedūras komisijai rodas šaubas par iesniegtā dokumenta oriģināla atvasinājuma autentiskumu, tā pieprasa, lai pretendents uzrāda attiecīgā dokumenta oriģinālu.
+(4) Ja nolikumā ir ietverts nosacījums, ka koncesijas procedūras komisija patur sev tiesības pieprasīt piedāvājumus tikai no ierobežota pretendentu skaita, komisija sagatavo to pretendentu sarakstu, kuri tiks aicināti iesniegt piedāvājumus.

@@ -1,0 +1,5 @@
+111.pants. Privātā dalībnieka kapitāla daļu pāreja kopsabiedrībai
+(1) Ja finansētājs izmanto šā likuma 99.panta pirmajā daļā noteiktās iejaukšanās tiesības un šā likuma 100.panta otrajā daļā noteiktajā kārtībā piedāvā citu privāto dalībnieku kopsabiedrībā esošā privātā dalībnieka vietā, lai privātais partneris turpinātu publiskās un privātās partnerības līguma izpildi, šāda kopsabiedrības privātā dalībnieka kapitāla daļas pāriet kopsabiedrībai.
+(2) Kopsabiedrības valde pēc šā likuma 102.panta pirmajā daļā minētā lēmuma saņemšanas Komerclikumā noteiktajā kārtībā izdara ierakstu kopsabiedrības dalībnieku reģistrā vai akcionāru reģistrā (turpmāk - dalībnieku reģistrs) par to, ka kapitāla daļas ir pārgājušas kopsabiedrībai.
+(3) Šā panta pirmajā daļā minētajā gadījumā kopsabiedrībai ir pienākums izmaksāt bijušajam kopsabiedrības dalībniekam atlīdzību atbilstoši tai likvidācijas kvotai, kuru viņš saņemtu, ja kopsabiedrības darbība tiktu izbeigta kapitāla daļu pārejas brīdī.
+(4) Šā panta trešajā daļā minēto likvidācijas kvotu aprēķina šā likuma 96.pantā noteiktajā kārtībā.

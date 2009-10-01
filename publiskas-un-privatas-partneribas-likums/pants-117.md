@@ -1,0 +1,3 @@
+117.pants. Kopsabiedrības atlikušās mantas sadale
+(1) Kopsabiedrības darbības izbeigšanas gadījumā likvidācijas kvotas ietvaros sabiedrības mantu sadala tā, lai publiskā partnera resursus, ko tas ieguldījis kopsabiedrības pamatkapitālā, kopā ar neatdalāmajiem ieguldījumiem nodotu atpakaļ publiskajam partnerim.
+(2) Ja publiskajam partnerim pienākošās likvidācijas kvotas vērtība ir mazāka nekā šā panta pirmajā daļā minēto publiskā partnera resursu un neatdalāmo ieguldījumu vērtība, kārtību, kādā kopsabiedrības privātajam dalībniekam atlīdzina likvidācijas kvotas samazinājumu, paredz publiskās un privātās partnerības līgumā.

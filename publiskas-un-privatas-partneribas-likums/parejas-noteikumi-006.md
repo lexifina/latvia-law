@@ -1,0 +1,1 @@
+6. Saskaņā ar šā likuma 11.pantu Ministru kabinets līdz 2009.gada 1.oktobrim apstiprina uzraudzības institūcijas darbību reglamentējošo normatīvo aktu un uzraudzības institūcijas darbības finansēšanas kārtību.

@@ -1,0 +1,6 @@
+82.pants. Jauna publiskās un privātās partnerības līguma noslēgšana
+(1) Jaunais publiskās un privātās partnerības līgums tiek slēgts par to pašu līguma priekšmetu un ar tādiem pašiem noteikumiem kā sākotnējais publiskās un privātās partnerības līgums, ņemot vērā konkrētā līguma izpildes stadiju.
+(2) Lai finansētāja piedāvātais pretendents iepazītos ar līguma projektu, ņemot vērā šā panta pirmajā daļā noteikto, publiskā partnera pārstāvis šā likuma 79.panta otrajā daļā minētajam paziņojumam pievieno jaunā publiskās un privātās partnerības līguma projektu, norādot, kuri līguma noteikumi ir reglamentēti kā negrozāmi.
+(3) Pirms jaunā koncesijas līguma projekta nosūtīšanas finansētājam publiskā partnera pārstāvis līguma projektu nosūta uzraudzības institūcijai, lai saņemtu atzinumu par risku sadales starp publisko partneri un privāto partneri atbilstību koncesijas līgumam. Uzraudzības institūcija atzinumu par jauno koncesijas līguma projektu sniedz šā likuma 34.pantā noteiktajā kārtībā.
+(4) Sarunas ar finansētāja piedāvāto pretendentu par publiskās un privātās partnerības līguma projektu notiek šā likuma 52.pantā noteiktajā kārtībā.
+(5) Līdzēju parakstīto jauno publiskās un privātās partnerības līgumu publiskā partnera pārstāvis nosūta uzraudzības institūcijai.

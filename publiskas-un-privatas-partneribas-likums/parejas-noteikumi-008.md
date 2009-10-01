@@ -1,0 +1,1 @@
+8. Ministru kabinets līdz 2009.gada 1.oktobrim izdod šā likuma 9.panta ceturtajā daļā, 12.panta trešajā daļā, 14.panta otrajā daļā, 15.panta trešajā daļā, 20.panta pirmajā daļā un 69.panta otrajā daļā minētos noteikumus.

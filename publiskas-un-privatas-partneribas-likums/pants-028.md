@@ -1,0 +1,16 @@
+28.pants. Iesniegumu izskatīšanas komisijas izveidošana
+(1) Iepirkumu uzraudzības birojs izveido iesniegumu izskatīšanas komisiju ne mazāk kā triju locekļu sastāvā.
+(2) Iesniegumu izskatīšanas komisijas sastāvā iekļauj Iepirkumu uzraudzības biroja amatpersonas, no kurām vismaz vienai ir augstākā juridiskā izglītība (apguvusi akadēmisko studiju programmu tiesību zinātnēs vai otrā līmeņa augstāko profesionālo studiju programmu tiesību zinātnēs, iegūstot jurista kvalifikāciju).
+(3) Lai izskatītu iesniegumus, Iepirkumu uzraudzības birojs ir tiesīgs uzaicināt arī attiecīgās nozares ekspertus un publiskās un privātās partnerības lietpratējus. Ekspertam un lietpratējam iesniegumu izskatīšanas komisijas sēdēs nav balsstiesību, bet ir tiesības izteikt neatkarīgu profesionālo viedokli par iesnieguma izskatīšanas laikā konstatētajiem faktiem vai sniegt atzinumu par iesniegumu izskatīšanas komisijas uzdotajiem jautājumiem.
+(4) Par iesniegumu izskatīšanas komisijas locekli nevar būt tāda persona un komisijas sēdē nevar pieaicināt tādu ekspertu vai lietpratēju, kurš:
+1) iepriekš sniedzis konsultācijas par koncesijas procedūru, kas minēta iesniegumu izskatīšanas komisijai adresētajā iesniegumā;
+2) ir ieinteresēts iegūt tiesības uz koncesijas līgumu;
+3) ir saistīts ar iesnieguma iesniedzēju vai citu pretendentu, kas piedalījies koncesijas procedūrā.
+(5) Šā panta ceturtās daļas izpratnē iesniegumu izskatīšanas komisijas loceklis, eksperts vai lietpratējs ir saistīts ar iesnieguma iesniedzēju vai citu pretendentu, ja viņš ir pretendenta vai tā apakšuzņēmēja:
+1) komersanta vai juridiskās personas pašreizējais vai bijušais darbinieks, amatpersona, dalībnieks, akcionārs vai biedrs un ja šī saistība ar komersantu vai juridisko personu izbeigusies pēdējo 24 mēnešu laikā;
+2) komersanta vai juridiskās personas dalībnieka, akcionāra vai biedra, kuram pieder vismaz 10 procenti kapitāla daļu, vai to amatpersonas tēvs, māte, vectēvs, vecāmāte, bērns, mazbērns, brālis, māsa, pusbrālis, pusmāsa, laulātais;
+3) fiziskās personas laulātais vai radinieks, kas atrodas ar šo personu šīs daļas 2.punktā minētajās radniecības attiecībās.
+(6) Iesniegumu izskatīšanas komisijas locekļu, ekspertu vai lietpratēju saistība ar iesnieguma iesniedzēju vai citu pretendentu attiecas arī uz gadījumiem, kad pretendents ir personu apvienība, kuras dalībnieki ir komersanti, fiziskās vai juridiskās personas, ar kurām komisijas loceklim, ekspertam vai lietpratējam ir šā panta piektajā daļā minētā saistība.
+(7) Pirms iesnieguma izskatīšanas visi iesniegumu izskatīšanas komisijas locekļi, eksperti un lietpratēji paraksta apliecinājumu par to, ka nepastāv šā panta piektajā daļā minētie apstākļi un ka viņi nav saistīti ar iesnieguma iesniedzēju vai citu pretendentu.
+(8) Iesniegumu izskatīšanas komisijas darbu vada komisijas priekšsēdētājs. Komisijas priekšsēdētāju ieceļ Iepirkumu uzraudzības birojs no komisijas locekļu vidus.
+(9) Iesniegumu izskatīšanas komisija ir lemttiesīga, ja attiecīgā jautājuma izskatīšanā piedalās vairāk par pusi komisijas locekļu. Iesniegumu izskatīšanas komisija lēmumus pieņem balsojot. Lēmums ir pieņemts, ja par to nobalso iesniegumu izskatīšanas komisijas locekļu vairākums. Ja balsu skaits sadalās līdzīgi, izšķirošā ir iesniegumu izskatīšanas komisijas priekšsēdētāja balss.

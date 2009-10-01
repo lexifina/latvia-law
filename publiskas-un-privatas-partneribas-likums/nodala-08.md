@@ -1,0 +1,1 @@
+VIII nodaļa. Pretendentu atlase

@@ -1,0 +1,3 @@
+80.pants. Iejaukšanās tiesību izmantošanas kārtība
+(1) Ja publiskā partnera pārstāvis ir paziņojis privātajam partnerim un tā finansētājam par šā likuma 79.panta otrajā daļā minēto lēmumu vai šā likuma 73.panta trešajā vai piektajā daļā minēto paziņojumu, finansētājs viena mēneša laikā paziņo publiskā partnera pārstāvim, vai viņš vēlas izmantot iejaukšanās tiesības.
+(2) Finansētājs iejaukšanās tiesības izmanto informācijas apmaiņas līgumā noteiktajā kārtībā un termiņos. Informācijas apmaiņas līgumā noteiktais finansētāja iejaukšanās tiesību izmantošanas termiņš, ievērojot šā likuma 81.panta piektajā daļā noteikto, nevar pārsniegt sešus mēnešus no šā likuma 79.panta otrajā daļā minētā publiskā partnera paziņojuma saņemšanas dienas.

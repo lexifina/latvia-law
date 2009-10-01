@@ -1,0 +1,5 @@
+22.pants. Koncesijas procedūras dokumentu glabāšana
+(1) Publiskā partnera pārstāvis visus šā likuma 21.panta otrajā daļā minēto dokumentu oriģinālus, kā arī pretendentu iesniegto piedāvājumu oriģinālus glabā 10 gadus pēc koncesijas līguma izbeigšanās.
+(2) Ja koncesijas procedūra tiek izbeigta vai pārtraukta šajā likumā noteiktajā kārtībā, publiskā partnera pārstāvis attiecīgos šā likuma 21.panta otrajā daļā minēto dokumentu oriģinālus, kā arī pretendentu iesniegto piedāvājumu oriģinālus glabā piecus gadus pēc tam, kad koncesijas procedūras komisija pieņēmusi lēmumu par attiecīgās koncesijas procedūras izbeigšanu vai pārtraukšanu.
+(3) Ja šā panta otrajā daļā minētais koncesijas procedūras komisijas lēmums par attiecīgās koncesijas procedūras izbeigšanu vai pārtraukšanu tiek šajā likumā noteiktajā kārtībā pārsūdzēts, publiskā partnera pārstāvis attiecīgo šā likuma 21.panta otrajā daļā minēto dokumentu oriģinālus, kā arī pretendentu iesniegto piedāvājumu oriģinālus glabā piecus gadus pēc tiesas nolēmuma spēkā stāšanās.
+(4) Iesniegumu izskatīšanas komisijas protokolu un iesnieguma izskatīšanas laikā iegūto ziņu glabāšanas termiņš ir 10 gadi.

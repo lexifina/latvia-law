@@ -1,0 +1,5 @@
+104.pants. Privātā kapitāla piesaiste valsts vai pašvaldības kapitālsabiedrībai
+(1) Privātā kapitāla piesaiste valsts vai pašvaldības kapitālsabiedrībai notiek saskaņā ar likuma "Par valsts un pašvaldību kapitāla daļām un kapitālsabiedrībām" noteikumiem, ievērojot šā panta nosacījumus.
+(2) Ja, pieņemot lēmumu par publiskās un privātās partnerības procedūras uzsākšanu, šā likuma 16.panta pirmās daļas 1. un 2.punktā minētā institūcija vēlas izveidot kopsabiedrību, piesaistot privāto kapitālu valsts vai pašvaldības kapitālsabiedrībai, tā šā likuma 16.panta sestajā daļā minētajā lēmumā norāda valsts vai pašvaldības kapitālsabiedrību, kurai tiks piesaistīts privātais kapitāls.
+(3) Šā panta otrajā daļā minētais lēmums aizstāj likumā "Par valsts un pašvaldību kapitāla daļām un kapitālsabiedrībām" paredzēto Ministru kabineta vai pašvaldības domes (padomes) lēmumu par privātā kapitāla piesaisti valsts vai pašvaldības kapitālsabiedrībai.
+(4) Pēc kopsabiedrības ierakstīšanas komercreģistrā kopsabiedrības privātais dalībnieks kopā ar katru publisko partneri kā kopsabiedrības dalībnieku paraksta dalībnieku līgumu.

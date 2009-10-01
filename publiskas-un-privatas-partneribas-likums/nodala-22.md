@@ -1,0 +1,1 @@
+XXII nodaļa. Kopsabiedrības izveidošana

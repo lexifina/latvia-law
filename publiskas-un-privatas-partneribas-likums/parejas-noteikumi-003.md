@@ -1,0 +1,1 @@
+3. Ja Ministru kabinets vai attiecīgās pašvaldības dome (padome) Koncesiju likumā noteiktajā kārtībā ir pieņēmusi lēmumu par koncesijas resursu nodošanu koncesijā un apstiprinājusi koncesijas piešķiršanas nosacījumus, turpmākajām darbībām tiek piemērotas Koncesiju likuma normas.

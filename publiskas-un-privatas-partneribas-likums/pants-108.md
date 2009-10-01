@@ -1,0 +1,3 @@
+108.pants. Kopsabiedrības darbība
+(1) Ja tas nekavē publiskās un privātās partnerības līguma veiksmīgu izpildi un ir paredzēts publiskās un privātās partnerības līgumā, publiskās un privātās partnerības līguma izpildes laikā kopsabiedrība ir tiesīga nodarboties arī ar citiem, publiskās un privātās partnerības līgumā neparedzētiem komercdarbības veidiem, ņemot vērā Valsts pārvaldes iekārtas likumā noteikto.
+(2) Ja publiskās un privātās partnerības līguma izpildes laikā kopsabiedrība vēlas veikt citu komercdarbību un tas atbilst šā panta pirmajā daļā noteiktajam, lēmumu par to pieņem kopsabiedrības dalībnieku sapulce. Lēmums tiek pieņemts, ja par to nobalso visi kopsabiedrības dalībnieki.

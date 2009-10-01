@@ -1,0 +1,7 @@
+18.pants. Informācijas apmaiņa
+(1) Informācijas apmaiņa starp koncesijas procedūras komisiju un pretendentiem notiek pa pastu, faksu vai elektronisko pastu atkarībā no koncesijas procedūras komisijas izvēles.
+(2) Koncesijas procedūras komisija izvēlas tādus informācijas apmaiņas līdzekļus, kuri ir pieejami adresātam un nodrošina pēc iespējas ātru informācijas saņemšanu.
+(3) Ja informācijas apmaiņā tiek izmantoti informācijas tehnoloģiju un elektronisko sakaru līdzekļi, izvēlas tādus sakaru līdzekļus, kuri ir publiski pieejami un savietojami ar vispārlietotiem informācijas un komunikācijas tehnoloģiju produktiem, tādējādi novēršot iespēju diskriminēt pretendentus uz šā pamata.
+(4) Informācijas apmaiņu un uzglabāšanu veic tā, lai visi pieteikumos un piedāvājumos iekļautie dati būtu aizsargāti un citas personas normatīvajos aktos par informācijas atklātību noteiktajos gadījumos un kārtībā varētu pārbaudīt pieteikumu un piedāvājumu saturu pēc to iesniegšanas termiņa beigām.
+(5) Laikā no pieteikumu vai piedāvājumu iesniegšanas dienas līdz to atvēršanas brīdim koncesijas procedūras komisija nesniedz informāciju par citu pieteikumu vai piedāvājumu esamību. Pieteikumu un piedāvājumu vērtēšanas laikā līdz rezultātu paziņošanai koncesijas procedūras komisija nesniedz informāciju par vērtēšanas procesu.
+(6) Koncesijas procedūras komisija nodrošina iesniegtās informācijas konfidencialitāti saskaņā ar normatīvajiem aktiem par informācijas atklātību.
