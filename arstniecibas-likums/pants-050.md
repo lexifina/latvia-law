@@ -3,7 +3,7 @@
 1) citām ārstniecības personām ārstniecības mērķu sasniegšanai;
 2) Veselības un darbspējas ekspertīzes ārstu komisijai (VDEĀK);
 3) Veselības inspekcijai;
-4) Veselības obligātās apdrošināšanas valsts aģentūrai veselības aprūpes pakalpojumu administrēšanai;
+4) Veselības norēķinu centram veselības aprūpes pakalpojumu administrēšanai;
 5) Valsts darba inspekcijai - nelaimes gadījumu darbā un arodslimību izmeklēšanai un uzskaitei.
 (3) Tiesai, prokuratūrai, policijai, atbildīgajai valsts institūcijai bērnu un ģimenes lietās (valsts bērnu tiesību aizsardzības inspektoriem), bāriņtiesai (pagasttiesai), kā arī institūcijām, kuras veic izziņu, ziņas par pacientu sniedzamas tikai pēc šo institūciju rakstveida pieprasījuma, ja ir ārstniecības iestādes vadītāja parakstīta atļauja.
 (4) Zinātniskos pētījumos ziņas par pacientu var izmantot, ja ir garantēta pacienta anonimitāte vai saņemta viņa piekrišana.
