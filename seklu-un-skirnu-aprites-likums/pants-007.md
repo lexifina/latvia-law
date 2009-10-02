@@ -4,7 +4,7 @@
 1) šķirne atbilst vienam no šādiem nosacījumiem:
 a) tā ir iekļauta Latvijas augu šķirņu katalogā,
 b) tā ir iekļauta kādā no Eiropas Savienības kopējiem šķirņu katalogiem un saskaņā ar šā likuma 6.panta sesto daļu Valsts augu aizsardzības dienestam ir iesniegts oficiālais šķirnes apraksts,
-c) tā ir iekļauta Ekonomiskās sadarbības un attīstības organizācijas (OECD) sēklu shēmu (kurās piedalās Latvija) šķirņu sarakstā un šīs šķirnes sēklas paredzētas eksportam;
+c) tā ir iekļauta Ekonomiskās sadarbības un attīstības organizācijas (OECD) sēklu shēmu (kurās piedalās Latvija) šķirņu sarakstā un šīs šķirnes sēklas paredzētas izvešanai uz valstīm, kas nav Eiropas Savienības dalībvalstis;
 2) lauks, kurā sēklas audzē, atbilst sēklaudzēšanas un sēklu tirdzniecības noteikumu prasībām;
 3) sēklu kvalitāte atbilst sēklaudzēšanas un sēklu tirdzniecības noteikumu prasībām;
 4) ir nokārtoti ar sēklu sertificēšanu saistītie maksājumi.

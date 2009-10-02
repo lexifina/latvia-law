@@ -1,2 +1,2 @@
 IV nodaļa
-Sēklu sertifikācija un šķirnes sējumu reģistrācija
+Sēklu sertifikācija, sēklu pārbaude un šķirnes sējumu reģistrācija

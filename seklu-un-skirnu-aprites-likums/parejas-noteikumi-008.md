@@ -1,0 +1,1 @@
+8. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2009.gada 1.decembrim piemērojami Ministru kabineta 2008.gada 9.decembra noteikumi Nr.1006 "Noteikumi par valsts nodevu sēklu aprites jomā", ciktāl tie nav pretrunā ar šo likumu.
