@@ -1,0 +1,1 @@
+2.pants. Garantiju līgums un ar to saistītais Ieilgušo parādu pārvaldes līgums stājas spēkā attiecīgi Garantiju līguma 11.pantā un Ieilgušo parādu pārvaldes līguma 11.pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo laikrakstā "Latvijas Vēstnesis".
