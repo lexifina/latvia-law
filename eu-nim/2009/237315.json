@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2009.gada 6.oktobra noteikumi Nr.1151 “Noteikumi par radiofrekvenču spektra joslu sadalījumu radiosakaru veidiem un iedalījumu radiosakaru sistēmām, kā arī par radiofrekvenču spektra joslu izmantošanas vispārīgajiem nosacījumiem (Nacionālais radiofrekvenču plāns)”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "161 (4147)",
+  "official_journal_page": null,
+  "official_journal_date": "2009-10-09",
+  "entry_into_force": "2009-10-10",
+  "notification_date": "2016-05-06",
+  "commission_reference": "MNE(2016)53020",
+  "nim_celex": "72014L0053LVA_237315",
+  "nim_id": "237315",
+  "transposes_celex": [
+    "32014L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/51321447-d07b-4336-b07b-a180cab7c3e5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
