@@ -1,1 +1,3 @@
-48.pants. Lauksaimniecības dzīvnieku drīkst nokaut bez apdullināšanas galējas nepieciešamības gadījumā, kā arī gadījumā, kad slimības vai traumas dēļ iespējama dzīvnieka nobeigšanās.
+48.pants. (1) Lauksaimniecības dzīvnieku atļauts nokaut, izmantojot pirmskaušanas apdullināšanu, izņemot ierobežotās platībās turētu savvaļas sugas dzīvnieku un brīvās turēšanas sistēmā turētu gaļas šķirnes liellopu.
+(2) Lauksaimniecības dzīvnieku, izmantojot pēckaušanas apdullināšanu, atļauts nokaut kautuvē saskaņā ar reliģisko kopienu tradicionālajām gaļas ieguves metodēm un normatīvajiem aktiem par labturības prasībām kaušanai paredzēto lauksaimniecības dzīvnieku aizsardzībai.
+(3) Lauksaimniecības dzīvnieku atļauts nokaut bez apdullināšanas galējas nepieciešamības gadījumā, kā arī gadījumā, kad slimības vai traumas dēļ iespējama dzīvnieka nobeigšanās.
