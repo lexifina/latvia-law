@@ -1,0 +1,1 @@
+46. Personām, kas noslēgušas ar valsts akciju sabiedrību "Latvijas Hipotēku un zemes banka" zemes izpirkuma (pirkuma) līgumu, kurā piemērots atliktais maksājums (nomaksa), kurā norēķinu termiņš noteikts līdz pieciem gadiem un kurš noslēgts līdz 2009.gada 15.oktobrim, pēc šo personu rakstveida gribas izteikuma maksimālais norēķinu termiņš var tikt pagarināts līdz 10 gadiem.
