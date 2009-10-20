@@ -10,4 +10,4 @@
 9) izskata un pieņem lēmumus par tiem revīzijas ziņojumiem, par kuriem, domām daloties, nav pieņemts revīzijas departamenta lēmums (20.panta trešā daļa). Revīzijas departamenta direktors, kurš piedalījies revīzijas ziņojuma izskatīšanā iepriekš, ir tiesīgs piedalīties padomes sēdē, taču nepiedalās balsošanā;
 10) apstiprina Valsts kontroles budžeta pieprasījumu;
 11) apstiprina Valsts kontroles struktūru, darbinieku štatu sarakstu, amatu kvalifikācijas prasības un darba samaksas sistēmu;
-12) nosaka Valsts kontroles kancelejā ietilpstošās struktūrvienības un to pakļautību.
+12) (izslēgts ar 17.09.2009. likumu).

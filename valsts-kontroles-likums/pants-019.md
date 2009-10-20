@@ -3,5 +3,5 @@
 2) pārbauda un apstiprina katru revīzijas plānu un tā atbilstību kārtējā gada revīziju plānam;
 3) pārstāv Valsts kontroli sarunās ar revidējamo vienību sektora veiktās revīzijas sakarā;
 4) pārrauga revīzijas pierādījumu iegūšanas procesu un, ja nepieciešams, arī iesaistās revīzijā;
-5) pārbauda un apstiprina revīzijas ziņojuma projektus pirms to nosūtīšanas revidējamai vienībai paskaidrojuma sniegšanai;
+5) pārbauda revīziju ziņojumu projektus, revīziju ziņojumus un atzinumus un paraksta tos;
 6) veic citus pienākumus saskaņā ar amata aprakstu.

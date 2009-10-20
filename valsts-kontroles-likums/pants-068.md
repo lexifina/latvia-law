@@ -1,1 +1,1 @@
-68.pants. Revidējamās vienības pienākums ir parakstīt Valsts kontroles revidentu ziņojumu un nosūtīt šo ziņojumu atpakaļ Valsts kontrolei tās noteiktajā termiņā.
+68.pants. Revidējamās vienības pienākums ir parakstīt Valsts kontroles revīzijas ziņojuma projektu un nosūtīt to atpakaļ Valsts kontrolei tās noteiktajā termiņā.

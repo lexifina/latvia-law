@@ -1,3 +1,3 @@
 64.pants. (1) Ja ar Valsts kontroles revīzijas departamenta lēmumu tieši tiek aizskartas kādas personas vai revidējamās vienības tiesības un tiesiskās intereses, personai vai revidējamai vienībai ir tiesības 15 dienu laikā no lēmuma pieņemšanas dienas to apstrīdēt Valsts kontroles padomē.
 (2) Sūdzības iesniedzējam vai tā pilnvarotiem pārstāvjiem ir tiesības piedalīties Valsts kontroles padomes sēdē, kurā tiek izskatīta šā panta pirmajā daļā minētā sūdzība, un sniegt paskaidrojumus par revīzijā konstatētajiem faktiem un pārbaudītajiem dokumentiem, ko revidējamā vienība sniegusi Valsts kontrolei revīzijas veikšanas laikā.
-(3) Ja ar Valsts kontroles revīzijas departamenta lēmumu nav tieši aizskartas personas vai revidējamās vienības tiesības vai tiesiskās intereses un Valsts kontroles padome ir pieņēmusi lēmumu par šīs personas vai revidējamās vienības sūdzības atstāšanu bez izskatīšanas, tad šāds lēmums nav pārsūdzams.
+(3) (Izslēgta ar 17.09.2009. likumu.)
