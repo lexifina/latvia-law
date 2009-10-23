@@ -4,12 +4,18 @@
 (2¹) No nodokļa Latvijas Republikā tiek atbrīvotas akcīzes preces, kas ir zudušas citās dalībvalstīs (pārvietojot akcīzes preces uz citām dalībvalstīm saskaņā ar šā likuma 25.pantu), ņemot vērā šā likuma 25.panta astotajā daļā minētajos dokumentos uzrādīto un attiecīgās dalībvalsts kompetento iestāžu apstiprināto informāciju par zudumiem. Akcīzes preču noliktavas turētājs, kas nosūtījis akcīzes preces, maksā akcīzes nodokli par zudumiem, ņemot vērā zudumu apjomu un citus saņēmēja dalībvalsts nosacījumus. Akcīzes nodokli maksā tās dalībvalsts budžetā, kurā zudumi konstatēti, pēc šīs dalībvalsts akcīzes nodokļa likmēm un citiem nosacījumiem. Pēc attiecīgās dalībvalsts nodokļu administrācijas pieprasījuma Valsts ieņēmumu dienests kontrolē šā akcīzes nodokļa iekasēšanu un pārskaitīšanu tās dalībvalsts budžetā, kurā zudumi konstatēti.
 (3) Ministru kabineta noteiktajā kārtībā no nodokļa atbrīvo akcīzes preces, kuras fiziskā persona ieved savam patēriņam Latvijas Republikā no citām dalībvalstīm.
 (4) No nodokļa atbrīvo akcīzes preces, kuras ir fiziskās personas personīgajā bagāžā, kas par tādu uzskatāma likuma "Par pievienotās vērtības nodokli" izpratnē (turpmāk - personīgā bagāža), un kuras šī persona ieved no ārvalsts, kas nav dalībvalsts, no teritorijām, kuras minētas šā likuma 2.panta 3.¹ daļā, no Ālandu salām vai Normandijas salām, nepārsniedzot šādus daudzumus, ar nosacījumu, ka šāda preču ievešana nav komerciāla:
-1) tabakas izstrādājumus:
+1) tabakas izstrādājumus, ja fiziskā persona ceļo ar gaisakuģi:
 a) 200 cigaretes,
 b) 100 cigarillas,
 c) 50 cigāri,
 d) 250 g smēķējamās tabakas,
 e) šā panta ceturtās daļas 1.punkta "a", "b", "c" un "d" apakšpunktā minētie tabakas izstrādājumi jebkurā kombinācijā, ja procentu daļa, ko izmanto no individuāli noteiktajiem daudzumiem, kopā nepārsniedz 100 procentus. Katrs šā panta ceturtās daļas 1.punkta "a", "b", "c" un "d" apakšpunktā norādītais daudzums atsevišķi veido 100 procentus no attiecīgajā apakšpunktā norādītā tabakas izstrādājuma daudzuma;
+1¹) tabakas izstrādājumus, ja fiziskā persona neceļo ar gaisakuģi:
+a) 40 cigaretes,
+b) 20 cigarillas,
+c) 10 cigāri,
+d) 50 g smēķējamās tabakas,
+e) šā panta ceturtās daļas 1.¹ punkta "a", "b", "c" un "d" apakšpunktā minētie tabakas izstrādājumi jebkurā kombinācijā, ja procentu daļa, ko izmanto no individuāli noteiktajiem daudzumiem, kopā nepārsniedz 100 procentus. Katrs šā panta ceturtās daļas 1.¹ punkta "a", "b", "c" un "d" apakšpunktā norādītais daudzums atsevišķi veido 100 procentus no attiecīgajā apakšpunktā norādītā tabakas izstrādājuma daudzuma;
 2) alkoholiskos dzērienus:
 a) viens litrs alkoholiskā dzēriena ar spirta saturu virs 22 tilpumprocentiem vai nedenaturēta etilspirta ar spirta saturu 80 procenti vai vairāk,
 b) divi litri alkoholiskā dzēriena ar spirta saturu līdz 22 tilpumprocentiem, izņemot negāzēto vīnu un alu,
@@ -20,9 +26,9 @@ d) četri litri negāzētā vīna un 16 litri alus;
 a) transportlīdzekļa degvielas standarttvertnē,
 b) degvielas pārvietojamās tvertnēs - ne vairāk kā 10 litru vienam transportlīdzeklim.
 (4¹) Naftas produktiem (degvielai), kas minēti šā panta ceturtajā daļā, piemērojami Regulas Nr. 918/83 XXVII sadaļas noteikumi.
-(4²) Šā panta ceturtās daļas 1. un 2.punktā paredzētos nodokļa atbrīvojumus piemēro fiziskajai personai, kas ir sasniegusi 18 gadu vecumu.
+(4²) Šā panta ceturtās daļas 1., 1.¹ un 2.punktā paredzētos nodokļa atbrīvojumus piemēro fiziskajai personai, kas ir sasniegusi 18 gadu vecumu.
 (4³) Akcīzes preču ievešanu neuzskata par komerciālu šā panta ceturtās daļas izpratnē, ja tā atbilst šādiem nosacījumiem:
-1) tā nenotiek regulāri;
+1) tā nenotiek regulāri (ne biežāk kā vienu reizi dienā);
 2) akcīzes preces paredzētas fiziskās personas personīgai vai ģimenes lietošanai.
 (4⁴) Šā panta 4.³ daļas izpratnē akcīzes preču ievešanu neuzskata par komerciālu, ja akcīzes preces ieved tādā daudzumā un vērtībā, kas neliecina, ka tās būtu ievestas komerciāliem nolūkiem.
 (5) No nodokļa atbrīvo akcīzes preces, kuras fiziskā persona no ārvalsts, kas nav dalībvalsts, no teritorijām, kuras minētas šā likuma 2.panta 3.¹ daļā, no Ālandu salām vai Normandijas salām nosūta pa pastu fiziskajai personai Latvijas Republikā un kuras ir atbrīvotas no muitas nodokļa saskaņā ar Regulu Nr. 918/83.
