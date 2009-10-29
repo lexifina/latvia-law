@@ -1,0 +1,1 @@
+1.pants. 2009.gada 9.februārī Rīgā parakstītais Latvijas Republikas un Tadžikistānas Republikas līgums par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
