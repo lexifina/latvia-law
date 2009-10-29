@@ -1,0 +1,1 @@
+36. Šā likuma 59.⁶ panta pirmās un otrās daļas noteikumi par aizliegumiem nav piemērojami bankai, kurai pirms šīs tiesību normas spēkā stāšanās atbilstoši normatīvajiem aktiem par komercdarbības atbalstu ir sniegts komercdarbības atbalsts vai kurai ir noteikti noguldījumu ierobežojumi.
