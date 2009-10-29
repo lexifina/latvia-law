@@ -1,0 +1,1 @@
+1.pants. 2008.gada 16.jūnijā parakstītais Stabilizācijas un asociācijas nolīgums starp Eiropas Kopienām un to dalībvalstīm, no vienas puses, un Bosniju un Hercegovinu, no otras puses (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.
