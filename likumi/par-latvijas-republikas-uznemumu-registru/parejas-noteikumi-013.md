@@ -1,0 +1,1 @@
+13. Ja lēmums par koncesijas resursu nodošanu koncesijā pieņemts un koncesijas piešķiršanas nosacījumi apstiprināti saskaņā ar Koncesiju likuma noteikumiem, Uzņēmumu reģistrs koncesijas līgumu reģistrē publiskās un privātās partnerības līgumu reģistrā, reģistrācijai piemērojot Publiskās un privātās partnerības likuma noteikumus.

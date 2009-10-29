@@ -1,0 +1,1 @@
+12. Uzņēmumu reģistrs ne vēlāk kā līdz 2009.gada 20.novembrim, nepieņemot atsevišķu lēmumu, iekļauj publiskās un privātās partnerības līgumu reģistrā tos koncesijas līgumu reģistra ierakstus, kuri, pamatojoties uz Koncesiju likumu, izdarīti līdz Publiskās un privātās partnerības likuma spēkā stāšanās dienai.
