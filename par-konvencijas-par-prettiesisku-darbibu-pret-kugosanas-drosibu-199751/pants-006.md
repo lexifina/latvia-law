@@ -1,0 +1,1 @@
+6.pants. Likums stājas spēkā nākamajā dienā pēc tā izsludināšanas. Līdz ar likumu izsludināms Konvencijas 2005.gada Protokols un Protokola 2005.gada Protokols angļu valodā un to tulkojums latviešu valodā.

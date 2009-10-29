@@ -1,0 +1,1 @@
+3.pants. Saskaņā ar Konvencijas 2005.gada Protokola 8.bis panta 15.punktu Ārlietu ministrija paziņo Starptautiskās Jūras organizācijas ģenerālsekretāram, ka atbildīgā institūcija, kas saņem palīdzības pieprasījumus un atbild uz tiem, ir Latvijas Republikas Nacionālo bruņoto spēku Jūras spēku Krasta apsardzes dienests.

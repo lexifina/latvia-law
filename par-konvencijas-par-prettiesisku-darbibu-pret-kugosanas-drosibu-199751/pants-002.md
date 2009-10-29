@@ -1,0 +1,1 @@
+2.pants. Saskaņā ar Konvencijas 2005.gada Protokola 8.bis panta 15.punktu Ārlietu ministrija paziņo Starptautiskās Jūras organizācijas ģenerālsekretāram, ka atbildīgās institūcijas, kas apstiprina kuģa valsts piederību un sniedz pilnvarojumu veikt attiecīgus pasākumus, ir Drošības policija un Ģenerālprokuratūra savas kompetences ietvaros.

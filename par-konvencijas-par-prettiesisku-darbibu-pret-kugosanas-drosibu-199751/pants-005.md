@@ -1,0 +1,1 @@
+5.pants. Konvencijas 2005.gada Protokols stājas spēkā tās 18.pantā noteiktajā laikā un kārtībā, Protokola 2005.gada Protokols stājas spēkā tā 9.pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo laikrakstā "Latvijas Vēstnesis".
