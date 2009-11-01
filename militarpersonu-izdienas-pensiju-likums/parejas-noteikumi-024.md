@@ -1,0 +1,1 @@
+24. Personai, kurai bija noteikta invaliditāte un kura laikā no 2009.gada 1.jūlija līdz 2009.gada 31.oktobrim saskaņā ar šo pārejas noteikumu 14., 15., 16. un 17.punktu saņēma izdienas pensiju ierobežotā apmērā, nesaņemto pensijas daļu izmaksā no 2009.gada 1.novembra.

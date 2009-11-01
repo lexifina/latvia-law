@@ -1,0 +1,1 @@
+23. Šo pārejas noteikumu 22.punkta noteikumus izdienas pensijas saņēmējiem, kuriem noteikta invaliditāte, piemēro ar nākamā mēneša pirmo datumu pēc mēneša, kurā invaliditāte noteikta. Noteikumu piemērošanu pārtrauc ar nākamā mēneša pirmo datumu pēc mēneša, kurā invalīda statuss zaudēts.
