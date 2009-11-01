@@ -1,0 +1,1 @@
+22. Lai atgūtu izdienas pensiju pārmaksas, kas radušās, nepiemērojot šo pārejas noteikumu 18., 19., 20. un 21.punktā noteiktos ierobežojumus, Iekšlietu ministrijas veselības un sociālo lietu valsts aģentūra veic ieturējumus 10 procentu apmērā no izdienas pensijas saņēmējam piešķirtās izdienas pensijas.
