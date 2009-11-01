@@ -19,7 +19,7 @@ Likumā ir lietoti šādi termini:
 17) kurināmā drošības rezerve - energoapgādes komersanta īpašumā esošs noteikts kurināmā krājums, kas ir nepieciešams, lai nodrošinātu enerģijas lietotāju nepārtrauktu apgādi ar attiecīgā veida enerģiju;
 18) licence - saskaņā ar likumu izsniegta speciāla atļauja, kas nosaka energoapgādes komersanta tiesības un pienākumu nodarboties ar energoapgādi licences darbības zonā;
 19) licences darbības zona - licencē noteikta teritorija, kurā ir tiesīgs darboties konkrētais energoapgādes komersants un enerģijas lietotājs;
-20) regulators - valsts vai pašvaldības iestāde, kura saskaņā ar likumu regulē energoapgādi;
+20) regulators - valsts iestāde, kura saskaņā ar likumu regulē energoapgādi;
 21) horizontālā integrācija - viens energoapgādes komersants vai koncerns veic vismaz vienu no enerģijas ražošanas, pārvades, sadales, piegādes vai dabasgāzes uzglabāšanas funkcijām un kādu darbību, kas nav saistīta ar energoapgādi;
 22) vertikālā integrācija - viens energoapgādes komersants vai koncerns veic vismaz vienu no šādiem energoapgādes veidiem: enerģijas pārvade vai sadale vai dabasgāzes uzglabāšana un vismaz vienu no šādiem energoapgādes veidiem: enerģijas ražošana vai tirdzniecība;
 23) sistēmas operators - energoapgādes komersants, kas pilda enerģijas pārvades, sadales vai dabasgāzes uzglabāšanas funkcijas un atbild par sistēmas ekspluatāciju, uzturēšanas nodrošināšanu un, ja vajadzīgs, - attīstību noteiktā teritorijā, kā arī par sistēmas savstarpēju savienošanu ar citām sistēmām un par sistēmas spēju ilgtermiņā nodrošināt pamatotu pieprasījumu attiecībā uz enerģijas transportēšanu un uzglabāšanu;
