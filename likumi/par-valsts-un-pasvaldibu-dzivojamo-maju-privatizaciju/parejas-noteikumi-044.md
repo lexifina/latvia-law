@@ -1,0 +1,1 @@
+44. Šā likuma 54.panta otrajā daļā paredzētais privatizētā dzīvokļa un mākslinieka darbnīcas īpašniekam noteiktais pienākums kompensēt zemes īpašniekam nekustamā īpašuma nodokļa par zemi maksājumu piemērojams no 2010.gada 1.janvāra.
