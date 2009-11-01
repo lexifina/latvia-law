@@ -1,1 +1,1 @@
-7. Zemes nomas maksa, kas noteikta atbilstoši šā likuma 12.panta pirmajā un otrajā daļā noteiktajai kārtībai, 2008., 2009. un 2010.gadā nedrīkst pārsniegt iepriekšējam gadam aprēķināto zemes nomas maksas apmēru vairāk nekā par 25 procentiem.
+7. Zemes nomas maksa, kas noteikta atbilstoši šā likuma 12.panta pirmajā, otrajā un 2.¹ daļā paredzētajai kārtībai, 2009. un 2010.gadā nedrīkst pārsniegt iepriekšējam gadam aprēķināto zemes nomas maksas apmēru vairāk kā par 25 procentiem.
