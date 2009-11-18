@@ -1,0 +1,1 @@
+5.pants. Ar Līguma spēkā stāšanos spēku zaudē likums "Par Latvijas Republikas valdības un Kanādas valdības līgumu par ieguldījumu veicināšanu un aizsardzību" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 14.nr.).

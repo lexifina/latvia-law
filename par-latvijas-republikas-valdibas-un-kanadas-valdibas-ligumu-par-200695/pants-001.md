@@ -1,0 +1,1 @@
+1.pants. 2009.gada 5.maijā Rīgā parakstītais Latvijas Republikas valdības un Kanādas valdības līgums par ieguldījumu veicināšanu un aizsardzību (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
