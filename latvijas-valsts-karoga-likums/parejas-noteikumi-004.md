@@ -1,0 +1,1 @@
+4. Līdz šā likuma 22.panta pirmās daļas 3.punktā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2010.gada 1.janvārim ir piemērojami Ministru kabineta 1996.gada 9.jūlija noteikumi Nr.252 "Noteikumi par Latvijas valsts karoga lietošanas kārtību uz kuģiem", ciktāl tie nav pretrunā ar šo likumu.

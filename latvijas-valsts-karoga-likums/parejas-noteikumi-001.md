@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par Latvijas valsts karogu" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 2.nr.; 2000, 12.nr.; 2001, 5.nr.; 2004, 12.nr.; 2009, 3.nr.).

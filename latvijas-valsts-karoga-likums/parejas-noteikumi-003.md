@@ -1,0 +1,1 @@
+3. Līdz šā likuma 22.panta pirmās daļas 2.punktā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2010.gada 1.maijam ir piemērojami Ministru kabineta 2001.gada 25.septembra noteikumi Nr.412 "Likuma "Par Latvijas valsts karogu" piemērošanas noteikumi", ciktāl tie nav pretrunā ar šo likumu.

@@ -1,0 +1,3 @@
+14.pants. Latvijas valsts karoga novietošana uz valsts amatpersonas dienesta automašīnas
+(1) Proporcionāli samazinātu Latvijas valsts karogu novieto uz valsts amatpersonas dienesta automašīnas priekšējā labā spārna.
+(2) Ja automašīnā kopā ar šā likuma 13.panta 1.punktā minētu Latvijas valsts amatpersonu atrodas atbilstoša ranga citas valsts vai starptautiskas publiskas organizācijas amatpersona, proporcionāli samazinātu Latvijas valsts karogu novieto uz automašīnas priekšējā kreisā spārna, bet citas valsts vai starptautiskas publiskas organizācijas karogu - uz automašīnas priekšējā labā spārna atbilstoši amatpersonu vietai automašīnā.
