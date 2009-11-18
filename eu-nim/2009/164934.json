@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par gaisa kvalitāti",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "182",
+  "official_journal_page": null,
+  "official_journal_date": "2009-11-17",
+  "entry_into_force": "2009-11-18",
+  "notification_date": "2009-12-01",
+  "commission_reference": "MNE(2009)54986",
+  "nim_celex": "72004L0107LVA_164934",
+  "nim_id": "164934",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/618ce8fa-382d-4913-aa98-ac3406050b28",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
