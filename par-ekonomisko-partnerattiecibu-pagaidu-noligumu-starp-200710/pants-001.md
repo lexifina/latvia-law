@@ -1,0 +1,1 @@
+1.pants. 2008.gada 26.novembrī Abidžanā un 2009.gada 22.janvārī Briselē parakstītais Ekonomisko partnerattiecību pagaidu nolīgums starp Kotdivuāru, no vienas puses, un Eiropas Kopienu un tās dalībvalstīm, no otras puses (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.
