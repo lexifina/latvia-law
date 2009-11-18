@@ -1,5 +1,5 @@
 31.pants. Adopcija
 (1) Lai bērna attīstībai nodrošinātu ģimenisku vidi, tiek atbalstīta adopcija.
 (2) Adopcijas tiesiskos pamatus nosaka Civillikums. Adopcijas kārtību nosaka Ministru kabinets.
-(3) Likumā paredzētajos gadījumos un kārtībā bērnu var adoptēt uz ārvalsti, ja šai valstij ir saistoša kāda no starptautiskajām konvencijām, kas nosaka bērna tiesību aizsardzību un sadarbību starpvalstu adopcijā, vai ja Latvija ar to ir noslēgusi divpusēju līgumu par tiesisko sadarbību adopcijas jomā.
+(3) Likumā paredzētajos gadījumos un kārtībā bērnu var adoptēt uz ārvalsti, ja šai valstij ir saistoša 1993.gada 29.maija Hāgas konvencija par bērnu aizsardzību un sadarbību starpvalstu adopcijas jautājumos vai ja Latvija ar attiecīgo valsti ir noslēgusi divpusēju līgumu, kas nosaka tiesisko sadarbību adopcijas jomā. Izņēmuma gadījumā bērnu var adoptēt uz ārvalsti, kurai nav saistoša minētā konvencija vai ar kuru Latvija nav noslēgusi divpusēju līgumu, kas nosaka tiesisko sadarbību adopcijas jomā, ja pirms adopcijas procesa uzsākšanas starp bērnu un adoptētāju ir izveidojušās patiesas bērnu un vecāku attiecības un bāriņtiesa, kas lēmusi par ārpusģimenes aprūpi, ir atzinusi, ka adopcija atbilst bērna interesēm.
 (4) Adoptējamo bērnu un to personu uzskaite, kuras vēlas adoptēt bērnu, nodrošināma adopcijas reģistrā Ministru kabineta noteiktajā kārtībā.

@@ -14,4 +14,5 @@ Likumā ir lietoti šādi termini:
 12) emocionāla vardarbība - bērna pašcieņas aizskaršana vai psiholoģiska ietekmēšana (draudot viņam, lamājot, pazemojot viņu vai citādi kaitējot viņa emocionālajai attīstībai);
 13) vecāku nolaidība - bērna aprūpes un uzraudzības pienākumu nepildīšana;
 14) ielas bērni - bērni, kuriem ir nepietiekama saikne ar ģimeni un kuri lielāko daļu laika pavada uz ielas vai citos bērna attīstībai nepiemērotos apstākļos;
-15) viesģimene - laulātie vai persona, kas uz laiku uzņem savā dzīvesvietā bērnu aprūpes iestādē ievietotu bērnu vai bērnu aprūpes iestādē kontaktējas ar tur ievietotu bērnu.
+15) viesģimene - laulātie vai persona, kas uz laiku uzņem savā dzīvesvietā bērnu aprūpes iestādē ievietotu bērnu vai bērnu aprūpes iestādē kontaktējas ar tur ievietotu bērnu;
+16) daudzbērnu ģimene - ģimene, kura aprūpē trīs vai vairāk bērnus, tai skaitā audžuģimenē ievietotus un aizbildnībā esošus bērnus.
