@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2009.gada 3.novembra noteikumi Nr.1294 \"Kārtība, kādā atbrīvo no dabas resursu nodokļa samaksas par videi kaitīgām precēm\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "183 (4169)",
+  "official_journal_page": null,
+  "official_journal_date": "2009-11-20",
+  "entry_into_force": "2009-11-21",
+  "notification_date": "2017-04-20",
+  "commission_reference": "MNE(2017)52223",
+  "nim_celex": "72006L0066LVA_247026",
+  "nim_id": "247026",
+  "transposes_celex": [
+    "32006L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ba312f8b-adab-4dd1-8547-c11a44419b0e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
