@@ -81,7 +81,7 @@
 65) par iesnieguma izvērtēšanu personas reģistrācijai vai izmaiņu veikšanu fitosanitārajai kontrolei pakļauto augu un augu produktu apritē iesaistīto personu reģistrā, par iesnieguma izskatīšanu personas iekļaušanai koka iepakojuma marķētāju reģistrā, par augu aizsardzības līdzekļa reģistrāciju un uzturēšanu augu aizsardzības līdzekļu reģistrā;
 66) par iesnieguma izvērtēšanu personas reģistrācijai un izmaiņu veikšanu Sēklaudzētāju un sēklu tirgotāju reģistrā;
 67) par šķirnes uzturēšanu, iesnieguma izvērtēšanu šķirnes iekļaušanai un uzturēšanas termiņa pagarināšanai Latvijas augu šķirņu katalogā;
-68) par iesnieguma izvērtēšanu atļaujas izsniegšanai par tādu sēklu un sēklas kartupeļu materiāla izmantošanu, kas nav iegūts ar bioloģisko lauksaimnieciskās ražošanas metodi;
+68) par atļaujas izsniegšanu tāda veģetatīvā pavairošanas materiāla un sēklu izmantošanai bioloģiskajā lauksaimniecībā, kas nav iegūti ar bioloģiskās lauksaimniecības ražošanas metodi;
 69) par atļaujas saņemšanu mēslošanas līdzekļa ievešanai vai tirdzniecībai;
 70) par Ciltsdarba likumā noteikto sertificējamo personu kvalifikācijas sertifikāta izsniegšanu, par ganāmpulka, dzīvnieku un novietņu reģistrēšanu un par dzīvnieku apzīmēšanai nepieciešamo dokumentu izsniegšanu;
 71) par atļaujas izsniegšanu transportlīdzeklim pārtikas pārvadāšanai;
