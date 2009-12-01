@@ -1,0 +1,1 @@
+5. Nomas līgumiem, kas noslēgti līdz šā likuma 6.¹ panta spēkā stāšanās dienai un neatbilst minētā panta pirmās daļas prasībām, piemērojami likuma noteikumi, kas bija spēkā, slēdzot attiecīgo nomas līgumu. Iznomātājs izvērtē iespējas izbeigt līgumu, kas neatbilst šā likuma 6.¹ panta pirmās daļas prasībām, un šādas rīcības lietderību.
