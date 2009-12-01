@@ -1,3 +1,3 @@
 V nodaļa
 Atbildība par pārkāpumiem, veicot darbības
-ar ķīmiskajām vielām un ķīmiskajiem produktiem
+ar ķīmiskajām vielām un maisījumiem

@@ -1,4 +1,4 @@
-12.pants. Ķīmisko vielu un ķīmisko produktu iepakojums un marķējums
-(1) Ķīmisko vielu vai ķīmisko produktu ražotājam vai importētājam jānodrošina bīstamo ķīmisko vielu vai ķīmisko produktu iepakojuma izturība un drošums.
-(2) Ķīmisko vielu vai ķīmisko produktu ražotājs vai importētājs nodrošina, lai valstī tālākai izplatīšanai paredzētais bīstamo ķīmisko vielu vai ķīmisko produktu iepakojums būtu marķēts latviešu valodā.
-(3) Ķīmisko vielu un ķīmisko produktu iepakošanas un marķēšanas kārtību nosaka Ministru kabinets.
+12.pants. Ķīmisko vielu un maisījumu iepakojums un marķējums
+(1) Ķīmisko vielu vai maisījumu ražotājam vai importētājam jānodrošina bīstamo ķīmisko vielu vai maisījumu iepakojuma izturība un drošums.
+(2) Ķīmisko vielu vai maisījumu ražotājs, importētājs vai izplatītājs nodrošina, lai valstī tālākai izplatīšanai paredzētais bīstamo ķīmisko vielu vai maisījumu iepakojums būtu marķēts latviešu valodā.
+(3) Ķīmisko vielu un maisījumu iepakošanas un marķēšanas kārtību nosaka Ministru kabinets.

@@ -1,3 +1,3 @@
 IV nodaļa
 Ierobežojumi attiecībā uz darbībām
-ar ķīmiskajām vielām un ķīmiskajiem produktiem
+ar ķīmiskajām vielām un maisījumiem

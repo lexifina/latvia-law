@@ -1,3 +1,3 @@
-7.pants. Ķīmisko vielu un ķīmisko produktu datu bāze un informatīvā sistēma
-(1) Ķīmisko vielu un ķīmisko produktu datu bāzē iekļauj avāriju likvidēšanai, uzraudzības un kontroles īstenošanai nepieciešamās ziņas par Latvijā lietotajām ķīmiskajām vielām un ķīmiskajiem produktiem, kā arī bīstamo ķīmisko vielu sarakstu, Eiropas Savienībā tirdzniecībā esošo ķīmisko vielu sarakstu (EINECS) un Eiropas Savienībā pieteikto ķīmisko vielu sarakstu (ELINCS).
-(2) Ministru kabinets noteic, kāda informācija tiek sniegta, uzturēta, apkopota un izvērtēta Ķīmisko vielu un ķīmisko produktu datu bāzē, kā arī ķīmisko vielu un ķīmisko produktu uzskaites kārtību.
+7.pants. Ķīmisko vielu un maisījumu datu bāze un informatīvā sistēma
+(1) Ķīmisko vielu un maisījumu datu bāzē iekļauj avāriju likvidēšanai, uzraudzības un kontroles īstenošanai nepieciešamās ziņas par Latvijā lietotajām ķīmiskajām vielām un maisījumiem, kā arī bīstamo ķīmisko vielu sarakstu, Eiropas Savienībā tirdzniecībā esošo ķīmisko vielu sarakstu (EINECS) un Eiropas Savienībā pieteikto ķīmisko vielu sarakstu (ELINCS).
+(2) Ministru kabinets noteic, kāda informācija tiek sniegta, uzturēta, apkopota un izvērtēta Ķīmisko vielu un maisījumu datu bāzē, kā arī ķīmisko vielu un maisījumu uzskaites kārtību.
