@@ -4,4 +4,4 @@
 (1²) Bāreņiem un bez vecāku gādības palikušajiem bērniem, kas ieguvuši alternatīvo statusu, ir tiesības saņemt sociālās aprūpes pakalpojumus un šā likuma 13.panta pirmajā daļā noteiktos sociālās rehabilitācijas pakalpojumus.
 (2) Sociālo pakalpojumu un sociālās palīdzības saņemšanas kārtību nosaka Ministru kabinets un pašvaldību domes.
 (3) Kārtību, kādā saņemami pašvaldību sniegtie sociālie pakalpojumi, nosaka pašvaldību saistošajos noteikumos.
-(4) Tiesības saņemt sociālo rehabilitāciju ir cilvēku tirdzniecības upurim, kas nav Eiropas Savienības pilsonis, un tā pavadībā esošam nepilngadīgam bērnam likumā "Par cilvēku tirdzniecības upura uzturēšanos Latvijas Republikā" paredzētajos gadījumos.
+(4) Tiesības saņemt sociālo rehabilitāciju ir cilvēku tirdzniecības upurim, kas ir Eiropas Savienības pilsonis, un viņa pavadībā esošam nepilngadīgam bērnam. Cilvēku tirdzniecības upurim, kas nav Eiropas Savienības pilsonis, un viņa pavadībā esošam nepilngadīgam bērnam ir tiesības saņemt sociālo rehabilitāciju likumā "Par cilvēku tirdzniecības upura uzturēšanos Latvijas Republikā" paredzētajos gadījumos.

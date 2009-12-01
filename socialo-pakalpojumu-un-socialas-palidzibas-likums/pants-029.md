@@ -1,7 +1,9 @@
 29.pants. Ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūciju klientu tiesības
 (1) Ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijas klientam ir tiesības:
 1) patstāvīgi pieņemt lēmumus un tos īstenot tiktāl, ciktāl tas neierobežo citu personu tiesības un brīvības vai neapdraud personas veselību vai dzīvību;
-2) baudīt individuālu personāla pieeju sociālo pakalpojumu sniegšanā.
+2) baudīt individuālu personāla pieeju sociālo pakalpojumu sniegšanā;
+3) ja viņš ir pilngadīga persona, - laikposmu no viena mēneša līdz trim mēnešiem uzturēties ārpus institūcijas citas personas (ģimenes) aprūpē. Ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcija, rakstveidā vienojoties ar personu (ģimeni), nosaka šīs uzturēšanās ilgumu, pušu tiesības un pienākumus, kā arī izmaksā klienta uzturnaudu vai uztura pabalstu atbilstoši laikposmam, kuru viņš atrodas citas personas (ģimenes) aprūpē;
+4) ja viņš ir bērns, - uzturēties ārpus institūcijas citas personas (ģimenes) aprūpē saskaņā ar Bērnu tiesību aizsardzības likumu.
 (2) Ilgstošas sociālās aprūpes institūcijas klientam ir tiesības uz noteiktu naudas summu personiskiem izdevumiem šādā apmērā:
 1) pilngadīgai personai, kura ir pensijas vai valsts sociālā nodrošinājuma pabalsta saņēmēja, naudas summa, kas paliek tās rīcībā pēc ilgstošas sociālās aprūpes pakalpojuma samaksas, nedrīkst būt mazāka par 10 procentiem no šīs personas pensijas, ieskaitot piemaksu pie pensijas, vai valsts sociālā nodrošinājuma pabalsta apmēra;
 2) pilngadīgai personai, kura nav pensijas vai valsts sociālā nodrošinājuma pabalsta saņēmēja, naudas summa, kas izmaksājama no ilgstošas sociālās aprūpes institūcijas budžeta, ir 10 procenti no valsts sociālā nodrošinājuma pabalsta apmēra;

@@ -1,0 +1,1 @@
+21. Grozījums likuma 5.pantā par klienta materiālo resursu novērtēšanu līdz 2011.gada 31.decembrim nav attiecināms uz personām, kurām līdz šo grozījumu spēkā stāšanās dienai ar pieņemtu lēmumu ir piešķirts trūcīgās personas statuss.

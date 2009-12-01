@@ -7,5 +7,5 @@ Pašvaldības sociālā dienesta uzdevumi ir šādi:
 5) sniegt sociālo palīdzību;
 6) administrēt pašvaldības budžeta līdzekļus, kas novirzīti sociālo pakalpojumu un sociālās palīdzības sniegšanai;
 7) novērtēt sociālā dienesta administrēto un pašvaldības finansēto sociālo pakalpojumu un sociālās palīdzības kvalitāti;
-8) izstrādāt sociālo pakalpojumu attīstības koncepcijas, mērķprogrammas un priekšlikumus jaunu pakalpojumu ieviešanai;
+8) veikt sociālās vides izpēti, noteikt problēmas, izstrādāt sociālo pakalpojumu attīstības koncepcijas, mērķprogrammas un priekšlikumus jaunu pakalpojumu ieviešanai un piedalīties pašvaldības attīstības plānu izstrādē;
 9) informēt iedzīvotājus par sociālajiem pakalpojumiem un sociālo palīdzību.

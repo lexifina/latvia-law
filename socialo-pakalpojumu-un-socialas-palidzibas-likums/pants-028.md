@@ -9,3 +9,4 @@
 2) personai rehabilitācijas rezultātā vairs nav nepieciešami ilgstošas aprūpes un sociālās rehabilitācijas institūcijas pakalpojumi un tos var nomainīt ar pakalpojumiem dzīvesvietā;
 3) persona lūdz pārtraukt pakalpojumu sniegšanu.
 (3) Šā panta otrajā daļā minētajos gadījumos lēmumu par pakalpojuma sniegšanas pārtraukšanu pieņem attiecīgās institūcijas vadītājs, ja pašvaldība, no kuras budžeta tiek apmaksāts šis pakalpojums vai kuras administratīvajā teritorijā persona dzīvojusi pirms iestāšanās institūcijā, ir rakstveidā apliecinājusi, ka attiecīgajai personai tiks nodrošināta izmitināšana šīs pašvaldības administratīvajā teritorijā.
+(4) Ilgstošas sociālās aprūpes un sociālās rehabilitācijas pakalpojumu sniegšanu aptur, ja persona atrodas bezvēsts prombūtnē ilgāk nekā divus mēnešus no dienas, kad par pazušanas faktu ziņots policijai.
