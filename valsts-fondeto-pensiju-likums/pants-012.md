@@ -43,10 +43,13 @@ b) atvasinātajā finanšu instrumentā ietvertās saistības ir uzņēmusies kr
 1) shēmas līdzekļus drīkst ieguldīt ar saistībām nesaskaņotās valūtās, ja šādu ieguldījumu kopējais apmērs nepārsniedz 30 procentus no ieguldījumu plāna aktīviem;
 2) shēmas līdzekļu ieguldījumi ar saistībām vienā nesaskaņotā valūtā nedrīkst pārsniegt 10 procentus no ieguldījumu plāna aktīviem;
 3) ieguldījumi eirās netiek uzskatīti par ieguldījumiem nesaskaņotās valūtās šīs daļas 1. un 2.punkta izpratnē.
-(4) Fondēto pensiju shēmas līdzekļu pārvaldītājam aizliegts fondēto pensiju shēmas līdzekļus:
-1) ieguldīt nekustamajā īpašumā, izņemot ieguldījumus ieguldījumu fondos, kuri drīkst veikt ieguldījumus nekustamajā īpašumā;
-2) piešķirt aizdevumos;
-3) ieguldīt paša fondēto pensiju shēmas līdzekļu pārvaldītāja emitētajos finanšu instrumentos, izņemot tā pārvaldīšanā esošos ieguldījumu fondus, par kuru apliecību pirkšanu vai pārdošanu līdzekļu pārvaldītājs nesaņem komisijas maksu no ieguldījumu plāna līdzekļiem.
+(4) Fondēto pensiju shēmas līdzekļu pārvaldītājam aizliegts:
+1) ieguldījumu plāna līdzekļus ieguldīt nekustamajā īpašumā, izņemot ieguldījumus ieguldījumu fondos, kuri drīkst veikt ieguldījumus nekustamajā īpašumā;
+2) ieguldījumu plāna līdzekļus piešķirt aizdevumos;
+3) ieguldījumu plāna līdzekļus ieguldīt paša fondēto pensiju shēmas līdzekļu pārvaldītāja emitētajos finanšu instrumentos, izņemot tā pārvaldīšanā esošos ieguldījumu fondus, par kuru apliecību pirkšanu vai pārdošanu līdzekļu pārvaldītājs nesaņem komisijas maksu no ieguldījumu plāna līdzekļiem;
+4) ņemt aizņēmumus uz ieguldījumu plāna rēķina, izņemot aizņēmumus īslaicīgas likviditātes nodrošināšanai uz laiku līdz trim mēnešiem, nepārsniedzot 50 procentus no ieguldījumu plāna aktīviem;
+5) uz ieguldījumu plāna rēķina uzņemties saistības, kuras izriet no galvojuma līguma;
+6) slēdzot šā panta otrās daļas 15.punktā un šīs daļas 4.punktā norādītos darījumus, kopsummā pārsniegt 50 procentus no ieguldījumu plāna aktīviem.
 (5) Šajā likumā noteiktos ieguldījumu ierobežojumus, kas attiecas uz ieguldījumiem viena emitenta emitētos parāda vērtspapīros vai naudas tirgus instrumentos, kā arī viena atvērtā ieguldījumu fonda (Ieguldījumu pārvaldes sabiedrību likuma izpratnē) ieguldījumu apliecībās, ir pieļaujams pārsniegt, ja šie pārsniegumi radušies ieguldījumu plāna ieguldījumu vērtības svārstību dēļ vai ja ieguldījumu veikšanas brīdī nav iespējams noteikt vai aprēķināt emitēto parāda vērtspapīru vai naudas tirgus instrumentu daudzumu vai vērtību, kā arī emitēto vai apgrozībā esošo ieguldījumu apliecību daļu vērtību vai skaitu.
 (6) Šajā likumā noteikto ieguldījumu ierobežojumu pārsniegšana neatceļ attiecīgā darījuma spēkā esamību, bet fondēto pensiju shēmas līdzekļu pārvaldītājam ir pienākums atlīdzināt visus zaudējumus, kas radušies ieguldījumu plāna dalībniekiem un trešajām personām šādas darbības dēļ, izņemot šā panta piektajā daļā noteiktos gadījumus.
 (7) Fondēto pensiju shēmas līdzekļu pārvaldītājs nekavējoties, bet ne vēlāk kā nākamajā darba dienā rakstveidā informē Komisiju par ieguldījumu ierobežojumu pārsniegšanu, kā arī par pasākumiem šo pārkāpumu novēršanai, norādot pārkāpumu novēršanas termiņus.
