@@ -1,0 +1,3 @@
+4.¹ pants. Iekšzemes dzelzceļa pasažieru un bagāžas pārvadājumu tiesiskais regulējums
+(1) Iekšzemes dzelzceļa pasažieru un bagāžas pārvadājumus papildus šā likuma 3.pantā minētajiem normatīvajiem aktiem reglamentē Sabiedriskā transporta pakalpojumu likums un uz tā pamata izdotie Ministru kabineta noteikumi.
+(2) Eiropas Parlamenta un Padomes 2007.gada 23.oktobra regulu (EK) Nr. 1371/2007 par dzelzceļa pasažieru tiesībām un pienākumiem attiecībā uz iekšzemes dzelzceļa pasažieru un bagāžas pārvadājumiem nepiemēro līdz 2014.gada 3.decembrim, izņemot tās 9., 11., 12., 19.pantu, 20.panta 1.punktu un 26.pantu.
