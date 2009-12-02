@@ -1,0 +1,4 @@
+19.⁹ pants. Likvidācijas pabeigšana
+(1) Saskaņā ar šā likuma 19.¹ un 19.³ pantu uzsāktais likvidācijas process pabeidzams līdz 2011.gada 31.decembrim, piesakot to reģistrācijai uzņēmumu reģistrā.
+(2) Ja līdz 2012.gada 1.janvārim komercreģistra iestāde nav saņēmusi pieteikumu par uzņēmuma (uzņēmējsabiedrības), filiāles, nodaļas vai pārstāvniecības likvidācijas pabeigšanu un uzņēmuma (uzņēmējsabiedrības), filiāles, nodaļas vai pārstāvniecības izslēgšanu no uzņēmumu reģistra, uzņēmumu (uzņēmējsabiedrību), filiāli, nodaļu vai pārstāvniecību ar komercreģistra iestādes amatpersonas lēmumu izslēdz no uzņēmumu reģistra.
+(3) Manta, kas palikusi pēc uzņēmuma (uzņēmējsabiedrības), filiāles, nodaļas vai pārstāvniecības izslēgšanas no uzņēmumu reģistra šā panta otrajā daļā noteiktajā kārtībā, pielīdzināma bezmantinieka mantai atbilstoši Civillikuma 417.panta noteikumiem.

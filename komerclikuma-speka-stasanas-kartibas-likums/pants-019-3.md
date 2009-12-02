@@ -1,0 +1,10 @@
+19.³ pants. Kreditora pieteikums par likvidatora iecelšanu
+(1) Pēc šā likuma 19.¹ panta otrajā daļā noteiktā termiņa notecējuma komercreģistra iestāde publicē laikrakstā "Latvijas Vēstnesis" to uzņēmumu (uzņēmējsabiedrību), filiāļu, nodaļu un pārstāvniecību sarakstu, par kurām nav šā likuma 19.¹ pantā noteiktajā kārtībā iesniegts uzņēmuma īpašnieka vai uzņēmējsabiedrības dalībnieka (akcionāra) pieteikums par likvidatora iecelšanu. Publikācijā norāda:
+1) uzņēmuma (uzņēmējsabiedrības), filiāles, nodaļas vai pārstāvniecības reģistrācijas numuru un nosaukumu (firmu);
+2) to, ka viena mēneša laikā no publikācijas dienas kreditori var iesniegt pieteikumu komercreģistra iestādei par likvidatora iecelšanu.
+(2) Viena mēneša laikā no publikācijas dienas uzņēmuma (uzņēmējsabiedrības), filiāles, nodaļas vai pārstāvniecības kreditori, kuri saskaņā ar šā likuma 19.panta trešās daļas noteikumiem ir paziņojuši komercreģistra iestādei par saviem prasījumiem, var iesniegt pieteikumu komercreģistra iestādei par likvidatora iecelšanu. Pieteikumā norāda likvidatora vārdu, uzvārdu, personas kodu un dzīvesvietu. Pieteikumam pievieno notariāli vai komercreģistra iestādes amatpersonas apliecinātu likvidatora paraksta paraugu.
+(3) Komercreģistra iestāde izdara ierakstu par likvidatora iecelšanu, pamatojoties tikai uz pirmo iesniegto pieteikumu.
+(4) Kreditors, kurš iesniedzis šā panta trešajā daļā minēto pieteikumu, sedz likvidācijas izmaksas.
+(5) Uzņēmuma (uzņēmējsabiedrības), filiāles, nodaļas vai pārstāvniecības likvidāciju veic šā likuma 19.⁵, 19.⁶, 19.⁷, 19.⁸ un 19.⁹ pantā noteiktajā kārtībā.
+(6) Ja šā panta otrajā daļā minētajā termiņā komercreģistra iestāde nevienu pieteikumu par likvidatora iecelšanu nav saņēmusi, uzņēmumu (uzņēmējsabiedrību), filiāli, nodaļu vai pārstāvniecību ar komercreģistra iestādes amatpersonas lēmumu izslēdz no uzņēmumu reģistra.
+(7) Manta, kas palikusi pēc uzņēmuma (uzņēmējsabiedrības), filiāles, nodaļas vai pārstāvniecības izslēgšanas no uzņēmumu reģistra šā panta sestajā daļā noteiktajā kārtībā, pielīdzināma bezmantinieka mantai atbilstoši Civillikuma 417.panta noteikumiem.

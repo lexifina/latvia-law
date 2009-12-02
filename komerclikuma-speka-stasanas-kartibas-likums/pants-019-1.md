@@ -1,0 +1,8 @@
+19.¹ pants. Uzņēmuma īpašnieka vai uzņēmējsabiedrības dalībnieka (akcionāra) pieteikums par likvidatora iecelšanu
+(1) Pēc šā likuma 19.panta astotajā daļā noteiktā termiņa notecējuma komercreģistra iestāde publicē laikrakstā "Latvijas Vēstnesis" to uzņēmumu (uzņēmējsabiedrību), filiāļu, nodaļu un pārstāvniecību sarakstu, par kurām šā likuma 19.pantā noteiktajā kārtībā ir saņemti kreditoru paziņojumi par prasījumiem un par kurām nav iesniegts uzņēmuma (uzņēmējsabiedrības) pieteikums par likvidatora iecelšanu. Publikācijā norāda:
+1) uzņēmuma (uzņēmējsabiedrības), filiāles, nodaļas vai pārstāvniecības reģistrācijas numuru un nosaukumu (firmu);
+2) to, ka viena mēneša laikā no publikācijas dienas uzņēmuma īpašnieks vai uzņēmējsabiedrības dalībnieks (akcionārs) var iesniegt pieteikumu komercreģistra iestādei par likvidatora iecelšanu.
+(2) Viena mēneša laikā no publikācijas dienas uzņēmuma īpašnieks vai uzņēmējsabiedrības dalībnieks (akcionārs) var iesniegt pieteikumu komercreģistra iestādei par likvidatora iecelšanu. Pieteikumā norāda likvidatora vārdu, uzvārdu, personas kodu un dzīvesvietu. Pieteikumam pievieno notariāli vai komercreģistra iestādes amatpersonas apliecinātu likvidatora paraksta paraugu.
+(3) Komercreģistra iestāde izdara ierakstu par likvidatora iecelšanu, pamatojoties tikai uz pirmo iesniegto pieteikumu.
+(4) Uzņēmuma īpašnieks vai uzņēmējsabiedrības dalībnieks (akcionārs), kurš iesniedzis šā panta trešajā daļā minēto pieteikumu, sedz likvidācijas izmaksas.
+(5) Uzņēmuma (uzņēmējsabiedrības), filiāles, nodaļas vai pārstāvniecības likvidāciju veic šā likuma 19.⁵, 19.⁶, 19.⁷, 19.⁸ un 19.⁹ pantā noteiktajā kārtībā.

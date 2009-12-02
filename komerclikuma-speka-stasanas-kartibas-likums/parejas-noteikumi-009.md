@@ -1,0 +1,1 @@
+9. Komercreģistra iestāde līdz 2010.gada 1.aprīlim informē šā likuma 19.panta divpadsmitajā daļā minēto publisko reģistru un kustamās mantas reģistru turētājus par uzņēmumiem (uzņēmējsabiedrībām), filiālēm, nodaļām un pārstāvniecībām, kuras šā likuma 19.panta ceturtajā daļā noteiktajā kārtībā ir izslēgtas no uzņēmumu reģistra līdz 2010.gada 1.janvārim.

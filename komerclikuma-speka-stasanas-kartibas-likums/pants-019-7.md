@@ -1,0 +1,5 @@
+19.⁷ pants. Kreditoru informēšana un kreditoru prasījumu uzturēšana
+(1) Ja uzņēmumam (uzņēmējsabiedrībai), filiālei, nodaļai vai pārstāvniecībai ir manta, likvidators nosūta paziņojumu par likvidācijas uzsākšanu uzņēmuma (uzņēmējsabiedrības), filiāles, nodaļas vai pārstāvniecības kreditoriem, kuri saskaņā ar šā likuma 19.panta trešās daļas noteikumiem ir paziņojuši komercreģistra iestādei par saviem prasījumiem. Paziņojumā kreditori uzaicināmi viena mēneša laikā no paziņojuma nosūtīšanas dienas paziņot likvidatoram par savu prasījumu uzturēšanu.
+(2) Kreditori noteiktā termiņā paziņo likvidatoram, ka uztur savus prasījumus pret uzņēmumu (uzņēmējsabiedrību), filiāli, nodaļu vai pārstāvniecību, un iesniedz prasījumus pamatojošus dokumentus.
+(3) Pēc šā panta pirmajā daļā noteiktā termiņa beigām likvidators sagatavo likvidācijas sākuma finanšu pārskatu.
+(4) Ja kreditors nav paziņojis komercreģistra iestādei par saviem prasījumiem saskaņā ar šā likuma 19.panta trešās daļas noteikumiem vai nav saskaņā ar šā panta otro daļu paziņojis likvidatoram par savu prasījumu uzturēšanu, uzskatāms, ka kreditors atteicies no prasījuma tiesībām pret uzņēmumu (uzņēmējsabiedrību).

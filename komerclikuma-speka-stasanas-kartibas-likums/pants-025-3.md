@@ -1,3 +1,3 @@
 25.³ pants. Uzņēmumu reģistrā reģistrētu bezpeļņas uzņēmumu (uzņēmējsabiedrību) darbības izbeigšana un izslēgšana no uzņēmumu reģistra
-(1) Ja bezpeļņas uzņēmums (uzņēmējsabiedrība) šā likuma 12.pantā un 25.panta pirmajā daļā noteiktajos termiņos nav pieteikts ierakstīšanai biedrību un nodibinājumu reģistrā vai komercreģistrā un Latvijas Republikas Uzņēmumu reģistram nav pieteikta tā likvidācija, to likvidē saskaņā ar šā likuma 19.panta noteikumiem.
+(1) Ja bezpeļņas uzņēmums (uzņēmējsabiedrība) šā likuma 12.pantā un 25.panta pirmajā daļā noteiktajos termiņos nav pieteikts ierakstīšanai biedrību un nodibinājumu reģistrā vai komercreģistrā un Latvijas Republikas Uzņēmumu reģistram nav pieteikta tā likvidācija, to likvidē saskaņā ar šā likuma 19., 19.¹, 19.², 19.³, 19.⁴, 19.⁵, 19.⁶, 19.⁷, 19.⁸ un 19.⁹ panta noteikumiem.
 (2) Manta, kas palikusi pēc kreditoru prasījumu apmierināšanas, netiek nodota uzņēmuma īpašniekam vai uzņēmējsabiedrības dalībniekiem (akcionāriem).
