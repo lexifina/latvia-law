@@ -6,7 +6,7 @@
 3) abonēto preses izdevumu piegādes pakalpojumi.
 (3) Regulators rīko konkursu saskaņā ar paša apstiprinātu nolikumu, lai noteiktu pasta komersantu, kas sniedz universālo pasta pakalpojumu. Regulators konkursa uzvarētājam nosaka pienākumu sniegt universālo pasta pakalpojumu ekonomiski izdevīgākajā veidā, nodrošinot, ka lietotājiem visā Latvijas Republikas teritorijā ir vienādas iespējas saņemt universālajā pasta pakalpojumā ietvertos pakalpojumus. Uz konkursa norisi nav attiecināms Publisko iepirkumu likums.
 (4) Regulators nodrošina vienlīdzīgu attieksmi pret visiem konkursa dalībniekiem. Regulators nevienam konkursa dalībniekam nerada labvēlīgākus apstākļus.
-(5) Regulators konkursa uzvarētājam nosaka universālā pasta pakalpojuma saistības, paredzot šādus nosacījumus:
+(5) Regulators pasta komersantam nosaka universālā pasta pakalpojuma saistības, paredzot šādus nosacījumus:
 1) kvalitātes prasības attiecībā uz pasta sūtījumu savākšanu, šķirošanu, pārvadāšanu un piegādi (biežumu, ātrumu, regularitāti);
 2) kvalitātes prasības attiecībā uz pasta tīkla piekļuves punktu blīvumu un skaitu;
 3) prasību nodrošināt pasta pakalpojumu lietotājiem iespēju izmantot universālajā pasta pakalpojumā ietilpstošos pasta pakalpojumus par vienotu tarifu visā Latvijas Republikas teritorijā.
