@@ -13,7 +13,7 @@
 12) Līdz 2005.gada 1.janvārim izdod noteikumus, kas reglamentē prasības pārtikas apritē nodarbināto personu profesionālajai kvalifikācijai un nosaka profesionālās kvalifikācijas iegūšanas kārtību un uzraudzību;
 13) līdz 2004.gada 1.martam izdod noteikumus, kas reglamentē kārtību, kādā izplata jodēto sāli, un nosaka gadījumus, kad šo sāli izmanto pārtikas ražošanā;
 14) līdz 2006.gada 31.decembrim izdod noteikumus, kas reglamentē higiēnas prasības primārajai ražošanai un primārās ražošanas produktu tiešajai piegādei galapatērētājam nelielā apjomā, kā arī minētās piegādes apjomu;
-15) līdz 2007.gada 31.decembrim izdod noteikumus, kas reglamentē tradicionālo metožu izmantošanu pārtikas ražošanas, pārstrādes un izplatīšanas posmā;
+15) (izslēgts ar 12.11.2009. likumu);
 16) līdz 2007.gada 1.jūlijam izdod šā likuma 4.panta divpadsmitajā daļā un 10.panta ceturtajā un piektajā daļā minētos noteikumus;
 17) līdz 2008.gada 31.janvārim izdod noteikumus, kas reglamentē prasības medicīnas, uztura un diētas speciālistu asociāciju un citu ar veselības aprūpi saistīto biedrību un nodibinājumu ieteikumu un ierosinājumu izmantošanai pārtikas preču marķējumā un reklāmā;
 18) līdz 2008.gada 1.jūlijam izdod šā likuma 4.panta trīspadsmitajā un četrpadsmitajā daļā minētos noteikumus.

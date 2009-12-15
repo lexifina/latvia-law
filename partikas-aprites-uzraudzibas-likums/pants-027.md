@@ -1,7 +1,7 @@
 27.pants. (1) Pārtikas un veterinārā dienesta valsts galvenajam pārtikas un veterinārajam inspektoram, valsts vecākajam inspektoram, valsts inspektoram (turpmāk - Pārtikas un veterinārā dienesta amatpersona), izdodot rakstveida brīdinājumu pārtikas uzņēmumam, ir tiesības apturēt vai ierobežot pārtikas uzņēmuma darbību (tostarp tā struktūrvienības vai atsevišķu iekārtu darbību), ja ir konstatēta neatbilstība pārtikas apriti reglamentējošo normatīvo aktu prasībām.
 (2) Brīdinājumā norāda konstatētās neatbilstības pārtikas apriti reglamentējošo normatīvo aktu prasībām un nosaka neatbilstības novēršanas termiņu:
 1) ņemot vērā neatbilstības faktiskās novēršanas iespējas, - no viena mēneša līdz trim mēnešiem;
-2) ja neatbilstības novēršanai nepieciešams kapitālremonts, - līdz vienam gadam;
+2) ja neatbilstības novēršanai nepieciešama renovācija, - līdz vienam gadam;
 3) ja neatbilstības novēršanai ir nepieciešama celtniecība, - līdz diviem gadiem.
 (3) Ja brīdinājumā norādītās neatbilstības noteiktajā termiņā netiek novērstas, Pārtikas un veterinārā dienesta amatpersona triju darba dienu laikā pēc brīdinājumā noteiktā termiņa beigām pieņem lēmumu par pārtikas uzņēmuma darbības apturēšanu.
 (4) Pārtikas uzņēmuma darbības apturēšanu nodrošina pats pārtikas uzņēmums.
@@ -12,4 +12,4 @@
 (6) Pārtikas uzņēmuma darbības atzīšanas apliecību var anulēt, ja:
 1) pārtikas uzņēmumā ir konstatētas atkārtotas neatbilstības pārtikas apriti reglamentējošo normatīvo aktu prasībām;
 2) pārtikas uzņēmums nespēj nodrošināt turpmāko pārtikas apriti saskaņā ar pārtikas aprites atbilstību reglamentējošo normatīvo aktu prasībām.
-(7) Lēmumu par pārtikas uzņēmuma darbības apturēšanu, uzņēmuma darbības atzīšanas apliecības anulēšanu, kā arī brīdinājumu par konstatētajām neatbilstībām pārtikas apriti reglamentējošo normatīvo aktu prasībām var apstrīdēt un pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā. Šajā pantā minēto Pārtikas un veterinārā dienesta amatpersonu lēmumu vai brīdinājumu apstrīdēšana vai pārsūdzēšana neaptur to izpildi.
+(7) Lēmumu par pārtikas uzņēmuma darbības apturēšanu, uzņēmuma darbības atzīšanas apliecības anulēšanu, kā arī brīdinājumu par konstatētajām neatbilstībām pārtikas apriti reglamentējošo normatīvo aktu prasībām var apstrīdēt un pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā. Šajā pantā minēto Pārtikas un veterinārā dienesta amatpersonu lēmumu vai brīdinājumu apstrīdēšana un pārsūdzēšana neaptur to darbību.
