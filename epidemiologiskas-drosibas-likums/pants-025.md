@@ -1,3 +1,3 @@
 25.pants. Vides paraugu ņemšana laboratoriskajai pārbaudei
-(1) Sabiedrības veselības aģentūra, veicot epidemioloģisko izmeklēšanu, kā arī epidemioloģiskās novērošanas laikā, bet Veselības inspekcija, veicot kontroli epidemioloģiskās drošības jomā, ir tiesīgi ņemt paraugus laboratoriskajai pārbaudei no jebkuriem vides objektiem, priekšmetiem un pārtikas produktiem.
+(1) Latvijas Infektoloģijas centrs, veicot epidemioloģisko izmeklēšanu, kā arī epidemioloģiskās novērošanas laikā, bet Veselības inspekcija, veicot kontroli epidemioloģiskās drošības jomā, ir tiesīgi ņemt paraugus laboratoriskajai pārbaudei no jebkuriem vides objektiem, priekšmetiem un pārtikas produktiem.
 (2) Īpašniekam, valdītājam vai to pilnvarotai personai ir tiesības organizēt paraugu neatkarīgu kontrolpārbaudi akreditētā vai citādi ekvivalenti novērtētā laboratorijā. Šajā gadījumā paraugu pārbaudes izdevumus sedz īpašnieks vai valdītājs.

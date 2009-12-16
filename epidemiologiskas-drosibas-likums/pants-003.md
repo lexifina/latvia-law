@@ -10,6 +10,6 @@ c) iedzīvotāju imunitātes izpēti;
 5) kontaktpersonu laboratoriskās pārbaudes, medicīnisko un epidemioloģisko novērošanu;
 6) slimnieku un infekciozo personu profesionālās darbības ierobežošanu un aizliegšanu;
 7) infekcijas slimību perēkļu atveseļošanas pasākumus, kā arī pasākumus infekcijas slimību izraisītāju cirkulācijas pārtraukšanai ārējā vidē;
-8) medicīniski sanitāros pasākumus, kas vērsti pret bīstamo infekcijas slimību izraisītāju ievešanu un šo slimību izplatīšanos;
+8) sabiedrības veselības aizsardzības pasākumus;
 9) iedzīvotāju informēšanu par epidemioloģisko situāciju un izglītošanu infekcijas slimību profilakses jautājumos;
 10) likumā noteikto piespiedu līdzekļu piemērošanu par epidemioloģiskās drošības pasākumu nepildīšanu.

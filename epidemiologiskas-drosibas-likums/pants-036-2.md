@@ -1,0 +1,3 @@
+36.² pants. Sabiedrības veselības aizsardzības pasākumi
+(1) Sabiedrības veselības aizsardzības pasākumi šā likuma izpratnē ir preventīvo un reaģēšanas pasākumu kopums, ko veic valsts un pašvaldību iestādes, kā arī komersanti, lai novērstu vai mazinātu sabiedrības veselības apdraudējumus sakarā ar bīstamu infekcijas slimību, to izraisītāju un toksisko vielu izplatīšanās risku, kā arī sakarā ar neparastas vai neparedzētas infekcijas vai citas slimības konstatēšanu vai slimības uzliesmojumu valsts teritorijā.
+(2) Kārtību, kādā veicami sabiedrības veselības aizsardzības pasākumi, nosaka Ministru kabinets.

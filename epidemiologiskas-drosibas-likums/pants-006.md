@@ -6,3 +6,4 @@
 2) pildot dienesta pienākumus, apmeklēt jebkuru objektu Latvijas Republikas teritorijā neatkarīgi no tā piederības un normatīvajos aktos noteiktajā kārtībā veikt attiecīgā objekta vai atsevišķu priekšmetu apskati, ja ir pamatotas aizdomas, ka tas var saturēt vai pārnest infekcijas slimību izraisītājus;
 3) pieņemt lēmumus par epidemioloģiskās kontroles objekta darbības apturēšanu;
 4) administratīvi sodīt vainīgās personas par normatīvo aktu pārkāpšanu.
+(4) Veselības inspekcija novērtē vides faktoru ietekmi uz cilvēka veselību, sniedz priekšlikumus cilvēka veselībai nekaitīgas vides nodrošināšanai un pēc pieprasījuma novērtē higiēnas prasību izpildi.

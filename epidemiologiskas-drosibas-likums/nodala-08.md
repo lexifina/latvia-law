@@ -1,2 +1,2 @@
-VIII nodaļa
-Karantīna un medicīniski sanitārie pasākumi
+VIII nodaļa.
+Karantīna un sabiedrības veselības aizsardzības pasākumi

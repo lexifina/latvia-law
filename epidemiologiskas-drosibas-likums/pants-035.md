@@ -1,5 +1,5 @@
 35.pants. Profesionālās darbības ierobežojumi
-Ministru kabinets apstiprina to infekcijas slimību sarakstu, ar kurām saslimušās vai inficējušās personas un personas, par kurām ir radušās profesionāli pamatotas aizdomas, ka tās inficējušās ar šādu infekcijas slimību, nedrīkst tikt nodarbinātas:
-1) uzņēmumos (uzņēmējsabiedrībās), iestādēs un organizācijās, kuru darbības veids ir pārtikas produktu un dzeramā ūdens ražošana, apstrāde un izplatīšana, ja šīs personas ir tiešā vai netiešā saskarē ar pārtiku un dzeramo ūdeni;
-2) uzņēmumos (uzņēmējsabiedrībās), iestādēs un organizācijās, kuru darbības veids ir pakalpojumu sniegšana patērētājiem (frizētavās, kosmētiskajos kabinetos, pirtīs, peldbaseinos u.c.);
-3) ārstniecības iestādēs, mācību un audzināšanas iestādēs, ārpusskolas iestādēs.
+Ministru kabinets apstiprina to infekcijas slimību sarakstu, ar kurām saslimušās vai inficējušās personas un personas, par kurām ir radušās profesionāli pamatotas aizdomas, ka tās ir inficējušās ar attiecīgu infekcijas slimību, aizliegts nodarbināt (arī mācību prakses laikā):
+1) pārtikas un dzeramā ūdens apritē iesaistītām atvasinātām publiskām personām, iestādēm, komersantiem, pašnodarbinātajiem, kā arī citām juridiskajām un fiziskajām personām, ja šā panta ievaddaļā minētās personas var nonākt tiešā vai netiešā saskarē ar pārtiku vai dzeramo ūdeni;
+2) atvasinātām publiskām personām, iestādēm, komersantiem, pašnodarbinātajiem, kā arī citām juridiskajām un fiziskajām personām, kuru darbības veids ir pakalpojumu sniegšana patērētājiem (piemēram, frizētavās, kosmētiskajos kabinetos, pirtīs, peldbaseinos);
+3) ārstniecības iestādēs, izglītības iestādēs, kā arī ārpusstundu pasākumos (piemēram, nometnēs).
