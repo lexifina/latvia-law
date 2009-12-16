@@ -1,0 +1,1 @@
+1.pants. Starptautiskās Rekonstrukcijas un attīstības bankas Vienošanās līguma (turpmāk - Līgums) grozījums Starptautiskās Rekonstrukcijas un attīstības bankas dalībvalstu balsstiesību un līdzdalības palielināšanai (turpmāk - Grozījums) ar šo likumu tiek pieņemts un apstiprināts.
