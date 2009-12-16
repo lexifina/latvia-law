@@ -1,0 +1,3 @@
+19.pants. Pierobežas noteikšana
+(1) Lai radītu tādus apstākļus, kas neļautu personām nelikumīgi jebkurā veidā un ar jebkuriem līdzekļiem šķērsot ārējo robežu, kā arī pārvietot mantas un preces pāri ārējai robežai ārpus noteiktajām robežšķērsošanas vietām, kā arī lai nodrošinātu tādu pasākumu veikšanu, kuri kompensē robežkontroles atcelšanu pie iekšējās robežas, un organizētu pārrobežu sadarbību noziedzības apkarošanā, Ministru kabinets gar ārējo sauszemes robežu nosaka pierobežu, ne šaurāku par 30 kilometriem, bet gar iekšējo sauszemes robežu - pierobežu, ne šaurāku par 15 kilometriem, sākot no valsts robežas.
+(2) Pierobežas sastāvdaļas ir pierobežas josla un valsts robežas josla.

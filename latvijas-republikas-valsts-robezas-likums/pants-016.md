@@ -1,0 +1,11 @@
+16.pants. Pierobežas joslas režīms
+(1) Latvijas pilsonis un Latvijas nepilsonis, kas nav deklarējis dzīvesvietu attiecīgajā novadā, novada pagastā vai pilsētā, kurā noteikta pierobežas josla, uzturoties pierobežas joslā, pēc Valsts robežsardzes amatpersonas pieprasījuma uzrāda:
+1) personu apliecinošu dokumentu un speciālo caurlaidi, kas ļauj uzturēties pierobežas joslā, izņemot gadījumu, kad šāda caurlaide nav nepieciešama, - ja persona sasniegusi normatīvajos aktos noteikto vecumu, kad personu apliecinoša dokumenta saņemšana ir obligāta;
+2) valsts pārvaldes iestādes vai pašvaldības amatpersonas (darbinieka) dienesta (darba) apliecību - ja persona pilda dienesta pienākumus pierobežas joslā un nepārprotami apliecinājusi savu statusu ar formas tērpu, dienesta žetonu, dienesta atšķirības zīmi vai citādā veidā.
+(2) Pierobežas joslā ir aizliegts izvietot brīvības atņemšanas iestādes un psihiatriskā profila ārstniecības iestādes.
+(3) Publiskus pasākumus pierobežas joslā organizē saskaņā ar publisku izklaides un svētku pasākumu organizēšanas kārtību reglamentējošiem normatīvajiem aktiem.
+(4) Medības pierobežas joslā organizē saskaņā ar medību organizēšanas kārtību reglamentējošiem normatīvajiem aktiem.
+(5) Komercdarbību pierobežas joslā veic saskaņā ar komercdarbību regulējošiem normatīvajiem aktiem.
+(6) Pierobežas joslā plānotos šaušanas, spridzināšanas vai pirotehniskos darbus to organizatori rakstveidā saskaņo ar attiecīgo Valsts robežsardzes teritoriālo struktūrvienību vismaz divas nedēļas pirms šo darbu uzsākšanas. Saskaņošana ar Valsts robežsardzi neatbrīvo no pienākuma saņemt atļauju minēto darbību veikšanai citos normatīvajos aktos noteiktajā kārtībā.
+(7) Pierobežas joslā aizliegta tādu būvju, iežogojumu, uzbērumu, grāvju, sakaru torņu vai citādu objektu izveidošana, kā arī meliorācijas un irigācijas darbi, kas traucē robežuzraudzību, robežkontrolē iesaistīto kompetento iestāžu amatpersonu un transportlīdzekļu pārvietošanos, valsts robežas uzturēšanu vai piekļūšanu robežkontroles objektiem.
+(8) Lai nepieļautu nelikumīgu ārējās robežas šķērsošanu, Valsts robežsardze pierobežas joslā var slēgt lauku vai meža ceļus, stigas, pārejas vietas un tiltus, kas iet pāri ārējai robežai, vai izveidot uz tiem šķēršļus un uzstādīt informatīvas zīmes, darot to zināmu vietējai pašvaldībai un zemes īpašniekiem.

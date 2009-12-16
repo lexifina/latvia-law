@@ -1,0 +1,21 @@
+10.pants. Valsts robežas šķērsošana
+(1) Valsts robežu šķērso pa sauszemi, iekšējiem ūdeņiem, jūru vai gaisa telpu.
+(2) Personas ārējo sauszemes robežu šķērso, kā arī mantas un preces pārvieto pāri ārējai sauszemes robežai pa autoceļu (ja ārējā robeža ir noteikta pa upi, - tad pa pārceltuvi) vai dzelzceļu (izmantojot dzelzceļa transportu), uz kura ir izveidota robežšķērsošanas vieta.
+(3) Iekšējo robežu šķērso jebkurā vietā.
+(4) Personas valsts robežu šķērso ar derīgiem ceļošanas dokumentiem un citiem dokumentiem, kuru nepieciešamība noteikta normatīvajos aktos, kas regulē personu ieceļošanas, uzturēšanās, izceļošanas vai ceļošanas tranzītā kārtību.
+(5) Kārtību, kādā bērni šķērso valsts robežu, nosaka Ministru kabinets.
+(6) Cilvēku meklēšanas un glābšanas operācijas laikā šīs operācijas vadītājs ir tiesīgs pieņemt lēmumu par valsts robežas šķērsošanu ārpus robežšķērsošanas vietas, lai nogādātu izglābtās personas ārstniecības iestādē, ja pastāv reāli draudi izglābto personu dzīvībai vai veselībai, vienlaikus informējot Valsts robežsardzi par ārstniecības iestādi, uz kuru personas nogādātas, nogādāto personu skaitu un personas datiem, ja tādi ir pieejami. Valsts robežsardze organizē robežpārbaudi ārstniecības iestādē, kurā persona nogādāta.
+(7) Gaisa kuģi valsts robežu šķērso normatīvajos aktos par gaisa telpas izmantošanu noteiktajā kārtībā.
+(8) Kuģošanas līdzekļi valsts robežu, kas noteikta Baltijas jūrā un Baltijas jūras Rīgas jūras līcī, šķērso jebkurā vietā, ja nav noteikts citādi.
+(9) Ārvalstu kuģošanas līdzekļiem ir tiesības šķērsot valsts robežu un ienākt teritoriālajā jūrā, ievērojot miermīlīgas caurbraukšanas principu atbilstoši Apvienoto Nāciju Organizācijas 1982.gada 10.decembra Jūras tiesību konvencijai.
+(10) Personas ārējo robežu robežšķērsošanas vietās šķērso rindas kārtībā. Šķērsot ārējo robežu robežšķērsošanas vietās ārpus kārtas drīkst:
+1) cietušās vai saslimušās personas, kurām nepieciešama neatliekamā medicīniskā palīdzība vai kuras pavada ārstniecības personas;
+2) personas ar diplomātiskajām, Eiropas Komisijas vai Apvienoto Nāciju Organizācijas pasēm;
+3) kājāmgājēji, izņemot robežšķērsošanas vietas, kas izveidotas ostās un lidostās;
+4) personas, kuras šķērso valsts robežu ar regulāro starptautisko maršrutu autobusiem, operatīvajiem transportlīdzekļiem, transportlīdzekļiem ar diplomātiskajiem reģistrācijas numuriem, kā arī ar zirgu pajūgiem vai velotransportu;
+5) valsts un pašvaldību iestāžu oficiālās delegācijas, kā arī organizētas bērnu un tūristu grupas, ja vismaz 24 stundas pirms plānotā ārējās robežas šķērsošanas laika Valsts robežsardze ir rakstveidā informēta par to un ārējās robežas šķērsošanai paredzēto robežšķērsošanas vietu, kā arī saņēmusi personu sarakstu, kurā norādīts robežu šķērsojošo personu vārds, uzvārds, personas kods, ceļošanas dokumenta veids un numurs;
+6) personas, kuras ar transportlīdzekļiem saskaņā ar Latvijas Republikai saistošo 1970.gada 1.septembra Nolīgumu par ātri bojājošos pārtikas produktu starptautiskajiem pārvadājumiem un par speciālām iekārtām, kas izmantojamas šajos pārvadājumos (ATP), pārvadā ātri bojājošās, kā arī citas kravas, kuru īpašību dēļ nepieciešams ārpus kārtas šķērsot ārējo robežu. Ārpus kārtas transportējamo preču sarakstu nosaka Ministru kabinets;
+7) cilvēku meklēšanas un glābšanas operāciju laikā izglābtās personas;
+8) citas personas gadījumos, kas paredzēti starptautiskajos līgumos.
+(11) Izņēmuma gadījumos, ja tas atbilst starptautisko tiesību normām, Latvijas valsts interesēm vai ir saistīts ar nepārvaramu varu vai humāniem apsvērumiem, ārpus kārtas šķērsot ārējo robežu robežšķērsošanas vietās drīkst citas šā panta desmitajā daļā neminētās personas, ja ir saņemta Valsts robežsardzes priekšnieka vai viņa pilnvarotās amatpersonas atļauja.
+(12) Robežšķērsošanas vietas nosaka Ministru kabinets.

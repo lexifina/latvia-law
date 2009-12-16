@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē 1994.gada 27.oktobrī pieņemtais Latvijas Republikas valsts robežas likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 23.nr.; 1995, 24.nr.; 1997, 2.nr.; 1998, 22.nr.; 1999, 24.nr.; 2000, 13.nr.; 2001, 7., 21.nr.; 2004, 2., 8.nr.; 2005, 2.nr.).

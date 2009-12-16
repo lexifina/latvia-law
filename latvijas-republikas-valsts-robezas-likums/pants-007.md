@@ -1,0 +1,2 @@
+7.pants. Latvijas Republikas pilnvarotie robežas pārstāvji
+Lai īstenotu Latvijas Republikai paredzētās funkcijas, kas noteiktas saskaņā ar starptautiskajiem līgumiem, kuri noslēgti ar kaimiņvalstīm, Ministru kabinets darbībai konkrētos valsts robežas posmos no robežsargu vidus ieceļ Latvijas Republikas pilnvarotos robežas pārstāvjus un viņu vietniekus, ja to iecelšana ir paredzēta attiecīgajā starptautiskajā līgumā.

@@ -1,0 +1,5 @@
+25.pants. Kustības organizēšana robežšķērsošanas vietā
+(1) Robežšķērsošanas vietas apzīmē ar norādījuma zīmēm un, ja nepieciešams, iežogo. Iekļūšana robežšķērsošanas vietā un izkļūšana no tās ir atļauta tikai pa šim nolūkam paredzētiem un ar informatīvām norādēm apzīmētiem ceļiem un ejām.
+(2) Personu un transportlīdzekļu kustība, mantu un preču pārvietošana robežšķērsošanas vietā notiek, ievērojot informatīvās norādes, kā arī kompetento iestāžu amatpersonu norādījumus.
+(3) Ostās, lidostās un lidlaukos, kur ir izveidotas robežšķērsošanas vietas, nodrošina pārbaudēm pakļauto personu plūsmas nošķiršanu no to personu plūsmas, kuras nešķērso valsts robežu vai saskaņā ar starptautiskajiem līgumiem nav pakļautas pārbaudēm.
+(4) Valsts robežsardze robežšķērsošanas vietās, kas izveidotas uz autoceļiem, atļauj personām, kuras šķērso ārējo sauszemes robežu, lai ieceļotu Latvijas Republikā vai izceļotu no tās, atstāt robežšķērsošanas vietas teritoriju, kā arī pārvietot preces un mantas, kuras tiek ievestas Latvijas Republikā vai izvestas no tās, pēc tam, kad ir saņemta informācija par to, ka kompetentās iestādes pabeigušas pārbaudi.

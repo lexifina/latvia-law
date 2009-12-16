@@ -1,0 +1,4 @@
+17.pants. Kuģošanas līdzekļu un transportlīdzekļu izmantošana, zveja, makšķerēšana, peldēšanās un citas darbības iekšējos ūdeņos, pa kuriem noteikta ārējā robeža
+(1) Kuģošanas līdzekļu un transportlīdzekļu izmantošana, zveja, makšķerēšana, peldēšanās un citas darbības iekšējos ūdeņos, pa kuriem noteikta ārējā robeža, atļautas tikai laikposmā no saullēkta līdz saulrietam.
+(2) Iekšējos ūdeņos, pa kuriem noteikta ārējā robeža, atļauta tikai tādu kuģošanas līdzekļu un transportlīdzekļu izmantošana, kas ir reģistrēti valsts reģistros normatīvajos aktos noteiktajā kārtībā vai Valsts robežsardzē (kuģošanas līdzekļi un transportlīdzekļi, kas nav pakļauti obligātai reģistrācijai valsts reģistros).
+(3) Kārtību, kādā Valsts robežsardze reģistrē kuģošanas līdzekļus un transportlīdzekļus, kas tiek izmantoti iekšējos ūdeņos, pa kuriem noteikta ārējā robeža, nosaka Ministru kabinets.
