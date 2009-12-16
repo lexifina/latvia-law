@@ -1,0 +1,1 @@
+1.pants. 2009.gada 11.jūlijā parakstītais Latvijas Republikas valdības un Tadžikistānas Republikas valdības nolīgums par starptautisko automobiļu satiksmi (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
