@@ -1,3 +1,5 @@
 294.pants. Piespiešana dot liecību
-Par piespiešanu dot liecību nopratināšanā, ja tā saistīta ar vardarbību, vardarbības piedraudējumu, ņirgāšanos par nopratināmo vai izdarīta citādā veidā un ja to izdarījusi amatpersona, kura veic pirmstiesas kriminālprocesu, -
+(1) Par piespiešanu dot liecību nopratināšanā, ja tā saistīta ar vardarbību, vardarbības piedraudējumu, ņirgāšanos par nopratināmo vai izdarīta citādā veidā un ja to izdarījusi amatpersona, kura veic pirmstiesas kriminālprocesu, -
+soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar piespiedu darbu, vai ar naudas sodu līdz simt piecdesmit minimālajām mēnešalgām.
+(2) Par piespiešanu dot liecību nopratināšanā, ja tā saistīta ar spīdzināšanu un ja to izdarījusi amatpersona, kura veic pirmstiesas kriminālprocesu, -
 soda ar brīvības atņemšanu uz laiku līdz desmit gadiem.
