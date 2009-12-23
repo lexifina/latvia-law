@@ -18,6 +18,7 @@ alfacetilmetadols
 alfa-metilfentanils
 0,001 g
 1 g
+4¹)alfa-metiltiofentanils0,001 g1 g
 5)
 beta-hidroksifentanils
 0,001 g
@@ -61,9 +62,7 @@ kanabisa sveķi, eļļa
 0,05 g
 20 g
 13)
-ketobemidons
-0,1 g
-1 g
+(izslēgts ar 19.11.2009. likumu)
 14)
 kokas krūma lapas, izžāvētas
 10 g
@@ -122,13 +121,11 @@ tiofentanils
 1 g
 5. Vielas, kas klasificētas atbilstoši 1971.gada 21.februāra Konvencijas par psihotropajām vielām I sarakstam:
 1)
-brolamfetamīns
+bromamfetamīns (DOB)
 0,001 g
 1 g
 2)
-ar brolamfetamīnu piesūcināts papīrs
-3 gab.
-10 gab.
+(izslēgts ar 19.11.2009. likumu)
 3)
 DET
 0,02 g
@@ -154,7 +151,7 @@ efedras augs, izžāvēts
 100 g
 1 kg
 9)
-eticiklidīns
+eticiklidīns (PCE)
 0,001 g
 1 g
 10)
@@ -162,7 +159,7 @@ katinons
 0,02 g
 1 g
 11)
-(+)-lizergīds
+(+)-lizergīds (LSD, LSD-25)
 0,001 g
 0,002 g
 12)
@@ -182,7 +179,7 @@ meskalīns
 0,01 g
 1 g
 16)
-4-metiltioamfetamīns
+4-MTA
 0,03 g
 1 g
 17)
@@ -198,7 +195,7 @@ MMDA
 0,02 g
 1 g
 20)
-N-etil MDA
+MDE, N-etil MDA
 0,02 g
 1 g
 21)
@@ -214,7 +211,7 @@ PMA
 0,02 g
 1 g
 24)
-psilocibes sēnes:
+halucinogēnās sēnes:
 a)
 izžāvētas
 0,5 g
@@ -228,7 +225,7 @@ psilocibīns; psilocīns; psilotsīns
 0,01 g
 1 g
 26)
-roliciklidīns
+roliciklidīns (PHP, PCPY)
 0,001 g
 1 g
 27)
@@ -240,11 +237,17 @@ tenamfetamīns (MDA)
 0,02 g
 1 g
 29)
-tenociklidīns
+tenociklidīns (TCP)
 0,001 g
 1 g
 30)
-tetrahidrokannabinols
+tetrahidrokannabinols un tā izomēri un stereoķīmiskie varianti:
+7,8,9,10-tetrahidro-6,6,9-trimetil-3-pentil-6H-dibenzo[b,d,]pirān-1-ols;
+(9R,10aR)-8,9,10,10a-tetrahidro-6,6,9-trimetil-3-pentil-6H-dibenzo[b,d,]pirān-1-ols;
+(6aR,9R,10aR)-6a,9,10,10a-tetrahidro-6,6,9-trimetil-3-pentil-6H-dibenzo[b,d,]pirān-1-ols;
+(6aR,10aR)-6a,7,10,10a-tetrahidro-6,6,9-trimetil-3-pentil-6H-dibenzo[b,d,]pirān-1-ols;
+6a,7,8,9,-tetrahidro-6,6,9-trimetil-3-pentil-6H-dibenzo[b,d,]pirān-1-ols;
+(6aR,10aR)-6a,7,8,9,10,10a-heksahidro-6,6,-dimetil-9-metilēn3-pentil-6H-dibenzo[b,d,]pirān-1-ols;
 0,003 g
 1 g
 31)
@@ -256,7 +259,7 @@ etriptamīns
 0,05 g
 1 g
 33)
-jebkuri amfetamīna atvasinājumi un to modifikācijas ar līdzīgu farmakoloģisku iedarbību, kuri atrodas nelegālā apritē un līdz 1997.gada 14.janvārim nav iekļauti Labklājības ministrijas uzraudzībā esošo narkotisko vielu, psihotropo vielu un prekursoru sarakstā: MBDB un citi
+jebkuri amfetamīna atvasinājumi un to modifikācijas ar līdzīgu farmakoloģisku iedarbību, kuri atrodas nelegālā apritē un nav iekļauti I, II vai III sarakstā (piemēram, MBDB un citi)
 0,02 g
 1 g
 6. Vielas, kas klasificētas atbilstoši 1971.gada 21.februāra Konvencijas par psihotropajām vielām II sarakstam:
@@ -265,9 +268,7 @@ amfetamīns
 0,02 g
 10 g
 2)
-4-bromo-2,5-dimetoksifeniletilamīns
-0,03 g
-10 g
+(izslēgts ar 19.11.2009. likumu)
 3)
 deksamfetamīns
 0,03 g
@@ -292,6 +293,7 @@ metamfetamīns racemāts
 levometamfetamīns
 0,03 g
 10 g
+9)amineptīns0,4 g2,8 g
 7. Viela, kas klasificēta atbilstoši 1971.gada 21.februāra Konvencijas par psihotropajām vielām III sarakstam:
 1)
 katīns
@@ -314,7 +316,25 @@ fentermīns
 mefenorekss
 0,03 g
 10 g
-9. Jebkura zāļu forma, kas satur šā pielikuma 4., 5., 6., 7. un 8.punktā minētās vielas jebkurā daudzumā:
+8.¹ Vielas un augi, kuru nelegāla aprite un ļaunprātīga lietošana var apdraudēt veselību:
+1)1-benzilpiperazīns (BZP)0,02 g1 g
+2)catha edulis100 g10 kg
+3)2,5-dimetoksi-4-bromfenetilamīns (2C-B)0,02g2 g
+4)2,5-dimetoksi-4-etiltiofenetilamīns (2C-T-2)0,018 g1,8 g
+5)2,5-dimetoksi-4-jodfenetilamīns (2C-I)0,018 g1,8 g
+6)2,5-dimetoksi-4-(n)-propiltiofenetilamīns (2C-T-7)0,02 g2 g
+7)1-(3-hlorfenil) piperazīns (mCPP)0,02 g1 g
+8)1-(4-hlorfenil) piperazīns (pCPP)0,02 g1 g
+9)1-(3,4-metilēndioksibenzil) piperazīns (MDBP)0,02 g1 g
+10)1-(4-metoksifenil) piperazīns (MeOPP)0,02 g1 g
+11)mitraginīns0,03 g3 g
+12)mitragyna speciosa (kratom)1 g100 g
+13)salvia divinorum1 g100 g
+14)salvinorīns A0,002 g0,2 g
+15)1-(3-trifluormetilfenil) piperazīns (TFMPP)0,02 g1 g
+16)2,4,5-trimetoksiamfetamīns (TMA-2)0,03 g1 g
+17)7-hidroksimitragīns0,03 g15 g
+9. Jebkura zāļu forma, kas satur šā pielikuma 4., 5., 6., 7., 8. un 8.¹ punktā minētās vielas jebkurā daudzumā:
 1)
 ampulas
 2 amp.

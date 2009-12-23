@@ -47,9 +47,7 @@ triheksifenidils
 0,01 g
 10 g
 12)
-tarēns
-2 tabl.
-20 tabl.
+(izslēgts ar 19.11.2009. likumu)
 13)
 delorazepāms
 0,6 g
@@ -111,9 +109,7 @@ tofizopāms
 0,6 g
 10 g
 28)
-gamma-oksisviestskābe
-0,03 g
-10 g
+(izslēgts ar 19.11.2009. likumu)
 29)
 halazepāms
 0,05 g
@@ -155,11 +151,11 @@ klotiazepāms
 0,6 g
 10 g
 39)
-lefetamīns
+lefetamīns (SPA)
 0,6 g
 10 g
 40)
-litija oksibutirāts
+GHB (litija oksibutirāts un nātrija oksibutirāts)
 0,6 g
 10 g
 41)
@@ -179,9 +175,7 @@ mazindols
 0,6 g
 10 g
 45)
-mebikars
-3 g
-10 g
+(izslēgts ar 19.11.2009. likumu)
 46)
 medazepāms
 0,5 g
@@ -207,9 +201,7 @@ midazolāms
 0,6 g
 10 g
 52)
-nātrija oksibutirāts
-0,6 g
-10 g
+(izslēgts ar 19.11.2009. likumu)
 53)
 nimetazepāms
 0,6 g

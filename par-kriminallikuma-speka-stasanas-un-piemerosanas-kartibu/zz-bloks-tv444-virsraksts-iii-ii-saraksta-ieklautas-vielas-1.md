@@ -7,7 +7,7 @@ acetildihidrokodeīns
 0,2 g
 10 g
 2)
-acetilmetadons
+acetilmetadols
 0,2 g
 10 g
 3)
@@ -27,9 +27,7 @@ alfametadols
 0,2 g
 10 g
 7)
-alfa-metiltiofentanils
-0,2 g
-10 g
+(izslēgts ar 19.11.2009. likumu)
 8)
 alfaprodīns
 0,2 g
@@ -194,6 +192,7 @@ hidroksipetidīns
 izometadons
 0,2 g
 10 g
+48¹)ketobemidons0,1 g1 g
 49)
 klonitazēns
 0,2 g
@@ -247,9 +246,7 @@ metildihidromorfīns
 0,2 g
 10 g
 62)
-4-metiltioamfetamīns
-0,2 g
-10 g
+(izslēgts ar 19.11.2009. likumu)
 63)
 metopons
 0,2 g
@@ -327,9 +324,7 @@ opijs
 0,1 g
 10 g
 82)
-omnopons
-0,02 g
-10 g
+(izslēgts ar 19.11.2009. likumu)
 83)
 petidīns
 0,2 g
@@ -412,7 +407,7 @@ cipeprols
 0,2 g
 10 g
 2)
-fenciklidīns
+fenciklidīns (PCP)
 0,001 g
 1 g
 3)
@@ -436,7 +431,7 @@ sekobarbitāls
 0,2 g
 10 g
 8)
-dronabinols
+dronabinols (delta-9-tetrahidrokanabinols un tā stereoķīmiskie varianti)
 0,2 g
 10 g
 12. Vielas, kas klasificētas atbilstoši 1971.gada 21.februāra Konvencijas par psihotropajām vielām III sarakstam:
