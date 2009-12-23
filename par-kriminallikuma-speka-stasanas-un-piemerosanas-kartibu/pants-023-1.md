@@ -1,0 +1,1 @@
+23.¹ pants. Atbildība par Krimināllikuma 221. (attiecībā uz spirtu vai citiem alkoholiskiem dzērieniem) un 221.² pantā paredzēto noziedzīgo nodarījumu, kas radījis būtisku kaitējumu, iestājas, ja alkoholiskā dzēriena daudzums sasniedz 10 litrus absolūtā spirta.

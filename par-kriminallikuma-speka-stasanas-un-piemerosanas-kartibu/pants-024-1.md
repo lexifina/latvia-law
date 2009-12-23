@@ -1,0 +1,1 @@
+24.¹ pants. Ar spīdzināšanu saprot apzinātu vairākkārtēju vai ilgstošu personas darbību vai bezdarbību, nodarot citai personai stipras fiziskas sāpes vai psihiskas ciešanas, vai apzinātu vienreizēju personas darbību vai bezdarbību, sagādājot citai personai stipras fiziskas vai psihiskas ciešanas, lai ietekmētu tās apziņu vai gribu.
