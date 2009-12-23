@@ -1,7 +1,9 @@
 320.pants. Kukuļņemšana
-(1) Par kukuļa pieņemšanu, tas ir, par materiālu vērtību, mantiska vai citāda rakstura labumu, to piedāvājuma apzināti prettiesisku pieņemšanu, ko izdarījusi valsts amatpersona pati vai ar starpnieku, par kādas darbības izdarīšanu vai neizdarīšanu kukuļdevēja vai kukuļa piedāvātāja, vai citas personas interesēs, izmantojot savu dienesta stāvokli, -
-soda ar brīvības atņemšanu uz laiku līdz astoņiem gadiem, konfiscējot mantu vai bez mantas konfiskācijas.
-(2) Par tādām pašām darbībām, ja tās izdarītas atkārtoti vai lielā apmērā vai ja kukulis pieprasīts, -
-soda ar brīvības atņemšanu uz laiku no trim līdz desmit gadiem, konfiscējot mantu.
-(3) Par šā panta pirmajā un otrajā daļā paredzētajām darbībām, ja tās saistītas ar kukuļa izspiešanu vai ja tās izdarījusi personu grupa pēc iepriekšējas vienošanās vai valsts amatpersona, kas ieņem atbildīgu stāvokli, -
-soda ar brīvības atņemšanu uz laiku no astoņiem līdz piecpadsmit gadiem, konfiscējot mantu.
+(1) Par kukuļa, tas ir, materiālu vērtību, mantiska vai citāda rakstura labumu, pieņemšanu, ko izdarījusi valsts amatpersona pati vai ar starpnieku par kādu jau izdarītu likumīgu vai nelikumīgu darbību vai pieļautu bezdarbību kukuļdevēja, kukuļa piedāvātāja vai citas personas interesēs, izmantojot savu dienesta stāvokli, neatkarīgi no tā, vai pieņemtais vai piedāvātais kukulis domāts šai valsts amatpersonai vai jebkurai citai personai, -
+soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar arestu, vai ar piespiedu darbu, vai ar naudas sodu līdz simt divdesmit minimālajām mēnešalgām, atņemot tiesības uz noteiktu nodarbošanos vai tiesības ieņemt noteiktu amatu uz laiku līdz diviem gadiem vai bez tā.
+(2) Par kukuļa vai tā piedāvājuma pieņemšanu, ko izdarījusi valsts amatpersona pati vai ar starpnieku pirms kādas likumīgas vai nelikumīgas darbības izdarīšanas vai neizdarīšanas kukuļdevēja, kukuļa piedāvātāja vai citas personas interesēs, izmantojot savu dienesta stāvokli, neatkarīgi no tā, vai pieņemtais vai piedāvātais kukulis domāts šai valsts amatpersonai vai jebkurai citai personai, -
+soda ar brīvības atņemšanu uz laiku līdz astoņiem gadiem, konfiscējot mantu vai bez mantas konfiskācijas, atņemot tiesības uz noteiktu nodarbošanos vai tiesības ieņemt noteiktu amatu uz laiku līdz trim gadiem vai bez tā.
+(3) Par šā panta pirmajā vai otrajā daļā paredzētajām darbībām, ja tās izdarītas atkārtoti vai lielā apmērā vai ja tās izdarījusi personu grupa pēc iepriekšējas vienošanās, vai ja kukulis pieprasīts, -
+soda ar brīvības atņemšanu uz laiku no trim līdz desmit gadiem, konfiscējot mantu, atņemot tiesības uz noteiktu nodarbošanos vai tiesības ieņemt noteiktu amatu uz laiku līdz pieciem gadiem vai bez tā.
+(4) Par šā panta pirmajā vai otrajā daļā paredzētajām darbībām, ja tās izdarījusi organizēta grupa vai valsts amatpersona, kas ieņem atbildīgu stāvokli, vai ja kukulis izspiests, -
+soda ar brīvības atņemšanu uz laiku no pieciem līdz divpadsmit gadiem, konfiscējot mantu, atņemot tiesības uz noteiktu nodarbošanos vai tiesības ieņemt noteiktu amatu uz laiku līdz pieciem gadiem un ar policijas kontroli uz laiku līdz trim gadiem.
