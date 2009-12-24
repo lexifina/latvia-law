@@ -1,0 +1,1 @@
+12. Ministru kabinets, ievērojot Valsts civildienesta likuma un citu normatīvo aktu prasības, veic nepieciešamās darbības, lai nodrošinātu, ka, sākot ar 2010.gada 1.martu, Konkurences padomes sastāvā ir tās priekšsēdētājs un divi Konkurences padomes locekļi.
