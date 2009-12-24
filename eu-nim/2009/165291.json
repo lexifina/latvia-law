@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Patērētāju tiesību aizsardzības likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "194",
+  "official_journal_page": null,
+  "official_journal_date": "2009-12-10",
+  "entry_into_force": "2009-12-24",
+  "notification_date": "2009-12-17",
+  "commission_reference": "MNE(2009)55341",
+  "nim_celex": "71999L0044LVA_165291",
+  "nim_id": "165291",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/a5191617-1333-4746-8ad5-543feec0d13c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
