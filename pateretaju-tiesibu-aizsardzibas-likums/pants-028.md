@@ -1,10 +1,10 @@
 28.pants. Patērētāja tiesības, ja viņam pārdota vai nodota lietošanā līguma noteikumiem neatbilstoša prece
 (1) Patērētājs, kuram pārdota vai nodota lietošanā līguma noteikumiem neatbilstoša prece, ir tiesīgs pieprasīt, lai ražotājs vai pārdevējs veic vienu no šādām darbībām:
 1) attiecīgi samazina preces cenu;
-2) bez atlīdzības novērš preces neatbilstību līguma noteikumiem vai atlīdzina patērētājam izdevumus par neatbilstības novēršanu;
+2) novērš preces neatbilstību līguma noteikumiem vai atlīdzina patērētājam izdevumus par neatbilstības novēršanu;
 3) apmaina preci pret tādu pašu vai ekvivalentu preci, ar kuru būtu nodrošināta atbilstība līguma noteikumiem;
 4) atceļ līgumu un atmaksā patērētājam par preci samaksāto naudas summu.
-(2) Prece apmaināma vai tās neatbilstība līguma noteikumiem novēršama saprātīgā termiņā, neradot neērtības patērētājam, ņemot vērā preces raksturu un paredzamo lietošanu.
+(2) Prece apmaināma vai tās neatbilstība līguma noteikumiem novēršama bez atlīdzības (tajā skaitā bez preces nosūtīšanas, darba, materiālu un citu izmaksu atlīdzināšanas) un saprātīgā termiņā, neradot neērtības patērētājam un ņemot vērā preces raksturu, kā arī paredzamo tās lietošanas nolūku.
 (3) Ja preces neatbilstība līguma noteikumiem atklājas vēlāk nekā sešus mēnešus pēc preces pārdošanas, patērētājs ir tiesīgs:
 1) vispirms pieprasīt, lai ražotājs vai pārdevējs bez atlīdzības novērš preces neatbilstību līguma noteikumiem vai atlīdzina patērētājam izdevumus par neatbilstības novēršanu, vai apmaina preci pret tādu pašu vai ekvivalentu preci, ar kuru būtu nodrošināta atbilstība līguma noteikumiem (izņemot gadījumu, kad tas nav iespējams);
 2) gadījumā, kad ražotājs vai pārdevējs nevar apmainīt preci vai saprātīgā termiņā novērst preces neatbilstību līguma noteikumiem, neradot neērtības patērētājam, - pieprasīt, lai ražotājs vai pārdevējs samazina preces cenu vai atceļ līgumu un atmaksā patērētājam par preci samaksāto naudas summu proporcionāli normatīvajos aktos noteiktajā kārtībā organizētā ekspertīzē konstatētajam preces nolietojumam.
