@@ -1,2 +1,2 @@
 III nodaļa
-Valsts proves uzraudzības inspekcija
+Valsts proves uzraudzība

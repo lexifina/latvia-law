@@ -1,4 +1,4 @@
-20.pants. Inspekcijas darbiniekiem (inspektoriem), pildot dienesta pienākumus, ir tiesības:
+20.pants. Veicot proves uzraudzību, Valsts ieņēmumu dienesta amatpersonām un Latvijas proves biroja darbiniekiem atbilstoši to kompetencei ir tiesības:
 1) uzrādot dienesta apliecību, brīvi apmeklēt Latvijas Republikas teritorijā esošās ražošanas vietas, tirdzniecības vietas un citas nedzīvojamās telpas, kas pieder vai ir iznomātas juridiskajām vai fiziskajām personām, kuras veic saimniecisko darbību ar dārgmetāliem, dārgakmeņiem un to izstrādājumiem;
 2) veikt dārgmetālu, dārgakmeņu un to izstrādājumu pārbaudes un analīzes;
 3) pieprasīt un saņemt no pārbaudāmajām juridiskajām un fiziskajām personām, kuras veic saimniecisko darbību ar dārgmetāliem, dārgakmeņiem un to izstrādājumiem, visu ar dārgmetālu, dārgakmeņu un to izstrādājumu saņemšanu, izlietošanu, realizāciju, uzskaiti un glabāšanu saistīto dokumentāciju, kā arī izziņas un paskaidrojumus par jautājumiem, kas radušies pārbaudes procesā;
