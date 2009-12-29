@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Mašīnu drošības noteikumi",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "49",
+  "official_journal_page": null,
+  "official_journal_date": "2008-03-28",
+  "entry_into_force": "2009-12-29",
+  "notification_date": "2008-04-10",
+  "commission_reference": "MNE(2008)52086",
+  "nim_celex": "72006L0042LVA_154860",
+  "nim_id": "154860",
+  "transposes_celex": [
+    "32006L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0c8a844b-74d5-4502-95f6-4686859dc00d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
