@@ -1,0 +1,1 @@
+1.pants. Konvencijas par cilvēktiesību un cieņas aizsardzību bioloģijā un medicīnā Papildprotokols par cilvēku klonēšanas aizliegumu (turpmāk - Papildprotokols) ar šo likumu tiek pieņemts un apstiprināts.
