@@ -1,0 +1,1 @@
+3.pants. Saskaņā ar Konvencijas 31.panta otro punktu noteikt, ka Latvijas Republikā tiesas dokumentu oficiālo izsniegšanu pirmstiesas kriminālprocesā veic Ģenerālprokuratūra un lietas izskatīšanā - Tieslietu ministrija, un par to Ārlietu ministrija paziņo Eiropas Padomes ģenerālsekretāram.

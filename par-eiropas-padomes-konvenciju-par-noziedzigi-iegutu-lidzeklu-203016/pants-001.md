@@ -1,0 +1,1 @@
+1.pants. 2005.gada 16.maija Eiropas Padomes konvencija par noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanu, kā arī šo līdzekļu meklēšanu, izņemšanu un konfiskāciju (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.

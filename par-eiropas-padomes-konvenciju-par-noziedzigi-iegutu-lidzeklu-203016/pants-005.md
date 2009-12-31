@@ -1,0 +1,1 @@
+5.pants. Saskaņā ar Konvencijas 35.panta trešo punktu noteikt, ka lūgumiem un tiem pievienotajiem dokumentiem nodrošināms tulkojums latviešu vai angļu valodā, un par to Ārlietu ministrija paziņo Eiropas Padomes ģenerālsekretāram.
