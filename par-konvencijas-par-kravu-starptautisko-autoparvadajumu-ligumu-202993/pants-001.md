@@ -1,0 +1,1 @@
+1.pants. 2008.gada 27.maijā parakstītais 1956.gada 19.maija Konvencijas par kravu starptautisko autopārvadājumu līgumu (CMR) Papildprotokols par elektronisko pavadzīmi (turpmāk - Papildprotokols) ar šo likumu tiek pieņemts un apstiprināts.
