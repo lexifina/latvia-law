@@ -1,0 +1,1 @@
+1.pants. 2009.gada 10.martā parakstītā Konvencija par centralizētu muitošanu attiecībā uz tādu valsts iekasēšanas izmaksu piešķiršanu, ko patur, nododot tradicionālos pašu resursus ES budžetā (turpmāk - Konvencija), ar šo likumu tiek pieņemta un apstiprināta.
