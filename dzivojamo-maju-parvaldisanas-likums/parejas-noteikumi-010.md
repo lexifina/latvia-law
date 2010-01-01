@@ -1,0 +1,1 @@
+10. Ministru kabinets līdz 2011.gada 1.janvārim izdod noteikumus par pārvaldnieku reģistra vešanas un aktualizēšanas kārtību, reģistram iesniedzamajiem dokumentiem, to iesniegšanas termiņiem, kā arī par reģistra vešanu atbildīgo amatpersonu.

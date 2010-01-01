@@ -1,0 +1,1 @@
+6. Personas, kuras līdz šā likuma spēkā stāšanās dienai ir noslēgušas attiecīgu dzīvojamo māju pārvaldīšanas līgumus, ir tiesīgas turpināt pildīt saskaņā ar līgumu uzņemtās pārvaldnieka saistības neatkarīgi no tā, vai šo personu kvalifikācija atbilst šā likuma 13.panta prasībām, bet ne ilgāk kā līdz 2011.gada 31.decembrim.

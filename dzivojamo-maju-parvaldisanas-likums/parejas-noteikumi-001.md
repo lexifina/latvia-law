@@ -1,0 +1,1 @@
+1. Šā likuma 6.panta otrajā daļā noteiktās obligāti veicamās pārvaldīšanas darbības attiecībā uz piesaistīto zemesgabalu dzīvojamās mājas īpašnieks veic līdz brīdim, kad ir noslēgta vienošanās ar zemesgabala īpašnieku par zemesgabala lietošanu un uzturēšanu.

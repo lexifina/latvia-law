@@ -1,0 +1,1 @@
+3. Daudzdzīvokļu mājai, kas sadalīta dzīvokļu īpašumos, mājas lieta glabājas pie pārvaldnieka, ja dzīvokļu īpašnieki nav noteikuši citādi. Dzīvokļu īpašniekiem ir tiesības iepazīties ar mājas lietu bez ierobežojumiem.
