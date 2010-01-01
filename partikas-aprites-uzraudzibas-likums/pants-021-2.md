@@ -1,0 +1,1 @@
+21.² pants. Laboratorisko izmeklēšanu (tajā skaitā references funkcijas normatīvajos aktos noteiktajās jomās) šā likuma 21.panta otrajā daļā Pārtikas un veterinārajam dienestam noteikto funkciju ietvaros nodrošina valsts zinātniskais institūts "Pārtikas drošības, dzīvnieku veselības un vides zinātniskais institūts".

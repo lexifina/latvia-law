@@ -6,7 +6,7 @@ b) atzīt un reģistrēt pārtikas uzņēmumu darbību, kā arī anulēt to atz�
 c) visos pārtikas aprites posmos uzraudzīt un kontrolēt pārtikas uzņēmumu darbību un pārtikas aprites procesu atbilstību normatīvajos aktos noteiktajām prasībām,
 d) visos pārtikas aprites posmos veikt riska faktoru izpēti un analīzi;
 2) sanitārajā robežkontrolē - normatīvajos aktos noteiktajā kārtībā uzraudzīt un kontrolēt valsts robežas kontroles punktos, kā arī brīvajās zonās, brīvajās noliktavās un muitas noliktavās pārtikas ievešanu valstī, veterinārajai uzraudzībai pakļauto produktu, kā arī citu preču un produktu ievešanu, izvešanu vai pārvadāšanu tranzītā;
-3) laboratoriskā izmeklēšana (tajā skaitā references funkcijas noteiktās jomās saskaņā ar normatīvajos aktos noteikto kārtību);
+3) (izslēgts ar 01.12.2009. likumu);
 4) bioloģiskajā lauksaimniecībā:
 a) atzīt, uzraudzīt un kontrolēt institūcijas, kas pārbauda to personu darbību, kuras nodarbojas ar bioloģisko lauksaimniecību, un šo personu saražoto produkciju,
 b) veidot un uzturēt to personu sarakstu, kuras nodarbojas ar bioloģisko lauksaimniecību;
