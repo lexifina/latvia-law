@@ -1,0 +1,1 @@
+58. Līdz šā likuma 39.pantā paredzēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2010.gada 30.jūnijam ir piemērojami Ministru kabineta 2006.gada 26.septembra noteikumi Nr.793 "Likuma "Par iedzīvotāju ienākuma nodokli" normu piemērošanas noteikumi", ciktāl tie nav pretrunā ar šo likumu.

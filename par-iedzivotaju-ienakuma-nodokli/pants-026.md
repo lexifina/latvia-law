@@ -8,3 +8,6 @@
 2) pašvaldības budžetā, kurā atrodas atsavinātais nekustamais īpašums, - no nekustamā īpašuma pārdošanas ienākuma;
 3) pašvaldības budžetā, kurā atrodas nekustamais īpašums, - no ienākuma no Latvijas Republikā esoša nekustamā īpašuma izmantošanas;
 4) ienākuma izmaksātāja atrašanās vietas vai dzīvesvietas pašvaldības budžetā - no citiem ienākumiem.
+6. Patentmaksa tiek ieskaitīta budžetā šādā sadalījumā:
+1) 67 procenti - valsts sociālās apdrošināšanas speciālajā budžetā;
+2) 33 procenti - maksātāja dzīvesvietas pašvaldības budžetā.

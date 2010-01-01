@@ -1,0 +1,1 @@
+54. Vienoto platību maksājumu summas, kas piešķirtas par 2009.gadu kā valsts atbalsts lauksaimniecībai vai Eiropas Savienības atbalsts lauksaimniecībai un lauku attīstībai, bet izmaksātas pēc 2009.gada 31.decembra, nav iekļaujamas maksātāja apliekamajā ienākumā.

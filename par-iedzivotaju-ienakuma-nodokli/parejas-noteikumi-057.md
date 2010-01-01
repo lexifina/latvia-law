@@ -1,0 +1,5 @@
+57. Ministru kabinets līdz 2010.gada 1.janvārim nosaka:
+1) šā likuma 8.panta 2.³ daļā paredzēto labuma guvējam doto labumu no darba devējam piederoša vai darba devēja rīcībā esoša vieglā pasažieru automobiļa izmantošanas, kas tiek pielīdzināts algota darba ienākumiem, par kuru jāmaksā algas nodoklis, un šo ienākumu noteikšanas kārtību;
+2) šā likuma 11.¹⁰ panta septītajā daļā paredzēto kārtību, kādā reģistrē patentmaksas maksātāju, maksā patentmaksu, kā arī saimnieciskās darbības jomas profesijas, par kurām maksā patentmaksu, patentmaksas apmēru sadalījumā pa profesijām un darbībām, kas saistītas ar meža un pļavu velšu vākšanu, un saimnieciskās darbības ierobežojumus patentmaksas maksātājam;
+3) šā likuma 16.¹ panta ceturtajā daļā paredzēto kārtību, kādā nosakāma ienākuma gūšanas diena, ja darījuma ar kapitāla aktīviem līguma noslēgšanas diena, naudas saņemšanas diena, īpašuma tiesību pāreja un blakus nosacījumi, lai līgums stātos spēkā, nav vienā taksācijas periodā;
+4) šā likuma 38.panta otrajā daļā paredzētās deklarācijas par ienākumu no kapitāla veidlapu formu un to aizpildīšanas kārtību.

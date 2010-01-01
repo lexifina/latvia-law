@@ -1,0 +1,1 @@
+52. No aplikšanas ar iedzīvotāju ienākuma nodokli atbrīvo 2010., 2011. un 2012.taksācijas gadā gūtos ienākumus no Eiropas Sociālā fonda darbības programmas "Cilvēkresursi un nodarbinātība", kurus izmaksājusi pašvaldība, saņemot Valsts nodarbinātības aģentūras par stipendijām kvalificētos Eiropas Sociālā fonda darbības programmas "Cilvēkresursi un nodarbinātība" līdzekļus.
