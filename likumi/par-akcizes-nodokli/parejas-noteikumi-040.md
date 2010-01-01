@@ -1,0 +1,1 @@
+40. Grozījumi šā likuma 12.panta pirmās daļas 2. un 3.punktā attiecībā uz skaitļa "40" aizstāšanu ar skaitli "45" un 4.punkta "a" apakšpunktā attiecībā uz skaitļa "42" aizstāšanu ar skaitli "45" stājas spēkā 2010.gada 1.februārī.

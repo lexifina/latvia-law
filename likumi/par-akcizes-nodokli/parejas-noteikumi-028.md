@@ -1,0 +1,1 @@
+28. Ar 2010.gada 1.aprīli spēku zaudē speciālās atļaujas (licences) un vispārējā nodrošinājuma apliecības akcīzes nodokļa maksātāja pārstāvja darbībai un vispārējā nodrošinājuma apliecības importētāja darbībai.

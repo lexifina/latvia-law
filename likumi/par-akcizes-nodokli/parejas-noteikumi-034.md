@@ -1,0 +1,1 @@
+34. Līdz 2010.gada 31.martam izsniegtās vispārējā nodrošinājuma apliecības akcīzes preču noliktavas turētāja darbībai ir derīgas apstiprināta akcīzes preču noliktavas turētāja darbībai ar attiecīgajiem akcīzes preču veidiem līdz to derīguma termiņa beigām, bet ne ilgāk kā līdz 2010.gada 1.oktobrim.

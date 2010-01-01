@@ -1,0 +1,1 @@
+33. Speciālās atļaujas (licences) akcīzes preču noliktavas turētāja darbībai, kuras izsniegtas līdz 2010.gada 31.martam, ir derīgas apstiprināta akcīzes preču noliktavas turētāja darbībai ar attiecīgajiem akcīzes preču veidiem bez pārreģistrācijas.

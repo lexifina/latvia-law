@@ -1,0 +1,1 @@
+29. Speciālās atļaujas (licences) apstiprināta tirgotāja darbībai, kuras nav pārreģistrētas šo pārejas noteikumu 30. un 31.punktā noteiktajā kārtībā līdz 2010.gada 31.martam, zaudē spēku 2010.gada 1.aprīlī.

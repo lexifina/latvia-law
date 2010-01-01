@@ -1,0 +1,1 @@
+35. Līdz 2010.gada 31.martam izsniegtās vispārējā nodrošinājuma apliecības apstiprināta tirgotāja darbībai ir derīgas reģistrēta saņēmēja darbībai ar attiecīgajiem akcīzes preču veidiem līdz to derīguma termiņa beigām, bet ne ilgāk kā līdz 2010.gada 1.oktobrim.
