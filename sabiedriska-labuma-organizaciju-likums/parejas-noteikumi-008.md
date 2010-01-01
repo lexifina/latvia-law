@@ -1,0 +1,1 @@
+8. Tādu sabiedriskā labuma organizāciju likvidācija, kuru likvidācijas process uzsākts pirms šo pārejas noteikumu 7.punktā minētā grozījuma spēkā stāšanās dienas, pabeidzama saskaņā ar normatīvajiem aktiem, kas bija spēkā līdz šā grozījuma spēkā stāšanās dienai.

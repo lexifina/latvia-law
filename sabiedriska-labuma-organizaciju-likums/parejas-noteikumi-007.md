@@ -1,0 +1,1 @@
+7. Šā likuma grozījums par 17.panta izteikšanu jaunā redakcijā stājas spēkā 2010.gada 1.jūlijā. Līdz šā grozījuma spēkā stāšanās dienai Ministru kabinets izdod tam atbilstošus 17.panta otrajā daļā (jaunajā redakcijā) minētos noteikumus.
