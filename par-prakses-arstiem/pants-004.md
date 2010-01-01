@@ -4,4 +4,5 @@ Par prakses ārstu nevar būt:
 2) par tīšu noziegumu notiesātās vai tiesājamās personas;
 3) personas, kas notiesātas par tīša nozieguma izdarīšanu, lai arī tās atbrīvotas no soda izciešanas sakarā ar noilgumu, apžēlošanu vai amnestiju vai arī to sodāmība ir dzēsta vai noņemta;
 4) personas, kas atbrīvotas no amata ar tiesas spriedumu krimināllietā;
-5) personas, kas ar tiesas nolēmumu ir atzītas par maksātnespējīgiem parādniekiem.
+5) (izslēgts ar 10.12.2009. likumu);
+6) personas, pār kurām nodibināta aizgādnība.
