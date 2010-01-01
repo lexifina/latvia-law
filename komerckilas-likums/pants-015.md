@@ -3,7 +3,7 @@
 (2) Reģistrācijas pieteikumu komercķīlu reģistra turētājs izskata piecu darbadienu laikā, neieskaitot pieteikuma saņemšanas dienu. Ja ir saņemti vairāki viena komercķīlas devēja reģistrācijas pieteikumi, vispirms izskatāms agrāk saņemtais pieteikums. Reģistrācijas pieteikumi, kas saņemti pa pastu vai iesniegti vienā dienā, atzīstami par vienā laikā saņemtiem.
 (3) Izskatot reģistrācijas pieteikumu, komercķīlu reģistra turētājs pārliecinās tikai par to, vai:
 1) pieteikums noformēts atbilstoši likuma prasībām;
-2) komercķīlas devējs nav pasludināts par maksātnespējīgu;
+2) komercķīlas devējam netiek īstenots tiesiskās aizsardzības process vai nav pasludināts maksātnespējas process;
 3) dokumentos, uz kuriem pamatots pieteikums, nav nekā acīmredzami pretlikumīga;
 4) pieteikumā iekļautā informācija atbilst Uzņēmumu reģistrā un kustamo lietu reģistros iekļautajai informācijai;
 5) ir samaksāta valsts nodeva.
