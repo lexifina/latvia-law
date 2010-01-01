@@ -1,7 +1,7 @@
-48.pants. Dienesta atalgojums
-(1) Profesionālā dienesta karavīrs aktīvā dienesta laikā saņem Ministru kabineta noteikto dienesta atalgojumu. Dienesta atalgojumā ietilpst alga atkarībā no dienesta pakāpes un izdienas stāža, kā arī Ministru kabineta noteikumos paredzētās piemaksas.
+48.pants. Karavīru atlīdzība
+(1) Profesionālā dienesta karavīrs aktīvā dienesta laikā saņem atlīdzību, kuru nosaka atbilstoši Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likumam.
 (2) Karavīram izdienas stāžā ieskaita dienesta laiku profesionālajā dienestā (līdz šā likuma spēkā stāšanās brīdim - aktīvajā dienestā un ierindas dienestā), obligātajā aktīvajā militārajā dienestā, Iekšlietu ministrijas sistēmas, valsts drošības un prokuratūras iestādēs amatos ar speciālajām dienesta pakāpēm un citas valsts bruņotajos spēkos nodienēto laiku, bet karavīram, kurš pieņemts aktīvajā dienestā līdz šā likuma spēkā stāšanās brīdim, arī 80 procentus no civilajās iestādēs nostrādātā laika.
-(3) No amata atstādinātais karavīrs saņem algu un karavīra uzturdevu vai tās kompensāciju.
-(4) Karavīrs par patvaļīgā prombūtnē pavadīto laiku nesaņem dienesta atalgojumu un karavīra uzturdevu vai tās kompensāciju, un šo laiku neieskaita viņa izdienas stāžā. Laikā, kad karavīrs atrodas arestā, viņu nodrošina ar uzturdevu, bet viņam neizmaksā dienesta atalgojumu.
-(5) Karavīrs, kurš iecelts augstākas dienesta pakāpes amatā, amata pildīšanas laikā saņem piemaksu algu starpības apmērā. Karavīrs, kurš iecelts zemākas dienesta pakāpes amatā, amata pildīšanas laikā saņem algu atbilstoši savai dienesta pakāpei.
-(6) Kārtību, kādā karavīram aprēķina un izmaksā šajā pantā minētās naudas izmaksas, nosaka aizsardzības ministrs.
+(3) (Izslēgta ar 01.12.2009. likumu)
+(4) (Izslēgta ar 01.12.2009. likumu)
+(5) (Izslēgta ar 01.12.2009. likumu)
+(6) (Izslēgta ar 01.12.2009. likumu)

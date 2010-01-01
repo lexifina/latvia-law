@@ -1,5 +1,5 @@
 51.pants. Karavīru veselības aprūpe
-(1) Profesionālā dienesta karavīram ir tiesības dienesta laikā ārstniecības iestādēs saņemt apmaksātu veselības aprūpi. Attiecīgos izdevumus sedz Aizsardzības ministrija Ministru kabineta noteiktajā kārtībā.
-(2) Profesionālā dienesta karavīrs saņem slimības pabalstu normatīvajos aktos noteiktajā kārtībā. Ja saņemtā slimības pabalsta apmērs ir mazāks par karavīra algu, viņam no dienesta atalgojuma fonda līdzekļiem kompensē šo starpību. Profesionālā dienesta karavīrs par pirmajām četrpadsmit dienesta nespējas dienām saņem slimības naudu karavīra algas apmērā proporcionāli dienesta nespējas laikam.
+(1) (Izslēgta ar 01.12.2009. likumu)
+(2) (Izslēgta ar 01.12.2009. likumu)
 (3) Ja obligātā aktīvā militārā dienesta karavīru atvaļina no dienesta sakarā ar veselības stāvokļa neatbilstību aktīvajam dienestam, kam par iemeslu bijusi trauma, kas iegūta dienesta laikā, pildot dienesta pienākumus, vai slimība, kuras cēlonis saistīts ar militāro dienestu, šim karavīram dienesta laikā gūto veselības traucējumu ārstēšanas un rehabilitācijas izmaksas sedz Aizsardzības ministrija Ministru kabineta noteiktajā kārtībā un apjomā.
-(4) (Izslēgta ar 29.03.2007. likumu.)
+(4) (Izslēgta ar 29.03.2007. likumu)
