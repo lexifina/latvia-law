@@ -1,0 +1,1 @@
+19. Pēc šo pārejas noteikumu 14.punktā minēto grozījumu spēkā stāšanās plānošanas reģions, pārzinot maršrutu tīklu savā teritorijā un organizējot sabiedriskā transporta pakalpojumus, pamatojoties uz kārtējā gada budžeta likumā paredzēto finanšu līdzekļu apjomu, pārskata reģionālo vietējās nozīmes maršrutu tīkla maršrutus.
