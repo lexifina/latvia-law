@@ -17,16 +17,11 @@
 2) izpildīti likumā "Par valsts noslēpumu" paredzētie nosacījumi;
 3) Saeimas Nacionālās drošības komisijas piekrišana attiecībā uz iespēju izmantot personu darbā valsts drošības iestādēs.
 (5) Valsts drošības iestāžu amatpersona ir valsts varas pārstāvis, un likumīgās prasības un rīkojumi, ko tā izvirzījusi vai devusi, pildot amata pienākumus, visām personām ir obligāti. Valsts drošības iestāžu amatpersonas goda aizskaršana, pretošanās tai, dzīvības vai veselības apdraudējums, kā arī rīcība, kas tai traucē pildīt amata pienākumus, sodāma saskaņā ar likumu.
-(6) Zaudējumi, kas sakarā ar dienesta darbību nodarīti valsts drošības iestādes amatpersonas vai tās tuvu radinieku mantai, pilnā apmērā atlīdzināmi no valsts budžeta līdzekļiem.
+(6) (Izslēgta ar 01.12.2009. likumu)
 (7) Valsts drošības iestāžu amatpersonas valsts teritorijā bez ģenerālprokurora piekrišanas nav saucamas pie kriminālatbildības, tās nedrīkst pakļaut aizturēšanai (arī administratīvajai aizturēšanai), kratīšanai, piespiedu atvešanai; kratīšanai vai apskatei nav pakļaujamas to dzīvojamās vai dienesta telpas, personiskie vai dienesta transporta līdzekļi. Kriminālprocesuālie ierobežojumi uz šīm amatpersonām nav attiecināmi gadījumos, kad tās ir notvertas noziedzīga nodarījuma izdarīšanā, par ko 24 stundu laikā jāinformē ģenerālprokurors un attiecīgās valsts drošības iestādes vadītājs.
-(8) (Izslēgta ar 20.06.2000. likumu.)
-(9) Valsts drošības iestāžu amatpersonām un darbiniekiem ir šādas sociālās garantijas:
-1) pabalsts sešu mēneša amatalgu apmērā sakarā ar bērna piedzimšanu. Ja abi bērna vecāki strādā valsts institūcijās, kuru darbību regulējošos normatīvajos aktos ir paredzētas tiesības uz bērna piedzimšanas pabalstu, tiesības uz pabalstu ir vienam no bērna vecākiem;
-2) pabalsts ģimenes locekļa vai apgādājamā nāves gadījumā;
-3) pabalsts veselības uzlabošanai, ja veselības pasliktināšanās saistīta ar dienesta pienākumu pildīšanu;
-4) valsts apmaksāta medicīniskā aprūpe;
-5) mācību maksas kompensācija 50 procentu apmērā no mācību gada maksas, ja amatpersona vai darbinieks, nepārtraucot dienestu, sekmīgi mācās (par maksu) augstākās izglītības iestādē, lai iegūtu dienesta pienākumu izpildei nepieciešamās zināšanas.
-(10) Valsts drošības iestāžu amatpersonas ir pakļautas obligātai valsts apdrošināšanai.
-(11) Valsts drošības iestāžu darbiniekiem un amatpersonām ir tiesības uz apmaksātu papildu atvaļinājumu, ko piešķir valsts drošības iestādes vadītājs un kas nepārsniedz 12 darba dienas kalendāra gada laikā.
-(12) Valsts drošības iestāžu amatpersonas un darbinieki, aizejot ikgadējā atvaļinājumā, saņem atvaļinājuma pabalstu mēneša amatalgas apmērā.
-(13) Šā panta devītās daļas 2. un 3.punktā minēto pabalstu apmēru un izmaksāšanas kārtību, kā arī medicīniskās aprūpes izdevumu apmaksas kārtību nosaka Ministru kabinets.
+(8) (Izslēgta ar 20.06.2000. likumu)
+(9) (Izslēgta ar 01.12.2009. likumu)
+(10) (Izslēgta ar 01.12.2009. likumu)
+(11) (Izslēgta ar 01.12.2009. likumu)
+(12) (Izslēgta ar 01.12.2009. likumu)
+(13) (Izslēgta ar 01.12.2009. likumu)
