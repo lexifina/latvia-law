@@ -1,4 +1,4 @@
-4.pants. Valsts pārvaldes iestāžu kompetence
+4.pants. Valsts institūciju kompetence
 (1) Veselības ministrija un tās padotībā esošās uzraudzības un kontroles iestādes normatīvajos aktos noteiktajos gadījumos kontrolē darbības ar ķīmiskajām vielām, maisījumiem un biocīdu laišanu tirgū un izplatīšanu, un uzrauga šo darbību atbilstību likumiem un citiem normatīvajiem aktiem cilvēku dzīvības un veselības aizsardzības jomā. Veselības inspekcija veic ķīmisko vielu ietekmes uz veselību novērtējumu.
 (2) Labklājības ministrija un tās padotībā esošās uzraudzības un kontroles iestādes kontrolē darbības ar ķīmiskajām vielām, maisījumiem, ķīmiskajām vielām izstrādājumos un biocīdiem darba vidē un uzrauga šo darbību atbilstību likumiem un citiem normatīvajiem aktiem strādājošo dzīvības un veselības aizsardzības jomā.
 (3) Vides ministrija un tās padotībā esošās uzraudzības un kontroles iestādes kontrolē darbības ar ķīmiskajām vielām, maisījumiem, ķīmiskajām vielām izstrādājumos un biocīdiem ražošanā un profesionālā lietošanā, izņemot šā panta pirmajā daļā minētos gadījumus, un uzrauga šo darbību atbilstību likumiem un citiem normatīvajiem aktiem vides aizsardzības jomā. Valsts vides dienests izdod ar ķīmisko vielu vai maisījumu, arī biocīdu, reģistrāciju, pagaidu reģistrāciju vai atļauju izsniegšanu saistītus administratīvos aktus.
@@ -11,5 +11,7 @@
 (6) Ievestās bīstamās ķīmiskās vielas un bīstamos maisījumus, kuriem ir noteikti īpaši ierobežojumi vai aizliegumi, kā arī šīs bīstamās ķīmiskās vielas saturošus būvizstrādājumus uz valsts (muitas) robežas kontrolē Valsts ieņēmumu dienesta muitas iestādes.
 (6¹) Patērētāju tiesību aizsardzības centrs kontrolē ķīmiskās vielas tirdzniecībā esošajos izstrādājumos atbilstoši regulai 1907/2006 un pārbauda būvizstrādājumu atbilstību normatīvo aktu prasībām ražotnēs un būvlaukumos, kā arī pārbauda tirgū piedāvājamo būvizstrādājumu atbilstības deklarācijas.
 (6²) (Izslēgta ar 29.10.2009. likumu.)
-(6³) Valsts proves inspekcija kontrolē tirdzniecībā esošos dārgmetālu un dārgakmeņu izstrādājumus.
+(6³) Valsts ieņēmumu dienests un valsts sabiedrība ar ierobežotu atbildību "Latvijas proves birojs" (turpmāk - Latvijas proves birojs) īsteno dārgmetālu, dārgakmeņu un to izstrādājumu kontroli. Latvijas proves birojs:
+1) veic pārbaudes vietās, kur notiek saimnieciskā darbība ar dārgmetāliem, dārgakmeņiem un to izstrādājumiem, un par konstatētajiem normatīvo aktu pārkāpumiem sastāda administratīvā pārkāpuma protokolu;
+2) nosūta materiālus par veikto pārbaudi un administratīvā pārkāpuma protokolu Valsts ieņēmumu dienestam administratīvā akta izdošanai.
 (7) Citas iestādes darbības ar ķīmiskajām vielām vai maisījumiem uzrauga un kontrolē likumos un citos normatīvajos aktos noteiktajā kārtībā.
