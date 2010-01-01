@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2009.gada 22.decembra noteikumi Nr.1493 “Noteikumi par valsts nodrošinātās juridiskās palīdzības apjomu, samaksas apmēru, atlīdzināmajiem izdevumiem un to izmaksas kārtību”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "206 (4192)",
+  "official_journal_page": null,
+  "official_journal_date": "2009-12-31",
+  "entry_into_force": "2010-01-01",
+  "notification_date": "2016-02-04",
+  "commission_reference": "MNE(2016)50997",
+  "nim_celex": "72012L0029LVA_234363",
+  "nim_id": "234363",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0840c53b-7fe1-447c-b8a8-c0e99771b95f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
