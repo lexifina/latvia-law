@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2009.gada 22.decembra noteikumi Nr. 1613 “Kārtība, kādā nepieciešamo palīdzību sniedz bērnam, kurš cietis no prettiesiskām darbībām”",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "205",
+  "official_journal_page": null,
+  "official_journal_date": "2009-12-30",
+  "entry_into_force": "2010-01-01",
+  "notification_date": "2026-08-18",
+  "commission_reference": "MNE(2026)06479",
+  "nim_celex": "72024L1346LVA_202606479",
+  "nim_id": "202606479",
+  "transposes_celex": [
+    "32024L1346"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/452ac495-dfb9-4cb7-abcc-8204228cc116",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
