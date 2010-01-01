@@ -1,6 +1,6 @@
 4.pants. Noziedzīgi iegūti līdzekļi
 (1) Līdzekļi ir atzīstami par noziedzīgi iegūtiem:
-1) ja personas īpašumā vai valdījumā tie tieši vai netieši iegūti, izdarot noziedzīgu nodarījumu;
+1) ja personas īpašumā vai valdījumā tie tieši vai netieši iegūti noziedzīga nodarījuma rezultātā;
 2) citos Kriminālprocesa likumā noteiktajos gadījumos.
 (2) Ar terminu "noziedzīgi iegūti līdzekļi" saprot Kriminālprocesa likumā lietoto terminu "noziedzīgi iegūta manta, arī finanšu līdzekļi".
 (3) Papildus Kriminālprocesa likumā noteiktajiem par noziedzīgi iegūtiem uzskatāmi arī līdzekļi, kuri pieder personai vai kurus tieši vai netieši kontrolē persona:

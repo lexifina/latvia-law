@@ -14,7 +14,7 @@
 12) apkopot un iesniegt Kontroles dienesta Konsultatīvajai padomei šā likuma 46.panta pirmās daļas 8.punktā minēto statistisko informāciju.
 (2) Kontroles dienestam ir šādas tiesības:
 1) šajā likumā noteiktajos gadījumos dot rīkojumu likuma subjektam apturēt darījumu vai noteikta veida debeta operācijas klienta kontā;
-2) šajā likumā noteiktajos gadījumos dot rīkojumu valsts informācijas sistēmas pārzinim veikt pasākumus, lai nepieļautu līdzekļu pārreģistrāciju;
+2) šajā likumā noteiktajos gadījumos dot rīkojumu valsts informācijas sistēmas pārzinim vai vērsties zemesgrāmatu nodaļā ar lūgumu veikt pasākumus, lai nepieļautu līdzekļu pārreģistrāciju;
 3) dot norādījumu likuma subjektiem par klienta identifikācijas un izpētes gaitā iegūto dokumentu glabāšanas termiņa pagarināšanu;
 4) pieprasīt un saņemt informāciju no likuma subjektiem, valsts institūcijām, kā arī no atvasinātām publiskām personām un to institūcijām;
 5) sniegt informāciju pirmstiesas izmeklēšanas iestādēm, prokuratūrai, tiesai, uzraudzības un kontroles institūcijām;

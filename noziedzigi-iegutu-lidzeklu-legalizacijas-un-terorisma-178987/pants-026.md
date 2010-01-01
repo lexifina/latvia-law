@@ -16,6 +16,6 @@
 2) klientu identificējošā informācija ir publiski pieejama, pārredzama un droša;
 3) persona, kas sniedz finanšu pakalpojumus, ir saņēmusi licenci (atļauju) finanšu pakalpojumu sniegšanai;
 4) persona ir pakļauta valsts kompetento iestāžu pārraudzībai attiecībā uz tās darbību atbilstību normatīvajiem aktiem.
-(4) Ministru kabinets apstiprina to trešo valstu sarakstu, kuru normatīvo aktu prasības noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas jomā ir līdzvērtīgas Eiropas Savienības tiesību aktu prasībām.
+(4) Ministru kabinets apstiprina to trešo valstu un teritoriju sarakstu, kuru normatīvo aktu prasības noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas jomā ir līdzvērtīgas Eiropas Savienības tiesību aktu prasībām.
 (5) Pieņemot lēmumu neveikt klienta izpēti, likuma subjekts iegūst un dokumentē informāciju, kas apliecina, ka klients atbilst šā panta pirmajā daļā minētajiem izņēmumiem.
 (6) Šā panta pirmajā daļā minētajos gadījumos likuma subjekts ir tiesīgs neievērot šā likuma 14.panta pirmās daļas prasības.
