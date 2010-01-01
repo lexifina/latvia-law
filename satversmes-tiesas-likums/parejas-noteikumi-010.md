@@ -1,0 +1,1 @@
+10. Šā likuma normas, kas paredz, ka lieta sagatavojama piecu mēnešu laikā un atbildes raksta iesniegšanas termiņš ir vismaz divi mēneši, neattiecas uz lietām, kuras ierosinātas līdz šo normu spēkā stāšanās dienai.

@@ -1,6 +1,12 @@
 4.pants. Satversmes tiesas tiesneša apstiprināšana
 (1) Satversmes tiesas tiesnešus apstiprina Saeima. Trīs Satversmes tiesas tiesnešus apstiprina pēc ne mazāk kā desmit Saeimas deputātu priekšlikuma, divus - pēc Ministru kabineta priekšlikuma un vēl divus - pēc Augstākās tiesas plēnuma priekšlikuma. Augstākās tiesas plēnums izraugās Satversmes tiesas tiesneša amata kandidātus no Latvijas Republikas tiesnešu vidus.
-(2) Par Satversmes tiesas tiesnesi var apstiprināt Latvijas pilsoni, kam ir augstākā juridiskā izglītība un vismaz desmit gadus ilgs darba stāžs juridiskajā specialitātē vai zinātniski pedagoģiskajā darbā tieslietu specialitātē zinātniskajā vai augstākajā mācību iestādē. Par Satversmes tiesas tiesnesi nedrīkst apstiprināt personu, kura nevar būt par tiesneša amata kandidātu saskaņā ar likuma "Par tiesu varu" 55.pantu.
+(2) Par Satversmes tiesas tiesnesi var apstiprināt personu:
+1) kura ir Latvijas Republikas pilsonis;
+2) kurai ir nevainojama reputācija;
+3) kura dienā, kad Saeimas Prezidijam iesniegts priekšlikums par Satversmes tiesas tiesneša apstiprināšanu, ir sasniegusi 40 gadu vecumu;
+4) kura ir ieguvusi augstāko profesionālo vai akadēmisko izglītību (izņemot pirmā līmeņa profesionālo izglītību) tiesību zinātnē un arī maģistra (tostarp augstāko juridisko izglītību, kas tiesību ziņā pielīdzināma maģistra grādam) vai doktora grādu;
+5) kurai ir vismaz 10 gadus ilgs darba stāžs juridiskajā specialitātē vai zinātniski pedagoģiskajā darbā tieslietu specialitātē zinātniskajā institūcijā vai augstākās izglītības iestādē pēc augstākās profesionālās vai akadēmiskās izglītības (izņemot pirmā līmeņa profesionālo izglītību) tiesību zinātnē iegūšanas.
+(2¹) Par Satversmes tiesas tiesnesi nedrīkst apstiprināt personu, kura nevar būt par tiesneša amata kandidātu saskaņā ar likuma "Par tiesu varu" 55.pantu.
 (3) Iesniegumam par Satversmes tiesas tiesneša kandidatūru pievienojami šādi Satversmes tiesas tiesneša amata kandidāta parakstīti dokumenti:
 1) piekrišana kandidēt Satversmes tiesas tiesneša amatam;
 2) apliecinājums, ka uz viņu neattiecas likuma "Par tiesu varu" 55.pantā minētie ierobežojumi.

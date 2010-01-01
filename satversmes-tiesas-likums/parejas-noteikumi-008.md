@@ -1,0 +1,1 @@
+8. Šā likuma 4.panta otrās daļas jaunā redakcija, kas nosaka prasības personai, kura pretendē uz Satversmes tiesas tiesneša amatu, neattiecas uz personu, kura apstiprināta par Satversmes tiesas tiesnesi līdz šo prasību spēkā stāšanās dienai.

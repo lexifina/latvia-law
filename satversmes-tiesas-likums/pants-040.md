@@ -1,4 +1,4 @@
 40.pants. Satversmes tiesas amatpersonas un darbinieki
-(1) Satversmes tiesas amatpersonu un darbinieku štatu sarakstu budžeta ietvaros nosaka Satversmes tiesas priekšsēdētājs.
-(2) Satversmes tiesas amatpersonu un darbinieku darba attiecības regulē Darba likums.
-(3) Uz Satversmes tiesas amatpersonām un darbiniekiem attiecas visas tās kompensācijas un sociālās garantijas, kas likumā "Par tiesu varu" un citos spēkā esošajos normatīvajos aktos noteiktas tiesu resora amatpersonām un ierēdņiem.
+(1) Satversmes tiesas priekšsēdētājs budžeta ietvaros nosaka Satversmes tiesas iekšējo struktūru, amatpersonu un darbinieku amatu sarakstu, kā arī amatpersonu, kas nodrošina tiesas administratīvo darbu (lietvedības organizēšana, personālvadība, finanšu vadība, materiāltehniskais nodrošinājums u.tml.) un atbild par to.
+(2) Satversmes tiesas amatpersonu un darbinieku darba attiecības regulē Darba likums. Satversmes tiesas tiesneša palīgu pieņem darbā uz Satversmes tiesas tiesneša pilnvaru laiku, bet Satversmes tiesas priekšsēdētāja padomnieku un palīgu - uz Satversmes tiesas priekšsēdētāja pilnvaru laiku.
+(3) Satversmes tiesas amatpersonu un darbinieku atlīdzību (piemēram, mēnešalgu, piemaksas, sociālās garantijas) nosaka atbilstoši Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likumam.

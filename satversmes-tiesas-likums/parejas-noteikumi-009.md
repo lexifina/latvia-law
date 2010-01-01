@@ -1,0 +1,1 @@
+9. Šā likuma 19.³ pants neattiecas uz pieteikumiem, kas Satversmes tiesai iesniegti līdz šā panta spēkā stāšanās dienai. Attiecībā uz šā likuma 19.³ pantā minētajiem normatīvajiem aktiem, kas stājušies spēkā pirms minētā panta spēkā stāšanās, pieteikumu par lietas ierosināšanu var iesniegt sešu mēnešu laikā no šā panta spēkā stāšanās dienas.

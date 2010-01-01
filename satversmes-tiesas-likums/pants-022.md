@@ -8,7 +8,7 @@
 (4) Pieaicinātās personas viedoklis, lietpratēja (eksperta) atzinums, pieprasītie paskaidrojumi un citi dokumenti iesniedzami tiesneša noteiktajā termiņā.
 (5) Par lietas dalībnieku lūgumiem, kas pieteikti, sagatavojot lietu izskatīšanai, lemj tiesnesis. Ja tiesnesis lūgumu daļēji vai pilnībā noraida, viņš par to pieņem lēmumu. Lēmuma norakstu nosūta lietas dalībniekam, kas lūgumu pieteicis. Lēmums par lūguma pilnīgu vai daļēju noraidīšanu nav pārsūdzams.
 (6) Lai veicinātu lietu vispusīgu un ātru iztiesāšanu, pieļaujama divu vai vairāku lietu apvienošana vienā lietā, kā arī vienas lietas sadalīšana divās vai vairākās lietās.
-(7) Lieta sagatavojama ne ilgāk kā triju mēnešu laikā. Īpaši sarežģītās lietās Satversmes tiesa rīcības sēdē triju tiesnešu sastāvā ir tiesīga ar lēmumu šo termiņu pagarināt, bet ne ilgāk kā par diviem mēnešiem.
+(7) Lieta sagatavojama ne ilgāk kā piecu mēnešu laikā. Īpaši sarežģītās lietās Satversmes tiesa rīcības sēdē triju tiesnešu sastāvā ir tiesīga ar lēmumu šo termiņu pagarināt, bet ne ilgāk kā par diviem mēnešiem.
 (8) Tiesnesis lietas sagatavošanu pabeidz, sagatavojot atzinumu. Ja tiesnesis uzskata, ka lieta izskatāma rakstveida procesā, viņš atzinumā ietver priekšlikumu par to.
 (9) Lietas sagatavošana noslēdzama ar Satversmes tiesas priekšsēdētāja lēmumu par lietas nodošanu izskatīšanai, tiesas sastāvu un rīcības sēdes laiku un vietu.
 (10) Rīcības sēdē tiesa lemj par:
