@@ -1,0 +1,6 @@
+6.¹ pants. Budžeta nefinansētu iestāžu budžeti
+(1) Budžeta nefinansētu iestāžu ieņēmumus veido šo iestāžu ieņēmumi par sniegtajiem maksas pakalpojumiem un citi pašu ieņēmumi, dāvinājumi un ziedojumi, kā arī ārvalstu finanšu palīdzība.
+(2) Ja, pieņemot likumu vai Ministru kabineta lēmumu, budžeta nefinansētai iestādei tiek noteikts pārvaldes uzdevums, kura finansēšanai nav paredzēti ieņēmumi par sniegtajiem maksas pakalpojumiem vai citi pašu ieņēmumi, šāda uzdevuma izpildes nodrošināšanai budžeta nefinansēta iestāde atbilstoši gadskārtējā valsts budžeta likumam var saņemt dotāciju no vispārējiem ieņēmumiem.
+(3) Budžeta nefinansētas iestādes var piedalīties Eiropas Savienības politiku instrumentu un pārējās ārvalstu finanšu palīdzības projektos, nesaņemot valsts budžeta līdzfinansējumu.
+(4) Budžeta nefinansētas iestādes drīkst uzņemties ilgtermiņa saistības, ja šīs saistības ir saskaņotas ar ministriju (pārraudzības institūciju). Ilgtermiņa saistību izpildes termiņš nedrīkst pārsniegt 10 gadus, un maksimāli pieļaujamais apmērs ilgtermiņa saistībām, kurām iestājies izpildes termiņš attiecīgajā saimnieciskajā gadā, nedrīkst pārsniegt 20 procentus no plānotajiem budžeta nefinansētas iestādes kārtējā saimnieciskā gada ieņēmumiem.
+(5) Budžeta nefinansētu iestāžu kārtējā gada līdzekļu atlikumu var izmantot nākamajā gadā izdevumu finansēšanai.

@@ -1,10 +1,10 @@
 30. pants. Pārskati un ziņojumi Valsts kasei
-(1) Valsts budžeta iestādes sagatavo un iesniedz gada pārskatu Ministru kabineta noteiktajā kārtībā un apjomā.
-(2) Pašvaldības sagatavo un iesniedz gada pārskatu Ministru kabineta noteiktajā kārtībā un apjomā.
-(3) Ministrijas, centrālās valsts iestādes un pašvaldības iesniedz Valsts kasei gada pārskatu līdz pārskata gadam sekojošā saimnieciskā gada 1.maijam. Ministrijas un centrālās valsts iestādes gada pārskatam pievieno Valsts kontroles atzinumu par gada pārskata sastādīšanas pareizību. Pašvaldības gada pārskatam pievieno zvērināta revidenta ziņojumu. Valsts kontrole gada pārskatam pievieno zvērināta revidenta vai zvērinātu revidentu komercsabiedrības ziņojumu.
+(1) Budžeta iestādes, no valsts vai pašvaldības budžeta daļēji finansētas atvasinātas publiskas personas un budžeta nefinansētas iestādes sagatavo un iesniedz gada pārskatu Ministru kabineta noteiktajā kārtībā un apjomā.
+(2) (Izslēgta ar 01.12.2009. likumu)
+(3) Ministrijas un citas centrālās valsts iestādes, kā arī pašvaldības konsolidēto gada pārskatu iesniedz Valsts kasei līdz pārskata gadam sekojošā saimnieciskā gada 1.maijam. Ministrijas un citas centrālās valsts iestādes gada pārskatam pievieno Valsts kontroles atzinumu par gada pārskata sastādīšanas pareizību. Pašvaldības gada pārskatam pievieno zvērināta revidenta ziņojumu. Valsts kontrole gada pārskatam pievieno zvērināta revidenta vai zvērinātu revidentu komercsabiedrības ziņojumu.
 (4) Ministrijas un centrālās valsts iestādes iesniedz Valsts kasei to pārziņā esošo komersantu finanšu pārskatus un finanšu informāciju Ministru kabineta noteiktajā kārtībā un apjomā. Šajā daļā minētie finanšu pārskati iesniedzami arī Valsts kontrolei.
 (5) Šā panta noteikumi neattiecas uz Saeimu, kuras saimniecība tiek pārbaudīta Saeimas kārtības rullī noteiktajā kārtībā.
-(6) Pašvaldības sagatavo un iesniedz mēneša pārskatus par budžeta izpildi, finansēšanu, aizņēmumu un galvojumu apjomu Ministru kabineta noteiktajā kārtībā un apjomā.
-(7) Valsts budžeta iestādes un pašvaldības sagatavo un iesniedz ceturkšņa pārskatus Ministru kabineta noteiktajā kārtībā un apjomā.
-(8) No valsts budžeta daļēji finansētas atvasinātas publiskas personas, izņemot pašvaldības, sagatavo mēneša, ceturkšņa un gada pārskatu Ministru kabineta noteikumos paredzētajā kārtībā.
-(9) Ministrijas un centrālās valsts iestādes iesniedz Valsts kasei konsolidētos pārskatus par to padotībā esošajām no valsts budžeta daļēji finansētām atvasinātām publiskām personām.
+(6) Budžeta iestādes, no valsts vai pašvaldības budžeta daļēji finansētas atvasinātas publiskas personas un budžeta nefinansētas iestādes sagatavo un iesniedz Valsts kasei mēneša pārskatu Ministru kabineta noteiktajā kārtībā un apjomā.
+(7) Budžeta iestādes, no valsts vai pašvaldības budžeta daļēji finansētas atvasinātas publiskas personas un budžeta nefinansētas iestādes sagatavo un iesniedz Valsts kasei ceturkšņa pārskatu Ministru kabineta noteiktajā kārtībā un apjomā.
+(8) Ministrijas un citas centrālās valsts iestādes, kā arī pašvaldības konsolidēto mēneša un ceturkšņa pārskatu iesniedz Valsts kasei Ministru kabineta noteiktajā termiņā.
+(9) Ministrijas un citas centrālās valsts iestādes iesniedz Valsts kasei konsolidētos pārskatus par to padotībā esošām no valsts budžeta daļēji finansētām atvasinātām publiskām personām un budžeta nefinansētām iestādēm.

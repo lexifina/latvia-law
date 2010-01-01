@@ -3,20 +3,23 @@
 (2) Ikviens grozījums, kas attiecas uz apropriācijas apjomu, mērķiem vai termiņiem, izdarāms saskaņā ar šā likuma noteikumiem.
 (3) Speciālajam budžetam ir apropriācija, kas pieļauj tikai tādus izdevumus, kuri nepārsniedz saimnieciskā gada faktisko ieņēmumu apmērus un līdzekļu atlikumus saimnieciskā gada sākumā un aizņēmumu no valsts pamatbudžeta.
 (4) Visas apropriācijas zaudē spēku saimnieciskā gada beigās.
-(5) Finanšu ministram ir tiesības palielināt gadskārtējā valsts budžeta likumā noteikto apropriāciju tikai šādiem mērķiem:
-1) valsts budžeta iestāžu ieņēmumu no maksas pakalpojumiem un citu pašu ieņēmumu, ārvalstu finanšu palīdzības līdzekļu, gadskārtējā valsts budžeta izpildes procesā veikto transfertu, kā arī šā likuma 27.pantā noteiktajā kārtībā aprēķināto ieņēmumu atlikumu saimnieciskā gada sākumā izmantošanai;
-2) Eiropas Kopienas pašu resursu palielināšanai;
-3) norēķiniem ar Eiropas Savienību;
-4) starptautisko tiesu un Satversmes tiesas spriedumu izpildei;
-5) valsts parāda saistību dzēšanai;
-6) Eiropas Savienības politiku instrumentu un citas ārvalstu finanšu palīdzības projektu un pasākumu īstenošanai;
-7) Eiropas Savienības politiku instrumentiem, lai īstenotu tādus Eiropas lauksaimniecības garantiju fonda pasākumus, kuri izriet no Eiropas Savienības tieši piemērojamiem tiesību aktiem;
-8) normatīvajos aktos noteikto sociālās apdrošināšanas speciālā budžeta izdevumu segšanai;
-9) likumā noteikto garantēto atlīdzību izmaksai Noguldījumu garantiju fondā trūkstošo līdzekļu nodrošināšanai.
-(6) Par apropriācijas palielināšanu šā panta piektajā daļā minētajiem mērķiem finanšu ministrs nekavējoties informē Ministru kabinetu un Saeimu. Izdevumus minētajiem mērķiem atļauts veikt, ja Saeimas Budžeta un finanšu (nodokļu) komisija piecu dienu laikā no attiecīgās informācijas saņemšanas nav iebildusi pret apropriācijas palielinājumu.
-(7) Finanšu ministram ir tiesības ministrijai vai citai centrālajai valsts iestādei gadskārtējā valsts budžeta likumā noteiktās apropriācijas ietvaros pārdalīt apropriāciju starp programmām, apakšprogrammām un izdevumu kodiem atbilstoši ekonomiskajām kategorijām. Apropriācijas pārdale, lai nodrošinātu gadskārtējā valsts budžeta izpildes procesā veikto transfertu pārskaitīšanu, tiek veikta šā panta sestajā daļā noteiktajā kārtībā.
-(8) Gadskārtējais valsts budžeta likums ietver nosacījumus, ko finanšu ministrs ievēro, lemjot par šā panta septītajā daļā paredzēto apropriācijas pārdali, kā arī apropriācijas pārdales apjomu.
-(9) Ministrijas un citas centrālās valsts iestādes izstrādā pieprasījumus par apropriācijas pārdali starp programmām, apakšprogrammām un izdevumu kodiem atbilstoši ekonomiskajām kategorijām un iesniedz Finanšu ministrijai. Finanšu ministram ir tiesības apropriāciju starp programmām, apakšprogrammām un izdevumu kodiem atbilstoši ekonomiskajām kategorijām sadalīt saskaņā ar Ministru kabineta noteikto kārtību.
-(10) Finanšu ministrijas budžetā atsevišķā apakšprogrammā plānoto apropriāciju Eiropas Savienības politiku instrumentiem un citu ārvalstu finanšu palīdzības projektu un pasākumu īstenošanai sadala Ministru kabineta noteiktajā kārtībā.
-(11) Ja ministrija vai cita centrālā valsts iestāde nepiekrīt finanšu ministra lēmumam par apropriācijas pārdales apjomu starp programmām, apakšprogrammām un izdevumu kodiem atbilstoši ekonomiskajām kategorijām un Finanšu ministrijas budžetā atsevišķā apakšprogrammā plānotajam apropriācijas apjomam Eiropas Savienības politiku instrumentiem un citu ārvalstu finanšu palīdzības projektu un pasākumu īstenošanai, tad pēc motivētu iebildumu saņemšanas finanšu ministrs piecu darba dienu laikā vienojas ar attiecīgo ministriju. Ja vienošanās netiek panākta, jautājumu nodod izlemšanai Ministru kabinetam.
-(12) Lai nodrošinātu efektīvu valsts budžeta resursu vadību, finanšu ministram ir tiesības šā panta devītajā daļā noteiktajā kārtībā pārdalīt starp ministrijām apropriāciju Eiropas Savienības politiku instrumentu un citu ārvalstu finanšu palīdzības projektu un pasākumu īstenošanai, ja attiecīgā ministrija savlaicīgi nenodrošina minēto projektu un pasākumu īstenošanu. Šīs tiesības finanšu ministrs drīkst izmantot ar nosacījumu, ka Saeimas Budžeta un finanšu (nodokļu) komisija triju darba dienu laikā no attiecīgās informācijas saņemšanas brīža nav iebildusi pret to.
+(5) (Izslēgta ar 01.12.2009. likumu)
+(6) (Izslēgta ar 01.12.2009. likumu)
+(7) (Izslēgta ar 01.12.2009. likumu)
+(8) (Izslēgta ar 01.12.2009. likumu)
+(9) (Izslēgta ar 01.12.2009. likumu)
+(10) (Izslēgta ar 01.12.2009. likumu)
+(11) (Izslēgta ar 01.12.2009. likumu)
+(12) (Izslēgta ar 01.12.2009. likumu)
+(13) Finanšu ministram ir tiesības Ministru kabineta noteiktajā kārtībā, informējot par to Saeimu, veikt šādas apropriāciju pārdales:
+1) ministrijai vai citai centrālajai valsts iestādei gadskārtējā valsts budžeta likumā noteiktās apropriācijas ietvaros starp programmām, apakšprogrammām un izdevumu kodiem atbilstoši ekonomiskajām kategorijām. Gadskārtējais valsts budžeta likums ietver nosacījumus, ko finanšu ministrs ievēro, lemjot par apropriācijas pārdali;
+2) no atsevišķā budžeta programmā plānotās apropriācijas nesadalītajam finansējumam Eiropas Savienības politiku instrumentiem un pārējās ārvalstu finanšu palīdzības projektu un pasākumu īstenošanai, kas netiek plānota ministrijas vai citas centrālās valsts iestādes budžetā, uz ministrijām un citām centrālajām valsts iestādēm, kā arī apropriācijas no ministrijām un citām centrālajām valsts iestādēm Eiropas Savienības politiku instrumentu un citu ārvalstu finanšu palīdzības projektu un pasākumu īstenošanai uz atsevišķo budžeta programmu, kurā tiek plānotas apropriācijas nesadalītam finansējumam Eiropas Savienības politiku instrumentiem un pārējās ārvalstu finanšu palīdzības projektu un pasākumu īstenošanai.
+(14) Finanšu ministram ir tiesības palielināt gadskārtējā valsts budžeta likumā noteikto apropriāciju, ja Saeimas Budžeta un finanšu (nodokļu) komisija piecu dienu laikā no attiecīgās informācijas saņemšanas ir izskatījusi to un nav iebildusi pret apropriācijas palielinājumu, tikai šādiem mērķiem:
+1) valsts budžeta iestāžu ieņēmumu par sniegtajiem maksas pakalpojumiem un citu pašu ieņēmumu, ārvalstu finanšu palīdzības līdzekļu, gadskārtējā valsts budžeta izpildes procesā veikto transfertu, kā arī šā likuma 27.pantā noteiktajā kārtībā aprēķināto ieņēmumu atlikumu saimnieciskā gada sākumā izmantošanai;
+2) Eiropas Kopienas pašu resursu palielināšanai un norēķiniem ar Eiropas Savienību;
+3) starptautisko tiesu un Satversmes tiesas spriedumu izpildei;
+4) valsts parāda saistību dzēšanai;
+5) Eiropas Savienības politiku instrumentu un citas ārvalstu finanšu palīdzības projektu un pasākumu īstenošanai;
+6) normatīvajos aktos noteikto sociālās apdrošināšanas speciālā budžeta izdevumu segšanai;
+7) likumā noteikto garantēto atlīdzību izmaksai Noguldījumu garantiju fondā trūkstošo līdzekļu nodrošināšanai.
+(15) Finanšu ministram ir tiesības veikt apropriācijas pārdali starp ministrijām un citām centrālajām valsts iestādēm, tai skaitā funkciju pārdales vai strukturālo reformu gadījumos, ja ir pieņemts Ministru kabineta lēmums un Saeima normatīvajos aktos noteiktajā kārtībā ir piekritusi šādai pārdalei.

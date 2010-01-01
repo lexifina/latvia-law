@@ -11,11 +11,12 @@
 8) priekšlikumus par tiem likumos izdarāmajiem grozījumiem, kuri nav ietverti valsts budžeta likuma projektā (budžeta likumu projektu paketē), lai šie likumi atbilstu budžeta pieprasījumiem;
 9) (izslēgts ar 19.12.2006. likumu);
 10) nodokļu atvieglojumu (atlaižu) un nodokļu parādu summas;
-11) konsolidētā kopbudžeta projektu, kas ietver valsts budžeta projekta un pašvaldību budžetu projektu kopsavilkuma prognozes;
+11) konsolidētā kopbudžeta projektu;
 12) valsts parādu un galvojumu finansiālo saistību kopsavilkumu attiecībā uz kārtējo saimniecisko gadu un vidējam termiņam, šajos aprēķinos norādot valdības rīcības pieļaujamās robežas, lai segtu izdevumus, kas var rasties, pildot uz valsts budžetu attiecināmās parāda saistības;
 13) pašvaldību finanšu izlīdzināšanas aprēķinus;
 14) informāciju par valsts budžeta ilgtermiņa saistību maksimāli pieļaujamo apjomu;
-15) valsts budžeta aizdevumu un atmaksu apjomus saskaņā ar iepriekšējos saimnieciskajos gados noslēgtajiem līgumiem un Ministru kabineta atbalstītajām programmām.
+15) valsts budžeta aizdevumu un atmaksu apjomus saskaņā ar iepriekšējos saimnieciskajos gados noslēgtajiem līgumiem un Ministru kabineta atbalstītajām programmām;
+16) informāciju par ministriju padotībā esošām no valsts budžeta daļēji finansētām atvasinātām publiskām personām un budžeta nefinansētām iestādēm.
 (3) Saeimas vēlēšanu gadā gadskārtējā valsts budžeta likuma (budžeta likumprojektu paketes) projekts un vidēja termiņa makroekonomiskās attīstības un fiskālās politikas ietvars iesniedzams Saeimai ne vēlāk kā četrus mēnešus pēc tam, kad jaunievēlētā Saeima izteikusi Ministru kabinetam savu uzticību.
 (4) Ministru kabinets iesniedz Saeimai pieņemšanai grozījumus gadskārtējā valsts budžeta likumā kārtējam saimnieciskajam gadam, priekšlikumus par grozījumiem likumos, lai tie atbilstu grozījumiem gadskārtējā valsts budžeta likumā un grozījumu valsts budžeta likumā paskaidrojumu.
 (5) Grozījumu valsts budžeta likumā paskaidrojums ietver:

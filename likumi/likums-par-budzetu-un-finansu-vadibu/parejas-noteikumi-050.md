@@ -1,0 +1,1 @@
+50. Līdz šā likuma 30.panta pirmajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2010.gada 1.decembrim piemēro Ministru kabineta 2009.gada 20.oktobra noteikumus Nr.1193 "Gada pārskatu sagatavošanas kārtība", ciktāl tie nav pretrunā ar likumu.

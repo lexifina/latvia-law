@@ -1,0 +1,1 @@
+46. Ar 2010.gada 1.janvāri šā likuma izpratnē kā budžeta nefinansēta iestāde sāk darboties valsts aģentūra "Civilās aviācijas aģentūra", Valsts dzelzceļa tehniskā inspekcija, Valsts dzelzceļa administrācija, Transporta nelaimes gadījumu un incidentu izmeklēšanas birojs, kuru budžeti no 2010.gada vairs netiek plānoti valsts budžetā.

@@ -1,0 +1,1 @@
+41. Grozījumi šā likuma 1.pantā attiecībā uz vārdu "valsts vai pašvaldības aģentūra" aizstāšanu ar vārdiem "pašvaldības aģentūra" termina "Budžeta iestāde" skaidrojumā stājas spēkā 2013.gada 1.janvārī.

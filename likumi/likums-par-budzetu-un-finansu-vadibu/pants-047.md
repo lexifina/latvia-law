@@ -5,11 +5,12 @@
 2) likumā noteiktajā kārtībā nav reģistrēti budžeta līdzekļi un darījumi ar šiem līdzekļiem, kā arī nav ziņots par tiem;
 3) uzskaite neatbilst noteiktajai kārtībai un tādējādi tiek slēpti budžetam pienākošies līdzekļi;
 4) no budžeta finansētas institūcijas vadītājs ir pārkāpis šā likuma 24.panta nosacījumus un uzņēmies saistības, pārsniedzot Valsts kases sniegto asignējumu.
-(3) Ja ir pārkāpti finanšu vadības noteikumi, arī finansēšanas plānu izstrādāšanas kārtība, pārskatu iesniegšanas termiņi, saskaņā ar šo likumu finanšu ministrs, kā arī Valsts kases pārvaldnieks un ministriju un citu centrālo valsts iestāžu vadītāji attiecībā uz budžeta izpildītājiem, kuriem viņi piešķīruši asignējumus, var veikt šādus pasākumus:
+(3) Ja budžeta finansētas institūcijas, budžeta nefinansētas iestādes un pašvaldības, kā arī kapitālsabiedrības, kurās ir ieguldīta valsts vai pašvaldību kapitāla daļa, ir pārkāpušas šajā likumā paredzētos finanšu vadības noteikumus, finanšu ministrs, Valsts kases pārvaldnieks, ministriju un citu centrālo valsts iestāžu vadītāji atbilstoši savai kompetencei var veikt šādus pasākumus:
 1) uz laiku atņemt pilnvarojumu asignēt vai rīkot budžeta ieņēmumus vai izdevumus;
-2) noteikt budžeta kontu lietošanas ierobežojumus;
+2) noteikt kontu lietošanas ierobežojumus;
 3) atsaukt vai apturēt asignējumus, lai tiktu atlīdzināti nelikumīgi izlietotie līdzekļi, vai arī pieprasīt nelikumīgi izlietoto līdzekļu atmaksāšanu;
-4) iesniegt tiesā civilprasību vai nodot materiālus krimināllietas ierosināšanai;
+4) iesniegt tiesā civilprasību vai nodot materiālus kompetentajām amatpersonām jautājuma par kriminālprocesa uzsākšanu izlemšanai;
+5) atsaukt vai apturēt maksājumus.
 (4) Valsts kasei atbilstoši likumam par pašvaldību finanšu izlīdzināšanu ir tiesības bezstrīdus kārtībā piedzīt no pašvaldības budžeta līdzekļiem naudas summas, ko attiecīgā pašvaldība nav savlaicīgi vai pilnā apmērā ieskaitījusi pašvaldību finanšu izlīdzināšanas fondā, norakstot šīs summas no attiecīgās pašvaldības budžeta.
 (4¹) Ministru kabinets nosaka kārtību, kādā iestāde, kas uzrauga Eiropas Savienības politiku instrumentu vai ārvalstu finanšu palīdzības projektu īstenošanu, pieņem lēmumu par asignējuma apturēšanu, atjaunošanu vai atsaukšanu un Valsts kase aptur, atjauno vai atsauc asignējumu Eiropas Savienības politiku instrumenta vai ārvalstu finanšu palīdzību finansējuma saņēmējam.
 (5) Par noteiktā termiņā neizdarītajiem maksājumiem par valsts kapitāla izmantošanu tiek aprēķināta un piedzīta nokavējuma nauda šā panta pirmajā daļā noteiktajā apmērā.

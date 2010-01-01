@@ -1,5 +1,6 @@
 25. pants. Ieņēmumu un izdevumu kontrole
 (1) Valsts kase, sadarbojoties ar Valsts ieņēmumu dienestu, seko tam, lai visi ieņēmumi, kas pienākas valsts budžetam, tiktu saņemti laikā un attiecīgajā apjomā, un nodrošina to, lai valsts budžeta izdevumi tiktu izdarīti saskaņā ar spēkā esošajiem likumiem.
+(1¹) Kārtību, kādā veidā veicami maksājumi valsts budžetā, kā arī kārtību, kādā maksājumi atzīstami par saņemtiem valsts budžetā, un prasības tiešsaistes maksājumu pakalpojumu izmantošanai norēķinos ar valsts budžetu nosaka Ministru kabinets.
 (2) (Izslēgta ar 28.05.2009. likumu.)
 (2¹) (Izslēgta ar 28.05.2009. likumu.)
 (2²) Finanšu ministram ir tiesības dot rīkojumu Valsts kasei noteiktam periodam aizkavēt vai samazināt asignējumus, ja šāda darbība nav pretrunā ar Satversmi, likumiem un Ministru kabineta noteikumiem un pastāv vismaz viens no šīs daļas 1.punktā minētajiem nosacījumiem un 2.punktā minētais nosacījums:
@@ -15,3 +16,4 @@
 (3) (Izslēgta ar 25.11.1999. likumu.)
 (4) Speciālā budžeta asignējumus Valsts kase izdara tā, lai kopējie izdevumi šā budžeta mērķiem nebūtu lielāki par līdzekļiem, kas šiem mērķiem saņemti speciālajā budžetā, un par naudas līdzekļu atlikumu saimnieciskā gada sākumā un aizņēmumu no valsts pamatbudžeta.
 (5) Finanšu ministrijai ir tiesības veikt pārbaudes no valsts budžeta un pašvaldību budžetiem finansētu institūciju budžeta plānošanas, uzskaites un pārskatu sniegšanas jomā.
+(6) Ministrijas un citas centrālās valsts iestādes nodrošina to, ka ieņēmumi par valsts nodevu un citi nenodokļu ieņēmumi no valsts institūciju veiktās darbības tiek ieskaitīti pamatbudžeta ieņēmumu kontos gadskārtējā valsts budžeta likumā plānotajā apjomā.

@@ -1,7 +1,7 @@
 9.¹ pants. Apropriācijas rezerve
 (1) Gadskārtējā valsts budžeta likumā nosaka apropriācijas rezervi, ko ministrijas, citas centrālās valsts iestādes un pašvaldības pieprasa un izmanto Ministru kabineta noteiktajā kārtībā.
 (2) Gadskārtējā valsts budžeta likumā nosaka apropriācijas rezerves izmantošanas galvenos noteikumus, un šo rezervi paredz kā atsevišķu valsts pamatbudžeta programmu.
-(3) Apropriācijas rezerves apjomu vidējam termiņam apstiprina Ministru kabinets vienlaikus ar vidēja termiņa makroekonomiskās attīstības un fiskālās politikas ietvaru.
+(3) (Izslēgta ar 01.12.2009. likumu)
 (4) Finanšu ministrs apropriācijas rezerves ietvaros piešķir ministrijām, citām centrālajām valsts iestādēm un pašvaldībām apropriācijas, bet ne lielākā apjomā par to neizlietoto dotāciju no vispārējiem ieņēmumiem iepriekšējā gada beigās.
 (5) Finanšu ministrs apstiprina kārtējā gada apropriācijas rezerves sadalījumu ministrijām, citām centrālajām valsts iestādēm un pašvaldībām pa programmām, apakšprogrammām un izdevumu ekonomiskās klasifikācijas kodiem.
 (6) Ja ministrija vai cita centrālā valsts iestāde nepiekrīt finanšu ministra lēmumam par apropriācijas rezerves pārdales apjomu starp programmām, apakšprogrammām un izdevumu kodiem atbilstoši ekonomiskajām kategorijām, tad pēc motivētu iebildumu saņemšanas finanšu ministrs piecu darba dienu laikā vienojas ar attiecīgo ministriju. Ja vienošanās netiek panākta, jautājumu nodod izlemšanai Ministru kabinetam.

@@ -1,5 +1,7 @@
 41. pants. Budžeta tiesības
 (1) No valsts budžeta daļēji finansētām atvasinātām publiskām personām un pašvaldībām ir tiesības patstāvīgi veidot un apstiprināt savus budžetus.
+(1¹) Budžeta nefinansētu iestāžu nākamā gada budžetu projektus apstiprināšanai Ministru kabinetā iesniedz ministrijas (pārraudzības institūcijas) līdz kārtējā gada 1.septembrim, un Ministru kabinets tos apstiprina līdz kārtējā gada 15.septembrim.
+(1²) Budžeta nefinansētu iestāžu veiktos budžetu grozījumus apstiprināšanai Ministru kabinetā iesniedz ministrijas (pārraudzības institūcijas).
 (2) Pašvaldību budžetiem ir jāatspoguļo pašvaldību administratīvās struktūras un jāatbilst šā likuma 11.pantā noteiktajām prasībām.
 (3) Pašvaldību budžeta tiesības un ietvarus (apjomus) nosaka īpaši likumi.
 (4) Ja pašvaldības darbojas kā valsts pārstāvji, valsts pilnībā sedz to izdevumus. Pēc valsts budžeta pieņemšanas finanšu saistības pašvaldību budžetiem nedrīkst uzlikt, ja nav norādīti līdzekļu avoti, kurus valsts piešķīrusi šo saistību izpildei.

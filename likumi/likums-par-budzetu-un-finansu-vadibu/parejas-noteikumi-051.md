@@ -1,0 +1,1 @@
+51. Līdz šā likuma 30.panta sestajā un astotajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2011.gada 1.janvārim budžeta nefinansētas iestādes iesniedz Valsts kasei pārskatus Ministru kabineta 2009.gada 22.septembra noteikumos Nr.1071 "Noteikumi par mēneša pārskatu apjomu, sagatavošanas un iesniegšanas kārtību" paredzētajā kārtībā.
