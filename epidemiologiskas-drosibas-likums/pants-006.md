@@ -7,3 +7,6 @@
 3) pieņemt lēmumus par epidemioloģiskās kontroles objekta darbības apturēšanu;
 4) administratīvi sodīt vainīgās personas par normatīvo aktu pārkāpšanu.
 (4) Veselības inspekcija novērtē vides faktoru ietekmi uz cilvēka veselību, sniedz priekšlikumus cilvēka veselībai nekaitīgas vides nodrošināšanai un pēc pieprasījuma novērtē higiēnas prasību izpildi.
+(5) Ministru kabinets nosaka apmēru un kārtību, kādā maksājama valsts nodeva par šādiem Veselības inspekcijas sniegtajiem pakalpojumiem:
+1) par atzinuma par aizsargjoslas saskaņošanu ap ūdens ņemšanas vietām sagatavošanu;
+2) par atzinuma par veselīguma norādi uz pārtikas produktiem sagatavošanu.
