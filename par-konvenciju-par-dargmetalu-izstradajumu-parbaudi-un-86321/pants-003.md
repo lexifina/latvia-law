@@ -1,1 +1,1 @@
-3.pants. Finanšu ministrija koordinē Konvencijā paredzēto saistību izpildi.
+3.pants. Finanšu ministrija ir atbildīgā iestāde par Konvencijā paredzēto saistību izpildi.

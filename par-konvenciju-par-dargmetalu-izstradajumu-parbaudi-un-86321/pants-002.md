@@ -1,1 +1,1 @@
-2.pants. Valsts proves uzraudzības inspekcija ir pilnvarotā iestāde Konvencijas 5.panta 1.punktā noteikto funkciju izpildei.
+2.pants. Valsts sabiedrība ar ierobežotu atbildību "Latvijas proves birojs" ir pilnvarotā iestāde Konvencijas 5.panta 1.punktā noteikto uzdevumu izpildei. Šā uzdevuma izpildē valsts sabiedrība ar ierobežotu atbildību "Latvijas proves birojs" atrodas Finanšu ministrijas pārraudzībā.
