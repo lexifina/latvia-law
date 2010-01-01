@@ -1,0 +1,1 @@
+13. 2010. un 2011.gadā valsts un pašvaldību dibināto izglītības iestāžu pedagogiem nemaksā prēmijas un naudas balvas, neveic viņu materiālo stimulēšanu, bet pabalstus izmaksā saskaņā ar Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likumu.

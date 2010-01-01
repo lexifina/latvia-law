@@ -1,3 +1,2 @@
 22.pants. Pirmsskolas izglītības programmas īstenošana
-(1) Pirmsskolas izglītības programmu īsteno vispārējās pirmsskolas izglītības iestādēs, pirmsskolas grupās, kā arī ģimenēs. Pirmsskolas izglītības programmu bērniem ar speciālām vajadzībām īsteno speciālajās pirmsskolas izglītības iestādēs un grupās.
-(2) Sešgadīgo bērnu pirmsskolas izglītības programmu īsteno pirmsskolas izglītības iestādēs, speciālajās pirmsskolas izglītības iestādēs, vispārējās izglītības iestāžu sagatavošanas grupās, kā arī ģimenēs, saņemot metodisku palīdzību pašvaldību pirmsskolas izglītības konsultatīvajā centrā.
+Pirmsskolas izglītības programmu īsteno pirmsskolas izglītības iestādē vai citā izglītības iestādē, kā arī ģimenē, saņemot metodisku palīdzību izglītības iestādē, kura īsteno licencētu pirmsskolas izglītības programmu, vai pirmsskolas izglītības konsultatīvajā centrā.

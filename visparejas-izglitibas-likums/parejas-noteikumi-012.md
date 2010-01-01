@@ -1,0 +1,1 @@
+12. Izglītības iestādes, kas īsteno pirmsskolas izglītības programmas, līdz 2011.gada 1.janvārim nodrošina pirmsskolas izglītības programmu atbilstību valsts pirmsskolas izglītības vadlīnijām un to iesniegšanu licencēšanai.
