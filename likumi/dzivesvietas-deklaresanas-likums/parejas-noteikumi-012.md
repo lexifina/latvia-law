@@ -1,0 +1,1 @@
+12. Dzīvesvietas deklarācijas iesniegumus, kas nosūtīti pa pastu līdz 2009.gada 31.decembrim, Pārvalde izskata atbilstoši attiecīgā iesnieguma nosūtīšanas dienā spēkā esošajai dzīvesvietas deklarācijas iesniegumu izskatīšanas kārtībai.

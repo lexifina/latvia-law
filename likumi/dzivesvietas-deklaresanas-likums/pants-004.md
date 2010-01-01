@@ -5,4 +5,4 @@
 2) (izslēgts ar 06.09.2007. likumu);
 3) medicīniskās palīdzības saņemšanu ārstniecības iestādē;
 4) apcietinājumu vai soda izciešanu ieslodzījuma vietā.
-(3) Par personu prombūtni šā panta otrajā daļā minēto iemeslu dēļ attiecīgās iestādes paziņo Pilsonības un migrācijas lietu pārvaldei (turpmāk - Pārvalde).
+(3) (Izslēgta ar 29.10.2009. likumu.)
