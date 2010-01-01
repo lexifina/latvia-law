@@ -10,18 +10,18 @@ b) pasažieru plūsma.
 (5) Veidojot maršruta tīklu ārpus pilsētām, vispirms tiek nodrošināta iespēja skolēniem apmeklēt izglītības iestādes.
 (6) Maršrutu tīklu izstrādā, nodrošinot:
 1) pilsētas nozīmes pārvadājumos:
-a) pilsētas centra saistību ar pilsētas rajoniem,
-b) pilsētas rajonu savstarpējo saistību,
-c) pilsētas centra vai pilsētas rajonu saistību ar tuvākajām apkārtējām teritorijām;
+a) pilsētas centra saistību ar citām pilsētas daļām,
+b) pilsētas daļu savstarpējo saistību,
+c) pilsētas centra vai pilsētas daļu saistību ar tuvākajām apkārtējām teritorijām;
 2) reģionālajos vietējās nozīmes pārvadājumos:
-a) pagasta centra, novada centra un rajona pilsētas saistību ar attiecīgā rajona centru,
-b) blakus esošo pagastu centru savstarpējo saistību;
+a) blakus novadu savstarpējo saistību,
+b) pagasta vai pilsētas pārvaldes sasniedzamību novadā,
+c) plānošanas reģionā ietilpstošo blakus esošo novadu pilsētu savstarpēju sasniedzamību,
+d) plānošanas reģionā ietilpstošo novadu saistību ar tuvāko pilsētu plānošanas reģionā, kas neatrodas attiecīgajā novadā;
 3) reģionālajos starppilsētu nozīmes pārvadājumos:
-a) blakus esošo rajonu centru savstarpējo saistību,
-b) rajonu centru saistību ar reģionu centriem, ja attiecīgā reģiona centrā atrodas nozīmīgas valsts, ārstniecības un sociālās iestādes,
-c) rajonu centru un republikas pilsētu saistību ar galvaspilsētu,
-d) rajona pilsētas saistību ar galvaspilsētu,
-e) tuvāko republikas pilsētu saistību ar valsts nozīmes reģionu centriem.
+a) Rīgas pilsētas saistību ar citu republikas pilsētu,
+b) Rīgas pilsētas saistību ar novadiem, kas neatrodas Rīgas plānošanas reģionā,
+c) saistību starp novadiem un pilsētām, kas atrodas dažādos plānošanas reģionos.
 (7) Plānojot reģionālo starppilsētu nozīmes maršrutu tīkla maršrutus ar lielu pasažieru plūsmu, vispirms tiek izveidoti maršruti pa sliežu ceļiem.
 (8) Sabiedriskā transporta pakalpojumus pārvadājumos ārpus pilsētas organizē, ievērojot šādu maršrutu tīklu izstrādāšanas secīgumu:
 1) reģionālo starppilsētu nozīmes maršrutu tīkls;

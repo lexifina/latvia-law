@@ -5,10 +5,10 @@ Likumā ir lietoti šādi termini:
 3) maršrutu tīkla pārzināšana - maršrutu tīkla plānošana, izstrādāšana, apstiprināšana, uzturēšana, attīstīšana un pilnveidošana;
 4) (izslēgts ar 06.11.2008. likumu);
 5) pasūtītājs - valsts vai pašvaldība, kas savas kompetences ietvaros organizē sabiedriskā transporta pakalpojumus;
-6) pilsētas nozīmes maršruts - maršruts, kas paredzēts, lai pārvietotos pilsētas administratīvajās vai novadā ietilpstošas pilsētas robežās, kā arī no šīs pilsētas uz tuvākajām apkārtējām teritorijām;
+6) pilsētas nozīmes maršruts - maršruts, kas nodrošina pārvietošanos republikas pilsētas administratīvajās robežās, kā arī no šīs pilsētas uz tuvākajām apkārtējām teritorijām;
 7) regulārie pasažieru pārvadājumi - pasažieru pārvadāšana pa iepriekš noteiktu maršrutu, ar iepriekš noteiktu intensitāti un regularitāti, par noteiktu braukšanas maksu;
-8) reģionālais starppilsētu nozīmes maršruts - maršruts, kas paredzēts, lai pārvietotos valsts teritorijā no vienas administratīvās teritorijas uz citu administratīvo teritoriju, šķērsojot rajona administratīvās teritorijas robežas, vai lai savienotu republikas pilsētas;
-9) reģionālais vietējās nozīmes maršruts - maršruts, kas paredzēts, lai pārvietotos viena rajona administratīvajās robežās, kā arī no šā rajona uz tuvākajām apkārtējām teritorijām;
+8) reģionālais starppilsētu nozīmes maršruts - maršruts, kas nodrošina pārvietošanos valsts teritorijā galvenokārt no vienas administratīvās teritorijas uz administratīvo teritoriju citā plānošanas reģionā vai kas savieno republikas pilsētas;
+9) reģionālais vietējās nozīmes maršruts - maršruts, kas nodrošina pārvietošanos viena novada administratīvajā teritorijā, no šā novada uz tuvākajām apkārtējām teritorijām vai uz citu novadu plānošanas reģiona robežās;
 9¹) reiss - sabiedriskā transportlīdzekļa kustība maršrutā no viena tā galapunkta līdz otram galapunktam;
 10) sabiedriskā transporta pakalpojumi - iedzīvotājiem pieejami pasūtītāja organizēti regulārie pasažieru pārvadājumi ar sabiedriskajiem transportlīdzekļiem, kurus pasažieri var izmantot normatīvajos aktos noteiktajā kārtībā;
 11) (izslēgts ar 06.11.2008. likumu);
