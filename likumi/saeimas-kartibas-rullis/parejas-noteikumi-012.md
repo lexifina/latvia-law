@@ -1,0 +1,1 @@
+12. No 2010.gada 1.janvāra līdz 2010.gada 31.decembrim, piemērojot šā likuma 12.panta pirmās daļas otro un trešo teikumu, otro, trešo un ceturto daļu, 13.panta trešo daļu, kā arī 14.panta otro daļu, atlīdzība izmaksājama tādā pašā apmērā, kāds bija spēkā 2009.gada 31.decembrī.

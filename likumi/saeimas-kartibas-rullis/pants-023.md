@@ -1,5 +1,5 @@
 23. (1) Prezidijs:
-1) nosaka iekšējo kārtību un darba gaitu Saeimas Kancelejā un citās Saeimas struktūrvienībās;
+1) nosaka Saeimas ēkas apmeklēšanas kārtību un kārtību attiecībā uz uzturēšanos tajā, kā arī iekšējo kārtību un darba gaitu Saeimas Kancelejā un citās Saeimas struktūrvienībās;
 2) pieņem darbā un atlaiž no darba Saeimas struktūrvienību vadītājus, izņemot Saeimas priekšsēdētāja biroja vadītāju;
 3) dod atzinumus un virza tālāk ienākušās lietas visos Kārtības rullī paredzētajos gadījumos;
 4) saziņā ar Frakciju padomi (190. p.) kārto ar Kārtības rulli un Saeimas lēmumiem nenoskaidrotus jautājumus;
