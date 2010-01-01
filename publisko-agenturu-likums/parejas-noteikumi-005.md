@@ -1,0 +1,1 @@
+5. Līdz jaunu valsts aģentūru nolikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2013.gada 1.janvārim ir piemērojami valsts aģentūru nolikumi, kas izdoti uz šo pārejas noteikumu 1.punktā minētā likuma pamata.

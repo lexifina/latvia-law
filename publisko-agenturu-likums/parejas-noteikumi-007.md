@@ -1,0 +1,1 @@
+7. Publisko aģentūru pārvaldes līgumi var būt spēkā līdz to darbības termiņa beigām tiktāl, ciktāl tie nav pretrunā ar citiem tiesību aktiem vai valsts aģentūras vai pārraudzības institūcijas darba plānu.

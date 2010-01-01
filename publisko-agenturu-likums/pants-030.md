@@ -1,0 +1,9 @@
+30.pants. Valsts un pašvaldības kopīgi izveidota aģentūra
+(1) Valsts un pašvaldības kopīgi izveidotām aģentūrām piemēro šā likuma normas, kas nosaka valsts aģentūru darbību, ja šajā nodaļā nav noteikts citādi.
+(2) Valsts un pašvaldības kopīgi izveidotas aģentūras nolikumu apstiprina Ministru kabinets un attiecīgās pašvaldības dome, un minētā aģentūra darbojas attiecīgo publisko personu vārdā atbilstoši tām noteiktajai kompetencei.
+(3) Valsts un pašvaldības kopīgi izveidotas aģentūras darbības uzraudzības, finansēšanas un pārskatu sagatavošanas un apstiprināšanas kārtību nosaka valsts un pašvaldības kopīgi izveidotas aģentūras nolikumā. Šīs aģentūras valdījumā nododamās mantas apjomu nosaka Ministru kabineta rīkojumā par valsts un pašvaldības aģentūras izveidošanu.
+(4) Ministru kabinets un attiecīgā pašvaldība pirms lēmuma pieņemšanas savstarpēji vienojas par valsts un pašvaldības kopīgi izveidotas aģentūras darbības uzraudzības un pārskatu sagatavošanas un apstiprināšanas kārtību.
+(5) Ja valsts un pašvaldības kopīgi izveidotai aģentūrai tiek piešķirta dotācija no vispārējiem ieņēmumiem, tad valsts uzdevumu nodrošināšanai tā tiek segta no valsts budžeta, bet pašvaldības uzdevumu nodrošināšanai - no pašvaldības budžeta.
+(6) Valsts un pašvaldības kopīgi izveidotas aģentūras vidēja termiņa darbības stratēģiju apstiprina Ministru kabinets. Ministru kabinets un attiecīgā pašvaldība pirms lēmuma pieņemšanas vienojas par vidēja termiņa darbības stratēģijas nosacījumiem.
+(7) Uz valsts un pašvaldības kopīgi izveidotas aģentūras direktora amatu organizē konkursu Valsts civildienesta likumā noteiktajā kārtībā.
+(8) Valsts un pašvaldības kopīgi izveidotas aģentūras direktoru apstiprina amatā un atbrīvo no amata Ministru kabinets, pamatojoties uz attiecīgā ministra un domes kopīgu priekšlikumu.

@@ -1,0 +1,1 @@
+6. Līdz šā likuma 5.panta otrajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2011.gada 1.septembrim ir piemērojami Ministru kabineta 2005.gada 23.augusta noteikumi Nr.615 "Valsts aģentūru publisko pakalpojumu izcenojumu noteikšanas metodika un izcenojumu apstiprināšanas kārtība", ciktāl tie nav pretrunā ar šo likumu.

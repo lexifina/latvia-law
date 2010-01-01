@@ -1,0 +1,1 @@
+8. Lai nodrošinātu valsts aģentūru darbības plānošanas nepārtrauktību, valsts aģentūras direktors izstrādā darba plānu 2010.gadam un saskaņo to ar attiecīgo ministru. Darba plānā 2010.gadam iekļauj uzdevumu izstrādāt valsts aģentūras vidēja termiņa darbības stratēģiju 2011.-2013.gadam saskaņā ar Ministru kabineta noteikto kārtību.

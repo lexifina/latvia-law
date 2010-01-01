@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Publisko aģentūru likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2001, 10.nr.; 2002, 23.nr.; 2005, 6.nr.; 2008, 1.nr.; 2009, 1., 2., 6.nr.).

@@ -1,0 +1,5 @@
+3.pants. Aģentūru veidi
+(1) Lai nodrošinātu pakalpojumu sniegšanu pārvaldes uzdevumu īstenošanā, valsts var izveidot valsts aģentūras, bet pašvaldības - pašvaldību aģentūras.
+(2) Ja atvasinātai publiskai personai likumā ir piešķirtas tiesības izveidot iestādi, tā var izveidot aģentūru, uz kuru attiecināmas tiesību normas, kas regulē pašvaldību aģentūru izveidošanu un darbību.
+(3) Ja valsts un pašvaldību resursu efektīvai izmantošanai, kopīgu funkciju nodrošināšanai un sabiedrības vajadzību apmierināšanai tas ir lietderīgi, valsts un pašvaldība, kā arī Ministru kabinets vairāku ministriju darbības jomā un vairākas pašvaldības ir tiesīgas izveidot kopīgu aģentūru, kas darbojas vairāku tiešās un pastarpinātās vai tiešās pārvaldes iestāžu kompetences jomā.
+(4) Valsts aģentūrai un vairāku ministriju darbības jomā izveidotai valsts aģentūrai nosaukumā ietver vārdkopu "valsts aģentūra" vai tās saīsinājumu "v/a"; pašvaldības aģentūrai vai vairāku pašvaldību izveidotai aģentūrai - vārdkopu "pašvaldības aģentūra" vai tās saīsinājumu "p/a"; valsts un pašvaldības kopīgi izveidotām aģentūrām - vārdkopu "valsts un pašvaldības aģentūra" vai tās saīsinājumu "vp/a".
