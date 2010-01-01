@@ -1,1 +1,0 @@
-11. Ar dzīvesvietas reģistrēšanu saistītos izdevumus par periodu no 2006.gada 27.aprīļa līdz 2009.gada 30.jūnijam pašvaldībām sedz no valsts budžetā šim mērķim paredzētajiem izdevumiem 2010.gadā viena lata apmērā par katru dzīvesvietas reģistrācijas gadījumu saskaņā ar attiecīgās pašvaldības pieprasījumu.
