@@ -1,4 +1,4 @@
-21.pants. Valsts vides inspektoru tiesības un sociālās garantijas
+21.pants. Valsts vides inspektoru tiesības
 (1) Veicot vides valsts kontroli, valsts vides inspektoram ir tiesības:
 1) iebraukt vai ieiet un netraucēti pārbaudīt jebkuru teritoriju, iekārtu vai citu objektu neatkarīgi no īpašuma piederības, ja tas nepieciešams vides aizsardzības prasību ievērošanas kontrolei, veicot plānotas pārbaudes, vai ja ir pamatotas aizdomas par vides normatīvo aktu pārkāpumiem. Valsts drošībai un aizsardzībai paredzētajos objektos un teritorijās, arī ieslodzījuma vietās, valsts vides inspektoram ir tiesības iekļūt attiecīgajos normatīvajos aktos noteiktajā kārtībā;
 2) ņemt paraugus un veikt kontrolmērījumus;
@@ -10,4 +10,4 @@
 8) Administratīvo pārkāpumu kodeksā noteiktajos gadījumos sastādīt protokolus par administratīvajiem pārkāpumiem, izskatīt administratīvo pārkāpumu lietas un uzlikt administratīvos sodus;
 9) citas normatīvajos aktos noteiktās tiesības.
 (2) Ja tiek pārkāptas normatīvo aktu prasības attiecībā uz mehānisko transportlīdzekļu pārvietošanos, arī stāvēšanu vai apstāšanos, ārpus autoceļiem Baltijas jūras un Rīgas jūras līča piekrastes krasta kāpu aizsargjoslā un pludmalē vai īpaši aizsargājamā dabas teritorijā un transportlīdzekļa vadītājs neatrodas pārkāpuma izdarīšanas vietā, valsts vides inspektoram ir tiesības sastādīt protokolu-paziņojumu par uzlikto naudas sodu. Administratīvā pārkāpuma protokolā-paziņojumā ietveramo informāciju, protokola-paziņojuma noformēšanas kārtību, paziņojumā par nesamaksāto naudas sodu ietveramo informāciju un paziņojuma par nesamaksāto naudas sodu nosūtīšanas kārtību, kā arī naudas soda iekasēšanas un kontroles kārtību nosaka Ministru kabinets.
-(3) Valsts apdrošina valsts vides inspektoru dzīvību un veselību.
+(3) (Izslēgta ar 01.12.2009. likumu)
