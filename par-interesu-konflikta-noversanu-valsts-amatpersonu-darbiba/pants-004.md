@@ -19,14 +19,15 @@
 17) vispārējā un specializētā valsts civildienesta ierēdnis;
 18) kapitālsabiedrības padomes loceklis, kurš pārstāv Latvijas valsts vai pašvaldības intereses kapitālsabiedrībā, vai valdes loceklis kapitālsabiedrībā, kurā valsts vai pašvaldības daļa pamatkapitālā atsevišķi vai kopumā pārsniedz 50 procentus;
 19) valsts vai pašvaldības kapitālsabiedrības padomes vai valdes loceklis;
+19¹) tādas kapitālsabiedrības valdes loceklis, kurā vienas vai vairāku valsts vai pašvaldības kapitālsabiedrību daļa pamatkapitālā kopumā vai atsevišķi pārsniedz 50 procentus, un tāds šādas kapitālsabiedrības padomes loceklis, kas pārstāv valsts vai pašvaldības kapitālsabiedrības intereses;
 20) valsts vai pašvaldības kapitāla daļas turētāja pārstāvis un tā pilnvarota persona;
 21) tiesnesis, prokurors, zvērināts notārs un zvērināts tiesu izpildītājs;
 22) Nacionālo bruņoto spēku profesionālā dienesta karavīrs un militārais darbinieks;
-23) Informācijas analīzes dienesta vadītājs;
+23) (izslēgts ar 12.11.2009. likumu);
 24) publiskā iepirkuma komisijas loceklis;
 25) Iekšlietu ministrijas sistēmas iestādes un Ieslodzījuma vietu pārvaldes amatpersona ar speciālo dienesta pakāpi.
 (2) Par valsts amatpersonām uzskatāmas arī personas, kurām, pildot amata pienākumus valsts vai pašvaldības institūcijās, saskaņā ar normatīvajiem aktiem ir tiesības izdot administratīvos aktus, kā arī veikt uzraudzības, kontroles, izziņas vai sodīšanas funkcijas attiecībā uz personām, kas neatrodas to tiešā vai netiešā pakļautībā, vai tiesības rīkoties ar valsts vai pašvaldības mantu, tai skaitā finanšu līdzekļiem.
-(2¹) Par valsts amatpersonām uzskatāmas arī personas, kuras, pildot amata pienākumus valsts drošības iestādēs un Informācijas analīzes dienestā, veic vismaz vienu no šādām darbībām:
+(2¹) Par valsts amatpersonām uzskatāmas arī personas, kuras, pildot amata pienākumus valsts drošības iestādēs, veic vismaz vienu no šādām darbībām:
 1) izlūkošanu;
 2) pretizlūkošanu;
 3) operatīvo darbību;
