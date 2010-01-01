@@ -1,1 +1,1 @@
-99. Nodokļu maksātājiem, kuru juridiskā adrese vai deklarētā dzīvesvieta atrodas administratīvajā teritorijā, kurā nav interneta pieejas infrastruktūras teritoriālā seguma, ir tiesības iesniegt nodokļu un informatīvās deklarācijas rakstiskā veidā līdz 2011.gada 1.janvārim.
+99. Nodokļu maksātājiem, kuru juridiskā adrese vai deklarētā dzīvesvieta atrodas administratīvajā teritorijā, kurā nav interneta pieejas infrastruktūras teritoriālā seguma, ir tiesības iesniegt nodokļu un informatīvās deklarācijas rakstiskā veidā līdz 2012.gada 1.janvārim.

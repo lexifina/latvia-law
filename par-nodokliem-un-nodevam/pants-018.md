@@ -17,7 +17,8 @@
 15) (izslēgts ar 31.01.2008. likumu);
 16) visos gadījumos, kad nodokļu maksātājs izdarījis nodokļu pārkāpumu, par kuru paredzēta kriminālatbildība, 10 dienu laikā no dienas, kad nodokļu administrācijas ierēdnis (darbinieks) to konstatējis, iesniegt par to ziņojumu attiecīgajai valsts institūcijai, kura izlemj jautājumu par kriminālprocesa uzsākšanu;
 17) uzturēt komercsabiedrību, kooperatīvo sabiedrību, individuālo uzņēmumu (arī zemnieku vai zvejnieku saimniecību) un citu privāto tiesību juridisko personu - Latvijas rezidentu un nerezidentu pastāvīgo pārstāvniecību Latvijā pieprasījuma noguldījumu kontu vienotu reģistru (turpmāk - juridisko personu kontu reģistrs);
-18) nodrošināt kredītiestādēm - Latvijas Republikas rezidentiem tiešsaistes pieeju juridisko personu kontu reģistra informācijai.
+18) nodrošināt kredītiestādēm - Latvijas Republikas rezidentiem tiešsaistes pieeju juridisko personu kontu reģistra informācijai;
+19) nodrošināt publiski pieejamu sabiedriskā labuma organizāciju vienoto datu bāzi (reģistru).
 (2) Ja šā panta pirmās daļas 10.punktā noteikto paziņojumu par nodokļu revīzijas (audita) uzsākšanu nodokļu administrācija nodokļu maksātājam sūta pa pastu, uzskatāms, ka nodokļu maksātājam informācija paziņota septītajā dienā pēc sūtījuma nodošanas pastā.
 (3) Šā panta pirmās daļas 10.punktā noteikto paziņojumu nodokļu maksātājam nodokļu administrācija nesniedz, ja ir pierādījumi, ka nodokļu maksātājs veic darbības, lai izvairītos no nodokļu revīzijas (audita) vai apgrūtinātu to.
 (4) Šā panta pirmās daļas 10.punktā nodokļu administrācijai noteiktais termiņš paziņojuma sniegšanai par nodokļu revīzijas (audita) veikšanu nav attiecināms uz gadījumiem, kad nodokļu revīzija (audits) tiek uzsākta, lai izvērtētu nodokļa pārmaksas atmaksas pamatotību.

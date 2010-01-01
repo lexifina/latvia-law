@@ -43,7 +43,7 @@
 29) par transportlīdzekļu, gaisa kuģu, kuģu, mazo kuģu un jahtu reģistrāciju (transportlīdzekļu reģistra nodeva);
 30) par dzelzceļa infrastruktūras reģistrāciju;
 31) par pasažieru izlidošanu;
-32) par valsts proves uzraudzības īstenošanu;
+32) (izslēgts ar 01.12.2009. likumu);
 33) (izslēgts ar 31.03.2004. likumu);
 34) (izslēgts ar 31.03.2004. likumu);
 35) par filmu producētāju (ražotāju) un izplatītāju, filmu izplatīšanas vietu un filmu reģistrāciju;
@@ -107,4 +107,8 @@
 91) par speciālās atļaujas (licences) izsniegšanu kremācijas veikšanai;
 92) par atļaujas izsniegšanu tādu pārtikas sastāvdaļu izmantošanai bioloģisko pārtikas produktu pārstrādē, kas nav iegūtas ar bioloģiskās lauksaimniecības ražošanas metodi;
 93) par bioloģiskās lauksaimniecības kontroles institūcijas atbilstības apliecinājuma izsniegšanu;
-94) par ziņu par deklarēto dzīvesvietu reģistrāciju.
+94) par ziņu par deklarēto dzīvesvietu reģistrāciju;
+95) par atzinuma par aizsargjoslas saskaņošanu ap ūdens ņemšanas vietām sagatavošanu;
+96) par atzinuma par veselīguma norādi uz pārtikas produktiem sagatavošanu;
+97) par tiesību piešķiršanu ievest atkritumus valsts teritorijā;
+98) par apraides atļaujas, retranslācijas atļaujas un speciālās atļaujas (licences) kabeļtelevīzijas un kabeļradio (radiotranslācijas) darbībai izsniegšanu un pārreģistrāciju.

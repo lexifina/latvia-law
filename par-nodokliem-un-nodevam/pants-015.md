@@ -7,7 +7,7 @@
 5) ziņot par visiem saviem ienākumiem, pamatot nodokļu, nodevu un citu valsts noteikto maksājumu summu atbilstību normatīvajiem aktiem par valstij un pašvaldībām pienākošos summu aprēķināšanas un maksāšanas kārtību, uzrādot vai iesniedzot nodokļu administrācijas ierēdņiem (darbiniekiem) viņu pieprasītos dokumentus;
 6) atļaut nodokļu administrācijas ierēdņiem (darbiniekiem) likumā noteiktajā kārtībā apskatīt saimnieciskajai darbībai izmantojamās telpas;
 7) ieturēt konkrēto nodokļu likumos paredzētās maksājamo nodokļu summas;
-8) šajā likumā un Ministru kabineta noteikumos paredzētajā kārtībā nodokļu aprēķināšanai un uzskaitei lietot pavadzīmes ar Valsts ieņēmumu dienesta piešķirtu numuru;
+8) (izslēgts ar 01.12.2009. likumu);
 9) šajā likumā un Ministru kabineta noteikumos paredzētajā kārtībā reģistrēt nodokļus un citus maksājumus ar elektroniskajām ierīcēm un iekārtām;
 10) ja nodokļu maksātājs kārto grāmatvedības reģistrus ar elektroniskajām skaitļošanas mašīnām (datoriem), pēc nodokļu administrācijas pieprasījuma iesniegt elektroniskā veidā nodokļu revīzijas (audita) veikšanai sagatavotu attaisnojuma dokumentu un grāmatvedības reģistru datus;
 11) iesniegt nodokļu administrācijai pieprasītos dokumentus, kuri izmantoti nodokļu aprēķināšanai.

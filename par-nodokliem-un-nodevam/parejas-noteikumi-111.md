@@ -1,1 +1,0 @@
-111. Līdz 2010.gada 30.jūnijam nodokļu administrācija lēmumus par datu atbilstības pārbaudes rezultātiem pieņem tikai attiecībā uz pievienotās vērtības nodokļa deklarācijās iekļauto summu precizēšanu.
