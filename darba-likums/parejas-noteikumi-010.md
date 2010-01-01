@@ -1,0 +1,1 @@
+10. Šajā likumā paredzētās priekšrocības turpināt darba tiesiskās attiecības darbinieku skaita samazināšanas gadījumā attiecībā uz Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likumā minētajiem darbiniekiem no 2010.gada 1.janvāra līdz 2012.gada 31.decembrim nosaka atbilstoši Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likumam.
