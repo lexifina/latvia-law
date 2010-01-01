@@ -1,3 +1,2 @@
-46.pants. Padomes locekļu un izpildinstitūcijas darbinieku atalgojums
-(1) Ministru kabinets nosaka padomes priekšsēdētāja un padomes locekļu atalgojumu.
-(2) Padome nosaka izpildinstitūcijas darbinieku atalgojumu gadskārtējā valsts budžetā atalgojumam paredzētās apropriācijas ietvaros.
+46.pants. Padomes locekļu un izpildinstitūcijas darbinieku atlīdzība
+Padomes locekļu un izpildinstitūcijas darbinieku atlīdzību nosaka atbilstoši Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likumam.
