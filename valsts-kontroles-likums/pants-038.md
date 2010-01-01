@@ -1,1 +1,0 @@
-38.pants. Valsts kontrole veic Valsts kontroles amatpersonu un darbinieku dzīvības apdrošināšanu pret negadījumiem, pildot amata pienākumus. Valsts kontrole var veikt Valsts kontroles amatpersonu un darbinieku veselības apdrošināšanu.

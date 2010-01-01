@@ -9,5 +9,6 @@
 8) pieņem lēmumu sakarā ar sūdzībām, kas iesniegtas par revīzijas departamenta lēmumu, ar kuru apstiprināts revīzijas ziņojums vai atzinums, ja ar to tieši tiek aizskartas kādas personas vai revidējamās vienības tiesības vai tiesiskās intereses;
 9) izskata un pieņem lēmumus par tiem revīzijas ziņojumiem, par kuriem, domām daloties, nav pieņemts revīzijas departamenta lēmums (20.panta trešā daļa). Revīzijas departamenta direktors, kurš piedalījies revīzijas ziņojuma izskatīšanā iepriekš, ir tiesīgs piedalīties padomes sēdē, taču nepiedalās balsošanā;
 10) apstiprina Valsts kontroles budžeta pieprasījumu;
-11) apstiprina Valsts kontroles struktūru, darbinieku štatu sarakstu, amatu kvalifikācijas prasības un darba samaksas sistēmu;
-12) (izslēgts ar 17.09.2009. likumu).
+11) apstiprina Valsts kontroles struktūru, darbinieku štatu sarakstu, amatu kvalifikācijas prasības;
+12) (izslēgts ar 17.09.2009. likumu);
+13) nosaka Valsts kontroles amatpersonu un darbinieku atlīdzību atbilstoši Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likumam.

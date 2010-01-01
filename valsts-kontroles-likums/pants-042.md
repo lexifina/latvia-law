@@ -1,1 +1,0 @@
-42.pants. Valsts kontroles amatpersona vai darbinieks saņem pabalstu sešu mēnešalgu apmērā bērna piedzimšanas gadījumā. Ja abi bērna vecāki ir Valsts kontroles amatpersonas vai darbinieki, tiesības uz pabalstu ir vienam no viņiem.
