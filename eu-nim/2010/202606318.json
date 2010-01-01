@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Dzīvojamo māju pārvaldīšanas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "96",
+  "official_journal_page": null,
+  "official_journal_date": "2009-06-19",
+  "entry_into_force": "2010-01-01",
+  "notification_date": "2026-08-11",
+  "commission_reference": "MNE(2026)06318",
+  "nim_celex": "72024L1275LVA_202606318",
+  "nim_id": "202606318",
+  "transposes_celex": [
+    "32024L1275"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4f7e150f-5a59-4c9a-b7d2-08013d3e08d8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
