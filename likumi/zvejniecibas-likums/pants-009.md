@@ -19,7 +19,7 @@
 1) gar privāto ūdeņu krastiem - 4 metri;
 2) gar pārējo ūdeņu krastiem - 10 metru;
 3) gar jūras piekrasti - 20 metru.
-(10) Latvijas Zivju resursu aģentūra tauvas joslas platumu zvejas vajadzībām un Satiksmes ministrijas Jūrniecības departaments - kuģošanas vajadzībām var noteikt arī šaurāku vai platāku, tomēr tas nedrīkst pārsniegt 40 metrus.
+(10) Zemkopības ministrija tauvas joslas platumu zvejas vajadzībām un Satiksmes ministrijas Jūrniecības departaments - kuģošanas vajadzībām var noteikt arī šaurāku vai platāku, tomēr tas nedrīkst pārsniegt 40 metrus.
 (11) Mākslīgi izbūvētās tauvas joslas platums tiek noteikts attiecīgās būves plānā.
 (12) Tauvas joslas platums tiek skaitīts:
 1) gar upju un ezeru lēzeniem krastiem - no normālās ūdenslīnijas;
