@@ -9,5 +9,5 @@ a) studiju programmu saturu un formas,
 b) studējošo uzņemšanas papildu noteikumus,
 c) zinātniskās pētniecības darba pamatvirzienus,
 d) augstskolas organizatorisko un pārvaldes struktūru,
-e) darba samaksas likmes, kas nav mazākas par Ministru kabineta noteiktajām likmēm;
+e) mēnešalgas likmes, kas nav mazākas par Ministru kabineta noteiktajām likmēm;
 4) veikt citas darbības, kas nav pretrunā ar tās dibinātāju un šajā likumā noteiktajiem augstskolas darbības principiem un uzdevumiem.

@@ -1,0 +1,1 @@
+28. 2010. un 2011.gadā valsts dibināto augstskolu un koledžu akadēmiskajam personālam nemaksā prēmijas un naudas balvas, neveic tā materiālo stimulēšanu, bet pabalstus izmaksā saskaņā ar Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likumu.
