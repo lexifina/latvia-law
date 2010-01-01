@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Nelaimes gadījumu darbā izmeklēšanas un uzskaites kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "137 (4123)",
+  "official_journal_page": null,
+  "official_journal_date": "2009-08-28",
+  "entry_into_force": "2010-01-01",
+  "notification_date": "2013-05-08",
+  "commission_reference": "MNE(2013)53371",
+  "nim_celex": "72010L0032LVA_203927",
+  "nim_id": "203927",
+  "transposes_celex": [
+    "32010L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/73ff12ca-5a69-4d8d-bd56-a2bf2c6f6590",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
