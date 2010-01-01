@@ -1,11 +1,7 @@
-10.pants. Dzelzceļa infrastruktūras fonds
-(1) Valsts publiskās lietošanas dzelzceļa infrastruktūras uzturēšanu un attīstību finansē no dzelzceļa infrastruktūras fonda līdzekļiem.
-(2) Dzelzceļa infrastruktūras fonda līdzekļus veido:
-1) maksa par valsts publiskās lietošanas dzelzceļa infrastruktūras izmantošanu;
-2) (izslēgts ar 30.10.2003. likumu);
-3) ieņēmumi no valsts publiskās lietošanas dzelzceļa infrastruktūras zemes iznomāšanas (15.panta otrā daļa);
-4) kredīti;
-5) valsts budžeta līdzekļi.
-(3) (Izslēgta ar 11.11.1999. likumu.)
-(4) (Izslēgta ar 04.03.2004. likumu.)
-(5) Dzelzceļa infrastruktūras fonda ieņēmumu tāmi un izdevumu tāmi apstiprina satiksmes ministrs.
+10.pants. Publiskās lietošanas dzelzceļa infrastruktūras finansējums
+(1) Publiskās lietošanas dzelzceļa infrastruktūras uzturēšanas un attīstības līdzekļi, kā arī līdzekļi citiem šajā likumā paredzētajiem maksājumiem veido dzelzceļa infrastruktūras finansējumu, ko pārvalda publiskās lietošanas dzelzceļa infrastruktūras pārvaldītājs.
+(2) Dzelzceļa infrastruktūras finansējumu veido:
+1) maksa par publiskās lietošanas dzelzceļa infrastruktūras izmantošanu;
+2) ieņēmumi no tās valstij piederošās zemes iznomāšanas, uz kuras izvietota publiskās lietošanas dzelzceļa infrastruktūra (15.panta otrā daļa);
+3) kredīti;
+4) valsts budžeta līdzekļi (9.panta ceturtā un piektā daļa).

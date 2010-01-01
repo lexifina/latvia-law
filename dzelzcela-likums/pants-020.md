@@ -8,5 +8,5 @@
 1) publiskās lietošanas pārejas (ierīkotas sabiedrisko vajadzību apmierināšanai, pa tām sliežu ceļu šķērso gājēji vai mājdzīvnieki);
 2) atsevišķu lietotāju pārejas (ierīkotas pēc atsevišķu personu lūguma privātai lietošanai un tiek izmantotas saskaņā ar līgumu, kas noslēgts ar attiecīgās dzelzceļa infrastruktūras pārvaldītāju).
 (5) Jaunu atsevišķu lietotāju pārbrauktuvju un pāreju ierīkošana un aprīkošana tiek veikta par ieinteresētās puses līdzekļiem.
-(6) Publiskās lietošanas pārbrauktuvju un pāreju ierīkošanu un uzturēšanu finansē no dzelzceļa infrastruktūras fonda līdzekļiem un valsts autoceļu fonda līdzekļiem.
+(6) Publiskās lietošanas pārbrauktuvju un pāreju ierīkošanu un uzturēšanu finansē no dzelzceļa infrastruktūras finansējuma līdzekļiem un valsts autoceļu fonda līdzekļiem.
 (7) Pārbrauktuvju un pāreju ierīkošanas, aprīkošanas, apkalpošanas un slēgšanas kārtību nosaka Ministru kabinets.

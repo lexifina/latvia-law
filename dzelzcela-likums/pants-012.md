@@ -21,7 +21,7 @@
 (6) Dzelzceļa infrastruktūras pārvaldītājam ir tiesības noteikt finansiāla un cita veida līgumsankcijas, lai veicinātu optimālu infrastruktūras izmantošanu.
 (7) Nosakot maksu par publiskās lietošanas dzelzceļa infrastruktūras izmantošanu pārvadājumiem, jāņem vērā šīs infrastruktūras uzturēšanai paredzētie valsts budžeta līdzekļi.
 (8) Maksu par dzelzceļa infrastruktūras izmantošanu iekasē dzelzceļa infrastruktūras pārvaldītājs.
-(9) Valsts publiskās lietošanas dzelzceļa infrastruktūras pārvaldītājs saņemto maksu par valsts publiskās lietošanas dzelzceļa infrastruktūras izmantošanu iemaksā dzelzceļa infrastruktūras fondā.
+(9) (Izslēgta ar 01.12.2009. likumu)
 (10) Maksu par dzelzceļa infrastruktūras izmantošanu nedrīkst noteikt:
 1) institūcija (komercsabiedrība), kura sniedz arī dzelzceļa pārvadājumu pakalpojumus;
 2) publiskās lietošanas dzelzceļa infrastruktūras pārvaldītājs, kurš ietilpst vienā koncernā ar dzelzceļa pārvadājumu pakalpojumu sniedzēju.
