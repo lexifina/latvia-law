@@ -1,0 +1,1 @@
+12. Persona, kuru parlamentārā sekretāra amatā iecēlis Ministru prezidents un kura ieņem parlamentārā sekretāra amatu 2009.gada 31.decembrī, turpina pildīt parlamentārā sekretāra pienākumus arī no 2010.gada 1.janvāra līdz brīdim, kamēr tā zaudē amatu vai Ministru prezidents to atbrīvo no amata.
