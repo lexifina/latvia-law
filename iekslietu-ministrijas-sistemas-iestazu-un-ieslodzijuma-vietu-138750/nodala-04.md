@@ -1,2 +1,2 @@
 IV nodaļa
-Amata apraksts, atbilstības novērtēšana, kvalifikācijas paaugstināšana, mācību izdevumu segšana un komandējumi
+Amata apraksts, atbilstības novērtēšana un komandējumi

@@ -19,6 +19,6 @@
 (5) Nav atļauts atvaļināt no dienesta amatpersonu tās pārejošas darbnespējas laikā (izņemot šā panta otrās daļas 2.punktā minēto gadījumu), kā arī laikā, kad amatpersona ir atvaļinājumā vai nepilda pienākumus citu attaisnojošu iemeslu dēļ.
 (6) Ja amatpersonu atvaļina no dienesta sakarā ar Iestādes vai amatpersonas amata likvidāciju vai amatpersonu skaita samazināšanu, amatpersonu par to rakstveidā brīdina 30 dienas iepriekš.
 (7) Amatpersonai, kuru atvaļina no dienesta, par atvaļināšanas gadā un iepriekšējā gadā neizmantoto ikgadējo atvaļinājumu un papildatvaļinājumu, kas piešķirts kā apbalvojums, izmaksā naudas kompensāciju. Ja amatpersona pirms atvaļināšanas no dienesta nav izmantojusi ikgadējo atvaļinājumu, tai piešķir atvaļinājuma pabalstu proporcionāli nodienētajam laikam.
-(7¹) Ja saskaņā ar šā panta pirmās daļas 3., 6., 9. un 10.punktu un otro daļu no dienesta atvaļina amatpersonu, kura atvaļināšanas gadā ir izmantojusi ikgadējo atvaļinājumu vai tā daļu, no amatpersonas dienesta atalgojuma neietur izmaksāto vidējo izpeļņu.
+(7¹) Ja saskaņā ar šā panta pirmās daļas 3., 6., 9. un 10.punktu un otro daļu no dienesta atvaļina amatpersonu, kura atvaļināšanas gadā ir izmantojusi ikgadējo atvaļinājumu vai tā daļu, no amatpersonas darba samaksas neietur izmaksāto vidējo izpeļņu.
 (8) (Izslēgta ar 04.12.2008. likumu.)
 (9) Lēmuma par amatpersonas atvaļināšanu no dienesta pārsūdzēšana neaptur tā izpildi.

@@ -1,2 +1,2 @@
 VIII nodaļa
-Dienesta atalgojums un atvaļinājumi
+Darba samaksa un atvaļinājumi
