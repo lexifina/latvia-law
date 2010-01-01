@@ -1,0 +1,1 @@
+45. Ja paziņojums par akcionāru sapulces sasaukšanu ir izsludināts līdz 2009.gada 31.decembrim, akcionāru sapulces sasaukšanai, jautājumu iesniegšanai un iekļaušanai darba kārtībā un akcionāru sapulces norisei ir piemērojami šā likuma noteikumi, kas bija spēkā līdz 2009.gada 31.decembrim.

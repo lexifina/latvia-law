@@ -95,4 +95,5 @@ d) personai ir kontrole pār komercsabiedrību, un šī persona to faktiski izma
 60) profesionāls klients - klients, kuram ir attiecīga pieredze, zināšanas un kompetence, lai patstāvīgi pieņemtu ieguldījumu lēmumu un pienācīgi novērtētu riskus, ko viņš uzņemas;
 61) privāts klients - klients, kas nav profesionāls klients;
 62) finanšu analītiķis - ieguldījumu brokeru sabiedrības vai kredītiestādes darbinieks, kas izstrādā ieguldījumu pētījuma saturu;
-63) korporatīvā pārvaldība - pasākumu kopums komercsabiedrības darbības mērķu sasniegšanai un komercsabiedrības darbības kontrolei, kā arī ar komercsabiedrības darbību saistīto risku novērtēšanai un pārvaldīšanai.
+63) korporatīvā pārvaldība - pasākumu kopums komercsabiedrības darbības mērķu sasniegšanai un komercsabiedrības darbības kontrolei, kā arī ar komercsabiedrības darbību saistīto risku novērtēšanai un pārvaldīšanai;
+64) ieraksta datums - datums sešas darba dienas pirms akcionāru sapulces. Šajā datumā dienas beigās tiek fiksēti attiecīgās akciju sabiedrības akcionāri un tiem piederošais akciju skaits akcionāra dalībai attiecīgajā akcionāru sapulcē.
