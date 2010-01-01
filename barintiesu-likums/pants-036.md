@@ -1,6 +1,6 @@
 36.pants. Ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijā ievietota bērna tiesību un interešu ievērošanas uzraudzība
 (1) Bāriņtiesa katru gadu:
-1) pārbauda bērna personisko un mantisko tiesību ievērošanu ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijā;
+1) pārbauda ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijā ievietota bērna aprūpi;
 2) ja bērna mantas pārvaldībai nav iecelts sevišķais aizbildnis, pieprasa no ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijas vadītāja norēķinu par bērna mantas pārvaldību.
 (2) Bāriņtiesa lemj par bāreņa vai bez vecāku gādības palikuša bērna aprūpes izbeigšanu ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijā, ja:
 1) bērna vecākiem ir atjaunotas aprūpes vai aizgādības tiesības;
