@@ -1,5 +1,0 @@
-16.pants. Pabalsts Biroja amatpersonas un darbinieka ievainojuma, Biroja amatpersonas vai darbinieka, vai ģimenes locekļa nāves gadījumā
-(1) Ja Biroja amatpersona vai darbinieks, pildot amata vai darba pienākumus, ir guvis ievainojumu vai sakropļojumu vai viņa veselībai nodarīts citāds kaitējums un viņš nevar pildīt amata vai darba pienākumus, viņš saņem vienreizēju pabalstu Ministru kabineta noteiktajā apmērā, ievērojot amata vai darba pienākumu pildīšanas spēju zuduma pakāpi, ko nosaka Veselības un darbspēju ekspertīzes ārstu valsts komisija.
-(2) Biroja amatpersonas vai darbinieka nāves gadījumā viņa ģimene saņem vienreizēju pabalstu mēnešalgas apmērā. Ja Biroja amatpersona vai darbinieks gājis bojā, pildot amata vai darba pienākumus, viņu apbedī par valsts līdzekļiem un viņa ģimene papildus normatīvajos aktos noteiktajām kompensācijām saņem vienreizēju pabalstu desmit gadu vidējās darba samaksas apmērā.
-(3) Biroja amatpersona un darbinieks saņem pabalstu mēnešalgas apmērā sakarā ar ģimenes locekļa vai apgādājamā nāvi.
-(4) Par ģimenes locekli šā likuma izpratnē uzskatāmi laulātais, bērni, vecāki, vecvecāki, adoptētāji un adoptētie.
