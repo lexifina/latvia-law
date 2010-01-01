@@ -1,0 +1,1 @@
+9. Valsts un pašvaldību institūcijas nodrošina, ka amatpersonu (darbinieku) mēnešalgas ne vēlāk kā līdz 2010.gada 1.aprīlim atbilst šā likuma prasībām. Līdz 2010.gada 1.aprīlim amatpersonu (darbinieku), izņemot šā likuma 2.panta otrās daļas 3.punktā minētās amatpersonas, mēnešalga nedrīkst pārsniegt Ministru prezidenta mēnešalgu.

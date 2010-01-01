@@ -1,0 +1,4 @@
+7. 2010.gadā:
+1) amatpersonai (darbiniekam), kurai līdz šā likuma spēkā stāšanās brīdim normatīvajos aktos vai darba līgumā (koplīgumā) bija paredzētas tiesības saņemt bērna piedzimšanas pabalstu, to izmaksā gadījumā, ja bērns piedzimis 306 dienu laikā pēc šā likuma stāšanās spēkā, un šā pabalsta apmērs nedrīkst pārsniegt divas mēnešalgas par katru bērnu, turklāt nedrīkst pārsniegt 1000 latu par katru bērnu;
+2) šā likuma 5., 6. un 13.pantā minēto amatpersonu mēnešalga piesaistāma Centrālās statistikas pārvaldes oficiālajā statistikas paziņojumā publicētajam 2009.gada pirmajā pusgadā valstī strādājošo mēneša vidējās darba samaksas apmēram, kas noapaļots pilnos latos, proti, 471 latam;
+3) Ministru kabineta locekļa konsultatīvās amatpersonas vai darbinieka mēnešalga nedrīkst pārsniegt Ministru kabineta locekļa mēnešalgu, kurai piemērots koeficients 0,6.

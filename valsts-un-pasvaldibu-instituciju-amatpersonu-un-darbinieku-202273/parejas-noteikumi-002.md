@@ -1,0 +1,5 @@
+2. Ministru kabinets izstrādā un iesniedz Saeimai šādus likumprojektus:
+1) līdz 2010.gada 31.martam - likumprojektu par šā likuma 7.pantā minēto amatu katalogu un tā attiecināšanu arī uz pašvaldībām;
+2) līdz 2010.gada 31.martam - likumprojektus par atalgojumu un sociālajām garantijām valsts un pašvaldību kapitālsabiedrībās, publiski privātajās kapitālsabiedrībās un kapitālsabiedrībās, kurās valsts, pašvaldības vai publiski privātajai kapitālsabiedrībai pieder visas kapitāla daļas, kā arī privāto tiesību juridiskajās personās, kuras pilda valsts budžeta pārvaldes uzdevumus vai saņem valsts budžeta vai pašvaldību budžetu līdzekļus;
+3) līdz 2011.gada 1.janvārim - likumprojektu par izdienas pensijām;
+4) līdz 2011.gada 1.oktobrim, ja, izvērtējot šajā likumā noteiktā atbilstību ekonomiskajai situācijai valstī, tas ir nepieciešams, - likumprojektu par grozījumiem šajā likumā vai citos likumos, kuru mērķis ir pārskatīt attiecīgo regulējumu vai pagarināt šajos pārejas noteikumos ietverto ierobežojumu darbību.

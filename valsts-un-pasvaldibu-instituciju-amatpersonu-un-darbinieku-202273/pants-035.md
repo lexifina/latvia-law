@@ -1,0 +1,3 @@
+35.pants. Uzturdevas kompensācija
+(1) Karavīriem, Iekšlietu ministrijas sistēmas iestāžu un Ieslodzījuma vietu pārvaldes amatpersonām ar speciālajām dienesta pakāpēm, izņemot Drošības policijas amatpersonas (darbiniekus), piešķir uzturdevas kompensāciju. Uzturdevas kompensācijas apmēru un piešķiršanas kārtību nosaka Ministru kabinets.
+(2) Uzturdevas kompensāciju Iekšlietu ministrijas sistēmas iestādes vai Ieslodzījuma vietu pārvaldes amatpersonai ar speciālo dienesta pakāpi nepiešķir laikā, kad tā atrodas atvaļinājumā bez darba samaksas saglabāšanas, bērna tēvam piešķirtajā atvaļinājumā vai bērna kopšanas atvaļinājumā, kā arī citos likumā paredzētos gadījumos.

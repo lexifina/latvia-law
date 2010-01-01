@@ -1,0 +1,3 @@
+15.pants. Speciālās piemaksas
+(1) Amatpersona (darbinieks) saņem speciālās piemaksas par darbu (dienestu), kas saistīts ar īpašu risku, par nosacījumiem, kas saistīti ar amata (dienesta, darba) specifiku, par diplomātisko rangu, izdienu un speciālo dienesta pakāpi. Speciālās piemaksas, to apmērus un noteikšanas kārtību reglamentē Ministru kabinets.
+(2) Par īpašu risku šā panta izpratnē uzskatāms amats (dienests, darbs), kas saskaņā ar darba vides risku novērtējumu ir saistīts ar tik lielā mērā paaugstinātu psiholoģisko vai fizisko slodzi vai risku darbinieka drošībai un veselībai, ka to nevar novērst vai samazināt līdz pieļaujamam līmenim ar darba aizsardzības pasākumiem.

@@ -1,0 +1,2 @@
+34.pants. Dienesta pienākumu izpildei nepieciešamā apģērba iegādes kompensācija
+Iekšlietu ministrijas sistēmas iestādes vai Ieslodzījuma vietu pārvaldes amatpersonai ar speciālo dienesta pakāpi vai karavīram, kam dienesta pienākumi to specifikas dēļ veicami civilajā apģērbā, kompensē dienesta pienākumu izpildei nepieciešamā apģērba iegādi. Kompensācijas apmēru un piešķiršanas kārtību nosaka Ministru kabinets.

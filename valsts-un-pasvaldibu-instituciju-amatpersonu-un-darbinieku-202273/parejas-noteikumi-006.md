@@ -1,0 +1,1 @@
+6. Šā likuma 25.pantā noteikto pabalstu izmaksā, sākot ar 2012.gada 1.janvāri. Ja karavīrs saņēmis šo pārejas noteikumu 5.punktā paredzēto vienreizējā pabalsta daļu, viņam, izmaksājot šā likuma 25.pantā noteikto vienreizējo pabalstu, to samazina par izmaksāto summu.

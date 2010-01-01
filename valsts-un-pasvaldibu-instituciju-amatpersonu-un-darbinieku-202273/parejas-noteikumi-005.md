@@ -1,0 +1,1 @@
+5. Karavīram, ar kuru profesionālā dienesta līgums noslēgts līdz 2009.gada 31.decembrim, šā līguma darbības laikā izmaksā daļu no vienreizējā pabalsta, kuru karavīrs saņēma ik pēc pieciem profesionālā dienesta gadiem, proporcionāli līdz 2009.gada 31.decembrim nodienētajam laikam.
