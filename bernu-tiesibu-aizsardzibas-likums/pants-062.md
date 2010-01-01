@@ -2,7 +2,7 @@
 (1) Labklājības ministrija:
 1) sadarbībā ar Izglītības un zinātnes ministriju, Iekšlietu ministriju, Tieslietu ministriju, Kultūras ministriju un Veselības ministriju, kā arī citām valsts un pašvaldību institūcijām un nevalstiskajām organizācijām izstrādā ilgtermiņa valsts politikas projektus bērnu tiesību aizsardzības jomā, tai skaitā valsts politikas projektus bāreņu un bez vecāku gādības palikušu bērnu alternatīvās aprūpes jomā;
 2) organizē un koordinē normatīvo aktu ievērošanas uzraudzību bērnu tiesību aizsardzības jomā;
-3) pārrauga un metodiski vada bāriņtiesu darbu (izņemot funkcijas, kas noteiktas Bāriņtiesu likuma VII un VIII nodaļā);
+3) (izslēgts ar 26.11.2009. likumu);
 4) koordinē valsts un pašvaldību institūciju sadarbību to kompetencē esošajos bērnu tiesību aizsardzības un ģimenes tiesību jautājumos;
 5) koordinē bērnu ārpusģimenes aprūpes iestāžu darbu bērnu tiesību aizsardzības jomā;
 6) nodrošina bērnu tiesību aizsardzības procesa kvalitātes novērtēšanu, analīzi un priekšlikumu sagatavošanu bērnu tiesību aizsardzības uzlabošanai;
