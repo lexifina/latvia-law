@@ -1,2 +1,2 @@
 IV nodaļa
-Izglītības standarti un izglītības programmas
+Valsts pirmsskolas izglītības vadlīnijas, valsts izglītības standarti un izglītības programmas

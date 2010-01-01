@@ -18,6 +18,7 @@ Ministru kabinets:
 16) nosaka pedagogu darba samaksas kārtību un darba samaksas lielumu;
 17) nosaka finansēšanas kārtību speciālās izglītības iestādēs un vispārējās izglītības iestāžu speciālās izglītības klasēs un internātskolās;
 18) nosaka vienotu valsts politiku un stratēģiju izglītībā un iesniedz Saeimā apstiprināšanai izglītības attīstības koncepciju turpmākajiem četriem gadiem;
+18¹) nosaka valsts pirmsskolas izglītības vadlīnijas;
 19) nosaka valsts standartus izglītībā;
 20) nosaka izglītības programmu īstenošanas izmaksu minimumu uz vienu izglītojamo;
 21) nosaka kārtību, kādā nodrošināma izglītojamo profilaktiskā veselības aprūpe, pirmās palīdzības pieejamība, kā arī izglītojamo drošība izglītības iestādēs un to organizētajos pasākumos;
