@@ -1,0 +1,1 @@
+24. Ministru kabinets līdz 2010.gada 1.martam apstiprina inženierbūves bāzes vērtību, ņemot vērā noteikto būvju klasifikāciju. Apstiprinātās bāzes vērtības inženierbūvju kadastrālo vērtību aprēķinam stājas spēkā 2010.gada 1.martā.

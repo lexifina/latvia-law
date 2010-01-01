@@ -1,1 +1,1 @@
-16. Līdz šā likuma 89.pantā paredzēto Ministru kabineta noteikumu spēkā stāšanās dienai ir piemērojami Ministru kabineta 2007.gada 6.februāra noteikumi Nr.97 "Nekustamā īpašuma valsts kadastra informācijas pieprasīšanas un izsniegšanas kārtība.
+16. Līdz šā likuma 89.pantā paredzēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2010.gada 1.jūlijam ir piemērojami Ministru kabineta 2007.gada 6.februāra noteikumi Nr.97 "Nekustamā īpašuma valsts kadastra informācijas pieprasīšanas un izsniegšanas kārtība", ciktāl tie nav pretrunā ar šo likumu.

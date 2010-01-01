@@ -1,0 +1,1 @@
+17. Līdz šā likuma 60.pantā paredzēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2010.gada 1.jūlijam ir piemērojami Ministru kabineta 2006.gada 1.augusta noteikumi Nr.636 "Kadastra objekta reģistrācijas un kadastra datu aktualizācijas noteikumi", ciktāl tie nav pretrunā ar šo likumu.

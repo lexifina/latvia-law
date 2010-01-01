@@ -1,0 +1,1 @@
+19. Līdz 2010.gada 1.jūlijam Valsts zemes dienests šā likuma VIII nodaļā noteiktos kadastra datus nekustamā īpašuma nodokļa administrēšanai uztur un izsniedz par tiem objektiem, kas ar nekustamā īpašuma nodokli ir apliekami saskaņā ar to likuma "Par nekustamā īpašuma nodokli" 1.panta redakciju, kura ir spēkā 2009.gada 31.decembrī.

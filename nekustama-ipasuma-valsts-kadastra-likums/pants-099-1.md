@@ -1,0 +1,1 @@
+99.¹ pants. Ja būves īpašnieks vai, ja tāda nav, - tiesiskais valdītājs, vai, ja tāda nav, - lietotājs neierosina būves noteikšanu un reģistrāciju šajā likumā noteiktajā termiņā, tad būves īpašnieks vai, ja tāda nav, - tiesiskais valdītājs, vai, ja tāda nav, - lietotājs ir atbildīgs normatīvajos aktos noteiktajā kārtībā.

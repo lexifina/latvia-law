@@ -1,0 +1,1 @@
+20. Šā likuma 14.panta otrajā daļā norādītās un līdz 2010.gada 1.janvārim uzbūvētas Kadastra informācijas sistēmā nereģistrētas būves īpašniekam vai, ja tāda nav, - tiesiskajam valdītājam, vai, ja tāda nav, - lietotājam ir pienākums līdz 2010.gada 1.augustam ierosināt attiecīgās būves noteikšanu.

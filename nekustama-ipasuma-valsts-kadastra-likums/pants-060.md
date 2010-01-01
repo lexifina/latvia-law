@@ -4,6 +4,6 @@
 3) kadastra datu saturu un to labošanas un uzturēšanas kārtību;
 4) kadastra kartes veidošanas kārtību, attēlojamo datu saturu, mēroga noteiktību, attēlošanas un uzturēšanas kārtību un pieļaujamās nesaistes robežas, izlīdzinot nekustamā īpašuma objekta vai zemes vienības daļas robežu datus;
 5) nekustamā īpašuma objekta apgrūtinājuma reģistrācijas un aktualizācijas kārtību;
-6) kārtību, kādā Kadastra informācijas sistēmā tiek ierakstīts nekustamā īpašuma nodokļa objekts, un ierakstāmās ziņas;
+6) (izslēgts ar 01.12.2009. likumu);
 7) kārtību, kādā Kadastra informācijas sistēmā tiek dzēsts ieraksts par kadastra objektu;
 8) kadastra objektu reģistrācijas un kadastra datu aktualizācijas kritērijus, kārtību un iesniedzamos dokumentus.
