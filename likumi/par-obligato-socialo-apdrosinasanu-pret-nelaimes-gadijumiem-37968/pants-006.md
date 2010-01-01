@@ -6,7 +6,7 @@ Valsts sociālās apdrošināšanas aģentūras uzdevumi, apdrošinot pret nelai
 4) nodrošināt apdrošinātajai personai vai tiesību uz atlīdzību pārņēmējam apdrošināšanas atlīdzību, arī gadījumos, kad darba devējs likumā noteiktajā kārtībā nav izdarījis paredzētās apdrošināšanas iemaksas;
 5) izvērtēt katru apdrošināšanas gadījumu un noteikt apdrošināšanas atlīdzību;
 6) kontrolēt apdrošināšanas līdzekļu iekasēšanu un iekasēto līdzekļu izlietošanu;
-7) veicināt preventīvo pasākumu organizēšanu atbilstoši Valsts darba inspekcijas ieteikumiem;
+7) (izslēgts ar 16.06.2009. likumu);
 8) (izslēgts ar 25.11.2004. likumu);
 9) pieprasīt no darba devējiem Valsts sociālās apdrošināšanas aģentūras darbībai nepieciešamās ziņas;
 10) izskatīt darba devēju, apdrošināto personu un tiesību uz atlīdzību pārņēmēju iesniegumus;
