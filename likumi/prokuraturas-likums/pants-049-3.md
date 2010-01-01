@@ -1,2 +1,2 @@
-49.³ pants. Prokuratūras pārraudzībā esošo valsts iestāžu darbinieku darba samaksa
-Darba samaksas sistēmu atkarībā no prokuratūras pārraudzībā esošās valsts iestādes funkcijām nosaka Ministru kabinets. Uz šādas iestādes darbiniekiem attiecas ierēdņiem paredzētās sociālās garantijas.
+49.³ pants. Prokuratūras pārraudzībā esošo valsts iestāžu darbinieku atlīdzība
+Prokuratūras pārraudzībā esošo valsts iestāžu darbinieku atlīdzību nosaka atbilstoši Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likumam.
