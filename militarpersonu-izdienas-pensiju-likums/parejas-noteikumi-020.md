@@ -1,5 +1,5 @@
 20. Līdz 2010.gada 31.decembrim militārpersonai par katru gadu, kura pietrūkst līdz 20 gadu izdienas stāžam, samazina izdienas pensiju par 2% no šā likuma 6.panta pirmajā daļā noteiktā pensijas apmēra, ja nodienēti ne mazāk kā 10 gadi un ja militārpersona tiek atvaļināta:
 1) sakarā ar aktīvā militārā dienesta pildīšanai noteiktā maksimālā vecuma sasniegšanu;
 2) slimības vai veselības stāvokļa dēļ;
-3) amatu skaita samazināšanas dēļ;
+3) karavīru skaita samazināšanas vai vienības (apakšvienības) likvidēšanas vai reorganizēšanas dēļ;
 4) sakarā ar to, ka ir izbeidzies uz noteiktu laiku noslēgtā dienesta līguma termiņš.
