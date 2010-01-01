@@ -1,0 +1,1 @@
+15. Laika periodā no 2010.gada 1.janvāra līdz 2012.gada 31.decembrim saskaņā ar šo likumu piešķirtā bezdarbnieka pabalsta apmēru ierobežo atbilstoši likumā "Par valsts pensiju un valsts pabalstu izmaksu laika periodā no 2009.gada līdz 2012.gadam" noteiktajam.
