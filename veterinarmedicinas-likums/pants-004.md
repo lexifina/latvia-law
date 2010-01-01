@@ -11,7 +11,7 @@
 (2) Pārtikas un veterinārais dienests atbilstoši savai kompetencei:
 1) izstrādā un apstiprina metodiskos norādījumus attiecībā uz šajā likumā noteiktajām uzraudzības darbībām;
 2) izstrādā un apstiprina dzīvnieku infekcijas slimību uzraudzības un apkarošanas programmas;
-3) sniedz laboratoriskos pakalpojumus;
+3) (izslēgts ar 01.12.2009. likumu);
 4) pārstāv Latviju starptautiskajās organizācijās un uztur starptautiskos sakarus veterinārmedicīnas nozarē;
 5) sagatavo un iesniedz Zemkopības ministrijai zinātnisko pētījumu pasūtījumu pieteikumus;
 6) pilnvaro veterinārārstus atsevišķu Pārtikas un veterinārā dienesta funkciju īstenošanai;
