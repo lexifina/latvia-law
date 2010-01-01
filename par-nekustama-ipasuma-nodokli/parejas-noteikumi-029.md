@@ -1,0 +1,1 @@
+29. Grozījums šā likuma 9.panta trešajā daļā par zemesgrāmatu nodaļas kompetenci tiešsaistes datu pārraides režīmā pārliecināties par to, vai attiecīgie maksājumi ir veikti, stājas spēkā 2010.gada 1.jūlijā.

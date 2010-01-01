@@ -1,0 +1,1 @@
+31. Nodokļa maksāšanas pienākums attiecībā uz tiem nodokļa objektiem, kas līdz 2010.gada 1.janvārim uzbūvēti un nav reģistrēti kadastra reģistra informācijas sistēmā, neatkarīgi no reģistrācijas laika rodas ar 2010.gada 1.janvāri.

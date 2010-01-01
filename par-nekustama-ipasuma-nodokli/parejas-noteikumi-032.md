@@ -1,0 +1,1 @@
+32. Līdz 2010.gada 1.jūlijam katrai pašvaldībai tiek nodrošināta programmatūra nekustamā īpašuma nodokļa objekta kadastrālās vērtības aprēķinam atbilstoši grozījumiem šā likuma 4.pantā, kā arī nodokļa aprēķinam par objektiem, kuru aplikšana ar nekustamā īpašuma nodokli tiek uzsākta ar 2010.gada 1.janvāri.

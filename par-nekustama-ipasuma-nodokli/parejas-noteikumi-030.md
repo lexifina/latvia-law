@@ -1,0 +1,1 @@
+30. Ja pēc 2010.gada 1.jūlija pašvaldība nav nodrošinājusi zemesgrāmatu nodaļai iespēju tiešsaistes datu pārraides režīmā pārliecināties par šā likuma 9.panta trešajā daļā minēto maksājumu nomaksu, zemesgrāmatā īpašnieku maiņa reģistrējama, nepārliecinoties par šo maksājumu nomaksu.

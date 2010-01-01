@@ -1,0 +1,1 @@
+26.¹ 2010.gadā nodokļa maksāšanas termiņi tiek noteikti saskaņā ar šā likuma 6.panta trešo daļu - ar nosacījumu, ka pirmais maksāšanas termiņš tiek noteikts ne agrāk kā viens mēnesis pēc maksāšanas paziņojuma nosūtīšanas.
