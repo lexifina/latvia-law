@@ -1,5 +1,5 @@
-9.pants. Pārtikas un veterinārā dienesta Nacionālā diagnostikas centra kompetence
-Pārtikas un veterinārā dienesta Nacionālais diagnostikas centrs:
+9.pants. Valsts zinātniskā institūta "Pārtikas drošības, dzīvnieku veselības un vides zinātniskais institūts" kompetence
+Pārtikas drošības, dzīvnieku veselības un vides zinātniskais institūts:
 1) pilda references laboratorijas funkcijas ģenētiski modificēto organismu noteikšanā;
 2) piedalās starptautisko organizāciju rīkotajās starplaboratoriju testēšanas programmās;
 3) ievieš starptautiski atzītas ģenētiski modificēto organismu noteikšanas metodes;
