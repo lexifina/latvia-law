@@ -8,5 +8,5 @@
 5) ir izstrādāta muzeja darbības un attīstības stratēģija.
 (3) Ja muzejs, kuram ir pienākums akreditēties, netiek akreditēts, tas gada laikā var atkārtoti pieteikties akreditācijai. Ja arī pēc atkārtotas pieteikšanās muzejs netiek akreditēts, to likvidē.
 (4) Akreditētais muzejs zaudē akreditēta muzeja tiesības, ja tas neatbilst šā panta otrajā daļā minētajiem nosacījumiem.
-(5) Muzeju valsts pārvalde veido un uztur muzeju reģistru. Muzeju reģistrā tiek iekļauti visi publiskie muzeji, akreditētie privātie muzeji, kā
+(5) Kultūras ministrija veido un uztur muzeju reģistru. Muzeju reģistrā tiek iekļauti visi publiskie muzeji, akreditētie privātie muzeji, kā
 arī - pēc vienošanās ar privāto muzeju īpašniekiem - privātie neakreditētie muzeji.
