@@ -1,0 +1,1 @@
+20. Līdz 2012.gada 31.decembrim saskaņā ar šo likumu noteikto vecāku pabalstu, kas piešķirts par bērnu, kurš dzimis pēc 2010.gada 2.novembra, izmaksā likumā "Par valsts pensiju un valsts pabalstu izmaksu laika periodā no 2009.gada līdz 2012.gadam" noteiktajā apmērā.
