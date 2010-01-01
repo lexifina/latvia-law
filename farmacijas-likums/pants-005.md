@@ -1,5 +1,5 @@
 5.pants. Ministru kabinets nosaka:
-1) kārtību, kādā izsniedzamas, apturamas, pārreģistrējamas un anulējamas speciālas atļaujas (licences) farmaceitiskajai darbībai un farmaceitu profesionālās kvalifikācijas sertifikāti, kā arī aptieku, zāļu lieltirgotavu un zāļu ražošanas darbības uzsākšanas un darbības prasības un atbilstības novērtēšanas kārtību;
+1) kārtību, kādā izsniedzamas, apturamas, pārreģistrējamas un anulējamas speciālās atļaujas (licences) farmaceitiskajai darbībai un veterinārfarmaceitiskajai darbībai, farmaceitu profesionālās kvalifikācijas sertifikāti, aptieku darbības uzsākšanas un darbības kārtību, kā arī zāļu un veterināro zāļu lieltirgotavu, zāļu un veterināro zāļu ražošanas darbības uzsākšanas, darbības un atbilstības novērtēšanas kārtību;
 2) un pēc Veselības ministrijas ieteikuma apstiprina to zāļu kvalitātes kontroles institūciju sarakstu, kuras ir tiesīgas dot oficiālu atzinumu par zāļu, tajā skaitā arī no cilvēka asinīm un plazmas iegūto zāļu un homeopātisko zāļu, kvalitātes kontroles rezultātiem;
 3) zāļu ražošanas, marķēšanas, reģistrēšanas, kontroles, izplatīšanas, ievešanas un izvešanas kārtību;
 4) zāļu (izņemot veterināro zāļu) cenu veidošanas principus;
