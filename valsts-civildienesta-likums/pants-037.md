@@ -4,6 +4,6 @@
 (3) Pārceļot ierēdni, tiek izvērtēts viņa viedoklis. Pārceļot ierēdni uz citu iestādi, tiek izvērtēts arī to iestāžu viedoklis, no kuras un uz kuru ierēdni var pārcelt.
 (4) Pārceļot ierēdni citā ierēdņa amatā, ierēdnim nosaka amata mēnešalgu, kas nav zemāka par iepriekšējo, saglabā pastāvīgās piemaksas, kas saistītas ar dienestu, un sociālās garantijas, kā arī specializētajā civildienestā noteiktās dienesta pakāpes, izņemot gadījumus, kad ierēdni pārceļ, ja tiek likvidēta iestāde vai ierēdņa amats, tiek samazināts ierēdņu skaits, ir pieņemts lēmums par ierēdņa neatbilstību ieņemamam amatam, kā arī pēc ierēdņa lūguma.
 (5) Pārceļot ierēdni citā amatā uz noteiktu laiku, viņam saglabā tiesības atgriezties iepriekšējā vai līdzvērtīgā amatā.
-(6) Pārceļot ierēdni uz citu apdzīvotu vietu, viņam Ministru kabineta noteiktajā kārtībā un apmērā tiek atlīdzināti ar pārcelšanu saistītie izdevumi.
+(6) (Izslēgta ar 01.12.2009. likumu)
 (7) Ierēdņus, kuriem ir bērni līdz triju gadu vecumam, un grūtnieces nav atļauts pārcelt uz citu apdzīvotu vietu bez viņu piekrišanas.
 (8) Ierēdnim, kurš pārcelts citā amatā, ir tiesības piemērot disciplinārsodu par disciplinārpārkāpumu, kas izdarīts iepriekšējos ierēdņa amatos.

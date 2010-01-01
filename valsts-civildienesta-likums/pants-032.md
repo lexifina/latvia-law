@@ -1,2 +1,0 @@
-32.pants. Mācību atvaļinājums
-Ierēdnim, kurš, nepārtraucot amata pienākumu pildīšanu, sekmīgi mācās izglītības iestādē, lai iegūtu amata pienākumu izpildei nepieciešamās zināšanas, valsts eksāmenu kārtošanai vai diplomdarba aizstāvēšanai piešķir mācību atvaļinājumu līdz 20 darba dienām, saglabājot mēnešalgu. Ja ierēdnim ir nepieciešams un dienesta apstākļi to atļauj, apmaksātu mācību atvaļinājumu līdz 10 darba dienām var piešķirt semestru pārbaudījumu kārtošanai.

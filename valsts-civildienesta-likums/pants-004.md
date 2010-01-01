@@ -7,4 +7,4 @@
 1) izstrādā un koordinē valsts civildienesta attīstības politiku;
 2) koordinē ierēdņu karjeras attīstību;
 3) saskaņo ierēdņu amatus.
-(3) Ministru kabinets nosaka kārtību, kādā tiek uzkrāta un aktualizēta informācija par ierēdņu amatiem, kā arī nosaka par informācijas uzkrāšanu un aktualizāciju atbildīgo institūciju.
+(3) (Izslēgta ar 01.12.2009. likumu)
