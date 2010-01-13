@@ -79,12 +79,12 @@
 64) par 1973.gada Vašingtonas konvencijā par starptautisko tirdzniecību ar apdraudētajām savvaļas dzīvnieku un augu sugām noteiktā sertifikāta (CITES sertifikāts) izsniegšanu;
 64¹) par starptautiskās tirdzniecības apdraudēta savvaļas dzīvnieka reģistrēšanu;
 65) par iesnieguma izvērtēšanu personas reģistrācijai vai izmaiņu veikšanu fitosanitārajai kontrolei pakļauto augu un augu produktu apritē iesaistīto personu reģistrā, par iesnieguma izskatīšanu personas iekļaušanai koka iepakojuma marķētāju reģistrā, par augu aizsardzības līdzekļa reģistrāciju un uzturēšanu augu aizsardzības līdzekļu reģistrā;
-66) par iesnieguma izvērtēšanu personas reģistrācijai un izmaiņu veikšanu Sēklaudzētāju un sēklu tirgotāju reģistrā;
-67) par šķirnes uzturēšanu, iesnieguma izvērtēšanu šķirnes iekļaušanai un uzturēšanas termiņa pagarināšanai Latvijas augu šķirņu katalogā;
+66) par personas reģistrāciju un izmaiņu veikšanu Kultūraugu uzraudzības valsts informācijas sistēmas Sēklaudzētāju un sēklu tirgotāju reģistrā;
+67) par šķirnes iekļaušanu, šķirnes uzturēšanu un uzturēšanas termiņa pagarināšanu Latvijas augu šķirņu katalogā;
 68) par atļaujas izsniegšanu tāda veģetatīvā pavairošanas materiāla un sēklu izmantošanai bioloģiskajā lauksaimniecībā, kas nav iegūti ar bioloģiskās lauksaimniecības ražošanas metodi;
 69) par atļaujas saņemšanu mēslošanas līdzekļa ievešanai vai tirdzniecībai;
 70) par Ciltsdarba likumā noteikto sertificējamo personu kvalifikācijas sertifikāta izsniegšanu, par ganāmpulka, dzīvnieku un novietņu reģistrēšanu un par dzīvnieku apzīmēšanai nepieciešamo dokumentu izsniegšanu;
-71) par atļaujas izsniegšanu transportlīdzeklim pārtikas pārvadāšanai;
+71) (izslēgts ar 17.12.2009. likumu);
 72) par tāda suņa reģistrāciju, kurš apmācīts uzbrukt cilvēkam;
 73) par atļauju izmantot dzīvnieku eksperimentos un apmācībās;
 74) par dzīvnieka pārvadātāja apliecības izsniegšanu;
@@ -111,4 +111,12 @@
 95) par atzinuma par aizsargjoslas saskaņošanu ap ūdens ņemšanas vietām sagatavošanu;
 96) par atzinuma par veselīguma norādi uz pārtikas produktiem sagatavošanu;
 97) par tiesību piešķiršanu ievest atkritumus valsts teritorijā;
-98) par apraides atļaujas, retranslācijas atļaujas un speciālās atļaujas (licences) kabeļtelevīzijas un kabeļradio (radiotranslācijas) darbībai izsniegšanu un pārreģistrāciju.
+98) par apraides atļaujas, retranslācijas atļaujas un speciālās atļaujas (licences) kabeļtelevīzijas un kabeļradio (radiotranslācijas) darbībai izsniegšanu un pārreģistrāciju;
+99) par ģeogrāfiskās izcelsmes norādes reģistrāciju, par iebilduma paziņojuma lēmuma izsniegšanu un par ģeogrāfiskās izcelsmes norādes grozījuma reģistrāciju;
+100) par nacionālās pārtikas kvalitātes shēmas kontroles institūcijas apstiprināšanas apliecības izsniegšanu;
+101) par pārtikas uzņēmuma atzīšanas apliecības izsniegšanu;
+102) par pārtikas uzņēmuma reģistrācijas apliecības izsniegšanu;
+103) par uztura bagātinātāju reģistrāciju;
+104) par diētiskās pārtikas un zīdaiņiem paredzēto mākslīgo maisījumu reģistrāciju;
+105) par atļaujas izsniegšanu dabīgā minerālūdens izplatīšanai tirgū;
+106) par atļaujas izsniegšanu komersantam tirdzniecībai ar mājas (istabas) dzīvniekiem.
