@@ -1,2 +1,2 @@
 Likuma "Par piesārņojumu"
-2.pielikums
+1.¹ pielikums
