@@ -1,1 +1,1 @@
-4.pants. Rēzeknes speciālo ekonomisko zonu veido Rēzeknes speciālās ekonomiskās zonas teritorija, kurā veic komercdarbību Rēzeknes speciālās ekonomiskās zonas komersanti un kuru pārvalda un uzrauga Rēzeknes speciālās ekonomiskās zonas pārvaldīšanas akciju sabiedrība.
+4.pants. Rēzeknes speciālo ekonomisko zonu veido Rēzeknes speciālās ekonomiskās zonas teritorija, kurā veic komercdarbību Rēzeknes speciālās ekonomiskās zonas komersanti un kuru pārvalda un uzrauga Rēzeknes speciālās ekonomiskās zonas pārvalde.

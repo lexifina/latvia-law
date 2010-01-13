@@ -1,3 +1,3 @@
-9.pants. (1) (Izslēgta ar 27.01.2005. likumu.)
-(2) Rēzeknes speciālās ekonomiskās zonas pārvaldīšanas akciju sabiedrības padomes sastāvā iekļauj pa vienam pārstāvim no Rēzeknes pilsētas domes, Griškānu pagasta padomes un Vērēmu pagasta padomes un divus Rēzeknes speciālās ekonomiskās zonas komersantu deleģētus pārstāvjus.
-(3) (Izslēgta ar 27.01.2005. likumu.)
+9.pants. (1) Rēzeknes speciālās ekonomiskās zonas augstākā kolektīvā uzraudzības un pārvaldes institūcija ir Rēzeknes speciālās ekonomiskās zonas pārvaldes uzraudzības padome.
+(2) Darbam Rēzeknes speciālās ekonomiskās zonas pārvaldes uzraudzības padomes sastāvā tiek deleģēti šo padomi veidojošo pašvaldību domju priekšsēdētāju vietnieki vai citas amatpersonas. Minimālais uzraudzības padomes locekļu skaits ir trīs locekļi.
+(3) Rēzeknes speciālās ekonomiskās zonas pārvaldes uzraudzības padomes darbu vada uzraudzības padomes priekšsēdētājs. Uzraudzības padomes priekšsēdētāja pienākumus pilda pēc iedzīvotāju skaita lielākās pašvaldības domes priekšsēdētāja vietnieks, ja pašvaldības nevienojas citādi.

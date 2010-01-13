@@ -1,0 +1,1 @@
+5. Līdz Rēzeknes speciālās ekonomiskās zonas pārvaldes izveidošanai, bet ne ilgāk kā līdz 2010.gada 1.jūnijam šajā likumā noteiktās pārvaldes funkcijas veic Rēzeknes speciālās ekonomiskās zonas pārvaldīšanas akciju sabiedrība.
