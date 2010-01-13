@@ -1,2 +1,2 @@
 Rēzeknes speciālās ekonomiskās zonas likuma
-pielikums
+1.pielikums
