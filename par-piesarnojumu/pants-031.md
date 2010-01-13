@@ -1,8 +1,8 @@
 31.pants. A un B kategorijas atļauju nosacījumi
-(1) Atļaujā ietver nosacījumus, kuru ievērošana nepieciešama, lai nodrošinātu cilvēku veselības aizsardzību un attiecīgu vides kvalitāti - gaisa, virszemes ūdeņu, pazemes ūdeņu, augsnes un zemes dzīļu aizsardzību, kā arī nosaka:
+(1) Atļaujā ietver nosacījumus, kuru ievērošana nepieciešama, lai nodrošinātu cilvēku veselības aizsardzību un augstu vides kvalitāti - gaisa, virszemes ūdeņu, pazemes ūdeņu, augsnes un zemes dzīļu aizsardzību, kā arī nosaka:
 1) emisijas limitus piesārņojošām vielām, kuras varētu tikt emitētas no iekārtas, ievērojot attiecīgās vielas raksturu un iespējamo piesārņojuma pārnesi no vienas vides citā (ūdens, gaiss, augsne), kā arī citu veidu emisijas limitus;
 2) prasības, kas jāievēro operatoram, lai nodrošinātu cilvēku veselības un vides aizsardzību, kā arī atkritumu apsaimniekošanu, izmantojot dabas resursus un enerģiju, kā arī lietojot ķīmiskās vielas un ķīmiskos produktus;
-3) pasākumus, kas saistīti ar iekārtai netipiskiem darbības apstākļiem, arī ar iekārtas darbības uzsākšanu, iespējamām noplūdēm, nepareizu darbību, pēkšņu apstāšanos un darbības pārtraukšanu;
+3) pasākumus, kas saistīti ar iekārtai netipiskiem darbības apstākļiem, arī ar iekārtas darbības uzsākšanu (piemēram, iekārtas vai tās daļas darbības ieregulēšana vai testēšana pirms nodošanas ekspluatācijā vai pēc rekonstrukcijas saskaņā ar iekārtas tehniskajā dokumentācijā norādīto), iespējamām noplūdēm, nepareizu darbību, pēkšņu apstāšanos un darbības pārtraukšanu;
 3¹) vides kvalitātes mērķus konkrētajai teritorijai vai saskaņā ar upju baseinu apgabalu apsaimniekošanas plānu veicamos pasākumus un to īstenošanas termiņus;
 4) citus pasākumus, kas veicami, lai nodrošinātu šā likuma II nodaļā noteikto prasību izpildi;
 5) prasības attiecībā uz iekārtas energoefektivitāti, kuras operators šā likuma 2.pielikumā minētajām iekārtām drīkst nepiemērot gadījumos, kad citādi nav iespējams ievērot siltumnīcefekta gāzu emisijas atļaujas nosacījumus.

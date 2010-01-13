@@ -1,4 +1,4 @@
-28.¹ pants. Siltumnīcefekta gāzu emisijas atļaujas pieteikšana un izsniegšana
+28.¹ pants. Siltumnīcefekta gāzu emisijas atļaujas pieteikšana, izsniegšana un atcelšana
 (1) Iesniegumu atļaujas saņemšanai sagatavo operators, ja nepieciešams, pieaicinot ekspertus.
 (2) Iesniegumā sniedzama šāda informācija:
 1) iekārtas, tās darbības un tehnoloģijas apraksts;
@@ -8,3 +8,4 @@
 (3) Iesniegumam pievieno šā panta otrajā daļā minētās informācijas kopsavilkumu, kurā nelieto specifiskus tehniskos aprakstus un terminus, lai tas būtu viegli saprotams sabiedrībai.
 (4) Atļauju izsniedz reģionālā vides pārvalde pēc iekārtas darbības vietas. Ja nepieciešams, reģionālā vides pārvalde pieaicina ekspertus, izņemot tos, kuri piedalījušies iesnieguma sagatavošanā.
 (5) Ja operators nav saņēmis siltumnīcefekta gāzu emisijas atļauju, pēc 2005.gada 1.janvāra tas nedrīkst uzsākt vai turpināt šā likuma 2.pielikumā minētās piesārņojošās darbības.
+(6) Reģionālā vides pārvalde izsniegto siltumnīcefekta gāzu emisijas atļauju atceļ, ja konstatē, ka operators sniedzis nepatiesu vai maldinošu informāciju.

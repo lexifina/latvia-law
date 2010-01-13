@@ -3,7 +3,7 @@
 (2) Jēdziens "tehniskie paņēmieni" ietver lietojamo tehnoloģiju un veidu, kādā iekārta ir projektēta, uzbūvēta, uzturēta, darbināta vai demontēta.
 (3) Tehniskie paņēmieni ir pieejami, ja tie ir ekonomiski un tehnoloģiski pamatoti un neatkarīgi no tā, vai tie iepriekš lietoti Latvijā, tos ir iespējams ieviest noteiktā rūpniecības nozarē, ņemot vērā attiecīgās izmaksas.
 (4) Tehniskie paņēmieni ir labākie, ja tie ietver tādas tehnoloģijas un metodes, kuras izmantojot iespējams nodrošināt augstāko vides aizsardzības līmeni.
-(5) Izvēloties labākos pieejamos tehniskos paņēmienus un ņemot vērā to ieviešanas un lietošanas potenciālās izmaksas, kā arī likumā "Par vides aizsardzību" noteiktos vides aizsardzības principus un konkrētās piesārņojošās darbības specifiku, operators:
+(5) Izvēloties labākos pieejamos tehniskos paņēmienus un ņemot vērā to ieviešanas un lietošanas potenciālās izmaksas, kā arī Vides aizsardzības likumā noteiktos vides aizsardzības principus un konkrētās piesārņojošās darbības specifiku, operators:
 1) izmanto tehnoloģiju, kas nodrošina iespējami maza atkritumu daudzuma rašanos;
 2) izmanto tehnoloģiju, kas nodrošina šā likuma 5.panta prasību ievērošanu;
 3) izmanto vielas, kuras ir mazāk bīstamas cilvēku dzīvībai, veselībai un videi;

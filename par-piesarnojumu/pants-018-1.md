@@ -1,4 +1,4 @@
-18.¹ pants. Vides trokšņa novērtēšana un samazināšana
+18.¹ pants. Trokšņa novērtēšana un samazināšana
 (1) Trokšņa kartēšanu, trokšņa stratēģiskās kartes un rīcības plāna trokšņa samazināšanai izstrādi un ieviešanu aglomerācijās nodrošina attiecīgā pašvaldība. Ja aglomerācijas teritorijā ir vairākas pašvaldības, tās sadarbojas, veicot trokšņa kartēšanu un izstrādājot kopīgu rīcības plānu trokšņa samazināšanai.
 (2) Trokšņa kartēšanu, trokšņa stratēģiskās kartes un rīcības plāna trokšņa samazināšanai izstrādi un ieviešanu attiecībā uz autoceļiem un dzelzceļa līnijām, kā arī lidostām, kurās satiksmes intensitāte ir vairāk nekā 50 000 gaisakuģu gadā, nodrošina Satiksmes ministrija.
 (3) Ministru kabinets nosaka:

@@ -7,7 +7,7 @@
 (5) Siltumnīcefekta gāzu emisijas atļaujas izsniedz uz šādiem periodiem:
 1) pirmais periods - no 2005.gada 1.janvāra līdz 2007.gada 31.decembrim;
 2) otrais periods - no 2008.gada 1.janvāra līdz 2012.gada 31.decembrim;
-3) trešais un turpmākie periodi - pieci kalendārie gadi, sākot ar 2013.gada 1.janvāri.
+3) trešais un turpmākie periodi - astoņi kalendārie gadi, sākot ar 2013.gada 1.janvāri.
 (6) Reģionālā vides pārvalde siltumnīcefekta gāzu emisijas atļaujas nosacījumus saskaņo ar attiecīgās iekārtas A vai B kategorijas atļaujas nosacījumiem.
 (7) Ministru kabinets nosaka:
 1) kādai jābūt siltumnīcefekta gāzu emisijas atļaujas iesnieguma veidlapai un atļaujas veidlapai, kā arī kārtību, kādā pieprasāma un izsniedzama siltumnīcefekta gāzu emisijas atļauja;

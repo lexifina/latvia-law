@@ -1,2 +1,2 @@
 V nodaļa
-Atļaujas pieteikšana, izsniegšana un pārskatīšana
+Atļaujas pieteikšana, izsniegšana, pārskatīšana un atcelšana

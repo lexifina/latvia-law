@@ -6,3 +6,4 @@
 4) vides kvalitātes normatīvu un Ministru kabineta noteikumu ievērošanu;
 5) piesārņotu vai potenciāli piesārņotu vietu izpētes uzdevumu, piesārņotu vietu sanācijas uzdevumu un programmu izpildi.
 (2) Trokšņa robežlielumu ievērošanu kontrolē Veselības inspekcija, kā arī attiecīgās pašvaldības institūcijas, kurām pašvaldība ir deleģējusi minēto funkciju.
+(3) Šajā likumā un uz šā likuma pamata izdotajos Ministru kabineta noteikumos gaisa kuģu operatoriem noteikto prasību izpildi kontrolē Civilās aviācijas aģentūra.
