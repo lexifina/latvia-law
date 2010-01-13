@@ -1,0 +1,3 @@
+23.pants. Ģeodēzisko darbu veikšanai nepieciešamā sertifikāta izsniegšana, reģistrēšana un sertificēto personu darbības uzraudzība
+(1) Informāciju par sertificētajiem ģeodēzisko darbu veicējiem iekļauj Ģeodēzisko darbu, zemes ierīcības un zemes kadastrālās uzmērīšanas sertificēto personu reģistrā. Ģeodēzisko darbu, zemes ierīcības un zemes kadastrālās uzmērīšanas sertificēto personu reģistru uztur Latvijas Nacionālajā akreditācijas birojā akreditēta sertificēšanas institūcija.
+(2) Sertifikāta iedalījumu, izsniegšanas, reģistrēšanas un anulēšanas kārtību, sertificēto personu darbības uzraudzības kārtību, kā arī valsts nodevas likmi un tās maksāšanas kārtību, civiltiesiskās apdrošināšanas kārtību un apdrošināšanas līguma minimālo apmēru nosaka Ministru kabinets.

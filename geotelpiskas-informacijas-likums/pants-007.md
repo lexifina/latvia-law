@@ -1,0 +1,2 @@
+7.pants. Biedrību un nodibinājumu kompetence ģeotelpiskās informācijas jomā
+Biedrības un nodibinājumi vai to apvienības, kas apvieno ģeotelpiskās informācijas jomā strādājošās fiziskās un juridiskās personas, var piedalīties valsts politikas īstenošanā ģeotelpiskās informācijas jomā, veicot normatīvo dokumentu un standartu apspriešanu un sniedzot atzinumus, veicinot sabiedrības iesaistīšanu ģeotelpiskās informācijas apritē, paaugstinot profesionālo kvalifikāciju un pildot citus biedrībām un nodibinājumiem vai to apvienībām deleģētos valsts pārvaldes uzdevumus.

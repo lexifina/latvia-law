@@ -1,0 +1,1 @@
+1. Ministru kabinets līdz 2010.gada 31.decembrim izdod šā likuma 11.panta trešajā daļā, 12.panta ceturtajā daļā, 12.panta astotajā daļā, 15.panta pirmajā daļā, 18.panta pirmajā daļā, 21.panta otrajā daļā, 23.panta otrajā daļā un 26.panta desmitajā daļā minētos noteikumus.

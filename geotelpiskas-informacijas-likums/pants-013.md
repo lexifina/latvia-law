@@ -1,0 +1,12 @@
+13.pants. Augstas detalizācijas topogrāfiskā informācija
+(1) Augstas detalizācijas topogrāfiskā informācija ir tāda ģeotelpiska informācija, kuras mēroga noteiktība ir 1:500 un lielāka.
+(2) Augstas detalizācijas topogrāfiskā informācija tiek uzkrāta datubāzē.
+(3) Ministru kabinets nosaka augstas detalizācijas topogrāfiskās informācijas specifikāciju, informācijas iegūšanas, sagatavošanas un apstrādes metodiku, topogrāfiskā plāna sagatavošanas vispārīgās prasības, tā saskaņošanas vispārīgās prasības, tajā attēlojamos elementus, kā arī ģeodēzisko darbu veicēja atbildību augstas detalizācijas topogrāfiskās informācijas iegūšanas un sagatavošanas procesā.
+(4) Valsts zemes dienests uzkrāj augstas detalizācijas topogrāfisko informāciju par visu valsts teritoriju augstas detalizācijas topogrāfiskās informācijas centrālajā datubāzē un ir augstas detalizācijas topogrāfiskās informācijas valsts informācijas sistēmas pārzinis.
+(5) Ministru kabinets nosaka augstas detalizācijas topogrāfiskās informācijas centrālās datubāzes izveidošanas un uzturēšanas kārtību, ietverot tajā prasības par:
+1) augstas detalizācijas topogrāfiskās informācijas centrālajā datubāzē uzkrājamās informācijas saturu;
+2) informācijas apmaiņu starp vietējās pašvaldības datubāzi un augstas detalizācijas topogrāfiskās informācijas centrālo datubāzi;
+3) augstas detalizācijas topogrāfiskās informācijas iesniegšanas un pieņemšanas, aktualizācijas un izplatīšanas kārtību.
+(6) Vietējā pašvaldība, lai nodrošinātu savu funkciju un uzdevumu izpildi, par savu administratīvo teritoriju izveido un uztur augstas detalizācijas topogrāfiskās informācijas datubāzi atbilstoši Ministru kabineta noteiktajai augstas detalizācijas topogrāfiskās informācijas specifikācijai, veic iesniegtās informācijas pārbaudi un nodrošina datubāzes sadarbspēju ar centrālo datubāzi Ministru kabineta noteiktajā kārtībā. Pašvaldības dome nosaka augstas detalizācijas topogrāfiskās informācijas iesniegšanas un pieņemšanas kārtību.
+(7) Vietējai pašvaldībai ir tiesības deleģēt šā panta sestajā daļā minēto uzdevumu, slēdzot deleģējuma līgumu Valsts pārvaldes iekārtas likumā noteiktajā kārtībā. Ja minēto pārvaldes uzdevumu deleģē Valsts zemes dienestam, augstas detalizācijas topogrāfisko informāciju par vietējās pašvaldības administratīvo teritoriju Valsts zemes dienests uztur centrālajā datubāzē saskaņā ar šā panta piektajā daļā noteikto kārtību.
+(8) Datubāzē uzkrāto informāciju izplata vietējā pašvaldība un Valsts zemes dienests atbilstoši savā datubāzē uzkrātajam datu apjomam.

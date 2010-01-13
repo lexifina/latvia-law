@@ -1,0 +1,22 @@
+4.pants. Ģeodēzijas, kartogrāfijas un ģeotelpiskās informācijas pārvaldes institūcijas un to darbības koordinācija
+(1) Aizsardzības ministrija organizē un koordinē valsts politikas īstenošanu ģeodēzijas, kartogrāfijas un ģeotelpiskās informācijas jomā:
+1) izstrādā valsts politiku un attīstības stratēģiju, koordinē ģeotelpiskās informācijas apriti valstī ģeodēzijas un kartogrāfijas jomā, izņemot jūras navigācijas karšu sastādīšanu un publicēšanu, ko nosaka Jūrlietu pārvaldes un jūras drošības likums;
+2) nodrošina reglamentējošu normatīvo aktu projektu izstrādi atbilstoši Eiropas Savienības, Ziemeļatlantijas līguma organizācijas un citu starptautisko organizāciju tiesību aktiem;
+3) plāno un uzrauga valsts aģentūras "Latvijas Ģeotelpiskās informācijas aģentūra" ģeodēzisko un kartogrāfisko pamatdatu iegūšanas, sagatavošanas un atjaunināšanas, kā arī ģeotelpiskās informācijas pakalpojumu sniegšanas izpildi ikgadējā valsts budžeta finansējuma ietvaros;
+4) izveido Ģeotelpiskās informācijas ekspertu padomi un nodrošina tās darbību;
+5) nosaka kārtību, kādā nodrošināms ģeotelpiskās informācijas atbalsts Nacionālo bruņoto spēku uzdevumu izpildei un dalībai Ziemeļatlantijas līguma organizācijā;
+6) sadarbībā ar nozaru ministrijām nodrošina standartu izstrādi un/vai starptautisko standartu adaptēšanu ģeotelpiskās informācijas jomā;
+7) koordinē starptautisko līgumu slēgšanu par ģeotelpiskās informācijas, kas iegūta ar tālizpētes metodi, izmantošanu visu ieinteresēto ministriju funkciju un uzdevumu izpildei.
+(2) Valsts aģentūra "Latvijas Ģeotelpiskās informācijas aģentūra" ir vadošā iestāde valsts politikas īstenošanā ģeodēzijas, kartogrāfijas un ģeotelpiskās informācijas jomā. Tā iegūst, sagatavo un atjaunina šā likuma 12.panta piektajā daļā, 17.panta trešajā daļā un 18.panta otrajā daļā minētos ģeodēziskos un kartogrāfiskos pamatdatus civilajām un militārajām vajadzībām, sniedz ģeotelpiskās informācijas pakalpojumus un veic citus šajā likumā un citu nozaru speciālajos normatīvajos aktos noteiktos uzdevumus.
+(3) Šā likuma 12.panta piektajā un sestajā daļā, 17.panta trešajā daļā, 18.panta otrajā daļā un 31.panta otrajā daļā noteikto uzdevumu izpildei valsts aģentūra "Latvijas Ģeotelpiskās informācijas aģentūra" var slēgt līgumus par attiecīgu pakalpojumu veikšanu.
+(4) Atsevišķas funkcijas ģeodēzijas, kartogrāfijas un ģeotelpiskās informācijas politikas īstenošanā atbilstoši savai kompetencei pilda Vides ministrija, Zemkopības ministrija, Tieslietu ministrija, Satiksmes ministrija, Reģionālās attīstības un pašvaldību lietu ministrija, Ekonomikas ministrija, Iekšlietu ministrija, Veselības ministrija, Izglītības un zinātnes ministrija, Kultūras ministrija un vietējās pašvaldības, kā arī biedrības un nodibinājumi, kuru darbība attiecīgajā jomā ir reģistrēta.
+(5) Šā panta ceturtajā daļā minētās ministrijas atbilstoši savām valsts pārvaldes funkcijām, uzdevumiem un kompetencei, to aptvertajām nozarēm vai nozaru grupām un Latvijas Republikai saistošām starptautiskajām tiesību normām:
+1) iekļauj nozares politikas plānošanas dokumentos pasākumus, lai nodrošinātu attiecīgās nozares politikas izstrādāšanai un īstenošanai nepieciešamās ģeotelpiskās informācijas iegūšanu, sagatavošanu, atjaunināšanu un attiecīgu ģeotelpiskās informācijas pakalpojumu sniegšanu;
+2) nozares politikas plānošanas dokumentos par šīs daļas 1.punktā minētajiem pasākumiem sniedz šādu informāciju:
+a) konkrētas ģeotelpisko datu kopas un pakalpojumi, ko plānots nodrošināt ar attiecīgajiem pasākumiem,
+b) termiņi pasākumu īstenošanai,
+c) pasākumu izpildei piešķirtais un papildus nepieciešamais finansējums,
+d) par pasākumu īstenošanu atbildīgās institūcijas,
+e) kārtība, kādā sniedzams pārskats par pasākumu izpildi;
+3) nodrošina attiecīgās nozares ģeotelpisko datu kopu un to metadatu iegūšanu, sagatavošanu, atjaunināšanu un pieejamību valsts vienotajā ģeoportālā, ievērojot šīs daļas 1.punktā minētos pasākumus un šajā likumā noteiktās prasības ģeotelpiskās informācijas apritei.
+(6) Šā panta ceturtajā daļā minētās ministrijas sagatavo un sniedz Aizsardzības ministrijai ziņas par attiecīgās nozares ģeotelpisko informāciju, pakalpojumiem un pasākumiem, lai nodrošinātu efektīvu ģeotelpiskās informācijas iegūšanu, sagatavošanu, atjaunināšanu un attiecīgu ģeotelpiskās informācijas pakalpojumu sniegšanu valstī un šā likuma 8.panta otrajā un trešajā daļā noteikto uzdevumu izpildi.

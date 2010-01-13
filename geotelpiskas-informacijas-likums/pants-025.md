@@ -1,0 +1,13 @@
+25.pants. Ģeotelpiskās informācijas turētāju un ģeotelpisko datu kopu turētāju autortiesību aizsardzība
+(1) Autortiesības uz ģeotelpiskās informācijas datubāzi vai tajā ietvertajiem aizsargātajiem darbiem un datubāzes veidotāja tiesību piederību nosaka atbilstoši Autortiesību likumam.
+(2) Ģeotelpiskās datu kopas izmantotāji ģeotelpiskās datu kopas atkalizmantošanai saņem licenci vai noslēdz licences līgumu ar attiecīgās ģeotelpiskās datu kopas turētāju. Licences vai licences līguma noteikumi var būt iekļauti citos līgumos, kurus noslēdzis ģeotelpiskās datu kopas turētājs un izmantotājs. Šajā licencē vai licences līgumā nedrīkst:
+1) diskriminēt ģeotelpiskās datu kopas izmantotājus;
+2) ietvert tādus ierobežojumus, kas ir pretrunā ar šā likuma 27.panta trešo un ceturto daļu;
+3) ierobežot konkurenci.
+(3) Ģeotelpiskās datu kopas izmantotāji šīs datu kopas kopīgai izmantošanai noslēdz sadarbības līgumu ar attiecīgās ģeotelpiskās datu kopas turētāju vai starpresoru vienošanos. Sadarbības līgumā vai starpresoru vienošanās tekstā ietver noteikumus par to, kā izmantojamas ģeotelpiskās datu kopas. Šajos noteikumos nedrīkst:
+1) diskriminēt ģeotelpiskās datu kopas izmantotājus;
+2) ietvert tādus ierobežojumus, kas ir pretrunā ar šā likuma 27.panta trešo un ceturto daļu.
+(4) Ja, pildot valsts pārvaldes funkcijas, izmanto ģeotelpiskās informācijas datubāzi un autortiesības uz šo datubāzi vai uz tajā ietvertajiem aizsargātajiem darbiem vai datubāzes veidotāja tiesības ir trešajai personai, citām personām pieeju šādai ģeotelpiskās informācijas datubāzei sniedz, ievērojot šīs datubāzes izmantošanas noteikumus.
+(5) Šā panta ceturtajā daļā minētie datubāzes izmantošanas noteikumi nedrīkst ierobežot ģeotelpiskās informācijas datubāzes izmantotājus tiem noteikto valsts pārvaldes funkciju un uzdevumu izpildē pilnā apmērā.
+(6) Ģeotelpisko datu kopu izmantotāji, kas ir iesaistīti katastrofu pārvaldīšanā, glābšanas darbos vai ārkārtēju situāciju izraisīto seku likvidēšanā, savlaicīgi nodrošina sev ģeotelpiskās datu kopas turētāja rakstveida atļauju datubāzes izmantošanai kādā no šā panta otrajā un trešajā daļā minētajiem veidiem par attiecīgās ģeotelpiskās datu kopas izmantošanu pēc pieprasījuma katastrofu gadījumos, pastāvot katastrofas draudiem un ārkārtējas situācijas izsludināšanas gadījumā.
+(7) Ģeotelpiskās datu kopas turētājs nodrošina brīvi pieejamu informāciju par attiecīgās ģeotelpiskās datu kopas kopīgas izmantošanas un atkalizmantošanas noteikumiem. Ģeotelpiskās datu kopas izmantošanas noteikumu obligāto saturu un atļaujas saņemšanas kārtību nosaka Ministru kabinets.

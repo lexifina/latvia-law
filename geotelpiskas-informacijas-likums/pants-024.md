@@ -1,0 +1,4 @@
+24.pants. Ģeotelpiskās informācijas un ģeotelpiskās informācijas pakalpojumu sniegšana
+(1) Ģeotelpiskās datu kopas turētājs nodrošina informācijas sniegšanu ar ģeotelpiskās informācijas infrastruktūras starpniecību atbilstoši šajā likumā noteiktajai kārtībai.
+(2) Ģeotelpiskās informācijas turētājs ģeotelpisko informāciju, kā arī ģeotelpiskās informācijas pakalpojumus sniedz, pamatojoties uz iestādes, fiziskās vai juridiskās personas pieprasījumu atbilstoši Iesniegumu likumā un Informācijas atklātības likumā noteiktajai kārtībai, kādā pieprasāma iestādes rīcībā esošā informācija.
+(3) Ģeotelpiskās informācijas turētājs ar ģeotelpiskās informācijas vai ģeotelpiskās informācijas pakalpojuma pieprasītāju var vienoties par pastāvīgu sadarbību tā rīcībā esošās ģeotelpiskās informācijas sniegšanā.

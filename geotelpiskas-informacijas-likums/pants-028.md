@@ -1,0 +1,13 @@
+28.pants. Ģeotelpiskās informācijas infrastruktūra un valsts vienotais ģeoportāls
+(1) Ģeotelpiskās informācijas kopīgai izmantošanai starp iestādēm un ģeotelpiskās informācijas atkalizmantošanai elektroniskā formā izveido ģeotelpiskās informācijas infrastruktūru.
+(2) Lai nodrošinātu ģeotelpiskās informācijas infrastruktūrā ietverto ģeotelpisko datu kopu un to metadatu pieejamību lietotājiem, izveido valsts vienoto ģeoportālu. Ģeoportālā nodrošina vismaz šādus ģeotelpiskās informācijas pakalpojumus:
+1) meklēšanas pakalpojumi, kas, par pamatu ņemot attiecīgo metadatu saturu, nodrošina pieejamo ģeotelpisko datu kopu meklēšanu un metadatu satura parādīšanu;
+2) skatīšanās pakalpojumi, kas ļauj vismaz attēlot, pārvietot, pietuvināt un attālināt skatu, panoramēt vai pārklāt skatāmās ģeotelpiskās datu kopas, kā arī attēlot pieņemtos ģeotelpisko datu kopu apzīmējumus un jebkuru ar tiem saistīto metadatu saturu;
+3) lejupielādes pakalpojumi, kas ļauj lejupielādēt pilnu ģeotelpisko datu kopu vai to daļu kopijas un, ja iespējams, piekļūt tām nepastarpināti;
+4) transformēšanas pakalpojumi, kas ļauj transformēt ģeotelpiskās datu kopas, lai panāktu to nepieciešamo sadarbspēju;
+5) pakalpojumi, kas ļauj nepastarpināti izmantot ģeotelpiskās informācijas pakalpojumus informācijas sistēmās.
+(3) Ģeoportāla pārzinis ir Reģionālās attīstības un pašvaldību lietu ministrija. Tās funkcijas un uzdevumus, ģeoportālā ietveramās ģeotelpisko datu kopas, metadatus, kā arī ģeotelpisko datu kopu turētājiem izvirzāmās prasības un viņu pienākumus, lai nodrošinātu ģeotelpisko datu kopu un to metadatu pieejamību ģeoportālā un izmantošanu, kā arī ģeoportālā ietvertās ģeotelpiskās informācijas izmantošanas noteikumus reglamentē Ministru kabinets.
+(4) Ģeotelpiskās informācijas infrastruktūrā iekļautās informācijas kopīgai izmantošanai un atkalizmantošanai, ievērojot šā likuma V nodaļā ietvertos ģeotelpiskās informācijas un ģeotelpiskās informācijas pakalpojumu sniegšanas vispārīgos noteikumus un piemērojot izņēmumus Informācijas atklātības likumā paredzētajiem informācijas atkalizmantošanas nosacījumiem, nosaka šādus noteikumus:
+1) ģeotelpisko datu kopu meklēšana un skatīšanās ģeoportālā, neveicot to lejupielādi, ir bez maksas;
+2) maksu par ģeotelpisko datu kopu skatīšanos ģeoportālā, neveicot to lejupielādi, var pieprasīt par tām ģeotelpiskās informācijas kopām, kuru uzturēšana nav pilnībā nodrošināta no valsts budžeta līdzekļiem un kuru informācijas turētājam nepieciešams nodrošināt liela apjoma un biežu ģeotelpiskās informācijas atjaunināšanu;
+3) ģeotelpisko datu kopu skatīšanās ģeoportālā, neveicot to lejupielādi, var būt ierobežota atkalizmantošanai komerciālos nolūkos.

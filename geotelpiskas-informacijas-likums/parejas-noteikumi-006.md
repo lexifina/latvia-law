@@ -1,0 +1,1 @@
+6. Šā likuma 13.panta sestajā daļā minēto augstas detalizācijas topogrāfiskās informācijas datubāzi izveido vai šā likuma 13.panta septītajā daļā minēto deleģējuma līgumu noslēdz sešu mēnešu laikā no šā likuma spēkā stāšanās dienas.

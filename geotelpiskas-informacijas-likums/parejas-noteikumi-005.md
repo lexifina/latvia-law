@@ -1,0 +1,1 @@
+5. Līdz 2007.gada 31.decembrim izsniegtās licences kartogrāfisko darbu veikšanai zaudē spēku šā likuma spēkā stāšanās dienā. Līdz 2007.gada 31.decembrim izsniegtās licences ģeodēzisko darbu veikšanai ir spēkā līdz licencē norādītajam termiņam, bet ne ilgāk kā līdz 2010.gada 31.decembrim.

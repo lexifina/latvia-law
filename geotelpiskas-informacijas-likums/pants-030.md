@@ -1,0 +1,3 @@
+30.pants. Ģeotelpiskās informācijas aprite ārkārtējas situācijas, izņēmuma stāvokļa vai mobilizācijas izsludināšanas gadījumā
+(1) Gadījumos, kad izsludināts izņēmuma stāvoklis vai mobilizācija, ģeotelpisko informāciju pēc pieprasījuma bez maksas nodod Nacionālajiem bruņotajiem spēkiem un institūcijām, kas veic civilās aizsardzības plānos noteiktos uzdevumus.
+(2) Katastrofas gadījumā vai ārkārtējas situācijas izsludināšanas gadījumā valsts vai pašvaldību institūcijas ģeotelpisko informāciju par teritoriju, kurā notikusi katastrofa vai izsludināta ārkārtēja situācija, saņem vai lejupielādē no vienotā ģeotelpiskās informācijas portāla bez maksas.

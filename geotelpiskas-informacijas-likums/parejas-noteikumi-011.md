@@ -1,0 +1,1 @@
+11. Sešu mēnešu laikā no šā likuma spēkā stāšanās dienas vietējā pašvaldība izdod šā likuma 13.panta sestajā daļā minētos saistošos noteikumus, bet iepriekš izdotie pašvaldības saistošie noteikumi par augstas detalizācijas topogrāfiskās informācijas apriti zaudē spēku.
