@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2010.gada 12.janvāra noteikumi Nr.34 “Veterinārās prasības to dzīvnieku apritei, kas nav minēti citos normatīvajos aktos par veterināro kontroli”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "12 (4204)",
+  "official_journal_page": null,
+  "official_journal_date": "2010-01-22",
+  "entry_into_force": "2010-01-23",
+  "notification_date": "2014-09-08",
+  "commission_reference": "MNE(2014)55283",
+  "nim_celex": "72013L0031LVA_219618",
+  "nim_id": "219618",
+  "transposes_celex": [
+    "32013L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f5fc010e-fd04-48c0-b7c2-fe630d826865",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
