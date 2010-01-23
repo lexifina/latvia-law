@@ -1,0 +1,1 @@
+8.¹ Šā likuma 3.panta piektās daļas 5.punktu, kā arī pārejas noteikumu 8.punkta 5.apakšpunkta "a" apakšpunkta jauno redakciju par mēneša vidējās izpeļņas izmaksu 95 procentu apmērā piemēro no 2010.gada 1.janvāra.
