@@ -1,0 +1,1 @@
+20.pants. Melioratīvās hidrometrijas hidrometriskos posteņus uztur, tajos sistemātiskus novērojumus, mērījumus un aprēķinus veic un hidrometrijas datu pieejamību sabiedrībai nodrošina valsts sabiedrība ar ierobežotu atbildību "Zemkopības ministrijas nekustamie īpašumi".

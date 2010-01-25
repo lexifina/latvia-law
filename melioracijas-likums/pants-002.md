@@ -1,0 +1,1 @@
+2.pants. Šā likuma mērķis ir veicināt dabas resursu ilgtspējīgu apsaimniekošanu, nodrošinot infrastruktūras attīstību, meliorācijas sistēmu būvniecību, ekspluatāciju, uzturēšanu un pārvaldību lauku apvidu un pilsētu zemē.

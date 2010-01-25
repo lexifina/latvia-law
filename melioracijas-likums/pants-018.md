@@ -1,0 +1,1 @@
+18.pants. Zemes īpašnieks vai tiesiskais valdītājs mēneša laikā pēc pārmaiņām meliorācijas sistēmā rakstveidā informē valsts sabiedrību ar ierobežotu atbildību "Zemkopības ministrijas nekustamie īpašumi" par kvantitatīvām vai kvalitatīvām pārmaiņām meliorācijas sistēmā savā īpašumā vai tiesiskajā valdījumā esošās zemes robežās.

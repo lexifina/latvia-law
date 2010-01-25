@@ -1,0 +1,1 @@
+25.pants. Ministru kabinets izdod meliorācijas sistēmas ekspluatācijas un uzturēšanas noteikumus, izvirzot prasības, kas zemes īpašniekam vai tiesiskajam valdītājam jāievēro meliorācijas sistēmas izmantošanā, kopšanā un saglabāšanā.

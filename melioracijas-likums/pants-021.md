@@ -1,0 +1,1 @@
+21.pants. Meliorācijas sistēmas valsts akciju sabiedrības "Latvijas Valsts meži", Valsts meža dienesta un Dabas aizsardzības pārvaldes valdījumā nodotajā valsts meža zemē ekspluatē un uztur attiecīgi valsts akciju sabiedrība "Latvijas Valsts meži", Valsts meža dienests un Dabas aizsardzības pārvalde, izņemot šā likuma 19.pantā noteikto.

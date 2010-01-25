@@ -1,0 +1,1 @@
+31.pants. Melioratīvo hidrometriju, meliorācijas praktiskās zinātnes pētījumus un izstrādnes, nozares normatīvu (standartu) sagatavošanu un meliorācijas kadastra kārtošanu finansē no šim nolūkam paredzētajiem valsts budžeta līdzekļiem.

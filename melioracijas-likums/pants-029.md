@@ -1,0 +1,3 @@
+29.pants. (1) Koplietošanas meliorācijas sistēmas būvniecību, ekspluatāciju un uzturēšanu finansē attiecīgās zemes īpašnieki vai tiesiskie valdītāji atbilstoši noteiktai maksai.
+(2) Koplietošanas meliorācijas sistēmas būvniecības, ekspluatācijas un uzturēšanas izmaksas aprēķina, to sadales, kā arī norēķinu kārtību nosaka Ministru kabinets.
+(3) Gadījumos, kad koplietošanas meliorācijas sistēma nenodrošina meliorācijas sistēmu un hidrotehnisko būvju būvnormatīvos paredzēto ūdens režīmu un rada avārijas draudus, pašvaldība ir tiesīga nodrošināt koplietošanas meliorācijas sistēmas būvniecības, ekspluatācijas un uzturēšanas finansēšanu, iekasējot maksājumu no zemes īpašnieka vai tiesiskā valdītāja.

@@ -1,0 +1,2 @@
+32.pants. (1) Melioratīvā tehniskā dokumentācija satur lauksaimniecības zemes meliorācijas projektu dokumentāciju, hidrotehnisko būvju projektu rasējumus (oriģināli), ūdensnoteku un polderu projektu dokumentāciju, mežu meliorācijas projektus, meliorācijas nozares uzņēmumu ēku un būvju projektu dokumentāciju, kā arī dažādu ūdenssaimniecības izstrādņu dokumentāciju.
+(2) Melioratīvās tehniskās dokumentācijas arhīvu glabā valsts sabiedrība ar ierobežotu atbildību "Zemkopības ministrijas nekustamie īpašumi".
