@@ -1,0 +1,1 @@
+3.pants. Pensijas saņēmēja nāves gadījumā laika posmā no 2009.gada 1.jūlija līdz 2010.gada 31.janvārim viņam pienākošos (nesaņemto) pensijas daļu ir tiesības saņemt pensijas saņēmēja laulātajam, pirmās un otrās pakāpes radiniekiem, bet citai personai - uz mantojuma apliecības vai tiesas nolēmuma pamata.

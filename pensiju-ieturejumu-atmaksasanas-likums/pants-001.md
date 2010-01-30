@@ -1,0 +1,1 @@
+1.pants. Likuma mērķis ir atbilstoši Latvijas Republikas Satversmes tiesas 2009.gada 21.decembra spriedumam lietā Nr.2009-43-01 nodrošināt laika posmā no 2009.gada 1.jūlija līdz 2010.gada 31.janvārim likuma "Par valsts pensiju un valsts pabalstu izmaksu laika periodā no 2009.gada līdz 2012.gadam" 2. un 3.pantā noteikto pensiju ieturējumu atmaksāšanu.
