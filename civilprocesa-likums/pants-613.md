@@ -9,5 +9,6 @@
 5) par sūdzības par izsoles atzīšanu par spēkā neesošu noraidīšanu, ja šāda sūdzība ir iesniegta.
 (4) Noraidot pieteikumu, tiesa atzīst izsoli par spēkā neesošu.
 (5) Pēc ieguvēja lūguma tiesa lemj par viņa ievešanu iegūtā nekustamā īpašuma valdījumā.
+(5¹) Pēc tās bankas lūguma, kuras izsniegtā pieprasījuma garantijas vēstule izmantota pirkuma summas samaksai, tiesa lemj par ķīlas tiesības nodibināšanu uz pārdoto nekustamo īpašumu.
 (6) Par tiesas lēmumu var iesniegt blakus sūdzību.
 (7) Šajā pantā noteiktajā kārtībā tiesa apstiprina arī kuģa izsoles aktu.

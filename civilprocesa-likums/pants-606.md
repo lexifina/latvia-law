@@ -1,8 +1,5 @@
 606.pants. Nekustamā īpašuma izsoles izziņošana
-(1) Nekustamā īpašuma izsoli, ja šā likuma 604.pantā noteiktajā termiņā nav iesniegts lūgums par nekustamā īpašuma jaunu novērtēšanu vai tas ir noraidīts, tiesu izpildītājs izziņo:
-1) vismaz vienu mēnesi pirms izsoles, ja nekustamā īpašuma izsoles sākumcena nav augstāka par piecdesmit tūkstošiem latu;
-2) vismaz divus mēnešus pirms izsoles, ja nekustamā īpašuma izsoles sākumcena pārsniedz piecdesmit tūkstošus latu, bet nav augstāka par trīssimt tūkstošiem latu;
-3) vismaz trīs mēnešus pirms izsoles, ja nekustamā īpašuma izsoles sākumcena ir augstāka par trīssimt tūkstošiem latu.
+(1) Nekustamā īpašuma izsoli, ja šā likuma 604.pantā noteiktajā termiņā nav iesniegts lūgums par nekustamā īpašuma jaunu novērtēšanu vai tas ir noraidīts, tiesu izpildītājs izziņo vismaz vienu mēnesi pirms izsoles. Pēc piedzinēja lūguma izsoli var izziņot vismaz divus mēnešus pirms izsoles, bet ne vēlāk kā vienu mēnesi pirms izsoles.
 (2) Sludinājumu par nekustamā īpašuma izsoli tiesu izpildītājs publicē laikrakstā "Latvijas Vēstnesis" un vismaz divas nedēļas pirms izsoles izliek pie pārdodamā nekustamā īpašuma un tiesu izpildītāja prakses vietā.
 (3) Sludinājumā par nekustamā īpašuma izsoli norāda:
 1) nekustamā īpašuma īpašnieka un piedzinēja vārdu un uzvārdu, juridiskajām personām - nosaukumu un atrašanās vietu (juridisko adresi);

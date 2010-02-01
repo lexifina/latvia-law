@@ -1,0 +1,1 @@
+45. Ja hipotekārais kreditors, kuram par labu nostiprināta pirmā hipotēka, iebilst pret nekustamā īpašuma pārdošanu (pārejas noteikumu 44.punkts), tiesu izpildītājs uz vienu gadu, bet ne ilgāk kā līdz 2012.gada 31.decembrim atliek piedziņas vēršanu uz nekustamo īpašumu.
