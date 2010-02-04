@@ -11,4 +11,4 @@
 2) neatvērta testamenta apskatei, izņemšanai un šo testamentu apstiprinājušās personas pratināšanai par to;
 3) lai nopratinātu darbinieku un personu, kura procesa virzītāja vai izmeklēšanas iestādes uzdevumā veic speciālās izmeklēšanas darbības, ja šī persona nevēlas sniegt liecības.
 (4) Ārstniecības iestāde ziņas par pacientu sniedz tikai pēc procesa virzītāja rakstveida pieprasījuma.
-(5) Pirmstiesas procesā pieprasīt no kredītiestādēm to rīcībā esošās neizpaužamās ziņas vai dokumentus, kuri satur šādas ziņas, var tikai ar izmeklēšanas tiesneša atļauju.
+(5) Pirmstiesas procesā pieprasīt no kredītiestādēm vai finanšu iestādēm to rīcībā esošās neizpaužamās ziņas vai dokumentus, kuri satur šādas ziņas, drīkst tikai ar izmeklēšanas tiesneša lēmumu. Pirmstiesas procesā pārraudzīt darījumus kredītiestāžu vai finanšu iestāžu klientu kontos uz noteiktu laiku drīkst tikai ar izmeklēšanas tiesneša atļauju. Pārraudzīt darījumu kredītiestādes vai finanšu iestādes klienta kontā var uz laiku līdz trim mēnešiem, bet, ja nepieciešams, šo termiņu uz laiku līdz trim mēnešiem var pagarināt izmeklēšanas tiesnesis.

@@ -4,3 +4,4 @@
 1) atļaut Latvijas amatpersonai piedalīties procesuālās darbības veikšanā;
 2) paziņot procesuālās darbības veikšanas vietu un laiku;
 3) veikt procesuālo darbību, izmantojot tehniskos līdzekļus.
+(3) Ja ārvalsts pieprasa papildu informāciju, to sniedz kompetentā iestāde, nepieciešamības gadījumā konsultējoties ar lūguma iesniedzēju.

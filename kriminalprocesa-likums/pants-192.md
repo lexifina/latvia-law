@@ -1,2 +1,4 @@
-192.pants. Elektroniskajā informācijas sistēmā saglabāto datu atklāšana
-Procesa virzītājs, pamatojoties uz izmeklēšanas tiesneša lēmumu vai ar datu subjekta piekrišanu var pieprasīt, lai elektroniskās informācijas sistēmas īpašnieks vai likumīgais valdītājs atklāj informācijas sistēmā saglabātos datus.
+192.pants. Elektroniskajā informācijas sistēmā saglabāto datu atklāšana un izsniegšana
+(1) Izmeklētājs pirmstiesas kriminālprocesā ar prokurora vai ar datu subjekta piekrišanu un prokurors ar amatā augstāka prokurora vai ar datu subjekta piekrišanu var pieprasīt, lai elektronisko sakaru komersants atklāj un izsniedz Elektronisko sakaru likumā noteiktajā kārtībā saglabājamos datus.
+(2) Procesa virzītājs pirmstiesas kriminālprocesā, pamatojoties uz izmeklēšanas tiesneša lēmumu vai ar datu subjekta piekrišanu var rakstveidā pieprasīt, lai elektroniskās informācijas sistēmas īpašnieks, valdītājs vai turētājs atklāj un izsniedz šā likuma 191.pantā paredzētajā kārtībā saglabātos datus.
+(3) Iztiesājot krimināllietu, tiesnesis vai tiesas sastāvs var pieprasīt, lai elektronisko sakaru komersants atklāj un izsniedz Elektronisko sakaru likumā noteiktajā kārtībā saglabājamos datus vai elektroniskās informācijas sistēmas īpašnieks, valdītājs vai turētājs atklāj un izsniedz šā likuma 191.pantā paredzētajā kārtībā saglabātos datus.

@@ -19,5 +19,5 @@
 1) iepazīties ar visiem materiāliem kriminālprocesā, kurā iesniegts procesa virzītāja ierosinājums, personas sūdzība vai pieteikums, pieteikts noraidījums;
 2) pieprasīt no procesa virzītāja papildu informāciju kriminālprocesā, kurā tiek veiktas speciālās izmeklēšanas darbības vai piemērots ar brīvības atņemšanu saistīts drošības līdzeklis, kā arī noteikt termiņus speciālo izmeklēšanas darbību veikšanai;
 3) piemērot procesuālo sankciju par pienākumu nepildi vai kārtības neievērošanu pirmstiesas kriminālprocesā;
-4) ierosināt, lai amatpersonas, kuras pilnvarotas veikt kriminālprocesu, tiktu sodītas par cilvēktiesību aizskārumiem, kas pieļauti kriminālprocesuālo pilnvaru īstenošanas rezultātā.
+4) ierosināt, lai amatpersonas, kuras pilnvarotas veikt kriminālprocesu, tiktu sauktas pie atbildības par cilvēktiesību aizskārumiem, kas pieļauti kriminālprocesuālo pilnvaru īstenošanas rezultātā.
 (5) Izmeklēšanas tiesnesim var būt arī citas šajā likumā īpaši noteiktas tiesības un pienākumi.

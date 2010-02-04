@@ -7,3 +7,4 @@
 4) informāciju, kas var palīdzēt identificēt personu.
 (3) Lūgumā norāda arī citu informāciju, kas nepieciešama tā izpildei.
 (4) Ja krimināltiesiskajā sadarbībā ar Eiropas Savienības dalībvalstīm ir paredzēts īpašs dokuments, tā formu un saturu nosaka Ministru kabinets.
+(5) Kompetentā iestāde, nosūtot krimināltiesiskās sadarbības lūgumu, var lūgt ārvalsti nodrošināt lūgumā ietvertās informācijas konfidencialitāti.
