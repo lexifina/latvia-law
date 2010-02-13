@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2010. gada 2.februāra noteikumi Nr.103 „Transportlīdzekļu vadītāja tiesību iegūšanas un atjaunošanas kārtība un vadītāja apliecības izsniegšanas, apmaiņas, atjaunošanas un iznīcināšanas kārtība”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "25 (4217)",
+  "official_journal_page": null,
+  "official_journal_date": "2010-02-12",
+  "entry_into_force": "2010-02-13",
+  "notification_date": "2018-10-30",
+  "commission_reference": "MNE(2018)55791",
+  "nim_celex": "72015L0653LVA_264620",
+  "nim_id": "264620",
+  "transposes_celex": [
+    "32015L0653"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4a8ae6fa-cb81-489f-a259-54c65c64f997",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
