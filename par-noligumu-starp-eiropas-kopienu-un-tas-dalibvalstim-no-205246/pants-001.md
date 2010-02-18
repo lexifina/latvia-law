@@ -1,0 +1,1 @@
+1.pants. 2009.gada 11.septembrī Kleinmondā, Dienvidāfrikas Republikā, parakstītais Nolīgums starp Eiropas Kopienu un tās dalībvalstīm, no vienas puses, un Dienvidāfrikas Republiku, no otras puses, ar ko groza nolīgumu par tirdzniecību, attīstību un sadarbību (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
