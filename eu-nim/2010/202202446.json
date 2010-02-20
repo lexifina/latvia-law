@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2010. gada 16. februāra noteikumi Nr. 143 \"Noteikumi par radiofrekvenču spektra joslām, kuru efektīvas izmantošanas labad ir nepieciešams ierobežot radiofrekvenču spektra lietošanas tiesību piešķiršanu komercdarbībai elektronisko sakaru nozarē\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "29",
+  "official_journal_page": null,
+  "official_journal_date": "2010-02-19",
+  "entry_into_force": "2010-02-20",
+  "notification_date": "2022-04-08",
+  "commission_reference": "MNE(2022)02446",
+  "nim_celex": "72018L1972LVA_202202446",
+  "nim_id": "202202446",
+  "transposes_celex": [
+    "32018L1972"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a8d81d5a-c08d-11ec-b6f4-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
