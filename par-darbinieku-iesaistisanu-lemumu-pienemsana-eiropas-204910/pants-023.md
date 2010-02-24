@@ -1,0 +1,2 @@
+23.pants. Darbinieku līdzdalības noteikumi Eiropas komercsabiedrības vai Eiropas kooperatīvās sabiedrības juridiskās adreses pārcelšanas gadījumā
+Ja Eiropas komercsabiedrības vai Eiropas kooperatīvās sabiedrības juridisko adresi pārceļ uz Latviju un līdzdalības noteikumi ir attiecināmi uz Eiropas komercsabiedrību vai Eiropas kooperatīvo sabiedrību pirms juridiskās adreses pārcelšanas, šos līdzdalības noteikumus pilnā mērā piemēro arī pēc Eiropas komercsabiedrības vai Eiropas kooperatīvās sabiedrības juridiskās adreses pārcelšanas uz Latviju.

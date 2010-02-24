@@ -1,0 +1,2 @@
+22.pants. Darbinieku līdzdalības pamatnoteikumi pārveidošanas ceļā izveidotā Eiropas komercsabiedrībā vai Eiropas kooperatīvajā sabiedrībā
+Ja Eiropas komercsabiedrību vai Eiropas kooperatīvo sabiedrību izveido pārveidošanas ceļā un līdzdalības noteikumi ir attiecināmi uz dibinātāju sabiedrību pirms pārveidošanas, šos līdzdalības noteikumus turpina pilnā mērā piemērot arī pēc Eiropas komercsabiedrības vai Eiropas kooperatīvās sabiedrības reģistrācijas.

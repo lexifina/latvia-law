@@ -1,0 +1,5 @@
+25.pants. Eiropas kooperatīvās sabiedrības darbinieku piedalīšanās kopsapulcē
+Saskaņā ar regulas Nr. 1435/2003 59.panta ceturtajā daļā noteiktajiem ierobežojumiem Eiropas kooperatīvās sabiedrības darbinieki vai viņu pārstāvji ar balsstiesībām piedalās Eiropas kooperatīvās sabiedrības biedru kopsapulcē vai cita veida sapulcē (ja tāda ir), ja:
+1) speciālā sarunu grupa un dibinātājas sabiedrības par to vienojas šā likuma 15.pantā minētajā kārtībā;
+2) kooperatīvo sabiedrību, kurā noteiktas darbinieku balsstiesības šīs sabiedrības biedru kopsapulcē vai cita veida sapulcē (ja tāda ir), pārveido par Eiropas kooperatīvo sabiedrību;
+3) Eiropas kooperatīvā sabiedrība dibināta citādā, nevis pārveidošanas ceļā un dibinātājā sabiedrībā ir noteiktas darbinieku balsstiesības kooperatīvās sabiedrības biedru kopsapulcē vai cita veida sapulcē (ja tāda ir), bet speciālā sarunu grupa un dibinātājas sabiedrības nevar panākt šā likuma 15.pantā noteikto vienošanos šā likuma 11.pantā paredzētajā termiņā. Šādā gadījumā piemēro šā likuma 17.panta pirmās daļas 2.punktu un 22. un 23.pantu.

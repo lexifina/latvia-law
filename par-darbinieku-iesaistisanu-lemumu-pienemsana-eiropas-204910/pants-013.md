@@ -1,0 +1,3 @@
+13.pants. Speciālās sarunu grupas atkārtota sasaukšana
+(1) Speciālo sarunu grupu sasauc atkārtoti, ja to rakstveidā pieprasa vismaz 10 procenti Eiropas komercsabiedrības vai Eiropas kooperatīvās sabiedrības un no tās atkarīgo sabiedrību darbinieku vai viņu pārstāvji, taču ne agrāk kā divus gadus pēc šā likuma 12.pantā minētā lēmuma pieņemšanas, ja puses nav vienojušās par īsāku termiņu.
+(2) Ja speciālā sarunu grupa pieņem lēmumu atsākt sarunas ar Eiropas komercsabiedrības vai Eiropas kooperatīvās sabiedrības izpildinstitūciju (vadības institūciju), bet šo sarunu gaitā konkrēta vienošanās netiek panākta, šā likuma IV nodaļā minētos darbinieku iesaistīšanas pamatnoteikumus nepiemēro.
