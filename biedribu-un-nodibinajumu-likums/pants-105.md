@@ -6,7 +6,7 @@
 4) ja par nodibinājuma pamatdarbību kļuvusi saimnieciskā darbība, kam ir peļņas gūšanas raksturs;
 5) citos likumā noteiktajos gadījumos.
 (2) Šā panta pirmās daļas 1.punktā minētajā gadījumā pieteikumu par nodibinājuma darbības izbeigšanu iesniedz valde.
-(3) Šā panta pirmās daļas 2.-5.punktā minētajos gadījumos pieteikumu tiesā iesniedz prokurors vai Valsts ieņēmumu dienesta teritoriālā iestāde, ja nodibinājums:
+(3) Šā panta pirmās daļas 2.-5.punktā minētajos gadījumos pieteikumu tiesā iesniedz prokurors vai Valsts ieņēmumu dienests, ja nodibinājums:
 1) pēc rakstveida brīdinājuma saņemšanas šajā brīdinājumā noteiktajā termiņā nav novērsis pārkāpumus. Termiņš pārkāpumu novēršanai nosakāms ne īsāks par 15 dienām un ne garāks par trim mēnešiem;
 2) gada laikā pēc brīdinājuma saņemšanas atkārtoti izdara pārkāpumu, it īpaši savā publiskajā darbībā.
 (4) Pēc pieteicēja lūguma tiesa var aizliegt nodibinājumam līdz galīgā nolēmuma pieņemšanai lietā veikt publisko darbību vai citu darbību. Lēmumu var pārsūdzēt Civilprocesa likumā noteiktajā kārtībā.

@@ -1,6 +1,6 @@
 92.pants. Pieteikums par nodibinājuma ierakstīšanu reģistrā
 (1) Dibinātājs iesniedz reģistra iestādei pieteikumu par nodibinājuma ierakstīšanu reģistrā. Pieteikumā norāda šā likuma 15.panta 1.-6.punktā minētās ziņas.
-(2) Pieteikumu paraksta dibinātājs, bet, dibinot testamentāro nodibinājumu, - testamenta izpildītājs, mantinieks vai aizgādnis.
+(2) Pieteikumu paraksta visi nodibinājuma dibinātāji vai vismaz divi viņu pilnvaroti pārstāvji, bet, dibinot testamentāro nodibinājumu, - testamenta izpildītājs, mantinieks vai aizgādnis.
 (3) Pieteikumam pievieno:
 1) lēmumu par dibināšanu;
 2) statūtus;

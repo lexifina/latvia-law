@@ -3,5 +3,5 @@
 (2) Pieteikumam pievieno:
 1) lēmumu par biedrības dibināšanu;
 2) statūtus;
-3) valdes locekļu sarakstu.
+3) katra valdes locekļa rakstveida piekrišanu būt par valdes locekli.
 (3) Pieteikumu paraksta visi dibinātāji vai vismaz divi viņu pilnvaroti pārstāvji.

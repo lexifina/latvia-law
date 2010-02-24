@@ -1,4 +1,4 @@
 14.pants. Reģistra atklātums
 (1) Ikvienam ir tiesības iepazīties ar reģistra ierakstiem un reģistra iestādei iesniegtajiem dokumentiem.
-(2) Ikvienam pēc attiecīga rakstveida pieprasījuma iesniegšanas un valsts nodevas samaksas ir tiesības saņemt izziņu no reģistra ierakstiem, kā arī reģistra lietā esoša dokumenta izrakstu vai kopiju. Pēc saņēmēja pieprasījuma izraksta vai kopijas pareizība apliecināma ar reģistra iestādes amatpersonas parakstu un zīmogu, norādot tās izsniegšanas datumu. Ziņas par valdes locekļu, likvidatora un administratora personas kodu reģistrs sniedz tikai tad, ja persona pierāda savu interešu pamatotību.
+(2) Ikvienam pēc attiecīga rakstveida pieprasījuma iesniegšanas un valsts nodevas samaksas ir tiesības saņemt izziņu no reģistra ierakstiem, kā arī reģistra lietā esoša dokumenta izrakstu vai kopiju. Pēc saņēmēja pieprasījuma izraksta vai kopijas pareizība apliecināma ar reģistra iestādes amatpersonas parakstu un zīmogu, norādot tās izsniegšanas datumu.
 (3) Pēc saņēmēja pieprasījuma reģistra iestādes amatpersona izsniedz izziņu par to, ka noteikts reģistra ieraksts nav grozīts, vai arī par to, ka reģistrā nav izdarīts noteikts ieraksts.

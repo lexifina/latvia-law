@@ -1,0 +1,1 @@
+4. Grozījums šā likuma 6.panta trešajā daļā par nosaukumu atšķiramību no citos reģistra iestādes reģistros jau ierakstītajiem nosaukumiem neskar biedrību un nodibinājumu tiesības uz nosaukumu, kas ierakstīts reģistrā līdz šo grozījumu spēkā stāšanās dienai.

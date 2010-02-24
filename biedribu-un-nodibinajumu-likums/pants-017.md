@@ -1,6 +1,6 @@
 17.pants. Ieraksta izdarīšana reģistrā
 (1) Ieraksts reģistrā tiek izdarīts uz pieteikuma vai tiesas nolēmuma pamata. Pieteikumu veidlapas apstiprina Ministru kabinets.
-(2) Pieteikumu par biedrības ierakstīšanu reģistrā paraksta visi dibinātāji vai vismaz divas dibināšanas sapulcē pilnvarotas personas, par nodibinājuma (fonda) ierakstīšanu - visi dibinātāji, bet attiecībā uz testamentāro nodibinājumu - testamenta izpildītājs, mantinieks vai aizgādnis.
+(2) Pieteikumu par biedrības vai nodibinājuma ierakstīšanu reģistrā paraksta visi dibinātāji vai vismaz divas dibināšanas sapulcē pilnvarotas personas, bet attiecībā uz testamentāro nodibinājumu - testamenta izpildītājs, mantinieks vai aizgādnis.
 (3) Lēmumu par ieraksta izdarīšanu reģistrā, atteikumu izdarīt ierakstu vai ieraksta izdarīšanas atlikšanu reģistra iestādes amatpersona pieņem septiņu dienu laikā no pieteikuma saņemšanas dienas. Tādā pašā termiņā reģistra iestādes amatpersona pieņem lēmumu par ieraksta izdarīšanu reģistrā uz tiesas nolēmuma pamata.
 (4) Lēmumu par ieraksta izdarīšanas atlikšanu reģistra iestādes amatpersona pieņem, ja:
 1) izstrādājot statūtus vai izvēloties nosaukumu, nav ievērotas šā likuma un citu likumu prasības;

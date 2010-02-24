@@ -4,7 +4,7 @@
 2) ja par biedrības pamatdarbību kļuvusi saimnieciskā darbība, kam ir peļņas gūšanas raksturs;
 3) ja biedrības valde nav iesniegusi pieteikumu par biedrības darbības izbeigšanu saskaņā ar šo likumu;
 4) citos likumā noteiktajos gadījumos.
-(2) Pieteikumu tiesā var iesniegt prokurors vai Valsts ieņēmumu dienesta teritoriālā iestāde, ja biedrība:
+(2) Pieteikumu tiesā var iesniegt prokurors vai Valsts ieņēmumu dienests, ja biedrība:
 1) pēc rakstveida brīdinājuma saņemšanas šajā brīdinājumā noteiktajā termiņā nav novērsusi pārkāpumus. Termiņš pārkāpumu novēršanai nosakāms ne īsāks par 15 dienām un ne garāks par trim mēnešiem;
 2) gada laikā pēc brīdinājuma saņemšanas atkārtoti izdara pārkāpumu, it īpaši savā publiskajā darbībā.
 (3) Pēc pieteicēja lūguma tiesa var aizliegt biedrībai līdz galīgā nolēmuma pieņemšanai lietā veikt publisko darbību vai citu darbību. Lēmumu var pārsūdzēt Civilprocesa likumā noteiktajā kārtībā.

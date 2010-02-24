@@ -1,0 +1,1 @@
+3. Grozījums šā likuma 6.panta trešajā daļā stājas spēkā vienlaikus ar grozījumiem likumā "Par Latvijas Republikas Uzņēmumu reģistru", kas paredz nosaukumu veidošanā un reģistrācijā ievērot nosacījumu, ka reģistrācijai pieteiktais nosaukums nedrīkst sakrist ar reģistra iestādes reģistros ierakstīšanai pieteiktu vai ierakstītu nosaukumu.
