@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums \"Par darbinieku iesaistīšanu lēmumu pieņemšanā Eiropas komercsabiedrībā, Eiropas kooperatīvajā sabiedrībā un kapitālsabiedrību pārrobežu reorganizācijas gadījumā\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "23",
+  "official_journal_page": null,
+  "official_journal_date": "2010-02-10",
+  "entry_into_force": "2010-02-24",
+  "notification_date": "2023-06-05",
+  "commission_reference": "MNE(2023)03111",
+  "nim_celex": "72019L2121LVA_202303111",
+  "nim_id": "202303111",
+  "transposes_celex": [
+    "32019L2121"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ee7bd27a-0695-11ee-b12e-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
