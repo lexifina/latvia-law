@@ -1,4 +1,0 @@
-35.pants. Speciālās sarunu grupas locekļu, pārstāvniecības komitejas locekļu un darbinieku pārstāvju tiesības un pienākumi
-(1) Uz speciālās sarunu grupas locekļiem, pārstāvniecības komitejas locekļiem un darbinieku pārstāvjiem informēšanas un konsultēšanas pienākumu pildīšanas laikā attiecināmas tādas pašas tiesības un pienākumi, kādi Darba likumā noteikti darbinieku pilnvarotajiem pārstāvjiem.
-(2) Speciālās sarunu grupas locekļiem, pārstāvniecības komitejas locekļiem un darbinieku pārstāvjiem piešķir atvaļinājumu, lai viņi varētu pildīt informēšanas un konsultēšanas pienākumus, par šo laikposmu saglabājot vidējo izpeļņu.
-(3) Attiecībā uz speciālās sarunu grupas locekļiem, pārstāvniecības komitejas locekļiem un darbinieku pārstāvjiem puses var vienoties par labvēlīgākiem nosacījumiem, nekā noteikts šajā pantā.
