@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2010.gada 25.februāra starp Ekonomikas ministriju un nevalstiskajām organizācijām parakstītais sadarbības memorands par efektīvas un atklātas sadarbības veidošanu, informējot par mājokļu renovācijas procesu",
+  "type_of_act": "Administrative measures",
+  "official_journal": "Administrative measures",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2010-02-25",
+  "entry_into_force": "2010-02-25",
+  "notification_date": null,
+  "commission_reference": "MNE(2013)52533",
+  "nim_celex": "72009L0028LVA_202887",
+  "nim_id": "202887",
+  "transposes_celex": [
+    "32009L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bf0bcd7f-5fde-49c8-9be2-5e325173980b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
