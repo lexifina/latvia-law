@@ -1,1 +1,1 @@
-6. Mēslošanas līdzekļu ražotājs, šo līdzekļu maisījumu gatavotājs, iepakotājs vai ievedējs iesniedz dienestam šā likuma 5.panta pirmās daļas 1.punktā noteikto iesniegumu par mēslošanas līdzekļu ar EK marķējumu uzskaiti, sākot ar 2010.gada 1.janvāri.
+6. Mēslošanas līdzekļu ražotājs, šo līdzekļu maisījumu gatavotājs, iepakotājs vai ievedējs iesniedz dienestam šā likuma 5.panta pirmās daļas 1.punktā noteikto iesniegumu par mēslošanas līdzekļu ar EK marķējumu uzskaiti, sākot ar 2013.gada 1.janvāri.
