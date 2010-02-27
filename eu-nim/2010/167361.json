@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Kārtība, kādā valsts pārvaldes iestādes sniedz informāciju par tehnisko noteikumu projektiem",
+  "type_of_act": "Ministrijas instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "33",
+  "official_journal_page": null,
+  "official_journal_date": "2010-02-26",
+  "entry_into_force": "2010-02-27",
+  "notification_date": "2010-03-03",
+  "commission_reference": "MNE(2010)51603",
+  "nim_celex": "71998L0034LVA_167361",
+  "nim_id": "167361",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/641a4cd1-a2ba-418d-8445-528ad29f9370",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
