@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Pacientu tiesību likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "205",
+  "official_journal_page": null,
+  "official_journal_date": "2009-12-30",
+  "entry_into_force": "2010-03-01",
+  "notification_date": "2014-08-19",
+  "commission_reference": "MNE(2014)54845",
+  "nim_celex": "72011L0024LVA_219066",
+  "nim_id": "219066",
+  "transposes_celex": [
+    "32011L0024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c3af07c1-3c93-4610-8133-0b448b13828c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
