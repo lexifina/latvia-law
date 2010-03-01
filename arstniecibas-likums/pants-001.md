@@ -1,5 +1,5 @@
 1.pants. Likumā ir lietoti šādi termini:
-1) ārstniecība - profesionāla un individuāla slimību profilakse, diagnostika, ārstēšana, pacientu rehabilitācija un aprūpe;
+1) ārstniecība - profesionāla un individuāla slimību profilakse, diagnostika un ārstēšana, medicīniskā rehabilitācija un pacientu aprūpe;
 2) ārstniecības personas - personas, kam ir medicīniskā izglītība un kas nodarbojas ar ārstniecību;
 3) ārstniecības iestādes - ārstu prakses, valsts un pašvaldību iestādes, komercsabiedrības, kas reģistrētas ārstniecības iestāžu reģistrā, atbilst normatīvajos aktos noteiktajām obligātajām prasībām ārstniecības iestādēm un to struktūrvienībām un nodrošina ārstniecības pakalpojumus;
 4) ārstniecības personas sertifikāts - Latvijas Ārstniecības personu profesionālo organizāciju savienības, Latvijas Ārstu biedrības vai Latvijas Medicīnas māsu asociācijas izsniegts dokuments, kas apliecina attiecīgās personas profesionālo sagatavotību un norāda, ka ārstniecības persona kā speciālists ir kompetenta patstāvīgi nodarboties ar ārstniecību (speciālista praksi) konkrētajā nozarē;
@@ -9,7 +9,7 @@
 8) medicīniskā izglītība - likumā noteiktajā kārtībā atzītai izglītības programmai atbilstošs zināšanu un prasmju kopums, ko apliecina izglītības iestādes izsniegts izglītības dokuments;
 9) medicīniskās tehnoloģijas - ārstniecībā izmantojamās metodes un medicīniskās ierīces;
 10) neatliekamā medicīniskā palīdzība - palīdzība, ko cietušajiem (saslimušajiem) dzīvībai vai veselībai bīstamā kritiskā stāvoklī sniedz šādiem gadījumiem īpaši sagatavotas (apmācītas, ekipētas) personas ar atbilstošu kvalifikāciju medicīnā, kurām saskaņā ar šo kvalifikāciju ir juridiska atbildība par savu darbību vai bezdarbību un tās sekām;
-11) pacients - persona, kas tiek ārstēta vai kas ir reģistrēta pie kādas no ārstniecības personām un, ja nepieciešams, tiek ārstēta;
+11) pacients - persona, kas saņem veselības aprūpes pakalpojumus vai vēršas pēc tiem;
 12) pacientu aprūpe - veselības aprūpes sastāvdaļa, kas ir tieši vai netieši saistīta ar sabiedrības, ģimenes vai personas veselības uzturēšanu, veicināšanu, aizsardzību un atgūšanu;
 13) pirmā palīdzība - palīdzība, ko cietušajiem (saslimušajiem) dzīvībai vai veselībai kritiskā stāvoklī savu zināšanu un iespēju apjomā sniedz personas ar kvalifikāciju medicīnā vai bez tās neatkarīgi no sagatavotības un ekipējuma;
 14) medicīniskā rehabilitācija - medicīnas nozare, kas nodarbojas ar cilvēka fiziskā, psiholoģiskā, sociālā, aroda un izglītības potenciāla attīstīšanu vai atgūšanu atbilstoši viņa fizioloģiskajiem vai anatomiskajiem ierobežojumiem, vai - stabilu veselības traucējumu gadījumā - ar pacienta dzīves pielāgošanu videi un sabiedrībai;
