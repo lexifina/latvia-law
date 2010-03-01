@@ -1,2 +1,2 @@
 9.pants
-Savā darbībā prakses ārsts ir brīvs. Prakses ārsta un pacienta attiecības ārstēšanas laikā nosaka abu šo personu vienošanās un savstarpēja uzticība. Prakses ārsts var atteikties no ārstēšanas, ja ir pārliecināts, ka starp viņu un pacientu nav pietiekamas uzticības. Minētās tiesības neattiecas uz gadījumiem, kad ārstēšanas novilcināšana var apdraudēt pacienta dzīvību vai neatgriezeniski apdraudēt viņa veselību.
+Savā darbībā prakses ārsts ir brīvs.
