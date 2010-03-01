@@ -1,0 +1,14 @@
+11.pants. Pacienta līdzdalība klīniskajā pētījumā
+(1) Pacientu iesaista klīniskajā pētījumā, kas apstiprināts atbilstoši kārtībai, kāda noteikta normatīvajos aktos par klīniskajiem pētījumiem, ja ir saņemta viņa rakstveida informētā piekrišana un klīnisko pētījumu veic, vienlaikus pastāvot šādiem nosacījumiem:
+1) paredzamais risks ir izvērtēts attiecībā uz prognozējamo pacienta, kā arī citu esošo vai nākamo pacientu ieguvumu;
+2) nepastāv alternatīva, ka salīdzināmu efektu varētu iegūt citādā veidā;
+3) ārstnieciskais ieguvums, kā arī ieguvums sabiedrības veselības labā attaisno risku, kas varētu draudēt pacientam.
+(2) Ja pacients nespēj paust savu gribu, tiesības piekrist viņa iesaistīšanai klīniskajā pētījumā ir pacienta laulātajam vai tuvākajiem radiniekiem, kas savu piekrišanu apstiprina rakstveidā šā likuma 7.panta pirmajā daļā noteiktajā kārtībā, vienlaikus pastāvot šā panta pirmās daļas 2.punktā noteiktajam un šādiem nosacījumiem:
+1) klīniskā pētījuma rezultāti var dot reālu un tiešu labumu pacienta veselībai;
+2) nav iespējams ar pacientiem, kuri spēj paust savu gribu, veikt pētījumu, kas dotu salīdzināmu efektu;
+3) pacients nav izteicis iebildumus pret viņa iesaistīšanu klīniskajā pētījumā.
+(3) Ja pacients atrodas aizbildnībā vai aizgādnībā, rakstveida piekrišanu viņa iesaistīšanai klīniskajā pētījumā, vienlaikus pastāvot šā panta pirmās daļas 2.punktā un otrās daļas 1. un 2.punktā minētajiem nosacījumiem, dod pacienta likumiskais pārstāvis, ievērojot viņa gribu. Piekrišana nepilngadīga pacienta iesaistīšanai klīniskajā pētījumā iegūstama šā likuma 13.pantā norādītajā kārtībā.
+(4) Pirms iesaistīšanas klīniskajā pētījumā pacientam sniedz informāciju par attiecīgo klīnisko pētījumu, tā mērķi, metodēm, ilgumu, paredzamo ieguvumu, risku un klīniskā pētījuma veikšanas nosacījumiem, kā arī par tiesībām jebkurā laikā atteikties no dalības klīniskajā pētījumā un par citām tiesībām.
+(5) Ja pacients nespēj paust savu gribu, tad šā panta ceturtajā daļā minēto informāciju sniedz personai, kas devusi piekrišanu pacienta iesaistīšanai klīniskajā pētījumā.
+(6) Pacientam vai, ja viņš nespēj paust savu gribu, personai, kas devusi piekrišanu pacienta iesaistīšanai pētījumā, ir tiesības atteikties no pacienta piedalīšanās klīniskajā pētījumā, kā arī jebkurā laikā pārtraukt piedalīšanos tajā. Atteikšanās piedalīties vai piedalīšanās pārtraukšana nedrīkst nelabvēlīgi ietekmēt ārstniecības personu attieksmi pret pacienta turpmāko ārstniecību.
+(7) Klīniskajos pētījumos iegūtās ziņas par pacientu atļauts izmantot, ja no pacienta vai, ja viņš nespēj paust savu gribu, no personas, kas devusi piekrišanu pacienta iesaistīšanai pētījumā, saņemta attiecīga piekrišana un tiek garantēta pacienta anonimitāte.

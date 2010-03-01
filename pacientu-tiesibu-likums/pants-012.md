@@ -1,0 +1,4 @@
+12.pants. Pacienta līdzdalība klīniskās apmācības procesā
+(1) Ja ārstniecības iestāde vai ārstniecības persona, kas nodrošina pacienta ārstniecību, ir iesaistīta klīniskās apmācības procesā, pacientu par to informē.
+(2) Pacientam vai, ja viņš nespēj paust savu gribu, personai, kas devusi piekrišanu pacienta ārstniecībai, ir tiesības atteikties no piedalīšanās klīniskās apmācības procesā, kā arī jebkurā laikā pārtraukt piedalīšanos tajā. Atteikšanās piedalīties vai piedalīšanās pārtraukšana nedrīkst nelabvēlīgi ietekmēt ārstniecības personu attieksmi pret pacienta turpmāko ārstniecību.
+(3) Klīniskās apmācības procesā iegūtās ziņas par pacientu atļauts izmantot, ja no pacienta vai, ja viņš nespēj paust savu gribu, no personas, kas devusi piekrišanu pacienta iesaistīšanai apmācībā, saņemta attiecīga piekrišana un tiek garantēta pacienta datu aizsardzība vai viņa anonimitāte.

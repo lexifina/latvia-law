@@ -1,0 +1,8 @@
+6.pants. Piekrišana ārstniecībai vai atteikšanās no tās
+(1) Ārstniecība ir pieļaujama, ja pacients devis tai informēto piekrišanu. Pacientam ir tiesības pirms informētās piekrišanas došanas uzdot jautājumus un saņemt atbildes.
+(2) Informēto piekrišanu noformē rakstveidā, ja to pieprasa pacients vai ārstējošais ārsts.
+(3) Ja informētā piekrišana dota rakstveidā, pacients apstiprina to ar savu parakstu, norādot datumu un laiku. Rakstveida piekrišanu pievieno viņa medicīniskajam dokumentam.
+(4) Pacientam ir tiesības atteikties no ārstniecības pirms tās uzsākšanas, no ārstniecībā izmantojamās metodes, neatsakoties no ārstniecības kopumā, vai atteikties no ārstniecības tās laikā.
+(5) Ārstējošais ārsts informē pacientu par šā panta ceturtajā daļā minētā lēmuma iespējamām sekām. Pēc ārstējošā ārsta sniegtās informācijas saņemšanas pacients ar savu parakstu apstiprina lēmumu par atteikšanos no ārstniecības vai par tās pārtraukšanu, vai par atteikšanos no ārstniecībā izmantojamās metodes, norādot, ka ir saņēmis attiecīgo informāciju. Ja pacients savu lēmumu nemaina, ārstējošā ārsta pienākums ir mudināt viņu apmeklēt citu ārstu.
+(6) Ja pacients atsakās rakstveidā apliecināt atteikšanos, ārstējošais ārsts pieaicina divus pilngadīgus un rīcībspējīgus lieciniekus, kuri ar savu parakstu apliecina, ka pacients ir pieņēmis šā panta ceturtajā daļā minēto lēmumu.
+(7) Ja pacients pilnvarojis citu personu (turpmāk - pacienta pilnvarotā persona) viņa vietā piekrist ārstniecībai kopumā vai ārstniecībā izmantojamai metodei vai atteikties no ārstniecības kopumā vai ārstniecībā izmantojamās metodes, kā arī saņemt informāciju saskaņā ar šā likuma 4.pantā noteikto, pacients informē ārstniecības iestādi par šādu pilnvarojumu.
