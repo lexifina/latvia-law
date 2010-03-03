@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Enerģijas galapatēriņa efektivitātes likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "27 (4219)",
+  "official_journal_page": null,
+  "official_journal_date": "2010-02-17",
+  "entry_into_force": "2010-03-03",
+  "notification_date": "2013-04-04",
+  "commission_reference": "MNE(2013)52446",
+  "nim_celex": "72009L0028LVA_202780",
+  "nim_id": "202780",
+  "transposes_celex": [
+    "32009L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9be27fc3-6115-4a36-a589-d2cb05638f18",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
