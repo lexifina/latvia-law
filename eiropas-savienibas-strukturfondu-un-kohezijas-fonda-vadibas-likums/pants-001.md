@@ -8,4 +8,4 @@ Likumā ir lietoti šādi termini:
 6) Eiropas Savienības fondu projektu iesniegumu vērtēšanas kritēriji- noteicošie rādītāji, saskaņā ar kuriem vērtē Eiropas Savienības fondu projektu iesniegumus un pieņem lēmumu par to apstiprināšanu, apstiprināšanu ar nosacījumu vai noraidīšanu;
 7) Eiropas Savienības fonda projekts - Eiropas Savienības fonda projekta iesniegums, kas atbilst projektu iesniegumu vērtēšanas kritērijiem un ko apstiprinājusi Eiropas Savienības fonda vadībā iesaistītā institūcija;
 8) plānošanas dokumenti - valsts stratēģiskais ietvardokuments, darbības programma un darbības programmas papildinājums;
-9) sadarbības iestāde - valsts aģentūra vai Sabiedrības integrācijas fonds, kas Ministru kabineta noteiktajā kārtībā īsteno daļu no starpniekinstitūcijas funkcijām.
+9) sadarbības iestāde - tiešās valsts pārvaldes iestāde vai Sabiedrības integrācijas fonds, kas Ministru kabineta noteiktajā kārtībā īsteno daļu no starpniekinstitūcijas funkcijām.
