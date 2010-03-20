@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2010.gada 16.marta noteikumi Nr.248 \"Kārtība, kādā komersanti sniedz informāciju par degvielas mazumtirdzniecības cenām\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "45 (4237)",
+  "official_journal_page": null,
+  "official_journal_date": "2010-03-19",
+  "entry_into_force": "2010-03-20",
+  "notification_date": "2014-12-10",
+  "commission_reference": "MNE(2014)56824",
+  "nim_celex": "72009L0119LVA_221752",
+  "nim_id": "221752",
+  "transposes_celex": [
+    "32009L0119"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6ab5d78d-2e06-4bf9-8e93-280992136eae",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
