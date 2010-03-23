@@ -12,7 +12,7 @@
 11) Sabiedrība ar ierobežotu atbildību "Biznesa augstskola "Turība"" (juridiskā adrese - Rīgā, Graudu ielā 68);
 12) Sociālā darba un sociālās pedagoģijas augstskola "Attīstība" (juridiskā adrese - Rīgā, Eiženijas ielā 1);
 13) Rīgas Ekonomikas augstskola (juridiskā adrese - Rīgā, Strēlnieku ielā 4a);
-14) Latvijas Policijas akadēmija (juridiskā adrese - Rīgā, Ezermalas ielā 8);
+14) (izslēgts ar 18.02.2010. likumu);
 15) Latvijas Republikas Nacionālās aizsardzības akadēmija (juridiskā adrese - Rīgā, Ezermalas ielā 8);
 16) Latvijas Medicīnas akadēmija (juridiskā adrese - Rīgā, Dzirciema ielā 16);
 17) Latvijas Lauksaimniecības universitāte (juridiskā adrese - Jelgavā, Lielā ielā 2);
