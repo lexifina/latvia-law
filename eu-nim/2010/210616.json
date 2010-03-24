@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2010.gada 16.marta noteikumi Nr.254 „Ātri sasaldētu pārtikas produktu aprites noteikumi”.",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "46 (4238)",
+  "official_journal_page": null,
+  "official_journal_date": "2010-03-23",
+  "entry_into_force": "2010-03-24",
+  "notification_date": "2013-11-14",
+  "commission_reference": "MNE(2013)58988",
+  "nim_celex": "72013L0020LVA_210616",
+  "nim_id": "210616",
+  "transposes_celex": [
+    "32013L0020"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c263d7bf-a63f-4328-a623-06bb0bd9107c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
