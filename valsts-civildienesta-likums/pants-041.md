@@ -12,5 +12,6 @@ h) sakarā ar to, ka viņš pārejošas darbnespējas dēļ nav pildījis amata 
 i) atbrīvošanu no ierēdņa amata piemērojot kā disciplinārsodu,
 j) sakarā ar ievēlēšanu amatā valsts vai pašvaldības iestādē,
 k) (izslēgts ar 24.05.2007. likumu),
-l) sakarā ar tiesas spriedumu krimināllietā;
+l) sakarā ar tiesas spriedumu krimināllietā,
+m) sakarā ar to, ka nespēj veikt amata pienākumus veselības stāvokļa dēļ, un to apliecina ārsta atzinums;
 2) sakarā ar ierēdņa nāvi.
