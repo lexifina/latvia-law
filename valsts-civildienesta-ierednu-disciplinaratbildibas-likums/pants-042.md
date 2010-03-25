@@ -1,0 +1,3 @@
+42.pants. Politiskās neitralitātes neievērošana
+(1) Par politiskās neitralitātes neievērošanu, veicot amata pienākumus, izsaka rājienu, samazina mēnešalgu uz laiku no trim mēnešiem līdz vienam gadam, ieturot līdz 20 procentiem no mēnešalgas, vai pazemina amatā uz laiku līdz trim gadiem.
+(2) Par tādu pašu disciplinārpārkāpumu, ja tā dēļ valstij vai personai nodarīts būtisks mantisks zaudējums vai valsts interesēm būtisks kaitējums, vai personai būtisks personisks kaitējums, pazemina amatā uz laiku līdz trim gadiem, atbrīvo no amata vai atbrīvo no amata bez tiesībām vienu gadu pretendēt uz amatu valsts pārvaldē.
