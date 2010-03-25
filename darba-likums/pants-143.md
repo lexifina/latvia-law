@@ -7,3 +7,4 @@
 2) lai novērstu nepārvaramas varas, nejauša notikuma vai citu ārkārtēju apstākļu izraisītas sekas, kas nelabvēlīgi ietekmē vai var ietekmēt parasto darba gaitu uzņēmumā;
 3) steidzama, iepriekš neparedzēta darba pabeigšanai noteiktā laikā.
 (5) Saskaņā ar šā panta ceturtās daļas noteikumiem aizliegts nodarbināt personas, kuras ir jaunākas par 18 gadiem, grūtnieces un sievietes pēcdzemdību periodā līdz vienam gadam, bet, ja sieviete baro bērnu ar krūti, - visā barošanas laikā.
+(6) Ja darba devējs vienu darba dienu, kas iekrīt starp svētku dienu un nedēļas atpūtas laiku, nosaka par brīvdienu un pārceļ to uz sestdienu tajā pašā nedēļā vai citā nedēļā tā paša mēneša ietvaros, nedēļas atpūtas laika ilgums nedrīkst būt īsāks par 35 stundām pēc kārtas.

@@ -5,3 +5,4 @@
 (4) Darbinieka atteikšanās pāriet no normālā darba laika uz nepilnu darba laiku vai otrādi pati par sevi nevar būt par pamatu darba līguma uzteikumam vai citādai darbinieka tiesību ierobežošanai. Šis noteikums neierobežo darba devēja tiesības uzteikt darba līgumu, ja šāds uzteikums ir pietiekami pamatots ar neatliekamu saimniecisku, organizatorisku, tehnoloģisku vai līdzīga rakstura pasākumu veikšanu uzņēmumā.
 (5) Darba devējs pēc darbinieka pieprasījuma pārceļ viņu no normālā darba laika uz nepilnu darba laiku vai otrādi, ja uzņēmumā pastāv šāda iespēja.
 (6) Darba devējs informē darbinieku pārstāvjus par iespējām uzņēmumā nodarbināt darbiniekus nepilnu darba laiku, ja darbinieku pārstāvji šādu informāciju pieprasa.
+(7) Ja darbiniekam noteikts nepilns darba laiks, viņa nodarbināšana virs šā darba laika ir pieļaujama, pamatojoties uz darba devēja un darbinieka rakstveida vienošanos.

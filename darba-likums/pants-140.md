@@ -1,5 +1,6 @@
 140.pants. Summētais darba laiks
-(1) Ja darba rakstura dēļ nav iespējams ievērot attiecīgajai darbinieku kategorijai noteikto normālo dienas vai nedēļas darba laika ilgumu, darba devējs pēc konsultēšanās ar darbinieku pārstāvjiem nosaka summēto darba laiku.
-(2) Summētais darba laiks nedrīkst pārsniegt 56 stundas nedēļā un 160 stundas četru nedēļu periodā, ja darba koplīgumā vai darba līgumā nav noteikts citādi.
-(3) Darbs, kuru darbinieks veicis virs šā panta otrajā daļā noteiktā laika, uzskatāms par virsstundu darbu.
-(4) Ja ir noteikts summētais darba laiks, atpūtas laiku darbiniekam piešķir saskaņā ar darba grafiku.
+(1) Ja darba rakstura dēļ nav iespējams ievērot attiecīgajam darbiniekam noteikto normālo dienas vai nedēļas darba laika ilgumu, darba devējs pēc konsultēšanās ar darbinieku pārstāvjiem nosaka summēto darba laiku, lai darba laiks pārskata periodā nepārsniegtu attiecīgajam darbiniekam noteikto normālo darba laiku. Ja darbiniekam ir noteikts summētais darba laiks, darba devējam ir pienākums par to rakstveidā informēt darbinieku, norādot pārskata perioda ilgumu, kā arī laikus iepazīstināt darbinieku ar darba grafiku.
+(2) Ja darba koplīgumā vai darba līgumā nav noteikts garāks pārskata periods, summētā darba laika pārskata periods ir viens mēnesis. Darbinieks un darba devējs darba līgumā var vienoties par pārskata perioda ilgumu, taču ne ilgāku par trim mēnešiem, bet koplīgumā - ne ilgāku par 12 mēnešiem.
+(3) Summētā darba laika ietvaros jebkurā gadījumā aizliegts nodarbināt darbinieku ilgāk par 24 stundām pēc kārtas un 56 stundām nedēļā.
+(4) Darbs, kuru darbinieks veic virs pārskata periodā noteiktā normālā darba laika, uzskatāms par virsstundu darbu.
+(5) Ja ir noteikts summētais darba laiks, atpūtas laiku darbiniekam piešķir nekavējoties pēc darba veikšanas.

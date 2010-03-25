@@ -3,7 +3,7 @@
 (2) Ja darba rezultāti un kvalifikācija būtiski neatšķiras, priekšrocības palikt darbā ir tiem darbiniekiem:
 1) kuri pie attiecīgā darba devēja nostrādājuši ilgāku laiku;
 2) kuri pie attiecīgā darba devēja cietuši nelaimes gadījumā darbā vai saslimuši ar arodslimību;
-3) kuri audzina bērnu vecumā līdz 14 gadiem vai bērnu invalīdu vecumā līdz 16 gadiem;
+3) kuri audzina bērnu vecumā līdz 14 gadiem vai bērnu invalīdu vecumā līdz 18 gadiem;
 4) kuriem ir divi vai vairāki apgādājamie;
 5) kuru ģimenes locekļiem nav pastāvīga ienākuma;
 6) kuri ir invalīdi vai slimo ar staru slimību;

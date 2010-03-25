@@ -1,2 +1,2 @@
 71.pants. Darba samaksas aprēķins
-Izmaksājot darba samaksu, darba devējs izsniedz rakstveidā sagatavotu darba samaksas aprēķinu. Pēc darbinieka pieprasījuma darba devējam ir pienākums šo aprēķinu izskaidrot.
+Izmaksājot darba samaksu, darba devējs izsniedz darba samaksas aprēķinu, kurā norādīta izmaksātā darba samaksa, ieturētie nodokļi un veiktās valsts sociālās apdrošināšanas obligātās iemaksas, kā arī nostrādātās stundas, tajā skaitā virsstundas, nakts laikā un svētku dienās nostrādātās stundas. Pēc darbinieka pieprasījuma darba devējam ir pienākums šo aprēķinu izskaidrot.

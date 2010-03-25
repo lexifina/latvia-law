@@ -1,5 +1,5 @@
 40.pants. Darba līguma forma
-(1) Darba līgums slēdzams rakstveidā.
+(1) Darba līgums slēdzams rakstveidā pirms darba uzsākšanas.
 (2) Darba līgumā norāda:
 1) darbinieka vārdu, uzvārdu, personas kodu, dzīvesvietu, darba devēja vārdu, uzvārdu (nosaukumu), reģistrācijas numuru un adresi;
 2) darba tiesisko attiecību sākuma datumu;

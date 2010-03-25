@@ -6,7 +6,8 @@
 4) gadījuma darbu, kas uzņēmumā parasti netiek veikts;
 5) noteiktu pagaidu darbu, kas saistīts ar uzņēmuma darbības apjoma īslaicīgu paplašināšanos vai ražošanas apjoma pieaugumu;
 6) neatliekamu darbu, lai novērstu nepārvaramas varas, nejauša notikuma vai citu ārkārtēju apstākļu izraisītas sekas, kuras nelabvēlīgi ietekmē vai var ietekmēt parasto darba gaitu uzņēmumā;
-7) bezdarbniekam paredzētu algotu pagaidu vai citu darbu saistībā ar viņa dalību aktīvajos nodarbinātības pasākumos vai darbu, kas saistīts ar aktīvo nodarbinātības pasākumu īstenošanu.
+7) bezdarbniekam paredzētu algotu pagaidu vai citu darbu saistībā ar viņa dalību aktīvajos nodarbinātības pasākumos vai darbu, kas saistīts ar aktīvo nodarbinātības pasākumu īstenošanu;
+8) profesionālās vai akadēmiskās izglītības iestādes izglītojamā darbu, ja tas saistīts ar sagatavošanos darbībai noteiktā profesijā vai studiju virzienā.
 (2) Šā panta pirmās daļas 1. un 2.punktā minētos darbus nosaka Ministru kabinets.
 (3) Ar kapitālsabiedrības izpildinstitūciju locekļiem slēdzams darba līgums, ja vien viņi netiek nodarbināti, pamatojoties uz citu civiltiesisku līgumu. Ja kapitālsabiedrības izpildinstitūciju locekļi tiek nodarbināti, pamatojoties uz darba līgumu, tas slēdzams uz noteiktu laiku.
 (4) Uz noteiktu laiku noslēgtā darba līgumā norāda darba līguma beigu termiņu vai arī apstākļus, kas liecina par attiecīgā darba pabeigšanu.

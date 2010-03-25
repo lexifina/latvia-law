@@ -9,3 +9,4 @@
 (5) Virsstundu darbs nedrīkst pārsniegt 144 stundas četru mēnešu periodā.
 (6) Aizliegts nodarbināt virsstundu darbā personas, kas ir jaunākas par 18 gadiem.
 (7) Grūtnieci, sievieti pēcdzemdību periodā līdz vienam gadam un sievieti, kas baro bērnu ar krūti, visā barošanas laikā var nodarbināt virsstundu darbā, ja viņa devusi rakstveida piekrišanu.
+(8) Ja darba devējs vienu darba dienu, kas iekrīt starp svētku dienu un nedēļas atpūtas laiku, nosaka par brīvdienu un pārceļ to uz sestdienu tajā pašā nedēļā vai citā nedēļā tā paša mēneša ietvaros, darba dienas pārcelšanas gadījumā minētais darbs nav uzskatāms par virsstundu darbu.
