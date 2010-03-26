@@ -8,7 +8,7 @@
 5) finansējuma avoti un kārtība;
 6) pilnvarotās personas adrese, tālruņa, telefaksa numurs un elektroniskā pasta adrese.
 (3) Iesniegumam par izglītības iestādes reģistrāciju pievienojams izglītības iestādes dibinātāja apstiprināts izglītības iestādes darbības nolikums un dokumenti, kas apliecina iesniegumā minētās ziņas. Iesniegumam par koledžas reģistrāciju papildus pievienojami dokumenti, kas apliecina koledžas resursu (piemēram, finanšu resursi, materiāltehniskā un informatīvā bāze, akadēmiskais personāls) atbilstību Ministru kabineta noteiktajiem kritērijiem koledžas darbības uzsākšanai.
-(4) Mēneša laikā no šā panta otrajā un trešajā daļā minēto dokumentu iesniegšanas dienas izglītības iestāde tiek iekļauta reģistrā un tai izsniedz reģistrācijas apliecību.
+(4) Mēneša laikā no šā panta otrajā un trešajā daļā minēto dokumentu iesniegšanas dienas izglītības iestāde tiek iekļauta Izglītības iestāžu reģistrā un tai izsniedz reģistrācijas apliecību.
 (5) (Izslēgta ar 16.06.2009. likumu.)
 (6) Lēmums par izglītības iestādes reorganizāciju vai likvidāciju 10 dienu laikā paziņojams Izglītības iestāžu reģistram.
-(7) Ikvienam ir pieejamas Izglītības iestāžu reģistrā iekļautās ziņas.
+(7) Ikvienam bez maksas ir pieejamas Izglītības iestāžu reģistrā iekļautās ziņas.

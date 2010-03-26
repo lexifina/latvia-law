@@ -1,0 +1,9 @@
+3.¹ pants. Atšķirīgas attieksmes aizliegums
+(1) Šā likuma 3.pantā minētajām personām ir tiesības iegūt izglītību neatkarīgi no mantiskā un sociālā stāvokļa, rases, tautības, etniskās piederības, dzimuma, reliģiskās un politiskās pārliecības, veselības stāvokļa, nodarbošanās un dzīvesvietas.
+(2) Atšķirīga attieksme pret personu šā panta pirmajā daļā minēto apstākļu dēļ pieļaujama, ja tā ir objektīvi pamatota ar tiesisku mērķi, kura sasniegšanai izraudzītie līdzekļi ir samērīgi.
+(3) Reliģiskās organizācijas dibināta izglītības iestāde ir tiesīga balstīties uz personas reliģisko piederību, gatavību un spēju darboties labā ticībā un lojalitātē attiecībā uz konkrētās reliģijas mācību (doktrīnu), kā arī morāles un uzvedības normu, principu un ideālu kopumu, kas ir pamatā tās ticīgo pārliecībai.
+(4) Aizliegts tieši vai netieši radīt personai nelabvēlīgas sekas, ja tā aizstāv savas tiesības nolūkā novērst atšķirīgu attieksmi.
+(5) Ja strīdus gadījumā persona norāda uz faktoriem, kas varētu būt par pamatu tās tiešai vai netiešai diskriminācijai šā panta pirmajā daļā minēto apstākļu dēļ, izglītības programmas īstenotāja pienākums ir pierādīt, ka atšķirīgas attieksmes aizliegums nav pārkāpts.
+(6) Ja atšķirīgas attieksmes aizliegums vai aizliegums radīt nelabvēlīgas sekas tiek pārkāpts, personai ir tiesības prasīt pārkāpuma novēršanu, saskaņā ar Tiesībsarga likumu saņemt tiesisko atbalstu, kā arī vērsties tiesā. Personai ir tiesības prasīt zaudējumu atlīdzību un atlīdzību par morālo kaitējumu. Strīdus gadījumā atlīdzības par morālo kaitējumu apmēru nosaka tiesa pēc sava ieskata.
+(7) Atšķirīgas attieksmes aizliegumu attiecībā uz pedagogiem un citām izglītības sistēmā nodarbinātām personām regulē citi likumi.
+(8) Šajā pantā lietotais termins "diskriminācija" un tās veidi atbilst Patērētāju tiesību aizsardzības likumā lietotajiem terminiem.

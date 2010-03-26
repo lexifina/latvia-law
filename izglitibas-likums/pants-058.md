@@ -1,6 +1,7 @@
-58.pants. Bērna vecāku (personu, kas realizē vecāku varu) pienākumi
-(1) Bērna vecākiem (personām, kas realizē vecāku varu) ir pienākums:
-1) savu spēju un finansiālo iespēju robežās nodrošināt ģimenē bērna izglītošanai, veselībai, attīstībai un sadzīvei nepieciešamos apstākļus;
-2) sadarboties ar izglītības iestādi, kurā mācās bērns, un bērna pedagogiem;
-3) ievērot bērna tiesības.
-(2) Bērna vecāki (personas, kas realizē vecāku varu) ir atbildīgi par to, lai bērns iegūtu obligāto izglītību.
+58.pants. Vecāku (personu, kas realizē aizgādību) pienākumi
+(1) Vecākiem (personām, kas realizē aizgādību) ir pienākums:
+1) savu spēju un materiālo iespēju robežās nodrošināt ģimenē bērna izglītošanai, veselībai, attīstībai un sadzīvei nepieciešamos apstākļus;
+2) sadarboties ar izglītības iestādi, kurā mācās bērns, ar pedagogiem un citām mācību procesā iesaistītām personām;
+3) ievērot bērnu, pedagogu un citu personu likumiskās tiesības un intereses;
+4) informēt izglītības iestādes vadītāju par bērna veselības stāvokli un citiem apstākļiem, ja tiem var būt nozīme mācību procesā.
+(2) Vecāki (personas, kas realizē aizgādību) ir atbildīgi par to, lai bērns iegūtu obligāto izglītību.
