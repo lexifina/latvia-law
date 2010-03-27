@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2010.gada 23.marta noteikumi Nr.271 \"Ekonomikas ministrijas nolikums\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "49 (4241)",
+  "official_journal_page": null,
+  "official_journal_date": "2010-03-26",
+  "entry_into_force": "2010-03-27",
+  "notification_date": "2016-10-05",
+  "commission_reference": "MNE(2016)56140",
+  "nim_celex": "72012L0027LVA_241153",
+  "nim_id": "241153",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cda6d4db-8b0c-459c-b069-1e10a596ce7f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
