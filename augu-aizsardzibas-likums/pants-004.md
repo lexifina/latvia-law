@@ -15,7 +15,8 @@
 10) izsniedz sertifikātu par tiesībām veikt augu aizsardzības līdzekļu efektivitātes pārbaudes izmēģinājumus;
 11) ievieš, izpilda, uzrauga un kontrolē Eiropas Savienības normatīvo aktu prasības un Eiropas Padomes un Eiropas Komisijas lēmumus augu aizsardzības jomā;
 12) veic Ministru kabineta noteikto invazīvo augu sugu izplatības monitoringu lauksaimniecībā izmantojamās zemēs, izveido un uztur datubāzi par invazīvo augu sugu izplatību;
-13) veic Ministru kabineta noteikto invazīvo augu sugu izplatības valsts uzraudzību un kontroli.
+13) veic Ministru kabineta noteikto invazīvo augu sugu izplatības valsts uzraudzību un kontroli.;
+14) izsniedz speciālās atļaujas (licences) augu aizsardzības līdzekļu izplatīšanai.
 (5) Valsts augu aizsardzības dienesta inspektoriem, veicot uzraudzību un kontroli, ir šādas tiesības:
 1) pārbaudīt, vai tiek ievērotas normatīvo aktu prasības augu aizsardzības jomā;
 2) bez iepriekšēja brīdinājuma apmeklēt personas, kuras darbojas augu aizsardzības jomā, pieprasīt un saņemt dokumentus un informāciju, kā arī ņemt paraugus laboratoriskai izmeklēšanai.

@@ -1,0 +1,1 @@
+17. Līdz šā likuma 5.panta 12.punktā minēto noteikumu spēkā stāšanās dienai ir piemērojami Ministru kabineta 2004.gada 29.aprīļa noteikumi Nr.470 "Kārtība, kādā izsniedzamas speciālas atļaujas (licences) augu aizsardzības līdzekļu izplatīšanai", ciktāl tie nav pretrunā ar šo likumu.
