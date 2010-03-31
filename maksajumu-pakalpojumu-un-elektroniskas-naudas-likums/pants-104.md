@@ -1,0 +1,1 @@
+104.pants. Maksājumu pakalpojumu sniedzējs nodrošina efektīvu klientu sūdzību un strīdu izskatīšanas procedūru. Pilnīgai rakstveida informācijai par minēto sūdzību un strīdu izskatīšanas procedūru jābūt brīvi pieejamai maksājumu pakalpojumu sniedzēja iestādē un maksājumu pakalpojumu sniedzēja mājaslapā internetā, ja šāda mājaslapa ir izveidota.

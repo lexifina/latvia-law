@@ -1,0 +1,2 @@
+86.pants. (1) Šā likuma 84.pantā minētajos gadījumos maksātāja maksājumu pakalpojumu sniedzējs nekavējoties atlīdzina maksātājam zaudējumus, atmaksājot neautorizētā maksājuma summu vai atjaunojot stāvokli maksātāja maksājuma kontā, no kura šī summa norakstīta, līdz tādam stāvoklim, kāds bija pirms neautorizētā maksājuma veikšanas.
+(2) Papildu zaudējumu atlīdzību var noteikt saskaņā ar normatīvajiem aktiem, kas attiecas uz maksātāja un maksājumu pakalpojumu sniedzēja līgumiem.

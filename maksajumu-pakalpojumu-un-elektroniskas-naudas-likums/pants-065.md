@@ -1,0 +1,1 @@
+65.pants. Standartlīguma spēkā esamības laikā maksājuma pakalpojuma izmantotājam ir tiesības pēc pieprasījuma saņemt informāciju par standartlīguma noteikumiem, kā arī šā likuma 64.pantā norādīto informāciju un noteikumus papīra formā vai izmantojot citu pastāvīgu informācijas nesēju.

@@ -1,0 +1,4 @@
+94.pants. (1) Maksātāja maksājumu pakalpojumu sniedzējs nodrošina, ka pēc maksājuma rīkojuma saņemšanas saskaņā ar šā likuma 90.pantu maksājuma summa tiek ieskaitīta saņēmēja maksājumu pakalpojumu sniedzēja kontā ne vēlāk kā līdz nākamās darba dienas beigām.
+(2) Kad saņēmēja maksājumu pakalpojumu sniedzējs saņēmis maksājuma naudu, tas nosaka valutēšanas datumu un maksājuma summu dara pieejamu saņēmēja maksājumu kontā saskaņā ar šā likuma 97.pantu.
+(3) Saņēmēja maksājumu pakalpojumu sniedzējs nosūta maksātāja maksājumu pakalpojumu sniedzējam saņēmēja vai ar saņēmēja starpniecību iesniegtu maksājuma rīkojumu termiņā, par kuru saņēmējs ir vienojies ar savu maksājumu pakalpojumu sniedzēju, lai nodrošinātu norēķinu attiecībā uz tiešā debeta maksājumu datumā, kad maksātājam saskaņā ar vienošanos ir pienākums izpildīt savas saistības pret saņēmēju.
+(4) Šā panta noteikumus nepiemēro šā likuma 78.pantā minētajos gadījumos.

@@ -1,0 +1,11 @@
+52.pants. (1) Informācija par maksājumu iestādi un tās klientiem, maksājumu iestādes un tās klientu darbību, kura iepriekš nav bijusi likumā noteiktajā kārtībā publicēta vai kuras izpaušanu nenosaka citi likumi, vai kuru nav apstiprinājusi Komisijas padome, kā arī Komisijas rīcībā esošā ar finanšu un kapitāla tirgus dalībnieku darbību saistītā informācija uzskatāma par ierobežotas pieejamības informāciju, un tā nav izpaužama trešajām personām citādi kā vien pārskata vai apkopojuma veidā, kas izslēdz iespēju identificēt kādu konkrētu maksājumu iestādi vai tās klientu.
+(2) Šā panta pirmās daļas noteikumi neliedz Komisijai atbilstoši tās kompetencei apmainīties ar ierobežotas pieejamības informāciju ar citas dalībvalsts finanšu un kapitāla tirgus dalībnieku uzraudzības institūcijām, saglabājot sniegtajai informācijai ierobežotas pieejamības statusu.
+(3) Komisija ir tiesīga saskaņā ar šā panta otro, ceturto un piekto daļu saņemto informāciju izmantot vienīgi uzraudzības funkciju veikšanai:
+1) lai pārliecinātos par maksājumu iestāžu dibināšanu un darbību regulējošo normatīvo aktu ievērošanu;
+2) lai piemērotu likumā noteiktos tiesību ierobežojumus un sodus;
+3) tiesvedības procesā, kurā tiek apstrīdēti Komisijas izdotie administratīvie akti vai faktiskā rīcība.
+(4) Šā panta pirmās un trešās daļas noteikumi neliedz Komisijai atbilstoši tās kompetencei apmainīties ar ierobežotas pieejamības informāciju ar:
+1) citas dalībvalsts finanšu un kapitāla tirgus dalībnieku uzraudzības institūcijām;
+2) iestādēm vai personām, kas dalībvalstīs atbildīgas par maksājumu iestāžu maksājumu pakalpojumu pārtraukšanas, maksātnespējas, likvidācijas, kā arī kredītiestāžu un citu finanšu iestāžu uzskaites pārbaužu procedūrām;
+3) personām, kas dalībvalstīs veic likumā noteiktās iekšējās pārbaudes un revīzijas maksājumu iestādēs, kredītiestādēs, apdrošinātājos, ieguldījumu brokeru, ieguldījumu pārvaldes sabiedrībās un citās finanšu iestādēs.
+(5) Šā panta noteikumi neliedz Komisijai apmainīties ar ierobežotas pieejamības informāciju ar dalībvalstu centrālajām bankām un citām institūcijām, kas ir atbildīgas par maksājumu sistēmu pārraudzību, ja šāda informācija tām nepieciešama likumā noteikto funkciju veikšanai.

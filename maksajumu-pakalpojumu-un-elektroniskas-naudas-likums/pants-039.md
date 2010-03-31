@@ -1,0 +1,1 @@
+39.pants. Dokumentāciju, kas saistīta ar maksājumu iestādes licencēšanu, pārstāvju, filiāļu un ārpakalpojumu struktūru izmantošanu, maksājumu iestādei noteiktajām regulējošajām prasībām un tās uzraudzību, maksājumu iestāde glabā ne mazāk kā piecus gadus.

@@ -1,0 +1,1 @@
+100.pants. Zaudējumu atlīdzību papildus tai, kas paredzēta šā likuma 98. un 99.pantā, var noteikt saskaņā ar normatīvajiem aktiem, kas attiecas uz maksājuma pakalpojuma izmantotāja un maksājumu pakalpojumu sniedzēja līgumiem.

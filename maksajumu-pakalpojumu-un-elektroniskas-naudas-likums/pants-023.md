@@ -1,0 +1,1 @@
+23.pants. Ja maksājumu iestāde papildus maksājumu pakalpojumu sniegšanai veic cita veida komercdarbību, kas vājina vai var vājināt maksājumu iestādes finansiālo stabilitāti vai Komisijas spēju uzraudzīt maksājumu iestādes atbilstību šā likuma prasībām, Komisija var pieprasīt atsevišķas juridiskās personas dibināšanu maksājumu pakalpojumu sniegšanai.

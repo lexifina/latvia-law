@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2007.gada 13.novembra direktīvas 2007/64/EK par maksājumu pakalpojumiem iekšējā tirgū, ar ko groza direktīvas 97/7/EK, 2002/65/EK, 2005/60/EK un 2006/48/EK un atceļ direktīvu 97/5/EK.

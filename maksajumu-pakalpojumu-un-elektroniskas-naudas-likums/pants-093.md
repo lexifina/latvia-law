@@ -1,0 +1,5 @@
+93.pants. (1) Šī nodaļa attiecas uz:
+1) maksājumiem euro;
+2) Latvijā veiktiem maksājumiem latos;
+3) maksājumiem, kuru izpilde ietver tikai vienu valūtas maiņu starp euro un dalībvalsts nacionālo valūtu. Maksājuma pakalpojumu, ja nepieciešamā valūtas maiņa notiek dalībvalstī, sniedz šīs dalībvalsts nacionālajā valūtā, bet pārrobežu maksājuma gadījumā - euro.
+(2) Šī nodaļa attiecas arī uz citiem maksājumiem, ja maksājuma pakalpojuma izmantotājs ar savu maksājumu pakalpojumu sniedzēju nav vienojies citādi. Maksājumu pakalpojumu sniedzējam nav atļauts vienoties ar maksājuma pakalpojuma izmantotāju par šā likuma 97.panta noteikumu nepiemērošanu. Maksājuma pakalpojuma izmantotājs un viņa maksājumu pakalpojumu sniedzējs var vienoties par ilgāku termiņu, nekā noteikts šā likuma 94.pantā. Ja gan maksātāja, gan saņēmēja maksājumu pakalpojuma sniedzējs atrodas dalībvalstī, maksājuma termiņš nedrīkst pārsniegt četras darba dienas pēc šā likuma 90.pantā noteiktā maksājuma rīkojuma saņemšanas brīža.

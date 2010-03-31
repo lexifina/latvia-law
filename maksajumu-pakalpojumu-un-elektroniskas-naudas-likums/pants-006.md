@@ -1,0 +1,1 @@
+6.pants. Ja maksājumu iestāde vairs neatbilst šā likuma 5.panta pirmās daļas 1.punkta prasībām, bet vēlas arī turpmāk sniegt maksājumu pakalpojumus, tā 30 dienu laikā no neatbilstības iestāšanās brīža iesniedz Komisijai šā likuma 11.pantā minētos dokumentus, lai saņemtu licenci maksājumu iestādes darbībai.

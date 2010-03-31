@@ -1,0 +1,2 @@
+61.pants. (1) Ja maksājumu pakalpojumu sniedzējam rodas strīds ar maksājuma pakalpojuma izmantotāju, maksājumu pakalpojumu sniedzējam ir pienākums pierādīt, ka tas ievērojis šā likuma VII, VIII un IX nodaļā noteiktās informēšanas prasības.
+(2) Maksājumu pakalpojumu sniedzējs tā rīcībā esošās neizpaužamās ziņas sniedz valsts institūcijai, valsts amatpersonai vai citai iestādei un amatpersonai tādā pašā kārtībā kā kredītiestādes saskaņā ar Kredītiestāžu likuma 63.panta noteikumiem.

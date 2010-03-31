@@ -1,0 +1,17 @@
+11.pants. (1) Lai saņemtu licenci maksājumu iestādes darbībai, pretendents iesniedz Komisijai attiecīgu iesniegumu, tam pievienojot:
+1) maksājumu iestādes darbības programmu, kurā norādīti paredzētie maksājumu pakalpojumu veidi;
+2) maksājumu iestādes komercdarbības plānu ne mazāk kā pirmajiem trim finanšu gadiem, kas izvērsti atspoguļo maksājumu iestādes darbības stratēģiju, finanšu prognozes, kā arī bilances, peļņas vai zaudējumu aprēķina projektu, kapitāla pietiekamības aprēķina projektu, katram gadam prognozēto pastāvīgo izmaksu summu, tirgus izpētes plānus un citas ziņas, kuras maksājumu iestāde uzskata par nepieciešamām un kuras nodrošina papildu informāciju skaidra un patiesa priekšstata gūšanai par plānoto darbību;
+3) šā likuma 12.pantā minētā sākotnējā kapitāla esamības apliecinājumu;
+4) to pasākumu aprakstu, kuri veikti, lai aizsargātu maksājumu pakalpojumu izmantotāju naudu saskaņā ar šā likuma 38.panta noteikumiem, ja maksājumu iestāde papildus maksājumu pakalpojumu sniegšanai veic cita veida komercdarbību saskaņā ar šā likuma 36.pantu;
+5) maksājumu iestādes iekšējās kontroles un pārvaldības aprakstu, kas ietver arī piemērotas un pietiekamas maksājumu iestādes pārvaldības nodrošināšanai nepieciešamo administratīvo, riska vadības un grāmatvedības procedūru aprakstu;
+6) maksājumu iestādes neparasto un aizdomīgo finanšu darījumu identifikācijas procedūru aprakstu;
+7) maksājumu iestādes organizatoriskās struktūras aprakstu, tai skaitā informāciju par maksājumu iestādes pārstāvjiem, filiālēm, ārpakalpojumu līgumiem un dalību valsts vai starptautiskā maksājumu sistēmā;
+8) informāciju par to personu identitāti, kuras maksājumu iestādē tieši vai netieši ieguvušas būtisku līdzdalību, kā arī par to faktiskās līdzdalības apjomu un apliecinājumu par šo personu atbilstību šā likuma 15.pantam;
+9) to personu sarakstu, ar kurām maksājumu iestādei ir ciešas attiecības Kredītiestāžu likuma izpratnē;
+10) informāciju par maksājumu iestādes valdes un padomes locekļiem, personām, kas, pieņemot būtiskus lēmumus maksājumu iestādes vārdā, rada maksājumu iestādei civiltiesiskas saistības, arī par personām, kas ir tieši atbildīgas par maksājumu iestādes maksājumu pakalpojumu darbības pārvaldību, kā arī dokumentus, kas apliecina attiecīgo personu atbilstību šā likuma 20. un 21.panta prasībām;
+11) ziņas par zvērinātu revidentu (vārds, uzvārds vai firma);
+12) maksājumu iestādes statūtus, ja šāda informācija nav pieejama publiskajos reģistros;
+13) informāciju par šā likuma 38.panta pirmās daļas prasību izpildi, ja maksājumu iestāde papildus maksājumu pakalpojumu sniegšanai plāno veikt šā likuma 36.panta pirmajā daļā minēto komercdarbību.
+(2) Šā panta pirmās daļas 4., 5. un 7.punktā noteiktajos dokumentos norāda maksājumu iestādes revīzijas un organizatoriskos pasākumus maksājumu pakalpojumu izmantotāju interešu aizsardzībai, kā arī nepārtrauktības un uzticamības nodrošināšanai maksājumu pakalpojumu izpildē.
+(3) Izskatot šā panta pirmajā daļā minētos dokumentus, Komisijai ir tiesības pieprasīt, lai maksājumu iestāde izdara tajos labojumus vai iesniedz papildu dokumentus, kas Komisijai nepieciešami, lai tā varētu pārliecināties par maksājumu iestādes pārdomātu un piesardzīgu darbību, kā arī citu šā likuma prasību izpildi.
+(4) Komisija nosaka kārtību, kādā izsniedzama licence maksājumu iestādes darbībai, reģistrējama maksājumu iestāde un sniedzama informācija, kā arī iesniedzamos dokumentus.

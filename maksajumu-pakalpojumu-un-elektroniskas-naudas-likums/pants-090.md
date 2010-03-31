@@ -1,0 +1,5 @@
+90.pants. (1) Maksājuma rīkojuma saņemšanas brīdis ir brīdis, kad maksātāja, saņēmēja vai ar saņēmēja starpniecību iesniegto maksājuma rīkojumu saņem maksātāja maksājumu pakalpojumu sniedzējs.
+(2) Ja maksājuma rīkojums tiek saņemts pēc maksātāja maksājumu pakalpojumu sniedzēja darba dienas beigām, to uzskata par saņemtu nākamajā darba dienā.
+(3) Maksājumu pakalpojumu sniedzējs drīkst noteikt brīdi, kurā tiek pārtraukta maksājuma rīkojumu pieņemšana. Šo brīdi var noteikt īsi pirms darba dienas beigām, un visus pēc šā brīža saņemtos maksājuma rīkojumus uzskata par saņemtiem nākamajā darba dienā.
+(4) Ja maksājuma pakalpojuma izmantotājs, kas iesniedz maksājuma rīkojumu, vienojas ar savu maksājumu pakalpojumu sniedzēju, ka maksājuma rīkojuma izpilde sākas konkrētā dienā vai konkrēta termiņa beigās, vai dienā, kad maksātājs maksājumu pakalpojumu sniedzēja rīcībā nodevis nepieciešamo naudu, par maksājuma rīkojuma saņemšanas brīdi uzskata dienu, par kuru panākta vienošanās.
+(5) Ja diena, par kuru panākta vienošanās, nav maksājumu pakalpojumu sniedzēja darba diena, saņemto maksājuma rīkojumu uzskata par saņemtu nākamajā darba dienā.

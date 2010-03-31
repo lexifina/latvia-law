@@ -1,0 +1,4 @@
+98.pants. (1) Maksājuma rīkojums tiek uzskatīts par pareizi izpildītu, ja tas izpildīts atbilstoši tajā norādītajam unikālajam identifikatoram.
+(2) Ja maksājuma pakalpojuma izmantotājs ir norādījis kļūdainu identifikatoru, maksājumu pakalpojumu sniedzējs nav atbildīgs saskaņā ar šā likuma 99.pantu par maksājuma neizpildi vai kļūdainu izpildi.
+(3) Maksātāja maksājumu pakalpojumu sniedzējs cenšas atgūt šā panta otrajā daļā minētā neizpildītā vai kļūdaini izpildītā maksājuma naudu. Maksājumu pakalpojumu sniedzējs var ieturēt no pakalpojuma izmantotāja maksu par naudas atgūšanu, ja tas paredzēts standartlīgumā.
+(4) Ja maksājuma pakalpojuma izmantotājs sniedz informāciju papildus tai informācijai, kas pieprasīta saskaņā ar šā likuma 73.panta pirmās daļas 1.punktu vai 64.panta 2.punkta "b" apakšpunktu, maksājumu pakalpojumu sniedzējs ir atbildīgs tikai par maksājuma izpildi saskaņā ar pakalpojuma izmantotāja norādīto unikālo identifikatoru.

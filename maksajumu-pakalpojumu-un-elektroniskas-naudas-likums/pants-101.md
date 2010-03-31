@@ -1,0 +1,2 @@
+101.pants. (1) Ja šā likuma 99.pantā paredzētā maksājumu pakalpojumu sniedzēja atbildība ir radusies cita maksājumu pakalpojumu sniedzēja vai starpnieka dēļ, attiecīgais maksājumu pakalpojumu sniedzējs vai starpnieks atbilstoši šā likuma 99.panta noteikumiem kompensē visus pirmajam maksājumu pakalpojumu sniedzējam radušos zaudējumus vai izmaksātās summas.
+(2) Papildu zaudējumu atlīdzību var noteikt līgumos saskaņā ar normatīvajiem aktiem, kas attiecas uz maksājumu pakalpojumu sniedzēja un starpnieka līgumiem.

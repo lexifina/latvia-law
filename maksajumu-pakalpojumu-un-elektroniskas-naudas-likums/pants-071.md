@@ -1,0 +1,2 @@
+71.pants. (1) Šo nodaļu piemēro vienreizējiem maksājumiem, uz kuriem neattiecas standartlīgums.
+(2) Ja maksājuma rīkojumu vienreizējam maksājumam iesniedz, izmantojot maksājuma instrumentu, uz ko attiecas standartlīgums, maksājumu pakalpojumu sniedzējam nav pienākuma sniegt vai darīt pieejamu informāciju, kura maksājuma pakalpojuma izmantotājam jau ir sniegta, pamatojoties uz standartlīgumu ar citu maksājumu pakalpojumu sniedzēju, vai kuru viņam sniegs saskaņā ar šo standartlīgumu.

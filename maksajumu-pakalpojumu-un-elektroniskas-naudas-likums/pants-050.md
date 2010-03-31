@@ -1,0 +1,2 @@
+50.pants. (1) Citas dalībvalsts maksājumu iestāžu uzraudzības institūcijai ir tiesības veikt pārbaudes Latvijā reģistrētajās attiecīgās dalībvalsts maksājumu iestāžu filiālēs.
+(2) Pirms pārbaudes uzsākšanas citas dalībvalsts maksājumu iestāžu uzraudzības institūcija laikus rakstveidā informē par to Komisiju. Komisijas pārstāvim ir tiesības piedalīties pārbaudē. Citas dalībvalsts maksājumu iestāžu uzraudzības institūcija iesniedz Komisijai ziņojuma par veiktās pārbaudes rezultātiem kopiju.

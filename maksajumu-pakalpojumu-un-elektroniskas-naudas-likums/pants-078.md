@@ -1,0 +1,7 @@
+78.pants. Ja maksājuma pakalpojuma izmantotājs izmanto maksājuma instrumentu, kas saskaņā ar standartlīgumu izmantojams tikai maksājumiem, no kuriem katrs atsevišķi nepārsniedz 30 euro, vai izmanto tādu maksājuma instrumentu, kuram noteiktais limits ir 150 euro vai kurā uzkrātā nauda nekad nepārsniedz 150 euro:
+1) nepiemēro šā likuma 82.panta pirmās daļas 2.punkta, 83.panta pirmās daļas 3., 4. un 5.punkta un 87.panta ceturtās un piektās daļas noteikumus, ja vien nav iespējams maksājuma instrumentu bloķēt vai apturēt tā turpmāko izmantošanu;
+2) nepiemēro šā likuma 85., 86.panta un 87.panta pirmās un otrās daļas noteikumus, ja maksājuma instrumentu izmanto anonīmi vai maksājumu pakalpojumu sniedzējs citas maksājuma instrumentam raksturīgas pazīmes dēļ nevar pierādīt, ka maksājums bijis autorizēts;
+3) maksājumu pakalpojumu sniedzējam nav nepieciešams informēt maksājuma pakalpojuma izmantotāju par maksājuma rīkojuma noraidīšanu gadījumā, kad maksājuma rīkojuma neizpilde izriet no konkrētajiem apstākļiem;
+4) maksātājs nevar atsaukt maksājuma rīkojumu pēc tam, kad to nosūtījis vai devis saņēmējam piekrišanu veikt maksājumu;
+5) var piemērot citu maksājuma izpildes termiņu, kā tas ir noteikts šā likuma 96.pantā;
+6) šā likuma 86. un 87.panta noteikumus piemēro arī attiecībā uz elektronisko naudu, izņemot gadījumu, kad maksātāja maksājumu pakalpojumu sniedzējs nevar iesaldēt maksājumu kontu vai bloķēt maksājuma instrumentu.

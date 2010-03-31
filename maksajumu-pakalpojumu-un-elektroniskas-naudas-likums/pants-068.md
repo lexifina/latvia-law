@@ -1,0 +1,1 @@
+68.pants. Ja saskaņā ar standartlīgumu tiek veikts maksājums, ko uzsācis maksātājs, maksājumu pakalpojumu sniedzējs pēc maksātāja pieprasījuma pirms maksājuma uzsākšanas sniedz informāciju par tā maksimālo izpildes laiku un maksu par pakalpojumu, ko sedz maksātājs, kā arī šīs maksas sadalījumu.

@@ -1,0 +1,1 @@
+1. Attiecībā uz maksājumiem, kas uzsākti līdz 2012.gada 1.janvārim, izņemot šā likuma 93.panta otrajā daļā minētos maksājumus, maksātājs un viņa maksājumu pakalpojumu sniedzējs var vienoties par izpildes termiņu, kas nav ilgāks par trim darba dienām. Maksājuma izpildes termiņu var pagarināt vēl par vienu darba dienu, ja maksājums uzsākts un veikts papīra formā.

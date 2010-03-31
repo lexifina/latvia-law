@@ -1,0 +1,1 @@
+45.pants. Komisijai ir tiesības papildus noteikt vēl citas licencēto maksājumu iestāžu darbību regulējošas prasības, lai mazinātu maksājumu iestāžu darbības risku un aizsargātu maksājumu pakalpojumu izmantotājus.

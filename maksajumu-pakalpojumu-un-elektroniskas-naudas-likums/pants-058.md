@@ -1,0 +1,2 @@
+58.pants. (1) Maksājumus veic valūtā, par kuru maksājuma pakalpojuma sniedzējs un pakalpojuma izmantotājs vienojušies.
+(2) Ja pirms maksājuma uzsākšanas preču pārdošanas vai pakalpojuma sniegšanas vietā pārdevējs maksātājam piedāvā veikt valūtas konvertēšanu vai ja valūtas konvertēšanu piedāvā veikt maksājuma saņēmējs, tai personai, kura piedāvā maksātājam šo valūtas konvertēšanas pakalpojumu, ir pienākums informēt maksātāju par maksu, kā arī maksājuma summas konvertēšanai izmantojamo valūtas kursu.
