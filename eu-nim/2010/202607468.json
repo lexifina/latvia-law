@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Maksājumu pakalpojumu un elektroniskās naudas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "43",
+  "official_journal_page": null,
+  "official_journal_date": "2010-03-17",
+  "entry_into_force": "2010-03-31",
+  "notification_date": "2026-09-23",
+  "commission_reference": "MNE(2026)07468",
+  "nim_celex": "72023L1791LVA_202607468",
+  "nim_id": "202607468",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/74957f19-911b-404a-8228-9c946c1c77b2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
