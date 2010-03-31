@@ -1,1 +1,1 @@
-15.pants. Atbilstības novērtēšanā iesaistīto institūciju amatpersonu izdoto administratīvo aktu vai iestādes faktisko rīcību persona var apstrīdēt Ekonomikas ministrijā Administratīvā procesa likumā noteiktajā kārtībā. Ekonomikas ministrijas izdoto administratīvo aktu vai iestādes faktisko rīcību persona var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā.
+15.pants. Nacionālās akreditācijas institūcijas pieņemtos lēmumus var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā. Lēmuma pārsūdzēšana neaptur tā darbību.

@@ -1,3 +1,1 @@
-8.pants. Ekonomikas ministrija:
-1) saskaņā ar Eiropas Savienībā pastāvošo paziņošanas procedūru paziņo Eiropas Komisijai par atbilstības novērtēšanas institūcijām, kuras darbojas saskaņā ar noteiktajām atbilstības novērtēšanas prasībām reglamentētajā sfērā;
-2) publicē laikrakstā "Latvijas Vēstnesis" to sertificēšanas un inspicēšanas institūciju un testēšanas un kalibrēšanas laboratoriju sarakstu, kuras ir akreditētas reglamentētajā sfērā vai par kurām Eiropas Savienības dalībvalstis ir paziņojušas Eiropas Komisijai. Akreditāciju veic sabiedrība ar ierobežotu atbildību "Standartizācijas, akreditācijas un metroloģijas centrs".
+8.pants. Ekonomikas ministrija, ievērojot Eiropas Savienībā pastāvošo paziņošanas procedūru, informē Eiropas Komisiju par tām atbilstības novērtēšanas institūcijām, kuras darbojas saskaņā ar noteiktajām atbilstības novērtēšanas prasībām reglamentētajā sfērā.

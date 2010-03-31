@@ -1,0 +1,1 @@
+3. Līdz brīdim, kad tiek izpildīts šā likuma 6.panta trešās daļas nosacījums, šajā likumā noteiktās nacionālās akreditācijas institūcijas funkcijas veic sabiedrības ar ierobežotu atbildību "Standartizācijas, akreditācijas un metroloģijas centrs" struktūrvienība "Latvijas Nacionālais akreditācijas birojs".
