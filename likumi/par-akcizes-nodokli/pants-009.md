@@ -1,6 +1,6 @@
-9.pants. Apstiprināts tirgotājs un neapstiprināts tirgotājs
-(1) Apstiprināts tirgotājs vai neapstiprināts tirgotājs var no citas dalībvalsts saņemt akcīzes preces, piemērojot tām atlikto nodokļa maksāšanu.
-(2) Apstiprināts tirgotājs vai neapstiprināts tirgotājs atbild par nodokļa samaksu saskaņā ar šo likumu.
-(3) Apstiprinātam tirgotājam vai neapstiprinātam tirgotājam nav tiesību uzglabāt, nosūtīt vai veikt citas darbības ar akcīzes precēm, piemērojot tām atlikto nodokļa maksāšanu.
-(4) Pirms apstiprināta tirgotāja darbības uzsākšanas iesniedzams šā likuma 31.pantā noteiktais vispārējais nodrošinājums. Lai neapstiprināts tirgotājs varētu veikt darbības ar akcīzes precēm, pirms tam iesniedzams viens no šā likuma 31.pantā noteiktajiem nodrošinājumiem.
-(5) Apstiprināts tirgotājs vai neapstiprināts tirgotājs uzskaita, reģistrē un atbild par visām akcīzes precēm, kuras tiek saņemtas no citas dalībvalsts.
+9.pants. Reģistrēts saņēmējs un īslaicīgi reģistrēts saņēmējs
+(1) Reģistrēts saņēmējs un īslaicīgi reģistrēts saņēmējs var no citas dalībvalsts, no reģistrēta nosūtītāja Latvijas Republikā un apstiprināta noliktavas turētāja Latvijas Republikā saņemt akcīzes preces, piemērojot tām atlikto nodokļa maksāšanu. Citas dalībvalsts apstiprināts noliktavas turētājs vai citas dalībvalsts reģistrēts nosūtītājs var pilnvarot reģistrētu saņēmēju vai īslaicīgi reģistrētu saņēmēju Latvijas Republikā pasūtīt un saņemt akcīzes nodokļa markas, un šajā gadījumā pilnvarotais reģistrētais saņēmējs vai īslaicīgi reģistrētais saņēmējs Latvijas Republikā atbild par nodokļa samaksu.
+(2) Reģistrēts saņēmējs un īslaicīgi reģistrēts saņēmējs atbild par nodokļa samaksu saskaņā ar šo likumu.
+(3) Reģistrētam saņēmējam un īslaicīgi reģistrētam saņēmējam nav tiesību uzglabāt, nosūtīt vai veikt citas darbības ar akcīzes precēm, piemērojot tām atlikto nodokļa maksāšanu.
+(4) Pirms reģistrēta saņēmēja darbības uzsākšanas iesniedzams šā likuma 31.pantā noteiktais vispārējais nodrošinājums. Lai īslaicīgi reģistrēts saņēmējs varētu veikt darbības ar akcīzes precēm, pirms tam iesniedzams šā likuma 31.pantā noteiktais vienreizējais nodrošinājums.
+(5) Reģistrēts saņēmējs un īslaicīgi reģistrēts saņēmējs uzskaita, reģistrē un atbild par visām akcīzes precēm, kuras tas saņem.
