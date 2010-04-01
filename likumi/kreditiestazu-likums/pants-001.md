@@ -8,8 +8,8 @@ b) elektroniskās naudas institūcija - kapitālsabiedrība, kas emitē un apkal
 a) noguldījumu un citu atmaksājamo līdzekļu piesaistīšana;
 b) kreditēšana;
 b¹) finanšu līzings;
-c) skaidras un bezskaidras naudas maksājumu veikšana;
-d) bezskaidras naudas maksāšanas līdzekļu (visu maksāšanas līdzekļu, izņemot banknotes un monētas jebkurā valūtā) izlaišana un apkalpošana;
+c) maksājumu pakalpojumi,
+d) ar maksājumu pakalpojumu sniegšanu nesaistītu bezskaidras naudas maksāšanas līdzekļu izlaišana un apkalpošana;
 e) tirdzniecība savā vai klienta vārdā ar valūtu vai finanšu instrumentiem;
 f) uzticības operācijas (trasts);
 g) ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšana;
@@ -72,7 +72,7 @@ a) kredītiestādes akcionāri, padomes, valdes un tām pielīdzināto pārvalde
 b) personas, kurām ar kredītiestādi ir darba tiesiskās attiecības;
 c) personas, kuras ir bijušas ieinteresētās personas saskaņā ar šā punkta "a" un "b" apakšpunkta noteikumiem pēdējo sešu mēnešu laikā līdz maksātnespējas lietas ierosināšanai;
 37) finanšu līzings - kreditēšana, ko veic atbilstoši UNIDROIT konvencijā par starptautisko finansiālo līzingu noteiktajiem pamatprincipiem;
-38) maksāšanas līdzeklis - līdzeklis (atsevišķi vai kopā ar citu maksāšanas līdzekli), kurš ļauj tā lietotājiem saņemt skaidru naudu vai citas lietas, saņemt vai veikt maksājumus, dot rīkojumu naudas līdzekļu pārvedumam vai apstiprināt naudas līdzekļu pārvedumu un kuru kā maksāšanas līdzekli pieņem arī tās personas, kas nav laidušas apgrozībā šo maksāšanas līdzekli. Par maksāšanas līdzekļiem uzskata skaidru naudu, čekus, maksājumu kartes (kredītkarte, debetkarte un citas tamlīdzīgas kartes), bankomātu kartes, maksājuma dokumentus, elektronisko naudu, attālinātu elektronisko banku operāciju (globālajā datortīklā vai izmantojot datoru vai tālruni) programmatūru un citus tamlīdzīgus līdzekļus;
+38) maksāšanas līdzeklis - līdzeklis (atsevišķi vai kopā ar citu maksāšanas līdzekli) vai maksājuma instrumentu, kurš ļauj tā lietotājiem saņemt skaidru naudu vai citas lietas, saņemt vai veikt maksājumus, dot rīkojumu naudas līdzekļu pārvedumam vai apstiprināt naudas līdzekļu pārvedumu un kuru kā maksāšanas līdzekli pieņem arī tās personas, kas nav laidušas apgrozībā šo maksāšanas līdzekli. Par maksāšanas līdzekļiem uzskata skaidru naudu, čekus, maksājumu kartes (kredītkarte, debetkarte un citas tamlīdzīgas kartes), bankomātu kartes, maksājuma dokumentus, elektronisko naudu, attālinātu elektronisko banku operāciju (globālajā datortīklā vai izmantojot datoru vai tālruni) programmatūru un citus tamlīdzīgus līdzekļus;
 39) elektroniskā nauda - naudas līdzekļi, kuri izsakāmi prasījuma veidā pret emitentu un:
 a) kuri ir reģistrēti elektroniskā ierīcē (viedkartē vai datora atmiņā),
 b) kuri ir izveidojušies, saņemot no klienta naudas līdzekļus, kuru nominālvērtība nav zemāka par elektroniskā ierīcē reģistrēto nominālvērtību,
@@ -99,9 +99,9 @@ e) kārtējā darbības gada peļņa, ja ir zvērināta revidenta vai zvērināt
 51) reorganizācijas pasākumi - maksātnespējas process, tai skaitā sanācija, kā arī citas tiesiska rakstura darbības, kas varētu ietekmēt trešo personu tiesības un kas tiek veiktas, lai saglabātu vai atjaunotu kredītiestādes, tai skaitā tās filiāles, maksātspēju;
 52) brīvais kapitāls - personai piederošo aktīvu vērtība, kas samazināta par šīs personas saistību vērtību un to aktīvu vērtību, kuri uzskatāmi par ilgtermiņa ieguldījumiem;
 53) prasījumu un saistību neto ieskaits - pirms parādnieka likvidācijas uzsākšanas vai likumā noteiktajā kārtībā atzītas maksātnespējas iestāšanās starp parādnieku un kreditoru uz rakstveida līguma pamata nodibinātas tiesiskas attiecības no savstarpējiem līgumiem izrietošo prasījumu un saistību izteikšanai vienā prasībā vai saistībā tā, ka tiek celta tikai viena prasība un jāizpilda tikai viena saistība;
-54) prasījumu un saistību dzēšana - pēc parādnieka likvidācijas uzsākšanas vai likumā noteiktajā kārtībā atzītas maksātnespējas iestāšanās no līguma izrietošo parādnieka un kreditora prasījumu un saistību pilnīga savstarpēja dzēšana neatkarīgi no prasījumu un saistību apmēra (summas);
+54) prasījumu un saistību dzēšana - prasījumu un saistību savstarpēja izteikšana vienā prasībā vai saistībā tā, ka tiek celta tikai viena prasība un izpildāma tikai viena saistība;
 55) jaukta finanšu pārvaldītājsabiedrība - mātes sabiedrība, kas nav banka, apdrošināšanas sabiedrība vai ieguldījumu brokeru sabiedrība un kas kopā ar savām meitas sabiedrībām, no kurām vismaz viena ir dalībvalstī reģistrēta banka, apdrošināšanas sabiedrība vai ieguldījumu brokeru sabiedrība, un citām sabiedrībām veido finanšu konglomerātu;
 56) ārvalsts valūta - jebkuras valsts, izņemot Latvijas Republiku, valūta;
 57) atgūstamās vērtības samazinājuma risks - risks, ka nopirktais debitora parāds var samazināties par naudā vai citā veidā debitoram piešķirto kredītu;
-58) sertifikāts - valsts aģentūras "Maksātnespējas administrācija" izsniegts dokuments, kas apliecina fiziskās personas profesionālo kompetenci veikt maksātnespējas procesa administratora pienākumus;
+58) sertifikāts - atbilstoši normatīvajiem aktiem izsniegts dokuments, kas apliecina administratora kvalifikāciju un dod viņam tiesības pildīt administratora pienākumus tiesiskās aizsardzības procesā un maksātnespējas procesā;
 59) pakārtotās saistības - saistības, kas bankai rodas no aizdevuma (neatkarīgi no noslēgtā darījuma veida) un kas, pamatojoties uz noslēgto līgumu ar banku, aizdevējam dod tiesības atprasīt aizdevumu pirms termiņa tikai bankas maksātnespējas vai likvidācijas gadījumā un tikai pēc visu citu kreditoru prasījumu apmierināšanas, bet pirms akcionāru prasījumu apmierināšanas.

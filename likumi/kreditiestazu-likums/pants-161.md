@@ -24,6 +24,7 @@
 1) atsavināt kredītiestādes mantu šajā likumā noteiktajā kārtībā;
 2) slēgt kredītiestādes filiāles vai pārstāvniecības;
 3) celt prasību tiesā, lai tiktu atzīti par spēkā neesošiem kredītiestādes darījumi, kurus tā piecu gadu laikā pirms pasludināšanas par maksātnespējīgu slēgusi ar trešajām personām vai par labu trešajām personām un kuri radījuši vai var radīt zaudējumus kreditoriem, kā arī darījumi, kuri slēgti ar kādu no kreditoriem un kuri radījuši vai var radīt zaudējumus citiem kreditoriem;
+3¹) vienpusēji atkāpties no līguma izpildes, ja tā izpilde samazina kredītiestādes aktīvus un līgums neregulē finanšu pakalpojuma sniegšanu;
 4) iesniegt tiesai jebkuru kredītiestādes prasījumu pret trešajām personām;
 5) pārstāvēt kredītiestādi tiesā un attiecībās ar fiziskajām un juridiskajām personām un uzstāties tās vārdā;
 6) apdrošināt kredītiestādes darījumus un kredītiestādes mantu;
