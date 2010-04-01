@@ -1,7 +1,7 @@
 11.pants. Attīstības plānošanas process
 (1) Ilgtermiņa konceptuālā dokumenta "Latvijas izaugsmes modelis: cilvēks pirmajā vietā" izstrādi nodrošina Ministru kabinets, un šo dokumentu apstiprina Saeima.
 (2) Latvijas ilgtspējīgas attīstības stratēģijas izstrādi nodrošina Ministru kabinets, un šo stratēģiju apstiprina Saeima. Latvijas ilgtspējīgas attīstības stratēģija nosaka valsts ilgtermiņa attīstības prioritātes un telpiskās attīstības perspektīvu.
-(3) Nacionālā attīstības plāna izstrādi nodrošina un šo plānu apstiprina Ministru kabinets. Tajā nosaka savstarpēji koordinētas, valsts stratēģiskajiem mērķiem atbilstošas valsts attīstības prioritātes.
+(3) Nacionālā attīstības plāna izstrādi nodrošina un šo plānu apstiprina Ministru kabinets. Nacionālais attīstības plāns nosaka nozaru politiku un teritoriju attīstības prioritāšu un rīcības virzienu kopumu un to finansēšanas avotus Latvijas ilgtspējīgas attīstības stratēģijā noteikto attīstības prioritāšu un rīcības virzienu īstenošanai vidējā termiņā.
 (4) Izstrādājot attīstības plānošanas dokumentus, ievēro attiecīgā pārvaldes līmeņa politisko vadlīniju dokumentus, kuri izvirza uzdevumus valsts un pašvaldību institūcijām.
 (5) Ministru kabinets, ciktāl likumā nav paredzēts citādi, nosaka visu līmeņu, veidu un termiņu attīstības plānošanas dokumentus, tajos ietveramo saturu, to izstrādāšanas, apstiprināšanas, aktualizācijas, spēka zaudēšanas kārtību un darbības termiņu, kā arī attiecīgo pārskatu sniegšanas un sabiedrības līdzdalības kārtību.
 (6) Ministru kabinets nosaka attīstības plānošanas dokumentu un tiesību aktu iespējamās ietekmes izvērtēšanas (izņemot stratēģisko ietekmes uz vidi novērtējumu) kārtību, ciktāl likumā nav noteikts citādi.
