@@ -1,3 +1,0 @@
-9.pants. Nacionālais attīstības plāns
-(1) Nacionālais attīstības plāns ir vidēja termiņa (septiņi gadi) stratēģiskās plānošanas dokuments, kurā tiek savstarpēji koordinētas nozaru un reģionālās attīstības prioritātes un paredzēti finansējuma avoti to īstenošanai. Nacionālā attīstības plāna mērķis ir sekmēt līdzsvarotu un ilgtspējīgu valsts attīstību un nodrošināt Latvijas konkurētspējas palielināšanos Eiropas Savienībā.
-(2) Nacionālo attīstības plānu izstrādā saskaņā ar reģionālās politikas pamatnostādnēs un nacionālajā plānojumā noteiktajiem mērķiem un prioritātēm, ievērojot plānošanas reģionu attīstības programmu un teritorijas plānojumu noteiktās attīstības prioritātes.

@@ -1,0 +1,5 @@
+25.pants. Pārvaldes uzdevumu deleģēšana un kompetences nodošana plānošanas reģioniem
+(1) Plānošanas reģioniem var deleģēt pārvaldes uzdevumus, kas ir tiešās pārvaldes iestādes kompetencē. Ja pārvaldes uzdevumu deleģē ar līgumu, tā projektu saskaņo ar reģionālās attīstības un pašvaldību lietu ministru.
+(2) Ministru kabinets pastāvīgi izvērtē, kādu tiešās pārvaldes iestāžu kompetenci nodot plānošanas reģioniem, kā arī izdod nepieciešamos normatīvos aktus vai sagatavo un iesniedz attiecīgus likumprojektus Saeimai.
+(3) Ja plānošanas reģionam deleģē pārvaldes uzdevumu vai nodod kompetenci, šis plānošanas reģions attiecīgo uzdevumu vai kompetenci īsteno ar tādu valsts budžeta finanšu līdzekļu apjomu, kas ir vismaz par 10 procentiem mazāks, nekā būtu nepieciešams tad, ja attiecīgo uzdevumu vai kompetenci īstenotu tiešās pārvaldes iestāde.
+(4) Valsts tiešās pārvaldes iestādes vadītājs sadarbībā ar plānošanas reģiona attīstības padomes priekšsēdētāju organizē pārvaldes uzdevumu vai kompetences pārņemšanu no tiešās pārvaldes iestādēm.
