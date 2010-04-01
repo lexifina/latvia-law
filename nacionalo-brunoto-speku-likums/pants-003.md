@@ -3,17 +3,8 @@
 1) regulārie spēki;
 2) Zemessardze;
 3) Nacionālo bruņoto spēku rezerve.
-(2) Regulārie spēki sastāv no:
-1) Sauszemes spēkiem;
-2) Jūras spēkiem;
-3) Gaisa spēkiem;
-4) Mācību vadības pavēlniecības;
-5) Nodrošinājuma pavēlniecības;
-6) (izslēgts ar 27.11.2008. likumu);
-7) Militārās policijas;
-8) vienībām, kuras izveidotas ar aizsardzības ministra pavēli īpašu uzdevumu veikšanai.
-(3) Kara vai izņēmuma stāvokļa laikā Nacionālo bruņoto spēku sastāvā tiek iekļauta Latvijas Bankas Aizsardzības pārvalde. Kara laikā Nacionālo bruņoto spēku sastāvā tiek iekļauta Valsts robežsardze.
-(4) Zemessardze atrodas Nacionālo bruņoto spēku komandiera pakļautībā un pilda likumā "Par Latvijas Republikas Zemessardzi" noteiktos uzdevumus.
-(5) Nacionālo bruņoto spēku sastāvdaļu struktūru un pakļautību apstiprina aizsardzības ministrs pēc Nacionālo bruņoto spēku komandiera priekšlikuma.
-(6) Pavēlniecība šā likuma izpratnē ir regulāro spēku veids, kas veic ar vienību darbības atbalstu saistītus uzdevumus.
-(7) Nacionālo bruņoto spēku rezervi veido militārajam dienestam pakļautie Latvijas pilsoņi, kas ieskaitīti Nacionālo bruņoto spēku rezervē.
+(2) Nacionālo bruņoto spēku struktūru un pakļautību apstiprina aizsardzības ministrs pēc Nacionālo bruņoto spēku komandiera priekšlikuma.
+(3) Kara laikā vai izņēmuma stāvoklī Nacionālo bruņoto spēku sastāvā tiek iekļauta Latvijas Bankas Aizsardzības pārvalde un Valsts robežsardze.
+(4) Latvijas Republikas Zemessardzes darbību regulē speciāls likums.
+(5) Lai nodrošinātu likumību, Nacionālo bruņoto spēku regulāro spēku sastāvā ar izmeklēšanas iestādes un operatīvās darbības subjekta tiesībām darbojas Militārā policija.
+(6) Nacionālo bruņoto spēku rezervi veido militārajam dienestam pakļautie Latvijas pilsoņi, kas ieskaitīti Nacionālo bruņoto spēku rezervē.

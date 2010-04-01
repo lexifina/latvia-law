@@ -1,0 +1,4 @@
+8. Līdz šā likuma 6.¹ panta pirmās daļas 5.punktā, otrās daļas 3.punktā un 17.panta trešajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2010.gada 30.jūnijam ir spēkā šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:
+1) Ministru kabineta 2002.gada 19.marta noteikumi Nr.126 "Kārtība, kādā Valsts robežsardze veic valsts robežas apsardzību jūrā, izmantojot Nacionālo bruņoto spēku tehniskos līdzekļus, peldlīdzekļus un gaisakuģus";
+2) Ministru kabineta 2009.gada 10.februāra noteikumi Nr.113 "Kārtība, kādā Nacionālie bruņotie spēki piedalās avārijas, ugunsdzēsības un glābšanas darbos, kā arī ārkārtējo situāciju izraisīto seku likvidācijā";
+3) Ministru kabineta 2009.gada 17.jūnija noteikumi Nr.535 "Kārtība, kādā Militārā policija nodrošina Saeimas, Valsts prezidenta uzaicināto ārvalstu un starptautisko organizāciju pārstāvju aizsardzību (apsardzi).

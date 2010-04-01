@@ -1,2 +1,2 @@
 II nodaļa
-Nacionālo bruņoto spēku un to sastāvdaļu uzdevumi
+Nacionālo bruņoto spēku uzdevumi un to īstenošanas pasākumi

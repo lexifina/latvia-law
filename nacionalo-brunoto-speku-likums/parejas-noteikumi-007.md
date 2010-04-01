@@ -1,0 +1,1 @@
+7. Līdz 2010.gada 31.decembrim Nacionālo bruņoto spēku personālsastāvā miera laikā papildus šā likuma 5.panta otrajā daļā minētajam, kā arī Nacionālo bruņoto spēku personālsastāvā dalībai starptautiskajās operācijās ietilpst arī militārie darbinieki, ar kuriem darba līgums noslēgts līdz 2010.gada 31.martam.

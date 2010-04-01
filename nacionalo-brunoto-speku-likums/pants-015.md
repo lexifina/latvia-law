@@ -1,3 +1,3 @@
 15.pants. Nacionālo bruņoto spēku Apvienotais štābs
-(1) Nacionālo bruņoto spēku Apvienotais štābs ir Nacionālo bruņoto spēku komandiera institūcija, kas nodrošina komandierim iespēju realizēt nepārtrauktu vadību, lēmumu pieņemšanai nepieciešamo informāciju, dokumentus un priekšlikumus, viņa pavēļu un rīkojumu izpildes kontroli, kā arī sadarbības organizāciju kaujas operāciju apstākļos.
-(2) Par Nacionālo bruņoto spēku Apvienotā štāba uzdevumu izpildi atbild Nacionālo bruņoto spēku Apvienotā štāba priekšnieks. Nacionālo bruņoto spēku Apvienotā štāba priekšnieku amatā ieceļ un atbrīvo no amata Ministru kabinets pēc aizsardzības ministra priekšlikuma.
+(1) Nacionālo bruņoto spēku Apvienotais štābs ir Nacionālo bruņoto spēku komandiera institūcija, kas nodrošina komandierim iespēju realizēt nepārtrauktu vadību, kā arī sadarbības organizāciju kaujas operāciju apstākļos.
+(2) Nacionālo bruņoto spēku Apvienoto štābu vada Nacionālo bruņoto spēku Apvienotā štāba priekšnieks. Nacionālo bruņoto spēku Apvienotā štāba priekšnieku ieceļ amatā un atbrīvo no amata Ministru kabinets pēc aizsardzības ministra priekšlikuma.
