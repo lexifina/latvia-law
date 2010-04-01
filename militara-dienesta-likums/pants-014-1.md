@@ -1,0 +1,3 @@
+14.¹ pants. Karavīra tiesības sniegt paplašināto pirmo palīdzību
+(1) Karavīrs, kurš apguvis paplašinātās pirmās palīdzības mācību kursa programmu, pildot dienesta pienākumus, ir tiesīgs sniegt paplašināto pirmo palīdzību, izmantojot Ministru kabineta apstiprinātajā sarakstā iekļauto aprīkojumu, medicīniskos materiālus un medikamentus.
+(2) Ministru kabinets nosaka karavīru paplašinātās pirmās palīdzības mācību kursa programmu, kārtību, kādā nodrošina apmācību paplašinātās pirmās palīdzības sniegšanā, un kārtību, kādā ārvalstīs apgūtu mācību kursu atzīst Latvijas Republikā, kā arī paplašinātās pirmās palīdzības sniegšanai paredzētā aprīkojuma, medicīnisko materiālu un medikamentu uzglabāšanas, izlietošanas, uzskaites un iznīcināšanas kārtību.

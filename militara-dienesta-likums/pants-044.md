@@ -3,7 +3,7 @@
 1) augstāko virsnieku - Valsts prezidents;
 2) vecāko virsnieku - aizsardzības ministrs;
 3) jaunāko virsnieku - Nacionālo bruņoto spēku komandieris;
-4) augstāko instruktoru - spēku veida komandieris, bet tiešās pakļautības vienībās - Nacionālo bruņoto spēku komandieris;
+4) augstāko instruktoru - Nacionālo bruņoto spēku komandieris vai viņa pilnvarots komandieris (priekšnieks);
 5) pārējā instruktoru sastāva un kareivju sastāva karavīru - vienības komandieris (priekšnieks).
 (2) (Izslēgta ar 29.03.2007. likumu)
 (3) Sakarā ar notiesājošu tiesas spriedumu karavīru atvaļina no aktīvā dienesta ar dienu, kad tiesas spriedums stājas likumīgā spēkā. Karavīru, kas sprieduma spēkā stāšanās brīdī atrodas apcietinājumā, atvaļina no aktīvā dienesta ar dienu, kura spriedumā noteikta par soda izciešanas sākumu.

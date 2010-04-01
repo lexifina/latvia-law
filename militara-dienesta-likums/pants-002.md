@@ -7,7 +7,7 @@ Likumā ir lietoti šādi termini:
 4) profesionālais dienests - militārais dienests, kuru Latvijas pilsonis pilda brīvprātīgi saskaņā ar profesionālā dienesta līgumu, kas noslēgts starp viņu un Aizsardzības ministriju;
 5) karavīrs - Latvijas pilsonis, kas pilda aktīvo dienestu un kam piešķirta militārā dienesta pakāpe (turpmāk arī - dienesta pakāpe);
 6) karavīra statuss - karavīra tiesiskais stāvoklis, pildot aktīvo dienestu;
-7) rezerves karavīrs - Latvijas pilsonis, kas pēc atvaļināšanas no profesionālā dienesta (līdz šā likuma spēkā stāšanās brīdim - aktīvā dienesta un ierindas dienesta) pilda dienestu Nacionālo bruņoto spēku rezervē;
+7) rezerves karavīrs - Latvijas pilsonis, kas pēc atvaļināšanas no profesionālā dienesta (līdz šā likuma spēkā stāšanās brīdim - aktīvā dienesta un ierindas dienesta) vai līguma par dienestu Latvijas Republikas Zemessardzē (turpmāk - Zemessardze) izbeigšanas pilda dienestu Nacionālo bruņoto spēku rezervē;
 7¹) rezervists - Latvijas pilsonis, kas ieskaitīts Nacionālo bruņoto spēku rezervē un mobilizācijas gadījumā var tikt iesaukts aktīvajā dienestā;
 8) (izslēgts ar 29.03.2007. likumu);
 9) virsnieks - karavīrs, kuram ir leitnanta vai augstāka militārā dienesta pakāpe;
