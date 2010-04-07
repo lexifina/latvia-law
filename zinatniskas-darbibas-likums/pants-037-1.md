@@ -1,4 +1,5 @@
-37.¹ pants. Valsts zinātniskā institūta, valsts augstskolas vai valsts augstskolas zinātniskā institūta zinātnisko darbinieku atalgojums
-Valsts zinātniskā institūta, valsts augstskolas vai valsts augstskolas zinātniskā institūta darbinieku atalgojumu veido:
-1) atalgojums, kurš darbiniekam tiek piešķirts un aprēķināts saskaņā ar normatīvajiem aktiem par bāzes finansējuma piešķiršanas kārtību;
-2) atalgojums, kurš saskaņā ar šo likumu tiek maksāts no valsts vai valsts augstskolas zinātniskā institūta noslēgto līgumu īstenošanai iegūtajiem finanšu līdzekļiem un kura apmēru nosaka atbilstoši zinātniskā institūta iekšējai darba samaksas politikai, kā arī pamatojoties uz zinātniskā institūta noslēgtajiem līgumiem.
+37.¹pants. Valsts zinātniskā institūta, valsts augstskolas vai valsts augstskolas zinātniskā institūta zinātnisko darbinieku atlīdzība
+(1) Valsts zinātniskā institūta, valsts augstskolas vai valsts augstskolas zinātniskā institūta zinātnisko darbinieku atlīdzību veido:
+1) atlīdzība, kura darbiniekam tiek piešķirta un aprēķināta saskaņā ar Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likumu un normatīvajiem aktiem par bāzes finansējuma piešķiršanas kārtību;
+2) atlīdzība, kura saskaņā ar šo likumu tiek maksāta no valsts vai valsts augstskolas zinātniskā institūta noslēgto līgumu īstenošanai iegūtajiem finanšu līdzekļiem un kuras apmēru nosaka atbilstoši zinātniskā institūta iekšējai darba samaksas politikai, kā arī pamatojoties uz zinātniskā institūta noslēgtajiem līgumiem.
+(2) No valsts budžeta, Eiropas Savienības un ārvalstu finanšu atbalsta līdzekļiem finansēto pētījumu projektu īstenošanai izmantotā laika un paveiktā darba uzskaites sistēmu nosaka Ministru kabinets.

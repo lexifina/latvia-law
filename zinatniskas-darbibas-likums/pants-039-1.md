@@ -1,0 +1,2 @@
+39.¹ pants. Valsts zinātniskās institūcijas tiesības uz valsts intelektuālā īpašuma izmantošanu
+Valsts zinātniskajai institūcijai ir tiesības izmantot intelektuālo īpašumu, kas radīts valsts budžeta finansētas zinātniskās darbības rezultātā. Ministru kabinets nosaka šā īpašuma izmantošanas kārtību un nosacījumus valsts zinātniskajā institūcijā, ievērojot intelektuālo īpašumu regulējošo normatīvo aktu noteikumus.
