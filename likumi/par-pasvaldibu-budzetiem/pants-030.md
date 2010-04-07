@@ -1,1 +1,1 @@
-30.pants. Pašvaldības budžeta izpildes gaitā likumā "Par pašvaldībām" un šajā likumā noteiktajā kārtībā dome (padome) ir tiesīga grozīt pašvaldības budžetu, arī apturēt asignējumus, samazināt vai palielināt uzdevumu finansējuma apjomus, paredzēt jaunu uzdevumu finansēšanu.
+30.pants. Pašvaldības budžeta izpildes gaitā likumā "Par pašvaldībām" un šajā likumā noteiktajā kārtībā dome ir tiesīga grozīt pašvaldības budžetu, arī apturēt asignējumus, samazināt vai palielināt uzdevumu finansējuma apjomus, paredzēt jaunu uzdevumu finansēšanu.
