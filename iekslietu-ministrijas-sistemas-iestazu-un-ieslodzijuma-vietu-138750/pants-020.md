@@ -1,5 +1,5 @@
 20.pants. Speciālo dienesta pakāpju piešķiršanas vispārīgie noteikumi
-(1) Ierindnieka, kaprāļa, seržanta, virsseržanta un virsniekvietnieka speciālo dienesta pakāpi piešķir amatpersona, kura ir tiesīga iecelt amatpersonu amatā, bet Iekšlietu ministrijas Informācijas centrā, Iekšlietu ministrijas Sakaru centrā un Latvijas Policijas akadēmijā - iekšlietu ministrs.
+(1) Ierindnieka, kaprāļa, seržanta, virsseržanta un virsniekvietnieka speciālo dienesta pakāpi piešķir amatpersona, kura ir tiesīga iecelt amatpersonu amatā.
 (2) Leitnanta, virsleitnanta, kapteiņa, majora, pulkvežleitnanta un pulkveža speciālo dienesta pakāpi piešķir attiecīgais ministrs.
 (3) Ģenerāļa speciālo dienesta pakāpi piešķir Ministru kabinets.
 (4) Amatpersonai kārtējo speciālo dienesta pakāpi piešķir, ja vienlaikus pastāv šādi nosacījumi:

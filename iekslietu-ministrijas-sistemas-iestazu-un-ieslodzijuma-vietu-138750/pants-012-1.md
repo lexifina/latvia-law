@@ -1,0 +1,2 @@
+12.¹ pants. Amatpersonas norīkošana uz citu struktūrvienību
+Ņemot vērā dienesta nepieciešamību, ar Iestādes vadītāja vai viņa pilnvarotas amatpersonas rīkojumu (pavēli) amatpersonu uz laiku līdz vienam mēnesim var norīkot pildīt dienesta pienākumus citā struktūrvienībā vienas reģionālās (teritoriālās) struktūrvienības ietvaros, sedzot ar norīkošanu saistītos ceļa izdevumus un nodrošinot ar naktsmītni. Šāda norīkošana nav uzskatāma par pārcelšanu citā amatā vai komandējumu.

@@ -4,7 +4,7 @@
 2) kurām ir vismaz vidējā izglītība;
 3) kuras prot latviešu valodu tādā apjomā, kāds nepieciešams profesionālo un amata pienākumu veikšanai;
 4) kuras nav atvaļinātas no dienesta Iekšlietu ministrijas sistēmā vai Ieslodzījuma vietu pārvaldē sakarā ar to, ka tām piemērots disciplinārsods - atvaļināšana no dienesta.
-(2) Ņemot vērā dienesta nepieciešamību, Iestādes vadītājs dienestā var pieņemt arī personu, kura ir vecāka par 40 gadiem un kuras izdienas laiks Iekšlietu ministrijas sistēmā vai Ieslodzījuma vietu pārvaldē nav īsāks par 10 gadiem.
+(2) Ņemot vērā dienesta nepieciešamību, Iestādes vadītājs dienestā var pieņemt arī personu, kura ir vecāka par 40 gadiem un kuras izdienas laiks Iekšlietu ministrijas sistēmā vai Ieslodzījuma vietu pārvaldē, vai kuras militārā dienesta izdienas stāžs nav īsāks par 10 gadiem.
 (3) Personai, kura vēlas iestāties dienestā, ir pienākums:
 1) uzrādīt personu apliecinošu dokumentu;
 2) uzrādīt izglītību apliecinošus dokumentus un valsts valodas prasmes apliecību, ja izglītība nav iegūta valsts valodā;
