@@ -9,8 +9,8 @@
 7) sabiedrība 12 mēnešu laikā pēc licences saņemšanas nav uzsākusi šajā likumā atļauto darbību;
 8) sabiedrības darbība izbeigta pēc tiesas nolēmuma;
 9) sabiedrība pasludināta par maksātnespējīgu;
-10) sabiedrība izbeidz darbību un iesniedz Komisijai iesniegumu par licences anulēšanu;
-11) sabiedrība tiek pievienota citai sabiedrībai.
+10) sabiedrība iesniedz Komisijai iesniegumu par licences anulēšanu;
+11) sabiedrība tiek reorganizēta vai likvidēta.
 (2) Ja Komisija konstatē šā panta pirmās daļas 1., 2., 3., 4., 5., 6. vai 7.punktā minētos pārkāpumus, tā izsaka sabiedrībai brīdinājumu vai uzliek šā likuma 87.pantā paredzēto soda naudu un nosaka termiņu, kādā sabiedrībai jānovērš konstatētais pārkāpums. Pēc attiecīgā termiņa beigām sabiedrības pienākums ir iesniegt Komisijai ziņojumu par veiktajiem pasākumiem un to rezultātiem.
 (3) Ja sabiedrība tai noteiktajā termiņā nav novērsusi Komisijas konstatētos pārkāpumus, Komisija lemj par sabiedrībai izsniegtās licences anulēšanu.
 (4) Lēmumu par licences anulēšanu, sabiedrības brīdināšanu vai soda naudas uzlikšanu un pārkāpumu novēršanas termiņa noteikšanu Komisija rakstveidā paziņo sabiedrībai triju dienu laikā no lēmuma pieņemšanas dienas.

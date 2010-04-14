@@ -1,6 +1,6 @@
 11.pants. Licences izsniegšanas noteikumi
 (1) Komisija lēmumu par licences izsniegšanu pieņem triju mēnešu laikā pēc tam, kad saņemti visi šajā likumā noteiktie lēmuma pieņemšanai nepieciešamie dokumenti, kas sagatavoti un noformēti atbilstoši normatīvajos aktos noteiktajām prasībām.
-(2) Komisija izsniedz licenci 10 dienu laikā no dienas, kad pieņemts lēmums par licences izsniegšanu. Licenci izsniedz pēc tam, kad saņemts dokuments, kas apliecina valsts nodevas samaksu.
+(2) Komisija izsniedz licenci 10 dienu laikā no dienas, kad pieņemts lēmums par licences izsniegšanu.
 (3) Komisija neizsniedz licenci, ja:
 1) dibinot sabiedrību, nav ievērots šis likums un citi normatīvie akti;
 2) sabiedrības padomes locekļi un amatpersonas neatbilst šajā likumā noteiktajām prasībām;

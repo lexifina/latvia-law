@@ -3,13 +3,13 @@
 (2) Fonda prospektā sniedz informāciju, kas nepieciešama ieguldītājiem, lai viņi varētu pieņemt pamatotu lēmumu par piedāvāto ieguldījumu un potenciālo risku, kas ir saistīts ar šādu ieguldījumu.
 (3) Fonda prospektā sniedz šā likuma 57.pantā minēto informāciju. Fonda prospektā nav jāatkārto tā informācija, kas iekļauta attiecīgā fonda pārvaldes nolikumā un ir līdzvērtīga šā likuma 57.pantā minētajai informācijai.
 (4) Fonda prospekts un fonda saīsinātais prospekts stājas spēkā ar brīdi, kad fonds ir reģistrēts Komisijā.
-(5) Ja sabiedrība vēlas izdarīt grozījumus informācijā, kura tiek sniegta atbilstoši šā likuma 57.panta trešās daļas 1., 2., 3., 4., 5., 7., 8., 9., 11., 12., 13., 14., 15. un 16.punktam, pirms attiecīgo grozījumu izdarīšanas sabiedrība Komisijai iesniedz:
+(5) Ja sabiedrība vēlas izdarīt grozījumus informācijā, kura tiek sniegta atbilstoši šā likuma 57.panta trešās daļas 1., 2., 3., 4., 5., 7., 8., 9., 10.¹, 11., 12., 13., 14., 15. un 16.punktam, pirms attiecīgo grozījumu izdarīšanas sabiedrība Komisijai iesniedz:
 1) attiecīgās sabiedrības pārvaldes institūcijas lēmumu par fonda prospekta grozījumu apstiprināšanu;
-2) fonda prospekta grozījumus, kuri noformēti atbilstoši Komisijas noteiktajam paraugam. Ja dokuments ir papīra formā, to iesniedz divos eksemplāros;
-3) fonda prospekta tekstu, kurā ir iekļauti grozījumi. Prospekta tekstu iesniedz, izmantojot elektroniskos datu nesējus.
-(6) Komisija izskata iesniegtos fonda prospekta grozījumus un 15 darbdienu laikā pieņem lēmumu par grozījumu reģistrēšanu, ja tie atbilst šā likuma prasībām un nav pretrunā ar ieguldītāju likumīgajām interesēm.
-(7) Ja fonda prospektā nepieciešams izdarīt grozījumus, ņemot vērā pārmaiņas sabiedrības kapitālā, padomes vai amatpersonu sastāvā vai citas pārmaiņas sabiedrības vai fonda darbībā, kuras atbilstoši šim likumam ir saskaņojamas ar Komisiju, sabiedrība pēc šo pārmaiņu saskaņošanas ar Komisiju izdara attiecīgus grozījumus fonda prospektā bez iepriekšējas to reģistrācijas Komisijā un atbilstoši šā panta piektās daļas 3.punktam iesniedz Komisijai pilnu fonda prospekta tekstu.
+2) fonda prospekta grozījumus un fonda prospekta tekstu, kurā ir iekļauti grozījumi. Fonda prospekta grozījumus un fonda prospekta tekstu iesniedz, izmantojot elektroniskos datu nesējus;
+3) (izslēgts ar 11.03.2010. likumu).
+(6) Komisija izskata iesniegtos fonda prospekta grozījumus un 15 darbdienu laikā reģistrē grozījumus, ja tie atbilst šā likuma prasībām un nav pretrunā ar ieguldītāju likumīgajām interesēm.
+(7) Ja fonda prospektā nepieciešams izdarīt grozījumus, ņemot vērā pārmaiņas sabiedrības kapitālā, padomes vai amatpersonu sastāvā vai citas pārmaiņas sabiedrības vai fonda darbībā, kuras atbilstoši šim likumam ir saskaņojamas ar Komisiju, sabiedrība pēc šo pārmaiņu saskaņošanas ar Komisiju izdara attiecīgus grozījumus fonda prospektā bez iepriekšējas to reģistrācijas Komisijā un atbilstoši šā panta piektās daļas 2.punktam iesniedz Komisijai pilnu fonda prospekta tekstu.
 (8) Sabiedrība pēc fonda prospekta grozījumu reģistrācijas Komisijā fonda pārvaldes nolikumā noteiktajā kārtībā nekavējoties informē fonda ieguldītājus par fonda prospekta grozījumiem un to spēkā stāšanos.
-(9) Šā panta piektajā daļā minētie fonda prospekta grozījumi stājas spēkā mēnesi pēc to reģistrācijas Komisijā.
+(9) Šā panta piektajā daļā minētie fonda prospekta grozījumi stājas spēkā ne agrāk kā 10 dienas pēc to reģistrācijas Komisijā vai citā Komisijas noteiktajā termiņā, kas nevar būt ilgāks par trim mēnešiem no grozījumu reģistrācijas dienas un tiek noteikts, ievērojot fonda prospekta grozījumu saturu un fonda ieguldītāju intereses.
 (10) Šā panta septītajā daļā minētie fonda prospekta grozījumi stājas spēkā pēc to apstiprināšanas sabiedrības pārvaldes institūcijā.
 (11) Fonda saīsinātā prospekta grozījumiem piemēro šajā pantā minētos fonda prospekta grozīšanas nosacījumus.

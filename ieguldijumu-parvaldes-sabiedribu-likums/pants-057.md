@@ -44,6 +44,6 @@
 1) fonda ieguldījumu apliecību emisijas cenu, apjomu un laiku, bet, ja emisiju ir paredzēts veikt vairākos laidienos, norāda arī ieguldījumu apliecību emisijas laidienu veikšanas kārtību;
 2) fonda ieguldītāju tiesības pieprasīt ieguldītāju pilnsapulces sasaukšanu un piedalīties tajā;
 3) ieguldītāju pilnsapulces kompetenci un lēmumu pieņemšanas kārtību;
-4) nekustamā īpašuma novērtēšanas kārtību, ja fonda līdzekļus plānots ieguldīt nekustamajā īpašumā vai tā lietošanas tiesībās.
+4) nekustamā īpašuma novērtēšanas kārtību, ja fonda līdzekļus plānots ieguldīt nekustamajā īpašumā.
 (6) Fonda prospekta pielikumā pievieno fonda pēdējā gada pārskatu vai pusgada pārskatu, ja tas ir apstiprināts pēc pēdējā gada pārskata apstiprināšanas.
 (7) Fonda prospekta noteikumi kļūst saistoši sabiedrības un ieguldītāja savstarpējās attiecībās, tiklīdz ieguldītājs fonda prospektā un pārvaldes nolikumā noteiktajā kārtībā ir ieguvis attiecīgā fonda ieguldījumu apliecības.

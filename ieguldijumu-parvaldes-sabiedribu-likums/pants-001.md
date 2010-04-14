@@ -2,9 +2,9 @@
 Likumā ir lietoti šādi termini:
 1) fonda ieguldītājs - persona, kas ieguldījumu fondā ieguldījusi naudu;
 2) fonda manta - lietas, kuru kopība veido ieguldījumu fondu;
-3) ieguldījumu apliecība - pārvedams vērtspapīrs, kas apliecina fonda ieguldītāja līdzdalību ieguldījumu fondā un no šīs līdzdalības izrietošās tiesības;
+3) ieguldījumu apliecība - pārvedams vērtspapīrs, kas apliecina fonda ieguldītāja līdzdalību ieguldījumu fondā vai apakšfondā un no šīs līdzdalības izrietošās tiesības;
 4) ieguldījumu fonds (turpmāk arī - fonds) - lietu kopība, ko veido pret ieguldījumu apliecībām izdarītie ieguldījumi, kā arī darījumos ar ieguldījumu fonda mantu un uz tajā esošo tiesību pamata iegūtās lietas;
-5) ieguldījuma objekts - pārvedami vērtspapīri, naudas tirgus instrumenti, nekustamais īpašums un tā lietošanas tiesības, noguldījums kredītiestādē un citi finanšu instrumenti, kurus saskaņā ar šā likuma noteikumiem ieguldījumu pārvaldes sabiedrība ir tiesīga iegādāties par fonda mantu;
+5) ieguldījuma objekts - pārvedami vērtspapīri, naudas tirgus instrumenti, nekustamais īpašums, noguldījums kredītiestādē un citi finanšu instrumenti, kurus saskaņā ar šā likuma noteikumiem ieguldījumu pārvaldes sabiedrība ir tiesīga iegādāties par fonda mantu;
 6) sabiedrības amatpersonas - ieguldījumu pārvaldes sabiedrības valdes locekļi, ieguldījumu fondu pārvaldnieki, kā arī citas personas, kuras ir pilnvarotas dot rīkojumus attiecībā uz fonda mantu vai rīkoties ar to šīs sabiedrības vārdā;
 7) sabiedrības ieinteresētās personas - ieguldījumu pārvaldes sabiedrības padomes locekļi, amatpersonas, akcionāri, kuriem pieder 10 un vairāk procentu sabiedrības balsstiesīgo akciju, kā arī visu šajā punktā minēto fizisko personu laulātie, vecāki vai bērni;
 8) riska samazināšanas princips - finansiālo zaudējumu riska samazināšana, sadalot ieguldījumu fonda mantu ieguldījuma objektos un ievērojot darījumu ierobežojumus, kā arī saglabājot iespēju iegūt vislielākos gaidāmos ienākumus;
@@ -27,5 +27,7 @@ a) dalības veidā - tieša līdzdalība, kas aptver 20 un vairāk procentus no 
 b) kontroles veidā,
 c) ar vienu un to pašu personu kontroles veidā;
 22) apakšfonds - nošķirta ieguldījumu fonda mantas daļa, ko veido pret ieguldījumu apliecībām izdarītie ieguldījumi, kā arī darījumos ar šo mantu un uz tajā esošo tiesību pamata iegūtās lietas;
-23) ieguldījumi nekustamajā īpašumā vai tā lietošanas tiesībās - tieši vai netieši fonda līdzekļu ieguldījumi nekustamajā īpašumā, tā lietošanas tiesībās, darījumos, kas saistīti ar nekustamā īpašuma projektu attīstības finansēšanu, tai skaitā darījumos ar atliktu izpildes termiņu, ja šādi ieguldījumi ne pēc to būtības, ne juridiskās formas nav pretrunā ar šajā likumā un citos likumos noteiktajiem darījumu ierobežojumiem;
-24) Desmit valstu grupa - valstis, kuras ar Starptautisko Valūtas fondu noslēgušas Vispārējo vienošanos par aizņēmumiem.
+23) ieguldījumi nekustamajā īpašumā - tieši vai netieši fonda līdzekļu ieguldījumi nekustamajā īpašumā, tā lietošanas tiesībās, darījumos, kas saistīti ar nekustamā īpašuma projektu attīstības finansēšanu, tai skaitā darījumos ar atliktu izpildes termiņu, ja šādi ieguldījumi ne pēc to būtības, ne juridiskās formas nav pretrunā ar šajā likumā un citos likumos noteiktajiem darījumu ierobežojumiem;
+24) Desmit valstu grupa - valstis, kuras ar Starptautisko Valūtas fondu noslēgušas Vispārējo vienošanos par aizņēmumiem;
+25) būtiska līdzdalība - personas vai vairāku personu, kas uz vienošanās pamata rīkojas saskaņoti, tieši vai netieši iegūta līdzdalība, kura aptver 10 un vairāk procentus no komercsabiedrības pamatkapitāla vai balsstiesīgo akciju skaita vai dod iespēju būtiski ietekmēt komercsabiedrības finanšu un darbības politikas noteikšanu;
+26) kritiskās situācijas analīze - analīze, ko ieguldījumu pārvaldes sabiedrība veic, lai noteiktu un izvērtētu dažādu ārkārtēju, bet iespējami nelabvēlīgu notikumu vai tirgus nosacījumu izmaiņu potenciālo ietekmi uz valsts fondēto pensiju shēmas līdzekļu ieguldījumu plāna portfeli.

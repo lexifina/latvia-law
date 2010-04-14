@@ -23,8 +23,8 @@ e) veicama ieguldījumu apliecību emisija, atpakaļpirkšana un atpakaļpieņem
 (4) Nolikumā drīkst ietvert arī citus noteikumus, kas nav pretrunā ar likumu vai Komisijas noteikumiem.
 (5) Ja nolikumā tiek izdarīti grozījumi, sabiedrība iesniedz Komisijai iesniegumu par nolikuma grozījumu reģistrāciju. Iesniegumam pievieno:
 1) attiecīgās sabiedrības pārvaldes institūcijas lēmumu par nolikuma grozījumu apstiprināšanu;
-2) nolikuma grozījumus, kuri noformēti atbilstoši Komisijas noteiktajam paraugam. Ja dokuments ir papīra formā, to iesniedz divos eksemplāros;
-3) fonda nolikuma tekstu, kurā ir iekļauti grozījumi. Nolikuma tekstu iesniegumam pievieno, izmantojot elektroniskos datu nesējus.
-(6) Komisija izskata iesniegtos grozījumus un 15 darbdienu laikā pieņem lēmumu par grozījumu reģistrēšanu, ja tie atbilst šā likuma prasībām un nav pretrunā ar fonda ieguldītāju likumīgajām interesēm.
+2) nolikuma grozījumus un fonda nolikuma tekstu, kurā ir iekļauti grozījumi. Nolikuma grozījumus un nolikuma tekstu iesniegumam pievieno, izmantojot elektroniskos datu nesējus;
+3) (izslēgts ar 11.03.2010. likumu).
+(6) Komisija izskata iesniegtos grozījumus un 15 darbdienu laikā reģistrē grozījumus, ja tie atbilst šā likuma prasībām un nav pretrunā ar fonda ieguldītāju likumīgajām interesēm.
 (7) Grozījumi nolikumā stājas spēkā ne agrāk kā 10 dienas pēc to reģistrācijas Komisijā vai citā Komisijas noteiktajā termiņā, kas nevar būt ilgāks par trim mēnešiem no grozījumu reģistrācijas dienas un tiek noteikts, ievērojot nolikuma grozījumu saturu un fonda ieguldītāju intereses.
-(8) Ja sabiedrība vēlas izdarīt grozījumus informācijā, kas tiek sniegta saskaņā ar šā panta trešās daļas 2.punktu, sabiedrība izdara attiecīgus grozījumus nolikumā, tos iepriekš nereģistrējot Komisijā, bet atbilstoši šā panta piektās daļas 3.punktam iesniedzot Komisijai pilnu nolikuma tekstu. Šādi grozījumi nolikumā stājas spēkā pēc to apstiprināšanas sabiedrības pārvaldes institūcijā.
+(8) Ja sabiedrība vēlas izdarīt grozījumus informācijā, kas tiek sniegta saskaņā ar šā panta trešās daļas 2.punktu, sabiedrība izdara attiecīgus grozījumus nolikumā, tos iepriekš nereģistrējot Komisijā, bet atbilstoši šā panta piektās daļas 2.punktam iesniedzot Komisijai pilnu nolikuma tekstu. Šādi grozījumi nolikumā stājas spēkā pēc to apstiprināšanas sabiedrības pārvaldes institūcijā.
