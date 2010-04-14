@@ -7,7 +7,8 @@
 5) pasākumi komercdarbības vai pašnodarbinātības uzsākšanai;
 6) darba izmēģinājumi darba vietā, kas dod iespēju noteikt profesionālo piemērotību;
 7) apmācība pie darba devēja;
-8) kompleksie atbalsta pasākumi.
+8) kompleksie atbalsta pasākumi;
+9) citi Eiropas Savienības struktūrfondu ietvaros paredzētie pasākumi.
 (2) Aktīvo nodarbinātības pasākumu mērķis ir īstenot darba tirgus politiku, lai samazinātu bezdarbu un veicinātu iedzīvotāju ekonomiskās aktivitātes pieaugumu, jo īpaši lai:
 1) motivētu bezdarbniekus, darba meklētājus un ekonomiski neaktīvos iedzīvotājus aktīvāk meklēt darbu;
 2) veicinātu darba tirgus apstākļiem piemēroties spējīga un apmācīta darbaspēka veidošanu;
