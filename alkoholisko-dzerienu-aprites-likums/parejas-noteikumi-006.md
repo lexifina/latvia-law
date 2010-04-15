@@ -1,0 +1,1 @@
+6. Grozījumi šā likuma 3.panta 3.¹ daļā, 6.panta devītajā daļā un 8.panta trešā un ceturtā daļa (par vietējās pašvaldības tiesībām noteikt alkoholisko dzērienu mazumtirdzniecības kārtību novietnēs) stājas spēkā 2010.gada 20.aprīlī.

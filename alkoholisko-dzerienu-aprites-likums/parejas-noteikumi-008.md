@@ -1,0 +1,1 @@
+8. Ministru kabinets ne vēlāk kā līdz 2010.gada 20.aprīlim izdara nepieciešamos grozījumus attiecīgajos Ministru kabineta noteikumos, lai nodrošinātu šā likuma 3.panta sestajā daļā paredzēto atvieglojumu un atbrīvojumu piemērošanas kārtību.
