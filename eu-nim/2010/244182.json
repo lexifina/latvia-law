@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2010.gada 14.aprīļa noteikumi Nr.352 „Eļļas augu un šķiedraugu sēklaudzēšanas un sēklu tirdzniecības noteikumi”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "61 (4253)",
+  "official_journal_page": ".",
+  "official_journal_date": "2010-04-16",
+  "entry_into_force": "2010-04-17",
+  "notification_date": "2017-01-10",
+  "commission_reference": "MNE(2017)50268",
+  "nim_celex": "72016L0011LVA_244182",
+  "nim_id": "244182",
+  "transposes_celex": [
+    "32016L0011"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/84275400-d980-11e6-ad7c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
