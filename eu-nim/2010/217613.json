@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "SPRK padomes 2010.gada 14.aprīļa lēmums Nr.1/7 \"Siltumenerģijas apgādes pakalpojumu tarifu aprēķināšanas metodika\"",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "62 (4254)",
+  "official_journal_page": null,
+  "official_journal_date": "2010-04-20",
+  "entry_into_force": "2010-04-21",
+  "notification_date": "2014-06-18",
+  "commission_reference": "MNE(2014)53698",
+  "nim_celex": "72012L0027LVA_217613",
+  "nim_id": "217613",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1504fd1d-d9a7-41e8-9a0b-88ddebb2dd2a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
