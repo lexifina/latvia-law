@@ -1,1 +1,1 @@
-8. No 2009.gada 1.jūlija līdz 2012.gada 31.decembrim izdienas pensijas saņēmējam, kurš 2009.gada 1.jūlijā ir obligāti sociāli apdrošinātā persona (darba ņēmējs vai pašnodarbinātais), izdienas pensiju pārrēķina un samazina par 70% no aprēķinātā izdienas pensijas apmēra. Izdienas pensijas apmērs atjaunojams ar tā mēneša pirmo datumu, kas seko mēnesim, kurā zaudēts obligāti sociāli apdrošinātās personas statuss.
+8. (Atzīts par spēkā neesošu no 16.06.2009. ar Satversmes tiesas 21.04.2010. spriedumu, kas stājas spēkā 23.04.2010.)
