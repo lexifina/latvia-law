@@ -1,0 +1,1 @@
+1.pants. 2009.gada 9.novembrī Džakartā parakstītais Pamatnolīgums par visaptverošu partnerību un sadarbību starp Eiropas Kopienu un tās dalībvalstīm, no vienas puses, un Indonēzijas Republiku, no otras puses, (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
