@@ -1,0 +1,1 @@
+3.¹ Līdz 2016.gada 1.jūlijam Iekšlietu ministrijas sistēmas iestāžu amatpersonām ar speciālajām dienesta pakāpēm var piešķirt mācību atvaļinājumu semestra pārbaudījumu kārtošanai līdz 20 darba dienām.

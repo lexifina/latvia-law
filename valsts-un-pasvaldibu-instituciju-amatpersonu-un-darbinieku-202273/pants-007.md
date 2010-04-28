@@ -4,4 +4,4 @@
 (3) Ministru kabinets nosaka:
 1) valsts un pašvaldību institūciju amatu katalogu;
 2) amatpersonu (darbinieku) kvalifikācijas pakāpes, to noteikšanas kārtību atbilstoši amata pienākumu vai darba izpildes vērtējumam, kurā tiek ņemta vērā iepriekšējā periodā plānoto uzdevumu izpilde vai mērķu sasniegšana, un pieredzei amatā (dienestā, darbā) valsts un pašvaldību institūcijās, kā arī mēnešalgu grupas, apmērus un mēnešalgas noteikšanas kārtību.
-(4) Amatpersonai (darbiniekam), kuru norīko darbā Eiropas Savienības institūcijās, saglabā mēnešalgu normatīvajos aktos noteiktajā kārtībā.
+(4) Amatpersonai (darbiniekam), kuru norīko darbā Eiropas Savienības vai tās dalībvalsts institūcijā, saglabā mēnešalgu normatīvajos aktos noteiktajā kārtībā.

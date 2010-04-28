@@ -1,0 +1,1 @@
+1.¹ Līdz šā likuma 7.panta trešās daļas 1.punktā minēto noteikumu izdošanai, bet ne ilgāk kā līdz 2010.gada 15.maijam ir piemērojami Ministru kabineta 2005.gada 3.maija noteikumi Nr.310 "Noteikumi par amatu klasifikācijas sistēmu un amatu klasificēšanas kārtību valsts tiešās pārvaldes iestādēs", ciktāl tie nav pretrunā ar šo likumu.

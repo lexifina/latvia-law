@@ -18,5 +18,6 @@
 11) Centrālās vēlēšanu komisijas sekretāram - 2,82;
 12) Centrālās vēlēšanu komisijas loceklim - 2,12;
 13) Centrālās zemes komisijas priekšsēdētājam - 0,80;
-14) Augstākās izglītības padomes priekšsēdētājam - 2,33.
-(3) Šā panta otrās daļas 12.punktā minētais Centrālās vēlēšanu komisijas loceklis mēnešalgu saņem proporcionāli komisijā nostrādātajam laikam.
+14) Augstākās izglītības padomes priekšsēdētājam - 2,33;
+15) Augstākās izglītības padomes loceklim - 0,22.
+(3) Šā panta otrās daļas 12. un 15.punktā minētās amatpersonas mēnešalgu saņem proporcionāli nostrādātajam laikam.
