@@ -12,4 +12,4 @@
 4) darba un ražošanas metožu izvēle un lietošana, kā arī darba gaitas un darba laika organizācija;
 5) nepietiekama nodarbināto profesionālā sagatavotība un instruēšana, arī darba aizsardzības jomā;
 6) visu šajā panta daļā minēto apstākļu kopums.
-(4) Par darba vides riska novērtēšanas rezultātiem darba devējs šā likuma 9.panta piektajā daļā paredzētajos gadījumos informē Valsts darba inspekciju. Ja darba devējs uzsāk cita veida darbību, tas paziņo par to Valsts darba inspekcijai.
+(4) (Izslēgta ar 25.03.2010. likumu)

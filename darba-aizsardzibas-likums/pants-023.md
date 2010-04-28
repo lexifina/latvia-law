@@ -1,5 +1,5 @@
 23.pants. Valsts politika darba aizsardzības jomā
-(1) Valsts politika darba aizsardzības jomā pamatojas uz:
+(1) Valsts politika darba aizsardzības jomā ir vērsta uz preventīvu pasākumu veikšanu un pamatojas uz:
 1) nodarbinātā drošības un veselības aizsardzības prioritāti;
 2) valsts, pašvaldību, darba devēju organizāciju un nodarbināto arodbiedrību sadarbību darba aizsardzības jautājumos;
 3) darba aizsardzības jautājumu koordinēšanu ar citiem ekonomiskajiem un sociālajiem jautājumiem;

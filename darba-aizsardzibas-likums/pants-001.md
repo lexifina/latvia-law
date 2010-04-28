@@ -18,3 +18,4 @@ Likumā ir lietoti šādi termini:
 16) preventīvie pasākumi - rīcība vai pasākumi, ko uzņēmumā veic vai plāno visos darba posmos, lai novērstu vai mazinātu darba vides risku;
 17) uzņēmums - organizatoriska vienība, kurā darba devējs nodarbina nodarbinātos;
 18) uzticības persona - nodarbināto ievēlēta persona, kura apmācīta Ministru kabineta noteiktajā kārtībā un pārstāv nodarbināto intereses darba aizsardzībā;
+19) īpašs risks - darba vides risks, kas saistīts ar tādu paaugstinātu psiholoģisko vai fizisko slodzi vai tādu paaugstinātu risku nodarbinātā drošībai un veselībai, ko nevar novērst vai līdz pieļaujamam līmenim samazināt ar citiem darba aizsardzības pasākumiem, kā vien saīsinot darba laiku, kurā nodarbinātais pakļauts šim riskam.

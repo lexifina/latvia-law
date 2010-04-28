@@ -1,0 +1,1 @@
+8. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā sešus mēnešus no šā likuma 9.panta pirmās daļas jaunās redakcijas spēkā stāšanās dienas tiek piemēroti Ministru kabineta 2003.gada 17.jūnija noteikumi Nr.323 "Noteikumi par apmācību darba aizsardzības jautājumos", ciktāl tie nav pretrunā ar šo likumu.
