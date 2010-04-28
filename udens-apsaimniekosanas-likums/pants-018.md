@@ -8,7 +8,8 @@
 6) ūdensobjektiem un aizsargājamām teritorijām noteiktos kvalitātes mērķus;
 7) informāciju par plānotajiem pasākumiem, lai novērstu vai samazinātu piesārņojuma emisiju, kā arī sasniegtu vides kvalitātes mērķus;
 8) informāciju par citām programmām, kas saistītas ar upju baseinu apgabala apsaimniekošanu;
-9) pārskatu par sabiedrības informēšanu un konsultācijām, kas veiktas, izstrādājot vai atjaunojot plānu.
+9) pārskatu par sabiedrības informēšanu un konsultācijām, kas veiktas, izstrādājot vai atjaunojot plānu;
+10) informāciju un kopsavilkumu par veiktajiem pasākumiem, lai novērstu vai mazinātu pārrobežu piesārņojumu.
 (2) Ministru kabinets nosaka apsaimniekošanas plānā sniedzamās informācijas saturu un veidu, kā arī papildu informāciju, kas iekļaujama plānā, to atjaunojot.
-(3) Latvijas Vides, ģeoloģijas un meteoroloģijas aģentūra nodrošina apsaimniekošanas plānu pieejamību sabiedrībai.
-(4) Apsaimniekošanas plānu ņem vērā, izstrādājot attiecīgā reģiona vai vietējās pašvaldības teritorijas plānojumu vai tā grozījumus. Ja apsaimniekošanas plānā paredzētie pasākumi attiecas uz vairāku pašvaldību teritoriju attīstību, bet attiecīgās pašvaldības nav vienojušās par to iekļaušanu teritorijas plānojumā, lēmumu pēc konsultatīvās padomes ierosinājuma pieņem Vides ministrija.
+(3) Centrs nodrošina apsaimniekošanas plānu pieejamību sabiedrībai.
+(4) Apsaimniekošanas plānu var ņemt vērā, izstrādājot attiecīgā reģiona vai vietējās pašvaldības teritorijas plānojumu vai tā grozījumus.

@@ -18,4 +18,5 @@
 7) peldvietu izveidošanas un uzturēšanas kārtību un drošības prasības;
 8) kārtību, kādā izvietojami informatīvie uzraksti vai simboli par peldvietu;
 9) to peldvietu sarakstu, kurās peldvietas ūdens monitoringu peldsezonas laikā veic par valsts budžeta līdzekļiem;
-10) pasākumus peldvietu ūdens kvalitātes nodrošināšanai un cilvēku veselības aizsardzībai.
+10) pasākumus peldvietu ūdens kvalitātes nodrošināšanai un cilvēku veselības aizsardzībai;
+11) virszemes ūdensobjektus, kuros pastāv risks nesasniegt šajā likumā noteikto labu virszemes ūdeņu stāvokli šajā likumā paredzētajā termiņā (riska ūdensobjektus), kā arī prasības šādu ūdensobjektu aizsardzībai.

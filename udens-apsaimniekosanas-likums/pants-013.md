@@ -5,4 +5,4 @@
 3) pasākumu programmā ir iekļauti pasākumi, kas veicami ārkārtējos apstākļos, un tie nekavē atjaunot ūdens kvalitāti, kad stāvoklis normalizējies;
 4) veikti visi iespējamie pasākumi, lai jo drīz atjaunotu tādu ūdensobjekta stāvokli, kāds bija pirms ārkārtēju apstākļu ietekmes;
 5) kopsavilkumu par ārkārtēju apstākļu ietekmi un veiktajiem vai veicamajiem pasākumiem iekļauj apsaimniekošanas plāna jaunajā redakcijā.
-(2) Attiecīgā reģionālā vides pārvalde katrā konkrētā gadījumā nosaka šā panta pirmās daļas 1. un 4.punktā minētos pasākumus, kas ir saistoši ūdens resursu lietotājiem, vismaz reizi gadā kopā ar Latvijas Vides, ģeoloģijas un meteoroloģijas aģentūru izvērtē ārkārtēju apstākļu ietekmi un, ja nepieciešams, pārskata noteiktos pasākumus.
+(2) Attiecīgā reģionālā vides pārvalde katrā konkrētā gadījumā nosaka šā panta pirmās daļas 1. un 4.punktā minētos pasākumus, kas ir saistoši ūdens resursu lietotājiem, vismaz reizi gadā kopā ar centru izvērtē ārkārtēju apstākļu ietekmi un, ja nepieciešams, pārskata noteiktos pasākumus.

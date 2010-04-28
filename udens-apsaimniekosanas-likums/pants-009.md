@@ -4,7 +4,7 @@
 1) saskaņo ministriju un citu valsts pārvaldes institūciju, kā arī to reģionālo struktūrvienību, pašvaldību, nevalstisko organizāciju un citu interešu grupu intereses jautājumos, kas saistīti ar vides kvalitātes un ūdens lietošanas mērķu sasniegšanu attiecīgajā upju baseinu apgabalā;
 2) izskata un sniedz atzinumu par apsaimniekošanas plānu un pasākumu programmu, kā arī par sagatavotajiem priekšlikumiem attiecībā uz to īstenošanai nepieciešamajiem finanšu līdzekļiem.
 (3) (Izslēgta ar 03.02.2005. likumu.)
-(4) Latvijas Vides, ģeoloģijas un meteoroloģijas aģentūra katram upju baseinu apgabalam:
+(4) Valsts sabiedrība ar ierobežotu atbildību "Latvijas Vides, ģeoloģijas un meteoroloģijas centrs" (turpmāk - centrs) katram upju baseinu apgabalam:
 1) izstrādā ūdeņu stāvokļa monitoringa programmas (turpmāk - monitoringa programma);
 2) sagatavo priekšlikumus par monitoringa programmu īstenošanai nepieciešamajiem finanšu līdzekļiem;
 3) koordinē un organizē monitoringa programmu īstenošanu;
@@ -19,5 +19,5 @@
 12) sadarbojas ar attiecīgo valstu kompetentajām institūcijām, lai nodrošinātu šā likuma 2.pantā noteikto mērķu, tai skaitā vides kvalitātes mērķu sasniegšanu starptautiskajā upju baseinu apgabalā, kā arī koordinē kopīgas pasākumu programmas;
 13) veic sākotnējo plūdu riska novērtējumu un, pamatojoties uz tā rezultātiem, identificē teritorijas, kurās pastāv vai varētu rasties plūdu risks, kā arī sagatavo iespējamo plūdu postījumu vietu kartes un plūdu riska kartes šīm teritorijām;
 14) pamatojoties uz šīs daļas 13.punktā minētajām kartēm, izstrādā plūdu riska pārvaldības plānu, ko iekļauj upju baseinu apgabala apsaimniekošanas plānā kā tā sastāvdaļu.
-(5) Valsts vides dienests uzrauga pasākumu programmas īstenošanu un, ievērojot Latvijas Vides, ģeoloģijas un meteoroloģijas aģentūras veikto analīzi un izstrādātos priekšlikumus, normatīvajos aktos noteiktajā kārtībā pārskata izsniegto atļauju nosacījumus.
+(5) Valsts vides dienests uzrauga pasākumu programmas īstenošanu un, ievērojot centra veikto analīzi un izstrādātos priekšlikumus, normatīvajos aktos noteiktajā kārtībā pārskata izsniegto atļauju nosacījumus.
 (6) Ministru kabinets nosaka sākotnējā plūdu riska novērtējumā, iespējamo plūdu postījumu vietu kartēs, plūdu riska kartēs un plūdu riska pārvaldības plānā sniedzamās informācijas saturu un veidu, kā arī papildu informāciju, kas iekļaujama, atjaunojot minētos dokumentus.

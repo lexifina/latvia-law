@@ -1,0 +1,1 @@
+19. Šā likuma 15.panta otrajā daļā paredzēto uzskaiti uzsāk, iekļaujot datus par vienu gadu laikposmā no 2008.gada līdz 2010.gadam. Prioritārām un bīstamām vielām, uz kurām attiecas nosacījumi par augu aizsardzības līdzekļu laišanu tirgū, uzskaites datus var aprēķināt kā vidējo vērtību par laikposmu no 2008.gada līdz 2010.gadam.
