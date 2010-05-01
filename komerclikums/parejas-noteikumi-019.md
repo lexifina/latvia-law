@@ -1,0 +1,1 @@
+19. Grozījumi šā likuma 28.pantā par firmas atšķiramību no citos komercreģistra iestādes reģistros jau ierakstītu firmu vai nosaukumu neskar komersanta tiesības uz firmu, kas ierakstīta komercreģistrā līdz šo grozījumu spēkā stāšanās dienai.

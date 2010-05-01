@@ -1,7 +1,7 @@
 187.pants. Daļu uzskaite
 (1) Daļu uzskaitei sabiedrība ved dalībnieku reģistru.
 (2) Sabiedrības dalībnieku reģistrā ieraksta šādas ziņas:
-1) fiziskajām personām - dalībnieka vārdu, uzvārdu, personas kodu un dzīvesvietu, bet juridiskajām personām - nosaukumu, reģistrācijas numuru un juridisko adresi;
+1) fiziskajām personām - dalībnieka vārdu, uzvārdu, personas kodu (ja personai nav personas koda, - dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti un institūciju, kas dokumentu izdevusi) un dzīvesvietu, bet juridiskajām personām - nosaukumu, reģistrācijas numuru un juridisko adresi;
 2) daļas nominālvērtību;
 3) katram dalībniekam piederošo daļu skaitu;
 4) datumu, kad dalībnieks veicis daļu apmaksu pilnā apmērā, vai, ja notikusi pamatkapitāla palielināšana, - arī daļu apmaksas termiņu.

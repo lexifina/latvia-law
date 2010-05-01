@@ -1,7 +1,7 @@
 235.pants. Akcionāru reģistrā ierakstāmās ziņas
 (1) Akcionāru reģistrā ieraksta:
 1) ziņas par akcionāriem:
-a) fiziskajai personai - vārdu, uzvārdu, personas kodu un dzīvesvietu,
+a) fiziskajai personai - vārdu, uzvārdu, personas kodu (ja personai nav personas koda, - dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti un institūciju, kas dokumentu izdevusi) un dzīvesvietu,
 b) juridiskajai personai - nosaukumu, reģistrācijas numuru un juridisko adresi;
 2) akcijas kategoriju, skaitu, nominālvērtību, sērijas numuru, ja tāds ir piešķirts, un no akcijas izrietošo balsu skaitu;
 3) datumu, kad akcionārs veicis akciju apmaksu pilnā apmērā, vai, ja tās nav apmaksātas pilnībā, - akciju apmaksas termiņu.

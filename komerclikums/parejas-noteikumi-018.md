@@ -1,0 +1,1 @@
+18. Grozījumi šā likuma 28.pantā stājas spēkā vienlaikus ar grozījumiem likumā "Par Latvijas Republikas Uzņēmumu reģistru", kas paredz komersanta firmas veidošanā un reģistrācijā ievērot nosacījumu, ka reģistrācijai pieteiktā komersanta firma nedrīkst sakrist ar komercreģistra iestādes reģistros ierakstīšanai pieteiktu vai ierakstītu firmu vai nosaukumu.

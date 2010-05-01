@@ -1,0 +1,1 @@
+20. Ja sabiedrības ar ierobežotu atbildību valdes vai padomes loceklis ievēlēts līdz 2010.gada 30.aprīlim un viņa pilnvaru termiņš nav beidzies līdz 2010.gada 1.maijam, tad uzskatāms, ka valdes vai padomes loceklis ir ievēlēts uz nenoteiktu laiku. Šis nosacījums nav piemērojams gadījumā, kad sabiedrības statūtos ir noteikts valdes vai padomes pilnvaru termiņš.

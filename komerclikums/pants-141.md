@@ -2,7 +2,7 @@
 (1) Dibinot sabiedrību, dibinātāji veic šādas darbības:
 1) izstrādā un paraksta sabiedrības dibināšanas dokumentus saskaņā ar šā likuma 142.pantu;
 2) izveido sabiedrības pārvaldes institūcijas un, ja tas ir sabiedrībā paredzēts, ieceļ revidentu;
-3) apmaksā pamatkapitālu noteiktā apmērā, organizē dibinātāju naudas iemaksu noguldīšanu bankā un saņem izziņu par izdarīto ieguldījumu;
+3) apmaksā pamatkapitālu noteiktā apmērā un organizē dibinātāju naudas iemaksu noguldīšanu bankā vai apliecina pamatkapitāla apmaksu šā likuma 147.panta 2.¹ daļā minētajā gadījumā;
 4) organizē mantiskā ieguldījuma novērtēšanu (ja tiek izdarīts mantiskais ieguldījums);
 5) samaksā valsts nodevu par ierakstīšanu komercreģistrā un maksu par reģistra ierakstu izsludināšanu;
 6) iesniedz komercreģistra iestādei pieteikumu.

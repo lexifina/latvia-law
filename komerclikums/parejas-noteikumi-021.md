@@ -1,0 +1,1 @@
+21. Ja akciju sabiedrības valdes vai padomes loceklis ievēlēts līdz 2010.gada 30.aprīlim, viņa pilnvaru termiņš izbeidzas tajā dienā, kad tas būtu notecējis saskaņā ar šā likuma noteikumiem, kas bija spēkā valdes vai padomes locekļa ievēlēšanas dienā.

@@ -3,7 +3,7 @@
 (2) Noliktavas zīmē norāda šādas ziņas:
 1) apzīmējumu, ka akts ir noliktavas zīme;
 2) noliktavas zīmes izdošanas vietu un datumu;
-3) glabājuma devēja nosaukumu, reģistrācijas numuru un juridisko adresi vai vārdu, uzvārdu, personas kodu un dzīvesvietu;
+3) glabājuma devēja nosaukumu, reģistrācijas numuru un juridisko adresi vai vārdu, uzvārdu, personas kodu (ja personai nav personas koda, - dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti un institūciju, kas dokumentu izdevusi) un dzīvesvietu;
 4) glabātāja firmu, reģistrācijas numuru un juridisko adresi;
 5) vietu (noliktavas vai citas glabāšanai piemērotas vietas adresi) un datumu, kad lieta pieņemta glabājumā;
 6) lietas raksturošanai pieņemto apzīmējumu un tās iepakojuma veidu, bet bīstamai lietai - tās speciālo un vispārpieņemto apzīmējumu;

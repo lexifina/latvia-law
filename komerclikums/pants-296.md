@@ -1,5 +1,5 @@
 296.pants. Padomes locekļu ievēlēšana un atsaukšana
-(1) Padome tiek ievēlēta uz laiku, kas nav ilgāks par trim gadiem.
+(1) Padome tiek ievēlēta uz laiku, kas nav ilgāks par pieciem gadiem.
 (2) Padomes locekli nevar ievēlēt bez viņa rakstveida piekrišanas būt par padomes locekli. Rakstveida piekrišanā padomes locekļa kandidāts norāda iespējamos likumā un statūtos noteiktos šķēršļus amata ieņemšanai vai to, ka viņam šādu šķēršļu nav.
 (3) Padomes locekli ievēlē amatā ne ilgāk kā uz padomes pilnvaru laiku.
 (4) Akcionārs vai akcionāru grupa ir tiesīgi izvirzīt ievēlēšanai padomē savus kandidātus ar tādu aprēķinu, lai, šā akcionāra vai akcionāru grupas pārstāvēto balsstiesīgo kapitālu dalot ar izvirzāmo kandidātu skaitu, katram no kandidātiem būtu ne mazāk par pieciem procentiem no akcionāru sapulcē pārstāvētā balsstiesīgā kapitāla. Katrs šādi izvirzītais kandidāts tiek iekļauts padomes locekļu vēlēšanu sarakstā.

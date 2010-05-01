@@ -1,5 +1,5 @@
 198.pants. Pamatkapitāla palielināšanas noteikumi
-Ar lēmumu par pamatkapitāla palielināšanu apstiprina pamatkapitāla palielināšanas noteikumus, kuros norāda:
+(1) Ar lēmumu par pamatkapitāla palielināšanu apstiprina pamatkapitāla palielināšanas noteikumus, kuros norāda:
 1) pamatkapitāla palielināšanas veidu;
 2) palielinātā pamatkapitāla lielumu un apmēru, par kādu tas palielināts;
 3) jauno daļu skaitu;
@@ -10,3 +10,4 @@ Ar lēmumu par pamatkapitāla palielināšanu apstiprina pamatkapitāla palielin
 8) jauno daļu apmaksas termiņu ar tādu aprēķinu, lai jaunā daļa būtu pilnīgi apmaksāta ne vēlāk kā sešu mēnešu laikā no dienas, kad pieņemts lēmums par pamatkapitāla palielināšanu;
 9) termiņu, no kura jaunās daļas dod tiesības uz dividendi;
 10) citus noteikumus, kas nav pretrunā ar likumu.
+(2) Ja sabiedrības pamatkapitāls ir mazāks par šā likuma 185.pantā noteikto, jaunās daļas apmaksājamas tikai naudā.

@@ -3,10 +3,10 @@
 (2) Pieteikumu paraksta visi dibinātāji.
 (3) Pieteikumam pievieno:
 1) dibināšanas dokumentus;
-2) bankas izziņu par pamatkapitāla apmaksu (ja pamatkapitāls vai tā daļa apmaksāta naudā);
+2) bankas izziņu vai citu dokumentu par pamatkapitāla apmaksu (ja pamatkapitāls vai tā daļa apmaksāta naudā);
 3) dokumentus, kas apliecina katra mantiskā ieguldījuma vērtību (ja tiek izdarīts mantiskais ieguldījums);
 4) katra padomes locekļa rakstveida piekrišanu būt par padomes locekli (ja sabiedrībai ir padome);
-5) katra valdes locekļa rakstveida piekrišanu būt par valdes locekli. Rakstveida piekrišana nav jāiesniedz tam valdes loceklim, kurš kā sabiedrības dibinātājs parakstījis pieteikumu sabiedrības ierakstīšanai komercreģistrā;
-6) katra valdes locekļa notariāli vai komercreģistra iestādes amatpersonas apliecinātu paraksta paraugu. Paraksta paraugs nav jāiesniedz tam valdes loceklim, kurš kā sabiedrības dibinātājs parakstījis pieteikumu par sabiedrības ierakstīšanu komercreģistrā un kura paraksts uz tā jau ir apliecināts;
+5) katra valdes locekļa rakstveida piekrišanu būt par valdes locekli. Rakstveida piekrišanu paraksta ar drošu elektronisko parakstu vai parakstu uz piekrišanas apliecina notariāli vai komercreģistra iestādes amatpersona. Ja valdes locekļa kandidāta piekrišana ir ietverta pieteikumā komercreģistra iestādei, pieteikumu paraksta ar drošu elektronisko parakstu vai attiecīgā valdes locekļa parakstu uz pieteikuma apliecina notariāli vai komercreģistra iestādes amatpersona. Ja līdz sabiedrības ierakstīšanai komercreģistrā mainās tās firma, rakstveida piekrišana atkārtoti nav jāiesniedz;
+6) (izslēgts ar 15.04.2010. likumu);
 7) valdes paziņojumu par sabiedrības juridisko adresi;
 8) (izslēgts ar 16.03.2006. likumu).

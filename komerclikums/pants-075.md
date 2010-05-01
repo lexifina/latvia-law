@@ -4,7 +4,7 @@
 2) tā savas saimnieciskās darbības veikšanai vienlaikus nodarbina vairāk nekā piecus darbiniekus.
 (2) Fiziskā persona var pieteikt sevi ierakstīšanai komercreģistrā kā komersantu arī tad, ja nepastāv šā panta pirmajā daļā minētie apstākļi.
 (3) Pamats individuālā komersanta ierakstīšanai komercreģistrā ir fiziskās personas pieteikums komercreģistra iestādei. Pieteikumā norāda:
-1) individuālā komersanta vārdu, uzvārdu, personas kodu un dzīvesvietu;
+1) individuālā komersanta vārdu, uzvārdu, personas kodu (ja personai nav personas koda, - dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti un institūciju, kas dokumentu izdevusi) un dzīvesvietu;
 2) individuālā komersanta firmu;
 3) individuālā komersanta juridisko adresi;
 4) (izslēgts ar 16.03.2006. likumu).
