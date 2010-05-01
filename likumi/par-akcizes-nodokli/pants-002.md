@@ -1,6 +1,6 @@
 2.pants. Likuma darbības joma
 (1) Šis likums nosaka kārtību, kādā akcīzes preces apliek ar akcīzes nodokli (turpmāk - nodoklis), un tas attiecas uz akcīzes precēm, ar kurām Latvijas Republikā tiek veiktas likumā noteiktās darbības.
-(2) Šā likuma 8.panta piektā daļa, 20.panta otrās daļas 1.punkta "a" apakšpunkts, 25.panta pirmā, otrā, trešā, ceturtā, piektā, sestā, septītā, astotā, devītā un desmitā daļa, 26., 31. un 32.pants neattiecas uz darbībām ar bezalkoholiskajiem dzērieniem, kafiju un dabasgāzi.
+(2) Šā likuma 8.panta piektā daļa, 20.panta otrās daļas 1.punkta "a" apakšpunkts, 25.panta pirmā, otrā, trešā, ceturtā, piektā, sestā, septītā, astotā, devītā un desmitā daļa, 26., 31. un 32.pants neattiecas uz darbībām ar bezalkoholiskajiem dzērieniem un kafiju. Šā likuma 2.panta sestā un septītā daļa, 8.pants, 20.panta otrās daļas 1.punkta "a" apakšpunkts, 25., 26., 31. un 32.pants neattiecas uz darbībām ar dabasgāzi.
 (2¹) Šā likuma nosacījumi (tajā skaitā par nodokļa samaksu, dokumentu iesniegšanu un citi) neattiecas uz tādu akcīzes preču uzglabāšanu, pārvietošanu un iznīcināšanu, kuras ir lietiskais pierādījums vai arestētā manta kriminālprocesā, izņemtā manta administratīvo pārkāpumu lietā vai valstij piekritīgā manta.
 (3) Šā likuma noteikumus par akcīzes preču pārvietošanu no citām dalībvalstīm vai uz citām dalībvalstīm attiecina arī uz šādām teritorijām:
 1) Monako firstisti (darījumus ar šo teritoriju uzskata par darījumiem, kuri uzsākti Francijas Republikā vai paredzēti tai);
@@ -23,7 +23,7 @@
 3) reģistrēta nosūtītāja darbībai ar alkoholiskajiem dzērieniem, tabakas izstrādājumiem vai naftas produktiem;
 4) alkoholisko dzērienu, tabakas izstrādājumu vai naftas produktu vairumtirdzniecībai;
 5) alkoholisko dzērienu, tabakas izstrādājumu vai naftas produktu mazumtirdzniecībai;
-6) dabasgāzes vairumtirdzniecībai un mazumtirdzniecībai, ja dabasgāzi paredzēts izmantot par degvielu.
+6) (izslēgts ar 22.04.2010. likumu).
 (7) Ministru kabinets nosaka akcīzes preču aprites kārtību, tajā skaitā:
 1) licences izsniegšanas, pārreģistrācijas, anulēšanas un izmantošanas kārtību, kā arī valsts nodevas likmi un maksāšanas kārtību par speciālas atļaujas (licences) izsniegšanu un pārreģistrāciju;
 2) citas prasības apstiprināta noliktavas turētāja, reģistrēta nosūtītāja un reģistrēta saņēmēja darbībai;

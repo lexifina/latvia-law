@@ -1,0 +1,1 @@
+43. Grozījumi attiecībā uz šā likuma 2.panta papildināšanu ar 7.¹ daļu, likuma papildināšanu ar 6.¹ pantu, 22.panta papildināšanu ar sesto daļu un 23.panta papildināšanu ar divdesmito daļu stājas spēkā 2010.gada 1.jūlijā.

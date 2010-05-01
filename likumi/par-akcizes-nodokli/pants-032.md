@@ -1,6 +1,6 @@
 32.pants. Nodrošinājuma piemērošana
 (1) Nodrošinājums nedrīkst būt mazāks par nodokli, kas aprēķināts par attiecīgo akcīzes preču daudzumu, ar kuru tiks veiktas darbības, piemērojot atlikto nodokļa maksāšanu, izņemot šā panta sestajā daļā minētos gadījumus.
-(2) Nodrošinājumu iesniedz atbilstoši aprēķinātajam nodoklim pēc šā likuma 12., 13.pantā vai 14.panta pirmajā daļā noteiktajām nodokļa likmēm.
+(2) Nodrošinājumu iesniedz atbilstoši aprēķinātajam nodoklim pēc šā likuma 12., 13. vai 14.pantā noteiktajām nodokļa likmēm.
 (2¹) Nodrošinājumu akcīzes precēm piemēro līdz brīdim, kad par tām ir samaksāts nodoklis vai tās ir atbrīvotas no nodokļa maksāšanas saskaņā ar šo likumu.
 (3) Nodrošinājumu iesniedz:
 1) par visām akcīzes precēm, kuras atrodas akcīzes preču noliktavā un kurām piemēro atlikto nodokļa maksāšanu, izņemot akcīzes preces, kas marķētas ar akcīzes nodokļa markām, par kurām attiecīgs apstiprināts noliktavas turētājs ir iesniedzis nodrošinājumu, saņemot akcīzes nodokļa markas saskaņā ar šā likuma 27.panta sesto daļu;

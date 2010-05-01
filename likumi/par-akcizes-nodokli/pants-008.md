@@ -1,7 +1,7 @@
 8.pants. Apstiprināts noliktavas turētājs
 (1) Apstiprināts noliktavas turētājs var veikt darbības ar akcīzes precēm akcīzes preču noliktavā, piemērojot tām atlikto nodokļa maksāšanu.
 (2) Apstiprināts noliktavas turētājs uzskaita, reģistrē un atbild par jebkurām darbībām ar akcīzes precēm akcīzes preču noliktavā.
-(3) Akcīzes precēm, kuras atrodas akcīzes preču noliktavā, piemēro atlikto nodokļa maksāšanu. Līdz brīdim, kad par akcīzes precēm ir samaksāts nodoklis vai tās ir atbrīvotas no nodokļa maksāšanas saskaņā ar šo likumu, iesniedzams nodrošinājums. Nodrošinājumu neiesniedz par bezalkoholiskajiem dzērieniem, kafiju un dabasgāzi.
+(3) Akcīzes precēm, kuras atrodas akcīzes preču noliktavā, piemēro atlikto nodokļa maksāšanu. Līdz brīdim, kad par akcīzes precēm ir samaksāts nodoklis vai tās ir atbrīvotas no nodokļa maksāšanas saskaņā ar šo likumu, iesniedzams nodrošinājums. Nodrošinājumu neiesniedz par bezalkoholiskajiem dzērieniem un kafiju.
 (4) Tikai akcīzes preču noliktavā atļautas šādas darbības:
 1) akcīzes preču ražošana, apstrāde un pārstrāde;
 2) akcīzes preču fasēšana;
