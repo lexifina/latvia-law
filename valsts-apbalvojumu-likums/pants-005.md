@@ -1,4 +1,4 @@
-5.pants. Valsts apbalvojumi to nozīmīguma secībā ir:
+5.pants. Valsts apbalvojumi ir:
 1) Triju Zvaigžņu ordenis un tā goda zīme;
 2) Viestura ordenis un tā goda zīme;
 3) Atzinības krusts un tā goda zīme;

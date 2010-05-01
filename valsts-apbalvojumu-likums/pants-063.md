@@ -1,3 +1,9 @@
-63.pants. (1) Personas, kurām piešķirti ārvalstu apbalvojumi, var tos pieņemt, bet publiski nēsāt - vienīgi ar Valsts prezidenta atļauju. Valsts prezidenta atļauja piešķirtā ārvalsts apbalvojuma publiskai nēsāšanai nav nepieciešama personām, kuras ārvalsts apbalvojumu saņēmušas valsts vizītes laikā, un Nacionālo bruņoto spēku karavīriem, kuri saņēmuši ārvalsts apbalvojumu, pildot aktīvo dienestu.
-(2) Persona, kura saņēmusi ārvalsts apbalvojumu un vēlas to publiski nēsāt, par to paziņo Ordeņu kapitulam triju mēnešu laikā no apbalvojuma pasniegšanas dienas. Apbalvotā persona paziņojumā norāda piešķirtā apbalvojuma nosaukumu, valsti, kura apbalvojumu piešķīrusi, apbalvojuma piešķiršanas datumu un paziņojumam pievieno apbalvojuma diploma kopiju.
-(3) Paziņojumu par ārvalsts apbalvojuma piešķiršanu un atļauju to publiski nēsāt publicē laikrakstā "Latvijas Vēstnesis".
+63.pants. Valsts apbalvojumu nēsāšanas secība ir šāda:
+1) Triju Zvaigžņu ordenis;
+2) Viestura ordenis;
+3) Atzinības krusts;
+4) Triju Zvaigžņu ordeņa goda zīme;
+5) Viestura ordeņa goda zīme;
+6) Atzinības krusta goda zīme;
+7) 1991.gada barikāžu dalībnieka piemiņas zīme;
+8) citu valstu apbalvojumi.

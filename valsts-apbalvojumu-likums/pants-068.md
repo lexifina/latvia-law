@@ -1,1 +1,1 @@
-68.pants. Ordeņu lenšu atgriezumus un goda zīmju lenšu atgriezumus nēsā krūšu kreisajā pusē tāpat kā ordeņu zīmes vai ordeņu goda zīmes. Lenšu atgriezumus var sakārtot vairākās rindās. Ordeņus un to goda zīmes kopā ar lenšu atgriezumiem drīkst nēsāt tikai militārpersonas.
+68.pants. Apbalvotās personas var attēlot ordeņa zīmi uz saviem personiskajiem zīmogiem, vērtslietām, dokumentiem, veidlapām, kā arī lietot to citādā veidā, garantējot pienācīgu cieņu pret apbalvojumu.

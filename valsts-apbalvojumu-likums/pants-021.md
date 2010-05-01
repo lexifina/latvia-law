@@ -2,3 +2,4 @@
 (2) Ar Viestura ordeni un tā goda zīmi apbalvo militārpersonas, kā arī citas fiziskās personas.
 (3) Ar Viestura ordeni un tā goda zīmi var apbalvot ārvalstu militārpersonas par nopelniem Latvijas valsts bruņoto spēku apmācībā un audzināšanā, valsts drošības un sabiedriskās kārtības uzturēšanā un nostiprināšanā.
 (4) Ar Viestura ordeni par sevišķiem nopelniem starpvalstu attiecību veidošanā var apbalvot ārvalstu vadītājus un ārvalstu oficiālo delegāciju locekļus, kā arī ārvalstu vēstniekus.
+(5) Ar Viestura ordeni var apbalvot arī pēc nāves, pieņemot Ordeņu kapitula lēmumu par personas atzīšanu par Viestura ordeņa lielkrusta komandieri. Šis noteikums neattiecas uz šā panta ceturtajā daļā minēto gadījumu.

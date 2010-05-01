@@ -1,3 +1,3 @@
 12.pants. (1) Triju Zvaigžņu ordenim ir piecas šķiras un triju pakāpju goda zīmes.
-(2) Ordeņa šķiras ir šādas: pirmā šķira - lielkrusta komandieris, otrā šķira - lielvirsnieks, trešā šķira - komandieris, ceturtā šķira - virsnieks un piektā šķira - kavalieris.
-(3) Ar pirmās šķiras ordeni apbalvotajam kā augstāko pagodinājumu var piešķirt Triju Zvaigžņu ordeņa ķēdi.
+(2) Ar ordeņa pirmo šķiru apbalvotais tiek iecelts par ordeņa lielkrusta komandieri (šā likuma 1. un 2.pielikums), ar ordeņa otro šķiru apbalvotais - par ordeņa lielvirsnieku (šā likuma 3. un 4.pielikums), ar ordeņa trešo šķiru apbalvotais - par ordeņa komandieri (šā likuma 5. un 6.pielikums), ar ordeņa ceturto šķiru apbalvotais - par ordeņa virsnieku (šā likuma 7.pielikums), ar ordeņa piekto šķiru apbalvotais - par ordeņa kavalieri (šā likuma 8.pielikums).
+(3) Ordeņa lielkrusta komandierim kā augstāko pagodinājumu var piešķirt Triju Zvaigžņu ordeņa ķēdi (šā likuma 9. un 10.pielikums).

@@ -1,1 +1,5 @@
-66.pants. Pirmās šķiras ordeņa lenti nēsā pār labo plecu, militārpersonas - pār labo plecu zem uzpleča un ieroču jostas vai auduma jostas. Pār plecu nēsā augstāko ordeņa lenti.
+66.pants. (1) Ja persona apbalvota ar vairākiem ordeņiem, augstākā ordeņa zvaigzni liek kā pirmo, bet pārējās - zem tās ieslīpā līnijā uz iekšu, ievērojot šā likuma 63.pantā noteikto valsts apbalvojumu nēsāšanas secību. Pār plecu nēsā augstākā ordeņa lenti.
+(2) Ordeņu zīmes nēsā krūšu kreisajā pusē tā, lai ordeņu zīmju rindas vidējā ordeņa zīme vai goda zīme atrastos pret krūšu kreisās puses vidu, ievērojot šā likuma 63.pantā noteikto valsts apbalvojumu nēsāšanas secību.
+(3) Ordeņu zīmes, kuras nevar salikt vienā rindā blakus, var novietot pamīšus tā, ka nozīmīguma ziņā augstākā ordeņa zīme nedaudz pārsedz zemākā ordeņa zīmi, ievērojot šā likuma 63.pantā noteikto valsts apbalvojumu nēsāšanas secību.
+(4) Kaklā nēsā tikai nozīmīguma ziņā augstāko no kaklā nēsājamām ordeņa zīmēm, bet pārējās - attiecīgā ordeņa statūtos un šajā pantā noteiktajā kārtībā.
+(5) Ordeņu lenšu atgriezumus un goda zīmju lenšu atgriezumus nēsā krūšu kreisajā pusē tāpat kā ordeņu zīmes vai ordeņu goda zīmes. Ordeņu lenšu atgriezumus var sakārtot vairākās rindās.

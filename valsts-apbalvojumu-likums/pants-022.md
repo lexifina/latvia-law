@@ -1,2 +1,2 @@
 22.pants. (1) Viestura ordenim ir piecas šķiras un triju pakāpju goda zīmes.
-(2) Ordeņa šķiras ir šādas: pirmā šķira - lielkrusta komandieris, otrā šķira - lielvirsnieks, trešā šķira - komandieris, ceturtā šķira - virsnieks un piektā šķira - kavalieris.
+(2) Ar ordeņa pirmo šķiru apbalvotais tiek iecelts par ordeņa lielkrusta komandieri (šā likuma 18., 19., 20. un 21.pielikums), ar ordeņa otro šķiru apbalvotais - par ordeņa lielvirsnieku (šā likuma 22., 23., 24. un 25.pielikums), ar ordeņa trešo šķiru apbalvotais - par ordeņa komandieri (šā likuma 26., 27., 28. un 29.pielikums), ar ordeņa ceturto šķiru apbalvotais - par ordeņa virsnieku (šā likuma 30. un 31.pielikums), ar ordeņa piekto šķiru apbalvotais - par ordeņa kavalieri (šā likuma 32. un 33.pielikums).

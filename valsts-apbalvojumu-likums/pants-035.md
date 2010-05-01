@@ -1,3 +1,4 @@
-35.pants. (1) Atzinības krusta miniatūrzīme visām ordeņa šķirām ir vienāda.
-(2) Fiziskajām personām, izņemot militārpersonas, ordeņa miniatūrzīme ir ordeņa lentes rozete ar tajā iestrādātu miniatūru ordeņa zīmi 12 mm diametrā.
-(3) Militārpersonām ordeņa miniatūrzīme ir ordeņa lentes atgriezums, tā izmēri - 9 mm x 32 mm.
+35.pants. (1) Atzinības krusta miniatūrzīmes visām ordeņa šķirām ir vienādas (šā likuma 54.pielikums).
+(2) Miniatūrzīmes ir:
+1) miniatūra ordeņa zīme, kuras izmēri ir 14 mm x 14 mm un kura savienota ar 13 mm platu ordeņa lenti;
+2) ordeņa lentes rozete ar tajā iestrādātu miniatūru ordeņa zīmi 12 mm diametrā.
