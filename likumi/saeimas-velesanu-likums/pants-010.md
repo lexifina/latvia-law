@@ -5,4 +5,4 @@
 1) attiecīgās politiskās partijas nosaukumam, ja kandidātu sarakstu iesniedz politiskā partija;
 2) attiecīgās politisko partiju apvienības nosaukumam, ja kandidātu sarakstu iesniedz politisko partiju apvienība;
 3) (izslēgts ar 26.03.1998. likumu).
-(5) Kandidātu sarakstiem jābūt skaidri salasāmiem, bez svītrojumiem un labojumiem. Tos paraksta attiecīgās politiskās partijas vai politisko partiju apvienības lēmējinstitūcijas pilnvarota persona.
+(5) Kandidātu sarakstu paraksta attiecīgās politiskās partijas vai politisko partiju apvienības lēmējinstitūcijas pilnvarota persona. Kandidātu saraksts un tam pievienojamie dokumenti (11.pants) sagatavojami, izmantojot Centrālās vēlēšanu komisijas lietojumprogrammu. Kandidātu saraksts, ziņas par deputātu kandidātiem un priekšvēlēšanu programma iesniedzami rakstveidā un elektroniskā veidā.
