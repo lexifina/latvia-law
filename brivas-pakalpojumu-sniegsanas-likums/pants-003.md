@@ -1,0 +1,4 @@
+3.pants. Saimnieciskās darbības reglamentēšanas tiesiskais pamats un saistība ar citiem tiesību aktiem
+(1) Saimnieciskās darbības reglamentēšanas tiesiskais pamats pakalpojumu jomā ir šis likums, Komerclikums, Patērētāju tiesību aizsardzības likums, Elektronisko dokumentu likums un citi konkrētu pakalpojumu vai pakalpojumu jomu reglamentējoši normatīvie akti, kā arī Latvijas Republikai saistoši starptautiskie līgumi un Eiropas Savienības tiesību akti.
+(2) Šis likums reglamentē saimniecisko darbību pakalpojumu jomā tiktāl, ciktāl tas nav pretrunā ar citos likumos ietvertajām speciālajām tiesību normām. Ja Latvijas Republikai saistošas starptautisko tiesību normas paredz citus noteikumus nekā tie, kuri ietverti šajā likumā, piemēro starptautisko tiesību normas.
+(3) Ja šā likuma normas ir pretrunā ar Eiropas Savienības tiesību normām par pakalpojuma sniedzējam, pakalpojuma saņēmējam vai pakalpojumam izvirzāmajām prasībām, šā likuma normas nepiemēro.

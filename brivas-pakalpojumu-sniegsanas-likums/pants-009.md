@@ -1,0 +1,5 @@
+9.pants. Pakalpojuma sniegšanas veida izvēle
+(1) Persona, kas sniedz pakalpojumu, ir tiesīga brīvi izvēlēties pakalpojuma sniegšanas veidu. Persona var izvēlēties, vai sniegs vienu konkrētu pakalpojumu vai vienlaikus vairākus pakalpojumus, kā arī izvēlēties, vai pakalpojumu sniegs vienā vai vairākās pakalpojumu jomās.
+(2) Šā panta pirmajā daļā noteikto pakalpojuma sniegšanas veida izvēli var ierobežot attiecībā uz:
+1) fiziskajām personām, kuras vēlas uzsākt darbu reglamentētajās profesijās vai darboties tajās patstāvīgi kā saimnieciskās darbības veicēji. Šo ierobežojumu var piemērot, ja tas nepieciešams, lai ievērotu konkrētai reglamentētajai profesijai noteiktos profesionālās ētikas pamatprincipus un vispārējās uzvedības normas un lai panāktu, ka sniegtā pakalpojuma rezultāts ir objektīvs un nav atkarīgs no pakalpojuma kvalitātes;
+2) sertificēšanas un inspicēšanas institūcijām, testēšanas un kalibrēšanas laboratorijām, akreditācijas institūcijām un tehniskās uzraudzības aģentūrām, ja tas nepieciešams, lai panāktu, ka minēto institūciju sniegtā pakalpojuma rezultāts ir objektīvs un nav atkarīgs no pakalpojuma kvalitātes.
