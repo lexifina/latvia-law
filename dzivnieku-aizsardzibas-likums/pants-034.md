@@ -1,1 +1,1 @@
-34.pants. Savvaļas dzīvnieku kolekcijas īpašnieka pienākums ir radīt katras sugas dzīvniekiem to dabiskajai videi tuvinātus apstākļus un nodrošināt katras sugas dzīvnieku fizioloģisko un zoopsiholoģisko vajadzību apmierināšanu.
+34.pants. Savvaļas sugas dzīvnieku īpašnieka (turētāja) pienākums ir radīt katras sugas dzīvniekiem to dabiskajai videi tuvinātus apstākļus un nodrošināt katras sugas dzīvnieku fizioloģisko un zoopsiholoģisko vajadzību apmierināšanu.

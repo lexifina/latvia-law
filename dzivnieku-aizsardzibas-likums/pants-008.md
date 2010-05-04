@@ -1,3 +1,4 @@
-8.pants. (1) Bez pajumtes un īpašnieka aprūpes vai uzraudzības palicis dzīvnieks (izņemot medību suņus medību laikā) uzskatāms par klaiņojošu dzīvnieku. Par klaiņojošiem dzīvniekiem nav uzskatāmi sterilizēti kaķi, kas uzturas pilsētās un lauku apdzīvotās vietās dzīvojamo māju tuvumā.
-(2) Jebkurai personai par klaiņojošu dzīvnieku nekavējoties jāpaziņo vietējās pašvaldības institūcijai.
-(3) Vietējā pašvaldība, informējot Pārtikas un veterināro dienestu, organizē klaiņojošu dzīvnieku izķeršanu un, ja nepieciešams, arī likvidēšanu.
+8.pants. (1) Bez pajumtes un īpašnieka aprūpes vai uzraudzības palicis dzīvnieks (izņemot savvaļas dzīvnieku) uzskatāms par klaiņojošu dzīvnieku. Par klaiņojošu dzīvnieku nav uzskatāms sterilizēts kaķis, kas uzturas pilsētā vai lauku apdzīvotā vietā dzīvojamo māju tuvumā.
+(2) Jebkura persona par klaiņojošu vai bezpalīdzīgā stāvoklī nonākušu dzīvnieku nekavējoties paziņo vietējās pašvaldības institūcijai.
+(3) Saskaņā ar pašvaldības saistošajiem noteikumiem un normatīvajiem aktiem, kas reglamentē dzīvnieku labturības jomu, vietējā pašvaldība organizē klaiņojošu vai bezpalīdzīgā stāvoklī nonākušu dzīvnieku izķeršanu un, ja nepieciešams, nogalināšanu.
+(4) Saskaņā ar pašvaldības saistošajiem noteikumiem vietējā pašvaldība var atļaut pilsētā vai lauku apdzīvotā vietā dzīvojamo māju tuvumā turēt sterilizētu bezsaimnieka kaķi, ja tiek nodrošināta tā labturība un apzīmēšana.

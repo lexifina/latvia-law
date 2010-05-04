@@ -1,2 +1,2 @@
-32.pants. (1) Savvaļas dzīvnieku kolekcijas (zooloģiskos dārzus, dzīvnieku parkus, akvārijus, terārijus u.c.) veido zinātniskos, izglītojošos un sugu saglabāšanas nolūkos.
-(2) Savvaļas dzīvnieku kolekcijas drīkst veidot tikai ar Vides ministrijas atļauju un Pārtikas un veterinārā dienesta atļauju.
+32.pants. (1) Dabas aizsardzības pārvalde izsniedz zooloģiskā dārza izveidošanas atļauju.
+(2) Šā likuma 3.¹ panta pirmajā daļā minēto dzīvnieku īpašnieks (turētājs) savvaļas sugas dzīvnieku turēšanas vietu piesaka reģistrācijai Pārtikas un veterinārajā dienestā Ministru kabineta noteiktajā kārtībā.

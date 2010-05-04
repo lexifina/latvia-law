@@ -1,1 +1,1 @@
-18.pants. Aizliegts izdarīt ķirurģiskas operācijas mājas (istabas) dzīvniekam, lai pārveidotu tā ārējo izskatu vai citos neārstnieciskos nolūkos, izņemot gadījumus, kad operāciju noteicis praktizējošs veterinārārsts.
+18.pants. Aizliegts izdarīt ķirurģiskas operācijas mājas (istabas) dzīvniekam, lai pārveidotu tā ārējo izskatu vai citos neārstnieciskos nolūkos, izņemot gadījumus, kad operāciju noteicis praktizējošs veterinārārsts. Praktizējošam veterinārārstam atļauts šā likuma 18.¹ pantā noteikto šķirņu suņiem izdarīt astes apgriešanu.

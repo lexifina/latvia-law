@@ -6,4 +6,4 @@
 5) kaitīgo grauzēju un kukaiņu iznīcināšanu;
 6) gadījumiem, kad dzīvnieks, uzbrūkot cilvēkam, apdraud viņa veselību vai dzīvību;
 7) gadījumiem, kad dzīvnieka nogalināšana paredzēta infekcijas slimību vai invazīvo sugu apkarošanas programmā;
-8) eksperimentos un zinātniskos nolūkos izmantojamo dzīvnieku nogalināšanu, ja to paredz eksperimenta mērķi.
+8) izmēģinājumu dzīvnieku nogalināšanu, ja to paredz izmēģinājuma mērķis.

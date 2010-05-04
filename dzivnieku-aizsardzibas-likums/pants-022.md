@@ -1,1 +1,1 @@
-22.pants. Darba dzīvnieku izvēlas atbilstoši izmantošanas veidam, darba apstākļiem un noteiktu funkciju veikšanai.
+22.pants. Sporta, darba vai atrakciju dzīvnieku izvēlas atbilstoši izmantošanas veidam, izmantošanas apstākļiem un paredzēto funkciju veikšanai.

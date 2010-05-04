@@ -1,1 +1,1 @@
-14.pants. Lauksaimniecības dzīvnieku izmantot darbam drīkst persona, kura pārzina attiecīgās sugas un šķirnes dzīvnieku turēšanu, apmācīšanu un izmantošanu.
+14.pants. Ja lauksaimniecības dzīvnieks ir slims vai guvis traumu, dzīvnieka īpašnieks vai turētājs nekavējoties nodrošina tam nepieciešamo aprūpi un pieaicina praktizējošu veterinārārstu ārstnieciskās palīdzības sniegšanai.

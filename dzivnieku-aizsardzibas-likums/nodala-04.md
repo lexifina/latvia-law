@@ -1,2 +1,2 @@
 IV nodaļa
-Sporta un darba dzīvnieku aizsardzība
+Sporta, darba un atrakciju dzīvnieku aizsardzība un labturība

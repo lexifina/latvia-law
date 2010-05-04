@@ -1,1 +1,1 @@
-27.pants. Savvaļas medījamo dzīvnieku sagūstīt un turēt nebrīvē ir atļauts, ja saņemta attiecīga Valsts meža dienesta atļauja, bet savvaļas nemedījamo dzīvnieku sagūstīt un turēt nebrīvē ir atļauts, ja saņemta Dabas aizsardzības pārvaldes atļauja.
+27.pants. Savvaļas putnus un zīdītājus aizliegts sagūstīt un turēt nebrīvē, izņemot šajā likumā un dabas aizsardzību un medības reglamentējošos normatīvajos aktos noteiktos gadījumus.

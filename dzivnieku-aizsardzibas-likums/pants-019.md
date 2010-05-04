@@ -1,1 +1,1 @@
-19.pants. Dzīvnieku sacensību organizētājs Ministru kabineta noteiktajā kārtībā informē Pārtikas un veterinārā dienesta attiecīgo teritoriālo struktūrvienību par sacensību norises vietu un laiku.
+19.pants. Dzīvnieku sacensību organizētājs atbilstoši normatīvajiem aktiem par kārtību, kādā organizējamas dzīvnieku sacensības, tirgi, izsoles, izstādes un citi pasākumi ar dzīvnieku piedalīšanos, informē attiecīgo Pārtikas un veterinārā dienesta teritoriālo struktūrvienību par sacensību norises vietu un laiku.

@@ -1,1 +1,1 @@
-31.pants. Izzudušo dzīvnieku populācijas atjaunošanai (reintrodukcijai) dabā un Latvijas dabai neraksturīgo savvaļas dzīvnieku ieviešanai (introdukcijai) nepieciešama Vides ministrijas atļauja.
+31.pants. Zooloģiskajam dārzam ir pienākums vismaz septiņas dienas gadā nodrošināt tam piederošo savvaļas sugu dzīvnieku publisku apskati, kā arī glabāt attiecīgi reģistrēto dzīvnieku sugu dokumentāciju.

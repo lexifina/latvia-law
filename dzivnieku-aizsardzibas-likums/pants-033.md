@@ -1,1 +1,1 @@
-33.pants. Savvaļas dzīvnieku īpašniekam nepieciešams normatīvajos aktos paredzēts dokuments par katra dzīvnieka izcelsmi (likumīgu iegūšanu).
+33.pants. Savvaļas sugas dzīvnieku īpašniekam (turētājam) nepieciešams normatīvajos aktos paredzēts dokuments par katra dzīvnieka izcelsmi (likumīgu iegūšanu).

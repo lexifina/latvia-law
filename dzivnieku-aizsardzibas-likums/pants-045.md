@@ -1,1 +1,1 @@
-45.pants. Dzīvnieku atļauts nogalināt tikai ar dzīvnieka īpašnieka atļauju (eitanāzijas gadījumā - rakstveida atļauju), izņemot šā likuma 5.panta 2.¹, astotajā un devītajā daļā un 44.panta 5., 6. un 7.punktā noteiktos gadījumus.
+45.pants. Dzīvnieku atļauts nogalināt tikai ar dzīvnieka īpašnieka atļauju (eitanāzijas gadījumā - ar rakstveida atļauju), izņemot šā likuma 5.panta trešajā daļā un 44.panta 5., 6. un 7.punktā noteiktos gadījumus.

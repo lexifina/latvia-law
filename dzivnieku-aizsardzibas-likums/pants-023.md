@@ -1,3 +1,1 @@
-23.pants. Darba dzīvnieku drīkst izmantot persona, kura:
-1) pārzina attiecīgās sugas un šķirnes dzīvnieku turēšanu un apmācīšanu;
-2) spēj kontrolēt dzīvnieku un, ja nepieciešams, apturēt tā uzbrukumu cilvēkam vai dzīvniekam.
+23.pants. Persona drīkst izmantot sporta, darba vai atrakciju dzīvnieku, ja tā pārzina attiecīgās dzīvnieku sugas turēšanu un izmantošanu atbilstoši normatīvajiem aktiem par labturības prasībām sporta, darba un atrakciju dzīvnieku turēšanai, apmācībai un izmantošanai sacensībās.
