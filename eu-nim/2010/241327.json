@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Brīvas pakalpojumu sniegšanas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "62 (4254)",
+  "official_journal_page": ".",
+  "official_journal_date": "2010-04-20",
+  "entry_into_force": "2010-05-04",
+  "notification_date": "2016-10-13",
+  "commission_reference": "MNE(2016)56273",
+  "nim_celex": "72016L0801LVA_241327",
+  "nim_id": "241327",
+  "transposes_celex": [
+    "32016L0801"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/aa0525e5-c6a8-4d0a-95e1-8f5153396a8a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
