@@ -1,0 +1,4 @@
+25.¹ pants. (1) Bērns un cietušais vai viņu pārstāvji līdz tiesneša aiziešanai uz apspriežu istabu Krimināllikumā paredzētajos gadījumos var paziņot par izlīgumu.
+(2) Izlīgumu iesniedz rakstveidā un pievieno lietas materiāliem. Izlīgumā norāda, ka tas noslēgts labprātīgi un cietušais vai viņa pārstāvis saprot izlīguma sekas un nosacījumus.
+(3) Ja bērns un cietušais vai viņu pārstāvji par izlīgumu paziņo mutvārdos tiesas sēdes laikā, par izlīgumu izdara ierakstu tiesas sēdes protokolā, un to paraksta bērns un viņa pārstāvis, kā arī cietušais vai viņa pārstāvis. Puses var iesniegt tiesnesim arī notariāli apliecinātu izlīgumu.
+(4) Ja bērns un cietušais vai viņu pārstāvji paziņo par izlīgumu līdz tiesneša aiziešanai uz apspriežu istabu, tiesnesis, nepārbaudot lietas materiālus, var pieņemt lēmumu izbeigt lietu par audzinoša rakstura piespiedu līdzekļu piemērošanu bērnam.

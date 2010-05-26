@@ -1,2 +1,2 @@
 VI nodaļa
-Sociālās korekcijas izglītības iestādes
+Lēmuma par ievietošanu sociālās korekcijas izglītības iestādē izpildes papildnoteikumi

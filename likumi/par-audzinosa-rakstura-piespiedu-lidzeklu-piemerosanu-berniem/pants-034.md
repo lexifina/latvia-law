@@ -1,3 +1,4 @@
-34.pants. (1) Sociālās korekcijas izglītības iestādes ir Izglītības un zinātnes ministrijas pārziņā un darbojas saskaņā ar Izglītības likumu, Vispārējās izglītības likumu un izglītības un zinātnes ministra apstiprinātu nolikumu.
-(2) Sociālās korekcijas izglītības iestādes finansē no valsts budžeta saskaņā ar likumu par valsts budžetu kārtējam gadam.
+34.pants. (1) (Izslēgta ar 22.04.2010. likumu)
+(2) (Izslēgta ar 22.04.2010. likumu)
 (3) Kārtību, kādā bērns tiek ievietots sociālās korekcijas izglītības iestādē, nosaka Ministru kabinets.
+(4) Sociālās korekcijas izglītības iestādes iekšējās kārtības noteikumus un par to pārkāpumiem paredzētos sodus nosaka Ministru kabinets.

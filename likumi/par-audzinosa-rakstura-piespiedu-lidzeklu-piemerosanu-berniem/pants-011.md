@@ -3,3 +3,4 @@
 (3) Sabiedrisko darbu kārtību nosaka Ministru kabinets.
 (4) Sabiedriskā darba izpildes laikā notikuša nelaimes gadījuma izmeklēšana un uzskaite tiek veikta saskaņā ar normatīvajiem aktiem par nelaimes gadījumu darbā izmeklēšanas un uzskaites kārtību.
 (5) Persona, kas nodarbina bērnu, nodrošina bērna instruktāžu attiecībā uz konkrēto darbu un apmācību darba aizsardzības jomā pirms sabiedriskā darba uzsākšanas. Šādu instruktāžu nodrošina arī gadījumā, ja sabiedriskā darba izpildes laikā būtiski mainās izpildāmais darbs.
+(6) Ja audzinoša rakstura piespiedu līdzekļa - pienākuma veikt sabiedrisko darbu - izpildes laikā bērns sasniedz 18 gadu vecumu, sabiedriskā darba izpildi bērns turpina, kamēr audzinoša rakstura piespiedu līdzeklis izpildīts pilnā apmērā.
