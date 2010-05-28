@@ -5,6 +5,6 @@
 3) nomas (īres) maksa par ostas pārvaldes valdījumā nodoto nekustamo īpašumu iznomāšanu (izīrēšanu);
 4) investīcijas;
 5) maksa par ostas pārvaldes sniegtajiem pakalpojumiem.
-(2) Ostas pārvaldes finanšu līdzekļi tiek izmantoti, ievērojot bezpeļņas organizācijas principus: ostas pārvaldes rīcībā esošos finanšu līdzekļus var izmantot tikai ostas un tās infrastruktūras apsaimniekošanai un attīstīšanai un šā likuma 7. pantā noteikto funkciju izpildei.
+(2) Ostas pārvaldes finanšu līdzekļus var izmantot tikai ostas un tās infrastruktūras apsaimniekošanai un attīstīšanai, kā arī šā likuma 7.pantā noteikto funkciju izpildei. Ostas pārvaldes finanšu līdzekļus drīkst dāvināt (ziedot) valstij, ieskaitot tos valsts budžetā. Ministru kabinets lemj par dāvināto (ziedoto) finanšu līdzekļu izmantošanu. Šīs tiesības Ministru kabinets drīkst izmantot ar nosacījumu, ka Saeimas Budžeta un finanšu (nodokļu) komisija triju darba dienu laikā no attiecīgās Ministru kabineta sniegtās informācijas saņemšanas brīža izskata to un neiebilst pret konkrētā dāvinājuma (ziedojuma) izmantošanu.
 (3) Ostas pārvalde nedrīkst ar saviem finanšu līdzekļiem piedalīties uzņēmējsabiedrību darbībā ārpus ostas teritorijas.
 (4) Ostas pārvalde kārto saimnieciskas darbības un finanšu operāciju uzskaiti saskaņā ar likumu "Par grāmatvedību" un iesniedz pārskatus saskaņā ar likumu "Par uzņēmumu gada pārskatiem".
