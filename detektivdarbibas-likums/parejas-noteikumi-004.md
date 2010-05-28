@@ -1,0 +1,1 @@
+4. Licences, kuras izsniegtas uz pieciem gadiem, ir spēkā līdz tajās norādītā derīguma termiņa beigām. Jaunā parauga (beztermiņa) licences komersanti pieprasa 30 dienas pirms licencē norādītā derīguma termiņa beigām. Šādā gadījumā jaunā parauga (beztermiņa) licenču izsniegšanai valsts nodeva tiek piemērota tādā apmērā, kāds paredzēts par atkārtotu licences izsniegšanu.

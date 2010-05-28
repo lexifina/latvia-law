@@ -1,0 +1,2 @@
+15.pants. (1) Ziņas par detektīvdarbības veikšanai izsniegtajām licencēm un sertifikātiem Valsts policija reģistrē Integrētās iekšlietu informācijas sistēmas licenču un sertifikātu reģistrā.
+(2) Licenču un sertifikātu reģistrā reģistrējamo ziņu apjomu, ziņu iekļaušanas, izmantošanas un dzēšanas kārtību, kā arī institūcijas, kurām piešķirama piekļuve šajā reģistrā iekļautajām ziņām, nosaka Ministru kabinets.

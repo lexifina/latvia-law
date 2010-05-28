@@ -1,0 +1,1 @@
+5. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2010.gada 1.septembrim ir spēkā Ministru kabineta 2007.gada 17.aprīļa noteikumi Nr.260 "Detektīvdarbības licencēšanas un sertifikācijas noteikumi", ciktāl tie nav pretrunā ar šo likumu.
