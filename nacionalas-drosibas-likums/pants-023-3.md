@@ -4,4 +4,4 @@ Krīzes vadības padome:
 2) koordinē valsts pārvaldes institūciju valsts apdraudējuma novēršanas plānu izstrādi;
 3) (izslēgts ar 17.04.2008. likumu);
 4) valsts apdraudējuma gadījumā koordinē politisko lēmumu vienotu un savlaicīgu izpildi valsts pārvaldes institūcijās;
-5) sagatavo un iesniedz Ministru kabinetam priekšlikumus par nacionālajai drošībai svarīgu objektu kopumu un veicamajiem drošības pasākumiem.
+5) (izslēgts ar 29.04.2010. likumu).

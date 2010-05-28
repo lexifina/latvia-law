@@ -1,0 +1,1 @@
+12. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2010.gada 1.jūnijam ir spēkā Ministru kabineta 2008.gada 10.jūnija noteikumi Nr.428 "Nacionālajai drošībai svarīgu objektu drošības pasākumu plānošanas un īstenošanas kārtība".
