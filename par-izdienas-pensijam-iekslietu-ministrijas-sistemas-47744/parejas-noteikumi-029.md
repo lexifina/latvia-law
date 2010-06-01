@@ -1,0 +1,1 @@
+29. Ja personas algas nodokļa grāmatiņā, kas iesniegta Iekšlietu ministrijas Veselības un sociālo lietu valsts aģentūrai, ir ieraksts par tiesībām uz nodokļa atvieglojumiem vai nodokļa papildu atvieglojumiem, šie atvieglojumi ņemami vērā, aprēķinot nodokli atmaksājamai izdienas pensijas daļai.
