@@ -1,1 +1,0 @@
-21. Lai atgūtu izdienas pensiju pārmaksas, kas radušās, nepiemērojot šo pārejas noteikumu 14., 15., 16. un 17.punktā noteiktos ierobežojumus, Aizsardzības ministrija veic ieturējumus 10 procentu apmērā no izdienas pensijas saņēmējam piešķirtās izdienas pensijas.

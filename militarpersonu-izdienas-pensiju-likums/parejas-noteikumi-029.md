@@ -1,0 +1,1 @@
+29. Personas, kurām ir izmaksāta atmaksājamā izdienas pensijas daļa par laika posmu no 2009.gada 1.jūlija līdz 2009.gada 31.decembrim un kuras brīvprātīgi vēlas iesniegt gada ienākumu deklarāciju par 2009.gadu, Valsts ieņēmumu dienestam šo deklarāciju iesniedz pēc atmaksājamās izdienas pensijas daļas saņemšanas.

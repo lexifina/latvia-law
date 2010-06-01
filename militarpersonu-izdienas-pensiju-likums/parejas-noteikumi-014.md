@@ -1,1 +1,0 @@
-14. No 2009.gada 1.jūlija līdz 2012.gada 31.decembrim izdienas pensijas saņēmējam, kuram izdienas pensija piešķirta līdz 2009.gada 30.jūnijam, izdienas pensiju pārrēķina un samazina par 10 procentiem no aprēķinātā izdienas pensijas apmēra. Aizsardzības ministrija militārpersonu izdienas pensijas pārrēķina līdz 2009.gada 3.jūlijam.

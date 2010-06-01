@@ -1,0 +1,1 @@
+25. Personām, kuras laika posmā no 2009.gada 1.jūlija līdz 2010.gada 31.maijam saskaņā ar šā likuma noteikumiem piešķirto izdienas pensiju saņēma ierobežotā 90 procentu vai 30 procentu apmērā no piešķirtās izdienas pensijas, ieturēto (nesaņemto) izdienas pensijas daļu Aizsardzības ministrija izmaksā 2010.gada jūlijā, vienlaikus ar jūlija izdienas pensiju.
