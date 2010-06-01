@@ -1,1 +1,0 @@
-1. No 2009.gada 1.jūlija līdz 2012.gada 31.decembrim Korupcijas novēršanas un apkarošanas biroja amatpersonām izdienas pensiju aprēķina un izmaksā 90% apmērā no šā likuma 5.panta pirmajā un otrajā daļā paredzētā izdienas pensijas apmēra.
