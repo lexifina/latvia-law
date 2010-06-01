@@ -1,0 +1,1 @@
+14. Izdienas pensijas saņēmēja nāves gadījumā laika posmā no 2009.gada 1.jūlija līdz 2010.gada 31.maijam viņam pienākošos (nesaņemto) izdienas pensijas daļu ir tiesības saņemt izdienas pensijas saņēmēja laulātajam, pirmās un otrās pakāpes radiniekiem, bet citai personai - uz mantojuma apliecības vai tiesas nolēmuma pamata.
