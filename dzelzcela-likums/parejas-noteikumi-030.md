@@ -1,0 +1,1 @@
+30. Vilces līdzekļa vadītāja (mašīnista) apliecības un sertifikāti, kas atbilstoši šo pārejas noteikumu 29.punkta un likuma 37.panta otrās daļas nosacījumiem izsniegti līdz 2011.gada 31.oktobrim, ir spēkā līdz to derīguma termiņa beigām un apliecina šā likuma 37.¹ pantā noteiktās vilces līdzekļa vadītāja (mašīnista) tiesības.

@@ -1,0 +1,1 @@
+29. Šā likuma 37.¹ panta otrā, trešā, ceturtā, piektā, sestā, septītā, astotā un devītā daļa piemērojama no 2011.gada 1.novembra, un līdz šim termiņam vilces līdzekļa vadīšanas tiesību iegūšanas, apturēšanas un zaudēšanas nosacījumus reglamentē šā likuma 37.panta otrā daļa.
