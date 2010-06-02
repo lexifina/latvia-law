@@ -3,8 +3,8 @@
 1) nodrošināt finanšu instrumentu vadību un ieviešanas efektivitāti;
 2) nodrošināt Tehniskās palīdzības fonda sniegtā atbalsta īstenošanu un uzraudzību;
 3) nodrošināt granta līgumu noslēgšanu;
-4) pēc aģentūras veiktās projekta starpposma pārskata pārbaudes apstiprināt šā pārskata progresa daļu un iesniegt pārskatu aģentūrai;
-5) pēc aģentūras veiktās projekta noslēguma pārskata pārbaudes apstiprināt šo pārskatu un iesniegt aģentūrai;
+4) (izslēgts ar 06.05.2010. likumu);
+5) (izslēgts ar 06.05.2010. likumu);
 6) (izslēgts ar 10.07.2008. likumu);
 7) sagatavot un iesniegt birojam gada pārskatu;
 8) nodrošināt finanšu instrumentu ieviešanas publicitāti Latvijā.
