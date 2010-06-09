@@ -1,0 +1,1 @@
+60. Šā likuma 9.panta pirmās daļas 35.punkta "c" un "d" apakšpunktu, 10.panta 1.⁴ daļu, grozījumus 11.panta trešās daļas 14.punktā, 11.panta trešās daļas 14.¹ punktu, grozījumus 11.⁹ panta pirmajā un piektajā daļā, 11.⁹ panta 5.¹ daļu, grozījumus 11.⁹ panta septītajā daļā un 11.⁹ panta 7.¹ daļu piemēro ar taksācijas gadu, kas sākas 2010.gadā.

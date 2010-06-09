@@ -5,7 +5,7 @@
 3.¹ Maksātājs ne vēlāk kā 15 dienu laikā no šajā likumā noteiktās deklarācijas iesniegšanas dienas iemaksā budžetā fiksētā ienākuma nodokļa atlikušo daļu, ko nosaka kā starpību starp fiksētā ienākuma nodokļa summu, kas noteikta atbilstoši šā likuma 15.panta piektajai daļai, un saskaņā ar šā likuma 18.panta devīto daļu noteikto avansa maksājumu. Ja fiksētā ienākuma nodokļa atlikusī daļa, kas jāiemaksā budžetā, pārsniedz 450 latus, piemēro šā panta trešo daļu.
 3.² Maksātājs iemaksā budžetā aprēķinātā nodokļa summu ne vēlāk kā 15 dienu laikā no šā panta 5.² un 5.³ daļā noteiktās deklarācijas par ienākumu no kapitāla iesniegšanas dienas.
 4. Ja rezumējošā kārtībā aprēķinātā summa pēc pārbaudes izrādās mazāka par avansā samaksāto, Valsts ieņēmumu dienests triju mēnešu laikā no deklarācijas iesniegšanas dienas atmaksā maksātājam radušos starpību.
-4.¹(Izslēgta ar 08.11.2007. likumu)
+4.¹ (Izslēgta ar 08.11.2007. likumu)
 5. Deklarācija ar tai pievienotajiem dokumentiem iesniedzama Valsts ieņēmumu dienestam ne vēlāk kā taksācijas gadam sekojošā gada 1.aprīlī.
 5.¹ Ārvalsts nodokļa maksātājs, kas Latvijā uzturas, lai veiktu algotu darbu tāda darba devēja labā, kurš nav Latvijas rezidents vai kuram nav pastāvīgās pārstāvniecības Latvijā, un kas pārtrauc minētā ienākuma gūšanu, un nav paredzama viņa atgriešanās Latvijā pirms taksācijas gada beigām, iesniedz deklarāciju, pirms viņš izbrauc no Latvijas.
 5.² Ārvalsts nodokļa maksātājs (nerezidents), kas Latvijā gūst ienākumu, no kura nodoklis maksājams rezumējošā kārtībā, bet kas taksācijas gadā pārstāj gūt šādu ienākumu vai gūst vienreiz izmaksājamu ienākumu un vienlaikus pārtrauc ekonomiskās saites ar Latviju, iesniedz deklarāciju 30 dienu laikā pēc ienākuma gūšanas beigām. Ja ārvalsts nodokļa maksātājs (nerezidents), kas Latvijā gūst ienākumu no kapitāla pieauguma, neizmanto šā likuma 20.panta trešajā daļā minētos deklarēšanas atvieglojumus, nodokli no šā ienākuma aprēķina un deklarāciju par ienākumu no kapitāla Valsts ieņēmumu dienestam iesniedz līdz ienākuma gūšanas mēnesim sekojošā mēneša 15.datumam.
@@ -17,7 +17,7 @@
 4) (izslēgts ar 14.11.2008. likumu);
 5) ārvalstīs samaksāto nodokli;
 6) ka persona, kas ir citas Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts rezidents, taksācijas gadā Latvijā guvusi vairāk nekā 75 procentus no saviem kopējiem ienākumiem un ka tā vai tās laulātais nav izmantojuši šajā likumā noteiktajiem nodokļa atvieglojumiem un attaisnotajiem izdevumiem analoģiskus atskaitījumus savā rezidences valstī.
-6.¹ Ministru kabinets nosaka kopā ar deklarāciju iesniedzamo vai uzrādāmo attaisnojuma dokumentu veidus.
+6.¹ (Izslēgta ar 13.05.2010. likumu)
 7. (Izslēgta ar 01.12.2009. likumu)
 8. Zemnieku saimniecība, ja tā bez lauksaimnieciskās ražošanas veic arī citu saimniecisko darbību, var aprēķināt kopējos ienākumus (sedzot lauksaimnieciskos zaudējumus no citiem ienākumiem). Šajā gadījumā nepiemēro 9.panta pirmās daļas 1.punktu.
 9. Ja izdevumiem, kas saistīti ar maksātāja saimniecisko darbību, ir noteiktas izdevumu normas, šo izdevumu apliecināšanai attiecīgajā apmērā nav nepieciešams iesniegt vai uzrādīt tos apliecinošus dokumentus.

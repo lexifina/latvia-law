@@ -1,7 +1,7 @@
 11. pants. No saimnieciskās darbības gūtā apliekamā ienākuma noteikšana
 1. Fiziskās personas ienākums no saimnieciskās darbības tiek aprēķināts kā šajā pantā noteikto ieņēmumu un ar to gūšanu saistīto izdevumu starpība.
 1.¹ Par fiziskās personas saimniecisko darbību ir uzskatāma jebkura darbība, kas vērsta uz preču ražošanu, darbu izpildi, tirdzniecību un pakalpojumu sniegšanu par atlīdzību. Saimnieciskā darbība ietver arī ar uzņēmuma līguma izpildi saistīto darbību, profesionālo darbību, nekustamā īpašuma apsaimniekošanu, komercaģenta, māklera un individuālā komersanta darbību, kā arī fiziskās personas īpašumā esoša individuālā uzņēmuma (arī zemnieka un zvejnieka saimniecības) darbību.
-1.² Profesionālā darbība ir jebkura neatkarīga profesionālu pakalpojumu sniegšana ārpus darba tiesiskajām attiecībām, arī zinātniskā, literārā, pasniedzēja, aktiera, režisora, ārsta, zvērināta advokāta, zvērināta revidenta, zvērināta notāra, zvērināta mērnieka, zvērināta taksatora, mākslinieka, komponista, mūziķa, konsultanta, inženiera vai arhitekta darbība.
+1.² Profesionālā darbība ir jebkura neatkarīga profesionālu pakalpojumu sniegšana ārpus darba tiesiskajām attiecībām, arī zinātniskā, literārā, pasniedzēja, aktiera, režisora, ārsta, zvērināta advokāta, zvērināta revidenta, zvērināta notāra, zvērināta mērnieka, zvērināta taksatora, mākslinieka, komponista, mūziķa, konsultanta, inženiera, zvērināta tiesu izpildītāja vai arhitekta darbība.
 1.³ Fiziskās personas darbība kvalificējama kā saimnieciskā darbība, ja tā atbilst vienam no šādiem kritērijiem:
 1) darījumu regularitāte un sistemātiskums (trīs un vairāk darījumi taksācijas periodā vai pieci un vairāk darījumi trijos taksācijas periodos);
 2) ieņēmumi no darījuma pārsniedz 10 000 un vairāk latu taksācijas gadā, izņemot ienākumus no personīgā īpašuma atsavināšanas atbilstoši šā likuma 9.panta pirmās daļas 19.² punktam;
@@ -28,13 +28,14 @@
 11) maksa par licenci;
 12) zaudējumi tiesas noteiktajā apmērā, kuri nodarīti līgumpartneriem, neizpildot vai pienācīgi neizpildot savas saistības;
 13) Latvijas Republikā noteikto nodokļu (izņemot iedzīvotāju ienākuma nodokli un pievienotās vērtības nodokli) un nodevu (izņemot valsts nodevu par prasības pieteikumu tiesā) maksājumi valsts vai pašvaldības budžetā;
-14) meža atjaunošanas izmaksas, kuru apmēru un piemērošanas kārtību nosaka Ministru kabinets;
+14) meža atjaunošanas izmaksas 25 procentu apmērā, ja ir noslēgta vienošanās attiecīgi ar meža īpašnieku vai tiesisko valdītāju par meža atjaunošanu un meža atjaunošanas izmaksas netiks iekļautas saimnieciskās darbības izdevumos;
+14¹) ar kokmateriālu sagatavošanu un atsavināšanu saistītās izmaksas 50 procentu apmērā no kokmateriālu atsavināšanas ieņēmumiem, ja šīs izmaksas netiek dokumentāri pamatotas;
 15) citi izdevumi, kas saistīti ar saimniecisko darbību un nepieciešami tās nodrošināšanai, saskaņā ar Ministru kabineta noteikumiem.
 4. Ar saimniecisko darbību saistītajos izdevumos netiek ieskaitīti izdevumi, kas atbilstoši likuma "Par uzņēmumu ienākuma nodokli" 5.pantam nav uzskatāmi par tādiem izdevumiem, kas ir tieši saistīti ar saimniecisko darbību.
 5. (Izslēgta ar 19.12.2006. likumu.)
 6. Apliekamajā ienākumā netiek ietverti lauksaimniecības produkti (pašpatēriņš), ko savām vajadzībām izlietojis maksātājs un viņa ģimenes locekļi, kā arī personas, kuras ar maksātāju ir radniecībā līdz trešajai pakāpei vai svainībā līdz otrajai pakāpei.
 7. Ieturot nodokli no metāllūžņu pārdošanas ienākumiem, pirms nodokļa aprēķināšanas no izmaksājamās summas atskaitāmi ar metāllūžņu sagatavošanu un pārdošanu saistītie izdevumi, piemērojot normu 15 procentu apmērā no izmaksājamās summas.
-8. Ministru kabinets paredz kārtību, kādā nosakāms apliekamais ienākums un maksājams nodoklis no kokmateriālu un augoša meža pārdošanas.
+8. (Izslēgta ar 13.05.2010. likumu)
 9. Fiziskās personas taksācijas gada saimnieciskās darbības zaudējumi, kas radušies sakarā ar to, ka taksācijas gada ieņēmumi ir mazāki nekā izdevumi un izmaksas, sedzami hronoloģiskā secībā no nākamo triju taksācijas gadu saimnieciskās darbības apliekamā ienākuma. Ieņēmumu, kā arī izdevumu un izmaksu lielumu nosaka atbilstoši šā panta noteikumiem.
 10. Individuālais komersants vai fiziskās personas īpašumā esošs individuālais uzņēmums (arī zemnieka un zvejnieka saimniecība), kas reģistrēts un veic saimniecisko darbību saskaņā ar Reģionālās attīstības likumu noteiktā īpaši atbalstāmajā teritorijā, šīs fiziskās personas taksācijas gada saimnieciskās darbības zaudējumus, kas radušies laikposmā, kad attiecīgajai teritorijai ir īpaši atbalstāmās teritorijas statuss, sedz hronoloģiskā secībā no nākamo sešu taksācijas gadu saimnieciskās darbības apliekamā ienākuma. Ieņēmumu, kā arī izdevumu un izmaksu lielumu nosaka atbilstoši šā panta noteikumiem.
 11. (Izslēgta ar 01.12.2009. likumu)
