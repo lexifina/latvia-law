@@ -1,0 +1,1 @@
+1.pants. 2009.gada 10.decembrī Erevānā parakstītais Latvijas Republikas valdības un Armēnijas Republikas valdības nolīgums par gaisa satiksmi (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
