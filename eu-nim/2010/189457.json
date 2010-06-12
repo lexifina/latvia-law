@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "MK 08.06.2010. noteikumi Nr.504 \"Noteikumi par ēku energosertifikāciju\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "93 (4285)",
+  "official_journal_page": null,
+  "official_journal_date": "2010-06-11",
+  "entry_into_force": "2010-06-12",
+  "notification_date": "2012-02-23",
+  "commission_reference": "MNE(2012)51044",
+  "nim_celex": "72002L0091LVA_189457",
+  "nim_id": "189457",
+  "transposes_celex": [
+    "32002L0091"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/11f8e202-ca26-400a-8520-3166a8f1ec4b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
