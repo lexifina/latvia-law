@@ -1,0 +1,1 @@
+21. Ja plānošanas reģioniem deleģē pārvaldes uzdevumu līdz 2015.gada 1.janvārim, ir pieļaujams deleģēt arī atsevišķus pārvaldes uzdevumus, kas saistīti ar nozares attīstības plānošanu un nozares darbības koordināciju plānošanas reģiona teritorijā.

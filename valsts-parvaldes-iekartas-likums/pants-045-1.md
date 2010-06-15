@@ -1,0 +1,3 @@
+45.¹ pants. Līgumiskā deleģēšanas procedūra publiskās un privātās partnerības ietvaros
+(1) Šā likuma 45.panta pirmās, otrās un trešās daļas noteikumi nav piemērojami gadījumos, kad atbilstoši Publiskās un privātās partnerības likumam slēdz publiskās un privātās partnerības līgumu, ar kuru privātpersonai tiek deleģēts pārvaldes uzdevums.
+(2) Ja atbilstoši Publiskās un privātās partnerības likumam slēdz publiskās un privātās partnerības līgumu, ar kuru privātpersonai tiek deleģēts pārvaldes uzdevums, līgumā papildus iekļauj šā likuma 46.pantā minētos nosacījumus. Attiecīgais līgums daļā par pārvaldes uzdevuma deleģēšanu ir apspriežams atbilstoši normatīvajiem aktiem publisko tiesību līgumu jomā.

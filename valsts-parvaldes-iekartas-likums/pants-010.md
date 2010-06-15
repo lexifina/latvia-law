@@ -8,5 +8,5 @@
 (7) Valsts pārvaldes pienākums ir informēt sabiedrību par savu darbību. Tas attiecas it īpaši uz to sabiedrības daļu un tām privātpersonām, kuru tiesības vai tiesiskās intereses īstenotā vai plānotā darbība skar vai var skart.
 (8) Valsts pārvaldi organizē pēc iespējas ērti un pieejami privātpersonai. Ja informācija, kura nepieciešama pārvaldes lēmuma pieņemšanai, kas regulē publiski tiesiskās attiecības ar privātpersonu, ir citas institūcijas rīcībā, iestāde to iegūst pati, nevis pieprasa no privātpersonas.
 (9) Valsts pārvaldi organizē, ievērojot subsidiaritātes principu.
-(10) Valsts pārvaldi organizē pēc iespējas efektīvi. Valsts pārvaldes institucionālo sistēmu pastāvīgi pārbauda un, ja nepieciešams, pilnveido.
+(10) Valsts pārvaldi organizē pēc iespējas efektīvi. Valsts pārvaldes institucionālo sistēmu pastāvīgi pārbauda un, ja nepieciešams, pilnveido, izvērtējot arī funkciju apjomu, nepieciešamību un koncentrācijas pakāpi, normatīvā regulējuma apjomu un detalizāciju un apsverot deleģēšanas iespējas vai ārpakalpojuma izmantošanu.
 (11) Valsts pārvalde savā darbībā ievēro arī šajā pantā neminētus tiesību principus, kuri atklāti, atvasināti un attīstīti iestāžu vai tiesu praksē, kā arī tiesību zinātnē.

@@ -6,7 +6,7 @@
 3) iestāžu un pārvaldes amatpersonu uzraudzību;
 4) publisku personu budžeta apstiprināšanu, finansu resursu sadali programmu un apakšprogrammu līmenī, finansu resursu kontroli.
 (3) Privātpersonai papildus šā panta otrajā daļā minētajam nevar deleģēt:
-1) administratīvo aktu izdošanu, izņemot gadījumus, kad tas paredzēts likumā;
+1) administratīvo aktu izdošanu, izņemot gadījumus, kad tas paredzēts ārējā normatīvajā aktā;
 2) pārvaldes uzdevumus, kas saistīti ar valsts ārējās un iekšējās drošības funkciju izpildi, izņemot gadījumus, kad tas paredzēts likumā;
 3) Latvijas Republikas pārstāvību ekonomiskajās, militārajās un politiskajās savienībās un to institūcijās, izņemot gadījumus, kad tas paredzēts likumā;
 4) pārvaldes uzdevumus, kas nodrošina Latvijas Republikas Satversmē garantēto cilvēktiesību īstenošanu un uzraudzību un kuru izpildes kārtību un institūciju ir noteicis likumdevējs;

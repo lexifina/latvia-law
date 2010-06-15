@@ -1,0 +1,1 @@
+22. Iekšējie normatīvie akti, kuru nosaukums neatbilst šā likuma 73.panta pirmajā daļā noteiktajam, un reglamenti, kuri saskaņoti ar augstāku iestādi, nevis ar Ministru kabineta locekli, paliek spēkā līdz to atzīšanai par spēku zaudējušiem vai citam brīdim, kad tie zaudē spēku.
