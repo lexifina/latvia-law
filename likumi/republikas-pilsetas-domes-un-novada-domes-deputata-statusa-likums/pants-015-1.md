@@ -1,10 +1,12 @@
 15.¹ pants. Pabalsts pašvaldības domes vai padomes priekšsēdētājam vai viņa vietniekam
-Tiesības saņemt ikmēneša pabalstu divu minimālo mēnešalgu apmērā (turpmāk - pabalsts) ir personai, kura pēc 1990.gada 4.maija vienā pašvaldībā bijusi pilsētas domes, vēlētas rajona padomes, novada domes vai pagasta padomes:
-1) priekšsēdētājs divus sasaukumus;
-2) priekšsēdētājs vienu sasaukumu un priekšsēdētāja vietnieks, kurš ieņēmis algotu amatu, citu sasaukumu;
-3) tāds priekšsēdētāja vietnieks divus sasaukumus, kurš ieņēmis algotu amatu.
+Tiesības saņemt ikmēneša pabalstu divu minimālo mēnešalgu apmērā (turpmāk - pabalsts) ir personai, kura pēc 1990.gada 4.maija bijusi pilsētas domes, vēlētas rajona padomes, novada domes vai pagasta padomes:
+1) priekšsēdētājs divus sasaukumus vienā pašvaldībā;
+2) priekšsēdētājs vienā pašvaldībā vienu sasaukumu un priekšsēdētāja vietnieks, kurš ieņēmis algotu amatu, šajā pašvaldībā citu sasaukumu;
+3) priekšsēdētāja vietnieks, kurš ieņēmis algotu amatu, vienā pašvaldībā divus sasaukumus;
+4) priekšsēdētājs vai priekšsēdētāja vietnieks vienā pašvaldībā vienu sasaukumu un priekšsēdētājs vai priekšsēdētāja vietnieks tādas pašvaldības domes darbības laikā, kura izveidojusies, attiecīgajai pašvaldībai apvienojoties ar citu pašvaldību;
+5) priekšsēdētājs vai priekšsēdētāja vietnieks vienā pašvaldībā vienu sasaukumu un priekšsēdētājs vai priekšsēdētāja vietnieks vienu sasaukumu šajā pašvaldībā līdz dienai, kad tā apvienojusies ar citu pašvaldību.
 Pabalstu pašvaldība piešķir, pamatojoties uz attiecīgās personas iesniegumu, kuru iesniedz attiecīgajai pašvaldībai, ja persona atbilst visiem šādiem kritērijiem:
-1) sasniegusi vecumu, kas ir vismaz par pieciem gadiem mazāks nekā vecums, kurā personai saskaņā ar likumu "Par valsts pensijām" rodas tiesības uz vecuma pensiju, vai persona atzīta par invalīdu;
+1) sasniegusi vai ne vēlāk kā piecu gadu laikā sasniegs vecumu, kurā personai saskaņā ar likumu "Par valsts pensijām" rodas tiesības uz vecuma pensiju, vai atzīta par invalīdu;
 2) nav uzskatāma par darba ņēmēju vai pašnodarbināto saskaņā ar likumu "Par valsts sociālo apdrošināšanu", izņemot zemnieku (zvejnieku) saimniecības īpašnieku, kas, nebūdams darba tiesiskajās attiecībās ar savas zemnieku (zvejnieku) saimniecības pārvaldes institūciju, veic šīs saimniecības vadītāja funkciju, ja attiecīgajā saimniecībā likumā noteiktajā kārtībā nav iecelts (ievēlēts) pārvaldnieks (direktors);
 3) nesaņem bezdarbnieka pabalstu saskaņā ar likumu "Par apdrošināšanu bezdarba gadījumam".
 Ja personai vienlaikus ir tiesības uz šajā pantā noteikto pabalstu un invaliditātes pensiju, vecuma pensiju vai atlīdzību par darbspēju zaudējumu, tad izmaksā to pabalsta daļu, kas pārsniedz attiecīgi invaliditātes pensijas, vecuma pensijas vai atlīdzības par darbspēju zaudējumu apmēru.
