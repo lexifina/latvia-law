@@ -7,7 +7,7 @@
 3) pārkāpuma konstatēšanas datums un laiks;
 4) pārkāpuma izdarīšanas vieta (pilsētas vai citas apdzīvotas vietas nosaukums, adrese);
 5) transportlīdzekļa marka un valsts reģistrācijas numurs;
-6) pārkāptais Ceļu satiksmes noteikumu punkts;
+6) norāde uz pārkāptajām tiesību normām (normatīvā akta pants, tā daļa, punkts vai apakšpunkts);
 7) lēmums par naudas soda uzlikšanu un naudas soda apmērs;
 8) naudas soda samaksas termiņš;
 9) maksājuma uzdevuma rekvizīti un institūcijas, kurās iespējams samaksāt naudas sodu;
