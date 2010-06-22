@@ -1,0 +1,1 @@
+1.pants. 1986.gada 18.marta Eiropas Konvencija par izmēģinājumos un citos zinātniskos nolūkos izmantojamo mugurkaulnieku aizsardzību (turpmāk - Konvencija) un 1998.gada 22.jūnija Grozījumu protokols Eiropas Konvencijai par izmēģinājumos un citos zinātniskos nolūkos izmantojamo mugurkaulnieku aizsardzību (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.

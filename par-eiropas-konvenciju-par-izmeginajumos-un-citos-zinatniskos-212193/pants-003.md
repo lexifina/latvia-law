@@ -1,0 +1,1 @@
+3.pants. Pamatojoties uz Konvencijas 35.panta 1.punktu, Latvijas Republika izdara atrunu par Konvencijas 27.panta 2.punkta un 28.panta 1.punkta, kā arī Konvencijas A papildinājuma Vispārīgās sadaļas 3.punkta un 4.3.apakšpunkta un Sugām specifiskās sadaļas nepiemērošanu.
