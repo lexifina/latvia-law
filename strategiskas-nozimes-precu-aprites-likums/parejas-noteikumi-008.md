@@ -1,0 +1,1 @@
+8. Ministru kabinets līdz 2010.gada 1.oktobrim izdod šā likuma 5.¹ panta desmitajā daļā minētos noteikumus par speciālo ierīču sertificēšanas kārtību, kā arī kārtību, kādā maksājama valsts nodeva par speciālo ierīču sertificēšanu, un šīs nodevas apmēru.

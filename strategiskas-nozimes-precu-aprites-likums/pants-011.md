@@ -9,7 +9,7 @@
 (3) Ja eksporta, importa vai tranzīta preces ir komplicētas ķīmiskas vielas, tehnoloģijas, programmatūras, materiāli vai iekārtas, kuras pēc preces apraksta, saskaņā ar kombinēto nomenklatūru, paredzētā lietojuma vai citām pazīmēm varētu būt stratēģiskas nozīmes preces, komitejas norīkotie stratēģiskas nozīmes preču identifikācijas speciālisti 30 darbdienu laikā pēc stratēģiskas nozīmes preču aprites subjekta pieprasījuma saņemšanas nosaka, vai tās ir vai nav stratēģiskas nozīmes preces. Ja nepieciešama preču ekspertīze, šo termiņu var pagarināt, pamatojoties uz komitejas lēmumu. Ja tiek noskaidrots, ka attiecīgā prece nav stratēģiskas nozīmes prece, komiteja izsniedz stratēģiskas nozīmes preču aprites subjektam attiecīgu izziņu.
 (4) Stratēģiskas nozīmes preču ekspertīzi pēc stratēģiskas nozīmes preču kontroles iestāžu vai komitejas pieprasījuma nodrošina:
 1) Eiropas Savienības Kopējā militāro preču sarakstā minētajām precēm, pirotehnikai un sprāgstvielām - Aizsardzības ministrijas vai Valsts policijas norīkoti eksperti;
-2) kodolmateriāliem, kodoltehnoloģijām un jonizējošā starojuma avotiem - Radiācijas drošības centra norīkoti eksperti;
+2) kodolmateriāliem, kodoltehnoloģijām un jonizējošā starojuma avotiem - Valsts vides dienesta Radiācijas drošības centra norīkoti eksperti;
 3) ķīmiskajām vielām - Valsts vides dienesta norīkoti eksperti;
 4) bioloģiskiem aģentiem un iekārtām - Labklājības ministrijas norīkoti eksperti;
 5) sevišķā veidā veicamiem operatīvās darbības pasākumiem, speciāli radītām vai pielāgotām iekārtām, ierīcēm un instrumentiem - Drošības policijas norīkoti eksperti.

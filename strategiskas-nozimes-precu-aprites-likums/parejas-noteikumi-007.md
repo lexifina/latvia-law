@@ -1,0 +1,1 @@
+7. Grozījumi šā likuma 5.¹ pantā, kas paredz Drošības policijas tiesības izsniegt speciālo atļauju (licenci) komercdarbībai ar Nacionālajā stratēģiskas nozīmes preču un pakalpojumu sarakstā minētajām speciālajām ierīcēm, kā arī Ministru kabineta noteiktajā kārtībā sertificēt šādas ierīces, stājas spēkā 2010.gada 1.oktobrī.

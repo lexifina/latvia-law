@@ -1,2 +1,2 @@
 13.pants. Citas stratēģiskas nozīmes preču aprites uzraudzības institūcijas
-Šajā likumā un citos ar stratēģiskas nozīmes preču apriti saistītajos normatīvajos aktos minēto prasību izpildes uzraudzību normatīvajos aktos noteiktajā kārtībā atbilstoši savai kompetencei veic komiteja, Satversmes aizsardzības birojs, Valsts policija, Drošības policija, Valsts ieņēmumu dienests, Radiācijas drošības centrs un Valsts vides dienests.
+Šajā likumā un citos ar stratēģiskas nozīmes preču apriti saistītajos normatīvajos aktos minēto prasību izpildes uzraudzību normatīvajos aktos noteiktajā kārtībā atbilstoši savai kompetencei veic komiteja, Satversmes aizsardzības birojs, Valsts policija, Drošības policija, Valsts ieņēmumu dienests un Valsts vides dienests.
