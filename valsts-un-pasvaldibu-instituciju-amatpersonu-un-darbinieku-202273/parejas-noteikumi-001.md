@@ -3,7 +3,7 @@
 2) Ministru kabineta 2005.gada 20.decembra noteikumi Nr.995 "Noteikumi par tiešās pārvaldes iestāžu ierēdņu, darbinieku un amatpersonu un Centrālās vēlēšanu komisijas un Centrālās zemes komisijas darbinieku darba samaksas sistēmu un kvalifikācijas pakāpēm, kā arī ierēdņu pabalstiem un kompensāciju";
 3) Ministru kabineta 2004.gada 23.novembra noteikumi Nr.960 "Prokuratūras un tiesu darbinieku darba samaksas noteikumi";
 4) Ministru kabineta 2002.gada 30.jūlija noteikumi Nr.334 "Noteikumi par Korupcijas novēršanas un apkarošanas biroja amatpersonu un darbinieku atalgojumu, sociālajām garantijām un ar mācībām un kvalifikācijas celšanu saistīto izdevumu segšanu";
-5) Ministru kabineta 2004.gada 3.februāra noteikumi Nr.62 "Noteikumi par vienoto darba samaksas uzskaites sistēmu no valsts budžeta finansējamās institūcijās";
+5) (izslēgts ar 10.06.2010. likumu);
 6) Ministru kabineta 2003.gada 23.decembra noteikumi Nr.764 "Pabalstu un kompensāciju izmaksas noteikumi diplomātiskajā un konsulārajā dienestā";
 7) Ministru kabineta 2006.gada 9.maija noteikumi Nr.365 "Noteikumi par pabalstu un kompensāciju apmēriem un pabalstu un kompensāciju izmaksas kārtību karavīriem, kuri pilda dienesta pienākumus ārpus valsts";
 8) Ministru kabineta 2009.gada 3.februāra noteikumi Nr.103 "Noteikumi par pabalstu un kompensāciju apmēru un izmaksas kārtību Valsts ieņēmumu dienesta ierēdņiem, kuri pilda dienesta pienākumus ārvalstīs sakaru virsnieka statusā";

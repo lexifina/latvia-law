@@ -1,0 +1,1 @@
+1.² Līdz šā likuma 3.panta astotajā daļā minēto noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2010.gada 1.septembrim ir piemērojami Ministru kabineta 2004.gada 3.februāra noteikumi Nr.62 "Noteikumi par vienoto darba samaksas uzskaites sistēmu no valsts budžeta finansējamās institūcijās", ciktāl tie nav pretrunā ar šo likumu.
