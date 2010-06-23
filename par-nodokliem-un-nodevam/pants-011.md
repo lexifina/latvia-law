@@ -114,9 +114,10 @@
 98) par apraides atļaujas, retranslācijas atļaujas un speciālās atļaujas (licences) kabeļtelevīzijas un kabeļradio (radiotranslācijas) darbībai izsniegšanu un pārreģistrāciju;
 99) par ģeogrāfiskās izcelsmes norādes reģistrāciju, par iebilduma paziņojuma lēmuma izsniegšanu un par ģeogrāfiskās izcelsmes norādes grozījuma reģistrāciju;
 100) par nacionālās pārtikas kvalitātes shēmas kontroles institūcijas apstiprināšanas apliecības izsniegšanu;
-101) par pārtikas uzņēmuma atzīšanas apliecības izsniegšanu;
-102) par pārtikas uzņēmuma reģistrācijas apliecības izsniegšanu;
+101) (izslēgts ar 20.05.2010. likumu);
+102) (izslēgts ar 20.05.2010. likumu);
 103) par uztura bagātinātāju reģistrāciju;
 104) par diētiskās pārtikas un zīdaiņiem paredzēto mākslīgo maisījumu reģistrāciju;
 105) par atļaujas izsniegšanu dabīgā minerālūdens izplatīšanai tirgū;
-106) par atļaujas izsniegšanu komersantam tirdzniecībai ar mājas (istabas) dzīvniekiem.
+106) par atļaujas izsniegšanu komersantam tirdzniecībai ar mājas (istabas) dzīvniekiem;
+107) par speciālās atļaujas (licences) augu aizsardzības līdzekļu izplatīšanai izsniegšanu un pārreģistrāciju.
