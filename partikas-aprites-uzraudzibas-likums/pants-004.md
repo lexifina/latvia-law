@@ -3,7 +3,7 @@
 (3) Pārtikai, kas paredzēta atsevišķām patērētāju grupām, Ministru kabinets var noteikt īpašas prasības.
 (4) Atsevišķām pārtikas produktu grupām Ministru kabinets nosaka kvalitātes un klasifikācijas prasības un kārtību, kādā novērtējama attiecīgo produktu atbilstība šīm prasībām.
 (5) (Izslēgta ar 17.11.2005. likumu.)
-(6) Pārtiku, kas ražota, pārstrādāta vai apstrādāta mājas apstākļos, drīkst izplatīt tieši patērētājam, ievērojot higiēnas prasības pārtikas ražošanai, pārstrādei vai apstrādei.
+(6) Pārtiku, kas ražota, apstrādāta vai pārstrādāta mājas apstākļos, drīkst izplatīt tieši galapatērētājam, ievērojot pārtikas aprites normatīvo aktu prasības.
 (7) (Izslēgta ar 21.10.2004. likumu.)
 (8) Pārtiku, kura satur ģenētiski modificētus organismus vai ir ražota no tiem, Latvijā drīkst izplatīt tikai pēc attiecīgas atļaujas saņemšanas normatīvajos aktos noteiktajā kārtībā.
 (9) (Izslēgta ar 17.11.2005. likumu.)

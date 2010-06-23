@@ -7,7 +7,7 @@
 6) pārtikas aprite - visas darbības ar pārtiku no tās ieguves līdz patēriņam (primārā ražošana, ieguve, pirmapstrāde, apstrāde, pārstrāde, ražošana, iepakošana, uzglabāšana, izplatīšana, transportēšana, pārvietošana pāri valsts robežai, vairumtirdzniecība un mazumtirdzniecība);
 7) (izslēgts ar 17.11.2005. likumu);
 8) pārtikas piedeva - viela, kuru neatkarīgi no tās uzturvērtības parasti nelieto uzturā atsevišķi kā pārtiku vai kā raksturīgu uztura sastāvdaļu, bet apzināti pievieno pārtikai apstrādes, pārstrādes, ražošanas, iesaiņošanas, uzglabāšanas vai transportēšanas procesā, un tad minētā viela vai tās blakusprodukti kļūst par pārtikas produktu sastāvdaļu;
-9) pārtikas uzņēmums - persona, kura iesaistīta kādā no pārtikas aprites posmiem un veic saimniecisko darbību;
+9) pārtikas uzņēmums - persona, kura iesaistīta kādā no pārtikas aprites posmiem;
 10) (izslēgts ar 17.11.2005. likumu);
 11) (izslēgts ar 17.11.2005. likumu);
 12) (izslēgts ar 17.11.2005. likumu);

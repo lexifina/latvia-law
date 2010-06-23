@@ -9,7 +9,7 @@
 1) sakarā ar neatbilstību pārtikas apriti reglamentējošo normatīvo aktu prasībām produkcijā var nonākt bīstamas vielas vai slimību izraisītāji vai rodas draudi cilvēku un dzīvnieku veselībai vai dzīvībai;
 2) darbība pārtikas apritē nav atzīta vai reģistrēta normatīvajos aktos noteiktajā kārtībā;
 3) tiek izgatavota produkcija, kas neatbilst pārtikas uzņēmuma deklarētajām prasībām.
-(6) Pārtikas uzņēmuma darbības atzīšanas apliecību var anulēt, ja:
+(6) Pārtikas uzņēmuma atzīšanu un atzīšanas numuru vai reģistrāciju un reģistrācijas numuru var anulēt, ja:
 1) pārtikas uzņēmumā ir konstatētas atkārtotas neatbilstības pārtikas apriti reglamentējošo normatīvo aktu prasībām;
 2) pārtikas uzņēmums nespēj nodrošināt turpmāko pārtikas apriti saskaņā ar pārtikas aprites atbilstību reglamentējošo normatīvo aktu prasībām.
-(7) Lēmumu par pārtikas uzņēmuma darbības apturēšanu, uzņēmuma darbības atzīšanas apliecības anulēšanu, kā arī brīdinājumu par konstatētajām neatbilstībām pārtikas apriti reglamentējošo normatīvo aktu prasībām var apstrīdēt un pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā. Šajā pantā minēto Pārtikas un veterinārā dienesta amatpersonu lēmumu vai brīdinājumu apstrīdēšana un pārsūdzēšana neaptur to darbību.
+(7) Lēmumu par pārtikas uzņēmuma darbības apturēšanu, uzņēmuma atzīšanas un atzīšanas numura vai reģistrācijas un reģistrācijas numura anulēšanu, kā arī brīdinājumu par konstatētajām neatbilstībām pārtikas apriti reglamentējošo normatīvo aktu prasībām var apstrīdēt un pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā. Šajā pantā minēto Pārtikas un veterinārā dienesta amatpersonu lēmumu vai brīdinājumu apstrīdēšana un pārsūdzēšana neaptur to darbību.

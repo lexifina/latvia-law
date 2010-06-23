@@ -23,7 +23,7 @@ b) veikt intervences noliktavu uzraudzību atbilstoši normatīvo aktu prasībā
 12) iesaistoties Eiropas Savienības ātrās izziņošanas sistēmā, veikt riska faktoru izpēti un panākt riska samazināšanu, novēršot obligātajām nekaitīguma prasībām neatbilstošas un cilvēku veselībai vai dzīvībai draudus radošas pārtikas izplatīšanu Latvijā;
 13) uzraudzīt un kontrolēt Eiropas Savienības tiesību aktos noteikto prasību ievērošanu pārtikas aprites jomā, kā arī sniegt nepieciešamo informāciju Eiropas Savienības institūcijām;
 14) izveidot, aktualizēt un uzturēt 4.panta 10.¹daļā minētos reģistrus un datu bāzes;
-14¹) izveidot un uzturēt šā likuma 10.panta ceturtajā daļā minēto pārtikas pārvadāšanas atļauju datubāzi;
+14¹) (izslēgts ar 20.05.2010. likumu);
 15) (izslēgts ar 12.11.2009. likumu);
 16) uzraudzīt un kontrolēt institūcijas, kas pārbauda to personu darbību, kuras piedalās pārtikas kvalitātes shēmās;
 17) atzīt un uzraudzīt laboratorijas, kas veic svaigpiena kvalitātes laboratoriskos izmeklējumus.
