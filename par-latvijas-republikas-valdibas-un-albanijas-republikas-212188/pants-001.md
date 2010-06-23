@@ -1,0 +1,1 @@
+1.pants. 2009.gada 16.decembrī Tirānā parakstītais Latvijas Republikas valdības un Albānijas Republikas Ministru padomes līgums par sadarbību cīņā pret terorismu, organizēto noziedzību, nelegālu narkotisko vielu, psihotropo vielu un prekursoru apriti (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
