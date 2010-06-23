@@ -11,7 +11,7 @@ Ministru kabinets augu aizsardzības jomā izdod:
 9) noteikumus par kārtību, kādā tiek izsniegts sertifikāts augu aizsardzības līdzekļu efektivitātes pārbaudes izmēģinājumu veikšanai;
 10) noteikumus par kaitīgo organismu, augu, augu produktu un ar tiem saskarē nonākušo, izmēģinājumiem vai zinātniskiem mērķiem un šķirņu selekcijas vajadzībām paredzēto priekšmetu ievešanu vai pārvietošanu;
 11) noteikumus par dzīvo organismu reģistrācijas kārtību;
-12) noteikumus par kārtību, kādā izsniedzamas speciālās atļaujas (licences) augu aizsardzības līdzekļu izplatīšanai;
+12) noteikumus par kārtību, kādā izsniedz speciālās atļaujas (licences) augu aizsardzības līdzekļu izplatīšanai un maksā valsts nodevu par to izsniegšanu un pārreģistrāciju, kā arī par valsts nodevas apmēru;
 13) noteikumus par atsevišķu karantīnas organismu apkarošanas un izplatības ierobežošanas kārtību;
 14) noteikumus par fitosanitārajiem pasākumiem un to piemērošanas kārtību augu vai augu produktu aizsardzībā pret kaitīgajiem organismiem;
 15) noteikumus par invazīvo augu sugas latvāņa (Heracleum sosnowskyi Manden) (turpmāk - latvānis) ierobežošanas pasākumiem, kā arī iznīcināšanas kārtību un metodēm, par kārtību, kādā valsts pārvaldes iestādes sniedz informāciju par latvāņa izplatību zemes lietošanas mērķu grupās, informācijas saturu, kas ir brīvi pieejams sabiedrībai par sugas izplatību, kā arī par darba aizsardzības prasībām, veicot ierobežošanas pasākumus;
