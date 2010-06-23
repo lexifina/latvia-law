@@ -1,0 +1,1 @@
+1.pants. 2010.gada 4.maijā parakstītais Protokols par Latvijas Republikas valdības un Amerikas Savienoto Valstu valdības līguma par sadarbību masu iznīcināšanas ieroču izplatīšanas novēršanas jomā pagarināšanu (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
