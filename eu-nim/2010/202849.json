@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2010.gada 21.jūnija noteikumi Nr.542 \"Klimata pārmaiņu finanšu instrumenta finansēto projektu atklāta konkursa \"Kompleksi risinājumi siltumnīcefekta gāzu emisiju samazināšanai  pašvaldību ēkās\" nolikums\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "101 (4293)",
+  "official_journal_page": null,
+  "official_journal_date": "2010-06-29",
+  "entry_into_force": "2010-06-30",
+  "notification_date": "2013-04-05",
+  "commission_reference": "MNE(2013)52495",
+  "nim_celex": "72009L0028LVA_202849",
+  "nim_id": "202849",
+  "transposes_celex": [
+    "32009L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9577a5be-5283-4b0b-b976-6b3b0e66b8e3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
