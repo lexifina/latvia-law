@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2010. gada 21. jūnija noteikumi Nr. 565 \"Noteikumi par valsts un pašvaldību institūciju amatpersonu un darbinieku sociālajām garantijām\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "101",
+  "official_journal_page": null,
+  "official_journal_date": "2010-06-29",
+  "entry_into_force": "2010-06-30",
+  "notification_date": "2022-07-01",
+  "commission_reference": "MNE(2022)04113",
+  "nim_celex": "72019L1152LVA_202204113",
+  "nim_id": "202204113",
+  "transposes_celex": [
+    "32019L1152"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/99d9bdae-66c8-4004-8f99-a95572fbf2c4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
