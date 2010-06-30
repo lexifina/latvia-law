@@ -1,0 +1,3 @@
+6.pants. Filmu klasifikācija
+(1) Filmu klasifikācijas mērķis ir informēt par filmas saturu un tās iespējamo ietekmi uz skatītāju, jo īpaši uz bērnu, norādot to ar atbilstošu filmu klasifikācijas indeksu. Filmas izplatītāja pienākums ir norādīt attiecīgās filmas klasifikācijas indeksu skatītājam labi redzamā, saprotamā un nepārprotamā veidā.
+(2) Filmu klasifikācijas indeksu piešķiršanas kritērijus, kārtību, kādā filmu producenti vai izplatītāji pēc filmu klasifikācijas indeksiem klasificē Latvijas Republikas teritorijā izplatītās filmas, kā arī norāda filmu klasifikācijas indeksus, nosaka Ministru kabinets.
