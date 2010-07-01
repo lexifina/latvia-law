@@ -12,3 +12,4 @@
 (4) Izglītojamajam, kas daļēji apguvis akreditētu izglītības programmu un nav nokārtojis kvalifikācijas eksāmenus, izglītības iestāde Ministru kabineta noteiktajā kārtībā izsniedz dokumentu par attiecīgās profesionālās izglītības programmas daļas apguvi.
 (5) Izglītojamajam, kurš apguvis profesionālās pilnveides izglītības programmu, tiek izsniegta apliecība par profesionālās pilnveides izglītības ieguvi.
 (6) Izglītojamajam, kurš apguvis profesionālās ievirzes izglītības programmu, tiek izsniegta apliecība par profesionālās ievirzes izglītības ieguvi.
+(7) Personai, kura apguvusi profesionālo kompetenci ārpus formālās izglītības sistēmas un kuras profesionālā kompetence novērtēta šajā likumā noteiktajā kārtībā un atzīta par atbilstošu pirmā, otrā vai trešā profesionālās kvalifikācijas līmeņa profesionālajai kompetencei, tiek izsniegta profesionālās kvalifikācijas apliecība.
