@@ -1,12 +1,9 @@
 14.pants. Iesniegums selekcionāra tiesību piešķiršanai
 (1) Selekcionārs vai viņa pilnvarotais pārstāvis (turpmāk - iesniedzējs) iesniedz iesniegumu Valsts augu aizsardzības dienestam. Iesnieguma izskatīšanas un reģistrēšanas kārtību nosaka Ministru kabinets.
-(2) Iesniegumu veido aizpildīta iesnieguma veidlapa un šādi pievienotie dokumenti:
-1) šķirnes apraksts;
-2) (izslēgts ar 17.11.2005. likumu);
-3) par iesnieguma izskatīšanu izdarītā maksājuma dokumenta kopija;
-4) pilnvarojums, ja iesniedzējs nav selekcionārs;
-5) dokumenti, kas minēti šā likuma 15.pantā, ja tiek pieprasīta konvencijprioritāte;
-6) pirmās selekcionāra tiesību piešķiršanas apliecības kopija, ja selekcionāra tiesības aizsargātas citās valstīs.
+(2) Iesniegumā norāda datumu, kad samaksāta valsts nodeva. Iesniegumam pievieno šādus dokumentus:
+1) šķirnes aprakstu;
+2) pilnvarojumu, ja iesniedzējs nav selekcionārs;
+3) dokumentus, kas minēti šā likuma 15.pantā, ja tiek pieprasīta konvencijprioritāte.
 (3) Iesniegumu reģistrē, ja iesniegta šķirnes apraksta tehniskā anketa un maksājuma dokumenta kopija par iesnieguma izskatīšanu un iesnieguma veidlapā norādīta šāda informācija:
 1) iesniedzēja nosaukums un adrese;
 2) selekcionāra nosaukums un adrese, ja iesniedzējs nav selekcionārs;
