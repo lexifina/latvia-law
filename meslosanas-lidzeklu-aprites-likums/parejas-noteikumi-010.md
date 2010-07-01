@@ -1,0 +1,1 @@
+10. No 2010.gada 1.jūlija līdz 2014.gada 1.jūlijam šā likuma 5.panta sesto un septīto daļu piemēro mēslošanas līdzekļiem, kuros amonija nitrāta slāpekļa saturs ir 20 procentu vai vairāk no mēslošanas līdzekļa masas.

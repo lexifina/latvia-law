@@ -11,7 +11,8 @@
 9) sniedz Valsts ieņēmumu dienestam par trešajās valstīs ražotajiem mēslošanas līdzekļiem, kuriem viens no aprites posmiem ir ievešana, šādu informāciju:
 a) piecu darbadienu laikā - par uzskaitei pieteiktajiem mēslošanas līdzekļiem ar EK marķējumu un ražotāja reģistrētajiem mēslošanas līdzekļiem,
 b) katru mēnesi līdz 5.datumam - par iepriekšējā mēnesī reģistrētajiem mēslošanas līdzekļiem, par tiem mēslošanas līdzekļiem, attiecībā uz kuriem izsniegta šā likuma 8.panta otrajā daļā minētā atļauja, kā arī par mēslošanas līdzekļiem, kuriem anulēta reģistrācijas apliecība;
-10) norādot identificēšanai nepieciešamās ziņas, no Valsts ieņēmumu dienesta var pieprasīt informāciju par mēslošanas līdzekļiem, kuriem piemērota muitas procedūra - laišana brīvā apgrozībā.
+10) norādot identificēšanai nepieciešamās ziņas, no Valsts ieņēmumu dienesta var pieprasīt informāciju par mēslošanas līdzekļiem, kuriem piemērota muitas procedūra - laišana brīvā apgrozībā;
+11) ievieto savā tīmekļa vietnē to reģistrā iekļauto mēslošanas līdzekļu sarakstu, kuros amonija nitrāta slāpekļa saturs ir 16 procentu vai vairāk un kuros - 20 procentu vai vairāk no mēslošanas līdzekļa masas.
 (2) Dienesta inspektoriem ir tiesības:
 1) pieprasīt un bez maksas saņemt no darbību veicēja informāciju, kas nepieciešama uzraudzības veikšanai saskaņā ar normatīvajiem aktiem par mēslošanas līdzekļiem;
 2) kontrolēt iepakojuma, marķējuma, etiķetes un pavaddokumentu atbilstību normatīvajos aktos par mēslošanas līdzekļiem noteiktajām prasībām, kas jāievēro mēslošanas līdzekļu ražošanas, uzglabāšanas, iepakošanas un tirdzniecības vietās un attiecīgajos transportlīdzekļos;
