@@ -1,0 +1,2 @@
+5.pants. (1) Dokuments parakstāms pašrocīgi. Organizācijas dokumentu paraksta persona, kuras amats norādīts dokumentā. Personiskais paraksts, kas papīra dokumentā atveidots ar tehniskiem līdzekļiem, nenodrošina dokumenta juridisko spēku.
+(2) Ja fiziskā persona ir rakstīt nepratēja vai fiziski nav spējīga parakstīt dokumentu un tās vietā dokumentu paraksta cita persona, šo faktu ar parakstu apliecina divi liecinieki. Parakstītajā dokumentā par lieciniekiem ietver ziņas, kas nepārprotami ļauj viņus identificēt.

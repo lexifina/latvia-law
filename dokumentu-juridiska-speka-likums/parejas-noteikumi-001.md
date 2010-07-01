@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Latvijas Republikas Augstākās padomes 1991.gada 28.maija lēmums "Par dokumentu dublikātu, norakstu un izrakstu pareizības apliecināšanu" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 29./30.nr.).

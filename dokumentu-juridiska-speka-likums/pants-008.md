@@ -1,0 +1,2 @@
+8.pants. (1) Dokumenta oriģināla, atvasinājuma un dublikāta izstrādāšanas un noformēšanas noteikumus, kā arī pārvaldes dokumentu sistēmā ietilpstošos dokumentus, šo sistēmu veidojošo dokumentu grupas un prasības, kas ievērojamas, izstrādājot un noformējot pārvaldes dokumentu sistēmā ietilpstošos dokumentus, nosaka Ministru kabinets.
+(2) Valsts valodas likumā noteiktajos gadījumos dokumenta izstrādāšanā un noformēšanā ievēro minētā likuma prasības.

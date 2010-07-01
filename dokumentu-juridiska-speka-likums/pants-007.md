@@ -1,0 +1,2 @@
+7.pants. (1) Dokumenta dublikātu izdod, pamatojoties uz pirmdokumentiem, saskaņā ar kuriem izdots dokumenta oriģināls. Dokumenta dublikātam ir tāds pats juridiskais spēks kā dokumenta oriģinālam.
+(2) Dokumenta dublikātu izsniedz organizācija, kura izsniegusi dokumenta oriģinālu, vai šīs organizācijas saistību vai tiesību pārņēmējs. Dokumenta dublikāta izsniegšanai piemēro noteikumus, kas dublikāta izsniegšanas dienā ir spēkā attiecībā uz dokumenta oriģinālam atbilstošiem dokumentiem.

@@ -1,0 +1,2 @@
+3.pants. (1) Lai dokuments vai tā atvasinājums iegūtu juridisku spēku, fiziskā persona, izstrādājot un noformējot attiecīgo dokumentu, ievēro tiesībspējas un rīcībspējas noteikumus.
+(2) Lai dokuments vai tā atvasinājums iegūtu juridisku spēku, organizācija, izstrādājot un noformējot attiecīgo dokumentu, ievēro normatīvajos aktos, savos statūtos, nolikumā vai dibināšanas līgumā un citos organizācijas darbību reglamentējošos tiesību aktos noteiktās pilnvaras.
