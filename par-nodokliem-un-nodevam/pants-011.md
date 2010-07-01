@@ -46,7 +46,7 @@
 32) (izslēgts ar 01.12.2009. likumu);
 33) (izslēgts ar 31.03.2004. likumu);
 34) (izslēgts ar 31.03.2004. likumu);
-35) par filmu producētāju (ražotāju) un izplatītāju, filmu izplatīšanas vietu un filmu reģistrāciju;
+35) par filmu producētāju (ražotāju) reģistrāciju;
 36) (zaudējis spēku 01.07.2006.; sk. Pārejas noteikumus);
 36¹) par kadastra izziņas sagatavošanu un izsniegšanu;
 37) (izslēgts ar 09.10.2002. likumu);
@@ -67,7 +67,7 @@
 52) par personas datu apstrādes reģistrēšanu vai Fizisko personu datu aizsardzības likumā noteikto reģistrējamo izmaiņu izdarīšanu;
 53) par sertifikācijas pakalpojumu sniedzēja akreditāciju un akreditācijas atjaunošanu (šo akreditāciju un akreditācijas atjaunošanu veic Datu valsts inspekcija);
 54) par informācijas sniegšanu no Valsts adrešu reģistra;
-55) par darba atļaujas pieprasīšanai nepieciešamo dokumentu izskatīšanu;
+55) (izslēgts ar 17.06.2010. likumu);
 56) par Elektronisko sakaru likumā noteiktajām radiofrekvenču spektra lietošanas tiesībām (ikgadējā nodeva);
 57) par Elektronisko sakaru likumā noteiktajām numerācijas resursu lietošanas tiesībām (ikgadējā nodeva);
 58) par Ģerboņu likumā noteikto ģerboņu reģistrāciju;
@@ -120,4 +120,6 @@
 104) par diētiskās pārtikas un zīdaiņiem paredzēto mākslīgo maisījumu reģistrāciju;
 105) par atļaujas izsniegšanu dabīgā minerālūdens izplatīšanai tirgū;
 106) par atļaujas izsniegšanu komersantam tirdzniecībai ar mājas (istabas) dzīvniekiem;
-107) par speciālās atļaujas (licences) augu aizsardzības līdzekļu izplatīšanai izsniegšanu un pārreģistrāciju.
+107) par speciālās atļaujas (licences) augu aizsardzības līdzekļu izplatīšanai izsniegšanu un pārreģistrāciju;
+108) par atzinuma par ūdens apgādes sistēmā konstatēto apdraudējumu cilvēku veselībai un veiktajiem korektīvajiem pasākumiem sagatavošanu;
+109) par Enerģētikas likumā noteikto drošības rezervju uzturēšanu.
