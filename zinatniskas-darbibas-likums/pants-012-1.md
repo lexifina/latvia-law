@@ -1,0 +1,5 @@
+12.¹ pants. Valsts emeritētā zinātnieka statusa piešķiršana
+(1) Izciliem, starptautiski atzītiem zinātniekiem pēc likumā noteiktā pensijas vecuma sasniegšanas var piešķirt valsts emeritētā zinātnieka statusu.
+(2) Lēmumu par valsts emeritētā zinātnieka statusa piešķiršanu pieņem Latvijas Zinātņu akadēmija, noskaidrojot Valsts emeritēto zinātnieku padomes viedokli. Valsts emeritēto zinātnieku padomes sastāvu apstiprina izglītības un zinātnes ministrs uz četriem gadiem.
+(3) Valsts emeritētajam zinātniekam piešķir mūža grantu - pabalstu, ko maksā papildus vecuma pensijai. To izmaksā Latvijas Zinātņu akadēmija no Izglītības un zinātnes ministrijas budžetā zinātniskajai darbībai paredzētajiem finanšu līdzekļiem.
+(4) Ministru kabinets nosaka valsts emeritētā zinātnieka statusa pretendentu izvirzīšanas kārtību, atlases kritērijus un kārtību, kādā piešķir valsts emeritētā zinātnieka statusu un mūža grantu, piešķiramā mūža granta apmēru, kā arī Valsts emeritēto zinātnieku padomes izveidošanas kārtību un darbības pamatnoteikumus.
