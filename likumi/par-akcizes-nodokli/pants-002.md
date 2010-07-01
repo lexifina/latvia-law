@@ -29,4 +29,5 @@
 2) citas prasības apstiprināta noliktavas turētāja, reģistrēta nosūtītāja un reģistrēta saņēmēja darbībai;
 3) prasības importētāja, īslaicīgi reģistrēta saņēmēja un pārsūtītājtirgotāja darbībai;
 4) citas prasības saskaņā ar šo likumu.
+(7¹) Ministru kabinets nosaka dabasgāzes aprites kārtību.
 (8) Nelabvēlīga lēmuma apstrīdēšana vai pārsūdzēšana saistībā ar tādu licenču vai atsevišķu to nosacījumu, atļauju, apliecību, sertifikātu vai izziņu pārreģistrāciju, apturēšanu vai anulēšanu, kuras paredzētas uz likuma pamata izdotajos normatīvajos aktos, neaptur šā lēmuma darbību.
