@@ -1,2 +1,0 @@
-81.pants. (1) Vietējām pašvaldībām un valsts institūcijām ir pienākums normatīvajos aktos noteiktajā kārtībā sniegt Valsts zemes dienestam ziņas, kas nepieciešamas prognozēto nekustamā īpašuma nodokļa objektu kadastrālo vērtību kopsummas aprēķināšanai.
-(2) Valsts zemes dienests, izmantojot Kadastra informācijas sistēmas datus, kā arī atbilstoši šā panta pirmajai daļai saņemtās ziņas, normatīvajos aktos noteiktajā kārtībā aprēķina nekustamā īpašuma nodokļa objektu kadastrālo vērtību kopsummas pa administratīvajām teritorijām.
