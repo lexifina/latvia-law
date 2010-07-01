@@ -13,7 +13,7 @@
 10) apkopo karjeras konsultācijām nepieciešamo informāciju, kā arī informāciju par izglītības iespējām;
 11) izstrādā jaunas un pilnveido esošās karjeras konsultāciju metodes, kā arī sniedz palīdzību to ieviešanā;
 12) apstiprina darba izsaukumus normatīvajos aktos noteiktajā kārtībā;
-13) licencē un uzrauga komersantus, kuri sniedz darbiekārtošanas pakalpojumus (izņemot personu iekārtošanu darbā uz kuģiem);
+13) licencē un uzrauga komersantus, kuri sniedz darbiekārtošanas pakalpojumus (izņemot kuģa apkalpes komplektēšanu);
 14) nodrošina Eiropas Savienības normatīvo aktu prasībām atbilstošas bezdarba situāciju valstī atspoguļojošas informācijas sagatavošanu un sniegšanu;
 15) sadarbojas ar valsts un pašvaldību institūcijām, nevalstiskajām organizācijām, kā arī fiziskajām un juridiskajām personām;
 16) piedalās starpvalstu sadarbības līgumu projektu, kā arī citu sadarbības projektu izstrādē un īstenošanā bezdarba samazināšanas, nodarbinātības veicināšanas, karjeras konsultāciju, kā arī darbaspēka kustības jomā;
