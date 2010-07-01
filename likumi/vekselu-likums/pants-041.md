@@ -1,6 +1,6 @@
-41. Ja trata izrakstīta valūtā, kura nav apgrozībā maksāšanas vietā, tad tratas sumu var maksāt vietējā naudā pēc maksāšanas dienas kursa. Ja parādnieks nokavējis samaksu, tad tratas turētājam ir tiesība, tratas sumas samaksu vietējā naudā pieprasot, izvēlēties tratas sumas pārrēķināšanai vai nu maksāšanas termiņa, vai faktiskās samaksas dienas kursu.
-Ārzemju valūtas vērtību noteic maksāšanas vietas tirdzniecības parašas.
+41. Ja trata izrakstīta valūtā, kura nav apgrozībā maksāšanas vietā, tad tratas sumu var maksāt vietējā naudā pēc maksāšanas dienas kursa. Ja parādnieks nokavējis samaksu, tad tratas turētājam ir tiesība, tratas sumas samaksu vietējā naudā pieprasot, izvēlēties tratas sumas pārrēķināšanai vai nu maksāšanas termiņa, vai faktiskās samaksas dienas kursu. Par ārvalsts valūtā ārvalstī izrakstītu tratu, kura maksājama Latvijā, kā arī par Latvijā ārvalsts valūtā izrakstītu tratu, kura tiktu uzrādīta Latvijā, maksājams latos pēc tratā norādītā valūtas kursa, bet, ja tratā tas nav norādīts, - saskaņā ar Latvijas Bankas noteikto valūtas kursu.
+(Otrā daļa izslēgta ar 15.04.2010. likumu)
 Tomēr trasants pašā tratā var noteikt kursu tratas sumas pārrēķināšanai.
-Nav jāpiemēro šā (41.) panta pirmās un otrās daļas noteikumi, ja trasants noteicis, ka samaksa izdarāma noteiktā valūtā (efektivklauzula).
+Nav jāpiemēro šā (41.) panta pirmās daļas noteikumi, ja trasants noteicis, ka samaksa izdarāma noteiktā valūtā (efektivklauzula).
 Tomēr šī atzīme nav spēkā, ja Latvijā iestājušies ārkārtēji apstākļi, kas ietekmē naudas kursus. Pazīmes, kas raksturo ārkārtējus apstākļus, tāpat arī šo apstākļu rašanos un izbeigšanos, noteic valdība.
 Ja tratas suma ir noteikta valūtā, kurai vienāds nosaukums, bet cita vērtība valstī, kur trata izrakstīta, un valstī, kur tā maksājama, tad jāpieņem, ka domāta tās valsts valūta, kur trata maksājama.

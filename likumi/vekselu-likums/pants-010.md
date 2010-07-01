@@ -1,1 +1,1 @@
-10. Ja trata bija nepilnīga, to pirmam ņēmējam iedodot, un vēlāk aizpildīta pretēji norunai, tad pret tratas turētāju nevar celt iebildumu par norunas neievērošanu, ja vien viņš tratu nav ieguvis ļaunā ticībā vai, to iegūstot, nav pielaidis rupju neuzmanību.
+10. Ja trata bija nepilnīga, to pirmam ņēmējam iedodot, un vēlāk aizpildīta pretēji norunai, tad pret tratas turētāju nevar celt iebildumu par norunas neievērošanu, ja vien viņš tratu nav ieguvis vai aizpildījis ļaunā ticībā vai, to iegūstot vai aizpildot, nav pielaidis rupju neuzmanību.

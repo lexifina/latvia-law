@@ -1,4 +1,4 @@
-87. Jāuzglabā protesta akta apliecinātais noraksts. Jātaisa atzīme par vekseļa vai tā noraksta saturu. Atzīmē jāmin:
+87. Jāuzglabā protesta akta otrais eksemplārs un vekseļa apliecināts noraksts. Jātaisa atzīme par vekseļa vai tā noraksta saturu. Atzīmē jāmin:
 1) vekseļa suma;
 2) maksāšanas termiņš;
 3) izrakstīšanas laiks un vieta;
