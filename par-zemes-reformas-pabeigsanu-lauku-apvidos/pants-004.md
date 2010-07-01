@@ -1,6 +1,6 @@
 4.pants. (1) Šajā daļā minētās atbildīgās institūcijas iesniedz Valsts zemes dienesta teritoriālajām struktūrvienībām Nekustamā īpašuma valsts kadastra informācijas sistēmas datu aktualizācijai šādu informāciju:
 1) valsts akciju sabiedrība "Latvijas Hipotēku un zemes banka" - par noslēgtajiem zemes izpirkuma (pirkuma) līgumiem līdz 2011.gada 31.martam;
-2) Centrālā zemes komisija - par pieņemtajiem lēmumiem par īpašuma tiesību atjaunošanu līdz 2011.gada 31.martam.
+2) Centrālā zemes komisija - par pieņemtajiem lēmumiem par īpašuma tiesību atjaunošanu līdz 2012.gada 31.martam.
 (2) Valsts zemes dienesta teritoriālā struktūrvienība sagatavo un iesniedz pašvaldībām kadastra datus līdz:
 1) 2010.gada 31.augustam par tām zemes vienībām, par kurām līdz 2010.gada 31.maijam nav iesniegts iesniegums lēmuma pieņemšanai par zemes piešķiršanu īpašumā par samaksu;
 2) 2010.gada 30.decembrim par tām zemes vienībām, par kurām līdz 2010.gada 31.augustam nav iesniegts zemes robežu plāns reģistrācijai Nekustamā īpašuma valsts kadastra informācijas sistēmā un iesniegums lēmuma pieņemšanai par zemes piešķiršanu īpašumā par samaksu;
