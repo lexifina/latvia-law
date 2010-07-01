@@ -1,3 +1,3 @@
-6.pants. Ministru kabinets nosaka kārtību, kādā valsts akciju sabiedrība "Paula Stradiņa klīniskā universitātes slimnīca" (turpmāk - slimnīca):
+6.pants. Ministru kabinets nosaka kārtību, kādā valsts sabiedrība ar ierobežotu atbildību "Paula Stradiņa klīniskā universitātes slimnīca" (turpmāk - slimnīca):
 1) veic Černobiļas AES avārijas seku likvidēšanas dalībnieku un Černobiļas AES avārijas rezultātā cietušo personu uzskaiti, šim nolūkam izveidojot minēto personu uzskaites vienotu datubāzi, kurā iekļaujamās informācijas apjomu arī nosaka Ministru kabinets;
 2) regulāri novēro Černobiļas AES avārijas seku likvidēšanas dalībnieku un Černobiļas AES avārijas rezultātā cietušo personu veselības stāvokli un nosaka slimību, invaliditātes un personas nāves cēloņsakarību ar Černobiļas AES avāriju.
