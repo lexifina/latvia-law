@@ -1,0 +1,1 @@
+8. Personai, kurai piešķirts pabalsts par radošo darbu saskaņā ar Ministru kabineta 2006.gada 28.februāra noteikumiem Nr.176 "Noteikumi par pabalsta piešķiršanu izciliem Latvijas baleta māksliniekiem", Kultūras ministrija turpina pabalsta izmaksu no valsts budžetā kārtējam gadam paredzētajiem līdzekļiem.
