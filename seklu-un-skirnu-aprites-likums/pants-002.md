@@ -11,11 +11,7 @@ g) nosaka valstis, kas nav Eiropas Savienības dalībvalstis, bet kam ir piešķ
 2) Zemkopības ministrija:
 a) izstrādā valsts sēklaudzēšanas politiku atbilstoši valsts agrārajai politikai,
 b) nodrošina lauksaimniecības augu sugu ģenētisko resursu kolekcionēšanu, saglabāšanu, raksturošanu, izvērtēšanu un izmantošanu atbilstoši Ministru kabineta noteiktajai valsts institūciju un komercsabiedrību specializācijai;
-3) zemkopības ministrs:
-a) (izslēgts ar 19.12.2006. likumu),
-b) apstiprina kultūraugu sēklaudzēšanas lauku apskates metodiku un šķirnes sējumu reģistrācijas metodiku,
-c) apstiprina metodiku sēklu pēcpārbaudei kontrollauciņos,
-d) apstiprina augu šķirņu saimniecisko īpašību novērtēšanas metodikas;
+3) (izslēgts ar 03.09.2009. likumu);
 4) Valsts augu aizsardzības dienests:
 a) sertificē sēklas,
 b) nodrošina augu šķirņu saimniecisko īpašību novērtēšanu saskaņā ar normatīvajiem aktiem par augu šķirnes saimniecisko īpašību novērtēšanu,
