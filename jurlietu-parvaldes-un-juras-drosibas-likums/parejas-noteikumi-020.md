@@ -1,1 +1,1 @@
-20. Šā likuma 5.panta 9.punkta izslēgšana, 6.panta pirmās daļas 29.punkts, grozījumi 6.panta pirmās daļas 25.punktā, 24.panta piektajā un sestajā daļā (ar kuriem tiek izslēgti vārdi "iekārto personas darbā uz kuģiem") stājas spēkā 2010.gada 1.jūlijā.
+20. Šā likuma 5.panta 9.punkta izslēgšana, grozījumi 6.panta pirmās daļas 25. un 29.punktā, 24.panta piektajā, sestajā un septītajā daļā stājas spēkā 2010.gada 30.decembrī.
