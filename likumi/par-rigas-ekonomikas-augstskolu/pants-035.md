@@ -1,1 +1,1 @@
-35. pants. Augstskolas likvidācijas gadījumā nekustamais īpašums Rīgā, Strēlnieku ielā 4a, atdodams valsts īpašumā un nododams Izglītības un zinātnes ministrijas valdījumā.
+35.pants. Ja tiek izbeigta Augstskolas darbība, tās pamatkapitālā ieguldītais valsts nekustamais īpašums nododams Latvijas Universitātei. Ja Latvijas Universitāte minēto nekustamo īpašumu neizmanto savā satversmē noteikto izglītības un zinātnes funkciju veikšanai, tas bez atlīdzības nododams atpakaļ valstij.

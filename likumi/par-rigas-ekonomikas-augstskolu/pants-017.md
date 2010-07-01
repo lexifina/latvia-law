@@ -1,3 +1,0 @@
-17. pants. Augstskolas personālu veido:
-1) pastāvīgais personāls - pilnslodzes studenti, maģistranti un doktorandi; akadēmiskais personāls - profesori, docenti, vadošie pētnieki, lektori, pētnieki, asistenti, kam Augstskola ir pamatdarba vieta; pārvaldes un saimnieciskais personāls, kā arī palīgpersonāls, kam Augstskola ir pamatdarba vieta;
-2) pagaidu personāls - daļējas slodzes studenti, kā arī citi studējošie; akadēmiskais personāls, ko ieceļ amatos bez vēlēšanām vai kam Augstskola nav pamatdarba vieta; pārvaldes un saimnieciskais personāls, kā arī palīgpersonāls, kam Augstskola nav pamatdarba vieta; pensionētais akadēmiskais, pārvaldes un saimnieciskais personāls, kā arī palīgpersonāls.

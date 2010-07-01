@@ -1,0 +1,1 @@
+1. Līdz 2010.gada 30.augustam Augstskolas reģistrācijas dokumentos veicami un komercreģistram iesniedzami šā likuma 2.panta otrās daļas noteikumiem atbilstoši grozījumi, kā arī grozījumi par Augstskolas kā bezpeļņas sabiedrības ar ierobežotu atbildību pārveidošanu par sabiedrību ar ierobežotu atbildību.

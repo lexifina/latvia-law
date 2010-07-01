@@ -1,1 +1,1 @@
-34. pants. Augstskolas īpašumā nodoto nekustamo īpašumu var atsavināt par pilnu īpašuma vērtību tikai ar Ministru kabineta lēmumu.
+34.pants. Augstskolas pamatkapitālā ieguldīto valsts nekustamo īpašumu nevar atsavināt, ieķīlāt vai kā citādi apgrūtināt ar lietu tiesībām.

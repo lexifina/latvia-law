@@ -1,3 +1,0 @@
-30. pants. (1) Revīzijas komisija sastāv no diviem auditoriem (revidentiem). Katru gadu Latvijas Republikas Izglītības un zinātnes ministrija un Stokholmas Ekonomikas skolas administrācija katra ieceļ vienu auditoru (revidentu) un savu pilnvaroto. Augstskolas konti tiek slēgti katra mācību gada beigās, bet ne vēlāk kā 30. septembrī. Valde informē auditorus arī par iepriekšējo finansu gadu.
-(2) Revīzijas komisija revidē Augstskolas saimniecisko un finansiālo stāvokli un ziņo par to Valdei. Galīgais pārskats auditoriem jāiesniedz Ministru kabinetam vai tā pilnvarotai institūcijai un Stokholmas Ekonomikas skolas valdei līdz kārtējā gada 15. oktobrim.
-(3) Revīzijas komisija pēc savas iniciatīvas revīziju veikšanai var pieaicināt attiecīgus speciālistus.
