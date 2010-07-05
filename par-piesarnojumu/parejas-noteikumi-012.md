@@ -1,1 +1,1 @@
-12. Ministru kabinets līdz 2004.gada 30.jūnijam apstiprina emisijas kvotu sadales plānu šā likuma 24.¹ panta piektās daļas 1.punktā noteiktajam periodam, bet katram nākamajam 24.¹ panta piektajā daļā minētajam periodam - vismaz 19 mēnešus pirms attiecīgā perioda.
+12. Ministru kabinets līdz 2011.gada 30.septembrim apstiprina iekārtu sarakstu periodam no 2013.gada 1.janvāra līdz 2020.gada 31.decembrim.

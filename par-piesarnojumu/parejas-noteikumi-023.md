@@ -1,0 +1,1 @@
+23. Šā likuma 24.¹ panta 2.¹ daļa un grozījums 24.¹ panta ceturtajā daļā par iekārtām, kurās kā kurināmo izmanto atjaunojamos energoresursus, bet pārējos kurināmos - tikai iekārtu darbības uzsākšanai vai pārtraukšanai, stājas spēkā 2013.gada 1.janvārī.

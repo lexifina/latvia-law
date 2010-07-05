@@ -10,4 +10,5 @@ Likumā iekļautas tiesību normas, kas izriet no:
 9) Eiropas Parlamenta un Padomes 2005.gada 6.jūlija direktīvas 2005/33/EK, ar ko groza direktīvu 1999/32/EK attiecībā uz sēra saturu flotes degvielā;
 10) Eiropas Padomes 1996.gada 9.decembra direktīvas 96/82/EK par tādu smagu nelaimes gadījumu briesmu pārzināšanu, kuros iesaistītas bīstamas vielas;
 11) Eiropas Parlamenta un Padomes 2003.gada 16.decembra direktīvas 2003/105/EK, ar ko groza Padomes direktīvu 96/82/EK par tādu smagu nelaimes gadījumu briesmu pārzināšanu, kuros iesaistītas bīstamas vielas;
-12) Eiropas Parlamenta un Padomes 2008.gada 19.novembra direktīvas 2008/101/EK, ar ko groza Padomes direktīvu 2003/87/EK, lai aviācijas darbības iekļautu Kopienas siltumnīcas efektu izraisošo gāzu emisijas kvotu tirdzniecības sistēmā.
+12) Eiropas Parlamenta un Padomes 2008.gada 19.novembra direktīvas 2008/101/EK, ar ko groza Padomes direktīvu 2003/87/EK, lai aviācijas darbības iekļautu Kopienas siltumnīcas efektu izraisošo gāzu emisijas kvotu tirdzniecības sistēmā;
+13) Eiropas Parlamenta un Padomes 2009.gada 23.aprīļa direktīvas 2009/29/EK, ar ko direktīvu 2003/87/EK groza, lai uzlabotu un paplašinātu Kopienas siltumnīcas efektu izraisošo gāzu emisiju kvotu tirdzniecības sistēmu (dokuments attiecas uz EEZ).

@@ -1,1 +1,0 @@
-5. Ministru kabinets divu gadu laikā no jutīgo teritoriju noteikšanas dienas izdod noteikumus par rīcības programmu ūdens piesārņojuma ar nitrātiem samazināšanai vai novēršanai īpaši jutīgajās teritorijās, uz kurām attiecas paaugstinātas prasības ūdens un augsnes aizsardzībai no piesārņojuma ar nitrātiem.
