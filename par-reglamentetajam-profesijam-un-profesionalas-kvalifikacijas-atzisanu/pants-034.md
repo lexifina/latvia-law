@@ -3,6 +3,7 @@
 1) reglamentētajām profesijām, kurām profesionālās kvalifikācijas prasības nosaka Latvijas Republikai saistoši starptautiskie līgumi, tas ir, šādām profesijām:
 a) jūrnieku profesijām,
 b) civilās aviācijas un lidostu darbinieku profesijām;
+c) dzelzceļa profesijām;
 2) Eiropas Savienības dalībvalstīs noteiktajām vienotajām minimālajām prasībām tādu izglītību un profesionālo kvalifikāciju apliecinošu dokumentu iegūšanai, kuri atbilst Eiropas Savienības dalībvalstu vai Eiropas Brīvās tirdzniecības asociācijas dalībvalstu kompetento institūciju izsniegtiem izglītību un profesionālo kvalifikāciju apliecinošiem dokumentiem, kuru nosaukumi ir noteikti saskaņā ar šā likuma 36.panta 5. un 6.punktu vai Eiropas Savienības tieši piemērojamos normatīvajos aktos profesionālo kvalifikāciju atzīšanas jomā, šādās reglamentētajās profesijās:
 a) arhitekts,
 b) ārsts,

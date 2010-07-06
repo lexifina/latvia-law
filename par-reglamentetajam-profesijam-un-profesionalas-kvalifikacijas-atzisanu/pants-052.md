@@ -10,3 +10,4 @@
 8) (izslēgts ar 23.10.2003. likumu).
 (2) Šā likuma 40.pantā un šā panta pirmajā daļā minētie dokumenti pēc attiecīgās atzīšanas procedūras, ko veic institūcijas, kas izsniedz kvalifikācijas atzīšanas apliecības attiecīgajās reglamentētajās profesijās, un pēc kvalifikācijas atzīšanas apliecības saņemšanas dod pretendentam tādas pašas tiesības veikt darbību šā panta pirmajā daļā noteiktajās profesijās kā Latvijas pilsoņiem.
 (3) Eiropas Savienības dalībvalsts un Eiropas Brīvās tirdzniecības asociācijas dalībvalsts pilsonim izsniegtā mehāniskā transportlīdzekļa vadītāja apliecība ir izmantojama, neveicot šā panta otrajā daļā minētās atzīšanas procedūras, bet ievērojot Ceļu satiksmes likumā noteiktās prasības.
+(4) Eiropas Savienības dalībvalsts izsniegtā vilces līdzekļa vadītāja (mašīnista) kvalifikācijas un kompetences apliecība ir izmantojama, neveicot šā panta otrajā daļā minētās atzīšanas procedūras, bet ievērojot Dzelzceļa likumā noteiktās prasības.
