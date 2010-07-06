@@ -1,0 +1,1 @@
+22. Līdz šā likuma 54.panta septītajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2010.gada 31.decembrim piemērojami Ministru kabineta 2003.gada 2.septembra noteikumi Nr.493 "Kārtība, kādā izsniedz un anulē veterinārmedicīniskās prakses sertifikātu.

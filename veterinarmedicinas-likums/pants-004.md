@@ -3,7 +3,7 @@
 2) dzīvnieku labturība;
 3) dzīvnieku izcelsmes produktu, tai skaitā blakusproduktu, kas nav paredzēti cilvēku patēriņam, aprite;
 4) (izslēgts ar 01.04.2004. likumu);
-5) dzīvnieku kopšanas līdzekļu aprite;
+5) (izslēgts ar 03.06.2010. likumu);
 6) (izslēgts ar 18.12.2008. likumu);
 7) dzīvnieku apzīmēšana un reģistrēšana, ganāmpulku un novietņu reģistrēšana, dzīvnieku pārvietošana;
 8) gaļas liemeņu klasifikācija;
@@ -15,7 +15,7 @@
 4) pārstāv Latviju starptautiskajās organizācijās un uztur starptautiskos sakarus veterinārmedicīnas nozarē;
 5) sagatavo un iesniedz Zemkopības ministrijai zinātnisko pētījumu pasūtījumu pieteikumus;
 6) pilnvaro veterinārārstus atsevišķu Pārtikas un veterinārā dienesta funkciju īstenošanai;
-7) pilnvaro praktizējošus veterinārārstus veikt mājas (istabas) dzīvnieku apzīmēšanu, pasu un vakcinācijas apliecību izsniegšanu;
+7) (izslēgts ar 03.06.2010. likumu);
 8) izsniedz veterināros (veselības) sertifikātus un citus normatīvajos aktos par dzīvnieku veselību, labturību, dzīvnieku barības un barības piedevu apriti, pārtikas aprites drošumu un higiēnu un blakusproduktu, kas nav paredzēti cilvēku patēriņam, apriti noteiktos dokumentus;
 9) izsniedz atļaujas dzīvnieku patversmju, viesnīcu, dzīvnieku audzētavu un specializēto tirdzniecības vietu veidošanai un dzīvnieku kapsētu iekārtošanai;
 10) reģistrē valsts veterinārās uzraudzības objektus.

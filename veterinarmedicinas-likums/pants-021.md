@@ -1,3 +1,4 @@
-21.pants. (1) (Izslēgta ar 18.12.2008. likumu.)
+21.pants. (1) (Izslēgta ar 18.12.2008. likumu)
 (2) Dzīvnieku reģistru dzīvnieku reģistrācijas kārtību regulējošos normatīvajos aktos noteiktajā kārtībā izveido un uztur valsts aģentūra "Lauksaimniecības datu centrs".
-(3) Prasības attiecībā uz suņu un kaķu izķeršanu nosaka Ministru kabinets.
+(3) (Izslēgta ar 03.06.2010. likumu)
+(4) Mājas (istabas) dzīvnieku apzīmēšanu, pasu un vakcinācijas apliecību izsniegšanu veic praktizējošs veterinārārsts.

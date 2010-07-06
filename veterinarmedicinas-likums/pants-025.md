@@ -11,7 +11,7 @@
 10) veterinārās prasības attiecībā uz akvakultūras dzīvniekiem un no tiem iegūtajiem produktiem, kā arī atsevišķu akvakultūras dzīvnieku infekcijas slimību profilaksi un apkarošanu;
 11) valsts veterinārās uzraudzības objektu reģistrācijas kārtību;
 12) prasības veterinārmedicīnas un dzīvnieku izcelsmes pārtikas nekaitīguma jomā atbilstoši Eiropas Savienības normatīvajiem aktiem;
-13) specializēto tirdzniecības vietu atvēršanas un darbības prasības, kā arī kvalifikācijas prasības personālam;
+13) (izslēgts ar 03.06.2010. likumu);
 14) govju, cūku, aitu un kazu mākslīgās apsēklošanas pakalpojumu sniedzēja minimālo aprīkojumu;
-15) dzīvnieku kopšanas līdzekļu ražošanas, marķēšanas, izplatīšanas un kontroles kārtību;
+15) (izslēgts ar 03.06.2010. likumu);
 16) reģistrēto dzīvnieku datubāzēs esošās informācijas izmantošanas kārtību.

@@ -1,10 +1,10 @@
 2.¹ pants. Valsts veterinārajai uzraudzībai un kontrolei ir pakļauti šādi objekti un personas (turpmāk - valsts veterinārās uzraudzības objekti):
 1) dzīvnieku novietnes;
 2) dzīvnieku audzētavas;
-3) savvaļas sugu dzīvnieku kolekcijas;
+3) savvaļas sugas dzīvnieku turēšanas vietas;
 4) zooloģiskie dārzi;
 5) cirki;
-6) eksperimentos un zinātniskos nolūkos izmantojamo dzīvnieku audzēšanas, izmantošanas un piegādes komersanti;
+6) izmēģinājumu dzīvnieku audzētāji, lietotāji un piegādātāji;
 7) dzīvnieku patversmes un viesnīcas;
 8) specializētas tirdzniecības vietas;
 9) tirgi, ja tajos notiek tirdzniecība ar dzīviem dzīvniekiem;
@@ -17,7 +17,7 @@
 16) veterināro pakalpojumu sniedzēji;
 17) veterinārmedicīniskās aprūpes prakses darbavietas;
 18) blakusproduktu, kas nav paredzēti cilvēku patēriņam, savākšanas, transportēšanas, uzglabāšanas, pārstrādes un iznīcināšanas komersanti;
-19) dzīvnieku kopšanas līdzekļu ražošanas un izplatīšanas komersanti;
+19) (izslēgts ar 03.06.2010. likumu);
 20) dzīvnieku izcelsmes produktu apritē iesaistītās personas;
 21) dzīvnieku pārvadātāji, kuri savas saimnieciskās darbības ietvaros pārvadā dzīvniekus;
 22) transportlīdzekļi dzīvnieku pārvadāšanai;

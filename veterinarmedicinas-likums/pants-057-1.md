@@ -4,4 +4,5 @@
 2) dzīvniekam dod citu būtisku labumu (izņemot ausu un astes kosmētisku apgriešanu);
 3) ir vienīgā alternatīva dzīvnieka eitanāzijai (izņemot ausu un astes kosmētisku apgriešanu);
 4) nepieciešama dzīvnieka vairošanās funkciju pārtraukšanai.
+(2¹) Praktizējošam veterinārārstam atļauts izdarīt astes apgriešanu Dzīvnieku aizsardzības likumā noteikto šķirņu suņiem.
 (3) Procedūras, kuras var sagādāt dzīvniekam sāpes, praktizējošs veterinārārsts veic, izmantojot anestēziju. Praktizējošs veterinārārsts neizmanto anestēziju gadījumos, kad sāpes nav lielākas par pašu anestēzijas procesu.
