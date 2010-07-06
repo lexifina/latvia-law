@@ -1,0 +1,1 @@
+2.¹ pants. Uzdevumu tehnisko izpildi atbilstoši Vienošanās 7.panta pirmajai daļai nodrošina biedrība "Brāļu kapu komiteja", pamatojoties uz deleģēšanas līgumu, un uzdevumu izpildē tā ir Aizsardzības ministrijas pārraudzībā.

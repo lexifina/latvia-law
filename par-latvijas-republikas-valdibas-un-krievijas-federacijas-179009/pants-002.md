@@ -1,1 +1,1 @@
-2.pants. Vienošanās paredzēto saistību izpildi koordinē Valsts kanceleja.
+2.pants. Vienošanās paredzēto saistību izpildi koordinē Aizsardzības ministrija.
