@@ -3,7 +3,7 @@ Notiesātos iesaista darbā Ministru kabineta noteiktajā kārtībā. Pensijas v
 Notiesātie, kuri sodu izcieš soda izciešanas režīma zemākajā vai vidējā pakāpē, strādā brīvības atņemšanas iestādes teritorijā. Šo notiesāto darbu organizē, ievērojot viņu izolācijas noteikumus. Notiesātos, kuri slēgtajos un daļēji slēgtajos cietumos sodu izcieš soda izciešanas režīma augstākajā pakāpē, ar brīvības atņemšanas iestādes priekšnieka rakstveida lēmumu, kas saskaņots ar Ieslodzījuma vietu pārvaldi, var iesaistīt darbā ārpus cietuma teritorijas bez apsardzes, nodrošinot viņu uzraudzību.
 Notiesātos, kuri sodu izcieš atklātajā cietumā, ar brīvības atņemšanas iestādes priekšnieka rakstveida lēmumu var nodarbināt ārpus tās pašvaldības administratīvās teritorijas, kurā atrodas brīvības atņemšanas iestāde. Brīvības atņemšanas iestāde nodrošina notiesāto uzraudzību un atgriešanos iestādē pēc darba laika beigām.
 Darbus un amatus, kuros aizliegts nodarbināt notiesātos, reglamentē Brīvības atņemšanas iestāžu iekšējās kārtības noteikumi.
-Par padarīto darbu maksā Ministru kabineta noteiktajā kārtībā. Stundas tarifa likmi aprēķina atbilstoši normatīvajiem aktiem par darba samaksas noteikšanu un šā kodeksa 52.panta pirmajā daļā noteiktajam darba laikam.
+Par padarīto darbu maksā Ministru kabineta noteiktajā kārtībā.
 (Sestā daļa izslēgta ar 30.04.2009. likumu.)
 Darba devēji, kas nodarbina notiesātos, drīkst izmantot nodokļu likumos paredzētos nodokļu atvieglojumus.
 Kārtību, kādā komersanti tiek iesaistīti notiesāto nodarbinātības organizēšanā, un kārtību, kādā slēdzami līgumi notiesāto nodarbinātības organizēšanai, nosaka Ministru kabinets.
@@ -11,3 +11,7 @@ Ja komersants, kas noslēdzis sadarbības līgumu ar brīvības atņemšanas ies
 Ja notiesāto ir iespējams nodarbināt saimnieciskajā apkalpē, tad pirms darba uzsākšanas ar notiesāto, kas sodu izcieš slēgtā vai daļēji slēgtā cietumā, tiek noslēgta vienošanās, bet ar notiesāto, kas sodu izcieš atklātajā cietumā, - darba līgums.
 Notiesāto norīkošanai darbā brīvības atņemšanas iestādes priekšnieks izdod rīkojumu, kas ir atļauja notiesātajam darba laikā atrasties noteiktajā darba vietā. Izdodot rīkojumu, brīvības atņemšanas iestādes priekšnieks ņem vērā notiesātajam noteiktā soda izciešanas režīmu. Atteikumam izdot rīkojumu ir jābūt pamatotam un motivētam. Rīkojums ir neatņemama šajā pantā minētās vienošanās vai darba līguma sastāvdaļa.
 Strīdi starp notiesāto un komersantu vai notiesāto un brīvības atņemšanas iestādi tiek risināti, savstarpēji vienojoties. Ja vienošanās netiek panākta, strīdus par tiesiskajām attiecībām, kas nodibinātas uz vienošanās pamata, izskata Civilprocesa likumā noteiktajā kārtībā, bet strīdus, kas izriet no tiesiskajām attiecībām, kas nodibinātas uz darba līguma pamata, - Darba strīdu likumā noteiktajā kārtībā.
+Minimālā stundas tarifa likme un minimālā mēneša darba alga notiesātajiem atbilstoši viņu veiktajam darbam un resocializācijas mērķiem ir:
+1) 50 procenti no valstī noteiktās minimālās stundas tarifa likmes un minimālās mēneša darba algas normālā darba laika ietvaros notiesātajiem, kas sodu izcieš slēgtajā vai daļēji slēgtajā cietumā;
+2) ekvivalenta valstī noteiktajai minimālajai stundas tarifa likmei notiesātajiem, kas sodu izcieš atklātajā cietumā;
+3) 50 procenti no valstī pusaudžiem noteiktās minimālās stundas tarifa likmes nepilngadīgajiem notiesātajiem.
