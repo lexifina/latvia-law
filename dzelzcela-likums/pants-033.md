@@ -12,7 +12,8 @@
 8) saskaņā ar normatīvajiem aktiem izsniegt profesionālās kompetences sertifikātus reglamentētajās sfērās;
 9) apmainīties ar informāciju par savu darbu un lēmumu pieņemšanas principiem un praksi ar citu Eiropas Savienības dalībvalstu attiecīgajām institūcijām;
 10) izsniegt vilces līdzekļa vadītāja (mašīnista) apliecības;
-11) kārtot vilces līdzekļa vadītāja (mašīnista) apliecību reģistru.
+11) kārtot vilces līdzekļa vadītāja (mašīnista) apliecību reģistru;
+12) lemt par ritošā sastāva pieņemšanu ekspluatācijā.
 (4) Valsts dzelzceļa tehniskā inspekcija savas kompetences ietvaros ir tiesīga:
 1) pārbaudīt Dzelzceļa tehniskās ekspluatācijas noteikumu ievērošanu neatkarīgi no tā, kam pieder pārbaudāmais objekts;
 2) uz laiku pārtraukt vilcienu satiksmi, samazināt kustības ātrumu un aizliegt tehnisko līdzekļu ekspluatāciju, ja ir apdraudēta cilvēku dzīvība vai veselība, satiksmes drošība vai vide;
