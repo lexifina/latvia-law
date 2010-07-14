@@ -1,7 +1,7 @@
 3.pants. Ietekmes novērtējuma principi
 Ietekmes novērtējumu veic saskaņā ar šādiem principiem:
 1) ietekmes novērtējums izdarāms pēc iespējas agrākā paredzētās darbības plānošanas, projektēšanas un lēmumu pieņemšanas stadijā;
-2) šā likuma 1.pielikumā minēto objektu ietekmes novērtējums izdarāms, pamatojoties uz ierosinātāja sniegto informāciju un informāciju, kas iegūta no ieinteresētajām valsts institūcijām un pašvaldībām, kā arī ievērojot sabiedriskajā apspriešanā izteiktos priekšlikumus;
+2) ietekmes novērtējums izdarāms, pamatojoties uz ierosinātāja sniegto informāciju un informāciju, kas iegūta no ieinteresētajām valsts institūcijām un pašvaldībām, kā arī sabiedrības līdzdalības procesā, tai skaitā no sabiedrības iesniegtajiem priekšlikumiem;
 3) (izslēgts ar 15.09.2005. likumu);
 4) sabiedrībai - fiziskajām un juridiskajām personām, kā arī to apvienībām, organizācijām un grupām (turpmāk - sabiedrība) ir tiesības iegūt informāciju par paredzētajām darbībām un piedalīties ietekmes novērtēšanā;
 4¹) ierosinātājs nodrošina paredzētās darbības ietekmes novērtējuma sabiedrisko apspriešanu sabiedrībai pieejamā vietā un laikā;

@@ -1,1 +1,1 @@
-25. Projekti, kas paredz derīgo izrakteņu ieguvi agrāk neizmantotās derīgo izrakteņu atradnēs, kuru platība ir lielāka par 10 hektāriem, vai agrāk neizmantotās kūdras atradnēs, kuru platība ir lielāka par 100 hektāriem, neatkarīgi no izstrādei paredzētās platības.
+25. Projekti, kas paredz derīgo izrakteņu ieguvi 25 hektāru vai lielākā platībā vai kūdras ieguvi 150 hektāru vai lielākā platībā.
