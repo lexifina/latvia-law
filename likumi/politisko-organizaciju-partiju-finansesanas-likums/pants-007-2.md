@@ -1,0 +1,4 @@
+7.² pants. Valsts budžeta finansējuma piešķiršana
+(1) Lai saņemtu valsts budžeta finansējumu, politiskā organizācija (partija) atver atsevišķu kontu Latvijā reģistrētā kredītiestādē un 20 dienu laikā pēc vēlēšanu rezultātu pasludināšanas dienas iesniedz rakstveida iesniegumu Korupcijas novēršanas un apkarošanas birojam, norādot politiskās organizācijas (partijas) nosaukumu, reģistrācijas numuru un konta numuru. Iesniegumi pēc minētā termiņa netiek pieņemti.
+(2) Korupcijas novēršanas un apkarošanas birojs 20 dienu laikā pēc šā panta pirmajā daļā minētā termiņa beigām izskata saņemtos iesniegumus un pieņem lēmumu par valsts budžeta finansējuma piešķiršanu vai pamatotu atteikumu piešķirt valsts budžeta finansējumu.
+(3) Valsts budžeta finansējums tiek ieskaitīts politiskās organizācijas (partijas) norādītajā kontā.

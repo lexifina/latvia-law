@@ -1,0 +1,12 @@
+7.³ pants. Atteikums piešķirt valsts budžeta finansējumu un valsts budžeta finansējuma izmaksas pārtraukšana vai apturēšana
+(1) Korupcijas novēršanas un apkarošanas birojs pieņem lēmumu par atteikumu piešķirt valsts budžeta finansējumu politiskajai organizācijai (partijai), kura atbilst šā likuma 7.¹ panta pirmās daļas nosacījumam, ja, izskatot iesniegumu, tiek konstatēts, ka pēdējo četru gadu laikā:
+1) politiskā organizācija (partija) ir sodīta par priekšvēlēšanu izdevumu apmēra pārsniegšanu par vairāk nekā 10 procentiem un lēmums ir stājies spēkā;
+2) politiskā organizācija (partija) ir sodīta par gada pārskatā vai vēlēšanu ieņēmumu un izdevumu deklarācijā nenorādītiem darījumiem vai saņemtiem dāvinājumiem (ziedojumiem), kuru kopsumma pārsniedz 100 minimālās mēnešalgas, un lēmums ir stājies spēkā;
+3) politiskajai organizācijai (partijai) saskaņā ar Krimināllikumu ir piemērots piespiedu ietekmēšanas līdzeklis un tiesas nolēmums ir stājies spēkā.
+(2) Ja šā panta pirmajā daļā minētie politiskās organizācijas (partijas) pārkāpumi tiek konstatēti, lēmums par soda piemērošanu ir stājies spēkā vai piespiedu ietekmēšanas līdzeklis piemērots pēc tam, kad pieņemts lēmums par valsts budžeta finansējuma piešķiršanu, Korupcijas novēršanas un apkarošanas birojs pieņem lēmumu par valsts budžeta finansējuma izmaksas pārtraukšanu.
+(3) Lēmums par valsts budžeta finansējuma izmaksas pārtraukšanu tiek pieņemts arī tad, ja politiskā organizācija (partija) izbeidz savu darbību vai tās darbība tiek aizliegta ar spēkā stājušos tiesas nolēmumu.
+(4) Korupcijas novēršanas un apkarošanas birojs pieņem lēmumu par valsts budžeta finansējuma izmaksas apturēšanu, ja:
+1) politiskās organizācijas (partijas) darbība tiek apturēta, - uz politiskās organizācijas (partijas) darbības apturēšanas laiku;
+2) politiskā organizācija (partija) nav iesniegusi gada pārskatu vai vēlēšanu ieņēmumu un izdevumu deklarāciju par iepriekšējo gadu, - uz nākamo kalendāro gadu;
+3) ir konstatēts šā likuma 7.⁴ panta noteikumu pārkāpums un lēmums par soda piemērošanu ir stājies spēkā, - uz vienu gadu.
+(5) Šā panta pirmajā, otrajā, trešajā un ceturtajā daļā minēto lēmumu politiskā organizācija (partija) var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā. Lēmuma pārsūdzēšana neaptur tā darbību.
