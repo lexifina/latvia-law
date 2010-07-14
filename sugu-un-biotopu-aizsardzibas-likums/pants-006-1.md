@@ -1,2 +1,2 @@
 6.¹ pants. Sertificēti eksperti sugu un biotopu aizsardzības jomā
-Sugu un biotopu aizsardzības jomā sertificēta eksperta atzinums nepieciešams, lai izveidotu mikroliegumus un izstrādātu īpaši aizsargājamās dabas teritorijas dabas aizsardzības plānu, kā arī citos normatīvajos aktos noteiktajos gadījumos.
+Sugu un biotopu aizsardzības jomā sertificēta eksperta atzinums nepieciešams, lai izveidotu mikroliegumus, kā arī gadījumos, kas noteikti normatīvajos aktos par īpaši aizsargājamās dabas teritorijas dabas aizsardzības plānu un citos normatīvajos aktos. Sugu un biotopu aizsardzības jomā ekspertu sertificē atbilstoši viņa pieredzei un profesionālajām zināšanām par noteiktu sugu, sugu grupu vai biotopu grupu.

@@ -13,7 +13,7 @@ Ministru kabinets nosaka:
 11) to putnu sugu sarakstu, uz kurām neattiecas šā likuma 11.panta 5.punktā minētais aizliegums, ja saņemta Eiropas Komisijas un Dabas aizsardzības pārvaldes atļauja;
 12) starptautiskās tirdzniecības apdraudēto sugu īpatņu uzglabāšanas, reģistrācijas, turēšanas nebrīvē, marķēšanas, sertifikātu izsniegšanas un tirdzniecības kārtību;
 13) valsts nodevas apmēru par starptautiskās tirdzniecības apdraudēta savvaļas dzīvnieka reģistrēšanu, kā arī šīs nodevas maksāšanas kārtību un atvieglojumus;
-14) kārtību, kādā izveido un uztur datu reģistru, kurā reģistrē starptautiskās tirdzniecības apdraudētos savvaļas dzīvniekus, to īpašniekus un turētājus, kā arī starptautiskās tirdzniecības apdraudēto augu audzētājus;
+14) (izslēgts ar 10.06.2010. likumu);
 15) to Eiropas Kopienā nozīmīgu dzīvnieku un augu sugu sarakstu, kurām nepieciešama aizsardzība;
 16) to Eiropas Kopienā nozīmīgu dzīvnieku un augu sugu indivīdu sarakstu, kuru ieguvei savvaļā var piemērot ierobežotas izmantošanas nosacījumus;
-17) ekspertu sertificēšanas kārtību un kārtību, kādā izsniedz un reģistrē sertifikātu, pagarina tā termiņu un anulē to, kā arī sertificēto personu darbības uzraudzības kārtību.
+17) ekspertu sertificēšanas kārtību un kārtību, kādā izsniedz un reģistrē sertifikātu, pagarina tā termiņu un anulē to, kā arī sertificēto personu darbības uzraudzības kārtību, eksperta atzinuma saturu un tajā ietvertās minimālās prasības.
