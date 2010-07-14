@@ -11,7 +11,7 @@
 (2) Iesniedzot pieteikumu, fiziskā persona uzrāda savu pasi, bet juridiskās personas pārstāvis uzrāda savu pasi un iesniedz juridiskās personas pilnvaru iesniegt pieteikumu.
 (3) Visām pieteikumā minētajām personām jānorāda vārds, uzvārds, personas kods un dzīvesvieta, bet juridiskajām personām - pilns nosaukums, juridiskā adrese un reģistrācijas numurs.
 (4) Pieteikumam pievieno:
-1) līguma kopiju, ja pasākuma organizators noslēdzis līgumu par sabiedriskās kārtības un drošības nodrošināšanu pasākuma laikā ar apsardzes komersantu;
+1) kārtības uzturētāju sarakstu ar viņu parakstiem, kas apliecina piekrišanu piedalīties pasākumā kārtības uzturētāja statusā, vai līguma kopiju, ja pasākuma organizators par sabiedriskās kārtības un drošības nodrošināšanu pasākuma laikā ir noslēdzis līgumu ar apsardzes komersantu;
 2) pasākuma norises vietas īpašnieka vai pārvaldnieka rakstveida piekrišanu tā rīkošanai, ja viņš nav pasākuma organizators un pasākums tiek rīkots uz viņa privātajā īpašumā esošās zemes vai uz privātajā īpašumā vai privātajā lietošanā esošajiem zemes gabaliem.
 (5) Kārtības uzturētāju skaitu nosaka organizators ar tādu aprēķinu, lai viņi spētu nodrošināt pasākuma mierīgu un organizētu norisi. Organizators ir tiesīgs arī pēc pieteikuma iesniegšanas nomainīt atsevišķus kārtības uzturētājus vai palielināt viņu skaitu.
 (6) Ja plānotais pasākuma dalībnieku skaits pārsniedz simtu, uz katriem simt dalībniekiem norīko ne mazāk par diviem kārtības uzturētājiem.
