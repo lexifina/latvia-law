@@ -1,0 +1,2 @@
+5.¹ pants. Nolietotu transportlīdzekļu savākšanas sistēma
+Ekonomisko procesu dalībnieki - ražotāji, izplatītāji, apdrošinātāji vai komersanti, kas nodarbojas ar nolietotu transportlīdzekļu, to sastāvdaļu un materiālu savākšanu, izjaukšanu, smalcināšanu, reģenerāciju, pārstrādi vai cita veida apstrādi, - veido sistēmas visu nolietoto transportlīdzekļu savākšanai, kurās pēc iespējas nodrošina arī vieglo automašīnu remonta laikā izjauktu lietotu detaļu savākšanu, vai piedalās tajās.

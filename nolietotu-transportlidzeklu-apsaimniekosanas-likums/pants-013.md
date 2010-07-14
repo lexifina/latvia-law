@@ -1,2 +1,3 @@
 13.pants. Informācija, ko sniedz nolietotu transportlīdzekļu apstrādes uzņēmums
-Nolietotu transportlīdzekļu apstrādes uzņēmums katru gadu līdz 1.martam iesniedz Latvijas Vides, ģeoloģijas un meteoroloģijas aģentūrai pārskatu par iepriekšējo kalendāra gadu, ietverot tajā Ministru kabineta noteikto informāciju.
+(1) Nolietotu transportlīdzekļu apstrādes uzņēmums pārskatu par iepriekšējo kalendāra gadu iesniedz katru gadu līdz 1.martam attiecīgajai Valsts vides dienesta reģionālajai vides pārvaldei vai komersantam, kuram uzdevumu šos pārskatus pieņemt ir deleģējusi Vides ministrija, slēdzot deleģējuma līgumu Valsts pārvaldes iekārtas likumā noteiktajā kārtībā. Ministru kabinets nosaka pārskatā ietveramo informāciju un pārskata veidlapas paraugu.
+(2) Šā panta pirmajā daļā minētais komersants attiecībā uz tam deleģēto uzdevumu - pieņemt nolietotu transportlīdzekļu apsaimniekotāju pārskatus par iepriekšējo kalendāra gadu - ir Vides ministrijas pakļautībā.
