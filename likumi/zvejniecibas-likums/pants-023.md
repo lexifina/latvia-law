@@ -1,2 +1,2 @@
 23. pants. Atļauja zivju audzēšanai un ūdensaugu kultivēšanai
-Specializētai zivju audzēšanai un ūdensaugu kultivēšanai Latvijas Republikas ūdeņos (neatkarīgi no īpašuma veida) nepieciešama zivju resursu pārzinātāja atļauja, kas saskaņota ar institūtu un Dabas aizsardzības pārvaldi.
+Specializētai zivju audzēšanai un ūdensaugu kultivēšanai Latvijas Republikas ūdeņos (neatkarīgi no īpašuma veida) nepieciešama zivju resursu pārzinātāja atļauja, kas saskaņota ar institūtu un Dabas aizsardzības pārvaldi. Saskaņojums ar Dabas aizsardzības pārvaldi nav nepieciešams, ja specializētā zivju audzēšana un ūdensaugu kultivēšana paredzēta mākslīgi izveidotās ūdenstilpēs.
