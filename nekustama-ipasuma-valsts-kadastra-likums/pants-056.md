@@ -1,1 +1,1 @@
-56.pants. Šā likuma 55.panta otrajā daļā minētajos gadījumos ziņu iesniedzējam ir tiesības iesniegt ziņas atkārtoti, ja ir novērsti atteikuma iemesli.
+56.pants. Personai ir tiesības iesniegt dokumentus atkārtoti, ja ir novērsti atteikuma iemesli.

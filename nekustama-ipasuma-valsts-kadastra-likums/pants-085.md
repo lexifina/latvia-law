@@ -1,1 +1,3 @@
-85.pants. Nekustamā īpašuma īpašnieks vai, ja tāda nav, - tiesiskais valdītājs, vai, ja tāda nav, - lietotājs ir tiesīgs reizi kalendāra gadā pieprasīt un bez maksas saņemt aktuālos kadastra datus par savu kadastra objektu.
+85.pants. (1) Kadastra subjektam ir tiesības reizi kalendārajā gadā rakstveidā pieprasīt un bez maksas normatīvajos aktos noteiktajā apjomā saņemt aktuālos kadastra datus par visiem saviem nekustamajiem īpašumiem vienlaikus.
+(2) Kadastra subjekts, izmantojot Valsts zemes dienesta uzturētu identificētai personai internetā pieejamu elektronisko pakalpojumu, var bez maksas elektroniski saņemt aktuālos kadastra datus par savu nekustamo īpašumu normatīvajos aktos noteiktajā apjomā.
+(3) Personai, kura Kadastra informācijas sistēmā nav reģistrēta kā kadastra subjekts, ir tiesības rakstveidā pieprasīt un reizi kalendārajā gadā bez maksas saņemt apliecinājumu, ka tai Kadastra informācijas sistēmā nav reģistrēti nekustamie īpašumi.

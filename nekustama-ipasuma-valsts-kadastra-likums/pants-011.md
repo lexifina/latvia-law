@@ -1,6 +1,5 @@
-11.pants. (1) Nekustamā īpašuma objektu nosaka vai nekustamo īpašumu veido, ja nekustamais īpašums vai izmaiņas, kas nekustamā īpašuma sastāvā radušās pēc iepriekšējā darījuma, ir ierakstītas zemesgrāmatā.
+11.pants. (1) Nekustamā īpašuma objektu nosaka nekustamajam īpašumam, kas ierakstīts zemesgrāmatā. Sadala vai apvieno tikai zemesgrāmatā ierakstītu nekustamo īpašumu. Nekustamā īpašuma objektu nosaka vai nekustamo īpašumu veido, ja Kadastra informācijas sistēmā reģistrētās izmaiņas nekustamā īpašuma sastāvā ir ierakstītas zemesgrāmatā.
 (2) Šā panta pirmā daļa neattiecas uz:
-1) normatīvajos aktos noteiktajos gadījumos valstij vai vietējai pašvaldībai piekrītošo zemi;
-2) šā likuma 20.panta 2.punktā minētajām būvēm.
-(3) Ja kadastra objekts ir darījuma priekšmets, tas formējams atbilstoši šā likuma prasībām.
-(4) Ja darījuma priekšmets ir nekustamā īpašuma objekta daļa, ko pievieno blakus esošajam nekustamā īpašuma objektam, tas formējams atbilstoši šā likuma (19.pants 2.punkts) prasībām.
+1) zemes reformu regulējošos normatīvajos aktos noteiktajos gadījumos valstij vai pašvaldībai piekrītošo un piederošo zemi pirms zemes pirmreizējas ierakstīšanas zemesgrāmatā;
+2) jaunbūvi, Kadastra informācijas sistēmā nereģistrētu būvi un tajā esošajām telpu grupām.
+(3) Ja darījuma priekšmets ir daļa no kadastra objekta, tā pirms darījuma veikšanas formējama atbilstoši šā likuma prasībām. Formēšanu neveic kadastra objekta domājamai daļai un šā likuma 19.panta 2.punktā minētajām zemes vienībām un zemes vienību daļām.

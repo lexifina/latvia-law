@@ -1,7 +1,7 @@
 53.pants. Par nekustamo īpašumu Kadastra informācijas sistēmā:
-1) reģistrē un uztur šādas ziņas atbilstoši nekustamā īpašuma objekta noteikšanas dokumentiem:
+1) reģistrē un uztur šādas ziņas atbilstoši nekustamā īpašuma veidošanas dokumentiem:
 a) kadastra numuru,
-b) nekustamā īpašuma nosaukumu,
+b) nekustamā īpašuma nosaukumu, ja pašvaldība tādu ir piešķīrusi,
 c) kadastra subjektam piederošās domājamās daļas,
 d) dzīvokļa īpašuma kopīpašuma domājamās daļas,
 e) norādi uz nekustamā īpašuma sastāvā esošo nekustamā īpašuma objektu;

@@ -1,1 +1,1 @@
-22. Šā likuma 99.¹ pantā minētajam līdz 2010.gada 1.janvārim uzbūvētas un Kadastra informācijas sistēmā nereģistrētas būves īpašniekam, vai, ja tāda nav, - tiesiskajam valdītājam, vai, ja tāda nav, - lietotājam 2010.gadā ir pienākums ierosināt būves noteikšanu līdz 1.augustam.
+22. Šā likuma 99.¹ pantā minētajam līdz 2010.gada 1.janvārim uzbūvētas un Kadastra informācijas sistēmā nereģistrētas būves īpašniekam, vai, ja tāda nav, - tiesiskajam valdītājam 2010.gadā ir pienākums ierosināt būves noteikšanu līdz 1.augustam.

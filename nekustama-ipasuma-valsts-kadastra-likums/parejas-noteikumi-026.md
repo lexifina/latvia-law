@@ -1,0 +1,1 @@
+26. Līdz grozījumu izdarīšanai Ministru kabineta 2006.gada 20.jūnija noteikumos Nr.496 "Nekustamā īpašuma lietošanas mērķu klasifikācija un nekustamā īpašuma lietošanas mērķu noteikšanas un maiņas kārtība" atbilstoši šā likuma 9.panta pirmajai daļai minētos noteikumus piemēro, ciktāl tie nav pretrunā ar šo likumu, bet ne ilgāk kā sešus mēnešus pēc likuma spēkā stāšanās.

@@ -1,0 +1,1 @@
+31.¹ pants. Nekustamā īpašuma īpašniekam vai, ja tāda nav, - tiesiskajam valdītājam ir pienākums pēc tās personas uzaicinājuma, kura veic zemes, būves vai telpu grupas kadastrālo uzmērīšanu, nodrošināt piekļuvi uzmērāmajam nekustamā īpašuma objektam vai zemes vienības daļai.

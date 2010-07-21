@@ -1,2 +1,2 @@
 IX nodaļa
-Kadastra objekta formēšanas un kadastra dokumentu un kadastra datu glabāšana
+Kadastra objekta formēšanas dokumentu, kadastra dokumentu un kadastra datu glabāšana

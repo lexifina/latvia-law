@@ -1,2 +1,2 @@
-86.pants. (1) Valsts tiešās pārvaldes iestādēm to funkciju veikšanai nepieciešamo kadastra informāciju Valsts zemes dienests sagatavo un izsniedz standartizētā informācijas apjomā un veidā bez maksas.
+86.pants. (1) Valsts tiešās pārvaldes iestādēm, Saeimai, Valsts kontrolei, prokuratūrai, tiesai un citām iestādēm, kurām šādas tiesības noteiktas likumā, to funkciju veikšanai nepieciešamo kadastra informāciju Valsts zemes dienests sagatavo un izsniedz standartizētā informācijas apjomā un veidā bez maksas.
 (2) Vietējai pašvaldībai tās funkciju veikšanai nepieciešamo kadastra informāciju par pašvaldības administratīvajā teritorijā esošajiem kadastra objektiem Valsts zemes dienests sagatavo un izsniedz standartizētā informācijas apjomā un veidā bez maksas.

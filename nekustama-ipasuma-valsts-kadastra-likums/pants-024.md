@@ -1,11 +1,12 @@
 24.pants. (1) Nekustamā īpašuma objekta noteikšanu ierosina:
-1) kadastra subjekts vai kopīpašuma tiesību gadījumā - kāds no kopīpašniekiem;
-2) vietējā pašvaldība (ja tā nav kadastra subjekts), lai administrētu nekustamā īpašuma nodokli;
-3) valsts institūcija par valstij piekrītošo vai brīvo valsts zemi un vietējā pašvaldība par pašvaldībai piekrītošo zemi;
-4) persona, kurai ar tiesas nolēmumu ir atzītas īpašuma tiesības;
-5) persona, kurai zvērināts notārs izsniedzis apliecinājumu par tiesībām mantot;
-6) persona, kura noslēgusi vienošanos par servitūta un nekustamā īpašuma objekta apgrūtinājuma nodibināšanu.
+1) nekustamā īpašuma īpašnieks vai, ja tāda nav, - tiesiskais valdītājs vai kadastra subjekts;
+2) valsts institūcija un vietējā pašvaldība par zemi, kas tai piekrīt vai pieder saskaņā ar likumu "Par valsts un pašvaldību zemes īpašuma tiesībām un to nostiprināšanu zemesgrāmatās";
+3) vietējā pašvaldība - attiecībā uz zemes reformas pabeigšanai paredzēto zemi;
+4) persona, kura iesniegusi dokumentu par ceļa servitūta nodibināšanu vai izbeigšanu, - attiecībā uz nekustamā īpašuma apgrūtinājuma reģistrāciju Kadastra informācijas sistēmā;
+5) persona, kura iesniegumā zvērinātam notāram ir izteikusi gribu pieņemt mantojumu, uzrādot šā iesnieguma norakstu, - attiecībā uz būvi vai telpu grupu bez tiesībām ierosināt būves dzēšanu.
 (2) Zemes vienības daļas noteikšanu ierosina:
-1) nekustamā īpašuma īpašnieks vai, ja tāda nav, - tiesiskais valdītājs, vai, ja tāda nav, - lietotājs;
-2) vietējā pašvaldība, lai administrētu nekustamā īpašuma nodokli.
+1) kadastra subjekts;
+2) valsts institūcija un vietējā pašvaldība par zemi, kas tai piekrīt vai pieder saskaņā ar likumu "Par valsts un pašvaldību zemes īpašuma tiesībām un to nostiprināšanu zemesgrāmatās";
+3) vietējā pašvaldība - attiecībā uz zemes reformas pabeigšanai paredzēto zemi.
 (3) Lai uzsāktu zemes vienības daļas noteikšanas procesu, šā panta otrajā daļā minētās personas iesniedz Valsts zemes dienestam zemes robežu plāna kopiju, kurā attēlota plānotā zemes vienības daļa.
+(4) Vietējai pašvaldībai, ja tā nav kadastra subjekts, ir tiesības ierosināt nekustamā īpašuma objekta vai tādas zemes vienības daļas noteikšanu, kuru saskaņā ar likumu "Par nekustamā īpašuma nodokli" apliek ar nekustamā īpašuma nodokli.

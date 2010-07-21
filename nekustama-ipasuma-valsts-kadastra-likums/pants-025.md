@@ -1,1 +1,0 @@
-25.pants. Pēc nekustamā īpašuma objekta vai zemes vienības daļas noteikšanas ierosināšanas Valsts zemes dienests sagatavo nekustamā īpašuma objekta vai zemes vienības daļas noteikšanas darba uzdevumu un nosūta vai izsniedz ierosinātājam turpmākai rīcībai.

@@ -1,1 +1,1 @@
-93.pants. Ja Valsts zemes dienests konstatējis kadastra datu neatbilstību iesniegtajiem dokumentiem, tas labo kļūdainos kadastra datus un sedz ar to saistītos izdevumus.
+93.pants. Ja Valsts zemes dienests konstatējis kadastra datu neatbilstību dokumentiem, uz kuru pamata kadastra dati reģistrēti vai aktualizēti, tas normatīvajos aktos noteiktajā termiņā izlabo kļūdainos kadastra datus, tos aktualizējot, un sedz ar to saistītos izdevumus.

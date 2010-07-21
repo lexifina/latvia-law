@@ -1,1 +1,0 @@
-92.pants. Kadastra subjekts, valsts institūcija vai vietējā pašvaldība, kuras administratīvajā teritorijā atrodas nekustamais īpašums, ir tiesīga pieprasīt (arī elektroniskā veidā) kadastra datu labošanu vai nepilnīgu datu papildināšanu, ja konstatēta kadastra datu neatbilstība iesniegtajiem dokumentiem.

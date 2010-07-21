@@ -1,2 +1,2 @@
-36.pants. (1) Ierakstu par nekustamo īpašumu Kadastra informācijas sistēmā dzēš, ja ir dzēsti visi ieraksti par attiecīgā nekustamā īpašuma sastāvā esošajiem nekustamā īpašuma objektiem.
+36.pants. (1) Ierakstu par nekustamo īpašumu Kadastra informācijas sistēmā dzēš, saglabājot informāciju par nekustamā īpašuma objektu, ja ir saņemta informācija par nekustamā īpašuma dzēšanu no valsts vienotās datorizētās zemesgrāmatas. Ierakstu par nekustamā īpašuma objektu dzēš šā likuma 21.pantā noteiktajos gadījumos.
 (2) Visus vienā dzīvojamā mājā esošos dzīvokļa īpašumus apvienojot vienā nekustamajā īpašumā, Kadastra informācijas sistēmā visus ierakstus par dzīvojamā mājā esošajiem dzīvokļa īpašumiem dzēš pēc informācijas saņemšanas no valsts vienotās datorizētās zemesgrāmatas.

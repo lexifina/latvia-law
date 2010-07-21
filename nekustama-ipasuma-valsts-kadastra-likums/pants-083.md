@@ -1,2 +1,3 @@
-83.pants. (1) Kadastra dati glabājami pastāvīgi.
-(2) Visu nekustamā īpašuma lietu un kadastra dokumentu glabāšanu nodrošina Valsts zemes dienesta arhīvs. Ja Kadastrs tiek likvidēts, dokumentus nodod valsts glabāšanā normatīvajos aktos noteiktajā kārtībā.
+83.pants. (1) Kadastra dati un nekustamā īpašuma lietas glabājamas pastāvīgi. Kadastra dokumenti un dati glabājami normatīvajos aktos noteiktajā kārtībā.
+(2) Šā panta pirmajā daļā minēto datu un dokumentu glabāšanu līdz to nodošanai valsts arhīvā nodrošina Valsts zemes dienesta arhīvs.
+(3) Ja Kadastra informācijas sistēma tiek reorganizēta vai likvidēta, šā panta pirmajā daļā minētos datus un dokumentus nodod turpmākai glabāšanai valsts arhīvā normatīvajos aktos noteiktajā kārtībā.
