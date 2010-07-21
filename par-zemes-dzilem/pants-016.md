@@ -1,23 +1,11 @@
-16.pants. Zemes dzīļu izmantošanas ierobežošana, apturēšana, atļaujas vai licences anulēšana
-(1) Zemes dzīļu izmantošanu bieži sastopamo derīgo izrakteņu ieguves atļaujas vai zemes dzīļu izmantošanas licences turētājam ierobežo, ja atklājas zinātnei un kultūrai nozīmīgi ģeoloģiskie veidojumi, meteorīti, arheoloģiskie vai citi atradumi, kā arī ievērojot vides aizsardzības jomu reglamentējošu normatīvo aktu prasības.
-(2) Zemes dzīļu izmantošanu var apturēt, ja:
-1) zemes dzīļu izmantošanā tiek pārkāptas atļaujā vai licencē, vai zemes dzīļu izmantošanu regulējošos normatīvos aktos noteiktās prasības;
-2) zemes dzīļu izmantošanas rezultātā rodas draudi cilvēku veselībai, dzīvībai, videi un īpašumam;
-3) zemes dzīļu izmantošanas rezultātā vai to izmantošanas vietā rodas ārkārtējas situācijas (plūdi, ugunsgrēki utt.);
-4) mainās zemes dzīļu izmantotājs (apturēšana ir spēkā līdz jaunas derīgo izrakteņu ieguves atļaujas vai zemes dzīļu izmantošanas licences saņemšanai);
-5) zemes dzīļu izmantošanas rezultātā tiek apdraudēti kultūras pieminekļi.
-(3) Zemes dzīļu izmantošana tiek pārtraukta, ja:
-1) beidzas atļaujā vai licencē norādītais termiņš;
-2) zemes dzīļu izmantotājs labprātīgi atsakās no zemes dzīļu tālākas izmantošanas vai pārtrauc savu komercdarbību;
-3) gada laikā no atļaujas vai licences saņemšanas nav uzsākta zemes dzīļu izmantošana;
-4) zemes dzīles tiek izmantotas mērķiem, kas nav norādīti atļaujā vai licencē, vai tiek pārkāptas šā likuma 11.panta prasības;
-5) zeme tiek atsavināta valsts vai sabiedriskajām vajadzībām;
-6) sistemātiski tiek pārkāpti zemes dzīļu izmantošanas un to aizsardzības noteikumi.
-(4) Zemes dzīļu izmantošana (izņemot ogļūdeņražu meklēšanu, izpēti un ieguvi) tiek:
-1) ierobežota šā panta pirmajā daļā minētajā gadījumā ar Valsts vides dienesta lēmumu;
-2) apturēta šā panta otrās daļas 1., 2., 3. un 4.punktā minētajos gadījumos ar Valsts vides dienesta lēmumu; šā panta otrās daļas 5.punktā minētajā gadījumā - ar Valsts kultūras pieminekļu aizsardzības inspekcijas vai Valsts vides dienesta lēmumu; šā panta otrās daļas 1., 3. un 4.punktā minētajos gadījumos - ar pašvaldības lēmumu;
-3) pārtraukta šā panta trešajā daļā minētajos gadījumos ar pašvaldības vai Valsts vides dienesta lēmumu.
-(5) Ogļūdeņražu meklēšanas, izpētes un ieguves licences darbība tiek ierobežota, apturēta vai anulēta šajā pantā minētajos gadījumos ar licences izsniedzēja lēmumu pēc atbildīgo valsts iestāžu ierosinājuma normatīvajos aktos noteiktajā kārtībā.
-(6) Derīgo izrakteņu ieguves atļauju vai zemes dzīļu izmantošanas licenci tās izsniedzējs anulē, ja:
-1) zemes dzīļu izmantošana tiek pārtraukta saskaņā ar šā panta noteikumiem;
-2) triju gadu laikā no atļaujas vai licences saņemšanas dienas nav uzsākta derīgo izrakteņu ieguve vai tā pārtraukta un nav atsākta viena gada laikā.
+16.pants. Zemes dzīļu izmantošanas ierobežošana, apturēšana, licences vai atļaujas anulēšana
+(1) Valsts vides dienests pieņem lēmumu par zemes dzīļu izmantošanas ierobežošanu vai apturēšanu, ja tas konstatē, ka tiek pārkāptas zemes dzīļu izmantošanas licences, bieži sastopamo derīgo izrakteņu ieguves atļaujas vai zemes dzīļu izmantošanu regulējošo normatīvo aktu prasības, kā arī tad, ja zemes dzīļu izmantošanas rezultātā rodas draudi cilvēka veselībai, videi vai īpašumam. Valsts vides dienesta lēmumu var apstrīdēt Vides pārraudzības valsts birojā. Vides pārraudzības valsts biroja lēmumu var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā.
+(2) Valsts kultūras pieminekļu aizsardzības inspekcija ierosina zemes dzīļu izmantošanas licences vai bieži sastopamo derīgo izrakteņu ieguves atļaujas izsniedzējam ierobežot vai apturēt zemes dzīļu izmantošanu, ja tās rezultātā tiek apdraudēti kultūras pieminekļi.
+(3) Zemes dzīļu izmantošanas licenci vai bieži sastopamo derīgo izrakteņu ieguves atļauju tās izsniedzējs atceļ, ja licences vai atļaujas adresāts:
+1) gada laikā no zemes dzīļu izmantošanas licences (izņemot licenci derīgo izrakteņu ieguvei) spēkā stāšanās dienas nav uzsācis zemes dzīļu izmantošanu;
+2) triju gadu laikā no attiecīgās licences vai atļaujas spēkā stāšanās dienas nav uzsācis derīgo izrakteņu ieguvi (izņemot ogļūdeņražu ieguvi);
+3) izmanto zemes dzīles tādā veidā, kāds nav noteikts zemes dzīļu izmantošanas licencē;
+4) atkārtoti pārkāpj normatīvo aktu prasības attiecībā uz zemes dzīļu izmantošanu un aizsardzību vai zemes dzīļu izmantošanas licences vai bieži sastopamo derīgo izrakteņu ieguves atļaujas nosacījumus.
+(4) Valsts vides dienesta lēmumu par zemes dzīļu izmantošanas licences atcelšanu var apstrīdēt Vides pārraudzības valsts birojā. Vides pārraudzības valsts biroja lēmumu var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā.
+(5) Pašvaldības lēmumu par bieži sastopamo derīgo izrakteņu ieguves atļaujas atcelšanu var apstrīdēt un pārsūdzēt likumā "Par pašvaldībām" un Administratīvā procesa likumā noteiktajā kārtībā.
+(6) Iesnieguma iesniegšana šajā pantā noteiktā lēmuma par zemes dzīļu izmantošanas ierobežošanu vai apturēšanu vai zemes dzīļu izmantošanas licences vai bieži sastopamo derīgo izrakteņu ieguves atļaujas atcelšanu apstrīdēšanai vai pieteikuma iesniegšana tiesā par šāda lēmuma atcelšanu, spēkā esamību vai atzīšanu par prettiesisku neaptur šā lēmuma darbību.

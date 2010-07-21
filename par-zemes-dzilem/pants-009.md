@@ -1,6 +1,8 @@
 9.pants. Zemes dzīļu izmantošanas termiņi
-Zemes dzīles izmantošanā var nodot uz šādiem termiņiem:
-1) ģeoloģiskajai, hidroģeoloģiskajai, inženierģeoloģiskajai, ģeoekoloģiskajai un ģeofizikālajai izpētei, zinātniskās pētniecības darbiem, profesionālajai apmācībai, zemes dzīļu monitoringa izveidei un veikšanai, atpūtas un tūrisma pasākumu veikšanai - uz laiku līdz 5 gadiem;
-2) derīgo izrakteņu ieguvei, zemes dzīļu derīgo īpašību izmantošanai, tādu pazemes būvju celtniecībai un ekspluatācijai, kuras nav saistītas ar derīgo izrakteņu ieguvi, - uz laiku līdz 25 gadiem;
-3) ģeoloģiskajai izpētei un tai sekojošai derīgo izrakteņu ieguvei vai zemes dzīļu derīgo īpašību izmantošanai - uz laiku līdz 30 gadiem;
-4) mineraloģisko, paleontoloģisko un citu ģeoloģisko kolekciju veidošanai - uz laiku līdz 2 gadiem.
+Zemes dzīļu izmantošanas licenci vai bieži sastopamo derīgo izrakteņu ieguves atļauju izsniedz, kā arī valsts vai pašvaldības zemi zemes dzīļu izmantošanai iznomā vai nodod lietošanā uz šādiem termiņiem:
+1) ģeoloģiskajai, hidroģeoloģiskajai, inženierģeoloģiskajai, ģeoekoloģiskajai vai ģeofizikālajai izpētei, derīgo izrakteņu izpētei, zemes dzīļu monitoringa sistēmas izveidei vai monitoringa veikšanai - uz laiku līdz pieciem gadiem;
+2) ogļūdeņražu izpētei - uz laiku līdz 10 gadiem;
+3) derīgo izrakteņu meklēšanai - uz laiku līdz pieciem gadiem;
+4) urbuma ierīkošanai, konservācijai vai likvidācijai - uz laiku līdz vienam gadam;
+5) derīgo izrakteņu ieguvei vai zemes dzīļu derīgo īpašību izmantošanai - uz laiku līdz 25 gadiem;
+6) ģeoloģiskajai izpētei un tai sekojošai derīgo izrakteņu ieguvei vai zemes dzīļu derīgo īpašību izmantošanai - uz laiku līdz 30 gadiem.

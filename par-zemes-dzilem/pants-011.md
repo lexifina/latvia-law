@@ -1,5 +1,5 @@
 11.pants. Zemes dzīļu izmantošana bez derīgo izrakteņu ieguves atļaujas vai zemes dzīļu izmantošanas licences
-(1) Zemes īpašnieki un pastāvīgie lietotāji, ievērojot šā likuma 6.panta trešajā daļā minētās prasības, drīkst izmantot zemes dzīles sava zemes īpašuma robežās bez derīgo izrakteņu ieguves atļaujas vai zemes dzīļu izmantošanas licences šādos gadījumos:
-1) šā likuma pielikumā noteikto bieži sastopamo derīgo izrakteņu ieguvei, izņemot gadījumus, kad šīm darbībām ir komercdarbības raksturs;
-2) personiskām vajadzībām ierīkojot un izmantojot grodu, iedzītās un urbtās akas - dziļumā līdz 20 metriem, dažādas būves (pagrabus, tvertnes u.c.) - dziļumā līdz 5 metriem no sākotnējās zemes virsmas to dziļākajā vietā, kā arī ūdens notekas meliorācijas vajadzībām virszemes ūdeņu aizvadīšanai.
-(2) valsts sabiedrība ar ierobežotu atbildību "Latvijas Vides, ģeoloģijas un meteoroloģijas centrs" šā likuma 7.panta 1.punktā noteiktajos zemes dzīļu izmantošanas veidos drīkst tās izmantot bez zemes dzīļu izmantošanas licences, iepriekš paziņojot par to zemes īpašniekam.
+(1) Zemes īpašnieki vai pilnvarotās personas zemes dzīles, izņemot ogļūdeņražus, sava zemes īpašuma robežās izmanto bez zemes dzīļu izmantošanas licences vai bieži sastopamo derīgo izrakteņu ieguves atļaujas šādos gadījumos:
+1) iegūstot šā likuma pielikumā noteiktos bieži sastopamos derīgos izrakteņus kopējā platībā līdz 0,5 hektāriem un līdz 2 metru dziļumam, ja iegūtos derīgos izrakteņus izmanto sava zemes īpašuma robežās;
+2) ierīkojot un izmantojot grodu akas un ūdens ieguves urbumus dziļumā līdz 20 metriem, ja diennaktī paredzēts iegūt ne vairāk kā 10 kubikmetrus pazemes ūdeņu.
+(2) (Izslēgta ar 17.06.2010. likumu)

@@ -1,13 +1,13 @@
 14.pants. Zemes dzīļu izmantotāju pienākumi
 Zemes dzīļu izmantotāju pienākums ir:
-1) ievērot normatīvo aktu prasības, standartus, normas, atļaujas vai licences nosacījumus un citus noteikumus darbos, kas saistīti ar zemes dzīļu izmantošanu;
+1) ievērot normatīvo aktu prasības, zemes dzīļu izmantošanas licences, bieži sastopamo derīgo izrakteņu ieguves atļaujas vai dabas resursu ieguves atļaujas nosacījumus, veicot darbus, kas saistīti ar zemes dzīļu izmantošanu;
 2) ievērot Ministru kabineta apstiprināto derīgo izrakteņu ieguves kārtību;
 3) zemes dzīļu ģeoloģiskās izpētes gaitā nodrošināt ģeoloģiskās dokumentācijas sagatavošanu un gādāt par tās saglabāšanu;
-4) iesniegt valsts sabiedrībai ar ierobežotu atbildību "Latvijas Vides, ģeoloģijas un meteoroloģijas centrs" atļaujā vai licencē noteiktajā kārtībā un termiņos ģeoloģisko informāciju, kā arī iegūtos datus par derīgo izrakteņu krājumiem un to komponentiem;
+4) iesniegt valsts sabiedrībai ar ierobežotu atbildību "Latvijas Vides, ģeoloģijas un meteoroloģijas centrs" atļaujā vai licencē noteiktajā kārtībā un termiņos ģeoloģisko informāciju, kā arī iegūtos datus par derīgo izrakteņu krājumiem un to īpašībām;
 5) normatīvajos aktos noteiktajā kārtībā iesniegt nepieciešamos pārskatus par zemes dzīļu izmantošanu;
 6) ievērot standartus, normas un noteikumus, kas reglamentē vides aizsardzību, kultūras pieminekļu aizsardzību, zemes transformāciju, kā arī būvju un citu objektu aizsardzību, un nepieļaut, ka zemes dzīļu izmantošana atstātu kaitīgu ietekmi uz tiem; zemes dzīļu izmantotājiem nav jāuzņemas atbildība par iepriekšējo izmantotāju pieļautajām atkāpēm no attiecīgajiem standartiem, normām un noteikumiem;
 7) noņemt un saglabāt auglīgo augsnes daļu rekultivācijai;
 8) uz sava rēķina rekultivēt zemes dzīļu izmantošanas rezultātā radušos zemes gabala bojājumus atļaujā vai licencē norādītajā termiņā;
-9) atlīdzināt visus zaudējumus, kas nodarīti viņu veiktās zemes dzīļu izmantošanas rezultātā zemes dzīļu īpašniekiem, izmantotājiem, videi, kultūras pieminekļiem;
+9) (izslēgts ar 17.06.2010. likumu);
 10) apturēt vai ierobežot zemes dzīļu izmantošanu, ja atklājas zinātnei, kultūrai un vides aizsardzībai nozīmīgi ģeoloģiskie veidojumi, meteorīti, arheoloģiskie vai citi objekti, kā arī nekavējoties ziņot par atklājumu atļaujas vai licences izsniedzējam, ja nepieciešams - Valsts kultūras pieminekļu aizsardzības inspekcijai. Ja turpmāka zemes dzīļu izmantošana apdraud vai bojā šos objektus, zemes dzīļu izmantošana jāpārtrauc;
 11) apsaimniekot ieguves atkritumus saskaņā ar Ministru kabineta noteikto ieguves rūpniecības atkritumu apsaimniekošanas kārtību.
