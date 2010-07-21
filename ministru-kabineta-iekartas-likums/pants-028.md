@@ -4,4 +4,4 @@
 (3) Ministru kabineta sēdē katram Ministru kabineta loceklim ir tiesības izteikties par jebkuru sēdes darba kārtībā iekļauto jautājumu.
 (4) Ministru kabineta sēdē ar padomdevēja tiesībām var piedalīties personas, kurām šādas tiesības paredzētas citos normatīvajos aktos.
 (5) Ministru prezidents pēc savas iniciatīvas vai pēc Ministru kabineta locekļa ierosinājuma var uzaicināt izteikt viedokli Ministru kabineta sēdē atbildīgās amatpersonas, sociālo partneru un pilsoniskās sabiedrības organizāciju pārstāvjus vai citus lietpratējus, kuru viedoklis var būt nozīmīgs attiecīgā jautājuma izlemšanā.
-(6) Ministru kabineta sēdes protokolē un to atklāto daļu ieraksta audioformātā. Ministru kabinets nosaka šo audioierakstu izmantošanas, glabāšanas un arhivēšanas kārtību.
+(6) Ministru kabineta sēdes protokolē un ieraksta audioformātā. Ministru kabinets nosaka šo audioierakstu izmantošanas, glabāšanas un arhivēšanas kārtību.

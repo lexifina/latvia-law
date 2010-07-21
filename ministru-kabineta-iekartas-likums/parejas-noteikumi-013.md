@@ -1,0 +1,1 @@
+13. Ministru kabinets vienlaikus ar gadskārtējā valsts budžeta likuma projektu 2011.gadam iesniedz Saeimai informatīvo ziņojumu par Latvijas apstākļiem piemērotāko ministriju skaitu un pārvaldes organizāciju atbilstoši šim skaitam un ministriju kompetencei, ņemot vērā valsts pārvaldes principus un izvērtējot veicamās funkcijas un pieejamos finanšu līdzekļus.

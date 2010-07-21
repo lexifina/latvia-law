@@ -1,3 +1,2 @@
-35.pants. Komandējums
-(1) Komandējumā Ministru kabineta locekli un parlamentāro sekretāru nosūta Ministru prezidents, izdodot attiecīgu rīkojumu.
-(2) Ministru kabineta locekļiem ir tiesības normatīvajos aktos noteiktajā kārtībā saņemt atlīdzību par izdevumiem, kas saistīti ar komandējumiem.
+35.pants. Ierobežojumi Ministru kabineta loceklim un parlamentārajam sekretāram
+Ministru kabineta locekļu un parlamentāro sekretāru komercdarbības, ienākumu gūšanas, amatu savienošanas, darbu pildīšanas, kā arī citus ierobežojumus un pienākumus nosaka normatīvie akti.
