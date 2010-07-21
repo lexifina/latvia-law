@@ -1,5 +1,5 @@
 6.pants. Nekustamā īpašuma nodokļa maksāšanas kārtība
-(1) Pašvaldības par nekustamā īpašuma nodokļa apmēru kārtējam taksācijas (kalendārajam) gadam paziņo maksātājam vai daudzdzīvokļu mājas apsaimniekotājam līdz tā paša gada 15.februārim, nosūtot maksāšanas paziņojumu viņam vai viņa pilnvarniekam pēc norādītās adreses.
+(1) Pašvaldības par nekustamā īpašuma nodokļa apmēru kārtējam taksācijas (kalendārajam) gadam paziņo maksātājam vai daudzdzīvokļu mājas apsaimniekotājam līdz tā paša gada 15.februārim, nosūtot maksāšanas paziņojumu viņam vai viņa pilnvarniekam pēc norādītās adreses. Nodokļa maksāšanas paziņojuma nosūtīšanas termiņš par neapstrādātu lauksaimniecībā izmantojamo zemi ir nākamā taksācijas gada 15.februāris.
 (1¹) Maksāšanas paziņojums par nekustamā īpašuma nodokli ir administratīvais akts. Nosūtot maksāšanas paziņojumu pa pastu, to nav nepieciešams noformēt kā ierakstītu pasta sūtījumu.
 (1²) Šā panta 1.¹ daļā minētā administratīvā akta apstrīdēšana neaptur tā darbību.
 (1³) Uz maksāšanas paziņojuma, ja tas tiek sagatavots elektroniski, nav nepieciešams nodokļu administrācijas amatpersonas paraksts. Šādā gadījumā uz tā jābūt atzīmei: "Maksāšanas paziņojums sagatavots elektroniski un ir derīgs bez paraksta.
