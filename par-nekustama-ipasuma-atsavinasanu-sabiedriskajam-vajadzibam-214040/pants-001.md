@@ -1,0 +1,2 @@
+1.pants. (1) Atsavināt sabiedriskajām vajadzībām - satiksmes mezgla rekonstrukcijai Krišjāņa Valdemāra ielas un Daugavgrīvas ielas krustojumā nekustamo īpašumu - zemes gabala Balasta dambī 3, Rīgā (kadastra Nr.0100 062 0093, reģistrēts Rīgas pilsētas zemesgrāmatas nodalījumā Nr.13063) daļu 1358 kvadrātmetru platībā, kas atrodas ielas sarkanajās līnijās.
+(2) Šā panta pirmajā daļā minētā nekustamā īpašuma atsavināmās daļas robežu shēma attēlota šā likuma 1.pielikumā un atsavināmās daļas robežlīnijas robežpunktu koordinātas - šā likuma 2.pielikumā.
