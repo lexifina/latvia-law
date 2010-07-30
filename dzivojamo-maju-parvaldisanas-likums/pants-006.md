@@ -18,4 +18,4 @@ c) finanšu uzskaites organizēšana;
 5) informācijas sniegšana valsts un pašvaldību institūcijām.
 (3) Citas pārvaldīšanas darbības ir darbības, kas saistītas ar dzīvojamās mājas pārvaldīšanu un tiek veiktas atbilstoši dzīvojamās mājas īpašnieka gribai un maksātspējai. Pie tām pieder ar dzīvojamās mājas uzlabošanu un attīstīšanu un šim nolūkam nepieciešamo pasākumu ilgtermiņa plāna sagatavošanu saistītās darbības.
 (4) Viendzīvokļa mājas īpašniekam nav saistoši šā panta otrās daļas 2.punkta noteikumi.
-(5) Ministru kabinets izdod noteikumus par šā panta otrās daļas 1.punkta "a", "c" un "e" apakšpunktā minētajām obligāti veicamajām dzīvojamās mājas pārvaldīšanas darbībām, kā arī par kārtību, kādā tiek plānotas un organizētas ar dzīvojamās mājas renovāciju un rekonstrukciju saistītās darbības.
+(5) Ministru kabinets izdod noteikumus par šā panta otrās daļas 1.punkta "a", "c" un "e" apakšpunktā minētajām obligāti veicamajām dzīvojamās mājas pārvaldīšanas darbībām, kā arī par kārtību, kādā tiek plānotas un organizētas ar dzīvojamās mājas renovāciju un rekonstrukciju saistītās darbības. Šo Ministru kabineta noteikumu prasības neattiecas uz viendzīvokļa mājām.

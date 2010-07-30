@@ -1,0 +1,1 @@
+6.¹ Šā likuma 13.panta piektajā daļā minētā persona ir tiesīga turpināt dzīvojamo māju pārvaldīšanu arī pēc 2012.gada 1.jūlija, ja tā profesionālās kompetences novērtēšanas rezultātā līdz 2012.gada 30.jūnijam likumā noteiktajā kārtībā ir ieguvusi profesionālās kvalifikācijas dokumentu, kas apliecina pārvaldnieka trešo profesionālās kvalifikācijas līmeni.
