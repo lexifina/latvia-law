@@ -1,2 +1,2 @@
-66. pants. Goda tiesnesis
-Augstākās Tiesas priekšsēdētājs vai tieslietu ministrs var ierosināt Saeimai piešķirt Augstākās Tiesas, apgabaltiesas vai rajona (pilsētas) tiesas tiesnesim, kurš godprātīgi strādājis un izbeidzis tiesneša darbību, Goda tiesneša nosaukumu.
+66. pants. Goda tiesneša nosaukuma piešķiršana
+Saeima pēc Tieslietu padomes priekšlikuma var piešķirt Goda tiesneša nosaukumu tiesnesim, kurš godprātīgi strādājis un izbeidzis tiesneša darbību.

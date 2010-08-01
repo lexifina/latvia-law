@@ -1,0 +1,1 @@
+37. Šā likuma 50.panta trešās daļas grozījums, kas paredz Tieslietu padomes līdzdalību ģenerālprokurora amata kandidāta izvirzīšanā, stājas spēkā vienlaikus ar attiecīgiem grozījumiem Prokuratūras likumā.

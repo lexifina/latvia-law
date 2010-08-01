@@ -1,0 +1,1 @@
+36. Rajonu (pilsētu) tiesu un apgabaltiesu priekšsēdētāju vietnieki, kuri iecelti amatā līdz brīdim, kad stājas spēkā šā likuma 33.¹ un 41.panta grozījumi, kas maina rajona (pilsētas) tiesas un apgabaltiesas priekšsēdētāja vietnieku iecelšanas kārtību, turpina pildīt amata pienākumus līdz pilnvaru termiņa beigām.

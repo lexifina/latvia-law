@@ -22,4 +22,5 @@
 18) veic tiesu un zemesgrāmatu nodaļu saimnieciskās darbības un finanšu revīziju;
 19) nodrošina mērķtiecīgu un efektīvu valsts budžeta līdzekļu izlietojumu;
 20) nodrošina tiesas un zemesgrāmatu nodaļas ar materiāliem un tehniskajiem līdzekļiem;
-21) sadarbībā ar valsts akciju sabiedrību "Tiesu namu aģentūra" nodrošina tiesas un zemesgrāmatu nodaļas ar darba telpām un informācijas un komunikāciju tehnoloģiju infrastruktūru.
+21) sadarbībā ar valsts akciju sabiedrību "Tiesu namu aģentūra" nodrošina tiesas un zemesgrāmatu nodaļas ar darba telpām un informācijas un komunikāciju tehnoloģiju infrastruktūru;
+22) reizi gadā sniedz Tieslietu padomei ziņojumu par savu darbu.

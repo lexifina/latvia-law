@@ -1,0 +1,1 @@
+28. Tieslietu padome sešu mēnešu laikā pēc sanākšanas uz pirmo sēdi apstiprina Tiesnešu konferences nolikumu. Līdz šā nolikuma apstiprināšanai piemērojams 1997.gada 18.aprīlī Tiesnešu konferencē pieņemtais Tiesnešu konferences nolikums.

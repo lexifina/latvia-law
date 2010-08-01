@@ -1,0 +1,1 @@
+35. Apgabaltiesas kolēģijas priekšsēdētāji, kuri iecelti amatā līdz brīdim, kad stājas spēkā šā likuma 41. un 42.panta grozījumi, kas maina apgabaltiesas kolēģijas priekšsēdētāja iecelšanas kārtību, turpina pildīt pienākumus, līdz tiek iecelts amatā apgabaltiesas priekšsēdētāja vietnieks šā likuma 41.panta otrajā daļā noteiktajā kārtībā.

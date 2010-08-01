@@ -1,0 +1,1 @@
+30. Šā likuma 73.¹ pantā paredzētās Tieslietu padomes pilnvaras lemt par tiesneša pārcelšanu attiecināmas arī uz tiesnešiem, kuri iecelti vai apstiprināti tiesneša amatā bez pilnvaru termiņa ierobežojuma līdz šā likuma 73.¹ panta spēkā stāšanās dienai.

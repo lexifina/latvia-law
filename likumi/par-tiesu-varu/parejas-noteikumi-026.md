@@ -1,0 +1,1 @@
+26. Augstākās tiesas priekšsēdētājs mēneša laikā pēc tam, kad stājas spēkā šā likuma 48.¹ pants un 13.¹ nodaļa, kas paredz Disciplinārtiesas un Tieslietu padomes izveidošanu, sasauc Augstākās tiesas plēnumu Disciplinārtiesas locekļu un Tieslietu padomes locekļa ievēlēšanai, kā arī Disciplinārtiesas priekšsēdētāja apstiprināšanai.

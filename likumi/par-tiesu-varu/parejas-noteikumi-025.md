@@ -1,0 +1,1 @@
+25. Triju mēnešu laikā pēc tam, kad stājas spēkā šā likuma 13.¹ nodaļa, kas paredz Tieslietu padomes izveidošanu, tieslietu ministrs un Augstākās tiesas priekšsēdētājs sasauc Tiesnešu konferenci Tieslietu padomes locekļu ievēlēšanai.

@@ -1,0 +1,1 @@
+34. Grozījumi šā likuma 63.pantā, kas maina rajona (pilsētas) tiesas, apgabaltiesas un Augstākās tiesas tiesneša atrašanās amatā pagarināšanas nosacījumus un kārtību, neattiecas uz personu, kuras atrašanās tiesneša amatā pagarināta līdz šo grozījumu spēkā stāšanās dienai.

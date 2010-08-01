@@ -1,0 +1,1 @@
+32. No 2010.gada 1.augusta līdz 2012.gada 1.janvārim uz Administratīvās apgabaltiesas tiesneša amatu var pretendēt Administratīvās rajona tiesas tiesnesis, kuram ir vismaz četru gadu stāžs tiesneša amatā.
