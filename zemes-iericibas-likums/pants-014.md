@@ -1,1 +1,1 @@
-14.pants. Zemes ierīcības projekta izstrādi kopīpašumā esoša zemesgabala sadalīšanai atsevišķos īpašumos ierosina visi tā kopīpašnieki vai kāds no viņiem, lai sev piederošo domājamo daļu nodalītu atsevišķā īpašumā.
+14.pants. Zemes ierīcības projekta izstrādi kopīpašumā esošas zemes vienības sadalīšanai atsevišķos īpašumos ierosina visi tā kopīpašnieki vai kāds no viņiem, lai sev piederošo domājamo daļu nodalītu atsevišķā īpašumā.

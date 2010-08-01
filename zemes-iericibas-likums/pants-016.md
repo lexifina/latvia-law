@@ -1,1 +1,1 @@
-16.pants. Sadalot kopīpašumā esošu zemesgabalu, nav pieļaujama starpgabalu veidošana.
+16.pants. Sadalot kopīpašumā esošu zemes vienību, nav pieļaujama starpgabalu veidošana.

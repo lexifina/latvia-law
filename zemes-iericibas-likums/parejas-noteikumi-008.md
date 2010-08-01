@@ -1,0 +1,1 @@
+8. Ja vietējās pašvaldības lēmums par zemes ierīcības projekta izstrādi uz projektēto teritoriju attiecināmo teritorijas plānojumā un citos normatīvajos aktos noteikto nekustamā īpašuma apgrūtinājumu konkretizēšanai ir pieņemts līdz 2010.gada 1.augustam, zemes ierīcības projektu turpina izstrādāt atbilstoši spēkā esošajiem normatīvajiem aktiem.

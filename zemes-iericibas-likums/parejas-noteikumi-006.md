@@ -1,1 +1,1 @@
-6. Attiecībā uz teritoriju, kurai nav izstrādāts vietējās pašvaldības teritorijas plānojums, bet kurā jāveic šā likuma 8.pantā minētie zemes ierīcības darbi, lēmumu par zemes ierīcības projekta izstrādi pieņem vietējā pašvaldība.
+6. Attiecībā uz teritoriju, kurai nav izstrādāts vietējās pašvaldības teritorijas plānojums, bet kurā jāveic šā likuma 8.panta pirmajā daļā minētie zemes ierīcības darbi, lēmumu par zemes ierīcības projekta izstrādi pieņem vietējā pašvaldība.
