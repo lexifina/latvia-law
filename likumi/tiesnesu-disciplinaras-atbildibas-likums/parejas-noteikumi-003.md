@@ -1,0 +1,1 @@
+3. Pēc tam, kad stājušies spēkā šā likuma 2.panta grozījumi par Tiesnešu disciplinārkolēģijas sastāvu, Tiesnešu disciplinārkolēģija var turpināt savu darbu līdz kārtējās tiesnešu konferences sanākšanai.

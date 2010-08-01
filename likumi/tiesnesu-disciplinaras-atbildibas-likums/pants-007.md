@@ -4,7 +4,7 @@
 1) uzlikt disciplinārsodu;
 2) nosūtīt disciplinārlietas materiālus Ģenerālprokuratūrai jautājuma izlemšanai par krimināllietas ierosināšanu;
 3) ierosināt tiesnesi atcelt no amata;
-4) nosūtīt disciplinārlietas materiālus tiesnešu kvalifikācijas kolēģijai jautājuma izlemšanai par kvalifikācijas klases pazemināšanu tiesnesim;
+4) (izslēgts ar 10.06.2010. likumu);
 5) izbeigt disciplinārlietu.
 (3) (Izslēgta ar 15.10.1998. likumu.)
 (4) Disciplinārsodi, kurus tiesnešu disciplinārkolēģija var uzlikt tiesnesim, ir šādi:
