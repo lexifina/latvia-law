@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2010. gada 20. jūlija noteikumi Nr.657 \"Kārtība, kādā izsniedz vai atsaka izsniegt stratēģiskas nozīmes preču licences un citus ar stratēģiskas nozīmes preču apriti saistītus dokumentus\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "122 (4314)",
+  "official_journal_page": null,
+  "official_journal_date": "2010-08-04",
+  "entry_into_force": "2010-08-05",
+  "notification_date": "2017-12-28",
+  "commission_reference": "MNE(2017)57253",
+  "nim_celex": "72017L2054LVA_254096",
+  "nim_id": "254096",
+  "transposes_celex": [
+    "32017L2054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/03244ac8-bf15-4ba2-82db-4967d66ec9b4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
