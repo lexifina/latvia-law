@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Elektronisko plašsaziņas līdzekļu likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "118",
+  "official_journal_page": null,
+  "official_journal_date": "2010-07-28",
+  "entry_into_force": "2010-08-11",
+  "notification_date": "2016-06-17",
+  "commission_reference": "MNE(2016)54212",
+  "nim_celex": "72014L0040LVA_238666",
+  "nim_id": "238666",
+  "transposes_celex": [
+    "32014L0040"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8d4a4580-824f-4472-897a-f34a7c137a1b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
