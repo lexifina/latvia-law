@@ -4,4 +4,4 @@
 1) ostu kopējo projektu realizācija;
 2) valsts īpašuma uzturēšana mazajās ostās;
 3) ostu popularizēšana un reklāma;
-4) Latvijas Ostu padomes darbības nodrošināšana.
+4) Latvijas Ostu, tranzīta un loģistikas padomes darbības nodrošināšana.

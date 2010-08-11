@@ -1,5 +1,5 @@
 6. pants. Ostas noteikumi
-(1) Ostas noteikumu projektu izstrādā ostas pārvalde, un pēc saskaņošanas ar Satiksmes ministriju attiecīgā vietējās pašvaldības dome (padome) izdod tos saistošo noteikumu veidā. Ostas noteikumos jānorāda:
+(1) Ostas noteikumu projektu izstrādā ostas pārvalde, un pēc saskaņošanas ar Satiksmes ministriju attiecīgā pašvaldības dome izdod tos saistošo noteikumu veidā. Ostas noteikumos jānorāda:
 1) apstiprinātās ostas zemes un akvatorijas robežas;
 2) kuģu pieņemšanas tehniskās iespējas sadalījumā pa ostas rajoniem (piestātnēm);
 3) noteikumi par kuģu satiksmi akvatorijā - kārtība, kādā sniedzama informācija par kuģu ienākšanu ostā un iziešanu no ostas, noformējami dokumenti, izmantojama sakaru sistēma, noteikumi attiecībā uz loču pakalpojumiem, kustības ātrumu, manevrēšanas rajoniem;
