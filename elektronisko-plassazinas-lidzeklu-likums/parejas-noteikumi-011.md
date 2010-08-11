@@ -1,0 +1,1 @@
+11. Lai uzsāktu zemes apraidi ciparformātā, elektroniskais plašsaziņas līdzeklis pārreģistrē iepriekš saņemtās apraides atļaujas un retranslācijas atļaujas zemes apraidei. Nacionālā elektronisko plašsaziņas līdzekļu padome minētajās atļaujās, ja nepieciešams, izdara grozījumus.

@@ -1,0 +1,4 @@
+9.pants. Nacionālie elektroniskie plašsaziņas līdzekļi
+(1) Par nacionālajiem elektroniskajiem plašsaziņas līdzekļiem uzskatāmi tie plašsaziņas līdzekļi, kuru sniegto pakalpojumu var saņemt lielākā daļa Latvijas iedzīvotāju vai kuru programmu apraides aptveršanas zona ir valsts teritorijas lielākā daļa un kuru programmas ir pieejamas lielākajai daļai Latvijas iedzīvotāju, ciktāl šā panta otrajā daļā nav noteikts citādi.
+(2) Attiecībā uz televīzijas programmu izplatīšanu par nacionālajiem elektroniskajiem plašsaziņas līdzekļiem uzskatāmi tādi plašsaziņas līdzekļi, kuru veidoto televīzijas programmu apraides aptveršanas zona ir vismaz 99 procenti Latvijas teritorijas.
+(3) Nacionālā elektronisko plašsaziņas līdzekļu padome var atļaut šā panta pirmajā daļā minētajiem nacionālajiem elektroniskajiem plašsaziņas līdzekļiem palielināt programmu apraides aptveršanas zonu, ja to paredz Elektronisko plašsaziņas līdzekļu nozares attīstības nacionālā stratēģija.

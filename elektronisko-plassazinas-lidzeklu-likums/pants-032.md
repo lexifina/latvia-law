@@ -1,0 +1,5 @@
+32.pants. Papildnosacījumi Eiropas audiovizuālo darbu iekļaušanai un valsts valodas lietošanai elektronisko plašsaziņas līdzekļu programmās
+(1) Elektroniskie plašsaziņas līdzekļi nodrošina, lai to veidotajā programmā nedēļas laikā vismaz 51 procentu no raidlaika, izņemot ziņas, sporta sacensības, spēles, reklāmu, televīzijas veikalu un televīzijas veikala skatlogu, aizņemtu Eiropas audiovizuālie darbi.
+(2) Nacionālie un reģionālie elektroniskie plašsaziņas līdzekļi nodrošina, lai to veidotajā televīzijas programmā vismaz 40 procentus no Eiropas audiovizuālo darbu raidlaika, izņemot spēles, reklāmu, televīzijas veikalu un televīzijas veikala skatlogu, aizņemtu audiovizuālie darbi valsts valodā.
+(3) Nacionālie un reģionālie elektroniskie plašsaziņas līdzekļi nodrošina, lai to veidotajās programmās vismaz 65 procenti no visiem raidījumiem, izņemot reklāmu, televīzijas veikalu un televīzijas veikala skatlogu, būtu valsts valodā un šādi raidījumi valsts valodā aizņemtu vismaz 65 procentus no raidlaika.
+(4) Televīzijas raidījums svešvalodā, ja tas ir dublēts vai ieskaņots valsts valodā, arī uzskatāms par raidījumu valsts valodā.

@@ -1,0 +1,4 @@
+69.pants. Latvijas Televīzijas pienākumi, sniedzot atbalstu Latvijas filmu nozarei
+(1) Latvijas Televīzija nodrošina Latvijas nacionālā audiovizuālā mantojuma pieejamību sabiedrībai, iepērkot nacionālās filmas, savās programmās demonstrējot tās un veicot citus Latvijas filmu nozares atbalsta pasākumus saskaņā ar šo nozari regulējošiem tiesību aktiem.
+(2) Latvijas Televīzija nacionālo filmu mantojuma jautājumos sadarbojas ar valsts tiešās pārvaldes iestādi "Nacionālais kino centrs".
+(3) Valsts tiešās pārvaldes iestāde "Nacionālais kino centrs" un Latvijas Televīzija noslēdz vienošanos, kurā nosaka kārtību, kādā Latvijas Televīzijai ir pienākums tai piešķirtā budžeta ietvaros iesaistīties nacionālo filmu kopražošanā un iepirkšanā. Vienošanās termiņš ir trīs gadi, un tā ik reizi noslēdzama ne vēlāk kā četrus mēnešus pirms nākamā perioda sākuma datuma.

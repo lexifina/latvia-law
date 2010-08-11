@@ -1,0 +1,3 @@
+33.pants. Neatkarīgie producenti un to veidoto darbu iekļaušana elektronisko plašsaziņas līdzekļu programmās
+(1) Audiovizuālo elektronisko plašsaziņas līdzekļu veidotajās programmās ne mazāk kā 10 procenti no visu raidījumu un raidlaika kopapjoma nedēļas laikā, izņemot ziņas, sporta sacensības, spēles, reklāmu, televīzijas veikalu un televīzijas veikala skatlogu, paredzami neatkarīgo producentu veidotajiem Eiropas audiovizuālajiem darbiem. Audiovizuālie elektroniskie plašsaziņas līdzekļi nodrošina, lai lielākā daļa no neatkarīgajiem producentiem piešķirtā raidlaika tiktu paredzēta pēdējo piecu gadu laikā neatkarīgo producentu veidotajiem Eiropas audiovizuālajiem darbiem.
+(2) Šis pants neattiecas uz vietējiem un reģionālajiem elektroniskajiem plašsaziņas līdzekļiem.

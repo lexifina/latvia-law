@@ -1,0 +1,4 @@
+10.pants. Reģionālie elektroniskie plašsaziņas līdzekļi
+(1) Par reģionālajiem elektroniskajiem plašsaziņas līdzekļiem uzskatāmi tie plašsaziņas līdzekļi, kuru programmu apraides aptveršanas zona ir ne mazāk kā 20 procenti Latvijas teritorijas, ciktāl šā panta otrajā daļā nav noteikts citādi.
+(2) Attiecībā uz televīzijas programmu izplatīšanu par reģionālajiem elektroniskajiem plašsaziņas līdzekļiem uzskatāmi tādi plašsaziņas līdzekļi, kuru veidoto televīzijas programmu apraides aptveršanas zona ir vismaz viena Latvijai saistošos starptautiskajos nolīgumos paredzētam reģionālajam apraides zonu plānojumam atbilstoša apraides zona.
+(3) Nacionālā elektronisko plašsaziņas līdzekļu padome var atļaut reģionālajiem elektroniskajiem plašsaziņas līdzekļiem palielināt programmu apraides aptveršanas zonu, ja to paredz Elektronisko plašsaziņas līdzekļu nozares attīstības nacionālā stratēģija.

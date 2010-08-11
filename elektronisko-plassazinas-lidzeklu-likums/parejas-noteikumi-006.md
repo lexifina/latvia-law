@@ -1,0 +1,1 @@
+6. Līdz 2013.gada 31.decembrim piemērojami Ministru kabineta 2008.gada 2.septembra noteikumi Nr.714 "Kārtība, kādā tiek ieviesta elektronisko sabiedrības saziņas līdzekļu veidoto programmu apraide ciparformātā", ciktāl tie nav pretrunā ar šo likumu.

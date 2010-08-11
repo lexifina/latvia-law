@@ -1,0 +1,5 @@
+42.pants. Reklāmas un televīzijas veikala apjoms
+(1) Reklāmai un televīzijas veikalam (izņemot televīzijas veikala skatlogu) atvēlētais laiks elektronisko plašsaziņu līdzekļu televīzijas programmās katrā raidstundā kopumā nedrīkst pārsniegt 20 procentus. Sabiedrisko elektronisko plašsaziņas līdzekļu televīzijas programmās un sabiedriskā pasūtījuma ietvaros veidotajās televīzijas programmās vai raidījumos reklāmai un televīzijas veikalam (izņemot televīzijas veikala skatlogu) atvēlētais laiks katrā raidstundā kopumā nedrīkst pārsniegt 10 procentus.
+(2) Šā panta izpratnē par reklāmu netiek uzskatīti:
+1) audiovizuālu elektronisko plašsaziņas līdzekļu paziņojumi par to raidījumiem un citiem produktiem, kas ir tieši atvasināti no to raidījumiem, sponsoru paziņojumiem un produktu izvietošanas;
+2) bez maksas izplatīti sociālie paziņojumi, sabiedriskas nozīmes sludinājumi un aicinājumi uz labdarību, kā arī virtuālā reklāma.

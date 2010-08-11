@@ -1,0 +1,39 @@
+1.pants. Likumā lietotie termini
+Likumā ir lietoti šādi termini:
+1) apraide - darbību kopums, kas nodrošina elektronisko plašsaziņas līdzekļu programmu un raidījumu veidošanu, izplatīšanu un tūlītēju uztveršanu, izmantojot publiskos elektronisko sakaru tīklus;
+2) apraides aptveršanas zona - teritorija, kurā raidītāja signāla intensitāte atbilst kvalitatīvas uztveršanas kritērijiem, ko katram uztveršanas veidam nosaka starptautiskie līgumi par apraidi;
+3) audio un audiovizuāls elektroniskā plašsaziņas līdzekļa pakalpojums - pakalpojums, uz kuru attiecināma elektroniskā plašsaziņas līdzekļa redakcionālā atbildība un kura galvenais uzdevums ir, izmantojot publiskos elektronisko sakaru tīklus, nodrošināt plašākai sabiedrībai informējošus, izklaidējošus vai izglītojošus raidījumus;
+4) audio un audiovizuāls komerciāls paziņojums - reklāma televīzijā vai radio, sponsorēšana, televīzijas vai radio veikals, produktu izvietošana un citi audio, vizuāli vai audiovizuāli paziņojumi, kas ievietoti raidījumā, izvietoti pirms raidījuma vai pēc tā par samaksu vai citu atlīdzību vai pašreklāmas nolūkā un tieši vai netieši reklamē to personu preces, pakalpojumus vai tēlu, kuras veic saimniecisko darbību;
+5) bezmaksas televīzija - sabiedrisko un komerciālo elektronisko plašsaziņas līdzekļu nodrošināta piekļuve programmai bez maksas;
+6) daļēja ekrāna reklāma - reklāma, kas kadra malā atrodas uz ekrāna vienlaikus ar raidījumu slīdošas rindas, logotipa, īsa reklāmas klipa vai citā reklāmas veidā;
+7) elektroniskais plašsaziņas līdzeklis - privātpersona, kurai tiesību aktos noteiktajā kārtībā ir izsniegta apraides atļauja vai retranslācijas atļauja vai kuras darbību šajā likumā noteiktajā kārtībā ir reģistrējusi Nacionālā elektronisko plašsaziņas līdzekļu padome;
+8) elektroniskā plašsaziņas līdzekļa audiovizuāls pakalpojums pēc pieprasījuma - elektroniskā plašsaziņas līdzekļa nodrošināts pakalpojums, kas tiek sniegts pēc pakalpojuma saņēmēja pieprasījuma tā izraudzītajā laikā, pamatojoties uz elektroniskā plašsaziņas līdzekļa iepriekš piedāvāto raidījumu katalogu;
+9) ierobežotas piekļuves kontrole - ierīce, programmatūra vai cits risinājums, kas ļauj pakalpojumu saņemt tikai autorizētam lietotājam;
+10) ilgstoša reklāma - reklāmas sižets, kura ilgums pārsniedz 90 sekundes;
+11) interaktīvā (mijiedarbības) reklāma - reklāmas forma, kuras izmantošanas laikā skatītājam tiek dota iespēja piekļūt detalizētākam reklāmas saturam;
+12) kabeļtelevīzija - programmu un raidījumu izplatīšana, izmantojot galvenokārt kabeli;
+13) neatkarīgais producents - privātpersona, kas nav elektroniskais plašsaziņas līdzeklis, bet veido filmas, reklāmu, atsevišķus radio, televīzijas raidījumus vai nodarbojas ar programmu veidošanu;
+14) pašreklāma - paziņojumi, kurus elektroniskais plašsaziņas līdzeklis izplata savā programmā vai raidījumu katalogā, informējot par savu programmu vai raidījumiem, vai par atvasinātiem darbiem, kas tieši iegūti no programmas vai raidījumiem;
+15) privātpersona - fiziskā persona, privāto tiesību juridiskā persona vai šādu personu apvienība;
+16) produktu izvietošana - jebkurš audio un audiovizuāls komerciāls paziņojums, kurā iekļauti produkti, pakalpojumi vai to preču zīmes, vai atsauces uz attiecīgajiem produktiem, pakalpojumiem vai to preču zīmēm un kurš tiek demonstrēts raidījumā par samaksu vai citu atlīdzību;
+17) programma - elektroniskā plašsaziņas līdzekļa veidots raidījums vai raidījumu kopums ar kopēju nosaukumu;
+18) programmu izplatīšana - programmu nogādāšana līdz raidīšanas tehniskajiem līdzekļiem un raidīšana publiskai uztveršanai atklāta vai aizsargāta pakalpojuma veidā, izmantojot publiskos elektronisko sakaru tīklus;
+19) publiska uztveršana - iespēja uztvert elektroniskā plašsaziņas līdzekļa izplatīto programmu vai raidījumu katalogu bez atlīdzības vai par atlīdzību jebkurā vietā attiecīgās programmas izplatīšanas publisko elektronisko sakaru tīkla aptveršanas zonā;
+20) radio veikala skatlogs - radio veikals, kura ilgums pārsniedz 15 minūtes;
+21) radio veikals - tiešs sabiedrībai adresēts audio paziņojums nolūkā piedāvāt par atlīdzību preces, tai skaitā nekustamo īpašumu vai pakalpojumus, tiesības un pienākumus;
+22) raidījums - audio vai audiovizuāls darbs, kas veido atsevišķu vienību programmā vai raidījumu katalogā. Raidījums ir atdalīts no kopējās programmas ar izlaiduma datiem;
+23) raidīšana - programmu izplatīšana publiskai uztveršanai. Šis termins neietver pakalpojumus pēc pieprasījuma;
+24) raidlaiks - diennakts laika posms, kurā elektroniskais plašsaziņas līdzeklis izplata programmu noteiktā teritorijā;
+25) raidstunda - laika posms, kas ilgst no katras attiecīgās diennakts pilnas stundas pirmās minūtes līdz pēdējai minūtei, to ieskaitot;
+26) reklāma - jebkurš paziņojums, kas tiek izplatīts par samaksu vai citu atlīdzību, kā arī ar tirdzniecību, uzņēmējdarbību, amatu vai profesiju saistīts jebkuras personas raidījums, kas tiek veidots reklāmas nolūkā, lai veicinātu preču, tai skaitā nekustamā īpašuma vai pakalpojumu, tiesību un pienākumu, piedāvājumu par samaksu vai citu atlīdzību, kā arī politiskā reklāma;
+27) reklāmas klips - reklāmas sižets, kura ilgums nepārsniedz 90 sekundes;
+28) retranslācija - Latvijā vai ārvalstīs izplatītas programmas uztveršana un tūlītēja pilnīga vai daļēja izplatīšana citā publiskā elektronisko sakaru tīklā, neizdarot programmā vai raidījuma saturā nekādus grozījumus. Par satura grozījumiem nav uzskatāma programmas vai raidījuma tulkošana (dublējot vai subtitrējot), ja tā izdarīta ar programmas tiesību turētāja piekrišanu;
+29) sabiedriskais pasūtījums - sabiedrībai paredzēts plašs un daudzveidīgs programmu kopums, kuru finansē un uzrauga sabiedrība;
+30) satelīttelevīzija un satelītradio - programmu un raidījumu izplatīšana, izmantojot satelītu;
+31) slēpts audio un audiovizuāls elektroniskā plašsaziņas līdzekļa komerciāls paziņojums - preču, pakalpojumu, nosaukumu, preču zīmju, preču ražotāja vai pakalpojumu sniedzēja darbību atveidojums vārdu vai attēlu veidā, ja šādu atveidojumu elektroniskais plašsaziņas līdzeklis ir apzināti iecerējis kā audio vai audiovizuālu komerciālu paziņojumu, bet tas varētu maldināt sabiedrību par šā paziņojuma būtību. Šāds atveidojums jo īpaši uzskatāms par apzināti iecerētu, ja tā izvietošana notiek par samaksu vai citu atlīdzību;
+32) sponsorēšana - jebkuras apraides veikšanā vai audio un audiovizuālu darbu, programmas vai raidījuma veidošanā neiesaistītas personas ieguldījums elektronisko plašsaziņas līdzekļu vai raidījumu finansēšanā, lai popularizētu savu nosaukumu, preču zīmi, tēlu, darbību vai ražojumu;
+33) televīzijas veikala skatlogs - televīzijas veikals, kura ilgums pārsniedz 15 minūtes;
+34) televīzijas veikals - tiešs sabiedrībai adresēts audiovizuāls paziņojums nolūkā piedāvāt par samaksu vai citu atlīdzību preces, tai skaitā nekustamo īpašumu vai pakalpojumus, tiesības un pienākumus;
+35) virtuālā reklāma - reklāma, kas tiek elektroniski izvietota uz kadra attēla raidījuma laikā;
+36) zemes raidītājs - raidītājs, kas pārraida elektronisko plašsaziņas līdzekļu programmas un raidījumus, izplatot signālu ar antenas palīdzību bez mākslīga vadītāja jebkuru tādu radiosakaru nodrošināšanai, kuri nav izplatījuma radiosakari vai radioastronomija;
+37) zemes stacija - uz zemes virsmas izvietota elektronisko sakaru tīkla galastacija elektronisko plašsaziņas līdzekļu programmu un raidījumu nogādāšanai līdz raidīšanas tehniskajiem līdzekļiem, kas atrodas izplatījumā.

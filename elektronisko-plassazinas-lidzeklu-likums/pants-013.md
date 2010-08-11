@@ -1,0 +1,5 @@
+13.pants. Elektronisko plašsaziņas līdzekļu programmu izplatīšanas nodrošināšana
+(1) Valsts akciju sabiedrības "Latvijas Valsts radio un televīzijas centrs" uzdevums ir nodrošināt to elektronisko plašsaziņas līdzekļu radio programmu izplatīšanu analogajā formātā, kuriem nav savu tehnisko izplatīšanas līdzekļu. Šis noteikums neattiecas uz kabeļradio un satelītradio darbību, kā arī uz zemes apraidi ciparformātā.
+(2) Valsts akciju sabiedrība "Latvijas Valsts radio un televīzijas centrs" nodrošina sabiedriskā elektroniskā plašsaziņas līdzekļa radio programmu izplatīšanu valsts teritorijā analogajā formātā.
+(3) Šā likuma 72.pantā noteiktā komersanta uzdevums ir nodrošināt to elektronisko plašsaziņas līdzekļu televīzijas programmu izplatīšanu ciparformātā, kuriem nav savu tehnisko izplatīšanas līdzekļu. Šis noteikums neattiecas uz kabeļtelevīzijas un satelīttelevīzijas darbību.
+(4) Valsts akciju sabiedrība "Latvijas Valsts radio un televīzijas centrs" nodrošina savu infrastruktūru šā likuma 72.pantā noteiktajam komersantam elektronisko plašsaziņas līdzekļu programmu zemes apraidei ciparformātā.

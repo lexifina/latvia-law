@@ -1,0 +1,1 @@
+17. Šā likuma 71.panta otrā daļa piemērojama no 2012.gada 1.janvāra. Līdz 2011.gada 31.decembrim attiecībā uz sabiedriskā pasūtījuma izpildītājiem ir piemērojams tiesiskais regulējums, kāds attiecībā uz nacionālā pasūtījuma izpildītājiem bija noteikts šo pārejas noteikumu 1.punktā minētā Radio un televīzijas likuma 56.pantā.

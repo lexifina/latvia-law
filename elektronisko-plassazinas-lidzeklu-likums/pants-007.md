@@ -1,0 +1,4 @@
+7.pants. Nekomerciālie elektroniskie plašsaziņas līdzekļi
+(1) Nekomerciālo elektronisko plašsaziņas līdzekļu darbības mērķis nav peļņas gūšana, un to sniegtais pakalpojums ir paredzēts konkrētai auditorijai ar kopējām interesēm.
+(2) Nekomerciālo elektronisko plašsaziņas līdzekļu pakalpojumā vai programmā aizliegta citu elektronisko plašsaziņas līdzekļu programmu un raidījumu retranslācija, kā arī audio un audiovizuālu komerciālu paziņojumu izplatīšana.
+(3) Nekomerciālais elektroniskais plašsaziņas līdzeklis, kas izmanto savus pakalpojuma vai programmas izplatīšanas līdzekļus, drīkst izplatīt citu elektronisko plašsaziņas līdzekļu veidotās programmas vai raidījumus, saņemot attiecīgā komerciālā vai nekomerciālā elektroniskā plašsaziņas līdzekļa atļauju un iepriekš saskaņojot to ar Nacionālo elektronisko plašsaziņas līdzekļu padomi.

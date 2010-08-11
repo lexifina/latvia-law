@@ -1,0 +1,1 @@
+10. Šo pārejas noteikumu 7. un 8.punkts nav attiecināms uz tiem elektroniskajiem plašsaziņas līdzekļiem, kuri nodibināti pēc šā likuma spēkā stāšanās dienas. Šādu elektronisko plašsaziņas līdzekļu programmu zemes apraide nodrošināma ciparformātā.

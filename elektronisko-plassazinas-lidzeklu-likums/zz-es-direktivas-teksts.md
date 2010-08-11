@@ -1,0 +1,1 @@
+Šajā likumā ir iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2010.gada 10.marta direktīvas 2010/13/ES par to, lai koordinētu dažus dalībvalstu normatīvajos un administratīvajos aktos paredzētus noteikumus par audiovizuālo mediju pakalpojumu sniegšanu (Audiovizuālo mediju pakalpojumu direktīva).

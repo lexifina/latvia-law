@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Radio un televīzijas likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 20.nr.; 1996, 22.nr.; 1997, 11., 23.nr.; 1998, 24.nr.; 1999, 5., 22., 24.nr.; 2001, 6.nr.; 2002, 22.nr.; 2003, 12.nr.; 2005, 2.nr.; 2009, 2., 3., 21.nr.; Latvijas Vēstnesis, 2009, 193.nr.).

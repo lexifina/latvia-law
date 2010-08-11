@@ -1,0 +1,2 @@
+49.pants. Elektronisko plašsaziņas līdzekļu tiesības uz informāciju
+Visiem Eiropas Savienības dalībvalstu vai Eiropas konvencijas par pārrobežu televīziju dalībvalstu jurisdikcijā esošajiem elektroniskajiem plašsaziņas līdzekļiem, lai tie varētu veidot un izplatīt īsas ziņu reportāžas, kuru raidlaiks nepārsniedz 90 sekundes, tiek nodrošināta brīva piekļuve signālam plašai sabiedrībai paredzētiem, vispārēju interesi izraisošiem pasākumiem, kurus ekskluzīvā kārtā pārraida Latvijas jurisdikcijā esošs elektroniskais plašsaziņas līdzeklis.

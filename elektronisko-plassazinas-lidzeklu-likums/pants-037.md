@@ -1,0 +1,3 @@
+37.pants. Audio un audiovizuālu komerciālu paziņojumu ierobežojumi attiecībā uz zālēm, ārstnieciskajiem līdzekļiem un ārstniecisko palīdzību
+(1) Ir aizliegti audio un audiovizuāli komerciāli paziņojumi attiecībā uz Latvijā vai atbilstoši Eiropas Zāļu aģentūras centralizētajai zāļu reģistrācijas procedūrai nereģistrētām zālēm, kā arī neatļautiem ārstnieciskajiem līdzekļiem un neatļautu ārstniecisko palīdzību.
+(2) Ir aizliegti audio un audiovizuāli komerciāli paziņojumi attiecībā uz Latvijā tikai pēc ārsta receptes vai norādījuma pieejamām zālēm, ārstnieciskajiem līdzekļiem un ārstniecisko palīdzību.
