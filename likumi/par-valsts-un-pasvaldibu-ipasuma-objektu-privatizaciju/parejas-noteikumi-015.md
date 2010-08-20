@@ -1,0 +1,1 @@
+15. Ministru kabinetam ir tiesības ne vēlāk kā līdz 2010.gada 15.novembrim pieņemt lēmumu par valsts akciju sabiedrības "Privatizācijas aģentūra" pamatkapitāla palielināšanu piecu miljonu latu apmērā no tiem naudas līdzekļiem, kas atbilstoši šā likuma 6.panta trešās daļas noteikumiem ieskaitīti valsts akciju sabiedrības "Privatizācijas aģentūra" rezerves fonda veidošanai.
