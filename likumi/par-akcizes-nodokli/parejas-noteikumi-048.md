@@ -1,0 +1,1 @@
+48. Valsts budžetā prognozētie ieņēmumi no akcīzes nodokļa dabasgāzei laikā no 2010.gada 1.septembra līdz 2010.gada 31.decembrim kompensējami ar pievienotās vērtības nodokļa ieņēmumu pieaugumu dabasgāzes tarifu palielināšanās rezultātā 2010 gadā.

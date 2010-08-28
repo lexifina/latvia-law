@@ -1,0 +1,3 @@
+47. Laikā no 2010.gada 1.septembra līdz 2011.gada 30.jūnijam šā likuma 1.panta otrās daļas 1.punktu attiecībā uz dabasgāzi, 2.panta 7.¹ daļu, 6.¹ pantu, 7.panta 5.punktu attiecībā uz dabasgāzi, 15.¹ pantu, 22.panta sesto daļu, 23.panta divdesmito daļu un 24.panta pirmo daļu attiecībā uz dabasgāzi nepiemēro, bet nodokļa maksātājs līdz 2010.gada 15.septembrim iesniedz Valsts ieņēmumu dienestam akcīzes nodokļa deklarāciju par dabasgāzi un samaksā nodokli par 2010.gada augustu, piemērojot:
+1) Ministru kabineta 2010.gada 29.jūnija noteikumus Nr.577 "Noteikumi par dabasgāzes apriti un akcīzes nodokļa piemērošanas kārtību";
+2) Ministru kabineta 2010.gada 30.marta noteikumus Nr.300 "Noteikumi par akcīzes nodokļa deklarācijas veidlapām un to aizpildīšanas kārtību".
