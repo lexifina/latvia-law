@@ -14,3 +14,4 @@
 2. Pirms darbinieka ienākuma aplikšanas ar algas nodokli no mēneša ienākuma apjoma tiek atskaitīti šā panta pirmās daļas 1., 5. un 6.punktā minētie maksājumi.
 3. No nerezidentu apliekamā ienākuma ir tiesības atskaitīt tikai šā panta pirmās daļas 1., 3., 4., 5. un 6.punktā minētos attaisnotos izdevumus.
 4. Nerezidentam, kurš ir citas Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts rezidents un taksācijas gadā Latvijā guvis vairāk nekā 75 procentus no saviem kopējiem ienākumiem, nepiemēro šā panta trešo daļu.
+5. Šā panta pirmās daļas 1., 2., 5. un 6.punktā minētos izdevumus nepiemēro mikrouzņēmuma - mikrouzņēmumu nodokļa maksātāja - darbinieka ienākumam no mikrouzņēmuma. Šā panta pirmajā daļā minētos izdevumus nepiemēro saimnieciskās darbības ienākumam, par kuru tiek maksāta patentmaksa vai fiksētais ienākuma nodoklis.

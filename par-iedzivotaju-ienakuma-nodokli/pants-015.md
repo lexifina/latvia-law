@@ -7,3 +7,4 @@
 5. Fiksētā ienākuma nodokļa apmēru nosaka saskaņā ar šā likuma pielikumu.
 6. Patentmaksas apmērs atkarībā no saimnieciskās darbības jomas, par kurām maksātājs var veikt patentmaksu, ir no 30 līdz 120 latiem mēnesī.
 7. Šā likuma 3.panta trešās daļas 9.¹ punktā un 8.panta trešās daļas 15.punktā minētajam ienākumam tiek piemērota 10 procentu likme.
+8. Mikrouzņēmuma darbinieka vai mikrouzņēmuma īpašnieka ienākumam piemēro nodokļa likmi atbilstoši Mikrouzņēmumu nodokļa likumam.

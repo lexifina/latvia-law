@@ -22,6 +22,7 @@
 9) no komersantiem, kooperatīvajām sabiedrībām, individuālajiem uzņēmumiem, zemnieku vai zvejnieku saimniecībām, iestādēm, organizācijām, biedrībām un nodibinājumiem saņemtie dāvinājumi, kā arī no fiziskās personas - saimnieciskās darbības veicējas - saņemtie dāvinājumi, ko izmaksājusi fiziskā persona saimnieciskās darbības ietvaros;
 10) pensijas neatkarīgi no to izmaksas avota;
 11) ienākumi no nekustamā īpašuma atsavināšanas un citu kapitāla aktīvu atsavināšanas ienākums atbilstoši šā likuma 11.⁹ pantam, ja šā likuma 9.pantā nav noteikts citādi;
+11¹) citi ienākumi no kapitāla, kas nav minēti šīs daļas 11., 12., 13., 18. un 20.punktā;
 12) dividendes;
 13) procentu ienākumi un tiem pielīdzināmie ienākumi, arī ar procentu ienākumu saistītie ienākumi;
 14) nekustamā īpašuma vērtības pieaugums vai tā daļa, kura iegūta, beidzoties nomas līgumam, un kuru nodrošināja iznomātajā īpašumā nomnieka veiktie rekonstrukcijas, restaurācijas, renovācijas, uzlabošanas vai citi kapitālie ieguldījumi, ja minēto pieaugumu vai tā daļu maksātājs nav kompensējis nomniekam;
