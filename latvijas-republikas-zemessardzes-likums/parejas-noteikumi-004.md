@@ -1,0 +1,1 @@
+4. Līdz šā likuma spēkā stāšanās dienai ar zemessargiem noslēgtie beztermiņa līgumi par dienestu Zemessardzē ir spēkā līdz 2015.gada 1.janvārim. Atbilstoši šā likuma 4.panta trešajai daļai līgumi tiek pārslēgti no 2010.gada 1.oktobra līdz 2015.gada 1.janvārim.

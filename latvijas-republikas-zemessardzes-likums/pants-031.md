@@ -1,0 +1,3 @@
+31.pants. Zemessarga iesaistīšana Nacionālo bruņoto spēku komandiera noteikto objektu apsardzē
+(1) Ja dienestam tas nepieciešams, Zemessardze papildus šā likuma 4.panta otrajā daļā minētajam līgumam par dienestu Zemessardzē uz noteiktu laiku, bet ne īsāku par gadu, var slēgt ar zemessargu līgumu par Zemessardzes vienības štatu sarakstā iekļauta amata pienākumu pildīšanu, lai nodrošinātu Nacionālo bruņoto spēku komandiera noteikto objektu apsardzi. Līguma saturu un slēgšanas kārtību nosaka aizsardzības ministrs.
+(2) Zemessargs, kurš veic apsardzes uzdevumus, nav atbrīvots no pienākuma piedalīties Zemessardzes apmācībā.

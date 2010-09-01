@@ -1,0 +1,1 @@
+6. Līdz 2011.gada 31.decembrim, aprēķinot atalgojumu un kompensāciju zemessargiem (izņemot starptautiskajās operācijās vai ātrās reaģēšanas spēkos iesaistītos zemessargus), par pamatu tiek ņemta karavīru bāzes alga izdienas pirmajā gadā.

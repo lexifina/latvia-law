@@ -1,0 +1,1 @@
+3. Līdz ar šā likuma stāšanos spēkā Zemessardzes veterāni, kuri vēlas arī turpmāk veikt šā likuma 44.pantā noteiktos uzdevumus, saglabā veterāna statusu, bet līdz 2010.gada 1.oktobrim tiek izslēgti no Zemessardzes štatu sarakstiem.

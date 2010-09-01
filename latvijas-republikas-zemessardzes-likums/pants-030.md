@@ -1,0 +1,3 @@
+30.pants. Materiālo vērtību nodošana
+(1) Ja zemessargs tiek atstādināts no amata, aptur dienestu vai tiek izbeigts ar viņu noslēgtais līgums par dienestu Zemessardzē, viņš aizsardzības ministra noteiktajā kārtībā nodod amata pagaidu izpildītājam visus savā rīcībā esošos dienesta dokumentus un valsts mantu. Ja amata pagaidu izpildītājs nav iecelts, no amata atstādinātais zemessargs visus savā rīcībā esošos dienesta dokumentus un valsts mantu nodod tiešajam komandierim.
+(2) Ja zemessargs ir miris, gājis bojā vai pazudis bez vēsts, viņa mantinieki nodod Zemessardzei viņu valdījumā esošās zemessargam izsniegtās materiālās vērtības.
