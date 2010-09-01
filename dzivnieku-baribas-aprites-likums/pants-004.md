@@ -1,3 +1,2 @@
-4.pants. (1) Barības marķējumam jābūt labi redzamam, salasāmam un neizdzēšamam.
-(2) Par barības marķējuma kvalitāti atbild tās ražotājs, izņemot gadījumu, kad barības iepakotājs vai izplatītājs ir pilnvarots mainīt produkta oriģinālo iepakojumu vai marķējumu. Šāda pilnvarojuma gadījumā par barības marķējuma kvalitāti atbild attiecīgi barības iepakotājs vai izplatītājs.
-(3) Latvijā atļauts laist tirgū tikai Ministru kabineta noteiktajā kārtībā marķētu barību.
+4.pants. (1) Barību atļauts laist tirgū, ja tā ir marķēta, uzglabāta un iepakota Eiropas Parlamenta un Padomes regulā Nr. 767/2009 noteiktajā kārtībā.
+(2) Barības sastāvdaļu kategorijas, kuras norāda mājas (istabas) dzīvnieku barības maisījumu marķējumā, nosaka Ministru kabinets.

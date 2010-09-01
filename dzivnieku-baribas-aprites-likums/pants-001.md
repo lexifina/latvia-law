@@ -1,10 +1,11 @@
 1.pants. Likumā ir lietoti šādi termini:
-1) barības sastāvdaļa - neapstrādāts, svaigs vai konservēts augu vai dzīvnieku izcelsmes produkts, rūpnieciskās pārstrādes blakusprodukts vai organiska vai neorganiska viela ar vai bez piedevām, kuru izmanto dzīvnieku barošanai, dzīvnieku barības maisījumu gatavošanai vai kā premiksu papildvielu;
-2) barības maisījums - barības sastāvdaļu maisījums, kas satur vai arī nesatur barības piedevas un ir paredzēts dzīvnieku barošanai kā pilnvērtīga barība vai papildbarība;
-3) pilnvērtīga barība - barības maisījums, kura sastāvs apmierina dzīvnieka diennakts vajadzības pēc barības vielām atbilstoši tā sugai, vecumam, produktivitātei un fizioloģiskajam stāvoklim;
-4) papildbarība - barības piedevu vai premiksu maisījums ar barības sastāvdaļām, kuru drīkst izmantot dzīvnieku barošanai tikai kopā ar citu barību un kura koncentrācija pilnvērtīgā barībā ir lielāka nekā 20 kilogrami tonnā;
-5) diētiskā barība - pilnvērtīga barība vai papildbarība, kas apmierina specifiskas dzīvnieku vajadzības pēc atsevišķām barības vielām, ja dzīvniekiem ir īslaicīgi vai neatgriezeniski traucēti vielmaiņas un citi fizioloģiskie procesi;
+1) (izslēgts ar 12.07.2010. likumu);
+2) (izslēgts ar 12.07.2010. likumu);
+3) pilnvērtīga barība - kompleksā barība Eiropas Parlamenta un Padomes 2009.gada 13.jūlija regulas (EK) Nr. 767/2009 par barības laišanu tirgū un lietošanu un ar ko groza Eiropas Parlamenta un Padomes regulu (EK) Nr. 1831/2003 un atceļ Padomes direktīvu 79/373/EEK, Komisijas direktīvu 80/511/EEK, Padomes direktīvas 82/471/EEK, 83/228/EEK, 93/74/EEK, 93/113/EK un 96/25/EK un Komisijas lēmumu 2004/217/EK (dokuments attiecas uz EEZ) (turpmāk - Eiropas Parlamenta un Padomes regula Nr. 767/2009) 3.panta 2.punkta "i" apakšpunktā minētās definīcijas izpratnē;
+4) (izslēgts ar 12.07.2010. likumu);
+5) diētiskā barība - barība, kas paredzēta īpašiem barošanas mērķiem Eiropas Parlamenta un Padomes regulas Nr. 767/2009 3.panta 2.punkta "o" apakšpunktā minētās definīcijas izpratnē;
 6) ārstnieciskais premikss - veterinārās zāles, kas sagatavotas ārstnieciskās barības ražošanai;
 7) ārstnieciskā barība - ārstniecisko premiksu un barības maisījums, kas sagatavots dzīvnieku barošanai un paredzēts ārstēšanai vai profilaksei;
 8) barības apritē iesaistītā persona - tiesību subjekts Eiropas Parlamenta un Padomes 2002.gada 28.janvāra regulas (EK) Nr. 178/2002, ar ko paredz pārtikas aprites tiesību aktu vispārīgus principus un prasības, izveido Eiropas Pārtikas nekaitīguma iestādi un paredz procedūras saistībā ar pārtikas nekaitīgumu, 3.panta 6.punktā minētās definīcijas izpratnē;
-9) barības apritē iesaistītais uzņēmums - tiesību subjekts Eiropas Parlamenta un Padomes 2002.gada 28.janvāra regulas (EK) Nr. 178/2002, ar ko paredz pārtikas aprites tiesību aktu vispārīgus principus un prasības, izveido Eiropas Pārtikas nekaitīguma iestādi un paredz procedūras saistībā ar pārtikas nekaitīgumu, 3.panta 5.punktā minētās definīcijas izpratnē.
+9) barības apritē iesaistītais uzņēmums - tiesību subjekts Eiropas Parlamenta un Padomes 2002.gada 28.janvāra regulas (EK) Nr. 178/2002, ar ko paredz pārtikas aprites tiesību aktu vispārīgus principus un prasības, izveido Eiropas Pārtikas nekaitīguma iestādi un paredz procedūras saistībā ar pārtikas nekaitīgumu, 3.panta 5.punktā minētās definīcijas izpratnē;
+10) mājas (istabas) dzīvnieks - lolojumdzīvnieks Eiropas Parlamenta un Padomes regulas Nr. 767/2009 3.panta 2.punkta "f" apakšpunktā minētās definīcijas izpratnē.
