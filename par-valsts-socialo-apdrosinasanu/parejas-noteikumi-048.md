@@ -1,0 +1,1 @@
+48. Personām, kuras līdz 2010.gada 1.septembrim ir veikušas obligātās iemaksas no šā likuma 14.panta 2.¹ daļā noteiktajiem maksājumiem, ir tiesības izvēlēties neveikt obligātās iemaksas par periodu no 2010.gada 1.janvāra līdz 31.augustam.
