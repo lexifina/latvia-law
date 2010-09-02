@@ -10,4 +10,5 @@ Nodokļus administrē šādas institūcijas:
 8) muitas nodokli un citus līdzvērtīgus maksājumus - Valsts ieņēmumu dienests;
 9) valsts sociālās apdrošināšanas obligātās iemaksas - Valsts ieņēmumu dienests;
 10) vieglo automobiļu un motociklu nodokli - Valsts ieņēmumu dienests un Ceļu satiksmes drošības direkcija atbilstoši likumam "Par vieglo automobiļu un motociklu nodokli" un saskaņā ar to izdotajiem Ministru kabineta noteikumiem;
-11) elektroenerģijas nodokli - Valsts ieņēmumu dienests.
+11) elektroenerģijas nodokli - Valsts ieņēmumu dienests;
+12) mikrouzņēmumu nodokli - Valsts ieņēmumu dienests.
