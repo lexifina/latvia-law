@@ -1,0 +1,1 @@
+24. Šā likuma 36.panta jaunā redakcija, 38.panta 1.¹ daļa un grozījumi 42.pantā attiecībā uz vārdu un skaitļa "lauku apvidū, kur 5" aizstāšanu ar vārdiem un skaitli "novadā, novada pilsētā vai novada pagastā, kur iedzīvotāju skaits nepārsniedz 4000 un piecu" stājas spēkā 2011.gada 1.janvārī.

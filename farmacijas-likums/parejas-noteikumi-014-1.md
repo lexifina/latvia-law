@@ -1,0 +1,1 @@
+14.¹ Aptiekām, kuras saņēmušas licenci aptiekas atvēršanai (darbībai), kuras derīguma termiņš beidzas līdz 2010.gada 31.decembrim, un kuru darbība neatbilst šā likuma 36.panta prasībām, ir tiesības saņemt licences termiņa pagarinājumu līdz 2011.gada 31.decembrim.
