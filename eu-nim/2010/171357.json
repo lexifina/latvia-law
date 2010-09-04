@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sabiedrisko pakalpojumu sniedzēju iepirkumu likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "140",
+  "official_journal_page": null,
+  "official_journal_date": "2010-09-03",
+  "entry_into_force": "2010-09-04",
+  "notification_date": "2010-09-03",
+  "commission_reference": "MNE(2010)55619",
+  "nim_celex": "72005L0051LVA_171357",
+  "nim_id": "171357",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/b0466724-5103-4f5b-af1e-cc432f2d7480",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
