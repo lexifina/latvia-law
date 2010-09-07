@@ -1,0 +1,1 @@
+17. Lietas par zaudējumu atlīdzināšanu tiesvedības kārtībā, kuru izskatīšana uzsākta, bet nav pabeigta līdz 2010.gada 6.septembrim, pabeidz izskatīt atbilstoši tiem normatīvajiem aktiem, kas bija spēkā līdz 2010.gada 6.septembrim.

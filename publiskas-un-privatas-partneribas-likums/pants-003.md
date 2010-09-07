@@ -1,6 +1,6 @@
 3.pants. Likuma piemērošanas izņēmumi
 (1) Šo likumu koncesijas līgumiem nepiemēro, ja koncesijas līgumu slēdz atbilstoši citiem normatīvajiem aktiem un to slēgšanas tiesības piešķir saskaņā ar:
-1) starptautisku nolīgumu, ko atbilstoši Eiropas Kopienas dibināšanas līgumam noslēgusi Eiropas Savienības dalībvalsts ar vienu vai vairākām valstīm, kas nav Eiropas Savienības dalībvalstis, par būvdarbiem vai pakalpojumiem saistībā ar nolīgumu parakstījušo valstu piedalīšanos kāda kopīga pasākuma īstenošanā vai tā rezultātu izmantošanā. Publiskais partneris par visiem šādiem nolīgumiem paziņo Eiropas Komisijai;
+1) starptautisku nolīgumu, ko atbilstoši Eiropas Savienības normatīvajiem aktiem noslēgusi Eiropas Savienības dalībvalsts ar vienu vai vairākām valstīm, kas nav Eiropas Savienības dalībvalstis, par būvdarbiem vai pakalpojumiem saistībā ar nolīgumu parakstījušo valstu piedalīšanos kāda kopīga pasākuma īstenošanā vai tā rezultātu izmantošanā. Publiskais partneris par visiem šādiem nolīgumiem paziņo Eiropas Komisijai;
 2) starptautisku nolīgumu, kas attiecas uz karaspēka izvietošanu un Eiropas Savienības dalībvalsts uzņēmumiem vai tādas valsts uzņēmumiem, kura nav Eiropas Savienības dalībvalsts;
 3) kādas starptautiskas organizācijas īpašu procedūru.
 (2) Šo likumu nepiemēro, ja:

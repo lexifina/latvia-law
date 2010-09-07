@@ -1,0 +1,1 @@
+12. Šā likuma 37.panta pirmās daļas 5.punkta nosacījums, kas stājas spēkā 2010.gada 7.septembrī, ir attiecināms arī uz tām koncesijas procedūrām, kuras izsludinātas līdz 2010.gada 6.septembrim, ja vien pretendents nav izslēgts no dalības koncesijas procedūrā līdz 2010.gada 6.septembrim.

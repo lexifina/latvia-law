@@ -1,0 +1,1 @@
+15. Šā likuma 31.panta jaunā redakcija, kas stājas spēkā 2010.gada 7.septembrī, netiek piemērota, ja pieteikums par Iepirkumu uzraudzības biroja iesniegumu izskatīšanas komisijas pieņemtā lēmuma pārsūdzēšanu iesniegts tiesā līdz 2010.gada 6.septembrim.

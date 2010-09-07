@@ -1,0 +1,1 @@
+13. Grozījums šā likuma 20.panta pirmajā daļā, 53.¹ pants un 29.panta otrās daļas 3.punkts, kas regulē brīvprātīgu paziņojumu par koncesijas procedūras rezultātiem, kā arī 31.² panta otrā daļa stājas spēkā 2010.gada 1.oktobrī.

@@ -22,7 +22,7 @@ e) atbildība un riski tiek dalīti starp publisko partneri un privāto partneri
 15) publiskais partneris - kā publiskais partneris var būt viens vai vairāki šādi subjekti:
 a) valsts kā sākotnējā publisko tiesību juridiskā persona,
 b) atvasināta publisko tiesību juridiskā persona,
-c) publiskā institūcija vai publiskās institūcijas uzņēmums likuma "Par iepirkumu sabiedrisko pakalpojumu sniedzēju vajadzībām" izpratnē,
+c) publiskā institūcija vai publiskās institūcijas uzņēmums Sabiedrisko pakalpojumu sniedzēju iepirkumu likuma izpratnē,
 d) šā panta 16.punktā minētā juridiskā persona kā publiskais partneris;
 16) juridiskā persona kā publiskais partneris - kapitālsabiedrība vai cita privāto tiesību juridiskā persona, kas vienlaikus atbilst šā punkta "a" apakšpunktam un "b" vai "c" apakšpunktam:
 a) tā ir nodibināta vai darbojas, lai nodrošinātu sabiedrības vispārīgās vajadzības, kurām nav komerciāla vai rūpnieciska rakstura,

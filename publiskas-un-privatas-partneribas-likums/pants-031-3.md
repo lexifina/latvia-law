@@ -1,0 +1,10 @@
+31.³ pants. Tiesas spriedums par koncesijas līgumu
+(1) Ja tiesa konstatē, ka koncesijas līgums noslēgts, pārkāpjot šā likuma normas, un secina, ka pieteikums ir apmierināms, tā, ievērojot šā likuma nosacījumus, pati izvēlas vienu no šādiem sprieduma veidiem:
+1) atzīst koncesijas līgumu par spēkā neesošu no noslēgšanas brīža;
+2) groza vai atceļ koncesijas līguma noteikumus. Pieņemot šo spriedumu, tiesa papildus saīsina koncesijas līguma termiņu;
+3) saīsina koncesijas līguma termiņu.
+(2) Tiesa, taisot spriedumu, nav ierobežota ar pieteikuma iesniedzēja norādīto pieteikuma priekšmetu un prasījuma robežām.
+(3) Tiesa, izvēloties šā panta pirmās daļas 1. vai 2.punktā minēto sprieduma veidu, izvērtē, kurš no tiem konkrētajā gadījumā ir pietiekami samērīgs, iedarbīgs un preventīvs, lai nodrošinātu, ka turpmāk publiskais partneris vai publiskā partnera pārstāvis nepieļaus šā likuma pārkāpumus. Šā panta pirmās daļas 3.punktā minēto spriedumu tiesa pieņem tikai šā panta ceturtajā un piektajā daļā minētajos gadījumos.
+(4) Tiesa nepieņem šā panta pirmās daļas 1. vai 2.punktā minēto spriedumu, ja sabiedrības interešu dēļ ir būtiski saglabāt koncesijas līguma radītās sekas. Finansiālās sekas (piemēram, izmaksas izpildes kavējuma, izpildītāja maiņas, sankciju vai citu juridisko saistību dēļ) vien nav uzskatāmas par pietiekamu pamatu šā panta pirmās daļas 1. vai 2.punktā minētā sprieduma nepieņemšanai.
+(5) Ja koncesijas līgums noslēgts, neievērojot šā likuma 54.pantā noteikto termiņu vai pārkāpjot šā likuma 29.panta piektajā daļā noteikto aizliegumu slēgt koncesijas līgumu, un tiek konstatēts, ka koncesijas procedūra līdz brīdim, kad pieņemts lēmums par uzvarētāja noteikšanu, ir veikta saskaņā ar šā likuma prasībām un minētais lēmums nav ietekmējis tā pretendenta izredzes iegūt līguma slēgšanas tiesības, kurš iesniedzis pieteikumu, tiesa pieņem šā panta pirmās daļas 2. vai 3.punktā minēto spriedumu.
+(6) Tiesa sprieduma norakstu nosūta Iepirkumu uzraudzības birojam.
