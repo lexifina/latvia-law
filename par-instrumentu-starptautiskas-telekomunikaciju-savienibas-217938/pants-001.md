@@ -1,0 +1,1 @@
+1.pants. 2006.gada 24.novembra Instruments Starptautiskās telekomunikāciju savienības konstitūcijas grozīšanai (turpmāk - Konstitūcijas grozījumi) un 2006.gada 24.novembra Instruments Starptautiskās telekomunikāciju savienības konvencijas grozīšanai (turpmāk - Konvencijas grozījumi) ar šo likumu tiek pieņemts un apstiprināts.
