@@ -1,0 +1,1 @@
+3.pants. Atlikušā zemesgabala un piešķirtā zemesgabala robežu grafiskā attēlojuma sastādīšanai izmanto Nekustamā īpašuma valsts kadastra informācijas sistēmas telpiskos datus par zemesgabala konfigurāciju saskaņā ar zemes vienības kadastra apzīmējumu 36680050006 robežu shēmu (likuma 1.pielikums) un zemes vienības kadastra apzīmējumu 36680050014 robežu shēmu (likuma 2.pielikums).

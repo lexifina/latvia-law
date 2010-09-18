@@ -1,0 +1,3 @@
+4.pants. (1) Valsts zemes dienests reģistrē atlikušā zemesgabala zemes robežu plānu Nekustamā īpašuma valsts kadastra informācijas sistēmā un, pamatojoties uz šo likumu, iesniedz zemesgrāmatu nodaļai nostiprinājuma lūgumu tiesību pārgrozīšanai.
+(2) Nekustamā īpašuma īpašnieks reģistrē piešķirtā zemesgabala zemes robežu plānu Nekustamā īpašuma valsts kadastra informācijas sistēmā un, pamatojoties uz šo likumu, iesniedz zemesgrāmatu nodaļai nostiprinājuma lūgumu nekustamā īpašuma ierakstīšanai zemesgrāmatā.
+(3) Par šā panta pirmajā un otrajā daļā minēto darbību veikšanu zemesgrāmatu kancelejas nodeva un valsts nodeva netiek iekasēta.
