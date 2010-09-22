@@ -1,0 +1,1 @@
+1.pants. 2010.gada 28.janvārī Minskā parakstītā Latvijas Republikas valdības, Baltkrievijas Republikas valdības un Krievijas Federācijas valdības vienošanās par Latvijas Republikas, Baltkrievijas Republikas un Krievijas Federācijas valsts robežu krustpunkta noteikšanu (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.

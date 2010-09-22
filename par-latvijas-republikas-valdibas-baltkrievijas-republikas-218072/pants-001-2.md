@@ -1,0 +1,4 @@
+1. pants
+1. Latvijas Republikas, Baltkrievijas Republikas un Krievijas Federācijas valsts robežu krustpunkts (turpmāk - robežu krustpunkts) atrodas uz Zilupes (Sinjuha) upes un tajā ietekošās Ņevericas (Neverica) upes viduslīniju krustpunkta, aptuveni 0,1 km uz dienvidiem no kurgāna ar nosaukumu "Draudzības kurgāns".
+2. Robežu krustpunkta atrašanās vieta ir norādīta Latvijas Republikas, Baltkrievijas Republikas un Krievijas Federācijas valsts robežu krustpunkta rajona Kartē ar mērogu 1:10000, kuru paraksta Puses un kas ir šīs Vienošanās neatņemama sastāvdaļa.
+3. Zilupes (Sinjuha) un Ņevericas upes gultņu dabisku izmaiņu gadījumā Latvijas Republikas, Baltkrievijas Republikas un Krievijas Federācijas valsts robežu krustpunkta rajonā, robežu krustpunkta atrašanās vieta nemainās līdz brīdim, kamēr Puses nav vienojušās citādi.
