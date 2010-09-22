@@ -1,0 +1,4 @@
+21. pants - Atrunas
+1. Jebkura valsts parakstīšanas brīdī vai sava ratifikācijas, pieņemšanas, apstiprināšanas vai pievienošanās dokumenta deponēšanas brīdī var noteikt, ka tai ir tiesības uz vienu vai vairākām atrunām attiecībā uz 6. pantu un 10. panta 1. punkta "a" apakšpunktu. Citas atrunas nepiemēro.
+2. Jebkura dalībvalsts, kas ir izdarījusi atrunu saskaņā ar iepriekšējo punktu, var to pilnīgi vai daļēji atsaukt ar Eiropas Padomes ģenerālsekretāram adresētu paziņojumu. Atsaukums stājas spēkā tajā dienā, kurā ģenerālsekretārs šo paziņojumu saņem.
+3. Dalībvalsts, kas ir izdarījusi atrunu attiecībā uz šīs konvencijas noteikumu, nevar pieprasīt, lai attiecīgo noteikumu piemēro cita dalībvalsts; tomēr tā var, ja tās atruna ir daļēja vai ar nosacījumu, prasīt attiecīgā noteikuma piemērošanu, ciktāl pati to ir akceptējusi.

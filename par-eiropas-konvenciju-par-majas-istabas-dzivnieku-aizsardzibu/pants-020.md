@@ -1,0 +1,4 @@
+20. pants - Teritoriālās piemērošanas klauzula
+1. Jebkura valsts, parakstot šo konvenciju vai iesniedzot dokumentu par ratifikāciju, pieņemšanu, apstiprināšanu vai pievienošanos, var noteikt teritoriju vai teritorijas, kurās Konvencija ir piemērojama.
+2. Jebkura dalībvalsts vēlāk ar ģenerālsekretāram adresētu deklarāciju var paplašināt šīs konvencijas piemērošanu citām teritorijām, kas norādītas deklarācijā. Šajās teritorijās Konvencija stājas spēkā mēneša pirmajā dienā pēc tam, kad pagājuši seši mēneši no dienas, kurā ģenerālsekretārs saņēmis minēto deklarāciju.
+3. Deklarācija, kas nosūtīta saskaņā ar 1. un 2. punktu, attiecībā uz tajā norādītajām teritorijām jebkurā laikā var tikt atsaukta ar ģenerālsekretāram adresētu paziņojumu. Atsaukums stājas spēkā mēneša pirmajā dienā pēc tam, kad pagājuši seši mēneši no dienas, kurā ģenerālsekretārs šo paziņojumu saņem.
