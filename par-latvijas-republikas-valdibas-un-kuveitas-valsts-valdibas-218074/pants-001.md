@@ -1,0 +1,1 @@
+1.pants. 2009.gada 9.novembrī parakstītā Latvijas Republikas valdības un Kuveitas Valsts valdības konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem (turpmāk - Konvencija) un tās 2009.gada 9.novembrī parakstītais protokols (turpmāk - Protokols) ar šo likumu tiek pieņemti un apstiprināti.

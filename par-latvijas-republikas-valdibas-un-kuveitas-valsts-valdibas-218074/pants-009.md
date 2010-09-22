@@ -1,0 +1,7 @@
+9.pants
+SAISTĪTIE UZŅĒMUMI
+1. Ja:
+a) Līgumslēdzējas Valsts uzņēmums tieši vai netieši piedalās otras Līgumslēdzējas Valsts uzņēmuma vadībā vai kontrolē vai arī tam pieder daļa no šī uzņēmuma kapitāla, vai
+b) vienas un tās pašas personas tieši vai netieši piedalās Līgumslēdzējas Valsts uzņēmuma un otras Līgumslēdzējas Valsts uzņēmuma vadībā vai kontrolē vai arī tām pieder daļa no šo uzņēmumu kapitāla,
+un jebkurā no šiem gadījumiem šo divu uzņēmumu komerciālās vai finanšu attiecības tiek veidotas vai nodibinātas pēc noteikumiem, kas atšķiras no tiem noteikumiem, kuri būtu spēkā starp diviem neatkarīgiem uzņēmumiem, tad jebkura peļņa, ko gūtu viens no uzņēmumiem, bet iepriekšminēto noteikumu ietekmē nav guvis, var tikt iekļauta šī uzņēmuma peļņā, un tai var atbilstoši uzlikt nodokļus.
+2. Ja Līgumslēdzēja Valsts iekļauj šīs valsts uzņēmuma peļņā un attiecīgi uzliek nodokļus tai peļņai, attiecībā uz ko otrā valstī otras Līgumslēdzējas Valsts uzņēmumam ir uzlikts nodoklis, un šī iekļautā peļņa ir tāda peļņa, ko būtu guvis pirmās Līgumslēdzējas Valsts uzņēmums, ja attiecības starp šiem diviem uzņēmumiem būtu bijušas tādas, kādas pastāvētu starp diviem neatkarīgiem uzņēmumiem, tad otra valsts veic atbilstošas korekcijas attiecībā uz nodokļa lielumu, kāds tiek uzlikts šai peļņai otrā valstī. Nosakot šīs korekcijas, ņem vērā citus šīs Konvencijas noteikumus un, ja nepieciešams, rīko Līgumslēdzēju Valstu kompetento iestāžu konsultācijas.

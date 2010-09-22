@@ -1,0 +1,4 @@
+21.pants
+STUDENTI
+1. Maksājumiem, ko uzturēšanās, studiju vai stažēšanās vajadzībām saņem students, māceklis vai stažieris, kurš ir vai tieši pirms ierašanās Līgumslēdzējā Valstī bija otras Līgumslēdzējas Valsts rezidents un kurš pirmajā minētajā valstī ir ieradies vienīgi studiju vai stažēšanās nolūkā, šajā valstī netiek uzlikti nodokļi, ja šādi maksājumi ir no avotiem, kas neatrodas šajā valstī.
+2. Attiecībā uz maksājumiem, kas nav atrunāti 1.daļā, un attiecībā uz atlīdzību par atkarīgiem individuāliem pakalpojumiem, kas sniegti studiju vai stažēšanās laikā, studentam, māceklim vai stažierim ir tiesības uz tādiem pašiem ienākuma nodokļu atbrīvojumiem, atvieglojumiem vai samazinājumiem, kādi ir pieejami tās Līgumslēdzējas Valsts rezidentiem, kuru viņš apmeklē studiju vai stažēšanās nolūkā.

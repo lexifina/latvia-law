@@ -1,0 +1,5 @@
+17.pants
+MĀKSLINIEKI UN SPORTISTI
+1. Neatkarīgi no 14. un 15.panta noteikumiem ienākumam, ko gūst Līgumslēdzējas Valsts rezidents kā izpildītājmākslinieks, piemēram, teātra, kino, radio vai televīzijas mākslinieks vai mūziķis, vai arī kā sportists par savu individuālo darbību otrā Līgumslēdzējā Valstī, var uzlikt nodokļus šajā otrā valstī.
+2. Ja izpildītājmākslinieka vai sportista ienākums par viņa individuālo darbību attiecīgajā jomā tiek maksāts nevis pašam izpildītājmāksliniekam vai sportistam, bet citai personai, šādam ienākumam neatkarīgi no 7., 14. un 15.panta noteikumiem var uzlikt nodokļus tajā Līgumslēdzējā Valstī, kurā tiek veikta izpildītājmākslinieka vai sportista darbība.
+3. 1. un 2.daļas noteikumi netiek piemēroti ienākumam, ko izpildītājmākslinieks vai sportists guvis par Līgumslēdzējā Valstī veiktu individuālo darbību, ja šīs valsts apmeklējums pilnībā vai galvenokārt ir atbalstīts no vienas vai abu Līgumslēdzēju Valstu vai pašvaldību līdzekļiem. Šādā gadījumā ienākumam tiek uzlikti nodokļi tikai tajā Līgumslēdzējā Valstī, kuras rezidents ir šis izpildītājmākslinieks vai sportists.
