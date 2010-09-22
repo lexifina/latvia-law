@@ -1,0 +1,2 @@
+4.pants. (1) Jaunievēlēto Rojas novada domi un jaunievēlēto Mērsraga novada domi uz pirmo sēdi sasauc likumā noteiktajā kārtībā un termiņā, bet ne agrāk par 2011.gada 3.janvāri. Abas jaunievēlētās domes uz pirmo sēdi sasaucamas un sanāk vienā dienā.
+(2) Līdz brīdim, kad uz sēdi sanāk katra jaunievēlētā dome, Rojas novada administratīvajā teritorijā un Mērsraga novada administratīvajā teritorijā turpina darboties 2009.gada pašvaldību domju vēlēšanās ievēlētā Rojas novada dome un abās administratīvajās teritorijās spēkā ir arī tās izdotie tiesību akti.

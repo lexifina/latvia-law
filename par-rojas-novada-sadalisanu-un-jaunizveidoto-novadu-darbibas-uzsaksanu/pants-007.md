@@ -1,0 +1,2 @@
+7.pants. (1) Jaunizveidotā Rojas novada pašvaldība un jaunizveidotā Mērsraga novada pašvaldība darbojas tajās administratīvajās teritorijās, kurās Rojas novadu veidojošās bijušās attiecīgo pagastu pašvaldības darbojās līdz Rojas novada pašvaldības darbības uzsākšanai 2008.gada 14.jūlijā.
+(2) Jaunievēlētās Rojas novada domes un jaunievēlētās Mērsraga novada domes pilnvaras izbeidzas ar brīdi, kad uz pirmo sēdi sanāk 2013.gada pašvaldību domju vēlēšanās ievēlētā attiecīgā novada dome. Likumā noteiktajos gadījumos domes pilnvaras var tikt izbeigtas arī pirms šā termiņa.

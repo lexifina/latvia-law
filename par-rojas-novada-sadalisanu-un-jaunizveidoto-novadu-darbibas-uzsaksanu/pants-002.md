@@ -1,0 +1,1 @@
+2.pants. Rojas novada domes un Mērsraga novada domes vēlēšanas notiek 2010.gada 18.decembrī. Centrālā vēlēšanu komisija izsludina šīs vēlēšanas Rojas novada teritoriālajās vienībās - Rojas pagastā un Mērsraga pagastā - ne vēlāk kā piektajā dienā pēc šā likuma stāšanās spēkā.
