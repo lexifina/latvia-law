@@ -1,0 +1,5 @@
+6.² pants. Valsts nekustamā īpašuma pārvaldīšana
+(1) Valsts nekustamā īpašuma pārvaldīšana ir šā īpašuma valdītāja uzdevums, kas ietver pienākumu nodrošināt nekustamā īpašuma lietošanu un uzturēšanu (fizisku saglabāšanu visā tā ekspluatācijas laikā) atbilstoši normatīvo aktu prasībām un veicināt tā uzlabošanu.
+(2) Valsts nekustamā īpašuma valdītājs šā īpašuma pārvaldīšanu nodrošina tieši vai pastarpināti, uzdodot pārvaldīšanas darbības veikt savā padotībā esošai iestādei vai valsts kapitālsabiedrībai, kuras pamatdarbības veids ir nekustamā īpašuma pārvaldīšana. Ministru kabinets nosaka pārvaldīšanas darbību uzdošanas kārtību, kā arī atsevišķas valsts nekustamā īpašuma pārvaldīšanas darbības, kuras var uzdot veikt citām valsts iestādēm vai privāto tiesību subjektiem.
+(3) Valsts nekustamā īpašuma pārvaldīšanas principus un kārtību, kā arī kārtību, kādā apkopojama informācija par valsts nekustamā īpašuma pārvaldīšanu, nosaka Ministru kabinets.
+(4) Šā panta trešās daļas noteikumus nepiemēro attiecībā uz valsts īpašumu, kas nodots ostas pārvaldes valdījumā, kā arī citos gadījumos, ko nosaka Ministru kabinets.

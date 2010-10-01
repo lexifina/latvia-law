@@ -1,0 +1,2 @@
+5.¹ pants. Noteikumi par kapitālsabiedrības mantas nodošanu bezatlīdzības lietošanā
+Papildus citiem gadījumiem, kad atbilstoši šā likuma 3.panta noteikumiem kapitālsabiedrības mantas nodošanu bezatlīdzības lietošanā var uzskatīt par lietderīgu, kapitālsabiedrības mantu var nodot bezatlīdzības lietošanā arī pašvaldībai, valsts vai pašvaldības iestādei, kā arī citai kapitālsabiedrībai vai citai personai tai deleģēto valsts pārvaldes uzdevumu pildīšanai vai valsts vai pašvaldības pakalpojumu sniegšanai.
