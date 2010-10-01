@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2010.gada 10.augusta noteikumi Nr.749 \"Apmācības kārtība darba aizsardzības jautājumos\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "128",
+  "official_journal_page": null,
+  "official_journal_date": "2010-08-13",
+  "entry_into_force": "2010-10-01",
+  "notification_date": "2025-12-16",
+  "commission_reference": "MNE(2025)07040",
+  "nim_celex": "72023L2668LVA_202507040",
+  "nim_id": "202507040",
+  "transposes_celex": [
+    "32023L2668"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ae256f3e-a912-41d9-95a7-504bdb7ce473",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
