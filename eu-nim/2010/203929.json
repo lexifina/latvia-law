@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Apmācības kārtība darba aizsardzības jautājumos",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "128 (4320)",
+  "official_journal_page": null,
+  "official_journal_date": "2010-08-13",
+  "entry_into_force": "2010-10-01",
+  "notification_date": "2013-05-08",
+  "commission_reference": "MNE(2013)53373",
+  "nim_celex": "72010L0032LVA_203929",
+  "nim_id": "203929",
+  "transposes_celex": [
+    "32010L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9a0ac3f8-a8eb-4a20-832e-2455201a08f3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
