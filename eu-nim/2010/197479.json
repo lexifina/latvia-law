@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2010.gada 28.septembra noteikumi Nr. 907 „Noteikumi par dzīvojamās mājas apsekošanu, tehnisko apkopi, kārtējo remontu un energoefektivitātes minimālajam prasībām”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "156 (4348)",
+  "official_journal_page": null,
+  "official_journal_date": "2010-10-01",
+  "entry_into_force": "2010-10-02",
+  "notification_date": "2012-11-01",
+  "commission_reference": "MNE(2012)55952",
+  "nim_celex": "72010L0031LVA_197479",
+  "nim_id": "197479",
+  "transposes_celex": [
+    "32010L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b81b0e39-2e13-4c2c-8d86-5903554890cb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
