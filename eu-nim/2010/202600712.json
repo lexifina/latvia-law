@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2010. gada 28. septembra noteikumi Nr. 905 \"Kārtība, kādā tiek plānotas un organizētas ar dzīvojamās mājas renovāciju un rekonstrukciju saistītās darbības\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "156",
+  "official_journal_page": null,
+  "official_journal_date": "2010-10-01",
+  "entry_into_force": "2010-10-02",
+  "notification_date": "2026-01-22",
+  "commission_reference": "MNE(2026)00712",
+  "nim_celex": "72023L1791LVA_202600712",
+  "nim_id": "202600712",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0be86ca9-720d-495c-b7ba-10ba25f46c4b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
