@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2010.gada 14.septembra  noteikumi Nr.873 „Noteikumi par vilces līdzekļa vadītāja (mašīnista) kvalifikācijas un vilces līdzekļa vadīšanas tiesību iegūšanu”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "160 (4352)",
+  "official_journal_page": null,
+  "official_journal_date": "2010-10-08",
+  "entry_into_force": "2010-10-09",
+  "notification_date": "2015-07-29",
+  "commission_reference": "MNE(2015)55582",
+  "nim_celex": "72014L0082LVA_228758",
+  "nim_id": "228758",
+  "transposes_celex": [
+    "32014L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9aae3ab6-fbf3-4e89-a5a5-16fb69f636be",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
