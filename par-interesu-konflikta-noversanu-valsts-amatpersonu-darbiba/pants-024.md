@@ -13,4 +13,6 @@
 11) informāciju par tās izsniegtajiem aizdevumiem (to summu), ja šo aizdevumu kopējais apmērs pārsniedz 20 minimālās mēnešalgas;
 12) citu informāciju, kuru tā vēlas norādīt deklarācijā.
 (2) Šā panta pirmajā daļā noteiktās ziņas deklarācijā norādāmas gan attiecībā uz Latviju, gan uz ārvalstīm.
+(2¹) Valsts ieņēmumu dienests elektroniskās deklarēšanas sistēmā nodrošina, ka deklarācijas aizpildītājam ir pieejama valsts informācijas sistēmās esošā konkrētās deklarācijas aizpildīšanai nepieciešamā informācija. Valsts amatpersona pārbauda un, ja nepieciešams, arī precizē un papildina šo informāciju. Ministru kabinets nosaka, kurās valsts informācijas sistēmās esošā informācija un kādā apjomā ir pieejama, aizpildot deklarāciju elektroniskās deklarēšanas sistēmā.
 (3) Ministru kabinets nosaka pārskata periodu, par kuru iesniedzama deklarācija, kā arī tās aizpildīšanas, iesniegšanas, reģistrēšanas un glabāšanas kārtību.
+(4) Deklarācijā sniegtās informācijas pilnīgumu un patiesumu deklarācijas iesniedzējs apstiprina ar parakstu un norāda deklarācijas aizpildīšanas datumu.
