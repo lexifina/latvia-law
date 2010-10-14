@@ -8,7 +8,7 @@
 6) savas kompetences ietvaros veicina pārvadātāju efektīvu un racionālu darbību;
 7) (izslēgts ar 23.11.2000. likumu);
 8) informējot Sabiedrisko pakalpojumu regulēšanas komisiju, izskata publiskās lietošanas dzelzceļa infrastruktūras pārvaldītāja un pārvadātāju domstarpības par infrastruktūras jaudas sadali un piekļuvi publiskās lietošanas dzelzceļa infrastruktūrai, par tīkla pārskatu un tajā ietvertajiem kritērijiem, kā arī par diskriminējošiem nosacījumiem infrastruktūras lietošanā un pieņem abām pusēm saistošus lēmumus;
-9) uzrauga dzelzceļa kravu pārvadājumu tirgu un atbilstoši savai kompetencei sekmē konkurenci dzelzceļa pārvadājumu jomā;
+9) uzrauga dzelzceļa kravu pārvadājumu tirgu un sekmē konkurenci dzelzceļa kravu pārvadājumu jomā. Pamatojoties uz sūdzību vai, ja nepieciešams, pēc savas iniciatīvas izlemj, kādi pasākumi veicami, lai kravu pārvadājumu tirgū novērstu nevēlamās tendences attiecībā uz visu pārvadātāju vienlīdzības principa nodrošināšanu;
 10) izstrādā dzelzceļa vides aizsardzības politiku, ko apstiprina satiksmes ministrs, izstrādā un apstiprina rīcības programmu un uztur vides aizsardzības paškontroles sistēmu;
 11) izvērtē apdraudējumu, ko dzelzceļa infrastruktūra rada cilvēku veselībai un videi, un veic nepieciešamos šā apdraudējuma samazināšanas pasākumus;
 12) veic infrastruktūras reģistrāciju;

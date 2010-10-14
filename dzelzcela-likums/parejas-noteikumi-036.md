@@ -1,0 +1,1 @@
+36. Sabiedrisko pakalpojumu regulēšanas komisija līdz 2011.gada 30.jūnijam nosaka šā likuma 12.panta 2.¹ daļā minēto maksas par publiskās lietošanas dzelzceļa infrastruktūras izmantošanu piemērošanas kārtību un maksas par publiskās lietošanas dzelzceļa infrastruktūras izmantošanu norēķinu kārtību.
