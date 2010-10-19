@@ -1,0 +1,1 @@
+8. Šā likuma 4.panta otrās, sestās, septītās un astotās daļas noteikumi neattiecas uz deputātiem, kuri ievēlēti 2009.gada pašvaldību domju vēlēšanās. Lai nodrošinātu valsts valodas prasmes apguvi deputātiem, kuri ievēlēti 2009.gada pašvaldību domju vēlēšanās, piemērojami šā likuma 4.panta trešās, ceturtās un piektās daļas noteikumi.
