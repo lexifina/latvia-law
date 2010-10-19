@@ -4,10 +4,10 @@
 2) dzīvojamās mājas renovācijai, ja tās tehniskais stāvoklis normatīvajos aktos noteiktajā kārtībā atzīts par bīstamu cilvēku dzīvībai vai veselībai;
 3) tādas dzīvojamās mājas renovācijai, kurā jālikvidē terora akta, avārijas, stihiskas nelaimes vai citas katastrofas sekas;
 4) energoefektivitātes pasākumu veikšanai dzīvojamā mājā.
-(1¹) Laika periodā no 2008.gada līdz 2010.gadam šā panta pirmās daļas 4.punktā minētā palīdzība tiek sniegta dzīvokļu īpašniekiem, ja:
+(1¹) Laika periodā no 2008.gada līdz 2013.gadam šā panta pirmās daļas 4.punktā minētā palīdzība tiek sniegta dzīvokļu īpašniekiem, ja:
 1) daudzdzīvokļu dzīvojamās mājas kopējā platība ir lielāka par 300 kvadrātmetriem, bet tajā esošo neapdzīvojamo telpu platība nepārsniedz 25 procentus no dzīvojamās mājas kopējās platības;
 2) daudzdzīvokļu dzīvojamās mājas kopīpašumā esošās daļas pārvaldīšanai un apsaimniekošanai izveidota dzīvokļu īpašnieku sabiedrība vai Civillikumā noteiktajā kārtībā noslēgts savstarpējs līgums par mājas kopīpašumā esošās daļas pārvaldīšanu un apsaimniekošanu;
-3) vienai personai pieder ne vairāk kā puse no dzīvojamā mājā esošajiem dzīvokļa īpašumiem.
+3) vienai personai pieder ne vairāk kā puse no dzīvojamā mājā esošajiem dzīvokļu īpašumiem. Norādītais sadalījuma apjoms neattiecas uz valstij un pašvaldībām piederošajiem dzīvokļu īpašumiem.
 (2) Pašvaldība var sniegt palīdzību dzīvojamās mājas īpašniekam (īpašniekiem) vai dzīvokļu īpašniekiem, piešķirot finansējumu šādiem mērķiem:
 1) par valsts nozīmes kultūras pieminekli atzītas dzīvojamās mājas restaurācijai;
 2) dzīvojamās mājas renovācijai, ja tās tehniskais stāvoklis normatīvajos aktos noteiktajā kārtībā atzīts par bīstamu cilvēku dzīvībai vai veselībai;
