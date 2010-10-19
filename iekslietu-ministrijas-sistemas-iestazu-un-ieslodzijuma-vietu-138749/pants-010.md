@@ -4,4 +4,5 @@ Atbildību par disciplinārpārkāpumu pastiprina šādi apstākļi:
 2) amatpersonas tīša disciplinārpārkāpuma dēļ valstij vai personai nodarīts būtisks mantisks zaudējums vai būtisks kaitējums;
 3) amatpersona disciplinārpārkāpumu izdarījusi, izmantojot stihisku nelaimi vai citus ārkārtējus apstākļus;
 4) amatpersona disciplinārpārkāpumu izdarījusi, jau būdama disciplināri sodīta;
-5) amatpersona disciplinārpārkāpumu izdarījusi alkohola, narkotisko, psihotropo, toksisko vai citu apreibinošu vielu ietekmē vai reibumā.
+5) amatpersona disciplinārpārkāpumu izdarījusi alkohola, narkotisko, psihotropo, toksisko vai citu apreibinošu vielu ietekmē vai reibumā;
+6) amatpersona izdarījusi tādu disciplinārpārkāpumu, par kuru pēdējā gada laikā tai jau ir izteikts aizrādījums.
