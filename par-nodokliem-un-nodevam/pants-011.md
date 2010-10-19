@@ -71,7 +71,7 @@
 56) par Elektronisko sakaru likumā noteiktajām radiofrekvenču spektra lietošanas tiesībām (ikgadējā nodeva);
 57) par Elektronisko sakaru likumā noteiktajām numerācijas resursu lietošanas tiesībām (ikgadējā nodeva);
 58) par Ģerboņu likumā noteikto ģerboņu reģistrāciju;
-59) par zemes kadastrālā uzmērītāja sertifikāta izsniegšanu vai sertifikāta darbības termiņa pagarināšanu;
+59) par ģeodēzisko, zemes ierīcības vai zemes kadastrālās uzmērīšanas darbu sertifikāta izsniegšanu vai sertifikāta darbības termiņa pagarināšanu;
 60) par zemes dzīļu izmantošanas licences izsniegšanu;
 61) par bieži sastopamo derīgo izrakteņu ieguves atļaujas izsniegšanu;
 62) par derīgo izrakteņu atradnes pases izsniegšanu;
