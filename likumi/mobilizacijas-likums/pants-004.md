@@ -18,5 +18,5 @@
 2) Nacionālo bruņoto spēku un civilās aizsardzības formējumu mobilizāciju;
 3) pasākumus tautsaimniecības pārorientēšanai no miera laika apstākļiem uz darbu valsts apdraudējuma gadījumā;
 4) iedzīvotāju normētu apgādi ar pārtiku, rūpniecības un medicīniskajām precēm, nodrošināšanu ar neatliekamo medicīnisko palīdzību, sakaru, transporta un citiem pakalpojumiem valsts apdraudējuma gadījumā;
-5) Nacionālo bruņoto spēku, Valsts ugunsdzēsības un glābšanas dienesta, Valsts policijas, Valsts robežsardzes, Katastrofu medicīnas centra un mobilizējamo civilās aizsardzības formējumu nodrošināšanu ar energoresursiem valsts apdraudējuma gadījumā;
+5) Nacionālo bruņoto spēku, Valsts ugunsdzēsības un glābšanas dienesta, Valsts policijas, Valsts robežsardzes, Neatliekamās medicīniskās palīdzības dienesta un mobilizējamo civilās aizsardzības formējumu nodrošināšanu ar energoresursiem valsts apdraudējuma gadījumā;
 6) plašsaziņas līdzekļu darba nodrošināšanu valsts apdraudējuma gadījumā.

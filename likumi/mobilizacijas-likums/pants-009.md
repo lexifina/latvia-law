@@ -29,11 +29,11 @@ c) valsts un pašvaldību institūciju uzdevumus un pienākumus iedzīvotāju no
 a) tās pirmās nepieciešamības preces, ar kurām nodrošināmi iedzīvotāji valsts apdraudējuma gadījumā,
 b) nodrošinājuma ar pirmās nepieciešamības precēm plānošanas, kā arī pirmās nepieciešamības preču izsniegšanas un izsniegšanas kontroles kārtību valstī,
 c) valsts un pašvaldību institūciju uzdevumus un pienākumus iedzīvotāju nodrošināšanā ar pirmās nepieciešamības precēm;";
-7) par Nacionālo bruņoto spēku, Valsts ugunsdzēsības un glābšanas dienesta, Valsts policijas, Valsts robežsardzes, Katastrofu medicīnas centra un mobilizējamo civilās aizsardzības formējumu nodrošināšanu ar energoresursiem valsts apdraudējuma gadījumā, nosakot:
+7) par Nacionālo bruņoto spēku, Valsts ugunsdzēsības un glābšanas dienesta, Valsts policijas, Valsts robežsardzes, Neatliekamās medicīniskās palīdzības dienesta un mobilizējamo civilās aizsardzības formējumu nodrošināšanu ar energoresursiem valsts apdraudējuma gadījumā, nosakot:
 a) kārtību apgādei ar gāzi un elektroenerģiju,
 b) degvielas rezervju apjomu, to veidošanas, uzturēšanas un atjaunošanas kārtību,
 c) mobilizācijas pieprasījumu plānošanas, izpildes un izpildes kontroles kārtību nodrošināšanai ar degvielu,
-d) valsts un pašvaldību institūciju uzdevumus un pienākumus Nacionālo bruņoto spēku, Valsts ugunsdzēsības un glābšanas dienesta, Valsts policijas, Valsts robežsardzes, Katastrofu medicīnas centra un mobilizējamo civilās aizsardzības formējumu nodrošināšanā ar degvielu;
+d) valsts un pašvaldību institūciju uzdevumus un pienākumus Nacionālo bruņoto spēku, Valsts ugunsdzēsības un glābšanas dienesta, Valsts policijas, Valsts robežsardzes, Neatliekamās medicīniskās palīdzības dienesta un mobilizējamo civilās aizsardzības formējumu nodrošināšanā ar degvielu;
 8) (izslēgts ar 20.05.2004. likumu);
 9) par neatliekamās medicīniskās palīdzības nodrošināšanu un pretepidēmijas pasākumiem, medikamentu nodrošinājuma sistēmas sagatavošanu un darbu valsts apdraudējuma gadījumā, nosakot:
 a) neatliekamās medicīniskās palīdzības apjomu iedzīvotājiem un Nacionālo bruņoto spēku karavīriem un tās sniegšanas organizāciju,
