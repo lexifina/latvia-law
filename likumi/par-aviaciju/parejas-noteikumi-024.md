@@ -1,0 +1,1 @@
+24. Ministru kabinets līdz 2011.gada 30.martam izdod šā likuma 70.panta pirmajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2011.gada 30.martam piemērojami Ministru kabineta 2003.gada 25.novembra noteikumi Nr.660 "Noteikumi par civilās aviācijas nelaimes gadījumu un incidentu izmeklēšanu", ciktāl tie nav pretrunā ar šo likumu.

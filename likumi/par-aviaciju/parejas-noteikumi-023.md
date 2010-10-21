@@ -1,0 +1,1 @@
+23. Ministru kabinets līdz 2010.gada 30.novembrim izdod šā likuma 82.panta otrajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2010.gada 30.novembrim piemērojami Ministru kabineta 2006.gada 21.februāra noteikumi Nr.158 "Speciālo aviācijas darbu licencēšanas kārtība", ciktāl tie nav pretrunā ar šo likumu.
