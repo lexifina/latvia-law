@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta noteikumi Nr.983 \"Noteikumi par izlietotā iepakojuma reģenerācijas procentuālo apjomu, reģistrēšanas un ziņojumu sniegšanas kārtību un iepakojuma definīcijas kritēriju piemērošanas piemēriem\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "167(4359)",
+  "official_journal_page": null,
+  "official_journal_date": "2010-10-21",
+  "entry_into_force": "2010-10-22",
+  "notification_date": "2013-08-29",
+  "commission_reference": "MNE(2013)57583",
+  "nim_celex": "72013L0002LVA_208745",
+  "nim_id": "208745",
+  "transposes_celex": [
+    "32013L0002"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2e57f37b-57e1-455f-a925-db9a302d4dc7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
