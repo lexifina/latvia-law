@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Pirotehnisko izstrādājumu aprites likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "162 (4354)",
+  "official_journal_page": null,
+  "official_journal_date": "2010-10-13",
+  "entry_into_force": "2010-10-27",
+  "notification_date": "2015-07-29",
+  "commission_reference": "MNE(2015)55591",
+  "nim_celex": "72014L0058LVA_228767",
+  "nim_id": "228767",
+  "transposes_celex": [
+    "32014L0058"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/473d3fe1-dfa5-45ac-92d5-708cd8ca2fe3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
