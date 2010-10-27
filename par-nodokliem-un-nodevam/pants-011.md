@@ -122,4 +122,5 @@
 106) par atļaujas izsniegšanu komersantam tirdzniecībai ar mājas (istabas) dzīvniekiem;
 107) par speciālās atļaujas (licences) augu aizsardzības līdzekļu izplatīšanai izsniegšanu un pārreģistrāciju;
 108) par atzinuma par ūdens apgādes sistēmā konstatēto apdraudējumu cilvēku veselībai un veiktajiem korektīvajiem pasākumiem sagatavošanu;
-109) par Enerģētikas likumā noteikto drošības rezervju uzturēšanu.
+109) par Enerģētikas likumā noteikto drošības rezervju uzturēšanu;
+110) par pirotehniķa sertifikāta, tā dublikāta un atkārtota sertifikāta izsniegšanu.
