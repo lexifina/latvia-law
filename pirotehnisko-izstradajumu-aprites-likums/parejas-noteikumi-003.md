@@ -1,0 +1,1 @@
+3. Šā likuma 4.panta trešās daļas, 10. un 11.panta, 19.panta pirmās daļas un 22.panta normas neattiecas uz pirotehniskajiem izstrādājumiem, kas ievesti Latvijas Republikā pirms šā likuma spēkā stāšanās.

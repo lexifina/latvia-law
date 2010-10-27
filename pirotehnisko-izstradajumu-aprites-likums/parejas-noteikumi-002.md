@@ -1,0 +1,1 @@
+2. Šā likuma 4.panta trešās daļas, 10. un 11.panta, 19.panta pirmās daļas un 22.panta normas attiecībā uz citiem P1 un P2 klases pirotehniskajiem izstrādājumiem, 4.klases uguņošanas ierīcēm un skatuves pirotehniskajiem izstrādājumiem ir spēkā no 2013.gada 4.jūlija.

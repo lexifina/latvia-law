@@ -1,0 +1,1 @@
+4. Speciālās atļaujas (licences) un reģistrācijas apliecības komercdarbībai ar pirotehniskajiem izstrādājumiem, kuras izsniegtas pirms šā likuma pieņemšanas, ir spēkā līdz to derīguma termiņa beigām, bet ne ilgāk kā līdz 2017.gada 23.maijam.

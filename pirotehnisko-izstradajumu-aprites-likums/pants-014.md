@@ -1,0 +1,2 @@
+14.pants. Uguņošanas ierīču un skatuves pirotehnisko izstrādājumu ražošanas, glabāšanas, pārnēsāšanas, pārvadāšanas, realizācijas, komercizstāžu rīkošanas un demonstrēšanas (izmantošanas), kā arī pirotehnisko pakalpojumu sniegšanas kārtība
+Uguņošanas ierīču un skatuves pirotehnisko izstrādājumu glabāšanas un realizācijas kārtību un ierobežojumus, ražošanas, pārnēsāšanas, pārvadāšanas, komercizstāžu rīkošanas un demonstrēšanas (izmantošanas) kārtību, kā arī pirotehnisko pakalpojumu sniegšanas kārtību nosaka Ministru kabinets.
