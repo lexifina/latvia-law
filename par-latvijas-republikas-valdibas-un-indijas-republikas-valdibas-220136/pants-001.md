@@ -1,0 +1,1 @@
+1.pants. 2010.gada 18.februārī Deli parakstītais Latvijas Republikas valdības un Indijas Republikas valdības līgums par ieguldījumu veicināšanu un aizsardzību (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
