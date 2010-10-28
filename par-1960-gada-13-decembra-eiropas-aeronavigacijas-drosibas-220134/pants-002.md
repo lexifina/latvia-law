@@ -1,0 +1,1 @@
+2.pants. Konvencijā, Papildprotokolā, Papildprotokola Grozījumu protokolā, Konvencijas Grozījumu protokolā, Nolīgumā, 1997.gada 27.jūnija Protokolā un 2002.gada 8.oktobra Protokolā paredzēto saistību izpildi koordinē Satiksmes ministrija.

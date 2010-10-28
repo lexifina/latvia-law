@@ -1,0 +1,1 @@
+11.pants. Ikgadējo maksu par dalību Eiropas Aeronavigācijas drošības organizācijā (Eirokontrolē) sedz valsts akciju sabiedrība "Latvijas gaisa satiksme", iekļaujot to valsts akciju sabiedrības "Latvijas gaisa satiksme" sniegto pakalpojumu tarifos.

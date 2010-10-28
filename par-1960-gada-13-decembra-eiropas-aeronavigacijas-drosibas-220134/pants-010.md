@@ -1,0 +1,1 @@
+10.pants. Likums stājas spēkā nākamajā dienā pēc tā izsludināšanas. Līdz ar likumu izsludināma Konvencija, Papildprotokols, Papildprotokola Grozījumu protokols, Konvencijas Grozījumu protokols, Nolīgums, 1997.gada 27.jūnija Protokols un 2002.gada 8.oktobra Protokols franču valodā un to tulkojums latviešu valodā.
