@@ -1,0 +1,1 @@
+1.pants. 2010.gada 23.jūnijā Briselē parakstītais Protokols, ar ko groza Protokolu par pārejas noteikumiem, kurš pievienots Līgumam par Eiropas Savienību, Līgumam par Eiropas Savienības darbību un Eiropas Atomenerģijas kopienas dibināšanas līgumam (turpmāk - Protokols), ar šo likumu tiek pieņemts un apstiprināts.
