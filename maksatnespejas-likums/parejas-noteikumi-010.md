@@ -1,0 +1,1 @@
+10. To naudas līdzekļu atlikumu, kuri piešķirti Maksātnespējas administrācijai līdz 2010.gada 31.oktobrim uzsākto maksātnespējas procesu izdevumu un atlīdzības segšanai valsts budžeta un uzņēmējdarbības riska valsts nodevas līdzekļu ietvaros, izlieto līdz 2010.gada 31.oktobrim uzsākto maksātnespējas procesu izdevumu un atlīdzības segšanai nākamajos saimnieciskajos gados.

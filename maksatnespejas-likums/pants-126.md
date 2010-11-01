@@ -1,0 +1,4 @@
+126.pants. Lauksaimniecības produktu ražotāja mantas pārdošanas nosacījumi
+(1) Ja šā likuma 125.pantā paredzētajā kārtībā netiek pārdota lauksaimniecības produktu ražotāja manta kā lietu kopība, šā lauksaimniecības produktu ražotāja mantu var pārdot šajā likumā paredzētajā vispārējā kārtībā.
+(2) Pārdodot lauksaimniecības produktu ražotājam piederošo nekustamo īpašumu, kas tiek izmantots lauksaimniecības produktu ražošanā vai pārstrādē, pirmtiesības pirkt šo īpašumu par sertificēta nekustamā īpašuma vērtētāja noteikto novērtējuma cenu ir lauksaimniecības produktu ražotājam no nekustamā īpašuma atrašanās vietas administratīvās teritorijas.
+(3) Ja šā panta otrajā daļā minēto nekustamo īpašumu vēlas iegādāties vairākas personas, kuras atbilst šā panta otrās daļas nosacījumiem, starp tām tiek rīkota izsole ar augšupejošu soli.

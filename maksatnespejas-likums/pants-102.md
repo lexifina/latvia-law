@@ -1,0 +1,3 @@
+102.pants. Pilnvarojuma līguma, prokūras un parastās komercpilnvaras izbeigšana
+(1) Parādnieka dots uzdevums pilnvarniekam (arī prokūristam un komercpilnvarniekam) attiecībā uz savu mantu, uz kuru vēršami kreditoru prasījumi, zaudē spēku no juridiskās personas maksātnespējas procesa pasludināšanas dienas.
+(2) Ja uzdevuma izpilde ir saistīta ar zaudējuma risku, pilnvarnieks (arī prokūrists un komercpilnvarnieks) var to izpildīt līdz dienai, kad administrators pārņem parādnieka mantu. Attiecībā uz izdevumiem, kas pilnvarniekam (arī prokūristam un komercpilnvarniekam) radušies sakarā ar uzdevuma izpildi, viņš var iesniegt savu kreditora prasījumu administratoram.

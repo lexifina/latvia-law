@@ -1,0 +1,4 @@
+79.pants. Tiesības iepazīties ar kreditoru prasījumu reģistru
+(1) Jebkurai personai, kura ir iesniegusi kreditora prasījumu, Maksātnespējas administrācijai un parādnieka pārstāvim ir tiesības iepazīties ar kreditoru prasījumu reģistru.
+(2) Katram kreditoram, kurš iesniedzis kreditora prasījumu, un parādnieka pārstāvim ir tiesības iepazīties ar kreditoru iesniegtajiem prasījumiem un to pamatotības pierādījumiem, sākot ar astoto dienu pēc kreditoru prasījumu iesniegšanas termiņa beigām.
+(3) Šā panta otrajā daļā noteiktās tiesības var izmantot pret parādnieku citā dalībvalstī uzsāktā Padomes regulas Nr. 1346/2000 3.panta 1.punktā noteiktajā maksātnespējas procedūrā iesaistītais likvidators, bet šīs regulas 3.panta 2.punktā noteiktajā maksātnespējas procedūrā iesaistītais likvidators - tikai tad, ja viņš kreditoru interesēs iesniedzis kreditoru prasījumus.

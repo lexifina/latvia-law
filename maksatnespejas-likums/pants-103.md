@@ -1,0 +1,3 @@
+103.pants. Darba līguma izbeigšana
+(1) Pēc parādnieka maksātnespējas procesa pasludināšanas administratoram ir tiesības uzteikt darba līgumu ar parādnieka darbinieku. Šajā gadījumā par darba līguma uzteikuma tiesisko pamatu uzskatāmi Darba likuma 101.panta pirmās daļas 9. un 10.punkta noteikumi un netiek piemēroti Darba likuma 103.panta pirmās daļas 3.punkta noteikumi par darba līguma uzteikšanas termiņu. Ja darbinieks noslēdzis darba koplīgumu, administratoram ir tiesības nepiemērot tā normas par darba līguma uzteikumu, tajā skaitā ar uzteikumu saistītām izmaksām.
+(2) Juridiskās personas maksātnespējas procesā nepiemēro Darba likuma normas par kolektīvo atlaišanu.

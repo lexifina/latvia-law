@@ -1,0 +1,2 @@
+XXXII nodaļa
+Maksātnespējas administrācijas lēmumu apstrīdēšanas un pārsūdzēšanas kārtība

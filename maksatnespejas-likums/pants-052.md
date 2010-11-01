@@ -1,0 +1,3 @@
+52.pants. Tiesiskās aizsardzības procesa izbeigšanas sekas
+(1) Tiesiskās aizsardzības procesa izbeigšana pēc tiesiskās aizsardzības procesa pasākumu plāna izpildes ir pamats tiesiskās aizsardzības procesā noteikto parādnieka rīcības ierobežojumu un šajā procesā piemērotās metodes izmantošanas izbeigšanai.
+(2) Ja tiesiskās aizsardzības procesa pasākumu plānu šajā likumā noteiktajā kārtībā un termiņā nav atbalstījis šā likuma 42.panta trešajā daļā noteiktais kreditoru vairākums un tiesiskās aizsardzības process tiek izbeigts, šā likuma 37.pantā minētie aizliegumi izbeidzas un apturētā līgumsoda, procentu un nokavējuma naudas summa par neizpildītajām saistībām tiek aprēķināta pilnā apmērā.

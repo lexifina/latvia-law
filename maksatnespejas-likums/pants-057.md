@@ -1,0 +1,11 @@
+57.pants. Juridiskās personas maksātnespējas procesa pazīmes
+Parādniekam piemēro juridiskās personas maksātnespējas procesu, ja ir kāda no šādām juridiskās personas maksātnespējas procesa pazīmēm:
+1) piemērojot piespiedu izpildes līdzekļus, nav bijis iespējams izpildīt tiesas nolēmumu par parāda piedziņu no parādnieka;
+2) parādnieks - sabiedrība ar ierobežotu atbildību vai akciju sabiedrība - nav nokārtojis vienu vai vairākas parādsaistības, no kurām pamatparāda summa atsevišķi vai kopā pārsniedz 3000 latu un kurām ir iestājies izpildes termiņš, un kreditors vai kreditori ir izsnieguši vai nosūtījuši uz parādnieka juridisko adresi sūtītāja apmaksātu brīdinājumu par savu nodomu iesniegt juridiskās personas maksātnespējas procesa pieteikumu, un parādnieks triju nedēļu laikā pēc brīdinājuma nodošanas pasta komersantam nav samaksājis parādu vai nav cēlis pamatotus iebildumus pret prasījumu;
+3) parādnieks - cits šā likuma 56.pantā minētais subjekts - nav nokārtojis vienu vai vairākas parādsaistības, no kurām pamatparāda summa atsevišķi vai kopā pārsniedz 1500 latu un kurām ir iestājies izpildes termiņš, un kreditors vai kreditori ir izsnieguši vai nosūtījuši uz parādnieka juridisko adresi sūtītāja apmaksātu brīdinājumu par savu nodomu iesniegt juridiskās personas maksātnespējas procesa pieteikumu, un parādnieks triju nedēļu laikā pēc brīdinājuma nodošanas pasta komersantam nav samaksājis parādu vai nav cēlis pamatotus iebildumus pret prasījumu;
+4) parādnieks nav pilnībā izmaksājis darbiniekam darba samaksu, kaitējuma atlīdzību sakarā ar nelaimes gadījumu darbā vai arodslimību vai nav veicis sociālās apdrošināšanas obligātās iemaksas divu mēnešu laikā no izmaksai noteiktās dienas. Ja darba līgumā nav noteikta darba samaksas izmaksas diena, uzskatāms, ka šī diena ir nākamā mēneša pirmā darbdiena;
+5) parādnieks nespēj nokārtot parādsaistības, kurām iestājies izpildes termiņš;
+6) saskaņā ar likvidācijas sākuma finanšu pārskatu parādniekam nepietiek aktīvu, lai apmierinātu visus pamatotos kreditoru prasījumus, vai arī šis apstāklis atklājas likvidācijas gaitā;
+7) ir iestājies šā likuma 51.panta otrajā daļā minētais apstāklis;
+8) ir iestājies kāds no šā likuma 51.panta trešajā daļā minētajiem gadījumiem;
+9) ir iestājies šā likuma 51.panta piektajā daļā minētais apstāklis.

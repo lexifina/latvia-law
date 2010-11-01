@@ -1,0 +1,2 @@
+XXII nodaļa
+Individuālo komersantu un personālsabiedrību maksātnespējas procesa īpatnības

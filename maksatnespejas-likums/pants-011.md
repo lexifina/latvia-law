@@ -1,0 +1,2 @@
+11.pants. Tiesiskās aizsardzības procesa, juridiskās personas maksātnespējas procesa un fiziskās personas maksātnespējas procesa izmaksas
+Tiesiskās aizsardzības procesa, juridiskās personas maksātnespējas procesa un fiziskās personas maksātnespējas procesa izmaksas ir maksātnespējas procesa administratora atlīdzība un izdevumi, kas rodas, lai nodrošinātu tiesiskās aizsardzības procesa, juridiskās personas maksātnespējas procesa vai fiziskās personas maksātnespējas procesa likumīgu un efektīvu norisi.

@@ -1,0 +1,1 @@
+8. Šā likuma 28.panta pirmajā daļā noteiktās administratora tiesības pilnvarot citu administratoru uz laiku, kas gadā nepārsniedz 60 dienas, stājas spēkā 2011.gada 1.janvārī. Līdz 2010.gada 31.decembrim administratoram ir tiesības pilnvarot citu administratoru veikt šajā likumā noteiktos pienākumus uz laiku, kas nepārsniedz 10 dienas.

@@ -1,0 +1,1 @@
+5. Tiesiskās aizsardzības procesos un maksātnespējas procesos, kuri uzsākti laika posmā no 2008.gada 1.janvāra līdz 2010.gada 31.oktobrim, tiek piemērotas minētajā laika posmā spēkā esošā Maksātnespējas likuma normas un uz tā pamata izdotie normatīvie akti.

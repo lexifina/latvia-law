@@ -1,0 +1,2 @@
+XXIII nodaļa
+Lauksaimniecības produktu ražotāja maksātnespējas procesa īpatnības

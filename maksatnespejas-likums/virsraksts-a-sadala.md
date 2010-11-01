@@ -1,0 +1,2 @@
+A sadaļa
+Vispārīgie noteikumi

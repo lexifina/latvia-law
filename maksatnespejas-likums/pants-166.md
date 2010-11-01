@@ -1,0 +1,4 @@
+166.pants. Administratora atlīdzība tiesiskās aizsardzības procesā un ārpustiesas tiesiskās aizsardzības procesā
+(1) Par administratora pienākumu veikšanu tiesiskās aizsardzības procesā vai ārpustiesas tiesiskās aizsardzības procesā paredzētās atlīdzības apmēru un tās segšanas kārtību administrators, kuru tiesa iecēlusi pēc parādnieka ieteikuma, rakstveidā vienojas ar parādnieku.
+(2) Par administratora pienākumu veikšanu tiesiskās aizsardzības procesā vai ārpustiesas tiesiskās aizsardzības procesā administrators saņem ikmēneša atlīdzību vienas minimālās mēnešalgas apmērā, ja nav panākta šā panta pirmajā daļā minētā vienošanās par citu atlīdzības apmēru un tās segšanas kārtību.
+(3) Atlīdzību par administratora pienākumu veikšanu tiesiskās aizsardzības procesā vai ārpustiesas tiesiskās aizsardzības procesā sedz no parādnieka līdzekļiem, un tās segšanas kārtību paredz tiesiskās aizsardzības procesa pasākumu plānā.

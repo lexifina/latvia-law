@@ -1,0 +1,6 @@
+96.pants. Darījumu atzīšana par spēkā neesošiem
+(1) Administratoram ir pienākums izvērtēt parādnieka darījumus un celt tiesā prasību par attiecīgā darījuma atzīšanu par spēkā neesošu neatkarīgi no šā darījuma veida, ja tas noslēgts:
+1) pēc juridiskās personas maksātnespējas procesa pasludināšanas dienas vai trīs mēnešus pirms juridiskās personas maksātnespējas procesa pasludināšanas dienas un tādējādi parādniekam ir nodarīti zaudējumi neatkarīgi no tā, vai persona, ar kuru vai kurai par labu darījums noslēgts, ir vai nav zinājusi par zaudējumu nodarīšanu kreditoriem;
+2) triju gadu laikā pirms juridiskās personas maksātnespējas procesa pasludināšanas dienas un tādējādi parādniekam ir nodarīti zaudējumi, turklāt persona, ar kuru vai kurai par labu noslēgts darījums, zināja vai tai bija jāzina par šādu zaudējumu nodarīšanu.
+(2) Ja darījums, ar kuru nodarīti zaudējumi parādniekam, ir noslēgts ar ieinteresētajām personām attiecībā pret parādnieku vai šo personu labā, uzskatāms, ka šīs personas ir zinājušas par zaudējumu nodarīšanu, ja tās nepierāda pretējo.
+(3) Nodrošinātais kreditors var prasīt, lai administratora noslēgtais darījums tiek atzīts par spēkā neesošu, ja šis darījums attiecas uz prasījuma nodrošināšanai ieķīlāto mantu un ir aizskartas nodrošinātā kreditora intereses.
