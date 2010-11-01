@@ -1,0 +1,1 @@
+46. Tiesiskās aizsardzības procesam, ārpustiesas tiesiskās aizsardzības procesam, juridiskās personas maksātnespējas procesam, kā arī fiziskās personas maksātnespējas procesam, kas uzsākts līdz 2010.gada 31.oktobrim, piemēro šā likuma 46., 46.¹ un 46.² nodaļu redakcijā, kas bija spēkā līdz 2010.gada 31.oktobrim, un pārejas noteikumu 42.punktu.

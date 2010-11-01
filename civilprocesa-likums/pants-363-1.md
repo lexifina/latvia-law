@@ -1,4 +1,3 @@
-363.¹ pants. Juridiskās personas maksātnespējas procesa lietas piekritība
-(1) Juridiskās personas maksātnespējas procesu saskaņā ar likumu piemēro attiecībā uz juridisko personu, personālsabiedrību, individuālo komersantu, ārvalstī reģistrētu personu, kas veic pastāvīgu saimniecisko darbību Latvijā, un likumā noteiktiem speciāliem subjektiem (turpmāk šajā nodaļā - parādnieks).
-(2) Juridiskās personas maksātnespējas procesa lietu (turpmāk šajā nodaļā - maksātnespējas procesa lieta) tiesa izskata pēc parādnieka atrašanās vietas (juridiskās adreses).
-(3) Lietu par Padomes regulas Nr. 1346/2000 3.panta 1.punktā noteiktās maksātnespējas procedūras uzsākšanu izskata tiesa pēc parādnieka galveno interešu centra atrašanās vietas, bet minētās regulas 3.panta 2.punktā noteiktās maksātnespējas procedūras uzsākšanas gadījumā - pēc parādnieka uzņēmuma (Padomes regulas Nr. 1346/2000 2.panta "h" punkta izpratnē) atrašanās vietas.
+363.¹ pants. Juridiskās personas maksātnespējas procesa lietu piekritība
+(1) Juridiskās personas maksātnespējas procesa lietu tiesa izskata pēc parādnieka atrašanās vietas (juridiskās adreses).
+(2) Lietu par Padomes regulas Nr. 1346/2000 3.panta 1.punktā noteiktās maksātnespējas procedūras uzsākšanu izskata tiesa pēc parādnieka galveno interešu centra atrašanās vietas, bet šīs regulas 3.panta 2.punktā noteiktās maksātnespējas procedūras uzsākšanas gadījumā - pēc parādnieka uzņēmuma (Padomes regulas Nr. 1346/2000 2.panta "h" punkta izpratnē) atrašanās vietas.

@@ -9,7 +9,7 @@ e) no 20 001 lata līdz 100 000 latiem - 490 latu plus 1 procents no prasības s
 f) no 100 001 lata līdz 500 000 latiem - 1290 latu plus 0,3 procenti no prasības summas, kas pārsniedz 100 000 latus,
 g) vairāk par 500 000 latiem - 2490 latu plus 0,05 procenti no prasības summas, kas pārsniedz 500 000 latus;
 2) par prasības pieteikumu laulības šķiršanas lietā - 100 latu, bet par prasības pieteikumu laulības šķiršanas lietā ar personu, kas noteiktā kārtībā atzīta par bezvēsts promesošu vai rīcībnespējīgu gara slimības vai plānprātības dēļ, vai ar personu, kas notiesāta ar brīvības atņemšanu uz laiku, kas nav mazāks par trim gadiem, - 10 latu;
-3) par pieteikumu sevišķās tiesāšanas kārtības lietās - 30 latu, par pieteikumu tiesiskās aizsardzības procesa lietā, maksātnespējas procesa lietā vai lietā par kredītiestāžu maksātnespēju vai likvidāciju - 100 latu;
+3) par pieteikumu sevišķās tiesāšanas kārtības lietās - 30 latu, par kreditora iesniegto juridiskās personas maksātnespējas procesa pieteikumu - 250 latu, par parādnieka iesniegto juridiskās personas vai fiziskās personas maksātnespējas procesa pieteikumu - 50 latu, par tiesiskās aizsardzības procesa pieteikumu - 100 latu, par kredītiestāžu maksātnespējas vai likvidācijas pieteikumu - 250 latu;
 4) par citām prasībām, kam nav mantiska rakstura vai kas nav jānovērtē, - 50 latu;
 5) par prasības nodrošinājuma pieteikumu vai pagaidu aizsardzības līdzekļa pieteikumu - 0,5 procenti no prasības summas, bet ne mazāk par 50 latiem;
 6) par pierādījumu nodrošināšanas pieteikumu, ja tas iesniegts pirms prasības celšanas, - 20 latu;

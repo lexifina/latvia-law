@@ -4,3 +4,4 @@
 (3) Ja trūkumi tiek novērsti noteiktajā termiņā, tiek ievesta izpildu lieta un izpildu dokuments uzskatāms par iesniegtu dienā, kad tas pirmoreiz tika iesniegts tiesu izpildītājam.
 (4) Ja piedzinējs noteiktajā termiņā trūkumus nenovērš, izpildu dokumentu uzskata par neiesniegtu un atdod atpakaļ piedzinējam.
 (5) Izpildu dokumenta atdošana piedzinējam nav šķērslis tā atkārtotai iesniegšanai tiesu izpildītājam, ievērojot likumā noteikto izpildu dokumentu iesniegšanas kārtību.
+(6) Ja tiesu izpildītājs konstatē, ka parādniekam pasludināts maksātnespējas process, izpildu lietu neieved un izpildu dokumentu atdod iesniedzējam.

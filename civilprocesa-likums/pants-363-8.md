@@ -1,26 +1,3 @@
-363.⁸ pants. Jautājumi, kas tiesai izlemjami pēc maksātnespējas procesa pasludināšanas
-(1) Pēc parādnieka maksātnespējas procesa pasludināšanas uz attiecīga pieteikuma pamata tiesa lemj par:
-1) (izslēgts ar 11.06.2009. likumu);
-2) izlīguma apstiprināšanu vai atcelšanu;
-3) kreditoru sapulces lēmuma par sanācijas plāna pieņemšanu vai grozīšanu, kā arī sanācijas plāna vai tā grozījuma jaunās redakcijas apstiprināšanu;
-4) kreditoru sapulces lēmuma par sanācijas plāna īstenošanu un sanācijas pabeigšanu apstiprināšanu;
-5) kreditoru sapulces lēmuma par sanācijas atcelšanu apstiprināšanu;
-6) administratora atkāpšanos, ja administrators iesniedz pieteikumu par atkāpšanos, kuram pievienots darbības pārskats, kā arī dokumentu un mantas pieņemšanas un nodošanas akta projekts;
-7) administratora atcelšanu, nosakot termiņu dokumentu un mantas pieņemšanas un nodošanas akta sastādīšanai un dokumentu un mantas nodošanai citam administratoram;
-8) maksātnespējas procesa izbeigšanu;
-9) nekustamā īpašuma izsoles akta apstiprināšanu;
-10) maksātnespējas atzīmes dzēšanu zemesgrāmatā;
-11) Padomes regulas Nr. 1346/2000 33. un 37.pantā noteikto darbību veikšanu;
-12) kreditoru sapulces lēmuma par reorganizāciju atzīšanu par spēkā neesošu.
-(1¹) Pēc administratora lūguma tiesnesis pieņem lēmumu par mantas atbrīvošanu no apķīlājuma vai cita piemērotā prasības nodrošinājuma līdzekļa atcelšanu un mantas nodošanu administratoram. Lēmuma par prasības nodrošinājuma līdzekļa atcelšanu norakstu tiesa nosūta ierakstīšanai attiecīgajā publiskajā reģistrā, kā arī ar likumu pilnvarotajai iestādei, kas veic ierakstus maksātnespējas reģistrā.
-(1²) Administratoru var atcelt tiesa pēc savas iniciatīvas, ja tā, izskatot konkrētu jautājumu vai sūdzību maksātnespējas procesa lietā, konstatē, ka administrators neievēro normatīvo aktu prasības vai nepilda tiesas nolēmumu.
-(1³) Ja pēc maksātnespējas procesa pasludināšanas tiesa ir pieņēmusi lēmumu par administratora atkāpšanos vai atcelšanu, tiesnesis pēc Maksātnespējas administrācijas priekšlikuma saņemšanas nekavējoties lemj par cita administratora iecelšanu un tiesa lēmuma norakstu nosūta Maksātnespējas administrācijai un ar likumu pilnvarotajai iestādei, kas veic ierakstus maksātnespējas reģistrā.
-(2) Lemjot par Padomes regulas Nr. 1346/2000 33.panta 1.punktā noteikto darbību veikšanu, tiesa konstatē, vai šīs darbības ir minētās regulas 3.panta 1.punktā noteiktās maksātnespējas procedūras kreditoru interesēs, un nosaka piemērotus pasākumus šīs regulas 3.panta 2.punktā noteiktās maksātnespējas procedūras kreditoru interešu nodrošināšanai, kā arī to, kādas sekas rada bankrota procedūras (arī tās norisē pieņemtās sanācijas vai izlīguma procedūras) apturēšana.
-(3) Lemjot par Padomes regulas Nr. 1346/2000 33.panta 2.punktā noteiktās darbības veikšanu, tiesa pārliecinās, ka minētās darbības veikšana vairs nav pamatota.
-(4) Lēmuma par Padomes regulas Nr. 1346/2000 33.pantā noteikto darbību veikšanu norakstu tiesa nosūta parādnieka pārstāvim, administratoram un ar likumu pilnvarotajai iestādei, kas veic ierakstus maksātnespējas reģistrā.
-(5) Lemjot par Padomes regulas Nr. 1346/2000 37.pantā noteiktās darbības veikšanu, tiesa konstatē, vai šī darbība ir minētās regulas 3.panta 1.punktā noteiktās maksātnespējas procedūras kreditoru interesēs.
-(6) Šā panta pirmajā daļā minēto lēmumu norakstus tiesa nosūta ar likumu pilnvarotajai iestādei, kas veic ierakstus maksātnespējas reģistrā. Lēmuma par administratora atkāpšanos vai atcelšanu norakstu tiesa nekavējoties nosūta arī Maksātnespējas administrācijai.
-(7) Tiesa izskata sūdzību par kreditoru sapulces lēmumu, sūdzību par administratora lēmumu vai rīcību, kā arī sūdzību par Maksātnespējas administrācijas pieņemto lēmumu par administratora rīcību maksātnespējas procesā vai tiesiskā pienākuma uzlikšanu. Tiesa pēc sūdzības izskatīšanas lēmuma norakstu, izņemot lēmumu par sūdzību saistībā ar kreditoru sapulces lēmumu, nekavējoties nosūta Maksātnespējas administrācijai.
-(8) Tiesas lēmums par pieteikuma un sūdzības izskatīšanu nav pārsūdzams, izņemot gadījumu, kad tiesa pieņem lēmumu par nekustamā īpašuma izsoles akta apstiprināšanu un maksātnespējas atzīmes dzēšanu zemesgrāmatā. Pārsūdzams ir arī tāds lēmums, ar kuru noraidīts pieteikums par nekustamā īpašuma izsoles akta apstiprināšanu un maksātnespējas atzīmes dzēšanu zemesgrāmatā, kā arī lēmums, ar kuru tiesa atzinusi izsoli par spēkā neesošu. Apelācijas instances tiesas lēmums jautājumos par nekustamā īpašuma izsoles akta apstiprināšanu un maksātnespējas atzīmes dzēšanu zemesgrāmatā nav pārsūdzams.
-(9) Pieteikumu un sūdzību tiesa izskata 15 dienu laikā no pieteikuma un sūdzības saņemšanas dienas. Uz tiesas sēdi tiek aicināts pieteikuma vai sūdzības iesniedzējs, administrators, parādnieka pārstāvis un citas ieinteresētās personas. Uzaicināto personu neierašanās nav šķērslis jautājuma izskatīšanai tiesas sēdē. Taču tiesa var atzīt parādnieka pārstāvja ierašanos par obligātu un likt viņu atvest piespiedu kārtā.
-(10) Sakarā ar šajā pantā minēto jautājumu izskatīšanu tiesa var pieprasīt, lai administrators iesniedz savas darbības pārskatu vai citu informāciju, bet Padomes regulas Nr. 1346/2000 3.panta 1.punktā noteiktajā maksātnespējas procedūrā iesaistītais likvidators - informāciju, kas nepieciešama šajā pantā minēto nolēmumu pieņemšanai.
+363.⁸ pants. Aizliegums grozīt maksātnespējas procesa pieteikuma priekšmetu un parādniekam atsaukt maksātnespējas procesa pieteikumu
+(1) Maksātnespējas procesa lietās nav pieļaujama maksātnespējas procesa pieteikuma priekšmeta grozīšana.
+(2) Parādnieks nav tiesīgs atsaukt maksātnespējas procesa pieteikumu.

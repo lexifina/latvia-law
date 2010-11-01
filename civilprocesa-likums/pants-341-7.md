@@ -1,0 +1,7 @@
+341.⁷ pants. Lēmums par tiesiskās aizsardzības procesa īstenošanu ārpustiesas tiesiskās aizsardzības procesā
+(1) Tiesiskās aizsardzības procesa lietās ārpustiesas tiesiskās aizsardzības procesā piemēro šīs nodaļas noteikumus, ja šajā pantā nav noteikts citādi.
+(2) Tiesiskās aizsardzības procesa pieteikumu ārpustiesas tiesiskās aizsardzības procesā tiesa izskata 15 dienu laikā rakstveida procesā, izņemot gadījumu, kad tā uzskata par nepieciešamu lietu izskatīt tiesas sēdē. Ja pieteikumu tiesiskās aizsardzības procesa lietā izskata tiesas sēdē, uz sēdi aicina parādnieku un administratoru. Šo personu neierašanās nav šķērslis lietas izskatīšanai.
+(3) Pēc tam, kad pieņemts lēmums par tiesiskās aizsardzības procesa lietas ierosināšanu ārpustiesas tiesiskās aizsardzības procesā, tiesa nelemj jautājumu par atļauju pārdot ieķīlāto parādnieka mantu pēc nodrošinātā kreditora pieteikuma.
+(4) Ja pastāv Maksātnespējas likumā minētie nosacījumi tiesiskās aizsardzības procesa īstenošanai ārpustiesas tiesiskās aizsardzības procesā, tiesa pieņem lēmumu par tiesiskās aizsardzības procesa īstenošanu ārpustiesas tiesiskās aizsardzības procesā un apstiprina tiesiskās aizsardzības procesa pasākumu plānu, kā arī vienlaikus ieceļ tiesiskās aizsardzības procesa pasākumu plānā norādīto administratoru.
+(5) Tiesas lēmums tiesiskās aizsardzības procesa lietā ārpustiesas tiesiskās aizsardzības procesā nav pārsūdzams.
+(6) Lēmuma norakstu izsniedz pieteikuma iesniedzējam un administratoram, kā arī nosūta atbildīgajai iestādei, kas veic ierakstus maksātnespējas reģistrā.

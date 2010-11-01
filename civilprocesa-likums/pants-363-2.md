@@ -1,4 +1,11 @@
-363.² pants. Juridiskās personas maksātnespējas procesa pieteikuma saņemšana un reģistrācija
-(1) Juridiskās personas maksātnespējas procesa pieteikumu (turpmāk šajā nodaļā - maksātnespējas procesa pieteikums) tiesa pieņem no personas, kuras vārdā tiek iesniegts pieteikums, vai personas, kurai ir pilnvarojums pieteikuma iesniegšanai.
-(2) Saņemot maksātnespējas procesa pieteikumu, pārbaudāma pieteikuma iesniedzēja personība. Ja nav iespējams to pārbaudīt vai pieteikuma iesniedzējam nav attiecīga pilnvarojuma, pieteikumu nepieņem.
-(3) Maksātnespējas procesa pieteikums reģistrējams atsevišķā reģistrā, kurā parakstās pieteikuma iesniedzējs un saņēmējs.
+363.² pants. Kreditora juridiskās personas maksātnespējas procesa pieteikuma saturs
+(1) Kreditors juridiskās personas maksātnespējas procesa pieteikumā (turpmāk šajā nodaļā - maksātnespējas procesa pieteikums) norāda:
+1) kreditora firmu (nosaukumu), reģistrācijas numuru un atrašanās vietu (juridisko adresi);
+2) parādnieka firmu (nosaukumu), reģistrācijas numuru un atrašanās vietu (juridisko adresi);
+3) maksātnespējas procesa pazīmi.
+(2) Iesniedzot maksātnespējas procesa pieteikumu, kreditors pievieno dokumentus, kas apliecina valsts nodevas un citu tiesas izdevumu, kā arī maksātnespējas procesa depozīta samaksu.
+(3) Iesniedzot maksātnespējas procesa pieteikumu atbilstoši Maksātnespējas likuma 57.panta 1.punktā minētajai maksātnespējas procesa pazīmei, pieteikumam pievieno pierādījumus par prasījuma pamatojumu un apmēru, kā arī tiesu izpildītāja izsniegtu aktu par neiespējamību piedzīt parādu no parādnieka.
+(4) Iesniedzot maksātnespējas procesa pieteikumu atbilstoši Maksātnespējas likuma 57.panta 2. un 3.punktā minētajai maksātnespējas procesa pazīmei, pieteikumam pievieno pierādījumus par prasījuma pamatojumu un apmēru, brīdinājuma par nodomu iesniegt maksātnespējas procesa pieteikumu kopiju, dokumentus par brīdinājuma izsniegšanu vai nosūtīšanu (kvīti par dokumenta nosūtīšanu ar sūtījuma satura apliecinājumu), kā arī pieteikumā apliecina, ka parādnieks nav pret to cēlis pamatotus iebildumus.
+(5) Iesniedzot maksātnespējas procesa pieteikumu atbilstoši Maksātnespējas likuma 57.panta 4.punktā minētajai maksātnespējas procesa pazīmei, pieteikumā norāda, par kādu laikposmu nav izmaksāta darba samaksa un kaitējuma atlīdzība, un tam pievieno darba devēja izsniegtu izziņu par darba samaksas un sociālās apdrošināšanas obligāto iemaksu apmēru, bet, ja darba devējs minēto izziņu nav izsniedzis, šo faktu norāda pieteikumā.
+(6) Iesniedzot maksātnespējas procesa pieteikumu par to, ka uzsākta Padomes regulas Nr. 1346/2000 3.panta 1. vai 2.punktā noteiktā maksātnespējas procedūra pret parādnieku, kreditors tajā norāda pieteikuma pamatojumu un pievieno tam pierādījumus, kas apstiprina apstākļus, uz kuriem pieteikums pamatots, ja tādi ir viņa rīcībā.
+(7) Iesniedzot maksātnespējas procesa pieteikumu par to, ka uzsākta Padomes regulas Nr. 1346/2000 3.panta 2.punktā noteiktā maksātnespējas procedūra pret parādnieku, kreditors nosūta tā norakstu minētās regulas 3.panta 1.punktā noteiktajā maksātnespējas procedūrā iesaistītajam likvidatoram.
