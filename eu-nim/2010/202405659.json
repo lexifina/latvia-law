@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Maksātnespējas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "124",
+  "official_journal_page": null,
+  "official_journal_date": "2010-08-06",
+  "entry_into_force": "2010-11-01",
+  "notification_date": "2024-12-12",
+  "commission_reference": "MNE(2024)05659",
+  "nim_celex": "72021L2118LVA_202405659",
+  "nim_id": "202405659",
+  "transposes_celex": [
+    "32021L2118"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f1d9e3bb-7336-4d0e-ae0a-a33b22b8436b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
