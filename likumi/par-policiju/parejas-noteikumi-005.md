@@ -1,0 +1,1 @@
+5. Pēc šo pārejas noteikumu 2., 3. un 4.punktā minētā termiņa pašvaldības policijas darbiniekam, kurš neatbilst šā likuma 21.panta pirmajā vai otrajā daļā minētajām prasībām, uzsaka darba līgumu sakarā ar neatbilstību pašvaldības policijas darbiniekam noteiktajām prasībām.

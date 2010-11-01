@@ -1,3 +1,9 @@
-21. pants. Kārtība, kādā pašvaldības policijas darbinieki ieceļami amatā un atbrīvojami no amata
-Pašvaldības policijas priekšnieku un viņa vietniekus ieceļ amatā attiecīgās pašvaldības dome pēc tam, kad saņemta iekšlietu ministra piekrišana. Pašvaldības policijas priekšnieku un viņa vietniekus atbrīvo no amata attiecīgās pašvaldības dome pēc savas iniciatīvas vai pēc iekšlietu ministra pieprasījuma, kas domei jāizskata septiņu dienu laikā.
-Pašvaldības domes priekšsēdētājam ir tiesības līdz dienai, kad attiecīgā pašvaldības dome izskata jautājumu par pašvaldības policijas priekšnieka vai viņa vietnieka atbrīvošanu no amata, atstādināt minētās amatpersonas no amata pienākumu pildīšanas.
+21. pants. Prasības pašvaldības policijas darbiniekam
+Par pašvaldības policijas darbinieku var būt persona, kura atbilst šādām prasībām:
+1) ir pilngadīgs Latvijas pilsonis;
+2) nav sodīta par tīšu noziedzīgu nodarījumu - neatkarīgi no sodāmības dzēšanas vai noņemšanas;
+3) nav notiesāta par tīšu noziedzīgu nodarījumu, atbrīvojot no soda;
+4) nav saukta pie kriminālatbildības par tīša noziedzīga nodarījuma izdarīšanu, izņemot gadījumu, kad persona ir saukta pie kriminālatbildības, bet kriminālprocess pret to izbeigts uz reabilitējoša pamata;
+5) ir ieguvusi vismaz vidējo izglītību.
+Par pašvaldības policijas priekšnieku un viņa vietnieku var pieņemt darbā personu, kura atbilst šā panta pirmās daļas 1., 2., 3. un 4.punktā noteiktajām prasībām un ir ieguvusi augstāko izglītību.
+Pašvaldības policijas priekšnieku un viņa vietnieku pieņem darbā, ja saņemta iekšlietu ministra rakstveida piekrišana.

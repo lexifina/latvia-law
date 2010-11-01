@@ -1,0 +1,1 @@
+3. Pašvaldības policijas darbinieks, kurš pieņemts darbā līdz 2010.gada 1.novembrim un neatbilst šā likuma 21.panta pirmās daļas 2., 3. un 4.punktā minētajām prasībām, var ieņemt pašvaldības policijas darbinieka amatu līdz 2011.gada 1.martam.

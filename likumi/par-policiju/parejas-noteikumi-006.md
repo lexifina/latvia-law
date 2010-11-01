@@ -1,0 +1,1 @@
+6. Šā likuma 21.panta pirmās daļas 5.punktā vai otrajā daļā minētās izglītības prasības nepiemēro pašvaldības policijas darbiniekam, kurš pieņemts darbā līdz 2010.gada 1.novembrim, ja viņam līdz vecuma pensijas piešķiršanai noteiktajam vecumam atlikuši seši gadi vai mazāk par sešiem gadiem.
