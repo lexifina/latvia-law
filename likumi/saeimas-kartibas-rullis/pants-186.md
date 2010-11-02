@@ -1,1 +1,1 @@
-186. Ne mazāk kā pieci vienas politiskās partijas vai viena nosaukuma deputātu kandidātu saraksta deputāti var izveidot frakciju.
+186. Ne mazāk kā pieci viena nosaukuma deputātu kandidātu saraksta deputāti var izveidot frakciju. Viena nosaukuma deputātu kandidātu saraksta deputāti var izveidot tikai vienu frakciju un nevar iestāties citā frakcijā.
