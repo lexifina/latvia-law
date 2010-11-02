@@ -1,1 +1,2 @@
-14. Vēlētāji nevar atsaukt atsevišķus Saeimas locekļus.
+14. Ne mazāk kā vienai desmitai daļai vēlētāju ir tiesība ierosināt tautas nobalsošanu par Saeimas atsaukšanu. Ja tautas nobalsošanā par Saeimas atsaukšanu nobalso vairākums no balsotājiem un vismaz divas trešdaļas no pēdējās Saeimas vēlēšanās piedalījušos vēlētāju skaita, tad Saeima uzskatāma par atsauktu. Tiesību ierosināt tautas nobalsošanu par Saeimas atsaukšanu nevar izmantot gadu pēc Saeimas sanākšanas, gadu pirms Saeimas pilnvaru beigām, Valsts Prezidenta pilnvaru pēdējo sešu mēnešu laikā, kā arī agrāk par sešiem mēnešiem pēc iepriekšējās tautas nobalsošanas par Saeimas atsaukšanu.
+Vēlētāji nevar atsaukt atsevišķus Saeimas locekļus.
