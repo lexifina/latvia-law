@@ -1,2 +1,2 @@
 13.pants. Valsts pārvaldes iestāžu uzdevumu deleģēšana
-Izglītības un zinātnes ministrija, noslēdzot līgumu, var deleģēt pārvaldes uzdevumu veikšanu privātpersonām, tajā skaitā biedrībām un nodibinājumiem, lai efektīvi īstenotu pasākumu sistēmu darbam ar jaunatni.
+Izglītības un zinātnes ministrija, noslēdzot līgumu, var deleģēt pārvaldes uzdevumu veikšanu privātpersonām, tajā skaitā biedrībām un nodibinājumiem, lai efektīvi īstenotu pasākumu sistēmu darbam ar jaunatni. Minēto pārvaldes uzdevumu deleģējums var ietvert administratīvo aktu izdošanu saistībā ar šā likuma 12.panta pirmajā daļā minēto atklātu projektu konkursu organizēšanu.
