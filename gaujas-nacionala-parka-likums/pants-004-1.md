@@ -1,0 +1,3 @@
+4.¹ pants
+(1) Pārvalde, izsniedzot rakstveida atļauju vai saskaņojot likumā minētās darbības, izmanto dabas aizsardzības plānā ietverto informāciju un jaunāko pieejamo informāciju par īpaši aizsargājamām sugām un biotopiem konkrētajā teritorijā. Darbībām, kurām saskaņā ar normatīvajiem aktiem par ietekmes uz vidi novērtējumu Valsts vides dienests izsniedz tehniskos noteikumus vai veic sākotnējo ietekmes uz vidi novērtējumu, pārvaldes rakstveida atļauja nav nepieciešama.
+(2) Šajā likumā minētā pārvaldes rakstveida atļauja nav nepieciešama, ja attiecīgo darbību veic pārvalde, lai īstenotu normatīvajos aktos tai noteiktās funkcijas un uzdevumus.
