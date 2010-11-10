@@ -4,7 +4,7 @@
 a) zemei,
 b) ēkām vai to daļām, izņemot šā panta pirmās daļas 2.punktā minētās ēkas un to daļas,
 c) inženierbūvēm;
-2) vienģimenes un divģimeņu dzīvojamām mājām, daudzdzīvokļu mājām (to daļām) neatkarīgi no tā, vai tās ir vai nav sadalītas dzīvokļu īpašumos, nedzīvojamo ēku daļām, kuru funkcionālā izmantošana ir dzīvošana un kuras (kuru daļas) netiek izmantotas saimnieciskās darbības veikšanai:
+2) dzīvojamām mājām (to daļām) neatkarīgi no tā, vai tās ir vai nav sadalītas dzīvokļu īpašumos, nedzīvojamo ēku daļām, kuru funkcionālā izmantošana ir dzīvošana, un citām telpu grupām, kuru funkcionālā izmantošana ir saistīta ar dzīvošanu (garāžām, autostāvvietām, pagrabiem, noliktavām un saimniecības telpām), ja tās netiek izmantotas saimnieciskās darbības veikšanai:
 a) 0,1 procents no kadastrālās vērtības, kas nepārsniedz 40 000 latu,
 b) 0,2 procenti no kadastrālās vērtības daļas, kas pārsniedz 40 000 latu, bet nepārsniedz 75 000 latu,
 c) 0,3 procenti no kadastrālās vērtības daļas, kas pārsniedz 75 000 latu.
@@ -17,3 +17,5 @@ c) 0,3 procenti no kadastrālās vērtības daļas, kas pārsniedz 75 000 latu.
 (6) Ja taksācijas gada laikā Nekustamā īpašuma valsts kadastra reģistrā tiek reģistrētas kadastra datu izmaiņas, aktualizētā kadastrālā vērtība nodokļa aprēķinam tiek piemērota ar nākamo taksācijas gadu.
 (7) Ministru kabinets nosaka institūcijas, kas apseko neapstrādātās lauksaimniecībā izmantojamās zemes platību zemes vienībā, un kārtību, kādā nosakāma šo zemes gabalu platība, kā arī kārtību, kādā noteiktās institūcijas sniedz ziņas pašvaldībām nodokļa aprēķināšanai saskaņā ar šā panta 1.¹ daļā minēto papildlikmi.
 (8) Šā likuma izpratnē neapstrādāta lauksaimniecībā izmantojamā zeme ir visa lauksaimniecībā izmantojamās zemes platība zemes vienībā, ja vairāk nekā 70 procentu no lauksaimniecībā izmantojamās zemes platības attiecīgajā zemes vienībā līdz kārtējā gada 1.septembrim netiek izmantoti lauksaimniecības produktu ražošanai vai audzēšanai, ieskaitot ražas novākšanu, dzīvnieku ganīšanu un turēšanu lauksaimniecības nolūkiem, vai minētā zemes platība netiek uzturēta labā lauksaimniecības un vides stāvoklī. Ministru kabinets nosaka pazīmes, pēc kurām atzīstams, ka zeme netiek uzturēta labā lauksaimniecības un vides stāvoklī.
+(9) Nodokļa maksātāja pienākums ir viena mēneša laikā paziņot pašvaldībai, kuras administratīvajā teritorijā atrodas nekustamais īpašums vai tā daļa, par saimnieciskās darbības uzsākšanu un izbeigšanu šā panta pirmās daļas 2.punktā minētajos objektos, kā arī par šo objektu funkcionālās izmantošanas izmaiņām, kuru rezultātā piemērotā nodokļa likme neatbilst šā panta nosacījumiem.
+(10) Šā panta devītajā daļā minētās izmaiņas tiek ņemtas vērā nodokļa aprēķinā ar nākamo mēnesi pēc to rašanās.
