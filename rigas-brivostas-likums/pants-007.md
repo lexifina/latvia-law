@@ -1,2 +1,2 @@
-7.pants. Preču ievešana brīvajās zonās un izvešana no tām
-Kārtību, kādā preces ievedamas brīvajās zonās no pārējās Latvijas Republikas muitas teritorijas un izvedamas no brīvajām zonām uz pārējo Latvijas Republikas muitas teritoriju, regulē šis likums, citi likumi un Ministru kabineta noteikumi.
+7.pants. Preču ievešana licencētas kapitālsabiedrības brīvajās zonās un izvešana no tām
+Preču ievešana Brīvostas teritorijā esošas licencētas kapitālsabiedrības brīvās zonas teritorijā un izvešana no tās notiek saskaņā ar Eiropas Savienības muitas tiesību aktu prasībām par preču ievešanu brīvo zonu teritorijās un izvešanu no tām.

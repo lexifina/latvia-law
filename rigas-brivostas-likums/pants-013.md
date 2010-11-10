@@ -1,4 +1,5 @@
-13.pants. Kārtība, kādā līgums par uzņēmējdarbību Brīvostā izbeidzams pirms termiņa un atļauja anulējama
-(1) Līgumu par uzņēmējdarbību Brīvostā var izbeigt pirms termiņa ar Ostas pārvaldes lēmumu, ja tiek konstatēts, ka licencēta uzņēmējsabiedrība pārkāpj likumus, citus normatīvos aktus vai noslēgto līgumu.
-(2) Vienlaikus ar lēmumu par līguma pirmstermiņa izbeigšanu Ostas valde pieņem lēmumu par atļaujas anulēšanu un nosaka datumu, ar kuru lēmums izpildāms.
-(3) Uzņēmums (uzņēmējsabiedrība), kuram anulēta atļauja uzņēmējdarbībai brīvās zonas režīmā, ir tiesīgs veikt uzņēmējdarbību pēc vispārējiem noteikumiem, ja vien pārkāpumu rakstura dēļ tam likumā noteiktajā kārtībā netiek aizliegta uzņēmējdarbība.
+13.pants. Kārtība, kādā līgums par licencētu komercdarbību Brīvostā izbeidzams pirms termiņa un atļauja anulējama
+(1) Līgumu par licencētu komercdarbību Brīvostā var izbeigt pirms termiņa ar Ostas valdes lēmumu, ja tiek konstatēts, ka licencēta kapitālsabiedrība pārkāpj likumus, citus normatīvos aktus vai noslēgto līgumu.
+(2) Vienlaikus ar lēmumu par līguma pirmstermiņa izbeigšanu Ostas valde pieņem lēmumu par atļaujas anulēšanu un nosaka datumu, ar kuru lēmums izpildāms. Minēto lēmumu izpildes termiņš nedrīkst būt īsāks par 60 dienām. Brīvostas pārvalde piecu darbdienu laikā paziņo Valsts ieņēmumu dienestam par Ostas valdes pieņemtajiem lēmumiem par atļaujas anulēšanu.
+(3) Kapitālsabiedrība, kurai anulēta atļauja licencētai komercdarbībai Brīvostā, ir tiesīga veikt komercdarbību saskaņā ar vispārējiem noteikumiem, ja vien pārkāpumu rakstura dēļ tai likumā noteiktajā kārtībā netiek aizliegta komercdarbība.
+(4) Ostas valde pirms šā panta pirmajā un otrajā daļā minēto lēmumu pieņemšanas uzaicina kapitālsabiedrību sniegt rakstveida paskaidrojumu. Uzaicinājumā norāda paskaidrojuma iesniegšanas termiņu, kas nedrīkst būt īsāks par divām nedēļām. Paskaidrojuma neiesniegšana nav šķērslis lēmuma pieņemšanai.
