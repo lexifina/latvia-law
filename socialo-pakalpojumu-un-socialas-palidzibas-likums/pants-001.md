@@ -31,4 +31,5 @@ Likumā ir lietoti šādi termini:
 29) cilvēku tirdzniecības upuris - persona, kura atzīta par cietušo noziedzīgā nodarījumā ar cilvēku tirdzniecību vai kurai Valsts policija izsniegusi izziņu, ka tā ir cietusi cilvēku tirdzniecībā ārvalstī, kā arī persona, kuru par atbilstošu cilvēku tirdzniecības upura kritērijiem atzinis sociālo pakalpojumu sniedzējs;
 30) garīga rakstura traucējums - šā likuma izpratnē - psihiska saslimšana un garīgās attīstības traucējums, kas ierobežo personas spējas strādāt un aprūpēt sevi, kā arī apgrūtina tās iekļaušanos sabiedrībā;
 31) darbspējīgs vecums - personas dzīves posms no 15 gadu vecuma līdz valsts vecuma pensijas piešķiršanai nepieciešamajam vecumam;
-32) karitatīvais sociālais darbs - sociālajam darbam analogs darbs, kura mērķis ir palīdzēt personām, ģimenēm, grupām vai sabiedrībai kopumā atgūt spēju sociāli un garīgi funkcionēt.
+32) karitatīvais sociālais darbs - sociālajam darbam analogs darbs, kura mērķis ir palīdzēt personām, ģimenēm, grupām vai sabiedrībai kopumā atgūt spēju sociāli un garīgi funkcionēt;
+33) tehnisko palīglīdzekļu pakalpojums - pasākumu kopums, kas nodrošina personas funkcionālo novērtēšanu, tehnisko palīglīdzekļu izgatavošanu, pielāgošanu, lietošanas apmācību, remontu, aprites nodrošināšanu, kā arī piegādi personas dzīvesvietā.
