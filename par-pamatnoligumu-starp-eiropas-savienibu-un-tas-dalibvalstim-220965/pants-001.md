@@ -1,0 +1,1 @@
+1.pants. 2010.gada 10.maijā Briselē parakstītais Pamatnolīgums starp Eiropas Savienību un tās dalībvalstīm, no vienas puses, un Korejas Republiku, no otras puses (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.
