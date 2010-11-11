@@ -1,0 +1,1 @@
+1.pants. 2010.gada 23.augustā Rīgā parakstītā Latvijas Republikas valdības un Baltkrievijas Republikas valdības vienošanās par Latvijas Republikas un Baltkrievijas Republikas pierobežas teritoriju iedzīvotāju savstarpējo braucienu vienkāršošanu (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.

@@ -1,0 +1,1 @@
+Latvijas Republikas un Baltkrievijas Republikas pierobežas teritoriju administratīvi teritoriālo vienībuu saraksts

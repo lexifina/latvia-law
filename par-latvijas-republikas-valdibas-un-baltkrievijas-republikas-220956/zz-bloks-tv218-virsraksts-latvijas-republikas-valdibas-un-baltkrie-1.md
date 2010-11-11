@@ -1,0 +1,4 @@
+Latvijas Republikas valdības un Baltkrievijas Republikas valdības
+Vienošanās par Latvijas Republikas un Baltkrievijas Republikas
+pierobežas teritoriju iedzīvotāju savstarpējo braucienu vienkāršošanu
+pielikums
