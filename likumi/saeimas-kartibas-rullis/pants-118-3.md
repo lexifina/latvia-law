@@ -1,0 +1,3 @@
+118.³ (1) Ārlietu ministrs ne vēlāk kā 16.janvārī iesniedz Saeimai ar Ministru prezidentu saskaņotu ikgadējo ziņojumu par paveikto un iecerēto darbību valsts ārpolitikā, ietverot šajā ziņojumā arī informāciju par paveikto un iecerēto turpmāko darbību Eiropas Savienības jautājumos. Šā ziņojuma kopijas nekavējoties izsniedz deputātiem.
+(2) Ja nav priekšlikuma vai prasības par Saeimas ārkārtas sesijas vai ārkārtas sēdes sasaukšanu, Prezidijs ikgadējo ārlietu ministra ziņojumu iekļauj izskatīšanai Latvijas Republikas starptautiskās (de jure) atzīšanas dienai tuvākajā Saeimas kārtējā sēdē.
+(3) Saeimas sēdē, kurā tiek izskatīts minētais ziņojums, ārlietu ministrs ziņo par to, pēc tam tiek atklātas debates. Pēc debatēm runā, ja to vēlas, vienīgi ārlietu ministrs.

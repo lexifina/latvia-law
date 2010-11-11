@@ -8,3 +8,4 @@
 6) komisijas sēdes veidu (atklāta vai slēgta);
 7) izskatīto darba kārtību;
 8) pieņemtos lēmumus un balsošanas rezultātus.
+(3) Kārtības ruļļa 149.panta pirmās daļas 1.-9.punktā noteikto komisiju sēdes ieraksta audioformātā.
