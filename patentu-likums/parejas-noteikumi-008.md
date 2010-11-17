@@ -1,0 +1,1 @@
+8. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2011.gada 30.aprīlim ir spēkā Ministru kabineta 2007.gada 4.septembra noteikumi Nr.602 "Noteikumi par profesionālo patentpilnvaroto reģistra saturu, reģistra uzturēšanas kārtību un patentpilnvaroto kvalifikācijas eksāmena kārtību".
