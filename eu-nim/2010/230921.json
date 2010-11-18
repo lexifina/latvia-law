@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Jūras vides aizsardzības un pārvaldības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "183 (4375)",
+  "official_journal_page": null,
+  "official_journal_date": "2010-11-17",
+  "entry_into_force": "2010-11-18",
+  "notification_date": "2015-10-20",
+  "commission_reference": "MNE(2015)57543",
+  "nim_celex": "72013L0030LVA_230921",
+  "nim_id": "230921",
+  "transposes_celex": [
+    "32013L0030"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4bef480a-a39c-4723-8e20-92bb2e4e9796",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
