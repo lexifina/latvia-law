@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Atkritumu apsaimniekošanas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "183 (4375)",
+  "official_journal_page": null,
+  "official_journal_date": "2010-11-17",
+  "entry_into_force": "2010-11-18",
+  "notification_date": "2012-10-26",
+  "commission_reference": "MNE(2012)55521",
+  "nim_celex": "72008L0098LVA_197023",
+  "nim_id": "197023",
+  "transposes_celex": [
+    "32008L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4649dd37-8ccb-4b25-b611-6ef121626419",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
