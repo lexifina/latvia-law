@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2008.gada 17.jūnija direktīvas 2008/56/EK, ar ko izveido sistēmu Kopienas rīcībai jūras vides politikas jomā (Jūras stratēģijas pamatdirektīva) (Dokuments attiecas uz EEZ).

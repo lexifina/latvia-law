@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par Latvijas Republikas kontinentālo šelfu un ekskluzīvo ekonomisko zonu" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1993, 7.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1998, 23.nr.).

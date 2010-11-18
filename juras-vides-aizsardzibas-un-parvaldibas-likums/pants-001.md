@@ -1,0 +1,8 @@
+1.pants. Likumā lietotie termini
+Likumā ir lietoti šādi termini:
+1) ekosistēmas pieeja - visaptveroša, zinātniski pamatota, integrēta pieeja cilvēka darbības pārvaldībai, lai identificētu jūras ekosistēmai nelabvēlīgas ietekmes un veiktu efektīvus pasākumus šādu ietekmju mazināšanai, saglabājot ekosistēmas integritāti un ilgtspēju;
+2) jūras ekosistēma - jūras augu, dzīvnieku un mikroorganismu kopienu un to dzīves vides dinamisks komplekss jūrā, kurš mijiedarbojas kā funkcionāla vienība;
+3) Latvijas jūras ūdeņi, kā arī jūras dabas resursi, jūras dibena virsma un dzīles (turpmāk arī - jūra) - Baltijas jūras ūdeņi, jūras dabas resursi, jūras dibena virsma un dzīles teritorijā, kura saskaņā ar nacionālajiem un starptautiskajiem tiesību aktiem ir Latvijas jurisdikcijā, tas ir, Latvijas iekšējie jūras ūdeņi, teritoriālā jūra un ekskluzīvā ekonomiskā zona;
+4) jūras telpiskā plānošana - ilgtermiņa attīstības plānošanas process, kas vērsts uz jūras vides aizsardzību, jūras racionālu izmantošanu un integrētu pārvaldību, kā arī sabiedrības labklājības un ekonomikas attīstības līdzsvarošanu ar vides aizsardzības prasībām;
+5) jūras izmantošana - jūras izmantošana publisku personu un privātpersonu vajadzībām, arī saimnieciskajā darbībā, tai skaitā veicot piesārņojošas darbības, kas var ietekmēt jūras vides stāvokli;
+6) jūras vides stāvoklis - vispārējs jūras vides stāvoklis, ko nosaka, ņemot vērā jūras ekosistēmas struktūru, funkcijas un jūrā vai ārpus tās notiekošos procesus, dabiskos fizioģeogrāfiskos, bioloģiskos, ģeoloģiskos un klimata faktorus, kā arī fizikālos, akustiskos un ķīmiskos apstākļus, tai skaitā apstākļus, kas radušies cilvēka darbības rezultātā.
