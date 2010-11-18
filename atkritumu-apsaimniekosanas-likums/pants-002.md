@@ -1,0 +1,1 @@
+2.pants. Šā likuma mērķis ir noteikt atkritumu apsaimniekošanas kārtību, lai aizsargātu vidi, cilvēku dzīvību un veselību, novēršot atkritumu rašanos, nodrošinot Latvijas teritorijā radīto atkritumu dalītu savākšanu un reģenerāciju, kā arī veicinot dabas resursu efektīvu izmantošanu un apglabājamo atkritumu apjoma samazināšanu.

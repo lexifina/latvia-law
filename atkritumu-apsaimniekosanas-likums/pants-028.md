@@ -1,0 +1,1 @@
+28.pants. Ražotājs, kas laiž tirgū elektriskās un elektroniskās iekārtas pēc 2005.gada 13.augusta un nav izvēlējies šā likuma 26.panta otrajā daļā minētos šo iekārtu atkritumu apsaimniekošanas veidus, šā likuma 26.panta pirmajā daļā minēto pasākumu veikšanu nodrošina ar bankas sniegtu garantiju vai civiltiesiskās atbildības apdrošināšanu.

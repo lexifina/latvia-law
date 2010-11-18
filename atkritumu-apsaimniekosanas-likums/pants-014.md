@@ -1,0 +1,1 @@
+14.pants. Valsts vides dienests kontrolē atkritumu apsaimniekotāja darbību, kā arī tāda komersanta darbību, kurš rada atkritumus, atbilstoši normatīvajiem aktiem atkritumu apsaimniekošanas jomā un attiecīgajai atļaujai, it īpaši attiecībā uz savākto un pārvadāto atkritumu izcelsmi, īpašībām, daudzumu un pārvadājuma galamērķi.

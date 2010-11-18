@@ -1,0 +1,1 @@
+35.pants. Rūpniecībā izmantojamo bateriju, akumulatoru un transportlīdzekļu bateriju vai akumulatoru atkritumus nedrīkst pieņemt apglabāšanai atkritumu poligonos, kā arī sadedzināt. Bateriju vai akumulatoru atkritumu apstrādes un pārstrādes procesā radušos pārpalikumus drīkst apglabāt atkritumu poligonos vai sadedzināt.

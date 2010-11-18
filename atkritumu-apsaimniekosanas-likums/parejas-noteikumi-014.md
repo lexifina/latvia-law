@@ -1,0 +1,1 @@
+14. Pašvaldības un sadzīves atkritumu apsaimniekotāja noslēgtais līgums par sadzīves atkritumu savākšanu, pārvadāšanu, pārkraušanu un uzglabāšanu, kurā nav noteikts līguma darbības termiņš, izbeidzams ne vēlāk kā līdz 2013.gada 1.jūlijam.

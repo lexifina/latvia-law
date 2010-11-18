@@ -1,0 +1,1 @@
+15. Pašvaldība, kuras noslēgtie līgumi izbeidzami saskaņā ar šā likuma pārejas noteikumu 12. vai 14.punktu, līdz 2013.gada 1.jūlijam izvēlas sadzīves atkritumu apsaimniekotāju šā likuma 18.pantā noteiktajā kārtībā.

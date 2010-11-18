@@ -1,0 +1,9 @@
+30.pants. (1) Baterija vai akumulators ir elektriskās enerģijas avots, kurā enerģija rodas, tieši pārveidojoties ķīmiskajai enerģijai, un kurš sastāv no vienas vai vairākām primārām (atkārtoti neuzlādējamām) vai sekundārām (atkārtoti uzlādējamām) daļām.
+(2) Baterijas un akumulatorus iedala šādās kategorijās:
+1) bateriju pakete ir bateriju vai akumulatoru komplekss, kas savienots kopā vai ietverts ārējā apvalkā, veidojot vienotu bloku, un nav paredzēts, ka tiešais lietotājs to sadalīs vai atvērs;
+2) pārnēsājama baterija vai akumulators ir jebkura aizplombēta baterija, podziņelements, bateriju pakete vai akumulators, ko var pārnēsāt rokās un kas nav ne rūpniecībā, ne arī transportlīdzekļos vai citā pašgājējā tehnikā izmantojama baterija vai akumulators;
+3) podziņelementi ir mazas, apaļas pārnēsājamas baterijas vai akumulatori, kuru diametrs ir lielāks par augstumu un kurus izmanto īpašiem nolūkiem, piemēram, dzirdes aparātos, rokas pulksteņos, mazās pārnēsājamās iekārtās un kā enerģijas avotus datu saglabāšanai;
+4) transportlīdzekļos vai citā pašgājējā tehnikā izmantojama baterija vai akumulators ir baterija vai akumulators, kas paredzēts, lai darbinātu transportlīdzekļa vai citas pašgājējas tehnikas starteri, apgaismes shēmu vai aizdedzi (turpmāk - transportlīdzekļu baterijas un akumulatori);
+5) rūpniecībā izmantojama baterija vai akumulators ir jebkura baterija vai akumulators, kas izstrādāts tikai rūpnieciskam vai profesionālam lietojumam vai kas lietojams jebkura veida elektriskajos transportlīdzekļos.
+(3) Šā likuma noteikumi attiecas uz visu veidu baterijām un akumulatoriem neatkarīgi no to lietojuma, formas, ietilpības, svara vai tajos izmantotajiem materiāliem.
+(4) Bateriju vai akumulatoru atkritumi ir jebkura baterija vai akumulators, kas atbilst šā likuma 1.panta 1.punktā sniegtajai atkritumu definīcijai.

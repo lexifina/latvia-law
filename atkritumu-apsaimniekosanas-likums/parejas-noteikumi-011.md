@@ -1,0 +1,1 @@
+11. Atļaujas, kas izsniegtas, pamatojoties uz Atkritumu apsaimniekošanas likuma (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2001, 3.nr.; 2004, 7., 10.nr.; 2005, 2., 15.nr.; 2006, 24.nr.; 2008, 9.nr.; 2009, 21.nr.) prasībām, ir spēkā līdz to termiņa beigām.

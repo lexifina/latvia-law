@@ -1,0 +1,1 @@
+18. Pašvaldības, kuras līdz šā likuma spēkā stāšanās dienai nav noslēgušas līgumu par sadzīves atkritumu savākšanu, pārvadāšanu, pārkraušanu un uzglabāšanu, sadzīves atkritumu apsaimniekotāju izvēlas šā likuma 18.pantā noteiktajā kārtībā līdz 2011.gada 31.decembrim.

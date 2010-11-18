@@ -1,0 +1,3 @@
+10.pants. (1) Ministru kabinets nosaka atkritumu apsaimniekošanas reģionus.
+(2) Vides ministrija, sadarbojoties ar pašvaldībām, kuras ietilpst attiecīgajā atkritumu apsaimniekošanas reģionā, izstrādā atkritumu apsaimniekošanas reģionālos plānus.
+(3) Pašvaldība, ja nepieciešams, atbilstoši attiecīgajam atkritumu apsaimniekošanas reģionālajam plānam organizē sadzīves atkritumu apsaimniekošanas plāna izstrādāšanu savai administratīvajai teritorijai un apstiprina to. Pašvaldība lēmumu par atkritumu apsaimniekošanas pašvaldības plāna apstiprināšanu iesniedz attiecīgajai Valsts vides dienesta reģionālajai vides pārvaldei.

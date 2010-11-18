@@ -1,0 +1,2 @@
+33.pants. (1) Bateriju vai akumulatoru ražotājs nodrošina bateriju un akumulatoru atkritumu pieņemšanu, savākšanu, apstrādi un pārstrādi, izmantojot labākos pieejamos tehniskos paņēmienus.
+(2) Bateriju vai akumulatoru ražotājs var pats veikt šā panta pirmajā daļā minētos pasākumus vai slēgt līgumu ar komersantu, kas, pamatojoties uz noslēgto līgumu, organizē un koordinē bateriju un akumulatoru atkritumu apsaimniekošanu.

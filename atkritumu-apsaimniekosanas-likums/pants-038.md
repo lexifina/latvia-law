@@ -1,0 +1,3 @@
+38.pants. (1) Maksu par bīstamo vai ražošanas atkritumu savākšanu, pārvadāšanu, pārkraušanu, uzglabāšanu, reģenerāciju vai ražošanas atkritumu apglabāšanu sadzīves atkritumu poligonā nosaka, bīstamo vai ražošanas atkritumu radītājam vai valdītājam vienojoties ar atkritumu apsaimniekotāju, kas veic attiecīgās atkritumu apsaimniekošanas darbības.
+(2) Maksu par bīstamo atkritumu apglabāšanu nosaka Ministru kabineta paredzētajā kārtībā.
+(3) Maksa par ražošanas atkritumu apglabāšanu bīstamo atkritumu poligonā ir tāda pati kā maksa par bīstamo atkritumu apglabāšanu attiecīgajā bīstamo atkritumu poligonā.

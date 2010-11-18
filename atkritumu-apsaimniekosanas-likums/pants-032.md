@@ -1,0 +1,1 @@
+32.pants. Laišana tirgū nozīmē to, ka baterijas vai akumulatori par maksu vai bez maksas tiek piegādāti vai padarīti pieejami trešajām personām Eiropas Savienības teritorijā, arī importēšanu Eiropas Savienības muitas teritorijā.

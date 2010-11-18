@@ -1,0 +1,1 @@
+16. Līdz līgumā noteiktā termiņa beigām, bet ne ilgāk kā līdz 2015.gada 31.decembrim ir spēkā līgums par sadzīves atkritumu apsaimniekošanu, ko slēgusi persona, kura ir publisko iepirkumu pasūtītājs atbilstoši normatīvajiem aktiem par publisko iepirkumu, un kas noslēgts līdz šā likuma spēkā stāšanās dienai.

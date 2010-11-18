@@ -1,0 +1,32 @@
+1.pants. Likumā ir lietoti šādi termini:
+1) atkritumi - jebkurš priekšmets vai viela, no kuras tās valdītājs atbrīvojas, ir nolēmis vai spiests atbrīvoties;
+2) bīstamie atkritumi - atkritumi, kuriem piemīt viena vai vairākas īpašības, kas padara tos bīstamus;
+3) sadzīves atkritumi - mājsaimniecībā, tirdzniecībā, pakalpojumu sniegšanas procesā vai citur radušies atkritumi, ja tie īpašību ziņā ir pielīdzināmi mājsaimniecībās radītajiem atkritumiem;
+4) ražošanas atkritumi - atkritumi, kas radušies ražošanas procesā vai būvniecībā;
+5) atkritumu valdītājs - ikviena fiziskā vai juridiskā persona, kura atbilst vismaz vienam no šādiem nosacījumiem:
+a) ir atkritumu radītāja,
+b) ir fiziskā vai juridiskā persona, kuras faktiskajā varā atrodas atkritumi;
+6) atkritumu radītājs - ikviena fiziskā vai juridiskā persona, kuras darbība rada atkritumus (sākotnējais atkritumu radītājs) vai kura veic atkritumu priekšapstrādi, sajaukšanu vai citas darbības, kā rezultātā mainās atkritumu sastāvs vai īpašības;
+7) atkritumu apsaimniekošana - atkritumu savākšana, uzglabāšana, pārvadāšana, reģenerācija un apglabāšana (tai skaitā sadedzināšana sadzīves atkritumu sadedzināšanas iekārtās), šo darbību pārraudzība, atkritumu apglabāšanas vietu aprūpe pēc to slēgšanas, kā arī tirdzniecība ar atkritumiem un starpniecība atkritumu apsaimniekošanā;
+8) atkritumu savākšana - atkritumu vākšana, arī atkritumu iepriekšēja šķirošana un glabāšana, lai tos nogādātu uz atkritumu reģenerācijas vai apglabāšanas iekārtām vai tādām iekārtām, kurās tiek veikta atkritumu sagatavošana reģenerācijai vai apglabāšanai;
+9) atkritumu dalītā savākšana - atkritumu savākšana, atsevišķi nodalot atkritumus pēc to veida un īpašībām, lai veicinātu atkritumu sagatavošanu reģenerācijai vai apglabāšanai, kā arī reģenerāciju vai apglabāšanu;
+10) atkritumu poligons - tāda speciāli ierīkota un aprīkota vieta atkritumu apglabāšanai uz zemes vai zemē, kur nodrošināti normatīvajos aktos noteiktie vides aizsardzības pasākumi;
+11) izgāztuve - atkritumu apglabāšanas vieta, kas neatbilst poligona prasībām;
+12) atkritumu uzglabāšana - atkritumu glabāšana tam speciāli piemērotās un aprīkotās vietās to turpmākai reģenerācijai vai apglabāšanai [izņemot īslaicīgu uzglabāšanu (mazāk par trim mēnešiem) to rašanās, šķirošanas un savākšanas vietās daudzumos, kas nerada kaitējumu videi vai draudus cilvēku veselībai];
+13) atkritumu reģenerācija - jebkura darbība, kuras galvenais rezultāts ir atkritumu lietderīga izmantošana ražošanas procesos vai tautsaimniecībā, aizstājot ar tiem citus materiālus, kuri būtu izmantoti attiecīgajai darbībai, vai atkritumu sagatavošana šādai izmantošanai;
+14) atkritumu pārstrāde - atkritumu reģenerācijas darbība, kurā atkritumu materiālus pārstrādā produktos, materiālos vai vielās atbilstoši to sākotnējam vai citam izmantošanas veidam, ietverot organisko materiālu pārstrādi un izņemot atkritumos esošās enerģijas reģenerāciju un tādu materiālu izgatavošanu, kuri tiks izmantoti par kurināmo vai izrakto tilpju aizbēršanai;
+15) atkritumu sagatavošana atkārtotai izmantošanai - par atkritumiem kļuvušu produktu vai to sastāvdaļu pārbaude, tīrīšana vai labošana, lai tos varētu atkārtoti lietot bez turpmākas priekšapstrādes;
+16) atkārtota izmantošana - jebkura darbība, kuras rezultātā produktus vai to sastāvdaļas, kas nav atkritumi, izmanto vēlreiz tādam pašam nolūkam, kādam tie bija paredzēti;
+17) atkritumu apglabāšana - jebkura cita ar atkritumiem veikta darbība, kas nav uzskatāma par atkritumu reģenerāciju, arī tad, ja šīs darbības sekundārais rezultāts ir vielu vai enerģijas iegūšana;
+18) atkritumu sagatavošana apglabāšanai - reģenerējamu vai kompostējamu atkritumu, kā arī sadzīvē radušos bīstamo atkritumu atdalīšana pirms to apglabāšanas atkritumu poligonā;
+19) atkritumu tirgotājs - jebkura persona, kas rīkojas savā vārdā, lai pirktu un pēc tam pārdotu atkritumus, arī tāda persona, kas nesaņem atkritumus turējumā;
+20) atkritumu apsaimniekošanas starpnieks - jebkura persona, kas organizē atkritumu reģenerāciju vai apglabāšanu citu personu vārdā, arī persona, kas nesaņem atkritumus turējumā;
+21) atkritumu apsaimniekotājs - komersants, arī atkritumu tirgotājs un atkritumu apsaimniekošanas starpnieks, kurš ir saņēmis attiecīgu atļauju atkritumu apsaimniekošanai šajā likumā vai normatīvajos aktos par piesārņojumu noteiktajā kārtībā;
+22) elektriskās un elektroniskās iekārtas - iekārtas, ko darbina ar elektrisko strāvu vai elektromagnētisko lauku, un iekārtas elektriskās strāvas un elektromagnētiskā lauka ģenerēšanai, piegādei un mērīšanai, kas konstruētas izmantošanai ar spriegumu, kurš nepārsniedz 1000 voltu maiņstrāvai un 1500 voltu līdzstrāvai, un kas atbilst Ministru kabineta noteiktajām kategorijām;
+23) elektrisko un elektronisko iekārtu atkritumi - elektriskās un elektroniskās iekārtas, kas uzskatāmas par atkritumiem, ieskaitot visas to sastāvdaļas, detaļu blokus un palīgmateriālus, kuri ir attiecīgās iekārtas daļa brīdī, kad iekārta kļūst par atkritumu;
+24) mājsaimniecības elektrisko un elektronisko iekārtu atkritumi - elektrisko un elektronisko iekārtu atkritumi, kuri radušies mājsaimniecībā vai citur, ja tie īpašību un daudzuma ziņā pielīdzināmi mājsaimniecībā radītajiem elektriskajiem un elektroniskajiem atkritumiem;
+25) elektrisko un elektronisko iekārtu atkritumu rašanās novēršana - pasākumu kopums, kuru mērķis ir samazināt elektrisko un elektronisko iekārtu un tajos esošo materiālu un vielu daudzumu, kā arī kaitējumu, ko tie nodara videi;
+26) elektrisko un elektronisko iekārtu ražotājs - jebkura persona, kas neatkarīgi no izmantotās tirdzniecības metodes, arī neatkarīgi no distances līguma [izņemot personu, kas pilnībā nodrošina maksājumus saskaņā ar noslēgto līgumu (aizdevuma, nomas, īres vai nomaksas pirkuma līgums vai cits līgums attiecībā uz elektriskajām vai elektroniskajām iekārtām neatkarīgi no tā, vai līguma noteikumos paredzēta iekārtu īpašumtiesību nodošana), ja uz to neattiecas šādi šā punkta apakšpunkta nosacījumi]:
+a) izgatavo un pārdod elektriskās un elektroniskās iekārtas ar savu firmas zīmi,
+b) ar savu firmas zīmi pārdod elektriskās un elektroniskās iekārtas, ko izgatavojušas citas personas, izņemot gadījumus, kad uz iekārtas ir arī izgatavotāja firmas zīme,
+c) savas saimnieciskās darbības ietvaros eksportē elektriskās un elektroniskās iekārtas uz kādu Eiropas Savienības dalībvalsti vai importē no tās.
