@@ -66,7 +66,7 @@
 51) par mednieka apliecības, mednieka sezonas kartes un medību atļaujas izsniegšanu, par atļaujas izsniegšanu ārvalstu medniekam medīt Latvijas Republikā un atļaujas izsniegšanu izvest medību trofejas no Latvijas Republikas, par mednieku un medību vadītāju eksāmeniem un par medījamo dzīvnieku nodarīto zaudējumu aprēķinu;
 52) par personas datu apstrādes reģistrēšanu vai Fizisko personu datu aizsardzības likumā noteikto reģistrējamo izmaiņu izdarīšanu;
 53) par sertifikācijas pakalpojumu sniedzēja akreditāciju un akreditācijas atjaunošanu (šo akreditāciju un akreditācijas atjaunošanu veic Datu valsts inspekcija);
-54) par informācijas sniegšanu no Valsts adrešu reģistra;
+54) (izslēgts ar 21.10.2010. likumu);
 55) (izslēgts ar 17.06.2010. likumu);
 56) par Elektronisko sakaru likumā noteiktajām radiofrekvenču spektra lietošanas tiesībām (ikgadējā nodeva);
 57) par Elektronisko sakaru likumā noteiktajām numerācijas resursu lietošanas tiesībām (ikgadējā nodeva);
@@ -123,4 +123,6 @@
 107) par speciālās atļaujas (licences) augu aizsardzības līdzekļu izplatīšanai izsniegšanu un pārreģistrāciju;
 108) par atzinuma par ūdens apgādes sistēmā konstatēto apdraudējumu cilvēku veselībai un veiktajiem korektīvajiem pasākumiem sagatavošanu;
 109) par Enerģētikas likumā noteikto drošības rezervju uzturēšanu;
-110) par pirotehniķa sertifikāta, tā dublikāta un atkārtota sertifikāta izsniegšanu.
+110) par pirotehniķa sertifikāta, tā dublikāta un atkārtota sertifikāta izsniegšanu;
+111) par speciālās atļaujas (licences) izsniegšanu patērētāju kreditēšanas pakalpojumu sniegšanai;
+112) par Latvijas Republikas Nacionālajā stratēģiskas nozīmes preču un pakalpojumu sarakstā minētu, sevišķā veidā veicamiem operatīvās darbības pasākumiem speciāli radītu vai pielāgotu iekārtu, ierīču vai instrumentu un to komponentu sertificēšanu.
