@@ -8,3 +8,4 @@
 (7) Ministru kabinets nosaka attīstības plānošanas dokumentu saskaņošanas kārtību, ciktāl likumā nav noteikts citādi.
 (8) Vienu reizi divos gados Ministru kabinets organizē publisku diskusiju par valsts attīstības virzieniem un prioritātēm, kā arī to īstenošanas gaitu.
 (9) Pārskatu par valsts attīstības plānošanas sistēmas darbību Ministru prezidents ietver savā ikgadējā ziņojumā Saeimai par Ministru kabineta paveikto un iecerēto darbību.
+(10) Pirmajā un trešajā gadā pēc Saeimas vēlēšanām Ministru prezidents ziņo Saeimai par valsts ilgtspējīgu attīstību un Latvijas ilgtspējīgas attīstības stratēģijas īstenošanu attiecīgajā laikposmā.
