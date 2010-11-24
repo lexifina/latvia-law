@@ -10,4 +10,4 @@
 2) informēt speciālās aizsardzības iestādi un procesa virzītāju par apdraudējumu un personām, kuras var būt iesaistītas draudu īstenošanā, kā arī sniegt citu speciālās aizsardzības iestādes pieprasīto informāciju, kas nepieciešama speciālās aizsardzības nodrošināšanai;
 3) neizpaust informāciju par speciālās aizsardzības pasākumiem;
 4) atturēties no darbībām, kas var apdraudēt tās vai citu personu dzīvību, veselību vai citas likumiskās intereses;
-5) ja personai tiek mainīta identitāte, - informēt speciālās aizsardzības iestādi par savām civiltiesiskajām saistībām.
+5) ja personai tiek mainīta identitāte, - informēt speciālās aizsardzības iestādi par savām civiltiesiskajām saistībām un nodot tai visus ar iepriekšējo identitāti saistītos dokumentus.
