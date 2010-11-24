@@ -12,11 +12,13 @@
 11) (izslēgts ar 17.11.2005. likumu);
 12) (izslēgts ar 17.11.2005. likumu);
 13) (izslēgts ar 17.11.2005. likumu);
-14) diētiskā pārtika - pārtika, kas sakarā ar specifisko sastāvu vai īpašo ražošanas procesu ir skaidri atšķirama no cita veida pārtikas un paredzēta noteiktai lietošanai personām, kurām traucēts gremošanas vai vielmaiņas process, vai personām, kurām, atrodoties īpašā fizioloģiskā stāvoklī, kontrolēti jālieto atsevišķas uzturvielas;
+14) (izslēgts ar 28.10.2010. likumu);
 15) trešās valstis - valstis, kas nav Eiropas Savienības dalībvalstis un Eiropas Ekonomikas zonas valstis;
 16) (izslēgts ar 17.11.2005. likumu);
 17) (izslēgts ar 17.11.2005. likumu);
 18) pārtikas preču marķējums - informācija (vārds, teksts, norāde, preču zīme, firmas zīme, attēls vai simbols), kas attiecas uz pārtikas preci un ir norādīta uz iepakojuma, pavaddokumentos, uz etiķetes vai uzlīmes, vai aptveres;
 19) vietējais tirgus - Latvijā ražotu produktu pārdošana patērēšanai Latvijā;
 20) (izslēgts ar 17.11.2005. likumu);
-21) (izslēgts ar 17.11.2005. likumu).
+21) (izslēgts ar 17.11.2005. likumu);
+22) materiāli un izstrādājumi, kas paredzēti saskarei ar pārtiku - materiāli un izstrādājumi, kas ir nonākuši saskarē ar pārtiku un paredzēti saskarei ar pārtiku, turklāt ir pamats uzskatīt, ka tie nonāks saskarē ar pārtiku vai pārnesīs savas sastāvdaļas uz pārtiku normālos vai paredzamos izmantošanas apstākļos;
+23) jaunā pārtika - pārtikas produkti un pārtikas produktu sastāvdaļas, kas atbilst Eiropas Parlamenta un Padomes 1997.gada 27.janvāra regulas (EEK) Nr. 258/97, kas attiecas uz jauniem pārtikas produktiem un jaunām pārtikas produktu sastāvdaļām, 1.panta 2.punktā noteiktajām kategorijām.
