@@ -17,4 +17,4 @@
 14) toksiskas ķīmiskās vielas vai maisījumi;
 15) kaitīgas ķīmiskās vielas vai maisījumi.
 (3) Ķīmisko vielu un maisījumu klasificēšanas kārtību atkarībā no minēto vielu un maisījumu bīstamajām īpašībām un pakāpes, kādā šīs īpašības tiem piemīt, reglamentē Ministru kabineta noteikumi.
-(4) Ministru kabinets nosaka bīstamo ķīmisko vielu sarakstu.
+(4) (Izslēgta ar 21.10.2010. likumu)
