@@ -1,3 +1,3 @@
 28.pants. Minimālais biedru skaits
 (1) Biedrība sastāv vismaz no diviem biedriem, ja statūti nenosaka lielāku biedru skaitu. Pēc biedrības ierakstīšanas reģistrā biedrības dibinātāji iegūst biedrības biedra statusu.
-(2) Ikviena biedrība ved savu biedru reģistru, kurā norādīts katra biedra vārds, uzvārds, personas kods un dzīvesvietas adrese (juridiskās personas nosaukums un adrese). Informācija par biedrības biedriem ir pieejama tikai attiecīgās biedrības biedriem, kā arī kontrolējošām un tiesībaizsardzības institūcijām.
+(2) Ikviena biedrība ved savu biedru reģistru, kurā norādīts katra biedra vārds, uzvārds, personas kods (ja tāda nav, - dzimšanas datums, personu apliecinoša dokumenta numurs un izdošanas datums, valsts un institūcija, kas dokumentu izdevusi) un dzīvesvietas adrese (juridiskās personas nosaukums un adrese). Informācija par biedrības biedriem ir pieejama tikai attiecīgās biedrības biedriem, kā arī kontrolējošām un tiesībaizsardzības institūcijām.

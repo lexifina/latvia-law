@@ -3,7 +3,7 @@
 (2) Lēmumā par biedrības dibināšanu norāda:
 1) biedrības nosaukumu;
 2) biedrības mērķi;
-3) dibinātāju vārdu, uzvārdu un personas kodu, bet juridiskajai personai un personālsabiedrībai - nosaukumu, reģistrācijas numuru un juridisko adresi;
+3) dibinātāju vārdu, uzvārdu un personas kodu (ja tāda nav, - dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti un institūciju, kas dokumentu izdevusi), bet juridiskajai personai un personālsabiedrībai - nosaukumu, reģistrācijas numuru un juridisko adresi;
 4) dibinātāju tiesības un pienākumus, ja dibinātāji par tādiem ir vienojušies;
 5) pilnvarojumu (ja tāds ir dots) atsevišķiem dibinātājiem parakstīt statūtus un pieteikumu reģistra iestādei;
 6) citas ziņas, kuras dibinātāji uzskata par nepieciešamām.

@@ -9,6 +9,6 @@
 7) valdes locekļu iecelšanas un atcelšanas kārtību, viņu skaitlisko sastāvu, pārstāvības tiesības un darbības termiņu;
 8) citu pārvaldes institūciju (ja tādas ir paredzētas) locekļu iecelšanas un atcelšanas kārtību un viņu darbības termiņu;
 9) saimnieciskās un finansiālās darbības revīzijas institūcijas uzbūvi, ievēlēšanas kārtību, kompetenci, lēmumu pieņemšanas kārtību un pilnvaru termiņus vai zvērināta revidenta iecelšanas kārtību un pilnvaru termiņus;
-10) statūtu grozījumu izdarīšanas kārtību.
+10) statūtu grozījumu izdarīšanas gadījumus un kārtību.
 (2) Statūtos var paredzēt citus noteikumus, kas nav pretrunā ar likumu. Ja statūti ir pretrunā ar likumu, piemērojami likuma noteikumi.
 (3) Statūtus paraksta visi nodibinājuma dibinātāji vai vismaz divi viņu pilnvaroti pārstāvji, bet, dibinot testamentāro nodibinājumu, - testamenta izpildītājs, mantinieks vai aizgādnis.
