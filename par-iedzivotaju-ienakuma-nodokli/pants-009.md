@@ -17,7 +17,7 @@
 14) darbinieka vai viņa radinieku (tuvinieku) nāves gadījumā darba devēja piešķirtais bēru pabalsts, kura vērtība nepārsniedz 150 latu;
 15) palīdzība stihiskas nelaimes gadījumā vai citos ārkārtējos gadījumos, ja tā sniegta uz valsts vai pašvaldību pārvaldes institūciju lēmuma pamata;
 16) kompensācijas izmaksas likumos un Ministru kabineta noteikto normu ietvaros, izņemot kompensāciju par neizmantoto atvaļinājumu;
-16¹) komandējuma izdevumu kompensācijas normas Ministru kabineta noteiktajā apmērā vai apmērā, kas noteikts valstī, kurā tiek veikti darba vai dienesta pienākumi (darba vieta atrodas citā valstī);
+16¹) komandējuma un darba brauciena izdevumu kompensācijas normas Ministru kabineta noteiktajā apmērā vai apmērā, kas noteikts valstī, kurā tiek veikti darba vai dienesta pienākumi (darba vieta atrodas citā valstī);
 17) ar Ministru kabineta lēmumu noteiktā apgāde natūrā, kā arī summas, kas izmaksātas šīs apgādes vietā;
 18) atlīdzība par asiņu nodošanu un cita veida donorpalīdzību;
 19) (izslēgts ar 01.12.2009. likumu);
@@ -45,6 +45,12 @@ a) pilnā apmērā - ja dāvinātāju ar maksātāju saista laulība vai radniec
 b) līdz 1000 latiem taksācijas gada laikā - ja dāvinātājs ir šā punkta "a" apakšpunktā neminēta fiziskā persona. Šī norma nav piemērojama, ja dāvanu dāvina fiziskā persona savas saimnieciskās darbības ietvaros, kā arī tad, ja fiziskā persona ir saņēmusi dāvanu ar atlīdzības raksturu Civillikuma izpratnē,
 c) pilnā apmērā - neatkarīgi no tā, vai dāvinātāju ar maksātāju saista laulība vai radniecība līdz trešajai pakāpei Civillikuma izpratnē, ja dāvinājums paredzēts un maksātājs to izlieto, lai segtu savus izdevumus par augstākās izglītības un visu pakāpju profesionālās izglītības iegūšanu, izdevumiem par specialitātes (profesijas, amata, aroda) iegūšanu valsts akreditētās Latvijas izglītības iestādēs, kā arī Eiropas Savienības dalībvalstu un Eiropas Ekonomikas zonas valstu mācību iestādēs vai apgūstot valsts akreditētās izglītības programmas,
 d) pilnā apmērā - neatkarīgi no tā, vai dāvinātāju ar maksātāju saista laulība vai radniecība līdz trešajai pakāpei Civillikuma izpratnē, ja dāvinājums paredzēts un maksātājs to izlieto, lai segtu savus izdevumus par medicīnas un ārstniecisko pakalpojumu izmantošanu, izņemot kosmētiskās operācijas;
+35¹) ienākums, kas gūts laika posmā no 2011.gada 1.janvāra līdz 2012.gada 31.decembrim aizdevuma (kredīta) saistību samazināšanas vai dzēšanas rezultātā, ja izpildās visi turpmāk šai punktā minētie nosacījumi:
+a) saistību atmaksa ir (vai saistību rašanās brīdī bija) nodrošināta ar nekustamā īpašuma hipotēku,
+b) ienākuma guvējs līdz 2009.gada 1.janvārim saistības ir uzņēmies nolūkā nodrošināt sevi (vai savu ģimeni) ar dzīvošanai paredzētu nekustamo īpašumu un izmantojis šo aizdevumu nekustamā īpašuma iegādei, būvniecībai, rekonstrukcijai vai uzlabošanai,
+c) uz saistību samazināšanas vai dzēšanas dienu ienākuma guvēja īpašumā ir ne vairāk kā viens nekustamais īpašums, kura lietošanas veids vai funkcionālā izmantošana ir paredzēta dzīvošanai,
+d) ienākuma guvējs (attiecībā uz aizdevēju) nav un nav bijis ar uzņēmumu saistīta persona likuma "Par uzņēmumu ienākuma nodokli" izpratnē,
+e) aizdevēju un ienākuma guvēju nesaista laulība vai radniecība līdz trešajai pakāpei Civillikuma izpratnē;
 36) uz tiesas sprieduma pamata no valsts budžeta izmaksājamās kompensācijas, kas nav saistītas ar darba attiecībām vai to pārtraukšanu;
 37) pabalsts likumos un Ministru kabineta noteikto normu ietvaros amatpersonas (darbinieka), karavīra ievainojuma, sakropļojuma vai citāda veselībai nodarīta kaitējuma gadījumā, kā arī karavīram veselības traucējuma gadījumā, ja tas gūts, pildot amata (dienesta, darba) pienākumus;
 38) pabalsts likumos un Ministru kabineta noteikto normu ietvaros amatpersonas (darbinieka) nāves gadījumā, ja tā gājusi bojā, pildot amata (dienesta, darba) pienākumus, kuru izpilde ir saistīta ar risku, vai mirusi gada laikā pēc nelaimes gadījuma no tajā gūtajiem veselības traucējumiem;
@@ -67,3 +73,4 @@ d) pilnā apmērā - neatkarīgi no tā, vai dāvinātāju ar maksātāju saista
 9. Šā panta pirmās daļas 35.punkta "c" un "d" apakšpunktā paredzētais dāvinājums tiek saņemts tikai bezskaidras naudas norēķinu veidā, un tā izlietošanu izglītībai vai ārstniecībai dāvinājuma saņēmējs pamato attiecīgi ar šādiem dokumentiem, kas ir viņa rīcībā:
 1) ārsta norīkojums vai slēdziens, kas apliecina ārstniecības nepieciešamību un ir maksātāja rīcībā, sākot ar dienu, kad dāvinājums saņemts;
 2) attaisnojuma dokumenti, kas apliecina dāvinājuma summas izlietošanu divu gadu laikā no dāvinājuma saņemšanas dienas norādītajam izglītības vai ārstniecības mērķim.
+10. Ja maksātāja saistību samazināšanas vai dzēšanas rezultātā gūtajam ienākumam tiek piemērots šā panta pirmās daļas 35.punktā noteiktais atbrīvojums, šā panta pirmās daļas 35.¹ punktā paredzētais atbrīvojums netiek piemērots.

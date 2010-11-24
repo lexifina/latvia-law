@@ -1,0 +1,1 @@
+64. Grozījumi šā likuma 19.panta pirmajā, trešajā un piektajā daļā, kā arī 19.panta 5.⁴ un 5.⁵ daļa stājas spēkā 2012.gada 1.janvārī un ir piemērojami ienākumiem, kas gūti, sākot ar 2011.gada 1.janvāri.
