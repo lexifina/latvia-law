@@ -1,2 +1,3 @@
 27. pants. Kultūras pieminekļu atsavināšanas kārtība
-Kultūras pieminekļus, kuru saglabāšanu īpašnieks nenodrošina, pēc Valsts kultūras pieminekļu aizsardzības inspekcijas ierosinājuma atsavina tiesas ceļā. Namīpašumu atsavināšanas gadījumā īrnieku tiesības tiek saglabātas saskaņā ar Latvijas Republikas likumdošanas aktiem.
+Nekustamos kultūras pieminekļus, kas nepieciešami sabiedrības vajadzību nodrošināšanai, tai skaitā tos, kuru saglabāšanu īpašnieks nenodrošina, var atsavināt Sabiedrības vajadzībām nepieciešamā nekustamā īpašuma atsavināšanas likumā noteiktajā kārtībā.
+Kustamos kultūras pieminekļus, kuru saglabāšanu īpašnieks nenodrošina, pēc Valsts kultūras pieminekļu aizsardzības inspekcijas ierosinājuma var atsavināt tiesas ceļā.
