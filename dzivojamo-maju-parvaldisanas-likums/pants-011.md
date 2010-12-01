@@ -18,4 +18,4 @@ c) atlīdzību par pārvaldīšanu, ja līdzēji par tādu vienojas, kā arī š
 12) no pārvaldīšanas līguma izrietošo saistību un lietu pārņemšanas kārtība līguma noslēgšanas, grozīšanas vai izbeigšanas gadījumā;
 13) pārvaldīšanas līguma termiņš;
 14) pārvaldnieka atbildības apjoms un iestāšanās brīdis.
-(3) Tipveida pārvaldīšanas līgumu izstrādā Ekonomikas ministrija.
+(3) (Izslēgta ar 28.10.2010. likumu)
