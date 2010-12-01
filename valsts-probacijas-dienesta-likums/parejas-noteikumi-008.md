@@ -1,0 +1,1 @@
+8. Ministru kabinets līdz 2011.gada 1.aprīlim izdod šā likuma 15.panta ceturtajā daļā paredzētos Ministru kabineta noteikumus par izvērtēšanas ziņojuma sastādīšanas kārtību, tajā iekļaujamās informācijas apjomu un tā sniegšanas kārtību.
