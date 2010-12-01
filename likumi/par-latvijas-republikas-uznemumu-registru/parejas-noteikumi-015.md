@@ -1,0 +1,1 @@
+15. Grozījumi šā likuma 5., 8., 14., 18.¹, 18.⁶ un 18.¹⁴ pantā par nosaukuma (firmas) atšķiramību no Uzņēmumu reģistra vestajos reģistros ierakstītiem vai ierakstīšanai pieteiktiem nosaukumiem (firmām) neskar to tiesību subjektu tiesības uz nosaukumu (firmu), kurš ierakstīts vai pieteikts ierakstīšanai attiecīgajā reģistrā līdz 2010.gada 30.novembrim.

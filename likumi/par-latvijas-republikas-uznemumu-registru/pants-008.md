@@ -19,4 +19,7 @@ Ja Uzņēmumu reģistra žurnālā ierakstītās ziņas ir publicētas, tās var
 Darījumu attiecībās ar uzņēmumu (uzņēmējsabiedrību), tā filiāli vai pārstāvniecību noteicošais ir publikācija un ieraksts, ko par attiecīgo uzņēmumu (uzņēmējsabiedrību), tā filiāli vai pārstāvniecību izdarījis Uzņēmumu reģistra valsts notārs.
 Par uzņēmuma (uzņēmējsabiedrības), tā filiāļu un pārstāvniecību dokumentu atvasinājumiem, citu likumdošanā paredzēto darbību izpildi un informācijas izsniegšanu ņemama valsts nodeva.
 Uzņēmumu reģistra darbību finansē no valsts pamatbudžeta, kā arī no ienākumiem, kas gūti par maksas pakalpojumiem un tiek ieskaitīti Tieslietu ministrijas pamatbudžeta kontā.
-(Piecpadsmitā daļa izslēgta ar 11.11.1999. likumu.)
+Pārbaudot šā likuma 5.panta piektajā daļā norādītos apstākļus, Uzņēmumu reģistra valsts notārs ir tiesīgs pieņemt lēmumu par ieraksta izdarīšanas atlikšanu tad, ja:
+1) uzņēmuma (uzņēmējsabiedrības) nosaukums sakrīt ar Uzņēmumu reģistra žurnālā un citos Uzņēmumu reģistra vestajos reģistros ierakstītu vai ierakstīšanai pieteiktu nosaukumu (firmu);
+2) starp uzņēmuma (uzņēmējsabiedrības) pieteikto nosaukumu un Uzņēmumu reģistra žurnālā un citos Uzņēmumu reģistra vestajos reģistros jau ierakstītu vai ierakstīšanai pieteiktu nosaukumu (firmu) vienīgā atšķirība ir atstarpes un pieturzīmes starp nosaukumā (firmā) lietotajiem burtiem, cipariem vai lielo un mazo burtu lietošana.
+Pārbaudot pieteiktā nosaukuma atbilstību šā likuma 5.panta piektās daļas noteikumiem, Uzņēmumu reģistra valsts notārs vērtē uzņēmuma (uzņēmējsabiedrības) nosaukumu un citos Uzņēmumu reģistra vestajos reģistros reģistrētos nosaukumus (firmas) bez norādes uz to tiesisko formu.
