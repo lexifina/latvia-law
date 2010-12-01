@@ -1,0 +1,3 @@
+8.pants. Ģenerālsekretārs
+(1) Asambleja ģenerālsekretāru izraugās atklātā konkursā un pieņem darbā uz pieciem gadiem. Ne vēlāk kā divus mēnešus pirms ģenerālsekretāra pilnvaru termiņa beigām Asambleja pieņem lēmumu par viņa pilnvaru termiņa pagarināšanu uz pieciem gadiem vai pamatotu lēmumu par atbrīvošanu no amata un izsludina atklātu konkursu uz ģenerālsekretāra amatu. Darba līgumu ar ģenerālsekretāru slēdz Komisijas prezidents.
+(2) Ģenerālsekretārs vada Komisijas administratīvo darbu, pilda Asamblejas noteiktos uzdevumus, nodrošina tās lēmumu izpildi, pārstāv Komisiju, pieņem darbā un atbrīvo no darba Komisijas darbiniekus un pilda citus normatīvajos aktos noteiktos iestādes vadītāja pienākumus.

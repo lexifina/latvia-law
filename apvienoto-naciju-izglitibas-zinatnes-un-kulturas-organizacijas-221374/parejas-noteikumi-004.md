@@ -1,0 +1,1 @@
+4. Pirms šā likuma spēkā stāšanās dienas apstiprinātā ģenerālsekretāra pilnvaru termiņš ir četri gadi no dienas, kad ģenerālsekretārs apstiprināts amatā atbilstoši likumam "Par UNESCO Latvijas Republikas Nacionālās komisijas Satversmes apstiprināšanu".
