@@ -1,4 +1,4 @@
-37.pants. Ministru kabinets nosaka II un III sarakstā iekļauto zāļu saņemšanas, iepirkšanas, izplatīšanas, izsniegšanas, uzglabāšanas, uzskaites un iznīcināšanas kārtību:
+37.pants. Ministru kabinets nosaka II un III sarakstā iekļauto vielu un zāļu saņemšanas, iepirkšanas, izplatīšanas, izsniegšanas, uzglabāšanas, uzskaites un iznīcināšanas kārtību:
 1) zāļu un veterināro zāļu lieltirgotavās;
 2) zāļu un veterināro zāļu ražošanā;
 3) aptiekās;
