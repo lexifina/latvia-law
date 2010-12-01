@@ -1,0 +1,2 @@
+37.¹ pants. Norīkošana dienestā ārvalstīs valsts interesēs
+Ierēdni ar viņa piekrišanu uz noteiktu laiku valsts interesēs var norīkot dienestā starptautiskajā organizācijā, kuras dalībvalsts ir Latvijas Republika vai ar kuru sadarbojas Latvijas Republika, vai šādas organizācijas dalībvalsts institūcijā. Šādā gadījumā ierēdnim tiek nodrošinātas tiesības pēc atgriešanās ieņemt iepriekšējo vai līdzvērtīgu amatu. Valsts iestāde, kura norīkojusi ierēdni, ir tiesīga viņu atsaukt.
