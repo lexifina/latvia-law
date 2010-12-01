@@ -1,0 +1,1 @@
+12. Grozījumi šā likuma 3.panta pirmajā daļā par naudas balvām un 3.panta ceturtās daļas 5.punkts, kā arī grozījums par pārejas noteikumu 7.punkta 3.apakšpunkta izslēgšanu stājas spēkā 2011.gada 1.februārī. Šā likuma 3.panta ceturtās daļas 6.punkts un 7.panta trešās daļas 2.punkts stājas spēkā 2011.gada 1.martā.

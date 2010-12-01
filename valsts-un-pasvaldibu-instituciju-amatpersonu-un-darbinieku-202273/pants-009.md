@@ -1,5 +1,5 @@
 9.pants. Karavīru un militāro darbinieku mēnešalga
-(1) Karavīra mēnešalgas apmēru un noteikšanas kārtību, ņemot vērā dienesta pakāpi un izdienu, kā arī Aizsardzības ministrijas amatpersonas (darbinieka) - profesionāla sportista - mēnešalgas apmēru un noteikšanas kārtību reglamentē Ministru kabinets.
+(1) Karavīru, tai skaitā profesionālu sportistu, mēnešalgas apmēru un noteikšanas kārtību, ņemot vērā dienesta pakāpi un izdienu, reglamentē Ministru kabinets.
 (2) Karavīrs, kas iecelts augstākai dienesta pakāpei atbilstošā amatā, tā pildīšanas laikā saņem piemaksu mēnešalgu starpības apmērā. Karavīrs, kas iecelts zemākai dienesta pakāpei atbilstošā amatā, tā pildīšanas laikā saņem mēnešalgu atbilstoši savai dienesta pakāpei.
 (3) Karavīrs, kas uz noteiktu laiku valsts interesēs iecelts valsts civildienesta ierēdņa amatā vai citā amatā, tā pildīšanas laikā saņem karavīram noteikto mēnešalgu un karavīram noteiktos pabalstus un kompensācijas.
 (4) Ja karavīrs saņem slimības pabalstu un tā apmērs ir mazāks par karavīra mēnešalgu, viņam no atalgojumam piešķirtajiem līdzekļiem kompensē šo starpību.

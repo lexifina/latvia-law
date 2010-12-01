@@ -1,0 +1,1 @@
+11. Pašvaldību un to izveidoto iestāžu amatpersonu (darbinieku), izņemot šā likuma 5.pantā minētās amatpersonas, mēnešalgu atbilstību šā likuma prasībām nodrošina ne vēlāk kā līdz 2011.gada 1.janvārim.

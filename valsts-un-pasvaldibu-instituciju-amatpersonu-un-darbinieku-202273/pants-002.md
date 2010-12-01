@@ -8,7 +8,7 @@
 6) Centrālā vēlēšanu komisija;
 7) Centrālā zemes komisija;
 8) Sabiedrisko pakalpojumu regulēšanas komisija;
-9) Nacionālā radio un televīzijas padome;
+9) Nacionālā elektronisko plašsaziņas līdzekļu padome;
 10) Augstākās izglītības padome;
 11) Noziedzīgi iegūtu līdzekļu legalizācijas novēršanas dienests;
 12) tiešās pārvaldes iestādes;
