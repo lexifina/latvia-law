@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2010.gada 30.novembra noteikumi Nr.1082 \"Kārtība, kādā piesakāmas A, B un C kategorijas piesārņojošas darbības un izsniedzamas atļaujas A un B kategorijas piesārņojošo darbību veikšanai\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "192 (4384)",
+  "official_journal_page": null,
+  "official_journal_date": "2010-12-03",
+  "entry_into_force": "2010-12-04",
+  "notification_date": "2013-07-01",
+  "commission_reference": "MNE(2013)56128",
+  "nim_celex": "72010L0075LVA_207053",
+  "nim_id": "207053",
+  "transposes_celex": [
+    "32010L0075"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b71f2013-099f-43c4-a949-e531ce0c31a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
