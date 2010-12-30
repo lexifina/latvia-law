@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Kārtība, kādā izsniedz atļaujas nemedījamo sugu indivīdu iegūšanai, ievieš Latvijas dabai\nneraksturīgas savvaļas sugas (introdukcija) un atjauno sugu populāciju dabā (reintrodukcija)",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "205",
+  "official_journal_page": null,
+  "official_journal_date": "2010-12-29",
+  "entry_into_force": "2010-12-30",
+  "notification_date": "2012-06-06",
+  "commission_reference": "MNE(2012)52612",
+  "nim_celex": "71985L0337LVA_191232",
+  "nim_id": "191232",
+  "transposes_celex": [
+    "31985L0337",
+    "31992L0043",
+    "31997L0011",
+    "32003L0035",
+    "32009L0147"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b32b61e6-e2ff-4f88-9000-54648e793c3b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
