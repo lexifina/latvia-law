@@ -9,3 +9,4 @@ c) tā ir iekļauta Ekonomiskās sadarbības un attīstības organizācijas (OEC
 3) sēklu kvalitāte atbilst sēklaudzēšanas un sēklu tirdzniecības noteikumu prasībām;
 4) ir nokārtoti ar sēklu sertificēšanu saistītie maksājumi.
 (3) Sēklas, kuras sertificējusi Eiropas Savienības dalībvalsts oficiālā institūcija vai sertifikācija veikta oficiālās institūcijas uzraudzībā saskaņā ar attiecīgās dalībvalsts normatīvajiem aktiem, kvalitātes ziņā pielīdzināmas Valsts augu aizsardzības dienesta sertificētajām sēklām.
+(4) Valsts augu aizsardzības dienests lēmumu par atļaujas izsniegšanu sertificēt sēklas ar pazeminātu dīgtspēju vai lēmumu par atļaujas izsniegšanu pazemināt izlases sēklas kategoriju pieņem mēneša laikā pēc sēklaudzēšanas un sēklu tirdzniecības noteikumos paredzētā iesniegumu iesniegšanas termiņa izbeigšanās.

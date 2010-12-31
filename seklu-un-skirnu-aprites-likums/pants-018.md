@@ -1,6 +1,6 @@
 18.pants. Likuma izpildes kontrole
 (1) Šā likuma izpildi kontrolē Valsts augu aizsardzības dienests.
-(2) Valsts augu aizsardzības dienesta amatpersonas, kontrolējot likuma izpildi, ir tiesīgas apmeklēt uzņēmumus (uzņēmējsabiedrības) un tirdzniecības vietas to darbības laikā un tur:
+(2) Valsts augu aizsardzības dienesta amatpersonas, kontrolējot likuma izpildi, ir tiesīgas apmeklēt uzņēmumus un tirdzniecības vietas to darbības laikā un tur:
 1) apskatīt ar šā likuma darbību saistītos dokumentus un pierakstus;
 2) bez maksas noņemt kontrolparaugus sēklu kvalitātes un veselīguma noteikšanai.
 (3) Valsts augu aizsardzības dienests ir tiesīgs:

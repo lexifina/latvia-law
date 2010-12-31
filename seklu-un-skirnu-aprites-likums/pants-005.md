@@ -1,4 +1,4 @@
-5.pants. Sēklaudzēšanas un sēklu tirdzniecības noteikumi, saglabājamās šķirnes atzīšanas un sēklu aprites noteikumi
+5.pants. Sēklaudzēšanas un sēklu tirdzniecības noteikumi, saglabājamās šķirnes un noteiktos apstākļos audzējamas dārzeņu šķirnes atzīšanas un sēklu aprites noteikumi
 (1) Sēklaudzēšanas un sēklu tirdzniecības noteikumi reglamentē:
 1) kārtību, kādā sēklaudzētājus, sēklu sagatavotājus, saiņotājus un tirgotājus reģistrē Sēklaudzētāju un sēklu tirgotāju reģistrā, kā arī kārtību, kādā veic izmaiņas šajā reģistrā, un kārtību, kādā šo reģistrāciju anulē;
 2) sēklu kategoriju sistēmu dažādu augu sugu sēklām;
@@ -19,3 +19,11 @@
 5) prasības saglabājamo šķirņu sēklu kvalitātei;
 6) prasības saglabājamo šķirņu sēklu saiņošanai un etiķetēšanai;
 7) prasības saglabājamo šķirņu sēklu pēcpārbaudei kontrollauciņos, lai pārbaudītu šķirnes identitāti un šķirnes tīrību.
+(3) noteiktos apstākļos audzējamas dārzeņu šķirnes atzīšanas un sēklu aprites noteikumi reglamentē:
+1) prasības noteiktos apstākļos audzējamas dārzeņu šķirnes atzīšanai;
+2) minimālās prasības un kārtību, kādā veicama noteiktos apstākļos audzējamas dārzeņu šķirnes atšķirīguma, viendabīguma un stabilitātes pārbaude;
+3) prasības un kārtību, kādā noteiktos apstākļos audzējama dārzeņu šķirne iekļaujama Latvijas augu šķirņu katalogā;
+4) prasības noteiktos apstākļos audzējamas dārzeņu šķirnes sēklu apritei;
+5) prasības noteiktos apstākļos audzējamas dārzeņu šķirnes sēklu kvalitātei;
+6) prasības noteiktos apstākļos audzējamas dārzeņu šķirnes sēklu saiņošanai un etiķetēšanai;
+7) prasības noteiktos apstākļos audzējamas dārzeņu šķirnes sēklu pēcpārbaudei kontrollauciņos.
