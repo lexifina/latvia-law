@@ -1,1 +1,1 @@
-9. Ministru kabinets līdz 2012.gada 1.decembrim izdod šā likuma 18.panta otrajā daļā minētos noteikumus, izņemot šo pārejas noteikumu 8.punktā paredzētos noteikumus par kultūraugu sugu atšķirīguma, viendabīguma un stabilitātes metodiku.
+9. Ministru kabinets līdz 2012.gada 1.decembrim izdod šā likuma 18.panta sestajā daļā minētos noteikumus, izņemot šo pārejas noteikumu 8.punktā paredzētos noteikumus par kultūraugu sugu atšķirīguma, viendabīguma un stabilitātes metodiku.
