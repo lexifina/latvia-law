@@ -1,0 +1,1 @@
+10. Grozījums šā likuma 84.pantā, kas maina prasības zvērinātu advokātu palīgu patroniem, neattiecas uz zvērinātu advokātu, kurš kļuvis par zvērināta advokāta palīga patronu līdz šā grozījuma spēkā stāšanās dienai.

@@ -1,1 +1,2 @@
 41.³ Ja pretendents nokārtojis advokāta eksāmenu un Latvijas Zvērinātu advokātu padome nav saņēmusi papildu ziņas, ka pretendenta uzņemšanai ir radušies šā likuma 15.pantā minētie šķēršļi, Latvijas Zvērinātu advokātu padome uzņem viņu zvērinātu advokātu skaitā.
+Ja pretendents nav nokārtojis advokāta eksāmenu, viņam ir tiesības kārtot šo eksāmenu atkārtoti ne agrāk kā pēc 12 mēnešiem. Ja pretendents atkārtoti nav nokārtojis advokāta eksāmenu, katru nākamo reizi kārtot šo eksāmenu atļauts, kad pagājuši ne mazāk kā trīs gadi pēc iepriekšējā, nenokārtotā eksāmena.

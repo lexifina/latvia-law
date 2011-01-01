@@ -1,1 +1,1 @@
-84. Par zvērināta advokāta palīga patronu var būt zvērināts advokāts, kas ne mazāk kā piecus gadus praktizējis kā zvērināts advokāts un spēj vadīt, nodarbināt un uzraudzīt palīgu. Par to katrā atsevišķā gadījumā spriež Latvijas Zvērinātu advokātu padome.
+84. Par zvērināta advokāta palīga patronu var būt zvērināts advokāts, kas ne mazāk kā septiņus gadus praktizējis kā zvērināts advokāts un spēj vadīt, nodarbināt un uzraudzīt palīgu. Par to katrā atsevišķā gadījumā spriež Latvijas Zvērinātu advokātu padome.

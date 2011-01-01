@@ -1,1 +1,1 @@
-85. Zvērinātam advokātam nevar būt vairāk par diviem palīgiem.
+85. Zvērinātam advokātam nevar būt vairāk par vienu palīgu.

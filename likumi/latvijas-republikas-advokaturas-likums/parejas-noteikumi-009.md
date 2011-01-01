@@ -1,0 +1,1 @@
+9. Grozījumi šā likuma 14., 94., 95., 96. un 101.pantā, kas maina nosacījumus zvērinātu advokātu palīgu uzņemšanai zvērinātu advokātu skaitā, neattiecas uz personu, kura kļuvusi par zvērināta advokāta palīgu līdz šo grozījumu spēkā stāšanās dienai.

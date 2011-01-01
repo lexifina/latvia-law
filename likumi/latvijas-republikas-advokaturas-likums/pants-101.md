@@ -1,1 +1,1 @@
-101. Par zvērināta advokāta palīgu jādarbojas trīs gadus. Zvērināta advokāta palīgs, kas nākamo divu gadu laikā nav uzņemts zvērinātu advokātu skaitā, izslēdzams no zvērinātu advokātu palīgu skaita. Latvijas Zvērinātu advokātu padome pamatotu iemeslu dēļ var pagarināt termiņu uz gadu.
+101. Par zvērināta advokāta palīgu jādarbojas piecus gadus. Zvērināta advokāta palīgs, kas nākamo divu gadu laikā nav uzņemts zvērinātu advokātu skaitā, izslēdzams no zvērinātu advokātu palīgu skaita. Latvijas Zvērinātu advokātu padome pamatotu iemeslu dēļ var pagarināt termiņu uz gadu.

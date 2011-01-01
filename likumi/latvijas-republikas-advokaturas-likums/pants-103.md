@@ -1,1 +1,2 @@
-103. Zvērinātu advokātu palīgu profesionālai sagatavošanai, viņu darbības uzraudzībai un vadīšanai Latvijas Zvērinātu advokātu padome izveido uzraudzības un eksāmenu komisijas no zvērinātiem advokātiem.
+103. Zvērinātu advokātu palīgu profesionālai sagatavošanai, viņu darbības uzraudzībai un vadīšanai Latvijas Zvērinātu advokātu padome izveido Zvērinātu advokātu palīgu profesionālās sagatavošanas, darbības uzraudzības un eksāmenu komisiju.
+Zvērinātu advokātu palīgu profesionālās sagatavošanas, darbības uzraudzības un eksāmenu komisija izstrādā un apstiprina zvērināta advokāta palīga uzņemšanas eksāmena jautājumus un kārtību, kā arī pieņem šo eksāmenu.

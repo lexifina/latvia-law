@@ -1,0 +1,1 @@
+11. Grozījums šā likuma 85.pantā, kas liedz zvērinātam advokātam būt par patronu vairāk nekā vienam zvērināta advokāta palīgam, neattiecas uz zvērinātu advokātu, kurš kļuvis par patronu diviem zvērinātu advokātu palīgiem līdz šā grozījuma spēkā stāšanās dienai.

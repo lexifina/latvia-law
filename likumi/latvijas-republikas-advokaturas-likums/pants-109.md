@@ -1,1 +1,1 @@
-109. Zvērināti advokāti praksi uzsāk tikai pēc viņu iekļaušanas zvērinātu advokātu sarakstā. Par to Zvērinātu advokātu padome paziņo attiecīgajai Valsts ieņēmumu dienesta nodaļai. Par savas prakses vietas adresi un tās maiņu zvērinātam advokātam jāziņo attiecīgajai Valsts ieņēmumu dienesta nodaļai.
+109. Zvērināti advokāti praksi uzsāk tikai pēc viņu iekļaušanas zvērinātu advokātu sarakstā.
