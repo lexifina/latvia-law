@@ -1,0 +1,1 @@
+51. Laikposmā no 2011.gada 1.janvāra līdz 2011.gada 28.februārim likuma 22.panta ceturtajā daļā, 4.¹ daļā un 29.panta pirmajā daļā minētās vidējās svērtās mazumtirdzniecības cenas vietā izmanto vispieprasītāko mazumtirdzniecības cenu - 76 lati par 1000 cigaretēm.

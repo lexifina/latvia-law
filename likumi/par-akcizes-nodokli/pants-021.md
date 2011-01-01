@@ -25,12 +25,12 @@ d) četri litri negāzētā vīna un 16 litri alus;
 4) degvielu, kas atrodas:
 a) transportlīdzekļa degvielas standarttvertnē,
 b) degvielas pārvietojamās tvertnēs - ne vairāk kā 10 litru vienam transportlīdzeklim.
-(4¹) Degvielai, kas minēti šā panta ceturtajā daļā, piemērojami Regulas Nr. 918/83 XXVII sadaļas noteikumi.
+(4¹) Degvielai, kas minēti šā panta ceturtajā daļā, piemērojami Regulas Nr. 1186/2009 XXVIII nodaļas noteikumi.
 (4²) Šā panta ceturtās daļas 1., 1.¹ un 2.punktā paredzētos nodokļa atbrīvojumus piemēro fiziskajai personai, kas ir sasniegusi 18 gadu vecumu.
 (4³) Akcīzes preču ievešanu neuzskata par komerciālu šā panta ceturtās daļas izpratnē, ja tā atbilst šādiem nosacījumiem:
 1) tā nenotiek regulāri (ne biežāk kā vienu reizi dienā);
 2) akcīzes preces paredzētas fiziskās personas personīgai vai ģimenes lietošanai.
 (4⁴) Šā panta 4.³ daļas izpratnē akcīzes preču ievešanu neuzskata par komerciālu, ja akcīzes preces ieved tādā daudzumā un vērtībā, kas neliecina, ka tās būtu ievestas komerciāliem nolūkiem.
-(5) No nodokļa atbrīvo akcīzes preces, kuras fiziskā persona no ārvalsts, kas nav dalībvalsts, no teritorijām, kuras minētas šā likuma 2.panta 3.¹ daļā, nosūta pa pastu fiziskajai personai Latvijas Republikā un kuras ir atbrīvotas no muitas nodokļa saskaņā ar Regulu Nr. 918/83.
+(5) No nodokļa atbrīvo akcīzes preces, kuras fiziskā persona no ārvalsts, kas nav dalībvalsts, no teritorijām, kuras minētas šā likuma 2.panta 3.¹ daļā, nosūta pa pastu fiziskajai personai Latvijas Republikā un kuras ir atbrīvotas no muitas nodokļa saskaņā ar Regulu Nr. 1186/2009.
 (6) No nodokļa atbrīvo akcīzes preces (izņemot naftas produktus), kuras piegādā kuģiem un gaisakuģiem, kas veic starptautiskus pārvadājumus (arī starp dalībvalstīm), ar nosacījumu, ka šīs preces tiek realizētas (arī gadījumos, kad preču vērtība tiek iekļauta biļetes cenā) uz attiecīgā kuģa vai gaisakuģa mazumtirdzniecībā patērēšanai uz vietas (izņemot realizēšanu mazumtirdzniecībā promnešanai) vai tiek izmantotas kuģa apkalpes apgādei. Šajā gadījumā konkrētā kuģa vai gaisakuģa kapteinis piegādātājam - nodokļa maksātājam rakstveidā apliecina, ka saņemtās akcīzes preces (norādot produkta veidu, nosaukumu, daudzumu un akcīzes preču izmantošanas mērķi) netiks izmantotas citādi.
 (7) No nodokļa atbrīvo akcīzes preces, kuras ir lietiskais pierādījums vai arestētā manta kriminālprocesā, izņemtā manta administratīvo pārkāpumu lietā vai valstij piekritīgā manta, ja minētās akcīzes preces iznīcina, taču minēto akcīzes preču iznīcināšana neatbrīvo no atbildības personu, uz kuru attiecas šā likuma XI nodaļā noteiktā atbildība.

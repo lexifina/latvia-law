@@ -9,7 +9,7 @@
 3) atliktā nodokļa maksāšana - akcīzes nodokļa samaksas atlikšana attiecībā uz akcīzes preču ražošanu, pārstrādi, uzglabāšanu, pārvietošanu un citām darbībām saskaņā ar likumu;
 4) dalībvalsts - jebkura Eiropas Savienības dalībvalsts;
 5) maksimālā mazumtirdzniecības cena - cigarešu cena (ieskaitot visus nodokļus), kuru norāda uz akcīzes nodokļa markas un kuru konkrētām cigaretēm nosaka akcīzes nodokļa marku saņēmēji, pasūtot akcīzes nodokļa markas šīm cigaretēm;
-6) vispieprasītākā mazumtirdzniecības cena - akcīzes nodokļa marku saņēmēju visbiežāk noteiktā maksimālā mazumtirdzniecības cena cigaretēm attiecīgā laikposmā;
+6) vidējā svērtā mazumtirdzniecības cena - attiecīgā laikposmā noteikta cigarešu maksimālā mazumtirdzniecības cena, ņemot vērā patēriņam nodoto un brīvā apgrozībā laisto cigarešu kopējo vērtību un cigarešu skaitu;
 7) akcīzes preču noliktava - vieta, kur apstiprināts noliktavas turētājs ražo, pārstrādā, uzglabā, ieved, saņem, nosūta vai veic citas darbības ar akcīzes precēm, piemērojot atlikto nodokļa maksāšanu;
 8) importētājs - persona, kura piesaka muitas procedūrai - laišana brīvā apgrozībā - akcīzes preces, kas Latvijas Republikā ievestas no ārvalsts, kura nav dalībvalsts, vai no teritorijas, kura minēta šā likuma 2.panta 3.¹ daļā;
 9) apstiprināts noliktavas turētājs - persona, kurai ir tiesības turēt tās īpašumā vai valdījumā esošu akcīzes preču noliktavu;
