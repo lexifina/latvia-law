@@ -1,1 +1,1 @@
-72.pants. Tiesmedicīnisko un tiespsihiatrisko ekspertīzi veic pēc likumā noteiktajā kārtībā pieņemta izziņas izdarītāja, prokurora vai tiesas (tiesneša) lēmuma. Kārtību, kādā notiek tiesmedicīniskā un tiespsihiatriskā ekspertīze, nosaka Ministru kabinets.
+72.pants. Tiesmedicīnisko un tiespsihiatrisko ekspertīzi veic pēc likumā noteiktajā kārtībā pieņemta institūcijas (amatpersonas), izmeklētāja, izmeklēšanas grupas dalībnieka, prokurora vai tiesas (tiesneša) lēmuma. Kārtību, kādā notiek tiesmedicīniskā un tiespsihiatriskā ekspertīze, nosaka Ministru kabinets.
