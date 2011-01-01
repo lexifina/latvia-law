@@ -1,0 +1,1 @@
+6. 2011. un 2012.gadā netiek izveidotas jaunas aizsargājamās teritorijas, kurās noteikti mežsaimnieciskās darbības ierobežojumi, izņemot gadījumus, kad aizsargājamā teritorija izveidojama saskaņā ar Eiropas Savienības normatīvajiem aktiem.
