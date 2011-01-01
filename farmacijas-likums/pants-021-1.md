@@ -1,0 +1,1 @@
+21.¹ pants. Ja nav pieejamas dzīvnieku ārstēšanai un profilaksei nepieciešamās veterinārās zāles, praktizējošam veterinārārstam normatīvajos aktos noteiktajā kārtībā atļauts izplatīt un lietot cilvēkiem paredzētās zāles.

@@ -1,0 +1,1 @@
+25. Persona, kura izplata veterinārās zāles aptiekā, kas savu darbību uzsākusi līdz 2010.gada 31.decembrim, ir tiesīga izplatīt veterinārās zāles bez sertifikāta veterināro zāļu izplatīšanai līdz 2012.gada 1.jūlijam.

@@ -1,1 +1,2 @@
-29.pants. Ar zāļu novērtēšanu, reģistrāciju, pārreģistrāciju un pēcreģistrācijas uzraudzību saistītos izdevumus sedz reģistrācijas pieprasītājs saskaņā ar Ministru kabineta noteikumiem par publisko maksas pakalpojumu izcenojumiem.
+29.pants. (1) Ar zāļu novērtēšanu, reģistrāciju, pārreģistrāciju un pēcreģistrācijas uzraudzību saistītos izdevumus sedz reģistrācijas pieprasītājs saskaņā ar Ministru kabineta noteikumiem par publisko maksas pakalpojumu izcenojumiem.
+(2) Ar veterināro zāļu novērtēšanu, reģistrāciju, pārreģistrāciju un pēcreģistrācijas uzraudzību saistītos izdevumus sedz reģistrācijas pieprasītājs saskaņā ar normatīvo aktu par Pārtikas un veterinārā dienesta veikto valsts uzraudzības un kontroles darbību un sniegto maksas pakalpojumu samaksas kārtību.

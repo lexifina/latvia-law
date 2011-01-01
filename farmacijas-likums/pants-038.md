@@ -1,4 +1,5 @@
-38.pants. (1) Aptieku vada un par tās darbu ir atbildīgs aptiekas vadītājs, kas saņēmis farmaceita profesionālās kvalifikācijas sertifikātu vai - attiecībā uz veterinārajām aptiekām - speciālo atļauju (licenci) veterināro zāļu izplatīšanai.
+38.pants. (1) Aptieku vada un par tās darbu ir atbildīgs aptiekas vadītājs, kas saņēmis farmaceita profesionālās kvalifikācijas sertifikātu.
+(1¹) Novadā, novada pilsētā vai novada pagastā, kur iedzīvotāju skaits nepārsniedz 4000 un piecu kilometru rādiusā nav citas farmaceita vadītas aptiekas vai aptiekas filiāles, aptieku drīkst vadīt un par tās darbu ir atbildīgs farmaceita asistents, kuram ir vismaz piecus gadus ilga nepārtraukta farmaceita asistenta darba pieredze aptiekā. Ja attiecīgajā novadā, novada pilsētā vai novada pagastā, kur iedzīvotāju skaits nepārsniedz 4000, tiek izveidota farmaceita vadīta aptieka vai aptiekas filiāle, farmaceita asistents tiesības vadīt aptieku un pienākumu atbildēt par tās darbu saglabā līdz speciālās atļaujas (licences) termiņa beigām.
 (2) Farmaceits un farmaceita asistents, kurš strādā aptiekā:
 1) reģistrējas Latvijas Farmaceitu biedrībā Ministru kabineta noteiktajā kārtībā un ievēro Latvijas Farmaceitu biedrības apstiprināto ētikas kodeksu;
 2) ceļ profesionālo kvalifikāciju, piedaloties Latvijas Farmaceitu biedrības atzītā tālākizglītības procesā.

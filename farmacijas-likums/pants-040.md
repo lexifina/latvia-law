@@ -1,2 +1,7 @@
 40.pants. (1) Vienas aptiekas vadītājs un vadītāja vietnieks vienlaikus nevar būt aptiekas vadītājs vai vadītāja vietnieks citā aptiekā vai atbildīgais farmaceits vai atbildīgā farmaceita vietnieks, vai nodaļas vadītājs zāļu lieltirgotavā, vai ražošanas vadītājs vai kontroles dienesta vadītājs zāļu ražošanas uzņēmumā.
-(2) Aptiekai atļauts izplatīt veterinārās zāles tikai tad, ja farmaceits, kas ar to nodarbojas, ir saņēmis speciālu atļauju (licenci) veterināro zāļu izplatīšanai.
+(2) Aptiekā atļauts izplatīt veterinārās zāles, ja:
+1) veterinārārsts vai veterinārfeldšeris, kas ar to nodarbojas, ir saņēmis Latvijas Veterinārārstu biedrības izsniegtu veterinārmedicīniskās prakses sertifikātu vai sertifikātu veterināro zāļu izplatīšanai;
+2) farmaceits, kas ar to nodarbojas, ir saņēmis Latvijas Veterinārārstu biedrības izsniegtu sertifikātu veterināro zāļu izplatīšanai.
+(3) Ja vispārēja jeb atvērta tipa aptieka izplata veterinārās zāles, tad tajā ir noteikta par veterināro zāļu apriti atbildīgā amatpersona, kurai ir augstākā izglītība farmācijā vai veterinārmedicīnā, un speciālajā atļaujā (licencē) aptiekas atvēršanai (darbībai) kā speciālās darbības joma ir norādīta veterināro zāļu izplatīšana. Zāļu valsts aģentūra par izsniegto speciālo atļauju (licenci) informē Pārtikas un veterināro dienestu, un tas aptieku reģistrē dienesta uzraudzības objektu reģistrā.
+(4) Veterinārajā aptiekā ir noteikta par veterināro zāļu apriti atbildīgā amatpersona, kurai ir augstākā izglītība farmācijā vai veterinārmedicīnā, un ir saņemta speciālā atļauja (licence) aptiekas atvēršanai (darbībai).
+(5) Par veterināro zāļu apriti atbildīgā amatpersona vienlaikus nevar būt par veterināro zāļu apriti atbildīgā amatpersona citā aptiekā.

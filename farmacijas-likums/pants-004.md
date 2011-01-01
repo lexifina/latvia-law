@@ -1,2 +1,2 @@
 4.pants. (1) Veselības inspekcija uzrauga un kontrolē zāļu ražošanu un zāļu izplatīšanu zāļu lieltirgotavās un aptiekās.
-(2) Pārtikas un veterinārais dienests uzrauga un kontrolē praktizējošus veterinārārstus, veterinārmedicīniskās aprūpes komersantus, veterinārās aptiekas, kā arī fiziskās un juridiskās personas, kuras izmanto produktīvo dzīvnieku ārstēšanai veterinārās zāles, neatkarīgi no šo personu pakļautības, komercdarbības veida un rakstura.
+(2) Pārtikas un veterinārais dienests uzrauga un kontrolē veterināro zāļu ražošanu un izplatīšanu, kā arī cilvēkiem paredzēto zāļu lietošanu dzīvniekiem.

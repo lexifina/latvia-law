@@ -14,8 +14,10 @@
 13) kārtību, kādā zāļu ražotājiem tiek izsniegts labas ražošanas prakses sertifikāts;
 14) kārtību, kādā tiek vērtēta zāļu (izņemot veterināro zāļu) izplatīšanas atbilstība labas izplatīšanas prakses prasībām;
 15) kārtību, kādā tiek vērtēta zāļu (izņemot veterināro zāļu) klīniskās izpētes atbilstība labas klīniskās prakses prasībām;
-16) aptieku un aptieku filiāļu (izņemot veterināro aptieku un to filiāļu) izvietojuma kritērijus;
+16) aptieku un aptieku filiāļu (izņemot veterināro aptieku) izvietojuma kritērijus;
 17) farmaceitu un farmaceitu asistentu reģistrēšanas kārtību;
-18) kārtību, kādā veterinārmedicīniskās aprūpes iestādes un personas, kas nodarbojas ar veterinārmedicīnisko praksi, iegādājas, uzglabā un izlieto veterinārās zāles;
+18) kārtību, kādā veterinārmedicīniskās aprūpes iestādes un praktizējošie veterinārārsti iegādājas, uzglabā, uzskaita un izlieto zāles;
 19) apmēru, kādā maksājama valsts nodeva par speciālās atļaujas (licences) izsniegšanu un pārreģistrēšanu farmaceitiskajai un veterinārfarmaceitiskajai darbībai, un kārtību, kādā tā iekasējama;
-20) ambulatorajai ārstēšanai paredzēto zāļu un medicīnisko ierīču iegādes izdevumu kompensācijas kārtību.
+20) ambulatorajai ārstēšanai paredzēto zāļu un medicīnisko ierīču iegādes izdevumu kompensācijas kārtību;
+21) kārtību, kādā vāc un apkopo informāciju un veido statistiku veterināro zāļu aprites jomā;
+22) personai veterināro zāļu izplatīšanai nepieciešamās profesionālās kvalifikācijas prasības un kārtību, kādā izsniedz sertifikātu veterināro zāļu izplatīšanai, pagarina tā derīguma termiņu un to anulē, kā arī sertificētās personas reģistrācijas kārtību.

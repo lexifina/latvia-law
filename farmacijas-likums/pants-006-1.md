@@ -1,0 +1,1 @@
+6.¹ pants. Zemkopības ministrs savas kompetences ietvaros īsteno valsts politiku veterināro zāļu jomā, organizē dzīvniekiem paredzēto zāļu apriti reglamentējošo normatīvo aktu projektu izstrādi un normatīvo aktu izpildes kontroli.
