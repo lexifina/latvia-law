@@ -1,2 +1,2 @@
 21.⁵ pants. Tirdzniecības organizēšana ar pašvaldību saskaņojamās tirdzniecības vietās
-Ministru kabinets izdod noteikumus, kuros paredz tirdzniecības veidus, kas saskaņojami ar pašvaldību, un reglamentē tirdzniecības organizēšanas kārtību.
+Ministru kabinets izdod noteikumus, kuros paredz tirdzniecības veidus, kas saskaņojami ar pašvaldību, un reglamentē tirdzniecības organizēšanas kārtību. Ministru kabinets ir tiesīgs šajos noteikumos pilnvarot pašvaldības domi izdot pašvaldības saistošos noteikumus, kas detalizētāk regulētu atsevišķus tirdzniecības organizēšanas kārtības jautājumus.

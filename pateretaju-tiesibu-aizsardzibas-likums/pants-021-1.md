@@ -9,5 +9,5 @@
 3) cenas ir zemākas nekā attiecīgo preču vai pakalpojumu parastās cenas.
 (3) Pēc cenu pazemināšanas, atlaižu vai izpārdošanas publiskas izsludināšanas jābūt skaidri norādītai preču un pakalpojumu sākotnējai cenai un cenai pēc pazemināšanas.
 (4) Par izpārdošanu publiski jāpaziņo vismaz piecas dienas pirms tās sākuma, izliekot paziņojumu tirdzniecības vietā.
-(5) Attiecīgās preces vai pakalpojuma cena, kurai tiek noteiktas atlaides, nedrīkst mainīties vismaz mēnesi pirms cenu pazemināšanas, atlaižu vai izpārdošanas publiskas izsludināšanas.
-(6) Aizliegts izsludināt un veikt vienu un to pašu preču vai pakalpojumu izpārdošanu, ja nav pagājuši trīs mēneši kopš pēdējās izpārdošanas, izņemot gadījumu, kad pārdevējs vai pakalpojuma sniedzējs tiek likvidēts vai tiek mainīts darbības veids.
+(5) (Izslēgta ar 28.10.2010. likumu)
+(6) (Izslēgta ar 28.10.2010. likumu)
