@@ -1,0 +1,1 @@
+13. Tiesnešu un prokuroru dzīvības, veselības un nelaimes gadījumu apdrošināšanai piemērojamas šo jautājumu regulējošo normatīvo aktu prasības, kas bija spēkā līdz 2011.gada 1.janvārim, un līdz 2011.gada 1.janvārim noslēgtie līgumi. Pēc minēto līgumu izbeigšanās piemērojami attiecīgie šā likuma 19., 23. un 37.panta noteikumi.

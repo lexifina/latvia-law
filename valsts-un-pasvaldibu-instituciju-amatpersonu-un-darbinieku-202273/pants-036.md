@@ -1,11 +1,11 @@
 36.pants. Pabalsti un kompensācijas par dienestu ārvalstīs
-(1) Diplomātam, diplomātiskā un konsulārā dienesta amatpersonai (darbiniekam), specializētajam atašejam, sakaru virsniekam, karavīram, valsts tiešās pārvaldes amatpersonai (darbiniekam) vai valsts drošības iestādes amatpersonai (darbiniekam) laikā, kad tā pilda dienestu ārvalstī, tiek noteikti šādi pabalsti:
+(1) Diplomātam, diplomātiskā un konsulārā dienesta amatpersonai (darbiniekam), specializētajam atašejam, prokuroram, sakaru virsniekam, karavīram, valsts tiešās pārvaldes amatpersonai (darbiniekam) vai valsts drošības iestādes amatpersonai (darbiniekam) laikā, kad tā pilda dienestu ārvalstī, tiek noteikti šādi pabalsti:
 1) algas pabalsts par dienestu ārvalstī;
 2) pabalsts par laulātā uzturēšanos ārvalstī, ja laulātais nav nodarbināts algotā darbā;
 3) pabalsts par bērnu uzturēšanos ārvalstī;
 4) pabalsts mājsaimniecības inventāra iegādei, pārceļoties uz dienesta vietu ārvalstī;
 5) pabalsts dienesta vajadzībām izmantojamā transporta izdevumu segšanai.
-(2) Diplomātam, diplomātiskā un konsulārā dienesta amatpersonai (darbiniekam), specializētajam atašejam, sakaru virsniekam, karavīram, valsts tiešās pārvaldes amatpersonai (darbiniekam) vai valsts drošības iestādes amatpersonai (darbiniekam) laikā, kad tā pilda dienestu ārvalstī, tiek kompensēti šādi izdevumi:
+(2) Diplomātam, diplomātiskā un konsulārā dienesta amatpersonai (darbiniekam), specializētajam atašejam, prokuroram, sakaru virsniekam, karavīram, valsts tiešās pārvaldes amatpersonai (darbiniekam) vai valsts drošības iestādes amatpersonai (darbiniekam) laikā, kad tā pilda dienestu ārvalstī, tiek kompensēti šādi izdevumi:
 1) dzīvokļa īres izdevumi un komunālie maksājumi;
 2) ar dzīvokļa īres līguma slēgšanu saistītie izdevumi;
 3) ceļa un pārcelšanās izdevumi (arī attiecīgie ģimenes locekļu izdevumi);
@@ -22,4 +22,6 @@
 1) ar veselības apdrošināšanu un apdrošināšanu pret nelaimes gadījumiem saistītos izdevumus laikā, kad amatpersona uzturējusies ārvalstī;
 2) izdevumus, kas saistīti ar dzīvojamās telpas īri un komunālajiem pakalpojumiem.
 (10) Šā panta astotajā un devītajā daļā noteiktā pabalsta, kompensācijas un sedzamo izdevumu apmēru, kā arī kārtību, kādā tiek segti ar Iekšlietu ministrijas sistēmas iestādes amatpersonas uzturēšanos ārvalstī saistītie izdevumi, nosaka Ministru kabinets.
-(11) Ministru kabinets nosaka kārtību, kādā diplomātus, diplomātiskā un konsulārā dienesta amatpersonas (darbiniekus), specializētos atašejus, sakaru virsniekus, karavīrus, tiešās pārvaldes iestādes amatpersonas (darbiniekus) vai valsts drošības iestādes amatpersonas (darbiniekus) norīko dienestā (darbā) starptautiskajā organizācijā vai tās dalībvalsts institūcijā ārvalstīs, kā arī attiecīgās atlīdzības piešķiršanas kārtību un nosacījumus.
+(11) Ministru kabinets nosaka:
+1) kārtību, kādā šā panta pirmajā daļā minētās amatpersonas (darbiniekus), izņemot prokuroru, norīko dienestā (darbā) starptautiskajā organizācijā vai tās dalībvalsts institūcijā ārvalstīs;
+2) attiecīgās šā panta pirmajā daļā minēto amatpersonu (darbinieku) atlīdzības piešķiršanas kārtību un nosacījumus, ciktāl citos likumos nav noteikts citādi.

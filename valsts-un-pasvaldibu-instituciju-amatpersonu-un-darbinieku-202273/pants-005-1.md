@@ -1,0 +1,14 @@
+5.¹ pants. Saeimas deputāta mēnešalga
+(1) Saeimas deputāta mēnešalgu nosaka, mēneša vidējās darba samaksas apmēram, kas noapaļots pilnos latos, piemērojot koeficientu 3,2.
+(2) Papildus šā panta pirmajā daļā noteiktajam deputātiem, kuri pilda kādu no šajā daļā minētajiem amatiem, izmaksā arī mēnešalgas daļu par attiecīgo amatu pildīšanu un to nosaka, mēneša vidējās darba samaksas apmēram, kas noapaļots pilnos latos, piemērojot šādu koeficientu:
+1) Saeimas priekšsēdētājam - 1,73;
+2) Saeimas priekšsēdētāja biedram - 1,48;
+3) Saeimas sekretāram - 1,48;
+4) Saeimas sekretāra biedram - 1,39;
+5) Saeimas komisijas priekšsēdētājam - 0,43;
+6) Saeimas frakcijas priekšsēdētājam - 0,43;
+7) Saeimas komisijas priekšsēdētāja biedram - 0,35;
+8) Saeimas frakcijas priekšsēdētāja biedram - 0,35;
+9) Saeimas komisijas sekretāram - 0,35;
+10) Saeimas apakškomisijas priekšsēdētājam - 0,27;
+11) Saeimas apakškomisijas sekretāram - 0,17.

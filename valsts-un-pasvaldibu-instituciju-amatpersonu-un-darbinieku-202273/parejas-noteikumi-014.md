@@ -1,0 +1,4 @@
+14. Līdz dienai, kad stājas spēkā šā likuma 36.panta vienpadsmitajā daļā minētie noteikumi, jautājumā par norīkošanu darbam Eirojustā ievērojami šādi nosacījumi:
+1) Eirojusta pārstāvja palīgam attiecīgo funkciju izpildes laikā ir tiesības saņemt Eirojusta pārstāvim noteikto algas pabalstu par dienestu ārvalstī, pabalstu dienesta vajadzībām izmantojamā transporta izdevumu segšanai, ceļa un pārcelšanās izdevumu kompensāciju un kompensāciju par veselības apdrošināšanu un apdrošināšanu pret nelaimes gadījumiem, kuri saistīti ar kaitējumu veselībai;
+2) ja Eirojusta pārstāvja prombūtne ir ilgāka par trim nedēļām, viņa palīgam šajā laikā ir tiesības saņemt Eirojusta pārstāvim noteikto dzīvokļa īres un komunālo izdevumu kompensāciju un kompensāciju par izdevumiem, kas saistīti ar dzīvokļa īres līguma noslēgšanu;
+3) ja Eirojusta pārstāvja prombūtne nav ilgāka par trim nedēļām, viņa palīgam ir tiesības saņemt kompensāciju par viesnīcas izmantošanas izdevumiem.

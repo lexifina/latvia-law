@@ -29,6 +29,6 @@ ne vairāk par 358
 3
 ne vairāk par 302
 2
-ne vairāk par 266
+ne vairāk par 270
 1
-ne vairāk par 218
+ne vairāk par 224
