@@ -1,0 +1,1 @@
+69. Ja rezumējošā kārtībā aprēķinātā nodokļa summa pēc šo pārejas noteikumu 68.punktā noteiktās vidējās svērtās likmes izrādās mazāka par avansā samaksāto, Valsts ieņēmumu dienests triju mēnešu laikā no deklarācijas iesniegšanas dienas atmaksā maksātājam radušos starpību, piemērojot vidējo svērto nodokļa likmi.

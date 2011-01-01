@@ -19,7 +19,7 @@
 7¹) ienākums no Latvijas Republikā esoša nekustamā īpašuma atsavināšanas un citu kapitāla aktīvu atsavināšanas ienākums atbilstoši šā likuma 11.⁹ pantam, izņemot ienākumu no finanšu instrumentu atsavināšanas, kuru apgrozību regulē Finanšu instrumentu tirgus likums;
 8) ienākums no kustamā īpašuma izmantošanas Latvijas Republikā;
 9) personiskās palīgsaimniecības, piemājas saimniecības, kā arī zemnieku un zvejnieku saimniecības ienākums no lauksaimnieciskās ražošanas;
-9¹) ienākums no fiziskās personas īpašumā esoša augoša meža atsavināšanas izciršanai un tajā iegūto kokmateriālu atsavināšanas;
+9¹) ienākums no fiziskās personas īpašumā esoša augoša meža atsavināšanas izciršanai un tajā iegūto kokmateriālu atsavināšanas, kā arī atbalsta summas par saimnieciskās darbības ierobežojumiem meža īpašniekiem, kuriem meža apsaimniekošana nav saimnieciskās darbības veids;
 10) dividendes;
 11) procentu ienākums un tam pielīdzināms ienākums, arī ar procentu ienākumu saistīts ienākums, izņemot procentu ienākumu no Latvijas vai citas Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts un pašvaldību parādzīmēm;
 12) samaksa par intelektuālo īpašumu:

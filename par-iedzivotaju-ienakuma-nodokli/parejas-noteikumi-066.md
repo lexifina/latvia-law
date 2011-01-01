@@ -1,0 +1,1 @@
+66. Summām, kas saņemtas par 2010.gadu un izmaksātas kā valsts atbalsts par saimnieciskās darbības ierobežojumiem meža īpašniekiem, kuriem meža apsaimniekošana nav saimnieciskās darbības veids, par 2010.gadā gūto ienākumu piemērojama 10 procentu likme.
