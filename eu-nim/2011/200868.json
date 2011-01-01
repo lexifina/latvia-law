@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2010.gada 28.decembra noteikumi Nr.1236 \"Noteikumi par valsts akciju sabiedrības \"Elektronisko sakaru direkcija\" publisko maksas pakalpojumu cenrādi un samaksas kārtību\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "206(4398)",
+  "official_journal_page": null,
+  "official_journal_date": "2010-12-30",
+  "entry_into_force": "2011-01-01",
+  "notification_date": "2013-01-24",
+  "commission_reference": "MNE(2013)51016",
+  "nim_celex": "72002L0020LVA_200868",
+  "nim_id": "200868",
+  "transposes_celex": [
+    "32002L0020"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/51c1a5c9-3e06-482d-84da-89a188bd8020",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
