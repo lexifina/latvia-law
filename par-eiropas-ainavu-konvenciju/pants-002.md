@@ -1,1 +1,1 @@
-2.pants. Reģionālās attīstības un pašvaldību lietu ministrija koordinē Konvencijā paredzēto saistību izpildi.
+2.pants. Vides aizsardzības un reģionālās attīstības ministrija koordinē Konvencijā paredzēto saistību izpildi.
