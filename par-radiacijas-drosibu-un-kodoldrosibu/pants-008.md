@@ -1,5 +1,5 @@
 8.pants. Radiācijas drošības padome
-(1) Radiācijas drošības padome (turpmāk - Padome) ir konsultatīva institūcija. Padomes nolikumu apstiprina Ministru kabinets. Padomes darbību organizē Vides ministrija.
+(1) Radiācijas drošības padome (turpmāk - Padome) ir konsultatīva institūcija. Padomes nolikumu apstiprina Ministru kabinets. Padomes darbību organizē Vides aizsardzības un reģionālās attīstības ministrija.
 (2) Padomes darbības mērķis ir konsultēt valsts un pašvaldību institūcijas un iestādes, kā arī citas institūcijas un iestādes par jautājumiem, kas saistīti ar radiācijas drošību un kodoldrošību, un veicināt dažādu institūciju sadarbību radiācijas drošības nostiprināšanā. Padomes lēmumiem ir ieteikuma raksturs, un tās atzinumi ir pieejami ikvienai ieinteresētai personai.
-(3) Pirms attiecīgo priekšlikumu iesniegšanas Vides ministrijai vai citām ministrijām Centrs konsultējas ar Padomi par to, kā uzlabot radiācijas drošību un kodoldrošību valstī.
-(4) Padomes 10 locekļus un priekšsēdētāju uz četriem gadiem pēc vides ministra priekšlikuma apstiprina Ministru kabinets. Padomes sastāvā jābūt ne mazāk kā trim radiācijas drošības un kodoldrošības speciālistiem.
+(3) Pirms attiecīgo priekšlikumu iesniegšanas Vides aizsardzības un reģionālās attīstības ministrijai vai citām ministrijām Centrs konsultējas ar Padomi par to, kā uzlabot radiācijas drošību un kodoldrošību valstī.
+(4) Padomes 10 locekļus un priekšsēdētāju uz četriem gadiem pēc vides aizsardzības un reģionālās attīstības ministra priekšlikuma apstiprina Ministru kabinets. Padomes sastāvā jābūt ne mazāk kā trim radiācijas drošības un kodoldrošības speciālistiem.
