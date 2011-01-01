@@ -1,2 +1,2 @@
 18.pants. Atzinums par darba ziņojumu
-Kompetentā institūcija, ņemot vērā ieinteresēto valsts institūciju, pašvaldību un citas likumā noteiktās institūcijas atzinumus, sabiedrības iesniegtos rakstveida priekšlikumus un sabiedriskās apspriešanas rezultātus, izvērtē darba ziņojuma atbilstību programmas prasībām un sagatavo atzinumu (ja nepieciešams, pieaicinot ekspertus), ko nosūta ierosinātājam. Atzinumā var norādīt, kādi grozījumi darba ziņojumā izdarāmi.
+(Izslēgts ar 10.06.2010. likumu. Grozījums par panta izslēgšanu stājas spēkā 01.01.2011. Sk. Pārejas noteikumu 14.punktu)
