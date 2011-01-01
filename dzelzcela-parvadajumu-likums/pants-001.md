@@ -2,7 +2,7 @@
 Likumā ir lietoti šādi termini:
 1) bagāža - lietas, kuras pēc pasažiera uzrādītās biļetes pārvadātājs pieņem pārvadāšanai bagāžas vagonā, izsniedzot pasažierim bagāžas kvīti;
 2) bagāžas saņēmējs - pasažieris, kas nodevis bagāžu pārvadāšanai, vai cita persona, kura, uzrādot bagāžas kvīti, ir tiesīga saņemt bagāžu;
-3) bīstamā krava - krava, kas pārvadāšanas, iekraušanas, izkraušanas vai uzglabāšanas procesā savu īpašību dēļ noteiktos apstākļos var izraisīt sprādzienu, ugunsgrēku vai nodarīt citus kaitējumus, apdraudēt cilvēku dzīvību, veselību, personas mantu vai vidi;
+3) bīstamā krava - krava, kas uzskatāma par bīstamo kravu Bīstamo kravu aprites likuma izpratnē;
 4) konteiners - pēc bruto masas, gabarītiem, konstrukcijas un marķējuma standartizēta daudzkārt izmantojama kravas tilpne, ko izmanto kravas pārvadāšanai ar vienu transporta veidu vai vairākiem transporta veidiem;
 5) krava - lietas (vielas, preces vai priekšmeti), kas nodotas pārvadāšanai pa dzelzceļu vagonos vai konteineros;
 6) kravas bagāža - lietas, kas nodotas pārvadāšanai pasažieru vilcienā bagāžas vagonā;
