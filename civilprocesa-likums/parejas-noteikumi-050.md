@@ -1,0 +1,1 @@
+50. Šā likuma 587.panta sestās daļas jaunā redakcija (kas paredz, ka persona, kura nosolījusi pārdodamo priekšmetu, samaksā pilnu nosolīto summu un pievienotās vērtības nodokli, ja izsoles cena apliekama ar pievienotās vērtības nodokli, ne vēlāk kā nākamajā darbdienā pēc izsoles) stājas spēkā 2011.gada 1.februārī.

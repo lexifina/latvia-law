@@ -1,0 +1,1 @@
+51. Attiecībā uz kustamas mantas un nekustamā īpašuma izsolēm, kuras izsludinātas līdz 2010.gada 31.decembrim, tiek piemērotas tās Civilprocesa likuma normas, kas bija spēkā līdz 2010.gada 31.decembrim.
