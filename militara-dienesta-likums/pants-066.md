@@ -11,5 +11,5 @@
 (8) Rezerves karavīru uz kārtējām vai pārbaudes mācībām neiesauc:
 1) veselības stāvokļa dēļ;
 2) ja rezerves karavīrs ir apgādājamu ģimenes locekļu vienīgais apgādnieks vai viņa apgādībā ir ne mazāk kā divi pirmsskolas vecuma bērni;
-3) ja rezerves karavīrs ir aizdomās turētais, apsūdzētais vai tiesājamais, kā arī sodīts par tīšu noziedzīgu nodarījumu;
+3) ja rezerves karavīrs ir aizdomās turētais vai apsūdzētais kriminālprocesā par tīša noziedzīga nodarījuma izdarīšanu, ir sodīts par tīša noziedzīga nodarījuma izdarīšanu neatkarīgi no sodāmības dzēšanas vai noņemšanas, ir izdarījis tīšu noziedzīgu nodarījumu, bet no soda atbrīvots vai pret karavīru uzsāktais kriminālprocess par tīša noziedzīga nodarījuma izdarīšanu izbeigts uz nereabilitējoša pamata;
 4) ja rezerves karavīrs dienē Iekšlietu ministrijas sistēmas iestādēs vai Ieslodzījuma vietu pārvaldē.
