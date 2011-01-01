@@ -1,2 +1,3 @@
-20.pants. (1) (Izslēgta ar 17.11.2005. likumu.)
-(2) Ministru kabinets nosaka kārtību, kādā tiek segtas izmaksas, un izmaksu apjomu par Pārtikas un veterinārā dienesta veikto dokumentu ekspertīzi uztura bagātinātāju reģistrēšanai, par diētiskās pārtikas atbilstības normatīvo aktu prasībām izvērtēšanu, par mātes piena aizstājēju reklāmas atbilstības normatīvo aktu prasībām izvērtēšanu, par dokumentu ekspertīzi ģenētiski modificēto organismu ierobežotas izmantošanas, izplatīšanas tirgū atļauju izsniegšanai, jaunās pārtikas izplatīšanas tirgū atļauju izsniegšanai, par atļauju izsniegšanu dabīgā minerālūdens izplatīšanai.
+20.pants. (1) (Izslēgta ar 17.11.2005. likumu)
+(2) Par uztura bagātinātāju, diētiskās pārtikas un zīdaiņiem paredzēto mākslīgo maisījumu reģistrāciju un par atļaujas izsniegšanu dabīgā minerālūdens izplatīšanai tirgū maksājama valsts nodeva. Valsts nodevas apmēru un samaksas kārtību nosaka Ministru kabinets.
+(3) Ministru kabinets nosaka maksu par jaunās pārtikas riska novērtējuma atzinuma sagatavošanu un tās maksāšanas kārtību.

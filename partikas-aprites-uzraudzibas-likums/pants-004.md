@@ -4,7 +4,7 @@
 (4) Atsevišķām pārtikas produktu grupām Ministru kabinets nosaka kvalitātes un klasifikācijas prasības un kārtību, kādā novērtējama attiecīgo produktu atbilstība šīm prasībām.
 (5) (Izslēgta ar 17.11.2005. likumu.)
 (6) Pārtiku, kas ražota, apstrādāta vai pārstrādāta mājas apstākļos, drīkst izplatīt tieši galapatērētājam, ievērojot pārtikas aprites normatīvo aktu prasības.
-(7) (Izslēgta ar 21.10.2004. likumu)
+(7) (Izslēgta ar 21.10.2004. likumu.)
 (8) Pārtiku, kura satur ģenētiski modificētus organismus vai ir ražota no tiem, Latvijā drīkst izplatīt tikai pēc attiecīgas atļaujas saņemšanas normatīvajos aktos noteiktajā kārtībā.
 (9) (Izslēgta ar 17.11.2005. likumu)
 (10) (Izslēgta ar 28.10.2010. likumu)
@@ -13,3 +13,5 @@
 (12) Ministru kabinets nosaka pārtikas kvalitātes shēmu prasības, kā arī to ieviešanas, darbības, uzraudzības un kontroles kārtību.
 (13) Ministru kabinets nosaka dzīvnieku liemeņu klasificētāju un Pārtikas un veterinārā dienesta inspektoru apmācības kārtību.
 (14) Ministru kabinets nosaka kārtību, kādā atzīst un uzrauga laboratorijas, kas veic svaigpiena kvalitātes laboratoriskos izmeklējumus.
+(15) Par ģeogrāfiskās izcelsmes norādes reģistrāciju, par iebilduma paziņojuma lēmuma izsniegšanu un par ģeogrāfiskās izcelsmes norādes grozījuma reģistrāciju maksājama valsts nodeva. Valsts nodevas apmēru un samaksas kārtību nosaka Ministru kabinets.
+(16) Par nacionālās pārtikas kvalitātes shēmas kontroles institūcijas apstiprināšanas apliecības izsniegšanu maksājama valsts nodeva. Valsts nodevas apmēru un samaksas kārtību nosaka Ministru kabinets.

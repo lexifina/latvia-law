@@ -1,4 +1,4 @@
-21.¹ pants. (1) Pārtikas un veterinārajā dienestā ietilpst centrālā pārvalde, teritoriālās struktūrvienības un Pārtikas centrs.
+21.¹ pants. (1) Pārtikas un veterinārajā dienestā ietilpst centrālā pārvalde un teritoriālās struktūrvienības.
 (2) Pārtikas un veterinārā dienesta nolikumu apstiprina Ministru kabinets.
 (3) Pārtikas un veterinārā dienesta darbu vada dienesta ģenerāldirektors, kas vienlaikus ir arī valsts galvenais pārtikas un veterinārais inspektors.
 (4) Valsts galvenais pārtikas un veterinārais inspektors pilnvaro Pārtikas un veterinārā dienesta valsts vecākos inspektorus un valsts inspektorus veikt valsts uzraudzību un kontroli attiecīgā jomā.
