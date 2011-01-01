@@ -1,2 +1,3 @@
 13.pants. Atrašanās dienestā, neieņemot noteiktu amatu
-Amatpersona attiecīgā ministra noteiktajā kārtībā var atrasties dienestā, neieņemot noteiktu amatu, kamēr tā iecelta amatā Eiropas Savienības institūcijā, kas darbojas iekšlietu un tieslietu jomā. Šajā gadījumā amatpersonai nesaglabā darba samaksu, uzturdevas kompensāciju un sociālās garantijas.
+(1) Amatpersona attiecīgā ministra noteiktajā kārtībā var atrasties dienestā, neieņemot noteiktu amatu, kamēr tā iecelta amatā starptautiskā institūcijā, kas darbojas iekšlietu un tieslietu jomā. Šajā laikā amatpersonai nesaglabā atlīdzību.
+(2) Amatpersona attiecīgā ministra noteiktajā kārtībā var atrasties dienestā, neieņemot noteiktu amatu, kamēr tā uz darba līguma pamata pieņemta darbā Iekšlietu ministrijas padotībā esošā iestādē, kas darbojas sporta jomā, un pilda profesionāla sportista amata pienākumus. Šajā laikā amatpersonai nesaglabā atlīdzību, kas noteikta amatpersonām.
