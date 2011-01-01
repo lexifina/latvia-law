@@ -1,13 +1,13 @@
 10.pants. Starpniekinstitūcija, tās pienākumi un tiesības
 (1) Starpniekinstitūcijas funkcijas veic:
-1) Vides ministrija - prioritātēs "Vides aizsardzība" un "Ilgtspējīga attīstība";
+1) Vides aizsardzības un reģionālās attīstības ministrija - prioritātēs "Vides aizsardzība", "Ilgtspējīga attīstība", "Reģionālā politika un ekonomisko aktivitāšu attīstība" un "Pārrobežu sadarbība";
 2) Kultūras ministrija - prioritātē "Eiropas kultūras mantojuma saglabāšana";
 3) Veselības ministrija - prioritātē "Veselība";
 4) Labklājības ministrija - prioritātē "Bērni ar īpašām vajadzībām (bērni invalīdi)";
 5) Izglītības un zinātnes ministrija - prioritātēs "Cilvēkresursu attīstība un izglītība" un "Akadēmiskie pētījumi";
 6) Iekšlietu ministrija - prioritātē "Šengena";
 7) Tieslietu ministrija - prioritātēs "Tieslietas" un "Tehniskā palīdzība", kas paredzēta Kopienas tiesību kopuma (acquis communautaire) ieviešanai;
-8) Reģionālās attīstības un pašvaldību lietu ministrija - prioritātēs "Reģionālā politika un ekonomisko aktivitāšu attīstība" un "Pārrobežu sadarbība".
+8) (izslēgts ar 16.12.2010. likumu).
 (2) Starpniekinstitūcijai ir šādi pienākumi:
 1) sadarbībā ar kompetentajām nozares ministrijām izstrādāt individuālo projektu atklāta konkursa nolikumu, tajā ietverot individuālo projektu iesniegumu vērtēšanas kritērijus;
 2) ja vadošā iestāde vienojas ar Eiropas Ekonomikas zonas finanšu instrumenta komiteju un Norvēģijas Ārlietu ministriju par individuālo projektu ierobežotu konkursu, izstrādāt ierobežota konkursa nolikumu, kam piemērojami šā likuma nosacījumi par individuālo projektu iesniegumu atklātu konkursu;
