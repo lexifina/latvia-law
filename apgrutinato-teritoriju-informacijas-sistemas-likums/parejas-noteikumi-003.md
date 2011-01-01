@@ -1,0 +1,1 @@
+3. Šā likuma 7. un 8.pantā minētos datus datu sniedzējs pirmreizēji iesniedz Informācijas sistēmas pārzinim, sākot ar 2014.gada 1.janvāri. Pirmreizējie dati iesniedzami ne vēlāk kā līdz 2014.gada 31.decembrim.

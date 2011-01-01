@@ -1,0 +1,7 @@
+10.pants. Datu sniedzēja pienākumi un atbildība
+(1) Datu sniedzēja pienākums ir iesniegt Informācijas sistēmas pārzinim datu sniedzēja rīcībā esošos datus pirmreizējai Informācijas sistēmas aizpildīšanai un datu aktualizācijai.
+(2) Ja datu sniedzējs ir saņēmis Informācijas sistēmas pārziņa atteikumu šā likuma 9.panta otrajā daļā minētajā gadījumā, tas pēc atteikuma saņemšanas šos datus precizē atbilstoši šā likuma prasībām un mēneša laikā iesniedz Informācijas sistēmas pārzinim atkārtoti.
+(3) Datu sniedzējs nekavējoties iesniedz Informācijas sistēmas pārzinim datus aktualizācijai, ja tā rīcībā ir aktuālāki vai precīzāki dati salīdzinājumā ar Informācijas sistēmā iekļautajiem datiem, arī tad, ja tas ir saņēmis informāciju par datu neatbilstību situācijai apvidū šā likuma 11.pantā minētajos gadījumos.
+(4) Ja datu sniedzējs konstatē, ka tā sniegtie dati Informācijas sistēmā iekļauti kļūdaini, datu sniedzējs pieprasa, lai Informācijas sistēmas pārzinis šos datus labo.
+(5) Datu sniedzējam ir pienākums, iesniedzot datus, informēt Informācijas sistēmas pārzini, ja attiecīgie dati ir ierobežotas pieejamības informācija, norādot datu ierobežotās pieejamības statusa noteikšanas pamatu un termiņu, līdz kuram ierobežotās pieejamības statuss noteikts.
+(6) Datu sniedzējs ir atbildīgs par tā sniegto datu atbilstību šā likuma un citu normatīvo aktu prasībām, tajā skaitā tām prasībām, kuras regulē aizsargjoslu noteikšanu vai attēlošanu.

@@ -1,0 +1,5 @@
+12.pants. Informācijas sistēmas finansēšana
+(1) Informācijas sistēmas izveidošana un uzturēšana, kā arī informācijas sagatavošana un izsniegšana elektroniskā veidā valsts tiešās pārvaldes iestādēm un pašvaldībām to funkciju veikšanai, kā arī datu sniedzējiem tiek finansēta no gadskārtējā valsts budžeta likumā šim mērķim piešķirtās dotācijas no vispārējiem ieņēmumiem.
+(2) Informācijas sistēmas pārzinis ir tiesīgs šā panta pirmajā daļā minētos izdevumus finansēt arī no pašu ieņēmumiem par sniegtajiem maksas pakalpojumiem, kā arī no ārvalstu finanšu palīdzības līdzekļiem.
+(3) Informācijas sistēmas datu sagatavošana un izsniegšana ir maksas pakalpojums. Ikviena persona maksā par Informācijas sistēmas datu sagatavošanu un izsniegšanu normatīvajos aktos noteiktajā apmērā, izņemot šā panta ceturtajā daļā minētos gadījumus. Ministru kabinets izdod noteikumus, kuros reglamentē kārtību, kādā veicama samaksa par Informācijas sistēmas datu sagatavošanu un izsniegšanu.
+(4) Informācijas sistēmas pārzinis informāciju sagatavo un izsniedz elektroniskā veidā valsts tiešās pārvaldes iestādēm un pašvaldībām to funkciju veikšanai, kā arī datu sniedzējam bez maksas.
