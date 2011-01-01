@@ -1,0 +1,2 @@
+56.¹ pants. (1) Ja ārstniecības iestāde sniedz palīdzību pacientam un ir pamats uzskatīt, ka pacients cietis no vardarbības, ārstniecības iestāde nekavējoties, bet ne vēlāk kā 12 stundu laikā paziņo par to Valsts policijai.
+(2) Ja ārstniecības iestāde sniedz palīdzību nepilngadīgam pacientam un ir pamats uzskatīt, ka pacients cietis no pienācīgas aprūpes un uzraudzības trūkuma vai cita bērnu tiesību pārkāpuma, ārstniecības iestāde nekavējoties, bet ne vēlāk kā 12 stundu laikā paziņo par to Valsts policijai.

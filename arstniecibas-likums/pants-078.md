@@ -1,0 +1,3 @@
+78.pants. (1) Lai nodrošinātu veselības aprūpes organizēšanu un atvieglotu veselības aprūpes pakalpojumu sniegšanu, veselības nozares datus uzkrāj veselības informācijas sistēmā.
+(2) Ministru kabinets nosaka veselības informācijas sistēmas pārzini, veselības informācijas sistēmā glabājamos datus un to apstrādes kārtību, kā arī datu izsniegšanas kārtību.
+(3) Veselības informācijas sistēmas pārzinis ir tiesīgs šīs sistēmas turētāja funkcijas nodot citai pilnvarotai institūcijai vai vairākām institūcijām. Ministru kabinets nosaka institūcijas, kurām veselības informācijas sistēmas pārzinis ir tiesīgs nodot minētās sistēmas turētāja funkcijas, un attiecīgajām institūcijām piešķiramās datu kopas.
