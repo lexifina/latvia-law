@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Civilām vajadzībām paredzētu sprāgstvielu aprites likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "183",
+  "official_journal_page": null,
+  "official_journal_date": "2010-11-17",
+  "entry_into_force": "2011-01-01",
+  "notification_date": "2013-02-21",
+  "commission_reference": "MNE(2013)51569",
+  "nim_celex": "72012L0004LVA_201619",
+  "nim_id": "201619",
+  "transposes_celex": [
+    "32012L0004"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c7942a6a-2d6d-405d-b3a9-b0e70a3799a4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
