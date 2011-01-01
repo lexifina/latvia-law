@@ -1,4 +1,4 @@
-7.pants. (1) Vides ministrija:
+7.pants. (1) Vides aizsardzības un reģionālās attīstības ministrija:
 1) koordinē atkritumu apsaimniekošanas valsts plāna īstenošanu;
 2) sagatavo normatīvo aktu projektus atkritumu apsaimniekošanas jomā;
 3) koordinē un organizē bīstamo atkritumu apsaimniekošanu saskaņā ar šo likumu un citiem normatīvajiem aktiem;
