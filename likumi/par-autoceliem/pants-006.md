@@ -1,8 +1,9 @@
 6. pants. Maksa par autoceļu lietošanu
-(1) Par valsts un pašvaldību līdzekļiem izbūvētie autoceļi lietojami bez maksas, ja transportlīdzekļa vai tā sastāva izmēri, pilna masa, faktiskā masa vai ass slodze nepārsniedz normatīvajos aktos noteiktos lielumus.
-(2) Ja transportlīdzeklis veic lielgabarīta vai smagsvara pārvadājumu, kurā ar kravu vai pasažieriem vai bez kravas vai pasažieriem pa autoceļu (ielu) braucoša mehāniskā transportlīdzekļa vai tā sastāva izmēri, faktiskā masa vai ass slodze pārsniedz normatīvajos aktos noteiktos lielumus, no transportlīdzekļa īpašnieka (turētāja, valdītāja) par valsts autoceļu lietošanu tiek ņemta maksa, bet par pašvaldību un citu ceļu lietošanu maksu var ņemt, ja tā noteicis ceļa īpašnieks.
-(3) Maksas apmēru par valsts autoceļu lietošanu un kārtību, kādā veicama samaksa par lielgabarīta un smagsvara pārvadājumiem pa valsts autoceļiem, nosaka Ministru kabinets.
+(1) Valsts autoceļi un pašvaldību autoceļi un ielas lietojamas bez maksas, ja likumā nav noteikts citādi.
+(2) Ja tiek veikti lielgabarīta vai smagsvara pārvadājumi pa komersantu ceļiem vai māju ceļiem, par šo ceļu lietošanu var ņemt maksu, ja tā noteicis attiecīgā ceļa īpašnieks.
+(3) Par lielgabarīta un smagsvara pārvadājumu atļaujas izsniegšanu (šā likuma 5.panta 6.¹ daļa) maksājama valsts nodeva. Valsts nodevas apmēru, maksāšanas kārtību un atbrīvojumus nosaka Ministru kabinets. Valsts nodevu ieskaita valsts pamatbudžeta ieņēmumos.
 (4) Maksu var ņemt par tādu autoceļu lietošanu, kas izbūvēti par privātiem līdzekļiem. Šādos gadījumos maksu nosaka autoceļa īpašnieks.
+(4¹) Pašvaldība ar saistošajiem noteikumiem var paredzēt, ka par transportlīdzekļa novietošanu uz pašvaldības autoceļa vai ielas stāvēšanai drīkst iekasēt maksu. Šajos noteikumos norādāms attiecīgais autoceļš vai iela (to posms), vai konkrēta teritorija, kurā ietilpst autoceļi vai ielas (to komplekss), noteikts laiks, kurā stāvēšanai novietotā transportlīdzekļa atrašanās uz pašvaldības autoceļa vai ielas ir par maksu (piemēram, noteikts diennakts, nedēļas laiks), maksas apmērs un tās iekasēšanas kārtība.
 (5) Ceļu lietotāju maksājumu elektronisko iekasēšanas sistēmu savstarpējas izmantojamības kārtību nosaka Ministru kabinets.
 (6) (Izslēgta ar 18.12.2008. likumu.)
 (7) (Izslēgta ar 18.12.2008. likumu.)
