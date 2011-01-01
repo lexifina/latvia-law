@@ -1,0 +1,5 @@
+6.pants. Sprāgstvielu un spridzināšanas ietaišu atbilstības novērtēšanas institūcijas un tām izvirzāmās prasības
+(1) Latvijā sprāgstvielu un spridzināšanas ietaišu atbilstības novērtēšanu veic institūcijas, ko akreditējis sabiedrības ar ierobežotu atbildību "Standartizācijas, akreditācijas un metroloģijas centrs" Latvijas Nacionālais akreditācijas birojs (turpmāk - Latvijas Nacionālais akreditācijas birojs).
+(2) Ekonomikas ministrija informē Eiropas Komisiju, Eiropas Savienības dalībvalstis un Eiropas Ekonomikas zonas valstis par tām akreditētajām institūcijām, kurām piešķirtas tiesības veikt sprāgstvielu un spridzināšanas ietaišu atbilstības novērtēšanu. Informācijā norāda identifikācijas numurus, kurus šīm institūcijām piešķīrusi Eiropas Komisija.
+(3) Ekonomikas ministrija, saņemot Latvijas Nacionālā akreditācijas biroja paziņojumu, ka institūcijas akreditācija ir apturēta vai atcelta, par to informē Eiropas Komisiju, Eiropas Savienības dalībvalstis un Eiropas Ekonomikas zonas valstis.
+(4) Sprāgstvielu un spridzināšanas ietaišu atbilstības novērtēšanas institūcijai izvirzāmās prasības nosaka Ministru kabinets.

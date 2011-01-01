@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Padomes 1993.gada 5.aprīļa direktīvas 93/15/EEK par noteikumu saskaņošanu attiecībā uz civilām vajadzībām paredzēto sprāgstvielu laišanu tirgū un pārraudzību.

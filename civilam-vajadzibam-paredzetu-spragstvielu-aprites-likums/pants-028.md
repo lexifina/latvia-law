@@ -1,0 +1,5 @@
+28.pants. Civiltiesiskās atbildības apdrošināšana
+(1) Komersantam, kas saņēmis šā likuma 10.pantā minēto speciālo atļauju (licenci), ir pienākums apdrošināt civiltiesisko atbildību par savas darbības vai bezdarbības dēļ nodarīto kaitējumu trešo personu dzīvībai un veselībai un nodarītajiem zaudējumiem trešo personu mantai, kā arī par obligātās civiltiesiskās apdrošināšanas esamību informēt speciālās atļaujas (licences) izsniedzēju.
+(2) Trešās personas mantai nodarītie zaudējumi tiek novērtēti, ievērojot kompensācijas principu atbilstoši likumam "Par apdrošināšanas līgumu". Apdrošināšanas atlīdzības apmērs tiek noteikts, pusēm vienojoties.
+(3) Ja, iestājoties apdrošināšanas gadījumam, zaudējumi ir nodarīti vairākām personām un to apmērs pārsniedz apdrošināšanas līgumā (polisē) noteikto atbildības limitu, apdrošināšanas atlīdzība tiek aprēķināta katram prasītājam proporcionāli viņam nodarītajiem zaudējumiem tādā apmērā, lai kopējā izmaksājamā atlīdzība nepārsniegtu apdrošināšanas līgumā (polisē) vienam apdrošināšanas gadījumam norādīto atbildības limitu.
+(4) Civiltiesiskās atbildības apdrošināšanas kārtību un limitu nosaka Ministru kabinets.
