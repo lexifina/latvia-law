@@ -1,2 +1,2 @@
 IV nodaļa
-Valsts un pašvaldību mantas nodošana bez atlīdzības
+Publiskas personas mantas nodošana bez atlīdzības

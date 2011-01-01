@@ -1,1 +1,1 @@
-7.pants. Ja lēmumā par valsts vai pašvaldības mantas atsavināšanu noteiktais atsavināšanas veids nav bijis sekmīgs, institūcija (amatpersona), kura devusi atļauju atsavināšanai, var noteikt citu atsavināšanas veidu.
+7.pants. Ja lēmumā par publiskas personas mantas atsavināšanu noteiktais atsavināšanas veids nav bijis sekmīgs, institūcija (amatpersona), kura devusi atļauju atsavināšanai, var noteikt citu atsavināšanas veidu.

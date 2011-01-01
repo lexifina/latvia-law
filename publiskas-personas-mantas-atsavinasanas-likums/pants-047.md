@@ -1,1 +1,1 @@
-47.pants. Valsts vai pašvaldības mantas atsavināšanā iegūtos līdzekļus pēc atsavināšanas izdevumu segšanas ieskaita attiecīgi valsts vai pašvaldības budžetā. Atsavināšanas izdevumu apmēru nosaka Ministru kabineta paredzētajā kārtībā.
+47.pants. Publiskas personas mantas atsavināšanā iegūtos līdzekļus pēc atsavināšanas izdevumu segšanas ieskaita attiecīgās publiskās personas budžetā. Atsavināšanas izdevumu apmēru nosaka Ministru kabineta paredzētajā kārtībā.
