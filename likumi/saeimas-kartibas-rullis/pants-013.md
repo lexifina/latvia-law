@@ -1,4 +1,4 @@
-13. (1) Algu deputāts saņem no pirmās Saeimas sēdes pēc vēlēšanām vai no dienas, kad viņš iestājies Saeimas sastāvā (5. un 6.p.)
-(2) Deputāts, kura mandāts izbeidzas līdz ar Saeimas pilnvaru izbeigšanos, ja viņš nav ievēlēts nākamajā Saeimā, saņem vienreizēju pabalstu triju vidējo mēnešalgu apmērā.
-(3) Deputāts, kura mandāts izbeidzas sakarā ar to, ka tiek atjaunots mandāts deputātam, kas to nolicis uz Ministru prezidenta, Ministru prezidenta biedra, ministra, valsts ministra amata pildīšanas vai uz grūtniecības un dzemdību atvaļinājuma, atvaļinājuma adoptētājam, kā arī bērna kopšanas atvaļinājuma laiku, saņem vienreizēju pabalstu triju vidējo mēnešalgu apmērā.
-(4) Šā panta otrajā daļā paredzēto pabalstu pilnā apmērā nevar saņemt deputāts, kas iestājies Saeimas sastāvā 6.pantā noteiktajā kārtībā trīs mēnešu laikā pēc deputāta pilnvaru izbeigšanās. Šādā gadījumā pabalsts deputātam tiek izmaksāts apmērā, kas ir proporcionāls laikam kopš mandāta izbeigšanās līdz ar Saeimas pilnvaru izbeigšanos un iestāšanos jaunās Saeimas sastāvā. Pabalsts deputātam tiek izmaksāts pa daļām - ne vairāk kā vienas vidējās mēnešalgas apmērā mēnesī. Pabalsta izmaksu pārtrauc ar tā mēneša pirmo dienu, kas seko mēnesim, kad deputāts atkārtoti iestājies Saeimas sastāvā. Ja deputātam atbilstoši šā panta otrajai daļai jau izmaksāts pabalsts, tad attiecīgus ieturējumus veic no šā panta pirmajā daļā noteiktās deputāta algas.
+13. (1) Mēnešalgu deputāts saņem no pirmās Saeimas sēdes pēc vēlēšanām vai no dienas, kad viņš iestājies Saeimas sastāvā (5. un 6.p.)
+(2) (Izslēgta ar 23.12.2010. likumu)
+(3) (Izslēgta ar 23.12.2010. likumu)
+(4) (Izslēgta ar 23.12.2010. likumu)

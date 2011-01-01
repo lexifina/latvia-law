@@ -1,4 +1,0 @@
-180. (1) Komisijas, kā arī apakškomisijas priekšsēdētājs, viņa biedrs, sekretārs, komisijas locekļi un uzaicinātie lietpratēji atbilstoši budžetā paredzētajām normām saņem atlīdzību par piedalīšanos komisijas vai apakškomisijas sēdēs un komandējuma naudu par braucieniem amata darīšanās ārpus Saeimas sēžu vietas.
-(2) (Izslēgta ar 07.10.1998. likumu.)
-(3) Vienas kalendārās dienas laikā var notikt ne vairāk kā divas vienas un tās pašas komisijas sēdes, ja viena no tām ilgst ne mazāk kā trīs stundas, bet otra - ne mazāk kā stundu un trīsdesmit minūtes un viena no tām notiek pirms pārtraukuma atpūtai un ēšanai, bet otra - pēc tā. Komisijas locekļi saņem atalgojumu par piedalīšanos katrā no šīm sēdēm.
-(4) Ja deputāti vienas kalendārās dienas laikā piedalās to komisiju vai apakškomisiju sēdēs, kurās viņi ievēlēti vai uzaicināti atbilstoši 170. panta noteikumiem, viņi saņem atalgojumu par piedalīšanos katrā no šīm sēdēm.
