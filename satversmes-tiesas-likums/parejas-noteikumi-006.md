@@ -1,1 +1,0 @@
-6. Līdz 2011.gada 31.decembrim Satversmes tiesas tiesnešu atlīdzību nosaka, ievērojot šā likuma 38.pantu, bet nepārsniedzot Ministru prezidenta mēnešalgu, kas noteikta saskaņā ar Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likumu.

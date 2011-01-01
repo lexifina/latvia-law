@@ -14,6 +14,6 @@
 (7) Disciplinārsodi, kurus Satversmes tiesa var uzlikt tiesnesim, ir šādi:
 1) piezīme;
 2) rājiens;
-3) amatalgas samazināšana uz laiku līdz vienam gadam, ieturot līdz 20 procentiem no amatalgas;
+3) mēnešalgas samazināšana uz laiku līdz vienam gadam, ieturot līdz 20 procentiem no amatalgas;
 4) atlaišana no amata atbilstoši šā likuma 10.panta trešajai daļai.
 (8) Disciplinārsoda uzlikšana neizslēdz Satversmes tiesas tiesneša kriminālo un materiālo atbildību.
