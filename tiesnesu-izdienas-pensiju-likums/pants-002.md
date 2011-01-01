@@ -6,3 +6,4 @@
 (3) Tiesību uz izdienas pensiju nav tiesnesim, kurš atcelts no tiesneša amata, vai tiesībsargam, kura pilnvaras izbeigtas, jo viņš notiesāts par noziedzīga nodarījuma izdarīšanu un spriedums stājies likumīgā spēkā, kā arī tad, ja tiesībsargs no amata atbrīvots, jo pieļāvis apkaunojošu nodarījumu, kas nav savienojams ar tiesībsarga statusu, vai bez attaisnojoša iemesla nav pildījis savus pienākumus.
 (3¹) Tiesību uz izdienas pensiju nav personai, kura ar kompetentas institūcijas nolēmumu atzīta par vainīgu tīša noziedzīga nodarījuma izdarīšanā laikā, kad tā atradās tiesneša amatā.
 (4) Tiesību uz izdienas pensiju nav tiesnesim, kurš saņem citas valsts pensiju.
+(5) Tiesnesim, kuram vienlaikus ir tiesības uz vairākām izdienas pensijām, piešķir tikai vienu pensiju pēc viņa izvēles.
