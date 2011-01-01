@@ -3,7 +3,7 @@
 1) nosaka ģenētiski modificēto organismu ierobežotās izmantošanas un atļaujas izsniegšanas kārtību;
 2) nosaka kārtību, kādā ģenētiski modificētos organismus izplata vidē vai tirgū, monitoringa un atļaujas izsniegšanas kārtību, kā arī kārtību, kādā sniedzama informācija par ģenētiski modificēto organismu apriti un sabiedrības iesaistīšanu lēmumu pieņemšanas procesā;
 3) nosaka ģenētiski modificēto organismu riska novērtēšanas metodoloģiju;
-4) nosaka prasības ģenētiski modificēto kultūraugu līdzāspastāvēšanai, kā arī uzraudzības un kontroles kārtību;
+4) nosaka prasības un kārtību, kādā uzrauga, kontrolē un reģistrē ģenētiski modificēto kultūraugu audzētājus un apmainās ar informāciju saistībā ar ģenētiski modificēto kultūraugu audzētāju reģistru, kā arī prasības ģenētiski modificēto kultūraugu audzētāju apmācības veicējam un tiesības izsniegt apliecības par apmācību;
 5) nosaka, kādā apmērā maksājama valsts nodeva par ģenētiski modificēto organismu riska novērtējuma atzinuma sagatavošanu, kā arī tās samaksas kārtību;
 6) apstiprina Ģenētiski modificēto organismu uzraudzības padomes nolikumu.
 (2) Ministru kabinets ne retāk kā reizi septiņos gados apstiprina nacionālās bioloģiskā drošuma sistēmas attīstības stratēģijas pamatnostādnes un šīs sistēmas attīstības plānu.
