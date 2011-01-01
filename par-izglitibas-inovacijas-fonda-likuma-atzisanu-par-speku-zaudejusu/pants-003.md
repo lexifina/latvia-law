@@ -1,1 +1,0 @@
-3.pants. Aģentūra ir izglītības inovācijas projektu īstenošanai un mūža stipendijām izciliem izglītības darbiniekiem par mūža ieguldījumu izglītībā piešķirto finanšu līdzekļu (turpmāk - fonda līdzekļi) turētājs.
