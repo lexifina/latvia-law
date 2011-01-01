@@ -1,3 +1,3 @@
-16.pants. Atbildība par līguma pirmstermiņa izbeigšanu un strīdu izskatīšana
-(1) Par nepamatotu līguma pirmstermiņa izbeigšanu un atļaujas anulēšanu Brīvostas pārvalde ir atbildīga saskaņā ar Civillikumu.
-(2) Strīdus par līguma pirmstermiņa izbeigšanu, atļaujas anulēšanu un zaudējumu atlīdzību izskata tiesa pēc piekritības vai pēc pušu savstarpējas vienošanās - šķīrējtiesa vai ārvalsts tiesa.
+16.pants. Kārtība, kādā pārsūdzami Brīvostas valdes pieņemtie lēmumi par atļaujas izsniegšanu, atļaujas anulēšanu, līguma slēgšanu un līguma pirmstermiņa izbeigšanu
+(1) Saskaņā ar šā likuma 14. un 15.pantu Brīvostas valdes pieņemtos lēmumus par atļaujas izsniegšanu, atļaujas anulēšanu, līguma slēgšanu un līguma pirmstermiņa izbeigšanu kapitālsabiedrības darbībai brīvās zonas režīmā var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā.
+(2) Brīvostas valdes pieņemto lēmumu pārsūdzēšana neaptur šo lēmumu izpildi.

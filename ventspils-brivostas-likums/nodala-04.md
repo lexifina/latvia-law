@@ -1,2 +1,2 @@
 IV nodaļa
-Uzņēmējdarbība Brīvostā
+Komercdarbība Brīvostā

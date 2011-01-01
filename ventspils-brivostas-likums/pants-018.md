@@ -1,2 +1,2 @@
 18.pants. Preču izcelsmes sertifikāta izsniegšana
-Brīvostas pārvalde Ministru kabineta noteiktajā kārtībā ir tiesīga izsniegt vispārējas formas (nepreferenciālu) sertifikātu, kas apliecina preču izgatavošanu vai pārstrādi licencētā uzņēmējsabiedrībā, kā arī sertifikātu, kas apliecina, ka caur Brīvostā esošās licencētas uzņēmējsabiedrības teritoriju transportētās preces nav pārstrādātas šajā teritorijā.
+Brīvostas pārvalde Ministru kabineta noteiktajā kārtībā ir tiesīga izsniegt vispārējas formas (nepreferenciālu) sertifikātu, kas apliecina preču izgatavošanu vai pārstrādi licencētā kapitālsabiedrībā, kā arī sertifikātu, kas apliecina, ka caur Brīvostā esošās licencētas kapitālsabiedrības teritoriju transportētās preces nav pārstrādātas šajā teritorijā.

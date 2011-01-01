@@ -1,5 +1,5 @@
-12.pants. Uzņēmējdarbības noteikumi Brīvostā
-(1) Preču (kravu) kraušanas, glabāšanas, apstrādes un citus pakalpojumus un preču ražošanu brīvās zonas režīmā veic uzņēmējsabiedrības (uzņēmumi), kuras reģistrētas Latvijas Republikā, ir noslēgušas līgumu par uzņēmējdarbību brīvās zonas režīmā un saņēmušas atļauju šādas darbības veikšanai.
-(2) Brīvostas pārvalde izveido licencēto uzņēmējsabiedrību reģistru.
-(3) Uzņēmējsabiedrības (uzņēmumi), kas nav noslēgušas līgumu ar Brīvostas pārvaldi par uzņēmējdarbību brīvās zonas režīmā, var Brīvostas teritorijā veikt uzņēmējdarbību bez licencētām uzņēmējsabiedrībām noteiktajiem atvieglojumiem un pakļaujoties Brīvostas pārvaldes kontrolei tās kompetences ietvaros. Minētajām uzņēmējsabiedrībām (uzņēmumiem) nav tiesību veikt uzņēmējdarbību brīvo zonu teritorijās.
+12.pants. Komercdarbības noteikumi Brīvostā
+(1) Lai darbotos Brīvostā licencētas kapitālsabiedrības statusā, licencētai kapitālsabiedrībai ir jābūt reģistrētai Latvijas Republikā ar juridisko adresi Ventspils pašvaldības administratīvajā teritorijā. Preču (kravu) kraušanas, glabāšanas, apstrādes un citus pakalpojumus un preču ražošanu brīvās zonas režīmā veic kapitālsabiedrības, kuras noslēgušas līgumu par licencētu komercdarbību brīvās zonas režīmā un saņēmušas atļauju šādu darbību veikšanai.
+(2) Brīvostas pārvalde izveido licencēto kapitālsabiedrību reģistru.
+(3) Komersanti, kuriem nav licencētas kapitālsabiedrības statusa, Brīvostas teritorijā drīkst veikt komercdarbību bez licencētām kapitālsabiedrībām noteiktajiem atvieglojumiem un pakļaujoties Brīvostas pārvaldes kontrolei tās kompetences ietvaros. Minētajiem komersantiem un licencētajām kapitālsabiedrībām, kuras nepiemēro brīvās zonas režīmu, nav tiesību veikt komercdarbību brīvo zonu teritorijās, izņemot pakalpojumu sniegšanu licencētai kapitālsabiedrībai, kas piemēro brīvās zonas režīmu, vai Brīvostas pārvaldei.
 (4) (Izslēgta ar 22.05.2003. likumu)
