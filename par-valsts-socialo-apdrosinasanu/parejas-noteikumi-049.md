@@ -1,0 +1,1 @@
+49. Ministru kabinets izvērtē šā likuma 5.panta ceturtajā daļā noteikto faktiski veikto obligāto iemaksu pensiju apdrošināšanai ietekmi uz personu sociālo nodrošinājumu un līdz 2011.gada 1.oktobrim un turpmāk ik pēc sešiem mēnešiem iesniedz Saeimai ziņojumu par to.

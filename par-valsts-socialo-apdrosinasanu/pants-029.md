@@ -1,2 +1,2 @@
-29.pants. Sociālās apdrošināšanas pakalpojumu un valsts sociālo pabalstu piegāde dzīvesvietā
-Ja persona ar piegādi dzīvesvietā saņem vairākus sociālās apdrošināšanas pakalpojumus vai valsts sociālos pabalstus, no kuriem saskaņā ar normatīvajiem aktiem par šo pakalpojumu piešķiršanu un izmaksāšanu ir paredzēta maksa par piegādi dzīvesvietā, šo maksu Aģentūra iekasē no viena, apmēra ziņā lielākā izmaksājamā sociālās apdrošināšanas pakalpojuma vai valsts sociālā pabalsta.
+29.pants. Sociālās apdrošināšanas pakalpojumu, valsts sociālo pabalstu un izdienas pensiju piegāde dzīvesvietā
+Ja persona dzīvesvietā saņem vairākus Aģentūras administrētos pakalpojumus (piemēram, pensijas, pabalstus) un par katra piegādi dzīvesvietā saskaņā ar normatīvajiem aktiem paredzēta maksa, Aģentūra iekasē vienu maksu par piegādi, pamatojoties uz lielāko izmaksājamā pakalpojuma apmēru.

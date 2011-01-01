@@ -1,1 +1,0 @@
-47. Laika periodā no 2009.gada 1.jūlija līdz 2012.gada 31.decembrim saskaņā ar šo likumu noteikto termiņu, kurā darba devēji reģistrē katru darba ņēmēju Valsts ieņēmumu dienestā pēc darba devēja reģistrācijas vietas, nosaka atbilstoši likumam "Par valsts pensiju un valsts pabalstu izmaksu no 2009.gada līdz 2012.gadam".
