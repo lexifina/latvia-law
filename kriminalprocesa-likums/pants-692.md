@@ -1,8 +1,8 @@
 692.pants. Eiropas apcietinājuma lēmuma pieņemšanas kārtība
-(1) Ja ir konstatēti šā likuma 682.pantā minētie nosacījumi, procesa virzītājs vēršas rajona (pilsētas) tiesā ar rakstveida ierosinājumu pieņemt Eiropas apcietinājuma lēmumu.
+(1) Ja ir konstatēti šā likuma 682.pantā minētie nosacījumi, procesa virzītājs vai tiesa, kas kontrolē sprieduma vai lēmuma pilnīgu izpildi, vai tiesa, kas lemj par soda aizstāšanu ar arestu vai brīvības atņemšanu, vēršas Ģenerālprokuratūrā ar rakstveida ierosinājumu pieņemt Eiropas apcietinājuma lēmumu.
 (2) Ierosinājumā norāda šā likuma 678.pantā minēto informāciju un tam pievieno 684.pantā minētos dokumentus.
-(3) Tiesa ierosinājumu izskata 10 dienu laikā un par pieņemto lēmumu informē procesa virzītāju. Ja persona aizturēta Eiropas Savienības dalībvalstī, ierosinājumu izskata 24 stundu laikā.
-(4) Ja pirmstiesas kriminālprocesā ir konstatēts pamats Eiropas apcietinājuma lēmuma pieņemšanai, izmeklēšanas tiesnesis pieņem Eiropas apcietinājuma lēmumu un to kopā ar pievienotajiem dokumentiem nosūta Ģenerālprokuratūrai.
-(5) Krimināllietas iztiesāšanas laikā Eiropas apcietinājuma lēmumu pieņem tiesa, kuras lietvedībā krimināllieta atrodas.
-(5¹) Pēc nolēmuma stāšanās spēkā Eiropas apcietinājuma lēmumu pieņem tiesa, kas kontrolē sprieduma vai lēmuma pilnīgu izpildi, vai tiesa, kas lemj par soda aizstāšanu ar arestu vai brīvības atņemšanu.
-(6) Eiropas apcietinājuma lēmums nav pārsūdzams.
+(3) Ģenerālprokuratūra ierosinājumu izskata 10 dienu laikā un par pieņemto lēmumu informē ierosinājuma iesniedzēju. Ja persona aizturēta Eiropas Savienības dalībvalstī, ierosinājumu izskata 24 stundu laikā.
+(4) (Izslēgta ar 21.10.2010. likumu)
+(5) (Izslēgta ar 21.10.2010. likumu)
+(5¹) (Izslēgta ar 21.10.2010. likumu)
+(6) Ja ir konstatēts pamats Eiropas apcietinājuma lēmuma pieņemšanai, Ģenerālprokuratūra pieņem Eiropas apcietinājuma lēmumu, kas nav pārsūdzams.

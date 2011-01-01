@@ -7,5 +7,5 @@
 5) pieņem lēmumu par personas atzīšanu par aizdomās turēto;
 6) ja nepieciešams, aizdomās turēto aiztur vai piemēro viņam drošības līdzekli;
 7) noskaidro citus apstākļus, kam ir nozīme lietas izlemšanā.
-(2) Desmit dienu laikā no izmeklēšanas uzsākšanas dienas procesa virzītājs iesniedz prokuroram lietas materiālus līdz ar ierosinājumu par kriminālvajāšanas uzsākšanu.
-(3) Ierosinājumā procesa virzītājs sniedz izmeklējamā nodarījuma īsu aprakstu, tā kvalifikāciju un norāda iespējamās vainīgās personas datus.
+(2) 10 dienu laikā no izmeklēšanas uzsākšanas dienas procesa virzītājs lietas materiālus ar pavadrakstu iesniedz prokuroram un izdara par to atzīmi kriminālprocesa reģistrā.
+(3) (Izslēgta ar 21.10.2010. likumu)

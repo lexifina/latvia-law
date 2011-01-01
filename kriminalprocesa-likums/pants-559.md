@@ -5,9 +5,12 @@
 2) kādas personas aicināmas uz tiesas sēdi;
 3) kā izlemti pieteiktie lūgumi un kādi papildmateriāli izprasāmi sakarā ar pieteiktajiem lūgumiem.
 (3) Par lietas iztiesāšanas laiku un vietu paziņo prokuroram un personām, kuru intereses un tiesības iesniegtā apelācijas sūdzība vai protests aizskar.
-(4) Lietu var iztiesāt rakstveida procesā, ja apelācijas sūdzībā vai protestā ir izteikts lūgums tikai par piespriestā soda mīkstināšanu vai arī tajā norādīts uz apstākļiem, kuru dēļ pirmās instances tiesas nolēmums katrā ziņā jāatceļ, un ja prokurors vai persona, kuras intereses un tiesības sūdzība vai protests aizskar, pret to neiebilst.
+(4) Lietu var iztiesāt rakstveida procesā, ja:
+1) apelācijas sūdzībā vai protestā ir izteikts lūgums tikai par piespriestā soda mīkstināšanu un ja prokurors vai persona, kuras intereses un tiesības sūdzība vai protests aizskar, pret to neiebilst;
+2) apelācijas sūdzībā vai protestā ir norādīts uz apstākļiem, kuru dēļ pirmās instances tiesas nolēmums katrā ziņā jāatceļ, un ja prokurors vai persona, kuras intereses un tiesības sūdzība vai protests aizskar, pret to neiebilst;
+3) apelācijas sūdzībā vai protestā ir izteikts lūgums tikai par piespriestā soda mīkstināšanu un ja lieta pirmās instances tiesā izskatīta bez pierādījumu pārbaudes un piespriestais sods nav saistīts ar brīvības atņemšanu, kas ilgāka par pieciem gadiem;
+4) apelācijas sūdzībā vai protestā ir norādīts uz apstākļiem, kuru dēļ pirmās instances tiesas nolēmums katrā ziņā jāatceļ, un ja lieta pirmās instances tiesā izskatīta bez pierādījumu pārbaudes un piespriestais sods nav saistīts ar brīvības atņemšanu, kas ilgāka par pieciem gadiem.
 (5) Lēmumā par lietas pieņemšanu iztiesāšanai rakstveida procesā norāda:
 1) tiesas sastāvu, kādā lieta tiks iztiesāta;
-2) tiesības prokuroram vai personai, kuras intereses izskatāmā sūdzība vai protests aizskar, 10 dienu laikā pieteikt noraidījumu tiesas sastāvam vai atsevišķam tiesnesim, kā arī iesniegt iebildumus pret lietas iztiesāšanu rakstveida procesā;
-3) tiesības prokuroram iesniegt viedokli par apelācijas sūdzību;
-4) nolēmuma pieejamības dienu.
+2) tiesības prokuroram, aizstāvim un personai, kuras intereses izskatāmā sūdzība vai protests aizskar, 10 dienu laikā pieteikt noraidījumu tiesas sastāvam vai atsevišķam tiesnesim, iesniegt iebildumus pret lietas iztiesāšanu rakstveida procesā, iesniegt viedokli par apelācijas sūdzību vai protestu;
+3) nolēmuma pieejamības dienu.

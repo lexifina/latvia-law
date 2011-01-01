@@ -6,4 +6,4 @@
 4) ja tiesības uz aizstāvību ir personai, kura fizisku vai psihisku trūkumu dēļ pati nespēj pilnībā izmantot savas procesuālās tiesības;
 5) ja tiesības uz aizstāvību ir analfabētam vai personai ar tik zemu izglītības līmeni, ka tā nevar pilnvērtīgi izmantot savas procesuālās tiesības.
 (2) Aizstāvja piedalīšanās ir obligāta kriminālprocesā, kas notiek vienošanās procesa kārtībā no brīža, kad tiek uzsāktas pārrunas ar apsūdzēto par vienošanās slēgšanu.
-(3) Iztiesāšanas laikā aizstāvja piedalīšanās ir obligāta, ja lieta tiek skatīta apsūdzētā prombūtnē (in absentia).
+(3) Iztiesāšanas laikā aizstāvja piedalīšanās ir obligāta, ja lieta tiek skatīta apsūdzētā prombūtnē (in absentia) vai bez apsūdzētā piedalīšanās.

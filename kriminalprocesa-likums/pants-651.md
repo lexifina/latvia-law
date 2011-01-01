@@ -1,5 +1,5 @@
 651.pants. Ar sprieduma un lēmuma izpildi saistīto jautājumu izlemšanas kārtība
-(1) Ar nolēmuma izpildi saistītos jautājumus izlemj tiesnesis tiesas sēdē, piedaloties prokuroram un notiesātajam, kuram tiek nodrošinātas šā likuma 639.pantā paredzētās tiesības. Notiesātā neattaisnotas neierašanās gadījumā jautājumu var lemt bez viņa klātbūtnes.
+(1) Ar nolēmuma izpildi saistītos jautājumus cik drīz vien iespējams izlemj tiesnesis tiesas sēdē, piedaloties prokuroram un notiesātajam, kuram tiek nodrošinātas šā likuma 639.pantā paredzētās tiesības. Notiesātā neattaisnotas neierašanās gadījumā jautājumu var lemt bez viņa klātbūtnes.
 (2) Ja tiesnesis izskata jautājumu par notiesātā atbrīvošanu no soda izciešanas slimības vai invaliditātes dēļ, kā arī jautājumu par atbrīvotā nodošanu ārstniecības iestāžu aizgādnībā, tiesas sēdē jāpiedalās atzinumu devušās ārstu komisijas pārstāvim.
 (3) Ja tiesnesis izskata jautājumus, kas saistīti ar soda izpildi, uz tiesas sēdi tiek uzaicināts tās iestādes pārstāvis, kura pārzina soda izpildi vai kontrolē nosacīti notiesātā uzvedību. Izlemjot jautājumu par sprieduma izpildes atlikšanu, aicina tikai notiesāto.
 (4) Ja uz tiesas sēdi bez attaisnojoša iemesla neierodas personas, kuras nosūtījušas iesniegumu vai izteikušas lūgumu, lietas izskatīšanu atliek.

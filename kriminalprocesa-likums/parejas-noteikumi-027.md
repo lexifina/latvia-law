@@ -1,0 +1,1 @@
+27. Tiesvedībā esošajās privātās apsūdzības lietās par noziedzīgiem nodarījumiem, kas kvalificēti pēc Krimināllikuma 130.panta otrās daļas, 157. un 158.panta saistībā ar neslavas celšanu plašsaziņas līdzeklī, kriminālprocess tiek pabeigts privātās apsūdzības kriminālprocesa izskatīšanas kārtībā, kāda bija noteikta līdz 2010.gada 31.decembrim.

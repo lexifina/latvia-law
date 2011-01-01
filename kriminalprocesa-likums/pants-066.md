@@ -22,4 +22,4 @@ No brīža, kad personai paziņots, ka tā atzīta par aizdomās turēto, šai p
 19) pie izmeklēšanas tiesneša piedalīties procesa virzītāja ierosinājumu un savu un aizstāvja sūdzību un pieteikumu izskatīšanā, ja vien likums nenosaka citu izskatīšanas kārtību;
 20) izteikt vēlēšanos sadarboties ar amatpersonām, kas veic kriminālprocesu.
 (2) Bez aizdomās turētā piekrišanas nedrīkst publiskot plašsaziņas līdzekļos procesuālo darbību laikā ar foto, video vai cita veida tehniskajiem līdzekļiem fiksētu viņa attēlu, ja vien tas nav nepieciešams noziedzīgā nodarījuma atklāšanai.
-(3) Liecības nesniegšana nav vērtējama kā traucēšana noskaidrot patiesību lietā un izvairīšanās no pirmstiesas izmeklēšanas procesa.
+(3) Liecības nesniegšana nav vērtējama kā traucēšana noskaidrot patiesību lietā un izvairīšanās no pirmstiesas procesa.

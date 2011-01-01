@@ -1,5 +1,5 @@
 392.¹ pants. Lēmums par kriminālprocesa izbeigšanu
-(1) Ja pirmstiesas procesā tiek konstatēti apstākļi, kas nepieļauj kriminālprocesu vai var būt par pamatu personas atbrīvošanai no kriminālatbildības, vai ja nav pierādīta apsūdzība un nav iespējams savākt papildu pierādījumus, procesa virzītājs pieņem lēmumu par kriminālprocesa vai tā daļas izbeigšanu.
+(1) Ja pirmstiesas procesā tiek konstatēti apstākļi, kas nepieļauj kriminālprocesu vai var būt par pamatu personas atbrīvošanai no kriminālatbildības, vai ja nav pierādīta aizdomās turētā vai apsūdzētā vaina un nav iespējams savākt papildu pierādījumus, procesa virzītājs pieņem lēmumu par kriminālprocesa vai tā daļas izbeigšanu.
 (2) Lēmuma aprakstošajā daļā norāda:
 1) kriminālprocesa uzsākšanas pamatu;
 2) ziņas par aizdomās turētā vai apsūdzētā personību;

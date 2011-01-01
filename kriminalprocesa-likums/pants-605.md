@@ -5,3 +5,4 @@
 (4) Atzinusi, ka pārbaudāmās personas piedalīšanās noziedzīgā nodarījumā nav pierādīta, vai noskaidrojusi apstākļus, kas vispār nepieļauj kriminālprocesu, tiesa pieņem lēmumu par kriminālprocesa izbeigšanu un paziņo par to ārstniecības iestādei, kurā šī persona ārstējas.
 (5) Atzinusi, ka pārbaudāmā persona nav izdarījusi noziedzīgu nodarījumu, bet to izdarījusi cita persona, tiesa kriminālprocesu pret pārbaudāmo personu izbeidz un krimināllietu nosūta prokuroram pirmstiesas procesa turpināšanai.
 (6) Lēmuma rezolutīvajā daļā tiesa nosaka rīcību ar lietiskajiem pierādījumiem un dokumentiem, kaitējuma kompensāciju, rīcību ar mantu, kurai uzlikts arests, procesuālo izdevumu piedziņu un izskaidro tiesas lēmuma pārsūdzēšanas kārtību un termiņus.
+(7) Ja persona, pret kuru notiek process medicīniska rakstura piespiedu līdzekļu noteikšanai, savas slimības rakstura dēļ nav piedalījusies tiesas sēdē, tiesa nosūta šai personai tiesas lēmuma kopiju.

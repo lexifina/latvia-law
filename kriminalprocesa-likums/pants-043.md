@@ -9,4 +9,4 @@
 7) uzstāties tiesas debatēs;
 8) iepazīties ar tiesas sēdes protokolu, pilnu nolēmuma tekstu un personu iesniegtajām sūdzībām;
 9) pārsūdzēt tiesu nolēmumus, ja ir pamats to darīt.
-(2) Šā panta pirmajā daļā norādītās pilnvaras prokuroram ir visos kriminālprocesos neatkarīgi no procesa norises īpatnībām atsevišķu kategoriju lietās, izņemot privātās apsūdzības lietas.
+(2) Šā panta pirmajā daļā norādītās pilnvaras prokuroram ir visos kriminālprocesos neatkarīgi no procesa norises īpatnībām atsevišķu kategoriju lietās.

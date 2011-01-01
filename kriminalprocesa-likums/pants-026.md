@@ -13,4 +13,4 @@
 10) izmeklēšanas tiesnesim;
 11) apsūdzības uzturētājam.
 (3) Noraidījumu, sūdzību un procesa organizatorisku jautājumu izlemšanā pilnvaras ir tiesnesim, prokuroram, kā arī tiesu, prokuratūru un izmeklēšanas iestāžu un to struktūrvienību vadītājiem.
-(4) Eiropas Savienības (Kopienu) institūciju amatpersonām ir pilnvaras veikt kriminālprocesu Eiropas Savienības (Kopienu) tiesību normās noteiktajos gadījumos.
+(4) Eiropas Savienības institūciju amatpersonām ir pilnvaras veikt kriminālprocesu Eiropas Savienības tiesību normās noteiktajos gadījumos.

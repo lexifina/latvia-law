@@ -10,7 +10,7 @@
 (5) Cietušajam pēc viņa pieteikuma prokurors izsniedz to lietas materiālu kopijas, kas attiecas uz noziedzīgu nodarījumu, kurā persona atzīta par cietušo kriminālprocesā vai ar prokurora piekrišanu iepazīstina ar šiem krimināllietas materiāliem.
 (6) Tiesmedicīniskās, tiesu psihiatriskās un tiesu psiholoģiskās ekspertīzes atzinumu kopijas neizsniedz, bet nodrošina iespēju ar tiem iepazīties. No minētajiem atzinumiem var kopēt šā likuma 203.panta otrās daļas 1.- 5. un 9. - 10.punktā norādīto informāciju.
 (7) Iepazīstoties ar saņemto krimināllietas materiālu kopijām, apsūdzētajam ir tiesības izmantot tulka palīdzību bez maksas.
-(8) Ja apsūdzētais iepazīstas ar tiesai nododamās krimināllietas materiāliem vai atsakās no tiesībām iepazīties ar krimināllietas materiāliem vai saņemt tiesai nododamās krimināllietas materiālu kopijas, prokurors par to raksta protokolu.
+(8) Ja apsūdzētais iepazīstas ar tiesai nododamās krimināllietas materiāliem vai saņem to kopijas, kā arī tad, ja apsūdzētais atsakās no tiesībām iepazīties ar tiesai nododamās krimināllietas materiāliem vai saņemt to kopijas, prokurors par to raksta protokolu.
 (9) (Izslēgta ar 19.01.2006. likumu.)
 (10) Pēc krimināllietas materiālu kopiju izsniegšanas vai iepazīstināšanas ar krimināllietas materiāliem un šā panta trešās daļas 4.punktā minētās informācijas saņemšanas no apsūdzētā prokurors pieņem lēmumu par krimināllietas nodošanu tiesai.
 (11) Pēc apsūdzētā, aizstāvja, cietušā vai pārstāvja pieteikuma prokurors nodrošina viņam iespēju iepazīties ar arhīva lietas materiāliem un saņemt nepieciešamo materiālu kopijas, par to izdarot atzīmi arhīva lietā un informējot tiesu.

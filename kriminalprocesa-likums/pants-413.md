@@ -10,7 +10,8 @@
 8) cietušo personu un kompensācijas apmēru;
 9) mantai uzlikto arestu;
 10) apsūdzētā atbildību pastiprinošos un mīkstinošos apstākļus;
-11) krimināllietas lapu skaitu.
+11) krimināllietas lapu skaitu;
+12) procesuālos izdevumus.
 (2) Lēmumam pievieno lietisko pierādījumu un dokumentu sarakstu un to personu sarakstu, kuras, pēc apsūdzības un aizstāvības domām, izsaucamas uz tiesas sēdi. Uz tiesu izsaucamo personu adreses norāda tikai sarakstā, ko nosūta tiesai.
 (3) Lēmumu kopā ar krimināllietas materiāliem prokurors nekavējoties nosūta tiesai.
 (4) Par lēmuma pieņemšanu un krimināllietas nosūtīšanu tiesai prokurors informē apsūdzēto un cietušo vai viņu pārstāvjus, nosūtot viņiem lēmuma kopiju, lietisko pierādījumu un dokumentu saraksta, kā arī uz tiesas sēdi izsaucamo personu saraksta kopiju un informāciju par viņu tiesībām un pienākumiem tiesā, kā arī norādot, kurai tiesai krimināllieta nosūtīta. Apsūdzētajam, kas nesaprot valsts valodu, kurā uzrakstīts lēmums, prokurors nodrošina lēmuma rakstveida tulkojumu viņam saprotamā valodā.

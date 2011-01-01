@@ -1,0 +1,1 @@
+31. Ierosinājumi par Eiropas apcietinājuma lēmuma pieņemšanu, kuri iesniegti tiesā līdz 2010.gada 31.decembrim, izskatāmi un Eiropas apcietinājuma lēmumi pieņemami kārtībā, kāda bija spēkā līdz minētajam datumam.

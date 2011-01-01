@@ -6,7 +6,7 @@
 4) atcelt pirmās instances tiesas spriedumu daļā par noteikto sodu un noteikt apsūdzētajam vieglāku sodu;
 5) atcelt pirmās instances tiesas spriedumu daļā par kaitējuma kompensāciju, kaitējuma kompensācijas un mantas konfiskācijas nodrošinājumu, lietiskajiem pierādījumiem, procesuālo izdevumu atlīdzību un drošības līdzekli un taisīt šajā daļā jaunu spriedumu.
 (2) Konstatējusi Krimināllikuma nepareizu piemērošanu, apelācijas instances tiesa piemēro šā panta pirmās daļas prasības arī citiem apsūdzētajiem, kas notiesāti par to pašu noziedzīgu nodarījumu, neatkarīgi no tā, vai par to ir iesniegta apelācijas sūdzība vai protests.
-(3) Pamatojoties uz prokurora protestu vai cietušā sūdzību privātās apsūdzības lietā, vai cietušā sūdzību publiskās apsūdzības lietā, kuru atbalsta prokurors, apelācijas instances tiesa var:
+(3) Pamatojoties uz prokurora protestu vai cietušā sūdzību, kuru atbalsta prokurors, apelācijas instances tiesa var:
 1) atzīt apsūdzēto par vainīgu smagāka noziedzīga nodarījuma izdarīšanā, nekā to atzinusi pirmās instances tiesa, nosakot smagāku sodu vai nemainot sodu;
 2) atcelt attaisnojošu pirmās instances tiesas spriedumu un taisīt notiesājošu spriedumu;
 3) atzīt apsūdzēto par vainīgu atsevišķu noziedzīga nodarījuma epizožu izdarīšanā, kuras pirmās instances tiesa izslēgusi no apsūdzības, nosakot smagāku sodu vai nemainot sodu;

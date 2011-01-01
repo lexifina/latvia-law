@@ -1,0 +1,1 @@
+30. Tās lietas par noziedzīgiem nodarījumiem, kas kvalificēti pēc Krimināllikuma 253.¹, 348. un 349.panta, kuras nodotas atbilstoši noteiktajai piekritībai izskatīšanai apgabaltiesā līdz 2010.gada 31.decembrim, izskatāmas tajā pašā tiesā, kurā tās iesniegtas.

@@ -10,7 +10,7 @@
 8) apsūdzētā attaisnošanu daļā apsūdzības, ja tiesa to atzinusi;
 9) kaitējuma kompensāciju, tai skaitā valsts izmaksātās kompensācijas apmēru;
 10) kaitējuma kompensācijas vai mantas konfiskācijas nodrošināšanu, ja tas nav izdarīts agrāk;
-11) noziedzīgi iegūto līdzekļu konfiskāciju vai piedziņu;
+11) noziedzīgi iegūtās mantas konfiskāciju vai piedziņu;
 12) advokāta darba samaksas piedziņu no apsūdzētā vai par viņa atbrīvošanu no tās;
 13) (izslēgts ar 12.03.2009. likumu);
 14) apsūdzētā atbrīvošanu no apcietinājuma, mājas aresta vai sociālās korekcijas izglītības iestādes tiesas sēžu zālē, ja viņam noteikts ar brīvības atņemšanu nesaistīts sods.

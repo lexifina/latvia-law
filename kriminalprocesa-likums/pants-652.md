@@ -1,3 +1,3 @@
 652.pants. Ar prokurora priekšrakstā noteiktā soda izpildi saistīto jautājumu izlemšanas kārtība
-(1) Jautājumus, kuri saistīti ar prokurora priekšrakstā par sodu noteiktā soda izpildi, kā arī šaubas un neskaidrības, kas rodas, izpildot šo sodu, šajā nodaļā noteiktajā kārtībā izlemj tās prokuratūras iestādes virsprokurors, kuras prokurors bija izdevis priekšrakstu par sodu, bet jautājumu par soda aizstāšanu vai atbrīvošanu no soda izciešanas likumā paredzētajos gadījumos - tiesnesis.
+(1) Jautājumus, kuri saistīti ar prokurora priekšrakstā par sodu noteiktā soda izpildi, kā arī šaubas un neskaidrības, kas rodas, izpildot šo sodu, šajā nodaļā noteiktajā kārtībā izlemj tās prokuratūras iestādes virsprokurors, kuras prokurors bija izdevis priekšrakstu par sodu, bet jautājumu par soda aizstāšanu vai atbrīvošanu no soda izciešanas likumā paredzētajos gadījumos - rajona (pilsētas) tiesas tiesnesis pēc notiesātā dzīvesvietas.
 (2) Virsprokurora lēmums nav pārsūdzams.

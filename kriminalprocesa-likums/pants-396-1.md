@@ -1,0 +1,3 @@
+396.¹ pants. Pārrakstīšanās un matemātiskā aprēķina kļūdu labošana
+(1) Procesa virzītājs var nolēmumā izlabot pārrakstīšanās vai matemātiskā aprēķina kļūdas. Pārrakstīšanās vai matemātiskā aprēķina kļūdas izlabo, pieņemot lēmumu, ko paziņo procesā iesaistītajām personām, uz kurām tas attiecas.
+(2) Lēmumu par pārrakstīšanās vai matemātiskā aprēķina kļūdu labojumu procesā iesaistītās personas 10 dienu laikā pēc tā kopijas saņemšanas var pārsūdzēt uzraugošajam prokuroram, ja lēmumu pieņēmis izmeklētājs, vai amatā augstākam prokuroram, ja lēmumu pieņēmis prokurors. Uzraugošā prokurora un amatā augstāka prokurora lēmums, izskatot sūdzību, nav pārsūdzams.

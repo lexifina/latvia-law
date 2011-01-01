@@ -1,5 +1,5 @@
-386.pants. Pirmstiesas izmeklēšanas iestādes
-Pirmstiesas izmeklēšanu savas kompetences ietvaros veic:
+386.pants. Izmeklēšanas iestādes
+Izmeklēšanu savas kompetences ietvaros veic:
 1) Valsts policija;
 2) Drošības policija;
 3) Finanšu policija;

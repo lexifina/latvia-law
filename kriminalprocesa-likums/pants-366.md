@@ -9,3 +9,4 @@
 6) zudis jebkurš cits iemesls mantisko jautājumu risinājuma nodrošināšanai.
 (2) Procesa virzītājs var saglabāt arestu tādai mantas daļai, kas var būt nepieciešama procesuālo izdevumu segšanai.
 (3) Par aresta noņemšanu procesa virzītājs pēc nolēmuma spēkā stāšanās nekavējoties paziņo arī attiecīgajam publiskajam reģistram, kurā reģistrētas tiesības uz šo mantu.
+(4) Ja mēneša laikā no dienas, kad nosūtīts paziņojums par mantas aresta atcelšanu, persona, kuras mantai bija uzlikts arests un kuras manta bija nodota glabāšanā saskaņā ar šā likuma 365.panta 2.¹ daļu, nav izņēmusi tai piederošo mantu, procesa virzītājs vai - pēc gala nolēmuma kriminālprocesā stāšanās spēkā - paziņojumu nosūtījušās iestādes tiesnesis, prokurors vai izmeklēšanas iestādes vai tās struktūrvienības vadītājs pieņem lēmumu par šīs mantas realizāciju vai iznīcināšanu. Lēmums nav pārsūdzams. Mantas realizācijas un iznīcināšanas kārtību nosaka Ministru kabinets.

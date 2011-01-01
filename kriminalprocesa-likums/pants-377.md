@@ -8,5 +8,5 @@ Kriminālprocesu nedrīkst uzsākt, bet uzsākts process ir jāizbeidz, ja:
 6) stājies spēkā spriedums vai procesa virzītāja lēmums par kriminālprocesa izbeigšanu tajā pašā apsūdzībā pret personu, kura iepriekš saukta pie kriminālatbildības par to pašu noziedzīgu nodarījumu;
 7) tas ir vērsts pret tādu ārvalstnieku vai bezvalstnieku par valsts robežas nelikumīgu šķērsošanu, kurš par šo noziedzīgu nodarījumu piespiedu kārtā izraidīts no Latvijas Republikas;
 8) nav cietušās personas pieteikuma tādā kriminālprocesā, kuru var uzsākt tikai uz šīs personas pieteikuma pamata;
-9) noticis cietušā un aizdomās turētā vai apsūdzētā izlīgums tādā kriminālprocesā, kuru var uzsākt tikai uz cietušās personas pieteikuma pamata, izņemot kriminālprocesu par Krimināllikuma 130.pantā paredzēto noziedzīgu nodarījumu, ja tas saistīts ar vardarbību ģimenē;
+9) noticis cietušā un aizdomās turētā vai apsūdzētā izlīgums tādā kriminālprocesā, kuru var uzsākt tikai uz cietušās personas pieteikuma pamata;
 10) konstatēti Krimināllikumā minētie apstākļi, kas izslēdz kriminālatbildību.

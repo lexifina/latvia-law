@@ -1,5 +1,0 @@
-237.pants. Lietisko pierādījumu glabāšana
-(1) Lietiskie pierādījumi, kurus nevar uzglabāt kopā ar pārējiem krimināllietas materiāliem, glabājami īpaši šim nolūkam paredzētās telpās. Ja šis nosacījums nav izpildāms, tie var glabāties Ministru kabineta noteiktajās iestādēs vai arī citā vietā Ministru kabineta noteiktajā kārtībā, ja tiek nodrošināta to saglabāšana līdz galīgai jautājuma izlemšanai par turpmāko rīcību ar konkrēto lietu.
-(2) Ja šīs lietas ir nepieciešamas to īpašniekam vai likumīgajam valdītājam tiesisku mērķu sasniegšanai, tās var viņam atdot pavisam vai uz laiku, ja tas nekaitē turpmākajam kriminālprocesam.
-(3) Naudu, vērtspapīrus, juvelierizstrādājumus, dārgmetālus un dārgakmeņus, indīgās, narkotiskās un psihotropās vielas, prekursorus, radioaktīvus un citus stratēģiskas nozīmes materiālus, kā arī ieročus, munīciju un sprāgstvielas, ja šīm lietām ir lietiskā pierādījuma nozīme, nodod glabāšanā Ministru kabineta noteiktajām speciālajām iestādēm.
-(4) Nododot krimināllietas materiālus citam procesa virzītājam, lietiskos pierādījumus var atstāt glabāšanā pirmā procesa virzītāja lietisko pierādījumu glabāšanai noteiktajā vietā.

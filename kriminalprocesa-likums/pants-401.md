@@ -8,5 +8,7 @@
 1) noziedzīga nodarījuma apstākļus;
 2) noziedzīga nodarījuma kvalifikāciju;
 3) pie kriminālatbildības saucamās personas vārdu, uzvārdu, personas kodu un paziņoto dzīvesvietu;
-4) pierādījumus.
-(3) (Izslēgta ar 12.03.2009. likumu.)
+4) pierādījumus;
+5) procesuālos izdevumus.
+(3) (Izslēgta ar 12.03.2009. likumu)
+(4) Šā panta pirmās daļas 1., 2. un 4.punktā minētie lēmumi nav pārsūdzami.
