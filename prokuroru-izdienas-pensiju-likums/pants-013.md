@@ -1,3 +1,2 @@
 13.pants. Izdienas pensijas izmaksa personām, kuras izbrauc uz ārvalstīm
-(1) Tiesības uz izdienas pensiju, kas iegūtas saskaņā ar šo likumu, pensijas saņēmējiem, izņemot ārvalstniekus vai bezvalstniekus, normatīvajos aktos noteiktajā kārtībā saglabājas arī pēc viņu izbraukšanas uz ārvalstīm.
-(2) Ārvalstniekiem vai bezvalstniekiem izdienas pensiju, kas piešķirta Latvijas Republikā pirms izbraukšanas uz pastāvīgu dzīvi ārvalstīs, izmaksā sešus mēnešus uz priekšu, sākot ar nākamo mēnesi pēc izrakstīšanās, bet turpmāk izdienas pensijas izmaksu pārtrauc, ja starptautiskajos līgumos, ko apstiprinājusi Saeima, nav noteikta citāda kārtība.
+Personām, kuras izbrauc uz pastāvīgu dzīvi ārvalstīs, piešķirto izdienas pensiju izmaksā kārtībā, kāda saskaņā ar likumu "Par valsts pensijām" noteikta valsts pensiju izmaksai.

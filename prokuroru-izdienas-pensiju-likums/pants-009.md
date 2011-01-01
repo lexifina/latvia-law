@@ -5,4 +5,4 @@
 3) izdienas pensijas saņēmējs tiek iecelts vai apstiprināts tiesneša amatā;
 4) izdienas pensijas saņēmējs no jauna uzsāk dienestu tajās iestādēs, dienests kurās dod tiesības uz izdienas pensiju.
 (1¹) Izdienas pensijas izmaksu pārtrauc laikā, kad izdienas pensijas saņēmējs saņem bezdarbnieka pabalstu.
-(2) Izdienas pensijas saņēmēja pienākums ir 10 dienu laikā paziņot Ģenerālprokuratūrai par šā panta pirmajā un 1.¹ daļā minēto apstākļu iestāšanos.
+(2) Izdienas pensijas saņēmēja pienākums ir 10 dienu laikā paziņot Valsts sociālās apdrošināšanas aģentūrai par šā panta pirmās daļas 2., 3. un 4.punktā minēto apstākļu iestāšanos.
