@@ -1,7 +1,7 @@
 11.pants. Valsts nodevu objekti
 (1) Šādas valsts nodevas tiek uzliktas tikai saskaņā ar likumiem:
 1) (izslēgts ar 25.11.1999. likumu);
-2) transportlīdzekļu ikgadējā nodeva - likums "Par transportlīdzekļu ikgadējo nodevu";
+2) (izslēgts ar 20.12.2010. likumu);
 3) izložu un azartspēļu nodeva - likums "Par izložu un azartspēļu nodevu un nodokli";
 4) nodevas par darbību veikšanu tiesu iestādēs - Civilprocesa likums un Administratīvā procesa likums;
 5) nodeva par uzvārda, vārda un tautības ieraksta maiņu personu apliecinošos dokumentos - likums "Par vārda, uzvārda un tautības ieraksta maiņu";
@@ -10,7 +10,8 @@
 8) (izslēgts ar 25.11.1999. likumu);
 9) (izslēgts ar 13.04.2000. likumu);
 10) preču vai pakalpojumu loterijas organizēšanas valsts nodeva - Preču un pakalpojumu loteriju likums;
-11) autoceļu lietošanas nodeva - Autoceļu lietošanas nodevas likums.
+11) autoceļu lietošanas nodeva - Autoceļu lietošanas nodevas likums;
+12) finanšu stabilitātes nodeva - Finanšu stabilitātes nodevas likums.
 (2) Valsts nodevas ir maksājamas par valsts sniegto nodrošinājumu, šādiem juridiskajiem pakalpojumiem un likumos paredzētajiem speciāliem mērķiem:
 1) (izslēgts ar 20.12.2001. likumu);
 2) par notariālo darbību izpildi;
@@ -35,12 +36,13 @@
 21) par īpašuma tiesību un ķīlas tiesību nostiprināšanu zemesgrāmatā;
 22) (izslēgts ar 12.12.2002. likumu);
 23) par būvprakses un arhitekta prakses sertifikātu reģistrāciju;
+23¹) par reģistrācijas darbībām būvkomersantu reģistrā;
 24) par sabiedrisko pakalpojumu regulēšanu;
 25) par ogļūdeņražu ieguvi;
 26) par visu veidu šaujamieroču un speciālo līdzekļu atļauju izsniegšanu un to termiņa pagarināšanu (šīs atļaujas izsniedz Valsts policijas iestādes);
 27) par iekšējās drošības dienesta reģistrāciju;
 28) par azartspēļu iekārtu marķēšanu;
-29) par transportlīdzekļu, gaisa kuģu, kuģu, mazo kuģu un jahtu reģistrāciju (transportlīdzekļu reģistra nodeva);
+29) par gaisa kuģu, Jūras kodeksa 8.panta otrajā daļā noteikto reģistrējamo kuģu un kuģošanas līdzekļu, kā arī par Valsts tehniskās uzraudzības aģentūrā reģistrējamu transportlīdzekļu reģistrāciju;
 30) par dzelzceļa infrastruktūras reģistrāciju;
 31) par pasažieru izlidošanu;
 32) (izslēgts ar 01.12.2009. likumu);
@@ -86,10 +88,10 @@
 70) par Ciltsdarba likumā noteikto sertificējamo personu kvalifikācijas sertifikāta izsniegšanu, par ganāmpulka, dzīvnieku un novietņu reģistrēšanu un par dzīvnieku apzīmēšanai nepieciešamo dokumentu izsniegšanu;
 71) (izslēgts ar 17.12.2009. likumu);
 72) par tāda suņa reģistrāciju, kurš apmācīts uzbrukt cilvēkam;
-73) par atļauju izmantot dzīvnieku eksperimentos un apmācībās;
+73) par atļauju izmantot dzīvnieku izmēģinājumā;
 74) par dzīvnieka pārvadātāja apliecības izsniegšanu;
 75) par atļaujas izsniegšanu transportlīdzeklim dzīvnieku pārvadāšanai;
-76) par atļauju savvaļas dzīvnieku kolekcijas izveidei un darbībai;
+76) par savvaļas sugu dzīvnieku turēšanas vietas reģistrāciju;
 77) par cirka dzīvnieka, dresūras dzīvnieka, cirka un dresūras numura viesizrāžu vietas reģistrāciju;
 78) (izslēgts ar 30.04.2009. likumu);
 79) par Meža likumā noteiktajām mežsaimnieciskajām darbībām;
@@ -110,8 +112,8 @@
 94) par ziņu par deklarēto dzīvesvietu reģistrāciju;
 95) par atzinuma par aizsargjoslas saskaņošanu ap ūdens ņemšanas vietām sagatavošanu;
 96) par atzinuma par veselīguma norādi uz pārtikas produktiem sagatavošanu;
-97) par tiesību piešķiršanu ievest atkritumus valsts teritorijā;
-98) par apraides atļaujas, retranslācijas atļaujas un speciālās atļaujas (licences) kabeļtelevīzijas un kabeļradio (radiotranslācijas) darbībai izsniegšanu un pārreģistrāciju;
+97) par apstiprinājuma vai piekrišanas izsniegšanu atkritumu pārrobežu pārvadājumiem;
+98) par apraides atļaujas izsniegšanu, retranslācijas atļaujas izsniegšanu un tāda pakalpojuma sniedzēja reģistrāciju, kurš sniedz elektronisko plašsaziņas līdzekļu pakalpojumus pēc pieprasījuma;
 99) par ģeogrāfiskās izcelsmes norādes reģistrāciju, par iebilduma paziņojuma lēmuma izsniegšanu un par ģeogrāfiskās izcelsmes norādes grozījuma reģistrāciju;
 100) par nacionālās pārtikas kvalitātes shēmas kontroles institūcijas apstiprināšanas apliecības izsniegšanu;
 101) (izslēgts ar 20.05.2010. likumu);
@@ -124,5 +126,12 @@
 108) par atzinuma par ūdens apgādes sistēmā konstatēto apdraudējumu cilvēku veselībai un veiktajiem korektīvajiem pasākumiem sagatavošanu;
 109) par Enerģētikas likumā noteikto drošības rezervju uzturēšanu;
 110) par pirotehniķa sertifikāta, tā dublikāta un atkārtota sertifikāta izsniegšanu;
-111) par speciālās atļaujas (licences) izsniegšanu patērētāju kreditēšanas pakalpojumu sniegšanai;
-112) par Latvijas Republikas Nacionālajā stratēģiskas nozīmes preču un pakalpojumu sarakstā minētu, sevišķā veidā veicamiem operatīvās darbības pasākumiem speciāli radītu vai pielāgotu iekārtu, ierīču vai instrumentu un to komponentu sertificēšanu.
+111) par speciālās atļaujas (licences) izsniegšanu patērētāju kreditēšanas pakalpojumu sniegšanai un tās pārreģistrāciju;
+112) par Latvijas Republikas Nacionālajā stratēģiskas nozīmes preču un pakalpojumu sarakstā minētu, sevišķā veidā veicamiem operatīvās darbības pasākumiem speciāli radītu vai pielāgotu iekārtu, ierīču vai instrumentu un to komponentu sertificēšanu;
+113) par lielgabarīta un smagsvara pārvadājumiem;
+114) par licences izsniegšanu melno un krāsaino metālu atgriezumu un lūžņu iepirkšanai Latvijā un par licences izsniegšanu melno metālu atgriezumu un lūžņu iepirkšanai Latvijā;
+115) par atkritumu savākšanas, pārvadāšanas, pārkraušanas, šķirošanas vai uzglabāšanas atļaujas izsniegšanu;
+116) par tiesībām izmantot zemes dzīles publiskajos ūdeņos, Latvijas Republikas teritoriālajā jūrā un ekskluzīvajā ekonomiskajā zonā, izņemot ogļūdeņražu meklēšanu, izpēti un ieguvi, kā arī ģeoloģisko izpēti, kas saistīta ar būvju būvniecību, ierīkošanu un ekspluatāciju jūrā un kas notiek saskaņā ar jūras vides aizsardzības un pārvaldības normatīvajiem aktiem;
+117) par ūdens resursu lietošanas atļaujas izsniegšanu;
+118) par piesārņojošas darbības atļaujas izsniegšanu un tās pārskatīšanu;
+119) par komercķīlas nodibināšanas, pārjaunojuma un dzēšanas reģistrāciju, par tiesībām iepazīties ar komercķīlu reģistra ierakstiem, par rakstveida informācijas saņemšanu no komercķīlu reģistra, par komercķīlas ņēmēja maiņu reorganizācijas vai uzņēmuma pārejas gadījumā, kā arī par komercķīlas noteikumu grozīšanu un nodrošinātā prasījuma cesijas reģistrāciju.

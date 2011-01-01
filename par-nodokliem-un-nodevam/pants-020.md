@@ -5,10 +5,12 @@ Nodokļus administrē šādas institūcijas:
 3) nekustamā īpašuma nodokli - Valsts ieņēmumu dienests un pašvaldības atbilstoši likumam "Par nekustamā īpašuma nodokli";
 4) akcīzes nodokli - Valsts ieņēmumu dienests;
 5) pievienotās vērtības nodokli - Valsts ieņēmumu dienests;
-6) dabas resursu nodokli - Valsts ieņēmumu dienests, Vides ministrija un tās padotībā esošās iestādes atbilstoši Dabas resursu nodokļa likumam;
+6) dabas resursu nodokli - Valsts ieņēmumu dienests, Vides aizsardzības un reģionālās attīstības ministrija un tās padotībā esošās iestādes atbilstoši Dabas resursu nodokļa likumam;
 7) izložu un azartspēļu nodokli - Valsts ieņēmumu dienests;
 8) muitas nodokli un citus līdzvērtīgus maksājumus - Valsts ieņēmumu dienests;
 9) valsts sociālās apdrošināšanas obligātās iemaksas - Valsts ieņēmumu dienests;
 10) vieglo automobiļu un motociklu nodokli - Valsts ieņēmumu dienests un Ceļu satiksmes drošības direkcija atbilstoši likumam "Par vieglo automobiļu un motociklu nodokli" un saskaņā ar to izdotajiem Ministru kabineta noteikumiem;
 11) elektroenerģijas nodokli - Valsts ieņēmumu dienests;
-12) mikrouzņēmumu nodokli - Valsts ieņēmumu dienests.
+12) mikrouzņēmumu nodokli - Valsts ieņēmumu dienests;
+13) transportlīdzekļa ekspluatācijas nodokli - Valsts ieņēmumu dienests un Ceļu satiksmes drošības direkcija atbilstoši Transportlīdzekļa ekspluatācijas nodokļa un uzņēmumu vieglo transportlīdzekļu nodokļa likumam un saskaņā ar to izdotajiem Ministru kabineta noteikumiem;
+14) uzņēmumu vieglo transportlīdzekļu nodokli - Valsts ieņēmumu dienests un Ceļu satiksmes drošības direkcija atbilstoši Transportlīdzekļa ekspluatācijas nodokļa un uzņēmumu vieglo transportlīdzekļu nodokļa likumam un saskaņā ar to izdotajiem Ministru kabineta noteikumiem.

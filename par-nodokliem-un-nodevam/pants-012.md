@@ -13,6 +13,6 @@
 11) pašvaldības infrastruktūras uzturēšanu un attīstību.
 (2) (Izslēgta ar 11.12.2008. likumu.)
 (3) Pašvaldību nodevu veidā apmaksājama atlīdzība tikai par šā likuma 12.pantā paredzēto pašvaldību nodrošinājumu. Ja pašvaldības dome vai tās iestādes sniedz pakalpojumus, kas saskaņā ar šo likumu nav pašvaldības nodevas objekts, un ja par šiem pakalpojumiem ir ņemama samaksa, tad ir jākārto atsevišķa grāmatvedības uzskaite un jānodrošina nodokļu un citu obligāto maksājumu veikšana par tiem saskaņā ar šo likumu un konkrēto nodokļu likumiem.
-(4) Vietējo pašvaldību saistošie noteikumi par pašvaldību nodevām tiek nosūtīti Reģionālās attīstības un pašvaldību lietu ministrijai un publicēti likuma "Par pašvaldībām" 45.pantā noteiktajā kārtībā.
+(4) Vietējo pašvaldību saistošie noteikumi par pašvaldību nodevām tiek nosūtīti Vides aizsardzības un reģionālās attīstības ministrijai un publicēti likuma "Par pašvaldībām" 45.pantā noteiktajā kārtībā.
 (5) (Izslēgta ar 11.12.2008. likumu.)
 (6) Nelikumīgi saistošie noteikumi par pašvaldību nodevām tiek apturēti likuma "Par pašvaldībām" 49.pantā noteiktajā kārtībā.
