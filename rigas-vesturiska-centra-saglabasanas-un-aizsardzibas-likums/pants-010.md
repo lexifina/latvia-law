@@ -9,6 +9,6 @@
 7) kultūras ministra uzaicināts speciālists;
 8) Latvijas Nacionālās komisijas pārstāvis;
 9) Latvijas Arhitektu savienības pārstāvis;
-10) Reģionālās attīstības un pašvaldību lietu ministrijas pārstāvis.
+10) Vides aizsardzības un reģionālās attīstības ministrijas pārstāvis.
 (3) Padomes sastāvu apstiprina uz trim gadiem. Padomes priekšsēdētāju no sava vidus uz trim gadiem ievēlē Padomes locekļi.
 (4) Padomes tehnisko un organizatorisko darbību nodrošina Valsts kultūras pieminekļu aizsardzības inspekcija.
