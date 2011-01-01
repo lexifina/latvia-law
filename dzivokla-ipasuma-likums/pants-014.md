@@ -1,0 +1,5 @@
+14.pants. Dzīvokļa īpašnieka atbildība
+(1) Dzīvokļa īpašnieks par zaudējumu nodarīšanu citiem dzīvokļu īpašniekiem vai citām personām ir atbildīgs normatīvajos aktos, dzīvokļu īpašnieku kopības lēmumos vai savstarpēji noslēgtajos līgumos noteiktajā kārtībā.
+(2) Ja dzīvokļa īpašniekam zaudējumu segšanai nav citas mantas, Civilprocesa likumā noteiktajā kārtībā var vērst piedziņu uz dzīvokļa īpašumu, vienlaikus izliekot dzīvokļa īpašnieku, viņa ģimenes locekļus un citas dzīvokļa īpašumā iemitinātās personas.
+(3) Dzīvokļa īpašumu var atsavināt Civilprocesa likumā noteiktajā kārtībā, vienlaikus izliekot dzīvokļa īpašnieku, viņa ģimenes locekļus un citas dzīvokļa īpašumā iemitinātās personas, ja dzīvokļa īpašnieks, viņa ģimenes loceklis vai cita dzīvokļa īpašumā iemitinātā persona pārkāpj normatīvo aktu prasības, kas attiecas ar dzīvokļa īpašuma izmantošanu, tai skaitā sanitārās un ugunsdrošības normas, un tādējādi rada aizskārumu citu cilvēku drošībai un veselībai, apkārtējās vides kvalitātei.
+(4) Prasību par dzīvokļa īpašuma atsavināšanu šā panta trešajā daļā noteiktajos gadījumos var celt ikviens dzīvokļa īpašnieks.

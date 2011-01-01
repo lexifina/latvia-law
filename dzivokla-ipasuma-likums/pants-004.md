@@ -1,0 +1,6 @@
+4.pants. Kopīpašumā esošā daļa
+(1) Kopīpašumā esošajā daļā ietilpst:
+1) dzīvojamās mājas un tās ārtelpu (galeriju, balkonu, lodžiju, terašu) ārējās norobežojošās konstrukcijas (tai skaitā sienas, arhitektūras elementi, jumts, koplietošanas telpu logi un durvis, arī ārdurvis), iekšējās slodzi nesošās konstrukcijas (tai skaitā nesošās sienas un kolonnas, kā arī atsevišķos īpašumus norobežojošās sienas), starpstāvu pārsegumi (tai skaitā siltuma un skaņas izolācijas slāņi), koplietošanas telpas (tai skaitā bēniņi, kāpņu telpas, pagrabtelpas), kā arī dzīvojamo māju apkalpojošās inženierkomunikāciju sistēmas, iekārtas un citi ar dzīvojamās mājas ekspluatāciju saistīti funkcionāli nedalāmi elementi, kas nepieder pie atsevišķā īpašuma (tai skaitā atsevišķā īpašuma robežās esošie sildelementi, ja to funkcionālā darbība ir atkarīga no kopīpašumā esošajām inženierkomunikācijām);
+2) dzīvojamās mājas palīgēkas un būves, izņemot šā likuma 3.panta trešajā daļā minētās;
+3) zemesgabals, uz kura atrodas attiecīgā dzīvojamā māja, ja tas nepieder citai personai.
+(2) Uz kopīpašumā esošo daļu attiecināms Civillikuma 1067. -1072.pants. Civillikuma 1068.panta pirmās daļas noteikumi piemērojami tiktāl, ciktāl šā likuma 17.panta sestajā, septītajā, astotajā un devītajā daļā nav noteikts citādi.

@@ -1,0 +1,6 @@
+13.pants. Dzīvojamās mājas pārvaldīšanas izdevumu segšana
+(1) Dzīvokļa īpašnieks atbilstoši viņa dzīvokļa īpašumā ietilpstošās kopīpašuma domājamās daļas apmēram sedz uz dzīvokļu īpašnieku kopības lēmuma pamata noteiktos izdevumus obligāti veicamo dzīvojamās mājas pārvaldīšanas darbību veikšanai, kā arī dzīvokļu īpašnieku kopības noteikto atlīdzību pārvaldniekam par dzīvojamās mājas pārvaldīšanu, ja tāda paredzēta dzīvojamās mājas pārvaldīšanas līgumā.
+(2) Dzīvokļa īpašnieks atbilstoši viņa dzīvokļa īpašumā ietilpstošās kopīpašuma domājamās daļas apmēram sedz uz dzīvokļu īpašnieku kopības lēmuma pamata noteiktos izdevumus citu dzīvojamās mājas pārvaldīšanas darbību veikšanai, kas nodrošina dzīvojamās mājas uzlabošanu un attīstīšanu, veicina optimālu tās pārvaldīšanas izdevumu veidošanu un attiecas uz:
+1) kopīpašumā esošo dzīvojamās mājas elementu, iekārtu vai komunikāciju nomaiņu, kuras rezultātā samazinās mājas uzturēšanas izmaksas;
+2) pasākumiem, kuru rezultātā samazinās izdevumi par pakalpojumiem, kas saistīti ar dzīvokļa īpašuma lietošanu.
+(3) Pieņemot šā panta otrajā daļā minēto lēmumu, dzīvokļu īpašnieku kopība izvērtē dokumentus, kas pamato attiecīgo darbību izmaksu efektivitāti atbilstoši šā panta otrās daļas 1. un 2.punktā noteiktajam.
