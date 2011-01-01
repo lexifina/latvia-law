@@ -14,5 +14,5 @@ b) ikgadējās parāda saistības attiecībā uz pieciem turpmākajiem gadiem;
 8¹) no valsts budžeta daļēji finansētu atvasinātu publisku personu un budžeta nefinansētu iestāžu budžetu izpildes kopsavilkumu;
 8²) ilgtermiņa stabilizācijas rezerves bilanci un tās pielikumus;
 9) citus paskaidrojumus, kurus finanšu ministrs atzīst par nepieciešamiem.
-(3) Finanšu ministrija līdz pārskata gadam sekojošā saimnieciskā gada 1.novembrim iesniedz Ministru kabinetam Valsts ieņēmumu dienesta apkopoto informāciju par valsts un pašvaldību nodokļu un nodevu ieņēmumiem, nodokļu parādiem, kā arī nesaņemtajām nodokļu summām, kas izveidojušās nodokļu maksātājiem likumos noteikto nodokļu atvieglojumu piemērošanas rezultātā.
+(3) Valsts ieņēmumu dienests līdz pārskata gadam sekojošā saimnieciskā gada 1.novembrim sagatavo informāciju par valsts un pašvaldību nodokļu un nodevu ieņēmumiem, nodokļu parādiem, kā arī nesaņemtajām nodokļu summām, kas izveidojušās nodokļu maksātājiem likumos noteikto nodokļu atvieglojumu piemērošanas rezultātā, un iesniedz minēto informāciju Finanšu ministrijai publicēšanai savā mājaslapā internetā.
 (4) Finanšu ministrija sagatavo saimnieciskā gada pārskatu Ministru kabineta noteiktajā kārtībā un apjomā.

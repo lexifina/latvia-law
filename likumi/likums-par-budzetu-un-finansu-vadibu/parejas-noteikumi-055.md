@@ -1,0 +1,1 @@
+55. Grozījumi šā likuma I nodaļas terminā "Speciālais budžets", 8.panta pirmās daļas 3.punktā, 9. un 25.pantā par to papildināšanu ar norādi uz citu speciālo budžetu, kā arī 8.panta pirmās daļas 3.¹ punkts stājas spēkā 2012.gada 1.janvārī.
