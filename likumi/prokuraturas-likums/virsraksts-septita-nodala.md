@@ -1,2 +1,2 @@
 Septītā nodaļa
-Prokurora darba samaksa un garantijas
+Prokurora atlīdzība un garantijas

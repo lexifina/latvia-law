@@ -1,1 +1,0 @@
-14. Šā likuma 53.panta pirmajā daļā, 57.¹-57.⁸ un 58.pantā noteiktās piemaksas, prēmijas, pabalstus un citas sociālās garantijas 2010. un 2011.gadā nosaka atbilstoši Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likumam.
