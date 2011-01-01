@@ -66,5 +66,6 @@ a) vairāk nekā 40 000 mājputnu,
 b) vairāk nekā 2000 gaļas cūku, kuru svars pārsniedz 30 kilogramus,
 c) vairāk nekā 750 sivēnmāšu;
 7) iekārtas vielu, priekšmetu vai produktu virsmas apstrādei, izmantojot organiskos šķīdinātājus, arī apdares darbu, iespieddarbu, virsmas pārklājumu, attaukošanas, ūdensnecaurlaidību nodrošinošas apstrādes, kalibrēšanas, krāsošanas, tīrīšanas vai impregnēšanas veikšanai, kurās organisko šķīdinātāju patēriņa jauda pārsniedz 150 kilogramus stundā vai 200 tonnas gadā;
-8) iekārtas ogļu vai grafīta elektrodu ražošanai, izmantojot dedzināšanu augstās temperatūrās.
+8) iekārtas ogļu vai grafīta elektrodu ražošanai, izmantojot dedzināšanu augstās temperatūrās;
+9) oglekļa dioksīda (CO2) plūsmas uztveršana no darbībām (iekārtām), kas norādītas šajā pielikumā, saistībā ar ģeoloģisku oglekļa dioksīda glabāšanu, kā tas noteikts Eiropas Parlamenta un Padomes 2009.gada 23.aprīļa direktīvā 2009/31/EK par oglekļa dioksīda ģeoloģisko uzglabāšanu un grozījumiem Padomes direktīvā 85/337/EEK, Eiropas Parlamenta un Padomes direktīvās 2000/60/EK, 2001/80/EK, 2004/35/EK, 2006/12/EK, 2008/1/EK un regulā (EK) Nr. 1013/2006. (Dokuments attiecas uz EEZ.)
 * Jēdziens "ražošana" attiecībā uz šajā sadaļā minētajām darbībām nozīmē rūpnieciska apjoma ražošanu, kuras procesā tiek veikta šīs sadaļas 1., 2., 3., 5. un 6.punktā minēto vielu vai vielu grupu ķīmiska pārstrāde.

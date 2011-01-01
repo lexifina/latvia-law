@@ -1,6 +1,6 @@
 Likumā iekļautas tiesību normas, kas izriet no:
 1) Eiropas Parlamenta un Padomes 1991.gada 12.decembra direktīvas 91/676/EEK attiecībā uz ūdeņu aizsardzību pret piesārņojumu, ko rada lauksaimnieciskas izcelsmes nitrāti;
-2) Eiropas Parlamenta un Padomes 1996.gada 24.septembra direktīvas 96/61/EK par piesārņojuma integrētu novēršanu un kontroli;
+2) Eiropas Parlamenta un Padomes 2008.gada 15.janvāra direktīvas 2008/1/EK par piesārņojuma integrētu novēršanu un kontroli (kodificēta versija). (Dokuments attiecas uz EEZ.);
 3) Eiropas Parlamenta un Padomes 2002.gada 25.jūnija direktīvas 2002/49/EK par vides trokšņa novērtēšanu un pārvaldību;
 4) Eiropas Parlamenta un Padomes 2003.gada 26.maija direktīvas 2003/35/EK, ar ko paredz sabiedrības līdzdalību ar vidi saistītu plānu un programmu izstrādē un attiecībā uz sabiedrības līdzdalību un iespēju griezties tiesu iestādēs un groza Padomes direktīvas 85/337/EEK un 96/61/EK;
 5) Eiropas Parlamenta un Padomes 2003.gada 13.oktobra direktīvas 2003/87/EK, ar kuru nosaka sistēmu siltumnīcas efektu izraisošo gāzu emisijas kvotu tirdzniecībai Kopienā un groza Padomes direktīvu 96/61/EK;
@@ -11,4 +11,5 @@ Likumā iekļautas tiesību normas, kas izriet no:
 10) Eiropas Padomes 1996.gada 9.decembra direktīvas 96/82/EK par tādu smagu nelaimes gadījumu briesmu pārzināšanu, kuros iesaistītas bīstamas vielas;
 11) Eiropas Parlamenta un Padomes 2003.gada 16.decembra direktīvas 2003/105/EK, ar ko groza Padomes direktīvu 96/82/EK par tādu smagu nelaimes gadījumu briesmu pārzināšanu, kuros iesaistītas bīstamas vielas;
 12) Eiropas Parlamenta un Padomes 2008.gada 19.novembra direktīvas 2008/101/EK, ar ko groza Padomes direktīvu 2003/87/EK, lai aviācijas darbības iekļautu Kopienas siltumnīcas efektu izraisošo gāzu emisijas kvotu tirdzniecības sistēmā;
-13) Eiropas Parlamenta un Padomes 2009.gada 23.aprīļa direktīvas 2009/29/EK, ar ko direktīvu 2003/87/EK groza, lai uzlabotu un paplašinātu Kopienas siltumnīcas efektu izraisošo gāzu emisiju kvotu tirdzniecības sistēmu (dokuments attiecas uz EEZ).
+13) Eiropas Parlamenta un Padomes 2009.gada 23.aprīļa direktīvas 2009/29/EK, ar ko direktīvu 2003/87/EK groza, lai uzlabotu un paplašinātu Kopienas siltumnīcas efektu izraisošo gāzu emisiju kvotu tirdzniecības sistēmu (dokuments attiecas uz EEZ);
+14) Eiropas Parlamenta un Padomes 2009.gada 23.aprīļa direktīvas 2009/31/EK par oglekļa dioksīda ģeoloģisko uzglabāšanu un grozījumiem Padomes direktīvā 85/337/EEK, Eiropas Parlamenta un Padomes direktīvās 2000/60/EK, 2001/80/EK, 2004/35/EK, 2006/12/EK, 2008/1/EK un regulā (EK) Nr. 1013/2006. (Dokuments attiecas uz EEZ.)
