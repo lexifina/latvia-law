@@ -1,0 +1,3 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē:
+1) likums "Par nekustamā īpašuma piespiedu atsavināšanu valsts vai sabiedriskajām vajadzībām" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 39./40./41.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2005, 14.nr.);
+2) Latvijas Republikas Augstākās padomes 1992.gada 15.septembra lēmums "Par Latvijas Republikas likuma "Par nekustamā īpašuma piespiedu atsavināšanu valsts vai sabiedriskajām vajadzībām" spēkā stāšanās kārtību" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 39./40./41.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1997, 3.nr.).

@@ -1,0 +1,1 @@
+3. Tiesiskās attiecības, kas izriet no nekustamā īpašuma piespiedu atsavināšanas procedūrām, kuras uzsāktas līdz šā likuma spēkā stāšanās dienai, apspriežamas saskaņā ar likumu "Par nekustamā īpašuma piespiedu atsavināšanu valsts vai sabiedriskajām vajadzībām".

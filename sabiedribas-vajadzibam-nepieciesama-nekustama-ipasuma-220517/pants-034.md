@@ -1,0 +1,3 @@
+34.pants. (1) Ja institūcija gada laikā no dienas, kad valsts vai pašvaldības īpašuma tiesības uz atsavināto nekustamo īpašumu nostiprinātas zemesgrāmatā, atzīst minēto nekustamo īpašumu vai tā daļu par nevajadzīgu, bijušais īpašnieks, atmaksājot saņemto atlīdzību, var atsavināto nekustamo īpašumu atgūt atpakaļ.
+(2) Ja atsavinātajam nekustamajam īpašumam ir veikti uzlabojumi, nekustamā īpašuma bijušais īpašnieks var izmantot šā panta pirmajā daļā minētās tiesības, atlīdzinot institūcijai izdevumus par uzlabojumiem, ar kuriem nekustamais īpašums tiek nodots atpakaļ.
+(3) Pēc šā panta pirmajā daļā minētā termiņa notecējuma bijušajam īpašniekam ir pirmpirkuma tiesības uz atsavināto nekustamo īpašumu.

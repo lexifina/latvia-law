@@ -1,0 +1,4 @@
+25.pants. (1) Nekustamā īpašuma īpašniekam nodarītos zaudējumus nosaka saskaņā ar Civillikumu.
+(2) Par zaudējumiem jebkurā gadījumā tiek uzskatīti:
+1) izdevumi, kas nekustamā īpašuma īpašniekam radušies šā īpašuma atsavināšanas rezultātā (pārcelšanās izdevumi, ar cita nekustamā īpašuma iegādi, nostiprināšanu zemesgrāmatā un atsavinātā nekustamā īpašuma apgrūtinājumu un nastu pārreģistrēšanu saistītie notariālie izdevumi, valsts nodevas, kancelejas nodevas un citi izdevumi), to faktiskajā apmērā, bet nepārsniedzot apvidus vidējās cenas;
+2) atlikušās nekustamā īpašuma daļas vērtības samazinājums un atlīdzība par izmaiņām tās lietošanā (piekļuves zaudēšana vai izdevumi, kas saistīti ar jaunas piekļuves izveidošanu, izmaiņas attiecībā uz apgrūtinājumiem un nastām, ierobežojumi attiecībā uz vietējās pašvaldības teritorijas plānojumā noteikto izmantošanu un citas izmaiņas), ja tiek atsavināta nekustamā īpašuma daļa.

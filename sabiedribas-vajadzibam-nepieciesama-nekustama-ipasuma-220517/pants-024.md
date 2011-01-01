@@ -1,0 +1,2 @@
+24.pants. (1) Gadījumos, kad to pieprasa nekustamā īpašuma īpašnieks, institūcija ir tiesīga par saviem līdzekļiem būvēt inženierbūves un inženierkomunikācijas vai arī izmaksāt kompensāciju, kas nepieciešama to zaudējumu un neērtību novēršanai, kuras bijušajam īpašniekam vai citām personām var rasties saistībā ar nekustamā īpašuma atsavināšanu.
+(2) Zaudējumus, kurus institūcija paredzējusi novērst un novērš saskaņā ar šā panta pirmo daļu, atlīdzības apmērā neiekļauj.

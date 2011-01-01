@@ -1,0 +1,1 @@
+2. Šo likumu nepiemēro nekustamā īpašuma atsavināšanas procedūrām, kurās līdz šā likuma spēkā stāšanās dienai panākta vienošanās par līguma par labprātīgu nekustamā īpašuma atsavināšanu sabiedrības vajadzībām būtiskajām sastāvdaļām.

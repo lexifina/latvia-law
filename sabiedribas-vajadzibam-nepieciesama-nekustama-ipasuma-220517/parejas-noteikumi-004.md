@@ -1,0 +1,1 @@
+4. Ja līdz šā likuma spēkā stāšanās dienai ir pieņemts un stājies spēkā likums par konkrētā nekustamā īpašuma piespiedu atsavināšanu, attiecīgo nekustamo īpašumu piespiedu kārtā atsavina un strīdus, kas izriet no šā īpašuma atsavināšanas, risina saskaņā ar likumu "Par nekustamā īpašuma piespiedu atsavināšanu valsts vai sabiedriskajām vajadzībām".

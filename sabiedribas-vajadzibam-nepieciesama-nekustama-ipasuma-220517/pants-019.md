@@ -1,0 +1,1 @@
+19.pants. Ja nekustamā īpašuma īpašnieks šā likuma 18.panta otrajā daļā minēto informāciju norādītajā termiņā nesniedz vai paziņo, ka atlīdzības noteikšanā nepiedalīsies, nekustamo īpašumu novērtē, ņemot vērā to informāciju, kuru institūcija var iegūt bez nekustamā īpašuma īpašnieka piedalīšanās un kura raksturo šo īpašumu tā apsekošanas dienā.

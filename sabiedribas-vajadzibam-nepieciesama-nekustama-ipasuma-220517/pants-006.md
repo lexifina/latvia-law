@@ -1,0 +1,2 @@
+6.pants. (1) Ja sabiedrības vajadzībām nepieciešama tikai nekustamā īpašuma daļa un atlikusī tā daļa nepietiekamās platības, apgrūtinājumu, konfigurācijas vai citu apstākļu dēļ nav izmantojama atbilstoši vietējās pašvaldības teritorijas plānojumam, institūcija ierosina visa nekustamā īpašuma atsavināšanu un atsavina visu nekustamo īpašumu, ja ar nekustamā īpašuma īpašnieku nevienojas citādi.
+(2) Strīdu par visa nekustamā īpašuma atsavināšanas nepieciešamību izskata tiesa Civilprocesa likumā noteiktajā kārtībā.

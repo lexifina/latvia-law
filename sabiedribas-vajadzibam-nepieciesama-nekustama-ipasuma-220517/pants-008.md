@@ -1,0 +1,4 @@
+8.pants. (1) Pēc tam, kad Ministru kabinets vai pašvaldība pieņēmusi konceptuālu lēmumu par sabiedrības vajadzību nodrošināšanai nepieciešama projekta īstenošanu, institūcija uzsāk attiecīgā projekta īstenošanai nepieciešamo nekustamo īpašumu apzināšanu un nosaka atlīdzību par atsavināmajiem nekustamajiem īpašumiem. Ja sabiedrības vajadzībām paredzēts atsavināt tikai nekustamā īpašuma daļu, institūcija papildus sagatavo grafisko materiālu, kurā iezīmētas attiecīgā nekustamā īpašuma atsavināmās daļas robežas.
+(2) Pēc šā panta pirmajā daļā minētā lēmuma pieņemšanas institūcijai ir tiesības bez nekustamā īpašuma īpašnieka piekrišanas:
+1) saņemt to dokumentu kopijas, kuri attiecas uz nekustamā īpašuma sastāvu un izmantošanu;
+2) veikt projektēšanas sagatavošanas un projektēšanas darbus. Par būvju projektēšanas uzsākšanu institūcija informē nekustamā īpašuma īpašnieku, nosūtot paziņojumu.

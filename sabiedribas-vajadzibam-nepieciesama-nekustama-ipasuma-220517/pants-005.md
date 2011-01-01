@@ -1,0 +1,1 @@
+5.pants. Nekustamā īpašuma piespiedu atsavināšana sabiedrības vajadzībām pieļaujama izņēmuma gadījumos vienīgi pret taisnīgu atlīdzību un tikai uz atsevišķa likuma pamata, ievērojot šajā likumā paredzētos nosacījumus.

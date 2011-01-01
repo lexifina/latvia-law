@@ -1,0 +1,11 @@
+18.pants. (1) Lai informētu nekustamā īpašuma īpašnieku par nekustamā īpašuma vai tā daļas atsavināšanas nepieciešamību sabiedrības vajadzību nodrošināšanai un noteiktu atlīdzību, institūcija nosūta paziņojumu par šā īpašuma vai tā daļas atsavināšanas nepieciešamību (turpmāk - paziņojums) nekustamā īpašuma īpašniekam vai, ja viņa dzīvesvieta nav zināma, publicē laikrakstā "Latvijas Vēstnesis" un, ja tiek atsavināta dzīvojamā māja, izvieto pie atsavināmās dzīvojamās mājas.
+(2) Paziņojumā ietver:
+1) informāciju par tām sabiedrības vajadzībām, kuru nodrošināšanai nekustamais īpašums nepieciešams;
+2) informāciju par dokumentiem, kas apliecina, ka attiecīgais nekustamais īpašums nepieciešams sabiedrības vajadzību nodrošināšanai paredzēta projekta īstenošanai;
+3) informāciju par nepieciešamo nekustamā īpašuma daļas apmēru;
+4) uzaicinājumu nekustamā īpašuma īpašniekam piedalīties atlīdzības noteikšanā;
+5) uzaicinājumu nekustamā īpašuma īpašniekam sniegt informāciju par noslēgtajiem īres līgumiem un citiem apgrūtinājumiem;
+6) citu informāciju, kuru institūcija uzskata par nepieciešamu norādīt.
+(3) Ja sabiedrības vajadzībām nepieciešams atsavināt nekustamā īpašuma daļu, paziņojumā papildus ietver šā likuma 6.panta pirmajā daļā minēto apstākļu izvērtējumu, pievieno grafisko materiālu, kurā iezīmētas attiecīgā nekustamā īpašuma atsavināmās daļas robežas, un uzaicinājumu nekustamā īpašuma īpašniekam sniegt informāciju par to, vai viņš piekrīt nekustamā īpašuma daļas atsavināšanai.
+(4) Paziņojumā institūcija norāda termiņu, kādā nekustamā īpašuma īpašnieks sniedz šā panta otrās daļas 4. un 5.punktā un trešajā daļā minēto informāciju. Informācijas sniegšanas termiņš nedrīkst būt īsāks par 30 dienām, skaitot no dienas, kad paziņojums saņemts vai publicēts laikrakstā "Latvijas Vēstnesis".
+(5) Ja saskaņā ar šā likuma 9.panta otro daļu veicama atkārtota atlīdzības noteikšana, institūcijai ir tiesības paziņojumā ietvert tikai atkārtotas atlīdzības noteikšanas tiesisko pamatojumu un uzaicinājumu nekustamā īpašuma īpašniekam piedalīties atlīdzības noteikšanā, kā arī 30 dienu laikā no dienas, kad paziņojums saņemts vai publicēts laikrakstā "Latvijas Vēstnesis", sniegt informāciju par noslēgtajiem īres līgumiem un citiem apgrūtinājumiem.

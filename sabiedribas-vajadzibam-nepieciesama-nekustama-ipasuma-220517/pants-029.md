@@ -1,0 +1,7 @@
+29.pants. (1) Institūcija nekavējoties, bet ne vēlāk kā 10 dienu laikā pēc tam, kad stājies spēkā likums par konkrētā nekustamā īpašuma atsavināšanu, nosūta nekustamā īpašuma īpašniekam piedāvājumu sešu mēnešu laikā no minētā likuma spēkā stāšanās dienas noslēgt līgumu par institūcijas noteiktās atlīdzības pieņemšanu un atlīdzības kompensācijas veidu.
+(2) Institūcija izmaksā atlīdzību atbilstoši kārtībai, kāda paredzēta līgumā par institūcijas noteiktās atlīdzības pieņemšanu un atlīdzības kompensācijas veidu, bet ne agrāk kā 10 dienu laikā no dienas, kad:
+1) beidzies termiņš konstitucionālās sūdzības iesniegšanai par likumu par attiecīgā nekustamā īpašuma atsavināšanu, ja konstitucionālā sūdzība nav iesniegta;
+2) beidzies termiņš konstitucionālās sūdzības iesniegšanai par likumu par attiecīgā nekustamā īpašuma atsavināšanu, ja konstitucionālā sūdzība ir iesniegta, bet Satversmes tiesa šajā termiņā ir atteikusi ierosināt lietu vai pieņēmusi lēmumu par tiesvedības izbeigšanu;
+3) Satversmes tiesa pieņēmusi lēmumu par atteikšanos ierosināt lietu, ja šāds lēmums tiek pieņemts pēc konstitucionālās sūdzības iesniegšanas termiņa beigām;
+4) Satversmes tiesa pieņēmusi lēmumu par tiesvedības izbeigšanu, ja šāds lēmums tiek pieņemts pēc konstitucionālās sūdzības iesniegšanas termiņa beigām;
+5) stājies spēkā Satversmes tiesas spriedums, ar kuru ir atzīta likuma par attiecīgā nekustamā īpašuma atsavināšanu atbilstība augstāka juridiskā spēka normām.

@@ -1,0 +1,1 @@
+3.pants. Nekustamā īpašuma atsavināšanu sabiedrības vajadzībām ierosina un veic valsts pārvaldes iestāde vai pašvaldība, kuras kompetencē ir attiecīgo sabiedrības vajadzību nodrošināšana (turpmāk - institūcija).
