@@ -1,0 +1,2 @@
+6.¹ nodaļa
+TIESU SISTĒMAS NODROŠINĀJUMS

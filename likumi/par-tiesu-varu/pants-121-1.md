@@ -1,2 +1,0 @@
-121.¹ pants. Atlīdzība par operatīvās darbības pasākumu akceptēšanu
-Par Operatīvās darbības likuma 7.panta ceturtajā daļā paredzēto sevišķā veidā veicamo operatīvās darbības pasākumu un Kredītiestāžu likuma 63.panta pirmās daļas 6. un 7.punktā paredzēto kredītiestāžu rīcībā esošo neizpaužamo ziņu pieprasījumu akceptēšanu Augstākās tiesas priekšsēdētājs vai viņa īpaši pilnvaroti Augstākās tiesas tiesneši saņem atlīdzību triju procentu apmērā no šā likuma 119.¹ panta pirmajā daļā noteiktās tiesneša mēnešalgas par vienu dežūras dienu.

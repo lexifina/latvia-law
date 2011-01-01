@@ -11,4 +11,4 @@
 (5) Par apgabaltiesas tiesnesi var strādāt tiesnesis ar ceturto, trešo, otro vai pirmo kvalifikācijas klasi.
 (6) Par Augstākās tiesas tiesnesi var strādāt tiesnesis ar trešo, otro vai pirmo kvalifikācijas klasi.
 (7) Zemesgrāmatu nodaļas tiesnesim var piešķirt piekto, ceturto un trešo kvalifikācijas klasi.
-(8) Ja tiesnesis pāriet no augstākas tiesas uz zemāka līmeņa tiesu, viņam piešķirtā kvalifikācijas klase un mēneša amatalga tiek saglabāta.
+(8) (Izslēgta ar 16.12.2010. likumu)
