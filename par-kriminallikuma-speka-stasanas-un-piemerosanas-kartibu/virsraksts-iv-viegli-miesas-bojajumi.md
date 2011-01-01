@@ -1,1 +1,0 @@
-IV. Viegli miesas bojājumi

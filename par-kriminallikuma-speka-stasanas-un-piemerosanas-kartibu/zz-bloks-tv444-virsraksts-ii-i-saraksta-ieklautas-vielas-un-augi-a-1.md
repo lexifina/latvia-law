@@ -334,6 +334,21 @@ mefenorekss
 15)1-(3-trifluormetilfenil) piperazīns (TFMPP)0,02 g1 g
 16)2,4,5-trimetoksiamfetamīns (TMA-2)0,03 g1 g
 17)7-hidroksimitragīns0,03 g15 g
+18)augu maisījums, kas satur minētās vielas jebkurā daudzumā:
+CP 47,497 (5-(1,1-dimetilheptil)-2-[(1R,3S)-3-hidroksicikloheksil]-fenols) un tā homologi C6, C8, C9;
+HU-210 (1,1-dimetilheptil-11-hidroksitetra hidrokanabinols);
+JWH-018 (naftalēn-1-il-(pentilindol-3-il)metanons);
+JWH-073 (1-butil-3-(1-naftil)indols);
+JWH-250 (2-(2-metoksifenil)-1-(1-pentilindol-3-il)etanons);
+JWH-398 (1-pentil-3-(4-hloro-1-naftil)indols);
+a)izžāvēts1g100g
+b)nežāvēts5g1kg
+19)leonotis leonurus:
+a)izžāvēts1g100g
+b)nežāvēts5g1kg
+20)nymphaea caerulea:
+a)izžāvēts1g100g
+b)nežāvēts5g1kg
 9. Jebkura zāļu forma, kas satur šā pielikuma 4., 5., 6., 7., 8. un 8.¹ punktā minētās vielas jebkurā daudzumā:
 1)
 ampulas
