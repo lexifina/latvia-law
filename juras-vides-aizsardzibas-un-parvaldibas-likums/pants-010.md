@@ -1,5 +1,5 @@
 10.pants. Jūras vides mērķi
-(1) Latvijas Hidroekoloģijas institūts, pamatojoties uz jūras novērtējumu, izstrādā un, ievērojot šā likuma 4.panta noteikumus, Baltijas jūras reģionā saskaņo, bet vides ministrs apstiprina jūras vides mērķus, kas ir jūras ekosistēmas komponentu, kā arī slodžu un ietekmju uz jūru vēlamā stāvokļa kvalitatīvs vai kvantitatīvs raksturojums, un ar šiem mērķiem saistītu rādītāju kopumu. Nosakot jūras vides mērķus un ar tiem saistītos rādītājus, ņem vērā:
+(1) Latvijas Hidroekoloģijas institūts, pamatojoties uz jūras novērtējumu, izstrādā un, ievērojot šā likuma 4.panta noteikumus, Baltijas jūras reģionā saskaņo, bet vides aizsardzības un reģionālās attīstības ministrs apstiprina jūras vides mērķus, kas ir jūras ekosistēmas komponentu, kā arī slodžu un ietekmju uz jūru vēlamā stāvokļa kvalitatīvs vai kvantitatīvs raksturojums, un ar šiem mērķiem saistītu rādītāju kopumu. Nosakot jūras vides mērķus un ar tiem saistītos rādītājus, ņem vērā:
 1) Baltijas jūras reģiona ūdeņiem saskaņā ar Eiropas Savienības normatīvajiem aktiem un Latvijai saistošiem starptautiskajiem nolīgumiem, tai skaitā Helsinku konvenciju, noteiktos vides mērķus;
 2) pārrobežu ietekmi un pārrobežu iezīmes;
 3) piekrastes un pārejas ūdeņiem atbilstoši Ūdens apsaimniekošanas likumam noteiktos vides kvalitātes mērķus.

@@ -4,5 +4,5 @@
 1) Ūdens apsaimniekošanas likuma un citu normatīvo aktu prasības attiecībā uz piekrastes, pārejas un teritoriālās jūras ūdeņiem;
 2) jaunākās zinātniskās atziņas un novērtēšanas metodes, novērtējumus un pētījumus, kas ietverti upju baseinu apgabalu apsaimniekošanas plānos, kuri izstrādāti saskaņā ar Ūdens apsaimniekošanas likumu, Eiropas Savienības tiesību aktiem vides, zivsaimniecības, jūrlietu un citās ar jūras vides aizsardzību un jūras izmantošanu saistītajās jomās, kā arī ar starptautiskajiem nolīgumiem, tai skaitā Baltijas jūras vides aizsardzības komisijas (HELCOMM) ietvaros kopīgi Baltijas jūras reģionam izstrādātos novērtējumus.
 (3) Jūras novērtējumā ietveramās informācijas saturu un veidu nosaka Ministru kabinets.
-(4) Jūras novērtējumu apstiprina vides ministrs.
+(4) Jūras novērtējumu apstiprina vides aizsardzības un reģionālās attīstības ministrs.
 (5) Jūras novērtējumu pārskata un, ja nepieciešams, atjauno ne retāk kā reizi sešos gados.

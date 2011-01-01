@@ -9,4 +9,4 @@
 3) nosaka jūras vides mērķus un ar tiem saistītos rādītājus;
 4) izstrādā jūras vides monitoringa programmu;
 5) izstrādā Pasākumu programmu laba jūras vides stāvokļa panākšanai.
-(3) Jūras stratēģijas izstrādāšanas un īstenošanas koordinēšanai izveido Jūras vides padomi (turpmāk - Padome). Padomes sastāvā iekļauj valsts pārvaldes institūciju, pašvaldību, kā arī biedrību un nodibinājumu pārstāvjus. Padomes sastāvu un nolikumu apstiprina Ministru kabinets, bet personālsastāvu - vides ministrs.
+(3) Jūras stratēģijas izstrādāšanas un īstenošanas koordinēšanai izveido Jūras vides padomi (turpmāk - Padome). Padomes sastāvā iekļauj valsts pārvaldes institūciju, pašvaldību, kā arī biedrību un nodibinājumu pārstāvjus. Padomes sastāvu un nolikumu apstiprina Ministru kabinets, bet personālsastāvu - vides aizsardzības un reģionālās attīstības ministrs.

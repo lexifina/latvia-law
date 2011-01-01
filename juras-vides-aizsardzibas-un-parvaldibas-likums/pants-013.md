@@ -21,5 +21,5 @@ c) pasākumus, kas nodrošina koordinētu un saskaņotu jūras izmantošanu;
 4) riska mazināšanas un jūras ekosistēmas atveseļošanas pasākumus;
 5) sabiedrības līdzdalības un informēšanas pasākumus.
 (3) Izstrādājot Pasākumu programmu, ņem vērā Baltijas jūras vides aizsardzības komisijas (HELCOM) Baltijas jūras rīcības plānu, kā arī citus Baltijas jūras reģiona valstu kopīgi izstrādātos rīcības plānus un pasākumu programmas.
-(4) Vides ministrija izvērtē Pasākumu programmā paredzēto pasākumu efektivitāti, arī veicot izmaksu un ieguvumu analīzi, lai nodrošinātu to, ka plānotie pasākumi ir ekonomiski pamatoti un tehniski iespējami.
-(5) Lai novērtētu iespējamā pārrobežu piesārņojuma un apdraudējuma risku un nodrošinātu Pasākumu programmas labvēlīgu ietekmi uz Baltijas jūras reģiona ūdeņiem, Vides ministrija veic to pasākumu pārrobežu ietekmes novērtējumu, kurus paredzēts ietvert Pasākumu programmā.
+(4) Vides aizsardzības un reģionālās attīstības ministrija izvērtē Pasākumu programmā paredzēto pasākumu efektivitāti, arī veicot izmaksu un ieguvumu analīzi, lai nodrošinātu to, ka plānotie pasākumi ir ekonomiski pamatoti un tehniski iespējami.
+(5) Lai novērtētu iespējamā pārrobežu piesārņojuma un apdraudējuma risku un nodrošinātu Pasākumu programmas labvēlīgu ietekmi uz Baltijas jūras reģiona ūdeņiem, Vides aizsardzības un reģionālās attīstības ministrija veic to pasākumu pārrobežu ietekmes novērtējumu, kurus paredzēts ietvert Pasākumu programmā.
