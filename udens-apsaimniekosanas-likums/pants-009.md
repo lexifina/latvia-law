@@ -1,5 +1,5 @@
 9.pants. Upju baseinu apgabala pārvaldes institūcijas
-(1) Katra upju baseinu apgabala apsaimniekošanas pasākumu koordinācijai izveido konsultatīvo padomi (turpmāk - padome), kurā iekļauj valsts pārvaldes institūciju, pašvaldību un nevalstisko organizāciju pārstāvjus. Padomes nolikumu apstiprina Ministru kabinets, bet personālsastāvu - vides ministrs.
+(1) Katra upju baseinu apgabala apsaimniekošanas pasākumu koordinācijai izveido konsultatīvo padomi (turpmāk - padome), kurā iekļauj valsts pārvaldes institūciju, pašvaldību un nevalstisko organizāciju pārstāvjus. Padomes nolikumu apstiprina Ministru kabinets, bet personālsastāvu - vides aizsardzības un reģionālās attīstības ministrs.
 (2) Padome:
 1) saskaņo ministriju un citu valsts pārvaldes institūciju, kā arī to reģionālo struktūrvienību, pašvaldību, nevalstisko organizāciju un citu interešu grupu intereses jautājumos, kas saistīti ar vides kvalitātes un ūdens lietošanas mērķu sasniegšanu attiecīgajā upju baseinu apgabalā;
 2) izskata un sniedz atzinumu par apsaimniekošanas plānu un pasākumu programmu, kā arī par sagatavotajiem priekšlikumiem attiecībā uz to īstenošanai nepieciešamajiem finanšu līdzekļiem.
