@@ -1,5 +1,5 @@
 3.pants. Izdienas stāža aprēķināšana
-Izdienas stāžā, kas dod tiesības uz izdienas pensiju, ieskaita:
+(1) Izdienas stāžā, kas dod tiesības uz izdienas pensiju, ieskaita:
 1) izdienu - laiku, ko darbinieks nodienējis Iekšlietu ministrijas sistēmas iestādēs;
 2) obligātā aktīvā militārā dienesta (Latvijas Republikas un citu valstu bruņotajos spēkos) laiku un laiku, kas aizvadīts alternatīvajā dienestā, ar kuru aizstāts aktīvais militārais dienests;
 3) ierindas dienesta laiku Zemessardzē un aktīvā militārā dienesta laiku Aizsardzības ministrijas pakļautībā un pārziņā esošajās (bijušajās) militārajās struktūrvienībās un Valsts prezidenta un Saeimas drošības dienestā (Latvijas Republikas Augstākās padomes apsardzes dienestā, Latvijas Republikas Drošības dienestā);
@@ -12,3 +12,4 @@ Izdienas stāžā, kas dod tiesības uz izdienas pensiju, ieskaita:
 10) 80 procentus no citās iestādēs, pie komersantiem un organizācijās nostrādātā laika darbiniekiem, kuri dienestu Iekšlietu ministrijas sistēmas iestādēs uzsākuši pēc 1990.gada 4.maija, - ja Iekšlietu ministrijas sistēmas iestādēs nodienēti vismaz 10 gadi;
 11) laiku Valsts ugunsdzēsības un glābšanas dienesta profesionālā ugunsdzēsības dienesta ierindas un komandējošā sastāva amatos bez speciālajām dienesta pakāpēm, ja pēc šā dienesta struktūrvienību reorganizācijas un izveidošanas attiecīgajām personām piešķirtas speciālās dienesta pakāpes;
 12) laiku, ko Ieslodzījuma vietu pārvaldes darbinieks ar speciālo dienesta pakāpi nodienējis pēc 2000.gada 1.janvāra.
+(2) Šā panta pirmās daļas 7. un 10.punktā minēto citās iestādēs, pie komersantiem un organizācijās nostrādātā laika pierādīšanas, aprēķināšanas un uzskaites kārtību nosaka Ministru kabinets.

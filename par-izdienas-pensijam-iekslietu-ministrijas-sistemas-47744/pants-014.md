@@ -1,1 +1,1 @@
-14.pants. Personām, kuras izbrauc uz pastāvīgu dzīvi ārvalstīs, saskaņā ar šo likumu piešķirto izdienas pensiju izmaksā Ministru kabineta noteiktajā kārtībā, ja starptautiskajos līgumos, ko apstiprinājusi Saeima, nav noteikts citādi.
+14.pants. Personām, kuras izbrauc uz pastāvīgu dzīvi ārvalstīs, piešķirto izdienas pensiju izmaksā kārtībā, kāda saskaņā ar likumu "Par valsts pensijām" noteikta valsts pensiju izmaksai.
