@@ -9,11 +9,11 @@
 7) izglītības un zinātnes ministrs;
 8) kultūras ministrs;
 9) labklājības ministrs;
-10) reģionālās attīstības un pašvaldību lietu ministrs;
+10) (izslēgts ar 16.12.2010. likumu);
 11) satiksmes ministrs;
 12) tieslietu ministrs;
 13) veselības ministrs;
-14) vides ministrs;
+14) vides aizsardzības un reģionālās attīstības ministrs;
 15) zemkopības ministrs.
 (2) Ministru kabineta sastāvā var būt viens vai vairāki ministri, kuriem var nebūt pakļautas ministrijas:
 1) Ministru prezidenta biedrs;
