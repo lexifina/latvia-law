@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par patērētāja kreditēšanu",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2 (4400)",
+  "official_journal_page": null,
+  "official_journal_date": "2011-01-05",
+  "entry_into_force": "2011-01-01",
+  "notification_date": "2011-01-05",
+  "commission_reference": "MNE(2011)50050",
+  "nim_celex": "72008L0048LVA_175625",
+  "nim_id": "175625",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/1342d9d6-b8a7-4208-a789-133031040b28",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
