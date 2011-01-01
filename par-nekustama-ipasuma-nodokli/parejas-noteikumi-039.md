@@ -1,0 +1,1 @@
+39. Ar šā likuma 7.panta pirmās daļas 1.punktā, trešās daļas 2.punktā un 9.panta ceturtajā daļā lietoto terminu "maksātnespējas process" saprot arī bankrota procedūru, kas uzsākta atbilstoši tiem normatīvajiem aktiem, kuri bija spēkā līdz 2010.gada 31.oktobrim.

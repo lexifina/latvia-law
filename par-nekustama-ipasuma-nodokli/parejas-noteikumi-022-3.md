@@ -1,0 +1,1 @@
+22.³ Šo pārejas noteikumu 22.punktu neattiecina uz likuma 3.panta pirmās daļas 2.punktā noteikto nekustamā īpašuma nodokļa objektu, kā arī uz gadījumiem, kad telpu grupas lietošanas veids tiek mainīts no dzīvojamās uz nedzīvojamo vai šā likuma 3.panta pirmās daļas 2.punktā noteiktajā nekustamā īpašuma nodokļa objektā tiek uzsākta saimnieciskā darbība.

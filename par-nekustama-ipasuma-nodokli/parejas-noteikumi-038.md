@@ -1,0 +1,1 @@
+38. Šā likuma 1.panta 9.punkta izslēgšana, grozījumi 1.panta trešajā daļā un 3.panta pirmās daļas 1.punkta "b" apakšpunktā, 3.panta 1.² daļas jaunā redakcija, kā arī grozījumi 3.panta devītajā daļā un 5.panta 1.¹ un otrajā daļā stājas spēkā 2012.gada 1.janvārī.
