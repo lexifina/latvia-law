@@ -1,0 +1,1 @@
+53. Personai, kas saņēmusi speciālo atļauju (licenci) tabakas izstrādājumu vairumtirdzniecībai vai speciālo atļauju (licenci) tabakas izstrādājumu mazumtirdzniecībai, līdz 2012.gada 1.jūlijam ir atļauts realizēt tabakas izstrādājumus, kuri laisti brīvā apgrozībā vai nodoti patēriņam līdz 2011.gada 31.decembrim, neattiecinot uz tiem šā likuma 4.panta 2.¹ daļu.
