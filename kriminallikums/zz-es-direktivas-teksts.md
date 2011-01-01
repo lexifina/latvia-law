@@ -1,1 +1,14 @@
-Likumā iekļautas tiesību normas, kas izriet no Padomes 2000.gada 29.jūnija direktīvas 2000/43/EK, ar ko ievieš vienādas attieksmes principu pret personām neatkarīgi no rasu vai etniskās piederības.
+Likumā iekļautas tiesību normas, kas izriet no:
+1) Padomes 1979.gada 2.aprīļa direktīvas 79/409/EEK par savvaļas putnu aizsardzību;
+2) Padomes 1991.gada 10.jūnija direktīvas 91/308/EEK par to, kā novērst finanšu sistēmas izmantošanu nelikumīgi iegūtas naudas legalizēšanai (naudas atmazgāšanai);
+3) Padomes 1991.gada 18.jūnija direktīvas 91/477/EEK par ieroču iegādes un glabāšanas kontroli;
+4) Padomes 1992.gada 21.maija direktīvas 92/43/EEK par dabisko dzīvotņu, savvaļas faunas un floras aizsardzību;
+5) Padomes 1993.gada 5.aprīļa direktīvas 93/15/EEK par noteikumu saskaņošanu attiecībā uz civilām vajadzībām paredzēto sprāgstvielu laišanu tirgū un pārraudzību;
+6) Eiropas Parlamenta un Padomes 1995.gada 24.oktobra direktīvas 95/46/EK par personu aizsardzību attiecībā uz personas datu apstrādi un šādu datu brīvu apriti;
+7) Padomes 2000.gada 29.jūnija direktīvas 2000/43/EK, ar ko ievieš vienādas attieksmes principu pret personām neatkarīgi no rasu vai etniskās piederības;
+8) Eiropas Parlamenta un Padomes 2000.gada 27.novembra direktīvas 2000/59/EK par ostas iekārtām, kas paredzētas kuģu atkritumu un kravu atlieku uzņemšanai;
+9) Eiropas Parlamenta un Padomes 2001.gada 4.decembra direktīvas 2001/97/EK, ar ko groza Padomes direktīvu 91/308/EEK par to, kā novērst finanšu sistēmas izmantošanu nelikumīgi iegūtas naudas legalizēšanai (naudas atmazgāšanai);
+10) Eiropas Parlamenta un Padomes 2005.gada 7.septembra direktīvas 2005/35/EK par kuģu radīto piesārņojumu un par sankciju ieviešanu par pārkāpumiem;
+11) Eiropas Parlamenta un Padomes 2006.gada 15.marta direktīvas 2006/24/EK par tādu datu saglabāšanu, kurus iegūst vai apstrādā saistībā ar publiski pieejamu elektronisko komunikāciju pakalpojumu sniegšanu vai publiski pieejamu komunikāciju tīklu nodrošināšanu, un par grozījumiem direktīvā 2002/58/EK;
+12) Eiropas Parlamenta un Padomes 2008.gada 19.novembra direktīvas 2008/99/EK par vides krimināltiesisko aizsardzību;
+13) Eiropas Parlamenta un Padomes 2009.gada 21.oktobra direktīvas 2009/123/EK, ar ko groza direktīvu 2005/35/EK par kuģu radīto piesārņojumu un par sankciju ieviešanu par pārkāpumiem.

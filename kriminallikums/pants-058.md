@@ -3,3 +3,4 @@
 (2) Personu, kas izdarījusi kriminālpārkāpumu vai mazāk smagu noziegumu, var atbrīvot no kriminālatbildības, ja ir izlīgums ar cietušo vai viņa pārstāvi.
 (3) No kriminālatbildības var atbrīvot personu, kura būtiski palīdzējusi atklāt smagu vai sevišķi smagu noziegumu, kas ir smagāks vai bīstamāks par šīs personas pašas izdarīto noziedzīgo nodarījumu. Šis nosacījums nav piemērojams personai, kura tiek saukta pie kriminālatbildības par sevišķi smagu noziegumu izdarīšanu, kas paredzēti šā likuma 116., 117., 118., 125., 159., 160., 176., 190.¹, 251., 252. un 253.¹ pantā, vai personai, kura pati izveidojusi vai vadījusi organizētu grupu vai bandu.
 (4) Personu no kriminālatbildības var atbrīvot arī šā likuma sevišķajā daļā īpaši paredzētajos gadījumos.
+(5) No kriminālatbildības personu var atbrīvot, ja konstatē, ka nav ievērotas tās tiesības uz kriminālprocesa pabeigšanu saprātīgā termiņā.

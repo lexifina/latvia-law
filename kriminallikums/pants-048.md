@@ -13,7 +13,8 @@
 11) noziedzīgais nodarījums izdarīts mantkārīgu tieksmju dēļ;
 12) noziedzīgais nodarījums izdarīts alkohola, narkotisko, psihotropo, toksisko vai citu apreibinošu vielu ietekmē;
 13) noziedzīgo nodarījumu izdarījusī persona nolūkā panākt soda samazināšanu ir sniegusi apzināti nepatiesas ziņas par citas personas izdarītu noziedzīgo nodarījumu;
-14) noziedzīgs nodarījums izdarīts rasistisku motīvu dēļ.
+14) noziedzīgs nodarījums izdarīts rasistisku motīvu dēļ;
+15) noziedzīgs nodarījums, kas saistīts ar vardarbību vai vardarbības piedraudējumu, izdarīts pret personu, ar kuru noziedzīgā nodarījuma izdarītājs ir pirmajā vai otrajā radniecības pakāpē, vai pret laulāto vai bijušo laulāto, vai pret personu, ar kuru noziedzīgā nodarījuma izdarītājs ir vai ir bijis nereģistrētās laulāto attiecībās, vai pret personu, ar kuru noziedzīgā nodarījuma izdarītājam ir kopīga (nedalīta) saimniecība.
 (2) Tiesa, ņemot vērā noziedzīgā nodarījuma raksturu, var neatzīt par atbildību pastiprinošu jebkuru no šā panta pirmajā daļā minētajiem apstākļiem.
 (3) Nosakot sodu, tiesa nevar atzīt par atbildību pastiprinošiem tādus apstākļus, kuri nav norādīti šajā likumā.
 (4) Par atbildību pastiprinošu apstākli nav atzīstams tāds apstāklis, kurš šajā likumā paredzēts kā noziedzīga nodarījuma sastāva pazīme.
