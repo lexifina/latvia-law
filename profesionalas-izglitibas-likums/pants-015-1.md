@@ -1,0 +1,3 @@
+15.¹ pants. Profesionālās izglītības kompetences centrs
+(1) Profesionālās izglītības iestāde, kura īsteno profesionālās vidējās izglītības programmas, kas dod iespēju iegūt trešo profesionālās kvalifikācijas līmeni, un papildus veic reģionālā vai nozares metodiskā centra, pedagogu tālākizglītības centra un ārpus formālās izglītības sistēmas iegūtās profesionālās kompetences novērtēšanas funkcijas, atbilstoši Ministru kabineta noteiktajiem kritērijiem ir tiesīga iegūt profesionālās izglītības kompetences centra statusu.
+(2) Profesionālās izglītības kompetences centra statusu piešķir un anulē Ministru kabinets.

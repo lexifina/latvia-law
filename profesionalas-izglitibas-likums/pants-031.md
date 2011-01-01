@@ -1,6 +1,7 @@
 31.pants. Profesionālās izglītības programmu un iestāžu finansēšana
 (1) Profesionālās izglītības iestāžu finansēšanas kārtību nosaka šis likums, Izglītības likums un citi normatīvie akti un attiecīgās profesionālās izglītības iestādes nolikums.
 (2) Izglītības un zinātnes ministrija un nozaru ministrijas nosaka valsts finansēto vietu skaitu valsts, pašvaldību un privāto izglītības iestāžu akreditētajās profesionālajās izglītības programmās.
+(2¹) Profesionālās izglītības iestāde, kura ieguvusi profesionālās izglītības kompetences centra statusu, saņem valsts budžeta finansējumu reģionālā vai nozares metodiskā centra, pedagogu tālākizglītības centra un ārpus formālās izglītības sistēmas iegūtās profesionālās kompetences novērtēšanas funkciju veikšanai.
 (3) Centralizēto profesionālo kvalifikācijas noslēguma eksāmenu izmaksas un citas ar profesionālās kvalifikācijas piešķiršanu saistītās izmaksas sedz no to iestāžu finanšu līdzekļiem, kurās izglītojamais apgūst attiecīgo profesionālās izglītības programmu.
 (4) Profesionālās izglītības un profesionālās kvalifikācijas ieguvi Ministru kabineta noteiktajā kārtībā no valsts budžeta sedz:
 1) izglītojamajiem ar speciālām vajadzībām, ja viņi atrodas speciālās izglītības vai sociālās un pedagoģiskās korekcijas iestādē;
