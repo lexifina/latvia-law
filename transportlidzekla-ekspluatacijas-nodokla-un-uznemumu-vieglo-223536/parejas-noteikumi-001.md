@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par transportlīdzekļu ikgadējo nodevu" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2001, 24.nr.; 2003, 23.nr.; 2004, 4., 10.nr.; 2006, 2., 22.nr.; Latvijas Vēstnesis, 2009, 200.nr.).

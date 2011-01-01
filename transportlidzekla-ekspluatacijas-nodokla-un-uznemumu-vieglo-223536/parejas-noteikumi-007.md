@@ -1,0 +1,1 @@
+7. Šā likuma 14.panta otrajā daļā noteiktā elektroniskās deklarēšanas kārtība tiek piemērota no 2011.gada 1.februāra, un 2011.gadā transportlīdzekļa elektroniskā deklarēšana veicama no 1.februāra līdz 28.februārim. Tie komersanti, kas šajā laikā veic transportlīdzekļa tehnisko apskati, elektronisko deklarēšanu izdara pirms tehniskajai apskatei nepieciešamo maksājumu veikšanas.

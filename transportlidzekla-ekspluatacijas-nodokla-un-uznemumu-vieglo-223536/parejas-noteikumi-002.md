@@ -1,0 +1,1 @@
+2. Lēmumu par to transportlīdzekļu ikgadējo nodevu atmaksu, kuras samaksātas līdz 2010.gada 31.decembrim, līdz 2011.gada 30.jūnijam pieņem valsts akciju sabiedrība "Latvijas Valsts ceļi", piemērojot likuma "Par transportlīdzekļu ikgadējo nodevu" normas.

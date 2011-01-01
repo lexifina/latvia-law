@@ -1,0 +1,1 @@
+Transportlīdzekļa ekspluatācijas nodokļa likmes par kravas automobiļiem ar pilnu masu virs 12 000 kg (izņemot seglu vilcējus) atkarībā no šo kravas automobiļu asu skaita un dzenošā tilta atsperojuma veida (pneimatiskais vai mehāniskais atsperojums)

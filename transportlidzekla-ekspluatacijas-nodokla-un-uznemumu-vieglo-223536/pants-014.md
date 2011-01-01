@@ -1,0 +1,14 @@
+14.pants. Atbrīvojumi no uzņēmumu vieglo transportlīdzekļu nodokļa maksāšanas
+(1) Uzņēmumu vieglo transportlīdzekļu nodokli nemaksā:
+1) par operatīvajiem transportlīdzekļiem;
+2) par vieglajiem taksometriem;
+3) par transportlīdzekļu ražotāja pilnvarotas personas īpašumā vai turējumā esošiem transportlīdzekļiem, kuri tiek izmantoti kā demonstrācijas transportlīdzekļi un kā tādi noteikti šai personai saistošā līgumā ar transportlīdzekļu ražotāju un kurus komersants deklarējis Ceļu satiksmes drošības direkcijas uzturētajā transportlīdzekļu un to vadītāju valsts reģistrā;
+4) ja komersantam vieglo transportlīdzekļu iznomāšanas pakalpojumi veido ne mazāk kā 90 procentus no kopējā apgrozījuma, par viņa īpašumā vai turējumā esošiem īstermiņa iznomāšanai paredzētiem transportlīdzekļiem, kurus komersants deklarējis Ceļu satiksmes drošības direkcijas uzturētajā transportlīdzekļu un to vadītāju valsts reģistrā;
+5) par transportlīdzekļiem, kurus komersants izmanto tikai un vienīgi savas saimnieciskās darbības vajadzībām un deklarējis Ceļu satiksmes drošības direkcijas uzturētajā transportlīdzekļu un to vadītāju valsts reģistrā.
+(2) To, ka komersanta vieglais transportlīdzeklis atbilst kādam no šā panta pirmās daļas 3., 4. vai 5. punkta nosacījumiem, komersants deklarē Ceļu satiksmes drošības direkcijas uzturētajā transportlīdzekļu un to vadītāju valsts reģistrā, izmantojot Ceļu satiksmes drošības direkcijas nodrošinātos e-pakalpojumus. Deklarēšana par attiecīgo kalendāro gadu veicama līdz iepriekšējā kalendārā gada 31.decembrim. Attiecībā uz tādu transportlīdzekli, kuru komersants ieguvis īpašumā vai turējumā, deklarēšana par turpmāko kalendārā gada laiku veicama piecu dienu laikā no transportlīdzekļa reģistrācijas dienas.
+(3) Šā panta pirmās daļas 5.punktā minēto transportlīdzekļa izmantošanu tikai un vienīgi savas saimnieciskās darbības vajadzībām komersants pierāda, kārtojot ar saimnieciskās darbības veikšanu saistīto braucienu uzskaiti, kurā norāda:
+1) transportlīdzekļa reģistrācijas numuru, marku, modeli un dzinēja darba tilpumu;
+2) brauciena maršrutu, datumu, kā arī sākuma un beigu laiku.
+(4) Komersants šā panta trešajā daļā minēto uzskaiti kārto, izmantojot šā panta piektajā daļā minēto maršruta kontroles sistēmu, kura nodrošina ar katru braucienu saistīto datu fiksēšanu un saglabāšanu. Komersanta pienākums ir saglabāt maršruta kontroles sistēmas ierakstu datus (elektroniskā vai izdrukas formā) likumā "Par grāmatvedību" noteiktajos termiņos un pēc pieprasījuma uzrādīt tos Valsts ieņēmumu dienestam.
+(5) Par maršruta kontroles sistēmu uzskata iekārtu, kas uztver globālās pozicionēšanas sistēmas (GPS) satelītu raidītos signālus un nosaka automobiļa koordinātas reālā laikā un vietā.
+(6) Šā panta trešajā daļā minēto uzskaites un līdz ar to arī uzņēmumu vieglo transportlīdzekļu nodokļa piemērošanas kārtību komersants nevar mainīt līdz kalendārā gada beigām.

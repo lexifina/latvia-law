@@ -1,0 +1,2 @@
+10.pants. Uzņēmumu vieglo transportlīdzekļu nodokļa objekts
+Uzņēmumu vieglo transportlīdzekļu nodokli maksā par komersanta īpašumā vai turējumā esošu vieglo transportlīdzekli, kurš pēc savas konstrukcijas un iekšējā aprīkojuma ir paredzēts pasažieru un to bagāžas pārvadāšanai, kurā sēdvietu skaits, neskaitot vadītāja vietu, nepārsniedz astoņas sēdvietas un kurš reģistrēts kā vieglais, vieglais pasažieru vai vieglais plašlietojuma automobilis.

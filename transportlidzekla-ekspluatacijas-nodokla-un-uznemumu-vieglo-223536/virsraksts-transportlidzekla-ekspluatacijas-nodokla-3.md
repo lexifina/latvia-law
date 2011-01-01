@@ -1,0 +1,1 @@
+Transportlīdzekļa ekspluatācijas nodokļa likmes par divasu, trīsasu un vairāk asu puspiekabēm atkarībā no šo puspiekabju asu skaita, pilnas masas un šīs puspiekabes velkošo seglu vilcēju pašmasas, asu skaita un dzenošā tilta atsperojuma veida (pneimatiskais vai mehāniskais atsperojums)

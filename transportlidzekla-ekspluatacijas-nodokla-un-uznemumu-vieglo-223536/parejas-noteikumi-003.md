@@ -1,0 +1,1 @@
+3. Līdz attiecīgo šajā likumā paredzēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2011.gada 1.jūlijam piemērojami Ministru kabineta 2007.gada 23.janvāra noteikumi Nr.75 "Kārtība, kādā iekasē un maksā transportlīdzekļu ikgadējo nodevu un piemēro atbrīvojumus no nodevas maksāšanas un nodevas atlaides", ciktāl tie nav pretrunā ar šo likumu.

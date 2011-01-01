@@ -1,0 +1,2 @@
+3.pants. Transportlīdzekļa ekspluatācijas nodokļa maksātāji
+Transportlīdzekļa ekspluatācijas nodokļa maksātājs ir persona, kuras īpašumā, turējumā vai valdījumā Latvijā ir reģistrēts vai tiek reģistrēts šā likuma 2.pantā minētais ar nodokli apliekamais transportlīdzeklis vai kuras īpašumā, turējumā vai valdījumā esošajam šā likuma 2.pantā minētajam ar nodokli apliekamajam transportlīdzeklim Latvijā tiek izsniegtas tranzīta numura zīmes.
