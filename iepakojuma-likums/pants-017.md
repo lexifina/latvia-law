@@ -1,3 +1,3 @@
 17.pants. (1) Iepakojuma apsaimniekošanas padome ir Ministru kabineta izveidota konsultatīva institūcija, kuras lēmumiem iepakojuma apsaimniekošanas jautājumos ir ieteikuma raksturs. Ministru kabinets nosaka Iepakojuma apsaimniekošanas padomē pārstāvētās institūcijas un apstiprina šīs padomes nolikumu.
-(2) Vides ministrs apstiprina Iepakojuma apsaimniekošanas padomes personālsastāvu.
+(2) Vides aizsardzības un reģionālās attīstības ministrs apstiprina Iepakojuma apsaimniekošanas padomes personālsastāvu.
 (3) Iepakojuma apsaimniekošanas padome veicina šā likuma prasību izpildi, sniedz priekšlikumus ar iepakojuma jomu saistīto normatīvo aktu pilnveidošanai, kā arī sadarbojas ar nevalstiskajām organizācijām, kuras darbojas iepakojuma apsaimniekošanā.
