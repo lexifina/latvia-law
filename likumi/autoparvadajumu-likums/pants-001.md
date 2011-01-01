@@ -10,7 +10,7 @@ Likumā ir lietoti šādi termini:
 8) ātri bojājošās kravas - lauksaimniecības un zivju produkti, kā arī cita krava, kuru pārvadājot jāievēro īpašs temperatūras režīms un kura jāpārvadā ar specializētiem autotransporta līdzekļiem;
 9) bagāža - lietas, kuras pasažieris ved sev līdzi vai nosūta ar autotransporta līdzekli;
 10) beramā krava - krava, kas sastāv no birstošas masas un tiek pārvadāta neiesaiņota (smiltis, graudi un cita līdzīga krava);
-11) bīstamā krava - krava, kas pārvadāšanas vai uzglabāšanas procesā savu īpašību dēļ var izraisīt sprādzienu, ugunsgrēku vai citus postījumus, kā arī apdraudēt vidi vai cilvēku dzīvību vai veselību;
+11) bīstamā krava - krava, kas uzskatāma par bīstamo kravu Bīstamo kravu aprites likuma izpratnē;
 12) ekspeditors - komersants, kurš atbilstoši līgumam, kas noslēgts ar kravas nosūtītāju, organizē kravu pārvadājumus un sniedz ar šiem pārvadājumiem saistītos pakalpojumus;
 13) iznomāts transportlīdzeklis - jebkurš transportlīdzeklis, kas par samaksu un uz noteiktu laiku nodots tāda komersanta lietošanā, kurš nodarbojas ar komercpārvadājumiem vai veic pašpārvadājumus, atbilstoši līgumam, kas noslēgts ar personu, kura piedāvā šos transportlīdzekļus;
 14) kabotāžas pārvadājumi - īslaicīgi iekšzemes pasažieru vai kravas komercpārvadājumi ar autotransporta līdzekļiem, kas tiek veikti citā valstī, tajā nereģistrējot uzņēmumu, filiāli vai pārstāvniecību;
