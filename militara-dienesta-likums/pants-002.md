@@ -4,6 +4,7 @@ Likumā ir lietoti šādi termini:
 2) aktīvais dienests - militārā dienesta tieša izpilde karavīra statusā, kas ietver profesionālo dienestu, militārā dienesta tiešu izpildi mobilizācijas gadījumā un rezerves karavīru militārās mācības;
 2¹) dienests Nacionālo bruņoto spēku rezervē - rezerves karavīram noteikto pienākumu izpilde;
 3) (izslēgts ar 29.03.2007. likumu);
+3¹) paplašinātā pirmā palīdzība - palīdzība, ko karavīrs, pildot dienesta pienākumus, sniedz dzīvībai kritiskā stāvoklī esošiem cietušajiem karavīriem, izmantojot dzīvībai svarīgu funkciju stabilizācijai nepieciešamo aprīkojumu, medicīniskos materiālus un medikamentus, kuru pielietošanā ir apguvis attiecīgas zināšanas un prasmes;
 4) profesionālais dienests - militārais dienests, kuru Latvijas pilsonis pilda brīvprātīgi saskaņā ar profesionālā dienesta līgumu, kas noslēgts starp viņu un Aizsardzības ministriju;
 5) karavīrs - Latvijas pilsonis, kas pilda aktīvo dienestu un kam piešķirta militārā dienesta pakāpe (turpmāk arī - dienesta pakāpe);
 6) karavīra statuss - karavīra tiesiskais stāvoklis, pildot aktīvo dienestu;

@@ -6,4 +6,4 @@
 1) veselības stāvokļa dēļ pēc Nacionālo bruņoto spēku Centrālās medicīniskās ekspertīzes komisijas atzinuma;
 2) (izslēgts ar 29.03.2007. likumu);
 3) ja karavīrs tiek atskaitīts no mācību iestādes nesekmības vai disciplīnas pārkāpumu dēļ.
-(5) Kārtību, kādā veicama karavīru atlase mācībām vai pieredzes iegūšanai ārvalstīs, nosaka aizsardzības ministrs. Karavīru, kuru nosūta mācīties (iegūt pieredzi) uz ārvalstīm ilgāk par sešiem mēnešiem, uz mācību laiku ieskaita Latvijas Nacionālās aizsardzības akadēmijas ārvalstu militārajās mācību iestādēs apmācāmo karavīru grupā, saglabājot iepriekšējo mēnešalgu.
+(5) Kārtību, kādā veicama karavīru atlase mācībām vai pieredzes iegūšanai ārvalstīs, nosaka aizsardzības ministrs. Karavīru, kuru nosūta mācīties (iegūt pieredzi) uz ārvalstīm ilgāk par sešiem mēnešiem, uz mācību laiku ieskaita Latvijas Nacionālās aizsardzības akadēmijas ārvalstu militārajās mācību iestādēs apmācāmo karavīru grupā, saglabājot iepriekšējo mēnešalgu. Ārvalstu militārajās mācību iestādēs apmācāmo karavīru grupā neieskaita karavīrus, kurus ieceļ (apstiprina) amatā Ministru kabinets vai Saeima.
