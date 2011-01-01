@@ -17,5 +17,5 @@
 1) konsultēties ar nacionālo apakškomiteju par nacionālās pozīcijas sagatavošanu attiecībā uz programmu izstrādi un uzraudzību, programmu ietvaros iesniegto projektu atbilstību nacionālajiem un reģionālajiem plānošanas dokumentiem un to prioritātēm, kā arī programmu ietvaros Latvijas partneru iesniegto projektu iesniegumu finansējuma saņemšanai apstiprināšanu vai noraidīšanu attiecīgās programmas uzraudzības komitejā;
 2) pēc pieprasījuma sniegt šā likuma 3.panta pirmajā daļā minēto programmu vadībā iesaistītajām institūcijām un personām atzinumu par Latvijas partneru atbilstību līdzdalībai atbilstoši attiecīgās programmas dokumentā noteiktajiem projekta partnera atbilstības kritērijiem;
 3) paust viedokli par iesniegtā projekta ar Latvijas partnera līdzdalību apstiprināšanu vai noraidīšanu šā likuma 3.panta pirmajā daļā minēto programmu uzraudzības komitejās.
-(3) Nacionālās atbildīgās iestādes funkcijas pilda Reģionālās attīstības un pašvaldību lietu ministrija.
-(4) Reģionālās attīstības un pašvaldību lietu ministrija nodrošina, ka funkcijas, kuras tā saskaņā ar šo likumu pilda kā nacionālā atbildīgā iestāde, tiek nodalītas no citām tās funkcijām.
+(3) Nacionālās atbildīgās iestādes funkcijas pilda Vides aizsardzības un reģionālās attīstības ministrija.
+(4) Vides aizsardzības un reģionālās attīstības ministrija nodrošina, ka funkcijas, kuras tā saskaņā ar šo likumu pilda kā nacionālā atbildīgā iestāde, tiek nodalītas no citām tās funkcijām.
