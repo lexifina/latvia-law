@@ -2,4 +2,4 @@
 1) viens pārstāvis no katras pašvaldības, kuras teritorijā atrodas Biosfēras rezervāts, kā arī no Valsts kultūras pieminekļu aizsardzības inspekcijas, UNESCO programmas "Cilvēks un biosfēra" Latvijas nodaļas, Rīgas plānošanas reģiona, Vidzemes plānošanas reģiona, Vidzemes Augstskolas un Ziemeļvidzemes reģionālās lauksaimniecības pārvaldes;
 2) divi pārstāvji no Valsts meža dienesta un valsts akciju sabiedrības "Latvijas valsts meži";
 3) trīs pārstāvji no biedrībām vai nodibinājumiem, kuru darbība saistīta ar vides aizsardzību vai vides izglītību. Attiecīgās biedrības vai nodibinājumi tiek izvirzīti nevalstisko organizāciju forumā, kuru reizi divos gados rīko Dabas aizsardzības pārvaldes Biosfēras rezervāta administrācija.
-Biosfēras rezervāta konsultatīvās padomes personālsastāvu apstiprina vides ministrs.
+Biosfēras rezervāta konsultatīvās padomes personālsastāvu apstiprina vides aizsardzības un reģionālās attīstības ministrs.
