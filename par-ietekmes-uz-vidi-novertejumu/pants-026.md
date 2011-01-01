@@ -1,7 +1,7 @@
 26.pants. Lēmumu pārskatīšanas kārtība
 (1) Ikvienai personai, arī personu apvienībām un organizācijām, ir tiesības apstrīdēt jebkuru saskaņā ar šo likumu pieņemtu lēmumu, arī darbību vai bezdarbību, ja ar to ir pārkāptas vai ignorētas normatīvajos aktos noteiktās sabiedrības tiesības uz informāciju vai līdzdalību ietekmes uz vidi novērtējuma vai stratēģiskā novērtējuma procesā.
 (2) Šā panta pirmajā daļā minētajos gadījumos persona iesniegumu var iesniegt:
-1) par ierosinātāja vai izstrādātāja rīcību visā ietekmes uz vidi novērtējuma procesā līdz tam laikam, kad kompetentā institūcija ir sniegusi atzinumu par noslēguma ziņojumu vai vides pārskatu, - kompetentajai institūcijai;
-2) par kompetentās institūcijas lēmumu vai rīcību, izskatot šīs daļas 1.punktā minēto iesniegumu, mēneša laikā no lēmuma spēkā stāšanās dienas - Vides ministrijai.
+1) par ierosinātāja vai izstrādātāja rīcību visā ietekmes uz vidi novērtējuma procesā līdz tam laikam, kad kompetentā institūcija ir sniegusi atzinumu par ziņojumu vai vides pārskatu, - kompetentajai institūcijai;
+2) par kompetentās institūcijas lēmumu vai rīcību, izskatot šīs daļas 1.punktā minēto iesniegumu, mēneša laikā no lēmuma spēkā stāšanās dienas - Vides aizsardzības un reģionālās attīstības ministrijai.
 (3) Iesniegumu, kas apstrīd paredzētās darbības akceptu vai plānošanas dokumenta pieņemšanu, ja ir pārkāptas vai ignorētas normatīvajos aktos noteiktās sabiedrības tiesības uz informāciju vai līdzdalību ietekmes uz vidi novērtējuma vai stratēģiskā novērtējuma procesā, mēneša laikā pēc akcepta sniegšanas vai dokumenta pieņemšanas var iesniegt augstākai institūcijai vai amatpersonai, bet, ja tādas nav, - tiesā.
 (4) Šā panta otrās daļas 2.punktā un trešajā daļā minētās augstākās institūcijas vai amatpersonas lēmumu var pārsūdzēt tiesā normatīvajos aktos noteiktajā kārtībā.
