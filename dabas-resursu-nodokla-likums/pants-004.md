@@ -2,8 +2,8 @@
 (1) Ar nodokli apliek:
 1) dabas resursus atbilstoši šā likuma 1. un 2.pielikumam, kā arī parka vīngliemežu (Helix pomatia L.) vākšanu tālākai saimnieciskai izmantošanai;
 2) zemes dzīļu derīgo īpašību izmantošanu, iesūknējot ģeoloģiskajās struktūrās dabasgāzi vai siltumnīcefekta gāzes;
-3) atkritumu apglabāšanu un piesārņojošu vielu emisiju vidē atbilstoši šā likuma 3., 4. un 5.pielikumam;
-4) stacionāras tehnoloģiskas iekārtas emitēto siltumnīcefekta gāzu apjomu, kas nav ietverts nodoto emisijas kvotu skaitā, atbilstoši šā likuma 4.pielikumam;
+3) atkritumu apglabāšanu un piesārņojošu vielu emisiju vidē atbilstoši šā likuma 14.¹ pantam un 3., 4. un 5.pielikumam;
+4) emitēto siltumnīcefekta gāzu apjomu, kas nav ietverts nodoto emisijas kvotu skaitā atbilstoši šā likuma 17.pantam;
 5) videi kaitīgas preces atbilstoši šā likuma 6.pielikumam;
 6) preču un izstrādājumu iepakojumu (turpmāk arī - iepakojums) un vienreiz lietojamos galda traukus un piederumus atbilstoši šā likuma 24.pantam un 7.pielikumam. Ar nodokli apliek arī to iepakojumu, ko pakalpojumu sniedzējs pievieno izstrādājumiem un kas pēc pakalpojuma sniegšanas nonāk pie pakalpojuma saņēmēja;
 7) radioaktīvās vielas atbilstoši šā likuma 8.pielikumam;
@@ -15,4 +15,4 @@
 2) videi kaitīgu preču klasifikāciju, tehniskos raksturojumus un atbilstību nodokļa likmju grupām.
 (4) Ministru kabinets nosaka preču un izstrādājumu iepakojumu, ko neapliek ar nodokli.
 (5) Plastmasas maisiņiem, ko pircēja ērtības vai reklāmas noformējuma dēļ iepakotu vai neiepakotu preču vai produktu kopumam (pirkumam) pievieno tirgotājs, neatkarīgi no tā, vai par šiem maisiņiem tiek iekasēta atsevišķa samaksa, piemēro nodokļa likmi, kas noteikta šā likuma 24.pantā. Šajā daļā minētajiem plastmasas maisiņiem, kas izgatavoti no bioplastmasas vai oksi-sadalāmās plastmasas, piemēro nodokļa likmi, kas noteikta šā likuma 7.pielikumā. Ja preces tiek realizētas plastmasas maisiņos, kuros tirgotājs tās safasējis un iepakojis pirms novietošanas tirdzniecības vietā, šiem plastmasas maisiņiem piemēro nodokļa likmi, kas noteikta šā likuma 7.pielikumā.
-(6) Aprēķinot saskaņā ar šā likuma 4.pielikuma 2.tabulu nodokļa maksājumu par stacionāras tehnoloģiskas iekārtas emitēto siltumnīcefekta gāzu apjomu, kas nav ietverts nodoto emisijas kvotu skaitā likumā "Par piesārņojumu" noteiktajā kārtībā, valūtas kursa pārrēķinam izmantojams Latvijas Bankas noteiktais valūtas kurss taksācijas perioda pēdējā dienā.
+(6) (Izslēgta ar 20.12.2010. likumu)

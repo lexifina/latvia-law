@@ -1,0 +1,1 @@
+22. Šā likuma 7.panta otrās daļas 5.punktā minētos pārskatus auditē, sākot ar 2012.gadu, iesniedzot Vides aizsardzības un reģionālās attīstības ministrijas padotībā esošai iestādei pārskatu par 2011.gadu.

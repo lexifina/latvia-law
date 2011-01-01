@@ -13,7 +13,7 @@ kg
 0,05
 0,08
 2.
-Elektriskie akumulatori un galvaniskie strāvas avoti:
+Elektriskie akumulatori un galvaniskie strāvas avoti (arī tādi, kas iestrādāti ierīcēs un transportlīdzekļos):
 2.1.
 elektriskie akumulatori, svina
 kg

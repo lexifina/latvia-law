@@ -1,0 +1,1 @@
+25. Pamatojoties uz tiesību normām, kas bija spēkā līdz 2010.gada 31.decembrim, piešķirtais nodokļa atbrīvojums transportlīdzekļa būvētājam vai tā pilnvarotam pārstāvim ir spēkā līdz attiecīgā nodokļa atbrīvojuma termiņa beigām.

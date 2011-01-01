@@ -38,7 +38,7 @@ Likme laikposmā no 2009.gada 1.janvāra
 No stikla izejmateriāliem
 0,25
 2.
-No plastmasas (polimēru) izejmateriāliem, izņemot no bioplastmasas vai oksi-sadalāmās plastmasas izejmateriāliem
+No plastmasas (polimēru) izejmateriāliem, izņemot no bioplastmasas vai oksi-sadalāmās plastmasas, polistirola izejmateriāliem
 0,65
 3.
 No metāla izejmateriāliem
@@ -46,6 +46,8 @@ No metāla izejmateriāliem
 4.
 No koksnes, papīra un kartona vai citu dabisko šķiedru un bioplastmasas izejmateriāliem
 0,15
-5.
-No oksi-sadalāmās plastmasas izejmateriāliem
+5.No oksi-sadalāmās plastmasas izejmateriāliem
 0,45
+6.
+No polistirola izejmateriāliem
+0,90

@@ -1,2 +1,5 @@
 26.pants. Nodokļa aprēķināšana par transportlīdzekļiem
-Nodokļa likme par vienu transportlīdzekli ir 22 lati.
+(1) Nodokļa likme par vienu transportlīdzekli ir 22 lati.
+(2) Ministru kabinets nosaka:
+1) prasības personai, kura ir tiesīga veikt nolietotu transportlīdzekļu apsaimniekošanas sistēmu auditu;
+2) nolietotu transportlīdzekļu apsaimniekošanas sistēmu auditēšanas kārtību.

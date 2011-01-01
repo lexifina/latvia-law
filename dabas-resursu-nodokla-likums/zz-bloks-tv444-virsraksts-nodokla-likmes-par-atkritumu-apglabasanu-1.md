@@ -26,7 +26,7 @@ tonna
 2. Nodokļa likmes par atkritumu apglabāšanu no 2009.gada 1.jūlija
 Nr. p.k.
 Atkritumu veids
-Mērvie-nība
+Mērvienība
 Nodokļa likme laikposmā no 2009.gada 1.jūlija līdz 2009.gada 31.decem-brim
 (Ls)
 Nodokļa likme laikposmā no 2010.gada 1.janvāra līdz 2010.gada 31.decem-brim
@@ -56,10 +56,14 @@ tonna
 25,00
 25,00
 25,00
-4.
-Bīstamie atkritumi
+4.Bīstamie atkritumi
 tonna
 25,00
-25,00
-25,00
-25,00
+25,0025,0025,00
+5.
+Ražošanas atkritumi
+tonna
+1,25
+3,00
+10,00
+15,00

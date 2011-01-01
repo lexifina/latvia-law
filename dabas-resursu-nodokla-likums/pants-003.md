@@ -6,6 +6,7 @@ b) realizē ar nodokli apliekamus dabas resursus, kas iegūti tādā saimniecisk
 c) izmanto zemes dzīļu derīgās īpašības, iesūknējot ģeoloģiskajās struktūrās dabasgāzi vai siltumnīcefekta gāzes,
 d) emitē vidē ar nodokli apliekamas piesārņojošas vielas vai apglabā atkritumus,
 e) emitē vidē siltumnīcefekta gāzes no stacionāras tehnoloģiskas iekārtas, kurā tiek veikta viena vai vairākas likuma "Par piesārņojumu" 2.pielikumā minētās piesārņojošās darbības (arī tādas piesārņojošas darbības, kuru ražošanas jauda vai saražotais produkcijas apjoms nepārsniedz likuma "Par piesārņojumu" 2.pielikumā minētos rādītājus);
+1¹) emitē atmosfērā siltumnīcefekta gāzes, veicot likuma "Par piesārņojumu" 1.¹ pielikumā noteiktās aviācijas darbības;
 2) pirmā Latvijas Republikas teritorijā:
 a) realizē videi kaitīgas preces vai preces iepakojumā (arī kopā ar preci ievesto precei pievienoto primāro, sekundāro un terciāro iepakojumu) vai ogles, koksu un lignītu (brūnogles), kā arī pircēja ērtības vai reklāmas noformējuma dēļ iepakotu vai neiepakotu preču vai produktu kopumam (pirkumam) pievieno iepakojumu,
 b) savas saimnieciskās darbības nodrošināšanai izmanto videi kaitīgas preces, izņemot preces, kuras apliekamas ar nodokli, tās realizējot, vai iepakojumā iegādātas preces (arī kopā ar preci ievesto precei pievienoto primāro, sekundāro un terciāro iepakojumu), izņemot preces iepakojumā, kuras apliekamas ar nodokli, tās realizējot,
