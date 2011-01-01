@@ -16,7 +16,7 @@
 15) valsts nodevas apmēru un samaksas kārtību par atļauju izmantot dzīvnieku izmēģinājumā;
 16) valsts nodevas apmēru un samaksas kārtību par dzīvnieka pārvadātāja apliecības izsniegšanu;
 17) valsts nodevas apmēru un samaksas kārtību par atļaujas izsniegšanu transportlīdzeklim dzīvnieku pārvadāšanai;
-18) valsts nodevas apmēru un samaksas kārtību par atļauju savvaļas dzīvnieku kolekcijas izveidei un darbībai;
+18) valsts nodevas apmēru un samaksas kārtību par savvaļas sugu dzīvnieku turēšanas vietas reģistrāciju;
 19) valsts nodevas apmēru un samaksas kārtību par atļaujas izsniegšanu komersantam tirdzniecībai ar mājas (istabas) dzīvniekiem;
 20) klaiņojošu suņu un kaķu izķeršanas kārtību;
 21) prasības savvaļas sugu dzīvnieku turēšanai zooloģiskajā dārzā un prasības zooloģiskā dārza izveidošanai un reģistrācijai;
