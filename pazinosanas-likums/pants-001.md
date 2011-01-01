@@ -1,0 +1,3 @@
+1.pants. Likuma mērķis
+(1) Likuma mērķis ir nodrošināt iestādes un privātpersonas publiski tiesiskajās attiecībās savlaicīgu, kvalitatīvu un privātpersonas tiesībām un likumiskajām interesēm atbilstošu dokumentu un informācijas paziņošanu (turpmāk arī - dokumenta paziņošana) adresātam.
+(2) Par iestādi šā likumā izpratnē uzskata arī tiesu administratīvajā procesā un Satversmes tiesu. Par adresātu šā likuma izpratnē uzskata privātpersonu, kurai paziņo dokumentu, citu administratīvā procesa dalībnieku, kas nav privātpersona, kā arī Satversmes tiesas procesā iesaistītu privātpersonu vai institūciju.

@@ -1,0 +1,4 @@
+6.pants. Dokumenta vai informācijas paziņošana uz vietas iestādē
+(1) Saņemot dokumentu vai informāciju uz vietas iestādē, adresāts par to parakstās, izņemot gadījumu, kad saskaņā ar normatīvajiem aktiem parakstīšanās par saņemšanu nav nepieciešama. Iestādes izsniegto dokumentu vai sniegto informāciju uzskata par paziņotu ar brīdi, kad adresāts ir parakstījies par saņemšanu.
+(2) Dokumenta vai informācijas paziņošanu apliecina adresāta paraksts. Parakstoties par dokumenta vai informācijas saņemšanu, adresāts norāda saņemšanas datumu un laiku.
+(3) Ja dokumentu paziņo uz vietas iestādē, bet adresāts atsakās šo dokumentu pieņemt, tas uzskatāms par paziņotu ar brīdi, kad adresāts atteicies dokumentu pieņemt. Par adresāta atteikšanos pieņemt dokumentu izsniedzējs izdara atzīmi, norādot atteikšanās iemeslu. Adresāts ir tiesīgs attiecīgajai atzīmei rakstveidā pievienot savu viedokli.
