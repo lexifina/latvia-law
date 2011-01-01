@@ -25,4 +25,4 @@ b) gar ūdensobjektiem ar applūstošo teritoriju - visā tās platumā vai ne m
 (3) Aizsargjoslas platumu nosaka, ņemot vērā gada vidējo ūdens līmeni, bet, ja ir skaidri izteikts stāvs pamatkrasts, - no tā augšējās krants.
 (4) Ja krastu veido vienlaidu dambis, aizsargjosla tiek noteikta līdz dambja ārējās nogāzes pakājei, ja citos normatīvajos aktos nav noteikts citādi.
 (5) Visi aizsargjoslas noteikumi attiecināmi arī uz teritoriju starp ūdens līmeni un vietu, no kuras mēra aizsargjoslas platumu.
-(6) Virszemes ūdensobjektu aizsargjoslu noteikšanas metodikas projektu izstrādā Vides ministrija.
+(6) Virszemes ūdensobjektu aizsargjoslu noteikšanas metodikas projektu izstrādā Vides aizsardzības un reģionālās attīstības ministrija.
