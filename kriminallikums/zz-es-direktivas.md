@@ -1,1 +1,1 @@
-Informatīva atsauce uz Eiropas Savienības direktīvu
+Informatīva atsauce uz Eiropas Savienības direktīvām

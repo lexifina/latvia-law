@@ -1,3 +1,3 @@
-168.pants. Nepilngadīgā neatdošana un bērna atšķiršana no mātes, tēva un aizbildņa
-Par nepilngadīgā neatdošanu tiesas noteiktajā termiņā lietās par nepilngadīgā dzīvesvietas noteikšanu vai lietās par nepilngadīgā atdošanu mātei, tēvam vai aizbildnim, kā arī par nepilngadīgā atšķiršanu no mātes, tēva vai aizbildņa pēc tiesas sprieduma izpildīšanas -
-soda ar arestu vai ar piespiedu darbu, vai ar naudas sodu līdz desmit minimālajām mēnešalgām.
+168.pants. Nolēmumu par aizgādības, aprūpes un saskarsmes tiesībām ar bērnu nepildīšana
+Par ļaunprātīgu izvairīšanos no tiesas vai bāriņtiesas nolēmuma, kas izriet no aizgādības, aprūpes vai saskarsmes tiesībām ar bērnu, izpildes vai ļaunprātīgu šā nolēmuma nepildīšanu, vai ļaunprātīgu tā izpildes kavēšanu -
+soda ar arestu vai ar piespiedu darbu, vai ar naudas sodu līdz astoņdesmit minimālajām mēnešalgām.
