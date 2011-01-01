@@ -1,5 +1,5 @@
-5.pants. Vides ministrijas un tās padotībā esošo iestāžu kompetence
-Vides ministrija un tās padotībā esošās iestādes saskaņā ar šo likumu:
+5.pants. Vides aizsardzības un reģionālās attīstības ministrijas un tās padotībā esošo iestāžu kompetence
+Vides aizsardzības un reģionālās attīstības ministrija un tās padotībā esošās iestādes saskaņā ar šo likumu:
 1) nodrošina īpaši aizsargājamo sugu un biotopu aizsardzības uzraudzību;
 2) organizē nepieciešamo pasākumu veikšanu īpaši aizsargājamo sugu populāciju uzturēšanai un, ja nepieciešams, nodrošina biotopu izveidošanu;
 3) nolūkā nodrošināt sugu un biotopu labvēlīgu aizsardzību, pamatojoties uz monitoringa rezultātiem, nodrošina pasākumu veikšanu visu sugu un biotopu, īpaši prioritāro dabisko biotopu veidu un prioritāro sugu daudzveidības un teritorijas saglabāšanai, uzturēšanai, atjaunošanai, iznīcināto biotopu atjaunošanai un sugu aizsardzībai;
