@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par invalīdu medicīnisko un sociālo aizsardzību" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 42.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 22.nr.; 2003, 2.nr.; 2004, 9.nr.).
