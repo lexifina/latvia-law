@@ -10,8 +10,8 @@
 8) Izglītības un zinātnes ministrijas - viens;
 9) Ekonomikas ministrijas - viens;
 10) Veselības ministrijas - viens;
-11) Vides ministrijas - viens;
-12) Reģionālās attīstības un pašvaldību lietu ministrijas - viens;
+11) Vides aizsardzības un reģionālās attīstības ministrijas - viens;
+12) (izslēgts ar 16.12.2010. likumu);
 13) Zemkopības ministrijas - viens;
 14) Kultūras ministrijas - viens;
 15) Latvijas Darba devēju konfederācijas - viens.
