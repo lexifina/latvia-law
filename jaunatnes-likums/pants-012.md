@@ -7,8 +7,8 @@
 2) jaunatnes organizācija veic darbu ar jaunatni atbilstoši ikgadējām jaunatnes politikas prioritātēm;
 3) jaunatnes organizācijas darbības ilgums, veicot darbu ar jaunatni, nav mazāks par trim gadiem;
 4) jaunatnes organizācija ir sabiedriskā labuma organizācija;
-5) jaunatnes organizācija nodrošina līdzfinansējumu projekta īstenošanai.
+5) jaunatnes organizācija nodrošina līdzfinansējumu projekta īstenošanai, kas var izpausties arī kā ieguldījums natūrā vai brīvprātīgs darbs.
 (4¹) Jaunatnes organizācijas darbības atbalstam saskaņā ar šā panta ceturto daļu organizējams atsevišķs atklāts projektu konkurss, ja jaunatnes organizācijā ir apvienojušies ne mazāk kā 500 biedru vai apvienojušās jaunatnes organizācijas, kuru kopējais biedru skaits nav mazāks par 500 un kuras veic darbu ar jaunatni vismaz trijos plānošanas reģionos atbilstoši ikgadējām jaunatnes politikas prioritātēm.
-(5) Kārtību, kādā piešķir valsts budžeta finansējumu, kas paredzēts, lai veicinātu jauniešu iniciatīvas un līdzdalību lēmumu pieņemšanā un sabiedriskajā dzīvē, kā arī darbam ar jaunatni, nosaka Ministru kabinets.
+(5) Kārtību, kādā piešķir valsts budžeta finansējumu, kas paredzēts, lai veicinātu jauniešu iniciatīvas un līdzdalību lēmumu pieņemšanā un sabiedriskajā dzīvē, darbam ar jaunatni un jaunatnes organizāciju darbības atbalstam, kā arī atbalstīto projektu administrēšanas un uzraudzības kārtību un pieļaujamo projekta iesniedzēja līdzfinansējuma - kas var izpausties arī kā ieguldījums natūrā vai brīvprātīgs darbs - likmi, nosaka Ministru kabinets.
 (6) Lēmumu par finansējuma piešķiršanu projektu īstenošanai Eiropas Savienības jaunatnes neformālās izglītības programmu ietvaros pieņem, kā arī atbalstīto projektu administrēšanu un uzraudzību nodrošina saskaņā ar Eiropas Komisijas noteikto kārtību.
 (7) Pašvaldība var atbalstīt jauniešu iniciatīvas konkursa kārtībā un finansēt jaunatnes organizāciju un jauniešu iniciatīvu grupu projektus pašas noteiktajā kārtībā un apjomā.
