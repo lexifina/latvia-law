@@ -1,0 +1,13 @@
+15.pants. Īpašuma tiesības uz nacionālajā dokumentārajā mantojumā iekļautajiem dokumentiem un darbības ar tiem
+(1) Nacionālajā dokumentārajā mantojumā iekļautie dokumenti, izņemot šā likuma 14.panta pirmās daļas 3.punktā noteiktos dokumentus, ir valsts īpašums, tie nav atsavināmi un dalāmi.
+(2) Nacionālajā dokumentārajā mantojumā iekļautie privātie dokumenti ir attiecīgās privātpersonas īpašums. Ja nacionālajā dokumentārajā mantojumā iekļautais privātais dokuments saskaņā ar noslēgto līgumu nodots glabāšanā Latvijas Nacionālajā arhīvā, tā īpašniekam ir tiesības šo dokumentu līgumā noteiktajā kārtībā uz laiku saņemt no arhīva vai izmantot bez maksas.
+(3) Attiecībā uz nacionālajā dokumentārajā mantojumā iekļautajiem dokumentiem ievērojami šādi noteikumi:
+1) institūcija vai privātpersona, kuras īpašumā vai glabāšanā ir nacionālajā dokumentārajā mantojumā iekļautie dokumenti, nodrošina to saglabāšanu un aizsardzību;
+2) nododot dokumentus citai institūcijai, institūcijas vadītājs rakstveidā saskaņo ar Latvijas Nacionālo arhīvu šo dokumentu turpmākās glabāšanas vietu;
+3) nododot privātos dokumentus citas personas īpašumā vai valdījumā, šo dokumentu īpašnieks rakstveidā par to informē Latvijas Nacionālo arhīvu;
+4) privāto dokumentu kopums nav dalāms; aizliegts atsavināt privāto dokumentu kopuma atsevišķus dokumentus;
+5) privātais dokuments ir pieejams un izmantojams, ja šā likuma 14.panta otrajā daļā minētajā līgumā nav noteikts citādi.
+(4) Latvijas Nacionālais arhīvs var sniegt palīdzību nacionālajā dokumentārajā mantojumā iekļautā privāto dokumentu kopuma sakārtošanā, kā arī piešķirt budžeta līdzekļus nacionālajā dokumentārajā mantojumā iekļautā privāto dokumentu kopuma vai privātā dokumenta saglabāšanai.
+(5) Ja nacionālajā dokumentārajā mantojumā iekļautā privāto dokumentu kopuma vai privātā dokumenta īpašnieks atsavina attiecīgo privāto dokumentu kopumu vai privāto dokumentu, Latvijas Nacionālajam arhīvam ir pirmpirkuma tiesības vai tiesības izgatavot dokumentu kopijas. Atsavināšanas gadījumā īpašnieks atlīdzina atsavināmā privāto dokumentu kopuma vai privātā dokumenta saglabāšanai piešķirtos budžeta līdzekļus.
+(6) Ja nacionālajā dokumentārajā mantojumā iekļautā privāto dokumentu kopuma vai privātā dokumenta saglabāšana ir apdraudēta vai ir redzamas bojājuma pazīmes, Latvijas Nacionālais arhīvs ir tiesīgs noteikt šā dokumentu kopuma vai dokumenta īpašniekam saistošus dokumentu kopuma vai dokumenta saglabāšanas pasākumus vai izteikt priekšlikumu par privāto dokumentu kopuma vai privātā dokumenta atsavināšanu pret atlīdzību.
+(7) Bezīpašnieka dokumenti ar arhīvisko vērtību pāriet valsts īpašumā, un tos nodod glabāšanā Latvijas Nacionālajā arhīvā.

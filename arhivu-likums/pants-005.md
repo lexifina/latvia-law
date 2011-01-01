@@ -1,0 +1,4 @@
+5.pants. Privātpersonu pienākumi privāto dokumentu pārvaldībā
+(1) Privāto tiesību juridiskā vai fiziskā persona, kas veic profesionālo darbību (individuāli praktizējošs ārsts, mērnieks u.c.), un personu apvienības likumā noteiktajos gadījumos nodrošina savas darbības rezultātā radīto un saņemto dokumentu saglabāšanu un pieejamību, kā arī pēc citas personas pieprasījuma izsniedz šai personai izziņas un apliecinātas dokumentu kopijas, norakstus un izrakstus, kas tai nepieciešami likumā noteiktajos gadījumos savu tiesību pierādīšanai un interešu aizstāvībai.
+(2) Ministru kabinets nosaka kārtību, kādā privātie dokumenti ar arhīvisko vērtību nododami Latvijas Nacionālajā arhīvā juridiskās personas likvidācijas gadījumā.
+(3) Šā likuma 4.panta septītajā daļā minēto Ministru kabineta noteikumu piemērošana privāto dokumentu un arhīvu pārvaldībā ir brīvprātīga, ja likums nenosaka citādi.

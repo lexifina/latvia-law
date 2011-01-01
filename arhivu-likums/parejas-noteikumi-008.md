@@ -1,0 +1,1 @@
+8. Ministru kabinets izstrādā nepieciešamos grozījumus spēkā esošajos likumos, lai saskaņotu šā likuma normas ar citu likumu normām, un attiecīgos likumprojektus iesniedz Saeimai līdz 2010.gada 30.augustam.

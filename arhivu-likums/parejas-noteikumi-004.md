@@ -1,0 +1,1 @@
+4. Valsts arhīvu fonds, kas izveidots līdz šā likuma pieņemšanai saskaņā ar likumu "Par arhīviem", ir neatņemama nacionālā dokumentārā mantojuma sastāvdaļa un pieskaitāms pie šā likuma 14.panta pirmās daļas 1.punktā noteiktajiem Latvijas Nacionālajā arhīvā uzkrātajiem dokumentiem. Valsts arhīvu fonds kā vienots dokumentu kopums nav dalāms un nav atsavināms.

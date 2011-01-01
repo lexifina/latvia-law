@@ -1,0 +1,1 @@
+3. Nodrošinot valsts arhīvu sistēmas atbilstību šā likuma prasībām, tiek saglabāta valsts arhīvu fonda nedalāmība, izvietojums, kā arī valsts arhīvu fonda dokumentu un lietu uzskaites un identifikācijas sistēma.

@@ -1,0 +1,2 @@
+23.pants. Latvijas Nacionālā arhīva finansēšana
+Latvijas Nacionālā arhīva funkciju pildīšanai nepieciešamos finanšu līdzekļus veido valsts budžeta dotācija no vispārējiem ieņēmumiem, ieņēmumi no sniegtajiem maksas pakalpojumiem un citi pašu ieņēmumi, tai skaitā ziedojumi, dāvinājumi un ārvalstu finanšu palīdzības līdzekļi. Maksas pakalpojumu un citu pašu ieņēmumu veidā iegūtie finanšu līdzekļi tiek ieskaitīti Latvijas Nacionālā arhīva pamatbudžeta kontā un izmantojami tikai Latvijas Nacionālā arhīva darbības attīstībai.
