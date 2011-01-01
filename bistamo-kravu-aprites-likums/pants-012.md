@@ -1,0 +1,2 @@
+12.pants. Pienākums segt izdevumus par pārkāpumiem bīstamo kravu apritē
+Bīstamo kravu aprites dalībnieks, kas saskaņā ar spēkā stājušos lēmumu ir pārkāpis šā likuma vai citu bīstamo kravu apriti regulējošu normatīvo aktu prasības, sedz visus kontroles laikā radušos paraugu ņemšanas, analīžu veikšanas, pārvadāšanas līdzekļu, kravas konteineru un transportlīdzekļu pārvietošanas un uzglabāšanas, kā arī konstatēto pārkāpumu novēršanas izdevumus.

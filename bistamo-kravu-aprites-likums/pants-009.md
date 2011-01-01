@@ -1,0 +1,3 @@
+9.pants. Zemkopības ministrijas kompetence bīstamo kravu aprites jomā
+(1) Zemkopības ministrija saskaņā ar normatīvajiem aktiem par dzīvnieku izcelsmes blakusproduktiem un atvasinātajiem produktiem, kuri nav paredzēti cilvēku patēriņam, un to apriti uzrauga un kontrolē tos dzīvnieku izcelsmes blakusproduktus un atvasinātos produktus, kuri nav paredzēti cilvēku patēriņam un ir klasificējami kā bīstamā krava.
+(2) Zemkopības ministrija ir šā likuma 3.pantā norādītajos starptautiskajos līgumos minētā kompetentā iestāde tādu dzīvnieku izcelsmes blakusproduktu un atvasināto produktu kravu aprites jautājumos, kuri nav paredzēti cilvēku patēriņam un ir klasificējami kā bīstamā krava.
