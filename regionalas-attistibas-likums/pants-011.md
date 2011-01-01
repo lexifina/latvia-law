@@ -7,6 +7,6 @@
 3) rīcības plānu - rīcības un investīciju projektu kopumu ne mazāk kā triju gadu periodam, norādot to sasaisti ar atbildīgajiem izpildītājiem un finanšu resursiem;
 4) īstenošanas uzraudzības kārtību - uzraudzības un ziņojuma sagatavošanas periodiskumu, ziņojumā analizējamos uzraudzības rādītājus;
 5) pārskatu par sabiedrības līdzdalības pasākumiem.
-(4) Plānošanas reģiona attīstības programmu izstrādā, ņemot vērā Reģionālās attīstības un pašvaldību lietu ministrijas izstrādātos metodiskos norādījumus.
-(5) Plānošanas reģiona attīstības programmu apstiprina plānošanas reģiona attīstības padome pēc tam, kad saņemts pozitīvs atzinums no Reģionālās attīstības un pašvaldību lietu ministrijas un Reģionālās attīstības apakšpadomes.
+(4) Plānošanas reģiona attīstības programmu izstrādā, ņemot vērā Vides aizsardzības un reģionālās attīstības ministrijas izstrādātos metodiskos norādījumus.
+(5) Plānošanas reģiona attīstības programmu apstiprina plānošanas reģiona attīstības padome pēc tam, kad saņemts pozitīvs atzinums no Vides aizsardzības un reģionālās attīstības ministrijas un Reģionālās attīstības apakšpadomes.
 (6) Plānošanas reģiona teritorijas attīstības plānojumu izstrādā telpiskās plānošanas nozari regulējošos normatīvajos aktos noteiktajā kārtībā.
