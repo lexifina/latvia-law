@@ -1,7 +1,7 @@
 8.pants. Izdienas pensijas pieprasīšana, piešķiršana un izmaksa
-(1) Izdienas pensijas pieprasījumu un tās piešķiršanai nepieciešamos dokumentus pensijas pieprasītājs iesniedz Ārlietu ministrijai.
-(2) Ārlietu ministrija izdienas pensijas pieprasījumu un tās piešķiršanai nepieciešamos dokumentus pēc to saņemšanas izskata viena mēneša laikā un par pieņemto lēmumu paziņo izdienas pensijas pieprasītājam.
-(3) Diplomātiem izdienas pensijas piešķir un izmaksā Ārlietu ministrija.
+(1) Izdienas pensijas pieprasījumu un tās piešķiršanai nepieciešamos dokumentus pensijas pieprasītājs iesniedz vienai no Valsts sociālās apdrošināšanas aģentūras nodaļām.
+(2) Valsts sociālās apdrošināšanas aģentūras nodaļas amatpersona izskata izdienas pensijas pieprasījumu un tās piešķiršanai nepieciešamos dokumentus un pieņem lēmumu par izdienas pensijas piešķiršanu vai atteikumu piešķirt izdienas pensiju.
+(3) Ārlietu ministrija pēc Valsts sociālās apdrošināšanas aģentūras pieprasījuma sniedz informāciju par diplomātu izdienas stāžu un darba samaksu, no kuras aprēķina izdienas pensiju.
 (4) Diplomātam, kuram ir tiesības vienlaikus uz vairākām izdienas pensijām, tiek piešķirta tikai viena izdienas pensija pēc viņa izvēles.
-(5) Izdienas pensiju izmaksas kārtību nosaka Ministru kabinets.
-(6) Sūdzības izdienas pensijas piešķiršanas, aprēķināšanas vai izmaksas jautājumos izdienas pensijas pieprasītājs iesniedz Ārlietu ministrijai. Strīdus par šajā likumā paredzēto tiesību nodrošināšanu izskata tiesa.
+(5) Izdienas pensiju piešķiršanas un izmaksas kārtību nosaka Ministru kabinets.
+(6) Valsts sociālās apdrošināšanas aģentūras amatpersonu izdotos administratīvos aktus vai faktisko rīcību pensijas pieprasītājs var apstrīdēt Valsts sociālās apdrošināšanas aģentūras direktoram. Valsts sociālās apdrošināšanas aģentūras direktora lēmumu var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā.
