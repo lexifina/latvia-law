@@ -14,7 +14,7 @@ Suspendētās vielas (nebīstamās)
 tonna
 10,00
 3.
-Vidēji bīstamās vielas
+Vidēji bīstamas vielas, izņemot kopējo fosforu (P kop.)
 tonna
 30,00
 4.
@@ -25,3 +25,7 @@ tonna
 Īpaši bīstamās vielas
 tonna
 50000,00
+6.
+Kopējais fosfors (P kop.)
+tonna
+150,00

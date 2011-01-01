@@ -34,7 +34,7 @@ m³
 0,12
 0,15
 5.
-Smilts-grants (frakcijas > 2 mm saturs > 15 %)
+Smilts-grants
 m³
 0,15
 0,20
