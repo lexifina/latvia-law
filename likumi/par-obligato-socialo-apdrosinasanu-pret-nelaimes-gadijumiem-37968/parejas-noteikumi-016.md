@@ -1,0 +1,1 @@
+16. Atlīdzības par darbspēju zaudējumu saņēmējam, kuram līdz 2010.gada 31.decembrim piešķirta izdienas pensija, kas tiek izmaksāta no valsts pamatbudžeta, līdz minētajam datumam piešķirto atlīdzību par darbspēju zaudējumu turpina izmaksāt lēmumā par pakalpojuma piešķiršanu, pārrēķināšanu vai izmaksas termiņa pagarināšanu noteikto laiku.
