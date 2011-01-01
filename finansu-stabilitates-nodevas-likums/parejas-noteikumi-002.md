@@ -1,0 +1,1 @@
+2. Ministru kabinets līdz 2013.gada 31.janvārim izvērtē iespējas turpmākajos taksācijas periodos nodevas maksājumus novirzīt speciāli izveidotā stabilitātes fondā un, ja nepieciešams, sagatavo attiecīgus šā likuma grozījumus.

@@ -1,0 +1,1 @@
+1. Ministru kabinets līdz 2011.gada 1.jūlijam izvērtē iespējas turpmākajos taksācijas periodos nodevu piemērot arī citiem finanšu un kapitāla tirgus dalībniekiem un citiem patērētāju kreditēšanas pakalpojumu sniedzējiem un, ja nepieciešams, sagatavo attiecīgus šā likuma grozījumus.

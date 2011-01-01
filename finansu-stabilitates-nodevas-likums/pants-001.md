@@ -1,0 +1,2 @@
+1.pants. Finanšu stabilitātes nodevas mērķis
+Finanšu stabilitātes nodevas (turpmāk - nodeva) mērķis ir stiprināt visu finanšu sistēmu, lai, ja nepieciešams, finansētu pasākumus, kas mazinās finansiālās grūtībās nonākušo kredītiestāžu negatīvo ietekmi uz citiem finanšu tirgus dalībniekiem, kā arī daļēji kompensētu valsts budžeta līdzekļus, kas tika novirzīti situācijas stabilizēšanas pasākumiem finanšu sektorā, no kuriem tiešu vai netiešu labumu guva banku sektors kopumā.
