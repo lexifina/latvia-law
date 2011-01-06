@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2010. gada 21. decembra noteikumi Nr. 1171 \"Noteikumi par Latvijas ūdeņu izmantošanas kārtību un kuģošanas režīmu tajos\".",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "3",
+  "official_journal_page": null,
+  "official_journal_date": "2011-01-05",
+  "entry_into_force": "2011-01-06",
+  "notification_date": "2021-06-22",
+  "commission_reference": "MNE(2021)04316",
+  "nim_celex": "72002L0059LVA_202104316",
+  "nim_id": "202104316",
+  "transposes_celex": [
+    "32002L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ea5f1af7-d585-11eb-895a-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
