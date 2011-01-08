@@ -1,0 +1,1 @@
+1.pants. 2001.gada 16.novembra Konvencija par starptautiskajām garantijām attiecībā uz pārvietojamām iekārtām (turpmāk - Konvencija) un Konvencijas 2001.gada 16.novembra Protokols par jautājumiem, kas attiecas uz gaisa kuģu iekārtām (turpmāk - Protokols), ar šo likumu tiek pieņemts un apstiprināts.

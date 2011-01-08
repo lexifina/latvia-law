@@ -1,0 +1,1 @@
+4.pants. Saskaņā ar Konvencijas 54.panta otro daļu visus tiesību aizsardzības līdzekļus, kuri pieejami kreditoram saskaņā ar kādu no Konvencijas noteikumiem un kuru izmantošanai saskaņā ar Konvenciju nav obligāti nepieciešams tiesas rīkojums, var izmantot bez tiesas rīkojuma un bez tiesas atļaujas.

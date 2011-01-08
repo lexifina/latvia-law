@@ -1,0 +1,2 @@
+Konvencija
+par starptautiskajām garantijām attiecībā uz pārvietojamām iekārtām
