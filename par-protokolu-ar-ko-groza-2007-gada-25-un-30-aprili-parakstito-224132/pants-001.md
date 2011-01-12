@@ -1,0 +1,1 @@
+1.pants. Protokols, ar ko groza 2007.gada 25. un 30.aprīlī parakstīto Gaisa transporta nolīgumu starp Amerikas Savienotajām Valstīm un Eiropas Kopienu un tās dalībvalstīm (turpmāk - Protokols), ar šo likumu tiek pieņemts un apstiprināts.
