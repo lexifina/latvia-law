@@ -20,6 +20,7 @@ k) konsultācijas klientiem finansiāla rakstura jautājumos;
 l) (izslēgts ar 20.11.2003. likumu);
 m) tādas informācijas sniegšana, kas saistīta ar klienta parādu saistību kārtošanu;
 n) citi darījumi, kuri pēc būtības ir līdzīgi iepriekšminētajiem finanšu pakalpojumiem;
+o) elektroniskās naudas emisija;
 5) kredīts - atlīdzības darījums, kurā banka uz rakstveida līguma pamata nodod klientam naudu vai citas lietas īpašumā un kurš klientam uzliek pienākumu noteiktā laikā un kārtībā atdot bankai naudu vai citas lietas;
 6) noguldījums - naudas līdzekļu glabāšana bankas kontā noteiktu vai nenoteiktu laiku ar vai bez procentiem;
 7) pašu kapitāls - kredītiestādes revidētajos finanšu pārskatos atspoguļotie kapitāla, rezervju un saistību elementi, kas ir brīvi pieejami kredītiestādei ar parastiem darbības riskiem saistīto, bet vēl neidentificēto iespējamo zaudējumu segšanai;
@@ -44,8 +45,8 @@ c) starp šo personu un komercsabiedrību pastāv jebkādas citas šā punkta "a
 16) riska darījumi - kredītiestādes bilances aktīva un ārpusbilances posteņos uzrādītās operācijas, no kurām kredītiestāde var ciest zaudējumus;
 17) (izslēgts ar 11.04.2002. likumu.);
 18) savstarpēji saistītu klientu grupa - divas vai vairākas personas:
-a) kuras veido kredītiestādei vienu kopīgu risku, jo viena no šīm personām tieši vai netieši kontrolē citu personu vai citas personas, izņemot gadījumus, kad personas, kuras tieši vai netieši kontrolē citu personu vai citas personas, ir dalībvalstis, Eiropas Ekonomiskās sadarbības un attīstības organizācijas valstis un dalībvalstu pašvaldības,
-b) starp kurām nepastāv kontroles attiecības, bet kuras veido kredītiestādei kopīgu risku, jo ir saistītas tādā veidā, ka vienas personas finansiālās problēmas var radīt citai personai vai citām personām parādu nomaksas grūtības;
+a) kuras veido kredītiestādei vienu kopīgu risku, jo viena no šīm personām tieši vai netieši kontrolē citu personu vai citas personas, izņemot gadījumus, kad kredītiestāde pierāda, ka personas, starp kurām pastāv kontroles attiecības, neveido kredītiestādei vienu kopīgu risku,
+b) starp kurām nepastāv kontroles attiecības, bet kuras veido kredītiestādei kopīgu risku, jo ir saistītas tādā veidā, ka vienas personas finansiālās problēmas, tai skaitā sarežģījumi finansējuma nodrošināšanā vai parādu nomaksas grūtības, var radīt citai personai vai citām personām sarežģījumus finansējuma nodrošināšanā vai parādu nomaksas grūtības;
 19) personas, kuras saistītas ar kredītiestādi - personas, kas ir:
 a) kredītiestādes akcionāri, kuriem kredītiestādē ir būtiska līdzdalība, un šo akcionāru - fizisko personu - laulātie, vecāki un bērni;
 b) bankas meitas sabiedrības un komercsabiedrības, kurās bankai ir dalība;
@@ -104,4 +105,6 @@ e) kārtējā darbības gada peļņa, ja ir zvērināta revidenta vai zvērināt
 56) ārvalsts valūta - jebkuras valsts, izņemot Latvijas Republiku, valūta;
 57) atgūstamās vērtības samazinājuma risks - risks, ka nopirktais debitora parāds var samazināties par naudā vai citā veidā debitoram piešķirto kredītu;
 58) sertifikāts - atbilstoši normatīvajiem aktiem izsniegts dokuments, kas apliecina administratora kvalifikāciju un dod viņam tiesības pildīt administratora pienākumus tiesiskās aizsardzības procesā un maksātnespējas procesā;
-59) pakārtotās saistības - saistības, kas bankai rodas no aizdevuma (neatkarīgi no noslēgtā darījuma veida) un kas, pamatojoties uz noslēgto līgumu ar banku, aizdevējam dod tiesības atprasīt aizdevumu pirms termiņa tikai bankas maksātnespējas vai likvidācijas gadījumā un tikai pēc visu citu kreditoru prasījumu apmierināšanas, bet pirms akcionāru prasījumu apmierināšanas.
+59) pakārtotās saistības - saistības, kas bankai rodas no aizdevuma (neatkarīgi no noslēgtā darījuma veida) un kas, pamatojoties uz noslēgto līgumu ar banku, aizdevējam dod tiesības atprasīt aizdevumu pirms termiņa tikai bankas maksātnespējas vai likvidācijas gadījumā un tikai pēc visu citu kreditoru prasījumu apmierināšanas, bet pirms akcionāru prasījumu apmierināšanas;
+60) konsolidētās uzraudzības institūcija - dalībvalsts uzraudzības institūcija, kas ir atbildīga par Eiropas Savienības mātes kredītiestādes un Eiropas Savienības mātes finanšu pārvaldītājsabiedrības kontrolētas kredītiestādes uzraudzību konsolidācijas grupas līmenī;
+61) uzraugu kolēģija - uzraudzības institūciju veidota konsultatīva sadarbības vienība, kas darbojas uz iesaistīto uzraudzības iestāžu sadarbības līguma pamata.

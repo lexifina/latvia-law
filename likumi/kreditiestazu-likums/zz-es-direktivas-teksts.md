@@ -1,7 +1,7 @@
 Likumā iekļautas tiesību normas, kas izriet no:
 1) Eiropas Parlamenta un Padomes 1977.gada 19.decembra direktīvas 77/799/EEK par dalībvalstu kompetentu iestāžu savstarpēju palīdzību tiešo un netiešo nodokļu jomā;
 2) Eiropas Parlamenta un Padomes 2000.gada 20.marta direktīvas 2000/12/EK par kredītiestāžu darbības sākšanu un veikšanu;
-3) Eiropas Parlamenta un Padomes 2000.gada 18.septembra direktīvas 2000/46/EK par elektroniskās naudas iestāžu darbības sākšanu, veikšanu un konsultatīvu uzraudzību;
+3) (izslēgts ar 23.12.2010. likumu);
 4) Eiropas Parlamenta un Padomes 2001.gada 4.aprīļa direktīvas 2001/24/EK par kredītiestāžu reorganizāciju un likvidāciju;
 5) Padomes 2003.gada 3.jūnija direktīvas 2003/48/EK par tādu ienākumu aplikšanu ar nodokļiem, kas gūti kā procentu maksājumi par uzkrājumiem;
 6) Eiropas Parlamenta un Padomes 2002.gada 16.decembra direktīvas 2002/87/EK par papildu uzraudzību kredītiestādēm, apdrošināšanas uzņēmumiem un ieguldījumu sabiedrībām finanšu konglomerātos un par grozījumiem Padomes direktīvās 73/239/EEK, 79/267/EEK, 92/49/EEK, 92/96/EEK, 93/6/EEK un 93/22/EEK, kā arī Eiropas Parlamenta un Padomes direktīvās 98/78/EK un 2000/12/EK;
@@ -12,4 +12,7 @@ Likumā iekļautas tiesību normas, kas izriet no:
 11) Eiropas Parlamenta un Padomes 2003.gada 15.jūlija direktīvas 2003/58/EK, ar ko Padomes direktīvu 68/151/EEK groza attiecībā uz atklātības prasībām dažāda veida uzņēmējsabiedrībām;
 12) Eiropas Parlamenta un Padomes 2007.gada 5.septembra direktīvas 2007/44/EK, ar ko groza Padomes direktīvu 92/49/EEK un direktīvas 2002/83/EK, 2004/39/EK, 2005/68/EK un 2006/48/EK attiecībā uz procedūras noteikumiem un vērtēšanas kritērijiem, kas piemērojami, veicot piesardzīgu novērtējumu par līdzdalības iegūšanu un palielināšanu finanšu nozarē;
 13) Eiropas Parlamenta un Padomes 2007.gada 13.novembra direktīvas 2007/64/EK par maksājumu pakalpojumiem iekšējā tirgū, ar ko groza direktīvas 97/7/EK, 2002/65/EK, 2005/60/EK un 2006/48/EK un atceļ direktīvu 97/5/EK;
-14) Eiropas Parlamenta un Padomes 2008.gada 23.aprīļa direktīvas 2008/48/EK par patēriņa kredītlīgumiem un ar ko atceļ direktīvu 87/102/EEK.
+14) Eiropas Parlamenta un Padomes 2008.gada 23.aprīļa direktīvas 2008/48/EK par patēriņa kredītlīgumiem un ar ko atceļ direktīvu 87/102/EEK;
+15) Eiropas Parlamenta un Padomes 2009.gada 16.septembra direktīvas 2009/110/EK par elektroniskas naudas iestāžu darbības sākšanu, veikšanu un konsultatīvu uzraudzību, par grozījumiem direktīvā 2005/60/EK un direktīvā 2006/48/EK un par direktīvas 2000/46/EK atcelšanu;
+16) Eiropas Parlamenta un Padomes 2009.gada 16.septembra direktīvas 2009/111/EK, ar ko groza direktīvu 2006/48/EK, direktīvu 2006/49/EK un direktīvu 2007/64/EK attiecībā uz bankām, kuras saistītas ar galvenajām iestādēm, dažiem pašu kapitāla posteņiem, lielajiem riska darījumiem, uzraudzības pasākumiem un krīzes pārvaldību;
+17) Eiropas Parlamenta un Padomes 2010.gada 24.novembra direktīvas 2010/76/ES, ar ko groza direktīvu 2006/48/EK un direktīvu 2006/49/EK attiecībā uz kapitāla prasībām, kas piemērojamas tirdzniecības portfelim un atkārtotai vērtspapirizācijai, un attiecībā uz atalgojuma politikas uzraudzības pārbaudi.

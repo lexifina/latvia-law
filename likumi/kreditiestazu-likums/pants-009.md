@@ -1,7 +1,4 @@
-9.pants. (1) Vārdus "kredītiestāde", "banka" vai šo vārdu savienojumu kapitālsabiedrības nosaukumā vai pašreklāmai drīkst lietot tikai:
-1) Latvijas Republikā reģistrēta banka, kurai ir Finanšu un kapitāla tirgus komisijas izsniegta licence (atļauja) kredītiestādes darbībai;
-2) citā dalībvalstī reģistrēta banka vai tās filiāle, kas šajā likumā noteiktajā kārtībā uzsākusi finanšu pakalpojumu sniegšanu Latvijas Republikas teritorijā;
-3) ārvalsts bankas filiāle, kurai ir Finanšu un kapitāla tirgus komisijas izsniegta licence (atļauja) kredītiestādes darbībai.
+9.pants. (1) Personai, kas sniedz finanšu pakalpojumus Latvijas Republikā, aizliegts izmantot savā nosaukumā (firmā) vai pašreklāmai vārdu "kredītiestāde" vai vārdu "banka" jebkurā locījumā un vārdu savienojumā tādā veidā, kas rada maldīgu priekšstatu par tās darbību saskaņā ar šo likumu.
 (2) Vārdus "kredītiestāde", "elektroniskās naudas institūcija" vai šo vārdu savienojumu kapitālsabiedrības nosaukumā vai pašreklāmai drīkst lietot tikai:
 1) Latvijas Republikā reģistrēta elektroniskās naudas institūcija, kurai ir Finanšu un kapitāla tirgus komisijas izsniegta licence (atļauja) elektroniskās naudas institūcijas darbībai;
 2) Latvijas Republikā reģistrēta elektroniskās naudas institūcija, kura par darbības uzsākšanu ir informējusi Latvijas Banku;

@@ -6,6 +6,8 @@
 5) noteikt bankai noguldījumu saistību izpildes ierobežojumus (turpmāk - lēmums par noguldījumu ierobežojumu noteikšanu);
 6) iecelt kredītiestādē vienu vai vairākus Finanšu un kapitāla tirgus komisijas pilnvarniekus (turpmāk - lēmums par pilnvarnieka iecelšanu);
 7) uzlikt kredītiestādei par pienākumu mazināt risku, kas saistīts ar tās darījumiem, pakalpojumiem un norēķinu sistēmām;
-8) uzlikt šajā likumā paredzētās soda naudas.
+8) uzlikt šajā likumā paredzētās soda naudas;
+9) noteikt procentuālus ierobežojumus kredītiestādes neto ieņēmumu apmēram, kuru drīkst izmantot no darbības rezultātiem atkarīgai darba samaksai, lai nodrošinātu stabilai iestādes darbībai atbilstoša pašu kapitāla apmēra uzturēšanu;
+10) pieprasīt, lai kredītiestāde izmanto peļņu ieguldījumiem pašu kapitāla elementos.
 (2) Finanšu un kapitāla tirgus komisija ir tiesīga īstenot vienu vai vairākas šā panta pirmajā daļā minētās darbības arī tad, ja kredītiestādes konsolidācijas grupā esošas komercsabiedrības darbība apdraud vai var apdraudēt attiecīgās kredītiestādes vai visa kredītiestāžu sektora stabilu darbību.
 (3) Ja tiek noteikti šā panta pirmās daļas 4.punktā minētie ierobežojumi bankai, kas apkalpo tranzītkredītu, Finanšu ministrija pieņem lēmumu par tranzītkredīta apkalpošanas turpināšanu šajā bankā vai nodošanu citām bankām.

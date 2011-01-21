@@ -1,4 +1,4 @@
-50.⁸ pants. (1) Kredītiestāde ievēro šā likuma 34.¹, 35., 40., 42., 43. un 49.panta prasības individuāli.
+50.⁸ pants. (1) Kredītiestāde ievēro šā likuma 34.¹, 35., 42., 43. un 49.panta prasības individuāli.
 (2) Kredītiestāde, kas nav ne Latvijas Republikā reģistrēta un konsolidētajai uzraudzībai pakļauta mātes sabiedrība, ne tās meitas sabiedrība, kā arī jebkura kredītiestāde, kas nav pakļauta šā likuma 50.⁹ pantā noteiktajai konsolidētajai uzraudzībai, izpilda šā likuma 36.², 44. un 45.panta prasības individuāli.
 (3) Kredītiestāde, kas nav ne mātes sabiedrība, ne meitas sabiedrība, kā arī jebkura kredītiestāde, kas nav pakļauta šā likuma 50.⁹ pantā noteiktajai konsolidētajai uzraudzībai, izpilda šā likuma 36.³ panta prasību individuāli.
 (4) Latvijas Republikas mātes kredītiestādes meitas sabiedrība var neievērot šā panta pirmās daļas prasības individuāli, ja ir izpildīti visi turpmāk norādītie nosacījumi, lai nodrošinātu pašu kapitāla atbilstīgu sadalījumu starp mātes sabiedrību un meitas sabiedrību, un Finanšu un kapitāla tirgus komisija tam ir piekritusi:

@@ -1,0 +1,1 @@
+41. Kredītiestādes, kas riska svērto vērtību aprēķinam izmanto uz iekšējiem reitingiem balstīto pieeju, līdz 2011.gada 31.decembrim nodrošina pašu kapitālu, kas vienmēr ir lielāks par šā likuma pārejas noteikumu 45.punktā norādīto pašu kapitāla apmēru vai vienāds ar to.

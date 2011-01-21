@@ -1,4 +1,4 @@
 72.¹ pants. (1) (Izslēgta ar 22.02.2007. likumu.)
 (2) Elektroniskās naudas derīguma laikā kredītiestādei (attiecīgās elektroniskās naudas emitentam) pēc klienta pieprasījuma ir pienākums atpirkt no klienta šo elektronisko naudu, izmaksājot elektroniskās naudas nominālvērtībai atbilstošu summu. Šāda pakalpojuma nodrošināšanai elektroniskās naudas institūcija var prasīt no klienta komisijas maksu.
 (3) Starp kredītiestādi un klientu noslēgtajā līgumā norāda nepārprotamus elektroniskās naudas atpirkšanas noteikumus. Elektroniskās naudas institūcija, kurai saskaņā ar šo likumu nav jāsaņem licence, nodrošina klientam brīvu pieeju elektroniskās naudas atpirkšanas noteikumiem, ja sniegtā pakalpojuma rakstura un specifikas dēļ ar klientu netiek slēgts līgums.
-(4) Elektroniskās naudas atpirkšanas noteikumi var paredzēt minimālo atpērkamo elektroniskās naudas summu, taču tā nedrīkst būt lielāka par 10 eiro ekvivalentu latos.
+(4) Elektroniskās naudas atpirkšanas noteikumi var paredzēt minimālo atpērkamo elektroniskās naudas summu, taču tā nedrīkst būt lielāka par 10 euro ekvivalentu latos.
