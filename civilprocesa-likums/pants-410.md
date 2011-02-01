@@ -1,4 +1,0 @@
-410.pants. Tiesneša rīcība pēc pieteikuma saņemšanas
-(1) Tiesnesis pēc pieteikuma saņemšanas, nepārbaudot tā pareizību, izsniedz pieteicējam (parādniekam) dokumentu par iesniegtās naudas vai citu priekšmetu saņemšanu un pieņem lēmumu uzaicināt kreditoru saņemt glabājumā pieņemto saistības priekšmetu. Uzaicinājums izdarāms ar pavēsti, bet, ja kreditora vai viņa tiesību pārņēmēja dzīvesvieta vai atrašanās vieta (juridiskā adrese) nav zināma, - ar sludinājumu laikrakstā "Latvijas Vēstnesis".
-(2) Pavēstē vai sludinājumā norāda saistību, pēc kuras saistības priekšmets iesniegts tiesai glabājumā, un uzaicina kreditoru saņemt glabājumā pieņemto saistības priekšmetu.
-(3) Saņemot kreditora iesniegumu par glabājumā pieņemtā saistības priekšmeta izsniegšanu, tiesnesis noliek lietu izskatīšanai tiesas sēdē.

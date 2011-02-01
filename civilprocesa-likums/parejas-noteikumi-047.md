@@ -1,0 +1,1 @@
+47. Lietas par laulības šķiršanu pēc abu laulāto kopīga iesnieguma un lietas par saistības priekšmeta iesniegšanu tiesai glabājumā, kuras līdz 2011.gada 31.janvārim pieņemtas izskatīšanai tiesās, izskata Civilprocesa likumā noteiktajā kārtībā, kāda bija spēkā līdz 2011.gada 31.janvārim.
