@@ -1,1 +1,0 @@
-105. Personām, kurām notariālo aktu grāmatas izraksts jau bijis izdots, otro izrakstu un turpmākos izrakstus izdod tikai ar visu pārējo darījuma dalībnieku piekrišanu vai ar apgabaltiesas priekšsēdētāja atļauju.

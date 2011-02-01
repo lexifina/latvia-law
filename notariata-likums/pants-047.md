@@ -1,3 +1,2 @@
-47. Reģistrus un glabājumu grāmatas caurauklo un nogādā apgabaltiesas priekšsēdētāja noteiktam tiesnesim.
-Apgabaltiesas priekšsēdētāja noteiktais tiesnesis un viņa sekretārs pārbauda grāmatu atbilstību noteiktajai formai un lapu numerāciju, kā arī grāmatas pēdējā lappusē taisa apliecinājuma uzrakstu, ko paraksta tiesnesis un sekretārs, norādot datumu.
-Grāmatu auklu galus piestiprina pēdējā lappusē ar tiesas zīmogu.
+47. Reģistrus un glabājumu grāmatas zvērināts notārs caurauklo un nogādā Latvijas Zvērinātu notāru padomei.
+Latvijas Zvērinātu notāru padome pārbauda reģistru un glabājumu grāmatu atbilstību noteiktajai formai un lapu numerāciju un pēdējā lappusē nostiprina auklu galus ar papīra uzlīmi, taisa slēguma uzrakstu, kurā norāda reģistra vai glabājumu grāmatas atbilstību noteiktajai formai, lapu skaitu un slēguma datumu. Ja, pārbaudot reģistru un glabājumu grāmatu atbilstību, konstatētas nepilnības, reģistrus un glabājumu grāmatas atdod atpakaļ zvērinātam notāram nepilnību novēršanai.

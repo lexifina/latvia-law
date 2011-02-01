@@ -1,0 +1,1 @@
+60.¹ Latvijas Zvērinātu notāru padome reizi gadā iesniedz tieslietu ministram informāciju par praktizējošo zvērinātu notāru reģistru, notariālo aktu grāmatu un glabājumu grāmatu atbilstību noteiktajām prasībām.

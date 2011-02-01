@@ -1,0 +1,2 @@
+145.⁹ Pirms izlemt jautājumu par saistības priekšmeta izsniegšanu kreditoram, zvērināts notārs pieprasa no kreditora aktu (ja tāds ir taisīts), kas ir par pamatu saistībai, kura dzēšama ar saistības priekšmetu.
+Ja ar kreditoram izsniegto saistības priekšmetu saistība dzēsta daļēji, zvērināts notārs iesniegto aktu atdod atpakaļ kreditoram un izdara par to atzīmi notariālajā aktā. Ja ar kreditoram izsniegto saistības priekšmetu saistība dzēsta pilnīgi, zvērināts notārs iesniegto aktu nodod parādniekam.

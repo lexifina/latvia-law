@@ -1,0 +1,1 @@
+21. Šā likuma 19.panta pirmās daļas pirmajā teikumā noteikto zvērinātu notāru eksāmena rīkošanas termiņu - ne retāk kā reizi gadā - var nepiemērot 2011. un 2012.gadā. Zvērinātu notāru eksāmenu 2011. un 2012.gadā tieslietu ministrs pēc savas iniciatīvas vai Latvijas Zvērinātu notāru padomes priekšlikuma var rīkot, izvērtējot nepieciešamību.

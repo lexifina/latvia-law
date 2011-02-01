@@ -1,0 +1,1 @@
+145.¹ Ja Civillikuma 1837.pantā noteiktajos gadījumos parādnieks nevar izpildīt saistību, viņam ir tiesības iesniegt saistības priekšmetu glabājumā pēc saistības izpildīšanas vietas attiecīgajā apgabaltiesā praktizējošam zvērinātam notāram.
