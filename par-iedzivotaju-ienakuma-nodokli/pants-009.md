@@ -12,7 +12,7 @@
 9) mantojuma rezultātā gūtais ienākums, izņemot autoratlīdzību (honorāru), kuru izmaksā autortiesību mantiniekiem;
 10) konkursos un sacensībās saņemtās mantiskās un naudas balvas (prēmijas), kuru kopējā vērtība taksācijas gadā nepārsniedz 100 latu, un publiskos starptautiskos konkursos un starptautiskās sacensībās gūtās balvas un prēmijas, kuru kopējā vērtība gadā nepārsniedz 1000 latu, kā arī Baltijas asamblejas balvu laureātiem izmaksātā naudas prēmija un Ministru kabineta balva;
 11) uzturnauda (alimenti);
-12) summas, kas uz tiesas sprieduma pamata saņemtas laulības šķiršanas sakarā;
+12) summas, kas uz tiesas sprieduma pamata vai saskaņā ar notariālā akta veidā noslēgtu vienošanos par laulāto kopīgās mantas sadali saņemtas laulības šķiršanas sakarā;
 13) atlīdzība likumdošanas aktos noteiktajā kārtībā par kaitējumu darbaspēju zaudējuma gadījumā, kas saistīts ar sakropļojumu vai citādu veselības bojājumu, kā arī apgādnieka zaudējuma sakarā;
 14) darbinieka vai viņa radinieku (tuvinieku) nāves gadījumā darba devēja piešķirtais bēru pabalsts, kura vērtība nepārsniedz 150 latu;
 15) palīdzība stihiskas nelaimes gadījumā vai citos ārkārtējos gadījumos, ja tā sniegta uz valsts vai pašvaldību pārvaldes institūciju lēmuma pamata;
