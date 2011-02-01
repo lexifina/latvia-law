@@ -9,7 +9,7 @@
 (3) Nodaļa no citām dzimtsarakstu nodaļām pieprasa iesnieguma izskatīšanai nepieciešamos dokumentus:
 1) izrakstu no dzimšanas reģistra par personas dzimšanu;
 2) izrakstu no laulību reģistra, ja persona ir laulībā;
-3) izrakstu no laulību reģistra, kas apliecina laulības šķiršanas faktu vai laulības atzīšanu par spēkā neesošu (izrakstu vai izziņu no laulības šķiršanas reģistra, izrakstu no laulību reģistra ar atzīmi par laulības šķiršanu vai likumīgā spēkā stājušos spriedumu par laulības šķiršanu vai atzīšanu par spēkā neesošu);
+3) izrakstu no laulību reģistra, kas apliecina laulības šķiršanas faktu vai laulības atzīšanu par spēkā neesošu (izrakstu vai izziņu no laulības šķiršanas reģistra, izrakstu no laulību reģistra ar atzīmi par laulības šķiršanu vai likumīgā spēkā stājušos spriedumu par laulības šķiršanu vai atzīšanu par spēkā neesošu, vai zvērināta notāra taisītu laulības šķiršanas apliecību);
 4) izrakstu no dzimšanas reģistra par bērna dzimšanu, ja personai ir nepilngadīgs bērns;
 5) citus tautības ieraksta maiņai nepieciešamos dokumentus.
 (4) Nodaļa no Iedzīvotāju reģistra pieprasa izziņu par personas tautību, ja tā nav norādīta personu apliecinošā dokumentā.
