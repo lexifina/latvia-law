@@ -738,7 +738,7 @@ Carnikavas pag.
 171.
 Dzirnezers
 Carnikavas pag.
-173,0
+140,9
 172.
 Garezeri
 Carnikavas pag.

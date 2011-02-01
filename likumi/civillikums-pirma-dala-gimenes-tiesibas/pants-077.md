@@ -1,1 +1,2 @@
-77. Laulību nešķir, ja laulātie nav vienojušies par laulībā dzimuša bērna aizgādību, bērna uzturlīdzekļiem, kopīgās mantas sadali vai attiecīgas prasības nav izšķirtas pirms laulības šķiršanas un netiek celtas kopā ar prasību par laulības šķiršanu.
+77. Tiesa laulību nešķir, ja laulātie nav vienojušies par kopīgā nepilngadīgā bērna aizgādību, saskarsmes tiesību, bērna uzturlīdzekļiem, kopīgās mantas sadali vai attiecīgas prasības nav izšķirtas pirms laulības šķiršanas un netiek celtas kopā ar prasību par laulības šķiršanu.
+Notārs laulību nešķir, ja laulātie nav apliecinājuši, ka laulība ir izirusi un nav vienojušies par kopīgā nepilngadīgā bērna aizgādību, saskarsmes tiesību, bērna uzturlīdzekļiem un kopīgās mantas sadali.

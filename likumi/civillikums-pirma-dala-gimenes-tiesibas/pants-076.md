@@ -1,1 +1,1 @@
-76. Laulību nešķir, kaut gan tā ir izirusi, ja un ciktāl laulības saglabāšana izņēmuma kārtā sevišķu iemeslu dēļ ir nepieciešama laulībā dzimuša nepilngadīga bērna interesēs.
+76. Tiesa laulību nešķir, kaut gan tā ir izirusi, ja un ciktāl laulības saglabāšana izņēmuma kārtā sevišķu iemeslu dēļ ir nepieciešama laulāto kopīgā nepilngadīgā bērna interesēs.
