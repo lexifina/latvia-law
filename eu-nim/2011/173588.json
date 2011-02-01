@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Informācijas tehnoloģiju drošības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "178",
+  "official_journal_page": null,
+  "official_journal_date": "2010-11-10",
+  "entry_into_force": "2011-02-01",
+  "notification_date": "2010-11-22",
+  "commission_reference": "MNE(2010)56932",
+  "nim_celex": "72009L0140LVA_173588",
+  "nim_id": "173588",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/404e6bad-a184-4c6a-bf3d-10ea37f489ff",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
