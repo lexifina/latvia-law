@@ -1,0 +1,1 @@
+327. Zvērināts notārs uzsāk laulības šķiršanas lietu tad, kad saņemts abu laulāto kopīgs iesniegums par laulības šķiršanu, pirms tam pārliecinoties, vai šo laulības šķiršanas lietu nav uzsācis cits zvērināts notārs.
