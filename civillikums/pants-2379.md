@@ -1,0 +1,1 @@
+2379. Neatvietojamas lietas atdodamas līdz ar to pieaugumiem un augļiem, tiklab ar jau ievāktiem, kā arī ar tiem, kurus pēc prasības celšanas pret atbildētāju viņš nav ievācis aiz nolaidības, pie kam tomēr jāatlīdzina atbildētājam šajā nolūkā taisītie izdevumi.

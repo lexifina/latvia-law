@@ -1,0 +1,1 @@
+1236. Bez tam pilsētās katrs servitūta nodibināšanas līgums, kas noslēgts starp kaimiņiem ceļot no jauna vai sākot pārbūvēt ēku, ir spēkā tikai tad, ja tas uzrādīts attiecīgā iestādē un atzīts par saskanošu ar pastāvošiem būvniecības noteikumiem.

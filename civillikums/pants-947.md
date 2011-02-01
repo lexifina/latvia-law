@@ -1,0 +1,1 @@
+947. Ja pēc policijas sludinājuma ierodas atrastās lietas īpašnieks vai tās nozaudētājs un pierāda savas tiesības uz to, tad pati lieta vai par to ieņemtā nauda izdodama viņam, iepriekš saņemot no viņa vai atvelkot viņam izdevumus, kas taisīti lietas uzturēšanai un sludināšanai, kā arī atradējam pienākošos atradēja algu (948. p.).

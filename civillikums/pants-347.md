@@ -1,0 +1,1 @@
+347. Aizbildnību nobeidzot, aizbildnim jādod savam līdzšinējam aizbilstamajam bāriņtiesā galīgs norēķins. Lūkojot to cauri, aizbildnim nevar uzlikt atbildību par tādiem norēķiniem, ko bāriņtiesa jau agrāk pārbaudījusi un atzinusi, izņemot gadījumus, kad aizbildnis tajos pielaidis kļūdu vai viltu.

@@ -1,0 +1,1 @@
+343. Šķēršļi, kas pagaidām neatļauj izpildīt aizbildņa pienākumus, nedod aizbildnim tiesību pavisam atteikties no sava amata; līdz tāda šķēršļa novēršanai bāriņtiesa, ja vajadzīgs, ieceļ pagaidu aizbildni.

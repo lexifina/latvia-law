@@ -1,0 +1,1 @@
+1735. Aizturējuma tiesība (1734.p.) pieder augļu nesēja zemes gabala iznomātājam - uz zemes gabala ražojumiem un uz tajā esošo nomnieka kustamu mantu, tiklab nokavētas nomas maksas dēļ, kā arī visu to prasījumu dēļ, kādi varētu rasties pret nomnieku uz nomas līguma pamata. Tāda pati tiesība ir iznomātājam arī pret apakšnomnieku, kuram nomnieks nodevis tālāk savas nomas tiesības.

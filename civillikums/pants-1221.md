@@ -1,0 +1,1 @@
+1221. Īpašnieks nevar nekādā ziņā kavēt lietotāju viņa tiesību kārtīgā izlietošanā, un tādēļ, nezaudējot tiesību visās pārējās attiecībās rīkoties ar savu īpašumu, viņš nevar darīt neko tādu, kas ierobežotu lietotāja tiesības vai kā citādi viņam kaitētu.

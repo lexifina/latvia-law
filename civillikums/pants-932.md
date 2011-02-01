@@ -1,0 +1,1 @@
+932. Dzīvnieki, kas vēl atrodas dabiskā savvaļas stāvoklī, kļūst par tā īpašumu, kas viņus noķer vai nogalina, ciktāl likums nenosaka citādi. Dzīvnieka ievainošana, to nesaņemot savā varā, vēl nav piegūšana.

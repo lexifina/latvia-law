@@ -1,0 +1,2 @@
+1382. Izpirkuma tiesību nodibina vai nu ar likumu, vai ar līgumu, vai arī ar testamentu.
+Izpirkuma tiesība, kas nodibināta ar līgumu vai testamentu, saista tikai lietā ieinteresētās personas un viņu mantiniekus; tomēr tā var kļūt saistoša arī trešām personām, ja līgumu vai testamentu, ar kuru nodibina šo tiesību, ieraksta zemes grāmatās; tādā gadījumā šo tiesību nosaka vienīgi līguma vai testamenta noteikumi, un tikai tad, ja tādu nav, noteikumi par likumisko izpirkumu.

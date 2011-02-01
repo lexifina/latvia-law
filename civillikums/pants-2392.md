@@ -1,0 +1,1 @@
+2392. Par iedzīvoto atzīstams tikai tas, kas, ceļot pret atbildētāju atprasījuma prasību, vēl atrodas viņa mantā, vienalga, vai tas būtu dabā, vai tādos priekšmetos, ko viņš ieguvis pret labā ticībā atsavināto vai patērēto. Uz visu to, ko atbildētājs līdz tam laikam bez ļauna nolūka izdāvinājis, nodzīvojis vai nejauši nozaudējis, atprasījuma tiesību nevar attiecināt.

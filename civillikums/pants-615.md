@@ -1,0 +1,1 @@
+615. Nevien mantiniekam, bet arī katrai mantojumā ieinteresētai personai, kā legātāriem un viņu mantiniekiem, ir tiesība pret katru, kura rokās ir testaments vai kurš to ļaunprātīgi nogādājis pie malas, celt prasību, lai tas vai nu izdod testamentu, vai samaksā mantojuma vai legāta vērtību.

@@ -1,0 +1,1 @@
+294. Ja aizbildnis ieskata sava aizbilstamā interesēm par izdevīgu iegūt nekustamo īpašumu vai jau piederošam nekustamam īpašumam sevišķas tiesības vai servitūtus, viņam jālūdz šim nolūkam bāriņtiesas iepriekšēja atļauja.

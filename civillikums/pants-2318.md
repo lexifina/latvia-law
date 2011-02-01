@@ -1,0 +1,1 @@
+2318. Vienas personas padoms otrai pats par sevi nenodibina starp pusēm nekādu tiesisku attiecību, un kā padoma saņēmējam nav tas jāizpilda, tā arī padoma devējam, ja padoms bijis nesekmīgs, nav jāatlīdzina nekādi zaudējumi.

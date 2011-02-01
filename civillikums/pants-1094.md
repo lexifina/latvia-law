@@ -1,0 +1,2 @@
+1094. Zemāk stāvoša zemes gabala īpašniekam ir jāpacieš, ka no augstāk stāvoša zemes gabala uz viņa zemi dabiski notek sniega un lietus ūdeņi, un viņam nav tiesības ierīkot aizsprostojumus, kas varētu kavēt dabisko ūdeņu tecēšanu.
+Zemāk stāvoša zemes gabala īpašniekam, uz kura zemes atrodas dabisks aizsprostojums brīvai ūdens tecēšanai, jāpacieš, ka augstāk stāvoša zemes gabala īpašnieks šo aizsprostojumu novāc.

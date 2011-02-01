@@ -1,0 +1,1 @@
+684. Pašam mantojumam taisītie izdevumi atlīdzināmi pēc vispārējiem noteikumiem (865.-868. p.), tikai ar to izņēmumu, ka arī ļaunticīgam valdītājam jāatlīdzina viņa derīgie izdevumi, ja vien priekšmets, kura vērtība ar tiem palielināta, vēl tiešām pastāv.

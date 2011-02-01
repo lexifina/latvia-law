@@ -1,0 +1,2 @@
+PIEKTĀ APAKŠNODAĻA
+Norēķināšanās pienākums

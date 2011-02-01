@@ -1,0 +1,1 @@
+31. No saderināšanās izrietošās prasības noilgst viena gada laikā, skaitot no tās dienas, kad saderināšanās atcelta vai kad saderinātais no tās atkāpies, bet saderinātās līgavas grūtniecības gadījumā - no tās dienas, kad viņa dzemdējusi, ja tajā laikā saderināšanās jau bijusi atcelta vai saderinātais no tās bijis atkāpies.

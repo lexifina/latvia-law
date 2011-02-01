@@ -1,0 +1,1 @@
+2338. No lietvedības izrietošie pienākumi pāriet arī uz mantiniekiem, bet tikai mantojuma apmērā. Bet ja viņi šo lietvedību turpina, tad viņu atbildība par savu pašu darbību noteicama uz vispārēja pamata (2332. un turpm.p.).

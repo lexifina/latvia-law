@@ -1,0 +1,1 @@
+350. Kad aizbildnību nobeidz, no aizbildnības atbrīvotais dod bijušajam aizbildnim parakstu par to, ka visu viņam pienākošos mantu viņš ir saņēmis un ka pret aizbildni viņam nekādu prasījumu nav. Kad bāriņtiesai iesniegts šāds paraksts līdz ar lūgumu par atlaišanu, tā aizbildni atlaiž. Strīds par minēto parakstu pieļaujams tikai tad, ja vēlāk atklāj acīm redzamu viltu vai kļūdu.

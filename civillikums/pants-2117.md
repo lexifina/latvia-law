@@ -1,0 +1,1 @@
+2117. Iznomājot vai izīrējot lietu tālāk apakšnomniekam vai apakšīrniekam, no pirmā līguma izrietošās attiecības nepāriet pilnā apmērā uz pēdējo un katrs līgums pastāv pilnīgi patstāvīgi. Apakšnomniekam vai apakšīrniekam tomēr ir tiesība maksāt nomas vai īres maksu tieši pirmajam iznomātājam vai izīrētājam tādā apmērā, cik liels ir pirmā nomnieka vai īrnieka parāds.

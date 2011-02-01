@@ -1,0 +1,1 @@
+313. Ja, piedzenot nepilngadīgā mantotu vai viņa agrākā aizbildņa ieguldītu kapitālu vai pērkot viņam nekustamo īpašumu, nepilngadīgajam rodas kādi zaudējumi, aizbildnis atbild tikai par ļaunu nolūku un rupju neuzmanību.

@@ -1,0 +1,2 @@
+1752. Ja apķīlātais pielaidis kādu vainu, tad viņam, bez zaudējumu atlīdzības, jāsamaksā vēl ķīlas jeb izpirkuma nauda, kas maksājama arī tajos gadījumos, kad vienīgi traucēts valdījums, kaut arī nebūtu nodarīti nekādi zaudējumi.
+P i e z ī m e. Ķīlas nauda ņemama par katru apķīlāto kustoni pēc takses, kuru katriem trim gadiem izdod un izsludina vispārējai zināšanai zemkopības ministris saziņā ar iekšlietu ministri.

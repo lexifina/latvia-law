@@ -1,0 +1,2 @@
+2270. Likvidācijas dalībnieki ir visi biedri. Mirušā biedra mantiniekiem jāizvēlas kopīgs pārstāvis. Konkursā nonākušā biedra vietā par dalībnieku likvidācijā nāk attiecīgais konkursa organs. Likvidācijā var kopā ar biedriem piedalīties arī kreditors-piedzinējs, kas uzteicis sabiedrību (2265.p.).
+Likvidācijas dalībnieki var izvēlēt par likvidātoriem arī vienu vai vairākas personas no sava vidus, kā arī trešās personas.

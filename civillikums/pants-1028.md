@@ -1,0 +1,1 @@
+1028. Ja kāda no 1026. pantā minētām personām nomirst pa to laiku, kamēr šķērslis pastāv, vai kaut arī pēc tam, bet iekam notecējis ieilguma termiņš, tad tas laiks, pa kuru ieilgums bijis apstājies, ieskaitāms arī šās personas mantiniekiem, ja vien pēdējie nav bijuši par viņas aizbildņiem vai aizgādņiem un kā tādi nav nokavējuši pārtraukt ieilgumu viņu gādībā esošo labā.

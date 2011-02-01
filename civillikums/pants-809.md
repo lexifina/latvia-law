@@ -1,0 +1,1 @@
+809. Mantojuma atstājējs var atcelt paša piešķirto legātu ar katru gribas izteikumu, kas izsacīts vai nu noteikti, vai klusējot, ar zināmu darbību, kura nepielaiž šaubas par mantojuma atstājēja nodomu.

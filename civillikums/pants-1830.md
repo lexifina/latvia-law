@@ -1,0 +1,1 @@
+1830. Kad tādā gadījumā (1829.p.) vajadzība zināmā mērā pagarināt termiņu izriet jau no pašas saistības rakstura, tad parādniekam, ja viņš nevar labprātīgi vienoties ar kreditoru, noliekams termiņš pēc tiesas ieskata, kura pie tam ievēro izpildījuma vietas attālumu, izpildījumam nepieciešamo laiku, citus pašā priekšmetā pastāvošos šķēršļus un dalībnieku varbūtējo nodomu.

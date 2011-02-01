@@ -1,0 +1,1 @@
+2314. Pilnvarnieka darbība pēc tam, kad viņam ticis zināms par pilnvarojuma atsaukšanu, nav spēkā, izņemot tos gadījumus, kad trešā persona, kas pie tam piedalījusies bez pašas vainas, nav zinājusi par pilnvarojuma atsaukšanu.

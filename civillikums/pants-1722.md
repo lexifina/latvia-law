@@ -1,0 +1,1 @@
+1722. Līgumsoda samaksa neatsvabina šā soda cietēju ne no procentiem vai augļiem, kas no viņa pienākas, ne no zaudējumu atlīdzības, ciktāl tie pārsniedz līgumsoda apmēru, ja vien nav tieši norunāts pretējais.

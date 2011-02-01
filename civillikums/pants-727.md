@@ -1,0 +1,1 @@
+727. Vienošanās par to, lai mantojumu nekad nedalītu, nav spēkā. Līdzmantinieki var vienoties mantojumu paturēt nedalītu zināmu laiku, bet arī tad var prasīt mantojuma dalīšanu pirms nolīgtā laika, ja tiesa dalīšanas iemeslus atzīst par svarīgiem.

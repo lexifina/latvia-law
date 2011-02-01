@@ -1,0 +1,1 @@
+1665. Kā parādnieka, tā arī kreditora nokavējuma sekas novērš, ja nokavētājs piesola izpildīt vai pieņemt to, kas pēc līguma pienākas, un nodrošināt savam pretiniekam arī to, uz ko viņam ir tiesība sakarā ar nokavējumu.

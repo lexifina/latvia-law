@@ -1,0 +1,1 @@
+853. Visas tiesiskās attiecības, kas zīmējas uz galveno lietu, pašas par sevi attiecas arī uz tās blakus lietām, kādēļ, atsavinot galveno lietu, pie tās piederīga blakus lieta šaubu gadījumā atzīstama par atsavinātu kopā ar to, ja vien nav tieši noteikts pretējais.

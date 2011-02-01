@@ -1,0 +1,1 @@
+1448. Tāpat (1447.p.) līdzēju savstarpējas vienošanās trūkums iznīcina tiesisku darījumu arī tajā gadījumā, kad pārpratums attiecies uz lietas identitāti un katrs līdzējs domājis citu tās veidu vai šķiru.

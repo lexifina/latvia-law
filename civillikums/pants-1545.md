@@ -1,0 +1,1 @@
+1545. Līgums par svešu lietu, kaut arī tas noslēgts bez tās īpašnieka gribas un ziņas, nodibina spēkā esošu prasījuma tiesību, izņemot gadījumu, kad līgums attiecas uz noziedzīga nodarījuma ceļā iegūtu lietu un persona, kurai dots apsolījums, to zina.

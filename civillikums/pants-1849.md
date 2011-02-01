@@ -1,0 +1,1 @@
+1849. Ja prasījums un pretprasījums jāsamaksā dažādās vietās, tad tas tāpat nav par šķērsli to ieskaitam, tikai jāatlīdzina kreditoram (bet ne parādniekam, kurš prasa ieskaitu) zaudējumi, kādi viņam var rasties saņemot samaksu citā vietā.

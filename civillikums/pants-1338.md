@@ -1,0 +1,1 @@
+1338. Ja ieķīlāto prasījumu dzēš, izpildot to par labu ķīlas ņēmējam, tad pēdējais, saņemot naudas summu, izlīdzinās ar parādnieku, bet ja ieķīlātā prasījuma priekšmets bijis ķermeniska lieta, iegūst uz to tiešu ķīlas tiesību.

@@ -1,0 +1,1 @@
+528. Kad kaitējums noticis bez mantinieka neuzmanības vai nokavējuma, legātārs var tikai prasīt, lai mantinieks cedē tam tiesību celt prasību pret vainīgo, vai lai dod nodrošinājumu, ka izdos novēlēto priekšmetu, ja tas nāktu viņa rokās.

@@ -1,0 +1,2 @@
+566. Ja legāta izpildītājam uzdots izdot legātāram noteiktu daudzumu atvietojamu lietu zināmos termiņos, kā ikgadus, ikmēnešus u. t. t., tad tāds legāts uzskatāms it kā par vairāku legātu kopību, no kuriem pirmais ir beznosacījuma legāts, bet pārējie nosacīti ar to, lai legātārs, iestājoties devuma termiņam, būtu vēl dzīvs.
+Zināmas summas legāts, kuras nomaksa sadalīta termiņos tikai šā legāta izpildītāja atvieglojumam, vienmēr uzskatāms par beznosacījuma legātu.

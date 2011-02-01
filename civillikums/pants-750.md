@@ -1,0 +1,1 @@
+750. Ja mantinieks, kas saņēmis savu daļu dabā, atsavina savu saimniecību vai tās daļu pirms desmit gadu notecējuma, tad līdzmantinieki var prasīt, lai tiem piemaksā starpību starp novērtējumu, pēc kura izdarītas izmaksas (747. un 748. p.), un tirgus vērtību dalīšanas laikā.

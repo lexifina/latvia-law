@@ -1,0 +1,1 @@
+2287. Izlozētājs atbild nevien par izlozējamās lietas esamību, bet arī nes risku par katru nejaušību ar to, līdz izlozes brīdim. Ja lieta pirms tam iet bojā, tad viņam jāatdod izlozes dalībniekiem viņu iemaksas.

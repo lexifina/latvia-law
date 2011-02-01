@@ -1,0 +1,1 @@
+2025. Visos tajos gadījumos, kuros risku nes pircējs, viņam par labu nāk arī visi labumi no pirktās lietas, kā tās pieaugumi, cenas paaugstinājumi un uz pirkuma noslēgšanas laiku vēl neievāktie augļi.

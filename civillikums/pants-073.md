@@ -1,0 +1,1 @@
+73. Laulātie dzīvo šķirti, ja viņiem nav kopīgas saimniecības un viens no laulātajiem noteikti negrib to atjaunot, noliedzot laulības kopdzīves iespējamību. Kopīga saimniecība var nepastāvēt arī tad, ja laulātie šķirti dzīvo kopīgā dzīvoklī.

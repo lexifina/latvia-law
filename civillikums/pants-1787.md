@@ -1,0 +1,1 @@
+1787. Aprēķinot atrauto peļņu, nav jāņem par pamatu tikai varbūtības, bet nedrīkst būt šaubu vai vismaz jābūt pierādītam līdz tiesisku pierādījumu paticamības pakāpei, ka šāds pametums cēlies, tieši vai netieši (1773.p.), no tās darbības vai bezdarbības, ar ko zaudējums nodarīts.

@@ -1,0 +1,1 @@
+1054. Ja atbildētājs valda ļaunticībā, tad viņš atbild arī par apstrīdamās lietas un tās piederumu nejaušu bojā eju vai bojāšanos, ja vien tas pats nebūtu noticis ar lietu arī tad, kad tā būtu nodota īpašniekam agrāk.

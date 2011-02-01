@@ -1,0 +1,2 @@
+735. Neatvietojamas kustamas lietas, kuras ķermeniski nevar sadalīt - ja mantinieki nevienojas citādi - vai nu pārdodamas izsolē, izdalot tajā ieņemto naudu, vai nododamas atsevišķiem mantiniekiem pēc lozes par novērtējuma summu, vai arī pārdodamas izsolē starp pašiem mantiniekiem, kas pēc tam izdala ieņēmumu samērīgi ar savām mantojuma daļām.
+Šādā kārtībā dalāms arī nekustams īpašums, ja to nav iespējams sadalīt dabā.

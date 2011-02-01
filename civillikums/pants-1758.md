@@ -1,0 +1,1 @@
+1758. Starp tirgotājiem, kuriem ir vienam ar otru tekoši rēķini, savstarpēja likumisko procentu pieskaitīšana par tīro atlikumu, kāds izrādījies uz šo rēķinu noslēgšanas laiku, uzskatāma kā klusējot pieņemta arī bez iepriekšējas noteiktas norunas par to.

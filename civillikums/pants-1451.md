@@ -1,0 +1,1 @@
+1451. Maldība ir svarīga, kad līguma priekšmetā pieņemta tāda īpašība, kuras dēļ šis priekšmets būtu pieskaitāms nevis tai lietu šķirai, pie kuras tas patiesi pieder, bet citai. Bet pie tam jāgriež vērība uz to, vai tiešām minētais pieņēmums pamudinājis maldījušos personu noslēgt līgumu tā tagadējā veidā.

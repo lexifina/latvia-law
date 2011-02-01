@@ -1,0 +1,3 @@
+2217. Ja līgumā nav nosacīts, lai uzņēmējs pasūtījumu izpilda personīgi, un ja šāds nosacījums nav atzīstams kā klusējot pieņemts, kā piemēram, tādā pasūtījumā, kura izpildīšanai domātas uzņēmēja sevišķās zināšanas un māksla, tad viņš var pasūtījuma izpildīšanu uzticēt uz savu risku arī trešai personai.
+Ja pasūtījums paliek vai nu pavisam neizpildīts vai vismaz nepabeigts, vai ir izpildīts slikti vai citādi nekā pasūtītājs norādījis, vai nav ticis laikā gatavs, kā arī ja apstrādāšanai doto lietu pēc darba pabeigšanas neatdod, tad uzņēmējam jāatlīdzina pasūtītājam nodarītie zaudējumi.
+Uzņēmējam jāatlīdzina zaudējumi arī tad, kad vaina ir viņa paša neprašanā vai arī tajā apstāklī, ka viņš nodarbinājis nepratējus, vieglprātīgus vai ļaunprātīgus palīgus.

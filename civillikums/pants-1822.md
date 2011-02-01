@@ -1,0 +1,1 @@
+1822. Noteikti apzīmēta lieta jādod tur, kur tā izpildījuma laikā atrodas. Bet ja saistītais ļaunprātīgi šo lietu aizgādājis prom no tās vietas, kur tā līdz tam bijusi, tad viņam tā jādod tur, kur kreditors prasa.

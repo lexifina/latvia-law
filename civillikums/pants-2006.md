@@ -1,0 +1,1 @@
+2006. Ja abām pusēm vai kaut arī vienīgi pircējam bijis zināms, ka pārdoto lietu nav bijis atļauts atsavināt, tad līgums nav spēkā. Bet ja tas bijis zināms tikai pārdevējam, tad līgums paliek spēkā un pārdevējam jāatlīdzina pircējam zaudējumi. Beidzot, ja tas nav bijis zināms nevienai pusei, tad līgums nav spēkā.

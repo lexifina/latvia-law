@@ -1,0 +1,1 @@
+1669. Ja saistības tiesībā piedalās no vienas vai otras puses vai no abām pusēm vairākas personas, tad prasījums un tam atbilstošā saistība ir vai nu dalīti, tā ka katrs kreditors var prasīt tikai savu priekšmeta daļu un katram parādniekam jāizpilda tikai sava saistības daļa, vai arī nedalīti.

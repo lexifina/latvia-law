@@ -1,0 +1,1 @@
+1863. Atcēlēju līgumu var noslēgt arī ar darījuma dalībnieku klusējot izteiktu gribu. No tam vien, ka parādniekam atdota atpakaļ ķīla, nevar secināt, ka parāds atlaists, ja vien tādu secinājumu neattaisno sevišķi iemesli.

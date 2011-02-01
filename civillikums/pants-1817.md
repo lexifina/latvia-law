@@ -1,0 +1,1 @@
+1817. Kas izpildījumu devis tādai personai, kurai nav bijis tiesības to saņemt, nav ar to atsvabināts no savas saistības pret kreditoru, bet var tomēr prasīt no izpildījuma saņēmēja, lai tas saņemto atdod.

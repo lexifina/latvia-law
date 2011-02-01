@@ -1,0 +1,1 @@
+1339. Dzēšot ieķīlāto prasījumu, izbeidzas arī ķīlas tiesība uz to. Bet ja prasījums ir dzēsts, samaksājot pirmajam kreditoram, pēc tam, kad ķīlas ņēmējs, uz 1335. panta pamata, ieķīlātāja parādniekam jau paziņojis par ieķīlājumu, tad šī samaksa neatsvabina ieķīlātāja parādnieku no viņa saistības.

@@ -1,0 +1,1 @@
+707. Mantojuma atstājēja kreditoriem jāgriežas ar saviem prasījumiem pie mantinieka, kuram, ja no mantojuma nepietiek, jāsamaksā parādi no savas paša mantas; bet citādā ziņā šos parādus samaksājot jāievēro mantojuma atstājēja noteikumi.

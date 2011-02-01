@@ -1,0 +1,1 @@
+2030. Ja pirkto lietu nemaz nenodod vai nenodod attiecīgā kārtā, tad pircējs var prasīt atlīdzību par visiem zaudējumiem, it sevišķi ja nodošana kļuvusi neiespējama aiz pārdevēja vainas. Pārdevējam patvaļīgi atteicoties lietu nodot, pret viņu var lietot tiesas piespiedu līdzekļus.

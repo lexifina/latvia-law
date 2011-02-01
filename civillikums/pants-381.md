@@ -1,0 +1,1 @@
+381. Ja pēc pazudušā izsludināšanas par mirušu pierāda, ka viņš nomiris citā laikā, tās personas, kam šajā laikā piederējusi tiesība mantot, var prasīt, lai tām nodod palikušo mantu, bet arī tikai ar 380. pantā norādītajiem aprobežojumiem.

@@ -1,0 +1,1 @@
+1800. Prasības cesija, ja par to nav citādi norunāts, atzīstama par paša tā prasījuma cesiju, kurš ir prasības priekšmets; bet uz cesionāru (1801.p.) pāriet tikai prasījuma tiesība, bet ne tā līgumiskā attiecība, no kuras šī tiesība izriet.

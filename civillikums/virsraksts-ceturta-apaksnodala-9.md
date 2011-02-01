@@ -1,0 +1,2 @@
+CETURTĀ APAKŠNODAĻA
+Tiesiska darījuma sastāvdaļas

@@ -1,0 +1,1 @@
+1343. Ja kāds labticīgi pieņem par rokas ķīlu sava prasījuma nodrošināšanai tādu kustamu lietu, kuru īpašnieks labprātīgi uzticējis (1065. p.) ieķīlātājam, tad šī lieta atbild ķīlas ņēmējam par viņa prasījuma nolīdzinājumu, līdz kamēr to izpērk ieķīlātājs vai īpašnieks.

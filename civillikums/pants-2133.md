@@ -1,0 +1,1 @@
+2133. Nomnieka vai īrnieka tiesība uz zaudējumu atlīdzību (2132.p.) atkrīt, ja iznomātājs vai izīrētājs dod viņam agrākās lietas vietā tādu pašu un ne mazāk noderīgu lietu, pie kam tomēr jāpieņem, ka lietas iznomātājs vai izīrētājs līgumu noslēdzot bijis labā ticībā.

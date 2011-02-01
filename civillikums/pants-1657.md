@@ -1,0 +1,1 @@
+1657. Tiesa var parādnieku atsvabināt no viņam neizdevīgām nokavējuma sekām arī citos gadījumos, kad viņu nevar vainot ne uzmanības trūkumā, ne vispār vieglprātībā vai nolaidībā, vai kad izpildīšana nav notikusi nepārvaramas varas dēļ.

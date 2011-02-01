@@ -1,0 +1,1 @@
+1350. Ja ķīlas ņēmēja prasījums ir kautkādā kārtā nolīdzināts vai viņa ķīlas tiesība kā citādi izbeigusies, tad viņam rokas ķīla nekavējoties jāatdod parādniekam, tiklīdz pēdējais pēc tās ierodas, ja vien ķīlas ņēmējam nav bijusi tiesība arī pēc tam lietu aizturēt (1353.p.), vai ja viņš pats nav kļuvis par tās īpašnieku un var to tūliņ pierādīt.

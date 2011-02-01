@@ -1,0 +1,1 @@
+1668. Ja otra puse bez iebildumiem pieņem nokavētu izpildījumu, tad tas neatņem tiesības vēlāk izvirzīt citus ar nokavējumu saistītus prasījumus, ja vien viņa no šādiem blakus prasījumiem nav noteikti atteikusies.

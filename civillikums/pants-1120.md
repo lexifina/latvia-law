@@ -1,0 +1,1 @@
+1120. Zemes īpašnieka tiesība ierīkot ūdensspēka izmantošanas ietaises nav nekādi aprobežota tikai tajā gadījumā, kad upe, uz kuras šīs ietaises ierīkojamas, iesākas viņa paša robežās un kad nevienam no augšgala kaimiņiem nevar rasties zaudējumi no ūdens aizsprostojumiem vai aizdambējumiem.

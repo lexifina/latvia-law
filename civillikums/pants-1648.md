@@ -1,0 +1,1 @@
+1648. Ja līguma attiecībās, vienalga, vai pēc paša līguma vai jau pēc likuma, vienai pusei jāsargā kāda lieta, tad tas, kam šis pienākums uzlikts, atbild kā par šās lietas nozagšanu, tā arī par tās iegūšanu trešās personas īpašumā ar ieilgumu.

@@ -1,0 +1,1 @@
+500. Ja kādam novēlēts nevis viss mantojums, ne arī tā daļa attiecībā pret visu mantojumu, bet tikai atsevišķs mantojuma priekšmets, tad novēlējumu sauc par legātu, bet to, kam tas novēlēts, par legātāru.

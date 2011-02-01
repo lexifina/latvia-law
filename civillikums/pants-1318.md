@@ -1,0 +1,1 @@
+1318. Ja lietu ieķīlājot ieķīlātājs vēl nav bijis tās īpašnieks, bet tomēr ir to valdījis tādā kārtā, ka varētu to iegūt par īpašumu ar ieilgumu (998. un turpm. p.), tad ieilguma tecējums viņam var turpināties un beigties arī pa to laiku, kamēr lieta ieķīlāta, kaut arī viņš būtu nodevis to valdīt un lietot ķīlas ņēmējam.

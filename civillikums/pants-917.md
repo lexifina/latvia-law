@@ -1,0 +1,1 @@
+917. Ja atbildētājs pierāda, ka prasītājs valdījumu ieguvis no viņa paša prettiesīgi (909. p. 2. d.), tad prasītāja sūdzība atraidāma. Bet atbildētāja ieruna, ka prasītājs valdījumu ieguvis prettiesīgi no trešās personas, nav jāievēro.

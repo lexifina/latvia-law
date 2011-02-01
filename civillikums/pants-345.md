@@ -1,0 +1,1 @@
+345. Ja kāds no radiniekiem vai arī no svešām personām dabū zināt par nepilngadīgajam no aizbildņa pārvaldības draudošām briesmām, tad katram no viņiem, kā arī nepilngadīgajam pašam ir tiesība ziņot par to bāriņtiesai.

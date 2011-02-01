@@ -1,0 +1,1 @@
+1941. Aizdevums var būt spēkā arī nenododot pašas lietas, ja līdzēji vienojas, lai aizņēmējs atstāj pie sevis kā aizdevumu citas atvietojamas lietas, ko viņš savkārt ir parādā aizdevējam uz kāda cita pamata.

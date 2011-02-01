@@ -1,0 +1,1 @@
+1869. Pārjaunojuma sekas ir tās, ka agrākais prasījums ar visām pie tā piederīgām blakus tiesībām (ķīlu, galvojumu, procentiem, līgumsodu) izbeidzas, it kā tas būtu izpildīts, un tā vietā nodibinās jauns prasījums, uz kuru agrākā prasījuma blakus tiesības neattiecas, ja vien nav tieši norunāts pretējais.

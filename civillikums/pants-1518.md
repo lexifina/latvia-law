@@ -1,0 +1,1 @@
+1518. Ja vietnieks pārkāpis viņam piešķirto varu vai ja viņam nemaz nav bijis vietnieka īpašību, tad otrs līdzējs var vērst savus prasījumus tikai pret viņu, ja vien atvietojamais nav vēlāk līgumu apstiprinājis.

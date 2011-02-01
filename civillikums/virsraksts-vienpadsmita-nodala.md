@@ -1,0 +1,2 @@
+VIENPADSMITĀ NODAĻA
+Dāvinājums

@@ -1,0 +1,1 @@
+2329. Ja kāds vēlāk apstiprina savu lietu vešanu, kas uzsākta vai jau nobeigta bez viņa uzdevuma, tad lietveža tiesiskais stāvoklis ar to nepārgrozās, bet attiecībā uz lietu vešanas apstiprinātāju piemērojami pilnvarojuma līguma noteikumi.

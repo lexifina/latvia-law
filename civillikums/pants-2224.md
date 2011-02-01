@@ -1,0 +1,1 @@
+2224. Ja apstrādāšanai nodota lieta vai tas, kas no tās izgatavots, iet bojā bez uzņēmēja vainas pēc tam, kad darbs jau pabeigts, bet vēl pirms nodošanas, tad norunātā maksa tomēr ir jāsamaksā, ja vien pasūtījums nav izpildīts tādā kārtā, ka būtu bijis pilnīgs pamats atteikties darbu pieņemt.

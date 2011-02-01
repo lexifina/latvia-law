@@ -1,0 +1,1 @@
+649. Ja mantojuma līguma priekšmets ir nekustams īpašums un šo līgumu ieved zemes grāmatās mantojuma atstājējam dzīvam esot, tad viņš šo nekustamo īpašumu var atsavināt, ieķīlāt vai apgrūtināt ar lietu tiesībām tikai ar līgumiskā mantinieka piekrišanu.

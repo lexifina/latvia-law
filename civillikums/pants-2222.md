@@ -1,0 +1,2 @@
+2222. Pasūtītājam jāpieņem no uzņēmēja tā izpildītais pasūtījums; pretējā gadījumā viņš atbild par visām nokavējuma sekām.
+Ja pasūtītājs pielīdzis sev vai kādam citam tiesību iepriekš pārbaudīt pasūtījumu, tad šis pārbaudījums jāizdara. Bet ja pasūtītājs vilcinās pasūtījumu pārbaudīt, tad tiesa var viņam nolikt tam nolūkam termiņu, pēc kura notecējuma pieņemams, ka viņš izpildīto pasūtījumu atzinis par labu.

@@ -1,0 +1,1 @@
+2201. Graudnieks, ja nav norunāts citādi, dabū kā atlīdzību pusi ražas, kas paliek pāri pēc izsētās sēklas atņemšanas (2200.p.), kā arī pusi lopbarības un pakaišu un tiesību lietot pusi no ganībām. Kopīgā ganībā graudnieks var laist tādu pašu liellopu un sīklopu skaitu, kādu tur saimnieks.

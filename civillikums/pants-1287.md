@@ -1,0 +1,1 @@
+1287. Ja prasījums nodrošināts ar ķīlas tiesību uz vairākām lietām un nolīdzināts tikai pa daļai, tad kreditors patur ķīlas tiesību uz visām ieķīlātām lietām, tāpēc ka katra no tām visā sastāvā atbild par viņa prasījumu.

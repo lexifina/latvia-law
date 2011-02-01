@@ -1,0 +1,3 @@
+1241. Ja īpašuma tiesības uz valdošo un kalpojošo nekustamo īpašumu sakrīt vienā personā tikai uz zināmu laiku, tad tam notekot servitūts atkal atjaunojas, ja vien nav noteikts citādi; bet ja sakritums ir bez nosacījuma un bez termiņa, tad arī servitūts izbeidzas uz visiem laikiem.
+Ja tikai kāda valdošā vai kalpojošā nekustamā īpašuma daļa ir savienota ar otru, tad attiecībā uz nesavienoto daļu servitūts joprojam paliek spēkā.
+Ja kalpojošais nekustamais īpašums pieder vairākām personām kopīgi, tad valdošā un kalpojošā nekustamā īpašuma savienošana izbeidz servitūtu tikai tajā gadījumā, kad visi kalpojošā nekustamā īpašuma īpašnieki kopīgi ieguvuši valdošo.

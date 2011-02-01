@@ -1,0 +1,1 @@
+411. Kad piemērojama pārstāvības tiesība (408. un 409. p.), mantojums dalāms nevis pēc personu, bet gan pēc cilšu skaita, t. i. visi pārstāvamā pēcnācēji dabū kopā to mantojuma daļu, kuru būtu dabūjis mirušais tēvs vai māte, ja tie būtu vēl dzīvi aicinot mantot.

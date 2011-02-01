@@ -1,0 +1,1 @@
+1471. Dabiskas ir tās darījuma sastāvdaļas, kuras, ja darījums noslēgts tā būtiskos pamatos, ir jau pēc likuma tā tiešās sekas. Tādēļ šīs sastāvdaļas saprotamas pašas par sevi, arī bez sevišķas norunas, bet tās var atcelt vai grozīt ar sevišķu vienošanos, kura jāpierāda tam, kas uz to atsaucas.

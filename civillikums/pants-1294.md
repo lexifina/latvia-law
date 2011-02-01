@@ -1,0 +1,1 @@
+1294. Par ķīlas tiesības priekšmetu var būt visas lietas, kuras atsavināt nav noteikti aizliegts, nevien jau pastāvošās, bet arī nākamās lietas, kā ķermeniskas (kustamas vai nekustamas), tā arī bezķermeniskas.

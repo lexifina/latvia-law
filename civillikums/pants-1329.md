@@ -1,0 +1,1 @@
+1329. Ja ķīlas ņēmējs sava prasījuma apmierināšanai viņam ieķīlāto lietu pārdod vai pieprasa tās pārdošanu izsolē, tad ieņemtās summas varbūtējs pārpalikums, kas pārsniedz viņa prasījumu, atdodams pārdotās ķīlas īpašniekam, ja vien uz to nav tiesības vēl citiem kreditoriem.

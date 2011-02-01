@@ -1,0 +1,1 @@
+2351. Ja nomirējam bijis pienākums kādu uzturēt, tad šis pienākums pāriet uz to, kas vainīgs viņa nāvē. Tādas atlīdzības apmēru noteic pēc tiesas ieskata, pie kam jāņem vērā mirušā vecums, viņa spēja, nāves laikā, iegūt sev uzturu un, beidzot, tās personas vajadzība, kam noteicama atlīdzība. Ja pēdējai ir pietiekoši dzīves līdzekļi, tad atlīdzības pienākums atkrīt.

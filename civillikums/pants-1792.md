@@ -1,0 +1,1 @@
+1792. Ja zaudējumu atlīdzības prasījums izriet nevis no līgumiskas saistības pārkāpuma, bet no darbības, kas pati par sevi bijusi prettiesīga, tad zaudējuma vērtējums samērojams ar priekšmeta vērtību zaudējuma nodarīšanas laikā.

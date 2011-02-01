@@ -1,0 +1,1 @@
+1552. Nosacījumi ir vai nu nejauši, kad to iestāšanās nemaz neatkarājas no nosacīti tiesīgās personas patvaļas, vai patvaļīgi, kad tie atkarājas vienīgi no šās personas patvaļas, vai beidzot jaukti, kad nejaušība sakrīt ar patvaļu. No šiem trim nosacījumu veidiem atšķiras vēl tādi, kuru iestāšanās atkarājas no trešās personas patvaļas.

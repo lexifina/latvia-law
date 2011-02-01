@@ -1,0 +1,1 @@
+2. Pārdevēja pienākumi

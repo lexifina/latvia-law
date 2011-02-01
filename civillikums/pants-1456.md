@@ -1,0 +1,1 @@
+1456. Kad vairākpusējā darījumā ir maldījies tikai viens darījuma dalībnieks, tad viņš vienmēr var prasīt, lai to izpilda, ja viņam ir pie tam tiesiska interese un ja viņš savkārt ir izpildījis saistības, kuras uzņēmies.

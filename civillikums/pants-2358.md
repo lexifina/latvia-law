@@ -1,0 +1,1 @@
+2358. Ja zaudējumu nodara izmetot vai izlejot kautko uz ielu vai citu vietu, pa kuru ļaudis staigā vai kur tie mēdz atrasties, vai nepienācīgā kārtā nostiprinātiem priekšmetiem nokrītot no mājas uz ielu u.t.t., tad zaudējuma cietējs var prasīt zaudējumu atlīdzību no 2359.pantā norādītās personas.

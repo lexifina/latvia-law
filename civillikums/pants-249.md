@@ -1,0 +1,1 @@
+249. Likumiskos atteikšanās iemeslus var izlietot katrs neatkarīgi no tā, vai viņš iecelts par aizbildni pēc likuma vai ar testamentu; kas vēlas šo tiesību izlietot, tam par šādu iemeslu, bet, ja to ir vairāki, tad par tiem visiem kopā tikai jāpaziņo bāriņtiesai, tiklīdz viņš dabū zināt par savu iecelšanu.

@@ -1,0 +1,1 @@
+491. Viss, ko pirmmantinieks ieguvis par mantojuma naudu un lietām, nāk mantojuma pirmējo sastāvdaļu vietā un tādēļ ir jāizdod pēcmantiniekam, ja pēc iepriekšējā (490.) panta apstrīdot atsavinājumu pēcmantinieks nav jau atsavinātās lietas atdabūjis mantojumā.

@@ -1,0 +1,1 @@
+291. Ja nekustamā īpašuma iznomāšana ir aizbilstamajam izdevīgāka, nomas līguma projekts jāiesniedz bāriņtiesai apstiprināt. Aizbildnim pašam, viņa laulātajam un bērniem ir aizliegts nomāt aizbilstamā nekustamo īpašumu.

@@ -1,0 +1,1 @@
+1598. Attiesājumā ir nepieciešami, ka lieta attiesāta no tās ieguvēja par labu trešai personai, pilnīgi vai pa daļai, noteiktā tiesas kārtībā, uz tādas tiesības pamata, kas pastāvējusi jau atsavināšanas laikā.

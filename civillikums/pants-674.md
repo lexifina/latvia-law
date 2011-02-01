@@ -1,0 +1,1 @@
+674. Ja atbildētājs valdījis mantojumu ļaunā ticībā, tad viņam jānes risks par atsevišķiem priekšmetiem; turpretim labticīgs valdītājs atbild tikai no tā brīža, kad pret viņu celta prasība, un tikai par tādu zaudējumu, kas noticis viņa vainas dēļ; bet par iepriekšējo laiku viņš neatbild pat arī tad, ja viņš vainojams acīmredzamā nolaidībā.

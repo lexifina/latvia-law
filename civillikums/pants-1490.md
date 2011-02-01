@@ -1,0 +1,1 @@
+1490. Ja par minētās vienošanās nolūku (1489.p.) rodas strīds, tad šaubu gadījumā pieņemams, ka akta sastādīšana domāta vienīgi pierādījuma atvieglošanai. Tas ir it sevišķi tad, ja puses norunājušas uzrakstīt darījumu tikai pēc tam, kad tās jau vienojušās par visiem citiem tiesiskā darījuma noteikumiem.

@@ -1,0 +1,2 @@
+2304. Pilnvarnieks nedrīkst gūt no lietas peļņu sev pašam, bet viņam viss, ko viņš ar pilnvarojumu ieņēmis vai dabūjis, izņemot tikai to, ko pilnvarotājs no tā viņam piešķīris, kā arī visas uz uzdevuma pamata iegūtās lietas, tiesības un prasības, jāatdod pilnvarotājam, neizņemot arī to, ko viņš aiz maldības vai pārkāpjot pilnvarojumu saņēmis vairāk nekā pienācies.
+Pilnvarniekam jāatdod savam pilnvarotājam arī saņemtā vai saņemamā peļņa, augļi un procenti, kā arī viss, kas viņam bijis uzticēts uzdevuma izpildīšanai.

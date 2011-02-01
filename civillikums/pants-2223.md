@@ -1,0 +1,2 @@
+2223. Tiklīdz pasūtījums izpildīts un atzīts par labu, pasūtītājam jāsamaksā uzņēmējam norunātā maksa. Kur zināmiem darbiem pastāv normētas cenas, tur maksa noteicama pēc tām.
+Maksa var būt norunāta kā par visu darbu kopā, tā arī par tā daļām un arī pēc laika, ja vien uzņēmējs uzņēmies izpildīt visu pasūtījumu. Otrā gadījumā uzņēmējs var pēc katras daļas pabeiguma prasīt, lai to pieņem un par to samaksā, bet pēdējā - lai samaksā termiņos, ja vien nav citādi norunāts. Prasīt samaksu uz priekšu uzņēmējs var tikai tad, kad viņš to tieši pielīdzis.

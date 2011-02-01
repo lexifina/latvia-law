@@ -1,0 +1,1 @@
+626. Testamenta izpildītājam jāizpilda viņam uzliktie pienākumi pēc iespējas ātri un ar to rūpību, ar kādu viņš rīkojas savās paša lietās. Ja viņam noteikta par viņa pūlēm atbilstoša atlīdzība, tad viņš atbild mantiniekiem un citām mantojumā ieinteresētām personām arī par vieglu neuzmanību.

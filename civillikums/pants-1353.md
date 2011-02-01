@@ -1,0 +1,1 @@
+1353. Ķīlas ņēmējs var aizturēt ķīlu arī par visiem saviem pārējiem, pat personiskiem prasījumiem pret ieķīlātāju; bet šī tiesība viņam ir tikai pret pašu ieķīlātāju un tā mantiniekiem, bet ne pret trešām personām. Bez tam tiesība aizturēt lietu neaptver vēl tiesību to pārdot kreditora citu prasījumu nolīdzināšanai.

@@ -1,0 +1,1 @@
+869. Izdevumus, ko taisījusi trešā persona ne pašai lietai, bet lietas augļiem un to ražošanai, ievākšanai un glabāšanai, nes vai atlīdzina tas, kas šos augļus saņēmis, un tādā mērā, kādā tie viņam devuši labumu.

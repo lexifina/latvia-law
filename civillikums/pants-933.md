@@ -1,0 +1,3 @@
+933. Noķerts savvaļas dzīvnieks, ja tas no jauna izsprūk brīvībā, atzīstams atkal par bezīpašnieka dzīvnieku, bet tikai tādā gadījumā, kad tas pavisam izzūd no sava vajātāja īpašnieka redzes aploka, vai kaut arī vēl būtu īpašniekam saredzams, bet tik lielā tālumā, ka nav vairs iespējams to vajāt.
+Savvaļas dzīvnieki, kas noķerti un ieslēgti sprostos, zivju kastēs un tamlīdzīgās ievietnēs, no kurām tie nevar izkļūt, nevar būt par piegūšanas priekšmetu.
+Savvaļas dzīvnieki, kas pēc to noķeršanas pieradināti un pierod pie zināmas vietas, paliek, kaut arī tie staigātu brīvībā, par to noķērēja īpašumu tik ilgi, kamēr neatmet paradumu atgriezties mājās.

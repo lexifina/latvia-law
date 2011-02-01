@@ -1,0 +1,1 @@
+TREŠĀ DAĻA. Lietu tiesības

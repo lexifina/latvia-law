@@ -1,0 +1,1 @@
+2128. Abām pusēm jāpiegriež no līguma izrietošām saistībām visa tā rūpība, kādu pēc taisnības var no viņām prasīt, it sevišķi lietas glabāšanas ziņā. Tādēļ viņas atbild viena otrai par katru zaudējumu, kas noticis viņu ļaunprātības vai neuzmanības dēļ, un tikai nejauši zaudējumi nevienam nav jāatlīdzina.

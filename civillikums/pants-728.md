@@ -1,0 +1,2 @@
+728. Mantojuma atstājējs var aizliegt uz noteiktu laiku atstātās mantas dalīšanu, bet aizliegt uz visiem laikiem dalīšanu viņš nevar.
+Ja testamentā aizliegts mantu dalīt, nenorādot laiku, tad dalīšanu var izdarīt ne agrāk kā pēc pieciem gadiem no mantojuma atstājēja nāves dienas, bet ja viņš atstājis nepilngadīgus bērnus un tie līdz šā termiņa notecējumam nav sasnieguši pilngadību, tad ne agrāk kā pēc tam, kad tie visi kļuvuši pilngadīgi.

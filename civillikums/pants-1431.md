@@ -1,0 +1,1 @@
+1431. Akta parakstīšana, vienalga, vai tas attiecas uz pašu parakstītāju vai trešo personu, uzskatāma par piekrišanu šim aktam, ja tā saturs parakstītājam bijis zināms un ja viņam tajā tiesiskā darījumā, uz kuru akts attiecas, ir personīga interese un ierunas tiesība.

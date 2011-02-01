@@ -1,0 +1,2 @@
+302. Bāriņtiesa pārbauda aizbildņu norēķinu pareizību gadu pēc gada; konstatējot kļūdas un vispār nepilngadīgā interesēm neizdevīgu aizbildņu darbību, tā pieprasa no viņiem paskaidrojumus un sper attiecīgus soļus.
+5. Atlīdzība aizbildņiem par izdevumiem un pūlēm

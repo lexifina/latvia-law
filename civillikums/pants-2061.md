@@ -1,0 +1,2 @@
+2061. Ja pircējs grib pārdot tālāk lietu, kas pirkta ar pirmpirkuma pielīgumu, tad viņam tā tūliņ pēc jaunā līguma noslēgšanas jāpiedāvā pirmpirkuma tiesīgajam, bet pēdējam par to, vai viņš grib šo tiesību izlietot vai ne, jāpaziņo - par kustamām lietām - nekavējoties, bet par nekustamām - divu mēnešu laikā.
+Ja pirmpirkuma tiesīgais nedod atbildi noliktā laikā, tad viņa pirmpirkuma tiesība izbeidzas.

@@ -1,0 +1,1 @@
+1316. Ieķīlātājs attiecībā uz viņa ieķīlāto lietu var izlietot visas īpašnieka tiesības, to starpā arī tiesību celt īpašuma prasību, ciktāl tā vispār pielaižama (1065. un 1066. p.) un nesaduras ar ķīlas ņēmēja tiesību.

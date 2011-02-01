@@ -1,0 +1,1 @@
+1247. Ja kādas lietas lietojuma tiesība novēlēta tā, lai tā sāktos tikai iestājoties zināmam nosacījumam vai termiņam, tad mantinieks drīkst piešķirt lietojuma tiesību uz tādu lietu trešai personai tikai tik ilgi, kamēr nav iestājies apzīmētais nosacījums vai termiņš.

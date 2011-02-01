@@ -1,0 +1,1 @@
+1711. Atcēlējs līgums starp kreditoru un parādnieku nāk par labu arī galviniekam, ja vien nav bijis pretējs nolūks, vai ja galvojums nav dots kā dāvinājums, tā ka galvinieks jau no paša sākuma atteicies vērst savu regresa prasību pret galveno parādnieku.

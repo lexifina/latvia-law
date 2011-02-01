@@ -1,0 +1,1 @@
+887. Lai iegūtu valdījumu caur vietnieku, pēdējam jāņem lieta savā varā ar gribu iegūt tās valdījumu ne sev, bet tam, ko viņš atvieto. Bet ja kāds nodod lietu zināmas personas vietniekam tieši ar nodomu nodot to tālāk atvietojamam, tad pēdējais iegūst valdījumu arī tad, ja viņa vietniekam būtu bijusi griba iegūt to sev vai kādam citam.

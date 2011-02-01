@@ -1,0 +1,1 @@
+1625. Lietas cenas samazinājuma prasības mērķis ir tas, lai samazinātu cenu vai citu kādu pretizpildījumu tādā mērā, par cik mazāk būtu dots vai izpildīts par lietu, ja tās trūkumi būtu bijuši zināmi.

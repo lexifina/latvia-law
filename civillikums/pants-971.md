@@ -1,0 +1,1 @@
+971. Ja zemes īpašnieks labā ticībā izlietojis kādām būvēm uz savas zemes svešus materiālus, tad, kaut gan tie kļūst par viņa īpašumu, tomēr materiālu vērtība, par cik viņš no tiem iedzīvojies, viņam jāatlīdzina to agrākajam īpašniekam; bet ja viņš tos izlietojis ļaunticīgi, tad viņam jāatlīdzina agrākajam īpašniekam visi nodarītie zaudējumi.

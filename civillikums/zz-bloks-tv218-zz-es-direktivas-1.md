@@ -1,0 +1,1 @@
+I PIELIKUMS (1102.pantam)

@@ -1,0 +1,2 @@
+2010. Ja pārdodot svešu lietu bez tās īpašnieka ziņas un piekrišanas, abas puses to zinājušas, tad līgums nav spēkā. Ja turpretim pircējs nav zinājis, ka pārdevējam nav bijis tiesības lietu atsavināt, tad viņš var prasīt no tā zaudējumu atlīdzību. Beidzot, ja to zinājis tikai pircējs, tad pārdevējam pret viņu nav nekādu pienākumu.
+Izņēmums no šā noteikuma ir 1065.pantā paredzētie gadījumi, kuros svešas lietas pārdošana ir spēkā un tās īpašnieks var vērsties tikai pret pārdevēju.

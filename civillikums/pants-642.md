@@ -1,0 +1,1 @@
+642. Mantojuma līgumos jāievēro noteikumi par neatņemamo daļu, ja vien tie, kam tā nākas, paši tieši vai piedaloties līgumā, nav atteikušies no savām tiesībām. Ja tas nav ievērots, tad kā mantojuma atstājējam dzīvam esot, tā arī pēc viņa nāves, neatraidāmie mantinieki var līgumu apstrīdēt.

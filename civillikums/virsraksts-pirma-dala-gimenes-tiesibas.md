@@ -1,0 +1,1 @@
+PIRMĀ DAĻA. Ģimenes tiesības

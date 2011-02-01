@@ -1,0 +1,1 @@
+1688. Izņemot nokavējumu (1687.p.), visas citas saistībai pretējas atsevišķa kopparādnieka darbības sekas krīt arī uz pārējiem. Tādēļ, ja saistības priekšmets ir bojāts vai iznīcināts aiz viena kopparādnieka vainas, par zaudējumiem atbild arī pārējie.

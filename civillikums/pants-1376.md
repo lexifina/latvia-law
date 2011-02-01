@@ -1,0 +1,1 @@
+1376. Ja pārjaunojums attiecas uz pašu prasījuma raksturu, tā ka ar to pārgrozās tiesiskās attiecības arī starp pārējiem prasījumiem, kuri agrāk vai vēlāk uz to pašu nekustamo īpašumu ievesti zemes grāmatās, tad tāda pārjaunojuma ievešanai zemes grāmatās ir vajadzīga nevien līdzēju, bet arī pārējo lietā ieinteresēto personu piekrišana.

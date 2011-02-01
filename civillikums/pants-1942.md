@@ -1,0 +1,1 @@
+1942. Ja kāds nodod otram kādu neatvietojamu lietu, lai tas to pārdotu un pēc tam atstātu pie sevis ieņemto summu kā aizdevumu, tad saņēmējs uzņemas risku par lietu no tās dienas, kad tā viņam nodota; bet aizdevums rodas tikai no tā laika, kad saņēmējs dabūjis pārdodot ieņemto summu.

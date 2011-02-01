@@ -1,0 +1,1 @@
+33. Izņēmuma gadījumā ar vecāku vai aizbildņu piekrišanu var doties laulībā persona, kas sasniegusi sešpadsmit gadu vecumu, ja laulība tiek noslēgta ar pilngadīgu personu. Ja vecāki vai aizbildņi bez svarīga iemesla liedzas dot atļauju, tad atļauju var dot bāriņtiesa pēc tās vietas, kur dzīvo vecāki vai iecelti aizbildņi.

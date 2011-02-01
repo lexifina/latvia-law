@@ -1,0 +1,1 @@
+1704. Kādā apmērā galvinieks apmierina kreditoru, tādā uz viņu pāriet šā pēdējā prasījumi pret galveno parādnieku. Prasības un ierunas no tās tiesiskās attiecības, kas pastāv starp galvinieku un galveno parādnieku, paliek negrozītas.

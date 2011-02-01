@@ -1,0 +1,1 @@
+1413. Par saistību tiesību priekšmetu var būt tikai kas iespējams; pretējā gadījumā darījums nav spēkā. Tomēr nav vajadzīgs, lai darījuma priekšmets jau pastāvētu tā taisīšanas laikā; darījums var attiekties arī uz nākamām lietām.

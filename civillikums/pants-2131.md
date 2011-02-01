@@ -1,0 +1,1 @@
+2131. Iznomātājs vai izīrētājs nedrīkst ne pats traucēt lietas un tās augļu lietošanu, ne atļaut citiem īrnieku vai nomnieku traucēt vai izstumt; abos gadījumos viņa pienākums ir īrniekam vai nomniekam atlīdzināt zaudējumus.

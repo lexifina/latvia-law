@@ -1,0 +1,1 @@
+268. Līgumus un citus tiesiskus darījumus starp nepilngadīgo un viņa aizbildni var noslēgt tikai ar bāriņtiesas piekrišanu. Ja nepilngadīgajam ir tikai viens aizbildnis, tad šādā gadījumā viņam jāieceļ vēl otrs.

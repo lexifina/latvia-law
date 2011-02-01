@@ -1,0 +1,1 @@
+2291. Pilnvarniekam var uzdot nevien vest atsevišķas un noteiktas lietas - ar speciālpilnvaru, - bet arī pārzināt visas pilnvarotāja lietas - ar universālpilnvaru, - kā arī tikai zināmas šķiras lietas - ar ģenerālpilnvaru.

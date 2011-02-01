@@ -1,0 +1,1 @@
+905. Valdītājs zaudē nekustamu lietu valdījumu, kad viņa vietnieku vardarbīgi izstumj. Bet ja lietu savā varā ir ņēmis cits vienīgi vietnieka nolaidības vai ļauna nolūka dēļ, tad agrākā valdītāja valdījums izbeidzas tikai tad, kad viņš, dabūjis zināt par varas atņemšanu, nesper attiecīgus soļus varas atņēmēja izstumšanai, vai arī viņa mēģinājums to izdarīt neizdodas.

@@ -1,0 +1,1 @@
+1053. Atbildētāja atbildība pret prasītāju ir dažāda, raugoties pēc tam, vai viņš ir labticīgs vai ļaunticīgs lietas valdītājs. No tā brīža, kad pret atbildētāju celta prasība, viņš atzīstams par ļaunticīgu valdītāju, kaut arī līdz tam būtu valdījis labā ticībā, tā ka viņš neatbild tikai par savu agrāko darbību un bezdarbību.

@@ -1,0 +1,1 @@
+1509. Divpusēji darījumi, kas uzliek kādus pienākumus abām pusēm, šaubu gadījumā iztulkojami tam par ļaunu, kurš attiecīgā gadījumā ir kreditors un kuram tādēļ vajadzēja izteikties skaidrāk un noteiktāk.

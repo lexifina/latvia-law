@@ -1,0 +1,1 @@
+1826. Ja izpildījumam noteiktas vairākas vietas un ja pie tam izpildīt var pa daļām, tad kreditoram ir tiesība prasīt katrā no šīm vietām tikai daļu no tā, kas viņam pienākas. Ja viņš ceļ prasību par visu vienā vietā, tad piemērojams iepriekšējā (1825.) panta otrās daļas noteikums.

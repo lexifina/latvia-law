@@ -1,0 +1,1 @@
+2238. Ja adresātu nevar atrast vai ja viņš atteicas mantu saņemt, tad pārvadātājam jārūpējas par mantas nolikšanu drošā vietā. Viņš var arī lūgt tiesu, lai mantu vai tās samērīgu daļu pārdod izsolē veduma maksas un viņa pārējo prasījumu segšanai.

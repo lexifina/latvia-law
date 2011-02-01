@@ -1,0 +1,1 @@
+1378. Parādnieka izdarīts nekustama īpašuma atsavinājums trešai personai negroza hipotēkas kreditora tiesības, un katru tādu atsavinājumu var izdarīt vienīgi atstājot spēkā ķīlas tiesības uz atsavināmo nekustamo īpašumu.

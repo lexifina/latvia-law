@@ -1,0 +1,1 @@
+III. Legāta tiesiskās sekas

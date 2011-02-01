@@ -1,0 +1,1 @@
+1281. Hipotēku var nodibināt kā nodrošinājumu prasījumiem, kas var rasties nākotnē no parādniekam atklāta kredita (kredithipotēka). Ierakstot šo hipotēku zemes grāmatās, jānorāda atklājamā kredita augstākā summa, kuras apmērā kredithipotēkai arī pieder pirmtiesība no tā laika, kad tā ierakstīta zemes grāmatās.

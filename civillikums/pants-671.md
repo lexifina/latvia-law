@@ -1,0 +1,1 @@
+671. Šo prasību var celt nevien pret katru trešo personu, bet arī pret līdzmantiniekiem, kas valda mantojumu un neatzīst prasītāja tiesību; bet ja līdzmantinieks valda tikai savu daļu, kamēr pārējās atrodas trešās personas valdījumā, tad prasība ceļama tikai pret pēdējo.

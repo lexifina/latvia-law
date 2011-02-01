@@ -1,0 +1,1 @@
+1143. Servitūti ir vai nu ēku, vai lauku servitūti, raugoties pēc tam, vai valdošais nekustamais īpašums ir ēka (vienalga, vai uz laukiem, vai pilsētā), vai zeme (lauks, tīrums, pļava, pagalms, dārzs u. t. l.).

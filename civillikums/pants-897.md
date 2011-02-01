@@ -1,0 +1,1 @@
+897. Kā valdījuma iegūšanai ir vajadzīga divējāda darbība (879. p.), tā arī valdījuma izbeigšanai vajadzīga tāda darbība, kas ir pretēja vienam vai otram no valdījuma iegūšanas un turpināšanas nosacījumiem.

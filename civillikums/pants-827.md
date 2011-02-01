@@ -1,0 +1,1 @@
+827. Kad kādam mantojums atrauts kā necienīgam, tad viņa vietā, ja par to nav nekādu sevišķu noteikumu, iestājas tas, kas aicināts mantot kopā ar atkritušo vai tieši pēc viņa, vienalga, vai tas būtu substitūts, vai līdzmantinieks, vai arī tuvākais likumiskais mantinieks. Legātiem, kas atrauti necienīgajiem, piemērojami 818. panta noteikumi.

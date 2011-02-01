@@ -1,0 +1,1 @@
+815. Ja testamentu uzrakstījis nevis testators pats, bet kāda cita persona, tad neviens šai personai par labu taisīts rīkojums, un tā tad arī viņai piešķirts legāts, nav spēkā, ja vien testators nav šo rīkojumu vēl noteikti un sevišķi apstiprinājis vai ja testamentu nav uzrakstījis viņa vienīgais likumiskais mantinieks.

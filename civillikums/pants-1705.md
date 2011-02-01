@@ -1,0 +1,1 @@
+1705. Galvinieks var vērst savu regresa prasību pret galveno parādnieku tikai pēc tam, kad viņš patiesi nolīdzinājis parādu vai tā daļu vai vismaz ar tiesas spriedumu viņam uzlikts pienākums to nolīdzināt. Kādā kārtā šis nolīdzinājums notiek, tas ir vienalga. Ar atlaidumu, kuru kreditors izdarījis par labu galviniekam, nesamazinās viņa prasības pret galveno parādnieku.

@@ -1,0 +1,1 @@
+1065. Īpašuma prasību nevar celt, ja īpašnieks kustamu lietu labprātīgi uzticējis citai personai, nododot to patapinājumā, glabājumā, ķīlā vai kā citādi, un šī persona valdījumu nodevusi kādai trešai personai. Šajā gadījumā pielaižama tikai personiska prasība pret to, kam īpašnieks savu lietu uzticējis, bet nevis pret trešo, labticīgo lietas valdītāju.

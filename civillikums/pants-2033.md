@@ -1,0 +1,1 @@
+2033. Pircējam vispirms jāsamaksā pirkuma maksa, kas, ja pirkums nav noslēgts uz kreditu vai ja samaksai nav norunāti sevišķi termiņi, jāizdara tūliņ, lietu nododot, tā tad tajā pašā laikā un tajā pašā vietā. Pirms samaksas saņemšanas pārdevējam lieta nav jānodod.

@@ -1,0 +1,1 @@
+2324. Ja lietas saņēmējs pārdod to dārgāk par īpašnieka nolikto cenu, tad pārpalikums pieder viņam. Bez tam viņš var prasīt atlīdzību par savām pūlēm, ja tā bijusi pielīgta. Ja lietas saņēmējam bijusi iespēja lietu pārdot par nolikto cenu un viņš to nav darījis, tad viņš par to nenes nekādu atbildību pret īpašnieku.

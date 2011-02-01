@@ -1,0 +1,1 @@
+1245. Ja personālservitūts noteikts uz tik ilgu laiku, kamēr kāda trešā persona sasniedz zināmu vecumu, bet pa tam šī trešā persona nomirst, šo vecumu nesasniegusi, tad servitūta izlietotājs patur savu lietojuma vai dzīvokļa tiesību līdz noteikto gadu notecējumam.

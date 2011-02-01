@@ -1,0 +1,1 @@
+596. Nosacījums, kura izpildīšana uzlikta vairākām personām, visām tām arī jāizpilda; bet ja dažas no tām to neizpilda, tad pārējās, kas to izpildījušas, dabū savas daļas no visiem novēlētās tiesības.

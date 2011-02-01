@@ -1,0 +1,1 @@
+1385. Ja izpircējam pašam ir prasījums, kas nodrošināts ar viņa izpērkamo nekustamo īpašumu, vai ja viņš pierāda, ka citi kreditori, kuru prasījumi nodrošināti ar hipotēku uz šo nekustamo īpašumu, ir ar mieru atzīt viņu par savu parādnieku, tad no savas iemaksājamās summas (1384. p.) viņš drīkst atvilkt šos parādus.

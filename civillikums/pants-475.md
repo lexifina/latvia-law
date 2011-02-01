@@ -1,0 +1,1 @@
+475. Ja iecelts viens mantinieks visam mantojumam un bez tam vēl vienam vai vairākiem noteiktas zināmas mantojuma daļas, tad pēdējie dabū viņiem noteiktās daļas, bet pirmais atlikumu. Bet ja minētās daļas aptver vai pārsniedz visu mantojumu, tad pirmajam viņa tiesu aprēķina kā pilnu daļu (2/2 vai 3/3 vai 4/4 u. t. t.) un mantojumu dala starp visiem pēc 473. panta.

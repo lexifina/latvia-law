@@ -1,0 +1,1 @@
+1325. Ķīlas ņēmēja prasīto ieķīlātās lietas pārdošanu parādnieks var novērst tikai pilnīgi samaksājot ķīlas parādu, bet ne ar kādas daļas samaksu, vai apsolījumu dot ķīlas ņēmējam drošību ar galvojumu vai kādā citā kārtā. Bet ja parādnieks pilnīgi samaksā savu parādu, kaut arī pašā pārdošanas brīdī, tad pārdošana apturama un ieķīlātā lieta atdodama parādniekam atpakaļ.

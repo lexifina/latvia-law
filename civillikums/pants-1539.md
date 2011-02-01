@@ -1,0 +1,1 @@
+1539. Ja priekšlikumu ņem atpakaļ, bet persona, kurai tas piedāvāts, nezina un nevar zināt par šādu atpakaļņemšanu un arī nav vainīga nekādā vilcinājumā, tad priekšlikuma piedāvātājam jāatlīdzina šai personai zaudējumi, kas tai radušies no pārliecības, ka priekšlikums paliek spēkā.

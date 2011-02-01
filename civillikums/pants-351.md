@@ -1,0 +1,1 @@
+351. Ierunas pret aizbildņa galīgo norēķinu bijušajam nepilngadīgajam jāceļ sešu mēnešu laikā no galīgā norēķina saņemšanas. Bāriņtiesa, pieprasījusi no aizbildņa paskaidrojumus, divu nedēļu laikā taisa savu lēmumu un attiecīgos gadījumos piemēro 1308. panta noteikumus.

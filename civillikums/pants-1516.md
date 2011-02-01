@@ -1,0 +1,1 @@
+1516. Ja kāds darbojas otra vietā klusi, t.i. noslēdz gan līgumu šā otra vietā, bet ne viņa vārdā, tad līgums ir spēkā kā pienākumu, tā arī tiesību ziņā tikai attiecībā uz tā noslēdzēju, bet uz atvietojamo tā spēks attiecas tikai tad, kad līgums uz viņu sevišķi pārvests.

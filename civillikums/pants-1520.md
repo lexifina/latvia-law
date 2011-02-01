@@ -1,0 +1,1 @@
+1520. Ja viens līdzējs dod otram kādu apsolījumu par labu trešai personai, tad nevien tas, kam šis apsolījums dots, bet arī trešā persona, kam par labu tas dots, iegūst tiesību prasīt no apsolītāja tāda līguma izpildījumu.

@@ -1,0 +1,1 @@
+948. Ja atradējs, nododot lietu (944. p.) vai paziņojot par atradumu policijai (945. p.), prasījis atradēja algu, tad tā noteicama pēc tiesas ieskata, bet ne augstāka par trešo daļu no atrastās lietas vērtības pēc izdevumu atvilkšanas, ja vien nozaudētājs nav atklāti izsolījis augstāku summu vai nav ar atradēju labprātīgi vienojies.

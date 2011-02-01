@@ -1,0 +1,1 @@
+1246. Ja personālservitūta termiņš nolikts līdz tam laikam, kad iestātos zināms nosacījums attiecībā uz kādu trešo personu, bet šī persona pirms nosacījuma iestāšanās nomirst, tad servitūta izlietotājs patur savu tiesību uz visu mūžu.

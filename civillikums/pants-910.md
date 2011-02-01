@@ -1,0 +1,1 @@
+910. Valdījums ir vai nu labticīgs, vai ļaunticīgs. Labticīgs valdītājs ir tas, kas pārliecināts, ka nevienam citam nav vairāk tiesību valdīt lietu, kā viņam, bet ļaunticīgs - tas, kas zina, ka viņam nav tiesības lietu valdīt vai ka kādam citam šajā ziņā ir lielākas tiesības nekā viņam.

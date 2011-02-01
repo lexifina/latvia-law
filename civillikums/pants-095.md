@@ -1,0 +1,3 @@
+95. Abu laulāto pienākums ir segt ģimenes un kopīgās mājsaimniecības izdevumus no laulāto kopīgās mantas.
+Ja laulāto kopīgās mantas nepietiek ģimenes uzturēšanai, katrs laulātais var prasīt, lai otrs laulātais piedalās ģimenes un kopīgās mājsaimniecības izdevumos samērā ar savas atsevišķās mantas stāvokli.
+Ja laulātie dzīvo šķirti, laulātais, ja nepieciešams, var prasīt līdzekļus no otra laulātā, kurš veicinājis šķirto dzīvi, samērā ar savu un pēdējā mantas stāvokli līdzvērtīga labklājības līmeņa nodrošināšanai vai prasīt līdzekļus uzturam, saprotot ar to ēdienu, apģērbu, mājokli un vajadzības gadījumā - apkopšanu.

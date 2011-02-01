@@ -1,0 +1,1 @@
+2043. Tiesība prasīt pirkuma līguma atcelšanu pārmērīga zaudējuma dēļ attiecas tikai uz tiem gadījumiem, kad pierāda, ka zaudējuma nodarītāja puse rīkojusies ļaunprātīgi. Izņēmums no šā noteikuma paredzēts 2056.pantā.

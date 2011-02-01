@@ -1,0 +1,1 @@
+495. Ja tādu juridisku personu (494. p.) uzdots nodibināt testamentā ieceltam testamenta izpildītājam un pie tam ir arī mantinieks, tad testamenta izpildītājam jāsper visi vajadzīgie soļi uzdevuma izpildīšanai un viņam ir tiesība celt prasību pret mantinieku par attiecīgas mantas izdošanu.

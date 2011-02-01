@@ -1,0 +1,1 @@
+2306. Ja lietas vešana uzdota vairākām personām kopīgi, tad tās atbild savam pilnvarotājam kā kopparādnieki; bet ja viena no tām viņu apmierina, tad otra vai citas ir atsvabinātas no jebkādas tālākas atbildības.

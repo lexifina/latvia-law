@@ -1,0 +1,1 @@
+1124. Katrs īpašnieks drīkst uz savas zemes ierīkot ūdens piegādi no ūdeņiem, kas tek gar vai caur viņa robežām, bet no kuģojamām un pludināmām upēm vai tādām to pietekām, kuras pievada tām vajadzīgo ūdeni, tikai tiktāl, ciktāl ar to nekaitē kuģniecībai vai koku pludināšanai.

@@ -1,0 +1,1 @@
+1015. Lai iegūtu īpašumu ar ieilgumu, nepietiek ar to vien, ka valdītājs ir bijis labticīgs iegūstot savu valdījumu, bet ir vajadzīgs, lai viņš paliktu labticīgs arī pa visu ieilgumam noteikto laiku, tā ka pa šo laiku atklājusies ļauna ticība pārtrauc ieilgumu.

@@ -1,0 +1,1 @@
+1511. Līgums plašākā nozīmē ir ikkatra vairāku personu savstarpēja vienošanās par kādu tiesisku attiecību nodibināšanu, pārgrozīšanu vai izbeigšanu. Līgums šaurākā, šeit pieņemtā nozīmē ir vairāku personu savstarpējs ar vienošanos pamatots gribas izteikums, kura mērķis ir nodibināt saistību tiesību (1401.p.).

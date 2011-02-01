@@ -1,0 +1,1 @@
+1547. Ja kāds apsola vai nu gādāt, lai trešā persona kautko izpilda, vai viņu pie tam piedabūt, tad tā jau ir apsolītāja paša darbība, un tādēļ viņam jāatlīdzina zaudējumi, ja minētā trešā persona neuzņemas izpildīt.

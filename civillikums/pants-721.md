@@ -1,0 +1,1 @@
+721. Viena līdzmantinieka izdevumi mantojumam, ciktāl tie bijuši nepieciešami tā uzturēšanai vai nesuši tam patiesu labumu, jānes visiem līdzmantiniekiem, samērā ar katra daļu. Ja kāds no viņiem nokavē atlīdzināt šos izdevumus par savu daļu, tam jāmaksā likumiskie nokavējuma procenti.

@@ -1,0 +1,2 @@
+1258. Ja šādu servitūtu jau no paša sākuma ar līgumu vai ar testamentu piešķir arī izlietotāja mantiniekiem, tad nodibinājums uzskatāms par divkāršu vai atjaunotu, tā ka servitūts pāriet uz mantinieku jau uz viņa paša tiesības, bet ne uz mantojuma tiesības pamata.
+Šādā gadījumā servitūts arvien izbeidzas, ja nomirst servitūta izlietotāja tuvākais likumiskais vai testamentārais mantinieks, un uz citiem viņa mantiniekiem nepāriet.

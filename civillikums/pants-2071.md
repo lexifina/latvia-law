@@ -1,0 +1,1 @@
+2071. Ja pircējs netirgojas ar mantu, kas iegūta ar 2069. vai 2070.pantā minēto nosacījumu, viņš nevar pirms samaksas šo mantu atsavināt vai ieķīlāt; pretējā gadījumā viņš atbild pēc Sodu likuma un atsavinājums vai ieķīlājums nav spēkā, ja ieguvējs vai ķīlas ņēmējs ir zinājis vai viņam vajadzējis zināt, ka manta iegūta ar 2069. vai 2070.pantā minēto nosacījumu.

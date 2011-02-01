@@ -1,0 +1,1 @@
+13. Laulāto personiskās un mantiskās attiecības noteicamas pēc Latvijas likuma, ja laulāto dzīves vieta ir Latvijā. Ja laulāto manta atrodas Latvijā, tad viņi šās mantas ziņā ir pakļauti Latvijas likumam arī tad, kad viņiem pašiem nav dzīves vietas Latvijā.

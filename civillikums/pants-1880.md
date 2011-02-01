@@ -1,0 +1,1 @@
+1880. Kad parādnieks neapmierina jauno kreditoru (1879.p.), pēdējam nav regresa tiesības pret agrāko kreditoru, ja vien tāda tiesība nav bijusi tieši pielīgta; bet tāpat arī pret jauno kreditoru nevar celt tās ierunas, kuras parādnieks varētu celt pret agrāko kreditoru.

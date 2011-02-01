@@ -1,0 +1,1 @@
+1006. Valdījumam, lai tas dotu tiesību iegūt kādu lietu par īpašumu ar ieilgumu, jābalstās uz tāda tiesiska pamata, kas jau pats par sevi varētu piešķirt īpašuma tiesību, bet kam attiecīgā gadījumā sevišķa šķēršļa dēļ īpašuma iegūšana nav tūliņ sekojusi.

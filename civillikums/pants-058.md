@@ -1,0 +1,1 @@
+58. Garīdznieki par katru noslēgtu laulību četrpadsmit dienu laikā laulību reģistram vajadzīgās ziņas piesūta tai dzimtsarakstu nodaļai, kuras teritorijā laulāšana notikusi. Par šā pienākuma neizpildīšanu garīdznieku var saukt pie administratīvās atbildības.

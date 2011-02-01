@@ -1,0 +1,1 @@
+2380. Ja labticīgs saņēmējs lietu jau atsavinājis, tad viņam jāatdod tikai par to saņemtā maksa; bet ja lieta viņa valdījuma laikā gājusi bojā vai bojāta, tad pirmā gadījumā viņam par to nav jāatlīdzina, bet pēdējā jāatdod lieta tāda, kāda tā ir.

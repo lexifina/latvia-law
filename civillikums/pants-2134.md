@@ -1,0 +1,1 @@
+2134. Izīrētājam vai iznomātājam jānodod lieta īrniekam vai nomniekam ar visiem tās piederumiem un tādā stāvoklī, ka pēdējais var no tās iegūt visu to labumu, kādu viņam bijusi tiesība no tās sagaidīt.

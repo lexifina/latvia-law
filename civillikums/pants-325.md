@@ -1,0 +1,1 @@
+325. Ja pēc aizbildnības izbeigšanās pilngadību sasniegušais dod vienam aizbildnim parakstu par aizbildnībā bijušās mantas pienācīgu nodošanu, tad paraksts aizsargā arī līdzaizbildņus pret jebkādām turpmākām prasībām.

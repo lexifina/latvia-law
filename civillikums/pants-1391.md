@@ -1,0 +1,1 @@
+1391. No nekustamā īpašuma ievāktos augļus ieguvējs atdod atpakaļ tikai par to laiku, par kuru viņš nokavējis tā nodošanu. Bet par augļiem, kas jau izaudzēti, bet vēl nav ievākti, izpircējam savkārt jāatlīdzina ieguvējam ražošanas izdevumi.

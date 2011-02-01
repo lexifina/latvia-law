@@ -1,0 +1,1 @@
+1052. Ar īpašuma prasību savienota nevien prasība par pašu lietu, bet arī par visiem tās piederumiem, pie kuriem skaitāmi nevien piederumi šaurākā nozīmē un augļi, bet arī atlīdzība par visu to, ko prasītājs zaudējis atbildētāja valdījuma dēļ.

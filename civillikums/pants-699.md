@@ -1,0 +1,1 @@
+699. Gribas izteikumam par mantojuma pieņemšanu jāatbilst visiem spēkā esoša gribas izteikuma noteikumiem: tam jābūt izsacītam noteikti un bez nosacījumiem un jāattiecas uz visu piekritušo mantojumu, bet ne tikai uz kādu tā daļu. Ja šie noteikumi nav ievēroti, gribas izteikums uzskatāms par nenotikušu.

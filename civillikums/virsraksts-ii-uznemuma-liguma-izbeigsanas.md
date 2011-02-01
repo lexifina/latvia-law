@@ -1,0 +1,1 @@
+II. Uzņēmuma līguma izbeigšanās

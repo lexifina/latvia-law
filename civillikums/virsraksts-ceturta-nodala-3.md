@@ -1,0 +1,2 @@
+CETURTĀ NODAĻA
+Servitūti

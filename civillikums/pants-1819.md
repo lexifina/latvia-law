@@ -1,0 +1,1 @@
+1819. Ja izpildījumu dod trešai personai, kurai nav uz to tiesības, vai kaut arī pašam kreditoram, bet rīcības nespējīgam (1813.p.), tad samaksa tomēr paliek spēkā, ja vien maksājums ieplūdis kreditora mantā un viņam uzglabāts.

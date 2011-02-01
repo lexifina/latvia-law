@@ -1,0 +1,2 @@
+702. Uz atsevišķām pie mantojuma piederīgām ķermeniskām lietām mantinieks iegūst tās pašas lietu tiesības, kas bijušas mantojuma atstājējam. Tāpat viņš iegūst mantojuma atstājējam piederējušās lietu tiesības uz svešām lietām, izņemot personālservitūtus.
+Ar mantojuma iegūšanu izbeidzas mantiniekam piederējušās lietu tiesības uz mantojuma atstājēja mantu, kā arī otrādi, pēdējā tiesības uz mantinieka mantu.

@@ -1,0 +1,1 @@
+2330. Kas tikai savās interesēs un sava paša labuma dēļ iejaucas svešās lietās, ir gan pilnīgi atbildīgs pret pārstāvamo, bet pats var vērst pret to prasības tikai tiktāl, ciktāl tas ar viņa lietvedību iedzīvojies, ja vien viņam nav bijis iespējams atdabūt savus izdevumus, aizturot pārstāvamā lietas.

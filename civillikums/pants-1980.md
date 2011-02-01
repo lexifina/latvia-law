@@ -1,0 +1,1 @@
+1980. Glabājumā nodotās lietas jāatdod tur, kur tās atrodas. Ja glabājuma devējs prasa, lai tās atdod citā vietā, tad to nogādāšanas izdevumi jānes viņam. Bet ja glabātājs ļaunprātīgi pārved lietas uz citu vietu, kamēr to devējs vēlas tās saņemt agrākā vietā, tad tās jānogādā turp uz glabātāja rēķinu.

@@ -1,0 +1,1 @@
+1790. Novērtējot zaudējumus, griežama vērība arī uz izpildījuma vietu: ja tā bijusi noteikta pašā līgumā, tad jāievēro tā vērtība, kāda atlīdzināmam priekšmetam bijusi šajā vietā; bet ja tā nav bijusi noteikta, tad noteicama tajā vietā pastāvošā cena, kur celta prasība par zaudējumu atlīdzību.

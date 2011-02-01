@@ -1,0 +1,1 @@
+2237. Novedot mantu noteiktā vietā, pārvadātājam tā jānodod adresātam, kuram jāsaņem no viņa manta un jāsamaksā viņam, ja adresāts to uzņēmies, kā veduma maksa, tā arī nepieciešamie ārkārtējie izdevumi, ja tādi bijuši.

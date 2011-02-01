@@ -1,0 +1,1 @@
+1478. Ja darījums nav korroborēts, tad tas tādēļ nezaudē savu spēku; ieguvējs līdz korroborācijai nevar izlietot īpašuma tiesību vai kādu citu lietu tiesību, bet var tikai celt personīgu prasību pret atsavinātāju.

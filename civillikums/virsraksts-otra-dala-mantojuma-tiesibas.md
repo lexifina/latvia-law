@@ -1,0 +1,1 @@
+OTRĀ DAĻA. Mantojuma tiesības

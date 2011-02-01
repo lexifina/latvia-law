@@ -1,0 +1,1 @@
+1108. Kā stāvošie, tā tekošie privātie ūdeņi, kas atrodas viena zemes īpašnieka robežās, pieder viņam ar tiesību lietot tos vienam pašam un pēc sava ieskata, bet ūdeņi, kas stiepjas cauri vai piekļaujas dažādu īpašnieku zemes gabaliem, ir viņu kopīpašums, un katram no viņiem ir tiesība lietot to ūdeņa daļu, kura stiepjas cauri vai piekļaujas viņa zemei.

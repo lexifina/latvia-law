@@ -1,0 +1,1 @@
+267. Kad starp nepilngadīgo un aizbildni izceļas prāva, kā arī vispār kad aizbildņa un aizbilstamā intereses saduras, bāriņtiesa ieceļ aizbilstamajam sevišķu aizbildni. Bet, ja aizbilstamajam ir vairāki aizbildņi, tad viens no viņiem, kas nav ieinteresēts, var vest prāvu pret pārējiem.

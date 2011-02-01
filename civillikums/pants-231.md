@@ -1,0 +1,1 @@
+231. Arī visas citas personas, kas testamentā kaut ko novēl nepilngadīgajiem, var tiem iecelt aizbildņus novēlētās mantas pārvaldībai; tā pati tiesība pieder katram, kas, dzīvs būdams, piešķir nepilngadīgajam kaut ko no savas mantas. Šādā kārtā ieceltie aizbildņi tomēr jāapstiprina bāriņtiesai.

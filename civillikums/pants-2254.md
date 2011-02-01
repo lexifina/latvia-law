@@ -1,0 +1,1 @@
+2254. To biedru tiesības un pienākumi, kuriem uzticēta sabiedrības lietvedība, apspriežami pēc pilnvarojuma līguma noteikumiem un attiecīgos gadījumos pēc darba līguma noteikumiem. Biedram doto pilnvarojumu sabiedrības lietvedībai un pārstāvībai pārējie biedri var atņemt tikai aiz svarīga iemesla (2263.p. 2. un 3.d.).

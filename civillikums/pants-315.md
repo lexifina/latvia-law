@@ -1,0 +1,1 @@
+315. Aizbildņa mantinieki atbild tikai par viņa ļaunu nolūku un rupju neuzmanību. Bet, ja atlīdzības prasība bijusi celta vēl aizbildnim dzīvam esot, viņa mantinieki atbild bez izšķirības par visu to, par ko būtu bijis jāatbild pašam mantojuma atstājējam kā aizbildnim.

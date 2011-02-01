@@ -1,0 +1,1 @@
+527. Legāta izpildītājam jāievēro visa rūpība un jāatbild legātāram par katru savu neuzmanību, kuras dēļ legāta priekšmetam būtu noticis kaitējums; bet ja viņam uzlikts pienākums visu, kas viņam piešķirts, nodot kādam citam, tad viņš atbild pēdējam tikai par tiem kaitējumiem, ko viņš nodarījis ļaunā nolūkā vai aiz rupjas neuzmanības.

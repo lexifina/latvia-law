@@ -1,0 +1,1 @@
+1810. Cedents atbild cesionāram par cedētā prasījuma īstumu, bet par tā drošību viņš atbild tikai tad, ja ir zinājis par parādnieka maksātnespēju un to ļaunprātīgi noklusējis vai arī uzņēmies prasījuma risku.

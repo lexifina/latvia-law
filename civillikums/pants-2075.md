@@ -1,0 +1,1 @@
+2075. Pārdodot labprātīgā izsolē, vienalga, vai to izdara tiesas ceļā vai privātā kārtībā, līdzēju savstarpējās tiesības un pienākumus noteic pēc viņu starpā norunātiem noteikumiem un pie tam galvenā kārtā pēc tiem, ko licis priekšā pārdevējs.

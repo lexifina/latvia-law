@@ -1,0 +1,2 @@
+2339. Pārstāvamam viņa lietu vešanai taisītie izdevumi, ciktāl tie bijuši nepieciešami, jāatlīdzina lietvedim līdz ar procentiem; katrā ziņā viņam jāatļauj lietvedim, ja tam nav tiesības atprasīt šos izdevumus, ņemt atpakaļ visu, ko tas taisījis, kad tas ir iespējams nekaitējot pārstāvamam.
+Ja lietvedis uzņēmies pārstāvamā interesēs kādus pienākumus un nastas, tad viņš var prasīt, lai viņu no tiem atsvabina.

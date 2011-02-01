@@ -1,0 +1,1 @@
+775. Katram, kas var brīvi rīkoties ar savu mantu, ir arī tiesība mantojumu atraidīt, vienalga, vai tas viņam piekritis pēc likuma vai pēc testamenta. Līgumiska mantinieka tiesības šajā ziņā nosaka 689. pants.

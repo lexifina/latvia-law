@@ -1,0 +1,1 @@
+1523. Trešai personai, kam par labu kautkas apsolīts pēc citu personu līguma, nav pienākums šo apsolījumu pieņemt; ja viņa no tā atteicas, tad varbūtējas sekas jānes vienīgi tai pusei, kas apsolījumu pieņēmusi.

@@ -1,0 +1,1 @@
+1828. Ja izpildījuma laiks ir noteikts, tad parādniekam tas jāievēro, negaidot sevišķu kreditora atgādinājumu, bet tāpat arī viņam nav jāizpilda sava saistība agrāk, nekā pēc noliktā termiņa notecējuma.

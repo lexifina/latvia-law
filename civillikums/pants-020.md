@@ -1,0 +1,1 @@
+20. Saistība, kas nepamatojas uz līgumu, apspriežama satura un seku ziņā pēc tās vietas likuma, kur radies tas pamats, no kura izriet saistība. Saistība, kas izriet no neatļautas darbības, apspriežama pēc tās vietas likuma, kur neatļautā darbība izdarīta.

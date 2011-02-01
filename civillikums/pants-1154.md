@@ -1,0 +1,1 @@
+1154. Ja sadala kalpojošo nekustamo īpašumu, tad uz to gulošais servitūts paliek uz visām tā daļām, ja vien tas pirms sadalīšanas nav gulies tikai uz vienu atsevišķu daļu un ja servitūtu pēc tā rakstura var izlietot katrā atsevišķā daļā.

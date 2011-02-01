@@ -1,0 +1,1 @@
+2256. Katrs biedrs var pārliecināties par sabiedrības lietu gaitu, ieskatīties sabiedrības veikala grāmatās un dokumentos un izgatavot sev pārskatu par sabiedrības mantas stāvokli. Pretēji līguma noteikumi viņu nesaista.

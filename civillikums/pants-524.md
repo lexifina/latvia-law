@@ -1,0 +1,1 @@
+524. Legātu, kas piekritis uz tāda pamata (521.-523. p.), ja legāta izpildīšana uzlikta mantiniekiem, legātārs vai viņa mantinieki var prasīt tūliņ pēc tam, kad mantinieks ieguvis viņam piekritušo mantojumu; bet ja legāts bijis piešķirts ar zināmu nosacījumu vai termiņu, tad to var prasīt tikai pēc tam, kad šis nosacījums iestājies vai termiņš pienācis.

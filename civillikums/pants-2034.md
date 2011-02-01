@@ -1,0 +1,1 @@
+2034. Pircējs pirms samaksas neiegūst uz pirkto lietu īpašuma tiesību, ja vien pārdevējs nav viņam pagarinājis samaksas termiņu. Šis termiņa pagarinājums jāsaprot pats par sevi, ja pārdevējs nodod lietu pircējam bez jebkāda piebilduma.

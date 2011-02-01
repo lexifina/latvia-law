@@ -1,0 +1,1 @@
+2255. Tāda biedra tiesības un pienākumi, kurš nav pilnvarots vest sabiedrības lietas, bet ir sabiedrības mērķiem taisījis izdevumus vai stājies tiesiskos darījumos, apspriežami, ja līgumā nav noteikts citādi, pēc neuzdotas lietvedības noteikumiem.

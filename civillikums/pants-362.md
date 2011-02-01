@@ -1,0 +1,1 @@
+362. Darbība, ko izdarījis garā slimais pirms aizgādnības iecelšanas gaišos starplaikos, ir spēkā, un tādēļ viņa šajos starplaikos noslēgtie tiesiskie darījumi saista kā viņu pašu, tā arī citus darījuma dalībniekus.

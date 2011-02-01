@@ -1,0 +1,1 @@
+348. Līdz ar galīgā norēķina iesniegšanu aizbildnim nekavējoties jānodod visa viņa pārvaldībā esošā manta pēc saraksta un galīgā norēķina bijušajam aizbilstamajam, bet pēdējam savukārt jāsamaksā viss, kas pienākas bijušajam aizbildnim.

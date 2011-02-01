@@ -1,0 +1,1 @@
+210. Radniecības tuvumu starp divām personām taisnā līnijā noteic pēc pakāpju, t. i., dzimšanu skaita. Dēls attiecībā pret tēvu stāv pirmajā radniecības pakāpē, bērna bērns pret vectēvu - otrajā, bērna bērna bērns pret vectēva tēvu - trešajā radniecības pakāpē utt.

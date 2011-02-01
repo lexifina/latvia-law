@@ -1,0 +1,1 @@
+1966. Patapinātājs atbild patapinājuma ņēmējam par visiem zaudējumiem, ko viņš tam nodarījis ar savu ļaunprātīgu darbību, kā apzināti slēpjot lietas nederību, lietu priekšlaicīgi atprasot, vai kā citādi; bet par neuzmanību vien viņam nav jāatbild.

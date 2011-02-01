@@ -1,0 +1,1 @@
+2282. Derības ir tāds līgums, ar ko sakarā ar kādu apstrīdamu apgalvojumu vienojas par to, lai tas, kura apgalvojums izrādītos nepareizs, izpildītu kautko noteiktu par labu otrai pusei vai trešai personai (1521. un turpm.p.).

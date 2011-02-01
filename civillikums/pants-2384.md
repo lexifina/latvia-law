@@ -1,0 +1,2 @@
+2384. Ja kāds kautko devis, uz tieši izteikta vai no apstākļiem neapšaubāmi izrietoša pamata pieņemdams, ka nākamībā jāiestājas zināmam notikumam, tas var prasīt no saņēmēja, ja notikums neiestājas, lai viņam doto dod atpakaļ.
+Ir vienalga, vai paredzētais notikums neiestājas nemaz, jeb vai tas iestājas citādi nekā bijis paredzēts, kā arī vai paredzētais mērķis paliek pavisam nesasniegts, vai arī nav sasniegts pienācīgā kārtā.

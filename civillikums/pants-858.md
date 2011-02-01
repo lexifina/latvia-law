@@ -1,0 +1,1 @@
+858. Blakus lieta, pēc tās atdalīšanas no galvenās, tikai tad vairs nav pēdējās piederums, ja līdz ar to tieši izteikts vai arī neapšaubāmā darbībā izpaužas nodoms izbeigt tās uzdevumu kalpot galvenai. Ar to vien, ka lieta pagaidām atdalīta, piederuma raksturs neizbeidzas.

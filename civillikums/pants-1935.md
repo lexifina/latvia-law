@@ -1,0 +1,1 @@
+1935. Līgums, ar ko viena puse apsola aizdevumu dot, bet otra to pieņemt, ir spēkā tikai no tā laika, kad līdzēji vienojas savā starpā par aizdodamā daudzuma apmēru. Ja apsolītājs pēc tam atteicas izpildīt, tad viņam jāatlīdzina otrai pusei visi zaudējumi.

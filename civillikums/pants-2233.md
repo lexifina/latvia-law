@@ -1,0 +1,1 @@
+2233. Par visiem zaudējumiem, kas ceļas mantai nozūdot vai bojājoties no tās pieņemšanas laika līdz nodošanai, atbild pārvadātājs, ja vien nozaudējuma vai bojājuma cēlonis nav nepārvarama vara, vai pašas mantas dabiskās īpašības, vai beidzot tas, ka nosūtītājs slikti iesaiņojis.

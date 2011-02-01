@@ -1,0 +1,1 @@
+1563. Kamēr vēl nav zināms, vai atceļošais nosacījums iestāsies vai ne, līgums ir spēkā, tāpat kā beznosacījuma līgums, un ja tiesīgajam uz šā līguma pamata nodod kādu lietu, tad viņš kļūst par tās īpašnieku un var izlietot visas īpašnieka tiesības.

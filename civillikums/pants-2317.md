@@ -1,0 +1,3 @@
+2317. Pilnvarojums izbeidzas arī ar pilnvarnieka nāvi un uz viņa mantiniekiem nepāriet.
+Ja uzdevuma izpildīšana jau bijusi iesākta pirms pilnvarnieka nāves un no izpildīšanas pārtraukuma draud pilnvarotājam zaudējumi, tad pilnvarnieka mantiniekiem ir tiesība un pienākums, paziņojot tūliņ pilnvarotājam par pilnvarnieka nāvi, turpināt uzdoto lietu līdz tālākam rīkojumam.
+Pilnvarnieka mantinieki var prasīt, lai atlīdzina par mantojuma atstājēja darbību un atmaksā viņa izdevumus, bet līdz ar to viņi arī uzņemas atbildību pret pilnvarotāju par sava mantojuma atstājēja darbību, no viņa saņemtā mantojuma apmērā.

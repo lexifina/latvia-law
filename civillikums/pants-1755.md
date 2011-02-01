@@ -1,0 +1,1 @@
+1755. Procenti jādod tās pašas šķiras lietās, no kādām pastāv galvenais parāds; tomēr naudas parādos darījuma dalībnieki var sevišķi norunāt, ka kreditors procentu vietā lieto kādu parādnieka lietu vai saņem no viņa kādus citus izpildījumus.

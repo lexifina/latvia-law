@@ -1,0 +1,1 @@
+2154. Ja kāda lieta vai pie tās piederīga blakus lieta nodota īrniekam vai nomniekam, nosakot tās cenu, tad viņam, īrei vai nomai izbeidzoties, jāatlīdzina par bojā gājušiem priekšmetiem pēc minētās cenas, bet par bojātiem jāpiemaksā tik daudz, par cik to vērtība pamazinājusies.

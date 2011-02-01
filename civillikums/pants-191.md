@@ -1,0 +1,1 @@
+191. Vecāki pārvalda bērnu mantu ar aizbildņu tiesībām un pienākumiem, bet viņi ir atsvabināti no pienākuma sniegt norēķinos sīkas ziņas par izdevumiem bērnu uzturam, norādot tikai šo izdevumu kopsummu.

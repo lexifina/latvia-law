@@ -1,0 +1,1 @@
+759. Kas iestājies tādas personas mantiskās tiesībās, kurai jāizdara minētais pievienojums, tam jāpievieno mantojuma masai viss tas, kas būtu jāpievieno minētai personai, ja vien viņš nemanto uz patstāvīgas tiesības pamata un nav mantojis no sava pārstāvamā.

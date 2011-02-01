@@ -1,0 +1,3 @@
+1292. Ieķīlātā lieta atbild arī par nepieciešamiem izdevumiem, kas kreditoram bijuši tās uzturēšanai un glabāšanai.
+Par derīgiem izdevumiem ieķīlātā lieta atbild tikai tad, ja tie taisīti ar ķīlas devēja piekrišanu; pretējā gadījumā kreditors var celt tikai personisku prasību par atlīdzību tādā apmērā, kādā tā, pēc tiesas ieskata, atbilst ieķīlātās lietas vērtībai.
+Par greznuma izdevumiem, kā arī par tādiem derīgiem izdevumiem, kas taisīti pretēji noteiktai ķīlas devēja gribai, kreditors nevar prasīt atlīdzību; bet viņš drīkst atņemt savus izdaiļojumus, ja tos var atdalīt no ieķīlātās lietas, tai nekaitējot.

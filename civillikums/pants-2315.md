@@ -1,0 +1,2 @@
+2315. Pilnvarnieks var uzteikt pilnvarojumu, bet viņš to nedrīkst darīt ļaunā nolūkā un nelaikā, lai pilnvarotājam būtu iespējams spert citus soļus lietas vešanai. Tikai tad pilnvarnieks var atteikties no uzdevuma izpildīšanas jebkurā laikā, kad viņam ir svarīgs iemesls, bet tādā gadījumā viņam nekavējoties jāpaziņo par to pilnvarotājam. Ja viņš šos noteikumus neievēro, tad viņam jāatlīdzina visi zaudējumi, kādi no tam rodas pilnvarotājam.
+Tiesa izšķir, vai uzdotie atteikšanās iemesli ir svarīgi.

@@ -1,0 +1,1 @@
+526. Ja legāta izpildīšana nav uzlikta mantiniekam, bet tas novēlēts tieši legātāram, vai ja mantinieks, kuram legāta izpildīšana uzlikta, atkritis un legāta iegūšana pie tam nav bijusi aprobežota ne ar kādiem nosacījumiem vai termiņiem, tad legātārs var to prasīt tūliņ pēc testamenta nākšanas likumīgā spēkā.

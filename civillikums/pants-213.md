@@ -1,0 +1,2 @@
+213. Radniecība brāļu un māsu starpā ir vai nu pilnīga, vai nepilnīga. Tā uzskatāma par pilnīgu, kad brāļi un māsas cēlušies no vieniem un tiem pašiem vecākiem, un par nepilnīgu, kad viņi cēlušies no viena tēva, bet no dažādām mātēm, vai otrādi - no vienas mātes, bet no dažādiem tēviem; pirmajā gadījumā brāļus un māsas sauc par īstiem brāļiem un īstām māsām, bet otrajā - par pusbrāļiem un pusmāsām.
+Piezīme. Divu laulāto bērnus, ko katrs no viņiem piedzīvojis agrākās laulībās, neskaita savā starpā par radiniekiem.

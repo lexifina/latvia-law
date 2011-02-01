@@ -1,0 +1,1 @@
+1330. Ja ieķīlāto lietu pārdodot ienāk tāda summa, kuras nepietiek ķīlas ņēmēja pilnīgam apmierinājumam, tad viņam paliek tiesība prasīt no parādnieka kā parāda atlikuma, tā arī pārdošanai taisīto nepieciešamo izdevumu samaksu.

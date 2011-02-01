@@ -1,0 +1,1 @@
+1195. Lietotājam ir tiesība uz visiem augļiem, ienākumiem un labumiem, kādus var dot lietojumā nodotā lieta. Šās tiesības apmērs nav noteicams pēc lietotāja vajadzībām, bet viņš var izlietot lietu arī peļņai.

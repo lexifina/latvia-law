@@ -1,0 +1,1 @@
+1399. Izpirkuma tiesība izbeidzas tiklab tad, kad tas, kam šī tiesība pieder, pirms atsavināšanas vai pašā atsavināšanas laikā noteikti izteic savu piekrišanu nekustamā īpašuma atsavināšanai, kā arī tad, kad viņš pēc atsavināšanas noteikti vai klusējot atteicas no savas tiesības.

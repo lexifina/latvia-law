@@ -1,0 +1,1 @@
+870. Lietas novērtējamas vai nu pēc to parastās vērtības vispārējā lietošanā, vai arī pēc vērtības, ko noteic lietas sevišķā nozīme valdītājam vai viņa personīgās tieksmes. Tāpēc lietu vērtība var būt vai nu parasta, vai sevišķa, vai arī ar personīgām tieksmēm pamatota.

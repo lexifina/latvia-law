@@ -1,0 +1,1 @@
+2020. Kad pirkuma maksa nolikta atkarībā no kāda nākoša notikuma vai no trešās personas izteikuma, tad pirkums atzīstams par nosacītu, un tamdēļ tas atkrīt, ja paredzētais notikums neiestājas vai paliek bez iznākuma, vai ja trešā persona nespēj vai negrib maksu noteikt.

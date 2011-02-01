@@ -1,0 +1,1 @@
+1144. Valdošam un kalpojošam nekustamam īpašumam jāatrodas savā starpā tādā stāvoklī, ka pēdējais patiesi var nest pirmajam no servitūta gaidāmo labumu. Tomēr nav nepieciešams, lai to robežas saietu kopā.

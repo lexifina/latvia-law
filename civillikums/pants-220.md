@@ -1,0 +1,1 @@
+220. Izņēmuma gadījumos un sevišķi svarīgu iemeslu dēļ, kad nepilngadīgā aizbildņi un tuvākie radinieki apliecina, ka viņš uzvedas nevainojami un spēj patstāvīgi aizsargāt un aizstāvēt savas tiesības un izpildīt savus pienākumus, nepilngadīgo var izsludināt par pilngadīgu arī pirms astoņpadsmit gadu vecuma sasniegšanas, bet ne agrāk, kamēr viņš sasniedzis pilnus sešpadsmit gadus.

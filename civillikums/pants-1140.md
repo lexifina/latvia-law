@@ -1,0 +1,1 @@
+1140. Kalpojošās lietas īpašnieks savkārt nedrīkst servitūta izlietotājam likt ceļā nekādus šķēršļus: viņam jāļauj tam darīt visu, bez kā servitūta tiesību nebūtu iespējams sekmīgi izlietot, kaut arī tas nebūtu īstais servitūta priekšmets.

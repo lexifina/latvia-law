@@ -1,0 +1,1 @@
+1235. No servitūta izrietošā lietu tiesība ir nodibināta un spēkā abām pusēm, t. i. valdošā un kalpojošā nekustamā īpašuma īpašniekiem, tikai pēc servitūta ierakstīšanas zemes grāmatās; līdz tam laikam viņu starpā pastāv vienīgi personiska saistība, kuras ierakstīšanu zemes grāmatās var tomēr prasīt katra puse, ja vien izpildīti visi citi servitūtam nepieciešamie noteikumi.

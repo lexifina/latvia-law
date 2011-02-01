@@ -1,0 +1,1 @@
+295. Mantojumu, ko aizbilstamais mantojis kā no vecākiem, tā arī no jebkura cita, aizbildnis drīkst pieņemt tikai ar inventāra tiesību (708. p.). Viņš nedrīkst bez bāriņtiesas atļaujas ne mantojumu pieņemt, ne to atraidīt.

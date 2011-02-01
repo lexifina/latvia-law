@@ -1,0 +1,1 @@
+1133. Kalpojošā nekustamā īpašuma īpašniekam jāatvēl servitūta izlietotājam arī visas tās blakus tiesības, bez kurām nav iespējams izlietot galveno tiesību, kaut arī no šīm blakus tiesībām izrietētu atkal sevišķs servitūta veids. Šīs blakus tiesības izceļas kopā ar galveno un kopā ar to arī izbeidzas.

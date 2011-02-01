@@ -1,0 +1,1 @@
+1808. Parādnieks var celt pret cesionāru nevien visas savas ierunas pret viņu pašu, bet arī tās ierunas, kas viņam bijušas pirms cesijas un tās laikā pret cedentu. Savus pretprasījumus, kas viņam bijuši pret cedentu tajā laikā, kad viņam paziņots par cesiju, viņš var vērst ieskaitam arī pret cesionāru.

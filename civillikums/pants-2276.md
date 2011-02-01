@@ -1,0 +1,1 @@
+2276. Ja sabiedrības līgums attiecas tikai uz zināmiem atsevišķiem darījumiem, kas bijuši jāizpilda kādam biedram savā vārdā uz kopīgu rēķinu, tad arī pēc sabiedrības izbeigšanās viņam vienam pašam šie darījumi jānokārto un jādod pārējiem biedriem norēķins.

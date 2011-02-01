@@ -1,0 +1,1 @@
+2094. Mainot ķermeniskas lietas, katra puse atbild par to, lai otra puse kļūst par nododamās lietas īpašnieci. Īpašuma tiesība pāriet uz lietas saņēmēju tūliņ pēc tās nodošanas viņam, neatkarīgi no tam, vai viņš savu pretpienākumu ir vai nav izpildījis.

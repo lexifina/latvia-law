@@ -1,0 +1,1 @@
+2114. Ja kāds nomā vai īrē savu paša lietu, domādams, ka tā ir sveša, tad līgums par to nav spēkā. Bet ja kādam citam lieta ir ar viņu kopīpašumā, vai tam uz lietu ir kādas citas tiesības, kuras tam piešķir lietas turēšanu un lietošanu, tad tādas lietas iznomājums vai izīrējums tās īpašniekam ir spēkā.

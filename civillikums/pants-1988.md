@@ -1,0 +1,1 @@
+1988. Ja glabājumā nodotā lieta aiz glabātāja ļaunprātības pazudusi vai bojāta un viņš par to atlīdzina glabājuma devējam, tad pēdējam jāatdod glabātājam visas prasības, ko viņš varētu vērst pret ciestā zaudējuma tiešo vaininieku.

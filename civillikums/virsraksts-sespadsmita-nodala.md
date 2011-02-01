@@ -1,0 +1,2 @@
+SEŠPADSMITĀ NODAĻA
+Sabiedrības līgums

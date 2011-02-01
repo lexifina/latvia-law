@@ -1,0 +1,1 @@
+1629. Ja līgumu noslēguši vairāki ieguvēji solidāri, tad viņi var arī solidāri celt prasību. Ieguvēja mantiniekiem ir tiesība celt līguma atcēluma prasību tikai kopīgi; cenas samazinājuma prasību katrs no viņiem var celt arī neatkarīgi no pārējiem, savas daļas apmērā.

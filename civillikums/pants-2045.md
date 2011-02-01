@@ -1,0 +1,1 @@
+2045. Ja līgumu atceļ, pircējam jāatdod nevien pati lieta, bet arī tās augļi, ko viņš ievācis no pirkuma izpildīšanas laika, bet pārdevējam savkārt jāatmaksā pirkuma maksa ar procentiem un jāatlīdzina nepieciešamie un derīgie izdevumi, ciktāl tie ir attaisnojami.

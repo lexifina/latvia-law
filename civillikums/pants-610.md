@@ -1,0 +1,1 @@
+610. Ja pārdzīvojušam testamentā piešķirta mirušā manta un viņš mantojumu pieņem, tad viņa mirušam par labu taisītais testaments atzīstams pēdējā nāves dēļ par dzēstu, un viņš iegūst tiesību brīvi noteikt par visu mantu, kā par savu, tā arī par to, kas dabūta pēc testamenta.

@@ -1,0 +1,1 @@
+380. Ja pazudušais, ko tiesa izsludinājusi par mirušu (377. p.), atgriežas atpakaļ, viņš var atprasīt savu mantu no tām personām, kam tā bijusi nodota (379. p.), vai no viņu mantiniekiem, bet tikai tajā sastāvā, kādā tā uzglabājusies, vai tik daudz, par cik šajā laikā mantinieki ar šo mantu iedzīvojušies.

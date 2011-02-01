@@ -1,0 +1,1 @@
+1832. Izpildījumam vajadzīgs, lai saistības priekšmets būtu izpildīts pilnīgi. Tādēļ kreditoru nevar piespiest saņemt ne daļas izpildījumu, ne kādu citu priekšmetu tā vietā, kuru viņam ir tiesība prasīt.

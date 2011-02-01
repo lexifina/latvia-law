@@ -1,0 +1,1 @@
+757. Pārdzīvojušam laulātam un visiem lejupējiem, kas uz kautkāda pamata grib mantot no mirušā laulātā vai no kopējā augšupējā, viss tas, ko viņi dabūjuši no mantojuma atstājēja tam dzīvam esot, pirms mantojuma masas dalīšanas jāpievieno tai vai arī jāieskaita savās mantojuma daļās.

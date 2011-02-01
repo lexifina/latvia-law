@@ -1,0 +1,1 @@
+1557. Nosacīts prasījums pāriet uz nosacītā kreditora mantiniekiem, izņemot gadījumu, kad prasījums vai nosacījuma izpildīšana bijusi saistīta tieši ar viņa personu. Tāpat arī nosacīts prasījums patur savu spēku pret nosacītā parādnieka mantiniekiem.

@@ -1,0 +1,1 @@
+2095. Katrai pusei ir tiesība prasīt no otras, lai tā izpilda savus līgumiskos un likumiskos pienākumus, bet tas no līdzējiem, kurš savu saistību jau izpildījis, var prasīt, kad otra puse vilcinās izpildīt, lai atdod to, kas viņai nodots.

@@ -1,0 +1,1 @@
+1767. Mantiskos darījumos, kuros nolīgto procentu apmērs pārsniedz likumiskos procentus (1765.p.), parādniekam ir tiesība, pēc sešu mēnešu notecējuma no darījuma noslēgšanas, katrā laikā atdot kapitālu pēc piederības, tomēr ar nosacījumu, ka par to jāpaziņo kreditoram ne mazāk kā trīs mēnešus iepriekš.

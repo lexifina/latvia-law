@@ -1,0 +1,1 @@
+1839. Ja par termiņa maksājumu samaksu kāds uzrāda kvītes, kas izdotas, bez jebkāda piebilduma, par trim termiņiem no vietas, tad pieņemams, kamēr nav pierādīts pretējais, ka viņš samaksājis arī visus iepriekšējos termiņu maksājumus.

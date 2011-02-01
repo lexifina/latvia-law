@@ -1,0 +1,1 @@
+1153. Valdošā nekustamā īpašuma atsevišķu daļu (1152. p.) īpašības un vienas vai otras daļas lielāka vajadzība pēc servitūta pašas par sevi nav jāņem vērā; tomēr visi atsevišķo daļu īpašnieki kopā nedrīkst izlietot servitūtu pāri par to apmēru, kādā to agrāk izlietojis visa šā nekustamā īpašuma īpašnieks, un citādā ziņā viņiem jāievēro 1147. panta noteikums.

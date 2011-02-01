@@ -1,0 +1,1 @@
+1498. Ja termiņš, kurā kautkam jābūt izdarītam, iekrīt tādā dienā, kurā pēc likuma to nevar izdarīt, tad laiks pienākuma izpildīšanai pagarināms līdz tai termiņam sekojošai dienai, kurā šāda likumiska šķēršļa nav.

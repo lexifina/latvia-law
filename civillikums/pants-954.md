@@ -1,0 +1,1 @@
+954. Ja tādās kustamās lietās, kas nav ne ieraktas, ne iemūrētas, ne citādi kā noslēptas, atrasta nauda vai citas vērtīgas lietas, kuru īpašnieku nevar uzzināt, tad uz tām 952. un 953. panta noteikumi neattiecas un tām piemērojami noteikumi par noslēptu lietu atradumiem (951. p.).

@@ -1,0 +1,1 @@
+1766. Kad par nenomaksātiem procentiem izdota sevišķa parādzīme vai kad par pašu kapitālu kopā ar nenomaksātiem procentiem saņemta agrākās parādzīmes vietā jauna, kreditors var par nenomaksātiem procentiem aprēķināt jaunus procentus.

@@ -1,0 +1,1 @@
+888. Lai iegūtu valdījumu caur vietnieku, ir vajadzīgs, ka atvietojamam tiešām ir tāda griba, un tādēļ viņš nekļūst par valdītāju, ja par lietas varā ņemšanu nekā nezina, t. i. nav devis tieši tādu uzdevumu vai nav vēlāk apstiprinājis jau notikušu varā ņemšanu.

@@ -1,0 +1,1 @@
+2368. Ja kāds aizsargādamies no sveša kustoņa vai dzīvnieka, kas viņam uzbrūk vai kaitē viņa lietām - kad viņam nav cita aizsardzības līdzekļa - to nogalina vai ievaino, tad viņam nav jāatlīdzina īpašniekam zaudējumi. Bet tam, kas kustoni vai dzīvnieku nogalinājis vai sakropļojis patvaļīgi, zaudējums jāatlīdzina.

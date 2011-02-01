@@ -1,0 +1,1 @@
+587. Fiziski vai tiesiski neiespējami, kā arī nepareizi, netikumīgi un citādi neatļauti nosacījumi - pēdējie tomēr tikai tad, ja tie izteikti apstiprinošā formā - nav jāievēro, bet pats rīkojums ir spēkā.

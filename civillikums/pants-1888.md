@@ -1,0 +1,1 @@
+1888. Izlīguma spēks neattiecas uz trešām personām; bet pret blakus saistītiem, ja izlīgums neietver pārjaunojumu, tas ir spēkā tikai tādā mērā, kādā ar to samazinās viņu pienākumi; turpretim šos pienākumus palielināt bez viņu piekrišanas nav pielaižams.

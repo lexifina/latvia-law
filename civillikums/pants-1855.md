@@ -1,0 +1,1 @@
+1855. Kas nokavē vai pavisam neprasa ieskaitu, tas nezaudē tiesību uz pretprasījumu. Parādnieks, kas maldības dēļ nav prasījis ieskaitu, var atprasīt savu maksājumu, ja viņš neuzskata par labāku patstāvīgi izlietot savu pretprasījumu.

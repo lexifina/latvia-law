@@ -1,0 +1,1 @@
+1897. Ja tieši noteikts, ka saistības izpildīšanai jāgaida kreditora uzteikums vai atgādinājums, tad noilguma termiņš sākas nevis no uzteikuma dienas, bet no tā laika, kad kreditoram radusies tiesība uzteikt un kad vispār tāds uzteikums kļuvis iespējams.

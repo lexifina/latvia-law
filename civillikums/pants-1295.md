@@ -1,0 +1,1 @@
+1295. Ja kopīpašnieks ieķīlā kopējo lietu ar pārējo kopīpašnieku piekrišanu, tad ķīlas tiesība attiecas uz visu lietu; bet bez pārējo piekrišanas viņš drīkst ieķīlāt tikai savu kopējas lietas domājāmo daļu.

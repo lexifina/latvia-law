@@ -1,0 +1,2 @@
+1896. Noilgums sāk tecēt ar to dienu, kurā prasījums ir tā nodibināts, ka pret parādnieku, kas nav izpildījis savu pienākumu, nekavējoties var celt prasību, kaut arī tomēr vēl nebūtu ne parādnieks liedzies izpildīt, ne arī kreditors viņam to atgādinājis. Saskaņā ar to noilguma tecējuma iesākumam vajadzīgs: nosacītiem prasījumiem - lai nosacījums jau būtu noskaidrojies, bet terminētiem prasījumiem - lai termiņš jau būtu notecējis.
+P i e z ī m e. Gadījumi, kuros noilguma tecējumam nolikts sevišķs iesākuma termiņš, norādīti attiecīgā vietā.

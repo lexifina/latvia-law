@@ -1,0 +1,1 @@
+2050. Ja pircējs nokavē samaksu, pārdevējs var izlietot vai neizlietot savu tiesību; bet viņam jāpaziņo par to tūliņ pēc nokavējuma iestāšanās, un ja jau reizi viņš prasījis, lai līgumu atceļ, tad viņš vairs nevar prasīt, lai to izpilda.

@@ -1,0 +1,1 @@
+1248. Ja tas, kam testamentā novēlēta lietojuma tiesība, nomirst pirms varbūtēji noteiktā termiņa notecējuma vai varbūtēja nosacījuma iestāšanās, bet šai tiesībai jāpāriet uz trešo personu tikai pēc minētā termiņa notecējuma vai minētā nosacījuma iestāšanās, tad īpašnieks nav spiests piešķirt lietojuma tiesību šai trešai personai pirms šā laika.

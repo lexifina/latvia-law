@@ -1,0 +1,1 @@
+II. Ķīlas tiesības priekšmets

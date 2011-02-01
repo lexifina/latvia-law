@@ -1,0 +1,1 @@
+265. Prāvas, kuru priekšmets ir svarīgs un vērtīgs un kuras var būt saistītas ar lieliem izdevumiem, kā arī tādas, kuru iznākumu grūti paredzēt, aizbildnis var uzsākt nepilngadīgā vietā, iepriekš izlūdzot bāriņtiesas piekrišanu un vajadzīgos norādījumus. Ja šā noteikuma neievērošanas dēļ nepilngadīgajam rodas zaudējums, aizbildnim jāatlīdzina viņam visi izdevumi un zaudējumi.

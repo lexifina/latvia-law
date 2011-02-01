@@ -1,0 +1,3 @@
+2266. Ja sabiedrība izbeidzas citādi nekā ar uzteikumu, tad biedra lietvedības tiesība tomēr uzskatāma par tālāk pastāvošu līdz tam laikam, kad viņš par sabiedrības izbeigšanos dabū zināt, vai kad viņam, ievērojot vajadzīgo rūpību, par šo izbeigšanos vajadzētu zināt.
+Ja sabiedrība izbeidzas ar kāda biedra nāvi, tad mirušā mantiniekiem par nāves gadījumu nekavējoties jāziņo pārējiem biedriem un mantojuma atstājēja nokārtojamās lietas rūpīgi jāturpina līdz sabiedrības vai likvidātora tālākam rīkojumam. Tāpat pārējiem biedriem pagaidām jāturpina sava darbība. Šajā ziņā sabiedrība uzskatāma par tālāk pastāvošu.
+Šā panta otrās daļas noteikumi ir spēkā arī tādā gadījumā, kad sabiedrība izbeidzas ar konkursa atklāšanu vai administrācijas nodibināšanu par kāda biedra mantu.

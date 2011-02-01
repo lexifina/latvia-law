@@ -1,0 +1,1 @@
+1342. Ja lietu, kas nodota izstrādāt vai pārvadāt, ieķīlā trešai personai, tad tā nodrošina parādu tikai izstrādāšanas vai pārvadāšanas maksas apmērā, ar kuras samaksu lietas īpašniekam ir vienmēr tiesība to izpirkt.

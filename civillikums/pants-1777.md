@@ -1,0 +1,1 @@
+1777. Cietušais nevar prasīt atlīdzību par zaudējumiem, kurus viņš cietis no tam, ka karaspēka apmācību laikā atradies uz šaušanas apmācības laukuma, ja vien karaspēks ir izpildījis šiem gadījumiem izdotus speciālus noteikumus.

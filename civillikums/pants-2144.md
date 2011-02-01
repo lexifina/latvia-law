@@ -1,0 +1,1 @@
+2144. Ja nomnieks vai īrnieks patvaļīgi atteicas no nomas vai īres pirms līgumā noteiktā laika, tad no viņa var tūliņ prasīt visas nomas vai īres naudas samaksu. Bet ja nomas vai īres priekšlaicīgai izbeigšanai bijis likumīgs pamats, tad nomas vai īres maksa kaut gan arī tūliņ jāsamaksā, bet tikai par patieso nomas vai īres laiku.

@@ -1,0 +1,2 @@
+1531. Ja turētājs tādu papīru nozaudē vai ja tas iet bojā, tad viņš var lūgt tiesu, lai uzaicina tā turētāju, un ja pēc noliktā termiņa notecējuma neviens nav pieteicies un nav kādu citu šķēršļu, viņš var prasīt, lai atzīst nozaudēto papīru par iznīcinātu un atvieto to ar jaunu, vai arī, ja jau iestājies maksājuma termiņš, prasīt samaksu.
+Pret jauno turētāju, kas pieteicies uz uzaicinājumu, īpašuma prasība pielaižama tikai tad, kad viņš papīru ieguvis ļaunā ticībā, kas jāpierāda; labticīgam papīra turētājam nav tas jāizdod.

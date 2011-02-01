@@ -1,0 +1,1 @@
+322. Ja pilngadību sasniegušais vērš savu prasību pret katru aizbildni atsevišķi, katram no viņiem piespriež samaksāt tikai savu daļu, neuzliekot tādā gadījumā solidāru atbildību visiem par to aizbildni, kas izrādītos maksātnespējīgs.

@@ -1,0 +1,1 @@
+523. Ja nosacīti ieceltam mantiniekam ar to pašu nosacījumu uzdots izpildīt legātu, tad šis legāts uzskatāms par beznosacījuma legātu. Tas pats attiecināms arī uz legātu, ko izpildīt uzlikts substitūtam.

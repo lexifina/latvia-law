@@ -1,0 +1,1 @@
+382. Mantojums ir kopība, kurā ietilpst visa kustamā un nekustamā manta, kā arī citiem atdodamās tiesības un saistības, kas mirušam vai par mirušu izsludinātam piederējušas viņa patiesās vai tiesiski pieņemamās nāves laikā. Šajā ziņā mirušo vai par mirušu izsludināto sauc par mantojuma atstājēju.

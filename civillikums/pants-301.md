@@ -1,0 +1,2 @@
+301. Gada norēķins iesniedzams bāriņtiesai rakstiski katra gada sākumā ne vēlāk par februāri; tajā jābūt mantas sastāva apzīmējumam un sīkam sarakstam, pieliekot pēc iespējas kvītis tiklab par visiem gada laikā bijušajiem izdevumiem nepilngadīgā labā, kā arī par saņemtajiem ienākumiem un tāpat par ienākumu summām, kas palikušas nesaņemtas.
+Ja bāriņtiesai pret gada norēķinu nav iebildumu, tā izdod aizbildnim apliecību par gada norēķina pareizību.

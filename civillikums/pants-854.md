@@ -1,0 +1,1 @@
+854. Galvenās lietas būtiskās daļas ir visas tās, kas atrodas ar viņu nesaraujamā sakarā un ietilpst viņas sastāvā, tā ka bez tām galvenā lieta pēc būtības nevarētu nemaz pastāvēt vai nebūtu atzīstama par pilnīgu.

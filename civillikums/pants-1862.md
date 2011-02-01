@@ -1,0 +1,1 @@
+1862. Katram kreditoram ir tiesība atteikties no sava prasījuma; ja viņš to nedara pēdējās gribas rīkojumā, tad šim nolūkam vajadzīga savstarpēja vienošanās starp viņu un parādnieku, t.i. saistības atcēlējs līgums. Vienpusējs tiesīgās personas paziņojums par atteikšanos no sava prasījuma nesaista.

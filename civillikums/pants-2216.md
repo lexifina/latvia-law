@@ -1,0 +1,1 @@
+2216. Uzņēmuma līgumam nav vajadzīgs, lai materiāls piederētu pasūtītājam, ne arī lai no tā izgatavoto lietu viņš būtu pasūtījis pats priekš sevis; tādēļ pasūtītājs var dot svešu materiālu apstrādāšanai priekš trešās personas.

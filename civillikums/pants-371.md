@@ -1,0 +1,1 @@
+371. Ja tāda nepilnvarota lietveža (370. p.) nav vai ja neuzdotā lietvedība nav pieļaujama, bet tiesību pārstāvība attiecīgajā gadījumā tomēr ir nepieciešama, tad tai tiesai, kurai aizgājušais pirms savas dzīvesvietas atstāšanas bijis personiski pakļauts, ir tiesība un pienākums nodibināt aizgādnību.

@@ -1,0 +1,1 @@
+2239. Pārvadātājs var aizturēt mantu, kamēr nav saņēmis visu, kas viņam pēc pārvadājuma līguma nākas. Bet ja viņš mantu nodevis nesaņemot maksu, tad viņš, kaut arī paliek adresāta kreditors, nevar tomēr sakarā ar savu prasījumu vairs vērst bez sevišķiem iemesliem nekādas prasības pret nosūtītāju.

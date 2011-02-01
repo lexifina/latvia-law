@@ -1,0 +1,1 @@
+934. Mājas kustoņi nav uzskatāmi par bezīpašnieka kustoņiem pat arī tad, ja tie aizbēg vai nomaldās. Tādu kustoņu pieguvējs neiegūst īpašuma tiesību uz tiem, tāpat kā uz pieradinātiem savvaļas dzīvniekiem.

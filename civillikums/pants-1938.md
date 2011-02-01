@@ -1,0 +1,1 @@
+1938. Ja aizdevums dots citas personas vārdā, bez viņas ziņas un piekrišanas, tad, vēlāk šai personai tādu aizdevumu apstiprinot, viņa iegūst arī prasījuma tiesību. Bet ja viņa aizdevumu neapstiprina, tad par kreditoru uzskatāms tas, kas aizdevumu devis.

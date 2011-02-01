@@ -1,0 +1,1 @@
+2001. Tāda pati atbildība kā viesnīcniekiem ir arī kuģu saimniekiem, kas uzņem savos kuģos pasažierus ar viņu lietām, kā arī iebraucamo vietu turētājiem, kas atvēl novietot tajās svešus zirgus un citus kustoņus; bet uz restorāciju un kafejnīcu turētājiem, kuriem nav dzīvojamu telpu ceļotājiem, šī atbildība neattiecas.

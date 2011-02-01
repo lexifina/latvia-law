@@ -1,0 +1,1 @@
+1184. Tas, kam jāpielaiž no kaimiņa ēkas noteka, nedrīkst to aizbūvēt, bet tas, kam ir notekas tiesība, nedrīkst savkārt izdarīt savā ēkā vai jumtā nekādas pārmaiņas, ar kurām noteka pastiprinātos vai tās pirmējais virziens pārgrozītos.

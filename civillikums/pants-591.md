@@ -1,0 +1,2 @@
+591. Ja kādu nosacījumu iespējams izpildīt tikai pa daļai, tad šī daļa jāizpilda; bet ja nosacījumu izpildīt pat pa daļai nav iespējams, tad viss nosacījums jāuzskata par neizpildāmu un tādēļ nav jāievēro.
+Nosacījums, kas tikai pagaidām ir neiespējams, jāizpilda, ja vien šo pagaidu šķērsli kādreiz var novērst; bet ja neiespējamība pastāvējusi jau testamenta taisīšanas laikā, tad nosacījums nav jāievēro, kaut arī vēlāk tas kļūtu iespējams.

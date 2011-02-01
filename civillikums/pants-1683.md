@@ -1,0 +1,1 @@
+1683. Kreditors var pēc sava ieskata prasīt visas saistības izpildījumu no visiem vai tikai no dažiem kopparādniekiem, vai arī tikai no viena, bet ja prasījuma priekšmets ir dalāms, tad viņš, ja vēlas, var prasīt arī tikai tā daļu. Tomēr viņš tādēļ nezaudē savu tiesību uz visu prasījumu, bet gan pārējo var prasīt pat arī no tā kopparādnieka, no kura agrāk prasījis tikai daļu.

@@ -1,0 +1,2 @@
+176. Ar adopcijas atcelšanu tiek atjaunotas radniecības tiesiskās attiecības adoptētajam un viņa pēcnācējiem ar adoptētā bioloģiskajiem vecākiem un viņu radiniekiem.
+Ja ar adopcijas nodibināšanu adoptētais ir ieguvis adoptētāja uzvārdu vai citu vārdu vai viņam ir mainīts personas kods, tiesa, ja tas ir adoptējamā interesēs, var saglabāt iegūto uzvārdu, vārdu un personas kodu pēc adopcijas atcelšanas.

@@ -1,0 +1,1 @@
+1944. Ja aizdotās atvietojamas lietas, izņemot naudu, jāatdod naudā, tad pie tam jārēķina nevis tās tirgus cenas, kas pastāv aizdevuma atdošanas laikā, bet tās, kas bijušas nodošanas laikā. Ja aizdod vērtspapīrus, tad to vērtība noteicama pēc tā kursa, kāds pastāvējis aizdevuma nodošanas laikā.

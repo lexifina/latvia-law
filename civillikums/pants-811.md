@@ -1,0 +1,1 @@
+811. Ja legātu pārgroza, noteicot jaunu legātāru, vai legāta izpildītāju, vai legāta priekšmetu, tad, rodoties šaubām, pieņemams, ka legātam pievienotais nosacījums ar pārgrozījumu nav atcelts, bet paliek spēkā.

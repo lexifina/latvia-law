@@ -1,0 +1,1 @@
+2348. Ja tāds miesas bojājums padara cietušo uz visiem laikiem nespējīgu turpināt savu amatu un laupa viņam iespēju kā citādi pelnīties, tad vainīgajam jāatlīdzina viņam arī tā peļņa, kas viņam tiktu atrauta turpmāk. Bet ja cietušā gādībā atrodas vēl kāds cits, tad, bez augšā sacītā, piemērojami arī 2351.panta noteikumi.

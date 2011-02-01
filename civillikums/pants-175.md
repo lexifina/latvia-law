@@ -1,0 +1,1 @@
+175. Adopciju var atcelt tiesa, ja pilngadīgais adoptētais ar adoptētāju vienojušies par adopcijas atcelšanu. Atceļot adopciju, tā izbeidzas ar dienu, kad stājies spēkā tiesas spriedums par adopcijas atcelšanu.

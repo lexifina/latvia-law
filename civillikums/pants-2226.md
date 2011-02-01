@@ -1,0 +1,1 @@
+2226. Ja darba izpildīšana kļuvusi neiespējama, ejot bojā attiecīgam darba priekšmetam bez līdzēju vainas, tad pienākums par to samaksāt atkrīt. Bet ja darbs jau bijis uzsākts, tad uzņēmējam jādabū atlīdzība par savām pūlēm un izdevumiem.

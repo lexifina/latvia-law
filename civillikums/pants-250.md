@@ -1,0 +1,1 @@
+250. Ja par aizbildni ieceltais laikus nepaziņo par savu atteikšanos un neuzdod likumiskus nokavējuma iemeslus vai ja bāriņtiesa viņa uzdotos iemeslus neievēro, viņš atbild par visu, kas noticis aizbildnībā no tā laika, kad attiecīgā bāriņtiesa viņam par iecelšanu paziņojusi.

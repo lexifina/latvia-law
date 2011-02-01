@@ -1,0 +1,1 @@
+1737. Aizturējuma tiesību var izlietot tikai tad, kad aizturētājs ieguvis lietu savā valdījumā tiesīgā kārtā un kad viņa prasījums pret pretējo pusi atrodas sakarā ar aizturamo lietu un pie tam saistība ir jau izpildāma un nav aprobežota ne ar nosacījumu, ne ar termiņu.

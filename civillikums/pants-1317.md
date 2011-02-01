@@ -1,0 +1,1 @@
+1317. Ja uz ieķīlāto lietu piešķir kādu tiesību, samazinot ar to šās lietas vērtību, tad šis piešķīrums, ciktāl ar to samazinās ķīlas ņēmēja nodrošinājums, ir spēkā pret pēdējo tikai ar viņa piekrišanu.

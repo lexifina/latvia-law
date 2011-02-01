@@ -1,0 +1,1 @@
+723. Mantiniekam, kura rokās atrodas mantojums vai tā sastāvdaļas, jārūpējas par tiem tāpat kā par savu mantu. Bet ja viņš kautko no mantojuma izlieto savām vajadzībām, tad viņam par to jānorēķinās ar līdzmantiniekiem.

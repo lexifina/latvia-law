@@ -1,0 +1,1 @@
+1643. Vienošanās par to, lai ar ļaunā nolūkā izdarītu darbību nodarīts zaudējums nebūtu jāatlīdzina, nav spēkā. Bet var atteikties no prasījuma par jau izdarītu ļaunprātīgu darbību, kad aizskartais pietiekoši zina tiklab savu prasību, kā arī tās pamatu.

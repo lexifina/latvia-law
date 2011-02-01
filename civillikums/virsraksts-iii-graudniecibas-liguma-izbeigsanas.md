@@ -1,0 +1,1 @@
+III. Graudniecības līguma izbeigšanās

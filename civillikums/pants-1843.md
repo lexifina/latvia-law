@@ -1,0 +1,1 @@
+1843. Ja kāds samaksā tikai daļu no sava parāda, tad viņa maksājumu vispirms ieskaita vēl nenomaksātos procentos un tikai pēc tam palikušo atlikumu izlieto kapitāla dzēšanai, ja vien kreditors nav bijis ar mieru pieņemt maksājumu tieši tikai uz kapitāla rēķinu un par to kvitējis.

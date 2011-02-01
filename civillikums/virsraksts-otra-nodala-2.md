@@ -1,0 +1,2 @@
+OTRĀ NODAĻA
+Likumiskā mantošana

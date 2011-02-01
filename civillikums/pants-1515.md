@@ -1,0 +1,1 @@
+1515. Ja kāds darbojas atklāti kā otra vietnieks, t.i. noslēdz līgumu tieši viņa vārdā, nepārkāpdams savas varas robežas, tad līgums, tiklab pienākumu, kā arī tiesību ziņā, saista tieši pašu atvietojamo.

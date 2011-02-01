@@ -1,0 +1,1 @@
+2227. Ja uzņēmēju kavē izpildīt darbu slimība vai citas viņam gadījušās nejaušības, tad viņš var prasīt samaksu tikai par to, ko viņš jau padarījis, un tikai tādā mērā, kādā tas nācis par labu pasūtītājam.

@@ -1,0 +1,1 @@
+1377. Ja kāds no kreditoriem iegūst valdījumā to nekustamo īpašumu, uz kuru viņam ir hipotēka, tad ar to nepārgrozās ne viņa paša hipotēkārās tiesības, ne arī pārējo kreditoru tiesības uz viņu zemes grāmatās ierakstītiem prasījumiem uz to pašu nekustamo īpašumu.

@@ -1,0 +1,1 @@
+833. Atbrīvojusies daļa pāriet uz līdzmantiniekiem (830. p.) ar visām uz to gulošām nastām, to starpā ar pienākumu izpildīt atkritušam mantiniekam uzliktos legātus, izņemot gadījumu, kad šā mantinieka iecelšana jau no paša sākuma nav bijusi spēkā.

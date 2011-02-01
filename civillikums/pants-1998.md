@@ -1,0 +1,3 @@
+1998. Viesnīcnieks atbild par ceļotāju ienestām lietām, ja vien viņš nepierāda, ka zaudējums ir noticis aiz pašu ceļotāju vai to viesu vai pavadītāju vainas, vai arī no nepārvaramas varas, vai aiz pašu lietu īpašībām. Tāpat viesnīcnieks atbild arī par tām lietām, ko ceļotāji nodevuši viņam vai viņa kalpotājiem pirms ierašanās viesnīcā.
+Tomēr attiecībā uz ceļotāju ienesto naudu, vērtspapīriem un dārglietām, ja nav norunāts citādi, minētā atbildība aprobežojas ar tūkstots latiem, izņemot gadījumus, kad viesnīcnieks pats pieņēmis ceļotāju naudu, vērtspapīrus un dārglietas savā glabājumā vai kad par šo lietu bojā eju vainojams pats viesnīcnieks vai viņa kalpotāji.
+Viesnīcā izliktais sludinājums, ka viesnīcnieks atsakās no atbildības, nav spēkā.

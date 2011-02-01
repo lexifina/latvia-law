@@ -1,0 +1,1 @@
+545. Ja vispārnoderīgam vai labdarīgam mērķim piešķirtam legātam testamentā nav noteikts apmērs, tad to noteic tiesa pēc sava ieskata, no vienas puses - samērā ar vajadzību, bet no otras- samērā ar mantojuma lielumu.

@@ -1,0 +1,1 @@
+2085. Piesitums atvieto izsolītāja paziņojumu par to, ka viņš pieņēmis vairāksolījumu, un šis piesitums noslēdz pārdevumu pat arī tajos gadījumos, kad pēc vispārējās procesa kārtības bez tam vēl vajadzīgs lietu piespriest vairāksolītājam ar sevišķu tiesas lēmumu.

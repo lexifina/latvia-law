@@ -1,0 +1,1 @@
+1884. Izlīguma sekas ir tās, ka izlīdzējs atteicas no savas prasības un tās vietā iegūst no izlīguma izrietošo prasījumu. Ar to tomēr pats par sevi nenodibinās pārjaunojums, ja nav ievēroti vajadzīgie noteikumi (1867. un turpm.p.).

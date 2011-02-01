@@ -1,0 +1,1 @@
+1939. Aizņēmējam jābūt rīcības spējīgam; tādēļ aizņēmums, ko noslēgusi aizbildnībā vai aizgādnībā esoša persona, bez aizbildņa vai aizgādņa piekrišanas, nav spēkā. Aizdevējs tomēr var prasīt atpakaļ visu to, kas patiesi izlietots aizņēmējam par labu.

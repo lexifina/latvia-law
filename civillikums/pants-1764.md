@@ -1,0 +1,1 @@
+1764. Visādos mantiskos darījumos un aktos, kas nodibina pienākumu maksāt procentus, atļauts nolīgt procentus, kuru apmēru var noteikt līdzēji savstarpēji vienojoties, bet vienpusējos aktos - to izdevējs pēc sava ieskata, ciktāl likums neparedz aprobežojumus šajā ziņā.

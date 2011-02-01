@@ -1,0 +1,1 @@
+686. Visām tām personām, kas bez viņu pašu vainas nav dabūjušas zināt par savu tiesību celt mantojuma prasību, iepriekšējā (685.) pantā minētais noilgums aprēķināms no tās dienas, kad viņām kļuvusi zināma viņu tiesība celt prasību.

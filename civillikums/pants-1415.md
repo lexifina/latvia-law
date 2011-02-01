@@ -1,0 +1,1 @@
+1415. Neatļauta un nepieklājīga darbība, kuras mērķis ir pretējs reliģijai, likumiem vai labiem tikumiem, vai kura vērsta uz to, lai apietu likumu, nevar būt par tiesiska darījuma priekšmetu; tāds darījums nav spēkā.

@@ -1,0 +1,1 @@
+1873. Ja agrākais prasījums nav bijis spēkā, tad nav spēkā arī tā pārjaunojums; bet ja pārjaunojuma līgums nav spēkā, tad agrākā prasījuma tiesība paliek spēkā. Tas pats jāsaprot arī tajā gadījumā, kad jaunais prasījums sava paša rakstura dēļ neiegūst spēku, kā piemēram, ja tas saistīts ar tādu nosacījumu, kas vēlāk neiestājas.

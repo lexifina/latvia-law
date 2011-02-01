@@ -1,0 +1,1 @@
+1097. Mūri, sētas, dzīvžogi, grāvji un ežas, kuri šķir blakus zemes gabalus, pieder abiem kaimiņiem kopīgi, ja vien pēc to stāvokļa vai skaidrām robežzīmēm neizrādās, ka tie pieder kādam no viņiem vienam pašam.

@@ -1,0 +1,1 @@
+896. Katrs reiz iegūts lietas valdījums turpinās tik ilgi, kamēr pastāv fiziska vara par lietu un griba to paturēt kā savu. Tiklīdz beidz pastāvēt abi šie nosacījumi vai kaut viens no tiem, izbeidzas arī valdījums.

@@ -1,0 +1,1 @@
+1186. Tiesīgā persona nedrīkst izlietot šo servitūtu netīrumu un smirdošu šķidrumu novadīšanai. Tos drīkst novadīt tikai pa apakšzemes kanāliem, kurus var ierīkot pa svešu zemi tikai uz sevišķa servitūta pamata.

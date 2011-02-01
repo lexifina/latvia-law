@@ -1,0 +1,1 @@
+860. Par rūpniecības uzņēmuma piederumiem uzskatāmi ražošanai vajadzīgie darba rīki un mašīnas, kā arī vēl darbā esošie ražojumi, bet piederumiem nav jāpieskaita ne sagādātie neapstrādātie materiāli, ne arī jau pabeigtie un pārdošanai nolemtie izstrādājumi.

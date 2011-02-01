@@ -1,0 +1,2 @@
+TREŠĀ APAKŠNODAĻA
+Zaudējumu atlīdzības pienākums

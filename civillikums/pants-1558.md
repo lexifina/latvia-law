@@ -1,0 +1,1 @@
+1558. Kamēr vēl nav zināms, vai atliekošais nosacījums iestāsies vai ne, nosacīti tiesīgai personai paliek tikai nogaidu tiesība, kuru pretlīdzējs nevar atņemt ne vienpusēji atkāpjoties, ne arī kā citādi pēc savas gribas.

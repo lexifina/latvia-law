@@ -1,0 +1,3 @@
+593. To, kas novēlēts ar zināmu nosacījumu, nevar prasīt pirms šā nosacījuma izpildīšanas.
+Izņēmuma kārtā mantojumu var izdot nosacīti ieceltam mantiniekam arī pirms nosacījuma iestāšanās, kad viņš pietiekoši nodrošina šā mantojuma atdošanu tam, kam tas piekristu, ja nosacījums neiestātos.
+Ar nosacījumu piešķirta legāta izpildītājam jādod nodrošinājums legātāram par to, ka pēc šā nosacījuma iestāšanās legātu izpildīs. Bet ja nosacījums ir tāds, ka vienīgi legātāram mirstot būs iespējams noteikt, vai tas izpildīts vai ne, tad legātārs var legātu dabūt tikai tad, ja viņš nosacījuma neizpildīšanas gadījumam nodrošina šā legāta un no tā ievākto augļu atpakaļ atdošanu tā devējam vai tam, kam legāts šādā gadījumā piekristu.

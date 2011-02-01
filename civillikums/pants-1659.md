@@ -1,0 +1,1 @@
+1659. Kad parādnieks novilcina piedāvājumu tikai īsu laiku, tad tas nedod kreditoram pamatotu iemeslu atteikties izpildījumu pieņemt, ja vien parādnieks līdz ar to piesola viņam zaudējumu atlīdzību vai ja novilcinājumam nav nekādas nozīmes.

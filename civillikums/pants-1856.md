@@ -1,0 +1,1 @@
+1856. Kam ir vairāki pretprasījumi, tas var likt priekšā ieskaitam vienu vai otru no tiem pēc sava ieskata. Tāpat arī tas, kam jānolīdzina vairāki parādu prasījumi, var izvēlēties, kuru no tiem viņš grib ieskaitīt savos pretprasījumos.

@@ -1,0 +1,1 @@
+1914. Dāvinājums var būt nevien īpašuma vai citu lietu tiesību atdošana apdāvinātam, bet arī prasījumu tiesību bezatlīdzības cesija, apdāvinātā atsvabināšana no pienākumiem pret dāvinātāju vai pret trešām personām, atteikšanās no kādas tiesības apdāvinātam par labu, kā arī viņa lietu bezmaksas pārziņa.

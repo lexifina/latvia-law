@@ -1,0 +1,1 @@
+446. Šim nolūkam (445. p.) privātu testamentu taisot pieaicināmi vismaz divi ticami liecinieki, izņemot 451. pantā norādīto gadījumu. Privāti testamenti taisāmi rakstiski, izņemot 460. pantā paredzētos gadījumus.

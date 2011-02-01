@@ -1,0 +1,1 @@
+661. Aizgādņus izrauga mantojuma lietā ieinteresētās personas un, ja viņiem ir vajadzīgās īpašības, apstiprina bāriņtiesa. Bet kad lietā ieinteresētās personas nevienu neieteic par aizgādni, tad aizgādņus ieceļ pati bāriņtiesa.

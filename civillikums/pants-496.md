@@ -1,0 +1,1 @@
+496. Ja testamenta izpildītājs neko nedara, vai nav nemaz iecelts un arī mantinieks negādā par tādas juridiskas personas nodibināšanu, tad attiecīga tiesa pēc prokurora vai attiecīgas iestādes ierosinājuma nodibina aizgādnību un paziņo par to bāriņtiesai aizgādņa iecelšanai ar testamenta izpildītāja tiesībām un pienākumiem.

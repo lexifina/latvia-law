@@ -1,0 +1,1 @@
+1985. Glabājuma devējam jādod glabātājam norunātā atlīdzība pēc glabājuma izbeigšanās. Šī atlīdzība jādod arī tad, ja glabājuma devējs paņem glabājumā nodoto lietu atpakaļ pirms norunātā laika notecējuma. Bet ja viņš šim laikam notekot lietu vēl nav paņēmis atpakaļ, tad viņam par lietas turpmāko glabājumu jādod atlīdzība agrāk norunātā apmērā.

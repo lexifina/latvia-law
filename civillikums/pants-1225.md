@@ -1,0 +1,1 @@
+1225. Ja lietojumā dotas patērējamas lietas, tad lietotājs no to saņemšanas brīža kļūst par šo lietu īpašnieku un viņam tikai ir pienākums, pēc lietojuma izbeigšanās, atdot atpakaļ tajā pašā daudzumā tās pašas šķiras un tā paša labuma lietas vai arī atlīdzināt to vērtību.

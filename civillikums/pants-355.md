@@ -1,0 +1,1 @@
+355. Aizgādņus pār pilngadīgajiem pēc tiesas sprieduma ieceļ attiecīgā bāriņtiesa, kurai pirmajā kārtā par aizgādni ir jāieceļ aizgādnībā nododamā laulātais vai kāds no tuvākajiem radiniekiem, kā arī jāievēro tās personas pēdējās gribas rīkojums, kura atstājusi viņam mantojumu.

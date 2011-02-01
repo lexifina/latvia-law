@@ -1,0 +1,1 @@
+1020. Iepriekšējā (1019.) panta 2. un 3.punktā norādītos gadījumos valdījums uzskatāms par pārtrauktu tikai pret to, kas savu patieso vai šķietamo tiesību izlieto tur minētā kārtā; bet pret trešām personām ieilgums turpinās.

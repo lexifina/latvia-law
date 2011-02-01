@@ -1,0 +1,1 @@
+1119. Ūdeņos, kuros dzīvo zivis, aizliegts mērcēt kaņepājus un linus; vispār tos drīkst mērcēt tikai mārkos vai purvos, vai arī novadot vajadzīgo ūdeni no ezeriem un upēm, bet tikai tā, lai tas pēc tam vairs nevarētu atplūst tur atpakaļ.

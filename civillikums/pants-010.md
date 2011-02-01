@@ -1,0 +1,1 @@
+10. Nozudušu personu var izsludināt par mirušu pēc Latvijas likuma, ja viņas pēdējā dzīves vieta ir bijusi Latvijā. Ja šādu personu manta atrodas Latvijā, tad šās mantas ziņā viņas ir pakļautas Latvijas likumam arī tad, ja viņām nav bijis dzīves vietas Latvijā.

@@ -1,0 +1,1 @@
+814. Spēkā neesoši legāti (813.p.) neatdabū spēku arī tad, kad vēlāk to spēkā neesamības iemesls atkrīt, ja vien tie nav piešķirti ar nosacījumu un spēkā neesamības iemesls nav atkritis pirms nosacījuma iestāšanās.

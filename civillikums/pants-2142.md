@@ -1,0 +1,1 @@
+2142. Ja līgumā nav noteikti maksas termiņi, tad nomniekam vai īrniekam jāmaksā nomas vai īres maksa tikai pēc lietošanas laika notecējuma. Bet ja līgums noslēgts uz gadu vai ilgāku laiku, tad minētā maksa samaksājama par katru pusgadu uz priekšu.

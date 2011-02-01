@@ -1,0 +1,1 @@
+667. Mantojuma prasību, ar kuru aizsargā mantojuma tiesību, var celt katrs mantinieks, vienalga, vai viņš aicināts pēc likuma, testamenta vai līguma un vai viņš prasa visu mantojumu vai tikai tā daļu.

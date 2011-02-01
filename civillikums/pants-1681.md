@@ -1,0 +1,1 @@
+1681. No parādnieka ieskata atkarājas, kuram no vairākiem kopkreditoriem izpildīt savu saistību, pie kam viņš tam var ieskaitīt arī savus varbūtējos pretprasījumus. Bet ja viens no kopkreditoriem jau cēlis izpildījuma prasību, tad parādniekam nav tiesības samaksāt kautkuram no pārējiem, un tāda samaksa neatsvabina viņu no saistības pret prasības cēlēju.

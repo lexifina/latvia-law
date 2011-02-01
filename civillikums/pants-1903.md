@@ -1,0 +1,1 @@
+1903. Ja ar prasības celšanu uzsākto lietu prasītājs neturpina, tad noilguma tecējums atkal atjaunojas no tās dienas, kad viņam vajadzējis lietu tālāk virzīt, t.i. no pēdējā viņam noliktā un viņa garām palaistā termiņa. Šā jaunā noilguma termiņš vienmēr ir desmit gadu, kaut arī pirmējais būtu bijis īsāks.

@@ -1,0 +1,1 @@
+1964. Ja neparedzēta apstākļa dēļ patapinātājam rodas nepieciešama vajadzība pēc lietas, tad patapinājuma ņēmējam nav tiesības to aizturēt, ja vien viņam to priekšlaicīgi atdodot neceļas sevišķi zaudējumi.

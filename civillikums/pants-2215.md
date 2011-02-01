@@ -1,0 +1,1 @@
+2215. Ja uzņēmējam atļauts viņam doto materiālu atvietot ar citu tādas pašas šķiras un tāda paša labuma materiālu, tad līgums atzīstams par uzņēmuma līgumu, un uzņēmējs, atvietojot viņam doto materiālu, kļūst par tā īpašnieku.

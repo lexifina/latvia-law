@@ -1,0 +1,1 @@
+2231. Pārvadātājs var prasīt, lai nosūtītājs izdod viņam preču zīmi, kurā, bez pārvadātāja, nosūtītāja un adresāta vārda, vēl jāatzīmē manta pēc tās rakstura, daudzuma un iezīmēm, nodošanas vieta, norunātā veduma maksa un beidzot preču zīmes izdošanas vieta un diena. Bez tam tajā var ierakstīt vēl arī citus līdzēju savstarpējās vienošanās nosacījumus.

@@ -1,0 +1,2 @@
+PIEKTĀ APAKŠNODAĻA
+Līguma sekas

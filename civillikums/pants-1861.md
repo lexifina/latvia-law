@@ -1,0 +1,1 @@
+1861. Ja vienā un tajā pašā personā sakrīt dažādas uz vienu un to pašu priekšmetu vērstas prasījumu tiesības, tad tās visas patstāvīgi paliek spēkā, kas notiek arī tad, kad vairāku kopkreditoru manta saplūst vienā. Tāpat arī vairāku kopparādnieku mantai saplūstot vienā, viņu saistības nekādā ziņā nepārgrozās.

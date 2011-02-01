@@ -1,0 +1,1 @@
+927. Īpašums ir pilnīgas varas tiesība par lietu, t. i. tiesība valdīt un lietot to, iegūt no tās visus iespējamos labumus, ar to rīkoties un noteiktā kārtā atprasīt to atpakaļ no katras trešās personas ar īpašuma prasību.

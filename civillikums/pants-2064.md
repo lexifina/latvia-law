@@ -1,0 +1,1 @@
+2064. Ja kāds pērk lietu ar iepriekšējas pārbaudes vai apskates tiesību, tad pirkums, ja puses nav savā starpā norunājušas citādi, atkarājas no atliekoša nosacījuma, ka pircējs atzīst lietu sev par noderīgu.

@@ -1,0 +1,1 @@
+1131. Servitūts, kas nodibināts par labu noteiktai fiziskai vai juridiskai personai, ir personālservitūts; servitūts, kas nodibināts par labu kādam noteiktam nekustamam īpašumam, tā ka to izlieto katrreizējais tā īpašnieks, ir reālservitūts.

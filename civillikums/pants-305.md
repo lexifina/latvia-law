@@ -1,0 +1,1 @@
+305. Izdevumi un izliktie līdzekļi (303. un 304. p.) jādabū aizbildnim atpakaļ arī tad, kad lieta, kurai tie izlietoti, izbeidzas nelabvēlīgi, ja vien pašu lietu viņš uzsācis ar nodomu sekmēt nepilngadīgā intereses un turklāt ar pienācīgu uzmanību.

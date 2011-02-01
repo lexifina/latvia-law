@@ -1,0 +1,1 @@
+742. Vienādos apstākļos priekšroka saņemt daļu dabā dodama tam līdzmantiniekam, kuram vieglāk iespējams izmaksāt citiem līdzmantiniekiem pienākošos atlīdzību, vai tam, kuram priekšroku dod visi mantinieki, kas savas daļas dabā nesaņem.

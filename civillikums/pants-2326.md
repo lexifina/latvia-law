@@ -1,0 +1,1 @@
+2326. Ja svešu lietu vešanu uzņemas rīcības nespējīga persona, tad viņas saistība pret pārstāvamo ir spēkā tikai tiktāl, ciktāl viņa ar to iedzīvojusies; bet ja viņa pati ceļ prasību lietvedības dēļ, tad viņa atbild neaprobežoti.

@@ -1,0 +1,1 @@
+326. Ja aizbildņi vienojas sadalīt savā starpā kopīgos aizbildnības pienākumus, viņi var to darīt tikai uz savu pašu atbildību, turklāt šāds sadalījums nekādā ziņā neietekmē ne aizbilstamā, ne trešo personu tiesības. Tomēr arī šajā gadījumā par katru darbību atbild vispirms tās izdarītājs.

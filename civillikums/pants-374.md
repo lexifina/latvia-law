@@ -1,0 +1,1 @@
+374. Ja promesošajam piekrīt mantojums, to var pieņemt aizgādnis tādā pašā kārtā, kā aizbildnis pieņem viņa aizbilstamajam piekritušu mantojumu. Bet, ja pirms likumā noteiktā noilguma termiņa notecējuma pierāda, ka promesošais mantojuma atklāšanās brīdī nav vairs bijis dzīvs, mantojums pāriet uz tiem, kas minētajā brīdī bijuši tuvākie mantinieki pēc promesošā.

@@ -1,0 +1,1 @@
+646. Mantojuma līgums nodibina tikai nākamo aicinājumu mantot un tādēļ, kamēr mantojuma atstājējs vēl ir dzīvs, piešķir līgumiskam mantiniekam vienīgi nogaidu tiesību uz viņa nākamo mantojumu, bet nevis tūliņ spēkā esošu tiesību uz mantojuma atstājēja tagadējo mantu.

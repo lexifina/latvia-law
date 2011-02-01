@@ -1,0 +1,1 @@
+502. Par legāta priekšmetu var būt viss tas, kas pēc savas dabas vai pēc likuma nav izņemts no apgrozības, vienalga, vai tā ir atsevišķa ķermeniska vai bezķermeniska lieta, vai lietu kopība. Arī tiesība uz legāta izpildītāja personīgu darbību var būt par legāta priekšmetu.

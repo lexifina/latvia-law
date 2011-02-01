@@ -1,0 +1,1 @@
+1087. Nevienam nav tiesības ierīkot uz savas zemes tādas rūpniecības vai amatniecības iestādes, kas var apgrūtināt vai apdraudēt sabiedrisko drošību un cilvēku veselību ar ugunsbriesmām, troksni, smaku, pārmērīgu dūmu daudzumu u. t. l. Izšķirt jautājumu par to, vai zināmā gadījumā patiesi pastāv apgrūtinājums vai apdraudējums, piekrīt tiesai.

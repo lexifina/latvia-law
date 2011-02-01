@@ -1,0 +1,1 @@
+2000. Kas uzņem pie sevis ceļotāju par naudu, nebūdams pēc savas nodarbošanās viesnīcnieks, kā arī viesnīcnieks, kas ierāda kādam pie sevis dzīvokli ne kā tāds, bet kā namsaimnieks, izīrējot vai kā citādi, atbild saviem iedzīvotājiem tikai pēc vispārējiem īres līguma noteikumiem.
