@@ -1,0 +1,2 @@
+1. Atzīt par spēku zaudējušu likumu " Par īpašuma privatizāciju agroservisa uzņēmumos " (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1993, 14./15.nr.).
+2. Atzīt par spēku zaudējušu Augstākās padomes lēmumu " Par Latvijas Republikas likuma "Par īpašuma privatizāciju agroservisa uzņēmumos" spēkā stāšanās kārtību " (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1993, 14./15.nr.; Latvijas Vēstnesis, 1994, 66.nr.).
