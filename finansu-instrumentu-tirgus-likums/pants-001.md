@@ -55,8 +55,8 @@ b) parāda vērtspapīri,
 c) citi vērtspapīri, kuros nostiprinātas tiesības iegādāties vai atsavināt pārvedamus vērtspapīrus vai kuri paredz norēķinus naudā, ko nosaka pārvedami vērtspapīri, valūta, procentu likme, preces vai cits bāzes aktīvs;
 33) mazie un vidējie komersanti - komersanti, kas saskaņā ar to individuālajiem gada pārskatiem vai konsolidētajiem gada pārskatiem atbilst vismaz diviem no šādiem trim kritērijiem:
 a) vidējais darbinieku skaits finansiālajā gadā ir mazāks par 250,
-b) aktīvu kopsumma nepārsniedz 43000000 eiro ekvivalentu latos pēc Latvijas Bankas noteiktā kursa,
-c) gada tīrais apgrozījums nepārsniedz 50 000 000 eiro ekvivalentu latos pēc Latvijas Bankas noteiktā kursa;
+b) aktīvu kopsumma nepārsniedz 43000000 euro ekvivalentu latos pēc Latvijas Bankas noteiktā kursa,
+c) gada tīrais apgrozījums nepārsniedz 50 000 000 euro ekvivalentu latos pēc Latvijas Bankas noteiktā kursa;
 34) publiskā piedāvājuma izteicējs - persona, kas publiski piedāvā pārvedamus vērtspapīrus;
 35) piedāvājuma programma - pasākumu kopums līdzīgas vai vienādas kategorijas pārvedamu vērtspapīru (izņemot kapitāla vērtspapīrus) nepārtrauktai vai atkārtotai emisijai noteiktā laika posmā;
 36) nepārtraukti vai atkārtoti emitēti pārvedami vērtspapīri - līdzīgas vai vienādas kategorijas pārvedami vērtspapīri, kas emitēti nepārtrauktā emisijā vai vismaz divās atsevišķās emisijās, kuras notikušas 12 mēnešu laikā no publiskā piedāvājuma sākuma datuma;
@@ -96,4 +96,5 @@ d) personai ir kontrole pār komercsabiedrību, un šī persona to faktiski izma
 61) privāts klients - klients, kas nav profesionāls klients;
 62) finanšu analītiķis - ieguldījumu brokeru sabiedrības vai kredītiestādes darbinieks, kas izstrādā ieguldījumu pētījuma saturu;
 63) korporatīvā pārvaldība - pasākumu kopums komercsabiedrības darbības mērķu sasniegšanai un komercsabiedrības darbības kontrolei, kā arī ar komercsabiedrības darbību saistīto risku novērtēšanai un pārvaldīšanai;
-64) ieraksta datums - datums sešas darba dienas pirms akcionāru sapulces. Šajā datumā dienas beigās tiek fiksēti attiecīgās akciju sabiedrības akcionāri un tiem piederošais akciju skaits akcionāra dalībai attiecīgajā akcionāru sapulcē.
+64) ieraksta datums - datums sešas darba dienas pirms akcionāru sapulces. Šajā datumā dienas beigās tiek fiksēti attiecīgās akciju sabiedrības akcionāri un tiem piederošais akciju skaits akcionāra dalībai attiecīgajā akcionāru sapulcē;
+65) brīvais kapitāls - personai piederošo aktīvu vērtība, kas samazināta par šīs personas saistību vērtību un to aktīvu vērtību, kuri uzskatāmi par ilgtermiņa ieguldījumiem.

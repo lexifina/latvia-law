@@ -8,6 +8,6 @@
 (2) Piedāvājums netiek uzskatīts par publisku un prasība sagatavot emisijas prospektu neattiecas uz piedāvājumu:
 1) kas izteikts tikai kvalificētajiem ieguldītājiem;
 2) kas katrā dalībvalstī nepārprotami izteikts mazāk nekā 100fiziskajām personām vai juridiskajām personām, kas nav kvalificētie ieguldītāji;
-3) kurā pārvedamu vērtspapīru minimālais pirkuma apjoms katram ieguldītājam ir vismaz 50000 eiro un nav atļauta tāda viena pārvedama vērtspapīra iegūšana, kuras rezultātā šis pārvedamais vērtspapīrs pieder vairākām personām;
-4) kurā piedāvātā viena pārvedama vērtspapīra nominālvērtība nav mazāka par 50000 eiro ekvivalentu latos pēc Latvijas Bankas noteiktā kursa;
-5) kas izteikts par pārvedamiem vērtspapīriem, kuru emisijas apjoms 12 mēnešu laikā nepārsniedz 100000 eiro ekvivalentu latos pēc Latvijas Bankas noteiktā kursa.
+3) kurā pārvedamu vērtspapīru minimālais pirkuma apjoms katram ieguldītājam ir vismaz 50000 euro un nav atļauta tāda viena pārvedama vērtspapīra iegūšana, kuras rezultātā šis pārvedamais vērtspapīrs pieder vairākām personām;
+4) kurā piedāvātā viena pārvedama vērtspapīra nominālvērtība nav mazāka par 50000 euro ekvivalentu latos pēc Latvijas Bankas noteiktā kursa;
+5) kas izteikts par pārvedamiem vērtspapīriem, kuru emisijas apjoms 12 mēnešu laikā nepārsniedz 100000 euro ekvivalentu latos pēc Latvijas Bankas noteiktā kursa.

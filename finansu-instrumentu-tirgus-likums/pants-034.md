@@ -8,4 +8,5 @@ Komisija anulē kapitālsabiedrībai izsniegto licenci regulētā tirgus organiz
 6) tirgus organizētājs ir iesniedzis rakstveida iesniegumu licences anulēšanai;
 7) tirgus organizētājs nav uzsācis darbību 12 mēnešu laikā kopš licences izsniegšanas dienas;
 8) tirgus organizētājs nav veicis licencē norādīto darbību ilgāk par sešiem mēnešiem;
-9) tiek konstatēts, ka tirgus organizētājs vairs neatbilst šajā likumā noteiktajām prasībām licences saņemšanai.
+9) tiek konstatēts, ka tirgus organizētājs vairs neatbilst šajā likumā noteiktajām prasībām licences saņemšanai;
+10) tiek konstatēts, ka tirgus organizētāja akcionāriem ar būtisku līdzdalību iestājies tiem piederošo akciju balsstiesību izmantošanas aizliegums un tas ilgst vairāk nekā sešus mēnešus.

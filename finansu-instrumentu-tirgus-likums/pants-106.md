@@ -23,6 +23,6 @@
 5) kura apzināti sniegusi Komisijai nepatiesas ziņas par sevi, iesniedzot Komisijai dokumentus, lai saņemtu licenci jebkādas darbības veikšanai finanšu un kapitāla tirgū.
 (5) Ieguldījumu brokeru sabiedrības daļu īpašnieki (akcionāri), kuriem ir būtiska līdzdalība, var būt tikai personas:
 1) kurām ir nevainojama reputācija;
-2) kurām ir pietiekami finanšu līdzekļi, kuru ieguves tiesiskumu iespējams dokumentāri pierādīt;
+2) kurām ir pietiekams brīvais kapitāls un kuru veidojošo finanšu līdzekļu ieguves tiesiskumu iespējams dokumentāri pierādīt;
 3) kuras iespējams identificēt.
 (6) Ieguldījumu brokeru sabiedrības pārvaldes institūcijai ir pienākums pašai vai pēc Komisijas pieprasījuma nekavējoties atsaukt no amata valdes vai padomes locekļus, ja tie neatbilst šā likuma prasībām.

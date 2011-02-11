@@ -11,4 +11,6 @@
 7) pieprasīt, lai finanšu instrumentu tirgus dalībnieki izbeidz jebkādas darbības, kas ir pretrunā ar šā likuma prasībām;
 8) apturēt finanšu instrumentu tirdzniecību;
 9) ierobežot ieguldījumu brokeru sabiedrības vai kredītiestādes tiesības sniegt ieguldījumu pakalpojumus vai turēt finanšu instrumentus;
-10) anulēt ieguldījumu brokeru sabiedrībai izsniegtās licences ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšanai.
+10) anulēt ieguldījumu brokeru sabiedrībai izsniegtās licences ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšanai;
+11) noteikt procentuālus ierobežojumus ieguldījumu brokeru sabiedrības neto ieņēmumu apmēram, kuru drīkst izmantot no darbības rezultātiem atkarīgai darba samaksai, lai nodrošinātu stabilai ieguldījumu brokeru sabiedrības darbībai atbilstoša pašu kapitāla apmēra uzturēšanu;
+12) pieprasīt, lai ieguldījumu brokeru sabiedrība izmanto peļņu ieguldījumiem pašu kapitāla elementos.

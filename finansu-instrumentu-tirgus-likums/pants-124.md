@@ -14,6 +14,7 @@
 a) ieguldījumu brokeru sabiedrības lielumam un darbības riskiem atbilstošu organizatorisko struktūru ar skaidri noteiktu, nepārprotamu un sistemātisku pienākumu, pilnvaru un atbildības sadalījumu darījumu veikšanā un kontrolē starp ieguldījumu brokeru sabiedrības struktūrvienībām un atbildīgajiem darbiniekiem,
 b) ieguldījumu brokeru sabiedrības darbībai piemītošo un varbūtējo risku identificēšanas, pārvaldīšanas, uzraudzības un ziņošanas sistēmu,
 c) iekšējās kontroles procedūras;
+d) atalgojuma sistēmu;
 12) nodrošina ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu nepārtrauktu un sistemātisku sniegšanu, izmantojot atbilstošas sistēmas, līdzekļus un procedūras;
 13) nodrošina visus nepieciešamos administratīvos un organizatoriskos pasākumus, lai novērstu šā likuma 127.pantā minēto interešu konfliktu negatīvo ietekmi uz klientu interesēm.
 (2) Kredītiestāde, kura sniedz ieguldījumu pakalpojumus vai ieguldījumu blakuspakalpojumus, izpilda un ievēro šādas prasības:
