@@ -1,1 +1,1 @@
-4.pants. Ja norēķini par produkcijas piegādi nav veikti desmit dienu laikā vai noslēgtajā līgumā paredzētajā termiņā, uzņēmumi par nokavējumu maksā soda naudu Latvijas Bankas noteiktās refinansēšanas likmes apmērā.
+4.pants. Ja norēķini par produkcijas piegādi nav veikti 10 dienu laikā no produkcijas piegādes dienas vai noslēgtajā līgumā paredzētajā termiņā, komersants par nokavējumu maksā likumiskos procentus saskaņā ar Civillikumu.

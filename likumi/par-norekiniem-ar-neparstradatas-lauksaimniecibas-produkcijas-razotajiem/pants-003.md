@@ -1,1 +1,1 @@
-3.pants. Norēķini starp produkcijas ražotājiem (piegādātājiem) un uzņēmumiem tiek veikti desmit dienu laikā no piegādes dienas. Šajā pantā norādītais norēķinu termiņš neattiecas uz banku norēķiniem.
+3.pants. Norēķini starp produkcijas ražotājiem (piegādātājiem) un komersantiem tiek veikti 10 dienu laikā no produkcijas piegādes dienas. Šajā pantā minētais norēķinu termiņš neattiecas uz līgumiem, kuros samaksas termiņš noteikts saskaņā ar šā likuma 2.panta otro daļu.
