@@ -7,4 +7,4 @@ Sadarbības programmas vadību nodrošina šādas sadarbības programmas vadīb�
 5) Stipendiju fonda koordinējošā iestāde;
 6) individuālā projekta īstenotājs;
 7) apakšprojekta īstenotājs;
-8) Stipendiju fonda finansējuma saņēmējs.
+8) (izslēgts ar 10.02.2011. likumu).
