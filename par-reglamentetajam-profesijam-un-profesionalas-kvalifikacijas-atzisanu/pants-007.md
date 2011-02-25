@@ -4,3 +4,4 @@
 1) būvinženieris - specialitātēs, kuras nosaka likumi būvniecības jomā;
 2) būvtehniķis - specialitātēs, kuras nosaka likumi būvniecības jomā;
 3) (izslēgts ar 04.11.2004. likumu).
+(3) Arhitektūras un būvniecības jomā reglamentēta ir būvinspektora profesija, kurā kvalifikācijas prasības nosaka normatīvie akti būvniecības jomā.
