@@ -1,1 +1,0 @@
-102.pants. Zvērinātu tiesu izpildītāju palīgiem obligāti jāpiedalās Latvijas Zvērinātu tiesu izpildītāju padomes organizētajos kvalifikācijas paaugstināšanas pasākumos, kā arī jāizpilda visi citi pienākumi, kurus padome viņiem uzliek.

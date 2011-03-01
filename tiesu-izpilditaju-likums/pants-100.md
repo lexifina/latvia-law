@@ -1,3 +1,0 @@
-100.pants. (1) Latvijas Zvērinātu tiesu izpildītāju padome reizi gadā rīko eksāmenu zvērinātu tiesu izpildītāju palīgiem, kuri vēlas iegūt šā likuma 99.panta ceturtajā daļā paredzētās zvērināta tiesu izpildītāja palīga tiesības, ja ir saņemts zvērināta tiesu izpildītāja palīga iesniegums par atļauju kārtot eksāmenu.
-(2) Zvērināta tiesu izpildītāja palīga zināšanas pārbauda Latvijas Zvērinātu tiesu izpildītāju padomes izveidota eksaminācijas komisija, piedaloties tieslietu ministra pilnvarotai personai.
-(3) Zvērināta tiesu izpildītāja palīga eksāmena kārtību un nepieciešamo zināšanu apjomu nosaka Ministru kabinets. Tieslietu ministrs pēc Latvijas Zvērinātu tiesu izpildītāju padomes priekšlikuma apstiprina eksāmena jautājumus.

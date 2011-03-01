@@ -1,1 +1,0 @@
-101.pants. Veicot šā likuma 99.panta trešajā un ceturtajā daļā noteiktās amata darbības, zvērināta tiesu izpildītāja palīgam par savu amata darbību ir tāda pati civiltiesiskā un krimināltiesiskā atbildība, kāda paredzēta zvērinātam tiesu izpildītājam. Par sava palīga amata darbību solidāri civiltiesiski atbildīgs ir arī zvērināts tiesu izpildītājs.

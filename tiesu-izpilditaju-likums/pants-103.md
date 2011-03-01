@@ -1,1 +1,0 @@
-103.pants. Zvērināta tiesu izpildītāja palīgam kā disciplinārsodu šā likuma V sadaļas trešajā nodaļā noteiktajā kārtībā var piemērot aizliegumu pildīt šā likuma 99.panta trešajā un ceturtajā daļā noteiktās darbības uz laiku līdz trim gadiem vai atcelšanu no amata, ja zvērināta tiesu izpildītāja palīgs, pildot šīs darbības, pieļauj nolaidību vai tiesību normu pārkāpumus.
