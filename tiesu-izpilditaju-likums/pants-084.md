@@ -1,2 +1,2 @@
-84.pants. (1) Zvērinātu tiesu izpildītāju darbību, grāmatas un izpildu lietas vismaz reizi gadā pārbauda apgabaltiesas priekšsēdētāja norīkots tiesnesis.
+84.pants. (1) Zvērinātu tiesu izpildītāju darbību var pārbaudīt apgabaltiesas priekšsēdētāja norīkots tiesnesis. Par veiktās pārbaudes rezultātiem tiesnesis informē Latvijas Zvērinātu tiesu izpildītāju padomi.
 (2) Apgabaltiesas priekšsēdētājs var aicināt pārbaudē piedalīties Latvijas Zvērinātu tiesu izpildītāju padomes norīkotus zvērinātus tiesu izpildītājus un Latvijas Zvērinātu tiesu izpildītāju padomes darbiniekus.

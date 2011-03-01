@@ -1,0 +1,2 @@
+111.² pants. (1) Zvērināta tiesu izpildītāja palīga kandidātus, kuri nokārtojuši šā likuma 111.¹ pantā paredzēto eksāmenu un saņēmuši pozitīvu Latvijas Zvērinātu tiesu izpildītāju padomes novērtējumu, tieslietu ministrs apstiprina zvērināta tiesu izpildītāja palīga amatā.
+(2) Pēc apstiprināšanas amatā zvērināta tiesu izpildītāja palīgs saņem zvērināta tiesu izpildītāja palīga amata apliecību un dod solījumu godīgi un apzinīgi pildīt savus amata pienākumus. Zvērināta tiesu izpildītāja palīga amata apliecības veidu un lietošanas kārtību nosaka Ministru kabinets.

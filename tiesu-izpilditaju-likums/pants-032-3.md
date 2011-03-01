@@ -1,1 +1,1 @@
-32.³ pants. Tieslietu ministrs pieņem lēmumu par kvalifikācijas eksāmena rīkošanu un eksāmena dienu izsludina laikrakstā "Latvijas Vēstnesis" vismaz mēnesi pirms eksāmena.
+32.³ pants. Tieslietu ministrs pieņem lēmumu par kvalifikācijas eksāmena rīkošanu un eksāmena kārtošanas dienu. Informāciju par kvalifikācijas eksāmena rīkošanu un eksāmena kārtošanas dienu Latvijas Zvērinātu tiesu izpildītāju padome publicē Latvijas Zvērinātu tiesu izpildītāju padomes mājaslapā internetā vismaz mēnesi pirms eksāmena.

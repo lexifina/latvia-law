@@ -1,1 +1,1 @@
-89.pants. Zvērināta tiesu izpildītāja palīga atbildība par amata pienākumu pildīšanu, aizvietojot zvērinātu tiesu izpildītāju, kā arī zvērināta tiesu izpildītāja atbildība par palīga darbību nosakāma saskaņā ar šā likuma 101.pantu.
+89.pants. Zvērināta tiesu izpildītāja palīga atbildība, aizvietojot zvērinātu tiesu izpildītāju viņa prombūtnes laikā, kā arī veicot citas šā likuma 111.³ panta otrajā daļā minētās darbības, un zvērināta tiesu izpildītāja atbildība par viņa palīga darbību nosakāma saskaņā ar šā likuma 111.⁴ un 111.⁶ pantu.

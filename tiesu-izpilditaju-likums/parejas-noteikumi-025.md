@@ -1,0 +1,1 @@
+25. Personām, kuras sākušas pildīt zvērināta tiesu izpildītāja palīga amata pienākumus līdz 2011.gada 28.februārim un kuras nav nokārtojušas zvērināta tiesu izpildītāja palīga eksāmenu, amatā nostrādātais laiks ieskaitāms šā likuma 97.panta ceturtajā daļā minētajā termiņā.

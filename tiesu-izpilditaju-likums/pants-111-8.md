@@ -1,0 +1,1 @@
+111.⁸ pants. Persona, kura no zvērināta tiesu izpildītāja palīga amata atbrīvota saskaņā ar šā likuma 111.⁷ panta otro daļu, atsākot pildīt zvērināta tiesu izpildītāja palīga amata pienākumus, saņem zvērināta tiesu izpildītāja palīga amata apliecību bez atkārtota zvērināta tiesu izpildītāja palīga eksāmena kārtošanas, ja no atbrīvošanas dienas pagājis ne vairāk kā viens gads.

@@ -1,0 +1,1 @@
+111.⁵ pants. Zvērināta tiesu izpildītāja palīgs obligāti piedalās Latvijas Zvērinātu tiesu izpildītāju padomes organizētajos kvalifikācijas paaugstināšanas pasākumos, kā arī izpilda visus citus pienākumus, kurus viņam uzliek Latvijas Zvērinātu tiesu izpildītāju padome.

@@ -1,0 +1,2 @@
+111.⁴ pants. (1) Aizvietojot zvērinātu tiesu izpildītāju viņa prombūtnes laikā, kā arī veicot citas šā likuma 111.³ panta otrajā daļā noteiktās amata darbības, zvērināta tiesu izpildītāja palīgam ir šajā likumā zvērinātiem tiesu izpildītājiem noteiktās tiesības, pienākumi un atbildība.
+(2) Zvērināts tiesu izpildītājs ir solidāri civiltiesiski atbildīgs par zaudējumiem, kurus viņa palīgs nodarījis, aizvietojot zvērinātu tiesu izpildītāju viņa prombūtnes laikā, kā arī veicot citas šā likuma 111.³ panta otrajā daļā minētās darbības.

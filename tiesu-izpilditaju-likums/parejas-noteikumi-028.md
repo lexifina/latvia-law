@@ -1,0 +1,1 @@
+28. Līdz attiecīgo šajā likumā paredzēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2011.gada 31.maijam piemērojami Ministru kabineta 2007.gada 9.janvāra noteikumi Nr.42 "Noteikumi par zvērināta tiesu izpildītāja palīga eksāmena kārtību un nepieciešamo zināšanu apjomu", ciktāl tie nav pretrunā ar šo likumu.

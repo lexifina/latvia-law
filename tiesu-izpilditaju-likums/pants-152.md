@@ -4,3 +4,4 @@
 3) juridiskajām personām naudu pārskaita uz attiecīgo kontu kredītiestādē;
 4) juridisko personu pārstāvjiem, kuri iesniedz dokumentu, kas apliecina viņu pilnvarojumu, izraksta čeku.
 (2) Visu naudas dokumentu norakstiem ir jābūt izpildu lietā.
+(3) Naudas līdzekļi, kas piedzīti no parādnieka un nododami piedzinējam, izsniedzami vai pārskaitāmi piedzinējam septiņu dienu laikā no dienas, kad tie ieskaitīti zvērināta tiesu izpildītāja depozīta kontā, ja nav objektīvu iemeslu, kuru dēļ naudas līdzekļu pārskaitīšana atliekama.

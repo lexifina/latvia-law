@@ -1,1 +1,0 @@
-7. No valsts budžetā paredzētā finansējuma tieslietu ministra noteiktajā kārtībā un apmērā, kas saskaņots ar Latvijas Zvērinātu tiesu izpildītāju padomi, zvērinātiem tiesu izpildītājiem tiek piešķirts finansējums prakses uzturēšanai atbilstoši zvērinātu tiesu izpildītāju slodzei.

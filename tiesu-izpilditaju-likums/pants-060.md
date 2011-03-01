@@ -3,5 +3,5 @@
 2) divi zvērinātu tiesu izpildītāju kopsapulcē ievēlēti pārstāvji;
 3) viens Augstākās tiesas priekšsēdētāja norīkots Augstākās tiesas tiesnesis.
 (2) Disciplinārlietu komisijas priekšsēdētājs ir Tieslietu ministrijas pārstāvis.
-(3) Disciplinārlietu komisijas sastāvu apstiprina uz diviem gadiem.
-(4) Disciplinārlietu komisijas pārstāvjus var apstiprināt disciplinārlietu komisijas sastāvā ne vairāk kā divus termiņus pēc kārtas.
+(3) Disciplinārlietu komisijas sastāvu apstiprina uz trim gadiem.
+(4) Disciplinārlietu komisijas pārstāvjus, kurus ievēlē zvērinātu tiesu izpildītāju kopsapulcē, var apstiprināt disciplinārlietu komisijas sastāvā ne vairāk kā divus termiņus pēc kārtas.

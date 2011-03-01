@@ -1,2 +1,2 @@
-145.pants. (1) Naudas līdzekļi, kas atrodas zvērināta tiesu izpildītāja depozīta kontā kredītiestādē, un citas depozītu summas zvērināta tiesu izpildītāja nāves gadījumā neietilpst mantojuma masā.
+145.pants. (1) Uz naudas līdzekļiem, kas atrodas zvērināta tiesu izpildītāja depozīta kontā kredītiestādē, nevar vērst piedziņu zvērināta tiesu izpildītāja parādu segšanai, un šie naudas līdzekļi zvērināta tiesu izpildītāja nāves gadījumā neietilpst mantojuma masā.
 (2) Ja zvērināts tiesu izpildītājs tiek atcelts vai atstādināts no amata, kā arī zvērināta tiesu izpildītāja nāves vai ilgstošas slimības gadījumā depozīta konts kredītiestādē un citas depozītu summas saskaņā ar tieslietu ministra rīkojumu pāriet rīkojumā noteiktajam zvērinātam tiesu izpildītājam.

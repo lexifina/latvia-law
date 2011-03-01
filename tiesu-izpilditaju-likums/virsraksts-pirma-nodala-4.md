@@ -1,2 +1,2 @@
 Pirmā nodaļa
-Zvērinātu tiesu izpildītāju palīgi
+Zvērināta tiesu izpildītāja palīga kandidāti

@@ -1,3 +1,2 @@
 Trešā nodaļa
-Latvijas Zvērinātu tiesu izpildītāju padome
-un revīzijas komisija
+Zvērināta tiesu izpildītāja palīga eksāmens un zvērināta tiesu izpildītāja palīgi

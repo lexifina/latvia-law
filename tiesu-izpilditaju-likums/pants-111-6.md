@@ -1,0 +1,2 @@
+111.⁶ pants. (1) Zvērināta tiesu izpildītāja palīgam kā disciplinārsodu šā likuma V sadaļas trešajā nodaļā noteiktajā kārtībā var piemērot piezīmi, rājienu, aizliegumu pildīt šā likuma 111.³ panta otrajā daļā minētās darbības uz laiku līdz trim gadiem vai atcelšanu no amata.
+(2) Izskatot disciplinārlietu, kas ierosināta pret zvērināta tiesu izpildītāja palīgu, šā likuma V sadaļas trešajā nodaļā noteiktajā kārtībā vienlaikus tiek izvērtēta arī attiecīgā zvērināta tiesu izpildītāja disciplinārā atbildība par sava palīga nepienācīgu uzraudzību un vadību.

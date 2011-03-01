@@ -1,2 +1,2 @@
 X sadaļa
-Zvērinātu tiesu izpildītāju palīgi
+Zvērināta tiesu izpildītāja palīga kandidāti un zvērināta tiesu izpildītāja palīgi

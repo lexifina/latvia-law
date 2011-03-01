@@ -1,0 +1,3 @@
+111.¹ pants. (1) Latvijas Zvērinātu tiesu izpildītāju padome ne retāk kā reizi gadā rīko eksāmenu zvērināta tiesu izpildītāja palīga kandidātiem, kuri vēlas iegūt zvērināta tiesu izpildītāja palīga tiesības, ja ir saņemts zvērināta tiesu izpildītāja palīga kandidātu iesniegums par atļauju kārtot eksāmenu.
+(2) Zvērināta tiesu izpildītāja palīga kandidāta zināšanas pārbauda Latvijas Zvērinātu tiesu izpildītāju padomes izveidota eksaminācijas komisija, piedaloties tieslietu ministra pilnvarotai personai.
+(3) Zvērināta tiesu izpildītāja palīga eksāmena rīkošanas kārtību un nepieciešamo zināšanu apjomu nosaka Ministru kabinets. Tieslietu ministrs pēc Latvijas Zvērinātu tiesu izpildītāju padomes priekšlikuma apstiprina eksāmena jautājumus.
