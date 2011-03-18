@@ -1,2 +1,2 @@
 88.pants
-Enerģijas patērētāju tiesību un interešu aizsardzību veic Patērētāju tiesību aizsardzības centrs. Sabiedrisko pakalpojumu regulēšanas komisija izskata strīdus likumā "Par sabiedrisko pakalpojumu regulatoriem" noteiktajā kārtībā.
+Enerģijas lietotāju tiesību un interešu aizsardzību veic un strīdus izskata Sabiedrisko pakalpojumu regulēšanas komisija likumā "Par sabiedrisko pakalpojumu regulatoriem" noteiktajā kārtībā, kā arī Patērētāju tiesību aizsardzības centrs Patērētāju tiesību aizsardzības likumā noteiktajā kārtībā.

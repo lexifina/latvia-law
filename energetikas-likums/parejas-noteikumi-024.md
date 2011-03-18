@@ -1,1 +1,1 @@
-24. Drošības rezervju pakalpojumu sniegšanu saskaņā ar šo pārejas noteikumu 23.punktā minētā konkursa rezultātiem komersanti nodrošina, sākot ar 2010.gada 1.septembri.
+24. Drošības rezervju pakalpojumu sniegšanu saskaņā ar šā likuma 72.panta otrajā daļā minēto atklāto konkursu rezultātiem komersanti sāk nodrošināt ne vēlāk kā no 2011.gada 1.jūlija.
