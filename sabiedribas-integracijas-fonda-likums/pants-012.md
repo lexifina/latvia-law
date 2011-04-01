@@ -1,16 +1,7 @@
-12.pants. Fonda komitejas
-(1) Fonda komitejas izvērtē iesniegtos sabiedrības integrācijas projektus un saskaņā ar Fonda nolikumu sagatavo tos izskatīšanai Fonda padomē.
-(2) Sabiedrības integrācijas fondā ir šādas pastāvīgās komitejas:
-1) Pilsoniskās līdzdalības komiteja;
-2) Sociālās integrācijas komiteja;
-3) Reģionālās integrācijas komiteja;
-4) Izglītības un valodas komiteja;
-5) Kultūras komiteja;
-6) Repatriācijas un migrācijas komiteja;
-7) Pētniecības un sabiedrības saziņas komiteja.
-(3) Fonda padome var izveidot arī citas komitejas.
-(4) Katras komitejas sastāvā ir vismaz pieci locekļi, no kuriem vismaz viens pārstāv valsts institūciju, kuras kompetencē ir attiecīgās komitejas pārziņā esošie jautājumi. Komitejas locekļus ieceļ Fonda padome.
-(5) Komitejas darbu vada tās priekšsēdētājs. Priekšsēdētāju ievēlē attiecīgā komiteja no tās locekļu vidus.
-(6) Komitejas locekļu pilnvaru laiks ir divi gadi.
-(7) Komiteja darbojas, pamatojoties uz Fonda padomes apstiprinātu nolikumu.
-(8) Komiteja, kas izvērtē Eiropas Savienības finansētos projektus, darbojas atbilstoši Latvijas un Eiropas Komisijas noslēgtajiem līgumiem.
+12.pants. Fonda komisijas
+(1) Fonda komisijas izvērtē iesniegtos sabiedrības integrācijas un publiskā un nevalstiskā sektora attīstības projektus un saskaņā ar normatīvajiem aktiem un Fonda nolikumu iesaka tos Fondam apstiprināt vai noraidīt.
+(2) Fonda komisijas izveido, to locekļus un nolikumu apstiprina Fonda padome, ja ārējā normatīvajā aktā nav noteikts citādi.
+(3) Katras komisijas sastāvā ir vismaz pieci locekļi, no kuriem vismaz viens pārstāv valsts institūciju, kuras kompetencē ir attiecīgās komisijas pārziņā esošie jautājumi.
+(4) Komisijas darbu vada tās priekšsēdētājs. Priekšsēdētāju ievēlē attiecīgā komisija no tās locekļu vidus.
+(5) Komisijas locekļu pilnvaru laiks ir ne ilgāks kā divi gadi.
+(6) Projektus, kurus finansē no Eiropas Savienības politiku instrumentiem vai ārvalstu finanšu palīdzības, izvērtē saskaņā ar attiecīgos instrumentus vai finanšu palīdzību reglamentējošiem dokumentiem.

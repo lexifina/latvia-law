@@ -1,0 +1,1 @@
+4. Līdz dienai, kad Fonda padome apstiprina Fonda nolikumu, bet ne ilgāk par 2011.gada 1.jūliju ir piemērojami Ministru kabineta 2001.gada 28.augusta noteikumi Nr.390 "Sabiedrības integrācijas fonda nolikums", ciktāl tie nav pretrunā ar šo likumu.

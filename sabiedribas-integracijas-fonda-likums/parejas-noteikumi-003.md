@@ -1,0 +1,1 @@
+3. Ministru kabinets līdz 2011.gada 1.jūlijam nosaka kritērijus, pēc kādiem tiek izraudzītas nevalstiskās organizācijas, kuras ir tiesīgas deleģēt savu pārstāvi darbam Fonda padomē, un kārtību, kādā šīs organizācijas tiek izraudzītas.

@@ -6,3 +6,5 @@
 (2) No valsts budžeta piešķirtie līdzekļi glabājas Valsts kasē.
 (3) No pašvaldību budžetiem piešķirtie līdzekļi, kā arī juridisko un fizisko personu, to skaitā ārvalstu juridisko un fizisko personu, dāvinātā un ziedotā nauda glabājas bankā, ko var norādīt dāvinātājs vai ziedotājs.
 (4) Fonda līdzekļi tiek izlietoti atbilstoši Fonda mērķim un uzdevumiem, kā arī Fonda darbības nodrošināšanai. Fonda līdzekļu atlikumu saimnieciskā gada beigās izlieto fonda izdevumu segšanai nākamajā saimnieciskajā gadā, to neapliek ar ienākuma nodokli.
+(5) Institūcija, kuras valsts budžeta pieprasījumā ietverti Fondam piešķiramie valsts budžeta līdzekļi, attiecīgo valsts budžeta pieprasījuma daļu izstrādā, sadarbojoties un konsultējoties ar Fondu.
+(6) Ministru kabinets reglamentē nevalstisko organizāciju līdzfinansējuma piešķiršanas, vadības, uzraudzības un kontroles noteikumus.
