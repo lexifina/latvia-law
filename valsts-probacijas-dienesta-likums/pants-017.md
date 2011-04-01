@@ -4,4 +4,4 @@
 1) (izslēgts ar 16.06.2009. likumu);
 2) veicamo un veikto resocializācijas darbu ar notiesātajiem;
 3) personām, kuras lūdz brīvības atņemšanas iestādes administratīvo komisiju izskatīt jautājumu par lietas iespējamo virzīšanu uz tiesu nosacītai pirmstermiņa atbrīvošanai no soda izciešanas.
-(3) Valsts probācijas dienests sniedz brīvības atņemšanas iestādes administratīvajai komisijai rakstveida vērtējumu par personas gatavību iekļauties sabiedrībā pēc nosacītas pirmstermiņa atbrīvošanas.
+(3) (Izslēgta no 01.04.2011. ar 28.10.2010. likumu)
