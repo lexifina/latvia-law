@@ -7,3 +7,4 @@
 (4) Prasības komersantiem, izglītības iestādēm un speciālistiem, kuri nodrošina transportlīdzekļu vadītāju apmācību, transportlīdzekļu vadītāju apmācības programmas, kā arī transportlīdzekļu vadītāju apmācības procesa kontroles kārtību nosaka Ministru kabinets.
 (5) Mācību braucieni atļauti personām, kurām ir ceļu satiksmes noteikumu pamatzināšanas. Sākotnējai mācību braukšanai jānotiek norobežotos laukumos.
 (6) Piedaloties ceļu satiksmē, personai, kura mācās braukt ar mehānisko transportlīdzekli (izņemot trolejbusu), jābūt klāt braukšanas mācību atļaujai vai dokumentam par tiesībām vadīt mehāniskos transportlīdzekļus. Pēc policijas darbinieku pieprasījuma attiecīgās personas pienākums ir uzrādīt šo dokumentu.
+(7) Prasības transportlīdzekļu (izņemot traktortehniku) vadītāju eksaminācijas inspektoriem nosaka Ministru kabinets.

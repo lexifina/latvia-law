@@ -6,3 +6,4 @@
 (2) Transportlīdzekļa vadītājam, kurš ierodas Latvijā no ārvalstīm un uzturas Latvijā ilgāk par vienu gadu, noteiktā kārtībā jāapmaina transportlīdzekļa vadītāja apliecība, izņemot Eiropas Savienības dalībvalsts vai Eiropas Brīvās tirdzniecības asociācijas dalībvalsts izsniegtu vadītāja apliecību, kā arī personas, kas bauda diplomātiskās vai konsulārās imunitātes un privilēģijas.
 (3) Latvijā ir pienākums reģistrēt tādus no ārvalstīm uz laiku ievestus transportlīdzekļus, kuri atbilst šā likuma 10.panta 1.² daļas nosacījumiem.
 (4) Šā panta pirmās un otrās daļas noteikumi nav piemērojami ārvalstu bruņoto spēku sastāvā esošajām personām, kuras Latvijas Republikā pilda dienesta pienākumus starptautiskās sadarbības ietvaros.
+(5) Šā panta pirmajā daļā minētajos gadījumos personai Latvijā atļauts vadīt transportlīdzekli, ja tā sasniegusi šā likuma 24.pantā minēto attiecīgās kategorijas transportlīdzekļu vadītāja tiesību iegūšanai noteikto vecumu.
