@@ -10,4 +10,5 @@
 8) atļaut vides aizsardzības institūciju pārstāvjiem, kuri normatīvajos aktos noteiktajā kārtībā veic ūdeņu stāvokļa valsts kontroli vai vides monitoringu, ņemt pazemes un virszemes ūdeņu paraugus privātajos ūdeņos vai ņemt augsnes paraugus un veikt monitoringa iekārtu kontroli privātīpašuma teritorijā;
 9) veikt monitoringu atļaujās vai normatīvajos aktos paredzētajos gadījumos un kārtībā;
 10) atlīdzināt zaudējumus, kas ūdens resursu lietošanas rezultātā nodarīti videi vai ūdens bioloģiskajiem resursiem, ja atbilstoši spēkā esošajiem normatīvajiem aktiem atzīta ūdens resursu lietotāja atbildība par šiem zaudējumiem;
-11) pārtraukt ūdens resursu lietošanu, ja konstatēta pazemes ūdensobjekta un virszemes ūdensobjekta stāvokļa pasliktināšanās, nodarīts kaitējums cilvēku veselībai vai videi, it īpaši ūdens ekosistēmām un no tām tieši atkarīgajām sauszemes ekosistēmām.
+11) pārtraukt ūdens resursu lietošanu, ja konstatēta pazemes ūdensobjekta un virszemes ūdensobjekta stāvokļa pasliktināšanās, nodarīts kaitējums cilvēku veselībai vai videi, it īpaši ūdens ekosistēmām un no tām tieši atkarīgajām sauszemes ekosistēmām;
+12) ievērot ūdens objektu ekspluatācijas (apsaimniekošanas) noteikumos paredzēto ūdens objekta, tajā skaitā ūdens objekta hidrotehnisko būvju, ekspluatācijas režīmu, lai novērstu plūdu draudus ūdens objektam piegulošajās teritorijās.

@@ -13,8 +13,8 @@ Likumā ir lietoti šādi termini:
 11) prioritārās vielas - ķīmiskās vielas, kas rada būtisku risku ūdens videi, arī ūdens videi īpaši bīstamas vielas;
 12) pazemes ūdeņi - visi ūdeņi, kas atrodas zem zemes virsmas ar ūdeni piesātinātajā zonā un ir tiešā saskarē ar augsni vai nogulumiežiem;
 13) pārejas ūdeņi - virszemes ūdeņi upju grīvu tuvumā, kuri blakus esošu piekrastes ūdeņu ietekmē daļēji ir sālsūdeņi, bet kurus būtiski ietekmē saldūdens plūsma;
-13¹) peldvieta - peldēšanai paredzēta labiekārtota vieta vai arī jebkura vieta jūras piekrastē un pie iekšzemes ūdeņiem, kurā peldēšanās ir droša un nav aizliegta un kuru iedzīvotāji izmanto atpūtai peldsezonas laikā;
-13²) peldvietas ūdens - piekrastes ūdeņu un iekšzemes ūdeņu teritorija peldvietā, kuru iedzīvotāji izmanto peldēšanai;
+13¹) peldvieta - peldēšanai paredzēta peldvietu higiēnas prasībām atbilstoša vieta, kas atrodas jūras piekrastē vai pie iekšzemes ūdeņiem un kas ietver noteiktu labiekārtotu sauszemes daļu un peldvietas ūdens daļu, ko cilvēki izmanto atpūtai peldsezonas laikā;
+13²) peldvietas ūdens - piekrastes ūdeņu un iekšzemes ūdeņu teritorija peldvietā, kuru cilvēki izmanto peldēšanai;
 13³) peldsezona - peldēšanai labvēlīga sezona, kuru nosaka attiecīgi laika apstākļi un kurā ir gaidāms liels peldētāju skaits. Latvijā peldsezona ir no 15.maija līdz 15.septembrim;
 14) piekrastes ūdeņi - virszemes ūdeņi uz krasta pusi no līnijas, kas savieno visus punktus, kuri atrodas vienu jūras jūdzi uz jūras pusi no bāzes līnijas vai sniedzas līdz pārejas ūdeņu ārējai robežai;
 14¹) plūdi - parasti ar ūdeni neklātas sauszemes īslaicīga applūšana, ko izraisa vētras radītie uzplūdi jūras piekrastes teritorijā vai strauja ūdens līmeņa celšanās ūdenstecēs un ūdenstilpēs palu vai ilgstošu lietavu laikā;
