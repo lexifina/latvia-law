@@ -1,0 +1,1 @@
+1.pants. Nodot bez atlīdzības Rīgas Grīziņkalna Brīvprātīgo ugunsdzēsēju Biedrībai īpašumā nekustamo īpašumu Rīgā, Jāņa Asara ielā 13 (kadastra Nr.01000370173), kas sastāv no zemes gabala (kadastra apzīmējums 01000370173) un administratīvās ēkas (kadastra apzīmējums 01000370173001).
