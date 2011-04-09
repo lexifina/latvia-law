@@ -1,0 +1,1 @@
+1.pants. Grozījumi Līguma starp Dāniju, Igauniju, Somiju, Īslandi, Latviju, Lietuvu, Norvēģiju un Zviedriju par Ziemeļu Investīciju banku (turpmāk - Līgums) pielikumā esošajos Ziemeļu Investīciju bankas Statūtos (turpmāk - Grozījumi) ar šo likumu tiek pieņemti un apstiprināti.
