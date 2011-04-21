@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2011. gada 5. aprīļa noteikumi Nr. 271 \"Noteikumi par izvērtēšanas ziņojumā iekļaujamās informācijas apjomu un tā sastādīšanas un sniegšanas kārtību\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "62",
+  "official_journal_page": null,
+  "official_journal_date": "2011-04-20",
+  "entry_into_force": "2011-04-21",
+  "notification_date": "2023-08-14",
+  "commission_reference": "MNE(2023)04574",
+  "nim_celex": "72016L0800LVA_202304574",
+  "nim_id": "202304574",
+  "transposes_celex": [
+    "32016L0800"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b13e2f7a-5fb5-4cb1-86ca-f5463a746da8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
