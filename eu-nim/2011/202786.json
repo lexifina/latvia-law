@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Latvijas nacionālā reformu programma \"ES 2020\"stratēģijas īstenošanai\"",
+  "type_of_act": "Administrative measures",
+  "official_journal": "Administrative measures",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2011-04-26",
+  "entry_into_force": "2011-04-26",
+  "notification_date": null,
+  "commission_reference": "MNE(2013)52452",
+  "nim_celex": "72009L0028LVA_202786",
+  "nim_id": "202786",
+  "transposes_celex": [
+    "32009L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4fa0aa5f-7fea-478a-b016-6860224c024c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
