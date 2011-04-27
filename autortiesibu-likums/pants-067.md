@@ -15,3 +15,4 @@
 1) organizācija pēc atkārtota Kultūras ministrijas pieprasījuma nesniedz informāciju, kas nepieciešama uzraudzības veikšanai;
 2) organizācijas darbība neatbilst likumam un Kultūras ministrijas norādītajā termiņā trūkumi nav novērsti.
 (5) Informāciju par šā panta otrajā un ceturtajā daļā noteikto atļauju spēkā stāšanos vai anulēšanu Kultūras ministrija publicē laikrakstā "Latvijas Vēstnesis".
+(6) Lēmumu par šā panta pirmajā daļā noteiktās atļaujas anulēšanu var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā.
