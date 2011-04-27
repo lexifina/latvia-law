@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2011.gada 19.aprīļa noteikumi Nr.302 \"Noteikumi par atkritumu klasifikatoru un īpašībām, kuras padara atkritumus bīstamus\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "64 (4462)",
+  "official_journal_page": null,
+  "official_journal_date": "2011-04-26",
+  "entry_into_force": "2011-04-27",
+  "notification_date": "2014-04-11",
+  "commission_reference": "MNE(2014)52415",
+  "nim_celex": "72008L0098LVA_215192",
+  "nim_id": "215192",
+  "transposes_celex": [
+    "32008L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9baf0576-2e5a-4602-8689-1abe6675a9ab",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
