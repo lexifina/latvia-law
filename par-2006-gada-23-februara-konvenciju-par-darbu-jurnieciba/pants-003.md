@@ -1,0 +1,1 @@
+3.pants. Satiksmes ministrija sniedz Ārlietu ministrijai Konvencijas vispārējās daļas II panta 3., 5. un 6.punktā paredzēto informāciju iesniegšanai Starptautiskā nodarbinātības biroja ģenerāldirektoram.

@@ -1,0 +1,1 @@
+4.pants. Konvencijas normu izpildi Latvijas Republikā atbilstoši attiecīgās institūcijas kompetencei nodrošina Satiksmes ministrija, Labklājības ministrija, Veselības ministrija, Aizsardzības ministrija, Ārlietu ministrija un Izglītības un zinātnes ministrija.

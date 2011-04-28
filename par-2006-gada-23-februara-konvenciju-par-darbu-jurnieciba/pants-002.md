@@ -1,0 +1,1 @@
+2.pants. Saskaņā ar Konvencijas vispārējās daļas II panta 7.punktu Ārlietu ministrija paziņo Starptautiskā nodarbinātības biroja ģenerālsekretāram par Latvijas Republikas nolēmumiem par Konvencijas vispārējās daļas II panta 3., 5. un 6.punktu.
