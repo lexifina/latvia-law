@@ -10,8 +10,8 @@ d) kura ir publiska akciju sabiedrība, ja tās akcijas tiek kotētas fondu bir�
 4) Latvijā reģistrētās reliģiskās organizācijas, kuru darbības laiks, skaitot no reģistrēšanas brīža Latvijas Republikā, ir ne mazāk kā trīs gadi;
 5) Latvijas Republikas Uzņēmumu reģistrā reģistrētās zemnieka saimniecības un individuālie uzņēmumi, ja tie pieder Latvijas Republikas pilsoņiem;
 6) valsts un pašvaldību augstskolas, kuru satversmes ir apstiprinātas likumā noteiktajā kārtībā.
-Ar 2011.gada 1.maiju Eiropas Savienības dalībvalstu pilsoņi un Eiropas Savienības dalībvalstīs reģistrētas juridiskās personas zemi var iegūt īpašumā ar tādiem pašiem noteikumiem kā šā panta pirmajā daļā minētie subjekti. Ja ir pietiekami pierādījumi tam, ka pēc pārejas posma (septiņi gadi pēc iestāšanās Eiropas Savienībā) beigām būs nopietni traucējumi vai šādu traucējumu rašanās iespējamība Latvijas lauksaimniecības zemes tirgū, šo termiņu kārtībā, kāda noteikta pievienošanās līgumā Eiropas Savienībai, var pārcelt uz vēlāku laiku, bet ne ilgāku par trim gadiem.
-Pārejas posmā no 2004.gada 1.maija līdz 2011.gada 1.maijam zemi var iegūt īpašumā saskaņā ar Civillikumu un citiem likumiem:
+Ar 2014.gada 1.maiju Eiropas Savienības dalībvalstu pilsoņi un Eiropas Savienības dalībvalstīs reģistrētas juridiskās personas zemi var iegūt īpašumā ar tādiem pašiem noteikumiem kā šā panta pirmajā daļā minētie subjekti.
+Pārejas posmā no 2004.gada 1.maija līdz 2014.gada 30.aprīlim zemi var iegūt īpašumā saskaņā ar Civillikumu un citiem likumiem:
 1) Eiropas Savienības dalībvalstu pilsoņi, ja viņi vēlas veikt uzņēmējdarbību Latvijā kā pašnodarbinātie zemnieki un vismaz trīs gadus nepārtraukti dzīvo Latvijā, kā arī vismaz trīs gadus pēc kārtas Latvijā aktīvi nodarbojušies ar lauksaimniecību;
 2) pārējie Eiropas Savienības dalībvalstu pilsoņi un Eiropas Savienības dalībvalstīs reģistrētas juridiskās personas, izņemot lauksaimniecības un meža zemi.
 Personas, kuras nav minētas šā panta pirmajā daļā, zemi var iegūt īpašumā ar ierobežojumiem, kas noteikti šā likuma 29.pantā.
