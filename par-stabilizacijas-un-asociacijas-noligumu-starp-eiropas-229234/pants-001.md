@@ -1,0 +1,1 @@
+1.pants. 2008.gada 29.aprīlī parakstītais Stabilizācijas un asociācijas nolīgums starp Eiropas Kopienām un to dalībvalstīm, no vienas puses, un Serbijas Republiku, no otras puses (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.
