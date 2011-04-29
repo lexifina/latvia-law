@@ -1,9 +1,9 @@
 11.pants. Pienākums identificēt klientu
 (1) Pirms darījuma attiecību uzsākšanas likuma subjekts identificē klientu.
 (2) Likuma subjekts identificē klientu arī pirms atsevišķa darījuma veikšanas, neuzsākot darījuma attiecības šā likuma izpratnē, ja:
-1) darījuma apjoms vai vairāku acīmredzami saistītu darījumu kopējā summa ir ekvivalenta 15 000 eiro vai lielāka par to pēc Latvijas Bankas noteiktā kursa darījuma veikšanas dienā;
+1) darījuma apjoms vai vairāku acīmredzami saistītu darījumu kopējā summa ir ekvivalenta 15 000 euro vai lielāka par to pēc Latvijas Bankas noteiktā kursa darījuma veikšanas dienā;
 2) darījums atbilst vismaz vienai no neparasta darījuma pazīmju sarakstā ietvertajām pazīmēm vai rodas aizdomas par noziedzīgi iegūtu līdzekļu legalizāciju, terorisma finansēšanu vai šo darbību mēģinājumu;
 3) rodas šaubas par sākotnējā identifikācijā iegūtās informācijas patiesumu.
-(3) Ja darījuma veikšanas brīdī nav nosakāms, vai darījuma summa būs ekvivalenta 15 000 eiro vai lielāka par to, klients identificējams, tiklīdz kļuvis zināms, ka tā ir ekvivalenta 15 000 eiro vai lielāka par to pēc Latvijas Bankas noteiktā kursa darījuma veikšanas dienā.
+(3) Ja darījuma veikšanas brīdī nav nosakāms, vai darījuma summa būs ekvivalenta 15 000 euro vai lielāka par to, klients identificējams, tiklīdz kļuvis zināms, ka tā ir ekvivalenta 15 000 euro vai lielāka par to pēc Latvijas Bankas noteiktā kursa darījuma veikšanas dienā.
 (4) Ja noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas risks ir zems un saskaņā ar šā likuma prasībām klienta padziļināta izpēte nav jāveic, tad, lai nepārtrauktu darījuma normālu norisi, klienta identifikāciju un patiesā labuma guvēja noskaidrošanu var veikt darījuma attiecību uzsākšanas brīdī, tiklīdz tas ir iespējams, bet pirms pirmā darījuma veikšanas.
 (5) Ja saskaņā ar šā likuma prasībām klienta padziļināta izpēte nav jāveic, apdrošināšanas komersants, kas veic dzīvības apdrošināšanu, un apdrošināšanas starpnieks, kas sniedz dzīvības apdrošināšanas pakalpojumus, klienta identifikāciju un patiesā labuma guvēja noskaidrošanu var veikt arī pēc darījuma attiecību uzsākšanas vai pirms apdrošināšanas atlīdzības izmaksas, kā arī pirms tam, kad apdrošināšanas atlīdzības saņēmējs gatavojas izmantot apdrošināšanas polisē paredzētās tiesības.

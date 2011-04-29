@@ -1,6 +1,6 @@
-26.pants. Klienta izpētes izņēmumi
-(1) Šā likuma subjekts ir tiesīgs neveikt klienta izpēti gadījumos, kad klients ir:
-1) Latvijas Republikā vai dalībvalstī reģistrēta kredītiestāde vai finanšu iestāde, izņemot kapitālsabiedrības, kas nodarbojas ar ārvalstu valūtas skaidras naudas pirkšanu un pārdošanu, un naudas pārvedumu un pārskaitījumu pakalpojumu sniedzējus;
+26.pants. Vienkāršota klientu izpēte
+(1) Šā likuma subjekts ir tiesīgs veikt vienkāršoto klienta izpēti gadījumos, kad klients ir:
+1) Latvijas Republikā vai dalībvalstī reģistrēta kredītiestāde vai finanšu iestāde, izņemot kapitālsabiedrības, kas nodarbojas ar ārvalstu valūtas skaidras naudas pirkšanu un pārdošanu, un maksājumu iestādes;
 2) kredītiestāde vai finanšu iestāde (izņemot kapitālsabiedrības, kas nodarbojas ar skaidras naudas pirkšanu vai pārdošanu, un naudas pārvedumu un pārskaitījumu pakalpojumu sniedzējus), kas reģistrēta trešajā valstī, kuras attiecīgie normatīvie akti noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas jomā paredz prasības, kas ir līdzvērtīgas Eiropas Savienības tiesību aktu prasībām;
 3) Latvijas Republika, atvasināta publiska persona, Latvijas Republikas iestāde vai pastarpinātās pārvaldes iestāde, vai valsts vai pašvaldības kontrolēta kapitālsabiedrība, kuru raksturo zems noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas risks;
 4) komersants, kura akcijas ir iekļautas regulētā tirgū vienā vai vairākās dalībvalstīs vai regulētā tirgū trešajā valstī, ja uz komersantu attiecināmas informācijas atklāšanas prasības, kas ir līdzvērtīgas Eiropas Savienības tiesību aktu prasībām;
@@ -17,5 +17,5 @@
 3) persona, kas sniedz finanšu pakalpojumus, ir saņēmusi licenci (atļauju) finanšu pakalpojumu sniegšanai;
 4) persona ir pakļauta valsts kompetento iestāžu pārraudzībai attiecībā uz tās darbību atbilstību normatīvajiem aktiem.
 (4) Ministru kabinets apstiprina to trešo valstu un teritoriju sarakstu, kuru normatīvo aktu prasības noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas jomā ir līdzvērtīgas Eiropas Savienības tiesību aktu prasībām.
-(5) Pieņemot lēmumu neveikt klienta izpēti, likuma subjekts iegūst un dokumentē informāciju, kas apliecina, ka klients atbilst šā panta pirmajā daļā minētajiem izņēmumiem.
+(5) Veicot klienta vienkāršoto izpēti, likuma subjekts iegūst un dokumentē informāciju, kas apliecina, ka klients atbilst šā panta pirmajā daļā minētajiem izņēmumiem, un pēc darījuma attiecību uzsākšanas veic to uzraudzību.
 (6) Šā panta pirmajā daļā minētajos gadījumos likuma subjekts ir tiesīgs neievērot šā likuma 14.panta pirmās daļas prasības.
