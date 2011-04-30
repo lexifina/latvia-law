@@ -8,8 +8,18 @@ e) maksājuma instrumenta izlaišana un saņemšana,
 f) bezkonta naudas pārvedums,
 g) maksājuma veikšana, ja maksātājs piekrišanu maksājuma veikšanai dod, izmantojot distances saziņas līdzekli, digitālo vai informācijas tehnoloģiju ierīci, un ja maksājums tiek veikts tālsakaru, informācijas tehnoloģiju sistēmas vai tīkla operatoram, kas ir tikai maksājuma pakalpojuma izmantotāja un preces pārdevēja vai pakalpojuma sniedzēja starpnieks;
 2) maksājumu iestāde:
-a) komercsabiedrība, kas atbilstoši šā likuma prasībām saņēmusi Finanšu un kapitāla tirgus komisijas (turpmāk - Komisija) licenci maksājumu iestādes darbībai,
+a) komercsabiedrība, kas saņēmusi licenci maksājumu iestādes darbībai,
 b) fiziskā vai juridiskā persona, kurai atbilstoši šā likuma 5.panta noteikumiem maksājumu iestādes darbības uzsākšanai nav nepieciešams saņemt licenci;
+2¹) elektroniskās naudas iestāde:
+a) komercsabiedrība, kas saņēmusi licenci elektroniskās naudas emisijai,
+b) juridiskā persona, kurai atbilstoši šā likuma 5.¹ panta noteikumiem nav nepieciešams saņemt licenci elektroniskās naudas emisijai;
+2²) elektroniskā nauda - elektroniskā ierīcē (viedkartē vai datora atmiņā) glabāta monetārā vērtība, kura:
+a) pastāv prasījumu veidā pret emitentu,
+b) emitēta, saņemot naudu no elektroniskās naudas turētāja, lai veiktu maksājumus,
+c) izmantojama kā maksāšanas līdzeklis un kuru pieņem fiziskā vai juridiskā persona, kas nav elektroniskās naudas emitents;
+2³) apgrozībā esošās elektroniskās naudas vidējais apmērs - no elektroniskās naudas emitēšanas izrietošo elektroniskās naudas iestādes finanšu saistību vidējā aritmētiskā vērtība, kas tiek aprēķināta, summējot elektroniskās naudas apmēru katras kalendāra dienas beigās iepriekšējo sešu kalendāra mēnešu laikā un dalot šo summu ar sešu kalendāra mēnešu dienu skaitu. Apgrozībā esošās elektroniskās naudas vidējo apmēru nosaka katra kalendāra mēneša pirmajā dienā un to piemēro šim kalendāra mēnesim;
+2⁴) elektroniskās naudas turētājs - fiziskā vai juridiskā persona, kas saņēmusi elektronisko naudu no elektroniskās naudas emitenta vai tā pārstāvja;
+2⁵) iestāde - maksājumu iestāde un elektroniskās naudas iestāde, izņemot šajā likumā lietotos terminus "iestāde, kas dalībvalstī atbildīga par maksājumu iestāžu maksājumu pakalpojumu pārtraukšanas, maksātnespējas, likvidācijas, kā arī kredītiestāžu un citu finanšu iestāžu uzskaites pārbaužu procedūrām" un "finanšu iestāde", kā arī vārdu savienojumu "cita iestāde";
 3) maksājums - maksātāja vai saņēmēja uzsākta darbība, kuras mērķis ir nodot naudu, veikt naudas pārvedumu vai izņemt naudu un kura nav atkarīga no maksātāja vai saņēmēja tiesisko attiecību pamatā esošajiem pienākumiem;
 4) maksājumu sistēma - naudas pārvedumu sistēma, kas ietver standartizētu vienošanos par maksājumu apstrādes, tīrvērtes (klīringa) vai norēķina noteikumiem un procedūrām;
 5) maksātājs - fiziskā vai juridiskā persona, kas:
@@ -35,8 +45,8 @@ a) apmaksātais akciju vai daļu kapitāls (pamatkapitāls), kas samazināts par
 b) akciju emisijas uzcenojums vai daļu uzcenojums,
 c) rezerves, izņemot pārvērtēšanas rezervi,
 d) iepriekšējo gadu nesadalītā peļņa vai zaudējumi,
-e) kārtējā darbības gada peļņa, ja ir zvērināta revidenta vai zvērinātu revidentu komercsabiedrības (turpmāk - zvērināts revidents) ziņojums par peļņas esamību un tā aprēķināta, ņemot vērā visus nepieciešamos uzkrājumus aktīvu vērtības samazinājumam, paredzamajiem nodokļu maksājumiem un dividendēm, un ja Komisija ir piekritusi kārtējā darbības gada peļņas iekļaušanai sākotnējā kapitālā;
-22) pašu kapitāls - maksājumu iestādes revidētajos finanšu pārskatos atspoguļotie kapitāla, rezervju un saistību elementi, kas ir brīvi pieejami maksājumu iestādei ar darbības riskiem saistīto, bet vēl neidentificēto iespējamo zaudējumu segšanai;
+e) kārtējā darbības gada peļņa, ja ir zvērināta revidenta vai zvērinātu revidentu komercsabiedrības (turpmāk - zvērināts revidents) ziņojums par peļņas esamību un tā aprēķināta, ņemot vērā visus nepieciešamos uzkrājumus aktīvu vērtības samazinājumam, paredzamajiem nodokļu maksājumiem un dividendēm, un ja Finanšu un kapitāla tirgus komisija (turpmāk - Komisija) ir piekritusi kārtējā darbības gada peļņas iekļaušanai sākotnējā kapitālā;
+22) pašu kapitāls - maksājumu iestādes un elektroniskās naudas iestādes revidētajos finanšu pārskatos atspoguļotie kapitāla, rezervju un saistību elementi, kas ir brīvi pieejami maksājumu iestādei un elektroniskās naudas iestādei ar darbības riskiem saistīto, bet vēl neidentificēto iespējamo zaudējumu segšanai;
 23) būtiska līdzdalība - personas vai vairāku personu, kas uz vienošanās pamata rīkojas saskaņoti, tieši vai netieši iegūta līdzdalība, kura aptver 10 un vairāk procentu no komercsabiedrības pamatkapitāla vai balsstiesīgo akciju vai daļu skaita vai dod iespēju būtiski ietekmēt komercsabiedrības finanšu un darbības politiku;
 24) atsauces valūtas kurss - valūtas maiņas aprēķināšanā izmantojamais valūtas kurss, par ko maksājumu pakalpojumu sniedzējs informē maksājuma pakalpojuma izmantotāju vai kas ir iegūstams, izmantojot publiski pieejamu avotu;
 25) autentificēšana - procedūra, kas maksājumu pakalpojumu sniedzējam dod iespēju pārbaudīt konkrētā maksājuma instrumenta pielietojumu, arī tā personalizētos drošības elementus;

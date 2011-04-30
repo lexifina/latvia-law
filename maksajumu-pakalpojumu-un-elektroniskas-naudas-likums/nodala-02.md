@@ -1,2 +1,2 @@
 II nodaļa
-Maksājumu iestāžu licencēšana
+Iestādes licencēšana un reģistrēšana

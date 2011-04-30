@@ -1,0 +1,1 @@
+8. Maksājumu iestādi, kura līdz 2011.gada 1.jūlijam nav izpildījusi šā likuma pārejas noteikumu 7.punkta prasības par informācijas un apliecinājuma iesniegšanu, Komisija izslēdz no šā likuma 10.panta trešajā daļā minētā reģistra, un tai ir aizliegts sniegt maksājumu pakalpojumus.

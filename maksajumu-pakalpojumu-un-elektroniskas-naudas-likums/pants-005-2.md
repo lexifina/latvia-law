@@ -1,0 +1,1 @@
+5.² pants. Ja šā likuma 5. un 5.¹ pantā minētajā iestādes informācijā tiek izdarīti grozījumi pēc tam, kad iestāde jau ir reģistrēta šā likuma 10.panta trešajā daļā minētajā reģistrā, attiecīgā iestāde iesniedz precizētu informāciju Komisijai piecu darba dienu laikā pēc šo grozījumu izdarīšanas.

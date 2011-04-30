@@ -1,4 +1,4 @@
-10.pants. (1) Licencētas maksājumu iestādes, to pārstāvjus un filiāles reģistrē licencēto maksājumu iestāžu reģistrā, ko uztur Komisija.
-(2) Licencēto maksājumu iestāžu reģistrā norāda maksājumu pakalpojumus, kurus šā panta pirmajā daļā minētās personas ir tiesīgas sniegt.
-(3) Maksājumu iestādes, kuru darbības uzsākšanai atbilstoši šā likuma 5.panta noteikumiem nav nepieciešama licence, to pārstāvjus un filiāles reģistrē maksājumu iestāžu reģistrā, ko uztur Komisija.
-(4) Komisija nosūta Eiropas Komisijai šā panta trešajā daļā minēto maksājumu iestāžu, to pārstāvju un filiāļu sarakstu pēc stāvokļa katra kalendārā gada 31.decembrī, papildus norādot to veikto maksājumu pakalpojumu kopējo apmēru attiecīgā kalendārā gada 12 mēnešos.
+10.pants. (1) Licencētās iestādes, to pārstāvjus un filiāles reģistrē licencēto iestāžu reģistrā, ko uztur Komisija.
+(2) Licencēto iestāžu reģistrā norāda elektroniskās naudas iestādes tiesības emitēt elektronisko naudu, kā arī maksājumu pakalpojumus, kurus šā panta pirmajā daļā minētās personas ir tiesīgas sniegt.
+(3) Iestādes, kuru darbības uzsākšanai nav nepieciešama licence, to pārstāvjus un filiāles reģistrē iestāžu reģistrā, ko uztur Komisija.
+(4) Komisija nosūta Eiropas Komisijai informāciju par šā panta trešajā daļā minēto iestāžu, to pārstāvju un filiāļu skaitu par situāciju kalendāra gada 31.decembrī, papildus norādot to veikto maksājumu kopējo apmēru attiecīgā kalendāra gada 12 mēnešos un apgrozībā esošās emitētās elektroniskās naudas apmēru.

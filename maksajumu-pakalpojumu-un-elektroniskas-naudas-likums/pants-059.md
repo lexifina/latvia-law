@@ -1,2 +1,3 @@
 59.pants. (1) Ja maksājuma saņēmējs piedāvā atlaidi par noteikta maksājuma instrumenta izmantošanu, tas informē par to maksātāju pirms maksājuma uzsākšanas.
 (2) Ja maksājumu pakalpojumu sniedzējs pieprasa maksu par noteikta maksājuma instrumenta izmantošanu, tas informē par to maksājuma pakalpojuma izmantotāju pirms maksājuma uzsākšanas, ja vien maksājumu pakalpojumu sniedzējs nav sniedzis šo informāciju atbilstoši šā likuma 63.panta prasībām.
+(3) Elektroniskās naudas emitentam ir aizliegts piešķirt elektroniskās naudas turētājam procentus vai citu finansiālu labumu par darbību kopumu, kas saistīts ar elektroniskās naudas turēšanu noteiktā laika posmā.

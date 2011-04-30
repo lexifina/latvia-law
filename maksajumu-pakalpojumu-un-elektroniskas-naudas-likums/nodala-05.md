@@ -1,2 +1,2 @@
 V nodaļa
-Maksājumu iestādes un maksājuma pakalpojuma izmantotāja attiecības
+Iestādes un maksājuma pakalpojuma izmantotāja attiecības

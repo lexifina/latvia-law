@@ -1,2 +1,2 @@
 IV nodaļa
-Maksājumu iestādes darbību regulējošās prasības
+Iestādes darbību regulējošās prasības

@@ -1,1 +1,1 @@
-7.pants. Latvijā reģistrētas maksājumu iestādes komercdarbības veikšanas vieta ir Latvijas teritorija.
+7.pants. Latvijā reģistrētas iestādes komercdarbības veikšanas vieta ir Latvijas teritorija.

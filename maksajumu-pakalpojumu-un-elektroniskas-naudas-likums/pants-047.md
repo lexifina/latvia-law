@@ -1,1 +1,1 @@
-47.pants. Maksājumu iestādes pienākums ir informēt Komisiju par visiem apstākļiem, kas var būtiski ietekmēt maksājumu iestādes turpmāko darbību.
+47.pants. Iestādes pienākums ir informēt Komisiju par visiem apstākļiem, kas var būtiski ietekmēt iestādes turpmāko darbību.

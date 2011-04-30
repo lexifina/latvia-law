@@ -1,1 +1,1 @@
-48.pants. Uzraudzības funkciju veikšanai Komisija ir tiesīga pieprasīt, lai maksājumu iestāde sagatavo pārskatus par tās darbību saskaņā ar Komisijas izdotajiem normatīvajiem noteikumiem par šo pārskatu sagatavošanas un iesniegšanas kārtību.
+48.pants. Uzraudzības funkciju veikšanai Komisija ir tiesīga pieprasīt, lai iestāde sagatavo pārskatus par tās darbību saskaņā ar Komisijas izdotajiem normatīvajiem noteikumiem par šo pārskatu sagatavošanas un iesniegšanas kārtību.

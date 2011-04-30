@@ -1,3 +1,4 @@
-46.pants. (1) Maksājumu iestāde, kas ir komercsabiedrība, gada pārskatā un konsolidētajā gada pārskatā informāciju par maksājumu pakalpojumiem, kas minēti šā likuma 1.panta 1.punktā, un par citu darbību, ko tā veikusi atbilstoši šā likuma 36.panta pirmajai daļai, atspoguļo atsevišķi.
-(2) Maksājumu iestāde, kas ir komercsabiedrība, gada pārskata un konsolidētā gada pārskata pielikumā uzrāda pārskata gadā veikto maksājumu kopsummu.
+46.pants. (1) Maksājumu iestāde, kas ir komercsabiedrība un elektroniskās naudas iestāde, kas veic maksājumu pakalpojumus, gada pārskatā un konsolidētajā gada pārskatā informāciju par maksājumu pakalpojumiem, kas minēti šā likuma 1.panta 1.punktā, un par citu darbību, ko tā veikusi atbilstoši šā likuma 36.panta pirmajai daļai, atspoguļo atsevišķi.
+(2) Maksājumu iestāde, kas ir komercsabiedrība un elektroniskās naudas iestāde, kas veic maksājumu pakalpojumus, gada pārskata un konsolidētā gada pārskata pielikumā uzrāda pārskata gadā veikto maksājumu kopsummu.
+(2¹) Elektroniskās naudas iestāde gada pārskata un konsolidētā gada pārskata pielikumā norāda apgrozībā esošās emitētās elektroniskās naudas apmēru pārskata gada 31.decembrī.
 (3) Maksājumu iestāde, kas ir fiziskā persona, līdz kārtējā kalendārā gada 1.aprīlim iesniedz Komisijai informāciju par iepriekšējā kalendārajā gadā veikto maksājumu kopsummu.

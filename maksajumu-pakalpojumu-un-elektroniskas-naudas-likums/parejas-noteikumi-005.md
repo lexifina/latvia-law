@@ -1,0 +1,1 @@
+5. Elektroniskās naudas institūcija, kas līdz 2011.gada 30.aprīlim atbilstoši Kredītiestāžu likuma prasībām ir informējusi Latvijas Banku par elektroniskās naudas institūcijas darbības uzsākšanu, līdz 2011.gada 30.oktobrim atbilstoši Maksājumu pakalpojumu un elektroniskās naudas likuma 5.¹ panta noteikumiem iesniedz Komisijai paziņojumu par reģistrāciju iestāžu reģistrā.

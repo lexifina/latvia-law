@@ -1,2 +1,2 @@
 VI nodaļa
-Maksājumu iestāžu darbības uzraudzība un atbildība
+Iestāžu darbības uzraudzība un atbildība

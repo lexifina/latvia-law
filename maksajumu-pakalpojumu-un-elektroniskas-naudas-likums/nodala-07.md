@@ -1,2 +1,2 @@
 VII nodaļa
-Maksājumu pakalpojumu sniegšanas nosacījumi un informēšanas prasības
+Maksājumu pakalpojumu sniegšanas, elektroniskās naudas turēšanas un elektroniskās naudas atpirkšanas nosacījumi un informēšanas prasības

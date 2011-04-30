@@ -1,2 +1,2 @@
 XIV nodaļa
-Maksājumu pakalpojumu sniedzēju atbildība
+Maksājumu pakalpojumu sniedzēju un elektroniskās naudas emitentu atbildība
