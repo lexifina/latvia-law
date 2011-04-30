@@ -1,4 +1,4 @@
-35.¹ pants. (1) Banka šā likuma 35.pantā minētajam kredītriska kapitāla prasības aprēķinam var izmantot tikai tādas ārējās kredītu novērtējuma institūcijas (reitingu aģentūras) veiktu kredīta novērtējumu, kuru Finanšu un kapitāla tirgus komisija ir atzinusi par piemērotu.
+35.¹ pants. (1) Kredītiestāde šā likuma 35.pantā minētajam kredītriska kapitāla prasības aprēķinam var izmantot tikai tādas ārējās kredītu novērtējuma institūcijas (reitingu aģentūras) veiktu kredīta novērtējumu, kuru Finanšu un kapitāla tirgus komisija ir atzinusi par piemērotu.
 (2) Finanšu un kapitāla tirgus komisija veic ārējo kredītu novērtējuma institūciju (reitingu aģentūru) izvērtēšanu un par piemērotām kredītu vērtējuma izmantošanai kredītriska kapitāla prasības aprēķinā atzīst tās institūcijas, kuras atbilst šādām prasībām:
 1) to kredītu novērtējuma metodoloģija ir objektīva, neatkarīga, pārskatāma un pastāvīgi tiek pārskatīta;
 2) to veiktie kredītu novērtējumi atbilst ticamības un pārskatāmības prasībām.

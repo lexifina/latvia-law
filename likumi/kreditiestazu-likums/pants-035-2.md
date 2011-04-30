@@ -1,4 +1,0 @@
-35.² pants. (1) Elektroniskās naudas institūcijas pašu kapitāla attiecība nedrīkst būt mazāka par 2 procentiem pret lielāko no šādiem rādītājiem:
-1) elektroniskās naudas institūcijas pašreizējās saistības, kas atbilst emitētās elektroniskās naudas daudzumam;
-2) to iepriekšējo sešu mēnešu saistību vidējā vērtība, kuras atbilst emitētās elektroniskās naudas daudzumam.
-(2) Elektroniskās naudas institūcijas pirmo sešu mēnešu darbības rezultātā šīs institūcijas pašu kapitāla attiecība pret saistībām, kas atbilst emitētās elektroniskās naudas kopējam daudzumam vai plānotajai sešu mēnešu saistību summas vidējai vērtībai, nedrīkst būt mazāka par 2 procentiem. Elektroniskās naudas institūcijas kopējo plānoto saistību apjomu, kas atkarīgs no emitētās elektroniskās naudas daudzuma, nosaka saskaņā ar elektroniskās naudas institūcijas sagatavoto saimnieciskās darbības plānu pirmajiem trim darbības gadiem.

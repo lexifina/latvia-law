@@ -4,8 +4,8 @@
 (4) Šā panta pirmajā daļā minētais novērtējums ietver arī pieņēmumus par to, kad kredītiestādei var rasties būtiski zaudējumi tirdzniecības portfelī neiekļauto riska darījumu procentu likmju riska dēļ, un apsvērumus par apstākļiem, kādos šādi zaudējumi var rasties.
 (5) Finanšu un kapitāla tirgus komisija nosaka kārtību, kādā aprēķināms kredītiestādes ekonomiskās vērtības samazinājums pēkšņu un negaidītu procentu likmju izmaiņu dēļ.
 (6) Ja šā panta piektajā daļā minētais aprēķins liecina, ka kredītiestādes ekonomiskā vērtība samazināsies par 20 vai vairāk procentiem no pašu kapitāla, kredītiestāde veic pasākumus, lai nodrošinātu pašu kapitāla atbilstību tirdzniecības portfelī neiekļauto riska darījumu procentu likmju riska lielumam.
-(7) Ja Finanšu un kapitāla tirgus komisija konstatē, ka banka neievēro šā likuma 34.¹, 36.² panta vai 39.panta otrās daļas prasības vai bankas pašu kapitāls ir nepietiekams tās darbībai piemītošo vai varbūtējo risku segšanai, Finanšu un kapitāla tirgus komisija ir tiesīga:
-1) noteikt bankai pienākumu uzturēt augstāku pašu kapitāla līmeni, nekā noteikts šā likuma 35.pantā;
-2) pieprasīt bankai piemērot speciālu uzkrājumu politiku vai no pašu kapitāla prasībām izrietošu aktīvu atzīšanas politiku;
-3) uzlikt bankai par pienākumu pilnveidot savu stratēģiju, procedūras un veicamos pasākumus, ko banka īstenojusi šā likuma 34.¹ vai 36.² panta prasību izpildei.
+(7) Ja Finanšu un kapitāla tirgus komisija konstatē, ka kredītiestāde neievēro šā likuma 34.¹, 36.² panta vai 39.panta otrās daļas prasības vai kredītiestādes pašu kapitāls ir nepietiekams tās darbībai piemītošo vai varbūtējo risku segšanai, Finanšu un kapitāla tirgus komisija ir tiesīga:
+1) noteikt kredītiestādei pienākumu uzturēt augstāku pašu kapitāla līmeni, nekā noteikts šā likuma 35.pantā;
+2) pieprasīt kredītiestādei piemērot speciālu uzkrājumu politiku vai no pašu kapitāla prasībām izrietošu aktīvu atzīšanas politiku;
+3) uzlikt kredītiestādei par pienākumu pilnveidot savu stratēģiju, procedūras un veicamos pasākumus, ko kredītiestāde īstenojusi šā likuma 34.¹ vai 36.² panta prasību izpildei.
 (8) Finanšu un kapitāla tirgus komisijas izdotā administratīvā akta pārsūdzēšana saistībā ar šajā pantā minētajiem jautājumiem neaptur tā izpildi.

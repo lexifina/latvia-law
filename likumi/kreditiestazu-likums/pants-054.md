@@ -1,1 +1,1 @@
-54.pants. Banka, izsniedzot kredītu, slēdz līgumu, kurā norāda kredīta mērķi, apmēru, izsniegšanas un atmaksāšanas kārtību, procentu likmi un procentu aprēķināšanas kārtību, kredīta nodrošinājumu un citus nosacījumus.
+54.pants. Kredītiestāde, izsniedzot kredītu, slēdz līgumu, kurā norāda kredīta mērķi, apmēru, izsniegšanas un atmaksāšanas kārtību, procentu likmi un procentu aprēķināšanas kārtību, kredīta nodrošinājumu un citus nosacījumus.
