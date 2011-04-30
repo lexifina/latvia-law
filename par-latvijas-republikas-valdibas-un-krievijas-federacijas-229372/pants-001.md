@@ -1,0 +1,1 @@
+1.pants. 2010.gada 20.decembrī Maskavā parakstītā Latvijas Republikas valdības un Krievijas Federācijas valdības vienošanās par Latvijas Republikas vēstniecības Krievijas Federācijā un Krievijas Federācijas vēstniecības Latvijas Republikā izvietošanas nosacījumiem (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.
