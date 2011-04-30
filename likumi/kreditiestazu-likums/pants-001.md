@@ -1,7 +1,5 @@
 1.pants. Likumā ir lietoti šādi termini:
-1) kredītiestāde:
-a) banka - kapitālsabiedrība, kas pieņem noguldījumus un citus atmaksājamus līdzekļus no neierobežota klientu loka, savā vārdā izsniedz kredītus un sniedz citus finanšu pakalpojumus,
-b) elektroniskās naudas institūcija - kapitālsabiedrība, kas emitē un apkalpo elektronisko naudu un kas nav banka;
+1) kredītiestāde - kapitālsabiedrība, kas pieņem noguldījumus un citus atmaksājamus līdzekļus no neierobežota klientu loka, savā vārdā izsniedz kredītus un sniedz citus finanšu pakalpojumus;
 2) kredītiestādes filiāle - teritoriāli vai citādi nošķirta kredītiestādes struktūrvienība, kurai nav juridiskās personas statusa un kura darbojas kredītiestādes vārdā;
 3) pārstāvniecība - kredītiestādes struktūrvienība, kas atrodas citā valstī un pārstāv kredītiestādes intereses, bet neveic komercdarbību;
 4) finanšu pakalpojumi:
@@ -21,8 +19,8 @@ l) (izslēgts ar 20.11.2003. likumu);
 m) tādas informācijas sniegšana, kas saistīta ar klienta parādu saistību kārtošanu;
 n) citi darījumi, kuri pēc būtības ir līdzīgi iepriekšminētajiem finanšu pakalpojumiem;
 o) elektroniskās naudas emisija;
-5) kredīts - atlīdzības darījums, kurā banka uz rakstveida līguma pamata nodod klientam naudu vai citas lietas īpašumā un kurš klientam uzliek pienākumu noteiktā laikā un kārtībā atdot bankai naudu vai citas lietas;
-6) noguldījums - naudas līdzekļu glabāšana bankas kontā noteiktu vai nenoteiktu laiku ar vai bez procentiem;
+5) kredīts - atlīdzības darījums, kurā kredītiestāde uz rakstveida līguma pamata nodod klientam naudu vai citas lietas īpašumā un kurš klientam uzliek pienākumu noteiktā laikā un kārtībā atdot kredītiestādei naudu vai citas lietas;
+6) noguldījums - naudas līdzekļu glabāšana kredītiestādes kontā noteiktu vai nenoteiktu laiku ar vai bez procentiem;
 7) pašu kapitāls - kredītiestādes revidētajos finanšu pārskatos atspoguļotie kapitāla, rezervju un saistību elementi, kas ir brīvi pieejami kredītiestādei ar parastiem darbības riskiem saistīto, bet vēl neidentificēto iespējamo zaudējumu segšanai;
 8) (izslēgts ar 22.02.2007. likumu);
 9) klients - persona, kurai kredītiestāde sniedz finanšu pakalpojumus;
@@ -39,7 +37,7 @@ a) šai personai komercsabiedrībā ir izšķiroša ietekme uz līdzdalības pam
 b) šai personai komercsabiedrībā ir izšķiroša ietekme uz koncerna līguma pamata;
 c) starp šo personu un komercsabiedrību pastāv jebkādas citas šā punkta "a" vai "b" apakšpunktā minētajām attiecībām analogas attiecības;
 13) (izslēgts ar 22.02.2007. likumu);
-14) uzticības operācijas (trasts) - darījumi, kuros attiecības starp banku un klientu balstās uz savstarpēju uzticēšanos un saskaņā ar kuru noteikumiem banka uzņemas atbildību par klientam piederoša īpašuma pārvaldīšanu klienta labā, pārvaldot šo īpašumu šķirti no sava īpašuma;
+14) uzticības operācijas (trasts) - darījumi, kuros attiecības starp kredītiestādi un klientu balstās uz savstarpēju uzticēšanos un saskaņā ar kuru noteikumiem kredītiestāde uzņemas atbildību par klientam piederoša īpašuma pārvaldīšanu klienta labā, pārvaldot šo īpašumu šķirti no sava īpašuma;
 15) būtiska līdzdalība - personas vai vairāku personu, kas uz vienošanās pamata rīkojas saskaņoti, tieši vai netieši iegūta līdzdalība, kura aptver 10 un vairāk procentu no komercsabiedrības pamatkapitāla vai balsstiesīgo akciju skaita vai dod iespēju būtiski ietekmēt komercsabiedrības finanšu un darbības politikas noteikšanu;
 15¹) dalība - tiesības uz komercsabiedrības kapitāla daļu (neatkarīgi no tā, vai tiesības ir dokumentētas vai nav), ko, veidojot ilgstošu saikni ar šo komercsabiedrību, izmanto, lai piedalītos tās pārvaldībā, vai tiešā vai netiešā ceļā iegūta līdzdalība, kas aptver 20 un vairāk procentus no komercsabiedrības pamatkapitāla vai balsstiesīgo akciju skaita;
 16) riska darījumi - kredītiestādes bilances aktīva un ārpusbilances posteņos uzrādītās operācijas, no kurām kredītiestāde var ciest zaudējumus;
@@ -49,12 +47,12 @@ a) kuras veido kredītiestādei vienu kopīgu risku, jo viena no šīm personām
 b) starp kurām nepastāv kontroles attiecības, bet kuras veido kredītiestādei kopīgu risku, jo ir saistītas tādā veidā, ka vienas personas finansiālās problēmas, tai skaitā sarežģījumi finansējuma nodrošināšanā vai parādu nomaksas grūtības, var radīt citai personai vai citām personām sarežģījumus finansējuma nodrošināšanā vai parādu nomaksas grūtības;
 19) personas, kuras saistītas ar kredītiestādi - personas, kas ir:
 a) kredītiestādes akcionāri, kuriem kredītiestādē ir būtiska līdzdalība, un šo akcionāru - fizisko personu - laulātie, vecāki un bērni;
-b) bankas meitas sabiedrības un komercsabiedrības, kurās bankai ir dalība;
+b) kredītiestādes meitas sabiedrības un komercsabiedrības, kurās kredītiestādei ir dalība;
 c) kredītiestādes padomes, valdes priekšsēdētājs un locekļi, iekšējā audita dienesta vadītājs un locekļi, sabiedrības kontrolieris un citi kredītiestādes darbinieki, kuri ir pilnvaroti veikt kredītiestādes darbības plānošanu, vadīšanu un kontroli un atbild par to, kā arī šo personu laulātie, vecāki un bērni;
 d) komercsabiedrības, kurās šā termina skaidrojuma "a" un "c" apakšpunktā minētajām personām ir būtiska līdzdalība;
 20) finanšu iestāde - komercsabiedrība, kas nodibināta, lai sniegtu vienu vai vairākus finanšu pakalpojumus (izņemot noguldījumu un citu atmaksājamo līdzekļu piesaistīšanu) vai lai iegūtu līdzdalību citu komercsabiedrību pamatkapitālā;
-21) finanšu pārvaldītājsabiedrība - finanšu iestāde, kura nav jaukta finanšu pārvaldītājsabiedrība un kuras meitas sabiedrības ir vienīgi vai galvenokārt kredītiestādes vai finanšu iestādes, no kurām vismaz viena ir banka;
-22) tranzītkredīts - valdības kredīts, kas ar banku starpniecību tiek piešķirts uzņēmējiem konkrētu mērķu īstenošanai un netiek iekļauts bankas aktīvos, pret kuriem tiek vērsti kreditoru prasījumi bankas likvidācijas vai bankrota gadījumā;
+21) finanšu pārvaldītājsabiedrība - finanšu iestāde, kura nav jaukta finanšu pārvaldītājsabiedrība un kuras meitas sabiedrības ir vienīgi vai galvenokārt kredītiestādes vai finanšu iestādes, no kurām vismaz viena ir kredītiestāde;
+22) tranzītkredīts - valdības kredīts, kas ar kredītiestāžu starpniecību tiek piešķirts uzņēmējiem konkrētu mērķu īstenošanai un netiek iekļauts kredītiestādes aktīvos, pret kuriem tiek vērsti kreditoru prasījumi kredītiestādes likvidācijas vai bankrota gadījumā;
 23) nodokļu administrācija - likumā "Par nodokļiem un nodevām" noteiktās institūcijas;
 24) pašlikvidācija - kredītiestādes darbības izbeigšana saskaņā ar kredītiestādes akcionāru sapulces lēmumu;
 25) likvidācija - kredītiestādes darbības izbeigšana pašlikvidācijas gadījumā, pēc tiesas nolēmuma vai bankrota gadījumā;
@@ -73,18 +71,15 @@ a) kredītiestādes akcionāri, padomes, valdes un tām pielīdzināto pārvalde
 b) personas, kurām ar kredītiestādi ir darba tiesiskās attiecības;
 c) personas, kuras ir bijušas ieinteresētās personas saskaņā ar šā punkta "a" un "b" apakšpunkta noteikumiem pēdējo sešu mēnešu laikā līdz maksātnespējas lietas ierosināšanai;
 37) finanšu līzings - kreditēšana, ko veic atbilstoši UNIDROIT konvencijā par starptautisko finansiālo līzingu noteiktajiem pamatprincipiem;
-38) maksāšanas līdzeklis - līdzeklis (atsevišķi vai kopā ar citu maksāšanas līdzekli) vai maksājuma instrumentu, kurš ļauj tā lietotājiem saņemt skaidru naudu vai citas lietas, saņemt vai veikt maksājumus, dot rīkojumu naudas līdzekļu pārvedumam vai apstiprināt naudas līdzekļu pārvedumu un kuru kā maksāšanas līdzekli pieņem arī tās personas, kas nav laidušas apgrozībā šo maksāšanas līdzekli. Par maksāšanas līdzekļiem uzskata skaidru naudu, čekus, maksājumu kartes (kredītkarte, debetkarte un citas tamlīdzīgas kartes), bankomātu kartes, maksājuma dokumentus, elektronisko naudu, attālinātu elektronisko banku operāciju (globālajā datortīklā vai izmantojot datoru vai tālruni) programmatūru un citus tamlīdzīgus līdzekļus;
-39) elektroniskā nauda - naudas līdzekļi, kuri izsakāmi prasījuma veidā pret emitentu un:
-a) kuri ir reģistrēti elektroniskā ierīcē (viedkartē vai datora atmiņā),
-b) kuri ir izveidojušies, saņemot no klienta naudas līdzekļus, kuru nominālvērtība nav zemāka par elektroniskā ierīcē reģistrēto nominālvērtību,
-c) kurus kā maksāšanas līdzekli pieņem citas personas, kas nav šīs elektroniskās naudas emitenti;
+38) maksāšanas līdzeklis - līdzeklis (atsevišķi vai kopā ar citu maksāšanas līdzekli) vai maksājuma instrumentu, kurš ļauj tā lietotājiem saņemt skaidru naudu vai citas lietas, saņemt vai veikt maksājumus, dot rīkojumu naudas līdzekļu pārvedumam vai apstiprināt naudas līdzekļu pārvedumu un kuru kā maksāšanas līdzekli pieņem arī tās personas, kas nav laidušas apgrozībā šo maksāšanas līdzekli. Par maksāšanas līdzekļiem uzskata skaidru naudu, čekus, maksājumu kartes (kredītkarte, debetkarte un citas tamlīdzīgas kartes), bankomātu kartes, maksājuma dokumentus, elektronisko naudu, attālinātu elektronisko kredītiestāžu operāciju (globālajā datortīklā vai izmantojot datoru vai tālruni) programmatūru un citus tamlīdzīgus līdzekļus;
+39) (izslēgts ar 23.12.2010. likumu);
 40) ciešas attiecības - divu vai vairāku personu savstarpēja saistība:
 a) dalības veidā,
 b) kontroles veidā,
 c) ja tās ir saistītas ar vienu un to pašu personu kontroles veidā;
 41) kreditoru sapulce - organizēta kreditoru kopīga darbības forma kredītiestādes sanācijas procesā;
 42) kreditoru komiteja - kreditoru sapulces ievēlēta institūcija, kas kredītiestādes sanācijas gadījumā pārstāv kreditoru sapulci atbilstoši noteiktajam pilnvaru apjomam;
-43) jaukta pārvaldītājsabiedrība - mātes sabiedrība, kura nav kredītiestāde, finanšu pārvaldītājsabiedrība vai jaukta finanšu pārvaldītājsabiedrība, bet no kuras meitas sabiedrībām vismaz viena ir banka;
+43) jaukta pārvaldītājsabiedrība - mātes sabiedrība, kura nav kredītiestāde, finanšu pārvaldītājsabiedrība vai jaukta finanšu pārvaldītājsabiedrība, bet no kuras meitas sabiedrībām vismaz viena ir kredītiestāde;
 44) dalībvalsts - Eiropas Savienības vai Eiropas Ekonomikas zonas valsts;
 45) ārvalsts - valsts, kas nav dalībvalsts;
 46) mītnes valsts - dalībvalsts, kurā kredītiestāde reģistrēta un tai izsniegta licence kredītiestādes darbībai vai citādā veidā dota atļauja kredītiestādes darbībai;
@@ -101,10 +96,10 @@ e) kārtējā darbības gada peļņa, ja ir zvērināta revidenta vai zvērināt
 52) brīvais kapitāls - personai piederošo aktīvu vērtība, kas samazināta par šīs personas saistību vērtību un to aktīvu vērtību, kuri uzskatāmi par ilgtermiņa ieguldījumiem;
 53) prasījumu un saistību neto ieskaits - pirms parādnieka likvidācijas uzsākšanas vai likumā noteiktajā kārtībā atzītas maksātnespējas iestāšanās starp parādnieku un kreditoru uz rakstveida līguma pamata nodibinātas tiesiskas attiecības no savstarpējiem līgumiem izrietošo prasījumu un saistību izteikšanai vienā prasībā vai saistībā tā, ka tiek celta tikai viena prasība un jāizpilda tikai viena saistība;
 54) prasījumu un saistību dzēšana - prasījumu un saistību savstarpēja izteikšana vienā prasībā vai saistībā tā, ka tiek celta tikai viena prasība un izpildāma tikai viena saistība;
-55) jaukta finanšu pārvaldītājsabiedrība - mātes sabiedrība, kas nav banka, apdrošināšanas sabiedrība vai ieguldījumu brokeru sabiedrība un kas kopā ar savām meitas sabiedrībām, no kurām vismaz viena ir dalībvalstī reģistrēta banka, apdrošināšanas sabiedrība vai ieguldījumu brokeru sabiedrība, un citām sabiedrībām veido finanšu konglomerātu;
+55) jaukta finanšu pārvaldītājsabiedrība - mātes sabiedrība, kas nav kredītiestāde, apdrošināšanas sabiedrība vai ieguldījumu brokeru sabiedrība un kas kopā ar savām meitas sabiedrībām, no kurām vismaz viena ir dalībvalstī reģistrēta kredītiestāde, apdrošināšanas sabiedrība vai ieguldījumu brokeru sabiedrība, un citām sabiedrībām veido finanšu konglomerātu;
 56) ārvalsts valūta - jebkuras valsts, izņemot Latvijas Republiku, valūta;
 57) atgūstamās vērtības samazinājuma risks - risks, ka nopirktais debitora parāds var samazināties par naudā vai citā veidā debitoram piešķirto kredītu;
 58) sertifikāts - atbilstoši normatīvajiem aktiem izsniegts dokuments, kas apliecina administratora kvalifikāciju un dod viņam tiesības pildīt administratora pienākumus tiesiskās aizsardzības procesā un maksātnespējas procesā;
-59) pakārtotās saistības - saistības, kas bankai rodas no aizdevuma (neatkarīgi no noslēgtā darījuma veida) un kas, pamatojoties uz noslēgto līgumu ar banku, aizdevējam dod tiesības atprasīt aizdevumu pirms termiņa tikai bankas maksātnespējas vai likvidācijas gadījumā un tikai pēc visu citu kreditoru prasījumu apmierināšanas, bet pirms akcionāru prasījumu apmierināšanas;
+59) pakārtotās saistības - saistības, kas kredītiestādei rodas no aizdevuma (neatkarīgi no noslēgtā darījuma veida) un kas, pamatojoties uz noslēgto līgumu ar kredītiestādi, aizdevējam dod tiesības atprasīt aizdevumu pirms termiņa tikai kredītiestādes maksātnespējas vai likvidācijas gadījumā un tikai pēc visu citu kreditoru prasījumu apmierināšanas, bet pirms akcionāru prasījumu apmierināšanas;
 60) konsolidētās uzraudzības institūcija - dalībvalsts uzraudzības institūcija, kas ir atbildīga par Eiropas Savienības mātes kredītiestādes un Eiropas Savienības mātes finanšu pārvaldītājsabiedrības kontrolētas kredītiestādes uzraudzību konsolidācijas grupas līmenī;
 61) uzraugu kolēģija - uzraudzības institūciju veidota konsultatīva sadarbības vienība, kas darbojas uz iesaistīto uzraudzības iestāžu sadarbības līguma pamata.
