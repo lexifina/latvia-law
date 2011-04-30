@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2011.gada 26.aprīļa noteikumi Nr.323 \"Noteikumi par elektrisko un elektronisko iekārtu ražotāju un bateriju vai akumulatoru ražotāju reģistrācijas kārtību un samaksu par datu uzturēšanu\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "67 (4465)",
+  "official_journal_page": null,
+  "official_journal_date": "2011-04-29",
+  "entry_into_force": "2011-04-30",
+  "notification_date": "2014-05-15",
+  "commission_reference": "MNE(2014)52891",
+  "nim_celex": "72012L0019LVA_215933",
+  "nim_id": "215933",
+  "transposes_celex": [
+    "32012L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/600f4a20-943b-41ff-a72b-9e2f59e46fbc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
