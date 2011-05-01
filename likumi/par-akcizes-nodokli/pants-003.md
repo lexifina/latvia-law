@@ -18,3 +18,4 @@
 2) produkti, kuri tiek klasificēti Kombinētās nomenklatūras 2208.preču pozīcijā un kuros faktiskais spirta daudzums pārsniedz 1,2 tilpumprocentus, izņemot spirtu;
 3) produkti, kuri tiek klasificēti Kombinētās nomenklatūras 2204., 2205. un 2206.preču pozīcijā un kuros faktiskais spirta daudzums pārsniedz 1,2 tilpumprocentus, bet kuri neatbilst šā panta trešajā, ceturtajā un piektajā daļā minētajiem nosacījumiem;
 4) jebkuri citi pārtikas produkti, kuros faktiskā spirta daudzums pārsniedz 1,2 tilpumprocentus, izņemot tos, kuri minēti šā panta otrajā, trešajā, ceturtajā un piektajā daļā un šīs daļas 1., 2. un 3.punktā.
+(7) Ministru kabinets nosaka kārtību, kādā alkoholiskos dzērienus izmanto tādu uztura bagātinātāju ražošanai, kurus reģistrē, izplata, realizē, noformē un piegādā saskaņā ar normatīvajiem aktiem par obligātajām nekaitīguma un marķējuma prasībām uztura bagātinātājiem un uztura bagātinātāju reģistrācijas kārtību.

@@ -8,7 +8,7 @@ b) cita smēķējamā tabaka.
 (2) Par cigāriem un cigarillām uzskatāmi šādi tabakas izstrādājumi (ja tos var smēķēt vienīgi tādus, kādi tie ir):
 1) tabakas rullīši ar dabīgas tabakas ārējo aptinumu;
 2) tabakas rullīši ar sasmalcinātu jauktas tabakas pildījumu un ar tādu atjaunotas tabakas ārējo aptinumu parastā cigāru krāsā, kurš pilnībā aptver izstrādājumu un attiecīgos gadījumos arī tā filtru (bet ne iemuti, ja izstrādājumam tāds ir), ja izstrādājuma svars, neieskaitot filtru vai iemuti, nav mazāks par 2,3 gramiem un nav lielāks par 10 gramiem un izstrādājuma apkārtmērs vismaz tā trešdaļas garumā nav mazāks par 34 milimetriem.
-(2¹) Ja zem dabīgas tabakas ārējā aptinuma ir iekšējais aptinums, tad šādi tabakas rullīši atbilst šā panta otrās daļas 1.punktam, ja iekšējais aptinums ir no dabīgas tabakas.
+(2¹) (Izslēgta ar 14.04.2011. likumu)
 (3) Par cigaretēm uzskatāmi šādi tabakas izstrādājumi:
 1) tabakas rullīši, kurus var smēķēt tādus, kādi tie ir, un kuri nav cigāri vai cigarillas;
 2) tabakas rullīši, kas bez rūpnieciskas apstrādes ievietoti cigarešu papīra čaulītēs;
