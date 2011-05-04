@@ -25,5 +25,6 @@
 17) zobārstniecības māsa;
 18) audiologopēds;
 19) radiologa asistents;
-20) uztura speciālists.
+20) uztura speciālists;
+21) militārais paramediķis.
 (3) Medicīniskās izglītības klīnisko un praktisko daļu (arī rezidentūrā iegūstamo) šajā pantā minētajās ārstniecības profesijās un specialitātēs īsteno ārstniecības iestādes un ārstniecības personas, kuras normatīvajos aktos noteiktajā kārtībā ir ieguvušas tiesības izglītot ārstniecības personas.
