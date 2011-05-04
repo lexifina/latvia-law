@@ -1,0 +1,1 @@
+45.⁵ pants. Militārais paramediķis profesionālās prasmes neatliekamās medicīniskās palīdzības sniegšanā savai kvalifikācijai atbilstošā apjomā militārā dienesta laikā var uzturēt neatliekamās medicīniskās palīdzības iestādes brigādē tiešā neatliekamajā medicīnā sertificētas ārstniecības personas vadībā un uzraudzībā.
