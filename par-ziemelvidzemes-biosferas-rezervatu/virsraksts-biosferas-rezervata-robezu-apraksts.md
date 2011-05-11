@@ -1,0 +1,1 @@
+Biosfēras rezervāta robežu apraksts

@@ -1,1 +1,1 @@
-15.pants. Īpašuma lietošanas tiesību aprobežojumus dabas lieguma zonā un ainavu aizsardzības zonā nosaka Ministru kabineta izdoti individuālie aizsardzības un izmantošanas noteikumi.
+15.pants. Īpašuma lietošanas tiesību aprobežojumus ainavu aizsardzības zonā un neitrālajā zonā nosaka Ministru kabineta izdoti individuālie aizsardzības un izmantošanas noteikumi.

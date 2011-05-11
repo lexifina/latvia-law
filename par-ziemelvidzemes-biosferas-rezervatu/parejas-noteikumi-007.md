@@ -1,0 +1,1 @@
+7. Ministru kabinets līdz 2011.gada 1.jūnijam izdod šā likuma 15.pantā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2011.gada 1.jūnijam piemēro Ministru kabineta 2000.gada 10.oktobra noteikumus Nr.353 "Ziemeļvidzemes biosfēras rezervāta individuālie aizsardzības un izmantošanas noteikumi", ciktāl tie nav pretrunā ar šo likumu.
