@@ -1,0 +1,1 @@
+136. Ja līdz šo pārejas noteikumu 133. un 134.punktā noteiktajam iesnieguma iesniegšanas termiņam ir atlikušas mazāk nekā 15 kalendārās dienas, nodokļu maksātājs šo iesniegumu var iesniegt mēneša laikā, skaitot no dienas, kad stājas spēkā grozījumi šā likuma 28.panta trešajā daļā.
