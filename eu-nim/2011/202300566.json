@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2011. gada 3. maija noteikumi Nr. 333 \"Kārtība, kādā plānojami un uzskaitāmi ieņēmumi no maksas pakalpojumiem un ar šo pakalpojumu sniegšanu saistītie izdevumi, kā arī maksas pakalpojumu izcenojumu noteikšanas metodika un izcenojumu apstiprināšanas kārtība\".",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "77",
+  "official_journal_page": null,
+  "official_journal_date": "2011-05-19",
+  "entry_into_force": "2011-05-20",
+  "notification_date": "2023-01-24",
+  "commission_reference": "MNE(2023)00566",
+  "nim_celex": "72019L1024LVA_202300566",
+  "nim_id": "202300566",
+  "transposes_celex": [
+    "32019L1024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/62eebb62-9e23-11ed-b508-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
