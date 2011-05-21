@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2011.gada 17.maija noteikumi Nr.364 „Kārtība, kādā licencē un uzrauga komersantus, kuri sniedz darbiekārtošanas pakalpojumus kuģa apkalpes komplektēšanā”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "78 (4476)",
+  "official_journal_page": null,
+  "official_journal_date": "2011-05-20",
+  "entry_into_force": "2011-05-21",
+  "notification_date": "2014-02-10",
+  "commission_reference": "MNE(2014)50987",
+  "nim_celex": "72012L0035LVA_213344",
+  "nim_id": "213344",
+  "transposes_celex": [
+    "32012L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c8237b6e-e5c8-40db-ba6c-fe8df5f83c73",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
