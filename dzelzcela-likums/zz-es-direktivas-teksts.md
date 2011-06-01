@@ -13,4 +13,5 @@ Likumā iekļautas tiesību normas, kas izriet no:
 12) Eiropas Parlamenta un Padomes 2007.gada 23.oktobra direktīvas 2007/58/EK, ar ko groza Padomes direktīvu 91/440/EEK par Kopienas dzelzceļa attīstību un Eiropas Parlamenta un Padomes direktīvu 2001/14/EK par dzelzceļa infrastruktūras jaudas iedalīšanu un maksas iekasēšanu par dzelzceļa infrastruktūras lietošanu;
 13) Eiropas Parlamenta un Padomes 2007.gada 23.oktobra direktīvas 2007/59/EK par to vilcienu vadītāju sertifikāciju, kuri vada lokomotīves un vilcienus Kopienas dzelzceļu sistēmā;
 14) Komisijas 2009.gada 27.novembra direktīvas 2009/149/EK par Eiropas Parlamenta un Padomes direktīvas 2004/49/EK grozījumiem attiecībā uz kopīgiem drošības indikatoriem un vienotām metodēm nelaimes gadījumos radušos zaudējumu aprēķināšanai;
-15) Eiropas Parlamenta un Padomes 2008.gada 17.jūnija direktīvas 2008/57/EK par dzelzceļa sistēmas savstarpēju izmantojamību Kopienā.
+15) Eiropas Parlamenta un Padomes 2008.gada 17.jūnija direktīvas 2008/57/EK par dzelzceļa sistēmas savstarpēju izmantojamību Kopienā;
+16) Eiropas Parlamenta un Padomes 2008.gada 16.decembra direktīvas 2008/110/EK, ar ko groza direktīvu 2004/49/EK par drošību Kopienas dzelzceļos (Dzelzceļu drošības direktīva).
