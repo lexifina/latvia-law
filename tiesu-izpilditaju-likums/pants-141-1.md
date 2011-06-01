@@ -1,0 +1,1 @@
+141.¹ pants. Maksājumus, kas saistīti ar tiesas un citu institūciju nolēmumu izpildi un citu zvērināta tiesu izpildītāja amata un profesionālo darbību, personas veic ar pārskaitījumu uz zvērināta tiesu izpildītāja depozīta kontu Valsts kasē vai nododot skaidru naudu zvērinātam tiesu izpildītājam apmaiņā pret kvīti par skaidras naudas pieņemšanu.

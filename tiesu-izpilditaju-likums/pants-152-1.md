@@ -1,0 +1,1 @@
+152.¹ pants. Tieslietu ministrijai un Latvijas Zvērinātu tiesu izpildītāju padomei normatīvajos aktos noteikto funkciju veikšanai ir tiesības saņemt ziņas par zvērinātu tiesu izpildītāju depozīta kontos reģistrētiem maksājumiem.

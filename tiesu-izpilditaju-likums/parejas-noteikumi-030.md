@@ -1,0 +1,1 @@
+30. Zvērināts tiesu izpildītājs nodrošina depozīta konta atvēršanu Valsts kasē un visu zvērināta tiesu izpildītāja depozīta kontā kredītiestādē esošo no parādnieka piedzīto naudas līdzekļu un citu summu, kas pienākas ieinteresētajām personām, pārskaitīšanu uz zvērināta tiesu izpildītāja depozīta kontu Valsts kasē līdz 2011.gada 1.jūlijam.
