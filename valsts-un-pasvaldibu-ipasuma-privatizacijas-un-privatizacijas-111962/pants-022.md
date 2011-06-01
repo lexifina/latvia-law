@@ -1,5 +1,5 @@
 22.pants. Rīcība ar neapbūvētiem zemesgabaliem
-(1) Valstij vai pašvaldībai piederoši neapbūvēti zemesgabali var tikt atsavināti Valsts un pašvaldības mantas atsavināšanas likumā noteiktajā kārtībā vai iznomāti. Valstij vai pašvaldībai piederoši neapbūvēti zemesgabali var tikt iznomāti ar apbūves tiesībām, ievērojot šā panta noteikumus.
+(1) Valstij vai pašvaldībai piederoši neapbūvēti zemesgabali var tikt atsavināti Publiskas personas mantas atsavināšanas likumā noteiktajā kārtībā vai iznomāti. Valstij vai pašvaldībai piederoši neapbūvēti zemesgabali var tikt iznomāti ar apbūves tiesībām, ievērojot šā panta noteikumus.
 (2) Lēmumu par valstij vai pašvaldībai piederoša neapbūvēta zemesgabala nomu ar apbūves tiesībām pieņem attiecīgi Ministru kabinets vai pašvaldības dome. Ja tiek iznomāts valstij vai pašvaldībai piederošs neapbūvēts zemesgabals ar apbūves tiesībām, zemesgabala nomniekam rodas tiesības prasīt attiecīgā apbūvētā zemesgabala nodošanu atsavināšanai, ja uz šā zemesgabala ir uzceltas un nodotas ekspluatācijā visas nomas līgumā paredzētās ēkas (būves) un īpašuma tiesības uz tām ir nostiprinātas zemesgrāmatā.
 (3) Neapbūvētu zemesgabalu ar apbūves tiesībām pašvaldība drīkst iznomāt tikai tajā gadījumā, ja pašvaldības īpašuma tiesības uz attiecīgo zemesgabalu ir nostiprinātas zemesgrāmatā.
 (4) (Izslēgta ar 21.06.2007. likumu.)
