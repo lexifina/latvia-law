@@ -7,15 +7,15 @@ nosaukums
 1.
 C
 LV0000110
-Ziemeļvidzemes biosfēras rezervāta dabas lieguma zona "Augstroze"
+dabas liegums "Augstroze"
 2.
 C
 LV0000120
-Ziemeļvidzemes biosfēras rezervāta dabas lieguma zona "Vidusburtnieks"
+dabas liegums "Vidusburtnieks"
 3.
 C
 LV0000130
-Ziemeļvidzemes biosfēras rezervāta dabas lieguma zona "Ziemeļu purvi"
+dabas liegums "Ziemeļu purvi"
 4.
 C
 LV0100200
@@ -465,17 +465,13 @@ C
 LV0509100
 dabas liegums "Randu pļavas"
 116.
-C
-LV0509300
-dabas liegums "Limšānu purvs"
+(izslēgts ar 28.04.2011. likumu)
 117.
 B
 LV0509500
 dabas liegums "Dzērves purvs"
 118.
-C
-LV0509600
-dabas liegums "Pirtsmeža purvs"
+(izslēgts ar 28.04.2011. likumu)
 119.
 B
 LV0509700

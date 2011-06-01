@@ -428,6 +428,34 @@ mikroliegums "Igaunijas riests"
 C
 LV0536600
 dabas liegums "Lubāna mitrājs"
+340.
+C
+LV0900100
+aizsargājamā jūras teritorija "Nida-Pērkone"
+341.
+C
+LV0900200
+aizsargājamā jūras teritorija "Akmensrags"
+342.
+A
+LV0900300
+aizsargājamā jūras teritorija "Irbes šaurums"
+343.
+C
+LV0900400
+aizsargājamā jūras teritorija "Rīgas līča rietumu piekraste"
+344.
+C
+LV0900500
+aizsargājamā jūras teritorija "Selga uz rietumiem no Tūjas"
+345.
+B
+LV0900600
+aizsargājamā jūras teritorija "Vitrupe-Tūja"
+346.
+B
+LV0900700
+aizsargājamā jūras teritorija "Ainaži-Salacgrīva"
 Šā pielikuma tabulas ailē "Tips" ar:
 "A" apzīmētas
 teritorijas, kas noteiktas īpaši aizsargājamo putnu sugu aizsardzībai;
