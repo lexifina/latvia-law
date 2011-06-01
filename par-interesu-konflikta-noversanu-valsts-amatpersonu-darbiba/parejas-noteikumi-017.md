@@ -1,0 +1,1 @@
+17. Šā likuma 30.panta pirmās daļas otrā teikuma un ceturtās daļas jaunā redakcija par zaudējumu atlīdzināšanu Administratīvā procesa likumā noteiktajā kārtībā neattiecas uz gadījumiem, kad šā likuma pārkāpumi konstatēti vai zaudējumu piedziņa uzsākta līdz attiecīgo normu spēkā stāšanās dienai.

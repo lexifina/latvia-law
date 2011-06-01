@@ -8,4 +8,4 @@ Likumā ir lietoti šādi termini:
 6) radinieks - tēvs, māte, vecāmāte, vecaistēvs, bērns, mazbērns, adoptētais, adoptētājs, brālis, māsa, pusmāsa, pusbrālis, laulātais;
 7) radošais darbs - publicistiska, literāra vai mākslinieciska darbība, par kuru saņem autoratlīdzību vai honorāru;
 8) valsts vai pašvaldības institūcija - valsts vai pašvaldības iestāde (tās struktūrvienība) vai kapitālsabiedrība (tās filiāle);
-9) valsts vai pašvaldības institūcijas vadītājs - valsts vai pašvaldības iestādes vadītājs (ministrijā - valsts sekretārs) vai kapitālsabiedrības valde.
+9) valsts vai pašvaldības institūcijas vadītājs - valsts vai pašvaldības iestādes vadītājs (ministrijā - valsts sekretārs) vai kapitālsabiedrības valde. Saeima, Saeimas Prezidijs vai Saeimas priekšsēdētājs attiecībā uz Saeimas deputātu nav institūcijas vadītājs, augstāka amatpersona, iestāde vai koleģiāla institūcija.
