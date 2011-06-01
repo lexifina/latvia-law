@@ -6,7 +6,7 @@
 4) starpproduktiem (par 100 litriem):
 a) ar absolūtā spirta saturu līdz 15 tilpumprocentiem (ieskaitot) - 45 lati,
 b) ar absolūtā spirta saturu no 15 tilpumprocentiem (neieskaitot) līdz 22 tilpumprocentiem (ieskaitot) - 70 latu;
-5) pārējiem alkoholiskajiem dzērieniem (par 100 litriem absolūtā spirta) - 890 lati.
+5) pārējiem alkoholiskajiem dzērieniem (par 100 litriem absolūtā spirta) - 940 latu.
 (2) Patstāvīgo mazo alus darītavu saražotajam alum (par 100 litriem) nodokli aprēķina par katru absolūtā spirta tilpumprocentu, kas izteikts ar precizitāti līdz vienai desmitdaļai, pēc šādām likmēm:
 1) par viena kalendāra gadā saražotajiem pirmajiem 10 tūkstošiem hektolitriem alus - 50 procenti no šā panta pirmās daļas 1.punktā noteiktās likmes, bet ne mazāk kā 4 lati par 100 litriem alus,
 2) par pārējo viena kalendāra gadā saražoto alu - šā panta pirmās daļas 1.punktā noteiktā likme, bet ne mazāk kā 4 lati par 100 litriem alus.
