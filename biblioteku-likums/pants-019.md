@@ -1,7 +1,7 @@
 19.pants. Nacionālais bibliotēku krājums
 (1) Nacionālais bibliotēku krājums ir visu akreditēto bibliotēku krājumu kopums, kas organizēts, ievērojot noteiktus principus, un ietverts vienotā iespieddarbu un citu dokumentu Nacionālajā kopkatalogā.
 (2) Nacionālais bibliotēku krājums ir valsts bagātība un atrodas valsts aizsardzībā.
-(3) Nacionālā bibliotēku krājuma iespieddarbi un citi dokumenti, kas vienlaikus ietilpst arī Latvijas Nacionālajā arhīvfondā vai atzīti par kultūras pieminekļiem, tiek uzskaitīti, saglabāti un izmantoti, kā arī darījumi ar tiem tiek veikti, ievērojot šo likumu, likumu "Par arhīviem" un likumu "Par kultūras pieminekļu aizsardzību".
+(3) Nacionālā bibliotēku krājuma iespieddarbi un citi dokumenti, kas vienlaikus ietilpst arī nacionālajā dokumentārajā mantojumā vai atzīti par kultūras pieminekļiem, tiek uzskaitīti, saglabāti un izmantoti, kā arī darījumi ar tiem tiek veikti, ievērojot šo likumu, Arhīvu likumu un likumu "Par kultūras pieminekļu aizsardzību".
 (4) Nacionālajā bibliotēku krājumā esošo seniespiedumu, reto grāmatu, rokrakstu un citu kultūras pieminekļu restaurāciju un konservāciju veic Latvijas Nacionālā bibliotēka.
 (5) Nacionālajā bibliotēku krājumā esošo seniespiedumu, reto grāmatu, rokrakstu un citu kultūras pieminekļu saglabāšanu (digitalizāciju, kopēšanu, mikrofilmēšanu u.c.) veic Latvijas Nacionālā bibliotēka un citas valsts nozīmes bibliotēkas.
 (6) Nacionālo bibliotēku krājumu var papildināt:
