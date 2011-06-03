@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par kopējo valstī maksimāli pieļaujamo emisiju gaisā",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "86",
+  "official_journal_page": null,
+  "official_journal_date": "2011-06-02",
+  "entry_into_force": "2011-06-03",
+  "notification_date": "2011-06-10",
+  "commission_reference": "MNE(2011)54271",
+  "nim_celex": "72001L0081LVA_182765",
+  "nim_id": "182765",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/368677a9-fa70-409d-93df-3d670be74c72",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
