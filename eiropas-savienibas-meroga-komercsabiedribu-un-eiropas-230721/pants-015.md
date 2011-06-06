@@ -1,0 +1,2 @@
+15.pants. Vienošanās noteikumu attiecināšana
+Vienošanās, kas noslēgta starp speciālo sarunu grupu un centrālo vadību, attiecas uz visām Eiropas Savienības mēroga komercsabiedrības filiālēm, bet Eiropas Savienības mēroga komercsabiedrību grupas gadījumā - uz visām tajā ietilpstošajām komercsabiedrībām dalībvalstīs, ja vienošanās par Eiropas Darbinieku padomes izveidošanu vai citas informēšanas un konsultēšanās kārtības noteikšanu neparedz plašāku darbības jomu.

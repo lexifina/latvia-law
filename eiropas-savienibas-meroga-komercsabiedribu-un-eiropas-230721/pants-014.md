@@ -1,0 +1,2 @@
+14.pants. Citas informēšanas un konsultēšanās kārtības noteikšana
+Ja speciālā sarunu grupa un centrālā vadība rakstveidā noslēdz vienošanos nevis par Eiropas Darbinieku padomes izveidošanu, bet par citas informēšanas un konsultēšanās kārtības noteikšanu, šīs vienošanās nosacījumos paredz, kādu metodi darbinieku pārstāvji izmanto, lai rīkotu apspriedes un izskatītu iegūto informāciju, jo īpaši informāciju par pārnacionāliem jautājumiem, kas būtiski ietekmē darbinieku intereses.

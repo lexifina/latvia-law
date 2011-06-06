@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par Eiropas Savienības mēroga komercsabiedrību un Eiropas Savienības mēroga komercsabiedrību grupu darbinieku informēšanu un konsultēšanos ar šiem darbiniekiem" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2001, 10.nr.; 2008, 5.nr.).

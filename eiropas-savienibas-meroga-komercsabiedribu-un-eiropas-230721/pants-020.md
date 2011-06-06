@@ -1,0 +1,2 @@
+20.pants. Sarunu sākšana par vienošanās noslēgšanu
+Eiropas Darbinieku padome četrus gadus pēc tās dibināšanas sapulces ar vienkāršu balsu vairākumu izlemj, vai sākt sarunas ar centrālo vadību par šā likuma 11.panta pirmajā daļā minētās vienošanās noslēgšanu vai arī turpmāk piemērot īpašos šīs nodaļas noteikumus. Ja Eiropas Darbinieku padome nolemj sākt sarunas par vienošanās noslēgšanu, tai ir tādas pašas tiesības un pienākumi kā speciālajai sarunu grupai.

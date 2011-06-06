@@ -1,0 +1,3 @@
+7.pants. Informācijas sniegšana
+(1) Centrālā vadība, kā arī katras Eiropas Savienības mēroga komercsabiedrību grupā ietilpstošās Latvijā reģistrētās komercsabiedrības izpildinstitūcija ir atbildīga par to, lai tiek iegūta un iesaistītajām personām sniegta informācija, kas nepieciešama šā likuma 8.pantā minēto sarunu uzsākšanai, jo īpaši informācija par Eiropas Savienības mēroga komercsabiedrības vai Eiropas Savienības mēroga komercsabiedrību grupas struktūru, darbiniekiem un to skaitu, kā arī izvietojumu dalībvalstīs.
+(2) Darbinieku skaitu aprēķina no vidējā pēdējo divu gadu laikā nodarbināto darbinieku skaita, ņemot vērā arī tos darbiniekus, kuri nodarbināti nepilnu darba laiku.

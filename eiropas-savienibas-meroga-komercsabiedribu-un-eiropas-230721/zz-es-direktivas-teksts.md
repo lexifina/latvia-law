@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2009.gada 6.maija direktīvas 2009/38/EK par to, kā izveidot Eiropas Uzņēmumu padomi vai procedūru darbinieku informēšanai un uzklausīšanai Kopienas mēroga uzņēmumos un Kopienas mēroga uzņēmumu grupās.

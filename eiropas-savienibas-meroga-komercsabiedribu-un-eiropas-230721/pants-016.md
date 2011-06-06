@@ -1,0 +1,8 @@
+16.pants. Citi noteikumi attiecībā uz vienošanās piemērošanu, pagarināšanu, izbeigšanu un jaunas vienošanās noslēgšanu
+Ja šā likuma 11.pantā minētā vienošanās neietver noteikumus par tās piemērošanu, pagarināšanu, izbeigšanu vai jaunas vienošanās noslēgšanu, piemērojami šādi noteikumi:
+1) uzskatāms, ka noslēgtā vienošanās ir spēkā uz nenoteiktu laiku;
+2) centrālā vadība un Eiropas Darbinieku padome vai darbinieku pārstāvji, kuri darbojas saskaņā ar citu darbinieku informēšanas un konsultēšanās kārtību, var izbeigt vienošanos vismaz sešus mēnešus pirms tās termiņa beigām, attiecīgi informējot otru pusi;
+3) ja šī vienošanās ir spēkā uz nenoteiktu laiku vai tajā nav ietverts noteikums par šīs vienošanās spēkā esības termiņu, centrālā vadība un Eiropas Darbinieku padome vai darbinieku pārstāvji, kuri darbojas saskaņā ar citu darbinieku informēšanas un konsultēšanās kārtību, to var izbeigt vismaz sešus mēnešus pirms katra četru gadu perioda, kas skaitāms no dienas, kad vienošanās stājusies spēkā;
+4) ja vienošanās termiņš ir beidzies un neviena no pusēm neierosina noslēgt jaunu vienošanos, vienošanās uzskatāma par pagarinātu uz tādu pašu periodu, uz kādu tā bija noslēgta;
+5) ja vienošanās termiņš ir beidzies vai vienošanās ir izbeigta, tās noteikumi piemērojami līdz jaunas vienošanās noslēgšanai vai līdz brīdim, kad tiek piemēroti šā likuma 17.panta noteikumi;
+6) ja vienošanās termiņš ir beidzies vai vienošanās ir izbeigta, Eiropas Darbinieku padomei ir tiesības speciālās sarunu grupas vietā noslēgt jaunu vienošanos, kā arī pieņemt šā likuma 11.panta ceturtajā daļā minētos lēmumus. Ja ir paredzēts noslēgt jaunu vienošanos, lai iedibinātu citu informēšanas un konsultēšanās kārtību, izveidojama jauna speciālā sarunu grupa saskaņā ar šā likuma 8.pantu.

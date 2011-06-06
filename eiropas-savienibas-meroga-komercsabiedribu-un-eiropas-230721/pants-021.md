@@ -1,0 +1,3 @@
+21.pants. Eiropas Darbinieku padomes locekļu pilnvaru laiks
+(1) Eiropas Darbinieku padomes locekļu pilnvaru laiks ir četri gadi, ja vien tas netiek pārtraukts pirms šā termiņa beigām pēc kāda padomes locekļa iniciatīvas vai citu iemeslu dēļ (atteikšanās pildīt savus pienākumus, ilgstoša slimība, šā likuma noteikumu pārkāpšana un citi gadījumi).
+(2) Reizi divos gados, sākot no Eiropas Darbinieku padomes dibināšanas sapulces dienas, centrālā vadība pārliecinās, vai darbinieku skaits kādā no dalībvalstīm ir būtiski mainījies un vai Eiropas Darbinieku padomes sastāvā izdarāmi grozījumi, ievērojot šā likuma 18.panta otrās un trešās daļas noteikumus. Centrālā vadība informē Eiropas Darbinieku padomi par iegūto informāciju.

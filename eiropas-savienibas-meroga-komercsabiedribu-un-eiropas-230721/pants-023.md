@@ -1,0 +1,2 @@
+23.pants. Informācija par Eiropas Darbinieku padomes locekļiem
+Eiropas Darbinieku padome nekavējoties informē centrālo vadību vai citu atbilstošu vadības institūciju par Eiropas Darbinieku padomes locekļiem. Centrālā vadība šo informāciju nodod Eiropas Savienības mēroga komercsabiedrības filiāļu vadībai vai Eiropas Savienības mēroga komercsabiedrību grupā ietilpstošu komercsabiedrību izpildinstitūcijām.
