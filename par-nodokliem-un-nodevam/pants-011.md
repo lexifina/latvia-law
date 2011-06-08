@@ -134,4 +134,5 @@
 116) par tiesībām izmantot zemes dzīles publiskajos ūdeņos, Latvijas Republikas teritoriālajā jūrā un ekskluzīvajā ekonomiskajā zonā, izņemot ogļūdeņražu meklēšanu, izpēti un ieguvi, kā arī ģeoloģisko izpēti, kas saistīta ar būvju būvniecību, ierīkošanu un ekspluatāciju jūrā un kas notiek saskaņā ar jūras vides aizsardzības un pārvaldības normatīvajiem aktiem;
 117) par ūdens resursu lietošanas atļaujas izsniegšanu;
 118) par piesārņojošas darbības atļaujas izsniegšanu un tās pārskatīšanu;
-119) par komercķīlas nodibināšanas, pārjaunojuma un dzēšanas reģistrāciju, par tiesībām iepazīties ar komercķīlu reģistra ierakstiem, par rakstveida informācijas saņemšanu no komercķīlu reģistra, par komercķīlas ņēmēja maiņu reorganizācijas vai uzņēmuma pārejas gadījumā, kā arī par komercķīlas noteikumu grozīšanu un nodrošinātā prasījuma cesijas reģistrāciju.
+119) par komercķīlas nodibināšanas, pārjaunojuma un dzēšanas reģistrāciju, par tiesībām iepazīties ar komercķīlu reģistra ierakstiem, par rakstveida informācijas saņemšanu no komercķīlu reģistra, par komercķīlas ņēmēja maiņu reorganizācijas vai uzņēmuma pārejas gadījumā, kā arī par komercķīlas noteikumu grozīšanu un nodrošinātā prasījuma cesijas reģistrāciju;
+120) par vietējās pierobežas satiksmes atļaujas pieprasīšanai nepieciešamo dokumentu izskatīšanu.
