@@ -1,12 +1,12 @@
 3.pants. Netiešo nodokļu piemērošana preču piegādēm un pakalpojumiem
-(1) Preces, kuras nav paredzētas tālākai eksportēšanai un kuras licencētai kapitālsabiedrībai, zonas kapitālsabiedrībai, zonas pārvaldei vai brīvostas pārvaldei piegādā ar pievienotās vērtības nodokli apliekamā persona (turpmāk - apliekamā persona), apliekamas ar pievienotās vērtības nodokļa 18 procentu vai 5 procentu likmi saskaņā ar likumu "Par pievienotās vērtības nodokli", ja šajā pantā nav noteikts citādi.
+(1) Preces, kuras nav paredzētas tālākai eksportēšanai un kuras licencētai kapitālsabiedrībai, zonas kapitālsabiedrībai, zonas pārvaldei vai brīvostas pārvaldei piegādā ar pievienotās vērtības nodokli apliekamā persona (turpmāk - apliekamā persona), apliekamas ar pievienotās vērtības nodokļa standartlikmi vai samazināto likmi saskaņā ar likumu "Par pievienotās vērtības nodokli", ja šajā pantā nav noteikts citādi.
 (2) Pievienotās vērtības nodokļa 0 procentu likmi piemēro:
 1) apliekamo personu preču piegādēm licencētai kapitālsabiedrībai, zonas kapitālsabiedrībai, zonas pārvaldei vai brīvostas pārvaldei brīvostas vai speciālās ekonomiskās zonas teritorijā ietilpstošajā brīvajā zonā (turpmāk - brīvā zona) to tālākai eksportēšanai;
 2) tādām preču piegādēm licencētai kapitālsabiedrībai, zonas kapitālsabiedrībai, zonas pārvaldei vai brīvostas pārvaldei, kuras atbilst šā likuma 1.panta otrās daļas 12.punktā noteiktajām prasībām;
 3) (izslēgts ar 20.01.2005. likumu);
 4) (izslēgts ar 20.01.2005. likumu);
 5) (izslēgts ar 20.01.2005. likumu).
-(3) Ja šā panta otrās daļas 1.punktā minētās preces tiek pārdotas, tās ir apliekamas ar pievienotās vērtības nodokļa 18 procentu vai 5 procentu likmi saskaņā ar likumu "Par pievienotās vērtības nodokli".
+(3) Ja šā panta otrās daļas 1.punktā minētās preces tiek pārdotas, tās ir apliekamas ar pievienotās vērtības nodokļa standartlikmi vai samazināto likmi saskaņā ar likumu "Par pievienotās vērtības nodokli".
 (4) Ja licencēta kapitālsabiedrība, zonas kapitālsabiedrība, zonas pārvalde vai brīvostas pārvalde šā panta otrās daļas 2.punktā minētās preces piegādā citai personai ātrāk nekā piecu gadu laikā no to iegādes brīža, licencēta kapitālsabiedrība, zonas kapitālsabiedrība, zonas pārvalde vai brīvostas pārvalde aprēķina pievienotās vērtības nodokli no preces sākotnējās vērtības un iemaksā šo nodokli valsts budžetā tajā taksācijas periodā, kad notikusi preču piegāde, un šis nodoklis nav atskaitāms kā priekšnodoklis.
 (5) (Izslēgta ar 20.01.2005. likumu.)
 (6) (Izslēgta ar 20.01.2005. likumu.)

@@ -7,7 +7,7 @@ b) Rēzeknes speciālās ekonomiskās zonas pārvaldīšanas akciju sabiedrības
 c) Ventspils brīvostas pārvaldes licencētai kapitālsabiedrībai izsniegta apliecība par tiesībām piemērot tiešo nodokļu atvieglojumus un īpašu kārtību valsts sociālās apdrošināšanas iemaksu veikšanai,
 d) Rīgas ostas pārvaldes licencētai kapitālsabiedrībai izsniegta apliecība par tiesībām piemērot tiešo nodokļu atvieglojumus un īpašu kārtību valsts sociālās apdrošināšanas iemaksu veikšanai;
 2) brīvostas pārvalde - Rīgas ostas pārvalde un Ventspils ostas pārvalde;
-3) licencēta kapitālsabiedrība - komercdarbība (uzņēmums), kas noslēgusi līgumu ar brīvostas pārvaldi par komercdarbību Rīgas brīvostas vai Ventspils brīvostas teritorijā ietilpstošajā brīvās zonas teritorijā;
+3) licencēta kapitālsabiedrība - komercdarbība (uzņēmums), kas noslēgusi līgumu ar brīvostas pārvaldi par komercdarbību Rīgas brīvostas vai Ventspils brīvostas teritorijā;
 4) netiešie nodokļi - muitas nodoklis, dabas resursu nodoklis, akcīzes nodoklis un pievienotās vērtības nodoklis;
 5) tiešie nodokļi - uzņēmumu ienākuma nodoklis un nekustamā īpašuma nodoklis;
 6) uzkrātā ieguldījumu summa - visu to zonas kapitālsabiedrības vai licencētas kapitālsabiedrības ieguldījumu summa, kas veikti:
