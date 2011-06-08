@@ -1,1 +1,1 @@
-II nodaļa. Informācijas sniegšana
+II nodaļa. Informācijas sniegšana un uzglabāšana
