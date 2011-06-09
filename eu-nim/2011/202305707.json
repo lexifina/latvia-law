@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2011.gada 24.maija noteikumi Nr.411 \"Autopārvadājumu kontroles organizēšanas un īstenošanas kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "89",
+  "official_journal_page": null,
+  "official_journal_date": "2011-06-08",
+  "entry_into_force": "2011-06-09",
+  "notification_date": "2023-11-03",
+  "commission_reference": "MNE(2023)05707",
+  "nim_celex": "72014L0047LVA_202305707",
+  "nim_id": "202305707",
+  "transposes_celex": [
+    "32014L0047"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/25a4ba62-9e80-4ee5-ba9f-307490ef6800",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
