@@ -1,0 +1,1 @@
+70.¹ pants. Standartlīgumā var iekļaut noteikumu, ka maksājumu pakalpojumu sniedzējs maksājuma pakalpojuma izmantotājam pēc pieprasījuma vai noteiktā periodā pēc vienošanās sniedz vai dara pieejamu konta izraksta informāciju, norādot veidu, kādā konta izraksts sniedzams, tajā skaitā nodrošinot iespēju šo informāciju saglabāt un atjaunot nemainītu.

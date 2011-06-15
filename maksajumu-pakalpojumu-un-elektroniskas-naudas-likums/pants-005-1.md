@@ -4,6 +4,7 @@
 (2) Vienlaikus ar šā panta pirmajā daļā minētā paziņojuma iesniegšanu elektroniskās naudas iestāde sniedz Komisijai šādu informāciju:
 1) ziņas par tās firmu, juridisko adresi, reģistrācijas numuru un reģistrācijas vietu;
 2) ziņas par šā likuma 11.panta pirmās daļas 10.punktā minētajām personām;
-3) elektroniskās naudas iestādes komercdarbības plānu vai tam pielīdzināmu dokumentu, kas liecina par šā panta pirmās daļas 1.punktā minētā nosacījuma ievērošanu.
+3) elektroniskās naudas iestādes komercdarbības plānu vai tam pielīdzināmu dokumentu, kas liecina par šā panta pirmās daļas 1.punktā minētā nosacījuma ievērošanu;
+4) informāciju par to, kā elektroniskās naudas iestāde nodrošinās šā likuma 38.panta pirmās daļas prasību izpildi, ja attiecīgā elektroniskās naudas iestāde papildus elektroniskās naudas emisijai plāno veikt šā likuma 36.¹ panta pirmajā daļā minēto komercdarbību.
 (3) Komisija 10 darba dienu laikā pēc tam, kad saņemti visi šā panta otrajā daļā minētie dokumenti, izvērtē, vai persona, kura vēlas uzsākt elektroniskās naudas iestādes darbību, atbilst šā panta pirmās daļas prasībām. Ja attiecīgā persona atbilst šīm prasībām, to reģistrē šā likuma 10.panta trešajā daļā minētajā reģistrā.
 (4) Elektroniskās naudas iestāde, kas reģistrēta šā likuma 10.panta trešajā daļā minētajā reģistrā, ir tiesīga papildus elektroniskās naudas emisijai sniegt maksājumu pakalpojumus, ja tā atbilst šā likuma 5.panta prasībām.
