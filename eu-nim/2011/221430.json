@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2011. gada 31. maija noteikumi Nr.424 \" Klasifikācijas sabiedrību (atzīto organizāciju) uzraudzības kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "95 (4493)",
+  "official_journal_page": null,
+  "official_journal_date": "2011-06-17",
+  "entry_into_force": "2011-06-18",
+  "notification_date": "2014-11-26",
+  "commission_reference": "MNE(2014)56595",
+  "nim_celex": "72013L0054LVA_221430",
+  "nim_id": "221430",
+  "transposes_celex": [
+    "32013L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e612c547-5a1b-454d-afe8-f43246a3e312",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
