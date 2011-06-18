@@ -8,6 +8,7 @@
 5) pilnvaroto pārstāvi un viņa adresi, ja lietas vešanai iecelts pārstāvis Latvijā;
 6) pievienoto dokumentu sarakstu;
 7) pieteikuma sastādīšanas laiku.
+(2¹) Latvijas centrālā iestāde lietā par ārvalsts tiesas nolēmuma par uzturlīdzekļu piedziņu atzīšanu vai izpildes pasludināšanu, piemērojot Padomes regulu Nr. 4/2009, iesniedz vai pārsūta Padomes regulas Nr. 4/2009 VI pielikuma veidlapu, kas uzskatāma par pieteikumu, ievērojot šīs regulas Nr. 4/2009 57.pantā noteiktos rekvizītus.
 (3) Pieteikumam pievieno:
 1) ārvalsts tiesas nolēmumu ar apliecinājumu, ka nolēmums stājies likumīgā spēkā, vai pienācīgi apliecinātu nolēmuma norakstu;
 2) ārvalsts tiesas izdotu dokumentu, kas apliecina, ka atbildētājam, kurš nav piedalījies lietas izskatīšanā, savlaicīgi un pienācīgā kārtā bija paziņots par lietas izskatīšanas laiku un vietu;

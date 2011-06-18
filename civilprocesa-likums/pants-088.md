@@ -1,4 +1,4 @@
 88.pants. Valsts vai pašvaldību iestāžu un atsevišķu personu piedalīšanās procesā, aizstāvot citu personu tiesības
-(1) Likumā paredzētajos gadījumos valsts vai pašvaldību iestādes un personas var iesniegt tiesā pieteikumu, lai aizstāvētu citu personu tiesības un ar likumu aizsargātās intereses.
+(1) Likumā, Latvijas Republikai saistošos starptautiskajos līgumos vai Eiropas Savienības tiesību aktos paredzētajos gadījumos valsts vai pašvaldību iestādes un personas var iesniegt tiesā pieteikumu, lai aizstāvētu citu personu tiesības un ar likumu aizsargātās intereses.
 (2) Šajā pantā norādītās iestādes un personas var iepazīties ar lietas materiāliem, pieteikt noraidījumus, dot paskaidrojumus, iesniegt pierādījumus, piedalīties pierādījumu pārbaudīšanā, iesniegt lūgumus, pārsūdzēt tiesas spriedumu un lēmumu.
 (3) Norādīto iestāžu un personu atteikšanās no pieteikuma, kuru tās iesniegušas saskaņā ar šā panta pirmo daļu, neatņem personai, kuras interešu aizstāvēšanai pieteikums iesniegts, tiesības prasīt, lai tiesa lietu izskata pēc būtības.

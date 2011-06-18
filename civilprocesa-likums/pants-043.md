@@ -2,12 +2,13 @@
 (1) No tiesas izdevumu samaksas valsts ienākumos atbrīvoti:
 1) prasītāji - prasībās par darba samaksas piedziņu un citiem darbinieku prasījumiem, kas izriet no darba tiesiskajām attiecībām vai ir ar tām saistīti;
 2) prasītāji - prasībās, kas izriet no personiskiem aizskārumiem, kuru rezultātā radies sakropļojums vai cits veselības bojājums vai iestājusies personas nāve;
-3) prasītāji - prasībās par uzturlīdzekļu piedziņu;
+3) prasītāji - prasībās par uzturlīdzekļu piedziņu bērnam vai vecākam, kā arī prasībās par paternitātes noteikšanu, ja prasība celta vienlaikus ar prasību par uzturlīdzekļu piedziņu bērnam;
+3¹) pieteikuma iesniedzēji - par ārvalsts nolēmuma par uzturlīdzekļu piedziņu bērnam vai vecākam atzīšanu vai atzīšanu un izpildīšanu;
 4) prasītāji - prasībās par noziedzīga nodarījuma rezultātā radušos materiālo zaudējumu un morālā kaitējuma atlīdzināšanu;
 5) prokurori, tās valsts vai pašvaldību iestādes un personas, kurām ar likumu piešķirtas tiesības aizstāvēt tiesā citu personu tiesības un ar likumu aizsargātās intereses;
 6) pieteikuma iesniedzēji - par personas atzīšanu par rīcībnespējīgu un aizgādnības nodibināšanu;
 7) pieteikuma iesniedzēji - par aizgādnības nodibināšanu personai tās izlaidīgas vai izšķērdīgas dzīves dēļ, kā arī alkohola vai narkotiku pārmērīgas lietošanas dēļ;
-8) atbildētāji - lietās par tiesas piespriesto uzturlīdzekļu samazināšanu un to maksājumu samazināšanu, kurus tiesa piespriedusi prasībās, kas izriet no personiskiem aizskārumiem, kuru rezultātā radies sakropļojums vai cits veselības bojājums vai iestājusies personas nāve;
+8) atbildētāji - lietās par tiesas piespriesto uzturlīdzekļu samazināšanu bērnam vai vecākam un to maksājumu samazināšanu, kurus tiesa piespriedusi prasībās, kas izriet no personiskiem aizskārumiem, kuru rezultātā radies sakropļojums vai cits veselības bojājums vai iestājusies personas nāve;
 9) pieteikuma iesniedzēji - laulātais, kā arī pirmās un otrās pakāpes radinieki - mantojuma lietās daļā par privatizācijas sertifikātu mantošanu;
 9¹) pieteikuma iesniedzēji - lietās par bērna prettiesisku pārvietošanu pāri robežai vai aizturēšanu;
 10) administratori - prasībās, kas celtas to personu labā, kurām pasludināts juridiskās personas maksātnespējas process un fiziskās personas maksātnespējas process, kā arī iesniedzot juridiskās personas maksātnespējas procesa pieteikumu Maksātnespējas likuma 51.panta trešajā daļā noteiktajā gadījumā;

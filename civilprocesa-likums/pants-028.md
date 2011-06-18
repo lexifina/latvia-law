@@ -1,6 +1,6 @@
 28.pants. Piekritība pēc prasītāja izvēles
 (1) Prasību, kas radusies sakarā ar juridiskās personas filiāles vai pārstāvniecības darbību, var celt tiesā arī pēc filiāles vai pārstāvniecības atrašanās vietas.
-(2) Prasību par uzturlīdzekļu piedziņu vai paternitātes noteikšanu prasītājs var celt arī pēc savas dzīvesvietas.
+(2) Prasību par uzturlīdzekļu piedziņu bērnam vai vecākam vai paternitātes noteikšanu prasītājs var celt arī pēc savas dzīvesvietas.
 (3) Prasību, kas izriet no personiskiem aizskārumiem (Civillikuma 2347. - 2353.pants), kuru rezultātā radies sakropļojums vai cits veselības bojājums vai iestājusies personas nāve, prasītājs var celt arī pēc savas dzīvesvietas vai pēc aizskāruma nodarīšanas vietas.
 (4) Prasību par fiziskās vai juridiskās personas mantai nodarītajiem zaudējumiem var celt arī pēc to nodarīšanas vietas.
 (5) Prasību par mantas atdošanu vai tās vērtības atlīdzināšanu prasītājs var celt arī pēc savas dzīvesvietas.

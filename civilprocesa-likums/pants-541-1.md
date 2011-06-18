@@ -5,6 +5,7 @@
 (4) Eiropas Parlamenta un Padomes regulas Nr. 805/2004 6.panta 2. un 3.punktā minētās veidlapas tiesa izraksta pēc lietas dalībnieka lūguma.
 (4¹) Eiropas Parlamenta un Padomes regulas Nr. 861/2007 20.panta 2.punktā minēto apliecību tiesa izraksta pēc lietas dalībnieka lūguma.
 (4²) Eiropas maksājuma rīkojumu tiesa izraksta saskaņā ar Eiropas Parlamenta un Padomes regulas Nr. 1896/2006 18.pantu.
-(5) Šā panta pirmajā, otrajā, trešajā, ceturtajā daļā un 4.¹ daļā minētos dokumentus izsniedz tiesa, kurā tajā laikā atrodas lieta.
+(4³) Padomes regulas Nr. 4/2009 20.panta 1.punkta "b" apakšpunktā minēto nolēmuma izrakstu tiesa izraksta pēc lietas dalībnieka lūguma, kad spriedums vai lēmums stājies likumīgā spēkā, bet gadījumos, kad spriedums vai lēmums izpildāms nekavējoties, - tūlīt pēc sprieduma pasludināšanas vai lēmuma pieņemšanas.
+(5) Šā panta pirmajā, otrajā, trešajā, ceturtajā daļā, 4.¹ un 4.³ daļā minētos dokumentus izsniedz tiesa, kurā tajā laikā atrodas lieta.
 (6) Par atteikšanos izsniegt šā panta pirmajā un otrajā daļā minētos dokumentus tiesa pieņem motivētu lēmumu.
 (7) Par tiesas lēmumu atteikt izsniegt šā panta pirmajā un otrajā daļā minētos dokumentus var iesniegt blakus sūdzību.

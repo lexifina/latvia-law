@@ -11,3 +11,4 @@
 8) prasības pieteikumam pievienoto dokumentu saraksts;
 9) prasības pieteikuma sastādīšanas laiks un citas ziņas, ja tās nepieciešamas lietas izskatīšanai.
 (3) Prasības pieteikumu paraksta prasītājs vai viņa pārstāvis. Ja prasību prasītāja vārdā ceļ viņa pārstāvis, prasības pieteikumam pievienojama pilnvara vai cits dokuments, kas apliecina pārstāvja pilnvarojumu celt prasību.
+(4) Latvijas centrālā iestāde lietā par uzturlīdzekļu piedziņu vai uzturlīdzekļu piedziņu bērnam un paternitātes noteikšanu, piemērojot Padomes 2008.gada 18.decembra regulu (EK) Nr. 4/2009 par jurisdikciju, piemērojamiem tiesību aktiem, nolēmumu atzīšanu un izpildi un sadarbību uzturēšanas saistību lietās (turpmāk - Padomes regula Nr. 4/2009), ceļ prasību vai pārsūta prasības pieteikumu, iesniedzot tiesā minētās regulas VII pielikuma veidlapu, kas uzskatāma par prasības pieteikumu, ievērojot šīs regulas 57.pantā noteiktos rekvizītus.
