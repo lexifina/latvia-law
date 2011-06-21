@@ -1,0 +1,1 @@
+3. Grozījums šajā likumā par 10.¹ panta izslēgšanu stājas spēkā vienlaikus ar grozījumiem Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likumā attiecībā uz sociālajām garantijām civilpersonām sakarā ar komandējumiem uz starptautisko operāciju rajoniem.
