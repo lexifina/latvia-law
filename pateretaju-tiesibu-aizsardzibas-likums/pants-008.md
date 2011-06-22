@@ -3,7 +3,8 @@
 (1¹) Kreditēšanas pakalpojumu patērētājam drīkst sniegt kapitālsabiedrība, kura saņēmusi speciālu atļauju (licenci) patērētāja kreditēšanas pakalpojuma sniegšanai [turpmāk - speciālā atļauja (licence)]. Šo prasību neattiecina uz:
 1) kapitālsabiedrību, kura uzskatāma par kredītiestādi saskaņā ar normatīvajiem aktiem, kas regulē kredītiestāžu darbību;
 2) ražotāju, pārdevēju vai pakalpojuma sniedzēju, kas piedāvā norēķināties par preču vai pakalpojumu iegādi atlikta maksājuma, aizdevuma vai citas tamlīdzīgas finansiālas vienošanās veidā, nepiesaistot trešās personas finansējumu;
-3) komersantu, kurš saskaņā ar līgumu, kas noslēgts starp ražotāju, pārdevēju vai pakalpojuma sniedzēju, preču vai pakalpojumu iegādei piedāvā slēgt tikai tādus patērētāja kreditēšanas līgumus, saskaņā ar kuriem netiek maksāti procenti vai citi papildu maksājumi.
+3) komersantu, kurš saskaņā ar līgumu, kas noslēgts starp ražotāju, pārdevēju vai pakalpojuma sniedzēju, preču vai pakalpojumu iegādei piedāvā slēgt tikai tādus patērētāja kreditēšanas līgumus, saskaņā ar kuriem netiek maksāti procenti vai citi papildu maksājumi;
+4) krājaizdevu sabiedrību.
 (1²) Par speciālās atļaujas (licences) izsniegšanu patērētāja kreditēšanas pakalpojumu sniegšanai un tās pārreģistrāciju kapitālsabiedrība maksā valsts nodevu.
 (1³) Speciālās atļaujas (licences) izsniegšanas, pārreģistrācijas, anulēšanas un darbības apturēšanas kārtību, prasības, kādām jāatbilst kapitālsabiedrībai, lai tā varētu saņemt speciālo atļauju (licenci), tajā skaitā prasības par kapitālsabiedrības pašu kapitālu un pamatkapitālu, kā arī prasības attiecībā uz kapitālsabiedrības padomes un valdes locekļiem, valsts nodevas apmēru un maksāšanas kārtību nosaka Ministru kabinets.
 (2) Patērētāja kreditēšanas līgums sastādāms rakstveidā (papīra formātā vai izmantojot citu pastāvīgu informācijas nesēju), un katrai līgumslēdzējai pusei izsniedzams viens šā līguma eksemplārs. Samaksa par preci vai pakalpojumu nosakāma naudā.
