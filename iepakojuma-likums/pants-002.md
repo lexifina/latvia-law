@@ -2,4 +2,5 @@
 1) nodrošinot brīvprātīgas vienošanās principu ieviešanu izlietotā iepakojuma apsaimniekošanā;
 2) sekmējot iepakojuma atkārtotu lietošanu;
 3) veicinot iepakojuma materiālietilpības samazināšanu, bet nemainot nedz paredzētās, nedz pašreizējās tā funkcijas;
-4) veicinot un nodrošinot izlietotā iepakojuma reģenerāciju.
+4) veicinot un nodrošinot izlietotā iepakojuma reģenerāciju;
+5) nosakot prasības iepakojumam, ko atļauts laist Latvijas tirgū.
