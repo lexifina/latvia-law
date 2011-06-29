@@ -1,0 +1,3 @@
+98.² Pieteikumu par nokavēta sūdzības iesniegšanas termiņa atjaunošanu iesniedz zemesgrāmatu nodaļai, kurai nokavēto darbību vajadzēja izpildīt. Pieteikumā par nokavētā sūdzības iesniegšanas termiņa atjaunošanu norāda termiņa atjaunošanas pamatojumu, un pieteikumam pievieno dokumentus, kas nepieciešami procesuālās darbības izpildīšanai.
+Nokavēto sūdzības iesniegšanas termiņu atjauno zemesgrāmatu nodaļas tiesnesis, ja viņš nokavēšanas iemeslus atzīst par attaisnojošiem. Atjaunojot nokavēto sūdzības iesniegšanas termiņu, zemesgrāmatu nodaļas tiesnesis vienlaikus atļauj izpildīt nokavēto procesuālo darbību.
+Zemesgrāmatu nodaļas tiesneša atteikums atjaunot sūdzības iesniegšanas termiņu pārsūdzams šā likuma 98.pantā noteiktajā kārtībā.

@@ -1,4 +1,6 @@
-46. Maksātnespējas atzīme (45. p. 1. pk.) ir šķērslis jebkuram labprātīgam vai piespiedu nostiprinājumam, izņemot 45. panta 6. punktā paredzēto gadījumu.
+46. Maksātnespējas atzīme (45.p. 1.pk.) ir šķērslis jebkuram labprātīgam vai piespiedu nostiprinājumam, izņemot šādus gadījumus:
+1) iesniegta sūdzība par zemesgrāmatu nodaļas tiesneša lēmumu (45.p. 6.pk.);
+2) nostiprinājumu pieļauj Maksātnespējas likums.
 Piedziņas atzīme (45. p. 2. pk.) un arī prasības nodrošināšanas atzīme (45. p. 4. pk.), ja tiesas lēmums taisīts prasības lietā par īpašuma tiesību vai šādas tiesības nostiprināšanu, kavē jebkuru īpašnieka izdarāmu labprātīgu nostiprināšanu, izņemot 45. panta 6. un 7. punktā paredzētās atzīmes.
 Aizgādnības atzīme (45. p. 3. pk.) ir šķērslis jebkurai labprātīgai nostiprināšanai, ja nav ievēroti Civillikuma noteikumi par aizgādnībā esošas personas mantas pārvaldību.
 Pārējos gadījumos atzīme nav šķērslis tālākai nostiprināšanai, bet piešķir ar atzīmi nodrošinātai tiesībai priekšrocību, sākot no atzīmes ierakstīšanas dienas zemesgrāmatā, un saistošu spēku pret tiem nekustama īpašuma ieguvējiem un citām personām, kuru tiesības nostiprinātas pēc atzīmes ierakstīšanas.
