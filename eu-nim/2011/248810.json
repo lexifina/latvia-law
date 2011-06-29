@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2011.gada 14.jūnija noteikumi Nr.451 \"Noteikumi par drošības prasībām vietējos reisos iesaistītiem pasažieru kuģiem\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "98 (4496)",
+  "official_journal_page": null,
+  "official_journal_date": "2011-06-28",
+  "entry_into_force": "2011-06-29",
+  "notification_date": "2017-07-03",
+  "commission_reference": "MNE(2017)53591",
+  "nim_celex": "72016L0844LVA_248810",
+  "nim_id": "248810",
+  "transposes_celex": [
+    "32016L0844"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ef72b7f0-5fd9-4cb7-9fcb-68a5e700a241",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
