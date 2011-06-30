@@ -1,30 +1,33 @@
-1.pants. Likumā ir lietoti šādi termini:
-1) sistēma - vienošanās, kas atbilst visiem šiem nosacījumiem:
-a) tā ir vienošanās starp vismaz trim dalībniekiem, neskaitot norēķinu aģentu, centrālo darījumu starpnieku, klīringa centru vai netiešo dalībnieku, ja minētās institūcijas arī ir vienošanās dalībnieki, par pārveduma rīkojumu izpildi saskaņā ar vienotiem noteikumiem un standartizētām procedūrām,
-b) to regulē dalībnieku izraudzītais Latvijas Republikas vai Eiropas Savienības vai Eiropas Ekonomikas zonas dalībvalsts likums,
-c) Latvijas Republika vai Eiropas Savienības vai Eiropas Ekonomikas zonas dalībvalsts, saskaņā ar kuras likumiem sistēma darbojas, to noteikusi par sistēmu, un tā ir iekļauta Eiropas Komisijas reģistrā, kurā tiek reģistrētas visas sistēmas, kas iekļautas Eiropas Parlamenta un Padomes direktīvas 98/26/EC "Par norēķinu galīgumu maksājumu un vērtspapīru norēķinu sistēmās" (turpmāk - direktīva 98/26/EC) darbības jomā;
+1.pants. (1) Likumā ir lietoti šādi termini:
+1) maksājumu un finanšu instrumentu norēķinu sistēma (turpmāk - sistēma) - maksājumu un finanšu instrumentu pārvedumu rīkojumu izpildes mehānisms, kas darbojas saskaņā ar vienošanos un atbilst visiem šādiem nosacījumiem:
+a) tā ir vienošanās starp vismaz trim dalībniekiem, neskaitot sistēmas uzturētāju, norēķinu aģentu, centrālo darījumu starpnieku, klīringa centru vai netiešo dalībnieku, par pārveduma rīkojumu izpildi starp dalībniekiem vai ieskaitu ar centrālā darījumu starpnieka starpniecību vai bez tās saskaņā ar vienotiem noteikumiem un standartizētām procedūrām,
+b) to regulē dalībnieku izraudzītais Latvijas Republikas vai Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts (turpmāk - dalībvalsts) likums,
+c) Latvija vai cita dalībvalsts, saskaņā ar kuras likumiem sistēma darbojas, to noteikusi par sistēmu un par šo lēmumu ir informējusi Eiropas Komisiju;
 2) iestāde - institūcija, kas piedalās sistēmā un atbild par to finanšu saistību izpildi, kuras radušās saskaņā ar pārveduma rīkojumiem šajā sistēmā, un atbilst vienam no šādiem nosacījumiem:
-a) tā ir Latvijas Republikā vai kādā Eiropas Savienības vai Eiropas Ekonomikas zonas dalībvalstī reģistrēta kredītiestāde,
-b) tā ir Latvijas Republikā vai kādā Eiropas Savienības vai Eiropas Ekonomikas zonas dalībvalstī reģistrēta ieguldījumu brokeru sabiedrība,
-c) tā ir valsts institūcija vai komercsabiedrība, kuras darbību garantē valsts,
-d) tā ir komercsabiedrība, kuras galvenā mītne atrodas ārpus Latvijas Republikas, Eiropas Savienības un Eiropas Ekonomikas zonas dalībvalstīm un kuras uzdevumi atbilst Latvijas Republikas, Eiropas Savienības un Eiropas Ekonomikas zonas dalībvalstu kredītiestāžu vai ieguldījumu brokeru sabiedrību uzdevumiem;
+a) tā ir Latvijas Republikā vai citā dalībvalstī reģistrēta banka, filiāle, ārvalsts bankas filiāle, centrālā banka, krājaizdevu sabiedrība vai pasta komersants, kuram atbilstoši normatīvajiem aktiem ir tiesības sniegt maksājumu pakalpojumus,
+b) tā ir dalībvalstī reģistrēta ieguldījumu brokeru sabiedrība, filiāle vai ārvalsts ieguldījumu brokeru sabiedrības filiāle,
+c) tā ir valsts pārvaldes institūcija vai valsts vai pašvaldības kapitālsabiedrība;
+d) (izslēgts ar 03.03.2011. likumu);
 3) centrālais darījumu starpnieks - institūcija, kas sistēmā darbojas par starpnieku iestāžu savstarpējos darījumos, apkalpojot pārveduma rīkojumus;
 4) norēķinu aģents - institūcija, kas iestādēm vai centrālajam darījumu starpniekam atver norēķinu kontus norēķiniem par sistēmā apstrādātajiem pārveduma rīkojumiem un, ja nepieciešams, minētajām iestādēm vai centrālajam darījumu starpniekam var izsniegt kredītu norēķiniem;
-5) klīringa centrs - institūcija, kas atbild par iestāžu neto pozīciju aprēķinu un centrālā darījumu starpnieka vai norēķinu aģenta neto pozīciju aprēķinu, ja minētās institūcijas arī ir vienošanās dalībnieki un attiecīgā vienošanās paredz neto pozīciju aprēķinu;
-6) dalībnieks - iestāde, centrālais darījumu starpnieks, norēķinu aģents vai klīringa centrs;
-7) netiešais dalībnieks - kredītiestāde, kas noteikta šā panta 2.punkta "a" apakšpunktā un kam par iespēju sistēmā nosūtīt pārveduma rīkojumus ir līgumattiecības ar iestādi, kura ir sistēmas dalībnieks un izpilda pārveduma rīkojumus;
-8) sistēmas uzturētājs (operators) - institūcija, kas saskaņā ar sistēmas noteikumiem nodrošina sistēmas darbību;
+5) klīringa centrs - institūcija, kas atbild par iestāžu neto pozīciju aprēķinu un centrālā darījumu starpnieka vai norēķinu aģenta neto pozīciju aprēķinu, ja minētās iestādes arī ir vienošanās dalībnieki un attiecīgā vienošanās paredz neto pozīciju aprēķinu;
+6) dalībnieks - iestāde, centrālais darījumu starpnieks, norēķinu aģents, klīringa centrs vai sistēmas uzturētājs;
+7) netiešais dalībnieks - iestāde, centrālais darījumu starpnieks, norēķinu aģents, klīringa centrs vai sistēmas uzturētājs, kuru sistēma var identificēt un kuram ir vienošanās ar dalībnieku par pārvedumu rīkojumu izpildi attiecīgās sistēmas ietvaros;
+8) sistēmas uzturētājs (operators) - institūcija, kas ir atbildīga par sistēmas darbības nodrošināšanu;
 9) sistēmiskais risks - risks, ka viena sistēmas dalībnieka nespēja izpildīt savas saistības izraisīs citu dalībnieku vai finanšu iestāžu nespēju noteiktajā laikā izpildīt savas saistības. Šāda situācija var radīt ievērojamas likviditātes vai kredīta problēmas, bet tas savukārt var apdraudēt finanšu tirgus stabilitāti;
 10) pārveduma rīkojums - norādījums, kas atbilst vienam no šādiem nosacījumiem:
-a) jebkurš dalībnieka norādījums par naudas summas nodošanu saņēmēja rīcībā ar grāmatvedības ierakstu kredītiestādes, centrālās bankas vai norēķinu aģenta kontā vai jebkurš norādījums, kas liek uzņemties vai izpildīt maksājuma saistības saskaņā ar sistēmas noteikumiem,
+a) dalībnieka norādījums par naudas summas nodošanu saņēmēja rīcībā ar grāmatvedības ierakstu bankas, centrālās bankas, centrālā darījumu starpnieka vai norēķinu aģenta kontā vai norādījums pieņemt maksājumu vai izpildīt maksājuma saistības saskaņā ar sistēmas noteikumiem,
 b) dalībnieka norādījums nodot īpašumtiesības uz finanšu instrumentiem vai tiesības uz finanšu instrumentiem ar ierakstu reģistrā vai citādi;
-11) maksātnespējas procedūra - jebkurš pasākums, ko paredz Latvijas Republikas, Eiropas Savienības vai Eiropas Ekonomikas zonas dalībvalsts vai kādas citas valsts likumi attiecīgā dalībnieka likvidēšanai, kā arī darbības ierobežošanai vai sanācijai, ja tas ietver finanšu instrumentu vai naudas pārvedumu apturēšanu vai ierobežošanu;
-12) maksātnespējas procedūras sākšana - brīdis, kad Latvijas Republikas, Eiropas Savienības vai Eiropas Ekonomikas zonas dalībvalsts vai kādas citas valsts attiecīgā tiesu vai administratīvā iestāde pieņēmusi lēmumu vai spriedumu sākt maksātnespējas procedūru;
+11) maksātnespējas procedūra - jebkurš pasākums, tai skaitā maksātnespējas process, ko paredz dalībvalsts vai kādas ārvalsts likumi attiecīgā dalībnieka likvidēšanai, kā arī darbības ierobežošanai vai sanācijai, ja tas ietver finanšu instrumentu vai naudas pārvedumu apturēšanu vai ierobežošanu;
+12) maksātnespējas procedūras sākšana - brīdis, kad dalībvalsts vai kādas ārvalsts attiecīgā tiesu vai administratīvā iestāde pieņēmusi lēmumu vai spriedumu sākt maksātnespējas procedūru;
 13) ieskaits - prasību un saistību pārvēršana vienā neto prasībā vai vienās neto saistībās tā, ka var izvirzīt tikai neto prasību un jāizpilda tikai neto saistības, ja prasības un saistības izriet no pārveduma rīkojumiem, ko izpilda viens vai vairāki dalībnieki par labu vienam vai vairākiem citiem sistēmas dalībniekiem vai ko dalībnieki saņem no citiem sistēmas dalībniekiem;
-14) norēķinu konts - tāds konts centrālajā bankā, pie norēķinu aģenta vai centrālā darījumu starpnieka, kuru sistēmas dalībnieki izmanto naudas līdzekļu un finanšu instrumentu glabāšanai un norēķiniem par sistēmas dalībnieku savstarpējiem darījumiem;
-15) nodrošinājums - visi realizējamie aktīvi, ko sniedz kā ķīlu (tai skaitā nauda, ko sniedz kā ķīlu), kā atpakaļpirkuma līgumu (repo) vai kā līdzīgu līgumu, vai kā citādi, lai nodrošinātu tiesības un saistības, kuras var rasties, piedaloties sistēmā, vai kuras sniedz centrālajai bankai;
-16) centrālā banka - Latvijas Banka, citas valsts centrālā banka vai Eiropas Centrālā banka;
+14) norēķinu konts - tāds konts centrālajā bankā, pie norēķinu aģenta vai centrālā darījumu starpnieka, kuru sistēmas dalībnieki izmanto naudas līdzekļu vai finanšu instrumentu glabāšanai vai norēķiniem par sistēmas dalībnieku savstarpējiem darījumiem;
+15) nodrošinājums - realizējamie aktīvi, tai skaitā finanšu līdzekļi, finanšu instrumenti un kredītprasības, ko sniedz tādu tiesību izlietošanai un saistību izpildei, kuras var rasties sakarā ar dalību sistēmā, vai nodrošinājums, ko sniedz centrālajai bankai;
+16) centrālā banka - Latvijas Banka, citas dalībvalsts centrālā banka vai Eiropas Centrālā banka;
 17) klīrings - pārveduma rīkojumu pārraide, salīdzināšana un, ja nepieciešams, apstiprināšana pirms norēķinu veikšanas, kā arī pārveduma rīkojuma ieskaits un tādu neto pozīciju noteikšana, saskaņā ar kurām tiks veikti norēķini;
 18) klīringa sistēma - procedūru kopums, ar kura palīdzību dalībnieki klīringa centrā vai citā noteiktā vietā veic ar naudas vai finanšu instrumentu pārvedumiem saistītas informācijas vai dokumentu apmaiņu. Lai nodrošinātu dalībnieku saistību norēķinus, izmantojot ieskaitu, procedūru kopums var ietvert arī kārtību, kādā tiek aprēķinātas dalībnieku neto pozīcijas;
 19) neto pozīcija - starpība starp klīringa sistēmas dalībnieka noteiktā laikposmā saņemto un veikto pārvedumu kopapjomu. Ja šī starpība ir pozitīva, veidojas neto kredīta pozīcija jeb neto prasības, bet, ja šī starpība ir negatīva, veidojas neto debeta pozīcija jeb neto saistības;
-20) galvenā mītne - vieta (adrese), kur atrodas dalībnieka vai netiešā dalībnieka vadība. Ja dalībnieks vai netiešais dalībnieks neveic darbību valstī, kur atrodas tā vadība, par dalībnieka vai netiešā dalībnieka galveno mītni uzskatāma tās vietas adrese, kur atrodas dalībnieka vai netiešā dalībnieka galvenā darbības vieta. Par Latvijas Republikā reģistrēta dalībnieka vai netiešā dalībnieka galvenās mītnes adresi uzskatāma dalībnieka vai netiešā dalībnieka juridiskā adrese.
+20) (izslēgts ar 03.03.2011. likumu);
+21) darbdiena - sistēmas noteikumos paredzētais laiks, kad attiecīgās sistēmas ietvaros ir iespējama pārveduma rīkojumu izpilde;
+22) sadarbībspējīgas sistēmas - divas vai vairākas sistēmas, kuru sistēmu uzturētāji ir savstarpēji vienojušies par kārtību, kas ietver pārveduma rīkojumu izpildi starp sistēmām.
+(2) Likumā lietotais termins "kredītprasības" atbilst Finanšu nodrošinājuma likumā skaidrotajam terminam "kredītprasības".

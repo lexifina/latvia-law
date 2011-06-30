@@ -1,2 +1,2 @@
-6.pants. (1) Latvijas Republika vai Eiropas Savienības vai Eiropas Ekonomikas zonas dalībvalsts par dalībnieku šā likuma 1.panta 6.punkta izpratnē var noteikt arī netiešo dalībnieku, ja minētais netiešais dalībnieks sistēmā ir identificēts un atpazīstams un ja šādu lēmumu pamato sistēmiskais risks.
-(2) Latvijas Republikā lēmumu par šā panta pirmajā daļā minētā netiešā dalībnieka noteikšanu par dalībnieku pieņem Komisija.
+6.pants. (1) Komisija par dalībnieku šā likuma 1.panta pirmās daļas 6.punkta izpratnē var noteikt arī netiešo dalībnieku, ja šādu lēmumu pamato sistēmiskais risks.
+(2) Ja šā panta pirmajā daļā paredzētajā gadījumā netiešais dalībnieks noteikts par dalībnieku, tas neatbrīvo no atbildības par saistību izpildi to dalībnieku, ar kura starpniecību netiešais dalībnieks nodod sistēmai izpildei pārveduma rīkojumus.

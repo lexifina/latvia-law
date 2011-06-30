@@ -1,1 +1,1 @@
-20.pants. Komisija informē Eiropas Komisiju par sistēmām, kas darbojas saskaņā ar Latvijas Republikas likumiem un noteiktas par sistēmām, kuras iekļaujamas Eiropas Komisijas reģistrā.
+20.pants. Komisija informē Eiropas Komisiju par sistēmu, kas darbojas saskaņā ar Latvijas Republikas likumiem un noteikta par sistēmu, kura iekļaujama Eiropas Komisijas reģistrā, un par šīs sistēmas uzturētāju.
