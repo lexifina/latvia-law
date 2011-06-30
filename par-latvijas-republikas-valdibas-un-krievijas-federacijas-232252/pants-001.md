@@ -1,0 +1,1 @@
+1.pants. 2010.gada 20.decembrī Maskavā parakstītais Latvijas Republikas valdības un Krievijas Federācijas valdības līgums par sadarbību cīņā pret noziedzību, it īpaši tās organizētajās formās (turpmāk - Līgums), ar šo likumu tiek pieņemts un apstiprināts.
