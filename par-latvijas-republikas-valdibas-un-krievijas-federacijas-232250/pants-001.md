@@ -1,0 +1,1 @@
+1.pants. 2010.gada 20.decembrī Maskavā parakstītais Latvijas Republikas valdības un Krievijas Federācijas valdības līgums par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem (turpmāk - Līgums) un tā Protokols ar šo likumu tiek pieņemts un apstiprināts.
