@@ -36,7 +36,7 @@ Gaisa pārvadājumi - gaisa kuģu lidojumi, kurus veic, lai par atlīdzību vai 
 Gaisa satiksme - visu to gaisa kuģu kustība, kuri atrodas gaisā vai pārvietojas lidlauka manevrēšanas laukumā.
 Gaisa trase - kontrolēta gaisa telpa vai tās daļa koridora veidā, kurā ir nodrošināta aeronavigācijas līdzekļu izmantošana.
 Incidents - jebkurš ar gaisa kuģa izmantošanu saistīts notikums, izņemot aviācijas nelaimes gadījumu, kas apdraud vai var apdraudēt gaisa kuģa ekspluatācijas drošību.
-Izmeklēšana - process, kura uzdevums ir novērst aviācijas nelaimes gadījumus un kurš ietver informācijas savākšanu un analīzi, atzinumu sagatavošanu, arī cēloņu noskaidrošanu un, ja nepieciešams, rekomendāciju izstrādāšanu gaisa kuģu lidojumu drošības garantēšanai.
+Izmeklēšana - process, kura uzdevums ir novērst aviācijas nelaimes gadījumus un kurš ietver informācijas savākšanu un analīzi, atzinumu sagatavošanu, arī cēloņu noskaidrošanu un, ja nepieciešams, drošuma rekomendāciju izstrādāšanu gaisa kuģu lidojumu drošības garantēšanai.
 Kvalifikācijas atzīme - atzīme par īpašiem nosacījumiem, tiesībām un ierobežojumiem, kas izdarīta attiecīgā apliecībā vai ir tās neatņemama sastāvdaļa.
 Latvijas Republikas civilās aviācijas gaisa kuģis - civilās aviācijas gaisa kuģis, kas reģistrēts Latvijas Republikas Civilās aviācijas gaisa kuģu reģistrā.
 Latvijas Republikas gaisa telpa - gaisa telpa virs Latvijas Republikas sauszemes teritorijas, tās iekšējiem un teritoriālajiem Baltijas jūras ūdeņiem.

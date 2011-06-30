@@ -1,1 +1,1 @@
-17. Ministru kabinets līdz 2009.gada 30.decembrim izdod šā likuma 23.¹ panta trešajā daļā minētos noteikumus.
+17. Ministru kabinets līdz 2012.gada 20.februārim izdod šā likuma 23.¹ panta ceturtajā daļā minētos noteikumus.

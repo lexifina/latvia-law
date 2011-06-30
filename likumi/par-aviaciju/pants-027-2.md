@@ -1,0 +1,7 @@
+27.² pants. Sabiedriskas nozīmes pakalpojumu sniegšanas saistību uzlikšana lidostai
+Sabiedriskas nozīmes pakalpojumu sniegšanas saistības ir tieši saistītas ar lidlauka pamatdarbību un ietver:
+1) infrastruktūras būvju (skrejceļa, termināļa, skrejceļa pievadceļu, perona, gaisa satiksmes vadības torņa u.c.) būvniecību, tai skaitā nepieciešamās zemes iegādi un lidlauka aprīkojuma nodrošināšanu, kas ietver arī tiešās palīdzības sniegšanai nepieciešamo aprīkojumu;
+2) infrastruktūras ekspluatāciju, kas ietver lidlauka pārvaldību un uzturēšanu;
+3) lidlauka papildu pakalpojumu (lidlauka infrastruktūras izmantošanas, ugunsdzēsības, ātrās palīdzības, drošības un citu lidlauka papildu pakalpojumu) sniegšanu.
+Lai nodrošinātu noteiktu regulāro gaisa pārvadājumu apjomu un lidojumu regularitāti, valsts vai pašvaldība var uzlikt par pienākumu lidostām izpildīt šā panta pirmajā daļā minētās sabiedriskas nozīmes pakalpojumu sniegšanas saistības un ir tiesīgas kompensēt lidostai izmaksas, kas tai rodas, izpildot uzliktās sabiedriskas nozīmes pakalpojumu sniegšanas saistības. Nosakot kompensācijas apmēru, ņem vērā ienākumus, ko pakalpojuma sniedzējs saņēmis par pakalpojuma īstenošanu.
+Kārtību, kādā lidostai uzliekamas sabiedriskas nozīmes pakalpojumu sniegšanas saistības, un kārtību, kādā nosakāma un sedzama kompensācija par izmaksām, kuras lidostai rodas, izpildot uzliktās sabiedriskas nozīmes pakalpojumu sniegšanas saistības, nosaka Ministru kabinets.
