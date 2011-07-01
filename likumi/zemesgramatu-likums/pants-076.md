@@ -3,3 +3,4 @@ Līdz lēmuma taisīšanai nostiprinājuma lūdzējs var papildināt savu lūgum
 Papildu iesniegumi, kas paplašina pirmo lūgumu, nav pielaižami.
 Līdz lēmuma pieņemšanai nostiprinājuma lūguma iesniedzējs var atsaukt savu lūgumu. Nostiprinājuma lūguma atsaukums noformējams tāpat kā nostiprinājuma lūgums, un nostiprinājuma žurnālā to ieraksta kā papildinājumu.
 Par nostiprinājuma lūguma atstāšanu bez izskatīšanas zemesgrāmatu nodaļas tiesnesis pieņem motivētu lēmumu, ko kopā ar nostiprinājuma lūgumam pievienotajiem dokumentiem nosūta nostiprinājuma lūguma iesniedzējam.
+Persona, attiecībā uz kuru šā likuma 118.¹ pantā noteiktajā kārtībā saņemts paziņojums, nostiprinājuma lūgumu par īpašuma tiesību nostiprināšanu zemesgrāmatā nevar atsaukt šā panta ceturtajā daļā noteiktajā kārtībā.
