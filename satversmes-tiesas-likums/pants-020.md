@@ -6,8 +6,9 @@
 (5) Izskatot pieteikumus, kolēģija ir tiesīga atteikties ierosināt lietu, ja:
 1) lieta nav piekritīga Satversmes tiesai;
 2) iesniedzējs nav tiesīgs iesniegt pieteikumu;
-3) pieteikums neatbilst šā likuma 18. vai 19.-19.² panta prasībām;
-4) pieteikums iesniegts par jau izspriestu prasījumu.
+3) pieteikums neatbilst šā likuma 18. vai 19.-19.³ panta prasībām;
+4) pieteikums iesniegts par jau izspriestu prasījumu;
+5) pieteikumā ietvertais juridiskais pamatojums vai faktisko apstākļu izklāsts pēc būtības nav mainījies salīdzinājumā ar iepriekš iesniegto pieteikumu, par kuru lēmusi kolēģija.
 (6) Izskatot konstitucionālo sūdzību (pieteikumu), kolēģija var atteikties ierosināt lietu arī gadījumos, kad sūdzībā ietvertais juridiskais pamatojums ir acīmredzami nepietiekams prasījuma apmierināšanai.
 (7) Lēmumu par lietas ierosināšanu vai par atteikšanos ierosināt lietu pieņem mēneša laikā no pieteikuma iesniegšanas dienas. Sarežģītās lietās Satversmes tiesa šo termiņu var pagarināt līdz diviem mēnešiem.
 (7¹) Ja kolēģija lemj par atteikšanos ierosināt lietu un tiesnesis - kolēģijas loceklis - balso pret šādu kolēģijas nolēmumu, turklāt viņam ir motivēti iebildumi, pieteikuma izskatīšanu un lēmuma pieņemšanu nodod rīcības sēdei pilnā tiesas sastāvā.

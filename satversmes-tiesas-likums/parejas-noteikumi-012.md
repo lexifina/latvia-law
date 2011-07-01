@@ -1,0 +1,1 @@
+12. Šā likuma 19.² panta ceturtās daļas otrais teikums neattiecas uz pieteikumiem, kas Satversmes tiesai iesniegti līdz 2011.gada 1.jūlijam. Konstitucionālo sūdzību par pamattiesību aizskārumu, kurš radies pirms 2011.gada 1.jūlija un atbilst šā likuma 19.² panta ceturtās daļas otrā teikuma prasībām, var iesniegt līdz 2012.gada 1.janvārim.

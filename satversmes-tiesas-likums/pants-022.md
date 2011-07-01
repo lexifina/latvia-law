@@ -15,7 +15,7 @@
 1) rakstveida procesa noteikšanu, ja attiecīgu priekšlikumu izteicis tiesnesis, kas sagatavojis lietu izskatīšanai;
 2) tiesas sēdes laiku un vietu;
 3) citiem jautājumiem, kas saistīti ar lietas izskatīšanu tiesas sēdē.
-(11) Tiesas sēde nosakāma ne agrāk kā 15 dienas un ne vēlāk kā trīs mēnešus pēc tam, kad pieņemts lēmums par tiesas sēdes laiku un vietu.
+(11) Tiesas sēde nosakāma ne agrāk kā 15 dienas un ne vēlāk kā piecus mēnešus pēc tam, kad pieņemts lēmums par tiesas sēdes laiku un vietu.
 (12) Ja lietu izskata tiesas sēdē ar lietas dalībnieku piedalīšanos, ne vēlāk kā 15 dienas pirms sēdes:
 1) paziņo lietas dalībniekiem sēdes laiku un vietu;
 2) nosūta publicēšanai laikrakstā "Latvijas Vēstnesis" paziņojumu par sēdes laiku un vietu.

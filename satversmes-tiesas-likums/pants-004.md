@@ -15,6 +15,7 @@
 2) šādas ziņas par katru Satversmes tiesas tiesneša amata kandidātu:
 a) vārds, uzvārds,
 b) dzimšanas gads un vieta,
-c) dzīvesvieta (rajons vai pilsēta),
+c) dzīvesvieta (novads vai republikas pilsēta),
 d) kādas augstākās mācību iestādes beidzis (kurā gadā, kādā specialitātē),
 e) darbavietas un ieņemamie amati.
+(5) Saeimas Prezidijs par Satversmes tiesas tiesnešu kandidatūrām informē Tieslietu padomi, uzaicinot sniegt viedokli par tām.

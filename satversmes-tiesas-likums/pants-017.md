@@ -6,14 +6,16 @@
 4) Ministru kabinetam;
 5) ģenerālprokuroram;
 6) Valsts kontroles padomei;
-7) pašvaldības domei (padomei);
+7) pašvaldības domei;
 8) tiesībsargam, ja institūcija vai amatpersona, kas izdevusi apstrīdēto aktu, nav tiesībsarga norādītajā termiņā novērsusi konstatētos trūkumus;
 9) tiesai, izskatot civillietu, krimināllietu vai administratīvo lietu;
 10) zemesgrāmatu nodaļas tiesnesim, veicot nekustamā īpašuma ierakstīšanu vai ar to saistīto tiesību nostiprināšanu zemesgrāmatā;
-11) personai Satversmē noteikto pamattiesību aizskāruma gadījumā.
+11) personai Satversmē noteikto pamattiesību aizskāruma gadījumā;
+12) Tieslietu padomei likumā noteiktās kompetences ietvaros.
 (2) Tiesības iesniegt pieteikumu par lietas ierosināšanu par citu Saeimas, Ministru kabineta, Valsts prezidenta, Saeimas priekšsēdētāja un Ministru prezidenta aktu, izņemot administratīvos aktus, atbilstību likumam (16.panta 4.punkts) ir:
 1) Valsts prezidentam;
 2) Saeimai;
 3) ne mazāk kā divdesmit Saeimas deputātiem;
-4) Ministru kabinetam.
-(3) Tiesības iesniegt pieteikumu par lietas ierosināšanu par tāda rīkojuma atbilstību likumam, ar kuru Ministru kabineta pilnvarotais ministrs ir apturējis pašvaldības domes (padomes) pieņemto lēmumu (16.panta 5.punkts), ir attiecīgajai domei (padomei).
+4) Ministru kabinetam;
+5) Tieslietu padomei likumā noteiktās kompetences ietvaros.
+(3) Tiesības iesniegt pieteikumu par lietas ierosināšanu par tāda rīkojuma atbilstību likumam, ar kuru Ministru kabineta pilnvarotais ministrs ir apturējis pašvaldības domes pieņemto lēmumu (16.panta 5.punkts), ir attiecīgajai domei.
