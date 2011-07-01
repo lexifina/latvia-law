@@ -6,3 +6,4 @@
 3) personas tiesību uz finanšu nodrošinājumu iespējamā pakārtotība attiecībā pret trešo personu tiesībām uz finanšu instrumentiem, kas sniegti nodrošinājuma ņēmējam kā finanšu nodrošinājums;
 4) finanšu nodrošinājuma ieguvēja labticības noskaidrošana;
 5) finanšu nodrošinājuma izmantošanas noteikumi, kas jāievēro, iestājoties izpildes notikumam.
+(3) Attiecībā uz patērētāju Patērētāju tiesību aizsardzības likuma izpratnē kreditēšanu šajā likumā iekļautās tiesību normas piemērojamas tiktāl, ciktāl tās nav pretrunā ar tiesību normām, kas regulē patērētāju kreditēšanu.

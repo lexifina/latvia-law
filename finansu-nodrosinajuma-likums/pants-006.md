@@ -1,4 +1,4 @@
-6.pants. Finanšu ķīla un tās izmantošana
+6.pants. Tiesības izmantot finanšu ķīlu
 (1) Finanšu ķīlas ņēmējs finanšu ķīlas līguma darbības laikā ir tiesīgs izmantot finanšu ķīlu tikai tādā gadījumā, ja tas paredzēts finanšu ķīlas līguma noteikumos, un tikai saskaņā ar minētā līguma un šā likuma noteikumiem un nosacījumiem.
 (2) Ja finanšu ķīlas ņēmējs finanšu ķīlas līguma darbības laikā izmanto finanšu ķīlu, tam ir pienākums sākotnēji sniegto ķīlu aizstāt ar līdzvērtīgu ne vēlāk kā dienā, kas ir noteikta par attiecīgo ar finanšu ķīlu nodrošināto finanšu saistību izpildes termiņu.
 (3) Finanšu ķīlas līgumā vai citā darījuma aktā, kas ietver līdzēju vienošanos par finanšu ķīlu, noteiktajā saistību izpildes dienā ķīlas ņēmējs atdod atpakaļ ķīlas devējam finanšu ķīlu vai, ja tas paredzēts līgumā vai citā darījuma aktā, izmanto tam noteiktās tiesības līgumā vai citā darījuma aktā paredzētajā apmērā samazināt ķīlas devēja saistības par finanšu ķīlas summu vai pilnībā dzēst šīs saistības ar finanšu ķīlu.
@@ -6,3 +6,4 @@
 (5) Tas, ka finanšu ķīlas ņēmējs izmanto šā panta pirmajā daļā noteiktās tiesības, neietekmē finanšu ķīlas līgumā noteiktās finanšu ķīlas devēja un finanšu ķīlas ņēmēja tiesības un pienākumus.
 (6) Ja izpildes notikums iestājas pirms līdzēju sākotnēji noteiktās saistību izpildes dienas un finanšu ķīlas ņēmējs nevar izpildīt šā panta otrajā daļā noteikto, tas ir tiesīgs saistības pret finanšu ķīlas devēju izpildīt ar izslēdzošo ieskaitu.
 (7) Uz finanšu ķīlas nākamajām sastāvdaļām šā likuma noteikumi nav attiecināmi, ja vien finanšu nodrošinājuma līgumā nav nepārprotami noteikts citādi.
+(8) Ja finanšu nodrošinājums ir kredītprasības, finanšu ķīlas ņēmējs finanšu ķīlas līguma darbības laikā nav tiesīgs izmantot finanšu ķīlu.
