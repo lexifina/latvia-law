@@ -1,4 +1,4 @@
 8. pants. Darījumi ar kultūras pieminekļiem
-Ja kultūras pieminekļa īpašnieks atsavina kultūras pieminekli, valstij ir pirmpirkuma tiesības. Kārtību, kādā valsts realizē pirmpirkuma tiesības, nosaka Ministru kabineta noteikumi.
+Ja īpašnieks atsavina valsts nozīmes kultūras pieminekli, valstij ir pirmpirkuma tiesības. Lēmumu par valsts pirmpirkuma tiesību izmantošanu vai atteikšanos no tām pieņem Valsts kultūras pieminekļu aizsardzības inspekcija. Kārtību, kādā Valsts kultūras pieminekļu aizsardzības inspekcija pieņem attiecīgo lēmumu, kā arī valsts nozīmes kultūras pieminekļu pirmpirkuma tiesību realizācijas kārtību un termiņus nosaka Ministru kabinets.
 Aizliegts atsavināt viena kultūras pieminekļa vai pieminekļu kompleksa atsevišķas daļas, kā arī sadalīt zemi, ja tādējādi tiek apdraudēta kultūras pieminekļa saglabāšana.
 Kultūras pieminekļa atsavināšana var notikt, ja par nodomu to atsavināt īpašnieks ir paziņojis Valsts kultūras pieminekļu aizsardzības inspekcijai, attiecīgās reģionālās nodaļas inspektors ir apsekojis kultūras pieminekli un nākamajam tā īpašniekam ir nosūtīti norādījumi par šā kultūras pieminekļa izmantošanu un saglabāšanu.
