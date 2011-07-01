@@ -1,1 +1,1 @@
-18. Laika periodā no 2010.gada 1.janvāra līdz 2012.gada 31.decembrim saskaņā ar šo likumu noteikto slimības pabalstu izmaksā likumā "Par valsts pensiju un valsts pabalstu izmaksu laika periodā no 2009.gada līdz 2012.gadam" noteiktajā apmērā.
+18. Līdz 2014.gada 31.decembrim saskaņā ar šo likumu noteikto slimības pabalstu izmaksā likumā "Par valsts pabalstu izmaksu laika periodā no 2009.gada līdz 2014.gadam" noteiktajā apmērā.
