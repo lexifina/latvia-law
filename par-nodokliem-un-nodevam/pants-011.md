@@ -85,7 +85,7 @@
 67) par šķirnes iekļaušanu, šķirnes uzturēšanu un uzturēšanas termiņa pagarināšanu Latvijas augu šķirņu katalogā;
 68) par atļaujas izsniegšanu tāda veģetatīvā pavairošanas materiāla un sēklu izmantošanai bioloģiskajā lauksaimniecībā, kas nav iegūti ar bioloģiskās lauksaimniecības ražošanas metodi;
 69) par atļaujas saņemšanu mēslošanas līdzekļa ievešanai vai tirdzniecībai;
-70) par Ciltsdarba likumā noteikto sertificējamo personu kvalifikācijas sertifikāta izsniegšanu, par ganāmpulka, dzīvnieku un novietņu reģistrēšanu un par dzīvnieku apzīmēšanai nepieciešamo dokumentu izsniegšanu;
+70) par sertifikātu izsniegšanu fiziskajām personām, kas veic lauksaimniecības dzīvnieku vērtēšanu, pārraudzību, mākslīgo apsēklošanu, olšūnu un embriju transplantāciju, kā arī ganāmpulku un novietņu reģistrēšanu un zirga pases izsniegšanu;
 71) (izslēgts ar 17.12.2009. likumu);
 72) par tāda suņa reģistrāciju, kurš apmācīts uzbrukt cilvēkam;
 73) par atļauju izmantot dzīvnieku izmēģinājumā;
