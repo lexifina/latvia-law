@@ -3,8 +3,5 @@
 (2) Ministru kabineta noteiktajā kārtībā ar nodokli neapliek dabasgāzi, kuru:
 1) izmanto citiem mērķiem, nevis par degvielu vai kurināmo;
 2) izmanto divējādi atbilstoši šā likuma 5.panta 3.¹ daļā minētajiem nosacījumiem;
-3) izmanto mineraloģiskiem procesiem, kas atbilst apstiprinātiem attiecīgiem Eiropas Parlamenta un Padomes 2006.gada 20.decembra regulas (EK) Nr. 1893/2006, ar ko izveido NACE 2.red. saimniecisko darbību statistisko klasifikāciju, kā arī groza Padomes regulu (EK) Nr. 3037/90 un dažas EK regulas par īpašām statistikas jomām, (turpmāk - regula Nr. 1893/2006) apakšiedaļā "nemetālisko minerālu izstrādājumu ražošana" noteiktajiem NACE klasifikācijas kodiem;
-4) dabasgāzes pārvades, uzglabāšanas un sadales sistēmas operators izlieto dabasgāzes apgādes sistēmas tehnoloģiskajām vajadzībām;
-5) izmanto lauksaimniecībā izmantojamās zemes segto platību (siltumnīcu) siltumapgādei;
-6) izmanto elektroenerģijas ražošanai, tajā skaitā kombinētās iekārtās, kas ražo elektroenerģiju un siltumenerģiju;
-7) izmanto rūpnieciskās ražošanas (kas atbilst apstiprinātiem attiecīgiem regulā Nr. 1893/2006 noteiktajiem NACE klasifikācijas kodiem) tehnoloģisko iekārtu darbināšanai un tehnoloģiski nepieciešamā klimata nodrošināšanai minētās rūpnieciskās ražošanas telpās.
+3) izmanto mineraloģiskiem procesiem, kas atbilst apstiprinātiem attiecīgiem Eiropas Parlamenta un Padomes 2006.gada 20.decembra regulas (EK) Nr. 1893/2006, ar ko izveido NACE 2.red. saimniecisko darbību statistisko klasifikāciju, kā arī groza Padomes regulu (EK) Nr. 3037/90 un dažas EK regulas par īpašām statistikas jomām (turpmāk - regula Nr. 1893/2006), apakšiedaļā "nemetālisko minerālu izstrādājumu ražošana" noteiktajiem NACE klasifikācijas kodiem.
+(3) Šā panta otrās daļas 1.punkts attiecas arī uz dabasgāzi, kuru dabasgāzes pārvades, uzglabāšanas un sadales sistēmas operators izlieto dabasgāzes apgādes sistēmas tehnoloģiskajām vajadzībām.
