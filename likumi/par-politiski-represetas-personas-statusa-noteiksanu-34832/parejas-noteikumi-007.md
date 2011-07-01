@@ -1,0 +1,1 @@
+7. Administratīvās lietas par politiski represētās personas statusa piešķiršanu (tai skaitā lietas par lēmuma par politiski represētās personas statusa piešķiršanu atcelšanu), kas pašvaldībā vai Tieslietu ministrijā uzsāktas līdz 2011.gada 30.jūnijam, izskata attiecīgā pašvaldība vai attiecīgi Tieslietu ministrija.
