@@ -1,0 +1,1 @@
+24. Šā likuma 9.panta ceturtajā daļā noteiktais, ka ziņas par personas adresi, kurā tā ir sasniedzama, komercreģistra iestāde sniedz pēc pamatota pieprasījuma, neattiecas uz tām ziņām par personas dzīvesvietu, kuras komercreģistrā ierakstītas līdz 2011.gada 1.jūlijam.

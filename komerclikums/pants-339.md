@@ -5,3 +5,4 @@
 3) kapitāla daļu (akciju) apmaiņas koeficientu un piemaksu (ja tādas paredzētas) lielumu;
 4) metodes, kuras izmantotas kapitāla daļu (akciju) apmaiņas koeficienta un piemaksu lieluma noteikšanai, kā arī problēmas, kuras rodas, izmantojot šīs metodes.
 (2) Sabiedrības var sagatavot kopēju prospektu. Šādā gadījumā katra reorganizācijas procesā iesaistītā sabiedrība prospektā norāda šā panta pirmajā daļā minētās ziņas.
+(3) Sabiedrībai prospekts nav jāsagatavo, ja tam piekrīt visi dalībnieki. Pievienojamai vai sadalāmai sabiedrībai prospekts nav jāsagatavo, ja visas pievienojamās vai sadalāmās sabiedrības kapitāla daļas (akcijas) pieder iegūstošajai sabiedrībai.

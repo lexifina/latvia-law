@@ -8,5 +8,6 @@
 2) to pieprasa padome;
 3) to pieprasa dalībnieki, kas pārstāv ne mazāk kā vienu desmitdaļu no sabiedrības pamatkapitāla.
 (4) Ja valde nesasauc dalībnieku sapulci mēneša laikā no pieprasījuma saņemšanas dienas, to pēc jebkura dalībnieka pieprasījuma sasauc padome. Ja padome nesasauc dalībnieku sapulci viena mēneša laikā no pieprasījuma saņemšanas dienas, to sasauc komercreģistra iestāde par maksu. Komercreģistra iestādei maksu un sapulces sasaukšanas izdevumus samaksā pieprasītājs. Sabiedrība sedz komercreģistra iestādei samaksāto summu, ja sapulces sasaukšanai bijis pamatots iemesls.
+(4¹) Dalībnieku sapulci sasauc administratīvajā teritorijā, kurā reģistrēta sabiedrības juridiskā adrese, ja statūtos nav noteikts citādi.
 (5) Ja dalībnieku sapulce nav notikusi šā likuma 212.panta otrajā daļā minētā iemesla dēļ, viena mēneša laikā sasaucama atkārtota dalībnieku sapulce.
 (6) Dalībnieku sapulces gaita tiek protokolēta. Uz to attiecināmi šā likuma 285.panta noteikumi.

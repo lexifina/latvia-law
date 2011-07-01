@@ -13,7 +13,8 @@
 1) dokumentu, kas apliecina komersanta reģistrāciju attiecīgajā ārvalstī, vai šāda dokumenta notariāli apliecinātu kopiju, ja komersanta atrašanās vietas valsts likums paredz komersanta ierakstīšanu reģistrā;
 2) atļauju atvērt filiāli, ja to paredz likums;
 3) komersanta statūtu, dibināšanas līguma vai tiem pielīdzināma dokumenta notariāli apliecinātu kopiju;
-4) dokumentu, kas apliecina personas pilnvarojumu pārstāvēt ārvalsts komersantu visās ar filiāli saistītajās darbībās, un šā pilnvarojuma apjomu.
+4) dokumentu, kas apliecina personas pilnvarojumu pārstāvēt ārvalsts komersantu visās ar filiāli saistītajās darbībās, un šā pilnvarojuma apjomu;
+5) nekustamā īpašuma (ēkas vai dzīvokļa īpašuma) īpašnieka izsniegtu piekrišanu ārvalsts komersanta filiāles juridiskās adreses reģistrācijai attiecīgajā ēkā vai dzīvokļa īpašumā. Piekrišanā norāda nekustamā īpašuma kadastra numuru, īpašnieka vārdu, uzvārdu un personas kodu vai nosaukumu (firmu) un reģistrācijas numuru. Ja pieteikumu paraksta persona, kurai pieder juridiskajā adresē norādītais nekustamais īpašums, piekrišana nav jāiesniedz.
 (4) Šā panta otrās daļas 7.punktā minētā persona, ārvalsts komersants vai tā likumiskie pārstāvji iesniedz komercreģistra iestādei pieteikumu par:
 1) komersanta darbības izbeigšanu, tiesiskās aizsardzības vai maksātnespējas procesa, konkursa vai tam pielīdzināma procesa uzsākšanu un pabeigšanu;
 2) komersanta likvidāciju, kā arī reorganizāciju, ja ārvalsts komersants ir sabiedrība;

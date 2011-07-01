@@ -1,6 +1,6 @@
 276.pants. Akcionāru sapulcē izskatāmie jautājumi
 (1) Akcionāru sapulce var pieņemt lēmumus tikai tajos darba kārtības jautājumos, kuri norādīti publikācijā vai paziņojumā par sapulces sasaukšanu, izņemot šā panta otrajā un trešajā daļā minētos gadījumus.
-(2) Ja akcionāru sapulcē pārstāvēts viss balsstiesīgais pamatkapitāls, tā uzskatāma par tiesīgu neatkarīgi no sasaukšanas laika un veida. Šī sapulce var apspriest arī darba kārtībā neiekļautus jautājumus un pieņemt tajos lēmumus, ja tam vienbalsīgi piekrīt visi balsstiesīgie akcionāri.
+(2) Ja akcionāru sapulcē pārstāvēts viss balsstiesīgais pamatkapitāls, tā uzskatāma par tiesīgu neatkarīgi no sasaukšanas laika, veida un norises vietas. Šī sapulce var apspriest arī darba kārtībā neiekļautus jautājumus un pieņemt tajos lēmumus, ja tam vienbalsīgi piekrīt visi balsstiesīgie akcionāri.
 (3) Akcionāru sapulce var pieņemt lēmumus šādos jautājumos (arī tad, ja tie nav bijuši iekļauti darba kārtībā):
 1) padomes, revidenta, sabiedrības kontroliera vai likvidatora atsaukšana, ievērojot nosacījumu, ka padomes vai likvidatora atsaukšanas gadījumā tajā pašā sapulcē tiek ievēlēta jauna padome vai likvidators;
 2) prasības celšana pret padomes un valdes locekļiem, sabiedrības kontrolieri, likvidatoru vai revidentu, ja šajā pašā sapulcē izskatīts jautājums par sabiedrības gada pārskatu;

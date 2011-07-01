@@ -5,4 +5,4 @@
 1) padome;
 2) komercreģistra iestāde;
 3) (izslēgts ar 16.06.2005. likumu).
-(4) Komercreģistra iestāde par maksu sasauc kārtējo akcionāru sapulci pēc viena vai vairāku akcionāru pieprasījuma, ja to nav izdarījusi sabiedrības valde un padome.
+(4) Komercreģistra iestāde par maksu sasauc kārtējo akcionāru sapulci pēc viena vai vairāku akcionāru pieprasījuma, ja sapulce nav notikusi likumā paredzētajā termiņā.
