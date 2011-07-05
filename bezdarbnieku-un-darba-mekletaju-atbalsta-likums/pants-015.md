@@ -16,6 +16,9 @@
 7) atjaunošana darbā ar tiesas spriedumu;
 8) atteikšanās no darba meklētāja statusa, iesniedzot attiecīgu paziņojumu Nodarbinātības valsts aģentūrai;
 9) darba meklētāja nāve.
+(3¹) Persona, kura ir ES zilās kartes turētāja, darba meklētāja statusu zaudē arī gadījumā, ja:
+1) ir pagājuši trīs nepārtraukti mēneši, kopš tā zaudējusi darba ņēmēja statusu;
+2) darba ņēmēja statusu tā zaudē vairāk nekā vienu reizi.
 (4) Lēmumu par darba meklētāja statusa zaudēšanu pieņem Nodarbinātības valsts aģentūra vienas darba dienas laikā pēc šā panta trešajā daļā minēto darba meklētāja statusa zaudēšanas nosacījumu konstatēšanas. Šādā gadījumā persona zaudē darba meklētāja statusu ar dienu, kad iestājies attiecīgais darba meklētāja statusa zaudēšanas nosacījums.
 (5) Personai, kura darba meklētāja statusu zaudējusi šā panta trešās daļas 3., 4. un 8.punktā minēto iemeslu dēļ, ir tiesības darba meklētāja statusu iegūt no jauna ne agrāk kā pēc trim mēnešiem no dienas, kad tika pieņemts lēmums par darba meklētāja statusa zaudēšanu.
 (6) Ja personai reģistrēšanās dienā ir pārejoša darbnespēja, Nodarbinātības valsts aģentūra darba meklētāja statusu šai personai piešķir pēc pārejošas darbnespējas izbeigšanās.

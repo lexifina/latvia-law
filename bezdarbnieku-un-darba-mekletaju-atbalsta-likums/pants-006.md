@@ -12,7 +12,7 @@
 9) bez maksas sniedz karjeras konsultācijas bezdarbniekiem, darba meklētājiem un citām personām, tādējādi palīdzot tām orientēties profesionālās piemērotības, kā arī pārkvalifikācijas jautājumos;
 10) apkopo karjeras konsultācijām nepieciešamo informāciju, kā arī informāciju par izglītības iespējām;
 11) izstrādā jaunas un pilnveido esošās karjeras konsultāciju metodes, kā arī sniedz palīdzību to ieviešanā;
-12) apstiprina darba izsaukumus normatīvajos aktos noteiktajā kārtībā;
+12) (izslēgts ar 09.06.2011. likumu);
 13) licencē un uzrauga komersantus, kuri sniedz darbiekārtošanas pakalpojumus (izņemot kuģa apkalpes komplektēšanu);
 14) nodrošina Eiropas Savienības normatīvo aktu prasībām atbilstošas bezdarba situāciju valstī atspoguļojošas informācijas sagatavošanu un sniegšanu;
 15) sadarbojas ar valsts un pašvaldību institūcijām, nevalstiskajām organizācijām, kā arī fiziskajām un juridiskajām personām;

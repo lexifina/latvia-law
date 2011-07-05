@@ -13,6 +13,9 @@
 11) atjaunošana darbā ar tiesas spriedumu;
 12) bezdarbnieka nāve;
 13) atteikšanās no bezdarbnieka statusa, iesniedzot attiecīgu paziņojumu Nodarbinātības valsts aģentūrai.
+(1¹) Persona, kura ir ES zilās kartes turētāja, bezdarbnieka statusu zaudē arī gadījumā, ja:
+1) ir pagājuši trīs nepārtraukti mēneši, kopš tā zaudējusi darba ņēmēja statusu;
+2) darba ņēmēja statusu tā zaudē vairāk nekā vienu reizi.
 (2) Piemērots darbs šā likuma izpratnē ir darbs, kas atbilst:
 1) bezdarbnieka profesionālajai sagatavotībai un viņa līdzšinējai profesionālajai darbībai, kā arī valsts valodas prasmes pakāpei;
 2) bezdarbnieka veselības stāvoklim;
