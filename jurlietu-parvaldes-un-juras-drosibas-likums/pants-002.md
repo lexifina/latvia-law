@@ -1,3 +1,3 @@
 2.pants. Likuma piemērošana
 (1) Likumu piemēro visiem Latvijas Kuģu reģistrā (turpmāk - Kuģu reģistrs) iekļautajiem kuģošanas līdzekļiem neatkarīgi no to atrašanās vietas, ārvalstu kuģiem, kuri atrodas Latvijas jurisdikcijā esošajos ūdeņos (turpmāk - Latvijas ūdeņi), ostām, ostu iekārtām un visām fiziskajām un juridiskajām personām, kā arī citiem tiesību subjektiem saistībā ar jūras drošību, kas garantējama atbilstoši starptautisko līgumu prasībām un ietver personāla, kravas, kuģošanas un kuģu drošību.
-(2) Likuma normas par kuģu drošību neattiecas uz Nacionālo bruņoto spēku kuģiem un to personālu, kā arī uz citu valstu karakuģiem un to personālu.
+(2) Likums neattiecas uz Nacionālo bruņoto spēku kuģiem un to personālu, ja likumā nav noteikts citādi, kā arī uz citu valstu karakuģiem un to personālu.

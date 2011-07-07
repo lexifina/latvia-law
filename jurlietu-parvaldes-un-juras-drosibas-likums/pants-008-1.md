@@ -1,2 +1,3 @@
 8.¹ pants. Transporta nelaimes gadījumu un incidentu izmeklēšanas biroja kompetence
-Transporta nelaimes gadījumu un incidentu izmeklēšanas birojs izmeklē un analizē jūras negadījumus.
+(1) Transporta nelaimes gadījumu un incidentu izmeklēšanas birojs veic jūras negadījumu un jūras incidentu izmeklēšanu kuģošanas drošības aspektā.
+(2) Šā panta pirmajā daļā minēto Transporta nelaimes gadījumu un incidentu izmeklēšanas biroja darbību finansē no Latvijas Jūras administrācijas līdzekļiem, kuri saskaņā ar Ministru kabineta noteiktajiem izcenojumiem gūti par valsts pārvaldes uzdevumu ietvaros sniegtajiem maksas pakalpojumiem, un citiem pašu ieņēmumiem. Latvijas Jūras administrācija katra mēneša pirmajā darbdienā pārskaita Transporta nelaimes gadījumu un incidentu izmeklēšanas biroja kontā Valsts kasē vienu divpadsmito daļu no finansējuma, kas jūras negadījumu izmeklēšanai paredzēts Ministru kabineta kārtējam gadam apstiprinātajā budžetā.

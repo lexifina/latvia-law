@@ -1,0 +1,1 @@
+25. Ministru kabinets līdz 2011.gada 15.jūlijam izdod šā likuma 50.panta otrajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai piemērojami Ministru kabineta 2009.gada 22.decembra noteikumi Nr.1612 "Jūras negadījumu izmeklēšanas kārtība", ciktāl tie nav pretrunā ar šo likumu.

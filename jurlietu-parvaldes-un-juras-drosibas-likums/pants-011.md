@@ -6,7 +6,7 @@
 4) 1992.gada Konvencija par Baltijas jūras reģiona jūras vides aizsardzību (turpmāk - Helsinku konvencija);
 5) 1972.gada Konvencija par starptautiskajiem kuģu sadursmju novēršanas noteikumiem (turpmāk - COLREG konvencija);
 6) 1969.gada Starptautiskā konvencija par kuģu tilpības mērīšanu (turpmāk - Tilpības konvencija);
-7) Starptautiskās darba organizācijas 1976.gada Konvencija par minimālajām normām tirdzniecības kuģiem un tās 1996.gada protokols;
+7) Starptautiskās Darba organizācijas 1976.gada Konvencija par minimālajām normām tirdzniecības kuģiem un tās 1996.gada protokols;
 8) 1978.gada Starptautiskā konvencija par jūrnieku sagatavošanu un diplomēšanu, kā arī sardzes pildīšanu ar grozījumiem (turpmāk - STCW konvencija);
 9) 2005.gada Pasaules veselības organizācijas Starptautiskie veselības aizsardzības noteikumi;
 10) 2001.gada Starptautiskā konvencija par kuģu kaitīgo pretapaugšanas sistēmu kontroli.

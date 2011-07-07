@@ -1,37 +1,46 @@
 6.pants. Latvijas Jūras administrācijas kompetence
-(1) Latvijas Jūras administrācija atbilstoši normatīvajiem aktiem un starptautiskajām tiesību normām, kā arī savai kompetencei jūrlietās:
-1) uzrauga Kuģu reģistrā iekļauto kuģu atbilstību drošības prasībām, atzīst kuģu būves un modernizācijas tehniskos projektus un izsniedz kuģu sertifikātus;
-1¹) veic Kuģu reģistrā iekļauto kuģu tilpības mērīšanu un izsniedz tilpību apliecinošus dokumentus;
-2) apstiprina kuģu dokumentāciju;
-3) īsteno ostas valsts kontroli attiecībā uz ārvalstu kuģiem;
-4) kontrolē Starptautiskā drošas pārvaldes kodeksa (turpmāk - ISM kodekss) prasību izpildi attiecībā uz Kuģu reģistrā iekļautajiem kuģiem;
-5) veic jūrnieku profesionālās kompetences novērtēšanu, ja noticis pārkāpums, kas saistīts ar profesionālo pienākumu nepienācīgu izpildi vai neizpildi;
-6) kontrolē, kā Latvijas ūdeņos tiek ievērota kārtība, kādā sniedzami ziņojumi par pasažieriem uz kuģa, kā arī par bīstamām un piesārņojošām kravām;
-7) saskaņo ostu noteikumus kuģošanas drošības jautājumos un kontrolē to ievērošanu;
-8) izsniedz sertifikātus ločiem un kuģu satiksmes vadības (VTS) operatoriem, kā arī veic loču un kuģu satiksmes vadības (VTS) operatoru apmācības un kvalifikācijas pārbaužu uzraudzību;
-9) noformē, izsniedz, apmaina, aiztur, anulē, atzīst par nederīgām jūrnieku grāmatiņas un veic to uzskaiti, veic personu datu apstrādi saistībā ar jūrnieku grāmatiņu un profesionālās kvalifikācijas sertifikātu izsniegšanu darbam uz kuģiem, kā arī uztur jūrnieku sertificēšanas datu bāzi;
-10) izvērtē un saskaņo jūrnieku profesionālās izglītības programmu un mācību kursu atbilstību starptautiskajiem tiesību aktiem, organizē jūrnieku kvalifikācijas pārbaudes un izsniedz profesionālo kvalifikāciju apliecinošus dokumentus darbam uz kuģiem;
-11) (izslēgts ar 10.11.2005. likumu);
-12) veic kuģu un kuģu hipotēku reģistrāciju un izsniedz ar to saistītos dokumentus;
-13) uztur Kuģu reģistra un Zvejas kuģu reģistra datu bāzes;
+(1) Latvijas Jūras administrācija:
+1) veic kuģu un kuģu hipotēku reģistrāciju un izsniedz ar to saistītos dokumentus;
+2) uztur Kuģu reģistra datu bāzes;
+3) uzrauga Kuģu reģistrā iekļauto kuģu atbilstību drošības un vides aizsardzības prasībām, tai skaitā:
+a) veic kuģu pārbaudes,
+b) izsniedz kuģu sertifikātus,
+c) apstiprina kuģa būves un modernizācijas projektus, dokumentāciju par kuģa stabilitāti, rīcības plānu piesārņojuma likvidācijai avārijas gadījumā, kuģa rokasgrāmatas un citu kuģa dokumentāciju,
+d) uzrauga Starptautiskā drošības vadības kodeksa (turpmāk - ISM kodekss) izpildi attiecībā uz Kuģu reģistrā iekļautajiem kuģiem,
+e) izsniedz emisijas samazināšanas tehnoloģiju izmēģinājumu atļauju Kuģu reģistrā iekļautajiem kuģiem;
+4) veic Kuģu reģistrā iekļauto kuģu tilpības mērīšanu un izsniedz tilpību apliecinošus dokumentus;
+5) uzrauga klasifikācijas sabiedrību (atzīto organizāciju) darbību;
+6) izsniedz atbilstības apliecību (sertifikātu) komersantiem, kas veic kuģa drošības aprīkojuma pārbaudes;
+7) izsniedz atbilstības apliecību (sertifikātu) komersantiem, kas veic kuģu būvi, projektēšanu, modernizāciju vai remontu;
+8) veic ostas valsts kontroli;
+9) uzrauga beramkravu kuģu drošas kraušanas prasību ievērošanu uz kuģiem un termināļos, kā arī veic beramkravu termināļu atbilstības pārbaudes;
+10) kontrolē bīstamo un piesārņojošo kravu apriti ostās kuģa un krasta mijiedarbības ietvaros;
+11) kontrolē, kā Latvijas ūdeņos tiek ievērota kārtība, kādā sniedzami ziņojumi par bīstamām un piesārņojošām kuģu kravām;
+12) kontrolē, kā Latvijas ūdeņos tiek ievērota kārtība, kādā sniedzami ziņojumi par pasažieriem uz kuģa;
+13) sadarbībā ar Krasta apsardzi koordinē Kuģu satiksmes uzraudzības un informācijas datu apmaiņas sistēmas attīstību un lietošanu;
 14) uzrauga bāku, boju, citu navigācijas līdzekļu un sistēmu izveidošanu un darbību Latvijas ūdeņos;
-15) kontrolē dziļuma mērījumus, kā arī hidrogrāfiskos mērījumus un pētījumus Latvijas ūdeņos;
+15) kontrolē un veic dziļuma mērījumus, kā arī hidrogrāfiskos mērījumus un pētījumus Latvijas ūdeņos;
 16) organizē navigācijas publikāciju sagatavošanu, iespiešanu un izplatīšanu;
-17) publicē un izplata navigācijas brīdinājumus un paziņojumus, kā arī pilda nacionālā koordinatora pienākumus;
-18) saskaņo Latvijas ūdeņos nogrimušas mantas izcelšanu no kuģošanas drošības viedokļa;
-19) saskaņo ostu hidrotehnisko būvju un kuģuceļu projektus no kuģošanas drošības viedokļa un piedalās projektu pieņemšanas komisijas darbā;
-20) piedalās Starptautiskās jūras organizācijas, Helsinku komisijas, Starptautiskās hidrogrāfijas organizācijas un citu starptautisko organizāciju darbā;
-21) sagatavo priekšlikumus normatīvo aktu projektu izstrādei;
-21¹) sertificē atzītās aizsardzības organizācijas;
-22) uzrauga atzīto aizsardzības organizāciju, kā arī klasifikācijas sabiedrību (atzīto organizāciju) darbību;
-23) veic atbildīgās organizācijas funkcijas Starptautiskā kuģu un ostu iekārtu aizsardzības kodeksa (turpmāk - ISPS kodekss) prasību ieviešanai un kontrolei;
-24) saskaņo kuģu, kuģošanas kompāniju, ostu un ostas iekārtu aizsardzības personāla apmācības programmu atbilstību ISPS kodeksa prasībām;
-25) uzrauga, lai komersanti, kas sniedz darbiekārtošanas pakalpojumus kuģa apkalpes komplektēšanā, atbilstu 1978.gada Starptautiskajā konvencijā par jūrnieku sagatavošanu un diplomēšanu, kā arī sardzes pildīšanu, tās grozījumos un Starptautiskās darba organizācijas konvencijās noteiktajām prasībām;
-26) izsniedz jūrnieku profesionālās apmācības instruktoriem un jūrnieku profesionālās kvalifikācijas vērtētājiem sertifikātus, kas apliecina viņu atbilstību 1978.gada Starptautiskajā konvencijā par jūrnieku sagatavošanu un diplomēšanu, kā arī sardzes pildīšanu un tās grozījumos noteiktajām prasībām;
-27) izsniedz atbilstības apliecību (sertifikātu) komersantam, kas veic kuģa drošības aprīkojuma pārbaudes;
-28) izsniedz atbilstības apliecību (sertifikātu) komersantiem, kas veic kuģu būvi, projektēšanu, modernizāciju vai remontu;
-29) izsniedz un anulē speciālo atļauju (licenci) komersantam, kas sniedz darbiekārtošanas pakalpojumus kuģa apkalpes komplektēšanā;
-30) izsniedz emisijas samazināšanas tehnoloģiju izmēģinājumu atļauju vai pieņem lēmumu par atteikumu izsniegt šādu atļauju kuģa īpašniekam vai operatoram, kura kuģis kuģo ar Latvijas karogu un kurš vēlas veikt emisijas samazināšanas tehnoloģiju izmēģinājumus, izmantojot degvielu, kas neatbilst prasībām, kuras noteiktas normatīvajos aktos par kārtību, kādā novēršama, ierobežojama un kontrolējama gaisu piesārņojošo vielu emisija no stacionārajiem piesārņojuma avotiem.
+17) publicē un izplata navigācijas brīdinājumus un paziņojumus, kā arī veic kuģošanas drošības informācijas analīzes un izziņošanas nacionālā koordinatora pienākumus;
+18) no kuģošanas drošības viedokļa saskaņo kravu operācijas no kuģa uz kuģi Latvijas ūdeņos;
+19) no kuģošanas drošības viedokļa saskaņo Latvijas ūdeņos nogrimušas mantas izcelšanu;
+20) no kuģošanas drošības viedokļa saskaņo ostu hidrotehnisko būvju un kuģu ceļu projektus un piedalās projektu pieņemšanas komisijas darbā;
+21) no kuģošanas drošības un kuģu, ostu un ostas iekārtu aizsardzības viedokļa saskaņo ostu noteikumus un kontrolē to ievērošanu;
+22) koordinē un sadarbībā ar citām kompetentajām iestādēm veic kuģu, kuģošanas kompāniju, ostu un ostas iekārtu aizsardzības prasību ieviešanu un uzraudzību;
+23) sertificē atzītās aizsardzības organizācijas un uzrauga to darbību;
+24) apstiprina kuģu, kuģošanas kompāniju, ostu un ostas iekārtu aizsardzības personāla apmācības programmu atbilstību kuģu, kuģošanas kompāniju, ostu un ostas iekārtu aizsardzības prasībām;
+25) saskaņo jūrnieku profesionālās izglītības programmu un mācību kursu programmu atbilstību starptautiskajiem tiesību aktiem un uzrauga šo programmu īstenošanu;
+26) organizē jūrnieku kvalifikācijas pārbaudes un izsniedz profesionālo kvalifikāciju apliecinošus dokumentus darbam uz kuģiem;
+27) izsniedz sertifikātus ločiem, kā arī uzrauga loču apmācības un kvalifikācijas pārbaudes;
+28) izsniedz sertifikātus kuģu satiksmes vadības (VTS) operatoriem, kā arī uzrauga kuģu satiksmes vadības (VTS) operatoru apmācības un kvalifikācijas pārbaudes;
+29) uztur jūrnieku sertificēšanas datu bāzi;
+30) noformē, izsniedz, apmaina, aiztur, anulē, atzīst par nederīgām jūrnieku grāmatiņas un veic to uzskaiti;
+31) izvērtē jūrnieku profesionālās kvalifikācijas atbilstību, ja saņemts ziņojums par to, ka Latvijā sertificēts jūrnieks neizpilda profesionālos pienākumus;
+32) izsniedz jūrnieku profesionālās apmācības instruktoriem un jūrnieku profesionālās kvalifikācijas vērtētājiem sertifikātus, kuri apliecina viņu atbilstību prasībām, kas noteiktas 1978.gada Starptautiskajā konvencijā par jūrnieku sagatavošanu un diplomēšanu, kā arī sardzes pildīšanu un tās grozījumos;
+33) izsniedz speciālo atļauju (licenci) komersantiem, kas sniedz darbiekārtošanas pakalpojumus kuģa apkalpes komplektēšanā, un uzrauga šo komersantu atbilstību 1978.gada Starptautiskajā konvencijā par jūrnieku sagatavošanu un diplomēšanu, kā arī sardzes pildīšanu un tās grozījumos, un Starptautiskās Darba organizācijas konvencijās noteiktajām prasībām;
+34) atzīst ārstus, kuri ir tiesīgi sniegt atzinumu par jūrnieku veselības stāvokļa atbilstību darbam uz kuģa atbilstoši 1978.gada Starptautiskajā konvencijā par jūrnieku sagatavošanu un diplomēšanu, kā arī sardzes pildīšanu un tās grozījumos noteiktajām prasībām (turpmāk - jūrnieku ārsts);
+35) piedalās Starptautiskās Jūrniecības organizācijas, Helsinku komisijas, Starptautiskās Hidrogrāfijas organizācijas, Starptautiskās Darba organizācijas un citu starptautisko organizāciju darbā;
+36) sagatavo priekšlikumus normatīvo aktu projektu izstrādei.
 (2) Ministru kabinets izdod noteikumus, kuros nosaka Latvijas Jūras administrācijas valsts pārvaldes uzdevumu ietvaros sniegto maksas pakalpojumu cenrādi un tā piemērošanas kārtību, kā arī to personu loku, kuras atbrīvojamas no samaksas par Latvijas Jūras administrācijas valsts pārvaldes uzdevumu ietvaros sniegtajiem maksas pakalpojumiem.
 (3) Lai veiktu šā panta pirmajā daļā minētās funkcijas, Latvijas Jūras administrācija nodrošina Jūrnieku reģistra, Kuģu reģistra, Kuģošanas drošības inspekcijas un Kuģu un ostu aizsardzības inspekcijas, kā arī Hidrogrāfijas dienesta darbību.
 (3¹) Šā panta pirmajā daļā minēto funkciju īstenošanai pieņemtos Latvijas Jūras administrācijas lēmumus var apstrīdēt un pārsūdzēt šādā kārtībā:

@@ -1,2 +1,2 @@
 V nodaļa
-Ar kuģošanu saistītie negadījumi
+Jūras negadījumi un jūras incidenti

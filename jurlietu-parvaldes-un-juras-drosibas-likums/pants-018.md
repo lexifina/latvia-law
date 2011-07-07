@@ -1,5 +1,5 @@
 18.pants. Klasifikācijas sabiedrības (atzītās organizācijas) un atzītās aizsardzības organizācijas
 (1) Klasifikācijas sabiedrības (atzītās organizācijas) ir komercsabiedrības, kuras veic kuģu tehnisko uzraudzību atbilstoši pilnvarojuma līgumam, kas noslēgts ar Latvijas Jūras administrāciju. Latvijas Jūras administrācija pilnvarojuma līgumus var slēgt tikai ar tām klasifikācijas sabiedrībām, kuras ir atzītas un kuru pilnvarojuma apjoms ir atzīts satiksmes ministra noteiktajā kārtībā atbilstoši starptautisko normatīvo aktu prasībām. Klasifikācijas sabiedrību (atzīto organizāciju) sarakstu publicē laikrakstā "Latvijas Vēstnesis".
 (2) Ostu pārvaldes nodrošina klasifikācijas sabiedrību (atzīto organizāciju), kā arī atzīto aizsardzības organizāciju pārstāvju brīvu piekļūšanu inspicējamajiem kuģiem.
-(3) Atzītās aizsardzības organizācijas ir komercsabiedrības, kuras veic ISPS kodeksā paredzētās funkcijas. Ministru kabinets nosaka atzīto aizsardzības organizāciju atzīšanas, sertifikācijas un darbības uzraudzības kārtību.
+(3) Atzītā aizsardzības organizācija ir definēta SOLAS konvencijas XI-2 nodaļā. Ministru kabinets nosaka atzīto aizsardzības organizāciju atzīšanas, sertifikācijas un darbības uzraudzības kārtību.
 (4) Klasifikācijas sabiedrību (atzīto organizāciju) uzraudzības kārtību nosaka Ministru kabinets.

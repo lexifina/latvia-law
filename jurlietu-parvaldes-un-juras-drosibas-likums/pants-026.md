@@ -2,7 +2,7 @@
 (1) Satiksmes ministrija izsniedz atbilstības sertifikātu jūrnieku profesionālās sagatavošanas programmām, kuru atbilstību starptautisko normatīvo aktu prasībām, kā arī jūrnieku profesionālās sagatavošanas īstenošanu uzrauga Latvijas Jūras administrācijas Jūrnieku reģistrs. Ministru kabinets nosaka kārtību, kādā notiek atbilstības sertifikātu izsniegšana un anulēšana un jūrnieku profesionālās sagatavošanas programmu uzraudzība.
 (2) Jūrnieku sertificēšanu veic Latvijas Jūras administrācijas Jūrnieku reģistrs atbilstoši Ministru kabineta noteiktajai kārtībai un kritērijiem.
 (3) Satiksmes ministrs ir tiesīgs noteikt STCW un citu Latvijai saistošu starptautisko normatīvo aktu piemērošanas procedūras un kārtību.
-(4) Atpūtas kuģu - motorjahtu, kuteru un motorlaivu, kuru garums ir no 2,5 līdz 24 metriem un kuri netiek izmantoti komercpārvadājumiem, kā arī ūdensmotociklu vadītāju sertificēšanu kuģošanai Latvijas ūdeņos veic Ceļu satiksmes drošības direkcija atbilstoši Ministru kabineta noteiktajai kārtībai.
-(5) Buru jahtu vadītāju apmācību un sertificēšanu veic normatīvajos aktos par sporta federāciju atzīšanu noteiktajā kārtībā atzīta burāšanas sporta federācija.
-(6) Atpūtas kuģu - motorjahtu, kuteru un motorlaivu, kuru garums ir no 2,5 līdz 24 metriem, - vadītāju apmācību kuģošanai ārpus Latvijas ūdeņiem veic normatīvajos aktos noteiktajā kārtībā licencēti mācību centri. Pēc apmācības beigšanas minēto atpūtas kuģu vadītājiem starptautiskās vadītāja apliecības, kas dod tiesības vadīt atpūtas kuģi Latvijas ūdeņos un ārpus tiem, izdod normatīvajos aktos par sporta federāciju atzīšanu noteiktajā kārtībā atzīta burāšanas sporta federācija.
-(7) Ministru kabinets nosaka šā panta piektajā un sestajā daļā minēto atpūtas kuģu vadītāju apmācības, sertificēšanas un reģistrācijas kārtību.
+(4) Atpūtas kuģu vadītāju apmācības, sertificēšanas un reģistrācijas kārtību nosaka Ministru kabinets.
+(5) (Izslēgta ar 16.06.2011. likumu)
+(6) (Izslēgta ar 16.06.2011. likumu)
+(7) (Izslēgta ar 16.06.2011. likumu)

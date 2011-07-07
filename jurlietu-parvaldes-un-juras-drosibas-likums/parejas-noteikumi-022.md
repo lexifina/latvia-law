@@ -1,1 +1,4 @@
-22. Ministru kabinets līdz 2011.gada 1.martam izdod šā likuma 26.panta septītajā daļā paredzētos noteikumus.
+22. Ministru kabinets līdz 2012.gada 1.martam izdod šā likuma 26.panta ceturtajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai:
+1) piemērojami Ministru kabineta 2009.gada 7.jūlija noteikumi Nr.753 "Noteikumi par atpūtas kuģu vadītāju sertificēšanu", ciktāl tie nav pretrunā ar šo likumu;
+2) buru jahtu vadītājus apmāca un sertificē normatīvajos aktos par sporta federāciju atzīšanu noteiktajā kārtībā atzīta burāšanas sporta federācija;
+3) motorjahtu, kuteru un motorlaivu (ja to garums ir no 2,5 līdz 24 metriem) vadītājus kuģošanai ārpus Latvijas ūdeņiem apmāca normatīvajos aktos noteiktajā kārtībā licencēti mācību centri. Pēc apmācības pabeigšanas minēto atpūtas kuģu vadītājiem starptautiskās vadītāja apliecības, kas dod tiesības vadīt atpūtas kuģi Latvijas ūdeņos un ārpus tiem, izdod normatīvajos aktos par sporta federāciju atzīšanu noteiktajā kārtībā atzīta burāšanas sporta federācija.
