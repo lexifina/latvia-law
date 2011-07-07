@@ -6,4 +6,4 @@
 (2³) Gada beigās speciālā budžeta kontos, kas atvērti ziedojumu un dāvinājumu uzskaitei, un norēķinu kontos esošais līdzekļu atlikums paliek budžeta finansētu institūciju rīcībā, un to var izlietot nākamajā gadā izdevumu finansēšanai, ja likumā nav noteikts citādi.
 (3) (Izslēgta ar 14.11.2008. likumu.)
 (4) Pašvaldības un no valsts budžeta daļēji finansētas atvasinātas publiskas personas, kā arī kapitālsabiedrības, kurās ieguldīta valsts vai pašvaldību kapitāla daļa, var atvērt kontus Valsts kasē.
-(5) Kārtību, kādā budžeta finansētas institūcijas, pašvaldības, budžeta nefinansētas iestādes, kā arī kapitālsabiedrības, kurās ieguldīta valsts vai pašvaldību kapitāla daļa, atver un lieto kontus Valsts kasē, kā arī iesniedz maksājumus un Valsts kase tos izpilda, nosaka Ministru kabinets.
+(5) Kārtību, kādā budžeta finansētas institūcijas, pašvaldības, budžeta nefinansētas iestādes, zvērināti tiesu izpildītāji, kā arī kapitālsabiedrības, kurās ieguldīta valsts vai pašvaldību kapitāla daļa, atver un lieto kontus Valsts kasē, kā arī iesniedz maksājumus un Valsts kase tos izpilda, nosaka Ministru kabinets.

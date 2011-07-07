@@ -22,4 +22,4 @@
 5) Eiropas Savienības politiku instrumentu un citas ārvalstu finanšu palīdzības projektu un pasākumu īstenošanai;
 6) normatīvajos aktos noteikto sociālās apdrošināšanas speciālā budžeta izdevumu segšanai;
 7) likumā noteikto garantēto atlīdzību izmaksai Noguldījumu garantiju fondā trūkstošo līdzekļu nodrošināšanai.
-(15) Finanšu ministram ir tiesības veikt apropriācijas pārdali starp ministrijām un citām centrālajām valsts iestādēm, tai skaitā funkciju pārdales vai strukturālo reformu gadījumos, ja ir pieņemts Ministru kabineta lēmums un Saeima normatīvajos aktos noteiktajā kārtībā ir piekritusi šādai pārdalei.
+(15) Finanšu ministram ir tiesības veikt apropriācijas pārdali starp ministrijām un citām centrālajām valsts iestādēm, tai skaitā funkciju pārdales vai strukturālo reformu gadījumos, ja ir pieņemts Ministru kabineta lēmums un Saeima ar atsevišķu lēmumu piekritusi šādai pārdalei.

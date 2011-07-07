@@ -1,0 +1,1 @@
+56. Grozījums šā likuma I nodaļā attiecībā uz termina "Speciālais budžets" skaidrojumu, grozījums 8.panta pirmās daļas 3.punktā attiecībā uz tā izteikšanu jaunā redakcijā, kā arī grozījums 9. un 25.pantā par cita speciālā budžeta izslēgšanu un grozījums par šā likuma 8.panta pirmās daļas 3.¹ punkta izslēgšanu stājas spēkā 2012.gada 1.janvārī.
