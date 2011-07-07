@@ -10,4 +10,6 @@
 7) uzraudzības un novērtēšanas princips - attīstības plānošanā un attīstības plānošanas dokumentu īstenošanā visos pārvaldes līmeņos tiek nodrošināts to ietekmes izvērtējums, kā arī uzraudzība un pārskatu sniegšana par sasniegtajiem rezultātiem;
 8) subsidiaritātes princips - politiku īsteno tā valsts vai pašvaldības institūcija, kura atrodas pēc iespējas tuvāk pakalpojuma saņēmējiem, un attiecīgie pasākumi tiek efektīvi īstenoti pēc iespējas zemākā pārvaldes līmenī;
 9) attīstības plānošanas un normatīvo aktu izstrādes sasaistes princips - politiku plāno pirms normatīvā akta izdošanas, un, izstrādājot normatīvos aktus, ņem vērā attīstības plānošanas dokumentus;
-10) līdzsvarotas attīstības princips - politiku plāno, sabalansējot atsevišķu valsts teritoriju attīstības līmeņus un tempus.
+10) līdzsvarotas attīstības princips - politiku plāno, sabalansējot atsevišķu valsts teritoriju attīstības līmeņus un tempus;
+11) aktualitātes princips - attīstības plānošanas dokumentus aktualizē atbilstoši situācijai;
+12) dokumentu saskaņotības princips - pieņemot attīstības plānošanas dokumentu vai izdarot grozījumus šādā dokumentā, nodrošina izmaiņu veikšanu arī citos saistītajos dokumentos un normatīvajos aktos, ievērojot tiesiskās paļāvības principu.
