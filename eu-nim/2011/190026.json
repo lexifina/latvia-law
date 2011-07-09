@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "MK noteikumi Nr.548 \"Zirgu pārraudzības un zirgu darbspēju novērtēšanas kārtība, kā arī kārtība, kādā zirgi piedalās sacensībās\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "105",
+  "official_journal_page": null,
+  "official_journal_date": "2011-07-08",
+  "entry_into_force": "2011-07-09",
+  "notification_date": "2012-04-03",
+  "commission_reference": "MNE(2012)51606",
+  "nim_celex": "71990L0428LVA_190026",
+  "nim_id": "190026",
+  "transposes_celex": [
+    "31990L0428"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/24a6ecfb-7d5f-4a4a-825c-af9e05a798f3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
