@@ -14,3 +14,4 @@
 (11) Atsauktu priekšlikumu var uzturēt komisija, kurai tas nodots.
 (12) Ja atsaukts patstāvīgais priekšlikums, kuram komisija izstrādājusi alternatīvu patstāvīgo priekšlikumu, alternatīvais patstāvīgais priekšlikums izskatāms, ievērojot šā panta trešās daļas noteikumu.
 (13) Patstāvīgais priekšlikums, kuru atbildīgā komisija ir noraidījusi, uzskatāms par noraidītu, ja desmit dienu laikā no dienas, kad atbildīgās komisijas atzinums ir bijis pieejams deputātiem, iesniedzējs rakstveidā neprasa Prezidijam šā patstāvīgā priekšlikuma izskatīšanu Saeimas sēdē.
+(14) Likumā par budžetu un finanšu vadību noteiktajos gadījumos Saeimā izskatāmie lēmuma projekti nav uzskatāmi par patstāvīgajiem priekšlikumiem un ir izskatāmi vienā lasījumā.
