@@ -1,2 +1,2 @@
-10.¹ pants. Transportlīdzekļu reģistrācijas valsts nodeva (transportlīdzekļu reģistra nodeva)
-Pirms transportlīdzekļu reģistrācijas maksājama transportlīdzekļu reģistrācijas valsts nodeva (transportlīdzekļu reģistra nodeva). Transportlīdzekļu reģistrācijas valsts nodevas (transportlīdzekļu reģistra nodevas) maksāšanas kārtību un apmēru nosaka Ministru kabinets.
+10.¹ pants. Valsts nodeva par Valsts tehniskās uzraudzības aģentūrā reģistrējamo transportlīdzekļu reģistrāciju
+Pirms transportlīdzekļu reģistrācijas Valsts tehniskās uzraudzības aģentūrā samaksājama transportlīdzekļu reģistrācijas valsts nodeva. Valsts tehniskās uzraudzības aģentūrā reģistrējamo transportlīdzekļu reģistrācijas valsts nodevas likmes, maksāšanas kārtību un atvieglojumus nosaka Ministru kabinets.

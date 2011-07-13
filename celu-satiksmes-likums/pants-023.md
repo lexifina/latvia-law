@@ -31,3 +31,4 @@
 7) G - ceļu būves mašīnas;
 8) H - cita speciālā pašgājējtehnika.
 (6) (Izslēgta ar 15.05.2008. likumu.)
+(7) Ja transportlīdzekļa vadītājs citas kategorijas transportlīdzekli, tai skaitā traktortehniku, vada tikai ar M, A1 vai TRAM kategorijas transportlīdzekļu vadīšanas tiesībām, uzskatāms, ka šim transportlīdzekļa vadītājam, vadot attiecīgo transportlīdzekli, vispār nav transportlīdzekļu vadīšanas tiesību. Šis nosacījums attiecībā uz A1 un TRAM kategorijas transportlīdzekļu vadīšanas tiesībām neattiecas uz šā panta trešajā daļā minēto nosacījumu.
