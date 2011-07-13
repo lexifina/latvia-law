@@ -9,4 +9,4 @@ Likumā ir lietoti šādi termini:
 7) valsts informācijas sistēmu reģistrs - valsts reģistrs valsts informācijas sistēmu uzskaitei un to funkciju identificēšanai;
 8) valsts informācijas sistēmu savietotājs - centralizēts informācijas tehnoloģiju kopums, ar kura palīdzību tiek nodrošināta integrētas valsts informācijas sistēmas izveide un darbība;
 9) centralizēta valsts informācijas sistēma - valsts informācijas sistēma, kuru valsts informācijas sistēmas lietotājs lieto centralizēti, izmantojot valsts informācijas sistēmu savietotāju;
-10) kritiska valsts informācijas sistēma - valsts informācijas sistēma, kuras drošības apdraudējuma gadījumā valsts un sabiedrības drošības funkciju izpildei nepieciešamās informācijas aprite var tikt pakļauta riskam.
+10) (izslēgts ar 09.06.2011. likumu).

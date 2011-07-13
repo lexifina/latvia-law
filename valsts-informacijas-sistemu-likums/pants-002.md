@@ -5,4 +5,4 @@
 2) regulēt valsts informācijas sistēmu pārziņu sadarbību;
 3) noteikt valsts informācijas sistēmas turētāja funkcijas un valsts informācijas sistēmas datu subjekta (turpmāk - datu subjekts) tiesības un pienākumus;
 4) regulēt valsts informācijas sistēmu drošības pārvaldību;
-5) noteikt prasības, kas ievērojamas kritisku valsts informācijas sistēmu un valsts informācijas sistēmu savietotāju aizsardzībai.
+5) noteikt prasības, kas ievērojamas valsts informācijas sistēmu savietotāju un integrētā valsts informācijas sistēmā ietilpstošo valsts informācijas sistēmu aizsardzībai.

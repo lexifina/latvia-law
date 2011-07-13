@@ -1,0 +1,1 @@
+7. Ministru kabinets līdz 2011.gada 31.decembrim izdod šā likuma 16.pantā minētos noteikumus par prasībām, kas ievērojamas valsts informācijas sistēmu savietotāju un integrētā valsts informācijas sistēmā ietilpstošo valsts informācijas sistēmu aizsardzībai.
