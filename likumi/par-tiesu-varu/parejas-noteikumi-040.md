@@ -1,0 +1,1 @@
+40. Tieslietu padome līdz 2012.gada 1.jūlijam nosaka šā likuma 89.¹¹ panta devītajā daļā paredzēto tiesneša profesionālo zināšanu pārbaudes saturu un kārtību, kā arī apstiprina tiesneša profesionālo zināšanu pārbaudei nepieciešamo dokumentu paraugus.

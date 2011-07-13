@@ -5,3 +5,4 @@
 2) tiesneša nepietiekama noslogojuma dēļ;
 3) sakarā ar tiesnešu maiņu;
 4) sakarā ar tiesneša nespēju veikt savus pienākumus.
+(3) Lietu sadalē ņem vērā tiesneša slodzi, pildot pienākumus tiesnešu pašpārvaldes institūcijās.

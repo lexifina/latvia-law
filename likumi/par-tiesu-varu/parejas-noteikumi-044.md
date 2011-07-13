@@ -1,0 +1,1 @@
+44. Grozījumi šā likuma 60.panta otrās daļas pirmajā teikumā un trešajā daļā, 73.¹ panta pirmās daļas otrajā teikumā un otrās daļas otrajā teikumā, 75.panta otrās daļas otrajā teikumā, 15.nodaļas nosaukumā, kas attiecas uz tiesnešu profesionālās darbības novērtēšanu, stājas spēkā 2013.gada 1.janvārī.

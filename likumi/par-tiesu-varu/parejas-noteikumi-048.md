@@ -1,0 +1,1 @@
+48. Grozījums šā likuma 89.¹¹ pantā, ar kuru izslēdz tā paša panta 9.¹ daļu, stājas spēkā vienlaikus ar Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likuma grozījumiem, ar kuriem tiek izslēgts pārejas noteikumu 8.⁴ punkts.

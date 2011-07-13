@@ -4,7 +4,7 @@
 (3) Rajona (pilsētas) tiesas priekšsēdētājs:
 1) rīkojas ar tiesas iestādei nodotajiem finanšu un citiem resursiem;
 2) nosaka tiesas darbinieku un tiesas priekšsēdētāja vietnieka amata pienākumus;
-3) nosaka tiesnešu pienākumus, kas saistīti ar tiesas iestādes efektīvu funkcionēšanu (piemēram, sadarbība ar ārvalstu tiesām un citām institūcijām, prakses apkopošana, atzinumu sniegšana, piedalīšanās normatīvo aktu projektu izstrādē, atzinumu sniegšana Tiesnešu kvalifikācijas kolēģijai);
+3) nosaka tiesnešu pienākumus, kas saistīti ar tiesas iestādes efektīvu funkcionēšanu (piemēram, sadarbība ar ārvalstu tiesām un citām institūcijām, prakses apkopošana, atzinumu sniegšana, piedalīšanās normatīvo aktu projektu izstrādē, atsauksmju sniegšana Tiesnešu kvalifikācijas kolēģijai);
 4) atbild par lietu un citu pienākumu sadali starp tiesnešiem;
 5) sagatavo ikgadējā tiesas iestādes finanšu pieprasījuma projektu un iesniedz to Tiesu administrācijai;
 6) atbild par resursu tiesisku un lietderīgu izmantošanu;

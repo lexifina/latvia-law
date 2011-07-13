@@ -1,0 +1,1 @@
+47. Grozījumi šā likuma 98.pantā stājas spēkā vienlaikus ar Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likuma grozījumiem, kuri nosaka kārtību, kādā tiesnešiem piešķirama atlīdzība par tiesnešu profesionālās darbības novērtēšanu.

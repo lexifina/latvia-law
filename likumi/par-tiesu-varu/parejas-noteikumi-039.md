@@ -1,0 +1,1 @@
+39. Tieslietu padome līdz 2012.gada 1.oktobrim sasauc Tiesnešu konferenci Tiesnešu kvalifikācijas kolēģijas ievēlēšanai atbilstoši grozījumiem šā likuma 93.panta otrajā daļā attiecībā uz Tiesnešu kvalifikācijas kolēģijas sastāvu. Līdz 2013.gada 1.janvārim darbu turpina līdzšinējā Tiesnešu kvalifikācijas kolēģija.
