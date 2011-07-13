@@ -1,3 +1,5 @@
 280.pants. Personas nodarbināšanas noteikumu pārkāpšana
-Par likumā paredzēto personas nodarbināšanas ierobežojumu vai noteikumu pārkāpšanu, ja to izdarījis darba devējs un ja tā izdarīta atkārtoti gada laikā, -
-soda ar brīvības atņemšanu uz laiku līdz vienam gadam vai ar arestu, vai ar piespiedu darbu, vai ar naudas sodu līdz piecdesmit minimālajām mēnešalgām.
+(1) Par likumā paredzēto personas nodarbināšanas ierobežojumu vai noteikumu pārkāpšanu, ja to izdarījis darba devējs un ja ar to radīts būtisks kaitējums, -
+soda ar arestu vai ar piespiedu darbu, vai ar naudas sodu līdz simt minimālajām mēnešalgām.
+(2) Par tādas personas nodarbināšanu, kura nav tiesīga uzturēties Latvijas Republikā, ja to izdarījis darba devējs un ja nodarbināts nepilngadīgais vai ja nodarbinātas vairāk nekā piecas personas, vai ja persona nodarbināta īpaši ekspluatējošos darba apstākļos, vai ja apzināti nodarbināts cilvēku tirdzniecības upuris, -
+soda ar arestu vai ar piespiedu darbu, vai ar naudas sodu līdz divsimt minimālajām mēnešalgām.
