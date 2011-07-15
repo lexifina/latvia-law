@@ -8,7 +8,7 @@ Satiksmes ministrija atbilstoši savai kompetencei jūrlietās:
 5) nodrošina Latvijas Jūras administrācijai nodoto funkciju izpildes uzraudzību un kontroli;
 6) šajā likumā paredzētajos gadījumos nosaka Latvijas ūdeņu izmantošanas kārtību;
 7) izsniedz un anulē atbilstības sertifikātu jūrnieku profesionālās sagatavošanas programmām;
-8) izsniedz un anulē atbilstības sertifikātu klasifikācijas sabiedrībām (atzītām organizācijām) un publicē klasifikācijas sabiedrību (atzīto organizāciju) sarakstu;
+8) (izslēgts ar 16.06.2011. likumu);
 9) (izslēgts ar 22.10.2009. likumu);
 10) (izslēgts ar 15.06.2006. likumu);
 11) (izslēgts ar 28.10.2004. likumu);
