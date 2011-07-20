@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2011.gada 5.jūlija noteikumi Nr.545 “Noteikumi par biodegvielu un bioloģisko šķidro kurināmo ilgtspējas kritērijiem, to ieviešanas mehānismu un uzraudzības un kontroles kārtību”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "111 (4509)",
+  "official_journal_page": null,
+  "official_journal_date": "2011-07-19",
+  "entry_into_force": "2011-07-20",
+  "notification_date": "2017-12-15",
+  "commission_reference": "MNE(2017)56904",
+  "nim_celex": "72015L1513LVA_253630",
+  "nim_id": "253630",
+  "transposes_celex": [
+    "32015L1513"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bad0efab-9531-48f2-aff3-1798c5505bd9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
