@@ -8,7 +8,7 @@
 (2) Veselības aprūpes jomā reglamentētās profesijas, kurās kvalifikācijas prasības nosaka akreditētas izglītības programmas un likumā noteiktajos gadījumos - profesionālās sertifikācijas noteikumi, ir šādas:
 1) ārsta palīgs (feldšeris);
 2) farmaceita asistents;
-3) laborants;
+3) biomedicīnas laborants;
 4) zobu tehniķis;
 5) zobu higiēnists;
 6) fizioterapeits;
@@ -26,5 +26,8 @@
 18) audiologopēds;
 19) radiologa asistents;
 20) uztura speciālists;
-21) militārais paramediķis.
+21) militārais paramediķis;
+22) podologs;
+23) radiogrāfers;
+24) skaistumkopšanas speciālists kosmetoloģijā.
 (3) Medicīniskās izglītības klīnisko un praktisko daļu (arī rezidentūrā iegūstamo) šajā pantā minētajās ārstniecības profesijās un specialitātēs īsteno ārstniecības iestādes un ārstniecības personas, kuras normatīvajos aktos noteiktajā kārtībā ir ieguvušas tiesības izglītot ārstniecības personas.
