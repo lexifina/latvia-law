@@ -20,4 +20,6 @@ Likumā iekļautas tiesību normas, kas izriet no:
 19) Eiropas Parlamenta un Padomes 2002.gada 23.septembra direktīvas 2002/73/EK, ar kuru groza Padomes direktīvu 76/207/EEK par tāda principa īstenošanu, kas paredz vienlīdzīgu attieksmi pret vīriešiem un sievietēm attiecībā uz darba iespējām, profesionālo izglītību un paaugstināšanu amatā, kā arī darba nosacījumiem;
 20) Eiropas Parlamenta un Padomes 2003.gada 4.novembra direktīvas 2003/88/EK par konkrētiem darba laika organizēšanas aspektiem;
 21) Eiropas Parlamenta un Padomes 2006.gada 5.jūlija direktīvas 2006/54/EK par tāda principa īstenošanu, kas paredz vienlīdzīgas iespējas un attieksmi pret vīriešiem un sievietēm nodarbinātības un profesijas jautājumos (pārstrādātā versija);
-22) Eiropas Parlamenta un Padomes 2009.gada 18.jūnija direktīvas 2009/52/EK, ar ko nosaka minimālos standartus sankcijām un pasākumiem pret darba devējiem, kas nodarbina trešo valstu valstspiederīgos, kuri dalībvalstīs uzturas nelikumīgi.
+22) Eiropas Parlamenta un Padomes 2009.gada 18.jūnija direktīvas 2009/52/EK, ar ko nosaka minimālos standartus sankcijām un pasākumiem pret darba devējiem, kas nodarbina trešo valstu valstspiederīgos, kuri dalībvalstīs uzturas nelikumīgi;
+23) Eiropas Parlamenta un Padomes 2008.gada 19.novembra direktīvas 2008/104/EK par pagaidu darba aģentūrām;
+24) Padomes 2010.gada 8.marta direktīvas 2010/18/ES, ar ko īsteno pārskatīto BUSINESSEUROPE, UEAPME, CEEP un ETUC pamatnolīgumu par vecāku atvaļinājumu un atceļ direktīvu 96/34/EK.

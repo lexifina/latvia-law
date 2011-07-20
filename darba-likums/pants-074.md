@@ -14,3 +14,4 @@
 (4) Šā panta pirmās daļas 6. un 7.punktā noteiktajos gadījumos darbiniekam šā panta trešajā daļā noteikto atlīdzību izmaksā darba devējs, kuram to atlīdzina attiecīgā valsts institūcija. Kārtību, kādā valsts institūcija darba devējam atlīdzina darbiniekam izmaksājamo atlīdzību, nosaka Ministru kabinets.
 (5) Šā panta pirmās daļas noteikumi neattiecas uz gadījumiem, kad darbinieks neveic darbu pārejošas darbnespējas dēļ.
 (6) Darbiniekam, kurš ārstniecības iestādē nodod asinis, pēc katras šādas dienas piešķir atpūtas dienu, izmaksājot šā panta trešajā daļā noteikto atlīdzību. Darbiniekam un darba devējam vienojoties, šo atpūtas dienu var piešķirt citā laikā.
+(7) Darbaspēka nodrošināšanas pakalpojuma sniedzēja darbiniekam laikposmā starp norīkojumiem neatkarīgi no nolīgtā darba laika izmaksā atlīdzību, kas nav mazāka par valstī noteikto minimālo mēneša darba algu, proporcionāli laikposmam starp norīkojumiem.

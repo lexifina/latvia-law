@@ -1,6 +1,6 @@
 11.pants. Darbinieku pārstāvju tiesības un pienākumi
 (1) Darbinieku pārstāvjiem, veicot savus pienākumus, ir šādas tiesības:
-1) pieprasīt un saņemt no darba devēja informāciju par uzņēmuma pašreizējo ekonomisko un sociālo stāvokli, kā arī par iespējamām izmaiņām;
+1) pieprasīt un saņemt no darba devēja informāciju par uzņēmuma pašreizējo ekonomisko un sociālo stāvokli un iespējamām tā izmaiņām, kā arī attiecīgu informāciju par darbaspēka nodrošināšanas pakalpojuma sniedzēja norīkoto darbinieku nodarbināšanu uzņēmumā;
 2) laikus saņemt informāciju un konsultēties ar darba devēju, pirms tas pieņem tādus lēmumus, kuri var skart darbinieku intereses, it īpaši lēmumus, kuri var būtiski ietekmēt darba samaksu, darba apstākļus un nodarbinātību uzņēmumā;
 3) piedalīties darba samaksas noteikumu, darba vides, darba apstākļu un darba laika organizācijas noteikšanā un uzlabošanā, kā arī darbinieku drošības un veselības aizsardzībā;
 4) ieiet uzņēmuma teritorijā, kā arī piekļūt darba vietām;
