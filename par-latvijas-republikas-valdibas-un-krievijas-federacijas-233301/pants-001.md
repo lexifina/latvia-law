@@ -1,0 +1,1 @@
+1.pants. 2010.gada 20.decembrī Maskavā parakstītā Latvijas Republikas valdības un Krievijas Federācijas valdības vienošanās par sadarbību ārkārtējo situāciju novēršanas un likvidēšanas jomā (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.
