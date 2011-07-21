@@ -1,0 +1,1 @@
+1.pants. 2011.gada 17.janvārī Rīgā parakstītā Latvijas Republikas valdības un Azerbaidžānas Republikas valdības vienošanās par sadarbību ārkārtējo situāciju novēršanas un likvidēšanas jomā (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.
