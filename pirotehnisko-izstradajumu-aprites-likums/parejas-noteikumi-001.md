@@ -1,3 +1,0 @@
-1. Līdz šā likuma 7.panta trešajā daļā, 12.panta astotajā daļā, 14. un 18.pantā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2011.gada 31.jūlijam ir spēkā:
-1) Ministru kabineta 2003.gada 23.septembra noteikumi Nr.538 "Ieroču, munīcijas, speciālo līdzekļu, sprāgstvielu, spridzināšanas ietaišu un pirotehnisko izstrādājumu komerciālās aprites, pirotehnisko izstrādājumu klasificēšanas un izmantošanas noteikumi";
-2) Ministru kabineta 2003.gada 2.septembra noteikumi Nr.488 "Noteikumi par valsts nodevu par visu veidu ieroču, munīcijas, speciālo līdzekļu, sprāgstvielu, spridzināšanas ietaišu un pirotehnisko izstrādājumu atļauju un speciālo atļauju (licenču) izsniegšanu, kā arī to derīguma termiņa pagarināšanu".
