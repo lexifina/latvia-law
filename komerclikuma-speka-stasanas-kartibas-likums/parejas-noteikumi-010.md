@@ -1,0 +1,1 @@
+10. Kapitālsabiedrība, kura sniedz patērētāja kreditēšanas pakalpojumu, līdz speciālās atļaujas (licences) pieprasījuma iesniegšanai saskaņā ar Patērētāju tiesību aizsardzības likumu, bet ne vēlāk kā līdz 2011.gada 1.novembrim nodrošina pamatkapitāla atbilstību šā likuma 21.panta trešās daļas prasībām.

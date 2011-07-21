@@ -1,0 +1,1 @@
+11. Ministru kabinets līdz 2014.gada 1.maijam sagatavo un iesniedz Saeimai likumprojektu par patērētāju kreditēšanu, kurā nosaka to kapitālsabiedrību apmaksājamā pamatkapitāla minimālo lielumu, kuras sniedz patērētāja kreditēšanas pakalpojumu.
