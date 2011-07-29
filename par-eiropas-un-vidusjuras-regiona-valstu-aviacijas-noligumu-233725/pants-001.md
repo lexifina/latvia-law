@@ -1,0 +1,1 @@
+1.pants. Eiropas un Vidusjūras reģiona valstu aviācijas nolīgums starp Eiropas Savienību un tās dalībvalstīm, no vienas puses, un Jordānijas Hāšimītu Karalisti, no otras puses (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
