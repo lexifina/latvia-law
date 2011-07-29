@@ -1,0 +1,1 @@
+Pasaules Pasta savienības Vispārīgā reglamenta Pirmais papildprotokols

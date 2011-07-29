@@ -1,0 +1,1 @@
+1.pants. Pasaules Pasta savienības konstitūcijas 2008.gada 12.augusta Astotais papildprotokols (turpmāk - Konstitūcijas Astotais papildprotokols) un Pasaules Pasta savienības Vispārīgā reglamenta 2008.gada 12.augusta Pirmais papildprotokols (turpmāk - Vispārīgā reglamenta Pirmais papildprotokols) ar šo likumu tiek pieņemts un apstiprināts.

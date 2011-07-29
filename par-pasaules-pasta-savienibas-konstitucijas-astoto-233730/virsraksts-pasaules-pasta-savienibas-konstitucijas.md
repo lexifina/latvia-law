@@ -1,0 +1,1 @@
+Pasaules Pasta savienības Konstitūcijas Astotais papildprotokols

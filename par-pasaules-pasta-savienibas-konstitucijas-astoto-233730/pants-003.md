@@ -1,0 +1,1 @@
+3.pants. Konstitūcijas Astotais papildprotokols stājas spēkā tā X pantā noteiktajā laikā un kārtībā, Vispārīgā reglamenta Pirmais papildprotokols stājas spēkā tā XXVI pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo laikrakstā "Latvijas Vēstnesis".
