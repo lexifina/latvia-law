@@ -16,7 +16,8 @@
 13) pašvaldību finanšu izlīdzināšanas aprēķinus;
 14) informāciju par valsts budžeta ilgtermiņa saistību maksimāli pieļaujamo apjomu;
 15) valsts budžeta aizdevumu un atmaksu apjomus saskaņā ar iepriekšējos saimnieciskajos gados noslēgtajiem līgumiem un Ministru kabineta atbalstītajām programmām;
-16) informāciju par ministriju padotībā esošām no valsts budžeta daļēji finansētām atvasinātām publiskām personām un budžeta nefinansētām iestādēm.
+16) informāciju par ministriju padotībā esošām no valsts budžeta daļēji finansētām atvasinātām publiskām personām un budžeta nefinansētām iestādēm;
+17) informāciju par Valsts prezidenta kancelejas, Augstākās tiesas, Satversmes tiesas, zemesgrāmatu nodaļu, rajonu (pilsētu) tiesu, Valsts kontroles, Nacionālās elektronisko plašsaziņas līdzekļu padomes, Tiesībsarga biroja un Ģenerālprokuratūras rakstveidā iesniegtajiem viedokļiem par attiecīgo iestāžu budžeta projektiem, kā arī šā likuma 16.² panta ceturtajā daļā un 20.panta 4.¹ daļā minēto Ministru kabineta protokollēmumu un Tieslietu padomes atzinumu, ja tāds ir iesniegts Ministru kabinetam.
 (3) Saeimas vēlēšanu gadā gadskārtējā valsts budžeta likuma (budžeta likumprojektu paketes) projekts un vidēja termiņa makroekonomiskās attīstības un fiskālās politikas ietvars iesniedzams Saeimai ne vēlāk kā četrus mēnešus pēc tam, kad jaunievēlētā Saeima izteikusi Ministru kabinetam savu uzticību.
 (4) Ministru kabinets iesniedz Saeimai pieņemšanai grozījumus gadskārtējā valsts budžeta likumā kārtējam saimnieciskajam gadam, priekšlikumus par grozījumiem likumos, lai tie atbilstu grozījumiem gadskārtējā valsts budžeta likumā un grozījumu valsts budžeta likumā paskaidrojumu.
 (5) Grozījumu valsts budžeta likumā paskaidrojums ietver:
@@ -27,5 +28,6 @@
 5) informāciju par izmaiņām valsts budžeta aizdevumos un aizdevumu atmaksās;
 6) informāciju par izmaiņām valsts budžeta ilgtermiņa saistību maksimāli pieļaujamā apjomā;
 7) informāciju par izmaiņām ārvalstu finanšu palīdzības apjomos;
-8) (izslēgts ar 19.12.2006. likumu).
+8) (izslēgts ar 19.12.2006. likumu);
+9) attiecīgo šā panta otrās daļas 17.punktā minēto informāciju, ja grozījumi valsts budžeta likumā paredz izmaiņas Valsts prezidenta kancelejas, Augstākās tiesas, Satversmes tiesas, zemesgrāmatu nodaļu, rajonu (pilsētu) tiesu, apgabaltiesu un prokuratūras iestāžu, Valsts kontroles, Nacionālās elektronisko plašsaziņas līdzekļu padomes un Tiesībsarga biroja izdevumos.
 (6) Apropriācijas, kas paredzētas valsts budžeta finansējumam Eiropas Savienības fondu projektu īstenošanai, grozījumos gadskārtējā valsts budžeta likumā drīkst pārdalīt citiem mērķiem tikai ar Ministru kabineta lēmumu, kas pieņemts pirms grozījumu projekta izskatīšanas. Minētais nosacījums attiecas uz grozījumu projekta izstrādāšanas kārtību Ministru kabinetā.

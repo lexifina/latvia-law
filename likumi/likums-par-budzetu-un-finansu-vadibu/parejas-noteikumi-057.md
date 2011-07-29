@@ -1,0 +1,1 @@
+57. Ministru kabinets nodrošina šā likuma 16.² panta ceturtās daļas nosacījumu izpildi, apstiprinot 2012.gadam attiecīgajām šajā panta daļā minētajām iestādēm maksimāli pieļaujamo valsts budžeta izdevumu kopējo apjomu.
