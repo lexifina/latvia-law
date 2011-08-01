@@ -1,5 +1,5 @@
 87.pants. Akadēmiskā personāla reģistrs
-(1) Akadēmiskā personāla reģistrā ieraksta ziņas par personām, kuras ieņem akadēmiskos amatus augstskolās un koledžās. Akadēmiskā personāla reģistru izveido un uztur Izglītības un zinātnes ministrijas pilnvarota ministrijas vai tās padotībā esošas iestādes amatpersona (akadēmiskā personāla reģistra atbildīgā amatpersona).
+(1) Akadēmiskā personāla reģistrā ieraksta ziņas par personām, kuras ieņem akadēmiskos amatus augstskolās un koledžās. Akadēmiskā personāla reģistrs ir Valsts izglītības informācijas sistēmas sastāvdaļa, un to ved tam pilnvarota Ministru kabineta noteiktas institūcijas amatpersona (turpmāk - akadēmiskā personāla reģistra atbildīgā amatpersona).
 (2) Akadēmiskā personāla reģistrā par personu ierakstāmas šādas ziņas:
 1) personas vārds un uzvārds;
 2) personas kods;

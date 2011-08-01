@@ -1,0 +1,1 @@
+33. Studiju programmām, kuras līdz 2011.gada 1.augustam ir akreditētas, akreditācijas termiņš tiek pagarināts līdz brīdim, kad tiek pieņemts lēmums par augstskolas vai koledžas studiju virziena akreditāciju vai lēmums par atteikumu akreditēt attiecīgu augstskolas vai koledžas studiju virzienu, ja minētajā laika periodā studiju programmas akreditācijas termiņš ir notecējis.

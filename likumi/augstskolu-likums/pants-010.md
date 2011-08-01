@@ -1,5 +1,5 @@
 10.pants. Augstskolu darbības tiesiskais pamats
-(1) Augstskolas darbojas, pamatojoties uz Latvijas Republikas Satversmi, Izglītības likumu, likumu "Par zinātnisko darbību", šo likumu, citiem normatīvajiem aktiem un attiecīgās augstskolas satversmi.
+(1) Augstskolas darbojas, pamatojoties uz Latvijas Republikas Satversmi, Izglītības likumu, Zinātniskās darbības likumu, šo likumu, citiem normatīvajiem aktiem un attiecīgās augstskolas satversmi.
 (2) Katra augstskola izstrādā savu satversmi, kurā jāietver:
 1) augstskolas nosaukums, tās juridiskā adrese, juridiskais statuss, augstskolas dibinātājs un tā juridiskā adrese;
 2) darbības pamatvirzieni un uzdevumi;

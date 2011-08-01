@@ -1,0 +1,1 @@
+36. Šā likuma 87.panta ceturtās daļas noteikums par ziņu iesniegšanu akadēmiskā personāla reģistram ne vēlāk kā nedēļu pēc izmaiņām, ievadot tās akadēmiskā personāla reģistrā elektroniski, stājas spēkā 2012.gada 1.septembrī.

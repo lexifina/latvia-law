@@ -1,5 +1,3 @@
-18.pants. Revīzijas komisija
-(1) Revīzijas komisijai ir tiesības pārbaudīt augstskolas finansiālās un saimnieciskās darbības atbilstību spēkā esošajiem likumiem, citiem normatīvajiem aktiem un augstskolas satversmei.
-(2) Ar revīziju saistīto jautājumu noskaidrošanai revīzijas komisijai ir tiesības iepazīties ar visiem dokumentiem, kas attiecas uz augstskolas finansiālo un saimniecisko darbību, kā arī pieprasīt un saņemt paskaidrojumus no amatpersonām.
-(3) Revīzijas komisiju ievēlē augstskolas satversmes sapulce. Revīzijas komisijas sastāvā nedrīkst būt augstskolas administratīvā personāla pārstāvji.
-(4) Revīzijas komisija veic pārbaudi ne retāk kā reizi gadā. Tās sagatavotais rakstveida ziņojums par pārbaudes rezultātiem iesniedzams augstskolas senātam.
+18.pants. Augstskolas revīzija
+(1) Revīzijas veikšanai zvērinātam revidentam ir tiesības iepazīties ar visiem augstskolas dokumentiem, kas attiecas uz finansiālo un saimniecisko darbību, kā arī pieprasīt un saņemt informāciju no tās amatpersonām.
+(2) Augstskola ir tiesīga veidot revīzijas komisiju, kura darbojas augstskolas satversmē noteiktajā kārtībā.

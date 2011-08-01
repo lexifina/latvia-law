@@ -5,5 +5,5 @@
 1) augstskolas un koledžas attīstībai;
 2) mācību līdzekļu un zinātniskās aparatūras iegādei;
 3) aprīkojuma iegādei;
-4) akadēmiskā un vispārējā augstskolas un koledžas personāla un studējošo materiālajai stimulēšanai.
+4) akadēmiskā un vispārējā augstskolas un koledžas personāla un studējošo materiālajai stimulēšanai, kā arī personāla darba samaksai.
 (3) Šā panta pirmajā daļā minētajiem studējošajiem tiek piešķirtas stipendijas Ministru kabineta noteiktajā kārtībā.
