@@ -1,0 +1,5 @@
+13. Laika periodā no 2011.gada 1.augusta līdz 2012.gada 31.decembrim ir paredzēta šāda maksājumu veikšanas kārtība:
+1) tos maksājumus, kurus veic nekustamā īpašuma pircējs par attiecīgo nekustamo īpašumu, atsavināšanu veicošā institūcija vispirms ieskaita pirkuma maksas pamatsummas un procentu maksājuma par atlikto maksājumu (nomaksa) proporcionālai dzēšanai;
+2) pirkuma maksas pamatsummas un procentu maksājuma par atlikto maksājumu dzēšana neatbrīvo nekustamā īpašuma pircēju no nomaksas pirkuma līgumā noteiktajā kārtībā aprēķinātās soda naudas maksājumiem;
+3) ja nekustamā īpašuma pircējs neveic nomaksas pirkuma līgumā paredzētos maksājumus pamatsummas un procentu maksājuma par atlikto maksājumu dzēšanai, atsavināšanu veicošā institūcija uzrēķina nomaksas pirkuma līgumā paredzēto soda naudu;
+4) pēc nekustamā īpašuma pirkuma maksas pamatsummas un procentu maksājuma par atlikto maksājumu dzēšanas turpmākos šā nekustamā īpašuma pircēja maksājumus ieskaita nomaksas pirkuma līgumā noteiktajā kārtībā uzrēķinātās soda naudas dzēšanai, piemērojot šā punkta 3.apakšpunktā minēto kārtību.

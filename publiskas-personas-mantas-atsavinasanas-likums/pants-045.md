@@ -4,7 +4,7 @@
 (4) Īrnieks vai viņa ģimenes locekļi var pirkt īrēto viendzīvokļa māju vai dzīvokļa īpašumu, ja:
 1) īrnieks un viņa ģimenes locekļi ir noslēguši notariāli apliecinātu vienošanos par to, kurš vai kuri no viņiem iegūs īpašumā īrēto viendzīvokļa māju vai dzīvokļa īpašumu;
 2) tiesā nav celta prasība par īres līguma izbeigšanu.
-(5) Ja īrnieks vai viņa ģimenes locekļi mēneša laikā no piedāvājuma saņemšanas dienas nepaziņo par pirmpirkuma tiesību izmantošanu, viendzīvokļa māju vai dzīvokļa īpašumu atsavina tikai tad, ja pašvaldība ir vienojusies ar attiecīgās viendzīvokļa mājas vai dzīvokļa īpašuma īrnieku un viņa ģimenes locekļiem par citas dzīvojamās telpas izīrēšanu. Šādā gadījumā:
+(5) Ja īrnieks vai viņa ģimenes locekļi mēneša laikā no piedāvājuma saņemšanas dienas nepaziņo par pirmpirkuma tiesību izmantošanu, viendzīvokļa māju vai dzīvokļa īpašumu atsavina šādā kārtībā:
 1) viendzīvokļa māju, kas visa atrodas uz citas personas īpašumā esoša zemesgabala, piedāvā pirkt šīs zemes īpašniekam (īpašniekiem);
 2) dzīvokļa īpašumu piedāvā pirkt pārējiem dzīvojamās mājas dzīvokļu īpašniekiem, ja viņi savas pirmpirkuma tiesības ir nodibinājuši savstarpējā līgumā.
 (6) Zemes īpašnieks (īpašnieki) un dzīvokļu īpašnieki savas pirmpirkuma tiesības var izmantot mēneša laikā no piedāvājuma saņemšanas dienas.

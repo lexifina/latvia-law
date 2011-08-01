@@ -5,10 +5,10 @@
 (4) Atsevišķos gadījumos publiskas personas nekustamā īpašuma atsavināšanu var ierosināt šādas personas:
 1) zemes īpašnieks vai visi kopīpašnieki, ja viņi vēlas nopirkt zemesgrāmatā ierakstītu ēku (būvi), kas atrodas uz īpašumā esošās zemes, vai zemes starpgabalu, kas piegul viņu zemei;
 2) zemes kopīpašnieks, ja viņš vēlas nopirkt zemesgrāmatā ierakstītu ēku (būvi), kas atrodas uz kopīpašumā esošās zemes, vai domājamo daļu no tās samērīgi savai zemes daļai;
-3) zemesgrāmatā ierakstītas ēkas (būves) īpašnieks vai visi kopīpašnieki, ja viņi vēlas nopirkt zemesgabalu, uz kura atrodas ēka (būve), vai zemes starpgabalu, kas piegul šai zemei;
+3) zemesgrāmatā ierakstītas ēkas (būves) īpašnieks vai visi kopīpašnieki, ja viņi vēlas nopirkt zemesgabalu, uz kura atrodas ēka (būve), vai zemesgabalu, uz kura atrodas ēka (būve), un zemes starpgabalu, kas piegul šai zemei;
 4) zemesgrāmatā ierakstītas ēkas (būves) kopīpašnieks, ja viņš vēlas nopirkt tā zemesgabala domājamo daļu, uz kura atrodas ēka (būve), samērīgi savai ēkas (būves) daļai;
 5) īrnieks vai viņa ģimenes loceklis, ja viņš vēlas nopirkt dzīvojamo māju, tās domājamo daļu vai dzīvokļa īpašumu šā likuma 45.pantā noteiktajā kārtībā;
 6) dzīvokļa īpašnieks, ja viņam ir pirmpirkuma tiesības uz citu dzīvokļa īpašumu tajā pašā daudzdzīvokļu mājā un ja viņš vēlas nopirkt dzīvokļa īpašumu šā likuma 45.pantā noteiktajā kārtībā;
-7) kopīpašnieks, ja viņš vēlas izbeigt kopīpašuma attiecības ar valsti vai pašvaldību;
+7) kopīpašnieks, ja viņš vēlas izbeigt kopīpašuma attiecības ar publisku personu;
 8) persona, kurai Valsts un pašvaldību īpašuma privatizācijas un privatizācijas sertifikātu izmantošanas pabeigšanas likumā noteiktajā kārtībā ir izbeigtas zemes lietošanas tiesības un ar kuru pašvaldība ir noslēgusi zemes nomas līgumu, ja šī persona vēlas nopirkt zemi, kas bijusi tās lietošanā un par ko ir noslēgts zemes nomas līgums.
 (5) Ministru kabinets izdod noteikumus, kuros paredz kārtību, kādā šā panta ceturtajā daļā minētās personas iesniedz atsavināšanas ierosinājumu, kā arī kārtību, kādā tiek izskatīti saņemtie atsavināšanas ierosinājumi, pieņemts lēmums par publiskas personas mantas nodošanu atsavināšanai vai ierosinājuma noraidīšanu, un kārtību, kādā tiek atcelts lēmums par nodošanu atsavināšanai.
