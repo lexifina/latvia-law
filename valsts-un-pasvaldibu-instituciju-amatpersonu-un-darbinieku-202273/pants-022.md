@@ -7,3 +7,4 @@
 1) I grupas invalīdam - 20 mēnešalgu apmērā, bet ne vairāk kā 30 000 latu;
 2) II grupas invalīdam - 15 mēnešalgu apmērā, bet ne vairāk kā 20 000 latu;
 3) III grupas invalīdam - 10 mēnešalgu apmērā, bet ne vairāk kā 10 000 latu.
+(3) Šā panta otrā daļa piemērojama arī tad, ja invaliditāte tiek noteikta gada laikā no nelaimes gadījuma un amata (dienesta, darba) attiecības jau ir izbeigušās.

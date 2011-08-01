@@ -1,13 +1,13 @@
 6.¹ pants. Tiesneša mēnešalga
 (1) Rajona (pilsētas) tiesas tiesneša bez kvalifikācijas klases mēnešalgu nosaka, to pielīdzinot valsts tiešās pārvaldes iestādes juridiskās struktūrvienības vadītāja mēnešalgas maksimālajam apmēram (12.mēnešalgu grupa) saskaņā ar šā likuma 3.pielikumu.
 (2) Tiesnešu mēnešalgu nosaka, rajona (pilsētas) tiesas tiesneša bez kvalifikācijas klases mēnešalgai piemērojot šādu koeficientu:
-1) rajona (pilsētas) tiesas priekšsēdētāja vietniekam - 1,1;
+1) rajona (pilsētas) tiesas priekšsēdētāja vietniekam un rajona (pilsētas) tiesas tiesu nama priekšsēdētājam - 1,1;
 2) rajona (pilsētas) tiesas priekšsēdētājam - 1,2;
 3) zemesgrāmatu nodaļas tiesnesim - 1;
 4) zemesgrāmatu nodaļas priekšnieka vietniekam - 1,05;
 5) zemesgrāmatu nodaļas priekšniekam - 1,1;
 6) apgabaltiesas tiesnesim - 1,2;
-7) apgabaltiesas priekšsēdētāja vietniekam un kolēģijas priekšsēdētājam - 1,28;
+7) apgabaltiesas priekšsēdētāja vietniekam un kolēģijas priekšsēdētājam, kā arī apgabaltiesas tiesu nama priekšsēdētājam - 1,28;
 8) apgabaltiesas priekšsēdētājam - 1,35;
 9) Augstākās tiesas tiesnesim - 1,35;
 10) Augstākās tiesas senatoram - 1,42;

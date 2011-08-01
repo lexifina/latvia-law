@@ -15,5 +15,6 @@
 4) valsts tieslietu padomniekam - 28 procenti no mēnešalgas;
 5) vecākajam valsts tieslietu padomniekam - 35 procenti no mēnešalgas.
 (6) Augstākās tiesas priekšsēdētājs vai viņa īpaši pilnvaroti Augstākās tiesas tiesneši par vienu dežūras dienu saņem piemaksu triju procentu apmērā no šā likuma 6.¹ panta pirmajā daļā noteiktās tiesneša mēnešalgas par Operatīvās darbības likuma 7.panta ceturtajā daļā paredzēto sevišķā veidā veicamo operatīvās darbības pasākumu un Kredītiestāžu likuma 63.panta pirmās daļas 6. un 7.punktā paredzēto kredītiestāžu rīcībā esošo neizpaužamo ziņu pieprasījumu akceptēšanu.
-(7) Rajona (pilsētas) tiesas tiesu nama priekšsēdētājam pēc rajona (pilsētas) tiesas priekšsēdētāja priekšlikuma un apgabaltiesas tiesu nama priekšsēdētājam pēc apgabaltiesas priekšsēdētāja priekšlikuma var noteikt piemaksu pie mēnešalgas 10 procentu apmērā, saskaņojot to ar Tiesu administrāciju un tieslietu ministru.
+(7) (Izslēgta ar 16.06.2011. likumu)
 (8) Prokurors par vienu dežūras dienu saņem piemaksu ģenerālprokurora noteiktajā kārtībā un apmērā, bet ne vairāk kā trīs procentus no šā likuma 6.² panta pirmās daļas 1.punktā noteiktās prokurora mēnešalgas, vai arī prokuroram tiek piešķirts apmaksāts atpūtas laiks citā nedēļas dienā.
+(9) Tiesnesis par darbu nedēļas atpūtas laikā vai svētku dienā saskaņā ar izmeklēšanas tiesnešu darba grafiku saņem piemaksu triju procentu apmērā no šā likuma 6.¹ panta pirmajā daļā noteiktās tiesneša mēnešalgas vai arī viņam tiek piešķirts apmaksāts atpūtas laiks citā nedēļas dienā.

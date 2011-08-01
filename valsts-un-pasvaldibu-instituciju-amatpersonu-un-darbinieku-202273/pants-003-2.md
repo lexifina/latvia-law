@@ -1,0 +1,2 @@
+3.² pants. Papildu brīvdienu apmaksas kārtība
+Ja saskaņā ar Darba likuma 74.pantu vai šā likuma 3.panta ceturto daļu amatpersonai (darbiniekam) piešķir apmaksātu papildu brīvdienu (atpūtas dienu), amatpersonai (darbiniekam) saglabā mēnešalgu un uzturdevas kompensāciju, kā arī piemaksas, izņemot šā likuma 14.panta trešajā daļā minētās piemaksas. Darbiniekam, kuram noteikta akorda alga, izmaksā vidējo izpeļņu.

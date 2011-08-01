@@ -186,7 +186,7 @@ Maksimālā mēnešalgu grupa
 7
 39
 3
-10
+11
 40
 7
 12

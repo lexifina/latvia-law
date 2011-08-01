@@ -1,6 +1,6 @@
 40.pants. Atvaļinājumi
 (1) Amatpersonu (darbinieku) atvaļinājumus, to ilgumu un piešķiršanas kārtību, kā arī citus ar atvaļinājumiem saistītus jautājumus regulē attiecīgās Darba likuma normas, ciktāl šajā likumā nav noteikts citādi.
-(2) Karavīram, kas ārstniecības iestādē nodod asinis, attiecīgajā jautājumā piemēro Darba likuma normas, ievērojot noteikumu, ka viņam izmaksā mēnešalgu un piemaksas.
+(2) (Izslēgta ar 16.06.2011. likumu)
 (3) Karavīram, kuram tiek piešķirts grūtniecības un dzemdību atvaļinājums vai atvaļinājums bērna tēvam, adoptētājam vai citai personai, kura faktiski kopj bērnu, par attiecīgo laiku izmaksā arī karavīra uzturdevas kompensāciju. Karavīram, kuram piešķir atvaļinājumu bērna kopšanai, nesaglabā mēnešalgu un piemaksas. Karavīram katra bērna kopšanai piešķir vienu nedalītu šādu atvaļinājumu.
 (4) Karavīram, kuram piešķirts bērna kopšanas atvaļinājums, attiecīgā atvaļinājuma laiku ieskaita izdienas stāžā, kas dod tiesības uz izdienas pensiju, bet neieskaita izdienas stāžā, kas dod tiesības uz kārtējās dienesta pakāpes piešķiršanu.
 (5) Saeimas deputātam, kā arī pašvaldības domes deputātam, kurš ieņem algotu amatu domē un izvēlējies nolikt deputāta pilnvaras uz laiku, kamēr atrodas grūtniecības, dzemdību, bērna kopšanas atvaļinājumā vai atvaļinājumā bērna tēvam, adoptētājam vai citai personai, kura faktiski kopj bērnu, saglabājams darba ņēmēja statuss, bet ne ilgāk kā uz attiecīgās Saeimas pilnvaru laiku vai attiecīgās domes darbības laiku.

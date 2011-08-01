@@ -132,7 +132,7 @@ Starpnozaru koordinācija, kā arī noteiktas funkcijas veikšana vairākās noz
 Šajā saimē ietilpst ar sekretariāta funkciju saistīti pienākumi: atbildēšana uz tālruņa zvaniem, to pāradresācija, viesu uzņemšana, sanāksmju un pārrunu, kā arī komandējumu tehniskā organizēšana, dokumentu sagatavošana, noformēšana un pavairošana, korespondences šķirošana un nosūtīšana, biroja telpu un biroja aprīkojuma uzturēšanas nodrošināšana.
 Šajā saimē neklasificē amatus, kuru pienākumi pēc būtības ir saistīti ar lietvedības funkciju un pienākumiem.
 39. Sociālais darbs
-Šajā saimē ietilpst amati, kas saistīti ar sociālo aprūpi un rehabilitāciju noteiktās sabiedrības grupās.
+Šajā saimē ietilpst amati, kas saistīti ar sociālo darbu ar indivīdiem, grupām, organizācijām un kopienām un palīdz risināt sociālās problēmas, mazināt sociālo grupu izslēgtību un uzlabot sociālo pakalpojumu kvalitāti sociālās rehabilitācijas un sociālās aprūpes jomā.
 40. Starptautiskie sakari
 Šajā saimē ietilpst amati, kuru pildītāju pienākums ir piedalīties valsts ārējo sakaru veidošanā attiecīgajā politikas jomā, arī apkopojot informāciju par sadarbību ar ārvalstu institūcijām, gatavojot sadarbības līgumus un sadarbojoties ar citām institūcijām.
 41. Transporta vadīšana

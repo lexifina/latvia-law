@@ -1,0 +1,1 @@
+18. Šā likuma 3.panta ceturtās daļas 7. un 8.punkts, grozījums par 37.panta otrās daļas izteikšanu jaunā redakcijā, kā arī grozījums par šā likuma 18.panta izslēgšanu un ar to saistītais grozījums 3.panta 6.⁶ daļā par skaitļa "18." izslēgšanu stājas spēkā 2012.gada 1.janvārī.
