@@ -1,5 +1,5 @@
 34. pants. Paziņojums par pašvaldības īpašuma objekta nodošanu privatizācijai
-1. Ne vēlāk kā divu nedēļu laikā pēc lēmuma pieņemšanas par pašvaldības īpašuma objekta nodošanu privatizācijai pašvaldība publicē oficiālajā laikrakstā "Latvijas Vēstnesis" un tās pašvaldības vietējā laikrakstā vai bezmaksas izdevumā, kuras teritorijā atrodas privatizējamais pašvaldības īpašuma objekts, paziņojumu par šā objekta nodošanu privatizācijai, kurā tiek norādīts:
+1. Ne vēlāk kā divu nedēļu laikā pēc lēmuma pieņemšanas par pašvaldības īpašuma objekta nodošanu privatizācijai pašvaldība publicē oficiālajā laikrakstā "Latvijas Vēstnesis" un tās pašvaldības mājaslapā internetā, pašvaldības informatīvā izdevumā vai pašvaldības izdotā laikrakstā, ja tāds ir, vai citā vietējā vai reģionālā laikrakstā, kuras teritorijā atrodas privatizējamais pašvaldības īpašuma objekts, paziņojumu par šā objekta nodošanu privatizācijai, kurā tiek norādīts:
 1) objekta nosaukums;
 2) objekta adrese (ja objekta struktūrvienības vai nekustamā manta atrodas vairākās vietās - visu struktūrvienību adreses);
 3) termiņš, līdz kuram privatizācijas subjekti var iesniegt pašvaldības īpašuma objekta privatizācijas projektus;

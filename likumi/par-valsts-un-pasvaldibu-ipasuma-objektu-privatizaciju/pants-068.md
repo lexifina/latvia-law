@@ -1,5 +1,5 @@
 68. pants. Paziņojums par zemesgabala nodošanu privatizācijai
-1. Pēc tam kad likumos noteiktajā kārtībā izdots rīkojums vai pieņemts lēmums par zemesgabala nodošanu privatizācijai, privatizāciju veicošā institūcija divu nedēļu laikā publicē oficiālajā laikrakstā "Latvijas Vēstnesis" un tās pašvaldības vietējā laikrakstā vai bezmaksas izdevumā, kuras teritorijā atrodas privatizējamais zemesgabals, paziņojumu par šā zemesgabala nodošanu privatizācijai. Paziņojumā norāda:
+1. Pēc tam kad likumos noteiktajā kārtībā izdots rīkojums vai pieņemts lēmums par zemesgabala nodošanu privatizācijai, privatizāciju veicošā institūcija divu nedēļu laikā publicē oficiālajā laikrakstā "Latvijas Vēstnesis" un tās pašvaldības mājaslapā internetā, pašvaldības informatīvā izdevumā vai pašvaldības izdotā laikrakstā, ja tāds ir, vai citā vietējā vai reģionālā laikrakstā, kuras teritorijā atrodas privatizējamais zemesgabals, paziņojumu par šā zemesgabala nodošanu privatizācijai. Paziņojumā norāda:
 1) zemesgabala adresi (ja īpašuma objekts atrodas vairākās vietās, - visu zemesgabalu adreses) un kadastra numuru;
 2) termiņu, līdz kuram piesakāmi prasījumi, kas attiecas uz privatizējamo zemesgabalu;
 3) vietu, kur iesniedzami 1.punktā minētie prasījumus apliecinošie dokumenti;

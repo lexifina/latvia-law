@@ -1,5 +1,5 @@
 21. pants. Valsts īpašuma objekta privatizācijas uzsākšana un privatizācijas priekšlikumi
-1. Privatizācijas aģentūra publicē oficiālajā laikrakstā "Latvijas Vēstnesis" un tās pašvaldības vietējā laikrakstā vai bezmaksas izdevumā, kuras teritorijā atrodas privatizējamais valsts īpašuma objekts, paziņojumu par šā objekta privatizācijas uzsākšanu. Paziņojumā norāda:
+1. Privatizācijas aģentūra publicē oficiālajā laikrakstā "Latvijas Vēstnesis" un tās pašvaldības mājaslapā internetā, pašvaldības informatīvā izdevumā vai pašvaldības izdotā laikrakstā, ja tāds ir, vai citā vietējā vai reģionālā laikrakstā, kuras teritorijā atrodas privatizējamais valsts īpašuma objekts, paziņojumu par šā objekta privatizācijas uzsākšanu. Paziņojumā norāda:
 1) šā likuma 16.panta pirmās daļas 1., 2. un 4.punktā minētās ziņas;
 2) termiņu, līdz kuram privatizācijas subjekti var iesniegt valsts īpašuma objekta privatizācijas priekšlikumus;
 3) termiņu, līdz kuram šā likuma 17.pantā minētās personas var iesniegt pieteikumu par pirmpirkuma tiesību realizēšanu.
