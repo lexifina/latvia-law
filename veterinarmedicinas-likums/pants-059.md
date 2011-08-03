@@ -18,4 +18,6 @@ c) nodrošināt dzīvnieku mītņu un iekārtu dezinfekciju,
 d) nodrošināt dzīvnieku karantinēšanu un ārstēšanu, kā arī dzīvnieku likvidāciju;
 12) ievērot ierobežojumus dzīvnieku un dzīvnieku izcelsmes produktu izmantošanā pēc dzīvnieku medikamentozas ārstēšanas, ja tādi paredzēti apstiprinātā lietošanas pamācībā vai tos nosaka praktizējošs veterinārārsts;
 13) ievērot ierobežojumus dzīvnieku barības izēdināšanā, glabāšanā un pārvadāšanā atbilstoši normatīvajos aktos noteiktajām prasībām;
-14) ne vēlāk kā no triju mēnešu vecuma un turpmāk vienu reizi gadā nodrošināt suņu, kaķu un mājas (istabas) sesku vakcināciju pret trakumsērgu un saņemt Eiropas Savienības mājas (istabas) dzīvnieka pasi vai vakcinācijas apliecību.
+14) ne vēlāk kā no triju mēnešu vecuma un turpmāk vienu reizi gadā nodrošināt suņu, kaķu un mājas (istabas) sesku vakcināciju pret trakumsērgu un saņemt Eiropas Savienības mājas (istabas) dzīvnieka pasi vai vakcinācijas apliecību;
+15) nodrošināt novietnē un akvakultūras dzīvnieku audzētavā esošo dzīvnieku pārvietošanu uz citām novietnēm un akvakultūras dzīvnieku audzētavām atbilstoši piešķirtajam veselības statusam un saskaņā ar normatīvajiem aktiem par dzīvnieku infekcijas slimību uzraudzību, kontroli, profilaksi un apkarošanu;
+16) trīs gadus glabāt testēšanas pārskatus par laboratoriskajiem izmeklējumiem attiecībā uz ziņojamām, reģistrējamām un valsts uzraudzībā esošām dzīvnieku infekcijas slimībām.

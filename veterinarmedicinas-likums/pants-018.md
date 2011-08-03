@@ -1,2 +1,1 @@
-18.pants. (1) Valsts uzraudzībā esošo dzīvnieku infekcijas slimību apkarošanas un uzraudzības programmas īstenošanai Pārtikas un veterinārā dienesta attiecīgās teritoriālās struktūrvienības vadītājs konkursa kārtībā pilnvaro praktizējošus veterinārārstus. Konkursa noteikumus un pilnvarojuma līguma veidlapas paraugu apstiprina Pārtikas un veterinārā dienesta ģenerāldirektors.
-(2) (Izslēgta ar 18.12.2008. likumu.)
+18.pants. Valsts uzraudzībā esošo dzīvnieku infekcijas slimību uzraudzības un apkarošanas programmas īstenošanai Pārtikas un veterinārā dienesta ģenerāldirektors Valsts pārvaldes iekārtas likumā noteiktajā kārtībā pilnvaro praktizējošus veterinārārstus.

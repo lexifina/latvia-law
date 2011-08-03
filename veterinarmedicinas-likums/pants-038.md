@@ -1,5 +1,5 @@
 38.pants. (1) Dzīvnieku īpašniekam ir tiesības saņemt zaudējumu kompensāciju par:
-1) govju tuberkulozes, govju un kazu brucelozes un govju enzootiskās leikozes apkarošanas laikā radītajiem zaudējumiem - līdz 50 procentiem no kautproduktu vidējās vērtības;
+1) govju tuberkulozes, govju un kazu brucelozes apkarošanas laikā radītajiem zaudējumiem - līdz 50 procentiem no kautproduktu vidējās vērtības;
 2) transmisīvo sūkļveida encefalopātiju uzliesmojuma apkarošanas laikā nokautajiem vai nogalinātajiem dzīvniekiem, kā arī dzīvniekiem, kuri, pastāvot aizdomām par saslimšanu, tiek nogalināti diagnozes noskaidrošanai, iznīcinātajiem kautķermeņiem, dzīvnieku izcelsmes produktiem, embrijiem un olšūnām;
 3) salmonelozes uzliesmojuma apkarošanas laikā iznīcinātajiem cāļiem, jaunputniem vai pieaugušajiem putniem, iznīcinātajām olām, kas paredzētas patēriņam cilvēku uzturā un inkubēšanai, produktiem, kas paredzēti patēriņam cilvēku uzturā, kā arī par dzīvnieku barību;
 4) akvakultūras dzīvnieku infekcijas slimību apkarošanas laikā veikto akvakultūras dzīvnieku iznīcināšanu, infekcijas slimību apkarošanas procesā radītajiem zaudējumiem akvakultūras dzīvnieku audzētavas materiāltehniskajā aprīkojumā, kā arī akvakultūras dzīvnieku audzētavā veiktās dezinfekcijas izmaksām.

@@ -14,4 +14,6 @@
 13) (izslēgts ar 03.06.2010. likumu);
 14) govju, cūku, aitu un kazu mākslīgās apsēklošanas pakalpojumu sniedzēja minimālo aprīkojumu;
 15) (izslēgts ar 03.06.2010. likumu);
-16) reģistrēto dzīvnieku datubāzēs esošās informācijas izmantošanas kārtību.
+16) reģistrēto dzīvnieku datubāzēs esošās informācijas izmantošanas kārtību;
+17) valsts uzraudzībā esošo dzīvnieku infekcijas slimību uzraudzības, kontroles un apkarošanas kārtību;
+18) ziņojamo, reģistrējamo un valsts uzraudzībā esošo dzīvnieku infekcijas slimību sarakstu un kārtību, kādā dzīvnieku īpašnieks vai turētājs, juridiskā persona, kuras uzņēmumā tiek veikti laboratoriskie izmeklējumi, vai tās pilnvarota persona, praktizējošs veterinārārsts vai jebkura cita persona, kuras rīcībā ir attiecīga informācija, ziņo Pārtikas un veterinārajam dienestam par ziņojamām, reģistrējamām un valsts uzraudzībā esošām dzīvnieku infekcijas slimībām.
