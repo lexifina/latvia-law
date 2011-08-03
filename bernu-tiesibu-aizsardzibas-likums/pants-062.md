@@ -9,4 +9,4 @@
 7) nodrošina ikgadējā pārskata par bērnu stāvokli valstī sagatavošanu un iesniegšanu Saeimai un Ministru kabinetam;
 8) sagatavo iesniegšanai Apvienoto Nāciju Organizācijas Bērnu tiesību komitejai ziņojumu par bērnu stāvokli Latvijā un pasākumiem, kas veikti bērna tiesību nodrošināšanai;
 9) informē sabiedrību par bērnu tiesību aizsardzības jomā pieņemto likumu un normatīvo aktu noteikumiem, kā arī par starptautisko tiesību principiem šajā jomā.
-(2) Labklājības ministrs apstiprina ikgadējo valsts programmu bērnu un ģimenes stāvokļa uzlabošanai.
+(2) Labklājības ministrs apstiprina ikgadējo valsts programmu bērnu un ģimenes stāvokļa uzlabošanai, kā arī nosaka tās īstenošanas veidu, kritērijus un kārtību.

@@ -1,7 +1,7 @@
 50.pants. Bērns un spēles, filmas, plašsaziņas līdzekļi
 (1) Aizliegts bērnam demonstrēt, pārdot, dāvināt, izīrēt un propagandēt rotaļlietas un videoierakstus, datorspēles, laikrakstus, žurnālus un cita veida publikācijas, kurās propagandēta cietsirdīga uzvedība, vardarbība, erotika, pornogrāfija, kas rada draudus bērna garīgajai attīstībai.
 (2) Bērnam nedrīkst būt pieejami materiāli, kuros propagandēta cietsirdīga uzvedība, vardarbība, erotika, pornogrāfija un kuri rada draudus bērna garīgajai attīstībai, neatkarīgi no to izpausmes veida, pārraidīšanas ierīces un atrašanās vietas.
-(3) Lai aizsargātu bērna tiesības, ierobežojumus radio un televīzijas programmās nosaka Radio un televīzijas likums.
+(3) Lai aizsargātu bērna tiesības, ierobežojumus radio un televīzijas programmās nosaka Elektronisko plašsaziņas līdzekļu likums.
 (4) Bērnam aizliegts atrasties vietās, kur izgatavo vai demonstrē erotiska un pornogrāfiska rakstura materiālus.
 (5) Bērnu aizliegts iesaistīt erotiska un pornogrāfiska rakstura materiālu izgatavošanā, izplatīšanā un demonstrēšanā.
 (6) Jautājumus, kas saistīti ar bērnu pornogrāfijas aprites aizliegumu, regulē Pornogrāfijas ierobežošanas likums.
