@@ -1,4 +1,4 @@
 49.pants. Speciālās izglītības programmas
-(1) Speciālās izglītības programmas nodrošina vispārējo darba praktisko iemaņu un profesionālās ievirzes izglītību izglītojamajiem ar garīgās un fiziskās attīstības traucējumiem un speciālām vajadzībām (turpmāk - izglītojamie ar speciālām vajadzībām).
-(2) Speciālā izglītība rada iespējas un apstākļus izglītojamajiem ar speciālām vajadzībām iegūt savam veselības stāvoklim, spējām un attīstības līmenim atbilstošu izglītību jebkurā izglītības iestādē, vienlaikus nodrošinot izglītojamā pedagoģiski psiholoģisko un medicīnisko korekciju, sagatavotību darbam un dzīvei sabiedrībā.
+(1) Speciālās izglītības programmas nodrošina izglītojamajiem ar iegūtiem vai iedzimtiem funkcionāliem traucējumiem iespēju iegūt vispārējo izglītību atbilstoši viņu speciālajām vajadzībām.
+(2) (Izslēgta ar 01.07.2011. likumu)
 (3) Speciālās izglītības programmas mērķus un uzdevumus, obligāto saturu, īstenošanas plānu un prasības attiecībā uz iepriekš iegūto izglītību nosaka atbilstoši valsts vispārējās izglītības standartam saskaņā ar izglītojamo speciālajām vajadzībām.

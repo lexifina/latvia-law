@@ -1,2 +1,3 @@
-53.pants. Bērnu ar speciālām vajadzībām integrēšana vispārējās izglītības iestādēs
-Vispārējās pamatizglītības un vidējās izglītības iestādēs, kurās ir atbilstošs nodrošinājums, pamatojoties uz valsts vai pašvaldības pedagoģiski medicīniskās komisijas atzinumu, var integrēt izglītojamos ar speciālām vajadzībām. Šo skolu nodrošinājumu atbilstoši speciālām vajadzībām nosaka Ministru kabinets.
+53.pants. Izglītojamo ar speciālām vajadzībām integrēšana vispārējās izglītības iestādēs
+(1) Vispārējās pamatizglītības un vispārējās vidējās izglītības iestādēs, kurās ir atbilstošs nodrošinājums, var integrēt izglītojamos ar speciālām vajadzībām. Prasības, kādas izvirzāmas vispārējās pamatizglītības un vispārējās vidējās izglītības iestādēm, lai nodrošinātu izglītojamo ar speciālām vajadzībām integrēšanu minētajās izglītības iestādēs, nosaka Ministru kabinets.
+(2) Atbilstošu atbalsta pasākumu pieejamību izglītojamajiem ar speciālām vajadzībām, kuri integrēti vispārējās izglītības iestādē, nodrošina izglītības iestāde. Izglītības iestāde katram integrētam izglītojamajam ar speciālām vajadzībām izstrādā individuālu izglītības programmas apguves plānu.

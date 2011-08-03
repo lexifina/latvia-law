@@ -1,0 +1,1 @@
+14. Ministru kabinets līdz 2011.gada 31.decembrim izdod šā likuma 4.panta 8.punktā paredzētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2011.gada 31.decembrim piemērojami Ministru kabineta 2009.gada 3.novembra noteikumi Nr.1263 "Noteikumi par Valsts pedagoģiski medicīniskās komisijas un pašvaldību pedagoģiski medicīnisko komisiju kompetenci".

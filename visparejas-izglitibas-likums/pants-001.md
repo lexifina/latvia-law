@@ -13,4 +13,5 @@
 10) sekmju izraksts - dokuments, kas parāda izglītojamā mācību sasniegumu vērtējumu mācību priekšmetos;
 11) pamatizglītības vai vispārējās vidējās izglītības sertifikāts - dokuments, kas apliecina izglītojamā mācību sasniegumus mācību priekšmetos, kuros pamatizglītības vai vispārējās vidējās izglītības programmas apguves noslēgumā ir organizēti centralizēti eksāmeni;
 12) centralizēts eksāmens - pēc īpašas metodikas izveidots un pēc vienotas kārtības valsts mērogā organizēts eksāmens izglītojamo mācību sasniegumu novērtēšanai atsevišķos mācību priekšmetos pamatizglītības un vispārējās vidējās izglītības pakāpes noslēgumā;
-13) vērtējums - izglītības programmā noteikto zināšanu, prasmju un iemaņu apguves līmeņa apliecinājums.
+13) vērtējums - izglītības programmā noteikto zināšanu, prasmju un iemaņu apguves līmeņa apliecinājums;
+14) speciālās vajadzības - nepieciešamība saņemt tāda veida atbalstu un rehabilitāciju, kas rada iespēju izglītojamajam apgūt izglītības programmu, ņemot vērā viņa veselības stāvokli, spējas un attīstības līmeni.

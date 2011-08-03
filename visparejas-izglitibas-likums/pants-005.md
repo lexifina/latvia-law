@@ -4,7 +4,7 @@ Izglītības un zinātnes ministrija:
 2) (izslēgts ar 16.06.2005. likumu);
 3) (izslēgts ar 16.06.2005. likumu);
 4) organizē vispārējās izglītības satura un metodikas izstrādi;
-5) reizi gadā izvērtē un apstiprina mācību procesā izmantojamo mācību literatūru;
+5) izvērtē un apstiprina mācību procesā izmantojamo mācību literatūru;
 6) (izslēgts ar 16.06.2005. likumu);
 7) (izslēgts ar 16.06.2005. likumu);
 8) (izslēgts ar 16.06.2005. likumu);
