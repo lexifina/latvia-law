@@ -1,0 +1,1 @@
+Nolīgums Word formātā
