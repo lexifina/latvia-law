@@ -1,0 +1,1 @@
+30. Ministru kabinets līdz 2011.gada 15.augustam pieņem lēmumu atbalstīt bezmaksas emisijas kvotu piešķiršanu elektroenerģijas ražošanai vai lēmumu par šāda atbalsta atteikumu. Ja Ministru kabinets pieņem lēmumu atbalstīt bezmaksas emisijas kvotu piešķiršanu elektroenerģijas ražošanai, tas izdod šā likuma 32.¹ panta septītajā daļā minētos noteikumus.

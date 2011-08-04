@@ -6,7 +6,7 @@
 4) kārtību, kādā nosakāma noteiktu vielu emisijas robežvērtība, piesārņojošas darbības nosacījumi, kā arī citi ierobežojumi, kas attiecas uz piesārņojošu darbību veikšanu;
 5) piesārņotu vietu apzināšanas, reģistrācijas, izpētes un sanācijas kārtību;
 6) piesārņojošu darbību uzraudzības nosacījumus, piesārņojošu darbību kontroli, monitoringu, kā arī kārtību, kādā par šīm darbībām informējama sabiedrība;
-7) prasības, kas jāņem vērā, izsniedzot siltumnīcefekta gāzu emisijas atļaujas un emisijas kvotas;
+7) prasības, kas jāņem vērā, izsniedzot siltumnīcefekta gāzu emisijas atļaujas, kā arī piešķirot un izsolot emisijas kvotas;
 7¹) prasības, kas siltumnīcefekta gāzu emisijas kontroles jomā jāievēro gaisa kuģu operatoriem;
 8) prasības attiecībā uz darbībām ar emisijas kvotām un nosacījumus emisijas kvotu sadales plāna izstrādei;
 9) īpaši jutīgu teritoriju noteikšanas kārtību, tai skaitā prasības attiecībā uz pilsētu un citu komunālo (turpmāk - pilsētu) notekūdeņu attīrīšanu, kā arī ūdens un augsnes aizsardzību attiecīgajās teritorijās;

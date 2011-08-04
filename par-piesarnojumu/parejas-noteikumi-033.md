@@ -1,0 +1,1 @@
+33. Ministru kabinets līdz 2011.gada 31.decembrim pieņem lēmumu par operatoriem nepiešķirto šā likuma 24.¹ panta piektās daļas 2.punktā noteiktā perioda emisijas kvotu pārdošanu vai anulēšanu. Ja tiek pieņemts lēmums emisijas kvotas pārdot, Ministru kabinets nosaka emisijas kvotu pārdošanas un finansējuma izmantošanas kārtību.
