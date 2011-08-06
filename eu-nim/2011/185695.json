@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par atkritumu dalītu savākšanu, sagatavošanu atkārtotai izmantošanai, pārstrādi un materiālu reģenerāciju",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "122",
+  "official_journal_page": null,
+  "official_journal_date": "2011-08-05",
+  "entry_into_force": "2011-08-06",
+  "notification_date": "2011-08-24",
+  "commission_reference": "MNE(2011)56192",
+  "nim_celex": "72008L0098LVA_185695",
+  "nim_id": "185695",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/2abf36e2-cf0c-4176-b955-bda7b848b3aa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
