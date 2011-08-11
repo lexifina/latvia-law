@@ -1,0 +1,1 @@
+21. Kamēr nav pieņemts šā likuma 11.¹ pantā noteiktais lēmums par pārvades sistēmas operatora sertificēšanu, pārvades sistēmas operatora funkcijas pilda energoapgādes komersants, kuram izsniegta licence elektroenerģijas pārvadei.

@@ -1,0 +1,1 @@
+25. Ministru kabinets līdz 2011.gada 1.oktobrim izdod šā likuma 35.panta otrajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2011.gada 1.oktobrim piemērojami Ministru kabineta 2009.gada 21.jūlija noteikumi Nr.793 "Elektroenerģijas tirdzniecības un lietošanas noteikumi", ciktāl tie nav pretrunā ar šo likumu.

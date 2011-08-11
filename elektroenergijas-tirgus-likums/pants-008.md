@@ -1,13 +1,13 @@
-8.pants. Sistēmas operatora darbības regulēšana un uzraudzība
-(1) Sistēmas operatora darbību regulē regulators Enerģētikas likumā, likumā "Par sabiedrisko pakalpojumu regulatoriem" un šajā likumā noteiktajā kārtībā.
-(2) Regulators nosaka vienotus sistēmas pieslēguma noteikumus ražotājiem un lietotājiem, kā arī pieslēguma maksas noteikšanas metodiku.
+8.pants. Sistēmas operatora darbības regulēšana un elektroenerģijas sistēmas īpašnieka darbības uzraudzība
+(1) Sistēmas operatora darbību regulē regulators šajā likumā, Enerģētikas likumā un likumā "Par sabiedrisko pakalpojumu regulatoriem" noteiktajā kārtībā. Šajā likumā noteikto elektroenerģijas sistēmas īpašnieka pienākumu izpildi uzrauga regulators.
+(2) Regulators nosaka vienotus sistēmas pieslēguma noteikumus elektroenerģijas ražotājiem un lietotājiem, kā arī pieslēguma maksas noteikšanas metodiku.
 (3) Regulators uzrauga:
-1) starpvalstu savienojumu jaudu vadības un sadales noteikumus sadarbībā ar to dalībvalstu attiecīgo iestādi vai iestādēm, ar kurām ir šāds starpvalstu savienojums;
-2) rīcību un metodes, ko sistēmas operators izmanto sistēmas jaudas pārslodzes vadībai;
-3) sistēmas operatora laika patēriņu pieslēgumu ierīkošanai un remontdarbu veikšanai;
-4) sistēmas operatora publicēto informāciju par starpvalstu savienojumiem, tīklu izmantošanu un sistēmas jaudas sadalījumu lietotājiem, ņemot vērā, ka neapkopota informācija uzskatāma par komercnoslēpumu;
-5) grāmatvedības nodalīšanu atbilstoši šā likuma 38. - 40.pantā noteiktajai kārtībai;
-6) šā likuma 9.panta otrajā daļā noteikto sistēmas dalībnieku pieslēguma noteikumu izpildi;
-7) šajā likumā noteikto pārvades un sadales sistēmas operatoru pienākumu izpildi;
-8) elektroenerģijas tirgus pārskatāmību un konkurences līmeni tajā.
-(4) Regulators reizi gadā savā interneta mājas lapā publicē ziņojumu par šā panta trešajā daļā noteikto sistēmas darbības aspektu uzraudzības rezultātiem.
+1) rīcību un metodes, ko sistēmas operators vai tirgus operators izmanto sistēmas sastrēgumu vadībai un pārslodzes novēršanai;
+2) sistēmas operatora laika patēriņu pieslēgumu ierīkošanai un remontdarbu veikšanai;
+3) grāmatvedības nodalīšanu atbilstoši šā likuma 38., 39. un 40.pantā noteiktajai kārtībai;
+4) šā likuma 9.panta otrajā daļā noteikto sistēmas dalībnieku pieslēguma noteikumu izpildi;
+5) elektroenerģijas tirgus pārskatāmību un konkurences līmeni tajā.
+(4) Regulators pārrauga pārvades sistēmas operatora un elektroenerģijas sistēmas īpašnieka līgumiskās attiecības, ko pārvades sistēmas operators un elektroenerģijas sistēmas īpašnieks nodibina šajā likumā noteikto pienākumu izpildei. Regulators kā ārpustiesas instance likumā "Par sabiedrisko pakalpojumu regulatoriem" noteiktajā kārtībā izšķir pārvades sistēmas operatora un elektroenerģijas sistēmas īpašnieka strīdus.
+(5) Regulators ir tiesīgs veikt pārbaudes (arī bez iepriekšēja paziņojuma) pārvades sistēmas operatora un elektroenerģijas sistēmas īpašnieka telpās.
+(6) Pārvades sistēmas operators un elektroenerģijas sistēmas īpašnieks sniedz regulatoram tā pieprasīto informāciju par šajā likumā noteikto pienākumu izpildi regulatora noteiktajā laikā un kārtībā.
+(7) Regulators reizi gadā ziņo Eiropas Komisijai un Energoregulatoru sadarbības aģentūrai par savu darbību un šajā likumā noteikto pienākumu izpildi, kā arī publicē šo ziņojumu savā mājaslapā internetā.

@@ -1,0 +1,1 @@
+24. Pārvades sistēmas operators līdz 2011.gada 1.oktobrim izstrādā un iesniedz regulatoram Tīkla kodeksu. Līdz šā normatīvā akta spēkā stāšanās dienai piemērojams ar regulatora padomes 2010.gada 24.februāra lēmumu Nr.1/3 apstiprinātais Tīkla kodekss.

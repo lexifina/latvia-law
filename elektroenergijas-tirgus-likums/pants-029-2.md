@@ -1,0 +1,2 @@
+29.² pants. Izcelsmes apliecinājums
+Elektroenerģijas ražotāji, kuri elektroenerģijas ražošanai izmanto atjaunojamos energoresursus, var Ministru kabineta noteiktajā kārtībā par saražotās elektroenerģijas daudzumu, kas izteikts megavatstundās (MWh), saņemt izcelsmes apliecinājumu. Tajā ietveramo informāciju nosaka Ministru kabinets. Izcelsmes apliecinājumu izsniedz Ministru kabineta pilnvarota institūcija.

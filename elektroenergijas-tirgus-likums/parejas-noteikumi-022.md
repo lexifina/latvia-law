@@ -1,0 +1,6 @@
+22. Regulators līdz 2012.gada 1.martam izdod šā likuma 8.panta otrajā daļā, 11.¹ panta ceturtajā un desmitajā daļā, 12.panta trešajā un ceturtajā daļā, 15.¹ panta otrajā daļā, 16.pantā, 19.panta trešajā un ceturtajā daļā, 21.¹ panta ceturtajā un piektajā daļā minētos normatīvos aktus. Līdz šo normatīvo aktu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2012.gada 1.martam piemērojami šādi regulatora izdoti normatīvie akti, ciktāl tie nav pretrunā ar šo likumu:
+1) ar regulatora padomes 2006.gada 8.februāra lēmumu Nr.37 apstiprinātie "Noteikumi par minimālajām prasībām elektroenerģijas sistēmas operatora neatkarībai";
+2) ar regulatora padomes 2007.gada 28.novembra lēmumu Nr.556 apstiprinātā Elektroenerģijas pārvades sistēmas pakalpojumu tarifu aprēķināšanas metodika;
+3) ar regulatora padomes 2007.gada 12.decembra lēmumu Nr.592 apstiprinātā Elektroenerģijas tarifu aprēķināšanas metodika saistītajiem lietotājiem;
+4) ar regulatora padomes 2008.gada 3.septembra lēmumu Nr.280 apstiprinātie noteikumi "Sistēmas pieslēguma noteikumi elektroenerģijas ražotājiem";
+5) ar regulatora padomes 2009.gada 1.aprīļa lēmumu Nr.74 apstiprinātie "Sistēmas pieslēguma noteikumi elektroenerģijas sistēmas dalībniekiem".
