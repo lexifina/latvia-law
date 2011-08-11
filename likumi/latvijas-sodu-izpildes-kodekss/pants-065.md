@@ -1,3 +1,3 @@
-65.pants. Notiesāto ražošanas kvalifikācijas celšana
-Brīvības atņemšanas iestādēs var organizēt ar brīvības atņemšanu notiesāto personu ražošanas kvalifikācijas celšanu, kā arī mācīt viņiem jaunas specialitātes, kas nepieciešama attiecīgajai brīvības atņemšanas iestādei un var būt noderīgas pēc soda izciešanas.
-Notiesāto profesionāli tehnisko izglītību vai profesionālo apmācību ražošanā un viņu ražošanas kvalifikācijas celšanu stimulē un ievēro, nosakot viņu labošanās un pāraugšanas pakāpi.
+65.pants. Ar brīvības atņemšanu notiesāto profesionālās kvalifikācijas celšana
+Brīvības atņemšanas iestādē resocializācijas ietvaros var organizēt ar brīvības atņemšanu notiesāto profesionālās kvalifikācijas celšanu un iesaistīšanu jaunu specialitāšu apguvē, kas var būt noderīgas pēc soda izciešanas.
+Ar brīvības atņemšanu notiesāto profesionālā apmācība vai profesionālās kvalifikācijas celšana veicināma un ņemama vērā, nosakot viņu resocializācijas pakāpi.

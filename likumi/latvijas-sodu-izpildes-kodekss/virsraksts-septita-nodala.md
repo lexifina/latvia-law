@@ -1,2 +1,2 @@
 Septītā nodaļa
-Režīms brīvības atņemšanas vietās
+Režīms brīvības atņemšanas iestādēs

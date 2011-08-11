@@ -1,0 +1,5 @@
+61.¹ pants. Ar brīvības atņemšanu notiesāto resocializācija
+Ar brīvības atņemšanu notiesāto resocializācijas process (turpmāk - notiesāto resocializācija) ir sociālās uzvedības korekcijas un sociālās rehabilitācijas pasākumu kopums, kura mērķis ir veicināt notiesātā tiesisku uzvedību un veidot viņam sociāli pozitīvu vērtību izpratni.
+Ar brīvības atņemšanu notiesāto sociālās uzvedības korekcija (turpmāk - notiesāto sociālās uzvedības korekcija) ir līdzekļu kopums, kas brīvības atņemšanas soda izpildes ietvaros tiek īstenots, lai veicinātu notiesātā tiesisku uzvedību un novērstu prettiesiskas uzvedības iemeslus.
+Ar brīvības atņemšanu notiesāto sociālā rehabilitācija (turpmāk - notiesāto sociālā rehabilitācija) ir līdzekļu kopums, kas brīvības atņemšanas soda izpildes ietvaros tiek īstenots, lai notiesātais saglabātu vai apgūtu sociālās iemaņas, profesionālās vai vispārīgās zināšanas un prasmes. Šajā kodeksā noteiktā notiesāto sociālā rehabilitācija nav normatīvajos aktos noteiktā sociālo pakalpojumu un sociālās palīdzības sniegšana.
+Notiesāto piedalīšanās resocializācijā ir stimulējama un pozitīvi novērtējama šajā kodeksā noteiktajā kārtībā.

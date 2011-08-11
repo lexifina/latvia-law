@@ -1,6 +1,6 @@
 155.pants. Nosacīti notiesātā pienākumi
 Nosacīti notiesātajam ir pienākums:
-1) reģistrēties Valsts probācijas dienestā piecu darbdienu laikā pēc tiesas nolēmuma spēkā stāšanās;
+1) reģistrēties Valsts probācijas dienestā desmit darbdienu laikā pēc tiesas nolēmuma spēkā stāšanās;
 2) pildīt Valsts probācijas dienesta amatpersonu likumīgās prasības;
 3) ierasties Valsts probācijas dienestā Valsts probācijas dienesta amatpersonas noteiktajā laikā;
 4) informēt Valsts probācijas dienesta amatpersonu par savu dzīvesvietu, darbavietu vai mācību iestādi, kā arī nekavējoties (tiklīdz nosacīti notiesātajam tas kļuvis zināms) paziņot par to maiņu;

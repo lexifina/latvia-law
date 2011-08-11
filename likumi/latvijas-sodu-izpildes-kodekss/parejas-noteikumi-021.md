@@ -1,0 +1,1 @@
+21. Šā kodeksa 50.³, 50.⁴, 50.⁵, 50.⁷ un 50.¹¹ panta grozījumi, kas paredz pāreju uz divām soda izciešanas režīma pakāpēm daļēji slēgtajā cietumā, stājas spēkā trīs mēnešus pēc šo grozījumu pieņemšanas dienas.

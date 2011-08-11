@@ -4,3 +4,4 @@ Ja notiesātais slimības vai citu viņam svarīgu iemeslu dēļ nav spējīgs v
 Notiesātais soda izciešanas laikā nedrīkst izbraukt no valsts bez piespiedu darba izpildes institūcijas rakstveida piekrišanas.
 Notiesātajam ir pienākums ierasties piespiedu darba izpildes institūcijā tās noteiktajā laikā.
 Soda izciešanas laikā notiesātais piespiedu darba izpildes institūcijā un piespiedu darba izpildes vietā nedrīkst atrasties alkohola, narkotisko vai psihotropo vielu reibumā.
+Ja piespiedu darba izpildes institūcija pieņēmusi lēmumu noraidīt notiesātā iesniegumu ar lūgumu atļaut izbraukt no valsts vai citu svarīgu iemeslu dēļ atļaut uz laiku neveikt piespiedu darbu, notiesātajam nekavējoties jāuzsāk vai jāturpina piespiedu darba izpilde.

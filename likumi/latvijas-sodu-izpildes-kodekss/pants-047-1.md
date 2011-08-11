@@ -1,3 +1,2 @@
-47.¹ pants. Notiesāto tiesības lietot televizorus un tranzistoru radiouztvērējus
-Notiesātajiem, kas izcieš sodu cietumos un audzināšanas iestādēs nepilngadīgajiem, atļauts lietot televizorus un tranzistoru radiouztvērējus.
-Kārtību, kādā brīvības atņemšanas iestādēs atļauts lietot televizorus un tranzistoru radiouztvērējus, reglamentē Brīvības atņemšanas iestāžu iekšējās kārtības noteikumi, bet par šīs kārtības neievērošanu iestādes administrācija var televizorus un tranzistoru radiouztvērējus atņemt un nodot glabāšanā iestādes noliktavā vai atdot piederīgajiem vai personām, kas tos nodevušas lietošanā notiesātajam.
+47.¹ pants. Notiesāto tiesības izmantot televizorus un radiouztvērējus (bez balss ieraksta iespējām)
+Notiesātajiem atļauts izmantot brīvības atņemšanas iestādes un personīgos televizorus un radiouztvērējus (bez balss ieraksta iespējām) brīvības atņemšanas iestādes iekšējās kārtības noteikumos noteiktajā laikā un kārtībā.

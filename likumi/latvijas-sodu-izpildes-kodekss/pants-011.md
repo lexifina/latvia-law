@@ -3,4 +3,4 @@ Brīvības atņemšanas iestādes Latvijas Republikā izveido un likvidē Tiesli
 (Otrā daļa izslēgta ar 04.04.2007. likumu.)
 Tieslietu ministrijas pilnvaroti darbinieki regulāri veic pārbaudes vai revīzijas brīvības atņemšanas iestādēs.
 Pārbaužu kārtību, kā arī šā panta trešajā daļā minēto darbinieku pilnvaras, tiesības un pienākumus nosaka tieslietu ministrs.
-Brīvības atņemšanas iestāžu iekšējās kārtības noteikumus apstiprina Ministru kabinets.
+Brīvības atņemšanas iestādes iekšējās kārtības noteikumus apstiprina Ministru kabinets.
