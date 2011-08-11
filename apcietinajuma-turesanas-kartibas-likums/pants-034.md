@@ -7,3 +7,4 @@
 4) izmantot tiesības uz telefonsarunām;
 5) lietot galda spēles;
 6) smēķēt.
+(3) Nepilngadīgajiem apcietinātajiem, kas ievietoti soda izolatorā, atļauj saraksti ar ģimeni.
