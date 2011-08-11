@@ -2,6 +2,10 @@
 (1) Valsts nodevas par sabiedrisko pakalpojumu regulēšanu likmi latos atsevišķi katram regulējamās nozares sabiedrisko pakalpojumu veidam nosaka Ministru kabinets, pamatojoties uz sabiedrisko pakalpojumu gada neto apgrozījumu un regulatora darbības nodrošināšanai nepieciešamajiem izdevumiem.
 (2) Valsts nodevas par sabiedrisko pakalpojumu regulēšanu gada likme nedrīkst pārsniegt 0,2 procentus no komersanta sniegto sabiedrisko pakalpojumu neto apgrozījuma iepriekšējā kalendāra gadā.
 (2¹) Komersanti, kuri sāk sabiedrisko pakalpojumu sniegšanu, valsts nodevu par pirmo darbības gadu maksā no pašu plānotā attiecīgā sabiedriskā pakalpojuma veida neto apgrozījuma pirmajā darbības gadā.
-(3) (Izslēgta ar 10.05.2001. likumu.)
+(2²) Ja sabiedrisko pakalpojumu sniegšanu uzsākuša komersanta saskaņā ar šā panta 2.¹ daļu par pirmo darbības gadu samaksātā valsts nodeva ir mazāka par šā panta pirmajā un otrajā daļā paredzētajā kārtībā noteikto likmi, komersants līdz nākamā gada 30.janvārim samaksā atlikušo valsts nodevas summu.
+(2³) Ja sabiedrisko pakalpojumu sniegšanu uzsākuša komersanta saskaņā ar šā panta 2.¹ daļu par pirmo darbības gadu samaksātā valsts nodeva pārsniedz šā panta pirmajā un otrajā daļā paredzētajā kārtībā noteikto likmi, pārmaksāto summu izlīdzina, valsts nodevas aprēķinā nākamajam kalendāra gadam samazinot maksājumu summu par pārmaksāto daļu.
+(2⁴) Ja attiecīgajā kalendāra gadā samaksātā valsts nodeva par sabiedrisko pakalpojumu regulēšanu pārsniedz regulatora darbības nodrošināšanai nepieciešamās izmaksas, to izmanto regulatora darbības nodrošināšanai nākamajā gadā un sabiedrisko pakalpojumu sniedzējam, kas attiecīgajā kalendāra gadā ir samaksājis valsts nodevu par sabiedrisko pakalpojumu regulēšanu, nākamajā gadā šīs nodevas apmēru samazina par pārmaksāto summu proporcionāli iemaksātās nodevas lielumam attiecīgajā gadā.
+(3) (Izslēgta ar 10.05.2001. likumu)
 (4) Kārtību, kādā maksājama valsts nodeva par sabiedrisko pakalpojumu regulēšanu, nosaka Ministru kabinets.
 (5) Valsts nodevu par sabiedrisko pakalpojumu regulēšanu administrē regulators saskaņā ar nodokļu jomu regulējošiem normatīvajiem aktiem.
+(6) Ja komersants Ministru kabineta noteiktajā termiņā nav samaksājis valsts nodevu par sabiedrisko pakalpojumu regulēšanu, tam tiek aprēķināta nokavējuma nauda saskaņā ar likumu "Par nodokļiem un nodevām".

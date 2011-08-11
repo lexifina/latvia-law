@@ -4,7 +4,7 @@
 2) nosaka tarifu aprēķināšanas metodiku;
 3) nosaka tarifus, ja nozaru speciālie likumi neparedz citu tarifu noteikšanas kārtību;
 4) licencē sabiedrisko pakalpojumu sniegšanu;
-5) veic strīdu iepriekšēju ārpustiesas izskatīšanu;
+5) izskata strīdus šajā likumā noteiktajos gadījumos un kārtībā;
 6) sekmē konkurenci regulējamās nozarēs un uzrauga sabiedrisko pakalpojumu atbilstību licences nosacījumiem, noteiktām kvalitātes un vides aizsardzības prasībām, tehniskajiem noteikumiem, standartiem, kā arī līgumu noteikumiem;
 7) sniedz regulējamo nozaru atbildīgajām ministrijām pēc to pieprasījuma informāciju un priekšlikumus par sabiedrisko pakalpojumu regulēšanas jautājumiem;
 8) informē sabiedrību par savu darbību un arī par sabiedrisko pakalpojumu sniedzēju darbību sabiedrisko pakalpojumu sniegšanā;
