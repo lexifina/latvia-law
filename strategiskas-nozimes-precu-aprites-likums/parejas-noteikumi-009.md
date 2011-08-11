@@ -1,0 +1,1 @@
+9. Komersants var saņemt speciālo atļauju (licenci) komercdarbībai ar Eiropas Savienības Kopējā militāro preču sarakstā minētajām precēm, nemaksājot šā likuma 5.panta piektajā daļā minēto valsts nodevu, ja tam atbilstoši Ieroču aprites likuma 37.panta otrajai daļai izsniegtās speciālās atļaujas (licences) derīguma termiņš 2011.gada 1.janvārī nav beidzies.
