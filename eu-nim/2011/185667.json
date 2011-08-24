@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Vispārējās atļaujas noteikumi",
+  "type_of_act": "SPRK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "131(4529)",
+  "official_journal_page": null,
+  "official_journal_date": "2011-08-23",
+  "entry_into_force": "2011-08-24",
+  "notification_date": "2011-08-23",
+  "commission_reference": "MNE(2011)56164",
+  "nim_celex": "72009L0136LVA_185667",
+  "nim_id": "185667",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/1f306c57-e9f9-4061-9fad-e68ff5063876",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
