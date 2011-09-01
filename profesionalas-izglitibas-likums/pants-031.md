@@ -7,4 +7,4 @@
 1) izglītojamajiem ar speciālām vajadzībām, ja viņi atrodas speciālās izglītības vai sociālās un pedagoģiskās korekcijas iestādē;
 2) notiesātajiem, ja viņi atrodas brīvības atņemšanas vietā.
 (5) Privātajās profesionālās izglītības iestādēs maksu par profesionālās izglītības un profesionālās kvalifikācijas ieguvi nosaka to dibinātāji.
-(6) Prakses laikā obligātās sociālās apdrošināšanas iemaksas izglītojamajiem sedz no tās izglītības iestādes finanšu līdzekļiem, kurā izglītojamais apgūst attiecīgo profesionālās izglītības programmu.
+(6) Izglītojamos var apdrošināt pret nelaimes gadījumiem mācību prakses laikā. Ministru kabinets nosaka profesionālās kvalifikācijas, kuras iegūstot izglītojamie obligāti apdrošināmi pret nelaimes gadījumiem mācību prakses laikā, kā arī apdrošinājuma summas minimālo apmēru. Ar apdrošināšanu saistītos izdevumus sedz izglītības iestāde, kurā izglītojamais apgūst attiecīgo izglītības programmu.
