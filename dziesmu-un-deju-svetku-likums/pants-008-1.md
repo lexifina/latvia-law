@@ -1,0 +1,7 @@
+8.¹ pants. Rīcības komiteja
+(1) Rīcības komiteju apstiprina kārtējiem Vispārējiem latviešu dziesmu un deju svētkiem un kārtējiem Latvijas Skolu jaunatnes dziesmu un deju svētkiem.
+(2) Rīcības komitejā iekļauj pārstāvjus no Finanšu ministrijas, Iekšlietu ministrijas, Izglītības un zinātnes ministrijas, Kultūras ministrijas, Veselības ministrijas, Vides aizsardzības un reģionālās attīstības ministrijas, Latvijas Pašvaldību savienības, Neatliekamās medicīniskās palīdzības dienesta, Rīgas domes un citām institūcijām, kuras iesaistītas Dziesmu un deju svētku sagatavošanā un norisē.
+(3) Vispārējo latviešu dziesmu un deju svētku rīcības komitejas priekšsēdētājs ir kultūras ministrs, Latvijas Skolu jaunatnes dziesmu un deju svētku rīcības komitejas priekšsēdētājs - izglītības un zinātnes ministrs.
+(4) Rīcības komiteja izskata un pieņem lēmumus Dziesmu un deju svētku sagatavošanas un norises organizatoriskajos jautājumos un nodrošina svētku rīkošanā iesaistīto institūciju darbības koordināciju.
+(5) Ārkārtas situācijās rīcības komitejas priekšsēdētājs ir tiesīgs pieņemt lēmumus, nesasaucot rīcības komitejas sēdi.
+(6) Vispārējo latviešu dziesmu un deju svētku rīcības komitejas darbu organizatoriski un materiāltehniski nodrošina Kultūrizglītības un nemateriālā mantojuma centrs. Latvijas Skolu jaunatnes dziesmu un deju svētku rīcības komitejas darbu organizatoriski un materiāltehniski nodrošina Valsts izglītības satura centrs.
