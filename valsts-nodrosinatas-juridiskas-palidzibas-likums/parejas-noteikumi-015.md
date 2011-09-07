@@ -1,0 +1,1 @@
+15. Juridiskās palīdzības administrācija līdz 2011.gada 1.decembrim sastāda pirmo šā likuma 33.¹ pantā minēto juridiskās palīdzības sniedzēju sarakstu un nosūta to iestādei, kas Imigrācijas likumā noteiktajos gadījumos un kārtībā aiztur izraidāmo ārzemnieku.
