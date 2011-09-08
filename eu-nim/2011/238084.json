@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2011.gada 30.augusta noteikumi Nr.675 \"Kārtība, kādā Savienības pilsoņi un viņu ģimenes locekļi ieceļo un uzturas Latvijas Republikā\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "141",
+  "official_journal_page": null,
+  "official_journal_date": "2011-09-07",
+  "entry_into_force": "2011-09-08",
+  "notification_date": "2016-05-31",
+  "commission_reference": "MNE(2016)53694",
+  "nim_celex": "72014L0054LVA_238084",
+  "nim_id": "238084",
+  "transposes_celex": [
+    "32014L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6f50a610-60c1-4072-b230-e1967dbae761",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
