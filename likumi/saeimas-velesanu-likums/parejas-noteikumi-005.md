@@ -1,1 +1,0 @@
-Šā likuma 5.panta 8.punkta jaunā redakcija, 6.panta trešās daļas jaunā redakcija, 11.panta 4.punkta "d" un "e" apakšpunkta jaunā redakcija, 13.panta trešās daļas 9.punkta jaunā redakcija, 16.panta otrās daļas jaunā redakcija, 18.panta otrās daļas jaunā redakcija, 29.panta otrās daļas jaunā redakcija, grozījumi 36.pantā un 37.panta izslēgšana stājas spēkā 2009.gada 1.jūlijā.
