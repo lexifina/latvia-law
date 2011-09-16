@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2011.gada 16.septembra rīkojums Nr. 460 „Par Latvijas Republikas Otro energoefektivitātes rīcības plānu 2011.-2013.gadam”",
+  "type_of_act": "Ministru kabineta rīkojums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "148 (4546)",
+  "official_journal_page": null,
+  "official_journal_date": "2011-09-20",
+  "entry_into_force": "2011-09-16",
+  "notification_date": "2012-11-01",
+  "commission_reference": "MNE(2012)55956",
+  "nim_celex": "72010L0031LVA_197483",
+  "nim_id": "197483",
+  "transposes_celex": [
+    "32010L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4b0e181c-a11e-4b2a-975f-72262634bb55",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
