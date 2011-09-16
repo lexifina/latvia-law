@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2011.gada 13.septembra noteikumi Nr.703 \"Noteikumi par kārtību, kādā izsniedz un anulē atļauju atkritumu savākšanai, pārvadāšanai, pārkraušanai, šķirošanai vai uzglabāšanai, kā arī par valsts nodevu un tās maksāšanas kārtību\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "146 (4544)",
+  "official_journal_page": null,
+  "official_journal_date": "2011-09-15",
+  "entry_into_force": "2011-09-16",
+  "notification_date": "2014-04-14",
+  "commission_reference": "MNE(2014)52429",
+  "nim_celex": "72008L0098LVA_215215",
+  "nim_id": "215215",
+  "transposes_celex": [
+    "32008L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a5b6e50d-37c3-4d17-b380-9f0496b5c00c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
