@@ -4,6 +4,7 @@
 2) dienesta interesēs uz nenoteiktu laiku, lai nodrošinātu efektīvu dienesta pienākumu izpildi;
 3) pēc pašas vēlēšanās;
 4) sakarā ar neatbilstību amatam;
+4¹) sakarā ar to, ka amatpersona nav atkārtoti ievēlēta akadēmiskā personāla amatā;
 5) likvidējot amatu vai struktūrvienību (Iestādi) vai to reorganizējot;
 6) sakarā ar Iekšlietu ministrijas sistēmas izglītības iestādes absolvēšanu;
 7) sakarā ar to, ka beidzies termiņš, uz kādu amatpersona dienesta interesēs bija pārcelta citā amatā;
