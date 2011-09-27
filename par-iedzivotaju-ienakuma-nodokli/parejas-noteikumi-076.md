@@ -1,0 +1,1 @@
+76. Grozījumus šā likuma 9.panta pirmās daļas 1.punktā un otrajā daļā un grozījumu attiecībā uz likuma 9.panta papildināšanu ar 3.⁵ daļu piemēro, precizējot deklarāciju par 2010.gadu un aprēķinot apliekamo ienākumu par turpmākajiem taksācijas gadiem.

@@ -25,6 +25,7 @@
 10. Ja par taksācijas gadu aprēķinātais kapitāla pieaugums vai tā summa ir negatīva, tad radušos zaudējumus nevar segt no nākamo taksācijas gadu kapitāla pieauguma vai uz taksācijas gada cita veida ienākumu rēķina.
 11. Ienākumu no kapitāla, kas nav kapitāla pieaugums, veido:
 1) dividendes, kas ir ienākums no kapitālsabiedrības kapitāla daļām vai akcijām vai kooperatīvās sabiedrības pajām, vai citām no parādu saistībām neizrietošām tiesībām piedalīties šīs kapitālsabiedrības vai kooperatīvās sabiedrības peļņas sadalē, izņemot šā likuma 3.panta trešās daļas 18.punktā un 8.panta trešās daļas 3. un 16.punktā minēto ienākumu;
+1¹) dividendēm pielīdzināms ienākums;
 2) procentu ienākums un tam pielīdzināms ienākums, arī ar procentu ienākumu saistīts ienākums;
 3) ienākums no privātajos pensiju fondos veikto iemaksu ieguldīšanas;
 4) ienākums no noslēgtajiem dzīvības apdrošināšanas līgumiem ar līdzekļu uzkrāšanu, kas veidojas kā pozitīva starpība starp aprēķināto apdrošināšanas atlīdzību un visām apdrošināšanas prēmijām, kas apdrošināšanas līguma darbības laikā samaksātas par šo apdrošināšanas līgumu.

@@ -21,6 +21,7 @@
 9) personiskās palīgsaimniecības, piemājas saimniecības, kā arī zemnieku un zvejnieku saimniecības ienākums no lauksaimnieciskās ražošanas;
 9¹) ienākums no fiziskās personas īpašumā esoša augoša meža atsavināšanas izciršanai un tajā iegūto kokmateriālu atsavināšanas, kā arī atbalsta summas par saimnieciskās darbības ierobežojumiem meža īpašniekiem, kuriem meža apsaimniekošana nav saimnieciskās darbības veids;
 10) dividendes;
+10¹) dividendēm pielīdzināms ienākums;
 11) procentu ienākums un tam pielīdzināms ienākums, arī ar procentu ienākumu saistīts ienākums, izņemot procentu ienākumu no Latvijas vai citas Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts un pašvaldību parādzīmēm;
 12) samaksa par intelektuālo īpašumu:
 a) autoratlīdzība (honorārs) par zinātnes, literatūras un mākslas darbu, atklājumu, izgudrojumu un rūpniecisko paraugu darbu radīšanu, ņemot vērā izdevumu normas, kuras saskaņā ar šā likuma 10.panta pirmās daļas 4.punktu noteicis Ministru kabinets,

@@ -1,0 +1,1 @@
+73. No individuālā uzņēmuma (arī zemnieka vai zvejnieka saimniecības), kas ir uzņēmumu ienākuma nodokļa maksātājs, 2010.gada un 2011.gada laikā personīgajām vajadzībām izņemtos līdzekļus neiekļauj maksātāja apliekamajā ienākumā.

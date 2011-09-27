@@ -1,0 +1,1 @@
+74. Veicot 2011.gada pārskata gada peļņas un gadu pirms minētā pārskata gada nesadalītās peļņas sadali, no individuālā uzņēmuma (arī zemnieka vai zvejnieka saimniecības), kas ir uzņēmumu ienākuma nodokļa maksātājs, personīgajām vajadzībām izņemtos līdzekļus neiekļauj maksātāja apliekamajā ienākumā.

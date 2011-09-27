@@ -10,7 +10,7 @@
 5) maksātāja darbība notiek citas personas vadībā vai kontrolē, maksātājam nav iespējas piesaistīt darbu izpildē savu personālu vai izmantot apakšuzņēmējus;
 6) maksātājs nav pamatlīdzekļu, materiālu un citu saimnieciskajā darbībā izmantoto aktīvu īpašnieks (šis kritērijs neattiecas uz personīgo autotransportu vai atsevišķiem personīgajiem instrumentiem, kas izmantoti darba uzdevumu izpildei).
 2.³ Šā panta otrajā un 2.¹ daļā minētais ienākums ietver arī darbiniekam, īpašniekam, kapitālsabiedrības valdes loceklim vai padomes loceklim, personai, kas pilda pienākumus vēlētā amatā, kā arī šo personu ģimenes locekļiem (turpmāk - labuma guvējs) doto labumu no darba devējam piederoša vai darba devēja rīcībā esoša vieglā pasažieru automobiļa izmantošanas tādiem uzdevumiem vai vajadzībām, kas nav saistītas ar darba vai dienesta pienākumu vai darba devēja saimnieciskās darbības veikšanu, ja labuma gūšanas mēnesī par vieglo pasažieru automobili nemaksā uzņēmumu vieglo transportlīdzekļu nodokli. Šīs panta daļas izpratnē par fiziskās personas ģimenes locekļiem uzskatāmi tās vecāki, vecvecāki, laulātais, bērni un mazbērni. Par gūto labumu no darba devējam piederoša vai darba devēja rīcībā esoša vieglā pasažieru automobiļa izmantošanas, ja par vieglo pasažieru automobili nemaksā uzņēmumu vieglo transportlīdzekļu nodokli, ir jāmaksā algas nodoklis.
-2.⁴ Šā panta 2.³ daļa nav piemērojama zemnieku vai zvejnieku saimniecības īpašniekam, tā ģimenes locekļiem un darbiniekiem un normatīvajos aktos noteiktajiem atbalsta piešķiršanai nepieciešamajiem ikgadējās atbilstības kritērijiem atbilstošas lauksaimniecības pakalpojumu kooperatīvās sabiedrības biedram, tā ģimenes locekļiem un darbiniekiem.
+2.².⁴panta Šā panta ².³ daļa nav piemērojama zemnieku vai zvejnieku saimniecības īpašniekam, tā ģimenes locekļiem un darbiniekiem un normatīvajos aktos noteiktajiem atbalsta piešķiršanai nepieciešamajiem ikgadējās atbilstības kritērijiem atbilstošas lauksaimniecības pakalpojumu kooperatīvās sabiedrības padomes un valdes locekļiem un darbiniekiem.
 3. Pie pārējiem fiziskās personas ienākumiem, par kuriem ir jāmaksā nodoklis, tiek pieskaitīti:
 1) ienākumi no individuālā darba, uzņēmuma līguma, komercaģenta un māklera darbības;
 2) ienākumi no individuālā uzņēmuma, arī no zemnieku vai zvejnieku saimniecības, ja tie nav uzņēmumu ienākuma nodokļa objekts, un ienākumi no individuālā komersanta darbības;
@@ -25,6 +25,7 @@
 11) ienākumi no nekustamā īpašuma atsavināšanas un citu kapitāla aktīvu atsavināšanas ienākums atbilstoši šā likuma 11.⁹ pantam, ja šā likuma 9.pantā nav noteikts citādi;
 11¹) citi ienākumi no kapitāla, kas nav minēti šīs daļas 11., 12., 13., 18. un 20.punktā;
 12) dividendes;
+12¹) dividendēm pielīdzināms ienākums;
 13) procentu ienākumi un tiem pielīdzināmie ienākumi, arī ar procentu ienākumu saistītie ienākumi;
 14) nekustamā īpašuma vērtības pieaugums vai tā daļa, kura iegūta, beidzoties nomas līgumam, un kuru nodrošināja iznomātajā īpašumā nomnieka veiktie rekonstrukcijas, restaurācijas, renovācijas, uzlabošanas vai citi kapitālie ieguldījumi, ja minēto pieaugumu vai tā daļu maksātājs nav kompensējis nomniekam;
 15) ienākumi no fiziskās personas īpašumā esoša augoša meža atsavināšanas izciršanai un tajā iegūto kokmateriālu atsavināšanas, kā arī atbalsta summas par saimnieciskās darbības ierobežojumiem meža īpašniekiem, kuriem meža apsaimniekošana nav saimnieciskās darbības veids;
@@ -48,3 +49,4 @@
 8. (Izslēgta ar 01.12.2009. likumu)
 9. (Izslēgta ar 01.12.2009. likumu)
 10. Šā panta trešās daļas 3.punktā minētie ienākumi no personālsabiedrības ir uz personālsabiedrības biedru attiecināmā personālsabiedrības ar uzņēmumu ienākuma nodokli apliekamā ienākuma daļa.
+11. Šā likuma izpratnē dividendēm pielīdzināms ienākums ir individuālā uzņēmuma (arī zemnieka vai zvejnieka saimniecības), kas ir uzņēmumu ienākuma nodokļa maksātājs, īpašnieka ienākums, veicot individuālā uzņēmuma (arī zemnieka vai zvejnieka saimniecības) pārskata gada un iepriekšējo gadu nesadalītās peļņas sadali.
