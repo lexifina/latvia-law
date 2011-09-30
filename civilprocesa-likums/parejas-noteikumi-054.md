@@ -1,0 +1,1 @@
+54. Līdz 2011.gada 30.septembrim samaksāto valsts nodevu lietās par saistību piespiedu izpildīšanu brīdinājuma kārtībā atmaksā Civilprocesa likumā noteiktajā kārtībā, kāda bija spēkā līdz 2011.gada 30.septembrim.

@@ -1,6 +1,6 @@
 396.pants. Pieteikums par nekustamā īpašuma labprātīgu pārdošanu izsolē tiesas ceļā
 (1) Pieteikumu par nekustamā īpašuma labprātīgu pārdošanu izsolē tiesas ceļā var iesniegt īpašnieks vai ķīlas ņēmējs, kuram ir tiesības pārdot ķīlu par brīvu cenu.
-(2) Pieteikumam par nekustamā īpašuma labprātīgu pārdošanu izsolē tiesas ceļā pievienojami pārdošanas nosacījumi un apliecināta izdruka no attiecīgā zemesgrāmatas nodalījuma, kurā norādīti spēkā esošie ieraksti un atzīmes, bet, ja pieteikumu iesniedzis ķīlas ņēmējs, - arī ķīlas līguma noraksts, pierādījumi par parādnieka brīdinājumu, ja vien no likuma neizriet, ka šāds brīdinājums nav nepieciešams.
+(2) Pieteikumam par nekustamā īpašuma labprātīgu pārdošanu izsolē tiesas ceļā pievienojami pārdošanas nosacījumi un apliecināta izdruka no attiecīgā zemesgrāmatas nodalījuma, kurā norādīti spēkā esošie ieraksti un atzīmes, bet, ja pieteikumu iesniedzis ķīlas ņēmējs, - arī ķīlas līguma noraksts, pierādījumi par parādnieka brīdinājumu, ja vien no likuma neizriet, ka šāds brīdinājums nav nepieciešams. Apliecinājums par brīdinājuma izsniegšanu var būt arī zvērināta tiesu izpildītāja vai viņa palīga sastādīts akts par atteikšanos saņemt brīdinājumu.
 (3) Pārdošanas nosacījumos norāda:
 1) pārdodamā nekustamā īpašuma sastāvu;
 2) nekustamā īpašuma apgrūtinājumus un ieķīlājumus;

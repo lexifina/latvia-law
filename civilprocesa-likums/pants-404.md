@@ -4,4 +4,4 @@
 (3) Pieteikumam pievieno:
 1) bezstrīdus piespiedu kārtībā izpildāmo aktu un tā norakstu, bet pēc vekseļa - arī protesta aktu;
 2) dokumentu par valsts nodevas samaksu;
-3) pierādījumu par brīdinājuma izsniegšanu parādniekam, ja no paša akta vai likuma neizriet, ka šāds brīdinājums nav nepieciešams.
+3) pierādījumu par brīdinājuma izsniegšanu parādniekam (tajā skaitā nekustamā īpašuma īpašniekam vai komercķīlas devējam), ja no likuma neizriet, ka šāds brīdinājums nav nepieciešams. Apliecinājums par brīdinājuma izsniegšanu var būt arī zvērināta tiesu izpildītāja vai viņa palīga sastādīts akts par atteikšanos saņemt brīdinājumu.

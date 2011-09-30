@@ -3,6 +3,7 @@
 (2) Prasības pieteikumā norādāms:
 1) tās tiesas nosaukums, kurai iesniegts pieteikums;
 2) prasītāja, kā arī viņa pārstāvja, ja prasību ceļ pārstāvis, atbildētāja, trešās personas vārds, uzvārds, personas kods un dzīvesvieta, bet juridiskajai personai - tās nosaukums, reģistrācijas numurs un atrašanās vieta (juridiskā adrese). Atbildētāja personas kodu vai reģistrācijas numuru norāda, ja tas ir zināms;
+2¹) prasībās par naudas summas piedziņu - kredītiestādes nosaukums un konta numurs, kurā veicama samaksa, ja tāds ir;
 3) prasības priekšmets;
 4) prasības summa, ja prasība ir novērtējama naudas izteiksmē, kā arī piedzenamās vai apstrīdamās summas aprēķins;
 5) apstākļi, ar kuriem prasītājs pamato savu prasījumu, un pierādījumi, kas tos apstiprina;

@@ -14,7 +14,7 @@ g) vairāk par 500 000 latiem - 2490 latu plus 0,05 procenti no prasības summas
 4¹) par pieteikumu par autortiesību un blakustiesību, datu bāzu aizsardzības (sui generis), preču zīmju un ģeogrāfiskās izcelsmes norāžu, patentu, dizainparaugu, augu šķirņu, pusvadītāju izstrādājumu topogrāfiju (turpmāk - intelektuālā īpašuma tiesības) pārkāpumiem un aizsardzību - 150 latu;
 5) par prasības nodrošinājuma pieteikumu vai pagaidu aizsardzības līdzekļa pieteikumu - 0,5 procenti no prasības summas, bet ne mazāk par 50 latiem;
 6) par pierādījumu nodrošināšanas pieteikumu, ja tas iesniegts pirms prasības celšanas, - 20 latu;
-7) par pieteikumu par bezstrīdus piespiedu izpildīšanu, par saistību piespiedu izpildīšanu brīdinājuma kārtībā vai par nekustamā īpašuma labprātīgu pārdošanu izsolē tiesas ceļā - 2 procenti no parāda summas vai atdodamās vai labprātīgā izsolē pārdodamās mantas vērtības, bet ne vairāk par 350 latiem;
+7) par pieteikumu par bezstrīdus piespiedu izpildīšanu, par saistību piespiedu izpildīšanu brīdinājuma kārtībā, par pieteikumu Eiropas maksājuma rīkojumam saskaņā ar Eiropas Parlamenta un Padomes 2006.gada 12.decembra regulu (EK) Nr. 1896/2006, ar ko izveido Eiropas maksājuma rīkojuma procedūru (turpmāk - Eiropas Parlamenta un Padomes regula Nr. 1896/2006), vai par nekustamā īpašuma labprātīgu pārdošanu izsolē tiesas ceļā - 2 procenti no parāda summas vai atdodamās vai labprātīgā izsolē pārdodamās mantas vērtības, bet ne vairāk par 350 latiem;
 8) par pieteikumu par izpildu raksta izdošanu uz pastāvīgās šķīrējtiesas sprieduma pamata vai ārvalsts šķīrējtiesas nolēmuma atzīšanu un izpildīšanu - 1 procents no parāda summas, bet ne vairāk par 200 latiem;
 9) par pieteikumu par tiesvedības atjaunošanu un lietas jaunu izskatīšanu lietā, kurā taisīts aizmugurisks spriedums, - tādā pašā apmērā kā par prasības pieteikumu;
 10) par prasības pieteikumu par kopīgas mantas dalīšanu - tādā pašā apmērā kā par prasības pieteikumu vispārējā kārtībā;
@@ -36,6 +36,6 @@ d) testamentārajiem vai līgumiskajiem mantiniekiem, ja tie ir sabiedriskā lab
 3) (izslēgts ar 31.10.2002. likumu).
 (3) Lietās par apstiprināšanu mantojuma tiesībās un pēdējās gribas rīkojuma akta vai mantojuma līguma spēkā stāšanos šā panta otrajā daļā noteiktā valsts nodeva maksājama, saņemot sprieduma norakstu pēc sprieduma stāšanās likumīgā spēkā vai arī saņemot pēdējās gribas rīkojuma aktu vai mantojuma līgumu ar uzrakstu par tā stāšanos likumīgā spēkā.
 (4) Par apelācijas sūdzību maksājama valsts nodeva atbilstoši likmei, kāda jāmaksā, iesniedzot prasības pieteikumu (pieteikumu sevišķās tiesāšanas kārtības lietā), bet mantiska rakstura strīdos - likmei, kuru aprēķina atbilstoši strīda summai pirmās instances tiesā.
-(5) Iesniedzot blakus sūdzību par tiesas lēmumu, maksājama valsts nodeva - 20 latu.
+(5) Iesniedzot blakus sūdzību par tiesas lēmumu, izņemot lēmumu, ar kuru atteikts atbrīvot no tiesas izdevumu samaksas valsts ienākumos, maksājama valsts nodeva - 20 latu.
 (6) Iesniedzot izpildu rakstu vai citu izpildu dokumentu izpildei, maksājama valsts nodeva - 2 lati.
 (7) Iesniedzot pieteikumu par ārvalsts tiesas nolēmuma atzīšanu un izpildīšanu, maksājama valsts nodeva - 20 latu.

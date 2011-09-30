@@ -1,5 +1,5 @@
 211.pants. Lēmums par lietas izskatīšanas atlikšanu
 (1) Lēmumu par lietas izskatīšanas atlikšanu ieraksta tiesas sēdes protokolā.
-(2) Lēmumā par lietas izskatīšanas atlikšanu jāmin visas tās procesuālās darbības, kuras jāizpilda līdz nākamajai tiesas sēdei, kā arī jānosaka nākamās tiesas sēdes diena.
+(2) Lēmumā par lietas izskatīšanas atlikšanu jāmin visas tās procesuālās darbības, kuras jāizpilda līdz nākamajai tiesas sēdei, kā arī jānosaka nākamās tiesas sēdes diena. Ja tiesa atliek lietas izskatīšanu šā likuma 209.panta 7.punktā paredzētajā gadījumā, nākamā tiesas sēde nosakāma tikai pēc tam, kad ir ievēroti Eiropas Parlamenta un Padomes regulas Nr. 1393/2007 19.panta 2.punktā vai 1965.gada 15.novembra Hāgas konvencijas par tiesas un ārpustiesas dokumentu izsniegšanu civillietās un komerclietās (turpmāk - Hāgas 1965.gada konvencija) 15.panta otrajā daļā minētie nosacījumi vai, ja šajā pantā minētie tiesību akti nav piemērojami, ir veikti līdzvērtīgi pasākumi.
 (3) Nākamās tiesas sēdes dienu tiesa paziņo pret parakstu personām, kuras ieradušās uz tiesas sēdi. Klātneesošās personas no jauna uzaicina vai izsauc uz tiesas sēdi.
 (4) Lēmums par lietas izskatīšanas atlikšanu nav pārsūdzams, izņemot lēmumu, kurā nav noteikta nākamā tiesas sēdes diena.

@@ -12,6 +12,6 @@
 8) izsoles laiku un vietu;
 8¹) vai izsoles cena apliekama ar pievienotās vērtības nodokli un kāda ir šīs cenas apliekamā vērtība;
 9) nodrošinājuma summu, kas iemaksājama tiesu izpildītāja depozīta kontā.
-(4) Par nekustamā īpašuma izsoli tiesu izpildītājs vismaz divas nedēļas iepriekš ierakstītā sūtījumā paziņo parādniekam un piedzinējam, nekustamā īpašuma īpašniekam, kopīpašniekam, hipotekārajam kreditoram un personai, kuras labā nostiprināta ķīlas tiesību vai aizlieguma atzīme, ja tāda ir, vienlaikus paziņojot, vai izsoles cena apliekama ar pievienotās vērtības nodokli un kāda ir šīs cenas apliekamā vērtība.
+(4) Par nekustamā īpašuma izsoli tiesu izpildītājs vismaz divas nedēļas iepriekš ierakstītā sūtījumā paziņo parādniekam un piedzinējam, nekustamā īpašuma īpašniekam, kopīpašniekam, izņemot tādas dzīvojamās mājas kopīpašniekus, kura nav sadalīta dzīvokļu īpašumos, hipotekārajam kreditoram un personai, kuras labā nostiprināta ķīlas tiesību vai aizlieguma atzīme, ja tāda ir, vienlaikus paziņojot, vai izsoles cena apliekama ar pievienotās vērtības nodokli un kāda ir šīs cenas apliekamā vērtība.
 (5) No izsoles izsludināšanas dienas visi dokumenti, kas attiecas uz pārdošanu izsolē, ir pieejami visām personām, kuras vēlas ar tiem iepazīties.
 (6) Izziņojot nekustamā īpašuma izsoli, piemērojami arī šā likuma 584.panta ceturtās daļas noteikumi.

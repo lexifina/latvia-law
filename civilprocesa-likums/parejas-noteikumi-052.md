@@ -1,0 +1,1 @@
+52. Šā likuma 133.panta pirmās daļas 3.punkts, 30.³ nodaļa, kā arī grozījumi šā likuma 37.panta pirmajā daļā, 406.⁴ panta otrajā un ceturtajā daļā, 406.⁶ panta otrajā un trešajā daļā, 406.⁸ panta otrajā un trešajā daļā, 450.panta pirmajā un trešajā daļā un 486.panta piektajā daļā stājas spēkā 2011.gada 1.oktobrī.

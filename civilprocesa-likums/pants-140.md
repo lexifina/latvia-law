@@ -7,4 +7,4 @@
 (6) Noraidot prasību, tiesa spriedumā atceļ prasības nodrošinājumu. Prasības nodrošinājums saglabājas līdz dienai, kad spriedums stājas likumīgā spēkā.
 (7) Ja prasība atstāta bez izskatīšanas vai tiesvedība izbeigta, tiesa lēmumā atceļ prasības nodrošinājumu. Prasības nodrošinājums saglabājas līdz dienai, kad lēmums stājas likumīgā spēkā.
 (8) Ja lēmums par prasības nodrošinājumu pieņemts pirms prasības celšanas un tiesas noteiktajā termiņā prasība nav celta, tiesnesis pēc iespējamā prasītāja vai atbildētāja pieteikuma saņemšanas pieņem lēmumu par nodrošinājuma atcelšanu.
-(9) Šā panta trešajā un piektajā daļā minētos pieteikumus izlemj tiesas sēdē, iepriekš par to paziņojot lietas dalībniekiem. Šo personu neierašanās nav šķērslis pieteikuma izskatīšanai.
+(9) Šā panta trešajā un piektajā daļā minētos pieteikumus izlemj tiesas sēdē, iepriekš par to paziņojot lietas dalībniekiem. Šo personu neierašanās nav šķērslis pieteikuma izskatīšanai. Tiesas sēdes diena nosakāma ne vēlāk kā 30 dienu laikā pēc pieteikuma saņemšanas.

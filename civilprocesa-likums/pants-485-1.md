@@ -1,0 +1,8 @@
+485.¹ pants. Pieteikuma iesniegšana
+(1) Lietas jaunu izskatīšanu sakarā ar nolēmuma pārskatīšanu var ierosināt atbildētājs, pamatojoties uz Eiropas Parlamenta un Padomes 2004.gada 21.aprīļa regulas (EK) Nr. 805/2004, ar ko izveido Eiropas izpildes rīkojumu neapstrīdētiem prasījumiem (turpmāk - Eiropas Parlamenta un Padomes regula Nr. 805/2004), 19.pantu, Eiropas Parlamenta un Padomes regulas Nr. 861/2007 18.pantu, Eiropas Parlamenta un Padomes regulas Nr. 1896/2006 20.pantu vai Padomes regulas Nr. 4/2009 19.pantu, iesniedzot pieteikumu:
+1) par rajona (pilsētas) tiesas sprieduma vai lēmuma pārskatīšanu - attiecīgajai apgabaltiesai;
+2) par apgabaltiesas sprieduma vai lēmuma pārskatīšanu - Augstākās tiesas Civillietu tiesu palātai;
+3) par Tiesu palātas sprieduma vai lēmuma pārskatīšanu - Augstākās tiesas Senāta Civillietu departamentam.
+(2) Pieteikumu var iesniegt 45 dienu laikā no dienas, kad uzzināti šā panta pirmajā daļā minētajās Eiropas Savienības tiesību normās paredzētie pārskatīšanas apstākļi.
+(3) Pieteikumu nevar iesniegt, ja ir iestājies noilgums tam, lai iesniegtu izpildei izpildu dokumentu par attiecīgo nolēmumu.
+(4) Pieteikumu, kurā nav norādīti apstākļi, kas saskaņā ar šā panta pirmajā daļā minētajām Eiropas Savienības tiesību normām var tikt atzīti par nolēmuma pārskatīšanas apstākļiem, nepieņem un atdod atpakaļ iesniedzējam. Tiesnesis atsakās pieņemt izskatīšanai pieteikumu par lietas jaunu izskatīšanu sakarā ar nolēmuma pārskatīšanu arī tad, ja pieteikums iesniegts atkārtoti un no tā neizriet, ka jautājuma izlemšanai nolēmuma pārskatīšanas apstākļi ir mainījušies. Par šādu tiesneša lēmumu var iesniegt blakus sūdzību.
