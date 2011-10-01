@@ -21,6 +21,7 @@
 3) apmeklēt probācijas klientu viņa dzīvesvietā laikā no plkst. 23.00 līdz 7.00, ja pienākumu minētajā laikā atrasties dzīvesvietā probācijas klientam uzlikusi tiesa;
 4) saņemt informāciju par probācijas klienta iztikas avotiem;
 5) noteikt tiesas uzliktā pienākuma izpildes kārtību, ja tiesa uzlikusi tādu pienākumu, kura izpildes kārtība nav noteikta kriminālsodu izpildi reglamentējošos normatīvajos aktos.
+(2¹) Valsts probācijas dienesta ierēdņiem, nodrošinot papildsoda - probācijas uzraudzība - izpildi, papildus šā panta pirmajā un 1.¹ daļā noteiktajām tiesībām ir šā panta otrās daļas 1., 2. un 4.punktā minētās tiesības, kā arī tiesības probācijas klientam noteikt kriminālsodu izpildi reglamentējošos normatīvajos aktos paredzētos pienākumus un kontrolēt to izpildi.
 (3) Ja probācijas klients ir nepilngadīgs, viņa piekrišana šā panta 1.¹ daļas 6. un 7.punktā minētajos gadījumos nav nepieciešama.
 (4) Sagatavojot izvērtēšanas ziņojumu, Valsts probācijas dienesta ierēdņiem papildus šā panta pirmajā un 1.¹ daļā minētajām tiesībām ir arī šā panta otrās daļas 4.punktā minētās tiesības.
 (5) Valsts probācijas dienesta ierēdņiem un darbiniekiem ir tiesības Ministru kabineta noteiktajā kārtībā pārbaudīt probācijas klientu, lai konstatētu, vai viņš ir lietojis alkoholu, narkotiskās vai psihotropās vielas.
