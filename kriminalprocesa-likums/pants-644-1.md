@@ -1,0 +1,3 @@
+644.¹ pants. Probācijas uzraudzības aizstāšana vai atcelšana
+(1) Ja notiesātais, kuram piemērots papildsods - probācijas uzraudzība -, probācijas uzraudzības laikā bez attaisnojoša iemesla pārkāpj tās noteikumus, rajona (pilsētas) tiesas tiesnesis pēc notiesātā dzīvesvietas uz Valsts probācijas dienesta iesnieguma pamata var aizstāt neizciesto papildsoda laiku ar brīvības atņemšanu saskaņā ar Krimināllikumā noteikto.
+(2) Ja ir saņemts Valsts probācijas dienesta iesniegums, rajona (pilsētas) tiesas tiesnesis pēc notiesātā dzīvesvietas saskaņā ar Krimināllikumā noteikto var samazināt probācijas uzraudzības termiņu vai probācijas uzraudzību atcelt.
