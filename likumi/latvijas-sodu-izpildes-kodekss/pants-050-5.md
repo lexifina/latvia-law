@@ -6,7 +6,8 @@ Daļēji slēgtajā cietumā sodu izcieš:
 4) notiesātie par mazāk smaga nozieguma aiz neuzmanības izdarīšanu, ja piespriesta brīvības atņemšana uz laiku, ilgāku par pieciem gadiem;
 5) vīrieši par smaga vai sevišķi smaga nozieguma izdarīšanu, ja viņi līdz nozieguma izdarīšanai nebija sasnieguši astoņpadsmit gadu vecumu;
 6) personas, kurām naudas sods aizstāts ar brīvības atņemšanu;
-7) personas, kurām neizciestais papildsods - policijas kontrole - aizstāts ar brīvības atņemšanu;
+7) (izslēgts ar 21.07.2011. likumu);
+7¹) personas, kurām neizciestais papildsods - probācijas uzraudzība - aizstāts ar brīvības atņemšanu;
 8) notiesātie, kas pārvietoti no slēgtajiem cietumiem sakarā ar priekšzīmīgu uzvedību;
 9) notiesātie, kas pārvietoti no atklātajiem cietumiem sakarā ar rupjiem vai sistemātiskiem disciplīnas pārkāpumiem;
 10) notiesātie, kas pārvietoti no audzināšanas iestādes nepilngadīgajiem pēc pilngadības sasniegšanas, ja viņi sodīti par smaga vai sevišķi smaga nozieguma izdarīšanu.

@@ -1,0 +1,2 @@
+138.² pants. Notiesātā pienākums pieteikties probācijas uzraudzības izpildes uzsākšanai
+Notiesātajam, kuram piespriesta probācijas uzraudzība, piecu darbdienu laikā pēc atbrīvošanas no brīvības atņemšanas soda vai aresta izpildes iestādes vai pēc tiesas sprieduma spēkā stāšanās dienas ir jāierodas Valsts probācijas dienesta teritoriālajā struktūrvienībā atbilstoši deklarētajai dzīvesvietai, lai pieteiktos soda izpildes uzsākšanai.

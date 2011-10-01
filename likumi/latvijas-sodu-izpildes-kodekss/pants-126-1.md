@@ -1,4 +1,0 @@
-126.¹ pants. Bāriņtiesas informēšana policijas kontroles izpildes laikā
-Valsts policijas teritoriālā struktūrvienība nekavējoties nosūta bāriņtiesai informāciju par notiesāto, ja papildsoda - policijas kontrole - izpildes laikā iegūtas ziņas, kas rada pamatotas aizdomas par iespējamu bērna veselības, dzīvības un pilnvērtīgas attīstības apdraudējumu un notiesātais dzīvo vai plāno dzīvot ģimenē, kurā ir bērni. Informācijā norāda notiesātā vārdu, uzvārdu, personas kodu, Krimināllikuma pantu, pēc kura viņš notiesāts, piespriestās policijas kontroles termiņu un informāciju, kas norāda uz iespējamu bērna apdraudējumu.
-Šajā pantā minēto informāciju nosūta bāriņtiesai, kuras darbības teritorijā uzturas notiesātais un iespējami apdraudētais bērns.
-Šajā pantā minētā informācija ir ierobežotas pieejamības informācija.
