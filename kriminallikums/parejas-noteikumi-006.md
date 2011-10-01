@@ -1,1 +1,1 @@
-6. Grozījums šā likuma 61.panta ceturtajā daļā par obligāto pienākumu piedalīties probācijas programmās stājas spēkā 2013.gada 1.janvārī.
+6. Grozījums šā likuma 61.panta ceturtajā daļā par obligāto pienākumu piedalīties probācijas programmās stājas spēkā 2013.gada 1.janvārī. Attiecībā uz personām, kas sodītas pēc šā likuma 159., 160., 161., 162., 162.¹, 164., 165. un 166.panta, grozījums šā likuma 61.panta ceturtajā daļā par obligāto pienākumu piedalīties probācijas programmās stājas spēkā 2011.gada 1.oktobrī.

@@ -1,0 +1,1 @@
+12. Papildsodu - policijas kontroli - turpina piemērot personām, kuras līdz 2011.gada 30.septembrim izdarījušas šā likuma 159., 160., 164., 165. un 166.pantā paredzēto noziedzīgo nodarījumu, un personām, kuras līdz 2014.gada 31.decembrim izdarījušas citu šā likuma sevišķās daļas pantā paredzēto noziedzīgo nodarījumu.
