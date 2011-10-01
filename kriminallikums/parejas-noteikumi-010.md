@@ -1,0 +1,1 @@
+10. Grozījumi šā likuma 36.panta otrās daļas 5.punktā, 45.pantā, 52.panta pirmās daļas 3.punktā un 55.panta piektajā daļā par papildsoda - policijas kontroles - izslēgšanu stājas spēkā 2015.gada 1.janvārī.

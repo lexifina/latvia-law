@@ -1,0 +1,1 @@
+14. Papildsodu - probācijas uzraudzību - sāk piemērot ar 2011.gada 1.oktobri personām, kuras izdarījušas šā likuma 159., 160., 161., 162., 162.¹, 164., 165. un 166.pantā paredzēto noziedzīgo nodarījumu, bet ar 2015.gada 1.janvāri - personām, kuras izdarījušas citu šā likuma sevišķās daļas pantā paredzēto noziedzīgo nodarījumu.
