@@ -1,0 +1,1 @@
+4. Līdz dienai, kad par Latvijas Nacionālo bruņoto spēku karavīru dalību Ziemeļatlantijas līguma organizācijas vadītajā operācijā Afganistānā Starptautisko drošības atbalsta spēku sastāvā lemj 11.Saeima, bet ne ilgāk kā līdz 2012.gada 1.janvārim Ministru kabinets ir tiesīgs lemt par šo jautājumu Apvienoto Nāciju Organizācijas apstiprinātā mandāta ietvaros.
