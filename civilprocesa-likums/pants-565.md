@@ -5,7 +5,9 @@
 3) ja piedzinējs atteicies saņemt parādniekam izņemtos priekšmetus, kas norādīti tiesas spriedumā;
 4) ja pēc piedzinēja norādītās adreses parādnieks nedzīvo vai nestrādā vai tur neatrodas viņa manta;
 5) ja piedzinējs, kas nav atbrīvots no sprieduma izpildes izdevumu samaksas, nav tos samaksājis;
-6) ja, piemērojot piedzinēja norādīto piespiedu izpildes līdzekli, spriedumu izpildīt nav iespējams un piedzinējs 10 dienu laikā pēc uzaicinājuma izsniegšanas nav paziņojis par cita piespiedu izpildu līdzekļa piemērošanu.
+6) ja, piemērojot piedzinēja norādīto piespiedu izpildes līdzekli, spriedumu izpildīt nav iespējams un piedzinējs 10 dienu laikā pēc uzaicinājuma izsniegšanas nav paziņojis par cita piespiedu izpildu līdzekļa piemērošanu;
+7) ja lietā par bērna nogādāšanu atpakaļ uz valsti, kurā ir viņa dzīvesvieta, tiesu izpildītājs konstatē, ka bērna atrašanās vieta ir ārvalstī;
+8) ja lietā par bērna nogādāšanu atpakaļ uz valsti, kurā ir viņa dzīvesvieta, piedzinējs pēc tiesu izpildītāja, Tieslietu ministrijas vai bāriņtiesas uzaicinājuma divas reizes nav norādījis laiku un vietu, kad un kur viņam nogādājams bērns, vai laiku un vietu (pēc iespējas tuvāk bērna atrašanās vietai), kad un kur tiksies ar bērnu, lai atjaunotu saikni starp piedzinēju un bērnu.
 (2) Šā panta pirmās daļas 2., 3. un 4.punktā minētajos gadījumos tiesu izpildītājs sastāda attiecīgu aktu.
 (2¹) Ja izpildu lietā par periodisku maksājumu piedziņu pilnībā tiek segts parāds un sprieduma izpildes izdevumi, izpildu dokumentu izsniedz piedzinējam.
 (3) Izpildu dokumentu piedzinējam izsniedz, ja ir segti sprieduma izpildes izdevumi, izņemot gadījumu, kad sprieduma izpildes izdevumus saskaņā ar šā likuma noteikumiem maksā piedzinējs. Izsniedzot izpildu dokumentu piedzinējam, tiesu izpildītājs atceļ visus pieņemtos piespiedu izpildes līdzekļus.

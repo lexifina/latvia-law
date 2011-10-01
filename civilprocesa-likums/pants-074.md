@@ -21,5 +21,5 @@
 (6) Pusēm savas tiesības jāizmanto un pienākumi jāizpilda godprātīgi.
 (7) Pusēm ir pienākums:
 1) ierasties pēc tiesas aicinājuma tiesā;
-2) savlaicīgi rakstveidā paziņot par iemesliem, kuru dēļ nevar ierasties uz tiesas sēdi;
+2) savlaicīgi rakstveidā paziņot par iemesliem, kuru dēļ nevar ierasties uz tiesas sēdi, iesniedzot par to pierādījumus;
 3) izpildīt citus procesuālos pienākumus, kuri tām uzlikti saskaņā ar šo likumu.

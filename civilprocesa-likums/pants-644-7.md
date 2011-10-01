@@ -3,7 +3,7 @@
 (2) Pieteikums iesniedzams rajona (pilsētas) tiesai pēc pieteicēja dzīvesvietas vai pēc bērna dzīvesvietas, kurā tas mitis pirms prettiesiskās pārvietošanas vai aizturēšanas.
 (3) Pieteikumā norāda:
 1) tās tiesas nosaukumu, kurai pieteikums iesniegts;
-2) pieteicēja vārdu, uzvārdu, personas kodu (ja tāda nav, citus identifikācijas datus) un dzīvesvietu;
+2) pieteicēja vārdu, uzvārdu, personas kodu (ja tāda nav, citus identifikācijas datus), dzīvesvietu un korespondences adresi Latvijā tiesas dokumentu saņemšanai;
 3) prettiesiski pārvietotā vai aizturētā bērna vārdu, uzvārdu, personas kodu (ja tāda nav, dzimšanas datus) un citas ziņas par bērnu, kā arī ziņas par bērna iespējamo atrašanās vietu un tās personas identitāti, ar kuru kopā bērns varētu atrasties;
 4) atbildētāja vārdu, uzvārdu, personas kodu (ja tāda nav, citus identifikācijas datus) un dzīvesvietu vai ziņas par tā atrašanās vietu;
 5) apstākļus, kas apstiprina pieteicēja aizgādības vai aizbildnības tiesības;

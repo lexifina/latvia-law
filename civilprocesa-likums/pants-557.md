@@ -6,4 +6,5 @@ Piespiedu izpildes līdzekļi ir:
 4) tiesas piespriestās mantas nodošana piedzinējam un ar tiesas spriedumu uzlikto darbību izpildīšana;
 5) spriedumā norādīto personu un mantu izlikšana no telpām;
 6) ievešana valdījumā;
+6¹) bērna nogādāšana atpakaļ uz valsti, kurā ir viņa dzīvesvieta;
 7) citi līdzekļi, kas norādīti spriedumā.

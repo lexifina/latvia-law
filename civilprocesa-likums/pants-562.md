@@ -13,7 +13,8 @@
 a) attiecībā uz parādnieku izbeigts tiesiskās aizsardzības process,
 b) attiecībā uz parādnieku pasludināta tiesiskās aizsardzības procesa īstenošana un spriedumā par tiesiskās aizsardzības procesa īstenošanu nav norādīts, ka par nodrošinājumu kalpojošā (ieķīlātā) parādnieka manta ir iekļauta tiesiskās aizsardzības procesa pasākumu plānā un uz to attiecināmi ierobežojumi, saskaņā ar kuriem nodrošinātie kreditori nedrīkst īstenot savas tiesības uz šo mantu,
 c) tiesa šā likuma 341.⁵ panta otrās daļas 2.punktā minētajā gadījumā devusi atļauju pārdot ieķīlāto parādnieka mantu;
-11) šā likuma 560.panta pirmās daļas 8.punktā paredzētajā gadījumā - līdz tiesas nolēmumam par bankrota procedūras izbeigšanu vai līdz tiesas nolēmumam par saistību dzēšanas procedūras izbeigšanu. Izpildu lietvedību atjauno atlikušā parāda apmērā.
+11) šā likuma 560.panta pirmās daļas 8.punktā paredzētajā gadījumā - līdz tiesas nolēmumam par bankrota procedūras izbeigšanu vai līdz tiesas nolēmumam par saistību dzēšanas procedūras izbeigšanu. Izpildu lietvedību atjauno atlikušā parāda apmērā;
+12) šā likuma 560.panta pirmās daļas 9.punktā paredzētajā gadījumā - līdz bērna atrašanās vietas noskaidrošanai.
 (2) Laikā, kad izpildu lietvedība ir apturēta, tiesu izpildītājs piespiedu izpildes darbības neveic.
 (2¹) Tiesu izpildītājs šā likuma 560.panta 7. un 8.punktā minētajos gadījumos uz izpildu lietvedības apturēšanas laiku aptur izdoto rīkojumu darbību, saglabājot piemērotos piespiedu izpildes līdzekļus. Tiesu izpildītājs paziņo mantas glabātājam par pienākumu nodot administratoram mantu, kuras pārdošana nav uzsākta. Piemērotie piespiedu izpildes līdzekļi atceļami, ja:
 1) tiesu izpildītājam iesniegts tiesiskās aizsardzības procesa pasākumu plāns, kurā paredzēta rīcība ar to parādniekam piederošo mantu, kurai tiesu izpildītājs piemērojis piespiedu izpildes līdzekļus;

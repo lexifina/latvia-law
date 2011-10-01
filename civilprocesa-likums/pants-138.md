@@ -10,7 +10,7 @@
 (2) Nodrošinot prasību ar aizlieguma atzīmes ierakstīšanu attiecīgās kustamas mantas reģistrā vai citā publiskā reģistrā, lēmumā norāda, kāda veida aizliegums ierakstāms.
 (3) Ja prasības priekšmets ir īpašuma tiesība uz kustamu mantu vai nekustamo īpašumu vai prasība vērsta uz tiesības nostiprinājuma izdarīšanu, prasības nodrošinājums izdarāms, apķīlājot strīdā esošo kustamo mantu vai ierakstot zemesgrāmatā attiecīgā nekustamā īpašuma nodalījumā aizlieguma atzīmi.
 (4) Ja prasības priekšmets ir lietu tiesība uz nekustamo īpašumu, prasības nodrošinājums izdarāms, ierakstot zemesgrāmatā attiecīgā nekustamā īpašuma nodalījumā apgrūtinājuma atzīmi.
-(5) Ja prasības priekšmets ir naudas prasījums, tās nodrošinājums ar nekustamo īpašumu izdarāms, ierakstot zemesgrāmatā attiecīgā nekustamā īpašuma nodalījumā ķīlas tiesības atzīmi.
+(5) Ja prasības priekšmets ir naudas prasījums, tās nodrošinājums ar nekustamo īpašumu izdarāms, ierakstot zemesgrāmatā attiecīgā nekustamā īpašuma nodalījumā ķīlas tiesības atzīmi, norādot nodrošināmās prasības summas apmēru.
 (6) Kuģa arests piemērojams tikai jūras prasībās.
 (7) Mantas pārdošanas apturēšana nav pieļaujama lietās, kurās prasība celta par naudas piedziņu.
 (8) Apmierinot pieteikumu par prasības nodrošināšanu, lēmumā norāda summu, līdz kurai sniedzas nodrošinājums, bet tā nedrīkst būt lielāka par prasības summu.
