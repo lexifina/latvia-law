@@ -6,7 +6,7 @@ b) par bērnu, kamēr viņš turpina vispārējās, profesionālās, augstākās
 c) par nestrādājošu laulāto,
 d) par nestrādājošiem vecākiem un vecvecākiem,
 e) par mazbērnu vai audzināšanā paņemtu bērnu, ja no viņa vecākiem nav iespējams piedzīt uzturnaudu (alimentus), arī tikmēr, kamēr viņš turpina vispārējās, profesionālās, augstākās vai speciālās izglītības iegūšanu, bet ne ilgāk kā līdz 24 gadu vecuma sasniegšanai,
-f) par brāli, māsu, kas ir jaunāki par 18 gadiem, ja viņiem nav darbaspējīgu vecāku,
+f) par nepilngadīgu brāli un māsu, kā arī par brāli un māsu, kamēr brālis un māsa turpina vispārējās, profesionālās, augstākās vai speciālās izglītības iegūšanu, bet ne ilgāk kā līdz 24 gadu vecuma sasniegšanai, ja viņiem nav darbaspējīgu vecāku,
 g) par apgādībā esošu personu apgādājamiem,
 h) par personu, kuras labā pēc tiesas sprieduma no maksātāja tiek piedzīta uzturnauda (alimenti),
 i) par maksātāju aizbildnībā vai aizgādnībā esošu personu;

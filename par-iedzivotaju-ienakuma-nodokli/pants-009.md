@@ -25,6 +25,7 @@
 19²) ienākumi no personīgā īpašuma (fiziskajai personai piederošas personiskai lietošanai paredzētas tādas kustamas lietas kā mēbeles, apģērbs un citas kustamas lietas) atsavināšanas, izņemot ienākumu no:
 a) pārdošanai izgatavotas vai iegādātas lietas (ķermeniskas vai bezķermeniskas) pārdošanas,
 b) kapitāla pieauguma un pārējā ienākuma no kapitāla;
+c) metāllūžņu pārdošanas;
 20) palīdzība, kas sniegta, pamatojoties uz arodbiedrības institūcijas lēmumu, no arodbiedrības naudas līdzekļiem, kuri veidojas no arodbiedrības biedru naudas maksājumiem un ārvalstu arodbiedrību ziedojumiem (dāvinājumiem) - gada neapliekamā minimuma apmērā;
 21) (izslēgts ar 19.12.2006. likumu);
 22) (izslēgts ar 01.12.2009. likumu);
@@ -51,7 +52,7 @@ b) ienākuma guvējs līdz 2009.gada 1.janvārim saistības ir uzņēmies nolūk
 c) uz saistību samazināšanas vai dzēšanas dienu ienākuma guvēja īpašumā ir ne vairāk kā viens nekustamais īpašums, kura lietošanas veids vai funkcionālā izmantošana ir paredzēta dzīvošanai,
 d) ienākuma guvējs (attiecībā uz aizdevēju) nav un nav bijis ar uzņēmumu saistīta persona likuma "Par uzņēmumu ienākuma nodokli" izpratnē,
 e) aizdevēju un ienākuma guvēju nesaista laulība vai radniecība līdz trešajai pakāpei Civillikuma izpratnē;
-36) uz tiesas sprieduma pamata no valsts budžeta izmaksājamās kompensācijas, kas nav saistītas ar darba attiecībām vai to pārtraukšanu;
+36) uz tiesas sprieduma pamata no valsts budžeta izmaksājamās kompensācijas, kas nav saistītas ar darba attiecībām vai to pārtraukšanu vai kas nav kompensācijas par intelektuālo īpašumu un tiesībām uz to (autoratlīdzība, izpildītājatlīdzība, zinātnes, literatūras un mākslas darbu, atklājumu, izgudrojumu un rūpniecisko paraugu autoru un viņu mantinieku honorāri) vai kompensācijas par tiesībām izmantot tiesības uz intelektuālo īpašumu;
 36¹) uz valsts pārvaldes iestādes vai pašvaldības iestādes, citas atvasinātas publisko tiesību juridiskās personas vai publiskās aģentūras iestādes lēmuma vai tiesas nolēmuma pamata saskaņā ar Valsts pārvaldes iestāžu nodarīto zaudējumu atlīdzināšanas likumu izmaksājamais zaudējumu atlīdzinājums, kurš nav saistīts ar darba (dienesta) attiecībām vai to pārtraukšanu un kuram nav ienākuma gūšanas rakstura;
 37) pabalsts likumos un Ministru kabineta noteikto normu ietvaros amatpersonas (darbinieka), karavīra ievainojuma, sakropļojuma vai citāda veselībai nodarīta kaitējuma gadījumā, kā arī karavīram veselības traucējuma gadījumā, ja tas gūts, pildot amata (dienesta, darba) pienākumus;
 38) pabalsts likumos un Ministru kabineta noteikto normu ietvaros amatpersonas (darbinieka) nāves gadījumā, ja tā gājusi bojā, pildot amata (dienesta, darba) pienākumus, kuru izpilde ir saistīta ar risku, vai mirusi gada laikā pēc nelaimes gadījuma no tajā gūtajiem veselības traucējumiem;

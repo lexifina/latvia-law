@@ -1,6 +1,6 @@
 29. pants. Darba devēja pienākumi
 1. Darba devēja pienākums ir šajā likumā noteiktajos termiņos un kārtībā:
-1) aprēķināt, ieturēt un iemaksāt budžetā algas nodokli no darbiniekam izmaksātajām summām, norādot maksātāja dzīvesvietu;
+1) aprēķināt, ieturēt un iemaksāt budžetā algas nodokli no darbiniekam izmaksātajām summām;
 2) informēt darbinieku un Valsts ieņēmumu dienestu par taksācijas gadā darbiniekam izmaksātajām summām un no tām budžetā iemaksāto algas nodokli;
 3) uzglabāt darba samaksas aprēķināšanu un izmaksu apliecinošus dokumentus likuma "Par grāmatvedību" 10.pantā noteikto termiņu;
 4) par iedzīvotāju ienākuma nodokļa summām, kas katru mēnesi ieturētas no darbinieku darba ienākuma un iemaksātas budžetā, iesniegt ziņojumu Valsts ieņēmumu dienestam termiņā, kāds darba devējam atbilstoši likumam "Par valsts sociālo apdrošināšanu" ir noteikts ziņojuma iesniegšanai par valsts sociālās apdrošināšanas obligātajām iemaksām;

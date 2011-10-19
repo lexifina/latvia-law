@@ -3,6 +3,7 @@
 2. Par ienākuma gūšanas dienu no ienākuma no kapitāla, kas nav kapitāla pieaugums, un ienākuma no personālsabiedrības uzskata dienu, kad ienākums aprēķināts.
 3. Par ienākuma gūšanas dienu no privātajos pensiju fondos veikto iemaksu ieguldīšanas uzskata dienu, kad papildpensijas saņēmējs saņem maksājumu no privātā pensiju fonda.
 3.¹ Par ienākuma no noslēgtajiem dzīvības apdrošināšanas līgumiem ar līdzekļu uzkrāšanu gūšanas dienu uzskata dienu, kad pieprasītā apdrošināšanas atlīdzība tiek izmaksāta.
+3.² Ja dzīvības apdrošināšanas līgums (ar līdzekļu uzkrāšanu) tiek izbeigts pirms termiņa, nesasniedzot šā likuma 8.panta piektās daļas 1.punktā noteikto piecu gadu darbības termiņu, par ienākuma gūšanas dienu uzskata dienu, kad tiek izmaksāta atpirkuma summa.
 4. Ministru kabinets paredz kārtību, kādā nosakāma ienākuma gūšanas diena, ja diena, kad noslēgts līgums par darījumu ar kapitāla aktīviem, naudas saņemšanas diena, īpašuma tiesību pāreja un blakus nosacījumi, lai līgums stātos spēkā, nav vienā taksācijas periodā.
 5. Maksātājam, kas finanšu grāmatvedību kārto divkāršā ieraksta sistēmā un gatavo bilanci un ieņēmumu un izdevumu pārskatu saskaņā ar likuma "Par grāmatvedību" 13.panta sesto daļu, saimnieciskās darbības ienākuma noteikšanai darījumus un notikumus atzīst tajā taksācijas periodā, kad tie notiek, neatkarīgi no tā, kad tiek veikti norēķini.
 6. Par ienākuma gūšanas dienu no šā likuma 3.panta trešās daļas 17.punktā un 8.panta trešās daļas 14.punktā minētā ienākuma ir uzskatāma nomas līguma pārtraukšanas diena.

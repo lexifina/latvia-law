@@ -34,7 +34,7 @@
 4. Ar saimniecisko darbību saistītajos izdevumos netiek ieskaitīti izdevumi, kas atbilstoši likuma "Par uzņēmumu ienākuma nodokli" 5.pantam nav uzskatāmi par tādiem izdevumiem, kas ir tieši saistīti ar saimniecisko darbību.
 5. (Izslēgta ar 19.12.2006. likumu.)
 6. Apliekamajā ienākumā netiek ietverti lauksaimniecības produkti (pašpatēriņš), ko savām vajadzībām izlietojis maksātājs un viņa ģimenes locekļi, kā arī personas, kuras ar maksātāju ir radniecībā līdz trešajai pakāpei vai svainībā līdz otrajai pakāpei.
-7. Ieturot nodokli no metāllūžņu pārdošanas ienākumiem, pirms nodokļa aprēķināšanas no izmaksājamās summas atskaitāmi ar metāllūžņu sagatavošanu un pārdošanu saistītie izdevumi, piemērojot normu 15 procentu apmērā no izmaksājamās summas.
+7. (Izslēgta ar 22.09.2011. likumu)
 8. (Izslēgta ar 13.05.2010. likumu)
 9. Fiziskās personas taksācijas gada saimnieciskās darbības zaudējumi, kas radušies sakarā ar to, ka taksācijas gada ieņēmumi ir mazāki nekā izdevumi un izmaksas, sedzami hronoloģiskā secībā no nākamo triju taksācijas gadu saimnieciskās darbības apliekamā ienākuma. Ieņēmumu, kā arī izdevumu un izmaksu lielumu nosaka atbilstoši šā panta noteikumiem.
 9.¹ Fiziskās personas taksācijas gada saimnieciskās darbības zaudējumus, kas radušies maksātājam - mikrouzņēmuma īpašniekam, kad tas bija mikrouzņēmumu nodokļa maksātājs, nedrīkst pārnest uz nākamajiem taksācijas gadiem, nosakot saimnieciskās darbības apliekamo ienākumu.

@@ -1,0 +1,1 @@
+82. Šā likuma 24.panta septīto daļu un pārejas noteikumu 79., 80. un 81.punktu nepiemēro šā likuma 8.panta ceturtajā daļā minētajiem ienākumiem un fizisko personu gūtajiem ienākumiem par taksācijas gadu, par kuru ir veikta iedzīvotāju ienākuma nodokļa revīzija (audits).

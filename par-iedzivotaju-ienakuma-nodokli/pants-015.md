@@ -6,5 +6,5 @@
 4. Šā likuma 3.panta trešās daļas 7.¹ punktā minētajam ienākumam, ja šā ienākuma izmaksātājs atbilstoši šā likuma 17.panta divpadsmitajai un 12.² daļai ietur nodokli ienākuma izmaksas vietā, tiek piemērota 2 procentu likme no izmaksātās atlīdzības apmēra.
 5. Fiksētā ienākuma nodokļa apmērs ir 5 procenti no taksācijas perioda ieņēmumiem no saimnieciskās darbības. Ieņēmumiem, kas pārsniedz 10 000 latu, tiek piemērota papildu likme 7 procentu apmērā.
 6. Patentmaksas apmērs atkarībā no saimnieciskās darbības jomas, par kurām maksātājs var veikt patentmaksu, ir no 30 līdz 120 latiem mēnesī.
-7. Šā likuma 3.panta trešās daļas 9.¹ punktā un 8.panta trešās daļas 15.punktā minētajam ienākumam tiek piemērota 10 procentu likme.
+7. Šā likuma 3.panta trešās daļas 9.¹ un 9.² punktā un 8.panta trešās daļas 15. un 15.¹ punktā minētajam ienākumam tiek piemērota 10 procentu likme.
 8. Mikrouzņēmuma darbinieka vai mikrouzņēmuma īpašnieka ienākumam piemēro nodokļa likmi atbilstoši Mikrouzņēmumu nodokļa likumam.

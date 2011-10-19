@@ -1,0 +1,1 @@
+83. Attiecībā uz fiziskajām personām, kuras līdz dienai, kad stājušies spēkā grozījumi šā likuma 28.panta 6.punktā, ir uzsākušas saimniecisko darbību, bet nav reģistrējušās Valsts ieņēmumu dienestā kā saimnieciskās darbības veicējas, ir piemērojami šā likuma 28.panta 6.punkta nosacījumi, kas bija spēkā līdz attiecīgo grozījumu spēkā stāšanās dienai.
