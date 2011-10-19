@@ -1,0 +1,1 @@
+13. Valsts sabiedrība ar ierobežotu atbildību "Latvijas Valsts mērnieks" līdz 2012.gada 1.februārim nodod Valsts zemes dienestam visu uzkrāto dokumentāciju attiecībā uz zemes kadastrālo uzmērīšanu, kas veikta par valsts budžeta līdzekļiem.
