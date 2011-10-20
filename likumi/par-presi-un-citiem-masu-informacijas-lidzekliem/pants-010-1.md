@@ -1,0 +1,4 @@
+10.¹ pants. Reģistrācijas lēmuma spēkā stāšanās, paziņošana, apstrīdēšana un pārsūdzēšana
+Lēmums par ieraksta izdarīšanu, ieraksta izdarīšanas atlikšanu vai ieraksta izdarīšanas atteikumu stājas spēkā pēc tā parakstīšanas, ja vien lēmumā nav paredzēts vēlāks spēkā stāšanās datums vai tā spēkā stāšanās ir atkarīga no cita lēmuma spēkā stāšanās. Šādā gadījumā par to izdara attiecīgu atzīmi reģistra ierakstos.
+Lēmums par ieraksta izdarīšanu, ieraksta izdarīšanas atlikšanu vai ieraksta izdarīšanas atteikumu pieņemams 10 dienu laikā no pieteikuma saņemšanas dienas. Uzņēmumu reģistrs lēmumu nosūta pieteikuma iesniedzējam triju dienu laikā (neieskaitot brīvdienas un svētku dienas) no lēmuma pieņemšanas dienas.
+Lēmuma par ieraksta izdarīšanu, ieraksta izdarīšanas atlikšanu vai ieraksta izdarīšanas atteikumu apstrīdēšana vai pārsūdzēšana neaptur tā darbību.

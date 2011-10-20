@@ -1,3 +1,3 @@
 8. pants. Dibināšana
-Tiesības dibināt un izdot masu informācijas līdzekļus ir Latvijas Republikas juridiskajām, kā arī rīcībspējīgām fiziskajām personām.
+Tiesības dibināt un izdot masu informācijas līdzekļus ir juridiskajām un fiziskajām personām, kā arī personālsabiedrībām.
 Attiecības starp dibinātāju, izdevēju un redakciju regulē līgums.
