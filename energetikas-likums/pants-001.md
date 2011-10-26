@@ -1,10 +1,10 @@
 1.pants
 Likumā ir lietoti šādi termini:
-1) enerģija - šā likuma izpratnē: prece ar noteiktu vērtību - iegūtā elektroenerģija vai siltumenerģija, kā arī gāze;
-2) energoapgāde - enerģētikas jomā veicama komercdarbība, kurai ir nepieciešama licence un kura ietver elektroenerģijas vai siltumenerģijas ražošanu, elektroenerģijas, siltumenerģijas vai gāzes iepirkšanu, pārveidi, uzglabāšanu, pārvadi, sadali vai tirdzniecību;
-3) energoapgādes komersants - licencēts komersants, kas nodarbojas ar energoapgādi;
+1) enerģija - šā likuma izpratnē: prece ar noteiktu vērtību - iegūtā elektroenerģija vai siltumenerģija, kā arī dabasgāze;
+2) energoapgāde - enerģētikas jomā veicama komercdarbība, kuru ir nepieciešams licencēt vai reģistrēt un kura ietver elektroenerģijas vai siltumenerģijas ražošanu, elektroenerģijas, siltumenerģijas vai dabasgāzes iepirkšanu, pārveidi, uzglabāšanu, pārvadi, sadali vai tirdzniecību;
+3) energoapgādes komersants - licencēts vai reģistrēts komersants, kas nodarbojas ar energoapgādi;
 4) energoapgādes komersanta objekts - energoapgādes komersantam piederoša vai tā lietošanā esoša manta (ēkas, būves, stacijas, iekārtas, ierīces, ietaises, tīkli, līnijas un to piederumi), kuru tieši izmanto energoapgādei;
-5) energoefektivitāte - enerģijas izmantošanas lietderīguma pakāpe, kas izpaužas kā galaprodukta veida un kvalitātes samērs ar enerģijas patēriņu;
+5) energoefektivitāte - energoresursu izmantošanas lietderīguma pakāpe, kas izpaužas kā galaprodukta veida, kvalitātes un kvantitātes samērs ar energoresursu patēriņu;
 6) energoresursi - apzinātie kurināmā krājumi un enerģijas avoti, kurus var izmantot tiešai lietošanai vai enerģijas iegūšanai;
 7) (izslēgts ar 17.03.2005. likumu);
 8) sekundārie energoresursi - energoresursi, kuri rodas jebkura veida tehnoloģiskajos procesos kā blakusprodukts, arī tehnoloģiskajā procesā neizlietotā enerģija, kas ir derīga tālākai izmantošanai;
@@ -15,7 +15,7 @@ Likumā ir lietoti šādi termini:
 13) enerģijas tirdzniecība - energoapgādes veids, kas ietver enerģijas iepirkšanu pārdošanai un pārdošanu enerģijas lietotājiem;
 14) enerģijas ražošana - energoapgādes veids, kas ietver energoresursu pārveidošanu lietošanai nepieciešamā enerģijā;
 15) (izslēgts ar 17.03.2005. likumu);
-16) kurināmais - nafta un naftas produkti, arī sašķidrinātā naftas gāze, dabasgāze, arī sašķidrinātā dabasgāze, degakmens, degakmens gāze un eļļa, ogles, kūdra, kurināmā koksne un cita biomasa, kuru sadedzina enerģijas iegūšanai;
+16) kurināmais - nafta un naftas produkti, arī sašķidrinātā naftas gāze, dabasgāze, arī sašķidrinātā dabasgāze, degakmens, degakmens gāze un eļļa, ogles, kūdra, kurināmā koksne un cita biomasa, tostarp bioloģiskais šķidrais kurināmais, kuru sadedzina enerģijas iegūšanai;
 17) kurināmā drošības rezerve - energoapgādes komersanta īpašumā esošs noteikts kurināmā krājums, kas ir nepieciešams, lai nodrošinātu enerģijas lietotāju nepārtrauktu apgādi ar attiecīgā veida enerģiju;
 17¹) drošības rezerves - naftas produktu rezerves, ko Latvija uztur noteiktā apjomā saskaņā ar šā likuma 72.panta prasībām;
 18) licence - saskaņā ar likumu izsniegta speciāla atļauja, kas nosaka energoapgādes komersanta tiesības un pienākumu nodarboties ar energoapgādi licences darbības zonā;
@@ -24,7 +24,7 @@ Likumā ir lietoti šādi termini:
 21) horizontālā integrācija - viens energoapgādes komersants vai koncerns veic vismaz vienu no enerģijas ražošanas, pārvades, sadales, piegādes vai dabasgāzes uzglabāšanas funkcijām un kādu darbību, kas nav saistīta ar energoapgādi;
 22) vertikālā integrācija - viens energoapgādes komersants vai koncerns veic vismaz vienu no šādiem energoapgādes veidiem: enerģijas pārvade vai sadale vai dabasgāzes uzglabāšana un vismaz vienu no šādiem energoapgādes veidiem: enerģijas ražošana vai tirdzniecība;
 23) sistēmas operators - energoapgādes komersants, kas pilda enerģijas pārvades, sadales vai dabasgāzes uzglabāšanas funkcijas un atbild par sistēmas ekspluatāciju, uzturēšanas nodrošināšanu un, ja vajadzīgs, - attīstību noteiktā teritorijā, kā arī par sistēmas savstarpēju savienošanu ar citām sistēmām un par sistēmas spēju ilgtermiņā nodrošināt pamatotu pieprasījumu attiecībā uz enerģijas transportēšanu un uzglabāšanu;
-24) atjaunojamie energoresursi - vēja, saules, ģeotermālā, viļņu, paisuma-bēguma, ūdens enerģija, atkritumu poligonu un notekūdeņu attīrīšanas iekārtu gāzes un biogāze, biomasa [bioloģiski noārdāmā frakcija produktos, rūpniecības un sadzīves atkritumos, lauksaimniecības (ieskaitot augu un dzīvnieku izcelsmes vielas), kā arī mežsaimniecības un līdzīgu nozaru ražošanas atlikumos];
+24) atjaunojamie energoresursi - vēja, saules, ģeotermālā, viļņu, paisuma un bēguma, ūdens enerģija, kā arī aerotermālā enerģija (siltumenerģija, kura uzkrājas gaisā), ģeotermālā enerģija (siltumenerģija, kura atrodas zem cietzemes virsmas) un hidrotermālā enerģija (siltumenerģija, kura atrodas virszemes ūdeņos), atkritumu poligonu un notekūdeņu attīrīšanas iekārtu gāzes, biogāze un biomasa;
 25) sistēmas lietotājs - fiziskā vai juridiskā persona, kas izmanto enerģijas pārvades vai sadales sistēmas vai dabasgāzes krātuves pakalpojumus;
 26) savstarpēji savienota sistēma - vairākas sistēmas, kas savienotas savā starpā;
 27) fiksēta maksājuma apjoma līgums - līgums, kurā iekļauta pircēja un pārdevēja vienošanās, ka gadījumā, ja pircējs nevēlas saņemt visu līgumā noteikto preces apjomu, tas maksā par visu līgumā noteikto preces apjomu;
@@ -41,4 +41,6 @@ Likumā ir lietoti šādi termini:
 38) galalietotājs - enerģijas lietotājs, kurš pērk enerģiju izlietošanai paša vajadzībām (galapatēriņam);
 39) mājsaimniecības lietotājs - galalietotājs, kurš pērk un izlieto enerģiju savā mājsaimniecībā paša vajadzībām (galapatēriņam), izņemot komercdarbības vai cita veida profesionālās darbības vajadzībām;
 40) saistītais lietotājs - enerģijas lietotājs, kurš neizmanto iespēju kļūt par tirgus dalībnieku, lai brīvi izvēlētos enerģijas tirgotāju;
-41) tirgotājs - lietotājs, kurš pērk un pārdod (piegādā - pārdošanas nozīmē) enerģiju citam enerģijas lietotājam.
+41) tirgotājs - lietotājs, kurš pērk un pārdod (piegādā - pārdošanas nozīmē) enerģiju citam enerģijas lietotājam;
+42) vispārējās atļaujas noteikumi - specifiskas siltumenerģijas ražošanas un tirdzniecības prasības siltumenerģijas ražotājam vai siltumenerģijas tirgotājam;
+43) bioloģiskais šķidrais kurināmais - no biomasas iegūta šķidrā degviela, kuru izmanto elektroenerģijas vai siltumenerģijas ražošanai, bet neizmanto un nav paredzēts izmantot par degvielu transportlīdzekļos.

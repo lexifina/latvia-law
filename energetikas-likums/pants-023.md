@@ -1,4 +1,5 @@
 23.pants
 (1) Nekustamā īpašuma īpašnieks vai valdītājs nedrīkst bojāt vai pārveidot energoapgādes komersanta objektus, kas izvietoti viņa nekustamajā īpašumā, vai veikt darbības, kas kavētu citu enerģijas lietotāju apgādi.
-(2) Esošo energoapgādes komersantu objektu pārvietošanu pēc pamatotas nekustamā īpašuma īpašnieka prasības veic par viņa līdzekļiem.
+(1¹) Nekustamā īpašuma īpašnieks vai valdītājs nedrīkst veikt darbības, kas varētu kavēt energoapgādes komersantu veikt nekustamajā īpašumā esošo objektu rekonstrukciju, renovāciju vai ekspluatāciju.
+(2) Esošo energoapgādes komersantu objektu pārvietošanu pēc pamatotas nekustamā īpašuma īpašnieka prasības veic par nekustamā īpašuma īpašnieka līdzekļiem.
 (3) Nekustamā īpašuma īpašnieks vai valdītājs nodrošina iespēju energoapgādes komersanta personālam piekļūt pie attiecīgajā īpašumā, arī liegumzonā, slēgtā teritorijā vai ēkā esošajiem energoapgādes komersanta objektiem, lai veiktu šo objektu rekonstrukciju, renovāciju vai ar to ekspluatāciju saistītus darbus. Par remonta vai citu darbu nepieciešamību īpašnieku brīdina vismaz trīs dienas pirms šo darbu uzsākšanas, bet avārijas gadījumā tās seku novēršanu pieļaujams uzsākt bez īpašnieka iepriekšējas brīdināšanas, ja to nav iespējams izdarīt.

@@ -1,2 +1,2 @@
 VIII nodaļa
-Gāzes apgādes sistēma
+Dabasgāzes apgādes sistēma

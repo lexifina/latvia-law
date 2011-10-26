@@ -1,2 +1,2 @@
 II nodaļa
-Energoapgādes komersantu licencēšana un to darbība
+Energoapgādes komersantu licencēšana, reģistrēšana un to darbība
