@@ -1,9 +1,8 @@
 54.pants. Sadarbība ar Valsts sociālās apdrošināšanas aģentūru un ārstniecības iestādēm
 (1) Pēc apdrošinātāja vai Transportlīdzekļu apdrošinātāju biroja pieprasījuma Valsts sociālās apdrošināšanas aģentūra sniedz informāciju par:
-1) cietušajai personai izmaksātā slimības pabalsta apmēru;
-2) cietušajai personai izmaksātās invaliditātes pensijas apmēru;
-3) cietušās personas apgādājamiem izmaksātās apgādnieka zaudējuma pensijas apmēru;
-4) cietušās personas apdrošināšanas iemaksu algu apmēru par pēdējiem sešiem mēnešiem pirms ceļu satiksmes negadījuma.
+1) cietušajai personai aprēķinātā valsts sociālās apdrošināšanas pakalpojuma un valsts sociālā pabalsta apmēru par pieprasījumā norādīto laikposmu, lai saskaņā ar šo likumu apdrošinātājs vai Transportlīdzekļu apdrošinātāju birojs varētu pieņemt lēmumu par apdrošināšanas atlīdzību;
+2) cietušās personas apdrošināšanas iemaksu algas apmēru par pieprasījumā norādīto laikposmu, lai saskaņā ar šo likumu apdrošinātājs vai Transportlīdzekļu apdrošinātāju birojs varētu pieņemt lēmumu par apdrošināšanas atlīdzību;
+3) tās personas darba devēju, ar kuru zaudējumus nodarījušā transportlīdzekļa vadītājs ir darba tiesiskajās vai dienesta attiecībās un pret kuru Transportlīdzekļu apdrošinātāju birojs ir tiesīgs iesniegt regresa prasību, ja pieprasījumā norādītajā laikposmā darba devējs ir aprēķinājis sociālās apdrošināšanas iemaksas.
 (2) Apdrošinātājs vai Transportlīdzekļu apdrošinātāju birojs, kas sedz izdevumus, lēmuma pieņemšanai par apdrošināšanas atlīdzību ir tiesīgs:
 1) rakstveidā pieprasīt un saņemt no ārstniecības iestādes ziņas par ceļu satiksmes negadījumā cietušās personas ārstēšanu, slimības diagnozi un prognozi, kas saistīta ar konkrēto ceļu satiksmes negadījumu (ziņas, ko minētās personas ieguvušas par cietušā ārstēšanu, slimības diagnozi un prognozi, ir konfidenciālas);
 2) izmantot tiesu medicīnas ekspertīzes atzinumus tikai ar procesa virzītāja rakstveida atļauju;

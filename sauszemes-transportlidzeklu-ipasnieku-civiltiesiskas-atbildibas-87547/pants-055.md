@@ -1,4 +1,4 @@
 55.pants. Valsts robežsardzes pienākumi un tiesības transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas pārbaudē, transportlīdzeklim šķērsojot Latvijas Republikas valsts robežu, kas vienlaikus ir Eiropas Ekonomikas zonas ārējā robeža
 Ja pārbaudē konstatēts, ka Latvijas Republikā reģistrēta transportlīdzekļa īpašnieka civiltiesiskā atbildība nav apdrošināta, vai tāda transportlīdzekļa, kas parasti atrodas ārpus Eiropas Ekonomikas zonas teritorijas, vadītājs nevar uzrādīt dokumentu, kurš apliecina transportlīdzekļa īpašnieka civiltiesiskās atbildības obligātās apdrošināšanas līguma spēkā esamību:
 1) transportlīdzekļa iebraukšana Latvijas Republikā ir pieļaujama tikai pēc tā īpašnieka civiltiesiskās atbildības apdrošināšanas;
-2) transportlīdzeklim izbraucot no Latvijas Republikas, Valsts robežsardze sastāda protokolu un veic citas normatīvajos aktos noteiktās darbības.
+2) transportlīdzeklim izbraucot no Latvijas Republikas, Valsts robežsardze veic normatīvajos aktos noteiktās darbības, tai skaitā lemj par administratīvā soda piemērošanu.

@@ -1,4 +1,4 @@
 7.pants. Starptautiskais apdrošināšanas līgums (Zaļā karte)
-(1) Starptautiskais apdrošināšanas līgums (Zaļā karte) ir apdrošināšanas līgums, kas tiek noslēgts attiecībā uz transportlīdzekli, kurš piedalās ceļu satiksmē valstī, kura ir Zaļās kartes sistēmas dalībvalsts.
+(1) Starptautiskais apdrošināšanas līgums (Zaļā karte) ir apdrošināšanas līgums, kas tiek noslēgts attiecībā uz transportlīdzekli, kurš reģistrēts Latvijas Republikā un piedalās ceļu satiksmē valstī, kas ir Zaļās kartes sistēmas dalībvalsts. Par starptautisko apdrošināšanas līgumu (Zaļo karti) uzskatāms arī tāds starptautiskais apdrošināšanas līgums, kas noslēgts attiecībā uz transportlīdzekli, kurš reģistrēts valstī, kas nav Zaļās kartes sistēmas dalībvalsts, ja šāda līguma noslēgšana paredzēta starptautiskajos līgumos.
 (2) Zaļā karte ir spēkā apdrošināšanas polisē norādītajās valstīs.
 (3) Latvijas Republikā reģistrēta transportlīdzekļa īpašnieks starptautisko apdrošināšanas līgumu var noslēgt tikai ar apdrošinātāju, kas ir Transportlīdzekļu apdrošinātāju biroja biedrs.
