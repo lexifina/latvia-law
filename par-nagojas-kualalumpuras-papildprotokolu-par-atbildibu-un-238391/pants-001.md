@@ -1,0 +1,1 @@
+1.pants. 2010.gada 15.oktobra Nagojas-Kualalumpuras papildprotokols par atbildību un atlīdzināšanu, kas pievienots Kartahenas protokolam par bioloģisko drošību (turpmāk - Papildprotokols), ar šo likumu tiek pieņemts un apstiprināts.
