@@ -1,0 +1,1 @@
+11. Grozījumi šā likuma 4.panta otrajā daļā, kas paredz papildu prasības Biroja priekšnieka amata pretendentiem, neattiecas uz personām, kuras pieteikušās konkursā uz Biroja priekšnieka amatu, kas izsludināts līdz šo prasību spēkā stāšanās dienai.

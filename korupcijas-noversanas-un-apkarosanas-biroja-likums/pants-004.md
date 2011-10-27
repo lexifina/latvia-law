@@ -1,9 +1,10 @@
 4.pants. Biroja priekšnieks
 (1) Biroja darbu vada Biroja priekšnieks. Biroja priekšnieku ieceļ amatā uz pieciem gadiem un atbrīvo no amata Saeima pēc Ministru kabineta ieteikuma.
-(2) Uz Biroja priekšnieka amatu Ministru kabinets var izsludināt atklātu konkursu. Par Biroja priekšnieka amata pretendentu var izvirzīt personu, kura atbilst šādām obligātajām prasībām:
-1) ir Latvijas pilsonis;
+(1¹) Uz Biroja priekšnieka amatu Ministru kabinets izsludina atklātu konkursu. Ministru kabinets nosaka Biroja priekšnieka amata pretendentu pieteikšanās nosacījumus un kārtību, kā arī pretendentu atlases un vērtēšanas kārtību. Ministru kabinets izveido Biroja priekšnieka amata pretendentu vērtēšanas komisiju, kuru vada Valsts kancelejas direktors un kuras sastāvā ir Augstākās tiesas priekšsēdētājs, ģenerālprokurors, Satversmes aizsardzības biroja direktors, Drošības policijas priekšnieks vai viņu pilnvarotas amatpersonas.
+(2) Par Biroja priekšnieka amata pretendentu var izvirzīt personu, kura atbilst šādām obligātajām prasībām:
+1) ir Latvijas pilsonis ar nevainojamu reputāciju;
 2) pārvalda latviešu valodu un vismaz divas svešvalodas;
-3) ieguvusi augstāko izglītību un uzkrājusi amatam atbilstošu darba pieredzi;
+3) ieguvusi augstāko profesionālo vai akadēmisko izglītību (izņemot pirmā līmeņa profesionālo izglītību) un jurista kvalifikāciju un uzkrājusi amatam atbilstošu darba pieredzi, no tās vismaz triju gadu pieredzi vadošā amatā valsts pārvaldē vai tiesību aizsardzības jomā.
 4) nav sasniegusi likumā noteikto pensijas vecumu;
 5) nav sodīta par noziedzīgu nodarījumu (neatkarīgi no sodāmības noņemšanas vai dzēšanas);
 6) nav notiesāta par noziedzīgu nodarījumu, atbrīvojot no soda;
