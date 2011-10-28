@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2011.gada 19.oktobra Ministru kabineta noteikumi Nr.800 \"Farmaceitiskās darbības licencēšanas kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "170",
+  "official_journal_page": null,
+  "official_journal_date": "2011-10-27",
+  "entry_into_force": "2011-10-28",
+  "notification_date": "2013-07-17",
+  "commission_reference": "MNE(2013)56771",
+  "nim_celex": "72011L0062LVA_207774",
+  "nim_id": "207774",
+  "transposes_celex": [
+    "32011L0062"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ef5d91ea-998f-4ee6-b9c1-564e6e28a487",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
