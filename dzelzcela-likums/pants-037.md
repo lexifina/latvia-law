@@ -3,3 +3,4 @@
 (2) Dzelzceļa speciālistu profesiju sarakstus, dzelzceļa speciālistiem izvirzāmās kvalifikācijas prasības un kritērijus, zināšanu vai prasmju pārbaudes kārtību, dzelzceļa speciālista apliecības un profesionālās kompetences sertifikāta izsniegšanas, pagarināšanas un anulēšanas kārtību, prasības personām, kuras veic speciālistu sagatavošanu, kā arī apmācības programmas un tehnisko līdzekļu sarakstus nosaka Ministru kabinets. Lēmuma par profesionālās kompetences sertifikāta izsniegšanu, pagarināšanu vai anulēšanu apstrīdēšana un pārsūdzēšana neaptur tā darbību.
 (3) (Izslēgta ar 07.05.2009. likumu.)
 (4) Dzelzceļa speciālists ir disciplināri atbildīgs likumos un citos normatīvajos aktos noteiktajā kārtībā.
+(5) Attiecībā uz vilces līdzekļa vadītāju (mašīnistu) nepiemēro šā panta otrās daļas nosacījumus, bet piemēro šā likuma 37.¹ pantu.
