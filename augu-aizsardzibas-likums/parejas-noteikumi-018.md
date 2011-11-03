@@ -1,0 +1,1 @@
+18. Grozījumi šā likuma 1.panta 1., 2., 3., 7., 8., 9., 10., 11. un 12.punktā, 4.panta ceturtās daļas 1., 4. un 15.punktā, 5.panta 5.punktā, 7.panta pirmajā, ceturtajā, septītajā un desmitajā daļā, 8. un 10.pantā, kas paredz to izteikšanu jaunā redakcijā, stājas spēkā 2011.gada 26.novembrī.

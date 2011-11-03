@@ -1,0 +1,1 @@
+22. Grozījumi šā likuma 11.panta pirmajā, otrajā, trešajā (attiecībā uz jaunu augu aizsardzības līdzekļu lietošanas iekārtu pārbaudi) un ceturtajā daļā, kas paredz to izteikšanu jaunā redakcijā, stājas spēkā 2016.gada 26.novembrī.

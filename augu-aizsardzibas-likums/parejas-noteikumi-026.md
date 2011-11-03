@@ -1,0 +1,1 @@
+26. Ministru kabinets līdz 2011.gada 26.novembrim izdod šā likuma 5.panta 5., 21., 22., 23. un 24.punktā minētos noteikumus. Integrētās augu aizsardzības principus un prasības Ministru kabinets izdod līdz 2014.gada 1.janvārim.
