@@ -25,3 +25,4 @@
 (7) Personām, kuras īslaicīgās aizturēšanas vietā nonāk saskarsmē ar aizturētajiem, ir pienākums nodot glabāšanā šā panta otrajā daļā minētos priekšmetus (izņemot profesionālo pienākumu veikšanai nepieciešamos priekšmetus).
 (8) Lai nodrošinātu šajā likumā paredzēto prasību izpildi, policijas darbiniekam īslaicīgās aizturēšanas vietā ir tiesības jebkurā laikā veikt kameru, aizturētā un viņa personīgo mantu pārmeklēšanu.
 (9) Glabāšanai kamerā atļauto priekšmetu sarakstu nosaka Ministru kabinets.
+(10) Policijas darbinieks īslaicīgās aizturēšanas vietā kontrolē apcietināto un notiesāto personu saraksti, attiecīgi ievērojot Apcietinājumā turēšanas kārtības likumā un Latvijas Sodu izpildes kodeksā noteiktos korespondences kontroles nosacījumus.

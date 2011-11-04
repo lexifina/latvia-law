@@ -11,7 +11,7 @@
 1) atsevišķu guļamvietu;
 2) gultas piederumus (matraci un segu).
 (5) Kamerā ierīko:
-1) ūdensvadam pieslēgtu sanitāro mezglu, kas no pārējās telpas ir norobežots ar sienu, kuras augstums nepārsniedz 1,2 metrus;
+1) ūdensvadam pieslēgtu sanitāro mezglu, kas no pārējās telpas ir norobežots ar konstrukciju, kura nodrošina, ka aizturētais sanitārā mezgla apmeklēšanas laikā ir aizklāts citu personu skatam tādā mērā, lai garantētu viņa privātuma aizsardzību;
 2) pie grīdas piestiprinātu solu;
 3) pie sienas piestiprinātu plauktiņu;
 4) ja tā atrodas ārpus policijas amatpersonas redzesloka, - signālpogu policijas amatpersonas izsaukšanai.
