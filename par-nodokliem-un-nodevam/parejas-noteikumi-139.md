@@ -1,0 +1,1 @@
+139. Grozījumi šā likuma 33.³ pantā attiecībā uz panta izslēgšanu un 41.pantā attiecībā uz panta izteikšanu jaunā redakcijā ir piemērojami attiecībā uz lēmumiem par revīzijas (audita) rezultātiem, kas pieņemti pēc šo grozījumu spēkā stāšanās dienas.

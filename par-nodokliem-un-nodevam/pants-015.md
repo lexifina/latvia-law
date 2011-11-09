@@ -10,7 +10,8 @@
 8) (izslēgts ar 01.12.2009. likumu);
 9) šajā likumā un Ministru kabineta noteikumos paredzētajā kārtībā reģistrēt nodokļus un citus maksājumus ar elektroniskajām ierīcēm un iekārtām;
 10) ja nodokļu maksātājs kārto grāmatvedības reģistrus ar elektroniskajām skaitļošanas mašīnām (datoriem), pēc nodokļu administrācijas pieprasījuma iesniegt elektroniskā veidā nodokļu revīzijas (audita) veikšanai sagatavotu attaisnojuma dokumentu un grāmatvedības reģistru datus;
-11) iesniegt nodokļu administrācijai pieprasītos dokumentus, kuri izmantoti nodokļu aprēķināšanai.
+11) iesniegt nodokļu administrācijai pieprasītos dokumentus, kuri izmantoti nodokļu aprēķināšanai;
+12) ja nodokļu maksātājs kārto grāmatvedības reģistrus ar elektroniskajām skaitļošanas mašīnām (datoriem), pēc nodokļu administrācijas pilnvarotās personas pieprasījuma nodokļu revīzijas (audita) veikšanai nodrošināt, ka nodokļu administrācijas pilnvarotās personas klātbūtnē nodokļu maksātāja pārstāvis piekļūst uzņēmumā esošajos datoros glabātajai grāmatvedības reģistros iekļautajai informācijai, kā arī citai informācijai, kas raksturo darbības, kuras ietekmēja vai varēja ietekmēt nodokļu aprēķinu un nomaksu, un pēc nodokļu administrācijas pilnvarotās personas pieprasījuma nodrošināt iespēju minētās informācijas pārkopēšanai nodokļu administrācijas datu nesējā.
 (2) Fiziskajām personām kā nodokļu maksātājiem ir šādi papildu pienākumi:
 1) izņemt algas nodokļa grāmatiņu atbilstoši likumam "Par iedzīvotāju ienākuma nodokli";
 2) iesniegt algas nodokļa grāmatiņu pamatdarba vietā;

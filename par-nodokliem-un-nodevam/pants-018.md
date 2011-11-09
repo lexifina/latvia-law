@@ -7,7 +7,7 @@
 5) izskatīt un izlemt jautājumus par nodokļu (nodevu) maksāšanas termiņu pagarināšanu;
 6) kontrolēt nodokļu (nodevu) atlaižu un atvieglojumu piemērošanas pareizību;
 7) pēc pārbaudes pabeigšanas iesniegt nodokļu maksātājam pārbaudes aktu (pārskatu). Ja nodokļu administrācija nodokļu revīzijā (auditā) izmanto kriminālprocesa virzītāja iesniegtos materiālus, nodokļu maksātājam iesniedzams izraksts no pārbaudes akta (pārskata), kas ietver kriminālprocesa virzītāja pieļauto informāciju;
-8) nodrošināt nodokļu (nodevu) iekasēšanas publiskumu, regulāri publicējot informāciju par atsevišķu nodokļu (nodevu) kopieņēmumiem un par nodokļu maksātājiem, kuriem ir lielākie nodokļu (nodevu) parādi;
+8) nodrošināt nodokļu (nodevu) iekasēšanas publiskumu, regulāri publicējot informāciju par atsevišķu nodokļu (nodevu) kopieņēmumiem un par tiem 100 nodokļu maksātājiem, kuriem ir lielākie nodokļu (nodevu) parādi;
 9) publicēt ziņas par nodokļu un nodevu likmju, soda naudas un nokavējuma naudas noteikšanas kārtības grozīšanu;
 10) pieņemt lēmumu par nodokļu revīzijas (audita) veikšanu un ne vēlāk kā 10 darbdienas pirms tās uzsākšanas rakstveidā informēt nodokļu maksātāju par nodokļu revīzijas (audita) veikšanu, norādot nodokļu revīzijas (audita) uzsākšanas dienu, revīzijas (audita) termiņu, pārbaudāmos nodokļus, nodokļu deklarācijas posteņus, pārbaudāmās nodevas vai citus valsts noteiktos maksājumus un taksācijas periodus;
 11) piedzīt bezstrīda kārtībā termiņā nesamaksātos nodokļus, nokavējuma naudas, soda naudas un citus valsts noteiktos maksājumus šā likuma 26.pantā paredzētajā kārtībā;

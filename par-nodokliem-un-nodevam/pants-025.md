@@ -1,5 +1,5 @@
 25.pants. Nodokļu parādu dzēšana
-(1) Valsts budžetā pilnīgi vai daļēji ieskaitāmo nodokļu parādus, kā arī ar tiem saistītās nokavējuma naudas un soda naudas dzēš Valsts ieņēmumu dienesta ģenerāldirektors, viņa vietnieks vai nodokļu administrēšanas struktūrvienības vadītājs šādos gadījumos:
+(1) Valsts budžetā pilnīgi vai daļēji ieskaitāmo nodokļu parādus, kā arī ar tiem saistītās nokavējuma naudas un soda naudas dzēš Valsts ieņēmumu dienests šādos gadījumos:
 1) nodokļu maksātājiem juridiskās personas maksātnespējas procesa lietā - ja ar tiesas nolēmumu ir izbeigts juridiskās personas maksātnespējas process, pabeidzot bankrota procedūru;
 2) (izslēgts ar 11.12.2008. likumu);
 3) fiziskajai personai - nodokļu maksātājam - viņa nāves gadījumā, ja nav iespējams no mantiniekiem piedzīt nodokļu parādus, kā arī ar tiem saistītās soda naudas, nokavējuma naudas;
