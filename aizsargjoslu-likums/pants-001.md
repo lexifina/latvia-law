@@ -12,7 +12,7 @@ Likumā ir lietoti šādi termini:
 10) aizsprosts - hidrotehnisko būvju komplekss, kas nodrošina ūdens līmeņa pacelšanu ūdenstilpē vai ūdenstecē ar maksimālo līmeņu starpību divi metri un vairāk;
 11) applūstošā teritorija - ūdensteces ielejas vai ūdenstilpes ieplakas daļa, kura palos vai plūdos pilnīgi vai daļēji applūst un kuras platums ūdensteces vai ūdenstilpes aizsardzības nolūkos tiek noteikts vietējās pašvaldības teritorijas plānojumā atbilstoši šā likuma 7.panta sestajā daļā noteiktajai metodikai;
 12) izobata - līnija, kas savieno punktus ar vienādu ūdenstilpju vai ūdensteču dziļumu;
-13) sarkanā līnija - pašvaldības apstiprinātajā teritorijas plānojumā noteiktā līnija, kas norobežo ceļa, ielas vai piebrauktuves (arī inženierkomunikāciju koridoru) izbūvei nepieciešamo teritoriju, kurā nekustamā īpašuma lietošanas tiesības aprobežotas saskaņā ar likumiem, no apbūvējamās vai citādā veidā izmantojamās teritorijas;
+13) sarkanā līnija - līnija, kas norobežo ceļa, ielas vai piebrauktuves (arī inženierkomunikāciju koridoru) izbūvei nepieciešamo teritoriju, kurā nekustamā īpašuma lietošanas tiesības aprobežotas saskaņā ar normatīvajiem aktiem, no apbūvējamās vai citādā veidā izmantojamās teritorijas un ko normatīvajos aktos noteiktajā kārtībā nosaka vietējā pašvaldība;
 14) kabeļu līnijas ass - nosacīta līnija, kas iet caur katra kabeļa diametra viduspunktu. Katram kabelim ir sava kabeļu līnijas ass, kas nosaka šā kabeļa aizsargjoslas novietojumu;
 14¹) gaisvadu līnijas ass - nosacīta līnija, kas iet caur gaisvadu līnijas balstu konstrukciju viduspunktiem;
 15) purvi - ekosistēmas uz kūdras augsnēm, kurās koku augstums konkrētajā vietā nevar sasniegt vairāk par septiņiem metriem;

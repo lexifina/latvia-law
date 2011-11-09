@@ -1,0 +1,1 @@
+20. Šā likuma 13.panta otrās daļas 1.punkta jaunā redakcija un grozījumi 37.panta pirmās daļas 1.punktā, 39.panta 2.punkta "a" apakšpunktā, 41.panta 1.punktā, 50.panta 1.punktā, 51.panta 3.punktā un 52.panta otrajā daļā (kas attiecas uz teritorijas attīstības plānošanas dokumentu - lokālplānojumu) stājas spēkā vienlaikus ar Teritorijas attīstības plānošanas likumu.

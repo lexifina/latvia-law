@@ -1,0 +1,1 @@
+18. Līdz šā likuma 21.panta otrajā un trešajā daļā paredzēto metodiku spēkā stāšanās dienai, bet ne ilgāk kā līdz 2012.gada 30.jūnijam piemērojami Ministru kabineta 2002.gada 10.septembra noteikumi Nr.412 "Noteikumi par navigācijas tehnisko līdzekļu ekspluatācijas aizsargjoslu noteikšanas metodiku", ciktāl tie nav pretrunā ar šo likumu.
