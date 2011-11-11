@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2011.gada 1.novembra noteikumi Nr.850 \"Nacionālā veselības dienesta nolikums\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "178 (4576)",
+  "official_journal_page": null,
+  "official_journal_date": "2011-11-10",
+  "entry_into_force": "2011-11-11",
+  "notification_date": "2013-11-28",
+  "commission_reference": "MNE(2013)59286",
+  "nim_celex": "72011L0024LVA_211010",
+  "nim_id": "211010",
+  "transposes_celex": [
+    "32011L0024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/526790c6-4ef3-4bdb-8cfe-d135ff41ffbf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
