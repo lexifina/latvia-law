@@ -1,2 +1,7 @@
 10.pants. Radiācijas monitorings
-Vides aizsardzības un reģionālās attīstības ministrija un tās padotībā esošās iestādes savas kompetences ietvaros nodrošina radiācijas monitoringa staciju darbību un informācijas apmaiņu atbilstoši starptautisko līgumu prasībām radiācijas drošības un kodoldrošības jomā, kā arī piedalās radioekoloģiskos pētījumos.
+(1) Centrs nodrošina radiācijas monitoringa staciju darbību un informācijas apmaiņu atbilstoši starptautisko līgumu prasībām radiācijas drošības un kodoldrošības jomā.
+(2) Pārtikas un veterinārais dienests organizē pārtikas un dzīvnieku barības radioaktīvā piesārņojuma kontroli un par to iesniedz Centram datus.
+(3) Valsts sabiedrība ar ierobežotu atbildību "Latvijas Vides, ģeoloģijas un meteoroloģijas centrs":
+1) koordinē un organizē vides radiācijas monitoringu atbilstoši Vides monitoringa programmai;
+2) katru gadu iesniedz Eiropas Komisijai ziņojumu par vides radiācijas monitoringu un pārtikas radioaktīvā piesārņojuma kontroli.
+(4) Valsts sabiedrība ar ierobežotu atbildību "Latvijas Vides, ģeoloģijas un meteoroloģijas centrs" attiecībā uz šā panta trešajā daļā minēto pārvaldes uzdevumu izpildi ir Vides aizsardzības un reģionālās attīstības ministrijas pakļautībā.

@@ -15,5 +15,6 @@ Centra galvenās funkcijas ir šādas:
 13) veidot un aktualizēt datu bāzes par to darbinieku apstarošanu, kuru darbs saistīts ar jonizējošā starojuma avotiem, un iedzīvotāju apstarošanu;
 14) nodrošināt jonizējošā starojuma avotu uzskaiti, veidot un aktualizēt datu bāzes par radioaktīvajām vielām, kodolmateriāliem, radioaktīvajiem atkritumiem un citiem jonizējošā starojuma avotiem;
 15) veidot un uzturēt reģistru par darbiniekiem, kas veic darbības ar jonizējošā starojuma avotiem vai strādā darba vietās, kur ir paaugstināta dabiskā radiācija;
+15¹) uzturēt un aktualizēt Valsts vides dienesta mājaslapā internetā informāciju par jonizējošā starojuma avotiem un to pielietojumu, operatoriem un valsts nozīmes jonizējošā starojuma objektiem, ievērojot normatīvo regulējumu par informācijas atklātību;
 16) nodrošināt kodolnegadījumu izziņošanas 24 stundu operatīvo gatavību un veikt sakaru punkta funkcijas saskaņā ar Konvenciju par kodolnegadījumu operatīvu izziņošanu;
 17) veikt Kodolmateriālu piegādātāju grupas kontaktpersonas pienākumus, lai veicinātu Kodolieroču neizplatīšanas līguma un ar to saistīto līgumu izpildi.

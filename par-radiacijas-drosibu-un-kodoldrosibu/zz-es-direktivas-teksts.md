@@ -6,4 +6,5 @@ Likumā iekļautas tiesību normas, kas izriet no:
 5) Padomes 1997.gada 30.jūnija direktīvas 97/43/Euratom, ar ko paredz personu veselības aizsardzību pret jonizējošā starojuma kaitīgo iedarbību saistībā ar ārstnieciski diagnostisko apstarošanu un atceļ direktīvu 84/466/Euratom;
 6) Eiropas Parlamenta un Padomes 2003.gada 28.janvāra direktīvas 2003/4/EK par vides informācijas pieejamību sabiedrībai un par Padomes direktīvas 90/313/EEK atcelšanu;
 7) Padomes 2003.gada 22.decembra direktīvas 2003/122/EAEK par slēgtu augstas radioaktivitātes starojuma avotu un bezīpašnieka jonizējošā starojuma avotu kontroli;
-8) Padomes 2006.gada 20.novembra direktīvas 2006/117/Euratom par radioaktīvo atkritumu un lietotās kodoldegvielas pārvadājumu uzraudzību un kontroli.
+8) Padomes 2006.gada 20.novembra direktīvas 2006/117/Euratom par radioaktīvo atkritumu un lietotās kodoldegvielas pārvadājumu uzraudzību un kontroli;
+9) Padomes 2009.gada 25.jūnija direktīvas 2009/71/Euratom, ar ko izveido Kopienas kodoliekārtu kodoldrošības pamatstruktūru.
