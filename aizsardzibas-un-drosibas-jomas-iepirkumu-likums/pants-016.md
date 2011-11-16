@@ -1,0 +1,2 @@
+16.pants. Kvalitātes vadības sistēmas
+Pasūtītājs var pieprasīt, lai būtu pārbaudīta piegādātāja kvalitātes vadības sistēma. Šādā gadījumā pasūtītājs atsaucas uz kvalitātes nodrošināšanas sistēmām, kas atbilst noteiktiem Eiropas sertifikācijas standartiem un ko sertificējušas attiecīgas institūcijas, kuras atbilst Eiropas sertifikācijas standartiem. Pasūtītājs atzīst ekvivalentus sertifikātus, ko izdevušas institūcijas citās Eiropas Savienības dalībvalstīs, kā arī akceptē citus piegādātāja iesniegtos pierādījumus par līdzvērtīgiem kvalitātes nodrošinājuma pasākumiem.

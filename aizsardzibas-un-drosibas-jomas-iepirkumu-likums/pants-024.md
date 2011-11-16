@@ -1,0 +1,3 @@
+24.pants. Pienākumi attiecībā uz nodokļiem, vides aizsardzību, darba aizsardzību un darba apstākļiem
+(1) Pasūtītājs iepirkuma procedūras dokumentos var norādīt iestādes, kurās kandidāti vai pretendenti var iegūt informāciju par piemērojamiem noteikumiem attiecībā uz nodokļiem, vides aizsardzību, darba aizsardzību un darba apstākļiem administratīvajā teritorijā, kurā tiks veikti būvdarbi vai sniegti pakalpojumi.
+(2) Ja pasūtītājs norāda šā panta pirmajā daļā minētās iestādes, tas iepirkuma procedūras dokumentos izvirza prasību, lai pretendents piedāvājumā norāda, ka tajā ir ņemti vērā noteikumi, kas attiecīgajā administratīvajā teritorijā regulē piemērotu darba apstākļu un darba aizsardzības nodrošināšanu.

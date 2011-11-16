@@ -1,0 +1,12 @@
+39.pants. Informācijas apmaiņa iepirkuma procedūrās
+(1) Pasūtītājs un piegādātāji informācijas apmaiņu veic pa pastu, pa faksu, elektroniski (saskaņā ar šā panta piektajā, sestajā un septītajā daļā minētajiem noteikumiem) vai pa tālruni (šā panta astotās daļas 1. un 2.punktā minētajos gadījumos) atkarībā no pasūtītāja izvēles.
+(2) Pasūtītājs izvēlas informācijas apmaiņas līdzekļus, kas ir vispārpieejami, lai neapgrūtinātu piegādātājiem piekļuvi iepirkuma procedūrām. Pasūtītājs izvēlas tādu šajā likumā minēto dokumentu nosūtīšanas veidu, kas adresātam nodrošina iespējami ātru informācijas saņemšanu.
+(3) Informācijas apmaiņu un uzglabāšanu veic tā, lai visi pieteikumos un piedāvājumos iekļautie dati būtu aizsargāti un pasūtītājs varētu pārbaudīt pieteikumu un piedāvājumu saturu tikai pēc to iesniegšanas termiņa beigām.
+(4) Laikā no pieteikumu vai piedāvājumu iesniegšanas dienas līdz to atvēršanas brīdim pasūtītājs nesniedz informāciju par citu pieteikumu vai piedāvājumu esamību. Pieteikumu un piedāvājumu vērtēšanas laikā līdz rezultātu paziņošanai pasūtītājs nesniedz informāciju par vērtēšanas procesu.
+(5) Ja informācijas apmaiņā tiek izmantoti elektroniskie līdzekļi, pasūtītājs izvēlas tādus līdzekļus, kuri ir publiski pieejami un savietojami ar vispārlietotiem informācijas un komunikācijas tehnoloģiju produktiem, tādējādi novēršot iespēju uz šā pamata diskriminēt piegādātājus.
+(6) Elektroniskajām iekārtām, kuras izmanto pieteikumu un piedāvājumu iesniegšanai un saņemšanai, piemēro šā likuma 40.panta noteikumus.
+(7) Ja pieteikumi un piedāvājumi tiek iesniegti elektroniski, kandidāti vai pretendenti iesniedz saskaņā ar šā likuma 13., 14., 15., 16., 17. un 44.pantu paredzētos sertifikātus, apliecinājumus un citus dokumentus līdz pieteikumu vai piedāvājumu iesniegšanas termiņa beigām, ja šie dokumenti nav elektroniskā formā.
+(8) Pieteikumu iesniegšanā ievēro šādus noteikumus:
+1) pieteikumus dalībai iepirkuma procedūrā var sūtīt rakstveidā vai paziņot pa tālruni;
+2) ja pieteikumu paziņo pa tālruni, pirms pieteikumu iesniegšanas termiņa beigām iesniedz rakstveida apstiprinājumu;
+3) ja pieteikums nosūtīts pa faksu, pasūtītājs pieprasa, lai pasūtītāja noteiktajā paziņojumā par līgumu norādītajā termiņā piegādātājs apstiprina pieteikumu rakstveidā, nosūtot to pa pastu vai elektroniski vai iesniedzot personiski.

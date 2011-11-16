@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2009.gada 13.jūlija direktīvas 2009/81/EK, ar kuru koordinē procedūras attiecībā uz to, kā līgumslēdzējas iestādes vai subjekti, kas darbojas drošības un aizsardzības jomā, piešķir noteiktu būvdarbu, piegādes un pakalpojumu līgumu slēgšanas tiesības, un ar kuru groza direktīvas 2004/17/EK un 2004/18/EK.

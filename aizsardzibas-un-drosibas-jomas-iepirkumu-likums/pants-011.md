@@ -1,0 +1,6 @@
+11.pants. Centralizēto iepirkumu institūciju veiktie iepirkumi
+(1) Pasūtītājs var iepirkt būvdarbus, preces un pakalpojumus no centralizēto iepirkumu institūcijas vai saņemt būvdarbus, preces un pakalpojumus ar tās starpniecību.
+(2) Ja pasūtītājs iepērk būvdarbus, preces vai pakalpojumus no centralizēto iepirkumu institūcijas vai saņem būvdarbus, preces vai pakalpojumus ar tās starpniecību, uzskatāms, ka pasūtītājs ir piemērojis šā likuma prasības, ja pastāv viens no šādiem nosacījumiem:
+1) centralizēto iepirkumu institūcija, kas ir pasūtītājs, veicot attiecīgos iepirkumus vai organizējot attiecīgās iepirkuma procedūras, ir piemērojusi šā likuma prasības;
+2) centralizēto iepirkumu institūcija, kas nav pasūtītājs, ir piemērojusi šim likumam atbilstošus līdzvērtīgus noteikumus, kā arī ir nodrošinātas šajā likumā noteiktajām lēmumu apstrīdēšanas un pārsūdzēšanas iespējām līdzvērtīgas iespējas.
+(3) Pasūtītājs var nepiemērot šā likuma prasības, ja iepirkumu tā vajadzībām kā centralizēto iepirkumu institūcija veic citas Eiropas Savienības valsts pasūtītājs, kas, veicot attiecīgo iepirkumu, piemēro tādu normatīvo aktu prasības, kuri atbilst Eiropas Savienības tiesībām publiskā iepirkuma jomā.

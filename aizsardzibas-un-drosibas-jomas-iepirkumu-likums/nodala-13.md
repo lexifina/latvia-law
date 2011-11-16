@@ -1,0 +1,1 @@
+XIII nodaļa. Zaudējumu atlīdzināšana

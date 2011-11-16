@@ -1,0 +1,8 @@
+14.pants. Saimnieciskais un finansiālais stāvoklis
+(1) Pasūtītājs ir tiesīgs noteikt minimālās prasības attiecībā uz piegādātāja saimniecisko un finansiālo stāvokli. Piegādātāja saimnieciskā un finansiālā stāvokļa atbilstību izvirzītajām prasībām galvenokārt var apliecināt ar:
+1) kredītiestādes apliecinājumu vai, ja nepieciešams, attiecīgas profesionālā riska apdrošināšanas sabiedrības pierādījumiem;
+2) finanšu pārskatu vai izrakstu no finanšu pārskata (ja šāda informācija ir publiskojama saskaņā ar tās valsts normatīvajiem aktiem, kurā piegādātājs ir reģistrēts vai kurā atrodas tā pastāvīgā dzīvesvieta);
+3) apliecinājumu par savu kopējo finanšu apgrozījumu vai, ja nepieciešams, finanšu apgrozījumu, kas attiecas uz konkrēto iepirkumu, bet ne vairāk kā par trijiem iepriekšējiem finanšu gadiem.
+(2) Piegādātājs var balstīties uz citu uzņēmēju iespējām, ja tas ir nepieciešams konkrētā līguma izpildei, neatkarīgi no savstarpējo attiecību tiesiskā rakstura. Šādā gadījumā piegādātājs pierāda pasūtītājam, ka viņa rīcībā būs nepieciešamie resursi, iesniedzot šo uzņēmēju apliecinājumu vai vienošanos par sadarbību konkrētā līguma izpildei. Piegādātājs, kas ir personu apvienība, arī var balstīties uz apvienības dalībnieku iespējām.
+(3) Pasūtītājs paziņojumā par līgumu vai iepirkuma procedūras dokumentos nosaka, kuri no šā panta pirmajā daļā minētajiem dokumentiem vai citiem dokumentiem piegādātājam jāiesniedz.
+(4) Ja pamatotu iemeslu dēļ piegādātājs nespēj iesniegt pasūtītāja pieprasītos dokumentus, tas ir tiesīgs apliecināt savu saimniecisko vai finansiālo stāvokli ar jebkuriem citiem dokumentiem, ja pasūtītājs uzskata tos par piemērotiem.

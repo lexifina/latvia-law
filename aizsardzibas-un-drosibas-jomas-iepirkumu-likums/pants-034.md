@@ -1,0 +1,5 @@
+34.pants. Paziņojums par iepirkuma procedūras rezultātiem
+(1) Pasūtītājs publicē paziņojumu par iepirkuma procedūras rezultātiem, ja pieņemts lēmums par iepirkuma līguma vai vispārīgās vienošanās noslēgšanu.
+(2) Pasūtītājs publicē paziņojumu par iepirkuma procedūras rezultātiem saskaņā ar šā likuma 36.panta otro daļu pēc iepirkuma līguma noslēgšanas, bet ne vēlāk kā 48 dienu laikā pēc pretendentu informēšanas saskaņā ar šā likuma 52.panta otro daļu, ja šajā termiņā iepirkuma līgums nav noslēgts.
+(3) Pasūtītājs ir tiesīgs nepublicēt paziņojumu par iepirkuma procedūras rezultātiem, ja pieņemts lēmums par iepirkuma līguma noslēgšanu vispārīgās vienošanās ietvaros saskaņā ar šā likuma 55.pantu.
+(4) Pasūtītājs paziņojumā par iepirkuma procedūras rezultātiem ir tiesīgs neietvert informāciju, kuras izpaušana varētu kaitēt sabiedrības interesēm, it sevišķi aizsardzības un drošības interesēm, vai tādējādi tiktu pārkāptas piegādātāja likumīgās komerciālās intereses vai godīgas konkurences noteikumi.

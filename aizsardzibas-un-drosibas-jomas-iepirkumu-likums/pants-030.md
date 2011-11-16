@@ -1,0 +1,3 @@
+30.pants. Iepirkuma komisijas lēmumu pieņemšanas kārtība
+(1) Iepirkuma komisija lēmumus pieņem sēdēs. Iepirkuma komisija ir lemttiesīga, ja tās sēdē piedalās vismaz divas trešdaļas komisijas locekļu, bet ne mazāk kā trīs locekļi. Iepirkuma komisija lēmumus pieņem ar vienkāršu balsu vairākumu. Ja iepirkuma komisijas locekļu balsu skaits sadalās vienādi, izšķirošā ir komisijas priekšsēdētāja balss.
+(2) Ja par piedāvājuma izvēles kritēriju noteikts saimnieciski visizdevīgākais piedāvājums, katrs iepirkuma komisijas loceklis piedāvājumu vērtē individuāli pēc visiem iepirkuma procedūras dokumentos norādītajiem vērtēšanas kritērijiem. Par saimnieciski visizdevīgāko piedāvājumu atzīst to piedāvājumu, kas, apkopojot individuālos vērtējumus, ieguvis visaugstāko novērtējumu.

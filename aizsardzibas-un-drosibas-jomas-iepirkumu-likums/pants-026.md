@@ -1,0 +1,6 @@
+26.pants. Piedāvājuma izvēles kritēriji
+(1) Ir šādi piedāvājuma izvēles kritēriji:
+1) saimnieciski visizdevīgākais piedāvājums, kurā ņemti vērā piegāžu vai līguma izpildes termiņi, ekspluatācijas izmaksas un citas izmaksas, to efektivitāte, būvdarbu, preču vai pakalpojumu kvalitāte, estētiskais un funkcionālais raksturojums, vides aizsardzības prasības, tehniskās priekšrocības, rezerves daļu pieejamība, līguma izpildes drošība, cena un citi ar līguma priekšmetu saistīti faktori, kuriem jābūt konkrēti izteiktiem un objektīvi salīdzināmiem vai izvērtējamiem;
+2) piedāvājums ar viszemāko cenu.
+(2) Saimnieciski visizdevīgākā piedāvājuma izvēles gadījumā pasūtītājs paziņojumā par līgumu vai iepirkuma procedūras dokumentos norāda visus vērtēšanas kritērijus un to īpatsvarus vai skaitliskās vērtības, kā arī iepirkuma procedūras dokumentos norāda piedāvājuma izvēles algoritmu saskaņā ar šiem kritērijiem un apraksta, kā tiks vērtēts katrs no norādītajiem vērtēšanas kritērijiem. Kritērijiem piešķirto īpatsvaru un skaitliskās vērtības var norādīt noteiktā diapazonā. Ja pasūtītājs var pamatot, ka nav iespējams noteikt vērtēšanas kritēriju īpatsvarus un skaitliskās vērtības, pasūtītājs norāda visus vērtēšanas kritērijus to nozīmīguma secībā.
+(3) Ja pasūtītājs piemēro konkursa dialogu, par piedāvājuma izvēles kritēriju tas nosaka saimnieciski visizdevīgāko piedāvājumu.

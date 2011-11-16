@@ -1,0 +1,4 @@
+28.pants. Iepirkuma komisijas izveide
+(1) Pasūtītājs, kas ir Publisko iepirkumu likuma subjekts, šā likuma 6.panta trešajā daļā minēto iepirkuma procedūru veikšanai un septītajā daļā minēto iepirkumu veikšanai izveido iepirkuma komisiju. Šīs nodaļas noteikumi neattiecas uz pasūtītāju, kas ir Sabiedrisko pakalpojumu sniedzēju iepirkumu likuma subjekts.
+(2) Iepirkuma komisiju izveido katram iepirkumam atsevišķi vai uz noteiktu laikposmu, vai kā pastāvīgi funkcionējošu institūciju. Iepirkuma komisijas sastāvā ir vismaz trīs locekļi.
+(3) Izveidojot iepirkuma komisiju, pasūtītājs nodrošina, lai šī komisija būtu kompetenta tā iepirkuma jomā, par kuru slēdz līgumu, un, ja nepieciešams, visi iepirkuma komisijas locekļi būtu saņēmuši atbilstošas kategorijas speciālo atļauju pieejai valsts noslēpumam. Iepirkuma komisija, pildot savus pienākumus, ir tiesīga pieaicināt ekspertus.

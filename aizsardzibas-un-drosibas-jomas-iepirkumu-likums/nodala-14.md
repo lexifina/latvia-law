@@ -1,0 +1,1 @@
+XIV nodaļa. Statistikas pārskati
