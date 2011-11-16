@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Aizsardzības un drošības jomas iepirkumu likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "173",
+  "official_journal_page": null,
+  "official_journal_date": "2011-11-02",
+  "entry_into_force": "2011-11-16",
+  "notification_date": "2026-01-22",
+  "commission_reference": "MNE(2026)00707",
+  "nim_celex": "72023L1791LVA_202600707",
+  "nim_id": "202600707",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4dd6806e-514b-4439-928e-161622e0604e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
