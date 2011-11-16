@@ -1,0 +1,13 @@
+13.⁴ pants. Darījumu rīkojumu izpildes noteikumi
+(1) Sabiedrība izstrādā procedūras un ievieš nepieciešamos pasākumus, lai nodrošinātu tūlītēju, godīgu un ātru to darījumu rīkojumu izpildi, kuri saistīti ar pārvaldes pakalpojumu saņēmēju līdzekļiem. Rīkojoties pārvaldes pakalpojumu saņēmēju vārdā, sabiedrība nodrošina šādu prasību izpildi:
+1) rīkojumi, kas izpildīti pārvaldes pakalpojumu saņēmēju vārdā, tiek nekavējoties un precīzi reģistrēti;
+2) salīdzināmi pārvaldes pakalpojumu saņēmēju rīkojumi tiek izpildīti nekavējoties to iesniegšanas secībā, ja vien rīkojumu īpatnības vai tirgus apstākļi tos nepadara neizpildāmus šādā veidā vai minēto personu intereses neprasa citādu rīcību;
+3) darījuma rezultātā saņemtie finanšu instrumenti vai naudas līdzekļi tiek nekavējoties un pilnībā ieskaitīti pārvaldes pakalpojumu saņēmēja finanšu instrumentu kontā vai naudas līdzekļu kontā.
+(2) Sabiedrība, kā arī ar sabiedrību saistītas personas nedrīkst ļaunprātīgi izmantot to rīcībā esošo informāciju par neizpildītiem pārvaldes pakalpojumu saņēmēju rīkojumiem.
+(3) Sabiedrībai ir tiesības apvienot darījuma rīkojumu klienta vārdā ar darījuma rīkojumu pašas sabiedrības vārdā vai cita klienta vārdā tikai tad, ja tai ir izstrādāta un tiek īstenota rīkojumu apvienošanas un sadalīšanas politika. Rīkojumu apvienošanas un sadalīšanas politika var būt iekļauta darījumu izpildes politikā un paredz:
+1) apvienot rīkojumus tikai tad, ja nekas neliecina, ka rīkojumu apvienošana varētu kaitēt to klientu interesēm, kuru rīkojumus apvieno;
+2) apvienoto rīkojumu godīgu sadalījumu un skaidrojumu par to, kā rīkojumu apmērs un cena ietekmē rīkojumu sadalīšanu un izpildi;
+3) kārtību, kādā tiek sadalīti ar apvienoto rīkojumu saistītie darījumi, ja apvienotais rīkojums ir izpildīts daļēji;
+4) kārtību, kas nodrošina šā panta ceturtās un piektās daļas prasību izpildi attiecībā uz rīkojumu pārvaldes pakalpojumu saņēmēju vai citu klientu vārdā un rīkojumu par darījumiem pašas sabiedrības vārdā sadalīšanu vai pārdalīšanu.
+(4) Ja sabiedrība ir apvienojusi rīkojumus par darījumiem savā vārdā ar vienu vai vairākiem rīkojumiem klientu vārdā, tā attiecīgo darījumu sadala vai pārdala, nekaitējot klientu interesēm.
+(5) Ja sabiedrība apvieno rīkojumu klienta vārdā ar rīkojumu par darījumu savā vārdā un apvienotais rīkojums tiek izpildīts daļēji, tā attiecīgos darījumus sadala prioritārā secībā - vispirms par labu klientam un tad - sabiedrībai. Ja sabiedrība var pamatoti pierādīt, ka bez šādas apvienošanas tā nebūtu varējusi rīkojumu izpildīt ar tik izdevīgiem nosacījumiem vai vispār nebūtu varējusi izpildīt, tā attiecībā uz darījumu savā vārdā var piemērot proporcionālu ienākumu sadalījumu.

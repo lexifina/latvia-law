@@ -1,0 +1,13 @@
+13.³ pants. Labāko rezultātu nodrošināšana
+(1) Sabiedrība, izpildot lēmumus par darījumu slēgšanu ieguldījumu portfeļu pārvaldīšanas ietvaros, veic visus nepieciešamos pasākumus, lai pārvaldes pakalpojumu saņēmējiem nodrošinātu pēc iespējas labākus rezultātus, ņemot vērā darījuma cenu, izmaksas, izpildes ātrumu, izpildes un norēķinu iespējamību, darījuma apmēru un specifiku vai jebkurus citus apsvērumus attiecībā uz darījuma rīkojuma izpildi.
+(2) Izvērtējot šā panta pirmajā daļā minēto faktoru nozīmīgumu darījumu rīkojumu izpildē, ņem vērā arī šādus kritērijus:
+1) fonda prospektā vai pārvaldes nolikumā noteikto ieguldījumu mērķi, ieguldījumu politiku un riskus;
+2) rīkojuma veidu;
+3) finanšu instrumenta - rīkojuma priekšmeta - veidu;
+4) iespējamo darījumu rīkojuma izpildes vietu (regulētais tirgus, daudzpusējā tirdzniecības sistēma, sistemātisks internalizētājs, tirgus uzturētājs vai cits likviditātes nodrošinātājs). Sabiedrība izstrādā un īsteno darījumu izpildes politiku, kas paredz, kā tiek izvērtēti minētie kritēriji un šā panta pirmajā daļā minētie faktori, lai pārvaldes pakalpojumu saņēmējiem nodrošinātu labāko iespējamo rezultātu.
+(3) Šā panta pirmās un otrās daļas prasības attiecināmas arī uz tādai personai nodoto darījumu rīkojumu izpildi, kura ir tiesīga sniegt ieguldījumu pakalpojumus atbilstoši Finanšu instrumentu tirgus likuma prasībām (turpmāk šajā pantā - persona).
+(4) Sabiedrība darījumu izpildes politikā attiecībā uz katru finanšu instrumentu veidu norāda personu, kurai var tikt nodoti darījumu rīkojumi to izpildei. Sabiedrība ir tiesīga slēgt vienošanos ar personu par rīkojumu izpildi tikai tad, ja ir ievērotas visas šā panta prasības.
+(5) Lai varētu atklāt trūkumus un konstatētos trūkumus novērst, sabiedrība regulāri izvērtē darījumu izpildes politiku un ar to saistīto procedūru efektivitāti, īpaši pārvaldes pakalpojumu saņēmēju vārdā citai personai nodoto rīkojumu izpildes kvalitāti. Darījumu izpildes politiku sabiedrība pārskata reizi gadā vai gadījumā, kad rodas būtiskas izmaiņas, kas ietekmē sabiedrības spēju arī turpmāk nodrošināt pārvaldes pakalpojumu saņēmējiem labāko iespējamo rezultātu.
+(6) Sabiedrībai, kas plāno sniegt pārvaldes pakalpojumus citā dalībvalstī reģistrētam fondam, kas dibināts kā komercsabiedrība, ir pienākums pirms tam, kad tā sāk sniegt pārvaldes pakalpojumus, saņemt fonda piekrišanu tās izstrādātajai darījumu izpildes politikai.
+(7) Sabiedrība savā mājaslapā internetā publicē darījumu izpildes politiku, kā arī informāciju par šajā politikā veiktajām būtiskajām izmaiņām.
+(8) Sabiedrībai ir pienākums pierādīt, ka pārvaldes pakalpojumu saņēmēja vārdā izpildītie darījumu rīkojumi, tai skaitā citai personai izpildei nodotie darījumu rīkojumi, atbilst darījumu izpildes politikai.

@@ -7,7 +7,7 @@
 3) fonda pārvaldes vispārīgos principus un kārtību, īpaši norādot lēmumu pieņemšanas kompetenci un kārtību, kādā var rīkoties ar fonda mantu;
 3¹) fonda ieguldījumu ierobežojumus;
 4) klientu apkalpošanas kārtību, īpaši norādot to, kādā kārtībā:
-a) izsniedzams fonda prospekts un fonda saīsinātais prospekts (atvērtajiem ieguldījumu fondiem),
+a) izsniedzams fonda prospekts un fonda ieguldītājiem paredzētā pamatinformācija (atvērtajiem ieguldījumu fondiem),
 b) (izslēgts ar 24.10.2002. likumu),
 c) (izslēgts ar 24.10.2002. likumu),
 d) sniedzama informācija par tām pārmaiņām darījumos ar fonda mantu gūto ienākumu sadalē, kuras skar fonda darbību, un par līdzīgiem notikumiem,

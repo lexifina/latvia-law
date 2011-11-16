@@ -16,3 +16,5 @@
 13) strīdu izskatīšanas kārtību;
 14) citus no fonda prospekta izrietošus noteikumus.
 (3) Turētājbankas līgumā puses drīkst iekļaut arī citus nosacījumus, kas nav pretrunā ar likumu, fonda prospektu un fonda pārvaldes nolikumu.
+(4) Ja fondu Latvijā vēlas pārvaldīt vai dibināt dalībvalstī licencēta sabiedrība, tad sabiedrība un turētājbanka papildus šajā pantā noteiktajam turētājbankas līgumam slēdz rakstveida vienošanos, kas regulē informācijas apmaiņu starp sabiedrību un turētājbanku un ir nepieciešama, lai turētājbanka varētu veikt šajā likumā noteiktās funkcijas.
+(5) Komisija izdod normatīvos noteikumus, kuros nosaka šā panta ceturtajā daļā minētās vienošanās saturu.

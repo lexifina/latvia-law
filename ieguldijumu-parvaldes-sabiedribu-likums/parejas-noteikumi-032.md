@@ -1,0 +1,1 @@
+32. Ieguldījumu pārvaldes sabiedrība ne vēlāk kā divus mēnešus pēc tam, kad stājas spēkā grozījumi šā likuma 13., 13.¹, 13.², 13.³, 13.⁴, 13.⁵ un 14.pantā, iesniedz Komisijai rakstveida apliecinājumu, ka sabiedrības iekšējā kontroles sistēma atbilst šā likuma prasībām.

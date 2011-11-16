@@ -1,0 +1,19 @@
+71.¹ pants. Darbības joma
+(1) Pakārtotais fonds līdz 15 procentiem no saviem aktīviem drīkst ieguldīt:
+1) aktīvos atbilstoši šā likuma 61.panta ceturtajai daļai;
+2) darījumos ar atvasinātajiem finanšu instrumentiem, ja tie tiek veikti, lai ierobežotu risku, atbilstoši šā likuma 65.panta pirmās daļas un 33.panta sešpadsmitās daļas prasībām, kā arī ievērojot 66.panta septītajā daļā noteiktos ieguldījumu ierobežojumus.
+(2) Lai nodrošinātu šā likuma 66.panta septītās daļas prasību ievērošanu, pakārtotais fonds savam aprēķinātajam kopējam riskam, kas izriet no darījumiem ar atvasinātajiem finanšu instrumentiem, pieskaita galvenā fonda kopējo risku. Galvenā fonda kopējo risku nosaka proporcionāli pakārtotā fonda ieguldījumam galvenajā fondā, aprēķinam izmantojot galvenā fonda faktisko kopējo risku vai galvenā fonda pārvaldes nolikumā vai prospektā noteikto maksimāli iespējamo kopējo risku. Pakārtotais fonds turpmāk izmanto izraudzīto kopējā riska aprēķināšanas veidu.
+(3) Galvenais fonds atbilst šādām prasībām:
+1) vismaz viens no fonda ieguldītājiem ir pakārtotais fonds;
+2) fonds pats nav pakārtotais fonds;
+3) fonds nav pakārtotā fonda ieguldītājs.
+(4) Attiecībā uz galveno fondu piemēro šādus izņēmumus:
+1) ja vismaz divi pakārtoti fondi ir galvenā fonda ieguldītāji, galvenais fonds var nepiesaistīt papildu līdzekļus no citiem ieguldītājiem;
+2) ja galvenais fonds neizplata fonda ieguldījumu apliecības citā dalībvalstī, bet tam šajā dalībvalstī ir viens vai vairāki pakārtotie fondi, galvenais fonds var neievērot šā likuma 77.² un 77.³ panta prasības.
+(5) Pakārtotā fonda pienākums ir uzraudzīt galvenā fonda darbības atbilstību fonda prospektā un pārvaldes nolikumā noteiktajai kārtībai. Izpildot šo pienākumu, pakārtotajam fondam ir tiesības paļauties uz informāciju un dokumentiem, kas saņemti no galvenā fonda vai - ja nepieciešams - no to pārvaldošās sabiedrības, turētājbankas un fonda revidenta, ja vien nav pamatota iemesla apšaubīt to pareizību. Fonda revidents šīs nodaļas izpratnē ir fonda prospektā vai pārvaldes nolikumā, vai tam pielīdzināmā dokumentā norādītais revidents.
+(6) Ja pakārtoto fondu pārvaldošā sabiedrība vai jebkura cita persona, kas rīkojas šā fonda vai šo fondu pārvaldošās sabiedrības vārdā, sakarā ar ieguldījumu galvenā fonda ieguldījumu apliecībās saņem komisijas naudu vai citu maksājumu, šo naudu vai maksājumu ieskaita pakārtotā fonda aktīvos.
+(7) Galvenais fonds nekavējoties informē Komisiju par katru pakārtoto fondu, kurš veic ieguldījumus tā ieguldījumu apliecībās. Ja pakārtotais fonds ir nodibināts citā dalībvalstī, Komisija par šādu ieguldījumu nekavējoties informē pakārtotā fonda izcelsmes valsts uzraudzības institūciju.
+(8) Galvenais fonds neiekasē no pakārtotā fonda komisijas naudu sakarā ar ieguldījumu apliecību izlaišanu vai atpakaļpirkšanu.
+(9) Galvenais fonds nodrošina, ka visa informācija, ko tas sniedz saskaņā ar šo likumu vai Komisijas normatīvajiem noteikumiem, fonda pārvaldes nolikumu vai prospektu, laikus ir pieejama pakārtotā fonda sabiedrībai, uzraudzības institūcijai, turētājbankai un fonda revidentam.
+(10) Ja galvenais fonds un pakārtotais fonds ir reģistrēti Latvijā, Komisija nekavējoties informē pakārtoto fondu par visiem pieņemtajiem lēmumiem un konstatētajiem šīs nodaļas prasību pārkāpumiem galvenā fonda darbībā un galvenā fonda sabiedrības, turētājbankas vai fonda revidenta darbībā.
+(11) Ja galvenais fonds un pakārtotais fonds ir nodibināti dažādās dalībvalstīs, Komisija nekavējoties informē pakārtotā fonda izcelsmes valsts uzraudzības institūciju par visiem pieņemtajiem lēmumiem un konstatētajiem šā likuma vai citu normatīvo aktu prasību pārkāpumiem saistībā ar Latvijā reģistrēta galvenā fonda darbību un galvenā fonda sabiedrības, turētājbankas vai fonda revidenta darbību. Komisija nekavējoties informē pakārtoto fondu, kas reģistrēts Latvijā, par informāciju, ko tā saņēmusi no galvenā fonda izcelsmes valsts uzraudzības institūcijas.

@@ -5,3 +5,4 @@
 (4) Ja pārbaudes veicējs pārbaudes laikā konstatē sabiedrības darbībā pārkāpumus, viņam ir tiesības uz laiku izņemt attiecīgos dokumentus, par to sastādot aktu.
 (5) Pārbaudes veicējam ir tiesības izdarīt izrakstus no dokumentiem, pieprasīt uz sabiedrības rēķina dokumentu kopijas, apliecinātas dokumentu kopijas vai norakstus.
 (6) Par pārbaudes rezultātiem Komisija sagatavo izziņu un iepazīstina ar to sabiedrības valdi.
+(7) Ja sabiedrība nepiekrīt Komisijas sagatavotajai izziņai par veikto pārbaudi, tā ir tiesīga iesniegt sūdzību Komisijas padomei. Komisijas padome ir tiesīga noteikt jaunu pārbaudi vai lemt par grozījumu izdarīšanu izziņā par veikto pārbaudi, vai noraidīt sūdzību.

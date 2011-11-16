@@ -1,6 +1,6 @@
 1.pants. Likumā lietotie termini
 Likumā ir lietoti šādi termini:
-1) fonda ieguldītājs - persona, kas ieguldījumu fondā ieguldījusi naudu;
+1) fonda ieguldītājs - persona, kurai pieder ieguldījumu fonda ieguldījumu apliecība;
 2) fonda manta - lietas, kuru kopība veido ieguldījumu fondu;
 3) ieguldījumu apliecība - pārvedams vērtspapīrs, kas apliecina fonda ieguldītāja līdzdalību ieguldījumu fondā vai apakšfondā un no šīs līdzdalības izrietošās tiesības;
 4) ieguldījumu fonds (turpmāk arī - fonds) - lietu kopība, ko veido pret ieguldījumu apliecībām izdarītie ieguldījumi, kā arī darījumos ar ieguldījumu fonda mantu un uz tajā esošo tiesību pamata iegūtās lietas;
@@ -14,7 +14,7 @@ Likumā ir lietoti šādi termini:
 12) naudas tirgus instrumenti - likvīdas parādsaistības, kuras var precīzi novērtēt jebkurā laikā un kuras parasti tirgo naudas tirgū;
 13) finanšu instrumenti - vienošanās, kas vienlaikus vienai personai rada finanšu aktīvu, bet citai personai - finanšu saistības vai kapitāla vērtspapīrus;
 14) atvasinātie finanšu instrumenti - finanšu instrumenti, kuru vērtība mainās atkarībā no noteiktās procentu likmes, vērtspapīru cenas, ārvalstu valūtas kursa, cenu vai likmju indeksa, kredītreitinga vai līdzīga mainīga lieluma pārmaiņām un kuru ietekmē viens vai vairāki finanšu riski, kas piemīt atvasinātā finanšu instrumenta pamatā esošajam primārajam finanšu instrumentam, tiek pārvesti starp darījumā iesaistītajām personām. Atvasinātā finanšu instrumenta iegūšanai nav nepieciešams sākotnējais ieguldījums vai ir nepieciešams neliels sākotnējais ieguldījums, salīdzinot ar citiem līgumiem, kas ir līdzīgā veidā atkarīgi no tirgus apstākļu pārmaiņām, turklāt ar līguma izpildi saistītie norēķini notiek nākotnē;
-15) pārvaldes pakalpojumi - ieguldījumu fondu pārvalde un citi pakalpojumi, kurus šajā likumā noteiktajā kārtībā ir tiesīga sniegt ieguldījumu pārvaldes sabiedrība;
+15) pārvaldes pakalpojumi - ieguldījumu fondu pārvalde, valsts fondēto pensiju shēmas līdzekļu un privāto pensiju fondu izveidoto pensiju plānu līdzekļu pārvaldīšana;
 16) pārvaldes sabiedrības izcelsmes valsts - valsts, kurā ieguldījumu pārvaldes sabiedrība ir reģistrēta (kurā pārvaldes sabiedrībai ir juridiskā adrese);
 17) pārvaldes sabiedrības uzņēmējvalsts - valsts, kuras teritorijā pārvaldes sabiedrībai ir filiāle vai kuras teritorijā pārvaldes sabiedrība sniedz pārvaldes pakalpojumus;
 18) kontrole - personas kontrole pār komercsabiedrību, ja:
@@ -30,4 +30,23 @@ c) ar vienu un to pašu personu kontroles veidā;
 23) ieguldījumi nekustamajā īpašumā - tieši vai netieši fonda līdzekļu ieguldījumi nekustamajā īpašumā, tā lietošanas tiesībās, darījumos, kas saistīti ar nekustamā īpašuma projektu attīstības finansēšanu, tai skaitā darījumos ar atliktu izpildes termiņu, ja šādi ieguldījumi ne pēc to būtības, ne juridiskās formas nav pretrunā ar šajā likumā un citos likumos noteiktajiem darījumu ierobežojumiem;
 24) Desmit valstu grupa - valstis, kuras ar Starptautisko Valūtas fondu noslēgušas Vispārējo vienošanos par aizņēmumiem;
 25) būtiska līdzdalība - personas vai vairāku personu, kas uz vienošanās pamata rīkojas saskaņoti, tieši vai netieši iegūta līdzdalība, kura aptver 10 un vairāk procentus no komercsabiedrības pamatkapitāla vai balsstiesīgo akciju skaita vai dod iespēju būtiski ietekmēt komercsabiedrības finanšu un darbības politikas noteikšanu;
-26) kritiskās situācijas analīze - analīze, ko ieguldījumu pārvaldes sabiedrība veic, lai noteiktu un izvērtētu dažādu ārkārtēju, bet iespējami nelabvēlīgu notikumu vai tirgus nosacījumu izmaiņu potenciālo ietekmi uz valsts fondēto pensiju shēmas līdzekļu ieguldījumu plāna portfeli.
+26) kritiskās situācijas analīze - analīze, ko ieguldījumu pārvaldes sabiedrība veic, lai noteiktu un izvērtētu dažādu ārkārtēju, bet iespējami nelabvēlīgu notikumu vai tirgus nosacījumu izmaiņu potenciālo ietekmi uz valsts fondēto pensiju shēmas līdzekļu ieguldījumu plāna portfeli;
+27) fonda pārrobežu pārvalde - pārvaldes pakalpojums, ko sabiedrība sniedz tādam atvērtajam ieguldījumu fondam, kura izcelsmes valsts nav fondu pārvaldošās sabiedrības izcelsmes valsts;
+28) dalībvalsts - Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts;
+29) fonda izcelsmes valsts - valsts, kurā fonds ir reģistrēts;
+30) fonda uzņēmējvalsts - valsts, kura nav fonda izcelsmes valsts un kuras teritorijā ir atļauts laist publiskā apgrozībā šā fonda ieguldījumu apliecības;
+31) filiāle - teritoriāli vai citādi nošķirta ieguldījumu pārvaldes sabiedrības struktūrvienība, kam nav juridiskās personas statusa un kas sniedz pārvaldes pakalpojumus, kurus atbilstoši dalībvalsts uzraudzības institūcijas izsniegtajai licencei ir tiesīga sniegt šī ieguldījumu pārvaldes sabiedrība;
+32) fondu apvienošana - tiesisko pasākumu kopums, kura rezultātā:
+a) pievienojamais fonds - viens vai vairāki fondi vai apakšfonds - tiek pievienots iegūstošajam fondam - citam pastāvošam fondam vai apakšfondam. Pievienojamais fonds nodod visus savus aktīvus un saistības iegūstošajam fondam un beidz pastāvēt bez likvidācijas procesa. Pievienojamā fonda ieguldītāji apmaiņā pret pievienojamā fonda ieguldījumu apliecībām saņem iegūstošā fonda ieguldījumu apliecības un samaksu naudā, kas nepārsniedz 10 procentus no šo ieguldījumu apliecību neto aktīvu vērtības,
+b) pievienojamais fonds - divi vai vairāki fondi vai apakšfonds -, beidzot pastāvēt bez likvidācijas procesa, nodod visus savus aktīvus un saistības iegūstošajam fondam - jaundibinātajam fondam vai apakšfondam. Pievienojamā fonda ieguldītāji apmaiņā pret savām ieguldījumu apliecībām saņem iegūstošā fonda ieguldījumu apliecības un samaksu naudā, kas nepārsniedz 10 procentus no šo ieguldījumu apliecību neto aktīvu vērtības,
+c) pievienojamais fonds - viens vai vairāki fondi vai apakšfonds -, kas turpina pastāvēt līdz saistību izpildei, nodod visus savus aktīvus iegūstošajam fondam - tā paša fonda apakšfondam, jaundibinātajam fondam vai citam pastāvošam fondam vai tā apakšfondam;
+33) fondu pārrobežu apvienošana - tādu fondu apvienošana:
+a) no kuriem vismaz divi ir reģistrēti dažādās dalībvalstīs,
+b) kuri reģistrēti vienā dalībvalstī un kurus apvieno jaunizveidotā fondā, ko reģistrē citā dalībvalstī;
+34) fondu iekšzemes apvienošana - divu vai vairāku Latvijā reģistrētu ieguldījumu fondu apvienošana;
+35) pastāvīgs informācijas nesējs - jebkurš instruments, kas ieguldītājam dod iespēju uzglabāt viņam personiski adresētu informāciju tā, lai nodrošinātu informācijas pieejamību un izmantošanu nemainītā veidā par informācijas sniegšanai nepieciešamo laikposmu;
+36) galvenās un pakārtotās struktūras darījumi - galvenā un pakārtotā fonda veiktie savstarpējie struktūras darījumi, kas tiek veikti starp diviem atvērtajiem ieguldījumu fondiem un kuru rezultātā pakārtotais fonds iegulda vismaz 85 procentus no saviem aktīviem galvenajā fondā;
+37) pakārtotais fonds - atvērtais ieguldījumu fonds vai tā apakšfonds, kurš ir saņēmis atļauju galvenās un pakārtotās struktūras darījuma veikšanai un kuram, neievērojot šajā likumā noteiktos ieguldījumu ierobežojumus ieguldījumu fondos, ir atļauts vismaz 85 procentus no saviem aktīviem ieguldīt citā atvērtajā ieguldījumu fondā vai apakšfondā;
+38) galvenais fonds - atvērtais ieguldījumu fonds vai tā apakšfonds, kura ieguldītājs ir cits atvērtais ieguldījumu fonds, kas vismaz 85 procentus no saviem aktīviem ieguldījis šajā fondā vai apakšfondā;
+39) ar sabiedrību saistīta persona - sabiedrības amatpersona, sabiedrības darbinieks, kā arī cita fiziskā persona, kura ir iesaistīta to pārvaldes pakalpojumu sniegšanā, ko veic sabiedrība, un kuras darbību šī sabiedrība kontrolē, vai fiziskā persona, kura ir tieši iesaistīta deleģētā pakalpojuma sniegšanā tādai sabiedrībai, kas sniedz pārvaldes pakalpojumus;
+40) klients - ieguldījumu fonds, valsts fondēto pensiju shēmas līdzekļu ieguldījumu plāns, privāto pensiju fondu izveidotais pensiju plāns, kas saņem ieguldījumu pārvaldes sabiedrības sniegtos pārvaldes pakalpojumus, vai persona, kas saņem ieguldījumu pārvaldes sabiedrības sniegtos šā likuma 5.panta otrajā un trešajā daļā minētos ieguldījumu pakalpojumus.

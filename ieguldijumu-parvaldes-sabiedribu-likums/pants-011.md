@@ -10,3 +10,4 @@
 6) nav iespējams pārliecināties par to personu identitāti, reputāciju un finansiālā stāvokļa stabilitāti, kurām sabiedrībā ir būtiska līdzdalība;
 7) Komisija konstatē, ka finanšu līdzekļi, kurus iegulda sabiedrības kapitālā, iegūti neparastos vai aizdomīgos finanšu darījumos vai nav dokumentāri pierādīta šo finanšu līdzekļu tiesiska ieguve.
 (4) Ja Komisija pieņem lēmumu par atteikumu izsniegt licenci, atkārtoti iesniegumu licences saņemšanai var iesniegt pēc atteikumā norādīto trūkumu novēršanas.
+(5) Komisija par licences izsniegšanu informē Eiropas Vērtspapīru un tirgu iestādi.
