@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ieguldījumu pārvaldes sabiedrību likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "173",
+  "official_journal_page": null,
+  "official_journal_date": "2011-11-02",
+  "entry_into_force": "2011-11-16",
+  "notification_date": "2011-11-03",
+  "commission_reference": "MNE(2011)57627",
+  "nim_celex": "72009L0065LVA_187272",
+  "nim_id": "187272",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/18fe0aee-594a-4d66-8f00-59dc95c120ec",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
