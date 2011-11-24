@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Finanšu un kapitāla tirgus komisijas 2011.gada 11.novembra normatīvie noteikumi Nr.246 \"Ieguldījumu pārvaldes sabiedrību iekšējās kontroles sistēmas izveides normatīvie noteikumi\".",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "184 (4582)",
+  "official_journal_page": null,
+  "official_journal_date": "2011-11-23",
+  "entry_into_force": "2011-11-24",
+  "notification_date": "2014-12-10",
+  "commission_reference": "MNE(2014)56823",
+  "nim_celex": "72013L0014LVA_221751",
+  "nim_id": "221751",
+  "transposes_celex": [
+    "32013L0014"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d6b9402b-ce4a-4b95-9c6f-88ba75abcbea",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
