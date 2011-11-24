@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "FKTK normatīvie noteikumi Nr.249 \"Normatīvie noteikumi par fondu apvienošanu, galvenās un pakārtotās struktūras darījumiem un ieguldījumu apliecību izplatīšanas kārtību\"",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "184",
+  "official_journal_page": null,
+  "official_journal_date": "2011-11-23",
+  "entry_into_force": "2011-11-24",
+  "notification_date": "2012-06-26",
+  "commission_reference": "MNE(2012)52874",
+  "nim_celex": "72010L0044LVA_192168",
+  "nim_id": "192168",
+  "transposes_celex": [
+    "32010L0044"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/017a5841-d52a-4d3c-83d8-f25379da349c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
