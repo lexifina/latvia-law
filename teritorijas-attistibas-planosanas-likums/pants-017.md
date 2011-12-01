@@ -1,0 +1,4 @@
+17.pants. Nacionālo interešu objektu noteikšana
+(1) Priekšlikumus par nacionālo interešu objektiem sagatavo nozaru ministrijas sadarbībā ar vietējām pašvaldībām. Priekšlikumus apkopo un nodod Ministru kabinetam apstiprināšanai par teritorijas attīstības plānošanu atbildīgā ministrija. Priekšlikumā ietver vietas izvēles pamatojumu un ietekmes uz vidi novērtējuma rezultātus, ja tāds ir nepieciešams saskaņā ar normatīvo aktu prasībām.
+(2) Nacionālo interešu objektam nosaka tā funkcionēšanai nepieciešamo teritoriju un aizsargjoslu, ja tāda paredzēta normatīvajos aktos, kā arī šā objekta izmantošanas nosacījumus.
+(3) Ja netiek piemērots ietekmes uz vidi novērtējums, par teritorijas attīstības plānošanu atbildīgā ministrija Ministru kabineta noteiktajā kārtībā organizē sabiedrības informēšanu par priekšlikumu.

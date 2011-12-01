@@ -1,0 +1,1 @@
+15. Līdz dienai, kad spēkā stājas grozījumi Attīstības plānošanas sistēmas likuma 12.panta pirmajā, otrajā un trešajā daļā, kā arī grozījums par minētā panta piektās daļas izslēgšanu, Latvijas ilgtspējīgas attīstības stratēģijas un Nacionālā attīstības plāna izstrādi koordinē par teritorijas attīstības plānošanu atbildīgā ministrija.

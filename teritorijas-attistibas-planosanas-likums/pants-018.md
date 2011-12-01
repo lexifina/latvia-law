@@ -1,0 +1,4 @@
+18.pants. Plānošanas reģiona ilgtspējīgas attīstības stratēģija
+(1) Plānošanas reģiona ilgtspējīgas attīstības stratēģija ir ilgtermiņa teritorijas attīstības plānošanas dokuments, kurā nosaka plānošanas reģiona ilgtermiņa attīstības redzējumu, stratēģiskos mērķus, prioritātes un telpiskās attīstības perspektīvu rakstveidā un grafiskā veidā.
+(2) Plānošanas reģiona ilgtspējīgas attīstības stratēģiju izstrādā atbilstoši Latvijas ilgtspējīgas attīstības stratēģijā noteiktajiem valsts ilgtermiņa stratēģiskajiem mērķiem un ņemot vērā citus teritorijas attīstības plānošanas dokumentus.
+(3) Plānošanas reģiona ilgtspējīgas attīstības stratēģiju apstiprina ar plānošanas reģiona attīstības padomes lēmumu.

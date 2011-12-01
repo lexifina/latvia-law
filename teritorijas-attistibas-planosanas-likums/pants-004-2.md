@@ -1,0 +1,1 @@
+4. Līdz šajā likumā noteiktajā kārtībā izstrādātā vietējās pašvaldības teritorijas plānojuma apstiprināšanai attiecīgās vietējās pašvaldības teritorijā vai tās daļā paliek spēkā vietējās pašvaldības teritorijas plānojums, kas apstiprināts līdz šā likuma spēkā stāšanās dienai.

@@ -1,0 +1,1 @@
+9. Detālplānojumi, kuru izstrāde uzsākta pirms šā likuma spēkā stāšanās, pabeidzami atbilstoši to normatīvo aktu prasībām, kuri bija spēkā detālplānojumu izstrādes uzsākšanas dienā, bet ne vēlāk kā līdz 2012.gada 31.decembrim.

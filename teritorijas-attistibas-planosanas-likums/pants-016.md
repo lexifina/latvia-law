@@ -1,0 +1,3 @@
+16.pants. Jūras plānojums
+(1) Jūras plānojums teritorijas izmantošanu teritoriālajos ūdeņos, kontinentālajā šelfā un ekskluzīvajā ekonomiskajā zonā nosaka, ņemot vērā funkcionāli ar teritoriālajiem ūdeņiem saistīto sauszemes daļu un saskaņojot dažādu nozaru un pašvaldību intereses teritoriālo ūdeņu, kontinentālā šelfa un ekskluzīvās ekonomiskās zonas izmantošanā.
+(2) Jūras plānojuma izstrādi organizē par teritorijas attīstības plānošanu atbildīgā ministrija sadarbībā ar nozaru ministrijām, plānošanas reģioniem un vietējām pašvaldībām, kuru administratīvā teritorija robežojas ar teritoriālajiem ūdeņiem.

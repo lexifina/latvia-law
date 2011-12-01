@@ -1,0 +1,1 @@
+6. Plānošanas reģionu un vietējo pašvaldību attīstības programmu izstrāde, kas uzsākta pirms šā likuma spēkā stāšanās, pabeidzama atbilstoši to normatīvo aktu prasībām, kuri bija spēkā, kad tika uzsākta minēto attīstības programmu izstrāde.

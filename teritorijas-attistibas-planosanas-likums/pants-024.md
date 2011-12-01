@@ -1,0 +1,5 @@
+24.pants. Lokālplānojums
+(1) Lokālplānojumu vietējā pašvaldība izstrādā pēc savas iniciatīvas un izmanto par pamatu turpmākai plānošanai, kā arī būvprojektēšanai.
+(2) Lokālplānojumā var detalizēt vietējās pašvaldības teritorijas plānojumu. Pēc vietējās pašvaldības ilgtspējīgas attīstības stratēģijas spēkā stāšanās lokālplānojumā var grozīt vietējās pašvaldības teritorijas plānojumu, ciktāl lokālplānojums nav pretrunā ar vietējās pašvaldības ilgtspējīgas attīstības stratēģiju.
+(3) Lokālplānojumā paredzētā funkcionālā zonējuma vai teritorijas izmantošanas un apbūves noteikumu izmaiņas izstrādā normatīvajos aktos noteiktajā kārtībā kā lokālplānojuma grozījumus.
+(4) Lokālplānojuma teritorijā ir spēkā lokālplānojumā noteiktais funkcionālais zonējums un teritorijas izmantošanas un apbūves noteikumi. Ja spēkā stājas jauni ar lokālplānojumā noteikto funkcionālo zonējumu un teritorijas izmantošanas un apbūves noteikumiem saistīti normatīvie akti ar augstāku juridisko spēku, vietējā pašvaldība izvērtē nepieciešamību izdarīt grozījumus lokālplānojumā.

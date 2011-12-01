@@ -1,0 +1,1 @@
+8. Ja līdz šā likuma spēkā stāšanās dienai vietējās pašvaldības teritorijas plānojums vai teritorijas plānojuma grozījumi ir izstrādes procesā, vietējā pašvaldība pieņem lēmumu, kurā norāda normatīvos aktus, saskaņā ar kuriem tās teritorijas plānojuma vai teritorijas plānojuma grozījumu izstrāde pabeidzama.

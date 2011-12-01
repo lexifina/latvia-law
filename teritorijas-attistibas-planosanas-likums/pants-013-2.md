@@ -1,0 +1,1 @@
+13. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai piemērojami Ministru kabineta 2010.gada 12.oktobra noteikumi Nr.977 "Noteikumi par nacionālas nozīmes lauksaimniecības teritorijām", ciktāl tie nav pretrunā ar šo likumu, bet ne ilgāk kā līdz 2013.gada 31.maijam.

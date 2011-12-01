@@ -1,0 +1,3 @@
+14.pants. Teritorijas attīstības plānošanas dokumentu izstrādei nepieciešamo datu un informācijas sniegšana
+(1) Visu veidu teritorijas attīstības plānošanas dokumentu izstrādei valsts un pašvaldību institūcijas bez maksas sniedz nepieciešamo informāciju, kuru minētās institūcijas sagatavo un uztur par budžeta līdzekļiem.
+(2) Ja ģeotelpisko datu kopas veidošanai un uzturēšanai nepieciešamais finansējums nav nodrošināts no valsts vai pašvaldības budžeta līdzekļiem, šādu ģeotelpisko datu kopu izmanto (tajā skaitā nodrošinot tiešu piekļuvi) par maksu atbilstoši ģeotelpisko datu kopas turētāja maksas pakalpojumu cenrādim.

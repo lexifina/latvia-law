@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Teritorijas plānošanas likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2002, 13.nr.; 2003, 10.nr.; 2005, 5.nr.; 2007, 10., 24.nr.; 2008, 24.nr.; 2010, 40.nr.).

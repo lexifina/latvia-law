@@ -1,0 +1,1 @@
+3. Jūras plānojuma izstrādi uzsāk ne vēlāk kā līdz 2014.gada 1.janvārim. Līdz jūras plānojuma spēkā stāšanās dienai lēmumus par teritoriālo ūdeņu, kontinentālā šelfa un ekskluzīvās ekonomiskās zonas izmantošanu pieņem Ministru kabinets, ja normatīvajos aktos nav noteikts citādi.

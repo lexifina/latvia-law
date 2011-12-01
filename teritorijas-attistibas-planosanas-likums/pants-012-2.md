@@ -1,0 +1,1 @@
+12. Ministru kabineta 2006.gada 14.februāra noteikumi Nr.121 "Kārtība, kādā piešķir mērķdotāciju plānošanas reģionu un vietējo pašvaldību teritorijas plānojumu un to grozījumu izstrādei" piemērojami līdz minētajos noteikumos noteiktā piešķirtās mērķdotācijas apguves termiņa beigām, bet ne ilgāk kā līdz 2012.gada 31.decembrim.
