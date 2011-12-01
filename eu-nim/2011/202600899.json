@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Teritorijas attīstības plānošanas likums",
+  "type_of_act": "Likums",
+  "official_journal": null,
+  "official_journal_reference": "173",
+  "official_journal_page": null,
+  "official_journal_date": "2011-11-02",
+  "entry_into_force": "2011-12-01",
+  "notification_date": "2026-02-03",
+  "commission_reference": "MNE(2026)00899",
+  "nim_celex": "72018L2001LVA_202600899",
+  "nim_id": "202600899",
+  "transposes_celex": [
+    "32018L2001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7eab1a1b-8d61-4232-8e52-a09093fbb277",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
