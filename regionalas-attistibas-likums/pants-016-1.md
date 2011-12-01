@@ -3,7 +3,7 @@
 1) nosaka plānošanas reģiona ilgtermiņa attīstības galvenos pamatprincipus, mērķus un prioritātes;
 2) nodrošina plānošanas reģiona attīstības koordināciju atbilstoši attīstības plānošanas dokumentos noteiktajiem galvenajiem pamatprincipiem, mērķiem un prioritātēm;
 3) vada un uzrauga plānošanas reģiona attīstības plānošanas dokumentu izstrādi un ieviešanu;
-3¹) izvērtē un sniedz atzinumus par reģionālā un vietējā līmeņa attīstības plānošanas dokumentu savstarpējo saskaņotību un atbilstību hierarhiski augstākiem attīstības plānošanas dokumentiem, kā arī attīstības plānošanas dokumentu sistēmu regulējošiem normatīvajiem aktiem;
+3¹) sniedz atzinumu par vietējā līmeņa ilgtermiņa attīstības stratēģijas un attīstības programmas atbilstību reģionālā līmeņa teritorijas attīstības plānošanas dokumentiem, kā arī attīstības plānošanas dokumentu sistēmu regulējošiem normatīvajiem aktiem;
 4) nodrošina pašvaldību sadarbību un plānošanas reģiona sadarbību ar nacionālā līmeņa institūcijām reģionālās attīstības atbalsta pasākumu īstenošanā;
 5) izvērtē Latvijas ilgtspējīgas attīstības stratēģijas, nacionālā attīstības plāna un nozaru attīstības programmu atbilstību plānošanas reģiona attīstības plānošanas dokumentiem un, konstatējot neatbilstību, ierosina grozīt nacionālā līmeņa attīstības plānošanas dokumentus vai lemj par grozījumiem plānošanas reģiona plānošanas dokumentos;
 6) izvērtē vietējo pašvaldību vai privātpersonu projektu iesniegumus reģionālās attīstības valsts atbalsta saņemšanai un sniedz atzinumus par tiem;

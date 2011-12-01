@@ -6,4 +6,4 @@
 5) līdz 2003.gada 1.septembrim izdod šā likuma 14.panta 2.punktā un 21.panta trešajā daļā paredzētos noteikumus;
 6) līdz 2003.gada 1.oktobrim saskaņā ar šā likuma 20.panta pirmo un trešo daļu izveido Reģionālo fondu un apstiprina tā nolikumu;
 7) līdz 2008.gada 31.janvārim izdod šā likuma 14.panta 5. un 6.punktā paredzētos noteikumus;
-8) līdz 2009.gada 30.decembrim izdod šā likuma 14.panta 7.punktā paredzētos noteikumus.
+8) līdz 2012.gada 31.decembrim izdod šā likuma 14.panta 7.punktā paredzētos noteikumus.

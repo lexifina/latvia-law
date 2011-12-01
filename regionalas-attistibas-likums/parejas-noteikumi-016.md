@@ -1,1 +1,0 @@
-16. Līdz teritorijas attīstības plānojuma izstrādi regulējošu normatīvo aktu spēkā stāšanās brīdim plānošanas reģioni un vietējās pašvaldības ilgtermiņa teritorijas plānošanu veic saskaņā ar Teritorijas plānošanas likumu un tam pakārtotajiem normatīvajiem aktiem.
