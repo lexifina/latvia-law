@@ -28,7 +28,7 @@
 13) par vīzas pieprasīšanai nepieciešamo dokumentu izskatīšanu un ar to saistītajiem pakalpojumiem;
 14) par Latvijas Republikas pasu un citu personu apliecinošu un tiesību apliecinošu dokumentu izsniegšanu;
 15) (izslēgts ar 09.10.2003. likumu);
-16) par iesnieguma izskatīšanu selekcionāra tiesību piešķiršanai, par selekcionāra tiesību aizsardzību un par licences līguma reģistrāciju Valsts augu aizsardzības dienestā;
+16) par selekcionāra tiesību piešķiršanu un pagarināšanu, par selekcionāra tiesību aizsardzību un par licences līguma reģistrāciju Valsts augu aizsardzības dienestā;
 17) par rūpnieciskā īpašuma (izgudrojumu, preču zīmju, dizainparaugu un cita rūpnieciskā īpašuma) aizsardzību;
 18) par naturalizācijas iesniegumu iesniegšanu;
 19) par muitas iestāžu pakalpojumiem;
