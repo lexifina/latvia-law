@@ -1,6 +1,6 @@
 37.pants. Aprobežojumi virszemes ūdensobjektu aizsargjoslās
 (1) Virszemes ūdensobjektu aizsargjoslās papildus šā likuma 35.pantā minētajam tiek noteikti šādi aprobežojumi:
-1) aizliegts izvietot būves lopbarības glabāšanai (izņemot siena šķūņus), minerālmēslu, augu aizsardzības līdzekļu, degvielas, eļļošanas materiālu, bīstamo ķīmisko vielu vai ķīmisko produktu, kokmateriālu, kā arī bīstamās ķīmiskās vielas vai ķīmiskos produktus saturošu materiālu glabātavas, izņemot šim nolūkam teritoriju plānojumos paredzētās vietas;
+1) aizliegts izvietot būves lopbarības glabāšanai (izņemot siena šķūņus), minerālmēslu, augu aizsardzības līdzekļu, degvielas, eļļošanas materiālu, bīstamo ķīmisko vielu vai ķīmisko produktu, kokmateriālu, kā arī bīstamās ķīmiskās vielas vai ķīmiskos produktus saturošu materiālu glabātavas, izņemot šim nolūkam teritoriju plānojumos vai lokālplānojumos paredzētās vietas;
 2) aizliegts ierīkot atkritumu apglabāšanas poligonus;
 3) aizliegts veikt 50 metrus platā joslā kailcirtes, izņemot koku ciršanu ārkārtas situāciju seku likvidēšanai un vējgāžu, vējlaužu un snieglaužu seku likvidēšanai, kā arī palieņu pļavu atjaunošanai un apsaimniekošanai. Ja aizsargjosla ir šaurāka par 50 metriem, kailcirte aizliegta visā aizsargjoslas platumā;
 4) applūstošajās teritorijās aizliegts veikt teritorijas uzbēršanu, būvēt ēkas un būves, arī aizsargdambjus, izņemot:

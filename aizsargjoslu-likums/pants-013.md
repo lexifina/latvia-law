@@ -1,7 +1,7 @@
 13.pants. Aizsargjoslas gar ielām, autoceļiem un dzelzceļiem
 (1) Aizsargjoslas gar ielām, autoceļiem un dzelzceļiem tiek noteiktas, lai samazinātu ielu, autoceļu un dzelzceļu negatīvo ietekmi uz vidi, nodrošinātu transporta maģistrāļu ekspluatāciju un drošību, kā arī izveidotu no apbūves brīvu joslu, kas nepieciešama ielu un autoceļu rekonstrukcijai.
 (2) Gar ielām un autoceļiem aizsargjoslas nosaka šādi:
-1) pilsētās un ciemos gar ielām un autoceļiem - teritoriju plānojumos likumā noteiktajā kārtībā un atzīmē zemes gabalu plānos kā sarkano līniju (esoša vai projektēta ielas robeža) un būvlaidi (līnija, kas nosaka attālumu no sarkanās līnijas līdz apbūvei);
+1) pilsētās un ciemos gar ielām un autoceļiem - lokālplānojumos vai detālplānojumos normatīvajos aktos noteiktajā kārtībā un atzīmē zemes gabalu robežplānos kā sarkano līniju (esoša vai projektēta ielas robeža);
 2) lauku apvidos aizsargjoslu platums gar autoceļiem no ceļa ass uz katru pusi ir:
 a) valsts galvenajiem autoceļiem - 100 metru,
 b) valsts reģionālajiem autoceļiem - 60 metru,

@@ -2,7 +2,7 @@
 Aizsargjoslās ap ūdens ņemšanas vietām papildus šā likuma 35.pantā minētajam tiek noteikti šādi aprobežojumi:
 1) stingra režīma aizsargjoslā aizliegta jebkāda saimnieciskā darbība, izņemot to, kura saistīta ar ūdens ieguvi konkrētā ūdensapgādes urbumā vai ūdensgūtnē attiecīgo ūdens ieguves un apgādes objektu uzturēšanai un apsaimniekošanai;
 2) bakterioloģiskajā aizsargjoslā paredzētās darbības realizēšanai jāveic ietekmes uz vidi sākotnējais izvērtējums. Ja centralizētajai ūdensapgādei izmanto pazemes (no virszemes piesārņojuma infiltrācijas neaizsargātu) ūdens horizontu, kā arī pazemes ūdens resursu mākslīgas papildināšanas metodi, jāievēro šā panta 1.punktā minētie aprobežojumi. Bakterioloģiskajā aizsargjoslā aizliegts:
-a) izvietot lopbarības, minerālmēslu, augu aizsardzības līdzekļu, degvielas, eļļošanas materiālu, ķīmisko vielu un ķīmisko produktu, kokmateriālu un citu veidu materiālu un vielu glabātavas, izņemot teritoriju plānojumos paredzētās vietas,
+a) izvietot lopbarības, minerālmēslu, augu aizsardzības līdzekļu, degvielas, eļļošanas materiālu, ķīmisko vielu un ķīmisko produktu, kokmateriālu un citu veidu materiālu un vielu glabātavas, izņemot teritoriju plānojumos vai lokālplānojumos paredzētās vietas,
 b) ierīkot atkritumu apglabāšanas poligonus,
 c) izvietot degvielas uzpildes stacijas,
 d) aizkraut pievedceļus un pieejas pie ūdens ņemšanas ietaisēm,
