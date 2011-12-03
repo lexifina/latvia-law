@@ -7,4 +7,5 @@ Likumā iekļautas tiesību normas, kas izriet no:
 6) Padomes 2000.gada 29.jūnija direktīvas 2000/43/EK, ar ko ievieš vienādas attieksmes principu pret personām neatkarīgi no rasu vai etniskās piederības;
 7) Eiropas Parlamenta un Padomes 2002.gada 23.septembra direktīvas 2002/73/EK, ar kuru groza Padomes direktīvu 76/207/EEK par tāda principa īstenošanu, kas paredz vienlīdzīgu attieksmi pret vīriešiem un sievietēm attiecībā uz darba iespējām, profesionālo izglītību un paaugstināšanu amatā, kā arī darba nosacījumiem;
 8) Eiropas Parlamenta un Padomes 2006.gada 5.jūlija direktīvas 2006/54/EK par tāda principa īstenošanu, kas paredz vienlīdzīgas iespējas un attieksmi pret vīriešiem un sievietēm nodarbinātības un profesijas jautājumos;
-9) Padomes 2009.gada 25.maija direktīvas Nr.2009/50/EK par trešo valstu valstspiederīgo ieceļošanu un uzturēšanos augsti kvalificētas nodarbinātības nolūkos.
+9) Padomes 2009.gada 25.maija direktīvas Nr.2009/50/EK par trešo valstu valstspiederīgo ieceļošanu un uzturēšanos augsti kvalificētas nodarbinātības nolūkos;
+10) Eiropas Parlamenta un Padomes 2008.gada 19.novembra direktīvas Nr.2008/104/EK par pagaidu darba aģentūrām.

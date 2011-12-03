@@ -8,7 +8,7 @@
 5) organizē Nodarbinātības valsts aģentūras un darba devēju sadarbību un savstarpēju informācijas apmaiņu, kā arī uzskaita darba devēju pieteiktās brīvās darba vietas;
 6) bez maksas informē par darba devēju pieteiktajām brīvajām darba vietām, kā arī par bezdarbnieku un darba meklētāju tiesībām un pienākumiem;
 7) organizē bezdarbnieku, darba meklētāju un darba devēju dialogu, lai samazinātu bezdarbu;
-8) organizē un īsteno aktīvos nodarbinātības pasākumus un preventīvos bezdarba samazināšanas pasākumus;
+8) organizē vai īsteno aktīvos nodarbinātības pasākumus un preventīvos bezdarba samazināšanas pasākumus;
 9) bez maksas sniedz karjeras konsultācijas bezdarbniekiem, darba meklētājiem un citām personām, tādējādi palīdzot tām orientēties profesionālās piemērotības, kā arī pārkvalifikācijas jautājumos;
 10) apkopo karjeras konsultācijām nepieciešamo informāciju, kā arī informāciju par izglītības iespējām;
 11) izstrādā jaunas un pilnveido esošās karjeras konsultāciju metodes, kā arī sniedz palīdzību to ieviešanā;
@@ -22,3 +22,4 @@
 (4) Informācijas pieprasīšanas un saņemšanas nodrošināšanai šā panta trešajā daļā minētās institūcijas slēdz sadarbības līgumus vai starpresoru vienošanās.
 (5) Nodarbinātības valsts aģentūra tiek finansēta no valsts pamatbudžeta, ieņēmumiem par maksas pakalpojumiem, dāvinājumiem un ziedojumiem, kā arī citiem līdzekļiem saskaņā ar normatīvajiem aktiem.
 (6) Nodarbinātības valsts aģentūras izdotos administratīvos aktus un faktisko rīcību var normatīvajos aktos noteiktajā kārtībā apstrīdēt Nodarbinātības valsts aģentūras direktoram, bet Nodarbinātības valsts aģentūras direktora izdotos administratīvos aktus var pārsūdzēt tiesā.
+(7) Nodarbinātības valsts aģentūra slēdz civiltiesiskus līgumus ar šā panta otrās daļas 8.punktā minēto pasākumu īstenotājiem, ja tie izraudzīti publiskos iepirkumus regulējošos normatīvajos aktos noteiktajā kārtībā.

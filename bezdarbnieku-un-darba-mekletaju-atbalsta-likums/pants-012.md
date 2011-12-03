@@ -3,7 +3,7 @@
 1) darba ņēmēja vai pašnodarbinātā statusa iegūšana uz nenoteiktu laiku vai uz laiku, kas ilgāks par diviem mēnešiem, saskaņā ar likumu "Par valsts sociālo apdrošināšanu", izņemot iesaistīšanos aktīvajos nodarbinātības pasākumos;
 2) valsts vecuma pensijas piešķiršanai nepieciešamā vecuma sasniegšana;
 3) nonākšana pilnā valsts apgādībā;
-4) izglītības iegūšanas uzsākšana klātienē vispārējās vidējās vai profesionālās vidējās izglītības iestādē, izņemot vakarskolu;
+4) uzņemšana pamatizglītības vai vidējās izglītības programmā klātienē;
 5) atteikšanās no piemērota darba piedāvājuma divas reizes;
 6) bezdarbnieka pienākumu nepildīšana bez attaisnojoša iemesla;
 7) nepatiesu ziņu sniegšana bezdarbnieka statusa iegūšanai un saglabāšanai;
@@ -20,7 +20,7 @@
 1) bezdarbnieka profesionālajai sagatavotībai un viņa līdzšinējai profesionālajai darbībai, kā arī valsts valodas prasmes pakāpei;
 2) bezdarbnieka veselības stāvoklim;
 3) piedāvātās darba vietas sasniedzamībai (vietai, līdz kurai, braucot ar sabiedrisko transportu no bezdarbnieka deklarētās dzīvesvietas, ceļā jāpavada ne vairāk kā viena stunda vienā virzienā);
-4) vidējai darba samaksai konkrētās nozares atbilstošajā profesijā (pēc Centrālās statistikas pārvaldes pēdējiem oficiāli publicētajiem datiem), kas tiek piedāvāta bezdarbniekam.
+4) (izslēgts ar 24.11.2011. likumu).
 (3) Lēmumu par bezdarbnieka statusa zaudēšanu pieņem Nodarbinātības valsts aģentūra vienas darba dienas laikā pēc šā panta pirmajā daļā minēto bezdarbnieka statusa zaudēšanas nosacījumu konstatēšanas. Šādā gadījumā persona zaudē bezdarbnieka statusu ar dienu, kad iestājies attiecīgais bezdarbnieka statusa zaudēšanas nosacījums.
 (4) Personai, kura bezdarbnieka statusu zaudējusi šā panta pirmās daļas 5., 6., 7. vai 13.punktā minēto iemeslu dēļ, ir tiesības bezdarbnieka statusu iegūt no jauna ne agrāk kā pēc trim mēnešiem no dienas, kad tika pieņemts lēmums par bezdarbnieka statusa zaudēšanu.
 (5) Personai, kura bezdarbnieka statusu zaudējusi šā panta pirmās daļas 1., 2., 3. vai 11.punktā minēto iemeslu dēļ, ir tiesības pabeigt šā likuma 3.panta pirmās daļas 1. un 3.punktā minētā aktīvā nodarbinātības pasākuma laikā iesāktās apmācības programmas.

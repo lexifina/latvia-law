@@ -10,7 +10,7 @@ b) triju darba dienu laikā - ja ir iegūts darba ņēmēja statuss uz laiku lī
 c) (izslēgts ar 21.06.2007. likumu),
 d) triju nedēļu laikā no pārejošas darbnespējas sākuma - par pārejošas darbnespējas laiku, ja tas ir bijis ilgāks par 10 dienām.
 (2) Aktīva darba meklēšana šā likuma izpratnē ir personas mērķtiecīgas darbības nolūkā atrast algotu darbu - piedalīšanās konkursos uz vakantajām darba vietām, kā arī citas darbības, kuru mērķis ir atrast darbu.
-(3) Neierašanās Nodarbinātības valsts aģentūrā šā panta pirmās daļas 2. un 3.punktā minētajos gadījumos tiek uzskatīta par attaisnotu, ja:
+(3) Neierašanās Nodarbinātības valsts aģentūrā šā panta pirmās daļas 1., 2., 3. un 4.punktā minētajos gadījumos tiek uzskatīta par attaisnotu, ja:
 1) bezdarbniekam iestājusies pārejoša darbnespēja;
 2) bezdarbnieks kopj slimu bērnu;
 3) pamatojoties uz izsaukumu, bezdarbnieks ierodas izziņas iestādē, prokuratūrā, tiesā vai piedalās tiesas sēdē kā piesēdētājs;

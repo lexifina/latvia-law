@@ -6,8 +6,8 @@
 4) ir darbspējīga un gatava nekavējoties stāties darba attiecībās;
 5) ir sasniegusi 15 gadu vecumu;
 6) nav sasniegusi valsts vecuma pensijas piešķiršanai nepieciešamo vecumu;
-7) neiegūst izglītību klātienē vispārējās vidējās vai profesionālās vidējās izglītības iestādē, izņemot vakarskolu;
+7) nav uzņemta pamatizglītības vai vidējās izglītības programmā klātienē;
 8) neveic komercdarbību vai tās komercdarbība apturēta saskaņā ar normatīvajiem aktiem;
 9) nav pilnā valsts apgādībā.
 (2) Par darbspējīgu šā likuma izpratnē uzskatāma arī persona, kurai ir noteikta invaliditāte, izņemot gadījumus, kad veselības un darbspēju ekspertīzes ārstu komisija ir noteikusi 100 procentu darbspēju zaudējumu.
-(3) Ja personai reģistrēšanās dienā ir pārejoša darbnespēja, Nodarbinātības valsts aģentūra bezdarbnieka statusu šai personai piešķir pēc pārejošas darbnespējas izbeigšanās.
+(3) (Izslēgta ar 24.11.2011. likumu)

@@ -14,4 +14,11 @@
 (4) Darba meklētājam ir pienākums:
 1) patstāvīgi un ar Nodarbinātības valsts aģentūras palīdzību aktīvi meklēt darbu;
 2) Nodarbinātības valsts aģentūras noteiktajā laikā, bet ne vēlāk kā pēc trim mēnešiem no dienas, kad viņš iepriekšējo reizi apmeklēja Nodarbinātības valsts aģentūru, ierasties Nodarbinātības valsts aģentūrā un uzrādīt normatīvajos aktos noteiktos dokumentus;
-3) triju darba dienu laikā ziņot Nodarbinātības valsts aģentūrai par to, ka viņš vairs neatbilst šā likuma 15.panta pirmās daļas 1., 3. un 5.punktā minētajiem darba meklētāja statusa iegūšanas nosacījumiem.
+3) triju darba dienu laikā ziņot Nodarbinātības valsts aģentūrai par to, ka viņš vairs neatbilst šā likuma 15.panta pirmās daļas 1., 3. un 5.punktā minētajiem darba meklētāja statusa iegūšanas nosacījumiem;
+4) piedalīties konkurētspējas paaugstināšanas pasākumos, par dalību kuros ir noslēgta rakstveida vienošanās ar Nodarbinātības valsts aģentūru.
+(5) Neierašanās Nodarbinātības valsts aģentūrā šā panta ceturtās daļas 1., 2. un 4.punktā minētajos gadījumos tiek uzskatīta par attaisnotu, ja:
+1) darba meklētājam iestājusies pārejoša darbnespēja;
+2) darba meklētājs kopj slimu bērnu;
+3) pamatojoties uz izsaukumu, darba meklētājs ierodas izziņas iestādē, prokuratūrā, tiesā vai piedalās tiesas sēdē kā piesēdētājs;
+4) iemesls ir pirmās pakāpes radinieka vai laulātā nāve un ja Nodarbinātības valsts aģentūras apmeklējuma diena noteikta agrāk par septīto dienu pēc šāda radinieka vai laulātā nāves dienas;
+5) ir citi objektīvi apstākļi, kas nav atkarīgi no darba meklētāja gribas.

@@ -14,3 +14,4 @@
 2) veicinātu darba tirgus apstākļiem piemēroties spējīga un apmācīta darbaspēka veidošanu;
 3) veicinātu indivīda konkurētspējas paaugstināšanu;
 4) veicinātu vienlīdzīgu iespēju radīšanu personām, kuras vēlas iekļūt darba tirgū.
+(3) Aktīvo nodarbinātības pasākumu laikā pasākumu īstenotāji nodrošina bezdarbniekiem, darba meklētājiem un bezdarba riskam pakļautajām personām drošus un veselībai nekaitīgus mācību un mācību prakses apstākļus.

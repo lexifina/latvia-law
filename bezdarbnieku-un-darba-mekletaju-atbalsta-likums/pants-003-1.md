@@ -13,3 +13,4 @@
 (5) Pasākumus komersantu nodarbināto personu reģionālās mobilitātes veicināšanai organizē, lai mazinātu bezdarba iestāšanās risku, kas saistīts ar nodarbināto pārvietošanos starp dzīvesvietu un darbavietu.
 (6) Apmācības programmas pieaugušo iesaistei mūžizglītībā nodrošina, lai pieaugušajiem dotu iespēju papildināt un pilnveidot darba dzīvei nepieciešamās zināšanas un prasmes.
 (7) Apmācības programmas bezdarba riskam pakļautām nodarbinātām personām nodrošina, lai šādām personām dotu iespēju pilnveidot savas profesionālās prasmes un iemaņas un veicinātu ilgtspējīgu darba vietu saglabāšanu.
+(8) Preventīvo bezdarba samazināšanas pasākumu laikā pasākumu īstenotāji nodrošina bezdarbniekiem, darba meklētājiem un bezdarba riskam pakļautajām personām drošus un veselībai nekaitīgus mācību un mācību prakses apstākļus.
