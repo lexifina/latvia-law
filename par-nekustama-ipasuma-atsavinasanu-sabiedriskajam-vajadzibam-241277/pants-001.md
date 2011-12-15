@@ -1,0 +1,1 @@
+1.pants. Atsavināt sabiedriskajām vajadzībām - valsts autoceļa E22 posma Rīga (Tīnūži)-Koknese rekonstrukcijas projekta īstenošanai - nekustamo īpašumu "Krustceles" Krapes pagastā, Ogres novadā (kadastra Nr.7452 005 0114, reģistrēts Ogres zemesgrāmatu nodaļas Krapes pagasta zemesgrāmatas nodalījumā Nr.100000155170) 2,4 hektāru platībā.
