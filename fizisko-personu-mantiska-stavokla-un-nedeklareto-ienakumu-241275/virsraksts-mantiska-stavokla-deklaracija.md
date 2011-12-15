@@ -1,0 +1,1 @@
+Mantiskā stāvokļa deklarācija

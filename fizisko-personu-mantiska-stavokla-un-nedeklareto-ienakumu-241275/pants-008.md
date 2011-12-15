@@ -1,0 +1,4 @@
+8.pants. Īpaši noteikumi attiecībā uz skaidras naudas uzkrājumiem
+(1) Ja šā likuma 2.panta pirmās daļas 1.punktā minētā persona ir iesniegusi mantiskā stāvokļa deklarāciju un tajā ir norādījusi šā likuma 5.panta otrās daļas 8.punkta "b" apakšpunktā minēto informāciju, un ir Latvijas Republikas rezidents likuma "Par nodokļiem un nodevām" izpratnē, tā savu skaidras naudas uzkrājumu kopsummas daļu, kas pārsniedz 10 000 latus, iemaksā kontā kredītiestādē.
+(2) Valsts amatpersona, kas iesniedz kārtējā gada deklarāciju par 2011.gadu, likuma "Par interešu konflikta novēršanu valsts amatpersonu darbībā" 24.panta pirmās daļas 7.punktā minēto naudas uzkrājumu kopsummas daļu, kas pārsniedz 20 Latvijā noteiktās minimālās mēnešalgas, iemaksā kontā kredītiestādē.
+(3) Kārtību un termiņu, kādā šā panta pirmajā un otrajā daļā minētās personas skaidras naudas uzkrājumus iemaksā kontā kredītiestādē, nosaka Ministru kabinets.
