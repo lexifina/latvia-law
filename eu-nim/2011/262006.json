@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2011. gada 13. decembra noteikumi Nr. 948 \"Katastrofu medicīnas sistēmas organizēšanas noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "198 (4596)",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-16",
+  "entry_into_force": "2011-12-17",
+  "notification_date": "2018-08-20",
+  "commission_reference": "MNE(2018)54418",
+  "nim_celex": "72017L0541LVA_262006",
+  "nim_id": "262006",
+  "transposes_celex": [
+    "32017L0541"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/66ca88d9-0fc9-4dd8-8bea-359b80b98056",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
