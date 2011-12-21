@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2011.gada 6.decembra noteikumi Nr.940 “Noteikumi par veselības pārbaudēm transportlīdzekļu vadītājiem un personām, kuras vēlas iegūt transportlīdzekļu vadītāju kvalifikāciju, kā arī par pirmstermiņa veselības pārbaudes izdevumu segšanas kārtību”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "199 (4597)",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-20",
+  "entry_into_force": "2011-12-21",
+  "notification_date": "2016-01-19",
+  "commission_reference": "MNE(2016)50524",
+  "nim_celex": "72014L0085LVA_233869",
+  "nim_id": "233869",
+  "transposes_celex": [
+    "32014L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4234c886-6b80-4e64-abbd-5e2e0c24f84c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
