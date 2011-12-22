@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sabiedrisko pakalpojumu regulēšanas komisijas padomes lēmums Nr.1/32 \"Elektroenerģijas sadales sistēmas pakalpojumu tarifu aprēķināšanas metodika\"",
+  "type_of_act": "SPRK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "200 (4598)",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-21",
+  "entry_into_force": "2011-12-22",
+  "notification_date": "2014-06-19",
+  "commission_reference": "MNE(2014)53734",
+  "nim_celex": "72012L0027LVA_217649",
+  "nim_id": "217649",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/756c69e3-cdeb-49ac-9a66-74ffb834bd43",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
