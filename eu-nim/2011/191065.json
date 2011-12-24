@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par kārtību, kādā iepērk un realizē melno un krāsaino metālu atgriezumus un lūžņus un izsniedz licences metālu atgriezumu un lūžņu iepirkšanai Latvijā, kā arī par valsts nodevas likmi par licenci metālu atgriezumu un lūžņu iepirkšanai un valsts nodevas maksāšanas kārtību",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "202",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-23",
+  "entry_into_force": "2011-12-24",
+  "notification_date": "2012-05-25",
+  "commission_reference": "MNE(2012)52498",
+  "nim_celex": "72003L0122LVA_191065",
+  "nim_id": "191065",
+  "transposes_celex": [
+    "32003L0122"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2d716b21-a200-4ff9-9960-f3482d170177",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
