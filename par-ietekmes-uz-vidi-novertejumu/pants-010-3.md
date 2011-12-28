@@ -15,4 +15,5 @@
 14) projekti, kas paredz ūdens resursu pārdali starp upju baseiniem, ja pārvietojamā ūdens daudzums pārsniedz 2 procentus no tā plūsmas;
 15) akveduktu vai maģistrālo ūdens cauruļvadu ierīkošana ūdens padevei lielos attālumos;
 16) dambju, molu un citu būvju būvniecība plūdu novēršanai;
-17) jūras krastu nostiprināšana.
+17) jūras krastu nostiprināšana;
+18) tādu cauruļvadu ierīkošana oglekļa dioksīda plūsmas transportēšanai, kuri nav minēti šā likuma 1.pielikumā, tai skaitā ar cauruļvadu tīklu saistītās kompresijas stacijas.

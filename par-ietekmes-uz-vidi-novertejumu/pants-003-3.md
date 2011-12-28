@@ -7,4 +7,5 @@
 6) radioaktīvo atkritumu apstrādes un glabāšanas iekārtu uzstādīšana (visas darbības, uz kurām neattiecas šā likuma 1.pielikums);
 7) hidroelektrostaciju būvniecība;
 8) vēja elektrostaciju būvniecība, ja būves augstums pārsniedz 20 metrus;
-9) vēja elektrostaciju būvniecība Latvijas Republikas teritoriālajā jūrā un Latvijas Republikas ekskluzīvajā ekonomiskajā zonā.
+9) vēja elektrostaciju būvniecība Latvijas Republikas teritoriālajā jūrā un Latvijas Republikas ekskluzīvajā ekonomiskajā zonā;
+10) tādu oglekļa dioksīda uztveršanai paredzētu iekārtu ierīkošana, kuras nav minētas šā likuma 1.pielikumā.
