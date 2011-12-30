@@ -8,7 +8,7 @@ Daļēji slēgtajā cietumā sodu izcieš:
 6) personas, kurām naudas sods aizstāts ar brīvības atņemšanu;
 7) (izslēgts ar 21.07.2011. likumu);
 7¹) personas, kurām neizciestais papildsods - probācijas uzraudzība - aizstāts ar brīvības atņemšanu;
-8) notiesātie, kas pārvietoti no slēgtajiem cietumiem sakarā ar priekšzīmīgu uzvedību;
+8) notiesātie, kas pārvietoti no slēgtajiem cietumiem;
 9) notiesātie, kas pārvietoti no atklātajiem cietumiem sakarā ar rupjiem vai sistemātiskiem disciplīnas pārkāpumiem;
 10) notiesātie, kas pārvietoti no audzināšanas iestādes nepilngadīgajiem pēc pilngadības sasniegšanas, ja viņi sodīti par smaga vai sevišķi smaga nozieguma izdarīšanu.
 Daļēji slēgtajos cietumos tiek nodrošināta notiesāto apsardze un pastāvīga uzraudzība. Notiesātie soda izciešanas režīma zemākajā pakāpē sodu izcieš slēgtās kamerās.
@@ -26,5 +26,5 @@ Notiesātajiem, kuri sodu izcieš daļēji slēgtā cietuma soda izciešanas re�
 1) izmantot gadā piecas ilglaicīgas satikšanās - no divpadsmit līdz divdesmit četrām stundām un četras īslaicīgas satikšanās - no pusotras stundas līdz divām stundām;
 2) dienas kārtībā paredzētajā laikā iepirkties cietuma veikalā par naudas summu, kas nepārsniedz trīs ceturtdaļas no Ministru kabineta noteiktās minimālās mēnešalgas;
 3) izmantot divas telefonsarunas mēnesī;
-4) izmantot tiesības, kas paredzētas šā kodeksa 50.⁴ panta devītās daļas 5., 6., 7., 8. un 9.punktā.
-Šajā pantā minētās tiesības ar cietuma priekšnieka atļauju īslaicīgi atstāt cietuma teritoriju neattiecas uz personām, kas notiesātas ar brīvības atņemšanu uz visu mūžu (mūža ieslodzījums), un personām, kurām nāves sods aizstāts ar brīvības atņemšanu.
+4) izmantot tiesības, kas paredzētas šā kodeksa 50.⁴ panta devītās daļas 5., 6., 7., 8., 9. un 10.punktā.
+Šajā pantā minētās tiesības ar cietuma priekšnieka atļauju īslaicīgi atstāt cietuma teritoriju neattiecas uz personām, kas notiesātas ar brīvības atņemšanu uz visu mūžu (mūža ieslodzījums).

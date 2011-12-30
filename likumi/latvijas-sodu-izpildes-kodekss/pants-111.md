@@ -4,4 +4,5 @@ Pamats notiesāto atbrīvošanai no soda izciešanas ir:
 2) amnestijas piemērošana;
 3) apžēlošana;
 4) nolēmums par atbrīvošanu no soda izciešanas nosacīti pirms termiņa;
-5) nolēmums par atbrīvošanu no soda izciešanas sakarā ar to, ka notiesātajam ir psihiski traucējumi vai kāda cita smaga slimība, kas liedz tālāku soda izciešanu.
+5) nolēmums par atbrīvošanu no soda izciešanas sakarā ar to, ka notiesātajam ir psihiski traucējumi vai kāda cita smaga slimība, kas liedz tālāku soda izciešanu;
+6) saņemta Tieslietu ministrijas informācija par to, ka ārvalsts spriedums, kas tiek izpildīts Latvijā, ir atcelts.

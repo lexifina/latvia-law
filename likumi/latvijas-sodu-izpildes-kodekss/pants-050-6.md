@@ -1,9 +1,9 @@
 50.⁶ pants. Soda izpildes režīms atklātajos cietumos
 Atklātajā cietumā sodu izcieš notiesātie:
-1) par kriminālpārkāpuma izdarīšanu, ja viņi agrāk nav izcietuši sodu brīvības atņemšanas iestādē;
-2) par mazāk smaga nozieguma izdarīšanu aiz neuzmanības, ja viņi agrāk nav izcietuši sodu brīvības atņemšanas iestādē un brīvības atņemšana piespriesta uz laiku, ne ilgāku par pieciem gadiem;
+1) par kriminālpārkāpuma izdarīšanu, ja viņi agrāk nav izcietuši sodu brīvības atņemšanas iestādē vai ir izcietuši sodu brīvības atņemšanas iestādē un sodāmība par šādu sodu noņemta vai dzēsta likumā noteiktajā kārtībā;
+2) par mazāk smaga nozieguma izdarīšanu aiz neuzmanības, ja brīvības atņemšana piespriesta uz laiku, ne ilgāku par pieciem gadiem, un viņi agrāk nav izcietuši sodu brīvības atņemšanas iestādē vai ir izcietuši sodu brīvības atņemšanas iestādē un sodāmība par šādu sodu noņemta vai dzēsta likumā noteiktajā kārtībā;
 3) par kriminālpārkāpuma vai mazāk smaga nozieguma izdarīšanu, kuri pēc pilngadības sasniegšanas pārvietoti no audzināšanas iestādes nepilngadīgajiem;
-4) kuri pārvietoti no daļēji slēgtā cietuma par priekšzīmīgu uzvedību.
+4) kuri pārvietoti no daļēji slēgtā cietuma.
 Vienā atklātajā cietumā var turēt notiesātos vīriešus un sievietes.
 Atklātajos cietumos notiesātie uzturas kopmītņu tipa telpās. Dzīvojamās un saimnieciskās telpas var norobežot ar žogu bez ārējās apsardzes, taču notiesātie tiek uzraudzīti. Ar cietuma priekšnieka atļauju viņi var dzīvot personiskās mājās vai privātos (īrētos) dzīvokļos kopā ar ģimeni novada vai republikas pilsētas teritorijā, kurā izvietota brīvības atņemšanas iestāde; viņi nedrīkst patvaļīgi, bez administrācijas atļaujas atstāt noteikto teritoriju un izvairīties no reģistrācijas cietuma dežūrdaļā. Citas prasības, kas jāievēro notiesātajiem atklātajos cietumos, ietvertas brīvības atņemšanas iestādes iekšējās kārtības noteikumos.
 Ja notiesātajam pēdējo 30 dienu laikā nav ticis piemērots sods par soda izciešanas režīma pārkāpumiem vai administratīvais sods, ar cietuma priekšnieka atļauju reizi mēnesī viņš var izbraukt ārpus cietuma teritorijas uz laiku, kas nav ilgāks par divām diennaktīm, bet svētku dienās - līdz piecām diennaktīm.

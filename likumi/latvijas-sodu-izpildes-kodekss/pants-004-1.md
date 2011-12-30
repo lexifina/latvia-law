@@ -1,0 +1,5 @@
+4.¹ pants. Kriminālsoda izpildes apturēšanas un atjaunošanas pamats
+Ar brīvības atņemšanu saistīta kriminālsoda izpilde tiek apturēta līdz ar notiesātā pārvietošanu turpmākai soda izciešanai uz ārvalsti vai ar brīdi, kad saņemts Tieslietu ministrijas paziņojums, ka spriedums pieņemts izpildei ārvalstī.
+Ar brīvības atņemšanu nesaistīta kriminālsoda izpilde tiek apturēta ar brīdi, kad saņemts Tieslietu ministrijas paziņojums, ka spriedums pieņemts izpildei ārvalstī, izņemot mantas konfiskāciju un tiesību ierobežošanu. Mantas konfiskācijas un tiesību ierobežošanas izpilde tiek turpināta, neraugoties uz to, ka Latvijas tiesas nolēmums nodots izpildei ārvalstī.
+Kriminālsoda izpilde tiek atjaunota, ja kriminālsoda izpildes iestāde saņem Tieslietu ministrijas informāciju, ka persona izbēgusi no ārvalsts brīvības atņemšanas iestādes vai ar brīvības atņemšanu nesaistīta kriminālsoda izpilde nodota atpakaļ Latvijai.
+Šā kodeksa izpratnē notiesātās personas lieta tiek apturēta un netiek izbeigta līdz brīdim, kad saņemta Tieslietu ministrijas informācija par pilnīgu soda izpildi ārvalstī.
