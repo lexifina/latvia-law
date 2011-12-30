@@ -7,4 +7,5 @@ Apcietinātajam ir pienākums:
 5) uzkopt telpas izmeklēšanas cietuma dienas kārtībā noteiktajā laikā;
 6) saudzīgi izturēties pret izmeklēšanas cietuma īpašumu;
 7) uzturēt kārtību izmeklēšanas cietuma telpās un ievērot personisko higiēnu;
-8) lietot cietuma ārstniecības personas noteiktos medikamentus ārstniecības personas klātbūtnē.
+8) lietot cietuma ārstniecības personas noteiktos medikamentus ārstniecības personas klātbūtnē;
+9) pakļauties šajā likumā un citos normatīvajos aktos noteiktajai apcietinātā un tā sevišķo pazīmju fotoattēlu iegūšanas kārtībai.

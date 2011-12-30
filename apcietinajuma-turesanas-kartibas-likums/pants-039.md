@@ -5,4 +5,5 @@ Apcietināto atbrīvo no izmeklēšanas cietuma šādos gadījumos:
 3) beidzies likumā paredzētais apcietinājuma maksimālais termiņš;
 4) apcietinājuma termiņš pārsniedz Krimināllikumā noteikto maksimālo brīvības atņemšanas soda termiņu, ko tiesa var piespriest par noziedzīgu nodarījumu, kura izdarīšanā šī persona apsūdzēta;
 5) apcietinājuma termiņš pārsniedz tiesas piespriesto sodu;
-6) beidzies apcietinājuma termiņš un nav saņemts lēmums par apcietinājuma termiņa pagarināšanu.
+6) beidzies apcietinājuma termiņš un nav saņemts lēmums par apcietinājuma termiņa pagarināšanu;
+7) saskaņā ar Kriminālprocesa likuma 772.panta ceturtās daļas 1.punktu 18 dienu laikā no aizturēšanas dienas nav saņemts ārvalsts lūgums par šajā ārvalstī piespriestā brīvības atņemšanas soda izpildi kopā ar nepieciešamajiem pielikumiem.
