@@ -15,7 +15,8 @@
 5) glabāt priekšmetus, kas nav iekļauti glabāšanai kamerā atļauto priekšmetu sarakstā;
 6) lietot alkoholiskos dzērienus, toksiskās, narkotiskās, psihotropās vielas vai citas apreibinošas vielas;
 7) bez īslaicīgās aizturēšanas vietas darbinieka atļaujas mainīt guļamvietu;
-8) smēķēt neatļautās vietās.
+8) smēķēt neatļautās vietās;
+9) atteikties no 3.panta astotajā daļā noteiktās fotografēšanas.
 (4) Īslaicīgās aizturēšanas vietu drīkst apmeklēt:
 1) Kriminālprocesa likumā paredzētās personas procesuālo darbību veikšanai;
 2) valsts un starptautisko cilvēktiesību aizsardzības institūciju pārstāvji;
