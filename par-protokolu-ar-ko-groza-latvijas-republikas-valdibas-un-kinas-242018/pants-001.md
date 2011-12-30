@@ -1,0 +1,1 @@
+1.pants. 2011.gada 24.augustā parakstītais Protokols, ar ko groza Latvijas Republikas valdības un Ķīnas Tautas Republikas valdības līgumu par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem (turpmāk - Protokols), ar šo likumu tiek pieņemts un apstiprināts.
