@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2011.gada 27.decembra noteikumi Nr.1025 \"Noteikumi par rīcību ar lietiskajiem pierādījumiem un arestēto mantu\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "205 (4603)",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-30",
+  "entry_into_force": "2011-12-31",
+  "notification_date": "2016-09-23",
+  "commission_reference": "MNE(2016)55891",
+  "nim_celex": "72014L0042LVA_240864",
+  "nim_id": "240864",
+  "transposes_celex": [
+    "32014L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fdaf0a60-6289-4b77-98bd-c7ef0182d0ef",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
