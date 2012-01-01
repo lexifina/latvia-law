@@ -1,0 +1,1 @@
+19. 2012.gadā valsts un pašvaldību dibināto izglītības iestāžu pedagogiem nemaksā prēmijas, bet viņu materiālo stimulēšanu veic un pabalstus viņiem izmaksā saskaņā ar Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likumu.
