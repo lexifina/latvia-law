@@ -1,0 +1,1 @@
+9. Kuģa īpašnieks, berbouta fraktētājs vai cita par kuģa darbību atbildīga persona nodrošina, ka šā kodeksa XII¹ nodaļā noteiktais kuģa apdrošināšanas pienākums tiek izpildīts ne vēlāk kā līdz 2012.gada 1.februārim.

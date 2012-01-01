@@ -1,6 +1,6 @@
 66.pants. Prasības, attiecībā uz kurām nepiemēro atbildības ierobežošanu
 Šīs nodaļas noteikumus nepiemēro attiecībā uz:
-1) prasībām, kas saistītas ar glābšanas atlīdzību vai iemaksām vispārējās avārijas gadījumā;
+1) prasībām, kas saistītas ar glābšanas atlīdzību, ieskaitot prasības (ja tādas ir) par īpašu kompensāciju saskaņā ar grozītās 1989.gada Starptautiskās glābšanas konvencijas 14.pantu, vai iemaksām vispārējās avārijas gadījumā;
 2) prasībām, kas saistītas ar naftas piesārņojuma radītajiem zaudējumiem 1992.gada Protokola par grozījumiem Starptautiskajā konvencijā par civilo atbildību par naftas piesārņojuma radītajiem zaudējumiem izpratnē;
 3) jebkuras starptautiskās konvencijas vai Latvijas normatīvo aktu prasībām, kuras regulē vai aizliedz kodolpostījuma radīto zaudējumu atbildības ierobežošanu;
 4) prasībām pret atomkuģa kapteini par kodolpostījuma radītajiem zaudējumiem;
