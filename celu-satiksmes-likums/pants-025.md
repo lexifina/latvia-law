@@ -1,5 +1,5 @@
 25.pants. Transportlīdzekļu vadītāja pienākumi
-(1) Mehāniskā transportlīdzekļa vadītājam jābūt klāt turpmāk minētajiem dokumentiem, kas jāuzrāda pēc policijas darbinieku, robežsargu (uz valsts robežas vai pierobežā) vai muitas darbinieku (muitas zonā) pieprasījuma:
+(1) Mehāniskā transportlīdzekļa vadītājam jābūt klāt turpmāk minētajiem dokumentiem, kas jāuzrāda pēc policijas darbinieku, robežsargu vai muitas darbinieku (muitas zonā) pieprasījuma:
 1) vadītāja apliecība;
 2) transportlīdzekļa reģistrācijas dokumenti;
 3) (izslēgts ar 27.09.2007. likumu);
