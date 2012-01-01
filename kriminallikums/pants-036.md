@@ -1,6 +1,6 @@
 36.pants. Sodu veidi
 (1) Personai, kura izdarījusi noziedzīgu nodarījumu, var piespriest vienu no šādiem pamatsodiem:
-1) nāves sods;
+1) (izslēgts ar 01.12.2011. likumu);
 2) brīvības atņemšana;
 3) arests;
 4) mantas konfiskācija;
