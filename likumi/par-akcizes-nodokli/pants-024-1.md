@@ -1,0 +1,2 @@
+24.¹ pants. Nodokļa aprēķināšana un piedzīšana akcīzes preču iztrūkuma gadījumā
+Ja, pārvietojot akcīzes preces atliktās nodokļa maksāšanas režīmā no dalībvalsts uz Latvijas Republiku vai cauri Latvijas Republikas teritorijai, Latvijas Republikā tiek konstatēts iztrūkums (piemēram, izlaupījums, zaudējums vai zudums), Valsts ieņēmumu dienests pieņem lēmumu par nodokļa aprēķinu. Ja aprēķinātais nodoklis šā likuma 23.panta desmitajā daļā noteiktajā termiņā netiek samaksāts, Valsts ieņēmumu dienests to piedzen bezstrīda kārtībā.

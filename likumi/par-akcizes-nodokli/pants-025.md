@@ -38,9 +38,21 @@ a) pārvieto uz citu akcīzes preču noliktavu Latvijas Republikā,
 b) pārvieto uz ārvalsti (arī dalībvalsti) vai teritoriju, kura minēta šā likuma 2.panta 3.¹ daļā,
 c) piegādā šā likuma 20.pantā minētajām personām vai organizācijām citā dalībvalstī;
 2) ieved Latvijas Republikā no citas ārvalsts (arī dalībvalsts) vai no teritorijas, kura minēta šā likuma 2.panta 3.¹ daļā, pārvietošanai uz akcīzes preču noliktavu Latvijas Republikā.
-(12) Apstiprināts noliktavas turētājs, kas veic šā panta vienpadsmitajā daļā minētās darbības, nemaksā nodokli, ja Valsts ieņēmumu dienestam tiek iesniegti dokumenti, kas apliecina, ka bezalkoholiskie dzērieni un kafija atbilst vienam no šādiem nosacījumiem:
+(12) Apstiprināts noliktavas turētājs, kas veic šā panta vienpadsmitajā daļā minētās darbības, nemaksā nodokli, ja Valsts ieņēmumu dienestam tiek iesniegti dokumenti vai nodokļa deklarācijai pievienots apstiprināts to uzskaitījums, kas apliecina, ka bezalkoholiskie dzērieni un kafija atbilst vienam no šādiem nosacījumiem:
 1) šīs preces saņemtas akcīzes preču noliktavā Latvijas Republikā;
 2) šīs preces izvestas no Latvijas Republikas uz citu dalībvalsti;
 3) šīs preces izvestas no Latvijas Republikas uz ārvalsti, kas nav dalībvalsts, vai uz teritoriju, kura minēta šā likuma 2.panta 3.¹ daļā;
 4) šīs preces ir saņēmušas šā likuma 20.pantā minētās organizācijas citā dalībvalstī.
 (13) Ja par bezalkoholiskajiem dzērieniem un kafiju, ko taksācijas periodā pārvieto saskaņā ar šā panta vienpadsmito daļu, piecpadsmit dienu laikā pēc taksācijas perioda beigām Valsts ieņēmumu dienestam netiek iesniegti šā panta divpadsmitajā daļā minētie dokumenti, apstiprināts noliktavas turētājs samaksā nodokli atbilstoši šajā likumā noteiktajai nodokļa likmei. Ja attiecīgos dokumentus iesniedz pēc noteiktā termiņa, bet ne vēlāk kā triju gadu laikā pēc šā termiņa, samaksāto nodokli pārskaita turpmākajiem nodokļa maksājumiem vai pēc attiecīgā nodokļa maksātāja rakstveida pieprasījuma atmaksā 30 dienu laikā pēc pieprasījuma saņemšanas.
+(14) Apstiprinātam noliktavas turētājam atļauts atlikto nodokļa maksāšanu piemērot tām akcīzes precēm, uz kurām neattiecas Komisijas regulā Nr. 684/2009 noteiktais dokuments un datorizētās sistēmas izmantošanas nosacījumi, ja šīs preces:
+1) no akcīzes preču noliktavas Latvijas Republikā:
+a) pārvieto uz citu akcīzes preču noliktavu Latvijas Republikā,
+b) pārvieto uz ārvalsti (arī dalībvalsti) vai teritoriju, kura minēta šā likuma 2.panta 3.¹ daļā,
+c) piegādā šā likuma 20.pantā minētajām personām vai organizācijām citā dalībvalstī;
+2) ieved Latvijas Republikā no citas ārvalsts (arī dalībvalsts) vai no teritorijas, kura minēta šā likuma 2.panta 3.¹ daļā, pārvietošanai uz akcīzes preču noliktavu Latvijas Republikā.
+(15) Apstiprināts noliktavas turētājs, kas veic šā panta četrpadsmitajā daļā minētās darbības, nemaksā nodokli, ja Valsts ieņēmumu dienestam tiek iesniegti dokumenti vai nodokļa deklarācijai pievienots apstiprināts to uzskaitījums, kas apliecina, ka šā panta četrpadsmitajā daļā minētās akcīzes preces atbilst vienam no šādiem nosacījumiem:
+1) šīs preces saņemtas akcīzes preču noliktavā Latvijas Republikā;
+2) šīs preces izvestas no Latvijas Republikas uz citu dalībvalsti;
+3) šīs preces izvestas no Latvijas Republikas uz ārvalsti, kas nav dalībvalsts, vai uz teritoriju, kura minēta šā likuma 2.panta 3.¹ daļā;
+4) šīs preces ir saņēmušas šā likuma 20.pantā minētās organizācijas citā dalībvalstī.
+(16) Ja par šā panta četrpadsmitajā daļā minētajām akcīzes precēm, ko taksācijas periodā pārvieto saskaņā ar šā panta četrpadsmito daļu, 15 dienu laikā pēc taksācijas perioda beigām Valsts ieņēmumu dienestam netiek iesniegti šā panta piecpadsmitajā daļā minētie dokumenti, apstiprināts noliktavas turētājs samaksā nodokli atbilstoši šajā likumā noteiktajai nodokļa likmei. Ja attiecīgos dokumentus iesniedz pēc noteiktā termiņa, bet ne vēlāk kā triju gadu laikā pēc šā termiņa, samaksāto nodokli pārskaita turpmākajiem nodokļa maksājumiem vai pēc attiecīgā nodokļa maksātāja rakstveida pieprasījuma atmaksā 30 dienu laikā pēc pieprasījuma saņemšanas.

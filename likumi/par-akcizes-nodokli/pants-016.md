@@ -11,6 +11,7 @@ b) kuru izmanto citu produktu vai preču (izņemot alkoholiskos dzērienus) kval
 c) kurš kā neatņemama sastāvdaļa ietilpst ierīcēs un mehānismos vai nodrošina ierīču un mehānismu darbību,
 d) kuru izmanto kosmētikas līdzekļu ražošanā,
 e) kuru izmanto pārtikas rūpniecībā (izņemot izmantošanu par izejvielu alkoholisko dzērienu ražošanā un tādu spirtu saturošu produktu ražošanā, kuri ietilpst Kombinētās nomenklatūras 2106. un 3302.preču pozīcijā);
+f) kuru izmanto tādu vielu ražošanā, ko lieto zāļu un veterināro zāļu ražošanā;
 6) vīns, raudzētie dzērieni vai alus, kurus izgatavojusi fiziskā persona savam patēriņam ar nosacījumu, ka tie netiek realizēti;
 7) alkoholiskie dzērieni, kurus satur šokolādes produkti vai citi pārtikas produkti, ja tiek ievēroti šā panta trešās daļas nosacījumi;
 8) spirts, kuru satur etiķis vai citi produkti, kas ietilpst Kombinētās nomenklatūras 2209.preču pozīcijā;
