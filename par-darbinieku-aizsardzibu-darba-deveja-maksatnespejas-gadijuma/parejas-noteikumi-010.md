@@ -1,0 +1,1 @@
+10. To darbinieku prasījumu apmierināšanai, kuru darba devēja maksātnespējas gadījums iestājies laika periodā no 2009.gada 10.jūlija līdz 2011.gada 31.decembrim, tiek piemērotas šā likuma normas par darbinieku prasījumu apmierināšanas kārtību tādā redakcijā, kāda tā bija spēkā 2011.gada 31.decembrī, izņemot pārejas noteikumu 6. un 7.punktu.
