@@ -1,0 +1,1 @@
+86. Attiecībā uz zaudēto parādu summām debitoriem, kuriem maksātnespējas process pasludināts līdz 2010.gada 31.oktobrim, piemēro šā likuma 11.³ panta otrās un trešās daļas redakciju, kas bija spēkā līdz dienai, kad stājās spēkā tie šā likuma 11.³ panta otrajā un trešajā daļā izdarītie grozījumi, kuri paredzēja papildināt šā likuma 11.³ pantu ar 2.¹ un 2.² daļu.
