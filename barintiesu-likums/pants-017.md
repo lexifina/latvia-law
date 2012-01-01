@@ -7,4 +7,5 @@ Bāriņtiesa:
 5) informē pašvaldības sociālo dienestu vai citu atbildīgo institūciju par ģimenēm, kurās netiek pietiekami nodrošināta bērna attīstība un audzināšana un kurām nepieciešama palīdzība;
 6) neizpauž informāciju, kas jebkādā veidā varētu kaitēt bērnam vai citai rīcībnespējīgai personai;
 7) sniedz palīdzību bērnam vai citai rīcībnespējīgai personai, kura pēc palīdzības vērsusies bāriņtiesā;
-8) Kriminālprocesa likumā noteiktajos gadījumos pārstāv bērnu vai citu rīcībnespējīgu personu kriminālprocesā.
+8) Kriminālprocesa likumā noteiktajos gadījumos pārstāv bērnu vai citu rīcībnespējīgu personu kriminālprocesā;
+9) informē vecāku, aizbildni, audžuģimeni vai viesģimeni par iespējamo apdraudējumu bērnam un par personas sodāmības faktu šā likuma 44.¹ pantā noteiktajos gadījumos, kā arī informē pašvaldības sociālo dienestu par vecākiem, aizbildņiem, audžuģimenēm vai viesģimenēm, kuras ir informētas šā likuma 44.¹ pantā noteiktajā kārtībā.
