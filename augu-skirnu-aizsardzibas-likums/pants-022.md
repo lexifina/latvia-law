@@ -3,3 +3,4 @@ Valsts nodevu Ministru kabineta noteiktajā kārtībā un apmērā maksā:
 1) iesniedzējs - par selekcionāra tiesību piešķiršanu un pagarināšanu;
 2) selekcionāra tiesību īpašnieks vai viņa pilnvarotais pārstāvis - par selekcionāra tiesību aizsardzību;
 3) licences īpašnieks - par licences līguma reģistrāciju Valsts augu aizsardzības dienestā.
+4) šķirnes pārbaudes institūcija - par atļaujas izsniegšanu šķirnes pārbaudes veikšanai.
