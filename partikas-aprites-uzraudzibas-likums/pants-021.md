@@ -26,7 +26,8 @@ b) veikt intervences noliktavu uzraudzību atbilstoši normatīvo aktu prasībā
 14¹) (izslēgts ar 20.05.2010. likumu);
 15) (izslēgts ar 12.11.2009. likumu);
 16) uzraudzīt un kontrolēt institūcijas, kas pārbauda to personu darbību, kuras piedalās pārtikas kvalitātes shēmās;
-17) atzīt un uzraudzīt laboratorijas, kas veic svaigpiena kvalitātes laboratoriskos izmeklējumus.
+17) atzīt un uzraudzīt laboratorijas, kas veic svaigpiena kvalitātes laboratoriskos izmeklējumus;
+18) uzraudzīt un kontrolēt saskarei ar pārtiku paredzēto materiālu un izstrādājumu ražošanas, pārstrādes un izplatīšanas procesu.
 (3) Pārtikas aprites valsts uzraudzību un kontroli Pārtikas un veterinārais dienests veic saskaņā ar Pārtikas padomē izvērtētajām uzraudzības programmām, ievērojot likumā par valsts budžetu kārtējam gadam piešķirto apropriāciju.
 (4) Prasības tādas pārtikas ievešanai no trešajām valstīm, kura nav pakļauta veterinārajai kontrolei, kā arī kontroles kārtību valsts robežkontroles punktos, brīvajās zonās, brīvajās noliktavās un muitas noliktavās nosaka Ministru kabinets.
 (5) Prasības iekārtojumam kontroles punktos, kuros veic pārtikas sanitāro robežkontroli, un kontroles punktu atzīšanas kārtību nosaka Ministru kabinets.
