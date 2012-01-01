@@ -1,2 +1,2 @@
 27.pants. Izglītības iestāžu akreditācija
-Izglītības iestādes, izņemot tās, kuras īsteno tikai interešu izglītības programmas, tiek akreditētas Ministru kabineta noteiktajā kārtībā. Akreditācija veicama piecu gadu laikā no izglītības iestādes darbības uzsākšanas dienas.
+Izglītības iestādes, izņemot tās, kuras īsteno tikai interešu izglītības programmas, tiek akreditētas Ministru kabineta noteiktajā kārtībā. Izglītības iestādes, kuras īsteno pamata un vidējās pakāpes izglītības programmas, tiek akreditētas uz sešiem gadiem Ministru kabineta noteiktajā kārtībā. Akreditācija veicama piecu gadu laikā no izglītības iestādes darbības uzsākšanas dienas.
