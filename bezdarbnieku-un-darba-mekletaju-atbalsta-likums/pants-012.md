@@ -1,7 +1,7 @@
 12.pants. Bezdarbnieka statusa zaudēšana un tā iegūšana no jauna
 (1) Bezdarbnieka statusa zaudēšanas pamats ir:
 1) darba ņēmēja vai pašnodarbinātā statusa iegūšana uz nenoteiktu laiku vai uz laiku, kas ilgāks par diviem mēnešiem, saskaņā ar likumu "Par valsts sociālo apdrošināšanu", izņemot iesaistīšanos aktīvajos nodarbinātības pasākumos;
-2) valsts vecuma pensijas piešķiršanai nepieciešamā vecuma sasniegšana;
+2) vecuma, kas dod tiesības saņemt valsts vecuma pensiju, sasniegšana vai valsts vecuma pensijas piešķiršana (tai skaitā priekšlaicīgi);
 3) nonākšana pilnā valsts apgādībā;
 4) uzņemšana pamatizglītības vai vidējās izglītības programmā klātienē;
 5) atteikšanās no piemērota darba piedāvājuma divas reizes;
