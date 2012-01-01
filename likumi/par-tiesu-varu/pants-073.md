@@ -1,2 +1,3 @@
-73. pants. Tiesas un zemesgrāmatu nodaļas zīmogs
-Visām tiesām, kā arī zemesgrāmatu nodaļām ir zīmogs ar valsts lielā ģerboņa attēlu un attiecīgās tiesas vai zemesgrāmatu nodaļas nosaukumu.
+73.pants. Tiesas un zemesgrāmatu nodaļas zīmogs
+(1) Augstākajai tiesai ir zīmogs ar lielā valsts ģerboņa attēlu un attiecīgās tiesas nosaukumu.
+(2) Apgabaltiesām, rajonu (pilsētu) tiesām un zemesgrāmatu nodaļām ir zīmogs ar papildinātā mazā valsts ģerboņa attēlu un attiecīgās tiesas vai zemesgrāmatu nodaļas nosaukumu.

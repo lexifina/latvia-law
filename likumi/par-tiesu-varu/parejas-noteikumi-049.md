@@ -1,0 +1,1 @@
+49. Zemesgrāmatu nodaļu tiesneši, kuri iecelti vai apstiprināti amatā līdz brīdim, kad stājas spēkā grozījumi, kas paredz zemesgrāmatu nodaļu iekļaušanu rajonu (pilsētu) tiesu sastāvā, pilda šā likuma 30.panta 1.¹ daļā paredzētos pienākumus zemesgrāmatu nodaļās atbilstoši to darbības teritorijām.

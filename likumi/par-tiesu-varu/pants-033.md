@@ -8,5 +8,6 @@
 4) atbild par lietu un citu pienākumu sadali starp tiesnešiem;
 5) sagatavo ikgadējā tiesas iestādes finanšu pieprasījuma projektu un iesniedz to Tiesu administrācijai;
 6) atbild par resursu tiesisku un lietderīgu izmantošanu;
-7) organizē tiesas darbinieku ikgadējo novērtēšanu.
+7) organizē tiesas darbinieku ikgadējo novērtēšanu;
+8) norīko tiesnesi pildīt pienākumus zemesgrāmatu nodaļā, ja zemesgrāmatu nodaļas tiesnesis atrodas pagaidu prombūtnē, kas nepārsniedz sešus mēnešus.
 (4) Rajona (pilsētas) tiesas priekšsēdētājs var dot tiesnesim rīkojumus, kas saistīti ar organizatoriskiem jautājumiem amata pienākumu pildīšanā.

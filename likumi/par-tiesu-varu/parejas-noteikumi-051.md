@@ -1,0 +1,1 @@
+51. Zemesgrāmatu nodaļu priekšnieki un viņu vietnieki, kuri iecelti amatā līdz brīdim, kad stājas spēkā grozījumi, kas paredz zemesgrāmatu nodaļu iekļaušanu rajonu (pilsētu) tiesu sastāvā, turpina pildīt attiecīgos pienākumus līdz pilnvaru termiņa beigām.

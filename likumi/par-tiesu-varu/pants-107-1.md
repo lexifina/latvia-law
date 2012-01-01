@@ -16,9 +16,9 @@
 12) disciplināri soda tiesas darbiniekus par konstatētajiem darba disciplīnas pārkāpumiem;
 13) veic valsts vienotās datorizētās zemesgrāmatas turētāja pienākumu un nodrošina valsts vienotās datorizētās zemesgrāmatas informācijas izplatīšanu;
 14) apkopo tiesu un zemesgrāmatu nodaļu statistikas datus par to darbu, analizē apkopotos datus un sniedz priekšlikumus par nepieciešamajām izmaiņām statistikas pārskatos;
-15) rīkojas ar tiesu un zemesgrāmatu nodaļu budžeta līdzekļiem;
-16) plāno tiesu un zemesgrāmatu nodaļu budžeta ieņēmumu un izdevumu resursus, kā arī analizē ekonomiskos rādītājus;
-17) sagatavo budžeta pieprasījuma projektu tiesu un zemesgrāmatu nodaļu darba nodrošināšanai;
+15) rīkojas ar tiesu budžeta līdzekļiem;
+16) plāno tiesu budžeta ieņēmumu un izdevumu resursus, kā arī analizē ekonomiskos rādītājus;
+17) sagatavo budžeta pieprasījuma projektu tiesu darba nodrošināšanai;
 18) veic tiesu un zemesgrāmatu nodaļu saimnieciskās darbības un finanšu revīziju;
 19) nodrošina mērķtiecīgu un efektīvu valsts budžeta līdzekļu izlietojumu;
 20) nodrošina tiesas un zemesgrāmatu nodaļas ar materiāliem un tehniskajiem līdzekļiem;

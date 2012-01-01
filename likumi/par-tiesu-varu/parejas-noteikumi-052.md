@@ -1,0 +1,1 @@
+52. Ministru kabinets līdz 2012.gada 1.janvārim izdod šā likuma 29.panta trešajā daļā paredzētos noteikumus, kuros nosaka rajonu (pilsētu) tiesu, attiecīgo tiesu namu un zemesgrāmatu nodaļu darbības teritorijas.

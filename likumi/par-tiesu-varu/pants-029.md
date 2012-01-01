@@ -42,4 +42,5 @@ f) Tukuma rajona tiesa;
 6) Administratīvās apgabaltiesas darbības teritorijā:
 administratīvā rajona tiesa.
 (2) Rajona (pilsētas) tiesai var būt struktūrvienības - tiesu nami, kurus izvieto attiecīgās rajona (pilsētas) tiesas darbības teritorijā.
-(3) Rajonu (pilsētu) tiesu un attiecīgo tiesu namu darbības teritorijas nosaka Ministru kabinets.
+(2¹) Rajona (pilsētas) tiesas sastāvā var būt zemesgrāmatu nodaļa, kuras darbības teritorija atbilst rajona (pilsētas) tiesas darbības teritorijai vai aptver vairāku rajonu (pilsētu) tiesu darbības teritorijas.
+(3) Rajonu (pilsētu) tiesu, attiecīgo tiesu namu un zemesgrāmatu nodaļu darbības teritorijas nosaka Ministru kabinets.
