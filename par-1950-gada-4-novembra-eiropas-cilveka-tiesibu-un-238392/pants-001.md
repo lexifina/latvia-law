@@ -1,0 +1,1 @@
+1.pants. 1950.gada 4.novembra Eiropas Cilvēka tiesību un pamatbrīvību aizsardzības konvencijas 13.protokols par nāves soda pilnīgu atcelšanu (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
