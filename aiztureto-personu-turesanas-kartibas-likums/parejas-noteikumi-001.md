@@ -1,1 +1,1 @@
-1. Šā likuma 2.panta otrajā daļā un 7.panta trešajā un piektajā daļā noteiktās prasības izpildāmas līdz 2013.gada 31.decembrim.
+1. (Atzīts par spēku zaudējušu no 01.01.2012. ar Satversmes tiesas 20.12.2010. spriedumu)
