@@ -13,7 +13,7 @@
 (2²) (Izslēgta ar 20.12.2010. likumu)
 (3) Nekustamā īpašuma nodokļa maksāšanas pienākums izbeidzas ar nākamo taksācijas gadu pēc īpašuma tiesību vai valdījuma tiesību izbeigšanās, izņemot šādus gadījumus:
 1) ja nekustamais īpašums tiek atsavināts vai dāvināts valstij vai pašvaldībai, nekustamā īpašuma nodokļa maksāšanas pienākums izbeidzas ar nākamo mēnesi pēc īpašuma tiesību nostiprināšanas zemesgrāmatā uz valsts vai pašvaldības vārda;
-2) ja īpašumu atsavina, veicot maksātnespējas procesu vai vēršot piedziņu bezstrīda kārtībā uz nekustamo īpašumu, bijušā īpašnieka nekustamā īpašuma nodokļa maksāšanas pienākums izbeidzas ar nākamo mēnesi pēc dienas, kad pieņemts tiesas nolēmums, ar kuru apstiprināta nekustamā īpašuma izsole;
+2) ja īpašumu atsavina, veicot maksātnespējas procesu vai vēršot piedziņu bezstrīda kārtībā uz nekustamo īpašumu, bijušā īpašnieka nekustamā īpašuma nodokļa maksāšanas pienākums izbeidzas ar nākamo mēnesi pēc dienas, kad stājies spēkā tiesas nolēmums, ar kuru apstiprināta nekustamā īpašuma izsole;
 3) nekustamā īpašuma nodokļa maksāšanas pienākums izbeidzas ar nākamo mēnesi pēc tam, kad izbeigušās valsts vai pašvaldības nekustamā īpašuma lietošanas vai nomas tiesības;
 4) nekustamā īpašuma nodokļa maksāšanas pienākums izbeidzas ar nākamo mēnesi pēc tam, kad iestājušās tiesības uz šā likuma 1.panta otrajā daļā noteikto atbrīvojumu no nekustamā īpašuma nodokļa.
 (4) Ja sporta bāze iegūst nacionālās sporta bāzes statusu laikposmā no 1.janvāra līdz 30.jūnijam, atbrīvojumu no nekustamā īpašuma nodokļa piemēro ar nākamo taksācijas gadu.

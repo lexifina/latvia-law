@@ -5,5 +5,5 @@
 1) persona, kurai atbilstoši likumā noteiktās institūcijas lēmumam zemes reformas gaitā zeme nodota (piešķirta) īpašumā par samaksu vai atjaunotas īpašuma tiesības uz to un zeme ierādīta (iemērīta) dabā;
 2) persona, kurai īpašuma tiesības uz ēkām vai inženierbūvēm atjaunotas likumā noteiktajā kārtībā un kura tās ir pārņēmusi;
 3) persona, kura nekustamā īpašuma valdījumu ieguvusi uz mantojuma tiesību vai cita pamata.
-(4) Nekustamā īpašuma nodokli par nekustamo īpašumu, kas uz kopīpašuma tiesību pamata pieder vairākām personām vai atrodas kopvaldījumā, maksā katrs kopīpašnieks (kopvaldītājs) atbilstoši savai daļai kopīpašumā (kopvaldījumā).
+(4) Nekustamā īpašuma nodokli par nekustamo īpašumu, kas uz kopīpašuma tiesību pamata pieder vairākām personām vai atrodas kopvaldījumā, maksā katrs kopīpašnieks (kopvaldītājs) atbilstoši savai domājamai daļai kopīpašumā (kopvaldījumā).
 (5) Nekustamā īpašuma nodokli par valsts vai pašvaldības īpašumā esošu zemi, ēkām un inženierbūvēm maksā to lietotājs, bet, ja tāda nav, - nomnieks.

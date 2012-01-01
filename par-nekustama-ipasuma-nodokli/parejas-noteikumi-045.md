@@ -1,0 +1,1 @@
+45. Ministru kabinets līdz 2012.gada 1.jūnijam izstrādā un iesniedz Saeimai grozījumus šajā likumā, paredzot principus, kurus pašvaldības ievēro, izdodot šā likuma 3.panta pirmajā daļā paredzētos saistošos noteikumus.
