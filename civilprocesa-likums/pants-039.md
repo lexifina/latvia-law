@@ -7,5 +7,5 @@
 5) ar tiesas pavēstu un citu tiesas dokumentu piegādāšanu, izsniegšanu un tulkošanu saistītie izdevumi;
 6) ar sludinājuma ievietošanu laikrakstā saistītie izdevumi;
 7) ar prasības nodrošināšanu saistītie izdevumi;
-8) ar mantojuma apsardzību un inventāra saraksta sastādīšanu saistītie izdevumi.
+8) (izslēgts no 01.01.2012. ar 31.10.2002. likumu).
 (2) Kārtību, kādā aprēķināmas lieciniekiem un ekspertiem izmaksājamās summas, kā arī ar liecinieku nopratināšanu vai apskates izdarīšanu uz vietas, atbildētāja meklēšanu, tiesas pavēstu un citu tiesas dokumentu piegādāšanu, izsniegšanu un tulkošanu, sludinājuma ievietošanu laikrakstā un prasības nodrošināšanu saistīto izdevumu apmēru nosaka Ministru kabinets.

@@ -1,4 +1,0 @@
-326.pants. Izsludināšanas kārtība
-(1) Sludinājumā tiesa uzaicina pieteikties visus tos, kuriem kā mantiniekiem, kreditoriem vai kā citādi ir kādas tiesības uz mantojumu, norādot, ka gadījumā, ja viņi nepieteiks savas tiesības uzaicinājumā noteiktajā termiņā, nepieteiktās tiesības tiks dzēstas. Ja izsludināšana notiek sakarā ar testamenta nolasīšanu, tiesa ar sludinājumu uzaicina pieteikt savas tiesības arī personas, kurām ir iebildumi pret testamentu, norādot, ka pretējā gadījumā tās tiks atzītas par tādām, kas atteikušās no iebildumiem.
-(2) Sludinājums par mantojuma atklāšanos publicējams laikrakstā "Latvijas Vēstnesis", bet, ja mantojuma atstājēja atstātās mantas vērtība, pēc tiesas rīcībā esošajām ziņām, nepārsniedz tūkstoš latus, sludinājums izliekams tikai tiesas telpās visiem redzamā vietā.
-(3) Par izsludināšanu un sludinājuma saturu tiesa nekavējoties paziņo tai zināmām ieinteresētajām personām.

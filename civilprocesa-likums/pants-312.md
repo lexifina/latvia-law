@@ -1,3 +1,0 @@
-312.pants. Mantinieku un ieinteresēto personu tiesības
-(1) Kamēr testaments nav stājies likumīgā spēkā, tas glabājams tiesā, lai ieinteresētās personas varētu ar to iepazīties. Mantiniekiem pēc viņu lūguma var izsniegt šā testamenta norakstus ar uzrakstu, ka tas ir nolasīts un atbilst likumā noteiktajai formai, bet nav stājies likumīgā spēkā.
-(2) Uzaicinājumā norādītajā termiņā testamentārajam mantiniekam ir tiesības iesniegt tiesā pieteikumu par pēdējās gribas rīkojuma atzīšanu par spēkā stājušos, bet personai, kuras tiesības ar pēdējās gribas rīkojumu ir aizskartas, - iesniegt iebildumus un apstrīdēt testamentu.

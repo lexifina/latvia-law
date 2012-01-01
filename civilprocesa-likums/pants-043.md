@@ -10,7 +10,7 @@
 6) pieteikuma iesniedzēji - par personas atzīšanu par rīcībnespējīgu un aizgādnības nodibināšanu;
 7) pieteikuma iesniedzēji - par aizgādnības nodibināšanu personai tās izlaidīgas vai izšķērdīgas dzīves dēļ, kā arī alkohola vai narkotiku pārmērīgas lietošanas dēļ;
 8) atbildētāji - lietās par tiesas piespriesto uzturlīdzekļu samazināšanu bērnam vai vecākam un to maksājumu samazināšanu, kurus tiesa piespriedusi prasībās, kas izriet no personiskiem aizskārumiem, kuru rezultātā radies sakropļojums vai cits veselības bojājums vai iestājusies personas nāve;
-9) pieteikuma iesniedzēji - laulātais, kā arī pirmās un otrās pakāpes radinieki - mantojuma lietās daļā par privatizācijas sertifikātu mantošanu;
+9) (izslēgts no 01.01.2012. ar 31.10.2002. likumu);
 9¹) pieteikuma iesniedzēji - lietās par bērna prettiesisku pārvietošanu pāri robežai vai aizturēšanu;
 10) administratori - prasībās, kas celtas to personu labā, kurām pasludināts juridiskās personas maksātnespējas process un fiziskās personas maksātnespējas process, kā arī iesniedzot juridiskās personas maksātnespējas procesa pieteikumu Maksātnespējas likuma 51.panta trešajā daļā noteiktajā gadījumā;
 11) piedzinēji - izpildu lietās par piedziņām valsts ienākumos;
