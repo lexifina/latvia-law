@@ -9,4 +9,5 @@
 7) samaksa par mantas izsoles sludinājuma, uzaicinājuma un citu izpildes gaitā nepieciešamo sludinājumu publicēšanu;
 7¹) ar lietas izskatīšanu saistītie izdevumi, kas radušies sakarā ar tiesu izpildītāja pieteikuma par nekustamā īpašuma nostiprināšanu uz ieguvēja vārda iesniegšanu tiesā;
 8) citi piespiedu izpildes darbību veikšanai nepieciešamie izdevumi.
-(2) Nosakot ar prasības nodrošināšanu, mantojuma apsardzību un inventāra saraksta sastādīšanu (39.p.) saistītos izdevumus, piemērojami noteikumi par sprieduma izpildes izdevumiem, ciktāl šīs darbības veicis tiesu izpildītājs.
+(2) (Izslēgta no 01.01.2012. ar 31.10.2002. likumu)
+(3) Nosakot ar prasības nodrošināšanu saistītos izdevumus, piemērojami noteikumi par sprieduma izpildes izdevumiem, ciktāl šīs darbības veicis tiesu izpildītājs.

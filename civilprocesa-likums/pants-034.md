@@ -21,20 +21,11 @@ g) vairāk par 500 000 latiem - 2490 latu plus 0,05 procenti no prasības summas
 11) par sūdzībām tiesiskās aizsardzības procesa lietās, par sūdzībām maksātnespējas procesa lietās sakarā ar kreditoru sapulces lēmumu, par sūdzībām sakarā ar maksātnespējas procesa administratora (turpmāk - administrators) lēmumu vai rīcību, par sūdzībām par valsts aģentūras "Maksātnespējas administrācija" (turpmāk - Maksātnespējas administrācija) lēmumiem, kā arī par Padomes 2000.gada 29.maija regulas (EK) Nr. 1346/2000 par maksātnespējas procedūrām (turpmāk - Padomes regula Nr. 1346/2000) 33. un 37.pantā noteikto darbību veikšanu - 15 latu;
 12) par sūdzībām sakarā ar tiesu izpildītāja vai zvērināta notāra lēmumiem vai rīcību - 15 latu;
 13) par pieteikumu par nekustamā īpašuma nostiprināšanu uz ieguvēja vārda - 50 latu.
-(2) Taisot spriedumu, tiesa nosaka valsts nodevu šādā apmērā:
-1) lietās par apstiprināšanu mantojuma tiesībās, ja mantojuma vērtība pārsniedz 10 minimālās mēnešalgas:
-a) laulātajam un kopā ar mantojuma atstājēju dzīvojušajiem pirmās, otrās un trešās šķiras mantiniekiem - 0,5 procenti no mantojamās mantas vērtības,
-b) pārējiem pirmās un otrās šķiras mantiniekiem - 1 procents no mantojamās mantas vērtības,
-c) pārējiem trešās šķiras mantiniekiem - 3 procenti no mantojamās mantas vērtības,
-d) ceturtās šķiras mantiniekiem - 10 procenti no mantojamās mantas vērtības;
-2) lietās par pēdējās gribas rīkojuma akta vai mantojuma līguma stāšanos likumīgā spēkā, ja mantojuma vērtība pārsniedz
-10 minimālās mēnešalgas:
-a) laulātajam un pirmās, otrās un trešās šķiras mantiniekiem - 50 procenti no šā panta otrās daļas 1.punktā noteiktā valsts nodevas apmēra,
-b) ceturtās šķiras mantiniekiem - 8 procenti no mantojamās mantas vērtības,
-c) pārējiem testamentārajiem vai līgumiskajiem mantiniekiem - 15 procenti no mantojamās mantas vērtības,
-d) testamentārajiem vai līgumiskajiem mantiniekiem, ja tie ir sabiedriskā labuma organizācijas, - 3 procenti no mantojamās mantas vērtības;
+(2) (Ievaddaļa izslēgta no 01.01.2012. ar 04.08.2011. likumu)
+1) (izslēgts no 01.01.2012. ar 31.10.2002. likumu);
+2) (izslēgts no 01.01.2012. ar 31.10.2002. likumu);
 3) (izslēgts ar 31.10.2002. likumu).
-(3) Lietās par apstiprināšanu mantojuma tiesībās un pēdējās gribas rīkojuma akta vai mantojuma līguma spēkā stāšanos šā panta otrajā daļā noteiktā valsts nodeva maksājama, saņemot sprieduma norakstu pēc sprieduma stāšanās likumīgā spēkā vai arī saņemot pēdējās gribas rīkojuma aktu vai mantojuma līgumu ar uzrakstu par tā stāšanos likumīgā spēkā.
+(3) (Izslēgta no 01.01.2012. ar 31.10.2002. likumu).
 (4) Par apelācijas sūdzību maksājama valsts nodeva atbilstoši likmei, kāda jāmaksā, iesniedzot prasības pieteikumu (pieteikumu sevišķās tiesāšanas kārtības lietā), bet mantiska rakstura strīdos - likmei, kuru aprēķina atbilstoši strīda summai pirmās instances tiesā.
 (5) Iesniedzot blakus sūdzību par tiesas lēmumu, izņemot lēmumu, ar kuru atteikts atbrīvot no tiesas izdevumu samaksas valsts ienākumos, maksājama valsts nodeva - 20 latu.
 (6) Iesniedzot izpildu rakstu vai citu izpildu dokumentu izpildei, maksājama valsts nodeva - 2 lati.
