@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2011.gada 20.septembra noteikumi Nr.723 „Darbību ar jonizējošā starojuma avotiem licencēšanas kārtība”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "Nr.161(4559)",
+  "official_journal_page": null,
+  "official_journal_date": "2011-10-12",
+  "entry_into_force": "2012-01-01",
+  "notification_date": "2013-08-27",
+  "commission_reference": "MNE(2013)57517",
+  "nim_celex": "72011L0070LVA_208667",
+  "nim_id": "208667",
+  "transposes_celex": [
+    "32011L0070"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/216874cf-4717-462a-86fd-892a5f6b7ad7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
