@@ -1,1 +1,1 @@
-Šā likuma 16.panta otrā, trešā, ceturtā, piektā daļa un 17.pants stājas spēkā 2012.gada 1.janvārī. Šā likuma 16.panta otrajā daļā paredzēto atlīdzību izmaksā no 2012.gada 1.jūlija par kaitējumu, kas nodarīts pacientam pēc 2012.gada 1.janvāra.
+Šā likuma 16.panta otrā, trešā, ceturtā un piektā daļa un 17.pants stājas spēkā 2013.gada 1.janvārī. Šā likuma 16.panta otrajā daļā paredzēto atlīdzību izmaksā no 2013.gada 1.jūlija par kaitējumu, kas nodarīts pacientam pēc 2013.gada 1.janvāra.
