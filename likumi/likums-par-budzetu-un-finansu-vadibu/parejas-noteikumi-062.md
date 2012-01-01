@@ -1,0 +1,1 @@
+62. Vidēja termiņa budžeta ietvara likuma 2013.-2015.gadam projektu Ministru kabinets iesniedz Saeimai kopā ar likuma par valsts budžetu 2013.gadam projektu (budžeta likumprojektu paketē). Šā likuma 16.² panta trešajā daļā minētos paskaidrojumus vidēja termiņa budžeta ietvara likumam 2013.-2015.gadam neiesniedz.

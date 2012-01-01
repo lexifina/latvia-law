@@ -8,3 +8,4 @@
 1) kapitālsabiedrības pārskata gada finansiālo rādītāju izpilde, ietverot informāciju par rentabilitāti, tai skaitā kapitāla daļu atdevi;
 2) kapitālsabiedrības sasniegtie darbības rezultāti un rezultatīvo rādītāju izpilde;
 3) cita informācija par valsts kapitāla un valsts pamatfunkciju īstenošanai piešķirtās subsīdijas vai dotācijas izmantošanu.
+(3) Šā panta pirmajā un otrajā daļā minētie informatīvie ziņojumi tiek publicēti attiecīgās nozares ministrijas mājaslapā internetā.

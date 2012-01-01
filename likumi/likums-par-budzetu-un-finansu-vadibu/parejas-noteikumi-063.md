@@ -1,0 +1,1 @@
+63. Grozījumi šā likuma 16.², 17., 18. un 19.pantā, ciktāl tie skar maksimāli pieļaujamo izdevumu apjoma un budžeta pieprasījumu sasaisti ar attiecīgo vidēja termiņa budžeta ietvara likumu, piemērojami no 2013.gada 1.janvāra.

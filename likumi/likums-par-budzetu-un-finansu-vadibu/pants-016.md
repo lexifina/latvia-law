@@ -1,2 +1,2 @@
-16. pants. Atbildība par valsts budžeta likuma projekta (budžeta likumprojektu paketes) sagatavošanu
-Finanšu ministrs ir atbildīgs par gadskārtējā valsts budžeta likuma projekta (budžeta likumprojektu paketes), tam pievienojamo paskaidrojumu un vidēja termiņa makroekonomiskās attīstības un fiskālās politikas ietvara izstrādāšanu.
+16.pants. Atbildība par vidēja termiņa budžeta ietvara likuma projekta un gadskārtējā valsts budžeta likuma projekta (budžeta likumprojektu paketes) sagatavošanu
+Finanšu ministrs ir atbildīgs par vidēja termiņa budžeta ietvara likuma projekta, gadskārtējā valsts budžeta likuma projekta (budžeta likumprojektu paketes) un tam pievienojamo paskaidrojumu izstrādāšanu.

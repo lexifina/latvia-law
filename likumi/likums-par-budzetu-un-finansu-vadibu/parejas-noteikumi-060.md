@@ -1,0 +1,1 @@
+60. Ministrijas līdz 2012.gada 1.februārim nodrošina šā likuma 30.¹ panta trešās daļas izpildi arī attiecībā uz informatīvajiem ziņojumiem, kas tika iesniegti Ministru kabinetam līdz 2011.gada 1.septembrim un 2011.gada 30.decembrim.

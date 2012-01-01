@@ -1,5 +1,12 @@
 18. pants. Budžeta pieprasījumu izstrādāšana
-(1) Ministrijas un citas centrālās valsts iestādes saskaņā ar valsts budžeta likuma projekta (budžeta likumprojektu paketes) un vidēja termiņa makroekonomiskās attīstības un fiskālās politikas ietvara izstrādes un iesniegšanas grafiku izstrādā un iesniedz Finanšu ministrijai valsts budžeta pieprasījumus atbilstoši budžeta pieprasījumu izstrādāšanas pamatprincipiem.
-(1¹) Ministrijas un citas centrālās valsts iestādes izstrādā valsts budžeta pieprasījumus maksimāli pieļaujamā valsts budžeta izdevumu apjoma ietvaros.
+(1) Ministrijas un citas centrālās valsts iestādes saskaņā ar vidēja termiņa budžeta ietvara likuma projekta un gadskārtējā valsts budžeta likuma projekta izstrādes un iesniegšanas grafiku izstrādā un iesniedz Finanšu ministrijai valsts budžeta pieprasījumus, kas sagatavoti atbilstoši budžeta pieprasījumu izstrādāšanas pamatprincipiem.
+(1¹) Ministrijas un citas centrālās valsts iestādes izstrādā valsts budžeta pieprasījumus vidēja termiņa budžeta ietvara likumā attiecīgajam gadam noteiktā maksimāli pieļaujamā valsts budžeta izdevumu apjoma ietvaros. Maksimāli pieļaujamo valsts budžeta kopējo izdevumu apjomu katrai ministrijai un citai centrālajai valsts iestādei var pārsniegt tikai šādos gadījumos:
+1) ja papildu izdevumi tiks segti ar papildu ieņēmumiem vai iepriekšējā saimnieciskā gada atlikumiem no maksas pakalpojumiem un citiem pašu ieņēmumiem;
+2) ja papildu izdevumi ārvalstu finanšu palīdzības līdzfinansēto projektu un pasākumu īstenošanai tiks segti ar papildu ārvalstu finanšu palīdzības ieņēmumiem vai iepriekšējā saimnieciskā gada atlikumiem;
+3) ja ir notikušas iepriekš neparedzētas izmaiņas valsts budžeta procentu izdevumos;
+4) ja ir notikušas izmaiņas, kas saistītas ar Eiropas Savienības pašu resursu palielināšanos;
+5) ja papildu izdevumi pamatbudžetā ir saistīti ar izmaiņām valsts sociālo pabalstu un pensiju saņēmēju kontingenta prognozēs;
+6) ja papildu izdevumi speciālajā budžetā ir saistīti ar izmaiņām makroekonomiskajās prognozēs vai sociālās apdrošināšanas pakalpojumu saņēmēju kontingenta prognozēs, kā arī sociālās apdrošināšanas speciālā budžeta izdevumu palielināšanu apjomā, kas izriet no prognozēto sociālās apdrošināšanas iemaksu palielināšanās;
+7) ja vienas ministrijas vai citas centrālās valsts iestādes maksimāli pieļaujamā izdevumu apjoma pieaugums tiks segts ar citas ministrijas, citas centrālās valsts iestādes vai ar atsevišķi no ministriju vai citu centrālo valsts iestāžu budžetiem plānoto budžeta programmu maksimāli pieļaujamā izdevumu apjoma samazinājumu.
 (2) Pilnvaras, kas attiecas uz valsts budžeta ilgtermiņa saistību maksimāli pieļaujamo apjomu, atspoguļo gadskārtējā valsts budžeta likumā atsevišķi no budžeta gada apropriācijām.
 (3) Budžeta finansētas institūcijas, kas tieši saņem valsts budžeta dotāciju, izstrādā valsts budžeta pieprasījumu saskaņā ar budžeta pieprasījuma izstrādāšanas pamatprincipiem.
