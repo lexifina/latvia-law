@@ -1,2 +1,1 @@
-XI nodaļa
-Meža zemes transformācija
+XI nodaļa. Atmežošana

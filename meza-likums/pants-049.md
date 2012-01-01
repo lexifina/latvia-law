@@ -1,2 +1,4 @@
 49.pants
-Valsts meža zemi zinātniskās izpētes vajadzībām piešķir un zinātniskās izpētes mežu apsaimniekošanas kārtību nosaka Ministru kabinets. Zinātniskās izpētes meži tiek reģistrēti Meža valsts reģistrā.
+(1) Zinātniskās izpētes mežus izveido, pamatojoties uz Ministru kabineta rīkojumu.
+(2) Zinātniskās izpētes meži tiek reģistrēti Meža valsts reģistrā.
+(3) Ministru kabinets izdod noteikumus, kuros nosaka zinātniskās izpētes mežu apsaimniekošanas un uzraudzības kārtību.

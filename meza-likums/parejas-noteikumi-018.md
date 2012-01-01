@@ -1,0 +1,1 @@
+18. Līdz šā likuma 34.pantā minēto Ministru kabineta noteikumu spēkā stāšanās dienai termins "valdaudze" atbilst šādai definīcijai: mežaudzes koki ar lielāko koksnes krāju, kuru augstums no to vidējā augstuma neatšķiras vairāk par 10 procentiem.

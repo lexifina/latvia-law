@@ -1,0 +1,1 @@
+20. Ministru kabinets līdz 2012.gada 31.decembrim izdod šā likuma 2.panta trešajā daļā, 13.pantā, 20.panta otrajā daļā, 28.pantā, 31.panta otrajā daļā, 34.pantā, 35.¹ panta otrajā daļā, 37.pantā, 38.⁴ panta pirmajā daļā, 41.panta trešajā daļā, 43.¹ panta otrajā daļā un 49.panta trešajā daļā minētos noteikumus.

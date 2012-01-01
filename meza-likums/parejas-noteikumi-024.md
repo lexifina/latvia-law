@@ -1,0 +1,1 @@
+24. Par šā likuma 29.panta pirmajā daļā minēto pirmreizējo meža inventarizāciju uzskatāma meža inventarizācija, kas reģistrēta Meža valsts reģistrā pēc Meža likuma spēkā stāšanās, kā arī meža inventarizācijas informācija, kura reģistrēta Valsts meža dienestā pirms šā likuma spēkā stāšanās un kurai nav beidzies derīguma termiņš.

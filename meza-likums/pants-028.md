@@ -1,2 +1,5 @@
 28.pants
-Kārtību, kādā izsludināmas ārkārtas situācijas sakarā ar meža ugunsgrēku, meža kaitēkļu savairošanos un slimību izplatīšanos masveidā, meža aizsardzības pasākumus, kā arī to izpildes kārtību un termiņus nosaka Ministru kabinets.
+Ministru kabinets izdod noteikumus par meža aizsardzības pasākumiem un ārkārtējās situācijas izsludināšanu mežā, kuros nosaka:
+1) meža aizsardzības pasākumus, to izpildes kārtību un termiņus;
+2) kārtību, kādā izsludināma ārkārtējā situācija meža ugunsgrēka, meža kaitēkļu savairošanās vai slimību masveida izplatīšanās dēļ;
+3) kārtību, kādā kontrolējama meža sanitārā stāvokļa prasību ievērošana.

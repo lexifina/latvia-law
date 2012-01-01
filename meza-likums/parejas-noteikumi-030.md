@@ -1,0 +1,1 @@
+30. Par šā likuma 31.¹ pantā minētajiem plāniem uzskatāmi arī līdz 2012.gada 1.janvārim izstrādātie valsts meža apsaimniekošanas plāni, kas piemērojami līdz to derīguma termiņa beigām, bet ne ilgāk kā līdz 2016.gada 31.decembrim, ciktāl tie nav pretrunā ar šo likumu.

@@ -5,14 +5,16 @@ Valdošā koku sugaGalvenās cirtes vecums (gados) atkarībā no bonitātes
 I un augstākaII-IIIIV un zemāka
 Ozols101121121
 Priede un lapegle101101121
-Egle, osis un liepa818181
+Egle, osis, liepa, goba, vīksna un kļava818181
 Bērzs717151
 Melnalksnis717171
 Apse414141
-2) mežaudze sasniegusi galvenās cirtes caurmēru;
-3) saņemts šā likuma 11.pantā noteiktais Valsts meža dienesta sanitārais atzinums. Šādos gadījumos nepiemēro šā panta otrās daļas 1.un 2.punkta noteikumus.
-(2) Galvenā cirte ir aizliegta:
-1) ja meža īpašnieks vai tiesiskais valdītājs normatīvajos aktos noteiktajos termiņos un kvalitātē nav atjaunojis mežu vismaz 80 procentu apmērā no kopējās atjaunojamās platības savā valdījumā esošajos mežos attiecīgās mežniecības teritorijā;
-2) ja vienā apsaimniekošanas objektā esošajos mežos galvenajai cirtei piegulošajās platībās mežaudze 1,0 hektāra un lielākā platībā nav atzīta par atjaunotu un mežaudze nav sasniegusi vismaz triju gadu vecumu, izņemot gadījumus, kad par atjaunotu atzītā mežaudze ir izkopta un meža augšanas apstākļiem piemērotās koku sugas kociņu vidējais augstums sasniedzis vismaz divus metrus lapu kokiem un vismaz vienu metru skuju kokiem;
-3) (izslēgts ar 16.02.2006. likumu).
-(3) Ja īpašumā vai tiesiskajā valdījumā esoša meža zeme tiesiska darījuma rezultātā tiek sadalīta divās vai vairākās daļās, tad septiņu gadu laikā no šīs zemes sadalīšanas katrā sadales rezultātā izveidotajā meža zemes daļā piemērojami šajā pantā noteiktie galvenās cirtes aizliegumi un 13.pantā minētie noteikumi kā uz meža zemi pirms tās sadalīšanas.
+2) mežaudze ir sasniegusi galvenās cirtes caurmēru.
+(2) Kailcirte ir atļauta gadījumos, kad vienā zemes vienībā esošajos mežos:
+1) plānotās kailcirtes platība nepārsniedz normatīvajos aktos noteikto maksimālo kailcirtes platību kopā ar tai piegulošajās platībās esošajām visām mežaudzēm, kuras:
+a) nav atzītas par atjaunotām un kurām vēl nav iestājies normatīvajos aktos noteiktais atjaunošanas termiņš,
+b) ir atzītas par atjaunotām, bet nav sasniegušas normatīvajos aktos noteikto vecumu,
+c) nav atzītas par atjaunotām noteiktajā termiņā, bet kuru kopplatība ir mazāka par vienu hektāru;
+2) plānotās kailcirtes platībai nav piegulošu mežaudžu un plānotās kailcirtes platība nepārsniedz normatīvajos aktos noteikto maksimālo kailcirtes platību;
+3) plānotās kailcirtes platībai piegulošajās platībās esošās mežaudzes ir atjaunotas un sasniegušas vismaz normatīvajos aktos noteikto vecumu un plānotās kailcirtes platība nepārsniedz normatīvajos aktos noteikto maksimālo kailcirtes platību.
+(3) Ja īpašumā vai tiesiskajā valdījumā esošs mežs tiesiska darījuma rezultātā tiek sadalīts divās vai vairākās daļās, tad septiņu gadu laikā no tā sadalīšanas brīža pēc katras sadales izveidotajai meža daļai tāpat kā mežam pirms tā sadalīšanas piemērojami šā panta otrajā daļā noteiktie ierobežojumi un 13.pantā minētie noteikumi.

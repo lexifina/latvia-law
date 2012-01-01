@@ -1,0 +1,1 @@
+22. Grozījumi šā likuma 3.panta pirmās daļas 2.punktā, kas paredz šā punkta izteikšanu jaunā redakcijā, stājas spēkā 2015.gada 1.janvārī. Līdz šo grozījumu spēkā stāšanās dienai zemē, kas Nekustamā īpašuma valsts kadastra informācijas sistēmā nav reģistrēta kā mežs, kokus cērt šā likuma 8.pantā noteiktajā kārtībā.

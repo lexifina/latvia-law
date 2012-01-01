@@ -1,0 +1,1 @@
+15. Īpaši aizsargājamās dabas teritorijās un mikroliegumos, kur atbilstoši normatīvo aktu prasībām ir aizliegta meža zemes transformācija, ar 2013.gada 1.janvāri līdz grozījumu izdarīšanai attiecīgajos normatīvajos aktos meža zemē ir aizliegts veikt darbības, kuru īstenošana mainītu zemes lietošanas kategoriju.

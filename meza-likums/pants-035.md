@@ -4,4 +4,5 @@
 1) nodrošinātu meža bioloģiskās daudzveidības saglabāšanu;
 2) saglabātu meža spēju pasargāt augsni no erozijas;
 3) pasargātu virszemes un pazemes ūdeņus no piesārņošanas;
-4) saglabātu būtiskus kultūras mantojuma elementus mežā.
+4) saglabātu būtiskus kultūras mantojuma elementus mežā;
+5) veicinātu meža noturību un pielāgošanos klimata pārmaiņām.

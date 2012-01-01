@@ -8,6 +8,7 @@
 a) ceļu būvniecība,
 b) kapsētu izveidošana vai paplašināšana,
 c) parku ierīkošana un uzturēšana;
+d) mežaparku ierīkošana un uzturēšana pilsētu un ciemu teritorijās;
 3) privatizējot, kā arī atsavinot zemi ēku (būvju) īpašniekiem:
 a) lauku apvidos - zemi, ko aizņem ēkas (būves) un pagalms, kā arī šo ēku (būvju) uzturēšanai nepieciešamo zemi līdz 0,5 hektāru platībā;
 b) pilsētās - zemi, ko aizņem ēkas (būves) tādā platībā, kādā šī zeme ir ēku (būvju) īpašnieku likumīgā lietošanā (apbūvei), līdz 0,12 hektāru platībā.

@@ -1,0 +1,1 @@
+17. Ar 2012.gada 1.janvāri visos īpaši aizsargājamo dabas teritoriju individuālajos aizsardzības un izmantošanas noteikumos līdz grozījumu izdarīšanai tajos termins "galvenā cirte pēc Valsts meža dienesta sanitārā atzinuma" atbilst šā likuma 11.pantā minētajai "sanitārajai cirtei pēc Valsts meža dienesta sanitārā atzinuma saņemšanas" un sanitārās cirtes definīcijai.

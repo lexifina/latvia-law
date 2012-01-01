@@ -1,2 +1,3 @@
 43.¹ pants
-Par mežsaimnieciskām darbībām - apliecinājuma, meža reproduktīvā materiāla izcelsmes sertifikāta, Valsts meža dienesta sanitārā atzinuma, meža zemes transformācijas atļaujas izsniegšanu un atzinuma izsniegšanu valsts un Eiropas Savienības finansējuma vai līdzfinansējuma saņemšanai mežsaimniecības attīstībai - maksājama valsts nodeva Ministru kabineta noteiktajā kārtībā un apmērā.
+(1) Par mežsaimnieciskām darbībām - apliecinājuma, Valsts meža dienesta sanitārā atzinuma, atzinuma mežaudzes atzīšanai par neproduktīvu, meža reproduktīvā materiāla izcelsmes sertifikāta, meža reproduktīvā materiāla ievešanas atļaujas izsniegšanu - maksājama valsts nodeva.
+(2) Apmēru valsts nodevai par apliecinājuma, Valsts meža dienesta sanitārā atzinuma, atzinuma mežaudzes atzīšanai par neproduktīvu, meža reproduktīvā materiāla izcelsmes sertifikāta, meža reproduktīvā materiāla ievešanas atļaujas izsniegšanu un tās maksāšanas kārtību nosaka Ministru kabinets.

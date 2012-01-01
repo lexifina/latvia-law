@@ -1,13 +1,7 @@
 3.pants
-(1) Šā likuma objekts ir mežs un meža zeme:
-1) mežs ir ekosistēma visās tā attīstības stadijās, un tajā dominē koki, kuru augstums konkrētajā vietā var sasniegt vismaz septiņus metrus un kuru pašreizējā vai potenciālā vainagu projekcija ir vismaz 20 procenti no mežaudzes aizņemtās platības;
-2) meža zeme ir zeme, uz kuras ir mežs, zeme zem meža infrastruktūras objektiem, kā arī mežā ietilpstošie un tam piegulošie pārplūstošie klajumi, purvi un lauces.
-(2) Par mežu neuzskata:
-1) atsevišķi no meža esošu platību, kas atbilst šā panta pirmās daļas 1.punkta nosacījumiem un ir mazāka par 0,1 hektāru;
-2) mākslīgas vai dabiskas izcelsmes koku rindas, kuru platums ir mazāks par 20 metriem;
-3) augļu dārzus, parkus, kapsētas un kokaudzētavas.
-(3) Par meža zemi neuzskata:
-1) valsts, pašvaldību, uzņēmumu un māju esošā ceļa un dzelzceļa zemes nodalījuma joslu normatīvajos aktos noteiktajā platumā, ja ceļš vai dzelzceļš šķērso meža teritoriju;
-2) esošas elektrisko tīklu un elektronisko sakaru tīklu gaisvadu līniju trases normatīvajos aktos noteiktajā platumā, ja trase šķērso meža teritoriju.
-(4) Šā panta trešās daļas 1.punkta nosacījumi neattiecas uz mežsaimniecības ceļu.
-(5) Parks ir sabiedriskas nozīmes dabas objekts, kas var atbilst šā likuma 3.panta pirmās daļas 1.punkta nosacījumiem, kam ir īpaši izveidota infrastruktūra un kam nepieciešama regulāra kopšana un atjaunošana, saglabājot vai uzlabojot teritorijas estētisko, ainavisko un kultūrvēsturisko vērtību. Parka izveidošanas kārtību un apsaimniekošanas pamatprincipus nosaka Ministru kabinets. Pašvaldība izdod saistošos noteikumus par konkrētā parka apsaimniekošanu un aizsardzību.
+(1) Šā likuma objekts ir:
+1) zeme, kas Nekustamā īpašuma valsts kadastra informācijas sistēmā reģistrēta kā mežs;
+2) citas zemes lietošanas kategorijas zeme 0,5 hektāru un lielākā platībā, uz kuras ir izveidojusies mežaudze ar koku vidējo augstumu vismaz pieci metri un kur mežaudzes šķērslaukums ir vienāds ar vai lielāks par mežaudzes minimālo šķērslaukumu;
+3) mežā ietilpstošie pārplūstošie klajumi un lauces, tam piegulošie un tajā ietilpstošie meža infrastruktūras objekti un purvi.
+(2) Uz zemes vienību, kuras Nekustamā īpašuma valsts kadastra informācijas sistēmā reģistrētais lietošanas veids ir mežs ar platību ne lielāku par 0,12 hektāriem (izņemot gadījumus, kad mežs atrodas uz valsts meža zemes), ja uz tās atrodas būves un tā aizņem teritoriju, kuru vietējās pašvaldības teritorijas plānojumā paredzēts (atļauts) izmantot apbūvei, attiecas vienīgi šā likuma I, XI un XII nodaļa.
+(3) Uz mežu aizsargjoslās gar elektriskajiem tīkliem neattiecas koku ciršanas un meža atjaunošanas prasības. Uz mežu aizsargjoslās gar elektrisko tīklu gaisvadu līnijām ar nominālo spriegumu līdz 20 kilovoltiem neattiecas tikai koku ciršanas prasības.
