@@ -1,1 +1,1 @@
-364. Ja tiesa garā slimo atzinusi par izveseļojušos, t. i., par rīcības spējīgu, tā uzdod bāriņtiesai atlaist aizgādņus no amata pēc tam, kad viņi iesnieguši norēķinu un nodevuši veselību atguvušajai personai mantu, kas atradusies viņu pārvaldībā.
+364. (Atzīts par spēkā neesošu no 01.01.2012. ar Satversmes tiesas 27.12.2010. spriedumu)

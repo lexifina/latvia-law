@@ -1,1 +1,1 @@
-358. Garā slimie, kam trūkst visu vai lielākās daļas garīgo spēju, atzīstami par rīcības nespējīgiem un tiesiski nespējīgiem pārstāvēt sevi un pārvaldīt savu mantu un ar to rīkoties, kādēļ pār viņiem ieceļama aizgādnība.
+358. (Atzīts par spēkā neesošu no 01.01.2012. ar Satversmes tiesas 27.12.2010. spriedumu)
