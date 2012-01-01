@@ -1,2 +1,2 @@
 69.pants. Biedrības dokumentu glabāšana
-Likvidators veic nepieciešamās darbības biedrības dokumentu sakārtošanai un nodošanai valsts arhīviem. Izdevumi, kas saistīti ar dokumentu sakārtošanu un nodošanu arhīviem, tiek segti no likvidējamās biedrības mantas.
+Likvidators veic nepieciešamās darbības biedrības dokumentu sakārtošanai un nodošanai glabāšanā Latvijas Nacionālajam arhīvam saskaņā ar Arhīvu likumu un īslaicīgi glabājamo dokumentu saglabāšanai un pieejamības nodrošināšanai atbilstoši glabāšanas termiņam, saskaņojot ar Latvijas Nacionālo arhīvu to glabāšanas vietu. Izdevumi, kas saistīti ar dokumentu sakārtošanu un nodošanu arhīviem, tiek segti no likvidējamās biedrības mantas.
