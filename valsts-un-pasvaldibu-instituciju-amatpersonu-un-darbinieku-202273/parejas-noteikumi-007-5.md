@@ -1,0 +1,1 @@
+7.⁵ 2012.gadā šā likuma 13.² pantā noteikto koeficientu piemēro 2009.gada Centrālās statistikas pārvaldes oficiālajā statistikas paziņojumā publicētajam finanšu un apdrošināšanas jomā strādājošo mēneša vidējās darba samaksas apmēram, kas noapaļots pilnos latos.

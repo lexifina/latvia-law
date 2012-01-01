@@ -1,0 +1,1 @@
+7.³ 2012.gadā gadījumos, kad ar šo likumu atlīdzība piesaistīta Centrālās statistikas pārvaldes oficiālajā statistikas paziņojumā publicētajam valstī strādājošo mēneša vidējās darba samaksas apmēram, piemērojams 2009.gada pirmajā pusgadā valstī strādājošo mēneša vidējās darba samaksas apmērs, kas noapaļots pilnos latos, proti, 471 lats.

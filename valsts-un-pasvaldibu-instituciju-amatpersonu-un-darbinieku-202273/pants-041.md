@@ -1,6 +1,6 @@
 41.pants. Ikgadējais apmaksātais atvaļinājums
 (1) Amatpersonām (darbiniekiem), izņemot šā panta turpmākajās daļās minētās amatpersonas (darbiniekus), piešķir ikgadējo apmaksāto atvaļinājumu. Šā atvaļinājuma piešķiršanai piemēro Darba likuma normas. Ja ikgadējo apmaksāto atvaļinājumu izmanto pa daļām, viena no atvaļinājuma daļām nedrīkst būt īsāka par Darba likumā noteikto, bet, atlikušo daļu piešķirot pa daļām, ievēro šādus noteikumus:
-1) aizliegts palielināt apmaksājamo darbdienu skaitu, izņemot likumā noteiktos gadījumus, kad atvaļinājums ir pagarināms;
+1) aizliegts palielināt apmaksājamo darbdienu skaitu;
 2) katra daļa nedrīkst būt īsāka par vienu kalendāra nedēļu, izņemot gadījumus, kad institūcija vai amatpersona, kas piešķir ikgadējo apmaksāto atvaļinājumu, atļāvusi ikgadējā atvaļinājuma attiecīgo daļu izmantot pa dienām, nepalielinot saskaņā ar likumu apmaksājamo darbdienu skaitu.
 (1¹) (Izslēgta ar 16.06.2011. likumu)
 (1²) (Izslēgta ar 16.06.2011. likumu)

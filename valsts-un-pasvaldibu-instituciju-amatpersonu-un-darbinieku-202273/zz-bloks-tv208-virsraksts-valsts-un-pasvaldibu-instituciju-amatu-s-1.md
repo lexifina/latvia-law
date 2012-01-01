@@ -39,6 +39,8 @@
 Šajā apakšsaimē ietilpst amati, kuru pildītāji veic iestādes, nozares vai starpnozaru finanšu rādītāju analīzi, sastāda budžetu un kontrolē tā izpildi, kā arī vada finanšu funkciju dažādos līmeņos.
 12.2. Valsts fiskālās politikas plānošana un izpilde
 Šajā apakšsaimē ietilpst amati, kuru pildītāji plāno un izstrādā valsts fiskālo politiku, valsts nodokļu politiku, valsts budžeta politiku, sabiedriskā sektora atlīdzības politiku, izstrādā valsts budžeta plānošanas un izpildes metodoloģiju, veic iestādes, nozares vai starpnozaru finanšu rādītāju analīzi, sagatavo valsts budžetu un kontrolē tā izpildi, kā arī vada finanšu funkciju dažādos līmeņos Finanšu ministrijā vai Valsts kasē.
+12.3. Finanšu uzskaite un analīze pašvaldībā
+Šajā apakšsaimē ietilpst amati, kuru pildītāji analizē pašvaldības budžeta ieņēmumu izpildes rādītājus, kontrolē tā izpildi un veic nepieciešamās darbības pašvaldības budžeta ieņēmumu palielināšanai.
 13. Fiziskais un kvalificētais darbs
 Šajā saimē ietilpst amati, kuru pildītāji veic fizisku darbu (strādnieku darbu), piemēram, apkopējs, sētnieks, garderobists, kurinātājs, apstādījumu speciālists, sanitārtehniķis, elektriķis.
 14. Grāmatvedība
@@ -118,7 +120,7 @@
 32. Projektu vadība
 Šajā saimē ietilpst amati, kuru pildītāji nodrošina projektu vadību: projektu organizēšanu, plānošanu un izpildes kontroli, projektu izpildes gaitā radušos problēmu risināšanu, projektiem atbilstošas informācijas un datu vākšanu, izpēti un analīzi, pārskatu sastādīšanu, kā arī organizē un vada projekta komandas darbu.
 33. Radošie darbi
-Šajā saimē ietilpst amati, kas saistīti ar māksliniecisko un tehnisko jaunradi, telpu, ekspozīciju (izstāžu), reklāmas materiālu un mājaslapu izstrādi un noformēšanu.
+Šajā saimē ietilpst amati, kas saistīti ar māksliniecisko un tehnisko jaunradi, telpu, ekspozīciju (izstāžu), reklāmas materiālu un mājaslapu izstrādi un noformēšanu, kā arī ar kultūras darba organizēšanu un interešu izglītības kopu un amatierkolektīvu vadīšanu.
 34. Restaurācijas darbi
 Šajā saimē ietilpst amati, kuru pildītāju pienākums ir restaurēt vai konservēt muzeja krājumos esošos priekšmetus.
 35. Politikas ieviešana
