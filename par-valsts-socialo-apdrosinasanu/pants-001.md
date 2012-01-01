@@ -1,6 +1,6 @@
 1.pants. Likumā lietotie termini
 Likumā ir lietoti šādi termini:
-1) darba devējs - juridiskā vai fiziskā persona, tiesībspējīga personālsabiedrība, citas Eiropas Savienības dalībvalsts, Šveices Konfederācijas vai Eiropas Ekonomikas zonas dalībvalsts (turpmāk - cita dalībvalsts) nodokļu maksātājs vai citas dalībvalsts komersanta filiāle (pastāvīgā pārstāvniecība), kā arī iekšzemes nodokļu maksātājs - ārvalsts nodokļu maksātāja iznomāta personāla nomnieks, kas pats nodarbina darba ņēmēju vai apmaksā darba ņēmēja darbu;
+1) darba devējs - juridiskā vai fiziskā persona, tiesībspējīga personālsabiedrība, citas Eiropas Savienības dalībvalsts, Šveices Konfederācijas vai Eiropas Ekonomikas zonas dalībvalsts (turpmāk - cita dalībvalsts) nodokļu maksātājs vai citas dalībvalsts komersanta filiāle (pastāvīgā pārstāvniecība), vai personāla nomnieks, kas izmanto tāda mikrouzņēmuma pakalpojumus, kurš sniedz darbaspēka nodrošināšanas pakalpojumus likuma "Par iedzīvotāju ienākuma nodokli" 17.² panta izpratnē, kā arī iekšzemes nodokļu maksātājs - ārvalsts nodokļu maksātāja iznomāta personāla nomnieks, kas pats nodarbina darba ņēmēju vai apmaksā darba ņēmēja darbu;
 2) darba ņēmējs:
 a) persona, kas uz darba līguma pamata par nolīgto darba samaksu veic noteiktu darbu darba devēja vadībā, izņemot mikrouzņēmuma darbinieku,
 b) (izslēgts ar 27.10.2005. likumu),
@@ -13,6 +13,7 @@ h) notiesātais, kas tiek nodarbināts brīvības atņemšanas soda izciešanas 
 i) mikrouzņēmuma darbinieks;
 j) persona, kuru Latvijas Republikā nodarbina ārvalsts nodokļu maksātājs, kuram Latvijas Republikā ir pastāvīgā pārstāvniecība, kā arī persona, kuru iekšzemes nodokļu maksātājam iznomā ārvalsts nodokļu maksātājs - personāla iznomātājs,
 k) persona, kura ir noslēgusi Civillikuma IV daļas 15.nodaļā paredzēto uzņēmuma, graudniecības vai pārvadājuma līgumu un attiecībā uz kuru tiek konstatēta vismaz viena no likuma "Par iedzīvotāju ienākuma nodokli" 8.panta 2.² daļā noteiktajām pazīmēm;
+l) mikrouzņēmuma, kas sniedz darbaspēka nodrošināšanas pakalpojumus likuma "Par iedzīvotāju ienākuma nodokli" 17.² panta izpratnē, darbinieks;
 3) pašnodarbinātais - persona, kura gūst ienākumu (vai ieņēmumus) kā:
 a) persona, kas veic individuālo darbu,
 b) (izslēgts ar 25.11.1999. likumu),
