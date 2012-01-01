@@ -475,3 +475,5 @@ pentobarbitāls
 heksobarbitāls
 0,1 g
 10 g
+12.¹ Narkotiskā viela, kuras nelegāla aprite un ļaunprātīga lietošana apdraud veselību:
+tapentadols0,1 g10 g

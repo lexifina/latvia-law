@@ -316,7 +316,7 @@ fentermīns
 mefenorekss
 0,03 g
 10 g
-8.¹ Vielas un augi, kuru nelegāla aprite un ļaunprātīga lietošana var apdraudēt veselību:
+8.¹ Psihotropās vielas un tās saturošie augi, kuru nelegāla aprite un ļaunprātīga lietošana apdraud veselību:
 1)1-benzilpiperazīns (BZP)0,02 g1 g
 2)catha edulis100 g10 kg
 3)2,5-dimetoksi-4-bromfenetilamīns (2C-B)0,02g2 g
@@ -349,6 +349,7 @@ b)nežāvēts5g1kg
 20)nymphaea caerulea:
 a)izžāvēts1g100g
 b)nežāvēts5g1kg
+21)mefedrons (4-metilmetkatinons)0,02 g3 g
 9. Jebkura zāļu forma, kas satur šā pielikuma 4., 5., 6., 7., 8. un 8.¹ punktā minētās vielas jebkurā daudzumā:
 1)
 ampulas
