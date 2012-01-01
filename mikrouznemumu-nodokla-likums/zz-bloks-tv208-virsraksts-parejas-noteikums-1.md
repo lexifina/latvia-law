@@ -1,1 +1,0 @@
-Ministru kabinets izvērtē šā likuma praktiskās īstenošanas gaitu un rezultātus, it īpaši attiecībā uz valsts sociālās apdrošināšanas iemaksām un sociālās apdrošināšanas pakalpojumu pieejamību mikrouzņēmumu darbiniekiem, un līdz 2011.gada 1.oktobrim iesniedz Saeimai ziņojumu par to.
