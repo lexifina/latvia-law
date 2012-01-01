@@ -1,0 +1,1 @@
+37. 2012.gadā valsts dibināto augstskolu un koledžu akadēmiskajam personālam nemaksā prēmijas, bet akadēmisko personālu materiāli stimulē un pabalstus tam izmaksā saskaņā ar Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likumu.
