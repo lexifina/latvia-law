@@ -1,1 +1,1 @@
-139. Balsošana Saeimas sēdēs notiek atklāti ar elektroniskās balsošanas iekārtas palīdzību, izņemot gadījumus, kad noteikta cita kārtība. Par klātesošiem balsošanā uzskatāmi tie deputāti, kas balsojuši "par", "pret" vai "atturas".
+139. Balsošana Saeimas sēdēs notiek atklāti ar elektroniskās balsošanas iekārtas palīdzību, vai ar vēlēšanu zīmēm. Latvijas Republikas Satversmē noteiktajos gadījumos un noteiktajā kārtībā balsošana notiek aizklāti. Par klātesošiem balsošanā uzskatāmi tie deputāti, kas balsojuši "par", "pret" vai "atturas".

@@ -11,4 +11,4 @@
 (9) Par iesniegtajiem priekšlikumiem attiecībā uz patstāvīgo priekšlikumu nodošanu komisijai Saeima lemj (54.p.) to iesniegšanas secībā. Ja Saeima nodevusi patstāvīgo priekšlikumu vairākām komisijām, tā nosaka atbildīgo komisiju.
 (10) Ja Saeima nepieņem lēmumu par patstāvīgā priekšlikuma nodošanu komisijai, patstāvīgais priekšlikums uzskatāms par noraidītu.
 (11) Gadījumos, kad patstāvīgais priekšlikums nodots izskatīšanai komisijā, priekšlikumi par grozījumiem tajā iesniedzami piecu dienu laikā, ja Saeima nav lēmusi (54.p.) citādi.
-(12) Ja patstāvīgo priekšlikumu par uzņemšanu Latvijas pilsonībā par īpašiem nopelniem Latvijas labā neiesniedz Pilsonības likuma izpildes komisija, pēc Prezidija ziņojuma tas uzskatāms par nodotu Pilsonības likuma izpildes komisijai.
+(12) Ja patstāvīgo priekšlikumu par uzņemšanu Latvijas pilsonībā par īpašiem nopelniem Latvijas labā neiesniedz Sabiedrības saliedētības komisija, pēc Prezidija ziņojuma tas uzskatāms par nodotu Sabiedrības saliedētības komisijai.

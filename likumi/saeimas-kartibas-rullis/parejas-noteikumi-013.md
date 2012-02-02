@@ -1,0 +1,1 @@
+13. Grozījumi šā likuma 149.panta pirmajā daļā attiecībā uz Saeimas pastāvīgo komisiju skaita un nosaukuma maiņu un 149.panta ceturtā daļa, kā arī grozījums 184.pantā attiecībā uz vārdu "pēc Saimnieciskās komisijas priekšlikuma" izslēgšanu stājas spēkā 2012.gada 1.aprīlī.

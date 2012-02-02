@@ -6,4 +6,4 @@
 2) ne mazāk kā desmit deputātu priekšlikuma;
 3) attiecīgās komisijas priekšlikuma 165.pantā paredzētajā gadījumā.
 (3) Saeimas ievēlētos Centrālās vēlēšanu komisijas locekļus atsauc likumā "Par Centrālo vēlēšanu komisiju" noteiktajā kārtībā.
-(4) Balsošana par atsaukšanu ir aizklāta.
+(4) (Izslēgta ar 19.01.2012. likumu)

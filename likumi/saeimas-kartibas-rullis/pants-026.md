@@ -1,4 +1,4 @@
-26. (1) Par katram 25.pantā minētajam amatam izvirzītajiem kandidātiem balso vienlaikus aizklātā balsošanā ar vēlēšanu zīmēm.
+26. (1) Par katram 25.pantā minētajam amatam izvirzītajiem kandidātiem balso vienlaikus ar vēlēšanu zīmēm.
 (2) Par ievēlētu uzskatāms kandidāts, kas ieguvis visvairāk balsu, turklāt balsu skaits nedrīkst būt mazāks par klātesošo deputātu absolūto balsu vairākumu.
 (3) Valsts prezidents uzskatāms par ievēlētu ar ne mazāk kā 51 balss vairākumu (Satversmes 36.p.).
 (4) Ja pirmajā vēlēšanu kārtā neviens nav ieguvis ievēlēšanai nepieciešamo balsu skaitu, tad šā panta pirmajā daļā noteiktajā kārtībā par visiem kandidātiem balso otrreiz. Ja arī tad neviens netiek ievēlēts, vēlēšanas turpina, izslēdzot ikvienā turpmākajā vēlēšanu kārtā to kandidātu, kas iepriekšējā kārtā ieguvis vismazāk balsu. Vēlēšanas turpina, līdz viens no kandidātiem iegūst ievēlēšanai nepieciešamo balsu skaitu.

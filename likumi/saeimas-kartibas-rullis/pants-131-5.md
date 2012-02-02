@@ -1,0 +1,10 @@
+131.⁵ (1) Mandātu, ētikas un iesniegumu komisijas sēde, kurā veic kolektīvā iesnieguma sākotnējo izvērtēšanu, sarīkojama ne vēlāk kā mēnesi pēc kolektīvā iesnieguma saņemšanas Saeimā, un komisijas sēdes norisi ieraksta audioformātā.
+(2) Uz Mandātu, ētikas un iesniegumu komisijas sēdi uzaicināma persona, kas pilnvarota pārstāvēt kolektīvā iesnieguma iesniedzējus, deputāti no citām Saeimas komisijām un pārstāvji no institūcijām, kurus skar kolektīvajā iesniegumā ietvertais prasījums.
+(3) Mandātu, ētikas un iesniegumu komisijas sēdē personai, kas pilnvarota pārstāvēt kolektīvā iesnieguma iesniedzējus, ir tiesības komisijas noteiktajā kārtībā pamatot kolektīvo iesniegumu un piedalīties tā apspriešanā.
+(4) Ne vēlāk kā triju mēnešu laikā pēc kolektīvā iesnieguma saņemšanas Mandātu, ētikas un iesniegumu komisija sagatavo ziņojumu par kolektīvā iesnieguma izvērtēšanu komisijā un Saeimas lēmuma projektu par kolektīvā iesnieguma turpmāko virzību.
+(5) Mandātu, ētikas un iesniegumu komisijas ziņojumā iekļaujama informācija par kolektīvā iesnieguma sākotnējo izvērtēšanu komisijā, it īpaši kolektīvā iesnieguma iesniedzēju prasījumi un to pamatojums, uzaicināto personu viedokļi, kā arī cita informācija, kuru komisija atzīst par nepieciešamu. Saeimas lēmuma projektā par kolektīvā iesnieguma turpmāko virzību norāda kolektīvā iesnieguma:
+1) iesniedzēju skaitu;
+2) būtības īsu izklāstu;
+3) vēlamo turpmāko virzību (piemēram, izveidot īpašu Saeimas komisiju attiecīga likumprojekta sagatavošanai, nodot kolektīvo iesniegumu kādai institūcijai tālākai izvērtēšanai, uzdot Ministru kabinetam sagatavot koncepciju vai likumprojektu, atstāt bez izskatīšanas, noraidīt).
+(6) Saeimas lēmuma projektu par kolektīvā iesnieguma turpmāko virzību izskata Kārtības ruļļa 117.panta kārtībā.
+(7) Mandātu, ētikas un iesniegumu komisija kontrolē ar Saeimas lēmumu par kolektīvā iesnieguma turpmāko virzību dotā uzdevuma izpildi un, ja nepieciešams, var sagatavot citus Saeimas lēmuma projektus, lai nodrošinātu dotā uzdevuma izpildi.

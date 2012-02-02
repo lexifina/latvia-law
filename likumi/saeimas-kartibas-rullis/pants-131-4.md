@@ -1,0 +1,2 @@
+131.⁴ (1) Prezidijs ne vēlāk kā 20 dienas pēc kolektīvā iesnieguma saņemšanas izvērtē tā atbilstību Kārtības ruļļa 131.³ panta prasībām, ja nepieciešams, nodod to pārbaudei Pilsonības un migrācijas lietu pārvaldei, un lemj par šā iesnieguma nodošanu sākotnējai izvērtēšanai Mandātu, ētikas un iesniegumu komisijai. Uz Prezidija sēdi uzaicināma fiziskā persona, kas pilnvarota pārstāvēt kolektīvā iesnieguma iesniedzējus.
+(2) Ja Prezidijs konstatē, ka iesniegtais dokuments neatbilst Kārtības ruļļa 131.³ panta prasībām, atbildi uz to sniedz saskaņā ar Iesniegumu likumu.
