@@ -1,0 +1,1 @@
+1.pants. 2010.gada 22.oktobra Instruments Starptautiskās Telekomunikāciju savienības Konstitūcijas grozīšanai (turpmāk - Konstitūcijas grozījumi) un 2010.gada 22.oktobra Instruments Starptautiskās Telekomunikāciju savienības Konvencijas grozīšanai (turpmāk - Konvencijas grozījumi) ar šo likumu tiek pieņemts un apstiprināts.
