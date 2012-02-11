@@ -135,4 +135,5 @@
 117) par ūdens resursu lietošanas atļaujas izsniegšanu;
 118) par piesārņojošas darbības atļaujas izsniegšanu un tās pārskatīšanu;
 119) par komercķīlas nodibināšanas, pārjaunojuma un dzēšanas reģistrāciju, par tiesībām iepazīties ar komercķīlu reģistra ierakstiem, par rakstveida informācijas saņemšanu no komercķīlu reģistra, par komercķīlas ņēmēja maiņu reorganizācijas vai uzņēmuma pārejas gadījumā, kā arī par komercķīlas noteikumu grozīšanu un nodrošinātā prasījuma cesijas reģistrāciju;
-120) par vietējās pierobežas satiksmes atļaujas pieprasīšanai nepieciešamo dokumentu izskatīšanu.
+120) par vietējās pierobežas satiksmes atļaujas pieprasīšanai nepieciešamo dokumentu izskatīšanu;
+121) par atļaujas izsniegšanu šķirnes pārbaudes veikšanai.
