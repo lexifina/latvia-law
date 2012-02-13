@@ -1,0 +1,5 @@
+21.pants. No 2012.gada 13.februāra līdz dienai, kad stājas spēkā grozījumi Civillikumā, Civilprocesa likumā un Bāriņtiesu likumā par personas rīcības spējas ierobežošanu un aizgādnības nodibināšanu gara slimības dēļ (turpmāk - attiecīgo likumu grozījumi), tiesa:
+1) var nodibināt pagaidu aizgādnību, ievērojot šā likuma 22., 23. un 24.panta noteikumus;
+2) aptur tās tiesvedībā esošās lietas par personas atzīšanu par rīcības nespējīgu un aizgādnības nodibināšanu, ievērojot šā likuma 25.panta noteikumus;
+3) aptur tās tiesvedībā esošās lietas vai taisa spriedumu par personas atzīšanu par rīcības spējīgu un aizgādnības izbeigšanu, ievērojot šā likuma 26.panta noteikumus.
+Līdz attiecīgo likumu grozījumu spēkā stāšanās dienai Civillikuma, Civilprocesa likuma un Bāriņtiesu likuma noteikumi par personas atzīšanu par rīcības nespējīgu un aizgādnības nodibināšanu, kā arī par personas atzīšanu par rīcības spējīgu un aizgādnības izbeigšanu piemērojami tiktāl, ciktāl tie nav pretrunā ar šā likuma 22.-26.pantā noteikto.
