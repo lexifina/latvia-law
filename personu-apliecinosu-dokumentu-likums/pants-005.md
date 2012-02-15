@@ -1,0 +1,15 @@
+5.pants. Personas apliecība
+(1) Ir šādas personas apliecības:
+1) Latvijas pilsoņa personas apliecība;
+2) Latvijas nepilsoņa personas apliecība;
+3) citas Eiropas Savienības dalībvalsts, Eiropas Ekonomikas zonas valsts vai Šveices Konfederācijas pilsoņa (turpmāk - Savienības pilsonis) personas apliecība;
+4) trešās valsts pilsoņa personas apliecība;
+5) Latvijā akreditētas ārvalstu diplomātiskās vai konsulārās pārstāvniecības, starptautiskās organizācijas vai tās pārstāvniecības, konsulārās iestādes darbinieka vai šāda darbinieka ģimenes locekļa personas apliecība (turpmāk - akreditētas personas apliecība).
+(2) Trešās valsts pilsoņa personas apliecība ir uzturēšanās atļauja, ko izsniedz saskaņā ar migrāciju regulējošiem tiesību aktiem.
+(3) Personas apliecība izmantojama kā ceļošanas dokuments, dodoties uz ārvalstīm, ja tas paredzēts Latvijas Republikai saistošos starptautiskajos līgumos. Ja pase ir zudusi vai kļuvusi lietošanai nederīga, Latvijas pilsonim vai nepilsonim ir tiesības personas apliecību izmantot kā ceļošanas dokumentu, lai atgrieztos Latvijas Republikā no trešās valsts, ar kuru nav noslēgts attiecīgs starptautisks līgums.
+(4) Personas apliecībā iekļauj informāciju elektroniskā formā, kas nepieciešama personas apliecības turētāja elektroniskai identitātes pārbaudei, kā arī droša elektroniskā paraksta radīšanai. Ministru kabinets nosaka personas apliecībā iekļaujamās informācijas apjomu un saturu, tās izveidošanas, aktivizēšanas, deaktivizēšanas un atjaunošanas kārtību, kā arī lietošanas ierobežojumus.
+(5) Personas apliecība, kurā iekļauta informācija elektroniskā formā, kas nepieciešama personas apliecības turētāja elektroniskai identitātes pārbaudei, kā arī droša elektroniskā paraksta radīšanai, uzskatāma par derīgu personas identitātes apliecināšanas līdzekli elektronisko pakalpojumu saņemšanai, ja normatīvajos aktos noteiktajos gadījumos personas identitātes apliecināšana jau tiek veikta, izmantojot droša elektroniskā paraksta viedkartē ietverto vai kredītiestādes elektronisko norēķinu sistēmas autentifikācijas līdzekli.
+(6) Personas apliecības, izņemot akreditētu personu apliecības, izsniedz Pilsonības un migrācijas lietu pārvalde.
+(7) Akreditētu personu apliecības izsniedz Ārlietu ministrija.
+(8) Personas apliecību paraugus, saturu, izsniegšanas kārtību un nosacījumus, kā arī derīguma termiņus nosaka Ministru kabinets.
+(9) Par personas apliecības izsniegšanu maksājama valsts nodeva. Valsts nodevas apmēru, samaksas kārtību, atvieglojumus un atbrīvojumus no valsts nodevas nosaka Ministru kabinets.

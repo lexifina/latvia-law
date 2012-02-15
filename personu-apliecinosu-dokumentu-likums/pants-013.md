@@ -1,0 +1,9 @@
+13.pants. Personu apliecinoša dokumenta nodošana
+(1) Personu apliecinoša dokumenta turētājs mēneša laikā pēc tiesiskā statusa maiņas vai dokumenta derīguma termiņa beigām nodod personu apliecinošu dokumentu izdevējiestādei, bet, ja dokumenta turētājs atrodas ārvalstī, - Latvijas Republikas diplomātiskajai vai konsulārajai pārstāvniecībai, ja attiecīgajā ārvalstī tāda ir.
+(2) Par 14 gadiem jaunākas personas likumiskais pārstāvis mēneša laikā pēc likumiskā pārstāvja statusa zaudēšanas nodod minētās personas personu apliecinošu dokumentu citam likumiskajam pārstāvim, ja tāds ir, vai dokumenta izdevējiestādei, Valsts policijai vai Valsts robežsardzei, vai Latvijas Republikas diplomātiskajai vai konsulārajai pārstāvniecībai ārvalstī.
+(3) Ja ir atrasts personu apliecinošs vai pagaidu dokuments, to nodod dokumenta izdevējiestādei, Valsts policijai vai Valsts robežsardzei, vai Latvijas Republikas diplomātiskajai vai konsulārajai pārstāvniecībai ārvalstī.
+(4) Mirušas personas personu apliecinošu dokumentu, izņemot diplomātisko pasi, dienesta pasi vai akreditētas personas apliecību, nodod dzimtsarakstu nodaļai.
+(5) Mirušas personas diplomātisko pasi, dienesta pasi, akreditētas personas apliecību vai pagaidu dokumentu nodod Ārlietu ministrijai.
+(6) Ārvalstī mirušas personas personu apliecinošu vai pagaidu dokumentu nodod Latvijas Republikas diplomātiskajai vai konsulārajai pārstāvniecībai ārvalstī.
+(7) Atgriešanās apliecības turētājs pēc atgriešanās Latvijā atgriešanās apliecību nodod Pilsonības un migrācijas lietu pārvaldei.
+(8) Latvijas Republikas diplomātiskā vai konsulārā pārstāvniecība, Valsts policija, Valsts robežsardze un dzimtsarakstu nodaļa nodotos personu apliecinošus vai pagaidu dokumentus nogādā to izdevējiestādēm.

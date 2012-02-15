@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Personu apliecinošu dokumentu likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2002, 13.nr.; 2004, 9.nr.; 2005, 13.nr.; 2006, 6., 22.nr.; 2007, 24.nr.; 2009, 17.nr.).
