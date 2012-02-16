@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sabiedrisko pakalpojumu regulēšanas komisijas padomes 2012.gada 8.februāra lēmums Nr.1/2 \"Noteikumi par informāciju elektroenerģijas galalietotājiem\"",
+  "type_of_act": "SPRK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "26(4629)",
+  "official_journal_page": null,
+  "official_journal_date": "2012-02-15",
+  "entry_into_force": "2012-02-16",
+  "notification_date": "2013-04-04",
+  "commission_reference": "MNE(2013)52450",
+  "nim_celex": "72009L0028LVA_202784",
+  "nim_id": "202784",
+  "transposes_celex": [
+    "32009L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6f7e5f5d-c0c5-4e55-964c-74f48739025d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
