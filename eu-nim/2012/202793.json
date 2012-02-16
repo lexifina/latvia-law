@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2012.gada 16.februāra rīkojums Nr.84 \"Par Valdības rīcības plānu Deklarācijas par Valda Dombrovska vadītā Ministru kabineta iecerēto darbību īstenošanai\"",
+  "type_of_act": "Ministru kabineta rīkojums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "29 (4632)",
+  "official_journal_page": null,
+  "official_journal_date": "2012-02-21",
+  "entry_into_force": "2012-02-16",
+  "notification_date": "2013-04-04",
+  "commission_reference": "MNE(2013)52459",
+  "nim_celex": "72009L0028LVA_202793",
+  "nim_id": "202793",
+  "transposes_celex": [
+    "32009L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a69fef24-0aee-460b-a7a6-dd4e80341146",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
