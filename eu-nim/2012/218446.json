@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2012.gada 31.janvāra noteikumi Nr.92 „Dzelzceļa ritošā sastāva reģistrācijas kārtība”.",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "27(4630)",
+  "official_journal_page": null,
+  "official_journal_date": "2012-02-16",
+  "entry_into_force": "2012-02-17",
+  "notification_date": "2014-07-18",
+  "commission_reference": "MNE(2014)54339",
+  "nim_celex": "72008L0057LVA_218446",
+  "nim_id": "218446",
+  "transposes_celex": [
+    "32008L0057"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9b78f94d-3afe-45be-9c0f-372fee122258",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
