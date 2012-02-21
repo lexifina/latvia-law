@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Informatīvais ziņojums „Latvijas Republikas Regulārais ziņojums atbilstoši Eiropas Parlamenta un Padomes 2009. gada 23. aprīļa Direktīvas 2009/28/EK par atjaunojamo energoresursu izmantošanas veicināšanu un ar ko groza un sekojoši atceļ Direktīvas 2001/77/EK un 2003/30/EK 22. pantam”",
+  "type_of_act": "Administrative measures",
+  "official_journal": "Administrative measures",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2012-02-21",
+  "entry_into_force": "2012-02-21",
+  "notification_date": null,
+  "commission_reference": "MNE(2013)52455",
+  "nim_celex": "72009L0028LVA_202789",
+  "nim_id": "202789",
+  "transposes_celex": [
+    "32009L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3ee16eab-4207-4e36-ad9e-259a8b8b070e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
