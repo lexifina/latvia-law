@@ -1,0 +1,1 @@
+1.pants. 2011.gada 16.septembrī parakstītā Latvijas Republikas valdības un Kazahstānas Republikas valdības vienošanās par personu atpakaļuzņemšanu (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.
