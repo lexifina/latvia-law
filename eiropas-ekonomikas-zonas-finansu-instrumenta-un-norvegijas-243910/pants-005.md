@@ -1,0 +1,3 @@
+5.pants. Finanšu instrumentu līdzfinansējuma un nacionālā līdzfinansējuma piešķiršana
+(1) Eiropas Ekonomikas zonas finanšu instrumenta vai Norvēģijas finanšu instrumenta projekta iesnieguma iesniegšana saskaņā ar šo likumu nerada pienākumu finanšu instrumentu vadībā iesaistītajai institūcijai piešķirt projekta iesnieguma iesniedzējam Eiropas Ekonomikas zonas finanšu instrumenta vai Norvēģijas finanšu instrumenta līdzfinansējumu vai nacionālo līdzfinansējumu.
+(2) Nacionālo līdzfinansējumu Latvijas Pašvaldību savienībai kā līdzfinansējuma saņēmējam iepriekš noteiktā projekta īstenošanai nodrošina no valsts budžeta.

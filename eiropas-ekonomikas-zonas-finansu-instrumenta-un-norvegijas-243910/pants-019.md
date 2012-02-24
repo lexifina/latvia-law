@@ -1,0 +1,3 @@
+19.pants. Lēmuma pieņemšanas termiņš
+(1) Programmas apsaimniekotājs vai aģentūra lēmumu par Eiropas Ekonomikas zonas finanšu instrumenta vai Norvēģijas finanšu instrumenta projekta iesnieguma apstiprināšanu, apstiprināšanu ar nosacījumu vai noraidīšanu pieņem ne vēlāk kā četru mēnešu laikā pēc Eiropas Ekonomikas zonas finanšu instrumenta vai Norvēģijas finanšu instrumenta projekta iesniegumu iesniegšanas beigu datuma vai projekta izklāstu iesniegšanas beigu datuma, ja projektu iesniegumu atlase organizēta divās kārtās.
+(2) Ja projektu iesniegumu atlase organizēta divās kārtās, šā panta pirmajā daļā noteiktajā termiņā neieskaita pēc projektu iesniegumu atlases pirmās kārtas atlasīto projektu iesniegumu sagatavošanai un iesniegšanai paredzēto laiku.

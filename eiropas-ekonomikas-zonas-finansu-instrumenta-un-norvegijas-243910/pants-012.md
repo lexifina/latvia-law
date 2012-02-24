@@ -1,0 +1,3 @@
+12.pants. Iepirkumu uzraudzības birojs, tā pienākumi un tiesības
+(1) Iepirkumu uzraudzības birojs nodrošina Eiropas Ekonomikas zonas finanšu instrumenta vai Norvēģijas finanšu instrumenta projektu vai iepriekš noteikto projektu iepirkuma dokumentācijas un iepirkuma procedūras norises izlases veida pirmspārbaudi.
+(2) Iepirkumu uzraudzības birojam ir tiesības pieprasīt no finanšu instrumentu vadības nodrošināšanā iesaistītajām institūcijām un līdzfinansējuma saņēmēja informāciju, kas nepieciešama, lai nodrošinātu Eiropas Ekonomikas zonas finanšu instrumenta vai Norvēģijas finanšu instrumenta projektu vai iepriekš noteikto projektu iepirkuma dokumentācijas un iepirkuma procedūras norises pirmspārbaudi.

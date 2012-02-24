@@ -1,0 +1,7 @@
+14.pants. Līdzfinansējuma saņēmēja pienākumi
+Līdzfinansējuma saņēmējam ir šādi pienākumi:
+1) nodrošināt projekta vai iepriekš noteiktā projekta īstenošanu atbilstoši projekta līgumam, Latvijas Republikai saistošajiem Eiropas Savienības un starptautiskajiem normatīvajiem aktiem;
+2) nodrošināt katram Eiropas Ekonomikas zonas finanšu instrumenta vai Norvēģijas finanšu instrumenta projektam vai iepriekš noteiktajam projektam atsevišķu grāmatvedības uzskaiti;
+3) sniegt informāciju par Eiropas Ekonomikas zonas finanšu instrumenta vai Norvēģijas finanšu instrumenta projekta vai iepriekš noteiktā projekta īstenošanu un nodrošināt Eiropas Brīvās tirdzniecības asociācijas auditoru padomes, Eiropas Ekonomikas zonas finanšu instrumenta komitejas, Norvēģijas Ārlietu ministrijas, Latvijas Republikas Valsts kontroles, kā arī finanšu instrumentu vadībā iesaistīto institūciju pārstāvjiem pieeju visu ar Eiropas Ekonomikas zonas finanšu instrumenta vai Norvēģijas finanšu instrumenta projekta vai iepriekš noteiktā projekta īstenošanu saistīto dokumentu oriģināliem, kā arī attiecīgā projekta īstenošanas vietai;
+4) nodrošināt projektu un iepriekš noteikto projektu publicitātes prasības;
+5) atmaksāt programmas apsaimniekotājam vai aģentūrai saņemtā Eiropas Ekonomikas zonas finanšu instrumenta vai Norvēģijas finanšu instrumenta līdzfinansējuma daļu un nacionālo līdzfinansējumu, kas nav izmantots vai ir izmantots neatbilstoši šā panta 1.punktā minētajiem nosacījumiem.

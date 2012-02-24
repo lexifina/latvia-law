@@ -1,0 +1,3 @@
+23.pants. Lēmums par piešķirtā finansējuma atgūšanu
+(1) Lēmumu par piešķirtā finanšu instrumentu līdzfinansējuma un nacionālā līdzfinansējuma atgūšanu pieņem šā likuma 17.panta piektajā daļā noteiktajos gadījumos un Administratīvā procesa likumā paredzētajā kārtībā, ja līdzfinansējuma saņēmējs var būt administratīvā akta adresāts saskaņā ar šā likuma 18.panta otro daļu un pret viņu var vērst piespiedu izpildi.
+(2) Ja līdzfinansējuma saņēmējs nevar būt administratīvā akta adresāts saskaņā ar šā likuma 18.panta otro daļu un pret viņu nevar vērst piespiedu izpildi, programmas apsaimniekotājs vai aģentūra pieņem pārvaldes lēmumu par piešķirtā finanšu instrumenta līdzfinansējuma un nacionālā līdzfinansējuma atgūšanu.
