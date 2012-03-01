@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "SPRK padomes lēmums Nr.1/6 \"Sistēmas pieslēguma noteikumi elektroenerģijas ražotājiem\"",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "34 (4637)",
+  "official_journal_page": null,
+  "official_journal_date": "2012-02-29",
+  "entry_into_force": "2012-03-01",
+  "notification_date": "2013-04-05",
+  "commission_reference": "MNE(2013)52536",
+  "nim_celex": "72009L0028LVA_202890",
+  "nim_id": "202890",
+  "transposes_celex": [
+    "32009L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7760a666-d2cf-4698-ae9e-c08748ef24e0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
