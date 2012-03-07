@@ -1,0 +1,3 @@
+6.² pants. Saskaņā ar Konvencijas 52.panta 1.punktu Ārlietu ministrija iesniedz Nīderlandes Karalistes valdībai šādas deklarācijas:
+1) Latvijas Republika saskaņā ar Konvencijas 52.panta 1.punktu deklarē, ka šīs Konvencijas piemērojamā likuma noteikumi prevalē pār Līguma starp Latvijas Republiku un Polijas Republiku par tiesisko palīdzību un tiesiskajām attiecībām civilajās, ģimenes, darba un krimināllietās (parakstīts Rīgā 1994.gada 23.februārī) noteikumiem;
+2) Latvijas Republika saskaņā ar Konvencijas 52.panta 1.punktu deklarē, ka šīs Konvencijas piemērojamā likuma noteikumi prevalē pār Līguma par tiesisko palīdzību un tiesiskajām attiecībām starp Latvijas Republiku, Igaunijas Republiku un Lietuvas Republiku (parakstīts Tallinā 1992.gada 11.novembrī) noteikumiem.
