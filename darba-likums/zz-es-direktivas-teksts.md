@@ -6,7 +6,7 @@ Likumā iekļautas tiesību normas, kas izriet no:
 5) Padomes 1992.gada 19.oktobra direktīvas 92/85/EEK par pasākumu ieviešanu, lai veicinātu drošības un veselības aizsardzības darbā uzlabošanu strādājošām grūtniecēm, sievietēm, kas strādā pēcdzemdību periodā, vai strādājošām sievietēm, kas baro bērnu ar krūti (desmitā atsevišķā direktīva direktīvas 89/391/EEK 16.panta 1.punkta nozīmē);
 6) (izslēgts ar 04.03.2010. likumu);
 7) Padomes 1994.gada 22.jūnija direktīvas 94/33/EK par jauniešu darba aizsardzību;
-8) Padomes 1996.gada 3.jūnija direktīvas 96/34/EK par UNICE, CEEP un EAK noslēgto pamatnolīgumu attiecībā uz bērna kopšanas atvaļinājumu;
+8) (zaudējis spēku ar 08.03.2012.; sk. Pārejas noteikumu 11.punktu);
 9) Eiropas Parlamenta un Padomes 1996.gada 16.decembra direktīvas 96/71/EK par darba ņēmēju norīkošanu darbā pakalpojumu sniegšanas jomā;
 10) (izslēgts ar 04.03.2010. likumu);
 11) Padomes 1997.gada 15.decembra direktīvas 97/81/EK par UNICE, CEEP un EAK noslēgto pamatnolīgumu par nepilna darba laika darbu;
