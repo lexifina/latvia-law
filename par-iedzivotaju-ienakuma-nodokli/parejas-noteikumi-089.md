@@ -1,0 +1,1 @@
+89. Grozījumus šā likuma 10.panta piektajā daļā, 12.panta devītajā daļā un 13.panta trešajā daļā, ar kuriem tiek izslēgta atsauce uz šā likuma 8.panta ceturtajā daļā minētajiem ienākumiem, piemēro ienākumiem, kas gūti, sākot ar 2011.gada 1.janvāri.
