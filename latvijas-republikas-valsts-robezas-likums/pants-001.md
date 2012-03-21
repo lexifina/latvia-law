@@ -10,8 +10,6 @@ Likumā ir lietoti šādi termini:
 8) Latvijas Republikas iekšējie ūdeņi (turpmāk - iekšējie ūdeņi):
 a) ūdensteču (upju, strautu, kanālu) un ūdenstilpju (ezeru, dīķu, ūdenskrātuvju) ūdeņi līdz valsts sauszemes robežai,
 b) jebkuri citi ūdeņi, kas atrodas uz krasta pusi no bāzes līnijām;
-9) Latvijas Republikas teritoriālā jūra (turpmāk - teritoriālā jūra):
-a) Baltijas jūras ūdeņi 12 jūras jūdžu platumā, skaitot no bāzes līnijas, ja starptautiskajos līgumos nav noteikts citādi,
-b) Baltijas jūras Rīgas jūras līča ūdeņi no bāzes līnijas līdz valsts robežai, kas noteikta saskaņā ar Latvijas Republikas un Igaunijas Republikas 1996.gada 12.jūlija līgumu par jūras robežas noteikšanu Rīgas jūras līcī, Irbes šaurumā un Baltijas jūrā;
+9) Latvijas Republikas teritoriālā jūra (turpmāk - teritoriālā jūra) - Baltijas jūras un Baltijas jūras Rīgas jūras līča ūdeņi, ja starptautiskajos līgumos nav noteikts citādi, 12 jūras jūdžu platumā, skaitot no bāzes līnijas;
 10) bāzes līnija Baltijas jūrā - maksimālā bēguma līnija un taisnas līnijas, kas savieno konkrētās ostas pretējās pusēs izvietoto hidrotehnisko būvju vai citu būvju punktus, kuri atrodas vistālāk uz jūras pusi;
 11) kompetentās iestādes - šajā likumā un citos normatīvajos aktos noteiktās valsts pārvaldes iestādes, kas veic personu, mantu un preču pārbaudes robežšķērsošanas vietās, uz valsts robežas un pierobežā.
