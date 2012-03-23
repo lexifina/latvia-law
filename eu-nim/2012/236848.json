@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2012.gada 20.marta noteikumi Nr.185 \"Jūrnieku ārstu atzīšanas kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "47 (4650)",
+  "official_journal_page": null,
+  "official_journal_date": "2012-03-22",
+  "entry_into_force": "2012-03-23",
+  "notification_date": "2016-04-21",
+  "commission_reference": "MNE(2016)52625",
+  "nim_celex": "72012L0035LVA_236848",
+  "nim_id": "236848",
+  "transposes_celex": [
+    "32012L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fc6f7d44-b0f7-4d95-96a1-ae5cc12a355d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
