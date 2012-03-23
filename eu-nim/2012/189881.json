@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2009.gada 24.novembra noteikumos Nr.1354 \"Noteikumi par sākotnējo plūdu riska novērtējumu, plūdu kartēm un plūdu riska pārvaldības plānu\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "47",
+  "official_journal_page": "00001-00002",
+  "official_journal_date": "2012-03-22",
+  "entry_into_force": "2012-03-23",
+  "notification_date": "2012-03-22",
+  "commission_reference": "MNE(2012)51463",
+  "nim_celex": "72007L0060LVA_189881",
+  "nim_id": "189881",
+  "transposes_celex": [
+    "32007L0060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/65336d98-de7e-4134-a818-871ab723137c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
