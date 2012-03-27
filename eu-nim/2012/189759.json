@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "23.02.2012. likums \"Grozījumi Ceļu satiksmes likumā\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "41(4644)",
+  "official_journal_page": null,
+  "official_journal_date": "2012-03-13",
+  "entry_into_force": "2012-03-27",
+  "notification_date": "2012-03-13",
+  "commission_reference": "MNE(2012)51345",
+  "nim_celex": "72010L0040LVA_189759",
+  "nim_id": "189759",
+  "transposes_celex": [
+    "32010L0040"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/64767694-697e-42de-8b65-35a6115d7aaf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
