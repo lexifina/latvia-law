@@ -10,6 +10,7 @@ Likumā ir lietoti šādi termini:
 8) Ceļu satiksmes noteikumi - Ministru kabineta normatīvais akts, kas nosaka ceļu satiksmes kārtību un ir saistošs visām fiziskajām un juridiskajām personām;
 9) diennakts tumšais laiks - laiks no vakara krēslas iestāšanās līdz rīta krēslas izzušanai;
 10) gājējs - persona, kas pārvietojas pa ceļu kājām vai invalīdu ratiņos. Šis termins neattiecas uz personām, kas veic darbus uz brauktuves, un uz satiksmes regulētājiem;
+10¹) inteliģentās transporta sistēmas - sistēmas, kurās informācijas un sakaru tehnoloģijas izmanto autotransporta jomā (ietverot infrastruktūru, transportlīdzekļus un ceļu lietotājus), satiksmes un mobilitātes pārvaldībā, kā arī lai nodrošinātu saskarni ar citiem transporta veidiem;
 11) mehāniskais transportlīdzeklis - pašgājējs transportlīdzeklis, traktortehnika, kas pārvietojas pa ceļu ar savu enerģiju, izņemot mopēdus un sliežu transportlīdzekļus, kā arī trolejbuss;
 12) mopēds - divriteņu, trīsriteņu vai četrriteņu transportlīdzeklis, kura motora darba tilpums ir ne lielāks par 50 kubikcentimetriem (dzirksteļaizdedzes tipa motoriem) vai kura maksimālā jauda ir ne lielāka par 4 kW (elektromotoriem vai cita veida iekšdedzes tipa motoriem) un konstrukcijā paredzētais maksimālais ātrums nepārsniedz 45 kilometrus stundā;
 13) motocikls - divriteņu mehāniskais transportlīdzeklis ar blakusvāģi vai bez tā. Šis termins attiecas arī uz sniega motocikliem;

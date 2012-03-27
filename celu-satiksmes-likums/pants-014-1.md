@@ -9,3 +9,4 @@
 (8) Kārtību, kādā transportlīdzekļu un to vadītāju valsts reģistrā esošā informācija pieprasāma un nododama atklātībai, kā arī pieejamās informācijas apjomu nosaka Ministru kabinets.
 (9) Ceļu satiksmes drošības direkcija, pamatojoties uz Valsts policijas sniegto informāciju transportlīdzekļu un to vadītāju valsts reģistram, paziņo transportlīdzekļa īpašniekam, ka attiecīgā transportlīdzekļa lietotājam nav transportlīdzekļu vadīšanas tiesību.
 (10) Ierakstiem transportlīdzekļu un to vadītāju valsts reģistrā ir publiska ticamība.
+(11) Transportlīdzekļu un to vadītāju valsts reģistrā esošās informācijas sniegšana ārvalstu kompetentajām iestādēm pieļaujama, ievērojot Latvijai saistošus starptautiskos līgumus un Eiropas Savienības tiesību aktus.

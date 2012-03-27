@@ -1,0 +1,1 @@
+27. Līdz 2012.gada 1.jūnijam Ministru kabinets izstrādā un iesniedz Saeimai likumprojektus, kas paredz, ka Latvijā iepriekš nereģistrētiem jauniem transportlīdzekļiem pirmreizējo valsts tehnisko apskati veic ne vēlāk kā 24 mēnešus pēc to pirmreizējās reģistrācijas Latvijā.
