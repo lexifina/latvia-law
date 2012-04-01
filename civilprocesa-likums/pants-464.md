@@ -1,7 +1,8 @@
 464.pants. Senāta rīcības sēde
 (1) Lai izlemtu jautājumu par kasācijas tiesvedības ierosināšanu, kasācijas sūdzības, pretsūdzības un protestus pēc šā likuma 460.panta pirmajā daļā un 463.panta trešajā daļā noteikto paskaidrojumu iesniegšanas termiņa izbeigšanās izskata Senāta rīcības sēdē departamenta priekšsēdētāja noteiktā kārtībā izveidota senatoru kolēģija triju senatoru sastāvā.
-(2) Ja kaut viens no senatoriem uzskata, ka lieta izskatāma kasācijas instancē, senatoru kolēģija pieņem lēmumu par kasācijas tiesvedības ierosināšanu.
+(2) Ja kaut viens no senatoriem uzskata, ka lieta izskatāma kasācijas instancē, senatoru kolēģija pieņem lēmumu par kasācijas tiesvedības ierosināšanu. Lēmumā nosaka lietas izskatīšanu rakstveida procesā vai izskatīšanu tiesas sēdē.
 (3) Ja senatoru kolēģija vienbalsīgi atzīst, ka kasācijas tiesvedības ierosināšana ir atsakāma, tā ar savu rīcības sēdes lēmumu atsakās ierosināt kasācijas tiesvedību.
 (4) Ar senatoru kolēģijas vienbalsīgu lēmumu lietu var nodot izskatīšanai kasācijas kārtībā Senāta paplašinātā sastāvā.
+(4¹) Šā panta otrajā, trešajā un ceturtajā daļā minēto lēmumu var sastādīt rezolūcijas veidā, ievērojot šā likuma 229.panta otrajā daļā noteikto.
 (5) Ja kasācijas tiesvedība tiek ierosināta, pēc puses lūguma senatoru kolēģija var pieņemt lēmumu par sprieduma izpildes apturēšanu līdz lietas izskatīšanai kasācijas kārtībā.
 (6) Senāta rīcības sēdē senatoru kolēģija var izlemt arī jautājumu par atteikumu pieņemt iesniegto blakus sūdzību un citus procesuālos jautājumus, kuru izlemšanai nav nepieciešama tiesas sēde, kā arī pieņemt lēmumu uzdot Eiropas Savienības Tiesai jautājumu prejudiciāla nolēmuma pieņemšanai vai iesniegt Satversmes tiesai pieteikumu par tiesību normu atbilstību Satversmei vai starptautisko tiesību normai (aktam).

@@ -14,6 +14,7 @@
 9¹) pieteikuma iesniedzēji - lietās par bērna prettiesisku pārvietošanu pāri robežai vai aizturēšanu;
 10) administratori - prasībās, kas celtas to personu labā, kurām pasludināts juridiskās personas maksātnespējas process un fiziskās personas maksātnespējas process, kā arī iesniedzot juridiskās personas maksātnespējas procesa pieteikumu Maksātnespējas likuma 51.panta trešajā daļā noteiktajā gadījumā;
 11) piedzinēji - izpildu lietās par piedziņām valsts ienākumos;
+11¹) piedzinēji - izpildu lietās, kad piedziņa izdarāma atbilstoši vienotajam instrumentam, kas atļauj izpildi pieprasījuma saņēmējā dalībvalstī;
 12) nodokļu (nodevu) administrācija - pieteikumos juridiskās personas maksātnespējas procesa lietās;
 13) Pilsonības un migrācijas lietu pārvalde - lietās par Latvijas pilsonības atņemšanu;
 14) Valsts sociālās apdrošināšanas aģentūra - lietās par finanšu līdzekļu atgūšanu valsts budžetā daļā par sociālās apdrošināšanas pakalpojumu vai valsts sociālo pabalstu pārmaksu un sociālās apdrošināšanas pakalpojumu vai valsts sociālo pabalstu izmaksu sakarā ar ceļu satiksmes negadījumiem.

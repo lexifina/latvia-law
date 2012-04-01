@@ -6,3 +6,4 @@
 (4) Ja nav iespējams sprieduma izpildes izdevumus ieturēt no parādnieka vai piedzinēja, tiesu izpildītājs uz sastādītā aprēķina pamata izraksta rēķinu un nodod to piespiedu izpildei.
 (5) Rēķinu piespiedu izpildei nodod pēc tam, kad izbeidzies tiesu izpildītāja sastādītā sprieduma izpildes izdevumu aprēķina pārsūdzēšanas termiņš, bet, ja tas ir pārsūdzēts, - pēc tiesas nolēmuma stāšanās likumīgā spēkā.
 (6) Izdevumus, kas saistīti ar tiesas lēmuma par prasības nodrošināšanu vai pagaidu aizsardzības līdzekļa noteikšanu izpildi, sedz prasītājs.
+(7) Ja izpildu lietvedība izbeigta saskaņā ar šā likuma 563.panta pirmās daļas 11.punktu un palīdzības pieprasījuma atsaukšanas iemesls ir piedzenamā prasījuma vai tā izpildei izdotā dokumenta atcelšana, tiesu izpildītājs iesniedz Valsts ieņēmumu dienestam izpildes izdevumu aprēķinu un lūdz, lai tas vienojas ar dalībvalsts iestādi, kura lūgusi savstarpēju palīdzību prasījumu piedziņā, par izpildes izmaksu atlīdzināšanu.

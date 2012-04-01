@@ -1,5 +1,5 @@
 229.pants. Lēmuma pieņemšana
 (1) Tiesas nolēmumu, ar kuru lieta netiek izspriesta pēc būtības, pieņem lēmuma veidā.
-(2) Lēmumu sastāda atsevišķa procesuālā dokumenta veidā vai ieraksta tiesas sēdes protokolā un pasludina pēc tā pieņemšanas.
+(2) Lēmumu sastāda atsevišķa procesuālā dokumenta veidā vai ieraksta tiesas sēdes protokolā un pasludina pēc tā pieņemšanas. Šajā likumā paredzētajos gadījumos lēmumu var sastādīt rezolūcijas veidā. Tad lēmumā norāda šā likuma 230.panta pirmās daļas 1., 2. un 6.punktā noteikto.
 (3) Atsevišķa procesuālā dokumenta veidā tiesas lēmumu sastāda šajā likumā paredzētajos gadījumos apspriežu istabā.
 (4) Par tiesneša procesuālo darbību ārpus tiesas sēdes pieņemams lēmums, kas noformējams atsevišķa procesuālā dokumenta veidā.
