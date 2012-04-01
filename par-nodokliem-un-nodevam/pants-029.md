@@ -18,3 +18,5 @@ c) šīs daļas 1.punkta "d" apakšpunktā minēto nodokļu maksātāju tiesisk�
 1) summām, kuras norādītas izpildei pieņemtajos maksājuma uzdevumos, no dienas, kad banka tos pieņēmusi izpildei;
 2) tikai tādā gadījumā, ja bankas kontos iesaldēto (aizturēto) naudas līdzekļu īpašnieks-pārvaldītājs nav atteicies no savām prasījuma tiesībām par labu citai personai vai arī savas tiesības nav nodevis jebkurai citai personai.
 (7) Nokavējuma naudas aprēķināšana tiek pārtraukta, ja nokavējuma naudas summa sasniedz nokavētā maksājuma (pamatparāda) apmēru.
+(8) Par Eiropas Savienības dalībvalsts nodokļa vai nodevas samaksas termiņa kavējumu nokavējuma nauda tiek aprēķināta šajā pantā noteiktajā kārtībā un apmērā no dienas, kad Valsts ieņēmumu dienests saņēmis palīdzības pieprasījumu par nodokļu prasījuma piedziņu.
+(9) Par Eiropas Savienības dalībvalsts nodokļa vai nodevas samaksas termiņa kavējumu nokavējuma nauda tiek aprēķināta šajā pantā noteiktajā kārtībā un apmērā no dienas, kad Valsts ieņēmumu dienests pieņēmis lēmumu par nokavēto nodokļu maksājumu piedziņu, ja Eiropas Savienības dalībvalsts prasījuma izpildei bijusi nepieciešama aizstāšana.

@@ -18,7 +18,7 @@
 (7) Lēmums par nokavēto nodokļu maksājumu piedziņu ir izpildu dokuments, un to izpilda:
 1) nodokļu administrācijas amatpersonas atbilstoši amata pienākumiem;
 2) zvērināti tiesu izpildītāji saskaņā ar Civilprocesa likumu un pamatojoties uz lēmumu par nokavēto nodokļu maksājumu piedziņu, ja nodokļu administrācija Civilprocesa likumā noteiktajā kārtībā zvērinātam tiesu izpildītājam ir iesniegusi izpildu dokumentu.
-(8) Lēmumu par nokavēto nodokļu maksājumu piedziņu izpilda triju gadu laikā no tā pieņemšanas. Lēmuma izpildes noilguma termiņš tiek apturēts, ja:
+(8) Lēmumu par nokavēto nodokļu maksājumu piedziņu izpilda triju gadu laikā no tā pieņemšanas, izņemot šā panta 8.¹ daļā minēto gadījumu. Lēmuma izpildes noilguma termiņš tiek apturēts, ja:
 1) pagarināts, atlikts vai sadalīts nodokļu samaksas termiņš, - līdz šā termiņa beigām. Ja samaksas termiņš sadalīts, noilguma aprēķins tiek atjaunots pēc pēdējā maksājuma termiņa;
 2) apstrīdēts nodokļu administrācijas kontroles (pārbaudes, revīzijas) rezultātā pieņemtais lēmums, nodokļa aprēķins vai lēmums par nokavēto nodokļu maksājumu piedziņu, - uz iesnieguma pirmstiesas izskatīšanas laiku;
 3) pārsūdzētas zvērināta tiesu izpildītāja darbības, - uz sūdzības izskatīšanas laiku;
@@ -28,6 +28,8 @@
 7) ierosināta nodokļu maksātāja maksātnespējas lieta, - līdz maksātnespējas procesa vai tiesiskās aizsardzības procesa izbeigšanai maksātnespējas lietā;
 8) pieņemts un reģistrēts lēmums par nodokļu maksātāja likvidāciju, - līdz likvidācijas procesa pabeigšanai;
 9) lēmums ir iesniegts izpildei zvērinātam tiesu izpildītājam un nodokļu administrācijas ierēdnim, kuram saskaņā ar likumu ir piešķirtas tiesu izpildītāja tiesības, - līdz lēmuma izpildei vai līdz brīdim, kad ir izdots akts par piedziņas neiespējamību.
+(8¹) Nodokļu prasījuma izpildi Eiropas Savienības dalībvalsts vai tās valsts labā, ar kuru noslēgts un Saeimā apstiprināts starptautiskais līgums par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu, veic attiecīgās ārvalsts iestādes palīdzības pieprasījumā norādītajā termiņā.
+(8²) Ja par maksājumiem, kas iekļauti lēmumā par nokavēto nodokļu maksājumu piedziņu, ir nosūtīts palīdzības pieprasījums par piedziņu Eiropas Savienības dalībvalsts pieprasījuma saņēmējai iestādei vai tās valsts nodokļu administrācijai (kompetentajai iestādei), ar kuru noslēgts un Saeimā apstiprināts starptautiskais līgums par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu, prasījuma piespiedu izpildes termiņu nosaka atbilstoši attiecīgā lēmuma par nokavēto nodokļu maksājumu piedziņu izpildes termiņam. Jebkuras darbības, kas veiktas palīdzības pieprasījuma saņēmējā valstī un atbilst šā panta astotajā daļā minētajam, aptur nokavēto nodokļu maksājumu piespiedu izpildes termiņu.
 (9) Lēmums par nokavēto nodokļu maksājumu piedziņu zaudē spēku:
 1) ar dienu, kad ir veikta nokavēto nodokļu maksājumu brīvprātīga samaksa vai izpildīts lēmums par nokavēto nodokļu maksājumu piedziņu;
 2) ar dienu, kad nodokļu administrācija atceļ lēmumu par nokavēto nodokļu maksājumu piedziņu;

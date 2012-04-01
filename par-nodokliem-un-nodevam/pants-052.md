@@ -1,0 +1,10 @@
+52.pants. Palīdzības pieprasījums par piedziņu Eiropas Savienības dalībvalstij
+(1) Valsts ieņēmumu dienests izdod vienoto instrumentu, kas atļauj izpildi pieprasījuma saņēmējā dalībvalstī, un vēršas Eiropas Savienības dalībvalsts pieprasījuma saņēmējā iestādē ar palīdzības pieprasījumu par piedziņu, ja nodokļu prasījuma summa nav samaksāta nodokļu likumos vai citos normatīvajos aktos noteiktajā termiņā, nodokļu prasījums ir izpildāms un Latvijas Republikā ir veiktas darbības tā piedziņai. Piedziņas neiespējamība nav jākonstatē, ja nodokļu prasījuma izpilde pilnībā vai daļēji nav iespējama un Valsts ieņēmumu dienesta rīcībā ir informācija par parādniekam piederošiem naudas līdzekļiem vai mantu pieprasījuma saņēmējā dalībvalstī vai ja nodokļu prasījuma izpilde Latvijas Republikā nebūtu samērīga ar iespējām to izpildīt pieprasījuma saņēmējā dalībvalstī.
+(2) Vienotajā instrumentā, kas atļauj izpildi pieprasījuma saņēmējā dalībvalstī, ir norādāma vismaz šāda informācija:
+1) informācija par izpildu dokumentu, kas izdots nodokļu prasījuma summas piedziņai, prasījuma apraksts un laikposms, uz ko attiecas prasījums. Ja nodokļu prasījuma summa izveidojusies atbilstoši nodokļu deklarācijai, vienotajā instrumentā, kas atļauj izpildi pieprasījuma saņēmējā dalībvalstī, kā datumu, no kura piedziņa ir iespējama, norāda nodokļu likumā noteikto nodokļa maksāšanas termiņu;
+2) parādnieka nosaukums (fiziskajai personai - vārds un uzvārds) un adrese;
+3) nodokļu prasījuma summa;
+4) norāde, kur un kādā termiņā maksāšanas pienākumu var apstrīdēt vai pārsūdzēt;
+5) iestāde, kurā parādnieks var iegūt papildu informāciju par prasījumu.
+(3) Valsts ieņēmumu dienests informāciju, kas attiecas uz Eiropas Savienības dalībvalsts pieprasījuma saņēmējai iestādei iesniegtā palīdzības pieprasījuma par piedziņu izpildi, nosūta saskaņā ar Īstenošanas regulas (ES) Nr. 1189/2011 21.panta 1.punktu.
+(4) Valsts ieņēmumu dienests izdara grozījumus palīdzības pieprasījumā par piedziņu vai atsauc to saskaņā ar Īstenošanas regulas (ES) Nr. 1189/2011 22.pantu.

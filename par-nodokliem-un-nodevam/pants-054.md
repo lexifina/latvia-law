@@ -1,0 +1,6 @@
+54.pants. Informācijas apmaiņa Eiropas Savienības dalībvalstu nodokļu prasījumu piedziņā
+(1) Valsts ieņēmumu dienests ir tiesīgs atteikties sniegt Eiropas Savienības dalībvalsts pieprasījuma iesniedzējai iestādei tās pieprasīto informāciju, kas nepieciešama Eiropas Savienības dalībvalsts nodokļu prasījuma piedziņai, ja pastāv vismaz viens no šajā panta daļā turpmāk minētajiem nosacījumiem:
+1) pieprasīto informāciju nav iespējams iegūt, veicot nokavēto nodokļu maksājumu piedziņu atbilstoši šajā likumā un likumā "Par Valsts ieņēmumu dienestu" noteiktajai kompetencei nodokļu administrēšanā;
+2) tā ir ierobežotas pieejamības informācija, kas saistīta ar komercnoslēpumu, rūpniecisku vai profesionālu noslēpumu;
+3) informācijas izpaušana varētu kaitēt Latvijas Republikas drošībai vai ir pretrunā ar Latvijas tiesību sistēmas pamatprincipiem.
+(2) Valsts ieņēmumu dienests informāciju par personai, kas kādā no Eiropas Savienības dalībvalstīm veic komercdarbību vai ir tās rezidents, Latvijas Republikā atmaksājamām pārmaksāto nodokļu (izņemot pievienotās vērtības nodokli) vai citām no budžeta atmaksājamām summām Eiropas Savienības dalībvalsts iestādei var sniegt bez tās iepriekšēja pieprasījuma.

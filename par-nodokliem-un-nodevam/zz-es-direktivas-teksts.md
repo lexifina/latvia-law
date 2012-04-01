@@ -10,4 +10,5 @@ Likumā iekļautas tiesību normas, kas izriet no:
 9) Padomes 2004.gada 16.novembra direktīvas 2004/106/EK, ar ko groza Padomes direktīvu 77/799/EEK par dalībvalstu kompetento iestāžu savstarpējo palīdzību attiecībā uz tiešajiem nodokļiem, noteiktiem akcīzes nodokļiem un apdrošināšanas prēmiju aplikšanu ar nodokļiem un direktīvu 92/12/EEK par vispārēju režīmu precēm, uz kurām attiecas akcīzes nodokļa piemērošana, un par šādu preču glabāšanu, apriti un uzraudzību.
 10) Padomes 2006.gada 20.novembra direktīvas 2006/98/EK, ar ko pielāgo dažas direktīvas nodokļu jomā saistībā ar Bulgārijas un Rumānijas pievienošanos;
 11) Padomes 2008.gada 12.februāra direktīvas 2008/7/EK par netiešajiem nodokļiem, ko uzliek kapitāla piesaistīšanai;
-12) Padomes 2008.gada 26.maija direktīvas 2008/55/EK par savstarpējo palīdzību prasījumu piedziņā saistībā ar noteiktiem maksājumiem, nodokļiem un citiem pasākumiem.
+12) (izslēgts ar 15.03.2012. likumu);
+13) Padomes 2010.gada 16.marta direktīvas 2010/24/ES par savstarpēju palīdzību prasījumu piedziņā saistībā ar noteiktiem maksājumiem, nodokļiem un citiem pasākumiem.

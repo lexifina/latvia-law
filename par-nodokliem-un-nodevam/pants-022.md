@@ -2,7 +2,8 @@
 (1) Nodokļu administrācijas ierēdnim (darbiniekam), ja šā panta otrajā daļā nav noteikts citādi, aizliegts izpaust par nodokļu maksātāju bez viņa piekrišanas jebkādu informāciju, kas šim ierēdnim (darbiniekam) kļuvusi zināma, pildot dienesta (darba) pienākumus, izņemot:
 1) informāciju par nodokļu maksātāja nodokļu parādiem, kas izveidojušies nodokļu revīzijas (audita) rezultātā vai nodokļu maksājumu kavējuma dēļ, norādot nodokļa parāda lielumu, nodokļu maksātāja nosaukumu vai vārdu, uzvārdu un reģistrācijas kodu;
 2) informāciju par fizisko personu - saimnieciskās darbības veicēju, kas nav reģistrēts komercreģistrā, norādot fiziskās personas vārdu, uzvārdu un reģistrācijas kodu;
-3) šā likuma 18.panta pirmās daļas 8., 12. un 14.punktā, 24.panta otrajā daļā un 25.panta pirmajā daļā noteiktajos gadījumos.
+3) šā likuma 18.panta pirmās daļas 8., 12. un 14.punktā, 24.panta otrajā daļā un 25.panta pirmajā daļā noteiktajos gadījumos;
+4) normatīvajos aktos noteikto nodokļu maksātāju pienākumu izpildes nodrošināšanai, komercdarbības vides drošības, godīgas konkurences un labprātīgas nodokļu (nodevu) saistību izpildes veicināšanai - informāciju par to, vai personai attiecīgajā taksācijas periodā ir mikrouzņēmumu nodokļa maksātāja statuss.
 (2) Nodokļu administrācijas ierēdnis (darbinieks) drīkst sniegt informāciju par nodokļu maksātāju bez viņa piekrišanas šādos gadījumos:
 1) valsts ieņēmumu nodrošināšanai, kā arī pārraudzības funkciju veikšanai - Finanšu ministrijai;
 2) valsts budžeta un pašvaldību budžetu līdzekļu ieņēmumu un izdevumu, kā arī valsts budžetā vai pašvaldību budžetos iekļauto Eiropas Savienības un citu starptautisko organizāciju vai institūciju līdzekļu izlietošanas un rīcības ar valsts un pašvaldību mantu vai tās daļu kontrolei;

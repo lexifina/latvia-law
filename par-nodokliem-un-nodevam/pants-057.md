@@ -1,0 +1,5 @@
+57.pants. Ierobežojumi savstarpējās palīdzības sniegšanai
+Valsts ieņēmumu dienests atsaka palīdzību nodokļu prasījuma piedziņā, ja pastāv vismaz viens no turpmāk šajā pantā minētajiem nosacījumiem:
+1) sākotnējais palīdzības pieprasījums par nodokļu prasījuma piedziņu, izpildes nodrošināšanas pasākumu veikšanu vai informācijas sniegšanu attiecas uz nodokļu prasījumu, kas vecāks par pieciem gadiem, skaitot no maksāšanas termiņa iestāšanās dienas. Ja nodokļu prasījums vai dokuments, kas atļauj tā izpildi, ir apstrīdēts vai pārsūdzēts, piecu gadu termiņu skaita no dienas, kad prasījumu vai dokumentu, kas atļauj tā izpildi, saskaņā ar pieprasījuma iesniedzējas iestādes dalībvalsts tiesību aktiem vairs nevar apstrīdēt vai pārsūdzēt. Ja nodokļu prasījuma maksāšanas termiņš ir pagarināts pieprasījuma iesniedzēja iestādes dalībvalstī, piecu gadu termiņu skaita no dienas, kad beidzies piešķirtais termiņa pagarinājums;
+2) nodokļu prasījums ir vecāks par 10 gadiem, skaitot no sākotnējā palīdzības pieprasījuma dienas;
+3) nodokļu prasījuma summa, attiecībā uz kuru iesniegts palīdzības pieprasījums par piedziņu, ir mazāka par 1500 euro.
