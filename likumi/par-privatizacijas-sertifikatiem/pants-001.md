@@ -1,7 +1,7 @@
 1.pants. Likumā lietotie termini
 Likumā ir lietoti šādi termini:
 1) privatizācijas sertifikāts (turpmāk - sertifikāts) - valsts piešķirts dematerializēts vērtspapīrs, kuru var tikai vienreiz izlietot kā maksāšanas līdzekli par privatizējamo valsts vai pašvaldību īpašumu;
-2) privatizācijas sertifikātu konts - akciju sabiedrībā "Latvijas Krājbanka", Latvijas Hipotēku un zemes bankā vai citās Ministru kabineta noteiktajās kredītiestādēs (turpmāk - bankas) atvērts konts, kurā tiek fiksēti sertifikātu īpašniekam piederošie sertifikāti un operācijas ar tiem;
+2) privatizācijas sertifikātu konts - normatīvajos aktos noteiktajās kredītiestādēs (turpmāk - bankas) atvērts konts, kurā tiek fiksēti sertifikātu īpašniekam piederošie sertifikāti un operācijas ar tiem;
 3) privatizācijas sertifikātu grāmatiņa (turpmāk - sertifikātu grāmatiņa) - dokuments, kuru banka ir izsniegusi sertifikātu īpašniekam un kurā tiek atspoguļots privatizācijas sertifikātu konts un operācijas ar sertifikātiem;
 4) Latvijas iedzīvotājs - šā likuma izpratnē: Latvijas pilsonis vai Pilsonības un imigrācijas departamentā reģistrēta persona, kurai ir pastāvīgs pieraksts Latvijas Republikā un kurai ir piešķirts individuāls un nemainīgs personas kods, kas fiksēts personu apliecinošos dokumentos, vai kura saņēmusi pastāvīgās uzturēšanās atļauju;
 5) kopīgo ieguldījumu fonds - ieguldītāju kopīpašums, kuru šķirti no sava īpašuma pārvalda kopīgo ieguldījumu sabiedrība;
