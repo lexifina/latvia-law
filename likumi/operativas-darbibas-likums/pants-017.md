@@ -1,5 +1,6 @@
-17. pants. Operatīvā korespondences kontrole, operatīvā personas paustās vai uzglabātās informācijas satura iegūšana no tehniskajiem līdzekļiem un operatīvā sarunu noklausīšanās
+17. pants. Operatīvā korespondences kontrole, operatīvā personas paustās vai uzglabātās informācijas satura iegūšana no tehniskajiem līdzekļiem, operatīvā sarunu noklausīšanās un operatīvā publiski nepieejamas vietas videonovērošana
 Ja operatīvās darbības subjekta rīcībā ir pamatotas ziņas par personu saistību ar noziegumu, kā arī par valstij svarīgu interešu, valsts drošības un aizsardzības apdraudējumu, ir atļauta:
 1) operatīvā korespondences kontrole - tas ir, drīkst kontrolēt šo personu nosūtāmo un saņemamo pasta, telegrāfa un cita veida korespondenci un tās rīcībā esošās elektrosakaru un cita veida sistēmas šādas korespondences nosūtīšanai un saņemšanai;
 2) operatīvā personas paustās vai uzglabātās informācijas satura iegūšana no tehniskajiem līdzekļiem - tas ir, informācijas noņemšana vai kopēšana no personu īpašumā vai rīcībā esošajām elektroniskajām un cita veida informācijas glabāšanas ierīcēm un informācijas kanāliem;
-3) operatīvā sarunu noklausīšanās - tas ir, to sarunu noklausīšanās, kuras notiek starp šīm personām un citām personām (arī pa tālruni, ar elektroniskajiem un cita veida sakaru līdzekļiem).
+3) operatīvā sarunu noklausīšanās - tas ir, to sarunu noklausīšanās, kuras notiek starp šīm personām un citām personām (arī pa tālruni, ar elektroniskajiem un cita veida sakaru līdzekļiem);
+4) operatīvā publiski nepieejamas vietas videonovērošana - tas ir, publiski nepieejamā vietā notiekošo norišu videonovērošana bez šīs vietas īpašnieka, valdītāja un apmeklētāju ziņas.
