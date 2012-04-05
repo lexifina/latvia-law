@@ -1,3 +1,3 @@
 2.pants. Dienesta funkcijas
-(1) Dienests savas kompetences ietvaros visā Latvijas teritorijā uzrauga to normatīvo aktu ievērošanu, kuri regulē meža apsaimniekošanu un izmantošanu. Pārējās tā funkcijas nosaka meža apsaimniekošanu un Dienesta kompetenci regulējošie normatīvie akti.
-(2) Dienests, pildot tam noteiktās funkcijas, sadarbojas ar Ģenerālprokuratūru, Valsts kontroli, Vides ministriju, Iekšlietu ministriju, Aizsardzības ministriju un to attiecīgajām struktūrvienībām, pašvaldībām un citām ieinteresētajām institūcijām, kā arī ar iedzīvotājiem.
+(1) Dienests savas kompetences ietvaros uzrauga meža apsaimniekošanu un izmantošanu un medības reglamentējošo normatīvo aktu ievērošanu, uzrauga un īsteno meža ugunsdzēsību un piedalās valsts meža politikas izstrādē un ieviešanā. Pārējās tā funkcijas nosaka meža apsaimniekošanu un Dienesta kompetenci reglamentējošie normatīvie akti.
+(2) Dienests, pildot likumā noteiktās funkcijas, var sadarboties ar tiešās un pastarpinātās valsts pārvaldes iestādēm, nevalstisko un starptautisko institūciju un organizāciju, kā arī citiem sabiedrības un institūciju pārstāvjiem.
