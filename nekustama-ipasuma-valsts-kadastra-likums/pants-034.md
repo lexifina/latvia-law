@@ -1,4 +1,4 @@
-34.pants. (1) Nekustamā īpašuma sastāvā pēc šā likuma 24.panta pirmās daļas 1., 2., 3. un 5.punktā minētās personas izvēles saskaņā ar normatīvajiem aktiem Valsts zemes dienests iekļauj šādu nekustamā īpašuma objektu vai nekustamā īpašuma objektu kopību vienā no šādiem gadījumiem:
+34.pants. (1) Nekustamā īpašuma sastāvā pēc šā likuma 24.panta pirmās daļas 1., 2., 3., 5., 6., 7., 10. un 11.punktā un trešajā daļā minētās personas izvēles saskaņā ar normatīvajiem aktiem Valsts zemes dienests iekļauj šādu nekustamā īpašuma objektu vai nekustamā īpašuma objektu kopību vienā no šādiem gadījumiem:
 1) vienā administratīvajā teritorijā esošās zemes vienības un uz tām esošās zemes īpašniekam piederošās būves;
 2) vienā zemes vienībā esošās būves kā patstāvīgu nekustamo īpašumu likuma "Par atjaunotā Latvijas Republikas 1937.gada Civillikuma ievada, mantojuma tiesību un lietu tiesību daļas spēkā stāšanās laiku un kārtību" 14.pantā noteiktajos gadījumos;
 3) vienā dzīvojamā mājā esošās telpu grupas, kas savstarpēji robežojas horizontālā vai vertikālā plaknē, kopā ar kopīpašumā esošo domājamo daļu.

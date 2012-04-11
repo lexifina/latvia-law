@@ -3,7 +3,7 @@
 2) kadastra objektu datu reģistrāciju un aktualizāciju Kadastra informācijas sistēmā, ja nav saņemts kadastra subjekta ierosinājums;
 3) kadastrālo vērtēšanu;
 4) (izslēgts ar 12.06.2009. likumu);
-5) datu apmaiņu ar citām valsts informācijas sistēmām;
+5) datu apmaiņu ar citām valsts vai pašvaldības informācijas sistēmām;
 6) kadastra informācijas sagatavošanu un izsniegšanu atbilstoši šā likuma 86.pantam;
 7) kadastra informācijas publiskās daļas pieejamības nodrošināšanu elektroniskās informācijas izplatīšanas sistēmā;
 8) kadastra informācijas sniegšanu Eiropas Savienības valstīm un citām valstīm saskaņā ar starpvalstu līgumiem, ciktāl to neierobežo normatīvie akti;

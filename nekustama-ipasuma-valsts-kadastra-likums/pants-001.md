@@ -10,6 +10,6 @@
 9) kadastrālā vērtība - pēc vienotiem kadastrālās vērtēšanas principiem noteiktā datumā atbilstoši kadastra datiem noteikta kadastra objekta vērtība naudas izteiksmē. Kadastrālā vērtība neietver mežaudzes vērtību;
 10) telpu grupa - konstruktīvi norobežots un no vienas vai vairākām telpām sastāvošs telpu kopums, kuram ir viena vai vairākas izejas uz koplietošanas telpu vai āru un kuram būvniecību regulējošos normatīvajos aktos noteiktajā kārtībā piešķirta viena noteikta funkcija (lietošanas veids);
 11) zemes vienība - Nekustamā īpašuma valsts kadastra informācijas sistēmā reģistrēts norobežots zemesgabals, kam piešķirts kadastra apzīmējums;
-12) zemes vienības daļa - Nekustamā īpašuma valsts kadastra informācijas sistēmā reģistrēta nomas vajadzībām noteikta zemes vienības teritorija, kas nav patstāvīgs nekustamā īpašuma objekts;
+12) zemes vienības daļa - Nekustamā īpašuma valsts kadastra informācijas sistēmā reģistrēta (tai skaitā nomas vajadzībām) noteikta zemes vienības teritorija, kas nav patstāvīgs nekustamā īpašuma objekts;
 13) jaunbūve - būve, kurai līdz tās nodošanai ekspluatācijā atbilstoši būvniecību regulējošo normatīvo aktu prasībām izbūvēts vismaz nulles cikls;
 14) nekustamā īpašuma nosaukums - ar pašvaldības lēmumu nekustamajam īpašumam lauku apvidū piešķirts rekvizīts, kas nav adrese.

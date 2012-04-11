@@ -1,0 +1,1 @@
+31.² pants. Zemes kadastrālajam uzmērītājam ir pienākums nodrošināt zemes kadastrālo uzmērīšanu regulējošos normatīvajos aktos noteikto dokumentu uzkrāšanu, glabāšanu, pieejamību un izmantošanu, kā arī izsniegt personai dokumentu kopijas, izrakstus un norakstus.
