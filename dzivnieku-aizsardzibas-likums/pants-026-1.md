@@ -1,0 +1,3 @@
+26.¹ pants. (1) Dzīvnieka izmantošanai procedūrās ir nepieciešama Pārtikas un veterinārā dienesta izdota izmēģinājuma projekta atļauja un atļauja par izmēģinājuma projektu atbildīgajai personai.
+(2) Papildus šā panta pirmajā daļā noteiktajam procedūrās atļauts izmantot dzīvniekus, kas mīt savvaļā, ja ir saņemta Valsts meža dienesta atļauja medījamo savvaļas sugu dzīvnieku izmantošanai procedūrā vai Dabas aizsardzības pārvaldes atļauja nemedījamo savvaļas sugu dzīvnieku izmantošanai procedūrā.
+(3) Pārtikas un veterinārais dienests 40 darbdienu laikā pēc dokumentu saņemšanas Ministru kabineta noteiktajā kārtībā izsniedz izmēģinājuma projekta atļauju. Atļaujas izsniegšanas termiņu var pagarināt uz laiku līdz 15 darbdienām, norādot pagarināšanas iemeslu.

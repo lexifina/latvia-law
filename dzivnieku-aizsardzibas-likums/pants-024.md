@@ -1,6 +1,7 @@
-24.pants. Aizliegts ar izmēģinājumu dzīvnieku veikt izmēģinājumu, ja:
-1) pastāv cita zinātniski apmierinoša un praktiski iespējama metode plānotā rezultāta sasniegšanai;
-2) izmēģinājuma nolūks ir izpildīt Eiropas Kopienas tiesību aktos noteiktās veselības aizsardzības un drošības prasības, bet ir pieejami citās Eiropas Savienības dalībvalstīs veikto izmēģinājumu dati. Šis aizliegums neattiecas uz gadījumiem, kad nepieciešami turpmāki izmēģinājumi, lai aizsargātu cilvēku un dzīvnieku veselību un drošību;
-3) dzīvnieks pieder pie apdraudētas sugas, kas minēta 1973.gada Vašingtonas konvencijā par starptautisko tirdzniecību ar apdraudētajām savvaļas dzīvnieku un augu sugām un Padomes 1996.gada 9.decembra regulā (EK) Nr. 338/97 par savvaļas dzīvnieku un augu sugu aizsardzību, reglamentējot tirdzniecību ar tām, izņemot gadījumus, kad:
-a) izmēģinājuma mērķis ir minētās sugas saglabāšana,
-b) konkrētā suga ir vienīgā, ko iespējams izņēmuma gadījumā izmantot biomedicīniskos nolūkos.
+24.pants. Procedūrās aizliegts izmantot:
+1) dzīvniekus, ja pastāv cita zinātniska metode vai testēšanas stratēģija, kas nav saistīta ar dzīvu dzīvnieku izmantošanu;
+2) dzīvniekus, ja vajadzīgo rezultātu iegūšanai Eiropas Savienības tiesību aktos ir atzīta cita zinātniska metode vai testēšanas stratēģija, kas nav saistīta ar dzīvu dzīvnieku izmantošanu;
+3) dzīvniekus, kas pieder pie apdraudētajām sugām, kuras minētas 1973.gada Vašingtonas konvencijā par starptautisko tirdzniecību ar apdraudētajām savvaļas dzīvnieku un augu sugām un Padomes 1996.gada 9.decembra regulas (EK) Nr. 338/97 par savvaļas dzīvnieku un augu sugu aizsardzību, reglamentējot to tirdzniecību, A pielikumā;
+4) dzīvniekus, kas sagūstīti savvaļā;
+5) primātus, kas nav cilvēkveidīgie primāti;
+6) klaiņojošus un mājas (istabas) dzīvniekus.

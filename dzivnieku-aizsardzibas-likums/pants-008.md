@@ -2,3 +2,6 @@
 (2) Jebkura persona par klaiņojošu vai bezpalīdzīgā stāvoklī nonākušu dzīvnieku nekavējoties paziņo vietējās pašvaldības institūcijai.
 (3) Saskaņā ar pašvaldības saistošajiem noteikumiem un normatīvajiem aktiem, kas reglamentē dzīvnieku labturības jomu, vietējā pašvaldība organizē klaiņojošu vai bezpalīdzīgā stāvoklī nonākušu dzīvnieku izķeršanu un, ja nepieciešams, nogalināšanu.
 (4) Saskaņā ar pašvaldības saistošajiem noteikumiem vietējā pašvaldība var atļaut pilsētā vai lauku apdzīvotā vietā dzīvojamo māju tuvumā turēt sterilizētu bezsaimnieka kaķi, ja tiek nodrošināta tā labturība un apzīmēšana.
+(5) Latvijas Veterinārārstu biedrība apmāca klaiņojošu suņu un kaķu ķērājus, izsniedz un anulē dzīvnieku ķērāja apliecību un reģistrē apmācītos dzīvnieku ķērājus.
+(6) Pildot šā panta piektajā daļā minētos valsts pārvaldes uzdevumus, tai skaitā izdodot attiecīgus administratīvos aktus, Latvijas Veterinārārstu biedrība atrodas Zemkopības ministrijas funkcionālā pakļautībā.
+(7) Šā panta piektajā daļā minēto uzdevumu izpildei pieņemtā Latvijas Veterinārārstu biedrības lēmuma apstrīdēšana vai pārsūdzēšana neaptur tā darbību.

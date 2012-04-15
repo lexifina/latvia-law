@@ -1,1 +1,1 @@
-31.pants. Zooloģiskajam dārzam ir pienākums vismaz septiņas dienas gadā nodrošināt tam piederošo savvaļas sugu dzīvnieku publisku apskati, kā arī glabāt attiecīgi reģistrēto dzīvnieku sugu dokumentāciju.
+31.pants. Zooloģiskajam dārzam ir pienākums radīt katrai dzīvnieku sugai tās dabiskajai videi tuvinātus apstākļus un nodrošināt dzīvnieka fizioloģisko un zoopsiholoģisko vajadzību apmierināšanu, kā arī sniegt apmeklētājiem informāciju par publikas apskatei izstādītajām sugām un to dabisko dzīves vidi.

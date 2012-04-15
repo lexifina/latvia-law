@@ -1,0 +1,1 @@
+10. Ministru kabinets līdz 2012.gada 10.novembrim izdod šā likuma 10.panta 4.punkta "a", "b", "c", "d", "e", "f" "g", "h", "i", "j", "k", "l", "m", "n" un "o" apakšpunktā un 24.² pantā minētos noteikumus.

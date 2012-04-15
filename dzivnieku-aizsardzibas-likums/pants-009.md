@@ -1,6 +1,6 @@
 9.pants. (1) Šā likuma prasību ievērošanu uzrauga un kontrolē:
 1) Zemkopības ministrijas padotībā esošās iestādes:
-a) Pārtikas un veterinārais dienests - attiecībā uz nebrīvē audzētu dzīvnieku aizsardzību un labturību, kā arī uz dzīvnieku importa, eksporta un tranzītpārvadājumu kontroli normatīvajos aktos noteiktajos valsts robežkontroles punktos atbilstoši savai kompetencei, bet attiecībā uz mājas (istabas) dzīvnieku labturību - tikai valsts veterinārās uzraudzības objektos un gadījumos, kad ir aizdomas vai sūdzības par normatīvo aktu pārkāpumiem,
+a) Pārtikas un veterinārais dienests - attiecībā uz nebrīvē audzētu dzīvnieku aizsardzību un labturību un izmēģinājumu dzīvnieku aizsardzību, kā arī uz dzīvnieku importa, eksporta un tranzītpārvadājumu kontroli normatīvajos aktos noteiktajos valsts robežkontroles punktos atbilstoši savai kompetencei, bet attiecībā uz mājas (istabas) dzīvnieku labturību - tikai valsts veterinārās uzraudzības objektos un gadījumos, kad ir aizdomas vai sūdzības par normatīvo aktu pārkāpumiem,
 b) Valsts meža dienests - attiecībā uz medījamo savvaļas sugu dzīvnieku aizsardzību;
 2) Vides aizsardzības un reģionālās attīstības ministrijas padotībā esošās iestādes - attiecībā uz savvaļā dzīvojošo nemedījamo savvaļas sugu dzīvnieku aizsardzību un uz īpaši aizsargājamo un ierobežoti izmantojamo savvaļas sugu dzīvnieku aizsardzību saskaņā ar dabas aizsardzības normatīvajiem aktiem.
 (2) Šā panta pirmajā daļā minētās institūcijas šā likuma prasību ievērošanas uzraudzībā var iesaistīt sabiedriskās dzīvnieku aizsardzības organizācijas.
