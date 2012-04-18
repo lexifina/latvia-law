@@ -1,1 +1,0 @@
-3. Šā likuma 10.panta ceturtā daļa neattiecas uz tām lietām, kurās Administratīvā rajona tiesa spriedumu pieņēmusi līdz šā likuma spēkā stāšanās dienai. Šajās lietās spriedums pārsūdzams Administratīvā procesa likumā noteiktajā kārtībā.
