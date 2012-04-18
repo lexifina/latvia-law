@@ -18,9 +18,9 @@ Ministru kabinets:
 15¹) nosaka kārtību, kādā izvērtē un apstiprina mācību literatūras atbilstību pamatizglītības un vispārējās vidējās izglītības valsts standartam;
 16) nosaka pedagogu darba samaksas kārtību un darba samaksas lielumu;
 17) nosaka finansēšanas kārtību speciālās izglītības iestādēs un vispārējās izglītības iestāžu speciālās izglītības klasēs un internātskolās;
-18) nosaka vienotu valsts politiku un stratēģiju izglītībā un iesniedz Saeimā apstiprināšanai izglītības attīstības pamatnostādnes turpmākajiem četriem gadiem;
-18¹) nosaka valsts pirmsskolas izglītības vadlīnijas;
-19) nosaka valsts standartus izglītībā;
+18) nosaka vienotu valsts politiku un stratēģiju izglītībā un iesniedz Saeimā apstiprināšanai izglītības attīstības pamatnostādnes turpmākajiem septiņiem gadiem;
+18¹) nosaka valsts pirmsskolas izglītības vadlīnijas, kurās ietverti šo vadlīniju prasībām atbilstoši izglītības programmu paraugi;
+19) nosaka valsts izglītības standartus, kuros ietverti šo standartu prasībām atbilstoši izglītības programmu paraugi;
 20) nosaka izglītības programmu īstenošanas izmaksu minimumu uz vienu izglītojamo;
 20¹) nosaka kārtību, kādā izglītības iestāde (izņemot augstskolas un koledžas) nodrošina bibliotekāros un informācijas pakalpojumus;
 21) nosaka kārtību, kādā nodrošināma izglītojamo profilaktiskā veselības aprūpe, pirmās palīdzības pieejamība, kā arī izglītojamo drošība izglītības iestādēs un to organizētajos pasākumos;

@@ -1,7 +1,7 @@
 51.pants. Pedagoga vispārīgie pienākumi
 (1) Pedagoga vispārīgie pienākumi izglītošanas procesā ir šādi:
 1) radoši un atbildīgi piedalīties attiecīgo izglītības programmu īstenošanā;
-2) veidot izglītojamā paša attieksmi pret sevi, citiem, darbu, dabu, kultūru, sabiedrību un valsti, audzināt krietnus, godprātīgus cilvēkus - Latvijas patriotus;
+2) veidot izglītojamā attieksmi pret sevi, citiem, darbu, dabu, kultūru, sabiedrību un valsti, audzināt krietnus, godprātīgus, atbildīgus cilvēkus - Latvijas patriotus;
 3) ievērot pedagoga profesionālās ētikas normas;
 4) pilnveidot savu profesionālo kompetenci;
 5) ievērot izglītojamā tiesības;

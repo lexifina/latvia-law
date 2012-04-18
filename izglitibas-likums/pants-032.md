@@ -4,3 +4,4 @@
 2) izglītības obligāto saturu;
 3) izglītojamā iegūtās izglītības vērtēšanas pamatprincipus un kārtību.
 (2) Valsts izglītības standarta ievērošana ir obligāta katrai juridiskajai un fiziskajai personai, kas izstrādā un īsteno attiecīgo izglītības programmu.
+(3) Valsts izglītības standartā ietver attiecīgā izglītības standarta prasībām atbilstošus izglītības programmu paraugus.

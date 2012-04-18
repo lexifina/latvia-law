@@ -1,4 +1,4 @@
 41.pants. Mazākumtautību izglītības programmas
-(1) Mazākumtautību izglītības programmas atbilstoši valsts pirmsskolas izglītības vadlīnijām vai valsts izglītības standartiem izstrādā izglītības iestādes, par pamatu izmantojot Izglītības un zinātnes ministrijas apstiprinātos vispārējās izglītības programmu paraugus.
+(1) Mazākumtautību izglītības programmas izstrādā izglītības iestāde, izvēloties kādu no valsts pirmsskolas izglītības vadlīnijās vai attiecīgajā valsts izglītības standartā ietvertajiem izglītības programmu paraugiem.
 (2) Mazākumtautību izglītības programmās papildus iekļauj attiecīgās etniskās kultūras apguvei un mazākumtautību integrācijai Latvijā nepieciešamo saturu.
-(3) Ministru kabinets nosaka mazākumtautību izglītības programmās mācību priekšmetus, kuri apgūstami valsts valodā.
+(3) (Izslēgta ar 15.03.2012. likumu)

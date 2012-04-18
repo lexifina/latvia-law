@@ -6,7 +6,7 @@ Izglītības un zinātnes ministrija:
 4) (izslēgts ar 16.06.2009. likumu);
 5) (izslēgts ar 16.06.2009. likumu);
 6) organizē pedagogu izglītošanas un profesionālās meistarības pilnveides darbu, koordinē pētnieciski metodisko darbu;
-7) izstrādā valsts pirmsskolas izglītības vadlīnijas, valsts izglītības standartus;
+7) izstrādā valsts pirmsskolas izglītības vadlīnijas, valsts izglītības standartus, kā arī valsts pirmsskolas izglītības vadlīnijām vai valsts izglītības standartu prasībām atbilstošus izglītības programmu paraugus;
 8) izstrādā priekšlikumus un noteiktā kārtībā iesniedz pieprasījumu valsts budžeta līdzekļu piešķiršanai izglītībai, zinātnei, sportam un valsts valodas attīstībai;
 9) kontrolē izglītībai paredzēto valsts budžeta līdzekļu likumīgu izmantošanu tās padotībā esošajās izglītības iestādēs;
 10) koordinē valsts izglītības iestāžu sadarbību izglītībā ar ārvalstīm un starptautiskajām organizācijām;
@@ -20,7 +20,7 @@ Izglītības un zinātnes ministrija:
 18) kontrolē valsts finansēto izglītības iestāžu mācību procesa rezultātus, izstrādā un īsteno pasākumus mācību procesa kvalitātes uzlabošanai;
 19) (izslēgts ar 04.03.2010. likumu);
 20) (izslēgts ar 11.05.2000. likumu);
-21) izstrādā valsts pirmsskolas izglītības vadlīnijām un valsts izglītības standartu prasībām atbilstošus izglītības programmu paraugus;
+21) (izslēgts ar 15.03.2012. likumu);
 22) apstiprina izglītības iestāžu, izglītības programmu un pedagogu reģistru klasifikāciju;
 23) iesniedz Ministru kabinetam priekšlikumus par valsts izglītības iestāžu un izglītības atbalsta iestāžu dibināšanu, reorganizēšanu vai likvidēšanu, saskaņojot ar attiecīgajām pašvaldībām;
 24) apstiprina Izglītības un zinātnes ministrijas padotībā esošo izglītības iestāžu (izņemot augstskolu un koledžu) nolikumus;

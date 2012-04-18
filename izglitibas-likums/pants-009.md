@@ -2,7 +2,7 @@
 (1) Valsts un pašvaldību izglītības iestādēs izglītību iegūst valsts valodā.
 (2) Citā valodā izglītību var iegūt:
 1) privātās izglītības iestādēs;
-2) valsts un pašvaldību izglītības iestādēs, kurās tiek īstenotas mazākumtautību izglītības programmas. Izglītības un zinātnes ministrija nosaka šajās izglītības programmās mācību priekšmetus, kuri apgūstami valsts valodā;
+2) valsts un pašvaldību izglītības iestādēs, kurās tiek īstenotas mazākumtautību izglītības programmas, ievērojot šā likuma 41.panta noteikumus;
 3) citos likumos paredzētās izglītības iestādēs.
 (3) Ikviens izglītojamais, lai iegūtu pamatizglītību vai vidējo izglītību, apgūst valsts valodu un kārto valsts valodas zināšanu pārbaudes eksāmenus Ministru kabineta noteiktajā apjomā un kārtībā.
 (3¹) Valsts dibinātās augstskolās studiju programmas īsteno valsts valodā. Svešvalodu lietošana studiju programmu īstenošanā iespējama tikai šādos gadījumos:
