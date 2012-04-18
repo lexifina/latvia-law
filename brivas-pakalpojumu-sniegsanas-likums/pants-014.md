@@ -6,4 +6,6 @@
 1) nav normatīvajos aktos noteiktajā laikā uzsācis atļaujā paredzēto saimniecisko darbību;
 2) nav normatīvajos aktos noteiktajā laikā izņēmis atļauju tajā paredzētās saimnieciskās darbības veikšanai;
 3) neievēro atļaujā ietvertos nosacījumus.
+(4¹) Šā panta ceturtās daļas 2.punkta nosacījums netiek piemērots, ja, ievērojot pakalpojuma sniedzēja apliecinātu vēlmi, atļauja izsniegta elektroniskā veidā.
 (5) Ja pakalpojuma sniedzējs citā dalībvalstī ir saņēmis atļauju konkrēta pakalpojuma sniegšanai un šīs valsts normatīvo aktu prasības atļaujas saņemšanai ir pielīdzināmas Latvijas Republikas konkrētu pakalpojumu vai pakalpojumu jomu reglamentējošu normatīvo aktu prasībām, viņš šo pakalpojumu Latvijas Republikā drīkst sniegt patstāvīgi bez atbildīgās iestādes atļaujas.
+(6) Par atļaujas izsniegšanu atbildīgā iestāde ir tiesīga piemērot noklusējumu, ja tā piemērošana nav pretrunā ar sabiedrības interesēm un ir noteikta konkrēto pakalpojumu vai pakalpojumu jomu reglamentējošā normatīvajā aktā. Uzskatāms, ka atļauja ir izsniegta ar noklusējumu, ja normatīvajā aktā noteiktajā termiņā atbildīgā iestāde nepieņem un nepaziņo savu lēmumu par atļaujas piešķiršanu vai atteikumu to piešķirt.
