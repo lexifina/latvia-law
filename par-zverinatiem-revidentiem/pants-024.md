@@ -15,4 +15,4 @@
 (3²) Zvērinātu revidentu komercsabiedrību reģistru kārto latviešu valodā. Latvijas Zvērinātu revidentu asociācija var papildus kārtot reģistru arī kādā citā Eiropas Savienības dalībvalsts oficiālajā valodā. Šādā gadījumā reģistrā norāda, vai tulkojums ir vai nav apliecināts.
 (4) Zvērinātu revidentu komercsabiedrību reģistrs ir publisks, un ikvienai personai ir tiesības ar to iepazīties. Zvērinātu revidentu komercsabiedrību reģistra informāciju kārto un glabā elektroniski, un tā ir pieejama Latvijas Zvērinātu revidentu asociācijas mājaslapā.
 (5) (Izslēgta ar 03.06.2010. likumu)
-(6) Zvērinātu revidentu komercsabiedrība tiek izslēgta no Zvērinātu revidentu komercsabiedrību reģistra, ja anulēta tās licence, kā arī tad, ja šī komercsabiedrība ir atzīta par maksātnespējīgu, izbeigusi darbību vai likvidēta.
+(6) Zvērinātu revidentu komercsabiedrība tiek izslēgta no Zvērinātu revidentu komercsabiedrību reģistra, ja anulēta tās licence, kā arī tad, ja šī komercsabiedrība ir izslēgta no komercreģistra.

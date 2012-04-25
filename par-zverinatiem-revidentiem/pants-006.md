@@ -1,7 +1,7 @@
 6.pants. Latvijas Zvērinātu revidentu asociācijas statuss, darbības mērķi un uzdevumi
 (1) Latvijas Zvērinātu revidentu asociācija ir neatkarīga Latvijas zvērinātu revidentu profesionāla korporācija.
 (2) Latvijas Zvērinātu revidentu asociācijā pēc profesionālās darbības principa ir apvienoti visi Latvijas zvērināti revidenti un zvērinātu revidentu komercsabiedrības.
-(3) Latvijas Zvērinātu revidentu asociācija īsteno zvērinātu revidentu profesionālo pašpārvaldi. Tās ietvaros Latvijas Zvērinātu revidentu asociācija nodrošina profesionālo standartu un ētikas normu, kā arī citu uz profesiju attiecināmo regulējošo normatīvo aktu ievērošanas un asociācijas biedru profesionālās darbības uzraudzību.
+(3) Latvijas Zvērinātu revidentu asociācija nodrošina profesionālo standartu un ētikas normu, kā arī citu uz profesiju attiecināmo regulējošo normatīvo aktu ievērošanas un asociācijas biedru profesionālās darbības uzraudzību.
 (4) Latvijas Zvērinātu revidentu asociācija:
 1) pārstāv un aizstāv savu biedru intereses;
 2) organizē zvērinātu revidentu kvalifikācijas eksāmenus;
