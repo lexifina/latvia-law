@@ -14,7 +14,8 @@ f) finanšu līgumiem par starpību,
 g) iespējas līgumiem, nākotnes līgumiem, mijmaiņas līgumiem, procentu likmes nākotnes līgumiem un jebkādiem citiem atvasinātajiem līgumiem, kuri saistīti ar klimatiskajām izmaiņām, kravas vedmaksas likmēm, piesārņojuma tiesībām, inflācijas līmeni vai citiem oficiāliem ekonomikas statistikas datiem un kuru nosacījumi paredz norēķinus naudā vai iespēju norēķināties naudā pēc kādas puses izvēles, ja tas nav saistīts ar līguma laušanu sakarā ar saistību nepildīšanu vai līgumisko attiecību citādu pārtraukšanu, kā arī jebkādiem citiem atvasinātajiem līgumiem, kas saistīti ar aktīviem, tiesībām, saistībām, indeksiem un pasākumiem, kuri nav iepriekš minēti šajā punktā un kuriem saskaņā ar Eiropas Komisijas regulas Nr. 1287/2006 38.pantu ir citu atvasināto finanšu instrumentu īpašības, ja šos instrumentus tirgo regulētajā tirgū vai daudzpusējā tirdzniecības sistēmā, par tiem ir veikts mijieskaits un norēķini ar atzītu mijieskaita iestāžu starpniecību un par tiem ir pienākums veikt garantijas iemaksas,
 h) citiem atvasinātajiem preču instrumentiem, kuri uzskaitīti Eiropas Komisijas regulas Nr. 1287/2006 39.pantā;
 i) valūtas tirdzniecības darījumiem, kuriem piemīt šā punkta "a" vai "f" apakšpunktā minēto atvasināto finanšu instrumentu īpašības;
-5) (izslēgts ar 04.10.2007. likumu).
+5) (izslēgts ar 04.10.2007. likumu);
+6) strukturētiem finanšu produktiem, kuru noteikumi garantē ieguldītājam daļu no sākotnējā ieguldījuma un kuri ietver atvasināto finanšu instrumentu vai kuru ienesīgums piesaistīts kādam no šīs daļas 4.punktā minēto atvasināto finanšu instrumentu bāzes aktīviem, ja pastāv iespēja, ka ieguldītājs var zaudēt daļu no sākotnējā ieguldījuma.
 (3) (Izslēgta ar 13.01.2011. likumu)
 (4) Ieguldījumu pakalpojumi šā likuma izpratnē ir:
 1) ieguldītāju rīkojumu par darījumiem ar finanšu instrumentiem pieņemšana un nodošana izpildei;
@@ -48,13 +49,13 @@ b) šie pārvedamie vērtspapīri nedod tiesības parakstīties uz cita veida p�
 c) šie pārvedamie vērtspapīri realizē atmaksājamu noguldījumu saņemšanu,
 d) uz šiem pārvedamiem vērtspapīriem attiecas dalībvalstu normatīvie akti par noguldījumu garantiju shēmām;
 7) neatvietojamām kapitāla daļām, kuru galvenais mērķis ir nodrošināt to turētājam tajās ietvertās tiesības izmantot dzīvokli vai cita veida nekustamo īpašumu vai tā daļu, turklāt šīs kapitāla daļas nevar pārdot, paturot šajās daļās ietvertās tiesības;
-8) vērtspapīriem, kas iekļauti piedāvājumā, ja par 12 mēnešiem aprēķinātā kopējā samaksa par piedāvājumu ir mazāka nekā 2500000 euro ekvivalents latos pēc Latvijas Bankas noteiktā kursa;
+8) vērtspapīriem, kas iekļauti publiskajā piedāvājumā, ja par 12 mēnešiem aprēķinātā kopējā samaksa par piedāvājumu Eiropas Savienībā ir mazāka nekā 5 000 000 euro ekvivalents latos pēc Latvijas Bankas noteiktā kursa;
 9) Zviedrijas banku atkārtoti emitētām ķīlu zīmēm bostadsobligationer, kuru galvenais mērķis ir garantēt hipotekāros aizdevumus, ja:
 a) emitētās bostadsobligationer ir no vienas sērijas,
 b) bostadsobligationer ir nepārtraukti emitētas noteiktā emisijas laika posmā,
 c) noteikumi, kas attiecas uz bostadsobligationer, emisijas laika posmā nav mainīti,
 d) summas, kas iegūtas no minēto bostadsobligationer emisijas, saskaņā ar statūtiem tiek iegrāmatotas aktīvos, kas nodrošina pietiekamu segumu no vērtspapīriem izrietošām saistībām;
-10) pārvedamiem vērtspapīriem, kas nav kapitāla vērtspapīri un ko nepārtraukti vai atkārtoti emitējušas bankas, ja par 12 mēnešiem aprēķinātā kopējā iegūstamā summa par piedāvājumu ir mazāka nekā 50000000 euro ekvivalents latos pēc Latvijas Bankas noteiktā kursa, ar nosacījumu, ka šie pārvedamie vērtspapīri:
+10) pārvedamiem vērtspapīriem, kas nav kapitāla vērtspapīri un ko nepārtraukti vai atkārtoti emitējušas bankas, ja par 12 mēnešiem aprēķinātā kopējā iegūstamā summa par publisko piedāvājumu Eiropas Savienībā ir mazāka nekā 75 000 000 euro ekvivalents latos pēc Latvijas Bankas noteiktā kursa, ar nosacījumu, ka šie pārvedamie vērtspapīri:
 a) nav pakārtoti (subordinēti), konvertējami vai aizvietojami,
 b) nedod tiesības parakstīties uz cita veida vērtspapīriem vai iegūt tos un tie nav saistīti ar atvasinātiem finanšu instrumentiem.
 (8) Šā likuma 54.panta un D sadaļas III un IV nodaļas prasības neattiecas uz atvērto ieguldījumu fondu ieguldījumu apliecībām vai tām pielīdzināmiem vērtspapīriem, kas apliecina līdzdalību atvērtajos ieguldījumu fondos vai tiem pielīdzināmos kopējo ieguldījumu uzņēmumos.

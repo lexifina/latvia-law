@@ -19,4 +19,6 @@
 4) organizēt un vadīt norēķinu operācijas ar publiskajā apgrozībā esošajiem finanšu instrumentiem;
 5) kārtot sākotnējo reģistru;
 6) nodrošināt finanšu instrumentu uzskaites nodošanu no viena Centrālā depozitārija dalībnieka citam.
+(3¹) Centrālais depozitārijs ir tiesīgs deleģēt šā panta trešās daļas 1., 3. un 4.punktā minētās funkcijas, ja šādas deleģēšanas mērķis ir finanšu instrumentu darījumu norēķinu nodrošināšana Eiropas Savienības ietvaros un ir saņemta Komisijas atļauja.
+(3²) Ja Centrālais depozitārijs deleģē šā panta trešās daļas 1., 3. un 4.pantā minētās funkcijas Eiropas Centrālajai bankai, dalībvalsts centrālajai bankai vai organizācijai, kuras funkcijās ietilpst finanšu instrumentu darījumu norēķinu nodrošināšana Eiropas Savienības ietvaros, šā likuma 142.¹ panta piektajā daļā ārpakalpojumu līgumam noteiktās prasības piemēro samērīgi ar ārpakalpojuma sniedzēja statusu vai ārpakalpojuma sniedzēja darbību regulējošiem Eiropas Savienības normatīvajiem aktiem.
 (4) Centrālajam depozitārijam ir tiesības sniegt arī citus pakalpojumus.

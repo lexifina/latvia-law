@@ -16,4 +16,4 @@
 (7) Centrālais depozitārijs iekšējā revīzijas dienesta pienākumus kā ārpakalpojumu var deleģēt vienīgi zvērinātam revidentam vai zvērinātu revidentu komercsabiedrībai.
 (8) Centrālais depozitārijs nedrīkst deleģēt:
 1) saskaņā ar normatīvajiem aktiem vai depozitārija statūtiem noteiktos tā pārvaldes institūciju pienākumus;
-2) funkcijas, kuras saskaņā ar šā likuma 92.panta trešo daļu ir tiesīgs veikt tikai Centrālais depozitārijs.
+2) funkcijas, kuras saskaņā ar šā likuma 92.panta trešo daļu ir tiesīgs veikt tikai Centrālais depozitārijs, izņemot šā likuma 92.panta 3.¹ daļā minēto gadījumu.

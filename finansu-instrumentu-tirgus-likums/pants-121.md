@@ -1,8 +1,8 @@
 121.pants. Ieguldījumu brokeru sabiedrības pašu kapitāls
 (1) Ieguldījumu brokeru sabiedrība nodrošina pašu kapitālu, kura apmērs vienmēr ir lielāks vai vienāds ar kopsummu, ko veido šādas kapitāla prasības:
 1) kredītriska un atgūstamās vērtības samazinājuma riska kapitāla prasība. Kredītriska kapitāla prasību aprēķina kā astoņus procentus no riska darījumu riska svērto vērtību kopsummas;
-2) ārvalstu valūtas riska kapitāla prasība un preču riska kapitāla prasība;
-3) parāda vērtspapīru un kapitāla vērtspapīru pozīcijas riska kapitāla prasība un norēķinu riska un darījuma partnera riska kapitāla prasība tirdzniecības portfeļa riska darījumiem un, ja ir saņemta Komisijas atļauja pārsniegt lielo riska darījumu ierobežojumus tirdzniecības portfeļa riska darījumiem, kapitāla prasība šādam pārsniegumam;
+2) ārvalstu valūtas riska, norēķinu riska un preču riska kapitāla prasība;
+3) parāda vērtspapīru un kapitāla vērtspapīru pozīcijas riska kapitāla prasība tirdzniecības portfeļa riska darījumiem un, ja ir saņemta Komisijas atļauja pārsniegt lielo riska darījumu ierobežojumus tirdzniecības portfeļa riska darījumiem, kapitāla prasība šādam pārsniegumam;
 4) operacionālā riska kapitāla prasība.
 (2) Komisija nosaka gadījumus, kad ieguldījumu brokeru sabiedrībai var nepiemērot šā panta pirmās daļas prasības, mainot tai noteikto kapitāla prasību kopsummas noteikšanas kārtību.
 (3) Kredītriska kapitāla prasības aprēķinam ieguldījumu brokeru sabiedrība var piemērot standartizēto pieeju vai, ja Komisija to atļauj, uz iekšējiem reitingiem balstīto pieeju.

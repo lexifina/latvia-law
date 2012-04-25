@@ -13,8 +13,8 @@ Likumā ir lietoti šādi termini:
 11) publiskā apgrozība - darījumu slēgšana ar regulētajā tirgū iekļautiem finanšu instrumentiem;
 12) emitents - persona, kuras pārvedami vērtspapīri ir iekļauti regulētajā tirgū, kā arī persona, kura savā vārdā emitē vai paredz emitēt pārvedamus vērtspapīrus vai citus finanšu instrumentus. Attiecībā uz depozitārajiem sertifikātiem par emitentu uzskata to vērtspapīru emitentu, uz kuriem tiesības ir nostiprinātas depozitārajā sertifikātā;
 13) sākotnējā izvietošana - emitenta vai tā pilnvarotas personas izteikts publiskais piedāvājums iegūt pārvedamus vērtspapīrus vai citus finanšu instrumentus un to pirmreizējā iegūšana;
-14) emisijas prospekts - dokuments, kurā ietverta detalizēta informācija par emitentu un tā emitētiem pārvedamiem vērtspapīriem, par kuriem emitents vēlas izteikt publisko piedāvājumu;
-15) prospekts - dokuments, kurā ietverta detalizēta informācija par emitentu un tā emitētiem pārvedamiem vērtspapīriem, kurus emitents vēlas iekļaut regulētajā tirgū;
+14) emisijas prospekts - dokuments, kurā ietverta detalizēta informācija par emitentu un tā emitētiem pārvedamiem vērtspapīriem, par kuriem publiskā piedāvājuma izteicējs vēlas izteikt publisko piedāvājumu;
+15) prospekts - dokuments, kurā ietverta detalizēta informācija par emitentu un tā emitētiem pārvedamiem vērtspapīriem, kurus persona, kas lūdz pārvedamu vērtspapīru iekļaušanu regulētajā tirgū, vēlas iekļaut regulētajā tirgū;
 16) mērķa sabiedrība - akciju sabiedrība, kuras akcijas atrodas publiskajā apgrozībā un par kuras akcijām ir izteikts atpirkšanas piedāvājums;
 17) piedāvātājs - persona vai personu grupa, kura izsaka obligāto, brīvprātīgo vai galīgo akciju atpirkšanas piedāvājumu vai kurai ir pienākums izteikt obligāto akciju atpirkšanas piedāvājumu;
 18) Latvijas Centrālais depozitārijs - kapitālsabiedrība, kas iegrāmato un uzskaita šajā likumā noteiktajā kārtībā izlaistos finanšu instrumentus, kā arī nodrošina finanšu instrumentu un naudas norēķinus par darījumiem, kas noslēgti ar finanšu instrumentiem;
@@ -61,12 +61,7 @@ c) gada tīrais apgrozījums nepārsniedz 50 000 000 euro ekvivalentu latos pēc
 35) piedāvājuma programma - pasākumu kopums līdzīgas vai vienādas kategorijas pārvedamu vērtspapīru (izņemot kapitāla vērtspapīrus) nepārtrauktai vai atkārtotai emisijai noteiktā laika posmā;
 36) nepārtraukti vai atkārtoti emitēti pārvedami vērtspapīri - līdzīgas vai vienādas kategorijas pārvedami vērtspapīri, kas emitēti nepārtrauktā emisijā vai vismaz divās atsevišķās emisijās, kuras notikušas 12 mēnešu laikā no publiskā piedāvājuma sākuma datuma;
 37) uzņēmēja dalībvalsts - valsts, kurā tiek izteikts publiskais piedāvājums vai tiek lūgta pārvedamu vērtspapīru iekļaušana regulētajā tirgū, vai valsts, kurā ieguldījumu brokeru sabiedrībai vai kredītiestādei ir filiāle vai tā sniedz ieguldījumu pakalpojumus vai ieguldījumu blakuspakalpojumus, vai valsts, kurā regulētā tirgus organizētājs veic atbilstošus pasākumus, lai veicinātu šajā valstī esošo tirgus dalībnieku piekļuvi tirdzniecībai tā sistēmā no attāluma, ja šī valsts atšķiras no izcelsmes dalībvalsts;
-38) kvalificētie ieguldītāji:
-a) Latvijas Republikā vai citā valstī reģistrēta banka, sabiedrība, kas saskaņā ar likumu ir tiesīga pārvaldīt kopējo ieguldījumu uzņēmumus, ieguldījumu brokeru sabiedrība, pensiju fonds, apdrošinātājs, pārapdrošinātājs, preču dīleri, kā arī juridiskās personas, kuras ir licencētas veikt darbības finanšu tirgos, vai arī personas, kuras nav šādā veidā licencētas vai regulētas, bet kuru komercdarbības mērķis ir vienīgi ieguldīšana vērtspapīros,
-b) valstis un pašvaldības, valstu centrālās bankas un starptautiskas finanšu iestādes,
-c) citas juridiskās personas, kas nav uzskatāmas par mazajiem vai vidējiem komersantiem,
-d) fiziskās personas, kas par kvalificētiem ieguldītājiem ir atzītas saskaņā ar dalībvalsts kompetentās institūcijas lēmumu,
-e) mazie un vidējie komersanti, kas par kvalificētiem ieguldītājiem ir atzīti saskaņā ar dalībvalsts kompetentās institūcijas lēmumu;
+38) kvalificētie ieguldītāji - ieguldītāji, kas par tādiem noteikti šā likuma 124.¹ panta otrajā daļā vai atbilst šā panta otrajā vai piektajā daļā minētajām prasībām un kritērijiem, kā arī personas, kuras atbilstoši šā likuma 124.² panta noteikumiem atzītas par tiesīgiem darījuma partneriem;
 39) publiskais piedāvājums - ar jebkuru līdzekļu starpniecību sniegta tāda informācija par piedāvājuma noteikumiem un piedāvājamiem pārvedamiem vērtspapīriem, kas ļauj ieguldītājiem lemt par šo vērts-papīru iegādi vai parakstīšanos uz tiem;
 40) ārvalsts - valsts, kas nav Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts;
 41) kompetentā institūcija - institūcija, kurai dalībvalsts deleģējusi funkciju uzraudzīt emisijas prospektu un prospektu sagatavošanas, reģistrēšanas un izplatīšanas kārtību un kura veic pienākumus, kas saistīti ar starptautisko sadarbību ar citu dalībvalstu kompetentajām institūcijām;
@@ -97,4 +92,12 @@ d) personai ir kontrole pār komercsabiedrību, un šī persona to faktiski izma
 62) finanšu analītiķis - ieguldījumu brokeru sabiedrības vai kredītiestādes darbinieks, kas izstrādā ieguldījumu pētījuma saturu;
 63) korporatīvā pārvaldība - pasākumu kopums komercsabiedrības darbības mērķu sasniegšanai un komercsabiedrības darbības kontrolei, kā arī ar komercsabiedrības darbību saistīto risku novērtēšanai un pārvaldīšanai;
 64) ieraksta datums - datums sešas darba dienas pirms akcionāru sapulces. Šajā datumā dienas beigās tiek fiksēti attiecīgās akciju sabiedrības akcionāri un tiem piederošais akciju skaits akcionāra dalībai attiecīgajā akcionāru sapulcē;
-65) brīvais kapitāls - personai piederošo aktīvu vērtība, kas samazināta par šīs personas saistību vērtību un to aktīvu vērtību, kuri uzskatāmi par ilgtermiņa ieguldījumiem.
+65) brīvais kapitāls - personai piederošo aktīvu vērtība, kas samazināta par šīs personas saistību vērtību un to aktīvu vērtību, kuri uzskatāmi par ilgtermiņa ieguldījumiem;
+66) komercsabiedrība ar samazinātu tirgus kapitalizāciju - komercsabiedrība, kuras finanšu instrumenti iekļauti regulētajā tirgū un kuras tirgus kapitalizācijas vidējā vērtība, aprēķinot pēc iepriekšējo triju kalendāra gadu beigās veiktās finanšu instrumentu kotēšanas rezultātiem, ir mazāka nekā 100 000 000 euro ekvivalents latos pēc Latvijas Bankas noteiktā kursa;
+67) galvenā informācija - būtiska, strukturēta informācija, ko sniedz ieguldītājiem vērtspapīru iegādes lēmuma pieņemšanai un kas satur:
+a) īsu aprakstu par emitentu un galvotāju būtiskākajiem raksturojošiem rādītājiem, tostarp informāciju par to aktīviem, pasīviem, finansiālo stāvokli un riskiem, kuri saistīti ar emitentu un galvotāju,
+b) īsu aprakstu par riskiem, kuri saistīti ar pārvedamiem vērtspapīriem un ieguldījumiem šāda veida pārvedamos vērtspapīros, kā arī informāciju par šajos vērtspapīros nostiprinātajām tiesībām,
+c) publiskā piedāvājuma noteikumus un informāciju par visām izmaksām, ko sedz ieguldītājs saistībā ar vērtspapīru iegādi,
+d) publiskā piedāvājuma iemeslus un publiskā piedāvājuma rezultātā gūto tīro ieņēmumu izlietojumu,
+e) aprakstu par pārvedamu vērtspapīru iekļaušanu regulētajā tirgū;
+68) finanšu instrumentu turēšana - finanšu instrumentu turēšana un administrēšana klientu vārdā, ieskaitot ar finanšu instrumentiem veicamo darījumu nodrošināšanai nepieciešamo naudas līdzekļu turēšanu un citu ar finanšu instrumentu turēšanu vai administrēšanu saistītu pakalpojumu sniegšanu.

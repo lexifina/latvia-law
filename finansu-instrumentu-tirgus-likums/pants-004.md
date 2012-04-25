@@ -1,6 +1,6 @@
 4.pants. Administratīvo aktu izdošana un apstrīdēšana
-(1) Likumā noteiktajos gadījumos Komisija izdod administratīvos aktus. Kārtību, kādā Komisija izdod administratīvos aktus, nosaka administratīvo aktu izdošanas kārtību reglamentējošie normatīvie akti.
-(2) Finanšu un kapitāla tirgus komisijas administratīvo aktu, kas izdots saskaņā ar šo likumu, var pārsūdzēt Administratīvajā apgabaltiesā. Tiesa lietu izskata kā pirmās instances tiesa. Lieta tiek izskatīta triju tiesnešu sastāvā. Administratīvās apgabaltiesas spriedumu var pārsūdzēt, iesniedzot kasācijas sūdzību.
+(1) Likumā noteiktajos gadījumos Finanšu un kapitāla tirgus komisija (turpmāk - Komisija) izdod administratīvos aktus. Kārtību, kādā Komisija izdod administratīvos aktus, nosaka administratīvo aktu izdošanas kārtību reglamentējošie normatīvie akti.
+(2) Komisijas administratīvo aktu, kas izdots saskaņā ar šo likumu, var pārsūdzēt Administratīvajā apgabaltiesā. Tiesa lietu izskata kā pirmās instances tiesa. Lieta tiek izskatīta triju tiesnešu sastāvā. Administratīvās apgabaltiesas spriedumu var pārsūdzēt, iesniedzot kasācijas sūdzību.
 (3) Ja dokumenti Komisijā tiek izskatīti atkārtoti, Komisija nedrīkst norādīt trūkumus vai neprecizitātes ziņās, kuras tā jau bija izskatījusi un kurās iepriekšējā dokumentu izskatīšanas reizē nebija norādījusi šos trūkumus vai neprecizitātes, izņemot gadījumus, kad saistībā ar šīm ziņām tiek iegūta jauna informācija.
 (4) Komisijas izdotu administratīvo aktu pārsūdzēšana tiesā neaptur to izpildi, ja Komisijas izdotais administratīvais akts ir lēmums:
 1) ierobežot ieguldījumu brokeru sabiedrības vai kredītiestādes tiesības sniegt ieguldījumu pakalpojumus vai veikt finanšu instrumentu turēšanu;

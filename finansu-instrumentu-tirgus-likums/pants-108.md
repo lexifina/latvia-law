@@ -14,3 +14,4 @@
 2) kura ir meitas sabiedrība tādai mātes sabiedrībai, kuras cita meitas sabiedrība ir dalībvalstī licencēta ieguldījumu brokeru sabiedrība, kredītiestāde vai apdrošināšanas sabiedrība;
 3) kuru kontrolē persona, kas kontrolē arī citu dalībvalstī licencētu ieguldījumu brokeru sabiedrību, kredītiestādi vai apdrošināšanas sabiedrību.
 (5) Komisija pirms licences izsniegšanas, kā arī licencētas ieguldījumu brokeru sabiedrības uzraudzības gaitā no attiecīgās dalībvalsts uzraudzības institūcijas pieprasa un novērtē informāciju par ieguldījumu brokeru sabiedrības akcionāru piemērotību un valdes locekļu reputāciju un pieredzi, ja šīs personas ir iesaistītas citu tās grupas komercsabiedrību vadībā, kurā tiks iekļauta attiecīgā ieguldījumu brokeru sabiedrība.
+(6) Komisija par licences izsniegšanu ieguldījumu brokeru sabiedrībai informē Eiropas Vērtspapīru un tirgu iestādi.

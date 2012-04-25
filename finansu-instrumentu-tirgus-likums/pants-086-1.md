@@ -9,4 +9,5 @@
 5) darījuma veidu (pirkšana, pārdošana);
 6) darījuma datumu un vietu;
 7) darījuma apjomu un cenu.
+(3¹) Sniedzot paziņojumu pēc tāda pēdējā darījuma veikšanas, ar kuru kalendāra gadā personas veikto darījumu kopējais apjoms pārsniedz 5000 euro ekvivalentu latos pēc Latvijas Bankas noteiktā kursa, paziņojumā ietver informāciju par katru darījumu, norādot tā veidu (pirkšana, pārdošana), datumu, vietu, apjomu un cenu.
 (4) Komisija ne vēlāk kā nākamajā darba dienā pēc paziņojuma saņemšanas, ievērojot fizisko personu datu aizsardzības prasības, ievieto to oficiālajā glabāšanas sistēmā.

@@ -13,7 +13,8 @@
 (6) Ja publiskais piedāvājums ir saistīts ar pārvedamiem vērtspapīriem, ko emitē emitents, kura pārvedami vērtspapīri nav iekļauti regulētā tirgū un kurš iepriekš nav izteicis publisko piedāvājumu par pārvedamiem vērtspapīriem, Komisija ir tiesīga iesnieguma izskatīšanas termiņu pagarināt līdz 20 darba dienām.
 (7) Komisija pieņem lēmumu par atļaujas atteikumu, ja iesniegtajos dokumentos iekļautā informācija:
 1) neatbilst likuma un citu normatīvo aktu prasībām;
-2) liecina, ka emisija neatbilst normatīvo aktu prasībām.
+2) liecina, ka emisija neatbilst normatīvo aktu prasībām;
+3) liecina, ka emisija var aizskart ieguldītāju intereses.
 (8) Lēmumu par atļaujas atteikumu izsniedz emitentam vai publiskā piedāvājuma izteicējam, kas iesniedzis Komisijai iesniegumu par atļauju izteikt publisko piedāvājumu.
-(9) Pēc tam, kad pieņemts lēmums par atļauju izteikt publisko piedāvājumu, emisijas prospekts uzskatāms par reģistrētu Komisijā. Komisija ievieto lēmuma un emisijas prospekta tekstu savā mājas lapā internetā.
+(9) Pēc tam, kad pieņemts lēmums par atļauju izteikt publisko piedāvājumu, emisijas prospekts uzskatāms par reģistrētu Komisijā. Komisija ievieto lēmuma un emisijas prospekta tekstu savā mājas lapā internetā un nosūta prospekta kopiju Eiropas Vērtspapīru un tirgu iestādei.
 (10) Ja Komisija lēmumu par atļauju izteikt publisko piedāvājumu vai par atļaujas atteikumu nav pieņēmusi šajā pantā minētajā termiņā, tas emitentam vai publiskā piedāvājuma izteicējam nedod tiesības izteikt publisko piedāvājumu. Šādā gadījumā Komisija nosūta emitentam vai publiskā piedāvājuma izteicējam motivētu paskaidrojumu par jautājuma atlikšanu un norāda, kad lēmums par atļauju izteikt publisko piedāvājumu vai par atļaujas atteikumu tiks pieņemts.

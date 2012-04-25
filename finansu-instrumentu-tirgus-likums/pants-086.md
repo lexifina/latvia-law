@@ -1,6 +1,6 @@
 86.pants. Iekšējās informācijas turētāju saraksts
-(1) Emitents, kura finanšu instrumenti tiek tirgoti regulētajā tirgū, izstrādā iekšējos noteikumus par iekšējās informācijas turētāju saraksta izveidošanu. Minētos iekšējos noteikumus emitents nekavējoties iesniedz Komisijai pēc tās pieprasījuma.
-(2) Emitents ne vēlāk kā līdz dienai, kad tā finanšu instrumenti tiek iekļauti regulētajā tirgū, izstrādā iekšējās informācijas turētāju sarakstu. Sarakstā emitents iekļauj informāciju par:
+(1) Emitents, kura finanšu instrumenti tiek tirgoti regulētajā tirgū Latvijas Republikā un kura izcelsmes dalībvalsts ir Latvijas Republika, izstrādā iekšējos noteikumus par iekšējās informācijas turētāju saraksta izveidošanu atbilstoši šā panta noteikumiem. Minētos iekšējos noteikumus emitents nekavējoties iesniedz Komisijai pēc tās pieprasījuma.
+(2) Emitents, kura izcelsmes dalībvalsts ir Latvijas Republika, ne vēlāk kā līdz dienai, kad tā finanšu instrumenti tiek iekļauti regulētajā tirgū Latvijas Republikā, izveido iekšējās informācijas turētāju sarakstu. Sarakstā emitents iekļauj informāciju par:
 1) emitenta valdes un padomes locekļiem un iekšējo revidentu (sabiedrības kontrolieri);
 2) citām personām (emitenta darbiniekiem), kuru rīcībā saskaņā ar darba pienākumiem nonāk iekšējā informācija;
 2¹) revīzijas komitejas locekļiem;
@@ -9,7 +9,7 @@
 (3) Iekšējās informācijas turētāju sarakstā emitents norāda šādu informāciju:
 1) iekšējās informācijas turētāju identificējošus datus (fiziskajām personām - rezidentiem - vārds, uzvārds, personas kods; fiziskajām personām - nerezidentiem - vārds, uzvārds, dzimšanas datums, personu apliecinoša dokumenta numurs un izdošanas datums, institūcija, kas dokumentu izdevusi; juridiskajām personām - firma, juridiskā adrese, reģistrācijas numurs un vieta);
 2) pamatojumu personas iekļaušanai iekšējās informācijas turētāju sarakstā;
-3) gadu un datumu, kurā saraksts sastādīts, un, ja tajā ir izdarīti grozījumi, - grozījumu izdarīšanas datumu.
+3) gadu un datumu, ar kuru personai, kas ir iekļauta iekšējās informācijas turētāju sarakstā, emitenta iekšējā informācija ir pieejama.
 (4) Iekšējās informācijas turētāju sarakstu emitents iesniedz Komisijai piecu darba dienu laikā pēc finanšu instrumentu iekļaušanas regulētajā tirgū.
 (5) Emitentam ir tiesības pieprasīt šā panta otrās daļas 1. un 3.punktā minētajām personām informāciju par saistītajām personām, lai izveidotu un uzturētu iekšējās informācijas turētāju sarakstu.
 (6) Emitentam ir pienākums iekšējās informācijas turētāju sarakstu un tajā ietverto informāciju izmantot tikai darba pienākumu veikšanai. Katrs, kas tīši vai netīši darījis zināmas atklātībai vai izpaudis personām, kurām nav tiesību saņemt šo informāciju, attiecīgā emitenta iekšējās informācijas turētāju sarakstā norādītās ziņas, ja viņam šī informācija bija uzticēta vai kļuva zināma kā emitenta akcionāram, padomes, valdes, iekšējā audita dienesta vadītājam, loceklim vai darbiniekam, ir saucams pie kriminālatbildības likumā noteiktajā kārtībā.
@@ -25,3 +25,4 @@
 (13) Komisija nodrošina regulētā tirgus organizētājam, kā arī ieguldījumu brokeru sabiedrībām un kredītiestādēm, kuras ir tiesīgas sniegt ieguldījumu pakalpojumus Latvijas Republikā, pieeju tās rīcībā esošajiem aktuālajiem emitentu iekšējās informācijas turētāju sarakstiem.
 (14) Regulētā tirgus organizētājam, ieguldījumu brokeru sabiedrībai un kredītiestādei ir pienākums saskaņā ar šā panta trīspadsmito daļu tai pieejamo informāciju izmantot tikai darba pienākumu veikšanai. Katrs, kas tīši vai netīši darījis zināmas atklātībai vai izpaudis personām, kurām nav tiesību saņemt šo informāciju, emitentu iekšējās informācijas sarakstos norādītās ziņas, ja viņam šī informācija bija uzticēta vai kļuva zināma kā regulētā tirgus organizētāja, ieguldījumu brokeru sabiedrības vai kredītiestādes akcionāram vai daļu īpašniekam, padomes, valdes, iekšējā audita dienesta vadītājam, loceklim vai darbiniekam, ir saucams pie kriminālatbildības likumā noteiktajā kārtībā.
 (15) Komisija izdod normatīvos noteikumus par iekšējās informācijas turētāju sarakstu iesniegšanas kārtību un par piekļuvi iekšējās informācijas turētāju sarakstiem.
+(16) Emitents, kura finanšu instrumenti ir iekļauti regulētajā tirgū Latvijas Republikā, bet kura izcelsmes dalībvalsts nav Latvijas Republika, iekšējās informācijas turētāju sarakstu izveido un uztur atbilstoši savas izcelsmes dalībvalsts tiesību aktos noteiktajai kārtībai.

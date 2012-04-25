@@ -8,9 +8,9 @@ c) izglītības dokumentu kopijas;
 2) bilanci un kapitāla pietiekamības aprēķinu par stāvokli iepriekšējā mēneša pēdējā dienā, kas sagatavoti saskaņā ar ieguldījumu brokeru sabiedrību pārskatu un kapitāla pietiekamības aprēķina sagatavošanu regulējošo normatīvo aktu prasībām, kā arī sākotnējā kapitāla prasību izpildi apliecinošus dokumentus (piemēram, zvērināta revidenta revidētu finanšu pārskatu, izziņu no kredītiestādes, dokumentus, kas apliecina izmaiņas kapitālā kārtējā gadā);
 3) ieguldījumu brokeru sabiedrības darbībai un kvalitatīvai ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšanai nepieciešamās ieguldījumu brokeru sabiedrības iekšējās kontroles sistēmas politiku un procedūru aprakstus:
 a) ieguldījumu brokeru sabiedrības organizatoriskās struktūras aprakstu ar skaidri norādītiem padomes (ja tāda ir izveidota) un valdes locekļu pienākumiem un pilnvarām, kā arī precīzi noteiktiem un sadalītiem struktūrvienību uzdevumiem un ieguldījumu pakalpojumus vai ieguldījumu blakuspakalpojumus sniedzošo struktūrvienību vadītāju un darbinieku pienākumiem. Ja tiek paredzēta filiāļu izveide, ieguldījumu brokeru sabiedrība iesniedz arī filiāļu organizatoriskās struktūras un ieguldījumu pakalpojumus vai ieguldījumu blakuspakalpojumus sniedzošo filiāļu vadītāju un darbinieku pienākumu aprakstu,
-b) grāmatvedības politikas un grāmatvedības uzskaites organizācijas galvenos principus,
+b) grāmatvedības politikas un grāmatvedības uzskaites, tai skaitā finanšu instrumentu un ar finanšu instrumentu darījumiem saistīto naudas līdzekļu uzskaites, organizācijas galvenos principus,
 c) vadības informācijas sistēmas aprakstu,
-d) informācijas sistēmas aizsardzības noteikumus, tai skaitā finanšu instrumentu uzskaites datu bāzes aizsardzības noteikumus,
+d) informācijas sistēmas aizsardzības noteikumus, tai skaitā finanšu instrumentu un ar finanšu instrumentu darījumiem saistīto naudas līdzekļu uzskaites datu bāzes aizsardzības noteikumus,
 e) iekšējās revīzijas sistēmas aprakstu,
 f) noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas iekšējās kontroles procedūru aprakstu, kas ietver arī klientu identificēšanas un saimnieciskās darbības pārzināšanas kārtības aprakstu,
 g) būtisku darbības risku pārvaldīšanas politiku un procedūru aprakstus,
@@ -25,7 +25,7 @@ i) šā likuma 133.² panta otrajā daļā minēto noteikumu projektus, ja iegul
 a) fiziskajām personām - pases vai cita likumā noteikta personu identificējoša dokumenta tās lapas kopiju, kurā norādīti personu identificējošie dati [vārds, uzvārds, pilsonība, personas kods (ja tāds ir) vai dzimšanas gads un datums],
 b) juridiskajām personām - firmu, juridisko adresi, reģistrācijas numuru un vietu. Ārvalstī reģistrētas juridiskās personas iesniedz arī reģistrācijas dokumentu kopijas,
 c) ieguldījumu brokeru sabiedrības akcionāru vai dalībnieku tieši un netieši iegūtās būtiskās līdzdalības apmēru.
-(3) Ieguldījumu brokeru sabiedrība, ja tā neplāno veikt finanšu instrumentu turēšanu, neiesniedz finanšu instrumentu uzskaites kārtību reglamentējošos noteikumus un finanšu instrumentu uzskaites datu bāzes aizsardzības noteikumus.
+(3) Ieguldījumu brokeru sabiedrība, ja tā neplāno veikt finanšu instrumentu turēšanu, neiesniedz finanšu instrumentu un ar finanšu instrumentu darījumiem saistīto naudas līdzekļu uzskaites kārtību reglamentējošos noteikumus un finanšu instrumentu un ar finanšu instrumentu darījumiem saistīto naudas līdzekļu uzskaites datu bāzes aizsardzības noteikumus.
 (4) Šā panta otrās daļas 1.punkta "a" apakšpunktā minēto paziņojumu aizpilda valdes un padomes (ja tāda ir izveidota) locekļi. Paziņojumā norāda šādu informāciju:
 1) ieguldījumu brokeru sabiedrības firmu;
 2) vārdu, uzvārdu, personas kodu (ja tāds ir) vai dzimšanas gadu un datumu;

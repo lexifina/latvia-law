@@ -1,11 +1,17 @@
-147.pants. Komisijas pienākums sniegt informāciju Eiropas Savienības Komisijai
+147.pants. Komisijas pienākums sniegt informāciju Eiropas Komisijai un Eiropas Vērtspapīru un tirgu iestādei
 (1) Komisija informē Eiropas Komisiju par:
 1) licences izsniegšanu ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšanai tādai ieguldījumu brokeru sabiedrībai, kura ir ārvalstī reģistrētas sabiedrības meitas sabiedrība;
-2) gadījumiem, kad būtiskas līdzdalības iegūšanas rezultātā Latvijas Republikā reģistrēta ieguldījumu brokeru sabiedrība kļūst par ārvalstīs reģistrētas sabiedrības meitas sabiedrību;
-3) gadījumiem, kas minēti šā likuma 24.¹panta trešajā daļā un 55.¹panta ceturtajā daļā;
-4) akciju atpirkšanas piedāvājumiem, kas izteikti par mērķa sabiedrībām, kuru akcijas ir laistas publiskajā apgrozībā Latvijā;
-5) gadījumiem, kas minēti šā likuma 64.³ panta trešajā daļā;
-6) darbībām, ko tā veikusi saskaņā ar šā likuma 40.¹ panta otro daļu un 140.panta otro un piekto daļu.
+2) gadījumiem, kad, iegūstot būtisku līdzdalību, Latvijas Republikā reģistrēta ieguldījumu brokeru sabiedrība kļūst par ārvalstī reģistrētas sabiedrības meitas sabiedrību;
+3) akciju atpirkšanas piedāvājumiem, kas izteikti par mērķa sabiedrībām, kuru akcijas ir laistas publiskajā apgrozībā Latvijā.
 (2) Šā panta pirmās daļas 1. un 2.punktā minētajos gadījumos Komisija nosūta Eiropas Komisijai arī informāciju par tā koncerna struktūru, kurā ietilpst attiecīgā ieguldījumu brokeru sabiedrība.
-(3) Komisija informē Eiropas Komisiju par vispārēja rakstura grūtībām, ar kādām, sniedzot ieguldījumu pakalpojumus vai uzsākot ieguldījumu pakalpojumu sniegšanu ārvalstīs, saskaras ieguldījumu brokeru sabiedrības, kuras Komisijā saņēmušas licenci ieguldījumu pakalpojumu vai ieguldījumu blakuspakalpojumu sniegšanai.
-(4) Komisija informē Eiropas Komisiju, kā arī pārējās dalībvalstis par tiem starpperiodu finanšu pārskatiem, kas jāiesniedz kapitālsabiedrībai, kuras akcijas ir iekļautas regulētajā tirgū, un par šā likuma 62.panta ceturtās daļas prasību piemērošanu.
+(3) Komisija informē Eiropas Komisiju, kā arī pārējās dalībvalstis par tiem starpperiodu finanšu pārskatiem, ko kapitālsabiedrība, kuras akcijas ir iekļautas regulētajā tirgū, sagatavo un izplata šajā likumā noteiktajā kārtībā, un par šā likuma 62.panta ceturtās daļas prasību piemērošanu.
+(4) Komisija informē Eiropas Komisiju un Eiropas Vērtspapīru un tirgu iestādi par:
+1) gadījumiem, kas minēti šā likuma 24.¹ panta trešajā daļā, 55.¹ panta ceturtajā daļā un 64.³ panta trešajā daļā;
+2) darbībām, ko tā veikusi saskaņā ar šā likuma 40.¹ panta otro daļu un 140.panta otro un piekto daļu;
+3) gadījumiem, kad tā saskaņā ar šā likuma 63.panta pirmajā daļā noteikto atzīst par līdzvērtīgu tādu informāciju, ko emitents, kura juridiskā adrese ir ārvalstī, sniedz saskaņā ar savas valsts normatīvo aktu prasībām;
+4) vispārēja rakstura grūtībām, ar kādām, sniedzot ieguldījumu pakalpojumus vai uzsākot ieguldījumu pakalpojumu sniegšanu ārvalstīs, saskaras ieguldījumu brokeru sabiedrības, kuras Komisijā saņēmušas licenci ieguldījumu pakalpojumu vai ieguldījumu blakuspakalpojumu sniegšanai.
+(5) Komisija informē Eiropas Vērtspapīru un tirgu iestādi par:
+1) licences izsniegšanu ieguldījumu brokeru sabiedrībai ieguldījumu pakalpojumu vai ieguldījumu blakuspakalpojumu sniegšanai Latvijas Republikā, norādot tā ieguldījumu pakalpojuma vai ieguldījumu blakuspakalpojuma veidu, kura sniegšanai ieguldījumu brokeru sabiedrība ir saņēmusi licenci, kā arī par licences anulēšanu vai par licencē noteikto ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu maiņu;
+2) informācijas apmaiņas līgumiem, ko Komisija noslēgusi ar ārvalstu finanšu instrumentu tirgus uzraudzības institūcijām, citām institūcijām, iestādēm vai juridiskajām personām;
+3) ierobežojošiem pasākumiem un sankcijām, kuras Komisija par šā likuma normu pārkāpumiem ir piemērojusi tirgus dalībniekiem. Ja Komisija publisko informāciju par tirgus dalībniekam piemērotu ierobežojošu pasākumu vai sankciju, tā nekavējoties informē par to Eiropas Vērtspapīru un tirgu iestādi. Reizi gadā Komisija nosūta šai iestādei apkopojumu par visiem tirgus dalībniekiem gada laikā piemērotajiem ierobežojošajiem pasākumiem un sankcijām.
+(6) Komisijai ir tiesības informēt Eiropas Vērtspapīru un tirgu iestādi par gadījumiem, kad citas dalībvalsts uzraudzības iestāde nesniedz informāciju pēc motivēta Komisijas pieprasījuma vai nesniedz informāciju atbilstošā (saprātīgā) termiņā, vai, neraugoties uz Komisijas pieprasījumu, atsaka Komisijai iespēju šīs dalībvalsts teritorijā veikt pārbaudi vai pārbaudē piedalīties Komisijas pilnvarotiem pārstāvjiem, vai neatbild uz šādu pieprasījumu atbilstošā (saprātīgā) termiņā.

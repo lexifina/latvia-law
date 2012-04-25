@@ -4,7 +4,7 @@
 (3) Emisijas prospektu, kas sastāv no atsevišķiem dokumentiem, veido:
 1) reģistrācijas dokuments, kurā ietver informāciju par emitentu;
 2) vērtspapīru apraksts, kurā ietver informāciju par pārvedamiem vērtspapīriem, kas tiks publiski piedāvāti;
-3) kopsavilkums, kurā īsi, neizmantojot speciālo terminoloģiju, un valodā, kādā sākotnēji tika sagatavots emisijas prospekts, atspoguļo būtisko emitentu raksturojošo informāciju un riskus, kas saistīti ar emitentu, galvotāju (ja tāds ir) un pārvedamiem vērtspapīriem. Kopsavilkumā uzsver brīdinājumu par to, ka:
+3) kopsavilkums, kurā īsi, neizmantojot speciālo terminoloģiju, un valodā, kādā sākotnēji tika sagatavots emisijas prospekts, atspoguļo galveno informāciju. Detalizētu kopsavilkumā iekļaujamo informāciju sagatavo saskaņā ar Eiropas Komisijas pieņemtajiem tiesību aktiem. Kopsavilkumā uzsver brīdinājumu par to, ka:
 a) tas ir uzskatāms par emisijas prospekta ievadu,
 b) jebkuram lēmumam ieguldīt pārvedamos vērtspapīros jābūt balstītam uz ieguldītāja izvērtējumu par emisijas prospektu kopumā,
 c) ja tiesā ir celta prasība attiecībā uz emisijas prospektā ietverto informāciju, ieguldītājam, kas cēlis prasību tiesā saskaņā ar attiecīgās dalībvalsts normatīvajiem aktiem, būs jāsedz emisijas prospekta tulkošanas izmaksas pirms tiesvedības uzsākšanas,

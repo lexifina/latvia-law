@@ -1,5 +1,5 @@
 34.pants. Licences anulēšanas kārtība
-Komisija anulē kapitālsabiedrībai izsniegto licenci regulētā tirgus organizēšanai, ja:
+(1) Komisija anulē kapitālsabiedrībai izsniegto licenci regulētā tirgus organizēšanai, ja:
 1) tiek konstatēts, ka tirgus organizētājs sniedzis nepatiesas ziņas, lai saņemtu licenci;
 2) tirgus organizētājs regulāri neievēro likumu un citu normatīvo aktu prasības;
 3) tirgus organizētājs Komisijas noteiktajā termiņā nav novērsis tās konstatētos normatīvo aktu pārkāpumus;
@@ -10,3 +10,4 @@ Komisija anulē kapitālsabiedrībai izsniegto licenci regulētā tirgus organiz
 8) tirgus organizētājs nav veicis licencē norādīto darbību ilgāk par sešiem mēnešiem;
 9) tiek konstatēts, ka tirgus organizētājs vairs neatbilst šajā likumā noteiktajām prasībām licences saņemšanai;
 10) tiek konstatēts, ka tirgus organizētāja akcionāriem ar būtisku līdzdalību iestājies tiem piederošo akciju balsstiesību izmantošanas aizliegums un tas ilgst vairāk nekā sešus mēnešus.
+(2) Komisija informē Eiropas Vērtspapīru un tirgu iestādi, ka licence regulētā tirgus organizēšanai ir anulēta.
