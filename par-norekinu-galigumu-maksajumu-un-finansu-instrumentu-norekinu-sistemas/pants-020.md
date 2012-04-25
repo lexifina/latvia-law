@@ -1,1 +1,1 @@
-20.pants. Komisija informē Eiropas Komisiju par sistēmu, kas darbojas saskaņā ar Latvijas Republikas likumiem un noteikta par sistēmu, kura iekļaujama Eiropas Komisijas reģistrā, un par šīs sistēmas uzturētāju.
+20.pants. Komisija informē Eiropas Komisiju un Eiropas Vērtspapīru un tirgu iestādi par sistēmu, kas darbojas saskaņā ar Latvijas Republikas likumiem un noteikta par sistēmu, kura iekļaujama Eiropas Komisijas reģistrā, un par šīs sistēmas uzturētāju.
