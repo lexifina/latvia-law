@@ -1,0 +1,1 @@
+7.pants. Ģerboni lieto likumā un Ministru kabineta noteikumos paredzētajos gadījumos, kā arī tās valsts un pašvaldību institūcijas, kurām šādas tiesības nosaka Valsts prezidenta rīkojums, kas izdots, ņemot vērā Valsts Heraldikas komisijas atzinumu. Rīkojumu līdzparaksta attiecīgais Ministru kabineta loceklis.

@@ -1,0 +1,1 @@
+1.pants. Šā likuma mērķis ir noteikt Latvijas Republikas Satversmes 3.pantā minēto kultūrvēsturisko (vēsturiski etnogrāfisko) apgabalu - Vidzemes, Latgales, Kurzemes un Zemgales - ģerboņu (turpmāk arī - ģerbonis) kā valsts simbolu tiesisko aizsardzību un izmantošanu.
