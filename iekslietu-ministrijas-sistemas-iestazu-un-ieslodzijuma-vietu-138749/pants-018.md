@@ -16,5 +16,6 @@
 6) amatpersonas vainas formu;
 7) atbildību mīkstinošos vai pastiprinošos apstākļus.
 (4) Lai noskaidrotu lietas faktiskos un tiesiskos apstākļus, disciplinārlietas izmeklēšanas veicējs pieprasa no iestādēm, amatpersonām un, ja nepieciešams, no privātpersonām nepieciešamos paskaidrojumus un citu informāciju vai dokumentus.
+(4¹) Amatpersonai ir pienākums ne vēlāk kā piecu darbdienu laikā vai disciplinārlietas izmeklēšanas veicēja norādītajā termiņā sniegt paskaidrojumu par apstākļiem, kas noskaidrojami disciplinārlietā.
 (5) Pēc disciplinārlietas izmeklēšanas tās veicējs konstatē lietas būtisko faktisko apstākļu atbilstību lietas tiesiskajiem apstākļiem un sagatavo lēmumu par disciplinārsoda piemērošanu vai par disciplinārlietas izbeigšanu.
 (6) Visus dokumentus un informāciju, uz kuras pamata pieņemts lēmums par disciplinārsoda piemērošanu vai par disciplinārlietas izbeigšanu, ievieto un glabā disciplinārlietā.

@@ -1,6 +1,6 @@
 26.pants. Lēmuma par disciplinārsoda piemērošanu izpilde
 (1) Lēmuma par disciplinārsoda piemērošanu apstrīdēšana vai pārsūdzēšana neaptur tā izpildi.
-(2) Lēmumu par disciplinārsoda piemērošanu, kas paredz šā likuma 13.panta pirmās daļas 7.punktā noteiktā disciplinārsoda piemērošanu, izpilda nekavējoties pēc tā stāšanās spēkā.
+(2) Lēmumu par disciplinārsoda piemērošanu, kas paredz šā likuma 13.panta otrās daļas 6.punktā noteiktā disciplinārsoda piemērošanu, izpilda nekavējoties pēc tā stāšanās spēkā.
 (3) Lēmuma par disciplinārsoda piemērošanu izpildi pārtrauc, ja izbeigušās dienesta attiecības ar amatpersonu.
 (4) Lēmuma par disciplinārsoda piemērošanu izpildi atjauno, ja gada laikā pēc dienesta attiecību izbeigšanās amatpersonu pieņem dienestā un ieceļ amatā tajā pašā vai citā Iestādē.
 (5) Amatpersona uzskatāma par disciplināri nesodītu, ja gada laikā pēc disciplinārsoda piemērošanas vai no dienas, kad beigusies disciplinārsoda izpilde, tā nav izdarījusi jaunu disciplinārpārkāpumu.
