@@ -1,2 +1,2 @@
-36.² pants. (1) Papildus šā likuma 35.panta prasībām kredītiestāde nodrošina savai darbībai piemītošo un varbūtējo risku segšanai pietiekamu kapitālu, nosakot tā elementus un struktūru.
+36.² pants. (1) Papildus šā likuma 35.panta prasībām kredītiestāde novērtē savai darbībai piemītošo un varbūtējo risku segšanai nepieciešamo kapitālu un nodrošina, lai tās darbībai piemītošo un varbūtējo risku segšanai nepieciešamais kapitāls būtu pietiekams, kā arī nosaka šā kapitāla elementus un struktūru.
 (2) Kredītiestāde izstrādā savas darbības raksturam, apjomam un sarežģītībai piemērotu, visaptverošu, pamatotu un efektīvu stratēģiju un procedūras un īsteno nepārtrauktai kapitāla novērtēšanai un pietiekama kapitāla uzturēšanai nepieciešamos pasākumus.
