@@ -1,0 +1,2 @@
+1.¹ pants. Likumā minēto mērvienību piemērošana nodokļa likmes noteikšanai
+Ja šajā likumā minēto mērvienību skaitliskie lielumi - transportlīdzekļa pilnā masa kilogramos, motora tilpums kubikcentimetros un motora maksimālā jauda kilovatos - ir apzīmēti ar ciparu aiz komata, transportlīdzekļa ekspluatācijas nodokļa un uzņēmumu vieglo transportlīdzekļu nodokļa likmes noteikšanai izmanto attiecīgo mērvienības skaitlisko lielumu, atmetot ciparus aiz komata.

@@ -1,0 +1,1 @@
+14. Šā likuma 7.panta piektajā daļā, kā arī šo pārejas noteikumu 11.punktā minētajām personām, kuras par laikposmu no 2012.gada 1.janvāra līdz 2012.gada 31.decembrim ir samaksājušas transportlīdzekļa ekspluatācijas nodokli, ir tiesības saņemt attiecīgi samaksātā vai pārmaksātā nodokļa atmaksu, iesniedzot iesniegumu Valsts ieņēmumu dienestam.

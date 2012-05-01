@@ -1,0 +1,1 @@
+19. Šā likuma 14.panta piektā daļa par prasībām attiecībā uz maršruta kontroles sistēmām stājas spēkā 2013.gada 1.janvārī. Ministru kabinets šā panta piektajā daļā minētos noteikumus izdod līdz 2012.gada 1.oktobrim.

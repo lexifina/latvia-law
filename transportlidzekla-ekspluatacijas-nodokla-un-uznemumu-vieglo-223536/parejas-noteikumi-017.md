@@ -1,0 +1,1 @@
+17. Šā likuma 14.panta pirmās daļas 4.punktā noteiktais nodokļu atbrīvojums komersantiem, kuriem vieglo transportlīdzekļu iznomāšanas pakalpojumi kopā ar vieglo transportlīdzekļu tirdzniecību veido ne mazāk kā 90 procentus no kopējā apgrozījuma par viņu īpašumā vai turējumā esošiem īstermiņa iznomāšanai paredzētiem transportlīdzekļiem, stājas spēkā 2013.gada 1.janvārī.
