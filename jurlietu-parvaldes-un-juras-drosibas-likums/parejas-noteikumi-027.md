@@ -1,0 +1,1 @@
+27. Ministru kabinets līdz 2012.gada 15.maijam izdod šā likuma 41.¹ panta trešajā daļā paredzētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai piemērojami Ministru kabineta 2005.gada 9.augusta noteikumi Nr.592 "Kārtība, kādā sniedzami ziņojumi par bīstamām un piesārņojošām kuģu kravām", ciktāl tie nav pretrunā ar šo likumu.
