@@ -1,0 +1,1 @@
+1.pants. Nolīgums starp Latvijas Republikas valdību un Norvēģijas Karalistes valdību par tādu spriedumu krimināllietās atzīšanu un izpildi, ar kuriem tiek piespriesti brīvības atņemšanas sodi vai ar brīvības atņemšanu saistīti pasākumi (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.
