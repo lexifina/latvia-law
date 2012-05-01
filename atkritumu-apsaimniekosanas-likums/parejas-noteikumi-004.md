@@ -1,1 +1,1 @@
-4. Ministru kabinets ne vēlāk kā līdz 2011.gada 30.novembrim izdod šā likuma 6.panta 2., 4., 5. un 6.punktā, 20.panta astotajā daļā, 22.panta otrās daļas 2. un 3.punktā, 24.panta pirmajā daļā, 29.pantā, 31.panta trešajā daļā, 36.pantā, 38.panta otrajā daļā un 41.panta trešajā daļā minētos noteikumus.
+4. Ministru kabinets ne vēlāk kā līdz 2011.gada 30.novembrim izdod šā likuma 6.panta 2., 4., 5.punktā, 20.panta astotajā daļā, 22.panta otrās daļas 2. un 3.punktā, 24.panta pirmajā daļā, 29.pantā, 31.panta trešajā daļā, 36.pantā, 38.panta otrajā daļā minētos noteikumus.

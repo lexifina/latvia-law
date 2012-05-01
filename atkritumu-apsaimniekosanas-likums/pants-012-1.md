@@ -1,0 +1,1 @@
+12.¹ pants. Atkritumu tirgotājs vai atkritumu apsaimniekošanas starpnieks pirms attiecīgo darbību uzsākšanas reģistrējas Valsts vides dienestā. Ministru kabinets nosaka kārtību, kādā Valsts vides dienests reģistrē atkritumu tirgotājus un atkritumu apsaimniekošanas starpniekus.
