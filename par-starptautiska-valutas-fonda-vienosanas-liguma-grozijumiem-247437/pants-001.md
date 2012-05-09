@@ -1,0 +1,1 @@
+1.pants. Starptautiskā Valūtas fonda Vienošanās līguma (turpmāk - Līgums) grozījumi par izpilddirektoru valdes reformu (turpmāk - Grozījumi par izpilddirektoru valdes reformu) ar šo likumu tiek pieņemti un apstiprināti.
