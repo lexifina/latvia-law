@@ -1,0 +1,1 @@
+1.pants. 2011.gada 25.martā pieņemtais Eiropadomes lēmums, ar ko Līguma par Eiropas Savienības darbību 136.pantu groza attiecībā uz stabilizācijas mehānismu valstīm, kuru naudas vienība ir euro (turpmāk - Lēmums), ar šo likumu tiek pieņemts un apstiprināts.
