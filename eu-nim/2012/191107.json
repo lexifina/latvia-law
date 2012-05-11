@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2003.gada 15.aprīļa noteikumos Nr.184 \"Prasības darbībām ar biocīdiem\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "72",
+  "official_journal_page": null,
+  "official_journal_date": "2012-05-10",
+  "entry_into_force": "2012-05-11",
+  "notification_date": "2012-05-29",
+  "commission_reference": "MNE(2012)52526",
+  "nim_celex": "72011L0079LVA_191107",
+  "nim_id": "191107",
+  "transposes_celex": [
+    "32011L0079"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c480ec8a-706a-4ad6-9aaf-7c2430a36a20",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
