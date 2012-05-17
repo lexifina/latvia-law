@@ -1,0 +1,1 @@
+1.pants. Grozījumi Eiropas Rekonstrukcijas un attīstības bankas dibināšanas līgumā (turpmāk - Grozījumi), kas apstiprināti ar Eiropas Rekonstrukcijas un attīstības bankas Pilnvarnieku valdes 2011.gada 30.septembra rezolūciju Nr.137 un 2011.gada 30.septembra rezolūciju Nr.138, ar šo likumu tiek pieņemti un apstiprināti.

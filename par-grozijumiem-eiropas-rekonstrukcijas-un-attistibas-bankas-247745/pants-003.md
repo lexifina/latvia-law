@@ -1,0 +1,1 @@
+3.pants. Grozījumi stājas spēkā Eiropas Rekonstrukcijas un attīstības bankas Pilnvarnieku valdes 2011.gada 30.septembra rezolūcijas Nr.137 3.punktā un 2011.gada 30.septembra rezolūcijas Nr.138 3.punktā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo laikrakstā " Latvijas Vēstnesis ".

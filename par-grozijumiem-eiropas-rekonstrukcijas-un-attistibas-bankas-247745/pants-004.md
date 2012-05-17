@@ -1,0 +1,1 @@
+4.pants. Likums stājas spēkā nākamajā dienā pēc tā izsludināšanas. Līdz ar likumu izsludināma Eiropas Rekonstrukcijas un attīstības bankas Pilnvarnieku valdes 2011.gada 30.septembra rezolūcija Nr.137 un 2011.gada 30.septembra rezolūcija Nr.138 angļu valodā un to tulkojums latviešu valodā.
