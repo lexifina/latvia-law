@@ -4,7 +4,7 @@
 2) neklātiene;
 3) pašizglītība.
 (2) Profesionālās izglītības programmas īstenošanas ilgums klātienē profesionālās izglītības iestādēs ir šāds:
-1) profesionālās pamatizglītības ieguves ilgums - ne vairāk kā divi gadi (ar pedagoģisko korekciju - ne vairāk kā trīs gadi);
+1) profesionālās pamatizglītības ieguves ilgums - ne vairāk kā divi gadi (ar pedagoģisko korekciju un programmās izglītojamajiem ar garīgās attīstības traucējumiem - ne vairāk kā trīs gadi);
 2) arodizglītības ieguves ilgums - ne vairāk kā trīs gadi;
 3) profesionālās vidējās izglītības ieguves ilgums pēc pamatizglītības ieguves - trīs līdz četri gadi, pēc arodizglītības ieguves - viens līdz divi gadi;
 4) pirmā līmeņa profesionālās augstākās izglītības ieguves ilgums - divi līdz trīs gadi.

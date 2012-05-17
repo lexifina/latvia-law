@@ -11,4 +11,5 @@ Ministru kabinets:
 9) nosaka profesionālās izglītības iestāžu pedagoģiskā procesa un eksaminācijas centru profesionālās kvalifikācijas ieguves organizēšanai obligāti nepieciešamo dokumentāciju;
 10) nosaka centralizēto profesionālās kvalifikācijas eksāmenu norises kārtību;
 11) nosaka kritērijus un kārtību, kādā tiek piešķirts un anulēts profesionālās izglītības kompetences centra statuss;
-12) nosaka kārtību, kādā aprēķina un sadala valsts budžeta mērķdotāciju pedagogu darba samaksai pašvaldību izglītības iestādēs, kurās īsteno profesionālās pamatizglītības, arodizglītības un profesionālās vidējās izglītības programmas.
+12) nosaka kārtību, kādā aprēķina un sadala valsts budžeta mērķdotāciju pedagogu darba samaksai pašvaldību izglītības iestādēs, kurās īsteno profesionālās pamatizglītības, arodizglītības un profesionālās vidējās izglītības programmas;
+13) nosaka profesionālās izglītības iestāžu un eksaminācijas centru valsts pārvaldes uzdevuma - ārpus formālās izglītības sistēmas apgūtās profesionālās kompetences novērtēšana - ietvaros sniegto maksas pakalpojumu cenrādi.

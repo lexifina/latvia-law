@@ -3,7 +3,7 @@
 (1¹) Profesionālās izglītības iestādēm atkarībā no tā, kas ir to dibinātāji, ir šāds juridiskais statuss:
 1) valsts dibinātajām profesionālās izglītības iestādēm - valsts tiešās pārvaldes iestādes statuss vai valsts kapitālsabiedrības statuss;
 2) pašvaldību dibinātajām profesionālās izglītības iestādēm - pastarpinātās pārvaldes iestādes statuss;
-3) citu personu dibinātās profesionālās izglītības iestādes ir komercsabiedrības vai nodibinājumi, kas darbojas saskaņā ar Komerclikumu vai Biedrību un nodibinājumu likumu, ciktāl tas nav pretrunā ar šo likumu.
+3) citu personu dibinātās profesionālās izglītības iestādes ir komercsabiedrības, biedrības vai nodibinājumi, kas darbojas saskaņā ar Komerclikumu vai Biedrību un nodibinājumu likumu, ciktāl tas nav pretrunā ar šo likumu.
 (2) Profesionālās izglītības iestādes pamatuzdevums ir profesionālās izglītības programmu īstenošana.
 (2¹) Profesionālās izglītības iestādei, kura īsteno profesionālās vidējās izglītības programmas, kas dod iespēju iegūt trešo profesionālās kvalifikācijas līmeni, ir tiesības papildus veikt reģionālā vai nozares metodiskā centra, pedagogu tālākizglītības centra un ārpus formālās izglītības sistēmas iegūtās profesionālās kompetences novērtēšanas funkcijas.
 (3) Profesionālās izglītības iestāde atbilstoši Izglītības likumam un citu likumu un normatīvo aktu noteikumiem ir tiesīga patstāvīgi veikt saimniecisko un citāda veida darbību, ja tas netraucē izglītības programmu īstenošanu un ir paredzēts izglītības iestādes nolikumā.
