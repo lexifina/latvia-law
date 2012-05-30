@@ -1,0 +1,1 @@
+18. Grozījumi šā likuma 14.² panta 1.¹ daļas pirmajā teikumā par tā izteikšanu jaunā redakcijā stājas spēkā vienlaikus ar Hāgas 2007.gada 23.novembra Konvencijas par uzturlīdzekļu bērniem un cita veida ģimenes uzturēšanas līdzekļu pārrobežu piedziņu spēkā stāšanos Eiropas Savienībā.

@@ -14,4 +14,6 @@ Juridisko palīdzību atsaka, ja:
 12) strīdu izšķir šķīrējtiesā vai izmantojot citus alternatīvus strīdu risināšanas mehānismus;
 13) tā ir saistīta ar tāda aizdevuma līguma saistību izpildi, kurā persona, kas juridisko palīdzību pieprasa, ir aizdevējs;
 14) tā attiecas uz prasījumu, kas saistīts ar greznumlietām vai greznuma pakalpojumiem;
-15) tā attiecas uz prasījumu par līguma saistību izpildi, ja ar juridiskās palīdzības nodrošināšanu saistītie izdevumi ir nesamērīgi lieli salīdzinājumā ar prasījuma summu.
+15) ar juridiskās palīdzības nodrošināšanu saistītie izdevumi ir nesamērīgi lieli salīdzinājumā ar prasījuma summu;
+16) attiecībā uz personu ir pieņemts lēmums par juridiskās palīdzības sniegšanas pārtraukšanu, pamatojoties uz šā likuma 33.panta septītās daļas 4.punktu, un kopš šā lēmuma pieņemšanas nav pagājis gads;
+17) saņemts juridiskās palīdzības sniedzēja atzinums par turpmākās juridiskās palīdzības nelietderību.

@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Padomes 2003.gada 27.janvāra direktīvas 2003/8/EK par to, kā uzlabot tiesu pieejamību pārrobežu strīdos, nosakot kopīgus obligātus noteikumus attiecībā uz juridisko palīdzību šādos strīdos.

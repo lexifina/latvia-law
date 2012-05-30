@@ -4,7 +4,7 @@
 2) ja nepieciešams, dokumentu kopijas, kas apliecina veidlapā minētās ziņas;
 3) dokumentus, kas apliecina personas īpašo situāciju, vai normatīvajos aktos noteiktajā kārtībā izdoto dokumentu (izziņu), kas apliecina personas atbilstību trūcīgas vai maznodrošinātas personas statusam.
 (2) Juridiskās palīdzības pieprasījuma veidlapas paraugu apstiprina Ministru kabinets.
-(3) Persona var saņemt juridiskās palīdzības pieprasījuma veidlapu, kā arī informāciju par veidlapas aizpildīšanu un tai pievienojamiem dokumentiem Juridiskās palīdzības administrācijā vai pašvaldībā, kuras administratīvajā teritorijā ir šīs personas dzīvesvieta vai kur tā tiesiski uzturas.
+(3) Persona var saņemt juridiskās palīdzības pieprasījuma veidlapu, kā arī informāciju par veidlapas aizpildīšanu un tai pievienojamiem dokumentiem Juridiskās palīdzības administrācijā vai pašvaldībā, kuras administratīvajā teritorijā ir šīs personas deklarētā dzīvesvieta vai kur tā tiesiski uzturas.
 (4) Juridiskās palīdzības pieprasījuma veidlapu un informāciju par tās aizpildīšanu izsniedz bez maksas.
 (5) Persona iesniegumu par juridisko palīdzību (aizpildītu juridiskās palīdzības pieprasījuma veidlapu) iesniedz Juridiskās palīdzības administrācijai.
 (5¹) Izraidāmais ārzemnieks iesniegumu par juridiskās palīdzības pieprasījumu un ienākumiem (šā likuma izpratnē - iesniegums par juridisko palīdzību) iesniedz Imigrācijas likumā noteiktajos gadījumos un kārtībā.
