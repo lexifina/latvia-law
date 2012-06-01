@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2012.gada 15.maija noteikumi Nr.339 \"Noteikumi par ostu formalitātēm\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "85(4688)",
+  "official_journal_page": null,
+  "official_journal_date": "2012-05-31",
+  "entry_into_force": "2012-06-01",
+  "notification_date": "2012-05-31",
+  "commission_reference": "MNE(2012)52558",
+  "nim_celex": "72002L0084LVA_191154",
+  "nim_id": "191154",
+  "transposes_celex": [
+    "32002L0084"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0d2ee327-62d1-4322-bff5-b9eb77ecfb29",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
