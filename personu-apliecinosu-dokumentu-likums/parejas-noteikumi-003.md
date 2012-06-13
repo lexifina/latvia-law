@@ -1,0 +1,1 @@
+3. Līdz elektroniskas vēlētāju reģistrācijas ieviešanai Saeimas vēlēšanās, tautas nobalsošanā un parakstu vākšanā likumprojektu vai Satversmes grozījumu projektu ierosināšanai Latvijas pilsoņa pase ir obligāts dokuments vēlēšanu tiesību īstenošanai.
