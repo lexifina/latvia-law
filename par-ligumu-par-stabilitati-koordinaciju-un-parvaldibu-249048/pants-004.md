@@ -1,0 +1,1 @@
+4.pants. Līgumu piemēro saskaņā ar tā 14.panta 5.punktu no dienas, kad stājas spēkā lēmums par Līguma par Eiropas Savienības darbību 139.panta 1.punktā minētā Latvijas Republikai piešķirtā izņēmuma statusa atcelšanu.
