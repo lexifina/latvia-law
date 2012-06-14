@@ -1,6 +1,6 @@
 9. pants. Ar nodokli neapliekamo ienākumu veidi
 1. Gada apliekamajā ienākumā netiek ietverti un ar nodokli netiek aplikti šādi ienākumu veidi:
-1) ienākumi no maksātāja lauksaimnieciskās ražošanas un lauku tūrisma pakalpojumu sniegšanas, ja tie nepārsniedz 2000 latu gadā, ņemot vērā šā panta 3.¹, 3.² un 3.⁵ daļas nosacījumus;
+1) ienākumi no maksātāja lauksaimnieciskās ražošanas un lauku tūrisma pakalpojumu sniegšanas, kā arī no sēņošanas, ogošanas vai savvaļas ārstniecības augu un ziedu vākšanas, ja tie nepārsniedz 2000 latu gadā, ņemot vērā šā panta 3.¹, 3.² un 3.⁵ daļas nosacījumus;
 2) (izslēgts ar 01.12.2009. likumu);
 3) (izslēgts ar 01.12.2009. likumu);
 4) apdrošināšanas atlīdzības, kuras izmaksājušas Latvijas Republikā reģistrētas apdrošināšanas sabiedrības, kas nodibinātas un darbojas saskaņā ar Apdrošināšanas sabiedrību un to uzraudzības likumu, kā arī citā Eiropas Savienības dalībvalstī vai Eiropas Ekonomikas zonas valstī reģistrētas apdrošināšanas sabiedrības, kas nodibinātas un darbojas saskaņā ar attiecīgās Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts normatīvajiem aktiem, izņemot tās apdrošināšanas atlīdzības, kas izmaksātas pēc dzīvības, veselības un negadījuma apdrošināšanas līguma, kuru apdrošinātā interesēs noslēdzis darba devējs (vai cits apdrošinājuma ņēmējs - juridiskā persona), pienākot apdrošināšanas līgumā paredzētajam līguma beigu termiņam vai laužot līgumu pirms termiņa;
