@@ -1,3 +1,6 @@
-38.pants. Ekoetiķete (ekomarķējums) un tās piešķiršana
-(1) Lai veicinātu videi draudzīgu produktu ražošanu un izplatīšanu, attiecīgajiem produktiem, kuri atbilst Eiropas Komisijas noteiktajiem kritērijiem, piešķir Eiropas Savienības ekoetiķeti (ekomarķējumu) saskaņā ar Eiropas Parlamenta un Padomes 2009.gada 25.novembra regulu (EK) Nr. 66/2010 par ES ekomarķējumu.
-(2) Vides pārraudzības valsts birojs koordinē Eiropas Savienības ekoetiķetes (ekomarķējuma) piešķiršanas programmu Latvijā, informē ražotājus par attiecīgajām prasībām, popularizē Eiropas Savienības ekoetiķeti (ekomarķējumu), kā arī sniedz nepieciešamo informāciju Eiropas Komisijai.
+38.pants. Ekomarķējums un tā piešķiršana
+(1) Vides pārraudzības valsts birojs ir kompetentā iestāde attiecībā uz Eiropas Parlamenta un Padomes 2009.gada 25.novembra regulā (EK) Nr. 66/2010 par ES ekomarķējumu (Dokuments attiecas uz EEZ) paredzēto uzdevumu izpildi. Vides pārraudzības valsts birojs saskaņā ar minēto regulu piešķir Eiropas Savienības ekomarķējumu (turpmāk - arī ekomarķējums) produktiem, lai veicinātu videi draudzīgu produktu ražošanu un izplatīšanu.
+(1¹) Persona, kura iesniedz Vides pārraudzības valsts birojam iesniegumu par ekomarķējuma piešķiršanu produktam, sedz iesnieguma izskatīšanas un produkta reģistrācijas izmaksas, kā arī izmaksas, kas saistītas ar testēšanu un atbilstības novērtēšanu attiecībā uz ekomarķējuma kritērijiem, saskaņā ar Ministru kabineta apstiprinātu Vides pārraudzības valsts biroja sniegto maksas pakalpojumu cenrādi. Ministru kabinets nosaka:
+1) maksu par iesnieguma izskatīšanu par ekomarķējuma piešķiršanu un produkta reģistrāciju;
+2) gada maksu par ekomarķējuma izmantošanu un maksāšanas kārtību.
+(2) Vides pārraudzības valsts birojs koordinē Eiropas Savienības ekomarķējuma piešķiršanas programmu Latvijā, informē ražotājus par attiecīgajām prasībām, popularizē Eiropas Savienības ekomarķējumu, kā arī sniedz nepieciešamo informāciju Eiropas Komisijai.
