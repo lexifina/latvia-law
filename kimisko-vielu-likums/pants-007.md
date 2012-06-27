@@ -1,3 +1,4 @@
 7.pants. Ķīmisko vielu un maisījumu datu bāze un informatīvā sistēma
 (1) Ķīmisko vielu un maisījumu datu bāzē iekļauj avāriju likvidēšanai, uzraudzības un kontroles īstenošanai nepieciešamās ziņas par Latvijā lietotajām ķīmiskajām vielām un maisījumiem, kā arī bīstamo ķīmisko vielu sarakstu, Eiropas Savienībā tirdzniecībā esošo ķīmisko vielu sarakstu (EINECS) un Eiropas Savienībā pieteikto ķīmisko vielu sarakstu (ELINCS).
 (2) Ministru kabinets noteic, kāda informācija tiek sniegta, uzturēta, apkopota un izvērtēta Ķīmisko vielu un maisījumu datu bāzē, kā arī ķīmisko vielu un maisījumu uzskaites kārtību.
+(3) Ķīmisko vielu un maisījumu datu bāzē iesniegtie komersantu dati ir ierobežotas pieejamības informācija, izņemot tos datus, kuri ir vispārpieejama informācija saskaņā ar šā likuma 8.panta trešo daļu.

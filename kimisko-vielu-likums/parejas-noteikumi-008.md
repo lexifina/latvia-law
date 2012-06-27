@@ -1,0 +1,1 @@
+8. Līdz 2015.gada 1.jūnijam piemērojami Ministru kabineta 2002.gada 12.marta noteikumi Nr.107 "Ķīmisko vielu un ķīmisko produktu klasificēšanas, marķēšanas un iepakošanas kārtība", ciktāl tie nav pretrunā ar šo likumu.
