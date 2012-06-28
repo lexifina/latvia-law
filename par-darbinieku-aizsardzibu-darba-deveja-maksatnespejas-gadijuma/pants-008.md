@@ -1,5 +1,5 @@
 8.pants
-(1) Darbinieku prasījumu garantiju fonda līdzekļu turētājs un rīkotājs ir valsts aģentūra "Maksātnespējas administrācija" (turpmāk - Maksātnespējas administrācija), kas organizē finanšu līdzekļu uzskaiti un to izmaksu darbinieku prasījumu apmierināšanai.
+(1) Darbinieku prasījumu garantiju fonda līdzekļu turētājs un rīkotājs ir Maksātnespējas administrācija, kas organizē finanšu līdzekļu uzskaiti un to izmaksu darbinieku prasījumu apmierināšanai.
 (2) Maksātnespējas administrācija saskaņā ar šo likumu veic šādus uzdevumus:
 1) pieņem un izskata maksātnespējīgo darba devēju administratoru iesniegumus par darbinieku prasījumu apmierināšanu un apstiprina no darbinieku prasījumu garantiju fonda līdzekļiem izmaksājamās summas;
 2) apmierina darbinieku prasījumus;
