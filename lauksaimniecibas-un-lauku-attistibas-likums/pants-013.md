@@ -10,3 +10,6 @@
 1) ministrijā un tās padotībā esošajās organizācijās nodarbināto speciālistu profesionālo tālākizglītošanu;
 2) lauksaimniecības interešu grupu darbības nodrošināšanu;
 3) lauksaimnieku, mežsaimnieku un meža īpašnieku informēšanu un apmācību par lauksaimniecības, lauku attīstības un mežsaimniecības jautājumiem, kā arī attiecīgo nozaru aktualitātēm.
+(9) Zemkopības ministrijas padotībā un pārraudzībā esošo iestāžu informācijas sistēmās apkopojamos datus apvieno vienotā zemkopības nozares informācijas sistēmā. Vienotās zemkopības nozares informācijas sistēmas pārzinis un turētājs ir Zemkopības ministrija.
+(10) Vienotās zemkopības nozares informācijas sistēmā iekļaujamos datus, kārtību, kādā tos apstrādā un izsniedz, kā arī saņem no citām valsts pārvaldes iestādēm, nosaka Ministru kabinets.
+(11) Vienotās zemkopības nozares informācijas sistēmas pārzinis informē datu subjektu par personas datu apstrādi, saņemšanu un nodošanu tikai Fizisko personu datu aizsardzības likuma 9.panta otrajā daļā noteiktajā gadījumā.
