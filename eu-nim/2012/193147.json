@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par vides aizsardzības prasībām degvielas uzpildes stacijām, naftas bāzēm un pārvietojamām cisternām",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "102",
+  "official_journal_page": null,
+  "official_journal_date": "2012-06-29",
+  "entry_into_force": "2012-06-30",
+  "notification_date": "2012-07-10",
+  "commission_reference": "MNE(2012)53157",
+  "nim_celex": "71994L0063LVA_193147",
+  "nim_id": "193147",
+  "transposes_celex": [
+    "31994L0063"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7ad82692-6f1d-46ce-b5d9-d80e3adb6344",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
