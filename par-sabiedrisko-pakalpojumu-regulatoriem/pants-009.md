@@ -9,7 +9,7 @@
 7) sniedz regulējamo nozaru atbildīgajām ministrijām pēc to pieprasījuma informāciju un priekšlikumus par sabiedrisko pakalpojumu regulēšanas jautājumiem;
 8) informē sabiedrību par savu darbību un arī par sabiedrisko pakalpojumu sniedzēju darbību sabiedrisko pakalpojumu sniegšanā;
 9) pilda citas funkcijas, kas noteiktas nozares speciālajos likumos;
-10) veic energoapgādes komersantu objektu un citu energoapgādes objektu ekspluatācijas kontroli atbilstoši enerģētikas nozares normatīvajiem aktiem;
-11) veic hidroelektrostaciju hidrotehnisko būvju drošuma un ekspluatācijas atbilstības uzraudzību atbilstoši likumam "Par hidroelektrostaciju hidrotehnisko būvju drošumu".
+10) (izslēgts ar 14.07.2011. likumu);
+11) (izslēgts ar 14.07.2011. likumu).
 (2) Regulators savas kompetences ietvaros patstāvīgi pieņem lēmumus un izdod administratīvos aktus, kas ir saistoši konkrētiem sabiedrisko pakalpojumu sniedzējiem un lietotājiem.
 (3) Regulators nodrošina tās informācijas aizsardzību, kas ir tā rīcībā par sabiedrisko pakalpojumu sniedzējiem un to darbību.
