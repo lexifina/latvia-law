@@ -1,4 +1,3 @@
-826.pants. Lūguma iesniegšanas kārtība
-(1) Ja kriminālprocesā nepieciešams veikt procesuālo darbību ārvalstī, procesa virzītājs vēršas kompetentajā iestādē ar rakstveida ierosinājumu lūgt ārvalsti veikt procesuālo darbību. Ierosinājumam pievieno šā likuma 827.panta pirmajā daļā paredzēto lūgumu un citus dokumentus.
-(2) Ierosinājumu izskata 10 dienu laikā un par rezultātiem informē iesniedzēju.
-(3) Ja ierosinājumu atzīst par pamatotu, kompetentā iestāde lūgumu nosūta ārvalstij.
+826.pants. Nepieciešamās informācijas pieprasījums, lai izlemtu jautājumu par sprieduma un īpašas formas apliecinājuma nosūtīšanu
+(1) Ja Tieslietu ministrija uzskata, ka Eiropas Savienības dalībvalstī tiks veicināta notiesātā resocializācija, tā pirms sprieduma un īpašas formas apliecinājuma nosūtīšanas var pieprasīt, lai šī Eiropas Savienības dalībvalsts sniedz viedokli par to, vai soda izpildīšana veicinās notiesātā resocializāciju šajā valstī, kā arī nepieciešamo papildu informāciju. Eiropas Savienības dalībvalsts viedoklis neaptur apliecinājuma nosūtīšanu šai dalībvalstij.
+(2) Gadījumos, kas nav minēti šā likuma 823.panta trešajā daļā, Tieslietu ministrija pieprasa Eiropas Savienības dalībvalstij, lai tā informē par lēmumu piekrist vai nepiekrist sprieduma un īpašas formas apliecinājuma nosūtīšanai.

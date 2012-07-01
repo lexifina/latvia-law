@@ -1,5 +1,5 @@
-764.pants. Pamats notiesātās personas nodošanai soda izciešanai
-(1) Pamats Latvijā ar brīvības atņemšanu notiesātās personas nodošanai soda izciešanai ārvalstī ir:
-1) ārvalsts kompetentās iestādes lūgums nodot notiesāto personu un Latvijas kompetentās iestādes piekrišana tam;
-2) Latvijas kompetentās iestādes lūgums pārņemt notiesāto personu un ārvalsts kompetentās iestādes piekrišana tam.
-(2) Kompetentā iestāde veic šajā nodaļā paredzētās darbības, ja ir saņemts notiesātās personas vai tās pārstāvja lūgums, ārvalsts kompetentās iestādes informācija vai lūgums vai arī pēc savas iniciatīvas.
+764.pants. Pamats ārvalstī piespriesta ar brīvības atņemšanu saistīta soda izpildīšanai Latvijā
+(1) Pamats tam, lai izpildītu ārvalstī piespriestu ar brīvības atņemšanu saistītu sodu (turpmāk - brīvības atņemšanas sods) Latvijā, ir:
+1) Tieslietu ministrijas lūgums nodot Latvijai ārvalstī piespriesta brīvības atņemšanas soda izpildīšanu un šīs ārvalsts piekrišana tam;
+2) ārvalsts lūgums pārņemt tajā piespriestu brīvības atņemšanas sodu un Tieslietu ministrijas piekrišana tam.
+(2) Šīs nodaļas noteikumi piemērojami neatkarīgi no tā, vai ārvalstī notiesātā persona atrodas šajā ārvalstī vai Latvijā.

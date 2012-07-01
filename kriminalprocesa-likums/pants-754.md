@@ -1,4 +1,6 @@
-754.pants. Lūgums par personas nodošanu
-Lūgumu par personas nodošanu soda izciešanai raksta atbilstoši šā likuma 678.pantā noteiktajām prasībām un tam pievieno:
-1) dokumentu vai paziņojumu par to, ka attiecīgā persona ir Latvijas pilsonis vai ka tās dzīvesvieta ir Latvijā, ja šāds dokuments jau nebija savstarpēji iesniegts;
-2) tā Latvijas Krimināllikuma panta tekstu, saskaņā ar kuru nodarījums, par ko personai noteikts sods, uzskatāms par noziedzīgu Latvijā.
+754.pants. Kārtība, kādā izskata ārvalstī piespriesta soda izpildīšanas lūgumu
+(1) Tieslietu ministrija, saņēmusi ārvalsts lūgumu par tajā piespriesta soda izpildīšanu, 10 dienu laikā, bet, ja materiālu apjoms ir sevišķi liels, 30 dienu laikā pārbauda, vai ir saņemti visi nepieciešamie materiāli.
+(2) Ja nepieciešama dokumentu tulkošana, ārvalsts lūguma pārbaude notiek šā panta pirmajā daļā minētajos termiņos pēc tulkojuma saņemšanas.
+(3) Ja vienlaikus saņemti vairāki ārvalstu lūgumi par šajās ārvalstīs piespriesta soda izpildīšanu attiecībā uz vienu un to pašu personu vai mantu, Tieslietu ministrija apvieno šo lūgumu pārbaudi vienā procesā.
+(4) Pēc lūguma pārbaudes materiālus nosūta rajona (pilsētas) tiesai lēmuma par ārvalsts sprieduma atzīšanu un soda izpildīšanu Latvijā pieņemšanai. Lūgumu izskata tiesnesis pēc ārvalstī notiesātās personas dzīvesvietas. Ja personas dzīvesvieta nav zināma, ārvalsts lūgumu izskata rajona (pilsētas) tiesas tiesnesis pēc Tieslietu ministrijas atrašanās vietas.
+(5) Ja ārvalsts sniegtā informācija nav pietiekama, Tieslietu ministrija vai tiesa ar Tieslietu ministrijas starpniecību var pieprasīt papildu informāciju vai dokumentus, nosakot to iesniegšanas termiņu.

@@ -1,2 +1,2 @@
-838.pants. Izdošana
-Izdošana notiek vispārējā kārtībā neatkarīgi no tā, vai izdodamā persona atrodas dalībvalstī vai trešajā valstī.
+838.pants. Nolēmuma par mantas konfiskāciju nosūtīšanas sekas
+Latvijā pieņemtā nolēmuma par mantas konfiskāciju nosūtīšana vienlaikus vairākām Eiropas Savienības dalībvalstīm neierobežo Latviju šā nolēmuma izpildīšanā.

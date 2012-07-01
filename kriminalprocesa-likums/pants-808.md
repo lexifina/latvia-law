@@ -1,6 +1,8 @@
-808.pants. Latvijas tiesības soda izpildes laikā ārvalstī
-(1) Tiesas nolēmumu, ar kuru noteikts sods, ko izpilda ārvalstī, var pārskatīt tikai Latvijas tiesa.
-(2) Ja tiesas nolēmumu atceļ, kompetentā iestāde par to nekavējoties informē ārvalsts kompetento iestādi. Šāda informācija anulē agrāk iesniegto lūgumu par soda izpildi.
-(3) Ja pārskatīšanas rezultātā tiesas nolēmums grozīts daļā par soda veidu, mēru vai izpildes nosacījumiem, kompetentā iestāde iesniedz papildinājumu lūgumam par soda izpildi.
-(4) Latvijā pieņemtie amnestijas akti attiecas arī uz personām, kurām sods piespriests Latvijā, bet tiek izpildīts ārvalstī, tāpēc kompetentā iestāde tos nekavējoties nosūta ārvalstīm, kurām iesniegti soda izpildīšanas lūgumi, bet no kurām nav saņemta informācija par izpildes pabeigšanu.
-(5) Notiesāto personu, kurai sods tiek izpildīts ārvalstī, Latvijā var apžēlot likumā paredzētajā kārtībā. Par apžēlošanas akta pieņemšanu kompetentā iestāde nekavējoties informē ārvalsts kompetento iestādi.
+808.pants. Lūguma par soda izpildīšanu iesniegšanas nosacījumi
+(1) Lūguma iesniegšana ārvalstij par Latvijā piespriesta soda izpildīšanu ir iespējama, ja tiesas nolēmums ir stājies spēkā un soda izpildīšana ārvalstī veicinātu notiesātās personas resocializāciju.
+(2) Latvija var lūgt ārvalstij izpildīt Latvijā piespriestu sodu, ja papildus šā panta pirmajā daļā minētajiem nosacījumiem pastāv viens vai vairāki šādi nosacījumi:
+1) ārvalsts ir notiesātā pilsonības valsts vai šajā ārvalstī ir viņa pastāvīgā dzīvesvieta;
+2) ārvalstī atrodas notiesātā īpašums vai ir ienākumi;
+3) ārvalsts ir notiesātā pilsonības valsts, un tā ir izteikusi gatavību veicināt personas resocializāciju;
+4) Latvija nespētu izpildīt sodu, pat lūdzot personas izdošanu.
+(3) Pirms lūguma nosūtīšanas Tieslietu ministrija var lūgt ārvalsts viedokli par to, vai nodarījums, par kuru piespriests sods, ir noziedzīgs arī saskaņā ar šīs ārvalsts likumu.

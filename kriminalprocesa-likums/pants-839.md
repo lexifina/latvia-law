@@ -1,3 +1,3 @@
-839.pants. Krimināltiesiskās sadarbības ietvari
-(1) Krimināltiesiskā sadarbība ar starptautiskajām tiesām notiek tikai attiecībā uz tiem noziedzīgiem nodarījumiem, kas ir šo tiesu kompetencē.
-(2) Latvijas likumos vai starptautiskajos normatīvajos aktos paredzētā personas imunitāte vai speciālie procedūras noteikumi, kurus iespējams saistīt ar izmeklēšanai pakļautās personas ieņemamo amatu, nevar būt šķērslis starptautiskās tiesas realizētai jurisdikcijai pār šo personu.
+839.pants. Latvijā pieņemtā nolēmuma par mantas konfiskāciju izpildīšanas izbeigšana
+(1) Ja tiesa atceļ Latvijā pieņemto nolēmumu par mantas konfiskāciju, tā informē Tieslietu ministriju, kas nekavējoties informē attiecīgo Eiropas Savienības dalībvalsti par Latvijā pieņemtā tiesas nolēmuma par mantas konfiskāciju atcelšanu.
+(2) Tieslietu ministrija nekavējoties informē attiecīgo Eiropas Savienības dalībvalsti par Latvijā pieņemtajiem amnestijas un apžēlošanas aktiem.

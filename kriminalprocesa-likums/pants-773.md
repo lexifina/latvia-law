@@ -1,3 +1,6 @@
-773.pants. Lūgums nodrošināt soda izciešanu aizbēgušai personai
-(1) Kompetentā iestāde var iesniegt ārvalstij lūgumu nodrošināt soda izciešanu ārvalstī šīs valsts pilsonim, kas notiesāts Latvijā un aizbēdzis no soda izciešanas uz savas pilsonības valsti. Notiesātās personas piekrišana nav nepieciešama.
-(2) Pirms lūguma iesniegšanas kompetentā iestāde var pieprasīt, lai ārvalsts kompetentā iestāde piemēro personai pagaidu apcietinājumu, norādot notiesātās personas datus, nodarījumu, par kuru noteikts sods, piemēroto soda veidu un mēru, kā arī laiku, kad uzsākta soda izciešana.
+773.pants. Izraidīšanai pakļautās personas pārņemšanas juridiskās sekas
+(1) Izraidīšanai pakļauto personu, kura pārņemta soda izciešanai Latvijā bez tās piekrišanas, nedrīkst saukt pie kriminālatbildības, tiesāt vai nodot soda izciešanai par citiem nodarījumiem, kas izdarīti pirms šīs personas pārņemšanas, izņemot tos nodarījumus, par kuriem pieņemts izpildāmais spriedums.
+(2) Šā panta pirmās daļas nosacījumi neattiecas uz gadījumiem, kad:
+1) saņemta sodu piespriedušās ārvalsts atļauja kriminālvajāšanai, tiesāšanai vai soda izpildīšanai;
+2) persona pēc atbrīvošanas 45 dienu laikā nav atstājusi Latviju;
+3) persona ir atstājusi Latviju un atkal tajā atgriezusies.

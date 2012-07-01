@@ -1,6 +1,4 @@
-779.pants. Ārvalstī piespriesta soda izpildīšanas pamats
-Ārvalstī piespriesta soda izpildīšanas pamats ir:
-1) šīs ārvalsts kompetentās iestādes rakstveida lūgums, kam pievienots spēkā stājies tiesas nolēmums pabeigtā kriminālprocesā un dokuments par soda nodošanu izpildei vai apliecinātas to kopijas;
-2) kompetentās iestādes lēmums par ārvalsts lūguma pieņemšanu izskatīšanai un nodošanu tiesai Latvijā izpildāmā soda noteikšanai;
-3) Latvijas tiesas nolēmums par Latvijā izpildāmā soda noteikšanu;
-4) Latvijas tiesas izdots rīkojums par sprieduma nodošanu izpildei Latvijā.
+779.pants. Eiropas Savienības dalībvalstī pieņemta nolēmuma par brīvības atņemšanas sodu atzīšana un izpildīšana
+(1) Rajona (pilsētas) tiesas tiesnesis pieņem lēmumu par nolēmuma par brīvības atņemšanas sodu atzīšanu un izpildīšanu šā likuma 759.pantā minētajā kārtībā un Latvijā izpildāmo sodu nosaka šā likuma 760.pantā minētajā kārtībā.
+(2) Tiesa var atlikt lēmuma pieņemšanu par nolēmuma par brīvības atņemšanas sodu atzīšanu un izpildīšanu, ja īpašas formas apliecinājums ir nepilnīgs vai neatbilst spriedumam, un noteikt termiņu, līdz kuram šis apliecinājums Eiropas Savienības dalībvalstij ir jāprecizē. Tiesa var atlikt lēmuma pieņemšanu par nolēmuma par brīvības atņemšanas sodu atzīšanu un izpildīšanu arī šā likuma 782.pantā minētajā gadījumā, ja ir nepieciešams lūgt Eiropas Savienības dalībvalsts piekrišanu.
+(3) Eiropas Savienības dalībvalstī notiesātās personas pārņemšana notiek šā likuma 768.pantā noteiktajā kārtībā.

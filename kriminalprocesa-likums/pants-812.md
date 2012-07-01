@@ -1,4 +1,3 @@
-812.pants. Kompetentās iestādes ārvalsts lūguma izskatīšanā
-(1) Pirmstiesas procesā ārvalsts lūgumu izskata un izlemj Ģenerālprokuratūra, bet līdz kriminālvajāšanas uzsākšanai - arī Valsts policija.
-(2) Pēc lietas nodošanas tiesai ārvalsts lūgumu izskata un izlemj Tieslietu ministrija.
-(3) Ja valstis vai to kompetentās iestādes ir vienojušās par tiešo sazināšanos, lūgumus izskata un izlemj attiecīgās iestādes.
+812.pants. Informācija, ko sniedz Tieslietu ministrija
+(1) Ja ir nosūtīts lūgums par soda izpildīšanu ārvalstī un ir saņemta šīs ārvalsts piekrišana, Tieslietu ministrija informē par to iesnieguma iesniedzēju un tiesu, kura kontrolē sprieduma pilnīgu izpildīšanu, notiesāto, kā arī viņa pārstāvi gadījumos, kad šis pārstāvis ir iesniedzis lūgumu.
+(2) Pēc ārvalsts informācijas saņemšanas par soda izciešanas beigām Tieslietu ministrija informē par to tiesu un soda izpildīšanas iestādi.

@@ -1,4 +1,7 @@
-818.pants. Piespiedu līdzekļu piemērošana
-Latvija var atteikt piespiedu līdzekļa piemērošanu par nodarījumu, kas Latvijā nav krimināli sodāms, ja:
-1) ar lūguma iesniedzēju valsti tai nav līguma par savstarpēju tiesisko palīdzību krimināllietās;
-2) šāds līgums ir, bet ārvalsts tajā apņēmusies piemērot piespiedu līdzekļus tikai par savā valstī krimināli sodāmiem nodarījumiem.
+818.pants. Notiesātā piekrišana brīvības atņemšanas soda izpildīšanai ārvalstī
+(1) Ja notiesātais izcieš brīvības atņemšanas sodu Latvijā, ārvalstij var lūgt, lai tā izpilda brīvības atņemšanas sodu, ja tam piekrīt notiesātais.
+(2) Ja ir saņemts notiesātā pārstāvja vai ārvalsts lūgums par brīvības atņemšanas soda izpildīšanas nodošanu šai ārvalstij un šim lūgumam rakstveidā nav pievienota notiesātā vēlēšanās izciest sodu ārvalstī, Tieslietu ministrija 10 dienu laikā iepazīstina notiesāto ar šo lūgumu, izskaidro viņam nodošanas juridiskās sekas un aicina izteikt savu attieksmi pret saņemto lūgumu. Personas piekrišanu vai atteikšanos noformē rakstveidā, un notiesātais to apliecina ar savu parakstu.
+(3) Ja ārvalsts izteikusi tādu vēlēšanos, Tieslietu ministrija nodrošina iespēju ārvalsts pārstāvim, par kuru abas valstis ir vienojušās, pārbaudīt apstākļus, kādos notiesātais devis piekrišanu.
+(4) Ja notiesātais izcieš brīvības atņemšanas sodu Latvijā, Latvija un ārvalsts var vienoties par šā notiesātā nodošanu bez viņa piekrišanas, ja ir pamats uzskatīt, ka, ņemot vērā šīs personas vecumu vai fizisko vai garīgo stāvokli, nodošana soda izciešanai ir nepieciešama un ja tai piekrīt notiesātā pārstāvis.
+(5) Ar brīvības atņemšanas sodu notiesātā piekrišana nav nepieciešama, ja viņš aizbēdzis no soda izciešanas uz savas pilsonības valsti.
+(6) Ar brīvības atņemšanas sodu Latvijā notiesātā piekrišana nav nepieciešama, ja spriedumā kā papildsods noteikta izraidīšana no Latvijas vai ir cits šim notiesātajam saistošs lēmums, kura rezultātā viņam netiek atļauts palikt Latvijā pēc soda izciešanas. Lūgumam pievieno sprieduma vai lēmuma par notiesātā izraidīšanu kopiju un viņa viedokli par nodošanu.

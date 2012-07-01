@@ -1,5 +1,3 @@
-749.pants. Pamats personas pārņemšanai soda izciešanai
-(1) Pamats tam, lai ārvalstī notiesātā persona, kurai piespriests ar brīvības atņemšanu saistīts sods, tiktu pārņemta soda izciešanai Latvijā, ir:
-1) Latvijas kompetentās iestādes lūgums nodot notiesāto personu (turpmāk arī - personas pārņemšanas lūgums) un ārvalsts kompetentās iestādes piekrišana tam;
-2) ārvalsts kompetentās iestādes lūgums pārņemt notiesāto personu un Latvijas kompetentās iestādes piekrišana tam.
-(2) Kompetentā iestāde veic šajā nodaļā paredzētās darbības, ja ir saņemts notiesātās personas vai tās pārstāvja lūgums, ārvalsts kompetentās iestādes informācija vai lūgums vai arī pēc savas iniciatīvas.
+749.pants. Ārvalstī piespriesta soda izpildīšanas saturs
+(1) Ārvalstī piespriesta soda izpildīšana Latvijā ir šā soda pamatotības un tiesiskuma bezstrīdus atzīšana un izpildīšana tādā pašā kārtībā kā tad, ja sods būtu noteikts Latvijā notikušā kriminālprocesā.
+(2) Ārvalstī piespriesta soda pamatotības un tiesiskuma atzīšana neizslēdz tā saskaņošanu ar Krimināllikumā paredzēto sankciju par tādu pašu nodarījumu.

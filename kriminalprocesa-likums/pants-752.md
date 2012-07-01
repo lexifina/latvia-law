@@ -1,3 +1,3 @@
-752.pants. Personas pārņemšanas lūguma pārbaude
-(1) Kompetentā iestāde pēc tam, kad saņēmusi notiesātās personas, tās pārstāvja vai ārvalsts lūgumu pārņemt šo personu soda izciešanai Latvijā, uzsāk saņemtā lūguma pārbaudi.
-(2) Ja saņemtajos materiālos nav pietiekamas informācijas, lai izlemtu jautājumu par notiesātās personas pārņemšanu, kompetentā iestāde var pieprasīt papildu informāciju.
+752.pants. Soda izpildīšanas noilgumi
+(1) Ārvalstī piespriesta soda izpildīšanu Latvijā ierobežo gan Krimināllikumā paredzētie soda izpildīšanas noilgumi, gan attiecīgās ārvalsts likumos paredzētie soda izpildīšanas noilgumi.
+(2) Apstākļi, kas ietekmē noilgumu tecējumu ārvalstī, tādā pašā mērā to ietekmē arī Latvijā.

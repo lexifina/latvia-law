@@ -1,10 +1,10 @@
-760.pants. Ārvalstī notiesātās aizbēgušas personas pārņemšana
-(1) Ja Latvijas pilsonis ir notiesāts ārvalstī, aizbēdzis no soda izciešanas tajā un ieradies Latvijā un šī ārvalsts ir pieprasījusi viņu pārņemt un nodrošināt soda izciešanu Latvijā, notiesātās personas piekrišana nav nepieciešama.
-(2) Pirms lūguma saņemšanas vai izlemšanas kompetentā iestāde var iesniegt ierosinājumu izmeklēšanas tiesnesim šā panta pirmajā daļā minētajai personai piemērot pagaidu apcietinājumu, ja:
-1) līdz ārvalsts lūguma saņemšanai vai lēmuma pieņemšanai šajā lietā ir saņemts ārvalsts pieprasījums piemērot pagaidu apcietinājumu;
-2) ārvalsts pieprasījumā ir informācija par notiesāto personu, minēti tie fakti, pēc kuriem noteikts sods, norādīts soda veids un mērs, kā arī soda izciešanas uzsākšanas laiks.
-(3) Lai nodrošinātu personas ierašanos tiesā, kompetentā iestāde var uzdot policijai šo personu aizturēt un nogādāt tiesā.
-(4) Personu no pagaidu apcietinājuma atbrīvo, ja:
-1) ārvalsts 18 dienu laikā no personas aizturēšanas dienas nav iesniegusi lūgumu pārņemt šo personu un nodrošināt tai piespriestā soda izciešanu Latvijā;
-2) ārvalsts lūgums pārņemt notiesāto personu ir motivēti noraidīts.
-(5) Šajā pantā minēto ārvalsts lūgumu pārņemt personu un nodrošināt tai piespriestā soda izciešanu Latvijā var noraidīt tikai tad, ja nepastāv neviens no šā likuma 751.pantā minētajiem nosacījumiem.
+760.pants. Latvijā izpildāmā soda noteikšana
+(1) Pēc šā likuma 759.panta pirmās daļas 1.punktā minētā lēmuma pieņemšanas tiesnesis Latvijā izpildāmo sodu nosaka rakstveida procesā, ja pret to neiebilst ārvalstī notiesātā persona un prokurors.
+(2) Ārvalsts tiesas nolēmumā konstatētie faktiskie apstākļi un personas vaina ir saistoši Latvijas tiesai.
+(3) Latvijā noteiktais sods nedrīkst pasliktināt ārvalstī notiesātās personas stāvokli, taču tam pēc iespējas jāatbilst attiecīgajā ārvalstī noteiktajam sodam.
+(4) Vienlaikus ar paziņojumu par šā likuma 759.panta pirmās daļas 1.punktā minēto lēmumu tiesnesis informē ārvalstī notiesāto personu un prokuroru par tiesībām 10 dienu laikā no paziņojuma saņemšanas dienas iesniegt iebildumus pret Latvijā izpildāmā soda noteikšanu rakstveida procesā, pieteikt noraidījumu tiesnesim, iesniegt viedokli par Latvijā izpildāmo sodu, kā arī par lēmuma pieejamības dienu.
+(5) Ja ārvalstī notiesātā persona izcieš brīvības atņemšanas sodu lūguma iesniedzējā valstī, tad attiecīgo personu par šā panta ceturtajā daļā minētajām tiesībām informē nekavējoties pēc tās nogādāšanas Latvijā.
+(6) Ja ārvalstī notiesātā persona vai prokurors ir iesniedzis iebildumus pret Latvijā izpildāmā soda noteikšanu rakstveida procesā, tiesnesis pieņem lēmumu šā likuma 651.panta kārtībā. Ja ārvalstī notiesātā persona atrodas apcietinājumā šajā ārvalstī vai izcieš ar brīvības atņemšanu saistīto sodu attiecīgajā ārvalstī un tiek lemts jautājums par Latvijā izpildāmā soda, kas nav saistīts ar brīvības atņemšanu, noteikšanu, līdzdalības nodrošināšanai izmanto tehniskos līdzekļus vai pieprasa personas nodošanu Latvijai uz laiku.
+(7) Tiesneša lēmumu par Latvijā izpildāmā soda noteikšanu ārvalstī notiesātā persona vai prokurors 10 dienu laikā no lēmuma pieejamības dienas var pārsūdzēt Augstākās tiesas Senātam kasācijas kārtībā.
+(8) Sūdzību izskata tādā pašā kārtībā kā kasācijas sūdzību vai protestu, kas iesniegts Latvijā notiekošajā kriminālprocesā, un tādā apjomā, kādu pieļauj Latvijai saistoši starptautiskie līgumi un šī nodaļa.
+(9) Ja tiesneša lēmums par Latvijā izpildāmā soda noteikšanu likumā noteiktajā laikā nav pārsūdzēts vai lēmums pārsūdzēts un Augstākās tiesas Senāts to atstājis spēkā, lēmumu izpilda šā likuma 634.pantā minētajā kārtībā. Lēmumam pievieno ārvalsts lūgumu.

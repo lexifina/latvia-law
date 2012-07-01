@@ -1,3 +1,2 @@
-796.pants. Ārvalsts materiālu izmantošana
-(1) Tiesa, kurai piekrīt ārvalstī aizmuguriski notiesātās personas sūdzības izskatīšana, ar kompetentās iestādes starpniecību pieprasa nepieciešamos ārvalsts rīcībā esošos ar nodarījuma iztiesāšanu saistītos materiālus.
-(2) Pierādījumi, kas iegūti ārvalstī tajā noteiktajā procesuālajā kārtībā, vērtējami tāpat kā Latvijā iegūtie.
+796.pants. Nolēmuma par mantas konfiskāciju pārbaudes kārtība
+Tieslietu ministrija, saņēmusi nolēmumu par mantas konfiskāciju, izskata to šā likuma 754.pantā noteiktajā kārtībā un materiālus nosūta tiesai, par to informējot Eiropas Savienības dalībvalsti.

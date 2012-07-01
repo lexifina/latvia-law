@@ -1,1 +1,1 @@
-69.nodaļa. Ārvalstī notiesātās personas pārņemšana soda izciešanai Latvijā
+69.nodaļa. Vispārīgie noteikumi ārvalstī piespriesta soda izpildīšanai Latvijā

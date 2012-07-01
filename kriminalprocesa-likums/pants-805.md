@@ -1,9 +1,9 @@
-805.pants. Latvijā piespriesta soda izpildīšanas lūgums
-(1) Latvijā piespriesta soda izpildīšanas lūgumā papildus šā likuma 678.pantā norādītajam jāmotivē, ka pastāv nosacījumi un iemesli soda izpildīšanai ārvalstī.
-(2) Lūgumam pievieno:
-1) tiesas nolēmuma oriģinālu vai apliecinātu kopiju;
-2) rīkojuma par sprieduma nodošanu izpildei oriģinālu vai apliecinātu kopiju;
-3) inkriminētā Latvijas Krimināllikuma panta tekstu.
-(3) Pēc ārvalsts pieprasījuma iesniedz tai krimināllietu vai tajā esošo dokumentu apliecinātas kopijas.
-(4) Ja sods noteikts par vairākiem nodarījumiem vai pēc vairākiem spriedumiem, bet ne visi nodarījumi pieļauj piespriestā soda izpildi ārvalstī, kompetentā iestāde ierosina tiesai noteikt sodu, kas būtu jāizcieš par nodarījumiem, par kuriem soda izpilde ārvalstī ir iespējama. Tiesa sodu nosaka šā likuma trīspadsmitajā sadaļā paredzētajā kārtībā.
-(5) Latvijā pieņemto nolēmumu par mantas konfiskāciju vienlaikus var nosūtīt vairākām ārvalstīm, ja īpašumi atrodas dažādās ārvalstīs vai konfiskācija ir saistīta ar darbībām vairākās ārvalstīs. Nosūtot vairākus nolēmumus par mantas konfiskāciju, kompetentā iestāde informē par to visas ārvalstis, kuras ir iesaistītas nolēmuma izpildē.
+805.pants. Latvijā izpildāmās alternatīvās sankcijas noteikšana
+(1) Rajona (pilsētas) tiesas tiesnesis pieņem lēmumu par nolēmuma par alternatīvo sankciju atzīšanu un izpildīšanu, ievērojot šā likuma 759. un 760.pantā minētos nosacījumus un kārtību.
+(2) Nolēmumā par alternatīvo sankciju konstatētie faktiskie apstākļi un personas vaina ir saistoši Latvijas tiesai.
+(3) Eiropas Savienības dalībvalstī piemēroto alternatīvo sankciju, kura atbilst Krimināllikumā noteiktajai alternatīvajai sankcijai, nosaka, negrozot soda vai probācijas pasākuma veidu un mēru.
+(4) Ja Eiropas Savienības dalībvalstī piemērotā alternatīvā sankcija neatbilst Krimināllikumā noteiktajai alternatīvajai sankcijai, tiesa to nosaka, grozot atbilstoši sodam vai probācijas pasākumam, ko par tādu pašu noziedzīgu nodarījumu paredz Krimināllikums, ievērojot šādus nosacījumus:
+1) alternatīvajai sankcijai pēc iespējas jāatbilst nolēmumā par alternatīvo sankciju noteiktajam;
+2) alternatīvās sankcijas ilgums un tiesību ierobežojums nedrīkst pārsniegt Krimināllikumā noteikto maksimālo sodu vai probācijas pasākumu par tādu pašu nodarījumu, kā arī nedrīkst būt bargāks vai smagāks par nolēmumā noteikto alternatīvo sankciju;
+3) Krimināllikumā noteiktajai soda minimālajai robežai nav nozīmes.
+(5) Tiesa ar Tieslietu ministrijas starpniecību informē attiecīgo Eiropas Savienības dalībvalsti par šā panta ceturtajā daļā pieņemto lēmumu.

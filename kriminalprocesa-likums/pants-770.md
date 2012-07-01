@@ -1,8 +1,8 @@
-770. pants. Ārvalsts informēšana
-(1) Ja ir saņemts notiesātās personas lūgums vai piekrišana tās pārstāvja iesniegtajam lūgumam par šīs personas nodošanu soda izciešanai ārvalstī, kompetentā iestāde pēc šā panta otrajā daļā minētās informācijas saņemšanas nekavējoties par šo lūgumu informē ārvalsti.
-(2) Informācijā ārvalstij norāda:
-1) notiesātās personas vārdu, uzvārdu, dzimšanas vietu un laiku;
-2) notiesātās personas adresi šajā ārvalstī, ja tāda adrese ir;
-3) nodarījumu, par kuru noteikts sods;
-4) soda veidu un mēru, kā arī laiku, kad uzsākta soda izciešana.
-(3) Vienlaikus ar informāciju kompetentā iestāde ārvalstij var nosūtīt lūgumu pārņemt personu soda izciešanai šajā ārvalstī, ja sākotnējos materiālos nav konstatēti fakti, kas nepieļautu personas nodošanu. Šādā gadījumā lūgumā norādāms, ka tas ir spēkā ar nosacījumu, ka šādi fakti nav konstatēti arī ārvalstī.
+770.pants. Ārvalstī notiesātās personas aizturēšana
+(1) Tieslietu ministrija var uzdot policijai aizturēt uz laiku līdz 72 stundām ārvalstī notiesāto personu, kura tajā notiesāta par tādu nodarījumu, par kādu būtu pieļaujama apcietināšana Latvijā notiekošajā procesā, ja:
+1) ārvalsts paziņo par savu nodomu lūgt tajā piespriestā brīvības atņemšanas soda izpildīšanu un lūdz apcietināt personu sakarā ar tās izvairīšanos no soda;
+2) Tieslietu ministrija saskata iespēju, ka ārvalstī notiesātā persona, par kuru šī ārvalsts iesniegusi lūgumu par tajā piespriestā brīvības atņemšanas soda izpildīšanu, izvairīsies no piedalīšanās tiesas sēdē par Latvijā izpildāmā soda noteikšanu;
+3) Tieslietu ministrija uzskata, ka prombūtnē (in absentia) notiesātais, atrazdamies brīvībā, traucēs kriminālprocesu;
+4) ārvalsts lūdz izpildīt tajā piespriesto brīvības atņemšanas sodu un apcietināt personu sakarā ar tās izvairīšanos no soda.
+(2) Aizturētā persona atbrīvojama, ja šā panta pirmajā daļā minētajā termiņā tai nav piemērots pagaidu apcietinājums.
+(3) Ja persona ir aizturēta šā panta pirmās daļas 1.punktā minētajā gadījumā, Tieslietu ministrija nekavējoties par to informē ārvalsti un lūdz nosūtīt lūgumu par tajā piespriestā brīvības atņemšanas soda izpildīšanu Latvijā 18 dienu laikā no personas aizturēšanas dienas.

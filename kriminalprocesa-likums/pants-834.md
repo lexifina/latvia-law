@@ -1,6 +1,5 @@
-834.pants. Ārvalsts piekomandētais dalībnieks apvienotajā izmeklēšanas grupā
-(1) Latvijā notiekošā kriminālprocesā piekomandētais apvienotās izmeklēšanas grupas dalībnieks ir citas dalībvalsts pārstāvis šajā grupā.
-(2) Apvienotajā izmeklēšanas grupā var iekļaut arī starpvalstu organizācijas darbinieku, ja viņam šādas tiesības būtu vienā no dalībvalstīm.
-(3) Piekomandētais dalībnieks var Latvijā patstāvīgi veikt vadītāja uzdotās procesuālās darbības.
-(4) Procesuālās darbības valstī, kuru pārstāv piekomandētais dalībnieks, viņš veic savu pilnvaru ietvaros un vadītāja noteiktajā apjomā.
-(5) Ja nepieciešama trešās valsts tiesiskā palīdzība tajā kriminālprocesa daļā, kuras veikšana uzdota piekomandētajam dalībniekam, tiesiskās palīdzības lūgumus viņš iesniedz savā valstī noteiktajā kārtībā.
+834.pants. Nolēmuma par mantiska rakstura piedziņu nosūtīšana izpildīšanai Eiropas Savienības dalībvalstij
+(1) Ja nav iespējams izpildīt Latvijā pieņemto nolēmumu par mantiska rakstura piedziņu, jo notiesātā dzīvesvieta (juridiskajai
+personai - reģistrētā juridiskā adrese), tam piederošais īpašums vai tā ienākumi ir citā Eiropas Savienības dalībvalstī, tiesa vai prokurors nolēmumu par mantiska rakstura piedziņu kopā ar īpašas formas apliecinājumu nosūta Tieslietu ministrijai.
+(2) Tieslietu ministrija nodrošina īpašas formas apliecinājuma tulkojumu, sagatavo informāciju par Krimināllikumā noteikto noilguma termiņa tecējumu un nosūta minētos dokumentus attiecīgajai Eiropas Savienības dalībvalstij.
+(3) Tieslietu ministrija visus materiālus vienlaikus nosūta tikai vienai Eiropas Savienības dalībvalstij.

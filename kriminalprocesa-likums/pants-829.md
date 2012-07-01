@@ -1,3 +1,3 @@
-829.pants. Uz Latviju uzaicinātas personas imunitāte
-(1) Pret personu, kas Latvijā ieradusies pēc Latvijas iestādes uzaicinājuma procesuālo darbību veikšanai, nedrīkst uzsākt vai turpināt kriminālprocesu par noziedzīgu nodarījumu, kas izdarīts pirms šīs ierašanās.
-(2) Šā panta pirmajā daļā noteiktā imunitāte personai izbeidzas pēc 15 dienām no brīža, kad tā varēja atstāt Latviju, kā arī gadījumā, ja persona ir atstājusi Latviju un pēc tam brīvprātīgi atgriezusies.
+829.pants. Notiesātā nodošana
+(1) Ja Eiropas Savienības dalībvalsts ir piekritusi soda izpildīšanai, Tieslietu ministrija uzdod Valsts policijai, vienojoties ar attiecīgo Eiropas Savienības dalībvalsti, ne vēlāk kā 30 dienu laikā no dienas, kad šī dalībvalsts pieņēmusi galīgo lēmumu par sprieduma atzīšanu un soda izpildīšanu, nodot personu tai.
+(2) Ja pastāv neparedzēti apstākļi, kas kavē vai nepieļauj personas nodošanu, Valsts policija sazinās ar Eiropas Savienības dalībvalsti. Notiesātā nodošana notiek, kad vairs nepastāv neparedzētie apstākļi, bet ne vēlāk kā 10 dienu laikā no dienas, kad panākta jauna vienošanās.

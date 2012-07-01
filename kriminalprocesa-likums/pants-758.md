@@ -1,6 +1,7 @@
-758.pants. Juridiskās sekas, kādas rada personas pārņemšana soda izciešanai
-(1) Noteiktā soda izpilde notiek tādā pašā kārtībā kā Latvijā notikušā kriminālprocesā piespriesta soda izpilde.
-(2) Uz notiesāto personu attiecas Latvijā pieņemtie apžēlošanas un amnestijas akti un pirmstermiņa atbrīvošanas nosacījumi, kā arī attiecīgās ārvalsts lēmumi par soda samazināšanu, amnestiju vai apžēlošanu.
-(3) Tiesības pārskatīt spriedumu ir tikai valstij, kurā taisīts spriedums.
-(4) Soda izpildi pārtrauc un personu atbrīvo, ja valsts, kurā persona tika notiesāta, informē Latviju par notiesājošā sprieduma atcelšanu, izņemot šajā likuma daļā paredzētos gadījumus, kad kopā ar informāciju saņemts lūgums par pagaidu apcietinājuma piemērošanu.
-(5) Kompetentā iestāde organizē ārvalsts paziņojuma izpildi attiecībā uz lēmumiem vai faktiem, kas ietekmē turpmāko soda izciešanu. Ja saņemta nepārprotama informācija par soda izpildīšanas tūlītēju izbeigšanu vai beigu datumu, to nodod soda izpildes iestādei. Pārējos gadījumos to nodod izskatīšanai tiesai, kas izlemj ar sprieduma izpildi saistītos jautājumus.
+758.pants. Ārvalstī ārpustiesas kārtībā noteiktā soda (ordonnance penale) izpildīšanas lūguma izskatīšanas kārtība
+(1) Starptautiskajos līgumos paredzētajos gadījumos ārvalstī ārpustiesas kārtībā noteikto sodu Latvijā izpilda tādā pašā kārtībā kā iztiesāšanas rezultātā piespriesto sodu.
+(2) Saņēmusi lūgumu par ārpustiesas kārtībā noteiktā soda izpildīšanu Latvijā, tiesa izsniedz personai, kurai ārvalstī noteikts sods, paziņojumu, kurā norāda, ka:
+1) lūgumu par ārvalstī piespriestā soda izpildīšanu iesniegusi tā ārvalsts, ar kuru Latvijai ir līgums par otrā valstī ārpustiesas kārtībā noteiktā soda izpildīšanu;
+2) 30 dienu laikā, iesniedzot pieteikumu Latvijas kompetentajai iestādei, persona var pieprasīt lietas izskatīšanu tiesā ārvalstī vai Latvijā;
+3) sods tiks pielīdzināts un izpildīts vispārējā kārtībā, ja 30 dienu laikā netiks pieprasīta lietas izskatīšana tiesā personas klātbūtnē vai pieteikums tiks noraidīts sakarā ar tās neierašanos.
+(3) Pieteikumam par ārpustiesas kārtībā noteiktā soda izskatīšanu tiesā ir tādas pašas sekas un turpmākā izskatīšanas kārtība kā pieteikumam, ja sods piespriests ārvalstī notiesātās personas prombūtnē (in absentia).

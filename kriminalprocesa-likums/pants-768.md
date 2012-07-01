@@ -1,3 +1,3 @@
-768.pants. Personas lūgums par nodošanu soda izciešanai
-(1) Notiesātā persona savu lūgumu par nodošanu soda izciešanai ārvalstī rakstveidā iesniedz kompetentajai iestādei.
-(2) Kompetentā iestāde nekavējoties rakstveidā informē notiesāto personu par paziņojuma nosūtīšanu ārvalstij un par lūguma izskatīšanas rezultātiem.
+768.pants. Ārvalstī notiesātās personas pārņemšana
+(1) Pieņēmusi šā likuma 759.panta pirmās daļas 1.punktā minēto lēmumu un saņēmusi ārvalsts piekrišanu nodot šajā ārvalstī notiesāto personu brīvības atņemšanas soda izciešanai Latvijā, tiesa uzdod Valsts policijai, saskaņojot ar attiecīgo ārvalsti, pārņemt personu. Pēc ārvalstī notiesātās personas nogādāšanas Latvijā par to nekavējoties paziņo tiesai un personu ievieto izmeklēšanas cietumā, līdz tiek pieņemts lēmums par Latvijā izpildāmā soda noteikšanu.
+(2) Ārvalstī notiesāto personu, kurai šī ārvalsts lūdz noteikt medicīniska rakstura piespiedu līdzekli, pārņem pēc tam, kad pieņemts lēmums par medicīniska rakstura piespiedu līdzekļu noteikšanu saskaņā ar šā likuma 769.panta piekto daļu.

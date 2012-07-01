@@ -1,3 +1,0 @@
-801.⁴ pants. Nolēmuma par mantiska rakstura piedziņu pārbaudes kārtība
-(1) Tieslietu ministrija, saņēmusi nolēmumu par mantiska rakstura piedziņu, 10 dienu laikā noskaidro, vai nepastāv šā likuma 801.³ panta pirmās daļas 1., 2., 8. un 10.punktā norādītie iemesli (ja nepieciešams, pieprasa papildu informāciju), un izvērtētos materiālus nosūta tiesai.
-(2) Tiesa, saņēmusi nolēmumu par mantiska rakstura piedziņu un tam pievienotos izvērtētos materiālus, noskaidro, vai nepastāv šā likuma 801.³ pantā minētie atteikuma iemesli, un lemj par Latvijā izpildāmo mantiska rakstura piedziņu vai arī par atteikšanos izpildīt nolēmumu. Ja nepieciešams, tiesa var pieprasīt papildu informāciju no Eiropas Savienības dalībvalsts, kura pieņēmusi nolēmumu par mantiska rakstura piedziņu.

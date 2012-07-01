@@ -1,7 +1,8 @@
-792.pants. Ārvalstī aizmuguriski (in absentia) piespriesta soda izpildīšanas lūguma izskatīšanas kārtība
-(1) Ja spriedums ārvalstī taisīts aizmuguriski, kompetentā iestāde, saņēmusi ārvalsts lūgumu par tā izpildīšanu Latvijā, izsniedz notiesātajam paziņojumu, kurā norāda, ka:
-1) lūgumu par soda izpildīšanu iesniegusi ārvalsts, ar kuru Latvijai ir līgums par otrā valstī aizmuguriski piespriesta soda izpildīšanu;
-2) personai ir tiesības 30dienu laikā no paziņojuma saņemšanas dienas iesniegt sūdzību ar prasību par aizmuguriski iztiesātās lietas izskatīšanu tās klātbūtnē ārvalstī vai Latvijā;
-3) sods tiks pielīdzināts un izpildīts vispārējā kārtībā, ja 30 dienu laikā netiks pieprasīta lietas izskatīšana notiesātā klātbūtnē vai sūdzība tiks noraidīta vai atstāta bez izskatīšanas sakarā ar notiesātā neierašanos.
-(2) Šā panta pirmajā daļā paredzēto sūdzību notiesātais iesniedz Latvijas kompetentajai iestādei. Ja sūdzībā nav norādīta izskatīšanas valsts, to izskata Latvijā.
-(3) Paziņojuma kopiju ar atzīmi par tā izsniegšanu notiesātajam Tieslietu ministrija nekavējoties nosūta lūguma iesniedzējai valstij.
+792.pants. Nosacījumi attiecībā uz mantas konfiskācijas rezultātā iegūto naudas līdzekļu vai mantas sadali ar ārvalstīm
+(1) Lūgumu par mantas konfiskācijas rezultātā iegūto naudas līdzekļu vai mantas sadali katrā konkrētā gadījumā izlemj Tieslietu ministrija.
+(2) Izskatot lūgumu par mantas konfiskācijas rezultātā iegūto naudas līdzekļu sadali, ņem vērā iegūto naudas līdzekļu apmēru, ar noziedzīgo nodarījumu radīto kaitējumu un cietušo atrašanās vietu.
+(3) Ja mantas konfiskācijas rezultātā iegūtie naudas līdzekļi nav lielāki par 10 000 euro ekvivalentu latos (pārrēķinot saskaņā ar Latvijas Bankas noteikto valūtas kursu, kāds bija spēkā nolēmuma par mantas konfiskāciju pasludināšanas dienā), Tieslietu ministrija pieņem lēmumu par atteikumu pārskaitīt naudas līdzekļus ārvalstij. Ja mantas konfiskācijas rezultātā iegūtie naudas līdzekļi ir lielāki par 10 000 euro ekvivalentu latos (pārrēķinot saskaņā ar Latvijas Bankas noteikto valūtas kursu, kāds bija spēkā nolēmuma par mantas konfiskāciju pasludināšanas dienā), Tieslietu ministrija, konsultējoties ar ārvalsti, pieņem lēmumu pārskaitīt šai ārvalstij ne vairāk kā pusi no naudas līdzekļiem vai tās lūgumā noteikto summu.
+(4) Tieslietu ministrija, konsultējusies ar ārvalsti, var pieņemt lēmumu par citādu naudas līdzekļu sadali, kas nav minēta šā panta trešajā daļā un kas nekaitē Latvijas finansiālajām interesēm. Konsultācijās ņem vērā šā panta otrās daļas nosacījumus.
+(5) Pēc ārvalsts lūguma Tieslietu ministrija var pieņemt lēmumu par mantas konfiskācijas rezultātā iegūtās mantas atdošanu šai ārvalstij.
+(6) Tieslietu ministrija atsaka lūgumu par mantas konfiskācijas rezultātā iegūto naudas līdzekļu vai mantas sadali, ja lūgums saņemts pēc viena gada no dienas, kad nosūtīts paziņojums par nolēmuma par mantas konfiskāciju izpildi.
+(7) Kārtību, kādā mantas konfiskācijas rezultātā iegūtos naudas līdzekļus vai mantu sadala ar ārvalstīm un kādā naudas līdzekļus pārskaita, kā arī naudas līdzekļu vai mantas sadales kritērijus nosaka Ministru kabinets.

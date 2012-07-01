@@ -1,7 +1,8 @@
-756.pants. Soda izciešanas turpināšana
-(1) Ārvalsts tiesas noteiktā soda izciešana tiek turpināta bez soda veida un mēra grozīšanas.
-(2) Ja ārvalsts tiesas noteiktais soda veids un mērs neatbilst Latvijas Krimināllikumā noteiktajam sodam par tādu pašu nodarījumu, tiesa to groza atbilstoši sodam, ko par tādu pašu noziedzīgu nodarījumu paredz Latvijas Krimināllikums, ievērojot šādus nosacījumus:
-1) soda veids un mērs nedrīkst pārsniegt Latvijas Krimināllikumā noteikto maksimālo sodu par tādu pašu nodarījumu;
-2) soda veidam un mēram pēc iespējas jāatbilst spriedumā noteiktajam;
-3) Latvijas Krimināllikumā noteiktajai soda minimālajai robežai nav nozīmes.
-(3) Ja ārvalstī persona psihisko traucējumu vai garīgās atpalicības dēļ nav sodīta ar kriminālsodu, bet tai ir piemēroti citi ar brīvības atņemšanu saistīti pasākumi, tiesa lemj par medicīniska rakstura piespiedu līdzekļu noteikšanu šādai personai.
+756.pants. Ārvalstī prombūtnē (in absentia) notiesātās personas pieteikuma iesniegšana attiecīgajai ārvalstij
+(1) Ja ārvalstī prombūtnē (in absentia) notiesātā persona likumā noteiktajā termiņā iesniedz pieteikumu, prasot atkārtoti izskatīt lietu tās klātbūtnē ārvalstī, kura piespriedusi sodu, tiesa atliek šīs ārvalsts lūguma par sodu izpildīšanu izskatīšanu.
+(2) Ja ārvalstī šā panta pirmajā daļā minētais pieteikums ir anulēts, atzīts par spēkā neesošu vai nepieņemamu, tiesa pēc informācijas saņemšanas lūgumu par attiecīgajā ārvalstī piespriesta soda izpildīšanu izskata tādā pašā kārtībā kā tad, ja lieta tiktu izskatīta personas klātbūtnē.
+(3) Ja pieteikuma izskatīšanas rezultātā notiesājošais spriedums tiek atcelts, tiesa ar Tieslietu ministrijas starpniecību ārvalsts lūgumu par soda izpildīšanu neizlemtu nosūta tā iesniedzējai valstij.
+(4) Ja ārvalstī prombūtnē (in absentia) notiesātā persona Latvijā atrodas pagaidu apcietinājumā pēc šīs ārvalsts lūguma, šī persona tiek nodota attiecīgajai ārvalstij pieteikuma izskatīšanai tās klātbūtnē. Šādā gadījumā jautājumu par šīs personas turpmāku turēšanu apcietinājumā izlemj valsts, kura piespriedusi sodu.
+(5) Ja ārvalstī prombūtnē (in absentia) notiesātā persona, kas iesniegusi pieteikumu valstij, kura piespriedusi sodu, Latvijā apcietināta sakarā ar citu kriminālprocesu vai izcieš sodu par citu nodarījumu, tiesa ar Tieslietu ministrijas starpniecību par to informē šo ārvalsti un uzdod Valsts policijai saskaņot laiku, kad personu var nodot attiecīgajai ārvalstij līdzdalībai pieteikuma izskatīšanā.
+(6) Ja ārvalsts likums to pieļauj, šajā ārvalstī prombūtnē (in absentia) notiesātā persona pieteikuma izskatīšanā var piedalīties, izmantojot tehniskos līdzekļus. Līdzdalība, izmantojot tehniskos līdzekļus, neietekmē ārvalstī notiesātās personas procesuālās tiesības šajā ārvalstī notiekošajā procesā. Ja persona juridiskās palīdzības saņemšanai uzaicinājusi ārvalsts advokātu, advokātam ir tiesības tikties ar šo personu konfidenciālos apstākļos Latvijā un kopā ar klientu piedalīties pieteikuma izskatīšanā, izmantojot tehniskos līdzekļus.
+(7) Ārvalsts advokāta uzaicināšana neietekmē šajā ārvalstī prombūtnē (in absentia) notiesātās personas tiesības uz juridisko palīdzību Latvijā.

@@ -1,1 +1,1 @@
-74.nodaļa. Lūgums ārvalstij par procesuālās darbības veikšanu
+74.nodaļa. Ārvalstī piemērotas mantas konfiskācijas izpildīšana Latvijā

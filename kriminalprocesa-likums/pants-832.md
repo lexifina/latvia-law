@@ -1,2 +1,3 @@
-832.pants. Apvienotās izmeklēšanas grupas darbības pamats Latvijā
-Apvienotās izmeklēšanas grupas darbības pamats Latvijā ir šā likuma 831.pantā paredzētās amatpersonas parakstīta vienošanās par Latvijas piedalīšanos šādas grupas izveidošanā.
+832.pants. Nolēmuma par mantas konfiskāciju nosūtīšana izpildīšanai ārvalstī
+(1) Ievērojot šā likuma 76.nodaļā minētos nosacījumus un kārtību, Tieslietu ministrija var lūgt, lai tiek izpildīta Latvijā piemērotā mantas konfiskācija, kas ir noteikta kā pamatsods vai papildsods, vai manta ir konfiscējama uz cita likumā paredzēta pamata (turpmāk - nolēmums par mantas konfiskāciju).
+(2) Latvijā pieņemto nolēmumu par mantas konfiskāciju vienlaikus var nosūtīt vairākām ārvalstīm, ja īpašumi atrodas dažādās ārvalstīs vai konfiskācija ir saistīta ar darbībām vairākās ārvalstīs. Nosūtot vairākus nolēmumus par mantas konfiskāciju, Tieslietu ministrija informē par to visas ārvalstis, kuras ir iesaistītas nolēmuma izpildīšanā.

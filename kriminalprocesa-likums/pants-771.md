@@ -1,6 +1,9 @@
-771.pants. Lūguma par personas nodošanu pārbaude
-(1) Pēc tam, kad saņemts lūgums nodot notiesāto personu soda izciešanai ārvalstī, kompetentā iestāde pārbauda, vai pastāv nosacījumi personas nodošanai.
-(2) Ja saņemtajos materiālos nav pietiekamas informācijas, lai izlemtu jautājumu par nodošanu, kompetentā iestāde ārvalstij papildus var pieprasīt:
-1) dokumentu vai paziņojumu par to, ka notiesātā persona ir šīs valsts pilsonis vai šajā valstī ir tās pastāvīgā dzīvesvieta;
-2) tā likuma tekstu, saskaņā ar kuru nodarījums, par ko persona ir notiesāta, uzskatāms par noziedzīgu šajā valstī.
-(3) Ja nepieciešams, kompetentā iestāde pirms pārbaudes pabeigšanas var pieprasīt, lai ārvalsts paziņo, kura soda noteikšanas procedūra - turpināšana vai mainīšana - tiks piemērota.
+771.pants. Ārvalstī notiesātās personas pagaidu apcietinājums
+(1) Ja persona aizturēta šā likuma 770.pantā noteiktajos gadījumos, Tieslietu ministrija iesniedz ierosinājumu izmeklēšanas tiesnesim piemērot pagaidu apcietinājumu.
+(2) Tiesnesis ierosinājumu par pagaidu apcietinājuma piemērošanu izskata šā likuma 735.pantā noteiktajā kārtībā. Pagaidu apcietinājums nedrīkst pārsniegt vienu gadu no aizturēšanas brīža.
+(3) Pagaidu apcietinājumu var piemērot arī tiesnesis, kurš izskata lūgumu par ārvalstī piespriestā brīvības atņemšanas soda izpildīšanu, ja ir pamats uzskatīt, ka tajā notiesātā persona izvairīsies no tiesas.
+(4) Personu no pagaidu apcietinājuma atbrīvo, ja:
+1) ārvalsts 18 dienu laikā no aizturēšanas dienas nav iesniegusi lūgumu par tajā piespriestā brīvības atņemšanas soda izpildīšanu kopā ar nepieciešamajiem pielikumiem;
+2) tiesa konstatējusi, ka soda izpildīšana Latvijā nav iespējama;
+3) tiesa, nosakot Latvijā izpildāmo sodu, nav piemērojusi kā drošības līdzekli apcietinājumu;
+4) konstatēti apstākļi, kas izslēdz personas turēšanu apcietinājumā.

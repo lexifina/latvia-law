@@ -1,2 +1,3 @@
-824.pants. Priekšmeta nodošana ārvalstij
-Pēc ārvalsts lūguma tai var nodot priekšmetu, kas ir nepieciešams kā lietiskais pierādījums. Ja nepieciešams, Latvijas kompetentā iestāde pieprasa garantijas tam, ka priekšmets tiks atdots.
+824.pants. Notiesātā viedoklis
+(1) Ja notiesātais izcieš brīvības atņemšanas sodu Latvijā un ir saņemts lūgums izpildīt šo sodu Eiropas Savienības dalībvalstī, bet šim lūgumam nav pievienota notiesātā rakstveidā izteikta vēlēšanās izciest sodu attiecīgajā Eiropas Savienības dalībvalstī, Tieslietu ministrija šā likuma 818.pantā minētajā kārtībā un termiņā iepazīstina notiesāto ar šo lūgumu, izskaidrojot viņam nodošanas juridiskās sekas. Personas piekrišanu vai atteikšanos noformē rakstveidā, un notiesātais to apliecina ar savu parakstu.
+(2) Šā panta pirmajā daļā minēto viedokli sniedz notiesātā pārstāvis, ņemot vērā šā notiesātā vecumu vai fizisko vai psihisko stāvokli.

@@ -1,1 +1,1 @@
-70.nodaļa. Latvijā notiesātās personas nodošana soda izciešanai ārvalstī
+70.nodaļa. Ārvalstī piespriesta ar brīvības atņemšanu saistīta soda izpildīšana Latvijā

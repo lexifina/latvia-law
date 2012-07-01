@@ -1,8 +1,5 @@
-793.pants. Sūdzības iesniegšana ārvalstij
-(1) Ja notiesātais likumā noteiktajā termiņā iesniedz sūdzību, prasot atkārtoti izskatīt lietu viņa klātbūtnē valstī, kas piespriedusi sodu, kompetentā iestāde atliek lūguma izskatīšanu.
-(2) Ja apsūdzētais bez attaisnojoša iemesla nav ieradies ārvalstī pēc tiesas uzaicinājuma, kas izsniegts ne vēlāk kā 21 dienu pirms atkārtotās izskatīšanas uzsākšanas dienas, sūdzība tiek atzīta par neiesniegtu un kompetentā iestāde pēc informācijas saņemšanas lūgumu izskata tādā pašā kārtībā kā tad, ja lieta tiktu izskatīta notiesātā klātbūtnē.
-(3) Ja sūdzības izskatīšanas rezultātā notiesājošais spriedums atcelts, kompetentā iestāde lūgumu neizlemtu nosūta tā iesniedzējai valstij.
-(4) Ja aizmuguriski notiesātā persona Latvijā atrodas pagaidu apcietinājumā pēc ārvalsts lūguma, šī persona tiek nodota ārvalstij sūdzības izskatīšanai tās klātbūtnē. Šādā gadījumā jautājumu par šīs personas turpmāku turēšanu apcietinājumā izlemj valsts, kas piespriedusi sodu.
-(5) Ja ārvalstī aizmuguriski notiesātais, kas iesniedzis sūdzību valstij, kura piespriedusi sodu, Latvijā apcietināts sakarā ar citu kriminālprocesu vai izcieš sodu par citu nodarījumu, kompetentā iestāde par to informē lūguma iesniedzēju valsti un saskaņo laiku, kad notiesāto var nodot ārvalstij līdzdalībai sūdzības izskatīšanā.
-(6) Ja ārvalsts likums to pieļauj, notiesātais sūdzības izskatīšanā var piedalīties, izmantojot tehniskos līdzekļus. Līdzdalība, izmantojot tehniskos līdzekļus, neietekmē notiesātā procesuālās tiesības ārvalstī notiekošajā procesā. Ja notiesātais juridiskās palīdzības saņemšanai uzaicinājis ārvalsts advokātu, advokātam ir tiesības tikties ar viņu konfidenciālos apstākļos Latvijā un kopā ar klientu piedalīties sūdzības izskatīšanā, izmantojot tehniskos līdzekļus.
-(7) Ārvalsts advokāta uzaicināšana neietekmē notiesātā tiesības uz juridisko palīdzību Latvijā.
+793.pants. Eiropas Savienības dalībvalsts nolēmuma par mantas konfiskāciju izpildīšanas pamats
+Eiropas Savienības dalībvalsts nolēmuma par mantas, noziedzīga nodarījuma rīku un noziedzīgi iegūtu līdzekļu konfiskāciju (turpmāk - nolēmums par mantas konfiskāciju) izpildīšanas pamats Latvijā ir:
+1) nolēmums par mantas konfiskāciju vai apliecināta tā kopija un īpašas formas apliecinājums;
+2) fakts, ka personai, uz kuru attiecas nolēmums par mantas konfiskāciju, Latvijā ir dzīvesvieta (juridiskajai personai - reģistrēta juridiskā adrese) vai pieder īpašums, vai ir citi ienākumi;
+3) Latvijas tiesas lēmums par Latvijā izpildāmo mantas konfiskāciju un izpildraksts par šā lēmuma nodošanu izpildei.

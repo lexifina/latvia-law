@@ -1,1 +1,1 @@
-73.nodaļa. Palīdzība ārvalstij procesuālo darbību veikšanā
+73.nodaļa. Eiropas Savienības dalībvalstī pieņemta nolēmuma par mantiska rakstura piedziņu izpildīšana Latvijā

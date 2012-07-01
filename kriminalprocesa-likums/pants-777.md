@@ -1,12 +1,4 @@
-777.pants. Ārvalstī piespriesta soda izpildīšanas saturs un nosacījumi
-(1) Ārvalstī piespriesta soda izpildīšana Latvijā ir šā soda pamatotības un tiesiskuma bezstrīdus atzīšana un izpildīšana tādā pašā kārtībā kā tad, ja sods būtu noteikts Latvijā notikušā kriminālprocesā.
-(2) Ārvalstī piespriesta soda pamatotības un tiesiskuma atzīšana neizslēdz tā saskaņošanu ar Latvijas Krimināllikumā paredzēto sankciju par tādu pašu nodarījumu.
-(3) Ārvalstī piespriesta soda izpildīšana iespējama, ja:
-1) Latvijai ar ārvalsti ir līgums par otrā valstī piespriesto sodu izpildīšanu;
-2) ārvalsts iesniegusi lūgumu par tajā piespriestā soda izpildi;
-3) sods ārvalstī noteikts ar spēkā stājušos nolēmumu pabeigtā kriminālprocesā;
-4) notiesāto personu par tādu pašu nodarījumu varētu sodīt saskaņā ar Latvijas Krimināllikumu;
-5) soda izpildei nav iestājies noilgums ne ārvalstī, ne Latvijā;
-6) sprieduma taisīšanas brīdī nebija iestājies kriminālatbildības noilgums saskaņā ar Latvijas Krimināllikumu;
-7) ārvalstī pastāv vismaz viens no šā likuma 804.pantā minētajiem soda izpildīšanas lūguma iesniegšanas iemesliem.
-(4) Eiropas Savienības dalībvalstī piespriesta soda izpilde iespējama, ja ir atteikta izdošana saskaņā ar šā likuma 714.panta piektās daļas 4.punktu.
+777.pants. Latvijas viedokļa sniegšana pirms nolēmuma un īpašas formas apliecinājuma saņemšanas
+(1) Tieslietu ministrija, saņēmusi Eiropas Savienības dalībvalsts informāciju par vēlmi lūgt, lai Latvija piekrīt šajā valstī pieņemtā nolēmuma par brīvības atņemšanas sodu izpildīšanai Latvijā, pārbauda, vai attiecīgajā Eiropas Savienības dalībvalstī notiesātajai personai Latvijā ir pastāvīga dzīvesvieta, ģimene, sociālās vai profesionālās, vai kādas citas saites ar Latviju, kas veicinās šīs personas resocializāciju. Ja nepieciešams, Tieslietu ministrija var uzdot Valsts policijai veikt pārbaudi.
+(2) Sagatavoto viedokli Tieslietu ministrija nosūta Eiropas Savienības dalībvalstij.
+(3) Gadījumos, kuri nav minēti šā likuma 775.panta otrajā daļā, Tieslietu ministrija pieņem lēmumu par piekrišanu vai nepiekrišanu nolēmuma un īpašas formas apliecinājuma pārsūtīšanai Latvijai.

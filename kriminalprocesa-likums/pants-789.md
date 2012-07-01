@@ -1,10 +1,4 @@
-789.pants. Ārvalstī notiesātās personas pagaidu apcietinājums
-(1) Ja persona aizturēta šā likuma 788.pantā noteiktajos gadījumos un kārtībā, Tieslietu ministrija iesniedz ierosinājumu izmeklēšanas tiesnesim piemērot pagaidu apcietinājumu.
-(2) Kompetentās iestādes ierosinājumu tiesnesis izskata tādā pašā kārtībā kā ierosinājumu par pagaidu apcietinājuma piemērošanu gadījumā, kad kriminālprocess tiek nodots Latvijai.
-(3) Pagaidu apcietinājumu var piemērot arī tiesa, kura izskata ārvalsts lūgumu izpildīt ar brīvības atņemšanu saistītu sodu, ja ir pamats uzskatīt, ka notiesātais izvairīsies no tiesas.
-(4) Personu no pagaidu apcietinājuma atbrīvo, ja:
-1) ārvalsts 18 dienu laikā no aizturēšanas dienas nav iesniegusi soda izpildīšanas lūgumu kopā ar nepieciešamajiem pielikumiem;
-2) kompetentā iestāde paziņojusi, ka nepieņem lūgumu izskatīšanai;
-3) tiesa konstatējusi, ka soda izpildīšana Latvijā nav iespējama;
-4) tiesa, nosakot Latvijā izpildāmo sodu, nav piemērojusi kā drošības līdzekli apcietinājumu;
-5) konstatēti apstākļi, kas izslēdz personas turēšanu apcietinājumā.
+789.pants. Mantiska rakstura piedziņas izpildīšanas izbeigšana
+(1) Mantiska rakstura piedziņas izpildīšanu izbeidz, ja Eiropas Savienības dalībvalstī atcelts notiesājošais nolēmums par mantiska rakstura piedziņu.
+(2) Attiecīgās Eiropas Savienības dalībvalsts lēmumi par soda samazināšanu, amnestijas vai apžēlošanas akta izdošanu ir saistoši Latvijai.
+(3) No Eiropas Savienības dalībvalsts saņemto paziņojumu par šā panta pirmajā un otrajā daļā paredzētajiem juridiskajiem faktiem Tieslietu ministrija nosūta izlemšanai tiesai, kura iepriekš ir lēmusi ar mantiska rakstura piedziņas izpildīšanu saistītos jautājumus.

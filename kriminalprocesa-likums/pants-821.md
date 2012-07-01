@@ -1,3 +1,6 @@
-821.pants. Personas pagaidu pieņemšana
-(1) Ja ārvalsts lūdz, lai persona, kura atrodas apcietinājumā vai izcieš ar brīvības atņemšanu saistītu sodu šajā ārvalstī, procesuālās darbības laikā atrastos Latvijā, kompetentā iestāde var atļaut šo personu pieņemt uz procesuālās darbības veikšanas laiku.
-(2) Personu, kura Latvijā nogādāta pēc ārvalsts lūguma, tur apcietinājumā uz šā likuma 702.panta pirmās daļas 1.punktā minētā dokumenta pamata. Pēc lūguma izpildes tā nekavējoties nododama atpakaļ ārvalstij, bet ne vēlāk par nodošanas termiņa pēdējo dienu.
+821.pants. Notiesātā nodošana un tās juridiskās sekas
+(1) Ja Latvija ir piekritusi brīvības atņemšanas soda izpildīšanai ārvalstī vai ārvalsts ir piekritusi tā izpildīšanai, Tieslietu ministrija uzdod Valsts policijai saskaņot ar ārvalsti šīs personas nodošanu un nodot to attiecīgajai ārvalstij.
+(2) Ievērojot šā likuma 813.pantu, līdz ar notiesātā pārvietošanu pāri Latvijas Republikas valsts robežai soda izpildīšana Latvijā tiek apturēta. Soda izpildīšanu neatjauno, ja ārvalsts ir paziņojusi, ka soda izciešana pabeigta.
+(3) Papildus šā likuma 814.pantā minētajiem nosacījumiem soda izpildīšanu atjauno, ja ārvalsts paziņo, ka:
+1) persona izbēgusi no brīvības atņemšanas iestādes;
+2) soda izpildīšana nav pabeigta un persona atgriezusies Latvijā.

@@ -1,5 +1,7 @@
-844.pants. Palīdzība starptautiskajai tiesai procesuālo darbību veikšanā
-(1) Kompetentā iestāde pēc starptautiskās tiesas lūguma organizē un sniedz tai izmeklēšanā un kriminālvajāšanā nepieciešamo palīdzību procesuālo darbību veikšanā. Lūgums var paredzēt arī sadarbību cietušo un liecinošo personu aizsardzības pasākumu izpildē un pasākumus konfiskācijas nolūkā, it īpaši cietušo personu interesēs.
-(2) Lūgumu izpilda šā likuma 813.-815., 817.-820., 824. un 825.pantā noteiktajā kārtībā.
-(3) Lūgumu var noraidīt, ja tas attiecas uz tādu dokumentu izdošanu vai pierādījumu atklāšanu, kuri skar valsts drošību, ja vien lūgumu nevar izpildīt ar īpašiem nosacījumiem vai vēlāk.
-(4) Starptautiskās tiesas pilnvarotām amatpersonām ir tiesības veikt nepieciešamās procesuālās darbības Latvijas teritorijā patstāvīgi vai sadarbībā ar kompetentu starptautisku organizāciju vai kompetento Latvijas iestādi. Ja procesuālās darbības nav saistītas ar kāda piespiedu līdzekļa piemērošanu, starptautiskās tiesas pilnvarota amatpersona pēc konsultācijām ar Latvijas kompetento iestādi tās var veikt bez kompetentās iestādes pārstāvja klātbūtnes.
+844.pants. Latvijā pieņemtā nolēmuma par alternatīvo sankciju izpildīšanas tiesību atgūšana
+(1) Latvija atgūst nolēmuma par alternatīvo sankciju izpildīšanas tiesības, ja:
+1) tā atsauc nolēmumu un tam pievienoto īpašas formas apliecinājumu par alternatīvās sankcijas izpildīšanu Eiropas Savienības dalībvalstī;
+2) attiecīgā Eiropas Savienības dalībvalsts ir nodevusi atpakaļ Latvijai alternatīvās sankcijas izpildīšanu lēmuma turpmākai pieņemšanai;
+3) attiecīgā Eiropas Savienības dalībvalsts ir nodevusi atpakaļ Latvijai alternatīvās sankcijas izpildīšanu, jo notiesātajam vairs nav pastāvīgas dzīvesvietas šajā Eiropas Savienības dalībvalstī;
+4) attiecīgā Eiropas Savienības dalībvalsts ir nodevusi atpakaļ Latvijai alternatīvās sankcijas izpildīšanu, jo notiesātais izvairās no alternatīvās sankcijas izpildīšanas un neatrodas šajā Eiropas Savienības dalībvalstī.
+(2) Ja Latvijā pret notiesāto tiek uzsākts jauns kriminālprocess pēc tam, kad nolēmums par alternatīvo sankciju nosūtīts izpildīšanai Eiropas Savienības dalībvalstij, tiesa, kura nosūtīja nolēmumu, var lūgt šo Eiropas Savienības dalībvalsti nodot atpakaļ alternatīvās sankcijas uzraudzību.

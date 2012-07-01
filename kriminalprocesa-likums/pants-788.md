@@ -1,6 +1,6 @@
-788.pants. Ārvalstī notiesātās personas aizturēšana
-(1) Kompetentā iestāde var uzdot policijai aizturēt uz laiku līdz 48 stundām personu, kura ārvalstī notiesāta par tādu nodarījumu, par kādu būtu pieļaujama apcietināšana Latvijā notiekošā procesā, ja:
-1) ārvalsts paziņo par savu nodomu lūgt šajā ārvalstī piespriestā ar brīvības atņemšanu saistītā soda izpildi un lūdz apcietināt personu sakarā ar tās izvairīšanos no soda;
-2) kompetentā iestāde saskata iespēju, ka notiesātais, par kuru ārvalsts iesniegusi ar brīvības atņemšanu saistīta soda izpildīšanas lūgumu, izvairīsies no piedalīšanās tiesas sēdē par Latvijā izpildāmā soda noteikšanu;
-3) kompetentā iestāde uzskata, ka aizmuguriski notiesātais, atrazdamies brīvībā, pretlikumīgi ietekmēs liecinošās personas vai viltos pierādījumus.
-(2) Aizturētā persona jāatbrīvo, ja šā panta pirmajā daļā minētajā termiņā tai nav piemērots pagaidu apcietinājums.
+788.pants. Latvijā izpildāmās mantiska rakstura piedziņas atzīšana un izpildīšana
+(1) Nolēmumā noteiktās mantiska rakstura piedziņas izpildīšanu Latvijā nosaka rajona (pilsētas) tiesas tiesnesis pēc personas dzīvesvietas vai tās īpašuma atrašanās vietas, ievērojot šā likuma 759., 760.pantā un 784.panta otrajā un ceturtajā daļā minētos nosacījumus un kārtību.
+(2) Nolēmumā par mantiska rakstura piedziņu konstatētie faktiskie apstākļi un personas vaina ir saistoši Latvijas tiesai.
+(3) Ja Eiropas Savienības dalībvalsts likumi neatļauj nolēmumā par mantiska rakstura piedziņu noteiktā naudas soda aizstāšanu un persona naudas sodu labprātīgi nepilda, tiesa ar Tieslietu ministrijas starpniecību informē attiecīgo Eiropas Savienības dalībvalsti un lūdz atsaukt nolēmuma par mantiska rakstura piedziņu izpildīšanu.
+(4) Ja Eiropas Savienības dalībvalsts īpašas formas apliecinājumā ir norādījusi, ka tās likumi atļauj nolēmumā par mantiska rakstura piedziņu noteiktā naudas soda aizstāšanu, naudas soda aizstāšana notiek šā likuma 645.pantā noteiktajā kārtībā.
+(5) Ja persona, attiecībā uz kuru Eiropas Savienības dalībvalstī pieņemts nolēmums par mantiska rakstura piedziņu, iesniedz pierādījumu par nolēmuma par mantiska rakstura piedziņu pilnīgu vai daļēju izpildi, tiesa ar Tieslietu ministrijas starpniecību vai tieši sazinās ar nolēmumu izsniegušo Eiropas Savienības dalībvalsti, lai saņemtu tās apstiprinājumu.

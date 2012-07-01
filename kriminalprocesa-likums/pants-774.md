@@ -1,3 +1,2 @@
-774.pants. Lūgums pārņemt soda izciešanai personu, kura pakļauta izraidīšanai
-(1) Kompetentā iestāde bez personas piekrišanas var iesniegt ārvalstij lūgumu pārņemt šo personu soda izciešanai, ja spriedumā kā papildsods noteikta izraidīšana no Latvijas vai ir cits personai saistošs lēmums, kura rezultātā šai personai netiek atļauts palikt Latvijā pēc soda izciešanas.
-(2) Lūgumam pievieno sprieduma vai lēmuma kopiju par notiesātās personas izraidīšanu un tās viedokli par nodošanu.
+774.pants. Eiropas Savienības dalībvalstī pieņemta nolēmuma, ar kuru piespriests brīvības atņemšanas sods, izpildīšanas pamats
+Eiropas Savienības dalībvalstī pieņemta nolēmuma, ar kuru piespriests brīvības atņemšanas sods (turpmāk - nolēmums par brīvības atņemšanas sodu), atzīšanas un izpildīšanas pamats ir Eiropas Savienības dalībvalsts kompetentās iestādes spēkā stājies nolēmums par brīvības atņemšanas sodu un īpašas formas apliecinājums, kā arī Latvijas tiesas lēmums par nolēmuma par brīvības atņemšanas sodu atzīšanu un izpildīšanu.

@@ -1,7 +1,8 @@
-795.pants. Sūdzības izskatīšanas kārtība Latvijā
-(1) Uzaicinājums uz tiesu apsūdzētajam izsniedzams ne vēlāk kā 21 dienu pirms sūdzības izskatīšanas dienas, ja vien viņš nav izteicis nepārprotamu piekrišanu īsāka termiņa piemērošanai.
-(2) Ja notiesātā persona bez attaisnojoša iemesla neierodas, tiesa ir atbrīvota no lietas izskatīšanas un jautājums par ārvalstī aizmuguriski piespriesta soda izpildīšanu Latvijā tiek izskatīts tādā pašā kārtībā kā par klātbūtnē piespriestu sodu.
-(3) Ja ārvalsts likums to pieļauj, sūdzības izskatīšanā procesuālās darbības ar ārvalstī esošajām personām var veikt, izmantojot tehniskos līdzekļus.
-(4) Izskatīšanas rezultātā tiesa pieņem vienu no šādiem nolēmumiem:
-1) lēmumu par sūdzības noraidīšanu un Latvijā izpildāmā soda noteikšanu bez lietas izskatīšanas pēc būtības;
-2) lēmumu par aizmuguriski pieņemtā ārvalsts tiesas nolēmuma atcelšanu un par kriminālprocesa turpināšanu Latvijā no kriminālvajāšanas uzsākšanas.
+795.pants. Nolēmuma par mantas konfiskāciju izpildīšanas atlikšana
+(1) Nolēmuma par mantas konfiskāciju izpildīšanu tiesa var atlikt, ja:
+1) kopējā vērtība, kas tiks iegūta nolēmuma izpildīšanas rezultātā, var pārsniegt nolēmumā noteikto summu tādēļ, ka nolēmumu izpilda vienlaikus vairākās Eiropas Savienības dalībvalstīs;
+2) tā izpildīšana var kaitēt kriminālprocesam Latvijā;
+3) Eiropas Savienības dalībvalstī notiesātā persona Latvijā ir vērsusies tiesā, apstrīdot izpildīšanas kārtību;
+4) Latvijā uzsākta mantas konfiskācijas izpildīšana.
+(2) Zvērināts tiesu izpildītājs, konstatējis šā panta pirmajā daļā minētos iemeslus, atliek lēmuma par mantas konfiskāciju izpildīšanu un veic pasākumus konfiskācijas izpildīšanas nodrošināšanai. Zvērināts tiesu izpildītājs par lēmuma izpildīšanas atlikšanu paziņo tiesai un Tieslietu ministrijai.
+(3) Tieslietu ministrija informē nolēmuma pieņemšanas dalībvalsti par nolēmuma par mantas konfiskāciju izpildīšanas atlikšanu.

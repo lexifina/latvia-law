@@ -1,3 +1,2 @@
-843.pants. Personas nodošanas lūguma pārbaude, izlemšana un izpilde
-(1) Lūgumu par personas nodošanu starptautiskajai tiesai pārbauda, personu aiztur, apcietina un visus ar lūgumu saistītos jautājumus izlemj un izpilda šā likuma 698. - 711.pantā noteiktajā kārtībā.
-(2) Starptautiskās tiesas lūgums par personas nodošanu ir prioritārs salīdzinājumā ar citas valsts iesniegto izdošanas lūgumu. Ja starptautiskā tiesa pati ar lēmumu nav noteikusi, ka konkrētā lieta ir piekritīga tikai starptautiskajai tiesai, konkurējošo lūgumu secību kompetentā iestāde nosaka, ievērojot šā likuma 709.panta noteikumus.
+843.pants. Latvijā pieņemtā nolēmuma par alternatīvo sankciju nosūtīšanas izpildīšanai sekas
+Pēc Latvijā pieņemtā nolēmuma par alternatīvo sankciju nosūtīšanas izpildīšanai Eiropas Savienības dalībvalstij un attiecīgās dalībvalsts lēmuma par tā pieņemšanu izpildīšanai Latvijas iestādes neveic ar alternatīvās sankcijas izpildīšanu un uzraudzību saistītas darbības.

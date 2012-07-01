@@ -1,6 +1,3 @@
-817.pants. Procesuālās darbības veikšana, izmantojot tehniskos līdzekļus
-(1) Pēc ārvalsts lūguma vai pēc lūguma izpildes iestādes priekšlikuma ar ārvalsts piekrišanu procesuālo darbību var veikt, izmantojot tehniskos līdzekļus.
-(2) Procesuālo darbību, izmantojot tehniskos līdzekļus, veic lūguma iesniedzējas valsts procesuālajā kārtībā tās kompetenta amatpersona. Ja nepieciešams, šādas procesuālās darbības veikšanā Latvijā vai ārvalstī piedalās tulks.
-(3) Lūguma izpildes iestādes pārstāvis apliecina iesaistīto personu identitāti un nodrošina procesuālās darbības norisi Latvijā un tās atbilstību Latvijas kriminālprocesa pamatprincipiem.
-(4) Ja, procesuālo darbību veicot, tiek pārkāpti Latvijas kriminālprocesa pamatprincipi, lūguma izpildes iestādes pārstāvis nekavējoties veic pasākumus, lai šī darbība turpinātos saskaņā ar minētajiem principiem.
-(5) Personai, kura uzaicināta sniegt liecības, ir tiesības nesniegt liecību arī tad, ja tas izriet no lūguma iesniedzējas valsts likumiem.
+817.pants. Nosacījumi attiecībā uz lūguma par Latvijā piespriesta brīvības atņemšanas soda izpildīšanu ārvalstī nosūtīšanu attiecīgajai ārvalstij
+(1) Papildus šā likuma 808.pantā minētajiem nosacījumiem lūguma par Latvijā piespriesta brīvības atņemšanas soda izpildīšanu ārvalstī nosūtīšana ir iespējama, ja šā lūguma vai ierosinājuma saņemšanas brīdī notiesātajam atlikuši vismaz seši mēneši līdz soda izciešanas beigām. Izņēmuma gadījumā lūgumu var iesniegt, ja soda izciešanas laiks ir mazāks.
+(2) Tieslietu ministrija var lūgt ārvalstij, lai tā pārņem Latvijā piespriesta brīvības atņemšanas soda izpildīšanai personu, kurai tās psihisko traucējumu vai garīgās atpalicības dēļ ir noteikta ārstēšanās specializētā psihiatriskajā slimnīcā ar apsardzi vai ārstēšanās tai piemērotās brīvības atņemšanas vietās, līdzvērtīgu ārstēšanās pasākumu piemērošanai.

@@ -1,2 +1,9 @@
-775.pants. Notiesātās personas nodošana
-Ja Latvija ir piekritusi nodot notiesāto personu vai ārvalsts ir piekritusi to pārņemt, kompetentā iestāde uzdod Iekšlietu ministrijai saskaņot ar ārvalsti šīs personas nodošanu un nodot to attiecīgajai ārvalstij.
+775.pants. Eiropas Savienības dalībvalstī pieņemta nolēmuma par brīvības atņemšanas sodu izpildīšanas nosacījumi
+(1) Eiropas Savienības dalībvalstī pieņemtu nolēmumu par brīvības atņemšanas sodu var izpildīt Latvijā jebkurai personai neatkarīgi no tās tiesiskā statusa Latvijā, ja tam piekrīt Latvija.
+(2) Latvijas piekrišana nav nepieciešama, ja:
+1) Eiropas Savienības dalībvalstī notiesātā persona ir Latvijas pilsonis un dzīvo Latvijā;
+2) Eiropas Savienības dalībvalstī notiesātā persona ir Latvijas pilsonis un spriedumā vai administratīvajā lēmumā ir ietverts rīkojums par tās izraidīšanu vai deportāciju uz Latviju.
+(3) Eiropas Savienības dalībvalstī notiesātajai personai tai piespriesto brīvības atņemšanas sodu var izpildīt tikai ar šīs personas piekrišanu, izņemot gadījumus, kad:
+1) persona ir Latvijas pilsonis un dzīvo Latvijā;
+2) spriedumā vai administratīvajā lēmumā ir ietverts rīkojums par personas izraidīšanu vai deportāciju uz Latviju;
+3) persona ir aizbēgusi uz Latviju vai atgriezusies Latvijā sakarā ar to, ka Eiropas Savienības dalībvalstī pret šo personu uzsākts kriminālprocess vai pieņemts notiesājošs spriedums.

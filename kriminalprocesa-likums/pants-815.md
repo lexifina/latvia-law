@@ -1,6 +1,3 @@
-815.pants. Ārvalsts lūguma izpilde
-(1) Ārvalsts lūgumu izpilda izmeklēšanas iestāde, prokuratūra vai tiesa kompetentās iestādes uzdevumā.
-(2) Ārvalsts lūguma izpildes iestāde pēc kompetentās iestādes norādījuma savlaicīgi informē ārvalsti par procesuālās darbības veikšanas vietu un laiku. Lūguma izpildes rezultātā iegūtos materiālus kompetentā iestāde nosūta ārvalstij.
-(3) Ja procesuālā darbība nav veikta vai veikta daļēji, ārvalstij paziņo lūguma neizpildes iemeslus.
-(4) Ja, izpildot ārvalsts lūgumu, tiek iegūti fakti, kuru tālākai pārbaudei ir nepieciešams veikt citas neatliekamas procesuālās darbības, lūguma izpildītājs šajā likumā noteiktajā kārtībā ir tiesīgs veikt šīs darbības, par to paziņojot lūguma iniciatoram.
-(5) Ārvalsts lūguma izpildītājs, konstatējot lūguma izpildes laikā priekšmetus un dokumentus, kuru apgrozība ir aizliegta ar likumu un kuru izņemšana nav atrunāta lūgumā, tos izņem, par to rakstot atsevišķu protokolu.
+815.pants. Noilgumi
+(1) Tieslietu ministrija informē ārvalsti par Krimināllikumā paredzētā noilguma iestāšanos un visiem apstākļiem, kas ietekmē noilguma termiņa tecējumu.
+(2) Ārvalsts likumos paredzētais noilguma termiņš nav šķērslis soda izpildīšanai Latvijā pēc izpildīšanas tiesību atgūšanas.

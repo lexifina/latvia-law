@@ -1,1 +1,1 @@
-72.nodaļa. Latvijā piespriesta soda izpildīšana ārvalstī
+72.nodaļa. Ārvalstī piespriestā naudas soda izpildīšana Latvijā

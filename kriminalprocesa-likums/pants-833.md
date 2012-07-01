@@ -1,9 +1,4 @@
-833.pants. Apvienotās izmeklēšanas grupas vadītājs un viņa pilnvaras
-(1) Apvienotās izmeklēšanas grupas vadītājs (turpmāk šajā nodaļā - vadītājs) ir tās valsts pārstāvis, kurā notiek kriminālprocess.
-(2) Vadītāja iecelšana ir vienošanās neatņemama sastāvdaļa. Vadītāju var nomainīt vienīgi ar visu dalībvalstu piekrišanu.
-(3) Ja vadītājs ir Latvijas pārstāvis, viņam ir šādas pilnvaras:
-1) īstenot visas procesuālās tiesības, kādas viņam būtu, ja process notiktu tikai Latvijā;
-2) uzdot piekomandētajam grupas dalībniekam patstāvīgi veikt procesuālās darbības Latvijā;
-3) uzdot piekomandētajam grupas dalībniekam veikt noteiktu izmeklēšanas apjomu valstī, kuras pārstāvis viņš ir;
-4) izlemt, kādā apjomā iepazīstināt katru apvienotās grupas dalībnieku ar grupas rīcībā esošo informāciju.
-(4) Dalībvalstis vienojoties var noteikt citādu vadītāja pilnvaru apjomu.
+833.pants. Mantas konfiskācijas izpildīšanas sekas
+(1) Saņēmusi informāciju no ārvalsts par Latvijas nolēmuma par mantas konfiskāciju izpildīšanu, Tieslietu ministrija var lūgt, lai šī ārvalsts lemj par mantas konfiskācijas rezultātā iegūto naudas līdzekļu vai mantas sadali.
+(2) Ievērojot noziedzīgā nodarījuma rezultātā radīto kaitējumu, cietušo skaitu un kriminālprocesa izmaksas Latvijā, Tieslietu ministrija var lūgt, lai mantas konfiskācijas rezultātā iegūtos naudas līdzekļus atdod daļēji vai pilnā apmērā.
+(3) Saņēmusi informāciju no ārvalsts par mantu, kura tika konfiscēta kā vēsturiska, mākslinieciska vai zinātniska vērtība vai kuras realizācija nebija vēlama, Tieslietu ministrija vienojas ar šo ārvalsti par šādas mantas pārņemšanu.

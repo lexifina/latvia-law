@@ -1,9 +1,13 @@
-751.pants. Nosacījumi personas pārņemšanai soda izciešanai
-(1) Ārvalstī notiesāto personu var pārņemt soda izciešanai Latvijā, ja:
-1) notiesātā persona ir Latvijas pilsonis vai tās pastāvīgā dzīvesvieta ir Latvijā;
-2) kriminālprocess ir pabeigts ar galīgu nolēmumu;
-3) lūguma saņemšanas brīdī notiesātajai personai atlikuši vismaz seši mēneši līdz soda izciešanas beigām;
-4) nodarījums, par kuru noteikts sods, uzskatāms par noziedzīgu pēc Latvijas Krimināllikuma;
-5) tam piekrīt notiesātā persona.
-(2) Notiesātās personas piekrišana nav nepieciešama, ja ir pamats uzskatīt, ka, ņemot vērā šīs personas vecumu vai fizisko vai garīgo stāvokli, pārņemšana soda izciešanai ir nepieciešama, un tai piekrīt notiesātās personas pārstāvis.
-(3) Izņēmuma gadījumā personu var pārņemt soda izciešanai arī tad, ja soda izciešanas laiks ir mazāks, nekā noteikts šā panta pirmās daļas 3.punktā.
+751.pants. Lūguma par ārvalstī piespriesta soda izpildīšanu Latvijā atteikuma iemesli
+Ārvalstī piespriesta soda izpildīšanas lūgumu var atteikt, ja:
+1) ir pamats uzskatīt, ka sods noteikts personas rases, reliģiskās piederības, tautības, dzimuma vai politisko uzskatu dēļ, vai ja nodarījums atzīstams par politisku vai militāru;
+2) soda izpildīšana būtu pretrunā ar Latvijas starptautiskajām saistībām pret citu valsti;
+3) soda izpildīšana var kaitēt Latvijas valsts suverenitātei, drošībai, sabiedriskajai kārtībai vai citām būtiskām interesēm;
+4) ārvalstī notiesāto personu par tādu pašu nodarījumu nevarētu sodīt saskaņā ar Krimināllikumu;
+5) soda izpildīšana būtu pretrunā ar Latvijas tiesību sistēmas pamatprincipiem;
+6) Latvijā notiek kriminālprocess par to pašu nodarījumu, par kuru sods piespriests ārvalstī;
+7) soda izpildīšana Latvijā nav iespējama;
+8) nodarījums nav izdarīts ārvalstī, kura piespriedusi izpildāmo sodu;
+9) soda izpildīšanas izdevumi nav samērīgi ar noziedzīgā nodarījuma smagumu un radīto kaitējumu;
+10) ārvalsts pati spēj izpildīt spriedumu;
+11) Latvijai ar ārvalsti nav līguma par otrā valstī piespriesto sodu izpildīšanu.

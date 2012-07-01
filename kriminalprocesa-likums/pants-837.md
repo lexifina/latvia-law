@@ -1,4 +1,5 @@
-837.pants. Kriminālprocesa nodošana citai valstij
-(1) Ja pastāv šā likuma 68.nodaļā paredzētie nosacījumi un iemesli Latvijā notiekoša kriminālprocesa nodošanai citai dalībvalstij, valstu kompetentie pārstāvji vienojas par cita vadītāja iecelšanu.
-(2) Ja dalībvalstis nespēj vienoties par vadītāja nomainīšanu vai pastāv iemesli kriminālprocesa nodošanai trešajai valstij, apvienotās izmeklēšanas grupas darbību pārtrauc un turpmāk ievēro šā likuma 43.nodaļā noteikto kārtību.
-(3) Ja dalībvalsts nepiekrīt procesa nodošanai trešajai valstij, tās iesniegtie materiāli pēc pieprasījuma jāatdod.
+837.pants. Nolēmuma par mantas konfiskāciju nosūtīšana izpildīšanai Eiropas Savienības dalībvalstij
+(1) Ja nav iespējams izpildīt Latvijā pieņemto nolēmumu par mantas konfiskāciju, jo notiesātā dzīvesvieta (juridiskajai personai - reģistrētā juridiskā adrese), tam piederošais īpašums vai tā ienākumi ir citā Eiropas Savienības dalībvalstī, tiesa nolēmumu par mantas konfiskāciju kopā ar īpašas formas apliecinājumu nosūta Tieslietu ministrijai.
+(2) Tieslietu ministrija nodrošina īpašas formas apliecinājuma tulkojumu attiecīgās Eiropas Savienības dalībvalsts valsts valodā vai valodā, kuru apliecinājuma saņemšanai šī dalībvalsts norādījusi Eiropas Savienības Padomes Ģenerālsekretariātam, kā arī sagatavo informāciju par Krimināllikumā noteikto noilguma termiņa tecējumu un nosūta minētos dokumentus attiecīgajai Eiropas Savienības dalībvalstij.
+(3) Latvijā pieņemto nolēmumu par mantas konfiskāciju vienlaikus var nosūtīt vairākām Eiropas Savienības dalībvalstīm, ja īpašumi atrodas dažādās tās dalībvalstīs vai konfiskācija ir saistīta ar darbībām vairākās dalībvalstīs.
+(4) Ja mantai, uz kuru attiecas nolēmums par mantas konfiskāciju, ir vēsturiska, mākslinieciska vai zinātniska vērtība vai kuras realizācija nav vēlama, īpašas formas apliecinājumā izdara attiecīgu norādi.

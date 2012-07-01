@@ -1,5 +1,6 @@
-816.pants. Ārvalsts lūguma izpildes atteikuma iemesli
-Ārvalsts lūguma izpildi var atteikt, ja:
-1) lūgums saistīts ar politisku nodarījumu, izņemot gadījumu, kad lūgums attiecas uz terorismu vai terorisma finansēšanu;
-2) lūguma izpilde var kaitēt Latvijas valsts suverenitātei, drošībai, sabiedriskajai kārtībai vai citām būtiskām interesēm;
-3) nav iesniegta pietiekama informācija un papildu informāciju iegūt nav iespējams.
+816.pants. Pamats Latvijā piespriesta brīvības atņemšanas soda izpildīšanai ārvalstī
+(1) Pamats Latvijā piespriesta brīvības atņemšanas soda izpildīšanai ārvalstī ir:
+1) Tieslietu ministrijas lūgums izpildīt Latvijā piespriestu brīvības atņemšanas sodu ārvalstī un ārvalsts piekrišana tam;
+2) ārvalsts lūgums nodot Latvijā piespriesta brīvības atņemšanas soda izpildīšanu šai ārvalstij un Tieslietu ministrijas piekrišana tam.
+(2) Tieslietu ministrija veic šajā nodaļā paredzētās darbības, ja ir saņemts tiesas ierosinājums, notiesātā vai viņa pārstāvja lūgums, ārvalsts informācija vai lūgums vai arī pēc savas iniciatīvas.
+(3) Šīs nodaļas noteikumi piemērojami neatkarīgi no tā, vai Latvijā notiesātā persona atrodas ārvalstī vai Latvijā.
