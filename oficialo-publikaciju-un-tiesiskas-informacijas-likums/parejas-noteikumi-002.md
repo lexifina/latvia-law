@@ -1,0 +1,1 @@
+2. Ministru kabinets līdz 2013.gada 1.janvārim izdod šajā likumā paredzētos noteikumus. Līdz šā likuma 16.panta pirmajā daļā paredzēto Ministru kabineta noteikumu spēkā stāšanās dienai ir piemērojami Ministru kabineta 2004.gada 13.aprīļa noteikumi Nr.279 "Noteikumi par normatīvo aktu sistematizāciju", ciktāl tie nav pretrunā ar šo likumu.

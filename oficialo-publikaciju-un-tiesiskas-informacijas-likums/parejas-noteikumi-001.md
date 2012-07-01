@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par likumu un citu Saeimas, Valsts prezidenta un Ministru kabineta pieņemto aktu izsludināšanas, publicēšanas, spēkā stāšanās kārtību un spēkā esamību" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 13.nr.; 2003, 8.nr.; Latvijas Vēstnesis, 2009, 205.nr.).

@@ -1,0 +1,1 @@
+3. Ministru kabinets līdz 2016.gada 1.janvārim izveido valsts aģentūru "Latvijas Vēstnesis". Līdz valsts aģentūras "Latvijas Vēstnesis" izveidošanai tās uzdevumu izpildi nodrošina valsts sabiedrība ar ierobežotu atbildību "Latvijas Vēstnesis".

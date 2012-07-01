@@ -1,0 +1,1 @@
+4. Šā likuma spēkā stāšanās neskar to oficiālo publikāciju spēkā esamību, kuras publicētas pirms šā likuma spēkā stāšanās. Tiesību akti, kuri oficiāli publicēti pirms šā likuma spēkā stāšanās un ir pieejami elektroniski tīmekļa vietnē www.vestnesis.lv, ir informatīvi.

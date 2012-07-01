@@ -1,0 +1,1 @@
+6. Līdz spēkā stājas grozījumi tajos normatīvajos aktos, kuri paredz tiesību aktu un oficiālo paziņojumu izsludināšanu vai publicēšanu laikrakstā "Valdības Vēstnesis", laikrakstā "Latvijas Vēstnesis" vai oficiālajā laikrakstā (izdevumā), šāda informācija publicējama oficiālajā izdevumā.

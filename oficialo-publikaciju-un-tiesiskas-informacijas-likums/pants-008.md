@@ -1,0 +1,3 @@
+8.pants. Tiesību aktu izsludināšana un publicēšana ārkārtējos gadījumos
+(1) Ārkārtējos gadījumos Valsts prezidents vai attiecīgi Saeimas priekšsēdētājs ir tiesīgs izsludināt likumu, nolasot to sabiedriskajā elektroniskajā plašsaziņas līdzeklī vai, ja tas nav pieejams, tad pēc izsludinātāja izvēles citā elektroniskajā plašsaziņas līdzeklī. Šādā veidā izsludinātu likumu nekavējoties publicē oficiālajā izdevumā, norādot, kādā veidā un kad likums izsludināts.
+(2) Šā panta pirmajā daļā noteiktajā kārtībā ārkārtējos gadījumos var darīt zināmus Valsts prezidenta tiesību aktus, Saeimas lēmumus, kā arī Ministru kabineta un Ministru prezidenta tiesību aktus.

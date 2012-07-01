@@ -1,0 +1,5 @@
+7.pants. Ministru kabineta un Ministru prezidenta tiesību aktu izsludināšana, publicēšana un spēkā stāšanās
+(1) Ministru kabineta noteikumus, instrukcijas vai ieteikumus izsludina, tos publicējot oficiālajā izdevumā.
+(2) Ministru kabineta noteikumi, instrukcijas vai ieteikumi stājas spēkā nākamajā dienā pēc to izsludināšanas, ja pašā tiesību aktā nav noteikts cits tā spēkā stāšanās termiņš. Ja saskaņā ar likumu Ministru kabineta instrukcijām, ieteikumiem vai to daļai piešķirts ierobežotas pieejamības statuss, instrukcijas vai ieteikumi stājas spēkā to izdošanas dienā, ja pašā tiesību aktā nav noteikts cits tā spēkā stāšanās termiņš.
+(3) Ministru kabineta sēdes protokollēmums stājas spēkā tā pieņemšanas brīdī. Ministru kabineta un Ministru prezidenta rīkojums, izņemot administratīvo aktu, stājas spēkā tā parakstīšanas brīdī.
+(4) Ministru kabineta sēdes protokolu, Ministru kabineta vai Ministru prezidenta rīkojumu publicē oficiālajā izdevumā, izņemot protokolu, rīkojumu vai tā daļu, attiecībā uz kuru īpaši norādīts, ka tā nav publicējama.

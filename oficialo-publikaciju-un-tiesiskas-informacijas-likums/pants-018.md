@@ -1,0 +1,4 @@
+18.pants. Oficiālās publikācijas un sistematizēto tiesību aktu atkalizmantošana
+(1) Oficiālā publikācija un tīmekļa vietnē www.likumi.lv sistematizētie tiesību akti atkalizmantošanai ir pieejami normatīvajos aktos par informācijas atklātību noteiktajā kārtībā. Ministru kabinets nosaka maksu par oficiālās publikācijas un tīmekļa vietnē www.likumi.lv sistematizēto tiesību aktu nodošanu atkalizmantošanai.
+(2) Oficiālās publikācijas un tās sistematizācijas rezultātā radītās informācijas atkalizmantošanu organizē oficiālo publikāciju informācijas sistēmas turētājs. Oficiāli publicēto Uzņēmumu reģistra ziņu atkalizmantošanu organizē Uzņēmumu reģistra informācijas sistēmas turētājs.
+(3) Pārpublicējot ārējo normatīvo aktu, nodrošina tā atbilstību oficiālajai publikācijai, kā arī norāda oficiālā izdevuma datumu un laidiena numuru, kurā publicēts šis normatīvais akts un tā grozījumi, ja tādi ir bijuši.

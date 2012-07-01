@@ -1,0 +1,1 @@
+7. Līdz 2013.gada 1.janvārim līdztekus oficiālajam izdevumam tiek izdots oficiālais laikraksts "Latvijas Vēstnesis". Ja starp oficiālo publikāciju oficiālajā izdevumā un oficiālajā laikrakstā "Latvijas Vēstnesis" rodas pretrunas, priekšroka dodama publikācijai oficiālajā laikrakstā "Latvijas Vēstnesis".
