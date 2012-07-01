@@ -1,0 +1,8 @@
+679.¹ pants. Informācijas apmaiņa par Latvijā notiekošu kriminālprocesu par to pašu noziedzīgo nodarījumu
+(1) Ja ir pamatots iemesls uzskatīt, ka vienlaikus ar Latvijā notiekošu kriminālprocesu citā valstī notiek kriminālprocess par to pašu noziedzīgo nodarījumu un tam iepriekš starptautiskās sadarbības rezultātā nav iegūts pietiekams apstiprinājums, procesa virzītājs ar kompetentās iestādes starpniecību lūdz ārvalsti sniegt par to informāciju. Procesa virzītājs lūgumā norāda šā likuma 678.pantā minēto informāciju. Lūgumu tulko attiecīgās Eiropas Savienības dalībvalsts valsts valodā vai valodā, kuru šī valsts saziņai norādījusi Eiropas Savienības Padomes Ģenerālsekretariātam.
+(2) Kompetentā iestāde, saņēmusi no ārvalsts lūgumu sniegt informāciju par to, vai Latvijā notiek kriminālprocess par to pašu noziedzīgo nodarījumu, sniedz šai ārvalstij informāciju lūgumā norādītajā termiņā, bet, ja termiņš nav norādīts, informāciju sniedz, cik drīz vien iespējams pēc lūguma saņemšanas.
+(3) Informācijā ārvalstij par to, vai Latvijā notiek kriminālprocess par to pašu noziedzīgo nodarījumu, norāda:
+1) procesa virzītāja kontaktinformāciju;
+2) informāciju par to, vai notiek vai arī ir noticis kriminālprocess par to pašu nodarījumu un vai ar to ir saistīta tā pati persona;
+3) ja Latvijā notiek kriminālprocess par to pašu nodarījumu, - kriminālprocesuālo stadiju vai, ja ir pieņemts galīgais nolēmums, šā nolēmuma būtību.
+(4) Informācijas apmaiņā pirmstiesas procesā kompetentā iestāde ir Ģenerālprokuratūra, bet līdz kriminālvajāšanas uzsākšanai - Valsts policija. Pēc lietas nodošanas tiesai kompetentā iestāde informācijas apmaiņā ir Tieslietu ministrija.

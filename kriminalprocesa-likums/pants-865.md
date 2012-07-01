@@ -1,0 +1,5 @@
+865.pants. Sūdzību iesniegšana par Eiropas Savienības dalībvalsts procesuālā nolēmuma par mantas nodrošināšanu konfiskācijai vai pierādījumu iegūšanas nodrošināšanu izpildi
+(1) Rīcība, kas saistīta ar procesuālā nolēmuma par mantas nodrošināšanu konfiskācijai vai pierādījumu iegūšanas nodrošināšanu izpildi, pārsūdzama šajā likumā noteiktajā kārtībā.
+(2) Sūdzības iesniegšana neaptur procesuālā nolēmuma par mantas nodrošināšanu konfiskācijai vai pierādījumu iegūšanas nodrošināšanu izpildi.
+(3) Sūdzība par procesuālā nolēmuma par mantas nodrošināšanu konfiskācijai vai pierādījumu iegūšanas nodrošināšanu pieņemšanas iemesliem iesniedzama vienīgi nolēmuma izdevējvalsts tiesā.
+(4) Ja tiek saņemta sūdzība par rīcību, kas saistīta ar procesuālā nolēmuma par mantas nodrošināšanu konfiskācijai vai pierādījumu iegūšanas nodrošināšanu izpildi, Ģenerālprokuratūra par sūdzības iesniegšanu un tās pamatojumu, kā arī par sūdzības izskatīšanas rezultātu informē nolēmuma izdevējvalsts kompetento iestādi.

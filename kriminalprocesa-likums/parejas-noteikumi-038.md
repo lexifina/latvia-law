@@ -1,0 +1,1 @@
+38. Ja ir saņemts Eiropas Savienības dalībvalsts lūgums atzīt un izpildīt spriedumu, kas pieņemts līdz 2011.gada 27.novembrim, to izskata kārtībā, kāda bija spēkā līdz 2012.gada 30.jūnijam. Latvijas lūgums Eiropas Savienības dalībvalstij izpildīt Latvijā pieņemto nolēmumu, kas stājās spēkā līdz 2011.gada 27.novembrim, nosūtāms kārtībā, kāda bija spēkā līdz 2012.gada 30.jūnijam.

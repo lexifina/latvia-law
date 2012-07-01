@@ -1,7 +1,4 @@
-846.pants. Notiesājoša starptautiskās tiesas sprieduma izpilde
-(1) Ja starptautiskā tiesa noteikusi, ka ar brīvības atņemšanu saistītais sods notiesātajai personai izpildāms Latvijā, kompetentā iestāde nekavējoties informē starptautisko tiesu par soda izpildes iespējamību vai arī par apstākļiem, kas varētu būtiski ietekmēt soda izpildi Latvijā.
-(2) Soda izpilde notiek tādā pašā kārtībā kā Latvijā notikušā kriminālprocesā piespriesta soda izpilde. Notiesātajai personai ir tiesības netraucēti un konfidenciāli sazināties ar starptautisko tiesu, bet starptautiskajai tiesai ir tiesības veikt soda izpildes uzraudzību.
-(3) Starptautiskās tiesas noteikto soda mēru drīkst samazināt vai mainīt tikai šī tiesa.
-(4) Soda izpildes laikā kompetentā iestāde vismaz 45 dienas iepriekš informē starptautisko tiesu par agrāk noteikto nosacījumu izpildi un par jebkuriem apstākļiem, kas var būtiski ietekmēt ieslodzījuma noteikumus vai laiku.
-(5) Ja pēc soda izciešanas personai nav tiesību vai nav dota atļauja palikt Latvijā, to pārved uz citu valsti, kurai šī persona ir jāpieņem vai kura piekrīt to pieņemt, ievērojot personas izvēli.
-(6) Notiesātās personas kriminālvajāšana, sodīšana vai izdošana citai valstij par nodarījumu, kuru tā izdarījusi pirms nogādāšanas soda izciešanai Latvijā, var notikt tikai ar starptautiskās tiesas piekrišanu, izņemot gadījumus, kad persona pēc soda izciešanas brīvprātīgi paliek Latvijā vairāk nekā 30 dienas vai ir atstājusi Latviju un pēc tam atgriezusies.
+846.pants. Kompetentās iestādes ārvalsts lūguma izskatīšanā
+(1) Pirmstiesas procesā ārvalsts lūgumu izskata un izlemj Ģenerālprokuratūra, bet līdz kriminālvajāšanas uzsākšanai - arī Valsts policija.
+(2) Pēc lietas nodošanas tiesai ārvalsts lūgumu izskata un izlemj Tieslietu ministrija.
+(3) Ja valstis vai to kompetentās iestādes ir vienojušās par tiešo sazināšanos, lūgumus izskata un izlemj attiecīgās iestādes.

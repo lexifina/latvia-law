@@ -1,2 +1,2 @@
-Sešpadsmitā sadaļa
-Notiesātā pārņemšana soda izciešanai
+Sešpadsmitā sadaļa.
+Ārvalsts spriedumu atzīšana un sodu izpildīšana

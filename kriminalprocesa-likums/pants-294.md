@@ -1,4 +1,3 @@
-294.pants. Lēmuma par piespiedu naudu pārsūdzēšana
-(1) Izmeklēšanas tiesneša lēmumu par piespiedu naudas piemērošanu persona 10dienu laikā pēc lēmuma kopijas saņemšanas var pārsūdzēt rajona (pilsētas) tiesas priekšsēdētājam, bet tiesas lēmumu - tai pašai tiesai, kas uzlikusi piespiedu naudu. Sūdzībā var prasīt atcelt lēmumu vispār, atbrīvot personu no piespiedu naudas samaksas vai samazināt tās apmēru.
-(2) Sūdzību izskata 10 dienu laikā, par izskatīšanas laiku iepriekš paziņojot personai, kurai piespiedu nauda uzlikta. Šīs personas neierašanās nav šķērslis sūdzības izskatīšanai.
-(3) Pieņemtais lēmums nav pārsūdzams.
+294.pants. Lūguma par atbrīvošanu no piespiedu naudas samaksas vai tās apmēra samazināšanu izskatīšana
+(1) Persona, kurai piemērota piespiedu nauda, 10 dienu laikā pēc lēmuma par piespiedu naudas piemērošanu kopijas saņemšanas var lūgt, lai to atbrīvo no piespiedu naudas samaksas vai samazina tās apmēru. Lūgumu par izmeklēšanas tiesneša lēmumu iesniedz rajona (pilsētas) tiesas priekšsēdētājam, bet par tiesas lēmumu - tam pašam tiesas sastāvam, kas uzlika piespiedu naudu.
+(2) Lūgumu izskata rakstveida procesā 10 dienu laikā. Pieņemtais lēmums nav pārsūdzams.

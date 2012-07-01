@@ -1,2 +1,2 @@
 464.pants. Krimināllietas iztiesāšana bez apsūdzētā piedalīšanās
-Krimināllietu par kriminālpārkāpumu tiesa var iztiesāt bez apsūdzētā piedalīšanās, ja apsūdzētais atkārtoti bez attaisnojoša iemesla neierodas uz tiesas sēdi vai ir iesniedzis tiesai lūgumu par krimināllietas iztiesāšanu bez viņa piedalīšanās. Krimināllietu tiesa var iztiesāt, ja tiesas sēdē piedalās aizstāvis.
+Krimināllietu par kriminālpārkāpumu un mazāk smagu noziegumu tiesa var iztiesāt bez apsūdzētā piedalīšanās, ja apsūdzētais atkārtoti bez attaisnojoša iemesla neierodas uz tiesas sēdi vai ir iesniedzis tiesai lūgumu par krimināllietas iztiesāšanu bez viņa piedalīšanās. Krimināllietu tiesa var iztiesāt, ja tiesas sēdē piedalās aizstāvis.

@@ -1,0 +1,1 @@
+34. Lietās, kuras nodotas izskatīšanai apgabaltiesā kā pirmās instances tiesā pēc noteiktās piekritības līdz 2012.gada 30.jūnijam, apelācijas kārtībā pārsūdzētu nolēmumu izskata Augstākās tiesas Krimināllietu tiesu palāta kā apelācijas instances tiesa.

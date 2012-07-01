@@ -7,6 +7,7 @@ Apsūdzētajam vienošanās procesā ir tiesības:
 5) zināt, par kādu noziedzīgu nodarījumu izdarīšanu viņš tiks apsūdzēts tiesā un kādu soda veidu un mēru prokurors lūgs tiesu piespriest;
 6) piedalīties vienošanās izskatīšanā tiesā;
 7) sniegt paskaidrojumus par vienošanās gaitu;
+7¹) iesniegt iebildumus pret lietas iztiesāšanu rakstveida procesā;
 8) atteikties no noslēgtās vienošanās līdz brīdim, kad tiesa dodas uz apspriežu istabu, lai pieņemtu nolēmumu;
 9) pārsūdzēt nolēmumu;
 10) iepazīties ar tiesas sēdes protokolu;

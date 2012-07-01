@@ -1,2 +1,2 @@
-Septiņpadsmitā sadaļa
-Citas valsts kriminālspriedumu atzīšana un izpildīšana
+Septiņpadsmitā sadaļa.
+Latvijā piespriesta soda izpildīšana ārvalstī

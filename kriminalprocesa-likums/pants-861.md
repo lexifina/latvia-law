@@ -1,0 +1,11 @@
+861.pants. Eiropas Savienības dalībvalsts procesuālā nolēmuma par mantas nodrošināšanu konfiskācijai vai pierādījumu iegūšanas nodrošināšanu izpildes atteikuma iemesli
+(1) Procesuālo nolēmumu par mantas nodrošināšanu konfiskācijai vai pierādījumu iegūšanas nodrošināšanu atsaka izpildīt, ja:
+1) apliecinājums nav atsūtīts, ir nepilnīgs vai nav saistīts ar procesuālo nolēmumu par mantas nodrošināšanu konfiskācijai vai pierādījumu iegūšanas nodrošināšanu, kuram tas pievienots;
+2) pastāv šā likuma 8.nodaļā paredzētā kriminālprocesuālā imunitāte;
+3) izpildot procesuālo nolēmumu par mantas nodrošināšanu konfiskācijai vai pierādījumu iegūšanas nodrošināšanu, tiks pārkāpts dubultās sodīšanas nepieļaujamības (ne bis in idem) princips;
+4) nodarījums, uz kuru attiecas procesuālais nolēmums par mantas nodrošināšanu konfiskācijai vai pierādījumu iegūšanas nodrošināšanu, nav ietverts šā likuma 2.pielikumā un nav noziedzīgs pēc Latvijas likuma, izņemot gadījumus, kad procesuālais nolēmums par mantas nodrošināšanu konfiskācijai vai pierādījumu iegūšanas nodrošināšanu attiecas uz izvairīšanos no tādu nodokļu un nodevu samaksas, kādi Latvijas normatīvajos aktos nav paredzēti vai arī ir paredzēti, bet to regulējums, kas noteikts Latvijas normatīvajos aktos, atšķiras no nolēmuma izdevējvalsts normatīvajos aktos noteiktā regulējuma.
+(2) Ģenerālprokuratūra šā panta pirmās daļas 1.punktā minētajā gadījumā var:
+1) noteikt termiņu apliecinājuma iesniegšanai vai precizēšanai;
+2) izņēmuma gadījumos pieņemt izskatīšanai līdzvērtīgu dokumentu, ja tas satur informāciju, kurai jābūt norādītai apliecinājumā;
+3) atbrīvot nolēmuma izdevējvalsts kompetento iestādi no pienākuma iesniegt vai precizēt apliecinājumu, ja uzskata, ka sniegtā informācija ir pietiekama.
+(3) Ģenerālprokuratūra nekavējoties paziņo nolēmuma izdevējvalsts kompetentajai iestādei, ka procesuālo nolēmumu par mantas nodrošināšanu konfiskācijai vai pierādījumu iegūšanas nodrošināšanu nav iespējams izpildīt, jo dokumenti, priekšmeti vai manta nav atrodami apliecinājumā norādītajā vietā vai to atrašanās vieta nav pietiekami precīzi norādīta un to nav iespējams noskaidrot arī pēc rakstveida sazināšanās ar nolēmuma izdevējvalsts kompetento iestādi.

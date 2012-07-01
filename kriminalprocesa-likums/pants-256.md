@@ -1,2 +1,2 @@
-256.pants. Uzturēšanās noteiktā dzīvesvietā
-Uzturēšanās noteiktā dzīvesvietā ir aizdomās turētā vai apsūdzētā rakstveida saistība neatstāt ilgāk par 24 stundām konkrēti norādītu dzīves vai pagaidu uzturēšanās vietu bez procesa virzītāja atļaujas, kā arī bez kavēšanās ierasties pēc procesa virzītāja uzaicinājuma vai izpildīt citus kriminālprocesuālos pienākumus.
+256.pants. Uzturēšanās noteiktā vietā
+Uzturēšanās noteiktā vietā ir aizdomās turētā vai apsūdzētā rakstveida saistība uzturēties procesa virzītāja norādītajā laikā un noteiktajā vietā vai neatstāt ilgāk par 24 stundām konkrēti norādīto dzīves vai pagaidu uzturēšanās vietu bez procesa virzītāja atļaujas, kā arī bez kavēšanās ierasties pēc procesa virzītāja uzaicinājuma vai izpildīt citus kriminālprocesuālos pienākumus.

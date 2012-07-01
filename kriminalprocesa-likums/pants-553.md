@@ -1,5 +1,5 @@
 553.pants. Apelācijas sūdzības un protesta atstāšana bez virzības vai izskatīšanas
 (1) Ja apelācijas sūdzība vai protests neatbilst šā likuma 551.panta pirmās, otrās un trešās daļas prasībām, tiesnesis pieņem lēmumu par apelācijas sūdzības vai protesta atstāšanu bez virzības, norādot sūdzības vai protesta trūkumus, un nosaka iesniedzējam 10 dienu termiņu trūkumu novēršanai. Lēmums nav pārsūdzams.
 (2) Ja iesniedzējs noteiktajā termiņā nenovērš trūkumus, tiesnesis pieņem lēmumu par apelācijas sūdzības vai protesta atstāšanu bez izskatīšanas, par to paziņojot iesniedzējam.
-(3) Lēmumu par apelācijas protesta vai sūdzības atstāšanu bez izskatīšanas tiesnesis pieņem arī tad, ja tajā nav ievēroti šā likuma 499.panta ceturtās daļas nosacījumi gadījumos, kad lieta tiek skatīta bez pierādījumu pārbaudes.
+(3) Lēmumu par apelācijas protesta vai sūdzības atstāšanu bez izskatīšanas tiesnesis pieņem arī tad, ja tajā nav ievēroti šā likuma 499.panta ceturtās daļas nosacījumi gadījumos, kad lieta tiek skatīta bez pierādījumu pārbaudes, kā arī tad, ja tajā nav ievēroti šā likuma 551.panta ceturtās un piektās daļas nosacījumi.
 (4) Tiesneša lēmumu, kurš pieņemts šā panta otrajā un trešajā daļā paredzētajos gadījumos, var pārsūdzēt 10 dienu laikā apelācijas instances tiesā, kuras lēmums nav pārsūdzams.

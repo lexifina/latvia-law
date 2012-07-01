@@ -8,6 +8,7 @@
 (4) Lietu var iztiesāt rakstveida procesā, ja:
 1) apelācijas sūdzībā vai protestā ir izteikts lūgums tikai par piespriestā soda mīkstināšanu un ja prokurors vai persona, kuras intereses un tiesības sūdzība vai protests aizskar, pret to neiebilst;
 2) apelācijas sūdzībā vai protestā ir norādīts uz apstākļiem, kuru dēļ pirmās instances tiesas nolēmums katrā ziņā jāatceļ, un ja prokurors vai persona, kuras intereses un tiesības sūdzība vai protests aizskar, pret to neiebilst;
+2¹) apelācijas sūdzībā vai protestā ir izteikts lūgums tikai par kaitējuma kompensāciju un ja prokurors vai persona, kuras intereses un tiesības sūdzība vai protests aizskar, pret to neiebilst;
 3) apelācijas sūdzībā vai protestā ir izteikts lūgums tikai par piespriestā soda mīkstināšanu un ja lieta pirmās instances tiesā izskatīta bez pierādījumu pārbaudes un piespriestais sods nav saistīts ar brīvības atņemšanu, kas ilgāka par pieciem gadiem;
 4) apelācijas sūdzībā vai protestā ir norādīts uz apstākļiem, kuru dēļ pirmās instances tiesas nolēmums katrā ziņā jāatceļ, un ja lieta pirmās instances tiesā izskatīta bez pierādījumu pārbaudes un piespriestais sods nav saistīts ar brīvības atņemšanu, kas ilgāka par pieciem gadiem.
 (5) Lēmumā par lietas pieņemšanu iztiesāšanai rakstveida procesā norāda:

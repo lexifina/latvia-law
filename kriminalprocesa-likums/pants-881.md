@@ -1,0 +1,4 @@
+881.pants. Dokumentu un priekšmetu nodošanas un mantas konfiskācijas pieprasīšana
+(1) Lai pieprasītu nodot izņemtos dokumentus un priekšmetus vai konfiscēt arestēto mantu, lēmumam par kratīšanu vai lēmumam par aresta uzlikšanu mantai pievieno arī atbilstošu krimināltiesiskās sadarbības lūgumu.
+(2) Saņemot no procesa virzītāja vai tiesas šā panta pirmajā daļā minēto krimināltiesiskās sadarbības lūgumu, Ģenerālprokuratūra, vai - ja lūgums attiecas uz mantas konfiskāciju - Tieslietu ministrija to nosūta kopā ar šā likuma 880.panta pirmajā daļā minēto lēmumu un apliecinājumu.
+(3) Ja šā panta pirmajā daļā minēto krimināltiesiskās sadarbības lūgumu nav iespējams nosūtīt izpildei vienlaikus ar lēmumu par aresta uzlikšanu mantai vai lēmumu par kratīšanu, apliecinājumā norāda krimināltiesiskās sadarbības lūguma atsūtīšanas termiņu, līdz kuram ir jāglabā dokumenti, priekšmeti vai arestētā manta.

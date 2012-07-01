@@ -5,5 +5,6 @@
 2) savlaicīgi saņemt informāciju par to, kad un kur tiesa izskatīs vienošanos;
 3) piedalīties vienošanās izskatīšanā tiesā;
 4) izteikt savus iebildumus pret vienošanās apstiprināšanu;
+4¹) iesniegt iebildumus pret lietas iztiesāšanu rakstveida procesā;
 5) iesniegt kasācijas sūdzību par vienošanās procesa procedūras pārkāpumiem vai Krimināllikuma normu pārkāpumiem;
 6) piedalīties lietas izskatīšanā kasācijas instances tiesā šā likuma 101.pantā noteiktajā kārtībā.

@@ -1,0 +1,1 @@
+35. Šā likuma 775.panta otrās daļas 1.punktā un 823.panta otrās daļas 1.punktā minēto nosacījumu nepiemēro starptautiskajā sadarbībā ar Poliju līdz 2016.gada 5.decembrim. Šajos gadījumos piemēro šā likuma 70. un 78.nodaļu.
