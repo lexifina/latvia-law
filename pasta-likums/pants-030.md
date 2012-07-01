@@ -3,5 +3,5 @@
 (2) Pasta komersants, kas sniedz universālo pasta pakalpojumu, universālā pasta pakalpojuma saistību izpildes tīrās izmaksas aprēķina saskaņā ar Regulatora noteikto universālā pasta pakalpojuma saistību izpildes tīro izmaksu aprēķināšanas un noteikšanas metodiku.
 (3) Pasta komersants, kas sniedz universālo pasta pakalpojumu, nodrošina, ka universālā pasta pakalpojuma saistību izpildes tīro izmaksu aprēķinu pārbauda zvērināts revidents atbilstoši likumam "Par zvērinātiem revidentiem". Universālā pasta pakalpojuma saistību izpildes tīro izmaksu aprēķina pārbaude ietver arī aprēķinu veikšanai izmantoto datu patiesuma un pamatotības pārbaudi.
 (4) Pasta komersants, kas sniedz universālo pasta pakalpojumu, nodrošina universālā pasta pakalpojuma saistību izpildes tīro izmaksu aprēķina un zvērināta revidenta ziņojuma publisku pieejamību.
-(5) Pasta komersants, kas sniedz universālo pasta pakalpojumu, aprēķinātās universālā pasta pakalpojuma saistību izpildes tīrās izmaksas iesniedz apstiprināšanai Regulatoram.
+(5) Līdz kārtējā gada 1.septembrim pasta komersants, kas sniedz universālo pasta pakalpojumu, universālā pasta pakalpojuma saistību izpildes tīro izmaksu aprēķinu iesniedz apstiprināšanai Regulatoram.
 (6) Regulators katru gadu laikrakstā "Latvijas Vēstnesis" publicē ziņojumu, kurā informē par universālā pasta pakalpojuma saistību izpildes tīrajām izmaksām.

@@ -1,0 +1,1 @@
+11. Pēc šo pārejas noteikumu 10.punktā minētā termiņa Regulators nerīko šā likuma 27.panta trešajā daļā minēto konkursu un pagarina universālā pasta pakalpojuma saistības uz vienu gadu no 2013.gada 1.janvāra tam pasta komersantam, kuram ir noteiktas saistības sniegt universālo pasta pakalpojumu līdz 2012.gada 31.decembrim.
