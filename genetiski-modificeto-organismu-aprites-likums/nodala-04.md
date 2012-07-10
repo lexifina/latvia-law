@@ -1,2 +1,2 @@
 IV nodaļa
-Ģenētiski modificēto organismu izplatīšana vidē vai tirgū
+Ģenētiski modificēto organismu apzināta izplatīšana

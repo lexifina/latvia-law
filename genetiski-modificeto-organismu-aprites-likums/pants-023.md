@@ -1,2 +1,2 @@
 23.pants. Antibiotiku rezistento marķiergēnu izmantošana
-Aizliegts izplatīt vidē vai tirgū ģenētiski modificētos organismus, kas satur gēnus, kuri kodē rezistenci pret medicīnā vai veterinārijā lietojamām antibiotikām un attiecībā uz kuriem riska novērtēšanas procesā ir konstatēts, ka tie negatīvi ietekmē cilvēku un dzīvnieku veselību vai vidi.
+Aizliegts apzināti izplatīt ģenētiski modificēto organismu, kas satur gēnus, kuri kodē rezistenci pret medicīnā vai veterinārijā lietojamām antibiotikām, ja konkrētā ģenētiski modificētā organisma gēnu pārneses iespējamās ietekmes riska novērtējumā ir konstatēts, ka šis ģenētiski modificētais organisms negatīvi ietekmē cilvēku un dzīvnieku veselību vai vidi.
