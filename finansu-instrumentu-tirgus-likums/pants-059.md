@@ -25,7 +25,8 @@
 19) emitenta nodoms veikt reorganizāciju;
 20) būtiskas līdzdalības iegūšana vai izbeigšana citās komercsabiedrībās;
 21) ar citu komercsabiedrību noslēgts līgums par tādas komercsabiedrības izveidi, kurā katrai līgumslēdzējai pusei pieder daļa kapitāla, vai kopīga darījuma noslēgšana, ja šā darījuma apjoms ir nozīmīgs;
-22) emitenta nodoms mainīt komercdarbības jomu.
+22) emitenta nodoms mainīt komercdarbības jomu;
+23) iekšējās revīzijas revidenta atzinums par nozīmīga apjoma darījumu starp emitentu un tā valdes vai padomes locekli vai starp emitentu un ar valdes vai padomes locekli saistīto personu (Komerclikuma izpratnē), ja saskaņā ar tiesību aktiem ir veikta iekšējā revīzija par šādu darījumu.
 (3) Šā panta izpratnē nozīmīga apjoma darījumi vai ieguldījumi ir emitenta vai tā konsolidācijā iesaistītas sabiedrības darījumi vai ieguldījumi, kuros par aktīviem samaksātā vai saņemamā naudas summa, tai skaitā aktīvu vai finanšu instrumentu tirgus vērtība, vai arī emitenta parāda saistības vai aizņēmumi naudas izteiksmē ir vismaz 10 procenti no emitenta pašu kapitāla saskaņā ar zvērināta revidenta pēdējo pārbaudīto konsolidēto gada pārskatu.
 (3¹) Šā panta izpratnē par konsolidācijā iesaistītu sabiedrību uzskatāma sabiedrība, kurā emitentam kā mātes sabiedrībai tieši vai netieši (ar vienas vai vairāku koncerna meitas sabiedrību līdzdalību) ir ietekme un kura tādējādi saskaņā ar Konsolidēto gada pārskatu likumu iesaistāma konsolidācijā, emitentam sagatavojot konsolidēto pārskatu.
 (4) Emitenta pienākums ir sniegt informāciju par nozīmīga apjoma darījumiem, vienlaikus atklājot informāciju par darījuma ietekmi uz emitenta komercdarbību un darbības finansiālajiem rezultātiem, par darījumā saņemamo vai maksājamo summu, tai skaitā summu, ko paredzēts saņemt vai samaksāt nākamajos periodos, par samaksas noteikumiem un maksājumu grafiku.
