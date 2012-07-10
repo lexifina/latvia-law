@@ -1,5 +1,5 @@
 183.pants. Sabiedrības iekšējā revīzija
-(1) Lēmumu par sabiedrības darbības iekšējās revīzijas veikšanu jautājumos, kas saistīti ar sabiedrības darbību un tās mantisko stāvokli, pieņem dalībnieki vai valde, bet, ja sabiedrībai ir padome, šādu lēmumu var pieņemt arī padome.
+(1) Lēmumu par sabiedrības darbības iekšējās revīzijas veikšanu jautājumos, kas saistīti ar sabiedrības darbību un tās mantisko stāvokli, darījuma slēgšanu ar valdes vai padomes locekli vai saistīto personu, pieņem dalībnieki vai valde, bet, ja sabiedrībai ir padome, šādu lēmumu var pieņemt arī padome.
 (2) Dalībnieki, kuri pārstāv ne mazāk par vienu divdesmitdaļu sabiedrības pamatkapitāla, var pieprasīt iekšējās revīzijas veikšanu, ja tam ir svarīgs iemesls.
 (3) Ja valde nepiekrīt iekšējās revīzijas veikšanai, tā nekavējoties sasauc dalībnieku sapulci, iekļaujot tās darba kārtībā jautājumu par iekšējās revīzijas veikšanu. Ja dalībnieku sapulce noraida pieprasījumu, dalībnieku mazākums, kas pārstāv ne mazāk kā vienu divdesmitdaļu no pamatkapitāla, iekšējās revīzijas veikšanai var ievēlēt zvērinātu revidentu.
 (4) Iekšējā revīzija veicama uz sabiedrības rēķina. Ja revidentu ir pieaicinājuši paši dalībnieki, šāda iekšējā revīzija veicama uz šo dalībnieku rēķina.

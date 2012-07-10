@@ -1,2 +1,2 @@
 1.¹ nodaļa
-Pievienošanas īpašie noteikumi, ja iegūstošajai sabiedrībai pieder vismaz 90 procentu pievienojamās sabiedrības daļu (akciju)
+Ierobežojumi darījuma slēgšanai ar sabiedrības dibinātāju, dalībnieku, valdes vai padomes locekli un saistīto personu

@@ -7,5 +7,5 @@
 1) sabiedrības peļņu un zaudējumiem;
 2) sabiedrības maksātspēju;
 3) sabiedrības attīstības perspektīvām;
-4) noslēgtajiem darījumiem starp sabiedrību un akcionāru, padomes locekli vai valdes locekli.
+4) noslēgtajiem darījumiem starp sabiedrību un akcionāru, valdes vai padomes locekli vai saistīto personu.
 (4) Strīdus par valdes atteikumu izpaust ziņas izšķir tiesa.

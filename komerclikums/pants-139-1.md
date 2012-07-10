@@ -1,6 +1,5 @@
-139.¹ pants. Mantas iegūšana no dibinātājiem un dalībniekiem
-(1) Ja sabiedrība divu gadu laikā pēc tās nodibināšanas no dibinātāja, dalībnieka vai personas ar līdzīgu mantisko ieinteresētību (ģimenes loceklis, saistītais uzņēmums u.tml.) iegūst mantu, atlīdzība par kuru pārsniedz vienu divdesmitdaļu no sabiedrības pamatkapitāla, darījums, uz kura pamata manta tiek iegūta, stājas spēkā tikai pēc tam, kad šo darījumu apstiprinājusi dalībnieku sapulce.
-(2) Šā panta pirmās daļas noteikumi attiecas arī uz gadījumiem, kad manta no vienas šā panta pirmajā daļā minētās personas iegūta vairākkārt un kopsummā pārsniedz šā panta pirmajā daļā noteikto robežu. Šādā gadījumā dalībnieku sapulces apstiprinājums nepieciešams pēdējam darījumam, kura rezultātā minētā robeža tiek pārsniegta, kā arī katram turpmākajam darījumam, ko sabiedrība slēdz ar šo personu.
-(3) Šā panta pirmajā un otrajā daļā minēto mantu novērtē saskaņā ar šā likuma 154.panta noteikumiem.
-(4) Šā panta pirmās, otrās un trešās daļas noteikumi neattiecas uz gadījumiem, kad manta iegūta sabiedrības parasti veicamās komercdarbības ietvaros par parasto vērtību, bezatlīdzības darījumā, izsolē, biržas darījumā vai saskaņā ar tiesas nolēmumu.
-(5) Viena dalībnieka sabiedrībā darījumi starp dalībnieku un sabiedrību, kuru viņš pārstāv, noformējami rakstveidā.
+139.¹ pants. Ar sabiedrības dibinātāju, dalībnieku, valdes vai padomes locekli saistītā persona
+Ar jēdzienu "saistītā persona" šajā likumā tiek saprasta:
+1) persona, kura ir sabiedrības dibinātāja, dalībnieka, valdes vai padomes locekļa radinieks līdz otrajai radniecības pakāpei, laulātais vai svainis līdz pirmajai svainības pakāpei, vai persona, ar kuru viņam ir kopīga saimniecība;
+2) cita komercsabiedrība, kurā kapitālsabiedrības daļu vai personālsabiedrības ieguldījuma (kapitāla) daļu vairākums pieder attiecīgajam dibinātājam, dalībniekam, valdes vai padomes loceklim;
+3) cita kapitālsabiedrība, kurā attiecīgais dibinātājs, dalībnieks, valdes vai padomes loceklis ir valdes vai padomes loceklis.

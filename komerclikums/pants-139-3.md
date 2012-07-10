@@ -1,0 +1,8 @@
+139.³ pants. Darījuma slēgšana ar valdes, padomes locekli vai saistīto personu
+(1) Ja sabiedrība slēdz darījumu ar valdes vai padomes locekli vai saistīto personu, padome vai, ja tādas nav, dalībnieku sapulce apstiprina darījuma slēgšanu vai dod piekrišanu darījuma slēgšanai. Sabiedrības ar ierobežotu atbildību statūtos var noteikt kārtību, kas atšķiras no šajā daļā minētās darījumu slēgšanas kārtības.
+(2) Ja šā panta pirmajā daļā minētajā gadījumā sabiedrības intereses saduras ar kāda padomes locekļa vai saistītās personas interesēm, ieinteresētajam padomes loceklim nav balsstiesību, un tas ierakstāms padomes sēdes protokolā.
+(3) Šā panta pirmajā daļā minētajā gadījumā balsstiesību nav arī tam padomes loceklim, kurš ir ieinteresētā padomes locekļa radinieks līdz otrajai radniecības pakāpei, laulātais vai svainis līdz pirmajai svainības pakāpei, vai persona, ar kuru viņam ir kopīga saimniecība.
+(4) Ja nevienam padomes loceklim nav balsstiesību, darījuma slēgšanu apstiprina vai piekrišanu darījuma slēgšanai dod dalībnieku sapulce.
+(5) Darījums starp sabiedrību un tās valdes vai padomes locekli stājas spēkā tikai pēc tam, kad šo darījumu apstiprinājusi padome vai dalībnieku sapulce.
+(6) Fakts, ka valde nav saņēmusi padomes vai dalībnieku sapulces piekrišanu darījumam starp sabiedrību un saistīto personu, nav saistošs trešajai personai, izņemot gadījumu, kad trešā persona zināja, ka nepieciešama padomes vai dalībnieku sapulces piekrišana un tā nav dota.
+(7) Šā panta noteikumi neattiecas uz darījumiem, kas slēgti sabiedrības parasti veicamās komercdarbības ietvaros par parasto vērtību, uz bezatlīdzības darījumiem, izsolēm, biržas darījumiem vai gadījumiem, kad darījums noslēgts saskaņā ar tiesas nolēmumu.
