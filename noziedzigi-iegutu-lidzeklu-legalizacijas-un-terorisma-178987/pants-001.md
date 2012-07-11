@@ -9,7 +9,7 @@ a) kuras īpašumā vai tiešā vai netiešā kontrolē ir vismaz 25 procenti no
 b) kurai tiešā vai netiešā veidā ir tiesības uz īpašumu vai kuras tiešā vai netiešā kontrolē ir vismaz 25 procenti no juridiska veidojuma, kas nav komersants. Par patieso labuma guvēju nodibinājumam uzskatāma persona vai personu grupa, kuras labā ir izveidots nodibinājums. Par patieso labuma guvēju politiskajai partijai, biedrībai un kooperatīvajai sabiedrībai uzskatāma attiecīgā politiskā partija, biedrība vai kooperatīvā sabiedrība,
 c) kuras labā vai interesēs tiek nodibinātas darījuma attiecības,
 d) kuras labā vai interesēs tiek veikts atsevišķs darījums, nenodibinot darījuma attiecības šā likuma izpratnē;
-6) kredītiestāde - Latvijas Republikā, citā dalībvalstī vai trešajā valstī reģistrēta banka, elektroniskās naudas iestāde vai dalībvalsts, trešās valsts bankas vai elektroniskās naudas iestādes filiāle vai pārstāvniecība;
+6) kredītiestāde - Latvijas Republikā, citā dalībvalstī vai trešajā valstī reģistrēta kredītiestāde vai dalībvalsts, trešās valsts kredītiestādes filiāle vai pārstāvniecība;
 7) finanšu iestāde - komercreģistrā ierakstīts komersants, filiāle vai pārstāvniecība vai citas dalībvalsts vai trešās valsts attiecīgā reģistrā reģistrēts komersants, kurš nav kredītiestāde un kurš sniedz vienu vai vairākus finanšu pakalpojumus Kredītiestāžu likuma izpratnē, izņemot finanšu pakalpojumus, kurus atļauts sniegt tikai kredītiestādei. Par finanšu iestādi uzskatāms:
 a) apdrošināšanas komersants, kas veic dzīvības apdrošināšanu, un privātais pensiju fonds,
 b) apdrošināšanas starpnieks, kas sniedz dzīvības apdrošināšanas pakalpojumus,
