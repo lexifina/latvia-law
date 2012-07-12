@@ -30,4 +30,5 @@ l) (izslēgts ar 16.12.2010. likumu),
 m) sēklaudzēšanas un sēklu tirdzniecības noteikumos paredzētajos gadījumos sertificē sēklas ar pazeminātu dīgtspēju,
 n) uztur oriģinālo sēklu paraugus Latvijas augu šķirņu katalogā iekļautajām Latvijā selekcionētajām šķirnēm un šķirnēm, kuras Eiropas Savienības kopējos katalogos no Latvijas augu šķirņu kataloga iekļautas pirmo reizi (izņemot kartupeļus),
 o) organizē vai veic pēcpārbaudi sertificētām sēklām, standartsēklām, saglabājamās šķirnes sēklām un noteiktos apstākļos audzējamas dārzeņu šķirnes sēklām,
-p) izsniedz atļauju tādu lopbarības augu sēklu maisījumu ieguvei un tirdzniecībai, kuri paredzēti dabiskās vides saglabāšanai (turpmāk - sēklu maisījumi dabiskās vides saglabāšanai).
+p) izsniedz atļauju tādu lopbarības augu sēklu maisījumu ieguvei un tirdzniecībai, kuri paredzēti dabiskās vides saglabāšanai (turpmāk - sēklu maisījumi dabiskās vides saglabāšanai);
+5) Latvijas Lauksaimniecības universitāte nodrošina augu šķirņu saimniecisko īpašību novērtēšanu saskaņā ar normatīvajiem aktiem par augu šķirnes saimniecisko īpašību novērtēšanu.

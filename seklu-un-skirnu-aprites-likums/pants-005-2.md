@@ -1,0 +1,2 @@
+5.² pants. Atļauja tirgot sēklu maisījumus dabiskās vides saglabāšanai
+Valsts augu aizsardzības dienests lēmumu par atļaujas tirgot sēklu maisījumus dabiskās vides saglabāšanai izsniegšanu vai atteikumu izsniegt atļauju pieņem 12 mēnešu laikā pēc normatīvajos aktos par lopbarības augu sēklu maisījumiem dabiskās vides saglabāšanai noteiktā iesnieguma iesniegšanas datuma, bet ne vēlāk kā piecu darbdienu laikā pēc visu minētajos normatīvajos aktos noteikto sēklu kvalitāti apliecinošo dokumentu saņemšanas.

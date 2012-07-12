@@ -9,3 +9,4 @@
 1) normatīvajos aktos par sēklaudzēšanu un sēklu tirdzniecību paredzētajos gadījumos;
 2) ja divu gadu laikā (skaitot no pēdējā iesnieguma saņemšanas dienas) Valsts augu aizsardzības dienestam nav iesniegts iesniegums sēklu sertifikācijai.
 (4) Izmaiņas Sēklaudzētāju un sēklu tirgotāju reģistrā veic Valsts augu aizsardzības dienests pēc personas iesnieguma saņemšanas un izvērtēšanas.
+(5) Valsts augu aizsardzības dienests informāciju par reģistrētajām personām ievieto savā tīmekļa vietnē.

@@ -1,6 +1,6 @@
 12.¹ pants. Augļu koku un ogulāju šķirņu saraksta veidošana un tā uzturēšana
 (1) Augļu koku un ogulāju šķirņu sarakstā (turpmāk - šķirņu saraksts) iekļauj normatīvajos aktos par augļu koku un ogulāju pavairošanas materiāla apriti minētās augļu koku un ogulāju ģinšu un sugu, kā arī starpsugu hibrīdu šķirnes.
-(2) Šķirņu sarakstu kārto un uztur Valsts augu aizsardzības dienests.
+(2) Šķirņu sarakstu kārto, uztur un savā tīmekļa vietnē ievieto Valsts augu aizsardzības dienests.
 (3) Ministru kabinets izdod noteikumus par šķirņu saraksta veidošanu, kuros paredz:
 1) prasības un kārtību, kādā šķirnes iekļauj un uztur šķirņu sarakstā, kā arī izslēdz no tā;
 2) prasības šķirnes aprakstam un tā atzīšanas kārtību;
