@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2012.gada 3.jūlija noteikumi Nr.468 \"Noteikumi par pasažieru pārvadāšanu ar vieglajiem taksometriem\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2012/106.17",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-06",
+  "entry_into_force": "2012-07-16",
+  "notification_date": "2016-04-21",
+  "commission_reference": "MNE(2016)52633",
+  "nim_celex": "72014L0032LVA_236856",
+  "nim_id": "236856",
+  "transposes_celex": [
+    "32014L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/032540db-066c-4d25-8d15-a52e014ce5ea",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
