@@ -1,0 +1,1 @@
+42.¹ Ja personai ir piešķirta citas valsts pensija par apdrošināšanas periodiem, kas ņemti vērā, piešķirot vai pārrēķinot Latvijas pensiju, Latvijas pensija pārrēķināma vai tās izmaksāšana pārtraucama, šos periodus izslēdzot, ja regulā Nr. 883/2004 vai Saeimas apstiprinātajos starptautiskajos līgumos nav noteikts citādi.

@@ -1,0 +1,1 @@
+61. Šo pārejas noteikumu 8.punktā noteiktā vecuma paaugstināšana personām, kuras strādājušas sevišķi kaitīgos un sevišķi smagos vai kaitīgos un smagos darba apstākļos, ilgst līdz laikam, kad tiek sasniegts šo pārejas noteikumu 60.punktā noteiktais vecums.

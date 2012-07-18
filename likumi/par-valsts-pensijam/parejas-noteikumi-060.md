@@ -1,0 +1,3 @@
+60. Tiesības pieprasīt vecuma pensiju divus gadus pirms šā likuma 11.panta pirmajā daļā noteiktā vecuma sasniegšanas ir personām, kuras strādājušas darbos, kas noteikti šo pārejas noteikumu 11.punktā minētajos sarakstos, un kuru kopējais apdrošināšanas stāžs nav mazāks:
+1) vīriešiem - par 20 gadiem, sievietēm - par 15 gadiem, no kuriem līdz 1995.gada 31.decembrim vismaz ceturtā daļa nostrādāta sevišķi kaitīgos un sevišķi smagos darba apstākļos;
+2) vīriešiem - par 25 gadiem, sievietēm - par 20 gadiem, no kuriem līdz 1995.gada 31.decembrim vismaz ceturtā daļa nostrādāta kaitīgos un smagos darba apstākļos.

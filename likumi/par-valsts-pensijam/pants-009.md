@@ -19,4 +19,5 @@ b) pašnodarbinātais, kurš veicis apdrošināšanas iemaksas;
 4) laiks, kad persona, kuras laulātais (kam piešķirts diplomātiskais rangs saskaņā ar "Diplomātiskā un konsulārā dienesta likumu") pilda diplomātisko un konsulāro dienestu ārvalstīs, uzturas attiecīgajā ārvalstī kā diplomātisko un konsulāro dienestu pildošas personas laulātais;
 5) laiks, kad persona, kuras laulātais pilda militārā dienesta pienākumus ārpus valsts, izņemot gadījumus, kad šis karavīrs piedalās starptautiskajā operācijā, militārajās mācībās, manevros vai atrodas komandējumā, uzturas ārvalstī kopā ar laulāto;
 6) laiks, kurā persona saņem atlīdzību par adoptējamā bērna aprūpi;
-7) laiks, kurā persona saņem bērna invalīda kopšanas pabalstu.
+7) laiks, kurā persona saņem bērna invalīda kopšanas pabalstu;
+8) laiks, kurā persona veic algotus pagaidu sabiedriskos darbus.

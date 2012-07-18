@@ -1,1 +1,1 @@
-29.¹ Černobiļas atomelektrostacijas avārijas seku likvidēšanas dalībniekiem ir tiesības vecuma pensiju pieprasīt piecus gadus pirms šā likuma 11.panta pirmajā daļā noteiktā vecuma sasniegšanas (ievērojot šo pārejas noteikumu 8.punktu).
+29.¹ Černobiļas atomelektrostacijas avārijas seku likvidēšanas dalībniekiem ir tiesības vecuma pensiju pieprasīt piecus gadus pirms šā likuma 11.panta pirmajā daļā noteiktā vecuma sasniegšanas.
