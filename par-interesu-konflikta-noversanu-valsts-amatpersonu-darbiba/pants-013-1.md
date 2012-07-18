@@ -1,9 +1,10 @@
 13.¹ pants. Speciālie dāvanu pieņemšanas ierobežojumi, pildot valsts amatpersonas pienākumus
-(1) Valsts amatpersonai, pildot amata pienākumus, ir atļauts pieņemt diplomātiskās dāvanas (dāvanas, ko ārvalsts delegācija vai oficiāla amatpersona pasniedz Latvijas valsts amatpersonai diplomātiskajā protokolā noteiktajā kārtībā), kā arī dāvanas, kuras pasniedz:
-1) ārvalstu amatpersonas Latvijas valsts amatpersonām oficiālo vai darba vizīšu laikā Latvijā;
-2) ārvalstu delegācijas vai amatpersonas valsts, oficiālo vai darba vizīšu laikā ārvalstīs;
-3) ārvalstu amatpersonas Latvijas Republikas diplomātiskajās un konsulārajās pārstāvniecībās strādājošajām valsts amatpersonām;
-4) valsts amatpersonai kā valsts vai pašvaldības institūcijas pārstāvim valsts svētkos, atceres un atzīmējamās dienās;
-5) valsts amatpersonai tā valsts vai pašvaldības institūcija, kurā attiecīgā persona pilda amata pienākumus.
-(2) Valsts amatpersonai, kamēr tā ir valsts vai pašvaldības kapitāla daļu turētāja pārstāvis kapitālsabiedrībā, kā arī divus gadus pēc šo pienākumu pildīšanas beigām ir aizliegts pieņemt dāvanas no attiecīgās kapitālsabiedrības un tās pārvaldes institūcijas locekļiem.
-(3) Diplomātiskās dāvanas un dāvanas, kas tiek pieņemtas šā panta pirmās daļas 1., 2., 3. vai 4.punktā minētajos gadījumos, ir attiecīgās valsts vai pašvaldības institūcijas īpašums.
+(1) Valsts prezidentam, Saeimas priekšsēdētājam, Ministru prezidentam un ārlietu ministram, pildot amata pienākumus, kā arī minēto amatpersonu laulātajiem valsts, oficiālo un darba vizīšu ietvaros Latvijā vai ārvalstīs ir atļauts pieņemt diplomātiskās dāvanas, ar kurām pēc iepriekšējas saskaņošanas apmainās valstu vadītāji, parlamentu priekšsēdētāji, valdību vadītāji vai ārlietu ministri diplomātiskajā protokolā noteiktajā kārtībā.
+(2) Valsts amatpersonai, pildot amata pienākumus, ir atļauts pieņemt arī dāvanas, kuras pasniedz:
+1) valsts, oficiālo un darba vizīšu ietvaros Latvijā vai ārvalstīs;
+2) ārvalstu vai starptautisko organizāciju amatpersonas Latvijas Republikas diplomātiskajās un konsulārajās pārstāvniecībās strādājošajām valsts amatpersonām;
+3) valsts amatpersonai kā valsts vai pašvaldības institūcijas pārstāvim valsts svētkos, atceres un atzīmējamās dienās;
+4) valsts amatpersonai tā valsts vai pašvaldības institūcija, kurā attiecīgā persona pilda amata pienākumus.
+(3) Valsts amatpersonai, kamēr tā ir valsts vai pašvaldības kapitāla daļu turētāja pārstāvis kapitālsabiedrībā, kā arī divus gadus pēc šo pienākumu pildīšanas beigām ir aizliegts pieņemt dāvanas no attiecīgās kapitālsabiedrības un tās pārvaldes institūcijas locekļiem.
+(4) Diplomātiskās dāvanas un tās dāvanas, kuras tiek pieņemtas šā panta otrās daļas 1., 2. vai 3.punktā minētajos gadījumos, ir attiecīgās valsts vai pašvaldības institūcijas īpašums.
+(5) Ministru kabinets nosaka kārtību, kādā reģistrējamas, novērtējamas, izmantojamas un izpērkamas diplomātiskās un šā panta otrajā daļā minētās dāvanas, kas saskaņā ar šo likumu ir valsts vai pašvaldības institūcijas īpašums.

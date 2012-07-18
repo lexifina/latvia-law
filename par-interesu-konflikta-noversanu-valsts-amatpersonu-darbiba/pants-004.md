@@ -22,7 +22,7 @@
 19¹) tādas kapitālsabiedrības valdes loceklis, kurā vienas vai vairāku valsts vai pašvaldības kapitālsabiedrību daļa pamatkapitālā kopumā vai atsevišķi pārsniedz 50 procentus, un tāds šādas kapitālsabiedrības padomes loceklis, kas pārstāv valsts vai pašvaldības kapitālsabiedrības intereses;
 20) valsts vai pašvaldības kapitāla daļas turētāja pārstāvis un tā pilnvarota persona;
 21) tiesnesis, prokurors, zvērināts notārs un zvērināts tiesu izpildītājs;
-22) Nacionālo bruņoto spēku profesionālā dienesta karavīrs un militārais darbinieks;
+22) Nacionālo bruņoto spēku profesionālā dienesta karavīrs;
 23) (izslēgts ar 12.11.2009. likumu);
 24) publiskā iepirkuma komisijas loceklis;
 25) Iekšlietu ministrijas sistēmas iestādes un Ieslodzījuma vietu pārvaldes amatpersona ar speciālo dienesta pakāpi.
