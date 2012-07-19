@@ -8,4 +8,4 @@ Tūrisma attīstības valsts aģentūra:
 6) var veidot ārvalstīs un Latvijā tūrisma informācijas birojus, kas ir Tūrisma attīstības valsts aģentūras struktūrvienības;
 7) piedalās starpvalstu sadarbības nolīgumu īstenošanā tūrisma jomā;
 8) veic vietējā un starptautiskā tūrisma tirgus izpēti;
-9) Ministru kabineta noteiktajā kārtībā veic kvalitātes pārvaldības ieviešanu tūrisma nozarē, Latvijas tūrisma un ar to saistīto pakalpojumu sniedzēju, kā arī komersantu atbilstības novērtēšanu.
+9) veic kvalitātes pārvaldības ieviešanu tūrisma nozarē, Latvijas tūrisma un ar to saistīto pakalpojumu sniedzēju, kā arī komersantu atbilstības novērtēšanu.

@@ -1,5 +1,6 @@
 16.pants. Klienta iemaksātās naudas drošības garantijas
 (1) Tūrisma operatoram, kas organizē kompleksos tūrisma pakalpojumus, obligāti nepieciešama klienta iemaksātās naudas drošības garantija.
+(1¹) Tūrisma aģents drīkst piedāvāt vai pārdot tikai tādu kompleksu tūrisma pakalpojumu, kas ir nodrošināts ar klientu iemaksātās naudas drošības garantiju.
 (2) Ja tūrisma operators nespēj pilnībā vai daļēji izpildīt līgumsaistības pret klientu līdz savas maksātnespējas procesa pasludināšanai vai savas maksātnespējas gadījumā, klienta iemaksātās naudas drošības garantija nodrošina:
 1) saistību neizpildes vai daļējas neizpildes rezultātā radušos zaudējumu kompensāciju klientam;
 2) tūrista atgriešanos valstī, no kuras sācies ceļojums, ja līgumā nav noteikts citādi.

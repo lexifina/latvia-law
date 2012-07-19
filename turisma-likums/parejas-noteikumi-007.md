@@ -1,0 +1,1 @@
+7. Grozījumi šā likuma 1.panta 8.punktā, 1.panta 28.punkts, 6.panta otrās daļas 8.punkts, 6.¹ pants, kā arī grozījumi 8.panta 1., 2. un 3.punktā (kūrorta statusa piešķiršanas kārtība) stājas spēkā 2012.gada 28.decembrī.
