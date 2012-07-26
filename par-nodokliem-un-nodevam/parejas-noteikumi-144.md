@@ -1,0 +1,1 @@
+144. Šā likuma 15.panta trešās daļas 5.¹ punktā un 30.panta septītajā daļā noteiktais skaidrā naudā veikto darījumu deklarēšanas pienākums pildāms, sākot ar 2014.gadu un katru gadu deklarējot iepriekšējā gadā skaidrā naudā veiktos darījumus.
