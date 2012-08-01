@@ -16,7 +16,7 @@ b) nodrošina lauksaimniecības augu sugu ģenētisko resursu kolekcionēšanu, 
 3) (izslēgts ar 03.09.2009. likumu);
 4) Valsts augu aizsardzības dienests:
 a) sertificē sēklas,
-b) nodrošina augu šķirņu saimniecisko īpašību novērtēšanu saskaņā ar normatīvajiem aktiem par augu šķirnes saimniecisko īpašību novērtēšanu,
+b) nodrošina augu šķirņu saimniecisko īpašību novērtēšanas datubāzes uzturēšanu saskaņā ar normatīvajiem aktiem par augu šķirnes saimniecisko īpašību novērtēšanas datubāzes uzturēšanu,
 c) veic visas darbības, kas saistītas ar Latvijas augu šķirņu kataloga veidošanu, uzturēšanu, informācijas glabāšanu un publicēšanu,
 d) īsteno starptautiskās Ekonomiskās sadarbības un attīstības organizācijas (OECD) shēmas šķirņu sertifikācijai sēklu apritei starptautiskajā tirgū,
 e) veic visas darbības, kas saistītas ar Eiropas Savienības lauksaimniecības kultūraugu kopējā kataloga un Eiropas Savienības kopējā dārzeņu šķirņu kataloga (turpmāk arī - Eiropas Savienības kopējie šķirņu katalogi) veidošanu, kā arī nodrošina Latvijā selekcionēto šķirņu sēklu sertifikāciju citās Eiropas Savienības dalībvalstīs un veic Eiropas Savienības kopējos šķirņu katalogos iekļauto šķirņu sēklu sertifikāciju Latvijā,
