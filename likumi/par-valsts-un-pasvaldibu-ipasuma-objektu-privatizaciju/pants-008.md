@@ -26,7 +26,7 @@
 6) organizē un veic pasākumus, kas nodrošina valsts kapitāla efektīvu izmantošanu.
 3. Šā panta pirmajā un otrajā daļā minēto darbību veikšanu Privatizācijas aģentūra var nodot citām personām normatīvajos aktos noteiktajā kārtībā.
 4. Privatizācijas aģentūrai ir tiesības:
-1) pieprasīt un saņemt bez maksas jebkuru tai nepieciešamo ar īpašuma privatizāciju saistīto informāciju no valsts un pašvaldību institūcijām, valsts kapitāla daļu turētājiem, Centrālās statistikas pārvaldes, valsts akciju sabiedrības "Valsts nekustamie īpašumi", Latvijas Republikas Uzņēmumu reģistra un valsts kapitālsabiedrībām;
+1) pieprasīt un saņemt bez maksas no valsts un pašvaldību institūcijām (Valsts ieņēmumu dienesta, Centrālās statistikas pārvaldes, valsts akciju sabiedrības "Valsts nekustamie īpašumi", Latvijas Republikas Uzņēmumu reģistra u.c.) jebkuru tai nepieciešamo informāciju, kas saistīta ar valsts īpašuma privatizācijas procesu (īpašuma objektiem, privatizācijas subjektiem u.c.);
 2) dot privatizējamo valsts īpašuma objektu pārvaldes institūcijām obligāti izpildāmus uzdevumus attiecībā uz valsts īpašuma objektu privatizāciju;
 3) (izslēgts ar 22.06.2005. likumu);
 4) izbeigt jebkurus privatizējamā valsts īpašuma objekta nomas līgumus, ja tie nav noslēgti un reģistrēti likumā noteiktajā kārtībā;

@@ -1,0 +1,1 @@
+18. Privatizācijas aģentūras valdes priekšsēdētājs, kuru amatā iecēlis Ministru kabinets un kurš pilda valdes priekšsēdētāja amata pienākumus 2012.gada 31.jūlijā, saglabā savas pilnvaras līdz Privatizācijas aģentūras statūtos noteiktajām pilnvaru termiņa beigām vai līdz valdes priekšsēdētāja atcelšanai.

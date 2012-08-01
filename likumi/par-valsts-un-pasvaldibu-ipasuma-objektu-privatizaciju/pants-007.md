@@ -1,5 +1,5 @@
 7. pants. Privatizācijas aģentūras juridiskais statuss
-1. Privatizācijas aģentūra ir valsts akciju sabiedrība, kas darbojas saskaņā ar šo likumu, citiem likumiem un saviem statūtiem. Statūtus apstiprina, kā arī grozījumus tajos izdara Ministru kabinets.
+1. Privatizācijas aģentūra ir valsts akciju sabiedrība, kas darbojas saskaņā ar šo likumu, citiem likumiem un saviem statūtiem.
 2. (Izslēgta ar 22.06.2005. likumu.)
 3. (Izslēgta ar 22.06.2005. likumu.)
 4. (Izslēgta ar 22.06.2005. likumu.)

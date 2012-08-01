@@ -14,6 +14,6 @@
 5) piedāvājamā privatizācijas metode, paņēmiens un iespējamā privatizācijas norise;
 6) maksāšanas līdzekļi, veidi un kārtība;
 7) objekta darbība vai tā izmantošana pēc privatizācijas;
-8) privatizācijas subjekta - fiziskās personas - vārds, uzvārds, pilsonība un pases dati, adrese, tālruņa, teleksa vai telefaksa numurs; privatizācijas subjekta - juridiskās personas - nosaukums, juridiskā adrese, pilnvarotās personas vārds, uzvārds, tālruņa, teleksa vai telefaksa numurs. Ja privatizācijas subjekts ir juridiskā persona, privatizācijas priekšlikumam pievienojams šīs juridiskās personas reģistrācijas apliecības noraksts;
+8) privatizācijas subjekta - fiziskās personas - vārds, uzvārds, pilsonība, pases dati, adrese, tālruņa numurs, telefaksa numurs vai elektroniskā pasta adrese vai privatizācijas subjekta - juridiskās personas - nosaukums, vienotais reģistrācijas numurs, juridiskā adrese, pilnvarotās personas vārds, uzvārds, tālruņa numurs, telefaksa numurs vai elektroniskā pasta adrese;
 9) ziņas, kuras savā paziņojumā lūdz uzrādīt Privatizācijas aģentūra.
 6. Privatizācijas aģentūrai ir tiesības valsts īpašuma objektu privatizācijai rīkot starptautiskus piedāvājumu konkursus, to noteikumos paredzot šā likuma 24.panta trešajā daļā minēto apliecinājumu iesniegšanas ierobežojumus.
