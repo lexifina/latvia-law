@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2012.gada 31.jūlija noteikumi Nr.523 \"Noteikumi par budžeta pieprasījumu izstrādāšanas un iesniegšanas pamatprincipiem\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "122",
+  "official_journal_page": null,
+  "official_journal_date": "2012-08-03",
+  "entry_into_force": "2012-08-04",
+  "notification_date": "2018-05-17",
+  "commission_reference": "MNE(2018)52470",
+  "nim_celex": "72011L0085LVA_258759",
+  "nim_id": "258759",
+  "transposes_celex": [
+    "32011L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8c4e8def-ddd2-4a71-9258-6295f34f1b8c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
