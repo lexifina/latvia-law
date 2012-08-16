@@ -317,39 +317,115 @@ mefenorekss
 0,03 g
 10 g
 8.¹ Psihotropās vielas un tās saturošie augi, kuru nelegāla aprite un ļaunprātīga lietošana apdraud veselību:
-1)1-benzilpiperazīns (BZP)0,02 g1 g
-2)catha edulis100 g10 kg
-3)2,5-dimetoksi-4-bromfenetilamīns (2C-B)0,02g2 g
-4)2,5-dimetoksi-4-etiltiofenetilamīns (2C-T-2)0,018 g1,8 g
-5)2,5-dimetoksi-4-jodfenetilamīns (2C-I)0,018 g1,8 g
-6)2,5-dimetoksi-4-(n)-propiltiofenetilamīns (2C-T-7)0,02 g2 g
-7)1-(3-hlorfenil) piperazīns (mCPP)0,02 g1 g
-8)1-(4-hlorfenil) piperazīns (pCPP)0,02 g1 g
-9)1-(3,4-metilēndioksibenzil) piperazīns (MDBP)0,02 g1 g
-10)1-(4-metoksifenil) piperazīns (MeOPP)0,02 g1 g
-11)mitraginīns0,03 g3 g
-12)mitragyna speciosa (kratom)1 g100 g
-13)salvia divinorum1 g100 g
-14)salvinorīns A0,002 g0,2 g
-15)1-(3-trifluormetilfenil) piperazīns (TFMPP)0,02 g1 g
-16)2,4,5-trimetoksiamfetamīns (TMA-2)0,03 g1 g
-17)7-hidroksimitragīns0,03 g15 g
-18)augu maisījums, kas satur minētās vielas jebkurā daudzumā:
+1)
+1-benzilpiperazīns (BZP)0,02 g1 g
+2)
+catha edulis100 g10 kg
+3)
+2,5-dimetoksi-4-bromfenetilamīns (2C-B)0,02 g2 g
+4)
+2,5-dimetoksi-4-etiltiofenetilamīns (2C-T-2)0,018 g1,8 g
+5)
+2,5-dimetoksi-4-jodfenetilamīns (2C-I)0,018 g1,8 g
+6)
+2,5-dimetoksi-4-(n)-propiltiofenetilamīns (2C-T-7)0,02 g2 g
+7)
+1-(3-hlorfenil) piperazīns (mCPP)0,02 g1 g
+8)
+1-(4-hlorfenil) piperazīns (pCPP)0,02 g1 g
+9)
+1-(3,4-metilēndioksibenzil) piperazīns (MDBP)0,02 g1 g
+10)
+1-(4-metoksifenil) piperazīns (MeOPP)0,02 g1 g
+11)
+mitraginīns0,03 g3 g
+12)
+mitragyna speciosa (kratom)1 g100 g
+13)
+salvia divinorum1 g100 g
+14)
+salvinorīns A0,002 g0,2 g
+15)
+1-(3-trifluormetilfenil) piperazīns (TFMPP)0,02 g1 g
+16)
+2,4,5-trimetoksiamfetamīns (TMA-2)0,03 g1 g
+17)
+7-hidroksimitragīns0,03 g15 g
+17¹)
+sintētisko kanabinoīdu grupas vielas:
 CP 47,497 (5-(1,1-dimetilheptil)-2-[(1R,3S)-3-hidroksicikloheksil]-fenols) un tā homologi C6, C8, C9;
-HU-210 (1,1-dimetilheptil-11-hidroksitetra hidrokanabinols);
-JWH-018 (naftalēn-1-il-(pentilindol-3-il)metanons);
-JWH-073 (1-butil-3-(1-naftil)indols);
-JWH-250 (2-(2-metoksifenil)-1-(1-pentilindol-3-il)etanons);
-JWH-398 (1-pentil-3-(4-hloro-1-naftil)indols);
-a)izžāvēts1g100g
-b)nežāvēts5g1kg
-19)leonotis leonurus:
-a)izžāvēts1g100g
-b)nežāvēts5g1kg
-20)nymphaea caerulea:
-a)izžāvēts1g100g
-b)nežāvēts5g1kg
-21)mefedrons (4-metilmetkatinons)0,02 g3 g
+HU-210 (1,1-dimetilheptil-11-hidroksitetra hidrokannabinols);
+JWH-018 (1-pentil-3-(1-naftoil)indols);
+JWH-073 (1-butil-3-(1-naftoil)indols);
+JWH-250 (1-pentil-3-(2-metoksifenilacetil)indols;
+JWH-398 (1-pentil-3-(4-hlor-1-naftoil)indols);
+JWH-081 (1-pentil-3-(4-metoksi-1-naftoil)indols);
+JWH-210 (1-pentil-3-(4-etil-1-naftoil)indols);
+JWH-122 (1-pentil-3-(4-metil-1-naftoil)indols);
+JWH-203 (1-pentil-3-(2-hlorfenilacetil)indols);
+AM-2201 (1-(5-fluoropentil)-3-(1-naftoil)indols);
+AM-694 (1-(5-fluoropentil)-3-(2-jodbenzoil)indols);
+JWH-019 (1-heksil-3-(1-naftoil)indols);
+RCS-4 (1-pentil-3-(4-metoksibenzoil)indols);
+JWH-251 (1-pentil-3-(2-metilfenilacetil)indols);
+JWH-182 (1-pentil-3-(4-propil-1-naftoil)indols);
+JWH-073 4-metil atvasinājums (1-butil-3-(4-metil 1-naftoil)indols);
+JWH-200 (1-[2-(4-morfolin)etil]-3-(1-naftoil)indols);
+JWH-015 (2-metil-1-propil-3-(1-naftoil)indols);
+JWH-007 (2-metil-1-pentil-3-(1-naftoil)indols);
+CRA-13 (naftalēn-1-il-(4-pentiloksinaftalēn-1-il)metanons);
+JWH-018 adamantoil atvasinājums (1-pentil-3-(1-adamantoil)indols);
+JWH-307 (1-pentil-2-(2-fluorofenil)-4-(naftoil)pirols;
+JWH-122 fluorpentil atvasinājums (1-(5-fluorpentil)-3-(4-metil-naftoil)indols);
+JWH-387 (1-pentil-3-(4-brom-1-naftoil)indols);
+JWH-412 (1-pentil-3-(4-fluor-1-naftoil)indols)
+0,003 g1 g
+18)
+augu maisījums, kas satur 17.¹ apakšpunktā minētās vielas jebkurā daudzumā:
+a)
+izžāvēts1 g100 g
+b)
+nežāvēts5 g1 kg
+19)
+leonotis leonurus:
+a)
+izžāvēts1 g100 g
+b)
+nežāvēts5 g1 kg
+20)
+nymphaea caerulea:
+a)
+izžāvēts1 g100 g
+b)
+nežāvēts5 g1 kg
+21)
+mefedrons (4-metilmetkatinons)0,02 g3 g
+22)
+3-fluormetkatinons(3-FMC)0,02 g3 g
+23)
+metilons (3,4-metilēndioksimetkatinons)0,02 g3 g
+24)
+3,4-metilēndioksipirovalerons (MDPV)0,02 g3 g
+25)
+4-metiletilkatinons (4-MEC)0,02 g3 g
+26)
+butilons (β-keto-N-metilbenzodioksolilpropilamīns; bk-MBDB)0,02 g3 g
+27)
+etilkatinons0,02 g3 g
+28)
+4-fluormetkatinons (flefedrons; 4-FMC)s)0,02 g3 g
+29)
+alfa-pirrolidinopropifenons (alfa-PPP)0,02 g3 g
+30)
+metedrons (bk-PMMA; 4-metoksimetkatinons)0,02 g3 g
+31)
+metamfrepamons (dimetilkatinons)0,02 g3 g
+32)
+bufedrons (α-metilaminobutirofenons)0,02 g3 g
+33)
+nafirons (naftilpirovalerons)0,02 g3 g
+34)
+3',4'-metilendioksi-α-pirrolidinobutirofenons (MDPBP)0,02 g3 g
 9. Jebkura zāļu forma, kas satur šā pielikuma 4., 5., 6., 7., 8. un 8.¹ punktā minētās vielas jebkurā daudzumā:
 1)
 ampulas
