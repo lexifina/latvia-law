@@ -1,0 +1,4 @@
+12.pants. Nokavēto nodokļu maksājumu piedziņa
+(1) Nodokļu maksātājam, kura nokavēto nodokļu maksājumu piedziņa uzsākta likumā "Par nodokļiem un nodevām" noteiktajā kārtībā, ir tiesības pieteikties nodokļu atbalsta pasākumam. Nodokļu maksātājs sedz lēmuma par nokavēto nodokļu maksājumu piedziņu izpildes izdevumus.
+(2) Nodokļu atbalsta pasākuma laikā neuzsāk, bet uzsākto izpildes lietvedību par nokavēto nodokļu maksājumu piedziņu aptur attiecībā uz tiem nodokļu parādiem, par kuriem nodokļu administrācija ir pieņēmusi lēmumu par nodokļu atbalsta pasākuma piemērošanu. Šādā gadījumā likuma "Par nodokļiem un nodevām" 26.¹ pantā minētie nodokļu administrācijas lēmumu izpildes nodrošinājuma līdzekļi tiek saglabāti.
+(3) Ja lēmums par nodokļu atbalsta pasākuma piemērošanu ir zaudējis spēku, nokavētie nodokļu maksājumi tiek piedzīti likumā "Par nodokļiem un nodevām" noteiktajā kārtībā.

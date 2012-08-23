@@ -1,0 +1,2 @@
+10.pants. Nokavējuma naudas un soda naudas dzēšana
+Ja nodokļu maksātājs samaksā nodokļu atbalsta pasākuma maksājumu, nodokļu administrācija 21 dienas laikā no nodokļu atbalsta pasākuma maksājuma samaksas pilnā apmērā atbilstoši Ministru kabineta noteikumiem par nodokļu atbalsta pasākuma īstenošanas kārtību pieņem lēmumu par nokavējuma naudas dzēšanu attiecībā uz nodokļu atbalsta pasākuma maksājumu un 90 procentu soda naudas, ja tāda ir aprēķināta, dzēšanu attiecībā uz nodokļu atbalsta pasākuma maksājumu.
