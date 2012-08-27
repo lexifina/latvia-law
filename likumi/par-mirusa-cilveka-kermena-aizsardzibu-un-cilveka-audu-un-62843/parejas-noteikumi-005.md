@@ -1,0 +1,1 @@
+5. Audu ieguves un uzglabāšanas centri, kuri audu ieguves un uzglabāšanas centru reģistrā iekļauti līdz 2012.gada 26.augustam, audus un šūnas ir tiesīgi izmantot līdz reģistrā norādītā termiņa beigām, bet ne ilgāk kā līdz 2013.gada 26.augustam.

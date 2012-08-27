@@ -1,3 +1,4 @@
 18. pants. Komercdarījumu aizliegums
 Gan dzīva, gan miruša cilvēka ķermeņa audu un orgānu izņemšana un izmantošana kalpo medicīnas attīstībai, un tai ir bezpeļņas raksturs. Jebkura dzīva vai miruša cilvēka ķermeņa audu un orgānu izņemšana notiek, stingri ievērojot izteikto piekrišanu vai nepiekrišanu, un šo audu un orgānu atlase, nosūtīšana un izmantošana kā komercdarījums ir aizliegta.
-Cilvēku labprātīgi ziedoto un likumīgā ceļā iegūto audu un orgānu uzkrāšana un izmantošana pieļaujama Ministru kabineta noteiktajā kārtībā īpašā sarakstā minētajos audu un orgānu ieguves un uzglabāšanas centros.
+(Otrā daļa izslēgta ar 21.06.2012. likumu)
+Reklāma, kurā ar nolūku gūt finansiālu labumu vai līdzvērtīgu izdevīgumu tiek piedāvāti dzīva vai miruša cilvēka audi vai orgāni vai izrādīta interese par iespēju iegūt dzīva vai miruša cilvēka audus vai orgānus, ir aizliegta. Ir atļauti tikai informatīvi pasākumi, lai veicinātu sabiedrības izpratni par cilvēka ķermeņa, audu un orgānu ziedošanas nepieciešamību un nozīmi.
