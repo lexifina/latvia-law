@@ -1,13 +1,10 @@
-6.pants. (1) Papildināto mazo valsts ģerboni ir tiesīgi lietot:
-1) Saeimas Kanceleja, Valsts prezidenta Kanceleja un Valsts kanceleja;
-2) Saeimas ievēlētas vai apstiprinātas institūcijas vai amatpersonas;
-3) iestādes, kuras atrodas Ministru kabineta un ministriju tiešā pakļautībā vai pārraudzībā;
-4) ministriju, Valsts kontroles, Augstākās tiesas, ģenerālprokuratūras un Latvijas Bankas struktūrvienības;
-5) apgabaltiesas, rajonu (pilsētu) tiesas, apgabaltiesu zemesgrāmatu nodaļas;
-6) dzimtsarakstu iestādes;
-7) prokuratūras iestādes;
-8) zvērināti notāri;
-9) vēlēšanu komisijas;
-10) publisko tiesību pašpārvaldes autonomie subjekti;
-11) bāriņtiesas, izdarot apliecinājumus.
-(2) Papildināto mazo valsts ģerboni drīkst lietot uz diplomiem, apliecībām, atestātiem, kurus izdevušas izglītības iestādes, izņemot augstskolas, un kuri apliecina izglītības vai kvalifikācijas ieguvi pēc akreditētas izglītības programmas.
+6.pants. Papildināto mazo valsts ģerboni ir tiesīgi lietot:
+1) iestāde, kura atrodas Ministru kabineta, Ministru kabineta locekļa vai ministrijas pakļautībā vai pārraudzībā;
+2) apgabaltiesa, administratīvā apgabaltiesa, rajona (pilsētas) tiesa, administratīvā rajona tiesa, zemesgrāmatu nodaļa;
+3) dzimtsarakstu iestāde;
+4) prokuratūras iestāde;
+5) zvērināts notārs;
+6) zvērināts tiesu izpildītājs;
+7) vēlēšanu komisija;
+8) publisko tiesību pašpārvaldes autonomais subjekts;
+9) bāriņtiesa, izdarot apliecinājumu.

@@ -1,2 +1,2 @@
-10.pants. (1) Valsts ģerboni nav tiesību lietot privātajiem uzņēmumiem (uzņēmējsabiedrībām), kopdarbības (kooperatīvajām) sabiedrībām, sabiedriskajām organizācijām, privātpersonām un to apvienībām.
-(2) Fiziskajām un juridiskajām personām vai to apvienībām ir tiesības lietot valsts ģerboņa attēlu, garantējot pienācīgu cieņu pret to, izņemot gadījumus, kad tas maldina par lietotāja juridisko statusu.
+10.pants. (1) Privātpersonām ir tiesības lietot valsts ģerboni vai atribūtiku ar to, ja vien ģerboņa lietošana nemaldina par lietotāja juridisko statusu un, lietojot valsts ģerboni vai atribūtiku ar to, persona garantē pienācīgu cieņu pret valsts ģerboni.
+(2) Atribūtika ar valsts ģerboni apstiprināma Ģerboņu likumā noteiktajā kārtībā.

@@ -1,0 +1,1 @@
+5. Šā likuma 5.-7.pantā minētās institūcijas un amatpersonas, kurām valsts ģerboņa lietošanas noteikumi uz 2012.gada 1.septembri noteikti citos likumos, piemēro šo likumu noteikumus, bet ne ilgāk par 2014.gada 31.decembri. Ministru kabinets līdz 2013.gada 31.decembrim iesniedz Saeimai likumprojektus, kas nodrošina attiecīgo likumu saskaņošanu ar šajā likumā noteikto.

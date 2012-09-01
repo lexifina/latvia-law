@@ -1,0 +1,1 @@
+6. Izglītības iestāde pēc 2012.gada 1.septembra drīkst izsniegt šā likuma 8.panta otrajā daļā minēto diplomu, apliecību vai atestātu, kurā lietots papildinātais mazais valsts ģerbonis, bet ne ilgāk par 2014.gada 31.decembri.

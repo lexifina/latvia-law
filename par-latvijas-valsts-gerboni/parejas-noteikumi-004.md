@@ -1,0 +1,1 @@
+4. Šā likuma 5.panta pirmajā daļā minētā institūcija un amatpersona, kurai līdz 2012.gada 31.augustam bija tiesības lietot papildināto mazo valsts ģerboni, bet no 2012.gada 1.septembra ir tiesības lietot lielo valsts ģerboni, izbeidz papildinātā mazā valsts ģerboņa lietošanu ne vēlāk kā līdz 2014.gada 31.decembrim.
