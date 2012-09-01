@@ -1,6 +1,7 @@
 55.pants. Studiju programmas
 (1) Studiju programma ietver visas viena akadēmiskā grāda vai profesionālās kvalifikācijas iegūšanai nepieciešamās prasības. Studiju programmu reglamentē speciāls dokuments - studiju satura un realizācijas apraksts, kas:
 1) nosaka prasības attiecībā uz iepriekšējo izglītību;
+1¹) nosaka, kuram studiju virzienam attiecīgā studiju programma atbilst;
 2) atbilstoši izglītības pakāpei un veidam nosaka:
 a) konkrētās studiju programmas īstenošanas mērķi un studiju programmas noslēgumā plānotos studiju rezultātus, to skaitā paredzētos studiju kursus, studiju moduļus un tiem plānotos studiju rezultātus,
 b) piedāvājamās izglītības saturu,
@@ -16,25 +17,7 @@ d) izglītības kritērijus studiju rezultātu sasniegšanai un novērtēšanai,
 (3) Studiju programmu var izstrādāt un iesniegt apstiprināšanai atbilstoši attiecīgās augstskolas senāta vai koledžas padomes noteiktajai kārtībai.
 (4) Studiju programmas apstiprina augstskolas senāts vai koledžas padome. Pirms apstiprināšanas organizējama neatkarīga programmu ekspertīze, kurā ietver studiju programmas īstenošanas lietderības pamatojumu, norādot arī studiju programmas būtiskās atšķirības no līdzīgām tajā pašā augstskolā vai koledžā īstenotām tā paša līmeņa un tā paša studiju virziena studiju programmām.
 (5) Ar senāta vai koledžas padomes lēmumu par jaunas studiju programmas ieviešanu tiek apstiprināts atbildīgais par attiecīgās programmas īstenošanu (studiju programmas direktors), kā arī noteikts šīs programmas finanšu un tehniskais nodrošinājums.
-(6) Ikvienas studiju programmas īstenošanai jāsaņem licence. Viena mēneša laikā pēc licences saņemšanas studiju programma ierakstāma Izglītības programmu reģistrā. Licenci neizsniedz, ja:
-1) iesniegtie dokumenti neatbilst izglītības jomu reglamentējošajos normatīvajos aktos noteiktajām prasībām;
-2) akadēmiskā personāla kvalifikācija neatbilst studiju programmu īstenošanas nosacījumiem vai normatīvo aktu prasībām;
-3) studiju materiāltehniskā un informatīvā bāze neatbilst studiju programmas īstenošanas nosacījumiem;
-4) nav izstrādāts licencējamās studiju programmas saturs un tās īstenošanas mehānisms;
-5) sniegtas faktiskajiem apstākļiem neatbilstošas ziņas;
-6) augstskolas vai koledžas darbībā iepriekšējā gada laikā no lēmuma pieņemšanas dienas konstatēti izglītības jomu reglamentējošo normatīvo aktu pārkāpumi un iesniedzējs neveic normatīvajos aktos noteiktos pienākumus.
-(6¹) Licenci anulē, ja:
-1) sniegtas faktiskajiem apstākļiem neatbilstošas ziņas;
-2) augstskola vai koledža gada laikā pēc licences saņemšanas nav sākusi īstenot licencēto studiju programmu;
-3) augstskolas vai koledžas darbībā konstatēti normatīvo aktu pārkāpumi, kas saistīti ar licencēto studiju programmu;
-4) divu gadu laikā no studiju programmas īstenošanas uzsākšanas dienas nav iesniegts iesniegums studiju programmas akreditācijai;
-5) augstskola vai koledža 30 darbdienu laikā nesniedz Izglītības un zinātnes ministrijai pēc tās pieprasījuma pilnīgu informāciju par jautājumiem, kuri saistīti ar studiju procesa nodrošināšanu, kā arī augstskolas vai koledžas studiju, informatīvo (tai skaitā bibliotēku), institucionālo, materiāltehnisko vai finansiālo bāzi;
-6) akadēmiskajam personālam nav atbilstošas kvalifikācijas vai augstskola vai koledža nenodrošina atbilstošu studiju, informatīvo (tai skaitā bibliotēku), materiāltehnisko vai finansiālo bāzi;
-7) augstskola vai koledža licencētajā studiju programmā piedāvā veikt darbības, kas neatbilst šajā likumā vai citos normatīvajos aktos noteiktajām prasībām;
-8) augstskolā vai koledžā pārtraukta studiju programmas īstenošana.
-(7) Studiju programmas akreditējamas Ministru kabineta noteiktajā kārtībā divu gadu laikā no to īstenošanas uzsākšanas dienas un ne retāk kā reizi sešos gados. Viena mēneša laikā pēc akreditācijas Izglītības programmu reģistrā izdarāma atzīme par programmas akreditāciju. Augstskolu, koledžu vai studiju programmu akreditāciju var atteikt, ja:
-1) ir nelabvēlīgs novērtēšanas komisijas ekspertu motivēts kopējais ziņojums vai eksperta individuālais ziņojums (ja ekspertīzi veic viens eksperts) augstskolas, koledžas vai studiju programmas akreditācijā;
-2) augstskola, koledža vai studiju programma neatbilst šā likuma un citu izglītības jomu reglamentējošo normatīvo aktu prasībām;
-3) studiju materiāltehniskā, informatīvā bāze (tai skaitā bibliotēka), finansiālā bāze un akadēmiskā personāla kvalifikācija neatbilst studiju programmas īstenošanas nosacījumiem;
-4) studiju programmās maģistra vai doktora grāda iegūšanai studijas nav balstītas uz jaunākajiem attiecīgās zinātņu nozares sasniegumiem un atziņām.
+(6) (Izslēgta ar 14.07.2011. likumu)
+(6¹) (Izslēgta ar 14.07.2011. likumu)
+(7) (Izslēgta ar 14.07.2011. likumu)
 (8) Studiju programmas slēgšanas gadījumā augstskola finansiāli nodrošina studējošajiem iespēju turpināt izglītības ieguvi citā attiecīgās augstskolas vai citas augstskolas studiju programmā.
