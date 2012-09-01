@@ -9,5 +9,5 @@
 6) akadēmiskā amata pildīšanas sākuma termiņš attiecīgajā augstskolā un koledžā;
 7) akadēmiskajam amatam atbilstošās zinātnes nozares, apakšnozares un izglītības programmu grupas nosaukums.
 (3) Ziņas akadēmiskā personāla reģistram par savu akadēmisko personālu iesniedz augstskolas un koledžas. Augstskolas rektors vai koledžas direktors atbild par reģistram iesniegto ziņu precizitāti un atbilstību īstenībai.
-(4) Atjaunotu informāciju par izmaiņām iesniegtajās ziņās augstskola vai koledža iesniedz akadēmiskā personāla reģistram katru gadu (ne mazāk kā trīs reizes gadā) līdz 1.februārim, 1.maijam un 1.augustam.
+(4) Atjaunotu informāciju par izmaiņām šā panta otrajā daļā pieprasītajās ziņās augstskola vai koledža iesniedz akadēmiskā personāla reģistram ne vēlāk kā nedēļu pēc izmaiņām, ievadot to akadēmiskā personāla reģistrā elektroniski.
 (5) Šā panta otrās daļas 1., 3., 4., 5., 6. un 7.punktā minētās ziņas akadēmiskā personāla reģistra atbildīgā amatpersona publicē internetā ne vēlāk kā divu nedēļu laikā no šo izmaiņu saņemšanas.
