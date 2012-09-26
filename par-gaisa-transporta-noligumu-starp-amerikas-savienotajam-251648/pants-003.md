@@ -1,0 +1,1 @@
+3.pants. Nolīgums stājas spēkā tā 6.pantā noteiktajā laikā un kārtībā un tiek piemērots pagaidu kārtībā tā 5.panta noteiktajā laikā un kārtībā, Papildnolīgums stājas spēkā tā 9.pantā noteiktajā laikā un kārtībā un tiek piemērots pagaidu kārtībā tā 8.panta noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo oficiālajā izdevumā " Latvijas Vēstnesis ".
