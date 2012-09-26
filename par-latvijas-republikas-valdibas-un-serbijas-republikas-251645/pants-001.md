@@ -1,0 +1,1 @@
+1.pants. 2012.gada 2.martā Rīgā parakstītais Latvijas Republikas valdības un Serbijas Republikas valdības nolīgums par starptautiskajiem pārvadājumiem ar autotransportu (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
