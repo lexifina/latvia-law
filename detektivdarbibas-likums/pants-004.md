@@ -1,3 +1,3 @@
-4.pants. Licenci ir tiesīga saņemt detektīvsabiedrība, kurā:
-1) tās vadītājs un ikviena persona, kas ieņem amatu pārvaldes institūcijās, ir Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts pilsonis, kurš nav sodīts par noziedzīga nodarījuma izdarīšanu un kuram nav konstatēta psihiska slimība vai atkarība no alkohola, narkotiskām, psihotropām vai toksiskām vielām;
-2) detektīvdarbības pakalpojumu sniegšanai ir pieņemts darbā vismaz viens sertificēts detektīvs.
+4.pants. (1) Saņemt licenci un veikt detektīvdarbību ir tiesīgs individuālais komersants, personālsabiedrība vai kapitālsabiedrība, kurā attiecīgi individuālais komersants vai ikviens personālsabiedrību pārstāvēttiesīgais biedrs, vai kapitālsabiedrības valdes loceklis (turpmāk - detektīvsabiedrības vadītājs) ir Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts pilsonis vai Latvijas nepilsonis.
+(2) Saņemt licenci un veikt detektīvdarbību nav tiesīgs individuālais komersants, personālsabiedrība vai kapitālsabiedrība, ja uz tās vadītāju attiecas šajā likumā minētie ierobežojumi.
+(3) Individuālajam komersantam, personālsabiedrībai vai kapitālsabiedrībai, kurai anulēta licence, aizliegts atkārtoti izsniegt licenci, kamēr nav pagājis gads pēc tās anulēšanas.
