@@ -1,0 +1,1 @@
+33. Ministru kabinets līdz 2012.gada 31.augustam izstrādā un iesniedz Saeimai nepieciešamos grozījumus Bērnu tiesību aizsardzības likumā, lai to saskaņotu ar šā likuma 50.panta 1.punktā izdarītajiem grozījumiem (attiecībā uz aizliegumu strādāt par pedagogu personai, kas sodīta par tīša noziedzīga nodarījuma izdarīšanu).
