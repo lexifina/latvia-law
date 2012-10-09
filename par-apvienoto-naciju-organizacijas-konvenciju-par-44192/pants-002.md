@@ -1,1 +1,0 @@
-2.pants. Jebkurš šīs Konvencijas 11., 12.panta vai II daļas noteikums, kurš pieļauj, ka pirkuma-pārdevuma līgums, tā grozīšana vai pārtraukšana, pusēm vienojoties, vai oferte, akcepts vai jebkura cita gribas izpausme tiktu izdarīta nevis rakstveidā, bet jebkurā citā veidā, nav piemērojams, ja kaut vienai no pusēm ir savs komerciāls uzņēmums Latvijas Republikā.
