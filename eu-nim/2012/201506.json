@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "09.10.2012. MK noteikumi Nr.692 \"Noteikumi par aviācijas darbību dalību Eiropas Savienības emisijas kvotu tirdzniecības sistēmā\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "161(4764)",
+  "official_journal_page": null,
+  "official_journal_date": "2012-10-11",
+  "entry_into_force": "2012-10-12",
+  "notification_date": "2013-02-18",
+  "commission_reference": "MNE(2013)51478",
+  "nim_celex": "72008L0101LVA_201506",
+  "nim_id": "201506",
+  "transposes_celex": [
+    "32008L0101"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/62934ade-7b41-4588-a7c9-557f97112ebb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
