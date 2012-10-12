@@ -10,6 +10,8 @@ d) visos pārtikas aprites posmos veikt riska faktoru izpēti un analīzi;
 4) bioloģiskajā lauksaimniecībā:
 a) atzīt, uzraudzīt un kontrolēt institūcijas, kas pārbauda to personu darbību, kuras nodarbojas ar bioloģisko lauksaimniecību, un šo personu saražoto produkciju,
 b) veidot un uzturēt to personu sarakstu, kuras nodarbojas ar bioloģisko lauksaimniecību;
+c) izsniegt atļauju produktu importam no trešajām valstīm,
+d) apliecināt inspekcijas sertifikāta izrakstu importēto produktu sūtījuma sadalīšanas gadījumā;
 5) pēc kompetentas valsts institūcijas vai komersanta, kas eksportē pārtiku, pieprasījuma apliecināt atbilstību savas kompetences ietvaros;
 6) pārtikas produktu valsts intervencē:
 a) kontrolēt valsts intervencē iepērkamo pārtikas produktu atbilstību obligātajām kvalitātes un nekaitīguma prasībām,
@@ -25,10 +27,13 @@ b) veikt intervences noliktavu uzraudzību atbilstoši normatīvo aktu prasībā
 14) izveidot, aktualizēt un uzturēt 4.panta 10.¹daļā minētos reģistrus un datu bāzes;
 14¹) (izslēgts ar 20.05.2010. likumu);
 15) (izslēgts ar 12.11.2009. likumu);
-16) uzraudzīt un kontrolēt institūcijas, kas pārbauda to personu darbību, kuras piedalās pārtikas kvalitātes shēmās;
+16) pārtikas kvalitātes shēmu uzraudzības jomā:
+a) uzraudzīt un kontrolēt to personu darbību, kas piedalās nacionālajā pārtikas kvalitātes shēmā,
+b) veidot, uzturēt un aktualizēt nacionālajā pārtikas kvalitātes shēmā iesaistīto operatoru, izejvielu piegādātāju un nacionālās pārtikas kvalitātes shēmas produktu sarakstu;
 17) atzīt un uzraudzīt laboratorijas, kas veic svaigpiena kvalitātes laboratoriskos izmeklējumus;
-18) uzraudzīt un kontrolēt saskarei ar pārtiku paredzēto materiālu un izstrādājumu ražošanas, pārstrādes un izplatīšanas procesu.
-(3) Pārtikas aprites valsts uzraudzību un kontroli Pārtikas un veterinārais dienests veic saskaņā ar Pārtikas padomē izvērtētajām uzraudzības programmām, ievērojot likumā par valsts budžetu kārtējam gadam piešķirto apropriāciju.
+18) uzraudzīt un kontrolēt saskarei ar pārtiku paredzēto materiālu un izstrādājumu ražošanas, pārstrādes un izplatīšanas procesu;
+19) veikt kompetentajai iestādei paredzētos uzdevumus attiecībā uz sadarbību ar Eiropas Komisiju un Eiropas Pārtikas nekaitīguma iestādi atbilstoši prasībām, kas noteiktas Eiropas Parlamenta un Padomes 2006.gada 20.decembra regulā Nr. 1924/2006 par uzturvērtības un veselīguma norādēm uz pārtikas produktiem.
+(3) Pārtikas aprites valsts uzraudzību un kontroli Pārtikas un veterinārais dienests veic saskaņā ar ikgadējām valsts uzraudzības un kontroles programmām, ievērojot likumā par valsts budžetu kārtējam gadam piešķirto apropriāciju.
 (4) Prasības tādas pārtikas ievešanai no trešajām valstīm, kura nav pakļauta veterinārajai kontrolei, kā arī kontroles kārtību valsts robežkontroles punktos, brīvajās zonās, brīvajās noliktavās un muitas noliktavās nosaka Ministru kabinets.
 (5) Prasības iekārtojumam kontroles punktos, kuros veic pārtikas sanitāro robežkontroli, un kontroles punktu atzīšanas kārtību nosaka Ministru kabinets.
 (6) Prasības references laboratorijām un references laboratoriju pilnvarošanas kārtību nosaka Ministru kabinets.
