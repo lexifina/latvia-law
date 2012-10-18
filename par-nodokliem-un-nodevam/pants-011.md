@@ -121,7 +121,7 @@
 103) par uztura bagātinātāju reģistrāciju;
 104) par diētiskās pārtikas un zīdaiņiem paredzēto mākslīgo maisījumu reģistrāciju;
 105) par atļaujas izsniegšanu dabīgā minerālūdens izplatīšanai tirgū;
-106) par atļaujas izsniegšanu komersantam tirdzniecībai ar mājas (istabas) dzīvniekiem;
+106) (izslēgts ar 27.09.2012. likumu);
 107) par speciālās atļaujas (licences) augu aizsardzības līdzekļu izplatīšanai izsniegšanu un pārreģistrāciju;
 108) par atzinuma par ūdens apgādes sistēmā konstatēto apdraudējumu cilvēku veselībai un veiktajiem korektīvajiem pasākumiem sagatavošanu;
 109) par Enerģētikas likumā noteikto drošības rezervju uzturēšanu;
