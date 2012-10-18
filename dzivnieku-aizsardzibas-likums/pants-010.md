@@ -32,7 +32,7 @@ o) informācijas reģistrēšanas, apkopošanas un pārskatu iesniegšanas, kā 
 16) valsts nodevas apmēru un samaksas kārtību par dzīvnieka pārvadātāja apliecības izsniegšanu;
 17) valsts nodevas apmēru un samaksas kārtību par atļaujas izsniegšanu transportlīdzeklim dzīvnieku pārvadāšanai;
 18) valsts nodevas apmēru un samaksas kārtību par savvaļas sugu dzīvnieku turēšanas vietas reģistrāciju;
-19) valsts nodevas apmēru un samaksas kārtību par atļaujas izsniegšanu komersantam tirdzniecībai ar mājas (istabas) dzīvniekiem;
+19) (izslēgts ar 08.03.2012. likumu);
 20) prasības klaiņojošu suņu un kaķu izķeršanai, dzīvnieku ķērāja pienākumus, apmācības programmu, apmācības un reģistrācijas kārtību, samaksu par dzīvnieku ķērāja apmācību un apliecības izgatavošanu un izsniegšanu, kā arī dzīvnieku ķērāja apliecību izsniegšanas un anulēšanas kārtību;
 21) prasības savvaļas sugu dzīvnieku turēšanai zooloģiskajā dārzā un prasības zooloģiskā dārza izveidošanai un reģistrācijai;
 22) savvaļas sugu dzīvnieku turēšanas vietu reģistrācijas kārtību;
