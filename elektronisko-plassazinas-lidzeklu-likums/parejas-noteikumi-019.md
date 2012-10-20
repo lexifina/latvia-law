@@ -1,0 +1,1 @@
+19. No 2013.gada 31.marta līdz 2013.gada 31.decembrim šā likuma 19.panta sestajā daļā minētie nosacījumi netiek piemēroti attiecībā uz komerciālo nacionālo elektronisko plašsaziņas līdzekļu televīzijas programmu pievadīšanu attiecīgās kabeļtelevīzijas abonentiem.
