@@ -1,5 +1,8 @@
 15.pants. Uzraudzības iestādes tiesības
-(1) Uzraudzības iestāde uz personas iesnieguma, citas iestādes sniegtās informācijas pamata vai pēc savas iniciatīvas izvērtē komercprakses atbilstību patērētāju tiesību aizsardzību reglamentējošo un citu normatīvo aktu, kā arī šā likuma prasībām.
+(1) Uzraudzības iestāde veic komercprakses uzraudzību atbilstoši iestādes noteiktajām uzraudzības prioritātēm, izvērtējot iespējamā pārkāpuma ietekmi uz patērētāju kolektīvajām interesēm, kā arī nodrošinot līdzsvarotu komercprakses īstenotāju darbības uzraudzību:
+1) pēc savas iniciatīvas, tai skaitā pamatojoties uz personas iesniegumu atbilstoši Patērētāju tiesību aizsardzības likumam;
+2) pamatojoties uz tādas iestādes sniegtu informāciju, kuras kompetencē ir attiecīgās jomas uzraudzība un kontrole;
+3) pamatojoties uz iesniegumu, ko iesniegusi Eiropas Savienības dalībvalsts iestāde, kura ir iekļauta Eiropas Savienības Oficiālajā Vēstnesī publicētajā tādu dalībvalstu iestāžu sarakstā, kuras ir tiesīgas pieņemt nolēmumu sakarā ar kompetentās iestādes iesniegumu par Eiropas Savienībā izdarīto patērētāju tiesību pārkāpumu.
 (2) Uzraudzības iestāde, izvērtējot komercprakses atbilstību šā likuma prasībām, ir tiesīga pieprasīt un saņemt no komercprakses īstenotāja visu lietas būtības noskaidrošanai nepieciešamo informāciju, dokumentus un citus pierādījumus par komercpraksē izmantotās informācijas patiesumu, darbības atbilstību šā likuma prasībām, kā arī noteikt dokumentu un pierādījumu iesniegšanas termiņu.
 (3) Ja komercprakses īstenotājs nesniedz saskaņā ar šā panta otro daļu pieprasīto informāciju vai sniedz to nepilnīgi, Uzraudzības iestāde ir tiesīga uzskatīt, ka komercpraksē izmantotā informācija ir neprecīza vai nepatiesa.
 (4) Uzraudzības iestāde, izvērtējot komercprakses raksturu un būtību, kā arī citus aspektus, ir tiesīga ierosināt, lai komercprakses īstenotājs:
