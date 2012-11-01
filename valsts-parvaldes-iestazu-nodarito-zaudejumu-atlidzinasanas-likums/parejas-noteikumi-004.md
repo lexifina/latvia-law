@@ -1,0 +1,1 @@
+4. Privātpersonas, kurām atteikts pieņemt iesniegumu par zaudējuma atlīdzinājumu, jo tas iesniegts pēc šā likuma 17.pantā noteikto termiņu beigām, līdz 2013.gada 31.jūlijam var iesniegt atkārtotu iesniegumu par zaudējuma atlīdzinājumu, lūdzot atjaunot nokavēto procesuālo termiņu.
