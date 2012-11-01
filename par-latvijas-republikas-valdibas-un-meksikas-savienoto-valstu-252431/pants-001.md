@@ -1,0 +1,1 @@
+1.pants. 2012.gada 20.aprīlī Vašingtonā, Kolumbijas apgabalā, parakstītā Latvijas Republikas valdības un Meksikas Savienoto Valstu valdības konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma nodokļiem (turpmāk - Konvencija) un tās Protokols ar šo likumu tiek pieņemti un apstiprināti.
