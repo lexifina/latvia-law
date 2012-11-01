@@ -1,0 +1,1 @@
+1.pants. 2012.gada 29.maijā Rīgā parakstītais Latvijas Republikas un Gruzijas protokols, ar ko groza 2004.gada 13.oktobra konvenciju par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem (turpmāk - Protokols), ar šo likumu tiek pieņemts un apstiprināts.
