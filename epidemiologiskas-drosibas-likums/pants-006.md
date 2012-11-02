@@ -6,8 +6,8 @@
 2) pildot dienesta pienākumus, apmeklēt jebkuru objektu Latvijas Republikas teritorijā neatkarīgi no tā piederības un normatīvajos aktos noteiktajā kārtībā veikt attiecīgā objekta vai atsevišķu priekšmetu apskati, ja ir pamatotas aizdomas, ka tas var saturēt vai pārnest infekcijas slimību izraisītājus;
 3) pieņemt lēmumus par epidemioloģiskās kontroles objekta darbības apturēšanu;
 4) administratīvi sodīt vainīgās personas par normatīvo aktu pārkāpšanu.
-(4) Veselības inspekcija novērtē vides faktoru ietekmi uz cilvēka veselību, sniedz priekšlikumus cilvēka veselībai nekaitīgas vides nodrošināšanai un pēc pieprasījuma novērtē higiēnas prasību izpildi.
+(4) Veselības inspekcija novērtē vides faktoru ietekmi uz cilvēka veselību, sniedz priekšlikumus cilvēka veselībai nekaitīgas vides nodrošināšanai un pēc pieprasījuma novērtē higiēnas prasību izpildi, kā arī informē institūcijas un iedzīvotājus par peldūdens kvalitāti.
 (5) Ministru kabinets nosaka apmēru un kārtību, kādā maksājama valsts nodeva par šādiem Veselības inspekcijas sniegtajiem pakalpojumiem:
 1) par atzinuma par aizsargjoslas saskaņošanu ap ūdens ņemšanas vietām sagatavošanu;
-2) par atzinuma par veselīguma norādi uz pārtikas produktiem sagatavošanu;
+2) (izslēgts ar 04.10.2012. likumu);
 3) par atzinuma par ūdens apgādes sistēmā konstatēto apdraudējumu cilvēka veselībai un veiktajiem korektīvajiem pasākumiem sagatavošanu.
