@@ -1,0 +1,1 @@
+1.pants. 2012.gada 4.jūnijā Tallinā parakstītais Līgums par Ziemeļeiropas funkcionālā gaisa telpas bloka izveidošanu starp Igaunijas Republiku, Somijas Republiku, Latvijas Republiku un Norvēģijas Karalisti (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
