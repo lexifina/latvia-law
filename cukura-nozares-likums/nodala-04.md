@@ -1,2 +1,2 @@
 IV nodaļa
-Informācijas sniegšana
+Cukura ražošana un informācijas sniegšana
