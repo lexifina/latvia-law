@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2012. gada 6. novembra noteikumi Nr. 748 \"Dokumentu un arhīvu pārvaldības noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "177",
+  "official_journal_page": null,
+  "official_journal_date": "2012-11-08",
+  "entry_into_force": "2012-11-09",
+  "notification_date": "2022-02-10",
+  "commission_reference": "MNE(2022)00902",
+  "nim_celex": "72019L1937LVA_202200902",
+  "nim_id": "202200902",
+  "transposes_celex": [
+    "32019L1937"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5374ebda-8b18-11ec-8c40-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
