@@ -1,0 +1,1 @@
+2.pants. Nolīgumā paredzēto saistību izpildi koordinē Satiksmes ministrija. Nolīguma 9.pantā paredzēto saistību izpildi attiecībā uz autopārvadājumu atļauju izmantošanas nosacījumu ievērošanu koordinē Iekšlietu ministrija.

@@ -1,0 +1,1 @@
+1.pants. 2012.gada 27.aprīlī Rīgā parakstītais Latvijas Republikas valdības un Maķedonijas Republikas valdības nolīgums par starptautiskajiem pārvadājumiem ar autotransportu (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
