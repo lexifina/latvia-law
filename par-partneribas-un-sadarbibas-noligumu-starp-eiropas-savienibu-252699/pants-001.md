@@ -1,0 +1,1 @@
+1.pants. 2012.gada 11.maijā Briselē parakstītais Partnerības un sadarbības nolīgums starp Eiropas Savienību un tās dalībvalstīm, no vienas puses, un Irākas Republiku, no otras puses (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.
