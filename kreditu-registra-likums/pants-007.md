@@ -1,0 +1,1 @@
+7.pants. Ziņas reģistrā iekļauj latviešu valodā. Tādas fiziskās personas vārdu un uzvārdu, kura nav Latvijas pilsonis vai nepilsonis, kā arī citā valstī reģistrētas personas nosaukumu reģistrā iekļauj, izmantojot latīņu alfabētu.

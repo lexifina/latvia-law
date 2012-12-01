@@ -1,0 +1,1 @@
+17.pants. Latvijas Banka nosaka klientam un klienta galviniekam, kā arī reģistra dalībniekam, ierobežotam reģistra dalībniekam un patērētāja kreditoram izsniedzamo reģistrā iekļauto ziņu apjomu, kā arī ziņu izsniegšanas un pasta izdevumu segšanas termiņu un kārtību.

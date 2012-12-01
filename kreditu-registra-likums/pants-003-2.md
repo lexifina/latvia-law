@@ -1,0 +1,1 @@
+3. Ja reģistra dalībnieka likvidācija uzsākta laikā no 2003.gada 2.jūnija līdz 2007.gada 31.decembrim, reģistra dalībnieks iekļauj, labo, aktualizē vai anulē tās reģistrā iekļautās ziņas, kuras šis reģistra dalībnieks iekļāvis Parādnieku reģistrā šajā punktā minētajā termiņā.

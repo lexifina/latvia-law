@@ -1,0 +1,2 @@
+14.pants. (1) Klientam un klienta galviniekam ir tiesības bez maksas saņemt reģistrā iekļautās ziņas par sevi. Klientam un klienta galviniekam nav tiesību saņemt finanšu tirgus dalībnieku uzraudzības un makroekonomiskās analīzes ziņas.
+(2) Ja pēc klienta vai klienta galvinieka pieprasījuma reģistrā iekļautās ziņas izsniedz, nosūtot pa pastu, šis klients vai klienta galvinieks maksā Latvijas Bankai par pasta pakalpojumiem saskaņā ar pasta pakalpojuma sniedzēja tarifiem.

@@ -1,0 +1,1 @@
+12.pants. Reģistra dalībnieks vai ierobežots reģistra dalībnieks pirms ziņu par klienta vai klienta galvinieka saistību pārkāpumiem iekļaušanas reģistrā par to informē attiecīgo klientu vai klienta galvinieku.

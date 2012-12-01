@@ -1,0 +1,1 @@
+5.pants. Latvijas Bankai un Finanšu un kapitāla tirgus komisijai ir tiesības izpaust un publiskot reģistrā iekļautās ziņas apkopojuma un pārskata veidā tā, ka nav iespējams tieši vai netieši identificēt klientu, klienta galvinieku, reģistra dalībnieku vai ierobežotu reģistra dalībnieku un nav iespējams nodarīt kaitējumu valsts ekonomiskajām interesēm.
