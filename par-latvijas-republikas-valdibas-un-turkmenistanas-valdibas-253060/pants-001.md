@@ -1,0 +1,1 @@
+1.pants. 2012.gada 11.septembrī Rīgā parakstītā Latvijas Republikas valdības un Turkmenistānas valdības konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
