@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Kredītu reģistra likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "92",
+  "official_journal_page": null,
+  "official_journal_date": "2012-06-13",
+  "entry_into_force": "2012-12-01",
+  "notification_date": "2024-08-01",
+  "commission_reference": "MNE(2024)03483",
+  "nim_celex": "72021L2167LVA_202403483",
+  "nim_id": "202403483",
+  "transposes_celex": [
+    "32021L2167"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8f021b68-8c5b-46e6-a8c3-a0a90bc58184",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
