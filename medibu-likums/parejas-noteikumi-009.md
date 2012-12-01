@@ -1,0 +1,3 @@
+9. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2013.gada 31.decembrim ir spēkā šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:
+1) Ministru kabineta 2003.gada 23.decembra noteikumi Nr.760 "Medību noteikumi";
+2) Ministru kabineta 2004.gada 2.marta noteikumi Nr.109 "Noteikumi par valsts nodevu par mednieka apliecības, mednieka sezonas kartes un medību atļaujas izsniegšanu, par atļaujas izsniegšanu ārvalstu medniekam medīt Latvijas teritorijā un atļaujas izsniegšanu izvest medību trofejas no Latvijas, kā arī medību trofeju izvešanas kārtību".
