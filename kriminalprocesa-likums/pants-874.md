@@ -1,0 +1,4 @@
+874.pants. Latvijai saistošie Eiropas Savienības dalībvalsts pieņemtie lēmumi attiecībā uz lēmumu, kas nosaka ar brīvības atņemšanu nesaistīta drošības līdzekļa piemērošanu
+(1) Eiropas Savienības dalībvalsts lēmumi, kas nosaka ar brīvības atņemšanu nesaistīta drošības līdzekļa grozīšanu vai atcelšanu, ir saistoši Latvijai.
+(2) Ja Eiropas Savienības dalībvalsts pieņem lēmumu grozīt lēmumu, kas nosaka ar brīvības atņemšanu nesaistīta drošības līdzekļa piemērošanu, Ģenerālprokuratūra atzīst šo lēmumu un nosaka drošības līdzekli atbilstoši šā likuma 870.pantam. Ja pieņemtais lēmums netiek atzīts un aizliegums vai pienākums neatbilst šā likuma 867.panta pirmajai daļai, Ģenerālprokuratūra atsaka piemērot grozīto drošības līdzekli.
+(3) Ģenerālprokuratūra, lemjot jautājumu par lēmuma, kas groza drošības līdzekli, atzīšanu, izvērtē tikai šā likuma 868.panta 3.punktā noteikto atteikuma iemeslu.

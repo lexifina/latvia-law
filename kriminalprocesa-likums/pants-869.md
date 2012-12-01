@@ -1,0 +1,3 @@
+869.pants. Lēmuma, kas nosaka ar brīvības atņemšanu nesaistīta drošības līdzekļa piemērošanu, atzīšanas atlikšana
+(1) Ja īpašas formas apliecinājums ir nepilnīgs vai neatbilst lēmuma, kas nosaka ar brīvības atņemšanu nesaistīta drošības līdzekļa piemērošanu, saturam, Ģenerālprokuratūra var atlikt tā atzīšanu, informējot attiecīgo Eiropas Savienības dalībvalsti par nepieciešamību noteiktā termiņā to precizēt.
+(2) Ja pastāv šā likuma 868.panta pirmās daļas 1., 3., 4. vai 5.punktā noteiktie atteikuma iemesli, Ģenerālprokuratūra var atlikt Eiropas Savienības dalībvalsts lēmuma atzīšanu, informējot attiecīgo Eiropas Savienības dalībvalsti par nepieciešamību noteiktā laikā sniegt papildu informāciju.
