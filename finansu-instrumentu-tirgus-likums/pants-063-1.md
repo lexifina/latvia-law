@@ -12,7 +12,10 @@
 (4¹) Papildus starptautiskajiem finanšu pārskatu standartiem attiecībā uz konsolidētajiem finanšu pārskatiem un konsolidētajiem sešu mēnešu starpperiodu finanšu pārskatiem par līdzvērtīgiem starptautiskiem finanšu pārskatu standartiem uzskata:
 1) starptautiskus finanšu pārskatu standartus ar noteikumu, ka pārbaudīto vai revidēto finanšu pārskatu pielikumā ietverts skaidrs un tiešs paziņojums, ka šie finanšu pārskati atbilst 1.Starptautiskajam Grāmatvedības standartam "Finanšu pārskatu sniegšana", kas pieņemts ar Eiropas Komisijas 2008.gada 18.decembra regulu (EK) Nr. 1274/2008, ar kuru attiecībā uz 1.Starptautisko Grāmatvedības standartu (SGS) groza regulu (EK) Nr. 1126/2008, ar ko pieņem vairākus starptautiskos grāmatvedības standartus saskaņā ar Eiropas Parlamenta un Padomes regulu (EK) Nr. 1606/2002;
 2) Japānas vispārpieņemtos grāmatvedības principus;
-3) Amerikas Savienoto Valstu vispārpieņemtos grāmatvedības principus.
+3) Amerikas Savienoto Valstu vispārpieņemtos grāmatvedības principus;
+4) Ķīnas Tautas Republikas vispārpieņemtos grāmatvedības principus;
+5) Kanādas vispārpieņemtos grāmatvedības principus;
+6) Korejas Republikas vispārpieņemtos grāmatvedības principus.
 (4²) Emitents, kura juridiskā adrese ir ārvalstī, paziņojumu par datumu, kurā tas pāriet uz starptautiskajiem finanšu pārskatu standartiem, izplata šā likuma 64.² pantā noteiktajā kārtībā, un Komisija prasību par līdzvērtības atzīšanu attiecībā uz šo emitentu atceļ ar šajā paziņojumā minēto datumu.
 (4³) Gadījumos, kad emitenta juridiskā adrese ir ārvalstī un tas neizmanto starptautiskos finanšu pārskatu standartus vai līdzvērtīgus starptautiskos finanšu pārskatu standartus, sagatavotais konsolidētais gada pārskats uzskatāms par atbilstošu šā likuma 56.panta otrās daļas prasībām, ja tas ietver informāciju par:
 1) dividenžu aprēķinu un spēju izmaksāt dividendes. Šī prasība attiecas uz akciju emitentiem;
