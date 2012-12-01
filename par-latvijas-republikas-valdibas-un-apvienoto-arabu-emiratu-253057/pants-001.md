@@ -1,0 +1,1 @@
+1.pants. 2012.gada 11.martā Abū Dabī parakstītā Latvijas Republikas valdības un Apvienoto Arābu Emirātu valdības konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem (turpmāk - Konvencija) un tās 2012.gada 11.martā Abū Dabī parakstītais protokols (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
