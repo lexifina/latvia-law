@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "13.11.2012. MK noteikumi Nr.769 \"Noteikumi par stacionāro tehnoloģisko iekārtu dalību Eiropas Savienības emisijas kvotu tirdzniecības sistēmā\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "190(4793)",
+  "official_journal_page": null,
+  "official_journal_date": "2012-12-04",
+  "entry_into_force": "2012-12-05",
+  "notification_date": "2013-02-18",
+  "commission_reference": "MNE(2013)51479",
+  "nim_celex": "72008L0101LVA_201507",
+  "nim_id": "201507",
+  "transposes_celex": [
+    "32008L0101"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e548713a-01eb-48db-972b-bbe3ec3ee277",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
