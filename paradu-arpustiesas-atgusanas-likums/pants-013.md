@@ -1,0 +1,16 @@
+13.pants. Informācijas iekļaušana parādvēstures datubāzē
+(1) Informāciju par parādnieku un tā parādu iekļauj parādvēstures datubāzē, ja ievēroti visi šādi nosacījumi:
+1) darījumā vai tiesību aktā noteiktais maksājuma saistību izpildes kavējums ir ilgāks par 60 dienām;
+2) ir iestājies parāda atgūšanas pakalpojuma sniedzēja paziņojumā noteiktais parādnieka iebildumu izteikšanas termiņš un parādnieks šajā termiņā nav samaksājis parādu.
+(2) Parādvēstures datubāzē iekļauj šādu informāciju par parādnieku un tā parādu:
+1) parādnieka vārds, uzvārds, personas kods;
+2) datums, kurā informācija iekļauta parādvēstures datubāzē;
+3) parāda apmērs, tai skaitā pamatparāda apmērs, procenti par naudas summas vai citu atvietojamu lietu lietošanas atvēlējumu, pielīgtie vai likumiskie procenti un līgumsoda apmērs;
+4) samaksātā parāda daļa;
+5) parāda samaksas ilgums;
+6) parāda atgūšanas statuss (notiek vai nenotiek parāda atgūšana; datums, kurā parāda atgūšana izbeigta; ja parāda atgūšana ir izbeigta, izbeigšanas iemesls - ir strīds vai nav strīda par parāda esamību vai tā apmēru);
+7) ja kreditors ir saimnieciskās darbības veicējs, - nozare, kurā darbojas parādnieka kreditors saskaņā ar Eiropas Parlamenta un Padomes 2006.gada 20.decembra regulu (EK) Nr. 1893/2006, ar ko izveido NACE 2.red. saimniecisko darbību statistisko klasifikāciju, kā arī groza Padomes regulu (EEK) Nr. 3037/90 un dažas EK regulas par īpašām statistikas jomām.
+(3) Parāda atgūšanas pakalpojuma sniedzējs rakstveidā paziņo parādniekam par informācijas iekļaušanu parādvēstures datubāzē. Tajā iekļauto informāciju dara pieejamu trešajām personām ne agrāk kā 30 dienas pēc paziņojuma nosūtīšanas parādniekam.
+(4) Trešā persona, pamatojoties uz rakstveida līgumu ar parādvēstures datubāzes turētāju, ir tiesīga saņemt šā panta otrajā daļā minēto parādvēstures datubāzē iekļauto informāciju par parādnieku un tā parādu, ja parādnieks Fizisko personu datu aizsardzības likumā noteiktajā kārtībā tam piekritis. Ja parādnieks apgalvo, ka nav devis piekrišanu datubāzē iekļautās informācijas nodošanai trešajai personai, pienākums pierādīt šādas piekrišanas esamību ir tam, kurš apgalvo, ka piekrišana ir dota.
+(5) Ja parāda atgūšanas pakalpojuma sniedzējs pats vai pēc parādnieka vai citas personas sniegtās informācijas konstatē, ka parādvēstures datubāzē iekļautā informācija ir neprecīza, nepilnīga vai nepatiesa, parāda atgūšanas pakalpojuma sniedzēja pienākums ir nekavējoties novērst šos trūkumus un par to paziņot trešajām personām, kuras saņēmušas attiecīgo informāciju. Parāda atgūšanas pakalpojuma sniedzēja atteikumu novērst attiecīgos trūkumus var apstrīdēt Datu valsts inspekcijā Fizisko personu datu aizsardzības likumā noteiktajā kārtībā.
+(6) Informācija parādvēstures datubāzē tiek glabāta trīs gadus no parāda samaksas dienas vai saistību izpildes dzēšanas dienas likumā noteiktajā kārtībā. Ja parāds netiek samaksāts, informāciju par parādnieka parādu glabā parādvēstures datubāzē līdz prasījuma tiesību noilguma izbeigšanās dienai.

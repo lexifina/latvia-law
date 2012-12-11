@@ -1,0 +1,12 @@
+7.pants. Patiesas un pilnīgas informācijas sniegšanas pienākums
+(1) Kreditors vai parāda atgūšanas pakalpojuma sniedzējs, uzsākot parāda atgūšanu, rakstveidā paziņo parādniekam par parāda esamību un aicina labprātīgi izpildīt kavētās maksājuma saistības. Šajā paziņojumā sniedzama šāda informācija:
+1) par kreditoru - juridisko personu - firma (nosaukums), reģistrācijas numurs, juridiskā adrese, telefona numurs, elektroniskā pasta adrese un cita kontaktinformācija; par kreditoru - fizisko personu - vārds, uzvārds, personas kods, adrese, telefona numurs, elektroniskā pasta adrese un cita kontaktinformācija;
+2) par parāda atgūšanas pakalpojuma sniedzēju - juridisko personu - firma (nosaukums), reģistrācijas numurs, speciālās atļaujas (licences) numurs, juridiskā adrese, telefona numurs, elektroniskā pasta adrese un cita kontaktinformācija; par parāda atgūšanas pakalpojuma sniedzēju - fizisko personu - vārds, uzvārds, personas kods, speciālās atļaujas (licences) numurs, adrese, telefona numurs, elektroniskā pasta adrese un cita kontaktinformācija;
+3) uz kāda tiesiska pamata parāda atgūšanas pakalpojuma sniedzējs ieguvis tiesības atgūt parādu - darījuma veids un darījuma noslēgšanas datums;
+4) kreditora prasījuma rašanās tiesiskais pamats - kreditora un parādnieka noslēgtā darījuma veids, darījuma noslēgšanas datums un darījuma priekšmets;
+5) parāda apmērs, tai skaitā pamatparāda apmērs, procenti par naudas summas vai citu atvietojamu lietu lietošanas atvēlējumu, pielīgtie vai likumiskie procenti un līgumsoda apmērs;
+6) parāda atgūšanas izdevumi (ja tādi ir);
+7) parāda atmaksas kārtība un termiņš;
+8) informācija par iespēju izteikt pamatotus rakstveida iebildumus pret parāda esamību, tā apmēru un samaksas termiņu, paredzot, ka iebildumu izteikšanai tiek atvēlēta ne mazāk kā 21 diena no paziņojuma saņemšanas dienas.
+(2) Ja kreditors vai parāda atgūšanas pakalpojuma sniedzējs rakstveida paziņojumu vai parādnieks - rakstveida iebildumus nosūta pa pastu, uzskatāms, ka informācija saņemta septītajā dienā pēc tās nodošanas pastā, arī tad, ja adresāts sūtījumu faktiski saņēmis agrāk.
+(3) Parādnieka iebildumu izteikšanai noteiktajā termiņā kreditors un parāda atgūšanas pakalpojuma sniedzējs nedrīkst veikt parāda atgūšanas darbības (iekļaut parādvēstures datubāzē informāciju par parādnieku un tā parādu, veikt darbības, kas palielina parāda atgūšanas izdevumus, u.c.), kas parādniekam var radīt nelabvēlīgas sekas.

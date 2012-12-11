@@ -1,0 +1,1 @@
+4. Parāda atgūšanas pakalpojuma sniedzējs ir tiesīgs iegūt no Iedzīvotāju reģistra šā likuma 14.pantā minēto informāciju pēc tam, kad ir izpildījis šā likuma 5.panta pirmās daļas prasību un saņēmis speciālo atļauju (licenci) parādu atgūšanai.
