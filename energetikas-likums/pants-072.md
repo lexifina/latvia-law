@@ -1,3 +1,3 @@
 72.pants
-(1) Ministru kabinets nosaka kārtību, kādā komersanti, kuri ir tiesīgi veikt komercdarbību ar naftas produktiem (degvielu) Latvijā vai citā Eiropas Savienības dalībvalstī, vai Eiropas Ekonomikas zonas valstī, un komersanti, kuri ieved Latvijā naftas produktus (degvielu) savam patēriņam, nodrošina un sniedz drošības rezervju pakalpojumu valsts naftas produktu (degvielas) rezervju izveidei noteiktā apjomā, lai enerģētiskās krīzes periodos tiktu nodrošināta apgāde ar naftas produktiem (degvielu).
+(1) Ministru kabinets nosaka kārtību, kādā komersanti nodrošina un sniedz drošības rezervju pakalpojumu valsts naftas produktu (degvielas) rezervju izveidei noteiktā apjomā, lai enerģētiskās krīzes periodos tiktu nodrošināta apgāde ar naftas produktiem (degvielu).
 (2) Par šā panta pirmajā daļā minētā drošības rezervju pakalpojuma nodrošināšanu un sniegšanu Ekonomikas ministrija reizi gadā līdz kārtējā gada 1.jūnijam izsludina atklātus konkursus.
