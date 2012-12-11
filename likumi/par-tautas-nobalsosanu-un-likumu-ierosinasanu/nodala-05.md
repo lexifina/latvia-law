@@ -1,2 +1,2 @@
 V nodaļa
-NOBEIGUMA NOTEIKUMI
+Tautas nobalsošanas izdevumu finansēšana

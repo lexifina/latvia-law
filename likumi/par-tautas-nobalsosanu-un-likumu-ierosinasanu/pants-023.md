@@ -1,2 +1,13 @@
-23. pants. (1) Konstatējusi, ka iesniegto likumprojektu vai Satversmes grozījumu projektu parakstījuši ne mazāk kā 10 000 balsstiesīgo Latvijas pilsoņu, Centrālā vēlēšanu komisija paziņo, ka tiek uzsākta parakstu vākšana šā likuma ierosināšanai, vienlaikus nogādājot visām republikas pilsētu un novadu vēlēšanu komisijām attiecīgo likumprojektu vai Satversmes grozījumu projektu, kā arī parakstu vākšanas lapas pietiekamā skaitā.
-(2) Paziņojums par likuma ierosināšanai nepieciešamo parakstu vākšanas uzsākšanu kopā ar iesniegto likumprojektu vai Satversmes grozījumu projektu publicējams laikrakstā "Latvijas Vēstnesis".
+23.pants. (1) Parakstu vākšanai par likumprojektu vai Satversmes grozījumu projektu izveido iniciatīvas grupu.
+(2) Iniciatīvas grupa var būt:
+1) politiskā partija vai politisko partiju apvienība;
+2) Biedrību un nodibinājumu likumā noteiktajā kārtībā izveidota un reģistrēta ne mazāk kā 10 vēlētāju izveidota biedrība.
+(3) Iniciatīvas grupa iesniedz Centrālajai vēlēšanu komisijai iesniegumu un likumprojektu vai Satversmes grozījumu projektu, par kuru plānots vākt vēlētāju parakstus.
+(4) Centrālā vēlēšanu komisija 45 dienu laikā pieņem vienu no šādiem lēmumiem:
+1) reģistrēt likumprojektu vai Satversmes grozījumu projektu;
+2) noteikt termiņu iesniegumā un likumprojektā vai Satversmes grozījumu projektā konstatēto trūkumu novēršanai;
+3) atteikt likumprojekta vai Satversmes grozījumu projekta reģistrāciju šā panta piektajā daļā minētajos gadījumos.
+(5) Centrālā vēlēšanu komisija atsaka likumprojekta vai Satversmes grozījumu projekta reģistrāciju, ja:
+1) iniciatīvas grupa neatbilst šā panta otrās daļas prasībām;
+2) likumprojekts vai Satversmes grozījumu projekts pēc formas vai satura nav pilnībā izstrādāts.
+(6) Centrālā vēlēšanu komisija, lemjot par iniciatīvas grupas iesniegto likumprojektu vai Satversmes grozījumu projektu, var pieprasīt šā jautājuma izlemšanai vajadzīgās ziņas, paskaidrojumus un atzinumus no valsts un pašvaldību institūcijām, kā arī pieaicināt ekspertus.

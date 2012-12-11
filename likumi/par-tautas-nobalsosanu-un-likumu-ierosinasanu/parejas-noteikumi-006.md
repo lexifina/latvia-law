@@ -1,0 +1,1 @@
+6. Līdz 2015.gada 1.janvārim paziņojums par likuma ierosināšanai nepieciešamo parakstu vākšanas uzsākšanu kopā ar iesniegto likumprojektu vai Satversmes grozījumu projektu publicējams oficiālajā izdevumā "Latvijas Vēstnesis".

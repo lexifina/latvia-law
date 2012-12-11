@@ -1,0 +1,1 @@
+7. Šā likuma 27., 28., 30., 31., 32. un 33.pants ir piemērojams arī tautas nobalsošanai vai likumu ierosināšanai, tai skaitā parakstu vākšanai, kas uzsākta pirms šo grozījumu spēkā stāšanās un nav noslēgusies.

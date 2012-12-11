@@ -1,0 +1,1 @@
+2. Šā likuma 22. un 24.panta jaunā redakcija, grozījumi 25.pantā, kas paredz likumprojekta un Satversmes grozījumu projekta ierosināšanas kārtības maiņu, kā arī IV² nodaļa stājas spēkā 2015.gada 1.janvārī.
