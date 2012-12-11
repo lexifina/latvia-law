@@ -1,1 +1,0 @@
-Līdz 2004.gada 1.janvārim ārvalstīs dzīvojošie balsotāji, kuri līdz balsošanas dienai nav saņēmuši Latvijas pilsoņa pasi, vēlēšanu iecirkņa komisijai uzrāda vai nosūta Pilsonības un migrācijas lietu pārvaldes izdotu reģistrācijas lapu ar šā balsotāja personas kodu.
