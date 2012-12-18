@@ -1,0 +1,1 @@
+48. Grozījumi šā likuma 3.panta pirmās daļas ievaddaļā (par pašvaldības tiesībām noteikt nekustamā īpašuma nodokļa likmi), 1.¹ un 1.⁴ daļā, kā arī 1.⁵ daļa un grozījums 5.panta 1.¹ daļā stājas spēkā 2013.gada 1.janvārī.

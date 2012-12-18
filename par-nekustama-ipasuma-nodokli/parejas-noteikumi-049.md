@@ -1,0 +1,1 @@
+49. Grozījums šā likuma 3.panta astotajā daļā attiecībā uz skaitļa "70" aizstāšanu ar skaitli "30" stājas spēkā 2013.gada 1.janvārī un tiek piemērots nodokļa aprēķinam par 2013. taksācijas gadu un turpmākajiem taksācijas gadiem.

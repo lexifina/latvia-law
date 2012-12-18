@@ -1,0 +1,1 @@
+51. Attiecībā uz 2014.gadu šā likuma 5.panta 1.² daļā noteiktā atvieglojuma piemērošanai nepieciešamie dati tiek nodoti pašvaldībām ar valsts informācijas sistēmu savietotāja starpniecību līdz 2014.gada 15.janvārim.

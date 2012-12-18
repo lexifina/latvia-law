@@ -1,0 +1,1 @@
+40.² Pašvaldībai, izdodot saistošos noteikumus, kurus tā publicē līdz pirmstaksācijas gada 1.novembrim, ir tiesības 2014.gadā piemērot nodokļa apmēra pieauguma ierobežojumu zemei vai saglabāt nodokļa apmēru zemei iepriekšējā gada līmenī, kā arī noteikt šā pieauguma ierobežojuma apmēru un piemērošanas nosacījumus.
