@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Latvijas Nacionālais attīstības plāns 2014.-2020.gadam, apstiprināts ar 2012.gada 20.decembra Latvijas Republikas Saeimas lēmumu",
+  "type_of_act": "Administrative measures",
+  "official_journal": "Administrative measures",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2012-12-20",
+  "entry_into_force": "2012-12-20",
+  "notification_date": null,
+  "commission_reference": "MNE(2013)56795",
+  "nim_celex": "72010L0031LVA_207798",
+  "nim_id": "207798",
+  "transposes_celex": [
+    "32010L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/66bfe929-9bcf-40a8-a051-f6145b448132",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
