@@ -17,7 +17,7 @@ Likumā ir lietoti šādi termini:
 13²) peldvietas ūdens - piekrastes ūdeņu un iekšzemes ūdeņu teritorija peldvietā, kuru cilvēki izmanto peldēšanai;
 13³) peldsezona - peldēšanai labvēlīga sezona, kuru nosaka attiecīgi laika apstākļi un kurā ir gaidāms liels peldētāju skaits. Latvijā peldsezona ir no 15.maija līdz 15.septembrim;
 14) piekrastes ūdeņi - virszemes ūdeņi uz krasta pusi no līnijas, kas savieno visus punktus, kuri atrodas vienu jūras jūdzi uz jūras pusi no bāzes līnijas vai sniedzas līdz pārejas ūdeņu ārējai robežai;
-14¹) plūdi - parasti ar ūdeni neklātas sauszemes īslaicīga applūšana, ko izraisa vētras radītie uzplūdi jūras piekrastes teritorijā vai strauja ūdens līmeņa celšanās ūdenstecēs un ūdenstilpēs palu vai ilgstošu lietavu laikā;
+14¹) plūdi - parasti ar ūdeni neklātas sauszemes īslaicīga applūšana ar ūdeni, tai skaitā vētras radīto jūras ūdens uzplūdu piekrastes teritorijās vai palu vai ilgstošu lietavu izraisītas straujas ūdens līmeņa celšanās dēļ;
 14²) plūdu risks - plūdu iestāšanās iespējamība un to radītā varbūtējā nelabvēlīgā ietekme uz cilvēku veselību, vidi, kultūras mantojumu un saimniecisko darbību;
 15) stipri pārveidots ūdensobjekts - virszemes ūdensobjekts, kura īpašības cilvēka darbības izraisītu fizikālu izmaiņu ietekmē ir būtiski mainījušās un kurš atbilst šā likuma nosacījumiem;
 16) upe - galvenokārt pa zemes virsmu plūstoša ievērojama izmēra ūdenstece, kurai ir izteikta gultne un daļa tecējuma var būt pazemē;
