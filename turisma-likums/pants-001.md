@@ -9,7 +9,7 @@ a) periodu, kas ir garāks par 24 stundām un ietver vismaz divus no šādiem t�
 b) periodu, kas ir īsāks par 24 stundām, ietver izmitināšanu un vismaz vienu no šādiem tūrisma pakalpojumiem - transportu vai citu tūrisma pakalpojumu, kas nav transporta vai izmitināšanas palīgpakalpojums un aizņem proporcionāli lielāko daļu no tūrisma pakalpojumu apvienojuma.
 6) (izslēgts ar 10.12.2009. likumu);
 7) kultūras tūrisms - tūrisma veids, kura mērķis ir iepazīšanās ar kultūras vidi: kultūrvēsturisko mantojumu, tradīcijām un dzīvesveidu, kā arī aktuālām kultūras un mākslas norisēm;
-8) kūrorts - ar dabiskiem dziedniecības līdzekļiem (minerālūdeņiem, ārstnieciskajām dūņām u.tml.), kūrortiestādēm un tūrisma infrastruktūru nodrošināta teritorija;
+8) kūrorts - vietējās pašvaldības administratīvā teritorija vai tās daļa, kurai normatīvajos aktos noteiktajā kārtībā piešķirts kūrorta statuss;
 9) rekreatīvais tūrisms - tūrisma veids, kura mērķis ir atjaunot cilvēka fizisko un garīgo potenciālu, racionāli izmantojot dabiskos un mākslīgos atpūtas un atveseļošanās resursus;
 10) sporta tūrisms - sacensības atsevišķu aktīvā tūrisma iemaņu labākā vai ātrākā izpildē, kā arī sacensības noteiktas grūtības kategorijas tūrisma maršrutu veikšanā;
 11) starptautiskais tūrisms - ārvalstnieku tūrisms Latvijas teritorijā (tūrisma pakalpojumu eksports) vai Latvijas iedzīvotāju tūrisms ārvalstīs (tūrisma pakalpojumu imports);
@@ -28,4 +28,5 @@ b) periodu, kas ir īsāks par 24 stundām, ietver izmitināšanu un vismaz vien
 24) ekotūrisms - ilgtspējīgs, videi draudzīgs tūrisms, kura galvenais mērķis ir veicināt dabas un kultūras vērtību izzināšanu un vides aizsardzību, kā arī pilnveidot sabiedrībā vides izglītību un apziņu;
 25) (izslēgts ar 10.12.2009. likumu);
 26) dabas dziednieciskie resursi - minerālūdeņi, termālie ūdeņi, virszemes ūdeņi, dziednieciskās dūņas, māli, smiltis, meži, parki, klimats un citi dabas resursi, kas, pamatojoties uz zinātniskos pētījumos un praksē pierādītām to īpašībām, tiek izmantoti organisma vispārējā stāvokļa un labsajūtas uzlabošanai, kā arī profilaksei, ārstēšanai un rehabilitācijai;
-27) veselības tūrisms - tūrisma veids, kura mērķis ir organisma vispārējā stāvokļa un labsajūtas uzlabošana, profilakse, ārstēšana un rehabilitācija, izmantojot arī dabas dziednieciskos resursus.
+27) veselības tūrisms - tūrisma veids, kura mērķis ir organisma vispārējā stāvokļa un labsajūtas uzlabošana, profilakse, ārstēšana un rehabilitācija, izmantojot arī dabas dziednieciskos resursus;
+28) kūrorta ārstniecības iestāde - ārstniecības iestāde, kurā tiek veikta profilakse, ārstēšana un rehabilitācija, izmantojot dabas dziednieciskos resursus.
