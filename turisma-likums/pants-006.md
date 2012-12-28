@@ -7,6 +7,7 @@
 4) plānot valsts atbalstu tūrisma nozarei;
 5) (izslēgts ar 24.01.2002. likumu);
 6) (izslēgts ar 16.02.2006. likumu);
-7) sagatavot un īstenot starptautiskos nolīgumus par sadarbību tūrisma jomā, kā arī koordinēt starptautisku projektu izstrādāšanu.
+7) sagatavot un īstenot starptautiskos nolīgumus par sadarbību tūrisma jomā, kā arī koordinēt starptautisku projektu izstrādāšanu;
+8) nodrošināt kūrorta statusa piešķiršanas un anulēšanas procesu.
 (3) Tūrisma attīstības valsts politiku īsteno Ekonomikas ministrijas pārraudzībā esošā Tūrisma attīstības valsts aģentūra.
 (4) Tūrisma attīstības valsts aģentūras nolikumu apstiprina Ministru kabinets.
