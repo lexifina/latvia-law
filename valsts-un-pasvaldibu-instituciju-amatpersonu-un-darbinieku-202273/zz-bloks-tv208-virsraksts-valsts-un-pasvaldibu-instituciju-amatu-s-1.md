@@ -155,8 +155,7 @@ Starpnozaru koordinācija, kā arī noteiktas funkcijas veikšana vairākās noz
 Šajā saimē ietilpst amati, kuru pildītāji nodrošina bāriņtiesas funkciju.
 46. Dzimtsarakstu pakalpojumi
 Šajā saimē ietilpst amati, kuru pildītāji nodrošina dzimtsarakstu pakalpojumus pašvaldībā.
-47. Sabiedrisko pakalpojumu regulēšana
-Šajā saimē ietilpst amati, kuru pildītāji nodarbojas ar sabiedrisko pakalpojumu regulēšanu un prasību izpildes kontroli, kā arī veic sabiedrisko pakalpojumu regulēšanas atbalsta funkcijas.
+47. (Izslēgts ar 13.12.2012. likumu)
 48. Sporta organizēšana un profesionālais sports
 Šajā saimē ietilpst amati, kuri nav ietverti pedagogu amatu sarakstā un kuru pildītāji veic sporta speciālista pienākumus, kā arī organizē sporta pasākumus. Šajā saimē ietilpst arī profesionālie sportisti.
 49. Studentu apkalpošana
@@ -178,3 +177,5 @@ Starpnozaru koordinācija, kā arī noteiktas funkcijas veikšana vairākās noz
 Šajā saimē ietilpst amati, kuri nav iekļauti pedagogu amatu sarakstā un kuru pildītāji administratīvi vada valsts dibinātas augstskolas, tai skaitā augstskolu struktūrvienību vadītāji, kuri sadarbībā ar augstskolas vadītāju organizē augstākās izglītības programmu īstenošanu.
 55. Nacionālo bruņoto spēku darbinieki
 Šajā saimē ietilpst civilie amati, kuru pildītāji nodrošina Nacionālo bruņoto spēku darbību atbilstoši NATO standartiem un kolektīvās aizsardzības sistēmai, sagatavo personālsastāvu un materiāltehnisko bāzi NATO oficiālo valodu, militārās terminoloģijas, vienotas apmācību metodikas, apmācību-treniņu programmu apguvei, kā arī militārajai izglītībai ārvalstīs, dalībai starptautiskās militārajās mācībās un starptautiskajās operācijās.
+56. Valsts attīstības plānošana, koordinācija un vadība
+Šajā saimē ietilpst amati, kuru pildītāju pienākumi ir saistīti ar ilgtermiņa attīstības plānošanu, Latvijai būtisku nacionālo interešu īstenošanu, nacionālā līmeņa attīstības plānošanas dokumentu izstrādi, to rezultātu izpildes novērtēšanu un savstarpējo saskaņotību, tai skaitā ar atbilstību Eiropas Savienības plānošanas dokumentiem, tādējādi sekmējot nozaru politiku savstarpējo koordināciju un pārresorisko uzraudzību.

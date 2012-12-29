@@ -1,0 +1,4 @@
+8.¹² Amatpersonai (darbiniekam), kura iesaistīta Latvijas prezidentūras Eiropas Savienības Padomē 2015.gadā sagatavošanā un norisē, var noteikt šādu papildu atlīdzību:
+1) piemaksu par darbu Latvijas prezidentūras Eiropas Savienības Padomē sagatavošanā un norisē no 2014.gada 1.jūlija līdz 2015.gada 30.jūnijam;
+2) vienreizēju prēmiju, kas nepārsniedz amatpersonas (darbinieka) divu mēnešalgu apmēru, par ieguldījumu Latvijas prezidentūras Eiropas Savienības Padomē 2015.gadā sagatavošanā un norisē, kuru izmaksā no 2015.gada 1.jūlija līdz 2015.gada 31.decembrim;
+3) papildatvaļinājumu, kurš nepārsniedz 20 darbdienas, ņemot vērā amatpersonas (darbinieka) darba intensitāti Latvijas prezidentūras Eiropas Savienības Padomē laikā, un kuru var piešķirt no 2015.gada 1.jūlija, un kurš izmantojams līdz 2015.gada 31.decembrim.

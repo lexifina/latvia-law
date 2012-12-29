@@ -1,0 +1,1 @@
+8.¹⁴ Ministru kabinets nosaka šā likuma pārejas noteikumu 8.¹² punktā minētās atlīdzības apmēru, piešķiršanas kritērijus, piešķiršanas un izmaksas kārtību, kā arī darba intensitātei atbilstošu papildatvaļinājuma ilgumu.
