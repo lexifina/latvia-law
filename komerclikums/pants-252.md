@@ -1,5 +1,5 @@
 252.pants. Paziņojums par akcionāru pirmtiesībām
-(1) Paziņojumu par akcionāru pirmtiesībām uz jaunās emisijas akcijām publicē laikrakstā "Latvijas Vēstnesis".
+(1) Paziņojumu par akcionāru pirmtiesībām uz jaunās emisijas akcijām publicē oficiālajā izdevumā "Latvijas Vēstnesis".
 (2) Sabiedrība paziņojumu par akcionāru pirmtiesībām uz jaunās emisijas akcijām šā likuma 273.panta otrajā daļā noteiktajā kārtībā nosūta visiem akcionāru reģistrā ierakstītajiem akcionāriem.
 (3) Ja sabiedrībai ir tikai vārda akcijas, šā panta pirmajā daļā minētā publicēšana nav obligāta, ja statūtos nav noteikts citādi.
 (4) Šā panta pirmajā un otrajā daļā minētajā paziņojumā norāda:

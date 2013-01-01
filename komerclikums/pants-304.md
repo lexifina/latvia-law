@@ -4,7 +4,7 @@
 (3) Par valdes locekli nevar būt:
 1) šīs sabiedrības padomes loceklis;
 2) šīs sabiedrības revidents;
-3) persona, kurai ar tiesas spriedumu atņemtas tiesības uz attiecīgā veida vai visu veidu komercdarbību;
+3) (izslēgts ar 29.11.2012. likumu);
 4) koncerna valdošā uzņēmuma padomes loceklis.
 (4) Statūtos var paredzēt uz valdes locekļiem attiecināmus stingrākus ierobežojumus.
 (5) (Izslēgta ar 22.04.2004. likumu)

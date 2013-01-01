@@ -1,0 +1,1 @@
+27. Ministru kabinets līdz 2013.gada 30.jūnijam sagatavo un iesniedz Saeimai nodokļus un grāmatvedību reglamentējošos normatīvajos aktos nepieciešamos grozījumus saistībā ar komersanta darbības apturēšanu un atjaunošanu, pamatojoties uz komersanta lēmumu.

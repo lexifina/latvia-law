@@ -1,7 +1,7 @@
 273.pants. Akcionāru sapulces sasaukšanas kārtība
 (1) Paziņojums par akcionāru sapulces sasaukšanu izsludināms ne vēlāk kā 30 dienas pirms paredzētās akcionāru sapulces.
 (2) Paziņojums par akcionāru sapulces sasaukšanu izsludināms:
-1) ja sabiedrībai ir uzrādītāja akcijas, - publicējot paziņojumu laikrakstā "Latvijas Vēstnesis" un vēl vismaz vienā laikrakstā;
+1) ja sabiedrībai ir uzrādītāja akcijas, - publicējot paziņojumu oficiālajā izdevumā "Latvijas Vēstnesis" un vēl vismaz vienā laikrakstā;
 2) ja sabiedrībai ir arī vārda akcijas vai tikai vārda akcijas, - nosūtot akcionāru reģistrā ierakstītajiem akcionāriem rakstveida paziņojumus.
 (3) Paziņojumā norāda:
 1) sabiedrības firmu un juridisko adresi;

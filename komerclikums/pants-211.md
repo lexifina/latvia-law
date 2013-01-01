@@ -4,5 +4,6 @@
 1) par viņa atbrīvošanu no saistībām vai atbildības;
 2) par prasības celšanu pret viņu;
 3) par darījuma slēgšanu ar viņu vai saistīto personu;
-4) šā likuma 210.panta otrajā daļā minētajā gadījumā un dalībnieka intereses saduras ar sabiedrības interesēm.
+4) šā likuma 210.panta otrajā daļā minētajā gadījumā un dalībnieka intereses saduras ar sabiedrības interesēm;
+5) šā likuma 210.panta otrajā daļā minētajā gadījumā un dalībniekam ir atņemtas tiesības veikt visu veidu vai noteikta veida komercdarbību. Ja dalībniekam ir atņemtas tiesības veikt noteikta veida komercdarbību, viņam nav tiesību piedalīties balsošanā jautājumos, kas saistīti ar attiecīgo komercdarbības veidu.
 (3) Nosakot pārstāvības normu, šā panta otrajā daļā minētā dalībnieka balsis netiek ņemtas vērā.

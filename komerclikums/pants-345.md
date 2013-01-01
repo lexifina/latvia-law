@@ -1,6 +1,6 @@
 345.pants. Kreditoru aizsardzība
 (1) Piecpadsmit dienu laikā no dienas, kad pieņemts lēmums par reorganizāciju, katra reorganizācijas procesā iesaistītā sabiedrība par reorganizāciju rakstveidā informē visus zināmos kreditorus, kuriem līdz lēmuma par reorganizāciju pieņemšanai bija prasījuma tiesības pret sabiedrību.
-(2) Katrai reorganizācijas procesā iesaistītajai sabiedrībai ir pienākums publicēt laikrakstā "Latvijas Vēstnesis" paziņojumu, ka pieņemts lēmums par reorganizāciju. Paziņojumā kreditoriem norāda:
+(2) Katrai reorganizācijas procesā iesaistītajai sabiedrībai ir pienākums publicēt oficiālajā izdevumā "Latvijas Vēstnesis" paziņojumu, ka pieņemts lēmums par reorganizāciju. Paziņojumā kreditoriem norāda:
 1) sabiedrības firmu, reģistrācijas numuru un juridisko adresi;
 2) pārējo reorganizācijā iesaistīto sabiedrību firmas, reģistrācijas numurus un juridiskās adreses;
 3) reorganizācijas veidu;

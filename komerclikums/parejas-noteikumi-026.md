@@ -1,0 +1,1 @@
+26. Šā likuma 8.panta piektās daļas 4.¹ punkta jaunā redakcija, grozījumi 210.panta pirmās daļas 9.punktā, 218.panta pirmajā daļā, 268.panta pirmās daļas 10.punktā, 284.panta otrajā daļā, kā arī XIV¹ sadaļa (par komersanta darbības apturēšanu un atjaunošanu) stājas spēkā 2014.gada 1.janvārī.
