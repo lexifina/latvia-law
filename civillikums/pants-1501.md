@@ -1,2 +1,2 @@
-1501. Pēc likuma pielīdzināmi promesošiem tie, kas kaut arī atrodas savā dzīves vietā, bet ārēju apstākļu dēļ nevar paši aizstāvēt savas tiesības, un proti, vēl nepiedzimušie bērni, nepilngadīgie, garā slimie un citādi grūti saslimušie.
+1501. Pēc likuma pielīdzināmi promesošiem tie, kas kaut arī atrodas savā dzīves vietā, bet ārēju apstākļu dēļ nevar paši aizstāvēt savas tiesības, un proti, vēl nepiedzimušie bērni, nepilngadīgie, personas ar garīga rakstura traucējumiem un citādi grūti saslimušie.
 Tos, ko likums pielīdzina promesošiem, aizsargā pret zaudējumiem tikai tajos gadījumos, kad viņiem nav aizbildņu vai aizgādņu vai kad viņi izdara kautko sev par kaiti bez aizbildņu vai aizgādņu līdzdalības.

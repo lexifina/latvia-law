@@ -1,1 +1,2 @@
-167. Aizbildnis nevar adoptēt savu aizbilstamo, kamēr viņš nav nodevis attiecīgo norēķinu un nav atlaists no aizbildnības.
+167. Aizbildnim ir tiesības adoptēt savu aizbilstamo. Adoptējot aizbilstamo, aizbildnis galanorēķinu nodod vienlaikus ar adopcijas pieteikumu bāriņtiesai. Pēc galanorēķina pieņemšanas bāriņtiesa līdz dienai, kad stājas spēkā tiesas spriedums par adopcijas apstiprināšanu, pārstāv adoptējamā tiesības un likumiskās intereses adopcijas jautājumos.
+Aizbildni no pienākumu pildīšanas atlaiž pēc tam, kad stājies spēkā tiesas spriedums par adopcijas apstiprināšanu.

@@ -1,1 +1,2 @@
-363. Personai, kas pamato kādus prasījumus uz tādu darījumu (362. p.) tiesisko nozīmi un spēkā esamību, jāpierāda, ka garā slimais, darījumu taisot, patiesi bijis tādā gaišā starplaikā.
+363. (Izslēgts ar 29.11.2012. likumu, kas stājas spēkā 01.01.2013.)
+364. (Izslēgts ar 29.11.2012. likumu, kas stājas spēkā 01.01.2013.)

@@ -1,1 +1,1 @@
-357. Plānprātīgie, kam tomēr netrūkst vajadzīgās prāta spējas parastu lietu pārziņai, var paši pārvaldīt savu mantu un ar to brīvi rīkoties.
+357. Ja personai ir garīga rakstura vai citi veselības traucējumi, tās rīcībspēju var ierobežot, ja tas nepieciešams šīs personas interesēs un ir vienīgais veids, kā tās aizsargāt. Šādā gadījumā personai nodibināma aizgādnība.

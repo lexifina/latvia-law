@@ -1,1 +1,1 @@
-361. Aizgādnībā esošo garā slimo darbība, sevišķi viņu mantas atsavinājumi, nav spēkā. Tas pats attiecas arī uz darbību, ko viņi pirms aizgādnības iecelšanas izdarījuši gara slimības stāvoklī.
+361. Tādas aizgādnībā esošas personas darbības, kurai ir garīga rakstura vai citi veselības traucējumi, atzīstamas par spēkā neesošām, ja tās veiktas tiesas noteiktā rīcībspējas ierobežojuma apjomā.

@@ -1,1 +1,1 @@
-187. Īstenojot tiesības noteikt bērna dzīvesvietu, vecāki var atprasīt bērnu no jebkuras trešās personas. Šīs vecāku tiesības var ierobežot, ja bāriņtiesa atzīst, ka ir faktiski šķēršļi, kas vecākiem liedz iespēju aprūpēt bērnu (203.p.).
+187. Īstenojot tiesības noteikt bērna dzīvesvietu, vecāki var atprasīt bērnu no jebkuras trešās personas. Šīs vecāku tiesības var ierobežot, ja bāriņtiesa atzīst, ka ir faktiski šķēršļi, kas vecākiem liedz iespēju īstenot aizgādību (203.p.).

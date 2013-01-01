@@ -1,2 +1,2 @@
-1637. Par tiesību aizskārumu nav vainojami bērni līdz septiņiem gadiem un garā slimie.
-Par tiesību aizskārumu nav vainojamas rīcības spējīgas personas, kas to izdarījušas nesamaņas vai gara darbības traucējuma stāvoklī. Par tiesību aizskārumu ir vainojamas personas, kas pašas sevi novedušas šādā stāvoklī ar alkoholiskiem dzērieniem vai citiem līdzekļiem.
+1637. Par tiesību aizskārumu nav vainojami bērni līdz septiņiem gadiem, kā arī personas ar garīga rakstura vai citiem veselības traucējumiem, kas nav spējušas saprast savas darbības nozīmi vai nav spējušas vadīt savu darbību.
+Par tiesību aizskārumu nav vainojamas rīcībspējīgas personas, kas to izdarījušas nesamaņas stāvoklī vai nespējot saprast savas darbības nozīmi vai nespējot vadīt savu darbību. Par tiesību aizskārumu ir vainojamas personas, kas pašas sevi novedušas šādā stāvoklī ar alkoholiskiem dzērieniem vai citiem līdzekļiem.

@@ -1,1 +1,1 @@
-2026. Civīliem augļiem (585.p. 2.d.), kas pienākas nevis zināmos termiņos, bet ikgadus bez pārtraukuma, piemērojami 958.panta noteikumi, un uz šā pamata tie sadalāmi starp pārdevēju un pircēju samērā ar to laiku, pa kuru katrs no tiem nesis risku.
+2026. Civīliem augļiem (855.p. 2.d.), kas pienākas nevis zināmos termiņos, bet ikgadus bez pārtraukuma, piemērojami 958.panta noteikumi, un uz šā pamata tie sadalāmi starp pārdevēju un pircēju samērā ar to laiku, pa kuru katrs no tiem nesis risku.

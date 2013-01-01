@@ -1,1 +1,1 @@
-1409. Tiesiski darījumi, ko taisījušas rīcības spējīgas personas nesamaņas vai gara darbības traucējuma stāvoklī, nav spēkā.
+1409. Tiesiski darījumi, ko taisījušas rīcībspējīgas personas nesamaņas stāvoklī vai nespējot saprast savas darbības nozīmi vai nespējot savu darbību vadīt, nav spēkā.

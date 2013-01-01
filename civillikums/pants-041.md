@@ -1,1 +1,1 @@
-41. Personas, kas vēlas doties laulībā, izņemot 51. pantā paredzētos gadījumus, iesniedz par to iesniegumu dzimtsarakstu nodaļai.
+41. Laulību noslēdz ne agrāk kā viena mēneša un ne vēlāk kā sešu mēnešu laikā pēc iesnieguma un citu laulības noslēgšanai nepieciešamo dokumentu iesniegšanas dzimtsarakstu nodaļā, ja laulības noslēgšanai nav šā likuma 32., 35., 37. un 38.pantā norādīto šķēršļu.

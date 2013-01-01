@@ -1,0 +1,3 @@
+364.¹ Personai noteikto rīcībspējas ierobežojumu pārskata Civilprocesa likumā noteiktajā kārtībā.
+Tiesas spriedums par rīcībspējas ierobežojumu ir spēkā līdz brīdim, kad tiek pieņemts cits tiesas nolēmums šajā jautājumā. Tiesas spriedumu par rīcībspējas ierobežojumu var pārskatīt jebkurā brīdī, bet ne retāk kā reizi septiņos gados no tā spēkā stāšanās dienas.
+Ja tiesa atceļ personai noteikto rīcībspējas ierobežojumu, tā uzdod bāriņtiesai atbrīvot aizgādņus no attiecīgo pienākumu pildīšanas pēc tam, kad viņi iesnieguši galanorēķinu un nodevuši šai personai mantu, kas atradusies viņu pārvaldībā.

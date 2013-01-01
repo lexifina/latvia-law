@@ -1,1 +1,1 @@
-204. Kad viens no vecākiem atzīts par maksātnespējīgu parādnieku, bērnu mantu pārvalda otrs no vecākiem vai šim nolūkam iecelts aizbildnis.
+204. Ja viens no vecākiem atzīts par maksātnespējīgu, bērna mantu pārvalda otrs no vecākiem vai šim nolūkam bāriņtiesas iecelts sevišķs aizbildnis. Ja abi vecāki atzīti par maksātnespējīgiem, bērna mantas pārvaldīšanai bāriņtiesa ieceļ sevišķu aizbildni.

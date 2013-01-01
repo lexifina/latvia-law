@@ -1,4 +1,4 @@
-91. Katra laulātā atsevišķa manta ir:
+91. Katra laulātā atsevišķa manta it sevišķi ir:
 1) manta, kas laulātajam piederējusi pirms laulības vai ko laulātie līgumā noteikuši par atsevišķu mantu;
 2) priekšmeti, kas noder tikai viena laulātā personīgai lietošanai vai vajadzīgi viņa patstāvīgā darbā;
 3) manta, ko viens laulātais ieguvis bez atlīdzības laulības laikā;

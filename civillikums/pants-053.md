@@ -1,1 +1,1 @@
-53. Laulā dzimtsarakstu nodaļas vadītājs vai 51. pantā norādīto konfesiju garīdznieki, ja ir ievēroti laulības noslēgšanas noteikumi.
+53. Laulā dzimtsarakstu nodaļas amatpersona vai 51. pantā norādīto konfesiju garīdznieki, ja ir ievēroti laulības noslēgšanas noteikumi.

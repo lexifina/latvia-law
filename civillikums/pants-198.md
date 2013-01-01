@@ -3,4 +3,4 @@
 2) kad pazudušais no vecākiem atzīts par mirušu;
 3) kad bērnu adoptējusi trešā persona;
 4) kad bērns sasniedzis pilngadību;
-5) kad aizgādības tiesības vecākiem atņemtas ar tiesas spriedumu (200.p.).
+5) (izslēgts ar 29.11.2012. likumu).
