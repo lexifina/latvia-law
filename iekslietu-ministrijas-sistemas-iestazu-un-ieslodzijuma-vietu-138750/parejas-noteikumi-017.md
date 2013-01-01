@@ -1,0 +1,1 @@
+17. Ja šā likuma 14.panta trešajā daļā minēto amatpersonu tiesa attaisno vai kriminālprocess pret to tiek izbeigts uz reabilitējoša pamata, amatpersonai izmaksā neizmaksāto uzturdevas kompensāciju par atstādināšanas laikposmu līdz 2012.gada 31.decembrim.

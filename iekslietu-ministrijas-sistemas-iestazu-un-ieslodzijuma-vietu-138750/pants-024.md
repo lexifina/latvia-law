@@ -7,4 +7,4 @@
 5) kārtējo speciālo dienesta pakāpi - pirms termiņa;
 6) personīgo šaujamieroci vai auksto ieroci.
 (2) Ja brīdī, kad pieņemts lēmums par amatpersonas apbalvošanu, tā uzskatāma par disciplināri sodītu un ir pagājuši vismaz seši mēneši, bet, ja piemērots disciplinārsods - piezīme, vismaz viens mēnesis no disciplinārsoda piemērošanas dienas vai no dienas, kad beigusies disciplinārsoda izpilde, apbalvojuma vietā amatpersonu pirms noteiktā termiņa atzīst par disciplināri nesodītu.
-(3) Šā panta pirmās daļas 3.punktā noteikto papildatvaļinājumu piešķir, izmaksājot amatpersonas vidējo izpeļņu un uzturdevas kompensāciju.
+(3) Šā panta pirmās daļas 3.punktā noteikto papildatvaļinājumu piešķir, izmaksājot amatpersonas vidējo izpeļņu.
