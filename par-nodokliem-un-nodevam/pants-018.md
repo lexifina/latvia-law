@@ -7,12 +7,12 @@
 5) izskatīt un izlemt jautājumus par nodokļu (nodevu) maksāšanas termiņu pagarināšanu;
 6) kontrolēt nodokļu (nodevu) atlaižu un atvieglojumu piemērošanas pareizību;
 7) pēc pārbaudes pabeigšanas iesniegt nodokļu maksātājam pārbaudes aktu (pārskatu). Ja nodokļu administrācija nodokļu revīzijā (auditā) izmanto kriminālprocesa virzītāja iesniegtos materiālus, nodokļu maksātājam iesniedzams izraksts no pārbaudes akta (pārskata), kas ietver kriminālprocesa virzītāja pieļauto informāciju;
-8) nodrošināt nodokļu (nodevu) iekasēšanas publiskumu, regulāri publicējot informāciju par atsevišķu nodokļu (nodevu) kopieņēmumiem un par tiem 100 nodokļu maksātājiem, kuriem ir lielākie nodokļu (nodevu) parādi;
+8) nodrošināt nodokļu (nodevu) iekasēšanas publiskumu, regulāri publicējot informāciju par atsevišķu nodokļu (nodevu) kopieņēmumiem un par nodokļu maksātājiem, kuriem ir lielākie nodokļu (nodevu) parādi;
 9) publicēt ziņas par nodokļu un nodevu likmju, soda naudas un nokavējuma naudas noteikšanas kārtības grozīšanu;
-10) pieņemt lēmumu par nodokļu revīzijas (audita) veikšanu un ne vēlāk kā 10 darbdienas pirms tās uzsākšanas rakstveidā informēt nodokļu maksātāju par nodokļu revīzijas (audita) veikšanu, norādot nodokļu revīzijas (audita) uzsākšanas dienu, revīzijas (audita) termiņu, pārbaudāmos nodokļus, nodokļu deklarācijas posteņus, pārbaudāmās nodevas vai citus valsts noteiktos maksājumus un taksācijas periodus;
+10) pieņemt lēmumu par nodokļu revīzijas (audita) veikšanu un ne vēlāk kā 10 darbdienas pirms tās uzsākšanas rakstveidā informēt nodokļu maksātāju par nodokļu revīzijas (audita) veikšanu, norādot nodokļu revīzijas (audita) uzsākšanas dienu, revīzijas (audita) termiņu, pārbaudāmos nodokļus, nodokļu deklarācijas posteņus, pārbaudāmās nodevas vai citus valsts noteiktos maksājumus un taksācijas periodus, kā arī to, vai tiks pārbaudīta transfertcenas atbilstība darījuma tirgus cenai (vērtībai);
 11) piedzīt bezstrīda kārtībā termiņā nesamaksātos nodokļus, nokavējuma naudas, soda naudas un citus valsts noteiktos maksājumus šā likuma 26.pantā paredzētajā kārtībā;
 12) nodrošināt publiski pieejamu pievienotās vērtības nodokļa maksātāju reģistru;
-13) nodrošināt publiski pieejamu izsniegto pavadzīmju numuru vienoto datu bāzi (reģistru);
+13) (izslēgts no 01.01.2013. ar 01.12.2009. likumu. Sk. Pārejas noteikumu 117.punktu);
 14) nodrošināt publiski pieejamu nodokļu un citu maksājumu reģistrēšanas elektronisko ierīču un iekārtu, to lietotāju un apkalpojošo dienestu vienoto datu bāzi (reģistru);
 15) (izslēgts ar 31.01.2008. likumu);
 16) visos gadījumos, kad nodokļu maksātājs izdarījis nodokļu pārkāpumu, par kuru paredzēta kriminālatbildība, 10 dienu laikā no dienas, kad nodokļu administrācijas ierēdnis (darbinieks) to konstatējis, iesniegt par to ziņojumu attiecīgajai valsts institūcijai, kura izlemj jautājumu par kriminālprocesa uzsākšanu;
