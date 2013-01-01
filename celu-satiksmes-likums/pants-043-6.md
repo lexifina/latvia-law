@@ -1,4 +1,4 @@
-43.⁶ pants. Īpatnības administratīvajā procesā attiecībā uz pārkāpumiem, kuri fiksēti ar tehniskiem līdzekļiem, neapturot transportlīdzekli
+43.⁶ pants. Īpatnības administratīvo pārkāpumu lietās attiecībā uz pārkāpumiem, kuri fiksēti ar tehniskiem līdzekļiem, neapturot transportlīdzekli
 (1) Pārkāpumus var fiksēt ar tehniskiem līdzekļiem (fotoiekārtas vai videoiekārtas), neapturot transportlīdzekli. Kārtību, kādā izmanto tehniskos līdzekļus (fotoiekārtas vai videoiekārtas), nosaka Ministru kabinets.
 (2) Par pārkāpumu, kas fiksēts ar tehniskiem līdzekļiem (fotoiekārtas vai videoiekārtas), neapturot transportlīdzekli, piemēro tikai vadītājam paredzēto minimālo naudas sodu.
 (3) Ja pārkāpums fiksēts ar tehniskiem līdzekļiem (fotoiekārtas vai videoiekārtas), neapturot transportlīdzekli, par to bez transportlīdzekļa vadītāja klātbūtnes tiek sastādīts administratīvā pārkāpuma protokols - lēmums, kurā norādāma šāda informācija:

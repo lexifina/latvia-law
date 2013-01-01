@@ -1,4 +1,4 @@
-43.² pants. Īpatnības administratīvajā procesā sakarā ar apstāšanās vai stāvēšanas noteikumu pārkāpšanu
+43.² pants. Īpatnības administratīvo pārkāpumu lietās sakarā ar apstāšanās vai stāvēšanas noteikumu pārkāpšanu
 (1) Ja pārkāpti apstāšanās vai stāvēšanas noteikumi, bet transportlīdzekļa vadītājs neatrodas pārkāpuma izdarīšanas vietā, personas, kuras ir tiesīgas sastādīt administratīvā pārkāpuma protokolu un uzlikt sodu, sastāda protokolu - paziņojumu, kurā norādāma šāda informācija:
 1) protokola - paziņojuma sastādīšanas datums;
 2) institūcija, kuras amatpersona uzlikusi sodu, un protokola - paziņojuma sastādītāja amats, vārds un uzvārds;

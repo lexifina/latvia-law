@@ -1,0 +1,1 @@
+28. Motocikliem, tricikliem un kvadricikliem, kuriem valsts tehniskā apskate veikta līdz 2012.gada 31.decembrim, turpmākās valsts tehniskās apskates veic, ievērojot termiņu, kāds norādīts atļaujā piedalīties ceļu satiksmē.

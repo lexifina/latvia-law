@@ -1,0 +1,1 @@
+29. Eiropas Savienības dalībvalsts vai Eiropas Brīvās tirdzniecības asociācijas dalībvalsts izsniegtu vadītāja apliecību, kura neatbilst Eiropas Parlamenta un Padomes 2006.gada 20.decembra direktīvā 2006/126/EK par vadītāju apliecībām noteiktajām prasībām, atļauts izmantot ne ilgāk kā līdz 2033.gada 19.janvārim.
