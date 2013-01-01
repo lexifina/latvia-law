@@ -1,0 +1,4 @@
+6.pants. Tiesības uz valsts nodrošināto bezmaksas raidlaiku
+(1) Viena nosaukuma deputātu kandidātu sarakstā esošajiem deputātu kandidātiem ir tiesības sabiedrisko elektronisko plašsaziņas līdzekļu televīzijas un radio pirmajā programmā izmantot priekšvēlēšanu aģitācijai valsts nodrošināto bezmaksas raidlaiku šajā nodaļā noteiktajos gadījumos, kārtībā un apjomā.
+(2) Tiesības uz valsts nodrošināto bezmaksas raidlaiku ir Saeimas vai Eiropas Parlamenta vēlēšanām iesniegtā viena nosaukuma deputātu kandidātu sarakstā esošajiem deputātu kandidātiem, kā arī pašvaldību vēlēšanām iesniegtā viena nosaukuma deputātu kandidātu sarakstā esošajiem deputātu kandidātiem, ja attiecīgais saraksts iesniegts Rīgas domes vēlēšanām vai kopumā vismaz piecu republikas pilsētu domju vai novadu domju (arī jebkurā to kombinācijā) vēlēšanām.
+(3) Atkārtotai balsošanai valsts nodrošinātais bezmaksas raidlaiks netiek piešķirts.

@@ -1,0 +1,3 @@
+24.pants. Aizliegums izvietot un izplatīt priekšvēlēšanu aģitācijas materiālus valsts un atvasinātu publisku personu institūcijās un kapitālsabiedrībās, kurās valstij vai atvasinātām publiskām personām pieder vairāk nekā 50 procenti kapitāla daļu (akciju)
+(1) Ēku telpās, kurās atrodas valsts un atvasinātu publisku personu institūcijas un kapitālsabiedrības, kurās valstij vai atvasinātām publiskām personām pieder vairāk nekā 50 procenti kapitāla daļu (akciju), kā arī šādu ēku koplietošanas telpās aizliegts izvietot un izplatīt priekšvēlēšanu aģitācijas materiālus.
+(2) Šis ierobežojums neattiecas uz Centrālās vēlēšanu komisijas informatīva rakstura materiāliem par Saeimas, Eiropas Parlamenta un pašvaldību vēlēšanām, kā arī uz gadījumiem, kas minēti šā likuma 25.pantā.

@@ -1,0 +1,1 @@
+VII nodaļa. Papildnoteikumi priekšvēlēšanu aģitācijai valsts un atvasinātu publisku personu institūcijās un kapitālsabiedrībās, kurās valstij vai atvasinātām publiskām personām pieder vairāk nekā 50 procenti kapitāla daļu (akciju), un vienlīdzīgas attieksmes nodrošināšana

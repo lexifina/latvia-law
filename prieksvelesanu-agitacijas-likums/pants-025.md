@@ -1,0 +1,2 @@
+25.pants. Telpu piešķiršana aģitācijas veicējam, lai rīkotu tikšanās ar vēlētājiem
+Valsts un atvasinātu publisku personu institūcijas un kapitālsabiedrības, kurās valstij vai atvasinātām publiskām personām pieder vairāk nekā 50 procenti kapitāla daļu (akciju), var piešķirt aģitācijas veicējam telpas, kur rīkot tikšanās ar vēlētājiem, bez maksas vai par maksu, kas nepārsniedz šo telpu uzturēšanas faktiskos izdevumus.

@@ -1,0 +1,1 @@
+3. Lai 2013.gadā nodrošinātu šā likuma 10.panta trešās daļas pirmajā teikumā ietvertā noteikuma izpildi, normatīvajos aktos noteiktajā kārtībā tiek veikta līdzekļu pārdale no valsts budžeta 74.resora "Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums" programmas 02.00.00 "Līdzekļi neparedzētiem gadījumiem".
