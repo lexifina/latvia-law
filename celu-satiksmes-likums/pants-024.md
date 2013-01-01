@@ -1,11 +1,12 @@
 24.pants. Transportlīdzekļu vadītāju un atsevišķu kategoriju ceļu satiksmes dalībnieku vecuma ierobežojumi
-(1) Personai, kas vēlas iegūt transportlīdzekļu vadītāja tiesības, ir jābūt sasniegušai šādu vecumu:
-1) 16 gadus - A1 un B1 kategorijas vadītāja apliecības iegūšanai;
-2) 18 gadus - A, B un C1 kategorijas vadītāja apliecības iegūšanai. Tiesības vadīt motociklus, kuru motora jauda pārsniedz 25 kilovatus (34 zirgspēkus) vai 0,16 kilovatus uz kilogramu (0,22 zirgspēkus uz kilogramu), ir personām, kurām A kategorijas transportlīdzekļa vadītāja stāžs ir vismaz divi gadi, izņemot gadījumus, kad persona sasniegusi 21 gada vecumu un nokārtojusi attiecīgus vadītāja kvalifikācijas iegūšanas eksāmenus;
-3) 21 gadu - C, D1, D, BE, C1E kategorijas vadītāja apliecības iegūšanai, kā arī tramvaju un trolejbusu vadīšanai;
-4) 16 gadus - A kategorijas traktortehnikas vadītāja apliecības iegūšanai;
-5) 17 gadus - visu veidu traktortehnikas vadītāja apliecības iegūšanai.
+(1) Lai iegūtu transportlīdzekļu vadīšanas tiesības, personai ir jābūt sasniegušai šādu vecumu:
+1) 14 gadus - AM kategorijas vadītāja apliecības iegūšanai;
+2) 16 gadus - A1 un B1 kategorijas vadītāja apliecības iegūšanai;
+3) 18 gadus - A2, B, BE, C1 un C1E kategorijas vadītāja apliecības iegūšanai;
+4) 21 gadu - C, CE, D1, D1E, TRAM un TROL kategorijas vadītāja apliecības iegūšanai;
+5) 24 gadus - A, D un DE kategorijas vadītāja apliecības iegūšanai. A kategorijas vadītāja apliecību var iegūt persona, kura sasniegusi 20 gadu vecumu, ja tās A2 kategorijas transportlīdzekļa vadītāja stāžs ir vismaz divi gadi. Vadīt triciklus, kuru jauda pārsniedz 15 kilovatus, atļauts personai, kura sasniegusi vismaz 21 gada vecumu;
+6) 16 gadus - A kategorijas traktortehnikas vadītāja apliecības iegūšanai;
+7) 17 gadus - visu veidu traktortehnikas vadītāja apliecības iegūšanai.
 (2) Personas, kuras atrodas militārajā dienestā, var iegūt C, CE, D1 un D kategorijas vadītāja apliecību no 19 gadu vecuma.
 (3) Apmācīt personas vadīt transportlīdzekli drīkst ne agrāk kā divus gadus pirms attiecīgās kategorijas transportlīdzekļu vadītāja apliecības iegūšanai noteiktā vecuma sasniegšanas.
-(4) Vadīt mopēdu atļauts no 14 gadu vecuma.
-(5) Braukt ar velosipēdu bez pilngadīgas personas pavadības, vadīt pajūgu, jāt vai dzīt ganāmpulku pa ceļu atļauts no 12 gadu vecuma.
+(4) Braukt ar velosipēdu bez pilngadīgas personas pavadības, vadīt pajūgu, jāt vai dzīt ganāmpulku pa ceļu atļauts no 12 gadu vecuma.
