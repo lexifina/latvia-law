@@ -16,7 +16,7 @@
 1) sugu, uz kuru attiecas izņēmums, šā izņēmuma iemeslus, tai skaitā riska veidu, izvērtētās alternatīvas un izmantotos zinātniskos datus;
 2) līdzekļus, ierīces, paņēmienus vai pasākumus, ar kuriem plānots nonāvēt vai sagūstīt atsevišķus indivīdus, kā arī to izmantošanas iemeslus un ierobežojumus;
 3) laika un vietas apstākļus, kādos piemērojams izņēmums, kā arī citus izņēmuma piemērošanas nosacījumus.
-(4) Dabas aizsardzības pārvalde, izvērtējusi šā panta pirmajā un otrajā daļā minētā izņēmuma piemērošanas iespēju, lemj par:
+(4) Dabas aizsardzības pārvalde, izvērtējusi šā panta pirmajā un otrajā daļā minētā izņēmuma piemērošanas iespēju un pamatotību, ņemot vērā šā panta trešajā daļā norādīto informāciju, lemj par:
 1) tā piemērošanu attiecīgajai sugai;
 2) līdzekļiem, metodēm, ierīcēm vai paņēmieniem, kas ir atļauti indivīdu sagūstīšanā vai nonāvēšanā;
 3) laika un vietas apstākļiem, kādos piemērojams izņēmums, kā arī citiem izņēmuma piemērošanas nosacījumiem;

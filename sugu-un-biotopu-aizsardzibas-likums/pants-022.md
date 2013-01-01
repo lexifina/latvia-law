@@ -1,2 +1,2 @@
 22.pants. Nejauši bojā gājušo vai nelikumīgi sagūstīto dzīvnieku uzskaite
-Katrai personai ir pienākums pieteikt attiecīgajā reģionālajā vides pārvaldē īpaši aizsargājamas sugas dzīvnieka vai putna nelikumīgas sagūstīšanas vai nejaušas nogalināšanas gadījumu. Reģionālā vides pārvalde atbilstoši saņemtajai informācijai veic nejauši bojā gājušo vai nelikumīgi sagūstīto dzīvnieku uzskaiti un reizi gadā nodod apkopoto informāciju Dabas aizsardzības pārvaldei.
+Katrai personai ir pienākums pieteikt Dabas aizsardzības pārvaldē īpaši aizsargājamas sugas dzīvnieka vai putna nelikumīgas sagūstīšanas vai nejaušas nogalināšanas gadījumu. Dabas aizsardzības pārvalde atbilstoši saņemtajai informācijai veic nelikumīgi sagūstīto vai nejauši bojā gājušo dzīvnieku vai putnu uzskaiti.

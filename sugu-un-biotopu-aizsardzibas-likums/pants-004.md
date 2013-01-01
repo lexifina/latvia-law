@@ -16,4 +16,7 @@ Ministru kabinets nosaka:
 14) (izslēgts ar 10.06.2010. likumu);
 15) to Eiropas Kopienā nozīmīgu dzīvnieku un augu sugu sarakstu, kurām nepieciešama aizsardzība;
 16) to Eiropas Kopienā nozīmīgu dzīvnieku un augu sugu indivīdu sarakstu, kuru ieguvei savvaļā var piemērot ierobežotas izmantošanas nosacījumus;
-17) ekspertu sertificēšanas kārtību un kārtību, kādā izsniedz un reģistrē sertifikātu, pagarina tā termiņu un anulē to, kā arī sertificēto personu darbības uzraudzības kārtību, eksperta atzinuma saturu un tajā ietvertās minimālās prasības.
+17) ekspertu sertificēšanas kārtību un kārtību, kādā izsniedz un reģistrē sertifikātu, pagarina tā termiņu un anulē to, kā arī sertificēto personu darbības uzraudzības kārtību, eksperta atzinuma saturu un tajā ietvertās minimālās prasības;
+18) kritērijus īpaši aizsargājamo biotopu un īpaši aizsargājamo sugu dzīvotņu atjaunošanai mežā un atjaunošanas atļaujas izsniegšanas kārtību;
+19) dabas datu pārvaldības sistēmā ietvertā mikroliegumu, īpaši aizsargājamo sugu, to dzīvotņu un īpaši aizsargājamo biotopu valsts reģistra uzturēšanas un datu aktualizācijas un informācijas aprites kārtību;
+20) mikroliegumu buferzonu noteikšanas kārtību.
