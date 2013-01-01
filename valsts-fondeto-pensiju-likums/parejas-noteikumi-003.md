@@ -3,4 +3,6 @@
 2) ar 2007.gada 1.janvāri ne mazāk kā 4 procenti no iemaksu objekta, kas noteikts likumā;
 3) ar 2008.gada 1.janvāri ne mazāk kā 8 procenti no iemaksu objekta, kas noteikts likumā;
 4) ar 2009.gada 1.maiju - 2 procenti no iemaksu objekta, kas noteikts likumā. Likmi piemēro iemaksām, kas no 2009.gada 1.maija tiek reģistrētas fondēto pensiju shēmas dalībnieka kontā, izņemot precizētās iemaksas par periodu līdz 2008.gada 31.decembrim;
-5) ar 2011.gada 1.janvāri ne mazāk kā 2 procenti no iemaksu objekta, kas noteikts likumā.
+5) ar 2011.gada 1.janvāri ne mazāk kā 2 procenti no iemaksu objekta, kas noteikts likumā;
+6) ar 2013.gada 1.janvāri - 4 procenti no iemaksu objekta, kas noteikts likumā;
+7) ar 2015.gada 1.janvāri - 5 procenti no iemaksu objekta, kas noteikts likumā.
