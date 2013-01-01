@@ -11,7 +11,8 @@
 3) ceļa un pārcelšanās izdevumi (arī attiecīgie ģimenes locekļu izdevumi);
 4) veselības apdrošināšanas un apdrošināšanas pret nelaimes gadījumiem izdevumi, kā arī transportēšanas izdevumi attiecīgās personas vai tās ģimenes locekļu smagas slimības vai nāves gadījumā;
 5) bērnu skolas un pirmsskolas izdevumi;
-6) ceļa izdevumi (arī attiecīgie ģimenes locekļu izdevumi), dodoties atvaļinājumā uz Latviju un atgriežoties dienesta vietā.
+6) ceļa izdevumi (arī attiecīgie ģimenes locekļu izdevumi), dodoties atvaļinājumā uz Latviju un atgriežoties dienesta vietā;
+7) ceļa izdevumi no pastāvīgās dienesta vietas ārvalstīs un atpakaļ uz dienesta vietu sakarā ar ierašanos uz ģimenes locekļa (laulātā, bērna, vecāku, vecvecāku, adoptētāja vai adoptētā, brāļa vai māsas) vai apgādājamā bērēm.
 (3) Šā panta pirmajā un otrajā daļā minēto pabalstu un kompensāciju apmērus un izmaksas kārtību atbilstoši ārvalstī esošās dienesta vietas specifiskajiem apstākļiem nosaka Ministru kabinets.
 (4) Pašvaldības dome nosaka amatpersonu (darbinieku) amatus, kuriem tā var piemērot šā panta pirmajā un otrajā daļā minētos pabalstus un kompensācijas pašas noteiktajā apmērā un kārtībā.
 (5) Diplomātam, diplomātiskā un konsulārā dienesta amatpersonai (darbiniekam), kuru dienesta vietā apdraud karadarbība, vardarbība, nemieri vai dabas katastrofas, Ārlietu ministrija var noteikt piemaksu līdz 50 procentiem no to pabalstu apmēra, kuri šim diplomātam, diplomātiskā un konsulārā dienesta amatpersonai (darbiniekam) tiek izmaksāti saskaņā ar šā panta pirmās daļas 1., 2. un 3.punktu, un kompensēt zaudējumus, ko diplomāts, diplomātiskā un konsulārā dienesta amatpersona (darbinieks) cieta minēto apstākļu dēļ.

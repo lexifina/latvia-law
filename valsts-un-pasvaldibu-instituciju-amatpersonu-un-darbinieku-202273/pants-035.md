@@ -1,4 +1,4 @@
 35.pants. Uzturdevas kompensācija
-(1) Karavīriem, Iekšlietu ministrijas sistēmas iestāžu un Ieslodzījuma vietu pārvaldes amatpersonām ar speciālajām dienesta pakāpēm, izņemot Drošības policijas amatpersonas (darbiniekus), izmaksā uzturdevas kompensāciju. Uzturdevas kompensācijas apmēru un izmaksāšanas kārtību nosaka Ministru kabinets.
-(2) Uzturdevas kompensāciju Iekšlietu ministrijas sistēmas iestādes vai Ieslodzījuma vietu pārvaldes amatpersonai ar speciālo dienesta pakāpi neizmaksā laikā, kad tā atrodas atvaļinājumā bez darba samaksas saglabāšanas, bērna tēvam piešķirtajā atvaļinājumā vai bērna kopšanas atvaļinājumā, kā arī citos likumā paredzētos gadījumos.
-(3) Pašvaldības dome var paredzēt uzturdevas kompensāciju pašvaldības policijas darbiniekam, kurš veic likumā "Par policiju" noteiktos pienākumus. Pašvaldības dome nosaka kompensācijas apmēru un izmaksāšanas kārtību. Kompensācijas apmērs nedrīkst pārsniegt Ministru kabineta noteikto uzturdevas kompensācijas apmēru Iekšlietu ministrijas sistēmas iestāžu un Ieslodzījuma vietu pārvaldes amatpersonām ar speciālajām dienesta pakāpēm.
+(1) Karavīriem izmaksā uzturdevas kompensāciju. Uzturdevas kompensācijas apmēru un izmaksāšanas kārtību nosaka Ministru kabinets.
+(2) (Izslēgta ar 15.11.2012. likumu)
+(3) Pašvaldības dome var paredzēt uzturdevas kompensāciju pašvaldības policijas darbiniekam, kurš veic likumā "Par policiju" noteiktos pienākumus. Pašvaldības dome nosaka kompensācijas apmēru un izmaksāšanas kārtību.
