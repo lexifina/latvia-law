@@ -1,6 +1,6 @@
 20. pants. Gadskārtējā valsts budžeta likuma projekta (budžeta likumprojektu paketes) izskatīšana Ministru kabinetā
-(1) Visas ministrijas un citas centrālās valsts iestādes saņem gadskārtējā valsts budžeta likuma projektu (budžeta likumprojektu paketi) un divu nedēļu laikā var iesniegt finanšu ministram motivētus iebildumus pret šo projektu.
-(2) Finanšu ministrs cenšas panākt vienošanos ar attiecīgo ministriju un citu centrālo valsts iestāžu vadītājiem. Ja vienošanās netiek panākta, viņš Ministru kabinetam iesniedzamajam gadskārtējā valsts budžeta likuma projektam (budžeta likumprojektu paketei) pievieno izziņu par tiem iebildumiem, par kuriem vienošanās nav panākta.
+(1) (Izslēgta ar 15.11.2012. likumu)
+(2) (Izslēgta ar 15.11.2012. likumu)
 (3) Finanšu ministrs iesniedz Ministru kabinetam gadskārtējā valsts budžeta likuma projektu (budžeta likumprojektu paketi) un tā paskaidrojumus.
 (4) Jautājumus, kas nav atrisināti valsts budžeta pieprasījumu izskatīšanas procesā, ministriju un citu centrālo valsts iestāžu vadītāji var nodot izlemšanai Ministru kabinetam.
 (4¹) Ministru kabinets uzklausa Valsts prezidenta kancelejas, Augstākās tiesas, Satversmes tiesas, Tieslietu padomes, Valsts kontroles, Nacionālās elektronisko plašsaziņas līdzekļu padomes, Tiesībsarga biroja, Sabiedrisko pakalpojumu regulēšanas komisijas un Ģenerālprokuratūras viedokli par attiecīgo iestāžu budžeta projektiem, nodrošinot minēto iestāžu viedokļa un Ministru kabineta lēmuma pamatojuma iekļaušanu Ministru kabineta sēdes protokolā.

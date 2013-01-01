@@ -4,9 +4,10 @@
 1) ja papildu izdevumi tiks segti ar papildu ieņēmumiem vai iepriekšējā saimnieciskā gada atlikumiem no maksas pakalpojumiem un citiem pašu ieņēmumiem;
 2) ja papildu izdevumi ārvalstu finanšu palīdzības līdzfinansēto projektu un pasākumu īstenošanai tiks segti ar papildu ārvalstu finanšu palīdzības ieņēmumiem vai iepriekšējā saimnieciskā gada atlikumiem;
 3) ja ir notikušas iepriekš neparedzētas izmaiņas valsts budžeta procentu izdevumos;
-4) ja ir notikušas izmaiņas, kas saistītas ar Eiropas Savienības pašu resursu palielināšanos;
-5) ja papildu izdevumi pamatbudžetā ir saistīti ar izmaiņām valsts sociālo pabalstu un pensiju saņēmēju kontingenta prognozēs;
-6) ja papildu izdevumi speciālajā budžetā ir saistīti ar izmaiņām makroekonomiskajās prognozēs vai sociālās apdrošināšanas pakalpojumu saņēmēju kontingenta prognozēs, kā arī sociālās apdrošināšanas speciālā budžeta izdevumu palielināšanu apjomā, kas izriet no prognozēto sociālās apdrošināšanas iemaksu palielināšanās;
-7) ja vienas ministrijas vai citas centrālās valsts iestādes maksimāli pieļaujamā izdevumu apjoma pieaugums tiks segts ar citas ministrijas, citas centrālās valsts iestādes vai ar atsevišķi no ministriju vai citu centrālo valsts iestāžu budžetiem plānoto budžeta programmu maksimāli pieļaujamā izdevumu apjoma samazinājumu.
+4) ja ir notikušas izmaiņas, kas saistītas ar iemaksām Eiropas Savienības budžetā;
+5) ja izmaiņas pamatbudžeta izdevumos ir saistītas ar izmaiņām valsts sociālo pabalstu un pensiju saņēmēju kontingenta prognozēs;
+6) ja izmaiņas speciālā budžeta izdevumos ir saistītas ar izmaiņām sociālās apdrošināšanas pakalpojumu saņēmēju kontingenta un vidējā apmēra prognozēs, kā arī ar aktuālām vidēja termiņa makroekonomiskās attīstības un valsts sociālās apdrošināšanas iemaksu prognozēm;
+7) ja viena budžeta resora maksimāli pieļaujamā izdevumu apjoma pieaugums tiks segts ar cita budžeta resora maksimāli pieļaujamā izdevumu apjoma samazinājumu;
+8) atbilstoši Ministru kabineta pieņemtajiem lēmumiem.
 (2) Pilnvaras, kas attiecas uz valsts budžeta ilgtermiņa saistību maksimāli pieļaujamo apjomu, atspoguļo gadskārtējā valsts budžeta likumā atsevišķi no budžeta gada apropriācijām.
 (3) Budžeta finansētas institūcijas, kas tieši saņem valsts budžeta dotāciju, izstrādā valsts budžeta pieprasījumu saskaņā ar budžeta pieprasījuma izstrādāšanas pamatprincipiem.

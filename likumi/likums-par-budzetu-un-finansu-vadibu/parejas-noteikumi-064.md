@@ -1,0 +1,1 @@
+64. Sagatavojot vidēja termiņa budžeta ietvara likuma projektu 2014.-2016.gadam, papildus šā likuma 16.² panta piektās daļas 1.punktā minētajiem nosacījumiem ņem vērā arī prognozētās izmaiņas makroekonomiskajā situācijā.
