@@ -1,0 +1,1 @@
+94. No aplikšanas ar iedzīvotāju ienākuma nodokli atbrīvo 2013.gadā saņemtās summas, kas izmaksātas kā valsts atbalsts lauksaimniecībai vai Eiropas Savienības atbalsts lauksaimniecībai un lauku attīstībai.

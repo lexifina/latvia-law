@@ -23,7 +23,7 @@
 9²) ienākums no metāllūžņu pārdošanas;
 10) dividendes;
 10¹) dividendēm pielīdzināms ienākums;
-11) procentu ienākums un tam pielīdzināms ienākums, arī ar procentu ienākumu saistīts ienākums, izņemot procentu ienākumu no Latvijas vai citas Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts un pašvaldību parādzīmēm;
+11) procentu ienākums un tam pielīdzināms ienākums, arī ar procentu ienākumu saistīts ienākums, izņemot procentu ienākumu no Latvijas vai citas Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts un pašvaldību vērtspapīriem;
 12) samaksa par intelektuālo īpašumu:
 a) autoratlīdzība (honorārs) par zinātnes, literatūras un mākslas darbu, atklājumu, izgudrojumu un rūpniecisko paraugu darbu radīšanu, ņemot vērā izdevumu normas, kuras saskaņā ar šā likuma 10.panta pirmās daļas 4.punktu noteicis Ministru kabinets,
 b) maksājumi par pārējiem intelektuālā īpašuma veidiem saskaņā ar likuma "Par uzņēmumu ienākuma nodokli" 3.panta ceturtās daļas 4.punkta "a" apakšpunktā noteikto likmi;
@@ -32,7 +32,7 @@ b) maksājumi par pārējiem intelektuālā īpašuma veidiem saskaņā ar likum
 15) papildpensijas kapitāls, kas veidojies no darba devēja veiktajām iemaksām privātajos pensiju fondos atbilstoši licencētiem pensiju plāniem un izmaksāts pensiju plānu dalībniekiem;
 16) (izslēgts ar 15.12.2011. likumu);
 17) nekustamā īpašuma vērtības pieaugums vai tā daļa, kura iegūta, beidzoties nomas līgumam, un kuru nodrošināja iznomātajā īpašumā nomnieka veiktie rekonstrukcijas, restaurācijas, renovācijas, uzlabošanas vai citi kapitālie ieguldījumi, ja minēto pieaugumu vai tā daļu maksātājs nav kompensējis nomniekam;
-18) pārpalikuma daļa, kuru saņem normatīvajos aktos noteiktajiem kritērijiem par atbalsta saņemšanu lauku attīstībai atbilstošas lauksaimniecības pakalpojumu kooperatīvās sabiedrības biedrs, atbilstoši viņa izmantoto kooperatīvās sabiedrības pakalpojumu apjomam;
+18) pārpalikuma daļa, kuru saņem saskaņā ar Kooperatīvo sabiedrību likumu par atbilstīgu atzītas lauksaimniecības pakalpojumu kooperatīvās sabiedrības vai mežsaimniecības pakalpojumu kooperatīvās sabiedrības biedrs atbilstoši viņa izmantoto kooperatīvās sabiedrības pakalpojumu apjomam;
 19) ienākums no dzīvokļu īpašnieku kooperatīvās sabiedrības, automašīnu garāžu īpašnieku kooperatīvās sabiedrības, laivu garāžu īpašnieku kooperatīvās sabiedrības un dārzkopības kooperatīvās sabiedrības sadalītās peļņas;
 20) ienākums no privātajos pensiju fondos veikto iemaksu ieguldīšanas;
 21) iznomāta personāla ienākums vai tam pielīdzināts ienākums neatkarīgi no tā, kas fiziskās personas labā saņem šo ienākumu;

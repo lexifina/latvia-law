@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2011.gada 13.decembra direktīvas 2011/98/ES par vienotu pieteikšanās procedūru, lai trešo valstu valstspiederīgajiem izsniegtu vienotu uzturēšanās un darba atļauju dalībvalsts teritorijā, un par vienotu tiesību kopumu trešo valstu darba ņēmējiem, kuri kādā dalībvalstī uzturas likumīgi.
