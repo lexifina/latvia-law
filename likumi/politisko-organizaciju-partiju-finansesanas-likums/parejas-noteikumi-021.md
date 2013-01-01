@@ -1,0 +1,1 @@
+21. Grozījums šā likuma 4.panta ceturtajā daļā par skaitļa "30" aizstāšanu ar skaitli "60" nav attiecināms uz tiem dāvinājumiem (ziedojumiem), kuri izdarīti pirms šā grozījuma spēkā stāšanās dienas. Attiecībā uz šādiem dāvinājumiem (ziedojumiem) piemērojama šā likuma 4.panta ceturtās daļas redakcija, kas bija spēkā attiecīgā dāvinājuma (ziedojuma) izdarīšanas dienā.
