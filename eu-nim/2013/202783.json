@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2012.gada 13.novembra noteikumi Nr.771\"Noteikumi par Valsts statistiskās informācijas programmu 2013.gadam\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "190 (4793)",
+  "official_journal_page": null,
+  "official_journal_date": "2012-12-04",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2013-04-04",
+  "commission_reference": "MNE(2013)52449",
+  "nim_celex": "72009L0028LVA_202783",
+  "nim_id": "202783",
+  "transposes_celex": [
+    "32009L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3e8bceb1-2c7c-4128-ad2c-5a7743154963",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
