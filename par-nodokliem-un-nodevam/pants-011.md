@@ -19,7 +19,7 @@
 4) (izslēgts ar 16.12.2004. likumu);
 5) par reģistrācijas darbībām un parakstu apliecināšanu Uzņēmumu reģistrā;
 6) par informācijas sniegšanu no Latvijas Republikas Uzņēmumu reģistra reģistriem;
-7) par informācijas sniegšanu no Iedzīvotāju reģistra;
+7) par informācijas saņemšanu no Iedzīvotāju reģistra;
 8) par reliģisko organizāciju un to iestāžu reģistrāciju;
 9) par speciālu atļauju (licenču) izsniegšanu atsevišķiem komercdarbības veidiem;
 10) par operācijām ar vekseļiem;
@@ -39,7 +39,7 @@
 23¹) par reģistrācijas darbībām būvkomersantu reģistrā;
 24) par sabiedrisko pakalpojumu regulēšanu;
 25) par ogļūdeņražu ieguvi;
-26) par visu veidu šaujamieroču un speciālo līdzekļu atļauju izsniegšanu un to termiņa pagarināšanu (šīs atļaujas izsniedz Valsts policijas iestādes);
+26) par jebkāda veida ieroča atļaujas, atkārtotas atļaujas, atļaujas dublikāta un Eiropas šaujamieroču apliecības izsniegšanu un Eiropas šaujamieroču apliecības derīguma termiņa pagarināšanu;
 27) par iekšējās drošības dienesta reģistrāciju;
 28) par azartspēļu iekārtu marķēšanu;
 29) par gaisa kuģu, Jūras kodeksa 8.panta otrajā daļā noteikto reģistrējamo kuģu un kuģošanas līdzekļu, kā arī par Valsts tehniskās uzraudzības aģentūrā reģistrējamu transportlīdzekļu reģistrāciju;
@@ -88,7 +88,7 @@
 70) par sertifikātu izsniegšanu fiziskajām personām, kas veic lauksaimniecības dzīvnieku vērtēšanu, pārraudzību, mākslīgo apsēklošanu, olšūnu un embriju transplantāciju, kā arī ganāmpulku un novietņu reģistrēšanu un zirga pases izsniegšanu;
 71) (izslēgts ar 17.12.2009. likumu);
 72) par tāda suņa reģistrāciju, kurš apmācīts uzbrukt cilvēkam;
-73) par atļauju izmantot dzīvnieku izmēģinājumā;
+73) par izmēģinājuma projekta atļaujas izsniegšanu dzīvnieka izmantošanai procedūrās;
 74) par dzīvnieka pārvadātāja apliecības izsniegšanu;
 75) par atļaujas izsniegšanu transportlīdzeklim dzīvnieku pārvadāšanai;
 76) par savvaļas sugu dzīvnieku turēšanas vietas reģistrāciju;
@@ -137,4 +137,7 @@
 119) par komercķīlas nodibināšanas, pārjaunojuma un dzēšanas reģistrāciju, par tiesībām iepazīties ar komercķīlu reģistra ierakstiem, par rakstveida informācijas saņemšanu no komercķīlu reģistra, par komercķīlas ņēmēja maiņu reorganizācijas vai uzņēmuma pārejas gadījumā, kā arī par komercķīlas noteikumu grozīšanu un nodrošinātā prasījuma cesijas reģistrāciju;
 120) par vietējās pierobežas satiksmes atļaujas pieprasīšanai nepieciešamo dokumentu izskatīšanu;
 121) par atļaujas izsniegšanu šķirnes pārbaudes veikšanai;
-122) par speciālās atļaujas (licences) izsniegšanu parāda atgūšanai un minētās speciālās atļaujas (licences) pārreģistrāciju.
+122) par speciālās atļaujas (licences) izsniegšanu parāda atgūšanai un minētās speciālās atļaujas (licences) pārreģistrāciju;
+123) par universālā pasta pakalpojuma saistību izpildes tīro izmaksu kompensēšanu;
+124) par spridzinātāja sertifikāta un spridzināšanas darbu vadītāja sertifikāta, tā dublikāta un atkārtota sertifikāta izsniegšanu;
+125) par Latvijas Nacionālā arhīva sociāli tiesiskās izziņas sagatavošanu un izsniegšanu.
