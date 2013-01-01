@@ -1,4 +1,2 @@
 42.pants
-(1) Ja meža zemi transformē, transformācijas ierosinātāja pienākums ir atlīdzināt zaudējumus valstij par dabiskās meža vides iznīcināšanu.
-(2) Meža zemes transformācijas nosacījumus un atļaujas saņemšanas kārtību, kā arī zaudējumu aprēķināšanas un atlīdzināšanas kārtību nosaka Ministru kabinets.
-(3) Zemes dzīļu izmantošana meža zemē notiek likumā "Par zemes dzīlēm" noteiktajā kārtībā.
+Kompensāciju pilnā apmērā ieskaita valsts pamatbudžetā (Meža attīstības fondā), un to atļauts izmantot mežsaimniecības atbalsta programmu finansēšanai, lai veicinātu oglekļa dioksīda piesaistes palielināšanu, piemērošanos klimata pārmaiņām un bioloģiskās daudzveidības saglabāšanu normatīvajos aktos par Meža attīstības fondu noteiktajā kārtībā.
