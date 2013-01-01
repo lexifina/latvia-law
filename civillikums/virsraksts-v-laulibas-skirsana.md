@@ -1,1 +1,0 @@
-V. Laulības šķiršana
