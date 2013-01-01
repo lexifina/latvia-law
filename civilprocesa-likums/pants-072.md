@@ -1,5 +1,6 @@
 72.pants. Civilprocesuālā rīcībspēja
-(1) Spēja realizēt civilprocesuālās tiesības un izpildīt pienākumus (civilprocesuālā rīcībspēja) ir pilngadīgām rīcībspējīgām fiziskajām un juridiskajām personām.
-(2) Fiziskajām personām vecumā no 15 līdz 18 gadiem un tām personām, kurām nodibināta aizgādnība saskaņā ar Civillikuma 365.pantu, lietas tiesā ved to likumiskie pārstāvji, tomēr tiesai šādās lietās jāuzaicina piedalīties arī pašas šīs personas.
-(3) Fiziskajām personām, kuras nav sasniegušas 15 gadu vecumu vai kuras atzītas par rīcībnespējīgām, lietas tiesā ved to likumiskie pārstāvji.
+(1) Spēja realizēt civilprocesuālās tiesības un izpildīt pienākumus (civilprocesuālā rīcībspēja) ir pilngadīgām fiziskajām personām tiktāl, ciktāl to nav ierobežojusi tiesa, un juridiskajām personām.
+(2) Fiziskajām personām vecumā no 15 līdz 18 gadiem lietas tiesā ved to likumiskie pārstāvji. Pilngadīgām fiziskajām personām, kuru rīcībspēju ierobežojusi tiesa, lietas tiesā ved to pārstāvji vai - likumā noteiktajos gadījumos - pārstāvji kopā ar šīm personām. Lietās, kuras ved minēto personu pārstāvji, tiesa aicina piedalīties arī pašas šīs personas.
+(3) Fiziskajām personām, kuras nav sasniegušas 15 gadu vecumu, lietas tiesā ved to likumiskie pārstāvji.
 (4) Likumā noteiktajos gadījumos nepilngadīgās personas ir tiesīgas patstāvīgi realizēt savas civilprocesuālās tiesības un izpildīt pienākumus. Šādās lietās pēc tiesas ieskatiem var pieaicināt šo personu likumiskos pārstāvjus, lai sniegtu tām palīdzību lietas vešanā.
+(5) Pilngadīgām fiziskajām personām, kuru rīcībspēju ierobežojusi tiesa, tomēr ir pilnīga civilprocesuālā rīcībspēja lietās, kurās izskata to rīcības un brīvības ierobežojumus, kā arī strīdus starp šo personu un tās aizgādni. Šādās lietās tiesa pieaicina prokuroru un bāriņtiesas pārstāvi.

@@ -1,7 +1,7 @@
 369.pants. Kredītiestādes maksātnespējas pieteikums
 (1) Maksātnespējas pieteikumā, kuru iesniedz kredītiestāde, norāda:
 1) tās tiesas nosaukumu, kurai piekrīt lieta;
-2) kredītiestādes nosaukumu, reģistrācijas numuru, kredītiestādes darbībai izsniegtās licences numuru, izsniegšanas un pārreģistrācijas datumu, atrašanās vietu (juridisko adresi) un visu kredītiestādei atvērto kontu rekvizītus;
+2) kredītiestādes nosaukumu, reģistrācijas numuru, kredītiestādes darbībai izsniegtās licences numuru, izsniegšanas un pārreģistrācijas datumu, juridisko adresi un visu kredītiestādei atvērto kontu rekvizītus;
 3) faktiskās maksātnespējas vai tās iestāšanās iespējas apstākļus un pierādījumus, kas šos apstākļus apstiprina;
 4) maksātnespējas pieteikumam pievienotos dokumentus.
 (2) Maksātnespējas pieteikumam pievieno:

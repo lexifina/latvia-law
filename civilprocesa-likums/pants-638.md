@@ -1,8 +1,10 @@
 638.pants. Pieteikuma iesniegšana
-(1) Pieteikumu par ārvalsts tiesas nolēmuma atzīšanu vai atzīšanu un izpildīšanu iesniedz izskatīšanai rajona (pilsētas) tiesai pēc nolēmuma izpildīšanas vietas vai arī pēc atbildētāja dzīvesvietas vai atrašanās vietas (juridiskās adreses).
+(1) Pieteikumu par ārvalsts tiesas nolēmuma atzīšanu vai atzīšanu un izpildīšanu iesniedz izskatīšanai rajona (pilsētas) tiesai pēc nolēmuma izpildīšanas vietas vai arī pēc atbildētāja deklarētās dzīvesvietas, bet, ja tādas nav, - pēc atbildētāja dzīvesvietas vai juridiskās adreses.
 (2) Pieteikumā norāda:
 1) tās tiesas nosaukumu, kurai pieteikums iesniegts;
-2) pieteicēja un atbildētāja vārdu, uzvārdu, personas kodu (ja tāda nav, tad citus identifikācijas datus) un dzīvesvietu, bet juridiskajai personai - tās nosaukumu, reģistrācijas numuru un atrašanās vietu (juridisko adresi);
+1¹) pieteicēja vārdu, uzvārdu, personas kodu (ja tāda nav, tad citus identifikācijas datus) un adresi saziņai ar tiesu, bet juridiskajai personai - tās nosaukumu, reģistrācijas numuru un juridisko adresi;
+1²) atbildētāja vārdu, uzvārdu, personas kodu (ja tāda nav, tad citus identifikācijas datus), deklarēto dzīvesvietu un deklarācijā norādīto papildu adresi, bet, ja tādas nav, - dzīvesvietu; juridiskajai personai - tās nosaukumu, reģistrācijas numuru un juridisko adresi;
+2) (izslēgts ar 29.11.2012. likumu);
 3) pieteikuma priekšmetu un apstākļus, uz kuriem pieteikums pamatots;
 4) pieteicēja lūgumu atzīt vai atzīt un izpildīt ārvalsts tiesas nolēmumu pilnā apjomā vai kādā tā daļā;
 5) pilnvaroto pārstāvi un viņa adresi, ja lietas vešanai iecelts pārstāvis Latvijā;

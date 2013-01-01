@@ -1,2 +1,2 @@
 271.pants. Piekritība
-Pieteikums par aizgādnības nodibināšanu personai, kura izlaidīgas vai izšķērdīgas dzīves dēļ, kā arī alkohola vai narkotiku pārmērīgas lietošanas dēļ draud novest sevi vai savu ģimeni trūkumā vai nabadzībā, iesniedzams tiesai pēc šīs personas dzīvesvietas.
+Pieteikums par rīcībspējas ierobežošanu un aizgādnības nodibināšanu personai izlaidīgas vai izšķērdīgas dzīves dēļ, kā arī alkohola vai citu apreibinošo vielu pārmērīgas lietošanas dēļ iesniedzams tiesā pēc šīs personas deklarētās dzīvesvietas, bet, ja tādas nav, - pēc tās dzīvesvietas.

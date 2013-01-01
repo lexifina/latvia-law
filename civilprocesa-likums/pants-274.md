@@ -1,2 +1,2 @@
-274.pants. Prokurora piedalīšanās
-Lieta par aizgādnības nodibināšanu personām to izlaidīgas vai izšķērdīgas dzīves, kā arī alkohola vai narkotiku pārmērīgas lietošanas dēļ izskatāma, piedaloties prokuroram.
+274.pants. Bāriņtiesas pārstāvja un prokurora piedalīšanās
+Lieta par aizgādnības nodibināšanu personai izlaidīgas vai izšķērdīgas dzīves dēļ, kā arī alkohola vai citu apreibinošo vielu pārmērīgas lietošanas dēļ izskatāma, piedaloties bāriņtiesas pārstāvim un prokuroram. Bāriņtiesas pārstāvis piedalās lietas izskatīšanā, iesniedzot pierādījumus, kuriem ir nozīme lietā. Bāriņtiesas pārstāvim ir tiesības iepazīties ar lietas materiāliem, piedalīties pierādījumu pārbaudīšanā un pieteikt lūgumus.

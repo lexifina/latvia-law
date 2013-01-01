@@ -1,7 +1,9 @@
 644.⁴ pants. Pieteikuma iesniegšana par ārvalsts tiesas nolēmuma, Eiropas Savienības izpildu dokumenta izpildes atlikšanu, sadalīšanu termiņos, izpildes veida vai kārtības grozīšanu, izpildes atteikšanu
 (1) Šā likuma 644.¹, 644.² un 644.³ pantā minētajā pieteikumā norāda:
 1) tās tiesas nosaukumu, kurai pieteikums iesniegts;
-2) pieteicēja un atbildētāja (piedzinēja) vārdu, uzvārdu, personas kodu (ja tāda nav, tad citus identifikācijas datus) un dzīvesvietu, bet juridiskajai personai - tās nosaukumu, reģistrācijas numuru un atrašanās vietu (juridisko adresi);
+1¹) pieteicēja vārdu, uzvārdu, personas kodu (ja tāda nav, tad citus identifikācijas datus) un adresi saziņai ar tiesu, bet juridiskajai personai - tās nosaukumu, reģistrācijas numuru un juridisko adresi;
+1²) atbildētāja (piedzinēja) vārdu, uzvārdu, personas kodu (ja tāda nav, tad citus identifikācijas datus), deklarēto dzīvesvietu un deklarācijā norādīto papildu adresi, bet, ja tādas nav, - dzīvesvietu; juridiskajai personai - tās nosaukumu, reģistrācijas numuru un juridisko adresi;
+2) (izslēgts ar 29.11.2012. likumu);
 3) pieteikuma priekšmetu un apstākļus, uz kuriem pieteikums pamatots;
 4) pieteicēja lūgumu;
 5) pilnvaroto pārstāvi un viņa adresi, ja lietas vešanai iecelts pārstāvis Latvijā;

@@ -3,8 +3,10 @@
 1) bērna izcelšanās noteikšanu;
 2) adopcijas apstiprināšanu un atcelšanu;
 3) laulības šķiršanu vai neesamību;
-4) personas atzīšanu par rīcībnespējīgu gara slimības vai plānprātības dēļ;
-5) bērna prettiesisku pārvietošanu pāri robežai uz ārvalsti vai aizturēšanu ārvalstī un bērna prettiesisku pārvietošanu pāri robežai uz Latviju vai aizturēšanu Latvijā.
+4) personas rīcībspējas ierobežošanu garīga rakstura vai citu veselības traucējumu dēļ;
+4¹) pagaidu aizgādnības nodibināšanu;
+5) bērna prettiesisku pārvietošanu pāri robežai uz ārvalsti vai aizturēšanu ārvalstī un bērna prettiesisku pārvietošanu pāri robežai uz Latviju vai aizturēšanu Latvijā;
+6) aizgādības un saskarsmes tiesībām.
 (2) Personas, kas jaunākas par 15 gadiem un kas nav lietas dalībnieki vai liecinieki, tiesas sēdē var būt klāt tikai ar tiesas atļauju.
 (3) Pēc lietas dalībnieka motivēta lūguma vai tiesas ieskata tiesas sēdi vai tās daļu var pasludināt par slēgtu:
 1) ja nepieciešams aizsargāt valsts noslēpumu vai komercnoslēpumu;

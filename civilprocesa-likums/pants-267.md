@@ -1,4 +1,4 @@
 267.pants. Tiesu ekspertīzes noteikšana
-(1) Tiesa izlemj jautājumu par tiesu psihiatriskās un, ja nepieciešams, tiesu psiholoģiskās ekspertīzes noteikšanu.
+(1) Tiesa var izlemt jautājumu par tiesu psihiatriskās un, ja nepieciešams, tiesu psiholoģiskās ekspertīzes noteikšanu. Lēmums par tiesu ekspertīzes noteikšanu ir pārsūdzams.
 (2) Ja persona, par kuru ierosināta lieta, izvairās no ekspertīzes, tiesa, piedaloties prokuroram un ekspertam, var pieņemt lēmumu par šīs personas nosūtīšanu uz tiesu ekspertīzi piespiedu kārtā.
-(3) Nosakot tiesu ekspertīzi, tiesa var pieņemt lēmumu par pagaidu aizgādnības nodibināšanu personai un tās mantai. Lēmums nosūtāms bāriņtiesai izpildīšanai.
+(3) (Izslēgta ar 29.11.2012. likumu)

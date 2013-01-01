@@ -7,8 +7,9 @@
 3¹) pieteikuma iesniedzēji - par ārvalsts nolēmuma par uzturlīdzekļu piedziņu bērnam vai vecākam atzīšanu vai atzīšanu un izpildīšanu;
 4) prasītāji - prasībās par noziedzīga nodarījuma rezultātā radušos materiālo zaudējumu un morālā kaitējuma atlīdzināšanu;
 5) prokurori, tās valsts vai pašvaldību iestādes un personas, kurām ar likumu piešķirtas tiesības aizstāvēt tiesā citu personu tiesības un ar likumu aizsargātās intereses;
-6) pieteikuma iesniedzēji - par personas atzīšanu par rīcībnespējīgu un aizgādnības nodibināšanu;
-7) pieteikuma iesniedzēji - par aizgādnības nodibināšanu personai tās izlaidīgas vai izšķērdīgas dzīves dēļ, kā arī alkohola vai narkotiku pārmērīgas lietošanas dēļ;
+6) pieteikuma iesniedzēji - par personas rīcībspējas ierobežošanu garīga rakstura vai citu veselības traucējumu dēļ, rīcībspējas ierobežošanas pārskatīšanu vai rīcībspējas atjaunošanu;
+6¹) pieteikuma iesniedzēji - par pagaidu aizgādnības nodibināšanu un izbeigšanu;
+7) pieteikumu iesniedzēji - par personas rīcībspējas ierobežošanu un aizgādnības nodibināšanu izlaidīgas vai izšķērdīgas dzīves dēļ, kā arī alkohola vai citu apreibinošo vielu pārmērīgas lietošanas dēļ;
 8) atbildētāji - lietās par tiesas piespriesto uzturlīdzekļu samazināšanu bērnam vai vecākam un to maksājumu samazināšanu, kurus tiesa piespriedusi prasībās, kas izriet no personiskiem aizskārumiem, kuru rezultātā radies sakropļojums vai cits veselības bojājums vai iestājusies personas nāve;
 9) (izslēgts no 01.01.2012. ar 31.10.2002. likumu);
 9¹) pieteikuma iesniedzēji - lietās par bērna prettiesisku pārvietošanu pāri robežai vai aizturēšanu;

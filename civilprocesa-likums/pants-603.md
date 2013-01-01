@@ -4,7 +4,7 @@
 1) tiesu izpildītāja vārdu, uzvārdu, amata vietu un prakses vietu;
 2) tiesas vai citas institūcijas nolēmumu, kurš tiek pildīts;
 3) piedzinēja un parādnieka vai viņu pilnvaroto personu vai pārstāvju vārdu un uzvārdu, ja tādi piedalās aprakstē;
-4) liecinieku vārdu, uzvārdu un dzīvesvietu, ja tādi piedalās aprakstē;
+4) liecinieku vārdu, uzvārdu, deklarēto dzīvesvietu un deklarācijā norādīto papildu adresi, bet, ja tādas nav, - dzīvesvietu, ja tādi piedalās aprakstē;
 5) vietu, kur nekustamais īpašums atrodas;
 6) no kādām daļām nekustamais īpašums sastāv;
 7) uz zemesgrāmatas ierakstu pamata:

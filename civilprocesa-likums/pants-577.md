@@ -4,10 +4,10 @@
 2) tiesu izpildītāja amata vietu un prakses vietu, tiesu izpildītāja vārdu un uzvārdu;
 3) tiesas vai citas institūcijas vai amatpersonas nolēmumu, kas tiek pildīts;
 4) piedzinēja un parādnieka vai mantas aprakstē klātesošo viņu pilnvaroto pārstāvju vārdu un uzvārdu;
-5) liecinieku vārdu, uzvārdu un dzīvesvietu, bet amatpersonai - vārdu, uzvārdu un ieņemamo amatu;
+5) liecinieku vārdu, uzvārdu, deklarēto dzīvesvietu un deklarācijā norādīto papildu adresi, bet, ja tādas nav, - dzīvesvietu, bet amatpersonai - vārdu, uzvārdu un ieņemamo amatu;
 6) katra aprakstītā priekšmeta nosaukumu, tā īpašās pazīmes (576.pants), katra priekšmeta novērtējumu atsevišķi un visas mantas vērtību;
 7) (izslēgts ar 31.10.2002. likumu);
-8) tās personas vārdu, uzvārdu un dzīvesvietu, kurai manta nodota glabāšanā;
+8) tās personas vārdu, uzvārdu, deklarēto dzīvesvietu un deklarācijā norādīto papildu adresi, bet, ja tādas nav, - dzīvesvietu, kurai manta nodota glabāšanā;
 9) to, ka piedzinējam un parādniekam izskaidrota tiesu izpildītāja rīcības pārsūdzēšanas kārtība un termiņš;
 10) to, ka mantas glabātājam izskaidrota aprakstītās mantas glabāšanas kārtība, viņa civiltiesiskā atbildība, kā arī kriminālatbildība, ja glabāšanā nodoto mantu izšķērdē, atsavina, slēpj vai apmaina;
 11) piedzinēja, parādnieka vai citu mantas aprakstē klātesošo personu izteiktās piezīmes un iebildumus.

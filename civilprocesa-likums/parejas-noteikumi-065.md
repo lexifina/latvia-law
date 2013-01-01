@@ -1,0 +1,1 @@
+65. Šķīrējtiesu reģistrā reģistrētas pastāvīgās šķīrējtiesas dibinātājs līdz 2013.gada 1.aprīlim iesniedz Uzņēmumu reģistram apliecinājumu, ka šķīrējtiesnesis atbilst šā likuma 497.panta otrās daļas prasībām, pievienojot dokumentus, kas pamato šķīrējtiesneša kvalifikāciju.

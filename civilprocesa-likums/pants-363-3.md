@@ -1,7 +1,7 @@
 363.³ pants. Parādnieka maksātnespējas procesa pieteikuma saturs
 (1) Parādnieka vārdā maksātnespējas procesa pieteikumu var iesniegt pārvaldes institūcija vai personālsabiedrības biedri, kuriem ir pārstāvības tiesības, vai īpaši pilnvarota persona.
 (2) Parādnieks maksātnespējas procesa pieteikumā norāda:
-1) parādnieka firmu (nosaukumu), reģistrācijas numuru un atrašanās vietu (juridisko adresi);
+1) parādnieka firmu (nosaukumu), reģistrācijas numuru un juridisko adresi;
 2) maksātnespējas procesa pazīmi;
 3) informāciju par parādnieka galveno interešu centra atrašanās vietu Padomes regulas Nr. 1346/2000 izpratnē;
 4) vai parādniekam citā dalībvalstī pieder uzņēmums Padomes regulas Nr. 1346/2000 2.panta "h" punkta izpratnē, un tā atrašanās vietu;

@@ -1,0 +1,3 @@
+270.² pants. Pieteikuma iesniedzēji
+(1) Pieteikumu par personas rīcībspējas ierobežojuma apjoma pārskatīšanu var iesniegt persona pati, tās aizgādnis, bērni, brāļi, māsas, vecāki, laulātais vai prokurors. Bāriņtiesas pārstāvis piedalās lietu izskatīšanā, iesniedzot pierādījumus, kuriem ir nozīme lietā. Bāriņtiesas pārstāvim ir tiesības iepazīties ar lietas materiāliem, piedalīties pierādījumu pārbaudīšanā un pieteikt lūgumus.
+(2) Aizgādnim ir pienākums iesniegt tiesā pieteikumu par rīcībspējas ierobežojuma apjoma pārskatīšanu ne retāk kā reizi septiņos gados no dienas, kad stājies spēkā tiesas spriedums par rīcībspējas ierobežošanu.

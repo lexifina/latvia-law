@@ -1,0 +1,1 @@
+64. Šā likuma 11.panta pirmās daļas 4.² punktā, 251.panta 3.¹ punktā un 34.¹ nodaļā "Nākotnes pilnvarnieka tiesību apturēšana" izdarītie grozījumi saistībā ar nākotnes pilnvarojumu stājas spēkā vienlaikus ar Civillikuma ceturtās daļas 18.nodaļas pirmās apakšnodaļas III¹ sadaļu "Nākotnes pilnvarojums".

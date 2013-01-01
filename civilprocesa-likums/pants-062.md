@@ -8,7 +8,8 @@
 5) ziņas par lietas dalībnieku, liecinieku, ekspertu un tulku ierašanos;
 6) ziņas par to, ka lietas dalībniekiem izskaidrotas viņu procesuālās tiesības un pienākumi;
 7) ziņas par to, ka liecinieki, eksperti un tulki brīdināti par kriminālatbildību;
-8) lietas dalībnieku paskaidrojumus, liecinieku liecības, ekspertu mutvārdu paskaidrojumus par viņu atzinumiem, ziņas par lietisko un rakstveida pierādījumu pārbaudi;
+8) lietas dalībnieku paskaidrojumus, liecinieku liecības, ekspertu mutvārdu paskaidrojumus par viņu atzinumiem;
+8¹) ziņas par lietisko un rakstveida pierādījumu pārbaudi;
 9) lietas dalībnieku pieteikumus;
 10) tiesas rīkojumus un lēmumus, kas nav pieņemti atsevišķu procesuālo dokumentu veidā;
 11) valsts un pašvaldību iestāžu atzinumu īsu saturu;
@@ -20,5 +21,6 @@
 17) tiesas sēdes slēgšanas laiku;
 18) tiesas sēdes protokola parakstīšanas laiku.
 (2) Prasītāja atteikšanos no prasības, kā arī to, ka atbildētājs ir atzinis prasību un lietas dalībnieki atzinuši juridiskos faktus, ieraksta tiesas sēdes protokolā un paraksta attiecīgi prasītājs, atbildētājs vai abas puses.
+(2¹) Ja tiesas sēdes gaitu fiksē ar tehniskajiem līdzekļiem, tiesas sēdes protokolā nenorāda šā panta pirmās daļas 8., 9., 11. un 12.punktā noteiktās ziņas.
 (3) Tiesas sēdes protokolu paraksta tiesas sēdes priekšsēdētājs un tiesas sēdes sekretārs.
 (4) Ārpus tiesas sēdes izpildīto atsevišķo procesuālo darbību protokolam jāatbilst šajā pantā minētajām prasībām.

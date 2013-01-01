@@ -2,7 +2,7 @@
 (1) Prasības pieteikumu šķīrējtiesai iesniedz rakstveidā.
 (2) Prasības pieteikumā norāda:
 1) informāciju par pusēm:
-a) juridiskajām personām: nosaukumu un atrašanās vietu (juridisko adresi) un, ja prasītājam ir zināmi, - arī reģistrācijas numuru un tālruņa numuru,
+a) juridiskajām personām: nosaukumu un juridisko adresi un, ja prasītājam ir zināmi, - arī reģistrācijas numuru un tālruņa numuru,
 b) fiziskajām personām: vārdu, uzvārdu un dzīvesvietu un, ja prasītājam ir zināmi, - arī personas kodu un tālruņa numuru;
 2) prasības priekšmetu, summu, prasības summas aprēķinu;
 3) prasības pamatu un pierādījumus, kas to apstiprina;

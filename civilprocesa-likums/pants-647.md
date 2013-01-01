@@ -1,5 +1,5 @@
 647.pants. Pieteikuma iesniegšana
-(1) Pieteikumu par ārvalsts šķīrējtiesas nolēmuma atzīšanu un izpildīšanu iesniedz izskatīšanai rajona (pilsētas) tiesai pēc nolēmuma izpildīšanas vietas vai arī atbildētāja dzīvesvietas vai atrašanās vietas (juridiskās adreses).
+(1) Pieteikumu par ārvalsts šķīrējtiesas nolēmuma atzīšanu un izpildīšanu iesniedz izskatīšanai rajona (pilsētas) tiesai pēc nolēmuma izpildīšanas vietas vai arī atbildētāja deklarētās dzīvesvietas, bet, ja tādas nav, - pēc atbildētāja dzīvesvietas vai juridiskās adreses.
 (2) Pieteikumā norāda šā likuma 638.panta otrajā daļā minētās ziņas.
 (3) Pieteikumam pievieno:
 1) ārvalsts šķīrējtiesas nolēmuma oriģinālu vai pienācīgi apliecinātu nolēmuma norakstu;

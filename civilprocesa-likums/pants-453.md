@@ -1,7 +1,7 @@
 453.pants. Kasācijas sūdzības saturs
 (1) Kasācijas sūdzībā norāda:
 1) tās tiesas nosaukumu, kurai adresēta sūdzība (Augstākās tiesas Senāta Civillietu departaments);
-2) sūdzības iesniedzēja vārdu, uzvārdu, personas kodu un dzīvesvietu, bet juridiskajai personai - nosaukumu, reģistrācijas numuru un atrašanās vietu (juridisko adresi);
+2) sūdzības iesniedzēja vārdu, uzvārdu, personas kodu un deklarēto dzīvesvietu, bet, ja tādas nav, - dzīvesvietu; juridiskajai personai - nosaukumu, reģistrācijas numuru un juridisko adresi. Sūdzības iesniedzējs papildus var norādīt arī citu adresi saziņai ar tiesu;
 3) spriedumu, par kuru iesniedz sūdzību, un tiesu, kas taisījusi spriedumu;
 4) kādā apjomā spriedumu pārsūdz;
 5) kādu materiālo tiesību normu tiesa piemērojusi vai iztulkojusi nepareizi, kādu procesuālo tiesību normu pārkāpusi un kā tas ietekmējis lietas izspriešanu vai kā izpaudies tiesas kompetences robežu pārkāpums;

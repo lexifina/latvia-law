@@ -1,5 +1,5 @@
 295.pants. Lietas sagatavošana izskatīšanai
-(1) Pēc pieteikuma pieņemšanas tiesnesis lemj par sludinājuma publicēšanu laikrakstā "Latvijas Vēstnesis" uz pieteicēja rēķina.
+(1) Pēc pieteikuma pieņemšanas tiesnesis lemj par sludinājuma publicēšanu oficiālajā izdevumā "Latvijas Vēstnesis" uz pieteicēja rēķina.
 (2) Sludinājumā norāda:
 1) tās tiesas nosaukumu, kurā saņemts pieteikums;
 2) pieteicēja vārdu un uzvārdu, bet juridiskajām personām - nosaukumu;

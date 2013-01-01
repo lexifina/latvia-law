@@ -2,7 +2,7 @@
 (1) Pierādījumu iegūšanas lūgumā norāda:
 1) pierādījumu iegūšanas lūguma iesniedzējas tiesas nosaukumu;
 2) pierādījumu iegūšanas lūguma priekšmetu un būtību;
-3) ziņas par lietas dalībnieku un tā pārstāvjiem: fiziskajām personām - vārdu, uzvārdu, personas kodu (ja tāda nav, citus identifikācijas datus) un dzīvesvietu, bet juridiskajām personām - nosaukumu, reģistrācijas numuru un atrašanās vietu (juridisko adresi);
+3) ziņas par lietas dalībnieku un tā pārstāvjiem: fiziskajām personām - vārdu, uzvārdu, personas kodu (ja tāda nav, citus identifikācijas datus) un dzīvesvietu, bet juridiskajām personām - nosaukumu, reģistrācijas numuru un juridisko adresi;
 4) lietas būtību un īsu faktu izklāstu;
 5) ziņas par iegūstamajiem pierādījumiem un to saistību ar lietu;
 6) ziņas par likumā paredzētajiem gadījumiem, kad liecinieki var atteikties no liecības došanas;

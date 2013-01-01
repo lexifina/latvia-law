@@ -1,6 +1,6 @@
 59.pants. Aicināšana uz tiesu ar publikāciju laikrakstā
-(1) Atbildētājs, kura dzīvesvieta nav zināma vai kuru nevar sastapt dzīvesvietā, aicināms uz tiesu ar publikāciju laikrakstā "Latvijas Vēstnesis".
-(2) Neatkarīgi no aicinājuma publikācijas laikrakstā "Latvijas Vēstnesis" prasītājs ir tiesīgs tiesas aicinājuma tekstu publicēt uz sava rēķina citos laikrakstos.
+(1) Atbildētāju, kura adresi nevarēja noskaidrot saskaņā ar šā likuma 54.¹ pantu vai kuram dokumentus nevarēja izsniegt adresē, kuru bija norādījis lietas dalībnieks saskaņā ar šā likuma 54.¹ panta pirmo daļu, vai kuram tiesas dokumentus nevarēja izsniegt saskaņā ar šā likuma 56.² pantu, aicina uz tiesu ar publikāciju oficiālajā izdevumā "Latvijas Vēstnesis".
+(2) Neatkarīgi no aicinājuma publikācijas oficiālajā izdevumā "Latvijas Vēstnesis" prasītājs ir tiesīgs tiesas aicinājuma tekstu publicēt uz sava rēķina citos laikrakstos.
 (3) Laikrakstā publicējams pavēstes saturam atbilstošs aicinājuma teksts.
-(4) Tiesa var izskatīt lietu bez atbildētāja piedalīšanās, ja pagājis ne mazāk kā viens mēnesis no aicinājuma publikācijas dienas laikrakstā "Latvijas Vēstnesis".
+(4) Tiesa var izskatīt lietu bez atbildētāja piedalīšanās, ja pagājis ne mazāk kā viens mēnesis no aicinājuma publikācijas dienas oficiālajā izdevumā "Latvijas Vēstnesis".
 (5) Līdztekus atbildētāja aicināšanai ar publikāciju laikrakstā pavēste piesūtāma arī pēc viņa nekustamās mantas atrašanās vietas, ja to norādījis prasītājs.

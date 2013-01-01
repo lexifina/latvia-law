@@ -1,14 +1,13 @@
 34.pants. Valsts nodeva
 (1) Par katru prasības pieteikumu - sākotnējo prasību vai pretprasību, trešās personas pieteikumu ar patstāvīgu prasījumu par strīda priekšmetu, kas iesniegts jau iesāktā procesā, pieteikumu sevišķās tiesāšanas kārtības lietās, kā arī citiem šajā pantā paredzētajiem pieteikumiem, kurus iesniedz tiesā, - maksājama valsts nodeva šādā apmērā:
 1) par prasību, kas novērtējama naudas summā:
-a) (izslēgts ar 05.02.2009. likumu),
-b) līdz 1000 latiem - 15 procenti no prasības summas, bet ne mazāk par 50 latiem,
-c) no 1001 lata līdz 5000 latiem - 150 latu plus 2,5 procenti no prasības summas, kas pārsniedz 1000 latus,
-d) no 5001 lata līdz 20 000 latiem - 250 latu plus 1,6 procenti no prasības summas, kas pārsniedz 5000 latus,
-e) no 20 001 lata līdz 100 000 latiem - 490 latu plus 1 procents no prasības summas, kas pārsniedz 20 000 latus,
-f) no 100 001 lata līdz 500 000 latiem - 1290 latu plus 0,3 procenti no prasības summas, kas pārsniedz 100 000 latus,
-g) vairāk par 500 000 latiem - 2490 latu plus 0,05 procenti no prasības summas, kas pārsniedz 500 000 latus;
-2) par prasības pieteikumu laulības šķiršanas lietā - 100 latu, bet par prasības pieteikumu laulības šķiršanas lietā ar personu, kas noteiktā kārtībā atzīta par bezvēsts promesošu vai rīcībnespējīgu gara slimības vai plānprātības dēļ, vai ar personu, kas notiesāta ar brīvības atņemšanu uz laiku, kas nav mazāks par trim gadiem, - 10 latu;
+a) līdz 1500 latiem - 15 procenti no prasības summas, bet ne mazāk par 50 latiem,
+b) no 1501 lata līdz 5000 latiem - 225 lati plus 4 procenti no prasības summas, kas pārsniedz 1500 latus,
+c) no 5001 lata līdz 20 000 latiem - 365 lati plus 3,2 procenti no prasības summas, kas pārsniedz 5000 latus,
+d) no 20 001 lata līdz 100 000 latiem - 845 lati plus 1,6 procenti no prasības summas, kas pārsniedz 20 000 latus,
+e) no 100 001 lata līdz 500 000 latiem - 2125 lati plus 1 procents no prasības summas, kas pārsniedz 100 000 latus,
+f) vairāk par 500 000 latiem - 6125 lati plus 0,6 procenti no prasības summas, kas pārsniedz 500 000 latus;
+2) par prasības pieteikumu laulības šķiršanas lietā - 100 latu, bet par prasības pieteikumu laulības šķiršanas lietā ar personu, kas noteiktā kārtībā atzīta par bezvēsts promesošu, vai ar personu, kas notiesāta ar brīvības atņemšanu uz laiku, kas nav mazāks par trim gadiem, - 10 latu;
 3) par pieteikumu sevišķās tiesāšanas kārtības lietās - 30 latu, par kreditora iesniegto juridiskās personas maksātnespējas procesa pieteikumu - 250 latu, par parādnieka iesniegto juridiskās personas vai fiziskās personas maksātnespējas procesa pieteikumu - 50 latu, par tiesiskās aizsardzības procesa pieteikumu - 100 latu, par kredītiestāžu maksātnespējas vai likvidācijas pieteikumu - 250 latu;
 4) par citām prasībām, kam nav mantiska rakstura vai kas nav jānovērtē, - 50 latu;
 4¹) par pieteikumu par autortiesību un blakustiesību, datu bāzu aizsardzības (sui generis), preču zīmju un ģeogrāfiskās izcelsmes norāžu, patentu, dizainparaugu, augu šķirņu, pusvadītāju izstrādājumu topogrāfiju (turpmāk - intelektuālā īpašuma tiesības) pārkāpumiem un aizsardzību - 150 latu;

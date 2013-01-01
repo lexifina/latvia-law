@@ -1,4 +1,2 @@
 34.nodaļa
-Aizgādnības nodibināšana personai
-tās izlaidīgas vai izšķērdīgas dzīves,
-kā arī alkohola vai narkotiku pārmērīgas lietošanas dēļ
+Personas rīcībspējas ierobežošana un aizgādnības nodibināšana izlaidīgas vai izšķērdīgas dzīves dēļ, kā arī alkohola vai citu apreibinošo vielu pārmērīgas lietošanas dēļ

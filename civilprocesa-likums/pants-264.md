@@ -1,2 +1,2 @@
 264.pants. Piekritība
-Pieteikums atzīt personu par rīcībnespējīgu gara slimības vai plānprātības dēļ iesniedzams tiesai pēc šīs personas dzīvesvietas, bet, ja persona ievietota ārstniecības iestādē, - pēc ārstniecības iestādes atrašanās vietas.
+Pieteikumu par personas rīcībspējas ierobežošanu garīga rakstura vai citu veselības traucējumu dēļ iesniedz tiesā pēc šīs personas deklarētās dzīvesvietas, bet, ja tādas nav, - pēc šīs personas dzīvesvietas; ja persona ievietota ārstniecības iestādē, - pēc ārstniecības iestādes adreses.

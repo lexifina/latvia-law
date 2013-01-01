@@ -1,3 +1,2 @@
 33.nodaļa
-Personas atzīšana par rīcībnespējīgu
-un aizgādnības nodibināšana
+Personas rīcībspējas ierobežošana un aizgādnības nodibināšana garīga rakstura vai citu veselības traucējumu dēļ

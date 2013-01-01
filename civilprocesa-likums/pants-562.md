@@ -1,7 +1,7 @@
 562.pants. Izpildu lietvedības apturēšanas termiņi
 (1) Izpildu lietvedība tiek apturēta:
 1) šā likuma 560.panta pirmās daļas 1.punktā paredzētajos gadījumos - līdz parādnieka vai piedzinēja tiesību pārņēmēja noteikšanai;
-2) šā likuma 560.panta pirmās daļas 2.punktā paredzētajos gadījumos - līdz aizgādņa iecelšanai rīcībnespējīgam parādniekam;
+2) šā likuma 560.panta pirmās daļas 2.punktā paredzētajos gadījumos - līdz aizgādņa iecelšanai;
 3) šā likuma 560.panta pirmās daļas 3., 5. un 6.punktā paredzētajos gadījumos - līdz laikam, kāds norādīts tiesas lēmumā, vai līdz šā lēmuma atcelšanai;
 4) (izslēgts ar 19.06.2003. likumu);
 5) šā likuma 560.panta pirmās daļas 4.punktā paredzētajos gadījumos - līdz laikam, kad saskaņā ar likumu apturējums izbeidzas, vai laikam, kāds norādīts tiesas nolēmumā, vai līdz šā nolēmuma atcelšanai;

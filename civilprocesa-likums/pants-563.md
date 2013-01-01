@@ -5,7 +5,7 @@
 3) prasījums vai pienākums nevar pāriet tiesību pārņēmējam pēc tās fiziskās personas nāves vai juridiskās personas izbeigšanās, kura bija piedzinējs vai parādnieks;
 4) šim piedziņas veidam notecējis likumā noteiktais noilguma termiņš;
 5) atcelts tiesas nolēmums vai attiecīgas institūcijas vai amatpersonas lēmums, uz kura pamata izsniegts izpildu dokuments;
-6) atjaunots apelācijas vai blakus sūdzības iesniegšanas termiņš par tiesas nolēmumu, uz kura pamata izsniegts izpildu dokuments;
+6) atjaunots apelācijas, kasācijas vai blakus sūdzības iesniegšanas termiņš par tiesas nolēmumu, uz kura pamata izsniegts izpildu dokuments;
 7) atteikta ārvalsts tiesas vai kompetentās iestādes nolēmuma izpilde (644.³ pants);
 8) ārvalsts tiesa vai kompetentā iestāde atsauc izsniegto Eiropas izpildes rīkojumu saskaņā ar Eiropas Parlamenta un Padomes regulu Nr. 805/2004;
 9) pieņemts tiesas nolēmums par tiesiskās aizsardzības procesa izbeigšanu sakarā ar tiesiskās aizsardzības procesa pasākumu plāna izpildi;
