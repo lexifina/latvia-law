@@ -1,0 +1,8 @@
+32.pants. Pakalpojuma sniegšanas un saņemšanas brīdis
+(1) Pakalpojuma sniegšana ir notikusi, kad pakalpojums sniegts pakalpojuma saņēmējam, ja šajā pantā nav noteikts citādi.
+(2) Pakalpojuma saņemšana ir notikusi, ja pakalpojums ir saņemts.
+(3) Ja pakalpojumus (izņemot kustamo lietu nomu) sniedz pastāvīgi ilgstošā periodā un par šo pakalpojumu sniegšanu periodiski izraksta nodokļa rēķinus vai to sniegšana rada turpmākus maksājumus, uzskata, ka darījums ir noticis tad, kad beidzas periods, uz kuru attiecas šie rēķini vai maksājumi, bet ne retāk kā reizi sešos mēnešos, ja šajā pantā nav noteikts citādi.
+(4) Ja pakalpojumus, par kuriem saskaņā ar šā likuma 88. un 89.pantu nodokli maksā pakalpojumu saņēmējs, sniedz pastāvīgi ilgstošā periodā, kas pārsniedz vienu gadu, un par šo pakalpojumu sniegšanu šajā laika posmā netiek izrakstīti nodokļa rēķini vai veikti maksājumi, uzskata, ka darījums ir noticis katra kalendāra gada beigās līdz laikam, kad pakalpojuma sniegšana ir pilnībā pabeigta.
+(5) Būvniecības pakalpojums ir sniegts tad, kad parakstīts būvobjekta pieņemšanas akts par katru no būvdarbu izpildes posmiem, bet ne retāk kā reizi 12 mēnešos.
+(6) Preču transporta pakalpojums Eiropas Savienības teritorijā vai ar preču eksportu vai tranzītu saistīts preču transporta pakalpojums ir sniegts tad, kad krava ir nodota preču saņēmējam un kravas pieņemšana ir apstiprināta transporta pavadzīmē.
+(7) Nomaksas pirkuma darījums par nekustamā īpašuma piegādi uzskatāms par nomas pakalpojumu, sākot ar pirmo nomaksas pirkuma maksājumu, ja netiek izpildīti nomaksas pirkuma līguma nosacījumi un tādēļ nomaksas pirkuma objekts paliek piegādātāja īpašumā.

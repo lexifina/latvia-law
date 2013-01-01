@@ -1,0 +1,2 @@
+90.pants. Valsts budžetā maksājamais nodoklis, koriģējot preces ar nodokli apliekamo vērtību par atpakaļ nesaņemto depozīta iepakojumu
+Reģistrēts nodokļa maksātājs, kurš atkārtoti lietojamam iepakojumam piemēro depozīta sistēmu saskaņā ar normatīvajiem aktiem iepakojuma jomā, iesniedzot deklarāciju par taksācijas gadu, koriģē piegādātās preces ar nodokli apliekamo vērtību par iepriekšējā taksācijas gadā atpakaļ nesaņemtā depozīta iepakojuma vērtību un no šīs vērtības aprēķināto nodokļa summu iemaksā valsts budžetā.

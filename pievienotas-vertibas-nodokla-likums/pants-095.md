@@ -1,0 +1,3 @@
+95.pants. Priekšnodokļa atskaitīšana fiskālajam pārstāvim
+(1) Reģistrēts nodokļa maksātājs, kuram ir piešķirts arī fiskālā pārstāvja reģistrācijas numurs, nodokli, kas norādīts saņemtajos nodokļa rēķinos par precēm un pakalpojumiem fiskālā pārstāvja darbības nodrošināšanai, atskaita kā priekšnodokli nodokļa deklarācijā. Minētie atskaitījumi nav veicami fiskālā pārstāvja nodokļa deklarācijā.
+(2) Fiskālais pārstāvis kā priekšnodokli savā nodokļa deklarācijā norāda saskaņā ar īpašo nodokļa režīmu preču importa darījumos aprēķināto nodokļa summu par importētajām precēm atbilstoši muitas deklarācijai.

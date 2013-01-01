@@ -1,0 +1,4 @@
+27.pants. Elektroniski sniegta pakalpojuma sniegšanas vieta
+(1) Elektroniski sniegta pakalpojuma sniegšanas vieta, ja tas sniegts personai, kura nav nodokļa maksātājs un kuras mītnes vieta, deklarētā dzīvesvieta, bet, ja tādas nav, - pastāvīgās uzturēšanās vieta ir kādas dalībvalsts teritorijā, un šo pakalpojumu sniedz trešās valsts vai trešās teritorijas nodokļa maksātājs, ir tās personas mītnes vieta, deklarētā dzīvesvieta, bet, ja tādas nav, - pastāvīgās uzturēšanās vieta, kura nav nodokļa maksātājs.
+(2) Elektroniski sniegta pakalpojuma sniegšanas vieta ir iekšzeme, ja šo pakalpojumu trešās valsts vai trešās teritorijas nodokļa maksātājs sniedz personai, kura nav nodokļa maksātājs un kuras mītnes vieta, deklarētā dzīvesvieta, bet, ja tādas nav, - pastāvīgās uzturēšanās vieta ir Latvijas Republika.
+(3) Elektroniskā pasta izmantošana starp pakalpojuma sniedzēju un saņēmēju nenozīmē, ka tas ir elektroniski sniegts pakalpojums.

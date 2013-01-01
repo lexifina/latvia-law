@@ -1,0 +1,8 @@
+91.pants. Personas, kuras maksā nodokli valsts budžetā citos gadījumos
+(1) Ja citas dalībvalsts nodokļa maksātājs piegādā preces no citas dalībvalsts uz iekšzemi un tās iekšzemē montē vai uzstāda, nodokli valsts budžetā maksā:
+1) preču saņēmējs, ja tas ir reģistrēts nodokļa maksātājs;
+2) citas dalībvalsts nodokļa maksātājs, ja preču saņēmējs ir nereģistrēts nodokļa maksātājs vai persona, kura nav nodokļa maksātājs.
+(2) Ja citas dalībvalsts reģistrēts nodokļa maksātājs piegādā no citas dalībvalsts uz iekšzemi gāzi, izmantojot dabasgāzes sistēmu, kas atrodas Eiropas Savienības teritorijā, vai tīklus, kas ir pieslēgti šai sistēmai, elektroenerģiju, siltumenerģiju vai dzesēšanas enerģiju, ko nodrošina pa siltumenerģijas vai dzesēšanas enerģijas tīkliem, nodokli valsts budžetā maksā:
+1) dabasgāzes, elektroenerģijas, siltumenerģijas vai dzesēšanas enerģijas saņēmējs, ja tas ir reģistrēts nodokļa maksātājs;
+2) citas dalībvalsts nodokļa maksātājs, ja dabasgāzes, elektroenerģijas, siltumenerģijas vai dzesēšanas enerģijas saņēmējs ir nereģistrēts nodokļa maksātājs vai persona, kura nav nodokļa maksātājs.
+(3) Reģistrēts nodokļa maksātājs, kas ir valsts vai pašvaldības iestāde vai pašvaldība, kura saskaņā ar šā likuma 58.pantu reģistrēta Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā šā likuma 142.panta ceturtajā daļā minēto būvniecības pakalpojumu saņemšanai, par citiem apliekamiem darījumiem, kuriem saskaņā ar likumu iekšzemē piemēro nodokli, maksā valsts budžetā nodokli, ja tas izvēlas neizmantot vai nav tiesīgs piemērot šā likuma 59.pantā noteiktās tiesības, pirms tam par to paziņojot Valsts ieņēmumu dienestam.

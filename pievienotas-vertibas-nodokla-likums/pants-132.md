@@ -1,0 +1,4 @@
+132.pants. Nodokļa rēķina nosūtīšana elektroniski
+(1) Reģistrēts nodokļa maksātājs nodokļa rēķinu elektroniskā formā ir tiesīgs izrakstīt (noformēt) un izsniegt tikai tad, ja šā nodokļa rēķina saņēmējs atzīst šādu nodokļa rēķina formu.
+(2) Elektroniska nodokļa rēķina elektroniskās formas autentiskumu (nodokļa rēķina izsniedzēja identitātes apliecinājumu) un nemainīgu saturu var nodrošināt, ja nodokļa rēķinam ir drošs elektroniskais paraksts Elektronisko dokumentu likuma izpratnē vai ja nodokļa rēķins ir nosūtīts, izmantojot elektronisko datu apmaiņu vai citu veidu, ko izvēlējies pats nodokļa maksātājs atbilstoši šā likuma 125.panta ceturtās daļas nosacījumiem.
+(3) Nosūtot vai darot pieejamus vienam un tam pašam adresātam kopā vairākus nodokļa rēķinus elektroniskā formā, informāciju, kas atsevišķiem rēķiniem ir kopīga, var minēt tikai vienu reizi, ja attiecībā uz katru nodokļa rēķinu ir pieejama pilnīga informācija.

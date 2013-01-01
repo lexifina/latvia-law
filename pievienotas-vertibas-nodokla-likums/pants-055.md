@@ -1,0 +1,3 @@
+55.pants. Vispārīgie noteikumi nodokļa maksātāja reģistrācijai Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā
+(1) Nodokļa maksātājs, pirms tas veic ar nodokli apliekamos darījumus vai saņem tādus pakalpojumus iekšzemē, kuru sniegšanas vietu nosaka saskaņā ar šā likuma 19.panta pirmo daļu, reģistrējas Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā.
+(2) Nodokļa maksātājam ar nodokli apliekamu darījumu veikšanai ir tiesības reģistrēties Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā uz noteiktu laiku, kuru tas norāda šā likuma 66.panta pirmajā daļā minētajā reģistrācijas iesniegumā.

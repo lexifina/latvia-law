@@ -1,0 +1,2 @@
+81.pants. Izslēgšana no Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistra, ja apturēta reģistrēta nodokļa maksātāja saimnieciskā darbība
+Valsts ieņēmumu dienests, pieņemot lēmumu par reģistrēta nodokļa maksātāja saimnieciskās darbības apturēšanu saskaņā ar likumu "Par nodokļiem un nodevām", vienlaikus pieņem lēmumu par reģistrēta nodokļa maksātāja izslēgšanu no Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistra.

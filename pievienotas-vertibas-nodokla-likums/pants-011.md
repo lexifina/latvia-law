@@ -1,0 +1,5 @@
+11.pants. Darījumi PVN grupas ietvaros
+(1) Ja reģistrēti iekšzemes nodokļa maksātāji ir PVN grupas dalībnieki, uzskata, ka viena PVN grupas dalībnieka saimniecisko darbību veic visa PVN grupa, un jebkuru PVN grupas dalībnieka veikto preču piegādi, pakalpojumu sniegšanu vai preču vai pakalpojumu saņemšanu uzskata par PVN grupas veikto preču piegādi, pakalpojumu sniegšanu vai preču vai pakalpojumu saņemšanu.
+(2) Viena PVN grupas dalībnieka veiktajai preču piegādei vai pakalpojumu sniegšanai citam tās pašas PVN grupas dalībniekam šā likuma normas nav piemērojamas.
+(3) Ja darījumā starp diviem vienas un tās pašas PVN grupas dalībniekiem viens lieto savu reģistrācijas numuru Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā, bet otrs - reģistrācijas numuru citas dalībvalsts nodokļa maksātāju reģistrā, nodokli piemēro šajā likumā noteiktajā vispārīgajā kārtībā.
+(4) Ja preču piegāde vai pakalpojumu sniegšana notiek starp PVN grupas dalībnieku un tādu personu, kas ir izslēgta no šīs PVN grupas, saņemtajam avansa maksājumam, kas veikts līdz izslēgšanai no PVN grupas, nodokli piemēro šajā likumā noteiktajā vispārīgajā kārtībā.

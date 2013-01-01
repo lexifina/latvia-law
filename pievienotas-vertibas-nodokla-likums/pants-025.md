@@ -1,0 +1,2 @@
+25.pants. Ar nekustamo īpašumu saistīta pakalpojuma sniegšanas vieta
+Ar nekustamo īpašumu saistītu pakalpojumu, tai skaitā ar nekustamo īpašumu saistīta darījuma starpnieku un ekspertu pakalpojuma, viesu izmitināšanas pakalpojuma, nekustamā īpašuma nomas pakalpojuma, būvniecības pakalpojuma, būvdarbu sagatavošanas (tai skaitā arhitektu pakalpojuma), būvdarbu koordinācijas un uzraudzības pakalpojuma sniegšanas vieta ir vieta, kur šis nekustamais īpašums atrodas.

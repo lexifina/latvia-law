@@ -1,0 +1,1 @@
+8. Šā likuma 105.panta ceturtā daļa piemērojama zaudēto parādu summām, ja tiesas nolēmums par bankrota procedūras pabeigšanu ir pieņemts saskaņā ar maksātnespējas procesa regulējumu, kas bija spēkā līdz 2010.gada 31.oktobrim.

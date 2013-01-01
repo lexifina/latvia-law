@@ -1,0 +1,1 @@
+5. Ja līgums par nomaksas pirkumu noslēgts līdz 2004.gada 30.aprīlim, nodoklis par šo darījumu maksājams kopā ar veicamajiem maksājumiem līgumā norādītajos termiņos, piemērojot tādu nodokļa likmi, kāda bija piemērojama nomaksas pirkuma objektam līguma slēgšanas dienā.

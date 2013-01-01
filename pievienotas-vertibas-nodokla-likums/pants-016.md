@@ -1,0 +1,8 @@
+16.pants. Preču iegādes Eiropas Savienības teritorijā vieta
+(1) Ja veikta preču iegāde Eiropas Savienības teritorijā, preču iegādes vieta ir tā dalībvalsts, kurā preces atrodas brīdī, kad beidzas preču nosūtīšana vai transportēšana preču saņēmējam.
+(2) Vieta, kur veikta preču iegāde Eiropas Savienības teritorijā, ir iekšzeme, ja preces nosūta vai transportē no citas dalībvalsts uz iekšzemi.
+(3) Par vietu, kur veikta preču iegāde Eiropas Savienības teritorijā, uzskata iekšzemi, ja reģistrēts nodokļa maksātājs, veicot preču iegādi Eiropas Savienības teritorijā, ir uzrādījis darījuma brīdī derīgu Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāja reģistrācijas numuru, ja vien reģistrēts nodokļa maksātājs, kurš ir veicis šo iegādi, nepierāda, ka nodoklis ir piemērots tajā dalībvalstī, kurā beidzas preču nosūtīšana vai transportēšana.
+(4) Šā panta trešo daļu nepiemēro un uzskata, ka nodoklis ir piemērots saskaņā ar šā panta pirmo daļu tajā dalībvalstī, kur beidzas preču nosūtīšana vai transportēšana, ja:
+1) reģistrēts nodokļa maksātājs ir veicis preču iegādi Eiropas Savienības teritorijā no citas dalībvalsts reģistrēta nodokļa maksātāja nolūkā piegādāt šīs preces galasaņēmējam tās dalībvalsts teritorijā, kas saskaņā ar šā panta pirmo daļu ir uzskatāma par vietu, kur veikta šo preču iegāde Eiropas Savienības teritorijā;
+2) preču galasaņēmējs ir šīs daļas 1.punktā minētās dalībvalsts reģistrēts nodokļa maksātājs un ir atbildīgs par nodokļa samaksu savas valsts budžetā kā šo preču saņēmējs;
+3) reģistrēts nodokļa maksātājs šīs daļas 1.punktā minēto preču piegādi ir norādījis ar īpašu atzīmi pārskatā par preču piegādēm un sniegtajiem pakalpojumiem Eiropas Savienības teritorijā.

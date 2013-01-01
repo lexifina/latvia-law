@@ -1,0 +1,2 @@
+2.pants. Likuma darbības joma
+Likums nosaka nodokļa maksātājus, ar nodokli apliekamos darījumus un to ar nodokli apliekamo vērtību, preču piegādes un pakalpojumu sniegšanas vietu, nodokļa likmes un atbrīvojumus no nodokļa, prasības nodokļa maksāšanai un administrēšanai, kārtību, kādā nodoklis maksājams valsts budžetā, noteikumus priekšnodokļa atskaitīšanai un nodokļa atmaksāšanai, kā arī citus noteikumus nodokļa piemērošanai iekšzemē un atbildību par šā likuma pārkāpumiem.

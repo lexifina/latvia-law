@@ -1,0 +1,1 @@
+4. Ja nomaksas pirkuma līgums, kas paredz ar nodokli apliekamo preču piegādi, ir noslēgts līdz 2001.gada 1.janvārim un līgumā ir atsevišķi nodalīti kredīta procenti, kas līdz 2000.gada 31.decembrim netika aplikti ar nodokli, tad šos procentus neapliek ar nodokli arī pēc 2001.gada 1.janvāra līdz konkrētā līguma darbības beigām.

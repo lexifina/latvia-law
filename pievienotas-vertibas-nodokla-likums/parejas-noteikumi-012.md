@@ -1,0 +1,1 @@
+12. Šā likuma 52.panta pirmās daļas 21.punkta "e" apakšpunkts attiecībā uz nodokļa piemērošanu kapitālā izdarīto ieguldījumu un vērtspapīru pārvaldei un uzraudzībai piemērojams, sākot ar 2014.gada 1.janvāri.

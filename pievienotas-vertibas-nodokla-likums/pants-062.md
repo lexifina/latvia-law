@@ -1,0 +1,2 @@
+62.pants. Noteikumi trešās valsts vai trešās teritorijas nodokļa maksātāja pastāvīgās iestādes iekšzemē reģistrācijai Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā
+Ja trešās valsts vai trešās teritorijas nodokļa maksātāja pastāvīgā iestāde iekšzemē iesaistās šīs personas preču piegādē vai pakalpojumu sniegšanā iekšzemē, tā pirms šo darījumu veikšanas reģistrējas Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā.

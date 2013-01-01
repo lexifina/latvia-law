@@ -1,0 +1,6 @@
+29.pants. Restorānu un ēdināšanas pakalpojumu sniegšanas vieta
+(1) Restorānu un ēdināšanas pakalpojumu sniegšanas vieta, izņemot gadījumus, kad šos pakalpojumus sniedz uz kuģiem, gaisakuģos vai vilcienos pasažieru pārvadājuma posmā Eiropas Savienības teritorijā, ir vieta, kur faktiski tiek sniegti šie pakalpojumi.
+(2) Ja restorānu un ēdināšanas pakalpojumus sniedz pasažieriem uz kuģiem, gaisakuģos vai vilcienos pasažieru pārvadājuma posmā Eiropas Savienības teritorijā starp pasažieru pārvadājuma sākumpunktu un galamērķi (bez apstāšanās ārpus Eiropas Savienības teritorijas), pakalpojumu sniegšanas vieta ir pasažieru pārvadājuma sākumpunkts.
+(3) Pasažieru pārvadājuma sākumpunkts šā panta izpratnē ir pirmā paredzētā iekāpšanas vieta Eiropas Savienības teritorijā (arī pēc apstāšanās ārpus Eiropas Savienības teritorijas).
+(4) Pasažieru pārvadājuma galamērķis šā panta izpratnē ir pēdējā paredzētā izkāpšanas vieta Eiropas Savienības teritorijā pasažieriem, kas iekāpuši kuģī, gaisakuģī vai vilcienā Eiropas Savienības teritorijā (arī pirms apstāšanās ārpus Eiropas Savienības teritorijas).
+(5) Ja pasažieru pārvadājums notiek turp un atpakaļ, tad šā panta izpratnē atpakaļceļa posmu uzskata par atsevišķu pārvadājumu.

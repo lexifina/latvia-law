@@ -1,0 +1,9 @@
+145.pants. Nodokļa piemērošana komersanta (uzņēmuma) dalībnieku maiņas, reorganizācijas vai likvidācijas gadījumos
+(1) Ja privatizē valsts vai pašvaldības kapitālsabiedrību un tās jaunais īpašnieks saimnieciskās darbības turpināšanai pārņem visas kapitālsabiedrības tiesības un saistības, darījumam nodoklis nav piemērojams.
+(2) Ja likvidē komercsabiedrību (uzņēmumu), kas savas darbības laikā nav bijis reģistrēts nodokļa maksātājs, tad, pārdodot vai nododot šīs personas mantu, nodoklis nav jāmaksā.
+(3) Ja likvidē komercsabiedrību (uzņēmumu), kas savas darbības laikā ir bijis reģistrēts nodokļa maksātājs vai kam bija jābūt reģistrētam nodokļa maksātājam, tad par piegādātajām precēm nodokli aprēķina un maksā saskaņā ar šo likumu. Šajos gadījumos persona, kas veic likvidatora funkcijas, iesniedz nodokļa deklarāciju Valsts ieņēmumu dienestam.
+(4) Ja reģistrēta nodokļa maksātāja īpašumu pārdod tiesu izpildītājs, maksātnespējas procesa administrators vai likvidators, ar nodokli apliekama īpašuma tirgus vērtība (cena) vai izsoles cena (pilna nosolītā cena, augstākā nosolītā cena vai izsoles sākumcena, ja izsole pasludināta par nenotikušu).
+(5) Ja komercsabiedrību, kas ir reģistrēts nodokļa maksātājs, reorganizē sadalīšanas ceļā un izveido jaunu komercsabiedrību (uzņēmumu), ko 30 dienu laikā pēc reģistrācijas komercreģistrā reģistrē Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā, nodokli par nodalīto mantu neaprēķina.
+(6) Ja komercsabiedrību (uzņēmumu), kas ir reģistrēts nodokļa maksātājs, reorganizē apvienošanas ceļā, nodokli par nodoto mantu neaprēķina.
+(7) Ja komercsabiedrību (uzņēmumu), kas ir reģistrēts nodokļa maksātājs, reorganizē pārveidošanas ceļā par cita veida komercsabiedrību, nodokli par nodoto mantu neaprēķina.
+(8) Ja individuālo komersantu, kurš ir reģistrēts nodokļa maksātājs, pārveido par komercsabiedrību, nodokli par nodoto mantu neaprēķina.

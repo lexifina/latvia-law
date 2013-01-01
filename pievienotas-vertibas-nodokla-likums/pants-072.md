@@ -1,0 +1,3 @@
+72.pants. Reģistrācijas perioda pagarināšana Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā
+(1) Ja nodokļa maksātājs, kurš reģistrēts uz noteiktu laiku saskaņā ar šā likuma 55.panta otro daļu, vēlas pagarināt reģistrācijas periodu Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā, tas iesniedz Valsts ieņēmumu dienestam šā likuma 66.panta pirmajā daļā minēto reģistrācijas iesniegumu ne vēlāk kā 15 darbdienu laikā pirms reģistrācijas termiņa beigām.
+(2) Kārtību, kādā pagarināms šā panta pirmajā daļā minētais reģistrācijas laiks Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā, nosaka Ministru kabinets.

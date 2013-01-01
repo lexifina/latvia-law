@@ -1,0 +1,1 @@
+2. Nodokļa deklarācija un tās pielikumi par 2012.gada pēdējo taksācijas periodu ir aizpildāmi un iesniedzami saskaņā ar Ministru kabineta 2009.gada 22.decembra noteikumiem Nr.1640 "Pievienotās vērtības nodokļa deklarācijas noteikumi".

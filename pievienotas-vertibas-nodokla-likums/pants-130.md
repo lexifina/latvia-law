@@ -1,0 +1,2 @@
+130.pants. Gadījumi, kad pircējs vai pakalpojuma saņēmējs pats izraksta sev nodokļa rēķinu
+Preču vai pakalpojumu saņēmējs ir tiesīgs izrakstīt pats sev nodokļa rēķinu preču piegādātāja vai pakalpojumu sniedzēja vārdā un interesēs par preču piegādēm vai pakalpojumiem, ko viņam sniedzis reģistrēts nodokļa maksātājs vai citas dalībvalsts nodokļa maksātājs, ja starp abām pusēm pastāv iepriekšēja vienošanās un ja preču piegādātājs vai pakalpojumu sniedzējs katram rēķinam piemēro savstarpējo rēķinu atzīšanas procedūru.

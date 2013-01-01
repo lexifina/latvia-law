@@ -1,0 +1,6 @@
+128.pants. Nodokļa rēķina izrakstīšana atkarībā no darījuma vietas
+(1) Nodokļa rēķinu iekšzemes nodokļa maksātājs izraksta saskaņā ar šā likuma nosacījumiem, ja preču piegādes vai pakalpojumu sniegšanas vieta ir iekšzeme atbilstoši šā likuma III nodaļai un ja šajā pantā nav noteikts citādi.
+(2) Nodokļa rēķinu izraksta saskaņā ar šā likuma nosacījumiem, ja iekšzemē ir preču piegādātāja vai pakalpojumu sniedzēja saimnieciskās darbības mītnes vieta vai pastāvīgā iestāde, no kuras ir veikta preču piegāde vai sniegts pakalpojums, vai, ja saimnieciskās darbības mītnes vietas vai pastāvīgās iestādes nav, - deklarētā dzīvesvieta, bet, ja tādas nav, - pastāvīgās uzturēšanās vieta, šādos gadījumos:
+1) preču piegādātājs vai pakalpojumu sniedzējs neveic saimniecisko darbību vai viņa pastāvīgā iestāde nepiedalās preču piegādē vai pakalpojumu sniegšanā tajā dalībvalstī, kurā ir darījuma veikšanas vieta, un par nodokļa nomaksu ir atbildīgs preču vai pakalpojumu saņēmējs;
+2) preču piegādes vai pakalpojumu sniegšanas vieta ir trešā valsts vai trešā teritorija.
+(3) Ja preču vai pakalpojumu saņēmējs pats sev izraksta nodokļa rēķinu saskaņā ar šā likuma 130.pantu, nodokļa rēķins izrakstāms saskaņā ar tās dalībvalsts noteikumiem, kurā ir preču piegādes vai pakalpojumu sniegšanas vieta.
