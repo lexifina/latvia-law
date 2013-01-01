@@ -1,3 +1,4 @@
-34. pants. Rajona (republikas pilsētas) virsprokurora, tiesas apgabala prokurora un Ģenerālprokuratūras prokurora amata kandidāts
-(1) Par rajona (republikas pilsētas) virsprokuroru var iecelt personu, kurai ir ne mazāk kā trīs gadus ilgs darba stāžs prokurora vai tiesneša amatā.
-(2) Par tiesas apgabala prokuroru vai par Ģenerālprokuratūras prokuroru var iecelt personu, kurai ir ne mazāk kā trīs gadus ilgs darba stāžs prokurora vai tiesneša amatā vai vismaz piecus gadus ilgs darba stāžs jurista specialitātē.
+34.pants. Rajona (pilsētas) prokuratūras virsprokurora, tiesas apgabala prokuratūras prokurora un Ģenerālprokuratūras prokurora amata kandidāts
+(1) Par rajona (pilsētas) prokuratūras virsprokuroru var iecelt personu, kurai ir ne mazāk kā piecus gadus ilgs darba stāžs prokurora vai tiesneša amatā.
+(2) Par tiesas apgabala prokuratūras prokuroru un par Ģenerālprokuratūras prokuroru var iecelt personu, kurai ir ne mazāk kā piecus gadus ilgs darba stāžs prokurora vai tiesneša amatā vai ne mazāk kā 10 gadus ilgs darba stāžs augstskolas tieslietu specialitātes akadēmiskā personāla vai zvērināta advokāta amatā.
+(3) Par rajona (pilsētas) prokuratūras virsprokuroru, tiesas apgabala prokuratūras prokuroru un par Ģenerālprokuratūras prokuroru amatu vakancēm ne vēlāk kā vienu mēnesi pirms to aizpildīšanas publicējama informācija prokuratūras mājaslapā internetā, norādot pieteikšanās termiņu, kas nav īsāks par vienu nedēļu.

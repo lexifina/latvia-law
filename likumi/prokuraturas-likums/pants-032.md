@@ -12,4 +12,4 @@
 (6) Atkarībā no ieņemamā amata piešķiramās amata pakāpes augstākā robeža var būt šāda:
 1) ģenerālprokurors, Ģenerālprokuratūras departamenta virsprokurors - vecākais valsts tieslietu padomnieks;
 2) Ģenerālprokuratūras nodaļas virsprokurors, tiesas apgabala virsprokurors, tiesas apgabala virsprokurora vietnieks - valsts tieslietu padomnieks;
-3) Ģenerālprokuratūras prokurors, rajona (republikas pilsētas) virsprokurors, rajona (republikas pilsētas) virsprokurora vietnieks, tiesas apgabala prokurors, rajona (republikas pilsētas) prokurors - vecākais tieslietu padomnieks.
+3) Ģenerālprokuratūras prokurors, rajona (pilsētas) virsprokurors, rajona (pilsētas) virsprokurora vietnieks, tiesas apgabala prokurors, rajona (pilsētas) prokurors - vecākais tieslietu padomnieks.

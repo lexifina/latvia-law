@@ -1,0 +1,1 @@
+18. Virsprokurora vietnieki, kuri iecelti amatā līdz dienai, kad stājas spēkā šā likuma 38.panta ceturtā daļa, kas paredz virsprokurora vietnieku iecelšanu amatā uz pieciem gadiem, pilda savus pienākumus līdz 2018.gada 1.janvārim.

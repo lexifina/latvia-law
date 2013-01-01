@@ -1,5 +1,7 @@
-38. pants. Prokuroru iecelšanas kārtība
-(1) Ģenerālprokuroru pēc Augstākās tiesas priekšsēdētāja priekšlikuma amatā apstiprina Saeima uz pieciem gadiem.
-(2) Virsprokurorus amatā ieceļ ģenerālprokurors uz pieciem gadiem, ievērojot atestācijas komisijas atzinumu.
-(3) Pārējos prokurorus amatā ieceļ ģenerālprokurors bez pilnvaru termiņa ierobežojuma. Pirms prokurora iecelšanas vai paaugstināšanas amatā atestācijas komisija dod atzinumu par viņa atbilstību šim amatam.
-(4) Par ģenerālprokurora apstiprināšanu un virsprokuroru iecelšanu tiek paziņots oficiālā laikrakstā.
+38.pants. Prokuroru iecelšanas kārtība un pilnvaru termiņš
+(1) Ģenerālprokuroru pēc Augstākās tiesas priekšsēdētāja priekšlikuma, kas saskaņots ar Tieslietu padomi, amatā ieceļ Saeima uz pieciem gadiem. Viena un tā pati persona var būt par ģenerālprokuroru ne vairāk kā divus termiņus pēc kārtas.
+(2) Ne vēlāk kā trīs mēnešus pirms ģenerālprokurora pilnvaru izbeigšanās Augstākās tiesas priekšsēdētājam savus ierosinājumus par ģenerālprokurora amata kandidātu var izteikt Ģenerālprokurora padome, Augstākās tiesas plēnums, tiesnešu vai prokuroru profesionālās biedrības, kā arī fiziskā persona, piesakot savu kandidatūru.
+(3) Augstākās tiesas priekšsēdētājs priekšlikumu par ģenerālprokurora iecelšanu amatā iesniedz Saeimai ne vēlāk kā divus mēnešus pirms ģenerālprokurora pilnvaru termiņa beigām. Ja Saeima Augstākās tiesas priekšsēdētāja priekšlikumu noraida, Augstākās tiesas priekšsēdētājs jaunu priekšlikumu par ģenerālprokurora iecelšanu amatā Saeimai iesniedz ne vēlāk kā divus mēnešus pēc iepriekšējā priekšlikuma noraidīšanas dienas.
+(4) Virsprokuroru un virsprokurora vietnieku amatā ieceļ ģenerālprokurors uz pieciem gadiem, ievērojot atestācijas komisijas atzinumu.
+(5) Pārējos prokurorus amatā ieceļ ģenerālprokurors bez pilnvaru termiņa ierobežojuma. Pirms prokurora iecelšanas vai paaugstināšanas amatā atestācijas komisija dod atzinumu par viņa atbilstību amatam.
+(6) Par ģenerālprokurora, virsprokuroru un virsprokurora vietnieku iecelšanu amatā paziņo oficiālajā izdevumā "Latvijas Vēstnesis" un ievieto informāciju prokuratūras mājaslapā.

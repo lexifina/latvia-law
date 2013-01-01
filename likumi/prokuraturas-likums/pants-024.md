@@ -1,3 +1,4 @@
 24. pants. Ģenerālprokuratūra
 (1) Ģenerālprokuratūru veido departamenti un nodaļas.
-(2) Ģenerālprokuratūras departamentus un nodaļas vada departamentu un nodaļu virsprokurori. Departamentos un nodaļās strādā prokurori.
+(2) Ģenerālprokuratūras departamentus un nodaļas vada departamentu un nodaļu virsprokurori.
+(3) Ģenerālprokuratūras prokuroriem ir tiesības veikt prokurora funkcijas Augstākās tiesas Senāta departamentu un tiesu palātu sēdēs, apgabaltiesās un rajonu (pilsētu) tiesās.

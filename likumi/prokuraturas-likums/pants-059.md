@@ -1,2 +1,2 @@
 59. pants. Prokuratūras simboli
-Prokuratūras simboli ir prokurora zvērests, tērps un amata zīme.
+Prokuratūras simboli ir prokurora zvērests (svinīgais solījums), tērps un amata zīme.

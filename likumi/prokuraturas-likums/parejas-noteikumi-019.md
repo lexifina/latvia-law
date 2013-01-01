@@ -1,0 +1,1 @@
+19. Prokuroram, kura profesionālo darbību novērtējusi atestācijas komisija, kurš saņēmis pozitīvu šīs komisijas atzinumu un kuram amata pakāpe piešķirta vai kurš amatā iecelts pēc šā likuma 38.² panta spēkā stāšanās, nākamā profesionālās darbības novērtēšana veicama šā likuma 38.² panta otrajā daļā noteiktajā termiņā.

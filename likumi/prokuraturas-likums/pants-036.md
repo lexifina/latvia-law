@@ -1,6 +1,2 @@
 36. pants. Ģenerālprokurora amata kandidāts
-Par ģenerālprokuroru var iecelt personu, kura:
-1) ne mazāk kā trīs gadus ir strādājusi par Satversmes tiesas tiesnesi;
-2) pēc 1993. gada 1. janvāra ne mazāk kā trīs gadus ir strādājusi par Augstākās tiesas tiesnesi un kurai ir vismaz trešā kvalifikācijas klase;
-3) ne mazāk kā trīs gadus ir strādājusi par apgabaltiesas tiesnesi un kurai ir vismaz trešā kvalifikācijas klase;
-4) pēc 1990. gada 26. septembra ne mazāk kā piecus gadus ir strādājusi prokurora amatā prokuratūras iestādēs.
+Par ģenerālprokuroru var iecelt 40 gadus sasniegušu personu, kura atbilst šā likuma 33.panta 1., 2., 4. un 5.punkta prasībām un kura ne mazāk kā piecus gadus strādājusi Satversmes tiesas tiesneša, Augstākās tiesas tiesneša, starptautiskas tiesas tiesneša vai pārnacionālas tiesas tiesneša amatā vai ne mazāk kā 10 gadus strādājusi apgabaltiesas tiesneša, virsprokurora, tiesas apgabala prokuratūras vai Ģenerālprokuratūras prokurora amatā.

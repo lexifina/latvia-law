@@ -1,4 +1,4 @@
-27. pants. Rajonu (republikas pilsētu) prokuratūras
-(1) Rajonu (republikas pilsētu) prokuratūras nodibina ģenerālprokurors atbilstoši izveidotajām rajonu (pilsētu) tiesām. Rajonu (republikas pilsētu) prokuratūras veic visas prokuratūras funkcijas attiecīgajā rajona (pilsētas) tiesas darbības teritorijā. Rajona (republikas pilsētas) prokuratūras prokuroriem ir tiesības veikt prokurora funkcijas rajona (pilsētas) tiesai un apgabaltiesai piekritīgās lietās.
-(2) Rajona (republikas pilsētas) prokuroru darbu vada rajona (republikas pilsētas) virsprokurors. Rajonu (republikas pilsētu) prokuratūrās, kurās ir vairāk nekā 20 prokuroru, var būt virsprokurora vietnieks.
-(3) Rajona (republikas pilsētas) prokuroriem ir tiesības piedalīties attiecīgo pašvaldību un to institūciju sēdēs.
+27. pants. Rajonu (pilsētu) prokuratūras
+(1) Rajonu (pilsētu) prokuratūras nodibina ģenerālprokurors atbilstoši izveidotajām rajonu (pilsētu) tiesām. Rajonu (pilsētu) prokuratūras veic prokuratūras funkcijas attiecīgajā rajona (pilsētas) tiesas darbības teritorijā. Rajona (pilsētas) prokuratūras prokuroriem ir tiesības veikt prokurora funkcijas rajona (pilsētas) tiesai un apgabaltiesai piekritīgās lietās.
+(2) Rajona (pilsētas) prokuroru darbu vada rajona (pilsētas) virsprokurors. Rajonu (pilsētu) prokuratūrās var būt virsprokurora vietnieki, kuru tiesības un pienākumus nosaka attiecīgās prokuratūras virsprokurors.
+(3) (Izslēgta ar 22.11.2012. likumu)

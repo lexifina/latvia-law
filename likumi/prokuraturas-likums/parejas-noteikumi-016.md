@@ -1,0 +1,1 @@
+16. Prokuroru profesionālās darbības kārtējo novērtēšanu atestācijas komisija pirmo reizi veic no 2014.gada 1.janvāra līdz 2017.gada 1.janvārim. Ģenerālprokurors apstiprina prokuroru sarakstu, atbilstoši kuram secīgi tiek veikta prokuroru profesionālās darbības kārtējā novērtēšana.

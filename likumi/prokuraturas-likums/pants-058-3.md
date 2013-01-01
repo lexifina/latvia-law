@@ -1,5 +1,5 @@
 58.³ pants. Eirojusta pārstāvja apstiprināšana, viņa vietnieka, palīga, kā arī Eirojusta korespondentu norīkošana
 (1) Eirojusta pārstāvi ģenerālprokurors apstiprina uz pieciem gadiem, ievērojot konkursa komisijas atzinumu.
-(2) Viena un tā pati persona var būt par Eirojusta pārstāvi ne vairāk kā divus termiņus pēc kārtas.
+(2) (Izslēgta ar 22.11.2012. likumu)
 (3) Eirojusta pārstāvja vietnieku, Eirojusta pārstāvja palīgu un Eirojusta korespondentus ģenerālprokurors norīko pēc Eirojusta pārstāvja ieteikuma bez pilnvaru termiņa ierobežojuma.
-(4) Prokurori, kuri veic Latvijas Republikas pārstāvības funkcijas Eirojustā, saglabā Ģenerālprokuratūras prokurora amatu.
+(4) (Izslēgta ar 22.11.2012. likumu)

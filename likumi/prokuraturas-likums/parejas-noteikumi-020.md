@@ -1,0 +1,1 @@
+20. Šā likuma 45.panta astotajā daļā paredzētā ģenerālprokurora lēmumu vai piemēroto disciplinārsodu pārsūdzēšana Disciplinārtiesā piemērojama pēc 2014.gada 1.janvāra. Līdz 2014.gada 1.janvārim attiecīgie lēmumi pārsūdzami administratīvajā tiesā Administratīvā procesa likumā noteiktajā kārtībā.
