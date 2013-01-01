@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Pievienotās vērtības nodokļa likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "197 (4800)",
+  "official_journal_page": null,
+  "official_journal_date": "2012-12-14",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2016-10-25",
+  "commission_reference": "MNE(2016)56458",
+  "nim_celex": "72016L0856LVA_241565",
+  "nim_id": "241565",
+  "transposes_celex": [
+    "32016L0856"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ef941edf-dcf3-459e-ab59-fae9392cf113",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
