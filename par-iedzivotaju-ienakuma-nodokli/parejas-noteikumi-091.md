@@ -1,0 +1,1 @@
+91. Ja 2013., 2014. un 2015. taksācijas gadā algota darba ienākums, pensija vai pabalsts tiek izmaksāts par pirmstaksācijas gadu, šiem ienākumu veidiem piemēro attiecīgajā pirmstaksācijas gadā spēkā esošo iedzīvotāju ienākuma nodokļa likmi.
