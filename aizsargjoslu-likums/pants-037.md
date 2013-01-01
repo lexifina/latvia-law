@@ -23,7 +23,7 @@ d) ierīkot meliorācijas būves bez saskaņošanas ar reģionālo vides pārval
 e) veikt galveno cirti, izņemot koku ciršanu ārkārtas situāciju seku likvidēšanai, vējgāžu, vējlaužu un snieglaužu seku likvidēšanai,
 f) iegūt un izmantot derīgos izrakteņus, izņemot pazemes ūdeņu ieguvi ūdensapgādes vai rekreācijas vajadzībām aizsargjoslā esošai dzīvojamai vai atpūtnieku aprūpei paredzētai ēkai,
 g) mazgāt mehāniskos transportlīdzekļus un lauksaimniecības tehniku,
-h) veikt meža zemju transformāciju, ja tā nav saistīta ar šā punkta "b" apakšpunktā minētajiem izņēmuma gadījumiem,
+h) veikt teritorijas atmežošanu, ja tā nav saistīta ar šā punkta "b" apakšpunktā minētajiem izņēmuma gadījumiem,
 i) kurt ugunskurus un novietot teltis ārpus šim nolūkam norādītām vietām bez saskaņošanas ar zemes īpašnieku vai tiesisko valdītāju;
 6) aizliegts novietot iegūto grunti pēc normatīvajos aktos noteiktajā kārtībā veiktas virszemes ūdensobjekta padziļināšanas vai tīrīšanas ārpus tam paredzētajām vietām;
 7) aizliegts ierīkot mehānisko transportlīdzekļu sacīkšu trases un izmēģinājumu vietas;
