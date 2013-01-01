@@ -1,0 +1,1 @@
+5. Valsts kompensācijas pieprasījumus, kurus Juridiskās palīdzības administrācija saņēmusi līdz 2012.gada 31.decembrim, tā izskata un valsts kompensāciju piešķir atbilstoši normatīvajiem aktiem, kas bija spēkā līdz 2012.gada 31.decembrim.

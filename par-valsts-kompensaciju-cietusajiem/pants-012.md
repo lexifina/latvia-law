@@ -3,4 +3,4 @@ Valsts kompensācija netiek izmaksāta, ja:
 1) tā pieprasīta nepamatoti;
 2) ir nokavēts šajā likumā noteiktais tās pieprasījuma iesniegšanas termiņš, izņemot gadījumus, kad termiņš nokavēts attaisnojošu iemeslu dēļ (piemēram, personas slimība);
 3) konstatēts, ka cietušais, to pieprasot, apzināti sniedzis nepatiesas ziņas;
-4) cietušais ir saņēmis no apsūdzētā, kas atzīts par vainīgu noziedzīga nodarījuma izdarīšanā, atlīdzību, kuras apmērs pārsniedz šajā likumā paredzēto valsts kompensācijas apmēru vai ir vienāds ar to.
+4) cietušais ir saņēmis no noziedzīga nodarījuma izdarītāja atlīdzību, kuras apmērs pārsniedz šajā likumā paredzēto valsts kompensācijas apmēru vai ir vienāds ar to.
