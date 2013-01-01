@@ -1,2 +1,2 @@
-6. pants. Aizliegums valsts un pašvaldību mantu nodot lietošanā, izmantojot trešo personu starpniecību
-Pašvaldībām, valsts un pašvaldību iestādēm, kā arī kapitālsabiedrībām aizliegts, izmantojot trešo personu starpniecību, nodot valsts vai pašvaldību mantu lietošanā citām pašvaldībām, valsts un pašvaldību iestādēm vai kapitālsabiedrībām. Šie noteikumi neattiecas uz gadījumiem, kad nomnieks valsts vai pašvaldības mantas nomas tiesības ieguvis publiskā izsolē.
+6.pants. Aizliegums publiskas personas mantu nodot lietošanā, izmantojot privātpersonu starpniecību
+Publiskai personai vai publiskas personas institūcijai, kā arī kapitālsabiedrībai aizliegts, izmantojot privātpersonu starpniecību, nodot publiskas personas un kapitālsabiedrības mantu lietošanā citai publiskai personai vai publiskas personas institūcijai vai kapitālsabiedrībai. Šie noteikumi neattiecas uz gadījumiem, kad nomnieks publiskas personas mantas nomas tiesības ieguvis publiskā izsolē.

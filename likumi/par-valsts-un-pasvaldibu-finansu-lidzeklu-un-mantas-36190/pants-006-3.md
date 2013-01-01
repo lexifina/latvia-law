@@ -1,0 +1,3 @@
+6.³ pants. Publiskas personas darbības nodrošināšanai nepieciešamā īpašuma nomāšana no privātpersonas vai kapitālsabiedrības
+(1) Publiska persona nomā no privātpersonas vai kapitālsabiedrības nekustamo īpašumu, kas nepieciešams publiskas personas darbības nodrošināšanai saskaņā ar šā likuma un citu likumu noteikumiem, kā arī nodrošina informācijas publisku pieejamību, ievērojot normatīvajos aktos paredzētos informācijas pieejamības ierobežojumus.
+(2) Kārtību, kādā publiska persona nomā nekustamo īpašumu no privātpersonas vai kapitālsabiedrības un publicē informāciju par nomātajiem un nomāt paredzētajiem nekustamajiem īpašumiem, nosaka Ministru kabinets.

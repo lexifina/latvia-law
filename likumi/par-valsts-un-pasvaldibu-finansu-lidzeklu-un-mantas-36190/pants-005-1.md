@@ -1,2 +1,11 @@
 5.¹ pants. Noteikumi par kapitālsabiedrības mantas nodošanu bezatlīdzības lietošanā
-Papildus citiem gadījumiem, kad atbilstoši šā likuma 3.panta noteikumiem kapitālsabiedrības mantas nodošanu bezatlīdzības lietošanā var uzskatīt par lietderīgu, kapitālsabiedrības mantu var nodot bezatlīdzības lietošanā arī pašvaldībai, valsts vai pašvaldības iestādei, kā arī citai kapitālsabiedrībai vai citai personai tai deleģēto valsts pārvaldes uzdevumu pildīšanai vai valsts vai pašvaldības pakalpojumu sniegšanai.
+(1) Papildus citiem gadījumiem, kad atbilstoši šā likuma 3.panta 1.punkta noteikumiem kapitālsabiedrības mantas nodošanu bezatlīdzības lietošanā var uzskatīt par lietderīgu, kapitālsabiedrības mantu var nodot bezatlīdzības lietošanā arī atvasinātai publiskai personai vai publiskas personas institūcijai, vai sabiedriskā labuma organizācijai. Par lietderīgu var uzskatīt arī kapitālsabiedrības mantas nodošanu bezatlīdzības lietošanā citai kapitālsabiedrībai vai citai privātpersonai tai deleģēto valsts pārvaldes uzdevumu pildīšanai, arī publiskas personas pakalpojumu sniegšanai.
+(2) Kapitālsabiedrības mantu bezatlīdzības lietošanā sabiedriskā labuma organizācijai drīkst nodot tikai ar attiecīgās kapitālsabiedrības izpildinstitūcijas lēmumu, ja ir saņemta publiskai personai vai publiskas personas kapitālsabiedrībai piederošo kapitāla daļu turētāja piekrišana un nododamo mantu paredzēts lietot vai izmantot tikai kultūras, mākslas, zinātnes, izglītības, sporta, vides vai veselības aizsardzības, kā arī sociālās palīdzības veicināšanai.
+(3) Par kapitālsabiedrības mantas nodošanu bezatlīdzības lietošanā kapitālsabiedrības izpildinstitūcija pieņem lēmumu, kurā norāda vismaz šādu informāciju:
+1) nododamā manta, tās apjoms, bilances vērtība, stāvoklis un apraksts;
+2) nodošanas nepieciešamība un lietderība;
+3) nododamās mantas lietošanas vai izmantošanas mērķis un termiņš;
+4) gadījumi, kad nodotā manta atdodama atpakaļ;
+5) citi nepieciešamie noteikumi, tai skaitā noteikumi par attiecīgās mantas saglabāšanu un atbilstošu izmantošanu.
+(4) Pamatojoties uz lēmumu par kapitālsabiedrības mantas nodošanu bezatlīdzības lietošanā, slēdz rakstveida līgumu. Līgumā, kas noslēgts ar privātpersonu vai kapitālsabiedrību, nosaka arī kapitālsabiedrības tiesības kontrolēt, vai bezatlīdzības lietošanā nodotā manta ir izlietota likumīgi un lietderīgi.
+(5) Tiesību subjekts, kuram nodota manta bezatlīdzības lietošanā, nodrošina attiecīgās mantas uzturēšanu, arī sedz ar to saistītos izdevumus.
