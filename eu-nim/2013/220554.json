@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2012.gada 18.decembra noteikumi Nr.940 \"Noteikumi par mikroliegumu izveidošanas un apsaimniekošanas kārtību, to aizsardzību, kā arī mikroliegumu un to buferzonu noteikšanu\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "203 (4806)",
+  "official_journal_page": null,
+  "official_journal_date": "2012-12-28",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2014-10-20",
+  "commission_reference": "MNE(2014)55927",
+  "nim_celex": "71992L0043LVA_220554",
+  "nim_id": "220554",
+  "transposes_celex": [
+    "31992L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/367fb1d2-0858-46e5-ab26-e755ac1e1812",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
