@@ -1,11 +1,11 @@
 73.¹ pants. Tiesneša pārcelšana uz vakanto tiesneša amatu
-(1) Tieslietu padome pēc tieslietu ministra priekšlikuma, pamatojoties uz pozitīvu Tiesnešu kvalifikācijas kolēģijas atzinumu, lemj par tiesneša pārcelšanu citā tāda paša līmeņa tiesā vai tiesu namā. Tiesnešu kvalifikācijas kolēģija pirms atzinuma sniegšanas pieņem tiesneša kvalifikācijas eksāmenu gadījumos, kad:
+(1) Tieslietu padome pēc tieslietu ministra priekšlikuma, pamatojoties uz pozitīvu Tiesnešu kvalifikācijas kolēģijas atzinumu, lemj par tiesneša pārcelšanu citā tāda paša līmeņa tiesā vai tiesu namā. Tiesnešu kvalifikācijas kolēģija pirms atzinuma sniegšanas veic tiesneša profesionālās darbības ārpuskārtas novērtēšanu gadījumos, kad:
 1) (izslēgts ar 21.07.2011. likumu);
 2) rajona (pilsētas) tiesas tiesnesis pieteicies uz tiesneša amata vakanci Administratīvajā rajona tiesā;
 3) Administratīvās rajona tiesas tiesnesis pieteicies uz tiesneša amata vakanci rajona (pilsētas) tiesā;
 4) apgabaltiesas tiesnesis pieteicies uz tiesneša amata vakanci Administratīvajā apgabaltiesā;
 5) Administratīvās apgabaltiesas tiesnesis pieteicies uz amata vakanci citā apgabaltiesā.
-(2) Saeima pēc Tieslietu padomes priekšlikuma, pamatojoties uz pozitīvu Tiesnešu kvalifikācijas kolēģijas atzinumu, lemj par tiesneša pārcelšanu darbā augstāka līmeņa tiesā. Tiesnešu kvalifikācijas kolēģija pirms atzinuma sniegšanas pieņem tiesneša kvalifikācijas eksāmenu gadījumos, kad:
+(2) Saeima pēc Tieslietu padomes priekšlikuma, pamatojoties uz pozitīvu Tiesnešu kvalifikācijas kolēģijas atzinumu, lemj par tiesneša pārcelšanu darbā augstāka līmeņa tiesā. Tiesnešu kvalifikācijas kolēģija pirms atzinuma sniegšanas veic tiesneša profesionālās darbības ārpuskārtas novērtēšanu gadījumos, kad:
 1) (izslēgts ar 21.07.2011. likumu);
 2) rajona (pilsētas) tiesas tiesnesis pieteicies uz tiesneša amata vakanci Administratīvajā apgabaltiesā;
 3) Administratīvās rajona tiesas tiesnesis pieteicies uz tiesneša amata vakanci apgabaltiesā.
