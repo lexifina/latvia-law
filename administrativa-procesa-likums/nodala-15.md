@@ -1,2 +1,2 @@
 15.nodaļa
-Protokols
+Tiesas sēdes gaitas fiksēšana

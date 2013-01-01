@@ -5,5 +5,6 @@ Tiesas pavēstē norāda:
 3) ierašanās vietu un laiku;
 4) tās lietas nosaukumu, kurā personu aicina vai izsauc;
 5) kāpēc personu aicina vai izsauc;
+5¹) personas procesuālās tiesības un pienākumus procesa ietvaros;
 6) ka personai, kura saņēmusi pavēsti sakarā ar aicināmās vai izsaucamās personas prombūtni, ir pienākums pēdējai to nodot;
 7) neierašanās sekas.

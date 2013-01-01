@@ -1,2 +1,2 @@
 13.nodaļa
-Valsts nodeva
+Maksājumi valsts budžetā

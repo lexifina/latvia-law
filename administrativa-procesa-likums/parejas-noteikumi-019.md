@@ -1,0 +1,1 @@
+19. Līdz 2013.gada 1.martam valsts nodevu atmaksā no valsts budžeta līdzekļiem uz tiesas (tiesneša) lēmuma pamata, ja pieteikums par tās atmaksāšanu iesniegts tiesā gada laikā no dienas, kad attiecīgā summa iemaksāta valsts budžetā.

@@ -8,8 +8,8 @@
 6) kā izpaužas sprieduma nepareizība;
 7) vai piesaka lūgumu par pierādījumu vākšanu (par kādiem apstākļiem un kādēļ šie pierādījumi nebija iesniegti pirmās instances tiesā);
 8) sūdzības iesniedzēja prasījumu;
-9) vai piekrīt lietu izskatīt rakstveida procesā, ja administratīvā rajona tiesā lieta izskatīta mutvārdu procesā;
+9) (izslēgts ar 01.11.2012. likumu);
 10) sūdzībai pievienoto dokumentu sarakstu;
 11) sūdzības sastādīšanas laiku.
 (2) Apelācijas sūdzību paraksta iesniedzējs vai viņa pilnvarots pārstāvis.
-(3) Apelācijas sūdzību, ko iesniegusi persona, kas nav tam pilnvarota, atsakās pieņemt un atdod iesniedzējam.
+(3) (Izslēgta ar 01.11.2012. likumu)

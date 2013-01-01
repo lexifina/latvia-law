@@ -1,0 +1,2 @@
+107.¹ pants. Izlīguma noslēgšanas iespēju izskaidrošana
+Ja tiesa (tiesnesis) uzskata, ka lietā iespējams izlīgums, tiesa (tiesnesis) var izskaidrot procesa dalībniekiem izlīguma (administratīvā līguma) noslēgšanas iespējas, kā arī sniegt ierosinājumus izlīguma nosacījumiem. Izlīguma noslēgšanas iespēju izskaidrošanu tiesa (tiesnesis) var veikt gan rakstveidā, gan tiesas sēdē. Tiesa (tiesnesis) var sasaukt tiesas sēdi tikai šā jautājuma apspriešanai.

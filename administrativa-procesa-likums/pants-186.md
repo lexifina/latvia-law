@@ -2,7 +2,7 @@
 (1) Pieteikumu iesniedz rakstveidā.
 (2) Pieteikumā norāda:
 1) tās tiesas nosaukumu, kurai iesniegts pieteikums;
-2) pieteicēja, kā arī viņa pārstāvja, ja pieteikumu iesniedz pārstāvis, vārdu, uzvārdu un dzīvesvietu, kā arī citu adresi (ja tāda ir), kurā persona ir sasniedzama. Ja pieteicējs vai viņa pārstāvis ir juridiskā persona, norāda tās nosaukumu, reģistrācijas numuru, ja tāds ir, un juridisko adresi;
+2) pieteicēja, kā arī viņa pārstāvja, ja pieteikumu iesniedz pārstāvis, vārdu, uzvārdu un dzīvesvietu, kā arī citu adresi (ja tāda ir), kurā persona ir sasniedzama. Ja pieteicējs vai viņa pārstāvis ir juridiskā persona, norāda tās nosaukumu, reģistrācijas numuru, ja tāds ir, un juridisko adresi. Pieteicējs pieteikumā norāda arī savu un sava pārstāvja tālruņa numuru un elektroniskā pasta adresi, ja tāda ir, kā arī citus sakaru līdzekļus;
 3) iestādes nosaukumu un adresi;
 4) pieteikuma pamatu un pierādījumus, ja tādi ir viņa rīcībā;
 5) prasījumu;
@@ -13,5 +13,5 @@
 1) atbildētāju, institūciju, kura to pārstāv, un tās adresi;
 2) prasījuma summu, ja pieteikumā ietverts prasījums atlīdzināt personisko kaitējumu;
 3) citas ziņas, kas var būt svarīgas lietas izskatīšanai;
-4) viedokli par lietas izskatīšanu rakstveida procesā.
+4) lūgumu administratīvo lietu izskatīt mutvārdu procesā.
 (4) Pieteikumu paraksta pieteicējs vai viņa pārstāvis. Ja pieteikumu pieteicēja vārdā iesniedz pārstāvis, viņš pieteikumam pievieno attiecīgu pilnvaru vai citu dokumentu, kas apliecina pārstāvja pilnvarojumu iesniegt pieteikumu.

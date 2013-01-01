@@ -1,0 +1,1 @@
+14. Grozījumi šā likuma 72.pantā, kas paredz, ka iestādes atteikums izlabot šā likuma 72.panta pirmajā daļā minētās kļūdas nav apstrīdams un pārsūdzams, nav attiecināmi uz tiem lēmumiem, kuri pieņemti pirms 2013.gada 1.janvāra.

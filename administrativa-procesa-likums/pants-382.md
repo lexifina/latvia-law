@@ -13,4 +13,4 @@
 8) norādi, kur piespiedu nauda iemaksājama;
 9) izpildrīkojuma par piespiedu naudu izdošanas vietu, datumu un amatpersonas parakstu.
 (5) Uz izpildrīkojumu par piespiedu naudu attiecas šā likuma 70.pantā noteiktie administratīvā akta spēkā stāšanās noteikumi.
-(6) Izpildrīkojumu par piespiedu naudu septiņu dienu laikā var pārsūdzēt tiesā pēc izpildiestādes atrašanās vietas, ja tajā nav ietvertas šā panta ceturtajā daļā minētās sastāvdaļas, tiesas nolēmums jau izpildīts labprātīgi vai piespiedu naudas summa nav samērīga. Tiesa sūdzību izskata rakstveida procesā. Tiesas lēmums nav pārsūdzams.
+(6) Izpildrīkojumu par piespiedu naudu septiņu dienu laikā var pārsūdzēt tiesā pēc izpildiestādes atrašanās vietas, ja tajā nav ietvertas šā panta ceturtajā daļā minētās sastāvdaļas, tiesas nolēmums jau izpildīts labprātīgi vai piespiedu naudas summa nav samērīga. Tiesa sūdzību izskata rakstveida procesā.

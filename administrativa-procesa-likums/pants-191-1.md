@@ -1,9 +1,4 @@
-191.¹ pants. Acīmredzami nepamatota pieteikuma izskatīšanas atteikšana
-(1) Tiesa var atteikties izskatīt pieteikumu un atdot to atpakaļ pieteicējam, ja ir šādu apstākļu kopums:
-1) pieteikums ir acīmredzami nepamatots (acīmredzami noraidāms pēc būtības);
-2) šā paša pieteicēja iesniegtos citus pieteikumus administratīvajai tiesai pēdējo triju gadu laikā vairākkārt atteikts pieņemt vai tie noraidīti.
-(2) Jautājumu par atteikšanos izskatīt pieteikumu sakarā ar to, ka tas ir acīmredzami nepamatots, tiesa izlemj koleģiāli 14 dienu laikā šādā kārtībā:
-1) ja tiesnesis, kuram pieteikums nodots izlemšanai šā likuma 190.pantā noteiktajā kārtībā, konstatē, ka attiecībā uz pieteikuma iesniedzēju pastāv šā panta pirmajā daļā paredzētie apstākļi, viņš lūdz tiesas priekšsēdētāju jautājumam par pieteikuma pieņemšanu noteikt koleģiālu izlemšanu triju tiesnešu sastāvā;
-2) ja tiesa koleģiāli vienbalsīgi atzīst, ka pastāv šā panta pirmajā daļā paredzētais pamats, lai atteiktu pieteikuma izskatīšanu, tā var pieņemt lēmumu par atteikšanos izskatīt pieteikumu. Šādu lēmumu tiesa noformē atsevišķa procesuāla dokumenta veidā un lēmuma motīvu daļā norāda uz pieteikuma acīmredzamu nepamatotību, kā arī uz informāciju, kas apliecina šā panta pirmās daļas 2.punktā paredzēto apstākļu pastāvēšanu;
-3) ja tiesnešu viedoklis par to, vai ir pamats atteikt pieteikuma izskatīšanu, atšķiras, tiesneši pieņem lēmumu par to, ka konkrētajā gadījumā nav pamata atteikt pieteikuma izskatīšanu. Šādā gadījumā tiesas priekšsēdētājs pieteikumu izlemšanai vispārējā kārtībā nodod tiesnesim (190.pants).
-(3) Par tiesas lēmumu par atteikšanos izskatīt pieteikumu pieteicējs 10 dienu laikā no lēmuma saņemšanas dienas var iesniegt blakus sūdzību. Augstākas instances tiesa, izskatot blakus sūdzību, pati izvērtē, vai saskaņā ar šā panta pirmajā daļā norādītajiem apstākļiem ir pamats atteikt pieteikuma izskatīšanu. Augstākas instances tiesas lēmums nav pārsūdzams.
+191.¹ pants. Pieteikuma izskatīšanas atteikšana
+(1) Tiesnesis var atteikt pieteikuma izskatīšanu un atdot to atpakaļ pieteicējam, ja pieteikums ir acīmredzami nepamatots (acīmredzami noraidāms pēc būtības), acīmredzami nepieļaujams vai objektīvi nesaprotams.
+(2) Tiesnesis lēmumu par atteikšanos izskatīt pieteikumu noformē atsevišķa procesuālā dokumenta veidā un lēmuma motīvu daļā izvērtē šā panta pirmajā daļā minēto apstākļu pastāvēšanu.
+(3) Par tiesneša lēmumu par atteikšanos izskatīt pieteikumu pieteicējs 14 dienu laikā no lēmuma saņemšanas dienas var iesniegt blakus sūdzību. Augstākas instances tiesa, izskatot blakus sūdzību, pati izvērtē, vai saskaņā ar šā panta pirmajā daļā norādītajiem apstākļiem ir pamats atteikt pieteikuma izskatīšanu.

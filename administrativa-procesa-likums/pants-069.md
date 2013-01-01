@@ -4,7 +4,7 @@
 2) tas paredzēts piemērojamā normatīvajā aktā;
 3) gadījums ir objektīvi mazsvarīgs;
 4) administratīvā akta izdošana rakstveidā nav iespējama vai nav adekvāta.
-(2) Ja administratīvais akts izdots citādi, nevis rakstveidā vai ja tas ir izdots rakstveidā, bet neatbilst šā likuma 67.panta prasībām, adresātam ir tiesības viena mēneša laikā pieprasīt, lai iestāde to noformē rakstveidā atbilstoši 67.panta prasībām. Iestāde administratīvo aktu izsniedz rakstveidā divu nedēļu laikā pēc attiecīgā pieprasījuma saņemšanas.
+(2) Ja administratīvais akts izdots citādi, nevis rakstveidā vai ja tas ir izdots rakstveidā, bet neatbilst šā likuma 67.panta prasībām, procesa dalībniekam ir tiesības viena mēneša laikā pieprasīt, lai iestāde to noformē rakstveidā atbilstoši minētā panta prasībām. Iestāde šo administratīvo aktu noformē 14 dienu laikā pēc attiecīgā pieprasījuma saņemšanas un paziņo to adresātam Paziņošanas likumā noteiktajā kārtībā. Apstrīdēšanas termiņš sākas pēc šā akta vai atteikuma paziņošanas.
 (3) Ja administratīvais akts līdz pieprasījuma iesniegšanai ir zaudējis spēku, iestāde to izsniedz:
 1) ja adresātam tas nepieciešams savu vai citas privātpersonas tiesību vai tiesisko interešu aizsardzībai;
 2) atlīdzinājuma pieprasīšanai saskaņā ar šā likuma 8.nodaļas noteikumiem;

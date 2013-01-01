@@ -1,0 +1,2 @@
+80.¹ pants. Izlīguma noslēgšanas iespēju izvērtēšana
+Izskatot iesniegumu par administratīvā akta apstrīdēšanu, iestāde pirms lēmuma pieņemšanas apsver izlīguma (administratīvā līguma) noslēgšanas iespēju. Ja iestāde atzīst izlīguma noslēgšanu par iespējamu, tā informē privātpersonu par izlīguma procesu un iespējamiem izlīguma noteikumiem, lai šī persona varētu izteikt savu viedokli par izlīguma noslēgšanas iespēju.

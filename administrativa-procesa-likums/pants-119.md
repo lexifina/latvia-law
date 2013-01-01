@@ -5,3 +5,4 @@
 (4) Lietā, kuru izskata koleģiāli, lēmumu par pieteikto noraidījumu pieņem šādā kārtībā:
 1) ja noraidījums pieteikts vienam tiesnesim, lēmumu pieņem pārējais tiesas sastāvs. Ja balsis dalās līdzīgi, tiesnesis ir noraidīts;
 2) ja noraidījums pieteikts vairākiem tiesnešiem vai visam tiesas sastāvam, lēmumu pieņem tā pati tiesa pilnā sastāvā ar balsu vairākumu.
+(5) Tiesa atsakās izskatīt pieteikto noraidījumu, ja tas iesniegts atkārtoti un no tā neizriet, ka jautājuma izlemšanai būtiskie faktiskie vai tiesiskie apstākļi ir mainījušies.

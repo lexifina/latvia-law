@@ -1,0 +1,1 @@
+16. Grozījumi šā likuma 290., 317. un 331.pantā, kas attiecas uz tiesu, kura lemj par sūdzības pieļaujamību, virzību un nokavētā procesuālā termiņa atjaunošanu, nav attiecināmi uz tām sūdzībām, kuras iesniegtas pirms 2013.gada 1.janvāra.

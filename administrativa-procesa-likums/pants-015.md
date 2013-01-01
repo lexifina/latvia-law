@@ -1,12 +1,12 @@
 15.pants. Ārējo normatīvo aktu, vispārējo tiesību principu un starptautisko tiesību normu piemērošana
-(1) Iestāde un tiesa administratīvajā procesā piemēro ārējos normatīvos aktus, starptautisko tiesību un Eiropas Savienības (Kopienu) tiesību normas, kā arī vispārējos tiesību principus (4.pants).
+(1) Iestāde un tiesa administratīvajā procesā piemēro ārējos normatīvos aktus, starptautisko tiesību un Eiropas Savienības tiesību normas, kā arī vispārējos tiesību principus (4.pants).
 (2) Iestāde un tiesa ievēro šādu ārējo normatīvo aktu juridiskā spēka hierarhiju:
 1) Satversme;
 2) likums;
 3) Ministru kabineta noteikumi;
 4) pašvaldību saistošie noteikumi.
 (3) Starptautisko tiesību normas neatkarīgi no to avota piemēro atbilstoši to vietai ārējo normatīvo aktu juridiskā spēka hierarhijā. Ja konstatē pretrunu starp starptautisko tiesību normu un tāda paša juridiskā spēka Latvijas tiesību normu, piemēro starptautisko tiesību normu.
-(4) Eiropas Savienības (Kopienu) tiesību normas piemēro atbilstoši to vietai ārējo normatīvo aktu juridiskā spēka hierarhijā. Piemērojot Eiropas Savienības (Kopienu) tiesību normas, iestāde un tiesa ņem vērā Eiropas Kopienu Tiesas judikatūru.
+(4) Eiropas Savienības tiesību normas piemēro atbilstoši to vietai ārējo normatīvo aktu juridiskā spēka hierarhijā. Piemērojot Eiropas Savienības tiesību normas, iestāde un tiesa ņem vērā Eiropas Savienības Tiesas judikatūru.
 (5) Vispārējos tiesību principus piemēro, ja attiecīgo jautājumu neregulē ārējais normatīvais akts, kā arī lai interpretētu normatīvos aktus (17.pants).
 (6) Ja konstatē pretrunu starp dažāda juridiskā spēka tiesību normām, piemēro to tiesību normu, kurai ir augstāks juridiskais spēks.
 (7) Ja konstatē pretrunu starp vienāda juridiskā spēka vispārējo un speciālo tiesību normu, vispārējo tiesību normu piemēro tiktāl, ciktāl to neierobežo speciālā tiesību norma.

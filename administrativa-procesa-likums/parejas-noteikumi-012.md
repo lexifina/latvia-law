@@ -1,0 +1,1 @@
+12. Grozījumi šā likuma 13.nodaļā, kas paredz valsts nodevas apmēra maiņu par apelācijas sūdzību, pretapelācijas sūdzību, lūgumu par pagaidu aizsardzību un pieteikumu par lietas jaunu izskatīšanu sakarā ar jaunatklātiem apstākļiem, nav attiecināmi uz tiem pieteikumiem, sūdzībām un lūgumiem, kuri ir iesniegti pirms 2013.gada 1.janvāra.

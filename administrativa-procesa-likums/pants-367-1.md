@@ -1,0 +1,3 @@
+367.¹ pants. Adresātam labvēlīga uz naudas maksājumu vērsta administratīvā akta piespiedu izpilde
+(1) Ja iestāde kavē adresātam labvēlīga uz naudas maksājumu vērsta administratīvā akta izpildi, tad, aprēķinot izmaksājamo summu, jāpieskaita nokavējuma procenti (ja likumā nav noteikts citādi, likumiskos procentus nosaka saskaņā ar Civillikuma 1765.pantu).
+(2) Ja iestāde nepilda adresātam labvēlīgu uz naudas maksājumu vērstu administratīvo aktu, par to var iesniegt sūdzību augstākā iestādē un pēc tam tiesā. Tiesa šādu sūdzību izskata rakstveida procesā. Izlemjot sūdzību, tiesa vienlaikus lemj par šā panta pirmajā daļā paredzēto procentu piedziņu par iestādes pieļauto nokavējumu.

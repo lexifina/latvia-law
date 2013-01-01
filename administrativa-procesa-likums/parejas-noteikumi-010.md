@@ -1,0 +1,1 @@
+10. Ministru kabinets līdz 2013.gada 1.martam izdod šā likuma 129.³ pantā paredzētos noteikumus par kārtību, kādā iemaksā, atmaksā un atlīdzina valsts nodevu, kā arī iemaksā un atmaksā drošības naudu.

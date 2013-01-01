@@ -11,5 +11,5 @@
 1) kamēr administratīvais akts ir spēkā;
 2) sešu mēnešu laikā no dienas, kad attiecīgais administratīvā procesa dalībnieks ir uzzinājis par faktiem, kas viņam dod tiesības to darīt.
 (4) Iesniegumu par administratīvā procesa uzsākšanu no jauna tajā pašā lietā iesniedz iestādei, kurai lieta ir piekritīga no jauna ierosinātajā administratīvajā procesā.
-(5) Iestādes atteikumu uzsākt administratīvo procesu no jauna var apstrīdēt un pārsūdzēt mēneša laikā no lēmuma spēkā stāšanās dienas. Tiesa sūdzību izskata rakstveida procesā. Tiesas lēmums nav pārsūdzams.
+(5) Iestādes atteikumu uzsākt administratīvo procesu no jauna var apstrīdēt un pārsūdzēt mēneša laikā no lēmuma spēkā stāšanās dienas. Tiesa sūdzību izskata rakstveida procesā.
 (6) Ja iesniegums par administratīvā procesa uzsākšanu no jauna iesniegts, kamēr administratīvais akts nav kļuvis neapstrīdams, šāds iesniegums uzskatāms par administratīvā akta apstrīdēšanas iesniegumu.

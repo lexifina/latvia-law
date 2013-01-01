@@ -1,2 +1,2 @@
-245.pants. Administratīvās lietas izskatīšana rakstveida procesā
-Spriedumu tiesa taisa pēc lietā esošajiem dokumentiem, ievērojot likumā noteikto sprieduma taisīšanas kārtību.
+245.pants. Administratīvās lietas iztiesāšana rakstveida procesā
+Tiesa, iztiesājot administratīvo lietu rakstveida procesā, ievēro administratīvās lietas tiesvedības principus un procesa dalībnieku procesuālās tiesības, ciktāl to pieļauj rakstveida procesa būtība.

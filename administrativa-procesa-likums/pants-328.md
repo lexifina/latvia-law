@@ -6,7 +6,7 @@
 4) kādā apjomā spriedumu pārsūdz;
 5) kādu materiālo vai procesuālo tiesību normu tiesa pārkāpusi un kā izpaužas šis pārkāpums;
 6) Senātam izteikto lūgumu;
-7) vai piekrīt lietas izskatīšanai rakstveida procesā, ja apelācijas instances tiesā lieta izskatīta mutvārdu procesā;
+7) (izslēgts ar 01.11.2012. likumu);
 8) sūdzības sastādīšanas laiku.
 (2) Kasācijas sūdzību paraksta tās iesniedzējs vai viņa pilnvarots pārstāvis. Ja kasācijas sūdzību iesniedzēja vārdā iesniedz pārstāvis, viņš sūdzībai pievieno attiecīgu pilnvaru vai citu dokumentu, no kura izriet pārstāvja tiesības iesniegt sūdzību.
-(3) Kasācijas sūdzību, ko iesniegusi persona, kura nav tam pilnvarota, atsakās pieņemt un atdod iesniedzējam.
+(3) Kasācijas sūdzību, ko iesniegusi persona, kura nav tam pilnvarota, atsakās pieņemt un atdod iesniedzējam, atmaksājot drošības naudu.

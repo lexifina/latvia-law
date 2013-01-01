@@ -1,0 +1,1 @@
+17. Grozījumi šā likuma 13.nodaļā, kas paredz drošības naudas maksāšanu par blakus sūdzību un kasācijas sūdzību, 127.panta izslēgšanu un likuma papildināšanu ar 129.¹, 129.² un 129.³ pantu, kā arī grozījumi šā likuma 320. un 333.pantā, kas paredz blakus sūdzības un kasācijas sūdzības atstāšanu bez virzības, ja nav samaksāta drošības nauda, stājas spēkā 2013.gada 1.martā.

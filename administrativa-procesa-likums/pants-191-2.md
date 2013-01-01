@@ -1,0 +1,4 @@
+191.² pants. Pieteikuma apmierināšana bez lietas tālākas iztiesāšanas
+(1) Ja, izlemjot jautājumu par pieteikumu, tiesnesis pēc iepazīšanās ar šo pieteikumu un iespējamo procesa dalībnieku iztaujāšanas gūst pārliecību, ka pieteikums ir apmierināms, un ja pieteikumā nav skarts būtisks tiesību jautājums, viņš var apmierināt pieteikumu bez lietas tālākas iztiesāšanas.
+(2) Tiesnesis lēmumu par pieteikuma apmierināšanu bez lietas tālākas iztiesāšanas noformē atsevišķa procesuālā dokumenta veidā.
+(3) Par tiesneša lēmumu par pieteikuma apmierināšanu bez lietas tālākas iztiesāšanas iespējamie procesa dalībnieki 14 dienu laikā no šā lēmuma saņemšanas dienas var iesniegt blakus sūdzību. Augstākas instances tiesa, izskatot blakus sūdzību, izvērtē, vai saskaņā ar šā panta pirmajā daļā norādītajiem apstākļiem ir pamats apmierināt pieteikumu bez lietas tālākas iztiesāšanas.

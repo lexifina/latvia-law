@@ -6,9 +6,9 @@
 2) iestādes iekšējs lēmums, kas skar tikai pašu iestādi, tai padotu iestādi vai īpaši pakļautu personu;
 3) starplēmums (tostarp procesuāls lēmums) administratīvā procesa ietvaros, izņemot gadījumu, kad tas pats par sevi skar būtiskas personas tiesības vai tiesiskas intereses vai būtiski apgrūtina to īstenošanu;
 4) Saeimas, Valsts prezidenta, Ministru kabineta vai pašvaldības domes (padomes) politisks lēmums (politisks paziņojums, deklarācija, aicinājums un paziņojums par amatpersonu ievēlēšanu u. tml.);
-5) kriminālprocesuāls lēmums un tiesas nolēmums.
+5) tiesas nolēmums, kriminālprocesuāls lēmums, kā arī lēmums, kas pieņemts lietvedībā administratīvā pārkāpuma lietā.
 (4) Tiesību norma ir normatīvs akts (tā daļa) un vispārējie tiesību principi.
-(5) Ārējais normatīvais akts ir Satversme, likumi, Ministru kabineta noteikumi un pašvaldību saistošie noteikumi, kā arī starptautiskie līgumi un Eiropas Savienības (Kopienu) pamatlīgumi un uz to pamata izdotie normatīvie akti.
+(5) Ārējais normatīvais akts ir Satversme, likumi, Ministru kabineta noteikumi un pašvaldību saistošie noteikumi, kā arī starptautiskie līgumi un Eiropas Savienības pamatlīgumi un uz to pamata izdotie normatīvie akti.
 (6) Iekšējais normatīvais akts ir tiesību akts, kuru publisko tiesību subjekts izdevis ar mērķi noteikt savas vai sev padotas institūcijas iekšējās darbības kārtību vai izskaidrot kāda ārējā normatīvā akta piemērošanas kārtību savā darbības jomā (instrukcija, ieteikumi, nolikums u.c.).
 (7) Starptautisko tiesību norma ir Latvijai saistoši starptautiskie līgumi, starptautiskās paražu tiesības un starptautisko tiesību vispārējie principi.
 (8) Privātpersona ir fiziskā persona, privāto tiesību juridiskā persona vai šādu personu apvienība.
