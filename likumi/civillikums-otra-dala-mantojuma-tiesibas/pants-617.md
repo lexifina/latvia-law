@@ -1,1 +1,1 @@
-617. Par testamenta izpildītāju var iecelt katru rīcības spējīgu personu.
+617. Par testamenta izpildītāju nevar iecelt personu, kurai tiesa nodibinājusi aizgādnību, un nepilngadīgo.

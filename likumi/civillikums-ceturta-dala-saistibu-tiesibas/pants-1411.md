@@ -1,1 +1,1 @@
-1411. Personas, kam trūkst rīcības spējas, pārstāv tiesiskos darījumos viņu vecāki, aizbildņi vai aizgādņi.
+1411. Personas, kurām trūkst rīcībspējas un kurām nodibināta aizgādnība, tiesiskos darījumos pārstāv to vecāki, aizbildņi, kā arī aizgādņi. Aizgādņi pārstāv aizgādnībā esošo kopā ar to vai patstāvīgi.

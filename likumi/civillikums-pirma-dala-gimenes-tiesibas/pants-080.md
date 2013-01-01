@@ -1,1 +1,1 @@
-80. Šķirot laulību vai pēc laulības šķiršanas bijušais laulātais var prasīt līdzekļus no otra bijušā laulātā samērā ar viņa mantas stāvokli, ja pēdējais ar savām darbībām veicinājis laulības iziršanu un līdzekļi nepieciešami iepriekšējā labklājības līmeņa nodrošināšanai vai uzturam.
+80. Šķirot laulību vai pēc laulības šķiršanas bijušais laulātais var prasīt līdzekļus no otra bijušā laulātā samērā ar viņa mantas stāvokli iepriekšējā labklājības līmeņa nodrošināšanai.

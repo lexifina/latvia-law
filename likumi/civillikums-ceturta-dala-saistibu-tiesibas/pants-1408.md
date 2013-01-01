@@ -1,1 +1,2 @@
-1408. Rīcības spējas trūkst nepilngadīgiem, personām, kas atrodas aizgādnībā izlaidīgas vai izšķērdīgas dzīves dēļ, un garā slimiem, ja likums tieši nenosaka citādi.
+1408. Rīcībspējas trūkst nepilngadīgajiem.
+Personas, kas atrodas aizgādnībā garīga rakstura traucējumu vai citu veselības traucējumu dēļ vai arī izlaidīgas vai izšķērdīgas dzīves dēļ, ir rīcībnespējīgas tiesas noteiktā rīcībspējas ierobežojuma apjomā.

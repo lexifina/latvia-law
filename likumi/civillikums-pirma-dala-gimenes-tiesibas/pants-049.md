@@ -1,1 +1,0 @@
-49. Ja ierunas cēlējs divu nedēļu laikā, skaitot no tās dienas, kad viņš saņēmis izsludinātā atbildi, iesniedz dzimtsarakstu nodaļai izziņu par tiesā celtu prasību, lai izsludinātajam aizliegtu doties laulībā, nodaļa aptur izsludinājuma gaitu līdz lietas izšķiršanai tiesā.

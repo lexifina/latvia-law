@@ -1,1 +1,0 @@
-50. Ja ierunu nav bijis vai prasība nav celta, vai tā ir noraidīta, dzimtsarakstu nodaļā var noslēgt laulību vai arī tā izsniedz iesniegumu par vēlēšanos doties laulībā ar atzīmi par izsludināšanu, lai laulību varētu noslēgt pie garīdznieka vai citā dzimtsarakstu nodaļā.

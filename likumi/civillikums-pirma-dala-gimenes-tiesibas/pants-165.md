@@ -1,1 +1,1 @@
-165. Adoptēt reizē var vairākus bērnus. Adoptējot brāļi un māsas nav šķirami. Bērnu interesēs pieļaujama brāļu un māsu šķiršana, ja kādam no viņiem ir neārstējama slimība vai ir šķēršļi, kas traucē brāļus un māsas adoptēt kopā.
+165. Adoptēt reizē var vairākus bērnus. Adoptējot brāļi (pusbrāļi) un māsas (pusmāsas) nav šķirami. Bērnu interesēs pieļaujama brāļu (pusbrāļu) un māsu (pusmāsu) šķiršana, ja kādam no viņiem ir neārstējama slimība vai ir šķēršļi, kas traucē brāļus (pusbrāļus) un māsas (pusmāsas) adoptēt kopā.

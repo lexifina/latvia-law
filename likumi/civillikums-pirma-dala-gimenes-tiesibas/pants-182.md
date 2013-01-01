@@ -1,3 +1,4 @@
-182. Strīda gadījumā kārtību, kādā var izmantot saskarsmes tiesību, nosaka tiesa, izprasot bāriņtiesas atzinumu. Tiklīdz ir saņemts bāriņtiesas atzinums, tiesa nekavējoties uzaicina puses paskaidrojumu sniegšanai un nosaka saskarsmes tiesības pagaidu izmantošanas kārtību.
-Tiesa var noteikt, ka zināmu laika periodu (nedēļas nogales, brīvdienas skolā, vecāku atvaļinājuma laiku u.tml.) bērns pavada pie tā vecāka, kuram nav piešķirtas aizgādības tiesības, vai arī viņu satikšanās laiku.
-Saskarsmes tiesību attiecībā uz bērnu var ierobežot, turklāt, ja nepieciešams, var noteikt, ka ar bērnu drīkst tikties tikai trešās personas klātbūtnē vai noteiktā vietā, ciktāl tas atbilst bērna interesēm. Tiesa var uz laiku atņemt saskarsmes tiesību, ja saskarsme kaitē bērna interesēm un kaitējums citādi nav novēršams.
+182. Strīda gadījumā kārtību, kādā var izmantot saskarsmes tiesību, nosaka tiesa, izprasot bāriņtiesas atzinumu.
+Nosakot saskarsmes tiesības izmantošanas kārtību, tiesa var noteikt, ka zināmu laika periodu (nedēļas nogales, brīvdienas skolā, vecāku atvaļinājuma laiku u. tml.) bērns pavada pie tā vecāka, pie kura viņš nedzīvo, vai arī viņu tikšanās laiku.
+Tiesa saskarsmes tiesības var ierobežot, turklāt, ja nepieciešams, var noteikt, ka ar bērnu drīkst tikties tikai trešās personas klātbūtnē vai noteiktā vietā, ciktāl tas atbilst bērna interesēm. Tiesa var uz laiku atņemt saskarsmes tiesību, ja saskarsme kaitē bērna interesēm un kaitējums citādi nav novēršams.
+Ja bērns ir šķirts no ģimenes, saskarsmes tiesību var ierobežot bāriņtiesa.
