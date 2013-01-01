@@ -28,7 +28,7 @@ o) informācijas reģistrēšanas, apkopošanas un pārskatu iesniegšanas, kā 
 12) kārtību, kādā dzīvnieku nodod dzīvnieku patversmē vai dzīvnieku viesnīcā;
 13) valsts nodevas apmēru un samaksas kārtību par cirka dzīvnieka, dresūras dzīvnieka, cirka un dresūras numura viesizrāžu vietas reģistrāciju;
 14) valsts nodevas apmēru un samaksas kārtību par tāda suņa reģistrāciju, kurš apmācīts uzbrukt cilvēkam;
-15) valsts nodevas apmēru un samaksas kārtību par atļauju izmantot dzīvnieku izmēģinājumā;
+15) valsts nodevas apmēru un samaksas kārtību par izmēģinājuma projekta atļaujas izsniegšanu dzīvnieka izmantošanai procedūrās;
 16) valsts nodevas apmēru un samaksas kārtību par dzīvnieka pārvadātāja apliecības izsniegšanu;
 17) valsts nodevas apmēru un samaksas kārtību par atļaujas izsniegšanu transportlīdzeklim dzīvnieku pārvadāšanai;
 18) valsts nodevas apmēru un samaksas kārtību par savvaļas sugu dzīvnieku turēšanas vietas reģistrāciju;
