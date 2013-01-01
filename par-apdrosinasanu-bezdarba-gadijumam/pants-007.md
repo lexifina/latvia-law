@@ -6,7 +6,7 @@
 4) ar apdrošināšanas stāžu virs trīsdesmit gadiem - 65 procentu apmērā no vidējās apdrošināšanas iemaksu algas.
 (2) Bezdarbniekam, par kuru pirms bezdarbnieka statusa iegūšanas dienas iemaksas bezdarba gadījumam ir veiktas no valsts pamatbudžeta, un šā likuma 5.panta trešajā daļā noteiktajiem bezdarbniekiem pabalstu nosaka 60 procentu apmērā no bezdarbnieka pabalsta pieprasīšanas dienā spēkā esošā valsts sociālā nodrošinājuma pabalsta divkārša apmēra.
 (3) Bezdarbniekam, par kuru tieši pirms bezdarbnieka statusa iegūšanas dienas iemaksas bezdarba gadījumam ir veikusi valsts, bet par pārējo iemaksu perioda daļu - gan pats pabalsta pieprasītājs un viņa darba devējs, gan valsts, piešķiramā bezdarbnieka pabalsta apmēru nosaka saskaņā ar šā panta pirmo daļu. Šādā gadījumā bezdarbnieka pabalsta apmērs nedrīkst būt mazāks par šā panta otrajā daļā noteikto.
-(4) Bezdarbniekam, par kuru pirms bezdarbnieka statusa iegūšanas dienas iemaksas bezdarba gadījumam vienlaikus ir veicis gan pats pabalsta pieprasītājs un viņa darba devējs, gan valsts, bezdarbnieka pabalsta apmēru nosaka saskaņā ar šā panta pirmo daļu.
+(4) (Izslēgta ar 15.11.2012. likumu)
 (5) (Izslēgta ar 24.10.2002. likumu.)
 (6) Bezdarbniekam, kurš pirms bezdarbnieka statusa iegūšanas dienas nav bijis darba ņēmējs un par kuru iemaksas bezdarba gadījumam ir veiktas no valsts sociālās apdrošināšanas speciālā budžeta, bezdarbnieka pabalsta apmēru nosaka:
 1) saskaņā ar šā panta pirmo daļu, ja iemaksas veiktas no slimības vai maternitātes pabalsta;
