@@ -4,3 +4,5 @@
 (3) Apstiprinātais komersants var būt elektroniskais plašsaziņas līdzeklis.
 (4) Satiksmes ministrija uzrauga un kontrolē apstiprinātā komersanta darbības atbilstību šā likuma prasībām.
 (5) Par elektronisko plašsaziņas līdzekļu televīzijas programmu zemes apraidi ciparformātā apstiprinātais komersants iekasē maksu, kuras aprēķināšanas metodiku un samaksas kārtību nosaka Ministru kabinets.
+(6) Apstiprinātajam komersantam ir pienākums nodrošināt bez maksas galalietotājiem to elektronisko plašsaziņas līdzekļu veidoto televīzijas programmu zemes apraidi ciparformātā, kuras iekļautas Nacionālās elektronisko plašsaziņas līdzekļu padomes apstiprinātajā galalietotājiem bez maksas izplatāmo programmu sarakstā. Kritērijus elektronisko plašsaziņas līdzekļu programmu iekļaušanai galalietotājiem bez maksas izplatāmo programmu sarakstā nosaka Elektronisko plašsaziņas līdzekļu nozares attīstības nacionālajā stratēģijā.
+(7) Šā panta sestajā daļā minēto lēmumu pieņem saskaņā ar Administratīvā procesa likumu. Lēmuma pārsūdzēšana neaptur tā darbību. Lēmums publicējams oficiālajā izdevumā "Latvijas Vēstnesis".
