@@ -1,0 +1,2 @@
+44.³ pants. Prokuratūras informēšana par aizgādnības nodibināšanu
+Bāriņtiesa informē prokuratūru par aizgādnības nodibināšanu personai ar garīga rakstura vai citiem veselības traucējumiem, ja tas nepieciešams šīs personas interešu aizsargāšanai. Bāriņtiesa informē prokuratūru par aizgādnības nodibināšanu personām, kuras izlaidīgas vai izšķērdīgas dzīves dēļ, kā arī alkohola vai citu apreibinošo vielu pārmērīgas lietošanas dēļ draud novest sevi vai savu ģimeni trūkumā vai nabadzībā.

@@ -8,5 +8,5 @@
 3) bērns tiek nodots audžuģimenei;
 4) likumīgā spēkā stājies tiesas spriedums par bērna adopcijas apstiprināšanu.
 (3) Lemjot par bērna aprūpes izbeigšanu ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijā, bāriņtiesa no institūcijas vadītāja pieprasa norēķinu par bērna mantas pārvaldību.
-(4) Ja bērna aprūpe ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijā izbeidzas tādēļ, ka bērns sasniedzis pilngadību, bāriņtiesa nelemj par bāreņa un bez vecāku gādības palikuša bērna aprūpes izbeigšanu ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijā, bet pieprasa no šīs institūcijas galīgo norēķinu par bērna mantas pārvaldību.
+(4) Ja bērna aprūpe ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijā izbeidzas tādēļ, ka bērns sasniedzis pilngadību, bāriņtiesa nelemj par bāreņa un bez vecāku gādības palikuša bērna aprūpes izbeigšanu ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijā, bet pieprasa no šīs institūcijas galanorēķinu par bērna mantas pārvaldību.
 (5) Bāriņtiesa noskaidro, vai ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijas vadītājs normatīvajos aktos par palīdzību dzīvokļa jautājumu risināšanā noteiktajā kārtībā ir informējis pašvaldību par nepieciešamību pēc bērna pilngadības sasniegšanas nodrošināt viņam dzīvojamo telpu.

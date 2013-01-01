@@ -6,5 +6,5 @@
 4) pārbaudot, vai aizbildnis pārvalda aizbilstamā mantu atbilstoši bērna interesēm un normatīvo aktu prasībām;
 5) noskaidrojot, vai aizbildnis normatīvajos aktos par palīdzību dzīvokļa jautājumu risināšanā noteiktajā kārtībā ir informējis pašvaldību par nepieciešamību pēc bērna pilngadības sasniegšanas nodrošināt viņam dzīvojamo telpu;
 6) katru gadu pārbaudot aizbilstamā dzīves apstākļus aizbildņa ģimenē.
-(2) Bāriņtiesa pieprasa, lai aizbildnis, kas atlaists vai atcelts no aizbildnības pirms tās izbeigšanās, sniedz galīgo norēķinu.
+(2) Bāriņtiesa pieprasa, lai aizbildnis, kas atlaists vai atcelts no aizbildnības pirms tās izbeigšanās, sniedz galanorēķinu.
 (3) Bāriņtiesa katru gadu līdz 1.februārim, kā arī aizbildnībai beidzoties, saņem un pārbauda aizbildņa iesniegto norēķinu. Bāriņtiesas priekšsēdētājs apstiprina norēķinu.

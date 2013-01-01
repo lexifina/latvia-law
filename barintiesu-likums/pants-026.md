@@ -2,7 +2,7 @@
 (1) Bāriņtiesa lemj par aizbildnības nodibināšanu un aizbildņa iecelšanu bērnam, ja:
 1) bērna vecāki ir miruši vai izsludināti par mirušiem;
 2) bērna vecākiem ir atņemtas bērna aprūpes vai aizgādības tiesības;
-3) bērna vecāki ir atzīti par rīcībnespējīgiem;
+3) (izslēgts ar 29.11.2012. likumu);
 4) bērna vecāki ir pazuduši un izsludināti meklēšanā;
 5) bērna vecāki slimības dēļ nespēj pienācīgi aprūpēt un uzraudzīt bērnu;
 6) abi bērna vecāki ir nepilngadīgi;

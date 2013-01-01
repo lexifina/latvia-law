@@ -4,6 +4,6 @@
 (3) Bāriņtiesas darbības teritorija ir attiecīgā novada vai republikas pilsētas administratīvā teritorija, izņemot šā panta piektajā daļā minētos gadījumus.
 (4) Nosakot bāriņtiesu skaitu, kā arī katras attiecīgās bāriņtiesas sastāvu, pašvaldības dome nodrošina, lai visiem attiecīgās pašvaldības administratīvās teritorijas iedzīvotājiem bāriņtiesa būtu pēc iespējas ērti pieejama. Bāriņtiesas darbība nodrošināma visos novada pagastos un novada pilsētās.
 (5) Vienā novadā vai republikas pilsētā var izveidot vairākas bāriņtiesas vai vairākas pašvaldības - kopīgu bāriņtiesu. Šādos gadījumos nosakāma katras bāriņtiesas darbības teritorija.
-(6) Informāciju par bāriņtiesas izveidošanu un tās darbības teritoriju, kā arī par bāriņtiesas darbības teritorijas izmaiņām pašvaldība publicē laikrakstā "Latvijas Vēstnesis".
+(6) Informāciju par bāriņtiesas izveidošanu un tās darbības teritoriju, kā arī par bāriņtiesas darbības teritorijas izmaiņām pašvaldība publicē oficiālajā izdevumā "Latvijas Vēstnesis".
 (7) Bāriņtiesas nosaukumu veido, attiecīgās bāriņtiesas darbības administratīvās teritorijas nosaukumam pievienojot vārdu "bāriņtiesa".
 (8) Ja pašvaldības administratīvajā teritorijā ir vairākas bāriņtiesas, tad bāriņtiesas nosaukumā iekļauj arī tās apdzīvotās vietas nosaukumu, kurā atrodas attiecīgā bāriņtiesa.
