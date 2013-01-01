@@ -1,0 +1,4 @@
+7.pants. Civilstāvokļa aktu reģistrācijas informācijas sistēma
+(1) Dzimtsarakstu iestāde, ievērojot šā likuma 3.panta trešo un ceturto daļu, ziņas par noslēgtajām laulībām, reģistrētajiem dzimšanas un miršanas faktiem iekļauj, aktualizē un atjauno Civilstāvokļa aktu reģistrācijas informācijas sistēmā (turpmāk - vienotais civilstāvokļa aktu reģistrs).
+(2) Vienotais civilstāvokļa aktu reģistrs ir valsts informācijas sistēma, kuras pārzinis un turētājs ir Pilsonības un migrācijas lietu pārvalde.
+(3) Kārtību, kādā dzimtsarakstu iestāde, Tieslietu ministrija un Pilsonības un migrācijas lietu pārvalde iekļauj, aktualizē un atjauno vienotajā civilstāvokļa aktu reģistrā ziņas par civilstāvokļa aktiem, kā arī šo ziņu apjomu un kārtību, kādā tās izsniedz no vienotā civilstāvokļa aktu reģistra, nosaka Ministru kabinets.

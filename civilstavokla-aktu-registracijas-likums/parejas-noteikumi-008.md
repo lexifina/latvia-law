@@ -1,0 +1,1 @@
+8. Ja līdz dienai, kad tiek uzsākta šā likuma 7.panta pirmajā daļā minēto ziņu iekļaušana vienotajā civilstāvokļa aktu reģistrā izdarītais civilstāvokļa aktu reģistra ieraksta eksemplārs pilnīgi vai daļēji gājis bojā, to aizstāj ar attiecīgā civilstāvokļa aktu reģistra ieraksta otrā eksemplāra kopiju.

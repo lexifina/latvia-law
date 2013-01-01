@@ -1,0 +1,5 @@
+2. Ministru kabinets ne vēlāk kā sešus mēnešus pēc šā likuma spēkā stāšanās izdod šā likuma 3.panta sestajā un septītajā daļā, 7.panta trešajā daļā, 12.panta ceturtajā daļā un 19.panta piektajā daļā minētos noteikumus. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai piemērojami šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:
+1) Ministru kabineta 2005.gada 28.jūnija noteikumi Nr.457 "Noteikumi par valsts nodevas par civilstāvokļa aktu reģistrāciju apmēru un maksāšanas kārtību";
+2) Ministru kabineta 2005.gada 28.jūnija noteikumi Nr.477 "Noteikumi par dzimtsarakstu nodaļas vadītāja amata zīmi";
+3) Ministru kabineta 2005.gada 28.jūnija noteikumi Nr.486 "Laulības noslēgšanas kārtība brīvības atņemšanas vietā";
+4) Ministru kabineta 2005.gada 29.novembra noteikumi Nr.904 "Noteikumi par civilstāvokļa aktu reģistrācijas kārtību, civilstāvokļa aktu reģistru paraugiem, reģistru glabāšanas kārtību un termiņiem, kā arī to dokumentu paraugiem, kurus izsniedz, pamatojoties uz reģistru ierakstiem".

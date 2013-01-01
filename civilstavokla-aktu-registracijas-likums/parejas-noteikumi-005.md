@@ -1,0 +1,1 @@
+5. Vienotais civilstāvokļa aktu reģistrs aizstāj līdzšinējos civilstāvokļa aktu reģistru ierakstus papīra formā, saglabājot likumā noteiktos datus. Līdzšinējos civilstāvokļa aktu reģistru ierakstus un alfabētiskos rādītājus papīra formā glabā dzimtsarakstu nodaļas arhīvā 100 gadus un pēc tam nodod Latvijas Nacionālajam arhīvam.

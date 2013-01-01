@@ -1,0 +1,1 @@
+9. Civilstāvokļa aktu reģistru ierakstus, kas izdarīti līdz dienai, kad tiek uzsākta šā likuma 7.panta pirmajā daļā minēto ziņu iekļaušana vienotajā civilstāvokļa aktu reģistrā, un glabājas dzimtsarakstu iestādēs, pakāpeniski pēc to pilnīguma un pareizības pārbaudīšanas iekļauj vienotajā civilstāvokļa aktu reģistrā.

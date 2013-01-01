@@ -1,0 +1,1 @@
+7. Līdz dienai, kad tiek uzsākta šā likuma 7.panta pirmajā daļā minēto ziņu iekļaušana vienotajā civilstāvokļa aktu reģistrā, dzimtsarakstu nodaļa un Tieslietu ministrija aktualizē un atjauno civilstāvokļa aktu reģistra ierakstus līdzšinējā kārtībā.
