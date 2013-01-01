@@ -1,2 +1,2 @@
 36.pants. (1) II un III sarakstā iekļautās vielas un zāles pacientiem drīkst izsniegt tikai pret recepti, kurā norādīta to terapeitiskā lietošana. Recepšu izrakstīšanas un uzglabāšanas kārtību nosaka Ministru kabinets. Ja zāļu izsniedzējam receptes iesniedzējs nav personiski pazīstams, viņam ir tiesības pieprasīt, lai tiktu uzrādīts personu apliecinošs dokuments.
-(2) II un III sarakstā iekļautās vielas un zāles dzīvniekiem ievada sertificēts veterinārārsts vai viņa uzraudzībā veterinārārsts, veterinārfeldšeris vai veterinārārsta asistents.
+(2) II un III sarakstā iekļautās vielas un zāles dzīvniekiem ievada praktizējošs veterinārārsts vai viņa uzraudzībā veterinārārsts, veterinārfeldšeris vai veterinārārsta asistents.
