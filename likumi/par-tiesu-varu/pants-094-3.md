@@ -1,0 +1,11 @@
+94.³ pants. Tiesneša profesionālās darbības novērtēšanas kārtība
+(1) Rajona (pilsētas) tiesas, apgabaltiesas un zemesgrāmatu nodaļas tiesneša profesionālās darbības novērtēšanai attiecīgās tiesas priekšsēdētājs un augstākas instances tiesas priekšsēdētājs sniedz atsauksmes par tiesneša darbu, iekļaujot informāciju par viņa pieņemto nolēmumu kvalitāti, tiesas procesa vadīšanas kvalitāti, profesionālās un akadēmiskās kvalifikācijas celšanu un citām profesionālajām aktivitātēm.
+(2) Šā panta pirmajā daļā paredzēto atsauksmi par Augstākās tiesas tiesneša darbu sniedz Augstākās tiesas priekšsēdētājs.
+(3) Tiesu administrācija apkopo un iesniedz Tiesnešu kvalifikācijas kolēģijai tiesas priekšsēdētāja un augstākas instances tiesas priekšsēdētāja sniegtās atsauksmes par rajonu (pilsētu) tiesu, apgabaltiesu un zemesgrāmatu nodaļu tiesnešu darbu.
+(4) Augstākās tiesas administrācija apkopo un iesniedz Tiesnešu kvalifikācijas kolēģijai atsauksmes par Augstākās tiesas tiesnešu darbu.
+(5) Tiesnesis iesniedz Tiesnešu kvalifikācijas kolēģijai savas profesionālās darbības pašnovērtējumu.
+(6) Ja saņemtās atsauksmes nesniedz pietiekamu informāciju, Tiesnešu kvalifikācijas kolēģija pirms tiesneša profesionālās darbības novērtēšanas var pieprasīt, lai Tiesu administrācija apkopo attiecīgās tiesas tiesnešu un tiesas darbinieku atsauksmes par tiesneša darbu, kā arī veic citu procesa dalībnieku aptauju.
+(7) Tiesnešu kvalifikācijas kolēģijas priekšsēdētājs var uzdot kādam no kolēģijas locekļiem izlases veidā iepazīties ar tiesneša taisītajiem nolēmumiem un vadītajiem procesiem (ar procesa skaņu ierakstiem).
+(8) Tiesneša profesionālo darbību novērtē Tiesnešu kvalifikācijas kolēģijas sēdē, piedaloties tiesnesim, kura profesionālā darbība tiek novērtēta. Ja tiesnesis neierodas uz sēdi bez attaisnojoša iemesla, šā tiesneša profesionālo darbību var novērtēt, viņam klāt neesot.
+(9) Pirms sēdes Tiesnešu kvalifikācijas kolēģija iepazīstas ar iesniegtajiem materiāliem par tiesneša darbu un ar tiesneša profesionālās darbības pašnovērtējumu. Ar attiecīgajiem materiāliem pirms Tiesnešu kvalifikācijas kolēģijas sēdes Tiesu administrācija un Augstākās tiesas administrācija savlaicīgi iepazīstina tiesnesi, kura profesionālā darbība tiek novērtēta.
+(10) Par tiesneša profesionālo darbību Tiesnešu kvalifikācijas kolēģija sniedz pozitīvu vai negatīvu atzinumu.

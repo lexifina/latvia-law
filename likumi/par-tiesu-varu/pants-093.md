@@ -1,8 +1,8 @@
 93. pants. Tiesnešu kvalifikācijas kolēģija
-(1) Tiesnešu kvalifikācijas kolēģija ir tiesnešu pašpārvaldes institūcija, kuras uzdevums ir nostiprināt tiesnešu profesionālo neatkarību.
+(1) Tiesnešu kvalifikācijas kolēģija ir tiesnešu pašpārvaldes institūcija, kura veic tiesnešu profesionālās darbības novērtēšanu.
 (2) Tiesnešu kvalifikācijas kolēģijas sastāvā ir viens Augstākās tiesas Senāta Civillietu departamenta vai Civillietu tiesu palātas tiesnesis, viens Augstākās tiesas Senāta Krimināllietu departamenta vai Krimināllietu palātas tiesnesis, viens Augstākās tiesas Senāta Administratīvo lietu departamenta tiesnesis, viens apgabaltiesas civillietu kolēģijas tiesnesis, viens apgabaltiesas krimināllietu kolēģijas tiesnesis, viens Administratīvās apgabaltiesas tiesnesis, divi rajonu (pilsētu) tiesu tiesneši un viens zemesgrāmatu nodaļas tiesnesis. Tiesnešu kvalifikācijas kolēģiju, aizklāti balsojot, ievēlē Tiesnešu konference. Par Tiesnešu kvalifikācijas kolēģijas locekli var izvirzīt un ievēlēt tiesnesi, kura zināšanas un pieredzi augstu vērtē tieslietu nozares speciālisti un tiesneši.
 (2¹) Tiesnešu kvalifikācijas kolēģijas locekļa statuss nav savienojams ar Tieslietu padomes locekļa, Tiesnešu disciplinārkolēģijas locekļa, Disciplinārtiesas locekļa vai Tiesnešu ētikas komisijas locekļa pienākumu pildīšanu.
 (3) Tiesnešu kvalifikācijas kolēģijas sēdēs ar padomdevēja tiesībām var piedalīties Saeimas Juridiskās komisijas priekšsēdētājs, tieslietu ministrs, ģenerālprokurors, Augstākās tiesas priekšsēdētājs vai viņu pilnvarotas personas, Latvijas Zinātņu akadēmijas apstiprinātu tiesībzinātņu ekspertu deleģēts pārstāvis, kā arī tiesnešu biedrību pārstāvji.
 (4) Tiesnešu kvalifikācijas kolēģijas priekšsēdētāju un viņa vietnieku ievēlē Tiesnešu kvalifikācijas kolēģija no sava vidus.
-(5) Tiesnešu kvalifikācijas kolēģija ir lemttiesīga, ja tās sēdē piedalās ne mazāk kā septiņi tiesnešu kvalifikācijas kolēģijas locekļi.
+(5) Tiesnešu kvalifikācijas kolēģija ir lemttiesīga, ja tās sēdē piedalās ne mazāk kā septiņi Tiesnešu kvalifikācijas kolēģijas locekļi.
 (6) Tiesnešu kvalifikācijas kolēģijas darbību nodrošina Tiesu administrācija.
