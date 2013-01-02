@@ -1,0 +1,1 @@
+1.pants. Likuma mērķis ir noteikt atšķirīgas attieksmes aizliegumu privātajā un publiskajā jomā attiecībā uz fizisko personu, kura vēlas veikt vai veic patstāvīgu darbību par atlīdzību (turpmāk - saimnieciskās darbības veicējs).

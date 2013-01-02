@@ -1,0 +1,1 @@
+Ar šā likuma spēkā stāšanos spēku zaudē Fizisko personu - saimnieciskās darbības veicēju - diskriminācijas aizlieguma likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2009, 13.nr.; Latvijas Vēstnesis, 2010, 43.nr.).
