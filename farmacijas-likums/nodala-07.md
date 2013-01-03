@@ -1,2 +1,2 @@
 VII nodaļa
-Zāļu ražošana
+Zāļu un aktīvo vielu ražošana un importēšana un aktīvo vielu izplatīšana

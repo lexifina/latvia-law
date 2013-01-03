@@ -7,4 +7,5 @@
 6) ir tiesas spriedums par intelektuālā īpašuma tiesību pārkāpumiem;
 7) zāļu reģistrācijas dokumentācija neatbilst Eiropas Kopienas tiesību aktu prasībām;
 8) reģistrācijas pieprasītājs ir iesniedzis pieteikumu anulēt vai apturēt zāļu reģistrāciju;
-9) nav veikti šā likuma 29.pantā noteiktie ar zāļu reģistrāciju saistītie maksājumi.
+9) nav veikti šā likuma 29.pantā noteiktie ar zāļu reģistrāciju saistītie maksājumi;
+10) ja netiek ievērotas normatīvajos aktos par farmakovigilanci noteiktās prasības.

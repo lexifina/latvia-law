@@ -1,0 +1,1 @@
+52.¹ pants. Zāļu importēšanas uzņēmumā nosaka par zāļu importēšanu atbildīgo amatpersonu, kuras kvalifikācija un profesionālā pieredze atbilst par zāļu ražošanu atbildīgās amatpersonas kvalifikācijai un profesionālās pieredzes kritērijiem, kas noteikti normatīvajos aktos par zāļu un veterināro zāļu ražošanu un kontroli.

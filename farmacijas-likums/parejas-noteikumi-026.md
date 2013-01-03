@@ -1,0 +1,1 @@
+26. Ministru kabinets līdz 2013.gada 31.janvārim izdara grozījumus Ministru kabineta 2011.gada 4.oktobra noteikumos Nr.758 "Kārtība, kādā izsniedz, anulē un pagarina derīguma termiņu sertifikātam veterināro zāļu izplatīšanai un reģistrē sertificēto personu", nosakot kārtību, kādā tiek veikta kvalifikācijas novērtēšana.

@@ -1,1 +1,2 @@
-51.pants. Lai ražotu zāles, nepieciešams nodrošināt normatīvo aktu prasībām atbilstošas telpas, aprīkojumu, iekārtas un personālu, kā arī Ministru kabineta noteiktajā kārtībā saņemt speciālu atļauju (licenci) zāļu ražošanai vai veterināro zāļu ražošanai.
+51.pants. (1) Lai ražotu zāles, nepieciešams nodrošināt normatīvo aktu prasībām atbilstošas telpas, aprīkojumu, iekārtas un personālu, kā arī Ministru kabineta noteiktajā kārtībā saņemt speciālu atļauju (licenci) zāļu ražošanai vai veterināro zāļu ražošanai.
+(2) Lai ražotu, importētu vai izplatītu aktīvās vielas, nepieciešams nodrošināt normatīvo aktu prasībām atbilstošas telpas, aprīkojumu, iekārtas un personālu, kā arī Ministru kabineta noteiktajā kārtībā reģistrēt savu darbības veidu.

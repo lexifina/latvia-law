@@ -1,0 +1,2 @@
+61.¹ pants. (1) Ja zāļu un aktīvo vielu ražotāja pārbaudes rezultāti apliecina atbilstību labai ražošanas praksei, Zāļu valsts aģentūra ne vēlāk kā 90 dienu laikā pēc iesnieguma saņemšanas izsniedz labas ražošanas prakses sertifikātu.
+(2) Ja zāļu lieltirgotavas un zāļu ražotāja pārbaudes rezultāti apliecina atbilstību labai izplatīšanas praksei, Zāļu valsts aģentūra ne vēlāk kā 90 dienu laikā pēc iesnieguma saņemšanas izsniedz labas izplatīšanas prakses sertifikātu.

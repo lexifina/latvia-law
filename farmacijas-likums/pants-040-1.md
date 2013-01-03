@@ -1,6 +1,7 @@
 40.¹ pants. (1) Latvijas Veterinārārstu biedrība veic šādus valsts pārvaldes uzdevumus:
 1) izsniedz, pārreģistrē un anulē sertifikātus veterināro zāļu izplatīšanai;
-2) reģistrē sertifikāta veterināro zāļu izplatīšanai saņēmējus un uztur sertificēto personu reģistru.
+2) reģistrē sertifikāta veterināro zāļu izplatīšanai saņēmējus un uztur sertificēto personu reģistru;
+3) izstrādā un apstiprina kvalifikācijas pārbaudes programmu personai, kura pretendē uz sertifikātu veterināro zāļu izplatīšanai, un novērtē pretendenta kvalifikāciju.
 (2) Ministru kabinets nosaka maksu par sertifikāta veterināro zāļu izplatīšanai izsniegšanu un pārreģistrēšanu.
 (3) Latvijas Veterinārārstu biedrība, pildot šā panta pirmajā daļā minētos uzdevumus:
 1) ir tiesīga izdot administratīvos aktus;
