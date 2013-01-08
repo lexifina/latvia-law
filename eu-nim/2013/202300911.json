@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2013. gada 3. janvāra noteikumi Nr. 1 \"Kārtība, kādā publiska persona pasūta pētījumus\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "4",
+  "official_journal_page": null,
+  "official_journal_date": "2013-01-07",
+  "entry_into_force": "2013-01-08",
+  "notification_date": "2023-02-06",
+  "commission_reference": "MNE(2023)00911",
+  "nim_celex": "72019L1024LVA_202300911",
+  "nim_id": "202300911",
+  "transposes_celex": [
+    "32019L1024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/87d26f55-a926-11ed-b508-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
