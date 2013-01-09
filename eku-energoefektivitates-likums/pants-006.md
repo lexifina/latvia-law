@@ -1,0 +1,16 @@
+6.pants. Ēkas energoefektivitātes novērtēšana
+(1) Ekspluatējamām ēkām neatkarīgs eksperts novērtē aprēķināto un izmērīto energoefektivitāti.
+(2) Projektējamām, rekonstruējamām un renovējamām ēkām neatkarīgs eksperts novērtē aprēķināto energoefektivitāti.
+(3) Novērtējot ēkas energoefektivitāti, ņem vērā:
+1) norobežojošo konstrukciju siltumvadītspēju;
+2) apkures sistēmu un dzesēšanas sistēmu;
+3) karstā ūdens apgādes sistēmu;
+4) gaisa kondicionēšanas sistēmu;
+5) iebūvētās apgaismes sistēmas;
+6) ventilāciju un gaisa caurlaidību;
+7) atrašanās vietu un orientāciju pret debess pusēm;
+8) saules ietekmi;
+9) ārējos klimatiskos apstākļus un iekšējo mikroklimatu;
+10) iekšējās slodzes.
+(4) Ēkas daļas energoefektivitāti novērtē atbilstoši šā panta nosacījumiem, ja ēkas daļai ir individuāla energonesēja vai siltumenerģijas uzskaite.
+(5) Ēkas energoefektivitāti novērtē saskaņā ar ēkas energoefektivitātes aprēķina metodi. Ēkas energoefektivitātes aprēķina metodi nosaka Ministru kabinets.

@@ -1,0 +1,1 @@
+5. Ministru kabinets līdz 2013.gada 30.jūnijam izdod šā likuma 6.panta piektajā daļā, 7.panta trešajā daļā, 8.panta septītajā daļā, 9.panta piektajā daļā, 10.panta trešajā daļā, 11.panta trešajā daļā un 12.panta ceturtajā daļā minētos noteikumus.

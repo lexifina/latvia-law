@@ -1,0 +1,1 @@
+4. Līdz 2015.gada 31.decembrim šā likuma 7.panta pirmās daļas 4.punktā noteikto ēkas daļas energosertifikāciju nepiemēro attiecīgās ēkas daļai, ja tā ir izīrēta vai iznomāta līdz šā likuma spēkā stāšanās dienai.

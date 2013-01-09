@@ -1,0 +1,1 @@
+2. Līdz 2015.gada 9.jūlijam šā likuma 7.panta pirmās daļas 5.punktā noteikto ēku energosertifikāciju veic ekspluatējamām valstij vai pašvaldībai piederošām publiskām ēkām, kuru apkurināmā platība pārsniedz 500 kvadrātmetrus.

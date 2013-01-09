@@ -1,0 +1,3 @@
+14.pants. Citu personu tiesības un pienākumi
+(1) Ekspluatējamas ēkas vai tās daļas pircējs, īrnieks vai nomnieks vai projektējamas ēkas pircējs ir tiesīgs iepazīties ar ēkas energosertifikātu vai ēkas pagaidu energosertifikātu, ja attiecīgās ekspluatējamās ēkas vai tās daļas vai projektējamās ēkas energosertifikācija ir paredzēta saskaņā ar šā likuma prasībām.
+(2) Ekspluatējamas ēkas vai tās daļas vai projektējamas ēkas pircējs ir tiesīgs iepazīties ar ēkas energosertifikātu vai ēkas pagaidu energosertifikātu un saņemt to pēc ēkas vai tās daļas iegādes, ja attiecīgās ekspluatējamās ēkas vai tās daļas vai projektējamās ēkas energosertifikācija ir paredzēta saskaņā ar šā likuma prasībām un ja attiecīgais dokuments nav pievienots dzīvojamās mājas lietai.
