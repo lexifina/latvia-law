@@ -1,0 +1,1 @@
+51. Grozījumi šā likuma 13.panta piektajā daļā attiecībā uz Valsts ieņēmumu dienesta tiesībām reģistrēt personai (darba ņēmējam) sociāli apdrošinātās personas statusa zaudēšanu, kā arī grozījumi par šā likuma 20.¹ panta izteikšanu jaunā redakcijā un grozījumi 23.panta 1.¹ daļā attiecībā uz darba ienākumu un obligāto iemaksu apmēra precizēšanu stājas spēkā 2013.gada 1.martā.
