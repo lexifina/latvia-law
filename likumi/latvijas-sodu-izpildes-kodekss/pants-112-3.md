@@ -1,0 +1,5 @@
+112.³ pants. Informācijas nosūtīšana papildsoda - tiesību ierobežošana - izpildes kontroles iestādei
+Brīvības atņemšanas iestādes administrācija brīvības atņemšanas iestādes iekšējās kārtības noteikumos paredzētajā kārtībā pirms notiesātā atbrīvošanas pēc pilna tiesas spriedumā noteiktā soda laika izciešanas nosūta informāciju par notiesāto papildsoda - tiesību ierobežošana - izpildes kontroles iestādei, ja no administrācijas rīcībā esošās informācijas konstatējama attiecīgā iestāde.
+Šā panta pirmajā daļā minētajā informācijā norāda notiesātā vārdu, uzvārdu, personas kodu, Krimināllikuma pantu, pēc kura viņš notiesāts, piespriestā soda termiņu un paredzēto atbrīvošanas datumu.
+Šā panta otrajā daļā minēto informāciju nosūta ne vēlāk kā 15 darba dienas pirms notiesātā atbrīvošanas, bet par notiesātajiem, kuri tiek atbrīvoti no soda izciešanas nosacīti pirms termiņa amnestijas vai apžēlošanas kārtībā, informācija nosūtāma nekavējoties pēc tiesas nolēmuma, amnestijas vai apžēlošanas akta saņemšanas.
+Šajā pantā minētā informācija ir ierobežotas pieejamības informācija.

@@ -21,10 +21,10 @@ Notiesātajiem, kuri sodu izcieš daļēji slēgtā cietuma soda izciešanas re�
 2) iepirkties cietuma veikalā par naudas summu vienas Ministru kabineta noteiktās minimālās mēnešalgas apmērā;
 3) izmantot sešas telefonsarunas mēnesī;
 4) izmantot tiesības, kas paredzētas šā kodeksa 50.⁴ panta septītās daļas 5., 6., 7., 8., 9. un 10.punktā;
-5) ar cietuma priekšnieka atļauju īslaicīgi atstāt cietuma teritoriju līdz septiņām diennaktīm gadā vai līdz piecām diennaktīm sakarā ar tuva radinieka nāvi vai smagu slimību, kas apdraud slimā dzīvību. Ārpus cietuma pavadītais laiks ieskaitāms soda izciešanas laikā.
+5) (izslēgts ar 13.12.2012. likumu).
 Notiesātajiem, kuri sodu izcieš daļēji slēgtā cietuma soda izciešanas režīma zemākajā pakāpē, ir tiesības:
 1) izmantot gadā piecas ilglaicīgas satikšanās - no divpadsmit līdz divdesmit četrām stundām un četras īslaicīgas satikšanās - no pusotras stundas līdz divām stundām;
 2) dienas kārtībā paredzētajā laikā iepirkties cietuma veikalā par naudas summu, kas nepārsniedz trīs ceturtdaļas no Ministru kabineta noteiktās minimālās mēnešalgas;
 3) izmantot divas telefonsarunas mēnesī;
 4) izmantot tiesības, kas paredzētas šā kodeksa 50.⁴ panta devītās daļas 5., 6., 7., 8., 9. un 10.punktā.
-Šajā pantā minētās tiesības ar cietuma priekšnieka atļauju īslaicīgi atstāt cietuma teritoriju neattiecas uz personām, kas notiesātas ar brīvības atņemšanu uz visu mūžu (mūža ieslodzījums).
+(Devītā daļa izslēgta ar 29.11.2012. likumu)

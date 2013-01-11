@@ -1,5 +1,0 @@
-148.pants. Sprieduma par tiesību ierobežošanu nodošana izpildei
-Tiesa, kas piespriedusi tiesību ierobežošanu, pēc sprieduma stāšanās likumīgā spēkā izdod tiesas izpildrakstu par notiesātajam noteiktajiem tiesību ierobežojumiem un nosūta to izpildīšanai tiesu izpildītājam:
-1) pēc notiesātā darbavietas, ja tiesību ierobežošana izpaužas kā aizliegums veikt noteiktu vai visu veidu uzņēmējdarbību, aizliegums uz noteiktu nodarbošanos, aizliegums ieņemt noteiktus amatus valsts, pašvaldību, privātajās vai sabiedriskajās organizācijās, uzņēmumos (uzņēmējsabiedrībās) vai iestādēs;
-2) pēc notiesātā dzīvesvietas, ja tiesību ierobežošana saistīta ar aizliegumu izmantot speciālā likumā paredzēto atļauju vai valsts, pašvaldības vai citas tam pilnvarotas institūcijas piešķirtas tiesības veikt noteiktas darbības;
-3) pēc tās brīvības atņemšanas iestādes atrašanās vietas, kurā notiesātais izcieš pamatsodu, ja viņam piespriestais pamatsods ir brīvības atņemšana uz laiku, ilgāku par pieciem gadiem, vai uz laiku, kas pārsniedz piespriestā papildsoda termiņu.
