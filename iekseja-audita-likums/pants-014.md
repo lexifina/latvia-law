@@ -1,0 +1,4 @@
+14.pants. Ierobežojumi iekšējā auditora darbā
+(1) Iekšējais auditors neiesaistās ministrijas vai iestādes tiešo funkciju veikšanā, Eiropas Savienības pilnīgi vai daļēji finansēto programmu un projektu vai ārvalstu finanšu palīdzības īstenošanā, atsevišķu projektu vai programmu izstrādē, kā arī iekšējās kontroles sistēmas izveidošanā. Iekšējais auditors šādu funkciju veikšanā var piedalīties ar padomdevēja tiesībām.
+(2) Iekšējais auditors vismaz gadu nedrīkst auditēt tās funkcijas, kuras pats pirms tam veicis ministrijā vai iestādē.
+(3) Iekšējais auditors rakstveidā ziņo iekšējā audita struktūrvienības vadītājam, bet iekšējā audita struktūrvienības vadītājs - ministrijas valsts sekretāram vai iestādes vadītājam (lēmējinstitūcijai) par katru situāciju, kurā ir radies vai varētu rasties interešu konflikts.

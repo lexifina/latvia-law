@@ -1,0 +1,6 @@
+3.pants. Likuma darbība
+(1) Likums attiecas uz ministrijām un iestādēm. Tas nosaka tiesisko regulējumu iekšējā audita sistēmas izveidošanai, darbībai un koordinācijai ministrijā un iestādē, kā arī iekšējo auditoru pienākumus, tiesības un nosacījumus neatkarības un objektivitātes principu ievērošanai.
+(2) Atvasinātas publiskas personas iekšējā audita sistēmu, iekšējā audita darba organizāciju un iekšējā audita veikšanas kārtību nosaka tās lēmējinstitūcija. Lai nodrošinātu iekšējā audita funkcijas efektīvāku veikšanu, atvasinātas publiskas personas lēmējinstitūcija, ja nepieciešams, var slēgt sadarbības līgumu ar attiecīgās nozares ministriju par šīs personas iekļaušanu ministrijas iekšējā audita sistēmā.
+(3) Šā likuma 13.panta noteikumi par iekšējā auditora tiesībām attiecināmi arī uz tām atvasinātām publiskām personām un privātpersonām, kuras saņēmušas attiecīgi Eiropas Savienības finansēto programmu un projektu vai ārvalstu finanšu palīdzības līdzekļus vai valsts budžeta līdzekļus.
+(4) Uz starptautisko organizāciju resursu (piešķirto līdzekļu) izmantošanas kontroli šis likums attiecas tad, ja to paredz attiecīgie starptautiskie līgumi.
+(5) Ja ministrijā vai iestādē iekšējā audita funkciju īsteno viens iekšējais auditors, viņam piemērojami tādi paši šā likuma noteikumi, kādi ir noteikti iekšējā audita struktūrvienībai.

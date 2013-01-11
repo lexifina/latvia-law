@@ -1,0 +1,8 @@
+12.pants. Iekšējā auditora pienākumi
+(1) Iekšējam auditoram ir pienākums regulāri papildināt zināšanas un pilnveidot profesionālās iemaņas. Iekšējā audita struktūrvienības vadītājs un ministrijas valsts sekretārs vai iestādes vadītājs veicina iekšējā auditora kvalifikācijas paaugstināšanu.
+(2) Iekšējais auditors, pildot amata pienākumus, ir atbildīgs par savas darbības vai bezdarbības likumību. Ja iekšējam auditoram rodas šaubas par uzdevuma likumību, viņa pienākums ir atteikties no šā uzdevuma pildīšanas, rakstveidā informējot par to amatpersonu, kura devusi uzdevumu, kā arī attiecīgi nākamo augstāko amatpersonu.
+(3) Iekšējais auditors savā darbībā ievēro šādus iekšējā auditora ētikas principus:
+1) godīgums. Iekšējais auditors savu darbu veic godīgi, ar pienācīgu rūpību un atbildību, ievēro ministrijas vai iestādes iekšējos ētikas principus, neiesaistās darbībās, kas diskreditē iekšējā auditora profesiju vai iekšējo auditu, respektē ministrijas vai iestādes ētiskos mērķus un sekmē to sasniegšanu;
+2) objektivitāte. Iekšējais auditors audita gaitā izvērtē visus apstākļus un pierādījumus, neietekmējoties ne no paša, ne no citu personu interesēm, un iekšējā audita ziņojumā atklāj visus būtiskos faktus par pārbaudīto sistēmu;
+3) konfidencialitāte. Iekšējais auditors neizmanto savu pienākumu veikšanas laikā iegūto informāciju tādā veidā, kas kaitētu ministrijas vai iestādes mērķiem. Iekšējā audita darbā iegūto informāciju iekšējais auditors izpauž trešajai personai tikai ar ministrijas valsts sekretāra vai iestādes vadītāja (lēmējinstitūcijas) atļauju;
+4) kompetence. Iekšējais auditors savu pienākumu veikšanā izmanto zināšanas, prasmes un pieredzi.
