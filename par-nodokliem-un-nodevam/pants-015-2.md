@@ -2,7 +2,7 @@
 (1) Šajā pantā paredzētā prasība pamatot darījuma (cenas) atbilstību tirgus cenai (vērtībai) attiecas uz likumā "Par uzņēmumu ienākuma nodokli" minētajiem nodokļu maksātājiem - rezidentiem un pastāvīgajām pārstāvniecībām, kuri veic darījumus ar:
 1) saistīto personu, kas likuma "Par uzņēmumu ienākuma nodokli" izpratnē ir uzskatāma par saistītu ārvalstu uzņēmumu;
 2) saistīto personu, kas ar nodokļu maksātāju veido likumā "Par uzņēmumu ienākuma nodokli" noteikto uzņēmumu grupu;
-3) komercsabiedrībām vai kooperatīvajām sabiedrībām, kuras ir atbrīvotas no uzņēmumu ienākuma nodokļa vai kuras izmanto Latvijas Republikas normatīvajos aktos noteiktās uzņēmumu ienākuma nodokļa atlaides;
+3) komercsabiedrībām vai kooperatīvajām sabiedrībām, kuras ir atbrīvotas no uzņēmumu ienākuma nodokļa vai kuras var piemērot likumā "Par nodokļu piemērošanu brīvostās un speciālajās ekonomiskajās zonās" noteiktās uzņēmumu ienākuma nodokļa atlaides;
 4) šā likuma 1.panta 18.punktā minētajām fiziskajām personām;
 5) citām komercsabiedrībām vai personām, ja tās atrodas, ir izveidotas vai nodibinātas zemu nodokļu vai beznodokļu valstīs vai teritorijās.
 (2) Nodokļu maksātājs šā panta pirmajā daļā minētajos gadījumos, ja tā neto apgrozījums pārskata gadā pārsniedz vienu miljonu latu un darījuma summa pārsniedz 10 000 latu, darījumu cenas (vērtības) atbilstību tirgus cenai (vērtībai) pamato, norādot šādu informāciju:

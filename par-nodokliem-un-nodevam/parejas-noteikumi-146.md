@@ -1,0 +1,1 @@
+146. Nodokļu maksātājiem, kuriem maksātnespējas process, tiesiskās aizsardzības process vai ārpustiesas tiesiskās aizsardzības process uzsākts līdz 2010.gada 31.oktobrim, nokavēto nodokļu maksājumu dzēšanu vai piedziņu bezstrīda kārtībā veic, piemērojot likuma "Par nodokļiem un nodevām" 25., 25.² un 26.pantu redakcijā, kāda bija spēkā līdz 2010.gada 31.oktobrim.

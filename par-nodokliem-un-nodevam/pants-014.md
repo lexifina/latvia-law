@@ -3,7 +3,7 @@
 1) iekšzemes nodokļu maksātāji (rezidenti);
 2) ārvalstu nodokļu maksātāji (nerezidenti).
 (2) Nodokļu likumos fiziskā persona tiks uzskatīta par rezidentu, ja:
-1) šīs personas pastāvīgā dzīvesvieta ir Latvijas Republikā vai
+1) šīs personas deklarētā dzīvesvieta ir Latvijas Republikā vai
 2) šī persona uzturas Latvijas Republikā 183 dienas vai ilgāk jebkurā 12 mēnešu periodā, kas sākas vai beidzas taksācijas gadā, vai
 3) šī persona ir Latvijas pilsonis, ko ārzemēs nodarbina Latvijas Republikas valdība.
 (3) Šā panta otrās daļas 2. punkta piemērošanai:

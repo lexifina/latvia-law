@@ -4,7 +4,7 @@
 2) (izslēgts ar 20.12.2010. likumu);
 3) izložu un azartspēļu nodeva - likums "Par izložu un azartspēļu nodevu un nodokli";
 4) nodevas par darbību veikšanu tiesu iestādēs - Civilprocesa likums un Administratīvā procesa likums;
-5) nodeva par uzvārda, vārda un tautības ieraksta maiņu personu apliecinošos dokumentos - likums "Par vārda, uzvārda un tautības ieraksta maiņu";
+5) nodeva par vārda, uzvārda vai tautības ieraksta maiņu - Vārda, uzvārda un tautības ieraksta maiņas likums;
 6) nodeva par zemes rezervēšanu lauku apvidos - likums "Par zemes reformu Latvijas Republikas lauku apvidos";
 7) nodevas par apliecinājumiem un citu funkciju pildīšanu bāriņtiesās - Bāriņtiesu likums;
 8) (izslēgts ar 25.11.1999. likumu);
@@ -41,7 +41,7 @@
 25) par ogļūdeņražu ieguvi;
 26) par jebkāda veida ieroča atļaujas, atkārtotas atļaujas, atļaujas dublikāta un Eiropas šaujamieroču apliecības izsniegšanu un Eiropas šaujamieroču apliecības derīguma termiņa pagarināšanu;
 27) par iekšējās drošības dienesta reģistrāciju;
-28) par azartspēļu iekārtu marķēšanu;
+28) (izslēgts ar 13.12.2012. likumu);
 29) par gaisa kuģu, Jūras kodeksa 8.panta otrajā daļā noteikto reģistrējamo kuģu un kuģošanas līdzekļu, kā arī par Valsts tehniskās uzraudzības aģentūrā reģistrējamu transportlīdzekļu reģistrāciju;
 30) par dzelzceļa infrastruktūras reģistrāciju;
 31) par pasažieru izlidošanu;
