@@ -7,4 +7,5 @@
 3) pieteikto kandidātu kārtas numuru, vārdu un uzvārdu.
 (5) Vēlēšanu zīmē pretī kandidāta uzvārdam ir vieta vēlētāja atzīmes izdarīšanai.
 (6) Republikas pilsētas un novada vēlēšanu komisija ne vēlāk kā piecas dienas pirms vēlēšanu dienas izsūta visām iecirkņu komisijām vēlēšanu aploksnes un vēlēšanu zīmes. Vēlēšanu zīmes izsūtāmas tādā skaitā, lai katrs vēlētājs var saņemt vienu vēlēšanu zīmi par attiecīgajā vēlēšanu apgabalā reģistrētajiem kandidātu sarakstiem. Vēlēšanu aplokšņu izgatavošanu un sadali republikas pilsētu un novadu vēlēšanu komisijām nodrošina Centrālā vēlēšanu komisija tās noteiktajā kārtībā.
-(7) Vēlēšanu zīmes, aploksnes un vēlētāju saraksti, sākot ar vēlēšanu pirmo dienu, glabājami Centrālās vēlēšanu komisijas noteiktajā kārtībā.
+(7) Ja domes vēlēšanām reģistrēti divi vai vairāk kandidātu saraksti, vēlēšanu komisija ne vēlāk kā septiņas dienas pirms vēlēšanu dienas izlozējot nosaka secību, kādā sakārtojamas vēlēšanu zīmes izsniegšanai vēlētājiem. Vēlēšanu zīmes tiek sakārtotas izlozes noteiktajā secībā, taču netiek numurētas.
+(8) Vēlēšanu zīmes, aploksnes un vēlētāju saraksti, sākot ar vēlēšanu pirmo dienu, glabājami Centrālās vēlēšanu komisijas noteiktajā kārtībā.
