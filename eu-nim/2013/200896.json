@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2013.gada 3.janvāra noteikumi Nr.11 \"Noteikumi par sprāgstvielu un spridzināšanas ietaišu drošības pamatprasībām, atbilstības novērtēšanas un marķēšanas kārtību un atbilstības novērtēšanas institūcijai izvirzāmajām prasībām\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "12",
+  "official_journal_page": null,
+  "official_journal_date": "2013-01-17",
+  "entry_into_force": "2013-01-18",
+  "notification_date": "2013-01-25",
+  "commission_reference": "MNE(2013)51028",
+  "nim_celex": "72012L0004LVA_200896",
+  "nim_id": "200896",
+  "transposes_celex": [
+    "32012L0004"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/36673ac1-a4e7-445a-911d-3ab579a95946",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
