@@ -1,0 +1,1 @@
+12. Ministru kabinets ne vēlāk kā līdz 2013.gada 31.jūlijam izdod šā kodeksa 9.panta piektajā daļā minētos noteikumus par izrakstā no Kuģu reģistra iekļaujamās informācijas apjomu un šā kodeksa 16.panta piektajā daļā minētos noteikumus.

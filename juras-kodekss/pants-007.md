@@ -1,2 +1,2 @@
 7.pants. Pieraksta osta
-Kuģa īpašnieks pirms kuģa reģistrēšanas Kuģu reģistrā no satiksmes ministra apstiprinātajām pieraksta ostām izvēlas pieraksta ostu savam kuģim. Pieraksta ostu var mainīt, nosūtot paziņojumu Latvijas Jūras administrācijai.
+Pirms kuģa reģistrēšanas Kuģu reģistrā kuģa īpašnieks izvēlas kādu no Latvijas ostām kā pieraksta ostu savam kuģim.

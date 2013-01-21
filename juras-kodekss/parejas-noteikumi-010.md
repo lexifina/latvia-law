@@ -1,0 +1,1 @@
+10. Buru jahta, kurai valstiskās piederības pazīme piešķirta līdz 2013.gada 21.janvārim, saglabā šo valstiskās piederības pazīmi, un tai nepiešķir ciparu vai ciparu kombināciju atbilstoši šā kodeksa 4.panta otrās daļas 4.punkta nosacījumam.

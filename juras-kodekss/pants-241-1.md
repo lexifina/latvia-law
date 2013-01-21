@@ -1,0 +1,3 @@
+241.¹ pants. Obligātā apdrošināšana
+(1) Pārvadātājam, kas faktiski veic visu pārvadājumu vai tā daļu ar Latvijas pasažieru kuģi, starptautisku pasažieru pārvadājumu vai pasažieru pārvadājumu ar Latvijā reģistrētu A klases vai B klases kuģi, ir pienākums obligāti apdrošināt savu atbildību vai saņemt citu finansiālās atbildības nodrošinājumu atbilstoši Regulas Nr. 392/2009 noteikumiem. Šādu apdrošināšanu vai citu finansiālās atbildības nodrošinājumu apliecina kuģu reģistratora izsniegts sertifikāts. Bez šā sertifikāta kuģis nedrīkst braukt zem Latvijas karoga.
+(2) Šā panta pirmās daļas noteikumu piemēro arī ārvalstu pasažieru kuģiem, kuri ienāk Latvijas ostā vai iziet no tās.
