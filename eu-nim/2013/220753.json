@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2013.gada 3.janvāra noteikumi Nr.17 \"Pievienotās vērtības nodokļa likuma normu piemērošanas kārtība un atsevišķas prasības pievienotās vērtības nodokļa maksāšanai un administrēšanai\".",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "14 (4820)",
+  "official_journal_page": null,
+  "official_journal_date": "2013-01-21",
+  "entry_into_force": "2013-01-22",
+  "notification_date": "2014-10-29",
+  "commission_reference": "MNE(2014)56073",
+  "nim_celex": "72008L0008LVA_220753",
+  "nim_id": "220753",
+  "transposes_celex": [
+    "32008L0008"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/01cb8cef-bbb5-4011-a6ab-3428d4ce8e09",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
