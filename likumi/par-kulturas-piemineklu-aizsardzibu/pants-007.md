@@ -1,4 +1,5 @@
 7. pants. Īpašuma tiesības uz kultūras pieminekļiem
-Kultūras pieminekļi Latvijas Republikā var būt valsts, pašvaldību, kā arī fizisko un citu juridisko personu īpašumā.
+Kultūras pieminekļi Latvijas Republikā var būt valsts, pašvaldību, citu publisku personu, kā arī privātpersonu īpašumā.
 Nostiprinot īpašuma tiesības uz nekustamo īpašumu, kas atzīts par kultūras pieminekli, zemesgrāmatā izdarāma attiecīga atzīme par tiesību aprobežojumiem. Šāda atzīme tiek izdarīta, pamatojoties uz Valsts kultūras pieminekļu aizsardzības inspekcijas iesniegumu.
 Ja nekustamais īpašums ir kultūras piemineklis, tas ir pietiekams pamats attiecīgās atzīmes izdarīšanai zemesgrāmatā. Atzīme izdarāma 10 dienu laikā no Valsts kultūras pieminekļu aizsardzības inspekcijas iesnieguma saņemšanas dienas vai vienlaikus ar īpašuma tiesību reģistrāciju. Nekustamo kultūras pieminekļu sarakstus zemesgrāmatu nodaļām iesniedz attiecīgā Valsts kultūras pieminekļu aizsardzības inspekcijas reģionālā nodaļa.
+Arheoloģiskās senvietās zemē, virs zemes vai ūdenī atrastas senlietas (ar datējumu līdz 17.gadsimtam ieskaitot) pieder valstij, un tās glabā publiskie muzeji. Šis noteikums neattiecas uz senlietām, par kurām līdz 2013.gada 30.martam persona ir paziņojusi Valsts kultūras pieminekļu aizsardzības inspekcijai.

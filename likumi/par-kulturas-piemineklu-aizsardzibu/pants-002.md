@@ -7,3 +7,4 @@ Ir šādi kultūras pieminekļu veidi:
 - atsevišķi objekti - arheoloģiskie atradumi, senlietas, nekustamo pieminekļu elementi, vēsturiskas relikvijas, mākslas darbi, rokraksti, reti iespieddarbi, kinodokumenti, fotodokumenti un videodokumenti, skaņu ieraksti;
 - kompleksi objekti - vēsturiski izveidojušies kompleksi, atsevišķu objektu fondi un kolekcijas, kas ir nedalāma kultūrvēsturiska vērtība.
 Par kultūras pieminekļiem atzīstami gan savā sākotnējā izskatā saglabājušies objekti, gan to atsevišķas daļas un fragmenti.
+Senlietas ir cilvēka apzinātas darbības rezultātā radīti priekšmeti - artefakti (piemēram, rotaslietas, ieroči, darbarīki, iedzīves priekšmeti, keramikas izstrādājumi, monētas veselā vai fragmentārā veidā), kas atrasti zemē, virs zemes vai ūdenī.
