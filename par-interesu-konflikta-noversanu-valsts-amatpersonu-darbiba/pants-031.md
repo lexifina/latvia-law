@@ -1,6 +1,6 @@
 31.pants. Sabiedrības informēšana par pārkāpumu
 (1) Korupcijas novēršanas un apkarošanas birojam un Valsts ieņēmumu dienestam atbilstoši šajā likumā un citos normatīvajos aktos noteiktajai kompetencei ir pienākums par valsts amatpersonas darbībā konstatētajiem šā likuma pārkāpumiem informēt sabiedrību, ievietojot informāciju attiecīgās institūcijas mājaslapā internetā.
-(2) Par šā likuma pārkāpumiem, kurus ir izdarījuši Satversmes tiesas tiesneši, sabiedrību informē Satversmes tiesa, par pārkāpumiem, kurus ir izdarījuši tiesneši, - Augstākās tiesas tiesnešu disciplinārkolēģija, bet par pārkāpumiem, kurus izdarījuši prokurori, - Ģenerālprokuratūra.
+(2) Par šā likuma pārkāpumiem, kurus ir izdarījuši Satversmes tiesas tiesneši, sabiedrību informē Satversmes tiesa, par pārkāpumiem, kurus ir izdarījuši tiesneši, - Tiesnešu disciplinārkolēģija vai Disciplinārtiesa, bet par pārkāpumiem, kurus izdarījuši prokurori, - Ģenerālprokuratūra.
 (3) Par šā likuma pārkāpumiem, kurus ir izdarījis Korupcijas novēršanas un apkarošanas biroja priekšnieks, sabiedrību informē Ministru prezidents.
 (4) Šā panta pirmajā, otrajā un trešajā daļā minētās institūcijas savā mājaslapā internetā ievieto šādu informāciju:
 1) valsts amatpersonas vārds, uzvārds un ieņemamais amats;
