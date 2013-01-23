@@ -1,0 +1,1 @@
+3. Šā likuma 1.panta 5.punktu, 7.panta trešās daļas 1. un 2.punktu un 14.panta otro un trešo daļu piemēro no dienas, kuru Eiropas Savienības Padome ir noteikusi par Šengenas Informācijas sistēmas otrās paaudzes (SIS II) darbības uzsākšanas dienu.
