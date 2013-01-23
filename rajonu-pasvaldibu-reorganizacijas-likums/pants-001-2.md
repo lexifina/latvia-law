@@ -1,1 +1,1 @@
-1. Ministru kabinets līdz 2008.gada 31.decembrim iesniedz Saeimai atzinumu, kurā izvērtētas tiešās valsts pārvaldes funkciju decentralizācijas iespējas.
+1. Ministru kabinets veic administratīvi teritoriālās reformas izvērtējumu un līdz 2013.gada 1.oktobrim iesniedz Saeimai atzinumu, kurā izvērtētas tiešās valsts pārvaldes funkciju decentralizācijas iespējas attiecībā uz vietējām pašvaldībām.
