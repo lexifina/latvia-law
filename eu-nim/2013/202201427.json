@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2013. gada 15. janvāra noteikumi Nr. 40 \"Noteikumi par pievienotās vērtības nodokļa deklarācijām\".",
+  "type_of_act": "Ministru kabineta instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "40",
+  "official_journal_page": null,
+  "official_journal_date": "2013-01-24",
+  "entry_into_force": "2013-01-25",
+  "notification_date": "2022-03-03",
+  "commission_reference": "MNE(2022)01427",
+  "nim_celex": "72019L1995LVA_202201427",
+  "nim_id": "202201427",
+  "transposes_celex": [
+    "32019L1995"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/57be2f47-3ee5-42b2-b69a-94dccbe7a642",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
