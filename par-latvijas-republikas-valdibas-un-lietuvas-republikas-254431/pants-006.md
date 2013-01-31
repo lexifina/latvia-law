@@ -1,0 +1,1 @@
+6.pants. Ar Līguma spēkā stāšanos spēku zaudē likums " Par Latvijas Republikas valdības un Lietuvas Republikas valdības vienošanos par sadarbību sociālās nodrošināšanas jomā " (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 1.nr.).

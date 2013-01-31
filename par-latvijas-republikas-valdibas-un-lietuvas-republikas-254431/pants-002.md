@@ -1,0 +1,1 @@
+2.pants. Līguma 1.panta pirmajā daļā lietotā definīcija "teritorijas, kas atradušās bijušās PSRS jurisdikcijā" attiecas uz 15 republiku teritorijām, kuras līdz 1991.gada 1.janvārim bija iekļautas Padomju Sociālistisko Republiku Savienības sastāvā.

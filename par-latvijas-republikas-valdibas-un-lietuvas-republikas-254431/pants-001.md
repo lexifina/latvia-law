@@ -1,0 +1,1 @@
+1.pants. 2012.gada 16.maijā Viļņā parakstītais Latvijas Republikas valdības un Lietuvas Republikas valdības līgums par bijušajā PSRS uzkrāto apdrošināšanas periodu ieskaitīšanu (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
