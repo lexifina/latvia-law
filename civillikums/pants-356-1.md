@@ -1,1 +1,1 @@
-356.¹ Persona nav ierobežojama personiskajās nemantiskajās tiesībās, lai tā varētu aizstāvēt savas tiesības un likumiskās intereses iestādēs un tiesā saistībā ar tās rīcībspējas un brīvības ierobežojumiem, domstarpībām, strīdiem ar aizgādni un aizgādņa iecelšanu un atcelšanu.
+356.¹ Persona nav ierobežojama personiskajās nemantiskajās tiesībās, kā arī aizstāvēt savas tiesības un likumiskās intereses iestādēs un tiesā saistībā ar tās rīcībspējas un brīvības ierobežojumiem, domstarpībām, strīdiem ar aizgādni un aizgādņa iecelšanu un atcelšanu.
