@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2013. gada 29. janvāra noteikumi Nr. 61 \"Noteikumi par parāda atgūšanas izdevumu pieļaujamo apmēru un izdevumiem, kuri nav atlīdzināmi\"",
+  "type_of_act": "Ministra noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "22",
+  "official_journal_page": null,
+  "official_journal_date": "2013-01-31",
+  "entry_into_force": "2013-02-01",
+  "notification_date": "2024-08-01",
+  "commission_reference": "MNE(2024)03488",
+  "nim_celex": "72021L2167LVA_202403488",
+  "nim_id": "202403488",
+  "transposes_celex": [
+    "32021L2167"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cd0ab5d1-e997-4883-9663-1c08cbaab440",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
