@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2013.gada 22.janvāra Ministru kabineta noteikumi Nr.47 \"Farmakovigilances kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "22 (4828)",
+  "official_journal_page": null,
+  "official_journal_date": "2013-01-31",
+  "entry_into_force": "2013-02-01",
+  "notification_date": "2014-01-24",
+  "commission_reference": "MNE(2014)50615",
+  "nim_celex": "72012L0026LVA_212892",
+  "nim_id": "212892",
+  "transposes_celex": [
+    "32012L0026"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5a7aef56-c992-48c2-9fa5-4f6d5e9f4a4e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
