@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noteikumi par cilvēka orgānu izmantošanu medicīnā, kā arī cilvēka orgānu un miruša cilvēka ķermeņa izmantošanu medicīnas studijām",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "32 (4838)",
+  "official_journal_page": null,
+  "official_journal_date": "2013-02-14",
+  "entry_into_force": "2013-02-15",
+  "notification_date": "2013-02-18",
+  "commission_reference": "MNE(2013)51477",
+  "nim_celex": "72010L0053LVA_201505",
+  "nim_id": "201505",
+  "transposes_celex": [
+    "32010L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/12a60dad-7509-4063-abf4-de89bd62d05c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
