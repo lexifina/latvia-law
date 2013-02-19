@@ -1,1 +1,1 @@
-3.pants. Vides aizsardzības un reģionālās attīstības ministrija veic koordinatora funkcijas Konvencijas izpildē.
+3.pants. Ārlietu ministrija koordinē Konvencijas izpildi. Konvencijas saistību izpildi Konvencijas 1., 3. un 4.panta izpratnē veic Aizsardzības ministrija, Ārlietu ministrija, Izglītības un zinātnes ministrija, Veselības ministrija, Zemkopības ministrija un citas iestādes atbilstoši savai kompetencei.

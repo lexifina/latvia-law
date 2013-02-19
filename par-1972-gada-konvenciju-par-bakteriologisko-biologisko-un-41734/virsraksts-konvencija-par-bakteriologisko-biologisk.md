@@ -1,1 +1,1 @@
-KONVENCIJA PAR BAKTERIOLOĢISKO (BIOLOĢISKO) UN TOKSISKO IEROČU IZSTRĀDĀŠANAS, RAŽOŠANAS UN UZGLABĀŠANAS AIZLIEGŠANU UN TO IZNĪCINĀŠANU
+Konvencija par bakterioloģisko (bioloģisko) un toksīnus saturošo ieroču izstrādāšanas, ražošanas un uzglabāšanas aizliegšanu un to iznīcināšanu
