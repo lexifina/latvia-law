@@ -1,0 +1,1 @@
+3. Šā likuma 7.pantā noteikto prasību par sprāgstvielu un spridzināšanas ietaišu īpašo marķējumu piemēro ar 2013.gada 5.aprīli. Izplatītāji, kas pārsaiņo sprāgstvielas, šā likuma 7.pantā noteikto prasību par sprāgstvielu un spridzināšanas ietaišu īpašo marķējumu piemēro ar 2015.gada 5.aprīli.
