@@ -3,8 +3,8 @@
 1) nodokļa rēķina izrakstīšanas datums;
 2) preču piegādātāja vai pakalpojumu sniedzēja juridiskās personas nosaukums (fiziskajai personai - vārds, uzvārds), juridiskā adrese (fiziskajai personai - deklarētā dzīvesvieta), kā arī reģistrācijas numurs Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā;
 3) preču vai pakalpojumu saņēmēja juridiskās personas nosaukums (fiziskajai personai - vārds, uzvārds), juridiskā adrese (fiziskajai personai - deklarētā dzīvesvieta), kā arī reģistrācijas numurs Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā vai citas dalībvalsts nodokļa maksātāju reģistrā;
-4) preces nosaukums vai pakalpojuma veids, daudzums un mērvienība;
-5) preces vai pakalpojuma cena (vienas vienības vērtība bez nodokļa) un darījuma kopsumma (bez nodokļa);
+4) preces nosaukums vai pakalpojuma veids un daudzums;
+5) preces vai pakalpojuma cena (ar nodokli vai bez nodokļa) un darījuma kopsumma (ar nodokli vai bez nodokļa);
 6) nodokļa likme un aprēķinātā nodokļa summa.
 (2) Vienkāršoto nodokļa rēķinu reģistrētam nodokļa maksātājam ir tiesības izrakstīt šādos gadījumos:
 1) par darījumu iekšzemē, kura vērtība bez nodokļa ir mazāka par 100 latiem;
