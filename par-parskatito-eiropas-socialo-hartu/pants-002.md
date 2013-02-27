@@ -1,0 +1,31 @@
+2.pants. Saskaņā ar Hartas Preambulu un III sadaļas A pantu Latvijas Republika apņemas uzskatīt par sev saistošiem Hartas I, III, IV, V un VI sadaļas noteikumus, kā arī šādus Hartas II sadaļas pantus:
+1.pants - Tiesības uz darbu;
+2.pants - Tiesības uz taisnīgiem darba apstākļiem;
+3.pants - Tiesības uz drošiem un veselībai nekaitīgiem darba apstākļiem;
+4.panta 2., 3., 4. un 5.punkts - Tiesības uz taisnīgu atalgojumu;
+5.pants - Tiesības biedroties;
+6.pants - Tiesības slēgt kolektīvus līgumus;
+7.pants - Bērnu un jauniešu tiesības uz aizsardzību;
+8.pants - Strādājošo sieviešu tiesības uz maternitātes aizsardzību;
+9.pants - Tiesības uz arodorientāciju;
+10.pants - Tiesības uz arodapmācību;
+11.pants - Tiesības uz veselības aizsardzību;
+12.panta 1. un 2.punkts - Tiesības uz sociālo drošību;
+13.pants - Tiesības uz sociālo un medicīnisko palīdzību;
+14.pants - Tiesības izmantot sociālās labklājības dienestu pakalpojumus;
+15.pants - Invalīdu un garīgi atpalikušo personu tiesības uz neatkarību, integrāciju un dalību sabiedriskajā dzīvē;
+16.pants - Ģimenes tiesības uz sociālo, juridisko un ekonomisko aizsardzību;
+17.pants - Bērnu un jauniešu tiesības uz sociālo, juridisko un ekonomisko aizsardzību;
+18.panta 1. un 4.punkts - Tiesības uz apmaksātu nodarbošanos citu Līgumslēdzēju pušu teritorijā;
+19.panta 1., 4., 5., 6., 7., 8., 9., 10., 11. un 12.punkts - Migrējošo strādājošo un viņu ģimeņu tiesības uz aizsardzību un palīdzību;
+20.pants - Tiesības uz vienlīdzīgām tiesībām un attieksmi nodarbinātības un darba jautājumos bez diskriminācijas dzimuma dēļ;
+21.pants - Tiesības uz informāciju un konsultācijām;
+22.pants - Tiesības piedalīties darba apstākļu un darba vides noteikšanā un uzlabošanā;
+24.pants - Tiesības uz aizsardzību darba saistību izbeigšanas gadījumos;
+25.pants - Strādājošo tiesības uz savu tiesību aizsardzību darba devēja maksātnespējas gadījumā;
+26.pants - Tiesības uz cieņu darbā;
+27.pants - Tiesības strādājošajiem ar ģimenes saistībām uz vienlīdzīgām iespējām un vienlīdzīgu attieksmi;
+28.pants - Strādājošo pārstāvju tiesības uz aizsardzību darba saistībās un no tām atkarīgajās funkcijās;
+29.pants - Tiesības saņemt informāciju un konsultācijas par kolektīvo atlaišanu;
+30.pants - Tiesības uz aizsardzību pret trūkumu un sociālo nevienlīdzību;
+31.panta 1.punkts - Tiesības uz dzīvesvietu.
