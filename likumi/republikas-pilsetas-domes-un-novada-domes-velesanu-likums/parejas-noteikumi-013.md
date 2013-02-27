@@ -1,0 +1,1 @@
+13. Grozījumi šā likuma 2.panta pirmajā daļā par skaitļa "13" aizstāšanu ar skaitli "9" ir piemērojami, nosakot ievēlējamo deputātu skaitu vietējo pašvaldību vēlēšanās, kas notiks pēc šā likuma spēkā stāšanās.
