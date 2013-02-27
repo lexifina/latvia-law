@@ -1,4 +1,4 @@
-21. Līdz šā likuma 13., 20., 28., 34.pantā, 35.¹ panta otrajā daļā, 37.pantā, 38.⁴ panta pirmajā daļā, 41.panta trešajā daļā, 43.¹ panta otrajā daļā un 49.panta trešajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2012.gada 31.decembrim ir piemērojami šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:
+21. Līdz šā likuma 13., 20., 28., 34.pantā, 35.¹ panta otrajā daļā, 37.pantā, 38.⁴ panta pirmajā daļā, 41.panta trešajā daļā, 43.¹ panta otrajā daļā un 49.panta trešajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās dienai ir piemērojami šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:
 1) Ministru kabineta 2001.gada 8.maija noteikumi Nr.189 "Dabas aizsardzības noteikumi meža apsaimniekošanā";
 2) Ministru kabineta 2003.gada 19.novembra noteikumi Nr.648 "Noteikumi par meža reproduktīvo materiālu";
 3) Ministru kabineta 2004.gada 27.jūlija noteikumi Nr.630 "Zinātniskās izpētes mežu apsaimniekošanas kārtība";

@@ -12,8 +12,13 @@
 a) paredzēta sanitārā cirte,
 b) ieguvēja ir valsts;
 4) meža īpašnieks vai tiesiskais valdītājs normatīvajos aktos noteiktajā termiņā nav samaksājis naudas sodu par meža apsaimniekošanas un izmantošanas noteikumu pārkāpumiem un nav atlīdzinājis mežam nodarītos zaudējumus. Apliecinājumu izsniedz pēc naudas soda samaksas un mežam nodarīto zaudējumu atlīdzināšanas.
-(3) Ja koku ciršana nepieciešama ārkārtējās situācijās un situācijās, kad koki apdraud infrastruktūras darbību:
-1) koku ciršanu var sākt pēc mutvārdu paziņojuma sniegšanas Valsts meža dienestam un Dabas aizsardzības pārvaldei, ja darbība veicama īpaši aizsargājamā dabas teritorijā, izņemot Ziemeļvidzemes biosfēras rezervāta ainavu aizsardzības zonu un neitrālo zonu;
-2) ārkārtējās situācijas seku likvidētājs vai infrastruktūras darbību apdraudošo koku cirtējs nedēļas laikā pēc koku ciršanas informē meža īpašnieku vai tiesisko valdītāju.
+(3) Lai nodrošinātu infrastruktūras darbību:
+1) ja koku ciršana nepieciešama ārkārtējās situācijās:
+a) koku ciršanu var sākt pēc mutvārdu paziņojuma sniegšanas Valsts meža dienestam un Dabas aizsardzības pārvaldei, ja darbība veicama īpaši aizsargājamā dabas teritorijā, izņemot Ziemeļvidzemes biosfēras rezervāta ainavu aizsardzības zonu un neitrālo zonu,
+b) ārkārtējās situācijas seku likvidētājs nedēļas laikā pēc koku ciršanas informē meža īpašnieku vai tiesisko valdītāju;
+2) ja koku ciršana nepieciešama situācijās, kad koki ir uzkrituši uz infrastruktūras vai noliekušies tādā mērā, ka tie vai to zari traucē infrastruktūras darbību:
+a) koku ciršanu var sākt pēc mutvārdu paziņojuma sniegšanas Valsts meža dienestam un Dabas aizsardzības pārvaldei, ja darbība veicama īpaši aizsargājamā dabas teritorijā, izņemot Ziemeļvidzemes biosfēras rezervāta ainavu aizsardzības zonu un neitrālo zonu,
+b) avārijas situācijas novērsējs nedēļas laikā pēc koku ciršanas informē meža īpašnieku vai tiesisko valdītāju;
+3) ja koku ciršana nepieciešama ekspluatācijas aizsargjoslās situācijās, kad koki potenciāli var apdraudēt infrastruktūras darbību, kokus cērt saskaņā ar Aizsargjoslu likumā un attiecīgā objekta aizsargjoslas noteikšanas metodikā norādīto kārtību.
 (4) Koku ciršana mežā ir aizliegta, ja zemes vienībā nav veikta meža inventarizācija, izņemot šā panta trešajā daļā minētos gadījumus, kā arī gadījumus, kad tiek veikta sauso, bojāto un vēja gāzto koku ciršana normatīvajos aktos par koku ciršanu noteiktajā kārtībā.
 (5) Aizliegts nocirst kokus, kas sasnieguši normatīvajos aktos par īpaši aizsargājamām dabas teritorijām noteikto īpaši aizsargājamo koku - dižkoku - izmēru.
