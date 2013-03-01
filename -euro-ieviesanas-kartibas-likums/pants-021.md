@@ -1,0 +1,3 @@
+21.pants. Kredītu reģistrs
+(1) Latvijas Banka euro ieviešanas dienā saistībā ar euro ieviešanu aktualizē Kredītu reģistrā iekļautās vispārīgās ziņas par klienta vai klienta galvinieka saistībām latos, ja tās nav izbeigušās vai ja no klienta līguma vai klienta galvinieka līguma izrietošās tiesības un saistības vai prasījuma tiesības nav nodotas citai personai. Latvijas Banka atbild par to, ka šajā panta daļā minēto ziņu aktualizēšana tiek veikta, ievērojot Padomes noteikto maiņas kursu un šā likuma 6.pantā noteiktos noapaļošanas principus.
+(2) Kredītu reģistra dalībnieks un reģistra dalībnieks ar ierobežotu statusu Kredītu reģistra likuma izpratnē saglabā minētajā likumā noteikto atbildību.

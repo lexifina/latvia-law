@@ -1,0 +1,4 @@
+24.pants. Valsts aizņēmumu, aizdevumu un galvojumu denominācijas maiņa
+(1) Valsts aizņēmumu, aizdevumu un galvojumu denomināciju no latiem uz euro veic, minimizējot aizņēmumu, aizdevumu un galvojumu vērtības izmaiņas.
+(2) Valsts aizņēmumu, aizdevumu un galvojumu nominālvērtība tiek izteikta euro un centos, ievērojot Padomes noteikto maiņas kursu un šā likuma 6.pantā noteiktos noapaļošanas principus.
+(3) Ja valsts vārdā noslēgtie aizņēmumu, aizdevumu un galvojumu līgumi nav pabeigti (nav atmaksāti aizdevumi un galvojumi vai ir saņemti aizņēmumi), tajos ietverto aizņēmumu, aizdevumu un galvojumu kopsumma veidojas no konvertējamām sastāvdaļām. Kopsumma pēc konvertācijas euro nedrīkst pārsniegt sākotnējo latos saņemto valsts aizņēmumu, izsniegto valsts aizdevumu un sniegto galvojumu nominālvērtību latos, kas izteikta euro, ievērojot Padomes noteikto maiņas kursu un šā likuma 6.pantā noteiktos noapaļošanas principus.

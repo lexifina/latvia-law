@@ -1,0 +1,5 @@
+13.pants. Preču un pakalpojumu cenu paralēlās atspoguļošanas periods
+(1) Preču un pakalpojumu cenu paralēlās atspoguļošanas periods sākas trīs mēnešus pirms euro ieviešanas dienas, bet ne agrāk par dienu, kad Padome noteikusi maiņas kursu, un ilgst sešus mēnešus pēc euro ieviešanas dienas.
+(2) Ministru kabinets nosaka kārtību, kādā paralēlās preču un pakalpojumu cenu atspoguļošanas periodā patērētājam - fiziskajai personai izsniegtajos norēķina dokumentos - rēķinos un dokumentos, kas apliecina par darījumu saņemto samaksu - kases čekos un numurētās un Valsts ieņēmumu dienestā reģistrētās kvītīs, - darījuma kopsummu norāda latos un euro, ievērojot Padomes noteikto maiņas kursu un šā likuma 6.pantā noteiktos noapaļošanas principus.
+(3) Kārtību, kādā notiek preču un pakalpojumu cenu paralēlā atspoguļošana, kā arī paralēlās atspoguļošanas un konvertācijas prasību kontrole, nosaka Ministru kabinets.
+(4) Cigarešu maksimālo mazumtirdzniecības cenu norāda gan latos, gan euro, ievērojot likumā "Par akcīzes nodokli" noteikto.
