@@ -9,3 +9,4 @@
 2) triju mēnešu laikā - ja pretenzija pieteikta sakarā ar pārvadājumu tiešajā jauktajā satiksmē.
 (4) Ja pārvadātājs pilnīgi vai daļēji noraida pretenziju, tas nosūta pieteicējam savu motivētu lēmumu kopā ar pretenzijai pievienotajiem dokumentiem.
 (5) Ja pārvadātājs pretenziju atzīst pilnībā (par visu summu), pretenzijai pievienotos dokumentus atpakaļ neizsniedz.
+(6) Veicot pasažieru pārvadājumus, uz kuriem attiecināma regula (ES) Nr. 181/2011, pretenzijas pieteikšanas un izskatīšanas termiņus nosaka saskaņā ar minētās regulas 27.pantu.

@@ -6,6 +6,6 @@
 3) transportlīdzekļus, kuriem veic braukšanas pārbaudi tehniskās attīstības, remonta vai apkopes mērķiem, vai pārbūvētiem transportlīdzekļiem, kuri vēl nav nodoti ekspluatācijā;
 4) transportlīdzekļus, kurus izmanto ārkārtas situācijās vai kuri paredzēti glābšanas uzdevumu veikšanai;
 5) transportlīdzekļus, kurus izmanto transportlīdzekļu vadīšanas nodarbībās, apmācot jebkuru personu, kas vēlas iegūt vadīšanas tiesības;
-6) transportlīdzekļus, kurus izmanto nekomerciālai kravu pārvadāšanai, tai skaitā pašpārvadājumiem un personiskajām vajadzībām;
+6) transportlīdzekļus, kurus izmanto nekomerciālai kravu pārvadāšanai;
 7) transportlīdzekļus, ar kuriem pārvadā materiālus vai iekārtas, kuras vadītājs izmanto sava darba laikā, ja transportlīdzekļa vadīšana nav vadītāja galvenā darbības joma.
 (3) Autovadītājiem nepieciešamās zināšanas kravas pārvadājumu veikšanai, kā arī sākotnējās un periodiskās apmācības kārtību nosaka Ministru kabinets.
