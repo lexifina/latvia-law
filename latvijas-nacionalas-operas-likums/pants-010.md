@@ -1,3 +1,0 @@
-10.pants. Nacionālās operas konsultatīvā padome
-(1) Ministru kabinets izveido Nacionālās operas konsultatīvo padomi (turpmāk - konsultatīvā padome) astoņu locekļu sastāvā un apstiprina to. Padomes sastāvā ir Kultūras ministrijas pārstāvis, Finanšu ministrijas pārstāvis, Rīgas domes pārstāvis, Kultūras ministrijas izveidotās Nacionālās kultūras padomes un Mūzikas padomes pārstāvji, Nacionālās operas arodbiedrību pilnvarots pārstāvis un divi Nacionālās operas deleģēti pārstāvji. Konsultatīvās padomes pilnvaru laiks ir divi gadi. Tā sanāk vismaz reizi ceturksnī. Konsultatīvās padomes priekšsēdētāja funkcijas veic Kultūras ministrijas pārstāvis.
-(2) Par piedalīšanos konsultatīvās padomes darbā tās locekļi atalgojumu nesaņem.

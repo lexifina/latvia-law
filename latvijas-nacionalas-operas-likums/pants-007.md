@@ -1,13 +1,15 @@
-7.pants. Nacionālās operas direktors
-(1) Nacionālās operas darbu vada direktors. Nacionālās operas direktors atbild par Nacionālās operas darbības atbilstību šim likumam un citiem normatīvajiem aktiem, kā arī Nacionālās operas statūtiem.
-(2) Nacionālās operas direktors:
-1) vada un organizē Nacionālās operas funkciju veikšanu un atbild par šo funkciju veikšanu, nodrošina Nacionālās operas darbības nepārtrauktību, bez īpaša pilnvarojuma pārstāv Nacionālo operu;
-2) nodrošina, lai Nacionālajai operai piešķirtie valsts budžeta līdzekļi tiktu izlietoti, bet Nacionālās operas manta izmantota likumīgi, ekonomiski un mērķtiecīgi;
-3) izstrādā Nacionālās operas darbības un attīstības stratēģijas projektu pieciem gadiem, gadskārtējā darbības plāna projektu un ikgadējā budžeta projektu;
-4) nosaka Nacionālās operas struktūru, amatu sarakstu un darbinieku atalgojumu, ievērojot šā likuma 8.panta otrajā daļā noteikto;
-5) pieņem darbā un atlaiž no darba Nacionālās operas darbiniekus;
-6) nosaka Nacionālās operas darbinieku kompetenci un atbildību;
-7) sniedz kultūras ministram informāciju par Nacionālās operas darbību un priekšlikumus Nacionālās operas darbības jautājumos;
-8) veic citas šajā likumā un citos normatīvajos aktos noteiktās darbības.
-(3) Uz Nacionālās operas direktora amatu izsludina atklātu konkursu laikrakstā "Latvijas Vēstnesis".
-(4) Darba līgumu ar Nacionālās operas direktoru slēdz kultūras ministrs uz laiku, kas nepārsniedz trīs gadus. Nacionālās operas direktoru amatā var iecelt atkārtoti.
+7.pants. Nacionālās operas valde
+(1) Nacionālās operas valdes (turpmāk arī - valde) sastāvā ir trīs valdes locekļi. Valdes locekli atklāta konkursa rezultātā amatā uz trim gadiem ieceļ un no amata atbrīvo kultūras ministrs.
+(2) Nacionālās operas valdes darbu vada valdes priekšsēdētājs, kuru no valdes locekļu vidus ieceļ kultūras ministrs. Šā likuma 7.¹ panta otrās daļas 1.punkta "a" apakšpunktā minētās funkcijas ir Nacionālās operas valdes priekšsēdētāja kompetencē.
+(3) Uz Nacionālās operas valdes locekļa amatu Kultūras ministrija izsludina atklātu konkursu oficiālajā izdevumā "Latvijas Vēstnesis" un informāciju par izsludināto konkursu ievieto Kultūras ministrijas mājaslapā internetā.
+(4) Par Nacionālās operas valdes locekli var būt persona:
+1) kura ieguvusi augstāko akadēmisko vai profesionālo izglītību (izņemot pirmā līmeņa profesionālo augstāko izglītību);
+2) kurai ir piecu gadu darba pieredze vadošā amatā valsts vai pašvaldības iestādē vai vidējā vai lielā kapitālsabiedrībā un kurai ir zināšanas un izpratne par valsts kapitālsabiedrības darbību un vadību;
+3) kura brīvi pārvalda valsts valodu un vismaz divas svešvalodas;
+4) kurai ir zināšanas un izpratne par kultūras nozari, īpaši par mūzikas un skatuves mākslu;
+5) kurai ir nevainojama reputācija.
+(5) Izvēloties valdes locekļus, konkursa komisija vērtē arī konkursa dalībnieka izstrādātu Nacionālās operas turpmākās darbības attīstības piedāvājumu, kurā norādīti tā īstenošanas veidi un līdzekļi. Piedāvājumu valdes locekļa kandidāts konkursa komisijai iesniedz vienlaikus ar citiem konkursa nolikumā paredzētajiem dokumentiem.
+(6) Kultūras ministrija konkursu uz valdes locekļa amatu izsludina sešus mēnešus pirms amatā esošā valdes locekļa pilnvaru termiņa beigām.
+(7) Nacionālās operas valdes locekli amatā var iecelt atkārtoti uz jaunu termiņu. Šādā gadījumā atklātu konkursu uz attiecīgā valdes locekļa amatu nerīko. Valdes loceklis, kurš pildījis valdes locekļa pienākumus divus pilnvaru termiņus pēc kārtas, ir tiesīgs pretendēt uz valdes locekļa amatu arī nākamajam pilnvaru termiņam, piedaloties atklātā konkursā uz valdes locekļa vietu.
+(8) Ja valdes loceklis atstāj amatu vai tiek atcelts no amata pirms pilnvaru termiņa beigām, kultūras ministrs konkursa kārtībā ieceļ jaunu valdes locekli uz valdes locekļa atlikušo pilnvaru laiku. Ja līdz valdes locekļa amata pilnvaru termiņa beigām ir atlikuši seši mēneši vai mazāk, kultūras ministrs var iecelt jaunu valdes locekli uz valdes locekļa atlikušo pilnvaru laiku. Šādā gadījumā atklātu konkursu uz attiecīgā valdes locekļa amatu nerīko.
+(9) Darba līgumu ar Nacionālās operas valdes locekli slēdz kultūras ministrs uz valdes locekļa pilnvaru termiņu.

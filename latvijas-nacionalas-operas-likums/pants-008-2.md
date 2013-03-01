@@ -1,0 +1,1 @@
+8. Ne vēlāk kā līdz 2013.gada 31.maijam Kultūras ministrija iesniedz komercreģistra iestādei Nacionālās operas statūtus, kas izstrādāti, ievērojot šā likuma grozījumus, kuri stājušies spēkā 2013.gada 1.martā, un kas apstiprināti normatīvajos aktos noteiktajā kārtībā.
