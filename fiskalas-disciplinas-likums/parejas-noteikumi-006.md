@@ -1,0 +1,1 @@
+6. Izdevumu izlīdzināšanu Eiropas Savienības struktūrfondu, Kohēzijas fonda, kopējās lauksaimniecības politikas un kopējās zivsaimniecības politikas projektu un pasākumu izdevumiem sāk piemērot no 2016.gada.

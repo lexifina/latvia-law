@@ -1,0 +1,2 @@
+13.pants. Izdevumu pieauguma nosacījums
+Ietvara likuma projekts izstrādājams, ievērojot izdevumu pieauguma nosacījumu, kas saskaņā ar Eiropas Parlamenta un Padomes 2011.gada 16.novembra regulas (ES) Nr. 1175/2011, ar ko groza Padomes regulu (EK) Nr. 1466/97 par budžeta stāvokļa uzraudzības un ekonomikas politikas uzraudzības un koordinācijas stiprināšanu, 9.pantu tiek piemērots, izstrādājot šajā regulas pantā minēto Eiropas Komisijas izvērtējumu.

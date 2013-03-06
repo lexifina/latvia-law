@@ -1,0 +1,1 @@
+7. Šā likuma 11.pantā minēto faktiskās vispārējās valdības budžeta strukturālās bilances un minimālās plānojamās vispārējās valdības budžeta strukturālās bilances starpību sāk aprēķināt par 2013.gadu, un pirmo aprēķinu Finanšu ministrija veic līdz 2014.gada 1.decembrim.

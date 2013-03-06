@@ -1,0 +1,1 @@
+9. Saeima, ievēlot Padomi pirmo reizi, trīs tās locekļus - šā likuma 22.panta pirmās daļas 1.punktā minētos pārstāvjus - ievēlē uz sešiem gadiem, bet šā likuma 22.panta pirmās daļas 2.punktā minētos pārstāvjus - uz trim gadiem.

@@ -1,0 +1,3 @@
+29.pants. Padomes ziņojumi
+(1) Padome līdz ietvara likuma projekta iesniegšanai Saeimā sagatavo fiskālās disciplīnas uzraudzības ziņojumu. Ziņojums tiek pievienots ietvara likuma projektam un iesniegts Saeimai. Ziņojumu publisko arī Finanšu ministrijas mājaslapā internetā.
+(2) Ja Padome atklāj šā likuma pārkāpumus vai Padomei tie kļūst zināmi, tā sagatavo neatbilstības ziņojumu, kurā ietver rekomendācijas neatbilstību novēršanai. Neatbilstības ziņojumu sagatavo nekavējoties pēc neatbilstības konstatēšanas, iesniedz Ministru kabinetam un Saeimai, kā arī publisko Finanšu ministrijas mājaslapā internetā.
