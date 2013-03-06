@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Fiskālās disciplīnas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2013/36.1",
+  "official_journal_page": null,
+  "official_journal_date": "2013-02-20",
+  "entry_into_force": "2013-03-06",
+  "notification_date": "2013-09-10",
+  "commission_reference": "MNE(2013)57739",
+  "nim_celex": "72011L0085LVA_208967",
+  "nim_id": "208967",
+  "transposes_celex": [
+    "32011L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9fe809f7-a64e-4293-a09b-a1eb5920fcc6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
