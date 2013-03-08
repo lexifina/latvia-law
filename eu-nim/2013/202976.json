@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru prezidenta 2013.gada 8.marta rīkojums Nr.85 \"Par darba grupu Programmas cilvēku tirdzniecības novēršanai 2009.–2013.gadam īstenošanas koordinēšanai\"",
+  "type_of_act": "Administrative measures",
+  "official_journal": "Administrative measures",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2013-03-08",
+  "entry_into_force": "2013-03-08",
+  "notification_date": null,
+  "commission_reference": "MNE(2013)52592",
+  "nim_celex": "72011L0036LVA_202976",
+  "nim_id": "202976",
+  "transposes_celex": [
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/41923b05-5c33-4090-9340-dbf9a1f6723c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
