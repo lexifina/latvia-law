@@ -1,0 +1,1 @@
+4. HES hidrotehnisko būvju valdītājs, kurš HES hidrotehnisko būvju drošuma deklarāciju un tajā iekļauto pārskatu par drošuma programmas izpildi iesniedzis Sabiedrisko pakalpojumu regulēšanas komisijai 2012.gadā, nākamo drošuma deklarāciju iesniedz Ekonomikas ministrijai ne vēlāk kā līdz 2014.gada 1.jūnijam.
