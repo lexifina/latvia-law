@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "05.02.2013. MK noteikumi Nr.84 \"Noteikumi par atsevišķu ķīmisku vielu lietošanas ierobežojumiem elektriskajās un elektroniskajās iekārtās\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "47",
+  "official_journal_page": null,
+  "official_journal_date": "2013-03-07",
+  "entry_into_force": "2013-03-08",
+  "notification_date": "2013-04-09",
+  "commission_reference": "MNE(2013)52623",
+  "nim_celex": "72012L0050LVA_203007",
+  "nim_id": "203007",
+  "transposes_celex": [
+    "32012L0050"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/27a72d22-a712-4fc7-85da-9bfa931ead28",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
