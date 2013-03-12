@@ -1,2 +1,7 @@
-74.pants. Zaudējumu atlīdzināšanas kārtība
-Karavīrs var labprātīgi pilnībā vai daļēji atlīdzināt juridiskajai personai nodarītos zaudējumus. Ar juridiskās personas piekrišanu karavīrs, lai atlīdzinātu zaudējumus, var nodot tai līdzvērtīgu lietu vai izlabot bojājumu.
+74.pants. Zaudējumu atlīdzināšanas un ieturējumu izdarīšanas kārtība
+(1) Karavīrs var labprātīgi pilnībā vai daļēji atlīdzināt juridiskajai personai nodarītos zaudējumus. Ar juridiskās personas piekrišanu karavīrs, lai atlīdzinātu zaudējumus, var nodot tai līdzvērtīgu lietu vai izlabot bojājumu.
+(2) Ieturējumus, kas izriet no juridiskās personas atprasījuma tiesībām, var izdarīt no karavīram izmaksājamās mēnešalgas, dodot rakstveida rīkojumu par ieturējumu izdarīšanu ne vēlāk kā divu mēnešu laikā no pārmaksātās summas izmaksas dienas vai avansa atmaksāšanai noteiktā termiņa izbeigšanās dienas, par to nekavējoties paziņojot karavīram, lai atprasītu:
+1) summas, kas pārmaksātas juridiskās personas maldības dēļ, ja karavīrs par šo pārmaksājumu ir zinājis vai viņam atbilstoši apstākļiem to vajadzēja zināt vai ja pārmaksājums pamatojas uz tādiem apstākļiem, kuros vainojams karavīrs;
+2) avansu, kas izmaksāts uz mēnešalgas rēķina, kā arī neizlietoto un laikā neatmaksāto avansu, kas izmaksāts karavīram sakarā ar komandējumu.
+(3) Juridiskajai personai ir tiesības ieturēt no karavīram izmaksājamās mēnešalgas to zaudējumu apmēru, kas šai personai radies karavīra prettiesiskas, vainojamas rīcības dēļ. Šāda ieturējuma izdarīšanai nepieciešama karavīra rakstveida piekrišana.
+(4) Ja karavīrs apstrīd juridiskās personas atprasījuma tiesību vai zaudējumu atlīdzības pamatu vai apmēru, juridiskā persona var celt atbilstošu prasību tiesā divu gadu laikā no pārmaksātās summas izmaksas dienas, avansa atmaksāšanai noteiktā termiņa izbeigšanās dienas vai zaudējumu nodarīšanas dienas. Ieturējumu apmēru nosaka un tos veic, ievērojot Civilprocesa likumā noteiktos ierobežojumus.

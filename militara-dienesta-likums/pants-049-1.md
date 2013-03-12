@@ -1,0 +1,2 @@
+49.¹ pants. Izglītības un kultūras pasākumu nodrošināšana starptautisko operāciju rajonos
+Aizsardzības ministrija, tai piešķirto budžeta līdzekļu ietvaros sedzot visus nepieciešamos izdevumus, var nodrošināt došanos uz starptautiskās operācijas rajonu, uzturēšanos tajā un atgriešanos Latvijā civilpersonām, kuras īsteno starptautiskās operācijas rajonā esošās Nacionālo bruņoto spēku vienības personālam paredzētos izglītības vai kultūras pasākumus.

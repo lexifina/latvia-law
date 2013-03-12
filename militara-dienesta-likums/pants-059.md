@@ -1,7 +1,8 @@
 59.pants. Atvaļināto karavīru sociālās garantijas
 (1) Atvaļinātajam karavīram piešķir izdienas pensiju saskaņā ar Militārpersonu izdienas pensiju likumu.
-(2) Atvaļinātais karavīrs saglabā tiesības saņemt apmaksātu veselības aprūpi tādā pašā kārtībā kā profesionālā dienesta karavīrs, ja:
+(2) Atvaļinātais karavīrs saglabā tiesības saņemt apmaksātu veselības aprūpi Ministru kabineta noteiktajā kārtībā un apjomā, ja:
 1) viņš ir atvaļināts no aktīvā dienesta invaliditātes, ievainojuma (sakropļojuma, kontūzijas) dēļ, kas iegūts dienesta laikā, pildot dienesta pienākumus, vai slimības dēļ, kuras cēlonis saistīts ar militārā dienesta izpildi (arodslimība);
 2) viņš ir atvaļināts no aktīvā dienesta sakarā ar aktīvajam dienestam noteiktā maksimālā vecuma sasniegšanu vai pēc aktīvajam dienestam noteiktā maksimālā vecuma sasniegšanas šā likuma 41.panta otrajā, trešajā un ceturtajā daļā noteiktajos gadījumos un viņam ir piešķirta izdienas pensija.
 (3) Maksimālā vecuma sasniegšanas dēļ no aktīvā dienesta atvaļinātu karavīru, ja viņa izdienas stāžs nav mazāks par 35 gadiem vai atvaļināšana notikusi ievainojuma (sakropļojuma) vai slimības dēļ, kas iegūta dienesta laikā, pildot dienesta pienākumu, nāves gadījumā, kas nav saistīts ar viņa ļaunprātīgu vai nepiedienīgu rīcību, miera laikā apbedī par valsts līdzekļiem Ministru kabineta noteiktajā kārtībā.
 (4) Latvijas armijas karavīri, kuri līdz 1940.gada 21.jūlijam dienējuši Latvijas armijā un saņem speciālo piemaksu pie valsts pensijas Ministru kabineta noteiktajā kārtībā, saglabā tiesības saņemt apmaksātu veselības aprūpi tādā pašā kārtībā kā profesionālā dienesta karavīrs.
+(5) Atvaļinātajam karavīram, kuram izsniegta starptautisko operāciju veterāna apliecība, ir tiesības, ja nepieciešams, saņemt apmaksātu Nacionālo bruņoto spēku psihologu palīdzību.

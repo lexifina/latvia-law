@@ -10,4 +10,5 @@
 7¹) mēneša mēnešalgas samazināšana līdz 20 procentiem uz laiku, kas nav ilgāks par sešiem mēnešiem;
 8) atvaļināšana no dienesta pirms līgumā paredzētā laika.
 (2) Stingro uzraudzību un arestu nepiemēro virsniekiem un augstākajiem instruktoriem.
-(3) Militārās disciplīnas pārkāpumu izmeklēšanas, izskatīšanas, disciplinārsodu uzlikšanas un izpildes kārtību nosaka Karavīru militārās disciplīnas reglaments.
+(3) Militārās disciplīnas pārkāpumu izmeklēšanas, izskatīšanas, disciplinārsodu uzlikšanas un izpildes kārtību nosaka Karavīru un zemessargu militārās disciplīnas reglaments.
+(4) Šā panta pirmās daļas 7. un 8.punktā minēto disciplinārsodu apstrīdēšana vai pārsūdzēšana neaptur to izpildi.
