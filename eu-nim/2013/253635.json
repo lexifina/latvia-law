@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Centrālās statistikas pārvaldes 2013. gada 13. marta noteikumi Nr.140-NOR/2013 „No atjaunojamajiem energoresursiem saražotas enerģijas īpatsvara aprēķināšana”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "CSP",
+  "official_journal_page": null,
+  "official_journal_date": "2013-03-13",
+  "entry_into_force": "2013-03-13",
+  "notification_date": "2017-12-15",
+  "commission_reference": "MNE(2017)56909",
+  "nim_celex": "72015L1513LVA_253635",
+  "nim_id": "253635",
+  "transposes_celex": [
+    "32015L1513"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fac4a7ef-ac90-4c1d-a163-45492334106b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
