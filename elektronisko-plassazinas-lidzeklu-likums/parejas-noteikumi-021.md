@@ -1,0 +1,1 @@
+21. Šā likuma grozījumi par 13.panta izteikšanu jaunā redakcijā, 19.panta papildināšanu ar 1.¹ daļu, kā arī par 18.panta septītās daļas un 19.panta trešās daļas izteikšanu jaunā redakcijā stājas spēkā 2014.gada 1.janvārī.

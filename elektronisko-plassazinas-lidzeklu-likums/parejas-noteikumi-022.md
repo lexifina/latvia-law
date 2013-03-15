@@ -1,0 +1,1 @@
+22. Līdz 2013.gada 31.martam Ministru kabinets izdod šā likuma 72.panta otrajā daļā minēto konkursa par maksas televīzijas pakalpojuma sniegšanu nolikumu un trešajā daļā minētās starpinstitucionālās komisijas nolikumu.

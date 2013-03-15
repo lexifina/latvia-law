@@ -6,5 +6,5 @@
 (5) Ja konkursa uzvarētājs 12 mēnešu laikā no dienas, kad stājies spēkā lēmums par konkursa rezultātiem, neizņem apraides atļauju vai 15 mēnešu laikā neuzsāk darbību, Nacionālā elektronisko plašsaziņas līdzekļu padome minēto lēmumu atceļ un izsludina jaunu konkursu.
 (6) Apraides atļaujas termiņam beidzoties, elektroniskajam plašsaziņas līdzeklim bez konkursa tiek izsniegta jauna apraides atļauja, ja ar spēkā stājušos tiesas spriedumu pēdējā tā darbības gadā nav konstatēti šā likuma pārkāpumi.
 (7) Elektroniskajiem plašsaziņas līdzekļiem, kuriem izsniegta apraides atļauja apraidei analogajā formātā, ir tiesības saņemt frekvenču spektra piešķīruma lietošanas atļauju un Elektronisko sakaru likumā noteiktajā kārtībā ierīkot savus izplatīšanas līdzekļus un izmantot sakaru komersantu sniegtos programmu izplatīšanas pakalpojumus.
-(8) Elektroniskajiem plašsaziņas līdzekļiem, kuriem izsniegta apraides atļauja, ir pienākums nodrošināt atļaujā noteikto programmas apraides aptveršanas zonu.
+(8) Elektroniskajiem plašsaziņas līdzekļiem, kuriem izsniegta apraides atļauja, ir pienākums nodrošināt atļaujā noteikto apraides aptveršanas zonu.
 (9) Ja elektroniskā plašsaziņas līdzekļa darbība tiek izbeigta, apraides atļauja uzskatāma par nederīgu un nododama Nacionālajai elektronisko plašsaziņas līdzekļu padomei.

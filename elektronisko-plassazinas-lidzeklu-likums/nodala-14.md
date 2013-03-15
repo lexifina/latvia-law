@@ -1,1 +1,1 @@
-XIV nodaļa. Televīzijas programmu zemes apraide ciparformātā
+XIV nodaļa. Maksas televīzijas pakalpojuma nodrošināšana zemes apraidē

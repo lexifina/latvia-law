@@ -12,6 +12,7 @@ Likumā ir lietoti šādi termini:
 10) ilgstoša reklāma - reklāmas sižets, kura ilgums pārsniedz 90 sekundes;
 11) interaktīvā (mijiedarbības) reklāma - reklāmas forma, kuras izmantošanas laikā skatītājam tiek dota iespēja piekļūt detalizētākam reklāmas saturam;
 12) kabeļtelevīzija - programmu un raidījumu izplatīšana, izmantojot galvenokārt kabeli;
+12¹) maksas televīzija - par maksu nodrošināta piekļuve elektroniskā plašsaziņas līdzekļa televīzijas programmai;
 13) neatkarīgais producents - privātpersona, kas nav elektroniskais plašsaziņas līdzeklis, bet veido filmas, reklāmu, atsevišķus radio, televīzijas raidījumus vai nodarbojas ar programmu veidošanu;
 14) pašreklāma - paziņojumi, kurus elektroniskais plašsaziņas līdzeklis izplata savā programmā vai raidījumu katalogā, informējot par savu programmu vai raidījumiem, vai par atvasinātiem darbiem, kas tieši iegūti no programmas vai raidījumiem;
 15) privātpersona - fiziskā persona, privāto tiesību juridiskā persona vai šādu personu apvienība;
@@ -27,7 +28,7 @@ Likumā ir lietoti šādi termini:
 25) raidstunda - laika posms, kas ilgst no katras attiecīgās diennakts pilnas stundas pirmās minūtes līdz pēdējai minūtei, to ieskaitot;
 26) reklāma - jebkurš paziņojums, kas tiek izplatīts par samaksu vai citu atlīdzību, kā arī ar tirdzniecību, uzņēmējdarbību, amatu vai profesiju saistīts jebkuras personas raidījums, kas tiek veidots reklāmas nolūkā, lai veicinātu preču, tai skaitā nekustamā īpašuma vai pakalpojumu, tiesību un pienākumu, piedāvājumu par samaksu vai citu atlīdzību, kā arī politiskā reklāma;
 27) reklāmas klips - reklāmas sižets, kura ilgums nepārsniedz 90 sekundes;
-28) retranslācija - Latvijā vai ārvalstīs izplatītas programmas uztveršana un tūlītēja pilnīga vai daļēja izplatīšana citā publiskā elektronisko sakaru tīklā, neizdarot programmā vai raidījuma saturā nekādus grozījumus. Par satura grozījumiem nav uzskatāma programmas vai raidījuma tulkošana (dublējot vai subtitrējot), ja tā izdarīta ar programmas tiesību turētāja piekrišanu. Par retranslāciju nav uzskatāma televīzijas programmu zemes apraides ciparformātā nodrošināšana šā likuma 72.panta sestās daļas izpratnē;
+28) retranslācija - Latvijā vai ārvalstīs izplatītas programmas uztveršana un tūlītēja pilnīga vai daļēja izplatīšana citā publiskā elektronisko sakaru tīklā, neizdarot programmā vai raidījuma saturā nekādus grozījumus. Par satura grozījumiem nav uzskatāma programmas vai raidījuma tulkošana (dublējot vai subtitrējot), ja tā izdarīta ar programmas tiesību turētāja piekrišanu;
 29) sabiedriskais pasūtījums - sabiedrībai paredzēts plašs un daudzveidīgs programmu kopums, kuru finansē un uzrauga sabiedrība;
 30) satelīttelevīzija un satelītradio - programmu un raidījumu izplatīšana, izmantojot satelītu;
 31) slēpts audio un audiovizuāls elektroniskā plašsaziņas līdzekļa komerciāls paziņojums - preču, pakalpojumu, nosaukumu, preču zīmju, preču ražotāja vai pakalpojumu sniedzēja darbību atveidojums vārdu vai attēlu veidā, ja šādu atveidojumu elektroniskais plašsaziņas līdzeklis ir apzināti iecerējis kā audio vai audiovizuālu komerciālu paziņojumu, bet tas varētu maldināt sabiedrību par šā paziņojuma būtību. Šāds atveidojums jo īpaši uzskatāms par apzināti iecerētu, ja tā izvietošana notiek par samaksu vai citu atlīdzību;
@@ -36,4 +37,4 @@ Likumā ir lietoti šādi termini:
 34) televīzijas veikals - tiešs sabiedrībai adresēts audiovizuāls paziņojums nolūkā piedāvāt par samaksu vai citu atlīdzību preces, tai skaitā nekustamo īpašumu vai pakalpojumus, tiesības un pienākumus;
 35) virtuālā reklāma - reklāma, kas tiek elektroniski izvietota uz kadra attēla raidījuma laikā;
 36) zemes raidītājs - raidītājs, kas pārraida elektronisko plašsaziņas līdzekļu programmas un raidījumus, izplatot signālu ar antenas palīdzību bez mākslīga vadītāja jebkuru tādu radiosakaru nodrošināšanai, kuri nav izplatījuma radiosakari vai radioastronomija;
-37) zemes stacija - uz zemes virsmas izvietota elektronisko sakaru tīkla galastacija elektronisko plašsaziņas līdzekļu programmu un raidījumu nogādāšanai līdz raidīšanas tehniskajiem līdzekļiem, kas atrodas izplatījumā.
+37) Zemes stacija - uz zemes virsmas izvietota elektronisko sakaru tīkla galastacija elektronisko plašsaziņas līdzekļu programmu un raidījumu nogādāšanai līdz raidīšanas tehniskajiem līdzekļiem, kas atrodas izplatījumā.
