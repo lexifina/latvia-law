@@ -1,0 +1,5 @@
+5.pants
+Nodokļu pārbaudes ārvalstī
+1. Pēc Pieprasītājas Puses kompetentās iestādes pieprasījuma, Saņēmējas Puses kompetentā iestāde ar iesaistīto personu iepriekšēju rakstisku piekrišanu var atļaut Pieprasītājas Puses kompetentās iestādes pārstāvjiem ierasties tās teritorijā, lai intervētu fiziskās personas un pārbaudītu ierakstus. Pieprasītājas Puses kompetentā iestāde paziņo Saņēmējas Puses kompetentajai iestādei paredzētās tikšanās laiku un vietu.
+2. Pēc Pieprasītājas Puses kompetentās iestādes pieprasījuma, Saņēmējas Puses kompetentā iestāde var atļaut Pieprasītājas Puses kompetentās iestādes pārstāvjiem piedalīties nodokļu pārbaudē, kas tiek veikta Saņēmējas Puses teritorijā.
+3. Ja pieprasījums, kas ir minēts šī panta otrajā daļā, tiek apmierināts, Saņēmējas Puses kompetentā iestāde, kas veic pārbaudi, cik ātri vien iespējams paziņo Pieprasītājas Puses kompetentajai iestādei par pārbaudes laiku un vietu, iestādi vai amatpersonu, kas ir norīkota veikt pārbaudi, un Saņēmējas Puses pārbaudes veikšanas kārtību un nosacījumus. Visus lēmumus par pārbaudes veikšanu pieņem Saņēmēja Puse, kura veic pārbaudi.

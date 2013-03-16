@@ -1,0 +1,1 @@
+1.pants. 2012.gada 5.septembrī Londonā parakstītais Latvijas Republikas valdības un Gērnsi Valstu līgums par informācijas apmaiņu attiecībā uz nodokļiem (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.

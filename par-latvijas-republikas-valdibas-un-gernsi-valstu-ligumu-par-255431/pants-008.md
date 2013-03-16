@@ -1,0 +1,3 @@
+8.pants
+Izmaksas
+Netiešās izmaksas, kas rodas, sniedzot palīdzību, sedz Saņēmēja Puse, un tiešās izmaksas, kas rodas, sniedzot palīdzību, (ieskaitot izmaksas par ārēju padomdevēju piesaistīšanu saistībā ar tiesvedību vai citādi) sedz Pieprasītāja Puse, ja vien Pušu kompetentās iestādes nevienojas par citiem noteikumiem. Attiecīgās kompetentās iestādes laiku pa laikam konsultējas par šī panta piemērošanu, un it īpaši Saņēmējas Puses kompetentā iestāde jau iepriekš konsultējas ar Pieprasītājas Puses kompetento iestādi, ja ir sagaidāmas būtiskas informācijas sniegšanas izmaksas attiecībā uz konkrētu pieprasījumu.
