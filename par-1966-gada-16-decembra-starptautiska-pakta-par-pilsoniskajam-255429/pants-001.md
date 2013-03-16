@@ -1,0 +1,1 @@
+1.pants. 1966.gada 16.decembra Starptautiskā pakta par pilsoniskajām un politiskajām tiesībām 2.fakultatīvais protokols par nāves soda atcelšanu (turpmāk - 2.fakultatīvais protokols) ar šo likumu tiek pieņemts un apstiprināts.
