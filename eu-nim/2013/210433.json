@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2013.gada 21.marta rīkojums Nr.100 \"Par Atkritumu apsaimniekošanas valsts plānu 2013.-2020.gadam\"",
+  "type_of_act": "Ministru kabineta rīkojums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "59 (4865)",
+  "official_journal_page": null,
+  "official_journal_date": "2013-03-25",
+  "entry_into_force": "2013-03-21",
+  "notification_date": "2013-11-07",
+  "commission_reference": "MNE(2013)58883",
+  "nim_celex": "72008L0098LVA_210433",
+  "nim_id": "210433",
+  "transposes_celex": [
+    "32008L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/95bdc220-71ac-4af5-9f9a-4d4b026cec4e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
