@@ -1,1 +1,1 @@
-30.² Būvniecības, enerģētikas un mājokļu valsts aģentūra vai pašvaldības dome lēmumu par dzīvojamās mājas privatizācijas uzsākšanu pieņem ne vēlāk kā līdz 2012.gada 31.decembrim.
+30.² Valsts akciju sabiedrība "Privatizācijas aģentūra" vai pašvaldības dzīvojamo māju privatizācijas komisija lēmumu par dzīvojamās mājas privatizācijas uzsākšanu pieņem ne vēlāk kā līdz 2014.gada 31.decembrim.

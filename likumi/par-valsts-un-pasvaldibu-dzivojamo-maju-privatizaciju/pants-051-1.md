@@ -5,26 +5,8 @@
 2) dzīvojamās mājas pārvaldīšanas līguma projektu;
 3) balsošanas biļetena veidlapu, kurā paredzēta arī iespēja izteikt dzīvokļa īpašnieka atšķirīgo viedokli;
 4) citus dokumentus, kuriem var būt nozīme lēmuma pieņemšanā.
-(3) Uzaicinājumā norāda termiņu, kurā dzīvokļa īpašnieks rakstveidā var balsot "par" vai "pret" lēmuma pieņemšanu. Šis termiņš nedrīkst būt īsāks par četrām nedēļām no uzaicinājuma izsūtīšanas dienas. Ja dzīvokļa īpašnieks noteiktajā termiņā nav devis rakstveida atbildi, pieņemams, ka viņš balsojis "pret" lēmuma pieņemšanu.
-(4) Dzīvojamās mājas pārvaldīšanas līguma projektā iekļaujami šādi nosacījumi:
-1) līdzēji;
-2) dzīvojamās mājas adrese;
-3) pilnvarotajai personai uzdoto obligāti veicamo pārvaldīšanas darbību uzskaitījums;
-4) pilnvarotajai personai uzdotās citas atbilstoši dzīvokļu īpašnieku gribai veicamās pārvaldīšanas darbības, tajā skaitā darbības, kas saistītas ar mājas uzlabošanu un attīstīšanu;
-5) termiņi un kārtība, kādā sniedzams pārskats par pārvaldīšanas uzdevuma izpildi, tajā skaitā pārskats par pilnvarotās personas rīcībā nodoto finanšu līdzekļu izlietošanu;
-6) kārtība, kādā pilnvarotā persona sniedz informāciju dzīvokļu īpašniekiem;
-7) jautājumi, kuros dzīvokļu īpašnieki pilnvarojuši pilnvaroto personu pieņemt lēmumus viņu vietā, kā arī slēgt līgumus viņu vārdā;
-8) ar pārvaldīšanas uzdevuma izpildi saistīto pārvaldīšanas izdevumu apmērs, to noteikšanas un maksāšanas kārtība, atsevišķi norādot:
-a) dzīvojamās mājas uzturēšanas obligāto izdevumu apmēru, to noteikšanas un maksāšanas kārtību,
-b) citu izdevumu, tajā skaitā dzīvojamās mājas uzlabošanai un attīstīšanai nepieciešamo izdevumu apmēru, to noteikšanas un maksāšanas kārtību,
-c) atlīdzības par pārvaldīšanu apmēru, tās noteikšanas un maksāšanas kārtību;
-9) noteikumi ar dzīvojamās mājas pārvaldīšanu saistītās informācijas sniegšanai valsts un pašvaldību iestādēm;
-10) pārpilnvarojuma apjoms, ja dzīvokļu īpašnieki vienojas par pārvaldīšanas uzdevuma tālākdošanu;
-11) pārvaldīšanas līguma termiņš un spēkā stāšanās laiks;
-12) līguma grozīšanas un izbeigšanas kārtība;
-13) no pārvaldīšanas līguma izrietošo saistību un lietu pārņemšanas kārtība līguma grozīšanas vai izbeigšanas gadījumā;
-14) pilnvarotās personas atbildības apjoms un tās iestāšanās laiks;
-15) pilnvarojums pilnvarotajai personai iesniegt pieteikumu pašvaldībai vai valsts dzīvojamās mājas valdītājam par dzīvojamās mājas pārņemšanu.
+(3) Uzaicinājumā norāda termiņu, kurā dzīvokļa īpašnieks rakstveidā var balsot "par" vai "pret" lēmuma pieņemšanu. Šis termiņš nedrīkst būt īsāks par divām nedēļām no uzaicinājuma izsūtīšanas dienas. Ja dzīvokļa īpašnieks noteiktajā termiņā nav devis rakstveida atbildi, pieņemams, ka viņš balsojis "pret" lēmuma pieņemšanu.
+(4) Dzīvojamās mājas pārvaldīšanas līguma projektā iekļaujamas Dzīvojamo māju pārvaldīšanas likumā noteiktās pārvaldīšanas līgumā norādāmās ziņas un nosacījumi.
 (5) Ievērojot šā panta pirmajā un otrajā daļā noteikto, lēmuma pieņemšanas procedūras ietvaros ierosinātājs raksta protokolu par balsošanas rezultātiem un piecu darba dienu laikā nosūta to visiem dzīvokļu īpašniekiem. Balsošanas protokolā norāda:
 1) uzaicinājuma izsūtīšanas dienu un dzīvokļu īpašniekiem noteikto balsošanas termiņu;
 2) pieņemto lēmumu un ar to saistītās balsošanas rezultātus;
