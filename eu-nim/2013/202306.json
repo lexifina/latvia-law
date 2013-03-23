@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "26.02.2013. MK noteikumi Nr.112 \"Emisijas kvotu piešķiršanas kārtība stacionāro tehnoloģisko iekārtu operatoriem\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "58(4864)",
+  "official_journal_page": null,
+  "official_journal_date": "2013-03-22",
+  "entry_into_force": "2013-03-23",
+  "notification_date": "2013-03-22",
+  "commission_reference": "MNE(2013)52062",
+  "nim_celex": "72009L0029LVA_202306",
+  "nim_id": "202306",
+  "transposes_celex": [
+    "32009L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/71f198f5-e535-4981-8074-0c9d040309e7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
