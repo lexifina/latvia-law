@@ -1,5 +1,5 @@
 33.pants. Dzelzceļa tehniskās ekspluatācijas kontroles un uzraudzības institūcija
-(1) Dzelzceļa tehniskās ekspluatācijas kontroli un uzraudzību Latvijā veic Valsts dzelzceļa tehniskā inspekcija.
+(1) Dzelzceļa tehniskās ekspluatācijas kontroli un uzraudzību Latvijā veic Valsts dzelzceļa tehniskā inspekcija, kura organizatoriski, juridiski un lēmumu pieņemšanā ir neatkarīga no pārvadātājiem, dzelzceļa infrastruktūras pārvaldītājiem, no iesniegumu par tās kompetencē esošo jautājumu iesniedzējiem un dzelzceļa publisko iepirkumu izpildītājiem.
 (2) Valsts dzelzceļa tehniskā inspekcija atrodas Satiksmes ministrijas padotībā, kura tiek īstenota pārraudzības formā.
 (3) Valsts dzelzceļa tehniskās inspekcijas galvenās funkcijas ir:
 1) kontrolēt dzelzceļa ekspluatācijas un tās drošības jautājumos pieņemtajos likumos un citos normatīvajos aktos noteikto prasību izpildi;
