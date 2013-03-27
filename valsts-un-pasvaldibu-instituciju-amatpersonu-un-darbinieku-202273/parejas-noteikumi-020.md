@@ -1,0 +1,1 @@
+20. Tiesnešiem, kuriem līdz 2013.gada 1.janvārim piešķirta piemaksa par kvalifikācijas klasi, piešķirtās piemaksas apmērs saglabājas. Ja līdz 2013.gada 1.janvārim tiesnesim piešķirta piemaksa par kvalifikācijas klasi 35 procentu apmērā no tiesneša mēnešalgas, turpmāk piemaksa par tiesneša amatā nostrādāto laiku tiesnesim netiek paaugstināta.

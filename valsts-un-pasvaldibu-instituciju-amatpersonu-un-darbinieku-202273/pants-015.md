@@ -2,12 +2,12 @@
 (1) Amatpersona (darbinieks) saņem speciālās piemaksas par darbu (dienestu), kas saistīts ar īpašu risku, par nosacījumiem, kas saistīti ar amata (dienesta, darba) specifiku, par diplomātisko rangu, izdienu un speciālo dienesta pakāpi. Speciālās piemaksas, to apmērus un piešķiršanas un izmaksas kārtību reglamentē Ministru kabinets.
 (2) Par īpašu risku šā likuma izpratnē uzskatāms amats (dienests, darbs), kas saskaņā ar darba vides risku novērtējumu ir saistīts ar tik lielā mērā paaugstinātu psiholoģisko vai fizisko slodzi vai risku darbinieka drošībai un veselībai, ka to nevar novērst vai samazināt līdz pieļaujamam līmenim ar darba aizsardzības pasākumiem.
 (3) Pašvaldības amatpersonai (darbiniekam) speciālās piemaksas par darbu, kas saistīts ar īpašu risku, un par nosacījumiem, kuri saistīti ar amata (darba) specifiku, kā arī to amatpersonu (darbinieku) sarakstu, kurām šādas piemaksas pienākas, un šo piemaksu apmēru nosaka attiecīgās pašvaldības dome. Piemaksu apmērs nedrīkst pārsniegt tiešās pārvaldes iestāžu amatpersonām (darbiniekiem) Ministru kabineta noteikto speciālo piemaksu apmēru.
-(4) Tiesnesim, izņemot Satversmes tiesas tiesnesi, nosaka piemaksu par kvalifikācijas klasi šādā apmērā:
-1) par piekto kvalifikācijas klasi - 7 procenti no mēnešalgas;
-2) par ceturto kvalifikācijas klasi - 14 procentu no mēnešalgas;
-3) par trešo kvalifikācijas klasi - 21 procents no mēnešalgas;
-4) par otro kvalifikācijas klasi - 28 procenti no mēnešalgas;
-5) par pirmo kvalifikācijas klasi - 35 procenti no mēnešalgas.
+(4) Ja tiesnesis tiesneša profesionālās darbības kārtējā novērtēšanā saņēmis pozitīvu atzinumu, tiesnesim, izņemot Satversmes tiesas tiesnesi, nosaka izdienas piemaksu pie mēnešalgas šādā apmērā:
+1) pēc trim amatā nostrādātiem gadiem - 7 procenti no mēnešalgas;
+2) pēc sešiem amatā nostrādātiem gadiem - 14 procenti no mēnešalgas;
+3) pēc 10 amatā nostrādātiem gadiem - 21 procents no mēnešalgas;
+4) pēc 15 amatā nostrādātiem gadiem - 28 procenti no mēnešalgas;
+5) pēc 20 amatā nostrādātiem gadiem - 35 procenti no mēnešalgas.
 (5) Prokuroram nosaka piemaksu par prokurora amata pakāpi šādā apmērā:
 1) jaunākajam tieslietu padomniekam - 7 procenti no mēnešalgas;
 2) tieslietu padomniekam - 14 procentu no mēnešalgas;

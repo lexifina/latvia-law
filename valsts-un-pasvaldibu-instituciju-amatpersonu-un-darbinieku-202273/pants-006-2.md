@@ -1,5 +1,5 @@
 6.² pants. Prokurora mēnešalga
-(1) Prokurora mēnešalgu nosaka, rajona (pilsētas) tiesas tiesneša bez kvalifikācijas klases mēnešalgai piemērojot šādu koeficientu:
+(1) Prokurora mēnešalgu nosaka, rajona (pilsētas) tiesas tiesneša mēnešalgai piemērojot šādu koeficientu:
 1) rajona (republikas pilsētas) prokuroram - 0,98;
 2) rajona (republikas pilsētas) prokuratūras virsprokurora vietniekam - 1,05;
 3) rajona (republikas pilsētas) prokuratūras virsprokuroram - 1,14;
