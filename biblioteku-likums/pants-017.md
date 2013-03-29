@@ -22,4 +22,4 @@
 3) finanšu līdzekļi, kurus noteiktu uzdevumu veikšanai saskaņā ar savstarpēju vienošanos piešķir pašvaldības, kas pieņēmušas saskaņotu lēmumu par attiecīgās bibliotēkas izvirzīšanu reģiona galvenās bibliotēkas statusam.
 (6) Bibliotēku darbībai nepieciešamā finansējuma normatīvus nosaka Ministru kabinets.
 (7) Privātās bibliotēkas finansē atbilstoši to nolikumā (statūtos) noteiktajai kārtībai.
-(8) Bibliotēkas var saņemt arī valsts budžetā vai pašvaldību budžetos paredzētos finansu līdzekļus īpašu ar bibliotēku darbību, attīstību un zinātnisko pētniecību saistītu projektu un programmu realizēšanai.
+(8) Bibliotēkas var saņemt arī valsts budžetā vai pašvaldību budžetos paredzētos finansu līdzekļus īpašu ar bibliotēku darbību, attīstību un zinātnisko pētniecību saistītu projektu un programmu realizēšanai. Datoru, interneta un vispārpieejamo elektroniskās informācijas resursu publisku pieejamību pašvaldību bibliotēkās nodrošina, izmantojot valsts budžeta līdzfinansējumu.
