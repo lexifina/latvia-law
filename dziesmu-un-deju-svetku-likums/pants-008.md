@@ -20,7 +20,7 @@
 14) pašvaldību kultūras centru pārstāvis;
 15) nevalstisko organizāciju pārstāvis.
 (4) Dziesmu un deju svētku padomes sastāvā, ja nepieciešams, var iekļaut arī citus ministrus un citu institūciju un organizāciju pārstāvjus.
-(5) Dziesmu un deju svētku padomes darbību organizatoriski un materiāltehniski nodrošina Kultūrizglītības un nemateriālā mantojuma centrs.
+(5) Dziesmu un deju svētku padomes darbību organizatoriski un materiāltehniski nodrošina Latvijas Nacionālais kultūras centrs.
 (6) Dziesmu un deju svētku padome:
 1) ierosina Dziesmu un deju svētku tradīcijas saglabāšanas un attīstības plānošanas dokumentu izstrādi un sniedz atzinumus par to projektiem;
 2) (izslēgts ar 14.07.2011. likumu);

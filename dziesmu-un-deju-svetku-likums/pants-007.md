@@ -24,6 +24,6 @@
 6) valsts budžeta sagatavošanu reglamentējošos normatīvajos aktos noteiktajā kārtībā iesniedz Ministru kabinetam Latvijas Skolu jaunatnes dziesmu un deju svētku un to sagatavošanas procesa budžeta projektu.
 (4) Iekšlietu ministrija Dziesmu un deju svētku laikā nodrošina sabiedrisko kārtību un drošību.
 (5) Veselības ministrija Dziesmu un deju svētku laikā nodrošina neatliekamo medicīnisko palīdzību svētku dalībniekiem un skatītājiem.
-(6) Vispārējo latviešu dziesmu un deju svētku rīkotājs ir Kultūrizglītības un nemateriālā mantojuma centrs.
+(6) Vispārējo latviešu dziesmu un deju svētku rīkotājs ir Latvijas Nacionālais kultūras centrs.
 (7) Latvijas Skolu jaunatnes dziesmu un deju svētku rīkotājs ir Valsts izglītības satura centrs.
-(8) Dziesmu un deju svētku starplaikā Kultūrizglītības un nemateriālā mantojuma centrs un Valsts izglītības satura centrs sniedz metodisku atbalstu starpsvētku norišu plānošanā un īstenošanā sadarbībā ar valsts un pašvaldību institūcijām un nevalstiskajām organizācijām.
+(8) Dziesmu un deju svētku starplaikā Latvijas Nacionālais kultūras centrs un Valsts izglītības satura centrs sniedz metodisku atbalstu starpsvētku norišu plānošanā un īstenošanā sadarbībā ar valsts un pašvaldību institūcijām un nevalstiskajām organizācijām.
