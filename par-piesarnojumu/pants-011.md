@@ -5,7 +5,7 @@
 3) emisijas samazināšanas, novēršanas vai kontroles kārtību noteiktās saimnieciskās darbības jomās vai attiecībā uz noteikta veida iekārtām vai vielām;
 4) ar noteiktu emisiju saistītu iekārtu vai iekārtu grupu atbilstības novērtēšanas kārtību.
 (2) Lai nodrošinātu šā panta pirmajā daļā minēto nosacījumu ievērošanu, Ministru kabinets reglamentē:
-1) kārtību, kādā novēršama, ierobežojama un kontrolējama gaisu piesārņojošo vielu emisija no stacionārajiem piesārņojuma avotiem;
+1) noteikumus par stacionāru piesārņojuma avotu emisijas limita projektu izstrādi;
 2) notekūdeņu emisijas robežvērtības un aizliegumus attiecībā uz piesārņojošu vielu emisiju ūdenī;
 3) noteikumus par ūdens un augsnes aizsardzību no lauksaimnieciskas darbības izraisīta piesārņojuma ar nitrātiem;
 4) noteikumus par trokšņa emisiju no iekārtām, kuras izmanto ārpus telpām;
@@ -22,7 +22,9 @@
 15) vides kvalitātes normatīvus iekārtām un noteikta veida kuģošanas līdzekļiem, kuri izmanto sēru saturošu šķidro degvielu;
 16) izmēģinājumu un inovatīvo emisijas samazināšanas tehnoloģiju izmantošanu kuģošanas līdzekļos;
 17) kārtību, kādā aviācijas darbības iekļauj Eiropas Savienības emisijas kvotu tirdzniecības sistēmā;
-18) kārtību, kādā nodrošināma oglekļa dioksīda plūsmas transportēšana pa cauruļvadiem uz uzglabāšanas vietām, kā arī oglekļa dioksīda plūsmas tīrības kritērijus un kārtību, kādā izskatāmi strīdi par piekļuvi transporta tīkliem un uzglabāšanas vietām.
+18) kārtību, kādā nodrošināma oglekļa dioksīda plūsmas transportēšana pa cauruļvadiem uz uzglabāšanas vietām, kā arī oglekļa dioksīda plūsmas tīrības kritērijus un kārtību, kādā izskatāmi strīdi par piekļuvi transporta tīkliem un uzglabāšanas vietām;
+19) kārtību, kādā novēršama, ierobežojama un kontrolējama gaisu piesārņojošo vielu emisija no sadedzināšanas iekārtām;
+20) kārtību, kādā ierobežojama gaistošo organisko savienojumu emisija no iekārtām, kurās izmanto organiskos šķīdinātājus.
 (3) Ministru kabinets nosaka kopējo valstī maksimāli pieļaujamo emisiju gaisā konkrētā laikposmā un konkrētiem piesārņojuma veidiem.
 (4) Ministru kabinets nosaka kārtību, kādā biedrība "Latvijas Antīko automobiļu klubs" izsniedz apliecinājumu par to, ka transportlīdzeklis atbilst antīkā transportlīdzekļa statusam, lai iegādātos produktus ar paaugstinātu gaistošo organisko savienojumu saturu.
 (5) Ministru kabinets nosaka bioeļļas kvalitātes prasības un mežizstrādes darbos izmantojamo griezējinstrumentu eļļošanai lietojamās bioeļļas izmantošanas un kontroles kārtību.
