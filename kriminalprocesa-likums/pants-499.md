@@ -1,5 +1,5 @@
 499.pants. Pierādījumu pārbaudes neizdarīšana
-(1) Tiesa var pieņemt lēmumu par pierādījumu pārbaudes neizdarīšanu attiecībā uz visu apsūdzību vai tās patstāvīgu daļu (epizodi) tikai ar nosacījumu, ka:
+(1) Tiesa var pieņemt lēmumu par pierādījumu pārbaudes neizdarīšanu attiecībā uz visu apsūdzību vai tās patstāvīgu daļu tikai ar nosacījumu, ka:
 1) apsūdzētais atzīst savu vainu visā viņam izvirzītajā apsūdzībā vai attiecīgā tās daļā;
 2) tiesai pēc lietas materiālu pārbaudes nav šaubu par apsūdzētā vainu;
 3) apsūdzētais, bet obligātās aizstāvības gadījumos arī viņa aizstāvis un pārstāvis, piekrīt šādas pārbaudes neizdarīšanai.

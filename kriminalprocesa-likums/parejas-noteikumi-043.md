@@ -1,0 +1,1 @@
+43. Ja sakarā ar grozījumiem Krimināllikumā, kuri stājas spēkā 2013.gada 1.aprīlī, nepieciešams grozīt apsūdzību, prokurors pirmstiesas procesā to groza šā likuma 408.pantā noteiktajā kārtībā, bet iztiesāšanas gaitā - 462.panta pirmajā daļā noteiktajā kārtībā.

@@ -6,4 +6,4 @@
 3) konstatēts viens no šā likuma 264.panta otrās daļas 1. vai 2.punktā minētajiem nosacījumiem;
 4) personai nav pastāvīgas dzīvesvietas Latvijā.
 (3) Apcietinājumu var piemērot personai, kura tiek turēta aizdomās vai apsūdzēta par pārbaudes laikā izdarītu tīšu noziegumu.
-(4) Pamats apcietinājumam var būt pirmās instances tiesas spriedums par smaga vai sevišķi smaga nozieguma izdarīšanu, par kuru piespriests brīvības atņemšanas sods.
+(4) Pamats apcietinājumam var būt tiesas spriedums par smaga vai sevišķi smaga nozieguma izdarīšanu, par kuru piespriests brīvības atņemšanas sods.

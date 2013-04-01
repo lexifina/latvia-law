@@ -1,5 +1,5 @@
 638.pants. Sprieduma izpildes atlikšana
-(1) Ja piespriesta brīvības atņemšana vai arests, tās tiesas tiesnesis, kurā lieta izskatīta pirmajā instancē, pēc notiesātā iesnieguma var atlikt sprieduma izpildi šādos gadījumos:
+(1) Ja piespriesta brīvības atņemšana, tās tiesas tiesnesis, kurā lieta izskatīta pirmajā instancē, pēc notiesātā iesnieguma var atlikt sprieduma izpildi šādos gadījumos:
 1) ja notiesātais saslimis ar smagu slimību, kas kavē soda izciešanu,- kamēr viņš izveseļojas;
 2) ja notiesātā atrodas grūtniecības stāvoklī sprieduma izpildīšanas brīdī, - uz laiku, ne ilgāku par vienu gadu;
 3) ja notiesātajai ir mazgadīgi bērni, - uz laiku, līdz bērns sasniedz triju gadu vecumu;

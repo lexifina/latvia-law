@@ -1,5 +1,5 @@
 270.pants. Aizdomās turētā, apsūdzētā vai personas, pret kuru notiek process medicīniska rakstura piespiedu līdzekļu noteikšanai, aizturēšana
-(1) Aizdomās turēto vai apsūdzēto var aizturēt, lai nogādātu pie procesa virzītāja, ja ir izsludināta viņa meklēšana saistībā ar tāda noziedzīga nodarījuma izdarīšanu, par kuru paredzēts ar brīvības atņemšanu saistīts sods, un šai personai nav piemērots ar brīvības atņemšanu saistīts drošības līdzeklis.
+(1) Aizdomās turēto vai apsūdzēto var aizturēt, lai nogādātu pie procesa virzītāja, ja ir izsludināta viņa meklēšana saistībā ar tāda noziedzīga nodarījuma izdarīšanu, par kuru paredzēts brīvības atņemšanas sods, un šai personai nav piemērots brīvības atņemšanas drošības līdzeklis.
 (2) Lai nodrošinātu, ka aizdomās turētais, apsūdzētais vai persona, pret kuru notiek process medicīniska rakstura piespiedu līdzekļu noteikšanai, tiek nogādāta pie izmeklēšanas tiesneša, izmeklētājs vai prokurors var aizturēt šīs personas, ja:
 1) ir sagatavots ierosinājums par tāda drošības līdzekļa piemērošanu, kas saistīts ar brīvības atņemšanu;
 2) ir pieņemts lēmums par ekspertīzes noteikšanu un sagatavots ierosinājums par personas ievietošanu ārstniecības iestādē ekspertīzes izdarīšanai;

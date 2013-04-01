@@ -8,7 +8,10 @@
 3) aizdomās turētā vai apsūdzētā iespējami izdarītu citu noziedzīgu nodarījumu, par kuru kļuvis zināms pirmstiesas procesa laikā;
 4) personu, kurai noteikta speciālā procesuālā aizsardzība;
 5) personu, kura būtiski palīdzējusi atklāt smagu vai sevišķi smagu noziegumu.
-(3) Kriminālprocesu prokurors var sadalīt arī tad, ja tā ļoti lielais apjoms vai daudzās epizodes rada šķēršļus kriminālprocesa attiecību noregulēšanai saprātīgos termiņos.
+(3) Kriminālprocesu prokurors var sadalīt arī:
+1) tā lielā apjoma dēļ;
+2) ja tas ir par vairākiem noziedzīgiem nodarījumiem;
+3) ja tas rada šķēršļus kriminālprocesa attiecību noregulēšanai saprātīgos termiņos.
 (4) Par kriminālprocesa sadalīšanu procesa virzītājs pieņem lēmumu, kas vienlaikus uzskatāms arī par lēmumu jauna kriminālprocesa uzsākšanai. Lēmuma pieņemšanas datums ir jaunā kriminālprocesa uzsākšanas datums.
 (4¹) Šā panta pirmajā daļā un otrās daļas 3.punktā paredzētajos gadījumos personas tiesību ierobežošanas termiņu izdalītajā kriminālprocesā sāk skaitīt no brīža, kad procesa virzītājs saistībā ar šo noziedzīgo nodarījumu procesuālā darbībā iesaistījis personu, kurai ir tiesības uz aizstāvību, vai ar procesuālu darbību ierobežojis personas tiesības rīkoties ar mantu. Pārējos gadījumos termiņu no jauna neskaita.
 (5) Lēmumā par kriminālprocesa sadalīšanu procesa virzītājs norāda:

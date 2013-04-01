@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2011.gada 5.aprīļa direktīvas 2011/36/ES par cilvēku tirdzniecības novēršanu un apkarošanu un cietušo aizsardzību, un ar kuru aizstāj Padomes pamatlēmumu 2002/629/TI.
