@@ -1,5 +1,5 @@
 249.pants. Narkotisko un psihotropo vielu ražošanas, iegādāšanās, glabāšanas, uzskaites, izsniegšanas, pārvadāšanas un pārsūtīšanas noteikumu pārkāpšana
-(1) Par narkotisko vai psihotropo vielu ražošanas, iegādāšanās, glabāšanas, uzskaites, izsniegšanas, pārvadāšanas vai pārsūtīšanas noteikumu pārkāpšanu -
-soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar arestu, vai ar piespiedu darbu, vai ar naudas sodu līdz piecdesmit minimālajām mēnešalgām, atņemot tiesības uz zināmu nodarbošanos uz laiku līdz trim gadiem vai bez tā.
-(2) Par tādām pašām darbībām, ja tās izdarītas atkārtoti vai ja tās izdarījusi personu grupa pēc iepriekšējas vienošanās, -
-soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar piespiedu darbu, vai ar naudas sodu līdz astoņdesmit minimālajām mēnešalgām.
+(1) Par narkotisko vai psihotropo vielu ražošanas, iegādāšanās, glabāšanas, uzskaites, izsniegšanas, pārvadāšanas vai pārsūtīšanas noteikumu pārkāpšanu, ja ar to radīts būtisks kaitējums, -
+soda ar brīvības atņemšanu uz laiku līdz vienam gadam vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu, atņemot tiesības uz noteiktu nodarbošanos uz laiku līdz trim gadiem.
+(2) Par šā panta pirmajā daļā paredzēto noziedzīgo nodarījumu, ja to izdarījusi personu grupa pēc iepriekšējas vienošanās, -
+soda ar brīvības atņemšanu uz laiku līdz četriem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu, atņemot tiesības uz noteiktu nodarbošanos uz laiku līdz trim gadiem.

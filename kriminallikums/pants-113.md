@@ -1,3 +1,3 @@
 113.pants. Spridzināšanas un citu darbu veikšana, pārkāpjot dzīvnieku aizsardzības noteikumus
 Par spridzināšanas, meliorācijas, kokmateriālu sagatavošanas vai citu darbu veikšanu, pārkāpjot dzīvnieku aizsardzības noteikumus, ja ar tādām darbībām radīts būtisks kaitējums zivju resursiem, putniem vai citiem savvaļas dzīvniekiem, -
-soda ar arestu vai ar piespiedu darbu, vai ar naudas sodu līdz divsimt minimālajām mēnešalgām.
+soda ar īslaicīgu brīvības atņemšanu vai ar piespiedu darbu, vai ar naudas sodu.

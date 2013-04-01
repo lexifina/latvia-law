@@ -1,3 +1,3 @@
-262.¹pants. Atteikšanās no alkohola, narkotisko, psihotropo, toksisko un citu apreibinošu vielu ietekmes pārbaudes
-Par transportlīdzekļa vadītāja atteikšanos no medicīniskās pārbaudes alkohola koncentrācijas noteikšanai asinīs vai narkotisko, psihotropo, toksisko un citu apreibinošu vielu ietekmes pārbaudes, ja tas izdarīts atkārtoti gada laikā, -
-soda ar brīvības atņemšanu uz laiku līdz vienam gadam vai ar arestu, vai ar piespiedu darbu, vai ar naudas sodu līdz piecdesmit minimālajām mēnešalgām, atņemot transportlīdzekļa vadītāja tiesības uz laiku no trim līdz pieciem gadiem un konfiscējot mantu vai bez mantas konfiskācijas.
+262.¹ pants. Atteikšanās no alkohola, narkotisko, psihotropo, toksisko un citu apreibinošu vielu ietekmes pārbaudes
+Par atteikšanos no medicīniskās pārbaudes alkohola koncentrācijas noteikšanai asinīs vai narkotisko, psihotropo, toksisko un citu apreibinošu vielu ietekmes pārbaudes, ja to izdarījis transportlīdzekļa vadītājs, kuram nav transportlīdzekļa vadīšanas tiesību (transportlīdzekļa vadīšanas tiesības noteiktā kārtībā nav iegūtas vai ir atņemtas), -
+soda ar brīvības atņemšanu uz laiku līdz vienam gadam vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu, atņemot transportlīdzekļa vadīšanas tiesības uz laiku no trim līdz pieciem gadiem un konfiscējot mantu vai bez mantas konfiskācijas.

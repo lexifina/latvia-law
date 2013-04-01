@@ -1,11 +1,12 @@
 52.pants. Sodu saskaitīšanas un aizstāšanas noteikumi
 (1) Saskaitot sodus par vairākiem noziedzīgiem nodarījumiem vienā spriedumā vai pēc vairākiem spriedumiem, brīvības atņemšanas soda viena diena atbilst:
-1) vienai aresta dienai;
+1) (izslēgts ar 13.12.2012. likumu);
 2) astoņām piespiedu darba stundām;
 3) divām policijas kontroles dienām;
 4) divām probācijas uzraudzības dienām.
-(2) Naudas sods, tiesību ierobežošana, ja šie sodi tiek piespriesti kopā ar brīvības atņemšanas sodu, arestu, piespiedu darbu, tiek izpildīti patstāvīgi.
+(2) Naudas sods, tiesību ierobežošana, ja šie sodi tiek piespriesti kopā ar brīvības atņemšanas sodu, piespiedu darbu, tiek izpildīti patstāvīgi. Nosacītas notiesāšanas gadījumā papildsods - piespiedu darbs - tiek izpildīts patstāvīgi, sākoties pārbaudes laikam.
+(2¹) Ja par vairākiem noziedzīgiem nodarījumiem vienā spriedumā vai pēc vairākiem spriedumiem ir piespriesti pamatsodi - piespiedu darbs un brīvības atņemšana, kuras termiņš kopā nepārsniedz trīs gadus, tad sodu - piespiedu darbs - izpilda patstāvīgi. Šādos gadījumos piespiedu darba izpildi uzsāk pēc brīvības atņemšanas soda izciešanas, bet nosacītas notiesāšanas gadījumā - uzreiz pēc sprieduma spēkā stāšanās.
 (3) Nosakot sodus, kas nav minēti šā panta pirmajā daļā, tiesa, ņemot vērā iepriekšējo apcietinājumu, izciestā soda daļu vai medicīniska rakstura piespiedu līdzekļu piemērošanas laiku, var mīkstināt sodu vai pilnīgi atbrīvot vainīgo no soda izciešanas.
-(4) Soda termiņus skaita gados, mēnešos un dienās. Iepriekšējo apcietinājumu tiesa ieskaita soda laikā, skaitot vienu iepriekšējā apcietinājuma dienu par vienu brīvības atņemšanas dienu.
-(5) Iepriekšējo apcietinājumu un izciestā soda daļu soda termiņā ieskaita atbilstoši šā panta pirmās daļas noteikumiem.
+(4) Soda termiņus skaita gados, mēnešos un dienās. Apcietinājumu tiesa ieskaita soda laikā, vienu apcietinājuma dienu rēķinot kā vienu brīvības atņemšanas dienu.
+(5) Apcietinājumu un izciestā soda daļu soda termiņā ieskaita atbilstoši šā panta pirmās daļas noteikumiem.
 (6) Mājas arestu ieskaita brīvības atņemšanas soda termiņā. Viena mājas aresta diena atbilst vienai brīvības atņemšanas dienai.

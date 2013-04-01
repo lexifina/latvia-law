@@ -1,5 +1,5 @@
 167.pants. Bērna samainīšana
 (1) Par jaundzimuša bērna tīšu samainīšanu -
-soda ar brīvības atņemšanu uz laiku līdz diviem gadiem vai ar arestu, vai ar naudas sodu līdz piecdesmit minimālajām mēnešalgām.
+soda ar īslaicīgu brīvības atņemšanu vai ar piespiedu darbu, vai ar naudas sodu.
 (2) Par jaundzimuša bērna samainīšanu mantkārīgā nolūkā -
-soda ar brīvības atņemšanu uz laiku līdz sešiem gadiem.
+soda ar brīvības atņemšanu uz laiku līdz diviem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu.
