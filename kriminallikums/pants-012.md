@@ -1,3 +1,2 @@
-12.pants. Fiziskās personas kā juridiskās personas pārstāvja atbildība
-(1) Juridiskās personas lietā atbild tā fiziskā persona, kura nodarījumu izdarījusi, rīkodamās individuāli vai kā attiecīgās juridiskās personas koleģiālās institūcijas loceklis, balstoties uz tiesībām pārstāvēt juridisko personu, darboties tās uzdevumā vai pieņemt lēmumus juridiskās personas vārdā, vai īstenodama kontroli juridiskās personas ietvaros vai būdama juridiskās personas dienestā.
-(2) Juridiskajām personām, kas nav publisko tiesību juridiskās personas, var piemērot šā likuma VIII¹ nodaļā paredzētos piespiedu ietekmēšanas līdzekļus.
+12.pants. Fiziskās personas atbildība juridiskās personas lietā
+Par noziedzīgu nodarījumu, ko privāto tiesību juridiskās personas interesēs, šīs personas labā vai tās nepienācīgas pārraudzības vai kontroles rezultātā izdarījusi fiziskā persona, attiecīgā fiziskā persona saucama pie kriminālatbildības, bet juridiskajai personai var piemērot šajā likumā paredzētos piespiedu ietekmēšanas līdzekļus.

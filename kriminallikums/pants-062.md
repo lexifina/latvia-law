@@ -1,6 +1,7 @@
 62.pants. Notiesājoša sprieduma izpildīšanas noilgums
 (1) Notiesājošs spriedums un prokurora priekšraksts par sodu nav izpildāms, ja no dienas, kad tas stājies likumīgā spēkā, nav izpildīts šādos termiņos:
-1) divos gados - ja piespriests arests, mantas konfiskācija, piespiedu darbs vai naudas sods;
+1) divos gados - ja piespriesta īslaicīga brīvības atņemšana, piespiedu darbs vai naudas sods;
+1¹) divos gados pēc brīvības atņemšanas soda izciešanas - ja sods - piespiedu darbs - izpildāms patstāvīgi šā likuma 52.panta 2.¹ daļā paredzētajos gadījumos;
 2) trijos gados - ja piespriesta brīvības atņemšana uz laiku, ne ilgāku par diviem gadiem;
 3) piecos gados - ja piespriesta brīvības atņemšana uz laiku, ne ilgāku par pieciem gadiem;
 4) desmit gados - ja piespriesta brīvības atņemšana uz laiku, ne ilgāku par desmit gadiem;
