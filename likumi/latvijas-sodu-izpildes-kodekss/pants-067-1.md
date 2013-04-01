@@ -1,0 +1,2 @@
+67.¹ pants. Ar īslaicīgu brīvības atņemšanu notiesāto iesaiste izglītības apguvē un sociālās uzvedības korekcijas pasākumos
+Ar īslaicīgu brīvības atņemšanu notiesātos neiesaista vispārējās vai profesionālās izglītības apguvē, bet viņiem iespēju robežās organizē interešu izglītības pasākumus un iesaistīšanu sociālās uzvedības korekcijas programmās. Nepilngadīgajiem nodrošina obligātās izglītības apguvi.

@@ -2,8 +2,8 @@
 Daļēji slēgtajā cietumā sodu izcieš:
 1) sievietes par tīša nozieguma izdarīšanu;
 2) vīrieši par tīša mazāk smaga nozieguma izdarīšanu;
-3) notiesātie par kriminālpārkāpuma vai mazāk smaga nozieguma aiz neuzmanības izdarīšanu, ja viņi agrāk izcietuši sodu brīvības atņemšanas iestādē, par kuru sodāmība nav noņemta vai dzēsta;
-4) notiesātie par mazāk smaga nozieguma aiz neuzmanības izdarīšanu, ja piespriesta brīvības atņemšana uz laiku, ilgāku par pieciem gadiem;
+3) notiesātie par mazāk smaga nozieguma aiz neuzmanības izdarīšanu, ja viņi agrāk izcietuši sodu brīvības atņemšanas iestādē, par kuru sodāmība nav noņemta vai dzēsta;
+4) notiesātie par mazāk smaga nozieguma aiz neuzmanības izdarīšanu, ja piespriesta brīvības atņemšana uz laiku, ilgāku par trim, bet ne ilgāku par astoņiem gadiem;
 5) vīrieši par smaga vai sevišķi smaga nozieguma izdarīšanu, ja viņi līdz nozieguma izdarīšanai nebija sasnieguši astoņpadsmit gadu vecumu;
 6) personas, kurām naudas sods aizstāts ar brīvības atņemšanu;
 7) (izslēgts ar 21.07.2011. likumu);
@@ -28,3 +28,8 @@ Notiesātajiem, kuri sodu izcieš daļēji slēgtā cietuma soda izciešanas re�
 3) izmantot divas telefonsarunas mēnesī;
 4) izmantot tiesības, kas paredzētas šā kodeksa 50.⁴ panta devītās daļas 5., 6., 7., 8., 9. un 10.punktā.
 (Devītā daļa izslēgta ar 29.11.2012. likumu)
+Ar īslaicīgu brīvības atņemšanu notiesātajiem ir tiesības:
+1) izmantot vismaz stundu ilgu īslaicīgo satikšanos ne retāk kā reizi mēnesī, bet ne mazāk kā vienu īslaicīgo satikšanos soda izpildes laikā, ja tas ir īsāks par mēnesi;
+2) iepirkties cietuma veikalā par naudas summu vienas Ministru kabineta noteiktās minimālās mēnešalgas apmērā;
+3) izmantot sešas telefonsarunas mēnesī;
+4) izmantot tiesības, kas paredzētas šā kodeksa 50.⁴ panta septītās daļas 5., 6., 7., 8., 9. un 10.punktā.

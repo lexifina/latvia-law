@@ -1,0 +1,1 @@
+26. Soda izpildes iestāde saskaņā ar grozījumiem Krimināllikumā, kuri stājas spēkā 2013.gada 1.aprīlī, mēneša laikā iesniedz tiesai iesniegumu par personas atbrīvošanu no soda izciešanas vai par sprieduma grozīšanu, vai par nosacītas notiesāšanas pārbaudes laika atcelšanu. Kriminālsoda - piespiedu darbs - izpilde līdz iesnieguma izskatīšanai tiesā tiek apturēta.

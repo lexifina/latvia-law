@@ -1,0 +1,6 @@
+50.⁸ pants. Speciālo līdzekļu piemērošana notiesātajiem ar brīvības atņemšanu uz visu mūžu (mūža ieslodzījums) brīvības atņemšanas iestādes teritorijā
+Notiesātajiem ar brīvības atņemšanu uz visu mūžu (mūža ieslodzījums) pārvietošanas laikā brīvības atņemšanas iestādes teritorijā var piemērot speciālo līdzekli - roku dzelžus, ja persona šajā laikā var apdraudēt to pavadošos darbiniekus vai pastāv pamatotas aizdomas par iespējamu notiesātā bēgšanu.
+Katra ar brīvības atņemšanu uz visu mūžu (mūža ieslodzījums) notiesātā bīstamību un viņam pārvietošanas laikā brīvības atņemšanas iestādes teritorijā piemērojamā speciālā līdzekļa - roku dzelžu - nepieciešamību izvērtē brīvības atņemšanas iestādes priekšnieka izveidota komisija.
+Komisijas sastāvā iekļauj par notiesāto sociālo rehabilitāciju, uzraudzību, drošību un medicīnisko aprūpi atbildīgo daļu priekšniekus un cietuma psihologu, kas strādā ar personām, kuras notiesātas ar brīvības atņemšanu uz visu mūžu (mūža ieslodzījums).
+Komisija katru ar brīvības atņemšanu uz visu mūžu (mūža ieslodzījums) notiesāto vērtē ne retāk kā vienu reizi sešos mēnešos. Komisijas sēdes laikā klātienē tiek uzklausīts notiesātā viedoklis.
+Komisijas lēmumu notiesātais var apstrīdēt Ieslodzījuma vietu pārvaldes priekšniekam. Ieslodzījuma vietu pārvaldes priekšnieka lēmums nav pārsūdzams.

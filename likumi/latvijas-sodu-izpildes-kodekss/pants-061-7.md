@@ -1,0 +1,3 @@
+61.⁷ pants. Notiesāto ar brīvības atņemšanu uz visu mūžu (mūža ieslodzījums) resocializācijas īpatnības
+Notiesātajiem ar brīvības atņemšanu uz visu mūžu (mūža ieslodzījums) var organizēt kopīgus resocializācijas pasākumus vienas soda izciešanas režīma pakāpes ietvaros vai, izvērtējot drošības apsvērumus, - kopā ar personām, kuras notiesātas ar brīvības atņemšanu uz visu mūžu (mūža ieslodzījums) un sodu izcieš citās soda izciešanas režīma pakāpēs.
+Ar brīvības atņemšanu uz visu mūžu (mūža ieslodzījums) notiesātajām sievietēm tiek organizēti ar citām notiesātajām, kas sodu izcieš attiecīgajā soda izciešanas režīma pakāpē, kopīgi resocializācijas pasākumi.

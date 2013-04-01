@@ -8,6 +8,6 @@ Piespiedu darba izpildes institūcijai pēc rīkojuma par sprieduma izpildi un s
 5) noslēgt līgumu ar darba devēju par notiesātā iesaistīšanu piespiedu darbā;
 6) kontrolēt, kā notiesātais veic darbu, un saņemt informāciju par to no attiecīgā darba devēja;
 7) uzskaitīt nostrādātās stundas;
-8) ja notiesātais izvairās no soda izciešanas, sagatavot un iesniegt rajona (pilsētas) tiesai iesniegumu par nepieciešamību aizstāt notiesātajam piemēroto sodu - piespiedu darbu - ar arestu;
+8) ja notiesātais izvairās no soda izciešanas, sagatavot un iesniegt rajona (pilsētas) tiesai iesniegumu par nepieciešamību aizstāt notiesātajam piemēroto sodu - piespiedu darbu - ar īslaicīgu brīvības atņemšanu;
 9) pēc sprieduma izpildīšanas paziņot par to tiesai, kas taisījusi spriedumu.
-Ja notiesātais priekšzīmīgi pilda piespiedu darbu un citus viņam uzliktos pienākumus un faktiski ir izciesta ne mazāk kā puse no noteiktā soda, piespiedu darba izpildes institūcija var sagatavot un iesniegt rajona (pilsētas) tiesai iesniegumu par notiesātā atbrīvošanu no turpmākas soda izciešanas. Piespiedu darba izpilde līdz lietas izskatīšanai tiesā netiek apturēta.
+Ja notiesātais priekšzīmīgi pilda piespiedu darbu un citus viņam uzliktos pienākumus un faktiski ir izciesta ne mazāk kā puse no noteiktā soda, piespiedu darba izpildes institūcija var sagatavot un iesniegt rajona (pilsētas) tiesai iesniegumu par notiesātā atbrīvošanu no turpmākas soda izciešanas. Piespiedu darba izpilde līdz lietas izskatīšanai tiesā tiek apturēta.

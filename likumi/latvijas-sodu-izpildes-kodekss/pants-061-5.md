@@ -5,3 +5,4 @@ Divu mēnešu laikā pēc notiesātā ievietošanas brīvības atņemšanas iest
 Atkārtots notiesātā risku un vajadzību izvērtējums tiek veikts ne retāk kā reizi gadā visā soda izciešanas laikā. Atbilstoši risku un vajadzību izvērtējuma rezultātiem tiek izdarīti grozījumi notiesātā resocializācijas plānā.
 Notiesāto resocializācijas īstenošanas kārtību nosaka Ministru kabinets.
 Notiesāto resocializāciju organizē brīvības atņemšanas iestādes priekšnieks, un tās īstenošanā piedalās visi brīvības atņemšanas iestādes darbinieki un normatīvajos aktos noteiktie citu institūciju pārstāvji.
+Ar īslaicīgu brīvības atņemšanu notiesātā riskus un vajadzības apzina divu nedēļu laikā pēc viņa ievietošanas brīvības atņemšanas iestādē soda izciešanas uzsākšanai.
