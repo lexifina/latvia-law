@@ -1,9 +1,9 @@
-70.⁸pants. Nosacījumi piespiedu ietekmēšanas līdzekļu piemērošanai juridiskajai personai
-(1) Nosakot piespiedu ietekmēšanas līdzekli, tiesa ņem vērā noziedzīgā nodarījuma raksturu un radīto kaitējumu.
-(2) Tiesa, piemērojot piespiedu ietekmēšanas līdzekli juridiskajai personai, ievēro šādus nosacījumus:
+70.⁸ pants. Nosacījumi piespiedu ietekmēšanas līdzekļu piemērošanai juridiskajai personai
+(1) Nosakot piespiedu ietekmēšanas līdzekļa veidu, ņem vērā noziedzīgā nodarījuma raksturu un radīto kaitējumu.
+(2) Nosakot piespiedu ietekmēšanas līdzekļa mēru, ievēro šādus nosacījumus:
 1) juridiskās personas faktiskā rīcība;
-2) fiziskās personas statuss juridiskās personas institūcijā;
-3) juridiskās personas darbību raksturs un sekas;
-4) pasākumi, ko juridiskā persona veikusi, lai novērstu jaunu noziedzīgu nodarījumu izdarīšanu;
-5) juridiskās personas lielums, nodarbošanās veids un finansiālais stāvoklis.
-(3) Šajā likumā paredzētos piespiedu ietekmēšanas līdzekļus juridiskajai personai tiesa var piemērot pēc prokurora ierosinājuma.
+2) juridiskās personas darbību raksturs un sekas;
+3) pasākumi, ko juridiskā persona veikusi, lai novērstu noziedzīga nodarījuma izdarīšanu;
+4) juridiskās personas lielums, nodarbošanās veids un finansiālais stāvoklis;
+5) pasākumi, ko juridiskā persona veikusi, lai atlīdzinātu nodarīto zaudējumu vai novērstu radīto kaitējumu;
+6) vai juridiskā persona ir izlīgusi ar cietušo.
