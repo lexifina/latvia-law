@@ -1,5 +1,5 @@
-308.pants. Arestētas mantas atsavināšana un slēpšana
-(1) Par tādas mantas izšķērdēšanu, atsavināšanu vai slēpšanu, kurai uzlikts arests, kā arī par tās apmainīšanu -
-soda ar brīvības atņemšanu uz laiku līdz vienam gadam vai ar arestu, vai ar piespiedu darbu, vai ar naudas sodu līdz divdesmit minimālajām mēnešalgām.
+308.pants. Apķīlātas un arestētas mantas atsavināšana, slēpšana, bojāšana, iznīcināšana un apmainīšana
+(1) Par apķīlātas vai arestētas mantas izšķērdēšanu, bojāšanu, atsavināšanu, slēpšanu vai iznīcināšanu, kā arī par tās apmainīšanu -
+soda ar īslaicīgu brīvības atņemšanu vai ar piespiedu darbu, vai ar naudas sodu.
 (2) Par tādām pašām darbībām, ja tās izdarījusi persona, kurai šī manta uzticēta, -
-soda ar brīvības atņemšanu uz laiku līdz diviem gadiem vai ar arestu, vai ar piespiedu darbu, vai ar naudas sodu līdz četrdesmit minimālajām mēnešalgām.
+soda ar brīvības atņemšanu uz laiku līdz vienam gadam vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu.

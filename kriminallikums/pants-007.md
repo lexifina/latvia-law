@@ -1,6 +1,7 @@
 7.pants. Noziedzīgu nodarījumu klasifikācija
-(1) Noziedzīgi nodarījumi ir kriminālpārkāpumi un noziegumi. Noziegumi iedalāmi šādi: mazāk smagi noziegumi, smagi noziegumi un sevišķi smagi noziegumi.
-(2) Kriminālpārkāpums ir nodarījums, par kuru šajā likumā paredzēta brīvības atņemšana uz laiku, ne ilgāku par diviem gadiem, vai vieglāks sods.
-(3) Mazāk smags noziegums ir tīšs nodarījums, par kuru šajā likumā paredzēta brīvības atņemšana uz laiku, ilgāku par diviem gadiem, bet ne ilgāku par pieciem gadiem, kā arī nodarījums, kurš izdarīts aiz neuzmanības un par kuru šajā likumā paredzēta brīvības atņemšana uz laiku, ilgāku par diviem gadiem, bet ne ilgāku par desmit gadiem.
-(4) Smags noziegums ir tīšs nodarījums, par kuru šajā likumā paredzēta brīvības atņemšana uz laiku, ilgāku par pieciem gadiem, bet ne ilgāku par desmit gadiem, kā arī nodarījums, kurš izdarīts aiz neuzmanības un par kuru šajā likumā paredzēta brīvības atņemšana uz laiku, ilgāku par desmit gadiem.
-(5) Sevišķi smags noziegums ir tīšs nodarījums, par kuru šajā likumā paredzēta brīvības atņemšana uz laiku, ilgāku par desmit gadiem, vai mūža ieslodzījums.
+(1) Atbilstoši personas vai sabiedrības interešu apdraudējuma raksturam un kaitīgumam noziedzīgi nodarījumi iedalāmi kriminālpārkāpumos un noziegumos. Noziegumi iedalāmi šādi: mazāk smagi noziegumi, smagi noziegumi un sevišķi smagi noziegumi.
+(2) Kriminālpārkāpums ir nodarījums, par kuru šajā likumā paredzēta brīvības atņemšana uz laiku no piecpadsmit dienām, bet ne ilgāku par trim mēnešiem (īslaicīga brīvības atņemšana), vai vieglāka soda veids.
+(3) Mazāk smags noziegums ir tīšs nodarījums, par kuru šajā likumā paredzēta brīvības atņemšana uz laiku, ilgāku par trim mēnešiem, bet ne ilgāku par trim gadiem, kā arī nodarījums, kurš izdarīts aiz neuzmanības un par kuru šajā likumā paredzēta brīvības atņemšana uz laiku, ne ilgāku par astoņiem gadiem.
+(4) Smags noziegums ir tīšs nodarījums, par kuru šajā likumā paredzēta brīvības atņemšana uz laiku, ilgāku par trim gadiem, bet ne ilgāku par astoņiem gadiem, kā arī nodarījums, kurš izdarīts aiz neuzmanības un par kuru šajā likumā paredzēta brīvības atņemšana uz laiku, ilgāku par astoņiem gadiem.
+(5) Sevišķi smags noziegums ir tīšs nodarījums, par kuru šajā likumā paredzēta brīvības atņemšana uz laiku, ilgāku par astoņiem gadiem, vai mūža ieslodzījums.
+(6) Ja par noziegumu šajā likumā paredzēta brīvības atņemšana uz laiku, ne ilgāku par pieciem gadiem, tad par attiecīgo noziegumu tajā var paredzēt arī vieglāka soda veidu.

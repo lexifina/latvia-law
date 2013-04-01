@@ -1,3 +1,3 @@
 211.pants. Negodīga konkurence, maldinoša reklāma un negodīga komercprakse
-Par negodīgu konkurenci, maldinošu reklāmu vai negodīgu komercpraksi, ja šādi nodarījumi izdarīti atkārtoti gada laikā, -
-soda ar brīvības atņemšanu uz laiku līdz diviem gadiem vai ar piespiedu darbu, vai ar naudas sodu līdz astoņdesmit minimālajām mēnešalgām, atņemot tiesības veikt uzņēmējdarbību uz laiku no diviem līdz pieciem gadiem vai bez tā.
+Par negodīgu konkurenci, maldinošu reklāmu vai negodīgu komercpraksi, ja ar to radīts būtisks kaitējums valstij vai ar likumu aizsargātām citas personas interesēm, -
+soda ar īslaicīgu brīvības atņemšanu vai ar piespiedu darbu, vai ar naudas sodu.

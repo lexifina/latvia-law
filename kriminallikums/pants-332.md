@@ -1,3 +1,3 @@
 332.pants. Patvaļīga prombūtne
 Par patvaļīgu prombūtni, tas ir, Nacionālo bruņoto spēku vienības vai dienesta vietas atstāšanu, kā arī neierašanos bez attaisnojoša iemesla noteiktā laikā dienesta vietā, ja patvaļīga prombūtne ilgusi vairāk par vienu diennakti, bet ne ilgāk par trim diennaktīm un ja tas izdarīts kara vai izņēmuma stāvokļa laikā, kaujas apstākļos, sabiedrisko nekārtību, terorisma vai bruņota konflikta gadījumā izsludinātās ārkārtējās situācijas laikā, -
-soda ar brīvības atņemšanu uz laiku no trim līdz astoņiem gadiem.
+soda ar brīvības atņemšanu uz laiku līdz diviem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu.

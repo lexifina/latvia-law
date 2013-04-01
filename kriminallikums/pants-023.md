@@ -3,4 +3,4 @@
 (2) Atsevišķu (vienotu) noziedzīgu nodarījumu veido arī turpināti un ilgstoši noziedzīgi nodarījumi.
 (3) Atsevišķu turpinātu noziedzīgu nodarījumu veido vairākas savstarpēji saistītas tādas pašas noziedzīgas darbības, kas vērstas uz kopēju mērķi, ja tās aptver vainīgās personas vienots nodoms, tāpēc savā kopumā tās veido vienu noziedzīgu nodarījumu.
 (4) Atsevišķs ilgstošs noziedzīgs nodarījums ir nepārtraukta viena noziedzīga nodarījuma sastāva realizēšana (darbība vai bezdarbība), kas saistīta ar tai sekojošu ilgstošu to pienākumu neizpildīšanu, kurus likums ar kriminālvajāšanas piedraudējumu uzlicis vainīgajai personai.
-(5) Atsevišķu (vienotu) noziedzīgu nodarījumu šā likuma sevišķajā daļā īpaši paredzētajos gadījumos veido atkārtoti gada laikā izdarīti tādi paši likumpārkāpumi, par kuriem kriminālatbildība iestājas tikai tad, ja pastāv to kopums, tas ir, ja konstatēts, ka šie likumpārkāpumi šajā laikā izdarīti ne mazāk kā divas reizes, un ja iepriekšējā reizē, pārkāpējam zinot, tie likumā noteiktajā kārtībā fiksēti.
+(5) (Izslēgta ar 13.12.2012. likumu)

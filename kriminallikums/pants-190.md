@@ -1,9 +1,8 @@
 190.pants. Kontrabanda
-(1) Par muitošanai pakļauto preču vai citu vērtību ievešanu Latvijas Republikas muitas teritorijā vai izvešanu no tās, apejot muitas kontroli vai noslēpjot tās no šādas kontroles, vai nedeklarējot, vai izmantojot viltotus muitas vai citus dokumentus, vai citādā nelikumīgā veidā (kontrabanda), ja tā izdarīta atkārtoti gada laikā, -
-soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar piespiedu darbu, vai ar naudas sodu līdz simt minimālajām mēnešalgām, konfiscējot mantu vai bez mantas konfiskācijas.
-(2) Par kontrabandu, ja tā izdarīta lielā apmērā, -
-soda ar brīvības atņemšanu uz laiku no trim līdz astoņiem gadiem vai ar piespiedu darbu, vai ar naudas sodu līdz simt piecdesmit minimālajām mēnešalgām, konfiscējot mantu vai bez mantas konfiskācijas.
-(3) Par šā panta otrajā daļā paredzētajām darbībām, ja tās izdarījusi personu grupa pēc iepriekšējas vienošanās, -
-soda ar brīvības atņemšanu uz laiku no pieciem līdz desmit gadiem vai ar piespiedu darbu, vai ar naudas sodu līdz divsimt minimālajām mēnešalgām, konfiscējot mantu vai bez mantas konfiskācijas.
-(4) Par kontrabandu, ja to izdarījusi organizēta grupa, -
-soda ar brīvības atņemšanu uz laiku no astoņiem līdz piecpadsmit gadiem, konfiscējot mantu, un ar policijas kontroli uz laiku līdz trim gadiem.
+(1) Par muitošanai pakļauto preču vai citu vērtību ievešanu Latvijas Republikas muitas teritorijā vai izvešanu no tās, apejot muitas kontroli vai noslēpjot tās no šādas kontroles, vai nedeklarējot, vai izmantojot viltotus muitas vai citus dokumentus, vai citādā nelikumīgā veidā (kontrabanda), ja ar to radīts būtisks kaitējums, -
+soda ar brīvības atņemšanu uz laiku līdz vienam gadam vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu, konfiscējot mantu vai bez mantas konfiskācijas.
+(2) Par šā panta pirmajā daļā paredzēto noziedzīgo nodarījumu, ja to izdarījusi personu grupa pēc iepriekšējas vienošanās, -
+soda ar brīvības atņemšanu uz laiku līdz četriem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu, konfiscējot mantu vai bez mantas konfiskācijas.
+(3) Par kontrabandu, ja to izdarījusi organizēta grupa vai tā izdarīta lielā apmērā, -
+soda ar brīvības atņemšanu uz laiku no diviem līdz vienpadsmit gadiem, konfiscējot mantu vai bez mantas konfiskācijas, un ar probācijas uzraudzību uz laiku līdz trim gadiem vai bez tās, atņemot tiesības uz noteiktu vai visu veidu komercdarbību vai uz noteiktu nodarbošanos vai tiesības ieņemt noteiktu amatu uz laiku līdz pieciem gadiem.
+(4) (Izslēgta ar 13.12.2012. likumu)

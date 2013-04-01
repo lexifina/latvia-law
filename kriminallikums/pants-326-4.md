@@ -1,0 +1,2 @@
+326.⁴ pants. Labumu devēja atbrīvošana no kriminālatbildības
+Personu, kura prettiesiski devusi labumu, var atbrīvot no kriminālatbildības, ja labums šai personai pieprasīts vai izspiests vai ja tā pēc noziedzīgo darbību izdarīšanas labprātīgi paziņo par notikušo un aktīvi veicina noziedzīgā nodarījuma atklāšanu un izmeklēšanu. No kriminālatbildības var atbrīvot personu, kura labumu piedāvājusi, ja tā labprātīgi paziņo par notikušo un aktīvi veicina noziedzīgā nodarījuma atklāšanu un izmeklēšanu.

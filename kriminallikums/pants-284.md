@@ -1,3 +1,5 @@
 284.pants. Valsts robežas nelikumīga šķērsošana
-Par valsts robežas tīšu nelikumīgu šķērsošanu, ja tā izdarīta atkārtoti gada laikā, -
-soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar arestu, vai ar piespiedu darbu, vai ar naudas sodu līdz sešdesmit minimālajām mēnešalgām.
+(1) Par valsts robežas tīšu nelikumīgu šķērsošanu -
+soda ar īslaicīgu brīvības atņemšanu vai ar piespiedu darbu, vai ar naudas sodu.
+(2) Par tādām pašām darbībām, ja tās izdarījusi personu grupa vai izmantojot transportlīdzekli, vai neievērojot noteikto ieceļošanas aizliegumu Latvijas Republikā, -
+soda ar brīvības atņemšanu uz laiku līdz diviem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu.

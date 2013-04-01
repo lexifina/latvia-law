@@ -1,3 +1,3 @@
 244.¹ pants. Datu, programmatūras un iekārtu iegūšana, izgatavošana, izmainīšana, glabāšana un izplatīšana nelikumīgām darbībām ar elektronisko sakaru tīklu galiekārtām
 Par elektronisko sakaru tīklu galiekārtu identificēšanai elektronisko sakaru tīklā nepieciešamo datu izmainīšanu vai par šādam nolūkam paredzētu datu iegūšanu, glabāšanu vai izplatīšanu, kā arī par šādam nolūkam paredzētas programmatūras vai iekārtas iegūšanu, izgatavošanu, glabāšanu vai izplatīšanu bez ražotāja vai tā pilnvarotas personas piekrišanas, ja šādas darbības izdarītas mantkārīgā nolūkā vai ja tās izdarījusi personu grupa pēc iepriekšējas vienošanās, vai ja ar to radīts būtisks kaitējums, -
-soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar piespiedu darbu, vai ar naudas sodu līdz simt minimālajām mēnešalgām.
+soda ar brīvības atņemšanu uz laiku līdz diviem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu.

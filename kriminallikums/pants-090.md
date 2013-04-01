@@ -1,3 +1,5 @@
-90.pants. Kavēšana realizēt vēlēšanu tiesības un tiesības piedalīties tautas nobalsošanā
-Par apzinātu personas kavēšanu brīvi realizēt tiesības vēlēt deputātus un tikt ievēlētam vai brīvi piedalīties saskaņā ar Latvijas Republikas likumiem rīkotajā tautas nobalsošanā, lietojot vardarbību, viltu, draudus, uzpirkšanu vai citā prettiesiskā veidā, -
-soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar piespiedu darbu, vai ar naudas sodu līdz sešdesmit minimālajām mēnešalgām.
+90.pants. Kavēšana realizēt vēlēšanu tiesības, tiesības piedalīties likuma ierosināšanā, tautas nobalsošanas ierosināšanā, tautas nobalsošanā un Eiropas pilsoņu iniciatīvas atbalstīšanā
+(1) Par apzinātu kavēšanu personai brīvi piedalīties saskaņā ar Latvijas Republikas likumiem rīkotajā parakstu vākšanā likuma vai tautas nobalsošanas ierosināšanai vai Eiropas pilsoņu iniciatīvas atbalstīšanai, lietojot vardarbību, viltu, draudus, uzpirkšanu vai citā prettiesiskā veidā, -
+soda ar brīvības atņemšanu uz laiku līdz vienam gadam vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu.
+(2) Par apzinātu kavēšanu personai brīvi realizēt tiesības vēlēt deputātus un tikt ievēlētai vai brīvi piedalīties saskaņā ar Latvijas Republikas likumiem rīkotajā tautas nobalsošanā, lietojot vardarbību, viltu, draudus, uzpirkšanu vai citā prettiesiskā veidā, -
+soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu.

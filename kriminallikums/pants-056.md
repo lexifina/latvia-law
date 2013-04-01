@@ -4,7 +4,8 @@
 2) divi gadi no kriminālpārkāpuma izdarīšanas dienas;
 3) pieci gadi no mazāk smaga nozieguma izdarīšanas dienas;
 4) desmit gadi no smaga nozieguma izdarīšanas dienas;
-5) piecpadsmit gadi no sevišķi smaga nozieguma izdarīšanas dienas, izņemot noziegumu, par kuru saskaņā ar likumu var piespriest mūža ieslodzījumu.
+5) piecpadsmit gadi no sevišķi smaga nozieguma izdarīšanas dienas, izņemot noziegumu, par kuru saskaņā ar likumu var piespriest mūža ieslodzījumu;
+6) divdesmit gadi no smaga vai sevišķi smaga nozieguma izdarīšanas dienas, ja noziegums bijis vērsts pret nepilngadīgas personas tikumību un dzimumneaizskaramību, izņemot noziegumu, par kuru saskaņā ar likumu var piespriest mūža ieslodzījumu.
 (2) Noilguma termiņu aprēķina no dienas, kad izdarīts noziedzīgs nodarījums, līdz apsūdzības izsniegšanai vai oficiālā izdošanas lūguma paziņošanai apsūdzētajam, ja apsūdzētais uzturas citā valstī un izsludināta viņa meklēšana.
 (3) Noilgums tiek pārtraukts, ja līdz šā panta pirmajā daļā norādīto termiņu izbeigšanās brīdim persona, kas izdarījusi noziedzīgo nodarījumu, izdara jaunu noziedzīgu nodarījumu. Šajā gadījumā noilguma laiku, kas paredzēts par smagāko no izdarītajiem noziedzīgajiem nodarījumiem, sāk skaitīt no jaunā noziedzīgā nodarījuma izdarīšanas brīža.
 (4) Jautājumu par noilguma piemērošanu personai, kas izdarījusi noziegumu, par kuru var piespriest mūža ieslodzījumu, izlemj tiesa, ja no nozieguma izdarīšanas dienas pagājuši trīsdesmit gadi.
