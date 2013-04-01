@@ -1,0 +1,2 @@
+441.² pants. Lēmums par procesa piespiedu ietekmēšanas līdzekļa piemērošanai juridiskajai personai nodošanu tiesai
+Lēmumā par procesa piespiedu ietekmēšanas līdzekļa piemērošanai juridiskajai personai nodošanu tiesai prokurors, papildus vispārējām prasībām norāda šā likuma 440.pantā minētos apstākļus un pamatojumu piespiedu ietekmēšanas līdzekļa piemērošanai, kā arī juridiskās personas nosaukumu, reģistrācijas numuru un juridisko adresi.

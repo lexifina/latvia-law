@@ -17,4 +17,5 @@
 4) sagatavot vienošanās projektu;
 5) iesniegt priekšlikumus noteiktu faktu atzīšanai par pierādītiem bez pierādījumu pārbaudes tiesā;
 6) ja nepieciešams, pieprasīt no Valsts probācijas dienesta personas izvērtēšanas ziņojumu.
+(2¹) Prokuroram procesā par piespiedu ietekmēšanas līdzekļu piemērošanu juridiskajai personai ir tiesības pabeigt procesu, piemērojot prokurora priekšrakstu par piespiedu ietekmēšanas līdzekli.
 (3) Ja procesuālā lēmuma pieņemšanai ir nepieciešams Eiropas Savienības Tiesas prejudiciāls nolēmums par Eiropas Savienības tiesību normas interpretāciju vai spēkā esamību, prokurors var ierosināt, lai ģenerālprokurors nosūta neskaidro jautājumu Eiropas Savienības Tiesai.

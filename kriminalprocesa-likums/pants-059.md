@@ -9,5 +9,5 @@
 (3) Pieņēmums iegūst apgalvojuma formu, ja:
 1) persona, kurai ir tiesības uz aizstāvību, likumā noteiktajā kārtībā apliecina, ka prokurora pieņēmums ir pareizs, un abi apgalvo, ka persona izdarījusi konkrētu noziedzīgu nodarījumu;
 2) tiesa, novērtējot pierādījumus, konstatē, ka persona izdarījusi konkrētu noziedzīgu nodarījumu.
-(4) Juridiskajai personai aizstāvības īstenošanas pamats ir šajā likumā noteiktajā kārtībā prokurora izteikts pieņēmums, ka fiziskā persona ir izdarījusi noziedzīgu nodarījumu tieši šīs juridiskās personas interesēs.
+(4) Juridiskajai personai aizstāvības īstenošanas pamats ir šajā likumā noteiktajā kārtībā procesa virzītāja izteikts pieņēmums, ka fiziskā persona ir izdarījusi noziedzīgu nodarījumu tieši šīs juridiskās personas interesēs, labā vai nepienācīgas pārraudzības vai kontroles rezultātā.
 (5) (Izslēgta ar 12.03.2009. likumu.)

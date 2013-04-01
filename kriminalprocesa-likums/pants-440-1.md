@@ -1,0 +1,3 @@
+440.¹ pants. Izmeklēšanas pabeigšana, ja uzsākts process par piespiedu ietekmēšanas līdzekļa piemērošanu
+(1) Ierosinot kriminālvajāšanas uzsākšanu vai piespiedu ietekmēšanas līdzekļa piemērošanas procesa turpināšanu (ja process pret juridisko personu izdalīts atsevišķā lietvedībā) un nododot krimināllietas materiālus prokuroram, izmeklētājs attiecīgajā lēmumā papildus vispārējām prasībām norāda šā likuma 440.pantā minētos apstākļus un pamatojumu piespiedu ietekmēšanas līdzekļa piemērošanai juridiskajai personai, kā arī juridiskās personas nosaukumu, reģistrācijas numuru un juridisko adresi.
+(2) Izmeklētāja lēmums par procesa turpināšanu piespiedu ietekmēšanas līdzekļa piemērošanai juridiskajai personai nav pārsūdzams.
