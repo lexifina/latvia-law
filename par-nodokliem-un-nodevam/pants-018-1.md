@@ -1,6 +1,6 @@
 18.¹ pants. Nodokļu administrācijas pienākumi attiecībā uz nodokļiem, nodevām un citiem valsts noteiktajiem maksājumiem, kas tiek uzlikti saskaņā ar Eiropas Savienības un tās dalībvalstu normatīvajiem aktiem
 (1) Nodokļu administrācijai ir šādi pienākumi:
-1) saskaņā ar Eiropas Savienības normatīvajiem aktiem koordinēt un veikt informācijas apmaiņu, sniedzot un saņemot savu funkciju izpildei nepieciešamo informāciju no Eiropas Savienības dalībvalstu kompetentajām iestādēm;
+1) saskaņā ar Eiropas Savienības normatīvajiem aktiem koordinēt un veikt informācijas apmaiņu, sniedzot un saņemot savu funkciju izpildei nepieciešamo informāciju no Eiropas Savienības dalībvalstu kompetentajām iestādēm. Nodokļu administrācija nodrošina arī tādas informācijas iegūšanu un sniegšanu citas Eiropas Savienības dalībvalsts nodokļu administrācijai, kas nav nodokļu administrācijas rīcībā, ja attiecīgā informācija ir nepieciešama, lai izpildītu pieprasījumu sniegt informāciju, kas ir paredzami svarīga konkrēta nodokļu maksātāja nodokļu administrēšanas vajadzībām pieprasījuma iesniedzējā dalībvalstī;
 2) veikt nodokļu prasījumu izpildi jebkuras Eiropas Savienības dalībvalsts labā pēc šīs valsts kompetentās iestādes pamatota pieprasījuma savas valsts vārdā;
 3) iekasēt un piedzīt nodokļus, nodevas un citus valsts noteiktos maksājumus, kā arī ar tiem saistītās nokavējuma naudas Eiropas Savienības budžetam;
 4) koordinēt un veikt vienlaikus nodokļu kopīgās starpvalstu pārbaudes saskaņā ar vienošanos ar Eiropas Savienības dalībvalsts kompetento iestādi;

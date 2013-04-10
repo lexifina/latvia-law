@@ -3,12 +3,13 @@ Likumā iekļautas tiesību normas, kas izriet no:
 2) Padomes 2004.gada 26.aprīļa direktīvas 2004/66/EK, ar ko Eiropas Parlamenta un Padomes direktīvas 1999/45/EK, 2002/83/EK, 2003/37/EK un 2003/59/EK un Padomes direktīvas 77/388/EEK, 91/414/EEK, 96/26/EK, 2003/48/EK un 2003/49/EK pielāgo preču brīvas aprites, pakalpojumu sniegšanas brīvības, lauksaimniecības, transporta un nodokļu politikas jomā saistībā ar Čehijas Republikas, Igaunijas, Kipras, Latvijas, Lietuvas, Ungārijas, Maltas, Polijas, Slovēnijas un Slovākijas pievienošanos Eiropas Savienībai;
 3) Padomes 1976.gada 15.marta direktīvas 76/308/EEK par savstarpēju palīdzību tādu prasījumu piedziņā, kas radušies no darbībām, kuras ir daļa no Eiropas Lauksaimniecības virzības un garantiju fonda finansēšanas sistēmas, kā arī lauksaimniecības un muitas nodokļu piedziņā;
 4) Padomes 2001.gada 15.jūnija direktīvas 2001/44/EK, ar ko groza direktīvu 76/308/EEK par savstarpēju palīdzību prasījumu piedziņā, kas radušies no darbībām, kas pieder pie Eiropas Lauksaimniecības vadības un garantiju fonda finansēšanas sistēmas, kā arī lauksaimniecības maksājumu un muitas nodokļu piedziņā un attiecībā uz pievienotās vērtības nodokļa un dažu akcīzes nodokļu piedzīšanu;
-5) Padomes 1977.gada 19.decembra direktīvas 77/799/EEK par dalībvalstu kompetentu iestāžu savstarpēju palīdzību tiešo un netiešo nodokļu jomā;
-6) Padomes 1979.gada 6.decembra direktīvas 79/1070/EEK, ar ko groza direktīvu 77/799/EEK par dalībvalstu kompetento iestāžu savstarpēju palīdzību tiešo nodokļu jomā;
-7) Padomes 2003.gada 7.oktobra direktīvas 2003/93/EK, ar ko groza Padomes direktīvu 77/799/EEK, kas attiecas uz dalībvalstu kompetento iestāžu savstarpējo palīdzību tiešu un netiešu nodokļu piemērošanas jomā.
-8) Padomes 2004.gada 21.aprīļa direktīvas 2004/56/EK, ar kuru groza Padomes direktīvu 77/799/EEK par dalībvalstu kompetento iestāžu savstarpēju palīdzību tiešo nodokļu jomā, dažu akcīzes nodokļu jomā un nodokļu piemērošanā apdrošināšanas prēmijām;
-9) Padomes 2004.gada 16.novembra direktīvas 2004/106/EK, ar ko groza Padomes direktīvu 77/799/EEK par dalībvalstu kompetento iestāžu savstarpējo palīdzību attiecībā uz tiešajiem nodokļiem, noteiktiem akcīzes nodokļiem un apdrošināšanas prēmiju aplikšanu ar nodokļiem un direktīvu 92/12/EEK par vispārēju režīmu precēm, uz kurām attiecas akcīzes nodokļa piemērošana, un par šādu preču glabāšanu, apriti un uzraudzību.
+5) (izslēgts ar 14.03.2013. likumu);
+6) (izslēgts ar 14.03.2013. likumu);
+7) (izslēgts ar 14.03.2013. likumu);
+8) (izslēgts ar 14.03.2013. likumu);
+9) (izslēgts ar 14.03.2013. likumu);
 10) Padomes 2006.gada 20.novembra direktīvas 2006/98/EK, ar ko pielāgo dažas direktīvas nodokļu jomā saistībā ar Bulgārijas un Rumānijas pievienošanos;
 11) Padomes 2008.gada 12.februāra direktīvas 2008/7/EK par netiešajiem nodokļiem, ko uzliek kapitāla piesaistīšanai;
 12) (izslēgts ar 15.03.2012. likumu);
-13) Padomes 2010.gada 16.marta direktīvas 2010/24/ES par savstarpēju palīdzību prasījumu piedziņā saistībā ar noteiktiem maksājumiem, nodokļiem un citiem pasākumiem.
+13) Padomes 2010.gada 16.marta direktīvas 2010/24/ES par savstarpēju palīdzību prasījumu piedziņā saistībā ar noteiktiem maksājumiem, nodokļiem un citiem pasākumiem;
+14) Padomes 2011.gada 15.februāra direktīvas 2011/16/ES par administratīvu sadarbību nodokļu jomā un ar ko atceļ direktīvu 77/799/EEK.
