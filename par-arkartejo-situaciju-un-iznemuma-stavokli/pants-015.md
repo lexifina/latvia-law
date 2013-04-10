@@ -1,0 +1,3 @@
+15.pants. Iedzīvotāju informēšana par izņēmuma stāvokli
+(1) Lēmumu par izņēmuma stāvokli vai grozījumiem lēmumā par izņēmuma stāvokli, kā arī par izņēmuma stāvokļa pagarināšanu vai atcelšanu nekavējoties nosūta izziņošanai elektroniskajos plašsaziņas līdzekļos, publicē pašvaldību mājaslapās internetā un izvieto redzamās vietās pie valsts pārvaldes un pašvaldību institūciju ēkām, kā arī nodrošina oficiālo elektronisko publikāciju tiešsaistē internetā.
+(2) Sabiedriskie elektroniskie plašsaziņas līdzekļi bez maksas izziņo lēmumu par izņēmuma stāvokli, kā arī sniedz citu informāciju par izņēmuma stāvokli un ieteikumus iedzīvotāju rīcībai, ievērojot Ministru kabineta un atbildīgās institūcijas nosacījumus par informācijas sniegšanas kārtību un steidzamību.

@@ -1,0 +1,8 @@
+19.pants. Ārkārtējās situācijas un izņēmuma stāvokļa laikā pieļaujamais tiesību ierobežojumu apjoms
+(1) Ārkārtējās situācijas un izņēmuma stāvokļa laikā visām fiziskajām un juridiskajām personām jāpakļaujas valsts pārvaldes un pašvaldību institūciju, kā arī to amatpersonu likumīgajām prasībām.
+(2) Ārkārtējās situācijas un izņēmuma stāvokļa laikā pieņemtajiem pārvaldes lēmumiem, kas nosaka ierobežojumus un papildu pienākumus, jābūt ar leģitīmu mērķi, samērīgiem, nediskriminējošiem, pamatotiem un nepieciešamiem katrā konkrētajā valsts apdraudējuma gadījumā.
+(3) Ārkārtējās situācijas un izņēmuma stāvokļa nodrošināšanas pasākumi veicami tikai tādā apjomā, kāds nepieciešams situācijas normalizēšanai. Ārkārtējā situācija un izņēmuma stāvoklis nevar būt par pamatu valsts varas un pārvaldes institūciju pilnvaru, cilvēka tiesību un brīvību ierobežošanai teritorijās, kurās attiecīgais tiesiskais režīms nav izsludināts.
+(4) Ārkārtējās situācijas un izņēmuma stāvokļa nodrošināšanas pasākumi nevar būt pretrunā ar starptautiskajām cilvēktiesību normām, kas ir saistošas Latvijas Republikai.
+(5) Ārkārtējā situācija vai izņēmuma stāvoklis nevar būt par pamatu Latvijas Republikas Satversmē minēto institūciju kompetences ierobežošanai.
+(6) Ārkārtējās situācijas un izņēmuma stāvokļa laikā personu izdarītie pārkāpumi izskatāmi saskaņā ar spēkā esošajiem likumiem.
+(7) Fiziskajām un juridiskajām personām, kuru īpašums (kustamā un nekustamā manta) pārņemts turējumā valsts aizsardzības un nacionālās drošības vajadzībām, ir tiesības uz tām radušos zaudējumu atbilstošu atlīdzinājumu. Ministru kabinets nosaka kārtību, kādā personām kompensējami zaudējumi, kas tām radušies sakarā ar šo personu īpašuma pārņemšanu valsts vai pašvaldību institūciju turējumā.

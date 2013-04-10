@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par izņēmuma stāvokli" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 51./52.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 5.nr.; 2003, 22.nr.; 2006, 24.nr.).

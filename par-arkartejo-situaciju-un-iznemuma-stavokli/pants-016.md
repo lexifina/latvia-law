@@ -1,0 +1,3 @@
+16.pants. Valsts pārvaldes padotība izņēmuma stāvokļa laikā
+(1) Ja tas nepieciešams nacionālajai drošībai un valsts aizsardzībai, izņēmuma stāvokļa laikā Ministru kabinets var grozīt valsts tiešās pārvaldes iestāžu un atvasinātu publisku personu padotības formu, mainīt valsts tiešās pārvaldes iestāžu padotību konkrētam Ministru kabineta loceklim, tai skaitā aizstāt pārraudzību ar pakļautību.
+(2) Ministru kabineta loceklis viņa padotībā esošo un izņēmuma stāvokļa laikā nodoto institūciju uzraudzību īsteno tieši vai ar tiešās pārvaldes iestādes, tās struktūrvienības vai amatpersonas starpniecību.
