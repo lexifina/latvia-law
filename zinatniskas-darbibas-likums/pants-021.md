@@ -7,3 +7,4 @@
 4) privāto tiesību juridiskā persona vai tās struktūrvienība.
 (3) Valsts zinātnisko institūtu var izveidot kā valsts aģentūru vai atvasinātu publisku personu. Valsts zinātniskais institūts atrodas izglītības un zinātnes ministra vai attiecīgās nozares ministra pārraudzībā.
 (4) Valsts zinātnisko institūtu izveidošanai, reorganizēšanai un likvidēšanai ir nepieciešams Latvijas Zinātnes padomes atzinums.
+(5) Valsts dibinātas universitātes zinātnisko institūtu var izveidot kā atvasinātu publisku personu. Valsts dibinātas universitātes izveidots zinātniskais institūts - atvasināta publiska persona - atrodas attiecīgās universitātes pārraudzībā.

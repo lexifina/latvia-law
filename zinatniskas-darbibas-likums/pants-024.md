@@ -12,7 +12,7 @@
 (11) Izglītības un zinātnes ministrs vai attiecīgās nozares ministrs ir tiesīgs atcelt valsts zinātniskā institūta direktora pieņemtos prettiesiskos lēmumus.
 (12) Direktora kompetencē ietilpst:
 1) zinātniskā institūta administratīvās, organizatoriskās un materiāltehniskās funkcionēšanas nodrošināšana;
-2) zinātniskā institūta finanšu līdzekļu un tam valdījumā vai lietošanā nodotās valsts mantas daļas pārvaldīšana un atbildība par to izmantošanu;
+2) zinātniskā institūta finanšu līdzekļu un tam īpašumā, valdījumā vai lietošanā nodotās valsts mantas daļas pārvaldīšana un atbildība par to izmantošanu;
 3) zinātniskā institūta zinātniskās padomes pieņemto lēmumu īstenošana;
 4) zinātniskā institūta attīstības programmu apstiprināšana.
 (13) Direktors nav tiesīgs pieņemt lēmumus, kas ietver zinātnisko pētījumu izvērtējumu.

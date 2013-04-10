@@ -1,5 +1,5 @@
 21.² pants. Zinātniskais institūts - atvasināta publiska persona
-(1) Zinātnisko institūtu - atvasinātu publisku personu - izveido ar Ministru kabineta lēmumu. Ministru kabinets lēmumā nosaka kustamo un nekustamo mantu, kas nododama zinātniskā institūta - atvasinātas publiskas personas - valdījumā vai lietošanā.
+(1) Zinātnisko institūtu - atvasinātu publisku personu - izveido ar Ministru kabineta lēmumu.
 (2) Zinātniskā institūta - atvasinātas publiskas personas - lēmējinstitūcija ir zinātniskā institūta zinātniskā padome.
 (3) Zinātniskā institūta - atvasinātas publiskas personas - zinātniskā padome papildus citos normatīvajos aktos noteiktajai kompetencei apstiprina zinātniskā institūta nolikumu un budžetu, kā arī var izveidot, reorganizēt un likvidēt iestādes un dibināt, reorganizēt un likvidēt kapitālsabiedrības, lemt par dalību biedrībās, nodibinājumos un kapitālsabiedrībās.
 (4) Zinātniskais institūts - atvasināta publiska persona - nav tiesīgs veidot citu zinātnisko institūtu.

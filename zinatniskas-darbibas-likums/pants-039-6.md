@@ -1,0 +1,2 @@
+39.⁶ pants. Tiesības uz atlīdzību no mantisko tiesību uz izgudrojumu vai augu šķirni saimnieciskās izmantošanas (komercializācijas) rezultātā gūtajiem ienākumiem
+Izgudrotājam vai selekcionāram ir tiesības uz taisnīgu atlīdzību no mantisko tiesību uz izgudrojumu vai augu šķirni saimnieciskās izmantošanas (komercializācijas) rezultātā gūtajiem ienākumiem valsts zinātniskās institūcijas darbības nolikumā noteiktajā kārtībā.

@@ -10,7 +10,7 @@
 2) sagatavo pieprasījumu ikgadējo valsts budžeta līdzekļu piešķiršanai zinātniskās darbības nodrošināšanai atbilstoši valsts zinātnes un tehnoloģijas attīstības politikai;
 3) var slēgt deleģēšanas un līdzdarbības līgumus par starptautiskās sadarbības projektu un programmu ieviešanu, Latvijas zinātnes atpazīstamības nodrošināšanu un sabiedrības izpratnes veidošanu par zinātnes nozīmi ilgtspējīgā valsts attīstībā;
 4) koordinē starptautiskās sadarbības programmas pētniecības un tehnoloģiju jomās un Ministru kabineta noteiktajā kārtībā nodrošina atbalstu dalībai šajās programmās;
-5) veic citas šajā likumā noteiktās darbības.
+5) veic citas likumā noteiktās darbības.
 (4) Ekonomikas ministrija:
 1) izstrādā inovācijas politiku;
 2) var slēgt deleģēšanas un līdzdarbības līgumus par starptautisku tehnoloģiju pārneses projektu ieviešanu un īstenošanu, inovācijas labās prakses piemēru popularizēšanas un inovatīvi aktīvas sabiedrības veidošanas pasākumu īstenošanu.

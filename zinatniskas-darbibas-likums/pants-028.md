@@ -12,12 +12,11 @@
 10) (izslēgts ar 21.06.2007. likumu);
 11) (izslēgts ar 21.06.2007. likumu);
 12) citas ziņas, ja to tieši paredz likums.
-(2) Lai zinātnisko institūciju reģistrā reģistrētu zinātnisko institūtu, tam jāatbilst šādiem kritērijiem:
+(2) Zinātnisko institūciju reģistrā reģistrē zinātnisko institūtu (publisku aģentūru, atvasinātu publisku personu, valsts augstskolas struktūrvienību, privāto tiesību juridisko personu vai tās struktūrvienību), ja tas atbilst visiem šādiem kritērijiem:
 1) zinātniskajā institūtā akadēmiskajos amatos ir ievēlētas vismaz piecas personas ar doktora zinātnisko grādu;
 2) zinātniskā institūta darbības jomai atbilstošajā zinātnes nozarē vismaz 10 procentiem no institūta zinātniskajiem darbiniekiem ir doktora zinātniskais grāds;
-3) zinātniskā institūta valdījumā vai lietošanā ir telpas;
-4) zinātniskā institūta zinātnieki publicē zinātniskus rakstus vai patentē izgudrojumus, vai izstrādā tehnoloģijas;
-5) zinātniskajam institūtam ir starptautiska sadarbība zinātnes jomā.
+3) zinātniskā institūta īpašumā, valdījumā vai lietošanā ir zinātniskā institūta darbības jomai atbilstošas telpas;
+4) zinātniskā institūta zinātnieki publicē zinātniskus rakstus vai patentē izgudrojumus, vai izstrādā tehnoloģijas.
 (3) Lai zinātnisko institūciju reģistrā reģistrētu augstskolu, tai jāatbilst šādiem kritērijiem:
 1) augstskola ir akreditēta un tajā vismaz pusei no vēlētā akadēmiskā personāla ir doktora zinātniskais grāds;
 2) augstskola īsteno vismaz vienu akreditētu doktora studiju programmu;
@@ -34,6 +33,7 @@
 2) biedrība vai nodibinājums atbilstoši statūtiem piedalās zinātniskās kvalifikācijas iegūšanas un pilnveidošanas procesā;
 3) biedrībā vai nodibinājumā darbojas zinātniskā padome;
 4) biedrības vai nodibinājuma akadēmiskajos amatos ir ievēlētas vismaz piecas personas ar doktora zinātnisko grādu.
+(5¹) Ja zinātniskais institūts ir augstskolas struktūrvienība, zinātnisko institūciju reģistrā reģistrē vai nu augstskolu, vai tās struktūrvienību - zinātnisko institūtu. Lēmumu par zinātnisko institūciju reģistrā reģistrējamo zinātnisko institūciju pieņem augstskola.
 (6) Gadu pēc reģistrācijas zinātniskā institūcija iesniedz reģistra amatpersonai šādas ziņas:
 1) personas ar doktora zinātnisko grādu, kurām ar zinātnisko institūciju noslēgts darba līgums;
 2) īstenojamo zinātnisko projektu sarakstu, to finansējuma apmēru un avotu;
@@ -42,4 +42,4 @@
 1) ievēlētās personas ar doktora zinātnisko grādu, kurām ar zinātnisko institūciju noslēgts darba līgums;
 2) pēdējo sešu gadu laikā īstenoto projektu sarakstu, patentu, starptautisko sadarbības projektu un publicēto zinātnisko rakstu sarakstu;
 3) ziņas par zinātniskās institūcijas telpu nodrošinājumu un svarīgākajām zinātniskajām iekārtām;
-4) darbības starptautisko vērtējumu saskaņā ar šā likuma 38.panta trešajā daļā noteikto.
+4) darbības starptautisko vērtējumu.

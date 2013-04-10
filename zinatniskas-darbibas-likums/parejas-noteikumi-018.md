@@ -1,0 +1,1 @@
+18. Zinātniskajai institūcijai, kas reģistrēta zinātnisko institūciju reģistrā un pirmo sešu gadu periodā kopš 2005.gada 19.maija nav saņēmusi savas darbības starptautisko vērtējumu, termiņš šā likuma 28.panta septītās daļas 4.punktā noteikto ziņu iesniegšanai zinātnisko institūciju reģistram tiek pagarināts līdz 2013.gada 31.decembrim.
