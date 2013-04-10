@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "MK 2013.gada 12.marta noteikumi Nr.138 \"Noteikumi par rūpniecisko energoauditu\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "68 (4874)",
+  "official_journal_page": null,
+  "official_journal_date": "2013-04-09",
+  "entry_into_force": "2013-04-10",
+  "notification_date": "2013-04-09",
+  "commission_reference": "MNE(2013)52635",
+  "nim_celex": "72006L0032LVA_203019",
+  "nim_id": "203019",
+  "transposes_celex": [
+    "32006L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/42e217fa-3ac5-4508-8b6f-f7509dd4d181",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
