@@ -1,4 +1,4 @@
-14.pants. Aizsargjoslas gar elektronisko sakaru tīkliem
+14.pants. Aizsargjoslas gar elektronisko sakaru tīkliem un stacionārajiem radiomonitoringa punktiem
 (1) Aizsargjoslas gar visu veidu un piederības elektronisko sakaru tīkliem un to infrastruktūras būvēm tiek noteiktas, lai nodrošinātu elektronisko sakaru tīklu un to infrastruktūras būvju maksimālu aizsardzību no cilvēka, dabas vai citu faktoru nevēlamas ietekmes, kuras rezultātā var tikt traucēta elektronisko sakaru tīklu droša ekspluatācija, radīti zaudējumi tautsaimniecībai un valstij.
 (2) Aizsargjoslām gar elektronisko sakaru tīkliem ir šāds minimālais platums:
 1) gar pazemes elektronisko sakaru tīklu līnijām un kabeļu kanalizāciju - zemes gabals un gaisa telpa, ko norobežo nosacītas vertikālas virsmas elektronisko sakaru tīkla līnijas katrā pusē 1 metra attālumā no elektronisko sakaru tīkla līnijas ass vai kabeļu kanalizācijas caurules ārējās malas;
@@ -16,4 +16,6 @@
 (2¹) Aizsargjoslas ap elektronisko sakaru tīklu radiosakaru līniju torņiem, antenu mastiem un to atsaitēm veido:
 1) ap elektronisko sakaru tīklu radiosakaru līniju torņiem un antenu mastiem - zemes gabals un gaisa telpa torņa vai masta augstumā, ko norobežo nosacīta vertikāla virsma 1 metra attālumā ārpusē no to nožogojuma vai 5 metru attālumā no to vistālāk izvirzīto daļu projekcijas uz zemes vai citas virsmas, ja tornis vai masts nav nožogots;
 2) ap elektronisko sakaru tīklu radiosakaru līniju torņu un antenu mastu atsaitēm - zemes gabals un gaisa telpa torņa vai masta augstumā, ko norobežo nosacīta vertikāla virsma 2,5 metru attālumā no atsaites projekcijas uz zemes virsmas un atsaites nostiprinājuma vietas zemē vai citā virsmā.
-(3) Metodikas projektu, pēc kuras nosaka ekspluatācijas aizsargjoslas gar elektronisko sakaru tīkliem, izstrādā Satiksmes ministrija.
+(2²) Aizsargjoslas ap stacionārajiem radiomonitoringa punktiem nosaka, lai nodrošinātu stacionāro radiomonitoringa punktu netraucētu darbību gaisa telpā un novērstu tādu iespējamu traucējošu objektu nesaskaņotu būvniecību vai uzstādīšanu, kuri var ietekmēt novērojumu vai mērījumu rezultātu precizitāti un nepārtrauktību.
+(2³) Aizsargjoslu ap stacionāro radiomonitoringa punktu veido gaisa telpa 150 metru rādiusā, mērot no stacionārā radiomonitoringa punkta antenu sistēmas pamatnes ass, un ne mazāk kā 20 metru augstumā no būves pamatnes, uz kuras uzstādīta antenu sistēma.
+(3) (Izslēgta ar 14.03.2013. likumu)

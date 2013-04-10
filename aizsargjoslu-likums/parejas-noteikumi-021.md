@@ -1,0 +1,1 @@
+21. Šā likuma 43.panta otrajā daļā minētais saskaņošanas pienākums attiecas uz jauniem ierīkošanas un būvniecības projektiem, kuriem līdz dienai, kad stājas spēkā grozījums šā likuma 43.pantā (par tā papildināšanu ar otro daļu), nav akceptēts ierīkošanas projekts vai izsniegta būvatļauja.

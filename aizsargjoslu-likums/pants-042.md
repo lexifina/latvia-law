@@ -10,4 +10,4 @@ b) veikt darbības, kuru rezultātā pasliktinās hidroloģiskais režīms dzelz
 c) veikt jebkurus būvniecības vai grunts rakšanas un pārvietošanas darbus bez saskaņošanas ar dzelzceļa infrastruktūras pārvaldītāju,
 d) (izslēgts ar 22.06.2005. likumu),
 e) aizkraut pievedceļus un pieejas pie dzelzceļa apkalpošanas objektiem.
-(2) Ministru kabinets nosaka, kādos gadījumos valsts autoceļu īpašnieks vai dzelzceļa infrastruktūras pārvaldītājs dod atļauju būvniecībai aizsargjoslās gar autoceļiem un dzelzceļiem.
+(2) (Izslēgta ar 14.03.2013. likumu)

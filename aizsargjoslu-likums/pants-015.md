@@ -8,4 +8,4 @@
 5) ap jūras piekrastes hidrometriskajiem (hidroloģiskajiem) novērojumu posteņiem - 150 metru rādiusā no iekārtas centra.
 (3) Aizsargjoslas platumu ap pazemes ūdeņu valsts monitoringa posteņiem un dziļurbumiem nosaka valsts sabiedrība ar ierobežotu atbildību "Latvijas Vides, ģeoloģijas un meteoroloģijas centrs", un tas nedrīkst pārsniegt 10 metrus no posteņa ārējās robežas.
 (4) Aizsargjoslas platumu ap seismoloģiskā monitoringa posteņiem nosaka valsts sabiedrība ar ierobežotu atbildību "Latvijas Vides, ģeoloģijas un meteoroloģijas centrs", un tas nedrīkst pārsniegt 10 metrus no posteņa konstrukcijas ārējās malas.
-(5) Aizsargjoslas platumu ap hidrometriskajiem posteņiem nosaka Lauku atbalsta dienests, un tas nedrīkst pārsniegt 5 metrus no būves ārējās malas vai hidrometriskā posteņa.
+(5) Aizsargjoslas platumu ap hidrometriskajiem posteņiem nosaka valsts sabiedrība ar ierobežotu atbildību "Zemkopības ministrijas nekustamie īpašumi", un tas nedrīkst pārsniegt 5 metrus no būves ārējās malas vai hidrometriskā posteņa.

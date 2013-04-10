@@ -2,7 +2,7 @@
 (1) Ekspluatācijas aizsargjoslas tiek noteiktas gar transporta līnijām, gar elektronisko sakaru tīkliem un citu komunikāciju līnijām, kā arī ap objektiem, kas nodrošina dažādu valsts dienestu darbību. Ekspluatācijas aizsargjoslu galvenais uzdevums ir nodrošināt minēto komunikāciju un objektu efektīvu un drošu ekspluatāciju un attīstības iespējas.
 (2) Ir šādi ekspluatācijas aizsargjoslu veidi:
 1) aizsargjoslas gar ielām, autoceļiem un dzelzceļiem;
-2) aizsargjoslas gar elektronisko sakaru tīkliem;
+2) aizsargjoslas gar elektronisko sakaru tīkliem un stacionārajiem radiomonitoringa punktiem;
 3) aizsargjoslas ap valsts meteoroloģisko un hidroloģisko novērojumu stacijām un hidrometriskajiem posteņiem un ap citiem stacionāriem valsts nozīmes monitoringa punktiem un posteņiem;
 4) aizsargjoslas gar elektriskajiem tīkliem;
 5) aizsargjoslas gar siltumtīkliem;

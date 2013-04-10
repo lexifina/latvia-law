@@ -1,4 +1,4 @@
-43.pants. Aprobežojumi aizsargjoslās gar elektronisko sakaru tīkliem
+43.pants. Aprobežojumi aizsargjoslās gar elektronisko sakaru tīkliem un stacionārajiem radiomonitoringa punktiem
 (1) Papildus šā likuma 35.pantā minētajiem aprobežojumiem bez izpildāmo darbu projekta, kas rakstveidā saskaņots ar elektronisko sakaru tīkla valdītāju, aizsargjoslās gar elektronisko sakaru tīkliem aizliegts:
 1) veikt jebkādus celtniecības, montāžas un spridzināšanas darbus, grunts planēšanu ar tehniku, kā arī zemes darbus dziļāk par 0,3 metriem, aramzemēs - dziļāk par 0,45 metriem, autoceļu zemes nodalījuma joslā - dziļāk par 0,5 metriem;
 2) izdarīt ģeoloģiskās un ģeodēziskās izpētes darbus, kas saistīti ar urbumiem, zemes paraugu ņemšanu un citiem līdzīgiem darbiem;
@@ -11,3 +11,4 @@
 9) veikt jebkādas citas darbības, kas var izraisīt telekomunikāciju līniju un iekārtu bojājumus;
 10) rokot zemi, lietot laužņus, kapļus, ķīļus un pneimatiskos instrumentus;
 11) apbērt ar zemi vai būvmateriāliem kabeļu kanalizācijas kabeļaku lūku vākus, sadales skapjus, brīdinājuma zīmes un mērstabiņus pazemes kabeļu trasēs, kā arī pārvietot esošās elektronisko sakaru tīklu līnijas un iekārtas bez iepriekšējas saskaņošanas ar to valdītāju.
+(2) Stacionārā radiomonitoringa punkta aizsargjoslā būvēt ēkas vai būves, kuru augstums pārsniedz 20 metrus un stacionārā radiomonitoringa punkta antenu sistēmas pamatnes augstumu, atļauts pēc būvprojekta vai ierīkošanas projekta rakstveida saskaņošanas ar stacionārā radiomonitoringa punkta īpašnieku.

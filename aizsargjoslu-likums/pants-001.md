@@ -15,7 +15,8 @@ Likumā ir lietoti šādi termini:
 13) sarkanā līnija - līnija, kas norobežo ceļa, ielas vai piebrauktuves (arī inženierkomunikāciju koridoru) izbūvei nepieciešamo teritoriju, kurā nekustamā īpašuma lietošanas tiesības aprobežotas saskaņā ar normatīvajiem aktiem, no apbūvējamās vai citādā veidā izmantojamās teritorijas un ko normatīvajos aktos noteiktajā kārtībā nosaka vietējā pašvaldība;
 14) kabeļu līnijas ass - nosacīta līnija, kas iet caur katra kabeļa diametra viduspunktu. Katram kabelim ir sava kabeļu līnijas ass, kas nosaka šā kabeļa aizsargjoslas novietojumu;
 14¹) gaisvadu līnijas ass - nosacīta līnija, kas iet caur gaisvadu līnijas balstu konstrukciju viduspunktiem;
-15) purvi - ekosistēmas uz kūdras augsnēm, kurās koku augstums konkrētajā vietā nevar sasniegt vairāk par septiņiem metriem;
+15) purvi - ekosistēmas uz kūdras augsnēm, kurās koku augstums konkrētajā vietā nevar sasniegt vairāk par pieciem metriem;
 16) dambis - hidrotehniska būve, ko ierīko, lai regulētu ūdens straumi gultnē vai aizsargātu teritoriju pret applūšanu;
 17) iepriekšējā apbūve - likumīgi uzbūvētas būves vai ēkas (vai to pamati), kuras konstatējamas dabā;
-18) palīgēka - ēka (pirts, klēts, garāža, nojume, siltumnīca, ēka dārza inventāra, materiālu un sadzīves priekšmetu glabāšanai u.tml.), kura netiek klasificēta kā dzīvojamā ēka, kurā nav dzīvojamās telpas (pastāvīgai vai sezonas rakstura dzīvošanai) un kura ir funkcionāli piederīga dzīvojamai ēkai.
+18) palīgēka - ēka (pirts, klēts, garāža, nojume, siltumnīca, ēka dārza inventāra, materiālu un sadzīves priekšmetu glabāšanai u.tml.), kura netiek klasificēta kā dzīvojamā ēka, kurā nav dzīvojamās telpas (pastāvīgai vai sezonas rakstura dzīvošanai) un kura ir funkcionāli piederīga dzīvojamai ēkai;
+18¹) stacionārais radiomonitoringa punkts - stacionārs radiofrekvenču spektra novērošanas komplekss, kas sastāv no uztverošo radioiekārtu, antenu sistēmu un to mastu kopuma un paredzēts radiofrekvenču spektra uzraudzības jomai.
