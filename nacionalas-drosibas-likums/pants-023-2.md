@@ -7,5 +7,7 @@
 4) finanšu ministrs;
 5) iekšlietu ministrs;
 6) tieslietu ministrs;
-7) veselības ministrs.
+7) veselības ministrs;
+8) satiksmes ministrs;
+9) vides aizsardzības un reģionālās attīstības ministrs.
 (3) Uz Krīzes vadības padomes sēdi ar padomdevēja tiesībām var uzaicināt valsts drošības iestāžu vadītājus un citas valsts amatpersonas.
