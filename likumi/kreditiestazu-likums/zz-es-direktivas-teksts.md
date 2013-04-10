@@ -1,5 +1,5 @@
 Likumā iekļautas tiesību normas, kas izriet no:
-1) Eiropas Parlamenta un Padomes 1977.gada 19.decembra direktīvas 77/799/EEK par dalībvalstu kompetentu iestāžu savstarpēju palīdzību tiešo un netiešo nodokļu jomā;
+1) (izslēgts ar 14.03.2013. likumu);
 2) Eiropas Parlamenta un Padomes 2000.gada 20.marta direktīvas 2000/12/EK par kredītiestāžu darbības sākšanu un veikšanu;
 3) (izslēgts ar 23.12.2010. likumu);
 4) Eiropas Parlamenta un Padomes 2001.gada 4.aprīļa direktīvas 2001/24/EK par kredītiestāžu reorganizāciju un likvidāciju;
@@ -17,4 +17,5 @@ Likumā iekļautas tiesību normas, kas izriet no:
 16) Eiropas Parlamenta un Padomes 2009.gada 16.septembra direktīvas 2009/111/EK, ar ko groza direktīvu 2006/48/EK, direktīvu 2006/49/EK un direktīvu 2007/64/EK attiecībā uz bankām, kuras saistītas ar galvenajām iestādēm, dažiem pašu kapitāla posteņiem, lielajiem riska darījumiem, uzraudzības pasākumiem un krīzes pārvaldību;
 17) Eiropas Parlamenta un Padomes 2010.gada 24.novembra direktīvas 2010/76/ES, ar ko groza direktīvu 2006/48/EK un direktīvu 2006/49/EK attiecībā uz kapitāla prasībām, kas piemērojamas tirdzniecības portfelim un atkārtotai vērtspapirizācijai, un attiecībā uz atalgojuma politikas uzraudzības pārbaudi;
 18) Padomes 2010.gada 16.marta direktīvas 2010/24/ES par savstarpēju palīdzību prasījumu piedziņā saistībā ar noteiktiem maksājumiem, nodokļiem un citiem pasākumiem;
-19) Eiropas Parlamenta un Padomes 2010.gada 24.novembra direktīvas 2010/78/ES, ar ko groza direktīvas 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK un 2009/65/EK attiecībā uz Eiropas Uzraudzības iestādes (Eiropas Banku iestādes), Eiropas Uzraudzības iestādes (Eiropas Apdrošināšanas un aroda pensiju iestādes) un Eiropas Uzraudzības iestādes (Eiropas Vērtspapīru un tirgu iestādes) pilnvarām.
+19) Eiropas Parlamenta un Padomes 2010.gada 24.novembra direktīvas 2010/78/ES, ar ko groza direktīvas 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK un 2009/65/EK attiecībā uz Eiropas Uzraudzības iestādes (Eiropas Banku iestādes), Eiropas Uzraudzības iestādes (Eiropas Apdrošināšanas un aroda pensiju iestādes) un Eiropas Uzraudzības iestādes (Eiropas Vērtspapīru un tirgu iestādes) pilnvarām;
+20) Padomes 2011.gada 15.februāra direktīvas 2011/16/ES par administratīvu sadarbību nodokļu jomā un ar ko atceļ direktīvu 77/799/EEK.
