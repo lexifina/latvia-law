@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "02.04.2013. MK noteikumi Nr.183 \"Kārtība, kādā izstrādā pamatziņojumu par augsnes un pazemes ūdeņu piesārņojumu ar bīstamām ķīmiskām vielām iekārtas teritorijā\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "73 (4879)",
+  "official_journal_page": null,
+  "official_journal_date": "2013-04-16",
+  "entry_into_force": "2013-04-17",
+  "notification_date": "2013-04-30",
+  "commission_reference": "MNE(2013)53191",
+  "nim_celex": "72010L0075LVA_203706",
+  "nim_id": "203706",
+  "transposes_celex": [
+    "32010L0075"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7c670382-eb60-43fa-8eb0-a3c01be6e70b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
