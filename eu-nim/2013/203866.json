@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2013.gada 2.aprīļa noteikumi Nr.186 \"Kārtība, kādā ierobežojama gaistošo organisko savienojumu emisija no iekārtām, kurās izmanto organiskos šķīdinātājus\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "73 (4879)",
+  "official_journal_page": null,
+  "official_journal_date": "2013-04-16",
+  "entry_into_force": "2013-04-17",
+  "notification_date": "2013-05-07",
+  "commission_reference": "MNE(2013)53310",
+  "nim_celex": "72010L0075LVA_203866",
+  "nim_id": "203866",
+  "transposes_celex": [
+    "32010L0075"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b32d1521-9b1f-4d05-a75a-b391a70d3648",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
