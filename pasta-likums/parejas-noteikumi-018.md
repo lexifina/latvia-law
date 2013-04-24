@@ -1,0 +1,1 @@
+18. Šajā likumā lietotie termini "pārrobežu pasta sūtījumi" un "pārrobežu pasta pakalpojumi" atbilst citos tiesību aktos lietotajiem terminiem "starptautiskie pasta sūtījumi" un "starptautiskie pasta pakalpojumi", ciktāl tas nav pretrunā ar šo likumu.

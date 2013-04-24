@@ -1,7 +1,6 @@
-33.pants. Pasta apmaksas zīmes
-(1) Latvijas Republikā lieto šādas pasta apmaksas zīmes:
-1) Latvijas Republikas pastmarkas;
-2) pastmarkas attēlus uz aploksnēm vai pastkartēm (nospiedumi, kas izdarīti ar tipogrāfijas iespiedmašīnām);
-3) marķēšanas mašīnu klišeju nospiedumus;
-4) starptautiskos atbildes kuponus.
-(2) Pārdotās pasta apmaksas zīmes nemaina ne pret naudu, ne pret citas vērtības pastmarkām, ne pret jebkādām citām vērtībām. Pārdotās pasta apmaksas zīmes pasta komersants atpakaļ nepieņem.
+33.pants. Pasta pakalpojumu apmaksas apliecināšanas veidi
+(1) Pasta pakalpojumu apmaksu apliecina, izmantojot vienu no šādām uz pasta sūtījuma pielīmētām vai uzdrukātām pasta apmaksas zīmēm:
+1) Latvijas Republikas pastmarku;
+2) Latvijas Republikā derīgu pasta apmaksas zīmi, kas uz pasta sūtījuma iesaiņojuma vai pastkartes uzdrukāta ar tipogrāfijas iespiedmašīnu vai iegūta drukāšanas vai iespiešanas procesā.
+(2) Pasta apmaksas zīmes vietā var uzspiest šajā likumā noteiktajā kārtībā reģistrētas marķēšanas mašīnas klišejas nospiedumu.
+(3) Pārdotās pasta apmaksas zīmes atpakaļ nepieņem un nemaina.

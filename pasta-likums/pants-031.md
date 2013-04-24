@@ -1,4 +1,6 @@
-31.pants. Universālā pasta pakalpojuma finansēšana un zaudējumu kompensēšana
-(1) Universālā pasta pakalpojuma saistību izpildes tīrās izmaksas kompensē saskaņā ar šā likuma 31.¹ pantā norādīto kārtību.
-(2) Universālā pasta pakalpojuma saistību izpildes tīrās izmaksas kompensē, ja pasta komersants, kas sniedz universālo pasta pakalpojumu, pierāda, ka universālā pasta pakalpojuma saistību izpilde rada zaudējumus.
-(3) Zaudējumus, kas izriet no universālā pasta pakalpojuma saistību izpildes, nekompensē, ja universālā pasta pakalpojuma saistību izpilde rada arī papildu ieguvumu un tas pārsniedz radītos zaudējumus.
+31.pants. Tīro izmaksu kompensācijas nosacījumi
+(1) Tīrās izmaksas kompensē saskaņā ar šā likuma 31.¹ pantā norādīto kārtību.
+(2) Tīrās izmaksas kompensē, ja universālā pasta pakalpojuma sniedzējs pierāda, ka tas ir pakļauts netaisnīgam apgrūtinājumam un universālā pasta pakalpojuma saistību izpilde rada zaudējumus.
+(3) Tīrās izmaksas nekompensē, ja universālā pasta pakalpojuma saistību izpilde rada papildu ieguvumu un tas pārsniedz aprēķināto tīro izmaksu apmēru.
+(4) Šā panta trešajā daļā minēto papildu ieguvumu veido nemateriālie un tirgus ieguvumi - universālā pasta pakalpojuma sniedzēja ieņēmumi no citiem universālajā pasta pakalpojumā neietvertiem sniegtajiem pakalpojumiem, ja šādus ieņēmumus iespējams gūt, tikai sniedzot universālo pasta pakalpojumu. Papildu ieguvumu aprēķinā iekļauj tādus ieņēmumus no citiem sniegtajiem pakalpojumiem, kuri atbilst Regulatora izdotajā universālā pasta pakalpojuma saistību izpildes tīro izmaksu aprēķināšanas un noteikšanas metodikā ietvertajiem kritērijiem, un par iegūto vērtību samazina tīrās izmaksas.
+(5) Universālā pasta pakalpojuma sniedzējam nekompensē to tīro izmaksu daļu, kura radusies universālajā pasta pakalpojumā ietverto pakalpojumu tarifu atlaižu un īpašo tarifu piemērošanas dēļ.

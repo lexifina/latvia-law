@@ -10,4 +10,4 @@
 8) naudu, monētas, banknotes un jebkura veida vērtspapīrus (čekus);
 9) priekšmetus un vielas, kuru pārsūtīšanas (pārvadāšanas) aizliegums noteikts normatīvajos aktos medicīnas vai transporta (aviācijas) jomā.
 (2) Pasta sūtījumos aizliegts pārsūtīt dzīvniekus.
-(3) Pasta komersantam ir tiesības noteikt citus pasta sūtījumu satura ierobežojumus, kas nav pretrunā ar 2004.gada 5.oktobra Pasaules Pasta konvencijas un citu normatīvo aktu prasībām.
+(3) Pasta komersantam ir tiesības noteikt citus pasta sūtījumu satura ierobežojumus, kas nav pretrunā ar Pasaules Pasta konvencijas un citu normatīvo aktu prasībām.

@@ -1,2 +1,2 @@
 38.pants. Pasta sūtījumu apmaksa ar starptautiskajiem atbildes kuponiem
-Starptautiskos atbildes kuponus, kurus izdod Pasaules Pasta savienības Starptautiskais birojs, pieņem pārrobežu vēstuļu korespondences sūtīšanas apmaksai. Uz starptautiskā atbildes kupona jābūt tās valsts pasta kalendāra zīmoga nospiedumam, kurā šis kupons pārdots. Pasta komersants, kas sniedz universālo pasta pakalpojumu, pieņem arī neapzīmogotus kuponus.
+Starptautiskos atbildes kuponus, kurus izdod Pasaules Pasta savienības Starptautiskais birojs, pieņem pārrobežu vēstuļu korespondences sūtīšanas apmaksai. Uz starptautiskā atbildes kupona jābūt tās valsts pasta kalendāra zīmoga nospiedumam, kurā šis kupons pārdots. Universālā pasta pakalpojuma sniedzējs pieņem arī neapzīmogotus kuponus.

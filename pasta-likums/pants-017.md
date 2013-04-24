@@ -4,6 +4,4 @@
 1) abonēto preses izdevumu piegādes pakalpojumi (19.pants);
 2) eksprespasta pakalpojumi (20.pants);
 3) kurjerpasta pakalpojumi (21.pants);
-4) naudas pārvedumu un pārskaitījumu pakalpojumi, kurus sniedz, izmantojot pasta tīklu, un iedala:
-a) maksājumu pakalpojumos (22.pants),
-b) pasta naudas pārvedumu pakalpojumos (23.pants).
+4) (izslēgts ar 21.03.2013. likumu).
