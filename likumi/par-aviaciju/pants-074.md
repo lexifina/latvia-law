@@ -12,4 +12,5 @@ Veicot izmeklēšanu, Transporta nelaimes gadījumu un incidentu izmeklēšanas 
 10) noteikt, kad gaisa kuģi, tā saturu, atlūzas un citus pierādījumus var aizvākt no notikuma vietas, kā arī iznīcināt normatīvajos aktos noteiktajā kārtībā;
 11) pieaicināt policijas darbinieku, lai civilās aviācijas nelaimes gadījumā vai incidentā iesaistītajām personām veiktu alkoholisko, narkotisko, psihotropo, toksisko vai citu apreibinošo vielu ietekmes konstatēšanu vai nogādātu šīs personas jebkurā ārstniecības iestādē minēto vielu ietekmes noteikšanai.
 Transporta nelaimes gadījumu un incidentu izmeklēšanas birojam ir arī citas tiesības, kas nepieciešamas efektīvai izmeklēšanas mērķa sasniegšanai pēc iespējas īsākā laika posmā.
-Transporta nelaimes gadījumu un incidentu izmeklēšanas biroja izmeklētājus apdrošina pret nelaimes gadījumiem, kas var notikt dienesta pienākumu veikšanas laikā civilās aviācijas nelaimes gadījuma vai incidenta vietā.
+(Trešā daļa izslēgta ar 21.03.2013. likumu)
+Transporta nelaimes gadījumu un incidentu izmeklēšanas biroja izmeklētāja apliecības paraugu apstiprina Ministru kabinets.

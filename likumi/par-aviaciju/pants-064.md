@@ -1,5 +1,5 @@
 64. pants. Ziņošana par aviācijas nelaimes gadījumiem
-Personām par visiem tām zināmajiem aviācijas nelaimes gadījumiem nekavējoties jāziņo pašvaldības institūcijai vai Valsts policijai, Aviācijas meklēšanas un glābšanas valsts dienestam, Transporta nelaimes gadījumu un incidentu izmeklēšanas birojam vai tuvākajam aviācijas komersantam (piemēram, lidostai).
+Personām par visiem tām zināmajiem aviācijas nelaimes gadījumiem nekavējoties jāziņo pašvaldības institūcijai vai Valsts policijai, Aviācijas meklēšanas un glābšanas valsts dienestam, Transporta nelaimes gadījumu un incidentu izmeklēšanas birojam vai tuvākajam aviācijas komersantam (piemēram, lidostai). Personas par visiem tām zināmajiem atgadījumiem civilajā aviācijā nekavējoties ziņo Transporta nelaimes gadījumu un incidentu izmeklēšanas birojam.
 Pašvaldības institūcijai vai Valsts policijai par visiem zināmajiem aviācijas nelaimes gadījumiem nekavējoties jāziņo Aviācijas meklēšanas un glābšanas valsts dienestam un Transporta nelaimes gadījumu un incidentu izmeklēšanas birojam.
 Lai ziņotu par aviācijas nelaimes gadījumiem, var izmantot jebkuras personas sakaru līdzekļus, bet Latvijas Republikas sakaru iestādēm jānodrošina steidzamu telegrammu nosūtīšana vai steidzamas telefonsarunas bez maksas.
-Par tādu atgadījumu civilajā aviācijā, kurš skar gaisa kuģa lidojumu drošību, ziņo Ministru kabineta noteiktajā kārtībā.
+Par tādu atgadījumu civilajā aviācijā, kurš skar gaisa kuģa lidojumu drošumu, ziņo Ministru kabineta noteiktajā kārtībā.

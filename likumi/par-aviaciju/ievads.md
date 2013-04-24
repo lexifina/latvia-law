@@ -17,7 +17,10 @@ Civilā aviācija - gaisa kuģu, lidlauku un citu objektu kopums, kas paredzēts
 Civilās aviācijas drošība - pasākumu komplekss un cilvēku un materiālie resursi, kas paredzēti civilās aviācijas aizsardzībai pret nelikumīgas iejaukšanās aktiem tās darbībā.
 Civilās aviācijas drošības programma - pasākumi, kas nepieciešami civilās aviācijas aizsardzībai pret nelikumīgas iejaukšanās aktiem.
 Civilās aviācijas gaisa kuģa apkalpe - personas, kurām attiecīgās aviācijas institūcijas noteiktajā kārtībā uzdots gaisa kuģa lidojuma laikā veikt tā ekspluatāciju.
+Civilās aviācijas gaisa kuģa lidojumu apkalpes loceklis - civilās aviācijas gaisa kuģa apkalpes loceklis, kura pienākumi ir saistīti ar gaisa kuģa vadīšanu.
+Civilās aviācijas gaisa kuģa salona apkalpes loceklis - civilās aviācijas gaisa kuģa apkalpes loceklis, kura pienākumi ir saistīti ar pasažieru drošības interesēm un pasažieru apkalpošanu gaisa kuģī.
 Civilās aviācijas gaisa kuģis - civilās aviācijas gaisa kuģu reģistrā reģistrēts gaisa kuģis, kuru neizmanto militārie, muitas vai Valsts robežsardzes dienesti.
+Civilās aviācijas personāls - fiziskās personas ar funkciju pildīšanai civilās aviācijas jomā atbilstošu kvalifikāciju.
 Dispečera norādījumi - direktīvi gaisa satiksmes vadības dienesta dispečera norādījumi pilotam attiecībā uz konkrētu darbību veikšanu.
 Gaisa kuģa ekspluatācijas instrukcija lidojuma veikšanai - noteikumi, kas attiecas uz gaisa kuģa derīgumu lidojumiem un ietver ierobežojumus, kuri jāievēro, lai gaisa kuģis tiktu atzīts par derīgu lidojumiem, kā arī ietver instrukcijas un informāciju, kas nepieciešama gaisa kuģa apkalpei, lai garantētu gaisa kuģa drošu ekspluatāciju.
 Gaisa kuģa ekspluatanta apliecība - dokuments, kas dod tiesības, ekspluatējot gaisa kuģi, veikt noteiktu darbību.
@@ -31,14 +34,12 @@ Gaisa kuģis, kam draud briesmas, - gaisa kuģis, kas ir šādās situācijās:
 1) ir šaubas par gaisa kuģa un tajā esošo personu drošību (trauksmes fāze);
 2) nav pārliecības par gaisa kuģa un tajā esošo personu drošību (nenoteiktības fāze).
 Gaisa kuģis, kas ir briesmās, - gaisa kuģis, kas ir situācijā, kurai raksturīga pamatota pārliecība, ka gaisa kuģim un tajā esošajām personām draud nopietnas un tiešas briesmas vai ir nepieciešama tūlītēja palīdzība (briesmu fāze).
-Gaisa kuģu lidojumu drošība - komplekss aviācijas darbības raksturojums, kas nosaka iespēju veikt lidojumus, neapdraudot cilvēku dzīvību un veselību.
+Gaisa kuģu lidojumu drošums - apdraudējuma nepārtraukta identifikācija un drošības risku pārvaldība, lai garantētu, ka netiks nodarīts kaitējums personām vai bojājumi īpašumam, samazinot šāda negadījuma iespējamību līdz noteiktam līmenim un saglabājot to noteiktajā vai zemākā līmenī.
 Gaisa pārvadājumi - gaisa kuģu lidojumi, kurus veic, lai par atlīdzību vai saskaņā ar nomas līgumu pārvadātu pasažierus, bagāžu, kravu un pastu.
 Gaisa satiksme - visu to gaisa kuģu kustība, kuri atrodas gaisā vai pārvietojas lidlauka manevrēšanas laukumā.
-Gaisa trase - kontrolēta gaisa telpa vai tās daļa koridora veidā, kurā ir nodrošināta aeronavigācijas līdzekļu izmantošana.
 Incidents - jebkurš ar gaisa kuģa izmantošanu saistīts notikums, izņemot aviācijas nelaimes gadījumu, kas apdraud vai var apdraudēt gaisa kuģa ekspluatācijas drošību.
 Izmeklēšana - process, kura uzdevums ir novērst aviācijas nelaimes gadījumus un kurš ietver informācijas savākšanu un analīzi, atzinumu sagatavošanu, arī cēloņu noskaidrošanu un, ja nepieciešams, drošuma rekomendāciju izstrādāšanu gaisa kuģu lidojumu drošības garantēšanai.
 Kvalifikācijas atzīme - atzīme par īpašiem nosacījumiem, tiesībām un ierobežojumiem, kas izdarīta attiecīgā apliecībā vai ir tās neatņemama sastāvdaļa.
-Latvijas Republikas civilās aviācijas gaisa kuģis - civilās aviācijas gaisa kuģis, kas reģistrēts Latvijas Republikas Civilās aviācijas gaisa kuģu reģistrā.
 Latvijas Republikas gaisa telpa - gaisa telpa virs Latvijas Republikas sauszemes teritorijas, tās iekšējiem un teritoriālajiem Baltijas jūras ūdeņiem.
 Latvijas Republikas militārā aviācija - Latvijas Republikā reģistrēto militāro gaisa kuģu, Latvijas Republikā reģistrēto Latvijas Nacionālo bruņoto spēku militārajām vajadzībām izmantoto civilo gaisa kuģu, militāro lidlauku un citu objektu kopums, kas paredzēts valsts aizsardzības funkciju veikšanai.
 Latvijas Republikas muitas un Valsts robežsardzes dienestu aviācija - gaisa kuģu, lidlauku un citu objektu kopums, kas galvenokārt paredzēts minēto dienestu funkciju izpildei.
@@ -47,7 +48,6 @@ Lidlauka kontrolējamā zona - lidostas ēkas daļa un lidlauka teritorija, kur�
 Lidlauka kontrolpunkts - nosacīts punkts, pēc kura konstatē lidlauka ģeogrāfisko atrašanās vietu (koordinātes).
 Lidlauka manevrēšanas teritorija - lidlauka daļa, izņemot peronu, kas paredzēts gaisa kuģu pacelšanās, nosēšanās un manevrēšanas vajadzībām.
 Lidlauka satiksme - visa kustība lidlauka manevrēšanas laukumā, kā arī gaisa kuģu lidojumi virs lidlaukam blakus esošās teritorijas.
-Lidlauka satiksmes zona - noteiktu izmēru gaisa telpa, kas atrodas virs lidlaukam blakus esošās teritorijas un ir paredzēta lidlauka satiksmes drošības garantēšanai.
 Lidlauks - noteikta zemes teritorija vai ūdens akvatorija, kā arī ēkas, objekti un iekārtas, kas pilnīgi vai daļēji paredzētas, lai organizētu gaisa kuģu pienākšanu un atiešanu (tas ir, gaisa kuģu pacelšanos, nosēšanos, manevrēšanu un stāvēšanu, pasažieru iekāpšanu un izkāpšanu, tranzīta pasažieru apkalpošanu, bagāžas, kravas un pasta iekraušanu un izkraušanu, kā arī gaisa kuģu tehnisko apkopi, degvielas uzpildi u. c.).
 Lidojumu ierobežojumu zona - ierobežota gaisa telpa virs valsts sauszemes teritorijas un tās iekšējiem vai teritoriālajiem Baltijas jūras ūdeņiem, kurā gaisa kuģu lidojumi ir veicami saskaņā ar speciāliem noteikumiem.
 Meteoroloģiskā informācija - meteoroloģisks pārskats, analīze, prognoze un jebkurš cits biļetens par faktiskajiem vai gaidāmajiem meteoroloģiskajiem apstākļiem.
