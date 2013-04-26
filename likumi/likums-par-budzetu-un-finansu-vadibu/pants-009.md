@@ -17,7 +17,7 @@
 (13¹) Finanšu ministram ir tiesības, informējot par to Saeimu, veikt šādas apropriāciju izmaiņas:
 1) starp ministrijām un citām centrālajām valsts iestādēm transfertu veikšanai gadskārtējā valsts budžeta izpildes procesā, kā arī valsts budžeta saņemamajiem transfertiem no pašvaldību budžetiem, no valsts budžeta daļēji finansēto atvasināto publisko personu budžetiem un budžeta nefinansēto iestāžu budžetiem;
 2) valsts budžeta iestādēm piešķirto ārvalstu finanšu palīdzības līdzekļu izmantošanai un šā likuma 27.pantā noteiktajā kārtībā aprēķināto ārvalstu finanšu palīdzības līdzekļu atlikumu saimnieciskā gada sākumā izmantošanai.
-(14) Finanšu ministram ir tiesības palielināt gadskārtējā valsts budžeta likumā noteikto apropriāciju, ja Saeimas Budžeta un finanšu (nodokļu) komisija piecu dienu laikā no attiecīgās informācijas saņemšanas ir izskatījusi to un nav iebildusi pret apropriācijas palielinājumu, tikai šādiem mērķiem:
+(14) Finanšu ministram ir tiesības palielināt gadskārtējā valsts budžeta likumā noteikto apropriāciju, ja Saeimas Budžeta un finanšu (nodokļu) komisija piecu darba dienu laikā no attiecīgās informācijas saņemšanas ir izskatījusi to un nav iebildusi pret apropriācijas palielinājumu, tikai šādiem mērķiem:
 1) valsts budžeta iestāžu ieņēmumu par sniegtajiem maksas pakalpojumiem un citu pašu ieņēmumu, kā arī šā likuma 27.pantā noteiktajā kārtībā aprēķināto ieņēmumu par sniegtajiem maksas pakalpojumiem un citu pašu ieņēmumu atlikumu saimnieciskā gada sākumā izmantošanai;
 2) Eiropas Savienības pašu resursu palielināšanai un norēķiniem ar Eiropas Savienību;
 3) starptautisko tiesu un Satversmes tiesas spriedumu izpildei;

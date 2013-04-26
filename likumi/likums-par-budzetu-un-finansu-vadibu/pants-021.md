@@ -18,7 +18,7 @@
 15) valsts budžeta aizdevumu un atmaksu apjomus saskaņā ar iepriekšējos saimnieciskajos gados noslēgtajiem līgumiem un Ministru kabineta atbalstītajām programmām;
 16) informāciju par ministriju padotībā esošām no valsts budžeta daļēji finansētām atvasinātām publiskām personām un budžeta nefinansētām iestādēm;
 17) informāciju par Valsts prezidenta kancelejas, Augstākās tiesas, Satversmes tiesas, Tieslietu padomes, Valsts kontroles, Nacionālās elektronisko plašsaziņas līdzekļu padomes, Tiesībsarga biroja, Sabiedrisko pakalpojumu regulēšanas komisijas un Ģenerālprokuratūras rakstveidā iesniegtajiem viedokļiem par attiecīgo iestāžu budžeta projektiem, šā likuma 16.² panta astotajā daļā un 20.panta 4.¹ daļā minēto Ministru kabineta sēdes protokolu, kā arī saskaņā ar likumā "Par tiesu varu" noteikto kārtību sniegto Tieslietu padomes viedokli, ja tāds ir iesniegts Ministru kabinetam;
-18) informāciju par gadskārtējā valsts budžeta likuma projekta atbilstību attiecīgā gada vidēja termiņa budžeta ietvara likumā ietvertajām šā likuma 16.² panta otrās daļas 4., 5., 6. un 7.punktā minētajām vērtībām.
+18) (izslēgts ar 04.04.2013. likumu).
 (3) Saeimas vēlēšanu gadā gadskārtējā valsts budžeta likuma (budžeta likumprojektu paketes) projekts iesniedzams Saeimai ne vēlāk kā četrus mēnešus pēc tam, kad jaunievēlētā Saeima izteikusi Ministru kabinetam savu uzticību.
 (4) Ministru kabinets iesniedz Saeimai pieņemšanai grozījumus gadskārtējā valsts budžeta likumā kārtējam saimnieciskajam gadam, priekšlikumus par grozījumiem likumos, lai tie atbilstu grozījumiem gadskārtējā valsts budžeta likumā un grozījumu valsts budžeta likumā paskaidrojumu.
 (5) Grozījumu gadskārtējā valsts budžeta likumā paskaidrojums ietver:

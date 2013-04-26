@@ -1,0 +1,1 @@
+68. 2013., 2014. un 2015.gadā šā likuma 16.² panta septītajā daļā minētās sarunas tiek rīkotas vienlaikus ar likuma "Par pašvaldību budžetiem" 13.pantā minētajām sarunām. Šo sarunu rezultāti tiek noformēti protokola veidā un pievienoti gadskārtējā valsts budžeta likuma projektam (budžeta likumprojektu paketei).

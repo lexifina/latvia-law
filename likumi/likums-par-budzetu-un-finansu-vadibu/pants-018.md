@@ -5,7 +5,7 @@
 2) ja papildu izdevumi ārvalstu finanšu palīdzības līdzfinansēto projektu un pasākumu īstenošanai tiks segti ar papildu ārvalstu finanšu palīdzības ieņēmumiem vai iepriekšējā saimnieciskā gada atlikumiem;
 3) ja ir notikušas iepriekš neparedzētas izmaiņas valsts budžeta procentu izdevumos;
 4) ja ir notikušas izmaiņas, kas saistītas ar iemaksām Eiropas Savienības budžetā;
-5) ja izmaiņas pamatbudžeta izdevumos ir saistītas ar izmaiņām valsts sociālo pabalstu un pensiju saņēmēju kontingenta prognozēs;
+5) ja izmaiņas pamatbudžeta izdevumos ir saistītas ar izmaiņām valsts sociālo pabalstu un pensiju saņēmēju kontingenta prognozēs, kā arī ar prognozētajām izdienas pensiju vidējo apmēru izmaiņām;
 6) ja izmaiņas speciālā budžeta izdevumos ir saistītas ar izmaiņām sociālās apdrošināšanas pakalpojumu saņēmēju kontingenta un vidējā apmēra prognozēs, kā arī ar aktuālām vidēja termiņa makroekonomiskās attīstības un valsts sociālās apdrošināšanas iemaksu prognozēm;
 7) ja viena budžeta resora maksimāli pieļaujamā izdevumu apjoma pieaugums tiks segts ar cita budžeta resora maksimāli pieļaujamā izdevumu apjoma samazinājumu;
 8) atbilstoši Ministru kabineta pieņemtajiem lēmumiem.

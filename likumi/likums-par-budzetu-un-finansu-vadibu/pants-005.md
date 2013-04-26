@@ -13,3 +13,5 @@
 (12) Ministru kabinets nosaka kārtību, kādā plānojami un uzskaitāmi ieņēmumi no valsts budžeta iestāžu sniegtajiem maksas pakalpojumiem un ar šo pakalpojumu sniegšanu saistītie izdevumi, kā arī maksas pakalpojumu izcenojumu noteikšanas metodiku.
 (12¹) Nosakot maksas pakalpojuma izcenojumu, ievēro nosacījumu, ka samaksa par pakalpojumu nedrīkst pārsniegt ar pakalpojuma sniegšanu saistītās izmaksas.
 (13) Ministru kabinets nosaka kārtību, kādā budžeta finansēta institūcija piedalās Eiropas Savienības un starptautisko institūciju finansēto programmu īstenošanā citā valstī un plāno un uzskaita projekta finansējumu.
+(14) Ministru kabinets reglamentē kārtību, kādā valsts budžeta iestādes piešķir valsts budžeta finansējumu privātpersonām valsts pārvaldes uzdevumu veikšanai un uzrauga piešķirtā finansējuma izlietojumu.
+(15) Termins "privātpersona" šā panta četrpadsmitajā daļā ir lietots Valsts pārvaldes iekārtas likuma izpratnē.

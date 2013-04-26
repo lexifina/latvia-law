@@ -1,5 +1,5 @@
 2. pants. Finanšu vadība
-(1) Finanšu vadība ietver visus budžeta izstrādāšanas un izpildes procesa nodrošināšanai nepieciešamos administratīvos pasākumus, ieskaitot kontroles un atbildības pasākumus.
+(1) Finanšu vadība ietver visus budžeta izstrādāšanas un izpildes procesa nodrošināšanai nepieciešamos administratīvos pasākumus, ieskaitot kontroles un atbildības pasākumus. Finanšu vadību īsteno, ievērojot Fiskālās disciplīnas likumā noteiktos fiskālās politikas principus.
 (2) Ministru kabinets nodrošina valsts budžeta izstrādāšanu un izpildi, kā arī nosaka pašvaldību un budžeta nefinansētu iestāžu finansiālās darbības kārtību.
 (3) Ministru kabinets izdod rīkojumus, instrukcijas un ieteikumus šā likuma detalizētai piemērošanai.
 (4) (Izslēgta ar 20.10.2005. likumu)
