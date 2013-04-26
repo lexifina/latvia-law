@@ -1,0 +1,1 @@
+1.pants. 2012.gada 26.jūnijā Briselē parakstītais Tirdzniecības nolīgums starp Eiropas Savienību un tās dalībvalstīm, no vienas puses, un Kolumbiju un Peru, no otras puses, (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
