@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2013.gada 16.aprīļa noteikumi Nr.206 \"Grozījumi Ministru kabineta 2011.gada 21.jūnija noteikumos Nr.485 \"Atsevišķu veidu bīstamo atkritumu apsaimniekošanas kārtība\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "Nr.83 (4889)",
+  "official_journal_page": null,
+  "official_journal_date": "2013-04-30",
+  "entry_into_force": "2013-05-01",
+  "notification_date": "2013-04-30",
+  "commission_reference": "MNE(2013)53196",
+  "nim_celex": "72011L0097LVA_203711",
+  "nim_id": "203711",
+  "transposes_celex": [
+    "32011L0097"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/57d1fccb-9d36-4213-b869-b3183314d282",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
