@@ -1,0 +1,4 @@
+7.² pants. Valsts ieņēmumu dienesta izdotā administratīvā akta un citu lēmumu un dokumentu paziņošana, izmantojot elektroniskos sakarus
+(1) Valsts ieņēmumu dienests izdoto administratīvo aktu (arī nelabvēlīgu administratīvo aktu) un citus lēmumus, dokumentus un informāciju nodokļu maksātājam, kurš ir Valsts ieņēmumu dienesta elektroniskās deklarēšanas sistēmas lietotājs, paziņo, izmantojot Valsts ieņēmumu dienesta elektroniskās deklarēšanas sistēmu, vienlaikus par to nosūtot informāciju uz nodokļu maksātāja elektroniskās deklarēšanas sistēmā norādīto elektroniskā pasta adresi.
+(2) Administratīvais akts uzskatāms par paziņotu otrajā darba dienā pēc tā ievietošanas Valsts ieņēmumu dienesta elektroniskās deklarēšanas sistēmā.
+(3) Šā panta pirmajā un otrajā daļā minētais neattiecas uz gadījumiem, kad nodokļu maksātājs, kurš ir Valsts ieņēmumu dienesta elektroniskās deklarēšanas sistēmas lietotājs, norādījis citu konkrētā dokumenta paziņošanas veidu.
