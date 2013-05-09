@@ -1,0 +1,1 @@
+1.pants. 2012.gada 27.jūnijā Briselē parakstītais Pamatnolīgums par visaptverošu partnerību un sadarbību starp Eiropas Savienību un tās dalībvalstīm, no vienas puses, un Vjetnamas Sociālistisko Republiku, no otras puses (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.
