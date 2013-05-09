@@ -5,5 +5,5 @@
 4) (izslēgts ar 30.03.2006. likumu);
 5) (izslēgts ar 30.03.2006. likumu);
 6) (izslēgts ar 28.10.2004. likumu);
-7) atliekvielu kontroles un tās finansēšanas kārtību;
+7) noteiktu vielu un to atliekvielu kontroles un tās finansēšanas kārtību;
 8) prasības dzīvnieku izcelsmes produktu ievešanai valstī, izvešanai no tās un tranzīta pārvadājumiem.

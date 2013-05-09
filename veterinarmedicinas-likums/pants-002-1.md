@@ -14,8 +14,8 @@
 13) dzīvnieku mākslīgās apsēklošanas komersanti;
 14) embriju transplantācijas komersanti;
 15) dzīvnieku mākslīgās apsēklošanas pakalpojumu sniedzēji;
-16) veterināro pakalpojumu sniedzēji;
-17) veterinārmedicīniskās aprūpes prakses darbavietas;
+16) veterinārmedicīnisko pakalpojumu sniedzēji;
+17) veterinārmedicīniskās prakses iestāde;
 18) dzīvnieku izcelsmes blakusproduktu un atvasinātu produktu, kas nav paredzēti cilvēku patēriņam (turpmāk - blakusprodukti, kas nav paredzēti cilvēku patēriņam), apritē iesaistītās personas, to uzņēmumi un to īpašumā vai lietošanā esošas iekārtas, kas saskaņā ar Parlamenta un Padomes regulas Nr. 1069/2009 un Komisijas regulas Nr. 142/2011 prasībām pakļautas valsts veterinārajai uzraudzībai;
 19) (izslēgts ar 03.06.2010. likumu);
 20) dzīvnieku izcelsmes produktu apritē iesaistītās personas;

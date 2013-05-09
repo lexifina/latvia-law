@@ -2,7 +2,7 @@
 1) dzīvnieku infekcijas slimības - slimības, kuru ierosinātāji (baktērijas, vīrusi, mikroskopiskās sēnes, vienšūņi, prioni, ektoparazīti, endoparazīti) tieši vai dažādu faktoru ietekmē var tikt pārnesti no viena dzīvnieka uz citu dzīvnieku vai cilvēku;
 2) (izslēgts ar 30.03.2006. likumu);
 3) epizootija - dzīvnieku infekcijas slimība, kurai raksturīga dzīvnieku masveida saslimšana un strauja izplatība un kura rada lielus sociālekonomiskos zaudējumus, ierobežo starptautisko tirdzniecību ar dzīvniekiem un dzīvnieku izcelsmes produkciju;
-4) praktizējošs veterinārārsts - veterinārārsts, kas ieguvis tiesības nodarboties ar veterinārmedicīnisko praksi un nodarbojas ar to;
+4) praktizējošs veterinārārsts - sertificēts veterinārārsts, kurš normatīvajos aktos noteiktajā kārtībā reģistrējis savu veterinārmedicīniskās prakses vietu un veic veterinārmedicīnisko praksi;
 5) (izslēgts ar 18.12.2008. likumu);
 6) veterinārā ekspertīze - svaigas gaļas iegūšanai paredzēto dzīvnieku pirmskaušanas apskate, nokauto dzīvnieku kautproduktu izpēte, paraugu noņemšana, laboratoriskā izmeklēšana, testēšanas rezultātu izvērtēšana un pastāvīgā veterinārā uzraudzība, kas nepieciešama, lai sniegtu atzinumu par gaļas turpmāko izmantošanu, un ko veic saskaņā ar prasībām, kas noteiktas Eiropas Parlamenta un Padomes 2004.gada 29.aprīļa regulā (EK) Nr. 854/2004, ar ko paredz īpašus noteikumus par lietošanai pārtikā paredzētu dzīvnieku izcelsmes produktu oficiālās kontroles organizēšanu (turpmāk - Parlamenta un Padomes regula Nr. 854/2004);
 7) veterinārmedicīna - zinātnes un prakses nozare, kas nodarbojas ar jautājumiem, kuri saistīti ar dzīvnieku veselību un slimībām, izstrādā veterinārās prasības, kuru izpilde veicina dzīvnieku veselību, produktivitāti un labturību, nodrošina dzīvnieku infekcijas slimību profilaksi un apkarošanu, pasargā iedzīvotājus no saslimšanas ar dzīvniekiem un cilvēkiem kopīgām infekcijas slimībām, nodrošina kvalitatīvu un patērētāju veselībai nekaitīgu dzīvnieku izcelsmes produktu apriti, kā arī nodrošina vides aizsardzību;
@@ -11,7 +11,7 @@
 10) references laboratorija- akreditēta laboratorija, kura pilda valsts deleģētas funkcijas un strīda gadījumā izvērtē izmeklēšanas rezultātus, veic atkārtotu izmeklēšanu un sniedz galīgo atzinumu;
 11) uzņēmīgs dzīvnieks - dzīvnieks, kurš var saslimt, kontaktējoties ar dzīvnieku infekcijas slimības ierosinātājiem;
 12) (izslēgts ar 30.03.2006. likumu);
-13) veterinārmedicīniskās aprūpes prakses darba vieta - noteiktām prasībām atbilstoša un īpaši aprīkota darba vieta, kur praktizējošais veterinārārsts veic veterinārmedicīnisko praksi;
+13) veterinārmedicīniskās prakses iestāde - noteiktām prasībām atbilstoša un īpaši aprīkota veterinārmedicīniskās prakses vieta, kurā praktizējošs veterinārārsts veic veterinārmedicīnisko praksi;
 14) (izslēgts ar 18.12.2008. likumu);
 15) aprite - dzīvnieku, dzīvnieku izcelsmes produktu, dzīvnieku izcelsmes blakusproduktu un atvasinātu produktu, kas nav paredzēti cilvēku patēriņam, ieguve, ražošana, iepakošana, uzglabāšana, laišana tirgū, transportēšana, imports, eksports, tranzīts, savākšana, apstrāde, pārstrāde, piegāde, izmantošana, iznīcināšana, izpēte un izstrāde;
 16) specializēta tirdzniecības vieta - vieta, kas reģistrēta saskaņā ar normatīvajiem aktiem par dzīvnieku barības un barības piedevu apriti, dzīvnieku kopšanai un turēšanai lietojamo preču uzglabāšanu un izplatīšanu vai dzīvu dzīvnieku turēšanu tirdzniecības nolūkā;

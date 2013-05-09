@@ -1,2 +1,4 @@
-32.pants. (1) Ministru prezidents pēc valsts galvenā pārtikas un veterinārā inspektora priekšlikuma atceļ ārkārtas situāciju valstī vai tās daļā.
-(2) Valsts galvenais pārtikas un veterinārais inspektors atceļ karantīnu.
+32.pants. (1) Epizootijas uzliesmojuma gadījumā ārkārtējo situāciju valstī vai atsevišķā tās daļā izsludina un atceļ saskaņā ar likumu "Par ārkārtējo situāciju un izņēmuma stāvokli".
+(2) Valsts galvenais pārtikas un veterinārais inspektors vēršas pie zemkopības ministra ar aicinājumu pieprasīt, lai Ministru kabinets izsludina ārkārtējo situāciju valstī vai atsevišķā tās daļā, ja:
+1) saskaņā ar civilās aizsardzības plānu epizootijas kontrolē un apkarošanā iesaistītās valsts un pašvaldību institūcijas, kas veic neatliekamos preventīvos, reaģēšanas un seku likvidēšanas pasākumus, nespēj pilnvērtīgi pildīt savas funkcijas un pienākumus un tādējādi epizootija var kļūt nekontrolējama;
+2) veterinārmedicīnas nozari reglamentējošie normatīvie akti nenodrošina pietiekamu epizootijas kontroli un apkarošanu un tādējādi rodas plaši un bieži šīs dzīvnieku infekcijas slimības uzliesmojumi ārpus noteiktās karantīnas teritorijas.

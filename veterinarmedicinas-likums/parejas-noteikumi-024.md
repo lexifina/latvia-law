@@ -1,0 +1,1 @@
+24. Ministru kabinets līdz 2013.gada 1.jūlijam izdod šā likuma 57.panta otrajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2013.gada 30.jūnijam piemērojami Ministru kabineta 2004.gada 13.jūlija noteikumi Nr.599 "Prasības dzīvnieku veterinārmedicīniskās aprūpes prakses darba vietām".

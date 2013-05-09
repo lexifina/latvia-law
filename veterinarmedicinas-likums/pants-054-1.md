@@ -1,1 +1,1 @@
-54.¹ pants. Personai, kura ir ieguvusi vidējo profesionālo izglītību veterinārmedicīnā (veterinārfeldšeris vai veterinārārsta asistents), ir atļauts sniegt veterinārmedicīniskos pakalpojumus tikai praktizējoša veterinārārsta uzraudzībā.
+54.¹ pants. Personai, kura ir ieguvusi vidējo profesionālo izglītību veterinārmedicīnā (veterinārfeldšeris vai veterinārārsta asistents), ir atļauts strādāt tikai praktizējoša veterinārārsta pastāvīgā uzraudzībā.

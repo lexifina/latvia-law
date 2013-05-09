@@ -6,4 +6,4 @@
 (4) Tiesības nodarboties ar veterinārmedicīnisko praksi apliecina veterinārmedicīniskās prakses sertifikāts.
 (5) Personas, kuras ieguvušas tiesības nodarboties ar veterinārmedicīnisko praksi, drīkst nodarboties ar veterinārmedicīnisko praksi visā Latvijas teritorijā.
 (6) Ministru kabinets nosaka lauksaimniecības dzīvniekiem veicamo neārstniecisku operāciju veidus un to personu loku, kuras papildus šā panta pirmajā un otrajā daļā minētajām personām ir tiesīgas šādas operācijas veikt.
-(7) Ministru kabinets nosaka profesionālās kvalifikācijas prasības veterinārmedicīniskās prakses sertifikāta pretendentam, veterinārmedicīniskās prakses sertifikāta izsniegšanas, derīguma termiņa pagarināšanas un anulēšanas, kā arī sertificēto personu un veterinārmedicīniskās prakses vietas reģistrācijas kārtību.
+(7) Ministru kabinets nosaka profesionālās kvalifikācijas prasības veterinārmedicīniskās prakses sertifikāta pretendentam, veterinārmedicīniskās prakses sertifikāta izsniegšanas, apturēšanas, atjaunošanas, derīguma termiņa pagarināšanas un anulēšanas, kā arī sertificēto personu un veterinārmedicīniskās prakses vietas reģistrācijas kārtību.
