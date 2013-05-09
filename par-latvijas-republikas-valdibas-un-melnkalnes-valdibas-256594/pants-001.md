@@ -1,0 +1,1 @@
+1.pants. 2012.gada 6.decembrī Dublinā parakstītais Latvijas Republikas valdības un Melnkalnes valdības nolīgums par starptautiskajiem pārvadājumiem ar autotransportu (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
