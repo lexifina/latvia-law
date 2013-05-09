@@ -1,0 +1,1 @@
+1.pants. 2012.gada 11.jūlijā Pnompeņā parakstītais Pamatnolīgums par partnerību un sadarbību starp Eiropas Savienību un tās dalībvalstīm, no vienas puses, un Filipīnu Republiku, no otras puses (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.
