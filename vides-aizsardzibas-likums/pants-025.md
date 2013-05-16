@@ -7,8 +7,8 @@
 2) darbības, kuru veikšanai nepieciešama atkritumu apsaimniekošanas atļauja;
 3) ūdens ieguvi un uzkrāšanu, kuras veikšanai nepieciešama ūdens resursu lietošanas atļauja;
 4) degvielas uzpildes stacijas vai naftas bāzes ekspluatāciju;
-5) ķīmisko vielu un ķīmisko produktu (preparātu) apriti reglamentējošos normatīvajos aktos noteikto bīstamo ķīmisko vielu vai produktu (preparātu), augu aizsardzības līdzekļu vai biocīdu ražošanu, izmantošanu, pārstrādi, iepakošanu, izplatīšanu vidē vai pārvadāšanu ražotnes teritorijā;
-6) ķīmisko vielu vai ķīmisko produktu (preparātu) transportēšanu pa cauruļvadiem;
+5) ķīmisko vielu un maisījumu apriti reglamentējošos normatīvajos aktos noteikto bīstamo ķīmisko vielu vai maisījumu, augu aizsardzības līdzekļu vai biocīdu ražošanu, izmantošanu, pārstrādi, iepakošanu, izplatīšanu vidē vai pārvadāšanu ražotnes teritorijā;
+6) ķīmisko vielu vai maisījumu transportēšanu pa cauruļvadiem;
 7) bīstamo vai piesārņojošo kravu pārvadāšanu pa sauszemes, iekšzemes ūdeņu, jūras vai gaisa ceļiem;
 8) ģenētiski modificētu organismu, arī ģenētiski modificētu mikroorganismu, ierobežotu izmantošanu, apzinātu izplatīšanu vidē, izplatīšanu tirgū, arī pārvadāšanu;
 9) Eiropas Savienības regulās noteiktos atkritumu pārrobežu pārvadājumus, kuru veikšanai nepieciešama atļauja;

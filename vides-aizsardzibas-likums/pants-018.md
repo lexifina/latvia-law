@@ -3,7 +3,7 @@ Valsts kontrole vides jomā (turpmāk - vides valsts kontrole) ir vides normatī
 1) dabas resursu izpēte, ieguve, lietošana un uzskaite;
 2) piesārņojošo darbību veikšana;
 3) piesārņoto un potenciāli piesārņoto vietu izpēte un sanācija;
-4) darbības ar ķīmiskajām vielām un ķīmiskajiem produktiem (preparātiem);
+4) darbības ar ķīmiskajām vielām un maisījumiem;
 5) darbības ar jonizējošā starojuma avotiem;
 6) rūpniecisko avāriju riska novērtēšana un samazināšana;
 7) atkritumu apsaimniekošana;
