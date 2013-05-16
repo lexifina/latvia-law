@@ -1,0 +1,1 @@
+1.pants. 2011.gada 7.decembrī parakstītais Latvijas Republikas valdības, Igaunijas Republikas valdības un Lietuvas Republikas valdības nolīgums par sadarbību dzelzceļa transporta jomā (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
