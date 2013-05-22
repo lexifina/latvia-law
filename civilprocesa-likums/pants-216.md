@@ -6,4 +6,5 @@ Tiesvedība tiek apturēta:
 4) šā likuma 214.panta 4., 4.¹ un 5.punktā paredzētajos gadījumos - līdz likumīgā spēkā stājas Satversmes tiesas vai Eiropas Savienības Tiesas nolēmums vai tiesas nolēmums civillietā, krimināllietā vai administratīvajā lietā;
 5) šā likuma 215.panta 1. - 4.punktā paredzētajos gadījumos - līdz brīdim, kad atkrituši šajos punktos minētie apstākļi;
 6) šā likuma 215.panta 5.punktā paredzētajos gadījumos - līdz tiesas lēmumā noteiktajam termiņam;
-7) (izslēgts ar 08.09.2011. likumu).
+7) (izslēgts ar 08.09.2011. likumu);
+8) šā likuma 215.panta 6.punktā paredzētajos gadījumos - līdz juridiskās personas maksātnespējas procesa vai fiziskās personas maksātnespējas procesa izbeigšanai.
