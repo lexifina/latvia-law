@@ -1,6 +1,6 @@
 1.pants. Likumā lietotie termini
 Likumā ir lietoti šādi termini:
-1) apraide - darbību kopums, kas nodrošina elektronisko plašsaziņas līdzekļu programmu un raidījumu veidošanu, izplatīšanu un tūlītēju uztveršanu, izmantojot publiskos elektronisko sakaru tīklus;
+1) apraide - darbību kopums, kas nodrošina elektronisko plašsaziņas līdzekļu programmu un raidījumu veidošanu, to sākotnējo izplatīšanu saskaņā ar raidījumu pārraidīšanas sarakstu un vienlaicīgu publisku uztveršanu, izmantojot elektronisko sakaru tīklus;
 2) apraides aptveršanas zona - teritorija, kurā raidītāja signāla intensitāte atbilst kvalitatīvas uztveršanas kritērijiem, ko katram uztveršanas veidam nosaka starptautiskie līgumi par apraidi;
 3) audio un audiovizuāls elektroniskā plašsaziņas līdzekļa pakalpojums - pakalpojums, uz kuru attiecināma elektroniskā plašsaziņas līdzekļa redakcionālā atbildība un kura galvenais uzdevums ir, izmantojot publiskos elektronisko sakaru tīklus, nodrošināt plašākai sabiedrībai informējošus, izklaidējošus vai izglītojošus raidījumus;
 4) audio un audiovizuāls komerciāls paziņojums - reklāma televīzijā vai radio, sponsorēšana, televīzijas vai radio veikals, produktu izvietošana un citi audio, vizuāli vai audiovizuāli paziņojumi, kas ievietoti raidījumā, izvietoti pirms raidījuma vai pēc tā par samaksu vai citu atlīdzību vai pašreklāmas nolūkā un tieši vai netieši reklamē to personu preces, pakalpojumus vai tēlu, kuras veic saimniecisko darbību;

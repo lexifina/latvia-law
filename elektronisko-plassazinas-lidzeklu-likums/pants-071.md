@@ -7,6 +7,7 @@
 5) izglītot iedzīvotājus un veicināt viņos pilsonisku izpratni par politikas, ekonomikas, kultūras, tiesību, vides, drošības un sociālajiem jautājumiem, nodrošinot to sistēmisku aptvērumu;
 6) veicināt sabiedrības integrāciju un saliedētību uz latviešu valodas pamata;
 7) nodrošināt latviešu valodas saglabāšanu, attīstību un lietošanu, tās kā valsts valodas funkcionēšanu pilnā apjomā, it sevišķi veicinot latviešu valodas kā visu Latvijas iedzīvotāju kopējās saziņas valodas lietošanu;
+7¹) nodrošināt latgaliešu rakstu valodas kā vēsturiska latviešu valodas paveida un lībiešu valodas kā pirmiedzīvotāju valodas saglabāšanu, aizsardzību, attīstību un lietošanu;
 8) nodrošināt latviešu kultūras attīstību, it sevišķi veicinot oriģinālraidījumu veidošanu latviešu valodā;
 9) veicināt cieņu pret latviešu valodu, popularizēt Latvijas vēsturi un kultūras vērtības;
 10) sekmēt nacionālās identitātes apzināšanos Latvijas, Eiropas un globālajā telpā, kā arī reģionālās un lokālās identitātes izpausmes un attīstību Latvijā;

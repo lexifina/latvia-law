@@ -1,0 +1,1 @@
+24. Elektroniskie plašsaziņas līdzekļi, kuriem izsniegtajā apraides atļaujā noteiktais iedalījums pēc aptveršanas zonas neatbilst šā likuma normām, līdz 2013.gada 31.decembrim pārreģistrē apraides atļauju.
