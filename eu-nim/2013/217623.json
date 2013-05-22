@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2013.gada 30.aprīļa noteikumi Nr. 240 \"Vispārīgie teritorijas plānošanas, izmantošanas un apbūves noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "96 (4902)",
+  "official_journal_page": null,
+  "official_journal_date": "2013-05-21",
+  "entry_into_force": "2013-05-22",
+  "notification_date": "2014-06-18",
+  "commission_reference": "MNE(2014)53708",
+  "nim_celex": "72012L0027LVA_217623",
+  "nim_id": "217623",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a9775091-e518-4010-b571-5491e4d6422a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
