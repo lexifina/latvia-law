@@ -19,4 +19,5 @@ Likumā ir lietoti šādi termini:
 16) dambis - hidrotehniska būve, ko ierīko, lai regulētu ūdens straumi gultnē vai aizsargātu teritoriju pret applūšanu;
 17) iepriekšējā apbūve - likumīgi uzbūvētas būves vai ēkas (vai to pamati), kuras konstatējamas dabā;
 18) palīgēka - ēka (pirts, klēts, garāža, nojume, siltumnīca, ēka dārza inventāra, materiālu un sadzīves priekšmetu glabāšanai u.tml.), kura netiek klasificēta kā dzīvojamā ēka, kurā nav dzīvojamās telpas (pastāvīgai vai sezonas rakstura dzīvošanai) un kura ir funkcionāli piederīga dzīvojamai ēkai;
-18¹) stacionārais radiomonitoringa punkts - stacionārs radiofrekvenču spektra novērošanas komplekss, kas sastāv no uztverošo radioiekārtu, antenu sistēmu un to mastu kopuma un paredzēts radiofrekvenču spektra uzraudzības jomai.
+18¹) stacionārais radiomonitoringa punkts - stacionārs radiofrekvenču spektra novērošanas komplekss, kas sastāv no uztverošo radioiekārtu, antenu sistēmu un to mastu kopuma un paredzēts radiofrekvenču spektra uzraudzības jomai;
+19) elektrolīniju trase - elektrolīniju darbības nodrošināšanai paredzēta dabā esoša josla, kas ietilpst aizsargjoslā un uzturama brīva no kokiem un krūmiem.

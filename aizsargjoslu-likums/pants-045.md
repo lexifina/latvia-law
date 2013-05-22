@@ -1,5 +1,5 @@
 45.pants. Aprobežojumi aizsargjoslās gar elektriskajiem tīkliem
-(1) Aizsargjoslās gar elektriskajiem tīkliem papildus šā likuma 35.pantā minētajiem aprobežojumiem tiek noteikti šādi aprobežojumi:
+(1) Aizsargjoslās gar elektriskajiem tīkliem, izņemot aizsargjoslas gar elektrisko tīklu gaisvadu līnijām ar nominālo spriegumu līdz 20 kilovoltiem, ja tās šķērso meža teritoriju, kur aprobežojumi noteikti tikai elektrolīniju trasē, - papildus šā likuma 35.pantā minētajiem aprobežojumiem tiek noteikti šādi aprobežojumi:
 1) aizliegts aizkraut pievedceļus un pieejas elektrisko tīklu objektiem;
 2) aizliegts izvietot lopbarības, minerālmēslu, degvielas, eļļošanas materiālu, ķīmisko vielu un ķīmisko produktu, kokmateriālu un citu veidu materiālu un vielu glabātavas;
 3) aizliegts aizsargjoslās gar gaisa vadu līnijām ierīkot sporta laukumus, rotaļu laukumus, stadionus, tirgus, sabiedriskā transporta pieturas, mašīnu un mehānismu stāvvietas, kā arī veikt jebkādus pasākumus, kas saistīti ar cilvēku pulcēšanos;

@@ -6,10 +6,11 @@
 (5) Aizsargjosla tiek grozīta, ja saskaņā ar normatīvajiem aktiem maina aizsargjoslas platumu vai aizsargjoslas lielums mainās, renovējot vai rekonstruējot objektu, kuram ir noteikta aizsargjosla.
 (6) Aizsargjosla tiek likvidēta, ja ir likvidēts objekts, kuram noteikta aizsargjosla.
 (7) Objekta īpašnieks vai valdītājs pēc objekta likvidēšanas par to informē Valsts zemes dienestu.
-(8) Objekta īpašnieks vai valdītājs grafiski attēlo šā likuma 15., 18., 21. un 23.¹ pantā noteikto aizsargjoslu robežas, saskaņo tās ar attiecīgo pašvaldību un aizsargjoslu robežu datus iesniedz Valsts zemes dienestam.
-(9) Ja aizsargjoslas lielums ir noteikts tieši un bez papildu nosacījumiem (šā likuma 14., 16., 17., 19., 20., 22., 23., 30., 32.¹, 32.² un 32.⁴ pantā noteiktās aizsargjoslas), tās robežu grafiski attēlo Apgrūtināto teritoriju informācijas sistēmas likumā noteiktajā kārtībā.
+(8) Objekta īpašnieks vai valdītājs grafiski attēlo šā likuma 15.pantā, 16.panta otrās daļas 2.¹ punktā, 18., 21. un 23.¹ pantā noteikto aizsargjoslu robežas, saskaņo tās ar attiecīgo pašvaldību un aizsargjoslu robežu datus iesniedz Valsts zemes dienestam.
+(9) Šā likuma 14., 16. (izņemot 16.panta otrās daļas 2.¹ punktu), 17., 19., 20., 22., 23., 30., 32.¹, 32.² un 32.⁴ pantā noteiktās aizsargjoslas robežu grafiski attēlo Apgrūtināto teritoriju informācijas sistēmas likumā noteiktajā kārtībā.
 (10) Vietējā pašvaldība grafiski attēlo šā likuma 6., 7., 7.¹, 8., 9., 11., 13., 25., 26., 28., 32. un 32.³ pantā noteikto aizsargjoslu robežas un šo aizsargjoslu robežu datus iesniedz Valsts zemes dienestam.
 (11) Ierosinot stacionārā radiomonitoringa punkta būvniecību, stacionārā radiomonitoringa punkta īpašnieks:
 1) saskaņo attiecīgā punkta būvniecību ar ēkas vai būves, uz kuras ierosināts uzstādīt stacionāro radiomonitoringa punktu, īpašnieku, tiesisko valdītāju vai dzīvokļu īpašnieku kopību, ja attiecīgā ēka ir daudzdzīvokļu mājas dzīvokļu īpašnieku kopīpašums;
 2) saskaņo attiecīgā stacionārā radiomonitoringa punkta būvniecību ar vietējo pašvaldību;
 3) ar publikāciju oficiālajā izdevumā "Latvijas Vēstnesis" un tās pašvaldības mājaslapā internetā, kuras teritorijā atradīsies stacionārais radiomonitoringa punkts, informē par stacionārā radiomonitoringa punkta aizsargjoslu un aprobežojumiem, norādot to nekustamo īpašumu kadastra numurus, uz kuriem attiecas aizsargjosla. Vienlaikus tiek nosūtīts paziņojums nekustamā īpašuma īpašniekam vai tiesiskajam valdītājam, uz kura nekustamo īpašumu attiecas aizsargjosla.
+(12) Uz šajā likumā minēto elektrolīniju trašu ierīkošanu un trases platuma izmaiņām neattiecas Meža likumā noteiktā kompensācija atmežošanas izraisīto negatīvo seku novēršanai.
