@@ -11,8 +11,15 @@
 3) atlīdzības sadale un izmaksa notiek paredzētajā kārtībā;
 4) noteikumi par atlīdzības iekasēšanu un sadali ir taisnīgi;
 5) administrēšanas izmaksas ir pamatotas.
+(3¹) Kultūras ministrija, īstenojot mantisko tiesību kolektīvā pārvaldījuma organizāciju darbības uzraudzību, ir tiesīga:
+1) pieprasīt, lai mantisko tiesību kolektīvā pārvaldījuma organizācijas sniedz informāciju par savu darbību, kā arī uzrāda jebkādu to dokumentāciju, ieskaitot noslēgtos līgumus, tiesību subjektiem sniegtās atskaites, sarakstes dokumentāciju, biedru sapulču un valdes sēžu protokolus;
+2) tās pārstāvja personā novērotāja statusā piedalīties mantisko tiesību kolektīvā pārvaldījuma organizāciju biedru sapulcēs un valdes sēdēs.
 (4) Kultūras ministrija anulē atļauju veikt mantisko tiesību kolektīvo administrēšanu, ja:
 1) organizācija pēc atkārtota Kultūras ministrijas pieprasījuma nesniedz informāciju, kas nepieciešama uzraudzības veikšanai;
 2) organizācijas darbība neatbilst likumam un Kultūras ministrijas norādītajā termiņā trūkumi nav novērsti.
 (5) Informāciju par šā panta otrajā un ceturtajā daļā noteikto atļauju spēkā stāšanos vai anulēšanu Kultūras ministrija publicē laikrakstā "Latvijas Vēstnesis".
 (6) Lēmumu par šā panta pirmajā daļā noteiktās atļaujas anulēšanu var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā.
+(7) Mantisko tiesību kolektīvā pārvaldījuma organizācijai ir pienākums:
+1) sniegt Kultūras ministrijai tās pieprasīto informāciju nekavējoties, bet ne vēlāk kā 15 dienu laikā pēc pieprasījuma saņemšanas, ja attiecīgajā pieprasījumā nav norādīts garāks informācijas sniegšanas termiņš;
+2) informēt Kultūras ministriju par organizācijas biedru sapulces vai valdes sēdes norises datumu un laiku vismaz septiņas dienas iepriekš.
+(8) Mantisko tiesību kolektīvā pārvaldījuma organizācija ir tiesīga nesniegt Kultūras ministrijai tās pieprasīto informāciju vai neļaut Kultūras ministrijas pārstāvim valdes sēdē piedalīties to jautājumu izskatīšanā, kuri tieši attiecas uz iespējamo vai uzsākto tiesvedību vai līgumu slēgšanu ar Kultūras ministriju vai tās padotības iestādi.

@@ -5,4 +5,10 @@
 (2) No atlīdzības, kas iekasēta saskaņā ar noslēgtajiem līgumiem, mantisko tiesību kolektīvā pārvaldījuma organizācija sedz faktiskos izdevumus, kas saistīti ar atlīdzības iekasēšanu, sadalīšanu un izmaksāšanu.
 (3) Mantisko tiesību kolektīvā pārvaldījuma organizācija var veidot speciālos fondus autortiesību un blakustiesību subjektu interesēs, veicot atskaitījumus no savāktās atlīdzības summas saskaņā ar mantisko tiesību kolektīvā pārvaldījuma organizācijas mērķiem un uzdevumiem.
 (4) Autortiesību un blakustiesību subjekti, kas nav pilnvarojuši organizācijas iekasēt šā likuma 65.pantā paredzēto atlīdzību, ir tiesīgi pieprasīt, lai organizācijas izmaksā viņiem pienākošos atlīdzību saskaņā ar izdarīto atlīdzības sadali, kā arī lai izslēdz viņu darbus vai izpildījumu no licencēm, ko šīs organizācijas izdod darbu un blakustiesību objektu izmantotājiem.
-(5) Mantisko tiesību kolektīvā pārvaldījuma organizācijas likumā noteiktajā termiņā gada pārskatu, kā arī šā likuma 65.panta pirmās daļas 3.punktā minēto atlīdzības lielumu publicē laikrakstā "Latvijas Vēstnesis".
+(5) (Izslēgta ar 18.04.2013. likumu)
+(6) Mantisko tiesību kolektīvā pārvaldījuma organizācijai ir pienākums ievietot savā mājaslapā internetā šādu informāciju un atjaunot to ne vēlāk kā 30 dienu laikā pēc grozījumu izdarīšanas:
+1) statūtus;
+2) informāciju par pārstāvības līgumiem, kurus organizācija noslēgusi ar citu valstu mantisko tiesību kolektīvā pārvaldījuma organizācijām, ieskaitot līgumslēdzēja nosaukumu un tā darba vai blakustiesību objekta izmantošanas veidu, attiecībā uz kuru ir noslēgts līgums;
+3) iekasētās atlīdzības sadales noteikumus;
+4) gada pārskatus;
+5) šā likuma 65.panta pirmās daļas 3.punktā minētās atlīdzības lielumu un tā pamatojumu.
