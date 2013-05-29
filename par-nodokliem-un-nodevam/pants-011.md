@@ -82,6 +82,7 @@
 64¹) par starptautiskās tirdzniecības apdraudēta savvaļas dzīvnieka reģistrēšanu;
 65) par iesnieguma izvērtēšanu personas reģistrācijai vai izmaiņu veikšanu fitosanitārajai kontrolei pakļauto augu un augu produktu apritē iesaistīto personu reģistrā, par iesnieguma izskatīšanu personas iekļaušanai koka iepakojuma marķētāju reģistrā, par augu aizsardzības līdzekļa reģistrāciju un uzturēšanu augu aizsardzības līdzekļu reģistrā;
 66) par personas reģistrāciju un izmaiņu veikšanu Kultūraugu uzraudzības valsts informācijas sistēmas Sēklaudzētāju un sēklu tirgotāju reģistrā;
+66¹) par personas reģistrāciju un izmaiņu veikšanu Kultūraugu uzraudzības valsts informācijas sistēmas Dārzeņu šķirņu kolekcionāru reģistrā;
 67) par šķirnes iekļaušanu, šķirnes uzturēšanu un uzturēšanas termiņa pagarināšanu Latvijas augu šķirņu katalogā;
 68) par atļaujas izsniegšanu tāda veģetatīvā pavairošanas materiāla un sēklu izmantošanai bioloģiskajā lauksaimniecībā, kas nav iegūti ar bioloģiskās lauksaimniecības ražošanas metodi;
 69) par atļaujas saņemšanu mēslošanas līdzekļa ievešanai vai tirdzniecībai;
