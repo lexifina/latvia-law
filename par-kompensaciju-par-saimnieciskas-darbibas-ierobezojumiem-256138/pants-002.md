@@ -1,0 +1,6 @@
+2.pants. Kompensācijas veidi un finanšu avoti
+(1) Kompensāciju par lauksaimnieciskās vai mežsaimnieciskās darbības ierobežojumiem aizsargājamās teritorijās piešķir ikgadēja atbalsta maksājuma veidā.
+(2) Ikgadēju atbalsta maksājumu par saimnieciskās darbības ierobežojumiem Eiropas nozīmes aizsargājamās dabas teritorijās (Natura 2000) izmaksā normatīvajos aktos par lauku attīstības atbalsta piešķiršanu noteiktajā kārtībā no attiecīgo Eiropas Savienības fondu līdzekļiem.
+(3) Ikgadēju atbalsta maksājumu par saimnieciskās darbības ierobežojumiem mikroliegumos var izmaksāt normatīvajos aktos par lauku attīstības atbalsta piešķiršanu noteiktajā kārtībā no attiecīgo Eiropas Savienības fondu līdzekļiem.
+(4) Kompensāciju par saimnieciskās darbības ierobežojumiem valsts un pašvaldības nozīmes aizsargājamās teritorijās piešķir no valsts vai pašvaldības budžeta atbilstoši šim mērķim valsts vai pašvaldības budžetā paredzētajiem līdzekļiem. Ministru kabinets izdod noteikumus, kuros nosaka saimnieciskās darbības ierobežojumus, par kuriem pienākas kompensācija, tās izmaksas nosacījumus, kārtību un apmēru.
+(5) Aizsargājamā teritorijā - dabas rezervātā vai citas aizsargājamās teritorijas dabas rezervāta, stingrā režīma vai regulējamā režīma zonā - kā kompensācijas veidu var piemērot zemes atpirkšanu, bet tikai neapbūvētai zemei.

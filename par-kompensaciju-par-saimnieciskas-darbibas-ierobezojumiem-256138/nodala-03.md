@@ -1,0 +1,2 @@
+III nodaļa
+Zemes atpirkšana

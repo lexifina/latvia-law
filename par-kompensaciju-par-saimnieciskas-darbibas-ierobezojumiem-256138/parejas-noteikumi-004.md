@@ -1,0 +1,1 @@
+4. Šā likuma 2.panta trešā daļa par ikgadējiem atbalsta maksājumiem par saimnieciskās darbības ierobežojumiem mikroliegumos stājas spēkā, tiklīdz ir pieejams finansējums no attiecīgo Eiropas Savienības fondu līdzekļiem.

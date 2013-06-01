@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par zemes īpašnieku tiesībām uz kompensāciju par saimnieciskās darbības ierobežojumiem īpaši aizsargājamās dabas teritorijās un mikroliegumos" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2005, 15., 24.nr.; 2007, 3., 10.nr.; 2008, 1., 24.nr.; 2009, 14.nr.; Latvijas Vēstnesis, 2010, 144., 205.nr.; 2011, 201.nr.).
