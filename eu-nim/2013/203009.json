@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "MK noteikumi nr.147\"Noteikumi par profesionālo augu aizsardzības līdzekļu lietotāju, augu aizsardzības līdzekļu lietošanas operatoru, augu aizsardzības līdzekļu pārdevēju un augu aizsardzības konsultantu apmācību\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "58 (4864)",
+  "official_journal_page": null,
+  "official_journal_date": "2013-03-22",
+  "entry_into_force": "2013-06-01",
+  "notification_date": "2013-04-09",
+  "commission_reference": "MNE(2013)52625",
+  "nim_celex": "72009L0128LVA_203009",
+  "nim_id": "203009",
+  "transposes_celex": [
+    "32009L0128"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ea9088ad-a7a4-4a92-b742-13405dff0877",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
