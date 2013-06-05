@@ -2,7 +2,7 @@
 Izskatot iesniegtos dokumentus, Uzņēmumu reģistra valsts notārs pārbauda, vai:
 1) ievērota reģistrācijas piekritība;
 2) iesniegti visi likumos paredzētie dokumenti, kurus reģistrē (pievieno lietai) vai uz kuru pamata izdara ierakstu Uzņēmumu reģistra žurnālā;
-3) dokumentiem, kurus reģistrē (pievieno lietai) vai uz kuru pamata izdara ierakstu Uzņēmumu reģistra žurnālā (izņemot gada pārskatus), ir juridisks spēks un vai citas formas prasības atbilst normatīvajiem aktiem, kā arī vai ziņu un noteikumu apjoms un saturs atbilst normatīvajiem aktiem un citiem reģistrācijas lietā esošajiem dokumentiem;
+3) dokumentiem, kurus reģistrē (pievieno lietai) vai uz kuru pamata izdara ierakstu Uzņēmumu reģistra žurnālā, ir juridisks spēks un vai citas formas prasības atbilst normatīvajiem aktiem, kā arī vai ziņu un noteikumu apjoms un saturs atbilst normatīvajiem aktiem un citiem reģistrācijas lietā esošajiem dokumentiem;
 4) Uzņēmumu reģistrā nav reģistrēts cits tiesisks šķērslis.
 Uzņēmumu reģistra kompetencē neietilpst uzņēmuma (uzņēmējsabiedrības) lēmuma pieņemšanas faktisko apstākļu pārbaude.
 Pēc šā panta pirmajā daļā minēto apstākļu pārbaudes Uzņēmumu reģistra valsts notārs pieņem lēmumu par:
@@ -13,7 +13,7 @@ Par katru pieteikumu Uzņēmumu reģistra valsts notārs lemj atsevišķi un lē
 Ja Uzņēmumu reģistra valsts notārs konstatē kļūdu, kas notikusi reģistrācijas procesā, viņš paziņo pieteikuma iesniedzējam par nepareizību un nosaka 7 dienu termiņu iebildumu celšanai. Ja šajā laikā iebildumi nav celti vai ja Uzņēmumu reģistra valsts notārs atzīst iebildumus par nepamatotiem, viņš pieņem lēmumu par ieraksta vai lēmuma izlabošanu. Ja uzņēmums (uzņēmējsabiedrība) pats iesniedzis paziņojumu par kļūdu reģistrācijas procesā, kļūdu var labot nekavējoties.
 (Sestā un septītā daļa izslēgta ar 05.06.2003. likumu.)
 Ja bezpeļņas organizācija pārkāpj statūtus vai iegūst peļņu, Uzņēmumu reģistrs pēc Valsts ieņēmumu dienesta motivēta iesnieguma pārreģistrē to par uzņēmumu vai uzņēmējsabiedrību.
-Uzņēmumu reģistrs ne vēlāk kā septiņu dienu laikā no šā panta ceturtajā daļā minētā lēmuma pieņemšanas dienas publicē laikrakstā "Latvijas Vēstnesis" par uzņēmumu (uzņēmējsabiedrību) līdzekļiem Uzņēmumu reģistra žurnālā ierakstītās ziņas, ja tās nav jau publicētas uz citu likumu pamata.
+Uzņēmumu reģistrs ne vēlāk kā septiņu dienu laikā no šā panta ceturtajā daļā minētā lēmuma pieņemšanas dienas publicē oficiālajā izdevumā "Latvijas Vēstnesis" par uzņēmumu (uzņēmējsabiedrību) līdzekļiem Uzņēmumu reģistra žurnālā ierakstītās ziņas, ja tās nav jau publicētas uz citu likumu pamata.
 Visus reģistrējamos grozījumus uzņēmumi (uzņēmējsabiedrības) piesaka Uzņēmumu reģistrā 15 dienu laikā no lēmuma pieņemšanas dienas. Grozījumi ir spēkā pret trešajām personām ar brīdi, kad tie reģistrēti Uzņēmumu reģistrā.
 Ja Uzņēmumu reģistra žurnālā ierakstītās ziņas ir publicētas, tās var izmantot kā oficiālus avotus.
 Darījumu attiecībās ar uzņēmumu (uzņēmējsabiedrību), tā filiāli vai pārstāvniecību noteicošais ir publikācija un ieraksts, ko par attiecīgo uzņēmumu (uzņēmējsabiedrību), tā filiāli vai pārstāvniecību izdarījis Uzņēmumu reģistra valsts notārs.

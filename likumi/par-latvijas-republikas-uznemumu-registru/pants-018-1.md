@@ -1,7 +1,7 @@
 18.¹ pants. Iesniegto dokumentu izskatīšana biedrību un nodibinājumu reģistra vešanai
 Izskatot iesniegtos dokumentus, Uzņēmumu reģistra valsts notārs pārbauda, vai:
 1) iesniegti visi likumos paredzētie dokumenti, kurus reģistrē (pievieno lietai) vai uz kuru pamata izdara ierakstu biedrību un nodibinājumu reģistrā;
-2) dokumentiem, kurus reģistrē (pievieno lietai) vai uz kuru pamata izdara ierakstu biedrību un nodibinājumu reģistrā (izņemot gada pārskatus), ir juridisks spēks un vai citas formas prasības atbilst normatīvajiem aktiem, kā arī vai ziņu un noteikumu apjoms un saturs atbilst normatīvajiem aktiem un citiem reģistrācijas lietā esošajiem dokumentiem;
+2) dokumentiem, kurus reģistrē (pievieno lietai) vai uz kuru pamata izdara ierakstu biedrību un nodibinājumu reģistrā, ir juridisks spēks un vai citas formas prasības atbilst normatīvajiem aktiem, kā arī vai ziņu un noteikumu apjoms un saturs atbilst normatīvajiem aktiem un citiem reģistrācijas lietā esošajiem dokumentiem;
 3) biedrību un nodibinājumu reģistrā nav reģistrēts cits tiesisks šķērslis.
 Uzņēmumu reģistra kompetencē neietilpst biedrības vai nodibinājuma lēmuma pieņemšanas faktisko apstākļu pārbaude.
 Ja, pārbaudot šā panta pirmajā daļā minētos apstākļus, šķēršļi nav konstatēti, Uzņēmumu reģistra valsts notārs pieņem lēmumu par ieraksta izdarīšanu (15.pants) vai dokumentu reģistrāciju (pievienošanu lietai).
