@@ -1,9 +1,9 @@
-14.pants. Metroloģijas birojs
-(1) Metroloģijas birojs ir nacionālā metroloģijas institūcija, un tā ir atbildīga par šā likuma un citu normatīvo aktu ievērošanu metroloģijas jomā.
+14.pants. Nacionālā metroloģijas institūcija
+(1) Nacionālo metroloģijas institūciju nosaka Ministru kabinets.
 (2) (Izslēgta ar 12.06.2009. likumu.)
-(3) Metroloģijas biroja galvenie uzdevumi ir:
+(3) Nacionālās metroloģijas institūcijas galvenie uzdevumi ir:
 1) nodrošināt fizikālo lielumu mērvienību etalonu bāzi un mērvienību reproducēšanu;
-2) apstiprināt mērīšanas līdzekļu tipus un reģistrēt tos valsts mērīšanas līdzekļu reģistrā;
+2) apstiprināt nacionālos mērīšanas līdzekļu tipus un reģistrēt tos Valsts mērīšanas līdzekļu reģistrā;
 3) veikt valsts metroloģiskajai kontrolei pakļauto mērīšanas līdzekļu atbilstības novērtēšanas procedūras;
 4) sniegt kalibrēšanas pakalpojumus;
 5) (izslēgts ar 12.06.2009. likumu);

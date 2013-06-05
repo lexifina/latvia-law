@@ -1,0 +1,1 @@
+14. Līdz šo pārejas noteikumu 12.punktā minēto Ministru kabineta noteikumu spēkā stāšanās dienai šajā likumā noteikto Nacionālās akreditācijas institūcijas paziņojumu par akreditētām institūcijām publicē nevis Nacionālās akreditācijas institūcijas oficiālajā tīmekļa vietnē, bet oficiālajā izdevumā "Latvijas Vēstnesis".

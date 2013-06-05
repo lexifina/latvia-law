@@ -5,4 +5,4 @@
 3) valsts programmas reglamentētās metroloģijas jomā;
 4) valsts metroloģisko uzraudzību.
 (2) (Izslēgta ar 01.04.1998. likumu.)
-(3) Visus izdevumus, kas saistīti ar mērīšanas līdzekļa tipa apstiprināšanas, atbilstības novērtēšanas un kalibrēšanas pakalpojumiem, ko sniedz Metroloģijas birojs, kā arī ar starplaboratoriju salīdzināšanu un apmācību metroloģijas jomā, sedz fiziskās vai juridiskās personas normatīvajos aktos par publisko pakalpojumu izcenojumiem noteiktajā kārtībā.
+(3) Visus izdevumus, kas saistīti ar mērīšanas līdzekļa tipa apstiprināšanas, atbilstības novērtēšanas un kalibrēšanas pakalpojumiem, ko sniedz Nacionālā metroloģijas institūcija, kā arī ar starplaboratoriju salīdzināšanu un apmācību metroloģijas jomā, sedz fiziskās vai juridiskās personas normatīvajos aktos par publisko pakalpojumu izcenojumiem noteiktajā kārtībā.

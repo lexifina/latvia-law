@@ -1,0 +1,1 @@
+13. Līdz šo pārejas noteikumu 12.punktā minēto Ministru kabineta noteikumu spēkā stāšanās dienai sabiedrības ar ierobežotu atbildību "Standartizācijas, akreditācijas un metroloģijas centrs" Metroloģijas birojs ir šā likuma 14.pantā minētā Nacionālā metroloģijas institūcija un tā ir atbildīga par šā likuma un citu normatīvo aktu ievērošanu metroloģijas jomā.

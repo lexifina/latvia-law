@@ -1,4 +1,4 @@
-10.pants. Uzrādītā fasētu preču daudzuma atbilstības kontrole
-(1) Veicot tirdzniecības operācijas ar fasētām precēm, uz iesaiņojuma (taras) uzrādītais daudzums un tā apzīmējuma atbilstība ir pakļauti valsts metroloģiskajai kontrolei.
+10.pants. Uzrādītā fasēto preču satura daudzuma atbilstības kontrole
+(1) Izplatīšanai paredzēto fasēto preču satura daudzums un uz iepakojuma esošais marķējums atbilst šim likumam un normatīvajiem aktiem par metroloģiskajām prasībām fasētajām precēm un to metroloģisko kontroli.
 (2) Metroloģiskās prasības un metroloģiskās kontroles kārtību fasētajām precēm nosaka Ministru kabinets.
-(3) Fasēto preču nominālā daudzuma un iepakojuma nominālā tilpuma standartvērtību sarakstu apstiprina Ministru kabinets.
+(3) Fasēto preču satura nominālā daudzuma un iepakojuma nominālā tilpuma standartvērtību sarakstu apstiprina Ministru kabinets.
