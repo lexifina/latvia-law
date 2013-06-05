@@ -7,7 +7,7 @@ Vienkāršā vekselī jābūt:
 4) beznosacījuma solījumam maksāt noteiktu naudas summu;
 5) maksāšanas termiņa apzīmējumam;
 6) maksāšanas vietas apzīmējumam. Vekselī norāda maksāšanas vietas pilnu adresi un, ja vekseli samaksā bankā, - arī bankas nosaukumu un konta numuru. Ja nav norādīta maksāšanas vieta, par tādu uzskatāma vekseļa izrakstīšanas vieta;
-7) tās personas vārdam, uzvārdam un personas kodam, kurai vai uz kuras ordera izdarāma samaksa. Ja personai nav personas koda, norāda tās dzimšanas gadu, mēnesi, dienu un vietu;
+7) tās personas vārdam, uzvārdam un personas kodam, kurai vai uz kuras ordera izdarāma samaksa. Ja personai nav personas koda, norāda tās dzimšanas gadu, mēnesi, dienu un vietu. Juridiskajai personai norāda tās nosaukumu, juridisko adresi un reģistrācijas numuru;
 8) vekseļa izrakstīšanas vietas pilnai adresei. Ja nav norādīta vekseļa izrakstīšanas vieta, par tādu tiek uzskatīta izrakstītāja dzīves vieta;
 9) vekseļa izrakstīšanas datumam (cipariem);
 10) vekseļa devēja parakstam. Parakstot vekseli, nedrīkst lietot faksimilzīmogu;

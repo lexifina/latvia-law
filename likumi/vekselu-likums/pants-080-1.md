@@ -1,0 +1,1 @@
+80.¹ Rakstisku lūgumu izdarīt protestu un vekseli notāram iesniedz vekseļa turētājs vai viņa pārstāvis. Lūgumu izdarīt elektroniskā vekseļa protestu notāram var iesniegt elektroniski, parakstot lūgumu ar drošu elektronisko parakstu un pievienojot laika zīmogu.

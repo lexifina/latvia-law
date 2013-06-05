@@ -1,0 +1,1 @@
+82.¹ Protesta aktu, kas sastādīts kā elektronisks dokuments atbilstoši šā likuma un elektronisko dokumentu izstrādāšanu un noformēšanu reglamentējošo normatīvo aktu prasībām, noformē kā atsevišķu datni, kuru paraksta kopā ar elektronisko vekseli.
