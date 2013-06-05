@@ -1,0 +1,1 @@
+1.pants. 2012.gada 30.janvārī Maskavā parakstītā Latvijas Republikas valdības un Krievijas Federācijas valdības vienošanās par nekustamo īpašumu objektu Jūrmalā un Maskavā nodošanas noteikumiem (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.

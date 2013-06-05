@@ -1,0 +1,2 @@
+5. pants
+Vienošanās 1. un 2. pantā norādītos nekustamā īpašuma objektus nodod īpašumā/nomā brīvus no trešo personu tiesībām vai pretenzijām. Ja atklājas trešo personu tiesības vai pretenzijas attiecībā uz īpašumā/nomā nodotiem nekustamā īpašuma objektiem, par ko Puses nezināja šo objektu īpašumā/nomā nodošanas brīdī un kuri var ietekmēt šo objektu izmantošanu, tad nekustamā īpašuma objektu nododošā Puse patstāvīgi un par saviem līdzekļiem noregulē to.
