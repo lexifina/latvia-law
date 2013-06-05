@@ -1,0 +1,1 @@
+78.⁶ Visas atzīmes, uzrakstus un apstiprinājumus elektroniskajam vekselim izstrādā un pievieno atbilstoši normatīvajiem aktiem par elektronisko dokumentu izstrādāšanu un noformēšanu vai kā atsevišķu datni, kuru paraksta kopā ar elektronisko vekseli.

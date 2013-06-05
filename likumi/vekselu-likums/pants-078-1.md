@@ -1,0 +1,1 @@
+78.¹ Elektroniskais vekselis ir vērtspapīrs, kas dod tā turētājam tiesības prasīt no vekseļa devēja vai akceptētāja samaksāt noteiktu naudas summu noteiktā termiņā un vietā un ir noformēts atbilstoši elektronisko dokumentu izstrādāšanu un noformēšanu reglamentējošo normatīvo aktu prasībām.
