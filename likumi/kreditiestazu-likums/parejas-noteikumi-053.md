@@ -1,0 +1,1 @@
+53. Grozījumi šā likuma 1.panta 41. un 42.punktā, 135.pantā, 153.panta 2.punktā, 161.panta ceturtās daļas 9., 19. un 20.punktā un 166.pantā nav piemērojami kredītiestādes maksātnespējas un likvidācijas procesam, kas uzsākts pirms attiecīgo grozījumu spēkā stāšanās.

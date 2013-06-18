@@ -1,3 +1,3 @@
 179.² pants. (1) Pirmo kreditoru sapulci sasauc tiesas iecelts administrators ne vēlāk kā triju nedēļu laikā pēc tam, kad pieņemts lēmums par sanācijas piemērošanu (179.pants) kredītiestādei.
-(2) Administrators pirmās kreditoru sapulces laiku, vietu un darba kārtību paziņo kreditoriem ne vēlāk kā divas nedēļas pirms noteiktā sapulces datuma. Paziņojums par pirmo kreditoru sapulci publicējams laikrakstā "Latvijas Vēstnesis" un divos citos laikrakstos.
+(2) Administrators pirmās kreditoru sapulces laiku, vietu un darba kārtību paziņo kreditoriem ne vēlāk kā divas nedēļas pirms noteiktā sapulces datuma. Paziņojums par pirmo kreditoru sapulci publicējams oficiālajā izdevumā "Latvijas Vēstnesis" un divos citos laikrakstos.
 (3) Ja kreditoru ir vairāk nekā trīs simti, administrators, paziņojot par kreditoru sapulci, uzaicina kreditorus, kuru prasījumi nepārsniedz vienu procentu no visu prasījumu summas, pilnvarot kopīgu pārstāvi.

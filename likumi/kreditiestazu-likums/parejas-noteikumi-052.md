@@ -1,0 +1,1 @@
+52. Šā likuma 100.¹ pants attiecībā uz kredītiestādes maksājumiem Finanšu un kapitāla tirgus komisijai tās darbības finansēšanai stājas spēkā vienlaikus ar attiecīgajiem grozījumiem Finanšu un kapitāla tirgus komisijas likumā.

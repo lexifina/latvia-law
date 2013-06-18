@@ -26,12 +26,14 @@ o) elektroniskās naudas emisija;
 9) klients - persona, kurai kredītiestāde sniedz finanšu pakalpojumus;
 10) mātes sabiedrība - komercsabiedrība, kura kontrolē citu komercsabiedrību;
 11) meitas sabiedrība - komercsabiedrība, kuru kontrolē cita komercsabiedrība. Jebkura meitas sabiedrības meitas sabiedrība uzskatāma arī par tās sākotnējās izcelsmes mātes sabiedrības meitas sabiedrību;
-11¹) dalībvalsts mātes kredītiestāde - dalībvalstī reģistrēta kredītiestāde, kurai ir meitas sabiedrība - kredītiestāde vai finanšu iestāde - vai kurai ir dalība kredītiestādē vai finanšu iestādē, bet kura pati nav citas šajā dalībvalstī licencētas kredītiestādes meitas sabiedrība vai šajā dalībvalstī reģistrētas finanšu pārvaldītājsabiedrības meitas sabiedrība;
-11²) dalībvalsts mātes finanšu pārvaldītājsabiedrība - dalībvalstī reģistrēta finanšu pārvaldītājsabiedrība, kura nav šajā dalībvalstī licencētas kredītiestādes meitas sabiedrība vai citas šajā dalībvalstī reģistrētas finanšu pārvaldītājsabiedrības meitas sabiedrība;
-11³) Eiropas Savienības mātes kredītiestāde - dalībvalsts mātes kredītiestāde, kas nav jebkurā citā dalībvalstī licencētas kredītiestādes meitas sabiedrība vai jebkurā dalībvalstī reģistrētas finanšu pārvaldītājsabiedrības meitas sabiedrība;
-11⁴) Eiropas Savienības mātes finanšu pārvaldītājsabiedrība - dalībvalsts mātes finanšu pārvaldītājsabiedrība, kas nav jebkurā dalībvalstī licencētas kredītiestādes meitas sabiedrība vai citas jebkurā dalībvalstī reģistrētas finanšu pārvaldītājsabiedrības meitas sabiedrība;
+11¹) dalībvalsts mātes kredītiestāde - dalībvalstī reģistrēta kredītiestāde, kurai ir meitas sabiedrība - kredītiestāde vai finanšu iestāde - vai kurai ir dalība kredītiestādē vai finanšu iestādē, bet kura pati nav citas šajā dalībvalstī licencētas kredītiestādes meitas sabiedrība vai šajā dalībvalstī reģistrētas finanšu pārvaldītājsabiedrības vai jauktas finanšu pārvaldītājsabiedrības meitas sabiedrība;
+11²) dalībvalsts mātes finanšu pārvaldītājsabiedrība - dalībvalstī reģistrēta finanšu pārvaldītājsabiedrība, kura nav šajā dalībvalstī licencētas kredītiestādes meitas sabiedrība vai citas šajā dalībvalstī reģistrētas finanšu pārvaldītājsabiedrības vai jauktas finanšu pārvaldītājsabiedrības meitas sabiedrība;
+11³) Eiropas Savienības mātes kredītiestāde - dalībvalsts mātes kredītiestāde, kas nav jebkurā citā dalībvalstī licencētas kredītiestādes meitas sabiedrība vai jebkurā dalībvalstī reģistrētas finanšu pārvaldītājsabiedrības vai jauktas finanšu pārvaldītājsabiedrības meitas sabiedrība;
+11⁴) Eiropas Savienības mātes finanšu pārvaldītājsabiedrība - dalībvalsts mātes finanšu pārvaldītājsabiedrība, kas nav jebkurā dalībvalstī licencētas kredītiestādes meitas sabiedrība vai citas jebkurā dalībvalstī reģistrētas finanšu pārvaldītājsabiedrības vai jauktas finanšu pārvaldītājsabiedrības meitas sabiedrība;
 11⁵) Latvijas Republikas mātes kredītiestāde - Latvijas Republikā reģistrēta kredītiestāde, kurai ir meitas sabiedrība - kredītiestāde vai finanšu iestāde - vai kurai ir dalība kredītiestādē vai finanšu iestādē, bet kura pati nav citas Latvijas Republikā reģistrētas kredītiestādes meitas sabiedrība vai Latvijas Republikā reģistrētas finanšu pārvaldītājsabiedrības meitas sabiedrība;
 11⁶) Latvijas Republikas mātes finanšu pārvaldītājsabiedrība - Latvijas Republikā reģistrēta finanšu pārvaldītājsabiedrība, kura nav Latvijas Republikā reģistrētas kredītiestādes meitas sabiedrība vai citas Latvijas Republikā reģistrētas finanšu pārvaldītājsabiedrības meitas sabiedrība;
+11⁷) dalībvalsts mātes jaukta finanšu pārvaldītājsabiedrība - dalībvalstī reģistrēta jaukta finanšu pārvaldītājsabiedrība, kura nav šajā dalībvalstī licencētas kredītiestādes meitas sabiedrība vai citas šajā dalībvalstī reģistrētas finanšu pārvaldītājsabiedrības vai jauktas finanšu pārvaldītājsabiedrības meitas sabiedrība;
+11⁸) Eiropas Savienības mātes jaukta finanšu pārvaldītājsabiedrība - dalībvalsts mātes jaukta finanšu pārvaldītājsabiedrība, kura nav jebkurā dalībvalstī licencētas kredītiestādes meitas sabiedrība vai jebkurā dalībvalstī reģistrētas citas finanšu pārvaldītājsabiedrības vai citas jauktas finanšu pārvaldītājsabiedrības meitas sabiedrība;
 12) kontrole - stāvoklis, kad personai ir kontrole pār komercsabiedrību, ja:
 a) šai personai komercsabiedrībā ir izšķiroša ietekme uz līdzdalības pamata;
 b) šai personai komercsabiedrībā ir izšķiroša ietekme uz koncerna līguma pamata;
@@ -77,8 +79,8 @@ c) personas, kuras ir bijušas ieinteresētās personas saskaņā ar šā punkta
 a) dalības veidā,
 b) kontroles veidā,
 c) ja tās ir saistītas ar vienu un to pašu personu kontroles veidā;
-41) kreditoru sapulce - organizēta kreditoru kopīga darbības forma kredītiestādes sanācijas procesā;
-42) kreditoru komiteja - kreditoru sapulces ievēlēta institūcija, kas kredītiestādes sanācijas gadījumā pārstāv kreditoru sapulci atbilstoši noteiktajam pilnvaru apjomam;
+41) kreditoru sapulce - organizēta kreditoru kopīga darbības forma kredītiestādes maksātnespējas un likvidācijas procesā;
+42) kreditoru komiteja - kreditoru sapulces ievēlēta institūcija, kas kredītiestādes maksātnespējas un likvidācijas gadījumā pārstāv kreditoru sapulci atbilstoši noteiktajam pilnvaru apjomam;
 43) jaukta pārvaldītājsabiedrība - mātes sabiedrība, kura nav kredītiestāde, finanšu pārvaldītājsabiedrība vai jaukta finanšu pārvaldītājsabiedrība, bet no kuras meitas sabiedrībām vismaz viena ir kredītiestāde;
 44) dalībvalsts - Eiropas Savienības vai Eiropas Ekonomikas zonas valsts;
 45) ārvalsts - valsts, kas nav dalībvalsts;
@@ -96,10 +98,10 @@ e) kārtējā darbības gada peļņa, ja ir zvērināta revidenta vai zvērināt
 52) brīvais kapitāls - personai piederošo aktīvu vērtība, kas samazināta par šīs personas saistību vērtību un to aktīvu vērtību, kuri uzskatāmi par ilgtermiņa ieguldījumiem;
 53) prasījumu un saistību neto ieskaits - pirms parādnieka likvidācijas uzsākšanas vai likumā noteiktajā kārtībā atzītas maksātnespējas iestāšanās starp parādnieku un kreditoru uz rakstveida līguma pamata nodibinātas tiesiskas attiecības no savstarpējiem līgumiem izrietošo prasījumu un saistību izteikšanai vienā prasībā vai saistībā tā, ka tiek celta tikai viena prasība un jāizpilda tikai viena saistība;
 54) prasījumu un saistību dzēšana - prasījumu un saistību savstarpēja izteikšana vienā prasībā vai saistībā tā, ka tiek celta tikai viena prasība un izpildāma tikai viena saistība;
-55) jaukta finanšu pārvaldītājsabiedrība - mātes sabiedrība, kas nav kredītiestāde, apdrošināšanas sabiedrība vai ieguldījumu brokeru sabiedrība un kas kopā ar savām meitas sabiedrībām, no kurām vismaz viena ir dalībvalstī reģistrēta kredītiestāde, apdrošināšanas sabiedrība vai ieguldījumu brokeru sabiedrība, un citām sabiedrībām veido finanšu konglomerātu;
+55) (izslēgts ar 16.05.2013. likumu);
 56) ārvalsts valūta - jebkuras valsts, izņemot Latvijas Republiku, valūta;
 57) atgūstamās vērtības samazinājuma risks - risks, ka nopirktais debitora parāds var samazināties par naudā vai citā veidā debitoram piešķirto kredītu;
 58) sertifikāts - atbilstoši normatīvajiem aktiem izsniegts dokuments, kas apliecina administratora kvalifikāciju un dod viņam tiesības pildīt administratora pienākumus tiesiskās aizsardzības procesā un maksātnespējas procesā;
 59) pakārtotās saistības - saistības, kas kredītiestādei rodas no aizdevuma (neatkarīgi no noslēgtā darījuma veida) un kas, pamatojoties uz noslēgto līgumu ar kredītiestādi, aizdevējam dod tiesības atprasīt aizdevumu pirms termiņa tikai kredītiestādes maksātnespējas vai likvidācijas gadījumā un tikai pēc visu citu kreditoru prasījumu apmierināšanas, bet pirms akcionāru prasījumu apmierināšanas;
-60) konsolidētās uzraudzības institūcija - dalībvalsts uzraudzības institūcija, kas ir atbildīga par Eiropas Savienības mātes kredītiestādes un Eiropas Savienības mātes finanšu pārvaldītājsabiedrības kontrolētas kredītiestādes uzraudzību konsolidācijas grupas līmenī;
+60) konsolidētās uzraudzības institūcija - dalībvalsts uzraudzības institūcija, kas ir atbildīga par Eiropas Savienības mātes kredītiestādes, Eiropas Savienības mātes finanšu pārvaldītājsabiedrības un Eiropas Savienības mātes jauktas finanšu pārvaldītājsabiedrības kontrolētas kredītiestādes uzraudzību konsolidācijas grupas līmenī;
 61) uzraugu kolēģija - uzraudzības institūciju veidota konsultatīva sadarbības vienība, kas darbojas uz iesaistīto uzraudzības iestāžu sadarbības līguma pamata.

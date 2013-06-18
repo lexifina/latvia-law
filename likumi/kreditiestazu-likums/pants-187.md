@@ -1,1 +1,1 @@
-187.pants. Administrators nosaka kredītiestādes mantas izsoles uzsākšanas dienu un paziņo par to laikrakstā "Latvijas Vēstnesis" un vismaz divos citos laikrakstos. Ja noteiktajā termiņā nav iespējams uzsākt izsoli, administrators lemj par izsoles uzsākšanas dienas pārcelšanu.
+187.pants. Administrators nosaka kredītiestādes mantas izsoles uzsākšanas dienu un paziņo par to oficiālajā izdevumā "Latvijas Vēstnesis" un vismaz divos citos laikrakstos. Ja noteiktajā termiņā nav iespējams uzsākt izsoli, administrators lemj par izsoles uzsākšanas dienas pārcelšanu.

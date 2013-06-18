@@ -9,7 +9,7 @@
 7) ne vēlāk kā mēneša laikā pēc Finanšu ministrijas pieprasījuma saņemšanas nodot tranzītkredītu apkalpošanu Finanšu ministrijai vai tās norādītajai kredītiestādei;
 8) informēt tiesu par sanācijas piemērošanu un nosūtīt tiesai zināšanai lēmumu par sanācijas piemērošanu, un likumā noteiktajā kārtībā iesniegt tiesā pieteikumu par bankrota procedūras uzsākšanu;
 9) sniegt Finanšu un kapitāla tirgus komisijai un Latvijas Bankai informāciju par maksātnespējas procesa gaitu un to noteiktajos termiņos iesniegt visu pieprasīto informāciju, kas tām nepieciešama savu funkciju pildīšanai;
-10) katra mēneša pirmo 10 dienu laikā iesniegt publicēšanai laikrakstā "Latvijas Vēstnesis" kredītiestādes iepriekšējā mēneša pārskatu, kas atspoguļo finanšu stāvokli pārskata perioda beigās, un pārskatu par atgūtajiem aktīviem, tai skaitā mantu, un maksātnespējas procesa izdevumiem iepriekšējā mēnesī;
+10) katra mēneša pirmo 10 dienu laikā iesniegt publicēšanai oficiālajā izdevumā "Latvijas Vēstnesis" kredītiestādes iepriekšējā mēneša pārskatu, kas atspoguļo finanšu stāvokli pārskata perioda beigās, un pārskatu par atgūtajiem aktīviem, tai skaitā mantu, un maksātnespējas procesa izdevumiem iepriekšējā mēnesī;
 11) kārtot grāmatvedību atbilstoši šā likuma 75.panta prasībām;
 12) sniegt šajā likumā un likumā "Par Latvijas Republikas Uzņēmumu reģistru", kā arī Zemesgrāmatu likumā paredzēto informāciju Uzņēmumu reģistram un zemesgrāmatu nodaļām;
 13) iesniegt likumos noteiktajā kārtībā kompetentām institūcijām ziņojumus un materiālus par maksātnespējas procesa gaitā atklātajiem faktiem, kuri var būt par pamatu krimināllietas ierosināšanai;
@@ -30,7 +30,7 @@
 6) apdrošināt kredītiestādes darījumus un kredītiestādes mantu;
 7) sagatavot un parakstīt kredītiestādes vārdā jebkuru dokumentu;
 8) pieņemt darbā un atlaist no darba administratora palīgu;
-9) pieņemt darbā un atlaist no darba darbiniekus, arī tos, kuri pieņemti darbā pirms maksātnespējas lietas ierosināšanas;
+9) pieņemt darbā un atlaist no darba darbiniekus, arī tos, kuri pieņemti darbā pirms maksātnespējas lietas ierosināšanas, nepiemērojot Darba likumā noteikto darba līguma uzteikšanas termiņu, kā arī Darba likuma normas par kolektīvo atlaišanu. Ja darbinieks noslēdzis darba koplīgumu, administratoram ir tiesības nepiemērot tā normas par darba līguma uzteikumu, tajā skaitā ar uzteikumu saistītām izmaksām. Pieņemot lēmumu nepiemērot norādītās Darba likuma un noslēgtā darba koplīguma normas, administratora pienākums ir izvērtēt šāda lēmuma lietderību;
 10) segt maksātnespējas procesa izdevumus no kredītiestādes līdzekļiem;
 11) iznomāt jebkuru kredītiestādes mantu, kā arī nomāt jebkuru mantu, ja tas ir visu kreditoru interesēs;
 12) atteikties no jebkura prasījuma pret trešajām personām vai slēgt jebkuru mierizlīgumu kredītiestādes vārdā attiecībā uz kredītiestādes prasījumiem pret trešajām personām, ja šādas darbības rezultātā palielinās iespējas apmierināt kreditoru prasījumus vai tiek paātrināta parādu segšana, būtiski nesamazinot kreditoriem izmaksājamo kompensāciju apmēru;
@@ -39,7 +39,9 @@
 15) mainīt kredītiestādes reģistrēto juridisko adresi;
 16) pieprasīt un saņemt no fiziskajām personām, valsts un pašvaldību iestādēm, komercsabiedrībām maksātnespējas procesā nepieciešamo informāciju par kredītiestādi un tās pārstāvjiem;
 17) pārstāvēt kredītiestādi kriminālprocesā un lūgt, lai attiecīgajiem kredītiestādes pārstāvjiem tiktu noteikts drošības līdzeklis, ja sakarā ar konkrēto maksātnespējas lietu ir ierosināta krimināllieta;
-18) pieprasīt un saņemt no kreditoriem un citām personām prasību un citu pretenziju tulkojumus Latvijas Republikas valsts valodā.
+18) pieprasīt un saņemt no kreditoriem un citām personām prasību un citu pretenziju tulkojumus Latvijas Republikas valsts valodā;
+19) pieaicināt speciālistus, lai saņemtu grāmatvedības, audita un juridiskos pakalpojumus, kā arī nodrošinātu kredītiestādes interešu vai administratora pārstāvību valsts pārvaldes un tiesu iestādēs un saņemtu citus pakalpojumus, kas nepieciešami, lai nodrošinātu efektīva maksātnespējas procesa norisi;
+20) sasaukt kreditoru sapulci, lai izskatītu jautājumu par administratora un administratora palīga kopējās proporcionālās atlīdzības un citu ar maksātnespējas procesu saistītu izdevumu apmēra noteikšanu.
 (5) Ja administrators pēc kredītiestādes pasludināšanas par maksātnespējīgu lauž darba līgumu ar kredītiestādes darbiniekiem, par darba līguma laušanas tiesisko pamatu uzskatāmi Darba likuma 101.panta pirmās daļas 9. un 10.punkta noteikumi, ja nav cita likumiska pamata darba līguma laušanai. Darba līguma izbeigšanas gadījumā atlaistie darbinieki iegūst kreditoru statusu:
 1) neizmaksātās darba samaksas un ar to saistīto nesaņemto maksājumu apmērā;
 2) kaitējuma atlīdzības apmērā sakarā ar nelaimes gadījumu darbā vai arodslimību par visu nesamaksāto periodu un to maksājumu apmērā, kas izdarāmi par trim gadiem uz priekšu valsts sociālās apdrošināšanas speciālajā budžetā, ja nelaimes gadījums darbā noticis vai arodslimība iegūta līdz 1997.gada 1.janvārim.

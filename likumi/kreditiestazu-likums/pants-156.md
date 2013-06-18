@@ -1,2 +1,2 @@
-156.pants. (1) Administratoram ir personiskais zīmogs ar uzrakstu "Administrators (kredītiestādes nosaukums) maksātnespējas procesā" un viņa vārdu, uzvārdu vai juridiskās personas nosaukumu, ja par administratoru iecelta juridiskā persona.
-(2) Administratoram ir apliecība ar viņa fotoattēlu, vārdu, uzvārdu vai par administratoru ieceltās juridiskās personas pilnvarotās fiziskās personas fotoattēlu, vārdu, uzvārdu un uzrakstu "Administrators (kredītiestādes nosaukums) maksātnespējas procesā". Apliecību apstiprina tiesas priekšsēdētājs ar savu parakstu un tiesas zīmogu.
+156.pants. (1) Administratoram ir personiskais zīmogs ar uzrakstu "Administrators (kredītiestādes nosaukums) maksātnespējas procesā" un viņa vārdu, uzvārdu.
+(2) Administratoram ir apliecība ar viņa fotoattēlu, vārdu, uzvārdu un uzrakstu "Administrators (kredītiestādes nosaukums) maksātnespējas procesā". Apliecību apstiprina tiesas priekšsēdētājs ar savu parakstu un tiesas zīmogu.

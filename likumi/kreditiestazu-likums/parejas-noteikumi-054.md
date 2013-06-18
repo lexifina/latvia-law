@@ -1,0 +1,1 @@
+54. Attiecībā uz kredītiestādes administratora izvēli maksātnespējas procesos, kuri uzsākti līdz 131.¹ panta grozījumu spēkā stāšanās dienai (panta izteikšana jaunā redakcijā), piemērojamas tiesību normas, kuras bija spēkā administratora iecelšanas dienā, izņemot gadījumus, kad maksātnespējas procesā ieceļams cits administrators.
