@@ -3,7 +3,7 @@
 1) savu firmu (nosaukumu) vai vārdu un uzvārdu, reģistrācijas numuru (ja tāds ir) un juridisko adresi vai deklarētās dzīvesvietas adresi;
 2) savu kontaktinformāciju, kas nodrošina iespēju ātri sazināties tiešā veidā, tajā skaitā pasta adresi, tālruņa numuru un elektroniskā pasta adresi;
 3) ja attiecīgās darbības veikšanai nepieciešama atļauja, - informāciju par atbildīgo iestādi, kas izsniegusi atļauju;
-4) ja attiecīgā pakalpojuma sniegšana apliekama ar pievienotās vērtības nodokli, - savu reģistrācijas numuru Valsts ieņēmumu dienesta ar pievienotās vērtības nodokli apliekamo personu reģistrā;
+4) ja attiecīgā pakalpojuma sniegšana apliekama ar pievienotās vērtības nodokli, - savu reģistrācijas numuru Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā;
 5) attiecībā uz reglamentēto profesionālo darbību - informāciju par profesionālo organizāciju, kas izsniegusi profesionālo kvalifikāciju apliecinošus dokumentus, profesijai vai kvalifikācijai atbilstošo nosaukumu un valsti, kurā tas piešķirts, kā arī atsauci uz reģistrācijas valstī piemērojamiem profesionālajiem noteikumiem un veidu, kādā tie pieejami;
 6) pakalpojuma sniegšanas vispārīgos noteikumus un klauzulas;
 7) klauzulas, kas nosaka, pēc kādiem likumiem apspriežamas pakalpojuma sniedzēja un pakalpojuma saņēmēja savstarpējās attiecības, kā arī to, kura tiesa izskatīs strīdu, kas radies starp pakalpojuma sniedzēju un pakalpojuma saņēmēju;
