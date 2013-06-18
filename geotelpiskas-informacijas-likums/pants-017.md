@@ -17,8 +17,9 @@
 15) ģeotelpiskā informācija par sauszemes, jūras, gaisa un cauruļvadu transporta infrastruktūru un satiksmes mezgliem;
 16) inženierkomunikāciju ģeotelpiskā informācija.
 (2) Ģeotelpiskās informācijas pamatdatu turētājus nosaka šajā likumā vai attiecīgās nozares speciālajos normatīvajos aktos.
-(3) Valsts aģentūra "Latvijas Ģeotelpiskās informācijas aģentūra" iegūst, sagatavo un atjaunina šādus pamatdatus un ir šo pamatdatu turētājs:
+(3) Latvijas Ģeotelpiskās informācijas aģentūra iegūst, sagatavo un atjaunina šādus pamatdatus un ir šo pamatdatu turētājs:
 1) Zemes virsmas attēlus, tālizpētes datus un ortofoto mērogu rindas 1:50 000 - 1:2000 ietvaros;
 2) digitālos apvidus un virsmas modeļus, kas izmantoti topogrāfisko plānu un topogrāfisko karšu sastādīšanai mērogu rindas 1:250 000 - 1:10 000 ietvaros;
 3) ģeotelpisko informāciju, kas ietverta topogrāfiskajos plānos un topogrāfiskajās kartēs mērogu rindas 1:250 000 - 1:2000 ietvaros;
 4) ģeotelpiskās informācijas pamatdatus, lai nodrošinātu atbalstu Nacionālo bruņoto spēku uzdevumu izpildei un to dalībai Ziemeļatlantijas līguma organizācijā Aizsardzības ministrijas noteiktajā kārtībā.
+(4) Šā panta trešajā daļā noteiktos ģeotelpiskās informācijas pamatdatus uzkrāj ģeotelpisko pamatdatu informācijas sistēmā. Ģeotelpisko pamatdatu informācijas sistēmas pārzinis ir Latvijas Ģeotelpiskās informācijas aģentūra. Ģeotelpisko pamatdatu informācijas sistēmas uzturēšanas un izmantošanas noteikumus nosaka Ministru kabinets.
