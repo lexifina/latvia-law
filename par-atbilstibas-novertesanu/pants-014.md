@@ -5,7 +5,7 @@
 4) sadarboties ar citu valstu nacionālajām akreditācijas institūcijām;
 5) pārstāvēt Latviju starptautiskajās akreditācijas organizācijās;
 6) izveidot un uzturēt akreditēto atbilstības novērtēšanas institūciju sarakstu savā mājaslapā internetā;
-7) publicēt savā mājaslapā internetā informāciju par akreditētajām atbilstības novērtēšanas institūcijām, kas darbojas reglamentētajā sfērā;
+7) publicēt oficiālajā tīmekļa vietnē informāciju par akreditētajām atbilstības novērtēšanas institūcijām, kas darbojas reglamentētajā sfērā, un nodrošināt publicētās informācijas ticamību;
 8) informēt Ekonomikas ministriju par reglamentētajā sfērā akreditētajām institūcijām.
 (2) Nacionālajai akreditācijas institūcijai, pildot šā panta pirmajā daļā minētās funkcijas, ir tiesības izdot administratīvos aktus.
 (3) Akreditācijas sistēmas finansēšanas kārtība ir šāda:

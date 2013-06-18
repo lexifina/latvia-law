@@ -1,3 +1,3 @@
-6.pants. (1) Atbilstības novērtēšanu reglamentētajā sfērā veic atbilstības novērtēšanas institūcijas, kuras akreditētas normatīvajos aktos noteiktajā kārtībā.
+6.pants. (1) Atbilstības novērtēšanu reglamentētajā sfērā veic atbilstības novērtēšanas institūcijas, kas akreditētas saskaņā ar konkrētu jomu reglamentējošiem normatīvajiem aktiem.
 (2) Atbilstības novērtēšanas institūcijas akreditē un lēmumus akreditācijas jomā pieņem nacionālā akreditācijas institūcija.
-(3) Institūciju, kura veic nacionālās akreditācijas institūcijas funkcijas, nosaka Ministru kabinets.
+(3) Institūciju, kura veic nacionālās akreditācijas institūcijas funkcijas, nosaka Ministru kabinets. Šī institūcija izpilda Eiropas Parlamenta un Padomes 2008.gada 9.jūlija regulas (EK) Nr. 765/2008, ar ko nosaka akreditācijas un tirgus uzraudzības prasības attiecībā uz produktu tirdzniecību un atceļ regulu (EEK) Nr. 339/93, 8.pantā noteiktās prasības.

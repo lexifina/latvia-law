@@ -1,1 +1,2 @@
-8.pants. Ekonomikas ministrija, ievērojot Eiropas Savienībā pastāvošo paziņošanas procedūru, informē Eiropas Komisiju par tām atbilstības novērtēšanas institūcijām, kuras darbojas saskaņā ar noteiktajām atbilstības novērtēšanas prasībām reglamentētajā sfērā.
+8.pants. (1) Atbilstības novērtēšanas institūciju paziņošanas komisija (turpmāk - paziņošanas komisija) paziņo Eiropas Komisijai par atbilstības novērtēšanas institūcijām, kas veic atbilstības novērtēšanu reglamentētajā sfērā.
+(2) Kārtību, kādā izveido paziņošanas komisiju, kā arī kārtību, kādā šī komisija pieņem lēmumu un paziņo Eiropas Komisijai par atbilstības novērtēšanas institūcijām, kas veic atbilstības novērtēšanu reglamentētajā sfērā, nosaka Ministru kabinets.
