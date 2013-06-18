@@ -18,6 +18,10 @@ Likumā ir lietoti šādi termini:
 15) ogļūdeņraži - neapstrādāta nafta (jēlnafta), dabas gāze un gāzes kondensāti;
 15¹) pazemes būves - tuneļi, mākslīgās alas, šahtas, patvertnes, kā arī ogļūdeņražu un ogļskābās gāzes glabātavas ģeoloģiskajās struktūrās;
 15²) zemes dzīļu derīgās īpašības - iežu fizikālās īpašības (porainība, caurlaidība, blīvums, izolētspēja, termālā enerģija u.c.), kā arī ģeoloģiskās struktūras, kuras var izmantot tautsaimniecībā;
+15³) ogļūdeņražu meklēšana - teritorijas ģeofizikālā un ģeoķīmiskā izpēte un datu apstrāde, lai analizētu tās ģeoloģisko uzbūvi un novērtētu ogļūdeņražu iegulu potenciālo izplatību;
+15⁴) ogļūdeņražu izpēte - ogļūdeņražu ģeoloģiskā, ģeofizikālā un ģeoķīmiskā izpēte, izpētes urbuma ierīkošana, izpētes darbi urbumā, tai skaitā serdes pacelšana, ģeofizikālā izpēte, eksperimentālā urbuma šķidruma (arī ogļūdeņražu) atsūknēšana, kvalitātes testēšana un citi darbi, lai novērtētu un izvēlētos ieguves tehnoloģijas un aprēķinātu ogļūdeņražu krājumus;
+15⁵) eksperimentālā ogļūdeņražu ieguve - ogļūdeņražu izpētes laikā veikta to sūknēšana no ogļūdeņražu izpētes urbuma, ogļūdeņražu sastāva un kvalitātes testēšana, lai noteiktu ogļūdeņražu iegulas lielumu, to sastāvu, kā arī efektīvāko piemērojamo tehnoloģiju ogļūdeņražu ieguvei;
+15⁶) ogļūdeņražu ieguve - ogļūdeņražu atdalīšana no to dabiskās vides, lai gūtu peļņu no šo ogļūdeņražu pārdošanas;
 16) (izslēgts ar 16.12.2004. likumu);
 17) valsts nozīmes derīgie izrakteņi - ogļūdeņraži [neapstrādāta nafta (jēlnafta), dabas gāze] un pazemes ūdeņi (saldūdeņi, minerālūdeņi, termālie ūdeņi un rūpniecībā izmantojamie ūdeņi);
 18) valsts nozīmes derīgo izrakteņu atradne - Ministru kabineta noteikta atradne, kura atrodas Latvijas teritorijā vai ekskluzīvajā ekonomiskajā zonā un kuras krājumi nodrošina valsts vai vairāku tās reģionu vajadzības pēc attiecīgā derīgā izrakteņa;
