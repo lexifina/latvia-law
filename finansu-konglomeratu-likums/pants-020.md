@@ -1,6 +1,6 @@
 20.pants. (1) Finanšu un kapitāla tirgus komisija sadarbojas ar dalībvalstu uzraudzības institūcijām, kuras ir atbildīgas par finanšu konglomerātā ietilpstošo regulēto komercsabiedrību uzraudzību, un, ja koordinators nav Finanšu un kapitāla tirgus komisija, - ar koordinatoru, pēc pieprasījuma vai pēc savas iniciatīvas sniedzot informāciju, kas ir nozīmīga finanšu konglomerātā ietilpstošo regulēto komercsabiedrību papildu uzraudzībai.
 (2) Uzraudzības institūciju sadarbība aptver informācijas vākšanu un apmaiņu šādos jautājumos:
-1) grupas struktūra, visas finanšu konglomerātā ietilpstošās nozīmīgākās komercsabiedrības un uzraudzības institūcijas, kas uzrauga finanšu konglomerātā ietilpstošās regulētās komercsabiedrības;
+1) grupas juridiskā, pārvaldes un organizatoriskā struktūra, ietverot finanšu konglomerātā ietilpstošās regulētās komercsabiedrības, neregulētās meitas sabiedrības un nozīmīgas filiāles, personas, kurām ir būtiska līdzdalība galējā mātes sabiedrības līmenī, kā arī uzraudzības institūcijas, kas uzrauga finanšu konglomerātā ietilpstošās regulētās komercsabiedrības;
 2) finanšu konglomerāta darbības stratēģija;
 3) finanšu konglomerāta finanšu situācija, īpaši attiecībā uz kapitāla pietiekamību, grupas iekšējiem darījumiem, riska koncentrāciju un rentabilitāti;
 4) finanšu konglomerātā ietilpstošo komercsabiedrību galvenie akcionāri un vadība;

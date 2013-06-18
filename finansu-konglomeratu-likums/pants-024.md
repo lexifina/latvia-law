@@ -1,0 +1,1 @@
+24.pants. Ja Finanšu un kapitāla tirgus komisija ir koordinators, tā Eiropas Uzraudzības iestāžu apvienotajai komitejai iesniedz šā likuma 17.panta ceturtajā, piektajā un sestajā daļā, kā arī 20.panta otrās daļas 1.punktā minēto informāciju.
