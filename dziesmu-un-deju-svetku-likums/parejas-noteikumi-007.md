@@ -1,0 +1,1 @@
+7. Ministru kabinets līdz 2013.gada 31.decembrim iesniedz Saeimai likumprojektu, kas paredz pamatotu un izsvērtu risinājumu brīvdienas (svētku dienas) piešķiršanai saistībā ar Vispārējo latviešu dziesmu un deju svētku noslēgumu (noslēguma diena un nākamā diena).
