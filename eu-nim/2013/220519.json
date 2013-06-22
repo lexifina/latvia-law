@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2013.gada 18.jūnija noteikumi Nr.325 \"Noteikumi par īpaši aizsargājamo biotopu un īpaši aizsargājamo sugu dzīvotņu atjaunošanu mežā\".",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "119 (4925)",
+  "official_journal_page": null,
+  "official_journal_date": "2013-06-21",
+  "entry_into_force": "2013-06-22",
+  "notification_date": "2014-10-17",
+  "commission_reference": "MNE(2014)55919",
+  "nim_celex": "72009L0147LVA_220519",
+  "nim_id": "220519",
+  "transposes_celex": [
+    "32009L0147"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c27488a6-3959-4060-9a6b-80f4a8f4fa3e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
