@@ -1,0 +1,1 @@
+20.pants. Pēc euro ieviešanas Latvijas Republikā Civillikuma 1668.¹⁰ pantā norādītās parāda atgūšanas izmaksas saskaņā ar Eiropas Parlamenta un Padomes 2011.gada 16.februāra direktīvu 2011/7/ES par maksājumu kavējumu novēršanu komercdarījumos nacionālajā tiesību sistēmā tiek noteiktas 40 euro apmērā.
