@@ -9,7 +9,8 @@
 7) sabiedrība savas akcijas iegūst mantošanas ceļā;
 8) sabiedrība savas akcijas iegūst, piedzenot savus prasījumus no trešajām personām;
 9) sabiedrībai pāriet tā akcionāra akcijas, kurš nav šīs akcijas apmaksājis noteiktā termiņā;
-10) (izslēgts ar 22.04.2004. likumu).
+10) (izslēgts ar 22.04.2004. likumu);
+11) sabiedrība savas akcijas iegūst, ja akcijas, kuras piekrīt valstij kā bezmantinieku manta, likumā noteiktajā kārtībā nav pārdotas.
 (1¹) Savu akciju kā nodrošinājuma pieņemšanai tiek piemēroti šā likuma noteikumi par savu akciju iegūšanas aizliegumu.
 (2) Šā panta pirmās daļas 2., 6. un 8.punktā minētajā gadījumā sabiedrība drīkst iegūt tikai pilnībā apmaksātas akcijas.
 (3) Šā panta pirmās daļas 2.punktā paredzētajā gadījumā sabiedrība drīkst iegūt savas akcijas, pamatojoties uz akcionāru sapulces lēmumu, ar nosacījumu, ka iegūto un sabiedrībai jau piederošo akciju nominālvērtību kopsumma nepārsniedz vienu desmitdaļu no sabiedrības parakstītā pamatkapitāla. Sabiedrība minētās akcijas drīkst iegūt tikai tad, ja sabiedrības pašu kapitāls pārsniedz pamatkapitāla apmēru un šo akciju iegūšanas rezultātā sabiedrības pašu kapitāls nekļūst mazāks par minēto apmēru. Akcionāru sapulces lēmumā norāda maksimālo iegūstamo akciju skaitu, kā arī termiņu, kurā šīs akcijas iegūstamas un kurš nedrīkst pārsniegt 18 mēnešus. Ja akcijas tiek iegūtas par atlīdzību, lēmumā norāda arī atlīdzības minimālo un maksimālo apmēru.

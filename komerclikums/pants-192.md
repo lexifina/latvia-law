@@ -10,5 +10,6 @@
 8) iegūstot citu uzņēmumu vai tā daļu;
 9) bezatlīdzības darījuma rezultātā;
 10) piedzenot savus prasījumus no trešajām personām;
-11) reorganizācijas rezultātā, izmaksājot atlīdzību noteiktajos gadījumos.
+11) reorganizācijas rezultātā, izmaksājot atlīdzību noteiktajos gadījumos;
+12) tad, ja daļas, kuras piekrīt valstij kā bezmantinieku manta, likumā noteiktajā kārtībā nav pārdotas.
 (2) Ja sabiedrība iegūst savu daļu, tai nav nekādu dalībnieka tiesību. Nosakot pārstāvības normu, šīs daļas netiek ņemtas vērā.
