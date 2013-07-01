@@ -1,0 +1,1 @@
+32. Šā likuma noteikumi par izpirkuma tiesībām ir piemērojami, ja sabiedrības ar ierobežotu atbildību pamatkapitāla daļas atsavināšanas, tajā skaitā nodošanas, darījums ir noslēgts pēc 2013.gada 30.jūnija.

@@ -9,3 +9,4 @@
 5) peļņas izlietošanu citiem mērķiem.
 (4) Dalībnieku sapulce lemj par peļņas izlietošanu pēc sabiedrības gada pārskata apstiprināšanas.
 (5) (Izslēgta ar 14.02.2002. likumu)
+(6) Ja sabiedrībai ir nesadalītā peļņa, dalībnieki šajā likumā noteiktajā kārtībā var lūgt valdi sasaukt dalībnieku sapulci, lai pieņemtu lēmumu par peļņas izlietošanu. Valde paziņojumam par sapulces sasaukšanu pievieno priekšlikumu par peļņas izlietošanu, kurā norāda šā panta trešajā daļā minētās ziņas.

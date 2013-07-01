@@ -1,5 +1,9 @@
 189.pants. Dalībnieku pirmpirkuma tiesības
-(1) Ja sabiedrības dalībnieks pārdod sev piederošu daļu, pārējiem dalībniekiem ir pirmpirkuma tiesības. Pirmpirkuma tiesību izlietošanas termiņš ir viens mēnesis no dienas, kad paziņojums par pārdošanu iesniegts valdei. Dalībnieks var rakstveidā atteikties no pirmpirkuma tiesībām pirms noteiktā termiņa beigām.
-(1¹) Valdei ir pienākums pēc paziņojuma par daļas pārdošanu saņemšanas nekavējoties to darīt zināmu katram dalībniekam.
-(2) Ja divi vai vairāki dalībnieki vēlas izmantot pirmpirkuma tiesības un pārdodamo daļu skaits ir pietiekams, tās sadala starp šiem dalībniekiem proporcionāli viņiem piederošajām daļām.
-(3) Ja divi vai vairāki dalībnieki vēlas izmantot pirmpirkuma tiesības, bet pārdodamo daļu skaits nav pietiekams, lai tās sadalītu proporcionāli, valde starp šiem dalībniekiem rīko slēgtu izsoli uz atlikušajām daļām, kuras nevar proporcionāli sadalīt.
+(1) Gadījumā, kad dalībnieka daļas tiek pārdotas, pārējiem dalībniekiem ir pirmpirkuma tiesības, ja statūtos nav noteikts citādi.
+(2) Par daļas pārdošanu daļas pārdevējs vai daļas ieguvējs paziņo katram dalībniekam un valdei, paziņojumam pievienojot noslēgto pirkuma līgumu vai tā attiecīgi apliecinātu kopiju. Ja paziņojumu nosūta daļas ieguvējs, tas nosūtāms vienlaikus arī daļas pārdevējam. Paziņojumu dalībniekam nosūta uz dalībnieku reģistrā norādīto adresi.
+(3) Pirmpirkuma tiesību izlietošanas termiņš ir viens mēnesis no dienas, kad paziņojums par daļas pārdošanu nosūtīts visiem dalībniekiem, ja statūtos nav noteikts īsāks termiņš. Dalībnieks var rakstveidā atteikties no pirmpirkuma tiesību izlietošanas pirms noteiktā termiņa beigām.
+(4) Par pirmpirkuma tiesību izlietošanu vai atteikšanos tās izlietot dalībnieks paziņo personai, kura nosūtījusi paziņojumu par daļas pārdošanu, un valdei.
+(5) Šā panta trešajā daļā noteiktā termiņa laikā daļas pārdevējam aizliegts rīkoties ar daļu, grozīt pirkuma līguma noteikumus vai veikt citas darbības, kas pasliktinātu pirmpirkumtiesīgā dalībnieka stāvokli gadījumā, ja viņš izlietotu pirmpirkuma tiesības.
+(6) Ja daļas ieguvējs ir sabiedrības dalībnieks un dalībnieki izlieto pirmpirkuma tiesības, daļas sadalāmas starp daļas ieguvēju un dalībniekiem proporcionāli viņiem piederošajām daļām.
+(7) Ja divi vai vairāki dalībnieki izlieto pirmpirkuma tiesības un pārdodamo daļu skaits ir pietiekams, tās sadala starp šiem dalībniekiem proporcionāli viņiem piederošajām daļām.
+(8) Ja divi vai vairāki dalībnieki izlieto pirmpirkuma tiesības, bet pārdodamo daļu skaits nav pietiekams, lai tās sadalītu proporcionāli, starp šiem dalībniekiem rīko slēgtu izsoli uz atlikušajām daļām, kuras nevar proporcionāli sadalīt. Statūtos var paredzēt citu kārtību, kādā sadalāmas atlikušās daļas.

@@ -6,7 +6,7 @@
 4) kapitālsabiedrības padomes locekli;
 5) prokūristu;
 6) parasto komercpilnvarnieku;
-7) pārstāvi filiālē;
+7) personu, kura pilnvarota pārstāvēt ārvalsts komersantu darbībās, kas saistītas ar filiāli;
 8) komercsabiedrības likvidatoru;
 9) sabiedrības kontrolieri;
 10) revidentu.

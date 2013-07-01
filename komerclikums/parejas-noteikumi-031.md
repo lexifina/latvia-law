@@ -1,0 +1,1 @@
+31. Līdz 2013.gada 30.jūnijam komercreģistrā reģistrētas sabiedrības ar ierobežotu atbildību atbilstoši šā likuma 187.panta prasībām sastāda un ne vēlāk kā 2015.gada 30.jūnijā iesniedz komercreģistra iestādei aktuālo sabiedrības dalībnieku reģistru.

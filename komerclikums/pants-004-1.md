@@ -6,7 +6,7 @@
 4) būt par personālsabiedrības lietvedi vai personālsabiedrību pārstāvēttiesīgo biedru;
 5) būt par kapitālsabiedrības valdes vai padomes locekli;
 6) piedalīties dalībnieku sapulces lēmuma pieņemšanā šā likuma 210.panta otrajā daļā noteiktajā gadījumā;
-7) būt par prokūristu, parasto komercpilnvarnieku un pārstāvi filiālē;
+7) būt par prokūristu, parasto komercpilnvarnieku vai personu, kura pilnvarota pārstāvēt ārvalsts komersantu darbībās, kas saistītas ar filiāli;
 8) būt par komercsabiedrības likvidatoru;
 9) dot norādījumus vai padomus individuālajam komersantam, komercsabiedrības biedram, dalībniekam vai akcionāram, valdes vai padomes loceklim, prokūristam vai komercpilnvarniekam vai arī citādi viņus ietekmēt.
 (2) Fiziskajai personai, kurai atņemtas tiesības veikt noteikta veida komercdarbību, šā panta pirmajā daļā noteiktie aizliegumi attiecināmi tikai uz attiecīgajā nolēmumā noteikto komercdarbības veidu. Ja šādas personas tiesiskais statuss ļauj pieņemt lēmumus komercsabiedrībā, tai ir aizliegts pieņemt lēmumus jautājumos, kuri attiecas uz attiecīgajā nolēmumā noteikto komercdarbības veidu.
