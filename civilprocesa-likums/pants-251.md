@@ -4,6 +4,7 @@ Sevišķā tiesāšanas kārtībā tiesa izskata lietas:
 2) par personas rīcībspējas ierobežošanu garīga rakstura vai citu veselības traucējumu dēļ, rīcībspējas ierobežošanas pārskatīšanu un atjaunošanu;
 2¹) par pagaidu aizgādnības nodibināšanu un izbeigšanu;
 3) par personas rīcībspējas ierobežošanu un aizgādnības nodibināšanu personām to izlaidīgas vai izšķērdīgas dzīves dēļ, kā arī alkohola vai citu apreibinošo vielu pārmērīgas lietošanas dēļ;
+3¹) par nākotnes pilnvarnieka tiesību apturēšanu;
 4) par aizgādnības nodibināšanu promesošo vai pazudušo personu mantai;
 5) par pazudušo personu izsludināšanu par mirušām;
 6) par tādu faktu konstatēšanu, kuriem ir juridiska nozīme;

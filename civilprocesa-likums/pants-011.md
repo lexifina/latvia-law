@@ -5,6 +5,7 @@
 3) laulības šķiršanu vai neesamību;
 4) personas rīcībspējas ierobežošanu garīga rakstura vai citu veselības traucējumu dēļ;
 4¹) pagaidu aizgādnības nodibināšanu;
+4²) nākotnes pilnvarnieka tiesību apturēšanu;
 5) bērna prettiesisku pārvietošanu pāri robežai uz ārvalsti vai aizturēšanu ārvalstī un bērna prettiesisku pārvietošanu pāri robežai uz Latviju vai aizturēšanu Latvijā;
 6) aizgādības un saskarsmes tiesībām.
 (2) Personas, kas jaunākas par 15 gadiem un kas nav lietas dalībnieki vai liecinieki, tiesas sēdē var būt klāt tikai ar tiesas atļauju.
