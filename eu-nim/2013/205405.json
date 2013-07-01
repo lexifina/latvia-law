@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Sabiedriskā transporta pakalpojumu likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "106",
+  "official_journal_page": null,
+  "official_journal_date": "2013-06-04",
+  "entry_into_force": "2013-07-01",
+  "notification_date": "2013-06-10",
+  "commission_reference": "MNE(2013)54585",
+  "nim_celex": "72009L0033LVA_205405",
+  "nim_id": "205405",
+  "transposes_celex": [
+    "32009L0033"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ae0b992f-c37a-4886-a020-7d724b2fca3c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
