@@ -1,7 +1,6 @@
 10.pants. Zāļu valsts aģentūra savas kompetences ietvaros veic šādas funkcijas:
 1) organizē informācijas vākšanu par aktualitātēm zāļu kvalitātes ekspertīzes jomā, kā arī zāļu patēriņa statistikas veidošanu valstī, izmantojot aptieku, zāļu lieltirgotavu, zāļu ražotāju, zāļu importētāju, ārstniecības iestāžu, praktizējošu veterinārārstu un veterinārmedicīniskās aprūpes iestāžu sniegto informāciju, un šīs informācijas apkopošanu un izplatīšanu;
 1¹) sniedz informāciju par zāļu pieejamības analīzei nepieciešamajiem zāļu (izņemot veterinārās zāles) vairumtirdzniecības realizācijas datiem pēc zāļu starptautiskā nepatentētā nosaukuma;
-(Punkts stājas spēkā 01.07.2013. Sk. Pārejas noteikumu 27.punktu)
 1²) publisko savā tīmekļa vietnē maksimāli pieļaujamās zāļu cenas aptiekās;
 2) veido un regulāri aktualizē Latvijas zāļu reģistru, piešķir zāļu reģistrācijas numurus un zāļu kodus, veido un uztur datu bāzi par zāļu patēriņa statistiku, kā arī par zāļu klīnisko izpēti un zāļu lietošanas novērojumiem;
 3) novērtē un reģistrē zāles;
