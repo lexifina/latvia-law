@@ -1,2 +1,6 @@
 416. Ja pēc mantojuma atstājēja nāves viņam mantinieki nav palikuši vai šie mantinieki likumiskā termiņā pēc publikācijas par mantojuma atklāšanos nav ieradušies vai nav pierādījuši savas mantojuma tiesības, tad manta piekrīt valstij.
-Par parādiem valsts atbild tikai ar to mantu, kuru viņa tādā kārtā patiesi iegūst.
+Par parādiem valsts atbild tikai ar to mantu, kuru viņa tādā kārtā patiesi iegūst. Valsts atzīst parādus, kuri nodrošināti ar hipotēku vai komercķīlu, kā arī tos parādus, kuri pieteikti kā kreditoru pretenzijas mantojuma lietā zvērinātam notāram uzaicinājumā (sludinājumā par mantojuma atklāšanos) norādītajā termiņā un ietverti publiskā aktā vai saistībā, kas atzīta ar spēkā stājušos tiesas nolēmumu.
+Ar dienu, kad taisa notariālo aktu par mantojuma lietas izbeigšanu, apstājas procentu, līgumsoda un citu blakusprasījumu pieaugums.
+Par nekustamo īpašumu, kas atzīts par bezmantinieku mantu saskaņā ar šā panta pirmo daļu, zemesgrāmatā tiek izdarīta atzīme, ka tā ir bezmantinieku manta un ir piekritīga valstij. Atzīme par bezmantinieku mantu ir šķērslis jebkuram labprātīgam nostiprinājumam, izņemot Zemesgrāmatu likuma 45.panta 6.punktā paredzētās atzīmes.
+Valstij nozīmīgi bezmantinieku mantas sastāvā esošie objekti, tai skaitā kultūrvēsturiskie objekti, mākslas priekšmeti, dabas objekti, var tikt saglabāti valsts īpašumā.
+Valstij nozīmīgu bezmantinieku mantas sastāvā esošo objektu, tai skaitā kultūrvēsturisko objektu, mākslas priekšmetu, dabas objektu, saglabāšanas nepieciešamību valsts īpašumā un izvērtēšanas kārtību nosaka Ministru kabinets.
