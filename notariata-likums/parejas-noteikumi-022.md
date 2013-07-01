@@ -1,0 +1,1 @@
+22. Grozījumi šā likuma 45.panta ceturtajā daļā, 45.¹ pantā, 87.⁴ pantā un 230.panta 10. un 11.punktā saistībā ar nākotnes pilnvarojumu stājas spēkā vienlaikus ar Civillikuma Ceturtās daļas 18.nodaļas pirmās apakšnodaļas III¹ sadaļu "Nākotnes pilnvarojums".

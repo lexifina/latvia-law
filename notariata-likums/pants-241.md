@@ -1,1 +1,1 @@
-241. Zvērināti notāri praksi uzsāk tikai pēc viņu iekļaušanas zvērinātu notāru sarakstā. Tieslietu ministrs par to paziņo attiecīgajai Valsts ieņēmumu dienesta teritoriālajai iestādei. Par savas prakses vietas adresi un tās maiņu zvērinātam notāram jāziņo attiecīgajai Valsts ieņēmumu dienesta teritoriālajai iestādei.
+241. Zvērināti notāri praksi uzsāk tikai pēc viņu iekļaušanas zvērinātu notāru sarakstā. Tieslietu ministrs par to paziņo Valsts ieņēmumu dienestam. Par savas prakses vietas adresi un tās maiņu zvērinātam notāram jāziņo Valsts ieņēmumu dienestam.

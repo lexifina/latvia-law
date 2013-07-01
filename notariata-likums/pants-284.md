@@ -3,5 +3,6 @@
 2) mantojuma atklāšanās dienu;
 3) mantošanas pamatu;
 4) mantinieka vārdu, uzvārdu, personas kodu (ja tā nav, - dzimšanas gadu, dienu un mēnesi, kā arī dzimšanas vietu);
-5) mantojamās mantas sastāvu.
+5) mantojamās mantas sastāvu;
+6) piezīmi par to, ka termiņā nepieteiktās kreditoru pretenzijas ir dzēstas atbilstoši Civillikuma 705.pantam.
 Zvērināts notārs uz pēdējās gribas rīkojuma akta taisa apliecinājuma uzrakstu par tā nolasīšanu un stāšanos likumīgā spēkā kopumā vai daļā.

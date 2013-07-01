@@ -1,0 +1,7 @@
+87.⁴ Apliecinot nākotnes pilnvarojuma līgumu, zvērināts notārs informē akta dalībniekus par šāda pilnvarojuma nozīmi, spēkā stāšanos un pilnvarnieka darbības uzsākšanas kārtību, kā arī reģistrē aktu šā likuma 45.¹ pantā paredzētajā nākotnes pilnvarojumu reģistrā.
+Nākotnes pilnvarojumu reģistrā ieraksta arī ziņas par pilnvarnieka tiesībām pārstāvēt pilnvarotāju.
+Ziņas par pilnvarnieka tiesībām pārstāvēt pilnvarotāju reģistrā ieraksta, pamatojoties uz ārstniecības iestādes vadītāja Ārstniecības likumā noteiktajā kārtībā izsniegtu atzinumu vai tam pielīdzinātu dokumentu, kurš izsniegts ārvalstīs un kura īstums apliecināts Dokumentu legalizācijas likumā noteiktajā kārtībā, vai tiesas nolēmumu.
+Ziņas var ierakstīt jebkurš zvērināts notārs, pirms ieraksta veikšanas pārliecinoties, vai nākotnes pilnvarojums ir spēkā.
+Pēc tam, kad pilnvarnieka tiesības pārstāvēt pilnvarotāju ir reģistrētas, zvērināts notārs taisa attiecīgu atzīmi uz viņam uzrādītā notariālo aktu grāmatas izraksta (pilnvaras). Šādu atzīmi izdara arī uz notariālā akta oriģināla. Ja notariālo aktu apliecinājis cits zvērināts notārs, notāram, kurš izdara atzīmi reģistrā, ir pienākums tajā pašā dienā viņu elektroniski informēt par nepieciešamību šādu atzīmi izdarīt.
+Ziņas par pilnvarnieka tiesību apturēšanu reģistrā ieraksta saskaņā ar tiesas nolēmumu vai pilnvarotāja notariāli apliecinātu gribas izteikumu.
+Nākotnes pilnvarojuma atsaukšanas gadījumā zvērināts notārs rīkojas saskaņā ar šā likuma XV nodaļā noteikto.
