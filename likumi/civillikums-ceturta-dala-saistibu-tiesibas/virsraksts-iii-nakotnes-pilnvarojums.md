@@ -1,0 +1,1 @@
+III¹ Nākotnes pilnvarojums
