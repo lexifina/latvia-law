@@ -1,5 +1,6 @@
-34. pants. Aizsargājamo teritoriju zemes atrašanās fizisko un juridisko personu īpašumā
+34. pants. Personas tiesības iegūt īpašumā zemi, kas atrodas aizsargājamā teritorijā vai tās funkcionālajā zonā
 (1) Aizsargājamās teritorijās zemes īpašuma tiesības bijušajiem zemes īpašniekiem vai viņu mantiniekiem var atjaunot un zemi fizisko un juridisko personu īpašumā var nodot tikai tad, ja šīs personas apņemas ievērot aizsargājamās teritorijas aizsardzības un izmantošanas noteikumus un dabas aizsardzības plānu.
 (2) Šā panta pirmajā daļā minētās prasības norādāmas lēmumā par zemes īpašuma tiesību atjaunošanu vai zemes piešķiršanu īpašumā par samaksu.
 (3) Normatīvajos aktos noteiktie īpašuma tiesību aprobežojumi aizsargājamās teritorijās atzīmējami zemes robežu plānos un ierakstāmi zemesgrāmatā bez īpašnieka piekrišanas, pamatojoties uz Dabas aizsardzības pārvaldes nostiprinājuma lūgumu. Īpašuma tiesību aprobežojumi pašvaldību izveidotās aizsargājamās teritorijās ierakstāmi zemesgrāmatā, pamatojoties uz attiecīgās pašvaldības nostiprinājuma lūgumu.
-(4) (Izslēgta ar 15.09.2005. likumu.)
+(4) (Izslēgta ar 15.09.2005. likumu)
+(5) Ja zemes kadastrālās uzmērīšanas rezultātā bijušajam zemes īpašniekam vai viņa mantiniekam faktiski nododamā zemes platība ir lielāka par atjaunojamo zemes platību un atšķirība ir lielāka, nekā pieļauj zemes kadastrālo uzmērīšanu regulējoši normatīvie akti, bijušajam zemes īpašniekam vai viņa mantiniekam ir tiesības iegūt īpašumā par samaksu tādu uzmērītās zemes platības starpību, kura piekrīt valstij vai pašvaldībai, bet atrodas šā likuma 33.panta otrās daļas 2. vai 3.punktā minētajā aizsargājamā teritorijā vai tās funkcionālajā zonā.
