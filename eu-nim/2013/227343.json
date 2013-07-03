@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sabiedrisko pakalpojumu regulēšanas komisijas padomes 2013. gada 26. jūnija lēmums Nr.1/4 „Tīkla kodekss”",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "126 (4932)",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-02",
+  "entry_into_force": "2013-07-03",
+  "notification_date": "2015-06-11",
+  "commission_reference": "MNE(2015)54324",
+  "nim_celex": "72012L0027LVA_227343",
+  "nim_id": "227343",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bfb46576-73f0-4af8-9028-f76ce137c169",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
