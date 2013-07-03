@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sabiedrisko pakalpojumu regulēšanas komisijas 2013. gada 26. jūnija lēmums Nr. 1/4 \"Tīkla kodekss elektroenerģijas nozarē\"",
+  "type_of_act": "SPRK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "126",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-02",
+  "entry_into_force": "2013-07-03",
+  "notification_date": "2025-10-13",
+  "commission_reference": "MNE(2025)05659",
+  "nim_celex": "72023L2413LVA_202505659",
+  "nim_id": "202505659",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8a6122a8-c30c-405e-85d3-433bb7a8fdd2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
