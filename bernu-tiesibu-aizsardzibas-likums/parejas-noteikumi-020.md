@@ -1,0 +1,1 @@
+20. Ministru kabinets līdz 2013.gada 1.septembrim izdod šā likuma 67.² panta septītajā daļā paredzētos noteikumus. Līdz minēto Ministru kabineta noteikumu spēkā stāšanās dienai piemērojami Ministru kabineta 2012.gada 22.maija noteikumi Nr.348 "Nepilngadīgo personu atbalsta informācijas sistēmas noteikumi", ciktāl tie nav pretrunā ar šo likumu.

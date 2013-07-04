@@ -1,0 +1,1 @@
+24. Bērns, kura vecākiem ar bāriņtiesas lēmumu līdz 2012.gada 31.decembrim ir atņemtas aprūpes tiesības, no 2013.gada 1.janvāra līdz laikam, kad bāriņtiesa lems par aizgādības tiesību atjaunošanu vai prasības celšanu tiesā par aizgādības tiesību atņemšanu, ir bez vecāku gādības palicis bērns.

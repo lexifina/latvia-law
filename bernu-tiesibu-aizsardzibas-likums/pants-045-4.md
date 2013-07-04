@@ -2,7 +2,7 @@
 (1) Vecāki var nodot bērnu citas personas aprūpē ārvalstī uz laiku, kas ilgāks par trim mēnešiem, ja tam piekrīt vecāku dzīvesvietas bāriņtiesa un ja šī bāriņtiesa atzinusi, ka nodošana atbilst bērna interesēm un attiecīgā persona spēs bērnu pienācīgi aprūpēt.
 (2) Ārpusģimenes aprūpē esošu bērnu var nodot uz laiku citas personas aprūpē ārvalstī, ja tam piekrīt bāriņtiesa, kas pieņēmusi lēmumu par bērna ārpusģimenes aprūpi, un ja šī bāriņtiesa atzinusi, ka nodošana atbilst bērna interesēm un attiecīgā persona spēs bērnu pienācīgi aprūpēt.
 (3) Pirms bāriņtiesa lemj par bērna nodošanu citas personas aprūpē ārvalstī, persona, kura vēlas uzņemt bērnu, iesniedz bāriņtiesai attiecīgās valsts kompetentās bērnu tiesību aizsardzības iestādes:
-1) atzinumu, kurā sniedz personas piemērotības izvērtējumu atbilstoši šā likuma 45.³ panta otrās daļas prasībām;
+1) atzinumu, kurā sniedz personas piemērotības izvērtējumu atbilstoši šā likuma 45.³ panta otrās un 2.¹ daļas prasībām;
 2) apliecinājumu, ka tā nodrošinās aprūpē nodotā bērna dzīves apstākļu regulāru pārbaudi un sniegs bāriņtiesai pārskatu par katrā šādā pārbaudē konstatēto.
 (4) Šā panta trešajā daļā minētie dokumenti iesniedzami bāriņtiesai, pievienojot to notariāli apliecinātu tulkojumu latviešu valodā. Ārvalstīs izsniegtajiem dokumentiem jābūt legalizētiem vai apliecinātiem saskaņā ar 1961.gada 5.oktobra Hāgas konvenciju par ārvalstu publisko dokumentu legalizācijas prasības atcelšanu, ja Latvijas Republikai saistošos starptautiskajos līgumos nav paredzēta cita kārtība.
 (5) Aizbildnis un audžuģimene vienojas ar personu par kārtību, kādā personai sedz izdevumus, kas saistīti ar bērna uzturu.

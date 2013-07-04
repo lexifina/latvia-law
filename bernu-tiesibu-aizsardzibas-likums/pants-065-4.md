@@ -1,0 +1,2 @@
+65.⁴ pants. Bērnu tiesību aizsardzības komisija
+Bērnu tiesību aizsardzības komisija (turpmāk - Komisija) ir koleģiāla konsultatīva institūcija, kuras mērķis ir sekmēt, lai Latvijā tiek ieviesta Apvienoto Nāciju Organizācijas 1989.gada 20.novembra Konvencija par bērna tiesībām un izpildītas Apvienoto Nāciju Organizācijas Bērna tiesību komitejas rekomendācijas Latvijas valdībai, kas saistītas ar šo konvenciju. Komisiju izveido, tās sastāvu nosaka un darbības nolikumu apstiprina labklājības ministrs.

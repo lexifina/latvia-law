@@ -1,0 +1,1 @@
+21. Ministru kabinets līdz 2013.gada 31.decembrim izdod noteikumus par kārtību, kādā policija noskaidro, vai bērnam ir īpašas vajadzības, un pieaicina kompetentu speciālistu, kā arī par kārtību, kādā policija nodrošina apstākļus bērna īpašo vajadzību apmierināšanai.
