@@ -5,6 +5,6 @@
 (5) Ja šā panta ceturtajā daļā minētā persona, kura savas pirmpirkuma tiesības uz apbūvētu zemesgabalu nevar izmantot vai neizmanto, tai ir zemes nomas tiesības uz to pašu zemesgabalu, uz kuru tai ir pirmpirkuma tiesības, un minētais zemesgabals netiek atsavināts citām personām. Ministru kabinets nosaka kārtību, kādā aprēķināma apbūvēta zemesgabala nomas maksa. Nosakot zemesgabala nomas maksu, par pamatu ņem zemesgabala kadastrālo vērtību.
 (6) (Izslēgta ar 21.06.2007. likumu.)
 (7) Publiskai personai piederošu zemesgabalu, kas iznomāts šā likuma 4.panta ceturtās daļas 8.punktā minētajai personai, nevar atsavināt citām personām nomas līguma darbības laikā.
-(8) Zemes starpgabalu, kuram nav iespējams nodrošināt pieslēgumu koplietošanas ielai (ceļam), šajā likumā noteiktajā kārtībā drīkst atsavināt:
+(8) Zemes starpgabalu, kuram nav iespējams nodrošināt pieslēgumu koplietošanas ielai (ceļam), vai zemes starpgabalu, kurš ir nepieciešams, lai nodrošinātu pieslēgumu koplietošanas ielai (ceļam), šajā likumā noteiktajā kārtībā drīkst atsavināt:
 1) tam zemes īpašniekam vai visiem kopīpašniekiem, kuru zemei piegul attiecīgais zemes starpgabals;
 2) zemesgrāmatā ierakstītas ēkas (būves) īpašniekam vai visiem kopīpašniekiem, ja viņi vēlas nopirkt arī zemesgabalu, uz kura atrodas viņiem piederošā ēka (būve), un šai zemei piegul attiecīgais zemes starpgabals.
