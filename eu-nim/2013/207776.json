@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sabiedrisko autotransporta līdzekļu iepirkuma noteikumi",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "131",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-09",
+  "entry_into_force": "2013-07-10",
+  "notification_date": "2013-07-17",
+  "commission_reference": "MNE(2013)56773",
+  "nim_celex": "72009L0033LVA_207776",
+  "nim_id": "207776",
+  "transposes_celex": [
+    "32009L0033"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/aca93b56-2afa-47d6-b9f4-2618593a122e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
