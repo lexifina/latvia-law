@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2013.gada 25.jūnija noteikumi Nr.348 \"Ēkas energoefektivitātes aprēķina metode\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "132 (4938)",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-10",
+  "entry_into_force": "2013-07-11",
+  "notification_date": "2014-06-18",
+  "commission_reference": "MNE(2014)53712",
+  "nim_celex": "72012L0027LVA_217627",
+  "nim_id": "217627",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d3647537-d2b7-4782-a860-2595f05d08b7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
