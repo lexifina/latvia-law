@@ -9,7 +9,8 @@
 7) Starptautiskās Darba organizācijas 1976.gada Konvencija par minimālajām normām tirdzniecības kuģiem un tās 1996.gada protokols;
 8) 1978.gada Starptautiskā konvencija par jūrnieku sagatavošanu un diplomēšanu, kā arī sardzes pildīšanu ar grozījumiem (turpmāk - STCW konvencija);
 9) 2005.gada Pasaules veselības organizācijas Starptautiskie veselības aizsardzības noteikumi;
-10) 2001.gada Starptautiskā konvencija par kuģu kaitīgo pretapaugšanas sistēmu kontroli.
+10) 2001.gada Starptautiskā konvencija par kuģu kaitīgo pretapaugšanas sistēmu kontroli;
+11) 2006.gada Konvencija par darbu jūrniecībā (turpmāk - MLC konvencija).
 (2) Nosakot kuģu drošības prasību piemērošanu un kuģu drošības uzraudzības kārtību, tiek ņemtas vērā starptautisko normatīvo aktu prasības attiecībā uz:
 1) pasažieru kuģu drošību un standartiem;
 2) obligāto pārbaužu sistēmu, lai nodrošinātu kuģu ar horizontālu un vertikālu kravas apstrādi (turpmāk - ro-ro kuģi) un ātrgaitas pasažieru kuģu drošu darbību;
@@ -26,7 +27,7 @@
 13) vides piesārņojuma novēršanu;
 14) kuģa stabilitāti, arī avārijas stabilitāti;
 15) kuģa apkalpes praktisko apmācību rīcībai avārijas situācijā;
-16) ISM kodeksa un ISPS kodeksa piemērošanu;
+16) ISM kodeksa un 2004.gada Starptautiskā kuģu un ostas iekārtu aizsardzības kodeksa (turpmāk - ISPS kodekss) piemērošanu;
 17) kuģa tilpību;
 18) kuģa kravas zīmi;
 19) kravas iekraušanu, izvietošanu un nostiprināšanu uz kuģa, kā arī balasta operācijām;

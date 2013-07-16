@@ -4,4 +4,6 @@ Likumā iekļautas tiesību normas, kas izriet no:
 3) Eiropas Parlamenta un Padomes 2005.gada 7.septembra direktīvas 2005/35/EK par kuģu radīto piesārņojumu un par sankciju ieviešanu par pārkāpumiem;
 4) Eiropas Parlamenta un Padomes 2009.gada 23.aprīļa direktīvas 2009/15/EK par kopīgiem noteikumiem un standartiem attiecībā uz organizācijām, kas pilnvarotas veikt kuģu inspekcijas un apskates, un attiecīgajām darbībām, kuras veic valsts administrācijas jūras lietu jomā;
 5) Eiropas Parlamenta un Padomes 2009.gada 23.aprīļa direktīvas 2009/18/EK, ar ko nosaka pamatprincipus negadījumu izmeklēšanai jūras transporta nozarē un groza Padomes direktīvu 1999/35/EK un Eiropas Parlamenta un Padomes direktīvu 2002/59/EK;
-6) Eiropas Parlamenta un Padomes 2009.gada 23.aprīļa direktīvas 2009/21/EK par karoga valstij noteikto prasību ievērošanu.
+6) Eiropas Parlamenta un Padomes 2009.gada 23.aprīļa direktīvas 2009/21/EK par karoga valstij noteikto prasību ievērošanu;
+7) Eiropas Parlamenta un Padomes 2008.gada 19.novembra direktīvas 2008/106/EK par jūrnieku minimālo sagatavotības līmeni;
+8) Eiropas Parlamenta un Padomes 2012.gada 21.novembra direktīvas 2012/35/ES, ar ko groza direktīvu 2008/106/EK par jūrnieku minimālo sagatavotības līmeni.
