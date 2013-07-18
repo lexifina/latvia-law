@@ -17,7 +17,8 @@
 7) atjaunošana darbā ar tiesas spriedumu;
 8) atteikšanās no darba meklētāja statusa, iesniedzot attiecīgu paziņojumu Nodarbinātības valsts aģentūrai;
 9) darba meklētāja nāve;
-10) uzņemšana pamatizglītības programmā klātienē.
+10) uzņemšana pamatizglītības programmā klātienē;
+11) personas neatbilstība šā likuma 2.panta otrajā daļā minētajiem kritērijiem.
 (3¹) Persona, kura ir ES zilās kartes turētāja, darba meklētāja statusu zaudē arī gadījumā, ja:
 1) ir pagājuši trīs nepārtraukti mēneši, kopš tā zaudējusi darba ņēmēja statusu;
 2) darba ņēmēja statusu tā zaudē vairāk nekā vienu reizi.

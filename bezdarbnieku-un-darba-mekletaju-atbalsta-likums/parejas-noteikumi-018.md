@@ -1,0 +1,1 @@
+18. Šā likuma 3.panta pirmās daļas 3.¹ punkts, 4.panta divpadsmitā daļa, grozījumi 14.panta otrajā daļā, 16.panta pirmās daļas 1.punktā un ceturtās daļas 4.punktā attiecībā uz bezdarbnieka un darba meklētāja pienākumu piedalīties darba meklēšanas atbalsta pasākumos stājas spēkā 2013.gada 1.novembrī.

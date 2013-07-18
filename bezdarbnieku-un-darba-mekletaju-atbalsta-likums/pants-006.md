@@ -3,7 +3,7 @@
 (2) Nodarbinātības valsts aģentūra:
 1) atbilstoši kompetencei sagatavo priekšlikumus valsts politikas izstrādei un īstenošanai nodarbinātības jomā;
 2) veic darba tirgus īstermiņa prognozēšanu, tai skaitā darba devēju aptauju;
-3) reģistrē un uzskaita bezdarbniekus un darba meklētājus;
+3) reģistrē un uzskaita bezdarbniekus un darba meklētājus, kā arī veic bezdarbnieku profilēšanu;
 4) palīdz bezdarbniekiem un darba meklētājiem, kā arī ekonomiski neaktīvajiem iedzīvotājiem iesaistīties darba tirgū;
 5) organizē Nodarbinātības valsts aģentūras un darba devēju sadarbību un savstarpēju informācijas apmaiņu, kā arī uzskaita darba devēju pieteiktās brīvās darba vietas;
 6) bez maksas informē par darba devēju pieteiktajām brīvajām darba vietām, kā arī par bezdarbnieku un darba meklētāju tiesībām un pienākumiem;

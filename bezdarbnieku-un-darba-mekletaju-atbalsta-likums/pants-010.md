@@ -8,6 +8,6 @@
 6) nav sasniegusi vecumu, kas dod tiesības saņemt valsts vecuma pensiju, vai kurai valsts vecuma pensija nav piešķirta (tai skaitā priekšlaicīgi);
 7) nav uzņemta pamatizglītības vai vidējās izglītības programmā klātienē;
 8) neveic komercdarbību vai tās komercdarbība apturēta saskaņā ar normatīvajiem aktiem;
-9) nav pilnā valsts apgādībā.
-(2) Par darbspējīgu šā likuma izpratnē uzskatāma arī persona, kurai ir noteikta invaliditāte, izņemot gadījumus, kad veselības un darbspēju ekspertīzes ārstu komisija ir noteikusi 100 procentu darbspēju zaudējumu.
+9) neatrodas ieslodzījuma vietā vai nesaņem pilnībā no valsts vai pašvaldības budžeta finansētus ilgstošas sociālās aprūpes vai sociālās rehabilitācijas pakalpojumus.
+(2) Par darbspējīgu šā likuma izpratnē uzskatāma arī persona, kurai ir noteikta invaliditāte, izņemot gadījumus, kad tai ir noteikts 100 procentu darbspēju zaudējums.
 (3) (Izslēgta ar 24.11.2011. likumu)
