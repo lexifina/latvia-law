@@ -1,1 +1,2 @@
-16. pants. Visi starptautiskie līgumi un to tulkojumi latviešu valodā tiek publicēti laikrakstā "Latvijas Vēstnesis".
+16.pants. Visi starptautiskie līgumi un to tulkojumi un atveidojumi latviešu valodā tiek publicēti oficiālajā izdevumā "Latvijas Vēstnesis".
+Ārlietu ministrija veic starptautisko līgumu uzskaiti Oficiālo publikāciju informācijas sistēmā un glabā starptautisko līgumu oriģināleksemplārus vai to apliecinātas kopijas, ja saskaņā ar starptautiskajā līgumā noteikto šā starptautiskā līguma oriģināls tiek glabāts tikai starptautiskā līguma depozitārijā.

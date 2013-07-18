@@ -1,0 +1,1 @@
+1. Ārlietu ministrija uzsāk šā likuma 15.panta pirmajā daļā minēto starptautisko līgumu uzskaiti Oficiālo publikāciju informācijas sistēmā no 2014.gada 1.jūlija. No šā brīža tīmekļa vietnē www.likumi.lv ir pieejami sistematizēti starptautiskie līgumi, kas noslēgti pēc 2014.gada 1.jūlija.

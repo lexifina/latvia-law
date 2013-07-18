@@ -1,1 +1,3 @@
-15. pants. Starptautisko līgumu uzskaiti veic Ārlietu ministrija, kas informē par līgumu spēkā stāšanos, to darbības pagarināšanu, apturēšanu un izbeigšanu.
+15.pants. Ārlietu ministrija veic starptautisko līgumu uzskaiti Oficiālo publikāciju informācijas sistēmā. Sistematizēti starptautiskie līgumi ir brīvi un bez maksas pieejami tīmekļa vietnē www.likumi.lv.
+Ministru kabinets nosaka Oficiālo publikāciju informācijas sistēmā iekļaujamās ziņas un kārtību, kādā tās tiek iesniegtas minētās informācijas sistēmas turētājam.
+Ārlietu ministrija informē par starptautisko līgumu spēkā stāšanos, to darbības pagarināšanu, apturēšanu un izbeigšanu un Latvijas Republikas izteiktajām atrunām un deklarācijām attiecībā uz starptautiskajiem līgumiem, šo informāciju publicējot oficiālajā izdevumā "Latvijas Vēstnesis".

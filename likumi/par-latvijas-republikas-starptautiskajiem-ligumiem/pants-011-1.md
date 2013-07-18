@@ -1,0 +1,1 @@
+11.¹ pants. Atrunu, deklarāciju, atrunas un deklarācijas grozījumus, kā arī atrunas un deklarācijas atsaukšanu apstiprina tādā pašā veidā un kārtībā, kādā apstiprināts starptautiskais līgums, attiecībā uz kuru atruna vai deklarācija izteikta.
