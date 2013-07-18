@@ -1,1 +1,1 @@
-41.pants. Iestādes un maksājuma pakalpojuma izmantotāja attiecības regulē šis likums, citi likumi, kā arī saskaņā ar likumiem noslēgtie līgumi.
+41.pants. Maksājumu pakalpojumu sniedzēja un maksājuma pakalpojuma izmantotāja attiecības regulē šis likums, citi maksājumu pakalpojumu jomas darbību regulējošie normatīvie akti, Eiropas Savienības tieši piemērojamie tiesību akti maksājumu pakalpojumu un elektroniskās naudas jomā, kā arī civiltiesiskie līgumi, kurus maksājumu pakalpojumu sniedzējs noslēdzis ar maksājuma pakalpojuma izmantotāju.

@@ -1,9 +1,9 @@
-56.pants. (1) Ja Komisija konstatē, ka iestāde neievēro šā likuma II, III, IV, V un VI nodaļas prasības vai Komisijas izdoto tiesību aktu, Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likumu, vai Eiropas Savienības institūciju izdotos tieši piemērojamos tiesību aktus, tā pieprasa, lai iestāde nekavējoties veic šādas situācijas novēršanai nepieciešamos pasākumus.
-(2) Papildus šā panta pirmajā daļā noteiktajam Komisija ir tiesīga īstenot vienu vai vairākus šādus pasākumus:
-1) izteikt iestādei brīdinājumu;
-2) noteikt ierobežojumus iestādes darbībai;
-3) daļēji vai pilnīgi apturēt maksājumu pakalpojumu sniegšanu;
-3¹) daļēji vai pilnīgi apturēt elektroniskās naudas emisiju;
-4) dot iestādes pārraudzības institūcijām un izpildinstitūcijām, kā arī šo institūciju vadītājiem un locekļiem pamatotus rakstveida rīkojumus, kas nepieciešami, lai ierobežotu vai pārtrauktu iestādes darbību, kura apdraud vai var apdraudēt šīs iestādes stabilitāti, maksātspēju vai reputāciju;
-5) uzlikt naudas sodu līdz 100 000 latiem.
-(3) Ja Komisija, pamatojoties uz šā panta pirmās un otrās daļas noteikumiem, izdevusi administratīvo aktu, šā akta pārsūdzēšana neaptur tā darbību.
+56.pants. (1) Ja Komisija konstatē, ka maksājumu sistēma, maksājumu pakalpojumu sniedzējs vai elektroniskās naudas iestāde neievēro prasības, kas noteiktas šajā likumā, Komisijas izdotajos tiesību aktos vai Eiropas Savienības tieši piemērojamos tiesību aktos maksājumu pakalpojumu un elektroniskās naudas jomā, tā, pieņemot lēmumu, ir tiesīga īstenot vienu vai vairākas šādas darbības:
+1) pieprasīt, lai institūcija vai persona, kas ir atbildīga par maksājumu sistēmas darbību, maksājumu pakalpojumu sniedzējs vai elektroniskās naudas iestāde nekavējoties veic situācijas novēršanai nepieciešamos pasākumus un iesniedz Komisijai tās noteiktajā termiņā rīcības plānu;
+2) izteikt institūcijai vai personai, kas ir atbildīga par maksājumu sistēmas darbību, maksājumu pakalpojumu sniedzējam vai elektroniskās naudas iestādei brīdinājumu;
+3) noteikt ierobežojumus maksājumu pakalpojumu sniedzēja vai elektroniskās naudas iestādes darbībai, tai skaitā daļēji vai pilnīgi apturēt maksājumu pakalpojumu sniegšanu;
+4) dot institūcijai vai personai, kas ir atbildīga par maksājumu sistēmas darbību, maksājumu pakalpojumu sniedzēja vai elektroniskās naudas iestādes pārraudzības institūcijām un izpildinstitūcijām, kā arī šo institūciju vadītājiem un locekļiem pamatotus rakstveida rīkojumus, kas nepieciešami, lai ierobežotu vai pārtrauktu maksājumu sistēmas, maksājumu pakalpojumu sniedzēja vai elektroniskās naudas iestādes darbību, kura apdraud vai var apdraudēt to stabilitāti, maksātspēju vai reputāciju;
+5) uzlikt soda naudu līdz 100 000 latu;
+6) daļēji vai pilnīgi apturēt elektroniskās naudas emisiju elektroniskās naudas iestādei.
+(2) Ja Komisija konstatē, ka iestāde neievēro normatīvo aktu prasības noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas jomā, tā ir tiesīga īstenot vienu vai vairākas šā panta pirmajā daļā norādītās darbības.
+(3) Ja Komisija, pamatojoties uz šā panta pirmās un otrās daļas noteikumiem, ir izdevusi administratīvo aktu, šā akta pārsūdzēšana neaptur tā izpildi.
