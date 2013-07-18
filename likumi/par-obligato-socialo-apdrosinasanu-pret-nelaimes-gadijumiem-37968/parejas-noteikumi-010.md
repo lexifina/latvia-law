@@ -1,1 +1,1 @@
-10. Atlīdzības par darbspēju zaudējumu un atlīdzības par apgādnieka zaudējumu apmēru no 2009.gada 1.janvāra līdz 2013.gada 31.decembrim nepārskata.
+10. Atlīdzības par darbspēju zaudējumu un atlīdzības par apgādnieka zaudējumu apmēru no 2009.gada 1.janvāra līdz 2012.gada 31.decembrim nepārskata. 2013.gadā atlīdzības par darbspēju zaudējumu un atlīdzības par apgādnieka zaudējumu, kuru apmērs nepārsniedz 200 latus, pārskata 1.septembrī, piemērojot indeksu 1,04.
