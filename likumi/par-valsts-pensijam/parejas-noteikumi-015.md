@@ -1,1 +1,1 @@
-15. Valsts pensijas no 2009.gada 1.janvāra līdz 2013.gada 31.decembrim pārskatītas netiek.
+15. Valsts pensijas no 2009.gada 1.janvāra līdz 2012.gada 31.decembrim nepārskata. 2013.gadā valsts pensijas, kuru apmērs nepārsniedz 200 latus, pārskata 1.septembrī, piemērojot indeksu 1,04. Politiski represētajām personām valsts pensijas tiek pārskatītas neatkarīgi no to apmēra.

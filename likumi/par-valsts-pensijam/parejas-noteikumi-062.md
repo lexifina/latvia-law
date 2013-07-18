@@ -1,0 +1,1 @@
+62. Grozījumi šā likuma 16.panta ceturtajā daļā, 24.panta piektajā daļā, pārejas noteikumu 16.punkta 1.apakšpunktā un pārejas noteikumu 16.¹ un 16.² punkts, kas nosaka kārtību, kādā invaliditātes pensija pārrēķināma un piešķirama no jauna, stājas spēkā 2013.gada 1.oktobrī.
