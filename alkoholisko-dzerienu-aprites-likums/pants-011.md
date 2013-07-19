@@ -12,5 +12,6 @@
 1) izglītības un ārstniecības iestādēs un uz šo iestāžu ēkām un būvēm;
 2) uz vēstuļu korespondences un pasta paku sūtījumiem;
 3) uz grāmatu, žurnālu, laikrakstu un to pielikumu ārējām lapām (vāka);
-4) uz sabiedriskā transporta līdzekļiem un tajos.
+4) uz sabiedriskā transporta līdzekļiem un tajos;
+5) vides reklāmās.
 (4) Šā panta pirmās daļas 1. un 4.punktā minētie aizliegumi attiecas arī uz citu preču un pakalpojumu reklāmu, ja vien tās mērķis nav negatīvi attēlot alkoholisko dzērienu lietošanu.

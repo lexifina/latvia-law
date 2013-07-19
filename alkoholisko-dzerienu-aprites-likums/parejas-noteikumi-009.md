@@ -1,0 +1,1 @@
+9. Grozījums šā likuma 6.panta pirmās daļas 1.punktā (par alkoholisko dzērienu mazumtirdzniecības aizliegumu izglītības iestāžu dienesta viesnīcās) un 6.panta pirmās daļas 1.¹ punkts, kā arī 1.² daļa (par alkoholisko dzērienu mazumtirdzniecības aizliegumu valsts un pašvaldību iestāžu telpās un to teritorijā) stājas spēkā 2014.gada 1.septembrī.
