@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2013. gada 9. jūlija noteikumi Nr.383 „Noteikumi par ēku energosertifikāciju”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "138 (4944)",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-18",
+  "entry_into_force": "2013-07-19",
+  "notification_date": "2015-06-11",
+  "commission_reference": "MNE(2015)54344",
+  "nim_celex": "72012L0027LVA_227364",
+  "nim_id": "227364",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/747e328e-f484-4ad6-aa70-b88c7eb3df63",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
