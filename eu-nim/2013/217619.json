@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2013.gada 9.jūlija noteikumi Nr. 382 \"Noteikumi par neatkarīgiem ekspertiem ēku energoefektivitātes jomā\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "138 (4944)",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-18",
+  "entry_into_force": "2013-07-19",
+  "notification_date": "2014-06-18",
+  "commission_reference": "MNE(2014)53704",
+  "nim_celex": "72012L0027LVA_217619",
+  "nim_id": "217619",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/41e16cd8-4ffa-4710-8f74-b50c15892b35",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
