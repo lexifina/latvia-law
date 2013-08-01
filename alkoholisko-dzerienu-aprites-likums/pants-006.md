@@ -6,7 +6,7 @@
 2¹) kioskos, telpās, kurās nav tirdzniecības zāles, kā arī ēkās, kuras nav nodotas ekspluatācijā;
 3) telpās, kurās tirdzniecības zāle ir mazāka par 20 kvadrātmetriem;
 4) tirdzniecības vietā, kas atrodas daudzdzīvokļu mājā, ja iekļūšanai šajā tirdzniecības vietā tiek izmantotas koplietošanas kāpnes vai telpas;
-5) no pulksten 22.00 līdz 8.00, izņemot tādas mazumtirdzniecības vietas, kurās alkoholiskie dzērieni tiek realizēti izlejamā veidā un tiek nodrošināta to patērēšana uz vietas, kā arī beznodokļu tirdzniecības veikalus;
+5) no pulksten 22.00 līdz 8.00, izņemot tādas mazumtirdzniecības vietas, kurās alkoholiskie dzērieni tiek realizēti tikai izlejamā veidā un tiek nodrošināta to patērēšana uz vietas, kā arī beznodokļu tirdzniecības veikalus;
 6) tirdzniecības automātos;
 7) no transportlīdzekļiem, izņemot specializētos autoveikalus;
 8) izmantojot distances līgumu.
