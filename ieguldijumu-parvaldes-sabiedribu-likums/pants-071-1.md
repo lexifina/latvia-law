@@ -1,5 +1,5 @@
 71.¹ pants. Darbības joma
-(1) Pakārtotais fonds līdz 15 procentiem no saviem aktīviem drīkst ieguldīt:
+(1) Ieguldījumu fondi ir tiesīgi veikt galvenās un pakārtotās struktūras darījumus. Pakārtotais fonds līdz 15 procentiem no saviem aktīviem, kas nav ieguldīti galvenajā fondā, drīkst ieguldīt:
 1) aktīvos atbilstoši šā likuma 61.panta ceturtajai daļai;
 2) darījumos ar atvasinātajiem finanšu instrumentiem, ja tie tiek veikti, lai ierobežotu risku, atbilstoši šā likuma 65.panta pirmās daļas un 33.panta sešpadsmitās daļas prasībām, kā arī ievērojot 66.panta septītajā daļā noteiktos ieguldījumu ierobežojumus.
 (2) Lai nodrošinātu šā likuma 66.panta septītās daļas prasību ievērošanu, pakārtotais fonds savam aprēķinātajam kopējam riskam, kas izriet no darījumiem ar atvasinātajiem finanšu instrumentiem, pieskaita galvenā fonda kopējo risku. Galvenā fonda kopējo risku nosaka proporcionāli pakārtotā fonda ieguldījumam galvenajā fondā, aprēķinam izmantojot galvenā fonda faktisko kopējo risku vai galvenā fonda pārvaldes nolikumā vai prospektā noteikto maksimāli iespējamo kopējo risku. Pakārtotais fonds turpmāk izmanto izraudzīto kopējā riska aprēķināšanas veidu.

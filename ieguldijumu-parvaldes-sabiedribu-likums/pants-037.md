@@ -7,5 +7,5 @@
 (3) Ja likvidācijas ieņēmumu nepietiek, lai apmierinātu šā panta otrajā daļā minētos prasījumus, neapmierinātie prasījumi apmierināmi no ieguldījumu sabiedrības mantas, izņemot prasījumus, kuri radušies pēc šīs sabiedrības pārvaldes tiesību izbeigšanās.
 (4) Ja likvidācijas ieņēmumu nepietiek, lai apmierinātu šā panta otrajā daļā minētos prasījumus, kuri radušies laika posmā, kad pārvaldes tiesības realizēja turētājbanka, tos apmierina turētājbanka.
 (5) Atlikušie likvidācijas ieņēmumi sadalāmi fonda ieguldītājiem proporcionāli viņu ieguldījumu apliecību skaitam.
-(6) Turētājbanka vai likvidators iesniedz publicēšanai laikrakstā "Latvijas Vēstnesis" paziņojumu par likvidācijas ieņēmumu sadali fonda ieguldītājiem, norādot par vienu apliecību izmaksājamo summu, kā arī maksājumu veikšanas vietu un laiku.
+(6) Turētājbanka vai likvidators iesniedz publicēšanai oficiālajā izdevumā "Latvijas Vēstnesis" paziņojumu par likvidācijas ieņēmumu sadali fonda ieguldītājiem, norādot par vienu apliecību izmaksājamo summu, kā arī maksājumu veikšanas vietu un laiku.
 (7) Visi maksājumi kreditoriem un fonda ieguldītājiem jāveic naudā.

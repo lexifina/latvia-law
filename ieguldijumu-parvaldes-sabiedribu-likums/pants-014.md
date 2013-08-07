@@ -3,7 +3,8 @@
 1) sabiedrību un tās klientiem;
 2) sabiedrības pārvaldē esošajiem fondiem;
 3) sabiedrības klientiem;
-4) sabiedrības klientiem un sabiedrības pārvaldē esošajiem fondiem.
+4) sabiedrības klientiem un sabiedrības pārvaldē esošajiem fondiem;
+5) alternatīvo ieguldījumu fondu vai tā ieguldītājiem un sabiedrības pārvaldē esošu ieguldījumu fondu vai ieguldījumu fonda ieguldītājiem.
 (2) Lai identificētu interešu konfliktu veidus, kas var rasties, sniedzot pārvaldes pakalpojumus un veicot tādas darbības, kas var kaitēt fonda interesēm, sabiedrība ņem vērā situācijas, kad sabiedrība vai ar sabiedrību saistīta persona, vai persona, kura kontrolē (tieši vai netieši) sabiedrību:
 1) varētu gūt peļņu vai novērst finansiālus zaudējumus uz fonda rēķina;
 2) ir ieinteresēta fondam vai citam klientam sniedzama pakalpojuma vai fonda vārdā veicama darījuma rezultātā, kas neatbilst fonda interesēm;

@@ -1,8 +1,8 @@
-77.¹ pants. Latvijā reģistrēta atvērtā ieguldījumu fonda pārrobežu pārvalde
-(1) Dalībvalstī licencēta sabiedrība, kas šā likuma 77.pantā noteiktajā kārtībā ir uzsākusi pārvaldes pakalpojumu sniegšanu Latvijā, atverot filiāli vai bez filiāles atvēršanas, ir tiesīga, ievērojot šajā pantā minēto kārtību, veikt Latvijā reģistrēto atvērto ieguldījumu fondu pārvaldi.
+77.¹ pants. Latvijā reģistrēta ieguldījumu fonda pārrobežu pārvalde
+(1) Dalībvalstī licencēta sabiedrība, kas šā likuma 77.pantā noteiktajā kārtībā ir uzsākusi pārvaldes pakalpojumu sniegšanu Latvijā, atverot filiāli vai bez filiāles atvēršanas, ir tiesīga, ievērojot šajā pantā minēto kārtību, veikt Latvijā reģistrēto ieguldījumu fondu pārvaldi.
 (2) Veicot šā panta pirmajā daļā minēto fonda pārrobežu pārvaldi, dalībvalstī licencēta sabiedrība ievēro:
 1) sabiedrības izcelsmes valsts normatīvo aktu prasības attiecībā uz sabiedrības darbības organizēšanu, ieskaitot deleģēšanas noteikumus, riska pārvaldības procedūras, sabiedrības darbību regulējošo prasību ievērošanas uzraudzības, kā arī sabiedrības pārskatu un ziņojumu sagatavošanas un sniegšanas noteikumus un sabiedrības izstrādātās iekšējās kontroles sistēmas noteikumus;
-2) šā likuma un Komisijas normatīvo noteikumu prasības attiecībā uz atvērtā ieguldījumu fonda darbību;
+2) šā likuma un Komisijas normatīvo noteikumu prasības attiecībā uz ieguldījumu fonda darbību;
 3) tā fonda pārvaldes nolikuma un prospekta noteikumus, attiecībā uz kuru ir pieprasīta atļauja.
 (3) Šā panta otrās daļas 2.punktā minētās prasības attiecas uz:
 1) fonda izveidi un reģistrāciju;
@@ -24,7 +24,7 @@
 (5) Dalībvalstī licencēta sabiedrība, kas vēlas pārvaldīt Latvijā reģistrētu fondu, iesniedz Komisijai iesniegumu par fonda pārvaldi. Iesniegumam pievieno:
 1) rakstveida vienošanos ar turētājbanku, kura atbilst šā likuma 47.panta ceturtās un piektās daļas prasībām;
 2) informāciju par fonda pārvaldes tiesību deleģēšanas kārtību attiecībā uz fonda ieguldījumu pārvaldīšanu un fonda administratīvo vadību.
-(6) Ja dalībvalstī licencēta sabiedrība jau pārvalda Latvijā reģistrētu atvērto ieguldījumu fondu, atkārtota Komisijas rīcībā esošu dokumentu iesniegšana nav nepieciešama. Sabiedrība šajā daļā minēto informāciju norāda iesniegumā par fonda pārvaldi.
+(6) Ja dalībvalstī licencēta sabiedrība jau pārvalda Latvijā reģistrētu ieguldījumu fondu, atkārtota Komisijas rīcībā esošu dokumentu iesniegšana nav nepieciešama. Sabiedrība šajā daļā minēto informāciju norāda iesniegumā par fonda pārvaldi.
 (7) Izvērtējot šā panta piektajā daļā minētos dokumentus un ievērojot informāciju, kas norādīta šā likuma 77.panta otrās daļas 1.punkta "a" apakšpunktā minētajā aprakstā, Komisija, ja nepieciešams, vēršas attiecīgās sabiedrības izcelsmes valsts uzraudzības institūcijā ar lūgumu sniegt atzinumu par to, vai fonda veids, attiecībā uz kuru ir pieprasīta atļauja, atbilst sabiedrībai piešķirtās atļaujas darbības jomai.
 (8) Komisija var noraidīt dalībvalstī licencētas sabiedrības iesniegumu, ja:
 1) sabiedrība neatbilst tām šā panta prasībām, kuru izpildes uzraudzība ietilpst Komisijas kompetencē;

@@ -3,8 +3,8 @@ Likumā ir lietoti šādi termini:
 1) fonda ieguldītājs - persona, kurai pieder ieguldījumu fonda ieguldījumu apliecība;
 2) fonda manta - lietas, kuru kopība veido ieguldījumu fondu;
 3) ieguldījumu apliecība - pārvedams vērtspapīrs, kas apliecina fonda ieguldītāja līdzdalību ieguldījumu fondā vai apakšfondā un no šīs līdzdalības izrietošās tiesības;
-4) ieguldījumu fonds (turpmāk arī - fonds) - lietu kopība, ko veido pret ieguldījumu apliecībām izdarītie ieguldījumi, kā arī darījumos ar ieguldījumu fonda mantu un uz tajā esošo tiesību pamata iegūtās lietas;
-5) ieguldījuma objekts - pārvedami vērtspapīri, naudas tirgus instrumenti, nekustamais īpašums, noguldījums kredītiestādē un citi finanšu instrumenti, kurus saskaņā ar šā likuma noteikumiem ieguldījumu pārvaldes sabiedrība ir tiesīga iegādāties par fonda mantu;
+4) ieguldījumu fonds (turpmāk arī - fonds) - lietu kopība, ko veido pret ieguldījumu apliecībām izdarītie ieguldījumi, kā arī lietas, kas iegūtas darījumos ar fonda mantu;
+5) ieguldījuma objekts - pārvedami vērtspapīri, naudas tirgus instrumenti, noguldījums kredītiestādē un citi finanšu instrumenti, kurus saskaņā ar šā likuma noteikumiem ieguldījumu pārvaldes sabiedrība ir tiesīga iegādāties par fonda mantu;
 6) sabiedrības amatpersonas - ieguldījumu pārvaldes sabiedrības valdes locekļi, ieguldījumu fondu pārvaldnieki, kā arī citas personas, kuras ir pilnvarotas dot rīkojumus attiecībā uz fonda mantu vai rīkoties ar to šīs sabiedrības vārdā;
 7) sabiedrības ieinteresētās personas - ieguldījumu pārvaldes sabiedrības padomes locekļi, amatpersonas, akcionāri, kuriem pieder 10 un vairāk procentu sabiedrības balsstiesīgo akciju, kā arī visu šajā punktā minēto fizisko personu laulātie, vecāki vai bērni;
 8) riska samazināšanas princips - finansiālo zaudējumu riska samazināšana, sadalot ieguldījumu fonda mantu ieguldījuma objektos un ievērojot darījumu ierobežojumus, kā arī saglabājot iespēju iegūt vislielākos gaidāmos ienākumus;
@@ -27,11 +27,11 @@ a) dalības veidā - tieša līdzdalība, kas aptver 20 un vairāk procentus no 
 b) kontroles veidā,
 c) ar vienu un to pašu personu kontroles veidā;
 22) apakšfonds - nošķirta ieguldījumu fonda mantas daļa, ko veido pret ieguldījumu apliecībām izdarītie ieguldījumi, kā arī darījumos ar šo mantu un uz tajā esošo tiesību pamata iegūtās lietas;
-23) ieguldījumi nekustamajā īpašumā - tieši vai netieši fonda līdzekļu ieguldījumi nekustamajā īpašumā, tā lietošanas tiesībās, darījumos, kas saistīti ar nekustamā īpašuma projektu attīstības finansēšanu, tai skaitā darījumos ar atliktu izpildes termiņu, ja šādi ieguldījumi ne pēc to būtības, ne juridiskās formas nav pretrunā ar šajā likumā un citos likumos noteiktajiem darījumu ierobežojumiem;
+23) (izslēgts ar 09.07.2013. likumu);
 24) Desmit valstu grupa - valstis, kuras ar Starptautisko Valūtas fondu noslēgušas Vispārējo vienošanos par aizņēmumiem;
 25) būtiska līdzdalība - personas vai vairāku personu, kas uz vienošanās pamata rīkojas saskaņoti, tieši vai netieši iegūta līdzdalība, kura aptver 10 un vairāk procentus no komercsabiedrības pamatkapitāla vai balsstiesīgo akciju skaita vai dod iespēju būtiski ietekmēt komercsabiedrības finanšu un darbības politikas noteikšanu;
 26) kritiskās situācijas analīze - analīze, ko ieguldījumu pārvaldes sabiedrība veic, lai noteiktu un izvērtētu dažādu ārkārtēju, bet iespējami nelabvēlīgu notikumu vai tirgus nosacījumu izmaiņu potenciālo ietekmi uz valsts fondēto pensiju shēmas līdzekļu ieguldījumu plāna portfeli;
-27) fonda pārrobežu pārvalde - pārvaldes pakalpojums, ko sabiedrība sniedz tādam atvērtajam ieguldījumu fondam, kura izcelsmes valsts nav fondu pārvaldošās sabiedrības izcelsmes valsts;
+27) fonda pārrobežu pārvalde - pārvaldes pakalpojums, ko sabiedrība sniedz tādam ieguldījumu fondam, kura izcelsmes valsts nav fondu pārvaldošās sabiedrības izcelsmes valsts;
 28) dalībvalsts - Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts;
 29) fonda izcelsmes valsts - valsts, kurā fonds ir reģistrēts;
 30) fonda uzņēmējvalsts - valsts, kura nav fonda izcelsmes valsts un kuras teritorijā ir atļauts laist publiskā apgrozībā šā fonda ieguldījumu apliecības;
@@ -45,8 +45,8 @@ a) no kuriem vismaz divi ir reģistrēti dažādās dalībvalstīs,
 b) kuri reģistrēti vienā dalībvalstī un kurus apvieno jaunizveidotā fondā, ko reģistrē citā dalībvalstī;
 34) fondu iekšzemes apvienošana - divu vai vairāku Latvijā reģistrētu ieguldījumu fondu apvienošana;
 35) pastāvīgs informācijas nesējs - jebkurš instruments, kas ieguldītājam dod iespēju uzglabāt viņam personiski adresētu informāciju tā, lai nodrošinātu informācijas pieejamību un izmantošanu nemainītā veidā par informācijas sniegšanai nepieciešamo laikposmu;
-36) galvenās un pakārtotās struktūras darījumi - galvenā un pakārtotā fonda veiktie savstarpējie struktūras darījumi, kas tiek veikti starp diviem atvērtajiem ieguldījumu fondiem un kuru rezultātā pakārtotais fonds iegulda vismaz 85 procentus no saviem aktīviem galvenajā fondā;
-37) pakārtotais fonds - atvērtais ieguldījumu fonds vai tā apakšfonds, kurš ir saņēmis atļauju galvenās un pakārtotās struktūras darījuma veikšanai un kuram, neievērojot šajā likumā noteiktos ieguldījumu ierobežojumus ieguldījumu fondos, ir atļauts vismaz 85 procentus no saviem aktīviem ieguldīt citā atvērtajā ieguldījumu fondā vai apakšfondā;
-38) galvenais fonds - atvērtais ieguldījumu fonds vai tā apakšfonds, kura ieguldītājs ir cits atvērtais ieguldījumu fonds, kas vismaz 85 procentus no saviem aktīviem ieguldījis šajā fondā vai apakšfondā;
+36) galvenās un pakārtotās struktūras darījumi - galvenā un pakārtotā fonda veiktie savstarpējie struktūras darījumi, kas tiek veikti starp diviem ieguldījumu fondiem un kuru rezultātā pakārtotais fonds iegulda vismaz 85 procentus no saviem aktīviem galvenajā fondā;
+37) pakārtotais fonds - ieguldījumu fonds vai tā apakšfonds, kurš ir saņēmis atļauju galvenās un pakārtotās struktūras darījuma veikšanai un kuram, neievērojot šajā likumā noteiktos ieguldījumu ierobežojumus ieguldījumu fondos, ir atļauts vismaz 85 procentus no saviem aktīviem ieguldīt citā ieguldījumu fondā vai apakšfondā;
+38) galvenais fonds - ieguldījumu fonds vai tā apakšfonds, kura ieguldītājs ir cits ieguldījumu fonds, kas vismaz 85 procentus no saviem aktīviem ieguldījis šajā fondā vai apakšfondā;
 39) ar sabiedrību saistīta persona - sabiedrības amatpersona, sabiedrības darbinieks, kā arī cita fiziskā persona, kura ir iesaistīta to pārvaldes pakalpojumu sniegšanā, ko veic sabiedrība, un kuras darbību šī sabiedrība kontrolē, vai fiziskā persona, kura ir tieši iesaistīta deleģētā pakalpojuma sniegšanā tādai sabiedrībai, kas sniedz pārvaldes pakalpojumus;
-40) klients - ieguldījumu fonds, valsts fondēto pensiju shēmas līdzekļu ieguldījumu plāns, privāto pensiju fondu izveidotais pensiju plāns, kas saņem ieguldījumu pārvaldes sabiedrības sniegtos pārvaldes pakalpojumus, vai persona, kas saņem ieguldījumu pārvaldes sabiedrības sniegtos šā likuma 5.panta otrajā un trešajā daļā minētos ieguldījumu pakalpojumus.
+40) klients - ieguldījumu fonds, alternatīvo ieguldījumu fonds, valsts fondēto pensiju shēmas līdzekļu ieguldījumu plāns, privāto pensiju fondu izveidotais pensiju plāns, kas saņem ieguldījumu pārvaldes sabiedrības sniegtos pārvaldes pakalpojumus, vai persona, kas saņem ieguldījumu pārvaldes sabiedrības sniegtos šā likuma 5.panta otrajā un trešajā daļā minētos ieguldījumu pakalpojumus.

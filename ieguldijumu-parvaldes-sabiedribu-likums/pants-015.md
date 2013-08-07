@@ -1,6 +1,6 @@
 15.pants. Fonda pārvaldes pakalpojumu deleģēšana
 (1) Sabiedrība uz līguma pamata var deleģēt tiesības sniegt atsevišķus fonda pārvaldē ietilpstošos pakalpojumus (turpmāk - fonda pārvaldes pakalpojumi) citai personai, kurai ir atbilstoša kvalifikācija un pieredze minēto pakalpojumu sniegšanā.
-(1¹) Ja sabiedrība, kas pārvalda citā dalībvalstī reģistrētu atvērto ieguldījumu fondu, vēlas deleģēt kādu šā fonda pārvaldes pakalpojumu, Komisija pēc attiecīga iesnieguma saņemšanas no sabiedrības nekavējoties par to informē fonda izcelsmes valsts uzraudzības institūciju.
+(1¹) Ja sabiedrība, kas pārvalda citā dalībvalstī reģistrētu ieguldījumu fondu, vēlas deleģēt kādu šā fonda pārvaldes pakalpojumu, Komisija pēc attiecīga iesnieguma saņemšanas no sabiedrības nekavējoties par to informē fonda izcelsmes valsts uzraudzības institūciju.
 (2) Fonda ieguldījumu pārvaldīšanu sabiedrība drīkst deleģēt tikai citai sabiedrībai vai citā dalībvalstī licencētam pārvaldes pakalpojumu sniedzējam.
 (3) Fonda ieguldījumu pārvaldīšanu nedrīkst deleģēt sabiedrībai, kura vienlaikus ir turētājbankas ieinteresētā persona, sabiedrības ieinteresētā persona vai jebkura cita persona, kuras intereses var būt pretrunā ar sabiedrības vai fonda ieguldītāju interesēm.
 (4) Pirms fonda pārvaldes pakalpojumu deleģēšanas citai personai sabiedrība izstrādā attiecīgu pakalpojumu deleģēšanas politiku un procedūru, kas nosaka:

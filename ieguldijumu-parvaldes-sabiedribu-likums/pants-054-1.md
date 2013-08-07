@@ -1,4 +1,4 @@
-54.¹ pants. Paziņojums par atvērtā ieguldījumu fonda ieguldījumu apliecību pirkšanas un atpakaļpirkšanas pieteikuma izpildi
+54.¹ pants. Paziņojums par ieguldījumu fonda ieguldījumu apliecību pirkšanas un atpakaļpirkšanas pieteikuma izpildi
 (1) Sabiedrība ar pastāvīgā informācijas nesēja starpniecību nosūta fonda ieguldītājam paziņojumu, kas apstiprina pieteikuma izpildi, ne vēlāk kā nākamajā darbdienā pēc pieteikuma izpildes vai, ja sabiedrība šo apstiprinājumu saņem no trešās personas, ne vēlāk kā nākamajā darbdienā pēc apstiprinājuma saņemšanas no trešās personas.
 (2) Šā panta pirmo daļu nepiemēro, ja sabiedrības paziņojums satur to pašu informāciju, kas ietverta apstiprinājumā, ko fonda ieguldītājam nekavējoties nosūta trešā persona.
 (3) Šā panta pirmajā daļā minētajā paziņojumā iekļauj šādu informāciju:

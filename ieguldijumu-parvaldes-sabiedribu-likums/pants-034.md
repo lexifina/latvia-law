@@ -1,7 +1,7 @@
 34.pants. Fonda reorganizācija
 (1) Fonda sadalīšana nav atļauta.
 (2) Ieguldījumu fondus vai apakšfondus var apvienot tādos veidos, kādi noteikti šā likuma 1.panta 32.punktā, veicot gan iekšzemes apvienošanu, gan pārrobežu apvienošanu.
-(3) Slēgto ieguldījumu fondu nedrīkst apvienot ar atvērto ieguldījumu fondu.
+(3) (Izslēgta ar 09.07.2013. likumu)
 (4) Fondu vai apakšfondu iekšzemes apvienošanu un pārrobežu apvienošanu, ja pārrobežu apvienošanā iesaistītais pievienojamais fonds ir reģistrēts Latvijā, atļauj Komisija.
 (5) Šā likuma 1.panta 32.punkta "a" apakšpunktā noteiktais ieguldījumu fondu apvienošanas veids paredz, ka:
 1) visus pievienojamā fonda aktīvus un saistības nodod iegūstošajam fondam vai iegūstošā fonda turētājbankai;

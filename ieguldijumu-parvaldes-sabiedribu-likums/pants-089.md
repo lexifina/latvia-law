@@ -7,9 +7,9 @@
 3) lai piemērotu šajā likumā noteiktās sankcijas;
 4) tiesvedības procesā, kurā tiek apstrīdēti Komisijas izdotie administratīvie akti vai faktiskā rīcība.
 (4) Šā panta otrajā un trešajā daļā noteiktie ierobežojumi neliedz Komisijai sniegt ierobežotas pieejamības informāciju:
-1) institūcijām, kuras ir atbildīgas par kredītiestāžu, sabiedrību, atvērto ieguldījumu fondu vai tiem pielīdzināmu kopējo ieguldījumu uzņēmumu, apdrošināšanas sabiedrību, citu finanšu iestāžu un finanšu tirgus valstisko uzraudzību;
-2) personām, kuras ir atbildīgas par sabiedrības, atvērto ieguldījumu fondu vai tiem pielīdzināmu kopējo ieguldījumu uzņēmumu, vai personu, kuras ir iesaistītas pārvaldes pakalpojumu sniegšanā, likvidācijas vai maksātnespējas procedūru;
-3) personām, kuras saskaņā ar uzraudzības institūcijas pilnvarojumu veic likumā noteikto sabiedrību, atvērto ieguldījumu fondu vai tiem pielīdzināmu kopējo ieguldījumu uzņēmumu, kredītiestāžu, apdrošināšanas sabiedrību un citu finanšu iestāžu iekšējo pārbaudi vai revīziju;
+1) institūcijām, kuras ir atbildīgas par kredītiestāžu, sabiedrību, ieguldījumu fondu vai tiem pielīdzināmu kopējo ieguldījumu uzņēmumu, apdrošināšanas sabiedrību, citu finanšu iestāžu un finanšu tirgus valstisko uzraudzību;
+2) personām, kuras ir atbildīgas par sabiedrības, ieguldījumu fondu vai tiem pielīdzināmu kopējo ieguldījumu uzņēmumu, vai personu, kuras ir iesaistītas pārvaldes pakalpojumu sniegšanā, likvidācijas vai maksātnespējas procedūru;
+3) personām, kuras saskaņā ar uzraudzības institūcijas pilnvarojumu veic likumā noteikto sabiedrību, ieguldījumu fondu vai tiem pielīdzināmu kopējo ieguldījumu uzņēmumu, kredītiestāžu, apdrošināšanas sabiedrību un citu finanšu iestāžu iekšējo pārbaudi vai revīziju;
 4) iestādēm, kuras pārvalda ieguldītāju un noguldītāju kompensācijas shēmas, ja šāda informācija attiecīgajām iestādēm nepieciešama to funkciju veikšanai;
 5) Eiropas Vērtspapīru un tirgu iestādei, Eiropas Banku iestādei, Eiropas Apdrošināšanas aroda pensiju iestādei un Eiropas Sistēmisko risku kolēģijai.
 (5) Šā panta noteikumi neaizliedz Komisijai sniegt ierobežotas pieejamības informāciju Latvijas Bankai vai dalībvalstu centrālajām bankām, vai citām institūcijām, kuras ir atbildīgas par maksājumu sistēmas pārraudzīšanu, ja šāda informācija minētajām institūcijām nepieciešama likumā noteikto funkciju veikšanai.

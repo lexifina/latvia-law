@@ -42,10 +42,6 @@ c) fonda neto aktīvu vērtībai piemīt augsts svārstīguma līmenis;
 24) fonda iepriekšējās darbības raksturojums un finansiālo rādītāju salīdzinošā tabula par pēdējiem trim gadiem (sagatavota atbilstoši fonda pārskatu noteikumiem). Pēc šīs informācijas iekļaujams paziņojums, ka šie rādītāji nenosaka (neietekmē) turpmāko fonda darbību. Minēto informāciju var iekļaut fonda prospektā vai pievienot tam;
 25) fonda gada un pusgada pārskatu saņemšanas veids un kārtība.
 (4) (Izslēgta ar 13.10.2011. likumu)
-(5) Slēgtā fonda prospektā papildus norāda:
-1) fonda ieguldījumu apliecību emisijas cenu, apjomu un laiku, bet, ja emisiju ir paredzēts veikt vairākos laidienos, norāda arī ieguldījumu apliecību emisijas laidienu veikšanas kārtību;
-2) fonda ieguldītāju tiesības pieprasīt ieguldītāju pilnsapulces sasaukšanu un piedalīties tajā;
-3) ieguldītāju pilnsapulces kompetenci un lēmumu pieņemšanas kārtību;
-4) nekustamā īpašuma novērtēšanas kārtību, ja fonda līdzekļus plānots ieguldīt nekustamajā īpašumā.
-(6) Fonda prospekta pielikumā pievieno fonda pēdējā gada pārskatu vai pusgada pārskatu, ja tas ir apstiprināts pēc pēdējā gada pārskata apstiprināšanas.
+(5) (Izslēgta ar 09.07.2013. likumu)
+(6) (Izslēgta ar 09.07.2013. likumu)
 (7) Fonda prospekta noteikumi kļūst saistoši sabiedrības un ieguldītāja savstarpējās attiecībās, tiklīdz ieguldītājs fonda prospektā un pārvaldes nolikumā noteiktajā kārtībā ir ieguvis attiecīgā fonda ieguldījumu apliecības.

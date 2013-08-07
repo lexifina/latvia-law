@@ -1,10 +1,10 @@
-77.³ pants. Dalībvalstī reģistrētu atvērto ieguldījumu fondu ieguldījumu apliecību izplatīšana Latvijā
-(1) Dalībvalstī reģistrētu atvērto ieguldījumu fondu ieguldījumu apliecības vai tām pielīdzināmus vērtspapīrus (turpmāk - dalībvalsts fonda apliecības) Latvijā var izplatīt tikai šādas komercsabiedrības:
+77.³ pants. Dalībvalstī reģistrētu ieguldījumu fondu ieguldījumu apliecību izplatīšana Latvijā
+(1) Dalībvalstī reģistrētu ieguldījumu fondu ieguldījumu apliecības vai tām pielīdzināmus vērtspapīrus (turpmāk - dalībvalsts fonda apliecības) Latvijā var izplatīt tikai šādas komercsabiedrības:
 1) kredītiestāde, kura ir tiesīga sniegt ieguldījumu pakalpojumus Latvijā;
-2) ieguldījumu pārvaldes sabiedrība, kura ir tiesīga sniegt pārvaldes pakalpojumus Latvijā, vai dalībvalstī licencēta sabiedrība, kura vēlas Latvijā izplatīt tās pārvaldībā esošu atvērto ieguldījumu fondu ieguldījumu apliecības;
+2) ieguldījumu pārvaldes sabiedrība, kura ir tiesīga sniegt pārvaldes pakalpojumus Latvijā, vai dalībvalstī licencēta sabiedrība, kura vēlas Latvijā izplatīt tās pārvaldībā esošu ieguldījumu fondu ieguldījumu apliecības;
 3) ieguldījumu brokeru sabiedrība, kura ir tiesīga sniegt ieguldījumu pakalpojumus Latvijā.
 (2) Šā panta pirmajā daļā minētās komercsabiedrības nodrošina dalībvalsts fonda apliecību izplatīšanu, atpakaļpirkšanu un atpakaļpieņemšanu un ar to saistītos norēķinus Latvijā.
-(3) Dalībvalstī licencēta sabiedrība, kura vēlas Latvijā bez filiāles atvēršanas izplatīt tās pārvaldībā esošu atvērto ieguldījumu fondu ieguldījumu apliecības, nesniedzot nevienu citu šā likuma 5.pantā minētu pakalpojumu, ievēro tikai šajā pantā noteikto kārtību.
+(3) Dalībvalstī licencēta sabiedrība, kura vēlas Latvijā bez filiāles atvēršanas izplatīt tās pārvaldībā esošu ieguldījumu fondu ieguldījumu apliecības, nesniedzot nevienu citu šā likuma 5.pantā minētu pakalpojumu, ievēro tikai šajā pantā noteikto kārtību.
 (4) Dalībvalsts fonda apliecības drīkst Latvijā sākt izplatīt ar dienu, kad Komisijai ir iesniegti šādi atbilstoši šajā pantā noteiktajai kārtībai noformēti dokumenti:
 1) fonda izcelsmes valsts uzraudzības institūcijas apliecinājums par fonda reģistrāciju, kas atbilst Eiropas Komisijas regulas Nr. 584/2010 2.pielikumam;
 2) fondu pārvaldošās sabiedrības paziņojums, kas atbilst Eiropas Komisijas regulas Nr. 584/2010 1.pielikumam un ietver informāciju par attiecīgā fonda ieguldījumu apliecību izplatīšanas kārtību Latvijā;

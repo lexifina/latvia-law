@@ -1,0 +1,1 @@
+33. Sabiedrība, kura reģistrējusi slēgtos ieguldījumu fondus atbilstoši šā likuma prasībām, sākot ar dienu, kad stājas spēkā Alternatīvo ieguldījumu fondu un to pārvaldnieku likums, ievēro minētajā likumā noteiktās prasības alternatīvo ieguldījumu fondu pārvaldniekiem un prasības slēgtā ieguldījumu fonda pārveidei par alternatīvo ieguldījumu fondu.

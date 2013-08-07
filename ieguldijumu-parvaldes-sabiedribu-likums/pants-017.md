@@ -1,6 +1,6 @@
 17.pants. Fonda pārvaldes tiesību pāreja turētājbankai
 (1) Ja sabiedrības tiesības pārvaldīt fondu izbeidzas, tiesības pārvaldīt fondu pāriet šā fonda turētājbankai, izņemot šā likuma 16.pantā noteikto gadījumu.
-(2) Turētājbanka nekavējoties iesniedz publicēšanai laikrakstā "Latvijas Vēstnesis" un vēl vismaz vienā dienas laikrakstā paziņojumu par fonda pārvaldes tiesību pāreju. Paziņojumā norāda:
+(2) Turētājbanka nekavējoties iesniedz publicēšanai oficiālajā izdevumā "Latvijas Vēstnesis" un vēl vismaz vienā dienas laikrakstā paziņojumu par fonda pārvaldes tiesību pāreju. Paziņojumā norāda:
 1) tās sabiedrības firmu, kuras pārvaldē šis ieguldījumu fonds atradās;
 2) ieguldījumu fonda nosaukumu;
 3) turētājbankas firmu un valdes atrašanās vietu.

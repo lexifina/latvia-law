@@ -16,4 +16,4 @@
 (8) Ja sabiedrība ir noteikusi, ka personīgo darījumu veikšanai nepieciešama atļauja, tā glabā informāciju par personīgo darījumu veikšanai izsniegtajām atļaujām vai atteikumiem izsniegt atļauju.
 (9) Šā panta noteikumus nepiemēro, ja:
 1) personīgais darījums ir veikts ieguldītāja finanšu instrumentu portfeļa individuālas pārvaldīšanas ietvaros un sakarā ar šo darījumu nav notikusi iepriekšēja saziņa starp portfeļa pārvaldītāju un ar sabiedrību saistītu personu vai citu personu, kuras vārdā darījums tiek veikts;
-2) personīgais darījums ir veikts ar atvērtā fonda ieguldījumu apliecībām un ar sabiedrību saistīta persona vai cita persona, kuras vārdā darījums veikts, nav iesaistīta fonda pārvaldē.
+2) personīgais darījums ir veikts ar fonda ieguldījumu apliecībām un ar sabiedrību saistīta persona vai cita persona, kuras vārdā darījums veikts, nav iesaistīta fonda pārvaldē.

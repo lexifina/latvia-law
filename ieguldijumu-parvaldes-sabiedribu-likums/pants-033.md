@@ -17,9 +17,9 @@
 1) izpildīt sabiedrības saistības, kuras tai radušās tās vārdā un uz tās rēķina;
 2) emitēt vērtspapīrus, izņemot ieguldījumu apliecības;
 3) uzņemties saistības, kuras izriet no galvojuma līgumiem;
-4) piešķirt aizdevumus. Minētais aizliegums nav attiecināms uz aktīvu atpakaļpirkuma darījumiem, kurus ir atļauts veikt, ievērojot šajā likumā noteiktos ierobežojumus, kā arī uz slēgtā ieguldījumu fonda līdzekļu ieguldīšanu nekustamajā īpašumā. No fonda līdzekļiem piešķirtie aizdevumi, kas paredzēti ieguldījumiem nekustamajā īpašumā, tiek nodrošināti ar nostiprinātām hipotēkām par labu sabiedrībai, izdarot atzīmi, ka attiecīgais nekustamais īpašums ir no konkrētā fonda līdzekļiem piešķirtā aizdevuma nodrošinājums un ka to nedrīkst apgrūtināt un atsavināt bez sabiedrības piekrišanas.
-(9) Sabiedrība drīkst ņemt aizņēmumus uz atvērtā fonda rēķina, ja šie aizņēmumi tiek ņemti uz laiku līdz trim mēnešiem un to kopsumma nepārsniedz 10 procentus no atvērtā fonda vērtības.
-(10) Sabiedrība drīkst ņemt aizņēmumus uz slēgtā fonda rēķina, ja šie aizņēmumi tiek ņemti uz laiku līdz trim mēnešiem un to kopsumma nepārsniedz 25 procentus no slēgtā fonda vērtības. Ja slēgtā fonda prospektā ir paredzēts ne mazāk kā 50 procentus no slēgtā fonda līdzekļiem ieguldīt nekustamajā īpašumā, sabiedrība drīkst ņemt aizņēmumus uz slēgtā fonda rēķina bez laika ierobežojuma un to kopsumma nedrīkst pārsniegt slēgtā fonda vērtību vairāk kā četras reizes.
+4) piešķirt aizdevumus. Minētais aizliegums nav attiecināms uz aktīvu pirkšanas darījumiem ar atpakaļpārdevumu (reversais repo), kurus ir atļauts veikt, ievērojot šajā likumā noteiktos ierobežojumus.
+(9) Sabiedrība drīkst ņemt aizņēmumus uz fonda rēķina, ja šie aizņēmumi tiek ņemti uz laiku līdz trim mēnešiem un to kopsumma nepārsniedz 10 procentus no fonda vērtības.
+(10) (Izslēgta ar 09.07.2013. likumu)
 (11) Sabiedrība nedrīkst ņemt aizņēmumus uz atvērtā fonda rēķina no šā panta piektajā daļā minētajām personām, izņemot bezprocentu aizņēmumus no sabiedrības un aizņēmumus no turētājbankas par procentu likmi, kas nepārsniedz finanšu tirgus vidējo kredītprocentu likmi aizņēmuma ņemšanas brīdī.
 (12) Sabiedrība nedrīkst uz fonda rēķina pārdot finanšu instrumentus vai uzņemties saistības par finanšu instrumentu pārdošanu, ja tie darījuma noslēgšanas brīdī nav fonda manta.
 (13) Sabiedrība nedrīkst uz fonda rēķina iegādāties mantu par cenu, kas ir augstāka par tirgus cenu, vai atsavināt fonda mantu par cenu, kas ir zemāka par tirgus cenu.
