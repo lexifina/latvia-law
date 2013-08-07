@@ -1,0 +1,1 @@
+11. Šo pārejas noteikumu 7. un 8.punktā minētie pārvaldnieki veic maksājumus par šajos punktos minētā fonda reģistrācijai iesniegto dokumentu izskatīšanu vai reģistrācijai iesniegto fonda darbības noteikumu vai dibināšanas dokumenta grozījumu izskatīšanu, ja šie dokumenti Komisijai ir iesniegti nevis gada laikā no šā likuma spēkā stāšanās dienas, bet vēlāk.

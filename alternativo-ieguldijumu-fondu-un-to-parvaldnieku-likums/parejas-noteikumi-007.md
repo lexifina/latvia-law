@@ -1,0 +1,1 @@
+7. Komercsabiedrības, kuru pārvaldē šā likuma spēkā stāšanās dienā esošie slēgtie fondi ir dibināti atbilstoši Ieguldījumu pārvaldes sabiedrību likumam, gada laikā no šā likuma spēkā stāšanās dienas veic fondu likvidāciju vai reģistrāciju atbilstoši šim likumam.

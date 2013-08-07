@@ -1,0 +1,1 @@
+12. Komercsabiedrības, kuras pārvalda atbilstoši Ieguldījumu pārvaldes sabiedrību likumam dibinātus slēgtos fondus un pēc šā likuma spēkā stāšanās plāno izdarīt grozījumus minēto fondu pārvaldes nolikumos vai prospektos, izstrādā un iesniedz Komisijai fonda pārvaldes dokumentus saskaņā ar šā likuma 10.panta astotās daļas prasībām.

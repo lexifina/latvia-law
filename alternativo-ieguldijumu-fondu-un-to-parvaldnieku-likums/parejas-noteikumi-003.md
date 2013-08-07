@@ -1,0 +1,1 @@
+3. Komercsabiedrības, kas šā likuma spēkā stāšanās dienā veic šā likuma 5.pantā noteikto darbību, gada laikā no šā likuma spēkā stāšanās dienas izbeidz šo darbību, veic likvidāciju, reģistrējas Komisijā vai saņem licenci alternatīvo ieguldījumu fondu pārvaldnieka darbībai.

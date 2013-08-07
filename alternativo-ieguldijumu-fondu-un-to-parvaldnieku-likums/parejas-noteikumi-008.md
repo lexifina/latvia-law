@@ -1,0 +1,1 @@
+8. Komercsabiedrības, kuru pārvaldē esošie fondi, kas atzīstami par alternatīvo ieguldījumu fondiem šā likuma izpratnē un kas nav dibināti atbilstoši Ieguldījumu pārvaldes sabiedrību likumam, gada laikā no šā likuma spēkā stāšanās dienas iesniedz Komisijai fonda reģistrācijas pieteikumu.

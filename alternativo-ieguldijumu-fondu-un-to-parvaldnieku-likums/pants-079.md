@@ -1,0 +1,5 @@
+79.pants. Latvijā licencēta ārvalsts pārvaldnieka tiesības izplatīt ārvalsts fonda ieguldījumu daļas dalībvalstīs
+(1) Latvijā licencēts ārvalsts pārvaldnieks nodrošina, lai tas atbilstu visām tām šā likuma prasībām, kas noteiktas dalībvalsts pārvaldniekam, kā arī papildus uz Komisiju un ārvalsts fonda dibināšanas valsti ir attiecināmi šā likuma 72.panta otrajā daļā minētie nosacījumi.
+(2) Ja Latvijā licencēts ārvalsts pārvaldnieks vēlas izplatīt tā pārvaldē esoša ārvalsts fonda ieguldījumu daļas Latvijā, tas iesniedz Komisijai paziņojumu, pievienojot šā likuma 66.panta trešajā daļā minētos dokumentus. Paziņojumu izskata šā likuma 66.pantā noteiktajā kārtībā.
+(3) Ja Latvijā licencēts ārvalsts pārvaldnieks vēlas izplatīt tā pārvaldē esoša ārvalsts fonda ieguldījumu daļas citā dalībvalstī, tas iesniedz Komisijai paziņojumu, pievienojot šā likuma 67.panta trešajā daļā minētos dokumentus, kas sagatavoti valodā, ko lieto starptautisko finanšu jomā. Paziņojumu izskata šā likuma 67.pantā noteiktajā kārtībā.
+(4) Dalībvalstī licencēts ārvalsts pārvaldnieks drīkst izplatīt ārvalsts fonda ieguldījumu daļas Latvijā atbilstoši šā likuma 68.pantā noteiktajam.

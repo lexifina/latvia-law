@@ -1,0 +1,3 @@
+Likumā iekļautas tiesību normas, kas izriet no:
+1) Eiropas Parlamenta un Padomes 2011.gada 8.jūnija direktīvas 2011/61/ES par alternatīvo ieguldījumu fondu pārvaldniekiem un par grozījumiem direktīvā 2003/41/EK, direktīvā 2009/65/EK, regulā (EK) Nr. 1060/2009 un regulā (ES) Nr. 1095/2010;
+2) Eiropas Parlamenta un Padomes 2013.gada 21.maija direktīvas 2013/14/ES, ar ko groza direktīvu 2003/41/EK par papildpensijas kapitāla uzkrāšanas institūciju darbību un uzraudzību, direktīvu 2009/65/EK par normatīvo un administratīvo aktu koordināciju attiecībā uz pārvedamu vērtspapīru kolektīvo ieguldījumu uzņēmumiem (PVKIU) un direktīvu 2011/61/ES par alternatīvo ieguldījumu fondu pārvaldniekiem attiecībā uz pārmērīgu paļaušanos uz kredītreitingiem.

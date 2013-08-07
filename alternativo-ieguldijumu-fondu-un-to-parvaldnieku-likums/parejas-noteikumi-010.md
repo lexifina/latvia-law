@@ -1,0 +1,1 @@
+10. Pēc šā likuma stāšanās spēkā šo pārejas noteikumu 7. un 8.punktā minētās komercsabiedrības izplata šajos punktos minēto fondu ieguldījumu daļas tikai šā likuma 41.panta septītajā, astotajā un devītajā daļā minētajiem ieguldītājiem.

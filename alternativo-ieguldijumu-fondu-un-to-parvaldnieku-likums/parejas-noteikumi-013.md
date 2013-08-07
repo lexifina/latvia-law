@@ -1,0 +1,1 @@
+13. Līdz Euro ieviešanas kārtības likuma 3.panta pirmajā daļā noteiktajai euro ieviešanas dienai šajā likumā minētās naudas summas, kuras izteiktas euro, uzskatāmas par ekvivalentām summām latos, kas pārrēķinātas saskaņā ar Latvijas Bankas noteikto kursu.

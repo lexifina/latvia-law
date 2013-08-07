@@ -1,0 +1,51 @@
+10.pants. Licences saņemšanai iesniedzamie dokumenti un ziņas
+(1) Lai saņemtu licenci, pārvaldnieks iesniedz Komisijai iesniegumu licences saņemšanai, kam pievieno citus šajā pantā minētos dokumentus. Ārējais pārvaldnieks iesniegumā iekļauj arī informāciju par tā firmu, juridisko adresi, reģistrācijas numuru un reģistrācijas vietu.
+(2) Par pārvaldnieku un tā akcionāriem (dalībniekiem) Komisijai iesniedz šādus dokumentus:
+1) dokumentu, kas apliecina sākotnējā kapitāla samaksu;
+2) pārvaldnieka akcionāru (dalībnieku) sarakstu un šādas ziņas par akcionāriem (dalībniekiem):
+a) par fiziskajām personām - personas identifikācijas dati [vārds, uzvārds (latviešu valodā un oriģinālvalodā), dzimšanas gads un datums, personas kods (ja tāds ir)], personu apliecinoša dokumenta izdošanas vieta, dokumenta numurs, derīguma termiņš,
+b) par juridiskajām personām - firma, juridiskā adrese, reģistrācijas numurs un vieta. Ārvalstī reģistrētas juridiskās personas iesniedz arī notariāli apliecinātas reģistrācijas dokumentu kopijas,
+c) dokumentus, kas apliecina, ka pārvaldnieka akcionāriem (dalībniekiem), kuriem ir būtiska līdzdalība pārvaldniekā, pietiek finanšu līdzekļu (norādot finanšu līdzekļu izcelsmi), lai tie varētu veikt ieguldījumus pārvaldnieka kapitālā,
+d) ziņas par pārvaldnieka akcionāru (dalībnieku) - juridisko personu - īpašniekiem (līdz fiziskajai personai, par kuru sniedz ziņas atbilstoši šā punkta "a" apakšpunktam), ja akcionāriem (dalībniekiem) ir būtiska līdzdalība pārvaldniekā.
+(3) Par pārvaldnieka amatpersonām Komisijai iesniedz šādus dokumentus un ziņas:
+1) paziņojumu, kuru aizpilda katra amatpersona. Paziņojumā norāda šādu informāciju:
+a) pārvaldnieka firmu un amatu, uz kuru amatpersona kandidē,
+b) vārdu, uzvārdu (latviešu valodā un oriģinālvalodā), dzimšanas gadu un datumu, personas kodu (ja tāds ir) un pilsonību,
+c) izglītību (zinātnisko grādu),
+d) kvalifikācijas paaugstināšanu,
+e) vai ir bijusi sodāmība,
+f) vai ir bijušas atņemtas tiesības veikt komercdarbību,
+g) iepriekšējās darbavietas pēdējo 10 gadu laikā un darba pienākumu īsu aprakstu;
+2) izglītību apliecinošu dokumentu kopijas.
+(4) Šā panta trešās daļas 1.punktā minētajā paziņojumā sniegtās informācijas patiesumu ar parakstu apliecina persona, par kuru paziņojums sagatavots, kā arī pārvaldnieka valdes priekšsēdētājs.
+(5) Komisijai iesniedz pārvaldnieka ieinteresēto personu sarakstu. Sarakstā norāda katras personas vārdu un uzvārdu, personas kodu (ja tāds ir), izglītību, amatus, kurus tā ieņēmusi pēdējo piecu gadu laikā, un uz darba aprakstu attiecināmos pārvaldnieka un attiecīgās personas noslēgto līgumu nosacījumus. Juridiskā persona norāda firmu, reģistrācijas numuru un vietu, pārvaldes institūciju locekļus, kā arī iesniedz Komisijai pēdējā gada pārskatu.
+(6) Par pārvaldnieka darbības organizāciju Komisijai iesniedz šādus dokumentus:
+1) organizatoriskās struktūras aprakstu ar skaidri norādītiem amatpersonu pienākumiem un pilnvarām, kā arī precīzi noteiktiem un sadalītiem pārvaldnieka struktūrvienību uzdevumiem un struktūrvienību vadītāju pienākumiem. Ja pārvaldnieks plāno izveidot filiāles, Komisijai iesniedz arī filiāļu organizatoriskās struktūras un filiāļu vadītāju pienākumu aprakstu;
+2) vadības informācijas sistēmas aprakstu;
+3) grāmatvedības politikas un grāmatvedības uzskaites organizācijas galvenos principus;
+4) risku pārvaldīšanas politiku;
+5) informācijas sistēmas aizsardzības noteikumus, tai skaitā fonda ieguldījumu daļu reģistra un citu pārvaldnieka pārvaldīšanā esošo finanšu instrumentu uzskaites datubāzes aizsardzības noteikumus;
+6) neparastu un aizdomīgu finanšu darījumu identifikācijas procedūru aprakstu;
+7) atalgojuma politiku un tās piemērošanas aprakstu;
+8) funkciju deleģēšanas un tālākas deleģēšanas procedūru;
+9) interešu konfliktu novēršanas procedūru;
+10) aprakstu par likviditātes riska pārvaldīšanu;
+11) ieguldītāju iesniegumu un sūdzību (strīdu) izskatīšanas procedūras aprakstu.
+(7) Par pārvaldnieka plānoto darbību Komisijai iesniedz vismaz turpmākajiem trim darbības gadiem izstrādātu un pārvaldnieka akcionāru (dalībnieku) sapulces apstiprinātu darbības plānu, kas izvērsti atspoguļo pārvaldnieka darbības stratēģiju, finansiālās prognozes, ietverot pārskata projektu, kas atspoguļo finanšu stāvokli vismaz turpmāko triju darbības gadu beigās, finansiālās darbības rezultāta pārskata projektu par vismaz trim turpmākajiem darbības gadiem, kapitāla pietiekamības aprēķina projektu un prognozēto pastāvīgo izmaksu summu gadā, tirgus izpētes aprakstu, kā arī citu informāciju, kas sniedz skaidru un patiesu priekšstatu par pārvaldnieka plānoto darbību.
+(8) Par katru fondu, kuru pārvaldnieks vēlas pārvaldīt, Komisijai iesniedz šādus dokumentus un ziņas:
+1) informāciju par ieguldījumu stratēģiju un to fondu veidiem, kuros fonds veic vai ir paredzējis veikt ieguldījumus, ja fonds ir fondu fonds;
+2) ja paredzēts izmantot sviras finansējumu, - pārvaldnieka politiku sviras finansējuma izmantošanai, tai skaitā informāciju par apstākļiem, kādos fonds drīkst izmantot sviras finansējumu, atļautajiem sviras finansējuma veidiem un avotiem un ar tiem saistītajiem riskiem, sviras finansējuma izmantošanas ierobežojumiem un saņemtā nodrošinājuma un aktīvu atkārtotas izmantošanas nosacījumiem, sviras finansējuma maksimālo apmēru, kuru pārvaldnieks ir tiesīgs izmantot fonda vārdā, kā arī šāda apmēra izvēles pamatojumu un procedūras aprakstu noteikto ierobežojumu ievērošanai;
+3) informāciju par riska profilu un citām fonda darbību raksturojošām pazīmēm, tai skaitā informāciju par dalībvalstīm vai ārvalstīm, kurās fonds darbojas vai plāno darboties;
+4) informāciju par galveno fondu, ja fonds ir pakārtotais fonds;
+5) katra fonda dibināšanas dokumentu;
+6) informāciju par turētājbanku un turētājbankas līgumu;
+7) fonda pārvaldes līgumu starp fondu un pārvaldnieku;
+8) šā likuma 58.panta pirmajā un otrajā daļā minēto informāciju.
+(9) Ja iesniegumu licences saņemšanai alternatīvo ieguldījumu fondu pārvaldnieka darbībai iesniedz jau Komisijā licencēta ieguldījumu pārvaldes sabiedrība, tā iesniedz tikai to informāciju un ziņas, kuru Komisijas rīcībā nav.
+(10) Ja pirms tam, kad pieņemts lēmums par licences izsniegšanu, Komisijai sniegtajā informācijā tiek veiktas izmaiņas vai dokumentos tiek izdarīti grozījumi, pārvaldnieka pienākums ir nekavējoties iesniegt Komisijai jauno informāciju vai attiecīgo dokumentu pilnu tekstu ar izdarītajiem grozījumiem.
+(11) Pārvaldniekam pēc licences saņemšanas ir pienākums nekavējoties rakstveidā informēt Komisiju par visiem grozījumiem un papildinājumiem iesniegtajos dokumentos un informācijā. Grozījumi stājas spēkā, ja Komisija mēneša laikā no dienas, kad saņemts iesniegums un tam pievienotie dokumenti, nav izteikusi motivētus iebildumus. Ja dokumentu izskatīšanai nepieciešama papildu pārbaude vai vajadzīgas papildu ziņas, Komisijai ir tiesības pagarināt iesnieguma izskatīšanas termiņu par vienu mēnesi, par to rakstveidā paziņojot pārvaldniekam.
+(12) Komisija konsultējas ar attiecīgās dalībvalsts uzraudzības institūciju pirms licences izsniegšanas tādam pārvaldniekam:
+1) kurš ir attiecīgajā dalībvalstī reģistrētas kredītiestādes, apdrošināšanas sabiedrības, ieguldījumu brokeru sabiedrības, ieguldījumu pārvaldes sabiedrības vai alternatīvo ieguldījumu fonda pārvaldnieka meitas sabiedrība;
+2) kurš ir tādas mātes sabiedrības meitas sabiedrība, kuras cita meitas sabiedrība ir attiecīgajā dalībvalstī reģistrēta kredītiestāde, apdrošināšanas sabiedrība, ieguldījumu brokeru sabiedrība, ieguldījumu pārvaldes sabiedrība vai alternatīvo ieguldījumu fondu pārvaldnieks;
+3) kuru kontrolē tāda fiziskā vai juridiskā persona, kura kontrolē arī citu attiecīgajā dalībvalstī reģistrētu kredītiestādi, apdrošināšanas sabiedrību, ieguldījumu brokeru sabiedrību, ieguldījumu pārvaldes sabiedrību vai alternatīvo ieguldījumu fondu pārvaldnieku.
+(13) Komisija pirms licences izsniegšanas, kā arī licencētā pārvaldnieka uzraudzības gaitā no attiecīgās dalībvalsts uzraudzības institūcijas pieprasa un novērtē informāciju par pārvaldnieka akcionāru (dalībnieku) piemērotību un to pārvaldnieka amatpersonu reputāciju un pieredzi, kuras iesaistītas citu tās grupas komercsabiedrību vadībā, kurā tiks iekļauts pārvaldnieks.

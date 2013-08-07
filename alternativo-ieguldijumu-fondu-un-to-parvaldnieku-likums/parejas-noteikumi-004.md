@@ -1,0 +1,1 @@
+4. Šā likuma IX nodaļas prasības nepiemēro fonda ieguldījumu daļu izplatīšanai un fonda pārvaldei, ja fonda ieguldījumu daļu publiskā piedāvājuma prospekts ir sagatavots saskaņā ar Finanšu instrumentu tirgus likumu un reģistrēts līdz šā likuma spēkā stāšanās dienai. Minētās prasības nepiemēro, kamēr prospekts ir spēkā.

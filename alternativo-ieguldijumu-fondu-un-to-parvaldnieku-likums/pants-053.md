@@ -1,0 +1,8 @@
+53.pants. Fonda aktīvu turēšanas vispārīgās prasības
+(1) Turētājbanka nodrošina, ka visi fonda naudas līdzekļi ir iegrāmatoti turētājbankā vienā vai vairākos naudas kontos, kas atvērti uz pārvaldnieka, turētājbankas, kas rīkojas fonda vārdā, vai paša fonda vārda.
+(2) Veicot naudas līdzekļu vai tās turējumā esošo fondam vai pārvaldniekam, kas rīkojas fonda vārdā, piederošo finanšu instrumentu uzskaiti, turētājbanka nodrošina, ka:
+1) ir iespējams jebkurā brīdī nošķirt vienam fondam vai pārvaldniekam, kas rīkojas fonda vārdā, piederošos naudas līdzekļus vai finanšu instrumentus no cita turētājbankas klienta naudas līdzekļiem vai finanšu instrumentiem;
+2) uzskaite tiek regulāri salīdzināta ar tās trešās personas naudas līdzekļu vai finanšu instrumentu uzskaiti, kurā turētājbanka tur klientu naudas līdzekļus vai finanšu instrumentus.
+(3) Turētājbanka, kura tur fondam vai pārvaldniekam, kas rīkojas fonda vārdā, piederošus naudas līdzekļus vai finanšu instrumentus pie trešās personas, nodrošina, ka šie naudas līdzekļi vai finanšu instrumenti ir identificējami atsevišķi no trešajai personai vai pašai turētājbankai piederošajiem naudas līdzekļiem vai finanšu instrumentiem.
+(4) Turētājbanka veic citu aktīvu turēšanu un uzskaiti, ja tā ir pārliecinājusies, ka fondam vai pārvaldniekam, kas rīkojas fonda vārdā, ir īpašumtiesības uz šiem aktīviem. Turētājbanka pastāvīgi veic minēto īpašumtiesību pārbaudi, pamatojoties uz fonda vai pārvaldnieka, kas rīkojas fonda vārdā, sniegtajiem īpašumtiesības apliecinošiem dokumentiem, kā arī uz informāciju, ko turētājbanka var iegūt no publiskajiem reģistriem.
+(5) Turētājbankai papildus izvirzītās tiesības un pienākumus nosaka Regula Nr. 231/2013.

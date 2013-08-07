@@ -1,0 +1,2 @@
+XIII nodaļa.
+Informācijas apmaiņa

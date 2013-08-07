@@ -1,0 +1,9 @@
+62.pants. Paziņojums par būtiskas līdzdalības un kontroles iegūšanu regulētā tirgū neiekļautā sabiedrībā
+(1) Pārvaldnieks nekavējoties, bet ne vēlāk kā 10 darbdienu laikā, kopš fonds ieguvis vai atsavinājis balsstiesīgās akcijas (daļas) sabiedrībā, paziņo Komisijai par tā balsstiesību īpatsvaru sabiedrībā, ja šis īpatsvars sasniedz, pārsniedz 10, 20, 30, 50 un 75 procentus vai kļūst mazāks par minētajiem procentiem.
+(2) Pārvaldnieks, kurš pārvalda vienu vai vairākus fondus, kas katrs atsevišķi vai kopīgi uz vienošanās pamata iegūst kontroli regulētā tirgū neiekļautā sabiedrībā, kā arī pārvaldnieki, kas uz vienošanās pamata iegulda to pārvaldīto fondu līdzekļus regulētā tirgū neiekļautā sabiedrībā, kurā šie fondi iegūst kontroli, nekavējoties, bet ne vēlāk kā 10 darbdienu laikā pēc minētā fakta paziņo par to Komisijai, sabiedrībai un sabiedrības akcionāriem (dalībniekiem), kurus iespējams noskaidrot, izmantojot sabiedrības akcionāru (dalībnieku) reģistru vai publiskos reģistrus.
+(3) Šā panta otrajā daļā minētajā paziņojumā ietver šādu informāciju:
+1) balsstiesību sadalījums paziņojuma iesniegšanas dienā skaitliski un procentuāli no pamatkapitāla un no balsstiesīgo akciju (daļu) skaita pēc to iegūšanas vai atsavināšanas;
+2) kontrolētās komercsabiedrības, ar kuru starpniecību fondam ir balsstiesības;
+3) fonda identitāte, pat ja fonds nav tiesīgs izmantot balsstiesības, un tās fiziskās vai juridiskās personas identitāte, kura ir tiesīga izmantot balsstiesības fonda vārdā;
+4) datums, kurā balsstiesīgo akciju (daļu) īpatsvars sasniedza, pārsniedza šā panta pirmajā daļā noteikto balsstiesību īpatsvaru vai kļuva mazāks par to.
+(4) Sabiedrības valde nekavējoties informē sabiedrības darbinieku pārstāvjus vai, ja šādu pārstāvju nav, pašus darbiniekus par to, ka pārvaldnieka pārvaldē esošais fonds ieguvis kontroli sabiedrībā, un sniedz tiem šā panta trešajā daļā minēto informāciju.

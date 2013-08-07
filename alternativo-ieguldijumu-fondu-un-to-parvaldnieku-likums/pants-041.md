@@ -1,0 +1,10 @@
+41.pants. Vispārīgās prasības
+(1) Fonda ieguldījumu daļu publiskā apgrozība notiek saskaņā ar Finanšu instrumentu tirgus likumu, ciktāl šajā likumā nav noteikts citādi.
+(2) Fonda ieguldījumu daļām var būt dažādas klases ar atšķirīgu nominālvērtību, piekritīgajiem maksājumiem vai atšķirīgām tiesībām uz fonda ienākumu sadali. Viena fonda vienas klases ieguldījumu daļās ir nostiprinātas vienādas tiesības.
+(3) Ar ieguldījumu daļas atsavināšanu ieguvējam pāriet arī attiecīgā atsavinātāja mantas domājamā daļa fondā.
+(4) Ieguldījumu daļas tiek emitētas dematerializētā formā.
+(5) Pārvaldnieka fonda ieguldījumu daļas ir dalāmas. Fonda dibināšanas dokumentā vai darbības noteikumos nosaka kārtību, kādā tiek noapaļots ieguldījumu daļu skaits pēc to sadalīšanas.
+(6) Ieguldījumu daļu izplatīšana ir atļauta tikai šā likuma 9.panta pirmajā un otrajā daļā un šā panta septītajā, astotajā un devītajā daļā minētajām personām.
+(7) Dalībvalstī licencēts pārvaldnieks drīkst izplatīt ieguldījumu daļas profesionālajiem ieguldītājiem, kā arī citiem ieguldītājiem Latvijā saskaņā ar šā panta astotās un devītās daļas noteikumiem.
+(8) Dalībvalstī licencēta pārvaldnieka pārvaldē esoša dalībvalsts fonda ieguldījumu daļas drīkst izplatīt arī tādam ieguldītājam, kas nav profesionāls ieguldītājs, ja šis ieguldītājs sniedz rakstveida apliecinājumu, ka tas spēj patstāvīgi pieņemt lēmumu par ieguldīšanu attiecīgajā fondā un apzinās visus riskus, tai skaitā risku zaudēt ieguldījumu vai tā daļu, kas izriet no šāda ieguldījuma vai saistībām, kuras tas uzņēmies, un minimālais ieguldītāja ieguldījumu daļu pirkuma apmērs attiecīgajā fondā ir 100 000 euro vai lielāks.
+(9) Ja dalībvalstī licencēta pārvaldnieka pārvaldē esoša dalībvalsts fonda darbības noteikumi paredz izmantot sviras finansējumu ne vairāk kā 50 procentu apmērā no fonda neto aktīvu vērtības, šā fonda ieguldījumu daļas drīkst izplatīt arī tādam ieguldītājam, kas nav profesionāls ieguldītājs, ja šis ieguldītājs sniedz šā panta astotajā daļā minēto apliecinājumu.
