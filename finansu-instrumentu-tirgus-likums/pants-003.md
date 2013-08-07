@@ -9,7 +9,7 @@
 6) Eiropas Parlamenta un Padomes 2012.gada 4.jūlija regula (EK) Nr. 648/2012 par ārpusbiržas atvasinātajiem instrumentiem, centrālajiem darījumu partneriem un darījumu reģistriem (turpmāk - Regula Nr. 648/2012).
 (2) Šis likums attiecas uz šādiem finanšu instrumentiem:
 1) pārvedamiem vērtspapīriem;
-2) ieguldījumu fondu ieguldījumu apliecībām un citiem pārvedamiem vērtspapīriem, kas apliecina līdzdalību ieguldījumu fondos vai tiem pielīdzināmos kopējo ieguldījumu uzņēmumos;
+2) ieguldījumu fondu un alternatīvo ieguldījumu fondu ieguldījumu apliecībām un citiem pārvedamiem vērtspapīriem, kas apliecina līdzdalību šādos fondos vai tiem pielīdzināmos kopējo ieguldījumu uzņēmumos;
 3) naudas tirgus instrumentiem - īstermiņa (kuru dzēšanas termiņš ir īsāks par 12 mēnešiem) parāda instrumentiem (parādzīmes, noguldījumu sertifikāti, komercsabiedrību emitēti īstermiņa parāda instrumenti) un citiem instrumentiem, kas tiek tirgoti naudas tirgos;
 4) šādiem atvasinātajiem instrumentiem:
 a) iespējas līgumiem, nākotnes līgumiem, mijmaiņas līgumiem, procentu likmes nākotnes līgumiem un jebkādiem citiem atvasinātajiem līgumiem, kuri saistīti ar vērtspapīriem, valūtām, ar procentu likmēm, ienesīgumu vai citiem atvasinātajiem instrumentiem, finanšu indeksiem vai finansiāliem pasākumiem un kuru nosacījumi paredz norēķinus naudā vai citos finanšu instrumentos,
@@ -45,7 +45,7 @@ i) valūtas tirdzniecības darījumiem, kuriem piemīt šā punkta "a" vai "f" a
 8) šā panta ceturtajā daļā minēto ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšana attiecībā uz šā panta otrās daļas 4.punkta "b", "c", "d", "g" un "h" apakšpunktā minēto atvasināto instrumentu bāzes aktīvu, ja tas saistīts ar ieguldījumu pakalpojumu sniegšanu.
 (6) Šis likums neierobežo citos likumos noteiktās patērētāju tiesības.
 (7) Šā likuma C sadaļas noteikumi neattiecas uz:
-1) atvērto ieguldījumu fondu ieguldījumu apliecībām vai tām pielīdzināmiem vērtspapīriem, kas apliecina līdzdalību atvērtajos ieguldījumu fondos vai tiem pielīdzināmos kopējo ieguldījumu uzņēmumos;
+1) ieguldījumu fondu un atvērto alternatīvo ieguldījumu fondu ieguldījumu apliecībām vai tām pielīdzināmiem vērtspapīriem, kas apliecina līdzdalību šādos fondos vai tiem pielīdzināmos kopējo ieguldījumu uzņēmumos;
 2) pārvedamiem vērtspapīriem, kas nav kapitāla vērtspapīri un ko emitējusi dalībvalsts vai kāda dalībvalsts pašvaldība vai tās iestāde vai aģentūra, organizācijas, kuras ir starptautisko publisko tiesību subjekti un kurās viena vai vairākas dalībvalstis ir biedri, Eiropas Centrālā banka vai dalībvalstu centrālās bankas;
 3) akcijām dalībvalstu centrālo banku kapitālā;
 4) pārvedamiem vērtspapīriem, ko bez nosacījumiem un neatsaucami garantējusi dalībvalsts vai kāda dalībvalsts pašvaldība vai tās iestāde vai aģentūra;
@@ -65,7 +65,7 @@ d) summas, kas iegūtas no minēto bostadsobligationer emisijas, saskaņā ar st
 10) pārvedamiem vērtspapīriem, kas nav kapitāla vērtspapīri un ko nepārtraukti vai atkārtoti emitējušas bankas, ja par 12 mēnešiem aprēķinātā kopējā iegūstamā summa par publisko piedāvājumu Eiropas Savienībā ir mazāka nekā 75 000 000 euro ekvivalents latos pēc Latvijas Bankas noteiktā kursa, ar nosacījumu, ka šie pārvedamie vērtspapīri:
 a) nav pakārtoti (subordinēti), konvertējami vai aizvietojami,
 b) nedod tiesības parakstīties uz cita veida vērtspapīriem vai iegūt tos un tie nav saistīti ar atvasinātiem finanšu instrumentiem.
-(8) Šā likuma 54.panta un D sadaļas III un IV nodaļas prasības neattiecas uz atvērto ieguldījumu fondu ieguldījumu apliecībām vai tām pielīdzināmiem vērtspapīriem, kas apliecina līdzdalību atvērtajos ieguldījumu fondos vai tiem pielīdzināmos kopējo ieguldījumu uzņēmumos.
+(8) Šā likuma 54.panta un D sadaļas III un IV nodaļas prasības neattiecas uz ieguldījumu fondu un atvērto alternatīvo ieguldījumu fondu ieguldījumu apliecībām vai tām pielīdzināmiem vērtspapīriem, kas apliecina līdzdalību šādos fondos vai tiem pielīdzināmos kopējo ieguldījumu uzņēmumos.
 (9) Šā likuma 54.panta trešās, septītās, astotās un devītās daļas prasības neattiecas uz pārvedamiem vērtspapīriem, kuri ir iekļauti regulētajā tirgū un kurus emitējusi dalībvalsts vai dalībvalsts pašvaldība, tās iestāde vai aģentūra.
 (10) Šā likuma 54.panta pirmās, otrās un devītās daļas prasības neattiecas uz dalībvalstu centrālo banku emitētajām akcijām, kuras ir iekļautas regulētajā tirgū, ja lēmums par akciju iekļaušanu regulētajā tirgū pieņemts līdz 2005.gada 20.janvārim un šādu izņēmumu paredz attiecīgās dalībvalsts normatīvie akti, kas regulē centrālo banku akciju emitēšanas kārtību.
 (11) Šā likuma noteikumi bankas pārņemšanai piemērojami tiktāl, ciktāl Banku pārņemšanas likumā nav noteikts citādi.

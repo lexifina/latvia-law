@@ -2,7 +2,7 @@
 (1) Persona, kas pieņēmusi lēmumu izteikt brīvprātīgo akciju atpirkšanas piedāvājumu, vai persona, kurai saskaņā ar šā likuma noteikumiem ir pienākums izteikt obligāto akciju atpirkšanas piedāvājumu, pēc lēmuma pieņemšanas vai attiecīgo apstākļu iestāšanās nekavējoties informē par to mērķa sabiedrības valdi.
 (2) Piedāvātājs ir tiesīgs izteikt akciju atpirkšanas piedāvājumu tikai pēc tam, kad Komisija pieņēmusi lēmumu par atļauju izteikt akciju atpirkšanas piedāvājumu.
 (3) Piedāvātājs pēc tam, kad saņēmis Komisijas lēmumu par atļauju izteikt akciju atpirkšanas piedāvājumu, nekavējoties rakstveidā informē mērķa sabiedrību par piedāvājuma noteikumiem un nodrošina tās valdei iespēju iepazīties ar piedāvājuma prospektu.
-(4) Piedāvātājs piecu darbdienu laikā pēc tam, kad saņēmis Komisijas lēmumu par atļauju izteikt akciju atpirkšanas piedāvājumu, publicē laikrakstā "Latvijas Vēstnesis" šādu informāciju par akciju atpirkšanas piedāvājumu:
+(4) Piedāvātājs piecu darbdienu laikā pēc tam, kad saņēmis Komisijas lēmumu par atļauju izteikt akciju atpirkšanas piedāvājumu, publicē oficiālajā izdevumā "Latvijas Vēstnesis" šādu informāciju par akciju atpirkšanas piedāvājumu:
 1) šā likuma 71.panta 1., 2., 5. un 7.punktā minēto informāciju;
 2) vietu un laiku, kur un kad iespējams iepazīties ar akciju atpirkšanas piedāvājuma prospektu.
 (5) Piedāvātājs, kurš izsaka brīvprātīgo akciju atpirkšanas piedāvājumu saskaņā ar šā likuma 67.panta otrās daļas noteikumiem, publikācijā norāda arī minimālo vai maksimālo akciju skaitu, ko tas plāno atpirkt.

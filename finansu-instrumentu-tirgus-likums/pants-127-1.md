@@ -16,4 +16,4 @@
 (8) Ja ieguldījumu brokeru sabiedrība vai kredītiestāde ir noteikusi, ka personīgo darījumu veikšanai nepieciešama ieguldījumu brokeru sabiedrības vai kredītiestādes atļauja, tā uzglabā informāciju par personīgo darījumu veikšanai izsniegtajām atļaujām vai atteikumiem izsniegt atļauju.
 (9) Šā panta nosacījumus nepiemēro, ja:
 1) personīgais darījums ir veikts finanšu instrumentu individuālas pārvaldīšanas ietvaros un saistībā ar darījumu nav bijusi iepriekšēja saziņa starp portfeļa pārvaldītāju un šā likuma 101.panta 3.¹ daļā minēto personu vai citu personu, kuras vārdā darījums tiek veikts;
-2) personīgais darījums ir veikts ar atvērtā ieguldījumu fonda ieguldījumu apliecībām un šā likuma 101.panta 3.¹ daļā minētā persona vai cita persona, kuras vārdā darījums veikts, nav iesaistīta fonda pārvaldē.
+2) personīgais darījums ir veikts ar ieguldījumu fonda ieguldījumu apliecībām un šā likuma 101.panta 3.¹ daļā minētā persona vai cita persona, kuras vārdā darījums veikts, nav iesaistīta fonda pārvaldē.

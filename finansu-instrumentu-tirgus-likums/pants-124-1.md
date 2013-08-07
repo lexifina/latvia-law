@@ -6,6 +6,7 @@ a) kredītiestādes,
 b) ieguldījumu brokeru sabiedrības,
 c) citas licencētas vai regulētas finanšu iestādes,
 d) ieguldījumu fondi un ieguldījumu pārvaldes sabiedrības,
+d¹) alternatīvo ieguldījumu fondi un alternatīvo ieguldījumu fondu pārvaldnieki;
 e) apdrošinātāji,
 f) pensiju fondi,
 g) preču dīleri,

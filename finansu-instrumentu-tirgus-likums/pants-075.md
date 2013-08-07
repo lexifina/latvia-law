@@ -7,4 +7,4 @@
 (3) Komisija triju darbdienu laikā pēc akciju atpirkšanas piedāvājuma prospekta grozījumu saņemšanas pieņem lēmumu par atļauju vai atteikumu grozīt piedāvājuma noteikumus un par to nekavējoties informē piedāvātāju.
 (4) Par atļauju grozīt akciju atpirkšanas piedāvājuma noteikumus Komisija nekavējoties informē arī attiecīgo tirgus organizētāju un elektroniskā veidā nosūta tam akciju atpirkšanas piedāvājuma grozījumu tekstu.
 (5) Tirgus organizētājs grozījumus, kas izdarīti akciju atpirkšanas piedāvājuma prospektā, nekavējoties ievieto savā mājas lapā internetā.
-(6) Piedāvātājs ne vēlāk kā triju darbdienu laikā pēc tam, kad saņēmis Komisijas lēmumu par atļauju grozīt piedāvājuma noteikumus, publicē laikrakstā "Latvijas Vēstnesis" informāciju par grozījumiem akciju atpirkšanas piedāvājumā.
+(6) Piedāvātājs ne vēlāk kā triju darbdienu laikā pēc tam, kad saņēmis Komisijas lēmumu par atļauju grozīt piedāvājuma noteikumus, publicē oficiālajā izdevumā "Latvijas Vēstnesis" informāciju par grozījumiem akciju atpirkšanas piedāvājumā.

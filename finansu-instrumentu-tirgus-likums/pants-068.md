@@ -4,4 +4,4 @@
 1) vienā koncernā ar spēkā esošā piedāvājuma izteicēju;
 2) noslēgusi vienošanos ar spēkā esošā piedāvājuma izteicēju par kopīgu darbību attiecībā uz piedāvājumu;
 3) saņēmusi spēkā esošā piedāvājuma izteicēja pilnvarojumu balsot tā vārdā mērķa sabiedrības akcionāru sapulcē.
-(3) Konkurējošo akciju atpirkšanas piedāvājumu drīkst izteikt, ja no dienas, kad laikrakstā "Latvijas Vēstnesis" publicēts sludinājums par konkurējošo akciju atpirkšanas piedāvājumu, līdz spēkā esošā piedāvājuma termiņa beigām ir vismaz piecas darbdienas.
+(3) Konkurējošo akciju atpirkšanas piedāvājumu drīkst izteikt, ja no dienas, kad oficiālajā izdevumā "Latvijas Vēstnesis" publicēts sludinājums par konkurējošo akciju atpirkšanas piedāvājumu, līdz spēkā esošā piedāvājuma termiņa beigām ir vismaz piecas darbdienas.
