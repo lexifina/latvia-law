@@ -1,9 +1,10 @@
 30.pants. Izglītības iestādes vadītājs
 (1) Izglītības iestādes vadītājs atbild par izglītības iestādes darbību un tās rezultātiem, par šā likuma un citu izglītības iestādes darbību reglamentējošo normatīvo aktu ievērošanu, kā arī par intelektuālo, finanšu un materiālo līdzekļu racionālu izmantošanu.
 (2) Izglītības iestādes vadītājs savu pilnvaru ietvaros patstāvīgi lemj par izglītības iestādes intelektuālo, finanšu un materiālo līdzekļu izmantošanu un nosaka izglītības iestādes darbinieku darba samaksu, kas nav mazāka par Ministru kabineta noteikto darba samaksu.
-(3) Izglītības iestādes vadītājam ir pienākums nodrošināt izglītības iestādes pašpārvaldes izveidošanu.
-(3¹) Izglītības iestādes vadītājam ir pienākums nodrošināt izglītības iestādes piekļuvi bibliotekārajiem un informācijas pakalpojumiem.
+(3) Izglītības iestādes vadītājam ir pienākums nodrošināt izglītības iestādes padomes izveidošanu un darbību. Izglītības iestādes vadītājs vienu reizi mācību gadā sniedz padomei atskaiti par izglītības procesu un tā rezultātiem, kā arī par izglītības iestādes darba organizācijas apstākļiem. Šie noteikumi neattiecas uz augstskolu.
+(3¹) Izglītības iestādes vadītājam ir pienākums nodrošināt izglītības iestādes piekļuvi bibliotekārajiem, informācijas un karjeras attīstības atbalsta pakalpojumiem.
 (4) Par izglītības iestādes vadītāju ir tiesīga strādāt persona, kurai ir attiecīga izglītība un nepieciešamā profesionālā kvalifikācija. Par vispārējās pamatizglītības vai vispārējās vidējās izglītības iestādes vadītāju ir tiesīga strādāt persona, kurai ir augstākā pedagoģiskā izglītība vai augstākā un pedagoģiskā izglītība, kā arī persona ar augstāko izglītību, kura apgūst pedagoģisko izglītību.
+(4¹) Valsts un pašvaldību izglītības iestāžu (izņemot augstskolas un koledžas) vadītāju profesionālā darbība tiek novērtēta Ministru kabineta noteiktajā kārtībā. Valsts un pašvaldību izglītības iestāžu vadītāju novērtēšanas rezultāti tiek izmantoti par pamatu lēmumam par izglītības iestādes vadītāja atbilstību ieņemamajam amatam, un tos var ņemt vērā, veicot izglītības iestādes vadītāja materiālo stimulēšanu.
 (5) Izglītības iestāžu vadītāju amatu nosaukumi ir šādi:
 1) vadītājs - pirmsskolas izglītības iestādēs;
 2) direktors - pamatizglītības, vidējās izglītības iestādēs, koledžās, profesionālās ievirzes, interešu izglītības iestādēs;

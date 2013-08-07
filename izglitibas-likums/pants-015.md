@@ -13,7 +13,7 @@ Izglītības un zinātnes ministrija:
 11) izstrādā valsts izglītības standartu prasībām atbilstošus mācību priekšmetu vai kursu programmu (izņemot augstākās izglītības programmas) paraugus;
 12) izstrādā izglītības iestāžu un izglītības atbalsta iestāžu paraugnolikumus;
 13) organizē valsts pasūtījumu izglītības pamatprogrammām atbilstošu mācību līdzekļu izstrādei un izdošanai;
-14) nosaka un koordinē pedagogu izglītības ieguves un profesionālās kvalifikācijas pilnveides kārtību;
+14) nosaka un koordinē pedagogu izglītības ieguves un profesionālās kompetences pilnveides kārtību;
 15) (izslēgts ar 16.06.2009. likumu);
 16) (izslēgts ar 04.03.2010. likumu);
 17) organizē elektronisko mācību resursu un izglītības standartiem atbilstošu mācību līdzekļu izstrādi;

@@ -1,5 +1,5 @@
 33.pants. Izglītības programmas
-(1) Izglītības programma ir izglītības iestādes izglītojošo darbību reglamentējošs dokuments, ar kuru atbilstoši izglītības pakāpei, izglītības veidam, mērķgrupai un valsts izglītības standartam vai valsts pirmsskolas izglītības vadlīnijām tiek noteikti:
+(1) Izglītības programma ir izglītības iestādes vai citas šajā likumā noteiktas institūcijas izglītojošo darbību reglamentējošs dokuments, ar kuru atbilstoši izglītības pakāpei, izglītības veidam, mērķgrupai un valsts izglītības standartam vai valsts pirmsskolas izglītības vadlīnijām tiek noteikti:
 1) izglītības programmas mērķi, uzdevumi un plānotie rezultāti;
 2) prasības izglītojamo iepriekš iegūtajai izglītībai (izņemot pirmsskolas izglītības programmas);
 3) izglītības saturs kā vienots mācību priekšmetu vai kursu saturu kopums (izņemot pirmsskolas izglītības programmas);

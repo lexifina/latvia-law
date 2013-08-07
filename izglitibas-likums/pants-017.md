@@ -1,9 +1,11 @@
 17.pants. Pašvaldību kompetence izglītībā
 (1) Katras pašvaldības pienākums ir nodrošināt bērniem, kuru dzīvesvieta deklarēta pašvaldības administratīvajā teritorijā, iespēju iegūt pirmsskolas izglītību un pamatizglītību bērna dzīvesvietai tuvākajā izglītības iestādē vai tuvākajā izglītības iestādē, kas īsteno izglītības programmu valsts valodā, nodrošināt jauniešiem iespēju iegūt vidējo izglītību, kā arī nodrošināt iespēju īstenot interešu izglītību un atbalstīt ārpusstundu pasākumus, arī bērnu nometnes.
 (2) Lai nodrošinātu iespēju apmeklēt izglītības iestādi pēc brīvas izvēles bērnam, kura dzīvesvieta deklarēta pašvaldības administratīvajā teritorijā, bet kurš mācās izglītības iestādē, kas atrodas citas pašvaldības administratīvajā teritorijā, pašvaldībai atbilstoši Ministru kabineta noteiktajai kārtībai ir pienākums slēgt līgumu par piedalīšanos attiecīgās pašvaldības padotībā esošas izglītības iestādes uzturēšanas izdevumu finansēšanā.
+(2¹) Ja pašvaldība bērnam, kurš sasniedzis pusotra gada vecumu un kura dzīvesvieta deklarēta pašvaldības administratīvajā teritorijā, nenodrošina vietu pašvaldības izglītības iestādes īstenotā pirmsskolas izglītības programmā (no pusotra gada vecuma līdz pamatizglītības ieguves uzsākšanai) un bērns apgūst pirmsskolas izglītības programmu privātā izglītības iestādē, tad pašvaldība šim privātam pakalpojuma sniedzējam sedz izmaksas Ministru kabineta noteiktajā kārtībā. Izmaksas sedz apmērā, kas atbilst vienam izglītojamajam pirmsskolas izglītības programmā nepieciešamajām vidējām izmaksām attiecīgās pašvaldības izglītības iestādēs. Ja izglītojamais apgūst Publisko iepirkumu likumā noteiktajā kārtībā pašvaldības izraudzītās izglītības iestādes īstenotu pirmsskolas izglītības programmu, izmaksas sedz apmērā, kāds noteikts publiskā iepirkuma rezultātā.
+(2²) Pašvaldība nosaka vienam izglītojamajam pirmsskolas izglītības programmā nepieciešamās vidējās izmaksas attiecīgās pašvaldības izglītības iestādēs. Minētās vidējās izmaksas un to aprēķināšanas kārtību pašvaldība publisko savā mājaslapā internetā.
 (3) Republikas pilsētas pašvaldība un novada pašvaldība:
 1) saskaņojot ar Izglītības un zinātnes ministriju, dibina, reorganizē un likvidē vispārējās izglītības iestādes, tai skaitā internātskolas, speciālās izglītības iestādes un klases, kā arī pirmsskolas izglītības grupas bērniem ar speciālām vajadzībām un interešu izglītības iestādes, bet, saskaņojot ar attiecīgās nozares ministriju un Izglītības un zinātnes ministriju, dibina, reorganizē un likvidē profesionālās ievirzes izglītības iestādes;
-2) pieņem darbā un atbrīvo no darba tās padotībā esošo vispārējās izglītības iestāžu, tai skaitā internātskolu, speciālo izglītības iestāžu, interešu izglītības iestāžu, profesionālās ievirzes izglītības iestāžu sportā vadītājus, saskaņojot ar Izglītības un zinātnes ministriju, bet profesionālās ievirzes izglītības iestāžu mākslā vai kultūrā vadītājus - saskaņojot ar attiecīgās nozares ministriju;
+2) pieņem darbā un atbrīvo no darba tās padotībā esošo vispārējās izglītības iestāžu, tai skaitā internātskolu, speciālo izglītības iestāžu, profesionālās izglītības iestāžu, interešu izglītības iestāžu, profesionālās ievirzes izglītības iestāžu sportā vadītājus, saskaņojot ar Izglītības un zinātnes ministriju, bet profesionālās ievirzes izglītības iestāžu mākslā vai kultūrā vadītājus - saskaņojot ar attiecīgās nozares ministriju;
 3) nosaka kārtību, kādā tās padotībā esošās izglītības iestādes finansējamas no budžeta;
 4) uz savstarpēju līgumu pamata piedalās valsts un citu pašvaldību izglītības iestāžu finansēšanā;
 5) uz savstarpēju līgumu pamata var piedalīties privāto izglītības iestāžu finansēšanā;
@@ -16,7 +18,7 @@
 12) nodrošina izglītības ieguvi izglītojamajiem ar speciālām vajadzībām (atbilstoši veselības stāvoklim, kas ietekmē izglītības ieguves veidu) speciālās izglītības iestādēs, pirmsskolas izglītības grupās bērniem ar speciālām vajadzībām, speciālās izglītības klasēs, kā arī internātskolās Ministru kabineta noteiktajā kārtībā un apmērā;
 13) nodrošina ēdināšanu tās padotībā esošajās speciālās izglītības iestādēs, pirmsskolas izglītības grupās bērniem ar speciālām vajadzībām, speciālās izglītības klasēs un internātskolās Ministru kabineta noteiktajā kārtībā un apmērā;
 14) nodrošina transportu izglītojamo nokļūšanai izglītības iestādē un atpakaļ dzīvesvietā, ja nav iespējams izmantot sabiedrisko transportu;
-15) nodrošina bērnu un jauniešu profesionālo orientāciju un karjeras izglītību;
+15) nodrošina bērnu un jauniešu karjeras izglītību;
 16) nodrošina bērnu un jauniešu interešu izglītību, izsniedz licences interešu izglītības programmu īstenošanai;
 17) nodrošina bērnu tiesību aizsardzību izglītības jomā;
 18) sniedz konsultatīvu palīdzību ģimenēm bērnu audzināšanā;
@@ -24,7 +26,7 @@
 20) veic obligātā izglītības vecuma bērnu uzskaiti Ministru kabineta noteiktajā kārtībā;
 21) nosaka pabalstu un cita veida materiālās palīdzības apmēru un piešķiršanas kārtību izglītojamajiem tās padotībā esošās izglītības iestādēs;
 22) īsteno politiku pieaugušo izglītībā un nodrošina piešķirtā finansējuma sadali un uzraudzību pār finanšu līdzekļu izlietojumu;
-23) piedalās tās padotībā esošo izglītības iestāžu nodrošināšanā ar mācību literatūru, mācību procesam nepieciešamo cita veida literatūru un citiem mācību līdzekļiem;
+23) finansē no sava budžeta valsts pirmsskolas izglītības vadlīnijām, valsts pamatizglītības, vispārējās vidējās izglītības, profesionālās vidējās izglītības un arodizglītības standartiem atbilstošu mācību līdzekļu - papildu literatūras, uzskates līdzekļu, didaktisko spēļu, digitālo mācību līdzekļu un resursu, izdales materiālu, mācību tehnisko līdzekļu, mācību materiālu, iekārtu un aprīkojuma - iegādi tās padotībā esošām izglītības iestādēm;
 23¹) veicina iespēju izglītības iestādēm izmantot vienoto bibliotēku informācijas sistēmu;
 24) organizē pedagogu profesionālās meistarības pilnveidi, koordinē un nodrošina metodisko darbu;
 25) nosaka no pašvaldības budžeta līdzekļiem apmaksāto vietu skaitu augstākās izglītības iestādēs;

@@ -6,6 +6,6 @@
 4) pilnveidot savu profesionālo kompetenci;
 5) ievērot izglītojamā tiesības;
 6) sadarboties ar izglītojamā ģimeni izglītības jautājumos;
-7) piedalīties izglītības procesa pilnveidē un izglītības iestādes pašpārvaldē;
+7) piedalīties izglītības procesa pilnveidē un izglītības iestādes padomē;
 8) veikt citus normatīvajos aktos noteiktos pienākumus.
 (2) Izglītības iestāžu pedagogi ir atbildīgi par savu darbu, tā metodēm, paņēmieniem un rezultātiem.

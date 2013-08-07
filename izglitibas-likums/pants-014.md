@@ -7,20 +7,22 @@ Ministru kabinets:
 5) nosaka obligāto izglītības vecumu sasniegušo bērnu uzskaites kārtību;
 6) apstiprina Latvijas Nacionālās aizsardzības akadēmijas satversmi un privātpersonu dibināto augstskolu satversmes;
 7) dibina, reorganizē un likvidē valsts izglītības iestādes un valsts izglītības atbalsta iestādes pēc izglītības un zinātnes ministra vai citu ministru priekšlikuma;
-8) nosaka izglītības iestāžu reģistrācijas un akreditācijas kārtību;
+8) nosaka izglītības iestāžu un citu šajā likumā noteiktu institūciju reģistrācijas un akreditācijas kārtību;
 9) (izslēgts ar 16.06.2009. likumu);
 10) reglamentē augstskolu akreditācijas noteikumus un kārtību;
 11) nosaka izglītības programmu licencēšanas un akreditācijas kārtību;
 12) apstiprina pedagogu profesiju un amatu sarakstu;
+12¹) nosaka kārtību un kritērijus valsts un pašvaldību izglītības iestāžu (izņemot augstskolas un koledžas) vadītāju profesionālās darbības novērtēšanai;
+12²) nosaka kārtību un vērtēšanas nosacījumus valsts un pašvaldību izglītības iestāžu (izņemot augstskolas un koledžas) vadītāju un pašvaldību izglītības pārvalžu vadītāju amatu pretendentu atlasei;
 13) atbilstoši pedagogu profesijām apstiprina prasības pedagogiem nepieciešamajai izglītībai un profesionālajai kvalifikācijai;
 14) (izslēgts ar 05.07.2001. likumu);
-15) nosaka kārtību, kādā valsts organizē un finansē mācību līdzekļu izdošanu un iegādi;
+15) nosaka kārtību, kādā valsts un pašvaldības organizē un finansē mācību līdzekļu izdošanu un iegādi izglītības iestādēm;
 15¹) nosaka kārtību, kādā izvērtē un apstiprina mācību literatūras atbilstību pamatizglītības un vispārējās vidējās izglītības valsts standartam;
 16) nosaka pedagogu darba samaksas kārtību un darba samaksas lielumu;
 17) nosaka finansēšanas kārtību speciālās izglītības iestādēs un vispārējās izglītības iestāžu speciālās izglītības klasēs un internātskolās;
 18) nosaka vienotu valsts politiku un stratēģiju izglītībā un iesniedz Saeimā apstiprināšanai izglītības attīstības pamatnostādnes turpmākajiem septiņiem gadiem;
 18¹) nosaka valsts pirmsskolas izglītības vadlīnijas, kurās ietverti šo vadlīniju prasībām atbilstoši izglītības programmu paraugi;
-19) nosaka valsts izglītības standartus, kuros ietverti šo standartu prasībām atbilstoši izglītības programmu paraugi;
+19) nosaka valsts izglītības standartus, kuros ietverti šo standartu prasībām atbilstoši izglītības programmu paraugi, izņemot profesionālās izglītības programmu paraugus un akadēmiskās izglītības programmu paraugus;
 20) nosaka izglītības programmu īstenošanas izmaksu minimumu uz vienu izglītojamo;
 20¹) nosaka kārtību, kādā izglītības iestāde (izņemot augstskolas un koledžas) nodrošina bibliotekāros un informācijas pakalpojumus;
 21) nosaka kārtību, kādā nodrošināma izglītojamo profilaktiskā veselības aprūpe, pirmās palīdzības pieejamība, kā arī izglītojamo drošība izglītības iestādēs un to organizētajos pasākumos;
@@ -33,8 +35,10 @@ Ministru kabinets:
 28) nosaka institūciju, kas licencē izglītības programmas;
 29) nosaka institūciju, kas akreditē izglītības programmas un izglītības iestādes;
 30) nosaka Valsts izglītības informācijas sistēmas saturu un uzturēšanas un aktualizācijas kārtību;
-31) nosaka kārtību, kādā valsts finansē pieaugušo neformālās izglītības programmas, tālākizglītības programmas un profesionālās kvalifikācijas pilnveidi, kā arī kritērijus attiecīga finansējuma saņemšanai;
-32) nosaka pedagogu profesionālās kvalifikācijas pilnveides kārtību;
+31) nosaka kārtību, kādā valsts finansē pieaugušo neformālās izglītības programmas, tālākizglītības programmas un profesionālās kompetences pilnveidi, kā arī kritērijus attiecīga finansējuma saņemšanai;
+32) nosaka pedagogu profesionālās kompetences pilnveides kārtību;
 33) nosaka kārtību, kādā notiek valsts pārbaudījumi akreditētās izglītības programmās (izņemot augstākās izglītības programmas);
 34) nosaka atbalsta pasākumus darba devējiem darbinieku papildu izglītošanā, tai skaitā kritērijus šāda atbalsta saņemšanai un atbalsta pasākumu īstenošanas kārtību;
-35) nosaka kārtību, kādā izglītības iestāde informē izglītojamo vecākus (personas, kas realizē aizgādību), pašvaldības vai valsts iestādes, ja izglītojamais bez attaisnojoša iemesla neapmeklē izglītības iestādi.
+35) nosaka kārtību, kādā izglītības iestāde informē izglītojamo vecākus (personas, kas realizē aizgādību), pašvaldības vai valsts iestādes, ja izglītojamais bez attaisnojoša iemesla neapmeklē izglītības iestādi;
+36) nosaka kārtību, kādā pašvaldība atbilstoši tās noteiktajām vienam izglītojamajam nepieciešamajām vidējām izmaksām attiecīgās pašvaldības izglītības iestādēs sedz pirmsskolas izglītības programmas (no pusotra gada vecuma līdz pamatizglītības ieguves uzsākšanai) izmaksas privātam pakalpojuma sniedzējam šā likuma 17.panta 2.¹ daļā minētajā gadījumā;
+37) nosaka pedagogu profesionālās darbības kvalitātes novērtēšanas kārtību un kritērijus, dokumentus, ko pedagogs iesniedz viņa profesionālās darbības kvalitātes novērtēšanai, pedagoģiskā darba stāžu, kas nepieciešams attiecīgās pedagoga profesionālās darbības kvalitātes pakāpes piešķiršanai, kā arī pedagoga profesionālās darbības kvalitātes pakāpi apliecinoša dokumenta paraugu.
