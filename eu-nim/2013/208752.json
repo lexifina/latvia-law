@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2013. fada 13.augusta Ministru kabineta noteikumi Nr. 539 \"Grozījumi Ministru kabineta 2006.gada 14.marta noteikumos Nr.198 \"Noteikumi par jūras kuģu aprīkojumu\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "158",
+  "official_journal_page": null,
+  "official_journal_date": "2013-08-15",
+  "entry_into_force": "2013-08-16",
+  "notification_date": "2013-08-29",
+  "commission_reference": "MNE(2013)57590",
+  "nim_celex": "72012L0032LVA_208752",
+  "nim_id": "208752",
+  "transposes_celex": [
+    "32012L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/39e2c25e-b2d0-44f4-996f-9e256e71ebb4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
