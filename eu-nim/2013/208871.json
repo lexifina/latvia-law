@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2013.gada 27.augusta noteikumi Nr.638 \"Grozījumi Ministru kabineta 2004.gada 6.aprīļa noteikumos Nr.242 \"Noteikumi par transportlīdzekļu sastāvdaļām un materiāliem, kuri drīkst saturēt svinu, dzīvsudrabu, kadmiju un sešvērtīgā hroma savienojumus\"\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "168(4974)",
+  "official_journal_page": null,
+  "official_journal_date": "2013-08-29",
+  "entry_into_force": "2013-08-30",
+  "notification_date": "2013-09-04",
+  "commission_reference": "MNE(2013)57676",
+  "nim_celex": "72013L0028LVA_208871",
+  "nim_id": "208871",
+  "transposes_celex": [
+    "32013L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2b76a596-4553-44d3-a80f-6448ce558f18",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
