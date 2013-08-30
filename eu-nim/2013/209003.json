@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2011.gada 21.jūnija noteikumos Nr.470 \"Derīgo izrakteņu ieguves atkritumu apsaimniekošanas kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "168 (4974)",
+  "official_journal_page": null,
+  "official_journal_date": "2013-08-29",
+  "entry_into_force": "2013-08-30",
+  "notification_date": "2013-09-12",
+  "commission_reference": "MNE(2013)57770",
+  "nim_celex": "72006L0021LVA_209003",
+  "nim_id": "209003",
+  "transposes_celex": [
+    "32006L0021"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2b801c88-a23d-4340-95d2-3a0d4de44f37",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
