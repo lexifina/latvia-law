@@ -1,0 +1,1 @@
+55. Rajona (pilsētas) tiesas tiesnesis vai apgabaltiesas tiesnesis, kuram pagarināts amatā atrašanās laiks pēc tiesneša amata pildīšanas maksimālā vecuma sasniegšanas, turpina pildīt tiesneša pienākumus līdz 70 gadu vecuma sasniegšanai.

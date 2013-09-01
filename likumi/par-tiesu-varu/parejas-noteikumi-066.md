@@ -1,0 +1,1 @@
+66. Līdz Augstākās tiesas tiesu palātu darbības termiņa beigām Augstākās tiesas priekšsēdētājs Augstākās tiesas departamenta tiesneša vakances vai pagaidu prombūtnes laikā var uzdot viņu aizstāt Augstākās tiesas tiesu palātas tiesnesim.

@@ -1,0 +1,1 @@
+67. Augstākās tiesas departamenta tiesneša amatā attiecīgā departamenta tiesnešu kopsapulce pēc Augstākās tiesas priekšsēdētāja priekšlikuma var iecelt cita departamenta vai tiesu palātas tiesnesi, kurš saņēmis Tiesnešu kvalifikācijas kolēģijas pozitīvu atzinumu.

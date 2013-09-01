@@ -1,0 +1,1 @@
+70. Ministru kabinets izvērtē Augstākās tiesas Krimināllietu tiesu palātas likvidācijas ietekmi uz tiesvedību krimināllietās (nepieciešamie grozījumi normatīvajos aktos, reformas finansiālais un materiāltehniskais nodrošinājums u.tml.) un līdz 2014.gada 1.martam iesniedz Saeimai ziņojumu par to.

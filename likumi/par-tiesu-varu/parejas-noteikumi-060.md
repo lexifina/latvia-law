@@ -1,0 +1,1 @@
+60. Tik ilgi, kamēr Augstākās tiesas struktūrā ir Krimināllietu tiesu palāta, Tiesnešu kvalifikācijas kolēģijas sastāvā var būt šīs palātas tiesnesis. Tik ilgi, kamēr Augstākās tiesas struktūrā ir Civillietu tiesu palāta, Tiesnešu kvalifikācijas kolēģijas sastāvā var būt šīs palātas tiesnesis.

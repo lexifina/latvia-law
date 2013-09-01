@@ -1,0 +1,1 @@
+65. Līdz Augstākās tiesas tiesu palātu darbības termiņa beigām tiesu palātu priekšsēdētājus ievēlē Augstākās tiesas plēnums, ievērojot dzimumu vienlīdzīgas pārstāvības principu. Tiesu palātu priekšsēdētāju pilnvaru laiks ir pieci gadi.

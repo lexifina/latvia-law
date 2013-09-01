@@ -1,0 +1,1 @@
+63. Līdz attiecīgo grozījumu izdarīšanai Civilprocesa likumā apgabaltiesa ir pirmās instances tiesa tām civillietām, kuras saskaņā ar likumu ir piekritīgas apgabaltiesai. Apgabaltiesā pirmās instances sēdēs civillietas izskata tiesnesis vienpersoniski.

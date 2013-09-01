@@ -1,0 +1,1 @@
+58. Tieslietu padome līdz 2014.gada 1.maijam, pamatojoties uz Augstākās tiesas priekšsēdētāja priekšlikumu, nosaka tiesnešu kopskaitu Augstākās tiesas Administratīvo lietu departamentā, Civillietu departamentā, Krimināllietu departamentā un Civillietu tiesu palātā no 2015.gada 1.janvāra.

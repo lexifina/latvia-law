@@ -1,0 +1,1 @@
+71. Ministru kabinets izvērtē Augstākās tiesas Civillietu tiesu palātas likvidācijas ietekmi uz tiesvedību civillietās (nepieciešamie grozījumi normatīvajos aktos, reformas finansiālais un materiāltehniskais nodrošinājums u.tml.) un līdz 2015.gada 1.martam iesniedz Saeimai ziņojumu par to.

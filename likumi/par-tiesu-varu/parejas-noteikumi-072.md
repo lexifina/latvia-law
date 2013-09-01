@@ -1,0 +1,1 @@
+72. Tiesnesi, kurš līdz 2014.gada 1.janvārim iecelts vai apstiprināts par tiesas priekšsēdētāju un pēc 2014.gada 1.janvāra turpina pildīt tiesas priekšsēdētāja pienākumus, pēc šā pilnvaru termiņa izbeigšanās atkārtoti var iecelt vai apstiprināt tiesas priekšsēdētāja amatā vēl uz vienu termiņu pēc kārtas.

@@ -1,0 +1,1 @@
+57. Augstākajā tiesā papildus šā likuma 43.pantā noteiktajai struktūrai līdz 2014.gada 31.decembrim ir Augstākās tiesas Krimināllietu tiesu palāta un Augstākās tiesas Civillietu tiesu palāta, bet no 2015.gada 1.janvāra līdz 2016.gada 31.decembrim - Augstākās tiesas Civillietu tiesu palāta.
