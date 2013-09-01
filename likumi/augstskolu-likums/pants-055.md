@@ -7,7 +7,7 @@ a) konkrētās studiju programmas īstenošanas mērķi un studiju programmas no
 b) piedāvājamās izglītības saturu,
 c) studiju programmu obligātās, ierobežotās izvēles un izvēles daļas apjomus un kredītpunktu sadalījumu starp tām,
 d) izglītības kritērijus studiju rezultātu sasniegšanai un novērtēšanai, pārbaudes formas un kārtību;
-3) ietver programmas īstenošanā iesaistītā akadēmiskā personāla uzskaitījumu, tā kvalifikāciju un paredzētos pienākumus. Akadēmisko studiju programmu obligātās daļas un ierobežotās izvēles daļas īstenošanā piedalās ne mazāk kā pieci profesori un asociētie profesori kopā, kuri ir ievēlēti akadēmiskajos amatos attiecīgajā augstskolā, izņemot šā panta otrajā daļā paredzētos gadījumus;
+3) ietver programmas īstenošanā iesaistītā akadēmiskā personāla uzskaitījumu, tā kvalifikāciju un paredzētos pienākumus. Akadēmisko studiju programmu obligātās daļas un ierobežotās izvēles daļas īstenošanā piedalās ne mazāk kā pieci profesori un asociētie profesori kopā, kuri ir ievēlēti akadēmiskajos amatos attiecīgajā augstskolā, izņemot šā panta otrajā daļā paredzētos gadījumus. Doktora studiju programmas īstenošanā piedalās ne mazāk kā pieci doktori, no kuriem vismaz trīs ir Latvijas Zinātnes padomes apstiprināti eksperti attiecīgajā nozarē;
 4) ietver programmas īstenošanā iesaistīto struktūrvienību (katedru, profesoru grupu, laboratoriju, institūtu u.c.) uzskaitījumu, norādot to uzdevumus konkrētās programmas īstenošanā;
 5) ietver nepieciešamā palīgpersonāla raksturojumu, norādot tā uzdevumus;
 6) ietver programmas īstenošanai nepieciešamās materiālās bāzes raksturojumu;
