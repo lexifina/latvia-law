@@ -8,3 +8,4 @@
 5) sprieduma atzīšanā un izpildē;
 6) citos starptautiskajos līgumos paredzētajos gadījumos.
 (2) Krimināltiesiskā sadarbība ar starptautiskajām tiesām un starptautisko organizāciju izveidotajām tiesām un tribunāliem (turpmāk - starptautiskā tiesa) paredz personu nodošanu starptautiskajām tiesām, procesuālo palīdzību tām un starptautisko tiesu nolēmumu izpildi.
+(3) Ziņas par starptautiskās krimināltiesiskās sadarbības lūgumu saņemšanu, nosūtīšanu, izpildes gaitu un personām, kuras skar starptautiskās krimināltiesiskās sadarbības lūgums, reģistrē informācijas sistēmā. Ministru kabinets nosaka informācijas sistēmas uzturēšanas un izmantošanas kārtību, tajā iekļaujamo ziņu apjomu, ziņu iekļaušanas, izmantošanas un dzēšanas kārtību, ziņu glabāšanas termiņus, kā arī institūcijas, kurām piešķirama piekļuve informācijas sistēmā iekļautajām ziņām, un šīm institūcijām pieejamo ziņu apjomu.
