@@ -1,0 +1,5 @@
+69. Noteikumi attiecībā uz cigaretēm, kas marķētas ar akcīzes nodokļa markām, saistībā ar euro ieviešanu:
+1) sākot ar 2014.gada 1.janvāri Latvijas Republikā, marķējot ar akcīzes nodokļa markām un laižot brīvā apgrozībā vai nododot patēriņam cigaretes, uz akcīzes nodokļa markas norādītā maksimālā mazumtirdzniecības cena ir izsakāma euro;
+2) cigaretes, kas marķētas ar akcīzes nodokļa markām, uz kurām maksimālā mazumtirdzniecības cena norādīta latos, laist brīvā apgrozībā vai nodot patēriņam atļauts līdz 2013.gada 31.decembrim;
+3) cigaretes, kas marķētas ar akcīzes nodokļa markām, uz kurām maksimālā mazumtirdzniecības cena norādīta latos, atļauts nosūtīt, piemērojot atlikto nodokļa maksāšanu, līdz 2013.gada 15.decembrim;
+4) personai, kas saņēmusi speciālo atļauju (licenci) tabakas izstrādājumu vairumtirdzniecībai vai speciālo atļauju (licenci) tabakas izstrādājumu mazumtirdzniecībai, cigaretes, kas marķētas ar akcīzes nodokļa markām, uz kurām maksimālā mazumtirdzniecības cena norādīta latos, atļauts realizēt neierobežotu laika periodu.
