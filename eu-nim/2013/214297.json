@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2013.gada 24.septembra noteikumi Nr.905 „Valsts akciju sabiedrības \"Elektroniskie sakari\" publisko maksas pakalpojumu cenrādis”\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "188 (4994)",
+  "official_journal_page": null,
+  "official_journal_date": "2013-09-26",
+  "entry_into_force": "2013-09-27",
+  "notification_date": "2014-03-14",
+  "commission_reference": "MNE(2014)51744",
+  "nim_celex": "72002L0020LVA_214297",
+  "nim_id": "214297",
+  "transposes_celex": [
+    "32002L0020"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/92c2ee08-ae71-44dc-8d93-f2f1c966148d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
