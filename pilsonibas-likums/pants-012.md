@@ -1,15 +1,14 @@
-12. pants. Naturalizācijas vispārīgie noteikumi
-(1) Naturalizācijas kārtībā Latvijas pilsonībā var uzņemt vienīgi personas, kuras ir reģistrētas Iedzīvotāju reģistrā un:
-1) kurām naturalizācijas iesnieguma iesniegšanas dienā pastāvīgā dzīvesvieta ne mazāk kā piecus gadus ir bijusi Latvijā, skaitot no 1990. gada 4. maija (personām, kuras ieradušās Latvijā pēc 1992. gada 1. jūlija, piecu gadu termiņš tiek skaitīts no pastāvīgās uzturēšanās atļaujas saņemšanas brīža);
-2) kuras prot latviešu valodu;
-3) kuras zina Latvijas Republikas Satversmes un konstitucionālā likuma "Cilvēka un pilsoņa tiesības un pienākumi" pamatnoteikumus;
-4) kuras zina valsts himnas tekstu un Latvijas vēsturi;
-5) kurām ir legāls iztikas avots;
-6) kuras ir devušas solījumu par uzticību Latvijas Republikai;
-7) kuras ir iesniegušas paziņojumu par atteikšanos no savas iepriekšējās pilsonības (pavalstniecības) un ir saņēmušas iepriekšējās pilsonības (pavalstniecības) valsts ekspatriācijas atļauju, ja tādu paredz šīs valsts likumi, vai pilsonības (pavalstniecības) zaudēšanu apliecinošu dokumentu, bet bijušās PSRS pilsoņi, kuri 1990. gada 4. maijā pastāvīgi dzīvoja Latvijā, - apliecinājumu, ka tie nav ieguvuši citas valsts pilsonību (pavalstniecību);
-8) uz kurām neattiecas šā likuma 11. pantā minētie naturalizācijas ierobežojumi.
-(2) Naturalizācijas kārtībā Latvijas pilsonībā var uzņemt vienīgi personas, kuras atbilst visiem šā panta pirmajā daļā minētajiem nosacījumiem.
-(3) Paziņojums par atteikšanos no savas iepriekšējās pilsonības (pavalstniecības), ekspatriācijas atļauja vai pilsonības (pavalstniecības) zaudēšanu apliecinošs dokuments ir jāiesniedz pēc tam, kad personai ir oficiāli paziņots, ka citu šķēršļu tās uzņemšanai Latvijas pilsonībā nav.
-(4) Latvijas Republikas Satversmes un konstitucionālā likuma "Cilvēka un pilsoņa tiesības un pienākumi" pamatnoteikumu, valsts himnas teksta un Latvijas vēstures zināšanu pārbaudes kārtību reglamentē Ministru kabineta noteikumi.
-(5) Iesniedzot naturalizācijas iesniegumu, personai jāmaksā valsts nodeva Ministru kabineta noteiktajā apmērā.
-(6) Personas, kuru iesniegumi pilsonības jautājumos noraidīti, var tos atkārtoti iesniegt gadu pēc iepriekšējā lēmuma pieņemšanas.
+12.pants. Naturalizācijas noteikumi
+(1) Naturalizācijas kārtībā Latvijas pilsonībā var uzņemt vienīgi personu:
+1) kurai naturalizācijas iesnieguma iesniegšanas dienā pastāvīgā dzīvesvieta ne mazāk kā pēdējos piecus gadus ir bijusi Latvijā, no kuriem kopumā pieļaujams gada pārtraukums, kas nevar būt pēdējā gadā pirms naturalizācijas iesnieguma iesniegšanas dienas (citas valsts pilsonim vai bezvalstniekam piecu gadu termiņš tiek skaitīts no pastāvīgās uzturēšanās atļaujas vai pastāvīgās uzturēšanās apliecības saņemšanas dienas);
+2) kura prot latviešu valodu;
+3) kura zina Latvijas Republikas Satversmes pamatnoteikumus;
+4) kura zina valsts himnas tekstu un Latvijas vēstures un kultūras pamatus;
+5) kurai ir legāls iztikas avots;
+6) kura ir iesniegusi paziņojumu par atteikšanos no savas iepriekšējās pilsonības un saņēmusi iepriekšējās pilsonības valsts ekspatriācijas atļauju, ja tādu paredz šīs valsts likumi, vai pilsonības zaudēšanu apliecinošu dokumentu, bet nepilsonis vai bezvalstnieks - apliecinājumu, ka viņam nav citas valsts pilsonības. Šīs prasības neattiecas uz personu, kurai Latvijā piešķirts bēgļa statuss;
+7) kura ir devusi solījumu par uzticību Latvijas Republikai;
+8) uz kuru neattiecas šā likuma 11.pantā minētie naturalizācijas ierobežojumi.
+(2) Ja Latvijas pilsonībā uzņem Eiropas Savienības dalībvalsts, Eiropas Brīvās tirdzniecības asociācijas dalībvalsts, Ziemeļatlantijas līguma organizācijas dalībvalsts pilsoni, Austrālijas Savienības, Brazīlijas Federatīvās Republikas, Jaunzēlandes pilsoni vai tādas valsts pilsoni, ar kuru Latvijas Republika noslēgusi līgumu par dubultās pilsonības atzīšanu, tad viņš ir tiesīgs saglabāt attiecīgās valsts pilsonību.
+(3) Uz šā panta otrajā daļā minēto personu neattiecas šā likuma 11.panta pirmās daļas 2.punkta nosacījumi, ja tā dien Eiropas Savienības dalībvalsts, Eiropas Brīvās tirdzniecības asociācijas dalībvalsts, Ziemeļatlantijas līguma organizācijas dalībvalsts, Austrālijas Savienības, Brazīlijas Federatīvās Republikas, Jaunzēlandes valsts bruņotajos spēkos vai militārā organizācijā vai tādas valsts bruņotajos spēkos vai militārā organizācijā, ar kuru Latvijas Republika noslēgusi līgumu par dubultās pilsonības atzīšanu.
+(4) Paziņojumu par atteikšanos no savas iepriekšējās pilsonības un ekspatriācijas atļauju vai pilsonības zaudēšanu apliecinošu dokumentu persona iesniedz pēc tam, kad tai oficiāli paziņots, ka nav citu šķēršļu tās uzņemšanai Latvijas pilsonībā, un pēc tam, kad šī persona devusi solījumu par uzticību Latvijas Republikai, Ministru kabinets lemj par tās uzņemšanu Latvijas pilsonībā.
+(5) Iesniedzot naturalizācijas iesniegumu, persona maksā valsts nodevu. Ministru kabinets nosaka valsts nodevas apmēru, samaksas kārtību un atvieglojumus.

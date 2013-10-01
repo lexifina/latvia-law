@@ -1,6 +1,12 @@
 24.pants. Latvijas pilsonības atņemšana
-(1) Latvijas pilsonību var atņemt ar apgabaltiesas lēmumu, ja persona:
-1) ieguvusi citas valsts pilsonību (pavalstniecību), neiesniedzot iesniegumu par atteikšanos no Latvijas pilsonības;
-2) bez Ministru kabineta atļaujas dien kādas ārvalsts bruņotajos spēkos, iekšējā karaspēkā, drošības dienestā, policijā (milicijā) vai ir tieslietu institūciju dienestā;
-3) apliecinot savu piederību pie Latvijas pilsonības vai naturalizējoties, ir sniegusi par sevi apzināti nepatiesas ziņas un tādējādi nepamatoti ieguvusi Latvijas pilsonību;
-(2) Latvijas pilsonības atņemšana neskar šīs personas laulātā, bērnu vai citu ģimenes locekļu pilsonību.
+(1) Latvijas pilsonību personai atņem, ja tā:
+1) ieguvusi citas valsts pilsonību, neiesniedzot šā likuma 23.panta otrajā un trešajā daļā minēto iesniegumu par atteikšanos no Latvijas pilsonības, un nav zaudējusi Latvijas pilsonību, ja Latvijas pilsonības atņemšanas gadījumā persona nekļūst par bezvalstnieku;
+2) bez Ministru kabineta atļaujas brīvprātīgi dien kādas citas valsts bruņotajos spēkos vai militārā organizācijā, izņemot gadījumu, kad persona dien Eiropas Savienības dalībvalsts, Eiropas Brīvās tirdzniecības asociācijas dalībvalsts, Ziemeļatlantijas līguma organizācijas dalībvalsts, Austrālijas Savienības, Brazīlijas Federatīvās Republikas, Jaunzēlandes valsts bruņotajos spēkos vai militārā organizācijā vai tādas valsts bruņotajos spēkos vai militārā organizācijā, ar kuru Latvijas Republika noslēgusi līgumu par dubultās pilsonības atzīšanu, un Latvijas pilsonības atņemšanas gadījumā persona nekļūst par bezvalstnieku;
+3) apliecinot piederību pie Latvijas pilsonības vai naturalizējoties apzināti sniegusi nepatiesas ziņas vai noklusējusi faktus, kas attiecas uz Latvijas pilsonības iegūšanas vai atjaunošanas nosacījumiem;
+4) veikusi darbību, kas vērsta uz vardarbīgu Latvijas Republikas valsts varas gāšanu, publiski aicinājusi vardarbīgi gāzt Latvijas Republikas Satversmē nostiprināto valsts varu vai vardarbīgi grozīt valsts iekārtu, publiski aicinājusi veikt vai veikusi organizatoriskas darbības, kas vērstas uz Latvijas Republikas valstiskās neatkarības likvidēšanu, tas konstatēts ar tiesas spriedumu un Latvijas pilsonības atņemšanas gadījumā šī persona nekļūst par bezvalstnieku.
+(2) Latvijas pilsonības atņemšana personai neskar tās laulātā, bērnu vai citu ģimenes locekļu pilsonību.
+(3) Šā panta pirmās daļas 3.punktā minētajā gadījumā lēmumu par Latvijas pilsonības atņemšanu pieņem, ja nav pagājuši vairāk kā 10 gadi no tās iegūšanas vai atjaunošanas.
+(4) Šā panta trešajā daļā minētais 10 gadu termiņš neattiecas uz gadījumiem, kad:
+1) persona bijusi notiesāta par kādu no Romas Starptautiskās krimināltiesas Statūtu 5.pantā minētajiem starptautiskajiem noziegumiem;
+2) personai ir šā likuma 9.panta pirmās daļas 1., 2., 3. un 4.punktā neminētas valsts pilsonība.
+(5) Ministru kabinets nosaka atbildīgo institūciju un kārtību, kādā tā personai atņem Latvijas pilsonību. Persona, kurai Latvijas pilsonība atņemta ar atbildīgās institūcijas priekšnieka pilnvarotas amatpersonas lēmumu, to var apstrīdēt, iesniedzot attiecīgu iesniegumu atbildīgās institūcijas priekšniekam. Institūcijas priekšnieka lēmumu personai ir tiesības pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā.

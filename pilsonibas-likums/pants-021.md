@@ -1,4 +1,10 @@
-21. pants. Zināšanu pārbaudes atvieglojumi
-(1) No latviešu valodas prasmes pārbaudes ir atbrīvojamas personas, kas ieguvušas pamata, vidējo vai augstāko izglītību latviešu mācībvalodas izglītības iestādēs.
-(2) Ministru kabinets nosaka īpašu zināšanu pārbaudes kārtību personām, kurām ir piešķirta invaliditāte.
-(3) Uz personām, kuras sasniegušas 65 gadu vecumu, neattiecas šā likuma 20. panta 4. punkta noteikumi.
+21.pants. Latviešu valodas prasmes un Latvijas Republikas Satversmes pamatnoteikumu, valsts himnas teksta, Latvijas vēstures un kultūras pamatu zināšanas pārbaudes atvieglojumi un atbrīvojumi no šīs pārbaudes
+(1) No latviešu valodas prasmes un Latvijas Republikas Satversmes pamatnoteikumu, valsts himnas teksta, Latvijas vēstures un kultūras pamatu zināšanas pārbaudes atbrīvo:
+1) personu ar I grupas invaliditāti, personu ar II grupas invaliditāti, kas noteikta progresējošas psihiskas slimības dēļ, personu ar II vai III grupas invaliditāti, kas noteikta kurlmēmuma vai abpusēja kurluma dēļ, kā arī bērnu, kuram ir noteikta invaliditāte;
+2) personu, kura ieguvusi pamatizglītību latviešu valodā, apgūstot tajā vairāk nekā pusi no pamatizglītības programmas.
+(2) No latviešu valodas prasmes pārbaudes atbrīvo personu, kura ne agrāk kā piecus gadus pirms tam, kad iesniegts iesniegums par Latvijas pilsonības iegūšanu, ir apliecinājusi latviešu valodas prasmi:
+1) līdz 2011.gada 31.augustam centralizētajā eksāmenā latviešu valodā (akreditētā izglītības programmā 9.klasei) vai centralizētajā eksāmenā latviešu valodā un literatūrā (akreditētā izglītības programmā 12.klasei) un to nokārtojusi atbilstoši A, B, C vai D līmenim;
+2) pēc 2011.gada 31.augusta centralizētajā eksāmenā latviešu valodā (akreditētā izglītības programmā 9.klasei), iegūstot tajā kopējo procentuālo novērtējumu, kas nav mazāks par 50 procentiem, vai centralizētajā eksāmenā latviešu valodā (akreditētā izglītības programmā 12.klasei), iegūstot tajā kopējo procentuālo novērtējumu, kas nav mazāks par 20 procentiem;
+3) ar dokumentu, kas apliecina augstākās izglītības studiju programmas apguvi latviešu mācību valodā.
+(3) Uz šā likuma 2.panta pirmās daļas 3.punktā minēto personu un personu, kura sasniegusi 65 gadu vecumu, neattiecas šā likuma 20.panta 4.punkta noteikumi.
+(4) Kārtību, kādā latviešu valodas prasmi un Latvijas Republikas Satversmes pamatnoteikumu, valsts himnas teksta, Latvijas vēstures un kultūras pamatu zināšanu apliecina šā panta trešajā daļā minētā persona un persona ar invaliditāti, kā arī latviešu valodas prasmes un Latvijas Republikas Satversmes pamatnoteikumu, valsts himnas teksta, Latvijas vēstures un kultūras pamatu zināšanas pārbaudes atvieglojumus šā panta trešajā daļā minētajai personai un personai ar invaliditāti nosaka Ministru kabinets.

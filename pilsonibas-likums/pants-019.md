@@ -1,2 +1,2 @@
-19. pants. Latviešu valodas prasmes pārbaude
-Latviešu valodas prasmi pārbauda Ministru kabineta noteiktajā kārtībā.
+19.pants. Latviešu valodas prasmes un Latvijas Republikas Satversmes pamatnoteikumu, valsts himnas teksta, Latvijas vēstures un kultūras pamatu zināšanas pārbaudes kārtība
+Latviešu valodas prasmes un Latvijas Republikas Satversmes pamatnoteikumu, valsts himnas teksta, Latvijas vēstures un kultūras pamatu zināšanas pārbaudes kārtību nosaka Ministru kabinets.

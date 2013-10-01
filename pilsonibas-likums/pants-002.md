@@ -1,10 +1,16 @@
-2. pants. Piederība pie Latvijas pilsonības
-Latvijas pilsoņi ir:
-1) personas, kuras bija Latvijas pilsoņi 1940. gada 17. jūnijā, kā arī šo personu pēcnācēji, kas reģistrējušies likumā noteiktajā kārtībā, izņemot personas, kuras pēc 1990. gada 4. maija ieguvušas citas valsts pilsonību (pavalstniecību);
-1¹) latvieši un līvi, kuru pastāvīgā dzīvesvieta ir Latvijā, kuri reģistrējušies likumā noteiktajā kārtībā un kuriem nav citas valsts pilsonības (pavalstniecības) vai kuri ir saņēmuši iepriekšējās pilsonības (pavalstniecības) valsts ekspatriācijas atļauju, ja tādu paredz šīs valsts likumi;
-1²) sievietes, kuru pastāvīgā dzīvesvieta ir Latvijā un kuras saskaņā ar Latvijas Republikas 1919. gada 23. augusta "Likuma par pavalstniecību" 7. pantu bija zaudējušas Latvijas pavalstniecību, un viņu pēcnācēji, ja šīs personas reģistrējušās likumā noteiktajā kārtībā, izņemot personas, kuras pēc 1990. gada 4. maija ieguvušas citas valsts pilsonību (pavalstniecību);
-1³) personas, kuru pastāvīgā dzīvesvieta ir Latvijā, kuras reģistrējušās likumā noteiktajā kārtībā un apguvušas pilnu mācību kursu latviešu mācībvalodas vispārizglītojošās skolās vai divplūsmu vispārizglītojošo skolu latviešu plūsmā, iegūstot šajās skolās pamatizglītību vai vispārējo vidējo izglītību, ja šīm personām nav citas valsts pilsonības (pavalstniecības) vai tās ir saņēmušas iepriekšējās pilsonības (pavalstniecības) valsts ekspatriācijas atļauju, ja tādu paredz šīs valsts likumi. Pilsonību vienlaikus ar šādu personu iegūst arī tās nepilngadīgie bērni līdz 15 gadu vecumam, kuri pastāvīgi dzīvo Latvijā;
-2) personas, kuras naturalizējušās vai citādi ieguvušas Latvijas pilsonību likumā noteiktajā kārtībā;
-3) bērni, kuri atrasti Latvijas teritorijā un kuru vecāki nav zināmi;
-4) bērni, kuriem nav vecāku un kuri dzīvo Latvijas bērnunamā vai internātskolā;
-5) bērni, kuriem viņu dzimšanas brīdī abi vecāki ir Latvijas pilsoņi, neatkarīgi no bērnu dzimšanas vietas.
+2.pants. Piederība pie Latvijas pilsonības
+(1) Latvijas pilsonis ir:
+1) persona, kura bija Latvijas pilsonis 1940.gada 17.jūnijā, kā arī šīs personas pēcnācējs, ja šī persona vai tās pēcnācējs likumā noteiktajā kārtībā līdz 2013.gada 1.oktobrim reģistrējās par Latvijas pilsoni vai tiem bija tiesības reģistrēties par Latvijas pilsoni atbilstoši šā likuma 2.panta 1.punktam redakcijā, kāda bija spēkā līdz 2013.gada 1.oktobrim;
+2) persona, kuras dzimšanas brīdī abi tās vecāki ir Latvijas pilsoņi vai viens no viņiem ir Latvijas pilsonis, ja ievēroti šā likuma 9.panta otrās vai piektās daļas nosacījumi;
+3) latvietis vai līvs, kurš Latvijā apliecinājis visus šādus nosacījumus:
+a) ka viņa priekštecis 1881.gadā vai vēlāk pastāvīgi dzīvoja Latvijas teritorijā, kāda tā pastāvēja līdz 1940.gada 17.jūnijam,
+b) savu latviešu valodas prasmi saskaņā ar šā likuma 20.pantu vai no latviešu valodas prasmes pārbaudes ir atbrīvots saskaņā ar šā likuma 21.pantu,
+c) savu piederību pie valstsnācijas (latviešiem) vai autohtoniem (līviem), iesniedzot dokumentāru apstiprinājumu tam, ka viņš vai vismaz viens no viņa vecākiem vai vecvecākiem ir piederīgs pie valstsnācijas vai autohtoniem, vai arī paskaidrojumu tam, kādēļ šādu apstiprinājumu nav iespējams iesniegt, un minētā apstiprinājuma vietā iesniedzis citus apliecinājumus. Šo apstiprinājumu var aizstāt ar apliecinājumu par piederību pie latviešu kopienas savā dzīvesvietā ārpus Latvijas;
+4) sieviete, kuras pastāvīgā dzīvesvieta ir Latvijā un kura saskaņā ar 1919.gada 23.augusta Likuma par pavalstniecību 7.pantu bija zaudējusi Latvijas pavalstniecību, un viņas pēcnācējs, ja viņa vai viņš reģistrējies likumā noteiktajā kārtībā, ievērojot šā likuma 9.panta otrās daļas nosacījumus;
+5) bērns, kurš atrasts Latvijas teritorijā un kura vecāki nav zināmi, vai cits bez vecāku gādības palicis bērns, kurš Latvijā atrodas ārpusģimenes aprūpē, izņemot bērnu, kura vecākiem ir pārtrauktas aizgādības tiesības;
+6) bārenis, kurš Latvijā atrodas ārpusģimenes aprūpē.
+(2) Gribu reģistrēt bērnu par Latvijas pilsoni saskaņā ar šā panta pirmo daļu pauž:
+1) bērna likumiskais pārstāvis, ja bērns vēl nav sasniedzis 15 gadu vecumu;
+2) pats bērns vecumā no 15 līdz 18 gadiem.
+(3) Latvijas pilsonību vienlaikus ar šā panta pirmās daļas 2. vai 3.punktā minēto personu var iegūt arī šīs personas bērns līdz 15 gadu vecuma sasniegšanai.
+(4) Ministru kabinets nosaka atbildīgo institūciju un kārtību, kādā tā izskata iesniegumus un reģistrē personu par Latvijas pilsoni saskaņā ar šā panta nosacījumiem. Šā panta pirmās daļas 3.punktā minētās personas iesniegumu izskata gada laikā.

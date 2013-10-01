@@ -1,0 +1,1 @@
+12. Persona, kura saskaņā ar šā likuma 21.panta pirmās daļas redakciju, kāda bija spēkā no 1998.gada 10.novembra līdz 2013.gada 1.oktobrim, ieguvusi augstāko izglītību latviešu mācībvalodas izglītības iestādē, līdz 2015.gada 1.oktobrim saglabā tiesības uz atbrīvojumu no latviešu valodas prasmes pārbaudes.

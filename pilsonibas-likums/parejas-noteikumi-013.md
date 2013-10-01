@@ -1,0 +1,1 @@
+13. Šā likuma 23.panta trešajā daļā minētās personas, kuras 25 gadu vecumu sasniegušas līdz 2013.gada 1.oktobrim, triju gadu laikā no šā datuma iesniedz iesniegumu par atteikšanos no Latvijas pilsonības.

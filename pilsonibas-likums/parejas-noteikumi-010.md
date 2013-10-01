@@ -1,0 +1,1 @@
+10. Persona, kurai bija tiesības reģistrēties par Latvijas pilsoni saskaņā ar šā likuma 2.panta 1.³ punkta redakciju, kāda bija spēkā no 1998.gada 10.novembra līdz 2013.gada 1.oktobrim, bet kura nav reģistrējusies par Latvijas pilsoni, saglabā tiesības reģistrēties par Latvijas pilsoni līdz 2015.gada 1.oktobrim.

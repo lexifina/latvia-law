@@ -1,6 +1,7 @@
-23. pants. Atteikšanās no Latvijas pilsonības
-(1) Katrai personai, kurai ir citas valsts pilsonība (pavalstniecība) vai kurai citas valsts pilsonība (pavalstniecība) tiek garantēta, ir tiesības atteikties no Latvijas pilsonības.
-(2) Atteikšanās iesniegumu var noraidīt, ja:
-1) personai ir neizpildītas saistības pret valsti;
-2) persona nav izpildījusi obligātā aktīvā militārā dienesta pienākumus.
-(3) Lēmumu par atteikšanās iesnieguma noraidījumu var pārsūdzēt tiesā.
+23.pants. Atteikšanās no Latvijas pilsonības
+(1) Latvijas pilsonim, kurš ir arī citas valsts pilsonis vai kuram citas valsts pilsonība tiek garantēta, ir tiesības atteikties no Latvijas pilsonības.
+(2) Latvijas pilsonim, kurš ir ieguvis citas valsts pilsonību, ir pienākums 30 dienu laikā pēc tās iegūšanas iesniegt iesniegumu par atteikšanos no Latvijas pilsonības. Šis pienākums neattiecas uz Latvijas pilsoni, kuram saskaņā ar šā likuma 9.panta pirmo daļu Latvijas pilsonība saglabājas.
+(3) Latvijas pilsonis, kuram līdz pilngadības sasniegšanai ir izveidojusies dubultā pilsonība un kurš vēlas saglabāt citas valsts pilsonību, pēc pilngadības sasniegšanas līdz 25 gadu vecumam iesniedz iesniegumu par atteikšanos no Latvijas pilsonības. Šis pienākums neattiecas uz Latvijas pilsoni, kuram saskaņā ar šā likuma 8.¹ pantu var izveidoties dubultā pilsonība vai saskaņā ar šā likuma 9.panta pirmo daļu Latvijas pilsonība saglabājas.
+(4) Iesniegumu par atteikšanos no Latvijas pilsonības var noraidīt, ja Latvijas pilsonis nav izpildījis nodokļu vai kādu citu maksājumu saistības pret Latvijas valsti.
+(5) Iesniedzot iesniegumu par atteikšanos no Latvijas pilsonības, persona maksā valsts nodevu. Ministru kabinets nosaka atbildīgo institūciju un kārtību, kādā tā izskata atteikšanās iesniegumus, valsts nodevas apmēru, samaksas kārtību, atvieglojumus, kā arī šā panta ceturtajā daļā minēto saistību saturu.
+(6) Personu, kura iesniegusi iesniegumu par atteikšanos no Latvijas pilsonības saskaņā ar šā panta pirmo, otro un trešo daļu un zaudējusi Latvijas pilsonību, var uzņemt Latvijas pilsonībā tikai naturalizācijas kārtībā.
