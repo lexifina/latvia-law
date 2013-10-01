@@ -1,0 +1,1 @@
+16.² Piešķirot invaliditātes pensiju no jauna saskaņā ar šo pārejas noteikumu 16.¹ punktu, pie tās piešķir piemaksu par apdrošināšanas stāžu līdz 1995.gada 31.decembrim atbilstoši šo pārejas noteikumu 41.punktam.
