@@ -1,0 +1,1 @@
+25. Grozījumi šā likuma 42.pantā, kas attiecas uz prokurora atstādināšanu no amata, pēc to spēkā stāšanās piemērojami arī prokuroram, kurš atstādināts no amata pirms šā likuma 42.panta grozījumu spēkā stāšanās.

@@ -1,7 +1,7 @@
 16. pants. Personu un valsts tiesību un likumīgo interešu aizsardzība
 (1) Prokurors, saņēmis informāciju par likuma pārkāpumu, likumā noteiktajā kārtībā izdara pārbaudi, ja:
 1) informācijā ir ziņas par noziegumu;
-2) ir pārkāptas rīcības nespējīgo, ierobežoti rīcībspējīgo, invalīdu, nepilngadīgo, ieslodzīto vai citu tādu personu tiesības un likumīgās intereses, kurām ir ierobežotas iespējas aizstāvēt savas tiesības.
+2) ir pārkāptas ierobežoti rīcībspējīgo, invalīdu, nepilngadīgo, ieslodzīto vai citu tādu personu tiesības un likumīgās intereses, kurām ir ierobežotas iespējas aizstāvēt savas tiesības.
 (2) Prokuroram ir pienākums veikt nepieciešamos pasākumus personu un valsts tiesību un likumīgo interešu aizsardzībai, ja:
 1) ģenerālprokurors vai virsprokurori atzīst šādas pārbaudes nepieciešamību;
 2) faktus par likuma pārkāpumu uzdod pārbaudīt Valsts prezidents, Saeima vai Ministru kabinets;

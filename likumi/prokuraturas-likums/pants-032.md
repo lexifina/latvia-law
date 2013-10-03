@@ -7,7 +7,7 @@
 4) valsts tieslietu padomnieka amata pakāpi - pēc pieciem prokurora amatā vecākā tieslietu padomnieka amata pakāpē nostrādātiem gadiem;
 5) vecākā valsts tieslietu padomnieka amata pakāpi - pēc pieciem prokurora amatā valsts tieslietu padomnieka amata pakāpē nostrādātiem gadiem vai apstiprinot ģenerālprokurora amatā.
 (3) Atsevišķos gadījumos prokuroram var piešķirt augstāku amata pakāpi, ja viņš iepriekšējā amata pakāpē ir nostrādājis divas trešdaļas no šā panta otrajā daļā norādītā termiņa un nokārtojis nākamās amata pakāpes kvalifikācijas eksāmenu.
-(4) Ja prokurors pāriet no augstākas prokuratūras iestādes uz zemāka līmeņa prokuratūras iestādi vai no augstāka prokurora amata zemākā prokurora amatā, viņam piešķirtā amata pakāpe tiek saglabāta.
+(4) Ja prokurors pāriet no augstākas prokuratūras struktūrvienības uz zemāka līmeņa prokuratūras struktūrvienību vai no augstāka prokurora amata zemākā prokurora amatā, viņam piešķirtā amata pakāpe tiek saglabāta.
 (5) Vecākā valsts tieslietu padomnieka amata pakāpi ģenerālprokuroram piešķir Saeima, apstiprinot viņu amatā. Citiem prokuroriem amata pakāpes piešķir ģenerālprokurors pēc atestācijas komisijas ieteikuma.
 (6) Atkarībā no ieņemamā amata piešķiramās amata pakāpes augstākā robeža var būt šāda:
 1) ģenerālprokurors, Ģenerālprokuratūras departamenta virsprokurors - vecākais valsts tieslietu padomnieks;

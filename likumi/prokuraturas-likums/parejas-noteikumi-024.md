@@ -1,0 +1,1 @@
+24. Papildus šā likuma 24.panta trešajā daļā noteiktajam līdz 2014.gada 31.decembrim Ģenerālprokuratūras prokuroriem ir tiesības veikt prokurora funkcijas arī Augstākās tiesas Krimināllietu tiesu palātas un Augstākās tiesas Civillietu tiesu palātas sēdēs, bet no 2015.gada 1.janvāra līdz 2016.gada 31.decembrim - Augstākās tiesas Civillietu tiesu palātas sēdēs.
