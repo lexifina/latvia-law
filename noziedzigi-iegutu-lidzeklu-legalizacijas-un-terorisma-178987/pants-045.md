@@ -1,6 +1,6 @@
 45.pants. Likuma subjektu uzraudzības un kontroles institūcijas
 (1) Likuma subjektus šā likuma prasību izpildē uzrauga un kontrolē šādas institūcijas:
-1) kredītiestādes, elektroniskās naudas iestādes, apdrošināšanas sabiedrības, kas veic dzīvības apdrošināšanu, privātos pensiju fondus, apdrošināšanas starpniekus, kas sniedz dzīvības apdrošināšanas pakalpojumus, ieguldījumu brokeru sabiedrības, ieguldījumu pārvaldes sabiedrības un maksājumu iestādes - Finanšu un kapitāla tirgus komisija;
+1) kredītiestādes, elektroniskās naudas iestādes, apdrošināšanas sabiedrības, kas veic dzīvības apdrošināšanu, privātos pensiju fondus, apdrošināšanas starpniekus, kas sniedz dzīvības apdrošināšanas pakalpojumus, ieguldījumu brokeru sabiedrības, alternatīvo ieguldījumu fondu pārvaldniekus, ieguldījumu pārvaldes sabiedrības un maksājumu iestādes - Finanšu un kapitāla tirgus komisija;
 2) zvērinātus advokātus - Latvijas Zvērinātu advokātu padome;
 3) zvērinātus notārus - Latvijas Zvērinātu notāru padome;
 4) zvērinātus revidentus un zvērinātu revidentu komercsabiedrības - Latvijas Zvērinātu revidentu asociācija;

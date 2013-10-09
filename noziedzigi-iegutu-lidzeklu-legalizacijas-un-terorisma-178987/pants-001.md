@@ -19,6 +19,7 @@ e) kapitālsabiedrība, kas nodarbojas ar ārvalstu valūtas skaidrās naudas pi
 f) maksājumu iestāde,
 g) cits maksājumu pakalpojumu sniedzējs,
 h) elektroniskās naudas iestāde;
+i) alternatīvo ieguldījumu fondu pārvaldnieks;
 8) juridisks veidojums - juridiskā persona vai personu apvienība, kurai ir patstāvīga tiesībspēja un rīcībspēja;
 9) ārpakalpojuma grāmatvedis - persona, kura, pamatojoties uz rakstveida līgumu ar klientu, izņemot darba līgumu, apņemas sniegt vai sniedz klientam grāmatvedības pakalpojumus;
 10) juridiska veidojuma dibināšanas un darbības nodrošināšanas pakalpojumu sniedzējs - juridiskā vai fiziskā persona, kurai ir darījuma attiecības ar klientu un kura sniedz šādus pakalpojumus:

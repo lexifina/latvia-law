@@ -1,11 +1,12 @@
 26.pants. Vienkāršota klientu izpēte
 (1) Šā likuma subjekts ir tiesīgs veikt vienkāršoto klienta izpēti gadījumos, kad klients ir:
-1) Latvijas Republikā vai dalībvalstī reģistrēta kredītiestāde vai finanšu iestāde, izņemot kapitālsabiedrības, kas nodarbojas ar ārvalstu valūtas skaidras naudas pirkšanu un pārdošanu, un maksājumu iestādes;
-2) kredītiestāde vai finanšu iestāde (izņemot kapitālsabiedrības, kas nodarbojas ar skaidras naudas pirkšanu vai pārdošanu, un naudas pārvedumu un pārskaitījumu pakalpojumu sniedzējus), kas reģistrēta trešajā valstī, kuras attiecīgie normatīvie akti noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas jomā paredz prasības, kas ir līdzvērtīgas Eiropas Savienības tiesību aktu prasībām;
+1) Latvijas Republikā vai dalībvalstī reģistrēta kredītiestāde vai finanšu iestāde, izņemot kapitālsabiedrības, kas nodarbojas ar ārvalstu valūtas skaidras naudas pirkšanu un pārdošanu;
+2) kredītiestāde vai finanšu iestāde (izņemot kapitālsabiedrības, kas nodarbojas ar skaidras naudas pirkšanu vai pārdošanu), kas reģistrēta trešajā valstī, kuras attiecīgie normatīvie akti noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas jomā paredz prasības, kas ir līdzvērtīgas Eiropas Savienības tiesību aktu prasībām;
 3) Latvijas Republika, atvasināta publiska persona, Latvijas Republikas iestāde vai pastarpinātās pārvaldes iestāde, vai valsts vai pašvaldības kontrolēta kapitālsabiedrība, kuru raksturo zems noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas risks;
 4) komersants, kura akcijas ir iekļautas regulētā tirgū vienā vai vairākās dalībvalstīs vai regulētā tirgū trešajā valstī, ja uz komersantu attiecināmas informācijas atklāšanas prasības, kas ir līdzvērtīgas Eiropas Savienības tiesību aktu prasībām;
 5) persona, kuras vārdā darbojas notārs vai cits neatkarīgs juridisko pakalpojumu sniedzējs no dalībvalsts vai trešās valsts, kuras attiecīgie normatīvie akti noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas jomā paredz prasības, kas ir līdzvērtīgas Eiropas Savienības tiesību aktu prasībām, ja šo personu pārrauga attiecībā uz minēto prasību izpildi un ja informācija par šo personu ir pieejama pēc tā likuma subjekta pieprasījuma, ar kuru tiek uzsāktas darījuma attiecības;
 6) cita persona, kuru raksturo zems noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas risks.
+(1¹) Likuma subjekts šajā pantā minētajos gadījumos, ja pastāv zems noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas risks, ir tiesīgs veikt vienkāršoto klienta izpēti, izdarot šā likuma 12., 13. un 14.pantā minētās klienta identifikācijas darbības un šā likuma 17.pantā minētos klienta izpētes pasākumus darījumu attiecību raksturam un noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas riska līmenim atbilstošā apmērā.
 (2) Šā panta pirmās daļas 3. un 6.punktā minētais klients uzskatāms par tādu, kuru raksturo zems noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas risks, ja šis klients atbilst visiem turpmāk minētajiem kritērijiem:
 1) klients ir pildījis valsts pārvaldes uzdevumus saskaņā ar Eiropas Savienības tiesību aktiem;
 2) klientu identificējošā informācija ir publiski pieejama, pārredzama un droša;
@@ -16,6 +17,23 @@
 2) klientu identificējošā informācija ir publiski pieejama, pārredzama un droša;
 3) persona, kas sniedz finanšu pakalpojumus, ir saņēmusi licenci (atļauju) finanšu pakalpojumu sniegšanai;
 4) persona ir pakļauta valsts kompetento iestāžu pārraudzībai attiecībā uz tās darbību atbilstību normatīvajiem aktiem.
+(3¹) Likuma subjekts ir tiesīgs veikt vienkāršoto klienta izpēti, sniedzot pakalpojumus, kas atbilst visām šādām pazīmēm:
+1) darījuma pamatā ir rakstveida līgums;
+2) darījums tiek veikts, izmantojot bankas kontu, ko atvērusi kredītiestāde, kas reģistrēta dalībvalstī vai tādā trešajā valstī, kuras attiecīgie normatīvie akti noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas jomā paredz prasības, kas ir līdzvērtīgas Eiropas Savienības tiesību aktu prasībām;
+3) darījums neatbilst neparasta darījuma pazīmju sarakstā ietvertajām pazīmēm;
+4) darījums nerada aizdomas vai nav pieejama informācija, kas liecina par noziedzīgi iegūtu līdzekļu legalizāciju vai terorisma finansēšanu, vai mēģinājumu veikt šīs darbības;
+5) darījuma kopējā summa nav lielāka par summu, kas pēc Latvijas Bankas noteiktā valūtas kursa darījuma veikšanas dienā ir ekvivalenta 15 000 euro;
+6) ienākumus no darījuma veikšanas nav iespējams izmantot trešo personu labā, izņemot nāves, invaliditātes, uztura došanas pienākuma vai citu līdzīgu gadījumu iestāšanos;
+7) ja darījuma veikšanas laikā nav iespējama līdzekļu pārvēršana finanšu instrumentos vai apdrošināšanas vai cita veida prasījumos vai ja šāda līdzekļu pārvēršana ir iespējama un tiek ievēroti šādi nosacījumi:
+a) ienākumi no darījuma ir realizējami tikai ilgtermiņā - ne agrāk kā pēc pieciem gadiem no darījuma noslēgšanas dienas,
+b) darījuma priekšmetu nav iespējams izmantot kā nodrošinājumu,
+c) darījuma spēkā esamības laikā netiek veikti pirmstermiņa maksājumi, netiek izmantota prasījuma tiesību cesija un darījuma pirmstermiņa izbeigšana.
+(3²) Apdrošināšanas komersanti, kas veic dzīvības apdrošināšanu, un apdrošināšanas starpnieki ir tiesīgi veikt vienkāršoto klienta izpēti attiecībā uz dzīvības apdrošināšanas polisēm, ja ikgadējā apdrošināšanas prēmija nav lielāka par summu, kas pēc Latvijas Bankas noteiktā valūtas kursa darījuma veikšanas dienā ir ekvivalenta 1000 euro, vai ja vienreizējā prēmija nav lielāka par 2500 euro.
+(3³) Privātie pensiju fondi ir tiesīgi veikt vienkāršoto klienta izpēti attiecībā uz iemaksām pensiju plānos, ja klients minētās iemaksas nevar izmantot kā nodrošinājumu, un attiecībā uz tām iemaksām pensiju plānos, kuras veidojas kā daļa no darba samaksas.
+(3⁴) Elektroniskās naudas emitenti ir tiesīgi veikt vienkāršoto klienta izpēti šādos gadījumos:
+1) ja maksimālā elektroniskajā ierīcē uzkrātā naudas summa nav lielāka par summu, kas pēc Latvijas Bankas noteiktā valūtas kursa ir ekvivalenta 250 euro, un to nav iespējams atkārtoti papildināt;
+2) ja elektroniskās naudas ierīci ir iespējams atkārtoti papildināt un viena kalendāra gada laikā norēķināšanās ar elektroniskās naudas ierīci nepārsniedz summu, kas pēc Latvijas Bankas noteiktā valūtas kursa ir ekvivalenta 2500 euro. Šis izņēmums nav piemērojams, ja elektroniskās naudas iestāde no klienta (elektroniskās naudas turētāja) pēc tā pieprasījuma šā paša kalendāra gada laikā atpērk 1000 euro vai lielāku summu.
+(3⁵) Vienkāršoto klienta izpēti nevar piemērot šajā pantā minētajos gadījumos, ja, balstoties uz klienta, pakalpojuma vai darījumu attiecību izvērtējumu, likuma subjekts konstatē vai tā rīcībā ir informācija par augstu noziedzīgi iegūtu līdzekļu legalizācijas vai terorisma finansēšanas risku vai tam ir aizdomas par noziedzīgi iegūtu līdzekļu legalizāciju vai terorisma finansēšanu, vai mēģinājumu veikt šīs darbības.
 (4) Ministru kabinets apstiprina to trešo valstu un teritoriju sarakstu, kuru normatīvo aktu prasības noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas jomā ir līdzvērtīgas Eiropas Savienības tiesību aktu prasībām.
 (5) Veicot klienta vienkāršoto izpēti, likuma subjekts iegūst un dokumentē informāciju, kas apliecina, ka klients atbilst šā panta pirmajā daļā minētajiem izņēmumiem, un pēc darījuma attiecību uzsākšanas veic to uzraudzību.
-(6) Šā panta pirmajā daļā minētajos gadījumos likuma subjekts ir tiesīgs neievērot šā likuma 14.panta pirmās daļas prasības.
+(6) (Izslēgta ar 12.09.2013. likumu)
