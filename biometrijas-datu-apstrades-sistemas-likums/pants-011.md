@@ -1,5 +1,8 @@
-11.pants. (1) Šā likuma 6., 7. un 8.pantā minētos datus biometrijas datu apstrādes sistēmā glabā:
+11.pants. (1) Šā likuma 5.panta 1., 4., 5. un 11.punktā paredzētajos gadījumos iegūtos datus (izņemot izmeklēšanas darbību rezultātā iegūtos datus) biometrijas datu apstrādes sistēmā glabā:
 1) 10 gadus pēc personas nāves, ja personas nāves fakts reģistrēts Iedzīvotāju reģistrā;
 2) 75 gadus pēc pirmā ieraksta datuma, ja persona nav reģistrēta Iedzīvotāju reģistrā.
-(2) Šā likuma 9.pantā minētos datus biometrijas datu apstrādes sistēmā glabā piecus gadus pēc to ievadīšanas.
-(3) Pēc glabāšanas termiņa beigām biometrijas datus iznīcina Ministru kabineta noteiktajā kārtībā.
+(2) Šā likuma 5.panta 9.punktā paredzētajā gadījumā iegūtos datus biometrijas datu apstrādes sistēmā glabā piecus gadus pēc to iekļaušanas.
+(3) Šā likuma 5.panta 10.punktā paredzētajos gadījumos iegūtos datus dzēš operatīvās darbības subjekts, kas šos datus ieguvis, tiklīdz zudusi nepieciešamība tos glabāt. Gada laikā pēc datu iekļaušanas biometrijas datu apstrādes sistēmā operatīvās darbības subjekts, kas šos datus ieguvis, izvērtē to turpmākas glabāšanas lietderību un, ja nepieciešams, pieņem lēmumu datu glabāšanas termiņu pagarināt par gadu. Operatīvās darbības subjekts lēmumu par katru nākamo datu glabāšanas termiņa pagarinājumu pieņem gada laikā pēc iepriekšējā lēmuma pieņemšanas. Ja šāds lēmums netiek pieņemts, datus dzēš automātiski.
+(4) Izmeklēšanas darbību rezultātā iegūtos datus biometrijas datu apstrādes sistēmā glabā 75 gadus pēc to iekļaušanas vai arī dzēš ar brīdi, kad tiek noskaidrota šo datu īpašnieka identitāte.
+(5) Šā likuma 5.panta 12.punktā paredzētajā gadījumā iegūtos datus biometrijas datu apstrādes sistēmā glabā līdz brīdim, kad persona saņem personu apliecinošu dokumentu, vai arī šā panta pirmajā daļā noteiktos termiņus, ja persona dzīves laikā personu apliecinošu dokumentu nesaņem.
+(6) Biometrijas datu iznīcināšanas kārtību nosaka Ministru kabinets.

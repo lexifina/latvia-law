@@ -1,4 +1,4 @@
-6.pants. Šā likuma 5.panta 1., 2., 3., 4., 5., 6., 7., 8. un 12.punktā paredzētajos gadījumos biometrijas datu apstrādes sistēmā iekļauj šādus datus:
+6.pants. Šā likuma 5.panta 1., 4., 5. un 12.punktā paredzētajos gadījumos biometrijas datu apstrādes sistēmā iekļauj šādus datus:
 1) par personām, kuras ir reģistrētas Iedzīvotāju reģistrā:
 a) sejas digitālo attēlu,
 b) pirkstu (delnu) nospiedumu digitālo attēlu (ja iespējams to iegūt),
