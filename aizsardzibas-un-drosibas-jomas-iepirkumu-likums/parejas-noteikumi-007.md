@@ -1,0 +1,1 @@
+7. Ja naudas summas piedāvājumā, uz kura pamata pēc 2013.gada 31.decembra tiek slēgts līgums vai vispārīgā vienošanās, norādītas latos, pasūtītājs attiecīgo līgumā vai vispārīgās vienošanās tekstā ietveramo informāciju izsaka euro atbilstoši Euro ieviešanas kārtības likuma 6.pantā noteiktajiem noapaļošanas principiem.

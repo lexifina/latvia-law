@@ -1,0 +1,1 @@
+8. Publicējot paziņojumu pēc 2013.gada 31.decembra, pasūtītājs latos norādīto summu pārrēķina euro atbilstoši Euro ieviešanas kārtības likuma 6.pantā noteiktajiem noapaļošanas principiem un attiecīgo informāciju paziņojumā norāda euro.
