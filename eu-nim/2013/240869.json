@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2013.gada 8.oktobra noteikumi Nr.1045 \"Starptautiskās krimināltiesiskās sadarbības lūgumu informācijas sistēmas noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "198 (5004)",
+  "official_journal_page": null,
+  "official_journal_date": "2013-10-10",
+  "entry_into_force": "2013-10-11",
+  "notification_date": "2016-09-23",
+  "commission_reference": "MNE(2016)55896",
+  "nim_celex": "72014L0042LVA_240869",
+  "nim_id": "240869",
+  "transposes_celex": [
+    "32014L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3c8c7d4b-0181-4875-b0b5-56b84592bcda",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
