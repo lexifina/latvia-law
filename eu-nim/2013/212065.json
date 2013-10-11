@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 01.10.2013. noteikumi Nr. 1035 \"Grozījumi Ministru kabineta 2011.gada 20.septembra noteikumos Nr.723 „Darbību ar jonizējošā starojuma avotiem licencēšanas kārtība”\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "198 (5004)",
+  "official_journal_page": null,
+  "official_journal_date": "2013-10-10",
+  "entry_into_force": "2013-10-11",
+  "notification_date": "2013-12-27",
+  "commission_reference": "MNE(2013)60172",
+  "nim_celex": "72011L0070LVA_212065",
+  "nim_id": "212065",
+  "transposes_celex": [
+    "32011L0070"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/03cde597-fa62-4544-a3b0-7a17056f293d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
