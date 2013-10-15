@@ -13,6 +13,8 @@ Likumā ir lietoti šādi termini:
 8) (izslēgts ar 29.03.2007. likumu);
 9) virsnieks - karavīrs, kuram ir leitnanta vai augstāka militārā dienesta pakāpe;
 10) virsnieks speciālists - virsnieks, kuram ir akadēmiskā vai otrā līmeņa profesionālā augstākā izglītība attiecīgajā specialitātē un kurš apguvis virsnieka speciālista pamatkursu Latvijas Nacionālajā aizsardzības akadēmijā vai citu tam pielīdzinātu kursu;
+10¹) kareivis speciālists - kareivis, kuram ir profesionālā vidējā izglītība amatam nepieciešamajā specialitātē un kurš apguvis kareivja speciālista pamatkursu vai citu tam pielīdzinātu kursu;
+10²) instruktors speciālists - instruktors, kuram ir profesionālā vidējā izglītība vai augstākā izglītība amatam nepieciešamajā specialitātē un kurš apguvis instruktora speciālista kursu vai citu tam pielīdzinātu kursu;
 11) klausītājs - virsnieks, kas militārajā izglītības iestādē klātienē paaugstina savu kvalifikāciju;
 12) vienība - militārais formējums, kuram ir patstāvīga vadība un apstiprināts štats;
 13) apakšvienība - militārais formējums vienības sastāvā;
