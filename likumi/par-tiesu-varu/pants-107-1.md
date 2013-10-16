@@ -14,7 +14,7 @@
 10) pieprasa no tiesām vai zemesgrāmatu nodaļām nepieciešamās ziņas un no to darbiniekiem - paskaidrojumus;
 11) nodrošina tiesneša iepazīstināšanu ar disciplinārlietas materiāliem, kā arī nosūta disciplinārlietas materiālus Tiesnešu disciplinārkolēģijai;
 12) disciplināri soda tiesas darbiniekus par konstatētajiem darba disciplīnas pārkāpumiem;
-13) veic valsts vienotās datorizētās zemesgrāmatas turētāja pienākumu un izplata tiesu iestāžu valsts informācijas sistēmā ievadīto informāciju;
+13) veic valsts vienotās datorizētās zemesgrāmatas pārziņa un turētāja pienākumus un izplata tiesu iestāžu valsts informācijas sistēmā ievadīto informāciju;
 14) apkopo tiesu un zemesgrāmatu nodaļu statistikas datus par to darbu, analizē apkopotos datus un sniedz priekšlikumus par nepieciešamajām izmaiņām statistikas pārskatos;
 15) rīkojas ar tiesu budžeta līdzekļiem;
 16) plāno tiesu budžeta ieņēmumu un izdevumu resursus, kā arī analizē ekonomiskos rādītājus;
