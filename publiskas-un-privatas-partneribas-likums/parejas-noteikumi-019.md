@@ -1,0 +1,1 @@
+19. Grozījumi šā likuma 37.panta pirmās daļas 5.punktā un ceturtās daļas 2.punktā, ar kuriem skaitlis un vārds "100 latus" tiek aizstāts ar skaitli un vārdu "150 euro", stājas spēkā 2014.gada 1.janvārī.

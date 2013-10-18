@@ -1,0 +1,1 @@
+21. Līdz 2013.gada 31.decembrim izsludinātās šā likuma 17.panta pirmajā daļā minētās koncesijas procedūras pabeidz, tai skaitā apstrīd vai pārsūdz, saskaņā ar šā likuma noteikumiem, kas bija spēkā attiecīgās koncesijas procedūras izsludināšanas dienā, ievērojot šo pārejas noteikumu 22., 23. un 24.punktā minētos nosacījumus.

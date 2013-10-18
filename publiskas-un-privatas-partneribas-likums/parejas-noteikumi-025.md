@@ -1,0 +1,1 @@
+25. Publiskais un privātais partneris ir tiesīgs grozīt publiskās un privātās partnerības līgumu, lai konvertētu tajā noteiktās summas latos uz euro atbilstoši Euro ieviešanas kārtības likuma 4.panta otrajai daļai.

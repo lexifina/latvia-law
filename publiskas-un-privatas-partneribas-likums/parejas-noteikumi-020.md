@@ -1,0 +1,1 @@
+20. Ja finanšu un ekonomiskie aprēķini iesniegti līdz 2013.gada 31.decembrim, kompetentās institūcijas šā likuma 15.panta pirmajā daļā minētajos atzinumos informāciju no finanšu un ekonomiskajiem aprēķiniem, kas ietver summas latos, norāda summās euro, pārrēķinu veicot atbilstoši Euro ieviešanas kārtības likuma 6.pantā noteiktajiem noapaļošanas principiem.
