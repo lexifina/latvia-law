@@ -1,0 +1,1 @@
+46. Šo pārejas noteikumu 45.punkta 2. un 3.apakšpunktu piemēro arī tad, ja sabiedrība ar ierobežotu atbildību papildus statūtu grozījumiem, kas paredz pamatkapitāla un pamatkapitāla daļas nominālvērtības denomināciju no latiem uz euro, komercreģistra iestādei iesniedz aktuālo sabiedrības dalībnieku reģistru atbilstoši šo pārejas noteikumu 31.punktam.

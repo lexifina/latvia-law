@@ -1,0 +1,1 @@
+40. Ja sabiedrība ar ierobežotu atbildību atbilstoši šā likuma pārejas noteikumu 38. vai 39.punktam piesaka komercreģistra iestādei statūtu grozījumus, kas paredz pamatkapitāla un pamatkapitāla daļas nominālvērtības denomināciju no latiem uz euro, tā papildus iesniedz dalībnieku reģistra pēdējo nodalījumu, kurā pamatkapitāla daļas nominālvērtība izteikta euro.

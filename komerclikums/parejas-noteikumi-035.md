@@ -1,0 +1,1 @@
+35. Grozījumi šā likuma 75.panta pirmās daļas ievaddaļā un 1.punktā, 151.panta otrajā daļā, 154.panta otrajā daļā, 172.panta otrajā un sestajā daļā, 185.pantā, 186.panta pirmajā daļā, 225.pantā (ar kuriem naudas summas latos tiek izteiktas euro), kā arī 230.panta jaunā redakcija un 443.panta otrās daļas izslēgšana stājas spēkā 2014.gada 1.janvārī.

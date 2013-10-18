@@ -1,0 +1,1 @@
+44. Sākot ar 2014.gada 1.janvāri, kapitālsabiedrības dalībnieku (akcionāru) sapulces lēmums par statūtu grozījumiem, kas paredz kapitālsabiedrības pamatkapitāla un pamatkapitāla daļas (akcijas) nominālvērtības denomināciju no latiem uz euro, tiek pieņemts ar dalībnieku (akcionāru) sapulcē klātesošo dalībnieku (akcionāru) vienkāršu balsu vairākumu.

@@ -1,0 +1,1 @@
+39. Sākot ar 2014.gada 1.jūliju, piesakot komercreģistra iestādei statūtu grozījumus, kapitālsabiedrība, kuras pamatkapitāls izteikts latos, statūtos vienlaikus paredz pamatkapitāla un pamatkapitāla daļas (akcijas) nominālvērtības denomināciju no latiem uz euro.
