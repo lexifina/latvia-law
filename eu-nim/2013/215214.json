@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2013.gada 22.oktobra noteikumi Nr.1172 “Atkritumu tirgotāju un atkritumu apsaimniekošanas starpnieku reģistrācijas kārtība”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "209 (5015)",
+  "official_journal_page": null,
+  "official_journal_date": "2013-10-25",
+  "entry_into_force": "2013-10-26",
+  "notification_date": "2014-04-14",
+  "commission_reference": "MNE(2014)52428",
+  "nim_celex": "72008L0098LVA_215214",
+  "nim_id": "215214",
+  "transposes_celex": [
+    "32008L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8ee72e42-3343-48f0-93ec-2e93be3f5faf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
