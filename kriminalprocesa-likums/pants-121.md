@@ -2,7 +2,7 @@
 (1) Nav ierobežojamas tiesības neliecināt un nav izņemami personiskie pieraksti:
 1) garīdzniekam par grēksūdzē uzzināto;
 2) aizstāvim un advokātam, kas sniedzis juridisko palīdzību jebkādā formā, par ziņām, kuras viņam konfidenciāli uzticējusi aizstāvamā persona;
-3) tulkam, ko aizstāvības tiesību nodrošināšanai pieaicinājis advokāts un par ko rakstveidā paziņojis procesa virzītājam, norādot nepieciešamās ziņas par tulku: vārdu, uzvārdu, personas kodu, praktizēšanas vietu vai deklarēto dzīvesvietu.
+3) tulkam, ko aizstāvības tiesību nodrošināšanai pieaicinājis procesa virzītājs vai persona, kurai ir tiesības uz aizstāvību, vai advokāts, ja viņi par to rakstveidā paziņojuši procesa virzītājam, norādot nepieciešamās ziņas par tulku: vārdu, uzvārdu, personas kodu, praktizēšanas vietu vai deklarēto dzīvesvietu.
 (2) Vienīgi ar Augstākās tiesas Senāta triju tiesnešu atļauju drīkst:
 1) pratināt tiesnesi un izņemt viņa personiskos pierakstus par apspriedes istabas noslēpumu;
 2) pratināt, izņemt dokumentus un pieprasīt ziņas par darbiniekiem, kuri veic tiešu detektīvdarbību noziedzīgā vidē, izlūkošanu vai pretizlūkošanu ārvalstīs.

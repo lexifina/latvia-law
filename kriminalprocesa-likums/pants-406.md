@@ -11,5 +11,5 @@
 (5) Ja apsūdzētais attaisnojoša iemesla dēļ nevar ierasties pie prokurora, apsūdzības kopiju un rakstveida informāciju par apsūdzētā tiesībām prokurors, savstarpēji vienojoties, var nodot apsūdzētajam personiski, ar viņa aizstāvja vai pārstāvja starpniecību, ar kurjera palīdzību vai nosūtīt pa pastu uz viņa paziņoto sūtījumu saņemšanas adresi.
 (6) Ja apsūdzētā atrašanās vieta ir zināma, bet viņš izvairās ierasties pēc prokurora aicinājuma, apsūdzības kopija apsūdzētajam izsniedzama pēc viņa piespiedu atvešanas vai nosūtāma pa pastu uz viņa paziņoto sūtījumu saņemšanas adresi.
 (7) Ja izsludināta apsūdzētā meklēšana, apsūdzības kopija un rakstveida informācija par apsūdzētā tiesībām izsniedzama nekavējoties pēc rakstveida paziņojuma saņemšanas par apsūdzētā aizturēšanu vai apcietināšanu.
-(8) Apsūdzētajam, kas neprot valodu, kurā uzrakstīta apsūdzība, nodrošina apsūdzības tulkojumu viņam saprotamā valodā.
+(8) Apsūdzētajam, kas neprot valodu, kurā uzrakstīta apsūdzība, nodrošina apsūdzības tulkojumu viņam saprotamā valodā. Apsūdzības rakstveida tulkojumu nodrošina līdz pirmstiesas kriminālprocesa pabeigšanai.
 (9) Ja apsūdzētais slēpjas citā valstī un ir izsludināta viņa meklēšana, apsūdzības kopija tiek izsniegta reizē ar oficiālā izdošanas lūguma paziņošanu.

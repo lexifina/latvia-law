@@ -1,3 +1,3 @@
 246.pants. Procesuālā piespiedu līdzekļa piemērošana
 (1) Uzsākot procesuālā piespiedu līdzekļa piemērošanu, persona, kura to piemēro, informē personu, kurai piespiedu līdzeklis tiek piemērots, par pieņemto lēmumu, kā arī izskaidro piespiedu līdzekļa būtību, saturu, pārsūdzības kārtību un piespiedu līdzekļa neievērošanas sekas. Šie nosacījumi neattiecas uz piespiedu atvešanu.
-(2) Pirms pieņemt lēmumu par tāda drošības līdzekļa piemērošanu, kas saistīts ar brīvības atņemšanu, procesa virzītājs izsniedz personai, kurai ir tiesības uz aizstāvību, tā ierosinājuma kopiju, kurā pamatota drošības līdzekļa izvēle.
+(2) Pirms pieņemt lēmumu par tāda drošības līdzekļa piemērošanu, kurš saistīts ar brīvības atņemšanu, procesa virzītājs izsniedz personai, kurai ir tiesības uz aizstāvību, tā ierosinājuma kopiju, kurā norādīts konkrētā drošības līdzekļa izvēles pamatojums ar konkrētiem, uz lietas materiāliem balstītiem apsvērumiem.

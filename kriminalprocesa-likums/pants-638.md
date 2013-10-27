@@ -4,5 +4,5 @@
 2) ja notiesātā atrodas grūtniecības stāvoklī sprieduma izpildīšanas brīdī, - uz laiku, ne ilgāku par vienu gadu;
 3) ja notiesātajai ir mazgadīgi bērni, - uz laiku, līdz bērns sasniedz triju gadu vecumu;
 4) ja tūlītēja soda izciešana var radīt sevišķi smagas sekas notiesātajam vai viņa ģimenei sakarā ar ugunsgrēku vai citu stihisku postu, vienīgā darbspējīgā ģimenes locekļa smagu slimību vai nāvi un citos izņēmuma gadījumos, - uz tiesas noteiktu laiku, bet ne ilgāk par trim mēnešiem.
-(2) Sprieduma izpildi nedrīkst atlikt personām, kas notiesātas par smagu vai sevišķi smagu noziegumu.
+(2) Ja piespriesta brīvības atņemšana, sprieduma izpildi nedrīkst atlikt personām, kas notiesātas par smagu vai sevišķi smagu noziegumu.
 (3) Naudas soda samaksu var atlikt vai sadalīt termiņos uz laiku līdz vienam gadam, ja notiesātais 30 dienu laikā nevar to samaksāt un ir iesniedzis motivētu lūgumu par naudas soda samaksas atlikšanu vai sadalīšanu termiņos.

@@ -9,4 +9,4 @@
 6) amatpersonām, kuras veic konkrētu kriminālprocesu;
 7) personas tiesību ierobežošanas termiņu pirmstiesas kriminālprocesā.
 (3) Reģistra nomaiņa procesa gaitā nav pieļaujama.
-(4) Jebkurai kriminālprocesā iesaistītajai personai ir tiesības triju darba dienu laikā iepazīties ar kriminālprocesa reģistru.
+(4) Procesa virzītājs triju darba dienu laikā pēc pieteikuma iesniegšanas nodrošina šajā likumā noteikto personu, kurām ir tiesības iepazīties ar kriminālprocesa reģistru, iepazīstināšanu ar kriminālprocesa reģistru.

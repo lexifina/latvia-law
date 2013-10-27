@@ -8,5 +8,5 @@
 6) vienoties ar procesa virzītāju - prokuroru par iespēju krimināllietu apsūdzētajam inkriminētajā apsūdzībā tiesā izskatīt bez pierādījumu pārbaudes;
 7) atsaukt aizstāvja sūdzības.
 (2) Atkarībā no izraudzītā procesa veida atsevišķas tiesības likumā noteiktajā kārtībā var tikt ierobežotas vai īstenotas īpašā veidā.
-(3) Liecību nesniegšana nav vērtējama kā traucēšana noskaidrot patiesību lietā un izvairīšanās no pirmstiesas kriminālprocesa un tiesas.
+(3) (Izslēgta ar 23.05.2013. likumu)
 (4) Pēc pirmstiesas kriminālprocesa pabeigšanas un lēmuma par lietas nodošanu tiesai saņemšanas apsūdzētais var iesniegt tiesai tos lūgumus, kas radušies, iepazīstoties ar lietas materiāliem.

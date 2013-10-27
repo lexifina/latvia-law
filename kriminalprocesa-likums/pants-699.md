@@ -1,6 +1,6 @@
 699.pants. Personas aizturēšana izdošanas nolūkā
 (1) Izmeklētājs vai prokurors var aizturēt personu līdz 72 stundām izdošanas nolūkā, ja ir pietiekams pamats uzskatīt, ka tā citas valsts teritorijā izdarījusi noziedzīgu nodarījumu, par kuru paredzēta izdošana, vai ja ārvalsts izsludinājusi tās meklēšanu un iesniegusi pagaidu apcietināšanas vai izdošanas lūgumu.
 (2) Par personas aizturēšanu izdošanas nolūkā izmeklētājs vai prokurors raksta protokolu, norādot tajā aizturētā vārdu, uzvārdu un citus nepieciešamos personas datus, aizturēšanas iemeslu, kā arī to, kur, kad un kas šo personu aizturējis. Aizturēšanas protokolu paraksta aizturētājs un izdodamā persona.
-(3) Aizturētājs informē izdodamo personu par tās tiesībām, un par to tiek izdarīta atzīme aizturēšanas protokolā.
+(3) Aizturētājs informē izdodamo personu un izsniedz tai izrakstu no šā likuma 698.panta par izdodamajai personai noteiktajām tiesībām, un par to tiek izdarīta atzīme aizturēšanas protokolā.
 (4) Par personas aizturēšanu nekavējoties, bet ne vēlāk kā 24 stundu laikā informē Ģenerālprokuratūru, nosūtot tai personas aizturēšanas dokumentus. Ģenerālprokuratūra informē valsti, kura izsludinājusi personas meklēšanu.
 (5) Ja 72 stundu laikā no personas aizturēšanas brīža netiek piemērots pagaidu vai izdošanas apcietinājums, aizturētā persona atbrīvojama vai piemērojams kāds cits drošības līdzeklis.

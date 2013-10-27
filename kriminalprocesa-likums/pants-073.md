@@ -4,7 +4,7 @@
 2) par kura apsūdzību kasācijas protestu vai sūdzību iesniedzis prokurors vai cietušais;
 3) kura intereses tiek tieši aizskartas ar kasācijas sūdzību daļā par cita apsūdzētā apsūdzību;
 4) ja tiesnesis - procesa virzītājs to atzinis par nepieciešamu.
-(2) Kasācijas instances tiesā līdz lietas iztiesāšanas uzsākšanai apsūdzētajam ir tiesības:
+(2) Kasācijas instances tiesā līdz lietas iztiesāšanas uzsākšanai apsūdzētajam ir šā likuma 60.² pantā noteiktās pamattiesības, kā arī tiesības:
 1) saņemt to kasācijas sūdzību vai protestu kopijas, kas ir par pamatu viņa līdzdalībai kasācijas instances tiesā;
 2) saņemt informāciju par sūdzību izskatīšanas laiku un kārtību;
 3) iesniegt iebildumus vai paskaidrojumus par kasācijas sūdzību vai protestu;
