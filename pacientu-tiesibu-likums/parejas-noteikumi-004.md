@@ -1,0 +1,1 @@
+4. Šā likuma 16.panta otrās daļas 2.¹ punkts stājas spēkā 2014.gada 1.janvārī, un tajā paredzēto atlīdzību izmaksā par ārstniecības izdevumiem, lai novērstu vai mazinātu pēc 2014.gada 1.janvāra ārstniecības personas nodarītā vai ārstniecības laikā radušos apstākļu izraisītā kaitējuma nelabvēlīgās sekas pacienta dzīvībai vai veselībai.
