@@ -14,4 +14,5 @@ Izpildu dokumenti ir:
 12) tiesas lēmums par atļauju nodrošinātajam kreditoram pārdot ieķīlāto parādnieka mantu tiesiskās aizsardzības procesā (Maksātnespējas likuma 37.panta otrā daļa);
 13) ārvalsts tiesas vai kompetentās iestādes izsniegts nolēmuma izraksts saskaņā ar Padomes regulas Nr. 4/2009 20.panta 1.punkta "b" apakšpunktu;
 14) ārvalsts kompetentās iestādes izsniegts publiskā akta izraksts saskaņā ar Padomes regulas Nr. 4/2009 48.pantu;
-15) vienotais instruments, kas atļauj izpildi pieprasījuma saņēmējā dalībvalstī un kas noteikts 2011.gada 18.novembra Komisijas Īstenošanas regulas (ES) Nr. 1189/2011 II pielikumā.
+15) vienotais instruments, kas atļauj izpildi pieprasījuma saņēmējā dalībvalstī un kas noteikts 2011.gada 18.novembra Komisijas Īstenošanas regulas (ES) Nr. 1189/2011 II pielikumā;
+16) Notariāta likuma D¹ sadaļā noteiktajā kārtībā izsniegti notariālie izpildu akti.

@@ -14,4 +14,5 @@
 2) uz naudas maksājumu vērsti ar valsts varu apveltītu iestāžu un amatpersonu izdoti administratīvie akti;
 3) tiesu sistēmai piederīgo personu (notāri, advokāti, tiesu izpildītāji) nolēmumi par amata atlīdzību, atlīdzību par sniegto juridisko palīdzību un par izdevumiem, kas saistīti ar sniegtajiem pakalpojumiem, un valsts nodevu;
 4) saskaņā ar Līguma par Eiropas Savienības darbību 299.pantu pieņemtie Eiropas Padomes, Komisijas vai Eiropas Centrālās bankas akti.
+5) Notariāta likuma D¹ sadaļā noteiktajā kārtībā taisīti notariālie akti.
 (3) Šā likuma 142.pantā noteiktajā kārtībā izpildāmi atbildīgās iestādes lēmumi par starptautisko organizāciju noteikto sankciju piespiedu izpildi.

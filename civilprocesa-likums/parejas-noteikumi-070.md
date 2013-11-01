@@ -1,0 +1,1 @@
+70. Lietas par saistību bezstrīdus piespiedu izpildīšanu, pamatojoties uz saistībām, saskaņā ar kurām līdz 2013.gada 31.oktobrim bija pieļaujama bezstrīdus piespiedu izpildīšana, izskata šajā likumā noteiktajā kārtībā, kāda bija spēkā līdz 2013.gada 31.oktobrim.

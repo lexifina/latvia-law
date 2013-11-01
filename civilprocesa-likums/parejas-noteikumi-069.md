@@ -1,0 +1,1 @@
+69. Grozījums šā likuma 400.pantā par tā papildināšanu ar 1.¹ daļu, kas paredz, ka panta pirmā daļa nav piemērojama Notariāta likuma D¹ sadaļā noteiktajā kārtībā taisītiem notariālajiem aktiem, attiecas uz tiem notariālajiem aktiem, kuri taisīti pēc 2013.gada 31.oktobra.

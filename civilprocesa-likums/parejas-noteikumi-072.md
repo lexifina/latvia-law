@@ -1,0 +1,1 @@
+72. Grozījumi šā likuma 551.panta pirmajā daļā un 594.panta pirmajā un otrajā daļā, kuri paredz, ka parādniekam saglabājama darba samaksa un tai pielīdzinātie maksājumi ne mazāk kā minimālās mēneša darba algas apmērā un uz katru apgādībā esošo nepilngadīgo bērnu līdzekļi valsts sociālā nodrošinājuma pabalsta apmērā, stājas spēkā 2014.gada 1.janvārī.
