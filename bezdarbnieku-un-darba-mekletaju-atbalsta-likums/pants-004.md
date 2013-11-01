@@ -10,3 +10,4 @@
 (9) (Izslēgta ar 24.11.2011. likumu)
 (10) Ministru kabinets nosaka Eiropas Globalizācijas pielāgošanas fonda finansējuma saņemšanas un izlietošanas nosacījumus aktīvo nodarbinātības un preventīvo bezdarba samazināšanas pasākumu īstenošanai atbilstoši Eiropas Parlamenta un Padomes 2006.gada 20.decembra regulai (EK) Nr. 1927/2006 par Eiropas Globalizācijas pielāgošanās fonda izveidi.
 (11) Ministru kabinets nosaka algotu pagaidu sabiedrisko darbu īstenošanas kārtību, kā arī par algotu pagaidu sabiedrisko darbu veikšanu bezdarbniekam izmaksājamās atlīdzības apmēru un izmaksāšanas kārtību.
+(12) Ministru kabinets nosaka šā likuma 12.panta pirmās daļas 5.punktā minētā piemērotā darba noteikšanas kārtību un kritērijus.

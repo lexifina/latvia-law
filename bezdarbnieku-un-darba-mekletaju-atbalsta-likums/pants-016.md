@@ -1,6 +1,6 @@
 16.pants. Darba meklētāja tiesības un pienākumi
 (1) Darba meklētājam ir tiesības:
-1) piedalīties konkurētspējas paaugstināšanas pasākumos;
+1) piedalīties konkurētspējas paaugstināšanas un darba meklēšanas atbalsta pasākumos;
 2) saņemt informāciju par brīvajām darba vietām un ar tām saistītām kvalifikācijas un citām prasībām;
 3) saņemt karjeras konsultācijas.
 (2) Šā panta pirmajā daļā noteiktās tiesības un tiesības iesaistīties šā likuma 3.¹ panta pirmās daļas 1., 2., 3. un 4.punktā minētajos preventīvajos bezdarba samazināšanas pasākumos ir arī darbspējīgai, bezdarba riskam pakļautajai personai, kura atbilst šā likuma 2.panta otrās daļas un 15.panta pirmās daļas 4. un 5.punkta prasībām un vismaz vienam no šādiem priekšnoteikumiem:
@@ -15,7 +15,7 @@
 1) patstāvīgi un ar Nodarbinātības valsts aģentūras palīdzību aktīvi meklēt darbu;
 2) Nodarbinātības valsts aģentūras noteiktajā laikā, bet ne vēlāk kā pēc trim mēnešiem no dienas, kad viņš iepriekšējo reizi apmeklēja Nodarbinātības valsts aģentūru, ierasties Nodarbinātības valsts aģentūrā un uzrādīt normatīvajos aktos noteiktos dokumentus;
 3) triju darba dienu laikā ziņot Nodarbinātības valsts aģentūrai par to, ka viņš vairs neatbilst šā likuma 15.panta pirmās daļas 1., 3., 5. un 6.punktā minētajiem darba meklētāja statusa iegūšanas nosacījumiem;
-4) piedalīties konkurētspējas paaugstināšanas pasākumos, par dalību kuros ir noslēgta rakstveida vienošanās ar Nodarbinātības valsts aģentūru.
+4) piedalīties konkurētspējas paaugstināšanas pasākumos, par dalību kuros ir noslēgta rakstveida vienošanās ar Nodarbinātības valsts aģentūru, kā arī darba meklēšanas atbalsta pasākumos.
 (5) Neierašanās Nodarbinātības valsts aģentūrā šā panta ceturtās daļas 1., 2. un 4.punktā minētajos gadījumos tiek uzskatīta par attaisnotu, ja:
 1) darba meklētājam iestājusies pārejoša darbnespēja;
 2) darba meklētājs kopj slimu bērnu;
