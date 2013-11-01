@@ -7,4 +7,6 @@
 5) Latvijas Republikas iekšējos jūras ūdeņos, teritoriālajā jūrā un ekskluzīvajā ekonomiskajā zonā Ministru kabineta noteiktajos licenču laukumos - persona, kurai izsniegta zemes dzīļu izmantošanas licence vai dabas resursu lietošanas atļauja.
 (2) Ministru kabinets nosaka:
 1) zemes dzīļu izmantošanas kārtību publiskajos ūdeņos;
-2) zemes dzīļu izmantošanas kārtību Latvijas Republikas teritoriālajā jūrā un ekskluzīvajā ekonomiskajā zonā.
+2) zemes dzīļu izmantošanas kārtību Latvijas Republikas teritoriālajā jūrā un ekskluzīvajā ekonomiskajā zonā;
+3) derīgo izrakteņu ieguves kārtību;
+4) zemes nomas maksas aprēķināšanas kārtību, ja publiska persona iznomā zemi zemes dzīļu izmantošanai.
