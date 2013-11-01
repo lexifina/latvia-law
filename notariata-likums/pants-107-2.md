@@ -1,0 +1,1 @@
+107.² Ja notariālajā aktā noteiktās saistības izpildīšana ir atkarīga no iepriekš pierādāmu nosacījumu iestāšanās, aktu var nodot piespiedu izpildei, ja šo nosacījumu iestāšanās notāram ir zināma vai pierādāma ar publiskiem dokumentiem, ierakstiem valsts informācijas sistēmā vai kredītiestādes izsniegtiem dokumentiem.

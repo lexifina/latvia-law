@@ -1,0 +1,1 @@
+107.⁸ Notariālā izpildu akta norakstu zvērināts notārs nosūta parādniekam uz izpildāmajā notariālajā aktā norādīto adresi un uz viņa deklarēto dzīvesvietu. Notariālā izpildu akta norakstu nosūta arī uz kreditora norādīto parādnieka adresi, ja tā atšķiras no iepriekš norādītajām.

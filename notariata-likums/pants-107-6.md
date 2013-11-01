@@ -1,0 +1,1 @@
+107.⁶ Ja zvērināts notārs konstatē, ka kreditora iesniegums neatbilst šā likuma 107.⁵ panta prasībām vai noteikumi notariālajā aktā, kuru kreditors lūdz nodot piespiedu izpildei, neatbilst šajā sadaļā noteiktajām prasībām, viņš šā likuma 39.panta trešajā daļā noteiktajā kārtībā atsaka notariālā izpildu akta taisīšanu.

@@ -1,3 +1,3 @@
 63. (Pirmā daļa izslēgta ar 28.10.2010. likumu)
-Ja zvērināts notārs ir miris, pārcelts, atbrīvots vai atcelts no amata, viņa zīmogus ievīlē un nodod tieslietu ministram. Atstādināta zvērināta notāra zīmogu nodod tieslietu ministram neievīlētu.
-Ja atstādinātais zvērināts notārs paliek amatā, tad pārņemto viņam atdod atpakaļ.
+Ja zvērināts notārs ir miris, pārcelts uz nenoteiktu laiku citā amata vietā citas apgabaltiesas darbības teritorijā vai atcelts no amata, viņa zīmogu ievīlē un nodod tieslietu ministram. Ja zvērināts notārs ir atstādināts vai pārcelts uz laiku citā amata vietā citas apgabaltiesas darbības teritorijā, viņa zīmogu nodod tieslietu ministram neievīlētu.
+Ja atstādinātais zvērināts notārs paliek amatā vai zvērināts notārs, kurš pārcelts uz laiku citā amata vietā citas apgabaltiesas darbības teritorijā, atsāk pildīt pienākumus amata vietā, kurā viņš sākotnēji bija iecelts, no zvērināta notāra pārņemto atdod viņam atpakaļ.

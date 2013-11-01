@@ -1,2 +1,3 @@
 326. Piekritību šķirt laulību pārrobežu lietā nosaka saskaņā ar Padomes 2003.gada 27.novembra regulas (EK) Nr. 2201/2003 par jurisdikciju un spriedumu atzīšanu un izpildi laulības lietās un lietās par vecāku atbildību un par regulas (EK) Nr. 1347/2000 atcelšanu (turpmāk - regula Nr. 2201/2003) 3.pantu.
 Ja piekritība šķirt laulību pārrobežu lietā nav noteikta Latvijas Republikai, zvērināts notārs laulības šķiršanas lietu neuzsāk un paziņo par to laulātajiem.
+Piemērojamos tiesību aktus pārrobežu laulības šķiršanas lietās nosaka saskaņā ar Padomes 2010.gada 20.decembra regulu (ES) Nr. 1259/2010, ar kuru īsteno ciešāku sadarbību attiecībā uz tiesību aktiem, kas piemērojami laulības šķiršanai un laulāto atšķiršanai.

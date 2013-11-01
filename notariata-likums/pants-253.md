@@ -1,1 +1,1 @@
-253. Mantošanas iesniegumā iesniedzējs norāda mantojuma atstājēja vārdu un uzvārdu, viņa nāves dienu un pēdējo dzīvesvietu, bet, ja tā nav zināma, - mantojamās mantas vai tās galvenās daļas atrašanās vietu.
+253. Mantošanas iesniegumā iesniedzējs norāda mantojuma atstājēja vārdu un uzvārdu, viņa nāves dienu un pēdējo deklarēto dzīvesvietu, bet, ja tā nav zināma, - mantojamās mantas vai tās galvenās daļas atrašanās vietu.

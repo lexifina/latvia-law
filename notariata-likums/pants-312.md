@@ -1,6 +1,6 @@
 312. Mantošanas iesniegumam pievieno:
 1) mantojuma atstājēja miršanas apliecību;
-2) pierādījumus par mantojuma atstājēja pēdējo dzīvesvietu;
+2) pierādījumus par mantojuma atstājēja pēdējo deklarēto dzīvesvietu;
 3) mantojamās mantas sarakstu ar mantas novērtējumu;
 4) pierādījumus, kas apstiprina iesniedzēja tiesības mantot;
 5) ziņas par visiem zināmajiem mantiniekiem.

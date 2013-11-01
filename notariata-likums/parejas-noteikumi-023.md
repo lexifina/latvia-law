@@ -1,0 +1,1 @@
+23. Šā likuma 11.¹ pantā noteikto par vakantās zvērināta notāra amata vietas aizpildīšanu var nepiemērot 2013. un 2014.gadā, izņemot gadījumu, kad, izvērtējot nepieciešamību, tiek secināts, ka vakanta zvērināta notāra amata vieta ir aizpildāma.

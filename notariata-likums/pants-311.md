@@ -1,1 +1,1 @@
-311. Mantošanas iesniegumu iesniedz zvērinātam notāram, kas praktizē tajā apgabaltiesas darbības teritorijā, kurā bija mantojuma atstājēja pēdējā dzīvesvieta, bet, ja tā nav zināma, - pēc mantojamās mantas vai tās galvenās daļas atrašanās vietas.
+311. Mantošanas iesniegumu iesniedz zvērinātam notāram, kas praktizē tajā apgabaltiesas darbības teritorijā, kurā bija mantojuma atstājēja pēdējā deklarētā dzīvesvieta, bet, ja tā nav zināma, - pēc mantojamās mantas vai tās galvenās daļas atrašanās vietas.
