@@ -4,7 +4,7 @@
 1) apliecināšanas gadu, mēnesi un dienu;
 2) bāriņtiesas nosaukumu;
 3) numuru, ar kādu darījuma akts ierakstīts reģistrā;
-4) katra darījuma dalībnieka vārdu, uzvārdu, personas kodu, dzīvesvietu, kā arī šo personu dzimšanas laiku un vietu vai izdara atzīmi, ka darījuma dalībnieki ir personiski pazīstami;
+4) katra darījuma dalībnieka vārdu, uzvārdu, personas kodu, deklarēto dzīvesvietu, kā arī šo personu dzimšanas laiku un vietu vai izdara atzīmi, ka darījuma dalībnieki ir personiski pazīstami;
 5) ka darījuma dalībnieki ir rīcībspējīgi.
 (3) Apliecinājuma uzrakstu paraksta bāriņtiesas priekšsēdētājs, bāriņtiesas priekšsēdētāja vietnieks vai bāriņtiesas loceklis. Zem uzraksta uzspiež bāriņtiesas zīmogu.
 (4) Apliecinātā darījuma akta viens eksemplārs glabājas bāriņtiesas lietā. Darījuma aktu ieraksta reģistrā.
