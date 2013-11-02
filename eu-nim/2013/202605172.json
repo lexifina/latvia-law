@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2013. gada 29. oktobra noteikumi Nr. 1191 \"Kārtība, kādā publiska persona nomā nekustamo īpašumu no privātpersonas vai kapitālsabiedrības un publicē informāciju par nomātajiem un nomāt paredzētajiem nekustamajiem īpašumiem\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "214",
+  "official_journal_page": null,
+  "official_journal_date": "2013-11-01",
+  "entry_into_force": "2013-11-02",
+  "notification_date": "2026-07-07",
+  "commission_reference": "MNE(2026)05172",
+  "nim_celex": "72023L1791LVA_202605172",
+  "nim_id": "202605172",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/14c8f550-bafe-4861-b62d-0be0f7b6da90",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
