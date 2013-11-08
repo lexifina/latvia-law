@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2013.gada 5.novembra noteikumi Nr.1245 \"Kārtība, kādā tiek veikta informācijas apmaiņa nodokļu jomā starp Latvijas un citu Eiropas Savienības dalībvalstu kompetentajām iestādēm un ārvalstu kompetentajām iestādēm, ar kurām ir noslēgti Latvijas Republikas Saeimas apstiprināti starptautiskie līgumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "218 (5024)",
+  "official_journal_page": null,
+  "official_journal_date": "2013-11-07",
+  "entry_into_force": "2013-11-08",
+  "notification_date": "2014-03-14",
+  "commission_reference": "MNE(2014)51747",
+  "nim_celex": "72011L0016LVA_214300",
+  "nim_id": "214300",
+  "transposes_celex": [
+    "32011L0016"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7af1334d-fcef-4c79-94ef-a3c6e5b406fc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
