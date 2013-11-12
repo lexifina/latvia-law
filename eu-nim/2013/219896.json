@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2013.gada 22.oktobra noteikumi Nr.1176 \"Cilvēka audu un šūnu izmantošanas kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "220 (5026)",
+  "official_journal_page": null,
+  "official_journal_date": "2013-11-11",
+  "entry_into_force": "2013-11-12",
+  "notification_date": "2014-09-18",
+  "commission_reference": "MNE(2014)55470",
+  "nim_celex": "72004L0023LVA_219896",
+  "nim_id": "219896",
+  "transposes_celex": [
+    "32004L0023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/58f91a43-ad42-4f47-aee6-0b17a19257d7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
