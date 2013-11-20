@@ -1,7 +1,7 @@
 16.pants. Valsts sociālo pabalstu piešķiršana
 (1) Šā likuma 6., 7., 7.¹, 8. un 8.¹ pantā noteiktos pabalstus par bērnu Ministru kabineta noteiktajā kārtībā piešķir vienam no bērna vecākiem.
 (2) Aizbildnim šā likuma 6., 7., 7.¹ un 8.pantā noteiktos pabalstus piešķir, ja:
-1) bērna vecākiem ir atņemtas bērna aprūpes vai bērna aizgādības tiesības;
+1) bērna vecākiem ir pārtrauktas vai atņemtas bērna aizgādības tiesības;
 2) bērna vecāki ir miruši vai atrodas bezvēsts prombūtnē;
 3) bērna vecāki nav sasnieguši likumā "Par sociālo drošību" noteikto sociālās rīcībspējas vecumu.
 (3) Ja tas nepieciešams bērna personisko interešu aizstāvībai, ar bāriņtiesas īpašu lēmumu valsts sociālo pabalstu var piešķirt jebkurai šā likuma 4.panta pirmajā daļā minētajai personai, kura faktiski audzina bērnu, vai pašam bērnam, ja viņš sasniedzis 15 gadu vecumu.
