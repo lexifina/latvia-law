@@ -1,0 +1,1 @@
+19. Nosakot prokurora vidējo mēneša darba samaksu par laika posmu līdz 2010.gada 31.decembrim, ņem vērā amatalgu, piemaksu par amata pakāpi, prēmijas un citas piemaksas, kuras līdz 2010.gada 31.decembrim bija paredzētas Prokuratūras likumā.
