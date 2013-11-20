@@ -1,2 +1,2 @@
 15.pants. Savstarpējās atzīšanas princips
-Latvijā atļauts piedāvāt tirdzniecībai tos mēslošanas līdzekļus, kuri atbilstoši normatīvajiem aktiem par mēslošanas līdzekļiem ražoti vai laisti brīvā apgrozībā kādā no Eiropas Savienības dalībvalstīm vai Turcijā vai kuri atbilstoši normatīvajiem aktiem par mēslošanas līdzekļiem ražoti kādā no Eiropas Ekonomikas zonas valstīm.
+Latvijā atļauts piedāvāt tirdzniecībai tos mēslošanas līdzekļus un substrātus, kuri atbilstoši normatīvajiem aktiem par mēslošanas līdzekļiem un substrātiem ražoti vai laisti brīvā apgrozībā kādā no Eiropas Savienības dalībvalstīm vai Turcijā vai kuri atbilstoši normatīvajiem aktiem par mēslošanas līdzekļiem un substrātiem ražoti kādā no Eiropas Ekonomikas zonas valstīm.

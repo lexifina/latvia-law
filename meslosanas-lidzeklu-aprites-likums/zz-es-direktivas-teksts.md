@@ -1,3 +1,1 @@
-Likumā iekļautas tiesību normas, kas izriet no:
-1) Eiropas Parlamenta un Padomes 1998.gada 22.jūnija direktīvas 98/34/EK, ar ko nosaka informācijas sniegšanas kārtību tehnisko standartu un noteikumu jomā;
-2) Eiropas Parlamenta un Padomes 1998.gada 20.jūlija direktīvas 98/48/EK, ar kuru groza direktīvu 98/34/EK, ar ko nosaka informācijas sniegšanas kārtību tehnisko standartu un noteikumu jomā.
+Tiesību normas saskaņotas ar Eiropas Komisiju un Eiropas Savienības dalībvalstīm atbilstoši Eiropas Parlamenta un Padomes 1998.gada 22.jūnija direktīvai 98/34/EK, ar ko nosaka informācijas sniegšanas kārtību tehnisko standartu un noteikumu jomā, un Eiropas Parlamenta un Padomes 1998.gada 20.jūlija direktīvai 98/48/EK, ar kuru groza direktīvu 98/34/EK, ar ko nosaka informācijas sniegšanas kārtību tehnisko standartu un noteikumu jomā.

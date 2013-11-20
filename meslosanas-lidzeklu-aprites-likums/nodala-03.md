@@ -1,2 +1,2 @@
 III nodaļa
-Mēslošanas līdzekļu reģistrācija, aprites uzraudzība un kontrole
+Mēslošanas līdzekļu un substrātu reģistrācija, aprites uzraudzība un kontrole

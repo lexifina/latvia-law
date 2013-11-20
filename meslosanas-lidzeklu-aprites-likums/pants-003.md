@@ -3,8 +3,8 @@
 1) notekūdeņu dūņām, ja tās lieto par mēslošanas līdzekli, kura izmantošanu reglamentē normatīvie akti par notekūdeņu dūņu un to kompostu izmantošanu, monitoringu un kontroli;
 2) neapstrādātiem organiskajiem mēslošanas līdzekļiem un neapstrādātiem kaļķošanas materiāliem;
 3) (izslēgts ar 17.06.2010. likumu);
-4) substrātiem;
-5) mēslošanas līdzekļiem, kuriem piemēro kādu no muitas procedūrām, izņemot tos mēslošanas līdzekļus, kuriem piemēro muitas procedūru - laišana brīvā apgrozībā.
+4) (izslēgts ar 17.10.2013. likumu);
+5) mēslošanas līdzekļiem un substrātiem, kuriem piemēro kādu no muitas procedūrām, izņemot tos mēslošanas līdzekļus un substrātus, kuriem piemēro muitas procedūru - laišana brīvā apgrozībā.
 (2) Uz mēslošanas līdzekļiem, kuriem ir marķējums "EK mēslošanas līdzeklis" (turpmāk - EK marķējums), attiecas šā likuma noteikumi par:
 1) nevēlamo piemaisījumu maksimāli pieļaujamo koncentrāciju mēslošanas līdzekļos (4.panta pirmās daļas 1.punkta "d" apakšpunkts);
 2) mēslošanas līdzekļu uzraudzību, kontroli un uzskaiti, kā arī detonācijas testu vai to kopiju saņemšanu un informācijas sniegšanu (4.panta pirmās daļas 1.punkta "f" apakšpunkts, 4.panta trešā daļa, 8.panta trešā daļa, 9.panta pirmās daļas 7., 8., 9. un 10.punkts un otrās daļas 1., 2. un 5.punkts);
