@@ -1,0 +1,1 @@
+1.pants. 2013.gada 10.aprīlī parakstītais Latvijas Republikas valdības un Baltkrievijas Republikas valdības līgums par Latvijas-Baltkrievijas valsts robežas režīmu (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
