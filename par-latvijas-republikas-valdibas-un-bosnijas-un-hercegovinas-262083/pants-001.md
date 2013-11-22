@@ -1,0 +1,1 @@
+1.pants. 2013.gada 22.maijā Leipcigā parakstītais Latvijas Republikas valdības un Bosnijas un Hercegovinas Ministru padomes nolīgums par starptautiskajiem pārvadājumiem ar autotransportu (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
