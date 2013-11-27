@@ -1,0 +1,1 @@
+2. Partijas, kuru dibinātāju sapulces lēmums par partijas dibināšanu pieņemts līdz attiecīgo šā likuma grozījumu spēkā stāšanās dienai, ierakstāmas partiju reģistrā saskaņā ar tām normatīvo aktu prasībām, kuras bija spēkā dienā, kad tika pieņemts attiecīgās partijas dibinātāju sapulces lēmums par partijas dibināšanu.

@@ -10,7 +10,8 @@
 (4) Lēmumu par atteikumu izdarīt ierakstu partiju reģistrā partiju reģistra iestādes amatpersona pieņem, ja:
 1) partijas statūtos noteiktais mērķis ir pretrunā ar Latvijas Republikas Satversmi, likumiem vai Latvijai saistošiem starptautiskajiem līgumiem;
 2) pārkāpta likumā noteiktā partijas dibināšanas kārtība;
-3) pēc tam, kad pieņemts lēmums par ieraksta izdarīšanas atlikšanu, noteiktajā termiņā nav novērsti šajā lēmumā norādītie trūkumi.
+3) pēc tam, kad pieņemts lēmums par ieraksta izdarīšanas atlikšanu, noteiktajā termiņā nav novērsti šajā lēmumā norādītie trūkumi;
+4) partijas dibinātāju sarakstā, kurā ir noteiktajā kārtībā apliecināts attiecīgā dibinātāja paraksts un kuru saskaņā ar šā likuma 16.panta otrās daļas 3.punktu pievieno pieteikumam par partijas ierakstīšanu reģistrā, norādītās personas nav tās pašas, kuras ir norādītas šā likuma 13.panta 1.¹ daļā minētajā dibinātāju sapulces norises protokolā.
 (5) Lēmumu par atteikumu izdarīt ierakstu partiju reģistrā vai ieraksta izdarīšanas atlikšanu pamato. Lēmumā par ieraksta izdarīšanas atlikšanu norāda saprātīgu termiņu trūkumu novēršanai.
 (6) Partiju reģistra iestādes amatpersona šā panta otrajā daļā minēto lēmumu nosūta pieteikuma iesniedzējam piecu darbdienu laikā pēc lēmuma pieņemšanas.
 (7) Pieteikuma iesniedzējam ir tiesības apstrīdēt un pārsūdzēt partiju reģistra iestādes amatpersonas lēmumu administratīvo procesu regulējošajos normatīvajos aktos noteiktajā kārtībā.
