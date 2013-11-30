@@ -1,0 +1,1 @@
+109. Ar nodokli neapliek summas (piemēram, bēru pabalsts, ziedojums, kompensācija), ko fiziskās un juridiskās personas izmaksājušas 2013.gada 21.novembra traģēdijā tirdzniecības centrā Priedaines ielā 20, Rīgā, cietušajiem un bojāgājušo tuviniekiem saistībā ar šo traģēdiju.
