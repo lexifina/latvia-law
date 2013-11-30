@@ -14,6 +14,7 @@
 12) veicina elektronisko plašsaziņas līdzekļu sniegto pakalpojumu lietotprasmi;
 13) veicina Latvijas nacionālajām interesēm atbilstošu elektronisko plašsaziņas līdzekļu programmu politiku;
 14) nodrošina sabiedrības, plašsaziņas līdzekļu profesionālo un izglītības institūciju pārstāvju līdzdalību sabiedriskā pasūtījuma veidošanā un izpildes uzraudzībā, kā arī Elektronisko plašsaziņas līdzekļu nozares attīstības nacionālās stratēģijas izstrādē;
+14¹) apstiprina galalietotājiem bez maksas zemes apraidē ciparformātā izplatāmo televīzijas programmu sarakstu. Kritērijus elektronisko plašsaziņas līdzekļu programmu iekļaušanai galalietotājiem bez maksas zemes apraidē ciparformātā izplatāmo televīzijas programmu sarakstā nosaka Elektronisko plašsaziņas līdzekļu nozares attīstības nacionālajā stratēģijā;
 15) veic citas normatīvajos aktos noteiktās darbības.
 (2) Nacionālā elektronisko plašsaziņas līdzekļu padome kontrolē šā likuma ievērošanu:
 1) uzklausot un pārbaudot sūdzības;

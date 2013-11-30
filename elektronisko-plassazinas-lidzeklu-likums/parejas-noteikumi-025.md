@@ -1,0 +1,1 @@
+25. Šā likuma grozījumi par 19.panta sestās daļas izteikšanu jaunā redakcijā, 19.panta papildināšanu ar 6.¹ un 6.² daļu, kā arī grozījums par 19.panta septītās daļas izslēgšanu stājas spēkā 2014.gada 1.janvārī.
