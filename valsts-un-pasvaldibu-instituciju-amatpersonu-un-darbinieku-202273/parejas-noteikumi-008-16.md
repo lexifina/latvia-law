@@ -1,0 +1,1 @@
+8.¹⁶ Amatpersonām (darbiniekiem), kuras piedalījās 2013.gada 21.novembra traģēdijas tirdzniecības centrā Priedaines ielā 20, Rīgā, seku novēršanā, attiecīgā valsts institūcija, pamatojoties uz Ministru kabineta lēmumu, izmaksā vienreizēju prēmiju Ministru kabineta noteiktajā apmērā.
