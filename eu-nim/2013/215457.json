@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2013.gada 12.novembra noteikumi Nr. 1284\"Darbinieku apstarošanas kontroles un uzskaites kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "223 (5029)",
+  "official_journal_page": null,
+  "official_journal_date": "2013-11-14",
+  "entry_into_force": "2013-12-01",
+  "notification_date": "2014-04-24",
+  "commission_reference": "MNE(2014)52585",
+  "nim_celex": "71996L0029LVA_215457",
+  "nim_id": "215457",
+  "transposes_celex": [
+    "31996L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9f6221d0-4b9a-45cd-993e-276ec6a26fc8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
