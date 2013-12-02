@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ziņojums par Eiropas Parlamenta un padomes Direktīvas 2012/27/ES (2012. gada 25. oktobris) par energoefektivitāti, ar ko groza Direktīvas 2009/125/EK un 2010/30/ES un atceļ Direktīvas 2004/8/EK un 2006/32/EK  7.panta prasību izpildi",
+  "type_of_act": "Administrative measures",
+  "official_journal": "Administrative measures",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2013-12-03",
+  "entry_into_force": "2013-12-02",
+  "notification_date": null,
+  "commission_reference": "MNE(2013)59517",
+  "nim_celex": "72012L0027LVA_211283",
+  "nim_id": "211283",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ebc2844b-92f8-4f8f-904f-9f642dff8eef",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
