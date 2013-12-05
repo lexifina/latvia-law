@@ -1,1 +1,1 @@
-19.pants. Sākot ar vēlēšanu iecirkņa atvēršanu, vēlēšanu iecirkņa komisijas sekretārs vai - viņa prombūtnes laikā - cits vēlēšanu iecirkņa komisijas priekšsēdētāja pilnvarots komisijas loceklis raksta vēlēšanu gaitas protokolu Centrālās vēlēšanu komisijas noteiktajā kārtībā.
+19.pants. Sākot ar vēlēšanu iecirkņa atvēršanu, vēlēšanu iecirkņa komisijas sekretārs vai - viņa prombūtnes laikā - cits vēlēšanu iecirkņa komisijas priekšsēdētāja pilnvarots komisijas loceklis raksta vēlēšanu gaitas žurnālu Centrālās vēlēšanu komisijas noteiktajā kārtībā.

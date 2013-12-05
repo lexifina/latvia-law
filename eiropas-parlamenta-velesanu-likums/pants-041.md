@@ -1,4 +1,4 @@
-41.pants. (1) Vēlēšanu iecirknī balsošanai pa pastu un iecirkņos, kuri organizē balsošanu vēlētāja atrašanās vietā, pirms balsu skaitīšanas uzsākšanas nosakāms saņemto reģistrācijas aplokšņu derīgums.
+41.pants. (1) Vēlēšanu iecirknī balsošanai pa pastu un iecirkņos, kuri organizē balsošanu vēlētāja atrašanās vietā 30.pantā noteiktajā kārtībā, pirms balsu skaitīšanas uzsākšanas nosakāms saņemto reģistrācijas aplokšņu derīgums.
 (2) Par derīgām uzskatāmas reģistrācijas aploksnes, kuras saņemtas no balsotāju sarakstā ierakstītajiem vēlētājiem, kas nav nobalsojuši personiski savā vēlēšanu iecirknī. Par nederīgām uzskatāmas reģistrācijas aploksnes:
 1) kuras balsošanā pa pastu atsūtījušas personas, kas nav reģistrētas vēlētāju sarakstā;
 2) kuras balsošanā pa pastu atsūtījuši vēlētāji, kas vēlēšanu vai iepriekšējās balsošanas dienā ieradušies savā vēlēšanu iecirknī un nolieguši, ka balsojuši pa pastu;
