@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2013.gada 3.decembra noteikumi Nr.1376 “Kārtība, kādā izveido paziņošanas komisiju, kā arī kārtība, kādā komisija pieņem lēmumu un paziņo Eiropas Komisijai par atbilstības novērtēšanas institūcijām, kas veic atbilstības novērtēšanu reglamentētajā sfērā”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "239 (5045)",
+  "official_journal_page": null,
+  "official_journal_date": "2013-12-06",
+  "entry_into_force": "2013-12-07",
+  "notification_date": "2016-05-06",
+  "commission_reference": "MNE(2016)53021",
+  "nim_celex": "72014L0053LVA_237316",
+  "nim_id": "237316",
+  "transposes_celex": [
+    "32014L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/640a5d44-6078-4803-b3fa-6038a304ced8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
