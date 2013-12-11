@@ -1,0 +1,1 @@
+26. Šā likuma grozījumi par 1.panta 7.punkta, 4. un 5.panta, 7.panta pirmās un piektās daļas izteikšanu jaunā redakcijā, grozījumi par likuma papildināšanu ar 1.panta 7.¹ punktu un 4.¹ pantu, kā arī grozījumi par 7.panta otrās, ceturtās un sestās daļas, 11.panta otrās daļas 3.punkta un pārejas noteikumu 17.punkta izslēgšanu stājas spēkā 2014.gada 1.janvārī.

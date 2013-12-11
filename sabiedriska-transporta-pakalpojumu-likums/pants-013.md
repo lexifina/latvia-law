@@ -12,3 +12,4 @@
 (11) Pārvadātājam ir pienākums informēt pasažierus par braukšanas maksu un līgumsoda apmēru, kā arī par citiem būtiskiem sabiedriskā transporta pakalpojumu izmantošanas noteikumiem viegli uztveramā veidā, minētos noteikumus novietojot pasažierim redzamā vietā.
 (12) Pasažierim ir tiesības izmantot pārvadātāja sniegtos sabiedriskā transporta pakalpojumus saskaņā ar regulāro pasažieru pārvadājumu līgumu.
 (13) Pasažierim ir pienākums ievērot regulāro pasažieru pārvadājumu līguma noteikumus un citus sabiedriskā transporta pakalpojumu nozari reglamentējošos normatīvajos aktos minētos sabiedriskā transporta pakalpojumu izmantošanas noteikumus.
+(14) Pasūtītājs, ņemot vērā īpašus apstākļus (piemēram, svētku un svinamās dienas, pasažieru plūsmu, laikapstākļus u.c.), var noteikt īslaicīgu izņēmumu no šajā likumā un citos normatīvajos aktos paredzētās sabiedriskā transporta pakalpojumu izmantošanas kārtības.

@@ -2,9 +2,8 @@
 (1) Ar sabiedriskā transporta pakalpojumu sniegšanu saistītos zaudējumus pārvadātājam kompensē atbilstoši apmēram un kārtībai, ko nosaka Ministru kabinets. Šos zaudējumus kompensē no:
 1) no valsts budžetā šim mērķim paredzētajiem līdzekļiem -reģionālo starppilsētu nozīmes maršrutu tīkla maršrutos;
 2) no valsts budžetā šim mērķim paredzētajiem līdzekļiem - reģionālo vietējās nozīmes maršrutu tīkla maršrutos;
-3) no pašvaldību budžetu līdzekļiem - reģionālo vietējās nozīmes maršrutu tīkla maršrutos par to sabiedriskā transporta pakalpojumu pasūtījuma daļu, kura pārsniedz šo pakalpojumu nodrošināšanai paredzēto valsts budžeta līdzekļu ietvarus;
-4) no pašvaldību budžetos šim mērķim paredzētajiem
-līdzekļiem - pilsētas nozīmes maršrutu tīkla maršrutos;
+3) (izslēgts ar 21.11.2013. likumu);
+4) no pašvaldību budžetos šim mērķim paredzētajiem līdzekļiem - pilsētas nozīmes maršrutu tīkla maršrutos;
 5) no valsts budžetā šim mērķim paredzētajiem līdzekļiem - pilsētas nozīmes maršrutu tīkla maršrutos - normatīvajos aktos noteiktajos gadījumos.
 (2) Ministru kabinets nosaka kārtību, kādā:
 1) nosaka un aprēķina pārvadātāju zaudējumus, kā arī pārvadātājiem kompensē ar sabiedriskā transporta pakalpojumu sniegšanu saistītos zaudējumus un kontrolē šo līdzekļu izmantošanas tiesiskumu un pareizību;

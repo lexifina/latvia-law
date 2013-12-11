@@ -1,1 +1,1 @@
-20. Šā likuma 11.panta pirmās daļas 3.punktu nepiemēro, kompensējot pārvadātājam ar sabiedriskā transporta pakalpojumu sniegšanu saistītos zaudējumus par 2011. un 2012.gadu.
+20. Par 2011., 2012. un 2013.gadu pārvadātājam ar sabiedriskā transporta pakalpojumu sniegšanu saistītos zaudējumus reģionālās vietējās nozīmes maršrutu tīkla maršrutos kompensē no valsts budžeta.
