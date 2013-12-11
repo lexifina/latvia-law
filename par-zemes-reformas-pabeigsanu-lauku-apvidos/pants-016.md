@@ -3,5 +3,5 @@
 1) piešķir īpašuma kompensācijas sertifikātus, ja kompensācija pieprasīta līdz 2006.gada 28.aprīlim;
 2) atjauno zemes īpašuma tiesības uz pastāvīgā lietošanā piešķirto zemi, izņemot šā likuma 2.panta sestajā daļā minētos gadījumus, vai uz zemes reformas pabeigšanai paredzēto zemi, vai uz zemi, kas nav ierakstīta zemesgrāmatā un ko tās nomā no vietējās pašvaldības atbilstoši Valsts un pašvaldību īpašuma privatizācijas un privatizācijas sertifikātu izmantošanas pabeigšanas likuma 25.panta otrajai daļai.
 (3) Centrālā zemes komisija:
-1) atzinumus par īpašuma tiesību atjaunošanu uz zemes reformas pabeigšanai paredzēto zemi pieņem līdz 2013.gada 30.decembrim;
+1) atzinumus par īpašuma tiesību atjaunošanu uz zemes reformas pabeigšanai paredzēto zemi pieņem līdz 2014.gada 28.jūnijam;
 2) lēmumus par īpašuma tiesību atjaunošanu uz zemes reformas pabeigšanai paredzēto zemi pieņem Ministru kabineta noteiktajā kārtībā.
