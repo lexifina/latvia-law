@@ -1,0 +1,1 @@
+1.pants. 2013.gada 28.janvārī Londonā parakstītais Latvijas Republikas valdības un Džērsijas valdības līgums par informācijas apmaiņu attiecībā uz nodokļiem (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
