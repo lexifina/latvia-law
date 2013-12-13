@@ -1,0 +1,1 @@
+Par Latvijas Republikas valdības un Turkmenistānas valdības līgumu par sadarbību cīņā pret terorismu, organizēto noziedzību, nelegālu narkotisko vielu, psihotropo vielu un prekursoru apriti un cita veida noziedzīgiem nodarījumiem

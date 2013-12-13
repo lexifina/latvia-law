@@ -1,0 +1,1 @@
+1.pants. 2013.gada 14.maijā Ašhabadā, Turkmenistānā, parakstītais Latvijas Republikas valdības un Turkmenistānas valdības līgums par sadarbību cīņā pret terorismu, organizēto noziedzību, nelegālu narkotisko vielu, psihotropo vielu un prekursoru apriti un cita veida noziedzīgiem nodarījumiem (turpmāk -- Līgums) ar šo likumu tiek pieņemts un apstiprināts.
