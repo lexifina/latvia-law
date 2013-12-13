@@ -1,0 +1,1 @@
+1.pants. 2013.gada 30.aprīlī Ulanbatorā parakstītais Pamatnolīgums par partnerību un sadarbību starp Eiropas Savienību un tās dalībvalstīm, no vienas puses, un Mongoliju, no otras puses (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.
