@@ -1,0 +1,1 @@
+4.¹ pants. Latvijas Republikas paziņojums par šā likuma 1.¹ pantā ietverto atrunu stājas spēkā vienlaikus ar Protokolu atbilstoši tā noslēguma jautājumu 20.pantam, ja vien IMO ģenerālsekretārs nepaziņo par citu kārtību, un Ārlietu ministrija par to paziņo oficiālajā izdevumā "Latvijas Vēstnesis".
