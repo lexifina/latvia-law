@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2013. gada 17. decembra rīkojums Nr. 643 “Par akciju sabiedrības “Attīstības finanšu institūcija” dibināšanu”",
+  "type_of_act": "Ministru kabineta rīkojums",
+  "official_journal": null,
+  "official_journal_reference": "2013/249.8",
+  "official_journal_page": null,
+  "official_journal_date": "2013-12-19",
+  "entry_into_force": "2013-12-17",
+  "notification_date": "2026-02-05",
+  "commission_reference": "MNE(2026)00961",
+  "nim_celex": "72023L1791LVA_202600961",
+  "nim_id": "202600961",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4fb4e896-4049-49a5-977d-59289f6d2649",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
