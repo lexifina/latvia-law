@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ziņojums EP un Padomes Direktīvas 2010/31/ES par ēku energoefektivitāti 5.panta 2.punkta izpildei",
+  "type_of_act": "Administrative measures",
+  "official_journal": "Administrative measures",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2013-12-18",
+  "entry_into_force": "2013-12-18",
+  "notification_date": null,
+  "commission_reference": "MNE(2013)60171",
+  "nim_celex": "72010L0031LVA_212064",
+  "nim_id": "212064",
+  "transposes_celex": [
+    "32010L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ef539f72-b120-4b14-a198-c906f32915a6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
