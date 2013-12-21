@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 10.12.2013. noteikumi Nr. 1460 \"Grozījumi Ministru kabineta 2002.gada 19.marta noteikumos Nr.129 \"Prasības darbībām ar radioaktīvajiem atkritumiem un ar tiem saistītajiem materiāliem\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "250 (5056)",
+  "official_journal_page": null,
+  "official_journal_date": "2013-12-20",
+  "entry_into_force": "2013-12-21",
+  "notification_date": "2013-12-27",
+  "commission_reference": "MNE(2013)60173",
+  "nim_celex": "72011L0070LVA_212066",
+  "nim_id": "212066",
+  "transposes_celex": [
+    "32011L0070"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b43df9ee-0d41-42eb-ab6a-ab5f9cb733ad",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
