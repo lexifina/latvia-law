@@ -1,1 +1,1 @@
-4. Ministru kabinets līdz 2011.gada 1.aprīlim izdod šā likuma 19.panta ceturtajā un piektajā daļā minētos noteikumus.
+4. Ministru kabinets līdz 2013.gada 31.decembrim izdod šā likuma 19.panta ceturtajā un piektajā daļā minētos noteikumus.

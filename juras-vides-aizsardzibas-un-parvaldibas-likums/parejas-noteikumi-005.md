@@ -1,1 +1,1 @@
-5. Šā likuma 8.panta pirmajā daļā minēto jūras vides stāvokļa sākotnējo novērtējumu izstrādā un apstiprina ne vēlāk kā līdz 2012.gada 15.jūlijam.
+5. Šā likuma 8.panta pirmajā daļā minēto jūras vides stāvokļa sākotnējo novērtējumu, 9.panta trešajā daļā minētos laba jūras vides stāvokļa kritērijus un 10.panta pirmajā daļā minētos jūras vides mērķus un ar tiem saistīto rādītāju kopumu izstrādā un apstiprina ne vēlāk kā līdz 2012.gada 15.jūlijam.

@@ -6,8 +6,10 @@
 3) zveja atbilstoši normatīvajiem aktiem par zvejniecību;
 4) mākslīgo salu, būvju un iekārtu, tai skaitā platformu un enerģijas ražošanai nepieciešamo iekārtu (turpmāk - būves), būvniecība, ierīkošana, arī ar to saistītā izpēte, un būvju ekspluatācija, izņemot ostu darbībai nepieciešamo būvju būvniecību, kā arī navigācijas līdzekļu un sistēmu izveidi un uzturēšanu, saskaņā ar šā likuma un būvniecību regulējošo normatīvo aktu prasībām;
 5) virszemes ūdensobjektu un ostu akvatoriju tīrīšana un padziļināšana un tīrīšanas un padziļināšanas darbu gaitā izņemtās grunts novietošana grunts novietnēs jūrā atbilstoši normatīvajiem aktiem par ūdens apsaimniekošanu;
-6) ostu darbībai nepieciešamo hidrotehnisko būvju būvniecība atbilstoši normatīvajiem aktiem par būvniecību.
+6) ostu darbībai nepieciešamo hidrotehnisko būvju būvniecība atbilstoši normatīvajiem aktiem par būvniecību;
+7) elektronisko sakaru tīklu jūras kabeļlīniju, elektrisko tīklu kabeļlīniju, zemūdens elektropārvades kabeļlīniju un zemūdens cauruļvadu, tai skaitā gāzesvadu, naftas un naftas produktu cauruļvadu, ierīkošana.
 (3) Pirms Ministru kabinets izsniedz atļauju vai licenci jūras izmantošanai, tas ar ikreizēju rīkojumu nosaka konkrētu jūras teritoriju (turpmāk - atļaujas vai licences laukums jūrā) šā panta otrās daļas 4.punktā noteikto darbību veikšanai, ņemot vērā arī šā likuma 14.panta nosacījumus. Tiesības izmantot atļaujas vai licences laukumu jūrā iegūst persona, kura uzvarējusi konkursā par tiesībām izmantot atļaujas vai licences laukumu jūrā.
+(3¹) Pirms Ministru kabinets izsniedz atļauju vai licenci jūras izmantošanai, tas ar ikreizēju rīkojumu nosaka atļaujas vai licences laukumu jūrā šā panta otrās daļas 7.punktā noteikto darbību veikšanai, ņemot vērā arī šā likuma 14.panta nosacījumus. Minēto rīkojumu, saskaņojot no kuģošanas drošības viedokļa ar valsts akciju sabiedrību "Latvijas Jūras administrācija", sagatavo atbildīgā ministrija, pamatojoties uz personas iesniegumu.
 (4) Ministru kabinets reglamentē:
 1) kārtību, kādā nosakāms šā panta trešajā daļā minētais atļaujas vai licences laukums jūrā;
 2) kārtību, kādā rīkojams konkurss par tiesībām izmantot atļaujas vai licences laukumu jūrā;
