@@ -9,6 +9,7 @@
 3) apmācības kursi (semināri) drošas transportlīdzekļa vadīšanas jautājumos;
 4) eksāmens ceļu satiksmes drošības jautājumos;
 5) transportlīdzekļu vadīšanas iemaņu pārbaude;
-6) transportlīdzekļu vadīšanas tiesību izmantošanas aizliegums uz vienu gadu, ja sasniegts maksimālais uzskaites punktu skaits, vai ilgāk, kamēr saglabājas maksimālais uzskaites punktu skaits.
+6) transportlīdzekļu vadīšanas tiesību izmantošanas aizliegums uz vienu gadu, ja sasniegts maksimālais uzskaites punktu skaits;
+7) braukšanas uzvedības korekcijas grupas nodarbības.
 (6) Transportlīdzekļa vadītājs zaudē transportlīdzekļu vadīšanas tiesības un atkal var tās iegūt ne agrāk kā pēc pieciem gadiem, ja viņam 10 gadu laikā atkārtoti piemērots transportlīdzekļu vadīšanas tiesību izmantošanas aizliegums par maksimālā uzskaites punktu skaita sasniegšanu.
 (7) Pārkāpumu uzskaites punktu sistēmas piemērošanas noteikumus, reglamentējot reģistrējamos pārkāpumus, pārkāpumiem atbilstošos uzskaites punktus, to noilgumu, pārkāpumu uzskaites punktu reģistrēšanas un dzēšanas kārtību, informācijas apmaiņas kārtību un kārtību, kādā reģistrā esošā informācija paziņojama transportlīdzekļa vadītājam, kā arī transportlīdzekļu vadītāju uzvedības ietekmēšanas līdzekļu piemērošanas kārtību nosaka Ministru kabinets.

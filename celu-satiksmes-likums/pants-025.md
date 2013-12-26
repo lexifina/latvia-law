@@ -9,7 +9,7 @@
 a) vizuāla informācija (uzlīme) ar atļaujas piedalīties ceļu satiksmē derīguma termiņu, uzlīmēta uz automobiļa vai traktortehnikas vējstikla vai uz speciālas pamatnes motocikla, piekabes (puspiekabes), sporta automobiļu, traktortehnikas vai speciālā militārā transportlīdzekļa gadījumā,
 b) vizuāla informācija (uzlīme) ar pagaidu atļaujas piedalīties ceļu satiksmē derīguma termiņu, uzlīmēta uz automobiļa vai traktortehnikas vējstikla vai uz speciālas pamatnes motocikla, piekabes (puspiekabes), sporta automobiļu, traktortehnikas vai speciālā militārā transportlīdzekļa gadījumā,
 c) dokuments par veikto transportlīdzekļa tehnisko kontroli uz ceļiem,
-d) Ceļu satiksmes drošības direkcijas izsniegta vai elektroniski noformēta vienas dienas atļauja piedalīties ceļu satiksmē, lai veiktu tehnisko apskati.
+d) Ceļu satiksmes drošības direkcijā elektroniski noformēta vienas dienas atļauja piedalīties ceļu satiksmē, lai veiktu tehnisko apskati.
 (1¹) Mopēda vadītājam jābūt klāt šā panta pirmās daļas 1. un 2. punktā minētajiem dokumentiem.
 (2) Vadītājam pirms izbraukšanas jāpārbauda, vai transportlīdzeklis ir tehniskā kārtībā un nokomplektēts, tai skaitā ar pirmās palīdzības aptieciņu, kuras saturs atbilst normatīvajiem aktiem par pirmās palīdzības sniegšanai nepieciešamo medicīnisko materiālu minimumu, kā arī jāseko transportlīdzekļa tehniskajam stāvoklim ceļā.
 (3) Transportlīdzekļa vadītājam jāievēro šā likuma, Ceļu satiksmes noteikumu un citu ceļu satiksmi reglamentējošu normatīvo aktu prasības, pārvietojoties pa ceļiem, kā arī pa citām vietām, kurās iespējama transporta kustība.

@@ -19,13 +19,13 @@
 17) TROL - trolejbusi.
 (2) Transportlīdzekļa vadītājam, kuram ir tiesības vadīt vienas kategorijas transportlīdzekli, atļauts vadīt arī šādus citas kategorijas transportlīdzekļus:
 1) ar A kategorijas transportlīdzekļa vadīšanas tiesībām - A1, A2 kategorijas transportlīdzekļus;
-2) ar B kategorijas transportlīdzekļa vadīšanas tiesībām - B1 kategorijas transportlīdzekli;
+2) ar B kategorijas transportlīdzekļa vadīšanas tiesībām - B1 kategorijas transportlīdzekli, bet transportlīdzekļa vadītājam, kurš sasniedzis 21 gada vecumu, - arī A kategorijas triciklu;
 3) ar C kategorijas transportlīdzekļa vadīšanas tiesībām - C1 kategorijas transportlīdzekli;
 4) ar D kategorijas transportlīdzekļa vadīšanas tiesībām - D1 kategorijas transportlīdzekli;
 5) ar A2 vai B kategorijas transportlīdzekļa vadīšanas tiesībām - A1 kategorijas transportlīdzekli;
 6) ar CE kategorijas transportlīdzekļa vadīšanas tiesībām - C1E kategorijas transportlīdzekli;
 7) ar DE kategorijas transportlīdzekļa vadīšanas tiesībām - D1E kategorijas transportlīdzekli;
-8) ar jebkura mehāniskā transportlīdzekļa vai tramvaja vadīšanas tiesībām - AM kategorijas transportlīdzekli.
+8) ar jebkura mehāniskā transportlīdzekļa vai tramvaja vadīšanas tiesībām - AM kategorijas transportlīdzekli un sniega motociklu.
 (3) Transportlīdzekļu vadītājam, kuram ir tiesības vadīt trolejbusu un vadītāja apliecībā izdarīta attiecīga atzīme, apdzīvotās vietās atļauts vadīt arī D1 un D kategorijai atbilstošu pasažieru sabiedrisko transportlīdzekli.
 (4) Transportlīdzekļa vadītājam, kuram ir tiesības vadīt B kategorijas transportlīdzekli, kurš normatīvajos aktos noteiktajā kārtībā ir nokārtojis transportlīdzekļa vadīšanas eksāmenu un kuram transportlīdzekļu vadītāja apliecībā par to izdarīta attiecīga atzīme, atļauts vadīt B kategorijas vilcēja savienojumu ar piekabi, kuras pilna masa pārsniedz 750 kilogramus, ja šā savienojuma pilna masa pārsniedz 3500 kilogramus.
 (5) Transportlīdzekļa vadītājam, kuram ir tiesības vadīt B, C1, D1, C vai D kategorijas transportlīdzekļus, atļauts vadīt specializētos tūristu transportlīdzekļus.
