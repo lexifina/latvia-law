@@ -1,5 +1,5 @@
 9.pants. Speciālā izmantošana
-(1) Pornogrāfiska rakstura materiālu apritei normatīvajos aktos noteiktos aizliegumus vai ierobežojumus nepiemēro, ja tos izmanto šādiem mērķiem:
+(1) Pornogrāfiska rakstura materiāla apritei normatīvajos aktos noteiktos aizliegumus vai ierobežojumus nepiemēro, ja tos izmanto šādiem mērķiem:
 1) izglītības procesā, zinātniskos, pētnieciskos vai ārstnieciskos nolūkos;
 2) specializētajā nozares literatūrā, kā arī attiecīgo nozaru bibliotēkās (specializētajās bibliotēkās);
 3) tiesībaizsardzības iestādes un tiesas - to uzdevumu veikšanai, kas noteikti normatīvajā aktā;

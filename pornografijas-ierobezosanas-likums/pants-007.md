@@ -1,4 +1,4 @@
 7.pants. Izplatīšanas ierobežojumi elektroniskā vidē
-(1) Aizliegts elektroniskā vidē izplatīt pornogrāfiska rakstura materiālus vai informāciju par šādu materiālu pieejamību nenosakāmam saņēmēju lokam vai gadījumos, kad nav saņemta adresāta piekrišana.
-(2) Izplatot elektroniskā vidē pornogrāfiska rakstura materiālus vai informāciju par šādu materiālu pieejamību, to izplatītājs, ievērojot šā panta trešās daļas noteikumus, nodrošina iespēju atteikties no turpmākiem sūtījumiem un saņēmēja brīdināšanu par to, ka attiecīgajam materiālam ir pornogrāfisks raksturs.
-(3) Gadījumos, kad tiek sniegti informācijas sabiedrības pakalpojumi, starpnieka pakalpojumu sniedzēju pienākumus un atbildību par saistību ar pornogrāfiska rakstura materiālu izplatīšanu nosaka Informācijas sabiedrības pakalpojumu likums.
+(1) Aizliegts elektroniskā vidē izplatīt pornogrāfiska rakstura materiālu vai informāciju par šāda materiāla pieejamību nenosakāmam saņēmēju lokam vai gadījumos, kad nav saņemta adresāta piekrišana.
+(2) Izplatot elektroniskā vidē pornogrāfiska rakstura materiālu vai informāciju par šāda materiāla pieejamību, tā izplatītājs, ievērojot šā panta trešās daļas noteikumus, nodrošina iespēju atteikties no turpmākiem sūtījumiem un saņēmēja brīdināšanu par to, ka attiecīgajam materiālam ir pornogrāfisks raksturs.
+(3) Gadījumos, kad tiek sniegti informācijas sabiedrības pakalpojumi, starpnieka pakalpojumu sniedzēju pienākumus un atbildību par saistību ar pornogrāfiska rakstura materiāla izplatīšanu nosaka Informācijas sabiedrības pakalpojumu likums.
