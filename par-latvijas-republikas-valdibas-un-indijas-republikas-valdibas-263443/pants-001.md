@@ -1,0 +1,1 @@
+1.pants. 2013.gada 18.septembrī Deli parakstītais Latvijas Republikas valdības un Indijas Republikas valdības līgums par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma nodokļiem (turpmāk - Līgums) un tā 2013.gada 18.septembrī Deli parakstītais protokols (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
