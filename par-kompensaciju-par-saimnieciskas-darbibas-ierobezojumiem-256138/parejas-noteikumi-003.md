@@ -1,1 +1,1 @@
-3. Zemes īpašniekam, kurš pieteicies atlīdzības saņemšanai pēc 2009.gada 31.decembra, bet kuram atlīdzība vēl nav aprēķināta un izmaksāta, to aprēķina un izmaksā, sākot ar 2014.gadu, ja zemes īpašnieks nav pieteicies ikgadēja atbalsta maksājuma saņemšanai vai zemes atpirkšanai.
+3. Zemes īpašniekam, kurš pieteicies atlīdzības saņemšanai pēc 2009.gada 31.decembra, bet kuram atlīdzība vēl nav aprēķināta un izmaksāta, to aprēķina un izmaksā, sākot ar 2015.gadu, ja zemes īpašnieks nav pieteicies ikgadēja atbalsta maksājuma saņemšanai vai zemes atpirkšanai.
