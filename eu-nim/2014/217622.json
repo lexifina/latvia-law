@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Valsts īpašumā, valdījumā un lietošanā esošās ēkas ar kopējo platību virs 500 kv. m. uz 31.12.2013. saskaņā ar Direktīvas 2012/27/ES 5.panta 5.punktu",
+  "type_of_act": "Administrative measures",
+  "official_journal": "Administrative measures",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2014-01-01",
+  "entry_into_force": "2014-01-01",
+  "notification_date": null,
+  "commission_reference": "MNE(2014)53707",
+  "nim_celex": "72012L0027LVA_217622",
+  "nim_id": "217622",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ef2f6193-0fb1-45ff-94b2-19d4484e7342",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
