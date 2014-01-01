@@ -1,0 +1,1 @@
+63. Valsts pensijas un piemaksas pie vecuma un invaliditātes pensijas apmērs konvertējams no latiem uz euro atbilstoši to apmēram 2013.gada 31.decembrī saskaņā ar Euro ieviešanas kārtības likuma 6.pantu.
