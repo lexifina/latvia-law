@@ -1,1 +1,1 @@
-74.² pants. Kredītiestāde ne vēlāk kā piecu dienu laikā pēc klienta iesnieguma saņemšanas informē Finanšu un kapitāla tirgus komisiju par kredītiestādes un tās klienta strīdu par bezskaidras naudas līdzekļu pārvedumu, kas pārsniedz 200 000 latu.
+74.² pants. Kredītiestāde ne vēlāk kā piecu dienu laikā pēc klienta iesnieguma saņemšanas informē Finanšu un kapitāla tirgus komisiju par kredītiestādes un tās klienta strīdu par bezskaidras naudas līdzekļu pārvedumu, kas pārsniedz 285 000 euro.

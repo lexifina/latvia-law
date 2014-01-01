@@ -99,7 +99,7 @@ e) kārtējā darbības gada peļņa, ja ir zvērināta revidenta vai zvērināt
 53) prasījumu un saistību neto ieskaits - pirms parādnieka likvidācijas uzsākšanas vai likumā noteiktajā kārtībā atzītas maksātnespējas iestāšanās starp parādnieku un kreditoru uz rakstveida līguma pamata nodibinātas tiesiskas attiecības no savstarpējiem līgumiem izrietošo prasījumu un saistību izteikšanai vienā prasībā vai saistībā tā, ka tiek celta tikai viena prasība un jāizpilda tikai viena saistība;
 54) prasījumu un saistību dzēšana - prasījumu un saistību savstarpēja izteikšana vienā prasībā vai saistībā tā, ka tiek celta tikai viena prasība un izpildāma tikai viena saistība;
 55) (izslēgts ar 16.05.2013. likumu);
-56) ārvalsts valūta - jebkuras valsts, izņemot Latvijas Republiku, valūta;
+56) ārvalsts valūta - jebkura valūta, izņemot euro;
 57) atgūstamās vērtības samazinājuma risks - risks, ka nopirktais debitora parāds var samazināties par naudā vai citā veidā debitoram piešķirto kredītu;
 58) sertifikāts - atbilstoši normatīvajiem aktiem izsniegts dokuments, kas apliecina administratora kvalifikāciju un dod viņam tiesības pildīt administratora pienākumus tiesiskās aizsardzības procesā un maksātnespējas procesā;
 59) pakārtotās saistības - saistības, kas kredītiestādei rodas no aizdevuma (neatkarīgi no noslēgtā darījuma veida) un kas, pamatojoties uz noslēgto līgumu ar kredītiestādi, aizdevējam dod tiesības atprasīt aizdevumu pirms termiņa tikai kredītiestādes maksātnespējas vai likvidācijas gadījumā un tikai pēc visu citu kreditoru prasījumu apmierināšanas, bet pirms akcionāru prasījumu apmierināšanas;
