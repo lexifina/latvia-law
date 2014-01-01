@@ -1,4 +1,4 @@
 7.¹ pants. Valsts budžeta finansējums
-(1) Valsts budžeta finansējumu piešķir politiskajai organizācijai (partijai), par kuru iepriekšējās Saeimas vēlēšanās nobalsojuši vairāk nekā divi procenti vēlētāju, 0,50 latu apmērā kalendārā gada laikā par katru iegūto balsi.
+(1) Valsts budžeta finansējumu piešķir politiskajai organizācijai (partijai), par kuru iepriekšējās Saeimas vēlēšanās nobalsojuši vairāk nekā divi procenti vēlētāju, 0,71 euro apmērā kalendārā gada laikā par katru iegūto balsi.
 (2) Valsts budžeta finansējumu piešķir uz četriem gadiem un izmaksā, sākot ar nākamo kalendāro gadu pēc Saeimas vēlēšanām. Maksājumus veic četras reizes gadā - līdz 15.janvārim, 15.aprīlim, 15.jūlijam un 15.oktobrim.
 (3) Ja notiek Saeimas ārkārtas vēlēšanas, valsts budžeta finansējumu piešķir uz jaunievēlētās Saeimas pilnvaru laiku, šajā termiņā ieskaitot arī pēdējo tā kalendārā gada ceturksni, kurā attiecīgās Saeimas pilnvaras beidzas. Valsts budžeta finansējuma izmaksu uzsāk ar nākamo kalendārā gada ceturksni pēc balsu skaitīšanas rezultātu apstiprināšanas un veic atbilstoši šā panta otrās daļas otrā teikuma noteikumiem.
