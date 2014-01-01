@@ -1,0 +1,1 @@
+2. Šā likuma 1.panta 1.punkta "e" apakšpunkts stājas spēkā 2014.gada 1.jūlijā. Uz mikrouzņēmumu attiecināmo personālsabiedrības peļņas daļu apliek ar mikrouzņēmumu nodokli, piemērojot šā likuma 6.panta trešajā daļā noteikto mikrouzņēmumu nodokļa likmi.

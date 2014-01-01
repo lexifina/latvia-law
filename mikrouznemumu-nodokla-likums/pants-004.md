@@ -1,7 +1,7 @@
 4.pants. Mikrouzņēmumu nodokļa maksātāja reģistrācija
 (1) Personai ir tiesības Uzņēmumu reģistrā vienlaikus ar iesniegumu par individuālā komersanta, individuālā uzņēmuma, zemnieka vai zvejnieka saimniecības vai sabiedrības ar ierobežotu atbildību ierakstīšanu Uzņēmumu reģistra attiecīgajā reģistrā pieteikties mikrouzņēmumu nodokļa maksātāja statusa iegūšanai, apliecinot, ka pārskata gadā, kas atbilst mikrouzņēmumu nodokļa taksācijas periodam:
 1) paredzamais mikrouzņēmuma darbinieku skaits nepārsniegs piecus darbiniekus un darbinieki tiks informēti saskaņā ar šā likuma 3.panta prasībām;
-2) paredzamais apgrozījums būs līdz 70 000 latu;
+2) paredzamais apgrozījums būs līdz 100 000 euro;
 3) mikrouzņēmums vēlas maksāt mikrouzņēmumu nodokli.
 (2) Vienas darbdienas laikā pēc šā panta pirmajā daļā minēto subjektu reģistrācijas Uzņēmumu reģistrs elektroniski nosūta Valsts ieņēmumu dienestam informāciju par saņemto pieteikumu mikrouzņēmumu nodokļa maksātāja statusa iegūšanai.
 (3) Fiziskā persona, kas, uzsākot saimniecisko darbību, reģistrējas Valsts ieņēmumu dienestā kā saimnieciskās darbības veicējs un izvēlas būt mikrouzņēmumu nodokļa maksātājs, vienlaikus ar reģistrācijas pieteikumu iesniedz pieteikumu, kurā norāda šā panta pirmajā daļā minēto informāciju.
@@ -12,4 +12,6 @@
 (8) Ja mikrouzņēmumu nodokļa maksātājs neizpilda kādu no šā likuma 1.panta 1.punkta vai 2.panta otrās, trešās vai ceturtās daļas nosacījumiem, tas zaudē mikrouzņēmumu nodokļa maksātāja statusu ar nākamo taksācijas periodu.
 (8¹) Ja mikrouzņēmumu nodokļa maksātājam taksācijas periodā nav apgrozījuma, tas zaudē mikrouzņēmumu nodokļa maksātāja statusu pēctaksācijas periodā. Šo nosacījumu nepiemēro, ja mikrouzņēmumu nodokļa maksātājs ir reģistrēts kā mikrouzņēmumu nodokļa maksātājs pēc taksācijas perioda pirmā ceturkšņa.
 (8²) Ja mikrouzņēmums ir reģistrēts kā mikrouzņēmumu nodokļa maksātājs, sākot ar pirmstaksācijas perioda otro ceturksni, un tam nav apgrozījuma pirmstaksācijas periodā un taksācijas periodā, ar pēctaksācijas periodu tas zaudē mikrouzņēmumu nodokļa maksātāja statusu.
+(8³) Ja mikrouzņēmumu nodokļa maksātājs ir piemērojis šā likuma 6.panta 2.¹ vai 3.¹ daļu, mikrouzņēmums var atkārtoti izvēlēties maksāt mikrouzņēmumu nodokli ne agrāk kā pēc pieciem gadiem.
+(8⁴) Ja mikrouzņēmumu nodokļa maksātājs taksācijas periodā precizē kādu no iepriekšējo taksācijas periodu mikrouzņēmumu nodokļa ceturkšņa deklarācijām vai iesniedz mikrouzņēmumu nodokļa deklarāciju ar nokavējumu un tiek konstatēts, ka kādā no ceturkšņiem iepriekšējā taksācijas periodā, par kuru tiek veikti precizējumi vai iesniegta mikrouzņēmumu nodokļa deklarācija ar nokavējumu, nav izpildīts šā likuma 1.panta 1.punkta "b" vai "c" apakšpunkta vai 2.panta ceturtās daļas nosacījums, mikrouzņēmumu nodokļa maksātājs ar pēctaksācijas periodu zaudē mikrouzņēmumu nodokļa maksātāja statusu.
 (9) Mikrouzņēmums reģistrē katru mikrouzņēmuma darbinieku Valsts ieņēmumu dienestā kā obligāti sociāli apdrošināmu personu Ministru kabineta noteiktajā termiņā un kārtībā.

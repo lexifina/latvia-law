@@ -1,0 +1,1 @@
+4. Ja mikrouzņēmumu nodokļa maksātājs ir izsniedzis mikrouzņēmuma darbiniekam aizdevumu līdz 2013.gada 31.decembrim, mikrouzņēmuma darbinieks attiecībā uz šo aizdevumu piemēro likuma "Par iedzīvotāju ienākuma nodokli" pārejas noteikumu 103., 104., 105. un 106.punktu.

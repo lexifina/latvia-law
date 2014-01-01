@@ -5,10 +5,12 @@
 3) attiecībā uz mikrouzņēmuma īpašnieku, ar kuru mikrouzņēmumam ir noslēgts darba līgums, - šīs daļas 1. un 2.punktā noteikto ienākumu summu.
 (2) Šā panta pirmajā daļā minētajā mikrouzņēmuma darbinieka ienākumā no mikrouzņēmuma neietver:
 1) labumu no mikrouzņēmumam piederoša vai tā rīcībā esoša vieglā pasažieru automobiļa izmantošanas tādiem uzdevumiem vai vajadzībām, kas nav saistītas ar darba pienākumu vai saimnieciskās darbības veikšanu mikrouzņēmumā, ja labuma gūšanas mēnesī par vieglo pasažieru automobili maksā uzņēmumu vieglo transportlīdzekļu nodokli;
-2) mikrouzņēmuma darbinieka vai viņa laulātā vai radinieka (radniecība līdz trešajai pakāpei Civillikuma izpratnē) nāves gadījumā darba devēja piešķirto bēru pabalstu, kura vērtība nepārsniedz 150 latu;
+2) mikrouzņēmuma darbinieka vai viņa laulātā vai radinieka (radniecība līdz trešajai pakāpei Civillikuma izpratnē) nāves gadījumā darba devēja piešķirto bēru pabalstu, kura vērtība nepārsniedz 213,43 euro;
 3) komandējuma un darba brauciena izdevumu kompensāciju mikrouzņēmuma darbiniekam atbilstoši normatīvajiem aktiem, kas paredz saistībā ar komandējumu vai darba braucienu radušos izdevumu kompensācijas apmēru;
-4) kompensāciju, ko darba devējs darbiniekam izmaksā par darbiniekam piederoša personiskā transportlīdzekļa (kas atbilstoši darba līgumam tiek izmantots darba vajadzībām) nolietošanos un kas noteikta 0,03 latu apmērā par katru nobraukto kilometru, bet ne vairāk kā 40 latu mēnesī;
+4) kompensāciju, ko darba devējs darbiniekam izmaksā par darbiniekam piederoša personiskā transportlīdzekļa (kas atbilstoši darba līgumam tiek izmantots darba vajadzībām) nolietošanos un kas noteikta 0,04 euro apmērā par katru nobraukto kilometru, bet ne vairāk kā 57 euro mēnesī;
 5) citas kompensācijas, kuras izmaksā darba devējs saskaņā ar Darba likumu un kuras ir pamatotas ar izdevumus apliecinošiem dokumentiem.
 (3) Uz šā panta pirmajā daļā minēto mikrouzņēmuma darbinieka ienākumu no mikrouzņēmuma neattiecina un kā mikrouzņēmuma darbinieka ienākumu nepersonalizē mikrouzņēmuma izdevumus:
 1) kas nepieciešami Darba aizsardzības likumā noteikto darba aizsardzības prasību izpildei;
 2) par darbinieka apmācību, lai iegūtu, uzlabotu vai paplašinātu darbā, profesijā, amatā vai arodā nepieciešamās iemaņas un zināšanas.
+(4) Ja mikrouzņēmums darbiniekam ir izsniedzis aizdevumu, kas saskaņā ar likumu "Par iedzīvotāju ienākuma nodokli" ir ienākumam pielīdzināms aizdevums, tas neietilpst mikrouzņēmuma darbinieka ienākumā no mikrouzņēmuma un ir apliekams ar iedzīvotāju ienākuma nodokli saskaņā ar likumu "Par iedzīvotāju ienākuma nodokli".
+(5) Ja kopējais mikrouzņēmuma izsniegtais aizdevumu apmērs vienai fiziskajai personai pārsniedz 15 000 euro, mikrouzņēmums likumā "Par iedzīvotāju ienākuma nodokli" noteiktajā kārtībā sniedz Valsts ieņēmumu dienestam informāciju par noslēgtajiem aizdevuma līgumiem ar šo fizisko personu un kopējo aizdevumu summu.
