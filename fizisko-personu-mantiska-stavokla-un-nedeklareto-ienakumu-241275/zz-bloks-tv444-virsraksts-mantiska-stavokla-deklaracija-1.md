@@ -39,9 +39,9 @@ Nekustamā īpašuma adrese
 Vai nekustamais īpašums ir īpašumā vai kopīpašumā
 Ja nekustamais īpašums ir kopīpašumā, ziņas par līdzīpašnieku*
 Kopā:
-Tai skaitā informācija par tādu nekustamo īpašumu vai tā daļu, kura iegādes vērtība pārsniedz 1000 latus vai to ekvivalentu ārvalstu valūtā:
+Tai skaitā informācija par tādu nekustamo īpašumu vai tā daļu, kura iegādes vērtība pārsniedz 1430 euro vai to ekvivalentu ārvalstu valūtā:
 *norādīt, ja šāda informācija ir
-Piezīme. Nekustamā īpašuma kopējo iegādes vērtību norādīt latos. Katra atsevišķa nekustamā īpašuma iegādes vērtību, kura pārsniedz 1000 latus vai to ekvivalentu ārvalstu valūtā, norādīt attiecīgajā valūtā.
+Piezīme. Nekustamā īpašuma kopējo iegādes vērtību norādīt euro. Katra atsevišķa nekustamā īpašuma iegādes vērtību, kura pārsniedz 1430 euro vai to ekvivalentu ārvalstu valūtā, norādīt attiecīgajā valūtā.
 3. Ārvalstīs īpašumā vai kopīpašumā esošais transportlīdzeklis (mehāniskais sauszemes vai ūdens transportlīdzeklis) un gaisa kuģis
 Transportlīdzekļa veidsTransportlīdzekļa marka
 Transportlīdzekļa izlaides gads*
@@ -58,9 +58,9 @@ nosaukums
 reģistrācijas numurs*
 juridiskā adrese*
 Kopā:
-Tai skaitā informācija par personas, kuras kapitālā izdarīts ieguldījums, kapitāla daļām, kuru iegādes vērtība pārsniedz 1000 latus vai to ekvivalentu ārvalstu valūtā:
+Tai skaitā informācija par personas, kuras kapitālā izdarīts ieguldījums, kapitāla daļām, kuru iegādes vērtība pārsniedz 1430 euro vai to ekvivalentu ārvalstu valūtā:
 *norādīt, ja tāds ir
-Piezīme. Kapitāla daļu kopējo iegādes vērtību norādīt latos. Par katras atsevišķas personas, kuras kapitālā izdarīts ieguldījums, kapitāla daļām, kuru iegādes vērtība pārsniedz 1000 latus vai to ekvivalentu ārvalstu valūtā, iegādes vērtību norādīt attiecīgajā valūtā.
+Piezīme. Kapitāla daļu kopējo iegādes vērtību norādīt euro. Par katras atsevišķas personas, kuras kapitālā izdarīts ieguldījums, kapitāla daļām, kuru iegādes vērtība pārsniedz 1430 euro vai to ekvivalentu ārvalstu valūtā, iegādes vērtību norādīt attiecīgajā valūtā.
 5. Ārvalstīs īpašumā esošās kapitāla daļas (piemēram, kapitāla vērtspapīri, pamatkapitāla daļas, ieguldījuma daļas, pajas, akcijas)
 Kapitāla daļu veids
 Kapitāla daļu skaits
@@ -81,9 +81,9 @@ nosaukums
 reģistrācijas numurs*
 juridiskā adrese*
 Kopā:
-Tai skaitā informācija par personas, kura izlaidusi finanšu instrumentus, finanšu instrumentiem, kuru iegādes vērtība pārsniedz 1000 latus vai to ekvivalentu ārvalstu valūtā:
+Tai skaitā informācija par personas, kura izlaidusi finanšu instrumentus, finanšu instrumentiem, kuru iegādes vērtība pārsniedz 1430 euro vai to ekvivalentu ārvalstu valūtā:
 *norādīt, ja tāds ir
-Piezīme. Finanšu instrumentu kopējo iegādes vērtību norādīt latos. Par katras atsevišķas personas, kura izlaidusi finanšu instrumentus, finanšu instrumentiem, kuru iegādes vērtība pārsniedz 1000 latus vai to ekvivalentu ārvalstu valūtā, iegādes vērtību norādīt attiecīgajā valūtā.
+Piezīme. Finanšu instrumentu kopējo iegādes vērtību norādīt euro. Par katras atsevišķas personas, kura izlaidusi finanšu instrumentus, finanšu instrumentiem, kuru iegādes vērtība pārsniedz 1430 euro vai to ekvivalentu ārvalstu valūtā, iegādes vērtību norādīt attiecīgajā valūtā.
 7. Ārvalstīs īpašumā esošie finanšu instrumenti
 Finanšu instrumentu veids
 Finanšu instrumentu skaits
@@ -100,8 +100,8 @@ Raksturīgas pazīmes (īpašības, daudzums)
 Iegādes vērtība, pēc personas ieskatiem
 Valūta
 Kopā:
-Tai skaitā informācija par īpašumu (lietu vai lietu kopību), kura iegādes vērtība pārsniedz 10 000 latus vai to ekvivalentu ārvalstu valūtā:
-Piezīme. Īpašuma (lietas vai lietu kopības) kopējo iegādes vērtību norādīt latos. Katra atsevišķa īpašuma (lietas vai lietu kopības) iegādes vērtību, kura pārsniedz 10 000 latus vai to ekvivalentu ārvalstu valūtā, norādīt attiecīgajā valūtā.
+Tai skaitā informācija par īpašumu (lietu vai lietu kopību), kura iegādes vērtība pārsniedz 14 230 euro vai to ekvivalentu ārvalstu valūtā:
+Piezīme. Īpašuma (lietas vai lietu kopības) kopējo iegādes vērtību norādīt euro. Katra atsevišķa īpašuma (lietas vai lietu kopības) iegādes vērtību, kura pārsniedz 14 230 euro vai to ekvivalentu ārvalstu valūtā, norādīt attiecīgajā valūtā.
 II. Finanšu līdzekļi un saistības
 9. Naudas (skaidras un bezskaidras naudas) uzkrājumi
 Uzkrājumu summa
@@ -121,9 +121,9 @@ nosaukums
 reģistrācijas numurs*
 juridiskā adrese*
 Kopā:
-Tai skaitā informācija par uzkrājumu fondā vai dzīvības apdrošināšanā, kas pārsniedz 1000 latus vai to ekvivalentu ārvalstu valūtā:
+Tai skaitā informācija par uzkrājumu fondā vai dzīvības apdrošināšanā, kas pārsniedz 1430 euro vai to ekvivalentu ārvalstu valūtā:
 *norādīt, ja tāds ir
-Piezīme. Uzkrāto līdzekļu kopējo summu norādīt latos. Par katru atsevišķu uzkrājumu konkrētā fondā vai dzīvības apdrošināšanā, kas pārsniedz 1000 latus vai to ekvivalentu ārvalstu valūtā, uzkrājumu summu norādīt attiecīgajā valūtā.
+Piezīme. Uzkrāto līdzekļu kopējo summu norādīt euro. Par katru atsevišķu uzkrājumu konkrētā fondā vai dzīvības apdrošināšanā, kas pārsniedz 1430 euro vai to ekvivalentu ārvalstu valūtā, uzkrājumu summu norādīt attiecīgajā valūtā.
 11. Latvijā vai ārvalstīs neatmaksātie aizņēmumi (kredīti) un citas parādsaistības
 Kopējās summas neatmaksātā daļa
 Valūta
@@ -134,9 +134,9 @@ vārds, uzvārds
 reģistrācijas numurs* vai personas kods, ja tāda nav, - nodokļu maksātāja reģistrācijas numurs vai cita personu identificējoša informācija
 juridiskā adrese*
 Kopā:
-Tai skaitā informācija par aizņēmuma izsniedzēju, kuram neatmaksātā kopējās summas daļa pārsniedz 1000 latus vai to ekvivalentu ārvalstu valūtā:
+Tai skaitā informācija par aizņēmuma izsniedzēju, kuram neatmaksātā kopējās summas daļa pārsniedz 1430 euro vai to ekvivalentu ārvalstu valūtā:
 *norādīt, ja tāds ir
-Piezīme. Neatmaksāto aizņēmumu (kredītu) vai citu saistību kopējo summu norādīt latos. Par katru atsevišķu aizņēmuma izsniedzēju, kuram neatmaksātā aizņēmuma (kredīta) vai citas saistības summa pārsniedz 1000 latus vai to ekvivalentu ārvalstu valūtā, kopējās summas neatmaksāto daļu norādīt attiecīgajā valūtā.
+Piezīme. Neatmaksāto aizņēmumu (kredītu) vai citu saistību kopējo summu norādīt euro. Par katru atsevišķu aizņēmuma izsniedzēju, kuram neatmaksātā aizņēmuma (kredīta) vai citas saistības summa pārsniedz 1430 euro vai to ekvivalentu ārvalstu valūtā, kopējās summas neatmaksāto daļu norādīt attiecīgajā valūtā.
 12. Latvijā vai ārvalstīs izsniegtie aizdevumi un citi prasījumi
 Kopējās summas neatgūtā daļa
 Valūta
@@ -147,9 +147,9 @@ vārds, uzvārds
 reģistrācijas numurs* vai personas kods, ja tāda nav, - nodokļu maksātāja reģistrācijas numurs vai cita personu identificējoša informācija
 juridiskā adrese*
 Kopā:
-Tai skaitā informācija par aizdevuma saņēmēju, no kura neatgūtā kopējās summas daļa pārsniedz 1000 latus vai to ekvivalentu ārvalstu valūtā:
+Tai skaitā informācija par aizdevuma saņēmēju, no kura neatgūtā kopējās summas daļa pārsniedz 1430 euro vai to ekvivalentu ārvalstu valūtā:
 *norādīt, ja tāds ir
-Piezīme. Aizdevumu un citu prasījumu kopējo summu norādīt latos. Par katru atsevišķu aizdevuma saņēmēju, no kura neatgūtā aizdevuma vai citu prasījumu summa pārsniedz 1000 latus vai to ekvivalentu ārvalstu valūtā, kopējās summas neatgūto daļu norādīt attiecīgajā valūtā.
+Piezīme. Aizdevumu un citu prasījumu kopējo summu norādīt euro. Par katru atsevišķu aizdevuma saņēmēju, no kura neatgūtā aizdevuma vai citu prasījumu summa pārsniedz 1430 euro vai to ekvivalentu ārvalstu valūtā, kopējās summas neatgūto daļu norādīt attiecīgajā valūtā.
 13. Līgumi starp patiesā labuma guvēju un personu, kurai pieder vai kura pārvalda Fizisko personu mantiskā stāvokļa un nedeklarēto ienākumu deklarēšanas likuma 3.panta pirmās daļas 4., 5., 6. un 7.punktā minēto īpašumu
 Persona, no kurai piederoša vai pārvaldīšanā nodota īpašuma tiek gūts labums
 Līguma noslēgšanas datums*
@@ -162,9 +162,9 @@ vārds, uzvārds
 reģistrācijas numurs* vai personas kods, ja tāda nav, - nodokļu maksātāja reģistrācijas numurs vai cita personu identificējoša informācija
 juridiskā adrese*
 Kopā:
-Tai skaitā informācija par līguma priekšmetu, kura iegādes vērtība pārsniedz 1000 latus vai to ekvivalentu ārvalstu valūtā:
+Tai skaitā informācija par līguma priekšmetu, kura iegādes vērtība pārsniedz 1430 euro vai to ekvivalentu ārvalstu valūtā:
 *norādīt, ja tāds ir
-Piezīme. Līgumu priekšmetu kopējo iegādes vērtību norādīt latos. Katra atsevišķa līguma priekšmeta iegādes vērtību, kura pārsniedz 1000 latus vai to ekvivalentu ārvalstu valūtā, norādīt attiecīgajā valūtā.
+Piezīme. Līgumu priekšmetu kopējo iegādes vērtību norādīt euro. Katra atsevišķa līguma priekšmeta iegādes vērtību, kura pārsniedz 1430 euro vai to ekvivalentu ārvalstu valūtā, norādīt attiecīgajā valūtā.
 III. Iepriekš nedeklarētie ar iedzīvotāju ienākuma nodokli apliekamie ienākumi
 14. Laika posmā no 1991.gada 1.janvāra līdz 2007.gada 31.decembrim gūtie un saskaņā ar Latvijas Republikas nodokļu jomu reglamentējošu normatīvo aktu prasībām nedeklarētie ienākumi, kas to gūšanas brīdī bija apliekami ar iedzīvotāju ienākuma nodokli saskaņā ar likuma "Par iedzīvotāju ienākuma nodokli" prasībām
 Ienākumu kopējā summa, lati
