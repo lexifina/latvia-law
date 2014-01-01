@@ -11,6 +11,6 @@
 9) par to, ka nav nodrošināta šajā likumā noteiktā iespēja iepazīties ar fonda prospektu, fonda ieguldītājiem paredzēto pamatinformāciju, fonda pārvaldes nolikumu un gada un pusgada pārskatiem;
 10) par ieguldījumu ierobežojumu pārsniegšanu, izņemot gadījumus, kuros pārsniegšana pieļaujama saskaņā ar šo likumu;
 11) par to, ka ir pārkāptas šā likuma un Eiropas Komisijas regulas Nr. 583/2010 prasības par ieguldītājiem paredzētās pamatinformācijas sagatavošanu.
-(1¹) Komisijai ir tiesības uzlikt personai soda naudu līdz 10 000 latu, ja persona ieguvusi vai palielinājusi būtisku līdzdalību sabiedrībā pirms šā likuma 7.¹ panta otrajā vai ceturtajā daļā minētā paziņojuma iesniegšanas Komisijai vai tā izskatīšanas laikā.
-(1²) Par darbībām, kuru rezultātā ir pārkāptas normatīvo aktu prasības par noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanu, Komisija sabiedrībai uzliek soda naudu no 5000 līdz 100 000 latu.
+(1¹) Komisijai ir tiesības uzlikt personai soda naudu līdz 14 200 euro, ja persona ieguvusi vai palielinājusi būtisku līdzdalību sabiedrībā pirms šā likuma 7.¹ panta otrajā vai ceturtajā daļā minētā paziņojuma iesniegšanas Komisijai vai tā izskatīšanas laikā.
+(1²) Par darbībām, kuru rezultātā ir pārkāptas normatīvo aktu prasības par noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanu, Komisija sabiedrībai uzliek soda naudu no 7100 līdz 142 300 euro.
 (2) Soda naudas samaksa neatbrīvo no citas likumā noteiktās atbildības.
