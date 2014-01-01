@@ -1,0 +1,2 @@
+13.pants. Ministru kabineta kompetence subsidētās elektroenerģijas nodokļa jomā
+Ministru kabinets izdod noteikumus par šā likuma 5.panta ceturtajā, piektajā un sestajā daļā minētās nodokļa likmes piemērošanu, nosakot kārtību, kādā tiek sniegta informācija Lauku atbalsta dienestam, un kārtību, kādā Lauku atbalsta dienests administrē un kontrolē šā nodokļa piemērošanu, kā arī de minimis atbalsta uzskaiti.

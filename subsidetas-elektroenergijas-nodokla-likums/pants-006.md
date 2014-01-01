@@ -1,0 +1,11 @@
+6.pants. Subsidētās elektroenerģijas ražotāju reģistrs
+(1) Par enerģētikas nozari atbildīgā Ekonomikas ministrija (turpmāk - ministrija) izveido un uztur subsidētās elektroenerģijas ražotāju reģistru (turpmāk - reģistrs). Reģistrs ir publiski pieejams ministrijas tīmekļa vietnē.
+(2) Ministrija reģistrā apkopo informāciju par:
+1) nodokļa maksātāju, tam izsniegtajiem lēmumiem par to, ka tiek piešķirtas tiesības pārdot elektrostacijā saražoto elektroenerģiju obligātā iepirkuma ietvaros vai saņemt garantēto maksu par elektrostacijā uzstādīto elektrisko jaudu un elektroenerģijas ražošanā izmantotajiem energoresursiem;
+2) nodokļa maksātājam izsniegtajiem apliecinājumiem par taksācijas periodā izmaksātajiem apliekamajiem ienākumiem un ieturētā nodokļa summu;
+3) nodokļa maksātāja saņemto ienākumu atbilstību šā likuma 5.panta nosacījumiem un piemērojamo nodokļa likmi.
+(3) Reģistra informāciju ministrija atjauno triju darbdienu laikā pēc tam, kad ir saņemtas ziņas par izmaiņām reģistrā ietvertajā informācijā, un triju darbdienu laikā pēc izmaiņu veikšanas reģistrā informē par tām publisko tirgotāju un Valsts ieņēmumu dienestu.
+(4) Regulators ne vēlāk kā divu darbdienu laikā informē ministriju par to, ka nodokļa maksātājs neatbilst šā likuma 5.panta trešās daļas nosacījumiem, tai skaitā par to, ka nodokļa maksātājam izdotā siltumenerģijas tirgošanas licence vai elektroenerģijas ražošanas licence vairs nav spēkā.
+(5) Ministrijas izveidotā koģenerācijas stacijas un elektrostacijas kontroles grupa (turpmāk - kontroles grupa) ne vēlāk kā divu darbdienu laikā informē ministriju, ja ir konstatējusi, ka nodokļu maksātāja faktiskā situācija un tam piemērotā nodokļa likme neatbilst reģistrā ietvertajai informācijai.
+(6) Lauku atbalsta dienests ne vēlāk kā divu darbdienu laikā informē ministriju, ja ir konstatējis, ka šā likuma 5.panta ceturtajā, piektajā vai sestajā daļā minētā nodokļa maksātāja faktiskā situācija un tam piemērotā nodokļa likme neatbilst reģistrā ietvertajai informācijai.
+(7) Nodokļa maksātājs nekavējoties, bet ne vēlāk kā triju darbdienu laikā no faktisko apstākļu izmaiņu konstatācijas brīža rakstveidā informē ministriju par jebkuru faktisko apstākļu neatbilstību reģistrā ietvertajai informācijai.

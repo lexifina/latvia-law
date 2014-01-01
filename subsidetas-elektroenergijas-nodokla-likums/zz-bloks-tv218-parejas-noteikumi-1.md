@@ -1,0 +1,1 @@
+Subsidētās elektroenerģijas nodokļa likuma pielikums
