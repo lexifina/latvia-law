@@ -1,4 +1,4 @@
-40.pants. (1) Maksājumu iestāde, kas saņēmusi Komisijas licenci, Komisijas darbības finansēšanai maksā līdz 0,05 procentiem (ieskaitot) no maksājumu iestādes veikto maksājumu kopsummas ceturksnī, bet ne mazāk par 2500 latiem gadā.
-(1¹) Elektroniskās naudas iestāde, kas saņēmusi Komisijas licenci, Komisijas darbības finansēšanai maksā līdz 0,02 procentiem (ieskaitot) no elektroniskās naudas iestādes vidējā aktīvu apmēra ceturksnī, bet ne mazāk par 2500 latiem gadā.
+40.pants. (1) Maksājumu iestāde, kas saņēmusi Komisijas licenci, Komisijas darbības finansēšanai maksā līdz 0,05 procentiem (ieskaitot) no maksājumu iestādes veikto maksājumu kopsummas ceturksnī, bet ne mazāk par 3557 euro gadā.
+(1¹) Elektroniskās naudas iestāde, kas saņēmusi Komisijas licenci, Komisijas darbības finansēšanai maksā līdz 0,02 procentiem (ieskaitot) no elektroniskās naudas iestādes vidējā aktīvu apmēra ceturksnī, bet ne mazāk par 3557 euro gadā.
 (2) Iestāde, kas saņēmusi Komisijas licenci, Komisijas noteiktajā kārtībā un termiņos iesniedz tai pārskatu, kas nepieciešams šā panta pirmajā daļā noteikto maksājumu aprēķināšanai, un līdz ceturksnim sekojošā mēneša trīsdesmitajam datumam veic attiecīgos maksājumus.
 (3) Komisija izdod normatīvos noteikumus par šā panta otrajā daļā minēto pārskatu iesniegšanas un maksājumu aprēķināšanas kārtību.

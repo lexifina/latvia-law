@@ -3,7 +3,7 @@
 2) izteikt institūcijai vai personai, kas ir atbildīga par maksājumu sistēmas darbību, maksājumu pakalpojumu sniedzējam vai elektroniskās naudas iestādei brīdinājumu;
 3) noteikt ierobežojumus maksājumu pakalpojumu sniedzēja vai elektroniskās naudas iestādes darbībai, tai skaitā daļēji vai pilnīgi apturēt maksājumu pakalpojumu sniegšanu;
 4) dot institūcijai vai personai, kas ir atbildīga par maksājumu sistēmas darbību, maksājumu pakalpojumu sniedzēja vai elektroniskās naudas iestādes pārraudzības institūcijām un izpildinstitūcijām, kā arī šo institūciju vadītājiem un locekļiem pamatotus rakstveida rīkojumus, kas nepieciešami, lai ierobežotu vai pārtrauktu maksājumu sistēmas, maksājumu pakalpojumu sniedzēja vai elektroniskās naudas iestādes darbību, kura apdraud vai var apdraudēt to stabilitāti, maksātspēju vai reputāciju;
-5) uzlikt soda naudu līdz 100 000 latu;
+5) uzlikt soda naudu līdz 142 300 euro;
 6) daļēji vai pilnīgi apturēt elektroniskās naudas emisiju elektroniskās naudas iestādei.
 (2) Ja Komisija konstatē, ka iestāde neievēro normatīvo aktu prasības noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas jomā, tā ir tiesīga īstenot vienu vai vairākas šā panta pirmajā daļā norādītās darbības.
 (3) Ja Komisija, pamatojoties uz šā panta pirmās un otrās daļas noteikumiem, ir izdevusi administratīvo aktu, šā akta pārsūdzēšana neaptur tā izpildi.

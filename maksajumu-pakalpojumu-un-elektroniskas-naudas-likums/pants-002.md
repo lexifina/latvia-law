@@ -16,4 +16,4 @@
 6) dalībvalstī licencēta elektroniskās naudas iestāde, kas šā likuma 31.pantā noteiktajā kārtībā uzsākusi darbību Latvijā;
 7) tās elektroniskās naudas iestādes filiāle ārvalstī, kura saņēmusi licenci dalībvalstī.
 (3) Šā likuma 57., 58., 59., 60., 61., 62., 63., 64., 65., 66., 67., 68., 69., 70., 71., 72., 73., 74., 75., 76., 77., 78., 79., 80., 81., 82., 83., 84., 85., 86., 87., 88., 89., 90., 91., 92., 93., 94., 95., 96., 98., 99., 100., 101., 102., 103. un 104.panta noteikumi attiecas uz maksājumu pakalpojumu sniedzējiem, kas sniedz maksājumu pakalpojumus Latvijā, ja maksātāja un saņēmēja maksājumu pakalpojuma sniedzējs atrodas dalībvalstī un maksājumu pakalpojumus sniedz euro vai kādas dalībvalsts nacionālajā valūtā.
-(4) Šajā likumā noteiktās naudas summas euro uzskatāmas par ekvivalentām summām latos, kas pārrēķinātas saskaņā ar Latvijas Bankas noteikto valūtas kursu.
+(4) (Izslēgta ar 12.09.2013. likumu)
