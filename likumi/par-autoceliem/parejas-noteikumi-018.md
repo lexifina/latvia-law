@@ -1,0 +1,1 @@
+18. Līdz attiecīgu ierakstu izdarīšanai komercreģistra iestādes reģistros šajā likumā lietotais termins "valsts akciju sabiedrība "Latvijas autoceļu uzturētājs"" atbilst citos tiesību aktos lietotajam terminam "akciju sabiedrība "Latvijas autoceļu uzturētājs"", ciktāl tas nav pretrunā ar šo likumu.

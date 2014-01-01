@@ -1,1 +1,0 @@
-13. Līdz šo pārejas noteikumu 12.punktā minēto grozījumu spēkā stāšanās dienai Ministru kabinets izdod tiem atbilstošus šā likuma 8.panta pirmajā un otrajā daļā (jaunajā redakcijā) minētos noteikumus.
