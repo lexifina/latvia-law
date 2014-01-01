@@ -1,1 +1,0 @@
-1. Noteikt, ka sertifikātu tirgus cena ir starpniecības uzņēmumu rīkotajās izsolēs un biržā noslēgto pirkuma līgumu vidējā cena pēdējās 10 dienās, kuru laikā veikti darījumi ar sertifikātiem. Šo cenu laikrakstā "Latvijas Vēstnesis" publicē Ekonomikas ministrija.

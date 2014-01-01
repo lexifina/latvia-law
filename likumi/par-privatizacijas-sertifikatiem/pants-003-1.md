@@ -1,0 +1,3 @@
+3.¹ pants. Privatizācijas sertifikātu kontu apkalpošanas un privatizācijas sertifikātu aprites administrēšanas deleģēšana
+(1) Ministru kabinets normatīvajos aktos noteiktajos gadījumos un kārtībā var deleģēt privātpersonai privatizācijas sertifikātu kontu apkalpošanu un privatizācijas sertifikātu aprites administrēšanu.
+(2) Izdevumi, kas saistīti ar deleģēto valsts pārvaldes uzdevumu izpildi, Ministru kabineta noteiktajā kārtībā tiek segti no ieņēmumiem par privatizācijas sertifikātu konta apkalpošanu un rezerves fonda līdzekļiem, kas izveidots, pamatojoties uz likumu "Par valsts un pašvaldību īpašuma objektu privatizāciju".

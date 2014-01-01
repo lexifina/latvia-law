@@ -1,0 +1,1 @@
+11. Kredītiestādes, kuras līdz šā likuma 3.¹ panta pirmās daļas spēkā stāšanās dienai ir ieguvušas tiesības apkalpot privatizācijas sertifikātu kontus, var turpināt to veikt līdz privatizācijas sertifikātu kontu apkalpošanas nodošanai šā likuma 3.¹ panta pirmajā daļā minētajai personai, bet ne vēlāk kā līdz 2014.gada 31.maijam.
