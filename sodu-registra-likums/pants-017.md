@@ -1,0 +1,4 @@
+17.pants
+(1) Ja personām un iestādēm, kurām saskaņā ar šo likumu ir tiesības saņemt ziņas no reģistra, nepieciešamas ziņas par Eiropas Savienības dalībvalsts valstspiederīgā notiesāšanu Eiropas Savienības dalībvalstī vai arī trešajā valstī, Iekšlietu ministrijas Informācijas centrs tās pieprasa no Eiropas Savienības dalībvalsts centrālās iestādes, aizpildot veidlapu, kuras saturu un paraugu nosaka Ministru kabinets.
+(2) Šā panta pirmajā daļā minēto veidlapu aizpilda attiecīgās Eiropas Savienības dalībvalsts valodā vai tajā valodā, kuru šī valsts saziņai norādījusi Eiropas Savienības Padomes ģenerālsekretariātam.
+(3) Iekšlietu ministrijas Informācijas centrs pieprasa no Eiropas Savienības dalībvalsts centrālās iestādes kriminālprocesā pieņemtā nolēmuma par personas notiesāšanu kopiju, ja tā nepieciešama personām un iestādēm, kurām saskaņā ar šo likumu ir tiesības saņemt ziņas no reģistra.

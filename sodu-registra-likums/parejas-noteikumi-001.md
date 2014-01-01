@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē 2005.gada 13.oktobrī pieņemtais Sodu reģistra likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2005, 21.nr.; 2007, 12.nr.; 2009, 14.nr.; Latvijas Vēstnesis, 2010, 102.nr.).
