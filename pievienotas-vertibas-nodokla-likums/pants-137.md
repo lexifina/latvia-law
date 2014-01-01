@@ -1,8 +1,8 @@
 137.pants. Īpašā nodokļa maksāšanas un priekšnodokļa atskaitīšanas kārtība
 (1) Šajā pantā noteikto nodokļa maksāšanas un priekšnodokļa atskaitīšanas kārtību ir tiesības piemērot reģistrētam nodokļa maksātājam, kas atbilst vismaz vienam no šādiem kritērijiem:
-1) iepriekšējā taksācijas gadā kopējā darījumu vērtība nav pārsniegusi 70 000 latu;
-2) reģistrējoties Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā, taksācijas gadā neplāno par 70 000 latu lielāku darījumu apjomu.
-(2) Šajā pantā noteikto nodokļa maksāšanas un priekšnodokļa atskaitīšanas kārtību ir tiesības piemērot reģistrētam nodokļa maksātājam, kuram iepriekšējā taksācijas gadā kopējā darījumu vērtība ir sasniegusi 70 000 latu, bet nav pārsniegusi 351 000 latu un kurš ir:
+1) iepriekšējā taksācijas gadā kopējā darījumu vērtība nav pārsniegusi 100 000 euro;
+2) reģistrējoties Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā, taksācijas gadā neplāno par 100 000 euro lielāku darījumu apjomu.
+(2) Šajā pantā noteikto nodokļa maksāšanas un priekšnodokļa atskaitīšanas kārtību ir tiesības piemērot reģistrētam nodokļa maksātājam, kuram iepriekšējā taksācijas gadā kopējā darījumu vērtība ir sasniegusi 100 000 euro, bet nav pārsniegusi 500 000 euro un kurš ir:
 1) reģistrēts nodokļa maksātājs, kas darbojas zivsaimniecības nozarē, - attiecībā uz svaigu, saldētu vai atdzesētu zivju un vēžveidīgo piegādēm;
 2) lauksaimniecības produkcijas ražotājs vai lauksaimniecības pakalpojumu kooperatīvā sabiedrība - attiecībā uz šādu lauksaimniecības produktu piegādi:
 a) dzīvi dzīvnieki,

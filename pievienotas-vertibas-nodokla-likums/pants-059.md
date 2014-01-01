@@ -1,5 +1,5 @@
 59.pants. Iekšzemes nodokļa maksātāja tiesības nereģistrēties Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā
-(1) Iekšzemes nodokļa maksātājs ir tiesīgs nereģistrēties Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā, ja tā veikto ar nodokli apliekamo preču piegāžu un sniegto pakalpojumu kopējā vērtība iepriekšējo 12 mēnešu laikā nav pārsniegusi 35 000 latu.
+(1) Iekšzemes nodokļa maksātājs ir tiesīgs nereģistrēties Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā, ja tā veikto ar nodokli apliekamo preču piegāžu un sniegto pakalpojumu kopējā vērtība iepriekšējo 12 mēnešu laikā nav pārsniegusi 50 000 euro.
 (2) Iekšzemes nodokļa maksātājs ne vēlāk kā līdz tā mēneša piecpadsmitajam datumam, kas seko mēnesim, kad ir pārsniegts šā panta pirmajā daļā noteiktais reģistrācijas slieksnis, iesniedz Valsts ieņēmumu dienestam šā likuma 66.panta pirmajā daļā minēto reģistrācijas iesniegumu.
 (3) Šā panta pirmajā daļā minētajā summā neiekļauj iekšzemes nodokļa maksātāja piegādāto pamatlīdzekļu un nemateriālo ieguldījumu vērtību, ja šādu piegādi veic vienu reizi 12 mēnešu laikā.
 (4) Šā panta pirmo daļu nepiemēro, ja nodokļa maksātājs citas dalībvalsts nodokļa maksātājam sniedz pakalpojumus, kuru sniegšanas vietu nosaka saskaņā ar šā likuma 19.panta pirmo daļu.

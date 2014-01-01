@@ -2,9 +2,9 @@
 (1) Ar nodokli neapliek šā likuma 52.panta pirmajā daļā minēto preču importu.
 (2) Ar nodokli neapliek gāzes importu, kas transportēta, izmantojot dabasgāzes sistēmu vai tīklus, kuri pieslēgti šai sistēmai, vai gāzes transportkuģus, un ko iesūknē kādā dabasgāzes sistēmā vai maģistrālo cauruļvadu tīklā, elektroenerģijas, siltumenerģijas vai dzesēšanas enerģijas importam pa siltumapgādes vai dzesēšanas tīkliem.
 (3) Ar nodokli neapliek preču importu, kas netiek aplikts ar muitas nodokli saskaņā ar Padomes 2009.gada 16.novembra regulu (EK) Nr. 1186/2009, ar kuru izveido Kopienas sistēmu atbrīvojumiem no muitas nodokļiem (kodificēta versija), izņemot šīs regulas 23.pantā minētos preču sūtījumus.
-(4) Ar nodokli neapliek preču sūtījumus, kas minēti Padomes 2009.gada 16.novembra regulas (EK) Nr. 1186/2009, ar kuru izveido Kopienas sistēmu atbrīvojumiem no muitas nodokļiem (kodificēta versija), 23.pantā, ja sūtījuma vērtība nepārsniedz 22 euro vai ekvivalentu summu latos.
-(5) Ar nodokli neapliek preču importu komerciālā nolūkā, ja to kopējā vērtība nepārsniedz 22 euro vai ekvivalentu summu latos.
-(6) Šā panta ceturtajā un piektajā daļā minēto ekvivalento summu latos nosaka, ievērojot Komisijas 1993.gada 2.jūlija regulas (EEK) Nr. 2454/93, ar ko nosaka īstenošanas noteikumus Padomes regulai (EEK) Nr. 2913/92 par Kopienas Muitas kodeksa izveidi, 169.panta prasības.
+(4) Ar nodokli neapliek preču sūtījumus, kas minēti Padomes 2009.gada 16.novembra regulas (EK) Nr. 1186/2009, ar kuru izveido Kopienas sistēmu atbrīvojumiem no muitas nodokļiem (kodificēta versija), 23.pantā, ja sūtījuma vērtība nepārsniedz 22 euro.
+(5) Ar nodokli neapliek preču importu komerciālā nolūkā, ja to kopējā vērtība nepārsniedz 22 euro.
+(6) (Izslēgta ar 19.09.2013. likumu)
 (7) Ar nodokli neapliek preču importu, ko veic:
 1) Eiropas Savienības institūcijas vai to pārstāvniecības Eiropas Savienības teritorijā, Eiropas Atomenerģijas kopiena, Eiropas Centrālā banka, Eiropas Investīciju banka vai ar Eiropas Savienības tiesību aktiem izveidotās struktūras, kurām piemēro 1965.gada 8.aprīļa Protokolu par privilēģijām un imunitāti Eiropas Savienībā, - saskaņā ar ierobežojumiem un nosacījumiem, kas paredzēti minētajā protokolā un tā īstenošanas līgumos vai mītnes līgumos;
 2) starptautiskās struktūras, organizācijas, kuras nav minētas šīs daļas 1.punktā un kuras par tādām atzinušas attiecīgās dalībvalsts kompetentās iestādes, un šādu struktūru dalībnieki, - saskaņā ar ierobežojumiem un nosacījumiem, kas paredzēti starptautiskajās konvencijās, ar kurām šīs struktūras izveidotas, vai mītnes līgumos;
@@ -21,9 +21,9 @@
 (13) Šā panta divpadsmitajā daļā minēto preču veidam un daudzumam jābūt tādam, kas neliecina par šo preču importu komerciālā nolūkā.
 (14) Preces, ko ceļotājs ieved personīgajā bagāžā, neapliek ar nodokli, ievērojot šādus nosacījumus un ierobežojumus preču vērtībai:
 1) preču kopējā vērtība vienai personai nepārsniedz:
-a) 210 latu, ja ceļotājs ieceļo pa sauszemi,
-b) 300 latu, ja ceļotājs ieceļo ar gaisa transportu vai jūras transportu;
-2) ceļotājiem, kas jaunāki par 15 gadiem, neatkarīgi no ieceļošanas veida preču kopējā vērtība vienai personai nepārsniedz 200 latu;
+a) 300 euro, ja ceļotājs ieceļo pa sauszemi,
+b) 430 euro, ja ceļotājs ieceļo ar gaisa transportu vai jūras transportu;
+2) ceļotājiem, kas jaunāki par 15 gadiem, neatkarīgi no ieceļošanas veida preču kopējā vērtība vienai personai nepārsniedz 285 euro;
 3) šīs daļas 1.punktā minētajā preču kopējā vērtībā neiekļauj:
 a) tās personīgās bagāžas vērtību, ko ceļotājs ieved uz laiku vai ieved atpakaļ pēc pagaidu izvešanas,
 b) ceļotāja personiskajām vajadzībām nepieciešamo zāļu vērtību,
