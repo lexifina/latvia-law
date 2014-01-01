@@ -6,7 +6,8 @@ Likumā ir lietoti šādi termini:
 4) (izslēgts ar 06.11.2008. likumu);
 5) pasūtītājs - valsts vai pašvaldība, kas savas kompetences ietvaros organizē sabiedriskā transporta pakalpojumus;
 6) pilsētas nozīmes maršruts - maršruts, kas nodrošina pārvietošanos republikas pilsētas administratīvajās robežās, kā arī no šīs pilsētas uz tuvākajām apkārtējām teritorijām;
-7) regulārie pasažieru pārvadājumi - pasažieru pārvadāšana pa iepriekš noteiktu maršrutu, ar iepriekš noteiktu intensitāti un regularitāti, par noteiktu braukšanas maksu;
+7) regulārie pasažieru pārvadājumi - pasažieru pārvadāšana pa iepriekš noteiktu maršrutu, ar iepriekš noteiktu intensitāti un regularitāti, par noteiktu braukšanas maksu, kā arī pasažieru pārvadājumi, kuri tiek veikti ar noteiktu regularitāti pa to pašu vai līdzīgu pasažieru regulārā pārvadājuma maršrutu un kuri funkcionāli apkalpo tos pašus pasažierus, ko uzņem vai izlaiž līniju būvēs vai sabiedriskajam transportam paredzētās joslās;
+7¹) reģionālās nozīmes maršruts - reģionālās starppilsētu nozīmes maršruts, reģionālās vietējās nozīmes maršruts un visi dzelzceļa maršruti;
 8) reģionālais starppilsētu nozīmes maršruts - maršruts, kas nodrošina pārvietošanos valsts teritorijā galvenokārt no vienas administratīvās teritorijas uz administratīvo teritoriju citā plānošanas reģionā vai kas savieno republikas pilsētas;
 9) reģionālais vietējās nozīmes maršruts - maršruts, kas nodrošina pārvietošanos viena novada administratīvajā teritorijā, no šā novada uz tuvākajām apkārtējām teritorijām vai uz citu novadu plānošanas reģiona robežās;
 9¹) reiss - sabiedriskā transportlīdzekļa kustība maršrutā no viena tā galapunkta līdz otram galapunktam;
