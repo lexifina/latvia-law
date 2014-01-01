@@ -7,7 +7,7 @@
 (6) Ja patērētājam ir atteikuma tiesības saskaņā ar šo pantu, attiecībā uz atteikuma tiesību īstenošanas termiņu, kārtību un sekām nepiemēro normatīvos aktus par distances līgumu par finanšu pakalpojumu sniegšanu un normatīvos aktus par ārpus pastāvīgās tirdzniecības vietas vai pakalpojumu sniegšanas vietas noslēgtu līgumu.
 (7) Atteikuma tiesību izmantošana saskaņā ar šo pantu neietekmē līguma par preces vai pakalpojuma iegādi spēkā esamību, ja patērētāja kreditēšanas līgums ir noslēgts preces vai pakalpojuma iegādei.
 (8) Šā panta prasības nepiemēro:
-1) patērētāja kreditēšanas līgumiem, saskaņā ar kuriem kredīta summa nedrīkst pārsniegt vai nepārsniedz 100 latus;
+1) patērētāja kreditēšanas līgumiem, saskaņā ar kuriem kredīta summa nedrīkst pārsniegt vai nepārsniedz 140 euro;
 2) patērētāja kreditēšanas līgumiem, saskaņā ar kuriem kredīta devējs piešķir patērētājam pārsnieguma kredītu, kas jāatmaksā pēc pieprasījuma vai laikposmā, kurš nepārsniedz trīs mēnešus;
 3) patērētāja kreditēšanas līgumiem, kuri noslēgti nekustamā īpašuma iegādei vai kuru atmaksa ir nodrošināta ar nekustamā īpašuma hipotēku;
 4) patērētāja kreditēšanas līgumiem, saskaņā ar kuriem kredīta devējs klusējot piekritis, ka patērētājs izmanto līdzekļus, kas pārsniedz patērētāja norēķinu kontā esošo naudas līdzekļu atlikumu vai piešķirto pārsnieguma kredītu;
