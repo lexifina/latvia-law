@@ -1,0 +1,1 @@
+7. Grozījumi šā likuma 52.panta pirmajā daļā un 66.pantā par skaitļa un vārda "25 000 latu" aizstāšanu ar skaitli un vārdu "40 000 euro" attiecināmi uz iesniedzamajiem biedrību un nodibinājumu gada pārskatiem par 2014.gadu un turpmākajiem gadiem.
