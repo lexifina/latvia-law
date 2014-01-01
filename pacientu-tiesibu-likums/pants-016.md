@@ -1,8 +1,8 @@
 16.pants. Tiesības uz atlīdzību
 (1) Pacientam ir tiesības uz atlīdzību par viņa dzīvībai vai veselībai nodarīto kaitējumu (arī morālo kaitējumu), kuru ar savu darbību vai bezdarbību nodarījušas ārstniecības iestādē strādājošās ārstniecības personas vai radījuši apstākļi ārstniecības laikā, kā arī tiesības uz atlīdzību par izdevumiem, kas saistīti ar ārstniecību (turpmāk - ārstniecības izdevumi), ja ārstniecība ir bijusi nepieciešama, lai novērstu vai mazinātu ārstniecības personas vai apstākļu ārstniecības laikā nodarītā kaitējuma nelabvēlīgās sekas pacienta dzīvībai vai veselībai.
 (2) No Ārstniecības riska fonda pacientam ir tiesības saņemt atlīdzību par:
-1) viņa dzīvībai vai veselībai nodarīto kaitējumu (arī morālo kaitējumu) - nodarītā kaitējuma apmērā, bet ne vairāk kā 100 000 latu;
-2) viņam radītiem ārstniecības izdevumiem - radīto izdevumu apmērā, bet ne vairāk kā 5000 latu;
+1) viņa dzīvībai vai veselībai nodarīto kaitējumu (arī morālo kaitējumu) - nodarītā kaitējuma apmērā, bet ne vairāk kā 142 290 euro;
+2) (zaudējis spēku ar 01.01.2014. Sk. Pārejas noteikumu 3.punktu);
 2¹) viņam radītiem ārstniecības izdevumiem - radīto izdevumu apmērā, bet ne vairāk kā 28 460 euro.
 (3) Ministru kabinets nosaka kārtību, kādā pieprasa atlīdzību no Ārstniecības riska fonda par pacienta dzīvībai vai veselībai nodarīto kaitējumu, kā arī atlīdzību par ārstniecības izdevumiem un kārtību, kādā novērtē pacientam radītā kaitējuma apmēru, pieņem lēmumu par atlīdzības izmaksu un izmaksā atlīdzību no Ārstniecības riska fonda.
 (4) Pacientam ir tiesības saņemt atlīdzību no Ārstniecības riska fonda par viņa dzīvībai vai veselībai nodarīto kaitējumu, kā arī atlīdzību par ārstniecības izdevumiem neatkarīgi no tā, vai ārstniecības iestāde ir veikusi ārstniecības riska maksājuma iemaksu.
