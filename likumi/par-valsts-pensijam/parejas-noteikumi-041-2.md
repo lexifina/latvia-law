@@ -1,0 +1,1 @@
+41.² Šo pārejas noteikumu 41.¹ punktā minētajām personām, kurām ir tiesības uz piemaksu par apdrošināšanas stāžu, kas uzkrāts līdz 1995.gada 31.decembrim, piemaksu par periodu no 2012.gada 1.janvāra līdz 2014.gada 30.aprīlim piešķir no vecuma pensijas piešķiršanas dienas un izmaksā vienlaikus ar 2014.gada maija mēneša vecuma pensiju.
