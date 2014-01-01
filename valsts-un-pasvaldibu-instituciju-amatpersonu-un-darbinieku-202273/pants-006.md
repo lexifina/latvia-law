@@ -1,10 +1,10 @@
 6.pants. Saeimas ievēlēto, apstiprināto un iecelto amatpersonu, izņemot Korupcijas novēršanas un apkarošanas biroja priekšnieku, mēnešalga
-(1) Ministru kabineta locekļiem un parlamentārajiem sekretāriem mēnešalgu nosaka, mēneša vidējās darba samaksas apmēram, kas noapaļots pilnos latos, piemērojot šādu koeficientu:
+(1) Ministru kabineta locekļiem un parlamentārajiem sekretāriem mēnešalgu nosaka, mēneša vidējās darba samaksas apmēram, kas noapaļots pilnos euro, piemērojot šādu koeficientu:
 1) Ministru prezidentam - 4,05;
 2) Ministru prezidenta biedram - 3,85;
 3) ministram, īpašu uzdevumu ministram - 3,648;
 4) parlamentārajam sekretāram - 2,837.
-(2) Saeimas ievēlētajām, apstiprinātajām un ieceltajām amatpersonām - valsts kontrolierim un Valsts kontroles padomes locekļiem, tiesībsargam, Nacionālās elektronisko plašsaziņas līdzekļu padomes priekšsēdētājam un locekļiem, Centrālās vēlēšanu komisijas priekšsēdētājam, viņa vietniekam, komisijas sekretāram un locekļiem, Centrālās zemes komisijas priekšsēdētājam, Augstākās izglītības padomes priekšsēdētājam - mēnešalgu nosaka, mēneša vidējās darba samaksas apmēram, kas noapaļots pilnos latos, piemērojot šādu koeficientu:
+(2) Saeimas ievēlētajām, apstiprinātajām un ieceltajām amatpersonām - valsts kontrolierim un Valsts kontroles padomes locekļiem, tiesībsargam, Nacionālās elektronisko plašsaziņas līdzekļu padomes priekšsēdētājam un locekļiem, Centrālās vēlēšanu komisijas priekšsēdētājam, viņa vietniekam, komisijas sekretāram un locekļiem, Centrālās zemes komisijas priekšsēdētājam, Augstākās izglītības padomes priekšsēdētājam - mēnešalgu nosaka, mēneša vidējās darba samaksas apmēram, kas noapaļots pilnos euro, piemērojot šādu koeficientu:
 1) valsts kontrolierim - 4,05;
 2) Valsts kontroles padomes loceklim - 3,32;
 3) (izslēgts ar 13.12.2012. likumu);
