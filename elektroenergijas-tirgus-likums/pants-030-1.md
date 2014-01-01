@@ -1,0 +1,9 @@
+30.¹ pants. Elektroenerģijas neto norēķinu sistēma
+(1) Elektroenerģijas neto norēķinu sistēma ir kārtība, kādā kārtojami maksājumi par patērēto elektroenerģiju un kādā sadales sistēmas operators veic ieskaitu par mājsaimniecības lietotāja patērēto elektroenerģiju un saražoto elektroenerģiju, kas nodota sadales sistēmas operatora tīklā. Ja saskaņā ar patērētā un saražotā elektroenerģijas apjoma aprēķinu mājsaimniecības lietotājs sadales sistēmas operatora tīklā ir nodevis vairāk elektroenerģijas nekā patērējis, attiecīgo elektroenerģijas apjomu ieskaita nākamajā elektroenerģijas norēķinu periodā kalendāra gada ietvaros. Elektroenerģijas neto norēķinu sistēmas norēķinu periods ir viens kalendāra mēnesis.
+(2) Mājsaimniecības lietotājam, kas ražo elektroenerģiju patērēšanai savā mājsaimniecībā paša vajadzībām (galapatēriņam), ir tiesības norēķinos par mājsaimniecībā patērēto un saražoto elektroenerģiju izmantot elektroenerģijas neto norēķinu sistēmu, ja ir ievēroti visi šādi nosacījumi:
+1) mājsaimniecības lietotājs ar sadales sistēmas operatoru ir noslēdzis rakstveida vienošanos par elektroenerģijas neto norēķinu sistēmas piemērošanu;
+2) elektroenerģija mājsaimniecībā tiek ražota, izmantojot atjaunojamos energoresursus;
+3) elektroenerģija mājsaimniecībā tiek ražota un patērēta viena sistēmas pieslēguma ietvaros;
+4) mājsaimniecībā uzstādīto elektroenerģijas ražošanas iekārtu darba spriegums nepārsniedz 400 voltu un kopējā darba strāva vienfāzes vai trīsfāzu pieslēgumā nepārsniedz 16 ampēru.
+(3) Elektroenerģijas neto norēķinu sistēmu piemēro tikai norēķiniem par mājsaimniecības lietotāja patērēto elektroenerģiju, bet nepiemēro norēķiniem par saņemtajiem sadales sistēmas pakalpojumiem vai citiem normatīvajos aktos noteiktajiem maksājumiem.
+(4) Kārtību, kādā mājsaimniecības lietotājs vienojas ar sadales sistēmas operatoru par elektroenerģijas neto norēķinu sistēmas piemērošanu, un kārtību, kādā tā piemērojama, nosaka Ministru kabinets.

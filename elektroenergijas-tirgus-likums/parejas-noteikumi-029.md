@@ -1,0 +1,1 @@
+29. Regulators līdz 2014.gada 1.janvārim izdod šā likuma 26.¹ panta ceturtajā daļā un 32.¹ panta trešajā daļā minētos normatīvos aktus. Līdz šo normatīvo aktu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2014.gada 1.janvārim piemērojams regulatora 2011.gada 23.novembra lēmums Nr. 1/31 "Enerģijas ražotāju un tirgotāju reģistrācijas noteikumi".
