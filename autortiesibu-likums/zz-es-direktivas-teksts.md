@@ -6,4 +6,5 @@ Likumā ietvertas tiesību normas, kas izriet no:
 5) Eiropas Parlamenta un Padomes 1996.gada 11.marta direktīvas 96/9/EEK par datubāzu juridisko aizsardzību;
 6) Eiropas Parlamenta un Padomes 2001.gada 22.maija direktīvas 2001/29/EK par dažu autortiesību un blakustiesību aspektu saskaņošanu informācijas sabiedrībā;
 7) Eiropas Parlamenta un Padomes 2001.gada 27.septembra direktīvas 2001/84/EK par tālākpārdošanas tiesībām par labu mākslas oriģināldarba autoram;
-8) Eiropas Parlamenta un Padomes 2004.gada 29.aprīļa direktīvas 2004/48/EK par intelektuālā īpašuma tiesību piemērošanu.
+8) Eiropas Parlamenta un Padomes 2004.gada 29.aprīļa direktīvas 2004/48/EK par intelektuālā īpašuma tiesību piemērošanu;
+9) Eiropas Parlamenta un Padomes 2011.gada 27.septembra direktīvas 2011/77/ES, ar ko groza direktīvu 2006/116/EK par autortiesību un dažu blakustiesību aizsardzības termiņiem.
