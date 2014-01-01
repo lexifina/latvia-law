@@ -13,4 +13,5 @@ Nodokļus administrē šādas institūcijas:
 11) elektroenerģijas nodokli - Valsts ieņēmumu dienests;
 12) mikrouzņēmumu nodokli - Valsts ieņēmumu dienests;
 13) transportlīdzekļa ekspluatācijas nodokli - Valsts ieņēmumu dienests un Ceļu satiksmes drošības direkcija atbilstoši Transportlīdzekļa ekspluatācijas nodokļa un uzņēmumu vieglo transportlīdzekļu nodokļa likumam un saskaņā ar to izdotajiem Ministru kabineta noteikumiem;
-14) uzņēmumu vieglo transportlīdzekļu nodokli - Valsts ieņēmumu dienests un Ceļu satiksmes drošības direkcija atbilstoši Transportlīdzekļa ekspluatācijas nodokļa un uzņēmumu vieglo transportlīdzekļu nodokļa likumam un saskaņā ar to izdotajiem Ministru kabineta noteikumiem.
+14) uzņēmumu vieglo transportlīdzekļu nodokli - Valsts ieņēmumu dienests un Ceļu satiksmes drošības direkcija atbilstoši Transportlīdzekļa ekspluatācijas nodokļa un uzņēmumu vieglo transportlīdzekļu nodokļa likumam un saskaņā ar to izdotajiem Ministru kabineta noteikumiem;
+15) subsidētās elektroenerģijas nodokli - Valsts ieņēmumu dienests un Ekonomikas ministrija.

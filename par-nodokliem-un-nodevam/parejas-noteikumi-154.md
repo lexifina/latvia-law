@@ -1,0 +1,1 @@
+154. Ja šā likuma 26.² panta pirmajā daļā minētais nodrošinājums nav iesniegts šā likuma pārejas noteikumu 153.punktā minētajā termiņā, tiek apturēta nodokļu maksātāja saimnieciskā darbība saskaņā ar šā likuma 34.¹ pantu.

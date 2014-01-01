@@ -17,8 +17,8 @@
 2) par notariālo darbību izpildi;
 3) par civilstāvokļa aktu reģistrēšanu, grozīšanu un papildināšanu;
 4) (izslēgts ar 16.12.2004. likumu);
-5) par reģistrācijas darbībām un parakstu apliecināšanu Uzņēmumu reģistrā;
-6) par informācijas sniegšanu no Latvijas Republikas Uzņēmumu reģistra reģistriem;
+5) par reģistrācijas darbībām Latvijas Republikas Uzņēmumu reģistrā;
+6) (izslēgts ar 06.11.2013. likumu);
 7) par informācijas saņemšanu no Iedzīvotāju reģistra;
 8) par reliģisko organizāciju un to iestāžu reģistrāciju;
 9) par speciālu atļauju (licenču) izsniegšanu atsevišķiem komercdarbības veidiem;
@@ -65,7 +65,7 @@
 48) par nodrošinājumu darbinieku prasījumu apmierināšanai no darbinieku prasījumu garantiju fonda līdzekļiem un citiem likumā paredzētiem speciāliem mērķiem (uzņēmējdarbības riska valsts nodeva);
 49) par būvprojektēšanai nepieciešamo tehnisko un īpašo noteikumu saņemšanu valsts un pašvaldību institūcijās;
 50) par apsardzes darbības kvalifikācijas pārbaudījuma kārtošanu un apsardzes sertifikāta izsniegšanu;
-51) par mednieka apliecības, mednieka sezonas kartes un medību atļaujas izsniegšanu, par atļaujas izsniegšanu ārvalstu medniekam medīt Latvijas Republikā un atļaujas izsniegšanu izvest medību trofejas no Latvijas Republikas, par mednieku un medību vadītāju eksāmeniem un par medījamo dzīvnieku nodarīto zaudējumu aprēķinu;
+51) par mednieku, medību vadītāju kandidātu eksamināciju, par mednieka apliecības, medību vadītāja apliecības, mednieka sezonas kartes un medību atļaujas izsniegšanu, par atļaujas izsniegšanu ārzemniekam medīt Latvijas teritorijā, par postījumu apjoma noteikšanu un zaudējumu aprēķinu, kurus lauksaimniecībai, mežsaimniecībai, meliorācijas sistēmām un infrastruktūras objektiem nodarījuši medījamie dzīvnieki;
 52) par personas datu apstrādes reģistrēšanu vai Fizisko personu datu aizsardzības likumā noteikto reģistrējamo izmaiņu izdarīšanu;
 53) par sertifikācijas pakalpojumu sniedzēja akreditāciju un akreditācijas atjaunošanu (šo akreditāciju un akreditācijas atjaunošanu veic Datu valsts inspekcija);
 54) (izslēgts ar 21.10.2010. likumu);
@@ -135,7 +135,7 @@
 116) par tiesībām izmantot zemes dzīles publiskajos ūdeņos, Latvijas Republikas teritoriālajā jūrā un ekskluzīvajā ekonomiskajā zonā, izņemot ogļūdeņražu meklēšanu, izpēti un ieguvi, kā arī ģeoloģisko izpēti, kas saistīta ar būvju būvniecību, ierīkošanu un ekspluatāciju jūrā un kas notiek saskaņā ar jūras vides aizsardzības un pārvaldības normatīvajiem aktiem;
 117) par ūdens resursu lietošanas atļaujas izsniegšanu;
 118) par piesārņojošas darbības atļaujas izsniegšanu un tās pārskatīšanu;
-119) par komercķīlas nodibināšanas, pārjaunojuma un dzēšanas reģistrāciju, par tiesībām iepazīties ar komercķīlu reģistra ierakstiem, par rakstveida informācijas saņemšanu no komercķīlu reģistra, par komercķīlas ņēmēja maiņu reorganizācijas vai uzņēmuma pārejas gadījumā, kā arī par komercķīlas noteikumu grozīšanu un nodrošinātā prasījuma cesijas reģistrāciju;
+119) par komercķīlas nodibināšanas, pārjaunojuma un dzēšanas reģistrāciju, par komercķīlas ņēmēja maiņu reorganizācijas vai uzņēmuma pārejas gadījumā, kā arī par komercķīlas noteikumu grozīšanu un nodrošinātā prasījuma cesijas reģistrāciju;
 120) par vietējās pierobežas satiksmes atļaujas pieprasīšanai nepieciešamo dokumentu izskatīšanu;
 121) par atļaujas izsniegšanu šķirnes pārbaudes veikšanai;
 122) par speciālās atļaujas (licences) izsniegšanu parāda atgūšanai un minētās speciālās atļaujas (licences) pārreģistrāciju;
