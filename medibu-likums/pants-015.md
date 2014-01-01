@@ -1,2 +1,2 @@
-15.pants. (1) Mednieku un medību vadītāju eksaminācijas komisiju apstiprina Valsts meža dienests. Komisijas sastāvā iekļauj Valsts meža dienesta, Vides aizsardzības un reģionālās attīstības ministrijas, Valsts policijas un pašvaldības pārstāvjus.
-(2) Mednieku un medību vadītāju eksaminācijas komisijas darbību tehniski nodrošina un finansē Valsts meža dienests. Kārtību, kādā maksā valsts nodevu par mednieku un medību vadītāju eksāmeniem, kā arī nodevas apmēru nosaka Ministru kabinets.
+15.pants. (1) Mednieku un medību vadītāju kandidātu eksamināciju veic Valsts meža dienests.
+(2) Kārtību, kādā maksājama valsts nodeva par mednieku un medību vadītāju kandidātu eksamināciju, kā arī nodevas apmēru nosaka Ministru kabinets.
