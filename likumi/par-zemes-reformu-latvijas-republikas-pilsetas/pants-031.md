@@ -1,6 +1,6 @@
 31.pants. Maksāšanas līdzekļi
 (1) Maksājumi par privatizējamo vai atsavināmo zemi veicami:
-1) latos;
+1) euro;
 2) īpašuma kompensācijas sertifikātos.
 (2) (Izslēgta ar 21.10.2010. likumu)
 (3) (Izslēgta ar 30.06.2005. likumu)
