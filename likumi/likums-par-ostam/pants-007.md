@@ -2,7 +2,7 @@
 (1) Ostas pārvalde ir publisko tiesību subjekts, kuru izveido attiecīgās pilsētas vai novada dome un kura šajā likumā noteiktajos ietvaros ir Ministru kabineta pārraudzībā. Turklāt Rīgas ostas pārvalde un Ventspils ostas pārvalde ir atvasināta publisko tiesību juridiskā persona, kuras nolikumu apstiprina Ministru kabinets. Citu ostu pārvalžu nolikumus apstiprina attiecīgā pašvaldība saskaņā ar Ministru kabineta apstiprinātu paraugnolikumu. Liepājas ostas pārvaldi nosaka Liepājas speciālās ekonomiskās zonas likums.
 (2) Ostas pārvaldīšanu nodrošina ostas pārvalde, kura kā publisko tiesību subjekts veic šādas valsts pārvaldes funkcijas:
 1) nosaka ostas maksu un tarifu robežlīmeņus šā likuma 15.pantā minētajiem pakalpojumiem;
-2) nodrošina ostas maksas un nomas (īres) maksas iekasēšanu;
+2) (izslēgts ar 06.11.2013. likumu);
 3) nosaka apsardzes un caurlaižu režīmu ostā;
 4) savas kompetences ietvaros kontrolē ostas noteikumu ievērošanu;
 5) savas kompetences ietvaros kontrolē ostas komercsabiedrību darbības atbilstību likumiem, Ministru kabineta normatīvajiem aktiem un attiecīgās ostas pārvaldes nolikumam;
@@ -19,5 +19,6 @@
 6) veic ostas pakalpojumu pieprasījuma un piedāvājuma izpēti;
 7) slēdz līgumus ar komercsabiedrībām par to darbību ostā, lai nodrošinātu un pilnveidotu ostas pakalpojumu kompleksu atbilstoši ostas pārvaldes nolikumam un ostas attīstības programmai;
 8) savu pilnvaru ietvaros rīkojas ar ostas zemi un uz tās esošajiem valdījumā nodotajiem valsts vai pašvaldības īpašuma objektiem;
-9) nodrošina tās īpašumā esošās vai valdījumā nodotās infrastruktūras uzturēšanu un attīstību, kā arī piedalās ar ostas darbību saistītās infrastruktūras attīstīšanā.
+9) nodrošina tās īpašumā esošās vai valdījumā nodotās infrastruktūras uzturēšanu un attīstību, kā arī piedalās ar ostas darbību saistītās infrastruktūras attīstīšanā;
+10) nodrošina ostas maksas un nomas (īres) maksas iekasēšanu.
 (4) Privātajās ostās pārvaldes kārtību nosaka ostas īpašnieks, bet kuģošanas drošība tiek nodrošināta šā likuma piektajā nodaļā noteiktajā kārtībā.
