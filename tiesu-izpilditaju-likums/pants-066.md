@@ -1,7 +1,7 @@
 66.pants. (1) Disciplinārlietu komisijai ir tiesības uzlikt zvērinātam tiesu izpildītājam vienu no šādiem disciplinārsodiem:
 1) izteikt piezīmi;
 2) izteikt rājienu;
-3) uzlikt naudas sodu no 100 līdz 1000 latu apmērā.
+3) uzlikt naudas sodu no 150 līdz 1430 euro apmērā.
 (2) Tieslietu ministram divu nedēļu laikā no disciplinārlietu komisijas lēmuma saņemšanas dienas ir tiesības uzlikt zvērinātam tiesu izpildītājam disciplinārsodu - atcelšanu no amata vai paziņot disciplinārlietu komisijai, ka tās ierosinātais disciplinārsoda veids ir pārskatāms.
 (3) Tieslietu ministrs šā panta otrajā daļā minēto disciplinārsodu var piemērot uz disciplinārlietu komisijas lēmuma pamata:
 1) ja disciplinārlietu komisija, izvērtējot izdarītā disciplinārā pārkāpuma raksturu un sekas, zvērināta tiesu izpildītāja vainas pakāpi nodarījumā, kā arī ziņas, kas raksturo iepriekšējo darbu zvērināta tiesu izpildītāja amatā, uzskata, ka konkrētajā gadījumā ir piemērojams disciplinārsods - atcelšana no amata;

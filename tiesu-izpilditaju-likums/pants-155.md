@@ -1,5 +1,5 @@
-155.pants. (1) Akti un dokumenti sastādāmi valsts valodā, naudas summas norādāmas latos, bet mēri un svari - atbilstoši metriskajai sistēmai.
-(1¹) Ja piedzenamā summa izpildu dokumentā norādīta ārvalstu valūtā, zvērināts tiesu izpildītājs amata atlīdzības takses apmēru latos aprēķina saskaņā ar Latvijas Bankas noteikto oficiālo ārvalstu valūtas kursu dienā, kurā izpildu dokuments iesniegts izpildei.
+155.pants. (1) Akti un dokumenti sastādāmi valsts valodā, naudas summas norādāmas euro, bet mēri un svari - atbilstoši metriskajai sistēmai.
+(1¹) Ja piedzenamā summa izpildu dokumentā norādīta ārvalstu valūtā, zvērināts tiesu izpildītājs amata atlīdzības takses apmēru euro aprēķina saskaņā ar grāmatvedībā izmantojamo ārvalstu valūtas kursu dienā, kad izpildu dokuments iesniegts izpildei.
 (2) Visos aktos jābūt šādiem rekvizītiem:
 1) akta sastādīšanas datums, mēnesis un gads, bet, ja nepieciešams, - arī sīkāks laika apzīmējums;
 2) zvērināta tiesu izpildītāja amata nosaukums, amata un prakses vieta, vārds un uzvārds;
