@@ -13,8 +13,8 @@
 6) elektroenerģijas sistēmas dalībnieki - elektroenerģijas ražotāji, pārvades sistēmas operators, sadales sistēmas operatori un galalietotāji;
 6¹) elektroenerģijas sistēmas īpašnieks - komersants, kurš ietilpst vertikāli integrēta elektroapgādes komersanta sastāvā un kura īpašumā ir elektroenerģijas pārvades sistēma;
 7) elektroenerģijas sistēmas operators - licencēta kapitālsabiedrība, kura sniedz sistēmas pakalpojumu;
-8) elektroenerģijas tirdzniecība - elektroenerģijas iepirkšana pārdošanai vai elektroenerģijas pārdošana elektroenerģijas lietotājiem;
-9) elektroenerģijas tirgotājs - elektroenerģijas lietotājs, kurš pērk un pārdod (piegādā - pārdošanas nozīmē) elektroenerģiju citam elektroenerģijas lietotājam;
+8) elektroenerģijas tirdzniecība - komercdarbība, kas ietver elektroenerģijas iepirkšanu pārdošanai un elektroenerģijas pārdošanu elektroenerģijas lietotājiem;
+9) elektroenerģijas tirgotājs - komersants (ārvalstu komersanta filiāle), kura komercdarbība ir elektroenerģijas tirdzniecība;
 10) elektroenerģijas tirgus dalībnieki - elektroenerģijas ražotāji, tirgotāji un galalietotāji, kas darbojas elektroenerģijas tirgū saskaņā ar brīvprātīgas līdzdalības principu;
 11) galalietotājs - elektroenerģijas lietotājs, kurš pērk elektroenerģiju izlietošanai paša vajadzībām (galapatēriņam);
 12) koģenerācija - tehnoloģiskais process, kurā lietderīgai izmantošanai vienlaikus ražo elektroenerģiju un siltumenerģiju;

@@ -1,0 +1,1 @@
+37. Publiskā tirgotāja pienākumu pārņēmējs 12 mēnešu laikā no publiskā tirgotāja pienākumu izpildes uzsākšanas kompensē iepriekšējam publiskā tirgotāja pienākumu pildītājam tirgus cenu pārsniegušo obligātā iepirkuma izmaksu un saņemto obligātā iepirkuma komponentes maksājumu starpību par laikposmu no 2013.gada 1.janvāra līdz 2013.gada 31.decembrim.

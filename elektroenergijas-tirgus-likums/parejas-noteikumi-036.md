@@ -1,0 +1,1 @@
+36. No 2014.gada 1.aprīļa publiskā tirgotāja pienākumus pilda komersanta, kuram 2014.gada 31.martā ir spēkā esoša elektroenerģijas tirdzniecības licence, meitas sabiedrība, kas reģistrēta elektroenerģijas tirgotāju reģistrā (turpmāk - publiskā tirgotāja pienākumu pārņēmējs).

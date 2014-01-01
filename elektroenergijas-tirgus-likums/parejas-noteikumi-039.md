@@ -1,0 +1,1 @@
+39. Grozījumi šā likuma 1.pantā par 17.punkta izslēgšanu, 32.pantā par trešās daļas izteikšanu jaunā redakcijā un sestās daļas izslēgšanu, kā arī par 33., 34. un 35.panta izteikšanu jaunā redakcijā stājas spēkā 2014.gada 1.aprīlī.
