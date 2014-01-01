@@ -6,7 +6,7 @@
 (5) Ar kuģu aģentēšanu Latvijas ostās drīkst nodarboties komercsabiedrība, kura atbilst šādām minimālajām prasībām:
 1) ir ar labu reputāciju, proti, kuģu aģentu darbinieki nav sodīti par tīšiem noziedzīgiem nodarījumiem pret īpašumu vai tautsaimniecības jomā un sodāmība nav dzēsta vai noņemta, par viņu profesionālo darbību pēdējā gada laikā ostas, valsts vai pašvaldības iestādes nav rakstveidā sniegušas pamatotu negatīvu atzinumu;
 2) ir finansiāli droša:
-a) tās pamatkapitāls nav mazāks par 5000 latu, finanšu resursi atbilst veicamajiem darījumiem (apliecināms ar gada pārskatu, auditora ziņojumu vai kredītiestāžu izsniegtām izziņām), kā arī ir veikti visi maksājumi valsts budžetā (apliecināms ar attiecīgās institūcijas izsniegtām izziņām par veiktajiem maksājumiem valsts budžetā),
+a) tās pamatkapitāls nav mazāks par 7114 euro, finanšu resursi atbilst veicamajiem darījumiem (apliecināms ar gada pārskatu, auditora ziņojumu vai kredītiestāžu izsniegtām izziņām), kā arī ir veikti visi maksājumi valsts budžetā (apliecināms ar attiecīgās institūcijas izsniegtām izziņām par veiktajiem maksājumiem valsts budžetā),
 b) ir noslēgusi kuģu aģenta profesionālās darbības civiltiesiskās atbildības apdrošināšanas līgumu.
 (6) (Izslēgta ar 15.05.2008. likumu.)
 (7) Latvijas Kuģu brokeru un aģentu nacionālā asociācija pārbauda fizisko personu - kuģu aģentu darbinieku - profesionālās prasmes un iemaņas kuģu aģentēšanā attiecīgajās Latvijas ostās un izsniedz sertifikātus par kuģu aģentu darbinieku profesionālo prasmju un iemaņu atbilstību.
