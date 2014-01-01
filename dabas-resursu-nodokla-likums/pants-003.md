@@ -6,12 +6,13 @@ b) realizē ar nodokli apliekamus dabas resursus, kas iegūti tādā saimniecisk
 c) izmanto zemes dzīļu derīgās īpašības, iesūknējot ģeoloģiskajās struktūrās dabasgāzi vai siltumnīcefekta gāzes,
 d) emitē vidē ar nodokli apliekamas piesārņojošas vielas vai apglabā atkritumus,
 e) emitē vidē siltumnīcefekta gāzes no stacionāras tehnoloģiskas iekārtas, kurā tiek veikta viena vai vairākas likuma "Par piesārņojumu" 2.pielikumā minētās piesārņojošās darbības (arī tādas piesārņojošas darbības, kuru ražošanas jauda vai saražotais produkcijas apjoms nepārsniedz likuma "Par piesārņojumu" 2.pielikumā minētos rādītājus);
+f) lieto ūdens resursus elektroenerģijas ražošanai hidroelektrostacijā, kuras hidromezgla kopējā uzstādītā jauda ir mazāka par diviem megavatiem;
 1¹) emitē atmosfērā siltumnīcefekta gāzes, veicot likuma "Par piesārņojumu" 1.¹ pielikumā noteiktās aviācijas darbības;
 2) pirmā Latvijas Republikas teritorijā:
-a) realizē videi kaitīgas preces vai preces iepakojumā (arī kopā ar preci ievesto precei pievienoto primāro, sekundāro un terciāro iepakojumu) vai ogles, koksu un lignītu (brūnogles), kā arī pircēja ērtības vai reklāmas noformējuma dēļ iepakotu vai neiepakotu preču vai produktu kopumam (pirkumam) pievieno iepakojumu,
+a) realizē videi kaitīgas preces vai preces iepakojumā (arī kopā ar preci ievesto precei pievienoto primāro, sekundāro un terciāro iepakojumu) vai ogles, koksu un lignītu (brūnogles), uguņošanas ierīces, kā arī pircēja ērtības vai reklāmas noformējuma dēļ iepakotu vai neiepakotu preču vai produktu kopumam (pirkumam) pievieno iepakojumu,
 b) savas saimnieciskās darbības nodrošināšanai izmanto videi kaitīgas preces, izņemot preces, kuras apliekamas ar nodokli, tās realizējot, vai iepakojumā iegādātas preces (arī kopā ar preci ievesto precei pievienoto primāro, sekundāro un terciāro iepakojumu), izņemot preces iepakojumā, kuras apliekamas ar nodokli, tās realizējot,
 c) sniedzot pakalpojumu, pievieno izstrādājumam iepakojumu, un šis iepakojums pēc pakalpojuma sniegšanas nonāk pie pakalpojuma saņēmēja,
-d) savas saimnieciskās darbības nodrošināšanai izmanto ogles, koksu un lignītu (brūnogles), izņemot ogles, koksu un lignītu (brūnogles), kuras apliekamas ar nodokli, tās realizējot;
+d) savas saimnieciskās darbības nodrošināšanai izmanto ogles, koksu un lignītu (brūnogles), izņemot ogles, koksu un lignītu (brūnogles), kuras apliekamas ar nodokli, tās realizējot, un uguņošanas ierīces;
 3) Latvijas Republikas teritorijā sabiedriskajā ēdināšanā un mazumtirdzniecībā realizē vienreiz lietojamos galda traukus un piederumus, kas izgatavoti no plastmasas (polimēriem), papīra, kartona, to kompozītmateriāliem (laminātiem) ar polimēru vai metāla komponentiem, metāla folijas, koksnes vai citām dabiskām šķiedrām (turpmāk - vienreiz lietojamie galda trauki un piederumi);
 4) savā darbībā lieto radioaktīvās vielas, pēc kuru izmantošanas rodas radioaktīvie atkritumi, kurus nepieciešams uzglabāt vai apglabāt Latvijas Republikas teritorijā;
 5) pirmo reizi pastāvīgi reģistrē Latvijā transportlīdzekļus, uz kuriem attiecas Nolietotu transportlīdzekļu apsaimniekošanas likuma 3.panta pirmā daļa.
