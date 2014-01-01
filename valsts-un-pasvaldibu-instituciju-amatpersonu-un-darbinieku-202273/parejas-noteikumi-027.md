@@ -1,0 +1,1 @@
+27. Ja šā likuma 19.pantā minēto pabalstu izmaksai likumā "Par valsts budžetu 2014.gadam" šim mērķim apstiprināto izdevumu apjoms ir nepietiekams, nepieciešamie papildu izdevumi tiek segti no valsts budžeta 74.resora "Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums" programmas 02.00.00 "Līdzekļi neparedzētiem gadījumiem".

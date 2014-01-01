@@ -1,0 +1,1 @@
+28. Lai no 2014.gada 1.janvāra nodrošinātu šā likuma 39.panta otrajā daļā un pārejas noteikumu 26.punktā minēto noteikumu izpildi, nepieciešamie papildu izdevumi tiek segti no valsts budžeta 74.resora "Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums" programmas 02.00.00 "Līdzekļi neparedzētiem gadījumiem".
