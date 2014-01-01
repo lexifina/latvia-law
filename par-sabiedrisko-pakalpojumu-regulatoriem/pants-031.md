@@ -1,5 +1,5 @@
 31.pants. Valsts nodevas par sabiedrisko pakalpojumu regulēšanu likme un maksāšanas kārtība
-(1) Valsts nodevas par sabiedrisko pakalpojumu regulēšanu likmi latos atsevišķi katram regulējamās nozares sabiedrisko pakalpojumu veidam nosaka Ministru kabinets, pamatojoties uz sabiedrisko pakalpojumu gada neto apgrozījumu un regulatora darbības nodrošināšanai nepieciešamajiem izdevumiem.
+(1) Valsts nodevas par sabiedrisko pakalpojumu regulēšanu likmi atsevišķi katram regulējamās nozares sabiedrisko pakalpojumu veidam nosaka Ministru kabinets, pamatojoties uz sabiedrisko pakalpojumu gada neto apgrozījumu un regulatora darbības nodrošināšanai nepieciešamajiem izdevumiem.
 (2) Valsts nodevas par sabiedrisko pakalpojumu regulēšanu gada likme nedrīkst pārsniegt 0,2 procentus no komersanta sniegto sabiedrisko pakalpojumu neto apgrozījuma iepriekšējā kalendāra gadā.
 (2¹) Komersanti, kuri sāk sabiedrisko pakalpojumu sniegšanu, valsts nodevu par pirmo darbības gadu maksā no pašu plānotā attiecīgā sabiedriskā pakalpojuma veida neto apgrozījuma pirmajā darbības gadā.
 (2²) Ja sabiedrisko pakalpojumu sniegšanu uzsākuša komersanta saskaņā ar šā panta 2.¹ daļu par pirmo darbības gadu samaksātā valsts nodeva ir mazāka par šā panta pirmajā un otrajā daļā paredzētajā kārtībā noteikto likmi, komersants līdz nākamā gada 30.janvārim samaksā atlikušo valsts nodevas summu.
