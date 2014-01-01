@@ -1,0 +1,1 @@
+23. Grozījumi attiecībā uz šā likuma 10.⁴ panta pirmās un otrās daļas izteikšanu jaunā redakcijā, 10.⁴ panta ceturtā un piektā daļa, kā arī 10.⁶ panta otrā un trešā daļa stājas spēkā 2014.gada 1.oktobrī.
