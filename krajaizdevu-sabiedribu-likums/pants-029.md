@@ -7,4 +7,4 @@
 4) ja krājaizdevu sabiedrība apvienota ar citu sabiedrību vai citām šādām sabiedrībām un tā rezultātā tiek nodibināta jauna krājaizdevu sabiedrība.
 (3) Ja krājaizdevu sabiedrības pamatkapitāls samazinās un kļūst mazāks par statūtos noteikto minimālo lielumu, valde divu mēnešu laikā sasauc biedru kopsapulci (pilnvaroto sapulci), kura lemj par sabiedrības pamatkapitāla palielināšanu līdz statūtos noteiktajam minimālajam pamatkapitālam vai par krājaizdevu sabiedrības likvidāciju.
 (4) Krājaizdevu sabiedrības statūtos var noteikt arī citus tās darbības izbeigšanas gadījumus.
-(5) Ja krājaizdevu sabiedrības pašu kapitāls samazinās un kļūst mazāks par 2000 latu, valde viena mēneša laikā sasauc biedru kopsapulci (pilnvaroto sapulci), kura lemj par sabiedrības pašu kapitāla palielināšanu līdz 2000 latu vai par krājaizdevu sabiedrības likvidāciju.
+(5) Ja krājaizdevu sabiedrības pašu kapitāls samazinās un kļūst mazāks par 2500 euro, valde viena mēneša laikā sasauc biedru kopsapulci (pilnvaroto sapulci), kura lemj par sabiedrības pašu kapitāla palielināšanu līdz 2500 euro vai par krājaizdevu sabiedrības likvidāciju.
