@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sodu reģistra likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "211 (5017)",
+  "official_journal_page": null,
+  "official_journal_date": "2013-10-29",
+  "entry_into_force": "2014-01-01",
+  "notification_date": "2015-09-30",
+  "commission_reference": "MNE(2015)56983",
+  "nim_celex": "72005F0222LVA_230318",
+  "nim_id": "230318",
+  "transposes_celex": [
+    "32005F0222"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3c0eb00f-6323-11e7-b2f2-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
