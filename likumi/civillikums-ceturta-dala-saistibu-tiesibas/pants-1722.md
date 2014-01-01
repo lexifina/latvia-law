@@ -1,1 +1,2 @@
-1722. Līgumsoda samaksa neatsvabina šā soda cietēju ne no procentiem vai augļiem, kas no viņa pienākas, ne no zaudējumu atlīdzības, ciktāl tie pārsniedz līgumsoda apmēru, ja vien nav tieši norunāts pretējais.
+1722. Līgumsodu par saistību nepienācīgu izpildi vai neizpildīšanu īstā laikā (termiņā) var prasīt tikai tādā apmērā, kādā tas pārsniedz prasīto procentu summu, kas radusies pēc neizpildes iestāšanās brīža.
+Līgumsodu par saistību neizpildi vispār var prasīt tikai tādā apmērā, kādā tas pārsniedz piedzenamo zaudējumu summu, ja vien nav tieši norunāts, ka līgumsods izslēdz tādu atlīdzību.
