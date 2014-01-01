@@ -1,3 +1,3 @@
 48.pants. Iespēja ar brīvības atņemšanu notiesātajiem saņemt un sūtīt naudas pārvedumus
 Ar brīvības atņemšanu notiesātajiem atļauts saņemt naudas pārvedumus bez ierobežojuma, kā arī sūtīt naudas pārvedumus radiniekiem, bet ar brīvības atņemšanas iestādes administrācijas atļauju - arī citām personām. Naudu, kas notiesātajam atsūtīta pa pastu vai telegrāfu, viņam neizsniedz, bet ieskaita viņa personīgajā kontā; izņēmums ir notiesātie, kuri izcieš sodu atklātajos cietumos.
-Notiesātā naudu brīvības atņemšanas iestāde uzglabā, pārsūta un izmaksā notiesātajam latos. Citā valūtā saņemto naudu pārrēķina latos saskaņā ar Latvijas Bankas noteikto valūtas kursu dienā, kad nauda saņemta brīvības atņemšanas iestādē.
+Notiesātā naudu brīvības atņemšanas iestāde uzglabā, pārsūta un notiesātajam izmaksā euro. Citā valūtā saņemto naudu pārrēķina euro saskaņā ar grāmatvedībā izmantojamo ārvalstu valūtas kursu tās dienas sākumā, kad nauda saņemta brīvības atņemšanas iestādē.
