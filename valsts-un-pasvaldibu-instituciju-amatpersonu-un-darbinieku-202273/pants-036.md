@@ -1,10 +1,11 @@
 36.pants. Pabalsti un kompensācijas par dienestu ārvalstīs
 (1) Diplomātam, diplomātiskā un konsulārā dienesta amatpersonai (darbiniekam), specializētajam atašejam, prokuroram, sakaru virsniekam, karavīram, valsts tiešās pārvaldes amatpersonai (darbiniekam) vai valsts drošības iestādes amatpersonai (darbiniekam) laikā, kad tā pilda dienestu ārvalstī, tiek noteikti šādi pabalsti:
 1) algas pabalsts par dienestu ārvalstī;
-2) pabalsts par laulātā uzturēšanos ārvalstī, ja laulātais nav nodarbināts algotā darbā;
+2) pabalsts par laulātā uzturēšanos ārvalstī, ievērojot šā panta 1.¹ daļas noteikumus;
 3) pabalsts par bērnu uzturēšanos ārvalstī;
 4) pabalsts mājsaimniecības inventāra iegādei, pārceļoties uz dienesta vietu ārvalstī;
 5) pabalsts dienesta vajadzībām izmantojamā transporta izdevumu segšanai.
+(1¹) Diplomātam, diplomātiskā un konsulārā dienesta amatpersonai (darbiniekam), specializētajam atašejam, prokuroram, sakaru virsniekam, karavīram, valsts tiešās pārvaldes amatpersonai (darbiniekam) vai valsts drošības iestādes amatpersonai (darbiniekam) laikā, kad tā pilda dienestu ārvalstī, var noteikt pabalstu par laulātā uzturēšanos ārvalstī, ja laulātais ir nodarbināts algotā darbā. Pabalstu neizmaksā, ja laulātais ir nodarbināts, saglabājot diplomātisko rangu, vai arī nodarbināts Latvijas Republikas diplomātiskajā vai konsulārajā pārstāvniecībā.
 (2) Diplomātam, diplomātiskā un konsulārā dienesta amatpersonai (darbiniekam), specializētajam atašejam, prokuroram, sakaru virsniekam, karavīram, valsts tiešās pārvaldes amatpersonai (darbiniekam) vai valsts drošības iestādes amatpersonai (darbiniekam) laikā, kad tā pilda dienestu ārvalstī, tiek kompensēti šādi izdevumi:
 1) dzīvokļa īres izdevumi un komunālie maksājumi;
 2) ar dzīvokļa īres līguma slēgšanu saistītie izdevumi;

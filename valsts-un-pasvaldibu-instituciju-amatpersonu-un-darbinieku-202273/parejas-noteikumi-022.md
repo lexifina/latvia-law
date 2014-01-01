@@ -1,0 +1,1 @@
+22. Kamēr Augstākās tiesas sastāvā ir tāds Augstākās tiesas tiesnesis, kurš pilda tiesneša pienākumus kādā no Augstākās tiesas tiesu palātām, viņa mēnešalgu nosaka, rajona (pilsētas) tiesas tiesneša mēnešalgai piemērojot koeficientu 1,35, bet Augstākās tiesas tiesu palātas priekšsēdētājam - 1,55.
