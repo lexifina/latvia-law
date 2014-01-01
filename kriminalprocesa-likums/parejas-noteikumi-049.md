@@ -1,0 +1,1 @@
+49. Lietas, kuras nodotas izskatīšanai apgabaltiesā kā pirmās instances tiesā un kurās līdz 2014.gada 31.decembrim pieņemts lēmums par kriminālprocesa apturēšanu, pēc 2015.gada 1.janvāra nodod rajona (pilsētas) tiesai kā pirmās instances tiesai.

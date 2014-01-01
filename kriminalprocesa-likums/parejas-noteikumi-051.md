@@ -1,0 +1,1 @@
+51. Augstākās tiesas Krimināllietu tiesu palātā izskatītās lietas, kurās pēc 2014.gada 1.janvāra kasācijas instance ir atcēlusi nolēmumu, nosūta jaunai izskatīšanai apgabaltiesai kā apelācijas instances tiesai.

@@ -1,0 +1,1 @@
+50. Lietas, kuras nodotas izskatīšanai Augstākās tiesas Krimināllietu tiesu palātā un kurās pieņemts lēmums par kriminālprocesa apturēšanu, pēc 2015.gada 1.janvāra nodod apgabaltiesai kā apelācijas instances tiesai.

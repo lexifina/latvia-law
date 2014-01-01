@@ -1,0 +1,1 @@
+48. Lietas, kurās Augstākās tiesas Krimināllietu tiesu palātā ir uzsākta tiesas izmeklēšana, bet kuras līdz 2014.gada 31.decembrim nav izskatītas, nodod izskatīšanai apgabaltiesai kā apelācijas instances tiesai.

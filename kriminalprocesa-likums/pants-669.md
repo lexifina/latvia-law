@@ -1,2 +1,2 @@
 669.pants. Nolēmumu izpildes apturēšana
-Ja Augstākās tiesas Senāts pieņēmis izskatīšanai pieteikumu vai protestu, tas var atlikt vai apturēt sprieduma vai lēmuma izpildi līdz tā jaunai izskatīšanai.
+Ja Augstākā tiesa pieņēmusi izskatīšanai pieteikumu vai protestu, tā var atlikt vai apturēt sprieduma vai lēmuma izpildi līdz tā jaunai izskatīšanai.
