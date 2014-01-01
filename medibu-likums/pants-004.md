@@ -1,1 +1,2 @@
-4.pants. Medījamie dzīvnieki kļūst par fizisko vai juridisko personu īpašumu tikai pēc tam, kad tie ir nomedīti šajā likumā un citos medības reglamentējošajos normatīvajos aktos noteiktajā kārtībā.
+4.pants. (1) Savvaļā dzīvojošie medījamie dzīvnieki kļūst par fizisko un juridisko personu īpašumu tikai pēc tam, kad tie ir nomedīti šajā likumā un citos medības reglamentējošos normatīvajos aktos noteiktajā kārtībā.
+(2) Medījamie dzīvnieki, ko tur iežogotā platībā savvaļai līdzīgos apstākļos, kā arī iežogotā platībā dzimušie medījamie dzīvnieki ir tās fiziskās vai juridiskās personas īpašums, kura normatīvajos aktos noteiktajā kārtībā saņēmusi atļauju savvaļā dzīvojošo medījamo dzīvnieku turēšanai nebrīvē konkrētajā platībā.

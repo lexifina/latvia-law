@@ -1,3 +1,9 @@
-9. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2013.gada 31.decembrim ir spēkā šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:
-1) Ministru kabineta 2003.gada 23.decembra noteikumi Nr.760 "Medību noteikumi";
-2) Ministru kabineta 2004.gada 2.marta noteikumi Nr.109 "Noteikumi par valsts nodevu par mednieka apliecības, mednieka sezonas kartes un medību atļaujas izsniegšanu, par atļaujas izsniegšanu ārvalstu medniekam medīt Latvijas teritorijā un atļaujas izsniegšanu izvest medību trofejas no Latvijas, kā arī medību trofeju izvešanas kārtību".
+9. Līdz šo pārejas noteikumu 8.punktā minēto Ministru kabineta noteikumu spēkā stāšanās dienai piemērojami šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:
+1) Ministru kabineta 2004.gada 2.marta noteikumi Nr.109 "Noteikumi par valsts nodevu par mednieka apliecības, mednieka sezonas kartes un medību atļaujas izsniegšanu, par atļaujas izsniegšanu ārvalstu medniekam medīt Latvijas teritorijā un atļaujas izsniegšanu izvest medību trofejas no Latvijas, kā arī medību trofeju izvešanas kārtību";
+2) Ministru kabineta 2004.gada 2.marta noteikumi Nr.110 "Noteikumi par mednieku un medību vadītāju apmācības kārtību, zināšanu un praktisko iemaņu pārbaudes programmu, kā arī mednieka apliecības un medību vadītāja apliecības izsniegšanas kārtību";
+3) Ministru kabineta 2004.gada 2.marta noteikumi Nr.111 "Kārtība, kādā atlīdzināmi zaudējumi, ko fiziskās vai juridiskās personas nodarījušas, pārkāpjot medības reglamentējošajos normatīvajos aktos noteiktās prasības, un to apmērs, kā arī nelikumīgi iegūtās medību produkcijas vērtības atlīdzināšanas kārtība un apmērs";
+4) Ministru kabineta 2007.gada 19.jūnija noteikumi Nr.409 "Kārtība, kādā nosaka maksu par medību tiesību izmantošanu valstij piekrītošās vai piederošās medību platībās";
+5) Ministru kabineta 2007.gada 17.jūlija noteikumi Nr.497 "Kārtība, kādā nosaka materiālo zaudējumu apjomu, kurus lauksaimniecībai un mežsaimniecībai nodarījuši medījamie dzīvnieki";
+6) Ministru kabineta 2007.gada 6.novembra noteikumi Nr.743 "Medību saimniecības attīstības fonda nolikums";
+7) Ministru kabineta 2011.gada 20.decembra noteikumi Nr.975 "Noteikumi par valsts nodevu par mežsaimnieciskām darbībām, mednieku un medību vadītāju eksāmeniem un medījamo dzīvnieku nodarīto zaudējumu aprēķinu";
+8) Ministru kabineta 2013.gada 26.februāra noteikumi Nr.113 "Medību noteikumi".

@@ -1,2 +1,2 @@
-10.pants. (1) Medījamos dzīvniekus drīkst medīt vai ķert zinātniskajai pētniecībai, eksponēšanai muzejos, audzēšanai citā vietā vai turēšanai nebrīvē, kā arī turēt nebrīvē, ja saņemta Valsts meža dienesta ikreizēja atļauja.
-(2) Medījamos dzīvniekus drīkst ievest Latvijā, ja saņemta Valsts meža dienesta ikreizēja atļauja.
+10.pants. (1) Medījamos dzīvniekus atļauts ķert savvaļā, ievest Latvijā, izmantot šķirnes medību suņu apmācībā vai zinātniskajā pētniecībā, turēt nebrīvē, kā arī izlaist savvaļā, ja saņemta Valsts meža dienesta ikreizēja atļauja.
+(2) Kārtību, kādā izsniedz un anulē atļaujas medījamo dzīvnieku ķeršanai savvaļā, ievešanai Latvijā, izmantošanai šķirnes medību suņu apmācībā vai zinātniskajā pētniecībā, turēšanai nebrīvē un izlaišanai savvaļā, nosaka Ministru kabinets.

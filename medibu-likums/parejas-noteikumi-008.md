@@ -1,1 +1,1 @@
-8. Ministru kabinets ne vēlāk kā līdz 2013.gada 31.decembrim izdod šā likuma 3.panta ceturtajā un piektajā daļā minētos noteikumus.
+8. Ministru kabinets ne vēlāk kā līdz 2014.gada 1.aprīlim izdod šā likuma 3.panta ceturtajā un piektajā daļā, 5.panta otrajā daļā, 8.pantā, 10.panta otrajā daļā, 13.panta otrajā un trešajā daļā, 14.panta otrajā daļā, 15.panta otrajā daļā, 17.panta otrajā daļā, 18.pantā, 22.panta pirmajā daļā, 23.panta pirmajā un trešajā daļā, 26.pantā un 29.panta septītajā daļā minētos noteikumus.

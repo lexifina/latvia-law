@@ -1,1 +1,2 @@
-9.pants. Medības (izņemot ūdensputnu medības publiskajās ūdenstilpēs) piesakāmas Valsts meža dienestam. Medību pieteikšanas kārtību nosaka Ministru kabinets.
+9.pants. (1) Medību norises kārtību savā medību iecirknī nosaka medību tiesību lietotājs.
+(2) Valsts robežsardzes struktūrvienība ir tiesīga aizliegt vai pārtraukt medības medību iecirknī vai tā daļā, kas atrodas pierobežas joslas teritorijā, ja minētajā teritorijā ir noteikta pastiprināta robežkontrole, ārkārtas situācija, izņēmuma stāvoklis vai Valsts robežsardze rīko taktiskās mācības, nekavējoties informējot par to medību tiesību lietotāju.

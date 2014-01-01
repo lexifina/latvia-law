@@ -1,1 +1,1 @@
-26.pants. Medību norisi dokumentē. Medību norises dokumentēšanas kārtību nosaka Ministru kabinets.
+26.pants. Medību norises dokumentēšanas kārtību un informācijas aprites kārtību medību jomā nosaka Ministru kabinets.

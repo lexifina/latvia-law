@@ -1,1 +1,1 @@
-18.pants. Publiskajās ūdenstilpēs un to tauvas joslā medījamos ūdensputnus, Amerikas ūdeli un jenotsuni atļauts medīt bez saskaņojuma ar medību tiesību lietotāju, kura medību iecirknī atrodas attiecīgā ūdenstilpe.
+18.pants. Publiskajās ūdenstilpēs un to tauvas joslā medījamos ūdensputnus atļauts medīt bez saskaņojuma ar medību tiesību lietotāju, kura medību iecirknī atrodas attiecīgā ūdenstilpe. Kārtību, kādā publiskajās ūdenstilpēs un to tauvas joslā medī nelimitēto medījamo sugu dzīvniekus, nosaka Ministru kabinets.
