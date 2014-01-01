@@ -1,0 +1,1 @@
+58. Būvēm, kuru būvniecībai pirms 2013.gada 1.jūlija ir izsniegta būvatļauja, bet tās derīguma termiņš beidzies līdz 2013.gada 31.decembrim un būves nav nodotas ekspluatācijā, un līdz 2014.gada 31.decembrim būvatļaujas nav atjaunotas, ar 2015.gada 1.janvāri piemēro šā likuma 3.panta 1.⁶ daļā noteikto nodokļa aplikšanas kārtību līdz būves nodošanai ekspluatācijā.

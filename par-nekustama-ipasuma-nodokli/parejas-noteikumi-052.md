@@ -1,0 +1,1 @@
+52. Valsts kultūras pieminekļu aizsardzības inspekcija līdz 2014.gada 10.janvārim sniedz pašvaldībai, kuras administratīvajā teritorijā atrodas valsts aizsargājamais kultūras piemineklis, pirmreizēju informāciju par tiem valsts aizsargājamiem nekustamiem kultūras pieminekļiem, kuri netiek uzturēti atbilstoši kultūras pieminekļu aizsardzības prasībām.
