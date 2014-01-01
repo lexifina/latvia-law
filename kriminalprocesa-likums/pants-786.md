@@ -9,7 +9,7 @@
 7) soda izpildīšanai ir iestājies noilgums un nolēmums par mantiska rakstura piedziņu attiecas uz nodarījumu, kas ir Latvijas jurisdikcijā;
 8) Eiropas Savienības dalībvalstī notiesātā persona nav sasniegusi vecumu, ar kuru iestājas kriminālatbildība;
 9) nolēmums par mantiska rakstura piedziņu pieņemts rakstveida procesā un Eiropas Savienības dalībvalstī notiesātā persona pati personīgi vai ar aizstāvja starpniecību nav tikusi informēta par tiesībām pārsūdzēt nolēmumu tā izdevējas valsts tiesību aktos noteiktajā kārtībā;
-10) noteiktā mantiska rakstura piedziņa nepārsniedz 70 euro ekvivalentu latos (pārrēķinot saskaņā ar Latvijas Bankas noteikto valūtas kursu, kāds bija spēkā nolēmuma pasludināšanas dienā).
+10) noteiktā mantiska rakstura piedziņa nepārsniedz 70 euro (ja nepieciešams, pārrēķinot saskaņā ar grāmatvedībā izmantojamo ārvalstu valūtas kursu, kāds bija spēkā nolēmuma pasludināšanas dienā).
 (2) Nolēmuma par mantiska rakstura piedziņu izpildi var atteikt arī tad, ja tas pieņemts Eiropas Savienības dalībvalstī notiesātās personas prombūtnē (in absentia) vai bez šīs personas piedalīšanās, izņemot gadījumus, kad tā:
 1) saņēmusi pavēsti vai citādi tikusi informēta par to, ka nolēmums var tikt pieņemts bez tās klātbūtnes;
 2) tikusi informēta par procesu un tiesas sēdē piedalījies tās aizstāvis;
