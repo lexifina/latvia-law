@@ -8,6 +8,6 @@
 4) komercķīlas ņēmēju prasījumi atbilstoši to pirmtiesībai;
 5) ar komercķīlu saistītie nenodrošinātie prasījumi (prasījumi, kas pārsniedz pielīgto nodrošinātā prasījuma summu).
 (4) Atlikušo summu izmaksā komercķīlas devējam.
-(5) Ieņēmumus aprēķina un izmaksā latos.
+(5) Ieņēmumus aprēķina un izmaksā euro.
 (6) Ja, ieķīlāto mantu pārdodot, ienāk tāda summa, kuras nepietiek komercķīlas ņēmēju prasījumu pilnīgam apmierinājumam, viņiem ir tiesības parāda atlikumu prasīt no parādnieka.
 (7) Pēc pārdošanas ieņēmumu izmaksas komercķīlas ņēmējs, kas ir izlietojis komercķīlas tiesību, dod norēķinu komercķīlas devējam.
