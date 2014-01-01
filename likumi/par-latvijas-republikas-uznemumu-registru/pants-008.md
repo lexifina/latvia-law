@@ -17,7 +17,7 @@ Uzņēmumu reģistrs ne vēlāk kā septiņu dienu laikā no šā panta ceturtaj
 Visus reģistrējamos grozījumus uzņēmumi (uzņēmējsabiedrības) piesaka Uzņēmumu reģistrā 15 dienu laikā no lēmuma pieņemšanas dienas. Grozījumi ir spēkā pret trešajām personām ar brīdi, kad tie reģistrēti Uzņēmumu reģistrā.
 Ja Uzņēmumu reģistra žurnālā ierakstītās ziņas ir publicētas, tās var izmantot kā oficiālus avotus.
 Darījumu attiecībās ar uzņēmumu (uzņēmējsabiedrību), tā filiāli vai pārstāvniecību noteicošais ir publikācija un ieraksts, ko par attiecīgo uzņēmumu (uzņēmējsabiedrību), tā filiāli vai pārstāvniecību izdarījis Uzņēmumu reģistra valsts notārs.
-Par uzņēmuma (uzņēmējsabiedrības), tā filiāļu un pārstāvniecību dokumentu atvasinājumiem, citu likumdošanā paredzēto darbību izpildi un informācijas izsniegšanu ņemama valsts nodeva.
+Par uzņēmuma (uzņēmējsabiedrības), tā filiāļu un pārstāvniecību dokumentu atvasinājumiem, citu likumdošanā paredzēto darbību izpildi un informācijas izsniegšanu maksā atbilstoši noteiktajai maksai par pakalpojumu.
 Uzņēmumu reģistra darbību finansē no valsts pamatbudžeta, kā arī no ienākumiem, kas gūti par maksas pakalpojumiem un tiek ieskaitīti Tieslietu ministrijas pamatbudžeta kontā.
 Pārbaudot šā likuma 5.panta piektajā daļā norādītos apstākļus, Uzņēmumu reģistra valsts notārs ir tiesīgs pieņemt lēmumu par ieraksta izdarīšanas atlikšanu tad, ja:
 1) uzņēmuma (uzņēmējsabiedrības) nosaukums sakrīt ar Uzņēmumu reģistra žurnālā un citos Uzņēmumu reģistra vestajos reģistros ierakstītu vai ierakstīšanai pieteiktu nosaukumu (firmu);

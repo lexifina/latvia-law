@@ -9,4 +9,8 @@ Lai nodrošinātu savu funkciju izpildi, Uzņēmumu reģistrs veic šādus uzdev
 5¹) normatīvajos aktos noteiktajā kārtībā apliecina parakstus;
 5²) normatīvajos aktos noteiktajos gadījumos aktualizē Uzņēmumu reģistra vestajos reģistros ierakstāmās ziņas;
 5³) pārbauda uzņēmuma (uzņēmējsabiedrības), komersanta, Eiropas ekonomisko interešu grupas, pārstāvniecības, biedrības un nodibinājuma, arodbiedrības, politiskās partijas, šķīrējtiesas, reliģiskās organizācijas un tās iestādes nosaukuma (firmas) atšķiramību no Uzņēmumu reģistra žurnālā, komercreģistrā, Eiropas ekonomisko interešu grupu reģistrā, pārstāvniecību reģistrā, biedrību un nodibinājumu reģistrā, arodbiedrību reģistrā, politisko partiju reģistrā, politisko organizāciju (partiju) reģistrā, šķīrējtiesu reģistrā, sabiedrisko organizāciju reģistrā un reliģisko organizāciju un to iestāžu reģistrā (turpmāk šā likuma 5., 8., 14., 18.¹, 18.⁶, 18.¹⁴ pantā - Uzņēmumu reģistra vesti reģistri) ierakstītiem vai ierakstīšanai pieteiktiem nosaukumiem (firmām);
+5⁴) uztur un pilnveido Uzņēmumu reģistra informācijas sistēmu un nodrošina tās sadarbspēju ar citām valsts informācijas sistēmām;
+5⁵) normatīvajos aktos noteiktajos gadījumos nodrošina Uzņēmumu reģistra uzturēto datu pieejamību sabiedrībai tiešsaistes datu pārraides režīmā;
+5⁶) nodrošina reģistrācijas lietu pārveidošanu elektroniskā formā glabāšanai elektroniskā vidē saskaņā ar normatīvajiem aktiem par arhīvu pārvaldību;
+5⁷) normatīvajos aktos noteiktajā kārtībā sagatavo un sniedz informāciju no Uzņēmumu reģistra informācijas sistēmas;
 6) veic citus normatīvajos aktos noteiktos uzdevumus.

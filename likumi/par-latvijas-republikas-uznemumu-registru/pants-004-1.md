@@ -7,7 +7,7 @@ Uzņēmumu reģistra amatpersona, kas apliecina personas parakstu, par dokumenta
 Pēc personas paraksta apliecināšanas Uzņēmumu reģistra amatpersona personas parakstu apliecināšanas reģistrācijas žurnālā norāda:
 1) kārtas numuru (katru gadu sākot jaunu numerāciju);
 2) mēnesi un dienu, kad apliecināts personas paraksts vai ir atteikta personas paraksta apliecināšana;
-3) ka ir samaksāta valsts nodeva;
+3) ka persona ir samaksājusi par pakalpojumu;
 4) tās personas vārdu, uzvārdu, personas kodu un dzīvesvietu, kuras paraksts apliecināts, juridiskās personas pārstāvim - arī juridiskās personas reģistrācijas numuru, datumu un vietu;
 5) kam un kad dokuments izsniegts.
 Uzņēmumu reģistra amatpersona var atteikt paraksta apliecināšanu, ja persona nav rīcībspējīga, ja tā nevar apliecināt savu identitāti un gribas īstumu vai arī amatpersona negūst pārliecību par personas identitāti vai gribas īstumu.
