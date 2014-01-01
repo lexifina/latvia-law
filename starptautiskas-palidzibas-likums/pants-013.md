@@ -6,5 +6,5 @@
 3) ja civilais eksperts zaudējis no 41% līdz 60% darbspēju, - 30 civilā eksperta mēnešalgu apmērā;
 4) ja civilais eksperts zaudējis no 61% līdz 80% darbspēju, - 40 civilā eksperta mēnešalgu apmērā;
 5) ja civilais eksperts zaudējis no 81% līdz 100% darbspēju, - 50 civilā eksperta mēnešalgu apmērā.
-(3) Ja civilais eksperts starptautiskās misijas laikā gājis bojā, viņa laulātajam un lejupējiem, bet, ja lejupējo nav, tad tuvākās pakāpes augšupējiem radiniekiem, pamatojoties uz Ministru kabineta lēmumu, izmaksā vienreizēju kompensāciju 50 000 latu apmērā.
+(3) Ja civilais eksperts starptautiskās misijas laikā gājis bojā, viņa laulātajam un lejupējiem, bet, ja lejupējo nav, tad tuvākās pakāpes augšupējiem radiniekiem, pamatojoties uz Ministru kabineta lēmumu, izmaksā vienreizēju kompensāciju 71 145 euro apmērā.
 (4) Civilā eksperta darba devējs pēc viņa atgriešanās no starptautiskās misijas nodrošina civilā eksperta tiesības atgriezties iepriekšējā vai līdzvērtīgā amatā.
