@@ -5,7 +5,7 @@
 3) komercsabiedrībām vai kooperatīvajām sabiedrībām, kuras ir atbrīvotas no uzņēmumu ienākuma nodokļa vai kuras var piemērot likumā "Par nodokļu piemērošanu brīvostās un speciālajās ekonomiskajās zonās" noteiktās uzņēmumu ienākuma nodokļa atlaides;
 4) šā likuma 1.panta 18.punktā minētajām fiziskajām personām;
 5) citām komercsabiedrībām vai personām, ja tās atrodas, ir izveidotas vai nodibinātas zemu nodokļu vai beznodokļu valstīs vai teritorijās.
-(2) Nodokļu maksātājs šā panta pirmajā daļā minētajos gadījumos, ja tā neto apgrozījums pārskata gadā pārsniedz vienu miljonu latu un darījuma summa pārsniedz 10 000 latu, darījumu cenas (vērtības) atbilstību tirgus cenai (vērtībai) pamato, norādot šādu informāciju:
+(2) Nodokļu maksātājs šā panta pirmajā daļā minētajos gadījumos, ja tā neto apgrozījums pārskata gadā pārsniedz 1 430 000 euro un darījuma summa pārsniedz 14 300 euro, darījumu cenas (vērtības) atbilstību tirgus cenai (vērtībai) pamato, norādot šādu informāciju:
 1) nodokļu maksātāja darbības nozares vispārēju aprakstu - īsu nodokļu maksātāja pēdējo gadu darbības izklāstu, kas ietver:
 a) informāciju par nozari (attīstības tendences, raksturīgākās īpatnības), kurā nodokļu maksātājs darbojas,
 b) to ekonomisko un juridisko faktoru analīzi, kuri ietekmē nodokļu maksātāja preču un pakalpojumu cenu noteikšanu,
