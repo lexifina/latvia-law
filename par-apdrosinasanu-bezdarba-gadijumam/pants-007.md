@@ -10,4 +10,4 @@
 (5) (Izslēgta ar 24.10.2002. likumu.)
 (6) Bezdarbniekam, kurš pirms bezdarbnieka statusa iegūšanas dienas nav bijis darba ņēmējs un par kuru iemaksas bezdarba gadījumam ir veiktas no valsts sociālās apdrošināšanas speciālā budžeta, bezdarbnieka pabalsta apmēru nosaka:
 1) saskaņā ar šā panta pirmo daļu, ja iemaksas veiktas no slimības vai maternitātes pabalsta;
-2) 60 procentu apmērā no bezdarbnieka pabalsta pieprasīšanas dienā spēkā esošā valsts sociālā nodrošinājuma pabalsta divkārša apmēra, ja iemaksas veiktas no vecāku pabalsta 50 latiem.
+2) 60 procentu apmērā no bezdarbnieka pabalsta pieprasīšanas dienā spēkā esošā valsts sociālā nodrošinājuma pabalsta divkārša apmēra, ja iemaksas veiktas par vecāku pabalsta saņēmējiem.
