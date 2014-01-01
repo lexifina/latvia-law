@@ -1,1 +1,1 @@
-94. No aplikšanas ar iedzīvotāju ienākuma nodokli atbrīvo 2013.gadā saņemtās summas, kas izmaksātas kā valsts atbalsts lauksaimniecībai vai Eiropas Savienības atbalsts lauksaimniecībai un lauku attīstībai.
+94. No aplikšanas ar iedzīvotāju ienākuma nodokli atbrīvo 2013., 2014., 2015. un 2016.gadā saņemtās summas, kas izmaksātas kā valsts atbalsts lauksaimniecībai vai Eiropas Savienības atbalsts lauksaimniecībai un lauku attīstībai.

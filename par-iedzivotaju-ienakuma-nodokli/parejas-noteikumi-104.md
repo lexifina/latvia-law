@@ -1,0 +1,1 @@
+104. Nosakot izsniegto aizdevumu kopējo summu saskaņā ar šā likuma 8.¹ panta piekto daļu, aizdevējs kopējā vienai fiziskajai personai izsniegto aizdevumu summā (aizdevuma ņēmējs - no viena aizdevēja saņemto aizdevumu summā) ieskaita arī aizdevumus (to daļu), kas fiziskajai personai ir izsniegti un nav atmaksāti līdz 2013.gada 31.decembrim un nepārsniedz 15 000 euro.

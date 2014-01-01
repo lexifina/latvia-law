@@ -11,3 +11,4 @@
 6. Patentmaksa tiek ieskaitīta budžetā šādā sadalījumā:
 1) 67 procenti - valsts sociālās apdrošināšanas speciālajā budžetā;
 2) 33 procenti - maksātāja deklarētās dzīvesvietas pašvaldības budžetā.
+7. Samazināto patentmaksu ieskaita budžetā šā panta trešajā daļā noteiktajā kārtībā.

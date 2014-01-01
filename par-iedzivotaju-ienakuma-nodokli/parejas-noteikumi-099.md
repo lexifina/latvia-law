@@ -1,0 +1,1 @@
+99. Maksātājs, kas veic saimniecisko darbību un saimnieciskās darbības ienākumu nosaka saskaņā ar šā likuma 11. (izņemot 11.panta divpadsmito daļu) vai 11.¹ pantu, vienlaikus nevar būt fiksētā ienākuma nodokļa maksātājs.

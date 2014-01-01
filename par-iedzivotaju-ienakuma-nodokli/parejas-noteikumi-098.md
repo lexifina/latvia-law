@@ -1,0 +1,1 @@
+98. Maksātājs, kas veic saimniecisko darbību un par to maksā fiksēto ienākuma nodokli, vienlaikus nevar būt saimnieciskās darbības veicējs, kas saimnieciskās darbības ienākumu nosaka saskaņā ar šā likuma 11. (izņemot 11.panta divpadsmito daļu) vai 11.¹ pantu, patentmaksas vai mikrouzņēmumu nodokļa maksātājs.

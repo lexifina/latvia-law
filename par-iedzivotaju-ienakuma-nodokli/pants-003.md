@@ -29,6 +29,7 @@ a) autoratlīdzība (honorārs) par zinātnes, literatūras un mākslas darbu, a
 b) maksājumi par pārējiem intelektuālā īpašuma veidiem saskaņā ar likuma "Par uzņēmumu ienākuma nodokli" 3.panta ceturtās daļas 4.punkta "a" apakšpunktā noteikto likmi;
 13) apdrošināšanas atlīdzība, kas saskaņā ar dzīvības, veselības un negadījuma apdrošināšanas līgumu, kuru apdrošinātā interesēs noslēdzis darba devējs (vai cits apdrošinājuma ņēmējs - juridiskā persona), izmaksāta, pienākot apdrošināšanas līgumā paredzētajam līguma beigu termiņam vai laužot līgumu pirms termiņa;
 14) pensijas, kas izmaksātas saskaņā ar Latvijas Republikas likumiem;
+14¹) pensijai pielīdzināms ienākums;
 15) papildpensijas kapitāls, kas veidojies no darba devēja veiktajām iemaksām privātajos pensiju fondos atbilstoši licencētiem pensiju plāniem un izmaksāts pensiju plānu dalībniekiem;
 16) (izslēgts ar 15.12.2011. likumu);
 17) nekustamā īpašuma vērtības pieaugums vai tā daļa, kura iegūta, beidzoties nomas līgumam, un kuru nodrošināja iznomātajā īpašumā nomnieka veiktie rekonstrukcijas, restaurācijas, renovācijas, uzlabošanas vai citi kapitālie ieguldījumi, ja minēto pieaugumu vai tā daļu maksātājs nav kompensējis nomniekam;
@@ -36,6 +37,9 @@ b) maksājumi par pārējiem intelektuālā īpašuma veidiem saskaņā ar likum
 19) ienākums no dzīvokļu īpašnieku kooperatīvās sabiedrības, automašīnu garāžu īpašnieku kooperatīvās sabiedrības, laivu garāžu īpašnieku kooperatīvās sabiedrības un dārzkopības kooperatīvās sabiedrības sadalītās peļņas;
 20) ienākums no privātajos pensiju fondos veikto iemaksu ieguldīšanas;
 21) iznomāta personāla ienākums vai tam pielīdzināts ienākums neatkarīgi no tā, kas fiziskās personas labā saņem šo ienākumu;
-22) ienākums no noslēgtajiem dzīvības apdrošināšanas līgumiem ar līdzekļu uzkrāšanu.
+22) ienākums no noslēgtajiem dzīvības apdrošināšanas līgumiem ar līdzekļu uzkrāšanu;
+23) ienākums no mūža pensijas apdrošināšanas līgumiem (ar uzkrāto fondētās pensijas kapitālu atbilstoši Valsts fondēto pensiju likumam), kas veidojas no apdrošinātāja piešķirtajām gratifikācijām;
+24) ienākumam pielīdzināmi aizdevumi;
+25) samazinātu aizdevuma procentu maksājumu radītais ienākums.
 4. Atbilstoši šā panta trešās daļas 7.¹ punktam nerezidenta ienākums no Latvijā esoša nekustamā īpašuma atsavināšanas ietver arī ienākumu no kapitāla daļu, akciju vai cita veida līdzdalības atsavināšanas Latvijā vai ārvalstī izveidotā komercsabiedrībā vai citā personā (likuma "Par uzņēmumu ienākuma nodokli" izpratnē), ja atsavināšanas gadā vai iepriekšējā gadā vairāk nekā 50 procentus no šādas personas aktīvu vērtības tieši vai netieši (caur līdzdalību vienā vai vairākās citās Latvijā vai ārvalstī izveidotās personās) veido vai ir veidojis Latvijā esošs nekustamais īpašums. Nekustamā īpašuma īpatsvaru personas aktīvu vērtībā nosaka, pamatojoties uz personas bilances datiem pēc stāvokļa attiecīgā gada sākumā. Ja nekustamā īpašuma īpatsvars aktīvu vērtībā iepriekšējā gada laikā ir mainījies, jo ir notikusi nekustamā īpašuma atsavināšana, kuras rezultāts ņemts vērā personas apliekamajā ienākumā, tad vērā ņem tikai nekustamā īpašuma īpatsvaru bilances aktīvu vērtībā atsavināšanas gadā.
 5. Šā panta trešās daļas 7.¹, 10. un 11.punktā minēto ienākumu nosaka saskaņā ar šā likuma 11.⁹ pantu.
