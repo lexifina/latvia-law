@@ -1,0 +1,1 @@
+17. Reģistrētam nodokļa maksātājam, kurš 2013.gadā veica mantisko ieguldījumu (tai skaitā ieguldot pamatlīdzekli, izņemot nekustamo īpašumu) kādā no 103.panta 2.¹ daļā minētajām komercsabiedrībām un par šo ieguldījumu 2013.gadā atmaksāja valsts budžetā atskaitītā priekšnodokļa daļu, ir tiesības 2014.gadā attiecīgi precizēt konkrētā taksācijas perioda nodokļa deklarāciju.

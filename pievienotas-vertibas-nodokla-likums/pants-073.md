@@ -5,7 +5,7 @@
 3) fiziskā persona, kura ir reģistrēts nodokļa maksātājs, ir mirusi;
 4) saskaņā ar likumu "Par nodokļiem un nodevām" ir apturēta reģistrēta nodokļa maksātāja saimnieciskā darbība;
 5) reģistrēts nodokļa maksātājs 30 dienu laikā pēc šajā likumā noteiktā nodokļa deklarācijas iesniegšanas termiņa neiesniedz nodokļa deklarāciju vai nodokļa deklarācijā sniedz nepatiesu informāciju, vai pēc Valsts ieņēmumu dienesta rakstveida pieprasījuma neiesniedz nodokļa aprēķinu pārbaudei nepieciešamos dokumentus;
-6) reģistrēts nodokļa maksātājs (izņemot citas dalībvalsts nodokļa maksātāju) nav sasniedzams juridiskajā adresē vai deklarētās dzīvesvietas adresē vai arī šī adrese faktiski nepastāv;
+6) reģistrēts nodokļa maksātājs (izņemot citas dalībvalsts nodokļa maksātāju un trešās valsts vai trešās teritorijas nodokļa maksātāju) nav sasniedzams juridiskajā adresē vai deklarētās dzīvesvietas adresē vai arī šī adrese faktiski nepastāv;
 7) reģistrēts nodokļa maksātājs, kas ir valsts vai pašvaldības iestāde vai pašvaldība, iesniedz Valsts ieņēmumu dienestam pamatotu iesniegumu par tās izslēgšanu no Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistra, kurā paziņo, ka neplāno turpmāk saņemt būvniecības pakalpojumus un veikt ar nodokli apliekamus darījumus, kuru dēļ saskaņā ar šo likumu vajadzētu būt reģistrētam Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā;
 8) PVN grupa iesniedz Valsts ieņēmumu dienestam iesniegumu par tās izslēgšanu no Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistra un no PVN grupas reģistrācijas dienas ir pagājuši 12 kalendāra mēneši;
 9) PVN grupa vairs neatbilst šā likuma 64.panta nosacījumiem;

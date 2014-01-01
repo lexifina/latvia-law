@@ -53,6 +53,19 @@ a) dzīvojamo telpu īri (izņemot viesu izmitināšanas pakalpojumus viesu izmi
 b) dzīvojamās mājas pārvaldīšanas pakalpojumu saskaņā ar pārvaldīšanas līgumā iekļautajiem maksājumiem.
 (2) Atbrīvojumu no nodokļa šā panta pirmās daļas 17.punktā minētajiem pakalpojumiem piemēro arī personas, kas nav publiskas personas, ja, sniedzot šos pakalpojumus, sistemātiski netiek gūta peļņa. Ja peļņa tiek gūta, atbrīvojumu piemēro gadījumos, kad gūto peļņu novirza vai iegulda šo pakalpojumu sniegšanas pilnveidošanai.
 (3) Ar nodokli neapliek preču piegādi, ja reģistrēts nodokļa maksātājs par attiecīgajām precēm nav atskaitījis priekšnodokli un preces tika iegādātas vai izmantotas šā panta pirmajā daļā minēto darījumu nodrošināšanai vai valsts pārvaldes uzdevumu veikšanai.
+(3¹) Ar nodokli neapliek preču piegādes, par kuru iegādi vai izmantošanu reģistrēts nodokļa maksātājs nav atskaitījis priekšnodokli, jo tās tika paredzētas citiem mērķiem, nevis ar nodokli apliekamo darījumu nodrošināšanai (tai skaitā par luksusa precēm, precēm reģistrēta nodokļa maksātāja, tā personāla vai citu personu privātajām vajadzībām un izklaidei).
+(3²) Ar nodokli neapliek pakalpojumus, ko neatkarīgās personu grupas dalībnieks sniedz citiem šīs grupas dalībniekiem, ja:
+1) šīs grupas dalībnieki ir personas, kas pastāvīgi veic darījumus, kurus neapliek ar nodokli saskaņā ar šā panta pirmo daļu, vai darījumus, kuriem nav piemērojams šis likums;
+2) pakalpojumi nepieciešami tikai un vienīgi šīs grupas dalībnieku veikto ar nodokli neapliekamo darījumu nodrošināšanai vai tādu darījumu nodrošināšanai, kuriem nav piemērojams šis likums;
+3) pakalpojumu vērtība ir to pašizmaksa;
+4) pakalpojumu izmaksas sedz šīs grupas dalībnieki atbilstoši to daļai kopējos izdevumos;
+5) netiek būtiski ietekmēta konkurējošas darbības vai darījumus veicošo tirgus dalībnieku (esošo vai potenciālo) situācija konkurences jomā un tādējādi netiek radīti būtiski konkurences izkropļojumi.
+(3³) Lai piemērotu šā panta 3.² daļu, ir izpildāmi visi šādi nosacījumi:
+1) starp neatkarīgās personu grupas dalībniekiem pastāv rakstveida vienošanās par pakalpojumu sniegšanu grupas ietvaros;
+2) neatkarīgās personu grupas dalībnieki ir iekšzemes nodokļa maksātāji, citas dalībvalsts nodokļa maksātāji vai trešo valstu vai trešo teritoriju nodokļa maksātāji;
+3) neatkarīgās personu grupas dalībnieks, kas grupas ietvaros sniedz pakalpojumus citiem grupas dalībniekiem, ir iekšzemes nodokļa maksātājs vai citas dalībvalsts nodokļa maksātājs;
+4) ja neatkarīgās personu grupas dalībnieks veic arī ar nodokli apliekamos darījumus, tas nodrošina uzskaiti, kas pamato, ka neatkarīgo personu grupas ietvaros saņemtie pakalpojumi tiek izmantoti darījumiem, kas atbrīvoti no nodokļa saskaņā ar šā panta pirmo daļu, vai darījumiem, kuriem nav piemērojams šis likums.
+(3⁴) Ja ir izpildīti šā panta 3.³ daļā minētie nosacījumi, šā panta 3.² daļa ir piemērojama arī gadījumos, kad neatkarīgā personu grupa, sniedzot pakalpojumu citiem šīs grupas dalībniekiem, pieprasa atmaksāt to daļu kopīgajos izdevumos, piemērojot tirgus cenas koriģējošo koeficientu, lai izpildītu tās dalībvalsts nacionālajos normatīvajos aktos noteiktās prasības attiecībā uz transfertcenu regulējumu, kurā ir reģistrēts nodokļa maksātājs, kas neatkarīgās personu grupas ietvaros sniedz pakalpojumus citiem šīs grupas dalībniekiem.
 (4) Ministru kabinets nosaka kārtību, kādā atbrīvojums no nodokļa piemērojams šādām preču piegādēm un pakalpojumiem:
 1) zobārstniecības pakalpojumiem;
 2) valsts atzītu izglītības iestāžu pakalpojumiem vispārējās izglītības, profesionālās izglītības, augstākās izglītības un interešu izglītības jomā, kā arī ar šiem izglītības pakalpojumiem cieši saistītu pakalpojumu sniegšanai un preču piegādei, ko veic minētās izglītības iestādes;

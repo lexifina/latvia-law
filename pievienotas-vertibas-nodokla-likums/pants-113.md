@@ -4,6 +4,8 @@
 2) nav veicis saskaņā ar spēkā esošajiem normatīvajiem aktiem reģistrējamu saimniecisko darbību iekšzemē;
 3) nav bijis reģistrēts Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā;
 4) nav veicis iekšzemē ar nodokli apliekamus darījumus, kuru dēļ būtu jāreģistrējas Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā.
-(2) Ministru kabinets, ievērojot šā panta pirmās daļas nosacījumus, nosaka kārtību, kādā:
-1) Valsts ieņēmumu dienests saņem un izskata citas dalībvalsts reģistrēta nodokļa maksātāja pieteikumu nodokļa atmaksāšanai iekšzemē;
-2) atmaksā nodokli citas dalībvalsts reģistrētam nodokļa maksātājam, un nodokļa atmaksāšanas termiņus, kas nedrīkst pārsniegt četrus mēnešus no pieteikuma saņemšanas dienas vai sešus mēnešus, ja tiek pieprasīta papildinformācija, vai astoņus mēnešus, ja papildinformācija tiek pieprasīta atkārtoti.
+(1¹) Valsts ieņēmumu dienests izskata citas dalībvalsts reģistrēta nodokļa maksātāja pieteikumu nodokļa atmaksāšanai iekšzemē, pieņem lēmumu par citas dalībvalsts reģistrēta nodokļa maksātāja pieteikumā nodokļa atmaksāšanai iekšzemē norādītās nodokļa summas atmaksu pilnībā vai daļēji vai par atteikumu atmaksāt nodokli un atmaksā atmaksai apstiprināto nodokļa summu ne vēlāk kā četru mēnešu laikā no pieteikuma saņemšanas dienas vai ne vēlāk kā sešu mēnešu laikā, ja tiek pieprasīta papildinformācija, vai ne vēlāk kā astoņu mēnešu laikā, ja papildinformācija tiek pieprasīta atkārtoti.
+(2) Ministru kabinets, ievērojot šā panta pirmās un 1.¹ daļas nosacījumus, nosaka:
+1) kārtību, kādā Valsts ieņēmumu dienests saņem un izskata citas dalībvalsts reģistrēta nodokļa maksātāja pieteikumu nodokļa atmaksāšanai iekšzemē un kādā Valsts ieņēmumu dienests pieņem lēmumu par citas dalībvalsts reģistrēta nodokļa maksātāja pieteikumā nodokļa atmaksāšanai iekšzemē norādītās nodokļa summas atmaksu pilnībā vai daļēji vai par atteikumu atmaksāt nodokli;
+2) kārtību, kādā Valsts ieņēmumu dienests atmaksā nodokli citas dalībvalsts reģistrētam nodokļa maksātājam, ievērojot šā panta 1.¹ daļā noteikto termiņu;
+3) gadījumus, kad Valsts ieņēmumu dienests pieņem lēmumu par atteikumu atmaksāt citas dalībvalsts reģistrēta nodokļa maksātāja pieteikumā nodokļa atmaksāšanai iekšzemē norādīto nodokļa summu.

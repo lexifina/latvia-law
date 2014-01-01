@@ -1,6 +1,8 @@
 1.pants. Likumā lietotie termini
 Likumā ir lietoti šādi termini:
-1) apbūves zeme - zemesgabals, kura apbūvei vai inženierkomunikāciju izbūvei tajā vai kuram domāto ceļu, ielu vai inženierkomunikāciju pievada izbūvei izsniegta būvatļauja pēc 2009.gada 31.decembra. Zemesgabals nav uzskatāms par apbūves zemi, ja būvatļauja būvdarbu veikšanai ir izsniegta līdz 2009.gada 31.decembrim un pēc 2009.gada 31.decembra ir pagarināta vai pārreģistrēta;
+1) apbūves zeme - zemesgabals, kura apbūvei vai inženierkomunikāciju izbūvei tajā vai kuram domāto ceļu, ielu vai inženierkomunikāciju pievada izbūvei izsniegta būvatļauja pēc 2009.gada 31.decembra. Zemesgabals nav uzskatāms par apbūves zemi, ja būvatļauja būvdarbu veikšanai ir izsniegta:
+a) līdz 2009.gada 31.decembrim un pēc 2009.gada 31.decembra ir pagarināta vai pārreģistrēta,
+b) pēc 2009.gada 31.decembra, bet ir mainīts zemesgabala lietošanas mērķis, kas neparedz apbūves veikšanu;
 2) atlīdzība - preču vai pakalpojumu vērtība naudas izteiksmē, kuru preču piegādātājs vai pakalpojumu sniedzējs saņem vai kura tam būtu jāsaņem kā samaksa no preču vai pakalpojumu saņēmēja vai citas personas par preču piegādi vai pakalpojumu sniegšanu, bez pievienotās vērtības nodokļa (turpmāk - nodoklis) neatkarīgi no tā, vai samaksa izdarīta pilnībā vai daļēji;
 3) dalībvalsts teritorija - konkrētās Eiropas Savienības dalībvalsts (turpmāk - dalībvalsts) teritorija, kurai piemēro Līguma par Eiropas Savienību 52.pantu un Līguma par Eiropas Savienības darbību 355.pantu, izņemot trešās teritorijas, kā arī Monako Firstistes, Menas salas un Apvienotās Karalistes Akrotiri (Akrotiri) un Dekelijas (Dhekelia) suverēnās bāzu teritorijas, kuras nodokļa piemērošanas nolūkā tiek uzskatītas par attiecīgi Francijas, Apvienotās Karalistes vai Kipras teritoriju;
 4) Eiropas Savienības teritorija - dalībvalstu teritoriju kopums;
@@ -16,15 +18,15 @@ d) veicot preču iegādi Eiropas Savienības teritorijā, ja šīs preces iegād
 a) sauszemes motorizētais transportlīdzeklis, kura motora tilpums ir lielāks par 48 kubikcentimetriem vai jauda ir lielāka par 7,2 kilovatiem un kurš paredzēts pasažieru vai preču pārvadāšanai, ja tas ir lietots mazāk par sešiem mēnešiem vai nobraucis mazāk par 6000 kilometriem,
 b) kuģis vai cits kuģošanas līdzeklis, kas ir garāks par 7,5 metriem un paredzēts pasažieru vai preču pārvadāšanai, ja tas ir lietots mazāk par trim mēnešiem vai nobraucis mazāk par 100 stundām, izņemot šā likuma 47.panta pirmajā daļā minētos kuģus,
 c) gaisakuģis, kura pacelšanās masa ir lielāka par 1550 kilogramiem un kurš paredzēts pasažieru vai preču pārvadāšanai, ja tas ir lietots mazāk par trim mēnešiem vai nolidojis mazāk par 40 stundām, izņemot šā likuma 48.panta pirmajā daļā minētos gaisakuģus;
-10) mazas vērtības dāvana - prece vai pakalpojums, kuru nodod bez atlīdzības un kura vērtība bez nodokļa vienam cilvēkam kalendāra gada laikā nepārsniedz 10 latu;
+10) mazas vērtības dāvana - prece vai pakalpojums, kuru nodod bez atlīdzības un kura vērtība bez nodokļa vienam cilvēkam kalendāra gada laikā nepārsniedz 14,23 euro, izņemot preci vai pakalpojumu, kas ir attiecināms uz reklāmas vai reprezentācijas izdevumiem;
 11) mītnes vieta - personas, kura nav nodokļa maksātājs, juridiskā adrese vai juridiskai adresei līdzvērtīga adrese atbilstoši citas valsts normatīvajiem aktiem;
 12) nelietots nekustamais īpašums:
-a) jaunuzcelta ēka vai būve (arī tajā iemontētās stacionārās iekārtas), ja to pēc pieņemšanas ekspluatācijā neizmanto,
-b) jaunuzcelta ēka vai būve (arī tajā iemontētās stacionārās iekārtas), ja to izmanto un pirmo reizi pārdod gada laikā pēc pieņemšanas ekspluatācijā,
-c) ēka vai būve, ja to pēc renovācijas, rekonstrukcijas vai restaurācijas darbu pabeigšanas neizmanto,
-d) ēka vai būve, ja to pēc renovācijas, rekonstrukcijas vai restaurācijas darbu pabeigšanas izmanto un pirmo reizi pārdod gada laikā pēc pieņemšanas ekspluatācijā,
-e) nepabeigtās celtniecības objekts - ēka vai būve, ja tā nav pieņemta ekspluatācijā,
-f) ēka vai būve, ja to renovē, rekonstruē vai restaurē, bet tā vēl nav pieņemta ekspluatācijā;
+a) jaunuzcelta ēka vai būve (arī tajā iemontētās stacionārās iekārtas), vai tās daļa, ja to pēc pieņemšanas ekspluatācijā neizmanto, un ar to saistīta zemes vienība vai zemes vienības daļa,
+b) jaunuzcelta ēka vai būve (arī tajā iemontētās stacionārās iekārtas), vai tās daļa, ja to izmanto un pirmo reizi pārdod gada laikā pēc pieņemšanas ekspluatācijā, un ar to saistīta zemes vienība vai zemes vienības daļa,
+c) ēka vai būve, vai tās daļa, ja to pēc renovācijas, rekonstrukcijas vai restaurācijas darbu pabeigšanas neizmanto, un ar to saistīta zemes vienība vai zemes vienības daļa,
+d) ēka vai būve, vai tās daļa, ja to pēc renovācijas, rekonstrukcijas vai restaurācijas darbu pabeigšanas izmanto un pirmo reizi pārdod gada laikā pēc pieņemšanas ekspluatācijā, un ar to saistīta zemes vienība vai zemes vienības daļa,
+e) nepabeigtās celtniecības objekts vai tā daļa - ēka vai būve, vai tās daļa, ja šī ēka vai būve nav pieņemta ekspluatācijā, un ar to saistīta zemes vienība vai zemes vienības daļa,
+f) ēka vai būve, vai tās daļa, ja šo ēku vai būvi renovē, rekonstruē vai restaurē, bet tā vēl nav pieņemta ekspluatācijā, un ar to saistīta zemes vienība vai zemes vienības daļa;
 13) nomaksas pirkums - preču piegāde, kurā preces piegādātājs saskaņā ar noslēgto nomaksas pirkuma līgumu piegādā konkrētu preci, kas līgumā noteiktajā termiņā pēc visu līgumā noteikto maksājumu izdarīšanas pāriet preces saņēmēja īpašumā;
 14) pakalpojumu sniegšana - darījums, kas nav preču piegāde; par pakalpojumu sniegšanu uzskata arī:
 a) nemateriālā īpašuma (nemateriālo vērtību un tiesību) pārdošanu (nodošanu),

@@ -9,4 +9,6 @@
 (2) Ja citas dalībvalsts nodokļa maksātājs iekšzemē veic vismaz vienu ar nodokli apliekamu darījumu, Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā reģistrē vienu no šādām personām:
 1) citas dalībvalsts nodokļa maksātāju;
 2) tā pilnvaroto personu iekšzemē.
-(3) Ja trešās valsts vai trešā teritorijas nodokļa maksātājs iekšzemē veic vismaz vienu ar nodokli apliekamu darījumu, Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā reģistrē tā pilnvaroto personu iekšzemē.
+(3) Ja trešās valsts vai trešās teritorijas nodokļa maksātājs iekšzemē veic vismaz vienu ar nodokli apliekamu darījumu, Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā reģistrē vienu no šādām personām:
+1) trešās valsts vai trešās teritorijas nodokļa maksātāju;
+2) tā pilnvaroto personu iekšzemē.

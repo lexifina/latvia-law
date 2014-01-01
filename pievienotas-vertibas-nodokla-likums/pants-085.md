@@ -9,10 +9,10 @@
 2) tas ir Valsts ieņēmumu dienesta Elektroniskās deklarēšanas sistēmas reģistrēts klients;
 3) iesnieguma iesniegšanas dienā tam nav nodokļu parādu par iepriekšējiem taksācijas periodiem, vai tas nodokļu parādus samaksā piecu darbdienu laikā pēc iesnieguma iesniegšanas;
 4) tā darbiniekiem, kam ir paraksta tiesības, nav sodāmības par noziedzīgiem nodarījumiem tautsaimniecībā;
-5) tas Valsts ieņēmumu dienesta noteiktajā termiņā sniedz informatīvās deklarācijas vai papildu informāciju, kas nepieciešama valsts budžetā iemaksājamās nodokļa summas vai nodokļa pārmaksas noteikšanai.
+5) tas iepriekšējos 12 mēnešos šā nodokļa normatīvajos aktos noteiktajos termiņos sniedzis informatīvās deklarācijas un Valsts ieņēmumu dienesta noteiktajā termiņā sniedzis papildu informāciju, kas nepieciešama valsts budžetā iemaksājamās nodokļa summas vai nodokļa pārmaksas noteikšanai.
 (5) Reģistrēts nodokļa maksātājs ir tiesīgs piemērot īpašo nodokļa režīmu preču importa darījumos pamatlīdzekļu importam bez šā panta trešajā daļā minētās atļaujas, ja tiek ievēroti visi šajā daļā minētie nosacījumi:
 1) reģistrēts nodokļa maksātājs importē pamatlīdzekli, ko paredzēts pilnībā vai daļēji izmantot ar nodokli apliekamo darījumu nodrošināšanai vismaz 12 kalendāra mēnešu laikā no brīža, kad veikts pamatlīdzekļa imports;
-2) pamatlīdzekļa vērtība (bez nodokļa) sasniedz vai pārsniedz 500 latu;
+2) pamatlīdzekļa vērtība (bez nodokļa) sasniedz vai pārsniedz 710 euro;
 3) reģistrētam nodokļa maksātājam nav nodokļa parādu par iepriekšējiem taksācijas periodiem.
 (6) Piemērojot šā panta piektās daļas 1.punktu, par pamatlīdzekli uzskata arī vieglo automašīnu, ja to importē reģistrēts nodokļa maksātājs, kura pamatdarbība ir autovadīšanas prasmes apmācība, taksometru pakalpojumu sniegšana, vieglo automašīnu nomas pakalpojumu sniegšana, vieglo automašīnu piegādes vai nomaksas pirkuma darījumi.
 (7) Ja reģistrēts nodokļa maksātājs, importējot preces, izmanto citas personas sniegto muitošanas pakalpojumu, šai personai ir tiesības piemērot īpašo nodokļa režīmu preču importa darījumos, ja ir saņemta šā panta trešajā daļā minētā atļauja uz reģistrētā nodokļa maksātāja vārda.
