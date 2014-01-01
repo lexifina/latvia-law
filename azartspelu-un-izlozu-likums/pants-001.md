@@ -1,6 +1,6 @@
 1.pants. Likumā lietotie termini
 Likumā ir lietoti šādi termini:
-1) azartspēle - spēle, kurā fiziskā persona, iemaksājot dalības likmi, var iegūt laimestu, kas pilnīgi vai daļēji ir atkarīgs no veiksmes gadījuma vai apstākļiem, kuri iepriekš nav zināmi. Par azartspēli nav uzskatāma tāda spēle spēļu automātā, kurā vienīgais laimests ir bezmaksas spēle šajā spēļu automātā, kā arī spēle spēļu automātā ar mantiska rakstura laimestu (izņemot laimestu naudā), kura vērtība nav lielāka par 10 latiem;
+1) azartspēle - spēle, kurā fiziskā persona, iemaksājot dalības likmi, var iegūt laimestu, kas pilnīgi vai daļēji ir atkarīgs no veiksmes gadījuma vai apstākļiem, kuri iepriekš nav zināmi. Par azartspēli nav uzskatāma tāda spēle spēļu automātā, kurā vienīgais laimests ir bezmaksas spēle šajā spēļu automātā, kā arī spēle spēļu automātā ar mantiska rakstura laimestu (izņemot laimestu naudā), kura vērtība nav lielāka par 15 euro;
 2) azartspēļu automāts - azartspēļu organizēšanai paredzēta elektroniska, mehāniska vai elektromehāniska ierīce ar īpašu programmu vai mehānismu laimesta lieluma noteikšanai;
 3) azartspēļu organizētājs - Latvijas Republikā reģistrēta kapitālsabiedrība, kura šajā likumā noteiktajā kārtībā ir saņēmusi nepieciešamās licences azartspēļu organizēšanai;
 4) bingo - azartspēle, kurā spēlētājam, uzminot nejaušu skaitļu kombināciju no iepriekš noteiktām skaitļu kombinācijām, ir iespēja iegūt laimestu un kurā laimesta lielums ir atkarīgs no izlozētās vai uzminētās skaitļu kombinācijas un iemaksāto likmju kopsummas;
