@@ -1,7 +1,7 @@
 382.pants. Amatpersonai uzliktā piespiedu nauda
 (1) Ja tiesas nolēmums uzliek iestādei pienākumu izpildīt noteiktu darbību vai atturēties no noteiktas darbības un iestāde šo pienākumu nepilda, iestādes vadītājam vai citai amatpersonai var uzlikt piespiedu naudu.
 (2) Piespiedu naudu var uzlikt atkārtoti, līdz iestādes vadītājs vai cita amatpersona izpilda vai pārtrauc attiecīgo darbību. Atkārtoti piespiedu naudu var uzlikt ne agrāk kā pēc septiņām dienām.
-(3) Minimālā piespiedu nauda ir 100 latu, bet maksimālā - 1000 latu. Nosakot piespiedu naudas summu, izpildiestāde ievēro samērīguma principu (13.pants).
+(3) Minimālā piespiedu nauda ir 145 euro, bet maksimālā - 1425 euro. Nosakot piespiedu naudas summu, izpildiestāde ievēro samērīguma principu (13.pants).
 (4) Piespiedu naudu uzliek ar izpildiestādes izpildrīkojumu. Izpildrīkojumā ietver:
 1) tās iestādes nosaukumu, kas izdevusi izpildrīkojumu par piespiedu naudu;
 2) norādi, kurš tiesas nolēmums izpildāms;
