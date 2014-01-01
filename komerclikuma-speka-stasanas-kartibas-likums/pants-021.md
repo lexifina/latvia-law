@@ -7,4 +7,4 @@
 1) dzīvības apdrošināšanas akciju sabiedrībām - 2 000 000 latu, pārējām apdrošināšanas akciju sabiedrībām - 1 000 000 latu;
 2) biržu akciju sabiedrībām - 250 000 latu;
 3) (izslēgts ar 08.07.2011. likumu).
-(3) Kapitālsabiedrībai, kura sniedz patērētāja kreditēšanas pakalpojumu, apmaksājamā pamatkapitāla minimālais lielums ir 300 000 latu, izņemot Patērētāju tiesību aizsardzības likuma 8.panta 1.¹ daļas 1., 2., 3. un 4.punktā minētos komersantus.
+(3) Kapitālsabiedrībai, kura sniedz patērētāja kreditēšanas pakalpojumu, apmaksājamā pamatkapitāla minimālais lielums ir 425 000 euro, izņemot Patērētāju tiesību aizsardzības likuma 8.panta 1.¹ daļas 1., 2., 3. un 4.punktā minētos komersantus.
