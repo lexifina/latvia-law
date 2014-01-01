@@ -3,8 +3,8 @@
 (2) Bāriņtiesa, aizstāvot aizgādnībā esošās personas mantiskās intereses, Civillikumā paredzētajos gadījumos, ievērojot tiesas spriedumā noteikto:
 1) lemj par atļauju pieņemt vai atraidīt aizgādnībā esošajai personai piekritušo mantojumu;
 2) lemj par aizgādnībā esošajai personai piederošās mantas pārdošanu par tirgus vērtību vai izsolē;
-3) lemj par aizgādnībā esošajai personai piederoša nekustamā īpašuma (ja tā vērtība nepārsniedz 10 000 latu) atsavināšanu, ieķīlāšanu vai apgrūtināšanu ar citām lietu tiesībām;
-4) lemj par aizgādnībā esošajai personai piederoša nekustamā īpašuma (ja tā vērtība pārsniedz 10 000 latu) atsavināšanas, ieķīlāšanas vai apgrūtināšanas ar citām lietu tiesībām lietderīgumu;
+3) lemj par aizgādnībā esošajai personai piederoša nekustamā īpašuma (ja tā vērtība nepārsniedz 14 000 euro) atsavināšanu, ieķīlāšanu vai apgrūtināšanu ar citām lietu tiesībām;
+4) lemj par aizgādnībā esošajai personai piederoša nekustamā īpašuma (ja tā vērtība pārsniedz 14 000 euro) atsavināšanas, ieķīlāšanas vai apgrūtināšanas ar citām lietu tiesībām lietderīgumu;
 5) lemj par īpašuma iegūšanu aizgādnībā esošajai personai;
 6) seko, lai aizgādnis nerīkojas ar aizgādnībā esošajai personai piederošu mantu bez bāriņtiesas atļaujas, ja tā saskaņā ar likumu ir nepieciešama;
 7) pārbauda, vai aizgādnis noskaidro aizgādnībā esošās personas viedokli un gribu un pārvalda mantu atbilstoši šīs personas interesēm un normatīvo aktu prasībām.
