@@ -4,4 +4,4 @@
 1) Rīgā un Jūrmalā - 40 procenti;
 2) Daugavpilī, Liepājā, Jelgavā, Rēzeknē, Ventspilī, Baldonē, Baložos, Olainē, Salaspilī, Saulkrastos, Siguldā un Vangažos - 50 procenti;
 3) citās pilsētās un lauku apvidos - 80 procenti.
-(3) Zemesgabala pircējs ir tiesīgs īpašuma kompensācijas sertifikātos maksājamo daļu samaksāt latos, bet likuma "Par zemes reformu Latvijas Republikas pilsētās" 31.panta septītajā un astotajā daļā un likuma "Par valsts un pašvaldību īpašuma objektu privatizāciju" 63.panta sestajā daļā minētajos gadījumos - latos maksājamo daļu samaksāt īpašuma kompensācijas sertifikātos.
+(3) Zemesgabala pircējs ir tiesīgs īpašuma kompensācijas sertifikātos maksājamo daļu samaksāt euro, bet likuma "Par zemes reformu Latvijas Republikas pilsētās" 31.panta septītajā un astotajā daļā un likuma "Par valsts un pašvaldību īpašuma objektu privatizāciju" 63.panta sestajā daļā minētajos gadījumos - euro maksājamo daļu samaksāt īpašuma kompensācijas sertifikātos.
