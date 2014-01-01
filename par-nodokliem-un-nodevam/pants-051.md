@@ -1,6 +1,6 @@
 51.pants. Eiropas Savienības dalībvalsts nodokļu prasījuma summas piedziņa
 (1) Eiropas Savienības dalībvalsts nodokļu prasījuma summu piedzen, pamatojoties uz Eiropas Savienības dalībvalstī izdotu vienoto instrumentu, kas atļauj izpildi pieprasījuma saņēmējā dalībvalstī, un kurš saņemts kopā ar Eiropas Savienības dalībvalsts pieprasījuma iesniedzējas iestādes palīdzības pieprasījumu par piedziņu.
-(2) Eiropas Savienības dalībvalsts nodokļu prasījuma summu piedzen vienotajā instrumentā, kas atļauj izpildi pieprasījuma saņēmējā dalībvalstī, latos norādītās summas apmērā, ievērojot Īstenošanas regulas (ES) Nr. 1189/2011 18.pantu.
+(2) Eiropas Savienības dalībvalsts nodokļu prasījuma summu piedzen vienotajā instrumentā, kas atļauj izpildi pieprasījuma saņēmējā dalībvalstī, euro norādītās summas apmērā, ievērojot Īstenošanas regulas (ES) Nr. 1189/2011 18.pantu.
 (3) Uzsākot Eiropas Savienības dalībvalsts nodokļu prasījuma summas piedziņu, par ko izdots vienotais instruments, kas atļauj izpildi pieprasījuma saņēmējā dalībvalstī, minēto instrumentu paziņo parādniekam un papildus sniedz informāciju par:
 1) datumu, kurā Valsts ieņēmumu dienests saņēmis Eiropas Savienības dalībvalsts palīdzības pieprasījumu par piedziņu;
 2) to, ka no dienas, kad saņemts palīdzības pieprasījums par piedziņu, piedzenamajam nodokļa vai nodevas maksājumam tiek aprēķināta nokavējuma nauda saskaņā ar šā likuma 29.pantu.
