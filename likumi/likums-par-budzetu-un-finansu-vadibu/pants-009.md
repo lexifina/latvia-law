@@ -21,8 +21,9 @@
 1) valsts budžeta iestāžu ieņēmumu par sniegtajiem maksas pakalpojumiem un citu pašu ieņēmumu, kā arī šā likuma 27.pantā noteiktajā kārtībā aprēķināto ieņēmumu par sniegtajiem maksas pakalpojumiem un citu pašu ieņēmumu atlikumu saimnieciskā gada sākumā izmantošanai;
 2) Eiropas Savienības pašu resursu palielināšanai un norēķiniem ar Eiropas Savienību;
 3) starptautisko tiesu un Satversmes tiesas spriedumu izpildei;
-4) valsts parāda saistību dzēšanai;
+4) (izslēgts ar 06.11.2013. likumu);
 5) Eiropas Savienības politiku instrumentu un citas ārvalstu finanšu palīdzības projektu un pasākumu īstenošanai;
 6) normatīvajos aktos noteikto sociālās apdrošināšanas speciālā budžeta izdevumu segšanai;
 7) likumā noteikto garantēto atlīdzību izmaksai Noguldījumu garantiju fondā trūkstošo līdzekļu nodrošināšanai.
 (15) Finanšu ministram ir tiesības veikt apropriācijas pārdali starp ministrijām un citām centrālajām valsts iestādēm, tai skaitā funkciju pārdales vai strukturālo reformu gadījumos, ja ir pieņemts Ministru kabineta lēmums un Saeima ar atsevišķu lēmumu piekritusi šādai pārdalei.
+(16) Finanšu ministram ir tiesības palielināt gadskārtējā valsts budžeta likumā valsts parāda saistību izpildei noteikto apropriāciju un paplašināt valdības rīcības pieļaujamās robežas neparedzētu apstākļu izraisītu valdības saistību gadījumā, ja Saeimas Budžeta un finanšu (nodokļu) komisija piecu darba dienu laikā no attiecīgās informācijas saņemšanas nav iebildusi pret apropriācijas palielinājumu un valdības rīcības pieļaujamo robežu paplašināšanu.
