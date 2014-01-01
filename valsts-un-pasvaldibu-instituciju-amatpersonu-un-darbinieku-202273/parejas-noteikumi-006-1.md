@@ -1,0 +1,1 @@
+6.¹ Izdienu Iekšlietu ministrijas sistēmā vai Ieslodzījuma vietu pārvaldē šā likuma 25.panta ceturtajā daļā minētā pabalsta saņemšanai sāk skaitīt no 2014.gada 1.janvāra un šo pabalstu izmaksā, sākot ar 2019.gada 1.janvāri.
