@@ -1,0 +1,1 @@
+5.pants. Reģistra iestādei līdz 2014.gada 31.decembrim šā likuma 1.² pantā noteiktajā kārtībā paziņo par Katoļu baznīcas publisko tiesību juridiskajām personām, sniedzot šā likuma 1.² panta pirmās daļas 2.punktā minēto informāciju. Par darbībām, kas minētas šajā pantā un veiktas noteiktajā termiņā, valsts nodevu nemaksā.

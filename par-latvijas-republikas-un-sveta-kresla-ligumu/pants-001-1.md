@@ -1,0 +1,2 @@
+1.¹ pants. (1) Valsts prezidenta kanceleja, pamatojoties uz informāciju, kas Valsts prezidentam sniegta saskaņā ar Līguma 5.pantu, un ieceltā diecēzes bīskapa iesniegumu, oficiālajā izdevumā "Latvijas Vēstnesis" paziņo par bīskapa stāšanos amatā. Valsts prezidenta kanceleja paziņo arī par diecēzes bīskapa atcelšanu no amata vai par amatpersonu, kura viņu aizvieto.
+(2) Valsts prezidenta kanceleja šā panta pirmajā daļā minēto informāciju sniedz arī institūcijai, kas ar likumu ir pilnvarota vest reliģisko organizāciju un to iestāžu reģistru (turpmāk - reģistra iestāde).

@@ -1,1 +1,1 @@
-3.pants. Līgums stājas spēkā tā 33.pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo laikrakstā "Latvijas Vēstnesis".
+3.pants. Līgums stājas spēkā tā 33.pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo oficiālajā izdevumā "Latvijas Vēstnesis".

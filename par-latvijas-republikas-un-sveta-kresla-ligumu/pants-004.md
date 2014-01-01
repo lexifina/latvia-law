@@ -1,0 +1,1 @@
+4.pants. Valsts prezidenta kanceleja mēneša laikā pēc šā likuma 1.¹ panta spēkā stāšanās dienas informē reģistra iestādi par Katoļu baznīcas diecēzes bīskapiem, kuri iecelti pirms šā panta spēkā stāšanās un turpina pildīt savus pienākumus.
