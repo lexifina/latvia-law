@@ -1,5 +1,3 @@
-43. pants. Augstākās Tiesas struktūra
-(1) Latvijas Republikas Augstākās tiesas sastāvā ir:
-1) Senāts;
-2) divas tiesu palātas: Civillietu tiesu palāta un Krimināllietu tiesu palāta.
-(2) Visi Augstākās Tiesas tiesneši veido plēnumu (tiesnešu kopsapulci).
+43.pants. Augstākās tiesas struktūra un kompetence
+(1) Augstākās tiesas sastāvā ir Administratīvo lietu departaments, Civillietu departaments un Krimināllietu departaments.
+(2) Augstākā tiesa ir kasācijas instance, ja likumā nav noteikts citādi.

@@ -1,4 +1,3 @@
-48. pants. Senāta sastāvs
-(1) Augstākās Tiesas Senāts lietas izskata koleģiāli trīs senatoru sastāvā.
-(2) (Izslēgta ar 15.06.1994. likumu.)
-(3) Likumā noteiktajos gadījumos lietas izskata paplašinātā senatoru sastāvā.
+48.pants. Augstākās tiesas departamenta sastāvs
+(1) Augstākās tiesas departaments lietas izskata koleģiāli triju tiesnešu sastāvā.
+(2) Likumā noteiktajos gadījumos lietas izskata paplašinātā sastāvā.

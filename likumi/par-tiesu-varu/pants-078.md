@@ -1,3 +1,3 @@
-78. pants. Augstākās Tiesas priekšsēdētāja un viņa vietnieku aizstāšana
-(1) Augstākās Tiesas priekšsēdētāju pagaidu prombūtnes laikā pēc viņa rīkojuma aizstāj viens no viņa vietniekiem.
-(2) Augstākās Tiesas priekšsēdētāja vietnieku pagaidu prombūtnes laikā pēc Augstākās Tiesas priekšsēdētāja rīkojuma aizstāj viens no Augstākās Tiesas tiesnešiem.
+78.pants. Augstākās tiesas priekšsēdētāja un departamentu priekšsēdētāju aizstāšana
+(1) Augstākās tiesas priekšsēdētāju pagaidu prombūtnes laikā pēc viņa rīkojuma aizstāj viens no departamentu priekšsēdētājiem.
+(2) Departamenta priekšsēdētāju pagaidu prombūtnes laikā pēc Augstākās tiesas priekšsēdētāja rīkojuma aizstāj viens no attiecīgā departamenta tiesnešiem.
