@@ -1,14 +1,7 @@
-27.pants. Universālā pasta pakalpojuma saistības
-(1) Lai Latvijas Republikas teritorijā nodrošinātu universālā pasta pakalpojuma sniegšanu, Regulators pasta komersantam nosaka universālā pasta pakalpojuma saistības.
-(2) Regulators, nosakot universālā pasta pakalpojuma saistības, reglamentē universālā pasta pakalpojuma apjomu un izveido universālajā pasta pakalpojumā ietilpstošo pasta pakalpojumu sarakstu, iekļaujot tajā vismaz šādus pasta pakalpojumus:
-1) tādu iekšzemes un pārrobežu vēstuļu korespondences sūtījumu (tajā skaitā ierakstītu un apdrošinātu sūtījumu) savākšana, šķirošana, pārvadāšana un piegāde, kuru svars nepārsniedz divus kilogramus;
-2) tādu iekšzemes un pārrobežu pasta paku sūtījumu (tajā skaitā apdrošinātu sūtījumu) savākšana, šķirošana, pārvadāšana un piegāde, kuru svars nepārsniedz divdesmit kilogramus;
-3) abonēto preses izdevumu piegādes pakalpojumi.
-(3) Regulators rīko konkursu saskaņā ar paša apstiprinātu nolikumu, lai noteiktu universālā pasta pakalpojuma sniedzēju. Regulators konkursa uzvarētājam nosaka pienākumu sniegt universālo pasta pakalpojumu ekonomiski izdevīgākajā veidā, nodrošinot, ka lietotājiem visā Latvijas Republikas teritorijā ir vienādas iespējas saņemt universālajā pasta pakalpojumā ietvertos pakalpojumus. Uz konkursa norisi nav attiecināms Publisko iepirkumu likums.
-(4) Regulators nodrošina vienlīdzīgu attieksmi pret visiem konkursa dalībniekiem. Regulators nevienam konkursa dalībniekam nerada labvēlīgākus apstākļus.
-(5) Regulators pasta komersantam nosaka universālā pasta pakalpojuma saistības, paredzot šādus nosacījumus:
-1) kvalitātes prasības attiecībā uz pasta sūtījumu savākšanu, šķirošanu, pārvadāšanu un piegādi (biežumu, ātrumu, regularitāti);
-2) kvalitātes prasības attiecībā uz pasta tīkla piekļuves punktu blīvumu un skaitu;
-3) prasību nodrošināt pasta pakalpojumu lietotājiem iespēju izmantot universālajā pasta pakalpojumā ietilpstošos pasta pakalpojumus par vienotu tarifu visā Latvijas Republikas teritorijā.
-(6) Regulators uzrauga universālā pasta pakalpojuma saistību izpildes atbilstību noteiktām prasībām.
-(7) Universālā pasta pakalpojuma sniedzējam ir pienākums publiskot informāciju par piedāvāto pasta pakalpojumu klāstu, tarifiem, pasta tīkla piekļuves punktiem un kvalitātes prasībām, izvietojot informāciju pasta pakalpojumu sniegšanas vietās vai savā mājaslapā internetā.
+27.pants. Universālā pasta pakalpojuma nodrošināšana
+(1) Universālā pasta pakalpojuma sniedzējam ir pienākums nodrošināt, ka lietotājiem visā Latvijas Republikas teritorijā ir vienādas iespējas saņemt šādus universālajā pasta pakalpojumā ietvertos pakalpojumus:
+1) tādu iekšzemes un pārrobežu vēstuļu korespondences sūtījumu (tajā skaitā ierakstītu un apdrošinātu) savākšana, šķirošana, pārvadāšana un piegāde, kuru svars nepārsniedz divus kilogramus;
+2) tādu iekšzemes un pārrobežu pasta paku (tajā skaitā apdrošinātu) savākšana, šķirošana, pārvadāšana un piegāde, kuru svars nepārsniedz 10 kilogramus;
+3) tādu pārrobežu pasta paku (tajā skaitā apdrošinātu) piegāde, kuras saņem no citām Eiropas Savienības valstīm un kuru svars nepārsniedz 20 kilogramus;
+4) abonēto preses izdevumu piegāde.
+(2) Ievērojot šā likuma 27.¹ pantā noteiktās prasības, universālo pasta pakalpojumu sniedz pastāvīgi un nepārtraukti, izņemot nepārvaramas varas vai ārkārtējās situācijas gadījumus.
