@@ -9,7 +9,7 @@
 (2) Prasība sagatavot emisijas prospektu neattiecas uz publisko piedāvājumu:
 1) kas izteikts tikai kvalificētajiem ieguldītājiem;
 2) kas katrā dalībvalstī nepārprotami izteikts mazāk nekā 150 fiziskajām vai juridiskajām personām, kuras nav kvalificētie ieguldītāji;
-3) kurā pārvedamu vērtspapīru minimālais pirkuma apjoms katram ieguldītājam ir vismaz 100 000 euro ekvivalents latos pēc Latvijas Bankas noteiktā kursa un nav atļauta tāda viena pārvedama vērtspapīra iegūšana, kuras rezultātā šis pārvedamais vērtspapīrs piederētu vairākām personām;
-4) kurā piedāvātā viena pārvedama vērtspapīra nominālvērtība ir vienāda vai lielāka par 100 000 euro ekvivalentu latos pēc Latvijas Bankas noteiktā kursa;
-5) kas izteikts par pārvedamiem vērtspapīriem, par kuriem aprēķinātā kopējā samaksa Eiropas Savienībā 12 mēnešu laikā ir vienāda vai mazāka par 100 000 euro ekvivalentu latos pēc Latvijas Bankas noteiktā kursa.
+3) kurā pārvedamu vērtspapīru minimālais pirkuma apjoms katram ieguldītājam ir vismaz 100 000 euro un nav atļauta tāda viena pārvedama vērtspapīra iegūšana, kuras rezultātā šis pārvedamais vērtspapīrs piederētu vairākām personām;
+4) kurā piedāvātā viena pārvedama vērtspapīra nominālvērtība ir vienāda vai lielāka par 100 000 euro;
+5) kas izteikts par pārvedamiem vērtspapīriem, par kuriem aprēķinātā kopējā samaksa Eiropas Savienībā 12 mēnešu laikā ir vienāda vai mazāka par 100 000 euro.
 (3) Ja piedāvājumu izsaka tikai kvalificētajiem ieguldītājiem, ieguldījumu brokeru sabiedrība vai kredītiestāde pēc emitenta pieprasījuma izsniedz emitentam to personu sarakstu, kuras atbilst kvalificētajiem ieguldītājiem noteiktajām prasībām un kritērijiem. Veidojot sarakstu, tajā iekļauj emitenta iesniegtajā informācijā norādītās personas, kuras atbilst minētajām prasībām un kritērijiem, vai ieguldījumu brokeru sabiedrības vai kredītiestādes klientus, kuri devuši savu piekrišanu piedalīties publiskajā piedāvājumā.
