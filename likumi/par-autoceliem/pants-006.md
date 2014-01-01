@@ -7,4 +7,5 @@
 (5) Ceļu lietotāju maksājumu elektronisko iekasēšanas sistēmu savstarpējas izmantojamības kārtību nosaka Ministru kabinets.
 (6) (Izslēgta ar 18.12.2008. likumu.)
 (7) (Izslēgta ar 18.12.2008. likumu.)
-(8) Par valsts galveno autoceļu lietošanu ar transportlīdzekļiem un to sastāviem, kuru pilna masa ir lielāka par 12 000 kilogramiem un kuri paredzēti tikai kravu autopārvadājumiem, normatīvajos aktos noteiktajos gadījumos un noteiktajā kārtībā maksājama autoceļu lietošanas nodeva.
+(8) Par valsts galveno autoceļu lietošanu ar kravas transportlīdzekļiem un to sastāviem, kuru pilna masa ir lielāka par 3500 kilogramiem un kuri paredzēti vai tiek izmantoti kravu autopārvadājumiem, normatīvajos aktos noteiktajos gadījumos un noteiktajā kārtībā maksājama autoceļu lietošanas nodeva.
+(9) Valsts autoceļu kompleksā ietilpstošus stāvlaukumus, kas paredzēti kravas transportlīdzekļu drošai novietošanai, valsts akciju sabiedrībai "Latvijas Valsts ceļi" ir tiesības normatīvajos aktos noteiktajā kārtībā iznomāt komersantam, paredzot komersantam pienākumu nodrošināt tajos apsardzes un citus drošības pakalpojumus, kuru minimālo apjomu nosaka Ministru kabinets. Par kravas transportlīdzekļu novietošanu šādos stāvlaukumos komersants ir tiesīgs ņemt maksu.
