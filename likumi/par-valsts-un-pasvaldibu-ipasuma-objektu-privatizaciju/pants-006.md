@@ -1,6 +1,6 @@
 6. pants. Maksāšanas līdzekļi un to izmantošana
 1. Maksājumi par īpašuma objektiem izdarāmi:
-1) latos;
+1) euro;
 2) privatizācijas sertifikātos.
 2. Ar privatizācijas sertifikātiem var norēķināties par jebkuru privatizējamo valsts vai pašvaldības īpašuma objektu. Privatizācijas sertifikātu izmantošanas apmēru nosaka Privatizācijas aģentūra vai attiecīgās republikas pilsētas dome vai novada dome. Ja tiek izmantotas šā likuma 17. panta pirmās daļas 1. punktā vai 35. panta pirmās daļas 1. punktā paredzētās pirmpirkuma tiesības, privatizācijas subjektam ir tiesības izvēlēties vienu vai abus no šā panta pirmajā daļā paredzētajiem maksāšanas līdzekļiem. Ja, privatizējot valsts vai pašvaldības kapitālsabiedrību, tiek izmantots šā likuma 3.panta trešās daļas 8.punktā minētais privatizācijas paņēmiens un attiecīgais kapitālsabiedrība ir pasludināta par maksātnespējīgu, par maksāšanas līdzekli nedrīkst izmantot privatizācijas sertifikātus.
 3. Ienākumi no valsts īpašuma objektu privatizācijas ieskaitāmi valsts budžetā. Pirms ienākumu ieskaitīšanas valsts budžetā no tiem atskaita Ministru kabineta noteiktos privatizācijas izdevumus, kā arī ieskaitījumu 10 procentu apmērā rezerves fonda veidošanai. Ieņēmumi, kas gūti, kapitalizējot valsts budžetā maksājamo nodokļu pamatparādus, ieskaitāmi attiecīgajā budžetā likumā "Par nodokļiem un nodevām" noteiktajā kārtībā.
