@@ -5,9 +5,9 @@
 3) tāds stāvoklis, kad viena vai vairākas fiziskās personas, kurām jau ir izšķiroša ietekme pār vienu vai vairākiem tirgus dalībniekiem, vai viens vai vairāki tirgus dalībnieki iegūst daļu vai visus cita tirgus dalībnieka vai citu tirgus dalībnieku aktīvus vai tiesības tos izmantot, vai tiešu vai netiešu izšķirošu ietekmi pār citu tirgus dalībnieku vai citiem tirgus dalībniekiem. Aktīvu vai to izmantošanas tiesību iegūšanu uzskata par apvienošanos, ja aktīvu vai to izmantošanas tiesību iegūšana palielina minēto aktīvu un tiesību ieguvēja tirgus daļu jebkurā konkrētajā tirgū;
 4) tāds stāvoklis, kad divas vai vairākas fiziskās personas kopīgi vai viena fiziskā persona vienlaicīgi iegūst daļu vai visus divu vai vairāku tirgus dalībnieku aktīvus vai to izmantošanas tiesības, vai tiešu vai netiešu izšķirošu ietekmi pār diviem vai vairākiem tirgus dalībniekiem.
 (2) Tirgus dalībnieki, kuri nolēmuši apvienoties kādā no šā panta pirmajā daļā paredzētajiem veidiem, pirms apvienošanās iesniedz Konkurences padomei pilnu ziņojumu, ja pastāv viens no šādiem nosacījumiem:
-1) apvienošanās dalībnieku kopējais apgrozījums iepriekšējā finanšu gadā Latvijas teritorijā ir bijis ne mazāks par 25 miljoniem latu;
+1) apvienošanās dalībnieku kopējais apgrozījums iepriekšējā finanšu gadā Latvijas teritorijā ir bijis ne mazāks par 35 572 000 euro;
 2) apvienošanās dalībnieku kopējā tirgus daļa konkrētajā tirgū pārsniedz 40 procentus.
-(2¹) Šā panta otrajā daļā minētajā gadījumā ziņojumu neiesniedz, ja vienam no diviem apvienošanās dalībniekiem apgrozījums iepriekšējā finanšu gadā Latvijas teritorijā nepārsniedz 1,5 miljonus latu.
+(2¹) Šā panta otrajā daļā minētajā gadījumā ziņojumu neiesniedz, ja vienam no diviem apvienošanās dalībniekiem apgrozījums iepriekšējā finanšu gadā Latvijas teritorijā nepārsniedz 2 134 000 euro.
 (2²) Šā panta otrajā daļā minētajiem tirgus dalībniekiem ir tiesības iesniegt Konkurences padomei saīsināto ziņojumu par apvienošanos, ja pastāv viens no šādiem nosacījumiem:
 1) neviens no apvienošanās dalībniekiem nedarbojas vienā konkrētajā tirgū vai ar to vertikāli saistītā tirgū;
 2) apvienošanā iesaistīto tirgus dalībnieku kopējā tirgus daļa konkrētajā tirgū nepārsniedz 15 procentus.
