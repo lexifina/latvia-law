@@ -1,31 +1,29 @@
-Nr.
-p.k.
-Piesārņojošo vielu klasifikācija
-pēc bīstamības klases
+Nr.p.k.
+Piesārņojošo vielu klasifikācija pēc bīstamības klases
 Mērvienība
 Likme
-(Ls)
+(euro)
 1.
 Nebīstamās vielas
 tonna
-3,00
+5,50
 2.
 Suspendētās vielas (nebīstamās)
 tonna
-10,00
+14,23
 3.
-Vidēji bīstamas vielas, izņemot kopējo fosforu (P kop.)
+Vidēji bīstamās vielas, izņemot kopējo fosforu (P kop.)
 tonna
-30,00
+42,69
 4.
 Bīstamās vielas
 tonna
-8000,00
+11 382,97
 5.
 Īpaši bīstamās vielas
 tonna
-50000,00
+71 143,59
 6.
 Kopējais fosfors (P kop.)
 tonna
-150,00
+270,00
