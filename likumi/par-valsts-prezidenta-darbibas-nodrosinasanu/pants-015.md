@@ -1,2 +1,2 @@
-15.pants. (1) Dāvanas, kuras saņem Valsts prezidents, izņemot šā panta otrajā daļā paredzētos gadījumus, ir valsts īpašums un tiek glabātas Valsts prezidenta rezidencē.
-(2) Dāvanas, kuras Valsts prezidents saņem kā privātpersona, ja to vērtība nepārsniedz 150 euro, ir viņa īpašums. Kārtību, kādā izlietojamas pārējās dāvanas, ja tās ir individuāli lietojami priekšmeti, reglamentē likums.
+15.pants. (1) Dāvanas, kuras saņem Valsts prezidents, tiek glabātas Valsts prezidenta rezidencē. Dāvanas ar vēsturisku, zinātnisku, māksliniecisku vai citādu kultūras vērtību var glabāt arī Latvijas Nacionālajā mākslas muzejā, Latvijas Nacionālajā vēstures muzejā vai Latvijas Nacionālajā bibliotēkā. Kārtību, kādā Valsts prezidents pieņem dāvanas, un dāvanu pieņemšanas ierobežojumus nosaka likums "Par interešu konflikta novēršanu valsts amatpersonu darbībā.
+(2) (Izslēgta ar 05.12.2013. likumu)

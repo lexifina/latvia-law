@@ -1,0 +1,1 @@
+5. Tās personas, kura ieņēma Valsts prezidenta amatu līdz 2011.gada 7.jūlijam, pārdzīvojušam laulātajam un pirmās pakāpes lejupējam radiniekam ir tiesības izmantot personai, kura ieņēma Valsts prezidenta amatu, lietošanā piešķirto valsts dzīvokli arī pēc tās personas nāves, kura ieņēma Valsts prezidenta amatu, bet ne ilgāk par vienu gadu.

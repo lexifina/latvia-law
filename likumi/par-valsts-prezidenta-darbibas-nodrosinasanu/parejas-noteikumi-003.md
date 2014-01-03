@@ -1,0 +1,1 @@
+3. Grozījums šā likuma 10.panta pirmās daļas 3.punktā par tā izteikšanu jaunā redakcijā un lietošanā nododamās automašīnas izvēles kritērija noteikšanu neattiecas uz automašīnām, kas līdz grozījuma spēkā stāšanās dienai nodotas lietošanā personām, kuras ieņēma Valsts prezidenta amatu.
