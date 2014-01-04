@@ -1,0 +1,1 @@
+75. Grozījumi šā likuma 250.²⁷ pantā par tiesas spriedumu, kas taisīti lietās par maza apmēra prasībām, pārsūdzēšanu apelācijas kārtībā attiecas uz spriedumiem, kas pasludināti vai - ja spriedumi taisīti rakstveida procesā - sastādīti pēc 2014.gada 1.aprīļa.

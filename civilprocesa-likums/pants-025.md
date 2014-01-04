@@ -1,7 +1,7 @@
 25.pants. Piekritība apgabaltiesai
 (1) Apgabaltiesa izskata šādas tiesai pakļautās lietas:
 1) lietas, kurās ir strīds par īpašuma tiesībām uz nekustamo īpašumu, izņemot laulāto mantas dalīšanu;
-2) lietas, kas izriet no saistību tiesībām, ja prasības summa pārsniedz 210 000 euro;
+2) (izslēgts ar 19.12.2013. likumu);
 3) lietas par patenttiesību, preču zīmju un ģeogrāfiskās izcelsmes norāžu aizsardzību;
 4) (izslēgts ar 01.12.2005. likumu);
 5) lietas par kredītiestāžu maksātnespēju un likvidāciju.

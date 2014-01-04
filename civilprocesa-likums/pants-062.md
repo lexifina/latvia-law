@@ -2,25 +2,20 @@
 (1) Tiesas sēdes protokolā norāda:
 1) gadu, datumu, mēnesi un tiesas sēdes vietu;
 2) tās tiesas nosaukumu, kura izskata lietu, tiesas sastāvu, tiesas sēdes sekretāru, advokātu un prokuroru, kuri piedalās lietā;
-2¹) to, ka tiesas sēdes gaitu fiksē ar tehniskajiem līdzekļiem;
-3) tiesas sēdes atklāšanas laiku;
-4) lietas nosaukumu;
-5) ziņas par lietas dalībnieku, liecinieku, ekspertu un tulku ierašanos;
-6) ziņas par to, ka lietas dalībniekiem izskaidrotas viņu procesuālās tiesības un pienākumi;
-7) ziņas par to, ka liecinieki, eksperti un tulki brīdināti par kriminālatbildību;
-8) lietas dalībnieku paskaidrojumus, liecinieku liecības, ekspertu mutvārdu paskaidrojumus par viņu atzinumiem;
-8¹) ziņas par lietisko un rakstveida pierādījumu pārbaudi;
-9) lietas dalībnieku pieteikumus;
+3) to, ka tiesas sēdes gaitu fiksē ar tehniskajiem līdzekļiem;
+4) tiesas sēdes atklāšanas laiku;
+5) lietas nosaukumu;
+6) ziņas par lietas dalībnieku, liecinieku, ekspertu un tulku ierašanos;
+7) ziņas par to, ka lietas dalībniekiem izskaidrotas viņu procesuālās tiesības un pienākumi;
+8) ziņas par to, ka liecinieki, eksperti un tulki brīdināti par kriminālatbildību;
+9) ziņas par lietisko un rakstveida pierādījumu pārbaudi;
 10) tiesas rīkojumus un lēmumus, kas nav pieņemti atsevišķu procesuālo dokumentu veidā;
-11) valsts un pašvaldību iestāžu atzinumu īsu saturu;
-12) tiesas debašu un prokurora atzinuma īsu saturu;
-13) ziņas par tiesas aiziešanu lēmuma pieņemšanai vai sprieduma taisīšanai;
-14) ziņas par sprieduma vai atsevišķa procesuālā dokumenta veidā pieņemta lēmuma pasludināšanu;
-15) ziņas par sprieduma vai lēmuma satura, pārsūdzēšanas kārtības un termiņa izskaidrošanu;
-16) ziņas par to, kad lietas dalībnieki var iepazīties ar tiesas sēdes protokolu un pilnu sprieduma tekstu;
-17) tiesas sēdes slēgšanas laiku;
-18) tiesas sēdes protokola parakstīšanas laiku.
-(2) Prasītāja atteikšanos no prasības, kā arī to, ka atbildētājs ir atzinis prasību un lietas dalībnieki atzinuši juridiskos faktus, ieraksta tiesas sēdes protokolā un paraksta attiecīgi prasītājs, atbildētājs vai abas puses.
-(2¹) Ja tiesas sēdes gaitu fiksē ar tehniskajiem līdzekļiem, tiesas sēdes protokolā nenorāda šā panta pirmās daļas 8., 9., 11. un 12.punktā noteiktās ziņas.
+11) ziņas par tiesas aiziešanu lēmuma pieņemšanai vai sprieduma taisīšanai;
+12) ziņas par sprieduma vai atsevišķa procesuālā dokumenta veidā pieņemta lēmuma pasludināšanu;
+13) ziņas par sprieduma vai lēmuma satura, pārsūdzēšanas kārtības un termiņa izskaidrošanu;
+14) ziņas par to, kad lietas dalībnieki var iepazīties ar tiesas sēdes protokolu, skaņu ierakstu un pilnu sprieduma tekstu;
+15) tiesas sēdes slēgšanas laiku;
+16) tiesas sēdes protokola parakstīšanas laiku.
+(2) Par prasītāja atteikšanos no prasības, kā arī par to, ka atbildētājs ir atzinis prasību un lietas dalībnieki atzinuši juridiskos faktus, izdara atzīmi tiesas sēdes protokolā, un attiecīgi prasītājs, atbildētājs vai abas puses to apliecina, parakstoties atsevišķā tiesas sagatavotā apliecinājumā.
 (3) Tiesas sēdes protokolu paraksta tiesas sēdes priekšsēdētājs un tiesas sēdes sekretārs.
-(4) Ārpus tiesas sēdes izpildīto atsevišķo procesuālo darbību protokolam jāatbilst šajā pantā minētajām prasībām.
+(4) Ārpus tiesas sēdes izpildīto atsevišķo procesuālo darbību protokolam jāatbilst šā panta prasībām.

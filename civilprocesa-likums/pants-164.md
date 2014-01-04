@@ -1,5 +1,5 @@
 164.pants. Atteikšanās no prasības, prasības atzīšana, izlīgums, vienošanās par lietas nodošanu šķīrējtiesai
-(1) Atteikšanos no prasības vai prasības atzīšanu ieraksta tiesas sēdes protokolā un attiecīgi paraksta prasītājs vai atbildētājs.
+(1) Atteikšanos no prasības vai prasības atzīšanu fiksē atsevišķā tiesas sagatavotā apliecinājumā, kuru paraksta attiecīgi prasītājs vai atbildētājs.
 (2) Ja atteikšanās no prasības vai prasības atzīšana izteikta tiesai adresētos rakstveida pieteikumos, tos pievieno lietai.
 (3) Izlīgums iesniedzams tiesai rakstveidā, un to pievieno lietai.
 (4) Vienošanos par lietas nodošanu šķīrējtiesai noformē rakstveidā un pievieno lietai.

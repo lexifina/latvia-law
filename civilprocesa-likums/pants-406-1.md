@@ -5,4 +5,5 @@
 2) ja parādnieka deklarētā dzīvesvieta vai dzīvesvieta nav zināma;
 3) ja parādnieka deklarētā dzīvesvieta, dzīvesvieta, atrašanās vieta vai juridiskā adrese nav Latvijas Republikā;
 4) ja pieprasītais līgumsods pārsniedz galvenā parāda summu;
-5) ja pieprasītie procenti pārsniedz galvenā parāda summu.
+5) ja pieprasītie procenti pārsniedz galvenā parāda summu;
+6) par maksājuma saistībām, ja parāda summa pārsniedz 15 000 euro.

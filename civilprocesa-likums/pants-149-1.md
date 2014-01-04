@@ -1,4 +1,4 @@
 149.¹ pants. Sagatavošanas sēde
 (1) Sagatavošanas sēdē tiesnesis iztaujā lietas dalībniekus par lietas būtību, lai precizētu strīda priekšmetu un robežas, izskaidro lietas dalībniekiem viņu procesuālās tiesības un pienākumus, procesuālo darbību izdarīšanas vai neizdarīšanas sekas, izlemj šā likuma 149.panta trešajā, ceturtajā un piektajā daļā paredzētos jautājumus, cenšas puses samierināt, ja nepieciešams, nosaka termiņu, līdz kuram izpildāmas atsevišķas procesuālās darbības.
 (2) Ja tiesas sēde nav noteikta iepriekš, sagatavošanas sēdē tiesnesis nosaka tiesas sēdes dienu un laiku un pret parakstu paziņo par to klātesošajiem lietas dalībniekiem, kā arī nosaka uz tiesas sēdi aicināmās un izsaucamās personas.
-(3) Sagatavošanas sēde tiek protokolēta. Protokolā ieraksta ziņas par sēdes norisi, lietas dalībnieku paskaidrojumu būtību un tiesneša pieņemtos lēmumus.
+(3) Sagatavošanas sēde tiek protokolēta. Sagatavošanas sēdes gaitu pilnā apjomā fiksē, izmantojot skaņu ierakstus vai citus tehniskos līdzekļus. Protokolā ieraksta ziņas par sēdes norisi, lietas dalībnieku paskaidrojumu būtību un tiesneša pieņemtos lēmumus.
