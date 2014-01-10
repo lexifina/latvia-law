@@ -1,0 +1,1 @@
+3.pants. Saskaņā ar Protokola 1.pantu, kā arī ievērojot 1957.gada 13.decembra Eiropas Padomes Konvencijas par izdošanu (turpmāk - Konvencija) 10.panta trešo daļu (ar Protokola grozījumiem), noteikt, ka Konvencijas 10.panta otrā daļa (ar Protokola grozījumiem) netiek piemērota.
