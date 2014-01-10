@@ -6,6 +6,9 @@ Aizliegta un saskaņā ar likumu tiek sodīta masu informācijas līdzekļu izma
 Aizliegts publicēt informāciju, kura aizskar fizisko un juridisko personu godu un cieņu un ceļ tam neslavu.
 Aizliegts publicēt ziņas par personu veselības stāvokli bez viņu piekrišanas.
 Aizliegts publicēt komercnoslēpumus un patentu noslēpumus bez to īpašnieka piekrišanas.
-Aizliegts publicēt informāciju, kas ļauj identificēt prettiesiskas darbības dēļ cietuša bērna, nepilngadīga likumpārkāpēja vai liecinieka personību, ja nav saņemta Bērnu tiesību aizsardzības likumā minēto personu un iestāžu piekrišana.
+Aizliegts bez Bērnu tiesību aizsardzības likumā minēto personu un iestāžu piekrišanas publicēt:
+1) tādu informāciju, kas var būt par pamatu prettiesiskas darbības rezultātā cietuša bērna interešu (privātums, identitāte) apdraudējumam;
+2) prettiesiskas darbības rezultātā cietuša bērna attēlu;
+3) tādu informāciju, kas ļauj identificēt nepilngadīgu likumpārkāpēju vai nepilngadīgu liecinieku.
 Aizliegts publicēt bērnu pornogrāfiju un materiālus, kuri demonstrē pret bērnu vērstu vardarbību.
 Aizliegts publicēt erotiska un pornogrāfiska rakstura materiālus, ja tādējādi tiek pārkāpta kārtība, kas noteikta normatīvajos aktos, kuri regulē erotiska un pornogrāfiska rakstura materiālu apriti.
