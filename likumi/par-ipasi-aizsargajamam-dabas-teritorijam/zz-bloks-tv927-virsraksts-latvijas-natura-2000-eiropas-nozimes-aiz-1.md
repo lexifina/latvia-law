@@ -456,6 +456,8 @@ aizsargājamā jūras teritorija "Vitrupe-Tūja"
 B
 LV0900700
 aizsargājamā jūras teritorija "Ainaži-Salacgrīva"
+347.
+BLV0536700dabas liegums "Zušu-Staiņu sēravoti"
 Šā pielikuma tabulas ailē "Tips" ar:
 "A" apzīmētas
 teritorijas, kas noteiktas īpaši aizsargājamo putnu sugu aizsardzībai;
