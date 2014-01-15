@@ -1,0 +1,1 @@
+25. Līguma noteikumus, kas saistīti ar maksājumu veida maiņu, dzīvojamās mājas īpašnieka vārdā groza viņa pilnvarota persona. Dzīvojamās mājās, kurās pārvaldīšanas tiesības nav nodotas attiecīgās mājas dzīvokļu īpašnieku sabiedrībai vai ar dzīvokļu īpašnieku savstarpēju līgumu pilnvarotai personai, attiecīgos grozījumus dzīvojamās mājas īpašnieka vārdā izdara pārvaldnieks.

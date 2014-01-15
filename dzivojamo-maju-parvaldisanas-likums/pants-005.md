@@ -1,3 +1,6 @@
 5.pants. Dzīvojamās mājas pārvaldīšanas nodrošināšana
 (1) Dzīvojamās mājas pārvaldīšanas nodrošināšana (tajā skaitā ar dzīvojamās mājas pārvaldīšanu saistītu lēmumu pieņemšana, darījumu slēgšana) ir dzīvojamās mājas īpašnieka pienākums.
-(2) Ar dzīvojamās mājas pārvaldīšanu saistīti lēmumi dzīvokļu īpašumu mājā tiek pieņemti likumā par dzīvokļa īpašumu noteiktajā kārtībā.
+(2) Ar dzīvojamās mājas pārvaldīšanu saistīti lēmumi dzīvokļu īpašumu mājā tiek pieņemti Dzīvokļa īpašuma likumā noteiktajā kārtībā.
+(3) Uz kopīpašumā esošas dzīvojamās mājas pārvaldīšanu attiecināmi Civillikumā noteiktie īpašuma aprobežojumi, ciktāl šā panta ceturtā un piektā daļa nenosaka citādi.
+(4) Lēmumus, kas attiecas uz obligāti veicamo pārvaldīšanas darbību nodrošināšanu kopīpašumā esošā dzīvojamā mājā - pārvaldīšanas uzdevuma uzdošanu, tā atsaukšanu, mājas uzturēšanai nepieciešamo pakalpojumu līgumu slēgšanas noteikumiem, kā arī kārtību, kādā nosakāmi un maksājami obligātie izdevumi un atlīdzība par pārvaldīšanu, pieņem, ievērojot Dzīvokļa īpašuma likuma noteikumus par dzīvokļu īpašnieku kopības lēmumu pieņemšanu, un tie ir saistoši ikvienam dzīvojamās mājas kopīpašniekam.
+(5) Ja kopīpašnieki atbilstoši Civillikuma 1070.panta pirmās daļas noteikumiem vienojušies par dzīvojamās mājas dalītas lietošanas kārtību un par to izdarīta atzīme zemesgrāmatā, šā panta ceturtās daļas noteikumi piemērojami tiktāl, ciktāl tie nav pretrunā ar kopīpašnieku noteikto dzīvojamās mājas dalītas lietošanas kārtību.

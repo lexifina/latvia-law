@@ -1,2 +1,0 @@
-24.pants. Norīkotā pārvaldnieka izraudzīšanas kārtība
-Personu, kura veiks norīkotā pārvaldnieka pienākumus, pašvaldība izvēlas, piemērojot normatīvajos aktos noteiktās iepirkumu procedūras, ja plānotās norīkotā pārvaldnieka apdraudējuma novēršanas darbību izmaksas sasniegs normatīvajos aktos noteiktās līgumcenu robežas, sākot ar kurām nepieciešams veikt iepirkuma procedūru. Ja norīkotā pārvaldnieka pienākumus pildīt nav pieteikusies neviena persona, pašvaldība var uzdot attiecīgo dzīvojamo māju pārvaldīt citai personai, noslēdzot par to vienošanos.

@@ -1,0 +1,1 @@
+23. Tiešie maksājumi par pakalpojumiem uzsākami ne agrāk kā 2015.gada 1.oktobrī, izņemot gadījumus, kad dzīvojamās mājas īpašnieks un pakalpojuma sniedzējs jau līdz 2015.gada 30.septembrim vienojušies par tiešajiem maksājumiem pakalpojuma līgumā.

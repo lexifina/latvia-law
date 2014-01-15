@@ -3,4 +3,4 @@
 (2) Fiziskā vai juridiskā persona ir tiesīga reģistrēties pārvaldnieku reģistrā arī tad, ja vēlas piedāvāt pārvaldnieka pakalpojumus, atbilst šajā likumā pārvaldniekam izvirzītajām prasībām, taču nav saņēmusi pārvaldīšanas uzdevumu un nav noslēgusi pārvaldīšanas līgumu.
 (3) Pārvaldnieku reģistrā nav jāreģistrējas viendzīvokļa mājas pārvaldītājam, kā arī daudzdzīvokļu mājas īpašniekam, kas atbilstoši šā likuma noteikumiem pats pārvalda sev piederošu dzīvojamo māju, kuras kopējā platība ir mazāka par 1500 kvadrātmetriem.
 (4) Ikvienam ir tiesības iepazīties ar reģistra ierakstiem un reģistram iesniegtajiem dokumentiem.
-(5) Reģistra vešanas un aktualizēšanas kārtību, reģistram iesniedzamos dokumentus un to iesniegšanas termiņus, kā arī par reģistra vešanu atbildīgo amatpersonu nosaka Ministru kabinets.
+(5) Reģistra vešanas un aktualizēšanas kārtību, reģistram iesniedzamos dokumentus un to iesniegšanas termiņus, pakalpojumu veidus, kā arī par reģistra vešanu atbildīgo amatpersonu nosaka Ministru kabinets.

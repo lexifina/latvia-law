@@ -1,0 +1,1 @@
+21. Pakalpojuma sniedzējs no pārvaldnieka saņemto informāciju par dzīvojamās mājas īpašnieku kopējo parādu salīdzina ar tā uzskaitē esošajiem datiem un nosūta pārvaldniekam informāciju par salīdzināšanas rezultātiem.

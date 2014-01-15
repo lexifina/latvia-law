@@ -3,10 +3,11 @@
 (2) Pārvaldīšanas līgumā norādāmas vismaz šādas ziņas un nosacījumi:
 1) līdzēji;
 2) tās dzīvojamās mājas adrese, kurā veicams pārvaldīšanas uzdevums;
-3) pārvaldniekam uzdotās obligāti veicamās pārvaldīšanas darbības atbilstoši šā likuma 6.panta otrajā daļā noteiktajam;
+3) pārvaldniekam uzdotās obligāti veicamās pārvaldīšanas darbības, tajā skaitā dzīvojamās mājas uzturēšanai nepieciešamo pakalpojumu uzskaitījums, atbilstoši šā likuma 6.panta otrajā daļā noteiktajam;
 4) pārvaldniekam uzdotās citas atbilstoši dzīvojamās mājas īpašnieka gribai veicamās pārvaldīšanas darbības atbilstoši šā likuma 6.panta trešajā daļā noteiktajam;
 5) termiņi un kārtība, kādā sniedzams pārskats par pārvaldīšanas uzdevuma izpildi, tajā skaitā pārskats par pārvaldnieka rīcībā nodoto finanšu līdzekļu izlietošanu;
 6) kārtība, kādā pārvaldnieks sniedz informāciju dzīvojamās mājas īpašniekam;
+6¹) ar dzīvojamās mājas īpašnieka lēmumu noteikta kontaktpersona, kas nodrošina ar dzīvojamās mājas pārvaldīšanu saistītās informācijas apriti (turpmāk - kontaktpersona);
 7) jautājumi, kuros dzīvojamās mājas īpašnieks pilnvarojis pārvaldnieku pieņemt lēmumus viņa vietā, slēgt līgumus viņa vietā, kā arī veikt maksājumus un saņemt maksājumus, pārstāvēt dzīvojamās mājas īpašnieku tiesā;
 8) ar pārvaldīšanas uzdevuma izpildi saistīto pārvaldīšanas izdevumu apmērs, to noteikšanas un maksāšanas kārtība, atsevišķi norādot:
 a) attiecīgu obligāto izdevumu apmēru, to noteikšanas un maksāšanas kārtību,

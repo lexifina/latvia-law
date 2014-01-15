@@ -9,4 +9,4 @@
 1) pats dzīvojamās mājas īpašnieks;
 2) dzīvojamās mājas īpašnieks, kuru pilnvarojuši veikt pārvaldīšanas darbības citi dzīvojamās mājas īpašnieki uz Civillikumā noteiktajā kārtībā savstarpēji noslēgta līguma pamata;
 3) dzīvojamās mājas īpašnieku veidota dzīvojamās mājas pārvaldīšanas sabiedrība vai biedrība.
-(5) Personai, kura nav ieguvusi šajā pantā norādīto dzīvojamo māju pārvaldīšanai nepieciešamo profesionālo izglītību, bet kurai ir praktiskā darba pieredze dzīvojamo māju pārvaldīšanā, ir tiesības prasīt, lai likumā noteiktajā kārtībā tiek atzīta tās profesionālā kompetence dzīvojamo māju pārvaldīšanas jomā par atbilstošu noteiktam pārvaldnieka profesionālās kvalifikācijas līmenim, saņemot attiecīgu pārvaldnieka profesionālo kompetenci apliecinošu dokumentu.
+(5) Persona, kura līdz šā likuma spēkā stāšanās dienai uzkrājusi praktiskā darba pieredzi dzīvojamo māju pārvaldīšanā, ir tiesīga veikt pārvaldīšanas uzdevumu daudzdzīvokļu mājā, ja šajā likumā noteiktajā termiņā ir atzīta tās profesionālā kompetence dzīvojamo māju pārvaldīšanas jomā un tā ir saņēmusi trešā līmeņa profesionālo kvalifikāciju apliecinošu dokumentu.

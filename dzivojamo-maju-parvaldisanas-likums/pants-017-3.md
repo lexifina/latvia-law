@@ -1,0 +1,3 @@
+17.³ pants. Maksājumi par dzīvojamās mājas uzturēšanai nepieciešamajiem pakalpojumiem
+(1) Par dzīvojamās mājas uzturēšanai nepieciešamajiem pakalpojumiem dzīvojamās mājas īpašnieks patstāvīgi norēķinās ar attiecīgā pakalpojuma sniedzēju, veicot tiešus maksājumus pakalpojuma sniedzējam, izņemot šā panta otrajā daļā minēto gadījumu.
+(2) Dzīvojamās mājas īpašnieks ir tiesīgs likumā noteiktajā kārtībā pieņemt lēmumu par uzdevuma došanu pilnvarotai personai, kas var būt arī pārvaldnieks, organizēt maksājumu iekasēšanu no dzīvojamās mājas īpašnieka par attiecīgu dzīvojamās mājas uzturēšanai nepieciešamo pakalpojumu un saņemto maksājumu pārskaitīšanu dzīvojamās mājas īpašnieka vārdā pakalpojuma sniedzējam [maksājums ar pilnvarotas personas (pārvaldnieka) starpniecību].

@@ -5,10 +5,11 @@
 (2) Obligāti veicamās pārvaldīšanas darbības ir šādas:
 1) dzīvojamās mājas uzturēšana (fiziska saglabāšana) (turpmāk - uzturēšana) atbilstoši normatīvo aktu prasībām:
 a) dzīvojamās mājas sanitārā apkope,
-b) apkures, aukstā ūdens un kanalizācijas nodrošināšana, kā arī sadzīves atkritumu izvešana,
-c) dzīvojamās mājas, tajā esošo iekārtu un komunikāciju apsekošana, tehniskā apkope un kārtējais remonts,
-d) dzīvojamai mājai kā vides objektam izvirzīto prasību izpildes nodrošināšana,
-e) dzīvojamās mājas energoefektivitātei izvirzīto minimālo prasību izpildes nodrošināšana;
+b) siltumenerģijas, arī dabasgāzes, piegāde, ūdensapgādes un kanalizācijas pakalpojumu nodrošināšana, sadzīves atkritumu izvešana, slēdzot attiecīgu līgumu ar pakalpojuma sniedzēju (turpmāk - dzīvojamās mājas uzturēšanai nepieciešamais pakalpojums),
+c) elektroenerģijas nodrošināšana dzīvojamās mājas kopīpašumā esošajai daļai (arī kopīpašumā esošo iekārtu darbības nodrošināšanai),
+d) dzīvojamās mājas, tajā esošo iekārtu un komunikāciju apsekošana, tehniskā apkope un kārtējais remonts,
+e) dzīvojamai mājai kā vides objektam izvirzīto prasību izpildes nodrošināšana,
+f) dzīvojamās mājas energoefektivitātei izvirzīto minimālo prasību izpildes nodrošināšana;
 2) pārvaldīšanas darba plānošana, organizēšana un pārraudzība, tajā skaitā:
 a) pārvaldīšanas darba plāna, tajā skaitā uzturēšanai nepieciešamo pasākumu plāna, sagatavošana,
 b) attiecīgā gada budžeta projekta sagatavošana,

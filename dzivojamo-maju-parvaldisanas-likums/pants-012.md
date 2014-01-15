@@ -4,10 +4,12 @@
 1) mājas lietu vai atsevišķus tās dokumentus;
 2) dzīvojamās mājas īpašnieka lēmumus jautājumos, kas attiecas uz pārvaldīšanas uzdevumu;
 3) citas lietas saskaņā ar pārvaldīšanas līguma noteikumiem.
-(3) Izbeidzoties pārvaldīšanas tiesiskajām attiecībām, pārvaldniekam ir pienākums mēneša laikā, ja pārvaldīšanas līgumā nav noteikts citādi, ar nodošanas-pieņemšanas aktu nodot dzīvojamās mājas īpašniekam:
+(3) Izbeidzoties pārvaldīšanas tiesiskajām attiecībām, tajā skaitā šā likuma 17.¹ panta pirmajā daļā minētajā gadījumā, pārvaldniekam ir pienākums mēneša laikā, ja pārvaldīšanas līgumā nav noteikts citādi, ar nodošanas-pieņemšanas aktu nodot dzīvojamās mājas īpašniekam:
 1) saskaņā ar šā panta otro daļu viņam nodoto lietvedību;
 2) ieņēmumu un izdevumu pārskatu uz nodošanas-pieņemšanas aktā norādīto dienu;
 3) neizlietotos uzkrājumus (mantu, finanšu līdzekļus, tajā skaitā naudu, u.c.) uz nodošanas-pieņemšanas akta parakstīšanas dienu;
 4) pārvaldīšanas laikā par dzīvojamās mājas īpašnieka līdzekļiem iegūto mantu un pārvaldniekam valdījumā vai lietošanā nodoto mantu;
 5) uz pārvaldīšanas uzdevuma pamata iegūtās dzīvojamās mājas īpašnieka saistības;
 6) citas saistības un lietas saskaņā ar pārvaldīšanas līguma noteikumiem.
+(4) Ja, izbeidzoties pārvaldīšanas tiesiskajām attiecībām, ir strīds starp dzīvojamās mājas īpašnieku un pārvaldnieku par saistību un lietu pārņemšanu, līdzēju pienākums ir sastādīt domstarpību protokolu, norādot tajā savus viedokļus un to pamatojumu. Šādā gadījumā nodošanas-pieņemšanas aktu sastāda par lietām un saistībām, par kurām nav strīda.
+(5) Izbeidzoties pārvaldīšanas tiesiskajām attiecībām, dzīvojamās mājas īpašniekam ir pienākums atlīdzināt pārvaldniekam dzīvojamās mājas uzturēšanai nepieciešamos izdevumus un izdevumus, kuri taisīti saskaņā ar likumā noteiktajā kārtībā pieņemtu dzīvojamās mājas īpašnieka lēmumu, veicot dzīvojamās mājas pārvaldīšanas uzdevumu.
