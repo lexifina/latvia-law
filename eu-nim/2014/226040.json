@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2014.gada 7.janvāra noteikumi Nr.15 „Pārrobežu informācijas apmaiņas kārtība par ceļu satiksmes noteikumu pārkāpumiem”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "10 (5069)",
+  "official_journal_page": null,
+  "official_journal_date": "2014-01-15",
+  "entry_into_force": "2014-01-16",
+  "notification_date": "2015-05-06",
+  "commission_reference": "MNE(2015)53043",
+  "nim_celex": "72015L0413LVA_226040",
+  "nim_id": "226040",
+  "transposes_celex": [
+    "32015L0413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/723507ab-6358-48dd-91c3-47437658cc89",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
