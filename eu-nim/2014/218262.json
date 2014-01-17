@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2014.gada 14.janvāra noteikumi Nr.18 \"Noteikumi par 2006.gada Konvencijas par darbu jūrniecībā (MLC konvencija) piemērojamām prasībām attiecībā uz dzīvojamām telpām un atpūtai paredzēto aprīkojumu uz kuģa un šo prasību ievērošanas nosacījumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "11 (5070)",
+  "official_journal_page": null,
+  "official_journal_date": "2014-01-16",
+  "entry_into_force": "2014-01-17",
+  "notification_date": "2014-07-10",
+  "commission_reference": "MNE(2014)54222",
+  "nim_celex": "72009L0013LVA_218262",
+  "nim_id": "218262",
+  "transposes_celex": [
+    "32009L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/aa1141b5-4419-4ee3-a758-734545e7352a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
