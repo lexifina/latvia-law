@@ -5,7 +5,7 @@
 3) par zemes iekļaušanu Lauku zemes izpirkšanas reģistrā vai Pilsētas zemes izpirkšanas reģistrā;
 4) par lēmumu saistībā ar priekšapmaksas izziņas izdošanu;
 5) par lēmumu par zemes piešķiršanu īpašumā par samaksu;
-6) par valsts akciju sabiedrības "Latvijas Hipotēku un zemes banka" lēmumu;
+6) par lēmumu, ko pieņēmusi valsts akciju sabiedrība "Latvijas Hipotēku un zemes banka" vai tā Ministru kabineta noteiktā institūcija, kura nodrošina zemes izpirkšanas (pirkšanas) procesu;
 7) par zemes izpirkuma (pirkuma) līguma noslēgšanu;
 8) par zemes robežu strīdu.
 (2) Ja likumīgā spēkā ir stājies tiesas nolēmums, ar kuru šā panta pirmās daļas 1., 2. un 3.punktā minētais lēmums atzīts par prettiesisku, zemi izpērk (pērk) par tādu zemesgabala kadastrālo vērtību, kāda tā bija dienā, kad tika pieņemts par prettiesisku atzītais lēmums.

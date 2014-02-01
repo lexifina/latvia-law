@@ -24,6 +24,7 @@
 2) lietošanā piešķirtās pilsētu zemes un lauku apvidus zemes izpirkšanas reģistra veidošanas kārtību;
 3) turpmāko rīcību ar attiecīgajā reģistrā neiekļauto vai reģistrā iekļauto, bet neizpirkto pilsētas un lauku apvidus zemi;
 4) termiņu, kad saskaņā ar likumu izbeidzas pastāvīgā lietošanā piešķirtās zemes lietošanas tiesības lauku apvidos un zemes lietošanas tiesības pilsētās;
+4¹) Ministru kabineta tiesības noteikt personu, tai skaitā privātpersonu (turpmāk - Ministru kabineta noteikta institūcija), kura, sākot ar 2014.gada 1.martu, īsteno deleģēto valsts pārvaldes uzdevumu - zemes izpirkuma (pirkuma) līgumu slēgšanu, šo līgumu izpildes kontroli un neizpirktās zemes nodošanu pašvaldības īpašumā;
 5) rīcību, ja rodas strīdi zemes reformas jautājumos.
 (4) Privatizācijas sertifikātu piešķiršanas un izmantošanas jomā likums nosaka:
 1) kārtību, kādā izbeidzama privatizācijas sertifikātu piešķiršana un dzēšana;

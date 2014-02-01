@@ -1,0 +1,1 @@
+51. Līdz brīdim, kad Ministru kabinets nosaka institūciju, kura pildīs šajā likumā noteikto valsts pārvaldes uzdevumu - nodrošināt zemes izpirkšanas (pirkšanas) procesu -, šajā likumā noteiktos uzdevumus veic valsts akciju sabiedrība "Latvijas Attīstības finanšu institūcija Altum".
