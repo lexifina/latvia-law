@@ -6,7 +6,7 @@
 4) adresi un tālruņa numuru.
 (2) Zemes īpašnieks pievieno iesniegumam dokumentus, kas apliecina viņa tiesības prasīt zemes atpirkšanu saskaņā ar šā likuma 6.panta pirmo daļu:
 1) lēmumu par zemes īpašuma tiesību atjaunošanu;
-2) līgumu ar valsts akciju sabiedrību "Latvijas Hipotēku un zemes banka" par zemes īpašuma izpirkšanu;
+2) privatizācijas procesus regulējošos normatīvajos aktos noteiktajā kārtībā noslēgtu līgumu par zemes īpašuma izpirkšanu;
 3) tiesas nolēmumu par zemes iegūšanu īpašumā;
 4) zemes pirkuma vai cita tāda atsavināšanas darījuma atvasinājumu, kurš taisīts kā notariālais akts vai apliecināts notariālā kārtībā.
 (3) Zemes mantinieks pievieno iesniegumam dokumentus, kas apliecina viņa tiesības prasīt zemes atpirkšanu saskaņā ar šā likuma 6.panta otro daļu, - personas miršanas apliecību vai mantojuma apliecību.
