@@ -1,7 +1,7 @@
 45.pants. Maksājumu termiņi
 (1) Privatizācijas objekts izpērkams, maksājot īpašuma kompensācijas vai cita veida privatizācijas sertifikātos un ievērojot šā likuma noteikumus. Pircējam ir tiesības izpirkt privatizācijas objektu, maksājot arī euro.
 (2) Maksājumu kārtību nosaka Ministru kabinets.
-(3) Maksājumus par privatizēto objektu neatkarīgi no maksāšanas līdzekļa pircējs izdara Latvijas Hipotēku un zemes bankā, pamatojoties uz privatizācijas komisijas pieņemto lēmumu.
+(3) Maksājumus par privatizēto objektu ieskaita Ministru kabineta noteiktas institūcijas kontā, pamatojoties uz privatizācijas komisijas pieņemto lēmumu.
 (4) Samaksu par privatizēto objektu pircējs nokārto mēneša laikā no dienas, kad privatizācijas komisija pieņēmusi lēmumu par pirkuma līguma slēgšanu, izņemot šā panta piektajā daļā noteikto.
 (5) Fiziskā persona, privatizējot dzīvokli, viendzīvokļa māju vai tās domājamo daļu vai daudzdzīvokļu māju vai mākslinieka darbnīcu, kā arī fiziskā vai juridiskā persona, privatizējot neapdzīvojamo telpu, par kuras lietošanu tā ir noslēgusi nomas līgumu, pirkuma maksu var samaksāt pa daļām, ievērojot šā likuma 46. panta noteikumus.
 (6) Samaksu par privatizācijas objektu, kas piedāvāts privatizācijai atklātā izsolē personām, kurām ir īpašuma kompensācijas sertifikāti, pircējs nokārto, maksājot tikai īpašuma kompensācijas sertifikātos, izņemot šā panta septītajā daļā minēto gadījumu.

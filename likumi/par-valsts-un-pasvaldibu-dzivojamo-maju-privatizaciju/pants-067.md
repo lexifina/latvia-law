@@ -8,3 +8,4 @@
 2) dzīvojamo māju uzturēšanai to privatizācijas procesa laikā;
 3) privatizēto dzīvojamo māju uzturēšanas un apsaimniekošanas organizēšanai;
 4) šā likuma 59.pantā noteikto funkciju veikšanai.
+(6) Izdevumi, kas Ministru kabineta noteiktai institūcijai radušies saistībā ar šā likuma 45.panta trešajā daļā, 73.³ panta devītajā daļā un 73.⁴ panta sestajā daļā noteikto uzdevumu izpildi, tiek segti Ministru kabineta noteiktajā kārtībā no rezerves fonda līdzekļiem, kurš izveidots, pamatojoties uz likumu "Par valsts un pašvaldību īpašuma objektu privatizāciju".

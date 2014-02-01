@@ -1,0 +1,1 @@
+47. Līdz brīdim, kad Ministru kabineta noteikta institūcija uzsāk šā likuma 45.panta trešajā daļā, 73.³ panta devītajā daļā un 73.⁴ panta sestajā daļā minēto maksājumu pieņemšanu, šos uzdevumus veic valsts akciju sabiedrība "Latvijas Attīstības finanšu institūcija Altum".
