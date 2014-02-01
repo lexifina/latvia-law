@@ -1,1 +1,0 @@
-2. Zemesgrāmatu nodaļas tiek izveidotas saskaņā ar šā likuma pielikumu nekustamo īpašumu reģistrēšanai, kā arī ar tiem saistīto tiesību nostiprināšanai. Zemesgrāmatu nodaļas ietilpst tiesu sistēmā un pastāv pie apgabaltiesām.

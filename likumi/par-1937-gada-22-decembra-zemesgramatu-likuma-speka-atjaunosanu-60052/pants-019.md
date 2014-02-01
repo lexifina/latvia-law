@@ -1,3 +1,3 @@
 19. Pagasttiesu apliecinātai pilnvarai (Zemesgrāmatu likuma 58.pants) vai citam dokumentam (Zemesgrāmatu likuma 60. un 68.pants) atbilst dokumenti, ko apliecinājušas pagastu un pilsētu valdes, izpildot atbilstoši likumam notariālās darbības.
-Piezīme. Latvijas Hipotēku un zemes bankā ar fiziskajām personām noslēgtie līgumi par zemes izpirkšanu atbilstoši Civillikuma 1473. un 1474. pantam nav obligāti notariāli apliecināmi.
+Piezīme. Privatizācijas procesu regulējošos normatīvajos aktos noteiktajā kārtībā ar fiziskajām personām noslēgtie līgumi par zemes izpirkšanu atbilstoši Civillikuma 1473. un 1474. pantam nav obligāti notariāli apliecināmi.
 Zemes reformas gaitā ir pieļaujama ar nekustamo īpašumu saistīto dokumentu iesniegšana Zemesgrāmatu nodaļai angļu, krievu un vācu valodā bez notariāli apliecināta tulkojuma pievienošanas valsts valodā, ja šie dokumenti noformēti līdz 1993.gada 5.aprīlim.
