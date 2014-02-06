@@ -1,0 +1,1 @@
+5. Šā likuma 3.panta 3.¹ daļā noteiktais neattiecas uz Latvijas pilsoni, kuram diplomātiskais rangs piešķirts pirms 2013.gada 1.oktobra un kuram saskaņā ar Pilsonības likumu iegūta citas valsts pilsonība bija jau pirms 2013.gada 1.oktobra.

@@ -1,0 +1,1 @@
+6. Grozījumi šā likuma 14.pantā pēc to spēkā stāšanās piemērojami arī diplomātiem, kuri nosūtīti pildīt diplomātisko un konsulāro dienestu ārvalstīs vai iecelti Ārlietu ministrijas valsts sekretāra amatā pirms šo grozījumu spēkā stāšanās.

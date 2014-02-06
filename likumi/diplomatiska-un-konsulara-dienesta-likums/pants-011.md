@@ -4,16 +4,16 @@
 (3) Aizsardzības atašeju amatiem atbilstīgie rangi, kuri iedalāmi pakāpēs saskaņā ar šā likuma 9.pantu, ir šādi:
 Amats
 Rangs
-III pakāpe
+IV pakāpe
 1.ranga aizsardzības atašejs
 Padomnieks
-IV pakāpe
+V pakāpe
 2.ranga aizsardzības atašejs
 Pirmais sekretārs
-V pakāpe
+VI pakāpe
 3.ranga aizsardzības atašejs
 Otrais sekretārs
-VI pakāpe
+VII pakāpe
 Aizsardzības atašeja palīgs
 Trešais sekretārs
 (4) Saeimas, attiecīgās nozares ministrijas vai Latvijas Bankas specializētajiem atašejiem ir šādi amati: nozares padomnieks, nozares atašejs vai nozares atašeja palīgs. Uz diplomātiskā un konsulārā dienesta laiku Saeimas, attiecīgās nozares ministrijas vai Latvijas Bankas specializētajam atašejam ārlietu ministrs piešķir atašeja diplomātisko rangu.

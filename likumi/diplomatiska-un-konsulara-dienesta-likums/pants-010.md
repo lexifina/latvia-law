@@ -1,3 +1,3 @@
 10.pants. Kārtība, kādā notiek iecelšana ārkārtējā un pilnvarotā vēstnieka un pastāvīgā pārstāvja amatā un atlaišana no tā, kā arī tam atbilstīgā diplomātiskā ranga piešķiršana
-(1) Ārkārtējos un pilnvarotos vēstniekus un pastāvīgos pārstāvjus pēc ārlietu ministra un Saeimas Ārlietu komisijas kopēja saskaņota priekšlikuma amatā ieceļ un no amata atlaiž Valsts prezidents, bet ārkārtējā un pilnvarotā vēstnieka diplomātisko rangu viņiem piešķir ārlietu ministrs.
+(1) Ārkārtējos un pilnvarotos vēstniekus un pastāvīgos pārstāvjus, kas ir pastāvīgo pārstāvniecību starptautiskajās organizācijās vadītāji, pēc ārlietu ministra un Saeimas Ārlietu komisijas kopēja saskaņota priekšlikuma amatā ieceļ un no amata atlaiž Valsts prezidents, bet ārkārtējā un pilnvarotā vēstnieka diplomātisko rangu viņiem piešķir ārlietu ministrs.
 (2) Šā panta pirmajā daļā minētās Valsts prezidenta tiesības neierobežo Valsts civildienesta likums.
