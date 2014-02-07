@@ -1,0 +1,1 @@
+6.pants. Likums stājas spēkā vienlaikus ar likumu " Par Latvijas pārstāvību Eiropas Stabilitātes mehānisma Valdē un Direktoru padomē ". Līdz ar likumu izsludināms Līgums, Rezolūcija Nr.11, Līguma pielāgojumi, Deklarācija, kā arī Tehniskie noteikumi latviešu valodā.
