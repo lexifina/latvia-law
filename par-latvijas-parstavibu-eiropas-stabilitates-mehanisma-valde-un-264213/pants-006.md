@@ -1,0 +1,2 @@
+6.pants. Lēmums par apmaksātā kapitāla daļas paātrinātu apmaksāšanu
+Ministru kabinets ir tiesīgs pieņemt lēmumu par apmaksātā kapitāla daļas paātrinātu apmaksāšanu saskaņā ar Līguma 41.panta 3.punktu, ja Saeimas Budžeta un finanšu (nodokļu) komisija piecu darbdienu laikā no Ministru kabineta motivēta lūguma par apmaksātā kapitāla daļas paātrinātu apmaksāšanu saņemšanas ir izskatījusi to un nav iebildusi.
