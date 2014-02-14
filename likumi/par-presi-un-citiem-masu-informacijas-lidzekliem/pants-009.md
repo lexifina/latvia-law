@@ -12,6 +12,6 @@ Pieteikumā norādāmas šādas reģistrā ierakstāmās ziņas:
 9) masu informācijas līdzekļa darbības termiņš, ja tas tiek dibināts uz noteiktu laiku vai noteikta mērķa sasniegšanai;
 10) citas ziņas, ja to paredz ārējie normatīvie akti;
 11) ieraksta izdarīšanas datums.
-Kopā ar reģistrācijas pieteikumu iesniedzams dokuments par reģistrācijas nodevas samaksu un lēmums par attiecīgā masu informācijas līdzekļa dibināšanu un izdošanu. Ja dibinātājs, izdevējs vai redakcija ir dažādas personas, iesniedzams līgums, kas regulē attiecības starp šīm personām. Par masu informācijas līdzekļa reģistrēšanu un iesniedzamo dokumentu reģistrāciju maksājama valsts nodeva, kuras apmēru, samaksas kārtību un atvieglojumus nosaka Ministru kabinets.
-Pēc masu informācijas līdzekļa reģistrēšanas izsniedz reģistrācijas apliecību. Ierakstot reģistrā masu informācijas līdzekli, tam piešķir individuālu reģistrācijas numuru.
-Masu informācijas līdzekļa dibinātāja (izdevēja) tiesības uzsākt darbību saglabājas vienu gadu no reģistrācijas apliecības saņemšanas dienas.
+Kopā ar reģistrācijas pieteikumu iesniedzams lēmums par attiecīgā masu informācijas līdzekļa dibināšanu un izdošanu. Ja dibinātājs, izdevējs vai redakcija ir dažādas personas, iesniedzams līgums, kas regulē attiecības starp šīm personām. Par masu informācijas līdzekļa reģistrēšanu un iesniedzamo dokumentu reģistrāciju maksājama valsts nodeva, kuras apmēru, samaksas kārtību un atvieglojumus nosaka Ministru kabinets.
+Pēc masu informācijas līdzekļa reģistrēšanas un masu informācijas līdzekļa rakstveida pieprasījuma saņemšanas Uzņēmumu reģistrs tam par maksu izsniedz reģistrācijas apliecību. Ierakstot reģistrā masu informācijas līdzekli, tam piešķir individuālu reģistrācijas numuru.
+Masu informācijas līdzekļa dibinātāja (izdevēja) tiesības uzsākt darbību saglabājas vienu gadu no reģistrācijas lēmuma spēkā stāšanās dienas.

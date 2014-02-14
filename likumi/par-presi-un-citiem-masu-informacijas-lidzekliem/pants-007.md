@@ -7,7 +7,7 @@ Aizliegts publicēt informāciju, kura aizskar fizisko un juridisko personu godu
 Aizliegts publicēt ziņas par personu veselības stāvokli bez viņu piekrišanas.
 Aizliegts publicēt komercnoslēpumus un patentu noslēpumus bez to īpašnieka piekrišanas.
 Aizliegts bez Bērnu tiesību aizsardzības likumā minēto personu un iestāžu piekrišanas publicēt:
-1) tādu informāciju, kas var būt par pamatu prettiesiskas darbības rezultātā cietuša bērna interešu (privātums, identitāte) apdraudējumam;
+1) tādu informāciju, kas var būt par pamatu prettiesiskas darbības rezultātā cietuša bērna interešu (privātums, identitāte un reputācija) apdraudējumam;
 2) prettiesiskas darbības rezultātā cietuša bērna attēlu;
 3) tādu informāciju, kas ļauj identificēt nepilngadīgu likumpārkāpēju vai nepilngadīgu liecinieku.
 Aizliegts publicēt bērnu pornogrāfiju un materiālus, kuri demonstrē pret bērnu vērstu vardarbību.
