@@ -11,4 +11,4 @@
 1) likvidācijas procesa nepieciešamību un likvidatora iecelšanu;
 2) partijas īpašuma atsavināšanu par labu valstij, ja likums nenosaka citādi;
 3) par kādiem līdzekļiem un kādā kārtībā tiek sakārtoti un nodoti glabāšanai valsts arhīvā partijas dokumenti.
-(6) Pēc nolēmuma stāšanās likumīgā spēkā tiesa to nosūta partiju reģistra iestādei. Partiju reģistra iestāde publicē informāciju laikrakstā "Latvijas Vēstnesis".
+(6) Pēc nolēmuma stāšanās likumīgā spēkā tiesa to nosūta partiju reģistra iestādei. Partiju reģistra iestāde publicē informāciju oficiālajā izdevumā "Latvijas Vēstnesis".

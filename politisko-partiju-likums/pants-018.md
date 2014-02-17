@@ -12,4 +12,4 @@
 10) ziņas par administratora iecelšanu maksātnespējas lietā, norādot administratora vārdu, uzvārdu un personas kodu;
 11) ieraksta izdarīšanas datumu;
 12) citas ziņas, ja to paredz likums.
-(2) Šā panta pirmās daļas 1., 3., 5., 6., 7., 9. un 10.punktā norādītās ziņas, izņemot personas kodu, un izmaiņas tajās par partijas līdzekļiem ir publicējamas laikrakstā "Latvijas Vēstnesis". Publicēšanas kārtību, izmaksu apmēru un iekasēšanas kārtību nosaka Ministru kabinets.
+(2) Šā panta pirmās daļas 1., 3., 5., 6., 7., 9. un 10.punktā norādītās ziņas, izņemot personas kodu, un izmaiņas tajās par partijas līdzekļiem ir publicējamas oficiālajā izdevumā "Latvijas Vēstnesis". Publicēšanas kārtību, izmaksu apmēru un iekasēšanas kārtību nosaka Ministru kabinets.
