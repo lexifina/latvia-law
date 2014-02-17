@@ -1,0 +1,1 @@
+22. Grozījumi attiecībā uz 2.⁹ panta izslēgšanu, kā arī grozījumi šā likuma 4.panta 5.³ punktā attiecībā uz tiesību subjekta nosaukuma (firmas) un no arodbiedrību reģistrā ierakstīto vai ierakstīšanai pieteikto nosaukumu atšķiramības pārbaudes izslēgšanu stājas spēkā vienlaikus ar Arodbiedrību likuma spēkā stāšanos.

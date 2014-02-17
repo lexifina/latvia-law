@@ -26,7 +26,7 @@ Par kooperatīvajām sabiedrībām papildus šā panta pirmās daļas 1.-8.punkt
 1) valdes locekļu tiesības pārstāvēt kooperatīvo sabiedrību atsevišķi, kopīgi vai kopīgi ar prokūristu;
 2) prokūrista vārds, uzvārds un personas kods, kā arī norāde uz kopprokūru vai filiāles prokūru, ja tāda izdota, un norāde uz Komerclikuma 34.panta otrajā daļā minēto tiesību piešķiršanu, ja tādas piešķirtas.
 Par uzņēmuma (uzņēmējsabiedrības) darbības apturēšanu, atjaunošanu vai izbeigšanu Uzņēmumu reģistra žurnālā ierakstāms:
-1) tiesas lēmums par maksātnespējas procesa administratora iecelšanu, norādot viņa vārdu, uzvārdu, personas kodu, prakses vietu;
+1) tiesas lēmums par maksātnespējas procesa administratora iecelšanu, norādot viņa vārdu, uzvārdu un personas kodu (ja personai nav personas koda, - dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti un institūciju, kas dokumentu izdevusi);
 2) tiesas spriedums par uzņēmuma (uzņēmējsabiedrības) maksātnespējas procesa pasludināšanu un tiesas lēmums par maksātnespējas procesa izbeigšanu;
 3) lēmums par uzņēmuma (uzņēmējsabiedrības) darbības izbeigšanu un likvidācijas uzsākšanu, kā arī likvidatoru vārds, uzvārds, personas kods, adrese un paraksta tiesības, bet, ja likvidators ir juridiskā persona, - nosaukums, reģistrācijas numurs un juridiskā adrese, kā arī iepriekš minētā informācija par likvidatora pārstāvjiem likvidācijas procesā;
 4) (izslēgts ar 29.11.2012. likumu);

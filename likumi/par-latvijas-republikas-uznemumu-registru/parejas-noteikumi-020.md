@@ -1,0 +1,1 @@
+20. Uzņēmumu reģistrs līdz 2014.gada 1.oktobrim, nepieņemot atsevišķu lēmumu, aktualizē līdz 2014.gada 31.augustam Uzņēmumu reģistra žurnālā ierakstītās ziņas, aizstājot aizgādņa vārdu un uzvārdu ar ziņām par aizgādnības nodibināšanu.

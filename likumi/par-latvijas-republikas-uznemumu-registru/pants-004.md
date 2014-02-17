@@ -2,6 +2,7 @@
 Lai nodrošinātu savu funkciju izpildi, Uzņēmumu reģistrs veic šādus uzdevumus:
 1) pieņem un izskata normatīvajos aktos noteiktos dokumentus Uzņēmumu reģistrā reģistrējamo tiesību subjektu un juridisko faktu reģistrēšanai, dokumentus par izmaiņām attiecīgajos reģistros vai par dibināšanas un darbības dokumentu grozījumiem un glabā normatīvajos aktos noteiktos dokumentus;
 2) pieņem lēmumu par Uzņēmumu reģistrā reģistrējamo tiesību subjektu un juridisko faktu reģistrēšanu, par izmaiņām attiecīgajā reģistrā vai dibināšanas un darbības dokumentu grozījumiem un izdara attiecīgu ierakstu vai normatīvajos aktos noteiktajos gadījumos pieņem lēmumu ar motivētu atteikumu vai par reģistrēšanas atlikšanu, nosakot termiņu trūkumu novēršanai;
+2¹) nodokļu jomu regulējošos normatīvajos aktos noteiktajā kārtībā reģistrējot Uzņēmumu reģistrā reģistrējamos tiesību subjektus kā nodokļu maksātājus, piešķir tiem katram individuālu vienotās euro maksājumu telpas maksājuma saņēmēja identifikatoru;
 3) reģistrē kompetentu iestāžu vai amatpersonu lēmumus un rīkojumus, ar kuriem piemērots nodrošinājuma līdzeklis;
 3¹) nodrošina to, ka tiek izpildīts kriminālprocesā pieņemtais nolēmums, ar kuru personai ir atņemtas tiesības veikt visu veidu komercdarbību, kā arī kriminālprocesā vai administratīvā pārkāpuma procesā pieņemtais nolēmums, ar kuru personai ir atņemtas tiesības ieņemt noteiktus amatus, un nekavējoties ziņo attiecīgajām iestādēm vai amatpersonām, kā arī attiecīgajam komersantam par izpildes nosacījumu pārkāpumiem;
 4) ziņo attiecīgajām iestādēm par iespējamiem normatīvo aktu pārkāpumiem, sastāda administratīvo pārkāpumu protokolus par konstatētajiem normatīvo aktu pārkāpumiem, izskata administratīvo pārkāpumu lietas un uzliek sodus;
@@ -13,4 +14,5 @@ Lai nodrošinātu savu funkciju izpildi, Uzņēmumu reģistrs veic šādus uzdev
 5⁵) normatīvajos aktos noteiktajos gadījumos nodrošina Uzņēmumu reģistra uzturēto datu pieejamību sabiedrībai tiešsaistes datu pārraides režīmā;
 5⁶) nodrošina reģistrācijas lietu pārveidošanu elektroniskā formā glabāšanai elektroniskā vidē saskaņā ar normatīvajiem aktiem par arhīvu pārvaldību;
 5⁷) normatīvajos aktos noteiktajā kārtībā sagatavo un sniedz informāciju no Uzņēmumu reģistra informācijas sistēmas;
+5⁸) izsniedz Uzņēmumu reģistra vestajos reģistros reģistrētajam tiesību subjektam reģistrācijas apliecību, ja tiesību subjekts rakstveidā to pieprasījis, kā arī samaksājis normatīvajos aktos noteikto maksu par Uzņēmumu reģistra sniegtajiem pakalpojumiem;
 6) veic citus normatīvajos aktos noteiktos uzdevumus.

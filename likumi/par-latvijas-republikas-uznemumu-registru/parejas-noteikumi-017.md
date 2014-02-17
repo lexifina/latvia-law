@@ -1,0 +1,1 @@
+17. Grozījumi šā likuma 6.panta pirmās daļas 8. un 9.punktā, otrās daļas 3.punktā, trešās daļas 1.punktā un piektās daļas 3.punktā, kuri noteic, ka informācija par personas dzīvesvietu nav Uzņēmumu reģistra žurnālā ierakstāma ziņa, stājas spēkā 2014.gada 1.aprīlī.
