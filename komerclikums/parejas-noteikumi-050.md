@@ -1,0 +1,1 @@
+50. Šā likuma 161.¹ pants, kā arī grozījumi 161.panta ceturtajā daļā un 182.panta trešajā daļā (par ārkārtas dividenžu noteikšanas, aprēķināšanas un izmaksāšanas kārtību) stājas spēkā 2014.gada 1.jūlijā.

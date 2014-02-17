@@ -1,0 +1,1 @@
+51. Ministru kabinets līdz 2014.gada 1.martam sagatavo un iesniedz Saeimai nodokļus un grāmatvedību reglamentējošos normatīvajos aktos nepieciešamos grozījumus saistībā ar ārkārtas dividenžu noteikšanas, aprēķināšanas un izmaksāšanas kārtību.

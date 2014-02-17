@@ -1,0 +1,1 @@
+49. Komercreģistra iestāde līdz 2014.gada 1.oktobrim, nepieņemot atsevišķu lēmumu, aktualizē līdz 2014.gada 31.augustam komercreģistrā ierakstītās ziņas par individuālā komersanta aizgādni, aizstājot aizgādņa vārdu un uzvārdu ar ziņām par aizgādnības nodibināšanu.

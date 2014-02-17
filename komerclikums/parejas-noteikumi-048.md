@@ -1,0 +1,1 @@
+48. Šā likuma 8.panta piektās daļas 7.punkta jaunā redakcija (par to, kādas ziņas ierakstāmas komercreģistrā par individuālā komersanta vai personālsabiedrību pārstāvēttiesīgā biedra aizbildni) un 7.¹ punkts stājas spēkā 2014.gada 1.septembrī.
