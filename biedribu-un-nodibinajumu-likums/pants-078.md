@@ -1,6 +1,6 @@
 78.pants. Kreditoru interešu aizsardzība
 (1) Piecpadsmit dienu laikā no dienas, kad pieņemts lēmums par reorganizāciju, katra reorganizācijas procesā iesaistītā biedrība par reorganizāciju rakstveidā informē visus zināmos kreditorus, kuriem līdz lēmuma par reorganizāciju pieņemšanai bija prasījuma tiesības pret biedrību.
-(2) Katrai reorganizācijas procesā iesaistītajai biedrībai ir pienākums publicēt laikrakstā "Latvijas Vēstnesis" paziņojumu, ka pieņemts lēmums par reorganizāciju. Paziņojumā norāda:
+(2) Katrai reorganizācijas procesā iesaistītajai biedrībai ir pienākums publicēt oficiālajā izdevumā "Latvijas Vēstnesis" paziņojumu, ka pieņemts lēmums par reorganizāciju. Paziņojumā norāda:
 1) biedrības nosaukumu, reģistrācijas numuru un juridisko adresi;
 2) pārējo reorganizācijā iesaistīto biedrību nosaukumu, reģistrācijas numuru un juridisko adresi;
 3) faktu, ka pieņemts lēmums par reorganizāciju, norādot tās veidu;
