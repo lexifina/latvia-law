@@ -8,4 +8,5 @@ e) Finanšu un kapitāla tirgus komisijai un Latvijas Bankai papildu iespējas s
 2) sniegt ieguldījumu atbildīgas patērētāja kreditēšanas, kā arī atbildīgas un godprātīgas aizņemšanās veicināšanā, nodrošinot:
 a) patērētāja kreditoram papildu iespējas novērtēt patērētāja kredītspēju,
 b) reģistra dalībniekam papildu iespējas novērtēt to, vai attiecīgā reģistra dalībnieka klients un iespējamais klients ir patērētājs Patērētāju tiesību aizsardzības likuma izpratnē;
-3) sniegt ieguldījumu valsts pārvaldes uzdevumu izpildes veicināšanā, nodrošinot valsts institūcijām papildu iespējas saņemt ziņas, kas nepieciešamas, lai veiktu analīzi normatīvajos aktos noteikto uzdevumu ietvaros, kā arī sniegt papildu iespējas finansiālās grūtībās nonākuša klienta un klienta galvinieka saistību izpildes veicināšanai.
+3) sniegt ieguldījumu valsts pārvaldes uzdevumu izpildes veicināšanā, nodrošinot valsts institūcijām papildu iespējas saņemt ziņas, kas nepieciešamas, lai veiktu analīzi normatīvajos aktos noteikto uzdevumu ietvaros, kā arī sniegt papildu iespējas finansiālās grūtībās nonākuša klienta un klienta galvinieka saistību izpildes veicināšanai;
+4) sniegt ieguldījumu Eiropas Centrālo banku sistēmas uzdevumu izpildes veicināšanā.

@@ -6,6 +6,7 @@ b) Latvijā reģistrēta komercsabiedrība, kurai Kredītiestāžu likuma izprat
 c) citā valstī reģistrēts šā panta 2.punkta "b" apakšpunktā minētajai komercsabiedrībai līdzvērtīgs komersants, kurš Latvijā atvēris filiāli,
 d) Latvijā reģistrēta krājaizdevu sabiedrība,
 e) Latvijā reģistrēts komersants, kuram ir tiesības veikt apdrošināšanu, un tam līdzvērtīgs citā valstī reģistrēts komersants, kurš Latvijā atvēris filiāli;
+f) Latvijā reģistrēta valsts kapitālsabiedrība, kas dibināta un darbojas kā akciju sabiedrība un pilda īpašu uzdevumu - ievieš valsts attīstības un atbalsta programmas (turpmāk - Attīstības finanšu institūcija);
 3) reģistra dalībnieks ar ierobežotu statusu (turpmāk - ierobežots reģistra dalībnieks) - komersants, kas zaudējis reģistra dalībnieka statusu un līdz reģistra dalībnieka statusa zaudēšanas dienai iekļāvis Kredītu reģistrā (turpmāk - reģistrs) ziņas par klienta vai klienta galvinieka saistībām, ja tās nav izbeigušās vai ja no klienta līguma vai klienta galvinieka līguma izrietošās tiesības un saistības vai prasījuma tiesības nav nodotas citai personai;
 4) bijušais reģistra dalībnieks - komersants, kas:
 a) zaudējis reģistra dalībnieka statusu, ja reģistra dalībnieka statusa zaudēšanas dienā visas klienta vai klienta galvinieka saistības, par kurām attiecīgais reģistra dalībnieks iekļāvis reģistrā ziņas, ir izbeigušās vai ja no klienta līguma vai klienta galvinieka līguma izrietošās tiesības un saistības vai prasījuma tiesības nodotas citai personai,
