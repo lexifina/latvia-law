@@ -8,5 +8,11 @@
 (6) Pēc emisijas kvotu īpašnieka pieprasījuma valsts sabiedrība ar ierobežotu atbildību "Latvijas Vides, ģeoloģijas un meteoroloģijas centrs" emisijas reģistrā atceļ attiecīgo emisijas kvotu daudzumu.
 (7) Šā panta pirmās daļas nosacījumu izpildei Latvijā ir derīgas arī emisijas kvotas, kuras izdevusi Eiropas Savienības dalībvalsts kompetentā institūcija vai citas valsts kompetentā institūcija, ja attiecīgās valsts izsniegtās emisijas kvotas ir atzinusi Eiropas Komisija.
 (8) Persona nodrošina tai piešķirto emisijas kvotu, kā arī ar emisijas kvotām veikto darbību uzskaiti atbilstoši grāmatvedību reglamentējošiem normatīvajiem aktiem.
-(9) Ministru kabinets nosaka kārtību, kādā emisijas kvotas tiek piešķirtas, uzkrātas, pārskaitītas, nodotas, aizstātas un atceltas.
+(9) Ministru kabinets:
+1) nosaka kārtību, kādā:
+a) veic darbības emisijas reģistrā, tai skaitā darbības ar kontiem, darbības ar emisijas kvotām un Kioto vienībām, kā arī nosaka konta turētāju, konta pilnvaroto pārstāvi vai papildu pilnvaroto pārstāvi,
+b) uzrauga un kontrolē darbības emisijas reģistrā un piekļuvi emisijas reģistram, kā arī sadarbojas ar citām iestādēm uzraudzības un kontroles nodrošināšanai,
+c) sniedz informāciju citām iestādēm un sabiedrībai par darbībām emisijas reģistrā, tai skaitā par veiktajiem pārskaitījumiem,
+d) aprēķina un saskaņo valsts administratora pakalpojuma maksu par emisijas reģistrā esošo kontu administrēšanu;
+2) apstiprina valsts administratora maksas pakalpojumu cenrādi.
 (10) Ministru kabinets lemj par darbībām ar emisijas kvotu atlikumu (starpība starp sadales plānā paredzētajām emisijas kvotām šā likuma 32.¹ panta trešās daļas 7.punktā minētajām iekārtām un šīm iekārtām piešķirtajām emisijas kvotām) un par darbībām ar emisijas kvotām, kuras nepiešķir saskaņā ar šā likuma 32.¹ panta trešās daļas 4.punktā minēto potenciālu siltumnīcefekta gāzu emisiju samazināšanā.
