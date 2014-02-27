@@ -1,0 +1,1 @@
+1.pants. 2010.gada 15.jūlijā parakstītais Sadarbības līgums starp Eiropas Savienību un iesaistītajām Eiropas Savienības dalībvalstīm un British-American Tobacco (Holdings) Limited (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
