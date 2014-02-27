@@ -1,3 +1,4 @@
 3.pants. Likuma darbības joma
 (1) Likums nosaka Eiropas Savienības fondu vadībā iesaistīto institūciju un Eiropas Savienības fonda finansējuma saņēmēja tiesības un pienākumus, kā arī Eiropas Savienības fondu vadībā iesaistīto institūciju lēmumu pieņemšanas, apstrīdēšanas un pārsūdzēšanas kārtību.
-(2) Likums attiecas uz Eiropas Savienības fondu vadību 2007. - 2013.gada plānošanas periodā.
+(2) Likums attiecas uz Eiropas Savienības fondu vadību 2007.-2013.gada plānošanas periodā. Likumu piemēro 2014.-2020.gada plānošanas periodā, ciktāl tas nepieciešams, lai Ministru kabineta noteiktajā laikposmā ieviestu specifisko atbalsta mērķi, tas ir, mērķi, kas atbilst šā likuma 1.panta 3.punktā noteiktajam Eiropas Savienības fondu aktivitātes līmenim.
+(3) Ministru kabinets nosaka kārtību, kādā nodrošina šā panta otrajā daļā minētā specifiskā atbalsta mērķa ieviešanu, tai skaitā projektu iesniegumu vērtēšanas kritērijus, prasības projekta iesniedzējam, atbildīgo iestādi un sadarbības iestādi, kompetences sadalījumu starp šīm iestādēm un sadarbības kārtību, kā arī atbildīgās iestādes un sadarbības iestādes funkcionālās padotības formu.
