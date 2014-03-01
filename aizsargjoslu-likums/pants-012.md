@@ -9,7 +9,7 @@
 6) aizsargjoslas ap meliorācijas būvēm un ierīcēm;
 7) aizsargjoslas gar ūdensvadu un kanalizācijas tīkliem;
 8) aizsargjoslas ap ģeodēziskā tīkla punktiem;
-9) aizsargjoslas ap navigācijas tehniskajiem līdzekļiem;
+9) aizsargjoslas ap navigācijas tehniskajiem līdzekļiem un militārajiem jūras novērošanas tehniskajiem līdzekļiem;
 10) aizsargjoslas ap gāzesvadiem, gāzapgādes iekārtām un būvēm, gāzes noliktavām un krātuvēm;
 11) (izslēgts ar 21.02.2002. likumu);
 12) aizsargjoslas ap pazemes ūdeņu valsts nozīmes monitoringa posteņiem un dziļurbumiem;
