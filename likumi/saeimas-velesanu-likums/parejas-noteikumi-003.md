@@ -1,0 +1,1 @@
+3. Līdz dienai, kad stāsies spēkā attiecīgie grozījumi likumā "Par valsts budžetu 2014.gadam", likuma V¹ nodaļas "Balss nodošana glabāšanā" ieviešanai nepieciešamie izdevumi tiek segti no līdzekļiem neparedzētiem gadījumiem.

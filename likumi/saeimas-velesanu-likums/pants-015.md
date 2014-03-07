@@ -1,4 +1,4 @@
-15. pants. Centrālā vēlēšanu komisija nodrošina, lai ne vēlāk kā divdesmit dienas, bet, ja Saeimas vēlēšanas notiek Satversmes 48.pantā paredzētajā gadījumā,- ne vēlāk kā desmit dienas pirms vēlēšanu dienas laikrakstā "Latvijas Vēstnesis" tiktu publicētas:
+15. pants. Centrālā vēlēšanu komisija nodrošina, lai ne vēlāk kā divdesmit dienas, bet, ja Saeimas vēlēšanas notiek Satversmes 48.pantā paredzētajā gadījumā,- ne vēlāk kā desmit dienas pirms vēlēšanu dienas oficiālajā izdevumā "Latvijas Vēstnesis" tiktu publicētas:
 1) priekšvēlēšanu programmas;
 2) visi kandidātu saraksti, norādot šajā likumā minētās ziņas par katru kandidātu, izņemot kandidāta personas kodu;
 3) šā likuma 11.panta 4.punkta "a" un "c" - "i" apakšpunktā minētās ziņas par katru kandidātu;
