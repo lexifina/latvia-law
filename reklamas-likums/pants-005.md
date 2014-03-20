@@ -7,5 +7,5 @@
 2) ietvert mudinājumu vai mudināt uz agresivitāti un vardarbību, diskreditēt vecāku, aizbildņu un pedagogu autoritāti;
 3) vērst uzmanību uz to, ka konkrētu preču vai pakalpojumu iegāde rada fizisku, sociālu vai psiholoģisku pārākumu pār vienaudžiem vai ka attiecīgās preces trūkums izraisa pretēju rezultātu;
 4) nepārprotami norādīt, ka reklamējamās preces vai pakalpojuma iegāde ir iespējama jebkurai ģimenei, neņemot vērā tās budžetu;
-5) tieši aicināt bērnus pašus vai aicināt bērnus, lai viņi mudina vecākus vai citas personas pirkt preces vai izmantot pakalpojumus;
+5) (izslēgts ar 13.02.2014. likumu);
 6) attēlot bērnus bīstamās situācijās.

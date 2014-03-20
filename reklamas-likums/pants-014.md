@@ -3,9 +3,9 @@
 1) pēc savas iniciatīvas, tai skaitā pamatojoties uz personas iesniegumu;
 2) pamatojoties uz tādas iestādes sniegtu informāciju, kuras kompetencē ir attiecīgās jomas uzraudzība un kontrole;
 3) pamatojoties uz iesniegumu, ko iesniegusi Eiropas Savienības dalībvalsts iestāde, kura ir iekļauta Eiropas Savienības Oficiālajā Vēstnesī publicētajā tādu dalībvalstu iestāžu sarakstā, kuras ir tiesīgas pieņemt nolēmumu sakarā ar kompetentās iestādes iesniegumu par Eiropas Savienībā izdarīto patērētāju tiesību pārkāpumu.
-(2) Uzraudzības iestāde izvērtē reklāmas atbilstību normatīvo aktu prasībām 20 dienu laikā no personas iesnieguma vai citas iestādes sniegtās informācijas saņemšanas dienas vai no dienas, kad tā pēc savas iniciatīvas uzsākusi izvērtēt reklāmas atbilstību normatīvo aktu prasībām. Ja objektīvu iemeslu dēļ šajā termiņā nav iespējams izvērtēt reklāmas atbilstību normatīvo aktu prasībām, Uzraudzības iestāde ir tiesīga pagarināt reklāmas izvērtēšanas termiņu uz laiku līdz četriem mēnešiem, skaitot termiņu no dienas, kad saņemts personas iesniegums vai saņemta iestādes sniegtā informācija, vai no dienas, kad Uzraudzības iestāde pēc savas iniciatīvas uzsākusi izvērtēt reklāmas atbilstību normatīvo aktu prasībām. Par reklāmas izvērtēšanas termiņa pagarināšanu Uzraudzības iestāde rakstveidā informē personu, kas iesniegusi iesniegumu, vai iestādi, kas sniegusi attiecīgo informāciju.
-(3) Ja Uzraudzības iestāde, izvērtējot reklāmu, konstatē, ka reklāma neatbilst normatīvo aktu prasībām, tā pieņem vismaz vienu no šā likuma 15.panta ceturtajā daļā minētajiem lēmumiem. Par pieņemto lēmumu Uzraudzības iestāde rakstveidā informē procesa dalībniekus.
-(4) (Izslēgta ar 13.12.2007. likumu.)
+(2) (Izslēgta ar 13.02.2014. likumu)
+(3) Ja Uzraudzības iestāde, izvērtējot reklāmu, konstatē, ka reklāma neatbilst normatīvo aktu prasībām, tā ir tiesīga veikt šā likuma 15.panta trešajā daļā minētās darbības vai pieņemt vismaz vienu no šā likuma 15.panta ceturtajā daļā minētajiem lēmumiem.
+(4) (Izslēgta ar 13.12.2007. likumu)
 (5) Uzraudzības iestāde neuzsāk izvērtēt reklāmas atbilstību normatīvo aktu prasībām vai izvērtēšanu pārtrauc, ja ir pieņemts lēmums par lietas izpētes izbeigšanu vai par konstatēto pārkāpumu jau ir pieņemts viens no šādiem lēmumiem:
 1) kāds no šā likuma 15.panta ceturtajā daļā minētajiem lēmumiem;
 2) kāds no Negodīgas komercprakses aizlieguma likuma 15.panta astotajā daļā minētajiem lēmumiem.
