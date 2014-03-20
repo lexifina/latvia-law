@@ -1,0 +1,10 @@
+3.pants. Apsardzes pakalpojumu veidi
+(1) Ir šādi apsardzes pakalpojumu veidi:
+1) apsardzes tehnisko sistēmu ierīkošana;
+2) fiziskā apsardze;
+3) tehniskā apsardze;
+4) inkasācijas apsardze.
+(2) Apsardzes tehnisko sistēmu ierīkošana ietver apsardzes tehnisko risinājumu projektēšanu, apsardzes tehnisko sistēmu uzstādīšanu un apkalpošanu, kā arī konsultāciju sniegšanu par attiecīgiem jautājumiem.
+(3) Sniedzot apsargājamā objekta fiziskās apsardzes pakalpojumu, apsardzes darbinieks atrodas apsargājamā objektā vai tiešā tā tuvumā vai ierodas apsargājamā objektā pēc apsardzes pakalpojuma saņēmēja, apsardzes darbinieka vai citas personas izsaukuma. Fiziskā apsardze ietver nekustamā īpašuma, preču vai citas kustamās mantas apsardzi, kravu vai citu materiālo vērtību pavadīšanu (izņemot inkasācijas apsardzi), fiziskās personas apsardzi (miesassardzi), iekšējās kārtības un drošības nodrošināšanu apsargājamā objektā un tajā esošo personu aizsardzību, kā arī konsultāciju sniegšanu par attiecīgiem jautājumiem.
+(4) Apsargājamā objekta tehnisko apsardzi apsardzes komersants īsteno, izmantojot apsardzes vadības centru ar monitoringa un trauksmes signālu uztveršanas pulti (turpmāk - apsardzes vadības centrs), kas saņem signālu no apsargājamā objektā ierīkotās apsardzes tehniskās sistēmas, lai nodrošinātu nepārtrauktu apsardzes vadības centra darbību un apsardzes darbinieka vai apsardzes darbinieku mobilās grupas ierašanos apsargājamā objektā nekavējoties pēc apsardzes vadības centra informācijas (trauksmes signāla) saņemšanas. Sniedzot tehniskās apsardzes pakalpojumu, apsardzes komersants var sniegt arī šā panta otrajā un trešajā daļā minētos apsardzes pakalpojumus.
+(5) Inkasācijas apsardzē apsardzes komersants izmanto apsardzes vadības centru, kas ar globālās navigācijas sistēmu nepārtraukti seko inkasācijas apsardzē izmantotā transportlīdzekļa atrašanās vietai un regulāri uztur sakarus ar apsardzes darbiniekiem, kuri veic inkasācijas apsardzi. Inkasācijas apsardze ietver arī konsultāciju sniegšanu par attiecīgiem jautājumiem.

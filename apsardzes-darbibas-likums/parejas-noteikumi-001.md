@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē 2006.gada 11.maijā pieņemtais Apsardzes darbības likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2006, 12.nr.; 2008, 12.nr.; Latvijas Vēstnesis, 2010, 183.nr.).

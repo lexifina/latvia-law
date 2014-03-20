@@ -1,0 +1,1 @@
+5. Komersanti, kuriem izsniegtas pirmās un otrās kategorijas speciālās atļaujas (licences), saņem jaunas licences atbilstoši šā likuma prasībām līdz 2015.gada 1.janvārim vai nodod iepriekš izsniegtās licences Valsts policijai un izbeidz apsardzes pakalpojumu sniegšanu.

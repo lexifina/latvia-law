@@ -1,0 +1,11 @@
+18.pants. Apsardzes darbinieka tiesības un pienākumi
+(1) Apsardzes darbiniekam, veicot apsardzes darbību, ir pienākums:
+1) nēsāt līdzi apsardzes sertifikātu un nodarbinātā apliecību un pēc pieprasījuma uzrādīt to kontrolējošo valsts institūciju pārstāvjiem;
+2) šajā likumā noteiktajos gadījumos ierobežojot personu tiesības un brīvības, pēc personas pieprasījuma nosaukt savu uzvārdu un apsardzes komersanta nosaukumu, uzrādīt nodarbinātā apliecību, kā arī sniegt paskaidrojumu, pamatojot katru konkrēto ierobežojumu;
+3) nekavējoties sniegt Valsts policijai informāciju par gatavotu vai izdarītu noziedzīgu nodarījumu;
+4) aizturēt personu, par kuru pastāv aizdomas, ka tā apsargājamā objektā ir izdarījusi noziedzīgu nodarījumu vai administratīvo pārkāpumu, un nekavējoties par to informēt Valsts policiju, fiksēt lieciniekus, apsargāt notikuma vietu un nodrošināt tās neaizskaramību;
+5) neizpaust trešajām personām informāciju par apsargājamā objekta apsardzes tehniskajām sistēmām, apsardzes darba organizāciju un citu informāciju, kas kļuvusi pieejama, veicot apsardzes darbinieka pienākumus.
+(2) Apsardzes darbiniekam, veicot apsardzes darbību, ir tiesības:
+1) prasīt, lai persona izbeidz prettiesisko darbību un ievēro apsargājamā objektā noteikto kārtību, vai atkarībā no tās veiktajām darbībām lūgt attiecīgo personu atstāt apsargājamo objektu, kā arī izraidīt šo personu no apsargājamā objekta, ja tā nepakļaujas lūgumam un turpina pārkāpt apsargājamā objektā noteikto kārtību un šādu izraidījumu paredz apsargājamā objekta apsardzes noteikumi;
+2) apsargājamā objektā pārbaudīt caurlaidi vai dokumentu, kas apliecina tā turētāja identitāti, ja tas ir nepieciešams, lai tiktu ievēroti apsardzes noteikumi, kuru izpildi uzdots kontrolēt apsardzes darbiniekiem;
+3) lūgt, lai persona labprātīgi uzrāda personīgās mantas, transportlīdzekli vai kravu un tās atbilstību apstiprinošus dokumentus, ja šādas darbības ir paredzētas apsargājamā objekta apsardzes noteikumos. Ja persona nav sasniegusi 14 gadu vecumu, tās personīgās mantas drīkst pārbaudīt tikai šīs personas vecāku vai likumisko pārstāvju klātbūtnē un ar viņu atļauju. Ja nav klāt minētās personas vecāku vai likumisko pārstāvju, apsardzes darbinieks izsauc Valsts policiju.
