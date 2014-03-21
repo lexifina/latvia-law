@@ -1,0 +1,1 @@
+3.pants. Saskaņā ar Konvencijas 9.pantu atbildīgā iestāde par savstarpējās palīdzības lūgumu nosūtīšanu un saņemšanu pirmstiesas procesa laikā ir Ģenerālprokuratūra, bet pēc lietas nodošanas tiesai - Tieslietu ministrija.

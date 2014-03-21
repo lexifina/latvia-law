@@ -1,0 +1,1 @@
+1.pants. Ekonomiskās sadarbības un attīstības organizācijas 1997.gada 21.novembra Konvencija par ārvalstu amatpersonu kukuļošanas apkarošanu starptautiskajos biznesa darījumos (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.

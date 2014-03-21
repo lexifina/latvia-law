@@ -1,0 +1,1 @@
+2.pants. Saskaņā ar Konvencijas 4.panta 3.punktu atbildīgā iestāde par konsultācijām par jurisdikcijas jautājumiem pirmstiesas procesa laikā ir Ģenerālprokuratūra, bet iztiesāšanas laikā vai pēc sprieduma stāšanās spēkā - Tieslietu ministrija.
