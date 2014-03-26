@@ -4,3 +4,5 @@
 (3) Galalietotājam, kam ir pieslēgums sadales sistēmai, ir tiesības mainīt tirgotāju, ievērojot šādus nosacījumus:
 1) vismaz trīs mēnešus iepriekš par to rakstveidā paziņojot tirgotājam, ar kuru tas noslēdzis līgumu par dabasgāzes tirdzniecību;
 2) vismaz trīs mēnešus iepriekš rakstveidā informējot par tirgotāja maiņu to sistēmas operatoru, kura tīkliem galalietotājam ir pieslēgums.
+(4) Kārtību, kādā notiek tirgotāja maiņa, nosaka Ministru kabinets.
+(5) Regulators nosaka informāciju, ko dabasgāzes tirgotājs ietver galalietotājam izsniedzamajos rēķinos un informatīvajos materiālos, kā arī šīs informācijas apjomu.

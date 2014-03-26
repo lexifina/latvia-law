@@ -1,7 +1,7 @@
 1.pants
 Likumā ir lietoti šādi termini:
-1) enerģija - šā likuma izpratnē: prece ar noteiktu vērtību - iegūtā elektroenerģija vai siltumenerģija, kā arī dabasgāze;
-2) energoapgāde - enerģētikas jomā veicama komercdarbība, kuru ir nepieciešams licencēt vai reģistrēt un kura ietver elektroenerģijas vai siltumenerģijas ražošanu, elektroenerģijas, siltumenerģijas vai dabasgāzes iepirkšanu, pārveidi, uzglabāšanu, pārvadi, sadali vai tirdzniecību;
+1) enerģija - šā likuma izpratnē: prece ar noteiktu vērtību - iegūtā elektroenerģija vai siltumenerģija, kā arī dabasgāze, tostarp sašķidrinātā dabasgāze;
+2) energoapgāde - enerģētikas jomā veicama komercdarbība, kuru ir nepieciešams licencēt vai reģistrēt un kura ietver elektroenerģijas vai siltumenerģijas ražošanu, elektroenerģijas, siltumenerģijas vai dabasgāzes, tostarp sašķidrinātās dabasgāzes, iepirkšanu, pārveidi, uzglabāšanu, pārvadi, sadali vai tirdzniecību;
 3) energoapgādes komersants - licencēts vai reģistrēts komersants, kas nodarbojas ar energoapgādi;
 4) energoapgādes komersanta objekts - energoapgādes komersantam piederoša vai tā lietošanā esoša manta (ēkas, būves, stacijas, iekārtas, ierīces, ietaises, tīkli, līnijas un to piederumi), kuru tieši izmanto energoapgādei;
 5) energoefektivitāte - energoresursu izmantošanas lietderīguma pakāpe, kas izpaužas kā galaprodukta veida, kvalitātes un kvantitātes samērs ar energoresursu patēriņu;
@@ -22,10 +22,10 @@ Likumā ir lietoti šādi termini:
 19) licences darbības zona - licencē noteikta teritorija, kurā ir tiesīgs darboties konkrētais energoapgādes komersants un enerģijas lietotājs;
 20) regulators - valsts iestāde, kura saskaņā ar likumu regulē energoapgādi;
 21) horizontālā integrācija - viens energoapgādes komersants vai koncerns veic vismaz vienu no enerģijas ražošanas, pārvades, sadales, piegādes vai dabasgāzes uzglabāšanas funkcijām un kādu darbību, kas nav saistīta ar energoapgādi;
-22) vertikālā integrācija - viens energoapgādes komersants vai koncerns veic vismaz vienu no šādiem energoapgādes veidiem: enerģijas pārvade vai sadale vai dabasgāzes uzglabāšana un vismaz vienu no šādiem energoapgādes veidiem: enerģijas ražošana vai tirdzniecība;
-23) sistēmas operators - energoapgādes komersants, kas pilda enerģijas pārvades, sadales vai dabasgāzes uzglabāšanas funkcijas un atbild par sistēmas ekspluatāciju, uzturēšanas nodrošināšanu un, ja vajadzīgs, - attīstību noteiktā teritorijā, kā arī par sistēmas savstarpēju savienošanu ar citām sistēmām un par sistēmas spēju ilgtermiņā nodrošināt pamatotu pieprasījumu attiecībā uz enerģijas transportēšanu un uzglabāšanu;
+22) vertikāli integrēts komersants - energoapgādes komersants vai koncerns, kuru tieši vai netieši kontrolē viena un tā pati persona vai vienas un tās pašas personas un kurš sniedz vismaz vienu no enerģijas pārvades, sadales, dabasgāzes uzglabāšanas vai sašķidrinātās dabasgāzes pakalpojumiem un vienlaikus nodarbojas ar enerģijas ražošanu vai tirdzniecību;
+23) sistēmas operators - energoapgādes komersants, kas sniedz enerģijas pārvades, sadales, dabasgāzes uzglabāšanas vai sašķidrinātās dabasgāzes pakalpojumus;
 24) atjaunojamie energoresursi - vēja, saules, ģeotermālā, viļņu, paisuma un bēguma, ūdens enerģija, kā arī aerotermālā enerģija (siltumenerģija, kura uzkrājas gaisā), ģeotermālā enerģija (siltumenerģija, kura atrodas zem cietzemes virsmas) un hidrotermālā enerģija (siltumenerģija, kura atrodas virszemes ūdeņos), atkritumu poligonu un notekūdeņu attīrīšanas iekārtu gāzes, biogāze un biomasa;
-25) sistēmas lietotājs - fiziskā vai juridiskā persona, kas izmanto enerģijas pārvades vai sadales sistēmas vai dabasgāzes krātuves pakalpojumus;
+25) sistēmas lietotājs - fiziskā vai juridiskā persona, kas izmanto enerģijas pārvades vai sadales sistēmas vai dabasgāzes uzglabāšanas vai sašķidrinātās dabasgāzes pakalpojumus;
 26) savstarpēji savienota sistēma - vairākas sistēmas, kas savienotas savā starpā;
 27) fiksēta maksājuma apjoma līgums - līgums, kurā iekļauta pircēja un pārdevēja vienošanās, ka gadījumā, ja pircējs nevēlas saņemt visu līgumā noteikto preces apjomu, tas maksā par visu līgumā noteikto preces apjomu;
 28) tiešā līnija - dabasgāzes vads, kas papildina savstarpēji savienotas dabasgāzes pārvades sistēmas;
@@ -34,13 +34,19 @@ Likumā ir lietoti šādi termini:
 31) tīkls - līniju un iekārtu kopums, kas nepieciešams enerģijas transportēšanai. Ielu apgaismojuma tīkls ir atsevišķs, ar uzskaites mēraparātu tehniski nodalīts līniju vai iekārtu kopums, ko izmanto ielu, laukumu un citu publiskai lietošanai paredzētu teritoriju apgaismošanai un kas netiek izmantots elektroenerģijas transportēšanai un sadalei citiem enerģijas lietotājiem;
 32) autonomais ražotājs - komersants, energoapgādes komersants vai fiziskā persona, kas ražo elektroenerģiju vai siltumenerģiju nolūkā patērēt to pašas vajadzībām vai lokālās siltumapgādes vajadzībām;
 33) neatkarīgais ražotājs - energoapgādes komersants, kas ražo elektroenerģiju vai siltumenerģiju, bet neveic tās sadali vai pārvadi sistēmā, kurā ir iekļauts;
-34) sistēma - visi pārvades un sadales tīkli un uzglabāšanas iekārtas, kas pieder dabasgāzes apgādes komersantam un ko tas ekspluatē, kā arī šim komersantam piederošās iekārtas, kas nodrošina papildpakalpojumus, un komersanti, kuru pakalpojumi nepieciešami, lai nodrošinātu pieeju pārvadei un sadalei;
-35) papildpakalpojumi - visi pakalpojumi, kas nepieciešami, lai piekļūtu pie pārvades un sadales tīkliem un uzglabāšanas iekārtām vai ekspluatētu šos tīklus un iekārtas, tostarp balansēšana, izņemot iekārtas, kuras izmanto tikai pārvades sistēmu operatori;
-36) balansēšana - nepārtraukts process, kas nodrošina pastāvīgu līdzsvaru starp sistēmā ievadīto enerģiju un enerģijas patēriņu;
+34) sistēma - pārvades un sadales tīkli, dabasgāzes krātuves un sašķidrinātās dabasgāzes iekārtas, kas ir energoapgādes komersanta īpašumā vai lietošanā, ieskaitot iekārtas, kas nepieciešamas palīgpakalpojumu sniegšanai;
+35) palīgpakalpojumi - visi pakalpojumi, kas nepieciešami, lai piekļūtu pārvades un sadales tīkliem, dabasgāzes krātuvēm un sašķidrinātās dabasgāzes iekārtām vai izmantotu šos tīklus, krātuves un iekārtas, tai skaitā balansēšana, jaukšana un inerto gāzu ievadīšana, izņemot objektus un iekārtas, ko savu funkciju veikšanai izmanto tikai pārvades sistēmu operatori;
+36) balansēšana - pārvades un sadales sistēmas operatora organizēts process, kas nodrošina pastāvīgu līdzsvaru starp sistēmā ievadīto enerģiju un enerģijas patēriņu;
 37) starpvalstu savienojums - enerģijas pārvades līnija, kas saista atsevišķās valstīs izvietotas pārvades sistēmas;
 38) galalietotājs - enerģijas lietotājs, kurš pērk enerģiju izlietošanai paša vajadzībām (galapatēriņam);
 39) mājsaimniecības lietotājs - galalietotājs, kurš pērk un izlieto enerģiju savā mājsaimniecībā paša vajadzībām (galapatēriņam), izņemot komercdarbības vai cita veida profesionālās darbības vajadzībām;
 40) saistītais lietotājs - enerģijas lietotājs, kurš neizmanto iespēju kļūt par tirgus dalībnieku, lai brīvi izvēlētos enerģijas tirgotāju;
-41) tirgotājs - lietotājs, kurš pērk un pārdod (piegādā - pārdošanas nozīmē) enerģiju citam enerģijas lietotājam;
+41) tirgotājs - komersants (tai skaitā ārvalsts komersanta filiāle), kura komercdarbība ir enerģijas tirdzniecība;
 42) vispārējās atļaujas noteikumi - specifiskas siltumenerģijas ražošanas un tirdzniecības prasības siltumenerģijas ražotājam vai siltumenerģijas tirgotājam;
-43) bioloģiskais šķidrais kurināmais - no biomasas iegūta šķidrā degviela, kuru izmanto elektroenerģijas vai siltumenerģijas ražošanai, bet neizmanto un nav paredzēts izmantot par degvielu transportlīdzekļos.
+43) bioloģiskais šķidrais kurināmais - no biomasas iegūta šķidrā degviela, kuru izmanto elektroenerģijas vai siltumenerģijas ražošanai, bet neizmanto un nav paredzēts izmantot par degvielu transportlīdzekļos;
+44) saistītā kapitālsabiedrība - kapitālsabiedrība, kurā saskaņā ar Koncernu likumu energoapgādes komersantam ir izšķirošā ietekme vai kurai ir izšķirošā ietekme energoapgādes komersantā, vai kapitālsabiedrība, kurā izšķirošā ietekme ir citai kapitālsabiedrībai, kam vienlaikus ir izšķirošā ietekme energoapgādes komersantā;
+45) sašķidrinātās dabasgāzes iekārta - terminālis, ko izmanto dabasgāzes šķidrināšanai vai sašķidrinātās dabasgāzes saņemšanai, izkraušanai un pārvēršanai gāzveida stāvoklī, kā arī tam piederošās iekārtas un pagaidu glabātavas, kas nepieciešamas sašķidrinātās dabasgāzes uzglabāšanai un atkārtotai pārvēršanai gāzveida stāvoklī, kā arī turpmākai piegādei uz dabasgāzes pārvades sistēmu vai enerģijas lietotājam;
+46) sākumposma cauruļvadu tīkls - cauruļvads vai cauruļvadu tīkls, ko izmanto dabasgāzes ražošanas projektā vai dabasgāzes transportēšanai no viena vai vairākiem šādiem projektiem uz pārstrādes uzņēmumu vai termināli, vai pēdējo piekrastes termināli;
+47) dabasgāzes krātuve - virszemes vai pazemes objekts, ko izmanto dabasgāzes, tostarp sašķidrinātās dabasgāzes, uzglabāšanai un kas pieder dabasgāzes apgādes komersantam vai ko tas izmanto, kā arī sašķidrinātās dabasgāzes iekārtu daļa, ko izmanto uzglabāšanai, izņemot ražošanā izmantotās daļas un iekārtas, ko izmanto tikai pārvades sistēmu operatori;
+48) sašķidrinātās dabasgāzes pakalpojums - dabasgāzes šķidrināšana vai sašķidrinātās dabasgāzes saņemšana, izkraušana, uzglabāšana un pārvēršana gāzveida stāvoklī turpmākai piegādei uz dabasgāzes pārvades sistēmu vai enerģijas lietotājam;
+49) tirgus dalībnieks - dabasgāzes ražotājs, tirgotājs vai galalietotājs, kas darbojas dabasgāzes tirgū saskaņā ar brīvprātīgas līdzdalības principu.

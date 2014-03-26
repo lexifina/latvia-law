@@ -1,0 +1,1 @@
+30. Ar 2014.gada 4.aprīli atzīt par spēku zaudējušu Enerģētikas likuma atsevišķu pantu spēkā stāšanās kārtības likumu (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2005, 14.nr.; Latvijas Vēstnesis, 2009, 194.nr.).

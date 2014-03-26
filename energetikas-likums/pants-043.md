@@ -3,7 +3,9 @@
 1) dabasgāzes pārvades sistēmas darbību, tās tehnisko ekspluatāciju un attīstību;
 2) dabasgāzes piegādi sadales sistēmai atbilstoši dabasgāzes sadales sistēmas operatoru pamatotam pieprasījumam;
 3) dabasgāzes plūsmu vadību dabasgāzes pārvades sistēmā atbilstoši sistēmas tehniskajām iespējām un saskaņā ar diskrimināciju nepieļaujošajiem nosacījumiem dabasgāzes saņemšanai no ārvalstīm un aizvadīšanai uz ārvalstīm;
-4) iespējamo dabasgāzes pārvades sistēmas avāriju lokalizāciju un likvidāciju sistēmā.
+4) iespējamo dabasgāzes pārvades sistēmas avāriju lokalizāciju un likvidāciju sistēmā;
+5) pārvades sistēmas attīstību, ņemot vērā pārrobežu dabasgāzes sistēmas un to jaudas, dabasgāzes piegādes drošumu un sistēmu savienošanas tehniski ekonomisko pamatojumu;
+6) nepieciešamās informācijas sniegšanu citiem pārvades un sadales sistēmas operatoriem, dabasgāzes uzglabāšanas sistēmas operatoriem un sašķidrinātās dabasgāzes sistēmas operatoriem, lai dabasgāzes pārvadi, sadali un uzglabāšanu varētu veikt, neapdraudot savstarpēji savienotu sistēmu drošu un efektīvu darbību.
 (2) Ja dabasgāzes pārvades sistēmas operators ir vertikāli integrēta energoapgādes komersanta sastāvā, šis operators ir atsevišķa kapitālsabiedrība ar patstāvīgas juridiskās personas statusu un nošķirts no dabasgāzes tirdzniecības vai cita veida komercdarbības (kas nav energoapgāde).
 (3) Šā panta otrajā daļā minētā dabasgāzes pārvades sistēmas operatora neatkarības nodrošināšanai ievērojami šādi nosacījumi:
 1) personas, kuras atbild par dabasgāzes pārvades sistēmas operatora vadību, nedrīkst iesaistīties integrētā dabasgāzes komersanta struktūrās, kas tieši vai netieši ir atbildīgas par dabasgāzes sadali un tirdzniecību;

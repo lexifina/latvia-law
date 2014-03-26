@@ -1,0 +1,1 @@
+34. Šā likuma 42.¹ panta pirmajā daļā paredzētos noteikumus Ministru kabinets izdod līdz 2014.gada 1.oktobrim. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2014.gada 30.septembrim piemērojami Ministru kabineta 2008.gada 16.decembra noteikumi Nr.1048 "Dabasgāzes piegādes un lietošanas noteikumi".

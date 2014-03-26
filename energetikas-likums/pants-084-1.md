@@ -6,7 +6,7 @@
 3) sistēmu operatoru laika patēriņu pieslēgumu un remontdarbu veikšanai;
 4) sistēmu operatoru publicēto informāciju par starpvalstu savienojumiem, tīklu izmantošanu un sistēmu jaudas sadalījumu starp ieinteresētajām pusēm;
 5) grāmatvedības nodalīšanu atbilstoši šā likuma 12.pantā noteiktajai kārtībai;
-6) šajā likumā noteikto pārvades, sadales un dabasgāzes krātuves operatoru pienākumu izpildi;
+6) šajā likumā noteikto pārvades, sadales, dabasgāzes uzglabāšanas sistēmas operatoru un sašķidrinātās dabasgāzes sistēmas operatoru pienākumu izpildi;
 7) dabasgāzes tirgus pārskatāmību un konkurences līmeni tajā;
 8) šā panta pirmajā daļā noteikto sistēmas pieslēguma noteikumu izpildi.
-(3) Regulators reizi gadā publicē ziņojumu par šā panta otrajā daļā noteikto dabasgāzes apgādes sistēmas darbības aspektu uzraudzības rezultātiem.
+(3) Regulators reizi gadā ziņo Eiropas Komisijai un Energoregulatoru sadarbības aģentūrai par savu darbību un šajā likumā noteikto pienākumu izpildi, kā arī publicē šo ziņojumu savā tīmekļa vietnē.

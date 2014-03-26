@@ -1,0 +1,1 @@
+40. Ministru kabinets līdz dienai, kad stājas spēkā šo pārejas noteikumu 39.punktā paredzētie grozījumi Latvijas Administratīvo pārkāpumu kodeksā, izdod šā likuma 105.panta sestajā daļā minētos noteikumus.
