@@ -7,7 +7,8 @@
 4¹) pagaidu aizgādnības nodibināšanu;
 4²) nākotnes pilnvarnieka tiesību apturēšanu;
 5) bērna prettiesisku pārvietošanu pāri robežai uz ārvalsti vai aizturēšanu ārvalstī un bērna prettiesisku pārvietošanu pāri robežai uz Latviju vai aizturēšanu Latvijā;
-6) aizgādības un saskarsmes tiesībām.
+6) aizgādības un saskarsmes tiesībām;
+7) pagaidu aizsardzību pret vardarbību.
 (2) Personas, kas jaunākas par 15 gadiem un kas nav lietas dalībnieki vai liecinieki, tiesas sēdē var būt klāt tikai ar tiesas atļauju.
 (3) Pēc lietas dalībnieka motivēta lūguma vai tiesas ieskata tiesas sēdi vai tās daļu var pasludināt par slēgtu:
 1) ja nepieciešams aizsargāt valsts noslēpumu vai komercnoslēpumu;
