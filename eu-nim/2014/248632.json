@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2014.gada 21.janvāra noteikumi Nr.50 “Elektroenerģijas tirdzniecības un lietošanas noteikumi”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "17",
+  "official_journal_page": null,
+  "official_journal_date": "2014-01-24",
+  "entry_into_force": "2014-04-01",
+  "notification_date": "2017-06-27",
+  "commission_reference": "MNE(2017)53446",
+  "nim_celex": "72014L0094LVA_248632",
+  "nim_id": "248632",
+  "transposes_celex": [
+    "32014L0094"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3fe7295f-c8da-47a4-ba9f-df6653780462",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
