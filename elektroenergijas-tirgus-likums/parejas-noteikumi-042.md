@@ -1,0 +1,1 @@
+42. Šo pārejas noteikumu 40. un 41.punktā minētajos gadījumos elektroenerģiju saistītajiem lietotājiem piegādā, ievērojot visus tos lēmumus (tajā skaitā Sabiedrisko pakalpojumu regulēšanas komisijas un publiskā tirgotāja lēmumus), kuri pieņemti, pamatojoties uz šā likuma 33.panta trešo daļu tādā redakcijā, kādā tā bija spēkā 2014.gada 31.martā.
