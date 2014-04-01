@@ -5,9 +5,7 @@
 3) elektroenerģijas tirgotājs, kas šajā likumā noteiktajā kārtībā reģistrēts elektroenerģijas tirgotāju reģistrā;
 4) publiskais tirgotājs.
 (2) Publiskajam tirgotājam licenci izsniedz regulators saskaņā ar šo likumu un likumu "Par sabiedrisko pakalpojumu regulatoriem".
-(3) Elektroenerģijas piegādi saistītajiem lietotājiem par regulatora noteiktiem tarifiem vai par tarifiem, ko noteicis attiecīgais pakalpojumu sniedzējs saskaņā ar regulatora noteikto tarifu aprēķināšanas metodiku, ja ir saņemta regulatora atļauja, un saskaņā ar regulatora izvirzītiem nosacījumiem nodrošina:
-1) publiskais tirgotājs;
-2) sadales sistēmas operators, kura sadales tīkliem pieslēgti mazāk par simt tūkstošiem lietotāju, to skaitā saistītais lietotājs.
+(3) Elektroenerģijas tirgotāji un šā panta pirmās daļas 2.punktā minētie sadales sistēmas operatori savos mājsaimniecību lietotājiem izteiktajos tirdzniecības pakalpojuma piedāvājumos iekļauj universālā pakalpojuma piedāvājumu. Tā nosacījumus un izteikšanas veidu nosaka Ministru kabinets.
 (4) Regulators nosaka, kādu informāciju un cik lielā apjomā tirgotājs ietver galalietotājam izsniedzamajos rēķinos un informatīvajos materiālos.
 (5) Kārtību, kādā lietotājiem piegādā elektroenerģiju un pārtrauc tās piegādi, tirgotāju, sistēmas operatoru un lietotāju tiesības un pienākumus elektroenerģijas piegādē un lietošanā, kā arī norēķinos par saņemtajiem pakalpojumiem un tirgotāju maiņas kārtību nosaka Ministru kabinets.
-(6) Lietotāji, kuriem nav tiesību saņemt universālo pakalpojumu atbilstoši šā likuma 34.panta pirmajai daļai, pērk elektroenerģiju no tirgotāja par vienošanās cenu.
+(6) (Izslēgta no 01.04.2014. ar 06.11.2013. likumu)

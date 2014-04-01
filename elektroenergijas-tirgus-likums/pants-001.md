@@ -23,7 +23,7 @@
 14) obligātais iepirkums - šajā likumā un citos normatīvajos aktos noteikts pienākums iepirkt elektroenerģiju;
 15) palīgpakalpojumi - pakalpojumi, kas nepieciešami elektroenerģijas pārvades sistēmas balansētas darbības nodrošināšanai;
 16) publiskais tirgotājs - elektroenerģijas tirgotājs, kuram šajā likumā un citos normatīvajos aktos ir noteikti īpaši pienākumi un kura licencē iekļautas speciālas prasības publiskā tirgotāja pienākumu izpildes nodrošināšanai;
-17) saistītais lietotājs - galalietotājs, kuram ir tiesības saņemt universālo pakalpojumu un kurš neizmanto iespēju kļūt par elektroenerģijas tirgus dalībnieku;
+17) (izslēgts no 01.04.2014. ar 06.11.2013. likumu);
 18) sistēmas pakalpojums - elektroenerģijas pārvade vai sadale, kas nodrošina elektroenerģijas plūsmas no ražotājiem līdz lietotājiem;
 19) starpvalstu savienojums - elektrolīnija, kas sasaista atsevišķās valstīs izvietotas pārvades sistēmas;
 19¹) tiešā izsole - starpvalstu savienojumu sastrēgumu vadības un pārslodzes novēršanas metode, ar kuru elektroenerģijas tirgus dalībnieks iegūst tiesības noteiktā apjomā lietot elektroenerģijas pārvades sistēmas operatora izsolīto starpvalstu savienojuma jaudu;

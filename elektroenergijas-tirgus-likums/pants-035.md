@@ -1,3 +1,3 @@
-35.pants. Galalietotāja tiesības mainīt elektroenerģijas tirgotājus
-(1) Elektroenerģijas galalietotājam, kam ir pieslēgums pārvades sistēmai, ir tiesības bez ierobežojumiem mainīt elektroenerģijas tirgotāju, iepriekš par to paziņojot tirgotājam, ar kuru tas noslēdzis elektroenerģijas tirdzniecības līgumu. Paziņošanas termiņu nosaka elektroenerģijas tirdzniecības līgumā, lietotājam un tirgotājam savstarpēji vienojoties, bet ne ilgāku par 21 dienu.
-(2) Ministru kabinets nosaka kārtību, kādā galalietotājs, kam ir pieslēgums sadales sistēmai, ir tiesīgs mainīt elektroenerģijas tirgotāju (elektroenerģijas piegādātāju).
+35.pants. Galalietotāja tiesības mainīt elektroenerģijas tirgotāju
+(1) Galalietotājam ir tiesības katra mēneša pirmajā datumā bez ierobežojumiem mainīt elektroenerģijas tirgotāju. Attiecīgais sistēmas operators nodrošina elektroenerģijas tirgotāja maiņu termiņā, kas nepārsniedz 14 dienas.
+(2) Ministru kabinets nosaka kārtību, kādā galalietotājs ir tiesīgs mainīt elektroenerģijas tirgotāju.
