@@ -2,7 +2,7 @@
 1) gāzveida emisijām atmosfērā;
 2) oglekļa dioksīdu, kas uztverts un transportēts ģeoloģiskai uzglabāšanai un ģeoloģiski uzglabāts atbilstoši normatīvajiem aktiem par oglekļa dioksīda ģeoloģisko uzglabāšanu;
 3) radioaktīvajiem atkritumiem;
-4) sprāgstvielām;
+4) nederīgām sprāgstvielām;
 5) neizraktu zemi, arī piesārņotu augsni un būvēm;
 6) nepiesārņotu augsni un citiem minerālresursiem, kuri izrakti būvniecības rezultātā un kurus to dabiskajā stāvoklī izmantos būvniecības procesā tajā pašā vietā, kur tie izrakti;
 7) kūtsmēsliem, ja uz tiem neattiecas šā panta otrās daļas 2.punkts, salmiem un citiem dabīgiem nekaitīgiem lauksaimniecības vai mežsaimniecības izcelsmes materiāliem, ko izmanto lauksaimniecībā, mežsaimniecībā vai enerģijas ražošanā no biomasas, neapdraudot vidi un cilvēku veselību;

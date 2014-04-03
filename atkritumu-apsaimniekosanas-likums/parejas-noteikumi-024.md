@@ -1,0 +1,1 @@
+24. Līdz šā likuma 12.¹ pantā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2014.gada 30.decembrim ir piemērojami Ministru kabineta 2013.gada 22.oktobra noteikumi Nr.1172 "Atkritumu tirgotāju un atkritumu apsaimniekošanas starpnieku reģistrācijas kārtība", ciktāl tie nav pretrunā ar šo likumu.

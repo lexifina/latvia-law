@@ -1,10 +1,12 @@
-12.pants. (1) Atkritumu apsaimniekotājs pirms attiecīgo darbību veikšanas saņem Valsts vides dienesta atļauju atkritumu savākšanai, pārvadāšanai, pārkraušanai, šķirošanai vai uzglabāšanai.
+12.pants. (1) Atkritumu apsaimniekotājs pirms attiecīgo darbību veikšanas saņem Valsts vides dienesta atļauju atkritumu savākšanai, pārvadāšanai, pārkraušanai, šķirošanai vai uzglabāšanai, rekultivētas atkritumu izgāztuves atrakšanai un atkritumu pāršķirošanai.
+(1¹) Pirms rekultivētas atkritumu izgāztuves atrakšanas atkritumu apsaimniekotājs saskaņo šīs darbības ar zemes īpašnieku, uz kura zemes atrodas attiecīgā rekultivētā atkritumu izgāztuve, un ar pašvaldību, kuras administratīvajā teritorijā atrodas minētā izgāztuve.
 (2) Ministru kabinets nosaka:
 1) atkritumu savākšanas, pārvadāšanas, pārkraušanas, šķirošanas vai uzglabāšanas atļauju izsniegšanas un anulēšanas kārtību;
 2) atkritumu apsaimniekošanas atļaujās izvirzāmās prasības;
 3) atļauju veidlapas atkritumu savākšanai, pārvadāšanai, pārkraušanai, šķirošanai vai uzglabāšanai;
 4) biedrību, kura apvieno ne mazāk kā divas trešdaļas atkritumu apsaimniekošanas komersantu, kas veic savu darbību Latvijā, un kuras izveidota neatkarīgu ekspertu komisija izsniedz atzinumu par tāda komersanta tehniskajām iespējām veikt atkritumu savākšanu, pārvadāšanu, pārkraušanu, šķirošanu vai uzglabāšanu, kurš ir paredzējis veikt minētās darbības;
-5) kārtību, kādā tiek sniegts šīs daļas 4.punktā minētais atzinums.
+5) kārtību, kādā tiek sniegts šīs daļas 4.punktā minētais atzinums;
+6) kārtību, kādā izsniedzama un anulējama atļauja rekultivētas atkritumu izgāztuves atrakšanai un atkritumu pāršķirošanai, atļaujā izvirzāmās prasības, prasības izgāztuves atkārtotai rekultivācijai pēc tās atrakšanas un atkritumu pāršķirošanas (tai skaitā prasības atkārtoti rekultivētās izgāztuves monitoringam pēc rekultivācijas), kā arī prasības attiecībā uz Valsts vides dienestam iesniedzamo informāciju par atkritumu veidiem un daudzumiem, kas iegūti, atrokot rekultivētu izgāztuvi un pāršķirojot atkritumus.
 (3) Par atkritumu savākšanas, pārvadāšanas, pārkraušanas, šķirošanas vai uzglabāšanas atļaujas izsniegšanu šā panta pirmajā daļā minētais atkritumu apsaimniekotājs maksā valsts nodevu. Nodevas apmēru un maksāšanas kārtību nosaka Ministru kabinets.
 (4) Juridiskās personas, kuras bīstamos atkritumus vai ražošanas atkritumus uzglabā ilgāk par trim mēnešiem, saņem šā panta pirmajā daļā noteikto atļauju atkritumu uzglabāšanai uz laiku, kas nav ilgāks kā viens gads pirms atkritumu apglabāšanas atkritumu poligonā, vai uz laiku, kas nav ilgāks par trim gadiem pirms atkritumu reģenerācijas.
 (5) Bīstamo atkritumu vai ražošanas atkritumu apsaimniekotājs:

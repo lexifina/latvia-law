@@ -1,7 +1,7 @@
 5.pants. (1) Valsts pārvaldes iestādes, pašvaldības un atkritumu apsaimniekotāji, organizējot, plānojot un veicot atkritumu apsaimniekošanu, ievēro šādas prasības (turpmāk minētajā prioritārajā secībā):
 1) novērš atkritumu rašanās cēloņus;
 2) samazina radīto atkritumu daudzumu (apjomu) un bīstamību;
-3) veicina atkritumu sagatavošanu atkārtotai izmantošanai;
+3) sagatavo atkritumus atkārtotai izmantošanai;
 4) atkārtoti izmanto pienācīgi sagatavotus atkritumus;
 5) veicina atkritumu pārstrādi;
 6) veic atkritumu reģenerāciju citos veidos, piemēram, iegūstot enerģiju;

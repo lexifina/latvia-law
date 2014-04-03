@@ -1,9 +1,11 @@
 41.pants. (1) Tarifā par atkritumu apglabāšanu poligonos iekļauj:
-1) ar poligona ierīkošanu un ekspluatāciju saistītās izmaksas;
+1) ar atkritumu poligona ierīkošanu un ekspluatāciju saistītās izmaksas, ar atkritumu poligona pārkraušanas staciju saistītās izmaksas un izmaksas par pieņemto vai apglabāšanai sagatavoto sadzīves atkritumu nogādāšanu no atkritumu poligona pārkraušanas stacijas uz atkritumu poligonu;
 2) izmaksas, kas saistītas ar atkritumu sagatavošanu apglabāšanai, atkritumu slāņa regulāru pārklāšanu ar inertu pārsegumu;
 3) izmaksas to sabiedrības izglītības pasākumu finansēšanai, kuri vērsti uz attiecīgā atkritumu apsaimniekošanas reģiona atkritumu radītāju izglītošanu atkritumu apsaimniekošanas jomā;
 4) izmaksas, kas saistītas ar poligona apsaimniekotāja finansiālo vai citu līdzvērtīgu nodrošinājumu;
 5) poligona slēgšanas un rekultivācijas izmaksas;
 6) izmaksas, kas saistītas ar slēgta atkritumu poligona monitoringu vismaz 30 gadu ilgā laikposmā pēc šāda poligona slēgšanas.
+(1¹) Šā panta izpratnē atkritumu poligona pārkraušanas stacija ir uz atkritumu poligona infrastruktūru attiecināta pārkraušanas stacija, kurā atkritumu poligona īpašnieks vai apsaimniekotājs pieņem attiecīgajā atkritumu apsaimniekošanas reģionā savāktos atkritumus, lai tos nogādātu apglabāšanai atkritumu poligonā vai sagatavotu apglabāšanai.
+(1²) Ministru kabinets paredz kārtību, kādā nosakāmas poligona slēgšanas un rekultivācijas izmaksas un slēgtā atkritumu poligona monitoringa izmaksas, kā arī kārtību, kādā uzraugāma atkritumu poligonu slēgšanas kontā Valsts kasē ieskaitīto līdzekļu uzkrāšana un izlietošana.
 (2) Atkritumu poligona apsaimniekotājs to ieņēmumu daļu no tarifa par atkritumu apglabāšanu poligonā, kura paredzēta poligona slēgšanas, rekultivācijas un slēgta poligona monitoringa izmaksu segšanai, iemaksā atkritumu poligonu slēgšanas kontā Valsts kasē par iepriekšējo ceturksni līdz nākamā ceturkšņa pirmā mēneša piecpadsmitajam datumam.
 (3) Pēc tam kad Valsts vides dienests ir pieņēmis lēmumu par atkritumu poligona slēgšanu, šā panta otrajā daļā minētos līdzekļus Ministru kabineta noteiktajā kārtībā saņem poligona īpašnieks vai apsaimniekotājs vai valsts vai pašvaldības iestāde poligona slēgšanas, rekultivācijas un slēgta atkritumu poligona monitoringa izmaksu segšanai.
