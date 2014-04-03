@@ -10,7 +10,7 @@
 7) sakarā ar to, ka beidzies termiņš, uz kādu amatpersona dienesta interesēs bija pārcelta citā amatā;
 8) zūdot dienesta interesēm, kas bija par pamatu amatpersonas pārcelšanai citā amatā;
 9) piemērojot disciplinārsodu - pazemināšana amatā;
-10) sakarā ar disciplinārsoda - pazemināšana amatā - izpildes termiņa izbeigšanos.
+10) (izslēgts ar 06.03.2014. likumu).
 (1¹) Amatpersonu var pārcelt uz Iekšlietu ministrijas sistēmas izglītības iestādi izglītības iegūšanai.
 (2) Šā panta pirmās daļas 2. un 5.punktā, kā arī 1.¹ daļā minētajā gadījumā amatpersonu citā amatā var pārcelt tikai ar tās piekrišanu.
 (3) Lēmumu par amatpersonas pārcelšanu citā amatā tajā pašā Iestādē pieņem Iestādes vadītājs vai viņa pilnvarota amatpersona, citā Iestādē Iekšlietu ministrijas sistēmā - iekšlietu ministrs. Pārceļot amatpersonu citā amatā no Iekšlietu ministrijas sistēmas uz Ieslodzījuma vietu pārvaldi vai no Ieslodzījuma vietu pārvaldes uz Iekšlietu ministrijas sistēmu, lēmumu par pārcelšanu pieņem ministrs, uz kura padotībā esošo iestādi amatpersonu pārceļ.

@@ -6,7 +6,7 @@
 2) atbilst noteiktajām prasībām;
 3) daļēji neatbilst noteiktajām prasībām;
 4) neatbilst noteiktajām prasībām.
-(4) Iestāde amatpersonu, saglabājot tai darba samaksu, ne retāk kā reizi gadā nosūta uz Medicīniskās ekspertīzes komisiju, lai tiktu pārbaudīta amatpersonas veselības stāvokļa atbilstība dienestam. Kārtību, kādā veicama amatpersonas veselības stāvokļa pārbaude, nosaka Ministru kabinets.
+(4) Iestāde amatpersonu, saglabājot tai darba samaksu, ne retāk kā reizi gadā nosūta uz Medicīniskās ekspertīzes komisiju, lai tiktu pārbaudīta amatpersonas veselības stāvokļa atbilstība dienestam. Kārtību, kādā veicama amatpersonas veselības stāvokļa pārbaude, nosaka Ministru kabinets. Amatpersonai saskaņā ar Iestādes nosūtījumu un Iestādes noteiktajā termiņā ir pienākums veikt veselības stāvokļa pārbaudi.
 (5) Iestāde reizi gadā pārbauda amatpersonas fiziskās sagatavotības atbilstību šā likuma 4.panta 2.punkta prasībām.
 (6) Šā panta trešajā daļā minēto amatpersonas darbības un tās rezultātu novērtējumu vai šā panta ceturtajā un piektajā daļā minēto pārbaužu rezultātus izmanto par pamatu lēmuma pieņemšanai par:
 1) amatpersonas atvaļināšanu no dienesta sakarā ar neatbilstību dienestam;

@@ -8,13 +8,14 @@
 5¹) ja amatpersona nav atkārtoti ievēlēta akadēmiskā personāla amatā, nepiekrīt pārcelšanai citā amatā vai nav cita amata, kuru amatpersonai attiecīgajā Iestādē piedāvāt un kuram noteiktajām prasībām amatpersona atbilst;
 6) sakarā ar Iestādes vai amatpersonas amata likvidāciju vai amatpersonu skaita samazināšanu;
 7) piemērojot disciplinārsodu - atvaļināšana no dienesta;
-8) sakarā ar ievēlēšanu (iecelšanu) amatā citā valsts vai pašvaldības iestādē vai starptautiskā organizācijā, izņemot šā likuma 13.pantā minēto gadījumu;
+8) sakarā ar ievēlēšanu amatā citā valsts vai pašvaldības iestādē vai starptautiskā organizācijā, izņemot šā likuma 13.pantā minēto gadījumu;
 9) sasniedzot šā likuma 46.pantā noteikto vecumu;
 10) sakarā ar amatpersonas nāvi.
 (2) Amatpersonu var atvaļināt no dienesta:
 1) tai sasniedzot izdienas stāžu, kas dod tiesības uz izdienas pensiju likumā noteiktajā kārtībā;
 2) sakarā ar to, ka tā pārejošas darbnespējas dēļ nav pildījusi amata pienākumus ilgāk kā četrus mēnešus pēc kārtas vai ilgāk kā sešus mēnešus gadā ar pārtraukumiem un veselības traucējumi nav gūti nelaimes gadījumā, pildot dienesta pienākumus;
-3) sakarā ar atskaitīšanu no studējošo (izglītojamo) skaita Iekšlietu ministrijas sistēmas izglītības iestādē (saskaņojot ar tās Iestādes vadītāju, no kuras amatpersona tika pārcelta uz Iekšlietu ministrijas sistēmas izglītības iestādi).
+3) sakarā ar atskaitīšanu no studējošo (izglītojamo) skaita Iekšlietu ministrijas sistēmas izglītības iestādē (saskaņojot ar tās Iestādes vadītāju, no kuras amatpersona tika pārcelta uz Iekšlietu ministrijas sistēmas izglītības iestādi);
+4) ja tā šā likuma 14.panta 5.¹ daļā minētajā atstādināšanas laikā bez attaisnojoša iemesla nav veikusi šā likuma 16.panta ceturtajā daļā minēto veselības stāvokļa pārbaudi.
 (3) Amatpersona, kura vēlas atvaļināties no dienesta pēc pašas vēlēšanās, ne vēlāk kā 30 dienas iepriekš par to rakstveidā brīdina amatpersonu, kura ir tiesīga iecelt amatpersonu amatā. Minētajām amatpersonām vienojoties, amatpersonu var atvaļināt no dienesta pirms uzteikuma termiņa izbeigšanās.
 (4) Tiesības atvaļināt amatpersonu no dienesta ir tai amatpersonai, kura ir tiesīga iecelt amatpersonu amatā.
 (5) Nav atļauts atvaļināt no dienesta amatpersonu tās pārejošas darbnespējas laikā (izņemot šā panta pirmās daļas 1. un 7.punktā un otrās daļas 2.punktā minēto gadījumu, kā arī gadījumu, kad amatpersonu atvaļina no dienesta sakarā ar Iestādes likvidāciju), kā arī laikā, kad amatpersona ir atvaļinājumā vai nepilda pienākumus citu attaisnojošu iemeslu dēļ.
