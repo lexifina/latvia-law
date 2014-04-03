@@ -1,0 +1,1 @@
+63. Grozījumu šā likuma 2.panta astotajā daļā un 2.panta 8.¹ daļu par pašvaldības tiesībām noteikt nekustamā īpašuma nodokļa maksāšanas kārtību par 2014.gadu pašvaldība īsteno, izdodot saistošos noteikumus, kurus pieņem likuma "Par pašvaldībām" 46.panta kārtībā un kuri piemērojami no 2014. taksācijas gada.

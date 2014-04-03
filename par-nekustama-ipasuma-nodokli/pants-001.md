@@ -38,7 +38,7 @@ l) apgaismes būves un žogus;
 14) valsts īpašumā esošās ēkas vai to daļas (telpu grupas) un inženierbūves, kuras izmanto Nacionālo bruņoto spēku, soda izciešanas iestāžu, policijas, robežsardzes, ugunsdrošības un glābšanas dienestu, kā arī valsts drošības iestāžu funkciju izpildes nodrošināšanai;
 15) ēkas vai to daļas (telpu grupas), kuras izmanto no valsts budžeta finansētās iestādes;
 16) ēkas vai to daļas (telpu grupas), kuras izmanto izglītības, veselības, sociālās aprūpes vajadzībām;
-17) saskaņā ar Ministru kabineta apstiprināto sarakstu - ēkas vai to daļas (telpu grupas) un inženierbūves, kuras izmanto vides aizsardzības vajadzībām, kā arī ēkas vai to daļas (telpu grupas), kuras izmanto valsts deleģēto funkciju veikšanai vides aizsardzības jomā;
+17) ēkas vai to daļas (telpu grupas) un inženierbūves, kuras izmanto vides aizsardzības vajadzībām, atbilstoši Ministru kabineta noteiktajiem kritērijiem un kārtībai;
 18) biedrībām un nodibinājumiem piederošas ēkas un inženierbūves saskaņā ar Ministru kabineta noteiktajiem kritērijiem un apstiprināto sarakstu;
 19) Eiropas Savienības militāru vai aizsardzības operāciju kopējo izmaksu finansēšanas pārvaldīšanai izveidotā mehānisma ATHENA nekustamo īpašumu Latvijas Republikā;
 20) ēkas (telpu grupas), kuras pastāvīgi izmanto akreditēti muzeji, akreditētas bibliotēkas, Latvijas Nacionālā opera, valsts sabiedrība ar ierobežotu atbildību "Rīgas cirks" un teātri, kā arī ēkas, kuras pastāvīgi izmanto koncertorganizācijas, kas veic valsts deleģētas funkcijas kultūras jomā, vai Kultūras ministrijā reģistrētas profesionālas radošās organizācijas mākslas galeriju vajadzībām;
