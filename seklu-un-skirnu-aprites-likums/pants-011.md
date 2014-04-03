@@ -11,4 +11,4 @@
 7) norāde, ja šķirne ir ģenētiski modificēta;
 8) norāde "saglabājamā šķirne", ja tā katalogā ir iekļauta kā saglabājamā šķirne;
 9) norāde "noteiktos apstākļos audzējama dārzeņu šķirne", ja tā katalogā ir iekļauta kā noteiktos apstākļos audzējama dārzeņu šķirne.
-(4) Valsts augu aizsardzības dienests pieņem lēmumu par šķirnes iekļaušanu katalogā vai svītrošanu no tā, kā arī par citiem grozījumiem katalogā. Valsts augu aizsardzības dienests saskaņā ar normatīvajiem aktiem par kataloga veidošanas kārtību publicē laikrakstā "Latvijas Vēstnesis" informāciju par pieņemtajiem lēmumiem.
+(4) Valsts augu aizsardzības dienests pieņem lēmumu par šķirnes iekļaušanu katalogā vai svītrošanu no tā, kā arī par citiem grozījumiem katalogā. Valsts augu aizsardzības dienests saskaņā ar normatīvajiem aktiem par kataloga veidošanas kārtību publicē oficiālajā izdevumā "Latvijas Vēstnesis" informāciju par pieņemtajiem lēmumiem.
