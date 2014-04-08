@@ -1,0 +1,1 @@
+26. Šā likuma 5.¹ panta 1.¹ daļā minētās speciālās zināšanas šā likuma 5.¹ panta pirmās daļas 6., 11., 14. un 17.punktā minētās personas, kā arī šā likuma 5.¹ panta pirmās daļas 19.¹ punktā minētās personas, kuras pārstāv vai aizstāv nepilngadīgos kriminālprocesā, apgūst ne vēlāk kā līdz 2017.gada 31.decembrim.

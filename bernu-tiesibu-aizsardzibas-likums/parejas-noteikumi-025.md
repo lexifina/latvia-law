@@ -1,1 +1,1 @@
-25. Šā likuma 5.¹ panta pirmajā daļā minētās personas, kuras nav apguvušas speciālās zināšanas bērnu tiesību aizsardzības jomā, tās apgūst ne vēlāk kā līdz 2015.gada 1.janvārim.
+25. Šā likuma 5.¹ panta pirmās daļas 1., 2., 3., 4., 5., 7., 8., 9., 10., 12., 13., 15., 16., 18., 19. un 20.punktā minētās personas, kuras nav apguvušas speciālās zināšanas bērnu tiesību aizsardzības jomā, tās apgūst ne vēlāk kā līdz 2014.gada 31.decembrim.

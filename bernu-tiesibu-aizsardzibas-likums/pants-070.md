@@ -1,3 +1,3 @@
 70.pants. Bērna tiesību aizsardzības subjektu pienākumi
-(1) Visu bērna tiesību aizsardzības subjektu pienākums ir jebkurā gadījumā sniegt palīdzību bērnam, kuram tā nepieciešama.
+(1) Katra bērna tiesību aizsardzības subjekta pienākums ir jebkurā gadījumā sniegt palīdzību bērnam, kuram tā nepieciešama, izvērtējot konkrētā bērna vajadzības un attiecīgās situācijas apstākļus. Ja ir šaubas par personas nepilngadību, persona līdz tās vecuma noskaidrošanai tiek uzskatīta par nepilngadīgu un šai personai tiek nodrošināta attiecīga palīdzība.
 (2) Bērnam pašam un citām personām ir tiesības griezties pēc palīdzības bērna tiesību aizsardzības institūcijās un citās valsts un pašvaldību institūcijās, kuras veic likumā paredzētās darbības, ja bērna tēvs, māte vai cits viņa likumīgais pārstāvis, bērnu aprūpes, izglītības iestādes darbinieks pārkāpj bērna tiesības, izturas pret viņu cietsirdīgi vai kādā citā veidā neievēro bērna tiesības.

@@ -1,1 +1,3 @@
-Likumā iekļautas normas, kas izriet no Padomes 2004.gada 29.aprīļa direktīvas 2004/83/EK par obligātajiem standartiem, lai kvalificētu trešo valstu valstspiederīgos vai bezvalstniekus kā bēgļus vai kā personas, kam citādi nepieciešama starptautiska aizsardzība, šādu personu statusu un piešķirtās aizsardzības saturu.
+Likumā iekļautas tiesību normas, kas izriet no:
+1) Eiropas Parlamenta un Padomes 2011.gada 13.decembra direktīvas 2011/93/ES par seksuālas vardarbības pret bērniem, bērnu seksuālas izmantošanas un bērnu pornogrāfijas apkarošanu, un ar kuru aizstāj Padomes pamatlēmumu 2004/68/TI;
+2) Eiropas Parlamenta un Padomes 2011.gada 13.decembra direktīvas 2011/95/ES par standartiem, lai trešo valstu valstspiederīgos vai bezvalstniekus kvalificētu kā starptautiskās aizsardzības saņēmējus, par bēgļu vai personu, kas tiesīgas saņemt alternatīvo aizsardzību, vienotu statusu, un par piešķirtās aizsardzības saturu.

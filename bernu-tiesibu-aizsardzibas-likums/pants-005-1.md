@@ -19,5 +19,7 @@
 17) Valsts policijas amatpersonai, kura strādā ar bērniem;
 18) vispārējās izglītības, profesionālās izglītības un interešu izglītības pedagogam;
 19) Valsts probācijas dienesta darbiniekam;
+19¹) advokātam;
 20) jebkurai citai personai, ja ar tās pieņemtu pārvaldes lēmumu (it īpaši administratīvo aktu), faktisko rīcību vai cita veida darba vai dienesta pienākumu veikšanu tiek vai var tikt skartas bērna tiesības un tiesiskās intereses.
+(1¹) Lai šā panta pirmās daļas 6., 11., 14., 17. un 19.¹ punktā minētās personas apgūtu speciālās zināšanas bērnu tiesību aizsardzības jomā, tajā skaitā par saskarsmi ar nepilngadīgo kriminālprocesa laikā, Valsts bērnu tiesību aizsardzības inspekcija organizē mācības atbilstoši likumā par valsts budžetu kārtējam gadam piešķirtajiem līdzekļiem.
 (2) Kārtību, kādā apgūstamas speciālās zināšanas bērnu tiesību aizsardzības jomā, kā arī šo zināšanu saturu un apjomu nosaka Ministru kabinets.

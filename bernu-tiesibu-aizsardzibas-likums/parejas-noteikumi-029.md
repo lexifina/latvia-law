@@ -1,0 +1,1 @@
+29. Līdz 2014.gada 31.decembrim attiecīgi darba devējs, iestādes vadītājs un Izglītības kvalitātes valsts dienests nodrošina šā likuma 50.¹ panta trešajā daļā, 50.³ panta otrajā daļā un 72.panta piektajā daļā minēto personu atbilstību šā likuma 72.panta prasībām.

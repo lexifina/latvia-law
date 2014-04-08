@@ -1,0 +1,1 @@
+27. Šā likuma 5.¹ panta pirmās daļas 19.¹ punktā minētās personas, kuras nepārstāv vai neaizstāv nepilngadīgos kriminālprocesā, speciālās zināšanas bērnu tiesību aizsardzības jomā apgūst ne vēlāk kā līdz 2019.gada 31.decembrim.
