@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2014.gada 1.aprīļa noteikumi Nr.173 \"Noteikumi par kārtību, kādā apgūst speciālās zināšanas bērnu tiesību aizsardzības jomā, šo zināšanu saturu un apjomu\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "71 (5131)",
+  "official_journal_page": null,
+  "official_journal_date": "2014-04-09",
+  "entry_into_force": "2014-04-10",
+  "notification_date": "2014-06-27",
+  "commission_reference": "MNE(2014)53922",
+  "nim_celex": "72011L0093LVA_217897",
+  "nim_id": "217897",
+  "transposes_celex": [
+    "32011L0093"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/956dc3a9-fb7c-407c-818e-20c5b9f6dbe9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
