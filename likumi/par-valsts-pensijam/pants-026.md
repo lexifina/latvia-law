@@ -1,2 +1,7 @@
-26.pants. Valsts pensijas palielināšana atbilstoši patēriņa cenu indeksa izmaiņām
-Valsts pensijas apmērs pārskatāms reizi gadā 1.oktobrī, ņemot vērā faktisko patēriņa cenu indeksu. Ja indekss ir mazāks par skaitli "1", valsts pensijas pārskatītas netiek. Ministru kabinets nosaka valsts pensiju pārskatīšanas kārtību.
+26.pants. Valsts pensijas pārskatīšana
+(1) Valsts pensiju vai tās daļas apmēru, kas nepārsniedz 50 procentus no iepriekšējā kalendāra gada vidējās apdrošināšanas iemaksu algas valstī (noapaļotu līdz veseliem euro), pārskata reizi gadā 1.oktobrī, ņemot vērā faktisko patēriņa cenu indeksu un 25 procentus no apdrošināšanas iemaksu algu summas reālā pieauguma procentiem (turpmāk - iemaksu algas indekss), ievērojot šādus nosacījumus:
+1) ja kopējais faktisko patēriņa cenu indekss un iemaksu algas indekss ir mazāks par skaitli "1", valsts pensiju nepārskata;
+2) ja apdrošināšanas iemaksu algas reālā pieauguma procenti ir lielāki par 15 procentiem, iemaksu algas indeksa noteikšanai piemēro 15 procentus;
+3) ja pensijas pārskatīšanai kārtējā gadā aprēķinātais pensijas apmērs ir mazāks par iepriekšējā gadā pārskatīšanai noteikto pensijas apmēru, pensiju pārskata līdz iepriekšējā gadā noteiktajam pensijas apmēram.
+(2) Politiski represētajām personām, I grupas invalīdiem un Černobiļas atomelektrostacijas avārijas seku likvidēšanas dalībniekiem pensiju neatkarīgi no tās apmēra pārskata reizi gadā 1.oktobrī, ņemot vērā faktisko patēriņa cenu indeksu un iemaksu algu indeksu un ievērojot šā panta pirmajā daļā minētos nosacījumus.
+(3) Ministru kabinets nosaka valsts pensijas pārskatīšanā piemērojamā faktiskā patēriņa cenu indeksa un iemaksu algas indeksa noteikšanas kārtību, kā arī valsts pensijas pārskatīšanas kārtību.
