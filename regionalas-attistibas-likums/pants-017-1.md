@@ -2,7 +2,7 @@
 (1) Plānošanas reģionu finansēšanas avoti var būt šādi:
 1) valsts budžeta dotācijas plānošanas reģionu atbalstam un citas valsts budžeta dotācijas;
 2) pašu ieņēmumi, tai skaitā ieņēmumi no plānošanas reģiona sniegtajiem maksas pakalpojumiem;
-3) dotācija no pašvaldību budžetiem saskaņā ar pašvaldību un plānošanas reģiona noslēgtajiem līgumiem;
+3) pēc pašvaldības ieskatiem - dotācija no pašvaldības budžeta vai dotācija no pašvaldības budžeta saskaņā ar pašvaldības un plānošanas reģiona noslēgtajiem līgumiem;
 4) ārvalstu finanšu palīdzības līdzekļi;
 5) ziedojumi un dāvinājumi.
 (2) Valsts budžeta līdzekļu saņemšanai un no tiem veicamo izdevumu izdarīšanai plānošanas reģions atver norēķinu kontu Valsts kasē. Atbildīgā ministrija atbilstoši valsts budžeta apropriācijai ieskaita dotāciju norēķinu kontā. Gada beigās neizmantoto valsts budžeta dotāciju ieskaita valsts budžeta ieņēmumos, izņemot dotāciju Eiropas Savienības politiku instrumentu un pārējās ārvalstu finanšu palīdzības līdzfinansēto projektu un pasākumu īstenošanai. Gada beigās neizmantotā valsts budžeta dotācija Eiropas Savienības politiku instrumentu un pārējās ārvalstu finanšu palīdzības līdzfinansēto projektu un pasākumu īstenošanai paliek plānošanas reģiona rīcībā, un šo dotāciju plānošanas reģions var izlietot atbilstošiem mērķiem nākamajā saimnieciskajā gadā.

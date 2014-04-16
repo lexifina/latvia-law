@@ -1,0 +1,1 @@
+19. Ministru kabinets līdz 2014.gada 30.jūnijam izdod šā likuma 14.panta 5.punktā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2014.gada 30.jūnijam ir piemērojami Ministru kabineta 2010.gada 25.maija noteikumi Nr.482 "Noteikumi par teritorijas attīstības indeksa aprēķināšanas kārtību un tā vērtībām".

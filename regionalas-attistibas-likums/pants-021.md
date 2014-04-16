@@ -1,4 +1,5 @@
 21.pants. Reģionālās attīstības finansējuma piešķiršana
-(1) Reģionālās attīstības finansējumu piešķir reģionālās attīstības atbalsta pasākumiem, kas atbilst attīstības plānošanas dokumentos noteiktajiem galvenajiem pamatprincipiem, mērķiem un prioritātēm un šo pasākumu vadībai.
-(2) Reģionālās attīstības finansējumam, kas uzskatāms par komercdarbības atbalstu, piemēro Komercdarbības atbalsta kontroles likuma normas.
-(3) (Izslēgta ar 22.06.2006. likumu.)
+(1) Reģionālās attīstības finansējumu piešķir mērķteritorijām vai to daļām atbilstoši Reģionālās politikas pamatnostādnēs noteiktajiem reģionālās politikas mērķteritoriju atbalsta virzieniem.
+(2) Reģionālās attīstības finansējumu piešķir pašvaldību un plānošanas reģionu projektiem un programmām, kas atbilst reģionālā vai vietējā līmeņa teritorijas attīstības plānošanas dokumentos noteiktajiem mērķiem, prioritātēm, plānotajai rīcībai un investīcijām.
+(3) Publisko investīciju plānošanā individuālo pakalpojumu nodrošināšanai tiek piemērots Reģionālās politikas pamatnostādnēs noteiktais pakalpojumu teritoriālās diferenciācijas princips, kas paredz pakalpojumu apjoma noteikšanu dažādām apdzīvoto vietu grupām, kuras ietvertas Latvijas ilgtspējīgas attīstības stratēģijā, reģionālā vai vietējā līmeņa teritoriju attīstības plānošanas dokumentos.
+(4) Publiskās investīcijas attiecīgajās teritorijās nozaru politiku ietvaros tiek balstītas uz vietējā vai reģionālajā līmenī identificētajām attīstības iespējām un prioritātēm, kas pamatotas teritorijas attīstības plānošanas dokumentos, izņemot nacionālas nozīmes objektu izvietojuma plānošanu.

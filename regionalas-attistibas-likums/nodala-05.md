@@ -1,2 +1,2 @@
 V nodaļa
-Īpaši atbalstāmā teritorija
+Reģionālās politikas mērķteritorijas
