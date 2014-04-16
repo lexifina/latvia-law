@@ -1,0 +1,1 @@
+8. Šā likuma nosacījumi attiecībā uz pienākumu tehniskās apsardzes īstenošanā izmantot Ministru kabineta noteiktajām prasībām atbilstošu apsardzes vadības centru komersantam ir obligāti no 2017.gada 1.janvāra.

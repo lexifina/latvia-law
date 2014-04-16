@@ -1,0 +1,1 @@
+7. Līdz 2017.gada 1.jūlijam apsardzes sertifikātu izsniedz arī tādai fiziskajai personai, kura apguvusi apsardzes sertifikāta iegūšanai nepieciešamo profesionālās pilnveides programmu, kā arī pirmās palīdzības sniegšanas mācību kursu un nokārtojusi apsardzes darbības kvalifikācijas pārbaudījumu.

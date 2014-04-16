@@ -1,0 +1,1 @@
+11. Līdz dienai, kad stājas spēkā Ministru kabineta noteikumi, kas nosaka valsts nodevas apmērus speciālās atļaujas (licences) saņemšanai, par speciālo atļauju (licenci) fiziskajai apsardzei, tehniskajai apsardzei un inkasācijas apsardzei maksājama valsts nodeva, kāda ir noteikta par otrās kategorijas speciālās atļaujas (licences) saņemšanu.

@@ -1,0 +1,1 @@
+10. Līdz dienai, kad stājas spēkā Ministru kabineta noteikumi, kas nosaka valsts nodevas apmērus speciālās atļaujas (licences) saņemšanai, par speciālo atļauju (licenci) apsardzes tehnisko sistēmu ierīkošanai maksājama valsts nodeva, kāda ir noteikta par pirmās kategorijas speciālās atļaujas (licences) saņemšanu.

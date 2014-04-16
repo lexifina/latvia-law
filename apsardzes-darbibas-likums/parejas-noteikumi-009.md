@@ -1,0 +1,1 @@
+9. Komersanti, kuri saņēmuši speciālās atļaujas (licences) tehniskās apsardzes veikšanai, līdz 2016.gada 31.decembrim izveido Ministru kabineta noteiktajām prasībām atbilstošu apsardzes vadības centru vai nodod izsniegtās speciālās atļaujas (licences) Valsts policijai un izbeidz apsardzes pakalpojumu sniegšanu.
