@@ -1,0 +1,1 @@
+19. Fondēto pensiju shēmas līdzekļu pārvaldītāji nodrošina, ka ar 2015.gada 1.janvāri ieguldījumu plānu noteikumi atbilst šā likuma 11.panta 5.³ daļā minētajām prasībām, kas nosaka maksimālo apmēru maksājumiem par ieguldījumu plāna pārvaldi.

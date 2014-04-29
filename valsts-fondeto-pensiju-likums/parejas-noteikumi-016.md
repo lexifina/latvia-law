@@ -1,0 +1,1 @@
+16. Uz ieguldījumiem, kas veikti līdz Alternatīvo ieguldījumu fondu pārvaldnieku likuma spēkā stāšanās dienai, bet kuri atbilstoši minētā likuma izpratnei uzskatāmi par alternatīvo ieguldījumu fondu, ir attiecināmi šajā likumā alternatīvo ieguldījumu fondiem noteiktie ierobežojumi.
