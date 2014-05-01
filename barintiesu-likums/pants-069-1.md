@@ -1,0 +1,2 @@
+69.¹ pants. Ziņu iesniegšana publisko testamentu reģistrā
+Bāriņtiesa saskaņā ar publisko testamentu reģistra darbību regulējošajiem normatīvajiem aktiem iesniedz publisko testamentu reģistrā ziņas par testamentu apliecināšanu un pieņemšanu glabāšanā, šādu testamentu atsaukšanu, grozīšanu un papildināšanu, kā arī par tādu darījumu apliecināšanu, grozīšanu un atcelšanu, kuri satur rīkojumus nāves gadījumam.

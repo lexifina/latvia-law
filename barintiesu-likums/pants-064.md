@@ -8,3 +8,4 @@
 5) ka darījuma dalībnieki ir rīcībspējīgi.
 (3) Apliecinājuma uzrakstu paraksta bāriņtiesas priekšsēdētājs, bāriņtiesas priekšsēdētāja vietnieks vai bāriņtiesas loceklis. Zem uzraksta uzspiež bāriņtiesas zīmogu.
 (4) Apliecinātā darījuma akta viens eksemplārs glabājas bāriņtiesas lietā. Darījuma aktu ieraksta reģistrā.
+(5) Bāriņtiesa, kuras rīcībā ir darījuma akts, kas satur rīkojumu nāves gadījumam, izsniedz tā izrakstu pēc pieprasījuma tam zvērinātam notāram, kurš ved attiecīgo mantojuma lietu.
