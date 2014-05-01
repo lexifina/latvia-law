@@ -9,6 +9,7 @@
 7) pēc zvērināta notāra vai klienta lūguma nosaka atlīdzības apmēru par zvērināta notāra darbībām gadījumos, kad par to takse nav paredzēta vai par to radušās domstarpības;
 8) izveido zvērinātu notāru amata darbību iekšējās kontroles pastāvīgu komisiju un nosaka tās darbības kārtību;
 9) Ministru kabineta noteiktajā kārtībā reizi pusgadā sniedz tieslietu ministram pārskatu par zvērinātu notāru veiktajām darbībām;
+9¹) izsniedz ziņas no mantojumu reģistra un publisko testamentu reģistra;
 10) uztur Notāru informācijas sistēmu, tai skaitā nodrošina šajā likumā noteikto reģistru darbību, izmanto sistēmas un reģistru datus šajā likumā noteikto Latvijas Zvērinātu notāru padomes pienākumu veikšanai;
 11) Ministru kabineta noteiktajā kārtībā izsniedz ziņas par nākotnes pilnvarojumiem;
 12) veic citus pienākumus, kas noteikti normatīvajos aktos vai ko uzdevusi Latvijas Zvērinātu notāru kolēģija.

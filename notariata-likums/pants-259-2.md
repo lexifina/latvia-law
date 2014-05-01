@@ -1,0 +1,1 @@
+259.² Zvērināts notārs, kura rīcībā ir kāds no šā likuma 249.² pantā minētajiem pēdējās gribas rīkojuma aktiem, izsniedz to pēc pieprasījuma tam zvērinātam notāram, kurš ved attiecīgo mantojuma lietu.
