@@ -1,5 +1,6 @@
 7.pants. Nodokļa aprēķināšanas un maksāšanas kārtība
 (1) Nodokļa maksātājs veic elektroenerģijas ražošanas, sadales, piegādes un citu darbību uzskaiti.
+(1¹) Šā likuma 4.panta 3.punktā minētā persona veic iegādātās elektroenerģijas uzskaiti.
 (2) Nodokļa taksācijas periods ir viens kalendāra mēnesis.
 (3) Nodokļa maksātājs taksācijas periodā aprēķināto nodokli par elektroenerģiju, kas šajā periodā piegādāta galalietotājiem, samaksā valsts budžetā 25 dienu laikā pēc taksācijas perioda beigām. Aprēķinot nodokli, nodokļa maksātājs no galapatērētājam piegādātās elektroenerģijas daudzuma atskaita elektroenerģijas daudzumu, kas ir atbrīvots no nodokļa saskaņā ar šā likuma 6.panta pirmo daļu.
 (4) Autonomais ražotājs, kurš neatbilst šā likuma 2.panta trešajā daļā minētajiem kritērijiem, aprēķināto nodokli par taksācijas periodā saražoto elektroenerģiju samaksā valsts budžetā 25 dienu laikā pēc taksācijas perioda beigām.

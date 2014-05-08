@@ -2,7 +2,7 @@
 (1) No nodokļa ir atbrīvota elektroenerģija, kas iegūta:
 1) no atjaunojamiem energoresursiem;
 2) hidroelektrostacijās;
-3) koģenerācijas elektrostacijās, kas atbilst normatīvajos aktos par elektroenerģijas ražošanu koģenerācijas procesā noteiktajiem efektivitātes kritērijiem.
+3) koģenerācijas stacijās, kas atbilst normatīvajos aktos par elektroenerģijas ražošanu koģenerācijas procesā noteiktajiem efektivitātes kritērijiem.
 (2) No nodokļa ir atbrīvota elektroenerģija, ko izmanto:
 1) elektroenerģijas ražošanai;
 2) siltumenerģijas un elektroenerģijas ražošanai koģenerācijā;
