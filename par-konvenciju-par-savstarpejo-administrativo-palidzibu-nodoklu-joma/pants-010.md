@@ -1,0 +1,1 @@
+10.pants. Saskaņā ar Konvencijas 30.panta pirmās daļas "d" punktu Latvijas Republika patur tiesības nesniegt palīdzību dokumentu izsniegšanā attiecībā uz nodokļiem, attiecībā uz kuriem saskaņā ar Konvencijas 30.panta pirmās daļas "a" punktu ir noteikta atruna.

@@ -1,0 +1,1 @@
+1.pants. Ar 2010.gada 27.maija Protokolu grozītā 1988.gada 25.janvārī Strasbūrā sastādītā Konvencija par savstarpējo administratīvo palīdzību nodokļu jomā (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.

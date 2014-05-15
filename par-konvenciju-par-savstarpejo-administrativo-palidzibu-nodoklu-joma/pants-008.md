@@ -1,0 +1,1 @@
+8.pants. Saskaņā ar Konvencijas 30.panta pirmās daļas "b" punktu Latvijas Republika patur tiesības nesniegt palīdzību nodokļu prasījumu vai administratīvo sodu piedziņā attiecībā uz visiem nodokļiem, attiecībā uz kuriem Latvijas Republika ir noteikusi atrunu saskaņā ar Konvencijas 30.panta pirmās daļas "a" punktu.

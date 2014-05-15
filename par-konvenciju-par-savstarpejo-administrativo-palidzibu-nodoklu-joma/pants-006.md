@@ -1,0 +1,1 @@
+6.pants. Latvijas Republika nepiemēro Konvencijas 21.panta trešo un ceturto daļu attiecībā uz Konvencijas dalībvalstīm, kuras tai pievienojušās līdz 2011.gada 1.jūnijam un nav ratificējušas 2010.gada 27. maija Protokolu par grozījumiem Konvencijā.

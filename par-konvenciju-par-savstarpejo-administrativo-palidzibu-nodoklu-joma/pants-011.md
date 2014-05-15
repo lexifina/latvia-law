@@ -1,0 +1,1 @@
+11.pants. Saskaņā ar Konvencijas 30.panta pirmās daļas "f" punktu Latvijas Republika patur tiesības piemērot 28.panta septīto daļu, tikai lai sniegtu administratīvo palīdzību attiecībā uz taksācijas periodu, kas sākās 1.janvārī vai pēc 1.janvāra trešajā gadā pirms gada, kurā attiecībā uz Latvijas Republiku stājās spēkā ar 2010.gada 27.maija Protokolu grozītā Konvencija.
