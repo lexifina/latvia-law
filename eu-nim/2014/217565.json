@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "LV izmantotās regulatīvās iespējas, transponējot Direktīvu 2011/83/ES par patērētāju tiesībām (29.pants)",
+  "type_of_act": "Administrative measures",
+  "official_journal": "Administrative measures",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2014-05-20",
+  "entry_into_force": "2014-05-20",
+  "notification_date": null,
+  "commission_reference": "MNE(2014)53651",
+  "nim_celex": "72011L0083LVA_217565",
+  "nim_id": "217565",
+  "transposes_celex": [
+    "32011L0083"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/19e15296-9929-4d08-ad77-cd42ee266c32",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
