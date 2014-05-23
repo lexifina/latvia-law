@@ -5,4 +5,4 @@
 3) ļaut apzināt un dot iespēju novērtēt atsevišķu personu sadarbību ar VDK;
 4) dot iespēju uzsākt kriminālvajāšanu pret personām, kuras, sadarbojoties ar VDK, izdarījušas noziegumus;
 5) radīt iespēju politiski, juridiski un morāli reabilitēt personas, kuras VDK represējusi, vajājusi un izspiegojusi;
-6) dot iespēju politiski, vēsturiski un juridiski izpētīt un izvērtēt materiālo un morālo kaitējumu, ko VDK nodarījusi Latvijas valstij un tās iedzīvotājiem.
+6) dot iespēju zinātniski, vēsturiski un juridiski izpētīt un izvērtēt materiālo un morālo kaitējumu, ko VDK nodarījusi Latvijas valstij un tās iedzīvotājiem.

@@ -1,0 +1,1 @@
+8. Šā likuma 18.panta 1.² daļā minētā VDK dokumentu zinātniskā izpēte veicama līdz 2018.gada 31.maijam. Ministru kabinets līdz 2015.gada 1.janvārim izveido šā likuma 18.panta 1.² daļā minēto komisiju.

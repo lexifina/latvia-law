@@ -1,4 +1,4 @@
 8. pants. VDK darbinieku un informatoru pienākums sniegt paskaidrojumus
 (1) Totalitārisma seku dokumentēšanas centra pilnvarotām amatpersonām ir tiesības prasīt bijušajiem VDK darbiniekiem un informatoriem, lai viņi sniedz paskaidrojumus par savu darbību VDK un par vispārējo VDK darbību, struktūru, darbiniekiem un informatoriem. Šīm personām ir tiesības neliecināt pret sevi, ja šie paskaidrojumi var izraisīt tām nelabvēlīgas krimināltiesiskas sekas.
 (2) Personas, kuras atsakās sniegt paskaidrojumus vai sniedz apzināti nepatiesus paskaidrojumus, saucamas pie likumā noteiktās atbildības.
-(3) VDK darbinieku un informatoru paskaidrojumi ir pastāvīgi glabājami dokumenti, kurus aizliegts iznīcināt. Līdz nodošanai Valsts arhīva glabāšanā paskaidrojumi glabājas Totalitārisma seku dokumentēšanas centrā.
+(3) VDK darbinieku un informatoru paskaidrojumi ir pastāvīgi glabājami dokumenti, kurus aizliegts iznīcināt. Līdz nodošanai Latvijas Nacionālā arhīva glabāšanā paskaidrojumi glabājas Totalitārisma seku dokumentēšanas centrā.

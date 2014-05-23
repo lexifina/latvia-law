@@ -1,0 +1,1 @@
+9. Šā likuma 18.panta otrajā daļā minētos noteikumus Ministru kabinets izdod līdz 2018.gada 31.oktobrim. Līdz šo noteikumu spēkā stāšanās dienai ir piemērojami Ministru kabineta 1995.gada 13.jūnija noteikumi Nr.151 "Noteikumi par Totalitārisma seku dokumentēšanas centra rīcībā esošo Valsts drošības komitejas dokumentu izmantošanas kārtību", ciktāl tie nav pretrunā ar šo likumu.
