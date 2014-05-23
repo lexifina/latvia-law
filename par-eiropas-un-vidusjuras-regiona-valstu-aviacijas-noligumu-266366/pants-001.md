@@ -1,0 +1,1 @@
+1.pants. 2013.gada 10.jūnijā parakstītais Eiropas un Vidusjūras reģiona valstu aviācijas nolīgums starp Eiropas Savienību un tās dalībvalstīm, no vienas puses, un Izraēlas Valsts valdību, no otras puses (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.
