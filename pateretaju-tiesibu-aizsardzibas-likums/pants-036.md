@@ -1,3 +1,0 @@
-36.pants. Zaudējumu atlīdzināšana sakarā ar nepamatotu uzraudzības un kontroles iestāžu rīcību
-(1) Ja noskaidrots, ka prece nepamatoti konfiscēta, nepamatoti apturēta tās ražošana, piedāvāšana vai pārdošana, nepamatoti noteikts preces ražošanas, piedāvāšanas un pārdošanas vai pakalpojuma sniegšanas aizliegums vai konstatēti citi uzraudzības un kontroles iestāžu pilnvaru pārkāpumi, kuru rezultātā ražotājam, pārdevējam vai pakalpojuma sniedzējam radušies zaudējumi, ražotājam, pārdevējam vai pakalpojuma sniedzējam ir tiesības likumā noteiktajā kārtībā celt tiesā prasību par zaudējumu un negūtās peļņas atlīdzināšanu.
-(2) (Izslēgta ar 16.04.2003. likumu.)

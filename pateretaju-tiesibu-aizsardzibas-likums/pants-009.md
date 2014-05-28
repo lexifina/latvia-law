@@ -6,4 +6,4 @@
 2) apliecību, kurā ir fotogrāfija, kā arī norādīts amats, pārdevēja nosaukums (firma), pārdevēja reģistrācijas numurs Uzņēmumu reģistrā vai Valsts ieņēmumu dienesta Nodokļu maksātāju reģistrā un juridiskā adrese;
 3) pilnvarojuma līgumu (ja tāds ir nepieciešams);
 4) apliecību par pārdevēja vai pakalpojuma sniedzēja reģistrāciju Uzņēmumu reģistrā vai tās kopiju vai Valsts ieņēmumu dienesta nodokļu maksātāju reģistrācijas apliecību vai tās kopiju.
-(4) Ražotājs vai pārdevējs, kas realizē preces, izmantojot tirdzniecības automātus, uz tirdzniecības automāta norāda ražotāja vai pārdevēja nosaukumu (firmu), reģistrācijas numuru Uzņēmumu reģistrā vai Valsts ieņēmumu dienesta Nodokļu maksātāju reģistrā un juridisko adresi.
+(4) Pārdevējs, kas realizē preces, izmantojot tirdzniecības automātus, uz tirdzniecības automāta norāda pārdevēja nosaukumu (firmu), reģistrācijas numuru Uzņēmumu reģistrā vai Valsts ieņēmumu dienesta Nodokļu maksātāju reģistrā un juridisko adresi.
