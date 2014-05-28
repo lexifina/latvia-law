@@ -1,4 +1,4 @@
-147.pants. Komisijas pienākums sniegt informāciju Eiropas Komisijai un Eiropas Vērtspapīru un tirgu iestādei
+147.pants. Komisijas pienākums sniegt informāciju Eiropas Komisijai, Eiropas Vērtspapīru un tirgu iestādei un Eiropas Banku iestādei
 (1) Komisija informē Eiropas Komisiju par:
 1) licences izsniegšanu ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšanai tādai ieguldījumu brokeru sabiedrībai, kura ir ārvalstī reģistrētas sabiedrības meitas sabiedrība;
 2) gadījumiem, kad, iegūstot būtisku līdzdalību, Latvijas Republikā reģistrēta ieguldījumu brokeru sabiedrība kļūst par ārvalstī reģistrētas sabiedrības meitas sabiedrību;
@@ -15,3 +15,5 @@
 2) informācijas apmaiņas līgumiem, ko Komisija noslēgusi ar ārvalstu finanšu instrumentu tirgus uzraudzības institūcijām, citām institūcijām, iestādēm vai juridiskajām personām;
 3) ierobežojošiem pasākumiem un sankcijām, kuras Komisija par šā likuma normu pārkāpumiem ir piemērojusi tirgus dalībniekiem. Ja Komisija publisko informāciju par tirgus dalībniekam piemērotu ierobežojošu pasākumu vai sankciju, tā nekavējoties informē par to Eiropas Vērtspapīru un tirgu iestādi. Reizi gadā Komisija nosūta šai iestādei apkopojumu par visiem tirgus dalībniekiem gada laikā piemērotajiem ierobežojošajiem pasākumiem un sankcijām.
 (6) Komisijai ir tiesības informēt Eiropas Vērtspapīru un tirgu iestādi par gadījumiem, kad citas dalībvalsts uzraudzības iestāde nesniedz informāciju pēc motivēta Komisijas pieprasījuma vai nesniedz informāciju atbilstošā (saprātīgā) termiņā, vai, neraugoties uz Komisijas pieprasījumu, atsaka Komisijai iespēju šīs dalībvalsts teritorijā veikt pārbaudi vai pārbaudē piedalīties Komisijas pilnvarotiem pārstāvjiem, vai neatbild uz šādu pieprasījumu atbilstošā (saprātīgā) termiņā.
+(7) Komisija informē Eiropas Banku iestādi par lēmumiem, kas pieņemti sakarā ar šā likuma 148.panta piecpadsmitajā daļā minētajiem pārkāpumiem, un to pārsūdzības procesa gaitu.
+(8) Komisija informē Eiropas Komisiju, Eiropas Banku iestādi un Eiropas Vērtspapīru un tirgu iestādi par normatīvajiem aktiem, kas reglamentē ieguldījumu brokeru sabiedrību dibināšanu un darbību Latvijas Republikā.

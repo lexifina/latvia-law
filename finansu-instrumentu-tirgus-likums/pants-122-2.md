@@ -1,0 +1,6 @@
+122.² pants. Atveseļošanas plāna un noregulējuma plāna izstrāde
+(1) Ieguldījumu brokeru sabiedrība izstrādā, uztur un atjauno tās atveseļošanas plānu finanšu stabilitātes atjaunošanai pēc būtiskas tās pasliktināšanās.
+(2) Komisija izstrādā ieguldījumu brokeru sabiedrību noregulējuma plānus to darbības nepārtrauktības nodrošināšanai un finanšu sektora stabilitātes saglabāšanai.
+(3) Komisija nosaka prasības attiecībā uz šā panta pirmajā daļā minētā plāna saturu un izstrādes kārtību.
+(4) Komisija var noteikt pazeminātas prasības šā panta pirmajā daļā minētā atveseļošanas plāna izstrādei vai var neizstrādāt šā panta otrajā daļā minēto ieguldījumu brokeru sabiedrības noregulējuma plānu, ja pēc konsultācijas ar Latvijas Banku ir secinājusi, ka ieguldījumu brokeru sabiedrības maksātnespēja, ņemot vērā šīs ieguldījumu brokeru sabiedrības lielumu, komercdarbības modeli, sasaisti ar citām ieguldījumu brokeru sabiedrībām un finanšu sistēmu vai citus apstākļus, nevar apdraudēt finanšu tirgu un citu ieguldījumu brokeru sabiedrību stabilitāti vai finansēšanas nosacījumus.
+(5) Komisija savlaicīgi paziņo Eiropas Banku iestādei tās rīkoto ar ieguldījumu brokeru sabiedrību atveseļošanas un noregulējuma plānu izstrādi saistīto sanāksmju norises laiku un darba kārtību.

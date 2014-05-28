@@ -1,0 +1,1 @@
+49. Šā likuma 1.panta 28.punkta "c" apakšpunktā minētos citus uzkrātos ienākumus, kas uzrādīti visaptverošo ienākumu pārskatā, iekļauj sākotnējā kapitālā no 2015.gada 1.janvāra saskaņā ar Komisijas noteiktiem pārejas perioda nosacījumiem.

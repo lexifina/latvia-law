@@ -6,7 +6,8 @@
 3) Komisijas 2006.gada 10.augusta regula (EK) Nr. 1287/2006, ar ko īsteno Eiropas Parlamenta un Padomes direktīvu 2004/39/EK attiecībā uz ieguldījumu sabiedrību pienākumu vest uzskaiti, darījumu pārskatu sniegšanu, tirgus pārskatāmību, finanšu instrumentu pielaidi tirdzniecībai un šajā direktīvā definētajiem terminiem (turpmāk - Eiropas Komisijas regula Nr. 1287/2006);
 4) Eiropas Parlamenta un Padomes 2009.gada 16.septembra regula (EK) Nr. 1060/2009 par kredītreitingu aģentūrām (turpmāk - Regula Nr. 1060/2009);
 5) Eiropas Parlamenta un Padomes 2012.gada 14.marta regula (EK) Nr. 236/2012 par īso pārdošanu un dažiem kredītriska mijmaiņas darījumu aspektiem (turpmāk - Regula Nr. 236/2012);
-6) Eiropas Parlamenta un Padomes 2012.gada 4.jūlija regula (EK) Nr. 648/2012 par ārpusbiržas atvasinātajiem instrumentiem, centrālajiem darījumu partneriem un darījumu reģistriem (turpmāk - Regula Nr. 648/2012).
+6) Eiropas Parlamenta un Padomes 2012.gada 4.jūlija regula (EK) Nr. 648/2012 par ārpusbiržas atvasinātajiem instrumentiem, centrālajiem darījumu partneriem un darījumu reģistriem (turpmāk - Regula Nr. 648/2012);
+7) Regula Nr. 575/2013.
 (2) Šis likums attiecas uz šādiem finanšu instrumentiem:
 1) pārvedamiem vērtspapīriem;
 2) ieguldījumu fondu un alternatīvo ieguldījumu fondu ieguldījumu apliecībām un citiem pārvedamiem vērtspapīriem, kas apliecina līdzdalību šādos fondos vai tiem pielīdzināmos kopējo ieguldījumu uzņēmumos;
@@ -43,6 +44,7 @@ i) valūtas tirdzniecības darījumiem, kuriem piemīt šā punkta "a" vai "f" a
 6) (izslēgts ar 29.03.2007. likumu);
 7) ieguldījumu pētījuma, finanšu analīzes vai citas vispārējas rekomendācijas sniegšana attiecībā uz darījumiem ar finanšu instrumentiem;
 8) šā panta ceturtajā daļā minēto ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšana attiecībā uz šā panta otrās daļas 4.punkta "b", "c", "d", "g" un "h" apakšpunktā minēto atvasināto instrumentu bāzes aktīvu, ja tas saistīts ar ieguldījumu pakalpojumu sniegšanu.
+(5¹) Netirdzniecības portfeļa finanšu instrumentu pozīciju turēšana, lai ieguldītu kredītiestādes vai brokeru sabiedrības pašu kapitālu, nav uzskatāma par darījumu ar finanšu instrumentiem izpildi uz kredītiestādes vai brokeru sabiedrības rēķina.
 (6) Šis likums neierobežo citos likumos noteiktās patērētāju tiesības.
 (7) Šā likuma C sadaļas noteikumi neattiecas uz:
 1) ieguldījumu fondu un atvērto alternatīvo ieguldījumu fondu ieguldījumu apliecībām vai tām pielīdzināmiem vērtspapīriem, kas apliecina līdzdalību šādos fondos vai tiem pielīdzināmos kopējo ieguldījumu uzņēmumos;

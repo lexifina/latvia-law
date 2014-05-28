@@ -1,12 +1,12 @@
 1.pants. Likumā lietotie termini
-Likumā ir lietoti šādi termini:
+(1) Likumā ir lietoti šādi termini:
 1) finanšu instrumenti - vienošanās, kas vienlaikus vienai personai rada finanšu aktīvus, bet citai personai - finanšu saistības vai kapitāla vērtspapīrus;
 2) kategorija - viena veida finanšu instrumenti, kuros nostiprinātas viena un tā paša veida tiesības ar vienādiem šo tiesību īstenošanas noteikumiem;
 3) ieguldījumu brokeru sabiedrība - kapitālsabiedrība, kas regulāri un profesionāli sniedz ieguldījumu pakalpojumus;
 4) (izslēgts ar 04.10.2007. likumu);
 5) dalībvalsts - Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts;
 6) izcelsmes dalībvalsts - dalībvalsts, ko nosaka saskaņā ar šā likuma 3.¹ panta prasībām;
-7) dalībvalsts uzraudzības institūcija - institūcija, kurai dalībvalsts deleģējusi ieguldījumu pakalpojumu sniegšanas uzraudzības funkciju, neatkarīgi no tā, vai šī institūcija izveidota uz likuma pamata vai arī šīs funkcijas veikšanu tai deleģējusi valsts pārvaldes iestāde, ja par šo institūciju un tās tiesībām un pienākumiem attiecīgā dalībvalsts paziņojusi Eiropas Savienības Komisijai;
+7) dalībvalsts uzraudzības institūcija - institūcija, kurai dalībvalsts deleģējusi ieguldījumu pakalpojumu sniegšanas uzraudzības funkciju, neatkarīgi no tā, vai šī institūcija izveidota uz likuma pamata vai arī šīs funkcijas veikšanu tai deleģējusi valsts pārvaldes iestāde, ja par šo institūciju un tās tiesībām un pienākumiem attiecīgā dalībvalsts paziņojusi Eiropas Komisijai;
 8) regulētais tirgus - organizatorisku, juridisku un tehnisku pasākumu kopums, kas padara iespējamu atklātu un regulāru finanšu instrumentu darījumu slēgšanu;
 9) regulētā tirgus organizētājs - kapitālsabiedrība, kas organizē regulēto tirgu;
 10) oficiālais saraksts - tāds regulētais tirgus, kuram tirgus organizētājs noteicis visaugstākās prasības salīdzinājumā ar citiem tā organizētajiem regulētajiem tirgiem un kura darbība notiek saskaņā ar šajā likumā tam noteiktajām minimālajām prasībām;
@@ -25,27 +25,27 @@ a) šai personai komercsabiedrībā ir izšķirošā ietekme uz līdzdalības pa
 b) šai personai komercsabiedrībā ir izšķirošā ietekme uz koncerna līguma pamata,
 c) starp šo personu un komercsabiedrību pastāv jebkādas citas šā punkta "a" vai "b" apakšpunktā minētajām attiecībām analogas attiecības;
 21¹) nozīmīga līdzdalība - tieši vai netieši iegūta līdzdalība, kas aptver piecus un vairāk procentus no emitenta balsstiesīgā kapitāla;
-22) mātes sabiedrība - komercsabiedrība, kura kontrolē citu komercsabiedrību;
-23) meitas sabiedrība - komercsabiedrība, kuru kontrolē cita komercsabiedrība;
-24) finanšu iestāde - komercsabiedrība, kas nodibināta, lai sniegtu vienu vai vairākus finanšu pakalpojumus (izņemot noguldījumu un citu atmaksājamo līdzekļu piesaistīšanu) vai lai iegūtu līdzdalību citu komercsabiedrību pamatkapitālā;
-25) finanšu pārvaldītājsabiedrība - finanšu iestāde, kura nav jaukta finanšu pārvaldītājsabiedrība un kuras meitas sabiedrības ir vienīgi vai galvenokārt (ieguldījumu brokeru sabiedrības un citu finanšu iestāžu aktīvu vai ienākumu kopsumma pēdējā apstiprinātajā gada pārskatā veido vairāk par pusi no visu finanšu pārvaldītājsabiedrības kontrolēto meitas sabiedrību aktīvu vai ienākumu kopsummas) ieguldījumu brokeru sabiedrības vai citas finanšu iestādes, turklāt vismaz viena no tām ir ieguldījumu brokeru sabiedrība;
-26) jaukta pārvaldītājsabiedrība - mātes sabiedrība, kura nav finanšu pārvaldītājsabiedrība, ieguldījumu brokeru sabiedrība, kredītiestāde vai jaukta finanšu pārvaldītājsabiedrība un starp kuras meitas sabiedrībām ir vismaz viena ieguldījumu brokeru sabiedrība;
-26¹) dalībvalsts mātes ieguldījumu brokeru sabiedrība - dalībvalstī reģistrēta ieguldījumu brokeru sabiedrība, kurai ir meitas sabiedrība - ieguldījumu brokeru sabiedrība, cita finanšu iestāde vai kredītiestāde - vai kurai ir dalība ieguldījumu brokeru sabiedrībā, citā finanšu iestādē vai kredītiestādē, bet kura pati nav citas šajā dalībvalstī licencētas ieguldījumu brokeru sabiedrības vai kredītiestādes meitas sabiedrība vai šajā dalībvalstī reģistrētas finanšu pārvaldītājsabiedrības meitas sabiedrība;
-26²) dalībvalsts mātes finanšu pārvaldītājsabiedrība - dalībvalstī reģistrēta finanšu pārvaldītājsabiedrība, kura nav šajā dalībvalstī licencētas ieguldījumu brokeru sabiedrības vai kredītiestādes meitas sabiedrība vai citas šajā dalībvalstī reģistrētas finanšu pārvaldītājsabiedrības meitas sabiedrība;
-26³) Eiropas Savienības mātes ieguldījumu brokeru sabiedrība - dalībvalsts mātes ieguldījumu brokeru sabiedrība, kas nav jebkurā citā dalībvalstī licencētas ieguldījumu brokeru sabiedrības vai kredītiestādes meitas sabiedrība vai jebkurā dalībvalstī reģistrētas finanšu pārvaldītājsabiedrības meitas sabiedrība;
-26⁴) Eiropas Savienības mātes finanšu pārvaldītājsabiedrība - dalībvalsts mātes finanšu pārvaldītājsabiedrība, kas nav jebkurā dalībvalstī licencētas ieguldījumu brokeru sabiedrības vai kredītiestādes meitas sabiedrība vai citas jebkurā dalībvalstī reģistrētas finanšu pārvaldītājsabiedrības meitas sabiedrība;
+22) (izslēgts ar 24.04.2014. likumu);
+23) (izslēgts ar 24.04.2014. likumu);
+24) (izslēgts ar 24.04.2014. likumu);
+25) (izslēgts ar 24.04.2014. likumu);
+26) (izslēgts ar 24.04.2014. likumu);
+26¹) (izslēgts ar 24.04.2014. likumu);
+26²) (izslēgts ar 24.04.2014. likumu);
+26³) Eiropas Savienības mātes ieguldījumu brokeru sabiedrība - ieguldījumu brokeru sabiedrība, kas ir Eiropas Savienības mātes iestāde Eiropas Parlamenta un Padomes 2013.gada 26.jūnija regulas (ES) Nr. 575/2013 par prudenciālajām prasībām attiecībā uz kredītiestādēm un ieguldījumu brokeru sabiedrībām, un ar ko groza regulu (ES) Nr. 648/2012 (turpmāk - Regula Nr. 575/2013) 4.panta 1.punkta 29.apakšpunkta izpratnē;
+26⁴) (izslēgts ar 24.04.2014. likumu);
 26⁵) Latvijas Republikas mātes ieguldījumu brokeru sabiedrība - Latvijas Republikā reģistrēta ieguldījumu brokeru sabiedrība, kurai ir meitas sabiedrība - ieguldījumu brokeru sabiedrība, cita finanšu iestāde vai kredītiestāde - vai kurai ir dalība ieguldījumu brokeru sabiedrībā, citā finanšu iestādē vai kredītiestādē, bet kura pati nav citas Latvijas Republikā reģistrētas licencētas ieguldījumu brokeru sabiedrības vai kredītiestādes meitas sabiedrība vai Latvijas Republikā reģistrētas finanšu pārvaldītājsabiedrības meitas sabiedrība;
 26⁶) Latvijas Republikas mātes finanšu pārvaldītājsabiedrība - Latvijas Republikā reģistrēta finanšu pārvaldītājsabiedrība, kura nav Latvijas Republikā reģistrētas ieguldījumu brokeru sabiedrības vai kredītiestādes meitas sabiedrība vai citas Latvijas Republikā reģistrētas finanšu pārvaldītājsabiedrības meitas sabiedrība;
 27) ciešas attiecības - divu vai vairāku personu savstarpēja saistība:
 a) dalības veidā - personai tiešā vai kontroles veidā ir 20 vai vairāk procentu balsstiesību komercsabiedrībā vai persona tiešā vai kontroles veidā ieguvusi līdzdalību, kas aptver 20 vai vairāk procentus no komercsabiedrības pamatkapitāla,
 b) kontroles veidā,
 c) ja tās ir saistītas ar vienu un to pašu personu kontroles veidā;
-28) sākotnējais kapitāls - kapitāls, kuru veido:
-a) apmaksātais akciju vai daļu kapitāls (pamatkapitāls), kas samazināts par priekšrocību akciju ar dividenžu uzkrāšanu vērtību,
-b) akciju (daļu) emisijas uzcenojums,
-c) rezerves (izņemot pārvērtēšanas rezervi),
-d) iepriekšējo gadu nesadalītā peļņa vai zaudējumi,
-e) kārtējā darbības gada peļņa, ja ir zvērināta revidenta vai zvērinātu revidentu komercsabiedrības (turpmāk - zvērināts revidents) ziņojums par peļņas esamību un tā aprēķināta, ņemot vērā visus nepieciešamos uzkrājumus aktīvu vērtības samazinājumam, paredzamajiem nodokļu maksājumiem un dividendēm, un ja Finanšu un kapitāla tirgus komisija ir piekritusi kārtējās darbības gada peļņas iekļaušanai sākotnējā kapitālā;
+28) sākotnējais kapitāls - kapitāls, kuru veido viens vai vairāki šādi elementi, kas atbilst Regulas Nr. 575/2013 prasībām attiecībā uz pirmā līmeņa pamata kapitāla elementiem:
+a) akcijas, kā arī citi kapitāla instrumenti un to emisijas uzcenojums,
+b) iepriekšējo gadu nesadalītā peļņa vai zaudējumi,
+c) citi uzkrātie ienākumi, kas uzrādīti visaptverošo ienākumu pārskatā,
+d) pārējās rezerves,
+e) kārtējā darbības gada peļņa;
 29) sākotnējais reģistrs - saraksts, kurā iekļautas personas, kurām pieder viena vai vairāku emitentu emitētie finanšu instrumenti un kuras finanšu instrumentus ieguvušas sākotnējās izvietošanas rezultātā vai pēc finanšu instrumentu laišanas publiskajā apgrozībā sev piederošo finanšu instrumentu uzskaiti nav pārvietojušas no sākotnējā reģistra uz sev piederošo finanšu instrumentu kontu;
 30) kapitāla vērtspapīri - akcijas un tām pielīdzināmi pārvedami vērtspapīri, kas nodrošina līdzdalību kapitālsabiedrības kapitālā, kā arī jebkura cita veida vērtspapīri, kas to konvertēšanas vai ar tiem piešķirto tiesību izmantošanas rezultātā dod tiesības iegūt jebkurus iepriekš minētos vērtspapīrus ar nosacījumu, ka šos vērtspapīrus emitējis to akciju emitents, uz ko tie attiecas, vai kapitālsabiedrība, kas ietilpst minētā emitenta uzņēmumu grupā;
 31) depozitārie sertifikāti - pārvedami vērtspapīri, kas emitēti, lai aizstātu citā valstī reģistrēta emitenta finanšu instrumentus, un dod tā ieguvējam tiesības izmantot aizstātajos finanšu instrumentos nostiprinātās tiesības;
@@ -78,7 +78,7 @@ d) personai ir kontrole pār komercsabiedrību, un šī persona to faktiski izma
 48) elektroniskie līdzekļi - elektroniskais aprīkojums datu apstrādei, uzglabāšanai un pārraidīšanai, izmantojot kabeļus, radioviļņus, optiskās tehnoloģijas vai citus elektromagnētiskos līdzekļus;
 49) tirgus uzturētājs - persona, kas pastāvīgi nodrošina viena vai vairāku finanšu instrumentu aktīvu tirdzniecību (likviditāti) tirdzniecības dienas laikā, pērkot un pārdodot finanšu instrumentus pašas noteiktās cenas robežās un par saviem līdzekļiem;
 50) tirdzniecības diena - diena vai laikposms attiecīgajā dienā, kad saskaņā ar tirgus organizētāja noteikumiem attiecīgajā regulētajā tirgū ir iespējams veikt darījumus ar finanšu instrumentiem;
-51) pašu kapitāls - ieguldījumu brokeru sabiedrības revidētajos finanšu pārskatos atspoguļotie kapitāla, rezervju un saistību elementi, kas ir brīvi pieejami ieguldījumu brokeru sabiedrībai ar parastiem darbības riskiem saistīto, bet vēl neidentificēto iespējamo zaudējumu segšanai;
+51) (izslēgts ar 24.04.2014. likumu);
 52) vērtspapirizētais parāds - aktīvu kopums (aktīvu portfelī iekļautie aktīvi), kas nodots vai pārdots īpašam nolūkam izveidotai komercsabiedrībai, kas to ir pārveidojusi vērtspapīros;
 53) daudzpusējā tirdzniecības sistēma - sistēma, kuru uztur ieguldījumu brokeru sabiedrība, kredītiestāde vai tirgus organizētājs un kurā, ievērojot līdzvērtīgus nosacījumus, apvieno trešo pušu finanšu instrumentu pirkšanas un pārdošanas rīkojumus tā, ka tiek noslēgts darījums;
 54) daudzpusējās tirdzniecības sistēmas uzturētājs (operators) - ieguldījumu brokeru sabiedrība, kredītiestāde vai tirgus organizētājs, kas saskaņā ar sistēmas noteikumiem nodrošina tās darbību;
@@ -101,3 +101,13 @@ c) publiskā piedāvājuma noteikumus un informāciju par visām izmaksām, ko s
 d) publiskā piedāvājuma iemeslus un publiskā piedāvājuma rezultātā gūto tīro ieņēmumu izlietojumu,
 e) aprakstu par pārvedamu vērtspapīru iekļaušanu regulētajā tirgū;
 68) finanšu instrumentu turēšana - finanšu instrumentu turēšana un administrēšana klientu vārdā, ieskaitot ar finanšu instrumentiem veicamo darījumu nodrošināšanai nepieciešamo naudas līdzekļu turēšanu un citu ar finanšu instrumentu turēšanu vai administrēšanu saistītu pakalpojumu sniegšanu.
+(2) Šādi termini atbilst Regulā Nr. 575/2013 lietotajiem terminiem:
+1) mātes sabiedrība - terminam "mātesuzņēmums" Regulas Nr. 575/2013 4.panta 1.punkta 15.apakšpunkta izpratnē;
+2) meitas sabiedrība - terminam "meitasuzņēmums" Regulas Nr. 575/2013 4.panta 1.punkta 16.apakšpunkta izpratnē;
+3) jaukta pārvaldītājsabiedrība - terminam "jauktas darbības pārvaldītājsabiedrība" Regulas Nr. 575/2013 4.panta 1.punkta 22.apakšpunkta izpratnē.
+(3) Papildus šā panta pirmajā un otrajā daļā minētajiem terminiem Regulas Nr. 575/2013 izpratnē ir lietoti šādi termini:
+1) finanšu iestāde - Regulas Nr. 575/2013 4.panta 1.punkta 26.apakšpunkta izpratnē;
+2) finanšu pārvaldītājsabiedrība - Regulas Nr. 575/2013 4.panta 1.punkta 20.apakšpunkta izpratnē;
+3) dalībvalsts mātes finanšu pārvaldītājsabiedrība - Regulas Nr. 575/2013 4.panta 1.punkta 30.apakšpunkta izpratnē;
+4) Eiropas Savienības mātes finanšu pārvaldītājsabiedrība - Regulas Nr. 575/2013 4.panta 1.punkta 31.apakšpunkta izpratnē;
+5) pašu kapitāls - Regulas Nr. 575/2013 4.panta 1.punkta 118.apakšpunkta izpratnē.

@@ -1,0 +1,1 @@
+50. Šā likuma 124.panta 1.² daļas 2.punkta prasību piemēro attiecībā uz atalgojuma mainīgo daļu, ko nosaka ne vēlāk kā par 2014.gada otrā pusgada darbības rezultātiem, un attiecīgā perioda atalgojuma nemainīgo daļu neatkarīgi no darba līguma vai pilnvarojuma līguma noslēgšanas datuma.

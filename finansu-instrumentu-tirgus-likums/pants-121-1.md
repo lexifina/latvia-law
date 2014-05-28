@@ -1,0 +1,2 @@
+121.¹ pants. Kapitāla rezervju prasības, sadales ierobežojumi un kapitāla saglabāšanas plāns
+Ieguldījumu brokeru sabiedrībai, kurai licence ļauj sniegt šā likuma 3.panta ceturtās daļas 5. un 6.punktā minētos ieguldījumu pakalpojumus, ir saistoši Kredītiestāžu likuma IV nodaļas noteikumi par kapitāla saglabāšanas rezervi, pretciklisko kapitāla rezervi, globālas un citas sistēmiski nozīmīgas iestādes kapitāla rezervi, sistēmiskā riska kapitāla rezervi, kopējo kapitāla rezervju prasību, sadales ierobežojumiem un kapitāla saglabāšanas plānu.

@@ -1,2 +1,2 @@
 XI nodaļa
-Kapitāla prasības
+Ieguldījumu brokeru sabiedrības darbību regulējošās prasības

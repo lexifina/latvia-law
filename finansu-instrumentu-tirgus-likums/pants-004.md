@@ -6,10 +6,15 @@
 1) ierobežot ieguldījumu brokeru sabiedrības vai kredītiestādes tiesības sniegt ieguldījumu pakalpojumus vai veikt finanšu instrumentu turēšanu;
 2) anulēt ieguldījumu brokeru sabiedrībai izsniegtās licences ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšanai;
 3) anulēt licenci regulētā tirgus organizēšanai;
-4) apturēt finanšu instrumentu tirdzniecību;
+4) apturēt vai aizliegt finanšu instrumentu tirdzniecību;
+4¹) izslēgt pārvedamus vērtspapīrus no regulētā tirgus;
 5) pieprasīt, lai nekavējoties tiek pārtraukta būtisku līdzdalību ieguvušo personu ietekme regulētā tirgus organizētājā, Latvijas Centrālajā depozitārijā vai ieguldījumu brokeru sabiedrībā;
 6) pieprasīt regulētā tirgus organizētāja, Latvijas Centrālā depozitārija vai ieguldījumu brokeru sabiedrības valdes vai padomes, vai kāda valdes vai padomes locekļa atsaukšanu;
 7) aizliegt izmantot balsstiesības;
-8) noteikt ieguldījumu brokeru sabiedrībai pienākumu uzturēt tādu pašu kapitāla līmeni, kas pārsniedz šā likuma 121.panta pirmajā daļā paredzēto minimālo līmeni;
+8) noteikt ieguldījumu brokeru sabiedrībai pienākumu uzturēt tādas pašu kapitāla prasības, kas pārsniedz Regulas Nr. 575/2013 92.pantā paredzētās minimālās pašu kapitāla prasības;
 9) uzlikt par pienākumu ieguldījumu brokeru sabiedrībai pārskatīt procedūras, lai pastiprinātu pasākumus, kurus tā ieviesusi šā likuma 123.¹ panta un 124.panta pirmās daļas 11.punkta prasību īstenošanai;
-10) pieprasīt ieguldījumu brokeru sabiedrībai, lai tā piemēro speciālu uzkrājumu politiku vai aktīvu atzīšanas politiku saistībā ar pašu kapitālu.
+10) pieprasīt ieguldījumu brokeru sabiedrībai, lai tā piemēro speciālu uzkrājumu politiku vai aktīvu atzīšanas politiku saistībā ar pašu kapitālu;
+11) noteikt ieguldījumu brokeru sabiedrības valdes vai padomes loceklim vai citai par pārkāpumu atbildīgajai fiziskajai personai pagaidu aizliegumu veikt tai noteiktos pienākumus ieguldījumu brokeru sabiedrībā;
+12) pieprasīt, lai ieguldījumu brokeru sabiedrība vai par pārkāpumu atbildīgā persona nekavējoties pārtrauc šā likuma 148.panta piecpadsmitajā daļā minētās darbības;
+13) sniegt publisku paziņojumu, kurā norādīta par pārkāpumu atbildīgā fiziskā vai juridiskā persona un pārkāpuma būtība.
+(5) Pieņemot lēmumu par sankciju piemērošanu personām, kuras pārkāpušas finanšu un kapitāla tirgu regulējošos normatīvos aktus, Komisija ņem vērā jebkādas pārkāpuma potenciālās sistēmiskās sekas.

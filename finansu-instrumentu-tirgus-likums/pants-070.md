@@ -9,6 +9,7 @@
 (4) Ja akciju atpirkšanas piedāvājums tiek izteikts šā likuma 66.panta pirmās daļas 2.punktā minētajā gadījumā, piedāvātājs papildus iesniedz:
 1) akcionāru sapulces protokola izrakstu, kurā norādīti akcionāri, kas balsojuši "par";
 2) dokumentus, kas apliecina piedāvātāja tiesības izteikt akciju atpirkšanas piedāvājumu to akcionāru vārdā, kuri balsojuši "par".
+(4¹) Ja akciju atpirkšanas piedāvājums tiek izteikts šā likuma 66.panta pirmajā daļā minētajā gadījumā un vienas atpērkamās akcijas cena tiek noteikta atbilstoši šā likuma 74.panta septītajā daļā minētajai kārtībai, piedāvātājs papildus iesniedz mērķa sabiedrības likvidācijas vērtības aplēsi.
 (5) Par dokumentiem, kas apliecina līdzekļu pietiekamību piedāvājumā paredzēto saistību izpildei likumā noteiktajā termiņā, uzskata:
 1) Komisijai adresētu rakstveida apliecinājumu (saistību rakstu) par līdzekļu piešķiršanu piedāvātājam piedāvājumā paredzēto saistību izpildei, kuru izsniegusi kredītiestāde, ieguldījumu brokeru sabiedrība vai apdrošināšanas sabiedrība, kas reģistrēta:
 a) Latvijas Republikā vai dalībvalstī,
