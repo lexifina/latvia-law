@@ -1,0 +1,2 @@
+208.¹ pants. (1) Finanšu un kapitāla tirgus komisijas izdotā administratīvā akta par šā likuma XV nodaļā minēto sankciju piemērošanu, izņemot soda naudas uzlikšanu, pārsūdzēšana neaptur šā akta izpildi.
+(2) Pieņemot lēmumu par sankciju piemērošanu personām, kuras pārkāpušas finanšu un kapitāla tirgu regulējošus normatīvos aktus, Finanšu un kapitāla tirgus komisija ņem vērā Finanšu un kapitāla tirgus komisijas likumā norādītos apstākļus, kā arī iespējamās pārkāpuma sistēmiskās sekas.

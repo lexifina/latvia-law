@@ -1,0 +1,1 @@
+60. Šā likuma 21.panta pirmās daļas 3.punktā minētos citus uzkrātos ienākumus, kas uzrādīti visaptverošo ienākumu pārskatā, iekļauj sākotnējā kapitālā no 2015.gada 1.janvāra saskaņā ar Finanšu un kapitāla tirgus komisijas noteiktiem pārejas perioda nosacījumiem.

@@ -1,5 +1,5 @@
-1.pants. Likumā ir lietoti šādi termini:
-1) kredītiestāde - kapitālsabiedrība, kas pieņem noguldījumus un citus atmaksājamus līdzekļus no neierobežota klientu loka, savā vārdā izsniedz kredītus un sniedz citus finanšu pakalpojumus;
+1.pants. (1) Likumā ir lietoti šādi termini:
+1) (izslēgts ar 24.04.2014. likumu);
 2) kredītiestādes filiāle - teritoriāli vai citādi nošķirta kredītiestādes struktūrvienība, kurai nav juridiskās personas statusa un kura darbojas kredītiestādes vārdā;
 3) pārstāvniecība - kredītiestādes struktūrvienība, kas atrodas citā valstī un pārstāv kredītiestādes intereses, bet neveic komercdarbību;
 4) finanšu pakalpojumi:
@@ -21,39 +21,30 @@ n) citi darījumi, kuri pēc būtības ir līdzīgi iepriekšminētajiem finanš
 o) elektroniskās naudas emisija;
 5) kredīts - atlīdzības darījums, kurā kredītiestāde uz rakstveida līguma pamata nodod klientam naudu vai citas lietas īpašumā un kurš klientam uzliek pienākumu noteiktā laikā un kārtībā atdot kredītiestādei naudu vai citas lietas;
 6) noguldījums - naudas līdzekļu glabāšana kredītiestādes kontā noteiktu vai nenoteiktu laiku ar vai bez procentiem;
-7) pašu kapitāls - kredītiestādes revidētajos finanšu pārskatos atspoguļotie kapitāla, rezervju un saistību elementi, kas ir brīvi pieejami kredītiestādei ar parastiem darbības riskiem saistīto, bet vēl neidentificēto iespējamo zaudējumu segšanai;
+7) (izslēgts ar 24.04.2014. likumu);
 8) (izslēgts ar 22.02.2007. likumu);
 9) klients - persona, kurai kredītiestāde sniedz finanšu pakalpojumus;
-10) mātes sabiedrība - komercsabiedrība, kura kontrolē citu komercsabiedrību;
-11) meitas sabiedrība - komercsabiedrība, kuru kontrolē cita komercsabiedrība. Jebkura meitas sabiedrības meitas sabiedrība uzskatāma arī par tās sākotnējās izcelsmes mātes sabiedrības meitas sabiedrību;
-11¹) dalībvalsts mātes kredītiestāde - dalībvalstī reģistrēta kredītiestāde, kurai ir meitas sabiedrība - kredītiestāde vai finanšu iestāde - vai kurai ir dalība kredītiestādē vai finanšu iestādē, bet kura pati nav citas šajā dalībvalstī licencētas kredītiestādes meitas sabiedrība vai šajā dalībvalstī reģistrētas finanšu pārvaldītājsabiedrības vai jauktas finanšu pārvaldītājsabiedrības meitas sabiedrība;
-11²) dalībvalsts mātes finanšu pārvaldītājsabiedrība - dalībvalstī reģistrēta finanšu pārvaldītājsabiedrība, kura nav šajā dalībvalstī licencētas kredītiestādes meitas sabiedrība vai citas šajā dalībvalstī reģistrētas finanšu pārvaldītājsabiedrības vai jauktas finanšu pārvaldītājsabiedrības meitas sabiedrība;
-11³) Eiropas Savienības mātes kredītiestāde - dalībvalsts mātes kredītiestāde, kas nav jebkurā citā dalībvalstī licencētas kredītiestādes meitas sabiedrība vai jebkurā dalībvalstī reģistrētas finanšu pārvaldītājsabiedrības vai jauktas finanšu pārvaldītājsabiedrības meitas sabiedrība;
-11⁴) Eiropas Savienības mātes finanšu pārvaldītājsabiedrība - dalībvalsts mātes finanšu pārvaldītājsabiedrība, kas nav jebkurā dalībvalstī licencētas kredītiestādes meitas sabiedrība vai citas jebkurā dalībvalstī reģistrētas finanšu pārvaldītājsabiedrības vai jauktas finanšu pārvaldītājsabiedrības meitas sabiedrība;
-11⁵) Latvijas Republikas mātes kredītiestāde - Latvijas Republikā reģistrēta kredītiestāde, kurai ir meitas sabiedrība - kredītiestāde vai finanšu iestāde - vai kurai ir dalība kredītiestādē vai finanšu iestādē, bet kura pati nav citas Latvijas Republikā reģistrētas kredītiestādes meitas sabiedrība vai Latvijas Republikā reģistrētas finanšu pārvaldītājsabiedrības meitas sabiedrība;
-11⁶) Latvijas Republikas mātes finanšu pārvaldītājsabiedrība - Latvijas Republikā reģistrēta finanšu pārvaldītājsabiedrība, kura nav Latvijas Republikā reģistrētas kredītiestādes meitas sabiedrība vai citas Latvijas Republikā reģistrētas finanšu pārvaldītājsabiedrības meitas sabiedrība;
-11⁷) dalībvalsts mātes jaukta finanšu pārvaldītājsabiedrība - dalībvalstī reģistrēta jaukta finanšu pārvaldītājsabiedrība, kura nav šajā dalībvalstī licencētas kredītiestādes meitas sabiedrība vai citas šajā dalībvalstī reģistrētas finanšu pārvaldītājsabiedrības vai jauktas finanšu pārvaldītājsabiedrības meitas sabiedrība;
-11⁸) Eiropas Savienības mātes jaukta finanšu pārvaldītājsabiedrība - dalībvalsts mātes jaukta finanšu pārvaldītājsabiedrība, kura nav jebkurā dalībvalstī licencētas kredītiestādes meitas sabiedrība vai jebkurā dalībvalstī reģistrētas citas finanšu pārvaldītājsabiedrības vai citas jauktas finanšu pārvaldītājsabiedrības meitas sabiedrība;
-12) kontrole - stāvoklis, kad personai ir kontrole pār komercsabiedrību, ja:
-a) šai personai komercsabiedrībā ir izšķiroša ietekme uz līdzdalības pamata;
-b) šai personai komercsabiedrībā ir izšķiroša ietekme uz koncerna līguma pamata;
-c) starp šo personu un komercsabiedrību pastāv jebkādas citas šā punkta "a" vai "b" apakšpunktā minētajām attiecībām analogas attiecības;
+10) (izslēgts ar 24.04.2014. likumu);
+11) (izslēgts ar 24.04.2014. likumu);
+11¹) dalībvalsts mātes kredītiestāde - kredītiestāde, kas ir dalībvalsts mātes iestāde Eiropas Parlamenta un Padomes 2013.gada 26.jūnija regulas (ES) Nr. 575/2013 par prudenciālajām prasībām attiecībā uz kredītiestādēm un ieguldījumu brokeru sabiedrībām, un ar ko groza regulu (ES) Nr. 648/2012 (turpmāk - ES regula Nr. 575/2013) 4.panta 1.punkta 28.apakšpunkta izpratnē;
+11²) (izslēgts ar 24.04.2014. likumu);
+11³) Eiropas Savienības mātes kredītiestāde - kredītiestāde, kas ir Eiropas Savienības mātes iestāde ES regulas Nr. 575/2013 4.panta 1.punkta 29.apakšpunkta izpratnē;
+11⁴) (izslēgts ar 24.04.2014. likumu);
+11⁵) Latvijas Republikas mātes kredītiestāde - Latvijas Republikā reģistrēta kredītiestāde, kurai ir meitas sabiedrība - kredītiestāde vai finanšu iestāde - vai kurai ir dalība kredītiestādē vai finanšu iestādē, bet kura pati nav citas Latvijas Republikā reģistrētas kredītiestādes meitas sabiedrība vai Latvijas Republikā reģistrētas finanšu pārvaldītājsabiedrības, vai Latvijas Republikā reģistrētas jauktas finanšu pārvaldītājsabiedrības meitas sabiedrība;
+11⁶) Latvijas Republikas mātes finanšu pārvaldītājsabiedrība - Latvijas Republikā reģistrēta finanšu pārvaldītājsabiedrība, kura nav Latvijas Republikā reģistrētas kredītiestādes meitas sabiedrība vai citas Latvijas Republikā reģistrētas finanšu pārvaldītājsabiedrības, vai citas Latvijas Republikā reģistrētas jauktas finanšu pārvaldītājsabiedrības meitas sabiedrība;
+11⁷) (izslēgts ar 24.04.2014. likumu);
+11⁸) (izslēgts ar 24.04.2014. likumu);
+12) (izslēgts ar 24.04.2014. likumu);
 13) (izslēgts ar 22.02.2007. likumu);
 14) uzticības operācijas (trasts) - darījumi, kuros attiecības starp kredītiestādi un klientu balstās uz savstarpēju uzticēšanos un saskaņā ar kuru noteikumiem kredītiestāde uzņemas atbildību par klientam piederoša īpašuma pārvaldīšanu klienta labā, pārvaldot šo īpašumu šķirti no sava īpašuma;
-15) būtiska līdzdalība - personas vai vairāku personu, kas uz vienošanās pamata rīkojas saskaņoti, tieši vai netieši iegūta līdzdalība, kura aptver 10 un vairāk procentu no komercsabiedrības pamatkapitāla vai balsstiesīgo akciju skaita vai dod iespēju būtiski ietekmēt komercsabiedrības finanšu un darbības politikas noteikšanu;
+15) (izslēgts ar 24.04.2014. likumu);
 15¹) dalība - tiesības uz komercsabiedrības kapitāla daļu (neatkarīgi no tā, vai tiesības ir dokumentētas vai nav), ko, veidojot ilgstošu saikni ar šo komercsabiedrību, izmanto, lai piedalītos tās pārvaldībā, vai tiešā vai netiešā ceļā iegūta līdzdalība, kas aptver 20 un vairāk procentus no komercsabiedrības pamatkapitāla vai balsstiesīgo akciju skaita;
-16) riska darījumi - kredītiestādes bilances aktīva un ārpusbilances posteņos uzrādītās operācijas, no kurām kredītiestāde var ciest zaudējumus;
+16) (izslēgts ar 24.04.2014. likumu);
 17) (izslēgts ar 11.04.2002. likumu.);
-18) savstarpēji saistītu klientu grupa - divas vai vairākas personas:
-a) kuras veido kredītiestādei vienu kopīgu risku, jo viena no šīm personām tieši vai netieši kontrolē citu personu vai citas personas, izņemot gadījumus, kad kredītiestāde pierāda, ka personas, starp kurām pastāv kontroles attiecības, neveido kredītiestādei vienu kopīgu risku,
-b) starp kurām nepastāv kontroles attiecības, bet kuras veido kredītiestādei kopīgu risku, jo ir saistītas tādā veidā, ka vienas personas finansiālās problēmas, tai skaitā sarežģījumi finansējuma nodrošināšanā vai parādu nomaksas grūtības, var radīt citai personai vai citām personām sarežģījumus finansējuma nodrošināšanā vai parādu nomaksas grūtības;
-19) personas, kuras saistītas ar kredītiestādi - personas, kas ir:
-a) kredītiestādes akcionāri, kuriem kredītiestādē ir būtiska līdzdalība, un šo akcionāru - fizisko personu - laulātie, vecāki un bērni;
-b) kredītiestādes meitas sabiedrības un komercsabiedrības, kurās kredītiestādei ir dalība;
-c) kredītiestādes padomes, valdes priekšsēdētājs un locekļi, iekšējā audita dienesta vadītājs un locekļi, sabiedrības kontrolieris un citi kredītiestādes darbinieki, kuri ir pilnvaroti veikt kredītiestādes darbības plānošanu, vadīšanu un kontroli un atbild par to, kā arī šo personu laulātie, vecāki un bērni;
-d) komercsabiedrības, kurās šā termina skaidrojuma "a" un "c" apakšpunktā minētajām personām ir būtiska līdzdalība;
-20) finanšu iestāde - komercsabiedrība, kas nodibināta, lai sniegtu vienu vai vairākus finanšu pakalpojumus (izņemot noguldījumu un citu atmaksājamo līdzekļu piesaistīšanu) vai lai iegūtu līdzdalību citu komercsabiedrību pamatkapitālā;
-21) finanšu pārvaldītājsabiedrība - finanšu iestāde, kura nav jaukta finanšu pārvaldītājsabiedrība un kuras meitas sabiedrības ir vienīgi vai galvenokārt kredītiestādes vai finanšu iestādes, no kurām vismaz viena ir kredītiestāde;
+18) (izslēgts ar 24.04.2014. likumu);
+19) (izslēgts ar 24.04.2014. likumu);
+20) (izslēgts ar 24.04.2014. likumu);
+21) (izslēgts ar 24.04.2014. likumu);
 22) tranzītkredīts - valdības kredīts, kas ar kredītiestāžu starpniecību tiek piešķirts uzņēmējiem konkrētu mērķu īstenošanai un netiek iekļauts kredītiestādes aktīvos, pret kuriem tiek vērsti kreditoru prasījumi kredītiestādes likvidācijas vai bankrota gadījumā;
 23) nodokļu administrācija - likumā "Par nodokļiem un nodevām" noteiktās institūcijas;
 24) pašlikvidācija - kredītiestādes darbības izbeigšana saskaņā ar kredītiestādes akcionāru sapulces lēmumu;
@@ -69,30 +60,22 @@ d) komercsabiedrības, kurās šā termina skaidrojuma "a" un "c" apakšpunktā 
 34) likvidators - kredītiestādes akcionāru sapulces ievēlēta persona (pašlikvidācijas gadījumā) vai pēc Finanšu un kapitāla tirgus komisijas ieteikuma tiesas iecelta persona, kura īsteno šajā likumā noteiktās pilnvaras un ir atbildīga šajā likumā noteiktajā kārtībā;
 35) administrators - tiesas iecelta persona, kura īsteno šajā likumā noteiktās pilnvaras un ir atbildīga šajā likumā noteiktajā kārtībā;
 36) ieinteresētās personas attiecībā uz kredītiestādi ir:
-a) kredītiestādes akcionāri, padomes, valdes un tām pielīdzināto pārvaldes institūciju vai iekšējā audita dienesta vadītājs un locekļi vai sabiedrības kontrolieris, kā arī šo personu laulātie, vecāki un bērni;
+a) kredītiestādes akcionāri, padomes un valdes locekļi, iekšējā audita dienesta vadītājs, risku direktors, par darbības atbilstības kontroli atbildīgā persona un sabiedrības kontrolieris, kā arī šo personu laulātie, vecāki un bērni;
 b) personas, kurām ar kredītiestādi ir darba tiesiskās attiecības;
 c) personas, kuras ir bijušas ieinteresētās personas saskaņā ar šā punkta "a" un "b" apakšpunkta noteikumiem pēdējo sešu mēnešu laikā līdz maksātnespējas lietas ierosināšanai;
 37) finanšu līzings - kreditēšana, ko veic atbilstoši UNIDROIT konvencijā par starptautisko finansiālo līzingu noteiktajiem pamatprincipiem;
 38) maksāšanas līdzeklis - līdzeklis (atsevišķi vai kopā ar citu maksāšanas līdzekli) vai maksājuma instrumentu, kurš ļauj tā lietotājiem saņemt skaidru naudu vai citas lietas, saņemt vai veikt maksājumus, dot rīkojumu naudas līdzekļu pārvedumam vai apstiprināt naudas līdzekļu pārvedumu un kuru kā maksāšanas līdzekli pieņem arī tās personas, kas nav laidušas apgrozībā šo maksāšanas līdzekli. Par maksāšanas līdzekļiem uzskata skaidru naudu, čekus, maksājumu kartes (kredītkarte, debetkarte un citas tamlīdzīgas kartes), bankomātu kartes, maksājuma dokumentus, elektronisko naudu, attālinātu elektronisko kredītiestāžu operāciju (globālajā datortīklā vai izmantojot datoru vai tālruni) programmatūru un citus tamlīdzīgus līdzekļus;
 39) (izslēgts ar 23.12.2010. likumu);
-40) ciešas attiecības - divu vai vairāku personu savstarpēja saistība:
-a) dalības veidā,
-b) kontroles veidā,
-c) ja tās ir saistītas ar vienu un to pašu personu kontroles veidā;
+40) (izslēgts ar 24.04.2014. likumu);
 41) kreditoru sapulce - organizēta kreditoru kopīga darbības forma kredītiestādes maksātnespējas un likvidācijas procesā;
 42) kreditoru komiteja - kreditoru sapulces ievēlēta institūcija, kas kredītiestādes maksātnespējas un likvidācijas gadījumā pārstāv kreditoru sapulci atbilstoši noteiktajam pilnvaru apjomam;
-43) jaukta pārvaldītājsabiedrība - mātes sabiedrība, kura nav kredītiestāde, finanšu pārvaldītājsabiedrība vai jaukta finanšu pārvaldītājsabiedrība, bet no kuras meitas sabiedrībām vismaz viena ir kredītiestāde;
+43) (izslēgts ar 24.04.2014. likumu);
 44) dalībvalsts - Eiropas Savienības vai Eiropas Ekonomikas zonas valsts;
 45) ārvalsts - valsts, kas nav dalībvalsts;
-46) mītnes valsts - dalībvalsts, kurā kredītiestāde reģistrēta un tai izsniegta licence kredītiestādes darbībai vai citādā veidā dota atļauja kredītiestādes darbībai;
-47) iesaistītā valsts - dalībvalsts, kura nav mītnes valsts un kurā izveidota mītnes valstī reģistrētas kredītiestādes filiāle vai kurā mītnes valsts kredītiestāde sniedz finanšu pakalpojumus, neatverot filiāli;
+46) (izslēgts ar 24.04.2014. likumu);
+47) (izslēgts ar 24.04.2014. likumu);
 48) ārpakalpojumu sniedzējs - persona, kura, pamatojoties uz rakstveida līgumu ar kredītiestādi, apņemas sniegt vai sniedz kredītiestādei ārpakalpojumus;
-49) sākotnējais kapitāls - kapitāls, kuru veido:
-a) apmaksātais akciju vai daļu kapitāls (pamatkapitāls), kas samazināts par vērtību, kāda ir priekšrocību akcijām ar dividenžu uzkrāšanu vērtību,
-b) akciju (daļu) emisijas uzcenojums,
-c) rezerves (izņemot pārvērtēšanas rezervi),
-d) iepriekšējo gadu nesadalītā peļņa vai zaudējumi,
-e) kārtējā darbības gada peļņa, ja ir zvērināta revidenta vai zvērinātu revidentu komercsabiedrības ziņojums par peļņas esamību un ja tā aprēķināta, ņemot vērā visus nepieciešamos uzkrājumus aktīvu vērtības samazinājumam, paredzamajiem nodokļu maksājumiem un dividendēm, un ja Finanšu un kapitāla tirgus komisija ir piekritusi kārtējā darbības gada peļņas iekļaušanai sākotnējā kapitālā;
+49) (izslēgts ar 24.04.2014. likumu);
 50) kompetentas institūcijas - valsts pārvaldes institūcijas, tiesas, likvidatori, administratori un citas institūcijas vai personas, kuras atbilstoši savām likumos noteiktajām pilnvarām lemj par reorganizācijas pasākumiem vai likvidāciju, veic reorganizācijas pasākumus vai likvidāciju vai uzrauga reorganizācijas pasākumu vai likvidācijas norisi;
 51) reorganizācijas pasākumi - maksātnespējas process, tai skaitā sanācija, kā arī citas tiesiska rakstura darbības, kas varētu ietekmēt trešo personu tiesības un kas tiek veiktas, lai saglabātu vai atjaunotu kredītiestādes, tai skaitā tās filiāles, maksātspēju;
 52) brīvais kapitāls - personai piederošo aktīvu vērtība, kas samazināta par šīs personas saistību vērtību un to aktīvu vērtību, kuri uzskatāmi par ilgtermiņa ieguldījumiem;
@@ -100,8 +83,40 @@ e) kārtējā darbības gada peļņa, ja ir zvērināta revidenta vai zvērināt
 54) prasījumu un saistību dzēšana - prasījumu un saistību savstarpēja izteikšana vienā prasībā vai saistībā tā, ka tiek celta tikai viena prasība un izpildāma tikai viena saistība;
 55) (izslēgts ar 16.05.2013. likumu);
 56) ārvalsts valūta - jebkura valūta, izņemot euro;
-57) atgūstamās vērtības samazinājuma risks - risks, ka nopirktais debitora parāds var samazināties par naudā vai citā veidā debitoram piešķirto kredītu;
+57) (izslēgts ar 24.04.2014. likumu);
 58) sertifikāts - atbilstoši normatīvajiem aktiem izsniegts dokuments, kas apliecina administratora kvalifikāciju un dod viņam tiesības pildīt administratora pienākumus tiesiskās aizsardzības procesā un maksātnespējas procesā;
 59) pakārtotās saistības - saistības, kas kredītiestādei rodas no aizdevuma (neatkarīgi no noslēgtā darījuma veida) un kas, pamatojoties uz noslēgto līgumu ar kredītiestādi, aizdevējam dod tiesības atprasīt aizdevumu pirms termiņa tikai kredītiestādes maksātnespējas vai likvidācijas gadījumā un tikai pēc visu citu kreditoru prasījumu apmierināšanas, bet pirms akcionāru prasījumu apmierināšanas;
-60) konsolidētās uzraudzības institūcija - dalībvalsts uzraudzības institūcija, kas ir atbildīga par Eiropas Savienības mātes kredītiestādes, Eiropas Savienības mātes finanšu pārvaldītājsabiedrības un Eiropas Savienības mātes jauktas finanšu pārvaldītājsabiedrības kontrolētas kredītiestādes uzraudzību konsolidācijas grupas līmenī;
-61) uzraugu kolēģija - uzraudzības institūciju veidota konsultatīva sadarbības vienība, kas darbojas uz iesaistīto uzraudzības iestāžu sadarbības līguma pamata.
+60) (izslēgts ar 24.04.2014. likumu);
+61) uzraugu kolēģija - uzraudzības institūciju veidota konsultatīva sadarbības vienība, kas darbojas uz iesaistīto uzraudzības institūciju sadarbības līguma pamata;
+62) iekšējā pieeja - ES regulā Nr. 575/2013 paredzētā metode, modelis vai cita iekšējā pieeja, kuru kredītiestāde izmanto riska svērto vērtību vai pašu kapitāla prasību aprēķinam:
+a) 143.panta 1.punktā minētā uz iekšējiem reitingiem balstītā pieeja;
+b) 221., 283. un 363.pantā minētie iekšējie modeļi;
+c) 225.pantā minētās pašas iestādes veicamās svārstīguma aplēses, aprēķinot riska darījumu vērtības svārstīguma korekcijas;
+e) 259.panta 3.punktā minētā iekšējā novērtējuma metode;
+d) 312.panta 2.punktā minētā attīstītās mērīšanas pieeja;
+63) sistēmiskais risks - finanšu sistēmas darbības traucējumu risks, kam var būt būtiska negatīva ietekme uz finanšu sistēmu un tautsaimniecību;
+64) sistēmiski nozīmīga iestāde - tāda Eiropas Savienības mātes finanšu pārvaldītājsabiedrība, Eiropas Savienības mātes jaukta finanšu pārvaldītājsabiedrība, Eiropas Savienības mātes kredītiestāde vai kredītiestāde, kuras darbības pārtraukšana vai traucējumi var radīt sistēmisku risku;
+65) augstākā vadība - tādas personas (darbinieki), kuru amata stāvoklis dod tām iespēju būtiski ietekmēt iestādes darbības virzību, bet kuras nav padomes vai valdes locekļi.
+(2) ES regulas Nr. 575/2013 izpratnē likumā ir lietoti šādi termini:
+1) kredītiestāde - ES regulas Nr. 575/2013 4.panta 1.punkta 1.apakšpunkta izpratnē;
+2) pašu kapitāls - ES regulas Nr. 575/2013 4.panta 1.punkta 118.apakšpunkta izpratnē;
+3) dalībvalsts mātes finanšu pārvaldītājsabiedrība - ES regulas Nr. 575/2013 4.panta 1.punkta 30.apakšpunkta izpratnē;
+4) Eiropas Savienības mātes finanšu pārvaldītājsabiedrība - ES regulas Nr. 575/2013 4.panta 1.punkta 31.apakšpunkta izpratnē;
+5) dalībvalsts mātes jaukta finanšu pārvaldītājsabiedrība - ES regulas Nr. 575/2013 4.panta 1.punkta 32.apakšpunkta izpratnē;
+6) Eiropas Savienības mātes jaukta finanšu pārvaldītājsabiedrība - ES regulas Nr. 575/2013 4.panta 1.punkta 33.apakšpunkta izpratnē;
+7) kontrole - ES regulas Nr. 575/2013 4.panta 1.punkta 37.apakšpunkta izpratnē;
+8) būtiska līdzdalība - ES regulas Nr. 575/2013 4.panta 1.punkta 36.apakšpunkta izpratnē;
+9) riska darījumi - ES regulas Nr. 575/2013 5.panta 1.punkta izpratnē;
+10) savstarpēji saistītu klientu grupa - ES regulas Nr. 575/2013 4.panta 1.punkta 39.apakšpunkta izpratnē;
+11) finanšu iestāde - ES regulas Nr. 575/2013 4.panta 1.punkta 26.apakšpunkta izpratnē;
+12) finanšu pārvaldītājsabiedrība - ES regulas Nr. 575/2013 4.panta 1.punkta 20.apakšpunkta izpratnē;
+13) ciešas attiecības - ES regulas Nr. 575/2013 4.panta 1.punkta 38.apakšpunkta izpratnē;
+14) atgūstamās vērtības samazinājuma risks - ES regulas Nr. 575/2013 4.panta 1.punkta 53.apakšpunkta izpratnē.
+(3) Papildus šā panta pirmajā un otrajā daļā minētajiem terminiem likumā ir lietoti termini, kas atbilst šādiem ES regulā Nr. 575/2013 lietotajiem terminiem:
+1) mātes sabiedrība - terminam "mātesuzņēmums" ES regulas Nr. 575/2013 4.panta 1.punkta 15.apakšpunkta izpratnē;
+2) meitas sabiedrība - terminam "meitasuzņēmums" ES regulas Nr. 575/2013 4.panta 1.punkta 16.apakšpunkta izpratnē;
+3) jaukta pārvaldītājsabiedrība - terminam "jauktas darbības pārvaldītājsabiedrība" ES regulas Nr. 575/2013 4.panta 1.punkta 22.apakšpunkta izpratnē;
+4) mītnes valsts - terminam "piederības dalībvalsts" ES regulas Nr. 575/2013 4.panta 1.punkta 43.apakšpunkta izpratnē;
+5) iesaistītā valsts - terminam "uzņēmēja dalībvalsts" ES regulas Nr. 575/2013 4.panta 1.punkta 44.apakšpunkta izpratnē;
+6) uzraudzības institūcija - terminam "kompetentā iestāde" ES regulas Nr. 575/2013 4.panta 1.punkta 40.apakšpunkta izpratnē;
+7) konsolidētās uzraudzības institūcija - terminam "konsolidētās uzraudzības iestāde" ES regulas Nr. 575/2013 4.panta 1.punkta 41.apakšpunkta izpratnē.

@@ -1,0 +1,1 @@
+61. Šā likuma 34.³ panta otrās daļas prasību piemēro attiecībā uz atalgojuma mainīgo daļu, ko nosaka ne vēlāk kā par 2014.gada otrā pusgada darbības rezultātiem, un attiecīgā perioda atalgojuma nemainīgo daļu neatkarīgi no darba līguma vai pilnvarojuma līguma noslēgšanas datuma.

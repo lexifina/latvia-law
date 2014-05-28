@@ -1,2 +1,2 @@
 IV nodaļa
-Kredītiestāžu darbību regulējošās prasības
+Kredītiestāžu darbību regulējošās prasības un kapitāla rezerves

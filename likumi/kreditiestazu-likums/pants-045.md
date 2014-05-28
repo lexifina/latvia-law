@@ -1,1 +1,0 @@
-45.pants. Kredītiestādes būtiskas līdzdalības kopējais apjoms tādu komercsabiedrību pamatkapitālā, kuras nav kredītiestādes, finanšu iestādes, apdrošināšanas sabiedrības vai pārapdrošinātāji, nedrīkst pārsniegt 60 procentus no kredītiestādes pašu kapitāla.

@@ -1,0 +1,1 @@
+57. Šā likuma 35.⁹, 35.¹⁰, 35.¹¹ un 35.¹² panta prasības par globāli sistēmiski nozīmīgas iestādes kapitāla rezervi stājas spēkā 2016.gada 1.janvārī. No 2016.gada 1.janvāra prasību ievēro 25 procentu apmērā, no 2017.gada 1.janvāra - 50 procentu apmērā, no 2018.gada 1.janvāra - 75 procentu apmērā un no 2019.gada 1.janvāra - 100 procentu apmērā no šajā likumā noteiktā.

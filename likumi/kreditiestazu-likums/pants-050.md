@@ -1,1 +1,4 @@
-50.pants. Finanšu un kapitāla tirgus komisijai ir tiesības papildus noteikt vēl citas kredītiestāžu darbību regulējošas prasības, lai mazinātu kredītiestāžu darbības risku un aizsargātu kreditoru intereses.
+50.pants. (1) ES regulā Nr. 575/2013 paredzēto izvēles iespēju attiecībā uz prudenciālo prasību un pārejas periodu noteikšanu šīs regulas noteikumu piemērošanā nosaka Finanšu un kapitāla tirgus komisija.
+(2) Finanšu un kapitāla tirgus komisijai ir tiesības papildus noteikt vēl citas kredītiestāžu darbību regulējošas prasības jomās, kuras netiek regulētas saskaņā ar ES regulu Nr. 575/2013, lai mazinātu kredītiestāžu darbības risku un aizsargātu kreditoru intereses.
+(3) Finanšu un kapitāla tirgus komisija ir tiesīga noteikt ar atsevišķiem notikumiem saistītu ziņojumu sniegšanas, pārskatu sagatavošanas un iesniegšanas noteikumus, kā arī kredītiestāžu uzraudzībai nepieciešamās informācijas sagatavošanas, sniegšanas un nepieciešamo atļauju saņemšanas kārtību, ja to nav noteikusi Eiropas Komisija.
+(4) Par ES regulas Nr. 575/2013 458.panta piemērošanu atbildīgā iestāde ir Finanšu un kapitāla tirgus komisija.

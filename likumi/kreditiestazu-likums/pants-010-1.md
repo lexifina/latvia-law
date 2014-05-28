@@ -4,7 +4,7 @@
 2) tas ir kāds no šādiem pakalpojumiem:
 a) kredītiestādes grāmatvedības kārtošana, informācijas tehnoloģiju vai sistēmu pārvaldība vai attīstīšana, iekšējās kontroles sistēmas organizēšana, iekšējā audita dienesta pienākumu veikšana,
 b) kredītiestādes finanšu pakalpojuma vai kāda būtiska tā elementa sniegšana.
-(3) Kredītiestādes iekšējā audita dienesta pienākumus var deleģēt vienīgi zvērinātam revidentam, zvērinātu revidentu komercsabiedrībai vai kredītiestādes mātes sabiedrībai - dalībvalstī reģistrētai kredītiestādei.
+(3) Kredītiestādes iekšējā audita dienesta pienākumus var deleģēt vienīgi zvērinātam revidentam vai zvērinātu revidentu komercsabiedrībai, kas vienlaikus neveic kredītiestādes gada pārskata un konsolidētā gada pārskata pārbaudi, vai kredītiestādes mātes sabiedrībai - dalībvalstī reģistrētai kredītiestādei.
 (3¹) Ja kredītiestāde deleģē ārpakalpojumu sniedzējam ieguldījumu pakalpojuma, ieguldījumu blakuspakalpojuma vai kāda būtiska šā pakalpojuma elementa sniegšanu, tā papildus šajā likumā noteiktajām prasībām ievēro Finanšu instrumentu tirgus likumā ieguldījumu brokeru sabiedrībai noteiktās prasības ārpakalpojumu deleģēšanai.
 (4) Kredītiestāde nedrīkst deleģēt saskaņā ar normatīvajiem aktiem vai kredītiestādes statūtiem noteiktos kredītiestādes pārvaldes institūciju pienākumus, kā arī:
 1) noguldījumu un citu atmaksājamo līdzekļu piesaistīšanu;
@@ -26,7 +26,7 @@ e) ārpakalpojumu sniedzēja pienākumu nekavējoties izbeigt ārpakalpojuma lī
 2) ārpakalpojuma līguma slēgšanas, izpildes uzraudzības un izbeigšanas kārtību;
 3) par sadarbību ar ārpakalpojumu sniedzēju un par saņemtā ārpakalpojuma apjoma un kvalitātes uzraudzību atbildīgās personas un struktūrvienības, kā arī attiecīgo personu tiesības un pienākumus;
 4) kredītiestādes rīcību gadījumos, ja ārpakalpojumu sniedzējs nepilda vai nevarēs pildīt ārpakalpojuma līguma noteikumus.
-(8) Finanšu un kapitāla tirgus komisijai ir tiesības pārbaudīt ārpakalpojumu sniedzēja darbību tā atrašanās vai ārpakalpojuma sniegšanas vietā, tai skaitā iepazīties ar visiem dokumentiem, grāmatvedības un dokumentu reģistriem, izgatavot dokumentu kopijas, kā arī pieprasīt no ārpakalpojumu sniedzēja informāciju, kas saistīta ar ārpakalpojuma sniegšanu vai kas nepieciešama Finanšu un kapitāla tirgus komisijas funkciju veikšanai.
+(8) Finanšu un kapitāla tirgus komisijai ir tiesības pārbaudīt ārpakalpojumu sniedzēja darbību tā atrašanās vai ārpakalpojuma sniegšanas vietā, tai skaitā pieprasīt jebkādu dokumentu iesniegšanu un iepazīties ar visiem dokumentiem, grāmatvedības un dokumentu reģistriem, izgatavot dokumentu kopijas vai izrakstus, kā arī pieprasīt no ārpakalpojumu sniedzēja vai tā pārstāvjiem vai darbiniekiem paskaidrojumus un informāciju, kas saistīta ar ārpakalpojuma sniegšanu vai kas nepieciešama Finanšu un kapitāla tirgus komisijas funkciju veikšanai, kā arī iztaujāt jebkuru trešo personu, kas tam piekritusi, lai iegūtu informāciju par ārpakalpojumu sniedzēju.
 (9) Ārpakalpojumu sniedzējs uzsāk sniegt kredītiestādei ārpakalpojumu, ja kredītiestāde 30 dienu laikā no šā panta piektajā daļā minētā iesnieguma iesniegšanas dienas nav saņēmusi Finanšu un kapitāla tirgus komisijas aizliegumu saņemt ārpakalpojumu.
 (10) Finanšu un kapitāla tirgus komisija aizliedz kredītiestādei saņemt plānoto ārpakalpojumu, ja:
 1) nav ievēroti šā likuma noteikumi;
