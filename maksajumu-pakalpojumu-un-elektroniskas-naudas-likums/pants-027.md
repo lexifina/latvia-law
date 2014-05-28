@@ -6,7 +6,7 @@
 1) pārstāvja darbības politikas aprakstu, kas sniedz patiesu un skaidru priekšstatu par to maksājumu pakalpojumu sniegšanas kārtību, kuri tiks sniegti ar pārstāvja starpniecību;
 2) ar pārstāvja starpniecību sniedzamo maksājumu pakalpojumu procedūras aprakstu un ar pārstāvi noslēgtā pilnvarojuma līguma oriģinālu vai apliecinātu kopiju;
 3) tā iekšējās kontroles mehānisma aprakstu, ko pārstāvis izmantos, lai ievērotu normatīvo aktu prasības noziedzīgi iegūtu līdzekļu legalizēšanas un terorisma finansēšanas novēršanai;
-4) informāciju, kas apliecina, ka pārstāvja pārvaldes institūciju locekļi un par pārstāvja darbību atbildīgās personas atbilst šā likuma 20. un 21.panta prasībām.
+4) informāciju, kas apliecina, ka pārstāvja pārvaldes institūciju locekļi un par pārstāvja darbību atbildīgās personas atbilst šā likuma 21.panta prasībām.
 (5) Pilnvarojuma līgumā ietver:
 1) ar pārstāvja starpniecību sniedzamo maksājumu pakalpojumu procedūras aprakstu;
 2) precīzas prasības attiecībā uz to maksājumu pakalpojumu kvalitāti, kuri tiks sniegti ar pārstāvja starpniecību;
@@ -24,5 +24,5 @@ e) pārstāvja pienākumu nekavējoties izbeigt pilnvarojuma līgumu pēc iestā
 (7) Komisijai ir tiesības pārbaudīt pārstāvja darbību tā atrašanās vai maksājumu pakalpojumu sniegšanas vietā, iepazīties ar visiem dokumentiem, grāmatvedības un dokumentu reģistriem, izgatavot dokumentu kopijas, kā arī pieprasīt no pārstāvja informāciju, kas saistīta ar tam deleģēto maksājumu pakalpojumu sniegšanu vai nepieciešama Komisijas funkciju veikšanai.
 (8) Iestāde var uzsākt pakalpojumu sniegšanu ar pārstāvja starpniecību, ja Komisija 30 dienu laikā no šā panta ceturtajā daļā minētā iesnieguma un tam pievienoto dokumentu iesniegšanas dienas nav iebildusi pret maksājumu pakalpojumu sniegšanu ar attiecīgā pārstāvja starpniecību.
 (9) Komisijai ir tiesības pieprasīt papildu informāciju par kārtību, kādā tiks sniegti maksājumu pakalpojumi ar pārstāvja starpniecību, lai tā varētu novērtēt pārstāvja ietekmi uz iestādes darbību.
-(10) Ja iestāde vēlas sniegt maksājumu pakalpojumus ar pārstāvja starpniecību citā dalībvalstī, Komisija pirms šā panta astotajā daļā minētā lēmuma pieņemšanas konsultējas ar attiecīgās dalībvalsts iestāžu uzraudzības iestādi un ņem vērā tās atzinumu.
+(10) Ja licencēta iestāde vēlas sniegt maksājumu pakalpojumus ar pārstāvja starpniecību citā dalībvalstī, Komisija pirms šā panta astotajā daļā minētā lēmuma pieņemšanas konsultējas ar attiecīgās dalībvalsts iestāžu uzraudzības iestādi un ņem vērā tās atzinumu.
 (11) Iestādes kompetentajai pārvaldes institūcijai ir pienākums pašai vai pēc Komisijas pieprasījuma nekavējoties izbeigt maksājumu pakalpojumu sniegšanu ar attiecīgā pārstāvja starpniecību, ja minētais pārstāvis neatbilst šā panta prasībām vai nenodrošina šā likuma prasībām atbilstošu maksājumu pakalpojumu sniegšanu.

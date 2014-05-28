@@ -1,1 +1,1 @@
-103.pants. Maksājumu sistēmas un maksājumu pakalpojumu sniedzēji personas datus apstrādā saskaņā ar fizisko personu datu aizsardzību regulējošiem normatīvajiem aktiem.
+103.pants. Maksājumu sistēmas un maksājumu pakalpojumu sniedzēji ir tiesīgi saskaņā ar fizisko personu datu aizsardzību regulējošiem normatīvajiem aktiem apstrādāt personas datus, kad tas ir nepieciešams, lai novērstu maksājumu instrumentu neautorizētu izmantošanu vai ar maksājumiem saistītu krāpšanu un nodrošinātu šo nodarījumu izmeklēšanu un atklāšanu.

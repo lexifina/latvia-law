@@ -1,2 +1,2 @@
 VI nodaļa
-Maksājumu pakalpojumu sniedzēju un elektroniskās naudas iestāžu darbības uzraudzība un atbildība
+Maksājumu pakalpojumu sniedzēju, elektroniskās naudas iestāžu un maksājumu sistēmu darbības uzraudzība un atbildība

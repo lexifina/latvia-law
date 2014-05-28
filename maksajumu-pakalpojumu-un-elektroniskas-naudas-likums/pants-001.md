@@ -4,7 +4,7 @@ a) pakalpojums, kura rezultātā ir iespējams ieskaitīt skaidru naudu maksāju
 b) pakalpojums, kura rezultātā ir iespējams izņemt skaidru naudu no maksājumu konta, kā arī visas nepieciešamās operācijas, ko veic maksājumu pakalpojumu sniedzējs, lai nodrošinātu maksājuma pakalpojuma izmantotājam iespēju izmantot maksājumu kontu,
 c) maksājuma veikšana, tai skaitā tiešā debeta maksājuma, arī vienreizējā tiešā debeta maksājuma, veikšana, maksājuma veikšana ar maksājumu karti vai līdzīgu ierīci, kredītpārveduma, kā arī regulārā maksājuma veikšana. Šajā apakšpunktā minētais maksājuma pakalpojums ir arī naudas pārvedums uz maksājumu kontu, ko atvēris maksājuma pakalpojuma izmantotāja maksājumu pakalpojumu sniedzējs vai cits maksājumu pakalpojumu sniedzējs,
 d) maksājuma veikšana, tai skaitā tiešā debeta maksājuma, arī vienreizējā tiešā debeta maksājuma, veikšana, maksājuma veikšana ar maksājumu karti vai līdzīgu ierīci, kredītpārveduma, kā arī regulārā maksājuma veikšana. Šajā apakšpunktā termins "maksājuma pakalpojums" attiecas uz maksājuma pakalpojumu, kad maksājuma pakalpojuma izmantotājam pieejamai naudai piemēro kredīta limitu,
-e) maksājuma instrumenta izlaišana un saņemšana,
+e) maksājuma instrumenta izlaišana vai saņemšana,
 f) bezkonta naudas pārvedums,
 g) maksājuma veikšana, ja maksātājs piekrišanu maksājuma veikšanai dod, izmantojot distances saziņas līdzekli, digitālo vai informācijas tehnoloģiju ierīci, un ja maksājums tiek veikts tālsakaru, informācijas tehnoloģiju sistēmas vai tīkla operatoram, kas ir tikai maksājuma pakalpojuma izmantotāja un preces pārdevēja vai pakalpojuma sniedzēja starpnieks;
 2) maksājumu iestāde:
@@ -40,13 +40,8 @@ b) dod maksājuma rīkojumu, ja tai nav maksājumu konta;
 18) tiešā debeta maksājums - maksājuma pakalpojums, kura rezultātā nauda tiek norakstīta no maksātāja maksājumu konta, ja maksājumu ierosina saņēmējs, pamatojoties uz saņēmējam, saņēmēja maksājumu pakalpojumu sniedzējam vai maksātāja maksājumu pakalpojumu sniedzējam dotu maksātāja dotu piekrišanu;
 19) dalība - fakts, ka kādai komercsabiedrībai tiešā vai netiešā veidā pieder vismaz 20 procentu no citas komercsabiedrības pamatkapitāla vai balsstiesīgo akciju vai daļu skaita;
 20) komercsabiedrību grupa - grupa, kas sastāv no mātes sabiedrības, tās meitas sabiedrībām, komercsabiedrībām, kurās mātes vai meitas sabiedrībai ir dalība, un komercsabiedrībām, ko ar mātes sabiedrību, meitas sabiedrību vai sabiedrību, kurā mātes vai meitas sabiedrībai ir dalība, saista šo sabiedrību kopīga vadība saskaņā ar noslēgto līgumu vai šo komercsabiedrību dibināšanas dokumentu, vai statūtu noteikumiem vai kam finanšu gada laikā vismaz puse no jebkuras pārvaldes institūcijas locekļiem ir vienas un tās pašas personas;
-21) sākotnējais kapitāls - kapitāls, kuru veido:
-a) apmaksātais akciju vai daļu kapitāls (pamatkapitāls), kas samazināts par vērtību, kāda ir priekšrocību akcijām ar dividenžu uzkrāšanu,
-b) akciju emisijas uzcenojums vai daļu uzcenojums,
-c) rezerves, izņemot pārvērtēšanas rezervi,
-d) iepriekšējo gadu nesadalītā peļņa vai zaudējumi,
-e) kārtējā darbības gada peļņa, ja ir zvērināta revidenta vai zvērinātu revidentu komercsabiedrības (turpmāk - zvērināts revidents) ziņojums par peļņas esamību un tā aprēķināta, ņemot vērā visus nepieciešamos uzkrājumus aktīvu vērtības samazinājumam, paredzamajiem nodokļu maksājumiem un dividendēm, un ja Finanšu un kapitāla tirgus komisija (turpmāk - Komisija) ir piekritusi kārtējā darbības gada peļņas iekļaušanai sākotnējā kapitālā;
-22) pašu kapitāls - maksājumu iestādes un elektroniskās naudas iestādes revidētajos finanšu pārskatos atspoguļotie kapitāla, rezervju un saistību elementi, kas ir brīvi pieejami maksājumu iestādei un elektroniskās naudas iestādei ar darbības riskiem saistīto, bet vēl neidentificēto iespējamo zaudējumu segšanai;
+21) (izslēgts ar 24.04.2014. likumu);
+22) (izslēgts ar 24.04.2014. likumu);
 23) būtiska līdzdalība - personas vai vairāku personu, kas uz vienošanās pamata rīkojas saskaņoti, tieši vai netieši iegūta līdzdalība, kura aptver 10 un vairāk procentu no komercsabiedrības pamatkapitāla vai balsstiesīgo akciju vai daļu skaita vai dod iespēju būtiski ietekmēt komercsabiedrības finanšu un darbības politiku;
 24) atsauces valūtas kurss - valūtas maiņas aprēķināšanā izmantojamais valūtas kurss, par ko maksājumu pakalpojumu sniedzējs informē maksājuma pakalpojuma izmantotāju vai kas ir iegūstams, izmantojot publiski pieejamu avotu;
 25) autentificēšana - procedūra, kas maksājumu pakalpojumu sniedzējam dod iespēju pārbaudīt konkrētā maksājuma instrumenta pielietojumu, arī tā personalizētos drošības elementus;

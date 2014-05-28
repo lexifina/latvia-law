@@ -1,6 +1,6 @@
-29.pants. (1) Darbības (ārpakalpojumus), kas nepieciešamas iestādes darbības nodrošināšanai, tas ir, grāmatvedības kārtošanai, informācijas tehnoloģiju vai sistēmu pārvaldībai vai attīstīšanai, iekšējās kontroles sistēmas organizēšanai, iekšējā audita dienesta pienākumu veikšanai un maksājumu pakalpojumu vai kāda būtiska to elementa sniegšanai, iestāde var deleģēt vienam vai vairākiem ārpakalpojumu sniedzējiem.
+29.pants. (1) Darbības (ārpakalpojumus), kas nepieciešamas iestādes darbības nodrošināšanai, tas ir, grāmatvedības kārtošanai, informācijas tehnoloģiju vai sistēmu pārvaldībai vai attīstīšanai, iekšējā audita dienesta pienākumu veikšanai, var deleģēt vienam vai vairākiem ārpakalpojumu sniedzējiem. Licencēta iestāde papildus var deleģēt iekšējās kontroles sistēmas organizēšanu un kāda maksājuma pakalpojuma elementa sniegšanu vienam vai vairākiem ārpakalpojumu sniedzējiem.
 (2) Ārpakalpojumus iestādei ir tiesīgs sniegt tikai tāds ārpakalpojumu sniedzējs, kuram ir tam deleģēto pienākumu izpildei nepieciešamā kvalifikācija un pieredze.
-(3) Iestādes iekšējā audita dienesta pienākumus var deleģēt vienīgi zvērinātam revidentam vai iestādes mātes sabiedrībai - dalībvalstī reģistrētai iestādei.
+(3) Licencētas iestādes iekšējā audita dienesta pienākumus var deleģēt vienīgi zvērinātam revidentam vai iestādes mātes sabiedrībai - dalībvalstī reģistrētai iestādei.
 (4) Pirms ārpakalpojuma saņemšanas iestāde iesniedz Komisijai motivētu rakstveida iesniegumu par plānoto ārpakalpojuma saņemšanu. Iesniegumam pievieno ārpakalpojuma politikas un procedūras aprakstu un ārpakalpojuma līguma oriģinālu vai apliecinātu kopiju.
 (5) Ārpakalpojuma līgumā ietver:
 1) saņemamā ārpakalpojuma aprakstu;

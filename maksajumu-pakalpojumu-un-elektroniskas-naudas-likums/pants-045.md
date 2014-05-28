@@ -1,1 +1,1 @@
-45.pants. Komisijai ir tiesības papildus noteikt vēl citas licencēto iestāžu darbību regulējošas prasības, lai mazinātu iestāžu darbības risku un aizsargātu elektroniskās naudas turētājus un maksājumu pakalpojumu izmantotājus.
+45.pants. Komisijai ir tiesības papildus noteikt vēl citas iestāžu darbību regulējošas prasības, lai mazinātu iestāžu darbības risku un aizsargātu elektroniskās naudas turētājus un maksājumu pakalpojumu izmantotājus.

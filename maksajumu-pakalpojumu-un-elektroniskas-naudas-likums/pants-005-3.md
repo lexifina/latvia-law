@@ -1,0 +1,1 @@
+5.³ pants. Izskatot šā likuma 5. un 5.¹ pantā minētos dokumentus, Komisijai ir tiesības pieprasīt, lai iestāde izdara tajos labojumus vai iesniedz papildu dokumentus, kas Komisijai nepieciešami, lai tā varētu pārliecināties par iestādes pārdomātu un piesardzīgu darbību, kā arī par citu šā likuma prasību izpildi.
