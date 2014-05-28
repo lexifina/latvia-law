@@ -1,0 +1,1 @@
+13.pants. Valsts kase nodrošina ilgtermiņa stabilizācijas rezerves grāmatvedības uzskaiti un to, ka gada pārskats par ilgtermiņa stabilizācijas rezervi tiek sagatavots atbilstoši normatīvajiem aktiem par grāmatvedības uzskaiti un pārskatiem.

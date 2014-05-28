@@ -1,0 +1,1 @@
+3. Šā likuma 13. un 14.pantā minētos pārskatus sagatavo, sākot ar pārskata periodu, kad Valsts kase atbilstoši šā likuma 4.panta pirmajai daļai ir nodrošinājusi līdzekļu pārskaitīšanu ilgtermiņa stabilizācijas rezerves kontā.

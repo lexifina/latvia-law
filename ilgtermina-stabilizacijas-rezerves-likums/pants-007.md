@@ -1,0 +1,1 @@
+7.pants. Valsts kase 10 darbdienu laikā pēc šā likuma 6.pantā minētā lēmuma pieņemšanas nodrošina līdzekļu pārskaitīšanu no ilgtermiņa stabilizācijas rezerves konta uz valsts budžeta kontu Latvijas Bankā.

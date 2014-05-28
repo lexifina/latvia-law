@@ -1,0 +1,1 @@
+15.pants. Gada pārskats par ilgtermiņa stabilizācijas rezervi un tās ieguldījumiem ir saimnieciskā gada pārskata par valsts budžeta izpildi un par pašvaldību budžetiem (turpmāk - saimnieciskā gada pārskats) neatņemama sastāvdaļa, un tas ir pakļauts tādai pašai kontrolei kā saimnieciskā gada pārskats.

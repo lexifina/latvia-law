@@ -1,0 +1,1 @@
+3.pants. Lēmumu par šā likuma 2.panta 1.punktā noteikto valsts pamatbudžeta līdzekļu ieskaitīšanu ilgtermiņa stabilizācijas rezervē atbilstoši Fiskālās disciplīnas likuma 19.pantam Ministru kabinets pieņem pēc šā likuma 17.pantā minētā ziņojuma izskatīšanas, bet ne vēlāk kā līdz pārskata gadam sekojošā saimnieciskā gada 10.martam.

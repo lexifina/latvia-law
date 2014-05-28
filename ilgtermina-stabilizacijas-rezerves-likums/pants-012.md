@@ -1,0 +1,1 @@
+12.pants. Ilgtermiņa stabilizācijas rezerves pārvaldīšanā finanšu risku pārvaldīšanas nolūkā atbilstoši šo līdzekļu ieguldīšanas stratēģijā noteiktajiem ierobežojumiem atļauts izmantot atvasinātos finanšu instrumentus.

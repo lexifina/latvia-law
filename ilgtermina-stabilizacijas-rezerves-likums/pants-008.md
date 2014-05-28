@@ -1,0 +1,1 @@
+8.pants. Ilgtermiņa stabilizācijas rezerves līdzekļu pārvaldīšanu nodrošina Valsts kase. Visus ar šo līdzekļu pārvaldīšanu saistītos maksājumus Valsts kase sedz no ilgtermiņa stabilizācijas rezerves līdzekļiem.
