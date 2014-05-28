@@ -6,11 +6,12 @@
 1) pārkāpis šo likumu;
 2) izplatījis programmu, kas neatbilst apraides atļaujas vai retranslācijas atļaujas pamatnosacījumiem.
 (3) Nacionālā elektronisko plašsaziņas līdzekļu padome anulē apraides atļauju vai retranslācijas atļauju, ja elektroniskais plašsaziņas līdzeklis:
-1) trīs reizes gada laikā ir administratīvi sodīts par šā likuma pārkāpumu;
-2) gada laikā no dienas, kad Padome pieņēmusi lēmumu par elektroniskā plašsaziņas līdzekļa darbības apturēšanu, ir izdarījis šā panta otrās daļas 1. un 2.punktā minētos pārkāpumus;
-3) pārkāpis apraides atļaujā ietvertos noteikumus;
-4) neievēro šā likuma 18.panta astotās daļas noteikumus;
+1) trīs reizes gada laikā ir administratīvi sodīts par būtisku šā likuma pārkāpumu;
+2) gada laikā no dienas, kad Padome pieņēmusi lēmumu par elektroniskā plašsaziņas līdzekļa darbības apturēšanu, ir izdarījis būtiskus šā panta otrās daļas 1. un 2.punktā minētos pārkāpumus;
+3) būtiski pārkāpis apraides vai retranslācijas atļaujā ietvertos noteikumus;
+4) neievēro šā likuma 18.panta astotās daļas noteikumus un šis pārkāpums ir būtisks;
 5) mēneša laikā no dienas, kad Padome izteikusi brīdinājumu par apraides atļaujā ietverto noteikumu pārkāpumu, nepārtrauc attiecīgā noteikuma pārkāpšanu;
-6) mēneša laikā no dienas, kad Padome izteikusi brīdinājumu par apraides atļaujā ietverto noteikumu pārkāpumu, atkārtoti pārkāpis attiecīgo noteikumu;
+6) mēneša laikā no dienas, kad Padome izteikusi brīdinājumu par apraides atļaujā ietverto noteikumu pārkāpumu, atkārtoti būtiski pārkāpis attiecīgo noteikumu;
 7) saskaņā ar spēkā stājušos tiesas spriedumu vai prokurora priekšrakstu par sodu atzīts par vainīgu noziegumos pret valsti vai par šādiem noziedzīgiem nodarījumiem tam noteikts juridiskajām personām piemērojamais piespiedu ietekmēšanas līdzeklis.
-(4) Nacionālās elektronisko plašsaziņas līdzekļu padomes paziņojums par apraides atļaujas vai retranslācijas atļaujas anulēšanu vai elektroniskā plašsaziņas līdzekļa darbības izbeigšanu publicējams Padomes mājaslapā internetā un laikrakstā "Latvijas Vēstnesis", bet par reģionālo vai vietējo elektronisko plašsaziņas līdzekli - arī vietējā laikrakstā.
+(3¹) Piemērojot šā likuma 21.panta trešo daļu un izvērtējot pārkāpuma būtiskumu, Nacionālā elektronisko plašsaziņas līdzekļu padome ņem vērā pārkāpuma sabiedrisko bīstamību, elektroniskā plašsaziņas līdzekļa veiktās darbības saistībā ar pārkāpuma seku un atkārtošanas novēršanu, pārkāpuma ietekmi uz vispārējo elektroniskā plašsaziņas līdzekļa darbību un spēju to turpināt.
+(4) Nacionālās elektronisko plašsaziņas līdzekļu padomes paziņojums par apraides atļaujas vai retranslācijas atļaujas anulēšanu vai elektroniskā plašsaziņas līdzekļa darbības izbeigšanu publicējams Padomes mājaslapā internetā un oficiālajā izdevumā "Latvijas Vēstnesis'', bet par reģionālo vai vietējo elektronisko plašsaziņas līdzekli - arī vietējā laikrakstā.

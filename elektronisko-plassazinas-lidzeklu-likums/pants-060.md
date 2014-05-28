@@ -5,7 +5,7 @@
 3) sadarbojas ar citu valstu institūcijām, kas risina elektronisko plašsaziņas līdzekļu darbības un attīstības jautājumus, un ar Eiropas Komisiju;
 4) pasūta elektronisko plašsaziņas līdzekļu jomas funkciju nodrošināšanai nepieciešamos socioloģiskos un citus pētījumus par nozares darbību un attīstību;
 5) uzklausa, analizē un apkopo skatītāju un klausītāju ierosinājumus, sūdzības un citu informāciju par elektronisko plašsaziņas līdzekļu darbību;
-6) pieprasa no elektroniskajiem plašsaziņas līdzekļiem raidījumu ierakstus gadījumos, kad ir saņemta sūdzība, un gādā par to saglabāšanu līdz galīgai sūdzības izskatīšanai;
+6) veic elektronisko plašsaziņas līdzekļu programmu ierakstus vai pieprasa tos no elektroniskajiem plašsaziņas līdzekļiem;
 7) pieprasa no elektroniskajiem plašsaziņas līdzekļiem dokumentus, kas apliecina, ka tie ievēro šā likuma 46., 47. un 48.panta noteikumus;
 8) veic elektronisko plašsaziņas līdzekļu darbības monitoringu un apkopo tā rezultātus;
 9) nodrošina piešķirto valsts budžeta līdzekļu efektīvu un lietderīgu izlietošanu sabiedrības interesēs;

@@ -23,7 +23,7 @@
 20) nodrošināt plašai auditorijai būtisku notikumu (politisku, sociālu, kultūras, sporta u.c.) tiešu atspoguļojumu;
 21) iekļaut programmu un raidījumu saturā reģionālo elektronisko plašsaziņas līdzekļu sagatavoto informāciju, kas atbilst attiecīgā sabiedriskā elektroniskā plašsaziņas līdzekļa mērķiem un uzdevumiem;
 22) nodrošināt atbildīgu un ilgtspējīgu žurnālistiku, kas garantē informācijas izpēti un analīzes kvalitāti un veicina profesionālo cilvēkresursu attīstību;
-23) veikt Latvijas Radio kora fondu ierakstus, lai nodrošinātu kultūrvēsturiskā mantojuma saglabāšanu;
+23) veikt ierakstus, lai nodrošinātu kultūrvēsturiskā mantojuma saglabāšanu;
 24) paredzēt ekumēnisku dievkalpojumu atspoguļojumu.
 (2) Sabiedrisko pasūtījumu pilda sabiedriskie elektroniskie plašsaziņas līdzekļi. Atsevišķu raidījumu vai programmu veidošanu atbilstoši Elektronisko plašsaziņas līdzekļu nozares attīstības nacionālajai stratēģijai Nacionālā elektronisko plašsaziņas līdzekļu padome var konkursa kārtībā nodot citiem elektroniskajiem plašsaziņas līdzekļiem, ja kopējā izmaksu summa šiem elektroniskajiem plašsaziņas līdzekļiem sabiedriskā pasūtījuma izpildei attiecīgajā kalendārajā gadā nepārsniedz 15 procentus no sabiedriskā pasūtījuma īstenošanai piešķirtajiem līdzekļiem. Elektroniskais plašsaziņas līdzeklis pastāvīgi nodrošina nošķirtu raidlaika un finanšu uzskaiti programmas daļai, kura tiek veidota sabiedriskā pasūtījuma ietvaros, un programmas daļai, kura netiek veidota sabiedriskā pasūtījuma ietvaros.
 (3) Raidījumu satura, izņemot ziņu raidījumu saturu, veidošanai paredzēto līdzekļu izlietojuma principi un struktūra tiek noteikta Nacionālās elektronisko plašsaziņas līdzekļu padomes izstrādātā nolikumā.
