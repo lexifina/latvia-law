@@ -1,2 +1,3 @@
-6. pants. Ierobežojumi darbiniekam
-Katram Latvijas Republikas iedzīvotājam var būt tikai viena algas nodokļa grāmatiņa (turpmāk - grāmatiņa), kuru izsniedz Valsts ieņēmumu dienests. Grāmatiņa iesniedzama vietā, kuru maksātājs uzskata par galveno ienākuma gūšanas vietu. Grāmatiņu izsniegšanas kārtību un tajā iekļaujamās ziņas nosaka Ministru kabinets. Ja maksātājs ir mikrouzņēmuma darbinieks, grāmatiņu iesniedz mikrouzņēmumā.
+6.pants. Ierobežojumi maksātājam
+1. Katram Latvijas Republikas iedzīvotājam var būt tikai viena algas nodokļa grāmatiņa (turpmāk - grāmatiņa), kuru piešķir Valsts ieņēmumu dienests. Grāmatiņa iesniedzama vienā ienākuma gūšanas vietā pēc maksātāja izvēles. Mikrouzņēmuma darbiniekam nav tiesību iesniegt grāmatiņu ienākuma gūšanas vietā.
+2. Ministru kabinets nosaka grāmatiņas piešķiršanas un iesniegšanas kārtību, grāmatiņā iekļaujamās ziņas, kā arī kārtību, kādā Valsts ieņēmumu dienests sniedz informāciju darba devējam vai citai institūcijai par izmaiņām attiecībā uz maksātājam piemērojamiem atvieglojumiem.
