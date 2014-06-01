@@ -10,3 +10,4 @@
 7. Šā likuma 3.panta trešās daļas 9.¹ un 9.² punktā un 8.panta trešās daļas 15. un 15.¹ punktā minētajam ienākumam, kā arī 11.panta divpadsmitajā daļā minētajam ienākumam no īpašuma tiek piemērota 10 procentu likme.
 8. Mikrouzņēmuma darbinieka vai mikrouzņēmuma īpašnieka ienākumam piemēro nodokļa likmi atbilstoši Mikrouzņēmumu nodokļa likumam.
 9. Ja maksātājs guvis ienākumu saskaņā ar šā likuma 8.¹ pantu un aizdevuma izsniegšanas dienā ir aizdevēja darbinieks, valdes vai padomes loceklis, attiecīgajam ienākumam papildus šā panta otrajā daļā noteiktajai likmei piemēro 22 procentu papildu likmi.
+10. Sezonas laukstrādnieku ienākuma nodokļa likme ir 15 procenti, bet ne mazāka kā 0,70 euro katrā nodarbinātības dienā.

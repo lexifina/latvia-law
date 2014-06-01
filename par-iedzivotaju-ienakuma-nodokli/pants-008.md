@@ -19,6 +19,7 @@
 1) pirmstaksācijas gadā kapitālsabiedrībai nav bijis darbinieka vai valdes locekļa, kas gūst atlīdzību, kura katrā pirmstaksācijas gada mēnesī nav mazāka par normatīvajos aktos noteikto minimālo mēneša darba algas apmēru, un kapitālsabiedrības apgrozījums ir pārsniedzis normatīvajos aktos noteikto 12 minimālo mēneša darba algu apmēra reizinājumu ar koeficientu 3,3;
 2) taksācijas gadā kapitālsabiedrībai ir apgrozījums.
 2.¹⁰ Šā panta 2.⁹ daļu nepiemēro, ja kāds valdes loceklis kapitālsabiedrībā, kas atbilst šā panta 2.⁹ daļā minētajiem kritērijiem, kā valdes loceklis citā kapitālsabiedrībā mēnesī gūst atlīdzību, kura nav mazāka par normatīvajos aktos noteikto piecu minimālo mēneša darba algu apmēru, un abas kapitālsabiedrības ir vienas uzņēmumu grupas dalībnieces likuma "Par uzņēmumu ienākuma nodokli" izpratnē.
+2.¹¹ Sezonas laukstrādnieku ienākuma nodokli maksā par sezonas laukstrādnieku ienākumu saskaņā ar šā likuma 11.¹² pantu.
 3. Pie pārējiem fiziskās personas ienākumiem, par kuriem ir jāmaksā nodoklis, tiek pieskaitīti:
 1) ienākumi no individuālā darba, uzņēmuma līguma, komercaģenta un māklera darbības;
 2) ienākumi no individuālā uzņēmuma, arī no zemnieku vai zvejnieku saimniecības, ja tie nav uzņēmumu ienākuma nodokļa objekts, un ienākumi no individuālā komersanta darbības;
@@ -53,6 +54,7 @@
 1) virsniekiem - Ministru kabineta noteikto 2,5 mēneša minimālo darba algu apmērā;
 2) pārējam personālam - Ministru kabineta noteikto 1,5 mēneša minimālo darba algu apmērā.
 4.¹ Šā panta otrās un trešās daļas noteikumi neattiecas uz ienākumiem, kurus atbilstoši Padomes regulai Nr. 259/68 fiziskā persona - Latvijas Republikas rezidents - saņem no Eiropas Kopienas (tās institūcijām) un kurus apliek ar Kopienas nodokli saskaņā ar Padomes regulu Nr. 260/68.
+4.² Šā panta otrās un 2.² daļas noteikumi neattiecas uz sezonas laukstrādnieku ienākumu, par kuru saskaņā ar šā likuma 11.¹² pantu tiek maksāts sezonas laukstrādnieku ienākuma nodoklis.
 5. No maksātāja ienākumiem, par kuriem maksā algas nodokli, izslēdz Latvijas Republikā vai citā Eiropas Savienības dalībvalstī, vai Eiropas Ekonomikas zonas valstī reģistrētos privātajos pensiju fondos atbilstoši licencētiem pensiju plāniem un Latvijas Republikā vai citā Eiropas Savienības dalībvalstī, vai Eiropas Ekonomikas zonas valstī reģistrētā apdrošināšanas sabiedrībā iemaksātās dzīvības apdrošināšanas (ar līdzekļu uzkrāšanu) prēmiju summas, kuras kopā nepārsniedz 10 procentus no maksātājam aprēķinātās bruto darba samaksas taksācijas gadā, un iemaksātās dzīvības (bez līdzekļu uzkrāšanas), veselības vai nelaimes gadījumu apdrošināšanas prēmiju summas, kas nepārsniedz 10 procentus no maksātājam aprēķinātās bruto darba samaksas taksācijas gadā, bet ne vairāk kā 426,86 euro gadā, ja ir izpildīti šādi nosacījumi:
 1) darbības termiņš dzīvības apdrošināšanas līgumam (ar līdzekļu uzkrāšanu) nav īsāks par pieciem gadiem;
 2) darbības termiņš dzīvības, veselības un nelaimes gadījumu apdrošināšanas līgumam (bez līdzekļu uzkrāšanas) nav īsāks par vienu gadu;

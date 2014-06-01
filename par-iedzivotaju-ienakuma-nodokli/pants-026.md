@@ -12,3 +12,8 @@
 1) 67 procenti - valsts sociālās apdrošināšanas speciālajā budžetā;
 2) 33 procenti - maksātāja deklarētās dzīvesvietas pašvaldības budžetā.
 7. Samazināto patentmaksu ieskaita budžetā šā panta trešajā daļā noteiktajā kārtībā.
+8. Sezonas laukstrādnieku ienākuma nodoklis tiek ieskaitīts budžetā šādā sadalījumā:
+1) ja ienākumu kopsumma, ko sezonas laukstrādnieku ienākuma nodokļa maksātājs kalendārajā mēnesī ieguvis no viena vai vairākiem sezonas laukstrādnieku ienākuma izmaksātājiem kopā, nepārsniedz 70 euro, sezonas laukstrādnieku ienākuma izmaksātājs sezonas laukstrādnieku ienākuma nodokli ieskaita iedzīvotāju ienākuma nodokļa sadales kontā;
+2) ja ienākumu kopsumma, ko sezonas laukstrādnieku ienākuma nodokļa maksātājs kalendārajā mēnesī ieguvis no viena vai vairākiem sezonas laukstrādnieku ienākuma izmaksātājiem kopā, pārsniedz 70 euro, sezonas laukstrādnieku ienākuma izmaksātājs sezonas laukstrādnieku ienākuma nodokli ieskaita budžetā šādā sadalījumā:
+a) 90 procentus - valsts sociālās apdrošināšanas obligāto iemaksu kontā,
+b) 10 procentus - iedzīvotāju ienākuma nodokļa sadales kontā.
