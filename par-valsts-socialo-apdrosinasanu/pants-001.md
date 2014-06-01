@@ -15,6 +15,7 @@ j) persona, kuru Latvijas Republikā nodarbina ārvalsts nodokļu maksātājs, k
 k) persona, kura ir noslēgusi Civillikuma IV daļas 15.nodaļā paredzēto uzņēmuma, graudniecības vai pārvadājuma līgumu un attiecībā uz kuru tiek konstatēta vismaz viena no likuma "Par iedzīvotāju ienākuma nodokli" 8.panta 2.² daļā noteiktajām pazīmēm;
 l) mikrouzņēmuma, kas sniedz darbaspēka nodrošināšanas pakalpojumus likuma "Par iedzīvotāju ienākuma nodokli" 17.² panta izpratnē, darbinieks;
 m) kapitālsabiedrības valdes loceklis, kas bez atlīdzības veic pienākumus kapitālsabiedrībā, kurai taksācijas gada attiecīgajā mēnesī ir apgrozījums un nav neviena darba ņēmēja vai ir darba ņēmēji, kuru obligāto iemaksu objekts ir mazāks par Ministru kabineta noteiktās minimālās mēneša darba algas apmēru, un kurai pirmstaksācijas gadā apgrozījums bija lielāks par Ministru kabineta noteiktās minimālās mēneša darba algas apmēru, kas reizināts ar koeficientu 3,3 un ar 12 mēnešiem, un nebija neviena darba ņēmēja vai bija darba ņēmēji, kuru obligāto iemaksu objekts bija mazāks par Ministru kabineta noteiktās minimālās mēneša darba algas apmēru;
+n) persona, kas likuma "Par iedzīvotāju ienākuma nodokli" izpratnē ir nodarbināta lauksaimniecības sezonas darbos un maksā sezonas laukstrādnieku ienākuma nodokli;
 3) pašnodarbinātais - persona, kura gūst ienākumu (vai ieņēmumus) kā:
 a) persona, kas veic individuālo darbu,
 b) (izslēgts ar 25.11.1999. likumu),

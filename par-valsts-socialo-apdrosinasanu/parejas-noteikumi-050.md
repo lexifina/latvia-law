@@ -1,1 +1,1 @@
-50. No 2012.gada 1.janvāra līdz 2014.gada 30.jūnijam no valsts pamatbudžeta paredzētās obligātās iemaksas pensiju apdrošināšanai par personām, kuras veic algotos pagaidu sabiedriskos darbus, izdara no Eiropas Savienības politiku instrumentu līdzekļiem.
+50. No 2012.gada 1.janvāra līdz 2014.gada 31.decembrim no valsts pamatbudžeta paredzētās obligātās iemaksas pensiju apdrošināšanai par personām, kuras veic algotos pagaidu sabiedriskos darbus, izdara no Eiropas Savienības politiku instrumentu līdzekļiem.
