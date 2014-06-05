@@ -1,0 +1,1 @@
+80. Pastāvīgā šķīrējtiesa, kura saskaņā ar šo pārejas noteikumu 78.punktu ir izslēgta no pastāvīgo šķīrējtiesu reģistra, var pabeigt uzsākto lietu izskatīšanu, bet ne ilgāk kā līdz 2014.gada 31.decembrim.

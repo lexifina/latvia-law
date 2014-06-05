@@ -1,0 +1,1 @@
+79. Ja puses vienojušās par civiltiesiskā strīda nodošanu izšķiršanai pastāvīgajā šķīrējtiesā, kura saskaņā ar šo pārejas noteikumu 78.punktu ir izslēgta no pastāvīgo šķīrējtiesu reģistra, puses vienojas par civiltiesiskā strīda nodošanu izšķiršanai citā šķīrējtiesā. Ja vienošanās netiek panākta, strīds izskatāms rajona (pilsētas) tiesā.
