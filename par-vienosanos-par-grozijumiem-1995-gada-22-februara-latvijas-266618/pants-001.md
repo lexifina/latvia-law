@@ -1,0 +1,1 @@
+1.pants. Latvijas Republikas 2014.gada 3.janvāra notas Nr.51/8-45 un Krievijas Federācijas 2011.gada 25.februāra notas Nr.1818/2ЕД apmaiņas ceļā noslēgtā Vienošanās par grozījumiem 1995.gada 22.februāra Latvijas Republikas valdības un Krievijas Federācijas valdības nolīgumā par automobiļu starptautisko satiksmi (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.
