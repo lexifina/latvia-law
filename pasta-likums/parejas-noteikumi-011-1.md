@@ -1,0 +1,1 @@
+11.¹ Pēc 2014.gada 31.decembra Regulators, nepiemērojot šā likuma 27.² pantā noteikto kārtību universālā pasta pakalpojuma sniedzēja izvēlei, pagarina universālā pasta pakalpojuma saistības uz pieciem gadiem no 2015.gada 1.janvāra tam pasta komersantam, kuram ir noteiktas saistības sniegt universālo pasta pakalpojumu līdz 2014.gada 31.decembrim.
