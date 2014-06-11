@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2014.gada 3.jūnija noteikumi Nr.273 \"Noteikumi par jūrnieku veselības atbilstību darbam uz kuģa\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "112",
+  "official_journal_page": null,
+  "official_journal_date": "2014-06-10",
+  "entry_into_force": "2014-06-11",
+  "notification_date": "2019-11-12",
+  "commission_reference": "MNE(2019)56138",
+  "nim_celex": "72017L0159LVA_278245",
+  "nim_id": "278245",
+  "transposes_celex": [
+    "32017L0159"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c9104e09-28b6-46e7-9ac1-ad33a0e5ace5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
