@@ -1,0 +1,3 @@
+10. pants
+Informācija un statistika
+Katras Līgumslēdzējas Puses aviācijas institūcijas pēc otras Līgumslēdzējas Puses aviācijas institūciju pieprasījuma iesniedz tām tādu informāciju un statistikas datus par savas nozīmētās aviokompānijas vai aviokompāniju veikto satiksmi uz otras Līgumslēdzējas Puses valsts teritoriju un no tās, kādus tām parasti sagatavo un iesniedz attiecīgās valsts aviokompānijas. Ja vienas Līgumslēdzējas Puses aviācijas institūcijas vēlas saņemt jebkādus papildu statistikas datus, pēc to pieprasījuma abu Līgumslēdzēju Pušu aviācijas institūcijas šo jautājumu apspriež savstarpējās sarunās un par to vienojas.

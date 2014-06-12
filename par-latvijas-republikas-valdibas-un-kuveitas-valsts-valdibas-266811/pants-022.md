@@ -1,0 +1,3 @@
+22. pants
+Nolīguma izbeigšana
+Katra Līgumslēdzēja Puse jebkurā laikā var rakstveidā paziņot otrai Līgumslēdzējai Pusei par tās lēmumu izbeigt šo Nolīgumu. Šo paziņojumu vienlaikus nosūta Starptautiskajai civilās aviācijas organizācijai. Šis Nolīgums tiek pārtraukts pusnaktī (pēc tās Līgumslēdzējas Puses vietējā laika, kura ir saņēmusi paziņojumu) divpadsmit (12) mēnešus pēc dienas, kad otra Līgumslēdzēja Puse saņēmusi paziņojumu, ja vien minētais paziņojums nav atcelts ar vienošanos pirms šā perioda beigām. Ja otra Līgumslēdzēja Puse neapliecina, ka tā saņēmusi paziņojumu, šo paziņojumu uzskata par saņemtu četrpadsmit (14) dienas pēc tam, kad to saņēmusi Starptautiskā civilās aviācijas organizācija.

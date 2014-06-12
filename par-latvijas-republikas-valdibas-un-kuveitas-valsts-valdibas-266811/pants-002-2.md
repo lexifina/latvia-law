@@ -1,0 +1,8 @@
+2. pants
+Pārvadājumu tiesību piešķiršana
+1. Lai veiktu starptautisko gaisa satiksmi, katra Līgumslēdzēja Puse piešķir otrai Līgumslēdzējai Pusei šādas tiesības:
+a) tiesības bez apstāšanās lidot pāri savas valsts teritorijai;
+b) tiesības apstāties minētajā teritorijā nekomerciālos nolūkos.
+2. Katra Līgumslēdzēja Puse piešķir otrai Līgumslēdzējai Pusei šajā Nolīgumā paredzētās tiesības veikt starptautisko gaisa satiksmi maršrutos, kas noteikti šā Nolīguma pielikumā. Šāda satiksme un maršruti turpmāk attiecīgi tiek dēvēti par "Nolīgumā paredzēto satiksmi" un "noteiktajiem maršrutiem". Veicot Nolīgumā paredzēto satiksmi noteiktajā maršrutā, papildus šā panta 1.punktā minētajām tiesībām katras Līgumslēdzējas Puses nozīmētajai aviokompānijai vai aviokompānijām otra Līgumslēdzēja Puse piešķir tiesības apstāties savas valsts teritorijā maršruta punktos, kas noteikti pielikumā, lai, pamatojoties uz komerciāliem nosacījumiem, kombinēti vai atsevišķi uzņemtu un (vai) izsēdinātu starptautiskās satiksmes pasažierus, iekrautu un (vai) izkrautu bagāžu, kravu un pastu.
+3. Nekas šā panta 2.punktā nevar tikt iztulkots kā vienas Līgumslēdzējas Puses nozīmētās aviokompānijas tiesības uzņemt otras Līgumslēdzējas Puses valsts teritorijā pasažierus, kravu un pastu, lai tos par atlīdzību vai uz nomas līguma pamata nogādātu uz citu punktu šīs otras Līgumslēdzējas Puses valsts teritorijā (kabotāža).
+4. Ja bruņota konflikta, politisko nemieru vai notikumu, vai citu īpašu un neparastu apstākļu dēļ vienas Līgumslēdzējas Puses nozīmētā aviokompānija nav spējīga veikt lidojumus savā parastajā maršrutā, tad otra Līgumslēdzēja Puse pieliek visas pūles, lai sekmētu šādas gaisa satiksmes nepārtrauktību, attiecīgi īslaicīgi pārkārtojot maršrutus.

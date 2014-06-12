@@ -1,0 +1,4 @@
+9. pants
+Satiksmes programmu apstiprināšana
+1. Vienas Līgumslēdzējas Puses nozīmētā aviokompānija vai aviokompānijas savas satiksmes programmas (vasaras un ziemas periodu satiksmei) iesniedz apstiprināšanai otras Līgumslēdzējas Puses aviācijas institūcijām vismaz trīsdesmit (30) dienas pirms pārvadājumu uzsākšanas. Programmā ietver lidojumu sarakstus, nosaka satiksmes biežumu un izmantojamo gaisa kuģu tipus. Aviācijas institūcijas savu lēmumu par šo iesniegto satiksmes programmu paziņo divdesmit (20) dienu laikā pēc dienas, kad attiecīgā aviokompānija iesniegusi savu programmu apstiprināšanai.
+2. Visus satiksmes programmas grozījumus, kā arī lūgumus atļaut veikt papildu lidojumus vienas Līgumslēdzējas Puses nozīmētā aviokompānija vai aviokompānijas iesniedz apstiprināšanai otras Līgumslēdzējas Puses aviācijas institūcijām. Minētās aviācijas institūcijas šos lūgumus par grozījumiem vai papildu lidojumiem izskata nekavējoties.
