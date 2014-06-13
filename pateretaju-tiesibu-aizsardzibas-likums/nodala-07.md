@@ -1,2 +1,2 @@
 VII nodaļa
-Patērētāja tiesību pārkāpuma novēršana
+Patērētāja prasījumi

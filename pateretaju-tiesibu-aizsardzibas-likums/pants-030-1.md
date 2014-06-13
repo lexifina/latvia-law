@@ -1,0 +1,4 @@
+30.¹ pants. Preces piegādes riska pāreja
+(1) Piegādājot preci patērētājam, preces zuduma vai bojājuma risks pāriet patērētājam ar brīdi, kad patērētājs vai viņa pārstāvis ir ieguvis preci valdījumā.
+(2) Ja patērētājs izvēlējies preces piegādi uzdot pārvadātājam un šo iespēju nav piedāvājis pārdevējs vai pakalpojuma sniedzējs, preces zuduma vai bojājuma risks pāriet patērētājam ar brīdi, kad prece ir nodota pārvadātājam. Šādā gadījumā patērētājs ir tiesīgs Civillikumā noteiktajā kārtībā vērsties ar prasību pret pārvadātāju.
+(3) Šo pantu nepiemēro līgumiem par ūdens, gāzes vai elektrības piegādi, izņemot gadījumus, kad ūdeni, gāzi vai elektrību pārdod ierobežotā tilpumā vai noteiktā daudzumā, kā arī līgumiem par centralizētu siltumapgādi un līgumiem par tāda digitālā satura piegādi, kas netiek sniegts materiālajā datu nesējā.
