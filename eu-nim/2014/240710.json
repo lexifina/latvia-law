@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2014.gada 20.maija noteikumi Nr.254 \"Noteikumi par līgumu, kas noslēgts ārpus pastāvīgās saimnieciskās vai profesionālās darbības vietas\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "106 (5166)",
+  "official_journal_page": null,
+  "official_journal_date": "2014-06-02",
+  "entry_into_force": "2014-06-13",
+  "notification_date": "2016-09-16",
+  "commission_reference": "MNE(2016)55750",
+  "nim_celex": "72011L0083LVA_240710",
+  "nim_id": "240710",
+  "transposes_celex": [
+    "32011L0083"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4ff0a5d2-0c2d-4218-b7d9-d5379d6324a6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
