@@ -4,5 +4,5 @@
 1) samazina ar likumu noteikto pušu atbildību;
 2) ierobežo patērētāja tiesības slēgt līgumus ar trešajām personām;
 3) nosaka priekšrocības ražotājam, pārdevējam vai pakalpojuma sniedzējam un ierobežojumus patērētājam;
-4) noteic, ka patērētājs atsakās no savām likumīgajām tiesībām;
+4) (izslēgts no 13.06.2014. ar 24.04.2014. likumu. Sk. Pārejas noteikumu 22.punktu);
 5) patērētāju nostāda neizdevīgā stāvoklī un ir pretrunā ar labticīguma prasībām.
