@@ -1,11 +1,11 @@
-166.pants. Pornogrāfiska vai erotiska rakstura materiālu ievešanas, izgatavošanas un izplatīšanas noteikumu pārkāpšana
-(1) Par pornogrāfisku sacerējumu, iespiedizdevumu, attēlu, filmu, video un audio ierakstu vai citādu pornogrāfiska rakstura materiālu ievešanas, izgatavošanas, izplatīšanas, publiskas demonstrēšanas, atskaņošanas, reklāmas noteikumu pārkāpšanu, ja ar to radīts būtisks kaitējums, -
+166.pants. Pornogrāfiska priekšnesuma demonstrēšanas, intīma rakstura izklaides ierobežošanas un pornogrāfiska rakstura materiāla aprites noteikumu pārkāpšana
+(1) Par pornogrāfiska priekšnesuma demonstrēšanas vai citu intīma rakstura izklaides ierobežošanas noteikumu pārkāpšanu vai par pornogrāfiska rakstura materiāla aprites noteikumu pārkāpšanu, ja ar to radīts būtisks kaitējums, -
 soda ar brīvības atņemšanu uz laiku līdz vienam gadam vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu.
-(2) Par tādu pornogrāfiska rakstura materiālu lejupielādi, iegādāšanos, ievešanu, izgatavošanu, publisku demonstrēšanu, reklamēšanu vai citādu izplatīšanu, kuros aprakstīta vai attēlota bērnu seksuāla izmantošana, cilvēku seksuālas darbības ar dzīvniekiem, nekrofilija vai pornogrāfiska rakstura vardarbība, kā arī par šādu materiālu glabāšanu -
-soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu, konfiscējot mantu vai bez mantas konfiskācijas.
-(3) Par nepilngadīgā iesaistīšanu vai izmantošanu pornogrāfiska vai erotiska rakstura materiālu izgatavošanā (ražošanā) -
-soda ar brīvības atņemšanu uz laiku līdz sešiem gadiem, konfiscējot mantu vai bez mantas konfiskācijas, un ar probācijas uzraudzību uz laiku līdz trim gadiem vai bez tās.
-(4) Par mazgadīgā iesaistīšanu vai izmantošanu pornogrāfiska vai erotiska rakstura materiālu izgatavošanā (ražošanā) -
-soda ar brīvības atņemšanu uz laiku no trim līdz divpadsmit gadiem, konfiscējot mantu vai bez mantas konfiskācijas, un ar probācijas uzraudzību uz laiku līdz trim gadiem vai bez tās.
-(5) Par šā panta trešajā vai ceturtajā daļā paredzētajām darbībām, ja tās izdarījusi organizēta grupa, -
-soda ar brīvības atņemšanu uz laiku no pieciem līdz piecpadsmit gadiem, konfiscējot mantu, un ar probācijas uzraudzību uz laiku līdz trim gadiem.
+(2) Par tāda pornogrāfiska priekšnesuma apmeklēšanu vai demonstrēšanu vai par tādu pornogrāfiska rakstura materiāla apriti, kurš satur bērnu pornogrāfiju, cilvēka seksuālas darbības ar dzīvnieku, nekrofiliju vai dzimumtieksmes apmierināšanu vardarbīgā veidā, -
+soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu, konfiscējot mantu vai bez mantas konfiskācijas, un ar probācijas uzraudzību uz laiku līdz trim gadiem.
+(3) Par nepilngadīgā pamudināšanu, iesaistīšanu, piespiešanu piedalīties vai izmantošanu pornogrāfiskā priekšnesumā vai pornogrāfiska rakstura materiāla izgatavošanā -
+soda ar brīvības atņemšanu uz laiku līdz sešiem gadiem, konfiscējot mantu vai bez mantas konfiskācijas, un ar probācijas uzraudzību uz laiku līdz trim gadiem.
+(4) Par sešpadsmit gadu vecumu nesasniegušas personas pamudināšanu, iesaistīšanu, piespiešanu piedalīties vai izmantošanu pornogrāfiskā priekšnesumā vai pornogrāfiska rakstura materiāla izgatavošanā -
+soda ar brīvības atņemšanu uz laiku no trim līdz divpadsmit gadiem, konfiscējot mantu vai bez mantas konfiskācijas, un ar probācijas uzraudzību uz laiku līdz trim gadiem.
+(5) Par šā panta trešajā vai ceturtajā daļā paredzētajām darbībām, ja tās izdarījusi organizēta grupa vai tās izdarītas, lietojot vardarbību, -
+soda ar brīvības atņemšanu uz laiku no pieciem līdz piecpadsmit gadiem, konfiscējot mantu vai bez mantas konfiskācijas, un ar probācijas uzraudzību uz laiku līdz trim gadiem.
