@@ -1,3 +1,3 @@
 74.¹ pants. Genocīda, nozieguma pret cilvēci, nozieguma pret mieru un kara nozieguma attaisnošana
-Par genocīda, nozieguma pret cilvēci, nozieguma pret mieru vai kara nozieguma publisku slavināšanu vai īstenotā genocīda, nozieguma pret cilvēci, nozieguma pret mieru vai kara nozieguma publisku noliegšanu vai attaisnošanu -
+Par genocīda, nozieguma pret cilvēci, nozieguma pret mieru vai kara nozieguma publisku slavināšanu vai īstenotā genocīda, nozieguma pret cilvēci, nozieguma pret mieru vai kara nozieguma, tai skaitā PSRS vai nacistiskās Vācijas īstenotā genocīda, nozieguma pret cilvēci, nozieguma pret mieru vai kara nozieguma pret Latvijas Republiku un tās iedzīvotājiem, publisku slavināšanu, noliegšanu, attaisnošanu vai rupju noniecināšanu -
 soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu.

@@ -1,0 +1,2 @@
+69.¹ pants. Medicīniska rakstura piespiedu līdzekļa noteikšana pēc vairākiem nolēmumiem
+Ja persona, kurai noteikts medicīniska rakstura piespiedu līdzeklis, pēc tā noteikšanas izdara jaunu noziedzīgu nodarījumu, par kuru tai tiek noteikts medicīniska rakstura piespiedu līdzeklis, tiesa jaunajā nolēmumā noteiktajam medicīniska rakstura piespiedu līdzeklim pievieno iepriekš noteikto medicīniska rakstura piespiedu līdzekli, mazāk ierobežojošo medicīniska rakstura piespiedu līdzekli ietverot vairāk ierobežojošajā līdzeklī.
