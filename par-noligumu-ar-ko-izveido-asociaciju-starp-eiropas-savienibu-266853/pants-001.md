@@ -1,0 +1,1 @@
+1.pants. 2012.gada 29.jūnijā Hondurasā parakstītais Nolīgums, ar ko izveido asociāciju starp Eiropas Savienību un tās dalībvalstīm, no vienas puses, un Centrālameriku, no otras puses (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.
