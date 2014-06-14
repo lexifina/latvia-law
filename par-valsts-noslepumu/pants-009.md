@@ -1,9 +1,6 @@
 9.pants. Valsts noslēpuma pieejamība
 (1) Pieeja valsts noslēpumam ir atļauta tikai tām personām, kurām saskaņā ar amata (dienesta) pienākumiem vai konkrētu darba (dienesta) uzdevumu ir nepieciešams veikt darbu, kas saistīts ar valsts noslēpuma izmantošanu vai tā aizsardzību, un kuras saskaņā ar šo likumu ir saņēmušas speciālas atļaujas. Personas pārbaude veicama pirms darba (dienesta) attiecību uzsākšanas.
-(2) Speciālo atļauju pieejai valsts noslēpumam (turpmāk - speciālā atļauja) var izsniegt personai, kura ir:
-1) rīcībspējīga un nav jaunāka par 18 gadiem;
-2) Latvijas pilsonis;
-3) parakstījusi saistībrakstu, ka apņemas saglabāt un nelikumīgi neizpaust valsts noslēpumu, un piekritusi, ka kompetentas valsts drošības iestādes veiks nepieciešamos personas pārbaudes un valsts noslēpuma aizsardzības pasākumus.
+(2) Speciālo atļauju pieejai valsts noslēpumam (turpmāk - speciālā atļauja) var izsniegt Latvijas pilsonim, kurš nav jaunāks par 18 gadiem, kuram nav nodibināta aizgādnība, kurš ir parakstījis saistībrakstu, ka apņemas saglabāt un nelikumīgi neizpaust valsts noslēpumu, un kurš ir piekritis, ka kompetentas valsts drošības iestādes veiks nepieciešamos personas pārbaudes un valsts noslēpuma aizsardzības pasākumus.
 (3) Pieeja konfidenciāliem, slepeniem un sevišķi slepeniem valsts noslēpuma objektiem tiek liegta personai:
 1) kura iesniegusi atteikumu no Latvijas pilsonības;
 2) kuras rīcībspēja ir ierobežota likumā noteiktajā kārtībā;
