@@ -1,0 +1,1 @@
+1.pants. Pagaidu nolīgums ceļā uz Ekonomisko partnerattiecību nolīgumu starp Eiropas Kopienu un tās dalībvalstīm, no vienas puses, un Centrālāfrikas Līgumslēdzēju pusi, no otras puses (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.
