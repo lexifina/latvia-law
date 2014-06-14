@@ -10,4 +10,4 @@ Saeima:
 8) ieceļ amatā un atbrīvo no amata likumā noteiktās aizsardzības institūciju un valsts drošības iestāžu amatpersonas;
 9) lemj par kara pasludināšanu un uzsākšanu;
 10) izvērtē izsludinātās ārkārtējās situācijas, izņēmuma stāvokļa vai mobilizācijas pamatotību;
-11) izskata Ministru prezidenta gadskārtējo ziņojumu par nacionālo drošību.
+11) izskata Ministru prezidenta sniegto informāciju par nacionālo drošību.
