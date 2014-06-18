@@ -1,7 +1,7 @@
 16.pants. Īpašuma tiesības uz kuģi
 (1) Par kuģa īpašnieku atzīstama persona, kas par tādu reģistrēta Kuģu reģistrā un kas ir saņēmusi īpašuma apliecību.
 (2) Pamats īpašuma tiesību iegūšanai uz kuģi ir:
-1) atsavināšanas līgums un notariālā akta kārtībā sastādīts kuģa nodošanas - pieņemšanas akts. Ja atsavināšanas līgums noslēgts ārvalstī, tas legalizējams šā kodeksa 10.panta otrajā daļā noteiktajā kārtībā;
+1) atsavināšanas līgums un kuģa nodošanas un pieņemšanas akts;
 2) dokuments, kas apliecina tiesības iegūt kuģi īpašumā mantošanas ceļā, uz kuras pamata mantinieks var iegūt ar ieilgumu arī svešas lietas, kas ietilpst mantojumā;
 3) likumīgā spēkā stājies tiesas nolēmums, ar kuru ieguvējam (arī personai, kura pati uzbūvējusi kuģi) atzītas īpašuma tiesības;
 4) ja uzbūvēts jauns kuģis, - būvētāja apliecinājums (sertifikāts), kurā norādīts kuģa ieguvējs;
