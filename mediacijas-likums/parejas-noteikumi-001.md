@@ -1,0 +1,1 @@
+1. Mediatori, kuriem sertifikāti izsniegti līdz šā likuma spēkā stāšanās dienai, iekļaujami sertificētu mediatoru sarakstā tikai pēc sertifikācijas atbilstoši Ministru kabineta noteikumiem, kas izdoti saskaņā ar šo likumu.

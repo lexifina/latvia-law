@@ -1,0 +1,1 @@
+4. Biedrība "Mediācijas padome" ne vēlāk kā līdz 2014.gada 1.oktobrim organizē pirmo mediatoru sertifikācijas pārbaudījumu un ne vēlāk kā līdz 2014.gada 1.novembrim lūdz tieslietu ministru sasaukt pirmo sertificētu mediatoru kopsapulci.

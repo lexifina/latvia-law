@@ -1,0 +1,3 @@
+9.pants. Mediācijas priekšlikuma noraidīšana
+(1) Vienas puses priekšlikums risināt domstarpības, izmantojot mediāciju, (turpmāk - mediācijas priekšlikums) uzskatāms par noraidītu, ja nav saņemta otras puses piekrišana mediācijas izmantošanai. Ja puses nav vienojušās citādi, termiņš piekrišanas došanai ir 30 dienas no mediācijas priekšlikuma nosūtīšanas dienas.
+(2) Ja piekrišana mediācijai ir saņemta, bet 30 dienu laikā no tās saņemšanas dienas līgums ar mediatoru netiek noslēgts, tad uzskatāms, ka mediācijas priekšlikums ir noraidīts, ja vien puse šajā termiņā nav lūgusi Sertificētu mediatoru padomi ieteikt mediatoru.
