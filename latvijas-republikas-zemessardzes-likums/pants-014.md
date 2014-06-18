@@ -9,5 +9,5 @@
 1) kura ir atvaļināta no militārā vai cita valsts dienesta par disciplīnas pārkāpumiem;
 2) kura tiek turēta aizdomās vai apsūdzēta noziedzīga nodarījuma izdarīšanā;
 3) attiecībā uz kuru ir stājies spēkā notiesājošs tiesas spriedums vai prokurora priekšraksts par sodu;
-4) kura atrodas narkologa vai psihiatra uzskaitē, kurai ir hroniski psihiski traucējumi vai tiem pielīdzināti stāvokļi vai kura atzīta par rīcībnespējīgu;
+4) kura atrodas narkologa vai psihiatra uzskaitē, kurai ir hroniski psihiski traucējumi vai tiem pielīdzināti stāvokļi vai kurai nodibināta aizgādnība;
 5) kura ir bijusi PSRS, Latvijas PSR, ir vai ir bijusi kādas ārvalsts drošības dienesta, izlūkdienesta vai pretizlūkošanas dienesta štata vai ārštata darbinieks, aģents, rezidents vai konspiratīvā dzīvokļa turētājs.

@@ -1,3 +1,4 @@
 27.pants. Zemessarga atstādināšana no amata
 (1) Ja pret zemessargu ir ierosināta dienesta izmeklēšana vai viņš ir aizdomās turamais vai apsūdzētais noziedzīga nodarījuma izdarīšanā un zemessarga atrašanās amatā var traucēt izmeklēšanas gaitu vai dienesta pienākumu pildīšanu, viņu līdz lietas izlemšanai var atstādināt no amata.
 (2) Atstādināt zemessargu no amata un, ja nepieciešams, iecelt amata pagaidu izpildītāju drīkst komandieris, kuram ir tiesības iecelt zemessargu attiecīgajā amatā, vai augstāks komandieris.
+(3) Zemessardzes komandieris ir tiesīgs atstādināt no amata zemessargu, ar kuru noslēgts kāds no šajā likumā paredzētajiem papildu līgumiem, un izbeigt šo līgumu, ja zemessargs bez attaisnojoša iemesla atstājis dienesta vietu vai bez attaisnojoša iemesla nav ieradies noteiktajā laikā dienesta vietā. Par šo laiku zemessargam neizmaksā mēnešalgu, atvaļinājuma pabalstu, uzturdevu vai tās kompensāciju un šo laiku neieskaita viņa izdienas stāžā.

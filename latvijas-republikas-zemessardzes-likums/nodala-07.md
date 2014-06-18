@@ -1,2 +1,2 @@
 VII nodaļa
-Zemessarga iesaistīšana Nacionālo bruņoto spēku komandiera noteikto objektu apsardzē un dalība starptautiskajās operācijās un ātrās reaģēšanas spēkos
+Zemessarga iesaistīšana noteiktu, ar kaujas atbalstu vai kaujas nodrošinājumu saistītu amatu pienākumu izpildē un viņa dalība starptautiskajās operācijās un ātrās reaģēšanas spēkos

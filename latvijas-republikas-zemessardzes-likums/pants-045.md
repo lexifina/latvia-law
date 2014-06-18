@@ -3,4 +3,4 @@
 (2) Zemessardzes veterānu apvienības finansē no Zemessardzei piešķirtajiem valsts budžeta līdzekļiem.
 (3) Zemessardzes veterānu darbību vada veterānu priekšnieks, kuru ieceļ amatā Zemessardzes komandieris.
 (4) Zemessardzes veterānu priekšnieks saņem algu Ministru kabineta noteiktajā kārtībā un apmērā.
-(5) Zemessardzes veterāniem ir tiesības valkāt formas tērpu šā likuma 37.pantā noteiktajā kārtībā.
+(5) Zemessardzes veterāniem ir tiesības valkāt formas tērpu šā likuma 38.pantā noteiktajā kārtībā.
