@@ -6,4 +6,5 @@ Tiesa atliek lietas izskatīšanu:
 4) ja nepieciešams pieaicināt par lietas dalībnieku personu, kuras tiesības vai ar likumu aizsargātās intereses var tikt aizskartas ar tiesas spriedumu;
 5) šā likuma 240.pantā paredzētajā gadījumā;
 6) ja tiesas sēdē neierodas atbildētājs, kuram saskaņā ar šā likuma 56.² panta pirmo daļu ir nosūtīts paziņojums par tiesas sēdes laiku un vietu un ir saņemts apstiprinājums par dokumentu izsniegšanu (56.² panta otrā daļa), bet atbildētājs paziņojumu nav saņēmis savlaicīgi;
-7) ja tiesas sēdē neierodas atbildētājs, kuram saskaņā ar šā likuma 56.² panta pirmo daļu ir nosūtīts paziņojums par tiesas sēdes laiku un vietu vai prasības pieteikuma noraksts, un nav saņemts apstiprinājums par dokumentu izsniegšanu (56.² panta otrā daļa) vai dokumentu neizsniegšanu.
+7) ja tiesas sēdē neierodas atbildētājs, kuram saskaņā ar šā likuma 56.² panta pirmo daļu ir nosūtīts paziņojums par tiesas sēdes laiku un vietu vai prasības pieteikuma noraksts, un nav saņemts apstiprinājums par dokumentu izsniegšanu (56.² panta otrā daļa) vai dokumentu neizsniegšanu;
+8) ja saņemta pušu piekrišana mediācijai.

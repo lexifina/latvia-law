@@ -3,6 +3,7 @@
 1) strīds nav pakļauts tiesai;
 2) prasību cēlusi persona, kurai nav prasības tiesību;
 3) puses likumā noteiktajā kārtībā vienojušās par strīda nodošanu izskatīšanai šķīrējtiesā;
+3¹) puses likumā noteiktajā kārtībā vienojušās par strīda risināšanu, izmantojot mediāciju, un nav iesniegti pierādījumi par to, ka priekšlikums risināt strīdu, izmantojot mediāciju, ir noraidīts vai mediācijas līgums nav noslēgts, vai mediācija izbeigusies, nepanākot vienošanos Mediācijas likumā noteiktajā kārtībā;
 4) tās pašas vai citas tiesas tiesvedībā ir lieta par strīdu starp tām pašām pusēm, par to pašu priekšmetu un uz tā paša pamata;
 5) strīdā starp tām pašām pusēm, par to pašu priekšmetu un uz tā paša pamata ir likumīgā spēkā stājies tiesas spriedums vai lēmums izbeigt tiesvedību sakarā ar prasītāja atteikšanos no prasības vai pušu izlīguma apstiprināšanu;
 6) lieta nav piekritīga šai tiesai;

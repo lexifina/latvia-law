@@ -17,7 +17,7 @@
 2) samazināt prasījumu apmēru;
 3) rakstveidā grozīt prasības pamatu vai priekšmetu vai palielināt prasījumu apmēru, iekams nav uzsākta lietas izskatīšana pēc būtības (šā likuma 163.pants).
 (4) Atbildētājs ir tiesīgs pilnīgi vai daļēji atzīt prasību, celt iebildumus pret prasību vai celt pretprasību.
-(5) Puses var noslēgt izlīgumu vai vienoties par lietas nodošanu izskatīšanai šķīrējtiesā.
+(5) Puses var vienoties par mediācijas izmantošanu, kā arī noslēgt izlīgumu vai vienoties par lietas nodošanu izskatīšanai šķīrējtiesā.
 (6) Pusēm savas tiesības jāizmanto un pienākumi jāizpilda godprātīgi.
 (7) Pusēm ir pienākums:
 1) ierasties pēc tiesas aicinājuma tiesā;

@@ -10,9 +10,10 @@
 3) prasības priekšmets;
 4) prasības summa, ja prasība ir novērtējama naudas izteiksmē, kā arī piedzenamās vai apstrīdamās summas aprēķins;
 5) apstākļi, ar kuriem prasītājs pamato savu prasījumu, un pierādījumi, kas tos apstiprina;
+5¹) ziņas par mediācijas izmantošanu strīda risināšanai pirms vēršanās tiesā;
 6) likums, uz kura prasība pamatota;
 7) prasītāja prasījumi;
 8) prasības pieteikumam pievienoto dokumentu saraksts;
-9) prasības pieteikuma sastādīšanas laiks un citas ziņas, ja tās nepieciešamas lietas izskatīšanai.
+9) prasības pieteikuma sastādīšanas laiks un citas ziņas, ja tās nepieciešamas lietas izskatīšanai. Prasītājs var norādīt savu tālruņa numuru vai elektroniskā pasta adresi, ja viņš piekrīt saziņai ar tiesu izmantot tālruni vai elektronisko pastu.
 (3) Prasības pieteikumu paraksta prasītājs vai viņa pārstāvis, vai prasītājs kopā ar pārstāvi, ja to noteikusi tiesa, izņemot šā likuma 72.panta piektajā daļā noteikto gadījumu. Ja prasību prasītāja vārdā ceļ viņa pārstāvis, prasības pieteikumam pievienojama pilnvara vai cits dokuments, kas apliecina pārstāvja pilnvarojumu celt prasību.
 (4) Latvijas centrālā iestāde lietā par uzturlīdzekļu piedziņu vai uzturlīdzekļu piedziņu bērnam un paternitātes noteikšanu, piemērojot Padomes 2008.gada 18.decembra regulu (EK) Nr. 4/2009 par jurisdikciju, piemērojamiem tiesību aktiem, nolēmumu atzīšanu un izpildi un sadarbību uzturēšanas saistību lietās (turpmāk - Padomes regula Nr. 4/2009), ceļ prasību vai pārsūta prasības pieteikumu, iesniedzot tiesā minētās regulas VII pielikuma veidlapu, kas uzskatāma par prasības pieteikumu, ievērojot šīs regulas 57.pantā noteiktos rekvizītus.
