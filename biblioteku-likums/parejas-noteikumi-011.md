@@ -1,0 +1,1 @@
+11. Grozījums šā likuma 17.panta astotajā daļā par tās papildināšanu ar trešo teikumu stājas spēkā 2015.gada 1.janvārī. Ministru kabinets līdz 2014.gada 31.decembrim izdod šā likuma 17.panta astotās daļas trešajā teikumā minētos noteikumus.
