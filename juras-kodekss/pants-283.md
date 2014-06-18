@@ -1,4 +1,6 @@
-283.pants. Briesmas
-(1) Ja kuģis ir briesmās, kuģa kapteiņa pienākums ir darīt visu iespējamo, lai izglābtu visas personas, kas atrodas uz kuģa, kā arī pasargātu kuģi un kravu. Ja nepieciešams, kuģa kapteinis pārliecinās, ka kuģa žurnāli un citi dokumenti ir nogādāti drošībā, un iespēju robežās organizē kuģa un kravas glābšanu.
-(2) Ja kuģa bojāeja ir nenovēršama, kuģa kapteinis atstāj kuģi pēdējais.
-(3) Kuģa kapteiņa pienākums ir, nepakļaujot kuģi un uz tā esošos cilvēkus briesmām, sniegt visu iespējamo un nepieciešamo palīdzību katrai personai, kura atrodas uz kuģa vai kurai draud briesmas jūrā.
+283.pants. Jūrnieka darba tiesisko attiecību regulējums
+(1) Jūrnieku darba tiesiskās attiecības regulē Darba likums, šis kodekss, citi normatīvie akti, tai skaitā Latvijai saistoši starptautiskie tiesību akti.
+(2) Jūrnieku darba tiesisko attiecību jomā šā kodeksa tiesību normas ir speciālās tiesību normas. Jautājumos, kurus neregulē šis kodekss, piemērojams Darba likums.
+(3) Jūrnieka individuālās darba tiesiskās attiecības ar kuģa īpašnieku nosaka:
+1) rakstveidā noslēgts darba līgums (turpmāk šajā sadaļā - darba līgums). Viens darba līguma eksemplārs tiek izsniegts jūrniekam un atrodas pie jūrnieka uz kuģa, otrs - kuģa īpašniekam;
+2) koplīgums (ja tāds ir noslēgts), ko noslēdz jūrnieku arodbiedrība vai jūrnieku (kuģa apkalpes) pilnvaroti pārstāvji ar kuģa īpašnieku.

@@ -1,2 +1,4 @@
-284.pants. Kuģa aizturēšana ārvalstī
-Ja kuģis tiek aizturēts ārvalstī, kuģa kapteiņa pienākums ir par to paziņot tuvākajai Latvijas diplomātiskajai pārstāvniecībai ārvalstī un Latvijas Jūras administrācijai, paziņojumam pievienojot to dokumentu kopijas, uz kuru pamata kuģis aizturēts.
+284.pants. Minimālais vecums darbam uz kuģa
+(1) Darbā uz kuģa nedrīkst pieņemt vai nodarbināt personas, kas ir jaunākas par 16 gadiem.
+(2) Jūrniekus, kuri nav sasnieguši 18 gadu vecumu, aizliegts nodarbināt nakts laikā. Aizliegums neattiecas uz to jūrnieku plānotu apmācību saskaņā ar atzītām mācību programmām, kuru vecums ir no 16 līdz 18 gadiem.
+(3) Jūrniekus, kuri nav sasnieguši 18 gadu vecumu, aizliegts nodarbināt darbos, kas var apdraudēt viņu veselību vai drošību. Šo darbu veidus, kā arī izņēmumus no tiem nosaka saskaņā ar normatīvajiem aktiem par pusaudžu nodarbināšanu.

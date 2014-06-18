@@ -1,3 +1,1 @@
-310.pants. Kuģa apkalpes locekļa tiesības pārtraukt darbu
-(1) Kuģa apkalpes loceklis nedrīkst streikot, lai aizsargātu savas tiesības, ja kuģis nav stabili pietauvots drošā piestātnē vai streiks var apdraudēt cilvēku dzīvību vai kuģošanas drošību.
-(2) Ja kuģis ir pietauvots drošā piestātnē, kuģa apkalpes loceklim sakarā ar darba strīdu ir tiesības pārtraukt darbu uz kuģa, ja viņš 48 stundas iepriekš ir brīdinājis kuģa kapteini par savu nodomu. Kuģa apkalpes loceklim ir tiesības šo 48 stundu laikā atsaukt savu brīdinājumu, un, ja viņš to nav darījis, kuģa apkalpes locekli nedrīkst piespiest iziet jūrā.
+310.- 322. pants (Izslēgti ar 22.05.2014. likumu, kas stājas spēkā 18.06.2014.)

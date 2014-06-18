@@ -1,2 +1,2 @@
 XXIX nodaļa
-Kuģa kapteinis
+Vispārīgie noteikumi

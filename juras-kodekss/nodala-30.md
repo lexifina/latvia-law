@@ -1,2 +1,2 @@
 XXX nodaļa
-Jūrnieka darbs un labklājība
+Kuģa kapteinis, viņa tiesības un pienākumi

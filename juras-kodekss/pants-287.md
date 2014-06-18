@@ -1,2 +1,2 @@
-287.pants. Minimālais vecums darbam uz Latvijas kuģiem
-Darbā uz Latvijas kuģiem nedrīkst pieņemt personas, kas jaunākas par 16 gadiem.
+287.pants. MLC konvencijas kuģa īpašnieka pienākums
+MLC konvencijas kuģa īpašnieks, kas izmanto jūrnieku rekrutēšanas un darbā iekārtošanas dienestus, kuri atrodas valstīs, uz kurām neattiecas MLC konvencija, pēc iespējas nodrošina, lai šie dienesti ievērotu MLC konvencijas 1.4.standarta prasības.

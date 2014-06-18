@@ -1,2 +1,2 @@
-295.pants. Darba samaksas izmaksāšana
-Darba devējam ir pienākums izmaksāt kuģa apkalpes loceklim darba samaksu reizi mēnesī, ja darba līgumā vai darba koplīgumā nav paredzēta cita darba samaksas izmaksāšanas kārtība.
+295.pants. Jūrnieka rīcība briesmu gadījumā
+Briesmu gadījumā jūrnieks veic jebkuru saprātīgu darbību, lai pasargātu uz kuģa esošo cilvēku dzīvību un veselību, kā arī kuģi no bojāejas vai nopietniem bojājumiem.

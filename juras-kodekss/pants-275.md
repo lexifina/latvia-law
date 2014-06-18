@@ -1,2 +1,3 @@
-275.pants. Kuģa kapteiņa pilnvaras noziedzīga nodarījuma gadījumā
-Ja uz kuģa ir izdarīts noziedzīgs nodarījums, kuģa kapteinim ir izziņas iestādes pilnvaras saskaņā ar kriminālprocesu regulējošām normām.
+275.pants. Kuģa kapteiņa vispārējie pienākumi, uzsākot reisu
+(1) Pirms reisa uzsākšanas kuģa kapteinis veic nepieciešamos pasākumus, lai nodrošinātu kuģa jūrasspēju un gatavību reisam, ieskaitot korpusa, mehānismu un aprīkojuma pārbaudi, apkalpes komplektēšanu, kuģa apgādi ar pārtiku, degvielu un ūdeni, kuģa atbilstību kravas uzņemšanai, pārvadāšanai un saglabāšanai. Kuģa kapteinis pārliecinās, ka krava ir pienācīgi iekrauta, nostiprināta un aizsargāta, kuģis nav pārkrauts, tā stabilitāte un korpusa stiprība ir apmierinoša.
+(2) Kuģa kapteinis iepriekš iespējami labi iepazīstas ar attiecīgo normatīvo regulējumu, kas ir spēkā kuģošanas rajonos un ostās, uz kurām dodas kuģis.

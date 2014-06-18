@@ -1,3 +1,2 @@
-299.pants. Darba samaksas ierobežojumi
-(1) Jūrniekam nav tiesību saņemt darba samaksu par laiku, kad viņš nelikumīgi atteicies strādāt pēc darba līguma spēkā stāšanās vai arī pēc norādītā darba uzsākšanas datuma.
-(2) Jūrniekam nav tiesību saņemt darba samaksu par laiku, kad viņš saskaņā ar tiesas nolēmumu atradies ieslodzījumā, ja vien tiesa nav lēmusi citādi.
+299.pants. Jūrnieka tiesības iesniegt sūdzību
+Ja jūrnieks informē kuģa kapteini, ka vēlas iesniegt pret kuģa kapteini vai kādu no kuģa apkalpes locekļiem vērstu prasību kompetentajā iestādē vai tiesā, kuģa kapteinis nedrīkst liegt jūrniekam viņa atpūtas laikā doties krastā, lai šo prasījumu iesniegtu.

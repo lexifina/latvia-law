@@ -1,3 +1,2 @@
-306.pants. Jūrnieka tiesiskā aizsardzība
-(1) Darba līguma nosacījumi, kuri ir pretrunā ar Latvijas normatīvajiem aktiem, uzskatāmi par spēkā neesošiem.
-(2) Jūrnieka darba līgumā papildus darba samaksai nosaka atlīdzību par glābšanas darbiem, kuros viņš piedalās.
+306.pants. Jūrnieka mirstīgo atlieku repatriācija
+Ja jūrnieka nāve iestājas uz kuģa vai krastā darba tiesisko attiecību laikā, kuģa īpašnieks pēc iespējas ātrākā veidā nodrošina viņa mirstīgo atlieku nogādāšanu piemērotā atgriešanās vietā vai dzīvesvietā un sedz apbedīšanas izdevumus.

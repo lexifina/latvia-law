@@ -1,11 +1,6 @@
-285.pants. Paziņojums par jūras negadījumu
-Latvijas kuģa kapteinis paziņo Latvijas Jūras administrācijai par šādiem ar kuģi saistītiem negadījumiem jūrā:
-1) personas nāve, smags ievainojums vai saindēšanās un citi negadījumi;
-2) kuģa sadursme ar citu kuģi vai objektu;
-3) kuģa uzskriešana uz sēkļa;
-4) kuģa pamešana jūrā;
-5) bīstama kravas nobīde;
-6) ievērojami kuģa vai kravas bojājumi;
-7) zaudējumi, kas radušies trešajām personām kuģa darbības rezultātā;
-8) ugunsgrēks vai sprādziens uz kuģa;
-9) bīstamu vielu noplūdes dēļ ir piesārņota vide.
+285.pants. Darba un atpūtas apstākļi uz kuģa
+(1) Kuģa kapteinis uzrauga, lai jūrniekam uz kuģa tiktu nodrošināti normatīvajos aktos noteiktajām prasībām atbilstoši darba un atpūtas apstākļi. Par šo prasību nodrošināšanu ir atbildīgs kuģa īpašnieks.
+(2) Kuģa kapteinis uzrauga, lai jūrnieks uz kuģa tiktu nodrošināts ar atbilstošas kvalitātes un daudzuma pārtiku un dzeramo ūdeni.
+(3) Kuģa kapteinis ir atbildīgs par jūrnieka darba laika un atpūtas laika atbilstību normatīvajos aktos noteiktajām prasībām.
+(4) Kuģa kapteinis vai viņa pilnvarota persona ikvienu jūrnieku, kas uzsāk darbu uz kuģa, iepazīstina ar darba aizsardzības, ugunsdrošības tehnikas, ugunsdzēsības un citām attiecīgajām instrukcijām.
+(5) Jūrniekam ir pienākums uz kuģa ievērot darba kārtības noteikumus un izpildīt kapteiņa rīkojumus.

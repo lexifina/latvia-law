@@ -1,2 +1,0 @@
-322.pants. Pabalstu un atgriešanās izdevumu atlīdzināšana
-Ja šā kodeksa 311.pantā minētos izdevumus Latvijas Republikas vārdā segusi diplomātiskā vai konsulārā pārstāvniecība vai kādas ārvalsts valdība, darba devējs attiecīgo summu atmaksā šai pārstāvniecībai vai ārvalsts valdībai. Darba devējs pārskaita pabalsta summu uz konsulārās amatpersonas norādīto bankas kontu vai izsniedz garantijas vēstuli par pabalsta summas atmaksāšanu.

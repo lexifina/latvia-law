@@ -1,2 +1,3 @@
-304.pants. Jūrnieka atbrīvošana kuģa īpašnieka maiņas gadījumā
-Ja mainās Latvijas kuģa īpašnieks, visus uz kuģa strādājošos jūrniekus atbrīvo no darba, ievērojot Darba likuma normas, ja vien viņi rakstveidā neapliecina, ka piekrīt turpināt darbu uz šā kuģa līdz reisa beigām, un ja reiss netiek pārtraukts.
+304.pants. Kuģa īpašnieka atbildība
+(1) Kuģa īpašnieks, uzsākot darba attiecības ar jūrnieku, nedrīkst pieprasīt jūrniekam veikt iepriekšēju maksājumu, lai segtu repatriācijas izmaksas. Kuģa īpašnieks nedrīkst atskaitīt repatriācijas izmaksas no jūrnieka darba algas vai citām samaksām, izņemot gadījumu, kad jūrnieks būtiski nav pildījis jūrnieka darba līgumā noteiktās saistības.
+(2) Kuģa īpašniekam ir pienākums kuģa apdrošināšanas polises noteikumos iekļaut savu atbildību attiecībā uz jūrnieku repatriāciju. Apdrošināšanas mērķis ir sniegt finansiālu garantiju, ka jūrnieks tiks repatriēts atbilstoši šajā nodaļā noteiktajām prasībām.

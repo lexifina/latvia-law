@@ -1,6 +1,0 @@
-319.pants. Jūrnieka repatriācija
-(1) Ja darba līgums tiek izbeigts citā ostā, nevis līguma noslēgšanas ostā, jūrnieku par darba devēja līdzekļiem nogādā piemērotā atgriešanās ostā. Darba devējs veic nepieciešamos pasākumus, lai segtu visus ar jūrnieka atgriešanos saistītos izdevumus.
-(2) Darba devēja pienākums ir samaksāt par jūrnieka uzturēšanos un ārstēšanos līdz tam brīdim, kad viņš ierodas piemērotā atgriešanās ostā.
-(3) Ja darba līguma spēkā esamības laikā uz Latvijas kuģa strādājoša jūrnieka darbs tiek pārtraukts pret viņa gribu, kuģa kapteiņa pienākums ir izmaksāt darba samaksas atlikumu, kā arī veikt atbilstošus pasākumus jūrnieka uzturēšanai un nosūtīšanai uz viņam piemērotu atgriešanās ostu. Par veiktajiem pasākumiem kuģa kapteinis izdara ierakstu kuģa žurnālā.
-(4) Ja kuģa kapteinis bez būtiska iemesla neievēro šā panta trešajā daļā minētos noteikumus, nepieciešamos izdevumus jūrnieka uzturēšanai un nokļūšanai viņam piemērotā atgriešanās ostā atlīdzina personai, kura maksājusi par jūrnieka repatriāciju, vai jūrniekam, ja viņš pats sedzis šos izdevumus.
-(5) Izdevumus šā panta ceturtajā daļā minētajā gadījumā var piedzīt no darba devēja, bet, ja kuģis ir pazudis vai gājis bojā, - no tās personas, kas ir kuģa īpašnieks vai berbouta fraktētājs kuģa pazušanas vai bojāejas brīdī.

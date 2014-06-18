@@ -1,2 +1,3 @@
-294.pants. Kuģa apkalpes locekļa rīcība jūras briesmu gadījumā
-Kuģa apkalpes loceklis veic jebkuru saprātīgu darbību, lai pasargātu uz kuģa esošo cilvēku dzīvību un viņu veselību, kā arī lai pasargātu kuģi no bojāejas vai nopietniem bojājumiem, ja kuģis ir jūras briesmās.
+294.pants. Jūrnieka tiesības doties krastā atpūtas laikā
+(1) Kuģim atrodoties ostā, jūrnieks atpūtas laikā var doties krastā, ja palikšana uz kuģa nav nepieciešama kuģa, kravas vai uz kuģa esošo cilvēku drošības interesēs un ir saņemta sardzes stūrmaņa (sardzes mehāniķa) atļauja.
+(2) Ja jūrnieks pēc nokāpšanas krastā nevar ierasties uz kuģa paredzētajā laikā, viņš par to nekavējoties ziņo kuģa kapteinim.

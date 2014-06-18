@@ -1,3 +1,2 @@
-278.pants. Kuģa žurnāli
-(1) Kuģa ekspluatācijas laikā uz Latvijas kuģa jābūt kuģa žurnāliem, kā to nosaka Jūrlietu pārvaldes un jūras drošības likums.
-(2) Kuģa kapteinis ir atbildīgs par kuģa žurnālu izpildīšanu un glabāšanu.
+278.pants. Kuģa kapteiņa tiesības veikt izmeklēšanu
+Kuģa kapteinis veic izmeklēšanu uz tālbraucienos esošiem jūras kuģiem saskaņā ar Kriminālprocesa likumā noteikto kārtību.

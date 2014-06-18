@@ -1,5 +1,15 @@
-288.pants. Jūrnieka darba līgums
-(1) Jūrnieka darba līgums (turpmāk - darba līgums) ir rakstveida vienošanās starp kuģa īpašnieku vai berbouta fraktētāju (turpmāk - darba devējs) un personu, kuru pieņem darbā noteiktu darba pienākumu veikšanai uz kuģa (turpmāk - jūrnieks).
-(2) Jūrnieka pienākums ir ievērot attiecīgā kuģa iekšējās kārtības noteikumus un izpildīt kuģa kapteiņa rīkojumus. Darba devēja pienākums ir maksāt darba līgumā paredzēto darba samaksu, kā arī nodrošināt taisnīgus, drošus un veselībai nekaitīgus darba apstākļus.
-(3) Jūrnieki, kas norīkoti darbā uz konkrēta kuģa, tiek ierakstīti attiecīgā kuģa apkalpes sarakstā.
-(4) Uzsākot darbu uz kuģa, ikviens apkalpes loceklis saņem darba, ugunsdrošības tehnikas, ugunsdzēsības un citas nepieciešamās instruktāžas, kuras sniedz kuģa kapteinis vai viņa pilnvarota persona.
+288.pants. Darba tiesisko attiecību izbeigšana
+(1) Darba līgums ar jūrnieku tiek izbeigts Darba likumā noteiktajos gadījumos, kā arī tad, ja:
+1) kuģis, uz kura jūrnieks pieņemts darbā, gājis bojā vai vairs nav remontējams (kuģa konstruktīvā zuduma dēļ);
+2) jūrnieka darbība (bezdarbība) apdraud kuģošanas drošību;
+3) kuģis tiek pārreģistrēts citas valsts kuģu reģistrā;
+4) kuģim mainās īpašnieks.
+(2) Ja kuģa īpašnieks nav ievērojis darba līguma uzteikuma termiņus vai darba līgums tiek izbeigts uz jūrniekam labvēlīga tiesas sprieduma pamata, jūrniekam ir tiesības uz darba samaksas kompensāciju par laiku līdz darba līguma termiņa beigām.
+(3) Izbeidzoties darba tiesiskajām attiecībām, kuģa kapteinis izsniedz jūrniekam dokumentus, kurus jūrnieks, uzsākot darbu uz kuģa, nodevis kuģa kapteiņa glabāšanā, un veic ierakstus jūrnieka grāmatiņas sadaļā "Ziņas par darbu uz kuģiem" vai izsniedz jūrniekam izziņu par darbu uz kuģa. Izziņā iekļauj tikai šādu informāciju:
+1) kuģa nosaukums, reģistrācijas numurs un tips;
+2) kuģa pieraksta osta;
+3) kuģa bruto tilpība un galvenā dzinēja jauda;
+4) laiks, kad jūrnieks ieradies uz kuģa;
+5) laiks, kad jūrnieks aizgājis no kuģa;
+6) jūrnieka amats;
+7) brauciena apraksts.

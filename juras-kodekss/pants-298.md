@@ -1,2 +1,8 @@
-298.pants. Darba samaksas nesaistīšana ar frakti
-Darba līgumā noteiktā kuģa apkalpes locekļa darba samaksa izmaksājama neatkarīgi no tā, vai ir saņemta frakts.
+298.pants. MLC konvencijas kuģa īpašnieka atbildība par jūrnieku veselības aizsardzību un ārstēšanās izdevumiem
+(1) Jūrniekam, strādājot uz kuģa, ir tiesības saņemt neatliekamo medicīnisko palīdzību, un tās izdevumus sedz kuģa īpašnieks.
+(2) MLC konvencijas kuģa īpašnieks sedz jūrniekam ar ārstēšanos saistītos izdevumus, ciktāl tos nenodrošina valsts vispārēji noteiktā kārtībā vai nesedz veselības apdrošināšanas polises. Izdevumus sedz:
+1) ja jūrnieks guvis savainojumu uz kuģa, - līdz brīdim, kad jūrnieks pilnīgi atveseļojies vai kad ārsts atzīst jūrnieku par darba nespējīgu;
+2) ja jūrnieks saslimis uz kuģa, - ne mazāk kā 16 nedēļas, skaitot no dienas, kad jūrnieks saslimis.
+(3) Jūrniekam, kas savainojuma vai slimības dēļ nevar pildīt savus darba pienākumus, kuģa īpašnieks turpina izmaksāt darba algu līdz dienai, kad jūrniekam kā sociāli apdrošinātai personai ir tiesības saņemt likumā noteiktos sociālās apdrošināšanas pakalpojumus. Ja kuģa īpašnieks nav reģistrējis jūrnieku Valsts ieņēmumu dienesta Nodokļu maksātāju reģistrā un tādēļ jūrniekam nav tiesību uz valsts sociālās apdrošināšanas pakalpojumu, kuģa īpašnieks jūrniekam maksā darba līgumā nolīgto darba algu ne mazāk kā 16 nedēļas, skaitot no dienas, kad jūrnieks guvis savainojumu vai saslimis.
+(4) Kuģa īpašniekam ir pienākums kuģa apdrošināšanas polises noteikumos iekļaut jūrnieku apdrošināšanu nāves un invaliditātes gadījumiem, ja nāve vai invaliditāte iestājusies jūrnieku darbā gūta savainojuma, slimības vai apdraudējuma rezultātā. Šī apdrošinājuma summa nedrīkst būt mazāka par koplīgumā vai Starptautiskās transporta darbinieku federācijas noteikto summu.
+(5) Šajā pantā noteiktais neierobežo kuģa īpašnieku koplīgumā vai jūrnieka darba līgumā paredzēt citas sociālās garantijas un samaksas jūrniekam.
