@@ -4,6 +4,7 @@
 1) tiesas sēdes vietu un laiku (arī tiesas sēdes sākumu un beigas);
 2) tiesas sastāvu, tiesas sēdes sekretāru, kā arī tulku, ja viņš piedalās tiesas sēdē;
 3) apsūdzētā vārdu un uzvārdu, noziedzīgu nodarījumu saskaņā ar apsūdzību;
+3¹) juridiskās personas, pret kuru uzsākts process par piespiedu ietekmēšanas līdzekļa piemērošanu, nosaukumu un reģistrācijas numuru;
 4) prokurora, aizstāvja vārdu un uzvārdu, ja viņi piedalās tiesas sēdē;
 5) cietušā, viņa pārstāvja vārdu un uzvārdu, ja viņi piedalās tiesas sēdē;
 6) tiesai pieteikto lūgumu būtību, ja tādi ir pieteikti, un attiecībā uz tiem tiesas pieņemto lēmumu saturu.

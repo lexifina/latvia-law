@@ -7,7 +7,8 @@
 5) saņemt no procesa virzītāja attiecīgajā tiesas apgabalā praktizējošo advokātu sarakstu, kā arī bez maksas izmantot telefonu aizstāvja uzaicināšanai;
 6) tikt informētai par to, kāds pieņēmums izteikts vai kādas aizdomas radušās pret šo personu, vai kāda apsūdzība tai izvirzīta;
 7) likumā noteiktajā kārtībā un apjomā saņemt mutvārdu vai rakstveida tulkojumu tai saprotamā valodā;
-8) sniegt liecību vai atteikties liecināt.
+8) sniegt liecību vai atteikties liecināt;
+9) likumā noteiktajos gadījumos, termiņos un kārtībā pārsūdzēt procesuālos lēmumus.
 (2) Liecības nesniegšana nav vērtējama kā traucēšana noskaidrot patiesību lietā un izvairīšanās no pirmstiesas procesa un tiesas.
 (3) Papildus tiesībām, kas noteiktas šā panta pirmajā daļā, aizturētajam, kā arī aizdomās turētajam vai apsūdzētajam, kuram piemērots ar brīvības atņemšanu saistīts drošības līdzeklis, ir šādas tiesības:
 1) iepazīties ar tiem lietas materiāliem, ar kuriem pamatots ierosinājums piemērot ar brīvības atņemšanu saistītu drošības līdzekli, ciktāl šāda piekļuve neapdraud citu personu pamattiesības, sabiedrības intereses un netraucē kriminālprocesa mērķa sasniegšanu;

@@ -7,6 +7,8 @@
 4) drošības līdzekli;
 5) mantas arestu;
 6) amatpersonām, kuras veic konkrētu kriminālprocesu;
-7) personas tiesību ierobežošanas termiņu pirmstiesas kriminālprocesā.
+7) personas tiesību ierobežošanas termiņu pirmstiesas kriminālprocesā;
+8) procesa par piespiedu ietekmēšanas līdzekļa piemērošanu uzsākšanu;
+9) juridiskās personas pārstāvi.
 (3) Reģistra nomaiņa procesa gaitā nav pieļaujama.
 (4) Procesa virzītājs triju darba dienu laikā pēc pieteikuma iesniegšanas nodrošina šajā likumā noteikto personu, kurām ir tiesības iepazīties ar kriminālprocesa reģistru, iepazīstināšanu ar kriminālprocesa reģistru.

@@ -1,6 +1,6 @@
 450.pants. Krimināllietas iztiesāšanas atklātums
 (1) Krimināllietu iztiesā atklātā tiesas sēdē.
-(2) Krimināllietu iztiesā slēgtā tiesas sēdē, ja nepieciešams aizsargāt valsts vai adopcijas noslēpumu.
+(2) Slēgtā tiesas sēdē iztiesā krimināllietu par noziedzīgu nodarījumu pret nepilngadīgā tikumību un dzimumneaizskaramību, kā arī krimināllietu, kurā nepieciešams aizsargāt valsts vai adopcijas noslēpumu.
 (3) Ar motivētu lēmumu tiesa var noteikt slēgtu tiesas sēdi:
 1) krimināllietā par noziedzīgu nodarījumu, ko izdarījusi sešpadsmit gadu vecumu nesasniegusi persona;
 2) krimināllietā par noziedzīgu nodarījumu pret tikumību un dzimumneaizskaramību;

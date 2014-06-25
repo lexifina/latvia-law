@@ -1,0 +1,3 @@
+635.¹ pants. Nolēmuma par medicīniska rakstura piespiedu līdzekļa noteikšanu izpilde, ja ir vairāki nolēmumi
+(1) Ja attiecībā uz personu ir vairāki nolēmumi par medicīniska rakstura piespiedu līdzekļa noteikšanu, tiesa, kura taisījusi pēdējo nolēmumu pirmajā instancē, saskaņā ar Krimināllikumā noteikto pieņem lēmumu par galīgā medicīniska rakstura piespiedu līdzekļa noteikšanu.
+(2) Jautājumus, kuri saistīti ar nolēmumā noteiktā medicīniska rakstura piespiedu līdzekļa izpildi un kontroli, kā arī neskaidrības, kas rodas, izpildot tiesas lēmumu, pēc nolēmuma izpildes iestādes vai prokurora iesnieguma izlemj tās pirmās instances tiesas tiesnesis, kura pieņēmusi nolēmumu par galīgā medicīniska rakstura piespiedu līdzekļa noteikšanu.

@@ -8,3 +8,4 @@
 4) to lūdz juridiskās personas pārstāvis.
 (4) Lēmumam, ar kuru process par piespiedu ietekmēšanas līdzekļa piemērošanu juridiskajai personai izdalīts atsevišķā lietvedībā, pievieno izdalīto krimināllietas materiālu kopijas un to sarakstu.
 (5) Lēmums, ar kuru process par piespiedu ietekmēšanas līdzekļa piemērošanu juridiskajai personai izdalīts atsevišķā lietvedībā, nav pārsūdzams.
+(6) Atsevišķā lietvedībā izdalīts process par piespiedu ietekmēšanas līdzekļa piemērošanu juridiskajai personai notiek, ievērojot šajā likumā noteikto vispārējo kārtību, ja vien šajā likumā nav noteikts citādi.

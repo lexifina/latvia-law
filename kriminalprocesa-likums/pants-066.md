@@ -9,7 +9,7 @@
 7) iepazīties ar lēmumu par ekspertīzes noteikšanu pirms tā nodošanas izpildei, ja ekspertīze attiecas uz šo personu, un lūgt, lai tiek uzdoti papildjautājumi, par kuriem ekspertam jādod atzinums, izņemot gadījumus, kad ekspertīze noteikta citas izmeklēšanas darbības laikā;
 8) iepazīties ar ekspertīzes atzinumu pēc tā saņemšanas, ja ekspertīze veikta pēc šīs personas pieteikuma;
 9) likumā noteiktajā kārtībā iesniegt sūdzības par kriminālprocesa veikšanai pilnvarotas amatpersonas rīcību;
-10) likumā noteiktajos gadījumos, termiņos un kārtībā pārsūdzēt procesuālos lēmumus;
+10) (izslēgts ar 29.05.2014. likumu);
 11) mutvārdos vai rakstveidā paust savu attieksmi pret izteiktajām aizdomām;
 12) pieprasīt, lai pasākumi krimināltiesisko attiecību noregulēšanai tiktu veikti ar tās piekrišanu;
 13) izlīgt ar cietušo;

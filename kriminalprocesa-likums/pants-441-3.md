@@ -1,0 +1,3 @@
+441.³ pants. Pirmstiesas procesa par piespiedu ietekmēšanas līdzekļa piemērošanu juridiskajai personai izbeigšana
+(1) Procesa virzītājs var pieņemt lēmumu par pirmstiesas procesa par piespiedu ietekmēšanas līdzekļa piemērošanu izbeigšanu, ja noskaidroti šā likuma 377.panta 1., 2., 3., 8. vai 10.punktā minētie apstākļi.
+(2) Izmeklētājs ar uzraugošā prokurora piekrišanu vai prokurors var pieņemt lēmumu par pirmstiesas procesa par piespiedu ietekmēšanas līdzekļa piemērošanu izbeigšanu, ja pirmstiesas procesā nav izdevies pierādīt, ka noziedzīgs nodarījums izdarīts juridiskās personas interesēs, labā vai nepienācīgas pārraudzības vai kontroles rezultātā un nav iespējams savākt papildu pierādījumus.

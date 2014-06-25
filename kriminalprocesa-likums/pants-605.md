@@ -1,6 +1,6 @@
 605.pants. Tiesas lēmums krimināllietā
 (1) Atzīstot, ka persona noziedzīgu nodarījumu izdarījusi, būdama nepieskaitāmības stāvoklī, vai ka šī persona saslimusi ar psihiskiem traucējumiem pēc noziedzīga nodarījuma izdarīšanas un tāpēc nespēj apzināties savu rīcību vai vadīt to, saskaņā ar Krimināllikuma 13.pantu tiesa pieņem lēmumu par šīs personas atbrīvošanu no kriminālatbildības vai soda un nosaka kādu no Krimināllikuma 68.pantā paredzētajiem medicīniska rakstura piespiedu līdzekļiem.
-(2) Ja persona pēc izdarītā nodarījuma rakstura un sava psihiskā stāvokļa nav bīstama sabiedrībai, tiesa var nodot to tuvinieku vai citu personu gādībā, kuras veic slimnieku kopšanu, un ārstniecības iestādes uzraudzībā pēc tās dzīvesvietas.
+(2) Ja persona pēc izdarītā nodarījuma rakstura un sava psihiskā stāvokļa nav bīstama sabiedrībai, tiesa var nodot to tuvinieku vai citu personu gādībā, kuras veic slimnieku kopšanu.
 (3) Atzinusi, ka persona ir pieskaitāma, tiesa ar savu lēmumu nodod krimināllietu prokuroram pirmstiesas procesa pabeigšanai.
 (4) Atzinusi, ka pārbaudāmās personas piedalīšanās noziedzīgā nodarījumā nav pierādīta, vai noskaidrojusi apstākļus, kas vispār nepieļauj kriminālprocesu, tiesa pieņem lēmumu par kriminālprocesa izbeigšanu un paziņo par to ārstniecības iestādei, kurā šī persona ārstējas.
 (5) Atzinusi, ka pārbaudāmā persona nav izdarījusi noziedzīgu nodarījumu, bet to izdarījusi cita persona, tiesa kriminālprocesu pret pārbaudāmo personu izbeidz un krimināllietu nosūta prokuroram pirmstiesas procesa turpināšanai.

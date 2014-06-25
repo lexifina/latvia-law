@@ -6,3 +6,4 @@
 4) par advokāta darba samaksu;
 5) par lietas vai tās daļas nosūtīšanu prokuratūrai, ja noziedzīgs nodarījums ir noticis, bet nav pierādīta apsūdzētā piedalīšanās noziedzīgā nodarījumā.
 (2) Ja tiesa taisa attaisnojošu spriedumu, tā atstāj bez izskatīšanas pieteikumu par nodarījuma rezultātā radītā kaitējuma atlīdzināšanu. Pieteikuma atstāšana bez izskatīšanas nav šķērslis kaitējuma atlīdzināšanas prasības celšanai Civilprocesa likumā noteiktajā kārtībā.
+(3) Ja tiesa taisa attaisnojošu spriedumu un pieņem lēmumu par lietas daļas nosūtīšanu prokuratūrai, tā vienlaikus sprieduma rezolutīvajā daļā norāda tiesas lēmumu par kriminālprocesa sadalīšanu.

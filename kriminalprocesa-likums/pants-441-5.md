@@ -1,0 +1,3 @@
+441.⁵ pants. Izbeigtā pirmstiesas procesa par piespiedu ietekmēšanas līdzekļa piemērošanu juridiskajai personai atjaunošana
+(1) Procesuāli pilnvarota persona izbeigtu pirmstiesas procesu par piespiedu ietekmēšanas līdzekļa piemērošanu juridiskajai personai var atjaunot, atceļot lēmumu par izbeigšanu, ja konstatēts, ka tā pieņemšanai nebija likumīga pamata, vai ja atklāti jauni apstākļi, kuri nebija zināmi procesa virzītājam lēmuma pieņemšanas brīdī un kuriem ir būtiska nozīme lēmuma pieņemšanā.
+(2) Pirmstiesas procesu par piespiedu ietekmēšanas līdzekļa piemērošanu juridiskajai personai var atjaunot, ja nav iestājies kriminālatbildības noilgums.

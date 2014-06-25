@@ -1,0 +1,1 @@
+53. Līdz 2015.gada 1.janvārim nepilngadīgo, kurš nav sasniedzis 14 gadu vecumu, vai - pēc izmeklēšanas darbības veicēja ieskata - jebkuru nepilngadīgo pratina pedagoga vai tāda speciālista klātbūtnē, kas apmācīts psihologa darbam ar bērniem kriminālprocesā.

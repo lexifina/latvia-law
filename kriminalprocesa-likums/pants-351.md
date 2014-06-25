@@ -1,5 +1,5 @@
 351.pants. Kompensācijas pieteikums
-(1) Cietušajam ir tiesības iesniegt pieteikumu par radītā kaitējuma kompensāciju jebkurā kriminālprocesa stadijā līdz tiesas izmeklēšanas uzsākšanai pirmās instances tiesā. Pieteikumā jāpamato par mantisko zaudējumu pieprasītās kompensācijas apmērs, bet kompensācijas apmērs par morālo aizskārumu un fiziskajām ciešanām - tikai jānorāda.
+(1) Cietušajam ir tiesības iesniegt pieteikumu par radītā kaitējuma kompensāciju jebkurā kriminālprocesa stadijā līdz tiesas izmeklēšanas uzsākšanai pirmās instances tiesā. Pieteikumā jāpamato par mantisko zaudējumu pieprasītās kompensācijas apmērs, bet kompensācijas apmērs par morālo aizskārumu un fiziskajām ciešanām - tikai jānorāda. Pieteikumā var norādīt kredītiestādes vai finanšu iestādes konta numuru, kurā ieskaitāma kaitējuma kompensācija.
 (2) Pieteikumu var iesniegt rakstveidā vai izteikt mutvārdos. Mutvārdu pieteikumu procesa virzītājs ieraksta protokolā.
 (3) Pirmstiesas procesa laikā iesniegto pieteikumu un pieprasīto kompensācijas apmēru, kā arī savu viedokli par to prokurors norāda dokumentā par pirmstiesas procesa pabeigšanu.
 (4) Pie kriminālatbildības saucamās personas nenoskaidrošana nav šķērslis kompensācijas pieteikuma iesniegšanai.
