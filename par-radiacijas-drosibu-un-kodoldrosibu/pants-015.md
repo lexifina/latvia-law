@@ -1,4 +1,4 @@
 15.pants. Informācijas nodrošinājums
 (1) Operators un darbu vadītājs ir atbildīgi par to, lai Centrs, kā arī citu valsts un pašvaldību institūciju darbinieki, kuru kompetencē ietilpst radiācijas drošības un kodoldrošības jautājumi, saņemtu informāciju par radiācijas drošības un kodoldrošības pasākumiem attiecīgajā objektā.
-(2) Darbu vadītājs tieši vai ar masu saziņas līdzekļu starpniecību informē iedzīvotājus par veiktajiem vai plānotajiem radiācijas drošības un kodoldrošības pasākumiem attiecīgajā objektā.
-(3) Darbu vadītājs informē valsts un pašvaldību institūcijas un tieši vai ar masu saziņas līdzekļu starpniecību arī iedzīvotājus par iespējamiem negadījumiem, avārijām un nepieciešamajiem pasākumiem iedzīvotāju aizsardzībai avāriju gadījumos.
+(2) Kodoliekārtas, radioaktīvo atkritumu apglabāšanas objekta vai radioaktīvo atkritumu pārvaldības objekta operators katru gadu līdz 31.janvārim informē pašvaldību, kuras teritorijā atrodas attiecīgais objekts, par iepriekšējā kalendāra gadā veiktajām pārmaiņām objektā saistībā ar radiācijas drošību un kodoldrošību, kā arī par monitoringa rezultātiem un plānotajiem pasākumiem. Šo informāciju operators ievieto arī savā mājaslapā internetā.
+(3) (Izslēgta ar 29.05.2014. likumu)
