@@ -1,6 +1,6 @@
 41.pants. Valsts civildienesta attiecību izbeigšanās
 Valsts civildienesta attiecības izbeidzas:
-1) ja ierēdnis ar iestādes vadītāja, iestādes vadītājs ar ministra, bet Valsts kancelejas direktors ar Ministru prezidenta lēmumu tiek atbrīvots no ierēdņa amata:
+1) ja ierēdnis ar iestādes vadītāja, iestādes vadītājs ar ministra, bet Valsts kancelejas direktors un Pārresoru koordinācijas centra vadītājs ar Ministru prezidenta lēmumu tiek atbrīvots no ierēdņa amata:
 a) pēc paša vēlēšanās,
 b) sakarā ar termiņa izbeigšanos,
 c) sakarā ar pārbaudes neizturēšanu,

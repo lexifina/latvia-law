@@ -3,4 +3,4 @@
 (2) Ja šādā veidā atstādināto ierēdni tiesa atzīst par vainīgu noziedzīga nodarījuma izdarīšanā, darba samaksu par atstādināšanas laiku neizmaksā un viņš uzskatāms par atbrīvotu, skaitot no atstādināšanas dienas. Attaisnošanas gadījumā atstādinātajam ierēdnim izmaksājama darba samaksa par atstādināšanas laiku, ja vien atbrīvošanai nav cita pamata, kas noteikts šajā likumā.
 (3) Iestādes vadītājs atstādina ierēdni no amata pienākumu izpildes, ja to likumā noteiktajos gadījumos pieprasa attiecīgi pilnvarota valsts institūcija.
 (4) Attiecīgās iestādes vadītājs, ministrs, Ministru prezidents var atstādināt ierēdni no amata pienākumu izpildes ne ilgāk kā uz visu disciplinārlietas izmeklēšanas laiku, saglabājot amata mēnešalgu, sociālās garantijas, normatīvajos aktos noteiktās pastāvīgās piemaksas, kas saistītas ar dienestu, kā arī specializētajā civildienestā noteiktās dienesta pakāpes.
-(5) Iestādes vadītāju var atstādināt ministrs, Valsts kancelejas direktoru - Ministru prezidents.
+(5) Iestādes vadītāju var atstādināt ministrs, Valsts kancelejas direktoru un Pārresoru koordinācijas centra vadītāju - Ministru prezidents.
