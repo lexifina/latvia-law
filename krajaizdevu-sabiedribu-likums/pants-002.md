@@ -15,3 +15,4 @@
 (4) Krājaizdevu sabiedrība ir juridiskā persona. Krājaizdevu sabiedrībai ir tiesības statūtos noteiktajā kārtībā iegūt un atsavināt kustamu un nekustamu mantu, tai skaitā pieņemt dāvinājumus, ziedojumus un mantojumus, kā arī uzņemties saistības un būt par prasītāju un atbildētāju tiesā.
 (5) Krājaizdevu sabiedrības tiesībspēja rodas ar brīdi, kad šī sabiedrība ir reģistrēta Latvijas Republikas Uzņēmumu reģistrā.
 (6) (Izslēgta ar 21.06.2007. likumu.)
+(7) Krājaizdevu sabiedrībām un personām, uz kurām attiecas šā likuma prasības, ir pienākums Komisijas un Latvijas Bankas noteiktajos termiņos iesniegt tām visu pieprasīto informāciju, kas nepieciešama likumos noteikto Komisijas un Latvijas Bankas funkciju pildīšanai.

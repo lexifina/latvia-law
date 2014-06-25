@@ -1,3 +1,4 @@
 15.pants. Krājaizdevu sabiedrības pamatkapitāls
 (1) Krājaizdevu sabiedrības pamatkapitālu veido visu krājaizdevu sabiedrības biedru paju nominālvērtību summa. Krājaizdevu sabiedrības biedrs savas pajas drīkst apmaksāt tikai naudā. Krājaizdevu sabiedrības pamatkapitāla minimālais lielums ir 2500 euro.
+(1¹) Ja par krājaizdevu sabiedrības biedru kļūst šā likuma 5.panta piektās daļas 2. un 3.punktā minētā komercsabiedrība vai kooperatīvā sabiedrība, tad krājaizdevu sabiedrības minimālais pamatkapitāla lielums ir 25 000 euro.
 (2) Bijušā biedra prasījumu tiesības pret krājaizdevu sabiedrību par paju izmaksu noilgst, ja 60 gadu laikā pēc paju izmaksas beigu termiņa paja nav izņemta un ieinteresētā persona nav pieteikusi nekādus prasījumus par paju izmaksu. Pēc termiņa izbeigšanās neizņemtās pajas kļūst par krājaizdevu sabiedrības īpašumu.

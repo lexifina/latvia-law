@@ -1,12 +1,11 @@
 12.pants. Prasības krājaizdevu sabiedrības amatpersonām
-(1) Par krājaizdevu sabiedrības valdes priekšsēdētāju, valdes locekli, galveno grāmatvedi, revīzijas komisijas priekšsēdētāju un locekli var būt persona:
+(1) Par krājaizdevu sabiedrības valdes priekšsēdētāju, valdes locekli, revīzijas komisijas priekšsēdētāju un locekli var būt persona:
 1) (izslēgts ar 21.06.2007. likumu);
 2) kura ir kompetenta finanšu vadības jautājumos;
 3) kurai ir nepieciešamā izglītība vai profesionālā pieredze krājaizdevu sabiedrību darbībā;
-4) kurai ir nevainojama reputācija (uz to neattiecas neviens no šā panta otrajā daļā minētajiem nosacījumiem);
+4) kurai ir nevainojama reputācija;
 5) kurai nav atņemtas tiesības veikt komercdarbību.
-(2) Par krājaizdevu sabiedrības valdes priekšsēdētāju, valdes locekli, galveno grāmatvedi, revīzijas komisijas priekšsēdētāju un locekli nevar būt persona:
-1) kura ir notiesāta par tīša noziedzīga nodarījuma izdarīšanu, arī ļaunprātīgu bankrotu;
-2) kura ir notiesāta par tīša noziedzīga nodarījuma izdarīšanu, kaut arī atbrīvota no soda izciešanas sakarā ar noilgumu, apžēlošanu vai amnestiju;
-3) pret kuru krimināllieta par tīša noziedzīga nodarījuma izdarīšanu izbeigta sakarā ar noilgumu vai amnestiju.
-(3) Par krājaizdevu sabiedrības padomes priekšsēdētāju un padomes locekli var būt persona, kura atbilst šā panta pirmās daļas 2., 4. un 5.punkta prasībām.
+(2) Par krājaizdevu sabiedrības valdes priekšsēdētāju, valdes locekli, revīzijas komisijas priekšsēdētāju un locekli nevar būt persona, kura ir:
+1) sodīta par tīša noziedzīga nodarījuma izdarīšanu (neatkarīgi no sodāmības dzēšanas vai noņemšanas);
+2) saukta pie kriminālatbildības par tīša noziedzīga nodarījuma izdarīšanu un kriminālprocess pret kuru ir izbeigts uz nereabilitējoša pamata.
+(3) Par krājaizdevu sabiedrības padomes priekšsēdētāju un padomes locekli var būt persona, kura atbilst šā panta pirmās daļas 2., 4. un 5.punkta prasībām. Par krājaizdevu sabiedrības padomes priekšsēdētāju un padomes locekli nevar būt persona, uz kuru attiecināms šā panta otrās daļas 1. vai 2.punkts.

@@ -1,0 +1,11 @@
+24.² pants. Ārpakalpojuma sniegšanas vispārīgie noteikumi
+(1) Ārpakalpojums šā likuma izpratnē ir pakalpojums, kas saistīts ar krājaizdevu sabiedrības grāmatvedības kārtošanu, informācijas tehnoloģiju vai sistēmu pārvaldību vai attīstīšanu, vai cits pakalpojums, kas saistīts ar krājaizdevu sabiedrības finanšu pakalpojuma vai tā būtiska elementa sniegšanu.
+(2) Ārpakalpojumus krājaizdevu sabiedrībai ir tiesīgs sniegt tikai tāds ārpakalpojumu sniedzējs, kuram ir nepieciešamā kvalifikācija un pieredze tam deleģēto pienākumu izpildē.
+(3) Krājaizdevu sabiedrība nedrīkst deleģēt ārpakalpojumu sniedzējam saskaņā ar likumu vai krājaizdevu sabiedrības statūtiem noteiktos krājaizdevu sabiedrības pārvaldes institūciju pienākumus, kā arī:
+1) noguldījumu un citu atmaksājamo līdzekļu piesaistīšanu;
+2) galvojumu un citu tādu saistību aktu izsniegšanu, ar kuriem tā uzņēmusies pienākumu atbildēt kreditoram par trešās personas parādu;
+3) kreditēšanas pakalpojuma sniegšanu.
+(4) Ja krājaizdevu sabiedrība vēlas kā ārpakalpojumu deleģēt grāmatvedības kārtošanu, informācijas tehnoloģiju vai sistēmu pārvaldību vai attīstīšanu, tā pirms ārpakalpojuma saņemšanas iesniedz Komisijai pamatotu rakstveida iesniegumu par plānoto ārpakalpojuma saņemšanu. Iesniegumam pievieno ārpakalpojuma procedūru un ārpakalpojuma līguma oriģinālu vai tā apliecinātu kopiju.
+(5) Ārpakalpojumu sniedzējs uzsāk ārpakalpojuma sniegšanu krājaizdevu sabiedrībai, ja tā 30 dienu laikā no šā panta ceturtajā daļā minētā iesnieguma iesniegšanas dienas nav saņēmusi Komisijas aizliegumu saņemt ārpakalpojumu.
+(6) Ja krājaizdevu sabiedrība vēlas deleģēt ārpakalpojumu sniedzējam šā panta ceturtajā daļā neminētu ārpakalpojumu, kas saistīts ar krājaizdevu sabiedrības finanšu pakalpojuma vai kāda būtiska tā elementa sniegšanu, tā vienlaikus ar ārpakalpojuma sniegšanas uzsākšanu iesniedz Komisijai informāciju par plānoto ārpakalpojuma veidu un ārpakalpojuma sniedzēju.
+(7) Ārpakalpojuma saņemšana neatbrīvo krājaizdevu sabiedrību no likumā vai līgumā noteiktās atbildības. Krājaizdevu sabiedrība ir atbildīga par ārpakalpojuma sniedzēja veikumu tādā pašā mērā kā par savējo.

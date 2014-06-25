@@ -1,10 +1,10 @@
 20.pants. Krājaizdevu sabiedrības darbību regulējošās prasības
 (1) Krājaizdevu sabiedrības pašu kapitāla attiecība pret aktīvu un ārpusbilances posteņu kopsummu (kapitāla pietiekamība) nedrīkst būt mazāka par 10 procentiem.
-(2) Krājaizdevu sabiedrība savus aktīvus izvieto tā, lai jebkurā brīdī tiktu nodrošināta tās kreditoru juridiski pamatotu prasību apmierināšana.
+(2) Krājaizdevu sabiedrība savus aktīvus izvieto tā, lai jebkurā brīdī tiktu nodrošināta tās kreditoru juridiski pamatotu prasību apmierināšana. Likviditātes prasības nosaka Komisijas izdotie normatīvie noteikumi.
 (3) (Izslēgta ar 04.12.2008. likumu.)
-(4) Krājaizdevu sabiedrība ir tiesīga veikt ieguldījumus Latvijas Republikas valsts emitētajos vērtspapīros un Latvijas Republikā reģistrēto banku emitētajās hipotekārajās ķīlu zīmēs.
+(4) Krājaizdevu sabiedrība ir tiesīga veikt ieguldījumus Latvijas Republikas valsts emitētajos vērtspapīros, valsts kapitālsabiedrību emitētajos parāda vērtspapīros un Latvijas Republikā reģistrēto kredītiestāžu emitētajās hipotekārajās ķīlu zīmēs.
 (5) Krājaizdevu sabiedrība nav tiesīga dibināt komercsabiedrības, kā arī izdarīt ieguldījumus citu komercsabiedrību pamatkapitālā.
-(6) Krājaizdevu sabiedrība ir tiesīga saviem biedriem aizdevumos neizsniegtos līdzekļus noguldīt tikai Latvijas Republikā vai ārvalstī reģistrētā bankā vai krājaizdevu sabiedrībā.
+(6) Krājaizdevu sabiedrība ir tiesīga saviem biedriem aizdevumos neizsniegtos līdzekļus noguldīt tikai Latvijas Republikā vai ārvalstī reģistrētā kredītiestādē vai krājaizdevu sabiedrībā.
 (7) Krājaizdevu sabiedrības darījuma risks tiek kvalificēts kā liels, ja darījuma apmērs pārsniedz 10 procentus no krājaizdevu sabiedrības pašu kapitāla.
 (8) Lielo riska darījumu kopsumma nedrīkst pārsniegt krājaizdevu sabiedrības pašu kapitālu vairāk par astoņām reizēm.
 (9) Kopējais vienam biedram vai kopējai riska grupai izsniegto aizdevumu apjoms nedrīkst pārsniegt 25 procentus no krājaizdevu sabiedrības pašu kapitāla.

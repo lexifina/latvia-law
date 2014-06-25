@@ -1,0 +1,1 @@
+12. Tiesību subjekti, kuru nosaukums neatbilst grozījumiem šā likuma 6.panta otrajā daļā (par aizliegumu izmantot vārdu "krājaizdevu" nosaukumā vai pašreklāmā), līdz 2015.gada 1.janvārim nodrošina sava nosaukuma atbilstību šā likuma prasībām.

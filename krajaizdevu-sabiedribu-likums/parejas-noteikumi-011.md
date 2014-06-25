@@ -1,0 +1,1 @@
+11. Krājaizdevu sabiedrība nodrošina tās darbības atbilstību grozījumiem šā likuma 15.panta 1.¹ daļā, 19.panta 2.¹ daļā, 22.panta pirmajā daļā (attiecībā uz valdes locekļu skaitu), 24.² un 24.³ pantā sešu mēnešu laikā pēc šo grozījumu spēkā stāšanās dienas.
