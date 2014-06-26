@@ -1,5 +1,5 @@
 9. pants. Tauvas josla
-(1) Ar zveju vai kuģošanu un citām ar to saistītām darbībām gar ūdeņu krastiem ir nosakāma tauvas josla. Tauvas josla nav jānosaka, ja privātie ūdeņi visā to platībā un tiem piegulošās sauszemes daļa pieder vienam un tam pašam īpašniekam un zvejas tiesības šajos ūdeņos nepieder valstij.
+(1) Ar zvejas tiesību izmantošanu vai kuģošanu un citām ar to saistītām darbībām gar ūdeņu krastiem ir nosakāma tauvas josla. Tauvas josla nav jānosaka, ja privātie ūdeņi visā to platībā un tiem piegulošās sauszemes daļa pieder vienam un tam pašam īpašniekam un zvejas tiesības šajos ūdeņos nepieder valstij.
 (2) Tauvas josla gar jūras piekrasti ir norobežojama ar speciālām zīmēm, zemes īpašumu plānos tā apzīmējama kā lietošanas tiesību ierobežojums.
 (3) Gar upēm un ezeriem tauvas josla nav jānorobežo ar speciālām zīmēm; zemes īpašumu plānos tā apzīmējama kā lietošanas tiesību ierobežojums.
 (4) Tauvas josla gar mākslīgi izbūvētiem kanāliem, hidrotehniskām būvēm un citām būvēm uz ūdens (mākslīgi izbūvēta tauvas josla) nosakāma saskaņā ar šo būvju plāniem. To uztur un apsaimnieko attiecīgie īpašnieki (lietotāji).
@@ -14,7 +14,7 @@
 2) laivu un kuģu pārziemošana, būve un remonts;
 3) zvejnieku apmetņu ierīkošana, atpūta, zvejas rīku žāvēšana un citas ar zveju saistītas darbības;
 4) ūdenstūristu apmetņu ierīkošana.
-(8) Šā panta sestajā un septītajā daļā minētās darbības drīkst veikt, ievērojot vides aizsardzības normas, bet pie robežas ūdenstilpēm - arī valsts robežas režīma prasības.
+(8) Šā panta sestajā un septītajā daļā minētās darbības drīkst veikt, ievērojot vides aizsardzības normas, bet pie robežas ūdenstilpēm - arī valsts robežas režīma prasības. Baltijas jūras un Rīgas jūras līča piekrastes tauvas joslā laivu un kuģu pārziemošana, būve un remonts, kā arī zvejnieku un ūdenstūristu apmetņu ierīkošana atļauta, ja tas nav pretrunā ar vietējās pašvaldības teritorijas plānojumu.
 (9) Dabiskās tauvas joslas platums ir:
 1) gar privāto ūdeņu krastiem - 4 metri;
 2) gar pārējo ūdeņu krastiem - 10 metru;
@@ -25,7 +25,7 @@
 1) gar upju un ezeru lēzeniem krastiem - no normālās ūdenslīnijas;
 2) gar upju un ezeru kraujiem krastiem - no krasta nogāžu augšmalas, turklāt tauvas joslas platumā ietilpst arī zeme no ūdenslīmeņa līdz krasta nogāzei un pati nogāze;
 3) jūras piekrastē - no tās vietas, kuru sasniedz jūras augstākās bangas.
-(13) Piekrastes pilsētās vai biezi apdzīvotās vietās zvejošanai un kuģošanai (ja tāda tur atļauta) tauvas joslu lieto, ievērojot tādus pašus noteikumus kā neapdzīvotās vietās, bet, ja krastmalas apbūvētas ar ēkām tādā mērā, ka nav iespējams izmantot visu šā panta devītajā daļā noteikto platumu, gar ūdeņu krastu atstājama tik plata tauvas josla, lai nodrošinātu ērtu braukšanu pa krastu, ja nepieciešams, izvērtējot atsevišķi katru konkrēto apbūvi.
-(14) Atsevišķos gadījumos, kad pilsētās vai biezi apdzīvotās vietās izbūvē mākslīgās piekrastes, attiecīgo pašvaldību uzdevums ir ierīkot zvejas (ja tāda tur atļauta) un kuģošanas (ja tāda tur atļauta) vajadzībām ērti pieejamās vietās un piebraucamo ceļu tuvumā tauvas joslas vietā piemērota garuma un platuma piestātnes un uzturēt tās labā stāvoklī un lietošanai derīgas.
+(13) Piekrastes pilsētās vai biezi apdzīvotās vietās zvejas tiesību izmantošanai un kuģošanai (ja tāda tur atļauta) tauvas joslu lieto, ievērojot tādus pašus noteikumus kā neapdzīvotās vietās, bet, ja krastmalas apbūvētas ar ēkām tādā mērā, ka nav iespējams izmantot visu šā panta devītajā daļā noteikto platumu, gar ūdeņu krastu atstājama tik plata tauvas josla, lai nodrošinātu ērtu braukšanu pa krastu, ja nepieciešams, izvērtējot atsevišķi katru konkrēto apbūvi.
+(14) Atsevišķos gadījumos, kad pilsētās vai biezi apdzīvotās vietās izbūvē mākslīgās piekrastes, attiecīgo pašvaldību uzdevums ir ierīkot zvejas tiesību izmantošanas (ja tāda tur atļauta) un kuģošanas (ja tāda tur atļauta) vajadzībām ērti pieejamās vietās un piebraucamo ceļu tuvumā tauvas joslas vietā piemērota garuma un platuma piestātnes un uzturēt tās labā stāvoklī un lietošanai derīgas.
 (15) Ja dabiski mainās ūdenslīnija, atbilstoši jaunajai ūdenslīnijai mainās arī tauvas josla. Gadījumos, kad upes gultni groza ar mākslīgiem regulēšanas darbiem, ja nepieciešams, zemes gabali jaunām gultnēm un tauvas joslai atsavināmi uz vispārēja pamata saskaņā ar nekustamās mantas piespiedu atsavināšanas normām.
 (16) Šā panta noteikumi neattiecas uz ostas teritoriju, kuras robežas noteiktas saskaņā ar "Likuma par ostām" 3.pantu.

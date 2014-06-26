@@ -1,0 +1,1 @@
+26. Ministru kabinets noteikumos par rūpnieciskās zvejas limitiem un to izmantošanas kārtību iekšējos ūdeņos paredz, ka no 2015.gada 16.aprīļa Buļļupē zveja ar zivju murdiem ir atļauta, izmantojot ne vairāk kā sešus murdus, to skaitā četri murdi ar sētas garumu līdz 30 metriem un divi murdi ar sētas garumu virs 30 metriem.

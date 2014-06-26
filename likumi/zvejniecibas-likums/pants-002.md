@@ -1,3 +1,4 @@
-2. pants. Likuma darbība
-(1) Šis likums regulē Latvijas Republikas iekšējo ūdeņu, teritoriālo jūras ūdeņu (turpmāk - teritoriālie ūdeņi) un ekonomiskās zonas ūdeņu zivju resursu iegūšanu, izmantošanu, pētīšanu, saglabāšanu, pavairošanu un uzraudzīšanu.
-(2) Zivju resursu iegūšanu citu Eiropas Savienības dalībvalstu ūdeņos un starptautiskajos ūdeņos, kuros Latvijas Republikai ir iedalīta nozvejas kvota, vai trešo valstu ūdeņos, ar kurām Latvijai ir noslēgti nolīgumi zivsaimniecības jomā, regulē attiecīgie Eiropas Savienības tiesību akti un Latvijas Republikas noslēgtie starptautiskie līgumi.
+2.pants. Likuma mērķis un darbības joma
+(1) Šā likuma mērķis ir tāda Latvijas Republikas iekšējo ūdeņu, teritoriālo jūras ūdeņu (turpmāk - teritoriālie ūdeņi) un ekonomiskās zonas ūdeņu apsaimniekošana, kas, ievērojot bioloģiskās daudzveidības saglabāšanas nepieciešamību, nodrošina zivju resursu ilgtspējīgu izmantošanu, aizsardzību, pavairošanu un pētīšanu valsts zivsaimniecības nozares ilgtermiņa attīstībai.
+(2) Šis likums regulē Latvijas Republikas iekšējo ūdeņu, teritoriālo ūdeņu un ekonomiskās zonas ūdeņu zivju resursu iegūšanu, izmantošanu, pētīšanu, saglabāšanu, pavairošanu un uzraudzīšanu.
+(3) Zivju resursu iegūšanu citu Eiropas Savienības dalībvalstu ūdeņos un starptautiskajos ūdeņos, kuros Latvijas Republikai ir iedalīta nozvejas kvota, vai trešo valstu ūdeņos, ar kurām Latvijai ir noslēgti nolīgumi zivsaimniecības jomā, regulē attiecīgie Eiropas Savienības tiesību akti un Latvijas Republikas noslēgtie starptautiskie līgumi.

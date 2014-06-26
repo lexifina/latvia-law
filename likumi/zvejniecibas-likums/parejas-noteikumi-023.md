@@ -1,0 +1,1 @@
+23. Grozījums šā likuma 7.panta sestās daļas otrajā teikumā (ar kuru noteikts, ka zvejas tiesību iznomāšanai pašpatēriņa zvejai publiskajos ūdeņos, kas norādīti Civillikuma 1.pielikumā, attiecīgā pašvaldība ir tiesīga iedalīt tikai murdu limitu) piemērojams, sākot ar 2015.gada 1.janvāri.

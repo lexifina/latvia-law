@@ -8,4 +8,4 @@
 (4) Zvejas tiesības publiskajās upēs pieder katram piekrastes zemes īpašniekam gar viņa īpašuma robežu tajā ūdeņu daļā, kas viņa zemei ir tuvāka nekā cita īpašnieka zemei, un tās tiek izmantotas saskaņā ar spēkā esošajiem normatīvajiem aktiem.
 (5) Zvejas tiesības privātajos ūdeņos (izņemot Civillikuma 2. un 3.pielikumā minētos) pieder ūdeņu īpašniekam, un tās tiek izmantotas saskaņā ar spēkā esošajiem normatīvajiem aktiem.
 (6) Šajā pantā minētās rūpnieciskās zvejas tiesības var izmantot, ja attiecīgajos ūdeņos vai to daļā ir brīvi nozvejas limiti vai zvejas rīku limita daļa rūpnieciskajai zvejai, kā arī brīvas rūpnieciskās zvejas vietas.
-(7) Amatierzvejas - makšķerēšanas - tiesības tiek izmantotas saskaņā ar šā likuma 10.pantu.
+(7) Makšķerēšanas, vēžošanas un zemūdens medību tiesības izmantojamas saskaņā ar šā likuma 10.pantu.
