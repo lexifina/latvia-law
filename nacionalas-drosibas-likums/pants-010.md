@@ -6,7 +6,8 @@
 4) likumā noteiktajos gadījumos izsludina ārkārtējo situāciju, izņēmuma stāvokli un mobilizāciju;
 5) lemj par Nacionālo bruņoto spēku vienību piedalīšanos starptautiskajās glābšanas un humānajās operācijās, kā arī militārajās mācībās (manevros) ārpus Latvijas teritorijas;
 6) lemj par Ziemeļatlantijas līguma organizācijas un Eiropas Savienības dalībvalstu bruņoto spēku atbalsta nepieciešamību ārkārtējās situācijas vai izņēmuma stāvokļa laikā, kā arī valsts drošības un aizsardzības spēju pastiprināšanai miera laikā;
-7) (izslēgts ar 17.04.2008. likumu).
+7) (izslēgts ar 17.04.2008. likumu);
+8) pieņem lēmumu par Latvijas Republikas nostāju, ja cita Ziemeļatlantijas līguma organizācijas dalībvalsts pieprasa izskatīt jautājumu par Ziemeļatlantijas līguma organizācijas kolektīvās aizsardzības atbalstu (1949.gada 4.aprīļa Ziemeļatlantijas līguma 5.panta ietvaros).
 (2) Ministru kabinetam ir tiesības:
 1) pieprasīt un saņemt valsts drošības iestāžu rīcībā esošo informāciju, ievērojot likumā paredzētos informācijas izmantošanas noteikumus;
 2) uzdot atsevišķu uzdevumu izpildi valsts drošības iestādēm to kompetences ietvaros.
