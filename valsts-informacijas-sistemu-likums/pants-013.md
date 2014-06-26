@@ -9,5 +9,5 @@
 7) loģiskās aizsardzības līdzekļi - informācijas un programmatūras aizsardzības līdzekļi, kas, nodrošinot valsts informācijas sistēmas lietotāja identitātes un piekļuves tiesību pārbaudi, pasargā informāciju no tīšas vai nejaušas grozīšanas vai dzēšanas;
 8) valsts informācijas sistēmas tehniskie parametri un datu bāzu raksturojums;
 9) valsts informācijas sistēmas projektēšanas, izveidošanas un uzturēšanas izmaksas;
-10) informatīvo pakalpojumu tarifi.
+10) (izslēgts ar 05.06.2014. likumu).
 (2) Valsts informācijas sistēmu reģistrā neiekļauj informāciju, kas saskaņā ar likumu "Par valsts noslēpumu" atzīta par valsts noslēpuma objektu.

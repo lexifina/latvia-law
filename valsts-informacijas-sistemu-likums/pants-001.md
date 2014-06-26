@@ -7,6 +7,7 @@ Likumā ir lietoti šādi termini:
 5) valsts informācijas sistēmas datu subjekts - juridiskā vai fiziskā persona, kura normatīvajos aktos noteiktajā kārtībā sniedz datus par sevi un sev piekritīgajiem reģistrējamiem juridiski dokumentētiem objektiem (turpmāk - piekritīgie reģistrējamie objekti);
 6) integrēta valsts informācijas sistēma - loģiska valsts informācijas sistēmu apvienība, kuras ietvaros vienotā informācijas laukā tiek uzturēti atsevišķu valsts informācijas sistēmu dati;
 7) valsts informācijas sistēmu reģistrs - valsts reģistrs valsts informācijas sistēmu uzskaitei un to funkciju identificēšanai;
-8) valsts informācijas sistēmu savietotājs - centralizēts informācijas tehnoloģiju kopums, ar kura palīdzību tiek nodrošināta integrētas valsts informācijas sistēmas izveide un darbība;
-9) centralizēta valsts informācijas sistēma - valsts informācijas sistēma, kuru valsts informācijas sistēmas lietotājs lieto centralizēti, izmantojot valsts informācijas sistēmu savietotāju;
-10) (izslēgts ar 09.06.2011. likumu).
+8) valsts informācijas sistēmu savietotājs - centralizēts informācijas tehnoloģiju kopums, ar kura palīdzību var nodrošināt informācijas apriti integrētas valsts informācijas sistēmas ietvaros, kā arī starp valsts informācijas sistēmām un citām informācijas sistēmām, kuras veido un uztur valsts vai pašvaldību institūcijas vai privātpersonas;
+9) (izslēgts ar 05.06.2014. likumu);
+10) (izslēgts ar 09.06.2011. likumu);
+11) valsts informācijas sistēmu savietotāja pārzinis - institūcija, kas normatīvajos aktos noteiktajā kārtībā organizē un vada valsts informācijas sistēmu savietotāja darbību.
