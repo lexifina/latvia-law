@@ -1,0 +1,1 @@
+4.pants. Saskaņā ar Konvencijas 37.panta 2.punktu Ārlietu ministrija informē Eiropas Padomes ģenerālsekretāru, ka par Konvencijas 37.panta 1.punktā minēto datu sniegšanu atbildīgā institūcija ir Valsts policija.
