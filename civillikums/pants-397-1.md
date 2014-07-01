@@ -1,0 +1,1 @@
+397.¹ Ja mantojuma masas sastāvā ietilpst laulāto kopmanta, kas nav reģistrēta kā laulāto kopmanta, tad laulātais savu laulātā kopmantas daļu var prasīt izdalīt saskaņā ar 89.panta otrās daļas un 109.panta otrās daļas noteikumiem. Ja mantinieks ceļ iebildumus par laulātā kopmantas daļas izdalīšanu no mantojuma masas, laulātā kopmantas daļa ir izdalāma prasības kārtībā.

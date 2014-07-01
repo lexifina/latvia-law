@@ -5,5 +5,6 @@
 4) kas viltojis mantojuma atstājēja pēdējās gribas rīkojumu;
 5) kas atteicies no viņam pēdējās gribas rīkojumā uzliktā aizbildņa amata vai pienākuma kādu audzināt;
 6) kas neizpilda viņam uzlikto pienākumu rūpēties par mantojuma atstājēja apbedīšanu;
-7) kas gada laikā no pēdējās gribas rīkojuma spēkā nākšanas bez ievērojamiem iemesliem neizpilda mantojuma atstājēja uzlikumu.
+7) kas gada laikā no pēdējās gribas rīkojuma spēkā nākšanas bez ievērojamiem iemesliem neizpilda mantojuma atstājēja uzlikumu;
+8) kam atņemtas aizgādības tiesības ar spēkā stājušos tiesas spriedumu (200.p.).
 Mantojumu vai legātu nezaudē tas, kam mantojuma atstājējs piedevis.

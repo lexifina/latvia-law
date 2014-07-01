@@ -1,1 +1,1 @@
-405. Zemākas šķiras mantinieks nemanto, kamēr ir dzīvs kāds augstākas šķiras mantinieks.
+405. Zemākas šķiras mantinieks nemanto, ja savu gribu mantot izteicis kāds augstākas šķiras mantinieks.

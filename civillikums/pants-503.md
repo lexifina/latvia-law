@@ -1,1 +1,1 @@
-503. Piešķirot legātu nedrīkst aizskart neatraidāmo mantinieku tiesības.
+503. Piešķirot legātu nedrīkst aizskart neatņemamās daļas tiesīgo tiesības.

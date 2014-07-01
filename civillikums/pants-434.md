@@ -1,1 +1,1 @@
-434. Publisks testaments taisāms testatora personīgā klātbūtnē, piedaloties diviem lieciniekiem.
+434. Publisks testaments taisāms testatora personīgā klātbūtnē.
