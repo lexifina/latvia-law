@@ -1,0 +1,3 @@
+59.³ pants. Atbalsts bērna audzināšanai
+(1) Lēmumu par šā likuma 18.panta 4.punktā minēto izmaksu pārtraukšanu personai, kura bērnu neaudzina, un izmaksāšanu personai, kura faktiski audzina bērnu, pieņem bāriņtiesa, kuras darbības teritorijā ir deklarēta tās personas dzīvesvieta, kura faktiski audzina bērnu.
+(2) Lēmumu par šā likuma 18.panta 5.punktā minēto izmaksu pārtraukšanu personai, kura bērnu neaudzina, un izmaksāšanu pašam bērnam, ja viņš sasniedzis 15 gadu vecumu, pieņem bāriņtiesa, kuras darbības teritorijā ir deklarēta tā vecāka dzīvesvieta, pie kura bērns dzīvo, vai kura pieņēmusi lēmumu par ārpusģimenes aprūpi.

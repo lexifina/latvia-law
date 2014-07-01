@@ -3,7 +3,7 @@
 1) pārbauda ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijā ievietota bērna aprūpi;
 2) ja bērna mantas pārvaldībai nav iecelts sevišķais aizbildnis, pieprasa no ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijas vadītāja norēķinu par bērna mantas pārvaldību.
 (2) Bāriņtiesa lemj par bāreņa vai bez vecāku gādības palikuša bērna aprūpes izbeigšanu ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijā, ja:
-1) bērna vecākiem ir atjaunotas aprūpes vai aizgādības tiesības;
+1) bērna vecākiem ir atjaunotas aizgādības tiesības;
 2) bērnam ir nodibināta aizbildnība;
 3) bērns tiek nodots audžuģimenei;
 4) likumīgā spēkā stājies tiesas spriedums par bērna adopcijas apstiprināšanu.

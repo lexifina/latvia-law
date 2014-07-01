@@ -10,4 +10,5 @@ Bāriņtiesa:
 7) sniedz palīdzību bērnam vai aizgādnībā esošajai personai, kura pēc palīdzības vērsusies bāriņtiesā;
 7¹) uzklausa aizgādnībā esošo personu ikvienā jautājumā, kas skar šīs personas intereses;
 8) Kriminālprocesa likumā noteiktajos gadījumos pārstāv bērnu vai aizgādnībā esošo personu kriminālprocesā;
-9) informē vecāku, aizbildni, audžuģimeni vai viesģimeni par iespējamo apdraudējumu bērnam un par personas sodāmības faktu šā likuma 44.¹ pantā noteiktajos gadījumos, kā arī informē pašvaldības sociālo dienestu par vecākiem, aizbildņiem, audžuģimenēm vai viesģimenēm, kuras ir informētas šā likuma 44.¹ pantā noteiktajā kārtībā.
+9) informē vecāku, aizbildni, audžuģimeni vai viesģimeni par iespējamo apdraudējumu bērnam un par personas sodāmības faktu šā likuma 44.¹ pantā noteiktajos gadījumos, kā arī informē pašvaldības sociālo dienestu par vecākiem, aizbildņiem, audžuģimenēm vai viesģimenēm, kuras ir informētas šā likuma 44.¹ pantā noteiktajā kārtībā;
+10) pārstāv audžuģimenē ievietota bērna personiskās un mantiskās intereses un tiesības.

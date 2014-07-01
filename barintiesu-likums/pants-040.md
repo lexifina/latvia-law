@@ -4,8 +4,9 @@
 1¹) personai, kurai tiesa nodibinājusi pagaidu aizgādnību;
 2) personai, kurai rīcībspēju tiesa ierobežojusi izlaidīgas vai izšķērdīgas dzīves dēļ, kā arī alkohola vai citu apreibinošo vielu pārmērīgas lietošanas dēļ;
 3) promesošas vai pazudušas personas mantai;
-4) mantojumam;
+4) (izslēgts ar 08.05.2014. likumu);
 5) testamenta izpildīšanai.
+(1¹) Bāriņtiesa saskaņā ar notāra taisīto notariālo aktu par aizgādnības nodibināšanu mantojumam ieceļ aizgādni mantojumam.
 (2) Bāriņtiesa aizgādņus izvēlas saskaņā ar Civillikuma 355. un 661.pantu un pārliecinās, vai izraudzītajai personai ir nepieciešamās spējas un īpašības. Bāriņtiesa noskaidro aizgādnībā esošās personas viedokli par ieceļamo aizgādni.
 (2¹) Ieceļot personai aizgādni, bāriņtiesa saskaņā ar tiesas nolēmumu savā lēmumā norāda, kādā apjomā aizgādnis rīkojas kopā ar aizgādnībā esošo personu un kādā patstāvīgi šīs personas vietā, kā arī lēmuma darbības termiņu, ja tāds ir noteikts tiesas nolēmumā.
 (3) Bāriņtiesa lēmuma norakstu par aizgādņa iecelšanu nosūta tiesai, kura nodibinājusi aizgādnību.

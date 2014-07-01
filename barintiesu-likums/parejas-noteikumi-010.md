@@ -1,0 +1,1 @@
+10. Lietās, kurās bāriņtiesa līdz 2012.gada 31.decembrim ir pieņēmusi lēmumu par bērna aprūpes tiesību atņemšanu vecākam, no 2013.gada 1.janvāra līdz laikam, kamēr bāriņtiesa lemj par aizgādības tiesību atjaunošanu vai prasības celšanu tiesā par aizgādības tiesību atņemšanu, uzskatāms, ka vecākam ir pārtrauktas aizgādības tiesības.

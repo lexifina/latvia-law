@@ -17,3 +17,4 @@
 15) par mantojuma saraksta sastādīšanu - 48,38 euro;
 16) par cita veida dokumentu sastādīšanu - 4,27 euro (par katru lappusi).
 (2) Pašvaldības domei ir tiesības piemērot valsts nodevu atvieglojumus.
+(3) Par šā panta pirmās daļas 15.punktā paredzētā mantojuma saraksta sastādīšanu, ja mantojums tiek pieņemts nepilngadīgā vārdā, piemērojams valsts nodevas atvieglojums ne mazāk kā 50 procentu apmērā no nodevas apmēra.
