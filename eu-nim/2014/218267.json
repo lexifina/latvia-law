@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2014.gada 26.maija noteikumi Nr.272  \"Autoceļu lietošanas nodevas maksāšanas, iekasēšanas un administrēšanas kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "107 (5167)",
+  "official_journal_page": null,
+  "official_journal_date": "2014-06-03",
+  "entry_into_force": "2014-07-01",
+  "notification_date": "2014-07-10",
+  "commission_reference": "MNE(2014)54227",
+  "nim_celex": "72006L0038LVA_218267",
+  "nim_id": "218267",
+  "transposes_celex": [
+    "32006L0038"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c9c66aa9-0545-4c3d-8710-d52be72880bf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
