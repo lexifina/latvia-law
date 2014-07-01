@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2014.gada 17.jūnija noteikumi Nr.331 \"Elektrisko un elektronisko iekārtu un bateriju vai akumulatoru ražotāju reģistrācijas kārtība un samaksas kārtība par datu uzturēšanu\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "122 (5182)",
+  "official_journal_page": null,
+  "official_journal_date": "2014-06-26",
+  "entry_into_force": "2014-07-01",
+  "notification_date": "2014-11-04",
+  "commission_reference": "MNE(2014)56221",
+  "nim_celex": "72012L0019LVA_220957",
+  "nim_id": "220957",
+  "transposes_celex": [
+    "32012L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e3d2a6c5-9869-4771-8345-ab93d2f9c3f8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
