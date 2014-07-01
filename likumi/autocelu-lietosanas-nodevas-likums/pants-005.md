@@ -1,0 +1,4 @@
+5.pants. Nodevas administrēšana
+(1) Nodevu administrē valsts akciju sabiedrība "Ceļu satiksmes drošības direkcija", Valsts ieņēmumu dienests un valsts akciju sabiedrība "Latvijas Valsts ceļi".
+(2) Nodevas administrēšana ietver visas darbības, kas saistītas ar nodevas piemērošanu. Nodevas iekasēšana ietver visas darbības, kas saistītas ar nodevas maksājuma pieņemšanu no nodevas maksātāja un ieskaitīšanu valsts pamatbudžeta ieņēmumu kontā Valsts kasē, izmantojot valsts akciju sabiedrības "Ceļu satiksmes drošības direkcija" uzturēto elektronisko pakalpojumu sistēmu. Par nodevas iekasēšanas pakalpojumu sniegšanas nodrošināšanu visā valsts teritorijā ir atbildīga valsts akciju sabiedrība "Latvijas Valsts ceļi" un valsts akciju sabiedrība "Ceļu satiksmes drošības direkcija".
+(3) Nodevas iekasēšanas un administrēšanas kārtību nosaka Ministru kabinets.
