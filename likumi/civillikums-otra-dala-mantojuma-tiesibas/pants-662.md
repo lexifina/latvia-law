@@ -1,1 +1,1 @@
-662. Aizgādņi mantojuma pārvaldībā rīkojas pēc tiem pašiem noteikumiem, kas paredzēti pilngadīgo aizgādņiem (356. p.), ja atsevišķos gadījumos nav noteikts citādi.
+662. Aizgādņi mantojuma pārvaldībā un pārstāvēšanā rīkojas patstāvīgi un mantojuma vārdā. Aizgādnis mantojumu pārvalda ar tādu pašu rūpību un apzinību, ar kādu viņš kā labs saimnieks pārvalda savas paša lietas, ievērojot 269.pantā un turpmākajos pantos noteikto.

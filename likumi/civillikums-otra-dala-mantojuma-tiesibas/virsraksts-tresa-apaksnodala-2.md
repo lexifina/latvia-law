@@ -1,2 +1,2 @@
 Trešā apakšnodaļa
-Neatraidāmie mantinieki un neatņemamā daļa
+Neatņemamās daļas tiesīgie un neatņemamā daļa

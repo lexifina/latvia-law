@@ -1,1 +1,2 @@
 194. Ja vecāki bērna mantu pārvalda neatbilstoši bērna interesēm, bāriņtiesa var uzlikt viņiem par pienākumu sniegt norēķinos sīkas ziņas arī par izdevumiem bērna uzturam (191.p.), pieprasīt pietiekamu bērna mantas nodrošinājumu, kā arī atstādināt viņus no bērna mantas pārvaldības, uzdodot to vienam no vecākiem vai īpaši šim nolūkam ieceltam aizbildnim.
+Ja vecākam atņemtas aizgādības tiesības ar spēkā stājušos tiesas spriedumu (200.p.), viņam saglabājas pienākums uzturēt bērnu.

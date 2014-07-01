@@ -1,1 +1,1 @@
-821. Neatraidāmo mantinieku tiesību aizskārumam ir mantojuma līgumā tās pašas sekas, kā testamentā.
+821. Neatņemamās daļas tiesīgo tiesību aizskārumam ir mantojuma līgumā tās pašas sekas, kā testamentā.
