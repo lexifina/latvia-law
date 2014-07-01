@@ -70,7 +70,7 @@
 53) par sertifikācijas pakalpojumu sniedzēja akreditāciju un akreditācijas atjaunošanu (šo akreditāciju un akreditācijas atjaunošanu veic Datu valsts inspekcija);
 54) (izslēgts ar 21.10.2010. likumu);
 55) (izslēgts ar 17.06.2010. likumu);
-56) par Elektronisko sakaru likumā noteiktajām radiofrekvenču spektra lietošanas tiesībām (ikgadējā nodeva);
+56) (izslēgts no 07.02.2014. ar 19.12.2013. likumu, kas stājas spēkā 23.01.2014. Sk. Pārejas noteikumu 157.punktu);
 57) par Elektronisko sakaru likumā noteiktajām numerācijas resursu lietošanas tiesībām (ikgadējā nodeva);
 58) par Ģerboņu likumā noteikto ģerboņu reģistrāciju;
 59) par ģeodēzisko, zemes ierīcības vai zemes kadastrālās uzmērīšanas darbu sertifikāta izsniegšanu vai sertifikāta darbības termiņa pagarināšanu;
