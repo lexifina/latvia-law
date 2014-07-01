@@ -1,0 +1,2 @@
+4.pants. Komercdarbības atbalsta tiesiskais ietvars
+Komercdarbības atbalsta tiesiskais ietvars ir šis likums, Līgums par Eiropas Savienības darbību, Eiropas Savienības tiesību akti, Eiropas Savienības judikatūra un citi dokumenti komercdarbības atbalsta kontroles jomā, kurus piemēro, izvērtējot komercdarbības atbalsta saderīgumu ar iekšējo tirgu (turpmāk - Eiropas Savienības akti), kā arī citas Latvijas Republikai saistošas starptautisko tiesību normas.

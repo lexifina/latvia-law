@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Komisijas 2006.gada 16.novembra direktīvas 2006/111/EK par dalībvalstu un publisku uzņēmumu finansiālo attiecību pārredzamību, kā arī par dažu uzņēmumu finanšu pārredzamību (Dokuments attiecas uz EEZ).

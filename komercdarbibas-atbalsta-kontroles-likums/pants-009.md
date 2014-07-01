@@ -1,0 +1,6 @@
+9.pants. Komercdarbības atbalsta uzraudzības institūcijas
+(1) Finanšu ministrija:
+1) veic plānoto atbalsta programmu vai individuālo atbalsta projektu paziņojumu sākotnējo izvērtēšanu, izņemot to plānoto atbalsta programmu vai individuālo atbalsta projektu paziņojumu sākotnējo izvērtēšanu, kuru ietvaros tiek plānots sniegt atbalstu darbībām ar lauksaimniecības produktiem, kas minēti Līguma par Eiropas Savienības darbību I pielikumā, kā arī zvejniecības, akvakultūras un mežsaimniecības nozarē. Šis nosacījums attiecas arī uz plānotajiem grozījumiem esošajās atbalsta programmās vai individuālajos atbalsta projektos;
+2) ar Latvijas pārstāvniecības Eiropas Savienībā starpniecību nosūta Eiropas Komisijai ar atbalsta programmas vai individuālā atbalsta projekta paziņojumu saistīto informāciju;
+3) gatavo ikgadējo pārskatu par komercdarbībai sniegto atbalstu, izņemot atbalstu, kas sniegts darbībām ar lauksaimniecības produktiem, kas minēti Līguma par Eiropas Savienības darbību I pielikumā, kā arī zvejniecības, akvakultūras un mežsaimniecības nozarē.
+(2) Zemkopības ministrija veic plānoto atbalsta programmu vai individuālo atbalsta projektu paziņojumu sākotnējo izvērtēšanu darbībām ar lauksaimniecības produktiem, kas minēti Līguma par Eiropas Savienības darbību I pielikumā, kā arī zvejniecības, akvakultūras un mežsaimniecības nozarē.

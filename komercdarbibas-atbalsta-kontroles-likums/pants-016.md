@@ -1,0 +1,10 @@
+16.pants. Finanšu darījumu uzskaites izņēmumi
+(1) Šā likuma 14.panta pirmajā daļā noteiktās prasības neattiecas uz valsts vai pašvaldības institūcijas finansiālajām attiecībām ar:
+1) valsts vai pašvaldības kontrolē esošu kapitālsabiedrību, ja šīs kapitālsabiedrības iepriekšējo divu gadu vidējais apgrozījums pirms gada, kurā ir piešķirti vai lietoti šā likuma 14.panta pirmajā daļā minētie līdzekļi, ir mazāks par 40 miljoniem euro;
+2) valsts vai pašvaldības kontrolē esošu kredītiestādi, ja šīs kredītiestādes iepriekšējo gadu vidējā bilances kopsumma pirms gada, kurā ir piešķirti vai lietoti šā likuma 14.panta pirmajā daļā minētie līdzekļi, ir mazāka par 800 miljoniem euro;
+3) valsts vai pašvaldības kontrolē esošu kredītiestādi, ja valsts vai pašvaldības institūcija tajā iegulda valsts vai pašvaldības līdzekļus ar komerciāliem nosacījumiem;
+4) Latvijas Banku.
+(2) Šā likuma 14.panta trešajā daļā noteiktās prasības neattiecas uz:
+1) komercsabiedrību, ja šīs komercsabiedrības iepriekšējo divu gadu vidējais apgrozījums, sākot no gada, kurā tai saskaņā ar Līguma par Eiropas Savienības darbību 106.panta 1.punktu ir piešķirtas īpašas vai ekskluzīvas tiesības vai kurā tai saskaņā ar Līguma par Eiropas Savienības darbību 106.panta 2.punktu ir uzticēts sniegt kādu pakalpojumu ar vispārēju tautsaimniecisku nozīmi, ir mazāks par 40 miljoniem euro;
+2) valsts vai pašvaldības kontrolē esošu kredītiestādi, ja šīs kredītiestādes iepriekšējo gadu vidējā bilances kopsumma, sākot no gada, kurā tai saskaņā ar Līguma par Eiropas Savienības darbību 106.panta 1.punktu ir piešķirtas ekskluzīvas vai īpašas tiesības vai kurā tai saskaņā ar Līguma par Eiropas Savienības darbību 106.panta 2.punktu ir uzticēts sniegt kādu pakalpojumu ar vispārēju tautsaimniecisku nozīmi, ir mazāka par 800 miljoniem euro;
+3) komercsabiedrību, kurai saskaņā ar Līguma par Eiropas Savienības darbību 106.panta 2.punktu ir uzticēts sniegt pakalpojumus ar vispārēju tautsaimniecisku nozīmi, ja komercdarbības atbalsts, ko tā saņēmusi jebkādā formā, ir paredzēts uz noteiktu laiku un piešķirts, ievērojot atklātu, pārskatāmu procedūru bez diskriminācijas.

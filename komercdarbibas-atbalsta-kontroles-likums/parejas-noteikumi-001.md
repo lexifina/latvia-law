@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Komercdarbības atbalsta kontroles likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2003, 2.nr.; 2004, 9.nr.; 2006, 24.nr.; 2007, 23.nr.; 2008, 15.nr.; 2009, 10.nr.; Latvijas Vēstnesis, 2013, 193.nr.).
