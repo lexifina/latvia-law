@@ -1,0 +1,1 @@
+292.¹ Iesniegumu par aizgādnības nodibināšanu mantojumam iesniedz zvērinātam notāram, kurš ved mantojuma lietu, bet, ja mantojuma lieta nav uzsākta, - šā likuma 252.pantā minētajam zvērinātam notāram.

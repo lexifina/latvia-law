@@ -1,1 +1,1 @@
-266. Ja pušu vienošanās nav panākta vai mantinieki nav snieguši savu atsauksmi (263.pants), zvērināts notārs, pamatojoties uz mantojuma lietā esošajiem dokumentiem, taisa apliecību par laulātā mantas daļu.
+266. Ja mantojumu pieņēmušie mantinieki iesnieguši rakstveida iebildumus pret pārdzīvojušā laulātā mantas daļas izdalīšanu no mantojuma masas un nav panākta vienošanās, zvērināts notārs atsakās izsniegt pārdzīvojušajam laulātajam apliecību par laulātā mantas daļu.

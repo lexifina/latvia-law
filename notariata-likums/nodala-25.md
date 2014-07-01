@@ -1,2 +1,2 @@
 XXV nodaļa
-Mantojuma apsardzība
+Mantojuma apsardzība un aizgādnība

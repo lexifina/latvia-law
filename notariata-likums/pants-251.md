@@ -7,4 +7,5 @@
 6) par atteikšanos no testamentārās mantošanas;
 7) par izsludināšanu;
 8) par mantinieku uzaicināšanu;
-9) par mantojuma apsardzību.
+9) par mantojuma apsardzību;
+10) par aizgādnības nodibināšanu mantojumam.
