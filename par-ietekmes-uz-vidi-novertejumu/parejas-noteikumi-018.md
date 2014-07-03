@@ -1,0 +1,1 @@
+18. Ministru kabinets ne vēlāk kā līdz 2015.gada 1.janvārim izdod šā likuma 12.panta otrajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2015.gada 1.janvārim piemērojami Ministru kabineta 2011.gada 25.janvāra noteikumi Nr.83 "Kārtība, kādā novērtējama paredzētās darbības ietekme uz vidi".
