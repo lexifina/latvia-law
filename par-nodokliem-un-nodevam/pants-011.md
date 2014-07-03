@@ -59,12 +59,12 @@
 42) par Latvijas pilsonības atjaunošanas dokumentēšanu;
 43) par sertifikāta izsniegšanu un darbības laika pagarināšanu detektīvdarbības veikšanai;
 44) par mēslošanas līdzekļa reģistrāciju;
-45) par informācijas sniegšanu no Sodu reģistra;
+45) par izziņas no Sodu reģistra sagatavošanu;
 46) (izslēgts ar 16.12.2004. likumu);
 47) (izslēgts ar 16.12.2004. likumu);
 48) par nodrošinājumu darbinieku prasījumu apmierināšanai no darbinieku prasījumu garantiju fonda līdzekļiem un citiem likumā paredzētiem speciāliem mērķiem (uzņēmējdarbības riska valsts nodeva);
 49) par būvprojektēšanai nepieciešamo tehnisko un īpašo noteikumu saņemšanu valsts un pašvaldību institūcijās;
-50) par apsardzes darbības kvalifikācijas pārbaudījuma kārtošanu un apsardzes sertifikāta izsniegšanu;
+50) par apsardzes darbības kvalifikācijas pārbaudījuma kārtošanu, apsardzes sertifikāta izsniegšanu, apsardzes sertifikāta derīguma termiņa pagarināšanu, atkārtota apsardzes sertifikāta un apsardzes sertifikāta dublikāta izsniegšanu;
 51) par mednieku, medību vadītāju kandidātu eksamināciju, par mednieka apliecības, medību vadītāja apliecības, mednieka sezonas kartes un medību atļaujas izsniegšanu, par atļaujas izsniegšanu ārzemniekam medīt Latvijas teritorijā, par postījumu apjoma noteikšanu un zaudējumu aprēķinu, kurus lauksaimniecībai, mežsaimniecībai, meliorācijas sistēmām un infrastruktūras objektiem nodarījuši medījamie dzīvnieki;
 52) par personas datu apstrādes reģistrēšanu vai Fizisko personu datu aizsardzības likumā noteikto reģistrējamo izmaiņu izdarīšanu;
 53) par sertifikācijas pakalpojumu sniedzēja akreditāciju un akreditācijas atjaunošanu (šo akreditāciju un akreditācijas atjaunošanu veic Datu valsts inspekcija);
@@ -141,4 +141,5 @@
 122) par speciālās atļaujas (licences) izsniegšanu parāda atgūšanai un minētās speciālās atļaujas (licences) pārreģistrāciju;
 123) par universālā pasta pakalpojuma saistību izpildes tīro izmaksu kompensēšanu;
 124) par spridzinātāja sertifikāta un spridzināšanas darbu vadītāja sertifikāta, tā dublikāta un atkārtota sertifikāta izsniegšanu;
-125) par Latvijas Nacionālā arhīva sociāli tiesiskās izziņas sagatavošanu un izsniegšanu.
+125) par Latvijas Nacionālā arhīva sociāli tiesiskās izziņas sagatavošanu un izsniegšanu;
+126) par pārrobežu skaidras naudas pārvadājumu atļaujas, pārrobežu skaidras naudas pārvadājumu atļaujas dublikāta un atkārtotas pārrobežu skaidras naudas pārvadājumu atļaujas izsniegšanu.
