@@ -1,0 +1,2 @@
+104.pants
+Regulators ir tiesīgs tirgus dalībniekam uzlikt soda naudu līdz 10 procentiem no tirgus dalībnieka iepriekšējā finanšu gada neto apgrozījuma, bet ne mazāk kā 300 euro apmērā, ja tirgus dalībnieks neievēro Eiropas Parlamenta un Padomes regulas Nr. 1227/2011 par enerģijas vairumtirgus integritāti un pārredzamību prasības, tostarp aizliegumu darījumos ļaunprātīgi izmantot iekšējo informāciju, tirgus manipulāciju aizliegumu, kā arī pienākumu sniegt informāciju regulatoram un Energoregulatoru sadarbības aģentūrai.
