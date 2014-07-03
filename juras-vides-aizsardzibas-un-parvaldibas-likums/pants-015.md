@@ -1,4 +1,5 @@
 15.pants. Pasākumu programmas apstiprināšana un ieviešana
 (1) Pasākumu programmu apstiprina Ministru kabinets, un tās īstenošana ir uzsākama ne vēlāk kā gadu pēc apstiprināšanas.
 (2) Pasākumu programmu ievieš, piemērojot ekosistēmas pieeju, izmantojot zinātnes un tehnoloģiju attīstības sasniegumus, kā arī adaptīvas pārvaldības metodes, lai pieņemtu tādus lēmumus, kas visefektīvāk nodrošinātu laba jūras vides stāvokļa panākšanu.
+(2¹) Ja saskaņā ar jūras novērtējumu jūras stāvoklis ir tik kritisks, ka nepieciešama steidzama rīcība tā uzlabošanai, Latvija, sadarbojoties ar citām Baltijas jūras reģiona valstīm un ievērojot šajā likumā minētos reģionālās sadarbības noteikumus, šā likuma 7.panta otrajā daļā minēto jūras stratēģiju var izstrādāt, paredzot iespējami drīzāku Pasākumu programmas uzsākšanu, kā arī stingrākus aizsardzības pasākumus, ievērojot nosacījumu, ka tas nekavē laba jūras vides stāvokļa panākšanu vai saglabāšanu ārpus Baltijas jūras reģiona.
 (3) Vides aizsardzības un reģionālās attīstības ministrija ne retāk kā reizi sešos gados pārskata Pasākumu programmu un, ja nepieciešams, to atjauno.

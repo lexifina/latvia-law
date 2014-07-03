@@ -1,5 +1,5 @@
 11.pants. Jūras vides monitoringa programma
-(1) Pamatojoties uz jūras novērtējumu un saskaņā ar šā likuma 10.pantu noteiktajiem jūras vides mērķiem, kā arī ņemot vērā pārrobežu ietekmi, Latvijas Hidroekoloģijas institūts izstrādā un vides aizsardzības un reģionālās attīstības ministrs apstiprina jūras vides monitoringa programmu. Monitoringa programma izstrādājama un īstenojama atbilstoši Vides aizsardzības likuma prasībām.
+(1) Pamatojoties uz jūras novērtējumu un saskaņā ar šā likuma 10.pantu noteiktajiem jūras vides mērķiem, kā arī ņemot vērā šā likuma 9.panta otrajā daļā minēto jūras vides stāvokli raksturojošo iezīmju, slodžu un ietekmju indikatīvo sarakstu un pārrobežu ietekmi, Latvijas Hidroekoloģijas institūts izstrādā un vides aizsardzības un reģionālās attīstības ministrs apstiprina jūras vides monitoringa programmu. Monitoringa programma izstrādājama un īstenojama atbilstoši Vides aizsardzības likuma prasībām.
 (2) Jūras vides monitoringa programmu izstrādā, lai nodrošinātu visaptverošas informācijas iegūšanu, uzkrāšanu un analīzi, kā arī lai:
 1) regulāri novērtētu jūras vides stāvokli un šā stāvokļa, kā arī to raksturojošo iezīmju izmaiņu tendences;
 2) pārskatot šā likuma 10.pantā minētos jūras vides mērķus, noteiktu tiem piemērotus rādītājus;
