@@ -1,5 +1,5 @@
 1.pants. Likumā ir lietoti šādi termini:
-1) atrakciju dzīvnieks - dzīvnieks, kuru tur publiskai izrādīšanai izklaides vai sabiedrības izglītošanas nolūkā, izņemot dzīvnieku, kuru tur zooloģiskajā dārzā;
+1) atrakciju dzīvnieks - dzīvnieks, kuru tur publiskai izrādīšanai izklaides vai sabiedrības izglītošanas nolūkā, kā arī cirka dzīvnieks, izņemot dzīvnieku, kuru tur zooloģiskajā dārzā;
 2) dzīvnieka īpašnieks - juridiskā vai fiziskā persona, kurai pieder dzīvnieks;
 3) dzīvnieka turētājs - persona, kuras rīcībā un aprūpē atrodas dzīvnieks;
 4) dzīvnieku patversme - speciāli aprīkota vieta, kur izmitina izķertos, atsavinātos un bezpalīdzīgā stāvoklī nonākušos dzīvniekus;

@@ -1,0 +1,2 @@
+26.³ pants. (1) Valsts zinātniskais institūts "Pārtikas drošības, dzīvnieku veselības un vides zinātniskais institūts "BIOR"" izveido zinātniskiem mērķiem izmantojamo dzīvnieku aizsardzības komiteju un koordinē tās darbību. Zinātniskiem mērķiem izmantojamo dzīvnieku aizsardzības komitejā iekļauj zinātnisko institūciju, kā arī biedrību un nodibinājumu pārstāvjus, kas darbojas dzīvnieku aizsardzības un labturības jomā.
+(2) Ministru kabinets apstiprina zinātniskiem mērķiem izmantojamo dzīvnieku aizsardzības komitejas nolikumu.
