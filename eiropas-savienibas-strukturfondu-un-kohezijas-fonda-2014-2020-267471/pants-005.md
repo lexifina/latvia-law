@@ -1,0 +1,2 @@
+5.pants. Tiesības saņemt Eiropas Savienības fondu finansējumu
+Projekta iesnieguma iesniegšana saskaņā ar šo likumu nerada Eiropas Savienības fondu vadībā iesaistītajai institūcijai pienākumu piešķirt finansējumu projekta iesniedzējam projekta īstenošanai. Lēmums par atteikumu piešķirt finansējumu administratīvo procesu regulējošo normatīvo aktu izpratnē vērtējams kā negatīvs administratīvs akts, bet nav uzskatāms par nelabvēlīgu administratīvu aktu.

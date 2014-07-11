@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2009.gada 18.jūnija direktīvas 2009/52/EK, ar ko nosaka minimālos standartus sankcijām un pasākumiem pret darba devējiem, kas nodarbina trešo valstu valstspiederīgos, kuri dalībvalstīs uzturas nelikumīgi.

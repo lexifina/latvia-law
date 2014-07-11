@@ -1,0 +1,4 @@
+34.pants. Tiesības iepazīties ar projekta lietu
+(1) Projekta iesniedzējam jebkurā procesa stadijā ir tiesības iepazīties ar tā iesniegtā projekta lietu, ņemot vērā šā panta otrajā daļā noteikto.
+(2) Projekta iesniedzējs ir tiesīgs iepazīties ar tā iesniegtā projekta iesnieguma vērtēšanas materiāliem (tai skaitā ekspertu atzinumiem, vērtēšanas komisijas protokoliem un lēmumiem) tikai pēc tam, kad stājies spēkā lēmums par projekta iesnieguma apstiprināšanu, apstiprināšanu ar nosacījumu vai noraidīšanu.
+(3) Sadarbības iestāde šā panta otrajā daļā minēto informāciju sniedz 10 darbdienu laikā pēc pieprasījuma saņemšanas vai piecu darbdienu laikā pēc pieprasījuma saņemšanas uzaicina projekta iesniedzēju iestādei un iesniedzējam abpusēji pieņemamā laikā iestādē iepazīties ar pieprasīto informāciju.

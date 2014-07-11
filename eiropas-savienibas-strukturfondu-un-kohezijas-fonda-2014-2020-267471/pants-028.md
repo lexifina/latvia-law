@@ -1,0 +1,6 @@
+28.pants. Sadarbības iestādes lēmuma apstrīdēšana un pārsūdzēšana
+(1) Projekta iesniedzējs var apstrīdēt šā likuma 25., 26. un 27.pantā minēto sadarbības iestādes lēmumu vadošajā iestādē. Vadošās iestādes izdoto administratīvo aktu par apstrīdēto sadarbības iestādes lēmumu var pārsūdzēt, iesniedzot pieteikumu Administratīvās rajona tiesas attiecīgajā tiesu namā. Vadošās iestādes pieņemtais pārvaldes lēmums par apstrīdēto sadarbības iestādes lēmumu nav pārsūdzams.
+(2) Sadarbības iestādes atzinumu par šā likuma 25.panta ceturtajā daļā vai 26.panta ceturtajā vai piektajā daļā minētajā lēmumā ietvertā nosacījuma izpildi apstrīd un pārsūdz tādā pašā kārtībā un termiņos kā lēmumu, par kurā ietvertā nosacījuma izpildi sagatavots atzinums. Atzinumu par lēmumā ietvertā nosacījuma izpildi var apstrīdēt un pārsūdzēt arī atsevišķi no lēmuma, kurā ietverts nosacījums.
+(3) Lēmuma apstrīdēšana vai pārsūdzēšana neaptur tā darbību.
+(4) Vadošās iestādes vadītājs lēmumu pieņem, pamatojoties uz iesniegumu izskatīšanas komisijas atzinumu.
+(5) Vadošā iestāde izveido iesniegumu izskatīšanas komisiju, kuras sastāvā ir vismaz viens pārstāvis no atbildīgās iestādes, kuras pārziņā ir attiecīgais specifiskā atbalsta mērķis, un attiecīgās jomas ministrijas pārstāvis (ja nepieciešams), ja tie nav bijuši attiecīgās projektu iesniegumu vērtēšanas komisijas locekļi.

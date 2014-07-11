@@ -1,0 +1,2 @@
+22.pants. Projektu iesniegumu vērtēšanas komisija
+Projektu iesniegumu vērtēšanai sadarbības iestāde izveido projektu iesniegumu vērtēšanas komisiju, kuras sastāvā ir vismaz viens pārstāvis no atbildīgās iestādes, kuras pārziņā ir attiecīgais specifiskā atbalsta mērķis, un attiecīgās jomas ministrijas pārstāvis (ja nepieciešams). Vadošās iestādes pārstāvis var piedalīties projektu iesniegumu vērtēšanas komisijas sēdē novērotāja statusā.

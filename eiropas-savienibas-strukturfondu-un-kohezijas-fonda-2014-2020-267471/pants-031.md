@@ -1,0 +1,2 @@
+31.pants. Strīdu risināšanas kārtība, ja finansējuma saņēmējs ir fiziskā vai juridiskā persona
+Ja finansējuma saņēmējs ir fiziskā vai juridiskā persona, strīdus, kas attiecas uz līguma par projekta īstenošanu izpildi, tai skaitā piešķirto finanšu līdzekļu izmaksāšanu, izmaksāšanas turpināšanu vai atgūšanu, risina civiltiesiskā kārtībā. Dokumenti, kas sagatavoti un pieņemti šā panta pirmajā teikumā minēto darbību veikšanai (piemēram, lēmumi, atzinumi, brīdinājumi, līgums), nav izskatāmi administratīvā procesa kārtībā.

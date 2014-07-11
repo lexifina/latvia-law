@@ -1,0 +1,4 @@
+19.pants. Vadošās iestādes un sertifikācijas iestādes atbilstības apstiprināšana
+(1) Ministru kabinets apstiprina vadošās iestādes un sertifikācijas iestādes atbilstību regulas Nr. 1303/2013 XIII pielikumā noteiktajiem kritērijiem, pamatojoties uz šā likuma 13.panta otrās daļas 3.punktā minēto novērtējuma ziņojumu un atzinumu.
+(2) Ja vadošā iestāde vai sertifikācijas iestāde nenodrošina institūcijas atbilstību regulas Nr. 1303/2013 XIII pielikumā noteiktajiem kritērijiem, Ministru kabinets, ņemot vērā revīzijas iestādes ziņojumu, kas minēts šā likuma 13.panta otrās daļas 6.punktā, atceļ šā panta pirmajā daļā minēto lēmumu par attiecīgās institūcijas atbilstības apstiprināšanu.
+(3) Finanšu ministrija informē Eiropas Komisiju par vadošās iestādes un sertifikācijas iestādes atbilstību regulas Nr. 1303/2013 XIII pielikumā noteiktajiem kritērijiem un izmaiņām šīs regulas 124.pantā noteiktajā kārtībā.

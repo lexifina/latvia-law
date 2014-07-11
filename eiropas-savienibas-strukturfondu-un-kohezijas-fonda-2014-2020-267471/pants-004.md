@@ -1,0 +1,2 @@
+4.pants. Eiropas Savienības fondu vadība
+Eiropas Savienības fondu vadība ir nepieciešamo plānošanas dokumentu sagatavošana, saskaņošana un apstiprināšana, Eiropas Savienības fondu vadības sistēmas izveide, finanšu instrumentu un fondu fondu īstenošana, projektu iesniegumu vērtēšanas kritēriju izstrāde, projektu iesniegumu atlase, Eiropas Savienības fondu vadības sistēmas un projektu kontrole, revīzija, uzraudzība un izvērtēšana, projektos veikto izdevumu sertificēšana, Eiropas Savienības fondu vadības informācijas sistēmas izstrāde un uzturēšana.
