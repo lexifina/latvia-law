@@ -1,1 +1,0 @@
-Zivsaimniecības nozares kapitālsabiedrības šā likuma izpratnē ir kapitālsabiedrības, kuras ražo Padomes 1999.gada 17.decembra regulas (EK) Nr. 104/2000 par zivsaimniecības un akvakultūras produktu tirgu kopīgo organizāciju 1.pantā minētos zivsaimniecības produktus.
