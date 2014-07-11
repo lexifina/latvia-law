@@ -1,0 +1,2 @@
+14.pants. Atbalsta sniegšanas tiesiskais pamats
+Atbalstu šā likuma ietvaros sniedz saskaņā ar Komisijas 2014.gada 17.jūnija regulas (ES) Nr. 651/2014, ar ko noteiktas atbalsta kategorijas atzīst par saderīgām ar iekšējo tirgu, piemērojot Līguma 107. un 108.pantu (Dokuments attiecas uz EEZ), III nodaļas 1.iedaļu - Reģionālais atbalsts (publicēta Eiropas Savienības Oficiālajā Vēstnesī L 187/1, 26.6.2014).

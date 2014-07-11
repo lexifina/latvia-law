@@ -1,0 +1,1 @@
+16. Līdz 2014.gada 30.jūnijam noslēgtajos līgumos par ieguldījumu veikšanu līdz 2014.gada 31.decembrim izdarāmi grozījumi, nosakot līgumā paredzētajiem ieguldījumiem piemērojamo maksimālo tiešo nodokļu atlaižu apmēru attiecībā pret uzkrāto ieguldījumu summu.

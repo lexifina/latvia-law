@@ -1,0 +1,3 @@
+12.³ pants. Piemēroto nodokļu atvieglojumu summas kontrole
+(1) Lai nodrošinātu Komisijas regulas Nr. 651/2014 1.panta 2.punkta "a" apakšpunktā noteiktā ierobežojuma izpildi, Valsts ieņēmumu dienests līdz pēctaksācijas gada 1.oktobrim informē Satiksmes ministriju, vai taksācijas periodā kopējā saskaņā ar šo likumu piemērotā tiešo nodokļu atlaižu summa pārsniedz Komisijas regulas Nr. 651/2014 1.panta 2.punkta "a" apakšpunktā noteiktos ierobežojumus valsts atbalsta gada izdevumiem.
+(2) Komisijas regulas Nr. 651/2014 1.panta 2.punkta "a" apakšpunktā noteikto valsts atbalsta gada izdevumu ierobežojumu pārsniegšanas gadījumā Satiksmes ministrija 20 darbdienu laikā pēc tam, kad saņemta informācija no Valsts ieņēmumu dienesta, iesniedz izvērtējuma plānu Eiropas Komisijai.

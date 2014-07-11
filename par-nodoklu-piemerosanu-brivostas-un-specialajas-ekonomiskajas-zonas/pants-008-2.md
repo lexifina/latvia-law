@@ -1,0 +1,4 @@
+8.² pants. Nodokļu atvieglojumu apvienošana ar citu atbalstu sākotnējiem ieguldījumiem
+(1) Ja zonas kapitālsabiedrība vai licencēta kapitālsabiedrība papildus šajā likumā noteiktajam atbalstam saņem vai plāno saņemt citu atbalstu sākotnējo ieguldījumu veikšanai par tām pašām izmaksām, tad nepiemēro šā likuma 8.panta pirmajā daļā noteiktos pieļaujamos maksimālos procentus, bet līgumā par ieguldījuma veikšanu zonas pārvade vai brīvostas pārvalde nosaka maksimālos pieļaujamos procentus līgumā par ieguldījumu veikšanu paredzētajiem ieguldījumiem.
+(2) Nosakot maksimāli pieļaujamos procentus, jānodrošina, ka atbalstu apvienošanas rezultātā attiecīgajai kapitālsabiedrībai piemērojamie procenti nepārsniedz šā likuma 8.panta pirmajā daļā un 8.¹ panta trešajā daļā noteiktos pieļaujamos procentus nodokļu atvieglojumu piemērošanai.
+(3) Šā panta pirmajā daļā noteikto ierobežojumu ņem vērā, piemērojot šā likuma 10.pantu un 11.panta otro daļu.

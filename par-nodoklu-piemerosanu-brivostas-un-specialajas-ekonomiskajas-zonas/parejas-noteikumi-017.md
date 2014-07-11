@@ -1,0 +1,1 @@
+17. Grozījumi šā likuma 1.panta otrās daļas 1.punktā attiecībā uz vārdu "un īpašu kārtību valsts sociālās apdrošināšanas iemaksu veikšanai" izslēgšanu, grozījumi 2.panta otrajā punktā, III nodaļas nosaukumā un attiecībā uz 13.panta izslēgšanu stājas spēkā 2014.gada 1.septembrī.
