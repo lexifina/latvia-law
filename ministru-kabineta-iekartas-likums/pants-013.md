@@ -1,5 +1,5 @@
 13.pants. Ministru prezidenta amata kandidāts
 (1) Persona, kuru Valsts prezidents aicinājis sastādīt Ministru kabinetu, uzskatāma par Ministru prezidenta amata kandidātu. Valsts prezidenta kanceleja rakstveidā informē Valsts kanceleju par Ministru prezidenta amata kandidāta aicināšanu.
-(2) Valsts kanceleja saskaņā ar normatīvajiem aktiem nodrošina Ministru prezidenta amata kandidāta darbu līdz dienai, kad viņš šo statusu zaudē.
+(2) Ministru prezidenta amata kandidāta lietvedības pārvaldību, tehnisko nodrošinājumu un viņam nepieciešamo atbalsta personālu nodrošina Valsts kanceleja līdz dienai, kad viņš šo statusu zaudē.
 (3) Ministru prezidenta amata kandidāts uz laiku, kamēr viņš atrodas šajā statusā, darbavietā ir tiesīgs izmantot atvaļinājumu bez darba samaksas saglabāšanas.
 (4) Ministru prezidenta amata kandidāts šo statusu zaudē brīdī, kad Saeima nobalso par uzticības izteikšanu Ministru prezidenta amata kandidāta sastādītajam Ministru kabinetam. Ja Ministru prezidenta amata kandidāts savu statusu zaudē tādu iemeslu dēļ, kuri nav saistīti ar Saeimas balsojumu par uzticības izteikšanu Ministru kabinetam, Valsts prezidenta kanceleja rakstveidā informē Valsts kanceleju, kad Ministru prezidenta amata kandidāts zaudē savu statusu.
