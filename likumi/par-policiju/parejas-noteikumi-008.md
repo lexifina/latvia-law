@@ -1,0 +1,1 @@
+8. Grozījumi šā likuma 10.panta pirmās daļas 22.punktā, 12.panta sestajā daļā un 12.¹ panta devītās daļas 3.punktā attiecībā uz Eiropas Parlamenta un Padomes regulu Nr. 606/2013 un 12.panta pirmās daļas 13.³ punkts stājas spēkā 2015.gada 11.janvārī.

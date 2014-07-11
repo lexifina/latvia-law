@@ -1,0 +1,1 @@
+9. No šā likuma 21.panta ceturtās daļas izrietošā prasība par augstākās izglītības nepieciešamību personai, kurai uzdod pildīt prombūtnē esoša vai vakanta pašvaldības policijas priekšnieka vai viņa vietnieka amata pienākumus, ir obligāta no 2017.gada 1.janvāra.

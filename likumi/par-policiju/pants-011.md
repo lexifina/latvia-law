@@ -8,4 +8,5 @@ Policijas darbiniekam savas kompetences ietvaros ir pienākums palīdzēt:
 6) Nacionālajiem bruņotajiem spēkiem - nozaudēto un izlaupīto ieroču, munīcijas, sprāgstvielu un citu iedzīvotājiem bīstamu vielu, izstrādājumu un priekšmetu meklēšanā;
 7) autotransporta un elektrotransporta kontroles dienestiem - transporta lietošanas noteikumu pārkāpēju personības noskaidrošanā;
 8) vides aizsardzības un muitas iestādēm, Valsts ieņēmumu dienestam un Pilsonības un migrācijas lietu pārvaldei - to likumīgajā darbībā;
-9) Valsts robežsardzei - ārvalstnieku un bezvalstnieku ieceļošanas, uzturēšanās, izceļošanas un tranzīta noteikumu ievērošanas kontrolē un profilaksē.
+9) Valsts robežsardzei - ārvalstnieku un bezvalstnieku ieceļošanas, uzturēšanās, izceļošanas un tranzīta noteikumu ievērošanas kontrolē un profilaksē;
+10) būvinspektoriem - iekļūšanā būvēs un zemes gabalu teritorijās, ja ir pamatotas aizdomas par patvaļīgu būvniecību, kas var apdraudēt citu personu dzīvību, veselību vai īpašumu.
