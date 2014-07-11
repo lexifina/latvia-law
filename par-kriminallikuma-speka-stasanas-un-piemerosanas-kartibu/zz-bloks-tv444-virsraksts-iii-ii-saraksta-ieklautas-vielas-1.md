@@ -434,6 +434,10 @@ sekobarbitāls
 dronabinols (delta-9-tetrahidrokanabinols un tā stereoķīmiskie varianti)
 0,2 g
 10 g
+9)
+gammahidroksibutirskābe (GHB), nātrija oksibutirāts, litija oksibutirāts
+0,6 g
+10 g
 12. Vielas, kas klasificētas atbilstoši 1971.gada 21.februāra Konvencijas par psihotropajām vielām III sarakstam:
 1)
 amobarbitāls

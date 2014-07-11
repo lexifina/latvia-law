@@ -155,9 +155,7 @@ lefetamīns (SPA)
 0,6 g
 10 g
 40)
-GHB (litija oksibutirāts un nātrija oksibutirāts)
-0,6 g
-10 g
+(izslēgts ar 19.06.2014. likumu)
 41)
 loprazolāms
 0,6 g
@@ -278,3 +276,7 @@ zolpidēms
 zopiklons
 0,06 g
 5 g
+72)
+tramadols
+0,5 g
+6 g
