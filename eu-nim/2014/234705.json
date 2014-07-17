@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2014.gada 15.jūlija noteikumi Nr.393 “Lauksaimniecības un akvakultūras dzīvnieku, to ganāmpulku un novietņu reģistrēšanas kārtība, kā arī lauksaimniecības dzīvnieku apzīmēšanas kārtība”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "137 (5197)",
+  "official_journal_page": null,
+  "official_journal_date": "2014-07-16",
+  "entry_into_force": "2014-07-17",
+  "notification_date": "2016-02-19",
+  "commission_reference": "MNE(2016)51317",
+  "nim_celex": "72014L0064LVA_234705",
+  "nim_id": "234705",
+  "transposes_celex": [
+    "32014L0064"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5bcb4396-88bf-441c-bea5-1804a29744ad",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
