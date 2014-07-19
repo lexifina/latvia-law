@@ -1,0 +1,1 @@
+6. Centrālā vēlēšanu komisija nodrošina šā likuma pārejas noteikumu 4.punktā minēto vēlētāja apliecību izgatavošanu un 2014.gada 18.septembrī nodod izgatavotās vēlētāja apliecības Pilsonības un migrācijas lietu pārvaldei.

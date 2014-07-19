@@ -1,0 +1,1 @@
+10. Saeimas vēlēšanās, kas notiek 2014.gadā, Latvijas pilsoņa pase ar atzīmi par vēlētāja apliecības izsniegšanu ir derīgs vēlētāja personu apliecinošs dokuments, ja tiek uzrādīta kopā ar vēlētāja apliecību.

@@ -1,0 +1,1 @@
+7. Pilsonības un migrācijas lietu pārvalde nodrošina šā likuma pārejas noteikumu 4.punktā minēto vēlētāja apliecību izsniegšanu Pilsonības un migrācijas lietu pārvaldes teritoriālajās nodaļās no 2014.gada 22.septembra līdz 2014.gada 3.oktobrim.
