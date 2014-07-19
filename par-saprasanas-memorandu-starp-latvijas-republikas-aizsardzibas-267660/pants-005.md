@@ -1,0 +1,1 @@
+5.pants. Likums stājas spēkā nākamajā dienā pēc tā izsludināšanas. Līdz ar likumu izsludināms Saprašanās memorands par Centra izveidošanu un Saprašanās memorands par Centra funkcionālajām attiecībām angļu valodā un to tulkojums latviešu valodā.

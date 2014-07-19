@@ -1,0 +1,1 @@
+7.pants. Līdz Centra akreditācijai saskaņā ar Saprašanās memoranda par Centra izveidošanu 14.pantu ir piemērojamas likuma " Par Ziemeļatlantijas līguma organizācijas izcilības centru stratēģiskās komunikācijas jautājumos " normas.

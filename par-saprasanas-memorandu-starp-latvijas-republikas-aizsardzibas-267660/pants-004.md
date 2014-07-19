@@ -1,0 +1,1 @@
+4.pants. Saprašanās memorands par Centra izveidošanu stājas spēkā tā 20.pantā noteiktajā laikā un kārtībā, Saprašanās memorands par Centra funkcionālajām attiecībām stājas spēkā tā 14.pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo oficiālajā izdevumā "Latvijas Vēstnesis".
