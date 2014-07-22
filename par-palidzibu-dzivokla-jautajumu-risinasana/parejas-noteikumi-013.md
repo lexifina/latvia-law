@@ -1,0 +1,1 @@
+13. Ministru kabinets līdz 2015.gada 30.jūnijam izdod noteikumus, kas paredz kārtību, kādā tiek nodrošināta 27.² panta pirmās daļas 4.punktā paredzētā palīdzība, kā arī nosaka attiecināmās izmaksas, vērtēšanas kritērijus un valsts budžeta līdzekļu izlietojuma uzraudzību palīdzības ietvaros.

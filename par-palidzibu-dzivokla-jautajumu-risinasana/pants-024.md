@@ -1,3 +1,3 @@
-24.pants. Palīdzība īrētās dzīvojamās telpas apmaiņā pret citu īrējamu dzīvojamo telpu
-(1) Pašvaldības domes saistošajos noteikumos noteiktajā kārtībā pašvaldība var sniegt palīdzību īrētās dzīvojamās telpas apmaiņā pret citu īrējamu dzīvojamo telpu.
-(2) Palīdzību īrētās dzīvojamās telpas apmaiņā pret citu īrējamu dzīvojamo telpu pašvaldība sniedz tādā secībā, kādā reģistrēti iesniegumi par attiecīgā veida palīdzības saņemšanu.
+24.pants. Palīdzība īrētās pašvaldībai piederošās vai tās nomātās dzīvojamās telpas apmaiņā pret citu īrējamu pašvaldībai piederošu vai tās nomātu dzīvojamo telpu
+(1) Pašvaldība var sniegt palīdzību pašvaldībai piederošās vai tās nomātās dzīvojamās telpas apmaiņā pret citu īrējamu pašvaldībai piederošu vai tās nomātu dzīvojamo telpu domes saistošajos noteikumos paredzētajā kārtībā.
+(2) Palīdzību īrētās pašvaldībai piederošās vai tās nomātās dzīvojamās telpas apmaiņā pret citu īrējamu pašvaldībai piederošu vai tās nomātu dzīvojamo telpu pašvaldība sniedz tādā secībā, kādā reģistrēti iesniegumi par attiecīgā veida palīdzības saņemšanu.
