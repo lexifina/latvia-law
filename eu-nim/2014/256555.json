@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2014.gada 8.jūlijā Ministru kabineta noteikumi Nr.388 \n\nElektrisko un elektronisko iekārtu kategorijas un marķēšanas prasības un šo iekārtu atkritumu apsaimniekošanas prasības un kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2014/142.1",
+  "official_journal_page": null,
+  "official_journal_date": "2014-07-22",
+  "entry_into_force": "2014-07-23",
+  "notification_date": "2018-03-06",
+  "commission_reference": "MNE(2018)51250",
+  "nim_celex": "72012L0019LVA_256555",
+  "nim_id": "256555",
+  "transposes_celex": [
+    "32012L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0019d641-bb22-42b3-ab9c-23e83f0f23f0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
