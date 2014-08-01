@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2014.gada 22.jūlija noteikumi Nr.421 \"Medību noteikumi\".",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "150 (5210)",
+  "official_journal_page": null,
+  "official_journal_date": "2014-08-01",
+  "entry_into_force": "2014-08-01",
+  "notification_date": "2014-10-17",
+  "commission_reference": "MNE(2014)55918",
+  "nim_celex": "72009L0147LVA_220518",
+  "nim_id": "220518",
+  "transposes_celex": [
+    "32009L0147"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f152216a-d5af-4b35-a6f0-83895bf6f45e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
