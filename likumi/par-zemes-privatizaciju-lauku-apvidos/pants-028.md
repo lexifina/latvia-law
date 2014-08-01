@@ -1,17 +1,20 @@
 28. pants. Darījumu subjekti
-Zemi var iegūt īpašumā saskaņā ar Civillikumu un citiem likumiem:
-1) Latvijas Republikas pilsoņi;
-2) valsts un pašvaldības, valsts un pašvaldību uzņēmumi (statūtsabiedrības);
-3) Latvijas Republikas Uzņēmumu reģistrā reģistrēta statūtsabiedrība:
-a) kuras pamatkapitālā vairāk nekā puse pieder Latvijas Republikas pilsoņiem, valstij vai pašvaldībai, katram atsevišķi vai vairākiem šiem subjektiem kopā,
-b) kuras pamatkapitālā vairāk nekā puse pieder fiziskajām vai juridiskajām personām no valstīm, ar kurām Latvijas Republika ir noslēgusi starptautiskus līgumus par ieguldījumu veicināšanu un aizsardzību, ko apstiprinājusi Saeima līdz 1996.gada 31.decembrim. Minētais attiecināms arī uz fiziskajām vai juridiskajām personām no valstīm, ar kurām starptautiskie līgumi noslēgti pēc 1996.gada 31.decembra, ja šajos līgumos paredzētas Latvijas Republikā reģistrēto fizisko un juridisko personu tiesības iegādāties zemi attiecīgā valstī,
-c) kuras pamatkapitālā vairāk nekā puse pieder vairākiem "a" un "b" apakšpunktā minētajiem subjektiem kopā;
-d) kura ir publiska akciju sabiedrība, ja tās akcijas tiek kotētas fondu biržā;
-4) Latvijā reģistrētās reliģiskās organizācijas, kuru darbības laiks, skaitot no reģistrēšanas brīža Latvijas Republikā, ir ne mazāk kā trīs gadi;
-5) Latvijas Republikas Uzņēmumu reģistrā reģistrētās zemnieka saimniecības un individuālie uzņēmumi, ja tie pieder Latvijas Republikas pilsoņiem;
-6) valsts un pašvaldību augstskolas, kuru satversmes ir apstiprinātas likumā noteiktajā kārtībā.
-Ar 2014.gada 1.maiju Eiropas Savienības dalībvalstu pilsoņi un Eiropas Savienības dalībvalstīs reģistrētas juridiskās personas zemi var iegūt īpašumā ar tādiem pašiem noteikumiem kā šā panta pirmajā daļā minētie subjekti.
-Pārejas posmā no 2004.gada 1.maija līdz 2014.gada 30.aprīlim zemi var iegūt īpašumā saskaņā ar Civillikumu un citiem likumiem:
-1) Eiropas Savienības dalībvalstu pilsoņi, ja viņi vēlas veikt uzņēmējdarbību Latvijā kā pašnodarbinātie zemnieki un vismaz trīs gadus nepārtraukti dzīvo Latvijā, kā arī vismaz trīs gadus pēc kārtas Latvijā aktīvi nodarbojušies ar lauksaimniecību;
-2) pārējie Eiropas Savienības dalībvalstu pilsoņi un Eiropas Savienības dalībvalstīs reģistrētas juridiskās personas, izņemot lauksaimniecības un meža zemi.
-Personas, kuras nav minētas šā panta pirmajā daļā, zemi var iegūt īpašumā ar ierobežojumiem, kas noteikti šā likuma 29.pantā.
+Zemi var iegūt īpašumā šādi darījumu subjekti:
+1) Latvijas Republikas pilsoņi un citu Eiropas Savienības dalībvalstu pilsoņi, kā arī Eiropas Ekonomikas zonas valstu un Šveices Konfederācijas pilsoņi;
+2) Latvijas Republika kā sākotnējā publisko tiesību juridiskā persona un atvasinātas publiskas personas;
+3) Latvijas Republikā reģistrēta kapitālsabiedrība, kā arī citā Eiropas Savienības dalībvalstī vai Eiropas Ekonomikas zonas valstī, vai Šveices Konfederācijā reģistrēta kapitālsabiedrība, kura reģistrējusies kā nodokļu maksātājs Latvijas Republikā un:
+a) kuras visi dalībnieki ir šīs daļas 1. vai 2.punktā minētie subjekti katrs atsevišķi vai vairāki kopā,
+b) kuras visi dalībnieki fiziskās vai juridiskās personas ir no valstīm, ar kurām Latvijas Republika ir noslēgusi starptautiskus līgumus par ieguldījumu veicināšanu un aizsardzību, ko apstiprinājusi Saeima līdz 1996.gada 31.decembrim. Minētais attiecināms arī uz fiziskajām vai juridiskajām personām no valstīm, ar kurām starptautiskie līgumi noslēgti pēc 1996.gada 31.decembra, ja šajos līgumos paredzētas Latvijas Republikā reģistrēto fizisko un juridisko personu tiesības iegādāties zemi attiecīgā valstī,
+c) kuras visi dalībnieki ir vairāki šā punkta "a" un "b" apakšpunktā minētie subjekti kopā;
+d) (izslēgts ar 03.07.2014. likumu);
+4) Latvijā reģistrētas reliģiskās organizācijas, kuru darbības laiks, skaitot no dienas, kad tās reģistrētas bez pienākuma pārreģistrēties, vai dienas, kad sniegušas paziņojumu reģistra iestādei Latvijas Republikā, ir ne mazāks kā trīs gadi;
+5) Latvijas Republikā, citā Eiropas Savienības dalībvalstī vai Eiropas Ekonomikas zonas valstī, vai Šveices Konfederācijā reģistrēts tiesību subjekts, kas reģistrējies kā nodokļu maksātājs vai saimnieciskās darbības veicējs Latvijas Republikā un ir:
+a) individuālais uzņēmums, kura īpašnieks ir šīs daļas 1.punktā minētā persona,
+b) individuālais komersants, kuru reģistrējusi šīs daļas 1.punktā minētā persona,
+c) kooperatīvā sabiedrība, kuras visi biedri ir šīs daļas 1., 2. un 3.punktā, kā arī šā punkta "a", "b" un "d" apakšpunktā minētie subjekti katrs atsevišķi vai vairāki kopā,
+d) cits Eiropas Savienības dalībvalstī vai Eiropas Ekonomikas zonas valstī reģistrēts tiesību subjekts, kas pielīdzināms šajā punktā minētajiem subjektiem;
+6) (izslēgts ar 03.07.2014. likumu);
+7) Latvijas Republikas Biedrību un nodibinājumu reģistrā reģistrētas biedrības un nodibinājumi, kuru darbības laiks, skaitot no reģistrēšanas brīža Latvijas Republikā, ir ne mazāks kā trīs gadi, kuru darbības mērķis ir saistīts ar dabas aizsardzību, lauksaimniecības kultūraugu vai produktu ražošanu vai medību saimniecības organizēšanu un uzturēšanu un kuras iegādājas zemi šo mērķu īstenošanai.
+(Otrā daļa izslēgta ar 03.07.2014. likumu)
+(Trešā daļa izslēgta ar 03.07.2014. likumu)
+Darījumu subjekti, kuri nav minēti šā panta pirmajā daļā, zemi var iegūt īpašumā, ievērojot šā likuma 29.pantā noteiktos ierobežojumus un 30.pantā noteiktajā kārtībā.

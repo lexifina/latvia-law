@@ -1,0 +1,1 @@
+3. Ministru kabinets līdz 2014.gada 30.oktobrim izdod šā likuma 30.¹ panta ceturtās daļas 1., 2., 3., 4., 5., 7. un 8.punktā minētos noteikumus un līdz 2015.gada 30.jūnijam izdod šā likuma 30.¹ panta ceturtās daļas 6.punktā minētos noteikumus.

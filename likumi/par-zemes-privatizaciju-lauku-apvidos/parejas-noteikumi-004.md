@@ -1,0 +1,1 @@
+4. Šā likuma 28.¹ panta pirmās daļas 1.punkta "b" apakšpunktā un 2.punkta "a" apakšpunktā ietvertās prasības attiecībā uz atbilstību regulas Nr. 1307/2013 prasībām un attiecībā uz ieņēmumiem no lauksaimnieciskās ražošanas piemērojamas no 2015.gada 1.jūlija.
