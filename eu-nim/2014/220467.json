@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2014.gada 6.augusta rīkojums Nr.416 \"Par Eiropas Parlamenta un Padomes Direktīvā 2013/40/ES (2013.gada 12.augusts) par uzbrukumiem informācijas sistēmām, un ar kuru aizstāj Padomes Pamatlēmumu 2005/222/TI, paredzētā kontaktpunkta noteikšanu\"",
+  "type_of_act": "Ministru kabineta rīkojums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "154 (5214)",
+  "official_journal_page": null,
+  "official_journal_date": "2014-08-07",
+  "entry_into_force": "2014-08-06",
+  "notification_date": "2014-10-14",
+  "commission_reference": "MNE(2014)55879",
+  "nim_celex": "72013L0040LVA_220467",
+  "nim_id": "220467",
+  "transposes_celex": [
+    "32013L0040"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8b61d780-0c29-4a4a-86d7-d2258bd5699a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
