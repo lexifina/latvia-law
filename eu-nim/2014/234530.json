@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru prezidenta 2014.gada 25.augusta rīkojums Nr.307 “Par darba grupu Cilvēku tirdzniecības novēršanas pamatnostādņu 2014.-2020.gadam īstenošanas koordinēšanai”",
+  "type_of_act": "Ministru kabineta rīkojums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "167 (5227)",
+  "official_journal_page": null,
+  "official_journal_date": "2014-08-26",
+  "entry_into_force": "2014-08-25",
+  "notification_date": "2016-02-10",
+  "commission_reference": "MNE(2016)51150",
+  "nim_celex": "72011L0036LVA_234530",
+  "nim_id": "234530",
+  "transposes_celex": [
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/69169365-a627-46f4-94f1-086b710b065c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
