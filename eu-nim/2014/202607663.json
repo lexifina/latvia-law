@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2014. gada 26. augusta noteikumi Nr. 509 \"Noteikumi par karavīra mēnešalgas un speciālo piemaksu noteikšanas kārtību un to apmēru\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "169",
+  "official_journal_page": null,
+  "official_journal_date": "2014-08-28",
+  "entry_into_force": "2014-08-29",
+  "notification_date": "2026-10-05",
+  "commission_reference": "MNE(2026)07663",
+  "nim_celex": "72023L0970LVA_202607663",
+  "nim_id": "202607663",
+  "transposes_celex": [
+    "32023L0970"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8364a6f4-6922-4675-ba3c-0cf8753c670c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
