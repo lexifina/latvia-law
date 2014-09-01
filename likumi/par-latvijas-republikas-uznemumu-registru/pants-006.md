@@ -30,7 +30,7 @@ Par uzņēmuma (uzņēmējsabiedrības) darbības apturēšanu, atjaunošanu vai
 2) tiesas spriedums par uzņēmuma (uzņēmējsabiedrības) maksātnespējas procesa pasludināšanu un tiesas lēmums par maksātnespējas procesa izbeigšanu;
 3) lēmums par uzņēmuma (uzņēmējsabiedrības) darbības izbeigšanu un likvidācijas uzsākšanu, kā arī likvidatoru vārds, uzvārds, personas kods un paraksta tiesības, bet, ja likvidators ir juridiskā persona, - nosaukums, reģistrācijas numurs un juridiskā adrese, kā arī iepriekš minētā informācija par likvidatora pārstāvjiem likvidācijas procesā;
 4) (izslēgts ar 29.11.2012. likumu);
-5) tiesas spriedums par aizgādnības vai aizbildnības nodibināšanu, atcelšanu vai izbeigšanu un aizgādņu vai aizbildņu iecelšanu, kā arī aizgādņu vai aizbildņu vārds un uzvārds;
+5) aizbildņa vārds, uzvārds un personas kods (ja personai nav personas koda, - dzimšanas datums, personu apliecinoša dokumenta numurs un izdošanas datums, valsts un institūcija, kas dokumentu izdevusi), kā arī ziņas par aizgādnības nodibināšanu, ja tiesa personai noteikusi rīcībspējas ierobežojumu;
 6) valsts pārvaldes iestādes lēmums par uzņēmuma (uzņēmējsabiedrības) darbības apturēšanu vai atjaunošanu.
 Ja tiesa ar spriedumu aizliedz uzņēmumam (uzņēmējsabiedrībai) darboties vai slēdz šādu uzņēmumu vai tā filiāli, vai pārstāvniecību, uzņēmumam (uzņēmējsabiedrībai) pēc tiesas sprieduma spēkā stāšanās tas 7 dienu laikā jāpieteic reģistrācijai.
 Par izšķirošo ietekmi uz līdzdalības pamata Uzņēmumu reģistra žurnālā ieraksta:
