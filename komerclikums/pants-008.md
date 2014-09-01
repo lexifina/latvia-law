@@ -37,7 +37,8 @@
 4¹) ziņas par komersanta darbības apturēšanu vai atjaunošanu, norādot darbības apturēšanas vai atjaunošanas pamatu;
 5) ziņas par komersanta (ārvalsts komersanta) darbības izbeigšanu un likvidāciju, norādot darbības izbeigšanas pamatu, kā arī par likvidatora iecelšanu, norādot likvidatora vārdu, uzvārdu, personas kodu (ja personai nav personas koda, - dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti un institūciju, kas dokumentu izdevusi), bet, ja ārvalsts komersanta likvidators ir juridiskā persona, - firmu, reģistrācijas numuru un juridisko adresi;
 6) ziņas par koncerna līguma noslēgšanu, grozīšanu vai izbeigšanu, norādot valdošo un atkarīgo firmu, reģistrācijas numuru un līguma noslēgšanas datumu;
-7) individuālā komersanta aizbildņa vai aizgādņa vārds, uzvārds, personas kods (ja personai nav personas koda, - dzimšanas datums, personu apliecinoša dokumenta numurs un izdošanas datums, valsts un institūcija, kas dokumentu izdevusi);
+7) individuālā komersanta vai personālsabiedrību pārstāvēttiesīgā biedra aizbildņa vārds, uzvārds, personas kods (ja personai nav personas koda, - dzimšanas datums, personu apliecinoša dokumenta numurs un izdošanas datums, valsts un institūcija, kas dokumentu izdevusi);
+7¹) ziņas par aizgādnības nodibināšanu individuālajam komersantam vai personālsabiedrību pārstāvēttiesīgajam biedram, ja tiesa ierobežojusi attiecīgās personas rīcībspēju;
 8) katra ieraksta izdarīšanas datums.
 (6) Komercreģistrā ieraksta citas ziņas, ja to tieši paredz likums.
 (7) Ierakstot komercreģistrā komersantu, tam piešķir individuālu reģistrācijas numuru.
