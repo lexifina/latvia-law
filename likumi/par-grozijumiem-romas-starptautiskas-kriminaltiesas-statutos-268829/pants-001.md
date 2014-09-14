@@ -1,0 +1,1 @@
+1.pants. Grozījumi Romas Starptautiskās krimināltiesas statūtos (turpmāk - grozījumi), kas apstiprināti ar Romas Starptautiskās krimināltiesas Pārskata konferences 2010.gada 10.jūnija rezolūciju RC/Res.5 un 2010.gada 11.jūnija rezolūciju RC/Res.6, ar šo likumu tiek pieņemti un apstiprināti.

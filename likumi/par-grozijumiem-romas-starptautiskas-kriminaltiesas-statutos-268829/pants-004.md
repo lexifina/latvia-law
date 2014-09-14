@@ -1,0 +1,1 @@
+4.pants. Romas Starptautiskās krimināltiesas Pārskata konferences 2010.gada 11.jūnija rezolūcijā RC/Res.6 noteiktie grozījumi stājas spēkā Romas Starptautiskās krimināltiesas statūtu 121.panta 3., 4., 5., 6. un 7.punktā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo oficiālajā izdevumā "Latvijas Vēstnesis".
