@@ -6,5 +6,5 @@
 (3) Papildus Kriminālprocesa likumā noteiktajiem par noziedzīgi iegūtiem uzskatāmi arī līdzekļi, kuri pieder personai vai kurus tieši vai netieši kontrolē persona:
 1) kura ir iekļauta kādā no Ministru kabineta atzītu valstu vai starptautisko organizāciju sastādītajiem to personu sarakstiem, kas tiek turētas aizdomās par iesaistīšanos teroristiskās darbībās;
 2) par kuru operatīvās darbības subjektiem, pirmstiesas izmeklēšanas iestādēm, prokuratūrai vai tiesai ir informācija, kas dod pietiekamu pamatu šo personu turēt aizdomās par tāda noziedzīga nodarījuma izdarīšanu, kurš saistīts ar terorismu, vai līdzdalību tajā.
-(4) Par šā panta trešajā daļā minētajām personām Noziedzīgi iegūtu līdzekļu legalizācijas novēršanas dienests (turpmāk - Kontroles dienests) informē likuma subjektus un to uzraudzības un kontroles institūcijas.
+(4) Informāciju par šā panta trešajā daļā minētajām personām Noziedzīgi iegūtu līdzekļu legalizācijas novēršanas dienests (turpmāk - Kontroles dienests) uztur savā tīmekļa vietnē, darot to pieejamu likuma subjektiem un to uzraudzības un kontroles institūcijām.
 (5) Līdzekļi par noziedzīgi iegūtiem atzīstami Kriminālprocesa likumā noteiktajā kārtībā.

@@ -1,4 +1,4 @@
 33.¹ pants. Objekti, uz kuriem attiecināmi Kontroles dienesta rīkojumi
-(1) Rīkojumi, kurus Kontroles dienests izdod saskaņā ar šā likuma 32.panta trešās daļas 1.punktu un 33.panta pirmo daļu, attiecināmi uz noziedzīgi iegūtiem līdzekļiem, tai skaitā uz mantu, kas radusies, pārvēršot noziedzīgi iegūtus līdzekļus citās vērtībās.
+(1) Rīkojumi, kurus Kontroles dienests izdod saskaņā ar šā likuma 32.² panta otrās daļas 1.punktu un ceturto daļu un 33.panta pirmo daļu, attiecināmi uz noziedzīgi iegūtiem līdzekļiem, tai skaitā uz mantu, kas radusies, pārvēršot noziedzīgi iegūtus līdzekļus citās vērtībās.
 (2) Ja noziedzīgi iegūti līdzekļi pilnībā vai daļēji ir pievienoti no likumīgiem avotiem iegūtiem līdzekļiem, Kontroles dienesta rīkojumi attiecas uz noziedzīgi iegūtu līdzekļu un no likumīgiem avotiem iegūtu līdzekļu kopējo masu, nepārsniedzot noziedzīgi iegūto līdzekļu vērtību.
 (3) Ja no līdzekļiem, uz kuriem saskaņā ar šā panta pirmo un otro daļu attiecina Kontroles dienesta rīkojumus, tiek gūti augļi, tad Kontroles dienesta rīkojumi attiecas arī uz iegūtajiem augļiem vai to daļu, kas atbilst no noziedzīgi iegūtajiem līdzekļiem gūto augļu vērtībai.

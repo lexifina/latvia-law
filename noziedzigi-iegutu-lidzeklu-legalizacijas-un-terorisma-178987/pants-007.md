@@ -8,5 +8,5 @@
 6) kārtību, kādā tiek ziņots Kontroles dienestam par neparastiem un aizdomīgiem darījumiem;
 7) kārtību, kādā tiek uzglabāti klienta identifikācijas un izpētes gaitā, kā arī klienta veikto darījumu uzraudzības gaitā iegūtie dati un dokumenti;
 8) darbinieku tiesības, pienākumus un atbildību, pildot šā likuma prasības.
-(2) Kredītiestādēm un finanšu iestādēm, izņemot kapitālsabiedrības, kas nodarbojas ar ārvalstu valūtas skaidras naudas pirkšanu un pārdošanu, Finanšu un kapitāla tirgus komisija nosaka noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas riska novērtēšanas metodiku.
+(2) Šā likuma 45.pantā minētās uzraudzības un kontroles institūcijas nosaka noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas riska noskaidrošanas un novērtēšanas metodiku atbilstoši tām uzraugāmo un kontrolējamo šā likuma subjektu darbībai.
 (3) Kredītiestādes un finanšu iestādes, izņemot kapitālsabiedrības, kas nodarbojas ar ārvalstu valūtas skaidras naudas pirkšanu un pārdošanu, papildus šā panta pirmajā daļā minētajam paredz, ka par noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanu atbildīgajam darbiniekam ir pienākums regulāri informēt valdi par noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas iekšējās kontroles sistēmas darbību attiecīgajā kredītiestādē vai finanšu iestādē.

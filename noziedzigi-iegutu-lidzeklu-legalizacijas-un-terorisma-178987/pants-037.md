@@ -6,6 +6,6 @@
 3) paziņojumu par patieso labuma guvēju;
 4) saraksti, tajā skaitā elektroniskā pasta saraksti;
 5) citus dokumentus, tajā skaitā elektroniskos dokumentus, kas iegūti klienta izpētes laikā.
-(3) Atsevišķos gadījumos pēc Kontroles dienesta norādījuma šā panta otrajā daļā minēto termiņu var noteikt ilgāku par pieciem gadiem, bet ne ilgāku par sešiem gadiem.
+(3) Atsevišķos gadījumos pēc Kontroles dienesta norādījuma šā panta otrajā daļā minēto termiņu var noteikt ilgāku par pieciem gadiem.
 (4) Likuma subjektam ir tiesības elektroniski apstrādāt klientu identifikācijas un izpētes rezultātā iegūtos datus par klientiem, to pārstāvjiem un patiesajiem labuma guvējiem.
 (5) Zvērināti notāri klienta izpētes dokumentus glabā atbilstoši Notariāta likuma prasībām.

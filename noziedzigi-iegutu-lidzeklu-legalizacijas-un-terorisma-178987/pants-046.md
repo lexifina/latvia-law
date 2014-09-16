@@ -1,7 +1,7 @@
 46.pants. Uzraudzības un kontroles institūcijas pienākumi
 (1) Uzraudzības un kontroles institūcijai ir šādi pienākumi:
 1) uzskaitīt un reģistrēt uzraugāmos likuma subjektus;
-2) veikt uzraugāmo un kontrolējamo likuma subjektu darbinieku apmācību jautājumos, kas saistīti ar noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanu;
+2) veikt uzraugāmo un kontrolējamo likuma subjektu darbinieku apmācību un vadlīniju izstrādi jautājumos, kas saistīti ar noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanu;
 3) veikt saskaņā ar tās izstrādāto metodiku regulāras pārbaudes, lai izvērtētu, kā likuma subjekti izpilda šā likuma prasības, un, konstatējot pārkāpumus, lemt par pārbaudes akta sastādīšanu un sankciju piemērošanu;
 4) ziņot Kontroles dienestam par pārbaužu laikā konstatētajiem neparastiem un aizdomīgiem darījumiem, par kuriem attiecīgais likuma subjekts nav ziņojis Kontroles dienestam;
 5) pēc Kontroles dienesta pieprasījuma sniegt tam metodisku palīdzību šajā likumā paredzēto funkciju veikšanai;
