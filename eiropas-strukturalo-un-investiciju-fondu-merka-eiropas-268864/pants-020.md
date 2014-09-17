@@ -1,0 +1,2 @@
+20.pants. Informācijas atklātība
+Projekta iesnieguma lieta ir ierobežotas pieejamības informācija līdz brīdim, kad stājies spēkā lēmums par projekta iesnieguma apstiprināšanu, apstiprināšanu ar nosacījumu vai noraidīšanu. Pēc minētā lēmuma spēkā stāšanās projekta lieta ir pieejama Informācijas atklātības likumā un regulas Nr. 1303/2013 115.panta 2.punktā un XII pielikumā noteiktajā apjomā un kārtībā.

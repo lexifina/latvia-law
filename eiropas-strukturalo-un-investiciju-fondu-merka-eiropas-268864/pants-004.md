@@ -1,0 +1,3 @@
+4.pants. Valsts budžeta līdzfinansējuma likme
+(1) Valsts budžeta līdzfinansējuma likme programmu apstiprināto projektu īstenošanai nav augstāka par programmas dokumentā noteikto Latvijai minimāli iespējamo likmi, ar kuru var nodrošināt Eiropas Komisijas lēmumā par programmas apstiprināšanu attiecīgajam programmas prioritārajam virzienam noteikto ERAF līdzfinansējuma likmi, izņemot šā panta otrajā daļā minētos gadījumos.
+(2) Ministru kabinets var lemt par šā panta pirmajā daļā minētās valsts budžeta līdzfinansējuma likmes palielināšanu iepriekš noteiktajiem projektiem, ja programmas īstenošanas laikā ir radies objektīvs projekta īstenošanai nepieciešamo izmaksu sadārdzinājums.
