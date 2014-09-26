@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2014. gada 23. septembra noteikumi Nr. 563 \"Noteikumi par ziņu sniegšanu un saņemšanu no Sodu reģistra, valsts nodevas apmēru un izziņas noformēšanas prasībām\"",
+  "type_of_act": "Ministru kabineta instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "190",
+  "official_journal_page": null,
+  "official_journal_date": "2014-09-25",
+  "entry_into_force": "2014-09-26",
+  "notification_date": "2022-06-28",
+  "commission_reference": "MNE(2022)04040",
+  "nim_celex": "72019L0884LVA_202204040",
+  "nim_id": "202204040",
+  "transposes_celex": [
+    "32019L0884"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b2d3b1ea-343f-4dac-82ec-479f0741e558",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
