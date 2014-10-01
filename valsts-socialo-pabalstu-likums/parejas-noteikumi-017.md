@@ -1,0 +1,1 @@
+17. No 2014.gada 1.oktobra bērna kopšanas pabalstu līdz bērna viena gada vecumam nepiešķir personai, kurai saskaņā ar likumu "Par maternitātes un slimības apdrošināšanu" līdz 2014.gada 30.septembrim par šo bērnu piešķirts vecāku pabalsts un tā izmaksa nepārtraukti turpinās no 2014.gada 1.oktobra.
