@@ -11,4 +11,5 @@
 10) Padomes 2009.gada 25.jūnija direktīvas 2009/69/EK, ar ko direktīvu 2006/112/EK par kopējo pievienotās vērtības nodokļa sistēmu groza attiecībā uz nodokļu nemaksāšanu, kas saistīta ar importu;
 11) Padomes 2009.gada 22.decembra direktīvas 2009/162/ES, ar ko groza vairākus noteikumus direktīvā 2006/112/EK par kopējo pievienotās vērtības nodokļa sistēmu;
 12) Padomes 2010.gada 7.decembra direktīvas 2010/88/ES, ar ko direktīvu 2006/112/EK par kopējo pievienotās vērtības nodokļa sistēmu groza attiecībā uz minimālās pamatlikmes ievērošanas pienākuma ilgumu;
-13) Padomes 2010.gada 13.jūlija direktīvas 2010/45/ES, ar ko direktīvu 2006/112/EK par kopējo pievienotās vērtības nodokļa sistēmu groza attiecībā uz rēķinu piesūtīšanas noteikumiem.
+13) Padomes 2010.gada 13.jūlija direktīvas 2010/45/ES, ar ko direktīvu 2006/112/EK par kopējo pievienotās vērtības nodokļa sistēmu groza attiecībā uz rēķinu piesūtīšanas noteikumiem;
+14) Padomes 2013.gada 17.decembra direktīvas 2013/61/ES, ar ko direktīvu 2006/112/EK un direktīvu 2008/118/EK groza attiecībā uz Francijas tālākajiem reģioniem un īpaši Majotu.

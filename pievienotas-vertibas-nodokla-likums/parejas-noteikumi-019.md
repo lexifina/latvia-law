@@ -1,0 +1,1 @@
+19. Grozījumi attiecībā uz šā likuma 27.panta izteikšanu jaunā redakcijā, grozījumi 30.pantā, kā arī grozījumi 125.panta pirmās daļas 21.punktā attiecībā uz skaitļa "140." aizstāšanu ar skaitli "140.¹" stājas spēkā 2015.gada 1.janvārī.

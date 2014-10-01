@@ -1,0 +1,1 @@
+20. Šā likuma 140.¹ pantā minētos īpašos nodokļa aprēķināšanas un maksāšanas režīmus elektronisko sakaru, apraides un elektroniski sniegtiem pakalpojumiem personai, kura nav nodokļa maksātājs, kā arī grozījumus attiecībā uz šā likuma 1.panta papildināšanu ar 4.¹, 24.¹ un 30.punktu piemēro ar 2015.gada 1.janvāri.

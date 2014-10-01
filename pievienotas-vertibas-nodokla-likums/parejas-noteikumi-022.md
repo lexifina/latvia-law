@@ -1,0 +1,1 @@
+22. Šā likuma 146.panta devītā daļa ir piemērojama attiecībā uz maksātnespējas procesiem, kuriem maksātnespējas reģistrā ieraksts par maksātnespējas procesa pasludināšanu izdarīts, sākot ar 2014.gada 1.oktobri.

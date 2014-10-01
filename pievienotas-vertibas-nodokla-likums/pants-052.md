@@ -13,7 +13,7 @@ b) ēdināšanu, ko ārstniecības iestāde nodrošina pacientam ārstniecības 
 c) izmitināšanu, ko ārstniecības iestāde nodrošina pacientam un personai, kas uzturas kopā ar pacientu,
 d) ārstniecības iestāžu atbilstības novērtēšanu obligātajām prasībām un ārstniecības iestāžu sertifikācijas pakalpojumus,
 e) klīniski diagnostiskos laboratorijas pakalpojumus, ko nodrošina citās ārstniecības iestādēs;
-5) cilvēka orgānu, mātes piena un cilvēka asiņu piegādes;
+5) cilvēka orgānu, mātes piena un cilvēka asiņu (tai skaitā asins plazmas un asins šūnu) piegādes;
 6) zobārstniecības pakalpojumus;
 7) zobu tehniķu un zobu higiēnistu sniegtos pakalpojumus pacientam;
 8) kooperatīvo sabiedrību sniegtos pakalpojumus šo kooperatīvo sabiedrību biedriem, ja šāds atbrīvojums nerada konkurences izkropļojumu:
