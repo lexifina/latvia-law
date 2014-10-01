@@ -1,0 +1,1 @@
+164. Šā likuma 24.panta 9.¹ daļas piemērošanai laika posmā no 2014.gada 1.oktobra līdz 2015.gada 9.augustam tajā noteiktais termiņa pagarinājumu skaita ierobežojums kalendārā gada laikā ir ne vairāk kā sešas reizes.

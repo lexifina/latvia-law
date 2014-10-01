@@ -1,0 +1,1 @@
+161. Attiecībā uz nokavētajiem nodokļu maksājumiem, kuru maksāšanas termiņš ir iestājies pēc 2014.gada 8.augusta līdz šā likuma 24.panta pirmās daļas 9.punkta spēkā stāšanās dienai, minētajā tiesību normā paredzētais iesnieguma iesniegšanas termiņš ir nosakāms, skaitot no attiecīgās tiesību normas spēkā stāšanās dienas.

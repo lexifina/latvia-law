@@ -1,0 +1,1 @@
+163. Piemērojot šā likuma 24.pantā paredzētos grozījumus attiecībā uz tā pirmās daļas papildināšanu ar 9.punktu un panta papildināšanu ar 1.⁵ daļu, nokavējuma nauda netiek aprēķināta arī par periodu pirms šo grozījumu spēkā stāšanās.
