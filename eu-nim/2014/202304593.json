@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2014. gada 19. augusta noteikumi Nr. 501 \"Elektronisko sakaru inženierbūvju būvnoteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "189",
+  "official_journal_page": null,
+  "official_journal_date": "2014-09-24",
+  "entry_into_force": "2014-10-01",
+  "notification_date": "2023-08-15",
+  "commission_reference": "MNE(2023)04593",
+  "nim_celex": "72018L1972LVA_202304593",
+  "nim_id": "202304593",
+  "transposes_celex": [
+    "32018L1972"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2f32ed93-9813-4ce9-8532-d5859bad92a5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
