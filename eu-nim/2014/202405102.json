@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Būvniecības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "146",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-30",
+  "entry_into_force": "2014-10-01",
+  "notification_date": "2024-11-25",
+  "commission_reference": "MNE(2024)05102",
+  "nim_celex": "72023L2413LVA_202405102",
+  "nim_id": "202405102",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/95083d5b-360e-4797-a7e9-a9dcb1d46dfd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
