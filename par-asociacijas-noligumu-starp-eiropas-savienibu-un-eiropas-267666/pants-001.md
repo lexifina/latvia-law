@@ -1,0 +1,1 @@
+1.pants. 2014.gada 27.jūnijā Briselē parakstītais Asociācijas nolīgums starp Eiropas Savienību un Eiropas Atomenerģijas kopienu un to dalībvalstīm, no vienas puses, un Gruziju, no otras puses (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.
