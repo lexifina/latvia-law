@@ -1,5 +1,5 @@
 10.⁶ pants. Vecāku pabalsta apmērs
-(1) Vecāku pabalstu piešķir 70 procentu apmērā no pabalsta pieprasītāja vidējās apdrošināšanas iemaksu algas, bet ne mazāk kā 171 euro mēnesī.
+(1) (Zaudējusi spēku ar 01.10.2014. Sk. Pārejas noteikumu 22.punktu)
 (2) Vecāku pabalstu pabalsta pieprasītājam, kurš atrodas bērna kopšanas atvaļinājumā vai atvaļinājumā bez darba samaksas saglabāšanas, kas piešķirts sakarā ar nepieciešamību kopt bērnu, vai bērna kopšanas dēļ negūst ienākumus kā pašnodarbinātais, piešķir no pabalsta pieprasītāja vidējās apdrošināšanas iemaksu algas šādā apmērā:
 1) 60 procentu apmērā pabalsta pieprasītājam, kurš izvēlējies to saņemt bērna kopšanai līdz viena gada vecumam;
 2) 43,75 procentu apmērā pabalsta pieprasītājam, kurš izvēlējies to saņemt bērna kopšanai līdz pusotra gada vecumam.
