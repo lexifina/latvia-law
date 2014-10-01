@@ -1,0 +1,1 @@
+48. Ar 2014.gada 1.oktobri uzsākama šā likuma 7.panta piektajā un sestajā daļā, kā arī 7.¹ pantā minētās valstij vai pašvaldībai piederošās zemes sadale un nodošana privatizācijai šajā likumā noteiktajā kārtībā vai privatizētā objekta īpašnieka īpašumā saskaņā ar šā likuma 84.panta noteikumiem.

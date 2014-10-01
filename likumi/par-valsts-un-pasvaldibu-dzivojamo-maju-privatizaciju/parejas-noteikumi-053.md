@@ -1,0 +1,1 @@
+53. Ministru kabinets līdz 2015.gada 30.septembrim iesniedz Saeimai likumprojektu par dalītā īpašuma tiesisko attiecību izbeigšanu starp privatizētā objekta īpašnieku un tā zemes gabala īpašnieku, uz kura atrodas privatizētais objekts.
