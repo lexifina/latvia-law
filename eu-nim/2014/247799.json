@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2014.gada 19.augusta Ministru kabineta noteikumi Nr.500 \n\nVispārīgie būvnoteikumi",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2014/191.3",
+  "official_journal_page": null,
+  "official_journal_date": "2014-09-26",
+  "entry_into_force": "2014-10-01",
+  "notification_date": "2017-05-23",
+  "commission_reference": "MNE(2017)52725",
+  "nim_celex": "72014L0052LVA_247799",
+  "nim_id": "247799",
+  "transposes_celex": [
+    "32014L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4f999ce4-9e22-4e86-ade3-f7a91a373d6a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
