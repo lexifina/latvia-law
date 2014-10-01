@@ -1,0 +1,1 @@
+11. Līdz 2016.gada 1.janvārim ekspertīzes veikšanas tiesības ir fiziskajām personām, ja tās saņēmušas sertifikātu attiecīgajiem projektēšanas vai būvdarbu veidiem, kā arī būvniecību reglamentējošos normatīvajos aktos noteiktajā kārtībā reģistrētām juridiskajām personām, kuras nodarbina sertificētu speciālistu attiecīgajā jomā.

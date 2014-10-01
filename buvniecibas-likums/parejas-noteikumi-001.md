@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Būvniecības likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 20.nr.; 1997, 7., 22.nr.; 2002, 7.nr.; 2003, 6., 8.nr.; 2004, 9.nr.; 2005, 8.nr.; 2006, 7., 13.nr.; 2008, 3.nr.; 2009, 14.nr.; Latvijas Vēstnesis, 2010, 205.nr.; 2012, 195.nr.; 2013, 87., 124.nr.).

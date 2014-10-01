@@ -1,0 +1,1 @@
+9. Būvspeciālisti, kas saņēmuši arhitekta prakses vai būvprakses sertifikātu līdz šā likuma spēkā stāšanās dienai, ir tiesīgi turpināt patstāvīgu praksi pēc sertifikātā norādītā derīguma termiņa beigām, ja tie atbilst šā likuma prasībām un sniedz būvspeciālistu reģistrā iekļaujamās ziņas Ministru kabineta noteiktajā apjomā, termiņā un kārtībā.

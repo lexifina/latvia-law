@@ -1,0 +1,1 @@
+7. Līdz grozījumu izdarīšanai normatīvajos aktos šajā likumā lietotie jēdzieni "pārbūve" un "lietošanas veida maiņa" atbilst jēdzienam "rekonstrukcija", bet jēdziens "atjaunošana" - jēdzienam "renovācija".

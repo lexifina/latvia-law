@@ -1,0 +1,1 @@
+4.¹ No šā likuma 18.panta pirmās daļas izrietošā prasība, ka pašvaldībā nodarbinātam būvinspektoram ir nepieciešama vismaz pirmā līmeņa augstākā izglītība, kas iegūta arhitekta vai būvinženiera studiju programmā, un prasība par būvspeciālista sertifikāta nepieciešamību neattiecas uz būvinspektoriem, kuri darba tiesiskās attiecības ar būvvaldi uzsākuši līdz 2014.gada 1.novembrim.

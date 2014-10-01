@@ -1,0 +1,30 @@
+2. Līdz attiecīgos Ministru kabineta noteikumus aizvietojošo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2015.gada 1.jūlijam piemērojami šādi Latvijas būvnormatīvi, ciktāl tie nav pretrunā ar šo likumu:
+1) LBN 002-01 "Ēku norobežojošo konstrukciju siltumtehnika";
+2) LBN 003-01 "Būvklimatoloģija";
+3) LBN 005-99 "Inženierizpētes noteikumi būvniecībā";
+4) LBN 006-00 "Būtiskās prasības būvēm";
+5) LBN 016-11 "Būvakustika";
+6) LBN 201-10 "Būvju ugunsdrošība";
+7) LBN 202-01 "Būvprojekta saturs un noformēšana";
+8) LBN 203-97 "Betona un dzelzsbetona konstrukciju projektēšanas normas";
+9) LBN 205-97 "Mūra un stiegrota mūra konstrukciju projektēšanas normas";
+10) LBN 206-99 "Koka konstrukciju projektēšanas normas";
+11) LBN 207-01 "Ģeotehnika. Būvju pamati un pamatnes";
+12) LBN 208-08 "Publiskas ēkas un būves";
+13) LBN 209-09 "Mazstāvu dzīvojamās mājas";
+14) LBN 211-08 "Daudzstāvu daudzdzīvokļu dzīvojamie nami";
+15) LBN 214-03 "Ģeotehnika. Pāļu pamati un pamatnes";
+16) LBN 221-98 "Ēku iekšējais ūdensvads un kanalizācija";
+17) LBN 222-99 "Ūdensapgādes ārējie tīkli un būves";
+18) LBN 223-99 "Kanalizācijas ārējie tīkli un būves";
+19) LBN 224-05 "Meliorācijas sistēmas un hidrotehniskās būves";
+20) LBN 229-06 "Hidroelektrostaciju hidrotehniskās būves";
+21) LBN 231-03 "Dzīvojamo un publisko ēku apkure un ventilācija";
+22) LBN 241-03 "Iekšējās gāzesvadu sistēmas un gāzes iekārtas";
+23) LBN 242-02 "Gāzes sadales un lietotāju ārējie tīkli";
+24) LBN 261-07 "Ēku iekšējo elektroinstalāciju izbūve";
+25) LBN 262-05 "Elektronisko sakaru tīkli";
+26) LBN 501-06 "Būvizmaksu noteikšanas kārtība";
+27) LBN 305-01 "Ģeodēziskie darbi būvniecībā";
+28) LBN 310-05 "Darbu veikšanas projekts";
+29) LBN 405-01 "Būvju tehniskā apsekošana".

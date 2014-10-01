@@ -1,0 +1,1 @@
+8. Šā likuma 5.panta pirmās daļas 12.punkts un 23.pants stājas spēkā 2016.gada 1.janvārī. Šā likuma 23.panta pirmajā daļā ietvertais priekšnoteikums pretendēšanai uz būvdarbu veikšanu piemērojams ar dienu, kad stājas spēkā attiecīgi grozījumi Publisko iepirkumu likumā un Aizsardzības un drošības jomas iepirkumu likumā, bet ne agrāk par 2016.gada 1.janvāri.
