@@ -5,5 +5,5 @@ Likumā ir lietoti šādi termini:
 3) (izslēgts ar 01.11.2007. likumu);
 4) (izslēgts ar 01.11.2007. likumu);
 5) (izslēgts ar 21.12.2000. likumu);
-6) biocīdi - aktīvas vielas vai maisījumi, kas satur vienu vai vairākas aktīvas vielas tādā veidā, kādā tās tiek piegādātas patērētājam, un kas paredzētas, lai ķīmiski vai bioloģiski iznīcinātu, atbaidītu un padarītu nekaitīgus kaitīgos organismus, aizkavētu to iedarbību vai citādi tos ietekmētu;
+6) (izslēgts ar 18.09.2014. likumu);
 7) (izslēgts ar 29.10.2009. likumu).

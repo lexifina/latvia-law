@@ -1,6 +1,6 @@
 3.pants. Likuma darbība
 (1) Šis likums reglamentē darbības ar ķīmiskajām vielām un maisījumiem, kā arī biocīdiem.
-(1¹) Šis likums nosaka kompetento iestādi un palīdzības dienesta izveidošanu Eiropas Parlamenta un Padomes 2006.gada 18.decembra regulas Nr. 1907/2006, kas attiecas uz ķimikāliju reģistrēšanu, vērtēšanu, licencēšanu un ierobežošanu (REACH) un ar kuru izveido Eiropas Ķimikāliju aģentūru, groza direktīvu 1999/45/EK un atceļ Padomes regulu (EEK) Nr. 793/93 un Komisijas regulu (EK) Nr. 1488/94, kā arī Padomes direktīvu 76/769/EEK un Komisijas direktīvu 91/155/EEK, direktīvu 93/67/EEK, direktīvu 93/105/EK un direktīvu 2000/21/EK (turpmāk - regula 1907/2006), kā arī Eiropas Parlamenta un Padomes 2008.gada 16.decembra regulas (EK) Nr. 1272/2008 par vielu un maisījumu klasificēšanu, marķēšanu un iepakošanu un ar ko groza un atceļ direktīvas 67/548/EEK un 1999/45/EK un groza regulu (EK) Nr. 1907/2006 (turpmāk - regula 1272/2008) izpratnē.
+(1¹) Šis likums nosaka kompetento iestādi un palīdzības dienesta izveidošanu Eiropas Parlamenta un Padomes 2006.gada 18.decembra regulas Nr. 1907/2006, kas attiecas uz ķimikāliju reģistrēšanu, vērtēšanu, licencēšanu un ierobežošanu (REACH) un ar kuru izveido Eiropas Ķimikāliju aģentūru, groza direktīvu 1999/45/EK un atceļ Padomes regulu (EEK) Nr. 793/93 un Komisijas regulu (EK) Nr. 1488/94, kā arī Padomes direktīvu 76/769/EEK un Komisijas direktīvu 91/155/EEK, direktīvu 93/67/EEK, direktīvu 93/105/EK un direktīvu 2000/21/EK (turpmāk - regula 1907/2006), Eiropas Parlamenta un Padomes 2008.gada 16.decembra regulas (EK) Nr. 1272/2008 par vielu un maisījumu klasificēšanu, marķēšanu un iepakošanu un ar ko groza un atceļ direktīvas 67/548/EEK un 1999/45/EK un groza regulu (EK) Nr. 1907/2006 (turpmāk - regula 1272/2008), un Eiropas Parlamenta un Padomes 2012.gada 22.maija regulas (ES) Nr. 528/2012 par biocīdu piedāvāšanu tirgū un lietošanu (turpmāk - regula 528/2012), kā arī kompetento iestādi Eiropas Parlamenta un Padomes 2012.gada 4.jūlija regulas Nr. 649/2012 par bīstamo ķīmisko vielu eksportu un importu 4.panta (turpmāk - regula 649/2012) izpratnē.
 (2) Papildus šim likumam darbības ar ķīmiskajām vielām un maisījumiem regulē:
 1) attiecībā uz ķīmiskajām vielām vai maisījumiem, kas ir atkritumu sastāvā, - normatīvie akti, kuri reglamentē atkritumu apsaimniekošanu;
 2) attiecībā uz maisījumu pārvadājumiem (arī tranzītpārvadājumiem) pa ceļiem, dzelzceļu, gaisu, jūru, pastu vai pārvietošanu pa cauruļvadiem, ja netiek veikta jebkāda šo vielu vai maisījumu apstrāde vai pārstrāde, - normatīvie akti, kas reglamentē bīstamo kravu pārvadāšanas kārtību;
@@ -11,7 +11,7 @@
 (3) Šis likums neattiecas:
 1) uz šādiem produktiem un precēm to izgatavošanas galīgajā stadijā:
 a) zālēm (arī veterinārijā izmantojamām),
-b) kosmētikas izstrādājumiem,
+b) kosmētikas līdzekļiem,
 c) alkoholiskajiem dzērieniem,
 d) tabakas izstrādājumiem,
 e) pārtikas produktiem un pārtikas piedevām,
