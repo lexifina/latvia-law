@@ -7,8 +7,8 @@
 3) izmeklēt dzelzceļa satiksmes negadījumus un veikt to uzskaiti;
 4) kontrolēt ritošā sastāva avāriju seku novēršanas darbu organizēšanu un veikšanu;
 5) izskatīt dzelzceļa infrastruktūras būvprojektus un pieņemt lēmumus par tiem, izsniegt būvatļaujas un kontrolēt, kā dzelzceļa infrastruktūras būvniecības dalībnieki ievēro šā likuma un citu būvniecību reglamentējošo normatīvo aktu prasības;
-6) saskaņā ar normatīvajiem aktiem izsniegt pārvadātājiem drošības sertifikātus;
-7) noteiktā kārtībā izsniegt drošības apliecības;
+6) izsniegt, apturēt un anulēt drošības sertifikātus un pārbaudīt, kā drošības sertifikāta saņēmējs ievēro tajā ietvertos nosacījumus un normatīvo aktu prasības dzelzceļa transporta jomā;
+7) izsniegt, apturēt un anulēt drošības apliecības un pārbaudīt, kā drošības apliecības saņēmējs ievēro tajā ietvertos nosacījumus un normatīvo aktu prasības dzelzceļa transporta jomā;
 8) saskaņā ar normatīvajiem aktiem izsniegt profesionālās kompetences sertifikātus reglamentētajās sfērās;
 9) apmainīties ar informāciju par savu darbu un lēmumu pieņemšanas principiem un praksi ar citu Eiropas Savienības dalībvalstu attiecīgajām institūcijām;
 10) izsniegt vilces līdzekļa vadītāja (mašīnista) apliecības;

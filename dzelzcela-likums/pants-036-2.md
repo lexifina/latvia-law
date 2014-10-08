@@ -1,0 +1,2 @@
+36.² pants. Ražotāja, remontu veicēja, ritošā sastāva īpašnieka vai lietotāja, preču piegādātāja un pakalpojumu sniedzēja atbildība
+Ražotājs, remontu veicējs, ritošā sastāva īpašnieks vai lietotājs, preču piegādātājs un pakalpojumu sniedzējs nodrošina, ka tā piegādātais ritošais sastāvs, iekārtas, piederumi un ierīces un sniegtie pakalpojumi atbilst attiecīgajām prasībām un lietošanas nosacījumiem dzelzceļa transporta jomā, lai pārvadātājs un dzelzceļa infrastruktūras pārvaldītājs tos var droši izmantot.
