@@ -1,0 +1,4 @@
+20.pants. Sadarbības iestādes lēmuma apstrīdēšana un pārsūdzēšana
+(1) Pretendents var apstrīdēt šā likuma 18. un 19.pantā minēto sadarbības iestādes lēmumu, iesniedzot attiecīgu iesniegumu vadošajai iestādei. Vadošās iestādes izdoto administratīvo aktu par apstrīdēto sadarbības iestādes lēmumu var pārsūdzēt, iesniedzot pieteikumu Administratīvās rajona tiesas attiecīgajam tiesu namam. Vadošās iestādes pieņemtais pārvaldes lēmums par apstrīdēto sadarbības iestādes lēmumu nav pārsūdzams.
+(2) Sadarbības iestādes atzinumu par šā likuma 18.panta ceturtajā daļā minētajā lēmumā ietvertā nosacījuma izpildi apstrīd un pārsūdz tādā pašā kārtībā un termiņos, kādā apstrīd un pārsūdz lēmumu, par kurā ietvertā nosacījuma izpildi sagatavots atzinums. Atzinumu par lēmumā ietvertā nosacījuma izpildi var apstrīdēt un pārsūdzēt arī atsevišķi no lēmuma, kurā ietverts nosacījums.
+(3) Lēmuma apstrīdēšana vai pārsūdzēšana neaptur tā darbību.

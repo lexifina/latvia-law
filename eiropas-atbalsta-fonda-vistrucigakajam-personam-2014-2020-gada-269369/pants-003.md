@@ -1,0 +1,2 @@
+3.pants. Fonda vadība
+Fonda vadība ir tā darbības programmas sagatavošana, saskaņošana un apstiprināšana, fonda vadības un kontroles sistēmas izveide un darbības nodrošināšana, partnerorganizāciju atlases noteikumu izstrāde un atlase, fonda vadības sistēmas un atbalsta kontrole, revīzija, uzraudzība un novērtēšana, fonda izdevumu sertificēšana, fonda informācijas sistēmas izstrāde un uzturēšana, kā arī sabiedrības informēšana par fonda atbalstu.

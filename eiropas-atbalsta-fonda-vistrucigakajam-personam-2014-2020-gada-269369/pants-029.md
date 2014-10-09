@@ -1,0 +1,5 @@
+29.pants. Tiesības iepazīties ar partnerorganizāciju atlases un pārtikas un pamata materiālās palīdzības preču piegādātāju atklāta konkursa norisi
+(1) Pretendentam jebkurā procesa stadijā ir tiesības iepazīties ar tā iesniegtā iesnieguma partnerorganizācijas atlasei virzību, ņemot vērā šā panta otrajā daļā noteikto.
+(2) Pretendents ir tiesīgs iepazīties ar tā iesniegtā iesnieguma partnerorganizācijas atlasei vērtēšanas materiāliem, tai skaitā ekspertu atzinumiem, vērtēšanas komisijas protokoliem un lēmumiem, tikai pēc tam, kad stājies spēkā lēmums par iesnieguma partnerorganizācijas atlasei apstiprināšanu, apstiprināšanu ar nosacījumu vai noraidīšanu.
+(3) Sadarbības iestāde šā panta otrajā daļā minēto informāciju sniedz 10 darbdienu laikā pēc pieprasījuma saņemšanas dienas vai piecu darbdienu laikā pēc pieprasījuma saņemšanas dienas uzaicina pretendentu abpusēji pieņemamā laikā sadarbības iestādē iepazīties ar pieprasīto informāciju.
+(4) Pretendentam uz pārtikas un pamata materiālās palīdzības preču piegādi ir tiesības iepazīties ar atklāta konkursa norisi, ievērojot normatīvos aktus publisko iepirkumu jomā.

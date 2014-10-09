@@ -1,0 +1,3 @@
+21.pants. Lēmuma pieņemšanas termiņš
+(1) Sadarbības iestāde lēmumu par tiesību piešķiršanu būt par partnerorganizāciju, šo tiesību piešķiršanu ar nosacījumu vai noraidīšanu pieņem ne vēlāk kā triju mēnešu laikā pēc iesnieguma partnerorganizācijas atlasei iesniegšanas beigu datuma.
+(2) Ja objektīvu iemeslu dēļ šā panta pirmajā daļā noteikto termiņu nav iespējams ievērot, sadarbības iestāde to var pagarināt uz laiku, ne ilgāku par sešiem mēnešiem no iesnieguma partnerorganizācijas atlasei iesniegšanas beigu datuma, par to triju darbdienu laikā paziņojot pretendentam. Lēmums par termiņa pagarināšanu ir apstrīdams, bet nav pārsūdzams.

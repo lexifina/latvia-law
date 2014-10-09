@@ -1,0 +1,4 @@
+10.pants. Vadošās iestādes un sertifikācijas iestādes atbilstības apstiprināšana
+(1) Labklājības ministrs apstiprina vadošās iestādes un sertifikācijas iestādes atbilstību regulas Nr. 223/2014 IV pielikumā iekļautajiem kritērijiem, pamatojoties uz šā likuma 7.panta otrās daļas 3.punktā minēto novērtējuma ziņojumu un atzinumu.
+(2) Ja vadošā iestāde vai sertifikācijas iestāde nenodrošina institūcijas atbilstību regulas Nr. 223/2014 IV pielikumā iekļautajiem kritērijiem, labklājības ministrs, ņemot vērā šā likuma 7.panta otrās daļas 6.punktā noteikto, atceļ šā panta pirmajā daļā minēto lēmumu par attiecīgās institūcijas atbilstības apstiprināšanu.
+(3) Labklājības ministrs informē Eiropas Komisiju par vadošās iestādes un sertifikācijas iestādes atbilstību regulas Nr. 223/2014 IV pielikumā iekļautajiem kritērijiem un izmaiņām regulas Nr. 223/2014 35.pantā noteiktajā kārtībā.
