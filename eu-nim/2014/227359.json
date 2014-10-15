@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2014.gada 7.oktobra noteikumi Nr.610 „Būvspeciālistu kompetences novērtēšanas un patstāvīgās prakses uzraudzības noteikumi”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "203 (5263)",
+  "official_journal_page": null,
+  "official_journal_date": "2014-10-14",
+  "entry_into_force": "2014-10-15",
+  "notification_date": "2015-06-11",
+  "commission_reference": "MNE(2015)54339",
+  "nim_celex": "72012L0027LVA_227359",
+  "nim_id": "227359",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bcc05d9b-41fb-4e1b-b628-12a5d7279c44",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
