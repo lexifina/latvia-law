@@ -1,0 +1,1 @@
+20. Ministru kabinets līdz 2015.gada 1.janvārim izdod šā likuma 69.¹ panta devītajā daļā minētos noteikumus. Līdz minēto Ministru kabineta noteikumu spēkā stāšanās dienai pacientu ierobežošanu, izmantojot ierobežojošus līdzekļus, veic atbilstoši noteiktā kārtībā apstiprinātām medicīniskajām tehnoloģijām.
