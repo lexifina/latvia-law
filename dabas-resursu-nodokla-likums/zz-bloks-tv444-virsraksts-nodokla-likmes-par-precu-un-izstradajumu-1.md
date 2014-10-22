@@ -1,7 +1,6 @@
 Nr.p.k.
 Preces un izstrādājuma iepakojuma un vienreiz lietojamo galda trauku un piederumu materiāla veids
-Likme
-(euro)
+Likme (euro) par 1 kg materiāla
 1.
 No stikla izejmateriāliem
 0,44
