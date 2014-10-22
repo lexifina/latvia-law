@@ -1,9 +1,9 @@
 1.pants. Likumā lietotie termini
 Likumā ir lietoti šādi termini:
 1) ģeodēzija - zinātnes un ražošanas nozare, kas pēta Zemes formu un lielumu, kā arī nosaka dabas elementu un cilvēku radītu objektu savstarpējo stāvokli uz Zemes virsmas kādā ar Zemi saistītā koordinātu sistēmā. Ģeodēzijā izmanto Zemes gravitācijas lauka, magnētiskā lauka un citus ģeofizikālos mērījumus;
-2) ģeodēziskais punkts - apvidū nostiprināta zīme, kurai ir pastāvīgs centrs un kurai tiek nodrošināta uzturēšana, kā arī ir noteikts vismaz viens no šādiem raksturlielumiem: koordinātas, augstums, Zemes gravimetriskā lauka vērtība vai Zemes ģeomagnētiskā lauka vērtība;
+2) ģeodēziskais punkts - apvidū nostiprināta ģeodēziskā zīme, kurai ir pastāvīgs centrs un ir noteikts vismaz viens no šādiem raksturlielumiem: koordinātas, augstums, Zemes gravimetriskā lauka vērtība vai Zemes ģeomagnētiskā lauka vērtība. Punktiem, kas nostiprināti ar grunts zīmēm, var būt virszemes konstrukcija - kupica, norādītājstabs, ģeodēziskais signāls, nožogojums;
 3) ģeodēziskais tīkls - ģeodēzisko punktu kopums ar viena veida raksturlielumiem;
-4) ģeodēziskā atskaites sistēma - teorētisks, tehnoloģisks un administratīvs ietvars ģeodēzisko darbību veikšanai;
+4) ģeodēziskā atskaites sistēma - teorētisks pamatojums koordinātu, augstumu, magnetometriskai un gravimetriskai atskaitei, ko izmanto ģeodēziskajā un kartogrāfiskajā darbībā;
 5) ģeotelpiskā informācija - jebkura informācija, kas tieši vai netieši norāda uz konkrētu atrašanās vietu vai ģeogrāfisko apgabalu, kurā atrodas ģeotelpiskais objekts;
 6) ģeotelpiskās informācijas aprite - ģeotelpiskās informācijas iegūšana, sagatavošana, apstrāde, uzturēšana, piegāde lietotājiem un izmantošana;
 7) ģeotelpiskās informācijas atkalizmantošana - iestādes rīcībā esošās ģeotelpiskās informācijas izmantošana, ko veic fiziskās vai juridiskās personas komerciāliem vai nekomerciāliem mērķiem, kas nav izmantošanas sākotnējs mērķis, kuram ģeotelpiskā informācija tika iegūta un sagatavota, pildot iestādes uzdevumus. Ģeotelpiskās informācijas apmaiņa starp iestādēm, īstenojot to pārvaldes funkcijas un uzdevumus, nav ģeotelpiskās informācijas atkalizmantošana;
@@ -24,7 +24,7 @@ Likumā ir lietoti šādi termini:
 a) citu ģeotelpisko objektu nepārprotamu atrašanās vietas piesaistīšanu,
 b) konteksta veidošanu citu ģeotelpisko datu vizualizēšanai un analīzei,
 c) topogrāfisko un tematisko karšu izgatavošanu;
-22) pastāvīgo globālās pozicionēšanas bāzes staciju sistēma "Latvijas Pozicionēšanas sistēma" - valsts ģeodēziskās atbalsta sistēmas sastāvdaļa, kura nodrošina augstas precizitātes koordinātu noteikšanu apvidus objektiem, izmantojot Zemes mākslīgos pavadoņus;
+22) pastāvīgo globālās pozicionēšanas bāzes staciju sistēma "Latvijas Pozicionēšanas sistēma" - valsts ģeodēziskā tīkla sastāvdaļa, kura nodrošina augstas precizitātes koordinātu noteikšanu apvidus objektiem, izmantojot Zemes mākslīgos pavadoņus;
 23) tematiskā karte - karte, kuras saturs, mērogs, projekcija un noformējums veidots atbilstoši tikai noteiktas nozares (piemēram, ģeoloģijas, tūrisma, nekustamo īpašumu kadastra, transporta) vai konkrēta mērķa (piemēram, aeronavigācijas, jūras navigācijas, teritorijas plānošanas) attēlošanas prasībām;
 24) topogrāfiskā karte - ģeotelpiskās informācijas attēlojums plaknē ar noteikta veida apzīmējumiem vizuāli uztveramā formā, kurā atbilstoši attēlojuma mērogam ņemta vērā Zemes virsmas liekuma ietekme;
 25) topogrāfiskais plāns - lokāla ģeogrāfiskā apgabala ģeotelpiskās informācijas attēlojums plaknē ar noteikta veida apzīmējumiem vizuāli uztveramā formā;

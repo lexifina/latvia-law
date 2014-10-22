@@ -1,0 +1,1 @@
+20. Ģeotelpiskās informācijas pamatdatu iegūšanai, sagatavošanai un uzturēšanai izmantotajās informācijas sistēmās un datubāzēs esošo informāciju, kas izteikta Baltijas 1977.gada normālo augstumu sistēmā, līdz 2014.gada 1.decembrim izsaka Eiropas Vertikālajā atskaites sistēmā.

@@ -3,7 +3,7 @@
 1) izstrādā valsts politiku un attīstības stratēģiju, koordinē ģeotelpiskās informācijas apriti valstī ģeodēzijas un kartogrāfijas jomā, izņemot jūras navigācijas karšu sastādīšanu un publicēšanu, ko nosaka Jūrlietu pārvaldes un jūras drošības likums;
 2) nodrošina reglamentējošu normatīvo aktu projektu izstrādi atbilstoši Eiropas Savienības, Ziemeļatlantijas līguma organizācijas un citu starptautisko organizāciju tiesību aktiem;
 3) plāno un uzrauga Latvijas Ģeotelpiskās informācijas aģentūras ģeodēzisko un kartogrāfisko pamatdatu iegūšanas, sagatavošanas un atjaunināšanas, kā arī ģeotelpiskās informācijas pakalpojumu sniegšanas izpildi ikgadējā valsts budžeta finansējuma ietvaros;
-4) izveido Ģeotelpiskās informācijas ekspertu padomi un nodrošina tās darbību;
+4) nodrošina Ģeotelpiskās informācijas koordinācijas padomes darbību;
 5) nosaka kārtību, kādā nodrošināms ģeotelpiskās informācijas atbalsts Nacionālo bruņoto spēku uzdevumu izpildei un dalībai Ziemeļatlantijas līguma organizācijā;
 6) sadarbībā ar nozaru ministrijām nodrošina standartu izstrādi un/vai starptautisko standartu adaptēšanu ģeotelpiskās informācijas jomā;
 7) koordinē starptautisko līgumu slēgšanu par ģeotelpiskās informācijas, kas iegūta ar tālizpētes metodi, izmantošanu visu ieinteresēto ministriju funkciju un uzdevumu izpildei.

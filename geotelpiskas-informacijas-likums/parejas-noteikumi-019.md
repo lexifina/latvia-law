@@ -1,0 +1,1 @@
+19. Ja būvniecības dokumentācija izstrādāta Baltijas 1977.gada normālo augstumu sistēmā, tad ar 2014.gada 1.decembri izpildmērījuma plāna piezīmēs jānorāda augstumu sistēma, kurā izstrādāta būvniecības dokumentācija, un augstumu pārrēķinos uz Eiropas Vertikālo atskaites sistēmu izmantotā vērtība.
