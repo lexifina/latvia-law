@@ -3,9 +3,9 @@
 1) aizstāv lietotāju intereses un veicina sabiedrisko pakalpojumu sniedzēju attīstību;
 2) nosaka tarifu aprēķināšanas metodiku;
 3) nosaka tarifus, ja nozaru speciālie likumi neparedz citu tarifu noteikšanas kārtību;
-4) licencē sabiedrisko pakalpojumu sniegšanu;
+4) licencē sabiedrisko pakalpojumu sniegšanu vai reģistrē sabiedrisko pakalpojumu sniedzēju;
 5) izskata strīdus šajā likumā noteiktajos gadījumos un kārtībā;
-6) sekmē konkurenci regulējamās nozarēs un uzrauga sabiedrisko pakalpojumu atbilstību licences nosacījumiem, noteiktām kvalitātes un vides aizsardzības prasībām, tehniskajiem noteikumiem, standartiem, kā arī līgumu noteikumiem;
+6) sekmē konkurenci regulējamās nozarēs un uzrauga sabiedrisko pakalpojumu atbilstību licences nosacījumiem, vispārējās atļaujas noteikumiem, noteiktām kvalitātes prasībām, tehniskajiem noteikumiem, standartiem, kā arī līgumu noteikumiem;
 7) sniedz regulējamo nozaru atbildīgajām ministrijām pēc to pieprasījuma informāciju un priekšlikumus par sabiedrisko pakalpojumu regulēšanas jautājumiem;
 8) informē sabiedrību par savu darbību un arī par sabiedrisko pakalpojumu sniedzēju darbību sabiedrisko pakalpojumu sniegšanā;
 9) pilda citas funkcijas, kas noteiktas nozares speciālajos likumos;

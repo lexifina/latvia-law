@@ -14,3 +14,4 @@
 (13) Regulators var izskatīt strīdu bez strīdā iesaistīto pušu vai to pārstāvju klātbūtnes sēdē, ja strīdā iesaistītās puses vai to pārstāvji nav ieradušies uz strīda izskatīšanas sēdi.
 (14) Ja kāda no strīdā iesaistītajām pusēm vai tās pārstāvis brīdina regulatoru par neierašanos uz strīda izskatīšanas sēdi, regulators, ņemot vērā strīdā iesaistītās puses vai tās pārstāvja sniegto informāciju par neierašanās iemesliem, var atlikt strīda izskatīšanu.
 (15) Regulators strīda izskatīšanas laikā, pirms tiek pieņemts lēmums par strīda izskatīšanu, piedāvā strīdā iesaistītajām pusēm vienoties par izlīgumu.
+(16) Regulators strīda izskatīšanas procesu izbeidz, ja iesniedzējs atsauc iesniegumu par strīda izskatīšanu.

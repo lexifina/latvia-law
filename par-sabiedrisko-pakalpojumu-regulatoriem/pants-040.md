@@ -4,3 +4,4 @@
 1) ir saņemts attiecīgās personas iesniegums par atkāpšanos no amata;
 2) attiecīgā persona vairāk nekā sešus mēnešus pēc kārtas slimības vai citu iemeslu dēļ nespēj pildīt savus amata pienākumus;
 3) ir atklājies vai iestājies kāds no šā likuma 38.pantā noteiktajiem ierobežojumiem.
+(3) Padomes loceklim sniedz pamatojumu viņa atcelšanai no amata, un pēc padomes locekļa lūguma tas tiek publicēts oficiālajā izdevumā "Latvijas Vēstnesis".
