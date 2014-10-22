@@ -1,5 +1,5 @@
 59.pants. Dzīvnieku īpašniekiem vai turētājiem ir pienākums:
-1) sadarbībā ar praktizējošiem veterinārārstiem organizēt dzīvnieku infekcijas slimību profilaksi un apkarošanu, izņemot valsts uzraudzībā esošo dzīvnieku infekcijas slimību profilaksi un apkarošanu;
+1) nodrošināt dzīvnieku infekcijas slimību profilaksi un sadarbībā ar Pārtikas un veterinārā dienesta amatpersonām un praktizējošiem veterinārārstiem organizēt valsts uzraudzībā esošo dzīvnieku infekcijas slimību (izņemot epizootijas) apkarošanu saskaņā ar dzīvnieku veselības jomu reglamentējošiem normatīvajiem aktiem un dzīvnieku infekcijas slimību apkarošanas programmām;
 2) nodrošināt dzīvnieku labturībai nepieciešamos apstākļus, bet saslimušajiem dzīvniekiem - savlaicīgu veterinārmedicīnisko aprūpi, kā arī nodrošināt praktizējošam veterinārārstam nepieciešamos darba apstākļus un dzīvnieku fiksēšanu veterinārmedicīnisko procedūru laikā;
 3) pārvadājot dzīvniekus, ievērot normatīvajos aktos noteikto kārtību;
 4) uzrādīt un nodot nākamajam dzīvnieku īpašniekam dokumentus par dzīvnieku identifikāciju, reģistrāciju, veselības stāvokli un veiktajiem dzīvnieku infekcijas slimību profilaktiskajiem pasākumiem (piemēram, dzīvnieka pasi, dzīvnieka pārvietošanas deklarāciju, vakcinācijas apliecību, veterināro apliecību);
@@ -16,8 +16,8 @@ a) uzrādīt dzīvniekus, kā arī dzīvnieku mītnes un veterināro dokumentāc
 b) pakļaut dzīvniekus infekcijas slimību diagnosticēšanai, ārstēšanai un profilakses pasākumiem,
 c) nodrošināt dzīvnieku mītņu un iekārtu dezinfekciju,
 d) nodrošināt dzīvnieku karantinēšanu un ārstēšanu, kā arī dzīvnieku likvidāciju;
-12) ievērot ierobežojumus dzīvnieku un dzīvnieku izcelsmes produktu izmantošanā pēc dzīvnieku medikamentozas ārstēšanas, ja tādi paredzēti apstiprinātā lietošanas pamācībā vai tos nosaka praktizējošs veterinārārsts;
+12) ievērot ierobežojumus dzīvnieku un dzīvnieku izcelsmes produktu izmantošanā pēc dzīvnieku medikamentozas ārstēšanas, ja tādi paredzēti apstiprinātā lietošanas instrukcijā vai tos nosaka praktizējošs veterinārārsts;
 13) ievērot ierobežojumus dzīvnieku barības izēdināšanā, glabāšanā un pārvadāšanā atbilstoši normatīvajos aktos noteiktajām prasībām;
-14) nodrošināt suņu, kaķu un mājas (istabas) sesku vakcināciju pret trakumsērgu. Vakcināciju pret trakumsērgu praktizējošs veterinārārsts izdara saskaņā ar vakcīnas ražotāja veterināro zāļu lietošanas instrukcijā noteikto kārtību un izsniedz Eiropas Savienības mājas (istabas) dzīvnieka pasi vai vakcinācijas apliecību;
+14) nodrošināt suņu, kaķu un mājas (istabas) sesku profilaktisko vakcināciju pret trakumsērgu dzīvnieka triju mēnešu vecumā, izņemot gadījumus, kad praktizējošs veterinārārsts, ņemot vērā konkrētā dzīvnieka veselības stāvokli, nosaka citu vakcinācijas laiku, kā arī nodrošināt atkārtotu vakcināciju (revakcināciju) saskaņā ar veterināro zāļu lietošanas instrukcijā noteikto kārtību;
 15) nodrošināt novietnē un akvakultūras dzīvnieku audzētavā esošo dzīvnieku pārvietošanu uz citām novietnēm un akvakultūras dzīvnieku audzētavām atbilstoši piešķirtajam veselības statusam un saskaņā ar normatīvajiem aktiem par dzīvnieku infekcijas slimību uzraudzību, kontroli, profilaksi un apkarošanu;
 16) trīs gadus glabāt testēšanas pārskatus par laboratoriskajiem izmeklējumiem attiecībā uz ziņojamām, reģistrējamām un valsts uzraudzībā esošām dzīvnieku infekcijas slimībām.

@@ -17,4 +17,4 @@
 16) reģistrēto dzīvnieku datubāzēs esošās informācijas izmantošanas kārtību;
 17) valsts uzraudzībā esošo dzīvnieku infekcijas slimību uzraudzības, kontroles un apkarošanas kārtību;
 18) ziņojamo, reģistrējamo un valsts uzraudzībā esošo dzīvnieku infekcijas slimību sarakstu un kārtību, kādā dzīvnieku īpašnieks vai turētājs, juridiskā persona, kuras uzņēmumā tiek veikti laboratoriskie izmeklējumi, vai tās pilnvarota persona, praktizējošs veterinārārsts vai jebkura cita persona, kuras rīcībā ir attiecīga informācija, ziņo Pārtikas un veterinārajam dienestam par ziņojamām, reģistrējamām un valsts uzraudzībā esošām dzīvnieku infekcijas slimībām;
-19) dzīvnieku sugas, kategorijas un populācijas, attiecībā uz kurām nepieciešams izstrādāt biodrošības pasākumu kopumu, kā arī prasības biodrošības pasākumu izstrādei dzīvnieku turēšanas vietās un kārtību, kādā šīs prasības saskaņojamas ar Pārtikas un veterināro dienestu.
+19) dzīvnieku sugas, kategorijas un populācijas, attiecībā uz kurām nepieciešams izstrādāt biodrošības pasākumu kopumu, kā arī prasības biodrošības pasākumu izstrādei dzīvnieku turēšanas vietās.

@@ -1,0 +1,1 @@
+26. Šā likuma 8.panta 7.punkts, 56.panta 9.punkts un grozījumi 52.panta ceturtajā daļā attiecībā uz mājas (istabas) dzīvnieku kontroli saskaņā ar Parlamenta un Padomes regulu Nr. 576/2013 stājas spēkā 2014.gada 29.decembrī.
