@@ -7,4 +7,5 @@ Valsts augu aizsardzības dienests:
 5) nosaka ģenētiski modificētos organismus sēklās un augu pavairošanas materiālā;
 6) piedalās starptautisko organizāciju rīkotajās starplaboratoriju testēšanas programmās;
 7) ievieš starptautiski atzītas metodes, kas saistītas ar ģenētiski modificēto organismu noteikšanu sēklās un augu pavairošanas materiālā;
-8) nodrošina ģenētiski modificēto organismu noteikšanu sēklās un augu pavairošanas materiālā ārvalstu laboratorijās, ja to nav iespējams veikt Latvijā.
+8) nodrošina ģenētiski modificēto organismu noteikšanu sēklās un augu pavairošanas materiālā ārvalstu laboratorijās, ja to nav iespējams veikt Latvijā;
+9) veic to ģenētiski modificēto organismu uzraudzību un kontroli, kurus audzē ģenētiski modificēto kultūraugu audzētāju reģistrā nereģistrēti kultūraugu audzētāji.

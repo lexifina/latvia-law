@@ -1,7 +1,7 @@
 5.pants. Ministru kabineta kompetence
 (1) Ministru kabinets:
-1) nosaka ģenētiski modificēto mikroorganismu ierobežotas izmantošanas, atļaujas izsniegšanas un anulēšanas kārtību;
-2) nosaka kārtību, kādā ģenētiski modificētos organismus apzināti izplata, monitoringa un atļaujas izsniegšanas kārtību, kā arī kārtību, kādā sniedzama informācija par ģenētiski modificēto organismu apriti un sabiedrības iesaistīšanu lēmumu pieņemšanas procesā;
+1) nosaka ģenētiski modificēto mikroorganismu ierobežotas izmantošanas, atļaujas izsniegšanas, grozīšanas un anulēšanas kārtību;
+2) nosaka kārtību, kādā ģenētiski modificētos organismus apzināti izplata, monitoringa un atļaujas izsniegšanas, pagarināšanas, grozīšanas un anulēšanas kārtību, kā arī kārtību, kādā sniedzama informācija par ģenētiski modificēto organismu apriti un sabiedrības iesaistīšanu lēmumu pieņemšanas procesā;
 3) nosaka ģenētiski modificēto organismu riska novērtēšanas metodoloģiju;
 4) izdod noteikumus par ģenētiski modificēto kultūraugu līdzāspastāvēšanu, reglamentējot prasības ģenētiski modificēto kultūraugu līdzāspastāvēšanai un kārtību, kādā uzrauga, kontrolē un reģistrē ģenētiski modificēto kultūraugu audzētājus, svītro tos no ģenētiski modificēto kultūraugu audzētāju reģistra un apmainās ar ģenētiski modificēto kultūraugu audzētāju reģistrā iekļauto informāciju;
 5) nosaka, kādā apmērā maksājama valsts nodeva par ģenētiski modificēto organismu riska novērtējuma atzinuma sagatavošanu, kā arī tās samaksas kārtību;

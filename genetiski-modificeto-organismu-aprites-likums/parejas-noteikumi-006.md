@@ -1,0 +1,1 @@
+6. Grozījumi šā likuma 5.panta pirmās daļas 5.punktā attiecībā uz maksas noteikšanu par ģenētiski modificēto organismu riska novērtēšanas atzinuma sagatavošanu stājas spēkā vienlaikus ar attiecīgiem grozījumiem likumā "Par nodokļiem un nodevām".

@@ -8,5 +8,8 @@
 2) Valsts darba inspekcijai - ģenētiski modificēto mikroorganismu ierobežotai izmantošanai;
 3) Valsts vides dienestam - ģenētiski modificēto organismu izplatīšanai vidē izmēģinājumiem un ģenētiski modificēto kultūraugu audzēšanai;
 4) Valsts augu aizsardzības dienestam - ģenētiski modificēto kultūraugu audzēšanai.
-(3) Valsts augu aizsardzības dienestam ir tiesības anulēt reģistrāciju ģenētiski modificēto kultūraugu audzētāju reģistrā, ja ir pārkāptas normatīvo aktu prasības par ģenētiski modificēto kultūraugu audzēšanu un līdzāspastāvēšanu.
-(4) Pārtikas un veterinārajam dienestam ir tiesības anulēt atļauju ģenētiski modificēto mikroorganismu ierobežotai izmantošanai un ģenētiski modificēto organismu apzinātai izplatīšanai, ja ir pārkāptas ģenētiski modificēto organismu apriti regulējošu normatīvo aktu prasības.
+(3) Valsts augu aizsardzības dienestam ir tiesības:
+1) anulēt reģistrāciju ģenētiski modificēto kultūraugu audzētāju reģistrā, ja ir pārkāptas normatīvo aktu prasības par ģenētiski modificēto kultūraugu audzēšanu un līdzāspastāvēšanu;
+2) saskaņā ar normatīvajiem aktiem par ģenētiski modificēto kultūraugu līdzāspastāvēšanu pieņemt lēmumu par to, ka sējumi vai stādījumi noteiktā termiņā iznīcināmi ar mehāniskām vai ķīmiskām metodēm. Valsts augu aizsardzības dienesta inspektora lēmumu par sējumu vai stādījumu iznīcināšanu var apstrīdēt, iesniedzot Valsts augu aizsardzības dienesta direktoram attiecīgu iesniegumu. Valsts augu aizsardzības dienesta direktora lēmumu var pārsūdzēt tiesā. Lēmuma apstrīdēšana un pārsūdzēšana neaptur tā darbību;
+3) piespiedu kārtā iznīcināt sējumus un stādījumus, ja šīs daļas 2.punktā minētais lēmums noteiktā termiņā nav izpildīts.
+(4) (Izslēgta ar 25.09.2014. likumu)

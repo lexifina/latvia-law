@@ -1,8 +1,2 @@
 8.pants. Pārtikas un veterinārā dienesta kompetence
-Pārtikas un veterinārais dienests:
-1) pamatojoties uz normatīvajiem aktiem par ģenētiski modificēto organismu apriti un ievērojot Zinātniskās ekspertu komisijas atzinumu un Ģenētiski modificēto organismu uzraudzības padomes priekšlikumu, izsniedz atļauju:
-a) ģenētiski modificēto mikroorganismu ierobežotai izmantošanai,
-b) ģenētiski modificēto organismu izplatīšanai vidē izmēģinājumiem,
-c) ģenētiski modificēto organismu izplatīšanai tirgū, izņemot atļauju Eiropas Parlamenta un Padomes 2003.gada 22.septembra regulā (EK) Nr. 1829/2003 par ģenētiski modificētu pārtiku un barību (Dokuments attiecas uz EEZ) (turpmāk - Eiropas Parlamenta un Padomes regula Nr. 1829/2003) noteiktajām darbībām;
-2) nodrošina, lai Eiropas Pārtikas nekaitīguma iestādes, Eiropas Zāļu aģentūras un citu Eiropas Savienības dalībvalstu kompetento institūciju sagatavotie atzinumi par riska novērtēšanu sakarā ar ģenētiski modificēto organismu apzinātu izplatīšanu tiktu izskatīti atbilstoši Eiropas Parlamenta un Padomes regulai Nr. 1829/2003 un Eiropas Parlamenta un Padomes 2004.gada 31.marta regulai (EK) Nr. 726/2004, ar ko nosaka cilvēkiem paredzēto un veterināro zāļu reģistrēšanas un uzraudzības Kopienas procedūras un izveido Eiropas Zāļu aģentūru, kā arī normatīvajiem aktiem par ģenētiski modificēto organismu apzinātu izplatīšanu, monitoringa un atļaujas izsniegšanas kārtību, kā arī kārtību, kādā sniedzama informācija par ģenētiski modificēto organismu apriti un sabiedrības iesaistīšanu lēmumu pieņemšanas procesā;
-3) organizē un vada publiski pieejamas valsts informācijas sistēmas - ģenētiski modificēto organismu aprites reģistra - izveidošanu un darbību.
+Pārtikas un veterinārais dienests nodrošina ģenētiski modificētās pārtikas un dzīvnieku barības (izņemot sēklas) aprites uzraudzību un kontroli.
