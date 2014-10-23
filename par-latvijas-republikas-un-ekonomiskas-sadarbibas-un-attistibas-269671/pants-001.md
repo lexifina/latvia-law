@@ -1,0 +1,1 @@
+1.pants. 2014.gada 5.maijā Parīzē parakstītais Latvijas Republikas un Ekonomiskās sadarbības un attīstības organizācijas līgums par organizācijas privilēģijām, imunitātēm un atvieglojumiem (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
