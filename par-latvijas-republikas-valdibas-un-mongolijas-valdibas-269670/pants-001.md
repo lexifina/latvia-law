@@ -1,0 +1,1 @@
+1.pants. 2014.gada 12.jūnijā Ulanbatorā parakstītais Latvijas Republikas valdības un Mongolijas valdības nolīgums par starptautiskajiem pārvadājumiem ar autotransportu (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
