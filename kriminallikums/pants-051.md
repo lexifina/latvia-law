@@ -1,5 +1,5 @@
 51.pants. Soda noteikšana pēc vairākiem spriedumiem
-(1) Ja notiesātais pēc sprieduma taisīšanas, bet pirms pilnīgas soda izciešanas izdarījis jaunu noziedzīgu nodarījumu, tiesa jaunajā spriedumā noteiktajam sodam pilnīgi vai daļēji pievieno sodu, kas nav izciests pēc iepriekšējā sprieduma.
+(1) Ja notiesātais pēc sprieduma spēkā stāšanās, bet pirms pilnīgas soda izciešanas izdarījis jaunu noziedzīgu nodarījumu, tiesa jaunajā spriedumā noteiktajam sodam pilnīgi vai daļēji pievieno sodu, kas nav izciests pēc iepriekšējā sprieduma.
 (1¹) Nosakot sodu pēc vairākiem spriedumiem, sodam pievieno ne mazāk kā vienu trešdaļu no neizciestā soda, ja:
 1) persona, kura sodīta par smagu vai sevišķi smagu noziegumu, neizciestā soda laikā izdarījusi smagu vai sevišķi smagu noziegumu;
 2) ir konstatēts noziedzīgu nodarījumu recidīvs;

@@ -15,3 +15,4 @@ Likumā iekļautas tiesību normas, kas izriet no:
 14) Eiropas Parlamenta un Padomes 2009.gada 18.jūnija direktīvas 2009/52/EK, ar ko nosaka minimālos standartus sankcijām un pasākumiem pret darba devējiem, kas nodarbina trešo valstu valstspiederīgos, kuri dalībvalstīs uzturas nelikumīgi;
 15) Eiropas Parlamenta un Padomes 2011.gada 5.aprīļa direktīva 2011/36/ES par cilvēku tirdzniecības novēršanu un apkarošanu un cietušo aizsardzību, un ar kuru aizstāj Padomes Pamatlēmumu 2002/629/TI;
 16) Eiropas Parlamenta un Padomes 2011.gada 13.decembra direktīvas 2011/93/ES par seksuālas vardarbības pret bērniem, bērnu seksuālas izmantošanas un bērnu pornogrāfijas apkarošanu, un ar kuru aizstāj Padomes Pamatlēmumu 2004/68/TI.
+17) Eiropas Parlamenta un Padomes 2013.gada 12.augusta direktīvas 2013/40/ES par uzbrukumiem informācijas sistēmām, un ar kuru aizstāj Padomes Pamatlēmumu 2005/222/TI.

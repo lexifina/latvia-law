@@ -1,0 +1,5 @@
+248.² pants. Jaunu psihoaktīvu vielu neatļauta izgatavošana, iegādāšanās, glabāšana, pārvadāšana, pārsūtīšana un jaunu psihoaktīvu vielu neatļauta lietošana
+(1) Par jaunas psihoaktīvas vielas vai to saturoša izstrādājuma, kuru aprite ir aizliegta vai ierobežota, neatļautu iegādāšanos, glabāšanu, pārvadāšanu vai pārsūtīšanu bez nolūka tos realizēt vai jaunas psihoaktīvas vielas vai to saturoša izstrādājuma, kuru aprite ir aizliegta vai ierobežota, neatļautu lietošanu, ja to izdarījusi persona, kura brīdināta par kriminālatbildību par jaunas psihoaktīvas vielas vai to saturoša izstrādājuma, kuru aprite ir aizliegta vai ierobežota, neatļautu iegādāšanos, glabāšanu, pārvadāšanu, pārsūtīšanu un lietošanu, -
+soda ar īslaicīgu brīvības atņemšanu vai ar piespiedu darbu, vai ar naudas sodu.
+(2) Par jaunas psihoaktīvas vielas vai to saturoša izstrādājuma, kuru aprite ir aizliegta vai ierobežota, neatļautu izgatavošanu bez nolūka tos realizēt -
+soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu.
