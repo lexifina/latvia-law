@@ -1,2 +1,2 @@
 254.pants. Personas atbrīvošana no kriminālatbildības par narkotisko un psihotropo vielu iegādāšanos, glabāšanu, pārvadāšanu un pārsūtīšanu
-Persona, kura labprātīgi nodevusi narkotiskās vai psihotropās vielas vai labprātīgi paziņojusi par to iegādāšanos, glabāšanu, pārvadāšanu vai pārsūtīšanu, tiek atbrīvota no kriminālatbildības par šo vielu lietošanu, iegādāšanos, glabāšanu, pārvadāšanu vai pārsūtīšanu.
+Persona, kura labprātīgi nodevusi narkotiskās, psihotropās, jaunas psihoaktīvās vielas vai tās saturošus izstrādājumus, kuru aprite ir aizliegta vai ierobežota, vai labprātīgi paziņojusi par to iegādāšanos, glabāšanu, pārvadāšanu vai pārsūtīšanu, tiek atbrīvota no kriminālatbildības par šo vielu lietošanu, iegādāšanos, glabāšanu, pārvadāšanu vai pārsūtīšanu.

@@ -5,3 +5,5 @@ soda ar brīvības atņemšanu uz laiku līdz diviem gadiem vai ar īslaicīgu b
 soda ar brīvības atņemšanu uz laiku līdz četriem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu, konfiscējot mantu vai bez mantas konfiskācijas.
 (3) Par tādām pašām darbībām, ja tās izdarījusi organizēta grupa vai ja tās izraisījušas smagas sekas, vai arī par liela personu skaita, tas ir, vienā gadījumā vairāk nekā piecu personu nelikumīgu pārvietošanu pāri valsts robežai -
 soda ar brīvības atņemšanu uz laiku līdz septiņiem gadiem, konfiscējot mantu vai bez mantas konfiskācijas, un ar policijas kontroli uz laiku līdz trim gadiem vai bez tās.
+(4) Par tādām pašām darbībām, ja tās izraisījušas divu vai vairāku cilvēku nāvi, -
+soda ar brīvības atņemšanu uz laiku līdz desmit gadiem un ar probācijas uzraudzību uz laiku līdz trim gadiem.

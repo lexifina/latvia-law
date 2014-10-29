@@ -5,3 +5,5 @@ soda ar īslaicīgu brīvības atņemšanu vai ar piespiedu darbu, vai ar naudas
 soda ar brīvības atņemšanu uz laiku līdz vienam gadam vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu.
 (3) Par šā panta pirmajā daļā paredzēto vielu neatļautu izgatavošanu, iegādāšanos vai realizēšanu, ja tā izraisījusi smagas sekas, -
 soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu.
+(4) Par šā panta pirmajā daļā paredzēto vielu neatļautu izgatavošanu, iegādāšanos vai realizēšanu, ja tā izraisījusi divu vai vairāku cilvēku nāvi, -
+soda ar brīvības atņemšanu uz laiku līdz astoņiem gadiem.
