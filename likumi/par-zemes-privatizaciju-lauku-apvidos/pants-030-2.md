@@ -1,0 +1,4 @@
+30.² pants. Pirmpirkuma tiesības uz lauksaimniecības zemi
+Ja lauksaimniecības zemes kopīpašnieks pārdod viņam piederošo zemes daļu, pirmpirkuma tiesības uz atsavināmo lauksaimniecības zemi ir zemes kopīpašniekiem. Šādā gadījumā pirmpirkuma tiesības īstenojamas Civillikumā noteiktajā kārtībā.
+Šā likuma 28.¹ panta pirmajā daļā minētajai personai, kas ir lauksaimniecības zemes nomnieks, ir pirmpirkuma tiesības uz atsavināmo zemi, ja zemes nomas līgums ir reģistrēts attiecīgajā pašvaldībā. Šādā gadījumā lauksaimniecības zemes nomniekam ir pirmpirkuma tiesības arī uz to lauksaimniecības zemi, uz kuru pirmpirkuma tiesības neizmanto zemes kopīpašnieks.
+Šā likuma 38.panta pirmajā daļā minētajam Latvijas zemes fonda pārvaldītājam ir pirmpirkuma tiesības uz lauksaimniecības zemi, ja pirmpirkuma tiesības neizmanto šā panta pirmajā un otrajā daļā minētās personas.
