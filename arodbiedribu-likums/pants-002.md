@@ -1,0 +1,4 @@
+2.pants. Arodbiedrību darbības tiesiskais regulējums
+(1) Ar strādājošo tiesību un interešu pārstāvību saistītās arodbiedrību tiesības un pienākumus nosaka Latvijas Republikas Satversme, Latvijai saistošās starptautisko tiesību normas, šis likums, kā arī citi likumi. Veidu, kādā arodbiedrības aizstāv strādājošo intereses, nosaka arodbiedrību statūti.
+(2) Arodbiedrību darbību regulē šis likums, Biedrību un nodibinājumu likuma noteikumi par biedrībām, ciktāl šis likums nenosaka citādi, kā arī arodbiedrību statūti.
+(3) Arodbiedrībām ir tiesības savos statūtos noteikt no Biedrību un nodibinājumu likuma atšķirīgu regulējumu jautājumos, kas skar biedru iestāšanās, izstāšanās un izslēgšanas procesuālo kārtību, biedru sapulces un pārstāvju sapulces kompetenci, sasaukšanas, norises un lēmumu pieņemšanas kārtību, izpildinstitūciju ievēlēšanas, lēmumu pieņemšanas kārtību, tiesības un pienākumus, kā arī statūtu grozīšanas kārtību.

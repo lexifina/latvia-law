@@ -1,0 +1,6 @@
+12.pants. Arodbiedrību tiesības un to īstenošana
+(1) Arodbiedrībām, pārstāvot un aizstāvot strādājošo darba, ekonomiskās, sociālās un profesionālās intereses, ir tiesības veikt kolektīvas pārrunas, saņemt informāciju un konsultēties ar darba devējiem, darba devēju organizācijām un to apvienībām, slēgt darba koplīgumus (ģenerālvienošanās), pieteikt streikus, kā arī īstenot citas normatīvajos aktos noteiktās tiesības.
+(2) Arodbiedrībām ir tiesības normatīvajos aktos noteiktajā kārtībā piedalīties normatīvo aktu projektu un politikas plānošanas dokumentu projektu izstrādē un sniegt atzinumus par šiem projektiem, ja tie skar vai var skart strādājošo darba, ekonomiskās, sociālās un profesionālās tiesības un intereses.
+(3) Arodbiedrībām ir tiesības pieprasīt un saņemt no valsts un pašvaldību institūcijām savu funkciju pildīšanai un mērķu sasniegšanai nepieciešamo informāciju, ja normatīvajos aktos nav noteikti ierobežojumi tās sniegšanai.
+(4) Arodbiedrības savas kompetences ietvaros bez īpaša pilnvarojuma pārstāv un aizstāv savu biedru tiesības un intereses.
+(5) Darba līgums arodbiedrības biedriem, kuri nav arodbiedrības pilnvarotās amatpersonas, uzteicams atbilstoši Darba likuma noteikumiem.

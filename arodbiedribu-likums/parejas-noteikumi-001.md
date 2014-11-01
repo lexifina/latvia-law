@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par arodbiedrībām" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 3./4.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2003, 12.nr.; 2005, 14.nr.; Latvijas Vēstnesis, 2012, 100.nr.).

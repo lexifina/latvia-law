@@ -1,0 +1,1 @@
+2. Latvijas Republikas Uzņēmumu reģistrs sešu mēnešu laikā no šā likuma spēkā stāšanās dienas arodbiedrību reģistrā esošos ierakstus par arodbiedrībām, kuras nav izslēgtas no arodbiedrību reģistra, iekļauj biedrību un nodibinājumu reģistrā, nemainot ziņu apjomu un nepieprasot pārreģistrāciju.

@@ -1,0 +1,1 @@
+3. Arodbiedrības piecu gadu laikā no šā likuma spēkā stāšanās dienas iesniedz Latvijas Republikas Uzņēmumu reģistram šā likuma un citu normatīvo aktu prasībām atbilstošus statūtus un informāciju par personām, kuras ir tiesīgas pārstāvēt arodbiedrību.
