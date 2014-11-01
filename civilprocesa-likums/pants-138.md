@@ -13,5 +13,6 @@
 (5) Ja prasības priekšmets ir naudas prasījums, tās nodrošinājums ar nekustamo īpašumu izdarāms, ierakstot zemesgrāmatā attiecīgā nekustamā īpašuma nodalījumā ķīlas tiesības atzīmi, norādot nodrošināmās prasības summas apmēru.
 (6) Kuģa arests piemērojams tikai jūras prasībās.
 (7) Mantas pārdošanas apturēšana nav pieļaujama lietās, kurās prasība celta par naudas piedziņu.
+(7¹) To maksājumu apķīlāšana, kuri pienākas no trešajām personām, tajā skaitā naudas līdzekļi kredītiestādēs un citās finanšu institūcijās, nav pieļaujama prasībās, kurās prasījums ir atlīdzība, kas nosakāma pēc tiesas ieskata.
 (8) Apmierinot pieteikumu par prasības nodrošināšanu, lēmumā norāda summu, līdz kurai sniedzas nodrošinājums, bet tā nedrīkst būt lielāka par prasības summu.
 (9) Pieļaujams vienlaikus piemērot vairākus prasības nodrošinājuma līdzekļus, ievērojot šā panta astotās daļas noteikumus.

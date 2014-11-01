@@ -1,0 +1,1 @@
+85. Lietas par nekustamā īpašuma nostiprināšanu uz ieguvēja (personas, kas pārņēmusi nekustamo īpašumu, vai nosolītāja) vārda, kuras līdz 2014.gada 31.oktobrim pieņemtas izskatīšanai apgabaltiesā, izskata Civilprocesa likumā noteiktajā kārtībā, kāda bija spēkā līdz 2014.gada 31.oktobrim.

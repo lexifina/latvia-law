@@ -1,0 +1,1 @@
+82. Pieteikumu par pastāvīgās šķīrējtiesas sprieduma piespiedu izpildi vai par atteikumu izdot izpildu rakstu pastāvīgās šķīrējtiesas sprieduma piespiedu izpildei, kurš saņemts līdz 2014.gada 31.decembrim, tiesa izskata tādā kārtībā, kāda bija spēkā pastāvīgās šķīrējtiesas sprieduma taisīšanas brīdī.
