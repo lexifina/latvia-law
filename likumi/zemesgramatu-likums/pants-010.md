@@ -1,1 +1,1 @@
-10. Zemesgrāmatas iekārto atsevišķi katrai zemesgrāmatu nodaļas darbības rajonā esošai administratīvajai teritorijai, bet, ja administratīvajā teritorijā ir novada teritoriālā iedalījuma vienības, zemesgrāmatas iekārto katrai teritoriālajai iedalījuma vienībai.
+10. Zemesgrāmatas iekārto atsevišķi katrai zemesgrāmatu nodaļas darbības teritorijā esošai administratīvajai teritorijai, bet, ja administratīvajā teritorijā ir novada teritoriālā iedalījuma vienības, zemesgrāmatas iekārto katrai teritoriālajai iedalījuma vienībai.

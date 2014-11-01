@@ -1,1 +1,2 @@
 71. Saņemtos nostiprinājuma lūgumus zemesgrāmatu nodaļas darbinieks tajā pašā dienā saņemšanas kārtībā ieraksta nostiprinājuma žurnālā ar sevišķu numuru, to atzīmējot uz nostiprinājuma lūguma, un parakstās. Nostiprinājuma lūgumi, kas saņemti zemesgrāmatu nodaļā pa pastu pēc pieņemšanas laika beigām, atzīstami par saņemtiem nākamajā darba dienā.
+Pieteikumu par nekustamā īpašuma nostiprināšanu ieguvējam, nosolītājam, līdzīpašniekam vai kreditoram ieraksta nostiprinājuma žurnālā šā panta pirmajā daļā noteiktajā kārtībā.

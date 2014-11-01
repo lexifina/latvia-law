@@ -1,2 +1,2 @@
-3. Katrs nekustams īpašums jāieraksta zemesgrāmatā tajā zemesgrāmatu nodaļā, kuras darbības rajonā tas atrodas.
-Zemesgrāmatu nodaļu darbības rajoni atbilst rajonu (pilsētu) tiesu darbības teritorijām, izņemot Rīgas pilsētas zemesgrāmatu nodaļas darbības rajonu, kurš atbilst Rīgas pilsētas Kurzemes rajona tiesas, Rīgas pilsētas Vidzemes priekšpilsētas tiesas, Rīgas pilsētas Ziemeļu rajona tiesas, Rīgas pilsētas Centra rajona tiesas, Rīgas pilsētas Latgales priekšpilsētas tiesas un Rīgas pilsētas Zemgales priekšpilsētas tiesas darbības teritorijai, bet Rīgas rajona zemesgrāmatu nodaļas darbības rajons atbilst Rīgas rajona tiesas un Siguldas tiesas darbības teritorijai.
+3. Katrs nekustams īpašums jāieraksta zemesgrāmatā tajā zemesgrāmatu nodaļā, kuras darbības teritorijā tas atrodas.
+Zemesgrāmatu nodaļas darbības teritoriju nosaka likums "Par tiesu varu" un uz tā pamata izdotie tiesību akti.
