@@ -1,4 +1,4 @@
-6. pants. Aviācijas departamenta, Civilās aviācijas aģentūras un Transporta nelaimes gadījumu un incidentu izmeklēšanas biroja kompetence
+6.pants. Aviācijas departamenta, Civilās aviācijas aģentūras, Transporta nelaimes gadījumu un incidentu izmeklēšanas biroja un Valsts robežsardzes kompetence
 Aviācijas departaments:
 1) izstrādā civilās aviācijas perspektīvās attīstības programmu un koncepciju projektus;
 2) izsniedz licences komercdarbības veikšanai gaisa satiksmes pakalpojumu jomā;
@@ -35,3 +35,6 @@ Transporta nelaimes gadījumu un incidentu izmeklēšanas birojs:
 Aviācijas departamenta, Civilās aviācijas aģentūras un Transporta nelaimes gadījumu un incidentu izmeklēšanas biroja darbiniekam, pildot dienesta pienākumus, ir tiesības netraucēti iekļūt visos civilās aviācijas objektos, kas atrodas Latvijas Republikas teritorijā.
 Civilās aviācijas aģentūra var izdot administratīvos aktus par aizliegumu vai ierobežojumu piemērošanu darbībām, kas saistītas ar civilās aviācijas personāla sertificēšanu, Latvijas Republikas gaisa telpas izmantošanu vai civilās aviācijas gaisa kuģu, lidlauku un citu civilās aviācijas objektu un iekārtu ekspluatāciju, lai nodrošinātu Eiropas Savienības tiesību aktos noteikto civilās aviācijas drošības un gaisa kuģu lidojumu drošuma prasību īstenošanu. Administratīvā akta pārsūdzēšana neaptur tā darbību.
 Civilās aviācijas aģentūra Valsts pārvaldes iekārtas likumā noteiktajā kārtībā privātpersonai ar līgumu var deleģēt izpletņlēcēju desantēšanas, ultravieglo gaisa kuģu ekspluatācijas uzraudzību, ultravieglo gaisa kuģu pilotu un tehniskās apkopes personāla sertificēšanu un motoparaplānu un motodeltaplānu reģistrāciju.
+Valsts robežsardze:
+1) pārbauda vispārējās nozīmes aviācijas gaisa kuģu lidojumu veikšanai nepieciešamo dokumentāciju un civilās aviācijas gaisa kuģa apkalpes atbilstību lidojumu veikšanai;
+2) izskata likumā noteiktajā kārtībā un savas kompetences ietvaros administratīvo pārkāpumu lietas par pārkāpumiem civilās aviācijas jomā un uzliek administratīvos sodus.

@@ -1,1 +1,0 @@
-7. Līdz dienai, kad stāsies spēkā Eiropas Savienības regula par gaisa kuģu ekspluatāciju lidojumā un aviācijas personāla licencēšanu, piemēro Eiropas Apvienoto aviācijas institūciju izstrādātās Vienotās aviācijas prasības.

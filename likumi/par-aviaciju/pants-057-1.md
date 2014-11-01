@@ -2,7 +2,7 @@
 Darba devējs veic iepriekšējās darbības pārbaudi Komisijas 2010.gada 4.marta regulā (ES) Nr. 185/2010, ar ko nosaka sīki izstrādātus pasākumus kopīgu pamatstandartu īstenošanai aviācijas drošības jomā (Dokuments attiecas uz EEZ), noteiktajām personām un personām, kuras veiks darba pienākumus aeronavigācijas objektos, ievērojot Komisijas 2011.gada 17.oktobra īstenošanas regulu (EK) Nr. 1035/2011, ar ko nosaka kopīgas prasības aeronavigācijas pakalpojumu sniegšanai un groza regulas (EK) Nr. 482/2008 un (ES) Nr. 691/2010 (Dokuments attiecas uz EEZ).
 Darba devējs saskaņā ar līgumu var pilnvarot lidostas administrāciju veikt iepriekšējās darbības pārbaudi vai tās daļu šā panta pirmajā daļā minētajām personām, kurām nepieciešama pastāvīga piekļuve lidlauka kontrolējamai zonai.
 Drošības policija atbilstoši savai kompetencei pēc darba devēja pieprasījuma veic šā panta pirmajā daļā minēto personu pārbaudi, ja to pienākumos ietilpst:
-1) pasažieru, viņu rokas bagāžas, reģistrētās bagāžas, kravas un pasta drošības pārbaude;
+1) pasažieru, viņu rokas bagāžas, reģistrētās bagāžas, kravas, pasta un lidojumu laikā patērējamo krājumu drošības pārbaude;
 2) lidostas ierobežotās piekļuves zonā strādājošā personāla un tā līdzpaņemto priekšmetu, kā arī šā personāla rīcībā esošo transportlīdzekļu drošības pārbaude;
 3) piekļuves kontrole lidostā, uzraudzība un patrulēšana;
 4) lidostas caurlaižu izsniegšana;

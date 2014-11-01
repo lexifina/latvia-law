@@ -1,3 +1,2 @@
-62. pants. Lidlauka personāla sagatavotība nelaimes gadījumā cietušā gaisa kuģa glābšanai
-Lidlauka personālam ir jābūt speciāli sagatavotam un organizētam, lidlaukā ir jāatrodas nepieciešamajam inventāram un iekārtām, lai patstāvīgi veiktu lidlauka teritorijā nelaimes gadījumā cietušā gaisa kuģa glābšanu līdz brīdim, kad glābšanas darbus uzsāk un koordinē Aviācijas meklēšanas un glābšanas valsts dienests.
-(Otrā daļa izslēgta ar 15.12.2005. likumu.)
+62.pants. Lidlauka personāla sagatavotība nelaimes gadījumā cietušā gaisa kuģa un cilvēku glābšanai
+Lidlauka ekspluatants nodrošina, ka lidlauka personāls tiek speciāli sagatavots un organizēts un lidlaukā atrodas nepieciešamais inventārs un iekārtas, lai lidlauka personāls varētu patstāvīgi glābt lidlauka teritorijā nelaimes gadījumā cietušo gaisa kuģi un cilvēkus un sniegt neatliekamo medicīnisko palīdzību līdz brīdim, kad glābšanas darbus uzsāk iesaistītās valsts institūcijas, kuru darbību koordinē Koordinācijas centrs.
