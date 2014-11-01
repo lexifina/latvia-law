@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Arodbiedrību likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "60",
+  "official_journal_page": null,
+  "official_journal_date": "2014-03-25",
+  "entry_into_force": "2014-11-01",
+  "notification_date": "2016-06-08",
+  "commission_reference": "MNE(2016)53874",
+  "nim_celex": "72014L0036LVA_238281",
+  "nim_id": "238281",
+  "transposes_celex": [
+    "32014L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/adaf79de-8ce7-4226-a0ee-c58b6cf3266c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
