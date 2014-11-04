@@ -5,4 +5,4 @@
 3) ieņem ar deputāta mandātu nesavienojamu amatu;
 4) vienas kārtējās sesijas laikā neattaisnotu iemeslu dēļ nav apmeklējis vairāk nekā pusi no Saeimas sēdēm;
 5) izdarījis nodarījumu nepieskaitāmības stāvoklī vai arī pēc nozieguma izdarīšanas saslimis ar gara slimību, kas atņēmusi viņam iespēju apzināties savu darbību vai to vadīt;
-6) likumā noteiktajā kārtībā atzīts par rīcības nespējīgu.
+6) (izslēgts ar 16.10.2014. likumu).

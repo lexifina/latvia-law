@@ -1,0 +1,1 @@
+14. Šā likuma 5.⁴ nodaļa stājas spēkā vienlaikus ar grozījumiem Valsts kontroles likumā, kurā noteikts Valsts kontroles pienākums sniegt Saeimai rakstveida ziņojumu par Valsts kontroles darbu un ziņot par savu darbu Saeimas sēdē.

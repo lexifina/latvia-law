@@ -5,4 +5,4 @@
 2) runātājiem 54.pantā paredzētajos gadījumos;
 3) runātājiem debatēs par likumprojektu vai lēmuma projektu;
 4) runātājiem, kas sniedz atbildi uz pieprasījumu.
-(4) Deputāts, kurš ir Ministru prezidents, Ministru prezidenta biedrs, ministrs vai valsts ministrs, pieteikumā norāda, vai viņš runās kā deputāts vai kā Ministru prezidents, Ministru prezidenta biedrs, ministrs vai valsts ministrs. Ja pieteikumā tas nav norādīts, viņam vārdu dod kā deputātam.
+(4) Deputāts, kurš ir Ministru prezidents, Ministru prezidenta biedrs vai ministrs, pieteikumā norāda, vai viņš runās kā deputāts vai kā Ministru prezidents, Ministru prezidenta biedrs vai ministrs. Ja pieteikumā tas nav norādīts, viņam vārdu dod kā deputātam.

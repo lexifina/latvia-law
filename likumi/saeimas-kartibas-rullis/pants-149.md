@@ -13,8 +13,9 @@
 12) Publisko izdevumu un revīzijas komisija;
 13) (izslēgts no 01.04.2012. ar 19.01.2012. likumu);
 14) Nacionālās drošības komisija;
-15) Sabiedrības saliedētības komisija;
-16) Eiropas lietu komisija.
+15) Pilsonības, migrācijas un sabiedrības saliedētības komisija;
+16) Eiropas lietu komisija;
+17) Ilgtspējīgas attīstības komisija.
 (2) Katras komisijas izveidošanas principus nosaka Saeima.
 (3) Ārpolitiskai darbībai nepieciešamos budžeta izdevumus komisija saskaņo ar Prezidiju.
-(4) Sabiedrības saliedētības komisija veic arī parlamentāro kontroli pār Pilsonības likuma izpildi.
+(4) Pilsonības, migrācijas un sabiedrības saliedētības komisija veic arī parlamentāro kontroli pār Pilsonības likuma izpildi.

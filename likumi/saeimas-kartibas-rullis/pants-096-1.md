@@ -6,4 +6,5 @@ c) atbildīgās komisijas priekšlikumi,
 d) visi noteiktajā termiņā un kārtībā iesniegtie Ministru kabineta atzinumi par priekšlikumiem;
 2) šā panta pirmajā punktā minētie dokumenti nav bijuši pieejami deputātiem vismaz piecas dienas iepriekš. Šis noteikums neattiecas uz likumprojektiem, kuri atzīti par steidzamiem;
 3) nav pieņemti ar budžetu saistītie likumprojekti.
+(1¹) Ja budžeta likumprojektu paketes sastāvā ir gan gadskārtējā valsts budžeta likuma vai tā grozījumu projekts, gan vidēja termiņa budžeta ietvara likuma vai tā grozījumu projekts, gadskārtējā valsts budžeta likuma vai tā grozījumu projekts izskatāms otrajā lasījumā pēc tam, kad ir pieņemts vidēja termiņa budžeta ietvara likuma vai tā grozījumu projekts.
 (2) Kārtību, kādā sakārtojami priekšlikumi likumprojektam par budžetu, nosaka atbildīgā komisija.
