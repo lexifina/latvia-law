@@ -5,4 +5,4 @@
 4) Valsts ieņēmumu dienestam;
 5) Noziedzīgi iegūtu līdzekļu legalizācijas novēršanas dienestam;
 6) Korupcijas novēršanas un apkarošanas birojam;
-7) maksātnespējas procesa administratoram.
+7) attiecīgā klienta vai klienta galvinieka maksātnespējas procesa administratoram, ja šis klients vai klienta galvinieks ir fiziskā persona.

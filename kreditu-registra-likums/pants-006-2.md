@@ -1,0 +1,1 @@
+6. Grozījumi šā likuma 15.panta piektajā daļā, kas saistīti ar reģistrā iekļauto ziņu izsniegšanu reģistra dalībniekiem un ierobežotiem reģistra dalībniekiem ar kredītinformācijas biroju starpniecību, stājas spēkā 2015.gada 1.jūlijā.
