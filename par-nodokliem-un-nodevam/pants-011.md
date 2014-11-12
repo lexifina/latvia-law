@@ -35,7 +35,7 @@
 20) (izslēgts ar 16.12.2004. likumu);
 21) par īpašuma tiesību un ķīlas tiesību nostiprināšanu zemesgrāmatā;
 22) (izslēgts ar 12.12.2002. likumu);
-23) par būvprakses un arhitekta prakses sertifikātu reģistrāciju;
+23) (izslēgts ar 16.10.2014. likumu);
 23¹) par reģistrācijas darbībām būvkomersantu reģistrā;
 24) par sabiedrisko pakalpojumu regulēšanu;
 25) par ogļūdeņražu ieguvi;
