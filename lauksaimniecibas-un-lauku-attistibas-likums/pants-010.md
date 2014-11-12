@@ -9,3 +9,6 @@
 1) nodrošināt zemes izmantošanu atbilstoši zemes robežu plānā iezīmētajiem lietošanas veidiem un nekustamā īpašuma valsts kadastrā reģistrētajiem zemes izmantošanas mērķiem;
 2) veikt pasākumus, lai nepieļautu augsnes auglīgās kārtas iznīcināšanu vai kvalitātes pasliktināšanos.
 (4) Šā panta trešajā daļā noteiktos pienākumus pilda zemes nomnieks, ja to paredz zemes nomas līgums.
+(5) Lauksaimniecībā izmantojamā zemē pieļaujama kokaugu stādījumu ierīkošana, ja tā atbilst teritorijas attīstības plānošanas dokumentu prasībām un ja:
+1) attiecīgā teritorija nav normatīvajos aktos noteiktajā kārtībā Dabas aizsardzības pārvaldes uzturētajā valsts reģistrā iekļauta kā īpaši aizsargājams biotops (tai skaitā Eiropas Savienības nozīmes zālāju biotops) vai īpaši aizsargājamo sugu dzīvotne;
+2) meliorētajās platībās tie tiek ierīkoti atbilstoši Meliorācijas likuma prasībām.

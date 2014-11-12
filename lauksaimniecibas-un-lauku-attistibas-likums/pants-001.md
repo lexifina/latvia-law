@@ -8,4 +8,5 @@ Likumā ir lietoti šādi termini:
 6) (izslēgts ar 30.04.2009. likumu);
 7) (zaudējis spēku 01.05.2004.; sk. Pārejas noteikumus);
 8) (zaudējis spēku 01.05.2004.; sk. Pārejas noteikumus);
-9) lauksaimniecības produktu integrētā audzēšana - lauksaimniecības produktu audzēšana, izmantojot vidi saudzējošus pasākumus, saglabājot bioloģisko daudzveidību un samazinot risku cilvēku veselībai un videi, vienlaikus nodrošinot augu aizsardzības, dzīvnieku veselības un labturības pasākumus.
+9) lauksaimniecības produktu integrētā audzēšana - lauksaimniecības produktu audzēšana, izmantojot vidi saudzējošus pasākumus, saglabājot bioloģisko daudzveidību un samazinot risku cilvēku veselībai un videi, vienlaikus nodrošinot augu aizsardzības, dzīvnieku veselības un labturības pasākumus;
+10) kokaugu stādījumi - ilggadīgi stādījumi (izņemot dekoratīvos kokaugus, augļu dārzus un stādaudzētavas), kuri īpašiem mērķiem un regulārā izvietojumā ierīkoti lauksaimniecībā izmantojamā zemē un kuru maksimālais audzēšanas cikla ilgums ir līdz 15 gadiem, pēc kura kultūru atjauno vai turpina zemi izmantot citu lauksaimniecības kultūru audzēšanai.

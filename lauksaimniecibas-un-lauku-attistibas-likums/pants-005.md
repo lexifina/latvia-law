@@ -5,7 +5,7 @@
 (3¹) Valsts atbalsta pasākumus lauksaimniecības un meža nozares attīstībai, valsts atbalsta apmēru un piešķiršanas kritērijus nosaka Ministru kabinets.
 (4) Kārtību, kādā tiek piešķirts valsts un Eiropas Savienības atbalsts lauksaimniecībai, un kārtību, kādā tiek piešķirts valsts un Eiropas Savienības atbalsts lauku un zivsaimniecības attīstībai, nosaka Ministru kabinets. Atsevišķu valsts atbalsta pasākumu īstenošanu Zemkopības ministrija Valsts pārvaldes iekārtas likumā noteiktajā kārtībā var deleģēt privāto vai publisko tiesību subjektam.
 (4¹) Vadlīniju izstrādi un aktualizēšanu attiecībā uz savstarpējās atbilstības prasību ievērošanu Zemkopības ministrija Valsts pārvaldes iekārtas likumā noteiktajā kārtībā ar līgumu var deleģēt privāto vai publisko tiesību subjektam.
-(4²) Kārtību, kādā atzīst Komisijas 2006.gada 15.decembra regulas (EK) Nr. 1974/2006, ar ko paredz sīki izstrādātus piemērošanas noteikumus Padomes regulai (EK) Nr. 1698/2005 par atbalstu lauku attīstībai no Eiropas Lauksaimniecības fonda lauku attīstībai (ELFLA), 15.panta 2.punktā noteiktos konsultāciju pakalpojumu sniedzējus un mežsaimniecības konsultāciju pakalpojumu sniedzējus, nosaka Ministru kabinets.
+(4²) (Izslēgta ar 16.10.2014. likumu)
 (5) Lauksaimniecības produktu ražotājiem atbilstoši Ministru kabineta apstiprinātajās valsts programmās noteiktajam var piešķirt ilgtermiņa kredītus ar atvieglotiem noteikumiem un kredītprocentu subsīdijas.
 (6) (Izslēgta ar 13.03.2008. likumu)
 (7) Kārtību, kādā tiek administrēts un uzraudzīts valsts un Eiropas Savienības atbalsts lauksaimniecībai, un kārtību, kādā tiek administrēts un uzraudzīts valsts un Eiropas Savienības atbalsts lauku un zivsaimniecības attīstībai, nosaka Ministru kabinets.
