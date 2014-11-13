@@ -1,0 +1,1 @@
+1. pants. 2014.gada 30.maijā parakstītais Latvijas Republikas valdības un Gruzijas valdības līgums par sadarbību civilo ārkārtējo situāciju novēršanas, gatavības un reaģēšanas jomā (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
