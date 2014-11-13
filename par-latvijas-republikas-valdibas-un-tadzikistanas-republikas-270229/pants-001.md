@@ -1,0 +1,1 @@
+1.pants. 2014.gada 10.jūnijā parakstītais Latvijas Republikas valdības un Tadžikistānas Republikas valdības līgums par sadarbību cīņā pret terorismu, organizēto noziedzību un nelegālu narkotisko vielu, psihotropo vielu un prekursoru apriti un citiem noziedzīgiem nodarījumiem (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
