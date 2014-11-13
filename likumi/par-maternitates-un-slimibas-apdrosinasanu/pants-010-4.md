@@ -7,7 +7,7 @@ c) kā pašnodarbinātais bērna kopšanas dēļ negūst ienākumus;
 2) ir nodarbināta pabalsta piešķiršanas dienā (ir uzskatāma par darba ņēmēju vai pašnodarbināto saskaņā ar likumu "Par valsts sociālo apdrošināšanu") un ir nodarbināta bērna kopšanas laikā, bet neatrodas bērna kopšanas atvaļinājumā vai atvaļinājumā bez darba samaksas saglabāšanas, kas piešķirts sakarā ar nepieciešamību kopt bērnu, vai bērna kopšanas laikā gūst ienākumus kā pašnodarbinātais.
 (2) Vecāku pabalstu piešķir un izmaksā vienlaikus ar bērna kopšanas pabalstu vienai šā panta pirmajā daļā minētajai personai par vienu un to pašu bērnu un par vienu un to pašu laikposmu. Vecāku pabalstu nepiešķir par bērnu, sakarā ar kura piedzimšanu vai kopšanu ir piešķirts maternitātes pabalsts par to pašu laikposmu.
 (3) Tiesības uz vecāku pabalstu saglabājas arī gadījumā, ja darba devējs saskaņā ar darba koplīgumā vai darba līgumā noteikto personai bērna kopšanas atvaļinājuma laikā vai atvaļinājuma bez darba samaksas saglabāšanas, kas piešķirts sakarā ar nepieciešamību kopt bērnu, laikā ir izmaksājis piemaksas vai prēmijas par darba izpildi pirms atvaļinājuma piešķiršanas vai pabalstus un cita veida atlīdzību, kas nav tieši saistīta ar darba izpildi.
-(4) Sociāli apdrošinātajai personai vienā apdrošināšanas gadījumā ir tiesības izvēlēties vecāku pabalstu uz vienu no šādiem periodiem:
+(4) Par vienu un to pašu bērnu ir tiesības izvēlēties vecāku pabalstu uz vienu no šādiem periodiem:
 1) bērna kopšanai līdz viena gada vecumam;
 2) bērna kopšanai līdz pusotra gada vecumam.
-(5) Vienā apdrošināšanas gadījumā un par vienu un to pašu bērnu izraudzīto izmaksas periodu pabalsta saņēmējam nav tiesību mainīt.
+(5) Par vienu un to pašu bērnu izraudzīto izmaksas periodu pabalsta saņēmējam nav tiesību mainīt.

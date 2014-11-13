@@ -1,0 +1,1 @@
+27. Grozījums šā likuma 25.panta pirmajā daļā attiecībā uz skaitļa "12" aizstāšanu ar vārdu "sešu" un grozījums 30.panta trešajā daļā attiecībā uz vārda "gada" aizstāšanu ar vārdiem "sešu mēnešu" stājas spēkā 2016.gada 1.janvārī.

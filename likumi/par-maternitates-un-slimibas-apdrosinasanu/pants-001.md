@@ -1,6 +1,6 @@
 1.pants. Likumā lietotie termini
 Likumā ir lietoti šādi termini:
-1) apdrošināšanas gadījums - sociālā riska gadījums, kas saistīts ar sociāli apdrošinātās personas darbspēju zudumu vai bērna kopšanu, ja tā rezultātā šī persona zaudē ienākumus, kā arī gadījums, kad personai rodas izdevumi sakarā ar ģimenes locekļa nāvi vai sociāli apdrošinātās personas nāvi, turklāt saskaņā ar šā likuma normām minētie gadījumi ir atzīti par tādiem, kas rada tiesības uz valsts sociālās apdrošināšanas pabalstu;
+1) apdrošināšanas gadījums - sociālā riska gadījums, kas saistīts ar sociāli apdrošinātās personas darbspēju zudumu vai bērna kopšanu, ja tā rezultātā šī persona zaudē ienākumus vai, ja tā gūst ienākumus, bet pieprasa vecāku pabalstu, kā arī gadījums, kad personai rodas izdevumi sakarā ar ģimenes locekļa nāvi vai sociāli apdrošinātās personas nāvi, turklāt saskaņā ar šā likuma normām minētie gadījumi ir atzīti par tādiem, kas rada tiesības uz valsts sociālās apdrošināšanas pabalstu;
 2) apdrošināšanas iemaksu alga - ienākumi, no kuriem saskaņā ar likumu "Par valsts sociālo apdrošināšanu" izdarītas valsts sociālās apdrošināšanas iemaksas;
 3) pabalsta saņēmējs - persona, kurai saskaņā ar šā likuma normām ir piešķirts valsts sociālās apdrošināšanas pabalsts;
 4) apgādībā esošs ģimenes loceklis - sociāli apdrošinātās personas ģimenes loceklis, kuram saskaņā ar likumu "Par valsts pensijām" būtu tiesības uz apgādnieka zaudējuma pensiju sociāli apdrošinātās personas (turpmāk - apdrošinātās personas) nāves gadījumā;
