@@ -1,0 +1,1 @@
+5. Grozījumi šā likuma 4.panta otrajā daļā un 4.¹ panta otrajā daļā par skaitļu un vārdu "2014.gada 3.decembrim" aizstāšanu ar skaitļiem un vārdiem "2019.gada 3.decembrim" stājas spēkā 2014.gada 4.decembrī.
