@@ -1,0 +1,1 @@
+1.pants. 2014.gada 6.augustā Rīgā parakstītā Latvijas Republikas valdības un Baltkrievijas Republikas valdības Vienošanās par grozījumiem 1995.gada 1.februāra Latvijas Republikas valdības un Baltkrievijas Republikas valdības nolīgumā par automobiļu starptautisko satiksmi (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.
