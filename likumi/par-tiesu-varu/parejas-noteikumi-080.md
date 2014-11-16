@@ -1,0 +1,1 @@
+80. Lietas, kuras atrodas Rīgas pilsētas Centra rajona tiesas tiesvedībā un kuru izskatīšana pēc būtības ir uzsākta līdz 2015.gada 28.februārim, pēc tiesneša pārcelšanas darbā citā tiesā turpina izskatīt tas pats tiesnesis.
