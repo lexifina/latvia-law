@@ -10,7 +10,7 @@ e) veikt darbus ar triecienmehānismiem, izmest un izliet kodīgas un koroziju i
 f) veikt jebkāda veida derīgo izrakteņu iegūšanas, iekraušanas un izkraušanas, gultnes padziļināšanas, zemes smelšanas un spridzināšanas darbus,
 g) glabāt un izliet ķīmiski aktīvas un koroziju izraisošas vielas,
 h) lietot mēslošanas līdzekļus un ķīmiskos augu aizsardzības līdzekļus;
-3) ķīmiskajā aizsargjoslā paredzētās darbības realizēšanai jāveic ietekmes uz vidi sākotnējais izvērtējums;
+3) ķīmiskajā aizsargjoslā paredzētās darbības realizēšanai jāsaņem Valsts vides dienesta tehniskie noteikumi;
 4) ja centralizētajai ūdensapgādei izmanto gruntsūdeņu (neaizsargātu) ūdens horizontu vai pazemes ūdens krājumu mākslīgas papildināšanas metodi, ķīmiskajā aizsargjoslā 500 metru platā joslā ap stingrā režīma aizsargjoslu aizliegts:
 a) veikt meža un lauksaimniecībā izmantojamās zemes lietošanas kategorijas maiņu, izņemot zemes lietošanas kategorijas maiņu esošo ciemu teritorijās un ēku un būvju būvniecībai viensētās ārpus ciema teritorijas robežām, kā arī gadījumos, kad tas nepieciešams ūdensapgādes būvju būvniecībai,
 b) veidot jaunus ciemus un paplašināt esošos,
