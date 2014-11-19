@@ -1,1 +1,1 @@
-5.pants. Iesniegto materiālu iepriekšējai izskatīšanai pašvaldība izveido komisiju, kurā iekļaujami arī likumos noteiktajā kārtībā reģistrēto Otrā pasaules kara dalībnieku un politiski represēto personu sabiedrisko organizāciju pārstāvji.
+5.pants. Iesniegto materiālu iepriekšējai izskatīšanai pašvaldība izveido komisiju, kurā iekļaujami arī likumos noteiktajā kārtībā reģistrēto Otrā pasaules kara dalībnieku un politiski represēto personu biedrību pārstāvji.
