@@ -1,1 +1,1 @@
-2. Ministru kabinets līdz 2013.gada 1.septembrim izdod Ministru kabineta noteikumus par kārtību, kādā personām kompensējami zaudējumi, kas tām radušies sakarā ar šo personu īpašuma pārņemšanu valsts vai pašvaldību institūciju turējumā.
+2. Ministru kabinets līdz 2015.gada 1.janvārim izdod šā likuma 19.panta septītajā daļā minētos Ministru kabineta noteikumus.

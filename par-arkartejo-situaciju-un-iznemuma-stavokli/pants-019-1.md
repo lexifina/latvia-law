@@ -1,0 +1,2 @@
+19.¹ pants. Termiņš, kādā pieņem lēmumu par zaudējumu atlīdzināšanu
+Valsts pārvaldes un pašvaldību iestādes lēmumu par šā likuma 19.panta septītajā daļā minēto zaudējumu atlīdzināšanu pieņem triju mēnešu laikā no dienas, kad saņemts iesniegums par zaudējumu atlīdzināšanu. Ja objektīvu iemeslu dēļ šo termiņu nav iespējams ievērot, valsts pārvaldes vai pašvaldības iestāde var to pagarināt uz laiku, ne ilgāku par sešiem mēnešiem no iesnieguma saņemšanas dienas, par to paziņojot iesniedzējam.
