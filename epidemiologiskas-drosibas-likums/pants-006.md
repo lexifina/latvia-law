@@ -3,8 +3,8 @@
 (2) Veselības inspekcija epidemioloģiskās drošības jomā kontrolē normatīvajos aktos noteikto profilakses un pretepidēmijas prasību izpildi jebkurā objektā Latvijas Republikas teritorijā.
 (3) Veselības inspekcijas amatpersonām ir tiesības:
 1) normatīvajos aktos noteiktajā kārtībā no fiziskajām un juridiskajām personām pieprasīt savu uzdevumu veikšanai nepieciešamo informāciju Veselības inspekcijas kompetencē esošajos jautājumos;
-2) pildot dienesta pienākumus, apmeklēt jebkuru objektu Latvijas Republikas teritorijā neatkarīgi no tā piederības un normatīvajos aktos noteiktajā kārtībā veikt attiecīgā objekta vai atsevišķu priekšmetu apskati, ja ir pamatotas aizdomas, ka tas var saturēt vai pārnest infekcijas slimību izraisītājus;
-3) pieņemt lēmumus par epidemioloģiskās kontroles objekta darbības apturēšanu;
+2) pildot dienesta pienākumus, apmeklēt jebkuru objektu Latvijas Republikas teritorijā neatkarīgi no tā piederības un normatīvajos aktos noteiktajā kārtībā veikt attiecīgā objekta vai atsevišķu priekšmetu apskati, ja ir pamatotas aizdomas, ka tas var saturēt vai pārnest infekcijas slimību izraisītājus, vai ir saistīts ar veselību ietekmējošo faktoru kaitīgo iedarbību;
+3) pieņemt lēmumus par paaugstināta riska subjekta darbības apturēšanu;
 4) administratīvi sodīt vainīgās personas par normatīvo aktu pārkāpšanu.
 (4) Veselības inspekcija novērtē vides faktoru ietekmi uz cilvēka veselību, sniedz priekšlikumus cilvēka veselībai nekaitīgas vides nodrošināšanai un pēc pieprasījuma novērtē higiēnas prasību izpildi, kā arī informē institūcijas un iedzīvotājus par peldūdens kvalitāti.
 (5) Ministru kabinets nosaka apmēru un kārtību, kādā maksājama valsts nodeva par šādiem Veselības inspekcijas sniegtajiem pakalpojumiem:

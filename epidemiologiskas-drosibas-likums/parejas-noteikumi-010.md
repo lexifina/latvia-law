@@ -1,0 +1,1 @@
+10. Šā likuma 38.¹ panta otrā daļa stājas spēkā 2016.gada 1.janvārī. Pakalpojumu sniedzēji, kas saimniecisko darbību, kura saistīta ar skaistumkopšanas un tetovēšanas pakalpojumu sniegšanu, uzsākuši pirms 2016.gada 1.janvāra, paziņo par to Veselības inspekcijai līdz 2016.gada 1.martam šā likuma 38.¹ panta otrajā daļā noteiktajā kārtībā.

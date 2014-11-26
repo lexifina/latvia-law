@@ -1,2 +1,2 @@
 VIII¹ nodaļa
-Epidemioloģiskās kontroles objekta darbības apturēšana
+Paaugstināta riska subjekta darbības vai tā sniegtā pakalpojuma apturēšana

@@ -31,9 +31,9 @@ Likumā ir lietoti šādi termini:
 29) slimnieks - persona, kas saslimusi ar infekcijas slimību;
 30) vakcinācija (potēšana) - specifisks profilakses pasākums, lai, ievadot vakcīnu, ierosinātu vai uzturētu organisma neuzņēmību pret kādu infekcijas slimību;
 31) Imunizācijas valsts programma - programma, kurā ir noteikti imunizācijas mērķi, uzdevumi un citi valstī veicamie pasākumi tādu infekcijas slimību izplatības novēršanai vai likvidācijai, kuru pamatprofilakses veids ir vakcinācija;
-32) paaugstināta riska objekts - komersants, biedrība, nodibinājums, iestāde (arī izglītības iestāde), atvasināta publiska persona, pašnodarbinātais vai uzņēmums, kura darbības veids ir pakalpojumu sniegšana patērētājiem un kura darbības dēļ vai izmantojamo iekārtu darbības dēļ var plaši izplatīties infekcijas slimības, ja tiek pieļauta infekcijas slimību perēkļa rašanās;
+32) paaugstināta riska subjekts - tiesību subjekts, kura darbības veids ir pakalpojumu sniegšana patērētājiem un kura darbības vai izmantojamo iekārtu darbības dēļ var plaši izplatīties infekcijas slimības vai kura darbība ir saistīta ar veselību ietekmējošo faktoru kaitīgo iedarbību un kurš ir pakļauts epidemioloģisko drošību regulējošo normatīvo aktu prasībām;
 33) references laboratorija - noteiktā profilā akreditēta un pilnvarota laboratorija, kas nodarbojas ar infekcijas slimību diagnostiku, to izraisītāju noteikšanu un izpēti atbilstoši starptautiski atzītajām testēšanas metodēm un standartiem, veicina testēšanas metožu attīstību valstī;
 34) zoonoze - infekcijas slimība, ar kuru slimo gan cilvēki, gan dzīvnieki;
 35) pandēmija - epidēmija, kas skar plašas ģeogrāfiskas teritorijas vai kontinentus;
-36) epidemioloģiskās kontroles objekts - telpa, ēka, tās daļa, būve, inženierkomunikācijas, kā arī iekārtas un iekārtu sistēmas, kuras ir pakļautas epidemioloģisko drošību regulējošu normatīvo aktu prasībām;
+36) (izslēgts ar 23.10.2014. likumu);
 37) higiēna - nosacījumu un praktisku pasākumu kopums, kas nepieciešams, lai samazinātu vai likvidētu vides faktoru (fizikālo, ķīmisko, bioloģisko) iespējami kaitīgo iedarbību, garantējot drošu un cilvēka veselībai nekaitīgu vidi un pakalpojumu sniegšanu.
