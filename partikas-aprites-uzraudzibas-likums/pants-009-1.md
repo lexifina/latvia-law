@@ -1,0 +1,1 @@
+9.¹ pants. Persona nodrošina, lai pārtika, kuru tā audzē un lieto patēriņam savā uzturā, nodod savas ģimenes locekļiem un personām, ar kurām tā dala saimniecību, kā arī citām personām mājsaimniecības ietvaros, atbilstu nekaitīguma prasībām saskaņā ar normatīvajiem aktiem pārtikas aprites jomā.

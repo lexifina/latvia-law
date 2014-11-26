@@ -1,0 +1,1 @@
+21. Ministru kabinets līdz 2015.gada 30.novembrim izdod šā likuma 4.panta 10.¹, trīspadsmitajā un septiņpadsmitajā daļā, 8.panta piektajā daļā, 10.panta trešajā daļā un 13.panta trešās daļas 3.punktā minētos noteikumus.

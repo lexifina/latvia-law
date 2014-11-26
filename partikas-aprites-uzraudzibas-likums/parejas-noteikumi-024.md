@@ -1,0 +1,1 @@
+24. Līdz šā likuma 13.panta trešās daļas 1.punktā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2014.gada 30.novembrim ir piemērojami Ministru kabineta 2004.gada 23.novembra noteikumi Nr.964 "Pārtikas preču marķēšanas noteikumi", ciktāl tie nav pretrunā ar šo likumu.
