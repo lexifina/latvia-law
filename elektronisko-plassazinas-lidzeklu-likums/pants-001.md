@@ -13,7 +13,7 @@ Likumā ir lietoti šādi termini:
 11) interaktīvā (mijiedarbības) reklāma - reklāmas forma, kuras izmantošanas laikā skatītājam tiek dota iespēja piekļūt detalizētākam reklāmas saturam;
 12) kabeļtelevīzija - programmu un raidījumu izplatīšana, izmantojot galvenokārt kabeli;
 12¹) maksas televīzija - par maksu nodrošināta piekļuve elektroniskā plašsaziņas līdzekļa televīzijas programmai;
-13) neatkarīgais producents - privātpersona, kas nav elektroniskais plašsaziņas līdzeklis, bet veido filmas, reklāmu, atsevišķus radio, televīzijas raidījumus vai nodarbojas ar programmu veidošanu;
+13) neatkarīgais producents - privātpersona, kas nav elektroniskais plašsaziņas līdzeklis, bet veido filmas, reklāmu, atsevišķus radio, televīzijas raidījumus;
 14) pašreklāma - paziņojumi, kurus elektroniskais plašsaziņas līdzeklis izplata savā programmā vai raidījumu katalogā, informējot par savu programmu vai raidījumiem, vai par atvasinātiem darbiem, kas tieši iegūti no programmas vai raidījumiem;
 15) privātpersona - fiziskā persona, privāto tiesību juridiskā persona vai šādu personu apvienība;
 16) produktu izvietošana - jebkurš audio un audiovizuāls komerciāls paziņojums, kurā iekļauti produkti, pakalpojumi vai to preču zīmes, vai atsauces uz attiecīgajiem produktiem, pakalpojumiem vai to preču zīmēm un kurš tiek demonstrēts raidījumā par samaksu vai citu atlīdzību;
@@ -22,13 +22,13 @@ Likumā ir lietoti šādi termini:
 19) publiska uztveršana - iespēja uztvert elektroniskā plašsaziņas līdzekļa izplatīto programmu vai raidījumu katalogu bez atlīdzības vai par atlīdzību jebkurā vietā attiecīgās programmas izplatīšanas publisko elektronisko sakaru tīkla aptveršanas zonā;
 20) radio veikala skatlogs - radio veikals, kura ilgums pārsniedz 15 minūtes;
 21) radio veikals - tiešs sabiedrībai adresēts audio paziņojums nolūkā piedāvāt par atlīdzību preces, tai skaitā nekustamo īpašumu vai pakalpojumus, tiesības un pienākumus;
-22) raidījums - audio vai audiovizuāls darbs, kas veido atsevišķu vienību programmā vai raidījumu katalogā. Raidījums ir atdalīts no kopējās programmas ar izlaiduma datiem;
+22) raidījums - audio vai audiovizuāls darbs, kas veido atsevišķu vienību programmā vai raidījumu katalogā. Raidījums ir atdalīts no kopējās programmas ar izlaiduma datiem un pieteikumu;
 23) raidīšana - programmu izplatīšana publiskai uztveršanai. Šis termins neietver pakalpojumus pēc pieprasījuma;
 24) raidlaiks - diennakts laika posms, kurā elektroniskais plašsaziņas līdzeklis izplata programmu noteiktā teritorijā;
 25) raidstunda - laika posms, kas ilgst no katras attiecīgās diennakts pilnas stundas pirmās minūtes līdz pēdējai minūtei, to ieskaitot;
 26) reklāma - jebkurš paziņojums, kas tiek izplatīts par samaksu vai citu atlīdzību, kā arī ar tirdzniecību, uzņēmējdarbību, amatu vai profesiju saistīts jebkuras personas raidījums, kas tiek veidots reklāmas nolūkā, lai veicinātu preču, tai skaitā nekustamā īpašuma vai pakalpojumu, tiesību un pienākumu, piedāvājumu par samaksu vai citu atlīdzību, kā arī politiskā reklāma;
 27) reklāmas klips - reklāmas sižets, kura ilgums nepārsniedz 90 sekundes;
-28) retranslācija - Latvijā vai ārvalstīs izplatītas programmas uztveršana un tūlītēja pilnīga vai daļēja izplatīšana citā publiskā elektronisko sakaru tīklā, neizdarot programmā vai raidījuma saturā nekādus grozījumus. Par satura grozījumiem nav uzskatāma programmas vai raidījuma tulkošana (dublējot vai subtitrējot), ja tā izdarīta ar programmas tiesību turētāja piekrišanu;
+28) retranslācija - Latvijā vai ārvalstīs izplatītas programmas vai raidījuma uztveršana un tūlītēja pilnīga izplatīšana citā publiskā elektronisko sakaru tīklā, neizdarot programmā vai raidījuma saturā nekādus grozījumus. Par satura grozījumiem nav uzskatāma programmas vai raidījuma tulkošana (dublējot vai subtitrējot), ja tā izdarīta ar programmas tiesību turētāja piekrišanu;
 29) sabiedriskais pasūtījums - sabiedrībai paredzēts plašs un daudzveidīgs programmu kopums, kuru finansē un uzrauga sabiedrība;
 30) satelīttelevīzija un satelītradio - programmu un raidījumu izplatīšana, izmantojot satelītu;
 31) slēpts audio un audiovizuāls elektroniskā plašsaziņas līdzekļa komerciāls paziņojums - preču, pakalpojumu, nosaukumu, preču zīmju, preču ražotāja vai pakalpojumu sniedzēja darbību atveidojums vārdu vai attēlu veidā, ja šādu atveidojumu elektroniskais plašsaziņas līdzeklis ir apzināti iecerējis kā audio vai audiovizuālu komerciālu paziņojumu, bet tas varētu maldināt sabiedrību par šā paziņojuma būtību. Šāds atveidojums jo īpaši uzskatāms par apzināti iecerētu, ja tā izvietošana notiek par samaksu vai citu atlīdzību;

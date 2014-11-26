@@ -1,0 +1,1 @@
+30. Elektroniskais plašsaziņas līdzeklis, kas radio programmas apraides atļauju saņēmis pirms šā likuma 33.panta otrajā un trešajā daļā noteikto ierobežojumu spēkā stāšanās, šos ierobežojumus ievēro no 2016.gada 1.janvāra.

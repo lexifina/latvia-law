@@ -1,0 +1,1 @@
+31. Grozījums šā likuma 5.panta pirmajā daļā par vārdu "likumu "Par valsts un pašvaldību kapitāla daļām un kapitālsabiedrībām"" aizstāšanu ar vārdiem "Publiskas personas kapitāla daļu un kapitālsabiedrību pārvaldības likumu" stājas spēkā 2015.gada 1.janvārī.
