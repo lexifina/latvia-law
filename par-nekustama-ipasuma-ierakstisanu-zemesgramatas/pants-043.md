@@ -1,1 +1,1 @@
-43.pants. Līdz privatizēto kooperatīvo un citu privatizēto dzīvojamo māju pārveidošanai dzīvokļa īpašumos dzīvokli var ierakstīt zemesgrāmatā, ja atbilstoši likumam "Par dzīvokļa īpašumu" zemesgrāmatā ir ierakstīta dzīvojamā māja.
+43.pants. Līdz privatizēto kooperatīvo un citu privatizēto dzīvojamo māju pārveidošanai dzīvokļa īpašumos dzīvokli var ierakstīt zemesgrāmatā, ja atbilstoši Dzīvokļa īpašuma likumam zemesgrāmatā ir ierakstīta dzīvojamā māja.

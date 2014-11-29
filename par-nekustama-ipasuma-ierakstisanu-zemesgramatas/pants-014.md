@@ -1,3 +1,2 @@
 14.pants. (1) Ierakstot zemesgrāmatā ēkas (būves), kas ir patstāvīgs īpašuma tiesību priekšmets, zemesgrāmatā atklājams atsevišķs nodalījums.
-(2) Ja zemi īpašumā iegūst ēku (būvju) īpašnieks, zeme pievienojama ēku (būvju) īpašuma nodalījumam un zemes iepriekšējais nodalījums slēdzams.
-(3) Ja ēkas (būves) īpašumā iegūst zemes īpašnieks, ēkas (būves) pievienojamas zemes īpašuma nodalījumam un ēku (būvju) iepriekšējais nodalījums slēdzams.
+(2) Ja zemi īpašumā iegūst ēku (būvju) īpašnieks vai ēku (būvi) - zemes īpašnieks, ēkas (būves) īpašums pievienojams zemes īpašuma nodalījumam un ēku (būvju) nodalījums slēdzams arī bez īpašnieka lūguma, ja zemesgrāmatu nodaļas tiesnesis nekonstatē normatīvajos aktos noteiktos šķēršļus zemes īpašuma un ēkas (būves) īpašuma savienošanai. Šādā gadījumā nekustamajam īpašumam saglabājams zemes īpašuma kadastra numurs.
