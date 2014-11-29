@@ -9,3 +9,4 @@ Zemesgrāmatas nodalījuma ceturtās daļas pirmā iedaļā (18. p.) īpaši nor
 3) kapitāla summu Latvijas valūtā, līdz kurai sniedzas nostiprinātās tiesības;
 4) procentu un līgumsoda lielumu un arī to samaksas termiņus;
 5) parādnieku, ja nostiprinājums neattiecas uz visu īpašumu, bet tikai uz kopīpašnieka domājamo daļu.
+Grozot ierakstu un izsakot to jaunā redakcijā, norāda visus ar konkrēto tiesību saistītos žurnālu numurus.

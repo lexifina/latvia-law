@@ -1,0 +1,8 @@
+56.¹ Nostiprinājuma lūgumu, kas parakstīts normatīvajos aktos par elektroniskajiem dokumentiem noteiktajā kārtībā, iesniedz:
+1) kredītiestāde, kurai par labu nostiprināta ķīlas tiesība zemesgrāmatā, - par hipotēkas un ar to saistīto tiesību aprobežojumu dzēšanu;
+2) zvērināts tiesu izpildītājs - par atzīmes ierakstīšanu, pārgrozīšanu vai dzēšanu;
+3) maksātnespējas procesa administrators - par atzīmes ierakstīšanu, pārgrozīšanu vai dzēšanu;
+4) valsts vai pašvaldības iestāde, ja nostiprinājuma lūgums pamatots ar šo iestāžu izdotu dokumentu, izņemot nostiprinājuma lūgumu par valstij vai pašvaldībai piederošiem un piekrītošiem zemes gabaliem, uz kuriem atrodas publiskās lietošanas transporta infrastruktūras objekti, un zemes gabaliem, kuri atrodas ostas teritorijā;
+5) zvērināts notārs, ja nostiprinājuma pamatā ir šā zvērināta notāra taisīts notariāls akts.
+Nostiprinājuma lūgumu normatīvajos aktos par elektroniskajiem dokumentiem noteiktajā kārtībā persona var parakstīt, ja izpildīti šā likuma 60.panta otrajā daļā minētie nosacījumi.
+Šajā pantā noteiktajā kārtībā parakstītu nostiprinājuma lūgumu iesniedz, izmantojot valsts vienotās datorizētās zemesgrāmatas mājaslapā www.zemesgramata.lv pieejamo speciālo tiešsaistes formu vai datu apmaiņu starp informācijas sistēmām.

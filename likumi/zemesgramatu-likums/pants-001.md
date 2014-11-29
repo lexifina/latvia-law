@@ -1,1 +1,1 @@
-1. Zemesgrāmatās ieraksta nekustamus īpašumus un nostiprina ar tiem saistītās tiesības. Zemesgrāmatas ir visiem pieejamas, un to ierakstiem ir publiska ticamība.
+1. Zemesgrāmatās ieraksta nekustamus īpašumus un nostiprina ar tiem saistītās tiesības. Zemesgrāmatas ir visiem pieejamas, un to ierakstiem ir publiska ticamība. Nekustamo īpašumu ierakstīšana un lietu tiesību nostiprināšana ir obligāta.

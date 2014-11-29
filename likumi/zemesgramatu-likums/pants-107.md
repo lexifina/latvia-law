@@ -1,7 +1,7 @@
 107. Kancelejas nodevu iekasē šādos apmēros:
 1) par jauna nodalījuma atklāšanu - 28,46 euro;
 2) par dzīvokļa īpašuma nodalījuma atklāšanu - 14,23 euro;
-3) par jaunas tiesības nostiprinājumu - 14,23 euro;
+3) par jaunas tiesības nostiprinājumu katrai personai- 14,23 euro;
 4) par nostiprinājuma pārgrozījumu un atzīmes ierakstīšanu - 7,11 euro;
 5) par zemesgrāmatu apliecības izsniegšanu - 7,11 euro;
 6) par tiesneša lēmuma apliecinātas datorizdrukas izsniegšanu - 4,27 euro;

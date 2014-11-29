@@ -1,0 +1,3 @@
+126.² Zemesgrāmatas nodalījumu aktualizē, izskatot nostiprinājuma lūgumu.
+Nodalījumus, par kuriem nav iesniegts nostiprinājuma lūgums (plānveida aktualizācija), aktualizē pēc zemesgrāmatu nodaļas priekšnieka apstiprināta plāna, kas saskaņots ar tieslietu ministru. Sākotnējai nodalījuma aktualizācijai piešķir īpašu žurnāla numuru.
+Zemesgrāmatu nodaļas priekšnieks var pilnvarot zemesgrāmatu nodaļas tiesneša palīgu veikt to zemesgrāmatas nodalījumu plānveida aktualizāciju, kuru ieraksti nav precizējami, kā arī gadījumos, kad ieraksti precizējami, ievērojot šā likuma 126.³ panta pirmās daļas 1. un 5.punkta nosacījumus.

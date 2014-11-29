@@ -1,0 +1,1 @@
+16. Līdz šā likuma 134.panta otrajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2014.gada 31.decembrim ir piemērojami Ministru kabineta 2001.gada 20.marta noteikumi Nr.139 "Kārtība, kādā valsts iestādes un amatpersonas iegūst informāciju no valsts vienotās datorizētās zemesgrāmatas".

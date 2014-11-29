@@ -1,1 +1,1 @@
-2. Zemesgrāmatu pārzināšana piekrīt apgabaltiesu zemesgrāmatu nodaļām.
+2. Zemesgrāmatu pārzināšana piekrīt rajonu (pilsētu) tiesu zemesgrāmatu nodaļām.

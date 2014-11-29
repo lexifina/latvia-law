@@ -1,0 +1,1 @@
+17. Ministru kabinets izvērtē normatīvajos aktos noteiktās valsts nodevas par īpašuma tiesību nostiprināšanu zemesgrāmatā diferenciācijas ietekmi uz savlaicīgu īpašuma tiesību nostiprināšanu zemesgrāmatā un līdz 2016.gada 1.martam iesniedz Saeimai ziņojumu par to.

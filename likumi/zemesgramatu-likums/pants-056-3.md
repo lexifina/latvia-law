@@ -1,0 +1,1 @@
+56.³ Laulāto mantisko attiecību reģistra paziņojumus par nekustamo īpašumu attiecīgajai zemesgrāmatu nodaļai nosūta elektroniski. Paziņojuma parakstīšanas, iesniegšanas un saņemšanas kārtību nosaka tieslietu ministrs.

@@ -1,7 +1,7 @@
 45. Atzīmju veidā ieraksta:
 1) īpašnieka izsludināšanu par maksātnespējīgu parādnieku;
 2) piedziņas vēršanu uz nekustamu īpašumu;
-3) aizgādnības nodibināšanu par īpašnieku gara slimības un izlaidīgas vai izšķērdīgas dzīves dēļ;
+3) aizgādnības nodibināšanu par īpašnieku garīga rakstura vai cita veselības traucējuma un izlaidīgas vai izšķērdīgas dzīves dēļ;
 4) tiesas lēmumus par prasības nodrošināšanu;
 5) līdz atzīmju atvietošanai ar ierakstiem, administratīvo iestāžu un amatpersonu prasījumus, kuriem likums piešķīris neapstrīdamības raksturu;
 6) sūdzību iesniegšanu par zemesgrāmatu nodaļas tiesneša lēmumiem - līdz šo sūdzību izšķiršanai noteiktā kārtībā (98. p.);

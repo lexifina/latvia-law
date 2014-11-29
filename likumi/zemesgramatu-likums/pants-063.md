@@ -1,1 +1,3 @@
-63. Dokumenti, kas minēti 61.panta 1.-3.punktā, nav jāiesniedz, ja tie jau ir zemesgrāmatu nodaļā. Šādā gadījumā nostiprinājuma lūgumā jānorāda, kādai dokumentu grāmatai, nekustama īpašuma lietai vai citam nostiprinājuma lūgumam dokumenti ir pievienoti. Šis noteikums jāpiemēro arī vairāku nekustamu īpašumu īpašniekiem piederošu kopzemju plāniem.
+63. Šā likuma 61.pantā minētie dokumenti nav jāiesniedz, ja tie:
+1) ir kāda cita nekustamā īpašuma lietā. Šādā gadījumā nostiprinājuma lūgumā norāda, kuras zemesgrāmatu nodaļas, kurai zemesgrāmatai un kurai nekustamā īpašuma lietai dokuments pievienots;
+2) iesniegti attiecīgajā zemesgrāmatu nodaļā, tos pievienojot citam nostiprinājuma lūgumam. Šādā gadījumā nostiprinājuma lūgumā norāda tā nekustamā īpašuma kadastra numuru, par kuru iesniegts nostiprinājuma lūgums, vai zemesgrāmatu un zemesgrāmatas nodalījuma numuru.

@@ -1,1 +1,3 @@
-127. Katrs lūdzējs, nostiprinot zemesgrāmatā jaunu, vēl nenostiprinātu tiesību, kā arī pārgrozot vai daļēji dzēšot agrāk nostiprinātu tiesību, var saņemt datorizēto zemesgrāmatu aktu, ja to norāda lūgumā.
+127. Datorizētais zemesgrāmatu akts ir zemesgrāmatas apliecība, kurā vārdu pa vārdam atkārtots zemesgrāmatu nodaļas tiesneša lēmums un citi nekustamā īpašuma nodalījumā norādītie spēkā esošie ieraksti un atzīmes. Pēc nostiprinājuma lūguma iesniedzēja ieskata viņam var izsniegt zemesgrāmatas apliecību, kurā norāda tikai ziņas par nekustamo īpašumu, tā sastāvu un attiecīgo tiesneša lēmumu.
+Zemesgrāmatu nodaļas tiesneša lēmuma apliecinātā datorizdrukā vārds pa vārdam ir atkārtots tiesneša lēmums.
+Zemesgrāmatu nodaļas tiesnesis zemesgrāmatas apliecību un zemesgrāmatu nodaļas tiesneša lēmuma apliecinātu datorizdruku paraksta un apzīmogo.
