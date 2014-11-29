@@ -1,0 +1,1 @@
+34. Šā likuma grozījumi par 22.panta papildināšanu ar 1.¹ un 1.² daļu stājas spēkā 2015.gada 1.maijā. Attiecībā uz personām, kuras izdarījušas šā likuma 22.panta 1.¹ daļā minētos nodarījumus līdz 2015.gada 30.aprīlim, piemērojami šā likuma noteikumi, kādi bija spēkā pirms šo grozījumu spēkā stāšanās dienas.

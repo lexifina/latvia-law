@@ -1,5 +1,5 @@
 22.pants. Transportlīdzekļu vadītāju apmācība un vadītāja apliecības izsniegšana
-(1) Transportlīdzekļu vadīšanas tiesības un transportlīdzekļu vadītāja apliecību var iegūt likumā noteikto vecumu sasniegusi persona:
+(1) Transportlīdzekļu vadīšanas tiesības un transportlīdzekļu vadītāja apliecību var iegūt un atgūt likumā noteikto vecumu sasniegusi persona:
 1) kuras pastāvīgā dzīvesvieta ir Latvijā vai kura var pierādīt, ka pēdējos sešus mēnešus ir mācījusies Latvijā. Šā panta izpratnē personas pastāvīgā dzīvesvieta ir Latvijā, ja pastāv kāds no šādiem nosacījumiem:
 a) personas uzturēšanās vieta un deklarētā dzīvesvieta vismaz 185 dienas kalendārajā gadā ir Latvijā personisku saistību (saistību, kas liecina par attiecīgās personas ciešu saikni ar Latviju) un darba saistību dēļ,
 b) personai nav darba saistību, bet tās uzturēšanās vieta un deklarētā dzīvesvieta Latvijā ir personisku saistību (saistības, kas liecina par attiecīgās personas ciešu saikni ar Latviju) dēļ,
