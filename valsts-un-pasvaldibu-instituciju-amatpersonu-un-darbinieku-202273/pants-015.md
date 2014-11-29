@@ -18,3 +18,4 @@
 (7) (Izslēgta ar 16.06.2011. likumu)
 (8) Prokurors par vienu dežūras dienu saņem piemaksu ģenerālprokurora noteiktajā kārtībā un apmērā, bet ne vairāk kā trīs procentus no šā likuma 6.² panta pirmās daļas 1.punktā noteiktās prokurora mēnešalgas, vai arī prokuroram tiek piešķirts apmaksāts atpūtas laiks citā nedēļas dienā.
 (9) Tiesnesis par darbu nedēļas atpūtas laikā vai svētku dienā saskaņā ar izmeklēšanas tiesnešu darba grafiku saņem piemaksu triju procentu apmērā no šā likuma 6.¹ panta pirmajā daļā noteiktās tiesneša mēnešalgas vai arī viņam tiek piešķirts apmaksāts atpūtas laiks citā nedēļas dienā.
+(10) Valsts kontrolieris saņem piemaksu 50 procentu apmērā no viņam noteiktās mēnešalgas par Valsts kontroles padomes priekšsēdētāja pienākumu pildīšanu. Valsts kontroles padomes loceklis saņem piemaksu 50 procentu apmērā no viņam noteiktās mēnešalgas par Valsts kontroles revīzijas departamenta direktora pienākumu pildīšanu.
