@@ -1,4 +1,4 @@
-76. Skatot cauri nostiprinājuma lūgumu, zemesgrāmatu nodaļas tiesnesis pamatojas vienīgi uz tiem datiem, kas ir lūgumā un tam pievienotos dokumentos, nepieprasot nekādas ziņas no iestādēm vai privātpersonām.
+76. Skatot cauri nostiprinājuma lūgumu, zemesgrāmatu nodaļas tiesnesis pamatojas vienīgi uz tiem datiem, kas ir lūgumā un tam pievienotos dokumentos, nepieprasot nekādas ziņas no iestādēm vai privātpersonām. Zemesgrāmatu nodaļas tiesnesis lēmumu pieņem, pamatojoties uz iegūtu elektronisko dokumentu, ja dokumenta oriģināls atrodas citā nekustamā īpašuma lietā.
 Līdz lēmuma taisīšanai nostiprinājuma lūdzējs var papildināt savu lūgumu, iesniedzot iztrūkstošās ziņas, dokumentus un nodevas. Šie papildinājumi jāiesniedz ar rakstu un jāieraksta nostiprinājuma žurnālā.
 Papildu iesniegumi, kas paplašina pirmo lūgumu, nav pielaižami.
 Līdz lēmuma pieņemšanai nostiprinājuma lūguma iesniedzējs var atsaukt savu lūgumu. Nostiprinājuma lūguma atsaukums noformējams tāpat kā nostiprinājuma lūgums, un nostiprinājuma žurnālā to ieraksta kā papildinājumu.
