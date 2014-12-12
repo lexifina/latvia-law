@@ -6,6 +6,6 @@
 5) ministrija un īpašu uzdevumu ministra sekretariāts;
 6) Latvijas Valsts prezidenta kanceleja, Saeimas Kanceleja, Valsts kanceleja;
 7) Valsts kontrole;
-8) Latvijas Banka, Finanšu un kapitāla tirgus komisija, Nacionālā elektronisko plašsaziņas līdzekļu padome, Centrālā vēlēšanu komisija, tiesībsargs, Sabiedrisko pakalpojumu regulēšanas komisija, Augstākās izglītības padome, Centrālā zemes komisija (turpmāk - patstāvīgā iestāde), kā arī Satversmes aizsardzības birojs;
+8) Latvijas Banka, Finanšu un kapitāla tirgus komisija, Nacionālā elektronisko plašsaziņas līdzekļu padome, Centrālā vēlēšanu komisija, tiesībsargs, Sabiedrisko pakalpojumu regulēšanas komisija, Augstākās izglītības padome, Centrālā zemes komisija (turpmāk - patstāvīgā iestāde), Fiskālās disciplīnas padome, kā arī Satversmes aizsardzības birojs;
 9) Latvijas Republikas diplomātiskā un konsulārā pārstāvniecība.
 (2) Lielo valsts ģerboni ir tiesīga lietot arī koleģiālā institūcija, kuru vada šā panta pirmajā daļā minētā amatpersona.
