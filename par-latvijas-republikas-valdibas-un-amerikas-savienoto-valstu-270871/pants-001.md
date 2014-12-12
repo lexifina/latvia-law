@@ -1,0 +1,1 @@
+1.pants. 2014.gada 27.jūnijā parakstītais Latvijas Republikas valdības un Amerikas Savienoto Valstu valdības līgums par starptautisko nodokļu pienākumu izpildes uzlabošanu un likuma par ārvalstu kontu nodokļu pienākumu izpildi (FATCA) ieviešanu (turpmāk - Līgums) un tā Saprašanās memorands ar šo likumu tiek pieņemts un apstiprināts.
