@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2014. gada 2. decembra noteikumi Nr. 737 \"Attīstības plānošanas dokumentu izstrādes un ietekmes izvērtēšanas noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "248",
+  "official_journal_page": null,
+  "official_journal_date": "2014-12-12",
+  "entry_into_force": "2014-12-13",
+  "notification_date": "2021-09-08",
+  "commission_reference": "MNE(2021)06395",
+  "nim_celex": "72018L0958LVA_202106395",
+  "nim_id": "202106395",
+  "transposes_celex": [
+    "32018L0958"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/049e7db7-1297-11ec-b4fe-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
