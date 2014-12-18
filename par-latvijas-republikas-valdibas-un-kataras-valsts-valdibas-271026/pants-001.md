@@ -1,0 +1,1 @@
+1.pants. 2014.gada 26.septembrī Ņujorkā parakstītais Latvijas Republikas valdības un Kataras Valsts valdības līgums par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma nodokļiem (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
