@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2014.gada 9.decembra noteikumi Nr.752 \"Prasības lietotu elektrisko un elektronisko iekārtu sūtījumu pārbaudei, par kuriem pastāv aizdomas, ka tiek sūtīti elektrisko un elektronisko iekārtu atkritumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "252 (5312)",
+  "official_journal_page": null,
+  "official_journal_date": "2014-12-18",
+  "entry_into_force": "2014-12-19",
+  "notification_date": "2014-12-22",
+  "commission_reference": "MNE(2014)57143",
+  "nim_celex": "72012L0019LVA_222191",
+  "nim_id": "222191",
+  "transposes_celex": [
+    "32012L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d386c5ec-0174-4df7-ba31-f9c4a1fc84af",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
