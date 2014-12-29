@@ -3,5 +3,5 @@
 1) robežšķērsošanas vietās, kurās veic muitas kontroli, - Valsts ieņēmumu dienests;
 2) robežšķērsošanas vietās, kurās muitas kontrole nav paredzēta, - Valsts robežsardze.
 (3) Labprātīgi nodotos un izņemtos dzīvnieku izcelsmes produktus, kurus saskaņā ar normatīvajiem aktiem aizliegts ievest Latvijā, iestādes uzglabā un nodod Pārtikas un veterinārajam dienestam iznīcināšanai atbilstoši Parlamenta un Padomes regulai Nr. 1069/2009.
-(4) Robežšķērsošanas vietās, kurās veic muitas kontroli, mājas (istabas) dzīvniekus saskaņā ar Parlamenta un Padomes (EK) 2003.gada 26.maija regulu Nr. 998/2003 par dzīvnieku veselības prasībām, kas piemērojamas mājas (istabas) dzīvnieku nekomerciālai pārvietošanai, un ar kuru groza Padomes direktīvu 92/65/EEK, kontrolē Valsts ieņēmumu dienests.
+(4) Robežšķērsošanas vietās, kurās veic muitas kontroli, mājas (istabas) dzīvniekus saskaņā ar Parlamenta un Padomes regulu Nr. 576/2013 kontrolē Valsts ieņēmumu dienests.
 (5) Robežšķērsošanas vietās, kurās muitas kontrole nav paredzēta, mājas (istabas) dzīvnieku nekomerciāla ievešana no trešajām valstīm ir aizliegta. Valsts robežsardzes amatpersona atsaka ieceļošanu personai, kas ieved mājas (istabas) dzīvnieku, informējot par tuvāko robežšķērsošanas vietu, kurā paredzēta muitas kontrole.
