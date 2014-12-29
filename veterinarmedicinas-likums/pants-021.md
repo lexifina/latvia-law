@@ -2,3 +2,4 @@
 (2) Dzīvnieku reģistru dzīvnieku reģistrācijas kārtību regulējošos normatīvajos aktos noteiktajā kārtībā izveido un uztur valsts aģentūra "Lauksaimniecības datu centrs".
 (3) (Izslēgta ar 03.06.2010. likumu)
 (4) Mājas (istabas) dzīvnieku apzīmēšanu, pasu un vakcinācijas apliecību izsniegšanu veic praktizējošs veterinārārsts.
+(5) Praktizējošs veterinārārsts veic Parlamenta un Padomes regulā Nr. 576/2013 pilnvarotajam veterinārārstam noteiktās darbības.
