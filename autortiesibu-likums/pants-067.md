@@ -17,7 +17,7 @@
 (4) Kultūras ministrija anulē atļauju veikt mantisko tiesību kolektīvo administrēšanu, ja:
 1) organizācija pēc atkārtota Kultūras ministrijas pieprasījuma nesniedz informāciju, kas nepieciešama uzraudzības veikšanai;
 2) organizācijas darbība neatbilst likumam un Kultūras ministrijas norādītajā termiņā trūkumi nav novērsti.
-(5) Informāciju par šā panta otrajā un ceturtajā daļā noteikto atļauju spēkā stāšanos vai anulēšanu Kultūras ministrija publicē laikrakstā "Latvijas Vēstnesis".
+(5) Informāciju par šā panta otrajā un ceturtajā daļā noteikto atļauju spēkā stāšanos vai anulēšanu Kultūras ministrija publicē oficiālajā izdevumā "Latvijas Vēstnesis".
 (6) Lēmumu par šā panta pirmajā daļā noteiktās atļaujas anulēšanu var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā.
 (7) Mantisko tiesību kolektīvā pārvaldījuma organizācijai ir pienākums:
 1) sniegt Kultūras ministrijai tās pieprasīto informāciju nekavējoties, bet ne vēlāk kā 15 dienu laikā pēc pieprasījuma saņemšanas, ja attiecīgajā pieprasījumā nav norādīts garāks informācijas sniegšanas termiņš;

@@ -1,0 +1,1 @@
+14. Kultūras ministrija līdz 2015.gada 1.februārim saskaņā ar šā likuma 62.² panta astoto daļu nosaka tiesību subjektu rūpīgas meklēšanas ietvaros izmantojamos informācijas avotus, publicē to sarakstu oficiālajā izdevumā "Latvijas Vēstnesis" un ievieto savā mājaslapā.

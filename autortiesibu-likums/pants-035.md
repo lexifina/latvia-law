@@ -6,4 +6,4 @@
 (5) Atlīdzību iekasē, sadala un autoriem un izdevējiem izmaksā viena mantisko tiesību kolektīvā pārvaldījuma organizācija, kas saņēmusi Kultūras ministrijas atļauju atbilstoši šā likuma 67.pantam.
 (6) Iekasēto atlīdzību starp autoriem un izdevējiem sadala, pamatojoties uz Nacionālajā kopkatalogā iekļautiem iespieddarbiem, kas piegādāti Latvijas Nacionālajai bibliotēkai saskaņā ar Obligāto eksemplāru likumu, un ievērojot šādus nosacījumus:
 1) veicot sadali, ņem vērā Nacionālajā kopkatalogā iekļauto darbu skaitu un Latvijas Nacionālās bibliotēkas apkopoto informāciju par iespiedlokšņu skaitu, bet neņem vērā darbu saturu;
-2) autori un izdevēji vienojas par proporcionālo sadali atsevišķi periodiskajiem un neperiodiskajiem darbiem, ievērojot šā panta 1.punkta nosacījumus.
+2) autori un izdevēji vienojas par proporcionālo sadali atsevišķi periodiskajiem un neperiodiskajiem darbiem, ievērojot šā panta pirmās daļas nosacījumus.

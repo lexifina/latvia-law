@@ -1,0 +1,11 @@
+62.³ pants. Nenosakāmu autortiesību subjektu darba statusa izbeigšana
+(1) Tiesību subjektiem, kurus pēc rūpīgas meklēšanas nav izdevies noskaidrot vai atrast un kuru darbi vai blakustiesību objekti atzīti par nenosakāmu autortiesību subjektu darbiem vai pielīdzināti tiem saskaņā ar šā likuma 62.¹ panta piekto daļu, ir tiesības pieprasīt, lai institūcija, kas veica tiesību subjektu meklēšanu, izbeidz nenosakāmu autortiesību subjektu darba statusu attiecībā uz konkrēto darbu vai blakustiesību objektu. Šādam pieprasījumam jābūt pamatotam.
+(2) Pēc šā panta pirmajā daļā minētā pieprasījuma saņemšanas institūcija, kas veica attiecīgā darba vai blakustiesību objekta tiesību subjektu rūpīgu meklēšanu, nekavējoties izskata šo pieprasījumu un izbeidz nenosakāmu autortiesību subjektu darba statusu, pārtraucot attiecīgā darba vai blakustiesību objekta izmantošanu un par statusa izbeigšanu informējot Latvijas Nacionālo bibliotēku.
+(3) Ja institūcija, kas veica tiesību subjektu rūpīgu meklēšanu, vairs nepastāv, tiesību subjektiem, kurus pēc rūpīgas meklēšanas nav izdevies noskaidrot vai atrast un kuru darbi vai blakustiesību objekti atzīti par nenosakāmu autortiesību subjektu darbiem vai pielīdzināti tiem saskaņā ar šā likuma 62.¹ panta piekto daļu, ir tiesības pieprasīt, lai Latvijas Nacionālā bibliotēka izbeidz nenosakāmu autortiesību subjektu darba statusu attiecībā uz konkrēto darbu vai blakustiesību objektu.
+(4) Šā panta pirmajā daļā minētie tiesību subjekti ir tiesīgi par darba vai blakustiesību objekta izmantošanu saņemt taisnīgu atlīdzību no institūcijas, kas izmantojusi attiecīgo darbu vai blakustiesību objektu.
+(5) Nosakot šā panta ceturtajā daļā minētās atlīdzības lielumu, ņem vērā:
+1) darba vai blakustiesību objekta izmantošanas apjomu un mērķi;
+2) sabiedrības interesēs veiktos uzdevumus un izmantojuma nozīmi šo uzdevumu veikšanā;
+3) izmantošanas nekomerciālo raksturu;
+4) iespējamo kaitējumu, kas ar darba vai blakustiesību objekta izmantošanu nodarīts tiesību subjektam.
+(6) Institūcija, kurai ir pienākums izmaksāt tiesību subjektam šā panta ceturtajā daļā minēto atlīdzību, vienojas ar tiesību subjektu par atlīdzības lielumu un izmaksā to saprātīgā termiņā, bet ne vēlāk kā gada laikā pēc tiesību subjekta pieprasījuma saņemšanas, pārskaitot to uz tiesību subjekta norādīto norēķinu kontu.
