@@ -3,3 +3,4 @@
 (2) Bērna kopšanas atvaļinājumu pēc darbinieka pieprasījuma piešķir uz pilnu laiku vai pa daļām. Darbiniekam ir pienākums vienu mēnesi iepriekš rakstveidā paziņot darba devējam par bērna kopšanas atvaļinājuma vai tā daļas sākumu un ilgumu.
 (3) Laiku, kuru darbinieks pavada bērna kopšanas atvaļinājumā, ieskaita kopējā darba stāžā.
 (4) Darbiniekam, kurš izmanto bērna kopšanas atvaļinājumu, tiek saglabāts iepriekšējais darbs. Ja tas nav iespējams, darba devējs nodrošina līdzīgu vai līdzvērtīgu darbu ar darbiniekam ne mazāk labvēlīgiem darba apstākļiem un nodarbinātības noteikumiem.
+(5) Bērna kopšanas atvaļinājuma pārtraukšana pirms piešķirtā atvaļinājuma termiņa beigām īstenojama darba koplīgumā vai darba līgumā noteiktajā kārtībā vai pamatojoties uz darba devēja un darbinieka vienošanos. Darbiniekam ir tiesības atgriezties darbā, paziņojot par to darba devējam ne mazāk kā divas nedēļas iepriekš, ja objektīvu apstākļu dēļ zudis pamats turpmākai bērna kopšanai.

@@ -9,7 +9,7 @@
 7) bezdarbniekam paredzētu algotu pagaidu vai citu darbu saistībā ar viņa dalību aktīvajos nodarbinātības pasākumos vai darbu, kas saistīts ar aktīvo nodarbinātības pasākumu īstenošanu;
 8) profesionālās vai akadēmiskās izglītības iestādes izglītojamā darbu, ja tas saistīts ar sagatavošanos darbībai noteiktā profesijā vai studiju virzienā.
 (2) Šā panta pirmās daļas 1. un 2.punktā minētos darbus nosaka Ministru kabinets.
-(3) Ar kapitālsabiedrības izpildinstitūciju locekļiem slēdzams darba līgums, ja vien viņi netiek nodarbināti, pamatojoties uz citu civiltiesisku līgumu. Ja kapitālsabiedrības izpildinstitūciju locekļi tiek nodarbināti, pamatojoties uz darba līgumu, tas slēdzams uz noteiktu laiku.
+(3) (Izslēgta ar 23.10.2014. likumu)
 (4) Uz noteiktu laiku noslēgtā darba līgumā norāda darba līguma beigu termiņu vai arī apstākļus, kas liecina par attiecīgā darba pabeigšanu.
 (5) Ja darba līgumā nav norādīts laiks, uz kādu tas noslēgts, vai arī ja atbilstoši apstākļiem nav pieļaujama darba līguma noslēgšana uz noteiktu laiku, līgums atzīstams par noslēgtu uz nenoteiktu laiku. Šajā gadījumā attiecīgi piemērojami šā likuma 122. un 123.panta noteikumi. Prasības termiņš sākas ar dienu, kad beidzies termiņš, uz kādu noslēgts darba līgums. Šie noteikumi neattiecas uz personām, kuras norādītas šā panta trešajā daļā.
 (6) Uz darbinieku, ar kuru noslēgts darba līgums uz noteiktu laiku, attiecināmi tādi paši noteikumi kā uz darbinieku, ar kuru noslēgts darba līgums uz nenoteiktu laiku.

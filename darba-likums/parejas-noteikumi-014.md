@@ -1,0 +1,1 @@
+14. Grozījums šā likuma 61.panta otrajā daļā, kas paredz deleģējumu Ministru kabinetam noteikt minimālās mēneša darba algas apmēru normāla darba laika ietvaros, kā arī minimālās stundas tarifa likmes aprēķināšanu, stājas spēkā 2016.gada 1.janvārī.

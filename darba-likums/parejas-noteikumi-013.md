@@ -1,0 +1,1 @@
+13. Ja darba līgums uz noteiktu laiku noslēgts līdz 2014.gada 31.decembrim, tā termiņu var pagarināt, ievērojot šā likuma 45.panta pirmās daļas noteikumus par darba līguma termiņa pagarināšanu, kas ir spēkā no 2015.gada 1.janvāra, taču kopējais šāda darba līguma termiņš jebkurā gadījumā nedrīkst pārsniegt piecus gadus.

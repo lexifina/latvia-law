@@ -1,0 +1,1 @@
+15. Par pārkāpumu, kas izdarīts līdz 2014.gada 31.decembrim, darbiniekam piezīmi vai rājienu izsaka ne vēlāk kā viena mēneša laikā no pārkāpuma atklāšanas dienas, neieskaitot darbinieka pārejošas darbnespējas laiku, kā arī laiku, kad darbinieks ir atvaļinājumā vai neveic darbu citu attaisnojošu iemeslu dēļ, bet ne vēlāk kā sešu mēnešu laikā no pārkāpuma izdarīšanas dienas.

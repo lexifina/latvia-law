@@ -1,5 +1,6 @@
-115.pants. Trešo personu pieprasījums un tiesas spriedums
+115.pants. Trešo personu pieprasījums, tiesas nolēmums un neatbilstība likuma prasībām
 (1) Vecāki (aizbildņi) vai Valsts darba inspekcija var rakstveidā pieprasīt darba tiesisko attiecību izbeigšanu ar personu, kura ir jaunāka par 18 gadiem, ja tā veic tādu darbu, kas apdraud šīs personas drošību, veselību vai tikumību vai negatīvi ietekmē tās attīstību un izglītību.
 (2) Darba devējam pēc šā panta pirmajā daļā minētā pieprasījuma saņemšanas ir pienākums ne vēlāk kā piecu dienu laikā izbeigt darba tiesiskās attiecības ar darbinieku un izmaksāt viņam atlīdzību - ne mazāku kā viena mēneša vidējās izpeļņas apmērā.
 (3) Darba tiesiskās attiecības izbeidzas ar dienu, kad likumīgā spēkā stājies tiesas spriedums, ar kuru darbiniekam par noziedzīga nodarījuma izdarīšanu piespriesta brīvības atņemšana vai arests, kas noteikts uz 30 dienām vai ilgāk, izņemot gadījumu, kad darbinieks notiesāts nosacīti.
 (4) Tiesai aizstājot piespriesto naudas sodu ar arestu vai brīvības atņemšanu, darba tiesiskās attiecības izbeidzas (ja arests noteikts uz 30 dienām vai ilgāk) ar tiesas lēmuma pieņemšanas dienu.
+(5) Darba devējs nekavējoties izbeidz darba tiesiskās attiecības ar darbinieku, ja darbinieka nodarbināšana atbilstoši likumam ir aizliegta un nav iespējams darbinieku ar viņa piekrišanu nodarbināt citā darbā tai pašā vai citā uzņēmumā.
