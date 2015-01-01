@@ -4,4 +4,4 @@ soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar īslaicīgu 
 (2) Par tādām pašām darbībām, ja tās izdarītas iedzīvošanās nolūkā vai ja tās izdarījusi personu grupa pēc iepriekšējas vienošanās, -
 soda ar brīvības atņemšanu uz laiku līdz desmit gadiem, konfiscējot mantu vai bez mantas konfiskācijas, un ar probācijas uzraudzību uz laiku līdz trim gadiem vai bez tās.
 (3) Par šā panta pirmajā vai otrajā daļā paredzētajām darbībām, ja tās izdarījusi organizēta grupa, -
-soda ar brīvības atņemšanu uz laiku no pieciem līdz piecpadsmit gadiem, konfiscējot mantu vai bez mantas konfiskācijas, un ar policijas kontroli uz laiku līdz trim gadiem.
+soda ar brīvības atņemšanu uz laiku no pieciem līdz piecpadsmit gadiem, konfiscējot mantu vai bez mantas konfiskācijas, un ar probācijas uzraudzību uz laiku līdz trim gadiem.

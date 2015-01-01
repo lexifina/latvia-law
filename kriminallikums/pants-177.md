@@ -4,4 +4,4 @@ soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar īslaicīgu br�
 (2) Par krāpšanu, ja to izdarījusi personu grupa pēc iepriekšējas vienošanās, -
 soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu, konfiscējot mantu vai bez mantas konfiskācijas.
 (3) Par krāpšanu, ja tā izdarīta lielā apmērā vai ja to izdarījusi organizēta grupa, vai ja tā izdarīta, iegūstot narkotiskās, psihotropās, stipri iedarbīgās, indīgās vai radioaktīvās vielas, sprāgstvielas, šaujamieročus vai munīciju, -
-soda ar brīvības atņemšanu uz laiku no diviem līdz desmit gadiem, konfiscējot mantu vai bez mantas konfiskācijas, un ar policijas kontroli uz laiku līdz trim gadiem vai bez tās.
+soda ar brīvības atņemšanu uz laiku no diviem līdz desmit gadiem, konfiscējot mantu vai bez mantas konfiskācijas, un ar probācijas uzraudzību uz laiku līdz trim gadiem vai bez tās.

@@ -1,7 +1,0 @@
-45.pants. Policijas kontrole
-(1) Policijas kontrole ir papildsods, ko tiesa piespriež kā piespiedu līdzekli, lai uzraudzītu no brīvības atņemšanas vietas atbrīvotās personas uzvedību un pakļautu šo personu policijas iestādes norādītajiem ierobežojumiem. Gadījumos, kad persona ir nosacīti pirms termiņa atbrīvota no soda izciešanas, papildsoda - policijas kontrole - izpildi uzsāk ar brīdi, kad beigusies personas uzraudzība pēc nosacītas pirmstermiņa atbrīvošanas.
-(2) Policijas kontroli piespriež, notiesājot ar brīvības atņemšanu tikai šā likuma sevišķajā daļā paredzētajos gadījumos uz laiku no viena gada līdz trim gadiem.
-(3) Pēc brīvības atņemšanas iestādes administratīvās komisijas vai policijas iestādes iesnieguma tiesa var samazināt policijas kontroles termiņu vai to atcelt.
-(4) Ja notiesātais papildsoda izciešanas laikā izdarījis jaunu noziedzīgu nodarījumu, tiesa neizciesto papildsoda laiku aizstāj ar brīvības atņemšanu un nosaka galīgo sodu saskaņā ar šā likuma 51. un 52.pantā paredzētajiem noteikumiem.
-(5) Ja persona, kurai ar tiesas spriedumu noteikta policijas kontrole, ļaunprātīgi pārkāpj tās noteikumus, tiesa pēc policijas iestādes iesnieguma var aizstāt neizciesto papildsoda laiku, divas policijas kontroles dienas rēķinot kā vienu brīvības atņemšanas dienu.
-(6) Policijas kontroles noteikumu pārkāpšana ir ļaunprātīga, ja persona gada laikā divas reizes administratīvi sodīta par šādu pārkāpumu.

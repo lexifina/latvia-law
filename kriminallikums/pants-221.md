@@ -4,4 +4,4 @@ soda ar īslaicīgu brīvības atņemšanu vai ar piespiedu darbu, vai ar naudas
 (2) Par šā panta pirmajā daļā paredzēto noziedzīgo nodarījumu, ja to izdarījusi personu grupa pēc iepriekšējas vienošanās, -
 soda ar brīvības atņemšanu uz laiku līdz diviem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu, konfiscējot mantu vai bez mantas konfiskācijas.
 (3) Par alkoholisko dzērienu vai tabakas izstrādājumu nelikumīgu uzglabāšanu, pārvietošanu (pārvadāšanu) vai realizāciju, ja to izdarījusi organizēta grupa vai tas izdarīts lielā apmērā, -
-soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu, konfiscējot mantu vai bez mantas konfiskācijas un ar policijas kontroli uz laiku līdz trim gadiem vai bez tās.
+soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu, konfiscējot mantu vai bez mantas konfiskācijas un ar probācijas uzraudzību uz laiku līdz trim gadiem vai bez tās.

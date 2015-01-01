@@ -4,4 +4,4 @@ soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar īslaicīgu 
 (2) Par tādām pašām darbībām, ja tās izdarītas lielā apmērā vai ja tās izdarījusi valsts amatpersona, vai arī ja tās izdarījusi personu grupa pēc iepriekšējas vienošanās, -
 soda ar brīvības atņemšanu uz laiku līdz astoņiem gadiem, konfiscējot mantu vai bez mantas konfiskācijas un atņemot tiesības uz noteiktu nodarbošanos vai tiesības ieņemt noteiktu amatu uz laiku līdz pieciem gadiem.
 (3) Par šā panta pirmajā daļā paredzētajām darbībām, ja tās izdarījusi organizēta grupa,-
-soda ar brīvības atņemšanu uz laiku no diviem līdz desmit gadiem, konfiscējot mantu vai bez mantas konfiskācijas, atņemot tiesības uz noteiktu nodarbošanos vai tiesības ieņemt noteiktu amatu uz laiku līdz pieciem gadiem, un ar policijas kontroli uz laiku līdz trim gadiem.
+soda ar brīvības atņemšanu uz laiku no diviem līdz desmit gadiem, konfiscējot mantu vai bez mantas konfiskācijas, atņemot tiesības uz noteiktu nodarbošanos vai tiesības ieņemt noteiktu amatu uz laiku līdz pieciem gadiem, un ar probācijas uzraudzību uz laiku līdz trim gadiem.
