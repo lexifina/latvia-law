@@ -1,5 +1,5 @@
 15.pants. Topogrāfijas reģistrācijas atzīšana par spēkā neesošu
-(1) Prasības pieteikumu par topogrāfijas reģistrācijas atzīšanu par spēkā neesošu jebkura ieinteresētā persona var iesniegt Rīgas apgabaltiesai visā topogrāfijas reģistrācijas spēkā esamības laikā, ievērojot likumā noteikto kārtību prasības celšanai.
+(1) Prasības pieteikumu par topogrāfijas reģistrācijas atzīšanu par spēkā neesošu jebkura ieinteresētā persona var iesniegt Rīgas pilsētas Vidzemes priekšpilsētas tiesai visā topogrāfijas reģistrācijas spēkā esamības laikā, ievērojot likumā noteikto kārtību prasības celšanai.
 (2) Topogrāfijas reģistrāciju var atzīt par spēkā neesošu, ja:
 1) reģistrācijas priekšmets (objekts) neatbilst šā likuma 1.pantā noteiktajiem pusvadītāju izstrādājuma un topogrāfijas definīcijai, kā arī 2.pantā norādītajiem topogrāfiju aizsardzības pamatnoteikumiem;
 2) obligātie pieteikuma dokumenti un materiāli (5.panta pirmās daļas 1. un 2.punkts un 3.punkta "a" apakšpunkts), salīdzinot tos ar citiem pieteikuma dokumentiem un materiāliem (5.panta otrā daļa), pilnīgi vai daļēji nepareizi identificē topogrāfiju vai izpauž tās būtību tik neskaidri, ka nav iespējams topogrāfiju nepārprotami identificēt;
