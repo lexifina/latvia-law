@@ -23,10 +23,12 @@
 9²) ienākums no metāllūžņu pārdošanas;
 10) dividendes;
 10¹) dividendēm pielīdzināms ienākums;
-11) procentu ienākums un tam pielīdzināms ienākums, arī ar procentu ienākumu saistīts ienākums, izņemot procentu ienākumu no Latvijas vai citas Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts un pašvaldību vērtspapīriem;
+11) procentu ienākums un tam pielīdzināms ienākums, arī ar procentu ienākumu saistīts ienākums, izņemot:
+a) procentu ienākumu no Latvijas vai citas Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts un pašvaldību vērtspapīriem,
+b) procentu ienākumu, procentiem pielīdzināmo ienākumu, arī ar procentu ienākumu saistīto ienākumu no publiskā apgrozībā esošiem finanšu instrumentiem;
 12) samaksa par intelektuālo īpašumu:
 a) autoratlīdzība (honorārs) par zinātnes, literatūras un mākslas darbu, atklājumu, izgudrojumu un rūpniecisko paraugu darbu radīšanu, ņemot vērā izdevumu normas, kuras saskaņā ar šā likuma 10.panta pirmās daļas 4.punktu noteicis Ministru kabinets,
-b) maksājumi par pārējiem intelektuālā īpašuma veidiem saskaņā ar likuma "Par uzņēmumu ienākuma nodokli" 3.panta ceturtās daļas 4.punkta "a" apakšpunktā noteikto likmi;
+b) maksājumi par pārējiem intelektuālā īpašuma veidiem;
 13) apdrošināšanas atlīdzība, kas saskaņā ar dzīvības, veselības un negadījuma apdrošināšanas līgumu, kuru apdrošinātā interesēs noslēdzis darba devējs (vai cits apdrošinājuma ņēmējs - juridiskā persona), izmaksāta, pienākot apdrošināšanas līgumā paredzētajam līguma beigu termiņam vai laužot līgumu pirms termiņa;
 14) pensijas, kas izmaksātas saskaņā ar Latvijas Republikas likumiem;
 14¹) pensijai pielīdzināms ienākums;

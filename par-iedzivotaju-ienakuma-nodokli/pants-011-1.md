@@ -7,7 +7,7 @@
 2) neatlīdzinātajām iztrūkumu vai izlaupījumu summām:
 a) kas pārsniedz 145 euro, ja par notikušo nav ziņots tiesībsargājošām iestādēm, kuras pieņēmušas lēmumu par kriminālprocesa uzsākšanu vai atteikšanu uzsākt kriminālprocesu, vai
 b) pārsniedz maksātāja plānoto zudumu normu, kas aprēķināta, pamatojoties uz iepriekšējo triju taksācijas gadu faktiskajiem zudumiem;
-3) procentu maksājumu daļu, kas pārsniedz procentu maksājumu summas daļu, kura aprēķināta, parādu saistībai piemērojot Centrālās statistikas pārvaldes noteikto pirmstaksācijas perioda pēdējā mēneša vidējo īstermiņa kredītu likmi kredītiestādēs, kas reizināta ar koeficientu 1,2, ja procentu maksājums tiek veikts starp maksātāju un uzņēmumu, ja maksātājs ir ar uzņēmumu saistīta persona likuma "Par uzņēmumu ienākuma nodokli" 1.panta piektās daļas izpratnē;
+3) procentu maksājumu daļu, kas pārsniedz procentu maksājumu summas daļu, kura aprēķināta, parādu saistībai piemērojot likuma "Par uzņēmumu ienākuma nodokli" 6.⁴ panta pirmajā daļā noteikto procentu apmēra ierobežojumu un procentu maksājums tiek veikts starp maksātāju un uzņēmumu un maksātājs ir ar uzņēmumu saistīta persona likuma "Par uzņēmumu ienākuma nodokli" 1.panta piektās daļas izpratnē;
 4) bezcerīgo (zaudēto, bez cerībām tos kādreiz atgūt) parādu summām, kas tieši iekļautas izmaksās, ja tās neatbilst šā likuma 11.³ pantā noteiktajiem nosacījumiem debitoru parādu atzīšanai par zaudētajiem parādiem, kā arī citos 11.³ pantā noteiktajos gadījumos;
 5) maksātāja ārvalstīs samaksāto iedzīvotāju ienākuma nodokļa (vai tam atbilstoša nodokļa) summu;
 6) maksājumu summu par prettiesisku dabas resursu ieguvi vai lietošanu;
