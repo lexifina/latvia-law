@@ -12,4 +12,4 @@
 11) zemes vienība - Nekustamā īpašuma valsts kadastra informācijas sistēmā reģistrēts norobežots zemesgabals, kam piešķirts kadastra apzīmējums;
 12) zemes vienības daļa - Nekustamā īpašuma valsts kadastra informācijas sistēmā reģistrēta (tai skaitā nomas vajadzībām) noteikta zemes vienības teritorija, kas nav patstāvīgs nekustamā īpašuma objekts;
 13) jaunbūve - būve, kurai līdz tās nodošanai ekspluatācijā atbilstoši būvniecību regulējošo normatīvo aktu prasībām izbūvēts vismaz nulles cikls;
-14) nekustamā īpašuma nosaukums - ar pašvaldības lēmumu nekustamajam īpašumam lauku apvidū piešķirts rekvizīts, kas nav adrese.
+14) nekustamā īpašuma nosaukums - ar pašvaldības lēmumu nekustamajam īpašumam lauku apvidū un, ja nekustamā īpašuma sastāvā esošā zemes vienība vai būve nav adresācijas objekts, nekustamajam īpašumam pilsētā vai ciema teritorijā piešķirts rekvizīts, kas nav adrese.

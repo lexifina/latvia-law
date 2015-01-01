@@ -1,0 +1,1 @@
+48.² pants. Kadastra informācijas sistēmā ieraksta ziņas par būves, kura Kadastra informācijas sistēmā ir iekļauta zemesgrāmatā ierakstīta nekustamā īpašuma sastāvā, bet nav ierakstīta zemesgrāmatā, tiesisko valdītāju pēc tam, kad no valsts vienotās datorizētās zemesgrāmatas saņemtas ziņas par nekustamā īpašuma īpašnieku.
