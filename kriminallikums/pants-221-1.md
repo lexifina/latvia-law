@@ -4,4 +4,4 @@ soda ar brīvības atņemšanu uz laiku līdz vienam gadam vai ar īslaicīgu br
 (2) Par šā panta pirmajā daļā paredzētajām darbībām, ja tās izdarījusi personu grupa pēc iepriekšējas vienošanās, -
 soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu, konfiscējot mantu vai bez mantas konfiskācijas.
 (3) Par šā panta pirmajā daļā paredzētajām darbībām, ja tās izraisījušas smagas sekas vai ja tās izdarītas lielā apmērā, -
-soda ar brīvības atņemšanu uz laiku līdz astoņiem gadiem, konfiscējot mantu vai bez mantas konfiskācijas, un ar policijas kontroli uz laiku līdz trim gadiem.
+soda ar brīvības atņemšanu uz laiku līdz astoņiem gadiem, konfiscējot mantu vai bez mantas konfiskācijas, un ar probācijas uzraudzību uz laiku līdz trim gadiem.

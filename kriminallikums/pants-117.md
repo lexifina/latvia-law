@@ -12,4 +12,4 @@ Par slepkavību, ja:
 10) to izdarījusi personu grupa;
 11) to izdarījusi persona, kas ievietota īslaicīgās aizturēšanas vai ieslodzījuma vietā;
 12) noslepkavots nepilngadīgais,-
-soda ar mūža ieslodzījumu vai ar brīvības atņemšanu uz laiku no desmit līdz divdesmit gadiem un ar policijas kontroli uz laiku līdz trim gadiem, konfiscējot mantu vai bez mantas konfiskācijas.
+soda ar mūža ieslodzījumu vai ar brīvības atņemšanu uz laiku no desmit līdz divdesmit gadiem un ar probācijas uzraudzību uz laiku līdz trim gadiem, konfiscējot mantu vai bez mantas konfiskācijas.
