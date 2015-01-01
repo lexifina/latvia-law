@@ -1,1 +1,1 @@
-5. Valsts probācijas dienests šā likuma 17.panta pirmajā daļā noteikto neīsteno no 2009.gada jūnija grozījumu likumā "Par valsts budžetu 2009.gadam" spēkā stāšanās dienas līdz 2014.gada 31.decembrim, izņemot gadījumus, kad persona notiesāta par noziedzīgu nodarījumu pret tikumību un dzimumneaizskaramību.
+5. Valsts probācijas dienests līdz 2015.gada 31.decembrim neīsteno probācijas programmas notiesātajiem, kuri izcieš sodu brīvības atņemšanas iestādēs, izņemot gadījumu, kad persona notiesāta par noziedzīgu nodarījumu pret tikumību un dzimumneaizskaramību.
