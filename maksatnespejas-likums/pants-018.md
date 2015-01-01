@@ -6,6 +6,6 @@
 4) administratora prakses vietas adrese;
 5) administratora tālruņa numurs;
 6) administratora elektroniskā pasta adrese;
-7) administratora sertifikāta darbības izbeigšanas vai tā anulēšanas datums;
+7) administratora sertifikāta darbības apturēšanas, izbeigšanas vai tā anulēšanas datums;
 8) ieraksta izdarīšanas datums.
 (2) Administratoru asociācija nodrošina šā panta pirmās daļas 1., 2., 3., 4., 5., 6. un 7.punktā minēto ziņu pieejamību atbildīgajai iestādei, kas veic ierakstus maksātnespējas reģistrā.

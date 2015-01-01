@@ -1,0 +1,1 @@
+21. Kreditoru sapulce līdz 2015.gada 31.augustam var pieņemt lēmumu par mierizlīguma, izlīguma, sanācijas vai tiesiskās aizsardzības procesa piemērošanu atbilstoši normatīvajiem aktiem, kas bija spēkā dienā, kad tika uzsākts attiecīgais maksātnespējas process.

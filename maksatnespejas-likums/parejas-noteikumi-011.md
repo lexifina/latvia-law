@@ -1,0 +1,1 @@
+11. Visi šā likuma grozījumi, kas stājas spēkā 2015.gada 1.martā, ir piemērojami visiem līdz 2015.gada 28.februārim uzsāktajiem procesiem, izņemot šo pārejas noteikumu 12., 13., 14., 15., 16. un 17.punktā minētos gadījumus.

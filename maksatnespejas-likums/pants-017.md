@@ -9,5 +9,6 @@
 7) administratora nāves gadījumā.
 (2) Lēmumu par administratora sertifikāta darbības izbeigšanu var pieņemt, ja pēdējo divu administratora sertifikāta darbības gadu laikā tiesa par normatīvo aktu pārkāpumiem ir divas reizes atcēlusi administratoru no viņa pienākumu pildīšanas.
 (3) Lēmumu par administratora sertifikāta anulēšanu pieņem, ja administrators sertificēšanas procesā sniedzis nepatiesas ziņas.
+(3¹) Lēmumu par administratora sertifikāta darbības izbeigšanu pieņem, ja pēdējo divu administratora sertifikāta darbības gadu laikā Maksātnespējas administrācija divas reizes ir atzinusi normatīvo aktu pārkāpumus administratora darbībā.
 (4) Administratora sertifikāta darbības izbeigšanu un administratora sertifikāta anulēšanu veic Administratoru asociācija.
 (5) Ministru kabinets nosaka administratora sertifikāta darbības izbeigšanas un tā anulēšanas kārtību.

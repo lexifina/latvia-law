@@ -1,0 +1,1 @@
+13. Tiesiskās aizsardzības procesos, kas ierosināti, bet nav pasludināti līdz 2015.gada 28.februārim, administrators sniedz pamatotu viedokli par to, vai tiesiskās aizsardzības procesa pasākumu plānā un tam pievienotajos dokumentos norādītie kreditoru prasījumi ir pirmsšķietami (prima facie) pamatoti, ja to lūdz kāds no kreditoriem.

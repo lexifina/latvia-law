@@ -1,0 +1,1 @@
+22. Ja šo pārejas noteikumu 19., 20. un 21.punktā minētajā kārtībā uzsākto mierizlīgumu, izlīgumu, sanāciju vai tiesiskās aizsardzības procesu (ārpustiesas tiesiskās aizsardzības procesu) pārtrauc pēc 2015.gada 28.februāra, administrators uzsāk bankrota procedūru, piemērojot likuma normas, kas bija spēkā dienā, kad tika uzsākts attiecīgais maksātnespējas process.

@@ -1,0 +1,1 @@
+30. Lai nodrošinātu šo pārejas noteikumu 19., 20., 21., 22., 23., 24., 25., 26., 27., 28. un 29.punktā minēto pienākumu izpildi, administrators informāciju kreditoriem var sniegt šā likuma 81.panta trešajā daļā noteiktajā kārtībā. Kreditori līdz 2015.gada 1.aprīlim iesniedz administratoram iesniegumu, kurā norāda savu elektroniskā pasta adresi.
