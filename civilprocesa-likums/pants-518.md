@@ -1,5 +1,0 @@
-518.pants. Strīda izšķiršana šķīrējtiesā
-(1) Ievērojot pušu noslēgto šķīrējtiesas līgumu, šķīrējtiesa rīko sēdes, lai noklausītos pušu paskaidrojumus un iebildumus, kā arī lai pārbaudītu pierādījumus (mutvārdu process), vai izšķir strīdu, pamatojoties tikai uz iesniegtajiem rakstveida pierādījumiem un materiāliem (rakstveida process). Šķīrējtiesa rīko mutvārdu procesu arī tad, ja puses vienojušās par rakstveida procesu, bet kāda no pusēm līdz nolēmuma pieņemšanai pieprasa mutvārdu procesu.
-(2) Šķīrējtiesa savlaicīgi paziņo pusēm par šķīrējtiesas sēdi. Paziņojumu par pirmo šķīrējtiesas sēdi nosūta lietas dalībniekiem ne vēlāk kā 15 dienas pirms sēdes, ja puses nav vienojušās par īsāku termiņu.
-(3) Šķīrējtiesa iepazīstina puses ar jebkuriem iesniegumiem, dokumentiem un citu informāciju, kuru tā saņēmusi, kā arī ar ekspertu atzinumiem un citiem pierādījumiem.
-(4) Pastāvīgā šķīrējtiesa reglamentā noteiktajā kārtībā var pieņemt lēmumu par strīda izšķiršanas atlikšanu un citiem jautājumiem, neizspriežot lietu pēc būtības.
