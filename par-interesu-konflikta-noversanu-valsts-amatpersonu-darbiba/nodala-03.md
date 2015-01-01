@@ -1,1 +1,1 @@
-III nodaļa. Valsts vai pašvaldības institūcijas vadītāja un valsts amatpersonas pienākumi un tiesības interešu konflikta novēršanā
+III nodaļa. Publiskas personas institūcijas vadītāja un valsts amatpersonas pienākumi un tiesības interešu konflikta novēršanā

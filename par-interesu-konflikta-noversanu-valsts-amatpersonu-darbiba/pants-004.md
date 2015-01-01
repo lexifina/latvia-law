@@ -15,18 +15,18 @@
 13) Nacionālās elektronisko plašsaziņas līdzekļu padomes loceklis, Sabiedrisko pakalpojumu regulēšanas komisijas padomes loceklis, Finanšu un kapitāla tirgus komisijas padomes loceklis;
 14) pašvaldības domes priekšsēdētājs un viņa vietnieks, pašvaldības izpilddirektors un viņa vietnieks, kā arī pagasta vai pilsētas pārvaldes vadītājs novada pašvaldībā;
 15) pašvaldības domes deputāts;
-16) valsts vai pašvaldības iestādes vadītājs un viņa vietnieks;
+16) publiskas personas iestādes vadītājs un viņa vietnieks;
 17) vispārējā un specializētā valsts civildienesta ierēdnis;
-18) kapitālsabiedrības padomes loceklis, kurš pārstāv Latvijas valsts vai pašvaldības intereses kapitālsabiedrībā, vai valdes loceklis kapitālsabiedrībā, kurā valsts vai pašvaldības daļa pamatkapitālā atsevišķi vai kopumā pārsniedz 50 procentus;
-19) valsts vai pašvaldības kapitālsabiedrības padomes vai valdes loceklis;
-19¹) tādas kapitālsabiedrības valdes loceklis, kurā vienas vai vairāku valsts vai pašvaldības kapitālsabiedrību daļa pamatkapitālā kopumā vai atsevišķi pārsniedz 50 procentus, un tāds šādas kapitālsabiedrības padomes loceklis, kas pārstāv valsts vai pašvaldības kapitālsabiedrības intereses;
-20) valsts vai pašvaldības kapitāla daļas turētāja pārstāvis un tā pilnvarota persona;
+18) kapitālsabiedrības padomes loceklis, kurš pārstāv publiskas personas intereses kapitālsabiedrībā, vai valdes loceklis kapitālsabiedrībā, kurā publiskas personas daļa pamatkapitālā atsevišķi vai kopumā pārsniedz 50 procentus vai kurā publiskai personai ir cita veida izšķirošā ietekme atbilstoši Koncernu likumam;
+19) publiskas personas kapitālsabiedrības padomes vai valdes loceklis;
+19¹) tādas kapitālsabiedrības valdes loceklis, kurā vienas publiskas personas vai vairāku publisku personu kapitālsabiedrību daļa pamatkapitālā atsevišķi vai kopumā pārsniedz 50 procentus vai kurā vienai publiskai personai vai vairākām publiskām personām ir cita veida izšķirošā ietekme atbilstoši Koncernu likumam, un tāds šādas kapitālsabiedrības padomes loceklis, kurš pārstāv publiskas personas kapitālsabiedrības intereses;
+20) publiskas personas kapitāla daļas turētāja pārstāvis un tā pilnvarota persona;
 21) tiesnesis, prokurors, zvērināts notārs un zvērināts tiesu izpildītājs;
 22) Nacionālo bruņoto spēku profesionālā dienesta karavīrs;
 23) (izslēgts ar 12.11.2009. likumu);
 24) publiskā iepirkuma komisijas loceklis;
 25) Iekšlietu ministrijas sistēmas iestādes un Ieslodzījuma vietu pārvaldes amatpersona ar speciālo dienesta pakāpi.
-(2) Par valsts amatpersonām uzskatāmas arī personas, kurām, pildot amata pienākumus valsts vai pašvaldības institūcijās, saskaņā ar normatīvajiem aktiem ir tiesības izdot administratīvos aktus, kā arī veikt uzraudzības, kontroles, izziņas vai sodīšanas funkcijas attiecībā uz personām, kas neatrodas to tiešā vai netiešā pakļautībā, vai tiesības rīkoties ar valsts vai pašvaldības mantu, tai skaitā finanšu līdzekļiem.
+(2) Par valsts amatpersonām uzskatāmas arī personas, kurām, pildot amata pienākumus publiskas personas institūcijās, saskaņā ar normatīvajiem aktiem ir tiesības izdot administratīvos aktus, kā arī veikt uzraudzības, kontroles, izziņas vai sodīšanas funkcijas attiecībā uz personām, kas neatrodas to tiešā vai netiešā pakļautībā, vai tiesības rīkoties ar publiskas personas mantu, tai skaitā finanšu līdzekļiem.
 (2¹) Par valsts amatpersonām uzskatāmas arī personas, kuras, pildot amata pienākumus valsts drošības iestādēs, veic vismaz vienu no šādām darbībām:
 1) izlūkošanu;
 2) pretizlūkošanu;
@@ -37,5 +37,5 @@
 2) pieņem lēmumu par iesniegto projektu vai projekta iesniegumu;
 3) pieņem tādu lēmumu, kas skar piešķirtā finanšu atbalsta izlietojumu.
 (2³) Par valsts amatpersonām uzskatāmas arī personas, kuras ieņem ostu valdes priekšsēdētāja, ostas pārvaldnieka vai ostas valdes locekļa amatu. Privātajās ostās nodarbinātās personas uzskatāmas par valsts amatpersonām tikai tad, ja to paredz šā panta trešā daļa.
-(3) Par valsts amatpersonām uzskatāmas arī personas, kuras pilda amata pienākumus ārpus valsts vai pašvaldības institūcijām, ja tām saskaņā ar normatīvajiem aktiem pastāvīgi vai uz laiku valsts vai pašvaldība ir deleģējusi kādu no šā panta otrajā daļā minētajām funkcijām.
-(4) Tādas kapitālsabiedrības valdes loceklis, kurā vienas vai vairāku valsts vai pašvaldības kapitālsabiedrību daļa pamatkapitālā kopumā vai atsevišķi pārsniedz 50 procentus, un tāds šādas kapitālsabiedrības padomes loceklis, kurš pārstāv valsts vai pašvaldības kapitālsabiedrības intereses, nav uzskatāms par valsts amatpersonu, ja attiecīgā kapitālsabiedrība reģistrēta ārvalstī. Interešu konflikta novēršanu šo kapitālsabiedrību valdes vai padomes locekļu darbībā normatīvajos aktos un statūtos noteiktajā kārtībā un apjomā nodrošina valsts vai pašvaldības kapitālsabiedrība, kurai minētajā ārvalstī reģistrētajā kapitālsabiedrībā pieder kapitāla daļas.
+(3) Par valsts amatpersonām uzskatāmas arī personas, kuras pilda amata pienākumus ārpus publiskas personas institūcijām, ja tām saskaņā ar normatīvajiem aktiem pastāvīgi vai uz laiku valsts vai pašvaldība ir deleģējusi kādu no šā panta otrajā daļā minētajām funkcijām.
+(4) Tādas kapitālsabiedrības valdes loceklis, kurā vienas publiskas personas vai vairāku publisku personu kapitālsabiedrību daļa pamatkapitālā atsevišķi vai kopumā pārsniedz 50 procentus vai kurā vienai publiskai personai vai vairākām publiskām personām ir cita veida izšķirošā ietekme atbilstoši Koncernu likumam, un tāds šādas kapitālsabiedrības padomes loceklis, kurš pārstāv publiskas personas kapitālsabiedrības intereses, nav uzskatāms par valsts amatpersonu, ja attiecīgā kapitālsabiedrība reģistrēta ārvalstī. Interešu konflikta novēršanu šo kapitālsabiedrību valdes vai padomes locekļu darbībā normatīvajos aktos un statūtos noteiktajā kārtībā un apjomā nodrošina publiskas personas kapitālsabiedrība, kurai ārvalstī reģistrētajā kapitālsabiedrībā pieder kapitāla daļas.

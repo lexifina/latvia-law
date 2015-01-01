@@ -1,0 +1,1 @@
+23. Šā likuma 7.panta 5.³ daļā minētās personas, kas brīdī, kad stājas spēkā grozījumi par 7.panta papildināšanu ar 5.³ daļu, ieņem citu amatu attiecīgajā kapitālsabiedrībā, var arī turpmāk ieņemt attiecīgo amatu, ja ne vēlāk kā līdz 2015.gada 1.aprīlim izpilda šā likuma 7.panta 5.³ daļas 4.punktā minētās prasības.
