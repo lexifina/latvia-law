@@ -36,13 +36,13 @@
 21) par īpašuma tiesību un ķīlas tiesību nostiprināšanu zemesgrāmatā;
 22) (izslēgts ar 12.12.2002. likumu);
 23) (izslēgts ar 16.10.2014. likumu);
-23¹) par reģistrācijas darbībām būvkomersantu reģistrā;
+23¹) par reģistrācijas darbībām būvkomersantu reģistrā (ikgadējā nodeva);
 24) par sabiedrisko pakalpojumu regulēšanu;
 25) par ogļūdeņražu ieguvi;
 26) par jebkāda veida ieroča atļaujas, atkārtotas atļaujas, atļaujas dublikāta un Eiropas šaujamieroču apliecības izsniegšanu un Eiropas šaujamieroču apliecības derīguma termiņa pagarināšanu;
 27) par iekšējās drošības dienesta reģistrāciju;
 28) (izslēgts ar 13.12.2012. likumu);
-29) par gaisa kuģu, Jūras kodeksa 8.panta otrajā daļā noteikto reģistrējamo kuģu un kuģošanas līdzekļu, kā arī par Valsts tehniskās uzraudzības aģentūrā reģistrējamu transportlīdzekļu reģistrāciju;
+29) par gaisa kuģu un Jūras kodeksa 8.panta otrajā daļā noteikto reģistrējamo kuģu un kuģošanas līdzekļu reģistrāciju;
 30) par dzelzceļa infrastruktūras reģistrāciju;
 31) par pasažieru izlidošanu;
 32) (izslēgts ar 01.12.2009. likumu);
@@ -50,7 +50,7 @@
 34) (izslēgts ar 31.03.2004. likumu);
 35) par filmu producētāju (ražotāju) reģistrāciju;
 36) (zaudējis spēku 01.07.2006.; sk. Pārejas noteikumus);
-36¹) par kadastra izziņas sagatavošanu un izsniegšanu;
+36¹) (izslēgts ar 17.12.2014. likumu);
 37) (izslēgts ar 09.10.2002. likumu);
 38) par dokumentu īstuma apliecināšanu (legalizāciju);
 39) par speciālās atļaujas (licences) vai atļaujas izsniegšanu darbībām ar jonizējošā starojuma avotiem;
@@ -86,7 +86,7 @@
 67) par šķirnes iekļaušanu, šķirnes uzturēšanu un uzturēšanas termiņa pagarināšanu Latvijas augu šķirņu katalogā;
 68) par atļaujas izsniegšanu tāda veģetatīvā pavairošanas materiāla un sēklu izmantošanai bioloģiskajā lauksaimniecībā, kas nav iegūti ar bioloģiskās lauksaimniecības ražošanas metodi;
 69) par atļaujas saņemšanu mēslošanas līdzekļa ievešanai vai tirdzniecībai;
-70) par sertifikātu izsniegšanu fiziskajām personām, kas veic lauksaimniecības dzīvnieku vērtēšanu, pārraudzību, mākslīgo apsēklošanu, olšūnu un embriju transplantāciju, kā arī ganāmpulku un novietņu reģistrēšanu un zirga pases izsniegšanu;
+70) (izslēgts no 01.01.2015. ar 25.09.2014. likumu, kas stājas spēkā 29.10.2014. Sk. Pārejas noteikumu 165.punktu);
 71) (izslēgts ar 17.12.2009. likumu);
 72) par tāda suņa reģistrāciju, kurš apmācīts uzbrukt cilvēkam;
 73) par izmēģinājuma projekta atļaujas izsniegšanu dzīvnieka izmantošanai procedūrās;
@@ -112,11 +112,11 @@
 93) par bioloģiskās lauksaimniecības kontroles institūcijas atbilstības apliecinājuma izsniegšanu;
 94) par ziņu par deklarēto dzīvesvietu reģistrāciju;
 95) par atzinuma par aizsargjoslas saskaņošanu ap ūdens ņemšanas vietām sagatavošanu;
-96) par atzinuma par veselīguma norādi uz pārtikas produktiem sagatavošanu;
+96) (izslēgts no 01.01.2015. ar 25.09.2014. likumu, kas stājas spēkā 29.10.2014. Sk. Pārejas noteikumu 165.punktu);
 97) par apstiprinājuma vai piekrišanas izsniegšanu atkritumu pārrobežu pārvadājumiem;
 98) par apraides atļaujas izsniegšanu, retranslācijas atļaujas izsniegšanu un tāda pakalpojuma sniedzēja reģistrāciju, kurš sniedz elektronisko plašsaziņas līdzekļu pakalpojumus pēc pieprasījuma;
 99) par ģeogrāfiskās izcelsmes norādes reģistrāciju, par iebilduma paziņojuma lēmuma izsniegšanu un par ģeogrāfiskās izcelsmes norādes grozījuma reģistrāciju;
-100) par nacionālās pārtikas kvalitātes shēmas kontroles institūcijas apstiprināšanas apliecības izsniegšanu;
+100) (izslēgts no 01.01.2015. ar 25.09.2014. likumu, kas stājas spēkā 29.10.2014. Sk. Pārejas noteikumu 165.punktu);
 101) (izslēgts ar 20.05.2010. likumu);
 102) (izslēgts ar 20.05.2010. likumu);
 103) par uztura bagātinātāju reģistrāciju;
@@ -142,4 +142,8 @@
 123) par universālā pasta pakalpojuma saistību izpildes tīro izmaksu kompensēšanu;
 124) par spridzinātāja sertifikāta un spridzināšanas darbu vadītāja sertifikāta, tā dublikāta un atkārtota sertifikāta izsniegšanu;
 125) par Latvijas Nacionālā arhīva sociāli tiesiskās izziņas sagatavošanu un izsniegšanu;
-126) par pārrobežu skaidras naudas pārvadājumu atļaujas, pārrobežu skaidras naudas pārvadājumu atļaujas dublikāta un atkārtotas pārrobežu skaidras naudas pārvadājumu atļaujas izsniegšanu.
+126) par pārrobežu skaidras naudas pārvadājumu atļaujas, pārrobežu skaidras naudas pārvadājumu atļaujas dublikāta un atkārtotas pārrobežu skaidras naudas pārvadājumu atļaujas izsniegšanu;
+127) par Ieroču un speciālo līdzekļu aprites likumā paredzētā kontrolšāviena ar vītņstobra šaujamieroci izdarīšanu;
+128) par kvalifikācijas pārbaudījuma un atkārtota kvalifikācijas pārbaudījuma kārtošanu attiecībā uz ieroču un munīcijas aprites kārtību un prasmi rīkoties ar ieroci, kā arī par kvalifikācijas pārbaudījuma apliecības dublikāta izsniegšanu;
+129) par speciālās atļaujas (licences) izsniegšanu un pārreģistrāciju kredītinformācijas biroja darbībai;
+130) par kredītinformācijas biroja darbības uzraudzību (ikgadējā nodeva).

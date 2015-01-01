@@ -1,6 +1,6 @@
 20.pants. Konkrētu nodokļu administrēšana
 Nodokļus administrē šādas institūcijas:
-1) iedzīvotāju ienākuma nodokli - Valsts ieņēmumu dienests un pašvaldības atbilstoši likumam "Par iedzīvotāju ienākuma nodokli";
+1) iedzīvotāju ienākuma nodokli - Valsts ieņēmumu dienests;
 2) uzņēmumu ienākuma nodokli - Valsts ieņēmumu dienests;
 3) nekustamā īpašuma nodokli - Valsts ieņēmumu dienests un pašvaldības atbilstoši likumam "Par nekustamā īpašuma nodokli";
 4) akcīzes nodokli - Valsts ieņēmumu dienests;
