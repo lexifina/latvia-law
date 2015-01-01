@@ -20,4 +20,4 @@
 13) Centrālās zemes komisijas priekšsēdētājam - 0,80;
 14) Augstākās izglītības padomes priekšsēdētājam - 2,33;
 15) Augstākās izglītības padomes loceklim - 0,22.
-(3) Šā panta otrās daļas 12. un 15.punktā minētās amatpersonas mēnešalgu saņem proporcionāli nostrādātajam laikam.
+(3) Šā panta otrās daļas 7.,8., 12. un 15.punktā minētās amatpersonas mēnešalgu saņem proporcionāli nostrādātajam laikam.
