@@ -1,0 +1,8 @@
+3.pants. Likuma darbības joma
+(1) Likums regulē kredītinformācijas biroju darbību un kredītinformācijas apstrādes kārtību šajā likumā noteikto licencējamo kredītinformācijas biroju darbību ietvaros.
+(2) Klienta vai iespējamā klienta datu apstrādi un aizsardzību nosaka Fizisko personu datu aizsardzības likums, ciktāl šis likums nenosaka citādi.
+(3) Šo likumu nepiemēro:
+1) Parādu ārpustiesas atgūšanas likumā noteiktajām parādvēstures datubāzēm;
+2) valsts informācijas sistēmā esošo datu apstrādei, ko veic šīs valsts informācijas sistēmas turētājs, vai datu apstrādei, ko veic Saeima, atvasināta publiska persona, tiešās pārvaldes iestāde, pastarpinātās pārvaldes iestāde, tiesa vai tiesu sistēmai piederīga persona, izņemot šā likuma 13.pantā noteikto;
+3) attiecībā uz kredītu reģistru, kā arī ziņu saņemšanai no kredītu reģistra un to izmantošanai. Kārtību, kādā kredītinformācijas lietotājs saņem kredītu reģistrā iekļautās ziņas ar kredītinformācijas biroja starpniecību, nosaka Kredītu reģistra likums;
+4) ja saskaņā ar citiem normatīvajiem aktiem kredītinformācijas lietotājs ar kredītinformācijas biroja starpniecību var saņemt ziņas no valsts informācijas sistēmas apstrādes mērķiem, kas nav minēti šā likuma 4.pantā. Kārtību, kādā kredītinformācijas lietotājs ar kredītinformācijas biroja starpniecību saņem šādas ziņas no valsts informācijas sistēmas, nosaka attiecīgais normatīvais akts.

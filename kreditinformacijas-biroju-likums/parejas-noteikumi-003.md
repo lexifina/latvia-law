@@ -1,0 +1,1 @@
+3. Šā likuma 11.panta nosacījumi par kredītinformācijas biroja lietotāja tiesībām iekļaut kredītinformācijas biroja datubāzē ziņas par parādu attiecas arī uz parādu, kurš pastāv likuma spēkā stāšanās dienā.
