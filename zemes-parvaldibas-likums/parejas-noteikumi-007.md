@@ -1,0 +1,1 @@
+7. Ja zemes reforma vietējās pašvaldības administratīvajā teritorijā pabeigta līdz šā likuma spēkā stāšanās dienai, valstij un vietējai pašvaldībai piederošo un piekrītošo zemi attiecīgās pašvaldības administratīvajā teritorijā nosaka līdz 2018.gada 1.februārim.

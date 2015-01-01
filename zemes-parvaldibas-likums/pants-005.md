@@ -1,0 +1,3 @@
+5.pants. Zeme publiskās infrastruktūras nodrošināšanai
+(1) Vietējā pašvaldība teritorijas plānojumā nosaka publiskās infrastruktūras attīstības un būvniecības vajadzībām nepieciešamās teritorijas un to izmantošanas nosacījumus neatkarīgi no zemes piederības vai piekritības.
+(2) Zemes īpašniekam ir tiesības uz kompensāciju par zaudējumiem, ja, nosakot publiskās infrastruktūras attīstības un būvniecības vajadzībām nepieciešamās teritorijas, viņam ir radušies saimnieciskās darbības ierobežojumi, par kuriem pienākas kompensācija. Zaudējumus atlīdzina Ministru kabineta noteiktajā kārtībā tā institūcija, kura ierosinājusi šādu teritoriju noteikšanu.
