@@ -30,7 +30,7 @@ Maksimālā mēnešalgu grupa
 11
 10.
 7
-14
+15
 11.
 8
 9
@@ -72,7 +72,7 @@ Maksimālā mēnešalgu grupa
 13
 24.
 16
-11
+12
 25.
 17
 10
@@ -108,7 +108,7 @@ Maksimālā mēnešalgu grupa
 13
 36.
 19.5
-12
+13
 37.
 19.6
 10
@@ -129,7 +129,7 @@ Maksimālā mēnešalgu grupa
 12
 43.
 24
-11
+12
 44.
 25
 16
@@ -153,7 +153,7 @@ Maksimālā mēnešalgu grupa
 13
 51.
 28.3
-11
+12
 52.
 28.4
 14
@@ -180,13 +180,13 @@ Maksimālā mēnešalgu grupa
 13
 60.
 36
-14
+15
 61.
 37
 13
 62.
 38
-7
+8
 63.
 39
 11
@@ -236,7 +236,7 @@ Maksimālā mēnešalgu grupa
 11
 79.
 53.1
-13
+14
 80.
 53.2
 14
