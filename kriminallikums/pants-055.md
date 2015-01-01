@@ -4,7 +4,6 @@
 (3) Nosacīti notiesājot, tiesa nosaka pārbaudes laiku no sešiem mēnešiem līdz pieciem gadiem. Pārbaudes laiks sākas ar tiesas sprieduma spēkā stāšanās dienu. Noteiktais pārbaudes laiks nevar būt mazāks par piemēroto brīvības atņemšanas laiku.
 (4) Nosacīti notiesājot, spriedumā norādāmi apstākļi, kuru dēļ tiesa atzinusi par lietderīgu sodu neizpildīt, kā arī iemesli, kāpēc notiesātajam uzlikti attiecīgie pienākumi.
 (5) Nosacīti notiesājot, var piespriest papildsodus, izņemot probācijas uzraudzību.
-(Grozījumi par papildsoda - policijas kontroles - izslēgšanu stājas spēkā 01.01.2015. Sk. Pārejas noteikumu 10.punktu)
 (6) Nosacīti notiesājot, tiesa var uzlikt notiesātajam par pienākumu:
 1) noteiktā termiņā novērst radīto kaitējumu;
 2) nemainīt dzīvesvietu bez Valsts probācijas dienesta piekrišanas;

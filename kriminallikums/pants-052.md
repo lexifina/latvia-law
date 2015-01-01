@@ -2,7 +2,7 @@
 (1) Saskaitot sodus par vairākiem noziedzīgiem nodarījumiem vienā spriedumā vai pēc vairākiem spriedumiem, brīvības atņemšanas soda viena diena atbilst:
 1) (izslēgts ar 13.12.2012. likumu);
 2) astoņām piespiedu darba stundām;
-3) divām policijas kontroles dienām;
+3) (izslēgts ar 08.07.2011. likumu);
 4) divām probācijas uzraudzības dienām.
 (2) Naudas sods, tiesību ierobežošana, ja šie sodi tiek piespriesti kopā ar brīvības atņemšanas sodu, piespiedu darbu, tiek izpildīti patstāvīgi. Nosacītas notiesāšanas gadījumā papildsods - piespiedu darbs - tiek izpildīts patstāvīgi, sākoties pārbaudes laikam.
 (2¹) Ja par vairākiem noziedzīgiem nodarījumiem vienā spriedumā vai pēc vairākiem spriedumiem ir piespriesti pamatsodi - piespiedu darbs un brīvības atņemšana, kuras termiņš kopā nepārsniedz trīs gadus, tad sodu - piespiedu darbs - izpilda patstāvīgi. Šādos gadījumos piespiedu darba izpildi uzsāk pēc brīvības atņemšanas soda izciešanas, bet nosacītas notiesāšanas gadījumā - uzreiz pēc sprieduma spēkā stāšanās.
