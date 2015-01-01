@@ -1,5 +1,9 @@
 6.pants. Mikrouzņēmumu nodokļa likme
-(1) Mikrouzņēmumu nodokļa likme ir deviņi procenti.
+(1) Mikrouzņēmumu nodokļa likme mikrouzņēmuma apgrozījumam līdz 7000 euro ir deviņi procenti.
+(1¹) Mikrouzņēmumu nodokļa likme mikrouzņēmuma apgrozījumam no 7000,01 līdz 100 000 euro ir:
+1) 2015.gadā - 11 procenti;
+2) 2016.gadā - 13 procenti;
+3) sākot ar 2017.gadu, - 15 procenti.
 (2) Ja mikrouzņēmumu nodokli maksājošā mikrouzņēmuma darbinieku skaits ceturksnī pārsniedz piecus darbiniekus, šā panta pirmajā daļā noteiktajai likmei pieskaita divus procenta punktus par katru papildus nodarbināto darbinieku. Ja mikrouzņēmuma darbinieku skaits ceturksnī ir mainīgs, mikrouzņēmumu nodokļa likmi nosaka pēc lielākā darbinieku skaita attiecīgajā ceturksnī, ņemot vērā tos darbiniekus, kuri nostrādājuši ne mazāk par pusi no attiecīgā ceturkšņa.
 (2¹) Mikrouzņēmumu nodokļa maksātājs ir tiesīgs nepiemērot šā panta otro daļu, ja mikrouzņēmuma darbinieku skaits taksācijas gadā ir lielāks par pieciem un mikrouzņēmuma darbinieku skaits taksācijas gadā salīdzinājumā ar pirmstaksācijas gadu un pirmstaksācijas gadā salīdzinājumā ar gadu, kas ir pirms pirmstaksācijas gada, pieaudzis par vienu vai diviem darbiniekiem. Ja mikrouzņēmuma darbinieku skaits gadā ir mainīgs, mikrouzņēmumu nodokļa maksātāja darbinieku skaitu attiecīgajā gadā nosaka, ņemot vērā tos darbiniekus, kuri nostrādājuši ne mazāk par pusi no kalendāra gada.
 (3) Mikrouzņēmumu nodokļa likme šā likuma 1.panta 1.punkta "b" apakšpunktā noteiktā apgrozījuma pārsnieguma daļai ir 20 procenti.
