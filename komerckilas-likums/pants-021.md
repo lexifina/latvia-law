@@ -1,2 +1,3 @@
-21.pants. Komercķīlu reģistra ierakstu publiskums
-Komercķīlu reģistram ir publisks raksturs, un jebkura persona par maksu var iepazīties ar komercķīlu reģistra ierakstiem, iesniegtajiem komercķīlas reģistrācijas pieteikumiem un saņemt no tiem izrakstus.
+21.pants. Komercķīlu reģistra atklātība
+(1) Jebkura persona par maksu var iepazīties ar komercķīlu reģistra ierakstiem, ar iesniegtajiem komercķīlas reģistrācijas pieteikumiem un saņemt izrakstus no komercķīlu reģistra ierakstiem un iesniegtajiem reģistrācijas pieteikumiem.
+(2) Komercķīlu reģistra turētājs savā interneta vietnē bez maksas nodrošina vismaz šādu komercķīlu reģistra informāciju: komercķīlas devējs (fiziskajai personai - vārds un uzvārds, juridiskajai personai - nosaukums un reģistrācijas numurs), komercķīlas reģistrācijas numurs, komercķīlas reģistrācijas datums un komercķīlas dzēšanas vai pārjaunošanas datums.

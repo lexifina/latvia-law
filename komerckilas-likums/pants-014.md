@@ -1,3 +1,5 @@
-14.pants. Komercķīlas reģistrācijas pieteikuma iesniegšana reģistrācijai
-(1) Pieteikumu reģistrācijai iesniedz komercķīlas devējs, komercķīlas ņēmējs vai viņu pārstāvji vai arī nosūta pa pastu ar ierakstītu vēstuli.
-(2) Reģistrācijas pieteikumu puses var atsaukt, iekams komercķīlu reģistra turētājs nav pieņēmis attiecībā uz to lēmumu. Šajā gadījumā valsts nodevu atmaksā.
+14.pants. Pieteikuma iesniegšana
+(1) Pieteikumu un tam pievienojamos dokumentus komercķīlu reģistra turētājam iesniedz elektroniski, izmantojot komercķīlu reģistra turētāja norādīto tiešsaistes formu.
+(2) Pieteikumu paraksta komercķīlas devējs. Ja pieteikums tiek noformēts uz tiesas nolēmuma pamata (9.panta otrā un trešā daļa), to paraksta komercķīlas ņēmējs. Komercķīlu reģistra turētāja amatpersona pārbauda šo personu rīcībspēju un pilnvarnieka vai pārstāvja pilnvaru apjomu.
+(3) Ja komercķīlas devēja vai komercķīlas ņēmēja vārdā pieteikumu paraksta cita persona, pilnvarojums apliecināms notariāli vai pieteikumam pievienojama pilnvara ar tās devēja drošu elektronisko parakstu.
+(4) Pieteikumu komercķīlas līguma pušu vārdā var par maksu iesniegt komercķīlu reģistra turētāja amatpersona, iepriekš pārbaudot attiecīgo personu rīcībspēju un pilnvarnieka vai pārstāvja pilnvaru apjomu. Par pieteikuma iesniegšanu komercķīlu reģistra turētāja amatpersona taisa apliecinājumu, kurā personas apliecina, ka komercķīlu reģistra turētājam iesniegtais pieteikums un tam pievienotie dokumenti atbilst to sniegtajai informācijai.

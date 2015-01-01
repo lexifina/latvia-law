@@ -1,2 +1,2 @@
-39.pants. Komercķīlas izlietošana, ja komercķīlas priekšmets ir komersanta uzņēmums vai lauksaimniecības pakalpojumu kooperatīvās sabiedrības manta
-Ja ieķīlāts komersanta uzņēmums un komersants nav darbību izbeidzis, komersanta uzņēmums pārdodams kopumā kā funkcionējošs, ja puses nav vienojušās citādi. Ja ieķīlāta visa lauksaimniecības pakalpojumu kooperatīvās sabiedrības manta un šī sabiedrība nav izbeigusi darbību, visa manta pārdodama kopumā, ja puses nav vienojušās citādi.
+39.pants. Komercķīlas izlietošana, ja ieķīlāta visa komercķīlas devēja manta, uzņēmums vai tā patstāvīgā daļa
+Ja ieķīlāta visa komercķīlas devēja manta un komercķīlas devējs savu saimniecisko darbību nav izbeidzis, visa manta pārdodama kopumā, ja puses nav vienojušās citādi. Ja ieķīlāts komercķīlas devēja uzņēmums vai tā patstāvīgā daļa un komercķīlas devējs savu saimniecisko darbību nav izbeidzis, uzņēmumu vai tā patstāvīgo daļu pārdod kopumā kā funkcionējošu, ja puses nav vienojušās citādi.

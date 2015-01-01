@@ -1,6 +1,6 @@
 37.pants. Ieķīlātās mantas pārdošana izsolē
 (1) Ja komercķīlas devējs nav piešķīris komercķīlas ņēmējam tiesības pārdot ieķīlāto mantu bez izsoles, ieķīlātā manta pārdodama izsolē, ievērojot Civillikuma 2073.panta un turpmāko pantu noteikumus.
-(2) Mantas izsoli komercķīlas ņēmējs izsludina laikrakstā "Latvijas Vēstnesis" un vēl vismaz vienā laikrakstā ne vēlāk kā mēnesi pirms izsoles dienas.
+(2) Mantas izsoli komercķīlas ņēmējs izsludina oficiālajā izdevumā "Latvijas Vēstnesis" un vēl vismaz vienā laikrakstā ne vēlāk kā mēnesi pirms izsoles dienas.
 (3) Sludinājumā norāda:
 1) komercķīlas devēja un komercķīlas ņēmēja nosaukumu un atrašanās vietu (juridisko adresi) un reģistrācijas datus, bet fiziskajām personām - vārdu, uzvārdu;
 2) pārdodamās mantas īsu aprakstu un atrašanās vietu;

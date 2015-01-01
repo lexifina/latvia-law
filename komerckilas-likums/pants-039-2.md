@@ -1,0 +1,4 @@
+39.² pants. Komercķīlas izlietošana, ja komercķīlas priekšmets ir prasījuma tiesības
+(1) Ja ieķīlātas prasījuma tiesības, komercķīlas ņēmējs var tās pārdot saskaņā ar šā likuma noteikumiem vai prasīt apmierinājumu no trešās personas, kas ir parādā komercķīlas devējam uz šo prasījuma tiesību pamata. Tiesības prasīt apmierinājumu no trešās personas neierobežo apstāklis, ka komercķīlas devējs saskaņā ar šā likuma 38.pantu nav piešķīris tiesības pārdot ieķīlāto mantu bez izsoles.
+(2) Komercķīlas ņēmējs var prasīt apmierinājumu no trešās personas, ja pirms tam ir ievērota šā likuma 42.pantā noteiktā paziņošanas kārtība un komercķīlu reģistrā izdarīts ieraksts par komercķīlas tiesību izlietošanu.
+(3) Komercķīlas ņēmējs pārdod ķermenisko lietu, ko ieguvis, prasot apmierinājumu no trešās personas. Pirms pārdošanas nav atkārtoti jāievēro šā likuma 42.pantā noteiktā paziņošanas kārtība.
