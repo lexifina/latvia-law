@@ -19,4 +19,5 @@
 (6) Dizainparauga aprakstā var paskaidrot attēlā (attēlos) redzamās dizainparauga īpatnības, ņemot vērā, ka apraksts neietekmē dizainparauga tiesiskās aizsardzības apjomu (8.panta ceturtā daļa).
 (7) Izstrādājuma paraugu var iesniegt tikai plakanam dizainparaugam.
 (8) Pieteikumu paraksta dizainparauga pieteicējs vai viņa pilnvarots pārstāvis. Dizainparauga pieteicēju uzskata par tiesīgu pieteicēju, iekams ar spēkā stājušos tiesas spriedumu nav atzīts pretējais.
+(8¹) Ja pieteikumu iesniedz, izmantojot Patentu valdes tīmekļa vietnē šim nolūkam izveidotu speciālu tiešsaistes formu, iesniedzēja personu identificē, lietojot vienotajā valsts un pašvaldību portālā www.latvija.lv pieejamos autentifikācijas līdzekļus.
 (9) Ārvalsts pieteicējs iesniedz pieteikumu, kārto saraksti un veic visas turpmākās darbības Patentu valdē un Patentu valdes Apelācijas padomē (turpmāk - Apelācijas padome) tikai ar profesionāla patentpilnvarotā (dizainparaugu aģenta) starpniecību, atbilstoši Patentu likuma noteikumiem par pārstāvību.
