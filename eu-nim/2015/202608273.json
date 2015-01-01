@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Kredītinformācijas biroju likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "199",
+  "official_journal_page": null,
+  "official_journal_date": "2014-10-08",
+  "entry_into_force": "2015-01-01",
+  "notification_date": "2026-11-04",
+  "commission_reference": "MNE(2026)08273",
+  "nim_celex": "72023L2225LVA_202608273",
+  "nim_id": "202608273",
+  "transposes_celex": [
+    "32023L2225"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e68e4994-71f0-4b81-a6c2-229b3e1c40b7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
