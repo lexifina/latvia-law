@@ -1,0 +1,1 @@
+16. Grozījums šā likuma 12.panta pirmās daļas 2.punkta piezīmē, otrajā un 2.¹ daļā par pienākuma kompensēt zemes īpašniekam nekustamā īpašuma nodokļa par zemi maksājumu atcelšanu stājas spēkā 2015.gada 1.janvārī.
