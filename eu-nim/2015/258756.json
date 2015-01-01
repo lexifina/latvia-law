@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Publiskas personas kapitāla daļu un kapitālsabiedrību pārvaldības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "216",
+  "official_journal_page": null,
+  "official_journal_date": "2014-10-31",
+  "entry_into_force": "2015-01-01",
+  "notification_date": "2018-05-17",
+  "commission_reference": "MNE(2018)52467",
+  "nim_celex": "72011L0085LVA_258756",
+  "nim_id": "258756",
+  "transposes_celex": [
+    "32011L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/61f4552f-d83c-4fb5-8404-5c0a12af914d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
