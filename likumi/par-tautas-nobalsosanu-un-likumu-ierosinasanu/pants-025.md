@@ -1,2 +1,2 @@
-25. pants. (1) Ja likumprojektu vai Satversmes grozījumu projektu ir parakstījusi ne mazāk kā viena desmitā daļa no pēdējās Saeimas vēlēšanās balsstiesīgo Latvijas pilsoņu skaita, Valsts prezidents šo likumprojektu vai Satversmes grozījumu projektu iesniedz Saeimai.
+25. pants. (1) Valsts prezidents šo likumprojektu vai Satversmes grozījumu projektu iesniedz Saeimai.
 (2) Saeimai šis likumprojekts vai Satversmes grozījumu projekts jāizskata tajā sesijā, kurā tas iesniegts. Ja likumprojekts vai Satversmes grozījumu projekts iesniegts sesiju starplaikā vai ārkārtas sesijā, tas jāizskata nākamajā kārtējā sesijā vai šā likumprojekta vai Satversmes grozījumu projekta izskatīšanai īpaši sasauktā ārkārtas sesijā.

@@ -1,0 +1,5 @@
+25.⁶ pants. (1) Parakstu vākšanai par ierosinājumu rīkot tautas nobalsošanu par Saeimas atsaukšanu izveido iniciatīvas grupu, kura atbilst šā likuma 23.panta otrās daļas prasībām.
+(2) Iniciatīvas grupa iesniedz Centrālajai vēlēšanu komisijai iesniegumu par reģistrāciju.
+(3) Centrālā vēlēšanu komisija 10 dienu laikā pieņem vienu no šādiem lēmumiem:
+1) reģistrēt iniciatīvas grupu, ja tā atbilst šā likuma 23.panta otrās daļas prasībām un ja dienā, kad iesniegts iesniegums par reģistrāciju, nav iestājies Satversmes 14.pantā noteiktais termiņš, kad nevar ierosināt tautas nobalsošanu par Saeimas atsaukšanu;
+2) atteikt iniciatīvas grupas reģistrāciju, ja tā neatbilst šā likuma 23.panta otrās daļas prasībām vai ja dienā, kad iesniegts iesniegums par reģistrāciju, ir iestājies Satversmes 14.pantā noteiktais termiņš, kad nevar ierosināt tautas nobalsošanu par Saeimas atsaukšanu.
