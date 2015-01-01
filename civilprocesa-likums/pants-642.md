@@ -1,5 +1,5 @@
-642.pants. Apgabaltiesas un Senāta kompetence
-(1) Apgabaltiesai un Senātam, izskatot blakus sūdzību, ir tiesības:
+642.pants. Apgabaltiesas un Augstākās tiesas kompetence
+(1) Apgabaltiesai un Augstākajai tiesai, izskatot blakus sūdzību, ir tiesības:
 1) atstāt lēmumu negrozītu, bet sūdzību noraidīt;
 2) atcelt lēmumu pilnīgi vai kādā tā daļā un izlemt jautājumu par ārvalsts tiesas nolēmuma atzīšanu;
 3) grozīt lēmumu.

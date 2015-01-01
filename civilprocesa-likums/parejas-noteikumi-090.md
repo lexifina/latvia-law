@@ -1,0 +1,1 @@
+90. Lietas, kuras apgabaltiesa kā pirmās instances tiesa ir sākusi izskatīt pēc būtības, bet kuras līdz 2015.gada 31.decembrim nav izskatītas, tajā skaitā lietas, kurās pieņemts lēmums par tiesvedības apturēšanu, nodod izskatīšanai rajona (pilsētas) tiesai kā pirmās instances tiesai.

@@ -1,0 +1,1 @@
+89. Lietas, kuras ierosinātas izskatīšanai apgabaltiesā kā pirmās instances tiesā līdz 2014.gada 31.decembrim, bet kuru izskatīšana pēc būtības nav uzsākta līdz 2015.gada 30.jūnijam, nodod izskatīšanai rajona (pilsētas) tiesai kā pirmās instances tiesai.

@@ -1,0 +1,1 @@
+93. Ja pēc 2016.gada 1.janvāra lietā, kas izskatīta Augstākās tiesas Civillietu tiesu palātā apelācijas kārtībā, ir izlemjami ar nolēmuma izpildi saistīti jautājumi, tos nosūta izlemšanai apgabaltiesai kā apelācijas instances tiesai.

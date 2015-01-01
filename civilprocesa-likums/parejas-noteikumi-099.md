@@ -1,0 +1,1 @@
+99. Tiesvedībām, kuras uzsāktas, publiskiem aktiem, kuri oficiāli sastādīti un reģistrēti, un tiesas izlīgumiem, kuri apstiprināti vai noslēgti laikā no 2004.gada 1.maija līdz 2015.gada 9.janvārim, piemēro šā likuma 541.¹ panta trešo daļu un 644.panta otro daļu redakcijā, kas bija spēkā līdz 2015.gada 9.janvārim.

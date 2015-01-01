@@ -1,7 +1,7 @@
 434.pants. Apelācijas instances tiesas sprieduma stāšanās likumīgā spēkā
 (1) Apelācijas instances tiesas spriedums stājas likumīgā spēkā, kad beidzies termiņš tā pārsūdzēšanai kasācijas kārtībā un kasācijas sūdzība nav iesniegta.
 (2) Ja kasācijas sūdzība ir iesniegta, apelācijas instances tiesas spriedums stājas likumīgā spēkā vienlaikus ar:
-1) Senāta rīcības sēdes lēmumu, ja ir atteikts ierosināt kasācijas tiesvedību (464.panta trešā daļa un 464.¹ pants);
+1) Augstākās tiesas rīcības sēdes lēmumu, ja ir atteikts ierosināt kasācijas tiesvedību (464.panta trešā daļa un 464.¹ pants);
 2) kasācijas instances tiesas spriedumu, ja apelācijas instances tiesas spriedums nav atcelts vai spriedums vai tā daļa ir atcelta un pieteikums atstāts bez izskatīšanas vai tiesvedība izbeigta (474.pants).
 (3) Uz apelācijas instances tiesas sprieduma likumīgo spēku attiecināmi šā likuma 203.panta otrās, trešās, ceturtās un piektās daļas noteikumi.
 (3¹) Ja attiecībā uz dažādiem lietas dalībniekiem termiņu kasācijas sūdzības iesniegšanai par apelācijas instances tiesas spriedumu nosaka gan saskaņā ar šā likuma 454.panta pirmo vai otro daļu, gan 454.panta 2.² daļu vai attiecībā uz visiem lietas dalībniekiem termiņu apelācijas sūdzībai par pirmās instances tiesas spriedumu nosaka saskaņā ar šā likuma 454.panta 2.² daļu, apelācijas instances tiesas spriedums stājas likumīgā spēkā pēc tam, kad notecējis termiņš tā pārsūdzēšanai, termiņu skaitot no vēlākā sprieduma noraksta izsniegšanas datuma, ja nav iesniegta apelācijas sūdzība.

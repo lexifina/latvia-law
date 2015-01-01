@@ -1,0 +1,1 @@
+97. Grozījumi šā likuma 540., 541.¹, 555., 559., 644., 644.² un 644.³ pantā attiecībā uz Padomes regulu Nr. 44/2001 un Eiropas Parlamenta un Padomes regulu Nr. 1215/2012 stājas spēkā 2015.gada 10.janvārī.

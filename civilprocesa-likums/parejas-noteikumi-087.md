@@ -1,0 +1,1 @@
+87. Lietas, kuras izskatītas apgabaltiesā kā pirmās instances tiesā un kurās sprieduma pasludināšanai noteikts datums pēc 2014.gada 31.decembra, kā arī blakus sūdzības par apgabaltiesas kā pirmās instances tiesas lēmumiem, kuri pasludināti pēc 2014.gada 31.decembra, apelācijas kārtībā izskata tā pati apgabaltiesa kā apelācijas instances tiesa, bet jaunā tiesas sastāvā.

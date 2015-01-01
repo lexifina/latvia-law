@@ -1,0 +1,1 @@
+96. Blakus sūdzības, kas iesniegtas par apgabaltiesas kā pirmās instances tiesas pieņemtajiem lēmumiem, kuru pārsūdzībai noteiktais termiņš beidzas līdz 2014.gada 31.decembrim, apelācijas kārtībā izskatāmas kārtībā, kāda bija spēkā līdz 2014.gada 31.decembrim.
