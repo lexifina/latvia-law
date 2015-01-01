@@ -1,0 +1,1 @@
+2. Ministru kabinets līdz 2015.gada 1.jūnijam izdod šā likuma 23.panta piektajā daļā paredzētos Ministru kabineta noteikumus par speciālo līdzekļu veidiem un kārtību, kādā tos lieto ieslodzījuma vietu amatpersonas.

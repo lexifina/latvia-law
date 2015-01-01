@@ -1,5 +1,5 @@
 6.pants. Ieslodzījuma vietas
-(1) Ieslodzījuma vietas veic apcietinājuma kā drošības līdzekļa un brīvības atņemšanas kā kriminālsoda izpildi, kā arī nodrošina notiesāto garīgo aprūpi, audzināšanu, nodarbinātību un resocializāciju.
+(1) Ieslodzījuma vietas veic apcietinājuma kā drošības līdzekļa un brīvības atņemšanas kā kriminālsoda izpildi, nodrošina notiesāto resocializāciju un garīgo aprūpi, kā arī veselības aprūpi.
 (2) Ir šādas ieslodzījuma vietas:
 1) izmeklēšanas cietumi;
 2) slēgtie cietumi;
