@@ -1,4 +1,4 @@
-62. Bez iepriekšējā (61.) pantā paredzētiem pielikumiem, iesniedzot nostiprinājuma lūgumu, pievienojami noteiktā kārtībā izgatavoti un reģistrēti zemes robežu plāni ar oriģināliem reģistrācijas uzrakstiem, kā arī uzrādāmi tehniskās inventarizācijas dokumenti un iesniedzamas inventarizācijas lietu kopijas vai izraksti no inventarizācijas lietām, kurās dots ēku (būvju) raksturojums un novērtējums:
+62. Nostiprinājuma lūgumam noteiktā kārtībā izgatavotus un Kadastra informācijas sistēmā reģistrētus zemes robežu plānus pievieno zemesgrāmatu nodaļa:
 1) atklājot zemesgrāmatā nodalījumu nekustamam īpašumam, kas agrāk nemaz nav bijis ierakstīts zemesgrāmatā vai kam nodalījumi iznīcināti vai gājuši zudumā;
 2) sadalot nekustamu īpašumu, kuram atklāts atsevišķs nodalījums, vairākos patstāvīgos nekustamos īpašumos (36. p.);
 3) atdalot no nekustama īpašuma daļu, lai pievienotu to citam īpašumam (36. p.);
@@ -9,3 +9,4 @@ Plāni arī pievienojami:
 2) par nekustamu īpašumu, kuram pievieno cita īpašuma daļu, ja lietā jau ir šā nekustamā īpašuma plāns;
 3) par savienojamiem lauku nekustamiem īpašumiem, ja katra savienojamā īpašuma plāns jau ir zemesgrāmatu nodaļā; ja nodaļai ir dažu savienojamo īpašumu plāni, tad jāiesniedz tikai iztrūkstošie īpašumu plāni;
 4) citos likumos paredzētos gadījumos.
+Ēkas (būves) kadastrālās uzmērīšanas dokumenti uzrādāmi un ēkas (būves) kadastrālās uzmērīšanas dokumentu kopijas vai izraksti no tām iesniedzami, ja nostiprina lietu tiesību uz ēkas (būves) neatdalītu reālu daļu.
