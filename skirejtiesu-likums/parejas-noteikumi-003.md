@@ -1,0 +1,1 @@
+3. Pastāvīgā šķīrējtiesa, kuras dibinātājs noteiktajā termiņā nav iesniedzis šo pārejas noteikumu 1.punktā minētos dokumentus, var pabeigt uzsāktos šķīrējtiesas procesus, bet ne ilgāk kā līdz dienai, kad Uzņēmumu reģistrs pieņēmis lēmumu par pastāvīgās šķīrējtiesas izslēgšanu no šķīrējtiesu reģistra.

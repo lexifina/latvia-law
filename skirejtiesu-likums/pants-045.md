@@ -1,0 +1,4 @@
+45.pants. Šķīrējtiesas procesa izdevumi
+(1) Šķīrējtiesas procesa izdevumos ietilpst ar civiltiesiskā strīda izskatīšanu saistītās izmaksas un šķīrējtiesnešu honorārs.
+(2) Šķīrējtiesas procesa izdevumu apmēru, kā arī samaksas termiņus un kārtību nosaka šķīrējtiesa, ievērojot prasības summu, civiltiesiskā strīda sarežģītību, šķīrējtiesas līguma nosacījumus un citus būtiskus apstākļus.
+(3) Ja puses nav šķīrējtiesas līgumā vienojušās citādi, maksu par ekspertīzes veikšanu, par sekretāra, tulka un eksperta piedalīšanos šķīrējtiesas procesā, kā arī citus šķīrējtiesas procesa izdevumus šķīrējtiesas noteiktā kārtībā maksā tā puse, kura iesniegusi lūgumu par sekretāra, tulka un eksperta piedalīšanos, kā arī ekspertīzes veikšanu šķīrējtiesas procesā. Ja šādu lūgumu iesniegušas abas puses, katra iemaksā pusi no izdevumu summas.

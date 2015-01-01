@@ -1,0 +1,1 @@
+5. Ja puses vienojušās par civiltiesiskā strīda nodošanu izšķiršanai pastāvīgajā šķīrējtiesā, kas saskaņā ar šo pārejas noteikumu 2.punktu ir izslēgta no šķīrējtiesu reģistra vai izbeigusi darbību, tās vienojas par civiltiesiskā strīda nodošanu izšķiršanai citā šķīrējtiesā. Ja vienošanās netiek panākta, strīds izskatāms tiesā saskaņā ar Civilprocesa likumu.

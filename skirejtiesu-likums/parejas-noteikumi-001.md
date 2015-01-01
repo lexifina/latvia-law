@@ -1,0 +1,1 @@
+1. Šķīrējtiesu reģistrā reģistrētas pastāvīgās šķīrējtiesas dibinātājs līdz 2015.gada 1.jūnijam Uzņēmumu reģistram iesniedz apliecinājumu par pastāvīgās šķīrējtiesas atbilstību šā likuma 2.panta otrajai daļai, 4. un 7.pantam un iesniedz 8.panta trešajā daļā minētos dokumentus.

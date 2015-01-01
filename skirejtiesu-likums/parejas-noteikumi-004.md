@@ -1,0 +1,1 @@
+4. No šķīrējtiesu reģistra izslēgtās pastāvīgās šķīrējtiesas dibinātājs līdz 2015.gada 1.novembrim nodod šķīrējtiesas procesu dokumentus glabāšanā Latvijas Nacionālajam arhīvam, sedzot izdevumus par to glabāšanu.

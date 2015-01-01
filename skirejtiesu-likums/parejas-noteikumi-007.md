@@ -1,0 +1,1 @@
+7. Uzņēmumu reģistrs līdz 2015.gada 1.jūlijam nodrošina šā likuma 8.panta septītajā daļā minētās informācijas pieejamību savā mājaslapā internetā, publicējot visu to pastāvīgo šķīrējtiesu reglamentus, kuras līdz 2015.gada 1.jūlijam nav izslēgtas no šķīrējtiesu reģistra.

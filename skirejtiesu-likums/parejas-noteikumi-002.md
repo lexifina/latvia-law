@@ -1,0 +1,1 @@
+2. Ja pastāvīgās šķīrējtiesas dibinātājs šo pārejas noteikumu 1.punktā noteiktajā termiņā nav iesniedzis paredzētos apliecinājumus un dokumentus, Uzņēmumu reģistrs līdz 2015.gada 1.oktobrim saskaņā ar Ministru kabineta noteikumos par šķīrējtiesu reģistru paredzēto kārtību lemj par pastāvīgās šķīrējtiesas izslēgšanu no šķīrējtiesu reģistra.
