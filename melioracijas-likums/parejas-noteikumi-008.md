@@ -1,0 +1,1 @@
+8. Šā likuma 4.panta pirmās daļas 4.punkts attiecībā uz tehnisko noteikumu izdošanu kokaugu stādījumu ieaudzēšanai lauksaimniecībā izmantojamā meliorētajā zemē stājas spēkā vienlaikus ar attiecīgiem grozījumiem Lauksaimniecības un lauku attīstības likumā.

@@ -1,3 +1,8 @@
-4.pants. (1) Būvju un inženierkomunikāciju būvniecībai (izņemot vienkāršotu rekonstrukciju un vienkāršotu renovāciju), pārvietošanai un rekonstrukcijai, kā arī derīgo izrakteņu ieguvei un meža ieaudzēšanai meliorētajā zemē, ekspluatācijas aizsargjoslās ap meliorācijas būvēm un ierīcēm vai vietās, kur tas var ietekmēt meliorācijas sistēmas darbību, nepieciešami valsts sabiedrības ar ierobežotu atbildību "Zemkopības ministrijas nekustamie īpašumi" izdoti tehniskie noteikumi.
+4.pants. (1) Valsts sabiedrība ar ierobežotu atbildību "Zemkopības ministrijas nekustamie īpašumi" izdod tehniskos noteikumus šādām darbībām meliorētajās zemēs un ekspluatācijas aizsargjoslās ap meliorācijas būvēm un ierīcēm:
+1) būvju un inženierkomunikāciju būvniecībai, pārvietošanai un pārbūvei;
+2) derīgo izrakteņu ieguvei;
+3) meža ieaudzēšanai;
+4) kokaugu stādījumu ieaudzēšanai lauksaimniecībā izmantojamā meliorētajā zemē;
+5) citām darbībām vietās, kur tas var traucēt meliorācijas sistēmas darbības režīmu.
 (2) Tehnisko noteikumu saņemšanai nekustamā īpašuma īpašnieks vai tiesiskais valdītājs vai tā pilnvarota persona iesniedz valsts sabiedrībai ar ierobežotu atbildību "Zemkopības ministrijas nekustamie īpašumi" iesniegumu, kurā pamato ieceri un kuram pievieno paredzētā pasākuma vietas atrašanās plānu mērogā 1:10 000 vai augstākas noteiktības mērogā.
-(3) Ja paredzēta vienkāršota rekonstrukcija un vienkāršota renovācija meliorētajā zemē un ekspluatācijas aizsargjoslās ap meliorācijas būvēm un ierīcēm, atbildīgais projektētājs ar valsts sabiedrību ar ierobežotu atbildību "Zemkopības ministrijas nekustamie īpašumi" saskaņo tehnisko shēmu.
+(3) (Izslēgta ar 05.06.2014. likumu)

@@ -4,6 +4,7 @@
 3) valsts meliorācijas sistēma - valstij piederoša meliorācijas sistēma, kuras ekspluatāciju un uzturēšanu īsteno valsts;
 4) valsts nozīmes meliorācijas sistēma - meliorācijas sistēma, kura atbilst normatīvajos aktos noteiktajiem kritērijiem un parametriem un kuras ekspluatāciju un uzturēšanu nodrošina valsts;
 5) pašvaldības meliorācijas sistēma - pašvaldībai piederoša meliorācijas sistēma, kuras ekspluatāciju un uzturēšanu nodrošina pašvaldība;
+5¹) pašvaldības nozīmes koplietošanas meliorācijas sistēma - koplietošanas meliorācijas sistēma, kas būtiski ietekmē ūdens režīmu pašvaldības teritorijas plānojumā noteiktajās apbūves teritorijās, lauksaimniecības un mežu teritorijās, infrastruktūras objektos (ielās, ceļos, ūdenssaimniecības objektos, pašvaldības polderos);
 6) koplietošanas meliorācijas sistēma - meliorācijas sistēma, kura regulē ūdens režīmu divos vai vairākos zemes īpašumos vai tiesiskajos valdījumos esošā zemē;
 7) viena īpašuma meliorācijas sistēma - meliorācijas sistēma, kura regulē ūdens režīmu vienā zemes īpašumā;
 8) meliorācijas sistēmas ekspluatācija - meliorācijas sistēmas izmantošana projektētajiem mērķiem;

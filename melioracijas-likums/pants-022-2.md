@@ -1,0 +1,3 @@
+22.² pants. (1) Lēmumu par pašvaldības nozīmes koplietošanas meliorācijas sistēmas statusa piešķiršanu pašvaldība pieņem kā administratīvo aktu. Pirms lēmuma pieņemšanas pašvaldība noskaidro un izvērtē to zemes īpašnieku vai tiesisko valdītāju viedokli, kuru zemes robežās atrodas koplietošanas meliorācijas sistēma.
+(2) Atbildību par pašvaldības nozīmes koplietošanas meliorācijas sistēmas ekspluatācijas un uzturēšanas noteikumu pārkāpšanu nosaka, izdodot pašvaldības saistošos noteikumus.
+(3) Pašvaldība mēneša laikā pēc tam, kad pieņemts lēmums par pašvaldības nozīmes koplietošanas meliorācijas sistēmas statusa piešķiršanu, informē par to valsts sabiedrību ar ierobežotu atbildību "Zemkopības ministrijas nekustamie īpašumi".

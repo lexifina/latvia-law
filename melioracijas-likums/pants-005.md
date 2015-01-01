@@ -1,1 +1,1 @@
-5.pants. Būvju un inženiertīklu būvniecība, rekonstrukcija vai renovācija meliorētās zemes robežās vai ārpus tām, vai ekspluatācijas aizsargjoslās ap meliorācijas būvēm un ierīcēm nedrīkst pasliktināt zemes ūdens režīmu un meliorācijas sistēmas darbību.
+5.pants. Būvju un inženiertīklu būvniecība, pārbūve vai atjaunošana meliorētās zemes robežās vai ārpus tām, vai ekspluatācijas aizsargjoslās ap meliorācijas būvēm un ierīcēm nedrīkst pasliktināt zemes ūdens režīmu un meliorācijas sistēmas darbību.

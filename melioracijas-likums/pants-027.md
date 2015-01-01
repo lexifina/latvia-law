@@ -1,1 +1,1 @@
-27.pants. Valsts meliorācijas sistēmas un valsts nozīmes meliorācijas sistēmas būvniecību, rekonstrukciju un renovāciju, ekspluatāciju un uzturēšanu finansē no šim nolūkam paredzētajiem valsts budžeta līdzekļiem.
+27.pants. Valsts meliorācijas sistēmas un valsts nozīmes meliorācijas sistēmas būvniecību, pārbūvi un atjaunošanu, ekspluatāciju un uzturēšanu finansē no šim nolūkam paredzētajiem valsts budžeta līdzekļiem.

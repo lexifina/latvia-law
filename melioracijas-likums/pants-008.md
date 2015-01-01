@@ -2,5 +2,6 @@
 1) valsts meliorācijas sistēma;
 2) valsts nozīmes meliorācijas sistēma;
 3) pašvaldības meliorācijas sistēma;
+3¹) pašvaldības nozīmes koplietošanas meliorācijas sistēma;
 4) koplietošanas meliorācijas sistēma;
 5) viena īpašuma meliorācijas sistēma.

@@ -1,1 +1,1 @@
-19.pants. Valsts meliorācijas sistēmu un valsts nozīmes meliorācijas sistēmu uztur un ekspluatē valsts sabiedrība ar ierobežotu atbildību "Zemkopības ministrijas nekustamie īpašumi".
+19.pants. Valsts meliorācijas sistēmu un valsts nozīmes meliorācijas sistēmu būvniecību, uzturēšanu un ekspluatāciju nodrošina valsts sabiedrība ar ierobežotu atbildību "Zemkopības ministrijas nekustamie īpašumi".
