@@ -1,0 +1,1 @@
+17. Ja darbnespējas lapa ir izsniegta līdz 2015.gada 30.jūnijam un tiek iesniegta Valsts sociālās apdrošināšanas aģentūrai pēc 2015.gada 30.jūnija, tajā ir nepieciešams darba devēja apstiprinājums par apdrošinātās personas neierašanos darbā.

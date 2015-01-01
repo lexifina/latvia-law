@@ -6,5 +6,5 @@ a) nekavējoties par to paziņot darba devējam vai viņa pilnvarotai personai,
 b) nekavējoties, ja to atļauj veselības stāvoklis, pašai griezties pēc pirmās medicīniskās palīdzības;
 3) sakarā ar nelaimes gadījumu darbā vai saslimšanu ar arodslimību izmantot no darba negadījumu speciālā budžeta apmaksāto medicīnisko palīdzību;
 4) pildīt ārsta norādījumus, veicināt izveseļošanos un ievērot vispārējo ārstēšanās režīmu;
-5) apdrošināšanas atlīdzības saņemšanas laikā ievērot VDEĀK noteikto nodarbošanās veidu un režīmu;
+5) apdrošināšanas atlīdzības saņemšanas laikā ievērot Veselības un darbspēju ekspertīzes ārstu valsts komisijas (turpmāk - VDEĀVK) noteikto nodarbošanās veidu un režīmu;
 6) izmantot Valsts sociālās apdrošināšanas aģentūras finansēto profesionālo rehabilitāciju un pārkvalifikāciju.
