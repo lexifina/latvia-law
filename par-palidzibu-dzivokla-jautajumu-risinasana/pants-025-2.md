@@ -1,0 +1,8 @@
+25.² pants. Dzīvokļa pabalsts bērnam bārenim un bērnam, kurš palicis bez vecāku gādības
+(1) Pašvaldība domes saistošajos noteikumos paredzētajā kārtībā maksā dzīvokļa pabalstu bērnam bārenim un bērnam, kurš palicis bez vecāku gādības un atrodas bērnu aprūpes iestādē, audžuģimenē vai pie aizbildņa, no dienas, kad bērns sasniedzis pilngadību, līdz 24 gada vecuma sasniegšanai. Dzīvokļa pabalstu, pamatojoties uz bērna iesniegumu, maksā tā pašvaldība, kuras bāriņtiesa pieņēmusi lēmumu par bērna ārpusģimenes aprūpi.
+(2) Dzīvokļa pabalstu bērnam bārenim un bērnam, kurš palicis bez vecāku gādības, piešķir šādu ar dzīvojamās telpas lietošanu saistītu izdevumu segšanai:
+1) izdevumiem par dzīvojamās telpas lietošanu (īres maksa, nepieciešamie izdevumi par obligāti veicamajām pārvaldīšanas darbībām);
+2) izdevumiem par pakalpojumiem, kas saistīti ar dzīvojamās telpas lietošanu (siltumenerģija apkures un karstā ūdens nodrošināšanai, elektroenerģija, patērētais ūdens, dabasgāze, kanalizācijas vai asenizācijas nodrošināšana, sadzīves atkritumu apsaimniekošana), ja tie nav ietverti īres maksā vai nepieciešamajos izdevumos par obligāti veicamajām pārvaldīšanas darbībām.
+(3) Bērns bārenis vai bērns, kurš palicis bez vecāku gādības, zaudē tiesības saņemt šā likuma 3.panta 1., 2. un 5.punktā paredzēto palīdzību, ja saņem šajā pantā noteikto dzīvokļa pabalstu.
+(4) Dzīvokļa pabalstu bērns bārenis un bērns, kurš palicis bez vecāku gādības, ir tiesīgs saņemt arī tad, ja viņš īrē pašvaldības dzīvojamo telpu, izņemot sociālo dzīvokli.
+(5) Pašvaldība ar domes saistošajiem noteikumiem nosaka šā panta otrajā daļā minēto izdevumu segšanas normatīvus, kā arī dzīvokļa pabalsta apmēra aprēķināšanas un izmaksas kārtību.
