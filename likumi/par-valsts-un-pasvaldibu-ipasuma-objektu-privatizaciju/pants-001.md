@@ -1,6 +1,6 @@
 1. pants. Likuma darbības joma
 1. Šis likums piemērojams:
-1) valsts īpašuma objektiem, izņemot tos valsts īpašuma objektus, kuri privatizējami saskaņā ar likumu "Par īpašuma privatizāciju agroservisa uzņēmumos" un uz kuriem attiecas tikai šā likuma 6.panta ceturtajā daļā paredzētā atbrīvošana no visiem valsts un pašvaldību noteiktajiem nodokļiem un nodevām;
+1) valsts īpašuma objektiem;
 2) pašvaldību īpašuma objektiem.
 2. (Izslēgta ar 24.10.1996. likumu.)
 3. Valsts un pašvaldību īpašumā esošā dzīvojamā fonda privatizāciju nosaka citi likumi.

@@ -13,5 +13,5 @@
 4) dzīvojamo māju privatizācijas procesa finansēšanai.
 3.⁴ Pašvaldības dome nosaka līdzekļu apjomu, kā arī kārtību, kādā tiek finansēti šā panta 3.³ daļā minētie pasākumi.
 4. Darījumus, kurus veic Privatizācijas aģentūra vai pašvaldība, vai - to vārdā - pilnvarotas personas, arī līgumus, kurus tās slēdz ar privatizācijas subjektiem, un citas darbības, kas ir saistītas ar valsts vai pašvaldības īpašuma objekta privatizāciju un objekta īpašuma tiesību nodošanu jaunajam īpašniekam, atbrīvo no visiem valsts un pašvaldību noteiktajiem nodokļiem un nodevām.
-5. Privatizējot specializētos valsts lauksaimniecības kapitālsabiedrības, uz kuriem attiecas Ministru kabineta 1995. gada 22. augusta noteikumi nr.259 "Noteikumi par valsts vajadzībām paturētās kapitāla daļas kompensāciju specializētajos valsts lauksaimniecības uzņēmumos (uzņēmējsabiedrībās)", Privatizācijas aģentūra ienākumus, kas gūti no šo valsts īpašuma objektu privatizācijas, var izlietot minētajos Ministru kabineta noteikumos paredzētajā kārtībā, izmaksājot aprēķināto kompensāciju par sākotnēji apvienoto mantu.
+5. (Izslēgta ar 27.11.2014. likumu)
 6. Privatizācijas sertifikātus kā maksāšanas līdzekli izmanto, ja tas paredzēts privatizācijas noteikumos (privatizācijas projektā) vai privatizācijas paziņojumā.

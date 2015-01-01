@@ -39,4 +39,4 @@
 2) nodrošināt privatizācijas subjekta iesniegto dokumentu konfidencialitāti likumā noteiktajā apjomā;
 3) ievērojot šā likuma noteikumus, savlaicīgi ieskaitīt tās rīcībā esošos privatizācijas rezultātā iegūtos līdzekļus valsts budžetā;
 4) piedāvāt privatizācijas subjektiem, kuriem ir pirmpirkuma tiesības, noslēgt privatizējamā objekta pirkuma līgumu.
-7. Attiecībā uz dokumentiem, kurus saskaņā ar šo likumu un valsts īpašuma objekta privatizācijas noteikumiem valsts īpašuma objekta privatizācijas procesa laikā iesniedz Privatizācijas aģentūrā, netiek piemērotas likuma "Iesniegumu, sūdzību un priekšlikumu izskatīšanas kārtība valsts un pašvaldību institūcijās" normas.
+7. Attiecībā uz dokumentiem, kurus saskaņā ar šo likumu un valsts īpašuma objekta privatizācijas noteikumiem valsts īpašuma objekta privatizācijas procesa laikā iesniedz Privatizācijas aģentūrā, netiek piemērotas Iesniegumu likuma normas.
