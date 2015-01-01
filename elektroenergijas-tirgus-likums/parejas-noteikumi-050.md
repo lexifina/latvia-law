@@ -1,0 +1,1 @@
+50. Šā likuma 19.panta pirmajā daļā minētais sadales sistēmas operators, kas ietilpst vertikāli integrēta elektroapgādes komersanta sastāvā, ne vēlāk kā ar 2016.gada 1.janvāri nodrošina, ka tā identitāte ir nošķirta no vertikāli integrēta elektroapgādes komersanta tirdzniecības struktūras identitātes.

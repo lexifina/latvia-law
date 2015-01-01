@@ -22,8 +22,10 @@
 13¹) netiešā izsole - starpvalstu savienojumu sastrēgumu vadības un pārslodzes novēršanas metode, ar kuru elektroenerģijas tirgus dalībnieks iegūst tiesības noteiktā apjomā pārvadīt elektroenerģiju no viena tirdzniecības apgabala uz citu apgabalu;
 14) obligātais iepirkums - šajā likumā un citos normatīvajos aktos noteikts pienākums iepirkt elektroenerģiju;
 15) palīgpakalpojumi - pakalpojumi, kas nepieciešami elektroenerģijas pārvades sistēmas balansētas darbības nodrošināšanai;
-16) publiskais tirgotājs - elektroenerģijas tirgotājs, kuram šajā likumā un citos normatīvajos aktos ir noteikti īpaši pienākumi un kura licencē iekļautas speciālas prasības publiskā tirgotāja pienākumu izpildes nodrošināšanai;
+16) publiskais tirgotājs - elektroenerģijas tirgotājs, kuram šajā likumā un citos normatīvajos aktos ir noteikti īpaši pienākumi un prasības publiskā tirgotāja pienākumu izpildes nodrošināšanai;
 17) (izslēgts no 01.04.2014. ar 06.11.2013. likumu);
+17¹) aizsargātais lietotājs - trūcīga vai maznodrošināta ģimene (persona) vai daudzbērnu ģimene, kura izlieto elektroenerģiju savā mājsaimniecībā pašas vajadzībām (galapatēriņam);
+17²) aizsargātā lietotāja tirdzniecības pakalpojums - elektroenerģijas tirdzniecība aizsargātajam lietotājam;
 18) sistēmas pakalpojums - elektroenerģijas pārvade vai sadale, kas nodrošina elektroenerģijas plūsmas no ražotājiem līdz lietotājiem;
 19) starpvalstu savienojums - elektrolīnija, kas sasaista atsevišķās valstīs izvietotas pārvades sistēmas;
 19¹) tiešā izsole - starpvalstu savienojumu sastrēgumu vadības un pārslodzes novēršanas metode, ar kuru elektroenerģijas tirgus dalībnieks iegūst tiesības noteiktā apjomā lietot elektroenerģijas pārvades sistēmas operatora izsolīto starpvalstu savienojuma jaudu;

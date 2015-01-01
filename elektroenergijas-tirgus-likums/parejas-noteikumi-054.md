@@ -1,0 +1,1 @@
+54. Regulators līdz 2015.gada 1.martam izdod jaunu šā likuma 16.panta pirmajā daļā minēto normatīvo aktu. Līdz attiecīgā normatīvā akta spēkā stāšanās dienai, bet ne ilgāk kā līdz 2015.gada 1.martam piemērojama ar regulatora padomes 2011.gada 26.oktobra lēmumu Nr. 1/23 apstiprinātā Elektroenerģijas pārvades sistēmas pakalpojumu tarifu aprēķināšanas metodika.

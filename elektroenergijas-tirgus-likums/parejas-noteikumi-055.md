@@ -1,0 +1,1 @@
+55. Šā likuma 30.² pants stājas spēkā 2015.gada 1.jūlijā. Ministru kabinets līdz 2015.gada 30.jūnijam izdod attiecīgajā pantā minētos Ministru kabineta noteikumus, paredzot, ka šie noteikumi stājas spēkā pēc tam, kad Eiropas Komisija ir pieņēmusi lēmumu par pasākuma atbilstību Eiropas Kopienas kopējam tirgum.
