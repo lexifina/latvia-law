@@ -1,1 +1,1 @@
-26. Ministru kabinets noteikumus, kuri paredzēti šā likuma grozījumos, kas stājas spēkā 2010.gada 26.martā, izdod līdz 2010.gada 31.augustam.
+26. Ministru kabinets noteikumus, kuri paredzēti šā likuma grozījumos, kas stājas spēkā 2010.gada 26.martā, izdod līdz 2010.gada 31.augustam, bet noteikumus, kuri paredzēti šā likuma 14.panta 31. un 34.punktā, - ne vēlāk kā līdz 2017.gada 31.decembrim
