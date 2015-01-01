@@ -8,7 +8,7 @@
 5) tehnisko palīglīdzekļu pakalpojumus šā likuma 25.panta pirmajā daļā minētajām personām;
 6) personām ar funkcionāliem traucējumiem darbspējīgā vecumā, kā arī personām ar funkcionāliem traucējumiem, kuras strādā (uzskatāmas par darba ņēmējām vai pašnodarbinātajām saskaņā ar likumu "Par valsts sociālo apdrošināšanu"), sociālās rehabilitācijas pakalpojumus darbspēju atjaunošanai sociālās rehabilitācijas institūcijās. Funkcionālo traucējumu sarakstu apstiprina Ministru kabinets;
 7) cilvēku tirdzniecības upuru sociālo rehabilitāciju. Sociālās rehabilitācijas saņemšanas kārtību un kritērijus personas atzīšanai par cilvēku tirdzniecības upuri nosaka Ministru kabinets;
-8) atbalsta programmu ar celiakiju slimajiem bērniem, kuriem nav noteikta invaliditāte. Atbalsta apjomu un nosacījumus tā saņemšanai nosaka Ministru kabinets;
+8) atbalsta programmu ar celiakiju slimajiem bērniem, turpinot atbalsta sniegšanu šīm personām pēc pilngadības sasniegšanas, ja tās mācās vispārējās izglītības vai profesionālās izglītības iestādē un nav vecākas par 20 gadiem vai studē augstskolā dienas nodaļā (pilna laika klātienē) un nav vecākas par 24 gadiem. Atbalsta apjomu un nosacījumus tā saņemšanai nosaka Ministru kabinets;
 9) atbalstu profesionāla sociālā darba ieviešanai un attīstībai pašvaldībās. Atbalsta veidu, apjomu un nosacījumus tā saņemšanai nosaka Ministru kabinets;
 10) (izslēgts ar 18.12.2008. likumu);
 11) vardarbību veikušu personu sociālās rehabilitācijas pakalpojumus. Sociālās rehabilitācijas pakalpojumu veidu, apjomu, saturu, pakalpojumu saņemšanas nosacījumus un piešķiršanas kārtību nosaka Ministru kabinets.
