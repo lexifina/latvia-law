@@ -1,0 +1,5 @@
+22.¹ pants. Apcietināto veselības aprūpes organizācija
+(1) Apcietināto veselības aprūpi nodrošina izmeklēšanas cietuma medicīnas daļā vai Latvijas Cietumu slimnīcā. Ja apcietinātajiem nepieciešami veselības aprūpes pakalpojumi, kurus nav iespējams nodrošināt izmeklēšanas cietumā vai Latvijas Cietumu slimnīcā, apcietinātos nogādā tādā ārstniecības iestādē ārpus ieslodzījuma vietas, kura sniedz attiecīgos pakalpojumus.
+(2) Ja apcietinātajiem nepieciešama neatliekama medicīniskā palīdzība, kuru ieslodzījuma vietā nav iespējams sniegt, šādu palīdzību viņiem sniedz citā ārstniecības iestādē ārpus ieslodzījuma vietas.
+(3) Izmeklēšanas cietuma administrācija šā panta pirmās daļas otrajā teikumā minētajā gadījumā nodrošina apcietinātā pārvešanu un apsardzi ārstniecības iestādē, savukārt šā panta otrajā daļā minētajā gadījumā - apcietinātā apsardzi visā veselības aprūpes pakalpojuma saņemšanas laikā.
+(4) Izdevumus par veselības aprūpes pakalpojumiem, kuri apcietinātajiem sniegti ārstniecības iestādēs ārpus ieslodzījuma vietas, izmeklēšanas cietuma administrācija apmaksā normatīvajos aktos par veselības aprūpes finansēšanu un organizēšanu noteiktajā apjomā un kārtībā.
