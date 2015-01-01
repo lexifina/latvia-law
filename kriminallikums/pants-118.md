@@ -5,4 +5,4 @@ Par slepkavību
 3) (izslēgts ar 13.12.2012. likumu);
 4) ja to izdarījusi persona, izciešot mūža ieslodzījumu;
 5) ja to izdarījusi organizēta grupa, -
-soda ar mūža ieslodzījumu vai ar brīvības atņemšanu uz laiku no piecpadsmit līdz divdesmit gadiem un ar policijas kontroli uz laiku līdz trim gadiem, konfiscējot mantu vai bez mantas konfiskācijas.
+soda ar mūža ieslodzījumu vai ar brīvības atņemšanu uz laiku no piecpadsmit līdz divdesmit gadiem un ar probācijas uzraudzību uz laiku līdz trim gadiem, konfiscējot mantu vai bez mantas konfiskācijas.
