@@ -12,7 +12,7 @@
 2¹) piespiedu darbs;
 3) naudas sods;
 4) tiesību ierobežošana;
-5) policijas kontrole;
+5) (izslēgts ar 08.07.2011. likumu);
 5¹) probācijas uzraudzība;
 6) (izslēgts ar 13.12.2012. likumu).
 (3) Personai, kura izdarījusi kriminālpārkāpumu vai mazāk smagu noziegumu, prokurors, sastādot priekšrakstu par sodu, var noteikt naudas sodu vai piespiedu darbu, kā arī papildsodus - tiesību ierobežošanu vai probācijas uzraudzību.
