@@ -1,2 +1,0 @@
-10.¹ pants. Valsts nodeva par Valsts tehniskās uzraudzības aģentūrā reģistrējamo transportlīdzekļu reģistrāciju
-Pirms transportlīdzekļu reģistrācijas Valsts tehniskās uzraudzības aģentūrā samaksājama transportlīdzekļu reģistrācijas valsts nodeva. Valsts tehniskās uzraudzības aģentūrā reģistrējamo transportlīdzekļu reģistrācijas valsts nodevas likmes, maksāšanas kārtību un atvieglojumus nosaka Ministru kabinets.
