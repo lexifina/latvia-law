@@ -1,5 +1,5 @@
-534.¹ pants. Pieteikuma nosūtīšana lietas dalībniekiem
-(1) Kad tiesā saņemts pieteikums par izpildu raksta izsniegšanu, pieteikumu nekavējoties nosūta pārējiem lietas dalībniekiem ierakstītā pasta sūtījumā, nosakot rakstveida paskaidrojuma iesniegšanas termiņu, kas nav īsāks par 10 dienām un ilgāks par 15 dienām no pieteikuma nosūtīšanas dienas.
+534.¹ pants. Pieteikuma par izpildu raksta izsniegšanu pastāvīgās šķīrējtiesas sprieduma piespiedu izpildei nosūtīšana lietas dalībniekiem
+(1) Kad rajona (pilsētas) tiesā saņemts pieteikums par izpildu raksta izsniegšanu pastāvīgās šķīrējtiesas sprieduma piespiedu izpildei, to nekavējoties nosūta pārējiem lietas dalībniekiem ierakstītā pasta sūtījumā, nosakot rakstveida paskaidrojuma iesniegšanas termiņu, kas nav īsāks par 20 dienām no pieteikuma nosūtīšanas dienas.
 (2) Paskaidrojumā lietas dalībnieks norāda:
 1) vai viņš atzīst pieteikumu pilnībā vai kādā tā daļā;
 2) savus iebildumus pret pieteikumu un to pamatojumu;

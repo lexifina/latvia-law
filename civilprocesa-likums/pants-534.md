@@ -1,9 +1,9 @@
-534.pants. Pieteikuma iesniegšana par pastāvīgās šķīrējtiesas nolēmuma piespiedu izpildi
-(1) Pieteikumam par izpildu raksta izsniegšanu pievieno:
-1) pastāvīgās šķīrējtiesas nolēmumu;
-2) dokumentu, kas apliecina pušu rakstveida vienošanos par strīda nodošanu izskatīšanai šķīrējtiesā, vai notariāli apliecinātu tā norakstu;
+534.pants. Pieteikuma iesniegšana par izpildu raksta izsniegšanu pastāvīgās šķīrējtiesas sprieduma piespiedu izpildei
+(1) Ja pastāvīgās šķīrējtiesas spriedums izpildāms Latvijā un labprātīgi netiek pildīts, ieinteresētā puse pieteikumu par izpildu raksta izsniegšanu pastāvīgās šķīrējtiesas sprieduma piespiedu izpildei var iesniegt rajona (pilsētas) tiesā pēc parādnieka deklarētās dzīvesvietas, bet, ja tādas nav, - pēc parādnieka dzīvesvietas vai juridiskās adreses vai pēc šķīrējtiesas sprieduma izpildes vietas.
+(2) Pieteikumam par izpildu raksta izsniegšanu pastāvīgās šķīrējtiesas sprieduma piespiedu izpildei pievieno:
+1) pastāvīgās šķīrējtiesas sprieduma norakstu;
+2) šķīrējtiesas līgumu, kas apliecina pušu rakstveida vienošanos par civiltiesiskā strīda nodošanu izskatīšanai šķīrējtiesā, vai apliecinātu tā norakstu;
 3) pieteikuma norakstus atbilstoši pārējo lietas dalībnieku skaitam;
-4) dokumentu par valsts nodevas samaksu;
-5) izziņu, kas apliecina fiziskās personas deklarēto dzīvesvietu.
-(2) Dokumentus iesniedz valsts valodā vai kopā ar to notariāli apliecinātu tulkojumu valsts valodā.
-(3) Pastāvīgās šķīrējtiesas nolēmumu pēc puses lūguma var izsniegt atpakaļ, aizstājot to ar apliecinātu norakstu.
+4) dokumentus, kas apstiprina valsts nodevas un ar pieteikumu par izpildu raksta izsniegšanu pastāvīgās šķīrējtiesas sprieduma piespiedu izpildei saistīto izdevumu samaksu.
+(3) Šā panta otrās daļas 4.punktā minētos dokumentus var nepievienot, ja pieteikumā iekļauj ziņas par veikto valsts nodevas maksājumu un ar pieteikuma par izpildu raksta izsniegšanu pastāvīgās šķīrējtiesas sprieduma piespiedu izpildei saistīto izdevumu samaksu, norādot maksātāja identifikācijas datus - vārdu, uzvārdu, personas kodu vai nosaukumu un reģistrācijas numuru, ja tie atšķiras no pieteicēja datiem, kā arī maksājuma rīkojuma datumu un numuru. Veicot maksājumu, maksājuma rīkojuma mērķī norāda informāciju par parādnieku - viņa vārdu, uzvārdu, personas kodu vai nosaukumu un reģistrācijas numuru. Šajā gadījumā rajona (pilsētas) tiesa minētos maksājumus atzīst par saņemtiem valsts budžetā, izmantojot budžeta elektronisko norēķinu sistēmu.
+(4) Šķīrējtiesas līgumu, kas apliecina pušu rakstveida vienošanos par strīda nodošanu izskatīšanai šķīrējtiesā, pēc puses lūguma var izsniegt atpakaļ, aizstājot to ar apliecinātu norakstu.

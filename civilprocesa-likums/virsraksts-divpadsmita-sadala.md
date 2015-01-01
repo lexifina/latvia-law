@@ -1,2 +1,2 @@
 Divpadsmitā sadaļa
-Šķīrējtiesas izveidošana un darbība
+Pastāvīgās šķīrējtiesas sprieduma izpildes kārtība
