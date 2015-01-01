@@ -1,0 +1,1 @@
+12. Šajā likumā paredzētās valsts kapitāla daļu atsavināšanu veicošās institūcijas uzdevumu pilda valsts akciju sabiedrība "Privatizācijas aģentūra" (turpmāk - Aģentūra) līdz brīdim, kad Ministru kabinets pieņems lēmumu par valsts kapitāla daļu atsavināšanu veicošo institūciju un Aģentūra būs nodevusi tās turējumā esošās kapitāla daļas.

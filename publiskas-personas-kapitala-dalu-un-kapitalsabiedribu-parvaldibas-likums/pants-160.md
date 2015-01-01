@@ -1,0 +1,5 @@
+160.pants. Atvasinātas publiskas personas kapitāla daļu nodošana bez atlīdzības valstij vai citai atvasinātai publiskai personai
+(1) Atvasināta publiska persona sev piederošās kapitāla daļas var nodot bez atlīdzības valsts vai citas atvasinātas publiskas personas īpašumā ar ikreizēju attiecīgās atvasinātās publiskās personas augstākās lēmējinstitūcijas lēmumu, ievērojot Komerclikuma un attiecīgās kapitālsabiedrības statūtu noteikumus.
+(2) Atvasinātas publiskas personas kapitāla daļas var nodot valsts īpašumā, ja Ministru kabinets izteicis šādu lūgumu un pieņēmis attiecīgu lēmumu.
+(3) Atvasināta publiska persona kapitāla daļas var nodot citas atvasinātas publiskas personas īpašumā, ja attiecīgā atvasinātā publiskā persona izteikusi šādu lūgumu un pieņēmusi attiecīgu lēmumu.
+(4) Atvasinātas publiskas personas kapitāla daļu nodošanai valsts vai citas atvasinātas publiskas personas īpašumā nepiemēro šā likuma H sadaļas noteikumus par atsavināšanu, kā arī šā likuma 5. un 9.panta noteikumus par līdzdalības iegūšanu vai izbeigšanu vai izšķirošās ietekmes iegūšanu vai izbeigšanu.

@@ -1,0 +1,2 @@
+126.pants. Kapitālsabiedrības darbības turpināšana
+Ja kapitālsabiedrība tiek likvidēta, pamatojoties uz dibināšanas dokumentos minētajiem noteikumiem par darbības izbeigšanu vai publiskas personas augstākās lēmējinstitūcijas lēmumu, attiecīgās publiskās personas augstākā lēmējinstitūcija līdz mantas sadales sākumam var pieņemt lēmumu par kapitālsabiedrības darbības turpināšanu vai kapitālsabiedrības reorganizāciju.

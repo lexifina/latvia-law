@@ -1,0 +1,2 @@
+20.pants. Kapitāla daļu turētāja pārstāvja vai pilnvarotās personas pienākumu pildīšanai nepieciešamie līdzekļi
+Kapitāla daļu turētājs dod kapitāla daļu turētāja pārstāvim vai pilnvarotajai personai pienākumu veikšanai nepieciešamos līdzekļus, bet, ja kapitāla daļu turētāja pārstāvis vai pilnvarotā persona izlieto savus līdzekļus, kapitāla daļu turētājs šos izdevumus nekavējoties atlīdzina, tiklīdz kapitāla daļu turētāja pārstāvis vai pilnvarotā persona iesniedz šos izdevumus attaisnojošus dokumentus.

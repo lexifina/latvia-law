@@ -1,0 +1,8 @@
+18.pants. Publiski privātās kapitālsabiedrības vai privātās kapitālsabiedrības kapitāla daļu turētāja pārstāvja pilnvarotajām personām noteiktie ierobežojumi
+(1) Kapitāla daļu turētāja pārstāvja pilnvarotā persona drīkst veikt tikai tādas darbības, ko paredz dalībnieka (akcionāra) pienākumu un tiesību īstenošana kapitālsabiedrībā un kas ir ar to cieši saistītas.
+(2) Ja pilnvarotā persona papildus uzdotajai lietai izpildījusi vēl kādu citu lietu, tā attiecībā uz šo lietu ir pakļauta Civillikuma noteikumiem par neuzdotu lietvedību.
+(3) Pilnvarotajai personai ir aizliegts atteikties no balsstiesību izmantošanas publiski privātās kapitālsabiedrības vai privātās kapitālsabiedrības dalībnieku (akcionāru) sapulcē.
+(4) Par atteikšanos no balsstiesību izmantošanas uzskatāma arī neierašanās dalībnieku (akcionāru) sapulcē pēc attiecīga pilnvarojuma saņemšanas, ja pilnvarotā persona par nespēju piedalīties dalībnieku (akcionāru) sapulcē nav paziņojusi kapitāla daļu turētāja pārstāvim laikā, kas nodrošina iespēju pilnvarot citu personu dalībai attiecīgajā dalībnieku (akcionāru) sapulcē.
+(5) Pilnvarotā persona nedrīkst savus pienākumus deleģēt citai personai - veikt pārpilnvarojumu (substitūciju).
+(6) Pilnvarotā persona nedrīkst pārkāpt tai dotā balsošanas uzdevuma ietvarus, un tai jārīkojas pēc kapitāla daļu turētāja pārstāvja norādījumiem.
+(7) Pilnvarotā persona, kas nav valsts amatpersona, saņem kapitāla daļu turētāja pārstāvja iepriekšēju rakstveida piekrišanu pilnvarotās personas ievēlēšanai par kapitālsabiedrības valdes vai padomes locekli, kontrolieri vai revidentu. Pilnvarotā persona, kas ir valsts amatpersona, saņem amatu savienošanas atļauju, ievērojot likumā "Par interešu konflikta novēršanu valsts amatpersonu darbībā" noteikto kārtību.

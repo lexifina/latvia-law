@@ -1,0 +1,2 @@
+41.pants. Publiski privātās kapitālsabiedrības pārvaldē ievērojamās prasības
+Publiski privātās kapitālsabiedrības pārvaldē ievērojamas visas šā likuma B, D un E sadaļā noteiktās prasības un ierobežojumi, kas piemērojami publiskas personas kapitālsabiedrības valdei un padomei, kā arī valdes un padomes locekļiem (tai skaitā padomes veidošanas kritēriji, prasības valdes un padomes locekļiem, mēneša atlīdzības noteikšana, prēmiju izmaksāšanas ierobežojumi un citas šajā likumā noteiktās prasības).

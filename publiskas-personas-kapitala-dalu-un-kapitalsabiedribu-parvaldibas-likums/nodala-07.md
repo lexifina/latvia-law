@@ -1,0 +1,2 @@
+VII nodaļa
+Publiskas personas kapitālsabiedrības un publiski privātās kapitālsabiedrības darbības regulējuma vispārīgie noteikumi

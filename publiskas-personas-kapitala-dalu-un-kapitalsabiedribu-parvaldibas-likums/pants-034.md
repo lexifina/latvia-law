@@ -1,0 +1,4 @@
+34.pants. Kapitālsabiedrības darbības rezultātu izvērtēšana
+(1) Atvasinātas publiskas personas kapitāla daļu turētāja pārstāvis katru gadu vispusīgi izvērtē kapitālsabiedrības finanšu darbības efektivitātes un vidēja termiņa darbības stratēģijās noteikto finanšu un nefinanšu mērķu sasniegšanu.
+(2) Izvērtējot mērķu īstenošanas progresu, atvasinātas publiskas personas kapitāla daļu turētāja pārstāvis atbilstoši nepieciešamībai pieņem lēmumu par turpmāko rīcību, lai nodrošinātu aktīvu atdeves un vērtības pieaugumu, kā arī vidēja termiņa darbības stratēģijā noteikto mērķu sasniegšanu.
+(3) Atvasinātas publiskas personas augstākā lēmējinstitūcija var noteikt kārtību, kādā atvasinātas publiskas personas kapitāla daļu turētāja pārstāvis izvērtē šā panta pirmajā daļā minētos kapitālsabiedrības darbības rezultātus.

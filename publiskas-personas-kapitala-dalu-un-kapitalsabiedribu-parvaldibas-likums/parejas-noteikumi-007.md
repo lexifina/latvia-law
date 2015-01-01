@@ -1,0 +1,1 @@
+7. Līdz šo pārejas noteikumu 6.punkta 1., 2., 3. un 5.apakšpunktā noteikto dokumentu izstrādei kapitāla daļu turētāji, kapitālsabiedrības un to izpildinstitūcijas var pildīt likumā noteiktos uzdevumus bez koordinācijas institūcijas izstrādātām vadlīnijām.

@@ -1,0 +1,3 @@
+40.pants. Personas paraksta publiskas apliecināšanas pienākuma izņēmumi
+(1) Publiskas personas kapitāla daļu turētāja pārstāvja paraksts uz pieteikuma par publiskas personas kapitālsabiedrības un publiski privātās kapitālsabiedrības ierakstīšanu komercreģistrā nav publiski jāapliecina.
+(2) Publiski nav jāapliecina arī personas paraksts par prokūras izdošanu, atsaukšanu vai tās apjoma izmaiņām, kā arī uz komercreģistrā iesniedzamam pieteikumam pievienojamiem dokumentiem, kas minēti Komerclikuma 10.panta otrās daļas 2.punktā, izņemot šā punkta "f" un "g" apakšpunktā noteikto personas piekrišanu ieņemt kapitālsabiedrības valdes locekļa vai likvidatora amatu.

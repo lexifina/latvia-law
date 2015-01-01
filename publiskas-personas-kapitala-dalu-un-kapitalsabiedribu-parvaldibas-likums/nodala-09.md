@@ -1,0 +1,2 @@
+IX nodaļa
+Publiskas personas kapitālsabiedrības un publiski privātās kapitālsabiedrības pamatkapitāls

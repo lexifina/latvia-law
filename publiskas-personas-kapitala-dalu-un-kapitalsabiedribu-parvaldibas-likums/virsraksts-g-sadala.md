@@ -1,0 +1,2 @@
+G sadaļa
+Publiskas personas kapitālsabiedrību reorganizācija

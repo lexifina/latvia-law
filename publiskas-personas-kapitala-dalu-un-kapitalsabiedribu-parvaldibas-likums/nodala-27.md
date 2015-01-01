@@ -1,0 +1,2 @@
+XXVII nodaļa
+Kapitālsabiedrības pamatkapitāla palielināšana

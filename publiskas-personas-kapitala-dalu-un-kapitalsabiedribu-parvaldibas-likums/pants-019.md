@@ -1,0 +1,4 @@
+19.pants. Kapitāla daļu turētāja pārstāvja pienākumi publiski privātajā kapitālsabiedrībā vai privātajā kapitālsabiedrībā
+(1) Kapitāla daļu turētāja pārstāvis sniedz pilnvarotajai personai tās pienākumu sekmīgai veikšanai nepieciešamo informāciju un dokumentus par kapitālsabiedrību.
+(2) Kapitāla daļu turētāja pārstāvis izsniedz pilnvarotajai personai šā likuma 17.panta otrajā daļā minēto pilnvaru, balsošanas uzdevumu, citus dokumentus un informāciju termiņā, kas nodrošina pilnvarotajai personai iespēju veikt tās pienākumus.
+(3) Kapitāla daļu turētāja pārstāvis publiskas personas kontrolētā kapitālsabiedrībā veicina likumos, Ministru kabineta noteikumos un apstiprinātajās nozares attīstības koncepcijās, stratēģijās un citos nozares attīstību reglamentējošos dokumentos noteikto mērķu un uzdevumu īstenošanu, kā arī šā likuma nosacījumu izpildi.

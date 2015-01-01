@@ -1,0 +1,17 @@
+31.pants. Valdes un padomes locekļu nominēšanas kārtība
+(1) Valsts kapitāla daļu turētājs nodrošina kandidāta nomināciju kapitālsabiedrības padomes vai valdes (ja kapitālsabiedrībā nav izveidota padome) locekļa amatam. Kapitālsabiedrības padome (ja tāda ir izveidota) nodrošina kandidāta nomināciju kapitālsabiedrības valdes locekļa amatam.
+(2) Valdes un padomes locekļa nominēšanas process atbilst korporatīvās pārvaldības labās prakses principiem, nodrošina atklātu, godīgu un profesionālu valdes un padomes locekļu atlasi, kas veicina profesionālas un kompetentas kapitālsabiedrības pārvaldes institūcijas izveidi.
+(3) Sākotnēji valsts kapitāla daļu turētājs vai valsts kapitālsabiedrības padome sagatavo potenciālo valdes vai padomes locekļu sarakstu, kas tiek veidots, pamatojoties uz attiecīgajam valdes vai padomes locekļa kandidātam nepieciešamās profesionalitātes un kompetences kritērijiem. Iespējamie valdes un padomes locekļu kandidāti tiek atlasīti, organizējot publisku kandidātu pieteikšanās procedūru, piesaistot personāla atlases konsultantus vai izmantojot citas personāla atlases metodes.
+(4) Par valdes vai padomes locekļa kandidātu nedrīkst izvirzīt personu:
+1) kurai nav augstākās izglītības;
+2) kura ir bijusi sodīta par tīšu noziedzīgu nodarījumu, neatkarīgi no sodāmības dzēšanas vai noņemšanas;
+3) kurai, pamatojoties uz kriminālprocesa ietvaros pieņemtu nolēmumu, ir atņemtas tiesības veikt noteiktu vai visu veidu komercdarbību vai citu profesionālo darbību;
+4) kuru tiesa atzinusi par maksātnespējīgu parādnieku.
+(5) Valsts kapitāla daļu turētājs vai kapitālsabiedrības padome (ja tāda ir izveidota) izveido nominācijas komisiju, kuras uzdevums ir izvērtēt valdes vai padomes locekļu kandidātus. Nominācijas komisijā iekļauj valsts kapitāla daļu turētāja vai padomes (ja tāda ir izveidota) un koordinācijas institūcijas izvirzītos pārstāvjus, kā arī neatkarīgus ekspertus un, ja nepieciešams, novērotājus ar padomdevēja tiesībām.
+(6) Nominācijas komisija no šā panta trešajā daļā minētā pretendentu saraksta izvirza kandidātu (kandidātus) ievēlēšanai valdes vai padomes locekļa amatā.
+(7) Valsts kapitāla daļu turētājam vai padomei ir tiesības, pamatoti argumentējot, noraidīt nominācijas komisijas izvirzītos kandidātus. Tādā gadījumā šajā pantā minētais nepieciešamo kandidātu atlases process tiek organizēts atkārtoti.
+(8) Šā panta nosacījumi, izņemot ceturtajā daļā noteiktos ierobežojumus, nav piemērojami, ja:
+1) valsts kapitāla daļu turētājs vai padome pēc valdes vai padomes locekļa iepriekšējā pilnvaru termiņā paveiktā izvērtēšanas nolemj izvirzīt viņu uz nākamo pilnvaru termiņu;
+2) valdes vai padomes locekļa kandidātu nav iespējams nominēt termiņā, kas nodrošinātu kapitālsabiedrības institūcijas rīcībspēju. Šādā gadījumā valsts kapitāla daļu turētājs vai padome (ja tāda ir izveidota) par valdes vai padomes locekli ieceļ kandidātu, kas atbilst attiecīgajam valdes vai padomes locekļa kandidātam nepieciešamās profesionalitātes un kompetences kritērijiem.
+(9) Šā panta astotās daļas 2.punktā noteiktajā kārtībā ievēlētā persona amata pienākumus pilda līdz brīdim, kad šajā pantā noteiktajā nominēšanas kārtībā valsts kapitāla daļu turētājs vai valsts kapitālsabiedrības padome amatā ievēlē viņu vai citu kandidātu.
+(10) Ministru kabinets nosaka kārtību, kādā nominē kandidātus valdes un padomes locekļu amatiem kapitālsabiedrībās, kurās valstij kā dalībniekam (akcionāram) ir tiesības izvirzīt valdes vai padomes locekļus, un valdes locekļus valsts kapitālsabiedrībās, kurās izveidota padome.

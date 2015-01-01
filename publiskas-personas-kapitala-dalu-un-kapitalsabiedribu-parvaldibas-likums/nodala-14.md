@@ -1,0 +1,2 @@
+XIV nodaļa
+Pamatkapitāla izmaiņas

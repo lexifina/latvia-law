@@ -1,0 +1,6 @@
+97.pants. Kārtējās akcionāru sapulces sasaukšana
+(1) Kārtējo akcionāru sapulci valde sasauc laikā, kas nodrošina iespēju gada pārskatu apstiprināt likumā paredzētajā termiņā.
+(2) Ja valde nav sasaukusi kārtējo akcionāru sapulci paredzētajā termiņā, to sasauc padome (ja tāda ir izveidota) vai akciju turētāja pārstāvis ne vēlāk kā piecu darbdienu laikā no dienas, kad valdei bija jāsasauc akcionāru sapulce. Šāda valdes rīcība var būt par pamatu padomes vai akcionāru sapulces lēmumam par valdes atsaukšanu, pamatojoties uz pienākumu neizpildi.
+(3) Ja padome (ja tāda ir izveidota) nav sasaukusi kārtējo akcionāru sapulci šā panta otrajā daļā minētajā gadījumā un termiņā, lēmumu par akcionāru sapulces sasaukšanu pieņem akciju turētāja pārstāvis ne vēlāk kā piecu darbdienu laikā no dienas, kad padomei bija jāsasauc akcionāru sapulce.
+(4) Ja padome (ja tāda ir izveidota) šā panta otrajā daļā minētajā gadījumā nesasauc akcionāru sapulci bez pamatota iemesla, šāda padomes rīcība var būt par pamatu akcionāru sapulces lēmumam atsaukt padomes locekļus, pamatojoties uz pienākumu neizpildi.
+(5) Ja rodas strīds par to, vai valdes un padomes locekļu rīcībai ir pamatots iemesls, pierādīšanas pienākums ir attiecīgi valdes un padomes locekļiem.

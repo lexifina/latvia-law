@@ -1,0 +1,2 @@
+XIX nodaļa
+Kapitālsabiedrības darbības izbeigšanas vispārīgie noteikumi

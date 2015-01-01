@@ -1,0 +1,2 @@
+XXVIII nodaļa
+Publiskas personas kapitālsabiedrības reorganizācija par privāto kapitālsabiedrību

@@ -1,0 +1,2 @@
+32.pants. Koordinācijas institūcijas atzinuma saņemšanas kārtība
+Atvasināta publiska persona, pirms tiek pieņemts šā likuma 5., 7. un 9.pantā minētais lēmums par atvasinātas publiskas personas līdzdalības iegūšanu vai izšķirošās ietekmes iegūšanu vai izbeigšanu kapitālsabiedrībā, atvasinātas publiskas personas līdzdalības pārvērtēšanu vai līdzdalības izbeigšanu kapitālsabiedrībā, var lūgt koordinācijas institūciju sniegt atzinumu. Koordinācijas institūcijas atzinumu sniedz mēneša laikā. Koordinācijas institūcijas atzinumam ir ieteikuma raksturs.

@@ -1,0 +1,2 @@
+157.pants. Publiskas personas kapitālsabiedrības reorganizācijas nosacījumi
+Publiskas personas augstākā lēmējinstitūcija ir tiesīga noteikt reorganizācijas nosacījumus. Ja, reorganizējot publiskas personas kapitālsabiedrību, izveidojas privātā kapitālsabiedrība, kurā kapitāla daļas pieder vairākām atvasinātām publiskām personām vai valstij un atvasinātai publiskai personai vai atvasinātām publiskām personām, par reorganizācijas nosacījumiem publiskas personas vienojas pirms tam, kad tiek pieņemts lēmums par reorganizācijas uzsākšanu.

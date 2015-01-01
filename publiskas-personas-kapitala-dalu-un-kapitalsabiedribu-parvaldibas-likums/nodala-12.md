@@ -1,0 +1,2 @@
+XII nodaļa
+Atsevišķi kapitālsabiedrības pārvaldes jautājumi

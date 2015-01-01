@@ -1,0 +1,2 @@
+XXVI nodaļa
+Vispārīgie noteikumi kapitālsabiedrības kļūšanai par publiski privāto kapitālsabiedrību vai privāto kapitālsabiedrību

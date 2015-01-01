@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par valsts un pašvaldību kapitāla daļām un kapitālsabiedrībām" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2002, 21.nr.; 2003, 15.nr.; 2004, 23.nr.; 2005, 2, 15.nr.; 2006, 24.nr.; 2008, 1.nr.; 2009, 2., 6., 9., 12., 14.nr.; Latvijas Vēstnesis, 2009, 136., 205.nr.; 2013, 119., 193., 194.nr.; 2014, 75.nr.).

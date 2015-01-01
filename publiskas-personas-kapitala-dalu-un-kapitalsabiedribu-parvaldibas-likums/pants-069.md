@@ -1,0 +1,6 @@
+69.pants. Kārtējās dalībnieku sapulces sasaukšana
+(1) Kārtējo dalībnieku sapulci valde sasauc laikā, kas nodrošina iespēju gada pārskatu apstiprināt šajā likumā paredzētajā termiņā.
+(2) Ja valde nav sasaukusi kārtējo dalībnieku sapulci paredzētajā termiņā, to sasauc padome (ja tāda ir izveidota) vai kapitāla daļu turētāja pārstāvis ne vēlāk kā piecu darbdienu laikā no dienas, kad valdei bija jāsasauc dalībnieku sapulce. Šāda valdes rīcība var būt par pamatu padomes vai dalībnieku sapulces lēmumam par valdes atsaukšanu, pamatojoties uz pienākumu neizpildi.
+(3) Ja padome (ja tāda ir izveidota) nav sasaukusi kārtējo dalībnieku sapulci šā panta otrajā daļā minētajā gadījumā un termiņā, lēmumu par dalībnieku sapulces sasaukšanu pieņem kapitāla daļu turētāja pārstāvis ne vēlāk kā piecu darbdienu laikā no dienas, kad padomei bija jāsasauc dalībnieku sapulce.
+(4) Ja padome (ja tāda ir izveidota) šā panta otrajā daļā minētajā gadījumā nesasauc dalībnieku sapulci bez pamatota iemesla, šāda padomes rīcība var būt par pamatu dalībnieku sapulces lēmumam atsaukt padomes locekļus, pamatojoties uz pienākumu neizpildi.
+(5) Ja rodas strīds par to, vai valdes un padomes locekļu rīcībai ir pamatots iemesls, pierādīšanas pienākums ir attiecīgi valdes un padomes locekļiem.

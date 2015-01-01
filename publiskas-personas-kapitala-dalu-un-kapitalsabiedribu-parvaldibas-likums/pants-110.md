@@ -1,0 +1,3 @@
+110.pants. Padomes sēžu sasaukšana
+(1) Padomes sēdi sasauc padomes priekšsēdētājs, viņa prombūtnes laikā vai viņa uzdevumā - padomes priekšsēdētāja vietnieks. Tiesības pieprasīt padomes sēdes sasaukšanu ir katram padomes loceklim, valdei un akciju turētājam, pamatojot sēdes sasaukšanas nepieciešamību un nolūku.
+(2) Ja padomes darba kārtībā iekļauti šā likuma 107.panta otrajā daļā minētie jautājumi, bet padome nav lemttiesīga tādēļ, ka sēdē nepiedalās nepieciešamais padomes locekļu skaits, šo jautājumu neizskatīšana padomes sēdē nav šķērslis tam, lai tos izskatītu akcionārs un akcionāru sapulce.

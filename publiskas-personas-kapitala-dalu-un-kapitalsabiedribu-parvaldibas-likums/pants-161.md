@@ -1,0 +1,3 @@
+161.pants. Kapitālsabiedrības pārveides pamatnosacījumi
+(1) Publiskas personas kapitālsabiedrību, kura izdod administratīvos aktus vai administrē valsts nodevu un kuras ienākumi veidojas no dotācijas (subsīdijas) vai pakalpojuma sniegšanas, izpildot tai deleģētos valsts pārvaldes uzdevumus, pārveido par iestādi vai publisko aģentūru, ja vien publiskas personas augstākā lēmējinstitūcija, ievērojot šā likuma 162.panta otrajā daļā noteikto, nav lēmusi citādi.
+(2) Kapitālsabiedrību pārveido par iestādi, ja vien publiskas personas augstākās lēmējinstitūcijas lēmumā par pārveidi nav noteikts citādi un pārveidojamā kapitālsabiedrība atbilst Publisko aģentūru likumā noteiktajām publiskas aģentūras pazīmēm.

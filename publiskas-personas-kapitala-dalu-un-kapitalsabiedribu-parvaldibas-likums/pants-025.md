@@ -1,0 +1,6 @@
+25.pants. Vērtējums par valsts līdzdalības nepieciešamību kapitālsabiedrībās
+(1) Valsts līdzdalības iegūšanu vai izbeigšanu, kā arī izšķirošās ietekmes iegūšanu vai izbeigšanu kapitālsabiedrībā var ierosināt nozares ministrija vai valsts kapitāla daļu turētājs, iesniedzot Ministru kabinetam attiecīgu priekšlikumu. Priekšlikumam pievieno vērtējumu par līdzdalības vai izšķirošās ietekmes iegūšanas atbilstību Valsts pārvaldes iekārtas likuma 88.panta pirmās daļas nosacījumiem attiecībā uz publiskas personas līdzdalību kapitālsabiedrībās, kā arī vispārējo stratēģisko mērķi, ko priekšlikuma iesniedzējs piedāvā valstij sasniegt ar līdzdalību kapitālsabiedrībā.
+(2) Šā panta pirmajā daļā minētajam Ministru kabinetā iesniegtajam priekšlikumam pievieno koordinācijas institūcijas atzinumu.
+(3) Koordinācijas institūcija gādā, lai atbilstoši nepieciešamībai, bet ne retāk kā reizi piecos gados valsts kapitāla daļu turētājs Ministru kabinetam iesniedz vērtējumu par valsts līdzdalību attiecīgajā kapitālsabiedrībā un tās atbilstību šā likuma 4.panta nosacījumiem.
+(4) Ja šā panta trešajā daļā minētajā vērtējumā sniegts priekšlikums saglabāt valsts līdzdalību kapitālsabiedrībā, tajā ietver vispārējo stratēģisko mērķi.
+(5) Koordinācijas institūcija izstrādā valsts līdzdalības vispārējo stratēģisko mērķu noteikšanas vadlīnijas.
