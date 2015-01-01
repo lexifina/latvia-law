@@ -1,1 +1,1 @@
-20. Projekti, kas paredz naftas un dabasgāzes ieguvi komerciālos nolūkos.
+20. Projekti, kas paredz ogļūdeņražu ieguvi komerciālos nolūkos.

@@ -8,8 +8,8 @@
 a) ja izmaiņas atbilst šā likuma 1.pielikumā minētajām robežvērtībām,
 b) ja izmaiņu rezultātā tiks sasniegtas vai pārsniegtas šā likuma 1.pielikumā minētās robežvērtības,
 c) ja izmaiņas paredzētas šā likuma 1.pielikumā minētajā objektā, kuram ietekmes novērtējums līdz šim nav veikts, un izmaiņu apjoms ir 50 procenti no šā likuma 1.pielikumā minētās robežvērtības.
-(2) Ja paredzētajai darbībai ietekmes novērtējums nav nepieciešams, reģionālās vides pārvaldes vadītājs Ministru kabineta noteiktajā kārtībā izdod tehniskos noteikumus katrai konkrētajai paredzētajai darbībai. Ministru kabinets nosaka paredzētās darbības, kuru veikšanai nepieciešami tehniskie noteikumi, prasības attiecībā uz tehnisko noteikumu saturu, to pieprasīšanas un sagatavošanas kārtību.
-(2¹) Tehniskajos noteikumos ietvertās vides aizsardzības prasības reģionālās vides pārvaldes vadītājs var grozīt visā tehnisko noteikumu darbības laikā.
+(2) (Izslēgta no 01.01.2015. ar 05.06.2014. likumu)
+(2¹) (Izslēgta no 01.01.2015. ar 05.06.2014. likumu)
 (3) Stratēģisko novērtējumu veic plānošanas dokumentiem, arī tiem, kuri saistīti ar Eiropas Savienības līdzfinansējuma izmantošanu, un to grozījumiem, ja attiecīgos plānošanas dokumentus saskaņā ar normatīvajiem aktiem vai citiem noteikumiem izstrādā vai pieņem Saeima, Ministru kabinets, pašvaldība, valsts pašvaldību institūcija, cita atvasināta publiska persona vai cits subjekts, kuram deleģēts valsts pārvaldes uzdevums vai valsts īpašuma apsaimniekošana:
 1) lauksaimniecības, mežsaimniecības, zivsaimniecības, enerģētikas, rūpniecības, transporta, atkritumu apsaimniekošanas, ūdens resursu apsaimniekošanas, telekomunikāciju, tūrisma, derīgo izrakteņu ieguves jomā un plānošanas dokumentiem, kuri saistīti ar reģionālo attīstību, zemes izmantošanu, teritoriju plānojumiem un ietver pamatnosacījumus šā likuma 1. vai 2.pielikumā paredzēto darbību īstenošanai;
 2) kas var būtiski ietekmēt Eiropas nozīmes aizsargājamo dabas teritoriju (Natura 2000), izņemot plānošanas dokumentus, kuri nosaka dabas aizsardzības un apsaimniekošanas prasības un pasākumus attiecībā uz šīm teritorijām.
