@@ -1,5 +1,5 @@
 49.pants. Strīdu piekritība
-(1) Rīgas apgabaltiesa kā pirmās instances tiesa izskata šādus strīdus, kas saistīti ar dizainparaugu tiesisko aizsardzību:
+(1) Rīgas pilsētas Vidzemes priekšpilsētas tiesa kā pirmās instances tiesa izskata šādus strīdus, kas saistīti ar dizainparaugu tiesisko aizsardzību:
 1) par tiesību atzīšanu uz dizainparaugu;
 2) par dizainparauga reģistrācijas atzīšanu par spēkā neesošu;
 3) par dizainparauga nelikumīgu izmantošanu (dizainparauga pārkāpumu);
