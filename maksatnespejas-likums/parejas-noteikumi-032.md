@@ -1,0 +1,1 @@
+32. Atlīdzībai par administratora pienākumu veikšanu maksātnespējas procesos, kuros piemērojami šo pārejas noteikumu 2. un 5.punktā minētie normatīvie akti, tiek pieskaitīts pievienotās vērtības nodoklis, ja administrators ir reģistrēts Valsts ieņēmumu dienesta ar pievienotās vērtības nodokli apliekamo personu reģistrā.

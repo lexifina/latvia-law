@@ -1,0 +1,1 @@
+27. Ja administrators neiesniedz tiesā pieteikumu par maksātnespējas procesa izbeigšanu šo pārejas noteikumu 23., 25., 26. vai 28.punktā minētajos gadījumos un termiņā, Maksātnespējas administrācija iesniedz tiesā pieteikumu par administratora atcelšanu no administratora pienākumu pildīšanas attiecīgajā maksātnespējas procesā un maksātnespējas procesa izbeigšanu.
