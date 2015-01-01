@@ -1,0 +1,1 @@
+72. Persona, kas 2015.gada 1.aprīlī veic darbības ar šā likuma 4.panta pirmās daļas 4.punktā minētajiem tabakas izstrādājumiem, inventarizē tās glabāšanā esošo tabakas lapu krājumus. Šajā gadījumā inventarizāciju persona veic 2015.gada 1.aprīlī un 15 dienu laikā pēc inventarizācijas (ieskaitot inventarizācijas dienu) iesniedz Valsts ieņēmumu dienestam inventarizācijas sarakstu.

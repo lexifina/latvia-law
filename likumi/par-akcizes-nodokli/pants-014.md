@@ -12,9 +12,7 @@
 (3) Ja šā panta pirmās daļas 1.punktā minētajiem naftas produktiem ir pievienots etilspirts, kas iegūts no lauksaimniecības izejvielām un ir dehidratēts (ar spirta saturu vismaz 99,5 tilpumprocenti), un pievienotā etilspirta saturs veido no 70 līdz 85 tilpumprocentiem (ieskaitot) no kopējā produktu daudzuma, attiecīgajiem produktiem (par 1000 litriem) nodokli aprēķina pēc likmes 123,36 euro, ja ievērots viens no šādiem nosacījumiem:
 1) etilspirts ir pievienots akcīzes preču noliktavā Latvijas Republikā;
 2) minētais naftas produktu un etilspirta maisījums ir ievests no dalībvalsts.
-(4) Ja šā panta pirmās daļas 4.punktā minētajiem naftas produktiem ir pievienota no rapšu sēklu eļļas iegūta biodīzeļdegviela un minētā biodīzeļdegviela veido vismaz 30 tilpumprocentus no kopējā produktu daudzuma, attiecīgajiem produktiem nodokli aprēķina pēc likmes 233,35 euro par 1000 litriem, ja ievērots viens no šādiem nosacījumiem:
-1) no rapšu sēklu eļļas iegūtā biodīzeļdegviela ir pievienota akcīzes preču noliktavā Latvijas Republikā;
-2) minētais naftas produktu un no rapšu sēklu eļļas iegūtās biodīzeļdegvielas maisījums ir ievests no dalībvalsts.
+(4) Ja šā panta pirmās daļas 4.punktā minētajiem naftas produktiem ir pievienota no rapšu sēklu eļļas iegūta biodīzeļdegviela, attiecīgajiem produktiem nodokli aprēķina pēc likmes 332,95 euro par 1000 litriem.
 (5) Rapšu sēklu eļļai, kuru realizē vai izmanto par kurināmo vai degvielu, un biodīzeļdegvielai, kas pilnībā iegūta no rapšu sēklu eļļas, nodokli aprēķina pēc likmes 0 euro par 1000 litriem, ja ievērots viens no šādiem nosacījumiem:
 1) rapšu sēklu eļļa vai biodīzeļdegviela, kas pilnībā iegūta no rapšu sēklu eļļas, ražota akcīzes preču noliktavā Latvijas Republikā;
 2) rapšu sēklu eļļa vai biodīzeļdegviela, kas pilnībā iegūta no rapšu sēklu eļļas, ir ievesta no dalībvalsts.

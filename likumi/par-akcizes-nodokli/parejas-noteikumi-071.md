@@ -1,0 +1,1 @@
+71. Personai, kas, sākot ar 2015.gada 1.aprīli, veic darbības ar šā likuma 4.panta pirmās daļas 4.punktā minētajiem tabakas izstrādājumiem, līdz 2015.gada 31.martam jāsaņem atbilstoša šā likuma 2.panta sestajā daļā minētā speciālā atļauja (licence).
