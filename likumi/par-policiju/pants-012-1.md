@@ -19,4 +19,4 @@ Personai, kas rada draudus, var uzlikt piespiedu naudu ikreiz, kad tā pārkāpu
 Ministru kabinets izdod noteikumus, kuros nosaka:
 1) kārtību, kādā pieņem, paziņo un izpilda policijas lēmumu par nošķiršanu, kā arī policijas lēmuma par nošķiršanu veidlapas paraugu;
 2) kārtību, kādā pieņem un pārsūta pieteikumu tiesai, lai tā izskata jautājumu par pagaidu aizsardzību pret vardarbību;
-3) kārtību, kādā kontrolējama tiesas vai tiesneša lēmuma par pagaidu aizsardzību pret vardarbību izpilde.
+3) kārtību, kādā kontrolējama tiesas vai tiesneša lēmuma par pagaidu aizsardzību pret vardarbību un ārvalsts iestāžu nolēmumu, saskaņā ar kuriem izsniegta Eiropas Parlamenta un Padomes regulas Nr. 606/2013 5.pantā minētā apliecība, izpilde.
