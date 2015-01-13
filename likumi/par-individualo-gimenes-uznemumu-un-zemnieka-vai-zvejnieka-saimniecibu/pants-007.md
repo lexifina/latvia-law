@@ -10,4 +10,4 @@ Dibināšanas līgumā jānorāda:
 7) peļņas sadales un zaudējumu atlīdzināšanas kārtība;
 8) dibinātāju apgādībā esošās personas;
 9) citi noteikumi, ko dibinātāji uzskata par būtiskiem un kas nav pretrunā ar normatīvajiem aktiem.
-Dibināšanas līgumu paraksta visi rīcībspējīgie ģimenes locekļi.
+(Trešā daļa izslēgta ar 18.12.2014. likumu)
