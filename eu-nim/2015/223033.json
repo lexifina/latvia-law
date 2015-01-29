@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Administratīvie pasākumi",
+  "type_of_act": "administrative measures",
+  "official_journal": "Administrative measures",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2015-01-29",
+  "entry_into_force": null,
+  "notification_date": "2015-01-29",
+  "commission_reference": "MNE(2015)50457",
+  "nim_celex": "72011L0083LVA_223033",
+  "nim_id": "223033",
+  "transposes_celex": [
+    "32011L0083"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9728b2b6-17d4-4560-9a28-8953e0f90289",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
