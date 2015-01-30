@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2015.gada 27.janvāra noteikumi Nr.30 „Kārtība, kādā Valsts vides dienests izdod tehniskos noteikumus paredzētajai darbībai”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "20 (5338)",
+  "official_journal_page": null,
+  "official_journal_date": "2015-01-29",
+  "entry_into_force": "2015-01-30",
+  "notification_date": "2015-03-02",
+  "commission_reference": "MNE(2015)51177",
+  "nim_celex": "72011L0092LVA_224002",
+  "nim_id": "224002",
+  "transposes_celex": [
+    "32011L0092"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6fe5b656-f976-11e4-a4c8-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
