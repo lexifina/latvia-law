@@ -1,0 +1,4 @@
+119.³ pants. Elektroniskās uzraudzības grafiks
+Nosacīti atbrīvotajam, kam noteikta elektroniskā uzraudzība, Valsts probācijas dienesta amatpersona nosaka pārvietošanās brīvības ierobežojumus, papildus šā kodeksa 119.² pantā noteiktajam uzraudzības plānam sagatavojot elektroniskās uzraudzības grafiku.
+Nosakot pārvietošanās brīvības ierobežojumus, Valsts probācijas dienesta amatpersona ņem vērā notiesātā riska un vajadzību novērtējumu, paredzot elektroniskās uzraudzības grafikā laiku kriminogēna rakstura problēmu un sociālpsiholoģisko vajadzību risināšanai atbilstoši uzraudzības plānam.
+Nosacīti atbrīvotais savlaicīgi, bet ne vēlāk kā vienu darbdienu iepriekš, rakstveidā var lūgt Valsts probācijas dienesta amatpersonu grozīt elektroniskās uzraudzības grafiku, ja grozījumi nepieciešami saistībā ar veselības stāvokli, kriminogēna rakstura problēmu vai sociālpsiholoģiskām vajadzībām, vai citiem objektīvi pamatotiem iemesliem.

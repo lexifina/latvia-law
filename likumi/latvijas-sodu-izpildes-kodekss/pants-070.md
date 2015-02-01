@@ -13,8 +13,8 @@ Ievietot soda izolatorā var tikai notiesātos, kuri izdarījuši rupjus vai sis
 Par rupjiem soda izciešanas režīma pārkāpumiem uzskatāma:
 1) fiziska pretošanās iestādes darbiniekiem vai viņu cieņas un goda aizskaršana;
 2) citu notiesāto fiziska iespaidošana vai citāda veida pazemošana;
-3) alkohola, narkotisko vai psihotropo vielu lietošana, glabāšana, izplatīšana;
-4) atteikšanās no apsekošanas, kuras mērķis ir konstatēt, vai notiesātais ir lietojis alkoholu, narkotiskās vai psihotropās vielas;
+3) alkohola, narkotisko, toksisko vai psihotropo vielu lietošana, glabāšana, izplatīšana;
+4) atteikšanās no apsekošanas, kuras mērķis ir konstatēt, vai notiesātais ir lietojis alkoholu, narkotiskās, toksiskās vai psihotropās vielas;
 4¹) atteikšanās no došanās uz ārstniecības iestādi medicīniskās pārbaudes veikšanai, ja notiesātais nepiekrīt alkohola koncentrācijas pārbaudei izelpotajā gaisā vai tās rezultātiem;
 5) piedalīšanās kāršu spēlē vai citā azartspēlē, lai iegūtu materiālu vai citu labumu, un vinnesta izspiešana;
 6) atteikšanās izpildīt iestādes darbinieku likumīgu prasību;

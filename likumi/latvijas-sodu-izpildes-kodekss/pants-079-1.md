@@ -1,0 +1,3 @@
+79.¹ pants. Priekšnoteikumi tam, lai ierosinātu nosacītu pirmstermiņa atbrīvošanu no soda izciešanas
+Notiesātais nosacītu pirmstermiņa atbrīvošanu no soda izciešanas, tai skaitā ar elektroniskās uzraudzības noteikšanu, var lūgt, ja viņš atbilst šā kodeksa 50.³ panta ceturtajā daļā minētajiem nosacījumiem, faktiski ir izcietis Krimināllikumā noteikto soda daļu un atbilst citiem Krimināllikumā noteiktajiem kritērijiem.
+Nosacītu pirmstermiņa atbrīvošanu no soda izciešanas ar elektroniskās uzraudzības noteikšanu neierosina, ja notiesātais jau ir izcietis Krimināllikumā noteikto soda daļu, kas jāizcieš, lai varētu tikt ierosināta nosacīta pirmstermiņa atbrīvošana no soda izciešanas.

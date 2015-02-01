@@ -1,0 +1,3 @@
+119.⁸ pants. Nosacītas pirmstermiņa atbrīvošanas no soda izciešanas atcelšana
+Ja Valsts probācijas dienesta amatpersona konstatē, ka nosacīti atbrīvotais bez attaisnojoša iemesla pārkāpj šā kodeksa 119.⁴ un 119.⁵ pantā noteiktos pienākumus vai saskaņā ar šā kodeksa 119.⁷ pantu noteiktos pienākumus, tā sagatavo un nosūta tiesai iesniegumu par neizciestās soda daļas izpildīšanu.
+Ja nosacīti atbrīvotais, kam noteikta elektroniskā uzraudzība, atsauc savu piekrišanu tai vai apstākļos, kuros viņš dzīvo, elektroniskās uzraudzības īstenošana vairs nav iespējama, Valsts probācijas dienests sagatavo un nosūta tiesai iesniegumu par neizciestās soda daļas izpildīšanu.

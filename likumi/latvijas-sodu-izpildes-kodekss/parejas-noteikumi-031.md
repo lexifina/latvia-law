@@ -1,0 +1,1 @@
+31. Personas, kuras līdz 2015.gada 31.janvārim atbrīvotas no soda izciešanas nosacīti pirms termiņa un kurām tiesa uzlikusi pienākumus, tiek uzraudzītas atbilstoši šā kodeksa 115.¹ pantā noteiktajai kārtībai, kas bija spēkā līdz 2015.gada 31.janvārim.

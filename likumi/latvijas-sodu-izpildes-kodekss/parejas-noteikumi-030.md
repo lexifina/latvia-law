@@ -1,0 +1,1 @@
+30. Nosacīti notiesātas personas, kuras notiesātas līdz 2015.gada 31.janvārim un kurām tiesa uzlikusi pienākumus, tiek uzraudzītas atbilstoši šā kodeksa trīsdesmitajā nodaļā noteiktajai kārtībai, kas bija spēkā līdz 2015.gada 31.janvārim.

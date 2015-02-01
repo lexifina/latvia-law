@@ -1,2 +1,2 @@
 158.pants. Nosacītas notiesāšanas atcelšana vai pārbaudes laika pagarināšana
-Ja Valsts probācijas dienesta amatpersona konstatē, ka nosacīti notiesātais bez attaisnojoša iemesla nepilda tiesas uzliktos vai šajā kodeksā noteiktos pienākumus vai atkārtoti izdara administratīvo pārkāpumu, tā sagatavo un nosūta tiesai iesniegumu par nosacītas notiesāšanas atcelšanu un spriedumā noteiktā soda izpildīšanu vai pārbaudes termiņa pagarināšanu.
+Ja Valsts probācijas dienesta amatpersona konstatē, ka nosacīti notiesātais bez attaisnojoša iemesla nepilda šā kodeksa 155.pantā minētos vai Valsts probācijas dienesta amatpersonas noteiktos pienākumus, tā sagatavo un nosūta tiesai iesniegumu par spriedumā noteiktā soda izpildīšanu vai pārbaudes termiņa pagarināšanu līdz vienam gadam.

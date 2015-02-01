@@ -1,0 +1,1 @@
+28. Ministru kabinets līdz 2015.gada 1.jūlijam izdod šā kodeksa 50.¹⁵ panta trešajā daļā un 79.³ panta trešajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai ir spēkā Ministru kabineta 2009.gada 31.marta noteikumi Nr.282 "Noteikumi par administratīvās komisijas darbības kārtību un lēmumu pieņemšanas kritērijiem", ciktāl tie nav pretrunā ar šo kodeksu.

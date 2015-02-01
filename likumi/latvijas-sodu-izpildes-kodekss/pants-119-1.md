@@ -1,0 +1,2 @@
+119.¹ pants. Nosacīti pirms termiņa no soda izciešanas atbrīvotā uzraudzības organizēšana
+Veicot nosacīti pirms termiņa no soda izciešanas atbrīvotā notiesātā (turpmāk - nosacīti atbrīvotais) uzraudzību, Valsts probācijas dienests kontrolē, kā nosacīti atbrīvotais pilda Valsts probācijas dienesta amatpersonas noteiktos un sodu izpildi regulējošos normatīvajos aktos paredzētos pienākumus, kā arī atbilstoši kompetencei konsultē nosacīti atbrīvoto.

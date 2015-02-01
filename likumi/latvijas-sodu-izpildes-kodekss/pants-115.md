@@ -1,4 +1,0 @@
-115.pants. Ierosinājums atbrīvot notiesāto no soda izciešanas nosacīti pirms termiņa
-Ja notiesātajam saskaņā ar spēkā esošajiem likumiem var piemērot nosacītu pirmstermiņa atbrīvošanu no soda, iestāde, kas izpilda sodu, pēc attiecīga administratīvās komisijas lēmuma iesniedz pilsētas (rajona) tiesai, kuras darbības teritorijā atrodas brīvības atņemšanas iestāde, iesniegumu par notiesātā nosacītu pirmstermiņa atbrīvošanu no soda.
-Iesniegumā un tam pievienotajos materiālos jābūt ziņām, kas raksturo notiesātā uzvedību, iesaisti resocializācijas pasākumos un resocializācijas rezultātus, viņa attieksmi pret darbu un mācībām visā soda izciešanas laikā, kā arī Valsts probācijas dienesta sagatavotajam izvērtēšanas ziņojumam par notiesāto.
-Ja tiesa atsakās notiesāto atbrīvot nosacīti pirms termiņa, atkārtotu ierosinājumu par nosacītu pirmstermiņa atbrīvošanu var iesniegt ne agrāk kā pēc sešiem mēnešiem no dienas, kad pieņemts lēmums par atteikumu.

@@ -2,4 +2,5 @@
 Nosacīti notiesātajam ir tiesības:
 1) iepazīties ar uzraudzības plānu;
 2) iesniegt sūdzību augstākai amatpersonai par Valsts probācijas dienesta amatpersonas prettiesisko rīcību vai pieņemto lēmumu;
-3) lūgt, lai uzraudzības veikšanai norīko citu Valsts probācijas dienesta amatpersonu.
+3) lūgt, lai uzraudzības veikšanai norīko citu Valsts probācijas dienesta amatpersonu;
+4) argumentēti lūgt atļauju izbraukšanai ārpus dzīvesvietas uz laiku, kas ilgāks par 15 dienām, dzīvesvietas mainīšanai vai izbraukšanai no noteiktas administratīvās teritorijas.
