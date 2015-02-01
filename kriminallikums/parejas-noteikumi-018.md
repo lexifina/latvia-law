@@ -1,0 +1,1 @@
+18. Likuma regulējums par neizciestās soda daļas izpildīšanu nosacīti pirms termiņa atbrīvotajam, kas bija spēkā līdz 2015.gada 31.janvārim, ir piemērojams attiecībā uz personām, kuras nosacīti pirms termiņa no soda izciešanas atbrīvotas līdz 2015.gada 31.janvārim.

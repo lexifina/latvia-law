@@ -1,0 +1,4 @@
+61.¹ pants. Elektroniskā uzraudzība
+(1) Elektroniskā uzraudzība ir intensīvas kontroles pasākumi, kurus nosaka tiesa, lai ierobežotu notiesātā brīvu pārvietošanos. Lai īstenotu elektronisko uzraudzību, pie notiesātā ķermeņa piestiprina elektronisku ierīci, kas ļauj kontrolēt viņa atrašanos noteiktā vietā un laikā.
+(2) Tiesa elektronisko uzraudzību nosaka uz laiku no viena mēneša līdz divpadsmit mēnešiem.
+(3) Elektroniskās uzraudzības termiņš sākas ar dienu, kad elektroniskā ierīce tiek piestiprināta pie notiesātā ķermeņa. Beidzoties tiesas noteiktajam elektroniskās uzraudzības termiņam, notiesātais tiek uzraudzīts atbilstoši kriminālsodu izpildi reglamentējošos normatīvajos aktos paredzētajiem nosacīti pirms termiņa no soda izciešanas atbrīvoto notiesāto uzraudzības noteikumiem, ja notiesātajam vēl nav beidzies neizciestā soda laiks.

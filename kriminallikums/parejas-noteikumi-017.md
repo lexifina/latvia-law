@@ -1,0 +1,1 @@
+17. Likuma regulējums par uzlikto pienākumu pilnīgu vai daļēju atcelšanu, spriedumā noteiktā soda izpildīšanu vai pārbaudes termiņa pagarināšanu nosacīti notiesātajam, kas bija spēkā līdz 2015.gada 31.janvārim, ir piemērojams attiecībā uz personām, kuras nosacīti notiesātas līdz 2015.gada 31.janvārim.
