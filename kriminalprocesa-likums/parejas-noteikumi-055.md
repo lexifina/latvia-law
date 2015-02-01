@@ -1,0 +1,1 @@
+55. Likuma regulējums par kārtību, kādā notiesātais tiek atbrīvots no soda nosacīti pirms termiņa, kas bija spēkā līdz 2015.gada 31.janvārim, tiek piemērots, ja iesniegums par notiesātā nosacītu pirmstermiņa atbrīvošanu saņemts no brīvības atņemšanas iestādes administratīvās komisijas.

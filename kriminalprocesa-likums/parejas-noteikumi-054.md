@@ -1,0 +1,1 @@
+54. Likuma regulējums par kārtību, kādā nosacīti notiesātajam tiek pilnīgi vai daļēji atcelti tiesas uzliktie pienākumi vai pieņemts lēmums par spriedumā noteiktā soda izpildīšanu nosacīti notiesātajam vai pārbaudes laika pagarināšanu, kas bija spēkā līdz 2015.gada 31.janvārim, tiek piemērots attiecībā uz personu, kura nosacīti notiesāta līdz 2015.gada 31.janvārim.
