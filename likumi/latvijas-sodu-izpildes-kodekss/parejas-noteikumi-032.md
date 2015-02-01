@@ -1,0 +1,1 @@
+32. Kodeksa trīspadsmitajā "A" nodaļā un divdesmitajā "A" nodaļā noteikto attiecībā uz nosacītu pirmstermiņa atbrīvošanu no soda izciešanas ar elektroniskās uzraudzības noteikšanu piemēro no 2015.gada 1.jūlija.
