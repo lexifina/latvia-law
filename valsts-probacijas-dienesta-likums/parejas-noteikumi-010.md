@@ -1,0 +1,1 @@
+10. Personām, kuras nosacīti notiesātas vai nosacīti pirms termiņa atbrīvotas līdz 2015.gada 31.janvārim, piemērojamas Valsts probācijas dienesta likuma normas, kas bija spēkā līdz 2015.gada 31.janvārim.

@@ -1,0 +1,3 @@
+11. Ministru kabinets līdz 2015.gada 1.martam izdod šā likuma 11.panta otrajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai ir piemērojami šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:
+1) Ministru kabineta 2007.gada 27.novembra noteikumi Nr.804 "Nosacīti notiesāto, nosacīti pirms termiņa no soda izciešanas atbrīvoto personu un nosacīti no kriminālatbildības atbrīvoto personu uzraudzības kārtība";
+2) Ministru kabineta 2012.gada 16.augusta noteikumi Nr.562 "Kārtība, kādā Valsts probācijas dienests nodrošina papildsoda - probācijas uzraudzība - izpildi".

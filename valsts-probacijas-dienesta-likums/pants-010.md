@@ -1,4 +1,3 @@
 10.pants. Probācijas programmu īstenošana
-(1) Valsts probācijas dienests īsteno probācijas programmas vai sadarbojas ar probācijas programmu īstenotājiem.
-(2) Valsts probācijas dienests finansē probācijas programmas atbilstoši apropriācijai, kas piešķirta likumā par valsts budžetu kārtējam gadam.
-(3) Valsts probācijas dienests Ministru kabineta noteiktajā kārtībā un apmērā līdzfinansē probācijas klientiem paredzētos sociālās rehabilitācijas pakalpojumus uzraudzības ietvaros.
+(1) Valsts probācijas dienests nodrošina probācijas programmu īstenošanu atbilstoši probācijas klienta riska un vajadzību novērtējumam.
+(2) Valsts probācijas dienests sadarbībā ar brīvības atņemšanas iestādēm īsteno probācijas programmas notiesātajiem, kuri izcieš sodu brīvības atņemšanas iestādēs.
