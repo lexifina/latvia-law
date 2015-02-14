@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2015.gada 10.februāra noteikumi Nr.78 “Ģenētiski modificēto kultūraugu līdzāspastāvēšanas noteikumi”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "31 (5349)",
+  "official_journal_page": null,
+  "official_journal_date": "2015-02-13",
+  "entry_into_force": "2015-02-14",
+  "notification_date": "2015-12-14",
+  "commission_reference": "MNE(2015)59263",
+  "nim_celex": "72015L0412LVA_232718",
+  "nim_id": "232718",
+  "transposes_celex": [
+    "32015L0412"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3321c28b-7b1b-4fe9-8c35-76f7445e60a3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
