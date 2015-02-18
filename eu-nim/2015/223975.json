@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sabiedrisko pakalpojumu regulēšanas komisijas padomes 2015.gada 12.februāra lēmums Nr.1/3 \"Vispārējās atļaujas noteikumu pārkāpumu novēršanas noteikumi elektronisko sakaru nozarē\"",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "33 (5351)",
+  "official_journal_page": null,
+  "official_journal_date": "2015-02-17",
+  "entry_into_force": "2015-02-18",
+  "notification_date": "2015-03-02",
+  "commission_reference": "MNE(2015)51150",
+  "nim_celex": "72002L0020LVA_223975",
+  "nim_id": "223975",
+  "transposes_celex": [
+    "32002L0020"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6ccdb6a8-f978-11e4-a4c8-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
