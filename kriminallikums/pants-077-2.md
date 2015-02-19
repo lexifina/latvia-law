@@ -1,0 +1,3 @@
+77.² pants. Bruņota konflikta finansēšana
+Par jebkādā veidā iegūtu finanšu līdzekļu vai citas mantas tiešu vai netiešu vākšanu vai nodošanu ārpus Latvijas Republikas teritorijas notiekošā bruņotā konfliktā iesaistītai pusei, kuras darbība vērsta pret valsts teritoriālo neaizskaramību vai politisko neatkarību vai citādi ir pretrunā ar Latvijas Republikai saistošām starptautiskajām tiesībām, kā arī personas vervēšanai, apmācīšanai vai nosūtīšanai, lai tā prettiesiski piedalītos ārpus Latvijas Republikas teritorijas notiekošā bruņotā konfliktā, -
+soda ar brīvības atņemšanu uz laiku līdz desmit gadiem un ar probācijas uzraudzību uz laiku līdz trim gadiem.
