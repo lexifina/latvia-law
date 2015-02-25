@@ -1,0 +1,2 @@
+2.pants. (1) Kopīgā studiju programma ir akadēmiskā studiju programma.
+(2) Maģistra grādu stratēģiskajā robežu pārvaldībā (studiju virziens "Iekšējā drošība un civilā aizsardzība") (turpmāk - maģistra grāds) piešķir, ja pusotra gada pilna laika studijās apgūta kopīgā studiju programma 60 kredītpunktu apjomā, pretendentam ir vismaz triju gadu pieredze operatīvajā robežapsardzes darbā vismaz vidējā posma vadības līmenī un kopējais bakalaura un kopīgās studiju programmas īstenošanas ilgums ir vismaz četrarpus gadu pilna laika studijās un apjoms vismaz 180 kredītpunkti.
