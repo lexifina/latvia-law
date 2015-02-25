@@ -2,7 +2,7 @@
 (1) Persona, kura vēlas mainīt vārdu vai uzvārdu (vārdu un uzvārdu), iesniegumu iesniedz personīgi, uzrādot personu apliecinošu dokumentu.
 (2) Iesniegumam pievieno:
 1) šā likuma 4.panta otrajā daļā minētajā gadījumā - nepilngadīgas personas vecāku rakstveida piekrišanu vārda vai uzvārda (vārda un uzvārda) maiņai vai, ja nepilngadīga persona ir aizbildnībā, - aizbildņa rakstveida piekrišanu un bāriņtiesas lēmumu par vārda vai uzvārda (vārda un uzvārda) maiņas atbilstību nepilngadīgas personas interesēm;
-2) šā likuma 4.panta trešajā un ceturtajā daļā minētajā gadījumā - attiecīgi bāriņtiesas lēmumu par vārda vai uzvārda (vārda un uzvārda) maiņas atbilstību aizbildnībā esošas nepilngadīgas personas vai rīcībnespējīgas personas interesēm;
+2) šā likuma 4.panta trešajā daļā minētajā gadījumā - bāriņtiesas lēmumu par vārda vai uzvārda (vārda un uzvārda) maiņas atbilstību aizbildnībā esošas nepilngadīgas personas interesēm;
 3) fotogrāfiju (4,5 x 3,5 cm).
 (3) Nodaļa no citām dzimtsarakstu nodaļām pieprasa iesnieguma izskatīšanai nepieciešamos dokumentus:
 1) izrakstu no dzimšanas reģistra par personas dzimšanu;
