@@ -7,6 +7,6 @@ Deputātam ir tiesības:
 4) iesniegt priekšlikumus, izteikt piezīmes un iebildumus par sēdes darba kārtību, apspriežamo jautājumu būtību un izskatīšanas secību;
 5) iesniegt lēmumu un citu dokumentu projektus, kā arī priekšlikumus par grozījumiem tajos;
 6) piedalīties debatēs, uzdot jautājumus, sniegt uzziņas;
-7) iesniegt priekšlikumus par balsošanas veidu;
+7) (izslēgts ar 22.01.2015. likumu);
 8) pēc balsošanas izteikties par balsošanas motīviem;
-9) ierosināt jautājumu par attiecīgās pašvaldības uzņēmumu vai iestāžu darba pārbaudīšanu.
+9) ierosināt jautājumu par attiecīgās pašvaldības kapitālsabiedrību vai iestāžu darba pārbaudīšanu.
