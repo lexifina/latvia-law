@@ -7,4 +7,5 @@
 3) iesniegt sūdzību par aptaujas vai pratināšanas norisi pirmstiesas kriminālprocesa laikā;
 4) iesniegt sūdzību izmeklēšanas tiesnesim par neattaisnotu privātās dzīves noslēpuma izpaušanu liecībās vai lūgt tiesu atsaukt jautājumus par privātās dzīves noslēpumu un pieprasīt, lai lūgumu ieraksta sēdes protokolā, ja tas tiek noraidīts;
 5) juridiskās palīdzības saņemšanai uzaicināt advokātu.
+(3¹) Visās kriminālprocesa stadijās un visos tā veidos lieciniekam ir tiesības lūgt, lai tiek pieņemts Eiropas aizsardzības rīkojums, ja pastāv šajā likumā noteiktais Eiropas aizsardzības rīkojuma pieņemšanas pamats.
 (4) Bez liecinieka piekrišanas nedrīkst publiskot plašsaziņas līdzekļos procesuālo darbību laikā ar foto, video vai cita veida tehniskiem līdzekļiem fiksētu viņa attēlu, ja vien tas nav nepieciešams noziedzīgā nodarījuma atklāšanai.

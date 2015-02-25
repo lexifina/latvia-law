@@ -1,0 +1,9 @@
+914.pants. Pieņemtā Eiropas aizsardzības rīkojuma grozīšana, atcelšana un atsaukšana
+(1) Par lēmumu grozīt vai atcelt piemēroto aizsardzības pasākumu procesa virzītājs vai iestāde, kura kontrolē nolēmuma izpildi, nekavējoties informē Valsts policiju.
+(2) Valsts policija pēc tam, kad no procesa virzītāja vai iestādes, kura kontrolē nolēmuma izpildi, ir saņemta informācija par piemērotā aizsardzības pasākuma grozīšanu vai atcelšanu, pieņem lēmumu par Eiropas aizsardzības rīkojuma grozīšanu, atcelšanu vai atsaukšanu.
+(3) Valsts policija informē tās Eiropas Savienības dalībvalsts kompetento iestādi, kurā dzīvo vai uzturas aizsargājamā persona, par visiem nolēmumiem, ar kuriem groza, atceļ vai izbeidz noteikto aizsardzības pasākumu, kas bijis par pamatu Eiropas aizsardzības rīkojuma pieņemšanai.
+(4) Ja aizsardzības pasākums ir noteikts ar nolēmumu, kas nodots izpildei citā Eiropas Savienības dalībvalstī, kas nav tā pati dalībvalsts, kurā aizsargājamā persona plāno dzīvot vai dzīvo vai plāno uzturēties vai uzturas, vai kas tiek nodots pēc tam, kad ir pieņemts Eiropas aizsardzības rīkojums, un ja attiecīgās Eiropas Savienības dalībvalsts kompetentā iestāde ir pieņēmusi turpmākus lēmumus, kas skar aizsardzības pasākumā iekļautos pienākumus vai rīkojumus, Valsts policija nekavējoties atceļ vai atsauc Eiropas aizsardzības rīkojumu.
+(5) Valsts policija pieņem lēmumu par Eiropas aizsardzības rīkojuma atcelšanu vai atsaukšanu, ja:
+1) ir saņemtas ziņas, ka aizsargājamā persona vairs nedzīvo vai neplāno dzīvot vai neuzturas vai neplāno uzturēties tās Eiropas Savienības dalībvalsts teritorijā, kurai nosūtīts Eiropas aizsardzības rīkojums;
+2) beidzies likumā vai nolēmumā noteiktais laiks, uz kādu bija piemērots aizsardzības pasākums;
+3) pieņemts lēmums par piemērotā aizsardzības pasākuma atcelšanu.
