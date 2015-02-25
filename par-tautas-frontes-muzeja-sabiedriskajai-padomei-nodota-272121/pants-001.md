@@ -1,0 +1,1 @@
+1.pants. Atdot valstij Tautas frontes muzeja sabiedriskajai padomei nodoto nekustamo īpašumu Vecpilsētas ielā 13/15, Rīgā (kadastra Nr.0100 003 0094), kas sastāv no zemes gabala 0,0218 hektāru platībā (kadastra apzīmējums 0100 003 0094) un būves (kadastra apzīmējums 0100 003 0094 001).
