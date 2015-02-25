@@ -25,6 +25,7 @@ h) bankas konta izraksts par konkrētu laika periodu,
 i) ziņas vai dokumenti saistībā ar konkrētu darījumu kontā,
 j) ziņas par citiem konta turētāja kontiem bankā konkrētā laika periodā, kā arī ziņas par attiecīgajiem kontiem piesaistīto maksājumu karti (tās veids, numurs un lietotājs),
 k) ziņas par attiecīgās maksājumu kartes piesaisti bankas kontam;
+11²) Valsts ieņēmumu dienestam - informācijas sniegšanai Amerikas Savienotajām Valstīm, pamatojoties uz Latvijas Republikas valdības un Amerikas Savienoto Valstu valdības līgumu par starptautisko nodokļu pienākumu izpildes uzlabošanu un likuma par ārvalstu kontu nodokļu pienākumu izpildi (FATCA) ieviešanu, līgumā noteiktajā apjomā. Ministru kabinets nosaka termiņus un kārtību, kādā ziņas sniedzamas;
 12) Valsts ieņēmumu dienestam, ja kredītiestāde ir uzkrājumu ienākumu izmaksātājs saskaņā ar likuma "Par nodokļiem un nodevām" 45.panta pirmo daļu vai tā izmaksā vai nodrošina uzkrājumu ienākuma izmaksu saskaņā ar minētā likuma 45.panta trešo daļu;
 13) notāram, kas ved mantojuma lietu, ziņas, kas nepieciešamas fiziskās personas - mantojuma atstājēja mantojuma masas apzināšanai;
 14) bāriņtiesai, pamatojoties uz bāriņtiesas priekšsēdētāja pieprasījumu, par:
