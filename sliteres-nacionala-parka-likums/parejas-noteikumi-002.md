@@ -1,0 +1,1 @@
+2. Ministru kabinets līdz 2015.gada 1.jūnijam apstiprina šā likuma 15.panta otrajā daļā minēto nolikumu. Līdz šā nolikuma spēkā stāšanās dienai, bet ne ilgāk kā līdz 2015.gada 31.maijam ir piemērojami Ministru kabineta 2000.gada 1.augusta noteikumi Nr.258 "Slīteres nacionālā parka padomes nolikums", ciktāl tas nav pretrunā ar šo likumu.

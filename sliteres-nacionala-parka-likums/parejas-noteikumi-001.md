@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Slīteres nacionālā parka likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2000, 9.nr.; 2007, 14.nr.; 2009, 12.nr.; Latvijas Vēstnesis, 2010, 91., 205.nr.).

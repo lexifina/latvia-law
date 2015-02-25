@@ -1,0 +1,2 @@
+2.pants
+Likuma mērķis ir saglabāt nacionālā parka teritorijai raksturīgo Ziemeļkurzemes piekrastes ainavu, dabisko makroreljefu un kultūrvēsturiskās vērtības, vides īpatnības, tipiskās un īpaši aizsargājamās sugas, to dzīvotnes un īpaši aizsargājamos biotopus, kā arī nodrošināt teritorijas ilgtspējīgu attīstību, saskaņojot dabas un kultūrvēsturisko vērtību aizsardzību un saglabāšanu ar teritorijas ekonomisko attīstību.
