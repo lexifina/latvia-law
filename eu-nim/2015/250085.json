@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Vides aizsardzības un reģionālās attīstības ministra 2015. gada 26. februāra rīkojums Nr. 67 “Par Vides monitoringa programmu”",
+  "type_of_act": "Ministra rīkojums",
+  "official_journal": "Obsolete",
+  "official_journal_reference": "67",
+  "official_journal_page": null,
+  "official_journal_date": "2015-02-26",
+  "entry_into_force": "2015-02-26",
+  "notification_date": "2017-08-09",
+  "commission_reference": "MNE(2017)54560",
+  "nim_celex": "72008L0050LVA_250085",
+  "nim_id": "250085",
+  "transposes_celex": [
+    "32008L0050"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d41a81ba-05cd-4374-84d7-89224d58d2d8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
