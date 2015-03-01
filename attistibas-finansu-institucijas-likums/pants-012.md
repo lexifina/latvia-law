@@ -1,0 +1,9 @@
+12.pants. Programmu izstrāde, apstiprināšana, īstenošana un uzraudzība
+(1) Programmu izstrādi un īstenošanas uzraudzību nodrošina nozares ministrija vai normatīvajos aktos norādītā institūcija. Ministrija vai normatīvajos aktos norādītā institūcija izstrādā programmas, lai novērstu identificētās tirgus nepilnības.
+(2) Programmu izstrādei un īstenošanas uzraudzībai Ministru kabinets izveido Finanšu institūcijas konsultatīvo padomi (turpmāk - konsultatīvā padome), nosaka konsultatīvās padomes darbības kārtību, programmu izstrādes nodrošināšanai un īstenošanas uzraudzībai veicamās darbības, kā arī konsultatīvajā padomē pārstāvētās institūcijas. Konsultatīvajā padomē ir tiesīgi ar padomdevēja tiesībām piedalīties biedrību, nodibinājumu un komersantu organizāciju pārstāvji.
+(3) Finanšu institūcija pirms programmas apstiprināšanas Ministru kabinetā novērtē programmas ietekmi, riskus un sagaidāmos zaudējumus, finansiālos rezultātus un programmas īstenošanas izmaksas.
+(4) Ministru kabinets apstiprina programmas un nosaka to īstenošanas kārtību, finansējumu, atbalstāmo darbību un izmaksu attiecināmības nosacījumus, tai skaitā finansējumu Finanšu institūcijas izdevumu segšanai.
+(5) Finanšu institūcija īsteno apstiprinātās programmas šā likuma 2.panta otrajā daļā noteiktajās jomās, tai skaitā sniedz konsultācijas apstiprināto programmu īstenošanai un nodrošina efektīvus komunikācijas un informēšanas pasākumus atbilstošajām mērķgrupām.
+(6) Finanšu institūcija ir tiesīga piesaistīt citus tiesību subjektus sadarbībai apstiprināto programmu īstenošanā, ja programmu nosacījumi to paredz.
+(7) Finanšu institūcija izstrādā priekšlikumus programmu izstrādei un uzlabošanai.
+(8) Finanšu institūcija ir tiesīga normatīvajos aktos noteiktajā kārtībā piedalīties Eiropas Savienības institūciju un citas ārvalstu finanšu palīdzības ietvaros finansētajās programmās.

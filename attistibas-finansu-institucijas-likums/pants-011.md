@@ -1,0 +1,2 @@
+11.pants. Akcionāru sapulces piekrišana valdes rīcībai
+Valdei nepieciešama iepriekšēja akcionāru sapulces piekrišana līdzdalības vai izšķirošās ietekmes iegūšanai vai izbeigšanai, palielināšanai vai samazināšanai citā kapitālsabiedrībā, uzņēmuma iegūšanai vai atsavināšanai, kā arī ieguldījumu veikšanai fondos, tai skaitā alternatīvajos ieguldījumu fondos. Šā panta pirmajā teikumā minētās darbības īstenojamas programmu un deleģēto valsts pārvaldes uzdevumu ietvaros.
