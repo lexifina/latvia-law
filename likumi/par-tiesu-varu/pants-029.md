@@ -16,14 +16,14 @@ f) Rēzeknes tiesa;
 3) Rīgas apgabaltiesas darbības teritorijā:
 a) Jūrmalas pilsētas tiesa,
 b) Ogres rajona tiesa,
-c) Rīgas pilsētas Centra rajona tiesa,
+c) (izslēgts no 01.03.2015. ar 30.10.2014. likumu. Sk. Pārejas noteikumu 76.punktu),
 d) Rīgas pilsētas Kurzemes rajona tiesa,
 e) Rīgas pilsētas Latgales priekšpilsētas tiesa,
 f) Rīgas pilsētas Vidzemes priekšpilsētas tiesa,
 g) Rīgas pilsētas Zemgales priekšpilsētas tiesa,
 h) Rīgas pilsētas Ziemeļu rajona tiesa,
 I) Rīgas rajona tiesa,
-j) Siguldas tiesa;
+j) (izslēgts no 01.03.2015. ar 30.10.2014. likumu. Sk. Pārejas noteikumu 76.punktu);
 4) Vidzemes apgabaltiesas darbības teritorijā:
 a) Alūksnes rajona tiesa,
 b) Cēsu rajona tiesa,
