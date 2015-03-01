@@ -4,3 +4,4 @@
 (3) Līdzekļi, kas iegūti, pārdodot par nodrošinājumu kalpojošo parādnieka mantu, novirzāmi nodrošinātā kreditora prasījuma segšanai.
 (4) Nenodrošināto kreditoru prasījumi tiek apvienoti vienā grupā bez prioritātēm. Pēc tam, kad veikti šā panta otrajā un trešajā daļā minētie maksājumi, tiek apmierināti nenodrošināto kreditoru prasījumi proporcionāli katra kreditora pamatparāda summai. No parādnieka naudas līdzekļiem, kas paliek pāri pēc nenodrošināto kreditoru prasījumu apmierināšanas pamatparāda apmērā, tiek apmierināti nenodrošināto kreditoru blakus prasījumi (proporcionāli summai, kas pienākas katram kreditoram).
 (5) Parādnieka naudas līdzekļi, kas paliek pāri pēc šajā pantā minēto maksātnespējas procesa izmaksu segšanas un kreditoru prasījumu apmierināšanas, tiek nodoti parādniekam.
+(6) (Izslēgta ar 19.02.2015. likumu)
