@@ -1,0 +1,1 @@
+101. Ja pēc 2015.gada 1.marta lietā par bērna prettiesisku pārvietošanu pāri robežai uz ārvalsti vai aizturēšanu ārvalstī, ja bērna dzīvesvieta ir Latvijā, un prettiesisku pārvietošanu pāri robežai uz Latviju vai aizturēšanu Latvijā, ja bērna dzīvesvieta ir citā valstī, ir izlemjami ar nolēmuma izpildi saistīti jautājumi, tos izskata Rīgas pilsētas Ziemeļu rajona tiesa.

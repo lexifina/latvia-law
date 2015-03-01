@@ -1,7 +1,7 @@
 644.⁷ pants. Pieteikums par pieprasījuma iesniegšanu ārvalstij par bērna atgriešanos Latvijā
 (1) Lai nodrošinātu tāda bērna atgriešanos Latvijā, kura dzīvesvieta ir Latvijā un kurš tiek prettiesiski pārvietots uz citu valsti vai aizturēts citā valstī, persona, kuras tiesības īstenot aizgādību vai aizbildnību ir aizskartas, kā arī bāriņtiesa vai prokurors var iesniegt tiesai pieteikumu par pieprasījuma iesniegšanu ārvalstij par bērna atgriešanos Latvijā.
-(2) Pieteikums iesniedzams rajona (pilsētas) tiesai pēc pieteicēja deklarētās dzīvesvietas, bet, ja tādas nav, - pēc pieteicēja dzīvesvietas vai pēc bērna dzīvesvietas, kurā tas mitis pirms prettiesiskās pārvietošanas vai aizturēšanas.
-(2¹) Bērna dzīvesvietu šā panta otrās daļas izpratnē nosaka tāpat kā lietās, kuras izriet no aizgādības un saskarsmes tiesībām.
+(2) Lietas par bērna prettiesisku pārvietošanu pāri robežai uz ārvalsti vai aizturēšanu ārvalstī, ja bērna dzīvesvieta ir Latvijā, tiek izskatītas Rīgas pilsētas Ziemeļu rajona tiesā.
+(2¹) (Izslēgta ar 30.10.2014. likumu)
 (3) Pieteikumā norāda:
 1) tās tiesas nosaukumu, kurai pieteikums iesniegts;
 2) pieteicēja vārdu, uzvārdu, personas kodu (ja tāda nav, citus identifikācijas datus), deklarēto dzīvesvietu un deklarācijā norādīto papildu adresi, bet, ja tādas nav, - dzīvesvietu un adresi Latvijā saziņai ar tiesu, lai saņemtu tiesas dokumentus;
