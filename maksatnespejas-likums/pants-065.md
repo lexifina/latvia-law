@@ -12,4 +12,10 @@ Pēc juridiskās personas maksātnespējas procesa pasludināšanas administrato
 10) ja finanšu un kapitāla tirgus dalībnieka darbības uzraudzību saskaņā ar normatīvo aktu prasībām veic Finanšu un kapitāla tirgus komisija, vismaz reizi gadā rakstveidā informē zināmos kreditorus par juridiskās personas maksātnespējas procesa norisi, nosūtot individuālu paziņojumu tiem kreditoriem, kuru dzīvesvieta vai juridiskā adrese ir ārvalstīs, kā arī paziņojumu Maksātnespējas administrācijai;
 11) nodrošina parādnieka mantas pārdošanas plānā iekļautās mantas novērtēšanu;
 12) iesniedz tiesu izpildītājam pieteikumu par izpildu lietvedības izbeigšanu lietās par piespriesto, bet no parādnieka nepiedzīto summu piedziņu un lietās par saistību izpildīšanu tiesas ceļā;
-13) pilda citus šajā likumā noteiktos pienākumus.
+13) nodod glabāšanā valsts arhīvam parādnieka dokumentus, tajā skaitā:
+a) parādnieka rīkojumus par personālsastāvu (par personu pieņemšanu darbā, pārcelšanu citā darbā, atbrīvošanu no darba),
+b) parādnieka personālsastāva rīkojumu reģistrācijas žurnālu (reģistru),
+c) parādnieka darbinieku darba līgumus, ar kuriem izbeigtas darba tiesiskās attiecības (ja tie neatrodas attiecīgajās personas lietās), un darba grāmatiņas (ja tās neatrodas pie attiecīgajiem darbiniekiem),
+d) parādnieka dokumentus par sociālā nodokļa maksājumiem līdz 1997.gada 1.janvārim,
+e) darbā notikušo nelaimes gadījumu izmeklēšanas aktus vai atzinumus un izmeklēšanas materiālus;
+14) pilda citus šajā likumā noteiktos pienākumus.

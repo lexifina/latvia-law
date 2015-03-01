@@ -2,4 +2,5 @@
 Parādniekam ir šādi pienākumi:
 1) pildīt fiziskās personas saistību dzēšanas plānu;
 2) gūt ienākumus atbilstoši savām iespējām, lai pilnīgāk apmierinātu kreditoru prasījumus;
-3) pēc administratora pieprasījuma sniegt informāciju par fiziskās personas saistību dzēšanas plāna izpildi.
+3) pēc administratora pieprasījuma sniegt informāciju par fiziskās personas saistību dzēšanas plāna izpildi;
+4) segt fiziskās personas maksātnespējas procesa izmaksas.

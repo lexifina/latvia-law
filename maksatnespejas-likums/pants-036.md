@@ -1,5 +1,5 @@
 36.pants. Tiesiskās aizsardzības procesa lietas publicitāte
-Atbildīgā iestāde maksātnespējas reģistrā par tiesiskās aizsardzības procesa lietu ieraksta šādas ziņas:
+(1) Atbildīgā iestāde maksātnespējas reģistrā par tiesiskās aizsardzības procesa lietu ieraksta šādas ziņas:
 1) parādnieka firma (nosaukums);
 2) parādnieka reģistrācijas numurs;
 3) parādnieka juridiskā adrese;
@@ -12,3 +12,4 @@ Atbildīgā iestāde maksātnespējas reģistrā par tiesiskās aizsardzības pr
 10) datums, kad tiesa apstiprinājusi tiesiskās aizsardzības procesa pasākumu plāna grozījumus, un tiesas nosaukums;
 11) tiesiskās aizsardzības procesa izbeigšanas datums, tiesas nosaukums un pamatojums;
 12) ieraksta izdarīšanas datums.
+(2) Šā panta pirmajā daļā minētās ziņas var tikt publicētas arī citos reģistros, informācijas sistēmās vai datubāzēs.

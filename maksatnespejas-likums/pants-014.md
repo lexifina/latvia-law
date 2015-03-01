@@ -6,7 +6,8 @@
 3) organizē administratoru profesionālās kvalifikācijas pilnveidi;
 4) veic administratoru atkārtotu sertifikāciju;
 5) ved izsniegto, pagarināto, anulēto, izbeigto sertifikātu un sertifikātu dublikātu reģistrus;
-6) izbeidz administratoru sertifikātu darbību un anulē tos.
+6) izbeidz administratoru sertifikātu darbību un anulē tos;
+7) aptur administratoru sertifikātu darbību.
 (3) Veicot valsts pārvaldes uzdevumus, Administratoru asociācijai ir šādas tiesības:
 1) pieprasīt administratoram un saņemt no viņa nepieciešamās ziņas un attiecīgos dokumentus;
 2) pieprasīt no tiesiskās aizsardzības procesā un maksātnespējas procesā iesaistītajām institūcijām un personām un saņemt no tām ar administratora darbību saistītās ziņas un dokumentus;
@@ -14,3 +15,4 @@
 (4) Ministru kabinets nosaka Administratoru asociācijas valsts pārvaldes uzdevumu ietvaros sniegto maksas pakalpojumu cenrādi.
 (5) Administratoru asociācija, pildot šā panta otrajā daļā minētos uzdevumus, ir tiesīga izdot administratīvos aktus.
 (6) Administratoru asociācija, pildot šā panta otrajā daļā minētos uzdevumus, ir Maksātnespējas administrācijas funkcionālajā pakļautībā.
+(7) Administratoru asociācija izstrādā un pieņem administratoru profesionālās ētikas kodeksu.

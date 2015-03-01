@@ -1,5 +1,5 @@
 132.pants. Fiziskās personas maksātnespējas procesa lietas publicitāte
-Atbildīgā iestāde maksātnespējas reģistrā par fiziskās personas maksātnespējas procesa lietu ieraksta šādas ziņas:
+(1) Atbildīgā iestāde maksātnespējas reģistrā par fiziskās personas maksātnespējas procesa lietu ieraksta šādas ziņas:
 1) parādnieka vārds, uzvārds un personas kods;
 2) datums, kad pasludināts fiziskās personas maksātnespējas process, un tiesas nosaukums;
 3) lietā ieceltā administratora vārds, uzvārds un sertifikāta numurs;
@@ -11,3 +11,4 @@ Atbildīgā iestāde maksātnespējas reģistrā par fiziskās personas maksātn
 9) kreditoru pieteikšanās termiņš;
 10) kreditoru sapulces norises vietas adrese, datums un laiks;
 11) ieraksta izdarīšanas datums.
+(2) Šā panta pirmajā daļā minētās ziņas var tikt publicētas arī citos reģistros, informācijas sistēmās vai datubāzēs.

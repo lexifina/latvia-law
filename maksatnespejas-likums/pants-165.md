@@ -1,8 +1,10 @@
 165.pants. Saistību dzēšanas procedūras izbeigšanas kārtība
-(1) Parādnieks iesniedz tiesai pieteikumu par saistību dzēšanas procedūras izbeigšanu, ja viņš ir nokārtojis visas fiziskās personas saistību dzēšanas plānā iekļautās saistības.
+(1) Parādnieks iesniedz tiesai pieteikumu par saistību dzēšanas procedūras izbeigšanu, ja viņš:
+1) pilnā apmērā ir nokārtojis visas fiziskās personas saistību dzēšanas plānā iekļautās saistības;
+2) ir izpildījis fiziskās personas saistību dzēšanas plānu.
 (2) Administrators iesniedz tiesai pieteikumu par saistību dzēšanas procedūras izbeigšanu, ja:
 1) konstatē saistību dzēšanas procedūras piemērošanas ierobežojumus (153.pants);
-2) ir beidzies fiziskās personas saistību dzēšanas plāna īstenošanas termiņš.
+2) (izslēgts ar 25.09.2014. likumu).
 (3) Kreditors iesniedz tiesai pieteikumu par saistību dzēšanas procedūras izbeigšanu, ja:
 1) parādnieks nepilda fiziskās personas saistību dzēšanas plānu;
 2) konstatē saistību dzēšanas procedūras piemērošanas ierobežojumus (153.pants).

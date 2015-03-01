@@ -5,7 +5,7 @@
 (2) Administrators nodrošina efektīvu un likumīgu tiesiskās aizsardzības procesa, juridiskās personas maksātnespējas procesa un fiziskās personas maksātnespējas procesa norisi un mērķu sasniegšanu.
 (3) Administratoram ir šādi pienākumi:
 1) piedalīties tiesas sēdēs tiesiskās aizsardzības procesa, juridiskās personas maksātnespējas procesa un fiziskās personas maksātnespējas procesa lietās;
-2) sniegt informāciju par tiesiskās aizsardzības procesa, juridiskās personas maksātnespējas procesa un fiziskās personas maksātnespējas procesa norisi tiesai, kreditoru sapulcei, Maksātnespējas administrācijai un citām normatīvajos aktos noteiktajām personām un institūcijām;
+2) sniegt informāciju par tiesiskās aizsardzības procesa, juridiskās personas maksātnespējas procesa un fiziskās personas maksātnespējas procesa norisi tiesai, kreditoriem, Maksātnespējas administrācijai un citām normatīvajos aktos noteiktajām personām un institūcijām;
 3) paziņot piecu dienu laikā Administratoru asociācijai par prakses vietas, elektroniskā pasta adreses, vārda, uzvārda maiņu;
 4) sadarboties ar pilnvarotām personām un institūcijām, kurām saskaņā ar citu valstu normatīvajiem aktiem ir tiesības īstenot savas pilnvaras tiesiskās aizsardzības procesā, juridiskās personas maksātnespējas procesā vai fiziskās personas maksātnespējas procesā;
 5) pēc Maksātnespējas administrācijas pieprasījuma sniegt savas darbības pārskatu, dokumentus un ziņas par to tiesiskās aizsardzības procesu, juridiskās personas maksātnespējas procesu vai fiziskās personas maksātnespējas procesu norisi, kuros administrators ir pildījis vai pilda pienākumus;
@@ -13,4 +13,4 @@
 7) izskatīt sūdzības par konkrētā tiesiskās aizsardzības procesa, juridiskās personas maksātnespējas procesa vai fiziskās personas maksātnespējas procesa norisi un divu nedēļu laikā sniegt atbildi sūdzības iesniedzējam;
 8) sniegt tiesībaizsardzības institūcijām ziņojumus un materiālus par tiesiskās aizsardzības procesā, juridiskās personas maksātnespējas procesā vai fiziskās personas maksātnespējas procesā atklātajiem faktiem, kuri var būt par pamatu kriminālprocesa uzsākšanai.
 (4) Administrators nodrošina to, ka viņš ir sasniedzams prakses vietas adresē, izmantojot norādīto kontaktinformāciju, kā arī viņam adresētās korespondences (tajā skaitā ar drošu elektronisko parakstu parakstīto dokumentu) saņemšanu.
-(5) Administrators juridiskās personas maksātnespējas procesa laikā organizē parādnieka grāmatvedības uzskaiti atbilstoši normatīvo aktu prasībām.
+(5) Administrators juridiskās personas maksātnespējas procesa laikā organizē parādnieka grāmatvedības uzskaiti atbilstoši normatīvo aktu prasībām. Ja uz parādnieku attiecas Gada pārskatu likums, administrators iesniedz Valsts ieņēmumu dienestam gada pārskata un zvērināta revidenta ziņojuma (ja tāds ir nepieciešams) norakstu tikai tajos gadījumos, kad administrators ir pieņēmis lēmumu par parādnieka saimnieciskās darbības turpināšanu pilnā vai ierobežotā apjomā.

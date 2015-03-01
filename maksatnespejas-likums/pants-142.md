@@ -1,3 +1,3 @@
 142.pants. Kreditoru tiesības paziņot par fiziskās personas maksātnespējas procesa piemērošanas ierobežojumiem
 (1) Kreditoriem divu mēnešu laikā no dienas, kad maksātnespējas reģistrā izdarīts ieraksts par parādnieka maksātnespējas procesa pasludināšanu, ir tiesības iesniegt administratoram priekšlikumu izbeigt fiziskās personas maksātnespējas procesu, ja kreditoru rīcībā ir informācija par šā likuma 130. un 153.pantā minētajiem ierobežojumiem.
-(2) Administratora lēmumu neiesniegt tiesai pieteikumu par bankrota procedūras izbeigšanu pēc šajā pantā minētā kreditoru paziņojuma saņemšanas var apstrīdēt tiesā, kurā ir ierosināta fiziskās personas maksātnespējas procesa lieta.
+(2) Administratora lēmumu neiesniegt tiesai pieteikumu par bankrota procedūras izbeigšanu pēc šajā pantā minētā kreditoru paziņojuma saņemšanas par šā likuma 130.pantā minēto ierobežojumu pastāvēšanu var apstrīdēt tiesā, kurā ir ierosināta fiziskās personas maksātnespējas procesa lieta.

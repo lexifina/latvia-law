@@ -11,7 +11,8 @@
 9) informāciju par prasījumu cedēšanu, ja tāda ir paredzēta;
 10) juridiskās personas maksātnespējas procesa finansēšanas avotu;
 11) plānotās juridiskās personas maksātnespējas procesa izmaksas - administratora atlīdzību un procesa izdevumus;
-12) parādnieka mantas pārdošanas termiņu.
+12) parādnieka mantas pārdošanas termiņu;
+13) informāciju par nodomu vērsties pret parādnieka valdi saskaņā ar šā likuma 72.¹ pantu.
 (2) Administrators nekavējoties pēc šā likuma 111.panta pirmajā daļā minētā termiņa beigām šajā likumā noteiktajā kārtībā nosūta visiem kreditoriem, parādnieka pārstāvim un galviniekam parādnieka mantas pārdošanas plānu.
 (3) Kreditoram un parādnieka pārstāvim 15 dienu laikā no dienas, kad nosūtīts parādnieka mantas pārdošanas plāns, ir tiesības iesniegt administratoram priekšlikumu par parādnieka mantas pārdošanu kā lietu kopību. Katram kreditoram ir tiesības iebilst pret administratora priekšlikumu par neieķīlātās parādnieka mantas pārdošanas veidu, piedāvāto prasījumu cedēšanu un plānotajām juridiskās personas maksātnespējas procesa izmaksām.
 (4) Ja administrators, izvērtējot saņemtos iebildumus, atzīst tos par pamatotiem, viņš atbilstoši precizē plānu un paziņo par to iesaistītajām pusēm. Ja administrators saņemtos iebildumus neatzīst par pamatotiem, viņš sniedz motivētu atbildi iesniedzējam.

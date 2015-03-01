@@ -1,5 +1,5 @@
 58.pants. Juridiskās personas maksātnespējas procesa lietas publicitāte
-Atbildīgā iestāde maksātnespējas reģistrā par juridiskās personas maksātnespējas procesa lietu ieraksta šādas ziņas:
+(1) Atbildīgā iestāde maksātnespējas reģistrā par juridiskās personas maksātnespējas procesa lietu ieraksta šādas ziņas:
 1) parādnieka firma (nosaukums);
 2) parādnieka reģistrācijas numurs;
 3) parādnieka juridiskā adrese;
@@ -13,3 +13,4 @@ Atbildīgā iestāde maksātnespējas reģistrā par juridiskās personas maksā
 11) juridiskās personas maksātnespējas procesa izbeigšanas datums, tiesas nosaukums un pamatojums;
 12) mantas pārdošanas plāna iesniegšanas datums;
 13) ieraksta izdarīšanas datums.
+(2) Šā panta pirmajā daļā minētās ziņas var tikt publicētas arī citos reģistros, informācijas sistēmās vai datubāzēs.
