@@ -9,3 +9,4 @@
 (4) Par būtisku līguma pārkāpumu šā panta izpratnē uzskatāma:
 1) kredīta atmaksas vai procentu samaksas maksājumu kavēšana ilgāk kā par 60 dienām vai biežāk kā trīs reizes gada laikā, katru reizi ilgāk par 30 dienām;
 2) kredīta neizmantošana kredīta līgumā paredzētajam mērķim.
+(5) Kredīta devējam pēc kredīta pieprasījuma saņemšanas no patērētāja ir pienākums piedāvāt viņam izvēlei vismaz divus atšķirīgus kredīta līguma noteikumus, no kuriem viens paredz, ka nekustamais īpašums, kura iegādei tiek ņemts kredīts, kalpo par pietiekamu nodrošinājumu tam, lai saistības pret kredīta devēju varētu tikt dzēstas pilnā apjomā.
