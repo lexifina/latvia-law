@@ -1,2 +1,2 @@
 54.¹ nodaļa
-Lietu par maza apmēra prasībām izskatīšanas īpatnības apelācijas instancē
+Atsevišķu kategoriju lietu izskatīšanas īpatnības apelācijas instancē

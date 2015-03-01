@@ -1,0 +1,1 @@
+105. Ja fiziskās personas maksātnespējas procesa pieteikums iesniegts līdz 2015.gada 1.martam, tad piemēro šā likuma 363.²⁵ un 363.²⁷ panta redakciju, kas bija spēkā fiziskās personas maksātnespējas procesa pieteikuma iesniegšanas dienā.

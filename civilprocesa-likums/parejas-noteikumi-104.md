@@ -1,0 +1,1 @@
+104. Līdz 2012.gada 30.jūnijam uzsāktajos tiesiskās aizsardzības procesos, juridiskās personas maksātnespējas procesos un fiziskās personas maksātnespējas procesos sūdzības tiesa izskata šā likuma 45.¹, 46.¹ un 46.² nodaļā noteiktajā kārtībā.
