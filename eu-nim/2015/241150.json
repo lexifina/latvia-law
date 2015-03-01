@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Attīstības finanšu institūcijas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "228 (5288)",
+  "official_journal_page": null,
+  "official_journal_date": "2014-11-15",
+  "entry_into_force": "2015-03-01",
+  "notification_date": "2016-10-05",
+  "commission_reference": "MNE(2016)56137",
+  "nim_celex": "72012L0027LVA_241150",
+  "nim_id": "241150",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/36e5e813-501d-4032-8ce8-8017a97a987e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
