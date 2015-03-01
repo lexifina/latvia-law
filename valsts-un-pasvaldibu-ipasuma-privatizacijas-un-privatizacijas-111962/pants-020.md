@@ -10,12 +10,13 @@
 6) zemesgabala pirkuma maksas samaksas nosacījumus;
 7) nododamās tiesības un pienākumus;
 8) dokumentus un ziņas, kas jāiesniedz atsavināšanu veicošajai institūcijai, lai noslēgtu zemesgabala pirkuma līgumu.
-(4) Atsavināšanas paziņojumā atsavināšanu veicošā institūcija lūdz personai, kurai ir pirmpirkuma tiesības, rakstveidā:
-1) atbildēt, vai tā vēlas pirkt zemesgabalu ar minētajiem nosacījumiem;
-2) norādīt tai vēlamo samaksas termiņu norēķiniem par zemesgabalu.
-(5) Ja persona, kurai ir pirmpirkuma tiesības, divu mēnešu laikā no atsavināšanas paziņojuma saņemšanas dienas nav sniegusi atsavināšanu veicošajai institūcijai atbildi uz šā panta ceturtajā daļā minētajiem jautājumiem, atsavināšanu veicošā institūcija izstrādā zemesgabala pirkuma līguma projektu par pārdošanu uz nomaksu piecos gados. Maksimālais termiņš norēķiniem par apbūvētu zemesgabalu ir desmit gadi no pirkuma līguma noslēgšanas dienas.
-(6) Ne vēlāk kā divu nedēļu laikā pēc tam, kad persona, kurai ir pirmpirkuma tiesības, apliecinājusi vēlmi pirkt zemesgabalu, vai pēc šā panta piektajā daļā minētā termiņa beigām atsavināšanu veicošā institūcija piedāvā personai, kurai ir pirmpirkuma tiesības, noslēgt zemesgabala pirkuma līgumu, ierakstītā vēstulē šai personai nosūtot līguma projektu vai nododot to pret parakstu.
-(7) Persona, kurai ir pirmpirkuma tiesības, atbildi dod mēneša laikā pēc pirkuma līguma projekta saņemšanas, iesniedzot atsavināšanu veicošajai institūcijai paziņojumā pieprasītos dokumentus un ziņas.
+(4) Atsavināšanas paziņojumā atsavināšanu veicošā institūcija lūdz personai, kurai ir pirmpirkuma tiesības, divu mēnešu laikā no atsavināšanas paziņojuma saņemšanas dienas:
+1) rakstveidā atbildēt, vai tā vēlas pirkt zemesgabalu ar minētajiem nosacījumiem;
+2) rakstveidā norādīt tai vēlamo samaksas termiņu norēķiniem par zemesgabalu;
+3) iesniegt atsavināšanas paziņojumā norādītos dokumentus un ziņas, lai noslēgtu pirkuma līgumu.
+(5) (Izslēgta ar 29.01.2015. likumu)
+(6) Ne vēlāk kā divu nedēļu laikā pēc tam, kad persona, kurai ir pirmpirkuma tiesības, apliecinājusi vēlmi pirkt zemesgabalu, atsavināšanu veicošā institūcija piedāvā personai, kurai ir pirmpirkuma tiesības, noslēgt zemesgabala pirkuma līgumu, ierakstītā vēstulē šai personai nosūtot līguma projektu vai nododot to pret parakstu.
+(7) Persona, kurai ir pirmpirkuma tiesības, atbildi dod mēneša laikā pēc pirkuma līguma projekta saņemšanas.
 (8) Noslēdzot atsavināma zemesgabala pirkuma līgumu, kurā piemērots atliktais maksājums (nomaksa), maksa par atlikto maksājumu ir seši procenti gadā no vēl nesamaksātās īpašuma kompensācijas sertifikātu un euro daļas, samaksu veicot euro.
 (9) Ja persona savas pirmpirkuma tiesības uz apbūvētu zemesgabalu nevar izmantot vai neizmanto, tai ir zemes nomas tiesības uz to pašu zemesgabalu, uz kuru tai ir pirmpirkuma tiesības, un šis zemesgabals netiek atsavināts citām personām. Ministru kabinets nosaka kārtību, kādā aprēķināma apbūvēta zemesgabala nomas maksa. Nosakot zemesgabala nomas maksu, par pamatu ņem zemesgabala kadastrālo vērtību.
 (10) Atsavināšanu veicošā institūcija pieņem lēmumu par to, ka tiek izbeigta apbūvēta zemesgabala atsavināšana, izmantojot par maksāšanas līdzekli īpašuma kompensācijas sertifikātus, un ka tā turpmāka atsavināšana var notikt Publiskas personas mantas atsavināšanas likumā noteiktajā kārtībā šādos gadījumos, ja:
