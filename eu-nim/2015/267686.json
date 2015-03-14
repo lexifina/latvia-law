@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2015.gada 10.marta Nr.122 “Zinātniskiem mērķiem izmantojamo dzīvnieku aizsardzības komitejas nolikums”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "52",
+  "official_journal_page": null,
+  "official_journal_date": "2015-03-13",
+  "entry_into_force": "2015-03-14",
+  "notification_date": "2019-01-15",
+  "commission_reference": "MNE(2019)50472",
+  "nim_celex": "72010L0063LVA_267686",
+  "nim_id": "267686",
+  "transposes_celex": [
+    "32010L0063"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/12b38e89-f690-49ef-bf11-2edd34d192b5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
