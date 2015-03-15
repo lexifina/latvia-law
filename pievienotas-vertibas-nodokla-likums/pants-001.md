@@ -12,11 +12,12 @@ b) programmatūras piegāde un atjaunināšana,
 c) attēlu, teksta un informācijas piegāde un piekļuves nodrošināšana datubāzēm,
 d) mūzikas, filmu un spēļu, tai skaitā laimes spēļu un azartspēļu, piegāde, kā arī politisku, kultūras, mākslas, sporta, zinātnes un izklaides raidījumu un ziņu piegāde,
 e) tālmācība;
-5) fiskālais pārstāvis - reģistrēts nodokļa maksātājs, kurš, pamatojoties uz rakstveida līgumu, maksā nodokli valsts budžetā un pārstāv citas dalībvalsts reģistrētu nodokļa maksātāju vai trešās valsts vai trešās teritorijas nodokļa maksātāju (attiecībā uz akcīzes precēm ievērojot arī akcīzes nodokli un akcīzes preču apriti reglamentējošus normatīvos aktus) šādos darījumos:
+5) fiskālais pārstāvis - reģistrēts nodokļa maksātājs, kurš, pamatojoties uz rakstveida līgumu, maksā nodokli valsts budžetā un pārstāv citas dalībvalsts nodokļa maksātāju vai trešās valsts vai trešās teritorijas nodokļa maksātāju (attiecībā uz akcīzes precēm ievērojot arī akcīzes nodokli un akcīzes preču apriti reglamentējošus normatīvos aktus) šādos darījumos:
 a) veicot preču importu ar turpmāku šo preču piegādi citas dalībvalsts reģistrētam nodokļa maksātājam,
 b) veicot preču importu ar turpmāku šo preču piegādi iekšzemē,
 c) saņemot preces iekšzemē, ja šīs preces saņemtas nolūkā tās eksportēt tālāk un novietotas muitas noliktavā vai akcīzes preču noliktavā, un veicot šo preču tālāko eksportēšanu,
 d) veicot preču iegādi Eiropas Savienības teritorijā, ja šīs preces iegādātas nolūkā tās eksportēt tālāk un novietotas muitas noliktavā vai akcīzes preču noliktavā, un veicot šo preču tālāko eksportēšanu;
+e) veicot preču iegādi Eiropas Savienības teritorijā, ja šīs preces faktiski saņemtas iekšzemē nolūkā tās piegādāt uz citu dalībvalsti;
 6) iekšzeme - Latvijas Republikas teritorija;
 7) izsoles cena - vērtība, kas saskaņā ar Civilprocesa likumu atbilst pilnai nosolītajai cenai, augstākajai nosolītajai cenai vai izsoles sākumcenai gadījumos, kad izsole pasludināta par nenotikušu;
 8) īpašs nodokļa režīms preču importa darījumos - par veikto preču importu muitas deklarācijā aprēķinātās valsts budžetā maksājamās nodokļa summas samaksas atlikšana līdz tās norādīšanai atbilstošā taksācijas perioda nodokļa deklarācijā;
