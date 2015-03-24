@@ -1,0 +1,1 @@
+21. Grozījums šā likuma 17.¹ pantā par tā papildināšanu ar piekto daļu (par jaunsargu tiesībām saņemt apmaksātu veselības aprūpi) stājas spēkā 2016.gada 1.janvārī. Ministru kabinets līdz 2015.gada 31.decembrim izdod šā likuma 17.¹ panta piektajā daļā minētos noteikumus.

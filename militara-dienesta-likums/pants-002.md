@@ -15,7 +15,7 @@ Likumā ir lietoti šādi termini:
 10) virsnieks speciālists - virsnieks, kuram ir akadēmiskā vai otrā līmeņa profesionālā augstākā izglītība attiecīgajā specialitātē un kurš apguvis virsnieka speciālista pamatkursu Latvijas Nacionālajā aizsardzības akadēmijā vai citu tam pielīdzinātu kursu;
 10¹) kareivis speciālists - kareivis, kuram ir profesionālā vidējā izglītība amatam nepieciešamajā specialitātē un kurš apguvis kareivja speciālista pamatkursu vai citu tam pielīdzinātu kursu;
 10²) instruktors speciālists - instruktors, kuram ir profesionālā vidējā izglītība vai augstākā izglītība amatam nepieciešamajā specialitātē un kurš apguvis instruktora speciālista kursu vai citu tam pielīdzinātu kursu;
-11) klausītājs - virsnieks, kas militārajā izglītības iestādē klātienē paaugstina savu kvalifikāciju;
+11) (izslēgts ar 19.02.2015. likumu);
 12) vienība - militārais formējums, kuram ir patstāvīga vadība un apstiprināts štats;
 13) apakšvienība - militārais formējums vienības sastāvā;
 14) garnizons - vienību kopums, kas pastāvīgi vai uz laiku izvietots noteiktā administratīvajā teritorijā.
