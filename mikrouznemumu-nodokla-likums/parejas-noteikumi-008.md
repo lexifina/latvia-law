@@ -1,0 +1,1 @@
+8. Piemērojot šā likuma 7.panta otro un trešo daļu attiecībā uz 2015.gada pirmo ceturksni, mikrouzņēmumu nodokļa ceturkšņa deklarācijas iesniegšanas un mikrouzņēmumu nodokļa nomaksas termiņš ir no 2015.gada 15.maija līdz 25.maijam.
