@@ -1,6 +1,6 @@
 17.pants. Kvalificēta sertifikāta izsniegšana
 (1) Lai saņemtu kvalificētu sertifikātu, parakstītājs iesniedz pašrocīgi parakstītu rakstveida pieteikumu.
-(2) Pirms kvalificēta sertifikāta izsniegšanas uzticams sertifikācijas pakalpojumu sniedzējs parakstītāja klātbūtnē pārliecinās par parakstītāja identitāti, pamatojoties uz parakstītāja uzrādītu personu apliecinošu dokumentu.
+(2) Pirms pirmreizējas kvalificēta sertifikāta izsniegšanas uzticams sertifikācijas pakalpojumu sniedzējs parakstītāja klātbūtnē pārliecinās par parakstītāja identitāti, pamatojoties uz parakstītāja uzrādītu personu apliecinošu dokumentu. Pirms atkārtotas kvalificēta sertifikāta izsniegšanas uzticams sertifikācijas pakalpojumu sniedzējs var pārliecināties par parakstītāja identitāti, pamatojoties uz parakstītāja pieteikumu, kas parakstīts ar parakstītāja drošu elektronisko parakstu.
 (3) Uzticams sertifikācijas pakalpojumu sniedzējs pēc parakstītāja rakstveida pieprasījuma kvalificētā sertifikātā iekļauj informāciju par parakstītāja pilnvarām vai citu nozīmīgu informāciju, kas minēta šā likuma 16.panta otrajā daļā.
 (4) Uzticams sertifikācijas pakalpojumu sniedzējs pēc parakstītāja rakstveida pieprasījuma kvalificētā sertifikātā parakstītāja vārda un uzvārda vietā var ierakstīt pseidonīmu, par to attiecīgi norādot sertifikātā.
 (5) Kvalificētu sertifikātu parakstītājam izsniedz uzticams sertifikācijas pakalpojumu sniedzējs.
