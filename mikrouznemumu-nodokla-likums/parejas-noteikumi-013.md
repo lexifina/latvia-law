@@ -1,0 +1,1 @@
+13. Mikrouzņēmumu nodokļa maksātājiem, kas ir ieguvuši mikrouzņēmumu nodokļa maksātāja statusu līdz 2014.gada 31.decembrim, šā likuma 6.panta 1.¹ daļā noteiktais triju gadu termiņš tiek skaitīts, sākot ar 2015.gada 1.janvāri.
