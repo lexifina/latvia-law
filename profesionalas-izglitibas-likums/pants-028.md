@@ -2,7 +2,8 @@
 (1) Profesionālās izglītības ieguves formas ir šādas:
 1) klātiene;
 2) neklātiene;
-3) pašizglītība.
+3) pašizglītība;
+4) darba vidē balstītas mācības.
 (2) Profesionālās izglītības programmas īstenošanas ilgums klātienē profesionālās izglītības iestādēs ir šāds:
 1) profesionālās pamatizglītības ieguves ilgums - ne vairāk kā divi gadi (ar pedagoģisko korekciju un programmās izglītojamajiem ar garīgās attīstības traucējumiem - ne vairāk kā trīs gadi);
 2) arodizglītības ieguves ilgums - ne vairāk kā trīs gadi;

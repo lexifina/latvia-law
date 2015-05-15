@@ -7,6 +7,7 @@ Profesionālās izglītības iestādes nolikumā norāda:
 5) izglītības procesa organizāciju;
 6) pedagogu un citu darbinieku tiesības un pienākumus;
 7) izglītojamo tiesības un pienākumus;
+7¹) izglītības iestādes pārvaldes institūcijas un padomdevējas institūcijas;
 8) izglītības iestādes pašpārvaldes izveidošanas kārtību, tās kompetenci;
 9) izglītības iestādes iekšējo kārtību reglamentējošo dokumentu pieņemšanas kārtību;
 10) izglītības iestādes saimniecisko darbību;

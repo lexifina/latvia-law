@@ -1,0 +1,1 @@
+25. Šā likuma 6.panta astotā daļa (par Latvijas kvalifikāciju ietvarstruktūras līmeņa norādīšanu valsts atzītos profesionālo izglītību apliecinošos dokumentos un profesionālo kvalifikāciju apliecinošos dokumentos) stājas spēkā 2017.gada 1.janvārī.

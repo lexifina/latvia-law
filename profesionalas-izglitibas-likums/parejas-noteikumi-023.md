@@ -1,0 +1,1 @@
+23. Ministru kabinets līdz 2015.gada 30.jūnijam izdod šā likuma 15.¹ panta 1.¹ daļā minētos noteikumus par kritērijiem profesionālās izglītības kompetences centra statusa iegūšanai mākslas, mūzikas vai dejas jomā.

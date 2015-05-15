@@ -4,6 +4,8 @@
 1) arodizglītība - daļēja vidējās pakāpes profesionālā izglītība, kas dod iespēju iegūt otrā līmeņa profesionālo kvalifikāciju;
 2) centralizēts eksāmens - pēc īpašas metodikas izveidots un pēc vienotas kārtības valsts mērogā organizēts eksāmens, lai novērtētu izglītojamo mācību sasniegumus profesionālās izglītības vai profesionālās kvalifikācijas ieguvei;
 2¹) eksaminācijas centrs - Ministru kabineta noteiktajā kārtībā akreditēta komercsabiedrība vai biedrība, kura neīsteno izglītības programmas, bet kurā atbilstoši tās darbībai noteiktā preču ražošanas, sadales vai pakalpojumu jomā kārtojami eksāmeni profesionālās kvalifikācijas ieguvei šā likuma 6.panta trešajā un septītajā daļā paredzētajos gadījumos;
+2²) kvalifikācijas prakse - attiecīgās profesionālās izglītības programmas praktiskās daļas (profesionālo iemaņu un prasmju) apguves noslēdzošā daļa pirms valsts pārbaudījuma profesionālās kvalifikācijas iegūšanai;
+2³) mācību prakse - attiecīgās profesionālās izglītības programmas praktiskās daļas apguve izglītības iestādē vai ārpus tās, izņemot kvalifikācijas praksi;
 3) praktikants - izglītojamais, kas saskaņā ar attiecīgās profesionālās izglītības programmas praktiskās daļas apguvi atrodas mācību praksē iestādē, pie komersanta vai biedrībā;
 4) profesija - fiziskās personas nodarbošanās veids preču ražošanas, sadales vai pakalpojumu sfērā, arī izglītībā, kultūrā un mākslā, kam nepieciešama noteikta sagatavotība (izglītība);
 5) profesionālā augstākā izglītība - augstākās pakāpes profesionālā izglītība, kas dod iespēju iegūt ceturtā vai piektā līmeņa profesionālo kvalifikāciju;
