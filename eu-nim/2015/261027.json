@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Tiesu komunikācijas stratēģija",
+  "type_of_act": "Administratīvie pasākumi",
+  "official_journal": "Obsolete",
+  "official_journal_reference": ".",
+  "official_journal_page": null,
+  "official_journal_date": "2018-05-18",
+  "entry_into_force": "2015-05-18",
+  "notification_date": "2018-07-19",
+  "commission_reference": "MNE(2018)53865",
+  "nim_celex": "72016L0343LVA_261027",
+  "nim_id": "261027",
+  "transposes_celex": [
+    "32016L0343"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/381d590f-e904-43e9-87f3-609ee0a004c7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
