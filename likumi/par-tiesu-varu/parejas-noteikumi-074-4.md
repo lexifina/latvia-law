@@ -1,0 +1,1 @@
+74.⁴ Uz vakanto Augstākās tiesas departamenta tiesneša amatu var izsludināt konkursu, ja Tiesnešu kvalifikācijas kolēģija nevirza uz šo amatu tiesu palātas tiesnesi vai Augstākās tiesas tiesnesi, kuram saskaņā ar šo pārejas noteikumu 74.² punktu uzdots pildīt tiesneša amata pienākumus citā apelācijas instances tiesā.
