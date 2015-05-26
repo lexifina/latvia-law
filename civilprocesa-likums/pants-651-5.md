@@ -1,0 +1,4 @@
+651.⁵ pants. Pieteikuma izlemšana
+(1) Lēmumu par ārvalsts tiesas nolēmumā noteikto tiesību un pienākumu pielāgošanu to īstenošanai Latvijā vai lēmumu par pieteikuma noraidīšanu pieņem tiesnesis vienpersoniski uz iesniegtā pieteikuma un tam pievienoto dokumentu pamata 10 dienu laikā pēc lietas ierosināšanas, neaicinot puses.
+(2) Padomes regulas Nr. 606/2013 11.pantā noteiktajos gadījumos šā panta pirmajā daļā minēto lēmumu tiesnesis pieņem nākamajā darbdienā pēc pieteikuma saņemšanas, neaicinot puses. Lēmumu par ārvalsts tiesas nolēmumā noteikto tiesību un pienākumu pielāgošanu to īstenošanai Latvijā saskaņā ar Padomes regulas Nr. 606/2013 11.pantu paziņo atbildētājam atbilstoši minētās regulas 11.panta 4.punktam.
+(3) Ja, izvērtējot objektīvos ar lietu saistītos apstākļus, it īpaši - lietas sarežģītības un apjomīguma pakāpi, tiesnesis uzskata par neiespējamu šā panta pirmajā daļā minēto lēmumu pieņemt 10 dienu laikā, viņš to pieņem pēc iespējas tuvākajā laikā.

@@ -1,0 +1,3 @@
+73.¹ pants. Negodprātīga tiesību un pienākumu izmantošana vai necieņa pret tiesu
+(1) Ja lietas dalībnieks negodprātīgi izmanto savas tiesības vai negodprātīgi pilda savus pienākumus, tajā skaitā sniedz tiesai apzināti nepatiesas ziņas par faktiem un lietas apstākļiem vai apzināti ar darbību vai bezdarbību novilcina lietas vai jautājuma izskatīšanu, tiesnesis izsaka lietas dalībniekam brīdinājumu vai uzliek naudas sodu līdz 800 euro.
+(2) Par necieņu pret tiesu - jebkuru rīcību, kas liecina par tiesas sēdē vai tiesā pastāvošo noteikumu klaju ignorēšanu - tiesa var uzlikt lietas dalībniekam naudas sodu līdz 1000 euro.

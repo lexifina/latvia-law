@@ -1,5 +1,5 @@
 142.pants. Prasības nodrošinājuma jautājumos pieņemto lēmumu izpilde
-(1) Lēmums par prasības nodrošināšanu (140.panta pirmā daļa) un lēmums par prasības nodrošinājuma atcelšanu (140.panta piektā daļa) izpildāms nekavējoties pēc tā pieņemšanas.
+(1) Lēmums par prasības nodrošināšanu (140.panta pirmā daļa) un lēmums par prasības nodrošinājuma atcelšanu (140.panta piektā un desmitā daļa) izpildāms nekavējoties pēc tā pieņemšanas.
 (2) Lēmums par prasības nodrošināšanu, kas pieņemts ar šā likuma 140.panta otrajā daļā noteikto nosacījumu, izpildāms pēc tam, kad prasītājs iemaksājis tiesas vai tiesneša noteikto summu tiesu izpildītāja depozīta kontā. Izpildu dokumentu vai šā panta trešajā daļā minētā lēmuma norakstu izsniedz pēc tiesas noteiktās summas iemaksas.
 (3) Ja prasība nodrošināta ar nekustamo īpašumu vai kuģi, vai ar aizlieguma atzīmes ierakstīšanu kustamas mantas reģistrā vai citā publiskā reģistrā, tiesa izsniedz prasītājam attiecīgā lēmuma norakstu ar uzrakstu, ka šis lēmuma noraksts izsniegts atzīmes ierakstīšanai zemesgrāmatā kustamas mantas reģistrā vai citā attiecīgā publiskā reģistrā, bet kuģa aresta gadījumā - kuģa aizturēšanai ostā.
 (4) Lēmumu par prasības nodrošināšanu, apķīlājot atbildētājam piederošu kustamu mantu vai skaidru naudu, kas atrodas pie atbildētāja vai trešajām personām, izpilda šā likuma 71.nodaļā noteiktajā kārtībā.

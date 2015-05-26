@@ -19,3 +19,5 @@
 5) pieteikuma un noteiktā kārtībā apliecinātu šīs daļas 1., 2. un 3.punktā minēto dokumentu tulkojumu valsts valodā;
 6) dokumentu, kas apstiprina valsts nodevas nomaksu likumā noteiktajā kārtībā un apmērā.
 (4) Pieteikumu paraksta pieteicējs vai viņa pārstāvis. Ja pieteikumu parakstījis pārstāvis, pieteikumam pievienojama pilnvara vai cits dokuments, kas apliecina pārstāvja pilnvarojumu griezties ar pieteikumu tiesā.
+(5) Neparakstītu pieteikumu uzskata par neiesniegtu un nosūta atpakaļ iesniedzējam.
+(6) Tiesnesis pieņem lēmumu par atteikšanos pieņemt pieteikumu, ja tam nav pievienota pilnvara vai cits dokuments, kas apliecina pārstāvja pilnvarojumu griezties ar šo pieteikumu tiesā. Lēmums nav pārsūdzams.

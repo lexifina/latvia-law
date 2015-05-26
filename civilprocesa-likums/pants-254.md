@@ -12,3 +12,4 @@
 8) pieteikuma sastādīšanas laiku.
 (2) Pieteikumu paraksta pieteicējs vai viņa pārstāvis, vai pieteicējs kopā ar pārstāvi, ja to noteikusi tiesa, izņemot šā likuma 72.panta piektajā daļā noteikto gadījumu. Ja pieteikumu parakstījis pārstāvis, pieteikumam pievienojama pilnvara vai cits dokuments, kas apliecina pārstāvja pilnvarojumu griezties ar pieteikumu tiesā.
 (3) Pieteikumu iesniedz tiesai, pievienojot tik norakstus, cik lietā ir ieinteresēto personu.
+(4) Neparakstītu pieteikumu uzskata par neiesniegtu un nosūta atpakaļ iesniedzējam.

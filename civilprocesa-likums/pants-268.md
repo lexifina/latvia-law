@@ -5,7 +5,7 @@
 2) darījumu slēgšana;
 3) rīcība ar mantu un tās pārvaldība, it īpaši nekustamā īpašuma atsavināšana, ieķīlāšana un apgrūtināšana ar lietu tiesībām;
 4) komercdarbības un saimnieciskās darbības veikšana.
-(3) Tiesa rīcībspējas ierobežojuma apjomu var vērtēt arī citās jomās.
+(3) Tiesa rīcībspējas ierobežojuma apjomu var vērtēt arī citās jomās, izņemot Civillikuma 356.¹ pantā minētos gadījumus.
 (4) Tiesa, izvērtējot personas spējas, nosaka, vai un kādā apjomā aizgādnis ar aizgādnībā esošo rīkojas kopā, un tikai pēc tam apjomu, kādā aizgādnis rīkosies patstāvīgi.
 (5) Pēc sprieduma stāšanās likumīgā spēkā tiesa tā norakstu nosūta bāriņtiesai - aizgādņa iecelšanai, kā arī prokuroram un personai, kuras rīcībspēja ierobežota. Tiesa nosūta informāciju par spriedumu arī Iedzīvotāju reģistram un, ja nepieciešams, sprieduma norakstu atzīmes ierakstīšanai zemesgrāmatā, kustamas mantas reģistrā vai citā attiecīgā publiskā reģistrā.
 (6) Pēc sprieduma stāšanās likumīgā spēkā tiesa nosūta publicēšanai oficiālajā izdevumā "Latvijas Vēstnesis" paziņojumu, kurā norāda:

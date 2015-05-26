@@ -13,4 +13,6 @@
 8) pievienoto dokumentu sarakstu;
 9) pieteikuma sastādīšanas laiku.
 (4) Pieteikumam pievieno dokumentus, uz kuriem tas pamatots.
-(5) Pieteikumu paraksta pieteicējs vai viņa pārstāvis. Ja pieteikumu iesniedz pieteicēja pārstāvis, pieteikumam pievienojama pilnvara vai cits dokuments, kas apliecina pilnvarojumu iesniegt pieteikumu.
+(5) Pieteikumu paraksta pieteicējs vai viņa pārstāvis. Ja pieteikumu iesniedz pieteicēja pārstāvis, pieteikumam pievienojama pilnvara vai cits dokuments, kas apliecina pilnvarojumu griezties ar šo pieteikumu tiesā.
+(6) Neparakstītu pieteikumu uzskata par neiesniegtu un nosūta atpakaļ iesniedzējam.
+(7) Tiesnesis pieņem lēmumu par atteikšanos pieņemt pieteikumu, ja tam nav pievienota pilnvara vai cits dokuments, kas apliecina pārstāvja pilnvarojumu griezties ar šo pieteikumu tiesā. Lēmums nav pārsūdzams.

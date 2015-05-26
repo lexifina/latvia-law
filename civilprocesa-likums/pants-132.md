@@ -9,7 +9,8 @@
 6) lieta nav piekritīga šai tiesai;
 7) prasītājs nav ievērojis attiecīgo lietu kategorijai noteikto lietas iepriekšējās ārpustiesas izskatīšanas kārtību vai nav veicis likumā noteiktos pasākumus, lai noregulētu strīdu ar atbildētāju līdz prasības celšanai;
 8) prasības pieteikumu iesniegusi persona, kurai nav civilprocesuālās rīcībspējas;
-9) prasības pieteikumu prasītāja vārdā iesniegusi persona, kura nav tam pilnvarota likumā noteiktajā kārtībā.
+9) no prasības pieteikumam pievienotās pilnvaras vai cita dokumenta neizriet pilnvarojums pārstāvim celt šādu prasību;
+10) prasības pieteikumam nav pievienota pilnvara vai cits dokuments, kas apliecina pārstāvja pilnvarojumu celt prasību.
 (2) Par atteikšanos pieņemt prasības pieteikumu tiesnesis pieņem motivētu lēmumu. Lēmumu līdz ar iesniegto prasības pieteikumu izsniedz prasītājam.
-(3) Lēmumu var pārsūdzēt šajā likumā noteiktajā kārtībā.
-(4) Tiesneša atteikums pieņemt prasības pieteikumu uz šā panta pirmās daļas 6.-9.punkta pamata nav šķērslis tāda paša pieteikuma iesniegšanai tiesā, kad būs novērsti pieļautie trūkumi.
+(3) Lēmumu var pārsūdzēt šajā likumā noteiktajā kārtībā, izņemot lēmumu par atteikšanos pieņemt prasības pieteikumu uz šā panta pirmās daļas 10.punkta pamata.
+(4) Tiesneša atteikums pieņemt prasības pieteikumu uz šā panta pirmās daļas 6.-10.punkta pamata nav šķērslis tāda paša pieteikuma iesniegšanai tiesā, kad būs novērsti pieļautie trūkumi.

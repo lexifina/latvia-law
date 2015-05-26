@@ -1,3 +1,4 @@
-141.pants. Prasības nodrošinājuma jautājumos pieņemto lēmumu pārsūdzēšana
-(1) Par šā likuma 140.panta trešajā daļā minēto lēmumu, lēmumu, ar kuru noraidīts pieteikums par prasības nodrošināšanu, un lēmumu, ar kuru noraidīts pieteikums par prasības nodrošinājuma atcelšanu, var iesniegt blakus sūdzību. Šā likuma 140.panta otrajā daļā minētajā gadījumā blakus sūdzību var iesniegt par tiesas lēmumu daļā, ar kuru prasītājam uzdots nodrošināt zaudējumus.
+141.pants. Prasības nodrošinājuma jautājumos pieņemto lēmumu paziņošana un pārsūdzēšana
+(1) Par šā likuma 140.panta trešajā daļā minēto lēmumu, lēmumu, ar kuru noraidīts pieteikums par prasības nodrošināšanu, un lēmumu, ar kuru noraidīts pieteikums par prasības nodrošinājuma atcelšanu, kā arī tiesas lēmumu par zaudējumu nodrošināšanu, kas atbildētājam varētu rasties saistībā ar prasības nodrošināšanu (140.panta otrā, 3.¹ un 5.¹ daļa), var iesniegt blakus sūdzību.
+(1¹) Lēmumu, kas pieņemts par zaudējumu nodrošināšanu, kas atbildētājam varētu rasties saistībā ar prasības nodrošināšanu, paziņo atbildētājam pēc tam, kad prasītājs iemaksājis tiesas vai tiesneša noteikto summu tiesu izpildītāja depozīta kontā.
 (2) Ja lēmums par prasības nodrošināšanu pieņemts bez lietas dalībnieka klātbūtnes, termiņu sūdzības iesniegšanai skaita no lēmuma izsniegšanas dienas.

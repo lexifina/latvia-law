@@ -21,7 +21,8 @@ f) vairāk par 711 435 euro, - 8715,04 euro plus 0,6 procenti no prasības summa
 12) par prasības pieteikumu par kopīgas mantas dalīšanu - tādā pašā apmērā kā par prasības pieteikumu vispārējā kārtībā;
 13) par sūdzībām tiesiskās aizsardzības procesa lietās, par sūdzībām maksātnespējas procesa lietās sakarā ar kreditoru sapulces lēmumu, par sūdzībām sakarā ar maksātnespējas procesa administratora (turpmāk - administrators) lēmumu vai rīcību, par sūdzībām par Maksātnespējas administrācijas lēmumiem, kā arī par Padomes 2000.gada 29.maija regulas (EK) Nr. 1346/2000 par maksātnespējas procedūrām (turpmāk - Padomes regula Nr. 1346/2000) 33. un 37.pantā noteikto darbību veikšanu - 21,34 euro;
 14) par sūdzībām sakarā ar tiesu izpildītāja vai zvērināta notāra lēmumiem vai rīcību - 21,34 euro;
-15) par pieteikumu par nekustamā īpašuma nostiprināšanu uz ieguvēja vārda - 71,14 euro.
+15) par pieteikumu par nekustamā īpašuma nostiprināšanu uz ieguvēja vārda - 71,14 euro;
+16) par pieteikumu par puses procesuālo tiesību pārņemšanu, ja šāds pieteikums tiesā iesniegts pēc tam, kad lietā spēkā stājies gala nolēmums, - 30 euro.
 (2) (Ievaddaļa izslēgta no 01.01.2012. ar 04.08.2011. likumu)
 1) (izslēgts no 01.01.2012. ar 31.10.2002. likumu);
 2) (izslēgts no 01.01.2012. ar 31.10.2002. likumu);
@@ -30,4 +31,4 @@ f) vairāk par 711 435 euro, - 8715,04 euro plus 0,6 procenti no prasības summa
 (4) Par apelācijas sūdzību maksājama valsts nodeva atbilstoši likmei, kāda jāmaksā, iesniedzot prasības pieteikumu (pieteikumu sevišķās tiesāšanas kārtības lietā), bet mantiska rakstura strīdos - likmei, kuru aprēķina atbilstoši strīda summai pirmās instances tiesā.
 (5) Iesniedzot blakus sūdzību par tiesas lēmumu, izņemot lēmumu, ar kuru atteikts atbrīvot no tiesas izdevumu samaksas valsts ienākumos, maksājama valsts nodeva - 28,46 euro.
 (6) Iesniedzot izpildu rakstu vai citu izpildu dokumentu izpildei, maksājama valsts nodeva - 2,85 euro.
-(7) Iesniedzot pieteikumu par ārvalsts tiesas nolēmuma atzīšanu un izpildīšanu, maksājama valsts nodeva - 28,46 euro.
+(7) Iesniedzot pieteikumu par ārvalsts tiesas nolēmuma atzīšanu un izpildīšanu un ārvalsts tiesas nolēmumā noteikto tiesību un pienākumu pielāgošanu to īstenošanai Latvijā, maksājama valsts nodeva - 28,46 euro.

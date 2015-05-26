@@ -13,3 +13,4 @@
 1) valsts nodevas un citu tiesas izdevumu samaksu likumā noteiktajā kārtībā un apmērā;
 2) iebildumu pamatojumu.
 (4) Pieteikumam pievieno tā norakstus un rakstveida pierādījumu norakstus nosūtīšanai prasītājam un trešajām personām.
+(5) Neparakstītu pieteikumu uzskata par neiesniegtu un nosūta atpakaļ iesniedzējam.

@@ -10,5 +10,5 @@
 7) pieteicēja apliecinājums, ka prasījums nav atkarīgs no pretizpildījuma vai ka pretizpildījums ir izdarīts;
 8) lūgums tiesai izsniegt parādniekam brīdinājumu;
 9) lūgums izlemt par maksājuma saistības piespiedu izpildi un tiesas izdevumu piedziņu;
-10) apliecinājums, ka tiesai sniegtas patiesas ziņas par faktiem un pieteicējs ir informēts, ka Krimināllikums paredz atbildību par nepatiesa pieteikuma sniegšanu.
+10) apliecinājums, ka tiesai sniegtas patiesas ziņas par faktiem un pieteicējs vai pārstāvis, ja pieteikumu iesniedz pārstāvis, ir informēts, ka Krimināllikums paredz atbildību par nepatiesa pieteikuma sniegšanu.
 (3) Pieteikumam pievieno dokumentus, kas apstiprina valsts nodevas un ar brīdinājuma izsniegšanu saistīto izdevumu samaksu.

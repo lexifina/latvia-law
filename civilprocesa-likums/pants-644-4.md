@@ -14,4 +14,6 @@
 2) attiecīgajos gadījumos - pienācīgi apliecinātu ārvalsts tiesas izsniegtā Eiropas izpildes rīkojuma, Eiropas maksājuma rīkojuma, Padomes regulas Nr. 2201/2003 41.panta 1.punktā minētās apliecības, Eiropas Parlamenta un Padomes regulas Nr. 861/2007 20.panta 2.punktā minētās apliecības vai Padomes regulas Nr. 4/2009 20.panta 1.punkta "b" apakšpunktā minētā izraksta norakstu;
 3) citus dokumentus, uz kuriem pamatots pieteicēja pieteikums;
 4) pieteikuma un noteiktā kārtībā apliecinātu šīs daļas 1., 2. un 3.punktā minēto dokumentu tulkojumu valsts valodā.
-(3) Pieteikumu paraksta pieteicējs vai tā pārstāvis. Ja pieteikumu parakstījis pieteicēja pārstāvis, pieteikumam pievieno pilnvaru vai citu dokumentu, kas apliecina pilnvarojumu iesniegt pieteikumu.
+(3) Pieteikumu paraksta pieteicējs vai tā pārstāvis. Ja pieteikumu parakstījis pieteicēja pārstāvis, pieteikumam pievieno pilnvaru vai citu dokumentu, kas apliecina pilnvarojumu griezties ar šo pieteikumu tiesā.
+(4) Neparakstītu pieteikumu uzskata par neiesniegtu un nosūta atpakaļ iesniedzējam.
+(5) Tiesnesis pieņem lēmumu par atteikšanos pieņemt pieteikumu, ja tam nav pievienota pilnvara vai cits dokuments, kas apliecina pārstāvja pilnvarojumu griezties ar šo pieteikumu tiesā. Lēmums nav pārsūdzams.

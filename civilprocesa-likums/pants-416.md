@@ -9,4 +9,6 @@
 7) sūdzības iesniedzēja lūgumu;
 8) sūdzībai pievienoto dokumentu sarakstu.
 (2) Apelācijas sūdzību paraksta iesniedzējs vai viņa pilnvarots pārstāvis. Apelācijas protestu paraksta likumā noteiktā prokuratūras amatpersona.
-(3) Apelācijas sūdzību, ko iesniegusi persona, kas nav pilnvarota pārsūdzēt tiesas spriedumu, nepieņem un atdod iesniedzējam.
+(3) (Izslēgta ar 23.04.2015. likumu)
+(4) Neparakstītu apelācijas sūdzību uzskata par neiesniegtu un nosūta atpakaļ iesniedzējam.
+(5) Tiesnesis pieņem lēmumu par atteikšanos pieņemt apelācijas sūdzību, ja tai nav pievienota pilnvara vai cits dokuments, kas apliecina pārstāvja pilnvarojumu pārsūdzēt tiesas spriedumu.

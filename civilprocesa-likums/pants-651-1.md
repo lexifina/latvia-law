@@ -1,0 +1,2 @@
+651.¹ pants. Ārvalsts tiesas nolēmums, kurā noteiktās tiesības un pienākumi pielāgojami to īstenošanai Latvijā
+Ārvalsts tiesas nolēmums šīs nodaļas izpratnē ir tāds ārvalsts tiesas vai ārvalsts kompetentās iestādes nolēmums, kas saskaņā ar tieši piemērojamām Eiropas Savienības tiesību normām vai Latvijas Republikai saistošiem starptautiskajiem līgumiem ir atzīstams vai pasludināms par izpildāmu Latvijā, kā arī tāds nolēmums, kas ir izpildāms šajā likumā noteiktajā kārtībā, neprasot ārvalsts tiesas nolēmuma atzīšanu un ārvalsts tiesas nolēmuma izpildes pasludināšanu.
