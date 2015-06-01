@@ -3,6 +3,7 @@
 2) bīstamie atkritumi - atkritumi, kuriem piemīt viena vai vairākas īpašības, kas padara tos bīstamus;
 3) sadzīves atkritumi - mājsaimniecībā, tirdzniecībā, pakalpojumu sniegšanas procesā vai citur radušies atkritumi, ja tie īpašību ziņā ir pielīdzināmi mājsaimniecībās radītajiem atkritumiem;
 4) ražošanas atkritumi - atkritumi, kas radušies ražošanas procesā vai būvniecībā;
+4¹) bioloģiskie atkritumi - bioloģiski noārdāmi dārzu vai parku atkritumi, mājsaimniecību, restorānu, sabiedriskās ēdināšanas iestāžu un mazumtirdzniecības telpu pārtikas un virtuves atkritumi un citi tiem pielīdzināmi pārtikas ražošanas atkritumi;
 5) atkritumu valdītājs - ikviena fiziskā vai juridiskā persona, kura atbilst vismaz vienam no šādiem nosacījumiem:
 a) ir atkritumu radītāja,
 b) ir fiziskā vai juridiskā persona, kuras faktiskajā varā atrodas atkritumi;
@@ -13,6 +14,7 @@ b) ir fiziskā vai juridiskā persona, kuras faktiskajā varā atrodas atkritumi
 10) atkritumu poligons - tāda speciāli ierīkota un aprīkota vieta atkritumu apglabāšanai uz zemes vai zemē, kur nodrošināti normatīvajos aktos noteiktie vides aizsardzības pasākumi;
 11) izgāztuve - atkritumu apglabāšanas vieta, kas neatbilst poligona prasībām;
 12) atkritumu uzglabāšana - atkritumu glabāšana tam speciāli piemērotās un aprīkotās vietās to turpmākai reģenerācijai vai apglabāšanai [izņemot īslaicīgu uzglabāšanu (mazāk par trim mēnešiem) to rašanās, šķirošanas un savākšanas vietās daudzumos, kas nerada kaitējumu videi vai draudus cilvēku veselībai];
+12¹) atkritumu šķirošana - atsevišķu atkritumu veidu manuāla atdalīšana no kopējās atkritumu plūsmas atkritumu rašanās vietā, manuāla vai automatizēta atdalīšana no kopējās atkritumu plūsmas atkritumu savākšanas un šķirošanas vietās, kā arī atkritumu reģenerācijas un atkritumu apglabāšanas iekārtās;
 13) atkritumu reģenerācija - jebkura darbība, kuras galvenais rezultāts ir atkritumu lietderīga izmantošana ražošanas procesos vai tautsaimniecībā, aizstājot ar tiem citus materiālus, kuri būtu izmantoti attiecīgajai darbībai, vai atkritumu sagatavošana šādai izmantošanai;
 14) atkritumu pārstrāde - atkritumu reģenerācijas darbība, kurā atkritumu materiālus pārstrādā produktos, materiālos vai vielās atbilstoši to sākotnējam vai citam izmantošanas veidam, ietverot organisko materiālu pārstrādi un izņemot atkritumos esošās enerģijas reģenerāciju un tādu materiālu izgatavošanu, kuri tiks izmantoti par kurināmo vai izrakto tilpju aizbēršanai;
 15) atkritumu sagatavošana atkārtotai izmantošanai - par atkritumiem kļuvušu produktu vai to sastāvdaļu pārbaude, tīrīšana vai labošana, lai tos varētu atkārtoti lietot bez turpmākas priekšapstrādes;
