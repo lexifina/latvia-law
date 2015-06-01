@@ -6,4 +6,5 @@ Likumā ir lietoti šādi termini:
 4) (izslēgts ar 01.11.2007. likumu);
 5) (izslēgts ar 21.12.2000. likumu);
 6) (izslēgts ar 18.09.2014. likumu);
-7) (izslēgts ar 29.10.2009. likumu).
+7) (izslēgts ar 29.10.2009. likumu);
+8) toksiskas un ļoti toksiskas ķīmiskās vielas un maisījumi - 1., 2. un 3.kategorijas akūti toksiskas ķīmiskās vielas un maisījumi un 1.kategorijas ķīmiskās vielas un maisījumi ar toksisku ietekmi uz konkrētiem mērķorgāniem pēc vienreizējas vai atkārtotas iedarbības.
