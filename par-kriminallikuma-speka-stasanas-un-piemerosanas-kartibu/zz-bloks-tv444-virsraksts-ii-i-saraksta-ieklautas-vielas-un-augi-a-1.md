@@ -23,6 +23,7 @@ PEPAP
 4-fenil-1-(2-feniletil)piperidin-4-ilacetāts
 0,1 g
 1 g
+4)AH-792155154-30-83,4-dihlor-N-[[1-(dimetilamino)cikloheksil]metil]benzamīds0,1 g1 g
 5. Morfināna atvasinājumi, kas klasificēti atbilstoši 1961.gada 30.marta Vienotajai konvencijai par narkotiskajām vielām:
 Nr.
 Starptautiskais neaizsargātais vielas nosaukums (SNN)/triviālais vielas nosaukums
@@ -124,6 +125,9 @@ Metil 1-feniletil-4-(N-fenilpropānamīd) piperidīn-4-karboksilāts
 11)4F-BF, 4-fluoro-butirfentanilsN-(4-fluorofenil)-N-[(1-(2-feniletil)-4-piperidinil)]butānamīds
 0,001g
 1 g
+12)Acetilfentanils3258-84-2N-(1-fenetilpiperidin-4-il)-N-fenilacetamīds0,001 g1 g
+13)B-F1443-52-3N-(1-(2-feniletil)-4-piperidinil)-N-fenilbutiramīds0,001 g1 g
+14)5F-BF, 5-fluoro-butiril-fentanils N-(5-fluorfenil)-N-(1-(2-feniletil)-4-piperidinil)-N-fenilbutiramīds0,001 g1 g
 7. Augu valsts produkti ar narkotisku iedarbību, kas klasificēti atbilstoši 1961.gada 30.marta Vienotajai konvencijai par narkotiskajām vielām:
 Nr.
 Produkta nosaukums
@@ -179,6 +183,9 @@ d)
 kanabisa sveķi, eļļa, ekstrakti un tinktūras
 0,05 g
 20 g
+e)izžāvēts augu maisījums, kas satur 7.punkta 4.apakšpunkta "a" un "b" apakšpunktā minētās vielas jebkurā attiecībā1 g100 g
+f)izžāvēts augu maisījums, kas satur 7.punkta 4.apakšpunkta "c" un "d" apakšpunktā minētās vielas jebkurā attiecībā0,5 g50 g
+g)vielu maisījums, kas satur dronabinolu (delta-9-tetrahidrokanabinolu) jebkurā daudzumā, kas nav nodalāms no vielu maisījuma kopējā daudzuma5 g50 g
 5)
 kokas krūma lapas, izžāvētas
 10 g
@@ -227,6 +234,7 @@ mefenorekss, Rondimen, Pondinil, Anexate
 4-metil-5-fenil-4,5-dihidro-1,3-oksazol-2-amīns
 0,01 g
 1 g
+7)4,4′-DMAR1445569-01-64-metil-5-(4-metilfenil)-4,5-dihidrooksazol-2-amīns0,01 g1 g
 8.2. Dabas vielas un to atvasinājumi
 Nr.
 Starptautiskais neaizsargātais vielas nosaukums (SNN)/triviālais vielas nosaukums
@@ -374,67 +382,61 @@ nežāvētas
 Nr.Vielas nosaukumsApmērs, līdz kuram daudzumi atzīstami par nelieliemApmērs, sākot ar kuru daudzumi atzīstami par lieliem
 1)2,5-dimetoksifeniletānamīni
 2,5-dimetoksifeniletānamīns un jebkurš savienojums, kas atvasināts no 2-(2,5-dimetoksifenil)etānamīna:
-a) aizvietojot ūdeņraža atomu(-us) benzola gredzenā ar vienu vai vairākiem halogēna atomiem;
-b) aizvietojot ūdeņraža atomu(-us) benzola gredzenā ar vienu vai vairākām neobligāti aizvietotām alkilgrupām;
-c) aizvietojot ūdeņraža atomu(-us) benzola gredzenā ar vienu vai vairākām alkoksigrupām;
-d) aizvietojot ūdeņraža atomu(-us) benzola gredzenā ar vienu vai vairākām alkiltiogrupām vai cikloalkiltiogrupām;
-e) aizvietojot ūdeņraža atomu(-us) benzola gredzenā ar vienu vai vairākām halogēnalkiltiogrupām;
-f) aizvietojot ūdeņraža atomu(-us) etilēngrupā ar vienu vai vairākām alkilgrupām;
-g) aizvietojot ūdeņraža atomu(-us) benzola gredzenā ar vienu vai vairākām nitrogrupām;
-h) aizvietojot vienu vai abus ūdeņraža atomus pie slāpekļa atoma ar neobligāti aizvietotu alkilgrupu;
-i) aizvietojot vienu ūdeņraža atomu pie slāpekļa atoma, ja tas ir brīvs, ar neobligāti aizvietotu hidroksilgrupu
+a) aizvietojot ūdeņraža atomu(-us) benzola gredzenā ar vienu vai vairākiem vienādiem vai dažādiem aizvietotājiem vai aizvietotājiem, kas veido benzola gredzenu papildinošu ciklisku struktūru;
+b) aizvietojot ūdeņraža atomu(-us) etilēngrupā ar vienu vai vairākām alkilgrupām;
+c) aizvietojot vienu vai divus ūdeņraža atomus pie slāpekļa atoma ar neaizvietotu vai aizvietotu alkilgrupu vai iekļaujot slāpekļa atomu ciklā;
+d) jebkurā no iepriekš minētajiem savienojumiem aizvietojot ūdeņraža atomu pie slāpekļa atoma, ja tas ir brīvs, ar neaizvietotu vai aizvietotu hidroksilgrupu vai acilgrupu
 0,02 g2 g
 2)3,4-metilēndioksifeniletānamīni
-3,4-metilēndioksifeniletānamīns un jebkurš savienojums, kas atvasināts no 2-(3,4-metilēndioksifenil) etānamīna:
-a) aizvietojot ūdeņraža atomu(-us) benzola gredzenā ar vienu vai vairākiem halogēna atomiem;
-b) aizvietojot ūdeņraža atomu(-us) benzola gredzenā ar vienu vai vairākām neobligāti aizvietotām alkilgrupām;
-c) aizvietojot ūdeņraža atomu(-us) benzola gredzenā ar vienu vai vairākām alkoksigrupām;
-d) aizvietojot ūdeņraža atomu(-us) benzola gredzenā ar vienu vai vairākām alkiltiogrupām;
-e) aizvietojot ūdeņraža atomu(-us) etilēngrupā ar vienu vai vairākām alkilgrupām;
-f) aizvietojot vienu vai abus ūdeņraža atomus pie slāpekļa atoma ar neobligāti aizvietotu alkilgrupu;
-g) neobligāti aizvietojot vienu ūdeņraža atomu pie slāpekļa atoma, ja tas ir brīvs, ar neobligāti aizvietotu hidroksilgrupu
+3,4-metilēndioksifeniletānamīns un jebkurš savienojums, kas atvasināts no 2-(3,4-metilēndioksifenil)etānamīna:
+a) aizvietojot ūdeņraža atomu(-us) benzola gredzenā ar vienu vai vairākiem vienādiem vai dažādiem aizvietotājiem vai aizvietotājiem, kas veido benzola gredzenu papildinošu ciklisku struktūru;
+b) aizvietojot ūdeņraža atomu(-us) etilēngrupā ar vienu vai vairākām alkilgrupām;
+c) aizvietojot vienu vai divus ūdeņraža atomus pie slāpekļa atoma ar neaizvietotu vai aizvietotu alkilgrupu vai iekļaujot slāpekļa atomu ciklā;
+d) jebkurā no iepriekš minētajiem savienojumiem aizvietojot ūdeņraža atomu pie slāpekļa atoma, ja tas ir brīvs, ar neaizvietotu vai aizvietotu hidroksilgrupu vai acilgrupu
 0,02 g1 g
 3)Amfetamīni
-1-fenilpropān-2-amīns vai 1-fenil-2-butānamīns, to enantiomēri un jebkurš savienojums, kas atvasināts no tiem:
-a) aizvietojot vienu vai abus aminogrupas ūdeņraža atomus ar neobligāti aizvietotu alkilgrupu vai iekļaujot to cikliskā struktūrā;
-b) aizvietojot ūdeņraža atomus benzola gredzenā ar vienu vai vairākām alkilgrupām, alkoksigrupām, alkiltiogrupām, halogēna atomiem, nitrogrupām vai aizvietotājiem, kas veido benzola gredzenu papildinošu ciklisku struktūru;
-c) aizvietojot vienu vai vairākus etilēngrupas ūdeņraža atomus ar metilgrupu;
-d) neobligāti aizvietojot jebkurā iepriekš minētajā savienojumā vienu vai abus aminogrupas ūdeņraža atomus, ja tie ir neaizvietoti, ar acilgrupu
+1-fenilpropān-2-amīns, tā enantiomēri un jebkurš savienojums, kas atvasināts no tiem:
+a) neaizvietojot vai aizvietojot vienu vai divus ūdeņraža atomus pie slāpekļa atoma ar neaizvietotu vai aizvietotu alkilgrupu vai iekļaujot slāpekļa atomu ciklā;
+b) nomainot "a" apakšpunktā minētajos savienojumos benzola gredzenu ar citu ciklisku, no benzola gredzena atšķirīgu struktūru, kas var būt aizvietota;
+c) aizvietojot ūdeņraža atomus "a" apakšpunktā minētajos savienojumos benzola gredzenā ar vienu vai vairākiem vienādiem vai dažādiem aizvietotājiem vai aizvietotājiem, kas veido benzola gredzenu papildinošu ciklisku struktūru;
+d) aizvietojot vienu vai vairākus etilēngrupas ūdeņraža atomus jebkurā no iepriekš minētajiem savienojumiem ar neaizvietotu vai aizvietotu alkilgrupu;
+e) aizvietojot jebkurā no iepriekš minētajiem savienojumiem ūdeņraža atomu pie slāpekļa atoma, ja tas ir brīvs, ar neaizvietotu vai aizvietotu hidroksilgrupu vai acilgrupu
 0,02 g2 g
 4)2-aminoindāni
 2-aminoindāns un jebkurš savienojums, kas atvasināts no 2-aminoindāna:
-a) aizvietojot ūdeņraža atomus benzola gredzenā ar vienu vai vairākām alkilgrupām, alkoksigrupām, alkiltiogrupām, halogēna atomiem, nitrogrupām vai aizvietotājiem, kas veido benzola gredzenu papildinošu ciklisku struktūru;
-b) neobligāti aizvietojot jebkurā iepriekš minētajā savienojumā vienu vai abus aminogrupas ūdeņraža atomus ar neobligāti aizvietotu alkilgrupu
+a) aizvietojot ūdeņraža atomus benzola gredzenā ar vienu vai vairākiem vienādiem vai dažādiem aizvietotājiem vai aizvietotājiem, kas veido benzola gredzenu papildinošu ciklisku struktūru;
+b) aizvietojot vienu vai divus aminogrupas ūdeņraža atomus ar neaizvietotu vai aizvietotu alkilgrupu vai iekļaujot slāpekļa atomu ciklā
 0,02 g2 g
 5)2-(2,5-dioksifenil)etānamīna cikliskie atvasinājumi
 Jebkurš savienojums, kas atvasināts no 2-(2,5-dioksifenil)etānamīna:
 a) ūdeņraža atomu stāvoklī 4 aizvietojot ar alkilgrupu, halogēnalkilgrupu vai halogēna atomu;
 b) papildus vienas hidroksilgrupas ūdeņraža atomu aizvietojot ar alkilēn- vai alkenilēngrupu, kas veido 5 vai 6 locekļu ciklu ar benzola gredzenu orto-stāvoklī;
 c) papildus otras hidroksilgrupas ūdeņraža atomu aizvietojot ar alkilēn- vai alkenilēngrupu, kas veido 5 vai 6 locekļu ciklu ar benzola gredzenu orto-stāvoklī, vai ar metilgrupu;
-d) neobligāti aizvietojot vienu vai divus aminogrupas ūdeņraža atomus;
-e) neobligāti aizvietojot ūdeņraža atomu pie oglekļa atoma blakus aminogrupai ar alkilgrupu
+d) papildus neaizvietojot vai aizvietojot vienu vai divus aminogrupas ūdeņraža atomus vai iekļaujot slāpekļa atomu ciklā;
+e) papildus neaizvietojot vai aizvietojot vienu vai vairākus etilēngrupas ūdeņraža atomus ar neaizvietotu vai aizvietotu alkilgrupu
 0,003 g1 g
 6)Katinoni
 a)2-amino-1-fenilpropan-1-ons un jebkurš savienojums, kas atvasināts no 2-amino-1-fenilpropan-1-ona:
-a) aizvietojot vienu vai divus ūdeņraža atomus pie slāpekļa atoma ar alkilgrupu, benzilgrupu vai iekļaujot slāpekļa atomu cikliskā struktūrā;
-b) aizvietojot ūdeņraža atomu propanona stāvoklī 3 ar alkilgrupu;
-c) aizvietojot ūdeņraža atomus benzola gredzenā jebkurā iepriekš minētajā savienojumā ar vienu vai vairākām neobligāti aizvietotām alkilgrupām, alkoksigrupām, alkiltiogrupām, halogēna atomiem, nitrogrupām vai aizvietotājiem, kas veido benzola gredzenu papildinošu ciklisku struktūru;
-d) un tā karbonilgrupas atvasinājumi
+a) neaizvietojot vai aizvietojot vienu vai divus ūdeņraža atomus pie slāpekļa atoma ar neaizvietotu vai aizvietotu alkilgrupu vai iekļaujot slāpekļa atomu ciklā;
+b) neaizvietojot vai aizvietojot vienu vai divus ūdeņraža atomus propanona stāvoklī 3 ar neaizvietotu vai aizvietotu alkilgrupu;
+c) nomainot "a" vai "b" apakšpunktā minētajos savienojumos benzola gredzenu ar citu ciklisku, no benzola atšķirīgu struktūru, kas var būt aizvietota;
+d) aizvietojot ūdeņraža atomus benzola gredzenā jebkurā "a" vai "b" apakšpunktā minētajā savienojumā ar vienu vai vairākiem vienādiem vai dažādiem aizvietotājiem vai aizvietotājiem, kas veido benzola gredzenu papildinošu ciklu;
+e) jebkura iepriekš minētā savienojuma karbonilgrupas vai aminogrupas, vai abu atvasinājumi
 0,02 g3 g
 b)pašizgatavots preparāts no efedrīna, kas satur efedronu1 ml50 ml
 7)Piperazīni
 Jebkurš savienojums, kas atvasināts no piperazīna:
-a) aizvietojot ūdeņraža atomu pie viena slāpekļa atoma ar neobligāti aizvietotu fenilgrupu, neobligāti aizvietotu benzilgrupu vai cikloheksilgrupu;
-b) neobligāti aizvietojot ūdeņraža atomu pie otra slāpekļa atoma ar neobligāti aizvietotu metilgrupu
+a) aizvietojot ūdeņraža atomu pie viena slāpekļa atoma ar neaizvietotu vai aizvietotu fenilgrupu, neaizvietotu vai aizvietotu benzilgrupu vai cikloheksilgrupu;
+b) neaizvietojot vai aizvietojot ūdeņraža atomu pie otra slāpekļa atoma ar neaizvietotu vai aizvietotu metilgrupu
 0,02 g1 g
 8)Triptamīni
 Jebkurš beta-(indol-3-il)etānamīna atvasinājums, kas satur vismaz vienu aizvietotāju no rindas a), b) un c):
-a) kur ūdeņraža atoms benzola gredzenā aizvietots ar vienu vai vairākām alkoksigrupām, metilēndioksigrupu, hidroksilgrupu vai tās atvasinājumiem vai halogēna atomu;
-b) kur ūdeņraža atomi etilēngrupā aizvietoti ar alkilgrupu;
-c) kur viens vai divi ūdeņraža atomi aminogrupā aizvietoti ar neobligāti aizvietotām alkilgrupām
+a) kur ūdeņraža atoms(-i) benzola gredzenā aizvietots(-i) ar vienu vai vairākiem vienādiem vai dažādiem aizvietotājiem vai aizvietotājiem, kas veido benzola gredzenu papildinošu ciklisku struktūru;
+b) kur ūdeņraža atomi etilēngrupā aizvietoti ar neaizvietotu vai aizvietotu alkilgrupu;
+c) kur viens vai divi ūdeņraža atomi aminogrupā aizvietoti ar neaizvietotu vai aizvietotu alkilgrupu vai slāpekļa atoms iekļauts ciklā
 0,02 g1 g
-9)1-arilcikloheksilamīni
-1-arilcikloheksilamīni (izņemot ketamīnu), kuros arilgrupa ir neobligāti aizvietots benzola vai tiofēna cikls, aminogrupa ir neobligāti aizvietota ar vienu vai divām vienādām vai dažādām neobligāti aizvietotām alkilgrupām, kuras abas kopā ar aminogrupas slāpekļa atomu var veidot neobligāti aizvietotu heterociklu, un cikloheksāna cikls ir neobligāti aizvietots ar karbonilgrupu, hidroksilgrupu, alkoksigrupu vai alkilgrupu
+9)1-Arilcikloheksilamīni
+1-arilcikloheksilamīni (izņemot ketamīnu), kuros arilgrupa ir neaizvietots vai aizvietots benzola vai tiofēna cikls, viens vai divi ūdeņraža atomi aminogrupā aizvietoti ar neaizvietotu vai aizvietotu alkilgrupu vai slāpekļa atoms iekļauts ciklā un cikloheksāna cikls ir neaizvietots vai aizvietots ar karbonilgrupu, hidroksilgrupu, alkoksigrupu vai alkilgrupu
 0,001 g1 g
 10)Dibenzopirāni
 No kanabinola atvasināti savienojumi (izņemot kanabidiolu), kas modificēti gredzenā A, aizvietoti gredzenā B, to homologi ar dažādu oglekļa atomu skaitu aizvietotājā stāvoklī 3, to cis-, trans- un optiskie izomēri, kā arī to hidroksilgrupas atvasinājumi un halogēnatvasinājumi
@@ -442,51 +444,60 @@ No kanabinola atvasināti savienojumi (izņemot kanabidiolu), kas modificēti gr
 11)Cikloheksilfenoli
 Jebkurš savienojums, kas atvasināts no 2-(3-hidroksicikloheksil)fenola:
 a) aizvietojot ūdeņraža atomu fenola cikla stāvoklī 5;
-b) papildus neobligāti aizvietojot vienu vai vairākus ūdeņraža atomus cikloheksilgrupā
+b) papildus neaizvietojot vai aizvietojot vienu vai vairākus ūdeņraža atomus cikloheksilgrupā
 0,003 g1 g
 12)Naftilidēnindēni un naftilmetilindēni
-Jebkurš savienojums, kas atvasināts no 1-naftilidēnindēna vai
-1-naftilmetilindēna:
-a) neobligāti aizvietojot ūdeņraža atomu pie indēna C3 atoma;
-b) papildus a) neobligāti aizvietojot vienu vai vairākus ūdeņraža atomus naftilgrupā;
-c) papildus a) vai b), vai abiem neobligāti aizvietojot vienu vai vairākus ūdeņraža atomus indēna ciklā
+Jebkurš savienojums, kas atvasināts no 1-naftilidēnindēna vai 1-naftilmetilindēna:
+a) neaizvietojot vai aizvietojot ūdeņraža atomu pie indēna C3 atoma;
+b) papildus "a" apakšpunktā minētajos savienojumos neaizvietojot vai aizvietojot vienu vai vairākus ūdeņraža atomus naftilgrupā;
+c) papildus "a" vai "b" apakšpunktā minētajos vai abos minētajos savienojumos neaizvietojot vai aizvietojot vienu vai vairākus ūdeņraža atomus indēna ciklā
 0,003 g1 g
 13)Naftilmetilindoli
 Jebkurš savienojums, kas atvasināts no (indol-3-il)(naft-1-il)metāna:
-a) neobligāti aizvietojot ūdeņraža atomu pie indola slāpekļa atoma;
-b) papildus a) neobligāti aizvietojot vienu vai vairākus ūdeņraža atomus naftilgrupā;
-c) papildus a) vai b), vai abiem neobligāti aizvietojot vienu vai vairākus ūdeņraža atomus indola ciklā
+a) neaizvietojot vai aizvietojot ūdeņraža atomu pie indola slāpekļa atoma;
+b) papildus "a" apakšpunktā minētajos savienojumos neaizvietojot vai aizvietojot vienu vai vairākus ūdeņraža atomus naftilgrupā;
+c) papildus "a" vai "b" apakšpunktā minētajos vai abos minētajos savienojumos neaizvietojot vai aizvietojot vienu vai vairākus ūdeņraža atomus indola ciklā
 0,003 g1 g
 14)Naftoilpiroli
 Jebkurš savienojums, kas atvasināts no 3-(1-naftoil)pirola:
-a) neobligāti aizvietojot ūdeņraža atomu pie pirola slāpekļa atoma;
-b) papildus a) neobligāti aizvietojot vienu vai vairākus ūdeņraža atomus pirola ciklā;
-c) papildus a) vai b), vai abiem neobligāti aizvietojot vienu vai vairākus ūdeņraža atomus naftoilgrupā
+a) neaizvietojot vai aizvietojot ūdeņraža atomu pie pirola slāpekļa atoma;
+b) papildus "a" apakšpunktā minētajos savienojumos neaizvietojot vai aizvietojot vienu vai vairākus ūdeņraža atomus pirola ciklā;
+c) papildus "a" vai "b" apakšpunktā minētajos vai abos minētajos savienojumos neaizvietojot vai aizvietojot vienu vai vairākus ūdeņraža atomus naftoilgrupā
 0,003 g1 g
 15)Indola un indazola-3-karbonilatvasinājumi
-Indola-3-karbonilatvasinājumi un indazola 3-karbonilatvasinājumi, kas aizvietoti pie indola vai indazola cikla slāpekļa atoma stāvoklī 1 ar neobligāti aizvietotu alkilgrupu un stāvoklī 3 pie karbonilgrupas aizvietoti ar:
-• neobligāti aizvietotu alkilgrupu, cikloalkilgrupu,
-• cikloalkilmetilēngrupu, neobligāti aizvietotu benzilgrupu,
-• neobligāti aizvietotu aromātisku vai heteroaromātisku ciklu,
-• neobligāti aizvietotu alkoksigrupu, ariloksigrupu, heteriloksigrupu,
-• aizvietotu aminogrupu
-un indola cikla stāvoklī 2 neobligāti aizvietoti ar alkilgrupu, un jebkurš no iepriekš minētajiem savienojumiem, kas papildus aizvietots indola vai indazola ciklā, tostarp tāds, kurā aizvietotājs veido papildu ciklu, kā arī jebkuras šādas vielas sāļi un optiskie izomēri, ja tādi ir iespējami
+Indola-3-karbonilatvasinājumi un indazola 3-karbonilatvasinājumi, kas aizvietoti pie indola vai indazola cikla slāpekļa atoma stāvoklī 1 ar neaizvietotu vai aizvietotu alkilgrupu un stāvoklī 3 pie karbonilgrupas aizvietoti ar:
+• neaizvietotu vai aizvietotu alkilgrupu vai cikloalkilgrupu,
+• neaizvietotu vai aizvietotu aromātisku vai heteroaromātisku ciklu,
+• neaizvietotu vai aizvietotu alkoksigrupu, ariloksigrupu, heteriloksigrupu,
+• aizvietotu aminogrupu,
+un indola cikla stāvoklī 2 neaizvietoti vai aizvietoti ar alkilgrupu, un jebkurš no iepriekš minētajiem savienojumiem, kas papildus aizvietots indola vai indazola ciklā, tostarp tāds, kurā aizvietotājs veido papildu ciklisku struktūru
 0,003 g1 g
 16)Benzimidazoli
 Jebkurš savienojums, kas atvasināts no benzimidazola:
-a) aizvietojot ūdeņraža atomu pie slāpekļa atoma ar neobligāti aizvietotu alkilgrupu vai neobligāti aizvietotu aroilgrupu;
-b) papildus aizvietojot ūdeņraža atomu pie imidazola cikla oglekļa atoma ar neobligāti aizvietotu (hetero)arilgrupu vai neobligāti aizvietotu aroilgrupu;
-c) papildus neobligāti aizvietojot vienu vai vairākus ūdeņraža atomus benzimidazola benzola gredzenā
+a) aizvietojot ūdeņraža atomu pie slāpekļa atoma ar neaizvietotu vai aizvietotu alkilgrupu vai neaizvietotu vai aizvietotu aroilgrupu;
+b) papildus aizvietojot ūdeņraža atomu pie imidazola cikla oglekļa atoma ar neaizvietotu vai aizvietotu (hetero)arilgrupu vai neaizvietotu vai aizvietotu aroilgrupu;
+c) papildus neaizvietojot vai aizvietojot ūdeņraža atomus benzimidazola benzola gredzenā
 0,003 g1 g
 17)Difeniletānamīni
 1,2-difeniletān-1-amīns, tā enantiomēri un jebkurš savienojums, kas atvasināts no tiem:
-a) neobligāti aizvietojot ūdeņraža atomus vienā vai abos benzola gredzenos ar vienu vai vairākām alkilgrupām, alkoksigrupām, alkiltiogrupām, halogēna atomiem, nitrogrupām;
-b) papildus a) neobligāti aizvietojot vienu vai abus aminogrupas ūdeņraža atomus ar neobligāti aizvietotu alkilgrupu vai iekļaujot to cikliskā struktūrā;
-c) papildus b) aizvietojot vienu oglekļa atomu vienā vai abos benzola gredzenos ar slāpekļa atomu.
+a) neaizvietojot vai aizvietojot ūdeņraža atomus vienā vai abos benzola gredzenos ar vienu vai vairākiem vienādiem vai dažādiem aizvietotājiem;
+b) papildus "a" apakšpunktā minētajos savienojumos neaizvietojot vai aizvietojot vienu vai abus aminogrupas ūdeņraža atomus ar neaizvietotu vai aizvietotu alkilgrupu vai iekļaujot to ciklā;
+c) papildus "b" apakšpunktā minētajos savienojumos aizvietojot vienu oglekļa atomu vienā vai abos benzola gredzenos ar slāpekļa atomu
 0,001 g0,1 g
-8.6. Augu maisījums, sapresēta masa, šķidrums, kas satur šā pielikuma II nodaļas 8.3.punkta 6) apakšpunktā un 8.5.punktā minētās vielas jebkurā daudzumā
+18)Karbazola-3-karbonilatvasinājumi
+Karbazola-3-karbonilatvasinājumi, kas aizvietoti pie karbazola cikla slāpekļa atoma stāvoklī 1 ar neaizvietotu vai aizvietotu alkilgrupu
+un stāvoklī 3 pie karbonilgrupas aizvietoti ar:
+• neaizvietotu vai aizvietotu alkilgrupu, cikloalkilgrupu;
+• neaizvietotu vai aizvietotu aromātisku vai heteroaromātisku ciklu;
+• neaizvietotu vai aizvietotu alkoksigrupu, ariloksigrupu, heteriloksigrupu;
+• aizvietotu aminogrupu,
+un jebkurš no iepriekš minētajiem savienojumiem, kas papildus aizvietots karbazola ciklā
+0,003 g1 g
+8.6. Augu maisījums, sapresēta masa, šķidrums, vielu maisījums, piesūcināts papīrs, kas satur šā pielikuma II nodaļas 8.3.punkta 6.apakšpunktā un 8.5.punktā minētās vielas jebkurā daudzumā
 Nr.Maisījuma veidsApmērs, līdz kuram daudzumi atzīstami par nelieliemApmērs, sākot ar kuru daudzumi atzīstami par lieliem
 1)izžāvēts (augu maisījums)1 g100 g
 2)nežāvēts (augu maisījums)5 g1 kg
 3)sapresēta masa0,1 g50 g
 4)šķidrums1 ml50 ml
+5)vielu maisījums, kas satur minēto vielu, kura nav nodalāma no vielu maisījuma kopējā daudzuma1 g50 g
+6)piesūcināts papīrs (marka)3 gab.10 gab.
