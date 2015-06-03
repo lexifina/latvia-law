@@ -2,8 +2,8 @@
 1. Algas nodokļa ieturēšanu un maksāšanu (pārskaitīšanu budžetā) veic darba devējs, kas nodarbina darbinieku - (nodokļa) maksātāju.
 2. Algas nodoklis tiek aprēķināts atbilstoši šā likuma 15.pantā noteiktajai likmei.
 3. Ar algas nodokli apliekamais mēneša ienākums ir:
-1) Latvijas Republikas rezidentiem pamatdarba vietā (vietā, kur iesniegta grāmatiņa) - starpība starp kalendārā mēneša ienākumu un mēneša neapliekamā minimuma, šā likuma 10.panta otrajā daļā noteikto attaisnoto izdevumu un šā likuma 13.panta pirmajā daļā noteikto atvieglojumu summu;
-2) Latvijas Republikas rezidentiem papildu darba vietā - kalendārā mēneša ienākums, no kura atskaitīta šā likuma 10.panta otrajā daļā noteiktā attaisnoto izdevumu summa;
+1) Latvijas Republikas rezidentiem darbavietā, kur iesniegta grāmatiņa - starpība starp kalendārā mēneša ienākumu un mēneša neapliekamā minimuma, šā likuma 10.panta otrajā daļā noteikto attaisnoto izdevumu un šā likuma 13.panta pirmajā daļā noteikto atvieglojumu summu;
+2) Latvijas Republikas rezidentiem darbavietā, kur nav iesniegta grāmatiņa - kalendārā mēneša ienākums, no kura atskaitīta šā likuma 10.panta otrajā daļā noteiktā attaisnoto izdevumu summa;
 3) Latvijas Republikas nerezidentiem - kalendārā mēneša ienākums, no kura atskaitīta šā likuma 10.panta pirmās daļas 1., 5. un 6.punktā minēto attaisnoto izdevumu summa.
 4. (Izslēgta ar 25.11.1999. likumu.)
 5. Algas nodoklis iemaksājams budžetā reizi mēnesī, kad bankā tiek saņemta nauda iedzīvotāju ienākumu izmaksai. Darba devēji, kas iedzīvotāju ienākumus izmaksā no kases ieņēmumiem, nesaņemot naudu bankā, iemaksā algas nodokli budžetā nākamajā dienā pēc algas izmaksas. Darba devējs, kas darbiniekam darba samaksu izmaksā bezskaidras naudas norēķinu veidā, algas nodokli iemaksā budžetā tajā pašā dienā, kurā viņš devis maksājuma uzdevumu darba samaksas pārskaitīšanai no sava konta uz darbinieka kontu. No steidzamos, īslaicīgos, vienreizējos darbos nodarbinātu darbinieku darba samaksas aprēķināto un ieturēto algas nodokli darba devējs iemaksā budžetā tajā pašā dienā, kurā viņš iemaksā budžetā pastāvīgo darbinieku algas nodokli.
@@ -26,7 +26,7 @@
 10. No fiziskās personas ienākumiem, kurus izmaksā komersanti, individuālie uzņēmumi (arī zemnieku vai zvejnieku saimniecības), kooperatīvās sabiedrības, nerezidentu pastāvīgās pārstāvniecības, iestādes, organizācijas, biedrības, nodibinājumi un fiziskās personas, kuras reģistrētas kā saimnieciskās darbības veicējas, ja tie nav saistīti ar darba attiecībām un nav atbrīvoti no aplikšanas ar nodokli, ienākuma izmaksātājs ietur nodokli ienākuma izmaksas vietā un iemaksā to budžetā ne vēlāk kā ienākuma izmaksas mēnesim sekojošā mēneša piektajā datumā. Pie šādiem ienākumiem pieder:
 1) autoratlīdzība (honorārs), arī atlīdzība par autora pārdotajiem lietišķās un dekoratīvās mākslas darbiem un tautas daiļamatniecības izstrādājumiem;
 2) autoratlīdzība (honorārs), kuru izmaksā autortiesību mantiniekiem;
-3) atlīdzība, kuru izmaksā sagādes un citas organizācijas par medījumu jēlādām, medījumiem un to gaļu, medību trofejām, zoobarību un citu savvaļā iegūto produkciju, izņemot atlīdzību, kas gūta no sēņošanas, ogošanas vai savvaļas ārstniecības augu un ziedu vākšanas;
+3) atlīdzība, kuru izmaksā sagādes un citas organizācijas par medījumu jēlādām, medījumiem un to gaļu, medību trofejām, zoobarību un citu savvaļā iegūto produkciju, izņemot atlīdzību, kas gūta no sēņošanas, ogošanas, savvaļas ārstniecības augu un ziedu vākšanas vai nemedījamās sugas indivīda - parka vīngliemezis (Helix pomatia) - ieguves;
 4) apdrošināšanas atlīdzība, kas saskaņā ar dzīvības, veselības un negadījuma apdrošināšanas līgumu, kuru apdrošinātā interesēs noslēdzis darba devējs (vai cits apdrošinājuma ņēmējs - juridiskā persona), izmaksāta, pienākot apdrošināšanas līgumā paredzētajam līguma beigu termiņam vai laužot līgumu pirms termiņa;
 5) pensijas;
 5¹) pensijai pielīdzināms ienākums;

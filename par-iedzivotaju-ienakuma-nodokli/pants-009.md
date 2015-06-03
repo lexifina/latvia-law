@@ -1,6 +1,6 @@
 9. pants. Ar nodokli neapliekamo ienākumu veidi
 1. Gada apliekamajā ienākumā netiek ietverti un ar nodokli netiek aplikti šādi ienākumu veidi:
-1) ienākumi no maksātāja lauksaimnieciskās ražošanas un lauku tūrisma pakalpojumu sniegšanas, kā arī no sēņošanas, ogošanas vai savvaļas ārstniecības augu un ziedu vākšanas, ja tie nepārsniedz 3000 euro gadā, ņemot vērā šā panta 3.¹, 3.² un 3.⁵ daļas nosacījumus;
+1) ienākumi no maksātāja lauksaimnieciskās ražošanas un lauku tūrisma pakalpojumu sniegšanas, kā arī no sēņošanas, ogošanas, savvaļas ārstniecības augu un ziedu vākšanas vai nemedījamās sugas indivīda - parka vīngliemezis (Helix pomatia) - ieguves, ja tie nepārsniedz 3000 euro gadā, ņemot vērā šā panta 3.¹, 3.² un 3.⁵ daļas nosacījumus;
 2) (izslēgts ar 01.12.2009. likumu);
 3) (izslēgts ar 01.12.2009. likumu);
 4) apdrošināšanas atlīdzības, kuras izmaksājušas Latvijas Republikā reģistrētas apdrošināšanas sabiedrības, kas nodibinātas un darbojas saskaņā ar Apdrošināšanas sabiedrību un to uzraudzības likumu, kā arī citā Eiropas Savienības dalībvalstī vai Eiropas Ekonomikas zonas valstī reģistrētas apdrošināšanas sabiedrības, kas nodibinātas un darbojas saskaņā ar attiecīgās Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts normatīvajiem aktiem, izņemot tās apdrošināšanas atlīdzības, kas izmaksātas atbilstoši:
@@ -53,10 +53,10 @@ a) pilnā apmērā - ja dāvinātāju ar maksātāju saista laulība vai radniec
 b) līdz 1425 euro taksācijas gada laikā - ja dāvinātājs ir šā punkta "a" apakšpunktā neminēta fiziskā persona. Šī norma nav piemērojama, ja dāvanu dāvina fiziskā persona savas saimnieciskās darbības ietvaros, kā arī tad, ja fiziskā persona ir saņēmusi dāvanu ar atlīdzības raksturu Civillikuma izpratnē,
 c) pilnā apmērā - neatkarīgi no tā, vai dāvinātāju ar maksātāju saista laulība vai radniecība līdz trešajai pakāpei Civillikuma izpratnē, ja dāvinājums paredzēts un maksātājs to izlieto, lai segtu savus izdevumus par augstākās izglītības un visu pakāpju profesionālās izglītības iegūšanu, izdevumiem par specialitātes (profesijas, amata, aroda) iegūšanu valsts akreditētās Latvijas izglītības iestādēs, kā arī Eiropas Savienības dalībvalstu un Eiropas Ekonomikas zonas valstu mācību iestādēs vai apgūstot valsts akreditētās izglītības programmas,
 d) pilnā apmērā - neatkarīgi no tā, vai dāvinātāju ar maksātāju saista laulība vai radniecība līdz trešajai pakāpei Civillikuma izpratnē, ja dāvinājums paredzēts un maksātājs to izlieto, lai segtu savus izdevumus par medicīnas un ārstniecisko pakalpojumu izmantošanu, izņemot kosmētiskās operācijas;
-35¹) ienākums, kas gūts laika posmā no 2011.gada 1.janvāra līdz 2016.gada 31.decembrim aizdevuma (kredīta) saistību samazināšanas vai dzēšanas rezultātā, ja izpildās visi turpmāk šai punktā minētie nosacījumi:
+35¹) ienākums, kas gūts laika posmā no 2011.gada 1.janvāra līdz 2017.gada 31.decembrim aizdevuma (kredīta) saistību samazināšanas vai dzēšanas rezultātā, ja izpildās visi turpmāk šai punktā minētie nosacījumi:
 a) saistību atmaksa ir (vai saistību rašanās brīdī bija) nodrošināta ar nekustamā īpašuma hipotēku,
-b) ienākuma guvējs līdz 2009.gada 1.janvārim saistības ir uzņēmies nolūkā nodrošināt sevi (vai savu ģimeni) ar dzīvošanai paredzētu nekustamo īpašumu un izmantojis šo aizdevumu nekustamā īpašuma iegādei, būvniecībai, rekonstrukcijai vai uzlabošanai,
-c) uz saistību samazināšanas vai dzēšanas dienu ienākuma guvēja īpašumā ir ne vairāk kā viens nekustamais īpašums, kura lietošanas veids vai funkcionālā izmantošana ir paredzēta dzīvošanai,
+b) ienākuma guvējs saistības ir uzņēmies nolūkā nodrošināt sevi (vai savu ģimeni) ar dzīvošanai paredzētu nekustamo īpašumu un izmantojis šo aizdevumu nekustamā īpašuma iegādei, būvniecībai, rekonstrukcijai vai uzlabošanai,
+c) (izslēgts ar 30.04.2015. likumu),
 d) ienākuma guvējs (attiecībā uz aizdevēju) nav un nav bijis ar uzņēmumu saistīta persona likuma "Par uzņēmumu ienākuma nodokli" izpratnē,
 e) aizdevēju un ienākuma guvēju nesaista laulība vai radniecība līdz trešajai pakāpei Civillikuma izpratnē;
 35²) ienākums, kas gūts, Maksātnespējas likumā noteikto saistību dzēšanas procedūras ietvaros tiesai pieņemot lēmumu par parādnieka atbrīvošanu no atlikušajām parādu saistībām, kā arī ar pamatparādu saistītās dzēstās soda naudas, līgumsods vai nokavējuma procenti;
@@ -103,6 +103,7 @@ c) darba devējs ir iesniedzis Valsts ieņēmumu dienestam šā likuma 11.¹¹ p
 1) ārsta norīkojums vai slēdziens, kas apliecina ārstniecības nepieciešamību un ir maksātāja rīcībā, sākot ar dienu, kad dāvinājums saņemts;
 2) attaisnojuma dokumenti, kas apliecina dāvinājuma summas izlietošanu divu gadu laikā no dāvinājuma saņemšanas dienas norādītajam izglītības vai ārstniecības mērķim.
 10. Ja maksātāja saistību samazināšanas vai dzēšanas rezultātā gūtajam ienākumam tiek piemērots šā panta pirmās daļas 35.punktā noteiktais atbrīvojums, šā panta pirmās daļas 35.¹ punktā paredzētais atbrīvojums netiek piemērots.
+10.¹ Šā likuma piemērošanā uzskata, ka galvotājam nerodas ienākums, ja viņš galvota aizdevuma (kredīta) dzēšanas vai samazināšanas rezultātā tiek atbrīvots no saistības vai saistība tiek samazināta, neatkarīgi no tā, vai galvotājam saistības izpildes pienākums iestājies, pamatojoties uz tiesas nolēmumu vai pušu panākto vienošanos par izlīgumu.
 11. Šā panta pirmās daļas 43.punkta "b" apakšpunkta izpratnē attiecīgie nosacījumi īstenojas arī šādos gadījumos:
 1) akciju pirkuma tiesību turēšanas periodā maksātājs pēc darba attiecību izbeigšanas ar kapitālsabiedrību, kas piešķīrusi akciju pirkuma tiesības, ir stājies darba attiecībās ar kapitālsabiedrību, kas ir ar darba devēju saistīts uzņēmums likuma "Par uzņēmumu ienākuma nodokli" izpratnē;
 2) akciju pirkuma tiesību turēšanas periodā maksātājam ir piešķirta valsts vecuma pensija (tai skaitā priekšlaicīgi) un maksātājs un darba devējs ir izbeiguši darba tiesiskās attiecības.

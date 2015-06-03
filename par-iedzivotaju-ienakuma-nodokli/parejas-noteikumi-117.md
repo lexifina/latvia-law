@@ -1,0 +1,1 @@
+117. Likuma 17.² panta otrās daļas 5.punkts stājas spēkā 2015.gada 1.jūlijā. Attiecībā uz līgumiem, kas noslēgti līdz 2015.gada 30.jūnijam, 17.² panta otrās daļas 5.punktu piemēro ar 2016.gada 1.jūliju.
