@@ -1,0 +1,1 @@
+32. Grozījums šā likuma 7.pantā par tā pirmās daļas papildināšanu ar 8.punktu stājas spēkā 2015.gada 1.novembrī. Līdz šā grozījuma spēkā stāšanās dienai Ministru kabinets izdod tam atbilstošus noteikumus.

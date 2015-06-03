@@ -6,4 +6,5 @@ Likumā iekļautas tiesību normas, kas izriet no:
 5) Eiropas Parlamenta un Padomes 2009.gada 23.aprīļa direktīvas 2009/18/EK, ar ko nosaka pamatprincipus negadījumu izmeklēšanai jūras transporta nozarē un groza Padomes direktīvu 1999/35/EK un Eiropas Parlamenta un Padomes direktīvu 2002/59/EK;
 6) Eiropas Parlamenta un Padomes 2009.gada 23.aprīļa direktīvas 2009/21/EK par karoga valstij noteikto prasību ievērošanu;
 7) Eiropas Parlamenta un Padomes 2008.gada 19.novembra direktīvas 2008/106/EK par jūrnieku minimālo sagatavotības līmeni;
-8) Eiropas Parlamenta un Padomes 2012.gada 21.novembra direktīvas 2012/35/ES, ar ko groza direktīvu 2008/106/EK par jūrnieku minimālo sagatavotības līmeni.
+8) Eiropas Parlamenta un Padomes 2012.gada 21.novembra direktīvas 2012/35/ES, ar ko groza direktīvu 2008/106/EK par jūrnieku minimālo sagatavotības līmeni;
+9) Padomes 2009.gada 16.februāra direktīvas 2009/13/EK, ar ko īsteno Eiropas Kopienas Kuģu īpašnieku asociāciju (EKKĪA) un Eiropas Transporta darbinieku federācijas (ETDF) Nolīgumu par 2006.gada Konvenciju par darbu jūrniecībā un groza direktīvu 1999/63/EK.

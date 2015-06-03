@@ -1,0 +1,1 @@
+33. Grozījums šā likuma 26.pantā par pirmās daļas otrā teikuma papildināšanu ar vārdiem "kā arī jūrnieku profesionālās sagatavošanas programmu īstenošanas nosacījumus" stājas spēkā 2015.gada 31.decembrī. Līdz šā grozījuma spēkā stāšanās dienai Ministru kabinets izdod tam atbilstošus noteikumus.

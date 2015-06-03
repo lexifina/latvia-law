@@ -7,10 +7,11 @@
 5) 1972.gada Konvencija par starptautiskajiem kuģu sadursmju novēršanas noteikumiem (turpmāk - COLREG konvencija);
 6) 1969.gada Starptautiskā konvencija par kuģu tilpības mērīšanu (turpmāk - Tilpības konvencija);
 7) Starptautiskās Darba organizācijas 1976.gada Konvencija par minimālajām normām tirdzniecības kuģiem un tās 1996.gada protokols;
-8) 1978.gada Starptautiskā konvencija par jūrnieku sagatavošanu un diplomēšanu, kā arī sardzes pildīšanu ar grozījumiem (turpmāk - STCW konvencija);
+8) STCW konvencija;
 9) 2005.gada Pasaules veselības organizācijas Starptautiskie veselības aizsardzības noteikumi;
 10) 2001.gada Starptautiskā konvencija par kuģu kaitīgo pretapaugšanas sistēmu kontroli;
-11) 2006.gada Konvencija par darbu jūrniecībā (turpmāk - MLC konvencija).
+11) 2006.gada Konvencija par darbu jūrniecībā (turpmāk - MLC konvencija);
+12) 1995.gada Starptautiskā konvencija par zvejas kuģu personāla sagatavošanas un diplomēšanas, kā arī sardzes pildīšanas standartiem (turpmāk - STCW-F konvencija).
 (2) Nosakot kuģu drošības prasību piemērošanu un kuģu drošības uzraudzības kārtību, tiek ņemtas vērā starptautisko normatīvo aktu prasības attiecībā uz:
 1) pasažieru kuģu drošību un standartiem;
 2) obligāto pārbaužu sistēmu, lai nodrošinātu kuģu ar horizontālu un vertikālu kravas apstrādi (turpmāk - ro-ro kuģi) un ātrgaitas pasažieru kuģu drošu darbību;
@@ -46,3 +47,4 @@
 (7) Uz Latvijas kuģiem ir jābūt dokumentācijai par kuģa stabilitāti, tilpības un kravas zīmes aprēķiniem, rīcības plāniem piesārņojuma likvidācijai avārijas gadījumā, kā arī šā panta pirmajā daļā minētajos starptautiskajos normatīvajos aktos noteiktajām rokasgrāmatām un citiem dokumentiem, kuru atbilstību starptautiskajām prasībām apliecinājusi Latvijas Jūras administrācija vai tās pilnvarota kuģu klasifikācijas sabiedrība (atzītā organizācija).
 (8) Ministru kabinets nosaka kārtību, kādā mēra kuģa tilpību un izsniedz tilpību apliecinošus dokumentus.
 (9) Ministru kabinets izdod noteikumus, kuros nosaka īpašas stabilitātes prasības ro-ro pasažieru kuģiem.
+(10) Ministru kabinets izdod noteikumus, kuros nosaka prasības kuģu radio un navigācijas aprīkojuma izmantošanai un apkalpošanai.

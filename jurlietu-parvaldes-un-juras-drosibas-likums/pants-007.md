@@ -3,8 +3,9 @@
 1) sadarbībā ar Valsts vides dienestu kontrolē vides aizsardzību un zvejniecību reglamentējošo normatīvo aktu ievērošanu un aiztur kuģus Latvijas ūdeņos saskaņā ar šā likuma 44.pantu;
 2) likvidē kuģu negadījumu un avāriju sekas, jūrā izlijušas naftas un bīstamo vai kaitīgo vielu noplūdes sekas un koordinē ar šo seku likvidāciju saistītos darbus Latvijas ūdeņos atbilstoši Ministru kabineta apstiprinātajam Nacionālajam gatavības plānam naftas, bīstamo vai kaitīgo vielu piesārņojuma gadījumiem jūrā un operatīvās rīcības plāniem;
 3) koordinē un veic cilvēku meklēšanas un glābšanas darbus jūrā [Jūras meklēšanas un glābšanas koordinācijas centra (turpmāk - Koordinācijas centrs (MRCC)) darbību] Latvijas Republikas meklēšanas un glābšanas atbildības rajonā (turpmāk - Latvijas atbildības rajons) atbilstoši 1979.gada Starptautiskajai konvencijai par meklēšanu un glābšanu jūrā (turpmāk - SAR konvencija), citiem normatīvajiem aktiem un operatīvās rīcības plāniem, kā arī veic palīdzības dienesta funkcijas (MAS funkcijas) un piešķir patvēruma vietu kuģiem;
-4) nodrošina Globālās jūras negadījumu un drošības sistēmas (turpmāk - GMDSS) darbību, Automātiskās identifikācijas sistēmas krasta sakaru tīkla darbību un Kuģu satiksmes uzraudzības un informācijas datu apmaiņas sistēmas darbību, kā arī šīs sistēmas savietojamību ar Eiropas Kopienas sistēmu apmaiņai ar kuģošanas informāciju;
+4) nodrošina Globālās jūras negadījumu un drošības sistēmas (turpmāk - GMDSS) darbību, Automātiskās identifikācijas sistēmas krasta sakaru tīkla darbību un Kuģu satiksmes uzraudzības un informācijas datu apmaiņas sistēmas darbību, kā arī šīs sistēmas savietojamību ar Eiropas Savienības sistēmu apmaiņai ar kuģošanas informāciju;
 5) sadarbībā ar Latvijas Jūras administrāciju kontrolē kuģošanas režīma ievērošanu;
-6) pilda Nacionālās kompetentās iestādes un Nacionālā 24/7 kontaktpunkta funkcijas Tālās darbības identifikācijas un sekošanas sistēmas ietvaros.
+6) pilda Nacionālās kompetentās iestādes un Nacionālā 24/7 kontaktpunkta funkcijas Tālās darbības identifikācijas un sekošanas sistēmas ietvaros;
+7) kontrolē Latvijas valsts karoga lietošanu uz kuģiem.
 (2) Ministru kabinets nosaka Latvijas ūdeņu izmantošanas kārtību un kuģošanas režīmu tajos.
 (3) Ministru kabinets nosaka kuģa aizsardzības trauksmes signālu sakaru tīkla darbības nodrošināšanas kārtību.

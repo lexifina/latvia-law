@@ -8,5 +8,5 @@
 6) krasta, hidrotehnisko un hidrogrāfisko būvju ģeodēziskie pētījumi;
 7) hidrogrāfiskie darbi, kas saistīti ar jūras izmantošanu valsts institūciju vajadzībām;
 8) hidrogrāfisko mērījumu un pētījumu datu bāzes veidošana un uzturēšana.
-(2) Šā panta pirmajā daļā noteiktos hidrogrāfiskos pētījumus un ģeodēziskos darbus organizē un veic Latvijas Jūras administrācija. Satiksmes ministrs var noteikt Starptautiskās Hidrogrāfijas organizācijas prasību un rekomendāciju izpildes kārtību.
+(2) Šā panta pirmajā daļā noteiktos hidrogrāfiskos pētījumus un ģeodēziskos darbus organizē un veic Latvijas Jūras administrācija.
 (3) Par oficiāliem hidrogrāfiskiem mērījumiem Latvijas Republikā tiek uzskatīti Latvijas Jūras administrācijas veiktie mērījumi.
