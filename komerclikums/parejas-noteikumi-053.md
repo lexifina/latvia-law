@@ -1,0 +1,1 @@
+53. Ja komercreģistra iestāde veikusi pamatkapitāla pārrēķinu atbilstoši šā likuma pārejas noteikumu 52.punktam, kapitālsabiedrība, piesakot komercreģistra iestādei izmaiņas komercreģistra ierakstos vai piesakot dokumentu reģistrāciju (pievienošanu reģistrācijas lietai), vienlaikus veic pamatkapitāla un pamatkapitāla daļas denomināciju.
