@@ -1,0 +1,1 @@
+1.pants. 2014.gada 25.septembrī parakstītais Latvijas Republikas valdības un Apvienoto Arābu Emirātu valdības nolīgums par gaisa satiksmi (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
