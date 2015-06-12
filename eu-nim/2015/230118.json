@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sabiedrisko pakalpojumu regulēšanas komisijas padomes 2015.gada 4.jūnija lēmums Nr.1/9 “Noteikumi par elektronisko sakaru komersantu reģistrēšanu un elektronisko sakaru tīklu un pakalpojumu sarakstu”",
+  "type_of_act": "SPRK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "113 (5431)",
+  "official_journal_page": null,
+  "official_journal_date": "2015-06-11",
+  "entry_into_force": "2015-06-12",
+  "notification_date": "2015-09-23",
+  "commission_reference": "MNE(2015)56834",
+  "nim_celex": "72002L0020LVA_230118",
+  "nim_id": "230118",
+  "transposes_celex": [
+    "32002L0020"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f2039e45-936a-4f9e-9523-e881342d0988",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
