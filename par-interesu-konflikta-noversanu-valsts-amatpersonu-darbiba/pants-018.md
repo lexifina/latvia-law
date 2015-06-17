@@ -1,3 +1,3 @@
 18.pants. Ierobežojums rīkoties ar publiskas personas institūcijas mantu
-(1) Valsts amatpersona drīkst rīkoties ar publiskas personas institūcijas mantu, tai skaitā finanšu līdzekļiem, likumā, Ministru kabineta noteikumos, kā arī pašvaldību saistošajos noteikumos paredzētajā kārtībā.
-(2) Rīcība ar publiskas personas institūcijas mantu, tai skaitā finanšu līdzekļiem, šā likuma izpratnē ir pilnvarotas valsts amatpersonas lēmuma sagatavošana vai pieņemšana par publiskas personas institūcijas mantas iegūšanu vai nodošanu īpašumā vai lietošanā, vai atsavināšanu citām personām, kā arī par publiskas personas institūcijas finanšu līdzekļu pārdali.
+(1) Valsts amatpersona drīkst veikt šā likuma 4.panta otrās daļas 3.punktā minētās darbības, kā arī izmantot vai lietot publiskas personas institūcijas mantu un finanšu līdzekļus tikai ārējos normatīvajos aktos paredzētajiem mērķiem un saskaņā ar normatīvajos aktos noteikto kārtību.
+(2) (Izslēgta ar 21.05.2015. likumu)

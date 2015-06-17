@@ -26,7 +26,10 @@
 23) (izslēgts ar 12.11.2009. likumu);
 24) publiskā iepirkuma komisijas loceklis;
 25) Iekšlietu ministrijas sistēmas iestādes un Ieslodzījuma vietu pārvaldes amatpersona ar speciālo dienesta pakāpi.
-(2) Par valsts amatpersonām uzskatāmas arī personas, kurām, pildot amata pienākumus publiskas personas institūcijās, saskaņā ar normatīvajiem aktiem ir tiesības izdot administratīvos aktus, kā arī veikt uzraudzības, kontroles, izziņas vai sodīšanas funkcijas attiecībā uz personām, kas neatrodas to tiešā vai netiešā pakļautībā, vai tiesības rīkoties ar publiskas personas mantu, tai skaitā finanšu līdzekļiem.
+(2) Par valsts amatpersonām uzskatāmas arī personas, kurām, pildot amata pienākumus publiskas personas institūcijās, saskaņā ar normatīvajiem aktiem ir tiesības:
+1) izdot administratīvos aktus;
+2) veikt uzraudzības, kontroles, izziņas vai sodīšanas funkcijas attiecībā uz personām, kas neatrodas to tiešā vai netiešā pakļautībā;
+3) pieņemt vai sagatavot lēmumus par publiskas personas mantas iegūšanu, tās nodošanu citu personu īpašumā, lietošanā vai valdījumā, atsavināšanu citām personām vai apgrūtināšanu ar lietu vai saistību tiesībām, kā arī finanšu līdzekļu sadalīšanu.
 (2¹) Par valsts amatpersonām uzskatāmas arī personas, kuras, pildot amata pienākumus valsts drošības iestādēs, veic vismaz vienu no šādām darbībām:
 1) izlūkošanu;
 2) pretizlūkošanu;
