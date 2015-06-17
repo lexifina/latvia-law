@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Satversmes aizsardzības biroja amatpersonu izdienas pensiju likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2004, 2.nr.; 2007, 24.nr.; 2009, 14., 22.nr.; Latvijas Vēstnesis, 2010, 82.nr.).

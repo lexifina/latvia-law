@@ -1,0 +1,1 @@
+5. Par dienesta laiku amatpersonas statusā uzskata arī laiku līdz 2019. gada 1. februārim, kurā valsts drošības iestādes amatpersona bija darba tiesiskajās attiecībās ar attiecīgo valsts drošības iestādi. Amatpersonas atbrīvošana no darba valsts drošības iestādē līdz 2019. gada 1. februārim uzskatāma par atvaļināšanu no dienesta.

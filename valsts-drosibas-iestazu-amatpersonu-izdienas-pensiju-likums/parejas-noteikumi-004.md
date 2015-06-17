@@ -1,0 +1,1 @@
+4. Amatpersonām, kuras šā likuma spēkā stāšanās dienā atrodas dienestā valsts drošības iestādēs, izdienas stāžā ieskaita 80 procentus no kopējā apdrošināšanas stāža un tam pielīdzināmā stāža, kas noteikts saskaņā ar likumu "Par valsts pensijām", ja valsts drošības iestādēs nodienēti vai nostrādāti vismaz 10 gadi.

@@ -1,0 +1,1 @@
+3. Personām, kurām izdienas pensija ir piešķirta un tiek izmaksāta saskaņā ar Satversmes aizsardzības biroja amatpersonu izdienas pensiju likumu, saglabājas tiesības uz tādu pašu izdienas pensijas pārskatīšanu, apmēru un izmaksas kārtību, kāda tā bija noteikta līdz šā likuma spēkā stāšanās dienai.
