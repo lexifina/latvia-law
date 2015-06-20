@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2015.gada 16.jūnija noteikumi Nr.310 \"Noteikumi par Latvijas būvnormatīvu LBN 231-15 \"Dzīvojamo un publisko ēku apkure un ventilācija\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "119 (5437)",
+  "official_journal_page": null,
+  "official_journal_date": "2015-06-19",
+  "entry_into_force": "2015-06-20",
+  "notification_date": "2016-02-22",
+  "commission_reference": "MNE(2016)51401",
+  "nim_celex": "72010L0031LVA_234808",
+  "nim_id": "234808",
+  "transposes_celex": [
+    "32010L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/36d4dd7c-dc9b-44ea-b21a-13092daae4aa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
