@@ -1,0 +1,2 @@
+73.² pants. Tiesneša pārcelšana tiesas reorganizācijas gadījumā
+Ja rajona (pilsētas) tiesa saskaņā ar šo likumu tiek reorganizēta, Tieslietu padome pēc tieslietu ministra priekšlikuma lemj par rajona (pilsētas) tiesas tiesneša pārcelšanu (arī bez viņa piekrišanas) darbā citā rajona (pilsētas) tiesā tajā pašā apgabaltiesas darbības teritorijā. Tieslietu padome nosaka kārtību, kādā tiek sagatavots un Tieslietu padomes sēdē izskatīts attiecīgais priekšlikums.

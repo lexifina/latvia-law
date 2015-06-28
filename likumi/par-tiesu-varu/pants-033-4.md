@@ -1,0 +1,6 @@
+33.⁴ pants. Rajona (pilsētas) tiesu reorganizācija
+(1) Rajona (pilsētas) tiesu var pievienot citai rajona (pilsētas) tiesai, ja Tieslietu padome tam piekritusi. Tieslietu padome pēc tieslietu ministra priekšlikuma apstiprina rajona (pilsētas) tiesas reorganizācijas plānu.
+(2) Lietas, kuru izskatīšana pēc būtības ir uzsākta reorganizētajā tiesā pirms rajona (pilsētas) tiesas pievienošanas pabeigšanas, pēc tiesneša pārcelšanas darbā citā rajona (pilsētas) tiesā turpina izskatīt tas pats tiesnesis. Lietas, kuru izskatīšana pēc būtības nav uzsākta, nodod tai rajona (pilsētas) tiesai, kurai pievieno rajona (pilsētas) tiesu.
+(3) Reorganizētajā rajona (pilsētas) tiesā izskatītu lietu, kurā apelācijas vai kasācijas instance ir atcēlusi nolēmumu, nodod jaunai izskatīšanai tai rajona (pilsētas) tiesai, kurai pievienota reorganizētā rajona (pilsētas) tiesa, ja likumā nav noteikts citādi.
+(4) Ja reorganizētajā rajona (pilsētas) tiesā izskatītajā lietā ir izlemjami ar nolēmuma izpildi saistīti jautājumi, tos nosūta izskatīšanai tai rajona (pilsētas) tiesai, kurai pievienota reorganizētā rajona (pilsētas) tiesa, ja likumā nav noteikts citādi.
+(5) Reorganizētās rajona (pilsētas) tiesas priekšsēdētāja un priekšsēdētāja vietnieka pilnvaras izbeidzas līdz ar tiesas reorganizācijas pabeigšanu.

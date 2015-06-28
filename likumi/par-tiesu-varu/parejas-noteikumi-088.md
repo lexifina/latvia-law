@@ -1,0 +1,1 @@
+88. Grozījumi šā likuma 29.pantā attiecībā uz rajonu (pilsētu) tiesu izveidošanu un darbības teritorijas noteikšanu un grozījums 35.panta otrajā daļā attiecībā uz apgabaltiesu darbības teritoriju noteikšanu stājas spēkā 2015.gada 1.augustā.
