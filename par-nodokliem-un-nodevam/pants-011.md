@@ -42,7 +42,7 @@
 26) par jebkāda veida ieroča atļaujas, atkārtotas atļaujas, atļaujas dublikāta un Eiropas šaujamieroču apliecības izsniegšanu un Eiropas šaujamieroču apliecības derīguma termiņa pagarināšanu;
 27) par iekšējās drošības dienesta reģistrāciju;
 28) (izslēgts ar 13.12.2012. likumu);
-29) par gaisa kuģu un Jūras kodeksa 8.panta otrajā daļā noteikto reģistrējamo kuģu un kuģošanas līdzekļu reģistrāciju;
+29) (izslēgts ar 26.03.2015. likumu);
 30) par dzelzceļa infrastruktūras reģistrāciju;
 31) par pasažieru izlidošanu;
 32) (izslēgts ar 01.12.2009. likumu);
