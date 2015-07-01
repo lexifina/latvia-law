@@ -1,0 +1,4 @@
+26.¹ pants. Aģentūras administrēto pakalpojumu pieprasīšana
+(1) Sociālās apdrošināšanas pakalpojumu, valsts sociālo pabalstu un izdienas pensiju pieprasa un to piešķiršanai nepieciešamos dokumentus persona personīgi vai elektroniski iesniedz vienai no Aģentūras nodaļām. Ja attiecīgie dokumenti tiek nosūtīti elektroniski, tie noformējami atbilstoši elektroniskos dokumentus regulējošiem normatīvajiem aktiem.
+(2) Sociālās apdrošināšanas pakalpojuma (izņemot valsts pensiju) un valsts sociālā pabalsta pieprasījumu un to piešķiršanai nepieciešamos dokumentus persona var nosūtīt pa pastu vai iesniegt ar pilnvarotās personas starpniecību.
+(3) Vienotajā valsts un pašvaldību pakalpojumu portālā www.latvija.lv pieejamos Aģentūras administrētos pakalpojumus persona var pieprasīt, izmantojot portāla piedāvātos autentifikācijas līdzekļus.
