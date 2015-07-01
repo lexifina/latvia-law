@@ -1,0 +1,1 @@
+67. Šā likuma 12.panta ceturtā daļa, pārejas noteikumu 65. un 66.punkts un grozījumi šā likuma 12.panta pirmajā daļā saistībā ar to, ka apdrošināšanas iemaksu algu summas reālā pieauguma robeža, kas nepārsniedz 15 procentus, tiek piemērota ikgadējā apdrošināšanas iemaksu algas indeksa noteikšanā, stājas spēkā 2016.gada 1.janvārī.
